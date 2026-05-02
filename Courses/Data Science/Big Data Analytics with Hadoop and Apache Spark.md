@@ -97,18 +97,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The combined power of Spark and Hadoop Distributed File System (HDFS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
+#### [The combined power of Spark and Hadoop Distributed File System (HDFS)](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=0)** - [Instructor] Using a combination of Hadoop for storage and Spark for compute, provides unparalleled scalability and performance for analytics pipelines.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=0)** - [Instructor] Using a combination of [[Hadoop]] for storage and Spark for compute, provides unparalleled [[Scalability]] and performance for analytics pipelines.
 >
 > **[0:10](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=10)** To do this, it's important to understand how Hadoop and Spark work with each other and utilize the levers available.
 >
 > **[0:18](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=18)** We will only focus on using Hadoop and Spark together in this course.
 >
-> **[0:23](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=23)** We will use PySpark and Jupyter Notebooks for the examples.
+> **[0:23](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=23)** We will use [[PySpark]] and Jupyter Notebooks for the examples.
 >
 > **[0:27](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/the-combined-power-of-spark-and-hadoop-distributed-file-system-hdfs?u=76281980&t=27)** My name is Kumaran Ponnambalam.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hadoop]] (4), [[Analytics]] (2), [[Scalability]] (1), [[PySpark]] (1), power (1)
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Scalability]] (1), [[PySpark]] (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
@@ -127,16 +126,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apache Hadoop overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
+#### [Apache Hadoop overview](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=0)** - [Instructor] In this video, I will review the key features and the current state of technology for Apache Hadoop.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=0)** - [Instructor] In this video, I will review the key features and the current state of technology for Apache [[Hadoop]].
 >
-> **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=8)** Hadoop is an open source technology that started the big data wave.
+> **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=8)** Hadoop is an open source technology that started the [[Big Data]] wave.
 >
-> **[0:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=12)** It provides distributed data storage and computing using low cost hardware.
+> **[0:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=12)** It provides distributed [[Data Storage]] and computing using low cost [[Hardware]].
 >
 > **[0:18](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=18)** It can scale to petabytes of data and can run on clusters with hundreds of nodes.
 >
@@ -154,64 +152,62 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=59)** It is most suitable for enterprises with in-house data centers who want to host the data within their network.
 >
-> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=68)** Cloud alternatives like AWS S3, Google Cloud Storage and Azure Blob are becoming increasingly popular too.
+> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=68)** Cloud alternatives like AWS S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage and [[Microsoft Azure|Azure]] Blob are becoming increasingly popular too.
 >
 > **[1:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=77)** MapReduce, on the other hand, is becoming old.
 >
 > **[1:20](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=80)** While it scales horizontally over hundreds of compute nodes, it is very slow, as it primarily uses this storage for intermediate caching instead of memory.
 >
-> **[1:31](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=91)** Newer technologies like Apache Spark and Apache Flink have emerged that can execute the same processing at much faster rates.
+> **[1:31](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=91)** Newer technologies like [[Apache Spark]] and Apache Flink have emerged that can execute the same processing at much faster rates.
 >
 > **[1:40](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-hadoop-overview?u=76281980&t=100)** The newer technologies also support other capabilities and a growing library of connectors, which makes them a better choice than MapReduce.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Hadoop]] (5), [[Big Data]] (1), [[Hardware]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Hadoop]] (5), [[Data Storage]] (2), [[Big Data]] (1), [[Hardware]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** hdfs (4), aws (1)
 > **CLI Commands:** apache (3), aws (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apache Spark overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980)
+#### [Apache Spark overview](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=0)** - [Narrator] In this video, I will review some of the salient features of Apache Spark.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=0)** - [Narrator] In this video, I will review some of the salient features of [[Apache Spark]].
 >
-> **[0:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=6)** Apache Spark is an open source technology that started out as a more efficient alternative to Hadoop MapReduce.
+> **[0:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=6)** Apache Spark is an open source technology that started out as a more efficient alternative to [[Hadoop]] MapReduce.
 >
-> **[0:14](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=14)** It is a large scale distributed data processing engine.
+> **[0:14](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=14)** It is a large scale distributed [[Data Processing]] engine.
 >
 > **[0:18](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=18)** Spark sources data primarily in memory to speed up computations.
 >
-> **[0:23](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=23)** It has also grown to add a number of capabilities like batch processing, real-time, streaming, machine learning and graphs.
+> **[0:23](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=23)** It has also grown to add a number of capabilities like [[Batch Processing]], [[Real-Time]], streaming, machine learning and graphs.
 >
-> **[0:32](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=32)** Spark can be programmed with Scala, Java, Python, and R.
+> **[0:32](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=32)** Spark can be programmed with [[Scala]], [[Java]], [[Python (Programming Language)|Python]], and R.
 >
-> **[0:37](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=37)** Its performance features and programming support makes it the most popular big data technology today.
+> **[0:37](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/apache-spark-overview?u=76281980&t=37)** Its performance features and programming support makes it the most popular [[Big Data]] technology today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (2), data (2), [[Hadoop]] (1), [[Batch Processing]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Hadoop]] (1), [[Data Processing]] (1), [[Batch Processing]] (1), [[Real-Time]] (1)
 > **CLI Commands:** apache (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Integrating Spark and Hadoop
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980)
+#### [Integrating Spark and Hadoop](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=0)** - [Instructor] In this video, I will review the benefits of using Hadoop and Spark together for big data analytics.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=0)** - [Instructor] In this video, I will review the benefits of using [[Hadoop]] and Spark together for [[Big Data Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=8)** Why is the combination of Hadoop and Spark so powerful?
 >
-> **[0:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=12)** HDFS provides large-scale distributed data storage.
+> **[0:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=12)** HDFS provides large-scale distributed [[Data Storage]].
 >
 > **[0:16](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=16)** Spark provides large-scale fast processing of the same data.
 >
-> **[0:20](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=20)** Together, they make an excellent combination for building data pipelines.
+> **[0:20](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=20)** Together, they make an excellent combination for building [[Data Pipelines]].
 >
 > **[0:25](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=25)** Spark is well integrated with Hadoop natively and makes optimal use of that integration.
 >
@@ -225,26 +221,25 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=55)** So my recommendation, especially for enterprise deployments, is to utilize the processing power of Spark with the scalable storage of HDFS to build high performance processing jobs.
 >
-> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=68)** In this course, I will demonstrate the strengths of this integration, and provide samples and best practices for building big data pipelines with Spark and Hadoop.
+> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/integrating-hadoop-and-spark?u=76281980&t=68)** In this course, I will demonstrate the strengths of this integration, and provide samples and best practices for building [[Big Data]] pipelines with Spark and Hadoop.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Hadoop]] (4), [[Big Data Analytics]] (1), parallel (1), management (1)
+> **Frameworks & Libraries:** [[Hadoop]] (4), [[Big Data Analytics]] (1), [[Data Storage]] (1), [[Data Pipelines]] (1), [[Big Data]] (1)
 > **Env Vars:** hdfs (5), yarn (1)
 > **CLI Commands:** make (1), yarn (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980)
+#### [Using exercise files](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=0)** - [Instructor] Let's set up the required software for use in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=4)** We will use PySpark for our programming exercises using the built-in Spark instance that comes with PySpark.
+> **[0:04](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=4)** We will use [[PySpark]] for our programming exercises using the built-in Spark instance that comes with PySpark.
 >
-> **[0:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=13)** To install PySpark and other Python requirements, let's install Anaconda Navigator first.
+> **[0:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=13)** To install PySpark and other [[Python (Programming Language)|Python]] requirements, let's install Anaconda Navigator first.
 >
 > **[0:19](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=19)** We can download Anaconda from this website shown here.
 >
@@ -264,11 +259,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=61)** Use the command prompt to navigate to the folder where you have downloaded the exercise files.
 >
-> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=68)** On Windows, please use PowerShell for this purpose.
+> **[1:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=68)** On [[Windows]], please use [[Powershell]] for this purpose.
 >
 > **[1:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=73)** PySpark has some environment dependencies that also need to be set up.
 >
-> **[1:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=77)** First, it needs Java 17.
+> **[1:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=77)** First, it needs [[Java]] 17.
 >
 > **[1:21](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=81)** I have already installed Java 17 on my system.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=157)** If you are using Windows, then follow the additional instructions mentioned here for Windows.
 >
-> **[2:42](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=162)** Copy the hadoop folder in the Exercise Files to a folder like C:\hadoop.
+> **[2:42](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=162)** Copy the [[Hadoop]] folder in the Exercise Files to a folder like C:\hadoop.
 >
 > **[2:49](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/using-exercise-files?u=76281980&t=169)** Create a HADOOP_HOME environment variable pointing to this folder.
 >
@@ -332,8 +327,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
+#### [Storage formats](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -343,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=11)** HDFS supports a variety of storage formats, each with its own advantages and use cases.
 >
-> **[0:18](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=18)** The list includes raw text files, structured text files like CSV, XML and JSON, native sequence files, Avro formatted files, ORC files, and Parquet files.
+> **[0:18](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=18)** The list includes raw text files, structured text files like CSV, XML and [[JSON]], native sequence files, Avro formatted files, ORC files, and Parquet files.
 >
 > **[0:32](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=32)** I will review the most popular ones for analytics now.
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=86)** They're ideal for situations that require multi-language support.
 >
-> **[1:31](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=91)** Parquet file store data column by column, similar to columnar databases.
+> **[1:31](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=91)** Parquet file store data column by column, similar to columnar [[Databases]].
 >
 > **[1:36](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=96)** This means each column can be read separately from disc without reading other columns.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=106)** Parquet files are both compressible and splittable, and hence our performance and storage optimized.
 >
-> **[1:53](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=113)** They also can support nested data structures.
+> **[1:53](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=113)** They also can support nested [[Data Structures]].
 >
 > **[1:56](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storage-formats?u=76281980&t=116)** Parquet files are ideal for batch analytics jobs for these reasons.
 >
@@ -393,19 +387,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (3), parallel (2), [[JSON]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Databases]] (1), [[Data Structures]] (1)
 > **Env Vars:** hdfs (3), csv (2), xml (1), json (1), orc (1)
 > **Analogies:** similar to (2)
 > **Cross-References:** later in (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compression
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980)
+#### [Compression](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=0)** - [Instructor] When storing big data, compressing data is important as it saves significant disc space and hence reduces operational costs.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=0)** - [Instructor] When storing [[Big Data]], compressing data is important as it saves significant disc space and hence reduces operational costs.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=9)** In this video, I will review the various file compression options available.
 >
@@ -413,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=21)** You can also develop your own codec if required.
 >
-> **[0:25](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=25)** Snappy is a compression codec developed by Google.
+> **[0:25](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=25)** Snappy is a compression codec developed by [[Google]].
 >
 > **[0:29](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/compression?u=76281980&t=29)** It provides moderate compression, but excellent read-write performance.
 >
@@ -447,15 +440,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), parallel (2), [[Big Data]] (1), [[Google]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Google]] (1)
 > **Env Vars:** lzo (2), gzip (2)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980)
+#### [Partitioning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=11)** Why do we need partitioning?
 >
-> **[0:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=13)** Relational databases speed up data access by using indexes on columns used in filter conditions.
+> **[0:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=13)** [[Relational Databases]] speed up data access by using indexes on columns used in filter conditions.
 >
 > **[0:21](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=21)** HDFS does not have the concept of an index.
 >
@@ -481,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=55)** How does partitioning work?
 >
-> **[0:58](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=58)** When we create a HDFS file, specifying a partition key, hadoop create a separate directory per partition.
+> **[0:58](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=58)** When we create a HDFS file, specifying a partition key, [[Hadoop]] create a separate directory per partition.
 >
 > **[1:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/partitioning?u=76281980&t=66)** Records corresponding to a specific partition key is stored in the same directory.
 >
@@ -501,15 +493,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (3), [[Relational Databases]] (1), [[Hadoop]] (1), next (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Hadoop]] (1)
 > **Env Vars:** hdfs (3)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bucketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/bucketing?u=76281980)
+#### [Bucketing](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/bucketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,18 +524,17 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/bucketing?u=76281980&t=64)** Experiment with multiple bucket counts to find optimal read-write performance for the specific use case.
 >
-> **[1:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/bucketing?u=76281980&t=72)** In the next video, I will review some best practices for data storage.
+> **[1:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/bucketing?u=76281980&t=72)** In the next video, I will review some best practices for [[Data Storage]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-storage?u=76281980)
+#### [Best practices for data storage](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +562,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Env Vars:** hdfs (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** required to (1)
@@ -583,14 +572,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading external files into Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
+#### [Reading external files into Spark](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980&t=0)** - [Instructor] In this chapter, I will demonstrate options available to ingest data into HDFS with Spark.
 >
-> **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980&t=8)** The examples for this chapter are available in the Notebook, code 03 XX data ingestion with Spark and HDFS.
+> **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980&t=8)** The examples for this chapter are available in the Notebook, code 03 XX [[Data Ingestion]] with Spark and HDFS.
 >
 > **[0:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-external-files-into-spark?u=76281980&t=17)** For all the examples, we need a Spark session.
 >
@@ -620,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (1)
 > **Env Vars:** hdfs (4), csv (1)
 > **File Paths:** salesorders.csv (2)
 > **CLI Commands:** make (1)
@@ -629,8 +617,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing to HDFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/writing-to-hdfs?u=76281980)
+#### [Writing to HDFS](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/writing-to-hdfs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -668,7 +655,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), parallel (1), next (1)
 > **Code Identifiers:** raw_parquet (2), rawsalesdata (1), dummy_hdfs (1)
 > **Env Vars:** csv (1), hdfs (1)
 > **Cross-References:** in the next (1)
@@ -676,8 +662,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parallel writes with partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980)
+#### [Parallel writes with partitioning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980&t=11)** We will use a partitioned HDFS store based on the product column.
 >
-> **[0:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980&t=17)** There are only four unique products in the dataset, so it lends itself to easier partitioning.
+> **[0:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980&t=17)** There are only four unique [[Microsoft Products|products]] in the dataset, so it lends itself to easier partitioning.
 >
 > **[0:23](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-partitioning?u=76281980&t=23)** We simply need to add the partitionBy method in the write process to trigger partitioning while storing data.
 >
@@ -707,15 +692,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (2), parallel (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Code Identifiers:** partitioned_parquet (2), partitionby (1)
 > **Env Vars:** hdfs (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parallel writes with bucketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980)
+#### [Parallel writes with bucketing](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980&t=44)** Let's execute this code now.
 >
-> **[0:49](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980&t=49)** We can see the list of databases and the locations using the spark list databases method.
+> **[0:49](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980&t=49)** We can see the list of [[Databases]] and the locations using the spark list databases method.
 >
 > **[0:56](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/parallel-writes-with-bucketing?u=76281980&t=56)** This shows the folder where the actual file is stored.
 >
@@ -747,17 +731,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), product (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2)
 > **Env Vars:** htfs (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for ingestion
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980)
+#### [Best practices for ingestion](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=1)** - [Instructor] Let's review some of the best practices for data ingestion with Hadoop and Spark.
+> **[0:01](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=1)** - [Instructor] Let's review some of the best practices for [[Data Ingestion]] with [[Hadoop]] and Spark.
 >
 > **[0:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=6)** Enable parallelism for maximum right performance.
 >
@@ -769,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=28)** While reading external data into Spark, prefer sources that can enable parallelism.
 >
-> **[0:33](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=33)** This includes JDBC and Kafka.
+> **[0:33](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=33)** This includes [[Java Database Connectivity (JDBC)|JDBC]] and Kafka.
 >
 > **[0:36](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-ingestion?u=76281980&t=36)** Break down large files into smaller files if reading from disc.
 >
@@ -779,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Hadoop]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Ingestion]] (2), [[Hadoop]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
 > **Env Vars:** append (1), jdbc (1), hdfs (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -789,14 +772,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How Spark works
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
+#### [How Spark works](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=0)** - [Instructor] In order to optimize an Apache Spark pipeline, it is important to understand how Spark works internally.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=0)** - [Instructor] In order to optimize an [[Apache Spark]] pipeline, it is important to understand how Spark works internally.
 >
-> **[0:09](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=9)** When design decisions are made, they need to be analyzed on how they impact scalability and performance.
+> **[0:09](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=9)** When design decisions are made, they need to be analyzed on how they impact [[Scalability]] and performance.
 >
 > **[0:16](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=16)** In this video, I will review how Spark executes a pipeline and optimizes it.
 >
@@ -832,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=119)** The partitions are merged and sent back to the driver.
 >
-> **[2:03](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=123)** From here, they can be stored into external destination databases.
+> **[2:03](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=123)** From here, they can be stored into external destination [[Databases]].
 >
 > **[2:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/how-spark-works?u=76281980&t=128)** Spark has an optimizer that analyzes the steps needed to process data and optimizes for performance and resources.
 >
@@ -852,12 +834,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), parallel (3), node (2), [[Apache Spark]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[Scalability]] (1), [[Databases]] (1)
 > **CLI Commands:** node (2), apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading HDFS files with schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-hdfs-files-with-schema?u=76281980)
+#### [Reading HDFS files with schema](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-hdfs-files-with-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -889,17 +870,16 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-hdfs-files-with-schema?u=76281980&t=67)** It shows the location of the file and the schema that is used to read the files.
 >
-> **[1:11](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-hdfs-files-with-schema?u=76281980&t=71)** We will examine the rest of the contents in future examples as we exercise them.
+> **[1:11](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-hdfs-files-with-schema?u=76281980&t=71)** We will examine the [[Representational State Transfer (REST)|rest]] of the contents in future examples as we exercise them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** raw_parquet (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading partitioned data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-partitioned-data?u=76281980)
+#### [Reading partitioned data](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-partitioned-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,21 +919,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (3), next (1)
 > **Code Identifiers:** partition_parquet (1)
 > **Versions:** 4.3 (1)
 > **Cross-References:** later in (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading bucketed data
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980)
+#### [Reading bucketed data](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=0)** - [Instructor] In this video, I will show you how Spark reads bucketed data stored in Hive.
 >
-> **[0:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=6)** Spark does not persist to the Hive catalog between multiple Spark session instances when it is being used in PySpark on a notebook.
+> **[0:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=6)** Spark does not persist to the Hive catalog between multiple Spark session instances when it is being used in [[PySpark]] on a notebook.
 >
 > **[0:16](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=16)** In a product system, we can use a persisted catalog with Hive Metastore, though.
 >
@@ -961,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=27)** Then we will create a view on it.
 >
-> **[0:29](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=29)** Once a view is created, we can run SQL statements against this view.
+> **[0:29](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=29)** Once a view is created, we can run [[SQL]] statements against this view.
 >
 > **[0:34](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/reading-bucketed-data?u=76281980&t=34)** We will query for all the records where the product is webcam and print the results.
 >
@@ -973,13 +951,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (2), [[PySpark]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[PySpark]] (1), [[SQL]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for data extraction
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-extraction?u=76281980)
+#### [Best practices for data extraction](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-extraction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,7 +986,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), parallel (2), [[Analytics]] (1), next (1)
 > **Env Vars:** hdfs (2), cpu (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
@@ -1021,16 +997,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pushing down projections
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
+#### [Pushing down projections](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=0)** - [Instructor] In this chapter, we will review some of the techniques that can be used during data processing to optimize Spark and HDFS performance.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=0)** - [Instructor] In this chapter, we will review some of the techniques that can be used during [[Data Processing]] to optimize Spark and HDFS performance.
 >
 > **[0:09](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=9)** The code for this chapter is available in the notebook, code 05 XX Optimizing Data Processing.
 >
-> **[0:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=17)** We create a spark session first to use in the rest of the chapter.
+> **[0:17](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=17)** We create a spark session first to use in the [[Representational State Transfer (REST)|rest]] of the chapter.
 >
 > **[0:22](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=22)** We set default parallelism to eight.
 >
@@ -1040,7 +1015,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=37)** Typically, we read an entire file with all the columns into memory and then only use a subset of columns later for computations.
 >
-> **[0:46](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=46)** During lazy evaluation, spark is smart enough to identify the subset of columns that will actually be used and then only fetch them into memory.
+> **[0:46](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=46)** During lazy evaluation, spark is smart enough to identify the subset of columns that will actually be used and then only [[Fetch]] them into memory.
 >
 > **[0:57](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-projections?u=76281980&t=57)** This is called projection push down.
 >
@@ -1060,19 +1035,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** hdfs (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pushing down filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-filters?u=76281980)
+#### [Pushing down filters](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-filters?u=76281980&t=0)** - [Instructor] Similar to projection push downs, Spark is capable of identifying a subset of rows that are actually required for processing and fetch them to memory.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-filters?u=76281980&t=0)** - [Instructor] Similar to projection push downs, Spark is capable of identifying a subset of rows that are actually required for processing and [[Fetch]] them to memory.
 >
 > **[0:10](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/pushing-down-filters?u=76281980&t=10)** If the subset of rows correspond to specific partitions, Spark will only read those partitions.
 >
@@ -1110,14 +1084,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Fetch]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing partitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/managing-partitions?u=76281980)
+#### [Managing partitions](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/managing-partitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,7 +1150,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (3), node (1)
 > **Env Vars:** hdfs (1), rdd (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** node (1)
@@ -1186,8 +1158,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980)
+#### [Improving joins](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,7 +1172,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980&t=28)** One of them is the broadcast join.
 >
-> **[0:30](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980&t=30)** If the size of one of the joined data frames is less than the spark.sql.autoBroadcastJoinThreshold, then Spark broadcast the entire data frame to all the executor nodes where the other data frame resides.
+> **[0:30](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980&t=30)** If the size of one of the joined data frames is less than the spark.[[SQL]].autoBroadcastJoinThreshold, then Spark broadcast the entire data frame to all the executor nodes where the other data frame resides.
 >
 > **[0:46](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/improving-joins?u=76281980&t=46)** Then, the join itself becomes a local activity within the executor, since the entire copy of the smaller data frame is available in each of the nodes.
 >
@@ -1227,7 +1198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Analytics]] (1), [[SQL]] (1), parallel (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** autobroadcastjointhreshold (1), product_vendor (1), product_data (1), sales_data (1)
 > **File Paths:** spark.sql (1), product_vendor.csv (1)
 > **CLI Commands:** make (1)
@@ -1235,8 +1206,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing intermediate results
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980)
+#### [Storing intermediate results](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1232,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980&t=61)** We will compare the execution plan before and after intermediate caching.
 >
-> **[1:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980&t=66)** First, we do a filter for customer equals Google on the coalesced sales data data frame.
+> **[1:06](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980&t=66)** First, we do a filter for customer equals [[Google]] on the coalesced sales data data frame.
 >
 > **[1:12](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/storing-intermediate-results?u=76281980&t=72)** Then we use the persist function to store the intermediate coalesced sales data data frame to disk.
 >
@@ -1282,12 +1252,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Definitions:** is a  (2), means that (2)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-processing?u=76281980)
+#### [Best practices for data processing](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/best-practices-for-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Analytics]] (2), next (2), product (2)
 > **Definitions:** is a  (2), means that (2), is an  (1)
 > **Env Vars:** rdd (3)
 > **UI Navigation:** go to (1)
@@ -1358,12 +1326,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Problem definition
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
+#### [Problem definition](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980&t=0)** - [Instructor] In this chapter, we will take up a use-case problem and build a solution using Apache Spark and Hadoop.
+> **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980&t=0)** - [Instructor] In this chapter, we will take up a use-case problem and build a solution using [[Apache Spark]] and [[Hadoop]].
 >
 > **[0:08](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/problem-definition?u=76281980&t=8)** During this process, we will leverage various tools and techniques we learned during the course.
 >
@@ -1405,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Apache Spark]] (1), [[Hadoop]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[Hadoop]] (1)
 > **Env Vars:** hdfs (2), csv (1), gzip (1)
 > **CLI Commands:** find (2), apache (1)
 > **File Paths:** student_scores.csv (1)
@@ -1413,8 +1380,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/data-loading?u=76281980)
+#### [Data loading](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/data-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,14 +1422,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Analytics]] (1)
 > **Env Vars:** hdfs (1), csv (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** student_data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Total score analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/total-score-analytics?u=76281980)
+#### [Total score analytics](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/total-score-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1489,15 +1453,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Analytics]] (1)
 > **Code Identifiers:** withcolumn (1)
 > **Env Vars:** hdfs (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Average score analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/average-score-analytics?u=76281980)
+#### [Average score analytics](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/average-score-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,14 +1485,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Top student analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/top-student-analytics?u=76281980)
+#### [Top student analytics](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/top-student-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1564,7 +1524,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1574,18 +1533,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with big data analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)
+#### [Continuing on with big data analytics](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=0)** - [Kumaran] Now that you have taken this course, you can take your learning even further.
 >
-> **[0:05](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=5)** Learn more about the various capabilities available in Apache Spark, including SQL, machine learning, and graphs.
+> **[0:05](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=5)** Learn more about the various capabilities available in [[Apache Spark]], including [[SQL]], machine learning, and graphs.
 >
 > **[0:13](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=13)** Run the exercises on a Spark cluster with multiple nodes, and analyze its performance and bottlenecks.
 >
-> **[0:21](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=21)** Build an end-to-end live project for Spark Analytics for Hadoop in your organization.
+> **[0:21](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=21)** Build an end-to-end live project for Spark Analytics for [[Hadoop]] in your organization.
 >
 > **[0:27](https://www.linkedin.com/learning/big-data-analytics-with-hadoop-and-apache-spark-24658440/continuing-on-with-big-data-analytics?u=76281980&t=27)** This will give you the hands-on experience that can help build your skillset.
 >
@@ -1597,7 +1555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (1), [[SQL]] (1), [[Analytics]] (1), [[Hadoop]] (1), data (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[SQL]] (1), [[Hadoop]] (1)
 > **CLI Commands:** apache (1), find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [kumaran] (1)

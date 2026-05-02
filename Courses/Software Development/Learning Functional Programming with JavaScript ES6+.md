@@ -108,16 +108,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional programming will change the way you think about code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
+#### [Functional programming will change the way you think about code](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=0)** - Writing code using functional programming concepts is the single most important approach you can take to ensure your applications are both maintainable and scalable.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=0)** - Writing code using [[Functional Programming]] concepts is the single most important approach you can take to ensure your applications are both maintainable and scalable.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=8)** An increasing number of developers are switching from object-oriented programming to functional programming as a way to minimize the potential for bugs in their code while maximizing its readability and reusability.
+> **[0:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=8)** An increasing number of developers are switching from [[Object-Oriented Programming (OOP)|object-oriented programming]] to functional programming as a way to minimize the potential for bugs in their code while maximizing its readability and reusability.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=21)** I'm Shaun Wassell, and in this course I'll show you the basics of functional programming in JavaScript.
+> **[0:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=21)** I'm Shaun Wassell, and in this course I'll show you the basics of functional programming in [[JavaScript]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/functional-programming-will-change-the-way-you-think-about-code?u=76281980&t=26)** So let's jump right in and see how to take your JavaScript code to a whole new level.
 
@@ -126,14 +125,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Functional Programming]] (3), [[JavaScript]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Speakers:** - writing (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, there are a few prerequisites that it would be helpful for you to know.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=6)** The first is a basic knowledge of JavaScript and ideally, some experience with ES6 syntax.
+> **[0:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=6)** The first is a basic knowledge of [[JavaScript]] and ideally, some experience with ES6 syntax.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=11)** If you're not already comfortable with ES6 syntax, it's not hard to learn.
 >
@@ -143,11 +141,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=25)** All we'll be using for this course is basic commands like mkdir to make directories, cd to change directories, and ls to see the contents of a directory, as well as a few commands specific to NodeJS.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=37)** Keep in mind also that if you're on Windows, the commands might be a little different.
+> **[0:37](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=37)** Keep in mind also that if you're on [[Windows]], the commands might be a little different.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=41)** There are articles out there like this one that show many of the basic Linux commands and their Windows equivalents.
+> **[0:41](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=41)** There are articles out there like this one that show many of the basic [[Linux]] commands and their Windows equivalents.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=47)** And finally, since I'll be using it as a reference point throughout this course, a basic knowledge of object-oriented programming concepts would be helpful to have as well.
+> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=47)** And finally, since I'll be using it as a reference point throughout this course, a basic knowledge of [[Object-Oriented Programming (OOP)|object-oriented programming]] concepts would be helpful to have as well.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/what-you-should-know?u=76281980&t=55)** And even if you're not familiar with object-oriented programming, it's not a big deal.
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[JavaScript]] (1), cd (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[JavaScript]] (1), [[Linux]] (1)
 > **CLI Commands:** mkdir (1), make (1), cd (1), ls (1)
 > **Env Vars:** es6 (3)
 > **Tools:** command line (1)
@@ -170,12 +168,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980)
+#### [Basic setup](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=0)** - [Instructor] All right, well, one last thing before we get started here is, depending on how you're planning on following along, assuming, of course, that you are planning on following along, you're going to want to make sure that you have the latest version of Node.js installed.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=0)** - [Instructor] All right, well, one last thing before we get started here is, depending on how you're planning on following along, assuming, of course, that you are planning on following along, you're going to want to make sure that you have the latest version of [[Node.js]] installed.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=15)** And you can do that by heading over to Node.js's website.
 >
@@ -189,11 +186,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=44)** You can see one minor version behind, but we'll just go with that.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=47)** And you should also be able to run npm -v and see a version that looks something like what I have here.
+> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=47)** And you should also be able to run [[npm]] -v and see a version that looks something like what I have here.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=54)** Now, that's if you're going to follow along locally.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=58)** If you want to follow along using Codespaces, what you're going to want to do is head over to the repo for this course, and it might look a little bit different.
+> **[0:58](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=58)** If you want to follow along using [[Codespaces]], what you're going to want to do is head over to the repo for this course, and it might look a little bit different.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basic-setup?u=76281980&t=66)** The name might not be quite the same as what you see here, but you should just be able to click on the Code dropdown for that.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), [[Codespaces]] (4), [[npm]] (2), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[Codespaces]] (4), [[npm]] (2)
 > **CLI Commands:** node (5), make (2), npm (2)
 > **File Paths:** node.js (4)
 > **UI Navigation:** dropdown (1), go to (1)
@@ -233,18 +230,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The goal of functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
+#### [The goal of functional programming](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=0)** - [Narrator] So, the big question most people ask when they hear about how useful functional programming is is, "What exactly is functional programming?"
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=0)** - [Narrator] So, the big question most people ask when they hear about how useful [[Functional Programming]] is is, "What exactly is functional programming?"
 >
 > **[0:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=7)** Well, to answer this question, it might be helpful to consider the question of why we would want to use functional programming in the first place.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=15)** In other words, what are the problems that functional programming sets out to solve?
 >
-> **[0:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=20)** Well, if you currently use an object-oriented programming language, such as Java or C++, or especially a procedural programming language such as C, you've probably run into this problem before.
+> **[0:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=20)** Well, if you currently use an [[Object-Oriented Programming (OOP)|object-oriented programming]] language, such as [[Java]] or C++, or especially a procedural programming language such as C, you've probably run into this problem before.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=31)** There are certain bugs that are difficult to track down and fix, partly because they're hard to recreate, it takes a long, convoluted series of steps to make them show up, and partly because even when you figure out how to recreate them, it's next to impossible for you to keep track of all the changes that occur while the program is running.
 >
@@ -278,25 +274,24 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=197)** Where could a bug possibly be hiding in functions like this?
 >
-> **[3:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=201)** We'll look further into the details of functional programming along with the many differences between it and object-oriented programming throughout the rest of the course.
+> **[3:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=201)** We'll look further into the details of functional programming along with the many differences between it and object-oriented programming throughout the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[3:29](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-goal-of-functional-programming?u=76281980&t=209)** Since many of you are probably most familiar with object-oriented programming, I'll continue to use it in a lot of comparisons with functional programming to clarify the concepts I show you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Programming]] (3), [[Java]] (1), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (10), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (6), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** suv (1)
 > **Speakers:** - [narrator] (1)
 
-#### Declarative vs. imperative programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980)
+#### [Declarative vs. imperative programming](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=0)** - [Instructor] One of the first things you'll want to understand about functional programming is that it's a declarative style of programming as opposed to things like object-oriented programming and procedural programming, which are imperative styles of programming.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=0)** - [Instructor] One of the first things you'll want to understand about [[Functional Programming]] is that it's a declarative style of programming as opposed to things like [[Object-Oriented Programming (OOP)|object-oriented programming]] and procedural programming, which are imperative styles of programming.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=12)** What this means is that functional programming puts more focus on what things are as opposed to how to get them.
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=61)** First, we set X equal to zero.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=63)** Second, we add the first number in the array to X, and then we repeat step two for the rest of the numbers in the array and finally, we divide X by the length of the array.
+> **[1:03](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=63)** Second, we add the first number in the array to X, and then we repeat step two for the [[Representational State Transfer (REST)|rest]] of the numbers in the array and finally, we divide X by the length of the array.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/declarative-vs-imperative-vs-programming?u=76281980&t=75)** Now, unless you've worked with functional programming before, this is probably how you're used to writing programs, thinking of how to get the result.
 >
@@ -342,18 +337,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (7), [[Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (7), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutability
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980)
+#### [Immutability](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=0)** - [Narrator] The first major concept of functional programming is immutability, and it's a concept that may surprise a lot of people at first.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=0)** - [Narrator] The first major concept of [[Functional Programming]] is immutability, and it's a concept that may surprise a lot of people at first.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=7)** Most programmers learned early on that you could assign a value to a variable.
 >
@@ -361,11 +355,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=25)** However, in functional programming, this is not allowed.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=28)** When we say that X is equal to five, we mean that for the rest of the program, X will only ever be five.
+> **[0:28](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=28)** When we say that X is equal to five, we mean that for the [[Representational State Transfer (REST)|rest]] of the program, X will only ever be five.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=33)** There's no way we can change it.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=36)** In short, immutability means that most of the values in a program are constant, which in JavaScript means using the constant keyword instead of the var or let keywords.
+> **[0:36](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=36)** In short, immutability means that most of the values in a program are constant, which in [[JavaScript]] means using the constant keyword instead of the var or let keywords.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=46)** Another way to think about it is this.
 >
@@ -407,7 +401,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=121)** What if in a certain theoretical program we have an employee and we want to raise their salary?
 >
-> **[2:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=127)** Well, in object-oriented programming, of course, we can just change it directly, usually by calling a member function like this.
+> **[2:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=127)** Well, in [[Object-Oriented Programming (OOP)|object-oriented programming]], of course, we can just change it directly, usually by calling a member function like this.
 >
 > **[2:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=135)** In functional programming, on the other hand, we would instead define a new constant that represents the updated data and then use this constant in our future calculations.
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=172)** As programs increase in size to include thousands or even millions of individual variables, this can lead to hard-to-find bugs and an overall fragile code base that programmers are afraid to make changes to.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=184)** This is a problem that even test-driven development can't solve completely, since the task of testing all possible states that a program might get itself into is nearly impossible in programs of considerable size.
+> **[3:04](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=184)** This is a problem that even [[Test-Driven Development]] can't solve completely, since the task of testing all possible states that a program might get itself into is nearly impossible in programs of considerable size.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/immutability?u=76281980&t=196)** In functional programming, on the other hand, we start off with an immutable set of data as a single source of truth, and then we use functions to combine this data piece by piece, and transform it into useful information.
 >
@@ -447,21 +441,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (8), data (7), [[JavaScript]] (2), [[Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (8), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Test-Driven Development]] (1)
 > **Definitions:** is a  (3), means that (1), we call this (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1), imagine (1)
 > **Versions:** 3.14159 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Separation of data and functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980)
+#### [Separation of data and functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=0)** - [Instructor] The second main concept of functional programming is the separation of data and functions.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=0)** - [Instructor] The second main concept of [[Functional Programming]] is the separation of data and functions.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=5)** This is a case where functional programming is directly in contrast with object-oriented programming, where data and functions are almost always grouped together.
+> **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=5)** This is a case where functional programming is directly in contrast with [[Object-Oriented Programming (OOP)|object-oriented programming]], where data and functions are almost always grouped together.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=13)** Let's see what this looks like.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=37)** In object-oriented programming, this data is usually wrapped up inside objects as member variables, and the only way we can access it is using an object's methods.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=47)** In functional programming on the other hand, this data is represented by simple arrays and hashes, or in this case, JavaScript objects.
+> **[0:47](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=47)** In functional programming on the other hand, this data is represented by simple arrays and hashes, or in this case, [[JavaScript]] objects.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/separation-of-data-and-functions?u=76281980&t=55)** And a function is any operation that we can apply to our data to convert it into useful information.
 >
@@ -497,20 +490,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Functional Programming]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), game (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (4), [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Converting object-oriented to functional code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980)
+#### [Converting object-oriented to functional code](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=0)** - If you're coming from an object-oriented background, it may seem strange to you that functional programming places an emphasis on keeping data and functions separate.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=0)** - If you're coming from an object-oriented background, it may seem strange to you that [[Functional Programming]] places an emphasis on keeping data and functions separate.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=8)** Since one of the central concepts of object-oriented programming is that we put data and the functions related to that data together in objects.
+> **[0:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=8)** Since one of the central concepts of [[Object-Oriented Programming (OOP)|object-oriented programming]] is that we put data and the functions related to that data together in objects.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=16)** To understand why it makes sense to keep data and functions separate and functional programming, it might be helpful to think about why we keep them together in object-oriented programming in the first place.
 >
@@ -524,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=54)** Now, if we allow programmers to change these properties directly, they have to remember to reset initials every time they change either first name or last name, which they're almost certain to forget somewhere, which introduces bugs in the program.
 >
-> **[1:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=67)** The most popular solution to this is to make the variables private, which in JavaScript is usually done by just adding an underscore before the variable name and telling developers not to touch it, and then we allow programmers access to the variables only through functions, which make sure that the variables are kept up to date.
+> **[1:07](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=67)** The most popular solution to this is to make the variables private, which in [[JavaScript]] is usually done by just adding an underscore before the variable name and telling developers not to touch it, and then we allow programmers access to the variables only through functions, which make sure that the variables are kept up to date.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/converting-object-oriented-to-functional-code?u=76281980&t=86)** In functional programming however, we don't need to worry about making all our data private because programmers can't alter the data in unwanted ways.
 >
@@ -556,25 +548,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Functional Programming]] (6), [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
+> **Frameworks & Libraries:** [[Functional Programming]] (6), [[JavaScript]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
 > **Analogies:** such as (3), imagine (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Warnings:** note that (1)
 > **Speakers:** - if (1)
 
-#### First-class functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980)
+#### [First-class functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=0)** - [Instructor] The third major concept of functional programming is something called first-class functions.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=0)** - [Instructor] The third major concept of [[Functional Programming]] is something called first-class functions.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=5)** This is where things really start to get interesting and where the power and flexibility of functional programming really starts to shine through.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=12)** So what exactly do we mean when we talk about first-class functions?
 >
-> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=16)** Well, in object-oriented programming, we generally treat data and functions as different types of entities.
+> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=16)** Well, in [[Object-Oriented Programming (OOP)|object-oriented programming]], we generally treat data and functions as different types of entities.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=23)** We would probably never think of, for example, creating an array of functions or passing functions as arguments to other functions, or even stranger, returning functions from other functions.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=125)** What could we possibly gain from doing weird things like having arrays of functions or passing functions as arguments?
 >
-> **[2:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=131)** In fact, this simple change in mindset toward functions opens up a world of possibilities in terms of software design.
+> **[2:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=131)** In fact, this simple change in mindset toward functions opens up a world of possibilities in terms of [[Software Design]].
 >
 > **[2:18](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/first-class-functions?u=76281980&t=138)** It gives us a lot of flexibility and greatly increases our opportunities for code reuse.
 >
@@ -624,25 +615,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (6), data (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), power (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Software Design]] (1)
 > **Definitions:** in other words (3), is a  (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring immutability with ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980)
+#### [Ensuring immutability with ESLint](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=0)** - [Instructor] So I talked in a previous video about the importance of immutability in functional programming.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=0)** - [Instructor] So I talked in a previous video about the importance of immutability in [[Functional Programming]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=5)** Immutability allows us to avoid the many bugs that occur in computer programs as a side effect of state change.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=11)** It also means that we don't have to worry about using private variables to avoid changes coming from unexpected places, since we simply can't make changes to any piece of data.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=21)** That being said, if we want to ensure complete immutability in JavaScript, there's something we need to keep in mind.
+> **[0:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=21)** That being said, if we want to ensure complete immutability in [[JavaScript]], there's something we need to keep in mind.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=27)** While using the const keyword prevents us from directly changing the value of a piece of data, for example, if we say const X equals five, we can't simply say X equals six, since this will throw an error.
 >
@@ -662,11 +652,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=98)** And the same is true for objects as well.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=99)** If we define an object called person, const person, with name and age properties, name John Doe, age 34, we can never directly redefine person as another object like this, person equals name Bob.
+> **[1:39](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=99)** If we define an object called person, const person, with name and age properties, name [[John the Ripper|John]] Doe, age 34, we can never directly redefine person as another object like this, person equals name Bob.
 >
 > **[2:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=121)** But if we try and reset a property of our object like this, person.name equals Bob, JavaScript won't complain even though this is modifying our data.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=132)** Now I'm going to show you an approach that we can use to prevent mutation in our code, and this is by using ESLint rules.
+> **[2:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=132)** Now I'm going to show you an approach that we can use to prevent mutation in our code, and this is by using [[ESLint]] rules.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-with-eslint?u=76281980&t=140)** If you've never worked with or heard of ESLint before, it's an extremely helpful tool that helps you catch errors or stylistic flaws in your code.
 >
@@ -686,7 +676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (6), [[JavaScript]] (5), data (3), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (6), [[JavaScript]] (5), [[Functional Programming]] (1), [[John the Ripper|John]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** means that (1), is a  (1), is called (1)
 > **CLI Commands:** make (2)
@@ -695,8 +685,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and setting up ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980)
+#### [Installing and setting up ESLint](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,9 +693,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=5)** I'm going to use the integrated terminal inside VS code, but you're more than welcome to use Mac's built-in terminal, as well.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=11)** And then inside our Exercise Files folder we're going to initialize an NPM package with npm init -y.
+> **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=11)** And then inside our Exercise Files folder we're going to initialize an [[npm]] package with npm init -y.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=20)** Once we've done that we'll install eslint as a dev dependency by typing npm install --save-dev eslint.
+> **[0:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=20)** Once we've done that we'll install [[ESLint]] as a dev dependency by typing npm install --save-dev eslint.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/installing-and-setting-up-eslint?u=76281980&t=32)** Then we'll initialize eslint for our project by running npx eslint--init.
 >
@@ -733,14 +722,13 @@ created: 2026-05-02
 > **Env Vars:** npm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring immutability: Finalize ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980)
+#### [Ensuring immutability: Finalize ESLint](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=0)** - [Instructor] The next thing we're going to do is install the eslint-plugin-immutable package for our project.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=0)** - [Instructor] The next thing we're going to do is install the [[ESLint]]-plugin-immutable package for our project.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=5)** So in the terminal, we'll type npm install --save-dev eslint-plugin-immutable,
+> **[0:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=5)** So in the terminal, we'll type [[npm]] install --save-dev eslint-plugin-immutable,
 >
 > **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=16)** and hit Enter.
 >
@@ -770,7 +758,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=75)** So now, if we delete all this code and rewrite some code that we might find when we're accidentally mutating our data, like this.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=83)** const person equals, name, John Doe, and age equals 34.
+> **[1:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=83)** const person equals, name, [[John the Ripper|John]] Doe, and age equals 34.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/ensuring-immutability-finalize-eslint?u=76281980&t=93)** And then we try and mutate the name property.
 >
@@ -794,7 +782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (6), hit (2), data (2), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (6), [[npm]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** npm (1), find (1), npx (1)
 > **Prerequisites:** install (2), set up (1)
 > **Tools:** terminal (2)
@@ -808,14 +796,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### JavaScript arrow function syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
+#### [JavaScript arrow function syntax](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=0)** - [Instructor] Alright, so now that we've taken a look at a number of more theoretical concepts that have to do with functional programming, let's start moving into something more concrete.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=0)** - [Instructor] Alright, so now that we've taken a look at a number of more theoretical concepts that have to do with [[Functional Programming]], let's start moving into something more concrete.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=10)** Now, throughout the rest of the course, we're going to want to take full advantage of JavaScript's syntax features, and the first thing that we're really going to want to do here is we're going to want to get a little bit more familiar with JavaScript's syntax for defining functions, right?
+> **[0:10](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=10)** Now, throughout the [[Representational State Transfer (REST)|rest]] of the course, we're going to want to take full advantage of [[JavaScript]]'s syntax features, and the first thing that we're really going to want to do here is we're going to want to get a little bit more familiar with JavaScript's syntax for defining functions, right?
 >
 > **[0:26](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=26)** Because in functional programming, we're going to be creating functions so frequently, it's important that we're very familiar with all of the different ways that you can define functions in JavaScript.
 >
@@ -941,7 +928,7 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=506)** There's one key difference, and that is that functions that are defined this first way are hoisted, right?
 >
-> **[8:34](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=514)** There's a word in JavaScript called function hoisting.
+> **[8:34](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=514)** There's a [[Microsoft Word|word]] in JavaScript called function hoisting.
 >
 > **[8:37](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/javascript-arrow-function-syntax?u=76281980&t=517)** And basically what that means is if we define this function anywhere in the file, then we can use it before the function definition, right?
 >
@@ -955,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (13), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (13), [[Functional Programming]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** myfunction (3), myfunction2 (1), twoplusthree (1), createpersondata (1)
 > **Definitions:** is a  (4), defined as (1)
 > **Warnings:** keep in mind (3)
@@ -964,14 +951,13 @@ created: 2026-05-02
 > **Env Vars:** es6 (1)
 > **Analogies:** for example (1)
 
-#### Using functions as data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980)
+#### [Using functions as data](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=0)** - [Instructor] All right, so now that we've taken an in-depth look at the syntax or syntaxes, plural, of defining functions in JavaScript, let's move on to the next topic.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=0)** - [Instructor] All right, so now that we've taken an in-depth look at the syntax or syntaxes, plural, of defining functions in [[JavaScript]], let's move on to the next topic.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=11)** And that is, I mentioned in a previous video that functional programming treats functions as first class citizens, meaning that we can treat functions in a very similar way to other types, such as strings, numbers, or objects.
+> **[0:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=11)** And that is, I mentioned in a previous video that [[Functional Programming]] treats functions as first class citizens, meaning that we can treat functions in a very similar way to other types, such as strings, numbers, or objects.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=24)** So what I'm going to do here, first of all, is create a new file.
 >
@@ -1095,7 +1081,7 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=402)** And here's what that's going to look like.
 >
-> **[6:44](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=404)** First of all, we'll just have this fetch data thing return just an empty object there.
+> **[6:44](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=404)** First of all, we'll just have this [[Fetch]] data thing return just an empty object there.
 >
 > **[6:48](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=408)** In reality, this would actually make a network request, but I'll skip over that part for now.
 >
@@ -1129,13 +1115,13 @@ created: 2026-05-02
 >
 > **[8:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=501)** So we'll say fetchDataReal there.
 >
-> **[8:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=503)** All right, so the idea here is that if we just exported this fetch data function, then the rest of our application could use this fetchData function without worrying about what the implementation was, whether it was the fake version or the real version.
+> **[8:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=503)** All right, so the idea here is that if we just exported this fetch data function, then the [[Representational State Transfer (REST)|rest]] of our application could use this fetchData function without worrying about what the implementation was, whether it was the fake version or the real version.
 >
 > **[8:39](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-functions-as-data?u=76281980&t=519)** So this is just one example of something that's available to us in functional programming just by changing our mindset around what functions are and treating them like we treat other data types.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Functional Programming]] (5), [[Fetch]] (3), next (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (5), [[Fetch]] (3), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** sayhello (8), fetchdata (5), sayhello2 (4), shouldadd (3), fetchdatareal (2)
 > **Analogies:** just like (4), for example (2), such as (1)
 > **CLI Commands:** make (2), node (1)
@@ -1144,8 +1130,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** in other words (1)
 
-#### Creating arrays of functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980)
+#### [Creating arrays of functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980&t=9)** And that is just like how we can create arrays of numbers or strings or objects.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980&t=16)** Because functions in JavaScript are first class.
+> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980&t=16)** Because functions in [[JavaScript]] are first class.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/creating-arrays-of-functions?u=76281980&t=19)** We can also create an array of functions.
 >
@@ -1283,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), node (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Analogies:** just like (4), for example (1)
 > **File Paths:** functions.js (2)
 > **CLI Commands:** node (1), make (1)
@@ -1291,8 +1276,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - alright (1)
 
-#### Passing functions as arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980)
+#### [Passing functions as arguments](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1368,7 +1352,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980&t=256)** we're actually allowed to pass in other preset functions, right?
 >
-> **[4:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980&t=261)** Such as the Math.min function provided by JavaScript, or Math.max, and those will work in the same way.
+> **[4:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980&t=261)** Such as the Math.min function provided by [[JavaScript]], or Math.max, and those will work in the same way.
 >
 > **[4:28](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/passing-functions-as-arguments?u=76281980&t=268)** Here, let me actually just make sure I change this back to function there.
 >
@@ -1444,7 +1428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), node (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** combinenames (6), touppercase (2), govtform (1)
 > **CLI Commands:** node (2), make (2)
 > **Analogies:** such as (2), for example (1), just like (1)
@@ -1452,8 +1436,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [shaun] (1)
 
-#### Returning functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980)
+#### [Returning functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,7 +1468,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980&t=86)** When we want to return a function from a function, we're just going to define another arrow function right here as its return value.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980&t=95)** So yes, you have one pair of parentheses followed by an arrow, followed by another pair of parentheses followed by another arrow, and then we're just going to have this function that we're returning log something out to the console and we'll say something like, Hello functional programming!
+> **[1:35](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980&t=95)** So yes, you have one pair of parentheses followed by an arrow, followed by another pair of parentheses followed by another arrow, and then we're just going to have this function that we're returning log something out to the console and we'll say something like, Hello [[Functional Programming]]!
 >
 > **[1:51](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/returning-functions?u=76281980&t=111)** All right, so now that we've created this function that returns another function, you're probably wondering "How on earth do you use this thing?"
 >
@@ -1607,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (3), generic (2), data (1), next (1), node (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (3)
 > **Code Identifiers:** createprinter (10), createmultiplier (8)
 > **CLI Commands:** find (5), node (1), make (1)
 > **Definitions:** is a  (3), in other words (2), means that (1), is an  (1)
@@ -1616,14 +1599,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Understanding closure
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980)
+#### [Understanding closure](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=0)** - [Instructor] All right, so previously we talked about how it's possible to return functions from other functions in JavaScript.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=0)** - [Instructor] All right, so previously we talked about how it's possible to return functions from other functions in [[JavaScript]].
 >
-> **[0:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=6)** And this concept actually leads us to another very important concept in functional programming, and this is something called closure.
+> **[0:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=6)** And this concept actually leads us to another very important concept in [[Functional Programming]], and this is something called closure.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=16)** Now, basically, closure means that when we return a function from another function as we've done here, oops, let me try that again.
 >
@@ -1691,7 +1673,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=245)** We're just going to say const person equals, and then this will take the name, age, and job, and the syntax that I just used there is object destructuring, sometimes called props destructuring.
 >
-> **[4:17](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=257)** It's the same kind of thing that you see when working with React in JavaScript.
+> **[4:17](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=257)** It's the same kind of thing that you see when working with [[React.js|React]] in JavaScript.
 >
 > **[4:21](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/understanding-closure?u=76281980&t=261)** Basically, this just gets the name, age, and job properties of an object that we pass to this thing as an argument.
 >
@@ -1773,7 +1755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Functional Programming]] (4), node (1), [[React.js|React]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Functional Programming]] (4), [[React.js|React]] (1)
 > **Code Identifiers:** createprinter (2), personage (2), getname (1), getage (1), incrementage (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** closure.js (1), examples/closure.js (1)
@@ -1781,12 +1763,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Higher-order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980)
+#### [Higher-order functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=0)** - [Instructor] All right, so we've spent quite a bit of time in previous videos talking about first-class functions in JavaScript, and we've seen how JavaScript treats functions in pretty much the same way as strings, numbers, objects, things like that, right?
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=0)** - [Instructor] All right, so we've spent quite a bit of time in previous videos talking about first-class functions in [[JavaScript]], and we've seen how JavaScript treats functions in pretty much the same way as strings, numbers, objects, things like that, right?
 >
 > **[0:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=13)** Other data types.
 >
@@ -1918,7 +1899,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=431)** All right?
 >
-> **[7:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=432)** And the rest of the stuff, right, this if statement, this is going to get called now every time we call this divideSafe thing, and it'll provide a guard around this divide thing, meaning that divide isn't going to get called if this second argument is 0.
+> **[7:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=432)** And the [[Representational State Transfer (REST)|rest]] of the stuff, right, this if statement, this is going to get called now every time we call this divideSafe thing, and it'll provide a guard around this divide thing, meaning that divide isn't going to get called if this second argument is 0.
 >
 > **[7:29](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/higher-order-functions?u=76281980&t=449)** So anyway, that's the basic idea of higher-order functions.
 >
@@ -1930,7 +1911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), data (1), node (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** dividesafe (6), secondargzerocheck (4)
 > **File Paths:** higher-order.js (1), examples/higher-order.js (1)
 > **CLI Commands:** make (1), node (1)
@@ -1938,12 +1919,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/tour-of-coderpad?u=76281980&t=0)** - [Instructor] All right, so now that we've learned all about first-class functions in functional programming with JavaScript, it's time for you to do a challenge.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/tour-of-coderpad?u=76281980&t=0)** - [Instructor] All right, so now that we've learned all about first-class functions in [[Functional Programming]] with [[JavaScript]], it's time for you to do a challenge.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/tour-of-coderpad?u=76281980&t=13)** Now, this course uses automated code challenges with an integrated editor, and that's what you're going to see next, is a screen that looks a lot like mine.
 >
@@ -1971,13 +1951,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (1), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: More higher-order functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-more-higher-order-functions?u=76281980)
+#### [Solution: More higher-order functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-more-higher-order-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2017,7 +1996,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -2028,14 +2006,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of functional data manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
+#### [Basics of functional data manipulation](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=0)** - [Instructor] All right, so now that we've taken a look at first class functions, which as you've seen, give you a lot of power and flexibility in your programs, the next thing that we're going to take a look at here is the basics of manipulating data in a functional way, right?
 >
-> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=16)** So in other words, when you have some data and you want to modify it, how do you do that in functional programming?
+> **[0:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=16)** So in other words, when you have some data and you want to modify it, how do you do that in [[Functional Programming]]?
 >
 > **[0:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=23)** Well, let's start off by taking a look at the procedural way of making these kinds of changes.
 >
@@ -2053,7 +2030,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=104)** So, the functional way of manipulating data, I really think you're going to like this way a lot better.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=111)** The first thing to know about the functional way of manipulating data is that instead of specifying how to calculate the result and the steps required to calculate the result, we simply write our programs in such a way that it tells JavaScript what it is that we want.
+> **[1:51](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=111)** The first thing to know about the functional way of manipulating data is that instead of specifying how to calculate the result and the steps required to calculate the result, we simply write our programs in such a way that it tells [[JavaScript]] what it is that we want.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/basics-of-functional-data-manipulation?u=76281980&t=128)** That might sound a little bit strange, you'll see exactly what this looks like very shortly.
 >
@@ -2083,7 +2060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), functional (4), power (1), next (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** in other words (2)
 > **Analogies:** for example (1)
@@ -2091,12 +2068,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The spread operator
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980)
+#### [The spread operator](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=0)** - [Instructor] The first thing that we're going to take a look at here with functional data manipulation is actually not a function at all, but it is a very helpful syntax improvement that allows us to manipulate JavaScript data in a much more functional way than using for loops, which would be the normal way of doing this.
+> **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=0)** - [Instructor] The first thing that we're going to take a look at here with functional [[Data Manipulation]] is actually not a function at all, but it is a very helpful syntax improvement that allows us to manipulate [[JavaScript]] data in a much more functional way than using for loops, which would be the normal way of doing this.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=20)** And this syntax is called the spread operator.
 >
@@ -2108,7 +2084,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=37)** So one might be maybe data about a person.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=41)** So we'll have maybe, you know, name, we'll say John Doe, and we'll say age and we'll say maybe 40.
+> **[0:41](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=41)** So we'll have maybe, you know, name, we'll say [[John the Ripper|John]] Doe, and we'll say age and we'll say maybe 40.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/the-spread-operator?u=76281980&t=49)** And let's say that we have another object as well.
 >
@@ -2228,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (10), data (6), functional (3), [[JavaScript]] (3), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[John the Ripper|John]] (3), [[Data Manipulation]] (1)
 > **Code Identifiers:** personwithcareerdata (7), haircolor (2), careerdata (1), updatednumbers (1)
 > **Analogies:** just like (2), imagine (1), for example (1)
 > **Definitions:** is a  (1), is called (1), in other words (1)
@@ -2237,8 +2213,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the map() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-map-function?u=76281980)
+#### [Using the map() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2354,7 +2329,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), functional (1), [[Programming]] (1), node (1)
 > **Code Identifiers:** doublednumbers (8), newnumber (2)
 > **Analogies:** for example (1), imagine (1), kind of like (1)
 > **File Paths:** map.js (1), examples/map.js (1)
@@ -2362,9 +2336,9 @@ created: 2026-05-02
 > **Env Vars:** ide (1)
 > **Cross-References:** previous chapter (1)
 > **Definitions:** is called (1)
+> **Warnings:** troubleshoot (1)
 
-#### Using the filter() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980)
+#### [Using the filter() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2372,7 +2346,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980&t=9)** Now, the map function allowed us to apply some sort of transformation to each element in an array, but the filter function is a little bit different.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980&t=18)** What it allows us to do is specify a function that will tell JavaScript which elements in an array we want to keep or discard.
+> **[0:18](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980&t=18)** What it allows us to do is specify a function that will tell [[JavaScript]] which elements in an array we want to keep or discard.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-filter-function?u=76281980&t=30)** So for example, we might have an array of numbers again, and we might want a new array that contains only the elements in that original array that were even.
 >
@@ -2454,7 +2428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (1), functional (1), node (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** iseven (4)
 > **CLI Commands:** make (1), node (1)
@@ -2463,8 +2437,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the every() and some() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980)
+#### [Using the every() and some() functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2600,7 +2573,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980&t=428)** It's much, much easier to simply use the some and every functions, here's what this is going to look like.
 >
-> **[7:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980&t=433)** We're just going to say console.log and we'll actually say numbers.every and we'll actually define an isOdd function here by saying const isOdd equals x, and then we'll return x modulus two is not equal to zero, which is how we tell whether a number is odd in JavaScript or not.
+> **[7:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980&t=433)** We're just going to say console.log and we'll actually say numbers.every and we'll actually define an isOdd function here by saying const isOdd equals x, and then we'll return x modulus two is not equal to zero, which is how we tell whether a number is odd in [[JavaScript]] or not.
 >
 > **[7:35](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-every-and-some-functions?u=76281980&t=455)** So we're going to say numbers.every isOdd and then I'll print out numbers.some.
 >
@@ -2630,7 +2603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), node (1), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** isodd (7)
 > **Analogies:** for example (3), similar to (2)
 > **CLI Commands:** make (2), find (1), node (1)
@@ -2638,18 +2611,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preventing mutation with the slice() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980)
+#### [Preventing mutation with the slice() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=1)** So at this point we've taken a look at several functions that can be used to declaratively manipulate data in JavaScript.
+> **[0:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=1)** So at this point we've taken a look at several functions that can be used to declaratively manipulate data in [[JavaScript]].
 >
 > **[0:08](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=8)** And the next function that we're going to take a look at is the slice function.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=12)** Now, while the slice function can definitely be used for functional data manipulation as well, its main purpose in our case is to help us prevent mutation when using certain other functions.
+> **[0:12](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=12)** Now, while the slice function can definitely be used for functional [[Data Manipulation]] as well, its main purpose in our case is to help us prevent mutation when using certain other functions.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=27)** Let me show you what I mean here.
 >
@@ -2695,7 +2667,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=202)** That's something that I'll talk about next.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=204)** But the point is that the order of the array has been modified, the original array is no longer intact, which we really want to avoid in functional programming.
+> **[3:24](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=204)** But the point is that the order of the array has been modified, the original array is no longer intact, which we really want to avoid in [[Functional Programming]].
 >
 > **[3:36](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/preventing-mutation-with-the-slice-function?u=76281980&t=216)** And the same kind of thing here is true with .reverse.
 >
@@ -2793,7 +2765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[JavaScript]] (3), next (2), functional (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Data Manipulation]] (1), [[Functional Programming]] (1)
 > **Analogies:** for example (3), such as (1)
 > **File Paths:** slice.js (1), nodeexamples/map.js (1), examples/slice.js (1)
 > **Definitions:** in other words (3)
@@ -2802,8 +2774,7 @@ created: 2026-05-02
 > **Code Identifiers:** reversednumbers (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the sort() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980)
+#### [Using the sort() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2845,7 +2816,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980&t=117)** Instead of going 1, 2, 4, 5, 7, 8, 9, 10, it goes 1, 10 and then it goes back to 2, 4, 5.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980&t=126)** Well, the reason for this is that the default sorting order or sorting strategy in JavaScript is to sort elements alphabetically.
+> **[2:06](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980&t=126)** Well, the reason for this is that the default sorting order or sorting strategy in [[JavaScript]] is to sort elements alphabetically.
 >
 > **[2:16](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-sort-function?u=76281980&t=136)** In other words, 1 and 10 are closer to each other alphabetically if these were strings, right, in the same way as a and ab would be close to each other in the dictionary and would come before, you know, words that start with B, for example.
 >
@@ -2923,7 +2894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), node (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** numericaldescending (6), numericalascending (4), sortednumbers (1)
 > **CLI Commands:** make (4), node (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -2931,8 +2902,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the reduce() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-reduce-function?u=76281980)
+#### [Using the reduce() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/using-the-reduce-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,15 +3040,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), product (4), data (1), power (1), node (1)
 > **Definitions:** is called (4), in other words (2), is a  (1)
 > **CLI Commands:** make (2), node (1)
 > **File Paths:** reduce.js (1), example/reduce.js (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Combining array functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/combining-array-functions?u=76281980)
+#### [Combining array functions](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/combining-array-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3198,15 +3166,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), functional (1), next (1), career (1), node (1)
 > **CLI Commands:** find (3), make (2), node (1)
 > **Definitions:** is an  (1), in other words (1)
 > **File Paths:** combining.js (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Recreating the map() function
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-recreating-the-map-function?u=76281980)
+#### [Solution: Recreating the map() function](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-recreating-the-map-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3282,7 +3248,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** mapr (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is an  (1)
@@ -3294,14 +3259,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Currying and partial application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
+#### [Currying and partial application](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=0)** - [Instructor] All right.
 >
-> **[0:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=1)** So the next thing that we're going to talk about here, now that we've gone through the basics of data manipulation and first-class functions, we're going to move on to what I would consider to be some more advanced functional concepts.
+> **[0:01](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=1)** So the next thing that we're going to talk about here, now that we've gone through the basics of [[Data Manipulation]] and first-class functions, we're going to move on to what I would consider to be some more advanced functional concepts.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=13)** And the first one that we're going to talk about here is something called partial application.
 >
@@ -3421,7 +3385,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=377)** Otherwise, what we'll do is we're going to return the default.
 >
-> **[6:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=383)** And oops, we need to name that defaultValue here, because default is actually a JavaScript keyword.
+> **[6:23](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=383)** And oops, we need to name that defaultValue here, because default is actually a [[JavaScript]] keyword.
 >
 > **[6:29](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=389)** And that's our getPropertyWithDefault function.
 >
@@ -3487,7 +3451,7 @@ created: 2026-05-02
 >
 > **[9:36](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=576)** So that is the power of partial application.
 >
-> **[9:39](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=579)** And by the way, currying, in case you're wondering about that word, is simply a specific case of partial application where all of the arguments are passed in one by one.
+> **[9:39](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=579)** And by the way, currying, in case you're wondering about that [[Microsoft Word|word]], is simply a specific case of partial application where all of the arguments are passed in one by one.
 >
 > **[9:51](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=591)** So you end up with something that looks a little bit like this.
 >
@@ -3513,11 +3477,11 @@ created: 2026-05-02
 >
 > **[10:43](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=643)** But the choice is up to you.
 >
-> **[10:45](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=645)** So that is the basics of partial application in functional programming.
+> **[10:45](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/currying-partial-application?u=76281980&t=645)** So that is the basics of partial application in [[Functional Programming]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), next (1), [[Data Manipulation]] (1), functional (1), node (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1), [[JavaScript]] (1), [[Microsoft Word|Word]] (1), [[Functional Programming]] (1)
 > **Code Identifiers:** displayname (7), defaultvalue (6), addpartial (5), getpropertywithdefault (4), getname (4)
 > **CLI Commands:** make (7), node (1)
 > **Analogies:** imagine (4), for example (3)
@@ -3526,8 +3490,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/recursion?u=76281980)
+#### [Recursion](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3633,17 +3596,16 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/recursion?u=76281980&t=365)** You might want to work that one out by hand, but I'll leave that up to you.
 >
-> **[6:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/recursion?u=76281980&t=369)** So anyway, that is the basics of recursion in functional programming.
+> **[6:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/recursion?u=76281980&t=369)** So anyway, that is the basics of recursion in [[Functional Programming]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), node (2), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memoization
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980)
+#### [Memoization](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3717,7 +3679,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980&t=250)** All right, now you might be thinking, why are we modifying this memo object?
 >
-> **[4:14](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980&t=254)** Aren't we supposed to avoid modification in functional programming?
+> **[4:14](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980&t=254)** Aren't we supposed to avoid modification in [[Functional Programming]]?
 >
 > **[4:19](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/memoization?u=76281980&t=259)** Well, the answer to that is yes, and there is actually a way to do this without modifying this object, but it's actually a lot more complicated.
 >
@@ -3759,7 +3721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2), functional (1), application (1), node (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2)
 > **Definitions:** in other words (3), is called (2), is a  (1)
 > **File Paths:** memoization.js (3), examples/recursion.js (1)
 > **CLI Commands:** find (1), make (1), node (1)
@@ -3771,19 +3733,16 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Count occurrences
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
+#### [Solution: Count occurrences](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-count-occurrences?u=76281980)
 
-#### Solution: Anagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-anagrams?u=76281980)
+#### [Solution: Anagrams](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/solution-anagrams?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in your ES6+ journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)
+#### [Next steps in your ES6+ journey](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3793,9 +3752,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=3)** We have covered a lot of ground in this course, and the first thing I want to do is thank you for joining me on this journey.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=9)** By now, you should be familiar with the basics of functional programming and JavaScript, as well as some of the more advanced concepts.
+> **[0:09](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=9)** By now, you should be familiar with the basics of [[Functional Programming]] and [[JavaScript]], as well as some of the more advanced concepts.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=15)** Now, if you have questions or want to share your progress, feel free to connect with me on LinkedIn or follow me on X, formerly Twitter, where I regularly post software development related tips and tutorials.
+> **[0:15](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=15)** Now, if you have questions or want to share your progress, feel free to connect with me on [[LinkedIn]] or follow me on X, formerly Twitter, where I regularly post [[Software Development]] related tips and tutorials.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-functional-programming-with-javascript-es6-plus-24300838/next-steps-in-your-es6-plus-journey?u=76281980&t=27)** And finally, if you're looking for other courses, I would highly recommend checking out some of my other courses in the LinkedIn Learning Library.
 >

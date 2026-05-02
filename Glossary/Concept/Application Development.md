@@ -8,7 +8,7 @@ linkedin_topics:
   - Cloud Computing
   - Cybersecurity
   - Data Science
-  - Network and System Administration
+  - Database Management
 tags:
   - glossary
   - type/concept
@@ -16,7 +16,7 @@ tags:
   - topic/cloud-computing
   - topic/security
   - topic/data-science
-  - topic/network-and-system-administration
+  - topic/database-management
 course_count: 86
 created: 2026-05-02
 ---
@@ -25,15 +25,15 @@ created: 2026-05-02
 
 # Application Development
 
-> **Type:** Concept | **Courses:** 86 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Cybersecurity]], [[Data Science]], [[Network and System Administration]]
+> **Type:** Concept | **Courses:** 86 | **Topics:** [[Software Development]], [[Cloud Computing]], [[Cybersecurity]], [[Data Science]], [[Database Management]]
 
 ## Courses
 
 1. [[Cloud Computing Understanding Core Concepts]] — 9 mentions
 2. [[Static Application Security Testing]] — 8 mentions
 3. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 6 mentions
-4. [[Cloud Security Architecture for the Enterprise]] — 4 mentions
-5. [[Database Foundations- Application Development]] — 4 mentions
+4. [[Database Foundations- Application Development]] — 5 mentions
+5. [[Cloud Security Architecture for the Enterprise]] — 4 mentions
 6. [[Cloud Architecture- Core Concepts]] — 3 mentions
 7. [[A Beginner's Guide to Public Cloud Options]] — 3 mentions
 8. [[Learning Spring 6 With Spring Boot]] — 3 mentions
@@ -126,10 +126,10 @@ created: 2026-05-02
 4. [[Essential New Skills in IT Administration]] — 12 total mentions
 5. [[Explore a Career as a Cloud Administrator]] — 10 total mentions
 6. [[The Top 10 Most Popular Courses among IT Professionals]] — 9 total mentions
-7. [[Digital Transformation for Tech Leaders]] — 9 total mentions
-8. [[Explore a Career in Application Security]] — 8 total mentions
-9. [[Build an Enterprise Cloud Architecture]] — 8 total mentions
-10. [[Advance Your Database Administration Skills]] — 8 total mentions
+7. [[Advance Your Database Administration Skills]] — 9 total mentions
+8. [[Digital Transformation for Tech Leaders]] — 9 total mentions
+9. [[Explore a Career in Application Security]] — 8 total mentions
+10. [[Build an Enterprise Cloud Architecture]] — 8 total mentions
 
 ---
 

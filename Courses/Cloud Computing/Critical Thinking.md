@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to critical thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
+#### [Welcome to critical thinking](https://www.linkedin.com/learning/critical-thinking/welcome-critical-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -100,7 +99,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - have (1)
 
@@ -109,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of critical thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
+#### [The importance of critical thinking](https://www.linkedin.com/learning/critical-thinking/the-importance-of-critical-thinking-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,12 +135,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), business (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - let (1)
 
-#### Distinguish between causes vs. consequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/distinguish-causes-vs-consequences-2?u=76281980)
+#### [Distinguish between causes vs. consequences](https://www.linkedin.com/learning/critical-thinking/distinguish-causes-vs-consequences-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,12 +230,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - as (1)
 
-#### Break big problems into small ones
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/break-big-problems-into-small-ones-2?u=76281980)
+#### [Break big problems into small ones](https://www.linkedin.com/learning/critical-thinking/break-big-problems-into-small-ones-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,8 +294,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define the problem statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
+#### [Define the problem statement](https://www.linkedin.com/learning/critical-thinking/define-the-problem-statement-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,8 +355,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - one (1)
 
-#### Understand the real question
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/understand-the-real-question?u=76281980)
+#### [Understand the real question](https://www.linkedin.com/learning/critical-thinking/understand-the-real-question?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,13 +407,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), leadership (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - so (1)
 
-#### Ask focusing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/ask-focusing-questions-2?u=76281980)
+#### [Ask focusing questions](https://www.linkedin.com/learning/critical-thinking/ask-focusing-questions-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,12 +483,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Examine past efforts
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/examine-past-efforts-2?u=76281980)
+#### [Examine past efforts](https://www.linkedin.com/learning/critical-thinking/examine-past-efforts-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,11 +528,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - another (1)
 
-#### Use new lenses to think critically
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/use-new-lenses-to-think-critically-2?u=76281980)
+#### [Use new lenses to think critically](https://www.linkedin.com/learning/critical-thinking/use-new-lenses-to-think-critically-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,13 +610,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), management (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** ceo (1)
 > **Speakers:** - another (1)
 
-#### How to find root causes
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/how-to-find-root-causes-2?u=76281980)
+#### [How to find root causes](https://www.linkedin.com/learning/critical-thinking/how-to-find-root-causes-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +692,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), management (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - the (1)
@@ -719,8 +701,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge how the business operates
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
+#### [Challenge how the business operates](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -730,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=15)** On the business model blowup, fundamentally rethink about how you go to market, even rethink what your market actually is.
 >
-> **[0:24](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=24)** You're going to challenge the entire business model for the way you deliver products and services.
+> **[0:24](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=24)** You're going to challenge the entire business model for the way you deliver [[Microsoft Products|products]] and services.
 >
 > **[0:30](https://www.linkedin.com/learning/critical-thinking/challenge-how-the-business-operates-2?u=76281980&t=30)** On the revenue blowup side, how do you dramatically expand the products, your pricing, the geography, the reach of your business?
 >
@@ -852,13 +833,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (20), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - when (1)
 
-#### Use the five whys of critical thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/use-the-five-whys-of-critical-thinking?u=76281980)
+#### [Use the five whys of critical thinking](https://www.linkedin.com/learning/critical-thinking/use-the-five-whys-of-critical-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,11 +938,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Speakers:** - one (1)
 
-#### Answer the seven so-whats?
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/answer-the-seven-so-whats?u=76281980)
+#### [Answer the seven so-whats?](https://www.linkedin.com/learning/critical-thinking/answer-the-seven-so-whats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,12 +1032,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), business (2), next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - good (1)
 
-#### Use the 80/20 rule to think critically
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/use-the-80-20-rule-to-think-critically-2?u=76281980)
+#### [Use the 80/20 rule to think critically](https://www.linkedin.com/learning/critical-thinking/use-the-80-20-rule-to-think-critically-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,13 +1113,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** known as (1)
 > **Speakers:** - critical (1)
 
-#### How to successfully conduct analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/how-to-successfully-conduct-analysis-2?u=76281980)
+#### [How to successfully conduct analysis](https://www.linkedin.com/learning/critical-thinking/how-to-successfully-conduct-analysis-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,12 +1189,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - critical (1)
 
-#### Consider the implications of answers
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980)
+#### [Consider the implications of answers](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1246,7 +1218,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=81)** At one point, I did some corporate strategy work and we were trying to figure out where should we take the business for the next 10 years.
 >
-> **[1:29](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=89)** We were looking at things like, what new products should we launch?
+> **[1:29](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=89)** We were looking at things like, what new [[Microsoft Products|products]] should we launch?
 >
 > **[1:33](https://www.linkedin.com/learning/critical-thinking/consider-the-implications-of-answers-2?u=76281980&t=93)** What new businesses should we enter?
 >
@@ -1282,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
@@ -1293,12 +1265,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Teach others how to think critically
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
+#### [Teach others how to think critically](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=1)** - It's great if you start using more critical thinking skills.
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=1)** - It's great if you start using more critical [[Thinking Skills]].
 >
 > **[0:05](https://www.linkedin.com/learning/critical-thinking/teach-others-how-to-think-critically-2?u=76281980&t=5)** It's even better if you can get your team to use them.
 >
@@ -1370,13 +1341,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thinking Skills]] (4), teams (2), business (1), application (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (4)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
 
-#### Common pitfalls when solving problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/common-pitfalls-when-solving-problems-2?u=76281980)
+#### [Common pitfalls when solving problems](https://www.linkedin.com/learning/critical-thinking/common-pitfalls-when-solving-problems-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1450,7 +1420,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Warnings:** pitfall (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - during (1)
@@ -1460,12 +1429,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply critical thinking every day
-> [LinkedIn Learning](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)
+#### [Apply critical thinking every day](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=1)** - As you go to apply these critical thinking skills to your daily work, let me offer some suggestions on how you can get started.
+> **[0:01](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=1)** - As you go to apply these critical [[Thinking Skills]] to your daily work, let me offer some suggestions on how you can get started.
 >
 > **[0:09](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=9)** First, identify a specific problem that you're working on.
 >
@@ -1495,7 +1463,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=83)** One is Solving Business Problems, where I get into more of the tools related to the problem solving approach.
 >
-> **[1:30](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=90)** Also, Decision-Making Fundamentals, helping you think through how you make decisions and what the implications of those decisions might be.
+> **[1:30](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=90)** Also, [[Decision-Making]] Fundamentals, helping you think through how you make decisions and what the implications of those decisions might be.
 >
 > **[1:40](https://www.linkedin.com/learning/critical-thinking/apply-critical-thinking-every-day?u=76281980&t=100)** Other resources that are available are my work on critical thinking.
 >
@@ -1505,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Thinking Skills]] (3), business (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Thinking Skills]] (3), [[Decision-Making]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - as (1)

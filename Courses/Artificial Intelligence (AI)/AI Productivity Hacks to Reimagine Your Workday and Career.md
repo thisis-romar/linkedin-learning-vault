@@ -56,8 +56,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve productivity with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
+#### [Improve productivity with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -69,25 +68,25 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=15)** Hello, I'm Marily Nika.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=16)** I'm an AI Product Lead at big tech companies like Meta and Google.
+> **[0:16](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=16)** I'm an AI Product Lead at big tech companies like Meta and [[Google]].
 >
-> **[0:19](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=19)** And I'm passionate about bringing AI products to life.
+> **[0:19](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=19)** And I'm passionate about bringing AI [[Microsoft Products|products]] to life.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=23)** Having ventured deep into AI for over a decade, I've identified transformative hacks that can reshape your daily grind and long-term career goals.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=32)** In my course, I've included some sample prompts to get you started.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=35)** From effective communication to making swift informed decisions, AI has got your back.
+> **[0:35](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=35)** From effective communication to making [[Swift (Programming Language)|swift]] informed decisions, AI has got your back.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=42)** It's not about replacing you.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=43)** It's about enhancing you.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=45)** Join me on this exciting LinkedIn Learning journey and learn AI hacks to optimize your workday and career trajectory.
+> **[0:45](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/improve-productivity-with-ai?u=76281980&t=45)** Join me on this exciting [[LinkedIn]] Learning journey and learn AI hacks to optimize your workday and career trajectory.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), career (4), next (1), product (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1), [[Swift (Programming Language)|Swift]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ever (1)
 
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adopt an AI-augmented mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)
+#### [Adopt an AI-augmented mindset](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=55)** The more questions you ask, the better equipped you'll be to harness AI's capabilities.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=61)** Commit to lifelong learning.
+> **[1:01](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=61)** Commit to [[Lifelong Learning]].
 >
 > **[1:03](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=63)** AI evolves rapidly.
 >
@@ -137,7 +135,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=69)** So consider continuous learning as part of your routine.
 >
-> **[1:13](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=73)** Subscribe to AI newsletters, join webinars, or even take online courses.
+> **[1:13](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=73)** Subscribe to AI [[Newsletters]], join webinars, or even take online courses.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/adopt-an-ai-augmented-mindset?u=76281980&t=79)** Stay in the know.
 >
@@ -187,12 +185,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), career (1), [[Lifelong Learning]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Lifelong Learning]] (1), [[Newsletters]] (1)
 > **Analogies:** just like (1), picture (1)
 > **Speakers:** - in (1)
 
-#### The seven work tasks where AI can help you do more
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980)
+#### [The seven work tasks where AI can help you do more](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=84)** You can generate content with AI.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=86)** Are you facing writer's block or content creation challenges?
+> **[1:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=86)** Are you facing writer's block or [[Content Creation]] challenges?
 >
 > **[1:30](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=90)** You guessed it, AI can help.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=104)** You can make decisions better with AI.
 >
-> **[1:46](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=106)** Decision-making can be daunting, but with AI's insights, it becomes more informed and strategic.
+> **[1:46](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=106)** [[Decision-Making]] can be daunting, but with AI's insights, it becomes more informed and strategic.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/the-seven-work-tasks-where-ai-can-help-you-do-more?u=76281980&t=113)** By analyzing heaps of data, AI provides clarity and guidance.
 >
@@ -262,13 +259,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), game (1), career (1), power (1), teams (1)
+> **Frameworks & Libraries:** [[Content Creation]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - interested (1)
 
-#### AI can help you advance in your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980)
+#### [AI can help you advance in your career](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +272,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=6)** But AI?
 >
-> **[0:07](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=7)** It became my compass, gently nudging me to zoom out and really evaluate the grand scheme.
+> **[0:07](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=7)** It became my compass, gently nudging me to [[Zoom]] out and really evaluate the grand scheme.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=13)** Am I truly aligned with my ambitions?
 >
@@ -284,13 +280,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=23)** Think of AI as your dedicated career coach.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=26)** Take ChatGPT, for instance.
+> **[0:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=26)** Take [[ChatGPT]], for instance.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=28)** It's not just about answering questions.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=30)** It could be a game-changer for your entire career journey.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=34)** By delving into your skills, accolades, passions, and experiences, generative AI can illuminate unseen avenues for your career: new roles, unexpected career shifts, and paths you've never pondered.
+> **[0:34](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=34)** By delving into your skills, accolades, passions, and experiences, [[Generative AI]] can illuminate unseen avenues for your career: new roles, unexpected career shifts, and paths you've never pondered.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=49)** All presented with logical rationale.
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=130)** For example, you can always have it by your side and use it for live Q&A as you're going through some offline material.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=137)** Ask ChatGPT, "My company started using MySQL.
+> **[2:17](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=137)** Ask ChatGPT, "My company started using [[MySQL]].
 >
 > **[2:22](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=142)** Can you explain what do I need to do in simple terms?"
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=153)** The best part about AI is the personalized aspect.
 >
-> **[2:37](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=157)** You can simply ask ChatGPT, "Pull in data from some learning platform that you're using and help me understand my performance on the recent Python course."
+> **[2:37](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=157)** You can simply ask ChatGPT, "Pull in data from some learning platform that you're using and help me understand my performance on the recent [[Python (Programming Language)|Python]] course."
 >
 > **[2:48](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/ai-can-help-you-advance-in-your-career?u=76281980&t=168)** Or, "Can you debug my code and explain to me how to avoid the same mistakes in the future in my own learning style?"
 >
@@ -358,13 +354,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), career (7), ai (7), prompt (3), product (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Generative AI]] (2), [[Zoom]] (1), [[MySQL]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), for instance (1), it's like (1)
 > **CLI Commands:** mysql (1), python (1)
 > **Speakers:** - in (1)
 
-#### Think smarter and focus better with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980)
+#### [Think smarter and focus better with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=69)** AI can also be the backbone of more advanced personal assistant tools, which can free up a ton of time and reduce noise by drafting emails, setting up meetings, or even reminding you of break times, stretch time, or periods of focused work based on your patterns.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=87)** Generative AI can also help you save time by helping you enhance your output when it comes to cognitive tasks.
+> **[1:27](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=87)** [[Generative AI]] can also help you save time by helping you enhance your output when it comes to cognitive tasks.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/think-smarter-and-focus-better-with-ai?u=76281980&t=94)** A great example of that is taking feedback on your behalf and producing your next revision of some artifact you produce at work, like a report, an article, a presentation that needed some minor changes.
 >
@@ -414,12 +409,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), career (2), [[Generative AI]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **Analogies:** imagine (1), it's like (1)
 > **Speakers:** - ever (1)
 
-#### Communicate and influence better with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980)
+#### [Communicate and influence better with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +463,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=125)** Influence also extends to social media, a domain where AI shines particularly bright.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=130)** If you're looking to make an impact on platforms like LinkedIn or X, formerly known as Twitter, or even Threads, AI can help gauge the best times to post, the type of content your audience engages with, and even suggest edits or hashtags for better engagement.
+> **[2:10](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=130)** If you're looking to make an impact on platforms like [[LinkedIn]] or X, formerly known as Twitter, or even Threads, AI can help gauge the best times to post, the type of content your audience engages with, and even suggest edits or hashtags for better engagement.
 >
 > **[2:27](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=147)** A quick prompt such as, "Based on trending topics what content should I focus on for my next LinkedIn article" can provide a clear direction for your content strategy.
 >
@@ -485,20 +479,19 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=195)** It's the empathy, the understanding, and the genuine connection that truly resonates.
 >
-> **[3:20](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=200)** Think of AI as the supportive copilot helping you navigate, but you are still in the driver's seat, you're still in the direction, and you're making the journey meaningful.
+> **[3:20](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=200)** Think of AI as the supportive [[Microsoft Copilot|copilot]] helping you navigate, but you are still in the driver's seat, you're still in the direction, and you're making the journey meaningful.
 >
 > **[3:31](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/communicate-an-influence-better-with-ai?u=76281980&t=211)** So challenge yourself to integrate AI in your communication toolkit, and start with a simple prompt, gather feedback, and then refine your approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), prompt (6), [[LinkedIn]] (2), power (1), strengths (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** imagine (1), picture (1), it's like (1), such as (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - the (1)
 
-#### Collaborate better with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980)
+#### [Collaborate better with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -518,7 +511,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=52)** But by leveraging AI, you can effortlessly prioritize and categorize these ideas.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=58)** Try prompting ChatGPT with, "Here are the main prompts from our brainstorming session.
+> **[0:58](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=58)** Try prompting [[ChatGPT]] with, "Here are the main prompts from our brainstorming session.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=64)** Can you organize them into actionable tasks and potential challenges?"
 >
@@ -548,7 +541,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=141)** With AI's help, you can easily keep track of team discussions, decisions, and plans.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=146)** A prompt such as, "Generate a summary of our team's discussion on the new marketing strategy," gives you a ready-to-reference document, ensuring no detail is forgotten.
+> **[2:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=146)** A prompt such as, "Generate a summary of our team's discussion on the new [[Marketing Strategy]]," gives you a ready-to-reference document, ensuring no detail is forgotten.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/collaborate-better-with-ai?u=76281980&t=157)** Moreover, AI can predict possible roadblocks or challenges in collaborative projects.
 >
@@ -566,13 +559,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (2), prompt (2), power (1), management (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Marketing Strategy]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
-#### Generate content with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980)
+#### [Generate content with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +582,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980&t=22)** Now, when we think AI, we often imagine complex codes and machines, but it's simpler than that.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980&t=29)** AI tools, such as ChatGPT, are here to make your content creation process easier and more efficient.
+> **[0:29](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980&t=29)** AI tools, such as [[ChatGPT]], are here to make your [[Content Creation]] process easier and more efficient.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/generate-content-with-ai?u=76281980&t=35)** Let's start with brainstorming.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[ChatGPT]] (7), [[Content Creation]] (2), prompt (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Content Creation]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (1), such as (1), just like (1)
 > **Code Identifiers:** iphone (2)
@@ -660,8 +652,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - content (1)
 
-#### Make decisions with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980)
+#### [Make decisions with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,11 +660,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=2)** Whether you're choosing between two job offers, deciding on a product launch, or even hiring someone, each decision comes with its own set of complexities.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=12)** AI can be your trusted sidekick in the decision-making process.
+> **[0:12](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=12)** AI can be your trusted sidekick in the [[Decision-Making]] process.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=16)** AI may sound a bit high-tech for everyday work decisions, but think of it this way: AI is like that super smart friend you call when you're unsure about something.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=26)** So with tools like ChatGPT, you've got access to an ocean of data and analysis right at your fingertips.
+> **[0:26](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=26)** So with tools like [[ChatGPT]], you've got access to an ocean of data and analysis right at your fingertips.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/make-decisions-with-ai?u=76281980&t=33)** Let's start with career choices.
 >
@@ -729,14 +720,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[ChatGPT]] (5), data (3), product (2), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - making (1)
 
-#### Futureproof your work with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980)
+#### [Futureproof your work with AI](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980&t=29)** AI can guide your learning, ensuring you're up to date with industry trends.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980&t=34)** Unsure what to learn next, just ask, "Hey, ChatGPT, what are the top skills needed for a data analyst in 2023?"
+> **[0:34](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980&t=34)** Unsure what to learn next, just ask, "Hey, [[ChatGPT]], what are the top skills needed for a data analyst in 2023?"
 >
 > **[0:42](https://www.linkedin.com/learning/ai-productivity-hacks-to-reimagine-your-workday-and-career/futureproof-your-work-with-ai?u=76281980&t=42)** AI-driven career roadmaps.
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), next (3), career (3), [[ChatGPT]] (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)

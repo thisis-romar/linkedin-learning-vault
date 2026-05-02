@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Travel the multiverse with Git and GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
+#### [Travel the multiverse with Git and GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,22 +117,21 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=7)** The problem with giving everyone a time machine is that it would be too tempting to not just document, but also change history.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=15)** Hey there, this is Ray Villalobos, and in this course, I'm going to show you how developers use GIT to document and change a project's history.
+> **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=15)** Hey there, this is Ray Villalobos, and in this course, I'm going to show you how developers use [[Git]] to document and change a project's history.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=22)** Plus, I'll introduce you to a cloud-based tool called GitHub that lets you collaborate with others.
+> **[0:22](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=22)** Plus, I'll introduce you to a cloud-based tool called [[GitHub]] that lets you collaborate with others.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-git-and-github-23011330/welcome?u=76281980&t=28)** So if you're ready to travel the multiverse in your own time machine, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (1), cloud (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (1)
 > **Env Vars:** git (1)
 > **Tools:** github (1)
 > **Speakers:** - i (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/learning-git-and-github-23011330/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -158,12 +156,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
+#### [Understanding version control](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980&t=0)** - [Instructor] There are different types of version control systems you can use besides Git.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980&t=0)** - [Instructor] There are different types of [[Version Control]] systems you can use besides [[Git]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-version-control?u=76281980&t=4)** So let's talk about what they are, and specifically what we call distributed version control.
 >
@@ -210,14 +207,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is Git?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980)
+#### [What is Git?](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=0)** - [Instructor] Let's take a minute to examine what Git is.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=0)** - [Instructor] Let's take a minute to examine what [[Git]] is.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=3)** Now Git is what's called a version control or source control system.
+> **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=3)** Now Git is what's called a [[Version Control]] or source control system.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=7)** In essence, it lets you manage changes you've made to files over time.
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=50)** You can then synchronize branches, which is called merging, or go back and forth in between them.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=56)** In order to use GitHub, you're going to need a few things.
+> **[0:56](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=56)** In order to use [[GitHub]], you're going to need a few things.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=59)** First, of course, you need to install Git from the Git website.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=81)** The defaults are fine for most installations.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=84)** However, if you're on Windows, one of the options is to install a terminal application called GitBash, which makes it easier to run Linux commands.
+> **[1:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=84)** However, if you're on [[Windows]], one of the options is to install a terminal application called GitBash, which makes it easier to run [[Linux]] commands.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=92)** That's what most people use when working with Git.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=118)** I'll also be using Visual Studio Code, and here's where you can get that.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=122)** Finally, on most web projects, you'll be using something called Node.js, which handles most of the tools for the web.
+> **[2:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=122)** Finally, on most web projects, you'll be using something called [[Node.js]], which handles most of the tools for the web.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-git?u=76281980&t=129)** So you may want to go to the website and download the installer for that.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (9), [[Windows]] (4), application (2), [[Linux]] (2), web (2)
+> **Frameworks & Libraries:** [[Git]] (9), [[Windows]] (4), [[Linux]] (2), [[Version Control]] (1), [[GitHub]] (1)
 > **CLI Commands:** git (9), make (1), find (1), ls (1), node (1)
 > **Tools:** terminal (4), github (1), visual studio (1)
 > **Env Vars:** url (1), dir (1)
@@ -278,12 +274,11 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **URLs:** [git-scm.com](https://git-scm.com) (1)
 
-#### Setting up Git
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980)
+#### [Setting up Git](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=0)** - [Instructor] Let's take care of setting up a project to use Git.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=0)** - [Instructor] Let's take care of setting up a project to use [[Git]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=3)** Now, the first step is to set up some of the configuration variables.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=15)** You can use the git config command and set up the username as well as the user email.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=20)** If you already have a GitHub account, you may want to use your GitHub email address here so you'll get credit on GitHub as well.
+> **[0:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=20)** If you already have a [[GitHub]] account, you may want to use your GitHub email address here so you'll get credit on GitHub as well.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=28)** The global option makes sure that every project in this computer will use the same name and email address.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=134)** Now, this is where Git stores all the information about the project.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=138)** If you're on Linux, you can take a look at it by doing an ls -la command.
+> **[2:18](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=138)** If you're on [[Linux]], you can take a look at it by doing an ls -la command.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-git-and-github-23011330/installing-git-and-requirements?u=76281980&t=143)** If we make this a lot bigger, you'll see that there is now a Git folder.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (23), [[GitHub]] (4), next (3), [[Linux]] (2), cd (2)
+> **Frameworks & Libraries:** [[Git]] (23), [[GitHub]] (4), [[Linux]] (2)
 > **CLI Commands:** git (23), make (4), ls (2), cd (2), find (1)
 > **Tools:** terminal (5), github (4), bash (2), visual studio (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -408,12 +403,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Analogies:** for example (1)
 
-#### Understanding Git environments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-git-environments?u=76281980)
+#### [Understanding Git environments](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-git-environments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-git-environments?u=76281980&t=0)** - [Instructor] Now that we've created our first commit, let's dig into how Git takes care of things.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-git-environments?u=76281980&t=0)** - [Instructor] Now that we've created our first commit, let's dig into how [[Git]] takes care of things.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-git-environments?u=76281980&t=5)** If you take a look at what you got when you issued the log command, you should see something like this.
 >
@@ -571,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (23), next (5)
+> **Frameworks & Libraries:** [[Git]] (23)
 > **CLI Commands:** git (23), make (3)
 > **Definitions:** is a  (2), is called (2), means that (1), is an  (1)
 > **File Paths:** readme.md (1), notes.md (1)
@@ -580,18 +574,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Ignoring files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980)
+#### [Ignoring files](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=0)** - [Instructor] Git is great at tracking files but you don't always have to track everything.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=0)** - [Instructor] [[Git]] is great at tracking files but you don't always have to track everything.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=4)** You could have some files with some passwords or other sensitive information that you don't want to share with others.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=10)** That could be authentication tokens, API keys, et cetera.
+> **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=10)** That could be authentication [[Tokens]], API keys, et cetera.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=14)** Ignored files aren't uploaded to GitHub, so this is a great way to add notes that you don't need to share with others.
+> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=14)** Ignored files aren't uploaded to [[GitHub]], so this is a great way to add notes that you don't need to share with others.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=20)** So, for example, a great place to keep to-do items.
 >
@@ -611,7 +604,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=69)** Another common file is called node_modules.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=72)** This is created by NPM when working on a lot of web projects, so we can add that here.
+> **[1:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=72)** This is created by [[npm]] when working on a lot of web projects, so we can add that here.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-git-and-github-23011330/ignoring-files?u=76281980&t=78)** You can also add a notes folder for local notes about the project that you don't want to share or you can create a special extension and add the notes anywhere in your project.
 >
@@ -653,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[Tokens]] (2), api (2), [[GitHub]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Tokens]] (2), [[GitHub]] (1), [[npm]] (1)
 > **CLI Commands:** git (7), npm (1), rm (1), make (1)
 > **Code Identifiers:** macos (2), node_modules (1)
 > **Env Vars:** api (2), npm (1)
@@ -662,12 +655,11 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **File Paths:** authentication.js (1), project-todo.md (1)
 
-#### Deleting and renaming files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980)
+#### [Deleting and renaming files](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=0)** - [Instructor] As you're working with your Git projects you'll need to rename, move, or delete certain files.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=0)** - [Instructor] As you're working with your [[Git]] projects you'll need to rename, move, or delete certain files.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=5)** The way that Git handles these normal file operations can be a bit confusing, so let's go over those.
 >
@@ -693,7 +685,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=61)** Let's go ahead and clear this out.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=63)** That'll bring back our index html and you can see that there is nothing to commit.
+> **[1:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=63)** That'll bring back our index [[HTML]] and you can see that there is nothing to commit.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=67)** We have a working tree that is currently clean.
 >
@@ -737,7 +729,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=164)** It's recording the deletion of index at html and then an addition of a new file called home.html.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=172)** So this sort of makes sense and this is really just the way that Linux deals with files.
+> **[2:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=172)** So this sort of makes sense and this is really just the way that [[Linux]] deals with files.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-git-and-github-23011330/deleting-and-renaming-files?u=76281980&t=177)** When you're reading something, what you're doing is creating a new file and then deleting the old one.
 >
@@ -811,7 +803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (26), [[HTML]] (10), [[Linux]] (2), hit (1)
+> **Frameworks & Libraries:** [[Git]] (26), [[HTML]] (10), [[Linux]] (2)
 > **CLI Commands:** git (26), mv (6), make (2), rm (1)
 > **File Paths:** home.html (2), index.html (2)
 > **Tools:** visual studio (2)
@@ -820,12 +812,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1), just like (1)
 > **Env Vars:** html (1)
 
-#### Differences
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980)
+#### [Differences](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=0)** - [Instructor] Git gives you a lot of freedom to experiment with your code.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=0)** - [Instructor] [[Git]] gives you a lot of freedom to experiment with your code.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=3)** And one of the features that can really help is showing the differences between files.
 >
@@ -845,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=56)** We'll call it docs.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=57)** And I'm going to move all of my HTML documents onto that docs folder.
+> **[0:57](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=57)** And I'm going to move all of my [[HTML]] documents onto that docs folder.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/differences?u=76281980&t=65)** Now let's try doing a git diff.
 >
@@ -911,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (10), [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[Git]] (10), [[HTML]] (1)
 > **CLI Commands:** git (10)
 > **Tools:** visual studio (2), terminal (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
@@ -920,12 +911,11 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Changing history
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980)
+#### [Changing history](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=0)** - [Tutor] Now it's good to think of what you're doing with git as documenting the history of your project.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=0)** - [Tutor] Now it's good to think of what you're doing with [[Git]] as documenting the history of your project.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=5)** And like I mentioned in the intro, unlike most historians you have a time machine that lets you change history.
 >
@@ -955,7 +945,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=55)** So I have these different files in the docs folder.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=59)** And I realized that on my index, that HTML file, I have this navigation.
+> **[0:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=59)** And I realized that on my index, that [[HTML]] file, I have this navigation.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/changing-history?u=76281980&t=64)** And in my navigation I have a number of text uppercase classes.
 >
@@ -1249,7 +1239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (20), [[HTML]] (1), application (1), feature (1), hit (1)
+> **Frameworks & Libraries:** [[Git]] (20), [[HTML]] (1)
 > **CLI Commands:** git (20), make (10)
 > **Cross-References:** go back to (2), in the last (1)
 > **Definitions:** is a  (2), is called (1)
@@ -1258,12 +1248,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
 
-#### Branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/branches?u=76281980)
+#### [Branches](https://www.linkedin.com/learning/learning-git-and-github-23011330/branches?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/branches?u=76281980&t=0)** - [Instructor] One of the most powerful features of Git is the ability to create branches.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/branches?u=76281980&t=0)** - [Instructor] One of the most powerful features of [[Git]] is the ability to create branches.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/branches?u=76281980&t=4)** Now, branches let you create different versions of your code, so that you can play around with adding new features without worrying about messing up what's stable.
 >
@@ -1395,7 +1384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (21), feature (2), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Git]] (21)
 > **CLI Commands:** git (21), make (4), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Tools:** visual studio (1)
@@ -1403,8 +1392,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge conflicts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980)
+#### [Merge conflicts](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=46)** So let's take a look at how that works in our project.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=49)** Now, if we take a look at the index of that HTML document, at about line 46, you'll notice that this introduction text is on a headline level 3.
+> **[0:49](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=49)** Now, if we take a look at the index of that [[HTML]] document, at about line 46, you'll notice that this introduction text is on a headline level 3.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=60)** And if you take a peek at either the columns or the media file, both of those use a larger font size, a h2 right here, with a display-4, which is going to make it look even bigger because this is a bootstrap class that makes your text look really big.
 >
@@ -1458,7 +1446,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=139)** So to fix this, let's go ahead and go back to the homepage.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=148)** To fix this, I'm going to use git-flow to start a branch to fix that headline.
+> **[2:28](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=148)** To fix this, I'm going to use [[Git]]-flow to start a branch to fix that headline.
 >
 > **[2:33](https://www.linkedin.com/learning/learning-git-and-github-23011330/merge-conflicts?u=76281980&t=153)** So I'm going to say git switch -c and then fixheadline.
 >
@@ -1642,7 +1630,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (13), [[HTML]] (6), feature (3), hit (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (13), [[HTML]] (6)
 > **CLI Commands:** git (13), make (10)
 > **UI Navigation:** go to (2), switch to (2), open the (1)
 > **Code Identifiers:** oneline (2), online (1), fixheadline (1)
@@ -1651,14 +1639,13 @@ created: 2026-05-02
 > **Env Vars:** html (3)
 > **Definitions:** is a  (2), is an  (1)
 
-#### Git stash and clean
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980)
+#### [Git stash and clean](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980&t=0)** - [Instructor] Some commands aren't really part of the core of what GitHub can do, but they're so useful that I'd like to leave them here as a bonus before we get into GitHub.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980&t=0)** - [Instructor] Some commands aren't really part of the core of what [[GitHub]] can do, but they're so useful that I'd like to leave them here as a bonus before we get into GitHub.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980&t=10)** So the first command that I want to show you is called the git stash.
+> **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980&t=10)** So the first command that I want to show you is called the [[Git]] stash.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/git-stash-and-clean?u=76281980&t=14)** Stashing is a way of putting away code temporarily so that you can work on something else.
 >
@@ -1848,7 +1835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (36), hit (4), [[GitHub]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Git]] (36), [[GitHub]] (2)
 > **CLI Commands:** git (36), make (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Tools:** github (2)
@@ -1861,18 +1848,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is GitHub?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
+#### [What is GitHub?](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=0)** - [Ray] GitHub is an online service that allows developers to work together.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=0)** - [Ray] [[GitHub]] is an online service that allows developers to work together.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=4)** It's sometimes known as a social coding website.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=7)** Now, GitHub is essentially a storage service in the cloud where developers can work with each other on code.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=14)** Now, everything you learned about Git is still applicable to GitHub.
+> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=14)** Now, everything you learned about [[Git]] is still applicable to GitHub.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=17)** What GitHub adds is a collaborative platform, and that's really just features that allow you to work with others.
 >
@@ -1890,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=59)** Next, you'll need to learn how to push changes to add your local files to the remote repository.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=65)** And then finally, you'll need to learn how to fetch any changes that have happened in the repository and pull those changes onto your local machine.
+> **[1:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=65)** And then finally, you'll need to learn how to [[Fetch]] any changes that have happened in the repository and pull those changes onto your local machine.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/what-is-github?u=76281980&t=74)** Now let's take a look at how we set up a repository.
 >
@@ -1984,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (14), cloud (3), next (3), [[Git]] (2), management (1)
+> **Frameworks & Libraries:** [[GitHub]] (14), [[Git]] (2), [[Fetch]] (1)
 > **Tools:** github (14)
 > **Prerequisites:** you'll need (4), set up (2), setup (1)
 > **Definitions:** is a  (2), is an  (1), known as (1), means that (1)
@@ -1993,18 +1979,17 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 
-#### Pushing to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980)
+#### [Pushing to GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=0)** - [Ray] Let's take our project and work on pushing the code to GitHub, so that we can see what it's capable of.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=0)** - [Ray] Let's take our project and work on pushing the code to [[GitHub]], so that we can see what it's capable of.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=5)** But first, we're going to discuss some of those commands that we saw earlier on the GitHub website.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=11)** The first was adding remotes.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=13)** Now the command for this is normally git remote add, and then the name that you want to add for the remote, and then the URL where you want to place this file.
+> **[0:13](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=13)** Now the command for this is normally [[Git]] remote add, and then the name that you want to add for the remote, and then the URL where you want to place this file.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/pushing-to-github?u=76281980&t=24)** The way that you connect your project to GitHub is by setting up this remote connection with this git remote command.
 >
@@ -2136,7 +2121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (17), [[Git]] (17), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (17), [[Git]] (17)
 > **CLI Commands:** git (17), make (1)
 > **Tools:** github (17)
 > **Env Vars:** url (10), readme (2)
@@ -2145,12 +2130,11 @@ created: 2026-05-02
 > **Definitions:** means that (1), is an  (1)
 > **UI Navigation:** go to (1)
 
-#### GitHub options
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980)
+#### [GitHub options](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=0)** - [Instructor] Let's take a look at the typical GitHub repo, and I'll go over the different options that are available to you here.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=0)** - [Instructor] Let's take a look at the typical [[GitHub]] repo, and I'll go over the different options that are available to you here.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=6)** Now you can divide the GitHub page into several different parts, so you can see that at the top, we have a kind of directory navigation of GitHub.
 >
@@ -2162,7 +2146,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=29)** You can see that some of that matches what you see here in the main menu bar.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=35)** And to the right, you can find things like search, the new GitHub Copilot, and the ability to create different things here, so new repository, codespace, just et cetera.
+> **[0:35](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=35)** And to the right, you can find things like search, the new [[GitHub Copilot]], and the ability to create different things here, so new repository, codespace, just et cetera.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=47)** In addition to that, you have a number of other buttons.
 >
@@ -2204,17 +2188,17 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=186)** This code menu allows you to work with the code, and you can do a number of different things.
 >
-> **[3:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=192)** So you can download this to your local drive using a terminal, and you could use a git clone command, and this button right here will give you the URL copied to your clipboard.
+> **[3:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=192)** So you can download this to your local drive using a terminal, and you could use a [[Git]] clone command, and this button right here will give you the URL copied to your clipboard.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=205)** You can also download any repo into a ZIP file or open it with a separate GitHub desktop application.
 >
 > **[3:32](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=212)** And you can see that you can download in different ways through HTPS, SSH, or using the GitHub Command Line Interface, a terminal tool.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=222)** Then in addition to that, you have Codespaces.
+> **[3:42](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=222)** Then in addition to that, you have [[Codespaces]].
 >
 > **[3:45](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=225)** Codespaces are a way to get to an editor in the cloud where you can edit these files with a full-featured version of Visual Studio Code.
 >
-> **[3:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=235)** And finally, we have Copilot, which is a way to ask questions about your current project.
+> **[3:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=235)** And finally, we have [[Microsoft Copilot|Copilot]], which is a way to ask questions about your current project.
 >
 > **[4:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-options-27982777?u=76281980&t=242)** Now, not everybody will see Copilot.
 >
@@ -2410,7 +2394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (20), [[Search]] (4), [[Codespaces]] (4), [[Microsoft Copilot|Copilot]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (20), [[Codespaces]] (4), [[Microsoft Copilot|Copilot]] (3), [[GitHub Copilot]] (1), [[Git]] (1)
 > **Tools:** github (21), terminal (2), command line (1), visual studio (1)
 > **UI Navigation:** click on (6), go to (5), dropdown (2), drag and drop (1), in the menu (1)
 > **CLI Commands:** make (7), find (3), git (1), ssh (1)
@@ -2419,12 +2403,11 @@ created: 2026-05-02
 > **Analogies:** for example (5), similar to (2)
 > **Exercise Files:** template (2), github repo (1), zip file (1)
 
-#### Understanding GitHub flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-github-flow?u=76281980)
+#### [Understanding GitHub flow](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-github-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-github-flow?u=76281980&t=0)** - [Instructor] GitHub flow sometimes called GitFlow is a branch-based workflow that is popular when using the combination of Git with a tool like GitHub.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-github-flow?u=76281980&t=0)** - [Instructor] [[GitHub]] flow sometimes called GitFlow is a branch-based workflow that is popular when using the combination of [[Git]] with a tool like GitHub.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/understanding-github-flow?u=76281980&t=10)** Using GitHub Flow your main branch has the current copy of the code which has never changed directly.
 >
@@ -2522,7 +2505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (8), [[GitHub]] (6), hit (6), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Git]] (1)
 > **Tools:** github (6)
 > **CLI Commands:** make (3), git (1)
 > **Definitions:** is a  (2)
@@ -2531,12 +2514,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning Markdown
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980)
+#### [Learning Markdown](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=0)** - [Instructor] Developers and writers often use a language called markdown to write content, and you'll find it often in many GitHub repos.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=0)** - [Instructor] Developers and writers often use a language called markdown to write content, and you'll find it often in many [[GitHub]] repos.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=8)** Let's take a look at the basics of that format and see how it works and how you can use it.
 >
@@ -2554,7 +2536,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=49)** So there is a syntax for writing headlines and you can create headlines of different levels.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=55)** This is going to correspond to HTML headlines.
+> **[0:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=55)** This is going to correspond to [[HTML]] headlines.
 >
 > **[0:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=59)** In HTML, there are six levels of headlines.
 >
@@ -2586,7 +2568,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=141)** In addition to headlines, there's a number of different styles for regular formatting.
 >
-> **[2:27](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=147)** So for example, you can use two asterisks before and after a word to make that word "bold."
+> **[2:27](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=147)** So for example, you can use two asterisks before and after a [[Microsoft Word|word]] to make that word "bold."
 >
 > **[2:33](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=153)** Or you can also use underscores.
 >
@@ -2674,7 +2656,7 @@ created: 2026-05-02
 >
 > **[6:48](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=408)** You can also create a link that doesn't have a URL and define the URL later on.
 >
-> **[6:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=415)** So this LinkedIn link right here is tied to this LinkedIn in brackets down here.
+> **[6:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=415)** So this [[LinkedIn]] link right here is tied to this LinkedIn in brackets down here.
 >
 > **[7:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=422)** And it will click into this link.
 >
@@ -2756,7 +2738,7 @@ created: 2026-05-02
 >
 > **[10:26](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=626)** And then I can use any sort of language here.
 >
-> **[10:29](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=629)** So I can say "let X," I'm going to use JavaScript here.
+> **[10:29](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=629)** So I can say "let X," I'm going to use [[JavaScript]] here.
 >
 > **[10:33](https://www.linkedin.com/learning/learning-git-and-github-23011330/learning-markdown?u=76281980&t=633)** "Let X equals five."
 >
@@ -2780,7 +2762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Microsoft Word|Word]] (6), [[GitHub]] (3), [[LinkedIn]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[GitHub]] (3), [[LinkedIn]] (3), [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** url (6), html (2), https (2), http (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -2789,12 +2771,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 
-#### GitHub Markdown additions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980)
+#### [GitHub Markdown additions](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=0)** [Instructor] Over time, GitHub has added improvements to the main markdown language.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=0)** [Instructor] Over time, [[GitHub]] has added improvements to the main markdown language.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=4)** So much so that this version of GitHub is known as GFM or GitHub Flavor Markdown.
 >
@@ -2842,7 +2823,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=234)** So to do that we're going to have to go to a pull request and notice that if I do a slash right here I'll get a list of sort of options.
 >
-> **[4:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=243)** And you can see here that I can add a details section just like I showed you before, but I can also add a code block and then specify the code say JavaScript, and it gives me that nice little helper.
+> **[4:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=243)** And you can see here that I can add a details section just like I showed you before, but I can also add a code block and then specify the code say [[JavaScript]], and it gives me that nice little helper.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=256)** And I can also do a table and then it's going to ask me how many columns and how many rows and it's just going to sort of fill that out for you.
 >
@@ -2858,7 +2839,7 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=320)** So when you work with GitHub projects, these will be actually checkable and they will be sortable as well, so that is actually pretty nice, I love task lists.
 >
-> **[5:31](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=331)** There's also a way of putting in almost any HTML, and one of the ways that you can use that is by creating a collapsed details section.
+> **[5:31](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=331)** There's also a way of putting in almost any [[HTML]], and one of the ways that you can use that is by creating a collapsed details section.
 >
 > **[5:40](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-markdown-additions?u=76281980&t=340)** So if you add this into some code, let's go back into our project and I'll go over to sort of just a regular page here and I'm going to paste this in here so notice it's basically the details tag here and here, and then a summary section, as well as a header and some body copy here.
 >
@@ -2944,7 +2925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[GitHub]] (8), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[HTML]] (2), [[JavaScript]] (1)
 > **Tools:** github (8)
 > **Definitions:** is a  (4), known as (2), refers to (1)
 > **UI Navigation:** drag and drop (3), click on (2), go to (1)
@@ -2953,8 +2934,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 
-#### Repo essential files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980)
+#### [Repo essential files](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2968,7 +2948,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=20)** It's sort of like the repo's homepage.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=23)** The readme file can be either in the main folder, which is also known as the root of the repo, but it can also go in the docs folder or in a special hidden .github folder.
+> **[0:23](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=23)** The readme file can be either in the main folder, which is also known as the root of the repo, but it can also go in the docs folder or in a special hidden .[[GitHub]] folder.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=34)** And the nice thing about that is that it just makes your code look a lot cleaner if it's not something that you see on the homepage, especially when you add a lot of these different files.
 >
@@ -3082,7 +3062,7 @@ created: 2026-05-02
 >
 > **[6:59](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=419)** So basically you add in some sort of pattern.
 >
-> **[7:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=422)** So this would basically say that all the JavaScript documents or the documents with a JavaScript extension are assigned to planet of the web.
+> **[7:02](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=422)** So this would basically say that all the [[JavaScript]] documents or the documents with a JavaScript extension are assigned to planet of the web.
 >
 > **[7:13](https://www.linkedin.com/learning/learning-git-and-github-23011330/repo-essential-files?u=76281980&t=433)** So any pull request containing those would, you can do any sort of glob pattern, so like this would mean that any folder with any file that has a JavaScript extension would work like that.
 >
@@ -3096,7 +3076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[GitHub]] (5), [[JavaScript]] (3), hit (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[JavaScript]] (3)
 > **Documentation:** the readme (7), the docs (3)
 > **CLI Commands:** find (3), make (3)
 > **UI Navigation:** go to (4), click on (1), dropdown (1)
@@ -3110,12 +3090,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
+#### [Issues](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=0)** - [Instructor] GitHub issues forms the foundation of how GitHub projects have been done since the beginning of GitHub itself.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=0)** - [Instructor] [[GitHub]] issues [[Forms]] the foundation of how GitHub projects have been done since the beginning of GitHub itself.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=6)** If you go to the Issues tab, you'll see that you can create issues by hitting this New issue tab, and then you give the issue a title.
 >
@@ -3215,7 +3194,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=289)** It's actually a pretty impressive feature if you have it available.
 >
-> **[4:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=292)** And this may require a subscription to GitHub Copilot.
+> **[4:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=292)** And this may require a subscription to [[GitHub Copilot]].
 >
 > **[4:56](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=296)** So you can see down here the participants appear, and you can click this to transfer an issue to another project, and that will let you kind of move issues around different projects if you want to do that.
 >
@@ -3251,13 +3230,13 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=383)** So if, for example, if we pick jojo, you can see that now this right here changes and it's showing you only the issues that have been authored by jojo.
 >
-> **[6:34](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=394)** So if we want to remove that, we could just take that out of here and hit return and it'll show you the rest of the issues.
+> **[6:34](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=394)** So if we want to remove that, we could just take that out of here and hit return and it'll show you the [[Representational State Transfer (REST)|rest]] of the issues.
 >
 > **[6:41](https://www.linkedin.com/learning/learning-git-and-github-23011330/issues?u=76281980&t=401)** So in addition to creating issues here, controlling the labels and the milestones, you have a fantastic way of filtering in different ways to control and manage the flow of all of your issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), feature (3), hit (3), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Forms]] (1), [[GitHub Copilot]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** github (6)
 > **UI Navigation:** go to (2), click on (2)
 > **Analogies:** for example (2), similar to (1)
@@ -3266,18 +3245,17 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Warnings:** warning (1)
 
-#### Pull requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980)
+#### [Pull requests](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=0)** - [Instructor] Pull request is how users ask for changes to be made on the main site.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=5)** Now, you can do them directly on GitHub when you want to make some minor changes to your project.
+> **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=5)** Now, you can do them directly on [[GitHub]] when you want to make some minor changes to your project.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=10)** So, let's take a look at how that's done.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=11)** So, here's our project and I'm going to go into the docs folder and then, take a look at my index.html file.
+> **[0:11](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=11)** So, here's our project and I'm going to go into the docs folder and then, take a look at my index.[[HTML]] file.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=20)** And what I want to do is maybe change the title of this webpage because it's really something I copied from another project and it's called Layouts.
 >
@@ -3287,7 +3265,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=41)** Notice that it's all syntax highlighted, it's got line number, it's actually a pretty cool editor.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=46)** And so, I'm going to change this Layouts title to Learning Git and GitHub, which is the title for this project.
+> **[0:46](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=46)** And so, I'm going to change this Layouts title to Learning [[Git]] and GitHub, which is the title for this project.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-requests?u=76281980&t=55)** And then, you can hit preview to preview the changes.
 >
@@ -3387,7 +3365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[GitHub]] (4), [[HTML]] (2), management (2), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[HTML]] (2), [[Git]] (1)
 > **CLI Commands:** make (4), git (1)
 > **Tools:** github (4)
 > **UI Navigation:** click on (2), go to (1)
@@ -3396,14 +3374,13 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Definitions:** is a  (1)
 
-#### Pull request features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980)
+#### [Pull request features](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=0)** - [Instructor] Pull requests are part of GitHub Flow, and they're probably the main reason that GitHub exists.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=0)** - [Instructor] Pull requests are part of [[GitHub]] Flow, and they're probably the main reason that GitHub exists.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=5)** The ability to communicate with others about your code is what makes Git social.
+> **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=5)** The ability to communicate with others about your code is what makes [[Git]] social.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=11)** And GitHub does it in a fantastic way.
 >
@@ -3513,7 +3490,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=379)** I'm going to point out a couple of things here that are pretty good.
 >
-> **[6:22](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=382)** I'm going to go to the index.html file and show you that if I scroll all the way down to the bottom, I can see that I have sort of the changing of the script from Bootstrap 4.6 to Bootstrap 5.3.
+> **[6:22](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=382)** I'm going to go to the index.[[HTML]] file and show you that if I scroll all the way down to the bottom, I can see that I have sort of the changing of the script from Bootstrap 4.6 to Bootstrap 5.3.
 >
 > **[6:38](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=398)** That looks pretty good.
 >
@@ -3523,7 +3500,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=409)** So this right here is a pretty comprehensive little editor.
 >
-> **[6:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=412)** It's not as good as something like Codespaces or Visual Studio Code, but you'll also have the option of reviewing this in Visual Studio Code if you want to by hitting this "Review in Codespace" button.
+> **[6:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=412)** It's not as good as something like [[Codespaces]] or Visual Studio Code, but you'll also have the option of reviewing this in Visual Studio Code if you want to by hitting this "Review in Codespace" button.
 >
 > **[7:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/pull-request-features?u=76281980&t=424)** Now from here I'm going to notice that, so I expanded all this, I'm going to go all the way down to the bottom.
 >
@@ -3569,7 +3546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Security]] (2), hit (2), [[Git]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1), [[HTML]] (1), [[Codespaces]] (1)
 > **Definitions:** is a  (5), means that (1), is an  (1)
 > **CLI Commands:** make (5), git (1)
 > **Tools:** github (3), visual studio (2)
@@ -3578,8 +3555,7 @@ created: 2026-05-02
 > **Versions:** 4.6 (1), 5.3 (1)
 > **Non-Speech:** (keyboard keys clicking) (2)
 
-#### Finishing your code review
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/finishing-your-code-review?u=76281980)
+#### [Finishing your code review](https://www.linkedin.com/learning/learning-git-and-github-23011330/finishing-your-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3653,15 +3629,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4)
 > **Code Identifiers:** jquery (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a CODEOWNERS file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980)
+#### [Using a CODEOWNERS file](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3749,7 +3723,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=267)** I'm going to hit review changes.
 >
-> **[4:30](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=270)** I don't need to review it in Codespaces.
+> **[4:30](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=270)** I don't need to review it in [[Codespaces]].
 >
 > **[4:32](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=272)** This simple deletion is something I can just go ahead and approve.
 >
@@ -3773,11 +3747,11 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=342)** So we'll go ahead and delete this branch and now our update has been done.
 >
-> **[5:48](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=348)** So all those different options in GitHub give you the ability to really protect how your projects are working and how you work with other people to accomplish reviews and also take care of any updates to your website.
+> **[5:48](https://www.linkedin.com/learning/learning-git-and-github-23011330/using-a-codeowners-file?u=76281980&t=348)** So all those different options in [[GitHub]] give you the ability to really protect how your projects are working and how you work with other people to accomplish reviews and also take care of any updates to your website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Codespaces]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (1), [[GitHub]] (1)
 > **Env Vars:** codeowners (5)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -3786,12 +3760,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organizing projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980)
+#### [Organizing projects](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=0)** - [Instructor] GitHub provides a lot of tools to help you manage projects.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=0)** - [Instructor] [[GitHub]] provides a lot of tools to help you manage projects.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=3)** Let's take a look at how they work.
 >
@@ -3951,7 +3924,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=444)** And you'll see that I can choose different ways of looking at my work.
 >
-> **[7:29](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=449)** So there is the table view, which is sort of like an Excel spreadsheet, and that can show me all of the sort of project items that can be tied to issues.
+> **[7:29](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=449)** So there is the table view, which is sort of like an [[Microsoft Excel|Excel]] spreadsheet, and that can show me all of the sort of project items that can be tied to issues.
 >
 > **[7:39](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=459)** I can also look at it in a Kanban view, and this used to be the old way of doing things.
 >
@@ -3963,7 +3936,7 @@ created: 2026-05-02
 >
 > **[8:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=483)** So notice that from here, I can have view one, and I can select the new view and see these in a number of different ways.
 >
-> **[8:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=490)** But I really do like, for project management, this sort of Kanban view, which is a part of the Agile methodology.
+> **[8:10](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=490)** But I really do like, for project management, this sort of Kanban view, which is a part of the [[Agile Development|Agile]] methodology.
 >
 > **[8:17](https://www.linkedin.com/learning/learning-git-and-github-23011330/organizing-projects?u=76281980&t=497)** And notice that it's given me a number of different sort of columns.
 >
@@ -4021,7 +3994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), hit (6), management (4), web (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[Microsoft Excel|Excel]] (1), [[Agile Development|Agile]] (1)
 > **Tools:** github (9)
 > **UI Navigation:** select the (2), go to (2), click on (2), dropdown (1)
 > **CLI Commands:** find (2), make (2)
@@ -4030,18 +4003,17 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syncing GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980)
+#### [Syncing GitHub](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=0)** - [Instructor] Let's talk about the different ways that we can synchronize what's on GitHub with our local hard drive.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=0)** - [Instructor] Let's talk about the different ways that we can synchronize what's on [[GitHub]] with our local hard drive.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=6)** The first way that we do this is by using a command called git clone.
+> **[0:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=6)** The first way that we do this is by using a command called [[Git]] clone.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=9)** Git clone will take the copy of the GitHub repository and place it on your local hard drive.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=15)** If we already have a copy of the repository on our local hard drive, in order to synchronize the information that is on GitHub, we can issue a git fetch command.
+> **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=15)** If we already have a copy of the repository on our local hard drive, in order to synchronize the information that is on GitHub, we can issue a git [[Fetch]] command.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-git-and-github-23011330/syncing-github?u=76281980&t=25)** Fetch downloads information from the remote repository and brings that information to your local repo, so that it's up to date.
 >
@@ -4211,7 +4183,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (17), [[GitHub]] (15), [[Fetch]] (4), data (2), hit (1)
+> **Frameworks & Libraries:** [[Git]] (17), [[GitHub]] (15), [[Fetch]] (4)
 > **CLI Commands:** git (17), make (5)
 > **Tools:** github (15), visual studio (4), terminal (2)
 > **UI Navigation:** go to (4), click on (2)
@@ -4220,8 +4192,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2), source code (1)
 > **Versions:** v1.0.0 (1), v0.1 (1)
 
-#### Repository insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980)
+#### [Repository insights](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4229,7 +4200,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=7)** So this tab is going to give you all kinds of information about what is going on with this project.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=12)** Just to note that this is going to show a little bit differently depending on whether your repo is set to private, and whether you have a GitHub Pro or an enterprise account.
+> **[0:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=12)** Just to note that this is going to show a little bit differently depending on whether your repo is set to private, and whether you have a [[GitHub]] Pro or an enterprise account.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=23)** Some of the features that you'll see here will only show up on certain types of accounts.
 >
@@ -4279,11 +4250,11 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=192)** I don't really go here that often.
 >
-> **[3:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=195)** The dependency graph, really, normally it refers to when you have to package that JSON file 'cause you're working on an Node.js project or a GEM file from like a Ruby project.
+> **[3:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=195)** The dependency graph, really, normally it refers to when you have to package that [[JSON]] file 'cause you're working on an [[Node.js]] project or a GEM file from like a Ruby project.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=207)** And this would tell you what dependencies your project has and if any of those dependencies are out of date.
 >
-> **[3:35](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=215)** But this particular project is just a bunch of HTML files, so it's not going to really give you any information.
+> **[3:35](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=215)** But this particular project is just a bunch of [[HTML]] files, so it's not going to really give you any information.
 >
 > **[3:43](https://www.linkedin.com/learning/learning-git-and-github-23011330/repository-insights?u=76281980&t=223)** There is something called Dependabot that you can set up to have GitHub keep track of your dependencies, and when they go out of date and suggest changes to those dependencies if you need to update them.
 >
@@ -4373,7 +4344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), traffic (3), [[JSON]] (1), [[Node.js]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[JSON]] (1), [[Node.js]] (1), [[HTML]] (1)
 > **Tools:** github (9)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** node (1), ruby (1), make (1)
@@ -4382,12 +4353,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **File Paths:** node.js (1)
 
-#### GitHub shortcut features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980)
+#### [GitHub shortcut features](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=0)** - [Instructor] The GitHub website has probably more shortcuts than any other program I've ever seen in my life.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=0)** - [Instructor] The [[GitHub]] website has probably more shortcuts than any other program I've ever seen in my life.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=6)** It's almost ridiculous.
 >
@@ -4417,11 +4387,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=81)** So this is also context sensitive.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=84)** If I'm looking for say a JavaScript file, maybe I could do a .js.
+> **[1:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=84)** If I'm looking for say a [[JavaScript]] file, maybe I could do a .js.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=90)** And let's see, of course, I didn't have a .js.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=93)** Let's do a .html because I know I have several of them.
+> **[1:33](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=93)** Let's do a .[[HTML]] because I know I have several of them.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=97)** I can move up and down with the arrows just to get to the file that I'm looking for, and then just hit the return button to get to it, immediately taking me to an editor.
 >
@@ -4441,7 +4411,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=150)** So it's a little bit more flexible than the search and it's sort of constrained to like the things that you would be looking for.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=158)** All right, so in addition to that, I can also type in the shortcut for the command palette itself is Command + K on a Mac or Control + K on Windows.
+> **[2:38](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=158)** All right, so in addition to that, I can also type in the shortcut for the command palette itself is Command + K on a Mac or Control + K on [[Windows]].
 >
 > **[2:50](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=170)** Let's go back into my repository and I'll do Command + K.
 >
@@ -4465,7 +4435,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=218)** Okay, a couple of other really good ones are the period.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=222)** The period takes you to a Codespaces-like editor that is known as [github.dev](https://github.dev).
+> **[3:42](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=222)** The period takes you to a [[Codespaces]]-like editor that is known as [github.dev](https://github.dev).
 >
 > **[3:50](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-shortcut-features?u=76281980&t=230)** So if you take a look at this URL right here, you'll notice that it actually switched this from [github.com/my](https://github.com/my) username and then slash the name of the project to [github.dev](https://github.dev).
 >
@@ -4511,7 +4481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), hit (6), [[Search]] (4), [[Codespaces]] (2), feature (2)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (2), [[JavaScript]] (1), [[HTML]] (1), [[Windows]] (1)
 > **Tools:** github (7), jupyter (1)
 > **Definitions:** is a  (3), means that (1), known as (1)
 > **URLs:** [github.dev](https://github.dev) (3), [github.com](https://github.com) (1)
@@ -4525,14 +4495,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub discussions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
+#### [GitHub discussions](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980&t=0)** - [Instructor] Discussions are a way to encourage conversations about your code that are not necessarily related to fixing code.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980&t=7)** Discussions are based on GitHub Issues, so they look a little bit like Issues but they have some additional features.
+> **[0:07](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980&t=7)** Discussions are based on [[GitHub]] Issues, so they look a little bit like Issues but they have some additional features.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-discussions?u=76281980&t=15)** Discussions used to happen actually inside Issues.
 >
@@ -4712,7 +4681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), feature (4), [[Search]] (4), hit (2), power (1)
+> **Frameworks & Libraries:** [[GitHub]] (4)
 > **Tools:** github (4)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (1), click on (1), go to (1)
@@ -4721,12 +4690,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### GitHub notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980)
+#### [GitHub notifications](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=0)** - [Instructor] GitHub send notifications for all types of activities on the website.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=0)** - [Instructor] [[GitHub]] send notifications for all types of activities on the website.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=4)** So let's go over some of the types of notifications and how to control them a little bit.
 >
@@ -4820,7 +4788,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=294)** And then if there's new vulnerabilities, you can choose also how you get notified.
 >
-> **[4:58](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=298)** There's also a CLI tool.
+> **[4:58](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=298)** There's also a [[CLI]] tool.
 >
 > **[5:01](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-notifications?u=76281980&t=301)** I actually am going to change that to email because I don't use the CLI tool very much for the Penda bot alerts.
 >
@@ -4848,7 +4816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (9), [[CLI]] (2), mobile application (1)
+> **Frameworks & Libraries:** [[GitHub]] (9), [[CLI]] (2)
 > **Tools:** github (9)
 > **UI Navigation:** click on (2), dropdown (1)
 > **Env Vars:** cli (2)
@@ -4856,12 +4824,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub gists
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980)
+#### [GitHub gists](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=0)** - [Instructor] If you have a GitHub account, you also have access to this cool feature called Gists.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=0)** - [Instructor] If you have a [[GitHub]] account, you also have access to this cool feature called Gists.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=5)** They let you share your code snippets with others.
 >
@@ -4873,7 +4840,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=28)** Now, in here, you can see that if you have previously used gists before, you can see the latest ones that you've created right here and you can click over here to view all of the gists or just start to create your own.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=41)** Now, you'll notice that you'll see the icon from my LinkedIn profile, as well as notifications here and you can also click right here to add a new gist.
+> **[0:41](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=41)** Now, you'll notice that you'll see the icon from my [[LinkedIn]] profile, as well as notifications here and you can also click right here to add a new gist.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=52)** But here you can see that it's picking up this information from my GitHub profile and I can also go directly to the profile right here.
 >
@@ -4883,7 +4850,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=75)** So you do want to include the extension because it's going to help the gists figure out what language you're using.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=81)** So you can call this nav and then I'll say bootstrap5.html.
+> **[1:21](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=81)** So you can call this nav and then I'll say bootstrap5.[[HTML]].
 >
 > **[1:30](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-gists?u=76281980&t=90)** So we're going to paste some code from our project here and you can also control how you want this code to be written, whether it's tabs or spaces and how many tabs or spaces you want to use.
 >
@@ -4981,7 +4948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (10), [[HTML]] (5), feature (1), [[LinkedIn]] (1), css (1)
+> **Frameworks & Libraries:** [[GitHub]] (10), [[HTML]] (5), [[LinkedIn]] (1)
 > **Tools:** github (10)
 > **Env Vars:** html (3), css (1), zip (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -4990,12 +4957,11 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **Cross-References:** go back to (1)
 
-#### GitHub wikis
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-wikis?u=76281980)
+#### [GitHub wikis](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-wikis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-wikis?u=76281980&t=0)** - [Instructor] Wikis give you the absolute fastest way to create simple documentation on GitHub.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-wikis?u=76281980&t=0)** - [Instructor] Wikis give you the absolute fastest way to create simple documentation on [[GitHub]].
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-wikis?u=76281980&t=5)** It's a pretty interesting option too since it's a special type of repo that is attached to your own repo.
 >
@@ -5101,7 +5067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), hit (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **UI Navigation:** click on (2), go to (2), drag and drop (1), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** github (2)
@@ -5110,12 +5076,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### GitHub pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980)
+#### [GitHub pages](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=0)** - [Ray] GitHub lets you host and publish static content through the website for free.
+> **[0:00](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=0)** - [Ray] [[GitHub]] lets you host and publish static content through the website for free.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=5)** As a matter of fact, my personal blog at [raybo.org](https://raybo.org) is hosted by GitHub on their website, and it's on completely for free.
 >
@@ -5153,7 +5118,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=129)** Now, when you deploy from a branch, you can choose to host your website in a couple of different ways.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=135)** You can choose a specific branch where the HTML pages will be for your website, and if you leave the site in the main branch, you can either choose to deploy your website from a folder called docs or the root of your website.
+> **[2:15](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=135)** You can choose a specific branch where the [[HTML]] pages will be for your website, and if you leave the site in the main branch, you can either choose to deploy your website from a folder called docs or the root of your website.
 >
 > **[2:32](https://www.linkedin.com/learning/learning-git-and-github-23011330/github-pages-27990117?u=76281980&t=152)** So if you go back into the code repo, you'll see that I have a docs folder.
 >
@@ -5195,8 +5160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5204,15 +5168,15 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=1)** I hope you enjoyed the course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=3)** Now, we have a lot more content on both Git and GitHub, including deep dives and more advanced concepts from great teachers like Kevin Skoglund and courses from people who work at GitHub.
+> **[0:03](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=3)** Now, we have a lot more content on both [[Git]] and [[GitHub]], including deep dives and more advanced concepts from great teachers like Kevin Skoglund and courses from people who work at GitHub.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=14)** If you want to keep up with what I'm up to, you can follow me just about anywhere @planetoftheweb, look for the live streams I do here on LinkedIn, or check out my blog at [raybo.org](https://raybo.org).
+> **[0:14](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=14)** If you want to keep up with what I'm up to, you can follow me just about anywhere @planetoftheweb, look for the live streams I do here on [[LinkedIn]], or check out my blog at [raybo.org](https://raybo.org).
 >
 > **[0:24](https://www.linkedin.com/learning/learning-git-and-github-23011330/next-steps?u=76281980&t=24)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (2), [[Git]] (1), [[LinkedIn]] (1)
 > **Tools:** github (2)
 > **CLI Commands:** git (1)
 > **URLs:** [raybo.org](https://raybo.org) (1)

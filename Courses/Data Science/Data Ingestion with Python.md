@@ -111,12 +111,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why is data ingestion important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980)
+#### [Why is data ingestion important?](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=1)** - [Miki] Algorithms govern our life.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=1)** - [Miki] [[Algorithms]] govern our life.
 >
 > **[0:02](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=2)** They trade the stock market, control our police patrolling and soon will drive our car.
 >
@@ -124,29 +123,28 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=12)** Sometimes a lot of data.
 >
-> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=14)** What surprises many people doing data science is that finding high quality and relevant data takes most of their time.
+> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=14)** What surprises many people doing [[Data Science]] is that finding high quality and relevant data takes most of their time.
 >
 > **[0:22](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=22)** Hi there, I'm Miki Tebeka and for more than 10 years I've been helping researchers become more productive.
 >
 > **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=29)** In this course, I'll show tips and tricks from my experience of getting the right kind of data into the hands of scientist.
 >
-> **[0:38](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=38)** We'll cover many sources of data from files to APIs to databases.
+> **[0:38](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=38)** We'll cover many sources of data from files to APIs to [[Databases]].
 >
-> **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=44)** We'll also talk about validating and cleaning data and how to integrate data quality in your process.
+> **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=44)** We'll also talk about validating and cleaning data and how to integrate [[Data Quality]] in your process.
 >
 > **[0:50](https://www.linkedin.com/learning/data-ingestion-with-python/why-is-data-inegstion-important?u=76281980&t=50)** At the end of this course you'll be able to fit your algorithm with the data it needs no matter where it's residing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Science]] (1), [[Databases]] (1), [[Data Quality]] (1)
 > **Speakers:** - [miki] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-ingestion-with-python/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/what-you-should-know?u=76281980&t=1)** - [Instructor] This course uses the Python programming language and its scientific packages.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/what-you-should-know?u=76281980&t=1)** - [Instructor] This course uses the [[Python (Programming Language)|Python]] programming language and its scientific packages.
 >
 > **[0:05](https://www.linkedin.com/learning/data-ingestion-with-python/what-you-should-know?u=76281980&t=5)** You should be familiar with both at the basic level.
 >
@@ -162,14 +160,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), docker (1)
 > **Tools:** command line (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/data-ingestion-with-python/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -185,25 +182,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Exercise Files:** exercise files (2), download the (1)
 > **CLI Commands:** docker (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Coderpad quizzes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/using-the-coderpad-quizzes?u=76281980)
+#### [Using the Coderpad quizzes](https://www.linkedin.com/learning/data-ingestion-with-python/using-the-coderpad-quizzes?u=76281980)
 
 
 ### 1. Data Ingestion Overview
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data scientists work
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980)
+#### [Overview of data scientists work](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=0)** - [Instructor] When people enter the data science world, they have a certain image in their head, of how work will look like.
+> **[0:00](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=0)** - [Instructor] When people enter the [[Data Science]] world, they have a certain image in their head, of how work will look like.
 >
 > **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=7)** They'll try some cool algorithm on some data, tweak some parameters and produce code that will learn by itself and improve business results, identify cat pictures or protect servers from new kinds of attacks.
 >
@@ -211,7 +205,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=30)** That's why I think that data science should be written as DATAscience.
 >
-> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=36)** Data is dominating two places, one is the amount of time you'll spend on it, the second is the quality of your algorithms.
+> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=36)** Data is dominating two places, one is the amount of time you'll spend on it, the second is the quality of your [[Algorithms]].
 >
 > **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/overview-of-data-scientists-work?u=76281980&t=43)** In their influential article "The Unreasonable Effectiveness of Data" Halevy, Norvig, and Pereira, show that dumb algorithms will perform much better than smart ones, given enough data.
 >
@@ -223,13 +217,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Algorithms]] (3), business (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Data Science]] (2)
 > **CLI Commands:** find (2), cat (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Where does data come from?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980)
+#### [Where does data come from?](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -243,17 +236,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=25)** Here are some of the sources I've seen throughout the years.
 >
-> **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=29)** Databases are for, well, storing data.
+> **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=29)** [[Databases]] are for, well, storing data.
 >
-> **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=33)** There are many kinds of databases from good old relational ones like PostgreSQL, to key-value ones like Redis, to document ones like Elasticsearch and more.
+> **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=33)** There are many kinds of databases from good old relational ones like [[PostgreSQL]], to key-value ones like [[Redis]], to document ones like [[Elasticsearch]] and more.
 >
 > **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=43)** As data grows, sometimes it's not even clear where we can find the data we want inside the database.
 >
-> **[0:51](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=51)** API servers, web servers, batch processes and more, are often write data to log files.
+> **[0:51](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=51)** API servers, [[Web Servers]], batch processes and more, are often write data to log files.
 >
 > **[0:57](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=57)** These log files can be in many formats, and sadly, you'll probably see several log formats within the same organization.
 >
-> **[1:05](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=65)** You'll find data in formats like Parquet, or ORC, these files are usually hosted on a big drive, such as Amazon S3, Google Cloud Storage, or Azure Storage.
+> **[1:05](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=65)** You'll find data in formats like Parquet, or ORC, these files are usually hosted on a big drive, such as Amazon S3, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, or [[Microsoft Azure|Azure]] Storage.
 >
 > **[1:16](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=76)** Sometimes to get data, we need to call a service, or an API.
 >
@@ -267,18 +260,17 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=99)** I'm sure over time, you'll encounter many more sources of data.
 >
-> **[1:43](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=103)** Lucky for you, Python is very versatile, and can easily ingest data from a variety of sources.
+> **[1:43](https://www.linkedin.com/learning/data-ingestion-with-python/where-does-data-come-from?u=76281980&t=103)** Lucky for you, [[Python (Programming Language)|Python]] is very versatile, and can easily ingest data from a variety of sources.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (2), [[Databases]] (2), api (2), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[PostgreSQL]] (1), [[Redis]] (1), [[Elasticsearch]] (1), [[Web Servers]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Env Vars:** api (2), orc (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Different types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980)
+#### [Different types of data](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,9 +278,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=5)** Here are some common ones.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=7)** Records, this data is usually found inside relational databases, and has well-defined columns and types.
+> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=7)** Records, this data is usually found inside [[Relational Databases]], and has well-defined columns and types.
 >
-> **[0:17](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=17)** Metrics, a lot of algorithms in data science work with metrics.
+> **[0:17](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=17)** Metrics, a lot of [[Algorithms]] in [[Data Science]] work with metrics.
 >
 > **[0:22](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=22)** This data is usually a mix of numerical types, integers and floats.
 >
@@ -296,13 +288,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=31)** Graphs, working social networks and relationships between users, you'll find yourself using sentences like, "Users with two degrees of separation and are in the age group of 20 to 30."
 >
-> **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=45)** You'll find this data in graph databases like Neo4j.
+> **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=45)** You'll find this data in graph [[Databases]] like [[Neo4j]].
 >
 > **[0:49](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=49)** Textual, user comments, Wiki pages and much more.
 >
 > **[0:53](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=53)** A lot of content on the Internet is text.
 >
-> **[0:56](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=56)** You'll find this data everywhere, from plain text files on disk to columns in databases to specialized databases like Elasticsearch.
+> **[0:56](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=56)** You'll find this data everywhere, from plain text files on disk to columns in databases to specialized databases like [[Elasticsearch]].
 >
 > **[1:05](https://www.linkedin.com/learning/data-ingestion-with-python/different-types-of-data?u=76281980&t=65)** I'm sure I've missed some of the data types.
 >
@@ -312,25 +304,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Databases]] (3), [[Relational Databases]] (1), [[Algorithms]] (1), [[Neo4j]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Relational Databases]] (1), [[Algorithms]] (1), [[Data Science]] (1), [[Neo4j]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** hdf5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The data pipeline (ETL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980)
+#### [The data pipeline (ETL)](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=1)** - [Instructor] Most companies have some kind of a data pipeline.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=4)** This pipeline will take the raw data, most times from server log files, one transformations on it, and edit to one or more databases.
+> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=4)** This pipeline will take the raw data, most times from server log files, one transformations on it, and edit to one or more [[Databases]].
 >
 > **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=14)** This process is also known as ETL, which stands for extract, transform and load.
 >
 > **[0:21](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=21)** During the pipeline, we handle tasks such as conversion.
 >
-> **[0:26](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=26)** If you have a text file with the string 2020-01-01, we'd like to convert it to a timestamp or a date time in Python.
+> **[0:26](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=26)** If you have a text file with the string 2020-01-01, we'd like to convert it to a timestamp or a date time in [[Python (Programming Language)|Python]].
 >
 > **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/the-data-pipeline-etl?u=76281980&t=35)** Validation, check the data for errors, for example, if you have the string 2020-02-30, it's not a validate.
 >
@@ -352,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Databases]] (1), etl (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (1), stands for (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
@@ -360,20 +351,19 @@ created: 2026-05-02
 > **Versions:** 216.52.21 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Final destination (data lake)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980)
+#### [Final destination (data lake)](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=1)** - [Instructor] At the end of the data pipeline, the verified, clean, and enriched data is stored in one or more databases.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=1)** - [Instructor] At the end of the data pipeline, the verified, clean, and enriched data is stored in one or more [[Databases]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=7)** As a data scientist, it's much easier to work with one database.
 >
-> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=12)** Some companies are starting to use the term data lake as the final destination of data and their algorithms come to quench their thirst.
+> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=12)** Some companies are starting to use the term data lake as the final destination of data and their [[Algorithms]] come to quench their thirst.
 >
-> **[0:21](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=21)** These data lakes come in various format.
+> **[0:21](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=21)** These [[Data Lakes]] come in various format.
 >
-> **[0:24](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=24)** Some of them, like Google's BigQuery and others, are relational databases.
+> **[0:24](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=24)** Some of them, like [[Google]]'s BigQuery and others, are [[Relational Databases]].
 >
 > **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/final-destination-data-lake?u=76281980&t=29)** Some, like Spark, are computation platforms, and there are many others.
 >
@@ -385,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Databases]] (1), database (1), [[Algorithms]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Data Lakes]] (2), [[Databases]] (1), [[Algorithms]] (1), [[Google]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -394,14 +384,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working in CSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980)
+#### [Working in CSV](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=1)** - [Instructor] CSV is a very common format.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=4)** The main advantage of CSV is that it can easily be exported or imported by Excel.
+> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=4)** The main advantage of CSV is that it can easily be exported or imported by [[Microsoft Excel|Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=10)** CSV's also have several downsides.
 >
@@ -429,9 +418,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=60)** This file has ten thousand one lines, which means we have one line of header, and then ten thousand lines of data.
 >
-> **[1:07](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=67)** In Python, we have two options to load CSV's.
+> **[1:07](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=67)** In [[Python (Programming Language)|Python]], we have two options to load CSV's.
 >
-> **[1:10](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=70)** One is using the built in CSV model, and the other is to use Pandas.
+> **[1:10](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=70)** One is using the built in CSV model, and the other is to use [[Pandas (Software)|Pandas]].
 >
 > **[1:15](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-csv?u=76281980&t=75)** Let's have a look at both.
 >
@@ -511,7 +500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[Python (Programming Language)|Python]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (14)
 > **Code Identifiers:** csv_py (1), read_csv (1), time_cols (1), sub_df (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -520,8 +509,7 @@ created: 2026-05-02
 > **CLI Commands:** python (2)
 > **UI Navigation:** open the (2)
 
-#### Working in XML
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980)
+#### [Working in XML](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=13)** There are two ways of reading XML.
 >
-> **[0:15](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=15)** One is loading everything into memory, called DOM, Document Object Model.
+> **[0:15](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=15)** One is loading everything into memory, called DOM, [[Document Object Model (DOM)|Document Object Model]].
 >
 > **[0:22](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=22)** And one iterative, called SAX, which stands for Simple API for XML.
 >
@@ -565,7 +553,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=93)** We load the taxi, we print the types, and we print the head of the CSV.
 >
-> **[1:39](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=99)** So python read_xml.py And we see that the types are right, so the vendor and the people are integers, the tip and the price are floats, and the pickup and dropoff are timestamps.
+> **[1:39](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=99)** So [[Python (Programming Language)|python]] read_xml.py And we see that the types are right, so the vendor and the people are integers, the tip and the price are floats, and the pickup and dropoff are timestamps.
 >
 > **[1:52](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-xml?u=76281980&t=112)** And we can look also at the head of the data frame, and it looks okay.
 >
@@ -577,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), dom (1), [[Document Object Model (DOM)|Document object model]] (1), api (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** xml (6), dom (1), sax (1), api (1), csv (1)
 > **Code Identifiers:** iter_rides (1), load_xml (1), from_records (1), read_xml (1)
 > **CLI Commands:** find (1), python (1)
@@ -586,12 +574,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** open the (1)
 
-#### Working in Parquet, Avro, and ORC
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980)
+#### [Working in Parquet, Avro, and ORC](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=1)** - [Instructor] Some big-data systems, such as Hadoop, Hive, and others, store data in files.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=1)** - [Instructor] Some big-data systems, such as [[Hadoop]], Hive, and others, store data in files.
 >
 > **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=7)** They started working with text files, mostly CSV.
 >
@@ -601,7 +588,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=25)** We'll see an example using Parquet, but the idea is the same.
 >
-> **[0:28](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=28)** Find the library for this file format and load it into Pandas.
+> **[0:28](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=28)** Find the library for this file format and load it into [[Pandas (Software)|Pandas]].
 >
 > **[0:32](https://www.linkedin.com/learning/data-ingestion-with-python/working-in-parquet-avro-and-orc?u=76281980&t=32)** In our case, we're going to use the Apache Arrow library.
 >
@@ -619,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pandas (Software)|Pandas]] (3), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Hadoop]] (1)
 > **CLI Commands:** find (1), apache (1)
 > **Code Identifiers:** read_table (1), to_pandas (1)
 > **Env Vars:** csv (1), orc (1)
@@ -627,14 +614,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unstructured text
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980)
+#### [Unstructured text](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=1)** - [Instructor] Sometimes, data is written in a way that's easier for humans to understand.
 >
-> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=6)** This is called unstructured data or semi-structured data.
+> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=6)** This is called [[Unstructured Data]] or semi-structured data.
 >
 > **[0:11](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=11)** The usual tool for these situations are regular expressions.
 >
@@ -686,13 +672,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=159)** In line 35 down, we have an example of reading the first five lines.
 >
-> **[2:44](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=164)** Let's run it, python parse_log.py.
+> **[2:44](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=164)** Let's run it, [[Python (Programming Language)|python]] parse_log.py.
 >
 > **[2:49](https://www.linkedin.com/learning/data-ingestion-with-python/unstructured-text?u=76281980&t=169)** And we got the first five items.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Unstructured Data]] (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **Code Identifiers:** parse_line (1), parse_log (1)
 > **File Paths:** parse_log.py (1)
@@ -701,22 +687,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
 
-#### JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980)
+#### [JSON](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=1)** - [Instructor] JSON is a very common serialization format.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=1)** - [Instructor] [[JSON]] is a very common serialization format.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=4)** JSON stands for JavaScript Object Notation.
+> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=4)** JSON stands for [[JavaScript]] Object Notation.
 >
 > **[0:08](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=8)** The main advantage of JSON, is that many languages can read and write JSON.
 >
-> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=14)** This means you can have a server written in Go, emitting JSON and you can read the data with Python.
+> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=14)** This means you can have a server written in Go, emitting JSON and you can read the data with [[Python (Programming Language)|Python]].
 >
 > **[0:21](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=21)** Since JSON, as the name suggests, comes from the world of JavaScript, not all Python types can be serialized to JSON.
 >
-> **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=29)** For example, you can serialize a Python datetime object or a pandas timestamp to JSON.
+> **[0:29](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=29)** For example, you can serialize a Python datetime object or a [[Pandas (Software)|pandas]] timestamp to JSON.
 >
 > **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=35)** To solve this issue, Python's built in JSON module gives you hooks to implement your own custom serialization or de-serialization.
 >
@@ -724,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=45)** Here we have a file where each line is a JSON object.
 >
-> **[0:49](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=49)** We have defender, the pickup, and the drop off, et cetera.
+> **[0:49](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=49)** We have [[Microsoft Defender|defender]], the pickup, and the drop off, et cetera.
 >
 > **[0:53](https://www.linkedin.com/learning/data-ingestion-with-python/json?u=76281980&t=53)** As you can see, the pick up and the drop off are strings, you can deduce that from the quotes, and we would like to have them as python datetime objects.
 >
@@ -750,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), data (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Python (Programming Language)|Python]] (6), [[JavaScript]] (2), [[Pandas (Software)|Pandas]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** json (12), iso (1)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (2), stands for (1)
@@ -758,24 +743,22 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: CSV to JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-csv-to-json-20213861?u=76281980)
+#### [Solution: CSV to JSON](https://www.linkedin.com/learning/data-ingestion-with-python/solution-csv-to-json-20213861?u=76281980)
 
 
 ### 3. Calling APIs
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with JSON
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980)
+#### [Working with JSON](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=1)** - [Instructor] One of the of the most common serialization formats in APIs is JSON.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=1)** - [Instructor] One of the of the most common serialization formats in APIs is [[JSON]].
 >
 > **[0:05](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=5)** There are many other serialization formats available and if you have a say in which format to use do your homework first.
 >
-> **[0:13](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=13)** Since JSON is a cross language format, it means that not all python types are supported.
+> **[0:13](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=13)** Since JSON is a cross language format, it means that not all [[Python (Programming Language)|python]] types are supported.
 >
 > **[0:20](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-json?u=76281980&t=20)** For example, you can't serialize python set into JSON.
 >
@@ -815,7 +798,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), [[Python (Programming Language)|Python]] (4), data (3)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** json (9), acme (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (3), means that (1)
@@ -824,18 +807,17 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making HTTP calls
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980)
+#### [Making HTTP calls](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=1)** - [Instructor] APIs are a way of calling remote servers for data, sometimes referred to as RPC, for remote procedure call.
 >
-> **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=10)** One of the most common ways to call an API is by using the HTTP protocol with objects and call it as JSON.
+> **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=10)** One of the most common ways to call an API is by using the HTTP protocol with objects and call it as [[JSON]].
 >
 > **[0:17](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=17)** Let's say an example.
 >
-> **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=18)** First, in the terminal, run the web server, python httpd.py, and the server is ready on localhost 8989.
+> **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=18)** First, in the terminal, run the web server, [[Python (Programming Language)|python]] httpd.py, and the server is ready on localhost 8989.
 >
 > **[0:28](https://www.linkedin.com/learning/data-ingestion-with-python/making-http-calls?u=76281980&t=28)** The server accepts a call to slash requests would start and end HTTP parameters.
 >
@@ -875,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (3), api (2), data (1), web (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** http (5), json (3), url (3), api (2), rpc (1)
 > **CLI Commands:** python (3)
 > **File Paths:** httpd.py (1)
@@ -884,8 +866,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** install (1)
 
-#### Processing event-based data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980)
+#### [Processing event-based data](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=5)** Digital architecture is to have some kind of a message queue, and clients listening to it.
 >
-> **[0:11](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=11)** There are many message queue systems: Kafka, RabbitMQ, Amazon SQS, Google Pub/Sub, Azure Queue, and more.
+> **[0:11](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=11)** There are many message queue systems: Kafka, RabbitMQ, Amazon SQS, [[Google]] Pub/Sub, [[Microsoft Azure|Azure]] Queue, and more.
 >
 > **[0:19](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=19)** The details about choosing each system vary.
 >
@@ -903,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=31)** Most of the time, messages are just a sequence of lines, and you need to decode them with the appropriate serialization format.
 >
-> **[0:39](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=39)** JSON, MessagePack, Protocol Buffer, et cetera.
+> **[0:39](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=39)** [[JSON]], MessagePack, Protocol Buffer, et cetera.
 >
 > **[0:42](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=42)** We are going to use a message queue called NATS.
 >
@@ -921,7 +902,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=72)** A similar technique publishing messages to the right subject.
 >
-> **[1:16](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=76)** Python and we have spammer, which sends messages.
+> **[1:16](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=76)** [[Python (Programming Language)|Python]] and we have spammer, which sends messages.
 >
 > **[1:22](https://www.linkedin.com/learning/data-ingestion-with-python/processing-event-based-data?u=76281980&t=82)** Now let's have a look at the code.
 >
@@ -945,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), [[Python (Programming Language)|Python]] (3), data (1), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Python (Programming Language)|Python]] (3), [[Google]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (3), python (3), rm (1)
 > **Env Vars:** json (4), nats (2), sqs (1)
 > **Ports:** :4222 (1), port 4222 (1)
@@ -954,28 +935,26 @@ created: 2026-05-02
 > **Code Identifiers:** event_client (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Location from IP
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-location-from-ip-20213859?u=76281980)
+#### [Solution: Location from IP](https://www.linkedin.com/learning/data-ingestion-with-python/solution-location-from-ip-20213859?u=76281980)
 
 
 ### 4. Web Scraping
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try to find an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980)
+#### [Try to find an API](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=1)** - [Instructor] If you'd like data from a website or a server the first thing you should do is try and find an API.
 >
-> **[0:08](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=8)** If you can't find an API, as last resort, you'll parse the HTML coming from the site either with a parser or a regular expression and grab the data you're interested in.
+> **[0:08](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=8)** If you can't find an API, as last resort, you'll parse the [[HTML]] coming from the site either with a parser or a regular expression and grab the data you're interested in.
 >
 > **[0:19](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=19)** This is known as screen scraping.
 >
 > **[0:22](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=22)** However, make a good effort to find an API.
 >
-> **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=25)** The two main reasons are it will be much easier for you to parse the output in Python, and an API's tend to be much more stable.
+> **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=25)** The two main reasons are it will be much easier for you to parse the output in [[Python (Programming Language)|Python]], and an API's tend to be much more stable.
 >
 > **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/try-to-find-an-api?u=76281980&t=35)** I've written several systems that parse HTML and they are very brittle.
 >
@@ -983,18 +962,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), data (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (4), html (2)
 > **CLI Commands:** find (3), make (1), python (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Beautiful Soup
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980)
+#### [Working with Beautiful Soup](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=1)** - [Instructor] There are several libraries for passing HTML.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=1)** - [Instructor] There are several libraries for passing [[HTML]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=4)** By far, the most common one is Beautiful Soup.
 >
@@ -1050,7 +1028,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=131)** Let's have a look.
 >
-> **[2:12](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=132)** python fx.py And we see the date, and we see the rate for every currency.
+> **[2:12](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-beautiful-soup?u=76281980&t=132)** [[Python (Programming Language)|python]] fx.py And we see the date, and we see the rate for every currency.
 
 > [!info]- Semantic Content
 >
@@ -1062,16 +1040,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with Scrapy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980)
+#### [Working with Scrapy](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=1)** - If you find yourself in the need to post HTML from several sites, Scrapy is a good system to use.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=1)** - If you find yourself in the need to post [[HTML]] from several sites, Scrapy is a good system to use.
 >
 > **[0:08](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=8)** First, start a demo server.
 >
-> **[0:11](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=11)** python httpd.py and now the server is ready on local host 8987.
+> **[0:11](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=11)** [[Python (Programming Language)|python]] httpd.py and now the server is ready on local host 8987.
 >
 > **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-scrapy?u=76281980&t=18)** This is the page we see.
 >
@@ -1127,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[HTML]] (3), [[Python (Programming Language)|Python]] (1), next (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **File Paths:** httpd.py (1), fx.py (1)
 > **CLI Commands:** find (1), python (1)
@@ -1136,20 +1113,19 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - if (1)
 
-#### Working with Selenium
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980)
+#### [Working with Selenium](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=1)** - [Narrator] Let's start our web server, python httpd.py, and the server is ready on local host 8985.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=1)** - [Narrator] Let's start our web server, [[Python (Programming Language)|python]] httpd.py, and the server is ready on local host 8985.
 >
 > **[0:09](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=9)** If you go there, we see the page that you want, but if you look at the page source, we see that it is empty, there's no data here.
 >
-> **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=18)** What happens is that the browser is loading the initial html, and then issuing a call with JavaScript to get the data from the server.
+> **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=18)** What happens is that the browser is loading the initial [[HTML]], and then issuing a call with [[JavaScript]] to get the data from the server.
 >
 > **[0:27](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=27)** This means that we need to have an actual browser to get the data.
 >
-> **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=33)** To solve this issue, we use a project called Selenium.
+> **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=33)** To solve this issue, we use a project called [[Selenium]].
 >
 > **[0:37](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-selenium?u=76281980&t=37)** Selenium is a framework to alternate working with browsers.
 >
@@ -1167,7 +1143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Selenium]] (6), web (3), [[Python (Programming Language)|Python]] (3), data (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Selenium]] (6), [[Python (Programming Language)|Python]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (3), find (1)
 > **Tools:** firefox (3)
 > **File Paths:** httpd.py (1), fx.py (1)
@@ -1176,8 +1152,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 
-#### Other considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980)
+#### [Other considerations](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,29 +1174,27 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980&t=44)** You might need a special proxy or VPN if you scrap data from a cloud provider.
 >
-> **[0:49](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980&t=49)** Selenium needs to run a browser, which means, it needs some kind of a screen to attach to, however, when running a script on a server, you won't have a screen, this is known as headless mode, check out solutions, as headless drivers, VNC, XVFB, and others.
+> **[0:49](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980&t=49)** [[Selenium]] needs to run a browser, which means, it needs some kind of a screen to attach to, however, when running a script on a server, you won't have a screen, this is known as headless mode, check out solutions, as headless drivers, VNC, XVFB, and others.
 >
 > **[1:09](https://www.linkedin.com/learning/data-ingestion-with-python/other-considerations?u=76281980&t=69)** This is usually something the operations team need to support.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), parallel (1), vpn (1), data (1), cloud (1)
+> **Frameworks & Libraries:** [[Selenium]] (1)
 > **Env Vars:** api (2), vpn (1), vnc (1), xvfb (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Get stock information from HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-get-stock-information-from-html?u=76281980)
+#### [Solution: Get stock information from HTML](https://www.linkedin.com/learning/data-ingestion-with-python/solution-get-stock-information-from-html?u=76281980)
 
 
 ### 5. Schema
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are schemas?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980)
+#### [What are schemas?](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1206,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=10)** There are several definitions of schema.
 >
-> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=12)** I'd like to think of the schema as the data about the data, or metadata.
+> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=12)** I'd like to think of the schema as the data about the data, or [[Metadata]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=18)** In our example, we can say that the data is some meteorological data.
 >
@@ -1255,7 +1228,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=64)** Now that we have the schema, the data makes much more sense.
 >
-> **[1:08](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=68)** Sometimes you'll hear about NoSQL or schema-less databases.
+> **[1:08](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=68)** Sometimes you'll hear about [[NoSQL]] or schema-less [[Databases]].
 >
 > **[1:13](https://www.linkedin.com/learning/data-ingestion-with-python/what-are-schemas?u=76281980&t=73)** Even if the schema is not formally defined, it's out there in the code, or in peoples' head.
 >
@@ -1269,15 +1242,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Metadata]] (1), [[NoSQL]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[NoSQL]] (1), [[Databases]] (1)
 > **Env Vars:** tmax (1), tmin (1), pgtm (1)
 > **CLI Commands:** make (2)
 > **Ports:** :37 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with ontologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-ontologies?u=76281980)
+#### [Working with ontologies](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-ontologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1301,14 +1273,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Engineering]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### What should be in schema
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-should-be-in-schema?u=76281980)
+#### [What should be in schema](https://www.linkedin.com/learning/data-ingestion-with-python/what-should-be-in-schema?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1348,7 +1318,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (2)
 > **Versions:** 89.2 (1), 57.8 (1)
 > **Env Vars:** pgtn (1)
@@ -1356,8 +1325,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - i (1)
 
-#### Schema changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980)
+#### [Schema changes](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1343,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=25)** Nonbreaking changes mean that the old fields are still there and you can access them as usual.
 >
-> **[0:30](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=30)** It usually means adding a new field, say a GitHub handle.
+> **[0:30](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=30)** It usually means adding a new field, say a [[GitHub]] handle.
 >
 > **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=35)** However you need to think about what to do with the old data.
 >
@@ -1395,20 +1363,19 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=59)** Write your code in a way that can handle missing fields, version your data in your schema, and test everything, even after trivial schema changes.
 >
-> **[1:08](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=68)** If you're working with relational databases there are many tools and techniques supporting schema changes.
+> **[1:08](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=68)** If you're working with [[Relational Databases]] there are many tools and techniques supporting schema changes.
 >
 > **[1:13](https://www.linkedin.com/learning/data-ingestion-with-python/schema-changes?u=76281980&t=73)** Look them up.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[GitHub]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Analogies:** such as (1)
 > **Speakers:** - over (1)
 
-#### Schema validations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980)
+#### [Schema validations](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1442,7 +1409,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=78)** Here's an example, I have some data with date, time, and values, and then for every record in data, I'm validating the record.
 >
-> **[1:27](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=87)** So, python weather.py.
+> **[1:27](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=87)** So, [[Python (Programming Language)|python]] weather.py.
 >
 > **[1:30](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=90)** And there's no output since all the data is valid.
 >
@@ -1450,11 +1417,11 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=99)** Attrs and Traitlets let you define validators for class attributes.
 >
-> **[1:44](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=104)** Great Expectations runs validation on Pandas dataframes and of course, if you're using a relational database, you could define constraints on the data there as well.
+> **[1:44](https://www.linkedin.com/learning/data-ingestion-with-python/schema-validations?u=76281980&t=104)** Great Expectations runs validation on [[Pandas (Software)|Pandas]] dataframes and of course, if you're using a relational database, you could define constraints on the data there as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** weather.py (1)
@@ -1466,14 +1433,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980)
+#### [Types of databases](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=1)** - [Instructor] A database is where you store your data.
 >
-> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=4)** Databases are a crucial part of your infrastructure, and you need to know how to work with them effectively.
+> **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=4)** [[Databases]] are a crucial part of your infrastructure, and you need to know how to work with them effectively.
 >
 > **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=10)** As a rule, prefer all the established databases unless you have a really good reason.
 >
@@ -1483,29 +1449,29 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=25)** Here are some of the major types.
 >
-> **[0:27](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=27)** Relational databases store data in tables of rows and columns.
+> **[0:27](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=27)** [[Relational Databases]] store data in tables of rows and columns.
 >
-> **[0:32](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=32)** They usually support SQL, and a good default choice.
+> **[0:32](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=32)** They usually support [[SQL]], and a good default choice.
 >
-> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=36)** Some of the majors ones are PostgreSQL, MySQL, MSSQL, Oracle, and others.
+> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=36)** Some of the majors ones are [[PostgreSQL]], [[MySQL]], MSSQL, Oracle, and others.
 >
-> **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=43)** Key/value databases are like dicts in Python.
+> **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=43)** Key/value databases are like dicts in [[Python (Programming Language)|Python]].
 >
 > **[0:47](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=47)** They allow fast access by key, and use the log for caching.
 >
-> **[0:51](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=51)** Redis is probably the most known one these days.
+> **[0:51](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=51)** [[Redis]] is probably the most known one these days.
 >
 > **[0:54](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=54)** Document databases store objects with fields.
 >
 > **[0:57](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=57)** They allow for rapid development since they are not strict with schema.
 >
-> **[1:02](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=62)** Notable ones are Elasticsearch, and MongoDB.
+> **[1:02](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=62)** Notable ones are [[Elasticsearch]], and [[MongoDB]].
 >
 > **[1:07](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=67)** Graph databases store relationships between objects.
 >
 > **[1:11](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=71)** Think of users on a social network and their relationships.
 >
-> **[1:14](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=74)** Some of the common ones are Neo4j and Dgraph.
+> **[1:14](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=74)** Some of the common ones are [[Neo4j]] and Dgraph.
 >
 > **[1:19](https://www.linkedin.com/learning/data-ingestion-with-python/types-of-databases?u=76281980&t=79)** Deciding on a database is one of the big technical decisions you will make.
 >
@@ -1515,14 +1481,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (6), data (4), database (3), [[Relational Databases]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Databases]] (6), [[Relational Databases]] (1), [[SQL]] (1), [[PostgreSQL]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (3), mysql (1), python (1)
 > **Env Vars:** sql (1), mssql (1)
 > **Best Practices:** make sure to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Hosted and cost of ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980)
+#### [Hosted and cost of ops](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1538,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980&t=28)** Planning a database on your own in production ready setup requires a lot of effort and a lot of experience.
 >
-> **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980&t=35)** These cost of operation is usually underestimated and this is why I usually recommend to start with a hosted solution such as Google's BigQuery.
+> **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980&t=35)** These cost of operation is usually underestimated and this is why I usually recommend to start with a hosted solution such as [[Google]]'s BigQuery.
 >
 > **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/hosted-and-cost-of-ops?u=76281980&t=45)** It might look more expensive but it will save you a lot of effort that you can focus on implementing important features.
 >
@@ -1546,28 +1511,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (2), [[Security]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Prerequisites:** setup (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980)
+#### [Working with relational databases](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=1)** - [Instructor] When people talk about databases, they usually mean relational databases.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=1)** - [Instructor] When people talk about [[Databases]], they usually mean [[Relational Databases]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=6)** Relational databases are old and reliable technology.
 >
 > **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=10)** There's a lot of knowledge and tooling around them.
 >
-> **[0:13](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=13)** Most of them support SQL, which is the standard library for querying data.
+> **[0:13](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=13)** Most of them support [[SQL]], which is the standard library for querying data.
 >
 > **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=18)** If you'd like to learn more about SQL, check out our SQL courses.
 >
-> **[0:23](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=23)** Python has an established way of working with SQL databases, called the Database API.
+> **[0:23](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=23)** [[Python (Programming Language)|Python]] has an established way of working with SQL databases, called the Database API.
 >
 > **[0:30](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=30)** Most established drivers conform to this pack which makes life easier for you.
 >
@@ -1579,7 +1543,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=45)** SQLite is not a toy.
 >
-> **[0:46](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=46)** If you use a browser or an Android phone, you're using SQLite.
+> **[0:46](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=46)** If you use a browser or an [[Android]] phone, you're using SQLite.
 >
 > **[0:51](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=51)** Let's have a look.
 >
@@ -1617,7 +1581,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=137)** So, quit from here, and python rides.py and the average distance is 2.96 miles.
 >
-> **[2:26](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=146)** Pandas knows also how to work with relational databases.
+> **[2:26](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=146)** [[Pandas (Software)|Pandas]] knows also how to work with relational databases.
 >
 > **[2:29](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-relational-databases?u=76281980&t=149)** All you need to pass it is a valid connection to the database.
 >
@@ -1639,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (6), database (6), [[Databases]] (3), [[Relational Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Python (Programming Language)|Python]] (6), [[Databases]] (3), [[Relational Databases]] (3), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** sql (8), api (1), select (1), where (1), orm (1)
 > **CLI Commands:** python (6), sqlite3 (2)
 > **Code Identifiers:** sqlite3 (2), read_sql (1)
@@ -1648,18 +1612,17 @@ created: 2026-05-02
 > **SQL:** select (1), where (1)
 > **Analogies:** for example (1), such as (1)
 
-#### Working with key or value databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980)
+#### [Working with key or value databases](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=1)** - [Instructor] Key-value databases maps keys to values.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=1)** - [Instructor] Key-value [[Databases]] maps keys to values.
 >
 > **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=4)** The keys are usually strings or bytes, and the value types vary depending on the database.
 >
 > **[0:10](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=10)** They can be strings, bytes, number, lists, and other.
 >
-> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=14)** If you'd like to have more complex types, you'll probably have to serialize and de-serialize them using encodings such as JSON.
+> **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=14)** If you'd like to have more complex types, you'll probably have to serialize and de-serialize them using encodings such as [[JSON]].
 >
 > **[0:22](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=22)** A lot of time, key-value databases, are used as a caching layer, meaning we get faster access to data than hitting another database.
 >
@@ -1669,13 +1632,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=44)** If it's found, we update the cache and use the data, and if it's not found in the main database, it's an error.
 >
-> **[0:50](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=50)** One of the most common key-value databases is Redis.
+> **[0:50](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=50)** One of the most common key-value databases is [[Redis]].
 >
 > **[0:54](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=54)** You're going to use Docker to run a local Redis database.
 >
 > **[0:57](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=57)** Use the run Redis script to start a Redis database and populate it with data.
 >
-> **[1:03](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=63)** So, python run_redis.
+> **[1:03](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=63)** So, [[Python (Programming Language)|python]] run_redis.
 >
 > **[1:06](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-key-or-value-databases?u=76281980&t=66)** And now let's have a look at how we can search the data.
 >
@@ -1707,29 +1670,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (8), [[Redis]] (5), [[Databases]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Redis]] (5), [[Databases]] (3), [[JSON]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** find (2), python (2), docker (1)
 > **Code Identifiers:** run_redis (1), scan_iter (1), redis_demo (1)
 > **Env Vars:** json (2), sku (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with document databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980)
+#### [Working with document databases](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=1)** For this episode, you need to download some data from Chicago City data portal.
 >
-> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=6)** Run python download.py Document-oriented databases store data in format of a document, which is a collection of fields and their values.
+> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=6)** Run [[Python (Programming Language)|python]] download.py Document-oriented [[Databases]] store data in format of a document, which is a collection of fields and their values.
 >
-> **[0:19](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=19)** Some of the known ones are Elasticsearch and MongoDB.
+> **[0:19](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=19)** Some of the known ones are [[Elasticsearch]] and [[MongoDB]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=23)** Companies like document-oriented database at early stages since they don't enforce schema and let you experiment with data quickly.
 >
 > **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=33)** These databases also tend to handle scale well.
 >
-> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=36)** However, there is no standard query language for these databases, like SQL in relational databases.
+> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=36)** However, there is no standard query language for these databases, like [[SQL]] in [[Relational Databases]].
 >
 > **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-document-databases?u=76281980&t=43)** And to handle scale, most of them do not have transactions, which can be a big pain.
 >
@@ -1777,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Elasticsearch]] (5), data (4), [[Python (Programming Language)|Python]] (3), [[Databases]] (3), database (2)
+> **Frameworks & Libraries:** [[Elasticsearch]] (5), [[Python (Programming Language)|Python]] (3), [[Databases]] (3), [[MongoDB]] (1), [[SQL]] (1)
 > **CLI Commands:** python (3), docker (1)
 > **File Paths:** download.py (1), run_elastic.py (1)
 > **Code Identifiers:** run_elastic (1), elastic_demo (1)
@@ -1786,8 +1748,7 @@ created: 2026-05-02
 > **Versions:** 3.59 (1)
 > **Definitions:** is a  (1)
 
-#### Working with graph databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980)
+#### [Working with graph databases](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,13 +1758,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=14)** Graph database lets you define entities, their properties, and their relations between them.
 >
-> **[0:20](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=20)** One of the most common graph databases is Neo4J, but there are others as well.
+> **[0:20](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=20)** One of the most common graph [[Databases]] is [[Neo4j]], but there are others as well.
 >
 > **[0:26](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=26)** You should know your requirements, only then choose a candidate, then run some tests, and pick one.
 >
 > **[0:33](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=33)** Here you use Docker to run and populate a small database.
 >
-> **[0:37](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=37)** So python, run Neo4J, once you see Neo4J ready, you can use the database.
+> **[0:37](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=37)** So [[Python (Programming Language)|python]], run Neo4J, once you see Neo4J ready, you can use the database.
 >
 > **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/working-with-graph-databases?u=76281980&t=44)** Let's have a look at the code.
 >
@@ -1825,26 +1786,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neo4j]] (6), database (5), [[Python (Programming Language)|Python]] (2), [[Databases]] (1), node (1)
+> **Frameworks & Libraries:** [[Neo4j]] (6), [[Python (Programming Language)|Python]] (2), [[Databases]] (1)
 > **CLI Commands:** python (2), docker (1), node (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: ETL
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-etl-20213862?u=76281980)
+#### [Solution: ETL](https://www.linkedin.com/learning/data-ingestion-with-python/solution-etl-20213862?u=76281980)
 
 
 ### 7. Troubleshooting Data
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data is never 100% okay
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980)
+#### [Data is never 100% okay](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=1)** - [Narrator] DJ Patil, who, among many other roles, served as the Chief Data Scientist of the US government said, "Every single company I've worked at and talked to "has the same problem without a single exception so far, "poor data quality, especially tracking data.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=1)** - [Narrator] DJ Patil, who, among many other roles, served as the Chief Data Scientist of the US government said, "Every single company I've worked at and talked to "has the same problem without a single exception so far, "poor [[Data Quality]], especially tracking data.
 >
 > **[0:19](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=19)** "Either there's incomplete data, missing tracking data, "duplicative tracking data."
 >
@@ -1854,7 +1813,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=35)** What does it mean for you?
 >
-> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=36)** It means you should be aware and prepared for errors in your data, both in the data pipeline process and in your models or algorithms.
+> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=36)** It means you should be aware and prepared for errors in your data, both in the data pipeline process and in your models or [[Algorithms]].
 >
 > **[0:45](https://www.linkedin.com/learning/data-ingestion-with-python/data-is-never-100-okay?u=76281980&t=45)** Invest time thinking about issues such as how can you detect data errors?
 >
@@ -1868,15 +1827,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gigo (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Causes of errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980)
+#### [Causes of errors](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1884,7 +1842,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980&t=4)** Let's have a look at a few common causes.
 >
-> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980&t=6)** The first cause is hardware.
+> **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980&t=6)** The first cause is [[Hardware]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-ingestion-with-python/causes-of-errors?u=76281980&t=8)** Drivers fails, memory fail, there are power surges, and even cosmic rays.
 >
@@ -1922,19 +1880,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Hardware]] (2), power (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Env Vars:** ram (2), ibm (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Filling missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980)
+#### [Filling missing values](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=0)** Missing values are not strictly an error but many algorithms don't work well with missing data.
+> **[0:00](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=0)** Missing values are not strictly an error but many [[Algorithms]] don't work well with missing data.
 >
 > **[0:06](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=6)** There's a difference between missing data and empty or zero value.
 >
@@ -1956,7 +1913,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=47)** Let's have a look.
 >
-> **[0:48](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=48)** So, let's import numpy as np and pandas as pd.
+> **[0:48](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=48)** So, let's import numpy as np and [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:57](https://www.linkedin.com/learning/data-ingestion-with-python/filling-missing-values?u=76281980&t=57)** in np we have np.nan you can also create a new one with float.nan.
 >
@@ -2006,15 +1963,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Versions:** 1.2 (1), 2.3 (1), 4.5 (1), 3.8 (1)
 > **Env Vars:** nan (2), nat (1)
 > **Definitions:** is a  (2)
 > **Documentation:** specification (1)
 > **Analogies:** such as (1)
 
-#### Finding outliers (manual)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980)
+#### [Finding outliers (manual)](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2022,7 +1978,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=5)** Basically, bad data.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=7)** Pandas makes it easy to find these values and replace them.
+> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=7)** [[Pandas (Software)|Pandas]] makes it easy to find these values and replace them.
 >
 > **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=12)** Let's have a look.
 >
@@ -2030,7 +1986,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=16)** Then we import pandas as pd and our data is going to be in an SQLite database, so we import sqlite3.
 >
-> **[0:24](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=24)** Connection is sqlite3.connect and the database is rides.db and our dataframe is pd.read sql, select star from rides and we give it the connection.
+> **[0:24](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=24)** Connection is sqlite3.connect and the database is rides.db and our dataframe is pd.read [[SQL]], select star from rides and we give it the connection.
 >
 > **[0:43](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-manual?u=76281980&t=43)** And we have 10,000 taxi rides.
 >
@@ -2058,15 +2014,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (2), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[SQL]] (1)
 > **CLI Commands:** find (2), sqlite3 (2)
 > **Versions:** 932.9 (1), 19.48 (1), 35.57 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Finding outliers (ML)
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980)
+#### [Finding outliers (ML)](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,11 +2041,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=32)** There are even some companies that provide outlier detection as a service.
 >
-> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=36)** Scikit-Learn, the machine learning library for Python, comes with several algorithms for outlier detection.
+> **[0:36](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=36)** Scikit-Learn, the machine learning library for [[Python (Programming Language)|Python]], comes with several [[Algorithms]] for outlier detection.
 >
 > **[0:44](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=44)** Let's have a look at a simple example.
 >
-> **[0:46](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=46)** So hype Python, and then we're going to import pandas as pd.
+> **[0:46](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=46)** So hype Python, and then we're going to import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:52](https://www.linkedin.com/learning/data-ingestion-with-python/finding-outliers-ml?u=76281980&t=52)** And from sklearn.neighbors we're going to import localoutlierfactor.
 >
@@ -2130,23 +2085,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (4), python (2)
 > **Env Vars:** aapl (2)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Solution: Clean rides dataset
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/solution-clean-rides-dataset?u=76281980)
+#### [Solution: Clean rides dataset](https://www.linkedin.com/learning/data-ingestion-with-python/solution-clean-rides-dataset?u=76281980)
 
 
 ### 8. Data KPIs and Process
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/design-your-data?u=76281980)
+#### [Design your data](https://www.linkedin.com/learning/data-ingestion-with-python/design-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2180,12 +2133,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### KPIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/kpis?u=76281980)
+#### [KPIs](https://www.linkedin.com/learning/data-ingestion-with-python/kpis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2217,7 +2168,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** kpi (2)
 > **Definitions:** stands for (1)
@@ -2225,8 +2175,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to monitor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980)
+#### [What to monitor?](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2234,9 +2183,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=3)** I once consulted a company that developed a cyber security sweep.
 >
-> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=7)** I kept up with the code and algorithms, but along the way installed a monitoring system.
+> **[0:07](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=7)** I kept up with the code and [[Algorithms]], but along the way installed a monitoring system.
 >
-> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=12)** Once we had eyes on data flowing in, we quickly changed priorities to data ingestion stability.
+> **[0:12](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=12)** Once we had eyes on data flowing in, we quickly changed priorities to [[Data Ingestion]] stability.
 >
 > **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/what-to-monitor?u=76281980&t=18)** Assume you write a fraud detection system.
 >
@@ -2282,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Data Ingestion]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sps (1)
 > **Speakers:** - [instructor] (1)
@@ -2292,16 +2241,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=1)** - Your algorithms rely on good data.
+> **[0:01](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=1)** - Your [[Algorithms]] rely on good data.
 >
 > **[0:04](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=4)** And if you have some experience, you know that a lot of your time is spent with data.
 >
-> **[0:09](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=9)** To help you learn how to ingest data in its various sources, Python is a great language for fetching data from any place.
+> **[0:09](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=9)** To help you learn how to ingest data in its various sources, [[Python (Programming Language)|Python]] is a great language for fetching data from any place.
 >
 > **[0:18](https://www.linkedin.com/learning/data-ingestion-with-python/next-steps?u=76281980&t=18)** You should also be able to have a better data process and know how to validate and clean your data.
 >
@@ -2319,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)

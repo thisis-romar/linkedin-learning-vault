@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to recruit, develop, and retain data scientists
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980)
+#### [How to recruit, develop, and retain data scientists](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=1)** - Data scientists and data engineers are some of the most sought after talents in the job market, but so many managers lack the soft skills required to recruit, develop and retain data science and engineering teams effectively.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=1)** - Data scientists and data engineers are some of the most sought after talents in the job market, but so many managers lack the [[Soft Skills]] required to recruit, develop and retain [[Data Science]] and engineering teams effectively.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=13)** And this results in unhappy employees and unproductive turnouts.
 >
@@ -123,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=53)** I've been in data science for over 10 years, both as an internal employee and as a consultant.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=59)** The learning from this course will ultimately give you a more robust skill set, combining the soft skills with the traditional hard skills required of technical leadership roles.
+> **[0:59](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=59)** The learning from this course will ultimately give you a more robust skill set, combining the soft skills with the traditional hard skills required of [[Technical Leadership]] roles.
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-recruit-develop-and-retain-data-scientists?u=76281980&t=70)** Taken together, you'll be prepared for any management and organizational challenge you might face.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), teams (3), [[Soft Skills]] (2), [[Engineering]] (1), [[Technical Leadership]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Soft Skills]] (2), [[Technical Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - data (1)
@@ -141,12 +140,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine the need for data scientists
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980)
+#### [How to determine the need for data scientists](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=1)** - Data science, despite its prominence in tech culture is a job, and jobs are justified through the value they bring to the business.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=1)** - [[Data Science]], despite its prominence in tech culture is a job, and jobs are justified through the value they bring to the business.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=8)** Therefore, you must prove how hiring a data scientist or data scientists will bring value to the business.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=32)** Once you've identified the goals, you need to get specific on which goals you expect the data scientist to impact.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=39)** For example, if you're an e-commerce based company, one of your goals may be increasing market basket size.
+> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=39)** For example, if you're an [[E-Commerce]] based company, one of your goals may be increasing market basket size.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=46)** To increase market basket size, you must make personalized recommendations during the shopping experience.
 >
@@ -172,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=88)** To determine whether or not you need a data scientist, you first need to understand what a data scientist is.
 >
-> **[1:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=94)** Data scientists are polymaths that combine three unique qualities: math and statistics, coding, and machine learning theory.
+> **[1:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=94)** Data scientists are polymaths that combine three unique qualities: math and [[Statistics]], coding, and machine learning theory.
 >
 > **[1:43](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-need-for-data-scientists?u=76281980&t=103)** Suppose you don't need all three of those traits though?
 >
@@ -198,14 +196,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (4), [[E-Commerce]] (1), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[E-Commerce]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
 
-#### Practical examples of the types of projects data scientists work on
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980)
+#### [Practical examples of the types of projects data scientists work on](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,13 +212,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=11)** Here are a few examples worth mentioning to give you a better sense of what a final product from a data scientist may look like.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=19)** A data scientist may develop a collaborative filtering model that recommends products and services to customers.
+> **[0:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=19)** A data scientist may develop a collaborative filtering model that recommends [[Microsoft Products|products]] and services to customers.
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=26)** Another example could be creating a customer churn model to predict when a customer is likely to attrite.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=32)** A data scientist may create a fraud detection model that correctly classifies anomalistic spending activity.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=39)** An advanced project a data science team may work on may be a large language model, an increasingly powerful breed of AI that can write tweets, emails, blog posts, and even generate computer programs.
+> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=39)** An advanced project a [[Data Science]] team may work on may be a large language model, an increasingly powerful breed of AI that can write tweets, emails, blog posts, and even generate computer programs.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=53)** It's also good to remember that data scientists don't only create models involving humans.
 >
@@ -245,17 +242,17 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=113)** Another big deliverable is likely to be in analysis of the data, and here we're trying to get a sense of the overall condition of the data, the features or predictive variables we have to work with, and whether there's enough data to create a reliable and robust model.
 >
-> **[2:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=131)** From here, the data scientists will embark on various tasks, such as feature engineering to create a minimum viable product or MVP.
+> **[2:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=131)** From here, the data scientists will embark on various tasks, such as [[Feature Engineering]] to create a minimum viable product or MVP.
 >
 > **[2:20](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=140)** Proving the model will work with high accuracy and low error.
 >
 > **[2:25](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=145)** The ultimate deliverable from a data scientist is the model itself that goes into production, a concerted effort that typically requires data scientists and engineers.
 >
-> **[2:36](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=156)** That can take on many forms and there is no one-size-fits-all approach.
+> **[2:36](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=156)** That can take on many [[Forms]] and there is no one-size-fits-all approach.
 >
 > **[2:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=160)** It could be a pickle file, a generic object serialization module that can be used to save a train model and loaded to a server.
 >
-> **[2:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=169)** It could also be a model that lives natively in some kind of cloud-based environment, such as AWS, Azure, or Google Cloud.
+> **[2:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=169)** It could also be a model that lives natively in some kind of cloud-based environment, such as AWS, [[Microsoft Azure|Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[2:56](https://www.linkedin.com/learning/data-science-team-lifecycle-management/practical-examples-of-the-types-of-projects-data-scientists-work-on?u=76281980&t=176)** The point is there is no one single format.
 >
@@ -265,15 +262,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), product (2), [[Microsoft Products|Products]] (1), ai (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Science]] (1), [[Feature Engineering]] (1), [[Forms]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** mvp (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - the (1)
 
-#### How to justify increasing the headcount for your company
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980)
+#### [How to justify increasing the headcount for your company](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=26)** The next step is creating a story around the trajectory of those goals.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=30)** Using our fictitious e-commerce company as an example, one might say that, in general, the company is investing more in machine learning-based solutions to improve the customer experience.
+> **[0:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=30)** Using our fictitious [[E-Commerce]] company as an example, one might say that, in general, the company is investing more in machine learning-based solutions to improve the customer experience.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=42)** Those experiences are technically complex and require a myriad of skills that we currently don't have.
 >
@@ -317,7 +313,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=144)** The other thing to keep in mind here is the seniority level of the data scientist that you request should be explicitly stated.
 >
-> **[2:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=152)** If, for example, you need another pair of hands to help with all the coding or to help write SQL queries, then maybe an entry-level data scientist will do, but when you get into the hairier projects, especially ones involving sending machine learning models to production, you'll need a senior data scientist, someone familiar with the complete ML lifecycle who can see projects through from inception to productionization.
+> **[2:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=152)** If, for example, you need another pair of hands to help with all the coding or to help write [[SQL]] queries, then maybe an entry-level data scientist will do, but when you get into the hairier projects, especially ones involving sending machine learning models to production, you'll need a senior data scientist, someone familiar with the complete ML lifecycle who can see projects through from inception to productionization.
 >
 > **[2:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-justify-increasing-the-headcount-for-your-company?u=76281980&t=178)** The takeaway is that the level of the data scientist you request should be commensurate with the work you intend for them to do.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), product (2), business (1), next (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[SQL]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** roi (1), sql (1)
 > **CLI Commands:** make (1)
@@ -341,8 +337,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to determine what level of data scientist you need and how many
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980)
+#### [How to determine what level of data scientist you need and how many](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980&t=49)** An entry-level data scientist should have a command of the three primary skill sets we covered in the previous video.
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980&t=55)** Those skills mapped to the three main areas of math and statistics, coding, and machine learning theory.
+> **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980&t=55)** Those skills mapped to the three main areas of math and [[Statistics]], coding, and machine learning theory.
 >
 > **[1:03](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-what-level-of-data-scientist-you-need-and-how-many?u=76281980&t=63)** Senior data scientists typically have at least two to three years of experience and have two defining characteristics.
 >
@@ -404,13 +399,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), business (3), leadership (3), [[Statistics]] (1), management (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### What are the skills to prioritize when hiring data scientists
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980)
+#### [What are the skills to prioritize when hiring data scientists](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,37 +416,37 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=25)** And as we mentioned, machine learning theory is perhaps the most important because it separates data scientists from what we call machine learning operators.
 >
-> **[0:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=33)** But what about the other two, programming and math and statistics?
+> **[0:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=33)** But what about the other two, programming and math and [[Statistics]]?
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=38)** Statistics breaks down into two categories, descriptive statistics for summarizing data, and inferential statistics, used for conducting small scale experiments that generalize to a larger population.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=53)** Data scientists should understand both.
 >
-> **[0:56](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=56)** Math skills, namely linear algebra, is typically a prerequisite for data scientists, too.
+> **[0:56](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=56)** Math skills, namely [[Linear Algebra]], is typically a prerequisite for data scientists, too.
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=64)** Linear algebra is used for matrices and vectors.
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=67)** A vector is a 1D array of numbers, a single row or column, and a matrix is a 2D grid of numbers made up of multiple rows and columns.
 >
-> **[1:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=79)** If we were building a recommender system, as we discuss for our fictitious e-commerce company, we'd definitely be employing linear algebra.
+> **[1:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=79)** If we were building a recommender system, as we discuss for our fictitious [[E-Commerce]] company, we'd definitely be employing linear algebra.
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=88)** Programming skills vary, but there are a handful that are universal.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=93)** The first is Python, a high level, general purpose programming language that emphasizes code readability.
+> **[1:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=93)** The first is [[Python (Programming Language)|Python]], a high level, general purpose programming language that emphasizes code readability.
 >
 > **[1:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=102)** While there's much that Python can do on its own, it's the Python libraries that data scientists come to rely on.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=109)** Libraries such as Mattplotlib, pandas, NumPy, and scikit-learn, to name a few, are definite prerequisites for any new data scientist hire, but of course, Python libraries are extensive and new ones are continually being introduced.
+> **[1:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=109)** Libraries such as Mattplotlib, [[Pandas (Software)|pandas]], NumPy, and scikit-learn, to name a few, are definite prerequisites for any new data scientist hire, but of course, Python libraries are extensive and new ones are continually being introduced.
 >
 > **[2:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=128)** In some cases, the programming language R may also be useful.
 >
-> **[2:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=132)** However, R does not nearly have the adoption in the data science community as Python.
+> **[2:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=132)** However, R does not nearly have the adoption in the [[Data Science]] community as Python.
 >
-> **[2:18](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=138)** Another useful language in data science is SQL, which is helpful when performing functions involving relational databases.
+> **[2:18](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=138)** Another useful language in data science is [[SQL]], which is helpful when performing functions involving [[Relational Databases]].
 >
-> **[2:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=146)** C++ is also useful for its ability to compile code quickly, although it has a steep learning curve, so it may be an important language for projects or environments with massive scalability and performance requirements.
+> **[2:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=146)** C++ is also useful for its ability to compile code quickly, although it has a steep learning curve, so it may be an important language for projects or environments with massive [[Scalability]] and performance requirements.
 >
-> **[2:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=161)** And then of course, there's JavaScript, No.js, Scala, Django, and a slew of others, But these languages I wouldn't consider quote-unquote core programming languages.
+> **[2:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=161)** And then of course, there's [[JavaScript]], No.js, [[Scala]], [[Django]], and a slew of others, But these languages I wouldn't consider quote-unquote core programming languages.
 >
 > **[2:54](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-are-the-skills-to-prioritize-when-hiring-data-scientists?u=76281980&t=174)** So as you can see, there's no lack of programming languages to learn, but the the trick is to make sure you understand the programming requirements of the data environment you're hiring a data scientist into first.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Programming]] (11), [[Python (Programming Language)|Python]] (5), [[Statistics]] (4), [[Linear Algebra]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Statistics]] (4), [[Linear Algebra]] (3), [[Data Science]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** python (5), make (2)
 > **Cross-References:** previous video (1), we mentioned (1)
 > **Definitions:** is a  (2)
@@ -475,8 +469,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** prerequisite (1)
 
-#### Recruit with DEI in mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/recruit-with-dei-in-mind?u=76281980)
+#### [Recruit with DEI in mind](https://www.linkedin.com/learning/data-science-team-lifecycle-management/recruit-with-dei-in-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,15 +521,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), job description (1), product (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
 > **Speakers:** - d (1)
 > **Non-Speech:** (bright musical flourish) (1)
 
-#### How to craft a job description that resonates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980)
+#### [How to craft a job description that resonates](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,7 +583,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980&t=157)** Obviously, hard skills like math and stats, coding, and machine learning theory should be mentioned.
 >
-> **[2:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980&t=164)** But you can add soft skills too, like communication, presentation skills and leadership, which may be necessary for roles that are more externally facing within the company.
+> **[2:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980&t=164)** But you can add [[Soft Skills]] too, like communication, presentation skills and leadership, which may be necessary for roles that are more externally facing within the company.
 >
 > **[2:56](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-craft-a-job-description-that-resonates?u=76281980&t=176)** Also, it's okay to add additional sections like why you'll love it here, or what makes our company unique, that will lend more personality to the job description and make your company stand out, just make sure you cover the four sections we discussed first so that you don't end up with a job description that's all style and no substance
 >
@@ -600,13 +591,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** job description (7), data (3), business (2), [[Soft Skills]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1)
 > **CLI Commands:** make (6)
 > **Speakers:** - [instructor] (2), - there (1), - invest (1), - and (1)
 > **Cross-References:** we discussed (1)
 
-#### How to create a more robust and efficient interview process
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980)
+#### [How to create a more robust and efficient interview process](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=33)** Remember to assign topics to each interviewer in advance to avoid redundant questioning.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=39)** Next, organize the interviewers from the primary team to cover the three topic areas: programming and coding, math and statistics, machine learning.
+> **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=39)** Next, organize the interviewers from the primary team to cover the three topic areas: programming and coding, math and [[Statistics]], machine learning.
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=52)** Programming and coding skills should be assessed using real coding exercises.
 >
@@ -640,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=100)** This section can be handled in several ways, both verbally and also conducting hands-on exercises.
 >
-> **[1:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=106)** For example, you may ask a candidate to explain the difference between a confidence level and a confidence interval, or you may give them a data set in Python and ask them to analyze the data for insights.
+> **[1:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=106)** For example, you may ask a candidate to explain the difference between a confidence level and a confidence interval, or you may give them a data set in [[Python (Programming Language)|Python]] and ask them to analyze the data for insights.
 >
 > **[1:59](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-more-robust-and-efficient-interview-process?u=76281980&t=119)** It's up to you to determine which is appropriate for you.
 >
@@ -668,19 +658,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (2), next (2), [[Programming]] (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Speakers:** - setting (1), - [instructor] (1), - so (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1), make sure to (1)
 > **Non-Speech:** (computer chimes) (1)
 
-#### How to decide on hiring vs. using automation software
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980)
+#### [How to decide on hiring vs. using automation software](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=0)** - There have been some amazing advances in automated machine learning or AutoML.
+> **[0:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=0)** - There have been some amazing advances in [[Automated Machine Learning (AutoML)|automated machine learning]] or AutoML.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=6)** The technology lends a bevy of automated tasks throughout the development process.
 >
@@ -698,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=48)** The first, time savings.
 >
-> **[0:50](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=50)** You can throw multiple algorithms at a dataset in parallel rather than building each one by one.
+> **[0:50](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=50)** You can throw multiple [[Algorithms]] at a dataset in parallel rather than building each one by one.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=57)** Second is the reduction of headcount.
 >
@@ -706,7 +695,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=66)** Third, no coding is required.
 >
-> **[1:09](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=69)** Perhaps making data science more accessible.
+> **[1:09](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=69)** Perhaps making [[Data Science]] more accessible.
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-decide-on-hiring-vs-using-automation-software?u=76281980&t=72)** Inversely, manual modeling offers unique advantages such as detailed manipulation and explainability of the model that provide a greater understanding of the model's complexity and its outputs.
 >
@@ -742,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (3), feature (2), [[Automation]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Automated Machine Learning (AutoML)|Automated machine learning]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** required to (1)
@@ -753,8 +742,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to onboard new employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980)
+#### [How to onboard new employees](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,7 +814,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980&t=194)** And how and when to engage them?
 >
-> **[3:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980&t=199)** Lastly, and don't forget this, if you're a data science manager or have direct reports, your responsibility is to help new hires navigate the organization successfully.
+> **[3:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980&t=199)** Lastly, and don't forget this, if you're a [[Data Science]] manager or have direct reports, your responsibility is to help new hires navigate the organization successfully.
 >
 > **[3:31](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-onboard-new-employees?u=76281980&t=211)** And so there you are.
 >
@@ -834,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), teams (2), next (2), ci (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** cd (1)
 > **Definitions:** is a  (1)
@@ -842,12 +830,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - onboarding (1)
 
-#### How to announce a new employee hire
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-announce-a-new-employee-hire?u=76281980)
+#### [How to announce a new employee hire](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-announce-a-new-employee-hire?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-announce-a-new-employee-hire?u=76281980&t=1)** - Creating announcements for new hires is often an overlooked tactic that can help make new employees feel welcome, while simultaneously increasing the visibility of your data science team and its importance to the organization.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-announce-a-new-employee-hire?u=76281980&t=1)** - Creating announcements for new hires is often an overlooked tactic that can help make new employees feel welcome, while simultaneously increasing the visibility of your [[Data Science]] team and its importance to the organization.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-announce-a-new-employee-hire?u=76281980&t=13)** Let's take a closer look at how to do this effectively.
 >
@@ -905,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is an  (1)
@@ -913,8 +900,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - creating (1)
 
-#### Get your hands dirty: Which activities to focus on in the first 30 days
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980)
+#### [Get your hands dirty: Which activities to focus on in the first 30 days](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,11 +918,11 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=44)** It's representative of the variables that data scientists will have to manage moving forward.
 >
-> **[0:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=49)** A dedicated learning environment for new data science hires is even more critical in large companies where new hires may rotate in and out of the company more frequently.
+> **[0:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=49)** A dedicated learning environment for new [[Data Science]] hires is even more critical in large companies where new hires may rotate in and out of the company more frequently.
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=58)** Once this environment is set up, you can assign a data scientist various training problems to familiarize them with the data.
 >
-> **[1:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=65)** The training problems should range in complexity and may even incorporate multiple programming languages like SQL and Python.
+> **[1:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=65)** The training problems should range in complexity and may even incorporate multiple programming languages like [[SQL]] and [[Python (Programming Language)|Python]].
 >
 > **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=73)** Break the task into smaller exercises to make them approachable and understandable.
 >
@@ -944,7 +930,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=86)** Then prep the data using various Python libraries and ultimately lay the dataset off to a new table in the same database.
 >
-> **[1:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=94)** You can go further with that exercise and ask the data scientist to create a model maybe a simple logistic regression model using that dataset and then have them commit their code to a new branch in your code repository.
+> **[1:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=94)** You can go further with that exercise and ask the data scientist to create a model maybe a simple [[Logistic Regression]] model using that dataset and then have them commit their code to a new branch in your code repository.
 >
 > **[1:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/get-your-hands-dirty-which-activities-to-focus-on-in-the-first-30-days?u=76281980&t=106)** It's important to remember that the training exercises should be representative of the work someone is expected to do at their level.
 >
@@ -966,15 +952,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[SQL]] (2), [[Python (Programming Language)|Python]] (2), database (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Logistic Regression]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - one (1), - learn (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### How to create a skills rubric and assess skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980)
+#### [How to create a skills rubric and assess skills](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +987,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=79)** For the individual contributor, you'll want to focus more on the hard skills.
 >
-> **[1:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=84)** Those are things like statistics, coding, machine learning, and domain expertise.
+> **[1:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=84)** Those are things like [[Statistics]], coding, machine learning, and domain expertise.
 >
 > **[1:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=90)** You can break all those skills down to a smaller level of grain if you prefer.
 >
@@ -1012,7 +997,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=113)** If so, that should also be a set of skills within the rubric.
 >
-> **[1:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=118)** For the manager, you'll want to include both hard skills and soft skills.
+> **[1:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=118)** For the manager, you'll want to include both hard skills and [[Soft Skills]].
 >
 > **[2:02](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-skills-rubric-and-assess-skills?u=76281980&t=122)** Soft skills like their ability to draft policy and procedure, presentation skills, their ability to derive real business value, how effectively they lead their teams, and their ability to deal with challenges.
 >
@@ -1032,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Soft Skills]] (2), job description (1), career (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2), [[Statistics]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Analogies:** for example (1)
@@ -1040,12 +1025,11 @@ created: 2026-05-02
 > **Speakers:** - we (1)
 > **Non-Speech:** (chimes ringing) (1)
 
-#### How to choose an onboarding model: The surveyor vs. the understudy
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980)
+#### [How to choose an onboarding model: The surveyor vs. the understudy](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=1)** - In data science, like many technical professions, there are many approaches to onboarding and training new employees.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=1)** - In [[Data Science]], like many technical professions, there are many approaches to onboarding and training new employees.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=7)** We're going to discuss two.
 >
@@ -1063,13 +1047,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=39)** The rows of the grid represent different topics.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=42)** Topics can be anything from building and maintaining data pipelines, building models, and monitoring the models that go into production.
+> **[0:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=42)** Topics can be anything from building and maintaining [[Data Pipelines]], building models, and monitoring the models that go into production.
 >
 > **[0:50](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=50)** An important thing to remember here is that it's up to you to determine these skills based on how your company operates.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=57)** The columns of the grid represent the depth of knowledge.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=61)** Let's say, for example, that you're a data scientist working on a deep learning project.
+> **[1:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=61)** Let's say, for example, that you're a data scientist working on a [[Deep Learning]] project.
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-an-onboarding-model-the-surveyor-vs-the-understudy?u=76281980&t=66)** In a situation like this, you may be required to understand a particular topic in great detail.
 >
@@ -1101,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Deep Learning]] (2), open-source (1), [[Debugging]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Deep Learning]] (2), [[Data Pipelines]] (1)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Analogies:** for example (1), kind of like (1)
 > **Prerequisites:** required to (2)
@@ -1115,12 +1099,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to choose a management model that works for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980)
+#### [How to choose a management model that works for you](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980&t=1)** - There are summarily three different types of organizational models that data science teams generally adhere to.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980&t=1)** - There are summarily three different types of organizational models that [[Data Science]] teams generally adhere to.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-choose-a-management-model-that-works-for-you?u=76281980&t=7)** Each has its own unique benefits, but all three are worth knowing about so you can decide on the one that's right for you.
 >
@@ -1178,18 +1161,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), teams (4), business (2)
+> **Frameworks & Libraries:** [[Data Science]] (7)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - there (1)
 
-#### How to manage in-office workers vs. remote workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980)
+#### [How to manage in-office workers vs. remote workers](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=1)** - Managing your team successfully can be challenging, whether you have in-office or remote workers, but there are proven techniques to help you efficiently manage a diverse workforce.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=1)** - Managing your team successfully can be challenging, whether you have in-[[Microsoft Office|office]] or remote workers, but there are proven techniques to help you efficiently manage a diverse workforce.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=12)** Let's examine some of the more effective strategies for managing these two groups.
 >
@@ -1205,7 +1187,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=36)** Second, be clear and concise when setting goals.
 >
-> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=40)** In data science, ambiguity is always the enemy, so be specific on expectations.
+> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=40)** In [[Data Science]], ambiguity is always the enemy, so be specific on expectations.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-manage-in-office-workers-vs-remote-workers?u=76281980&t=46)** And third, go out of your way to make sure your team knows they have a lifeline when they need one.
 >
@@ -1257,17 +1239,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), management (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Data Science]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - managing (1)
 
-#### Key principles for managing data scientists for a small company
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980)
+#### [Key principles for managing data scientists for a small company](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=1)** - Leading a successful data science team is challenging no matter the organization's size.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=1)** - Leading a successful [[Data Science]] team is challenging no matter the organization's size.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=6)** But small companies and startups have a unique set of challenges requiring a unique set of management skills.
 >
@@ -1279,7 +1260,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=35)** Also, data scientists in small companies invariably wear multiple hats.
 >
-> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=40)** Most people think of those hats as being hard skills or technical skills, but the truth is, that for data science teams to remain agile and fluid, they must also have soft skills, including communication and collaboration skills.
+> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=40)** Most people think of those hats as being hard skills or technical skills, but the truth is, that for data science teams to remain [[Agile Development|agile]] and fluid, they must also have [[Soft Skills]], including communication and collaboration skills.
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=53)** As a manager, you have to work with your data scientists on those skills, too, if you're trying to maximize productivity.
 >
@@ -1295,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=95)** As a manager, it's your job to help them understand the trade-offs.
 >
-> **[1:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=100)** In small companies, data scientists are naturally closer to the products and services they build, which is a big motivator.
+> **[1:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=100)** In small companies, data scientists are naturally closer to the [[Microsoft Products|products]] and services they build, which is a big motivator.
 >
 > **[1:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-small-company?u=76281980&t=106)** The larger the company, the more obfuscated their role and contribution may become.
 >
@@ -1317,18 +1298,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), management (1), teams (1), [[Agile Development|Agile]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Agile Development|Agile]] (1), [[Soft Skills]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - leading (1)
 
-#### Key principles for managing data scientists for a mid-sized company
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-mid-sized-company?u=76281980)
+#### [Key principles for managing data scientists for a mid-sized company](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-mid-sized-company?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-mid-sized-company?u=76281980&t=1)** - Leading a successful data science team is challenging no matter the organization size but mid-size companies have a unique set of challenges requiring a unique set of management skills.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-mid-sized-company?u=76281980&t=1)** - Leading a successful [[Data Science]] team is challenging no matter the organization size but mid-size companies have a unique set of challenges requiring a unique set of management skills.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-mid-sized-company?u=76281980&t=13)** Let's take a look at a few of those skills to help maximize success for mid-size companies specifically.
 >
@@ -1372,23 +1352,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), management (2), business (1), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (5)
 > **CLI Commands:** make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - leading (1)
 
-#### Key principles for managing data scientists for a large company
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980)
+#### [Key principles for managing data scientists for a large company](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=1)** - Leading a successful data science team is challenging no matter the organization size, but large companies have a really unique set of challenges that are required, and a unique set of management skills that are also required.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=1)** - Leading a successful [[Data Science]] team is challenging no matter the organization size, but large companies have a really unique set of challenges that are required, and a unique set of management skills that are also required.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=14)** Let's look at a few of those challenges and how to deal with them.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=18)** First, if you're working in a large company then you're likely working in a big data environment, and that often translates to added complexity.
+> **[0:18](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=18)** First, if you're working in a large company then you're likely working in a [[Big Data]] environment, and that often translates to added complexity.
 >
-> **[0:27](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=27)** So as a manager in a large company, you may have to shift your focus from building models to managing data pipelines.
+> **[0:27](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=27)** So as a manager in a large company, you may have to shift your focus from building models to managing [[Data Pipelines]].
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=34)** This is because data-driven enterprises need to efficiently collect, move, and transform their data into actionable information as quickly as possible, and it's your job to ensure that happens.
 >
@@ -1400,9 +1379,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=72)** For example, you may create a universal set of criteria that can be fairly applied to all candidates like years of experience, technical proficiency in key areas, formal training and machine learning, et cetera.
 >
-> **[1:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=86)** Second, a system for interviewing candidates to assess skills in all areas, not just technical abilities.
+> **[1:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=86)** Second, a system for [[Interviewing]] candidates to assess skills in all areas, not just technical abilities.
 >
-> **[1:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=93)** This is important, especially in higher level positions when soft skills become as important as the hard skills.
+> **[1:33](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=93)** This is important, especially in higher level positions when [[Soft Skills]] become as important as the hard skills.
 >
 > **[1:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/key-principles-for-managing-data-scientists-for-a-large-company?u=76281980&t=101)** Consider who you might want to add to the interview process to get a broad and diverse perspective on the candidate's abilities.
 >
@@ -1426,17 +1405,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), management (1), [[Big Data]] (1), [[Interviewing]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Big Data]] (1), [[Data Pipelines]] (1), [[Interviewing]] (1), [[Soft Skills]] (1)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** for example (1)
 > **Speakers:** - leading (1)
 
-#### How to determine the appropriate processes to incorporate
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-appropriate-processes-to-incorporate?u=76281980)
+#### [How to determine the appropriate processes to incorporate](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-appropriate-processes-to-incorporate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-appropriate-processes-to-incorporate?u=76281980&t=1)** - Whether you're managing a data science team in a startup or a multinational corporation, one of the most challenging tasks can be implementing new processes.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-appropriate-processes-to-incorporate?u=76281980&t=1)** - Whether you're managing a [[Data Science]] team in a startup or a multinational corporation, one of the most challenging tasks can be implementing new processes.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-the-appropriate-processes-to-incorporate?u=76281980&t=11)** And there are some proven ways to do it effectively and efficiently.
 >
@@ -1498,20 +1476,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (2)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - whether (1)
 
-#### How to avoid the Player/Coach trap
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980)
+#### [How to avoid the Player/Coach trap](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980&t=1)** - If you're an individual contributor who also manages the work of other employees you're what's called a player coach.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980&t=8)** But for data science managers, this approach can often be a trap and often leads to confusion, frustration and efficiency for both workers and managers alike.
+> **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980&t=8)** But for [[Data Science]] managers, this approach can often be a trap and often leads to confusion, frustration and efficiency for both workers and managers alike.
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-the-player-coach-trap?u=76281980&t=19)** Let's take a closer look to better understand what this looks like.
 >
@@ -1565,17 +1542,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (2), business (1), strengths (1)
+> **Frameworks & Libraries:** [[Data Science]] (3)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
 
-#### How to set priorities for the team: A three-layer approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980)
+#### [How to set priorities for the team: A three-layer approach](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=1)** - Ensuring your data science team is successful means setting priorities.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=1)** - Ensuring your [[Data Science]] team is successful means setting priorities.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=5)** With the number of tasks and projects that demand attention, understanding how to create and enforce prioritization systems is essential.
 >
@@ -1623,7 +1599,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=125)** Another example may be creating reports and presentations which would be low impact, high effort.
 >
-> **[2:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=132)** A third example may be repairing broken data pipelines.
+> **[2:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=132)** A third example may be repairing broken [[Data Pipelines]].
 >
 > **[2:16](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-set-priorities-for-the-team-a-three-layer-approach?u=76281980&t=136)** This is high impact, low effort.
 >
@@ -1655,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (6), strengths (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Data Pipelines]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Warnings:** keep in mind (2)
 > **Analogies:** for example (1)
@@ -1666,8 +1642,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Align an employee's personal goals to the goals of the business
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980)
+#### [Align an employee's personal goals to the goals of the business](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1679,7 +1654,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=21)** Let's start with the types of skills.
 >
-> **[0:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=24)** These can be hard skills related to ML theory, coding and math and statistics, or they can be soft skills such as communication and presentation skills.
+> **[0:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=24)** These can be hard skills related to ML theory, coding and math and [[Statistics]], or they can be [[Soft Skills]] such as communication and presentation skills.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=35)** Once you've defined what skills are needed, you can move on to the immediacy of skills, both present and future.
 >
@@ -1699,9 +1674,9 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=92)** Again, this comes down to evaluating skills based on present and future needs.
 >
-> **[1:37](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=97)** If, for example, your day-to-day work involves querying a relational database, then a data scientist who wants to develop their SQL skills is probably a good idea.
+> **[1:37](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=97)** If, for example, your day-to-day work involves querying a relational database, then a data scientist who wants to develop their [[SQL]] skills is probably a good idea.
 >
-> **[1:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=107)** But inversely, if the company is moving away from traditional relational databases towards maybe distributed storage and processing like Hadoop and Hive, then the Hive query language or HQL, may be more valuable than SQL.
+> **[1:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=107)** But inversely, if the company is moving away from traditional [[Relational Databases]] towards maybe distributed storage and processing like [[Hadoop]] and Hive, then the Hive query language or HQL, may be more valuable than SQL.
 >
 > **[2:03](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=123)** Choosing how to invest in future skills for data scientists is always more challenging than deciding which present skills to invest in.
 >
@@ -1709,7 +1684,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=146)** That ensures the trajectory of education is aligned with the future business goal.
 >
-> **[2:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=152)** It also gives data science managers a timeline for developing the new skills.
+> **[2:32](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=152)** It also gives [[Data Science]] managers a timeline for developing the new skills.
 >
 > **[2:37](https://www.linkedin.com/learning/data-science-team-lifecycle-management/align-an-employee-s-personal-goals-to-the-goals-of-the-business?u=76281980&t=157)** I hope that was helpful.
 >
@@ -1717,14 +1692,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (6), [[SQL]] (2), [[Statistics]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Data Science]] (2), [[Statistics]] (1), [[Soft Skills]] (1), [[Relational Databases]] (1)
 > **Env Vars:** sql (2), hql (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - data (1)
 
-#### How to help data scientists improve soft skills and hard skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980)
+#### [How to help data scientists improve soft skills and hard skills](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,19 +1708,19 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=19)** Data scientists are essential in almost every business.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=23)** However, managers become frustrated with productivity losses or hindered growth opportunities when they realize that their employees can't bridge the gap between the hard skills germane to the data scientist's responsibilities and the soft skills that provide the connective tissue throughout the larger business.
+> **[0:23](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=23)** However, managers become frustrated with productivity losses or hindered growth opportunities when they realize that their employees can't bridge the gap between the hard skills germane to the data scientist's responsibilities and the [[Soft Skills]] that provide the connective tissue throughout the larger business.
 >
 > **[0:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=41)** Let's start by defining the two skill sets.
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=44)** Hard skills represent the technical skills required for day-to-day tasks.
 >
-> **[0:50](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=50)** This includes coding, math and statistics, and machine learning theory.
+> **[0:50](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=50)** This includes coding, math and [[Statistics]], and machine learning theory.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=54)** It also includes AI related topics, such as large language model architectures, like the transformer architecture, embeddings, and vector stores.
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=64)** Soft skills play a large role in getting hired and advancing in a career, and it's soft skills that are likely to be valued in today's automated workforce.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=73)** Soft skills represent intangible qualities, like critical thinking, business acumen, and even ethical deliberation.
+> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=73)** Soft skills represent intangible qualities, like critical thinking, [[Business Acumen]], and even ethical deliberation.
 >
 > **[1:21](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-help-data-scientists-improve-soft-skills-and-hard-skills-24914444?u=76281980&t=81)** How and where do people learn hard skills?
 >
@@ -1772,18 +1746,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Soft Skills]] (9), business (3), [[Statistics]] (1), ai (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (9), [[Statistics]] (1), [[Business Acumen]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** stem (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to determine when a data scientist should acquire more schooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980)
+#### [How to determine when a data scientist should acquire more schooling](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=0)** - Data science is a multifaceted, interdisciplinary field of study that involves continuous education.
+> **[0:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=0)** - [[Data Science]] is a multifaceted, interdisciplinary field of study that involves continuous education.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=7)** But not all data scientists progress at the same rate, nor are they uniformly strong in all the same skills.
 >
@@ -1799,9 +1772,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=48)** This is where the skills rubric comes in, which we also discussed in a previous video.
 >
-> **[0:54](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=54)** Let's say I'm working on a team developing deep learning algorithms.
+> **[0:54](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=54)** Let's say I'm working on a team developing [[Deep Learning]] [[Algorithms]].
 >
-> **[0:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=58)** I might have a firm grasp of ML theory and coding, but maybe I'm not so great at math, specifically linear algebra, which deals with the vectors and matrices associated with problems like this.
+> **[0:58](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=58)** I might have a firm grasp of ML theory and coding, but maybe I'm not so great at math, specifically [[Linear Algebra]], which deals with the vectors and matrices associated with problems like this.
 >
 > **[1:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-a-data-scientist-should-acquire-more-schooling?u=76281980&t=71)** These are conceptually important topics to understand if I'm working on deep learning algorithms.
 >
@@ -1839,18 +1812,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), job description (2), [[Deep Learning]] (2), [[Algorithms]] (2), [[Linear Algebra]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Deep Learning]] (2), [[Algorithms]] (2), [[Linear Algebra]] (2)
 > **Cross-References:** previous video (2), we discussed (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - data (1)
 
-#### Develop an individual data scientist vs. the team as a whole
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980)
+#### [Develop an individual data scientist vs. the team as a whole](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=1)** - Data science tasks involve a combination, of statistics, coding, and machine learning, and there's some other skills too.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=1)** - [[Data Science]] tasks involve a combination, of [[Statistics]], coding, and machine learning, and there's some other skills too.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=8)** Still, at some point as a manager, you'll be confronted with the challenge of developing people individually versus upgrading an entire team.
 >
@@ -1872,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=55)** As your data science team grows, so must the team's ability to communicate and coordinate.
 >
-> **[1:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=61)** This is where soft skills development comes into play especially for data science managers.
+> **[1:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=61)** This is where [[Soft Skills]] development comes into play especially for data science managers.
 >
 > **[1:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=68)** In contrast, an individual data scientist should develop a core set of hard skills before developing the soft skills.
 >
@@ -1898,7 +1870,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=131)** So for example, suppose the company relies on having a handful of machine learning models in production at all times.
 >
-> **[2:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=139)** In that case, your job as a manager is to figure out what machine learning skills are required to reliably maintain those models, perhaps putting more emphasis on managing data pipelines, ML ops, and monitoring model drift.
+> **[2:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=139)** In that case, your job as a manager is to figure out what machine learning skills are required to reliably maintain those models, perhaps putting more emphasis on managing [[Data Pipelines]], ML ops, and monitoring model drift.
 >
 > **[2:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/develop-an-individual-data-scientist-vs-the-team-as-a-whole?u=76281980&t=154)** Like most things in data science, you should make sure you have a system in place for measuring skills development.
 >
@@ -1916,15 +1888,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), teams (4), [[Soft Skills]] (2), business (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Soft Skills]] (2), [[Statistics]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Warnings:** important note (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - data (1)
 
-#### When to move a data scientist into a different role
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980)
+#### [When to move a data scientist into a different role](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,7 +1907,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=22)** Let's look at how we can spot this misalignment and what we can do about it.
 >
-> **[0:27](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=27)** Again, as we've discussed in previous videos, data scientists have a fundamental set of hard skills or technical skills, augmented with soft skills.
+> **[0:27](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=27)** Again, as we've discussed in previous videos, data scientists have a fundamental set of hard skills or technical skills, augmented with [[Soft Skills]].
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=36)** These skills are rarely symmetrical and data scientists tend to lean towards one direction.
 >
@@ -1944,11 +1915,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=49)** A bias towards hard skills may indicate the data scientist is rooted in technical ability.
 >
-> **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=55)** And within those technical abilities, we can look at the depth of skill in math and statistics, coding, and machine learning theory.
+> **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=55)** And within those technical abilities, we can look at the depth of skill in math and [[Statistics]], coding, and machine learning theory.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=63)** So for example, someone who is strong in coding and managing data pipelines, but lacking in math and ML theory may be better suited as an engineer.
+> **[1:03](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=63)** So for example, someone who is strong in coding and managing [[Data Pipelines]], but lacking in math and ML theory may be better suited as an engineer.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=73)** On the other hand, you may have a data scientist with a decent set of hard skills, but really excels at the soft skills such as communication, business acumen, and critical thinking.
+> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=73)** On the other hand, you may have a data scientist with a decent set of hard skills, but really excels at the soft skills such as communication, [[Business Acumen]], and critical thinking.
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=83)** In this situation, they may be better suited in more of a managerial role, not in an individual contributor role.
 >
@@ -1966,7 +1937,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=126)** Don't make the mistake of transferring a data scientist into a different role based on a skill surplus or skills deficiency alone.
 >
-> **[2:15](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=135)** For example, a big data environment with multiple models in production may demand more data engineers and ML engineers.
+> **[2:15](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=135)** For example, a [[Big Data]] environment with multiple models in production may demand more data engineers and ML engineers.
 >
 > **[2:24](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-move-a-data-scientist-into-a-different-role?u=76281980&t=144)** (bell chimes) So it's essential to also understand the company's needs when making these decisions.
 >
@@ -1982,7 +1953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Soft Skills]] (3), business (2), [[Statistics]] (1), management (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (3), [[Statistics]] (1), [[Data Pipelines]] (1), [[Business Acumen]] (1), [[Big Data]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** don't make the mistake (1)
@@ -1994,8 +1965,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create a pathway to promotion
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980)
+#### [How to create a pathway to promotion](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2011,9 +1981,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=26)** So one thing you definitely don't want to do is promise someone a promotion, nor should you promise a promotion by a specific date.
 >
-> **[0:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=34)** There are simply too many factors outside your control to ensure 100% probability of promotion.
+> **[0:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=34)** There are simply too many factors outside your control to ensure 100% [[Probability]] of promotion.
 >
-> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=40)** And besides, in data science, we never say 100% probability anyway.
+> **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=40)** And besides, in [[Data Science]], we never say 100% probability anyway.
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-create-a-pathway-to-promotion?u=76281980&t=46)** The first step you'll need to take as a manager is to ensure that the promotion is warranted and justifiable.
 >
@@ -2055,14 +2025,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Probability]] (2), hr (2), business (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Data Science]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - for (1)
 
-#### How to assess whether or not an employee deserves a promotion
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980)
+#### [How to assess whether or not an employee deserves a promotion](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2080,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980&t=39)** For example, the senior data scientist position does not just mean that you are a data scientist with more years of experience.
 >
-> **[0:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980&t=47)** It is the difference in responsibility of the impact of your data science or machine learning models on the business you work in.
+> **[0:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980&t=47)** It is the difference in responsibility of the impact of your [[Data Science]] or machine learning models on the business you work in.
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-assess-whether-or-not-an-employee-deserves-a-promotion?u=76281980&t=55)** A data scientist may be good at exploratory data analysis or what we call EDA, or building models, but those models may not impact the business in a meaningful way.
 >
@@ -2120,7 +2089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (5)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Cross-References:** previous video (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** eda (1)
@@ -2128,8 +2097,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - deciding (1)
 
-#### How to communicate your plans to promote to the larger organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-communicate-your-plans-to-promote-to-the-larger-organization?u=76281980)
+#### [How to communicate your plans to promote to the larger organization](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-communicate-your-plans-to-promote-to-the-larger-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2185,11 +2153,11 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-communicate-your-plans-to-promote-to-the-larger-organization?u=76281980&t=157)** And this can be simple, like sending out a monthly email recap to your immediate peer group and selecting team members to highlight along the way.
 >
-> **[2:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-communicate-your-plans-to-promote-to-the-larger-organization?u=76281980&t=167)** I hope that's helpful and hopefully now you understand how important it is to effectively communicate promotions and how they benefit the employee and the overall data science team.
+> **[2:47](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-communicate-your-plans-to-promote-to-the-larger-organization?u=76281980&t=167)** I hope that's helpful and hopefully now you understand how important it is to effectively communicate promotions and how they benefit the employee and the overall [[Data Science]] team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), data (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - job (1)
 
@@ -2198,8 +2166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to prevent burnout
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980)
+#### [How to prevent burnout](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2215,7 +2182,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980&t=40)** But there are other tools you can use.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980&t=42)** First, data science managers must set realistic employee goals and avoid overloading them.
+> **[0:42](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980&t=42)** First, [[Data Science]] managers must set realistic employee goals and avoid overloading them.
 >
 > **[0:48](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-prevent-burnout?u=76281980&t=48)** Sure, there are always times when your team really needs to stretch to meet a deadline, but that shouldn't be the norm.
 >
@@ -2255,14 +2222,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - job (1)
 > **Non-Speech:** (bright music) (1)
 
-#### When to fight for an employee and when to let go
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980)
+#### [When to fight for an employee and when to let go](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2250,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980&t=70)** Fighting to keep them could be beneficial in the long run.
 >
-> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980&t=73)** Alternatively, suppose the employee indeed does have a unique skillset or attitude that sets them apart from the rest of your team; in that case, they may be worth holding onto.
+> **[1:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980&t=73)** Alternatively, suppose the employee indeed does have a unique skillset or attitude that sets them apart from the [[Representational State Transfer (REST)|rest]] of your team; in that case, they may be worth holding onto.
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-team-lifecycle-management/when-to-fight-for-an-employee-and-when-to-let-go?u=76281980&t=83)** One thing to consider here is whether or not you have a person with a good skillset but who's in the wrong role, or you have a well-defined role and the person in it just simply isn't qualified.
 >
@@ -2312,12 +2278,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - it (1)
 
-#### Make space for new ideas
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980)
+#### [Make space for new ideas](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=1)** - Fostering a data science culture of new ideas and creative thinking can drive business success.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=1)** - Fostering a [[Data Science]] culture of new ideas and creative thinking can drive business success.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=5)** But creating an environment where employees feel empowered to take risks and think outside the box isn't always so easy.
 >
@@ -2343,7 +2308,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=79)** Your aim is to create a prototype or minimum viable product that exemplifies the basic functionality.
 >
-> **[1:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=86)** Having a defined process for prototyping new ideas is important.
+> **[1:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=86)** Having a defined process for [[Prototyping]] new ideas is important.
 >
 > **[1:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/make-space-for-new-ideas?u=76281980&t=90)** Prototyping projects, just like standard projects, should have a clearly defined problem statement, a dedicated branch in the code repository, and some output that can be assessed, like a model, for example.
 >
@@ -2379,19 +2344,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (4), [[Prototyping]] (4), product (2), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[Prototyping]] (4)
 > **Analogies:** just like (2), for example (2), such as (1)
 > **Warnings:** keep in mind (1), watch out (1)
 > **Env Vars:** mvp (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - fostering (1)
 
-#### What to do when all else fails
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980)
+#### [What to do when all else fails](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=1)** - Dealing with employee turnover can be difficult for any data science manager.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=1)** - Dealing with employee turnover can be difficult for any [[Data Science]] manager.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=5)** It's hard news to take when an employee leaves especially if you put in the time and the effort to save them from quitting.
 >
@@ -2403,7 +2367,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=34)** This can be incredibly stressful and disruptive for employers, especially in small organizations where the departure of one key person can cause major upheaval.
 >
-> **[0:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=44)** These problems come in many forms but they often take the form of one of the following.
+> **[0:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=44)** These problems come in many [[Forms]] but they often take the form of one of the following.
 >
 > **[0:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/what-to-do-when-all-else-fails?u=76281980&t=49)** Monetary compensation, personal conflict, growth opportunities, work-life balance or quality of work.
 >
@@ -2453,7 +2417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - dealing (1)
@@ -2463,8 +2427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mentorship and teaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980)
+#### [Mentorship and teaching](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,7 +2447,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980&t=36)** Mentoring is an active relationship in which one person, the mentor, passes on lessons to the other person, the mentee.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980&t=45)** While many people think of mentorships as formal programs run by organizations or institutions, they can take many forms depending on the needs of both parties, from casual chats to regular sessions with specific objectives.
+> **[0:45](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980&t=45)** While many people think of mentorships as formal programs run by organizations or institutions, they can take many [[Forms]] depending on the needs of both parties, from casual chats to regular sessions with specific objectives.
 >
 > **[1:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentorship-and-teaching?u=76281980&t=60)** Mentoring is a great way to cultivate relationships and learn valuable lessons from experienced individuals who have already succeeded in their fields.
 >
@@ -2532,16 +2495,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (3), career (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Speakers:** - at (1)
 
-#### How to determine when to mentor and when to teach
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980)
+#### [How to determine when to mentor and when to teach](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=1)** - As a data science professional, you understand that mentoring and teaching are essential tools when helping your teams to achieve success.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=1)** - As a [[Data Science]] professional, you understand that mentoring and teaching are essential tools when helping your teams to achieve success.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=8)** Knowing the right approach for any given situation is important if you want to impact your team's growth and results.
 >
@@ -2549,7 +2511,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=26)** Let's look at a couple of different scenarios to differentiate teaching from mentoring.
 >
-> **[0:31](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=31)** For example, a senior data scientist could teach a newer team member the steps involved in developing a predictive model, from data cleaning, feature engineering and modeling, to model evaluation and development.
+> **[0:31](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=31)** For example, a senior data scientist could teach a newer team member the steps involved in developing a predictive model, from [[Data Cleaning]], [[Feature Engineering]] and modeling, to model evaluation and development.
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=44)** This kind of teaching builds skills and knowledge the mentee will use in the future.
 >
@@ -2571,7 +2533,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=108)** Mentoring is often needed in scenarios involving ambiguity, thus requiring multiple decisions.
 >
-> **[1:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=115)** For example, a new data science manager unfamiliar with the soft skills required to be an effective manager, would benefit from a mentor or a young machine learning engineer looking for guidance on focusing her career in the field of generative AI, but ensure how to start, would also benefit from a mentor.
+> **[1:55](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=115)** For example, a new data science manager unfamiliar with the [[Soft Skills]] required to be an effective manager, would benefit from a mentor or a young machine learning engineer looking for guidance on focusing her career in the field of [[Generative AI]], but ensure how to start, would also benefit from a mentor.
 >
 > **[2:15](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-determine-when-to-mentor-and-when-to-teach?u=76281980&t=135)** What's important to understand in these examples is that mentoring focuses on the individual and their path to fulfillment.
 >
@@ -2585,14 +2547,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (1), [[Feature Engineering]] (1), [[Soft Skills]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Data Cleaning]] (1), [[Feature Engineering]] (1), [[Soft Skills]] (1), [[Generative AI]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - as (1)
 
-#### Mentor outside of your immediate team
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980)
+#### [Mentor outside of your immediate team](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2600,7 +2561,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=8)** Not only does it broaden perspectives but it also offers unique insights into different issues.
 >
-> **[0:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=13)** As data science leaders, understanding how to mentor people outside our immediate team provides us with an invaluable opportunity to create positive impacts within our organizations.
+> **[0:13](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=13)** As [[Data Science]] leaders, understanding how to mentor people outside our immediate team provides us with an invaluable opportunity to create positive impacts within our organizations.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=25)** Let's examine why mentoring those outside your immediate team is important and examine the benefits of those efforts to maximize learning opportunities across the entire organization.
 >
@@ -2612,7 +2573,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=62)** First, data scientists must constantly develop new skills.
 >
-> **[1:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=66)** This can include everything from best practices in coding to building and maintaining data pipelines.
+> **[1:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=66)** This can include everything from best practices in coding to building and maintaining [[Data Pipelines]].
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=72)** Data science is a continually evolving field and mentoring can help mentees stay up to date with the latest tools and techniques, as well as help them to develop the skills they need to be successful in their roles.
 >
@@ -2624,7 +2585,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=103)** This becomes especially important as the company's size increases over time.
 >
-> **[1:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=109)** Third, it promotes diversity and inclusion.
+> **[1:49](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=109)** Third, it promotes [[Diversity and Inclusion]].
 >
 > **[1:52](https://www.linkedin.com/learning/data-science-team-lifecycle-management/mentor-outside-of-your-immediate-team?u=76281980&t=112)** By mentoring individuals from underrepresented groups, data science leaders can help to create a more inclusive and equitable work environment.
 >
@@ -2648,7 +2609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Diversity and Inclusion]] (1), career (1)
+> **Frameworks & Libraries:** [[Data Science]] (7), [[Data Pipelines]] (1), [[Diversity and Inclusion]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** dei (1)
@@ -2659,12 +2620,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to avoid unnecessary termination
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980)
+#### [How to avoid unnecessary termination](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=1)** - As a data science leader, you may face the challenge of dealing with employee termination.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=1)** - As a [[Data Science]] leader, you may face the challenge of dealing with employee termination.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=6)** Employee termination is a last resort, so it's essential to understand how to prevent it if possible.
 >
@@ -2676,7 +2636,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=30)** As we review these tactics it should become clear what they all have in common and that's communication.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=38)** Communication skills, often referred to as quote unquote soft skills, are incredibly important for data science leaders to develop.
+> **[0:38](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=38)** Communication skills, often referred to as quote unquote [[Soft Skills]], are incredibly important for data science leaders to develop.
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-team-lifecycle-management/how-to-avoid-unnecessary-termination?u=76281980&t=45)** When applied correctly to complex employee issues, these skills can help galvanize a data science team and maintain regularity and efficiency throughout the company.
 >
@@ -2722,18 +2682,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (4), [[Soft Skills]] (1), next (1), job description (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Soft Skills]] (1)
 > **Cross-References:** we covered (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 > **Non-Speech:** (chimes) (1)
 
-#### Which steps should you take before considering terminating an employee
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980)
+#### [Which steps should you take before considering terminating an employee](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=1)** - Employee termination is one of the most sensitive matters a data science leader has to grapple with.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=1)** - Employee termination is one of the most sensitive matters a [[Data Science]] leader has to grapple with.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=6)** Decisions made in terminating an employee must be handled delicately, because legal and ethical implications can impact organizational reputation and promote litigation costs.
 >
@@ -2771,7 +2730,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=135)** The US Department of Labor, for example, enforces roughly 180 federal labor laws.
 >
-> **[2:22](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=142)** Finally, step five, the impact on the rest of the team.
+> **[2:22](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=142)** Finally, step five, the impact on the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[2:26](https://www.linkedin.com/learning/data-science-team-lifecycle-management/which-steps-should-you-take-before-considering-terminating-an-employee?u=76281980&t=146)** Consider how the termination will affect the rest of the team and plan accordingly.
 >
@@ -2791,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), data (2), next (2), hr (2), business (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Data Science]] (2)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** make (3)
 > **Warnings:** warning (1), be aware (1)
@@ -2799,12 +2758,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - employee (1)
 
-#### Tips for terminating employees confidently and humanely
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/tips-for-terminating-employees-confidently-and-humanely?u=76281980)
+#### [Tips for terminating employees confidently and humanely](https://www.linkedin.com/learning/data-science-team-lifecycle-management/tips-for-terminating-employees-confidently-and-humanely?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/tips-for-terminating-employees-confidently-and-humanely?u=76281980&t=1)** - There's perhaps nothing more difficult as a data science leader than having to terminate an employee.
+> **[0:01](https://www.linkedin.com/learning/data-science-team-lifecycle-management/tips-for-terminating-employees-confidently-and-humanely?u=76281980&t=1)** - There's perhaps nothing more difficult as a [[Data Science]] leader than having to terminate an employee.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-team-lifecycle-management/tips-for-terminating-employees-confidently-and-humanely?u=76281980&t=8)** Terminating an employee should always be done with respect and empathy.
 >
@@ -2852,7 +2810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Best Practices:** remember to (2), it's best to (1)
 > **CLI Commands:** make (2)
 > **Warnings:** keep in mind (2)
@@ -2864,14 +2822,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=0)** - Congratulations, you've completed the course.
 >
-> **[0:04](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=4)** By watching these videos, my hope is that you've developed a more robust skillset for effectively managing data science and engineering teams.
+> **[0:04](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=4)** By watching these videos, my hope is that you've developed a more robust skillset for effectively managing [[Data Science]] and engineering teams.
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=12)** We've covered many different topics in this course.
 >
@@ -2883,9 +2840,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=30)** These are lifelong skills that you can use both immediately and certainly in the future.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=35)** Feel free to follow me on LinkedIn, where I write about various data science and AI topics.
+> **[0:35](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=35)** Feel free to follow me on [[LinkedIn]], where I write about various data science and AI topics.
 >
-> **[0:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=41)** Also, LinkedIn Learning has a host of additional data science learning modules worth checking out, including programming courses, foundational machine learning concepts, and career development skills.
+> **[0:41](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=41)** Also, LinkedIn Learning has a host of additional data science learning modules worth checking out, including programming courses, foundational machine learning concepts, and [[Career Development]] skills.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-team-lifecycle-management/next-steps-and-additional-resources?u=76281980&t=54)** As a next step, I invite you to download and share your certificate of completion on LinkedIn.
 >
@@ -2895,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[LinkedIn]] (3), business (2), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[LinkedIn]] (3), [[Career Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The evolution of responsive design
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
+#### [The evolution of responsive design](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980&t=0)** - After 30 years of CSS, we are finally getting some cool new tools for developers, including the ability to do math with the calc function and the new CSS custom properties or variables as they're often called.
 >
-> **[0:13](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980&t=13)** Unlike SaaS variables, CSS custom properties may have their values changed in media queries.
+> **[0:13](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980&t=13)** Unlike [[SaaS]] variables, CSS custom properties may have their values changed in media queries.
 >
 > **[0:20](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/the-evolution-of-responsive-design-25743926?u=76281980&t=20)** This is a huge game changer for all of us, meaning we can streamline our CSS to new levels rather than having to repeat our styles in media queries with new values.
 >
@@ -102,17 +101,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[SaaS]] (1), game (1)
+> **Frameworks & Libraries:** [[SaaS]] (1)
 > **Env Vars:** css (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - after (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a much more advanced course in HTML and CSS.
+> **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a much more advanced course in [[HTML]] and CSS.
 >
 > **[0:05](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/what-you-should-know?u=76281980&t=5)** And so, there's a number of prerequisites that you should have either the knowledge of or you've looked at our courses on those topics before you watch this course in order to get the most out of it.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[HTML]] (5)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** css (7), html (5)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -161,8 +159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS calc() overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
+#### [CSS calc() overview](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980&t=109)** Parentheses, exponents, multiplication and division, and addition and subtraction.
 >
-> **[1:55](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980&t=115)** There are two big advantages to using calc over doing math inside of SaaS or another CSS pre-processor.
+> **[1:55](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980&t=115)** There are two big advantages to using calc over doing math inside of [[SaaS]] or another CSS pre-processor.
 >
 > **[2:03](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-calc-overview?u=76281980&t=123)** First, with calc you can manipulate two numbers with different units, for example, try subtracting 20 pixels from 95%, SaaS would not be happy.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[SaaS]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (3)
 > **Env Vars:** css (8)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (2)
@@ -227,14 +224,13 @@ created: 2026-05-02
 > **URLs:** [caniuse.com](https://caniuse.com) (1)
 > **Tools:** firefox (1)
 
-#### Applying calc() in a layout example
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980)
+#### [Applying calc() in a layout example](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=0)** - [Instructor] Now that you have a sense of how Kelp works, let's apply it to an example.
 >
-> **[0:05](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=5)** This is CodePen and this CodePen is available to you at the address that's on the screen here.
+> **[0:05](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=5)** This is [[CodePen]] and this CodePen is available to you at the address that's on the screen here.
 >
 > **[0:13](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=13)** You can go ahead and create an account, you can fork this and save your edits.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=32)** And I've built this using Flexbox.
 >
-> **[0:34](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=34)** If you just take a quick peek at the CSS over here, the HTML and the CSS down here on the bottom, you can see exactly what I did here and where all the numbers come from.
+> **[0:34](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=34)** If you just take a quick peek at the CSS over here, the [[HTML]] and the CSS down here on the bottom, you can see exactly what I did here and where all the numbers come from.
 >
 > **[0:46](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/applying-calc-in-a-layout-example?u=76281980&t=46)** Totally obvious what I did, right?
 >
@@ -318,14 +314,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (2), css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (2), [[HTML]] (1)
 > **Env Vars:** css (2), calc (2), html (1)
 > **Definitions:** is a  (3), means that (1), defined as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Creating a type scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980)
+#### [Challenge: Creating a type scale](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980&t=155)** So, this is a great way to manage font sizes on your website in a way that your graphic designer friends will enjoy looking at your type.
 >
-> **[2:44](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980&t=164)** So, what I'd like for you to do now is in the CodePen that I've given you, I've given you the starting HTML and the CSS that comes right out of the type scale website, and as you see here, it's gone ahead and exported a whole bunch of different type sizes here.
+> **[2:44](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980&t=164)** So, what I'd like for you to do now is in the [[CodePen]] that I've given you, I've given you the starting [[HTML]] and the CSS that comes right out of the type scale website, and as you see here, it's gone ahead and exported a whole bunch of different type sizes here.
 >
 > **[3:01](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-creating-a-type-scale?u=76281980&t=181)** I'd like you to go through as part of your challenge and rework these font sizes.
 >
@@ -391,7 +386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (2), [[CodePen]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[HTML]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Versions:** 1.2 (2), 1.44 (2)
 > **Env Vars:** html (1), css (1)
@@ -400,8 +395,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Creating a type scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-creating-a-type-scale?u=76281980)
+#### [Solution: Creating a type scale](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-creating-a-type-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,7 +437,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **Versions:** 1.2 (9), 1.44 (1)
 > **Definitions:** in other words (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -456,8 +449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CSS custom properties overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
+#### [CSS custom properties overview](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,13 +475,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=67)** If you place it at the paragraph level, then only the paragraph and its children can access that value.
 >
-> **[1:14](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=74)** This is the concept of scoping, where a value is available in selected portions of your webpage, and in this case, it's based on the DOM, the document object model.
+> **[1:14](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=74)** This is the concept of scoping, where a value is available in selected portions of your webpage, and in this case, it's based on the DOM, the [[Document Object Model (DOM)|document object model]].
 >
 > **[1:26](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=86)** Just like everything else in CSS, the value of a given variable may be overridden by leveraging the cascade and inheritance.
 >
 > **[1:35](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=95)** All of the usual CSS rules you've come to know and love are still in effect here.
 >
-> **[1:41](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=101)** And finally, CSS custom properties may be accessed and manipulated through JavaScript.
+> **[1:41](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=101)** And finally, CSS custom properties may be accessed and manipulated through [[JavaScript]].
 >
 > **[1:48](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-overview?u=76281980&t=108)** This is beyond the scope of this course, but you'll find plenty of online resources showing examples of this behavior.
 >
@@ -529,7 +521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[JavaScript]] (2), [[Programming]] (1), next (1), dom (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** css (8), dom (1), ie11 (1)
 > **Analogies:** just like (2), similar to (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -538,8 +530,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure CSS custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980)
+#### [Configure CSS custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -551,9 +542,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=18)** Notice here I'm using the pseudo-class of root.
 >
-> **[0:22](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=22)** This is a more specific selector than the usual HTML element selector, which may be an advantage.
+> **[0:22](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=22)** This is a more specific selector than the usual [[HTML]] element selector, which may be an advantage.
 >
-> **[0:28](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=28)** The root selector also selects the full root of the document where the HTML elements selector may not do that, and that may matter especially if you're manipulating these values with JavaScript.
+> **[0:28](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=28)** The root selector also selects the full root of the document where the HTML elements selector may not do that, and that may matter especially if you're manipulating these values with [[JavaScript]].
 >
 > **[0:41](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/configure-css-custom-properties?u=76281980&t=41)** By using the root selector, you're making any variable declarations here available to your full document, wherever you'd like to call on the variables.
 >
@@ -589,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), [[HTML]] (2), [[JavaScript]] (1), next (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** css (6), html (2)
 > **Warnings:** be aware (1), be careful (1)
 > **Prerequisites:** configure (2)
@@ -597,8 +588,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [female (1)
 
-#### CSS custom properties and inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980)
+#### [CSS custom properties and inheritance](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +600,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=14)** So let's look at an example in a little bit more detail and in isolation.
 >
-> **[0:18](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=18)** So its starting here we have some HTML.
+> **[0:18](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=18)** So its starting here we have some [[HTML]].
 >
 > **[0:21](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=21)** We have an H1.
 >
@@ -632,7 +622,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=66)** Think about that for just a second, what is going to turn red when I declare that the article has red text?
 >
-> **[1:15](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=75)** Okay, so if you've thought about that we'll simply say the word color and then we'll say var in parentheses, double dash, color and a semicolon.
+> **[1:15](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=75)** Okay, so if you've thought about that we'll simply say the [[Microsoft Word|word]] color and then we'll say var in parentheses, double dash, color and a semicolon.
 >
 > **[1:27](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=87)** So hopefully you said that both the H2 and the paragraph would be the color of red.
 >
@@ -670,7 +660,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=206)** Well remember that here, in paragraph one, we're inheriting the color declaration from the root of the article, in other words the color is red.
 >
-> **[3:35](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=215)** But inside of the second paragraph, that's inside of the article, so we have red declared way outside at the very top of the document object model that that whole tree of HTML, then we have the article that re-declares the color as blue and since the second paragraph is inside of the article, it will inherit blue from the article rather than red from the root.
+> **[3:35](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=215)** But inside of the second paragraph, that's inside of the article, so we have red declared way outside at the very top of the [[Document Object Model (DOM)|document object model]] that that whole tree of HTML, then we have the article that re-declares the color as blue and since the second paragraph is inside of the article, it will inherit blue from the article rather than red from the root.
 >
 > **[4:03](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-inheritance?u=76281980&t=243)** So we actually can wind up with two paragraphs of different colors even though that looks like they have the same declaration there.
 >
@@ -680,7 +670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (2), [[Microsoft Word|Word]] (1), [[Document Object Model (DOM)|Document object model]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Microsoft Word|Word]] (1), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** css (4), html (2)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** in other words (2)
@@ -688,14 +678,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - lets (1)
 
-#### CSS custom properties and Sass variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980)
+#### [CSS custom properties and Sass variables](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980&t=0)** - Now that you've seen how custom properties work, in terms of their inheritance and values and so forth, let's try that same experiment again, this time using Sass variables.
 >
-> **[0:10](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980&t=10)** So this is exactly the same HTML that we had in the previous example where we have one paragraph outside the article, one paragraph inside the article.
+> **[0:10](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980&t=10)** So this is exactly the same [[HTML]] that we had in the previous example where we have one paragraph outside the article, one paragraph inside the article.
 >
 > **[0:21](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/css-custom-properties-and-sass-variables?u=76281980&t=21)** And of course our syntax is going to be different here in this CSS panel because this is actually Sass.
 >
@@ -749,13 +738,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Speakers:** - now (1)
 
-#### Using Sass variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/using-sass-variables?u=76281980)
+#### [Using Sass variables](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/using-sass-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,14 +809,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), management (1)
 > **Env Vars:** css (2)
 > **Definitions:** in other words (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add custom properties to type scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-add-custom-properties-to-type-scale?u=76281980)
+#### [Challenge: Add custom properties to type scale](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-add-custom-properties-to-type-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +862,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Versions:** 1.2 (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -884,8 +869,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add custom properties to type scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980)
+#### [Solution: Add custom properties to type scale](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +891,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980&t=89)** You could certainly do that.
 >
-> **[1:30](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980&t=90)** The way that this is formatted, obviously in real html and CSS your headings have a very specific semantic meaning, but remember that your variable declarations here do not.
+> **[1:30](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980&t=90)** The way that this is formatted, obviously in real [[HTML]] and CSS your headings have a very specific semantic meaning, but remember that your variable declarations here do not.
 >
 > **[1:43](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-add-custom-properties-to-type-scale?u=76281980&t=103)** So, for example, if later on I wanted to have an H1 that was a very small size, I could say that H1, probably not the selector, but probably something like, whatever, a section H1 or something like that would have a font size of H5.
 >
@@ -919,7 +903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Versions:** 1.2 (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
@@ -932,8 +916,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mark up a simple four-column grid system
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
+#### [Mark up a simple four-column grid system](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -963,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=58)** That should always be your first stop in terms of laying out a webpage.
 >
-> **[1:02](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=62)** So let's just take a quick peak about what we've got going on here in our HTML.
+> **[1:02](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=62)** So let's just take a quick peak about what we've got going on here in our [[HTML]].
 >
 > **[1:07](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=67)** We have a div with a class of wrapper.
 >
@@ -1001,7 +984,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=151)** The flex items inherent certain characteristics, as well.
 >
-> **[2:34](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=154)** The grandchildren, that third level in the flexbox in that Document Object Model, that HTML tree of tags, they are not going to inherit anything at all.
+> **[2:34](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=154)** The grandchildren, that third level in the flexbox in that [[Document Object Model (DOM)|Document Object Model]], that HTML tree of tags, they are not going to inherit anything at all.
 >
 > **[2:45](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/mark-up-a-simple-four-column-grid-system?u=76281980&t=165)** So, let's go on ahead and start putting this together.
 >
@@ -1069,7 +1052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), css (2), [[HTML]] (2), web (1), [[Document Object Model (DOM)|Document object model]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Document Object Model (DOM)|Document object model]] (1)
 > **Env Vars:** css (2), html (2)
 > **Definitions:** in other words (2)
 > **CLI Commands:** make (1)
@@ -1078,12 +1061,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a starting CSS for the grid system
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/create-a-starting-css-for-the-grid-system?u=76281980)
+#### [Create a starting CSS for the grid system](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/create-a-starting-css-for-the-grid-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/create-a-starting-css-for-the-grid-system?u=76281980&t=0)** - [Instructor] Now that we have our HTML all marked up with our wrapper and rows and our columns, let's go ahead and start writing some Flexbox for a desktop-based layout.
+> **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/create-a-starting-css-for-the-grid-system?u=76281980&t=0)** - [Instructor] Now that we have our [[HTML]] all marked up with our wrapper and rows and our columns, let's go ahead and start writing some Flexbox for a desktop-based layout.
 >
 > **[0:11](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/create-a-starting-css-for-the-grid-system?u=76281980&t=11)** So first of all, I'm going to start by putting in some colors here for col one.
 >
@@ -1215,15 +1197,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** html (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add media queries to your grid system
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980)
+#### [Add media queries to your grid system](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1275,7 +1256,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980&t=165)** So let's go on ahead and drop those in real quick.
 >
-> **[2:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980&t=169)** Up here in our HTML, I'm going to scroll down here to line 46 and I'm going to change the name of this one here to column one hyphen four because I want it to go from one column wide to four columns wide, and the ones that I had up here at the top of my page, these are going to be column one hyphen two because it's going to go from one column wide to two columns wide.
+> **[2:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980&t=169)** Up here in our [[HTML]], I'm going to scroll down here to line 46 and I'm going to change the name of this one here to column one hyphen four because I want it to go from one column wide to four columns wide, and the ones that I had up here at the top of my page, these are going to be column one hyphen two because it's going to go from one column wide to two columns wide.
 >
 > **[3:13](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/add-media-queries-to-your-grid-system?u=76281980&t=193)** And so now I just need to change all of those class names here in my row.
 >
@@ -1425,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (3), next (2)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (3)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (3), scroll down (1)
@@ -1434,8 +1415,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 
-#### Rewrite CSS to integrate calc() and custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/rewrite-css-to-integrate-calc-and-custom-properties?u=76281980)
+#### [Rewrite CSS to integrate calc() and custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/rewrite-css-to-integrate-calc-and-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,7 +1563,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (3)
 > **Env Vars:** css (2)
@@ -1591,9 +1570,9 @@ created: 2026-05-02
 > **Analogies:** just like (1), for example (1)
 > **Versions:** 2.0 (1)
 > **Cross-References:** in the next (1)
+> **Speakers:** - [female (1)
 
-#### Rewrite CSS to integrate gaps between grid cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/rewrite-css-to-integrate-gaps-between-grid-cells?u=76281980)
+#### [Rewrite CSS to integrate gaps between grid cells](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/rewrite-css-to-integrate-gaps-between-grid-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,14 +1657,13 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Make the layout formula even more flexible
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980)
+#### [Make the layout formula even more flexible](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980&t=0)** - [Instructor] All right, so we've laid out our whole webpage using the cool little formula that we've got going on here.
 >
-> **[0:07](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980&t=7)** But I've just added onto this another piece of HTML.
+> **[0:07](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980&t=7)** But I've just added onto this another piece of [[HTML]].
 >
 > **[0:11](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/make-the-layout-formula-even-more-flexible?u=76281980&t=11)** You know how clients are.
 >
@@ -1821,7 +1799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **CLI Commands:** make (8)
 > **Env Vars:** html (4), css (2)
 > **Versions:** 0.3 (1), 0.1 (1)
@@ -1829,8 +1807,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Media query integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-media-query-integration?u=76281980)
+#### [Challenge: Media query integration](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/challenge-media-query-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1846,15 +1823,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (1)
 > **URLs:** [type-scale.com](https://type-scale.com) (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Media query integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980)
+#### [Solution: Media query integration](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1837,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980&t=9)** This is my particular solution.
 >
-> **[0:11](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980&t=11)** As before, we don't really need to touch the HTML at all, and I actually didn't touch any of the code that we wrote already either.
+> **[0:11](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980&t=11)** As before, we don't really need to touch the [[HTML]] at all, and I actually didn't touch any of the code that we wrote already either.
 >
 > **[0:20](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/solution-media-query-integration?u=76281980&t=20)** So what I've done here is simply gone ahead and worked with a different type scale at mobile dimensions.
 >
@@ -1896,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Versions:** 1.125 (1), 1.2 (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** html (1)
@@ -1909,8 +1884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project: Use calc() and custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
+#### [Project: Use calc() and custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,7 +1910,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=84)** So that is the pictures that you should have in your head as we're working through this material, and so the other thing to go through at this point in time is just to show you what our starting files look like.
 >
-> **[1:38](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=98)** So I am going to be working with Visual Studio Code, and if you have not worked with Visual Studio Code before this is just yet another editor that does HTML, CSS, JavaScript, a bunch of stuff, and this is what it would look like if you go and download it and install it, and the way we get this configured to be really, really simple.
+> **[1:38](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=98)** So I am going to be working with Visual Studio Code, and if you have not worked with Visual Studio Code before this is just yet another editor that does [[HTML]], CSS, [[JavaScript]], a bunch of stuff, and this is what it would look like if you go and download it and install it, and the way we get this configured to be really, really simple.
 >
 > **[2:02](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=122)** I'm just going to grab my exercise files folder and then all I need to do is just drag and drop it here on VS Code and this will give me a list of my files and folders over here on the side.
 >
@@ -1952,7 +1926,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=180)** That'll give you a little bit more room to work with.
 >
-> **[3:03](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=183)** You can select either side of these and go to view, toggle word wrap.
+> **[3:03](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=183)** You can select either side of these and go to view, toggle [[Microsoft Word|word]] wrap.
 >
 > **[3:09](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/project-use-calc-and-custom-properties?u=76281980&t=189)** That'll wrap your HTML and your CSS, there we go, so that you can see what's going on here, and then the last thing is, one of the things I really loved about Sublime Text was that if I right click somewhere in here, there was an option on this menu to open my webpage in a browser and that's missing here in VS Code, but we can add it.
 >
@@ -1986,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (8), [[HTML]] (6), next (5), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (8), html (6)
 > **UI Navigation:** drag and drop (1), click on (1), open the (1), go to (1), toggle (1)
 > **CLI Commands:** make (4), find (1)
@@ -1995,8 +1969,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (4)
 > **Prerequisites:** install (3)
 
-#### Step 1: Apply the grid layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980)
+#### [Step 1: Apply the grid layout](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,7 +2003,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980&t=102)** So that's sort of the strategy of what it is that we're doing here.
 >
-> **[1:47](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980&t=107)** Let's just go ahead and start by coding this, then, with that in mind and then we'll just want to connect where our code is in our HTML so that we have the right handles in order to write the CSS.
+> **[1:47](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980&t=107)** Let's just go ahead and start by coding this, then, with that in mind and then we'll just want to connect where our code is in our [[HTML]] so that we have the right handles in order to write the CSS.
 >
 > **[2:00](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-1-apply-the-grid-layout?u=76281980&t=120)** And so if we take a quick peek at our HTML here, scroll on down here line 24, we have this div with a class of content and so content is going to wind up being our grid container.
 >
@@ -2162,7 +2135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (4), html (2)
 > **Exercise Files:** template (3), source code (1)
 > **Definitions:** is a  (3)
@@ -2170,8 +2143,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Step 2: Add custom properties to grid layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980)
+#### [Step 2: Add custom properties to grid layout](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2253,7 +2225,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980&t=263)** So that's pretty much the big changes that we're making between the mobile layout and our tablet layout believe it or not.
 >
-> **[4:32](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980&t=272)** If you go through all of the code that's up here on the top all of this margin and background color and border and all the rest of it, there's definitely stuff that repeats itself in here and you should take a look at this and think about how you could leverage something like SaaS to prevent so much repetition in the code here that makes absolute sense.
+> **[4:32](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980&t=272)** If you go through all of the code that's up here on the top all of this margin and background color and border and all the [[Representational State Transfer (REST)|rest]] of it, there's definitely stuff that repeats itself in here and you should take a look at this and think about how you could leverage something like [[SaaS]] to prevent so much repetition in the code here that makes absolute sense.
 >
 > **[4:53](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-2-add-custom-properties-to-grid-layout?u=76281980&t=293)** You can think about all of the SaaS structures applied to that code in order to make it dryer.
 >
@@ -2345,7 +2317,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SaaS]] (2), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** go to (1)
@@ -2354,8 +2326,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 3: Apply a type scale and custom properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980)
+#### [Step 3: Apply a type scale and custom properties](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=47)** We can tweak it a little bit.
 >
-> **[0:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=49)** And make it look great for this particular web design.
+> **[0:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=49)** And make it look great for this particular [[Web Design]].
 >
 > **[0:53](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=53)** What I'd like for you to do, is look in your Exercise Files folder.
 >
@@ -2477,7 +2448,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=280)** And because I've marked this up using just plain ole headings, all those plain ole headings just immediately take effect here, with the styling that I've added.
 >
-> **[4:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=289)** If for some reason, you happen to use classes on your headings or whatever, you can certainly modify the code that we copied in, to leverage those classes instead of leveraging HTML elements.
+> **[4:49](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=289)** If for some reason, you happen to use classes on your headings or whatever, you can certainly modify the code that we copied in, to leverage those classes instead of leveraging [[HTML]] elements.
 >
 > **[5:01](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=301)** And as we narrow down this page here, you'll see our font size stayed the same between our desktop and our tablet.
 >
@@ -2489,11 +2460,11 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=320)** That was just so easy to go ahead and add a type-scale to our design.
 >
-> **[5:24](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=324)** It'll be great to manage and easy to make changes as people decide they want to tweak the typography.
+> **[5:24](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/step-3-apply-a-type-scale-and-custom-properties?u=76281980&t=324)** It'll be great to manage and easy to make changes as people decide they want to tweak the [[Typography]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), web (1), [[HTML]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[HTML]] (1), [[Typography]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** css (3), html (1)
 > **Versions:** 1.125 (1), 1.2 (1), 1.33 (1)
@@ -2507,8 +2478,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/css-variables-and-fluid-layouts/next-steps-25743925?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2540,7 +2510,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (6), next (1)
 > **Env Vars:** css (6)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - hey (1)

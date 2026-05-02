@@ -81,16 +81,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980)
+#### [An introduction to GraphQL](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=0)** - [Eve] API has provided us with a standard way of getting data and GraphQL gives us a new way of designing an API to serve up all types of data.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=0)** - [Eve] API has provided us with a standard way of getting data and [[GraphQL]] gives us a new way of designing an API to serve up all types of data.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=8)** No matter where your data is, a database, a cloud service, a rest API, GraphQL can serve as a wrapper for all of that data.
+> **[0:08](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=8)** No matter where your data is, a database, a cloud service, a [[Representational State Transfer (REST)|rest]] API, GraphQL can serve as a wrapper for all of that data.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=16)** Big companies like GitHub, PayPal, Expedia, Facebook, Twitter, and more have made big bets on GraphQL.
+> **[0:16](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=16)** Big companies like [[GitHub]], PayPal, Expedia, Facebook, Twitter, and more have made big bets on GraphQL.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-graphql-2021/an-introduction-to-graphql?u=76281980&t=23)** My name is Eve Porcello.
 >
@@ -104,33 +103,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), data (5), api (3), database (1), cloud (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1)
 > **Env Vars:** api (3)
 > **Tools:** github (1)
 > **Speakers:** - [eve] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Narrator] This course is aimed at beginners with no GraphQL experience.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Narrator] This course is aimed at beginners with no [[GraphQL]] experience.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=3)** And really there's not a lot of setup required.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=6)** To participate in most of the class you'll just need a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=10)** I will also show you how to build a GraphQL application using Apollo Server, which is a Node.js implementation of a GraphQL server.
+> **[0:10](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=10)** I will also show you how to build a GraphQL application using Apollo Server, which is a [[Node.js]] implementation of a GraphQL server.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=19)** If you want to follow along with that part of the class, you'll need Node.js installed.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=24)** To check to see if you have it installed you can open your terminal or command prompt and type node -v If you see a version number there you have it installed.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=34)** If not, you can install at [nodejs.org](https://nodejs.org) You don't need to use Node or JavaScript to work with GraphQL, but I'll show you this as an example of how you might get started on a GraphQL project.
+> **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/what-you-should-know-before-watching-this-course?u=76281980&t=34)** If not, you can install at [nodejs.org](https://nodejs.org) You don't need to use Node or [[JavaScript]] to work with GraphQL, but I'll show you this as an example of how you might get started on a GraphQL project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (5), [[Node.js]] (2), node (2), web (1), application (1)
+> **Frameworks & Libraries:** [[GraphQL]] (5), [[Node.js]] (2), [[JavaScript]] (1)
 > **CLI Commands:** node (4)
 > **Prerequisites:** setup (1), you'll need (1), install (1)
 > **File Paths:** node.js (2)
@@ -144,12 +142,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding GraphQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980)
+#### [Understanding GraphQL](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=0)** - [Instructor] GraphQL is a query language for your API.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=0)** - [Instructor] [[GraphQL]] is a query language for your API.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=3)** It was created at Facebook and open sourced in 2015.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=11)** It's a document that describes everything that is part of the language, including a query language and a schema definition language for designing your API's types.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=23)** GraphQL gives us a way of taking all of our data sources, our rest APIs, our databases, our cloud services, and put it into some sort of user interface, and this is how the query looks.
+> **[0:23](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=23)** GraphQL gives us a way of taking all of our data sources, our [[Representational State Transfer (REST)|rest]] APIs, our [[Databases]], our [[Cloud Services]], and put it into some sort of user interface, and this is how the query looks.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/understanding-graphql?u=76281980&t=34)** So over here on the left side of the screen, we have all of our clients, phones, CLIs, desktop applications, even VR, and we can send a query to a GraphQL server that sits in front of all of the various data sources.
 >
@@ -171,18 +168,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (6), api (3), data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Cloud Services]] (1)
 > **Env Vars:** api (3)
 > **Definitions:** is a  (1), in other words (1)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### How GraphQL differs from REST
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980)
+#### [How GraphQL differs from REST](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=0)** - [Instructor] So let's talk a little bit about how we get data with REST, and then we'll compare this to how we get it with GraphQL.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=0)** - [Instructor] So let's talk a little bit about how we get data with [[Representational State Transfer (REST)|REST]], and then we'll compare this to how we get it with [[GraphQL]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=6)** So with REST, we're going to send a request.
 >
@@ -198,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=32)** So we're waiting on all of these to be fulfilled in order to be able to load our data.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=39)** Also, once we get back these huge blobs of JSON data, they're in no shape to display.
+> **[0:39](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=39)** Also, once we get back these huge blobs of [[JSON]] data, they're in no shape to display.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-graphql-2021/how-graphql-differs-from-rest?u=76281980&t=45)** We have to parse it, sort it, filter it, do all the stuff we need to do on the client, turn the data into the shape that we want, and that's a lot of effort, particularly if we're using a phone.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (4), api (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[GraphQL]] (9), [[Representational State Transfer (REST)|Rest]] (4), [[JSON]] (3)
 > **Env Vars:** rest (4), http (4), api (4), json (3), post (2)
 > **CLI Commands:** make (2), find (1)
 > **API Endpoints:** post  (2), put  (1)
@@ -267,12 +263,11 @@ created: 2026-05-02
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GraphQL Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980)
+#### [Using GraphQL Playground](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=0)** - [Instructor] The most important place to start when we're dealing with GraphQL is with the query language.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=0)** - [Instructor] The most important place to start when we're dealing with [[GraphQL]] is with the query language.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=4)** Now the GraphQL query language is defined in that GraphQL spec, which you can find at spec.[graphql.org](https://graphql.org).
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=102)** So for example, we sent a query for liftCount, liftCount returns an int.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=107)** Notice that the exclamation mark is after the word int.
+> **[1:47](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=107)** Notice that the exclamation mark is after the [[Microsoft Word|word]] int.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-graphql-2021/using-graphql-playground?u=76281980&t=111)** And that just means that this is non-nullable.
 >
@@ -332,7 +327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (7), api (2), data (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (7), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** liftcount (4)
 > **Definitions:** in other words (2), is called (1), means that (1)
 > **Documentation:** spec (2), the docs (1)
@@ -346,12 +341,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using enum types and arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980)
+#### [Using enum types and arguments](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980&t=0)** - [Instructor] Let's talk a little bit more about how we can send filters to our GraphQL queries.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980&t=0)** - [Instructor] Let's talk a little bit more about how we can send filters to our [[GraphQL]] queries.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-graphql-2021/using-enum-types-and-arguments?u=76281980&t=5)** So what I'll do is I'll move lift count.
 >
@@ -424,8 +418,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980)
+#### [Adding variables](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -443,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=31)** I'm going to use the dollar sign and status.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=34)** And then this is our GraphQL variable.
+> **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=34)** And then this is our [[GraphQL]] variable.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=36)** We know it's a variable because of the dollar sign and we can call these whatever we want.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=83)** Now, what I can do is I can pass these query variables in, it'll add some predictive texts for me there for status, and then I can pass open, closed, or hold.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=94)** So, it is going to ask me because we're passing in these values as JSON.
+> **[1:34](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=94)** So, it is going to ask me because we're passing in these values as [[JSON]].
 >
 > **[1:38](https://www.linkedin.com/learning/learning-graphql-2021/adding-variables?u=76281980&t=98)** It will ask me to use double quotes around both the key and the value.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[GraphQL]] (1), [[JSON]] (1), hit (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1), [[JSON]] (1)
 > **Env Vars:** json (1), hold (1), closed (1)
 > **Definitions:** in other words (2), means that (1)
 > **Code Identifiers:** closedlifts (1), liftcount (1)
@@ -510,14 +503,13 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Prerequisites:** set up (1)
 
-#### Querying connected types
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980)
+#### [Querying connected types](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980&t=0)** - [Instructor] We've gotten a lot of information about a single type.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980&t=3)** But part of the power of GraphQL is being able to make connections between different data types.
+> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980&t=3)** But part of the power of [[GraphQL]] is being able to make connections between different data types.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-graphql-2021/querying-connected-types?u=76281980&t=10)** So let me show you what I mean.
 >
@@ -575,7 +567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), power (1), [[GraphQL]] (1), [[Search]] (1), api (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** trailaccess (3), alllifts (1), accessedbylifts (1)
 > **Documentation:** the documentation (1), the docs (1)
@@ -584,8 +576,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating operation names
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/creating-operation-names?u=76281980)
+#### [Creating operation names](https://www.linkedin.com/learning/learning-graphql-2021/creating-operation-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,14 +635,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Changing data with mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980)
+#### [Changing data with mutations](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980&t=0)** - [Instructor] So far, we know that queries get data.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980&t=3)** But there's another type of GraphQL operation that's very useful called a mutation.
+> **[0:03](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980&t=3)** But there's another type of [[GraphQL]] operation that's very useful called a mutation.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-graphql-2021/changing-data-with-mutations?u=76281980&t=9)** Mutations are used whenever we need to change data.
 >
@@ -725,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[GraphQL]] (2), api (1)
+> **Frameworks & Libraries:** [[GraphQL]] (2)
 > **Env Vars:** closed (5), open (4), hold (1), post (1), api (1)
 > **Code Identifiers:** settrailstatus (2)
 > **CLI Commands:** find (1)
@@ -734,12 +724,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **UI Navigation:** scroll down (1)
 
-#### Creating GraphQL fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/creating-graphql-fragments?u=76281980)
+#### [Creating GraphQL fragments](https://www.linkedin.com/learning/learning-graphql-2021/creating-graphql-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/creating-graphql-fragments?u=76281980&t=0)** - [Instructor] Another nice thing to know about the GraphQL query language is that we can take advantage of GraphQL fragments for composition.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/creating-graphql-fragments?u=76281980&t=0)** - [Instructor] Another nice thing to know about the [[GraphQL]] query language is that we can take advantage of GraphQL fragments for composition.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-graphql-2021/creating-graphql-fragments?u=76281980&t=8)** We're going to write a query for a Lift.
 >
@@ -789,19 +778,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (4), data (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4)
 > **Code Identifiers:** elevationgain (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980)
+#### [Working with subscriptions](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=0)** - [Instructor] So far, we know that queries get data and mutations change data, but there is even a third type of GraphQL operation called a subscription.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=0)** - [Instructor] So far, we know that queries get data and mutations change data, but there is even a third type of [[GraphQL]] operation called a subscription.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=11)** A GraphQL subscription works over web sockets and it sets up a listener.
 >
@@ -823,7 +811,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=60)** So, this is pretty cool.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=62)** A subscription sets up kind of that real-time feel in your application.
+> **[1:02](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=62)** A subscription sets up kind of that [[Real-Time]] feel in your application.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-graphql-2021/working-with-subscriptions?u=76281980&t=67)** These were first implemented at Facebook and they were used for live likes.
 >
@@ -837,14 +825,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[GraphQL]] (4), web (2), [[Real-Time]] (1), application (1)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[Real-Time]] (1)
 > **Code Identifiers:** liftstatuschange (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Sending pet library queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980)
+#### [Challenge: Sending pet library queries](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,20 +845,19 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980&t=22)** Think about those connected queries we talked about, and you want to extend it to see who has checked out the pet.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980&t=29)** And then finally for extra credit, which will count towards your final GraphQL grade, you can create an account using a mutation.
+> **[0:29](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980&t=29)** And then finally for extra credit, which will count towards your final [[GraphQL]] grade, you can create an account using a mutation.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-graphql-2021/challenge-sending-pet-library-queries?u=76281980&t=37)** So give it a shot and I'll show you the answer in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **URLs:** [https://pet-library.moonhighway.com](https://pet-library.moonhighway.com) (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Pet library query construction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980)
+#### [Solution: Pet library query construction](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +915,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980&t=156)** Now what we'll do is we'll take this object, and I'm just going to put it on my clipboard, I'm going to Control + X that, and I'll say input.
 >
-> **[2:46](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980&t=166)** Now we'll mosey down to the Query Variables panel, we need to send this as JSON, and we need to put it on the input key, it's a nested object for a member.
+> **[2:46](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980&t=166)** Now we'll mosey down to the Query Variables panel, we need to send this as [[JSON]], and we need to put it on the input key, it's a nested object for a member.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-graphql-2021/solution-pet-library-query-construction?u=76281980&t=179)** And, now that I'm here, I'm getting some red because I need to wrap all of my keys in double quotes, JSON for the win so there we go.
 >
@@ -945,7 +931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Code Identifiers:** incareof (2)
 > **Env Vars:** json (2)
 > **Documentation:** the documentation (1), the docs (1)
@@ -959,12 +945,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing the GraphQL schema definition language
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980)
+#### [Introducing the GraphQL schema definition language](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980&t=0)** - [Instructor] So far, we've talked about a couple different pieces of the GraphQL spec.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980&t=0)** - [Instructor] So far, we've talked about a couple different pieces of the [[GraphQL]] spec.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-graphql-2021/introducing-the-graphql-schema-definition-language?u=76281980&t=4)** We have talked about the query language, and then we've touched on the schema definition language, which is a language that defines all of our API's types.
 >
@@ -1034,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (3), api (3), data (1), next (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3)
 > **Definitions:** is a  (3), in other words (1), means that (1)
 > **Env Vars:** api (3), url (1)
 > **CLI Commands:** make (1)
@@ -1043,8 +1028,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up a GraphQL server with Apollo Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980)
+#### [Setting up a GraphQL server with Apollo Server](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1056,9 +1040,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=15)** So, I'm going to navigate to my desktop, then I'm going to create a folder called ski-day-counter.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=25)** I'm going to get into that folder and then I'm going to npm init -y, so we'll just set all the defaults, and then the dependencies that I'm going to need to work on this are as follows.
+> **[0:25](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=25)** I'm going to get into that folder and then I'm going to [[npm]] init -y, so we'll just set all the defaults, and then the dependencies that I'm going to need to work on this are as follows.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=41)** We're going to need graphql, we're going to need apollo-server, and we're also going to need nodemon, which will just restart our server anytime we make changes to the schema.
+> **[0:41](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=41)** We're going to need [[GraphQL]], we're going to need apollo-server, and we're also going to need nodemon, which will just restart our server anytime we make changes to the schema.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=54)** Nice.
 >
@@ -1068,7 +1052,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=66)** So, a couple things we need to get this started is we're going to create our own Apollo Server here.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=72)** Apollo Server is a node.js implementation of a GraphQL server, so we're going to go ahead and import this from that package.
+> **[1:12](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=72)** Apollo Server is a [[Node.js]] implementation of a GraphQL server, so we're going to go ahead and import this from that package.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=82)** The next thing we're going to do is create our type definitions.
 >
@@ -1112,7 +1096,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=217)** Remember that this means that we should return an int and we can't return null.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=221)** So once we have this created, I'm going to go to the package.json file.
+> **[3:41](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=221)** So once we have this created, I'm going to go to the package.[[JSON]] file.
 >
 > **[3:46](https://www.linkedin.com/learning/learning-graphql-2021/setting-up-a-graphql-server-with-apollo-server?u=76281980&t=226)** Remember that we've installed Apollo Server, GraphQL and nodemon, so now what we need to do is create a start script, and this start script is just going to run nodemon and, specifically, the index file.
 >
@@ -1138,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[GraphQL]] (4), next (3), [[npm]] (2), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[GraphQL]] (4), [[npm]] (2), [[Node.js]] (2), [[JSON]] (1)
 > **CLI Commands:** npm (2), node (2), make (1)
 > **Code Identifiers:** totaldays (4), typedefs (1)
 > **File Paths:** node.js (2), index.js (1), package.json (1)
@@ -1147,8 +1131,7 @@ created: 2026-05-02
 > **Env Vars:** api (2), ast (1)
 > **UI Navigation:** go to (2), navigate to (1)
 
-#### Creating a custom object
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980)
+#### [Creating a custom object](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1143,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980&t=18)** Think of this as just being an activity counter, where we're going to track the number of days that we ski during a year.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980&t=24)** Now, if you don't like skiing and you want to say something else running day or programming day or learning GraphQL day or whatever it is, you can add that here.
+> **[0:24](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980&t=24)** Now, if you don't like skiing and you want to say something else running day or programming day or learning [[GraphQL]] day or whatever it is, you can add that here.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-graphql-2021/creating-a-custom-object?u=76281980&t=34)** So here on line five, we're going to add a couple of different fields inside of our custom objects.
 >
@@ -1190,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (1), [[Programming]] (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[GraphQL]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Cross-References:** go back to (1)
@@ -1198,8 +1181,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding an enumeration type
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/adding-an-enumeration-type?u=76281980)
+#### [Adding an enumeration type](https://www.linkedin.com/learning/learning-graphql-2021/adding-an-enumeration-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,7 +1229,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), next (1), data (1)
 > **Env Vars:** powder (1), heavy (1), ice (1), thin (1)
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
@@ -1259,8 +1240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/working-with-mutations?u=76281980)
+#### [Working with mutations](https://www.linkedin.com/learning/learning-graphql-2021/working-with-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,14 +1270,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** removeday (3)
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending input types to mutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/sending-input-types-to-mutations?u=76281980)
+#### [Sending input types to mutations](https://www.linkedin.com/learning/learning-graphql-2021/sending-input-types-to-mutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,14 +1327,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), front-end (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Code Identifiers:** addday (3), removeday (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a custom scalar
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/building-a-custom-scalar?u=76281980)
+#### [Building a custom scalar](https://www.linkedin.com/learning/learning-graphql-2021/building-a-custom-scalar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1392,8 +1368,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning a custom object
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980)
+#### [Returning a custom object](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1384,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980&t=36)** So what is the RemoveDayPayload?
 >
-> **[0:38](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980&t=38)** Well, we're going to add a little bit of metadata onto this type so that we can return it from this mutation.
+> **[0:38](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980&t=38)** Well, we're going to add a little bit of [[Metadata]] onto this type so that we can return it from this mutation.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-graphql-2021/returning-a-custom-object?u=76281980&t=46)** So let me change this first.
 >
@@ -1451,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Code Identifiers:** removeday (3), totalbefore (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1459,8 +1434,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customizing schema mocks with Apollo Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/customizing-schema-mocks-with-apollo-server?u=76281980)
+#### [Customizing schema mocks with Apollo Server](https://www.linkedin.com/learning/learning-graphql-2021/customizing-schema-mocks-with-apollo-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1544,13 +1518,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/creating-subscriptions?u=76281980)
+#### [Creating subscriptions](https://www.linkedin.com/learning/learning-graphql-2021/creating-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1580,7 +1552,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), hit (1)
 > **Code Identifiers:** newday (2)
 > **Analogies:** just like (2)
 > **CLI Commands:** find (1)
@@ -1588,8 +1559,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing schema documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/writing-schema-documentation?u=76281980)
+#### [Writing schema documentation](https://www.linkedin.com/learning/learning-graphql-2021/writing-schema-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1639,7 +1609,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), api (1)
 > **Env Vars:** api (1)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** open the (1)
@@ -1651,12 +1620,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980&t=0)** - [Instructor] Now that you've been introduced to GraphQL, there are many different routes that you can take to use it in your own projects.
+> **[0:00](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980&t=0)** - [Instructor] Now that you've been introduced to [[GraphQL]], there are many different routes that you can take to use it in your own projects.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-graphql-2021/next-steps?u=76281980&t=7)** For a look at all of the different libraries, check out [graphql.org/code](https://graphql.org/code).
 >
@@ -1670,7 +1638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GraphQL]] (3), aws (1)
+> **Frameworks & Libraries:** [[GraphQL]] (3)
 > **CLI Commands:** find (1), aws (1)
 > **URLs:** [graphql.org](https://graphql.org) (1)
 > **Env Vars:** aws (1)

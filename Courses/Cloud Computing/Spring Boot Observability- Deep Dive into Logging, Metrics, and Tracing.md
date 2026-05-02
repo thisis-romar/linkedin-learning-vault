@@ -75,8 +75,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Observability with Spring Boot
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980)
+#### [Observability with Spring Boot](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980&t=17)** Hi, I'm Terezija Semenski.
 >
-> **[0:20](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980&t=20)** I've been a software developer in Java and Spring for over a decade.
+> **[0:20](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980&t=20)** I've been a software developer in [[Java]] and Spring for over a decade.
 >
 > **[0:24](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/observability-with-spring-boot?u=76281980&t=24)** The best way to learn observability is to jump right in, so let's get started.
 
@@ -95,8 +94,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [terezija] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,9 +102,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980&t=6)** This course is targeted at advanced developers building distributed systems using Spring, who want better observability to improve areas such as alerting, root case latency analyzes, and monitoring.
 >
-> **[0:21](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980&t=21)** A solid foundation and understanding of Spring Framework and Spring Boot is recommended.
+> **[0:21](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980&t=21)** A solid foundation and understanding of [[Spring Framework]] and [[Spring Boot]] is recommended.
 >
-> **[0:27](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980&t=27)** Previous experience with distributed systems, performance tuning, and APM tools is nice to have, however, it's not required, since we will cover the three main pillars of observability: Monitoring, metrics, and tracing, and how to integrate them in your Spring Boot-based applications.
+> **[0:27](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-you-need-to-know?u=76281980&t=27)** Previous experience with distributed systems, [[Performance Tuning]], and APM tools is nice to have, however, it's not required, since we will cover the three main pillars of observability: Monitoring, metrics, and tracing, and how to integrate them in your Spring Boot-based applications.
 
 > [!info]- Semantic Content
 >
@@ -121,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is observability?
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980)
+#### [What is observability?](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980&t=92)** But how does this compare to monitoring?
 >
-> **[1:35](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980&t=95)** According to the "Site Reliability Engineering" book by Google, your monitoring system needs to answer two simple questions: what's broken and why.
+> **[1:35](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980&t=95)** According to the "Site Reliability Engineering" book by [[Google]], your monitoring system needs to answer two simple questions: what's broken and why.
 >
 > **[1:46](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/what-is-observability?u=76281980&t=106)** Monitoring allows you to watch and understand your system state using a predefined set of metrics and logs, which led to detect a known set of failures.
 >
@@ -188,15 +185,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), cloud (1), teams (1), [[Engineering]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Analogies:** such as (2), imagine (2)
 > **CLI Commands:** find (2)
 > **Env Vars:** cpu (2)
 > **Definitions:** defined as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why care about observability?
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980)
+#### [Why care about observability?](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,17 +204,17 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=19)** One of the main drivers is today's incredibly complex distributed system.
 >
-> **[0:24](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=24)** With introduction of microservices or service architectures, features are insulated across different services instead of big monoliths.
+> **[0:24](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=24)** With introduction of [[Microservices]] or service architectures, features are insulated across different services instead of big monoliths.
 >
 > **[0:35](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=35)** So things are growing with different deployment strategies delivered in cloud clusters.
 >
-> **[0:40](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=40)** This also brought numerous innovations to improve and accelerate software delivery and quality such as DevOps culture and CI/CD pipelines.
+> **[0:40](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=40)** This also brought numerous innovations to improve and accelerate software delivery and quality such as [[DevOps]] culture and CI/CD pipelines.
 >
 > **[0:51](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=51)** With added complexity, we got more points of failure.
 >
 > **[0:55](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=55)** There needs to be a way to push changes and be aware of the impact of that change.
 >
-> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=61)** When in production, pinpointing issues is hard from monolith to microservices, to local databases, shared databases, or even search servers.
+> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=61)** When in production, pinpointing issues is hard from monolith to microservices, to local [[Databases]], shared databases, or even search servers.
 >
 > **[1:13](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-care-about-observability?u=76281980&t=73)** User requests might travel through content delivery networks, cache servers, multiple load balancers, and using stick sessions.
 >
@@ -258,14 +254,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (2), [[DevOps]] (2), [[Databases]] (2), cloud (1), ci (1)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[DevOps]] (2), [[Databases]] (2)
 > **CLI Commands:** find (2), cd (1), make (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging, metrics, and tracing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-metrics-and-tracing?u=76281980)
+#### [Logging, metrics, and tracing](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-metrics-and-tracing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,7 +298,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), data (3), node (1)
 > **CLI Commands:** node (1), find (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** such as (1)
@@ -314,8 +308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Problem with basic logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980)
+#### [Problem with basic logging](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +316,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=8)** However, logs don't have unlimited capabilities.
 >
-> **[0:12](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=12)** Here's some of the challenges they pose for developers when they are debugging microservices.
+> **[0:12](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=12)** Here's some of the challenges they pose for developers when they are debugging [[Microservices]].
 >
 > **[0:18](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=18)** Let's go through a simple scenario in a distributed system.
 >
@@ -333,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=31)** So you have two instances of each.
 >
-> **[0:34](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=34)** For example, in a Kubernetes cluster, and logs are being generated on each of these instances.
+> **[0:34](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=34)** For example, in a [[Kubernetes]] cluster, and logs are being generated on each of these instances.
 >
 > **[0:42](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=42)** Application one is calling application two and then something goes wrong.
 >
@@ -349,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=67)** You need to have authorizations and knowledge on how to access each machine.
 >
-> **[1:12](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=72)** You might be able to access them more easily with Spring Boot Actuator or admin, however, you still need to download logs from each instance.
+> **[1:12](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=72)** You might be able to access them more easily with [[Spring Boot]] Actuator or admin, however, you still need to download logs from each instance.
 >
 > **[1:22](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/problem-with-basic-logging?u=76281980&t=82)** Also, logs can quickly pile up and consume your system.
 >
@@ -375,14 +368,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Search]] (3), [[Debugging]] (1), [[Microservices]] (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Kubernetes]] (1), [[Spring Boot]] (1)
 > **CLI Commands:** grep (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why centralized logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980)
+#### [Why centralized logging](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980&t=57)** ELK Stack, Logstash ingest the logs.
 >
-> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980&t=61)** Elasticsearch to query the logs.
+> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980&t=61)** [[Elasticsearch]] to query the logs.
 >
 > **[1:04](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/why-centralized-logging?u=76281980&t=64)** Kibana dashboard to visualize the logs.
 >
@@ -414,19 +406,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Search]] (1), [[Elasticsearch]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Elasticsearch]] (1)
 > **Env Vars:** elk (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging and Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980)
+#### [Logging and Spring](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980&t=0)** - [Instructor] Centralized logging fixes aggregation and retrieval problems.
 >
-> **[0:05](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980&t=5)** But we still have some more things to configure that Spring Boot can help.
+> **[0:05](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980&t=5)** But we still have some more things to configure that [[Spring Boot]] can help.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/logging-and-spring?u=76281980&t=9)** Spring Boot handles the majority of logging configuration settings for us.
 >
@@ -478,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (9), application (4), cloud (3), web application (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (9)
 > **Env Vars:** info (1), http (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -492,8 +483,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Usage of metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980)
+#### [Usage of metrics](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,13 +537,13 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=104)** Additionally, in the event of a failure, monitoring data should immediately be able to provide visibility into the impact of the failure, and how does it affect end user.
 >
-> **[1:56](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=116)** They are the main driver for performance tuning.
+> **[1:56](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=116)** They are the main driver for [[Performance Tuning]].
 >
 > **[1:59](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=119)** Metrics are the main source of data for performance tuning.
 >
 > **[2:04](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=124)** They help us verify if any changes to the application infrastructure, tuning or sizing had any effect on improved performance.
 >
-> **[2:13](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=133)** Verifies system architecture.
+> **[2:13](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=133)** Verifies [[System Architecture]].
 >
 > **[2:17](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=137)** Metrics allow us to verify if the load balancing has been properly set.
 >
@@ -583,22 +573,21 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=223)** Such a solution allows to aggregate slice and reel down across all our instances.
 >
-> **[3:49](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=229)** We can then visualize it via graphs or dashboards and also set up alerts that would be triggered once a certain threshold is reached.
+> **[3:49](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/usage-of-metrics?u=76281980&t=229)** We can then visualize it via graphs or [[Dashboards]] and also set up alerts that would be triggered once a certain threshold is reached.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), application (4), database (3), [[Performance Tuning]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (2), [[System Architecture]] (1), [[Dashboards]] (1)
 > **Env Vars:** kpi (1), cpu (1), jmx (1), http (1)
 > **Code Identifiers:** inmemory (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics for observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980)
+#### [Metrics for observability](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=0)** - [Instructor] Implementing infrastructure monitoring from scratch for a Spring Boot application would be a pretty wasteful adventure, especially when doing so repeatedly for each application or microservice in our distributed system.
+> **[0:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=0)** - [Instructor] Implementing infrastructure monitoring from scratch for a [[Spring Boot]] application would be a pretty wasteful adventure, especially when doing so repeatedly for each application or microservice in our distributed system.
 >
 > **[0:15](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=15)** The Spring team has provided us with a pretty good toolset called Spring Boot Actuator, which we already mentioned earlier to manage logs.
 >
@@ -608,9 +597,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=43)** One of the essential Actuator endpoints is the /actuator/health endpoint, which provides the capability to check the service health.
 >
-> **[0:51](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=51)** The health information should include all details that allow an operational team to react to potential threats or failure as soon as possible.
+> **[0:51](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=51)** The health information should include all details that allow an operational team to [[React.js|react]] to potential threats or failure as soon as possible.
 >
-> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=61)** Responding to the unavailability of the database or free this space shortage will enable DevOps to take corresponding actions.
+> **[1:01](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=61)** Responding to the unavailability of the database or free this space shortage will enable [[DevOps]] to take corresponding actions.
 >
 > **[1:10](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-for-observability?u=76281980&t=70)** So health information may include more details as depicted in the following diagram.
 >
@@ -642,15 +631,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (6), application (4), traffic (1), [[React.js|React]] (1), database (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (6), [[React.js|React]] (1), [[DevOps]] (1)
 > **Env Vars:** https (1), url (1)
 > **Definitions:** is a  (1), means that (1)
 > **URLs:** [micrometer.io](https://micrometer.io) (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics in Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980)
+#### [Metrics in Spring](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +646,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=6)** We already mentioned the power of Micrometer library and how it offers integration with plenty of observability platforms.
 >
-> **[0:15](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=15)** One such platform is called Wavefront and it offers a free tier for Spring Boot developers.
+> **[0:15](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=15)** One such platform is called Wavefront and it offers a free tier for [[Spring Boot]] developers.
 >
 > **[0:22](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=22)** And guess what, it doesn't require any changing of your code.
 >
@@ -670,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=44)** Out of the box, it comes with the large number of metrics exposed by default.
 >
-> **[0:49](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=49)** You have tracing support between different Spring Boot components and across all your microservices.
+> **[0:49](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=49)** You have tracing support between different Spring Boot components and across all your [[Microservices]].
 >
 > **[0:56](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=56)** So if you're creating an app from scratch, go to start.[spring.io](https://spring.io).
 >
@@ -680,7 +668,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=76)** To send trace data to Wavefront, also add Spring Cloud Sleuth dependency and click Generate to download the project as ZIP file.
 >
-> **[1:29](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=89)** For an exiting project like I'm using now, you can add them directly as part of the Maven or Gradle configurations.
+> **[1:29](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=89)** For an exiting project like I'm using now, you can add them directly as part of the Maven or [[Gradle]] configurations.
 >
 > **[1:38](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=98)** For an existing project, like I'm using now, you can add them directly as part of the Maven or Gradle configuration.
 >
@@ -714,7 +702,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=201)** It's also possible to explore key metrics of GVM, such as garbage collection, heap size, number of threads and all those things, but we can do much more than that.
 >
-> **[3:33](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=213)** We can deep dive into specific rev, zoom in and the time spent will be reflected on all grabs.
+> **[3:33](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=213)** We can deep dive into specific rev, [[Zoom]] in and the time spent will be reflected on all grabs.
 >
 > **[3:41](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/metrics-in-spring?u=76281980&t=221)** We also explore and add specific Spring metrics or use any custom ones if we created them.
 >
@@ -722,7 +710,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Spring Boot]] (5), application (5), data (2), [[Gradle]] (2), api (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (5), [[Gradle]] (2), [[Microservices]] (1), [[Zoom]] (1)
 > **Env Vars:** api (2), zip (1), uri (1), gvm (1)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **Exercise Files:** download the (1), zip file (1)
@@ -736,8 +724,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Distributed tracing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980)
+#### [Distributed tracing](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980&t=57)** Goal of the tracing is to capture.
 >
-> **[1:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980&t=60)** Hierarchy, timing information, also some additional metadata like service name, request method name, or class name.
+> **[1:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980&t=60)** Hierarchy, timing information, also some additional [[Metadata]] like service name, request method name, or class name.
 >
 > **[1:10](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/distributed-tracing?u=76281980&t=70)** Once processing is done by any of the services it is going to report a span data to the tracing backend.
 >
@@ -773,13 +760,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Metadata]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracing in Spring
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980)
+#### [Tracing in Spring](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,7 +775,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=11)** Spring Cloud Project provides an excellent module called Spring Cloud Sleuth.
 >
-> **[0:17](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=17)** Spring Cloud Sleuth is a project well integrated with Spring Boot 2.x infrastructure, enabling distributed tracing with just a few bits of auto configuration.
+> **[0:17](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=17)** Spring Cloud Sleuth is a project well integrated with [[Spring Boot]] 2.x infrastructure, enabling distributed tracing with just a few bits of auto configuration.
 >
 > **[0:28](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=28)** The Sleuth starter brings in Spring Cloud Sleuth distributed tracing abstraction, which provides a simple facade over distributed tracing systems, such as Zipkin or Wavefront.
 >
@@ -799,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=59)** There are a lot of properties you can configure.
 >
-> **[1:02](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=62)** One of the main things you want to configure is sampling probability and rate.
+> **[1:02](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=62)** One of the main things you want to configure is sampling [[Probability]] and rate.
 >
 > **[1:07](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=67)** This is applied when using Zipkin as a backend.
 >
@@ -809,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=86)** So don't get surprised if you don't see all requests being traced.
 >
-> **[1:30](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=90)** Other backends like Wavefront have different algorithms for sampling that can also be customized in Wavefront application directly.
+> **[1:30](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=90)** Other backends like Wavefront have different [[Algorithms]] for sampling that can also be customized in Wavefront application directly.
 >
 > **[1:40](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=100)** Let's see what this looks like in Wavefront.
 >
@@ -817,7 +803,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=112)** However, for this example, I'm using a beach shirt application from Wavefront demo.
 >
-> **[1:59](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=119)** Here, we have a couple of microservices that talk to each other.
+> **[1:59](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=119)** Here, we have a couple of [[Microservices]] that talk to each other.
 >
 > **[2:03](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/tracing-in-spring?u=76281980&t=123)** I'm going to inspect the shopping service.
 >
@@ -837,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (3), application (3), [[Spring Boot]] (2), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Spring Boot]] (2), [[Microservices]] (2), [[Probability]] (1), [[Algorithms]] (1)
 > **Prerequisites:** configure (2), required to (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
@@ -849,8 +835,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to correlate logging, metrics, and tracing
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980)
+#### [How to correlate logging, metrics, and tracing](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +871,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980&t=89)** When an operator is alerted to sudden spike in errors, their first question will naturally be, what's causing that spike?
 >
-> **[1:37](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980&t=97)** When metrics events occur for a given research, for example request URL, Java method call, a sample of these traces are automatically associated with the metric as trace candidates.
+> **[1:37](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980&t=97)** When metrics events occur for a given research, for example request URL, [[Java]] method call, a sample of these traces are automatically associated with the metric as trace candidates.
 >
 > **[1:51](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/how-to-correlate-logging-metrics-and-tracing?u=76281980&t=111)** This means that there's no guessing or hunting for traces.
 >
@@ -930,29 +915,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (3), api (1), [[Java]] (1), node (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (1), find (1), node (1)
 > **Env Vars:** url (2), api (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have made it to the end.
 >
-> **[0:03](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=3)** You have learned how to effortlessly achieve observability in Spring Boot application.
+> **[0:03](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=3)** You have learned how to effortlessly achieve observability in [[Spring Boot]] application.
 >
 > **[0:09](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=9)** With the unique advantages offered by each of three pillars, logging, metrics and tracing, you can achieve powerful observability.
 >
-> **[0:19](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=19)** If you want to know more about observability on AWS, please check my other course, Java: Serverless Applications on AWS.
+> **[0:19](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=19)** If you want to know more about observability on AWS, please check my other course, [[Java]]: Serverless Applications on AWS.
 >
-> **[0:29](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=29)** For more advanced Spring users, I would highly recommend you check my other two courses, Advanced Spring: Integration Testing, and Spring Events.
+> **[0:29](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=29)** For more advanced Spring users, I would highly recommend you check my other two courses, Advanced Spring: [[Integration Testing]], and Spring Events.
 >
-> **[0:40](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=40)** If you have any questions, please feel free to get in touch over LinkedIn and on Twitter.
+> **[0:40](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=40)** If you have any questions, please feel free to get in touch over [[LinkedIn]] and on Twitter.
 >
 > **[0:46](https://www.linkedin.com/learning/spring-boot-observability-deep-dive-into-logging-metrics-and-tracing/next-steps?u=76281980&t=46)** I really do appreciate your engagement, as well as your feedback on this course.
 >
@@ -964,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Spring Boot]] (1), application (1), [[Java]] (1), [[Integration Testing]] (1)
+> **Frameworks & Libraries:** [[Spring Boot]] (1), [[Java]] (1), [[Integration Testing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (2)
 > **Env Vars:** aws (2)
 > **Speakers:** - [instructor] (1)

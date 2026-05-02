@@ -68,12 +68,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Zero in on the right data with filters in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
+#### [Zero in on the right data with filters in Excel](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980&t=0)** - One of the great things about Excel is that you can open and work with a lot of data, but frankly, that's both a blessing and a curse.
+> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980&t=0)** - One of the great things about [[Microsoft Excel|Excel]] is that you can open and work with a lot of data, but frankly, that's both a blessing and a curse.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/zero-in-on-the-right-data-with-filters-in-excel?u=76281980&t=8)** Looking at a lot of data can be overwhelming, almost as if you can't wrap your head around what's in front of you.
 >
@@ -91,20 +90,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=0)** - [Instructor] Here's what you should know before taking this course.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=2)** You should know the basics of Excel, for example, how to insert rows and columns.
+> **[0:02](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=2)** You should know the basics of [[Microsoft Excel|Excel]], for example, how to insert rows and columns.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=8)** The other thing you need to know is that this course is for Excel for Windows, and I'm using the one you get with an M365 subscription.
+> **[0:08](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=8)** The other thing you need to know is that this course is for Excel for [[Windows]], and I'm using the one you get with an [[Microsoft 365|M365]] subscription.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-you-should-know?u=76281980&t=16)** If you're using a Mac or Excel for the web, the buttons and menus may be different, and in some cases, a button or option might not be available there yet, but for the most part, you should be able to follow along.
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (1), [[Microsoft 365|M365]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (1), [[Microsoft 365|M365]] (1)
 > **Env Vars:** m365 (1), protected (1), view (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** exercise files (1)
@@ -129,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a filter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
+#### [What is a filter?](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980&t=0)** - [Instructor] So I'm willing to bet you've heard the term filter a lot, but just what is a filter in Excel?
+> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980&t=0)** - [Instructor] So I'm willing to bet you've heard the term filter a lot, but just what is a filter in [[Microsoft Excel|Excel]]?
 >
 > **[0:06](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/what-is-a-filter?u=76281980&t=6)** A filter is a quick way to display only the data you care about at a particular moment.
 >
@@ -182,14 +179,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/types-of-filters?u=76281980)
+#### [Types of filters](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/types-of-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +291,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Search]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -305,8 +300,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
+#### [Custom filters](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,9 +308,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=6)** And if that's the case, really consider a custom filter because that will help you refine your results even further.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=12)** So at this particular time, I really want to see the sales just related to fruit products.
+> **[0:12](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=12)** So at this particular time, I really want to see the sales just related to fruit [[Microsoft Products|products]].
 >
-> **[0:18](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=18)** And it looks like they all start with the word dried, dried plums, dried pears, et cetera.
+> **[0:18](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=18)** And it looks like they all start with the [[Microsoft Word|word]] dried, dried plums, dried pears, et cetera.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/custom-filters?u=76281980&t=24)** So I'm going to try filtering just on dried and see what comes back.
 >
@@ -364,17 +358,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (3), data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/advanced-filters?u=76281980)
+#### [Advanced filters](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/advanced-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/advanced-filters?u=76281980&t=0)** - [Instructor] Sometimes you need more than what's available in Excel's custom filter dialogue boxes.
+> **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/advanced-filters?u=76281980&t=0)** - [Instructor] Sometimes you need more than what's available in [[Microsoft Excel|Excel]]'s custom filter dialogue boxes.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/advanced-filters?u=76281980&t=5)** In fact, you might be wondering, is there a way to have more than two criteria?
 >
@@ -502,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (3), scroll down (1)
 > **Env Vars:** e397 (2)
@@ -511,8 +504,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter for unique values
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980)
+#### [Filter for unique values](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -556,7 +548,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=133)** So there you go, in column H, you now have a list of unique values for product name.
 >
-> **[2:20](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=140)** And if you wanted to, you could copy/paste these out, maybe put it on another sheet, and you could use for a dropdown list or the data validation feature.
+> **[2:20](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=140)** And if you wanted to, you could copy/paste these out, maybe put it on another sheet, and you could use for a dropdown list or the [[Data Validation]] feature.
 >
 > **[2:29](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-for-unique-values?u=76281980&t=149)** So that's filtering for unique values.
 >
@@ -564,14 +556,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), feature (2)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **Env Vars:** d437 (2)
 > **UI Navigation:** go to (1), dropdown (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter with a formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980)
+#### [Filter with a formula](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +572,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980&t=9)** So off to the side here, I'm going to select cell G2, and I'm going to type = FILTER, and then I'm going to press Tab.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980&t=19)** And Excel bolds this item here, called array.
+> **[0:19](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980&t=19)** And [[Microsoft Excel|Excel]] bolds this item here, called array.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/filter-with-a-formula?u=76281980&t=23)** And it's essentially asking me, okay, what do you want to filter?
 >
@@ -655,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** e391 (4), b391 (3), filter (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -666,8 +657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use slicers to filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
+#### [Use slicers to filter](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -695,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=49)** So, how do you make these slicers?
 >
-> **[0:51](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=51)** Well, first of all, you've got to make an Excel table, and I'll show you how to do that.
+> **[0:51](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=51)** Well, first of all, you've got to make an [[Microsoft Excel|Excel]] table, and I'll show you how to do that.
 >
 > **[0:55](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=55)** We're going to go ahead over to this data sheet here.
 >
@@ -743,7 +733,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=140)** And then I'm going to scroll over.
 >
-> **[2:23](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=143)** I'm even going to zoom out a little bit just because we have a lot that we need to see.
+> **[2:23](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=143)** I'm even going to [[Zoom]] out a little bit just because we have a lot that we need to see.
 >
 > **[2:28](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-slicers-to-filter?u=76281980&t=148)** I'm going to do this to 85%.
 >
@@ -811,20 +801,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), product (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Zoom]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Power Query to filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980)
+#### [Use Power Query to filter](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=0)** - [Instructor] Sometimes you need to filter out data and put it on another sheet.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=4)** And you can certainly do that using the Power Query editor.
+> **[0:04](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=4)** And you can certainly do that using the [[Microsoft Power Query|Power Query]] editor.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=8)** So for example, I've got all my data here on this tab, but let's say I just want Robert's data on this tab.
 >
@@ -832,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=17)** I'll go back to the All Data tab, and then up here on the Data tab, I'll click Get Data, and then From Other Sources, From Table Range.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=28)** Excel wants to first create a table of the source, and that's fine with me.
+> **[0:28](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=28)** [[Microsoft Excel|Excel]] wants to first create a table of the source, and that's fine with me.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/use-power-query-to-filter?u=76281980&t=33)** And it's designating that A1 through E391 is the range of cells to make that table.
 >
@@ -910,7 +899,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** go back to (2)
@@ -918,14 +907,13 @@ created: 2026-05-02
 > **Env Vars:** e391 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shortcut keys for filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980)
+#### [Shortcut keys for filtering](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=0)** - [Instructor] Let's go over something fun, and that's keyboard shortcuts for filters.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=4)** First off, if you want to make a table of your Excel data, you just click anywhere in the data and then press CTRL + T.
+> **[0:04](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=4)** First off, if you want to make a table of your [[Microsoft Excel|Excel]] data, you just click anywhere in the data and then press CTRL + T.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/shortcut-keys-for-filtering?u=76281980&t=11)** That will bring up the Create Table dialogue box, and then you can press Enter and that will create your table.
 >
@@ -953,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ctrl (1)
 > **Speakers:** - [instructor] (1)
@@ -963,12 +951,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps: From filters to advanced Excel analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)
+#### [Next steps: From filters to advanced Excel analysis](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=1)** - So we showed you how to use Excel filters.
+> **[0:01](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=1)** - So we showed you how to use [[Microsoft Excel|Excel]] filters.
 >
 > **[0:03](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=3)** They're really key to zeroing in on quick answers you need from your data.
 >
@@ -980,11 +967,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=22)** Then we showed you how to refine your filters by using advanced filters.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=27)** We also showed you some tips like how to use slicers, power query, and how to do keyboard shortcuts for filters.
+> **[0:27](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=27)** We also showed you some tips like how to use slicers, [[Microsoft Power Query|power query]], and how to do keyboard shortcuts for filters.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=35)** But the interesting thing is once you master filters, the next step up in the skills ladder is to learn Excel PivotTables.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=43)** And it just so happens there are many courses in LinkedIn Learning that you can use to learn about them.
+> **[0:43](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=43)** And it just so happens there are many courses in [[LinkedIn]] Learning that you can use to learn about them.
 >
 > **[0:48](https://www.linkedin.com/learning/excel-filtering-data-for-beginners-24520188/next-steps-from-filters-to-advanced-excel-analysis?u=76281980&t=48)** You can check out my course.
 >
@@ -998,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2), [[Microsoft Power Query|Power query]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Power Query|Power query]] (1), [[LinkedIn]] (1)
 > **Speakers:** - so (1)
 
 

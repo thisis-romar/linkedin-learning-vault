@@ -98,16 +98,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to use MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980)
+#### [Learn to use MySQL](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=0)** - [Brad] Databases are a part of our world.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=0)** - [Brad] [[Databases]] are a part of our world.
 >
 > **[0:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=2)** Almost every digital service you use is based upon them.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=6)** One of the most popular database management systems available is my MySQL.
+> **[0:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=6)** One of the most popular [[Database Management]] systems available is my [[MySQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/learn-to-use-mysql?u=76281980&t=10)** It's open source and freely available, and has been adopted by companies large and small around the world.
 >
@@ -123,22 +122,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), database (2), management (2), [[MySQL]] (2), data (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Database Management]] (2), [[MySQL]] (2)
 > **CLI Commands:** mysql (2)
 > **Speakers:** - [brad] (1)
 
-#### How to get started with MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980)
+#### [How to get started with MySQL](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=0)** - [Narrator] In this course, I'll be using the MySQL Community Edition which includes both the MySQL Server and the MySQL Workbench which is the official graphical interface for MySQL and the one I'll be using throughout this course to create and interact with my databases.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=0)** - [Narrator] In this course, I'll be using the [[MySQL]] Community Edition which includes both the MySQL Server and the MySQL Workbench which is the official graphical interface for MySQL and the one I'll be using throughout this course to create and interact with my [[Databases]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=17)** By following the download link on the MySQL community site you can download an installer for the operating system of your choice.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=24)** Just click on Community Server.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=27)** I'll download the Windows Installer MSI and bypass the Oracle login.
+> **[0:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=27)** I'll download the [[Windows]] Installer MSI and bypass the Oracle login.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=35)** And when that's downloaded, I'll run the installer.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=49)** Select the Custom Install Option on the setup type page, and click Next.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=55)** And then on the select products page you got to make sure to select the newest versions of the following products.
+> **[0:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=55)** And then on the select [[Microsoft Products|products]] page you got to make sure to select the newest versions of the following products.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=61)** We need the MySQL Server version eight.
 >
@@ -184,11 +182,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=155)** As a quick side note the official pronunciation of MySQL is MySQL, although MySQL is commonly used as well.
 >
-> **[2:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=164)** If you would like more step-by-step instructions for installing and configuring MySQL in detail I recommend searching for the MySQL Installation and Configuration Course in the LinkedIn Learning Library.
+> **[2:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/how-to-get-started-with-mysql?u=76281980&t=164)** If you would like more step-by-step instructions for installing and configuring MySQL in detail I recommend searching for the MySQL Installation and Configuration Course in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (17), next (5), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (17), [[Windows]] (2), [[Microsoft Products|Products]] (2), [[Databases]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** mysql (17), make (1)
 > **Prerequisites:** install (4), setup (2), you'll need (1), configure (1)
 > **UI Navigation:** select the (3), click on (1)
@@ -202,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a database?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980)
+#### [What is a database?](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=6)** Technically, the term database only applies to the data itself.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=9)** A database management system, or DBMS, provides the services that are necessary for end users or other software to interact with the data.
+> **[0:09](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=9)** A [[Database Management]] system, or DBMS, provides the services that are necessary for end users or other software to interact with the data.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=17)** However, it's fairly common to refer to the entire collection of data, DBMS, and any associated applications as a database, even in professional contexts.
 >
@@ -227,11 +224,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=49)** There's also much that it does that's invisible to the user such as managing the way that the database is physically stored on your disk, and preventing the database from becoming damaged if users and applications interact with it in the wrong way.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=61)** MySQL is just such a database management system.
+> **[1:01](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=61)** [[MySQL]] is just such a database management system.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=64)** Specifically, it's a DBMS for types of databases called relational databases, which means that data is stored in a series of related rows and columns within tables.
+> **[1:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=64)** Specifically, it's a DBMS for types of [[Databases]] called [[Relational Databases]], which means that data is stored in a series of related rows and columns within tables.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=74)** To interact with the data, one uses a special type of programming language called SQL, short for Structured Query Language, to make a statement to the database which says what you would like the database to do.
+> **[1:14](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=74)** To interact with the data, one uses a special type of programming language called [[SQL]], short for Structured Query Language, to make a statement to the database which says what you would like the database to do.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=85)** This could be displaying certain data in a specific way, erasing or adding data to existing tables, or even changing the entire structure of the database such as adding new tables.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=114)** However, every DBMS has its own particular set of rules and constraints that are slightly different from the others and MySQL is no exception.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=123)** Since this is an introductory course, most of the SQL you'll be learning will be easily portable to other relational database systems, but I'll be careful to call out any MySQL specific elements as they pop up.
+> **[2:03](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=123)** Since this is an introductory course, most of the SQL you'll be learning will be easily portable to other relational [[Database Systems]], but I'll be careful to call out any MySQL specific elements as they pop up.
 >
 > **[2:14](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=134)** Many of the most popular DMBSs follow the relational model, and it powers everything from giant enterprise databases stored on the cloud to small databases run on a user's own machine.
 >
@@ -251,17 +248,17 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=146)** There are some that are designed to store documents or other types of unordered data, rather than individual pieces of data in rows or tables.
 >
-> **[2:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=153)** Some are designed to run on embedded systems, such as consumer electronics, and must be able to manage their data with high reliability but no remote administration.
+> **[2:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=153)** Some are designed to run on embedded systems, such as consumer [[Electronics]], and must be able to manage their data with high reliability but no remote administration.
 >
 > **[2:41](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=161)** Search engine databases have complex data database engines that support searching through giant amounts of text.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=168)** Since these non relational databases don't use rows, columns, and tables, they have their own query languages optimized for their specific type of data.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=176)** If you want to learn more about relational databases in general, I recommend looking up [[Relational Databases Essential Training]] in the LinkedIn Learning Library.
+> **[2:56](https://www.linkedin.com/learning/learning-mysql-development-22651630/what-is-a-database?u=76281980&t=176)** If you want to learn more about relational databases in general, I recommend looking up [[Relational Databases Essential Training]] in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (17), [[Relational Databases]] (5), [[Databases]] (4), [[SQL]] (4)
+> **Frameworks & Libraries:** [[Relational Databases]] (5), [[Databases]] (4), [[SQL]] (4), [[MySQL]] (3), [[Database Management]] (2)
 > **Env Vars:** dbms (7), sql (4)
 > **Definitions:** is a  (2), means that (1), short for (1), is an  (1)
 > **Analogies:** such as (5)
@@ -269,18 +266,17 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL, a declarative language
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980)
+#### [SQL, a declarative language](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=0)** - [Instructor] As you might guess from the name, MySQL uses SQL, or structured query language, as the means of programmatically interacting with its databases.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=0)** - [Instructor] As you might guess from the name, [[MySQL]] uses [[SQL]], or structured query language, as the means of programmatically interacting with its [[Databases]].
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=9)** SQL is a declarative language, one common among relational DBMSs, but very different from procedural or object oriented languages common when working with data outside a database.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=20)** In a procedural language, a program is executed step by step, and the program flow explicitly lays out each step that the programmer wants performed.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=29)** A declarative language leaves the exact control flow up to the computer.
+> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=29)** A declarative language leaves the exact [[Control Flow]] up to the computer.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=32)** A programmer just states the logic of what they want the end result to look like.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=135)** Adding new lines also has the advantage of making the different clauses of the query more visible.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=140)** All SQL data manipulation queries and statements follow a similar pattern.
+> **[2:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=140)** All SQL [[Data Manipulation]] queries and statements follow a similar pattern.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=144)** For instance, if the SELECT* were replaced with DELETE and the ORDER BY clause removed, this statement would remove all the data it would otherwise have selected.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=168)** TRUNCATE is used to empty tables of their contents while preserving their structure, and DROP is used to remove tables entirely.
 >
-> **[2:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=175)** Finally, a word of warning.
+> **[2:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=175)** Finally, a [[Microsoft Word|word]] of warning.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-mysql-development-22651630/sql-a-declarative-language?u=76281980&t=177)** SQL queries are run instantly against the actual data in the database.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[SQL]] (12), database (10), [[MySQL]] (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (12), [[MySQL]] (3), [[Databases]] (1), [[Control Flow]] (1), [[Data Manipulation]] (1)
 > **Env Vars:** sql (12), select (3), order (2), table (2), where (1)
 > **SQL:** select (3), order by (2), where (1), create table (1), alter table (1)
 > **CLI Commands:** mysql (3), make (1)
@@ -352,18 +348,17 @@ created: 2026-05-02
  (1)
 > **Definitions:** is a  (1)
 
-#### Databases vs. flat files and spreadsheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980)
+#### [Databases vs. flat files and spreadsheets](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=0)** - [Instructor] Most people who want to start using databases are already familiar with the other ways of storing data on a computer.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=0)** - [Instructor] Most people who want to start using [[Databases]] are already familiar with the other ways of storing data on a computer.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=7)** There are spreadsheets, which have plenty of tools for calculating, filtering, and displaying data.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=12)** Most people also have experience with flat files, which are simply text or binary files with lists of data, a very simple format suitable for viewing in a text editor.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=21)** Given that these other data storage applications exist, why use a database?
+> **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=21)** Given that these other [[Data Storage]] applications exist, why use a database?
 >
 > **[0:26](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=26)** Spreadsheets and flat files are both much simpler than databases.
 >
@@ -379,11 +374,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=49)** These are all perfectly valid reasons for using spreadsheets and flat files, and even regular data database users will still frequently use other data tools for presenting and transmitting their data.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=59)** However, databases do have three major advantages over these other applications, flexibility, scalability, and integrity.
+> **[0:59](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=59)** However, databases do have three major advantages over these other applications, flexibility, [[Scalability]], and integrity.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=66)** The use of SQL demonstrates the flexibility of a relational database.
+> **[1:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=66)** The use of [[SQL]] demonstrates the flexibility of a relational database.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=71)** Although data at rest in a table is laid out according to a structure that only rarely changes, most data is not queried one entire table at a time.
+> **[1:11](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=71)** Although data at [[Representational State Transfer (REST)|rest]] in a table is laid out according to a structure that only rarely changes, most data is not queried one entire table at a time.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=80)** Instead, queries have the ability to pull data from different tables joined up by their interrelated fields and displayed in an order that makes sense for the particular question being asked of the data.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=132)** Most spreadsheet applications have a maximum quantity of data that they can support.
 >
-> **[2:16](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=136)** Most enterprise level databases, such as MySQL, can scale to handle arbitrarily large sets of data.
+> **[2:16](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=136)** Most enterprise level databases, such as [[MySQL]], can scale to handle arbitrarily large sets of data.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=143)** Though this course assumes that you're using MySQL on your local machine, most of the time, real world installations of MySQL will be run on servers or in the cloud.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=176)** Many websites will run multiple queries for every user of the site.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=180)** For companies like Google or Amazon, that can be millions of users at once.
+> **[3:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=180)** For companies like [[Google]] or Amazon, that can be millions of users at once.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/databases-vs-flat-files-and-spreadsheets?u=76281980&t=184)** With a database, each query or statement is handled as a single transaction completed or failed before any other user's query or statement will interact with that same data.
 >
@@ -433,14 +428,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), database (7), [[Databases]] (5), [[MySQL]] (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Databases]] (5), [[MySQL]] (4), [[Scalability]] (3), [[Data Storage]] (1), [[SQL]] (1)
 > **CLI Commands:** mysql (4), make (2), find (1)
 > **Env Vars:** sql (1), dbms (1)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common database terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980)
+#### [Common database terms](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,11 +442,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=5)** This vocabulary makes it possible to discuss database-specific questions in detail, but it can be impenetrable to newcomers.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=12)** In this video, I'll touch on terms and ideas that you'll see in action throughout the rest of this course.
+> **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=12)** In this video, I'll touch on terms and ideas that you'll see in action throughout the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=18)** A database is a set of ordered, related data stored on a computer.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=22)** This is true of any type of database, but this course focuses specifically on relational databases, a type of database model that focuses on organizing data into rows and columns within tables.
+> **[0:22](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=22)** This is true of any type of database, but this course focuses specifically on [[Relational Databases]], a type of database model that focuses on organizing data into rows and columns within tables.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=33)** A table is a collection of closely related data.
 >
@@ -478,7 +472,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=93)** A table is sometimes known as a relation, a column as an attribute, and a row as a record or tuple.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=100)** In MySQL, the order of rows and columns in a table does not matter.
+> **[1:40](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=100)** In [[MySQL]], the order of rows and columns in a table does not matter.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=104)** Column order is defined once when a table is created, usually to make the data as readable as possible, but can be manually changed later.
 >
@@ -490,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=132)** The key allows the specific row in a table to be referenced either in other tables where it would be called a foreign key, or in queries that include multiple tables.
 >
-> **[2:22](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=142)** To interact with the database, users employ SQL statements, which are any valid command that complies with SQL syntax, ends with a semicolon, and interacts with a database in some way.
+> **[2:22](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=142)** To interact with the database, users employ [[SQL]] statements, which are any valid command that complies with SQL syntax, ends with a semicolon, and interacts with a database in some way.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=155)** The most basic types of statements in SQL are so-called CRUD statements, standing for create, read, update, and delete.
 >
@@ -510,11 +504,11 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=219)** Primary and foreign keys are frequently used for this, they make for the simplest and most predictable joins since the key must be unique in one table.
 >
-> **[3:47](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=227)** With these terms in hand, you are now ready to begin learning how to interact with databases.
+> **[3:47](https://www.linkedin.com/learning/learning-mysql-development-22651630/common-database-terms?u=76281980&t=227)** With these terms in hand, you are now ready to begin learning how to interact with [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (10), [[SQL]] (4), [[MySQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[MySQL]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Relational Databases]] (1), [[Databases]] (1)
 > **Env Vars:** sql (4), where (2), dbms (1), crud (1), select (1)
 > **Definitions:** is a  (3), is called (1), known as (1)
 > **CLI Commands:** mysql (2), make (2)
@@ -522,12 +516,11 @@ created: 2026-05-02
 > **Code Identifiers:** movies_basic (1), release_year (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980)
+#### [Database best practices](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=0)** - [Instructor] When a user who is new to databases is tasked with creating their first database, they might ask, "Why not just make one table to include all my data?"
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=0)** - [Instructor] When a user who is new to [[Databases]] is tasked with creating their first database, they might ask, "Why not just make one table to include all my data?"
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=8)** If they're accustomed to using spreadsheets, this might be intuitive.
 >
@@ -535,17 +528,17 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=15)** However, that doesn't mean it's recommended.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=17)** Not only is this user leaving a lot of MySQL's most powerful tools on the table, they're making a database that will be hard to update, prone to irregularity, and slow to use, especially as it grows in size.
+> **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=17)** Not only is this user leaving a lot of [[MySQL]]'s most powerful tools on the table, they're making a database that will be hard to update, prone to irregularity, and slow to use, especially as it grows in size.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=29)** Many of the more detailed aspects of database best practices are beyond the scope of this course, and a lot of the data you'll see in other videos won't be optimized at all.
 >
 > **[0:38](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=38)** I'm designing my database to be suboptimal for the purposes of example, but by the time you're finished with this course you shouldn't need to rely on such simple datasets.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=48)** For more detailed information on database optimization, check out Programming Fundamentals: Databases in the LinkedIn Learning Library.
+> **[0:48](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=48)** For more detailed information on database optimization, check out Programming Fundamentals: Databases in the [[LinkedIn]] Learning Library.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=55)** The best way to optimize a database is through a practice called normalization.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=59)** Normalization is the practice of designing a database to minimize data redundancy and maximize data integrity.
+> **[0:59](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=59)** Normalization is the practice of designing a database to minimize data redundancy and maximize [[Data Integrity]].
 >
 > **[1:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=66)** Full normalization is a complex practice rooted in formal logic, but the basic rules to follow are these.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=151)** Rather, you'll be using queries to select only some data from those tables.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=155)** Modifying a query to pull from multiple tables instead of one is a relatively simple thing to do in SQL, and later in this course you'll learn how to do exactly that.
+> **[2:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=155)** Modifying a query to pull from multiple tables instead of one is a relatively simple thing to do in [[SQL]], and later in this course you'll learn how to do exactly that.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/database-best-practices?u=76281980&t=164)** The most basic best practice is to design your tables thoughtfully.
 >
@@ -591,7 +584,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (11), [[Databases]] (4), [[MySQL]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[MySQL]] (1), [[LinkedIn]] (1), [[Data Integrity]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1), for example (1)
@@ -605,14 +598,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advantages and disadvantages of MySQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980)
+#### [Advantages and disadvantages of MySQL](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=0)** - [Instructor] If you've decided to use a relational database to store your data, which should you use?
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=5)** For the beginning user, MySQL has many advantages over its competitors.
+> **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=5)** For the beginning user, [[MySQL]] has many advantages over its competitors.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=9)** To start with, it's free.
 >
@@ -620,7 +612,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=18)** This is no small thing.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=19)** MySQL's chief competitors are the Oracle DBMS and Microsoft SQL Server.
+> **[0:19](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=19)** MySQL's chief competitors are the Oracle DBMS and [[Microsoft SQL Server]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=24)** Both of those companies have commercial licenses that can cost thousands or tens of thousands of dollars for moderate-sized installations.
 >
@@ -632,11 +624,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=45)** Although you'll see through this course that MySQL is not exactly simple, it is easy to get started with.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=50)** Starting with the self-contained installation package, you can get started creating databases and tables with the MySQL Workbench without even learning any SQL.
+> **[0:50](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=50)** Starting with the self-contained installation package, you can get started creating [[Databases]] and tables with the MySQL Workbench without even learning any [[SQL]].
 >
 > **[0:59](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=59)** The Workbench also makes it easy to visualize the results of your queries and to import and export data into other software packages.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=66)** Although it's not as forgiving as say, Microsoft Excel, MySQL lets you play around with your databases and with your DBMS installation without too much worry of catastrophic accidental damage.
+> **[1:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=66)** Although it's not as forgiving as say, [[Microsoft Excel]], MySQL lets you play around with your databases and with your DBMS installation without too much worry of catastrophic accidental damage.
 >
 > **[1:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/advantages-and-disadvantages-of-mysql?u=76281980&t=77)** The third advantage is that it's open source.
 >
@@ -668,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (13), [[Databases]] (5), database (4), data (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (13), [[Databases]] (5), [[SQL]] (2), [[Microsoft SQL Server]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** mysql (13), find (1), make (1)
 > **Env Vars:** dbms (3), sql (3)
 > **Definitions:** means that (2)
@@ -676,14 +668,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980)
+#### [Exploring MySQL Workbench](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980&t=0)** - [Instructor] In this course, we'll be using the Workbench to interact with our MySQL databases.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980&t=0)** - [Instructor] In this course, we'll be using the Workbench to interact with our [[MySQL]] [[Databases]].
 >
-> **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980&t=5)** The Workbench is a powerful SQL editor and database tool that provides graphical ways of interacting with databases, tables, and other MySQL features that we would otherwise have to use the command line for.
+> **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980&t=5)** The Workbench is a powerful [[SQL]] editor and database tool that provides graphical ways of interacting with databases, tables, and other MySQL features that we would otherwise have to use the command line for.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/exploring-mysql-workbench?u=76281980&t=17)** However, the Workbench requires a connection to the database itself to operate.
 >
@@ -735,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (7), database (4), [[Databases]] (3), [[SQL]] (2), prompt (1)
+> **Frameworks & Libraries:** [[MySQL]] (7), [[Databases]] (3), [[SQL]] (2)
 > **CLI Commands:** mysql (7)
 > **UI Navigation:** click on (2), go to (1)
 > **Prerequisites:** setup (1), set up (1), install (1)
@@ -744,12 +735,11 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Speakers:** - [instructor] (1)
 
-#### MySQL data types: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980)
+#### [MySQL data types: Part 1](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=0)** - [Instructor] Every piece of data stored in a MySQL database has a type, whether numeric, text, date, or something else.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=0)** - [Instructor] Every piece of data stored in a [[MySQL]] database has a type, whether numeric, text, date, or something else.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=8)** The type that you assign to a piece of data impacts what you can do with that data.
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=26)** Choosing a precise data type also helps keep your database from growing too large, and it helps speed up queries.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=32)** For most smaller databases, these effects won't be very noticeable.
+> **[0:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=32)** For most smaller [[Databases]], these effects won't be very noticeable.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-1?u=76281980&t=36)** But accurate typing is a good habit to get into because the effects on large databases can be very significant.
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[MySQL]] (6), database (4), [[Databases]] (2), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (6), [[Databases]] (2)
 > **Versions:** 999.9 (2), 1.5 (2), 1.7 (2), 2.5 (2), 2.7 (2)
 > **Env Vars:** tinyint (2), bigint (2), decimal (2), int (1), numeric (1)
 > **CLI Commands:** mysql (6)
@@ -840,12 +830,11 @@ created: 2026-05-02
 > **Code Identifiers:** math_test (2)
 > **SQL:** insert into (1)
 
-#### MySQL data types: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980)
+#### [MySQL data types: Part 2](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=0)** - [Instructor] In most databases, storing numbers alone won't cut it.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=0)** - [Instructor] In most [[Databases]], storing numbers alone won't cut it.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=4)** You'll want to store some text as well.
 >
@@ -875,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=84)** Some people might see this and decide that since VARCHARs will scale automatically with the data they store, they might as well declare all their VARCHAR is absurdly long and not go through the trouble of defining their data requirements.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=97)** MySQL absolutely allows this.
+> **[1:37](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=97)** [[MySQL]] absolutely allows this.
 >
 > **[1:40](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=100)** However, a full VARCHAR 65535 is 64 kilobits in size.
 >
@@ -931,9 +920,9 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=280)** For example, 1101 could be stored in a BIT three to represent the value 13.
 >
-> **[4:46](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=286)** JSON allows for the optimized storage of valid JSON data files.
+> **[4:46](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=286)** [[JSON]] allows for the optimized storage of valid JSON data files.
 >
-> **[4:51](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=291)** Finally, there are a number of spatial data types for storing geographic information systems or GIS data form maps.
+> **[4:51](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=291)** Finally, there are a number of spatial data types for storing [[Geographic Information Systems (GIS)|geographic information systems]] or GIS data form maps.
 >
 > **[4:58](https://www.linkedin.com/learning/learning-mysql-development-22651630/mysql-data-types-part-2?u=76281980&t=298)** It's worth taking some time to mindfully choose the correct data types for your tables.
 >
@@ -941,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), database (8), [[Databases]] (3), [[MySQL]] (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[MySQL]] (3), [[JSON]] (2), [[Geographic Information Systems (GIS)|Geographic information systems]] (1)
 > **Env Vars:** varchar (9), char (9), blob (4), text (4), varbinary (3)
 > **SQL:** varchar (9), boolean (1)
 > **Analogies:** just like (1), for instance (1), such as (1), imagine (1), similar to (1)
@@ -950,12 +939,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (2)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Explore the built-in databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-explore-the-built-in-databases?u=76281980)
+#### [Challenge: Explore the built-in databases](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-explore-the-built-in-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-explore-the-built-in-databases?u=76281980&t=0)** - [Instructor] In this challenge, you'll be exploring the built-in MySQL tutorial databases.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-explore-the-built-in-databases?u=76281980&t=0)** - [Instructor] In this challenge, you'll be exploring the built-in [[MySQL]] tutorial [[Databases]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-explore-the-built-in-databases?u=76281980&t=11)** If you installed the default installation of the MySQL Community Edition, you should see the world and Sakila databases in the Workbench Navigator pane.
 >
@@ -967,18 +955,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (4), [[MySQL]] (2), data (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[MySQL]] (2)
 > **CLI Commands:** mysql (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Explore the built-in databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-explore-the-built-in-databases?u=76281980)
+#### [Solution: Explore the built-in databases](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-explore-the-built-in-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-explore-the-built-in-databases?u=76281980&t=0)** - [Narrator] To view the contents of any database, also called schemas in MySQL, click the arrow to the left of the database name.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-explore-the-built-in-databases?u=76281980&t=0)** - [Narrator] To view the contents of any database, also called schemas in [[MySQL]], click the arrow to the left of the database name.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-explore-the-built-in-databases?u=76281980&t=14)** You'll then see a list of contents separated by type, tables, views, stored procedures, and functions.
 >
@@ -1014,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[MySQL]] (1), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **UI Navigation:** right-click (2), go to (1), click on (1)
 > **CLI Commands:** make (2), mysql (1)
 > **Cross-References:** later in (1)
@@ -1026,16 +1013,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980)
+#### [Create a database](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=0)** - Now that we've discussed some database theory and you understand some of the foundations of MySQL, let's get started making a database.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=0)** - Now that we've discussed some database theory and you understand some of the foundations of [[MySQL]], let's get started making a database.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=7)** I've started up the MySQL Workbench and I've connected it to my MySQL Instance.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=12)** Now, assuming you completed the standard installation of the MySQL Community Edition you should see the three existing databases under the left-hand navigator pane.
+> **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=12)** Now, assuming you completed the standard installation of the MySQL Community Edition you should see the three existing [[Databases]] under the left-hand navigator pane.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=20)** Remember that in MySQL, the term schema and database are interchangeable for all purposes.
 >
@@ -1043,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=27)** The nice thing about the MySQL, Workbench, instead of trying to use MySQL, purely through the command line, is that there are two ways of doing almost everything.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=36)** I can use the built-in Wizards to create my database or I can write the SQL statement myself.
+> **[0:36](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=36)** I can use the built-in Wizards to create my database or I can write the [[SQL]] statement myself.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-database?u=76281980&t=40)** To start with, I'll use the Wizard.
 >
@@ -1087,15 +1073,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[MySQL]] (8), [[SQL]] (5), [[Databases]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[SQL]] (5), [[Databases]] (1)
 > **CLI Commands:** mysql (8)
 > **Env Vars:** sql (5)
 > **Tools:** command line (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - now (1)
 
-#### Create a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980)
+#### [Create a table](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1105,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=12)** First, I'll set the movie's database as the default schema.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=15)** This will ensure that all of my SQL statements apply automatically to the movie's database.
+> **[0:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=15)** This will ensure that all of my [[SQL]] statements apply automatically to the movie's database.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=21)** That expanded the movie's database, and you can see that it has no contents.
 >
@@ -1135,7 +1120,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=91)** The workbench has also correctly assumed that I want my ID column to be an integer, since it will always be whole numbers.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=98)** Next comes a set of checkboxes that enable, or disable certain MySQL features for this particular column.
+> **[1:38](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=98)** Next comes a set of checkboxes that enable, or disable certain [[MySQL]] features for this particular column.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/create-a-table?u=76281980&t=104)** I'll go through these one at a time.
 >
@@ -1237,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (8), next (6), [[MySQL]] (5), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (2)
 > **CLI Commands:** mysql (5), make (2)
 > **Definitions:** means that (4), stands for (1), is called (1), is a  (1)
 > **UI Navigation:** right-click (1), double-click (1), go to (1)
@@ -1246,12 +1231,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use CREATE and ALTER to define a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980)
+#### [Use CREATE and ALTER to define a table](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=0)** - [Instructor] Although the MySQL Workbench has a fully featured graphical interface tool for creating and modifying tables, there's value in understanding the raw SQL statements that those tools generate.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=0)** - [Instructor] Although the [[MySQL]] Workbench has a fully featured graphical interface tool for creating and modifying tables, there's value in understanding the raw [[SQL]] statements that those tools generate.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=11)** To begin with, I'm going to drop the existing movies_basic table.
 >
@@ -1309,7 +1293,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=209)** Looks like that was successful.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=211)** So if I select the movies_basic table again, there's my box office gross.
+> **[3:31](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=211)** So if I select the movies_basic table again, there's my box [[Microsoft Office|office]] gross.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-mysql-development-22651630/use-create-and-alter-to-define-a-table?u=76281980&t=217)** And then also if I go into the Graphical Table Editor, you can see that the director is a VARCHAR 50 instead of a VARCHAR 40.
 >
@@ -1317,7 +1301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[MySQL]] (2), database (2), data (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[MySQL]] (2), [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** movies_basic (8), critics_rating (2), box_office_gross (2), release_year (1), critic_rating (1)
 > **Env Vars:** varchar (7), sql (4)
 > **CLI Commands:** make (6), mysql (2)
@@ -1326,8 +1310,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** make sure to (1)
 
-#### Primary keys and foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980)
+#### [Primary keys and foreign keys](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1345,7 +1328,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=36)** If you have only one table like my movie's basic table, then there's not much advantage to a primary key except for making the data rows slightly more human readable.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=44)** To demonstrate the real value of primary keys, I'm going to open the Sakila database in the MySQL workbench and expand the list of tables, and then select the contents of the customer table.
+> **[0:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=44)** To demonstrate the real value of primary keys, I'm going to open the Sakila database in the [[MySQL]] workbench and expand the list of tables, and then select the contents of the customer table.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=56)** This table contains a list of customers of the fictional Sakila DVD Rental store.
 >
@@ -1361,7 +1344,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=92)** If the customer table did not use primary keys or if there was no customer table and the rental table contained all data about the customer doing the renting, then it would have huge amounts of redundant data if each customer made multiple rentals.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=105)** Linking to the customer ID instead helps reduce the amount of data in the database, as well as helping to ensure data integrity by keeping each piece of data in only one place.
+> **[1:45](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=105)** Linking to the customer ID instead helps reduce the amount of data in the database, as well as helping to ensure [[Data Integrity]] by keeping each piece of data in only one place.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-mysql-development-22651630/primary-keys-and-foreign-keys?u=76281980&t=114)** This is a goal of database normalization.
 >
@@ -1379,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (5), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1), [[Data Integrity]] (1)
 > **UI Navigation:** open the (2), select the (2), click on (1)
 > **Definitions:** is a  (2), is an  (1), refers to (1), is called (1)
 > **Env Vars:** dvd (2)
@@ -1388,8 +1371,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** best practice (1)
 
-#### Display database relationships with reverse engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980)
+#### [Display database relationships with reverse engineering](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1397,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=7)** Only a few tables means only a few relationships.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=10)** However, if you have a larger, more complex database like the sample sequila database from MySQL, then understanding the foreign key relationships can be more tricky.
+> **[0:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=10)** However, if you have a larger, more complex database like the sample sequila database from [[MySQL]], then understanding the foreign key relationships can be more tricky.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=20)** It's possible to go from table to table looking at indexes to find foreign keys but it's slow and it's easy to lose track.
 >
@@ -1413,7 +1395,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=50)** You can send a database model over email to a colleague for review for instance.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=54)** You can build models for databases that don't exist yet, get everything just so and then create a new schema from the model with just a few clicks.
+> **[0:54](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=54)** You can build models for [[Databases]] that don't exist yet, get everything just so and then create a new schema from the model with just a few clicks.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-database-relationships-with-reverse-engineering?u=76281980&t=62)** Or you can use the MySQL Workbench to reverse engineer an existing database and make a model for you.
 >
@@ -1469,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[MySQL]] (5), data (1), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[Databases]] (1)
 > **CLI Commands:** mysql (5), make (2), find (1)
 > **Env Vars:** eer (4), dbms (2), mwb (1)
 > **Analogies:** for instance (3)
@@ -1477,12 +1459,11 @@ created: 2026-05-02
 > **Definitions:** stands for (1)
 > **Speakers:** - [narrator] (1)
 
-#### Load bulk data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980)
+#### [Load bulk data](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=0)** - [Instructor] Manually entering data into a MySQL table row by row is very slow and inefficient, although it's certainly possible.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=0)** - [Instructor] Manually entering data into a [[MySQL]] table row by row is very slow and inefficient, although it's certainly possible.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=9)** More frequently data will be inserted by some other piece of software or it'll be loaded from an existing file.
 >
@@ -1514,7 +1495,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=83)** I'll execute this query and there's the data in the movies basic table.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=87)** There's another way to load bulk data in the MySQL Workbench loading files containing SQL statements.
+> **[1:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=87)** There's another way to load bulk data in the MySQL Workbench loading files containing [[SQL]] statements.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-mysql-development-22651630/load-bulk-data?u=76281980&t=94)** This essentially executes all the commands that the files contain in order extremely rapidly.
 >
@@ -1554,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[SQL]] (8), next (7), database (7), [[MySQL]] (5)
+> **Frameworks & Libraries:** [[SQL]] (8), [[MySQL]] (5)
 > **Env Vars:** sql (6), dbms (2), csv (1), load (1), data (1)
 > **CLI Commands:** mysql (5), make (2)
 > **File Paths:** schema.sql (1), data.sql (1)
@@ -1563,14 +1544,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a normalized movies table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980)
+#### [Challenge: Create a normalized movies table](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980&t=0)** - [Instructor] In this challenge, your goal is to create a new set of tables that will contain a normalized version of the movie's dataset.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980&t=13)** Compared to the movie's basic table, these normalized tables will contain very similar data, but they've been restructured to reduce data redundancy and increase data integrity.
+> **[0:13](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980&t=13)** Compared to the movie's basic table, these normalized tables will contain very similar data, but they've been restructured to reduce data redundancy and increase [[Data Integrity]].
 >
 > **[0:23](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-create-a-normalized-movies-table?u=76281980&t=23)** Instead of one table, there'll be five tables, each with a primary key and potentially one or more foreign keys.
 >
@@ -1588,15 +1568,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
+> **Frameworks & Libraries:** [[Data Integrity]] (1)
 > **Code Identifiers:** movies_full (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a normalized movies table
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980)
+#### [Solution: Create a normalized movies table](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1610,7 +1589,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980&t=21)** The first step to solve this challenge is to create the tables necessary to contain the five sets of data in the movies full exercise files.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980&t=29)** You can start in any order, but it looks like the titles file has the most relationship with the rest of the data, so I'll start with that one.
+> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980&t=29)** You can start in any order, but it looks like the titles file has the most relationship with the [[Representational State Transfer (REST)|rest]] of the data, so I'll start with that one.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-create-a-normalized-movies-table?u=76281980&t=35)** So I'm going to create table titles.
 >
@@ -1772,7 +1751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (9), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** refers to (2), is a  (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -1786,12 +1765,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of SELECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980)
+#### [The basics of SELECT](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980&t=0)** - [Narrator] The most basic way to interact with data in a MySQL database is to select it.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980&t=0)** - [Narrator] The most basic way to interact with data in a [[MySQL]] database is to select it.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-select?u=76281980&t=5)** Select statements are often called queries and they display data from tables, according to the filters and constraints listed in the query.
 >
@@ -1819,19 +1797,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **CLI Commands:** mysql (1)
 > **Env Vars:** gui (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Refine SELECT queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980)
+#### [Refine SELECT queries](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=0)** - [Presenter] Being able to precisely select columns in a table is an important step when using MySQL.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=0)** - [Presenter] Being able to precisely select columns in a table is an important step when using [[MySQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=7)** In this video, I'll discuss several ways of modifying your basic select queries using the keywords "limit", "distinct", "as", and "order by".
 >
@@ -1851,9 +1828,9 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=61)** So if I were to "LIMIT 5, 5", then that would start on the fifth row with ID value 6 and select five rows.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=70)** If I wanted to start on the fifth row and then select the entire rest of the dataset, then I can just make this second parameter an arbitrarily large value.
+> **[1:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=70)** If I wanted to start on the fifth row and then select the entire [[Representational State Transfer (REST)|rest]] of the dataset, then I can just make this second parameter an arbitrarily large value.
 >
-> **[1:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=80)** The "limit" keyword is a MySQL specific break from the SQL standard, and there are various other ways of implementing this same functionality in different SQL DBMS's.
+> **[1:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=80)** The "limit" keyword is a MySQL specific break from the [[SQL]] standard, and there are various other ways of implementing this same functionality in different SQL DBMS's.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/refine-select-queries?u=76281980&t=92)** "Distinct" makes a select statement return only unique values no matter how many times those values occur in the dataset.
 >
@@ -1905,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (5), data (3), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** select (6), limit (3), sql (2), distinct (2), dbms (1)
 > **SQL:** select (6), order by (1)
 > **CLI Commands:** mysql (5), make (1)
@@ -1914,14 +1891,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Analogies:** for instance (1)
 
-#### Filter results with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980)
+#### [Filter results with WHERE](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=0)** - [Instructor] Frequently, the purpose of writing select statements in a production environment is to help understand the data in a database.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=7)** To that end, SQL provides a powerful way to filter the results of a query using the where keyword.
+> **[0:07](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=7)** To that end, [[SQL]] provides a powerful way to filter the results of a query using the where keyword.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=13)** Where clause is added after the from clause and includes one or more logical expressions.
 >
@@ -1929,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=21)** So for example, with this query select star from movies basic, I can add where ID equals one, and that will return one row where the value of the ID column is equal to one.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=33)** MySQL has a number of different operators you can use in these expressions.
+> **[0:33](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=33)** [[MySQL]] has a number of different operators you can use in these expressions.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-mysql-development-22651630/filter-results-with-where?u=76281980&t=37)** So for example, I can change this to where ID is greater than 10.
 >
@@ -2017,7 +1993,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (5), data (2), database (1), [[SQL]] (1), power (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (1)
 > **CLI Commands:** find (6), mysql (5), make (1)
 > **Analogies:** for example (4), similar to (1)
 > **Definitions:** is a  (3)
@@ -2025,8 +2001,7 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display data with CASE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980)
+#### [Display data with CASE](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2096,7 +2071,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980&t=159)** What happened here was these wins were evaluated one at a time, and if none of them evaluated true, then the else was applied.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980&t=167)** So say the critic rating was seven, so first my SQL would evaluate when critic rating is lower than five.
+> **[2:47](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980&t=167)** So say the critic rating was seven, so first my [[SQL]] would evaluate when critic rating is lower than five.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-mysql-development-22651630/display-data-with-case?u=76281980&t=173)** Well, seven is not lower than five, so that's false.
 >
@@ -2114,15 +2089,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), business (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** critic_rating (2), movies_basic (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Filter movies by score
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-filter-movies-by-score?u=76281980)
+#### [Challenge: Filter movies by score](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-filter-movies-by-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,14 +2118,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 5.1 (1), 7.1 (1), 8.9 (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Filter movies by score
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-filter-movies-by-score?u=76281980)
+#### [Solution: Filter movies by score](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-filter-movies-by-score?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2199,7 +2171,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** movies_basic (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
@@ -2209,8 +2180,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add data to tables with INSERT
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980)
+#### [Add data to tables with INSERT](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,11 +2188,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=8)** In this video, I'll show how to write them by hand but most often, they're generated automatically by other computer programs and added into the table autonomously.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=18)** In fact, that's what the load bulk data wizard in the MySQL Workbench does.
+> **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=18)** In fact, that's what the load bulk data wizard in the [[MySQL]] Workbench does.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=21)** It generates insert statements from imported data files.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=25)** So I've got my SQL tab here and I'll start this statement with insert into movies basic.
+> **[0:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=25)** So I've got my [[SQL]] tab here and I'll start this statement with insert into movies basic.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-mysql-development-22651630/add-data-to-tables-with-insert?u=76281980&t=31)** And then I want to list the columns that I want to add data to.
 >
@@ -2274,7 +2244,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (2), [[MySQL]] (1), power (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mysql (1)
 > **Versions:** 7.2 (1)
@@ -2282,18 +2252,17 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [narrator] (1)
 
-#### Update existing rows with UPDATE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980)
+#### [Update existing rows with UPDATE](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=0)** - [Tutor] Once data is loaded into a MySQL table it's not set in stone.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=0)** - [Tutor] Once data is loaded into a [[MySQL]] table it's not set in stone.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=4)** Using an update statement, you can change the values in any row or in many rows at once.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=10)** If use update, you'll choose a table and the columns whose values you want to change and you'll also include a WHERE clause, just like in a select query to filter the rows you want to update.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=18)** So I've got an SQL tab here.
+> **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=18)** So I've got an [[SQL]] tab here.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-mysql-development-22651630/update-existing-rows-with-update?u=76281980&t=20)** I'm going to start writing my update statement for the movie's basic table.
 >
@@ -2373,7 +2342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (3), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MySQL]] (2)
 > **Env Vars:** where (8), sql (3)
 > **SQL:** where (8)
 > **CLI Commands:** mysql (2), make (1)
@@ -2382,18 +2351,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 
-#### Remove data with DELETE
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980)
+#### [Remove data with DELETE](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=0)** - [Presenter] Delete statements are used to remove rows from a MySQL table.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=0)** - [Presenter] Delete statements are used to remove rows from a [[MySQL]] table.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=4)** Used carefully, they can actually remove all data from a table, so the best way to use a delete statement is to carefully identify the data you want to remove.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=13)** So tactically, delete statements are very simple.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=16)** I've got a new SQL tab here.
+> **[0:16](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=16)** I've got a new [[SQL]] tab here.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=17)** I'm going to type delete from movies basic, and I'm not going to add a semicolon just yet, because if I ran this, it would remove all the data from my table, and I definitely don't want that.
 >
@@ -2419,7 +2387,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=135)** It now starts at ID 15, but the next row that's added won't be row one again or row 14, it'll be row 54.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=145)** Frequently, this means that auto increment columns will start to look messy in tables that are in production for a long time, but this functionality is important for maintaining data integrity.
+> **[2:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=145)** Frequently, this means that auto increment columns will start to look messy in tables that are in production for a long time, but this functionality is important for maintaining [[Data Integrity]].
 >
 > **[2:35](https://www.linkedin.com/learning/learning-mysql-development-22651630/remove-data-with-delete?u=76281980&t=155)** If you need more control over the exact value in an auto increment column, then you can add it manually rather than auto increment it, or you can also change the next auto increment value by using alter table movies basic auto increment equals one.
 >
@@ -2445,15 +2413,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (4), [[SQL]] (3), database (3), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MySQL]] (2), [[Data Integrity]] (1)
 > **Env Vars:** sql (3), crud (1)
 > **CLI Commands:** mysql (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Clean up the movies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-clean-up-the-movies?u=76281980)
+#### [Challenge: Clean up the movies](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-clean-up-the-movies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2477,12 +2444,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Clean up the movies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980)
+#### [Solution: Clean up the movies](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2496,7 +2461,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=25)** I'm just going to do it as one big one.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=27)** So insert into movies, basic, and I don't want to insert into my ID columns, so I'm just going to list out the rest of the columns, let the auto increment handle that for me.
+> **[0:27](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=27)** So insert into movies, basic, and I don't want to insert into my ID columns, so I'm just going to list out the [[Representational State Transfer (REST)|rest]] of the columns, let the auto increment handle that for me.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=44)** The values.
 >
@@ -2516,7 +2481,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=81)** And I want to do this where the genre is sci-fi and the studio is Falstead Group.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=86)** So as per best practices, I'm going to open a new SQL tab and I'm going to select from movies, basic, where, genre equals sci-fi, and studio equals Falstead Group.
+> **[1:26](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=86)** So as per best practices, I'm going to open a new [[SQL]] tab and I'm going to select from movies, basic, where, genre equals sci-fi, and studio equals Falstead Group.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-clean-up-the-movies?u=76281980&t=106)** You could also do if you wanted, where studio is like Falstead with the wild card at the end, gives you the same results.
 >
@@ -2566,7 +2531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **Non-Speech:** (soft music) (1), (music ends) (1)
 > **CLI Commands:** make (1)
@@ -2578,8 +2543,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basics of JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980)
+#### [The basics of JOIN](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2591,7 +2555,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=18)** Using a single SELECT query, you can use the JOIN keyword to pull data from multiple tables matching related data across the different tables, often utilizing primary key and foreign key relationships.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=29)** MySQL supports multiple types of joins.
+> **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=29)** [[MySQL]] supports multiple types of joins.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=32)** The most basic kind of join is called an inner join, or sometimes a simple join.
 >
@@ -2619,13 +2583,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=116)** In MySQL, join, inner join, and cross join are all synonyms and can be used interchangeably.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=122)** This is different from normal SQL where inner joins require a condition and cross joins are used without a condition to match every row with every row in the other table.
+> **[2:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=122)** This is different from normal [[SQL]] where inner joins require a condition and cross joins are used without a condition to match every row with every row in the other table.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-mysql-development-22651630/the-basics-of-join?u=76281980&t=131)** With this brief explanation out of the way, let's get started joining some tables.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), database (2), [[MySQL]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (1)
 > **Env Vars:** select (1), join (1), sql (1)
 > **CLI Commands:** mysql (2)
 > **SQL:** select (1), join (1)
@@ -2633,12 +2597,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Match fields with INNER JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980)
+#### [Match fields with INNER JOIN](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=0)** - [Instructor] Inner joins are the most common type of join in MySQL.
+> **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=0)** - [Instructor] Inner joins are the most common type of join in [[MySQL]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=3)** And if you use a join clause without specifying otherwise, it's assumed to be an inner join.
 >
@@ -2652,7 +2615,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=29)** And I can do that because in the titles table, there's a studio ID column that's a foreign key that refers to the primary key, the ID column of the studio table.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=41)** So if I open a new SQL tab, I can select "titles.title" and here I am making it explicit which table the column comes from.
+> **[0:41](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=41)** So if I open a new [[SQL]] tab, I can select "titles.title" and here I am making it explicit which table the column comes from.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-fields-with-inner-join?u=76281980&t=52)** This is only technically required if the two tables that you're joining have columns that have the same name but it's always best practice to explicitly label the table a column comes from when you're joining multiple tables.
 >
@@ -2732,7 +2695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[MySQL]] (6), [[SQL]] (1), feature (1)
+> **Frameworks & Libraries:** [[MySQL]] (6), [[SQL]] (1)
 > **Code Identifiers:** critic_rating (3), studio_id (2), director_id (2), dir_name (2), titles_id (2)
 > **CLI Commands:** mysql (6), make (1)
 > **Env Vars:** select (2), join (2), sql (1), inner (1), order (1)
@@ -2741,8 +2704,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Definitions:** refers to (1)
 
-#### Match all fields with outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-all-fields-with-outer-joins?u=76281980)
+#### [Match all fields with outer joins](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-all-fields-with-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2804,11 +2766,11 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-all-fields-with-outer-joins?u=76281980&t=231)** For that reason, left outer joins are a lot more common than right outer joins.
 >
-> **[3:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-all-fields-with-outer-joins?u=76281980&t=235)** By combining different kinds of joins in SQL statements, you can create powerful and flexible queries for understanding complex datasets.
+> **[3:55](https://www.linkedin.com/learning/learning-mysql-development-22651630/match-all-fields-with-outer-joins?u=76281980&t=235)** By combining different kinds of joins in [[SQL]] statements, you can create powerful and flexible queries for understanding complex datasets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), database (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** titles_id (3), posters_titles_id_fk (1), director_name (1), director_id (1)
 > **Env Vars:** varchar30 (1), varchar10 (1), sql (1)
 > **Definitions:** is a  (1), refers to (1)
@@ -2817,8 +2779,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find the best film
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-find-the-best-film?u=76281980)
+#### [Challenge: Find the best film](https://www.linkedin.com/learning/learning-mysql-development-22651630/challenge-find-the-best-film?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2832,19 +2793,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Find the best film
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980)
+#### [Solution: Find the best film](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980&t=0)** (lively music)
 >
-> **[0:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980&t=6)** - [Instructor] To solve this challenge, I'm going to start by opening a new SQL tab and selecting the four columns that were called for in the challenge.
+> **[0:06](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980&t=6)** - [Instructor] To solve this challenge, I'm going to start by opening a new [[SQL]] tab and selecting the four columns that were called for in the challenge.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-mysql-development-22651630/solution-find-the-best-film?u=76281980&t=15)** So I'm going to select titles.title, director.dir_name, critic_rating.critics_rating and posters.filename.
 >
@@ -2884,7 +2843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Code Identifiers:** critic_rating (3), dir_name (1), critics_rating (1), titles_id (1), title_id (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** sql (1)
@@ -2897,14 +2856,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Level up your MySQL knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980)
+#### [Level up your MySQL knowledge](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980&t=0)** - [Brad] That concludes our course.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980&t=2)** If you'd like to dig a little deeper on MySQL development, be sure to check out MySQL Essential Training by Bill Weinman.
+> **[0:02](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980&t=2)** If you'd like to dig a little deeper on [[MySQL]] development, be sure to check out MySQL Essential Training by Bill Weinman.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-mysql-development-22651630/level-up-your-mysql-knowledge?u=76281980&t=10)** After finishing that course, test your knowledge with my other course, Level Up: MySQL.
 >

@@ -108,14 +108,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PHP with MySQL Essential Training: Build a CMS
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
+#### [PHP with MySQL Essential Training: Build a CMS](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980&t=0)** - [Kevin] After learning the fundamentals of working with PHP and MySQL, you'll be ready for more of the techniques that are commonly used to build real world websites.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980&t=0)** - [Kevin] After learning the fundamentals of working with [[PHP]] and [[MySQL]], you'll be ready for more of the techniques that are commonly used to build real world websites.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980&t=8)** This course increases your skills, while helping you to build a content management system.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980&t=8)** This course increases your skills, while helping you to build a [[Content Management]] system.
 >
 > **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-with-mysql-essential-training-build-a-cms?u=76281980&t=12)** It's a perfect next step.
 >
@@ -133,19 +132,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[MySQL]] (2), [[Content Management]] (1), next (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[MySQL]] (2), [[Content Management]] (1)
 > **CLI Commands:** php (3), mysql (2)
 > **Env Vars:** php (3)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=0)** - [Instructor] This course includes a set of exercise files in order to make use of those files.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=5)** You'll want to first make sure that you have PHP and MYSQL installed and working the exercise files are arranged by chapter and by movie.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=5)** You'll want to first make sure that you have [[PHP]] and [[MySQL]] installed and working the exercise files are arranged by chapter and by movie.
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=16)** And you can find the exercise files that correspond to the movie that you're watching by first looking for the chapter number, and then the movie number you should copy the exercise files into your web document root directory.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=47)** Our project will also need a database for the exercise files to work correctly, and your database needs to match what the files expect.
 >
-> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=54)** In the exercise files, you will also find a database file that ends in .SQL.
+> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=54)** In the exercise files, you will also find a database file that ends in .[[SQL]].
 >
 > **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/how-to-use-the-exercise-files-14244854?u=76281980&t=60)** You can load into my SQL to put your database into the same state as mine.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[MySQL]] (3), data (3), [[PHP]] (2), web (2)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[PHP]] (2), [[SQL]] (2)
 > **CLI Commands:** make (4), mysql (3), php (2), find (2)
 > **Exercise Files:** exercise files (10)
 > **Env Vars:** mysql (3), php (2), sql (2)
@@ -203,16 +201,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Blueprint the application
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
+#### [Blueprint the application](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=0)** - [Instructor] We will begin our PHP work by blueprinting the web application that we intend to build throughout this course.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=0)** - [Instructor] We will begin our [[PHP]] work by blueprinting the web application that we intend to build throughout this course.
 >
 > **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=6)** This will provide us with a good overview of the work that lies ahead.
 >
-> **[0:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=10)** The web application we're going to be building is a content management system or CMS for short.
+> **[0:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=10)** The web application we're going to be building is a [[Content Management]] system or CMS for short.
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=16)** The idea is that web pages, which administrators can use to create and edit content, but the public has different pages where they can read the content, but which are not editable.
 >
@@ -312,7 +309,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=248)** You can see here I have this user.
 >
-> **[4:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=249)** That's how I logged in as John Doe.
+> **[4:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=249)** That's how I logged in as [[John the Ripper|John]] Doe.
 >
 > **[4:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/blueprint-the-application-14244852?u=76281980&t=252)** And that will allow me then to review records about John Doe, to edit those, to make changes, everything like that.
 >
@@ -334,7 +331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), web application (2), cms (2), web (2), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[John the Ripper|John]] (2), [[Content Management]] (1)
 > **Env Vars:** crud (4), cms (2), php (1)
 > **CLI Commands:** make (3), php (2)
 > **UI Navigation:** click on (2), go to (2)
@@ -343,8 +340,7 @@ created: 2026-05-02
 > **File Paths:** adminsedit.php (1)
 > **Definitions:** is a  (1)
 
-#### Set up the database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980)
+#### [Set up the database](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -360,7 +356,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=25)** Then we want to have a user who has access to that database.
 >
-> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=29)** By default, there's a root user in MySQL who has access to all the databases, but that user has a lot of privileges.
+> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=29)** By default, there's a root user in [[MySQL]] who has access to all the [[Databases]], but that user has a lot of privileges.
 >
 > **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=36)** And we really would rather not use that user with our web application.
 >
@@ -392,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=104)** And then I'm going to target the globe_bank database.
 >
-> **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=107)** Then you can see I've got a less than sign followed by the path to the SQL file that I want to import.
+> **[1:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=107)** Then you can see I've got a less than sign followed by the path to the [[SQL]] file that I want to import.
 >
 > **[1:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=112)** That basically says, read this file, and send it into MySQL, send it into the globe_bank database.
 >
@@ -402,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=124)** So to interact with MySQL from the command line, I need to open up a command line application.
 >
-> **[2:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=130)** On Windows, that's command prompt.
+> **[2:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=130)** On [[Windows]], that's command prompt.
 >
 > **[2:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=132)** On a Mac, that's terminal.
 >
@@ -508,7 +504,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=348)** There's one more thing that I want to draw your attention to, which is that one of the columns in the pages table is subject_id.
 >
-> **[5:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=356)** If you'll recall from part one, that was an important aspect of how we make relational databases work, because we have one subject that has many different pages underneath it, and that's a one-to-many relationship.
+> **[5:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=356)** If you'll recall from part one, that was an important aspect of how we make [[Relational Databases]] work, because we have one subject that has many different pages underneath it, and that's a one-to-many relationship.
 >
 > **[6:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=368)** And the way that we make those one-to-many relationships is by having that subject_id.
 >
@@ -518,11 +514,11 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=385)** So that gives you a quick overview of some of the work that we did in part one, and also gets everything in place.
 >
-> **[6:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=392)** And at the end, we can just quit out of MySQL because we're actually going to be using PHP to access the database throughout most of this course.
+> **[6:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-database-14247739?u=76281980&t=392)** And at the end, we can just quit out of MySQL because we're actually going to be using [[PHP]] to access the database throughout most of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), [[MySQL]] (13), data (5), [[Databases]] (4), web application (2)
+> **Frameworks & Libraries:** [[MySQL]] (13), [[Databases]] (4), [[SQL]] (2), [[Windows]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** mysql (13), make (8), php (1)
 > **Code Identifiers:** globe_bank (9), subject_id (2), web_user (1)
 > **Tools:** command line (4), terminal (3), command prompt (1)
@@ -531,8 +527,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Set up the project files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980)
+#### [Set up the project files](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +559,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=80)** So our private directory is where we're going to put our library of functions and things like that that we're going to be using.
 >
-> **[1:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=85)** We aren't going to go through all of those and review all the work we did before, but I do want to just call your attention to initialize.php.
+> **[1:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=85)** We aren't going to go through all of those and review all the work we did before, but I do want to just call your attention to initialize.[[PHP]].
 >
 > **[1:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=92)** You remember, this was the special file that gets things kicked off for us.
 >
@@ -586,7 +581,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=136)** So that's going to load up all of those functions and database connectivity for us.
 >
-> **[2:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=140)** Then I'm using the SHARED_PATH constant that we created in part one in order to locate some new files, public_header and public_footer, and then between, I've just got some basic HTML here that we're going to use to structure our page.
+> **[2:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=140)** Then I'm using the SHARED_PATH constant that we created in part one in order to locate some new files, public_header and public_footer, and then between, I've just got some basic [[HTML]] here that we're going to use to structure our page.
 >
 > **[2:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-up-the-project-files-14245856?u=76281980&t=155)** Let's take a look at public_header and public_footer.
 >
@@ -642,7 +637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), database (6), web (4), css (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1)
 > **CLI Commands:** php (8), make (2), find (1)
 > **File Paths:** index.php (4), initialize.php (3), public_header.php (1), staff.css (1), public.css (1)
 > **Code Identifiers:** public_footer (4), public_header (3), require_once (1), url_for (1), gbi_logo (1)
@@ -656,8 +651,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### List subjects
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
+#### [List subjects](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +659,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=7)** We'll begin by creating a list of the current subjects in the navigation.
 >
-> **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=12)** This is going to apply the skills that we learned in part one of this course, and it also gives us an opportunity to do a quick review of how PHP interacts with the database.
+> **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=12)** This is going to apply the skills that we learned in part one of this course, and it also gives us an opportunity to do a quick review of how [[PHP]] interacts with the database.
 >
 > **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=21)** If you'll remember, there are five basic steps to PHP-database interaction.
 >
@@ -683,15 +677,15 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=52)** Let's look at it in PHP code.
 >
-> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=54)** Here, you can see I'm using the mysqli connect function and passing it in the server name, the username and password to access my SQL, and then the database name I want to use.
+> **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=54)** Here, you can see I'm using the mysqli connect function and passing it in the server name, the username and password to access my [[SQL]], and then the database name I want to use.
 >
 > **[1:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=64)** I'm going to assign that handle to the variable DB, and from then on whenever I want to talk to my SQL database, I can use that open connection that's assigned to the variable DB.
 >
-> **[1:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=73)** I compose the SQL that I want and I assign that to the variable SQL, and then I call mysqli query, pass in the database connection handle and my SQL that I want to send to it, and I get back a result and I assign that to subject set.
+> **[1:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=73)** I [[Jetpack Compose|compose]] the SQL that I want and I assign that to the variable SQL, and then I call mysqli query, pass in the database connection handle and my SQL that I want to send to it, and I get back a result and I assign that to subject set.
 >
 > **[1:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=87)** Now this is a my SQL set of results.
 >
-> **[1:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=91)** In order to extract results from that set, I have to use mysqli fetch assoc and what that does is it returns an associative array that I can work with for each one.
+> **[1:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=91)** In order to extract results from that set, I have to use mysqli [[Fetch]] assoc and what that does is it returns an associative array that I can work with for each one.
 >
 > **[1:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=101)** You'll remember that we used a while loop as a very clever way to pull each of those records out of the subject set until they go away.
 >
@@ -765,7 +759,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=333)** That is the key in the associative array that's going to return back the menu name for this particular subject.
 >
-> **[5:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=339)** You may remember that in part one of this course, we defined this H function as a shortcut for calling HTML special characters, HTML special chars.
+> **[5:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=339)** You may remember that in part one of this course, we defined this H function as a shortcut for calling [[HTML]] special characters, HTML special chars.
 >
 > **[5:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-subjects-14247737?u=76281980&t=349)** That's all it is, it's a shortcut for that and it allows us to escape any special characters that might be in that menu name and prevents cross site scripting it.
 >
@@ -795,7 +789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[PHP]] (12), [[SQL]] (10), [[HTML]] (3), data (2)
+> **Frameworks & Libraries:** [[PHP]] (12), [[SQL]] (10), [[HTML]] (3), [[Jetpack Compose|Compose]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (10), php (5), html (3), url (2)
 > **CLI Commands:** php (12), make (4), find (2)
 > **File Paths:** initialize.php (3), index.php (2), database.php (1), public_navigation.php (1)
@@ -804,8 +798,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
 
-#### Add pages for each subject
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980)
+#### [Add pages for each subject](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,15 +854,15 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=147)** All right, so let's set about modifying this so that it would work.
 >
-> **[2:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=150)** The SQL we want is we want to find all from the pages table where the subject ID is equal to the subject ID.
+> **[2:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=150)** The [[SQL]] we want is we want to find all from the pages table where the subject ID is equal to the subject ID.
 >
 > **[2:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=160)** Now one advantage of reusing this code is that we already have this DB escape in there.
 >
 > **[2:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=165)** You may remember that this was a function that we created in part one.
 >
-> **[2:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=168)** It's inside database.php.
+> **[2:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=168)** It's inside database.[[PHP]].
 >
-> **[2:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=171)** And you'll see down here, we have DB escape which calls MySQL real escape string and protects us against SQL injection.
+> **[2:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=171)** And you'll see down here, we have DB escape which calls [[MySQL]] real escape string and protects us against SQL injection.
 >
 > **[2:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-pages-for-each-subject-14249660?u=76281980&t=179)** That's the purpose of that, to make sure that we escape any values that might be sent in dynamically.
 >
@@ -961,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[SQL]] (3), [[PHP]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** find (11), make (4), php (1), mysql (1)
 > **Env Vars:** sql (3)
 > **Definitions:** is a  (1), is called (1)
@@ -970,8 +963,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** click on (1)
 
-#### Add page content
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980)
+#### [Add page content](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=20)** There are a few files that are included in the exercise files that we're going to be using here.
 >
-> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=23)** The first is static_homepage.php.
+> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=23)** The first is static_homepage.[[PHP]].
 >
 > **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=26)** I'm going to grab that page and just drag it into the shared directory, inside private shared I'm going to add static_homepage.php.
 >
@@ -1009,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=78)** Let's take a quick look at that file.
 >
-> **[1:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=79)** Static_homepage.php you can see up here, it's got a hero image at the top, it's got a div with ID content, and then it's got some HTML down here showing a couple of other images with a bit of text around them all the way down the page, all right, something very simple.
+> **[1:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=79)** Static_homepage.php you can see up here, it's got a hero image at the top, it's got a div with ID content, and then it's got some [[HTML]] down here showing a couple of other images with a bit of text around them all the way down the page, all right, something very simple.
 >
 > **[1:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=93)** So let's switch back to index.php, and the way that I'm going to do that is I'm actually going to just take this include line we had before and I'm going to paste it right in here.
 >
@@ -1017,7 +1009,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=111)** Now, we're going to show the homepage.
 >
-> **[1:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=113)** There are a couple of different ways that we can handle the homepage when we're working with the content management system.
+> **[1:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=113)** There are a couple of different ways that we can handle the homepage when we're working with the [[Content Management]] system.
 >
 > **[1:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=118)** The first is that it could be static content, that's just right here inside index.php.
 >
@@ -1041,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=169)** Now, in the real world, from my experience with my clients, I find it's about half and half, whether it's static content or database driven content.
 >
-> **[2:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=177)** And the reason why is because a lot of times what gets displayed on the homepage is fundamentally different from the rest of the site.
+> **[2:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=177)** And the reason why is because a lot of times what gets displayed on the homepage is fundamentally different from the [[Representational State Transfer (REST)|rest]] of the site.
 >
 > **[3:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=183)** It might be a slide show, it might be just some opening static content just describing, you know, basics about the company, something that doesn't change necessarily very often.
 >
@@ -1077,7 +1069,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=267)** So if we go back to lists, we click on edit, here what we want to do is add in the content for each and every one of those.
 >
-> **[4:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=273)** Now you can do that yourself, I've also got, inside the page content folder I've provided snippets for what should go in each and every one of those, or the shortcut here is just to import the file, just to open up terminal and use mysql, user, web, user, -p and then globe_bank, and then import from the exercise files the file that you want.
+> **[4:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=273)** Now you can do that yourself, I've also got, inside the page content folder I've provided snippets for what should go in each and every one of those, or the shortcut here is just to import the file, just to open up terminal and use [[MySQL]], user, web, user, -p and then globe_bank, and then import from the exercise files the file that you want.
 >
 > **[5:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-content-14248709?u=76281980&t=300)** Just drag it in here, that'll import it once you provide the password, it'll replace what you have now for your pages and your subjects, and yours will be exactly like mine.
 >
@@ -1109,7 +1101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[PHP]] (9), [[Content Management]] (2), next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Content Management]] (2), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[MySQL]] (1)
 > **CLI Commands:** php (9), make (4), find (3), mysql (1)
 > **File Paths:** static_homepage.php (4), index.php (3), public/staffindex.php (1)
 > **Code Identifiers:** static_homepage (3), homepage_assets (1), page_assets (1), globe_bank (1)
@@ -1118,8 +1110,7 @@ created: 2026-05-02
 > **Env Vars:** html (1), php (1)
 > **Exercise Files:** exercise files (2)
 
-#### Use navigation to select pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980)
+#### [Use navigation to select pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=34)** Let's walk through it together.
 >
-> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=36)** Let's go to our code, we want to go into the public_navigation and right here where we're outputting the nav_page, menu_name, right above it we have a link and that link right now just goes to index.php.
+> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=36)** Let's go to our code, we want to go into the public_navigation and right here where we're outputting the nav_page, menu_name, right above it we have a link and that link right now just goes to index.[[PHP]].
 >
 > **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=47)** It also needs to send a URL parameter.
 >
@@ -1145,7 +1136,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=62)** We know that we need to URL encode that, and we made a shortcut function for that just called u, that'll make sure that the value is safe to put into a URL.
 >
-> **[1:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=73)** And we also know that we want to use h around it as well, because we want to html escape it, using html special chars to make sure that it's safe to output in our html.
+> **[1:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=73)** And we also know that we want to use h around it as well, because we want to [[HTML]] escape it, using html special chars to make sure that it's safe to output in our html.
 >
 > **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-navigation-to-select-pages-14244855?u=76281980&t=83)** So now we know this page id is safe, both for the URL and our HTML.
 >
@@ -1263,7 +1254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), database (4), [[PHP]] (4), data (1), hit (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[PHP]] (4)
 > **Env Vars:** url (6), html (3), todo (2)
 > **CLI Commands:** php (4), find (3), make (3)
 > **Code Identifiers:** page_id (3), nav_page (2), find_page_by_id (2), public_navigation (1), menu_name (1)
@@ -1272,8 +1263,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
 > **API Endpoints:** get  (1)
 
-#### Highlight the current page
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980)
+#### [Highlight the current page](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=54)** It says, anytime there's that then any A tag that's inside of it will be a different color.
 >
-> **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=60)** So all we have to do is have this class added to our HTML and then it will indicate which one has been selected.
+> **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=60)** So all we have to do is have this class added to our [[HTML]] and then it will indicate which one has been selected.
 >
 > **[1:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=68)** Now, I think this approach, adding a class when something is selected, is a better approach than actually going into here and having different content, actually having some different HTML that we would replace instead of this.
 >
@@ -1313,7 +1303,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=110)** We don't want them all to be selected, we want this to be conditional.
 >
-> **[1:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=114)** Let's write some PHP that'll do that for us.
+> **[1:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=114)** Let's write some [[PHP]] that'll do that for us.
 >
 > **[1:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=116)** So we want to say if nav page ID is equal to, and what we want to check it against is page ID.
 >
@@ -1375,7 +1365,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=293)** Let's go back, and look at that, About Globe Bank is selected.
 >
-> **[4:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=297)** still selected History, when I click down here on Consumer Banking, now Consumer is selected, About Globe Bank is not selected anymore.
+> **[4:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=297)** still selected History, when I click down here on Consumer [[Banking]], now Consumer is selected, About Globe Bank is not selected anymore.
 >
 > **[5:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/highlight-the-current-page-14245855?u=76281980&t=304)** See how that works?
 >
@@ -1383,7 +1373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (2), data (2), css (1), leadership (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (2), [[Banking]] (1)
 > **CLI Commands:** php (5), make (2), find (1)
 > **Env Vars:** php (3), html (2), url (1)
 > **UI Navigation:** click on (4), scroll down (1), go to (1)
@@ -1392,14 +1382,13 @@ created: 2026-05-02
 > **Code Identifiers:** subject_id (1)
 > **Versions:** php 7 (1)
 
-#### Challenge: Collapsing navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980)
+#### [Challenge: Collapsing navigation](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=0)** - [Instructor] It's time for your first challenge assignment.
 >
-> **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=3)** I'm going to ask you to use some of the PHP skills that we've been using so far to add another feature to our navigation.
+> **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=3)** I'm going to ask you to use some of the [[PHP]] skills that we've been using so far to add another feature to our navigation.
 >
 > **[0:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=10)** I call it the Collapsing Navigation.
 >
@@ -1411,9 +1400,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=25)** If it's not selected, then we would not see its pages.
 >
-> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=28)** This kind of accordion effect, where the different subjects collapse and expand, is sometimes done with JavaScript, but we're not doing that here.
+> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=28)** This kind of accordion effect, where the different subjects collapse and expand, is sometimes done with [[JavaScript]], but we're not doing that here.
 >
-> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=36)** We're going to be doing this just using PHP and HTML.
+> **[0:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=36)** We're going to be doing this just using PHP and [[HTML]].
 >
 > **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-collapsing-navigation-14250498?u=76281980&t=40)** So the way it's going to work is that each subject name is going to be a link, in fact, it already is, and clicking on one of those links is going to show the pages that are underneath that subject.
 >
@@ -1461,7 +1450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), feature (1), [[JavaScript]] (1), [[HTML]] (1), business (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (5)
 > **Env Vars:** php (2), html (1)
 > **CLI Commands:** php (2)
@@ -1470,8 +1459,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Collapsing navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980)
+#### [Solution: Collapsing navigation](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1493,11 +1481,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=54)** So I'm using nav_subject id.
 >
-> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=56)** I'm making sure that I URL encode it and I HTML escape it.
+> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=56)** I'm making sure that I URL encode it and I [[HTML]] escape it.
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=61)** So once I have that, now I have a link that will send that parameter.
 >
-> **[1:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=65)** On index.php, I'm going to read that parameter.
+> **[1:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=65)** On index.[[PHP]], I'm going to read that parameter.
 >
 > **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=69)** You can see that I already had code here to check and see if id was set.
 >
@@ -1509,7 +1497,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=87)** So if it is set, then I'm going to just set subject_id equal to that value.
 >
-> **[1:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=93)** Now, we'll come back to the rest of this in just a moment.
+> **[1:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=93)** Now, we'll come back to the [[Representational State Transfer (REST)|rest]] of this in just a moment.
 >
 > **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-collapsing-navigation-14247736?u=76281980&t=95)** For now, I have a subject_id.
 >
@@ -1581,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1), [[PHP]] (1)
 > **Code Identifiers:** subject_id (10), page_id (5), nav_subject (1), find_pages_by_subject_id (1), mysqli_fetch_assoc (1)
 > **CLI Commands:** find (3), make (2), php (1)
 > **Env Vars:** url (1), html (1)
@@ -1595,8 +1583,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The public context
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
+#### [The public context](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1591,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=13)** We've already seen one key difference between the public side and the staff side, which is that the staff can edit content.
 >
-> **[0:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=19)** They have access to all of that content management system we created, which does CRUD, create, read, update, and delete records.
+> **[0:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=19)** They have access to all of that [[Content Management]] system we created, which does CRUD, create, read, update, and delete records.
 >
 > **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=26)** The public side, on the other hand, can only read content.
 >
@@ -1626,7 +1613,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=82)** In addition, the staff is going to be working with its content in the backend area in its raw form.
 >
-> **[1:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=88)** That means the staff will want to be able to actually see the HTML tags that they're putting in so they'll know what kind of HTML tag is being used.
+> **[1:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=88)** That means the staff will want to be able to actually see the [[HTML]] tags that they're putting in so they'll know what kind of HTML tag is being used.
 >
 > **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=95)** If it's an H1 tag or an H2 tag, that makes a difference when we're editing it.
 >
@@ -1684,7 +1671,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=225)** Instead of our find all subjects function, we could have find all visible subjects.
 >
-> **[3:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=230)** It would be very similar, it would just include a check for whether or not the subject was visible inside the SQL query.
+> **[3:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=230)** It would be very similar, it would just include a check for whether or not the subject was visible inside the [[SQL]] query.
 >
 > **[3:59](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/the-public-context-14249659?u=76281980&t=239)** We can also use our existing function, find all subjects, but then after we get back those records, as we're looping through them, we could skip any of them that are not marked as being visible.
 >
@@ -1716,7 +1703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[HTML]] (3), feature (2), [[SQL]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[SQL]] (2), [[Content Management]] (1)
 > **CLI Commands:** find (4), make (3)
 > **Env Vars:** html (3), sql (2), crud (1)
 > **Cross-References:** go back to (2), in the next (2)
@@ -1725,8 +1712,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skip hidden subjects and pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980)
+#### [Skip hidden subjects and pages](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1756,7 +1742,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980&t=61)** We could put all of this inside there.
 >
-> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980&t=63)** So they would only do that if it's visible or an even more efficient way to do it in PHP is to say, if it's not visible, then continue, continue is a PHP function for loop control.
+> **[1:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980&t=63)** So they would only do that if it's visible or an even more efficient way to do it in [[PHP]] is to say, if it's not visible, then continue, continue is a PHP function for loop control.
 >
 > **[1:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/skip-hidden-subjects-and-pages-14247726?u=76281980&t=75)** It basically just says, start the next loop immediately.
 >
@@ -1822,7 +1808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[PHP]] (3), business (2), data (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** find (5), php (3)
 > **UI Navigation:** go to (3), click on (3)
 > **Env Vars:** php (2)
@@ -1831,8 +1817,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Use an option for conditional code
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980)
+#### [Use an option for conditional code](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1854,7 +1839,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=47)** You can see here in my code, I'm checking the options to see if there is an option for visible.
 >
-> **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=52)** And if there is, I'm setting the variable visible to it, I'm also using the double question mark, that's the new null coalescing operator from PHP seven.
+> **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=52)** And if there is, I'm setting the variable visible to it, I'm also using the double question mark, that's the new null coalescing operator from [[PHP]] seven.
 >
 > **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=60)** It's a handy way to set it to a default value so that if an option for visible is not sent, then it will default to being false.
 >
@@ -1866,7 +1851,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=84)** So here you can see I'm passing in order ascending as well.
 >
-> **[1:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=88)** So presumably my function would take that into account and change its SQL to change the order of the results that were being returned.
+> **[1:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=88)** So presumably my function would take that into account and change its [[SQL]] to change the order of the results that were being returned.
 >
 > **[1:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-an-option-for-conditional-code-14251163?u=76281980&t=95)** Notice also that one advantage of using an associative array is that all of our values that are being sent in are clearly labeled, we know what they are.
 >
@@ -2012,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), [[PHP]] (2), feature (1), business (1)
+> **Frameworks & Libraries:** [[SQL]] (5), [[PHP]] (2)
 > **CLI Commands:** find (8), make (4), php (2)
 > **Env Vars:** sql (5), where (3), php (1)
 > **Definitions:** is a  (3), is an  (2), means that (1)
@@ -2021,8 +2006,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **File Paths:** index.php (1)
 
-#### Insecure Direct Object Reference (IDOR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980)
+#### [Insecure Direct Object Reference (IDOR)](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2040,7 +2024,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=28)** Basically, you're viewing something you should not be able to see.
 >
-> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=32)** This has been ranked as the number four security threat by OWASP, the Open Web Application Security Project.
+> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=32)** This has been ranked as the number four security threat by [[OWASP]], the Open [[Web Application Security]] Project.
 >
 > **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=37)** So it's a big deal, and it's very common.
 >
@@ -2054,7 +2038,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=57)** So I have our receipt ID, SS48923.
 >
-> **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=61)** So then we have PHP code that's going to take that URL.
+> **[1:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=61)** So then we have [[PHP]] code that's going to take that URL.
 >
 > **[1:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=65)** It's going to look at that ID.
 >
@@ -2064,7 +2048,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=75)** A user has direct access to the invoice.
 >
-> **[1:18](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=78)** The invoice ID goes directly to the SQL and returns back the data.
+> **[1:18](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=78)** The invoice ID goes directly to the [[SQL]] and returns back the data.
 >
 > **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/insecure-direct-object-reference-idor?u=76281980&t=83)** It's insecure because there's never any verification that the user is authorized to view this invoice.
 >
@@ -2138,7 +2122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Security]] (3), application (2), [[PHP]] (2), data (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[OWASP]] (1), [[Web Application Security]] (1), [[SQL]] (1)
 > **Env Vars:** url (5), idor (1), owasp (1), ss48923 (1), php (1)
 > **CLI Commands:** make (5), php (2), find (1)
 > **UI Navigation:** click on (2)
@@ -2147,8 +2131,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Protect page visibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980)
+#### [Protect page visibility](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2188,7 +2171,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=90)** So visible equals options visible, and we'll use false as a default.
 >
-> **[1:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=98)** And now we need to modify our SQL so that if visible, then we're going to use the append and we're going to add and, so we had where ID equals something and visible equals true.
+> **[1:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=98)** And now we need to modify our [[SQL]] so that if visible, then we're going to use the append and we're going to add and, so we had where ID equals something and visible equals true.
 >
 > **[1:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=116)** And let's put semi-colon at the end.
 >
@@ -2206,7 +2189,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=140)** Let's reload our page and sure enough, it redirected us to our homepage, that's what happened.
 >
-> **[2:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=145)** And that makes sense, because if we look at index.PHP, it tried to find the page by the ID, using the fact that it should be visible.
+> **[2:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=145)** And that makes sense, because if we look at index.[[PHP]], it tried to find the page by the ID, using the fact that it should be visible.
 >
 > **[2:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=152)** It didn't find anything.
 >
@@ -2216,7 +2199,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=160)** Notice that if I click on consumer, it says subject ID equals two.
 >
-> **[2:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=165)** And I see the content for banking, right?
+> **[2:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=165)** And I see the content for [[Banking]], right?
 >
 > **[2:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/protect-page-visibility-14248707?u=76281980&t=167)** What if I type in, subject ID equals three, that's a subject that's not visible.
 >
@@ -2314,7 +2297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), database (4), business (3), application (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PHP]] (1), [[Banking]] (1)
 > **CLI Commands:** find (15), make (8), php (1)
 > **Env Vars:** sql (4), url (1), php (1)
 > **UI Navigation:** scroll up (2), click on (2), go to (1)
@@ -2323,14 +2306,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - in (1)
 
-#### Allow HTML in dynamic content
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980)
+#### [Allow HTML in dynamic content](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=0)** - [Instructor] Now that we've addressed the issues around page visibility in the public context, let's move on to another difference that we highlighted at the beginning of this chapter.
 >
-> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=8)** The staff context and the public context are going to handle the HTML that's stored in the database for our page content differently.
+> **[0:08](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=8)** The staff context and the public context are going to handle the [[HTML]] that's stored in the database for our page content differently.
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=16)** In the staff area, when we view a page, we want to see the HTML.
 >
@@ -2376,7 +2358,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=152)** You can find out more information about it at [daringfireball.net/projects/markdown](https://daringfireball.net/projects/markdown).
 >
-> **[2:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=159)** This is going to tell you about markdown, but if you actually want to use it, you've got to install a PHP markdown library, something that will convert the markdown symbolic language into HTML using PHP.
+> **[2:39](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=159)** This is going to tell you about markdown, but if you actually want to use it, you've got to install a [[PHP]] markdown library, something that will convert the markdown symbolic language into HTML using PHP.
 >
 > **[2:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/allow-html-in-dynamic-content-14249662?u=76281980&t=171)** If you search for markdown and PHP, you'll find that there are a number of those out there.
 >
@@ -2470,7 +2452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (27), [[PHP]] (6), database (2), power (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (27), [[PHP]] (6)
 > **Env Vars:** html (27), php (6)
 > **CLI Commands:** php (6), make (4), find (2)
 > **Definitions:** is a  (3), stands for (1)
@@ -2479,8 +2461,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Challenge: Preview content
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980)
+#### [Challenge: Preview content](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2492,7 +2473,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=20)** Let's go over a few of the key points together.
 >
-> **[0:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=22)** You want to add a preview link in the staff area on public, staff, pages, show.php.
+> **[0:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=22)** You want to add a preview link in the staff area on public, staff, pages, show.[[PHP]].
 >
 > **[0:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=30)** You can put it right before the edit and delete links.
 >
@@ -2502,7 +2483,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=48)** You're going to that in a new window.
 >
-> **[0:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=50)** You can do that using "target=blank" in HTML to bring up a new window.
+> **[0:50](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=50)** You can do that using "target=blank" in [[HTML]] to bring up a new window.
 >
 > **[0:55](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-preview-content-14249658?u=76281980&t=55)** And when it goes to render the page, it's going to work just like normal except when it's in preview mode like this, it's not going to check for page or even subject visibility.
 >
@@ -2530,7 +2511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[PHP]] (2), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[HTML]] (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** url (2), html (1)
 > **File Paths:** show.php (1), public/index.php (1)
@@ -2539,8 +2520,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Preview content
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980)
+#### [Solution: Preview content](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2552,7 +2532,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=17)** Now, let me show you the solution that I came up with.
 >
-> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=20)** The first thing that I did was I went into the public directory, into staff, into pages, and found show.php.
+> **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=20)** The first thing that I did was I went into the public directory, into staff, into pages, and found show.[[PHP]].
 >
 > **[0:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=27)** And on that page, I added a link.
 >
@@ -2566,7 +2546,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=43)** That's the current page ID that I'm working with in the staff area.
 >
-> **[0:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=46)** I used good escaping techniques on that using URL, and code, and HTML special chars.
+> **[0:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=46)** I used good escaping techniques on that using URL, and code, and [[HTML]] special chars.
 >
 > **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=51)** So it's going to have both of those shortcuts applied to it.
 >
@@ -2672,7 +2652,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=233)** And it should just disappear on its own, right?
 >
-> **[3:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=236)** So preview=true is a bit of magic because setting that value enables or disables the visibility that we've been setting throughout the rest of this chapter.
+> **[3:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=236)** So preview=true is a bit of magic because setting that value enables or disables the visibility that we've been setting throughout the [[Representational State Transfer (REST)|rest]] of this chapter.
 >
 > **[4:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-preview-content-14244853?u=76281980&t=246)** Hopefully, you were able to come up with a similar solution.
 >
@@ -2680,7 +2660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), feature (1), application (1), [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (3), make (2), find (1)
 > **Env Vars:** url (3), html (1)
 > **File Paths:** index.php (2), show.php (1)
@@ -2694,12 +2674,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
+#### [Work with cookies](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=0)** - [Instructor] In this chapter, we're going to be learning about how to work with cookies and sessions in PHP.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=0)** - [Instructor] In this chapter, we're going to be learning about how to work with cookies and sessions in [[PHP]].
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=5)** This is an important topic because cookies and sessions are going to allow us to store data, but more importantly, they're going to be the tools that enable us to perform authorization or user log-ins in the next chapter.
 >
@@ -2719,7 +2698,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=51)** Then when the web server responds back to the browser, it sends back a response.
 >
-> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=56)** And that response is probably a lot of HTML that the browser can display.
+> **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=56)** And that response is probably a lot of [[HTML]] that the browser can display.
 >
 > **[1:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=60)** But in the header of that response, the web browser can include a directive called Set-Cookie, and you can see it there in the third line.
 >
@@ -2747,7 +2726,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=133)** Cookies actually have a maximum size of four kilobytes, that's around 4,000 characters.
 >
-> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=139)** But you wouldn't want to use all of that, you wouldn't want to send 4,000 characters with every single request that you make to the website, whether it be for some JavaScript or an image or anything like that, you'd be sending that data each and every time.
+> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=139)** But you wouldn't want to use all of that, you wouldn't want to send 4,000 characters with every single request that you make to the website, whether it be for some [[JavaScript]] or an image or anything like that, you'd be sending that data each and every time.
 >
 > **[2:31](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-cookies-14247738?u=76281980&t=151)** We want to keep cookies and cookie data small.
 >
@@ -2791,7 +2770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[PHP]] (8), web (7), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (5), html (1), http (1)
 > **Cross-References:** we talked about (4), in the next (1)
@@ -2800,12 +2779,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **URLs:** [fakesite.com](https://fakesite.com) (1)
 
-#### Set and read cookie values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980)
+#### [Set and read cookie values](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=0)** - [Instructor] In this movie, we'll learn to use PHP to set and read cookie values.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=0)** - [Instructor] In this movie, we'll learn to use [[PHP]] to set and read cookie values.
 >
 > **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=5)** PHP has a function for setting cookie values and it's called, set cookie.
 >
@@ -2839,7 +2817,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=71)** HTTP only says that this cookie should only be sent along with the header.
 >
-> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=77)** In other words, it should not be available to JavaScript.
+> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=77)** In other words, it should not be available to [[JavaScript]].
 >
 > **[1:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-cookie-values-14245857?u=76281980&t=80)** What we're doing is keeping hackers from being able to use JavaScript to steal cookie data from us.
 >
@@ -3033,7 +3011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), data (6), [[JavaScript]] (3), next (2), hit (2)
+> **Frameworks & Libraries:** [[PHP]] (9), [[JavaScript]] (3)
 > **Env Vars:** php (9), https (2), http (2), url (2), phb (1)
 > **CLI Commands:** php (9), make (2)
 > **File Paths:** language.php (3)
@@ -3042,14 +3020,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 
-#### Unset cookie values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980)
+#### [Unset cookie values](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980&t=0)** - [Instructor] In this movie, we're going to talk about how you unset cookie values because it's not as obvious as you might first think.
 >
-> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980&t=6)** A lot of beginners think that you can unset a cookie by using PHP's unset function.
+> **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980&t=6)** A lot of beginners think that you can unset a cookie by using [[PHP]]'s unset function.
 >
 > **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/unset-cookie-values-14249655?u=76281980&t=11)** After all, that works to unset the value of a variable, it even works to unset the value of an associative array.
 >
@@ -3099,15 +3076,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4)
 > **Env Vars:** php (4)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980)
+#### [Work with sessions](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3115,7 +3091,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=3)** Sessions solve a similar problem to cookies, but they do it in a different way, and they have different strengths and weaknesses.
 >
-> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=9)** So let's talk about how we work with sessions in PHP.
+> **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=9)** So let's talk about how we work with sessions in [[PHP]].
 >
 > **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=12)** When we're going to work with sessions, the way the process works is that we're going to store data in a session file.
 >
@@ -3147,7 +3123,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=72)** You remember with cookies, the cookie data is sent with every single request.
 >
-> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=77)** It doesn't matter if that request is for an HTML page or if it's for a piece of JavaScript, or for an image file.
+> **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=77)** It doesn't matter if that request is for an [[HTML]] page or if it's for a piece of [[JavaScript]], or for an image file.
 >
 > **[1:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/work-with-sessions-14247734?u=76281980&t=83)** It sends the cookie data along with every request.
 >
@@ -3253,7 +3229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[PHP]] (7), web (4), next (2), strengths (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** php (7), find (2)
 > **Env Vars:** php (4), html (1), url (1)
 > **Prerequisites:** configure (4)
@@ -3262,12 +3238,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), in the next (1)
 > **UI Navigation:** go to (2)
 
-#### Set and read session values
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-session-values-14250493?u=76281980)
+#### [Set and read session values](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-session-values-14250493?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-session-values-14250493?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to use PHP to set and read values in the session file.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-session-values-14250493?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to use [[PHP]] to set and read values in the session file.
 >
 > **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/set-and-read-session-values-14250493?u=76281980&t=6)** In order to set a value in the session, all we have to do is use the super global and assign a value to a key, just like we would any associative array.
 >
@@ -3467,7 +3442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), data (3), database (3), application (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (17)
 > **CLI Commands:** php (17), make (8), find (2)
 > **File Paths:** login.php (4), initialize.php (3), index.php (2), logout.php (1), staff_header.php (1)
 > **Env Vars:** php (4), session (4), sessions (1)
@@ -3476,8 +3451,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Status messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980)
+#### [Challenge: Status messages](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3495,7 +3469,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980&t=35)** So to make this work, I want you to go into the staff area into both staff subjects and in staff pages.
 >
-> **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980&t=45)** And on the new.php, edit .php and delete .php pages where we actually make changes to the database.
+> **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980&t=45)** And on the new.[[PHP]], edit .php and delete .php pages where we actually make changes to the database.
 >
 > **[0:52](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-status-messages-14248706?u=76281980&t=52)** Once a change takes effect, and we do a redirect, you want to store a status message right before the redirect.
 >
@@ -3525,7 +3499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), database (2), application (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** make (5), php (3)
 > **File Paths:** new.php (1)
 > **Cross-References:** in the next (1)
@@ -3533,8 +3507,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Status messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980)
+#### [Solution: Status messages](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3554,7 +3527,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=38)** All right, let's take a look to see how we do that.
 >
-> **[0:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=41)** So the first thing I did was I went into subjects and I went to new.php and I said, all right, let's find the spot where the new record is created, right, that's here, insert subject, and if it is created successfully, then we redirect the user to the show page.
+> **[0:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=41)** So the first thing I did was I went into subjects and I went to new.[[PHP]] and I said, all right, let's find the spot where the new record is created, right, that's here, insert subject, and if it is created successfully, then we redirect the user to the show page.
 >
 > **[0:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=58)** So right before we do that, we want to store this message in the session.
 >
@@ -3584,7 +3557,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=139)** So it gets the current value, unsets it, returns the current value.
 >
-> **[2:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=143)** So that value then gets set here, if that value is not blank, then I take that message and I wrap it in some HTML, making sure that I call HTML special chars on it so that it's safe for HTML, and then that value would be output in the code.
+> **[2:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=143)** So that value then gets set here, if that value is not blank, then I take that message and I wrap it in some [[HTML]], making sure that I call HTML special chars on it so that it's safe for HTML, and then that value would be output in the code.
 >
 > **[2:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=157)** I can just echo that value.
 >
@@ -3598,7 +3571,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=176)** Now, if there are no results, if there's nothing in the session, I'll get nothing back, so it won't echo anything at all.
 >
-> **[3:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=181)** But if there is, then it'll drop that code in there right below the navigation, right before the rest of the page content.
+> **[3:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=181)** But if there is, then it'll drop that code in there right below the navigation, right before the [[Representational State Transfer (REST)|rest]] of the page content.
 >
 > **[3:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-status-messages-14246845?u=76281980&t=187)** This is a good way to make sure that it's on all of the staff pages, to put it right here in the header.
 >
@@ -3622,7 +3595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[PHP]] (2), application (1), data (1), database (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[PHP]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** php (2), make (2), find (1)
 > **File Paths:** new.php (1), edit.php (1), staff.css (1)
 > **Env Vars:** html (3)
@@ -3636,8 +3609,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User authentication overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
+#### [User authentication overview](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3651,7 +3623,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980&t=20)** User authentication is essential in any modern web application because they almost always have some kind of password protected area.
 >
-> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980&t=28)** Maybe it's a content management system where staff or admins are able to update content that the public sees.
+> **[0:28](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980&t=28)** Maybe it's a [[Content Management]] system where staff or admins are able to update content that the public sees.
 >
 > **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/user-authentication-overview-14245854?u=76281980&t=33)** That's the case in our application that we're building.
 >
@@ -3765,7 +3737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), database (5), [[Security]] (3), data (2), web application (1)
+> **Frameworks & Libraries:** [[Content Management]] (1)
 > **Analogies:** it's like (2), imagine (1), picture (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1), in the last (1)
@@ -3774,8 +3746,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Best Practices:** you should never (1)
 
-#### Create admins table
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980)
+#### [Create admins table](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3783,7 +3754,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=9)** To do that we first need a database table that can store those credentials.
 >
-> **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=14)** The SQL command we need to do this is CREATE TABLE, then we provide the table name and then in parentheses, the column definitions.
+> **[0:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=14)** The [[SQL]] command we need to do this is CREATE TABLE, then we provide the table name and then in parentheses, the column definitions.
 >
 > **[0:22](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=22)** You can see here I have a primary key of ID, then I have columns for first name, last name, email, username, and hash password.
 >
@@ -3823,7 +3794,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=111)** Let's try adding the admins table to our database.
 >
-> **[1:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=113)** The first step is to log into mysql from the command line.
+> **[1:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=113)** The first step is to log into [[MySQL]] from the command line.
 >
 > **[1:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/create-admins-table?u=76281980&t=116)** You can see I've got the here, mysql -u and I'm using my web user.
 >
@@ -3859,7 +3830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[MySQL]] (3), [[SQL]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[SQL]] (1)
 > **CLI Commands:** mysql (3), find (1)
 > **Env Vars:** sql (1), create (1), table (1)
 > **Cross-References:** we talked about (2), in the last (1)
@@ -3868,8 +3839,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Build admin management
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980)
+#### [Challenge: Build admin management](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3879,7 +3849,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980&t=9)** Much of this challenge is a review of work that we did in part one of this course.
 >
-> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980&t=13)** There, we created pages to manage the contents of the subjects and pages tables by using PHP to perform similar CRUD operations: create, read, update, and delete.
+> **[0:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980&t=13)** There, we created pages to manage the contents of the subjects and pages tables by using [[PHP]] to perform similar CRUD operations: create, read, update, and delete.
 >
 > **[0:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-build-admin-management-14248711?u=76281980&t=24)** You'll find yourself writing code similar to this over and over when developing web applications.
 >
@@ -3971,7 +3941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[PHP]] (3), web (3), management (2), data (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** make (5), php (3), find (2)
 > **Env Vars:** php (3), crud (2)
 > **Definitions:** is a  (3)
@@ -3980,14 +3950,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 
-#### Solution: Build admin management
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980)
+#### [Solution: Build admin management](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980&t=0)** - [Instructor] Hopefully you did well with the challenge assignment.
 >
-> **[0:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980&t=2)** And you were able to build the admin management pages in PHP.
+> **[0:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980&t=2)** And you were able to build the admin management pages in [[PHP]].
 >
 > **[0:06](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-build-admin-management-14251161?u=76281980&t=6)** In this movie, I'm going to show you the solution that I came up with.
 >
@@ -4177,7 +4146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), database (6), management (2), business (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (10)
 > **CLI Commands:** php (10), make (10), find (1)
 > **Code Identifiers:** find_all_admins (2), insert_admin (2), mysqli_fetch_association (1), is_post_request (1), mysqli_insert_id (1)
 > **File Paths:** index.php (3), show.php (3), staff/admins/index.php (1), new.php (1), edit.php (1)
@@ -4186,12 +4155,11 @@ created: 2026-05-02
 > **SQL:** select (1), insert into (1)
 > **Cross-References:** in the next (1)
 
-#### PHP password functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980)
+#### [PHP password functions](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how to encrypt passwords with PHP.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how to encrypt passwords with [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=4)** The most important rule about passwords is never store them as plain text in the database.
 >
@@ -4357,7 +4325,7 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=360)** And let's create our new admin.
 >
-> **[6:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=361)** I'm going to call this one John, last name public and username John Q public.
+> **[6:01](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=361)** I'm going to call this one [[John the Ripper|John]], last name public and username John Q public.
 >
 > **[6:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=370)** Email, john@[nowhere.com](https://nowhere.com).
 >
@@ -4377,7 +4345,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=393)** Let's go take a look in our database.
 >
-> **[6:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=395)** Here in my SQL dash U web user dash P glow bank.
+> **[6:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=395)** Here in my [[SQL]] dash U web user dash P glow bank.
 >
 > **[6:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/php-password-functions-14247728?u=76281980&t=400)** Put in my password there.
 >
@@ -4403,7 +4371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[PHP]] (8), [[Security]] (1), application (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[John the Ripper|John]] (3), [[SQL]] (1)
 > **Env Vars:** bcrypt (9), php (8), isp (1), bcyrpt (1), sql (1)
 > **CLI Commands:** php (8), make (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -4412,8 +4380,7 @@ created: 2026-05-02
 > **Versions:** version 5 (1)
 > **Documentation:** the documentation (1)
 
-#### Authenticate user access
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980)
+#### [Authenticate user access](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4423,7 +4390,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=9)** Before we dive in and look at the code, I'm going to add a new file.
 >
-> **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=12)** It's in the exercise files, it's called auth_functions.php, and I'm going to put it in my private directory.
+> **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=12)** It's in the exercise files, it's called auth_functions.[[PHP]], and I'm going to put it in my private directory.
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=17)** This is a place where I'm going to store all of the functions related to authorizing a user.
 >
@@ -4501,7 +4468,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=189)** So let's put a note here that says if there were no errors, try to login.
 >
-> **[3:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=197)** Now, if there were errors, then the rest of the form will just render and actually displays those errors right here at the top of the form, so we don't need to do anything else if there were errors, but if there were no errors, then let's try and log in.
+> **[3:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=197)** Now, if there were errors, then the [[Representational State Transfer (REST)|rest]] of the form will just render and actually displays those errors right here at the top of the form, so we don't need to do anything else if there were errors, but if there were no errors, then let's try and log in.
 >
 > **[3:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authenticate-user-access-14244856?u=76281980&t=210)** How do we log in?
 >
@@ -4667,7 +4634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), business (1), [[Security]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** password_verify (5), login_failure_msg (4), auth_functions (2), log_in_admin (2), session_regenerate_id (1)
 > **CLI Commands:** php (8), make (4), find (3)
 > **File Paths:** login.php (4), auth_functions.php (2), initialize.php (1), staff/login.php (1)
@@ -4676,8 +4643,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **UI Navigation:** go to (1)
 
-#### Require authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980)
+#### [Require authorization](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4689,7 +4655,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=16)** What we need to do is add some code that will check to see whether the user is currently authenticated before it lets them have the page, to require that they have the authorization.
 >
-> **[0:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=27)** To do this, I'm going to add a couple more functions to our off_functions.php that we added in the last movie.
+> **[0:27](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=27)** To do this, I'm going to add a couple more functions to our off_functions.[[PHP]] that we added in the last movie.
 >
 > **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=33)** This code is included in the exercise files if you want to get it from there.
 >
@@ -4809,7 +4775,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=347)** Every time it wants me to be logged in.
 >
-> **[5:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=349)** Now let's go and actually login again, that's for me, John Q Public, and my password, click submit.
+> **[5:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=349)** Now let's go and actually login again, that's for me, [[John the Ripper|John]] Q Public, and my password, click submit.
 >
 > **[5:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/require-authorization-14247727?u=76281980&t=358)** Now I'm logged in, I'm able to see the menu, I can see the subjects, I can see the pages, and I can see the admins.
 >
@@ -4817,7 +4783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (18), database (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (18), [[John the Ripper|John]] (1)
 > **CLI Commands:** php (18), make (4), find (2)
 > **Code Identifiers:** require_login (11), admin_id (5), is_logged_in (4), off_functions (1)
 > **File Paths:** index.php (4), show.php (2), edit.php (2), off_functions.php (1), initialize.php (1)
@@ -4826,14 +4792,13 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Cross-References:** in the last (1)
 
-#### Log out a user
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980)
+#### [Log out a user](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980&t=0)** - [Instructor] Now that we've learned how to authenticate a user and how to have pages that require that authorization, we need to learn how to remove the authorization or to log out a user.
 >
-> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980&t=11)** We already have a placeholder page for logging out, logout.php and we even have a link for it at the top of our page.
+> **[0:11](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980&t=11)** We already have a placeholder page for logging out, logout.[[PHP]] and we even have a link for it at the top of our page.
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/log-out-a-user-14246841?u=76281980&t=17)** But if we click that, it doesn't actually log us out.
 >
@@ -4917,7 +4882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), database (2), business (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **File Paths:** logout.php (2), auth_functions.php (1), index.php (1)
 > **CLI Commands:** php (4)
 > **Code Identifiers:** admin_id (2), auth_functions (1), last_login (1)
@@ -4925,8 +4890,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optional password updating
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980)
+#### [Optional password updating](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5006,7 +4970,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=134)** We're going to assume that it's okay and we're going to leave it alone and we're not going to actually do the update.
 >
-> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=139)** So that means that down here in this code for hash password, we're going to put a line here that says if password sent, then we're going to include in the SQL this line to update the hash password.
+> **[2:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=139)** So that means that down here in this code for hash password, we're going to put a line here that says if password sent, then we're going to include in the [[SQL]] this line to update the hash password.
 >
 > **[2:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=153)** Otherwise, it'll get omitted.
 >
@@ -5050,7 +5014,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=250)** And if nothing was sent, then it's going to default to true.
 >
-> **[4:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=254)** That's that PHP seven operator that sets a default value if none is found.
+> **[4:14](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=254)** That's that [[PHP]] seven operator that sets a default value if none is found.
 >
 > **[4:19](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/optional-password-updating-14249652?u=76281980&t=259)** So this will determine whether the password is required.
 >
@@ -5112,7 +5076,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (1), [[PHP]] (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[PHP]] (1)
 > **CLI Commands:** make (7), php (1)
 > **UI Navigation:** click on (1), go to (1), scroll up (1), scroll down (1)
 > **Env Vars:** sql (1), php (1)
@@ -5121,8 +5085,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Authorized previewing
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980)
+#### [Authorized previewing](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5132,7 +5095,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980&t=25)** Now that we understand user authentication, we can revisit that topic.
 >
-> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980&t=29)** The place where we added that preview code is in index.php inside the public directory.
+> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980&t=29)** The place where we added that preview code is in index.[[PHP]] inside the public directory.
 >
 > **[0:35](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/authorized-previewing-14249661?u=76281980&t=35)** This is the main page for displaying content to the public.
 >
@@ -5242,7 +5205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), feature (2)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** make (4), php (3), find (2)
 > **Code Identifiers:** is_logged_in (3), auth_functions (1), require_login (1)
 > **File Paths:** index.php (2), auth_functions.php (1)
@@ -5255,8 +5218,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand nested resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
+#### [Understand nested resources](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5274,7 +5236,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980&t=25)** Each one of those is a different type of data we're storing in a different table in the database and there's different functionality related to each one.
 >
-> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980&t=32)** We actually have PHP functions that allow us to do create, read, update, and delete on each of those three different resources.
+> **[0:32](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980&t=32)** We actually have [[PHP]] functions that allow us to do create, read, update, and delete on each of those three different resources.
 >
 > **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/understand-nested-resources-14244850?u=76281980&t=40)** When I talk about nesting the resources, I'm talking about putting a resource inside another resource so that it's dependent on the resource it sits inside.
 >
@@ -5322,14 +5284,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (1), database (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** php (1), make (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### List pages by subject
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980)
+#### [List pages by subject](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5353,7 +5314,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=46)** So the only way to see the list of pages is to first choose the subject.
 >
-> **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=51)** So in order to do that, let's first start by going into our staff area and let's go to index.php in the staff area.
+> **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=51)** So in order to do that, let's first start by going into our staff area and let's go to index.[[PHP]] in the staff area.
 >
 > **[0:57](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=57)** And let's just take away that link that we had for pages.
 >
@@ -5365,7 +5326,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=67)** That's the page we were just looking at.
 >
-> **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=69)** And down here, let's add in a horizontal rule, HR, that's an HTML tag.
+> **[1:09](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=69)** And down here, let's add in a horizontal rule, HR, that's an [[HTML]] tag.
 >
 > **[1:15](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/list-pages-by-subject-14250499?u=76281980&t=75)** That'll make a line across the bottom.
 >
@@ -5483,7 +5444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), hr (1), [[HTML]] (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (1)
 > **CLI Commands:** php (9), make (4), find (4)
 > **File Paths:** index.php (5), show.php (3), staff/index.php (1)
 > **UI Navigation:** go to (4), click on (2), scroll down (1)
@@ -5492,8 +5453,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Definitions:** is called (1)
 
-#### Use nested links
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980)
+#### [Use nested links](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5517,7 +5477,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=43)** But notice here that I have this link, that's back to list.
 >
-> **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=47)** This used to take me back to a page that was staffpagesindex.php.
+> **[0:47](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=47)** This used to take me back to a page that was staffpagesindex.[[PHP]].
 >
 > **[0:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=51)** But that page basically doesn't exist anymore.
 >
@@ -5543,7 +5503,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=84)** So let's put a question mark ID equals and then period, and we'll concatenate together a value.
 >
-> **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=90)** We want to make sure that we use HTML special chars on that, and also our URL encoding.
+> **[1:30](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=90)** We want to make sure that we use [[HTML]] special chars on that, and also our URL encoding.
 >
 > **[1:36](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-links-14250494?u=76281980&t=96)** So I'm going to put both of those in there.
 >
@@ -5715,7 +5675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), data (3), [[HTML]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[HTML]] (1)
 > **CLI Commands:** php (11), make (3), find (3)
 > **UI Navigation:** click on (9), go to (6), dropdown (1)
 > **File Paths:** show.php (3), new.php (3), edit.php (2), staffpagesindex.php (1), pagesindex.php (1)
@@ -5724,8 +5684,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Use nested redirects
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980)
+#### [Use nested redirects](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5745,7 +5704,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=37)** Whenever we have a redirect, we need to take into account to make sure that this still works with our new nested structure.
 >
-> **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=45)** Here I am on new.php, and you can see that once I've created a new page I've got it returning back to staff/pages/show.php.
+> **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=45)** Here I am on new.[[PHP]], and you can see that once I've created a new page I've got it returning back to staff/pages/show.php.
 >
 > **[0:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=53)** So it's going to go back to the same page that I have already when I click on view for a subject, right?
 >
@@ -5827,13 +5786,13 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=286)** So, we'll save the result.
 >
-> **[4:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=288)** So now we've accounted for all of our links, all of our forms and all of our redirects.
+> **[4:48](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=288)** So now we've accounted for all of our links, all of our [[Forms]] and all of our redirects.
 >
 > **[4:53](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/use-nested-redirects-14250488?u=76281980&t=293)** They all work now with our new nested structure.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[PHP]] (6), database (3), application (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Forms]] (1)
 > **CLI Commands:** php (6), find (6), make (5)
 > **File Paths:** new.php (1), staff/pages/show.php (1), pages/show.php (1), delete.php (1), pages/index.php (1)
 > **Env Vars:** url (3)
@@ -5842,8 +5801,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add page count to each subject
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980)
+#### [Add page count to each subject](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5861,13 +5819,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=24)** We now have a count that we can use.
 >
-> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=26)** We're already doing this type of counting on our new.php and edit.php pages when we list the form options for position.
+> **[0:26](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=26)** We're already doing this type of counting on our new.[[PHP]] and edit.php pages when we list the form options for position.
 >
 > **[0:34](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=34)** We only have number of positions available that we have the number of subjects or pages.
 >
 > **[0:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=40)** Now, in that case, it worked well enough.
 >
-> **[0:42](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=42)** It makes one SQL request and it counts the rows in the result.
+> **[0:42](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=42)** It makes one [[SQL]] request and it counts the rows in the result.
 >
 > **[0:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=45)** The database is returning a lot of extra data for each row that we're then discarding, but that inefficiency won't really even be noticeable.
 >
@@ -5917,7 +5875,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=158)** And then down here inside our code, the change that we need to make is that in our SQL code, instead of Select all from pages, we need to just put right here in front of this asterisk, COUNT and then put parentheses around it.
 >
-> **[2:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=174)** What this does is tells MySQL, Hey, go find these records, but don't return the data to me.
+> **[2:54](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=174)** What this does is tells [[MySQL]], Hey, go find these records, but don't return the data to me.
 >
 > **[3:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/add-page-count-to-each-subject-14249657?u=76281980&t=180)** Count them, tell me how many there are.
 >
@@ -6037,7 +5995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (6), [[PHP]] (4), [[MySQL]] (3), database (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[PHP]] (4), [[MySQL]] (3)
 > **Code Identifiers:** mysqli_fetch_row (4), find_pages_by_subject_id (3), count_pages_by_subject_id (3), mysqli_num_rows (2), page_count (2)
 > **CLI Commands:** php (4), make (3), mysql (3), find (2)
 > **Env Vars:** sql (6), count (3), order (1), php (1)
@@ -6046,8 +6004,7 @@ created: 2026-05-02
 > **SQL:** order by (1)
 > **Cross-References:** we talked about (1)
 
-#### Scope page position by subject
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980)
+#### [Scope page position by subject](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6087,7 +6044,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=77)** So I'm going to copy the name of that function just so we can make use of it.
 >
-> **[1:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=81)** I'm going to go down here to my pages listing and let's start with new.php.
+> **[1:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=81)** I'm going to go down here to my pages listing and let's start with new.[[PHP]].
 >
 > **[1:25](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=85)** You'll see that the way that we're getting that list of pages is right here.
 >
@@ -6187,7 +6144,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=238)** The position is still whatever it was before it didn't reload and go find out what this new position is.
 >
-> **[4:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=244)** Now you could use Ajax or something like that to go and query the database and find out how many positions are available in small business and update it accordingly.
+> **[4:04](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=244)** Now you could use [[AJAX]] or something like that to go and query the database and find out how many positions are available in small business and update it accordingly.
 >
 > **[4:13](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/scope-page-position-by-subject-14247735?u=76281980&t=253)** But that's not built into this right now.
 >
@@ -6199,7 +6156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), data (2), next (1), feature (1), [[AJAX]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[AJAX]] (1)
 > **CLI Commands:** make (3), find (3), php (2)
 > **Cross-References:** in the last (2), we talked about (1), go back to (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -6207,8 +6164,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Update positions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980)
+#### [Challenge: Update positions](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6366,7 +6322,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=337)** Or when the starting position is greater than the ending position.
 >
-> **[5:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=340)** In each of these cases, you would write different SQL that you could perform.
+> **[5:40](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=340)** In each of these cases, you would write different [[SQL]] that you could perform.
 >
 > **[5:45](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=345)** I also want to give you a sample of what that SQL might look like, to help you out.
 >
@@ -6374,7 +6330,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=351)** And I just want you to see, I'm setting the position equal to position -1.
 >
-> **[5:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=356)** It's perfectly valid to do this in MySQL, just to simply say, "I don't care what your current position is.
+> **[5:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=356)** It's perfectly valid to do this in [[MySQL]], just to simply say, "I don't care what your current position is.
 >
 > **[6:02](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/challenge-update-positions-14245851?u=76281980&t=362)** Just subtract one from whatever that value is."
 >
@@ -6410,7 +6366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), business (2), [[MySQL]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[MySQL]] (2)
 > **CLI Commands:** make (5), mysql (2)
 > **Code Identifiers:** subject_id (3), shift_subject_positions (2), current_id (2)
 > **Cross-References:** earlier in (3), later in (2), in the next (1)
@@ -6419,8 +6375,7 @@ created: 2026-05-02
 > **SQL:** where (1)
 > **Analogies:** for example (1)
 
-#### Solution: Update positions
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980)
+#### [Solution: Update positions](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6434,7 +6389,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980&t=17)** So I've got a starting position, an ending position, and then a current ID, and I defaulted that to zero.
 >
-> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980&t=23)** That's because my SQL statement has and ID not equal to zero, then it'll just do nothing, because there are no items that have an ID of zero.
+> **[0:23](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980&t=23)** That's because my [[SQL]] statement has and ID not equal to zero, then it'll just do nothing, because there are no items that have an ID of zero.
 >
 > **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/solution-update-positions-14248699?u=76281980&t=33)** So it's a good default to have.
 >
@@ -6662,7 +6617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), database (5), business (2), data (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **Code Identifiers:** old_position (5), shift_subject_positions (3), old_subject (2), shift_page_positions (2), old_page (2)
 > **CLI Commands:** make (8), find (3)
 > **Env Vars:** sql (5), crud (1)
@@ -6676,14 +6631,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=0)** - [Instructor] I would like to thank you for taking PHP with MYSQL Essential Training part two with me.
+> **[0:00](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=0)** - [Instructor] I would like to thank you for taking [[PHP]] with [[MySQL]] Essential Training part two with me.
 >
-> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=5)** In this course, we built public facing pages, which display database driven, HTML content complete with page navigation.
+> **[0:05](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=5)** In this course, we built public facing pages, which display database driven, [[HTML]] content complete with page navigation.
 >
 > **[0:12](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=12)** And we excluded subjects and pages, which should not be visible to the public.
 >
@@ -6691,13 +6645,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=21)** We nested the crud for our pages inside the subjects area, complete with code to automatically manage their positions.
 >
-> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=29)** In the end, we developed a respectable content management system together.
+> **[0:29](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=29)** In the end, we developed a respectable [[Content Management]] system together.
 >
 > **[0:33](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=33)** This is of course only the beginning, a real-world content management system would use these same techniques to build even more tools.
 >
-> **[0:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=41)** Maybe there's a database table of products and product categories, or maybe there's an area that lists recent press releases.
+> **[0:41](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=41)** Maybe there's a database table of [[Microsoft Products|products]] and product categories, or maybe there's an area that lists recent press releases.
 >
-> **[0:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=49)** A database could hold office locations, staff, salespeople, or job openings.
+> **[0:49](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=49)** A database could hold [[Microsoft Office|office]] locations, staff, salespeople, or job openings.
 >
 > **[0:56](https://www.linkedin.com/learning/php-with-mysql-essential-training-2-build-a-cms/next-steps-14245858?u=76281980&t=56)** The details are different for every single project, but the fundamental concepts are the same as those that we've learned in this course, the tools are powerful and ready for your creativity.
 >
@@ -6705,7 +6659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[PHP]] (2), [[MySQL]] (2), [[Content Management]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[MySQL]] (2), [[Content Management]] (2), [[HTML]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** php (2), mysql (2)
 > **Env Vars:** php (2), mysql (1), html (1)
 > **Speakers:** - [instructor] (1)

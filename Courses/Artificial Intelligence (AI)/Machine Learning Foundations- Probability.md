@@ -97,14 +97,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
+#### [Probability for machine learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980&t=0)** - Do you work with machine learning models?
 >
-> **[0:02](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980&t=2)** If so, you know that machine learning models are based on estimation and approximation, which are the core probability.
+> **[0:02](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980&t=2)** If so, you know that machine learning models are based on estimation and approximation, which are the core [[Probability]].
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-for-machine-learning?u=76281980&t=9)** Using probability, we can handle uncertainty, such as noisy data, incomplete coverage of the problem domain, and imperfect ML models.
 >
@@ -116,25 +115,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), data (1), ai (1)
+> **Frameworks & Libraries:** [[Probability]] (4)
 > **Env Vars:** crm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - do (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you get started with this course there are few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=4)** You should be familiar with key concepts of algebra, linear algebra, and calculus.
+> **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=4)** You should be familiar with key concepts of algebra, [[Linear Algebra]], and [[Calculus]].
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=10)** If you aren't familiar, I encourage you to take my previous two courses, ML Foundations: Linear Algebra and Calculus, so you can easily follow along.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=21)** You should have basic Python programming knowledge.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=21)** You should have basic [[Python (Programming Language)|Python]] programming knowledge.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=24)** We will focus on probability capabilities and some of their applications in Python Code.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=24)** We will focus on [[Probability]] capabilities and some of their applications in Python Code.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-foundations-probability/what-you-should-know?u=76281980&t=31)** Our focus will be on the latest versions of Python 3.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2), [[Calculus]] (2), [[Probability]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Linear Algebra]] (2), [[Calculus]] (2), [[Probability]] (2)
 > **CLI Commands:** python (3), make (1)
 > **Tools:** jupyter (3)
 > **Versions:** python 3 (1)
@@ -159,8 +157,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
+#### [Defining probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980&t=5)** Or your colleagues have just released the latest version of app in production and you're wondering how certain they are there are no critical bugs in production.
 >
-> **[0:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980&t=14)** Even in small everyday things, like taking a random sweet out of the bag of sweets, or considering a chance of rain, you're thinking about probability without even noticing.
+> **[0:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980&t=14)** Even in small everyday things, like taking a random sweet out of the bag of sweets, or considering a chance of rain, you're thinking about [[Probability]] without even noticing.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-foundations-probability/defining-probability?u=76281980&t=27)** Probability is the chance of something happening.
 >
@@ -208,13 +205,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (20), data (1), express (1)
+> **Frameworks & Libraries:** [[Probability]] (20)
 > **Analogies:** for example (3), think of it as (1)
 > **Versions:** 0.9 (2), 0.1 (1)
 > **Speakers:** - you (1)
 
-#### Applications of probability in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980)
+#### [Applications of probability in ML](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +226,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=21)** In the real world, there is always uncertainty.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=24)** It involves making a decision with incomplete or imperfect information, and probability provides the tools to handle it.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=24)** It involves making a decision with incomplete or imperfect information, and [[Probability]] provides the tools to handle it.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=33)** Now, let's see some applications of probability in ML, sampling, incomplete coverage of the problem domain.
 >
@@ -250,28 +246,27 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=112)** Model training, maximum likelihood estimation, or MLE, and other iterative machine learning techniques are based on probability.
 >
-> **[2:01](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=121)** Specifically, we use MLE for training in models like logistic regression, linear regression, and artificial neural networks.
+> **[2:01](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=121)** Specifically, we use MLE for training in models like [[Logistic Regression]], [[Linear Regression]], and [[Artificial Neural Networks]].
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=132)** Hyperparameter optimization, in neural networks, hyperparameters are tuned through techniques like research, Bayesian optimization is often used for hyperparameter optimization.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=132)** Hyperparameter optimization, in [[Neural Networks]], hyperparameters are tuned through techniques like research, Bayesian optimization is often used for hyperparameter optimization.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=145)** Model evaluation, we predict a single probability score in binary classification tasks.
 >
 > **[2:32](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=152)** Model evaluation techniques require summarizing the performance of a model based on predicted probabilities.
 >
-> **[2:40](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=160)** Developing specific algorithms, probability forms the basis of many specific algorithms used in ML.
+> **[2:40](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=160)** Developing specific [[Algorithms]], probability [[Forms]] the basis of many specific algorithms used in ML.
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-foundations-probability/applications-of-probability-in-ml?u=76281980&t=168)** After setting the stage for different applications of ML, we can now continue our learning by looking at basics, sample space and events.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (7), data (3), [[Algorithms]] (2), [[Logistic Regression]] (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Probability]] (7), [[Algorithms]] (2), [[Logistic Regression]] (1), [[Linear Regression]] (1), [[Artificial Neural Networks]] (1)
 > **Env Vars:** mle (2), usa (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### Sample space and events
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980)
+#### [Sample space and events](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980&t=9)** But don't worry, I'll simplify this basic concept so you can easily follow along.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980&t=15)** To deal with probability, we just have to learn a few basic concepts.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980&t=15)** To deal with [[Probability]], we just have to learn a few basic concepts.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-foundations-probability/sample-space-and-events?u=76281980&t=20)** Experiment, sample space, and event.
 >
@@ -335,13 +330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (11), feature (2)
+> **Frameworks & Libraries:** [[Probability]] (11)
 > **Definitions:** is called (2), is a  (1), defined as (1)
 > **Versions:** 0.5 (1), 0.167 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Random variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980)
+#### [Random variables](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -361,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980&t=22)** For example, if you're trying to solve this linear equation, two X plus five equals 17, you define an X and that's your variable.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980&t=33)** A random variable in probability is something different.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980&t=33)** A random variable in [[Probability]] is something different.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-foundations-probability/random-variables?u=76281980&t=36)** It is composed of all possible outcomes in the sample space.
 >
@@ -409,18 +403,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), feature (1)
+> **Frameworks & Libraries:** [[Probability]] (9)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - as (1)
 
-#### Examples of probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/examples-of-probability?u=76281980)
+#### [Examples of probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/examples-of-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/examples-of-probability?u=76281980&t=0)** - [Instructor] Let's explore more advanced examples of probability that use permutations and combinations.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/examples-of-probability?u=76281980&t=0)** - [Instructor] Let's explore more advanced examples of [[Probability]] that use permutations and combinations.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/examples-of-probability?u=76281980&t=7)** If you have never calculated permutations and combinations before, don't worry.
 >
@@ -518,7 +511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), next (1)
+> **Frameworks & Libraries:** [[Probability]] (10)
 > **CLI Commands:** make (3), find (2)
 > **Versions:** 0.0357 (2), 0.000198 (1), 0.02 (1), 3.57 (1)
 > **Analogies:** for example (1), similar to (1)
@@ -529,12 +522,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability of an event
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
+#### [Probability of an event](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980&t=0)** - [Instructor] Now that we understand what probability and sample space are, we can take a look at different probability rules.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980&t=0)** - [Instructor] Now that we understand what [[Probability]] and sample space are, we can take a look at different probability rules.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-of-an-event?u=76281980&t=8)** What is easy to grasp is the fact that the sum of all probabilities for a sample space is one.
 >
@@ -590,19 +582,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (18), ai (3)
+> **Frameworks & Libraries:** [[Probability]] (18)
 > **Versions:** 0.5 (2), 0.83 (1), 0.875 (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The sum rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980)
+#### [The sum rule](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=0)** - [Instructor] Occasionally, we want to find out the probability of two events.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=0)** - [Instructor] Occasionally, we want to find out the [[Probability]] of two events.
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=4)** for example, the probability of getting one or two when rolling a die, or the probability of France winning a handball World Cup and Germany winning a handball World Cup.
 >
@@ -624,27 +615,26 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=81)** We could write the formula for sum rule in the case when we have a mutually exclusive events A and B as probability of A union B equals P of A plus P of B where the symbol cup stands for union.
 >
-> **[1:37](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=97)** In case you're unfamiliar with sets and their operations, you can look up my course, Programming Foundations: Numerical Mathematics and Calculations, and find out more.
+> **[1:37](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=97)** In case you're unfamiliar with sets and their operations, you can look up my course, [[Programming Foundations]]: Numerical Mathematics and Calculations, and find out more.
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule?u=76281980&t=109)** We'll find out more about the sum rule after we learn the product rule.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), [[Programming Foundations]] (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (9), [[Programming Foundations]] (1)
 > **CLI Commands:** find (3)
 > **Versions:** 0.33 (1)
 > **Definitions:** stands for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The product rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980)
+#### [The product rule](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=0)** - [Instructor] Whenever we have two or more independent events occurring together, that's when the product rule takes its place.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=7)** It says that we can "calculate the probability of two or more independent events happening together by multiplying the individual probabilities of the events."
+> **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=7)** It says that we can "calculate the [[Probability]] of two or more independent events happening together by multiplying the individual probabilities of the events."
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=18)** It can be written as the following formula.
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=72)** Let's see, one more example.
 >
-> **[1:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=74)** According to the 2021 employment statistics by the U.S. Bureau of Labor Statistics, only 0.7% of people are working as software developers.
+> **[1:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=74)** According to the 2021 employment [[Statistics]] by the U.S. Bureau of Labor Statistics, only 0.7% of people are working as software developers.
 >
 > **[1:26](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-product-rule?u=76281980&t=86)** And according to the survey, 30% of people own a cat.
 >
@@ -686,13 +676,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (4), product (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Probability]] (4), [[Statistics]] (2)
 > **CLI Commands:** cat (6), find (1)
 > **Versions:** 0.028 (1), 2.8 (1), 0.7 (1), 0.007 (1), 0.30 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The sum rule extended
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980)
+#### [The sum rule extended](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -706,9 +695,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=19)** For example, we have a group of students.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=22)** 40% of them are learning to code in Python, and 30% of them are learning to code in Java, and 12% of the students are learning both Python and Java.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=22)** 40% of them are learning to code in [[Python (Programming Language)|Python]], and 30% of them are learning to code in [[Java]], and 12% of the students are learning both Python and Java.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=34)** We want to know what is the probability that a randomly selected student is learning Python or Java?
+> **[0:34](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=34)** We want to know what is the [[Probability]] that a randomly selected student is learning Python or Java?
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-sum-rule-extended?u=76281980&t=41)** In our case, the sum rule can be represented with the following formula, P of A union B equals P of A plus P of B minus P of A intersection B.
 >
@@ -734,12 +723,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980)
+#### [Conditional probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=0)** - [Instructor] A type of probability that occurs very often is a conditional probability, but in many cases people find it hard to understand.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=0)** - [Instructor] A type of [[Probability]] that occurs very often is a conditional probability, but in many cases people find it hard to understand.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=9)** It is the probability of event A occurring given event B has occurred and can be represented as P of A given B.
 >
@@ -765,7 +753,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=110)** Let's see how to calculate conditional probability on a real world scenario.
 >
-> **[1:56](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=116)** According to the research, about 3% of adults have never been employed and have used LinkedIn.
+> **[1:56](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=116)** According to the research, about 3% of adults have never been employed and have used [[LinkedIn]].
 >
 > **[2:03](https://www.linkedin.com/learning/machine-learning-foundations-probability/conditional-probability?u=76281980&t=123)** If 35% of adults have never been employed, what is the probability that an adult has used LinkedIn given that they have never been employed?
 >
@@ -790,14 +778,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Total probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980)
+#### [Total probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=0)** - [Instructor] Let's explore the following example, Jack has three bags with 10 sweets in each bag.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=6)** The first bag has three chocolate and seven vanilla sweets.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=6)** The first bag has three chocolate and seven [[Vanilla]] sweets.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=10)** The second bag has four chocolate and six vanilla sweets.
 >
@@ -805,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=18)** A sweet is randomly chosen from one of the bags.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=22)** What is the probability that it is a vanilla sweet?
+> **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=22)** What is the [[Probability]] that it is a vanilla sweet?
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=26)** When our sample space can be separated into disjoint regions B1, B2, B3, et cetera, so that the totality of the sample space is covered by the region's Bi's that don't overlap, we can use this formula to calculate the total probability of the event i over the partitions.
 >
@@ -817,9 +804,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=68)** Let's see it in an example.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=70)** We had three companies, Google, Microsoft, and Facebook and the number of software developers working at each is 8,000, 10,000 and 6,000 respectively.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=70)** We had three companies, [[Google]], [[Microsoft]], and Facebook and the number of software developers working at each is 8,000, 10,000 and 6,000 respectively.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=82)** Additionally, the percentages of software developers that are coding in Python in these companies are 14%, 21%, and 12% respectively.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=82)** Additionally, the percentages of software developers that are coding in [[Python (Programming Language)|Python]] in these companies are 14%, 21%, and 12% respectively.
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/total-probability?u=76281980&t=93)** We want to know the probability that a randomly selected person from among the companies knows the Python programming language.
 >
@@ -861,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), [[Google]] (13), [[Python (Programming Language)|Python]] (12), bi (7), [[Microsoft]] (6)
+> **Frameworks & Libraries:** [[Probability]] (14), [[Google]] (13), [[Python (Programming Language)|Python]] (12), [[Microsoft]] (6), [[Vanilla]] (4)
 > **CLI Commands:** python (12), find (3)
 > **Versions:** 0.33 (2), 0.42 (2), 0.25 (2), 0.14 (1), 0.21 (1)
 > **Definitions:** is a  (1)
@@ -872,8 +859,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Joint and marginal probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
+#### [Joint and marginal probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -883,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980&t=10)** Of those clothing items, there is exactly one white shirt and exactly one pair of blue pants.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980&t=17)** What is the probability that a person will wear a white shirt and blue pants?
+> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980&t=17)** What is the [[Probability]] that a person will wear a white shirt and blue pants?
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-and-marginal-probability?u=76281980&t=23)** There is 1/5 probability that a person will randomly choose a white shirt and 1/4 probability that a person will randomly choose blue pants.
 >
@@ -905,14 +891,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (13), product (1)
+> **Frameworks & Libraries:** [[Probability]] (13)
 > **Versions:** 0.05 (1), 0.2 (1), 0.25 (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joint probability tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980)
+#### [Joint probability tables](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980&t=11)** 150 workers are juniors working full-time, and 100 workers are juniors working part-time.
 >
-> **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980&t=19)** If an employee is selected at random, what is the probability that the person is a full-time employee?
+> **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980&t=19)** If an employee is selected at random, what is the [[Probability]] that the person is a full-time employee?
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-foundations-probability/joint-probability-tables?u=76281980&t=26)** Before calculating the probability, we can arrange the data in the table.
 >
@@ -962,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (11), data (2)
+> **Frameworks & Libraries:** [[Probability]] (11)
 > **Versions:** 0.40 (2), 0.16 (2), 0.76 (1), 0.52 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
@@ -970,12 +955,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The chain rule for probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-chain-rule-for-probability?u=76281980)
+#### [The chain rule for probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-chain-rule-for-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-chain-rule-for-probability?u=76281980&t=0)** - [Instructor] In machine learning we usually have to calculate the joint probability of multiple random variables.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-chain-rule-for-probability?u=76281980&t=0)** - [Instructor] In machine learning we usually have to calculate the joint [[Probability]] of multiple random variables.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-chain-rule-for-probability?u=76281980&t=7)** This is where the chain rule for probability comes into play.
 >
@@ -1027,7 +1011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (12), product (2), ai (1)
+> **Frameworks & Libraries:** [[Probability]] (12)
 > **Versions:** 0.5893 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1037,12 +1021,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Probability distributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
+#### [Probability distributions](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980&t=0)** - [Instructor] The easiest way to visualize a probability distribution is to think about it as a relationship that takes random variables and their outcome values and gives the probability of each of these values occurring.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980&t=0)** - [Instructor] The easiest way to visualize a [[Probability]] distribution is to think about it as a relationship that takes random variables and their outcome values and gives the probability of each of these values occurring.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/probability-distributions?u=76281980&t=14)** For example, if you flip a coin multiple times, we expect that getting heads or tails are equally likely and equal to 1/2.
 >
@@ -1078,14 +1061,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), next (1)
+> **Frameworks & Libraries:** [[Probability]] (9)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Histograms and probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980)
+#### [Histograms and probability](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,23 +1115,22 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980&t=181)** It shows us how our data is distributed across all of these buckets that we have created.
 >
-> **[3:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980&t=187)** If we divide histogram values by the sum of the counts, we can use the histogram to estimate probability distributions from samples.
+> **[3:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980&t=187)** If we divide histogram values by the sum of the counts, we can use the histogram to estimate [[Probability]] distributions from samples.
 >
 > **[3:15](https://www.linkedin.com/learning/machine-learning-foundations-probability/histograms-and-probability?u=76281980&t=195)** It also helps us to determine the likelihood of particular values appearing when sampling from the process generated by the data used.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Definitions:** is called (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Discrete probability distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980)
+#### [Discrete probability distribution](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=0)** - [Instructor] Understanding and knowing when and how to apply probability distribution is critical in data analysis, decision making and modeling.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=0)** - [Instructor] Understanding and knowing when and how to apply [[Probability]] distribution is critical in data analysis, decision making and modeling.
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=10)** Discrete probability distributions play a crucial role in applied ML and there are a few distributions that you must know about.
 >
@@ -1159,7 +1140,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=33)** For example, handwritten digit recognition from zero to nine.
 >
-> **[0:38](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=38)** Evaluating the performance for the binary classification models and for choosing the activation function used in the output layer of the deep learning neural networks.
+> **[0:38](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=38)** Evaluating the performance for the binary classification models and for choosing the activation function used in the output layer of the [[Deep Learning]] [[Neural Networks]].
 >
 > **[0:50](https://www.linkedin.com/learning/machine-learning-foundations-probability/discrete-probability-distribution?u=76281980&t=50)** While exploring the basic examples of probability, we have seen one of the most common discrete distributions called uniform distribution.
 >
@@ -1183,14 +1164,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), data (1), [[Deep Learning]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Deep Learning]] (1), [[Neural Networks]] (1)
 > **Env Vars:** pmf (3)
 > **Analogies:** for example (2)
 > **Versions:** 1.0 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The binomial distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980)
+#### [The binomial distribution](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1180,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980&t=10)** Management expected at least 90% success rate, and are disappointed, and expect the whole team to re-engineer the design and get back with a new model.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980&t=21)** But our team is confident we should run more tests and that their underlining probability is 95%.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980&t=21)** But our team is confident we should run more tests and that their underlining [[Probability]] is 95%.
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-binomial-distribution?u=76281980&t=29)** The type of discrete distribution we can apply here is called a binomial distribution.
 >
@@ -1250,14 +1230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (16), power (6), management (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (16)
 > **Versions:** 0.95 (5), 91.3 (3), 0.0625 (2), 0.075 (2), 0.315 (2)
 > **Definitions:** is called (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Bernoulli distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980)
+#### [The Bernoulli distribution](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1273,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980&t=52)** Such trials or experiments are called Bernoulli trials.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980&t=57)** So, if a variable has a Bernoulli distribution it can only take values 0 and 1, and we defined a probability function as P of X equals X is equal to P, if X equals 1, and 1 minus P if X equals 0.
+> **[0:57](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980&t=57)** So, if a variable has a Bernoulli distribution it can only take values 0 and 1, and we defined a [[Probability]] function as P of X equals X is equal to P, if X equals 1, and 1 minus P if X equals 0.
 >
 > **[1:17](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-bernoulli-distribution?u=76281980&t=77)** Another way to write down the probability function for Bernoulli distribution is in the following form.
 >
@@ -1297,14 +1276,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), power (4)
+> **Frameworks & Libraries:** [[Probability]] (6)
 > **Analogies:** similar to (1), for example (1)
 > **CLI Commands:** find (1)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Poisson distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980)
+#### [The Poisson distribution](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,7 +1292,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=26)** In these cases, using binomial and Bernoulli distribution seems possible, but it isn't convenient.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=33)** So in cases when the number of trials, n, is very large, and the success probability, p, is very small, we can define the product, lambda, as lambda equals n multiplied by p, which is the expected number of successes after n trials, or the average number of events that happened over some time.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=33)** So in cases when the number of trials, n, is very large, and the success [[Probability]], p, is very small, we can define the product, lambda, as lambda equals n multiplied by p, which is the expected number of successes after n trials, or the average number of events that happened over some time.
 >
 > **[0:56](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=56)** Then we can calculate the probability of x events happening in that interval as P of x equals e to the power of minus lambda, multiplied by lambda to the power of x divided by x factorial.
 >
@@ -1324,7 +1302,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=83)** Let's see our formula in action in a simple example.
 >
-> **[1:27](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=87)** 5% of products manufactured by a company are defective.
+> **[1:27](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=87)** 5% of [[Microsoft Products|products]] manufactured by a company are defective.
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-poisson-distribution?u=76281980&t=92)** Find the probability that in a sample of 100 units, less than four products are defective.
 >
@@ -1342,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (8), power (2), [[Microsoft Products|Products]] (2), product (1)
+> **Frameworks & Libraries:** [[Probability]] (8), [[Microsoft Products|Products]] (2)
 > **Versions:** 0.05 (2), 2.718 (1), 0.265 (1), 26.5 (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1354,18 +1332,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The continuous probability distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
+#### [The continuous probability distribution](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=0)** - [Presenter] We have discovered the probabilities of uncertain discreet quantities, however, many real-life events are continuous.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=9)** For example, we could measure the time taken to finish the ticket at a software development project and obviously, there are infinite number of possible ways to complete a task so the measurement is continuous.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=9)** For example, we could measure the time taken to finish the ticket at a [[Software Development]] project and obviously, there are infinite number of possible ways to complete a task so the measurement is continuous.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=22)** Or the square footage of a randomly selected three-bedroom apartment.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=28)** In ML, continuous probability distributions are of fundamental importance: starting in the models themselves, when estimating the mapping between the inputs and outputs, the distribution of input variables to the models, and the distribution of errors made by models.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=28)** In ML, continuous [[Probability]] distributions are of fundamental importance: starting in the models themselves, when estimating the mapping between the inputs and outputs, the distribution of input variables to the models, and the distribution of errors made by models.
 >
 > **[0:46](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=46)** Let's dive into the key properties of continuous probability distributions.
 >
@@ -1413,7 +1390,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=218)** Meaning, most events are drawn from just 20% of range of the continuous variable.
 >
-> **[3:45](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=225)** A few examples of domains are the total sales of a course, the income of households in a country, and the company profits from products or services.
+> **[3:45](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-continuous-probability-distribution?u=76281980&t=225)** A few examples of domains are the total sales of a course, the income of households in a country, and the company profits from [[Microsoft Products|products]] or services.
 
 > [!info]- Semantic Content
 >
@@ -1423,8 +1400,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Central limit theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980)
+#### [Central limit theorem](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1412,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=20)** Another example would be quality control in manufacturing to make sure that the production line output satisfies quality standards.
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=29)** The manufacturing manager may randomly select 100 products each day and check how many are defective.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=29)** The manufacturing manager may randomly select 100 [[Microsoft Products|products]] each day and check how many are defective.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=37)** Or in finance, it can be used to estimate the distribution of investment returns.
 >
@@ -1448,7 +1424,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=64)** Don't worry, let's start with a simple example.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=67)** Imagine we have a population of laptops in an electronics shop.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=67)** Imagine we have a population of laptops in an [[Electronics]] shop.
 >
 > **[1:11](https://www.linkedin.com/learning/machine-learning-foundations-probability/central-limit-theorem?u=76281980&t=71)** We would like to analyze the laptop prices and be able to make predictions based on them.
 >
@@ -1488,14 +1464,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Products|Products]] (1), [[Electronics]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Electronics]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3), imagine (1)
 > **Versions:** 523.47 (1), 144.12 (1), 879.46 (1)
 > **Speakers:** - [instructor] (1)
 
-#### The law of large numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980)
+#### [The law of large numbers](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,7 +1478,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980&t=6)** But if we run an experiment and toss it three times in a row, there is a 12.5% possibility that we'll get tails three times in a row.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980&t=17)** The law of the large numbers tells us that the more experiments we run, the closer we will get to the expected probability.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980&t=17)** The law of the large numbers tells us that the more experiments we run, the closer we will get to the expected [[Probability]].
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-foundations-probability/the-law-of-large-numbers?u=76281980&t=24)** This law is related to the central limit theorem in the way as we increase the size of the sample from a distribution, the mean of the sample will move closer and closer to the mean of the population.
 >
@@ -1523,7 +1498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Versions:** 12.5 (1)
 > **Tools:** jupyter (1)
 > **Definitions:** is a  (1)
@@ -1534,14 +1509,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Bayes' theorem
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
+#### [Introduction to Bayes' theorem](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980&t=0)** - [Instructor] Imagine this scenario in your company.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980&t=3)** The probability that a person is working longer than five years is 45%, and the probability that a person is using ChatGPT is 15%.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980&t=3)** The [[Probability]] that a person is working longer than five years is 45%, and the probability that a person is using [[ChatGPT]] is 15%.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-foundations-probability/introduction-to-bayes-theorem?u=76281980&t=14)** Given that 8% of those that use ChatGPT also work longer than five years, what percent of those that work longer than five years also use ChatGPT?
 >
@@ -1624,8 +1598,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example of Bayes' theorem in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980)
+#### [Example of Bayes' theorem in practice](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1637,7 +1610,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980&t=19)** Additionally, we know that 0.9% of the smartphones produced in the first line are defective, 0.8% of smartphones in the second line are defective, and in the third line, 1.2% of smartphones are defective.
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980&t=35)** A sample of the smartphones produced is then examined and suppose it is found to be defective, find the probability that it was produced in the first line, in the second line, and in the third line.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980&t=35)** A sample of the smartphones produced is then examined and suppose it is found to be defective, find the [[Probability]] that it was produced in the first line, in the second line, and in the third line.
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-foundations-probability/example-of-bayes-theorem-in-practice?u=76281980&t=49)** Before having gone to calculate our probabilities, let's see Bayes's formula.
 >
@@ -1673,14 +1646,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** bi (7), [[Probability]] (5), next (1)
+> **Frameworks & Libraries:** [[Probability]] (5)
 > **Versions:** 0.45 (3), 0.009 (3), 0.438 (2), 43.8 (2), 0.302 (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Naive Bayes' clasifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980)
+#### [Naive Bayes' clasifier](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1676,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980&t=62)** So, for example, we could represent your previously watched movies with a matrix that displays movies based on genre and your ratings.
 >
-> **[1:11](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980&t=71)** Using Naive Bayes's classifier, movie streaming service will calculate the probability that you will like a new movie based on the genre and given stars.
+> **[1:11](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980&t=71)** Using Naive Bayes's classifier, movie streaming service will calculate the [[Probability]] that you will like a new movie based on the genre and given stars.
 >
 > **[1:21](https://www.linkedin.com/learning/machine-learning-foundations-probability/naive-bayes-clasifier?u=76281980&t=81)** It'll assume that genre features are independent of each other, so changing the value of one feature does not affect the value of the other feature.
 >
@@ -1718,7 +1690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (9), product (3), feature (2)
+> **Frameworks & Libraries:** [[Probability]] (9)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is a  (1), known as (1), is called (1)
 > **Speakers:** - [teacher] (1)
@@ -1728,12 +1700,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=0)** - [Instructor] I hope you enjoyed the course and now have a solid foundation of probability concepts and techniques.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=0)** - [Instructor] I hope you enjoyed the course and now have a solid foundation of [[Probability]] concepts and techniques.
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=6)** You can look for more programming courses coming from me in the future.
 >
@@ -1745,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=28)** I really do appreciate your engagement as well as your feedback on this course.
 >
-> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=33)** If you have any questions, please feel free to get in touch over LinkedIn and on Twitter.
+> **[0:33](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=33)** If you have any questions, please feel free to get in touch over [[LinkedIn]] and on Twitter.
 >
 > **[0:39](https://www.linkedin.com/learning/machine-learning-foundations-probability/next-steps?u=76281980&t=39)** If you enjoyed this course, I'd love to know.
 >
@@ -1755,7 +1726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (1), [[Programming]] (1), [[Search]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

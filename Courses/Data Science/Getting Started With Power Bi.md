@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze and visualize your business data
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980)
+#### [Analyze and visualize your business data](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980&t=0)** - [Gini] Analyzing data and making it usable for business Decision making is necessary for business survival today, and that's where Power BI comes in, with tools that are designed for business end users.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980&t=0)** - [Gini] Analyzing data and making it usable for [[Business Decision Making]] is necessary for business survival today, and that's where [[Microsoft Power BI|Power BI]] comes in, with tools that are designed for business end users.
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-and-visualize-your-business-data?u=76281980&t=12)** Learning to use Power BI gives you an edge over colleagues who are trying to visualize their data using tools that are less powerful or harder to use.
 >
@@ -98,22 +97,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (2), business (2), [[Business Decision Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Business Decision Making]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [gini] (1)
 
-#### Are you a Power BI consumer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980)
+#### [Are you a Power BI consumer?](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=0)** - [Instructor] Until recently, there was only one role in Power BI, and that was Power BI User.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=0)** - [Instructor] Until recently, there was only one role in [[Microsoft Power BI|Power BI]], and that was Power BI User.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=6)** You'd ask a colleague, "Do you use Power BI?"
 >
 > **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=8)** And they'd say, "Yeah, I do."
 >
-> **[0:10](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=10)** But as more organizations adopted Power BI, Microsoft came to understand that there are at least two different types of Power BI users, designers and consumers.
+> **[0:10](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=10)** But as more organizations adopted Power BI, [[Microsoft]] came to understand that there are at least two different types of Power BI users, designers and consumers.
 >
 > **[0:23](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=23)** This is a really broad brush.
 >
@@ -133,13 +131,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=67)** So we're always working a little bit one off, and that means that we have a lot of freedom to try things because we can't break anything.
 >
-> **[1:15](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=75)** Now, if you're already using Power BI, and you are ready to create reports and dashboards from scratch, this is not your course.
+> **[1:15](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=75)** Now, if you're already using Power BI, and you are ready to create reports and [[Dashboards]] from scratch, this is not your course.
 >
 > **[1:23](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=83)** Check out [[Power Bi Essential Training]] because that's the course where you'll learn to design reports and dashboards.
 >
 > **[1:30](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=90)** And if you're already working in Power BI and you want to be able to create data models, then you should view [[Learning Power BI Desktop]].
 >
-> **[1:39](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=99)** Both of these courses are in the LinkedIn Learning Library.
+> **[1:39](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=99)** Both of these courses are in the [[LinkedIn]] Learning Library.
 >
 > **[1:42](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/are-you-a-power-bi-consumer?u=76281980&t=102)** But if you are new to Power BI and your role is to use Power BI dashboards and Power BI reports created by others, then you're in exactly the right place.
 >
@@ -151,21 +149,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), bi (15), [[Dashboards]] (4), [[Microsoft]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (15), [[Dashboards]] (4), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you need for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980)
+#### [What you need for this course](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=0)** - [Instructor] Here's what you'll need to work along with me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=3)** First, some hardware recommendations.
+> **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=3)** First, some [[Hardware]] recommendations.
 >
-> **[0:06](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=6)** Available RAM is the amount of memory that you have that you can use that, for example, Windows isn't using, or other applications that you're running aren't using, and you need at least a gigabyte of available RAM to be able to run Power BI service.
+> **[0:06](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=6)** Available RAM is the amount of memory that you have that you can use that, for example, [[Windows]] isn't using, or other applications that you're running aren't using, and you need at least a gigabyte of available RAM to be able to run [[Microsoft Power BI|Power BI]] service.
 >
 > **[0:24](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=24)** But that's the minimum.
 >
@@ -187,13 +184,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=121)** The bottom line, be attentive to your display when you're first using Power BI, even if you've never had to do that for any other software.
 >
-> **[2:10](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=130)** Regarding software, power BI is meant to run on Windows 8.1 or Windows Server 20.12 or later.
+> **[2:10](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=130)** Regarding software, power BI is meant to run on Windows 8.1 or [[Windows Server]] 20.12 or later.
 >
-> **[2:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=141)** Most of us will probably be running it on Windows 10 or 11.
+> **[2:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=141)** Most of us will probably be running it on [[Windows 10]] or 11.
 >
 > **[2:25](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=145)** The news here is that you can no longer use Windows 7 with Power BI.
 >
-> **[2:31](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=151)** You'll also need .NET 4.6.2 on your computer, and you'll need to use the latest browser, a new version of Edge like Edge Chromium or Google Chrome, or a similar, good browser and the latest version of it.
+> **[2:31](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=151)** You'll also need .NET 4.6.2 on your computer, and you'll need to use the latest browser, a new version of Edge like Edge Chromium or [[Google]] Chrome, or a similar, good browser and the latest version of it.
 >
 > **[2:47](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=167)** If these hardware and software specifications seem a bit off putting, just take them to your IT folks and ask them, do I have at least the minimum or do I have the recommended, because these are all in different places.
 >
@@ -207,15 +204,15 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=208)** Now let's talk about data skills.
 >
-> **[3:30](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=210)** Imagine that you're working in Excel.
+> **[3:30](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=210)** Imagine that you're working in [[Microsoft Excel|Excel]].
 >
 > **[3:32](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=212)** If, in Excel, you know how to enter, edit and format numbers and text, take a set of data, a data range, and format it as a table, do find and replace, sort and filter in that data table and perhaps even insert and format a chart, you're going to be just fine here in Power BI because these are the kind of skills that you need to bring to a data visualization course.
 >
-> **[3:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=236)** If you would like a refresher on any of these data skills, then go spend a little time with Oz du Soleil's course, "Managing and Analyzing Data in Excel," in the LinkedIn Learning Library, and then come back here and continue with me for Power BI.
+> **[3:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/what-you-need-for-this-course?u=76281980&t=236)** If you would like a refresher on any of these data skills, then go spend a little time with Oz du Soleil's course, "Managing and Analyzing Data in Excel," in the [[LinkedIn]] Learning Library, and then come back here and continue with me for Power BI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (13), bi (13), data (7), [[Windows]] (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (13), [[Windows]] (4), [[Microsoft Excel|Excel]] (3), [[Hardware]] (2), [[Windows Server]] (1)
 > **Env Vars:** ram (3), net (2), cpu (1)
 > **Versions:** 3.2 (1), 8.1 (1), 20.12 (1), 4.6.2 (1)
 > **Prerequisites:** you'll need (3)
@@ -229,34 +226,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power BI: Key concepts for consumers
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980)
+#### [Power BI: Key concepts for consumers](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=0)** - [Narrator] Models, forecast, and business intelligence are all concepts in the news these days, but none of these are new ideas.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=0)** - [Narrator] Models, forecast, and [[Business Intelligence (BI)|business intelligence]] are all concepts in the news these days, but none of these are new ideas.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=8)** In its simple form, business intelligence is about connecting business decision-making to business data, facts about the business and its environment to understand the data driven by your business so that you can make better business decisions.
+> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=8)** In its simple form, business intelligence is about connecting business [[Decision-Making]] to business data, facts about the business and its environment to understand the data driven by your business so that you can make better business decisions.
 >
 > **[0:24](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=24)** Until recently, business intelligence was only available at the highest organizational levels.
 >
-> **[0:30](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=30)** The companies that created tools for enterprise business intelligence are large companies, SAP and Oracle, IBM, Microsoft, and so on, large companies creating really large, really expensive tools.
+> **[0:30](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=30)** The companies that created tools for enterprise business intelligence are large companies, SAP and Oracle, IBM, [[Microsoft]], and so on, large companies creating really large, really expensive tools.
 >
 > **[0:46](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=46)** Enterprise business intelligence was the realm of IT professionals more than any other group of users.
 >
 > **[0:52](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=52)** IT folks had to develop a great understanding of what was needed in the business so that they could get exactly the right data to create the reports that end users and business managers were requesting.
 >
-> **[1:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=63)** So hours and even days were often spent interviewing business users so IT could create reports for the business.
+> **[1:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=63)** So hours and even days were often spent [[Interviewing]] business users so IT could create reports for the business.
 >
 > **[1:10](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=70)** And there was often a gap between the reports that users wanted and the reports that IT was able to deliver.
 >
-> **[1:17](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=77)** Really the first alternative to this type of business intelligence was Microsoft Excel, because Excel allowed users to analyze data themselves for the first time, even if they had to take it offline and use data from last month or last quarter.
+> **[1:17](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=77)** Really the first alternative to this type of business intelligence was [[Microsoft Excel]], because [[Microsoft Excel|Excel]] allowed users to analyze data themselves for the first time, even if they had to take it offline and use data from last month or last quarter.
 >
 > **[1:32](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=92)** Excel is a popular business tool precisely because so many people learned Excel to be able to get a better handle on their business, on the data in their department or in their functional area.
 >
 > **[1:42](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=102)** And Excel was, for many of us, our first step into business intelligence for consumers.
 >
-> **[1:47](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=107)** The very first version of Power BI was built almost totally in Excel.
+> **[1:47](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=107)** The very first version of [[Microsoft Power BI|Power BI]] was built almost totally in Excel.
 >
 > **[1:52](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=112)** Microsoft has continued to evolve Power BI, however, and Power BI now is a tool set that is not Excel-centric.
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=164)** With funnel charts, treemaps, geospatial maps, slicers, and Q&A, reports in Power BI can be both informative and beautiful.
 >
-> **[2:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=176)** And most apps also include dashboards, which provide a summary view using visualizations from one or more reports.
+> **[2:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=176)** And most apps also include [[Dashboards]], which provide a summary view using visualizations from one or more reports.
 >
 > **[3:05](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-key-concepts-for-consumers?u=76281980&t=185)** As Power BI consumers, we'll be able to sort and filter and modify reports and dashboards to garner more information from the data.
 >
@@ -292,23 +288,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (19), bi (19), data (15), business (14), [[Business Intelligence (BI)|Business intelligence]] (7)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (19), [[Business Intelligence (BI)|Business intelligence]] (7), [[Microsoft Excel|Excel]] (6), [[Dashboards]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** sap (1), ibm (1)
 > **CLI Commands:** make (1)
 > **URLs:** [powerbi.com](https://powerbi.com) (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sign up for Power BI
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980)
+#### [Sign up for Power BI](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=0)** - [Instructor] In this video, we're going to sign up for Power BI.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=0)** - [Instructor] In this video, we're going to sign up for [[Microsoft Power BI|Power BI]].
 >
-> **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=3)** If you are already signed up, if you have a license and have been using or checking out Power BI, just hang out while the rest of us do this.
+> **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=3)** If you are already signed up, if you have a license and have been using or checking out Power BI, just hang out while the [[Representational State Transfer (REST)|rest]] of us do this.
 >
-> **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=12)** To start, I'm going to go to powerbi.[microsoft.com](https://microsoft.com).
+> **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=12)** To start, I'm going to go to powerbi.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:19](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=19)** You'll end up on a page that looks something like this.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=103)** That's okay. We have a way around this.
 >
-> **[1:45](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=105)** What we're going to do is we're going to go to office.[microsoft.com](https://microsoft.com), and one of your choices here is going to be a free trial.
+> **[1:45](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=105)** What we're going to do is we're going to go to [[Microsoft Office|office]].[microsoft.com](https://microsoft.com), and one of your choices here is going to be a free trial.
 >
 > **[1:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=117)** So you'll notice that Buy now is a choice and All Microsoft is a choice.
 >
@@ -354,17 +349,17 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=152)** And note that there's a link here. Try free for one month.
 >
-> **[2:37](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=157)** If you click this link, you will then be taken through the steps to set up a new Business Standard account for Microsoft 365.
+> **[2:37](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=157)** If you click this link, you will then be taken through the steps to set up a new Business Standard account for [[Microsoft 365]].
 >
 > **[2:47](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=167)** Actually, you get 25 different accounts.
 >
 > **[2:50](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=170)** So if you had other people in your organization who also needed to try to work with Power BI in this way, they could do that.
 >
-> **[2:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=177)** And although Power BI isn't listed here, what you will get if you do this free one month trial is you will get Microsoft 365 including Outlook.
+> **[2:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=177)** And although Power BI isn't listed here, what you will get if you do this free one month trial is you will get Microsoft 365 including [[Microsoft Outlook|Outlook]].
 >
 > **[3:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=188)** You will receive an email address that will have the domain that ends in [onmicrosoft.com](https://onmicrosoft.com), and you use that email address from the Microsoft Business Standard free trial as the email address that you sign up with here in Power BI.
 >
-> **[3:26](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=206)** So even if you don't have a work email address, you can still use the free trial of Microsoft 365 Business Standard in order to leverage Microsoft Power BI.
+> **[3:26](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=206)** So even if you don't have a work email address, you can still use the free trial of Microsoft 365 Business Standard in order to leverage [[Microsoft Power BI]].
 >
 > **[3:37](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sign-up-for-power-bi?u=76281980&t=217)** But I'm going to sign in now with my work email address.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (11), bi (11), business (8), [[Microsoft Power BI]] (6), [[Microsoft]] (5)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (11), [[Microsoft Power BI]] (6), [[Microsoft]] (5), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (2), [live.com](https://live.com) (1), [onmicrosoft.com](https://onmicrosoft.com) (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** scroll down (2), go to (1)
@@ -401,12 +396,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Warnings:** note that (1)
 
-#### Open the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980)
+#### [Open the Power BI service](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=0)** - [Gini] After you have set up your account, then go to [powerbi.com](https://powerbi.com) in your browser, and you will drop into Power BI.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=0)** - [Gini] After you have set up your account, then go to [powerbi.com](https://powerbi.com) in your browser, and you will drop into [[Microsoft Power BI|Power BI]].
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=9)** You may be asked to log in again at this point.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=17)** It should give you a greeting with your name and reflecting the time of day in your time zone.
 >
-> **[0:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=22)** At the top in the Recommended section, we have some reports and dashboards that are recommended mostly by Microsoft, but in this case, one is something that I recommended or I featured.
+> **[0:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=22)** At the top in the Recommended section, we have some reports and [[Dashboards]] that are recommended mostly by [[Microsoft]], but in this case, one is something that I recommended or I featured.
 >
 > **[0:36](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-the-power-bi-service?u=76281980&t=36)** And because Charles follows me, we work in the same group, he has it here.
 >
@@ -454,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (2), [[Dashboards]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Dashboards]] (1), [[Microsoft]] (1)
 > **Best Practices:** recommended (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -468,16 +462,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data and Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980)
+#### [Data and Power BI Desktop](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=0)** - [Instructor] Before we can do analysis with Power BI, we need something to work with.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=0)** - [Instructor] Before we can do analysis with [[Microsoft Power BI|Power BI]], we need something to work with.
 >
 > **[0:05](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=5)** I'm here on the homepage, and at the top we have these recommended items.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=11)** For example, reports and dashboards that have been created so that we can look at COVID-19 cases, gender equality, know how your content is up to date, lots of different types of items.
+> **[0:11](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=11)** For example, reports and [[Dashboards]] that have been created so that we can look at COVID-19 cases, gender equality, know how your content is up to date, lots of different types of items.
 >
 > **[0:27](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=27)** And in large organizations, most of these recommended items will be items that have been created for you and for other people who do the same type of work that you do.
 >
@@ -487,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=57)** And they would be listed under My Apps.
 >
-> **[1:02](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=62)** If I want to create a new data source in Power BI, the types of data that I can pull in now are data from Excel, data from a CSV, data from a published semantic data model.
+> **[1:02](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=62)** If I want to create a new data source in Power BI, the types of data that I can pull in now are data from [[Microsoft Excel|Excel]], data from a CSV, data from a published semantic data model.
 >
 > **[1:16](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=76)** And if I were to choose that, I would find the same items that are in my OneLake data hub right here.
 >
@@ -507,7 +500,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=129)** But if you do not already have the app, you'll be prompted to install it.
 >
-> **[2:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=132)** This is a free application that you download for use with Microsoft Power BI.
+> **[2:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=132)** This is a free application that you download for use with [[Microsoft Power BI]].
 >
 > **[2:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=142)** Give it a little bit of time, and it will open.
 >
@@ -517,13 +510,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=161)** There's only one problem here.
 >
-> **[2:42](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=162)** If you happen to be a Mac user, Power BI Desktop is really designed for Microsoft Windows.
+> **[2:42](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=162)** If you happen to be a Mac user, Power BI Desktop is really designed for [[Microsoft]] [[Windows]].
 >
 > **[2:48](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/data-and-power-bi-desktop?u=76281980&t=168)** So after we've brought the data in using Power BI Desktop, I'll show you another way that you can connect to the same data source we're using if you happen to be a Mac user.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), power (8), bi (8), [[Microsoft Excel|Excel]] (2), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[Microsoft Excel|Excel]] (2), [[Dashboards]] (1), [[Microsoft Power BI]] (1), [[Microsoft]] (1)
 > **Env Vars:** csv (2), covid (1)
 > **Best Practices:** recommended (2)
 > **CLI Commands:** find (1)
@@ -532,14 +525,13 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Open a PBIX file with Power BI Desktop
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980)
+#### [Open a PBIX file with Power BI Desktop](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=0)** - [Instructor] The PBIX file type was created so that we could save files in Power BI Desktop.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=0)** - [Instructor] The PBIX file type was created so that we could save files in [[Microsoft Power BI|Power BI]] Desktop.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=8)** Files that we create in Power BI Service are automatically saved in the Power BI service, but I needed to be able to save, for example, to SharePoint or to OneDrive, network share from Power BI Desktop.
+> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=8)** Files that we create in Power BI Service are automatically saved in the Power BI service, but I needed to be able to save, for example, to [[SharePoint]] or to [[Microsoft OneDrive|OneDrive]], network share from Power BI Desktop.
 >
 > **[0:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=21)** And that's what this file type is for, but that makes it a portable file.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=29)** That file will create reports and semantic models.
 >
-> **[0:33](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=33)** However, PBIX files cannot contain dashboards.
+> **[0:33](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=33)** However, PBIX files cannot contain [[Dashboards]].
 >
 > **[0:38](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=38)** So if I want to save a dashboard, the only place I can really do that is in the Power BI Service.
 >
@@ -579,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=124)** And again, it contains the PBIX.
 >
-> **[2:07](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=127)** Once you've located your file and know where it is, so the rest of this is really straightforward.
+> **[2:07](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=127)** Once you've located your file and know where it is, so the [[Representational State Transfer (REST)|rest]] of this is really straightforward.
 >
 > **[2:13](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/open-a-pbix-file-with-power-bi-desktop?u=76281980&t=133)** You're going to open the PBIX file in Power BI Desktop and in Power BI Desktop, you have the ability to publish this file to the Power BI Service.
 >
@@ -633,7 +625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (18), bi (18), data (4), next (3), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (18), [[Dashboards]] (2), [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pbix (15)
 > **Exercise Files:** exercise files (6), download the (2)
 > **UI Navigation:** open the (4), go to (1), click on (1)
@@ -642,12 +634,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 
-#### Publish a PBIX file to the Power BI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/publish-a-pbix-file-to-the-power-bi-service?u=76281980)
+#### [Publish a PBIX file to the Power BI service](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/publish-a-pbix-file-to-the-power-bi-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/publish-a-pbix-file-to-the-power-bi-service?u=76281980&t=0)** - [Instructor] Our goal is not to use Power BI Desktop.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/publish-a-pbix-file-to-the-power-bi-service?u=76281980&t=0)** - [Instructor] Our goal is not to use [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[0:02](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/publish-a-pbix-file-to-the-power-bi-service?u=76281980&t=2)** This is for modeling and model building.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), bi (14), data (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (14)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** pbix (2)
 > **Cross-References:** in the next (1)
@@ -745,14 +736,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install a sample app: Mac users
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980)
+#### [Install a sample app: Mac users](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980&t=0)** - [Instructor] In the last movie, we used Microsoft Power BI Desktop to publish a PBIX file, which contains a report in a semantic model here for our use in the Power BI Service.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980&t=0)** - [Instructor] In the last movie, we used [[Microsoft Power BI]] Desktop to publish a PBIX file, which contains a report in a semantic model here for our use in the [[Microsoft Power BI|Power BI]] Service.
 >
-> **[0:14](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980&t=14)** Power BI Desktop is a great tool used for data modeling, but the problem with it is that the only version that's available is for Microsoft Windows.
+> **[0:14](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980&t=14)** Power BI Desktop is a great tool used for [[Data Modeling]], but the problem with it is that the only version that's available is for [[Microsoft]] [[Windows]].
 >
 > **[0:23](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/install-a-sample-app-mac-users?u=76281980&t=23)** So if you're a Mac user, what are your options?
 >
@@ -844,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), bi (10), data (6), [[Microsoft]] (4), [[Windows]] (4)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (10), [[Microsoft]] (4), [[Windows]] (4), [[Microsoft Power BI]] (1), [[Data Modeling]] (1)
 > **UI Navigation:** go to (3), scroll down (1), click on (1)
 > **Analogies:** for example (1), such as (1), just like (1)
 > **Env Vars:** pbix (2)
@@ -853,8 +843,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Power BI service: Navigation and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980)
+#### [Power BI service: Navigation and features](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,13 +851,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=5)** So if you don't have it open yet, let me remind you how to open it.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=8)** Regardless of whether you connected to the app in Microsoft Learn or you use the PBIX file, store sales right here, this is the report.
+> **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=8)** Regardless of whether you connected to the app in [[Microsoft]] Learn or you use the PBIX file, store sales right here, this is the report.
 >
 > **[0:18](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=18)** If you don't see this icon, that's okay.
 >
 > **[0:20](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=20)** You can always go to my workspace, go to store sales and click on the report and give it a moment to load.
 >
-> **[0:27](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=27)** And if it's cranky, you can try refreshing your Power BI page and try again.
+> **[0:27](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=27)** And if it's cranky, you can try refreshing your [[Microsoft Power BI|Power BI]] page and try again.
 >
 > **[0:33](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=33)** And we are on the first page of this report, store sales overview.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=171)** We have a column chart that's showing us total sales variance by month, and district manager.
 >
-> **[2:59](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=179)** We have a map here, sales by postal code and store type where the size of the bubble is showing us the size of the sales, and if we zoom in a bit, it's easier to see then the larger and smaller buttons.
+> **[2:59](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=179)** We have a map here, sales by postal code and store type where the size of the bubble is showing us the size of the sales, and if we [[Zoom]] in a bit, it's easier to see then the larger and smaller buttons.
 >
 > **[3:13](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-service-navigation-features?u=76281980&t=193)** So you can just zoom in and out using whatever your zoom is on your mouse or your other input device.
 >
@@ -950,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), bi (5), data (3), [[Zoom]] (3), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (5), [[Zoom]] (3), [[Microsoft]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** pbix (1)
 > **Analogies:** for example (1)
@@ -961,12 +950,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cross-filter visuals and show a data table
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980)
+#### [Cross-filter visuals and show a data table](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980&t=0)** - [Presenter] I want to show you the feature that I think is what makes Power BI such a powerful tool.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980&t=0)** - [Presenter] I want to show you the feature that I think is what makes [[Microsoft Power BI|Power BI]] such a powerful tool.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/cross-filter-visuals-and-show-a-data-table?u=76281980&t=6)** All of the data in this report comes out of the same semantic model, the same dataset and if that semantic model is well designed, as it should be, then that means that every one of these visualizations is actually linked in some way to the data in the other visualizations.
 >
@@ -1024,13 +1012,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is called (2), means that (1)
 > **UI Navigation:** click on (2)
 > **Speakers:** - [presenter] (1)
 
-#### Drill down or show next level for more detail
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/drill-down-or-show-next-level-for-more-detail?u=76281980)
+#### [Drill down or show next level for more detail](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/drill-down-or-show-next-level-for-more-detail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,15 +1077,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (6)
 > **UI Navigation:** right-click (4), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyze a data point
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-a-data-point?u=76281980)
+#### [Analyze a data point](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/analyze-a-data-point?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,15 +1177,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort a Power BI visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sort-a-power-bi-visualization?u=76281980)
+#### [Sort a Power BI visualization](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/sort-a-power-bi-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,12 +1213,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export the data behind a visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980)
+#### [Export the data behind a visualization](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=0)** - [Instructor] Sometimes I'm looking at a visualization, and I think, "I'd really like to work with that data, perhaps, in a tool like Excel that I use all the time.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=0)** - [Instructor] Sometimes I'm looking at a visualization, and I think, "I'd really like to work with that data, perhaps, in a tool like [[Microsoft Excel|Excel]] that I use all the time.
 >
 > **[0:11](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=11)** I'd like to take the data and, perhaps, create a PivotTable or a PivotChart," whatever analysis I'd like to do, add columns, add formulas.
 >
@@ -1279,7 +1261,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=141)** First, Excel opens and it says there's a file from the internet.
 >
-> **[2:26](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=146)** Yep, that's where Power BI service lives.
+> **[2:26](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=146)** Yep, that's where [[Microsoft Power BI|Power BI]] service lives.
 >
 > **[2:28](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-the-data-behind-a-visualization?u=76281980&t=148)** So first you need to enable editing.
 >
@@ -1305,13 +1287,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Microsoft Excel|Excel]] (8), power (3), bi (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Power BI|Power bi]] (3)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotlight and bookmark reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/spotlight-and-bookmark-reports?u=76281980)
+#### [Spotlight and bookmark reports](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/spotlight-and-bookmark-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,19 +1344,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (1), just like (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ask a question with Q&A
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980)
+#### [Ask a question with Q&A](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=0)** - [Instructor] There's one more feature that is present both in reports, which we'll talk about in this chapter, and dashboards in the next, that allows you to work with your data in a more ad hoc basis.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=0)** - [Instructor] There's one more feature that is present both in reports, which we'll talk about in this chapter, and [[Dashboards]] in the next, that allows you to work with your data in a more ad hoc basis.
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=12)** So it might be that you look at the visualizations that are included in this report, and you have another question that you'd like to ask that these visualizations don't answer.
 >
@@ -1411,7 +1390,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=79)** It doesn't know what sell means.
 >
-> **[1:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=81)** There's no place we have the word sell.
+> **[1:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=81)** There's no place we have the [[Microsoft Word|word]] sell.
 >
 > **[1:24](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=84)** So what are the categories?
 >
@@ -1427,7 +1406,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=111)** What is the total sales by category by chain?
 >
-> **[1:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=116)** The words that are underlined are words that Power BI can find in the underlying data source, or they are words that the designer has included as suggestions.
+> **[1:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=116)** The words that are underlined are words that [[Microsoft Power BI|Power BI]] can find in the underlying data source, or they are words that the designer has included as suggestions.
 >
 > **[2:09](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/ask-a-question-with-q-a?u=76281980&t=129)** So total sales by category by chain underlines a good thing.
 >
@@ -1461,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1), [[Dashboards]] (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1469,12 +1448,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a comment to a report
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/add-a-comment-to-a-report?u=76281980)
+#### [Add a comment to a report](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/add-a-comment-to-a-report?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/add-a-comment-to-a-report?u=76281980&t=0)** - [Presenter] We use comments in Power BI for the same reason that we use comments in an application like Microsoft Word or Microsoft Excel, so that we can ask a question or start a conversation, perhaps make a suggestion, in this instance about a particular visualization.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/add-a-comment-to-a-report?u=76281980&t=0)** - [Presenter] We use comments in [[Microsoft Power BI|Power BI]] for the same reason that we use comments in an application like [[Microsoft Word]] or [[Microsoft Excel]], so that we can ask a question or start a conversation, perhaps make a suggestion, in this instance about a particular visualization.
 >
 > **[0:18](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/add-a-comment-to-a-report?u=76281980&t=18)** For example, when I look at the tile visualization for this year's sales in the upper left hand corner, 22 million, I'd actually like to see at least one decimal place, because there's a big difference between 22.4 and 22.9, for example, or 22.1 and 22.4, I'd like to just have another decimal place, so I'm going to make a comment about that so that I can ask the report author to consider that.
 >
@@ -1514,15 +1492,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), bi (2), application (1), [[Microsoft Word]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Microsoft Word]] (1), [[Microsoft Excel]] (1)
 > **Versions:** 22.4 (2), 22.9 (1), 22.1 (1), 22.6 (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [presenter] (1)
 
-#### Printing and saving reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980)
+#### [Printing and saving reports](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,7 +1513,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980&t=22)** If you're printing, you're going to print on a page-by-page basis, so you can choose print this page, and then the print dialogue box opens and you can make whatever choices you would like to make and print.
 >
-> **[0:36](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980&t=36)** You can generate a QR code, and the reason that you might choose to do this is, if you are going to project visualizations from this page or the entire page on a screen, for example, in PowerPoint or elsewhere, and you want people with a mobile phone to be able to navigate to the report.
+> **[0:36](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980&t=36)** You can generate a QR code, and the reason that you might choose to do this is, if you are going to project visualizations from this page or the entire page on a screen, for example, in [[Microsoft PowerPoint|PowerPoint]] or elsewhere, and you want people with a mobile phone to be able to navigate to the report.
 >
 > **[0:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/printing-and-saving-reports?u=76281980&t=56)** If they have permission, in other words, your colleagues in your organization, then you can generate a QR code and you can download this code and then use it directly.
 >
@@ -1554,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Microsoft PowerPoint|Powerpoint]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pbix (1)
 > **UI Navigation:** navigate to (1)
@@ -1563,12 +1540,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export a report to a PDF or PowerPoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980)
+#### [Export a report to a PDF or PowerPoint](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=0)** - [Narrator] There are a couple of other ways that we can take our Power BI content and share it with other users other than printing it or saving it.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=0)** - [Narrator] There are a couple of other ways that we can take our [[Microsoft Power BI|Power BI]] content and share it with other users other than printing it or saving it.
 >
 > **[0:08](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=8)** One is to save it as a PDF, and this is a great thing to do for users who don't have access to Power BI, but you'd like them to be able to see one or more pages of the report.
 >
@@ -1604,7 +1580,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=101)** There's nothing that I can click on to cross filter, but I get a great image of this report as a PDF I can then share with other users.
 >
-> **[1:51](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=111)** Another choice that's great for organizations where you do a lot of presentations is to export this to PowerPoint.
+> **[1:51](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=111)** Another choice that's great for organizations where you do a lot of presentations is to export this to [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:58](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=118)** So I'm going to choose Export, PowerPoint, and I have two different options here.
 >
@@ -1620,7 +1596,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=153)** You have the same choice about current values, and default values, and current page or all pages.
 >
-> **[2:40](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=160)** But your other option is something that was originally promoted as data storytelling, which is to embed live data.
+> **[2:40](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=160)** But your other option is something that was originally promoted as [[Data Storytelling]], which is to embed live data.
 >
 > **[2:46](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/export-a-report-to-a-pdf-or-powerpoint?u=76281980&t=166)** And to do that, you're going to copy the URL here, and you can then open it in PowerPoint to do a new presentation.
 >
@@ -1662,15 +1638,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), power (5), bi (5), data (3), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (7), [[Microsoft Power BI|Power bi]] (5), [[Data Storytelling]] (1)
 > **Env Vars:** pdf (8), url (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Share a Power BI report
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980)
+#### [Share a Power BI report](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1661,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=56)** And note that after I share that report with a specific person or people, I can choose whether they will be allowed to further share the report.
 >
-> **[1:07](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=67)** There's another checkbox here as well in the Settings in this dialogue, which is the choice to allow my recipients to take the data that I'm sending in this report and build other reports or build dashboards with it.
+> **[1:07](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=67)** There's another checkbox here as well in the Settings in this dialogue, which is the choice to allow my recipients to take the data that I'm sending in this report and build other reports or build [[Dashboards]] with it.
 >
 > **[1:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=82)** So if I want them to be able to do that as well, if what they really want access to perhaps is the underlying semantic model, then I can turn this check box on.
 >
@@ -1714,19 +1689,19 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=155)** I can email it to someone.
 >
-> **[2:37](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=157)** I can use send a link to this to Microsoft Teams.
+> **[2:37](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=157)** I can use send a link to this to [[Microsoft Teams]].
 >
-> **[2:41](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=161)** Remember that I can send a link to this to PowerPoint.
+> **[2:41](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=161)** Remember that I can send a link to this to [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[2:44](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=164)** When I click Send, in this case, it's going to create a shareable link and send it to Rob Molina, and Rob will be able to click that link.
 >
-> **[2:53](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=173)** And because Rob has Power BI Pro installed, we'll be able to come and open and use this report in the same way that I did.
+> **[2:53](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=173)** And because Rob has [[Microsoft Power BI|Power BI]] Pro installed, we'll be able to come and open and use this report in the same way that I did.
 >
 > **[3:02](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-power-bi-report?u=76281980&t=182)** If I had made some changes to the report, like the cross filtering I applied, the way I would keep that when I pass it along to Rob is to keep Include my changes selected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Dashboards]] (1), [[Microsoft Teams]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), power (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Teams]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** pbix (1)
 > **UI Navigation:** checkbox (1)
@@ -1738,14 +1713,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power BI reports vs. dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980)
+#### [Power BI reports vs. dashboards](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980&t=0)** - [Instructor] As we move now from working with reports to working with dashboards, I'd like to compare these two different types of Power BI objects so you see how they're different and how they're a little bit the same.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980&t=0)** - [Instructor] As we move now from working with reports to working with [[Dashboards]], I'd like to compare these two different types of [[Microsoft Power BI|Power BI]] objects so you see how they're different and how they're a little bit the same.
 >
-> **[0:14](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980&t=14)** Each report can have multiple pages, like tabs in an Excel workbook.
+> **[0:14](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980&t=14)** Each report can have multiple pages, like tabs in an [[Microsoft Excel|Excel]] workbook.
 >
 > **[0:20](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-reports-vs-dashboards?u=76281980&t=20)** A report is based on one and only one semantic model or dataset.
 >
@@ -1781,16 +1755,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), data (3), [[Dashboards]] (2), bi (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a simple Power BI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/create-a-simple-power-bi-dashboard?u=76281980)
+#### [Create a simple Power BI dashboard](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/create-a-simple-power-bi-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/create-a-simple-power-bi-dashboard?u=76281980&t=0)** - [Instructor] In the more general world of reporting on data, the word dashboard has a broader meaning than it does in Power BI.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/create-a-simple-power-bi-dashboard?u=76281980&t=0)** - [Instructor] In the more general world of reporting on data, the [[Microsoft Word|word]] dashboard has a broader meaning than it does in [[Microsoft Power BI|Power BI]].
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/create-a-simple-power-bi-dashboard?u=76281980&t=9)** As a matter of fact, this report or any single page of this report would often be referred to as a dashboard in some organizations.
 >
@@ -1908,7 +1881,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (3), data (2), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), switch to (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
@@ -1916,12 +1889,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a Power BI dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980)
+#### [Use a Power BI dashboard](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=0)** - [Instructor] There are a couple of options that are unique to dashboards that don't apply to reports.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=0)** - [Instructor] There are a couple of options that are unique to [[Dashboards]] that don't apply to reports.
 >
 > **[0:04](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=4)** One of them is that when you're commenting here, you're commenting on the dashboard as a whole and a second is that you can create a subscription to the dashboard.
 >
@@ -1933,7 +1905,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=25)** That's the name of the dashboard.
 >
-> **[0:28](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=28)** If you add other people here, they will also be part of this subscription, provided that either your organization has premium capacity or the people you add have Power BI Pro or Premium so that they can actually use this.
+> **[0:28](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=28)** If you add other people here, they will also be part of this subscription, provided that either your organization has premium capacity or the people you add have [[Microsoft Power BI|Power BI]] Pro or Premium so that they can actually use this.
 >
 > **[0:43](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=43)** In other words, if you have people who are unlicensed or have free licenses, you can't subscribe them.
 >
@@ -1963,7 +1935,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=132)** So if I had a background color that was fairly dark, like a gold, then I can make the tiles more or less opaque.
 >
-> **[2:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=142)** If I wish and I have a theme in my organization that's been created and there's a JSON file for that theme, I can download or upload a JSON file for this.
+> **[2:22](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=142)** If I wish and I have a theme in my organization that's been created and there's a [[JSON]] file for that theme, I can download or upload a JSON file for this.
 >
 > **[2:33](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/use-a-power-bi-dashboard?u=76281980&t=153)** So those are the kind of changes that I can make in terms of theming under the edit dropdown.
 >
@@ -1999,7 +1971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Dashboards]] (3), power (3), bi (3), [[JSON]] (2), web (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Microsoft Power BI|Power bi]] (3), [[JSON]] (2)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Env Vars:** json (2)
@@ -2007,8 +1979,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set an alert for a tile
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/set-an-alert-for-a-tile?u=76281980)
+#### [Set an alert for a tile](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/set-an-alert-for-a-tile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,21 +2013,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), power (1)
 > **UI Navigation:** scroll down (1), checkbox (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### View Quick Insights for a tile
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980)
+#### [View Quick Insights for a tile](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=0)** - [Instructor] There's another power tool that's specific to dashboards and dashboard tiles, but it's related to the analyze feature that we used in reports.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=0)** - [Instructor] There's another power tool that's specific to [[Dashboards]] and dashboard tiles, but it's related to the analyze feature that we used in reports.
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=9)** Here it is called view insights.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=11)** If I want to get some insights from Power BI about my data, I begin by determining what tile I would like to know more about.
+> **[0:11](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=11)** If I want to get some insights from [[Microsoft Power BI|Power BI]] about my data, I begin by determining what tile I would like to know more about.
 >
 > **[0:21](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/view-quick-insights-for-a-tile?u=76281980&t=21)** For example, maybe I would like to know more about last year's sales, this year's sales.
 >
@@ -2094,19 +2063,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), bi (2), data (2), [[Dashboards]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (2), [[Dashboards]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share a dashboard or tile to Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-dashboard-or-tile-to-microsoft-teams?u=76281980)
+#### [Share a dashboard or tile to Microsoft Teams](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-dashboard-or-tile-to-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-dashboard-or-tile-to-microsoft-teams?u=76281980&t=0)** - [Instructor] If your organization uses Microsoft Teams, you can leverage the interconnectivity between Power BI and Teams to be able to discuss individual tiles or dashboards in Teams.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-dashboard-or-tile-to-microsoft-teams?u=76281980&t=0)** - [Instructor] If your organization uses [[Microsoft Teams]], you can leverage the interconnectivity between [[Microsoft Power BI|Power BI]] and Teams to be able to discuss individual tiles or [[Dashboards]] in Teams.
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/share-a-dashboard-or-tile-to-microsoft-teams?u=76281980&t=12)** Let me show you how to do this.
 >
@@ -2190,18 +2158,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), [[Microsoft Teams]] (8), power (6), bi (6), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (8), [[Microsoft Power BI|Power bi]] (6), [[Dashboards]] (1)
 > **UI Navigation:** go to (2), scroll down (1), open the (1)
 > **CLI Commands:** find (1)
 > **Tools:** safari (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy a tile as a visual
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980)
+#### [Copy a tile as a visual](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=0)** - [Instructor] I'm creating a report in Microsoft Word, or perhaps a presentation in PowerPoint, or I want to place one of these charts in something I'm creating in any other application that I can use the Windows clipboard to paste from.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=0)** - [Instructor] I'm creating a report in [[Microsoft Word]], or perhaps a presentation in [[Microsoft PowerPoint|PowerPoint]], or I want to place one of these charts in something I'm creating in any other application that I can use the [[Windows]] clipboard to paste from.
 >
 > **[0:14](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=14)** So in order to copy this, I'm going to point to the tile that I wish to use in my report, click the More Options button, and choose Copy Visual as Image.
 >
@@ -2213,7 +2180,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=45)** I get the visualization from the tile.
 >
-> **[0:49](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=49)** I get a link that I can hold Control and open this in Power BI, and I get some other information.
+> **[0:49](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=49)** I get a link that I can hold Control and open this in [[Microsoft Power BI|Power BI]], and I get some other information.
 >
 > **[0:56](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/copy-a-tile-as-a-visual?u=76281980&t=56)** And if you don't want one or more of these items, you just select them and delete them here in Microsoft Word.
 >
@@ -2221,7 +2188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (3), application (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (3), [[Microsoft PowerPoint|Powerpoint]] (1), [[Windows]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **UI Navigation:** go to (1), switch to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2230,8 +2197,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Power BI next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980)
+#### [Power BI next steps](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2241,13 +2207,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=3)** So what's next?
 >
-> **[0:05](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=5)** Well, first, take a moment and post your Certificate of Completion in your profile in LinkedIn so that people who are looking for folks with Power BI courses and Power BI skills can more easily find you.
+> **[0:05](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=5)** Well, first, take a moment and post your Certificate of Completion in your profile in [[LinkedIn]] so that people who are looking for folks with [[Microsoft Power BI|Power BI]] courses and Power BI skills can more easily find you.
 >
 > **[0:20](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=20)** This is the end of this course, but there's more you can learn about Power BI.
 >
 > **[0:23](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=23)** This course was from a consumer's perspective.
 >
-> **[0:27](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=27)** So if you are using reports and dashboards built by others, this course is great.
+> **[0:27](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=27)** So if you are using reports and [[Dashboards]] built by others, this course is great.
 >
 > **[0:32](https://www.linkedin.com/learning/getting-started-with-power-bi-24648076/power-bi-next-steps?u=76281980&t=32)** But what if you want to start building things yourself, editing reports, changing the visualizations, editing the tiles that appear in dashboards?
 >
@@ -2265,7 +2231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), bi (8), [[LinkedIn]] (3), next (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Microsoft Power BI|Power bi]] (8), [[LinkedIn]] (3), [[Dashboards]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)

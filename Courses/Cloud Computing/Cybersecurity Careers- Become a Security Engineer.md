@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Becoming a security engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980)
+#### [Becoming a security engineer](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980&t=0)** - Are you interested in cybersecurity, but don't know where to start?
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980&t=0)** - Are you interested in [[Cybersecurity]], but don't know where to start?
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/becoming-a-security-engineer?u=76281980&t=4)** Are you overwhelmed by the number of resources available?
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[Cybersecurity]] (3), [[Security]] (3), teams (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **Speakers:** - are (1)
 
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a security engineer?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980)
+#### [What is a security engineer?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=13)** Security engineers are a technical role in an organization.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=17)** They serve as the first line of defense in protecting sensitive information like customer or financial data from things like security breaches, natural disasters, or disruptions.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=17)** They serve as the first line of defense in protecting sensitive information like customer or [[Financial Data]] from things like security breaches, natural disasters, or disruptions.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=30)** They protect sensitive information and systems by designing, implementing, and monitoring security protocols.
 >
@@ -136,13 +134,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=60)** Security by design takes the same approach and is the blueprint in making sure every system you set up and every component you incorporate has been looked at through a security lens.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=72)** The implementation aspect of security engineering builds upon this blueprint and typically involve using a combination of policies, processes, and technologies to enforce your security requirements.
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=72)** The implementation aspect of [[Security Engineering]] builds upon this blueprint and typically involve using a combination of policies, processes, and technologies to enforce your security requirements.
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=87)** Examples of an implementation can look like installing and configuring firewalls to monitor and filter your network traffic.
 >
-> **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=94)** You can test new hardware and software to make sure they stand up to your security requirements, or you could be developing code to create scripts for automation.
+> **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=94)** You can test new [[Hardware]] and software to make sure they stand up to your security requirements, or you could be developing code to create scripts for automation.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=105)** Other tasks a security engineer might include identifying vulnerabilities in your system, upgrading your network security, or performing risk assessments.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=105)** Other tasks a security engineer might include identifying vulnerabilities in your system, upgrading your [[Network Security]], or performing risk assessments.
 >
 > **[1:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=116)** But please do remember each job will look different depending on the size, maturity level, and industry of the organization you work for.
 >
@@ -158,11 +156,11 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=168)** Now that you have a better understanding of the roles and responsibilities of a typical engineer, I encourage you to do a search on security engineering roles and look at what requirements organizations are asking for.
 >
-> **[3:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=180)** In the next video, we'll expand on the concept of cybersecurity jobs a bit more by discussing the differences between multiple types of roles.
+> **[3:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-is-a-security-engineer?u=76281980&t=180)** In the next video, we'll expand on the concept of [[Cybersecurity]] jobs a bit more by discussing the differences between multiple types of roles.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), [[Security Engineering]] (2), [[Financial Data]] (1), traffic (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Security Engineering]] (2), [[Financial Data]] (1), [[Hardware]] (1), [[Network Security]] (1), [[Cybersecurity]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
@@ -170,14 +168,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - a (1)
 
-#### What's the difference?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980)
+#### [What's the difference?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=0)** - So you want to work in cybersecurity, but you might not know what path to take.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=0)** - So you want to work in [[Cybersecurity]], but you might not know what path to take.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=5)** In the last video, we talked about security engineering.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=5)** In the last video, we talked about [[Security Engineering]].
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=8)** Now we'll compare it with two other roles, the security analyst and security architect.
 >
@@ -235,11 +232,11 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=206)** There are many resources out there to help you.
 >
-> **[3:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=208)** For example, courses here on LinkedIn Learning or cybersecurity newsletters, like mine, "Security in Color."
+> **[3:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/what-s-the-difference?u=76281980&t=208)** For example, courses here on [[LinkedIn]] Learning or cybersecurity [[Newsletters]], like mine, "Security in Color."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (21), [[Cybersecurity]] (4), next (2), [[Security Engineering]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security Engineering]] (1), [[LinkedIn]] (1), [[Newsletters]] (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -248,12 +245,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
-#### Why pursue a career in cybersecurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980)
+#### [Why pursue a career in cybersecurity?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=0)** - Getting into the world of cybersecurity can be exciting.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=0)** - Getting into the world of [[Cybersecurity]] can be exciting.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=4)** There are always new skills to learn, new hurdles to tackle in a field that's always growing.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=33)** I could go on longer, but just know security professionals are high in demand.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=39)** In fact, according to Forbes and the US Bureau of Labor and Statistics, information security jobs will grow by 33% in the current decade or rate four times the national average.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=39)** In fact, according to Forbes and the US Bureau of Labor and [[Statistics]], information security jobs will grow by 33% in the current decade or rate four times the national average.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/why-pursue-a-career-in-cybersecurity?u=76281980&t=52)** It's also projected that there will be 3.5 million job openings in the cybersecurity field by 2025.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Cybersecurity]] (5), career (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Statistics]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **URLs:** [startacybercareer.com](https://startacybercareer.com) (1)
@@ -312,12 +308,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do your research
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980)
+#### [Do your research](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=0)** - [Announcer] The world of cybersecurity is huge, spanning nearly every industry in every part of the globe.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=0)** - [Announcer] The world of [[Cybersecurity]] is huge, spanning nearly every industry in every part of the globe.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=7)** So understandably it's easy to get overwhelmed and not know where to start.
 >
@@ -333,7 +328,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=41)** Do you remember what a security professional's focus is?
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=44)** If not, here's a handy definition from TechTarget, which is "The protection of internet connected systems "such as hardware, software, and data from cyber threats."
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=44)** If not, here's a handy definition from TechTarget, which is "The protection of internet connected systems "such as [[Hardware]], software, and data from cyber threats."
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=56)** Cyber security professionals all focus on three main pillars.
 >
@@ -347,17 +342,17 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=84)** My next piece of advice is to research various industries you may be interested in and how security engineers play a role in those industries.
 >
-> **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=94)** For example, I once worked at a Security Operations Center, better known as a SOC, for a healthcare organization.
+> **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=94)** For example, I once worked at a [[Security Operations]] Center, better known as a SOC, for a healthcare organization.
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=102)** I was tasked with securing protected health information also known as PHI, such as your doctor records.
 >
-> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=109)** In another role, I was a cloud security engineer for a cloud native consultancy firm where I drove efforts in securing our employee and client data.
+> **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=109)** In another role, I was a [[Cloud Security]] engineer for a cloud native consultancy firm where I drove efforts in securing our employee and client data.
 >
 > **[1:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=118)** While both of these roles required me to secure data and assets, they were in two different industries.
 >
 > **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=124)** One being healthcare and the other technology.
 >
-> **[2:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=127)** In the healthcare industry, I was required to know U.S. federal regulations such as HIPAA which stands for the Health Insurance Portability and Accountability Act.
+> **[2:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=127)** In the [[Healthcare Industry]], I was required to know U.S. federal regulations such as HIPAA which stands for the Health Insurance Portability and [[Accountability]] Act.
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/do-your-research?u=76281980&t=138)** For the other role, it required me to understand a more global regulation such as GDPR or the General Data Protection Regulation.
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), data (6), [[Cybersecurity]] (4), cloud (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Hardware]] (1), [[Security Operations]] (1), [[Cloud Security]] (1), [[Healthcare Industry]] (1)
 > **Analogies:** such as (4), for example (2)
 > **Env Vars:** cia (1), soc (1), phi (1), hipaa (1), gdpr (1)
 > **Definitions:** known as (3), stands for (1)
@@ -377,16 +372,15 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [announcer] (1)
 
-#### Develop your skill set
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980)
+#### [Develop your skill set](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=0)** - [Dominique] The fun thing about working in security is that there's always new skills to learn.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=6)** Cybersecurity is an ever-evolving industry and it's important to add new skills to your tool set in order to be able to tackle new challenges.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=6)** [[Cybersecurity]] is an ever-evolving industry and it's important to add new skills to your tool set in order to be able to tackle new challenges.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=14)** There are a wide variety of skills, both core and technical, that are important to security engineering.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=14)** There are a wide variety of skills, both core and technical, that are important to [[Security Engineering]].
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=21)** Let's dive into a few of each category.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=41)** If you want to be a security engineer, here are some core skills you're going to want to have.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=46)** They include problem solving, communication, project management, leadership, cross-team collaboration and flexibility.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=46)** They include problem solving, communication, project management, leadership, [[Cross-team Collaboration]] and flexibility.
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=58)** As a leader in security, I use these skills every day.
 >
@@ -422,31 +416,30 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=117)** My suggestion is to pick one domain.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=120)** Let's say, for example, cloud security.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=120)** Let's say, for example, [[Cloud Security]].
 >
-> **[2:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=122)** Go on Google and find out what skills you need to be that type of engineer.
+> **[2:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=122)** Go on [[Google]] and find out what skills you need to be that type of engineer.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=126)** Fortunately, many of the skills you learn in one job can serve you in many others down the road.
 >
 > **[2:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=134)** I encourage you to take an inventory of the skills you have now and the ones you're interested in learning.
 >
-> **[2:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=140)** Maybe you excel at problem solving, but need practice with presenting or perhaps your skilled in networking but not so much in risk management.
+> **[2:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=140)** Maybe you [[Microsoft Excel|excel]] at problem solving, but need practice with presenting or perhaps your skilled in networking but not so much in risk management.
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=150)** Either way, pick two to three skills you're interested in and go take a course on learning more about it.
 >
-> **[2:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=156)** For example, if you're interested in learning more about the Google Cloud platform I have a course you could take here on LinkedIn titled Learning Google Cloud Security to learn more about this particular technology.
+> **[2:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/develop-your-skill-set?u=76281980&t=156)** For example, if you're interested in learning more about the [[Google Cloud Platform (GCP)|Google Cloud platform]] I have a course you could take here on [[LinkedIn]] titled Learning [[Google Cloud Platform (GCP)|Google Cloud]] Security to learn more about this particular technology.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), management (2), [[Cybersecurity]] (1), [[Security Engineering]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Security Engineering]] (1), [[Cross-team Collaboration]] (1), [[Cloud Security]] (1), [[Google]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [dominique] (1)
 
-#### Certification options
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980)
+#### [Certification options](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -456,15 +449,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=10)** Don't worry, you're not alone.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=12)** Let's break down what certifications are, which ones are aligned with the cybersecurity pathway and how you can decide if they are right for you.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=12)** Let's break down what certifications are, which ones are aligned with the [[Cybersecurity]] pathway and how you can decide if they are right for you.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=21)** There are many ways to gain the education you need to have a career in security engineering.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=21)** There are many ways to gain the education you need to have a career in [[Security Engineering]].
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=28)** The first way can be to get an associate or bachelor's degree from a traditional college or university.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=34)** Many colleges now offer a degree in engineering, computer science, or even cybersecurity.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=41)** These majors will offer a variety of courses to help you understand important security concepts as well as gain practical skills such as penetration testing or networking.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=41)** These majors will offer a variety of courses to help you understand important security concepts as well as gain practical skills such as [[Penetration Testing]] or networking.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=52)** Certifications are another way to gain the educational knowledge you need to become successful.
 >
@@ -494,9 +487,9 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=168)** These certifications are geared towards individuals who have a few years of foundational and hands-on experience.
 >
-> **[2:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=176)** The first is this Certified Ethical Hacker, also known as this CEH Exam.
+> **[2:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=176)** The first is this Certified Ethical Hacker, also known as this [[CEH]] Exam.
 >
-> **[3:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=182)** This exam is geared for those interested in ethical hacking and certifies individuals in this specific network security discipline from a vendor neutral perspective.
+> **[3:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=182)** This exam is geared for those interested in [[Ethical Hacking]] and certifies individuals in this specific [[Network Security]] discipline from a vendor neutral perspective.
 >
 > **[3:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=192)** Another intermediate level exam will be the Cisco Certified Networking Administrator Exam, also known as the CCNA.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=218)** These certifications typically require four to five years of practical and hands-on experience in the field.
 >
-> **[3:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=226)** They include the CompTIA Advanced Security Practitioner Exam, the Certified Information Systems Security Professional also known as the CISSP and the Certified Cloud Security Professional Exam also known as the CCSP.
+> **[3:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=226)** They include the CompTIA Advanced Security Practitioner Exam, the Certified Information Systems Security Professional also known as the CISSP and the Certified [[Cloud Security]] Professional Exam also known as the CCSP.
 >
 > **[4:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/certification-options?u=76281980&t=242)** All three exams demand advanced knowledge in the field, testing your knowledge, skills and abilities and topics such as cloud security design, security implementation, architecture, operations, controls and compliance with regulatory frameworks.
 >
@@ -518,15 +511,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Cybersecurity]] (3), career (2), [[Security Engineering]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security Engineering]] (2), [[Cloud Security]] (2), [[Penetration Testing]] (1), [[CEH]] (1)
 > **Env Vars:** sme (1), giac (1), ceh (1), ccna (1), cissp (1)
 > **Definitions:** known as (4)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Benefits of networking
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980)
+#### [Benefits of networking](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,13 +538,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=52)** I can attest to all of these benefits, especially the last one.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=56)** A career path in cybersecurity can feel a bit isolating with all of the individual work and skills you have to do.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=56)** A career path in [[Cybersecurity]] can feel a bit isolating with all of the individual work and skills you have to do.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=64)** I've gained a ton of friends who have started off as professional colleagues, and it's made my career much richer.
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=72)** Networking has helped me build a support system for when things get hard.
 >
-> **[1:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=76)** In a previous video, I mentioned some of the cons of pursuing a career in security engineering.
+> **[1:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=76)** In a previous video, I mentioned some of the cons of pursuing a career in [[Security Engineering]].
 >
 > **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=82)** Serious challenges in the workplace such as burnout, job loss, and everything in between can get really tough.
 >
@@ -566,13 +558,13 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=117)** In turn, opportunities such as jobs, speaking engagements, and more can come your way.
 >
-> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=124)** Don't just take my word for the importance of networking.
+> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=124)** Don't just take my [[Microsoft Word|word]] for the importance of networking.
 >
-> **[2:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=127)** Here are some statistics showcasing how networking has improved the lives of others.
+> **[2:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=127)** Here are some [[Statistics]] showcasing how networking has improved the lives of others.
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=132)** 70% of people report that networking helped them find their current job, and seven out of 10 job openings aren't even publicly advertised.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=142)** 35% of people report that a casual conversation on LinkedIn has resulted in new career opportunities.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=142)** 35% of people report that a casual conversation on [[LinkedIn]] has resulted in new career opportunities.
 >
 > **[2:28](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=148)** And 95% of professionals think that in-person networking is crucial to maintaining long-lasting business relationships.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=183)** Here are some of the most common certifications associated with nationwide and local organizations that you can join.
 >
-> **[3:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=191)** They include ISC squared, ISACA, OWASP, SANS Institute, and ISSA.
+> **[3:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=191)** They include ISC squared, ISACA, [[OWASP]], SANS Institute, and ISSA.
 >
 > **[3:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=200)** Another way to network is by volunteering for cybersecurity-focused nonprofits in your local area.
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=235)** Here are some of the most common certifications associated with nationwide and local organizations that you can join: ISC squared, ISACA, OWASP, SANS Institute, and ISSA.
 >
-> **[4:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=251)** Now that you have a great foundation of understanding the what and how of professional networking, I encourage you to search for meetups in the area and attend one.
+> **[4:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=251)** Now that you have a great foundation of understanding the what and how of [[Professional Networking]], I encourage you to search for meetups in the area and attend one.
 >
 > **[4:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/benefits-of-networking?u=76281980&t=261)** Start small and bring a friend.
 >
@@ -608,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[Cybersecurity]] (4), [[OWASP]] (2), [[Security Engineering]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[OWASP]] (2), [[Security Engineering]] (1), [[Microsoft Word|Word]] (1), [[Statistics]] (1)
 > **Env Vars:** isc (2), isaca (2), owasp (2), sans (2), issa (2)
 > **Cross-References:** previous video (3), we talked about (2)
 > **CLI Commands:** make (1), find (1)
@@ -616,8 +608,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Interviewing for a security engineering position
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980)
+#### [Interviewing for a security engineering position](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=89)** These type of interviews are meant to test your skillset and assess your knowledge level of certain technical topics.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=96)** Typical interviews in this category can include things like secure coding evaluations or you might be asked a question, such as: What are some of the factors to be considered for a security code assessment?
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=96)** Typical interviews in this category can include things like [[Secure Coding]] evaluations or you might be asked a question, such as: What are some of the factors to be considered for a security code assessment?
 >
 > **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=108)** Another form of assessment you may encounter include take-home tests.
 >
@@ -659,11 +650,11 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=143)** But here are some topics you should be aware of.
 >
-> **[2:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=145)** They include things like security protocols, identity and access management, cryptography, network security and cloud security, as well as risk assessments and mobile security.
+> **[2:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=145)** They include things like security protocols, identity and access management, [[Cryptography]], [[Network Security]] and [[Cloud Security]], as well as risk assessments and mobile security.
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=158)** If the type of job you're applying for includes coding, it's helpful to be aware of some of the most popular languages and use today.
 >
-> **[2:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=165)** They include languages such as Python, which is used to build websites, software, and automation; Go language, which is used to develop web applications and more; as well as JavaScript that's used for creating dynamic content for websites.
+> **[2:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=165)** They include languages such as [[Python (Programming Language)|Python]], which is used to build websites, software, and automation; Go language, which is used to develop web applications and more; as well as [[JavaScript]] that's used for creating dynamic content for websites.
 >
 > **[3:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/interviewing-for-a-security-engineering-position?u=76281980&t=180)** We covered a lot in this video, including what an interview might look like, the types of interviews you might be asked to participate in, and the kinds of questions you might be asked.
 >
@@ -675,7 +666,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (3), career (1), [[Secure Coding]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (1), [[Cryptography]] (1), [[Network Security]] (1), [[Cloud Security]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** such as (3)
 > **Warnings:** be aware (2)
 > **CLI Commands:** python (1)
@@ -687,12 +678,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Day in the life of a cloud security engineer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980)
+#### [Day in the life of a cloud security engineer](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=0)** - When I was a cloud security engineer, each day looked different from the last.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=0)** - When I was a [[Cloud Security]] engineer, each day looked different from the last.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=5)** While I was unsure of what the day would bring, I built a daily framework using a variety of systems and tools that helped me keep track of my projects.
 >
@@ -704,7 +694,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=29)** This helped inform some of the work that I did on a daily basis and was helpful to share with my team members.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=35)** To start my workday, I immediately checked my emails, messages, and dashboards for any high priority alerts.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=35)** To start my workday, I immediately checked my emails, messages, and [[Dashboards]] for any high priority alerts.
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=42)** My team answered security incidents for the organization, so I did this first thing to make sure any potential virus were immediately flushed out.
 >
@@ -712,7 +702,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=54)** I used Splunk to investigate through some logs and correlated information to identify a real incident or a false positive, or perhaps our team was notified that a new employee needs to be onboarded.
 >
-> **[1:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=67)** In that case, my tool of choice was Google IAM or Identity and Access Management and that would allow me to provision access to that employee.
+> **[1:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=67)** In that case, my tool of choice was [[Google]] IAM or Identity and Access Management and that would allow me to provision access to that employee.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/day-in-the-life-of-a-cloud-security-engineer?u=76281980&t=76)** Either way, my first task was to make sure I had an inventory of what has come through the queue since the last time I logged on.
 >
@@ -736,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Dashboards]] (3), cloud (1), [[Google]] (1), management (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Cloud Security]] (1), [[Google]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1), for example (1), picture (1)
 > **URLs:** [cyware.com](https://cyware.com) (1)
@@ -744,8 +734,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Common challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980)
+#### [Common challenges](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980&t=4)** The challenges of today will be different tomorrow, and will continue to grow as our technology evolves.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980&t=10)** Learning how to navigate these challenges and finding balance is key to sustaining a career in cybersecurity.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980&t=10)** Learning how to navigate these challenges and finding balance is key to sustaining a career in [[Cybersecurity]].
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/common-challenges?u=76281980&t=17)** One of the biggest challenges security professionals face is the complex landscape that is cybersecurity.
 >
@@ -799,15 +788,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Cybersecurity]] (5), career (2), data (1), web (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5)
 > **Definitions:** is an  (1), is a  (1), defined as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solving problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980)
+#### [Solving problems](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,11 +803,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=8)** It involves critical thinking, decision making, creativity and information processing, all of which will help you solve security challenges.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=18)** Let's take a real-world example of a task I was presented to handle as a cloud security engineer.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=18)** Let's take a real-world example of a task I was presented to handle as a [[Cloud Security]] engineer.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=25)** My organization was looking to expand our product into new markets and wanted to become PCI-DSS certified.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=34)** For those of you who might not be familiar, PCI, also known as the payment card industry data security standard, is a set of regulatory requirements that define how to handle credit cards for major brands.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=34)** For those of you who might not be familiar, PCI, also known as the payment card industry [[Data Security]] standard, is a set of regulatory requirements that define how to handle credit cards for major brands.
 >
 > **[0:48](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/solving-problems?u=76281980&t=48)** This was my first time leading a large-scale project and I had to define and implement how we would go from point A, which is the current state, to point Z, which is compliance certified.
 >
@@ -865,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), product (2), teams (2), career (1), cloud (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (1), [[Data Security]] (1)
 > **Env Vars:** pci (4), dss (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -876,14 +864,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The fun doesn't end
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980)
+#### [The fun doesn't end](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=0)** - Congratulations, you made it to the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=4)** I hope you now use the tools we went over to start or continue your journey in cybersecurity.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=4)** I hope you now use the tools we went over to start or continue your journey in [[Cybersecurity]].
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=10)** For my beginners, remember that the cybersecurity world is huge, so to prevent overwhelming yourself, pick two to three interesting job titles or skills and learn more about them.
 >
@@ -895,11 +882,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=45)** If you want to put your knowledge to the test, there are plenty of certifications you can add to your toolbox.
 >
-> **[0:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=51)** You don't have to do this all alone as there are tons of professional networking organizations to support you and help navigate your career.
+> **[0:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=51)** You don't have to do this all alone as there are tons of [[Professional Networking]] organizations to support you and help navigate your career.
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=59)** Remember that the day in the life of a security engineer will look different for everyone.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=64)** The challenges I had as a cloud security engineer for a tech company look different than when I worked as a security engineer for a healthcare company.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=64)** The challenges I had as a [[Cloud Security]] engineer for a tech company look different than when I worked as a security engineer for a healthcare company.
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=72)** Challenges come with the job, but there are practical tools that you can use to help you such as the five W and two H method.
 >
@@ -907,7 +894,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=86)** If you're looking to learn more about security hygiene check out my course titled "Cybersecurity Awareness."
 >
-> **[1:31](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=91)** If you like more hands on experience and learning about cloud security check out my other course "Learning Google Cloud Security."
+> **[1:31](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=91)** If you like more hands on experience and learning about cloud security check out my other course "Learning [[Google Cloud Platform (GCP)|Google Cloud]] Security."
 >
 > **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-engineer/the-fun-doesn-t-end?u=76281980&t=98)** Thank you for letting me be a part of your journey.
 >
@@ -917,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Cybersecurity]] (5), cloud (2), [[Professional Networking]] (1), career (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Cloud Security]] (2), [[Professional Networking]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)

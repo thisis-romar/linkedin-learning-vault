@@ -83,20 +83,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right AI model: LLMs and SLMs explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980)
+#### [Choosing the right AI model: LLMs and SLMs explained](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=0)** - Are you choosing the right AI model for your project?
 >
-> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=3)** With a focus mainly on large language models, many developers lose sight of small language models, don't know their strengths, or may not even know they exist at all.
+> **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=3)** With a focus mainly on [[Large Language Models (LLM)|large language models]], many developers lose sight of small language models, don't know their strengths, or may not even know they exist at all.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=12)** This can lead to choosing the wrong model and building on the wrong foundation.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=15)** In this course, we'll look at the differences between small language models, SLMs, and large language models, LLMs.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=23)** We'll explore their architecture, their pros and cons, and how they can be used in Azure.
+> **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=23)** We'll explore their architecture, their pros and cons, and how they can be used in [[Microsoft Azure|Azure]].
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/choosing-the-right-ai-model-llms-and-slms-explained?u=76281980&t=28)** Hi, I'm Sam Nasr.
 >
@@ -110,26 +109,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Large Language Models (LLM)|Large language models]] (2), strengths (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** nis (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=0)** - [Instructor] Some of the things you'll need to know before starting this course are fundamental knowledge or exposure to AI and a general idea of how AI models are trained and work.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=9)** You also need to know terminology such as neural networks, tokens, and vectors.
+> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=9)** You also need to know terminology such as [[Neural Networks]], [[Tokens]], and vectors.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=13)** For the demos and exercises, you'll need working knowledge of the Azure portal, the Azure AI Foundry, and C#.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=13)** For the demos and exercises, you'll need working knowledge of the [[Microsoft Azure|Azure]] portal, the [[Azure AI Foundry]], and C#.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-you-should-know?u=76281980&t=20)** I will walk you through the demo step-by-step, but having a working knowledge of these items will help you absorb the concepts faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Neural Networks]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1), [[Tokens]] (1), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1)
 > **Prerequisites:** you'll need (2)
 > **Tools:** azure portal (1)
 > **Analogies:** such as (1)
@@ -140,8 +138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a small language model (SLM)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980)
+#### [What is a small language model (SLM)?](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980&t=40)** Most SLMs are task focused for specific tasks such as translation, summarization, or sentiment analysis.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980&t=47)** As opposed to large language models that can be multimodal, SLMs are also easier to fine tune for industry specific requirements.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980&t=47)** As opposed to [[Large Language Models (LLM)|large language models]] that can be multimodal, SLMs are also easier to fine tune for industry specific requirements.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-small-language-model-slm?u=76281980&t=55)** For example, if you're utilizing a small language model in either the medical field or the engineering field, you may want to fine tune it to utilize terminology used in that field.
 >
@@ -179,21 +176,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (1), power (1), [[Large Language Models (LLM)|Large language models]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [narrator] (1)
 
-#### How do SLMs work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980)
+#### [How do SLMs work?](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=0)** - [Narrator] To understand how SLMs work, let's take a look at some general concepts used.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=5)** SLMs are built on layers of neural networks, specifically designed to handle natural language processing and do it in a quick, efficient manner.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=5)** SLMs are built on layers of [[Neural Networks]], specifically designed to handle [[Natural Language Processing (NLP)|natural language processing]] and do it in a quick, efficient manner.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=13)** They can be trained using different data sets, for example, labeled for supervised learning, where the model learns the input and associates it with a labeled output.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=13)** They can be trained using different data sets, for example, labeled for [[Supervised Learning]], where the model learns the input and associates it with a labeled output.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=23)** Another one is unlabeled for unsupervised learning.
 >
@@ -205,13 +201,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=40)** This is a subset of unsupervised learning that we just discussed previously where the model generates its own label from the data.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=47)** For example, if might mask a word in a sentence and then predict the missing word based on the surrounding context.
+> **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=47)** For example, if might mask a [[Microsoft Word|word]] in a sentence and then predict the missing word based on the surrounding context.
 >
 > **[0:53](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=53)** When text is utilized, text is tokenized, meaning that it's broken down into smaller words and sub-words.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=59)** This allows the model to process the input at a granular level and capture relationships between different elements.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=66)** Typically, a small language model will contain an embedding layer representing words or tokens as vectors capturing semantic relationships.
+> **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=66)** Typically, a small language model will contain an embedding layer representing words or [[Tokens]] as vectors capturing semantic relationships.
 >
 > **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-slms-work?u=76281980&t=75)** Depending on the architecture of the small language model, it may have a RNN or a corral neural network.
 >
@@ -233,14 +229,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Supervised Learning]] (2), [[Microsoft Word|Word]] (2), [[Neural Networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Microsoft Word|Word]] (2), [[Neural Networks]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Tokens]] (1)
 > **Env Vars:** slm (2), rnn (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Popular SLM architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980)
+#### [Popular SLM architectures](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,9 +251,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=26)** BERT stands for Bidirectional Encoder Representations from Transformers.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=32)** This was introduced in 2018 by Google, and it's a transformer-based architecture designed for pre-training on large datasets.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=32)** This was introduced in 2018 by [[Google]], and it's a transformer-based architecture designed for pre-training on large datasets.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=40)** It captures bidirectional context for both proceeding and following words or tokens, which makes for a better understanding of the context.
+> **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=40)** It captures bidirectional context for both proceeding and following words or [[Tokens]], which makes for a better understanding of the context.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=47)** Several different variations of BERT have been developed over the years, such as DistilBERT, which is a smaller, faster, and lighter version of BERT, designed to retain most of its performance while being more resource efficient.
 >
@@ -274,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=97)** The teacher being the larger language model, and the student being the smaller language model that's being distilled to.
 >
-> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=103)** This makes the smaller model more efficient for tasks like text classification, question answering, and other natural language processing tasks.
+> **[1:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=103)** This makes the smaller model more efficient for tasks like text classification, question answering, and other [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=111)** It's designed for tasks that require less computational resources.
 >
@@ -296,7 +291,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=168)** This has gained a lot of popularity.
 >
-> **[2:50](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=170)** These are transformer-based models used to predict the next word in a sequence.
+> **[2:50](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=170)** These are transformer-based models used to predict the next [[Microsoft Word|word]] in a sequence.
 >
 > **[2:54](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=174)** This allows them to generate coherent text relevant to the context.
 >
@@ -306,29 +301,28 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=191)** Qwen 2 or Q-wen 2 is a family of models ranging from 0.5 billion to 7 billion parameters, and it's scalable and can be tailored for specific needs.
 >
-> **[3:22](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=202)** Mistral NeMo is also another example of an SLM, although this is on the larger side where it contains 12 billion parameters, and it's great for complex natural language processing like language translation and real-time dialogue systems.
+> **[3:22](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=202)** Mistral NeMo is also another example of an SLM, although this is on the larger side where it contains 12 billion parameters, and it's great for complex natural language processing like language translation and [[Real-Time]] dialogue systems.
 >
-> **[3:36](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=216)** Last but not least, Llama 3.1 8B.
+> **[3:36](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=216)** Last but not least, [[LLaMA]] 3.1 8B.
 >
 > **[3:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-slm-architectures?u=76281980&t=220)** This model provides a balance between power and efficiency, suitable for tasks like questions, answering, and sentiment analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Google]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), application (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Tokens]] (1), [[Microsoft Word|Word]] (1), [[Real-Time]] (1)
 > **Env Vars:** bert (6), lstm (1), rnn (1), gru (1), gpt (1)
 > **Definitions:** is a  (3), stands for (1)
 > **Versions:** 0.5 (1), 3.1 (1)
 > **Analogies:** such as (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capabilities and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980)
+#### [Capabilities and limitations](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=0)** - [Instructor] Let's discuss some of the capabilities of Small Language Models.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=4)** SLMs, in general, are capable of performing one or more natural language processing tasks.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=4)** SLMs, in general, are capable of performing one or more [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=10)** Some of these tasks include text generation, text classification, or named entity recognition, where it identifies and classifies proper nouns and other significant entities in text.
 >
@@ -340,7 +334,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=43)** This could be done in a variety of ways.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=46)** SLMs can be fine-tuned for a specific task, like answering questions for customer support or optimized for analyzing emotions for sentiment analysis.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=46)** SLMs can be fine-tuned for a specific task, like answering questions for [[Customer Support]] or optimized for analyzing emotions for sentiment analysis.
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=54)** They can also be adapted to business domains and terminology.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=81)** This would save on computational resources for the LLM.
 >
-> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=85)** Real-time inferencing with small language models is yet another capability.
+> **[1:25](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=85)** [[Real-Time]] inferencing with small language models is yet another capability.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=89)** This refers to the ability of these compact AI models to process and respond to input data almost instantaneously.
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=118)** SLMs require less memory and computational power, making them ideal for deployment on edge devices, mobile phones, and other resource constrained environments.
 >
-> **[2:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=127)** Privacy and security.
+> **[2:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=127)** [[Privacy]] and security.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=129)** Since SLMs can operate locally without needing constant cloud connectivity, they help keep sensitive data on-prem, enhancing privacy and security.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=264)** SLMs are often tailored to specific language tasks.
 >
-> **[4:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=267)** However, their creative abilities and understanding of nuanced language might be less sophisticated than those of large language models.
+> **[4:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=267)** However, their creative abilities and understanding of nuanced language might be less sophisticated than those of [[Large Language Models (LLM)|large language models]].
 >
 > **[4:34](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations-25358374?u=76281980&t=274)** SLMs might struggle with tasks requiring extensive generalization from limited data as they have fewer parameters and less training data compared to larger models.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Real-Time]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Privacy]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Privacy]] (2), [[Customer Support]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** slm (3), slms (2), cpap (1), usb (1), ram (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
@@ -448,12 +442,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a large language model (LLM)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980)
+#### [What is a large language model (LLM)?](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=0)** - [Instructor] A large language model is an advanced type of artificial intelligence model designed to understand user requests and generate human-like responses.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=0)** - [Instructor] A large language model is an advanced type of [[Artificial Intelligence (AI)|artificial intelligence]] model designed to understand user requests and generate human-like responses.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=8)** These responses are based on a vast amount of training data.
 >
@@ -475,13 +468,13 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=70)** For example, GPT-3, one of the well-known LLMs, has 175 billion parameters.
 >
-> **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=78)** Another key point about large language models is fine-tuning.
+> **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=78)** Another key point about [[Large Language Models (LLM)|large language models]] is fine-tuning.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=82)** These models can be fine-tuned on specific data sets to perform particular tasks or adapt to certain domains.
 >
 > **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=88)** This enhances their performance and relevance for specific applications.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=93)** Large language models are built on neural networks, which are inspired by the human brain.
+> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=93)** Large language models are built on [[Neural Networks]], which are inspired by the human brain.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=97)** These networks consist of layers of interconnected nodes that process information.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=108)** Another key point about LLMs are the applications.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=112)** LLMs are used in numerous applications, including chatbots, virtual assistants, content creation, code generation, and language translation.
+> **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=112)** LLMs are used in numerous applications, including chatbots, virtual assistants, [[Content Creation]], code generation, and language translation.
 >
 > **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=120)** Their versatility and performance make them valuable tools in various industries.
 >
@@ -515,11 +508,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=177)** LLMs require significantly more computational power and energy for training and deployment, this can be costly and environmentally unfriendly.
 >
-> **[3:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=186)** Deploying LLMs often require specialized hardware and infrastructure.
+> **[3:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=186)** Deploying LLMs often require specialized [[Hardware]] and infrastructure.
 >
 > **[3:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=190)** A second disadvantage is latency and interference speed.
 >
-> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=193)** Due to their complexity and size, LLMs may have slower response times compared to SLMs, making them less suitable for real-time applications.
+> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=193)** Due to their complexity and size, LLMs may have slower response times compared to SLMs, making them less suitable for [[Real-Time]] applications.
 >
 > **[3:22](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=202)** A third disadvantage is maintenance and updates.
 >
@@ -529,7 +522,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=216)** Large language models are prone to overfitting on their training data, especially when trained on massive data sets with a high degree of complexity due to their large number of parameters, which allows them to potentially memorize training data rather than learning generalizable patterns.
 >
-> **[3:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=232)** However, careful data cleaning, regularization techniques, and diverse training sets can mitigate this risk.
+> **[3:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=232)** However, careful [[Data Cleaning]], regularization techniques, and diverse training sets can mitigate this risk.
 >
 > **[4:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=240)** More specifically, data cleaning and preprocessing includes removing noise, duplicates, and biases from the training data.
 >
@@ -537,7 +530,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=255)** A third method of addressing overfitting is augmentation techniques, which is adding variations to the training data to improve generalization.
 >
-> **[4:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=264)** Interpretability is the understanding and interpreting the decision-making process of LLMs.
+> **[4:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=264)** Interpretability is the understanding and interpreting the [[Decision-Making]] process of LLMs.
 >
 > **[4:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/what-is-a-large-language-model-llm?u=76281980&t=269)** This is a disadvantage because it is more challenging due to their complexity compared to the relatively simpler SLMs.
 >
@@ -577,15 +570,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Large Language Models (LLM)|Large language models]] (7), llm (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (7), [[Data Cleaning]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Neural Networks]] (1), [[Content Creation]] (1)
 > **Env Vars:** llm (2), gpt (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do LLMs work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980)
+#### [How do LLMs work?](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,19 +585,19 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=3)** First thing, as with any model, we need to look at the training data.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=6)** Large language models are trained on massive data-sets that include text from various sources like books, articles, websites and more.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=6)** [[Large Language Models (LLM)|Large language models]] are trained on massive data-sets that include text from various sources like books, articles, websites and more.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=14)** This text data helps the model learn the intricacies of human language, such as grammar, syntax, semantics and context.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=23)** Once the training data is collected and provided to the model, tokenization then takes place.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=29)** This is where the text data is broken down into smaller units called tokens.
+> **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=29)** This is where the text data is broken down into smaller units called [[Tokens]].
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=33)** Tokens can be words, sub-words or even characters, depending on the model's design.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=39)** This process helps the model manage and analyze the text more effectively.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=43)** Next, the training is done with neural networks.
+> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=43)** Next, the training is done with [[Neural Networks]].
 >
 > **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=46)** LLMs use deep-learning techniques, specifically neural networks, to process and learn from the text data.
 >
@@ -641,11 +633,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=148)** As new data becomes available, the models can be retrained or fine-tuned to enhance their accuracy and their capabilities.
 >
-> **[2:35](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=155)** For a text workflow, a LLM follows several steps, first is the input, where the user provides a text prompt or a question, next comes the tokenization, where the input text is broken down into tokens, the third step is the processing, where the tokens are processed through the neural network layers, next is the use of attention mechanisms, this is where the model focuses on relevant parts of the input, afterwards, prediction is when the model generates the next word or sequence of words based on the learned patterns, and the final step is the output, where the generated text is provided as the response to the user.
+> **[2:35](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=155)** For a text workflow, a LLM follows several steps, first is the input, where the user provides a text prompt or a question, next comes the tokenization, where the input text is broken down into tokens, the third step is the processing, where the tokens are processed through the neural network layers, next is the use of attention mechanisms, this is where the model focuses on relevant parts of the input, afterwards, prediction is when the model generates the next [[Microsoft Word|word]] or sequence of words based on the learned patterns, and the final step is the output, where the generated text is provided as the response to the user.
 >
 > **[3:12](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=192)** Let's view this scenario as an example for text processing.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=196)** A user provides the input text asking, "What are the main causes of climate change?"
+> **[3:16](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=196)** A user provides the input text asking, "What are the main causes of [[Climate Change]]?"
 >
 > **[3:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=201)** That text is then tokenized, where it's then broken out into several words, and in some cases, one word will equate to two or more tokens.
 >
@@ -733,7 +725,7 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=480)** This layer assigns probabilities to different object classes.
 >
-> **[8:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=483)** The final classification layer usually uses a softmax function to generate a probability distribution over possible object classes.
+> **[8:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=483)** The final classification layer usually uses a softmax function to generate a [[Probability]] distribution over possible object classes.
 >
 > **[8:12](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/how-do-llms-work?u=76281980&t=492)** The last step, step five, is the output.
 >
@@ -767,15 +759,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), next (11), feature (7), [[Large Language Models (LLM)|Large language models]] (6), [[Tokens]] (6)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (6), [[Tokens]] (6), [[Neural Networks]] (3), [[Microsoft Word|Word]] (3), [[Climate Change]] (1)
 > **Env Vars:** cnn (5), llm (3), cpap (1), clip (1), dall (1)
 > **Analogies:** such as (4), for example (3), just like (1)
 > **CLI Commands:** cat (4)
 > **Definitions:** known as (2), stands for (1), is a  (1)
 > **Speakers:** - [person] (1)
 
-#### Popular LLM architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980)
+#### [Popular LLM architectures](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -789,7 +780,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=19)** These are GPT or Generative Pre-trained Transformer developed by OpenAI.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=24)** GPT Models like GPT-3 and GPT-4 are known for their impressive text generation capabilities.
+> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=24)** GPT Models like GPT-3 and [[GPT-4]] are known for their impressive text generation capabilities.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=31)** Another architecture is the autoencoder-based architecture.
 >
@@ -799,13 +790,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=43)** These models are used for tasks like machine translation where the input sequence or the source language is transformed into an output sequence in the target language.
 >
-> **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=52)** Recursive neural network, or RNN, are a class of artificial neural networks designed for processing sequences of data.
+> **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=52)** Recursive neural network, or RNN, are a class of [[Artificial Neural Networks]] designed for processing sequences of data.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=60)** These models use tree structures with hidden layers between input and output layers to process sequential data, but can be adapted for hierarchal data.
 >
 > **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=68)** A fifth pattern is the T5 or text-to-text transfer transformer.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=74)** This architecture was developed by Google and it treats every NLP or natural language processing problem as a text-to-text problem, simplifying the approach to various tasks.
+> **[1:14](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=74)** This architecture was developed by [[Google]] and it treats every NLP or [[Natural Language Processing (NLP)|natural language processing]] problem as a text-to-text problem, simplifying the approach to various tasks.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=84)** A sixth architecture that we'll look at is XLNet.
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=141)** This is short for Efficiently Learning an Encoder that Classifies Token Replacements Accurately.
 >
-> **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=147)** Instead of masking tokens like BERT, ELECTRA corrupts the input by replacing tokens and trains the model to identify which tokens were replaced.
+> **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=147)** Instead of masking [[Tokens]] like BERT, ELECTRA corrupts the input by replacing tokens and trains the model to identify which tokens were replaced.
 >
 > **[2:36](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=156)** Another pattern is Longformer.
 >
@@ -855,25 +846,24 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=204)** This is also developed by Google and it extends the transformer model to handle longer sequences by using sparse attention, which reduces the quadratic dependency on sequence length.
 >
-> **[3:35](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=215)** Keep in mind, this list is not exhaustive as new architectures and variations are frequently being developed in the field of natural language processing and artificial intelligence.
+> **[3:35](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=215)** Keep in mind, this list is not exhaustive as new architectures and variations are frequently being developed in the field of natural language processing and [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[3:44](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/popular-llm-architectures?u=76281980&t=224)** In addition, researchers and engineers continuously innovate to improve performance, efficiency, and adaptability of these models, creating new variations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (3), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), bi (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Tokens]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[GPT-4]] (1), [[Artificial Neural Networks]] (1)
 > **Env Vars:** gpt (8), bert (7), electra (2), rnn (1), nlp (1)
 > **Definitions:** is an  (2), is a  (1), short for (1)
 > **Cross-References:** previous video (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capabilities and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980)
+#### [Capabilities and limitations](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=0)** - [Presenter] Large language models, as a whole, have a wide range of capabilities that can be divided into four categories.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=0)** - [Presenter] [[Large Language Models (LLM)|Large language models]], as a whole, have a wide range of capabilities that can be divided into four categories.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=6)** Those categories are text, image, language, and creative.
 >
@@ -899,15 +889,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=62)** Another subcategory under text capabilities is data analysis.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=67)** This is where the LLM can analyze either structured or unstructured data.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=67)** This is where the LLM can analyze either structured or [[Unstructured Data]].
 >
-> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=71)** With structured data, it refers to tables and databases, and this helps to provide insights and summaries and visualizations of that data.
+> **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=71)** With structured data, it refers to tables and [[Databases]], and this helps to provide insights and summaries and visualizations of that data.
 >
 > **[1:19](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=79)** It can also process unstructured data where it can process and make sense of unstructured data, such as social media posts, emails, or other freeform text.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=88)** The third subcategory of text capabilities is simulation and prediction.
+> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=88)** The third subcategory of text capabilities is [[Simulation]] and prediction.
 >
-> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=93)** For predictive text, it can predict and suggest the next word or phrase in a text, improving typing efficiency.
+> **[1:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=93)** For predictive text, it can predict and suggest the next [[Microsoft Word|word]] or phrase in a text, improving typing efficiency.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=99)** Another scenario simulation where it can generate and simulate different scenarios based on input parameters.
 >
@@ -917,7 +907,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=113)** This is where the model can generate personalized recommendations, responses, or content based on user preferences and behavior.
 >
-> **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=120)** For example, when you visit an e-commerce site and you purchase an item, there's also items that are recommended that go along with that item.
+> **[2:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=120)** For example, when you visit an [[E-Commerce]] site and you purchase an item, there's also items that are recommended that go along with that item.
 >
 > **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=128)** For example, you purchase a laptop.
 >
@@ -967,9 +957,9 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=258)** And last is topic modeling, where it can identify and categorize topics within a large corpus of text.
 >
-> **[4:25](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=265)** Moving on to the third subcategory of language capabilities is conversational AI.
+> **[4:25](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=265)** Moving on to the third subcategory of language capabilities is [[Conversational AI]].
 >
-> **[4:31](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=271)** This is where chatbots can engage in human-like conversations for Q&A, customer support, or even entertainment.
+> **[4:31](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=271)** This is where chatbots can engage in human-like conversations for Q&A, [[Customer Support]], or even entertainment.
 >
 > **[4:38](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=278)** Another one is virtual assistant, where it performs tasks like scheduling, setting reminders, and answering questions.
 >
@@ -983,7 +973,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=312)** This is the ability to generate creative content in a variety of ways.
 >
-> **[5:16](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=316)** For example, there are storytelling that utilizes text generation where it can generate creative stories, poems, and other forms of written content.
+> **[5:16](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=316)** For example, there are [[Storytelling]] that utilizes text generation where it can generate creative stories, poems, and other [[Forms]] of written content.
 >
 > **[5:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=324)** There's also music composition where it can actually create music by generating sequences of notes and chords.
 >
@@ -995,7 +985,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=343)** First, they're resource intensive, meaning they require high CPU and memory usage.
 >
-> **[5:48](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=348)** And because of this, they can only run on limited hardware, meaning higher performing processors that are not widely available on every machine.
+> **[5:48](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=348)** And because of this, they can only run on limited [[Hardware]], meaning higher performing processors that are not widely available on every machine.
 >
 > **[5:57](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/capabilities-and-limitations?u=76281980&t=357)** Another limitation is the complex training.
 >
@@ -1011,7 +1001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), data (3), llm (3), [[Unstructured Data]] (3), [[Simulation]] (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Unstructured Data]] (3), [[Simulation]] (2), [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5), such as (2)
 > **Env Vars:** llm (3), cpu (1)
 > **CLI Commands:** make (1)
@@ -1024,8 +1014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Difference between SLM and LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980)
+#### [Difference between SLM and LLM](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,7 +1030,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=35)** Parameters include weights and biases that get fine-tuned to optimize the model's performance.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=41)** Weights determine the strength of the connections between neurons and neural networks, while biases help adjust the output.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=41)** Weights determine the strength of the connections between neurons and [[Neural Networks]], while biases help adjust the output.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=47)** Layers are a critical component of the neural network architecture and used in all model types.
 >
@@ -1051,7 +1040,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=72)** Each layer in the network learns different levels of abstraction.
 >
-> **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=75)** Lower layers might capture basic features like word embeddings, while higher layers capture more complex relationships and patterns.
+> **[1:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=75)** Lower layers might capture basic features like [[Microsoft Word|word]] embeddings, while higher layers capture more complex relationships and patterns.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=83)** The number of layers or depth in a model determines its capacity to learn and represent more information.
 >
@@ -1067,7 +1056,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=109)** This is not a layer type, per se, but it's a general term that describes the layers between the input layer and the output layer.
 >
-> **[1:56](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=116)** Some of these layers include the embedding layer, which converts input tokens into dense vector representations called embeddings.
+> **[1:56](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=116)** Some of these layers include the embedding layer, which converts input [[Tokens]] into dense vector representations called embeddings.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/difference-between-slm-and-llm?u=76281980&t=123)** These embeddings capture semantic and syntactic information about the tokens.
 >
@@ -1211,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Tokens]] (5), next (4), [[Microsoft Word|Word]] (3), [[Neural Networks]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Microsoft Word|Word]] (3), [[Neural Networks]] (2)
 > **Env Vars:** lstm (2), slm (2), gru (1), gpt (1), cpu (1)
 > **Definitions:** is a  (3), refers to (2), known as (1)
 > **Analogies:** such as (3), for example (2)
@@ -1219,8 +1208,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use SLM or LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980)
+#### [When to use SLM or LLM](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,15 +1218,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=7)** First, what are the task requirements?
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=10)** Identify the specific task needed, whether it's text, natural language processing, language, or image analysis.
+> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=10)** Identify the specific task needed, whether it's text, [[Natural Language Processing (NLP)|natural language processing]], language, or image analysis.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=17)** Some tasks can be accomplished by other model type while other like image processing can only be done by LLM.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=17)** Some tasks can be accomplished by other model type while other like [[Image Processing]] can only be done by LLM.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=24)** Next, what are the computational resources available?
 >
 > **[0:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=27)** Generally speaking, for edge devices and modest machines, a small language model is ideal.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=32)** If a robust machine or access to cloud computing like Azure is available, then both SLMs and LLMs are an option.
+> **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=32)** If a robust machine or access to [[Cloud Computing]] like [[Microsoft Azure|Azure]] is available, then both SLMs and LLMs are an option.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=40)** Also, consider the availability of internet connectivity.
 >
@@ -1250,7 +1238,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=59)** If a low latency inference is required, then SLMs would be a better option.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=63)** On the other hand, LLMs may have slower response time, making them less suitable for real-time applications.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=63)** On the other hand, LLMs may have slower response time, making them less suitable for [[Real-Time]] applications.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=70)** One or more of these criteria will help determine which model type to use.
 >
@@ -1286,9 +1274,9 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=146)** To help you maneuver the course of finding the best SLM or LLM, there are several tools that are available.
 >
-> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=152)** First is Azure AI Foundry, next is Lighteval, which is a downloadable and installable tool from GitHub.
+> **[2:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=152)** First is [[Azure AI Foundry]], next is Lighteval, which is a downloadable and installable tool from [[GitHub]].
 >
-> **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=160)** [llm-stats.com](https://llm-stats.com) is another website, as well as [huggingface.co/models](https://huggingface.co/models).
+> **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=160)** [llm-stats.com](https://llm-stats.com) is another website, as well as [[[Hugging Face|huggingface]].co/models](https://huggingface.co/models).
 >
 > **[2:47](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/when-to-use-slm-or-llm?u=76281980&t=167)** These are websites that allow you to view benchmarks and be able to compare different models together.
 >
@@ -1318,7 +1306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), llm (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Azure AI Foundry]] (2), [[Image Processing]] (1), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** llm (3), slm (2)
 > **Analogies:** such as (2), for example (1)
 > **URLs:** [llm-stats.com](https://llm-stats.com) (1), [huggingface.co](https://huggingface.co) (1)
@@ -1327,20 +1315,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 
-#### Deployment types
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980)
+#### [Deployment types](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=0)** - [Narrator] Deploying either large language models or small language models can be done in a variety of ways.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=0)** - [Narrator] Deploying either [[Large Language Models (LLM)|large language models]] or small language models can be done in a variety of ways.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=6)** First, there's on-premises deployment utilizing either local servers or edge devices like smartphones or IOT devices.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=6)** First, there's on-premises deployment utilizing either local servers or edge devices like smartphones or [[IoT]] devices.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=14)** In addition, cloud deployment's also a very viable option.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=18)** You can use the cloud platform where models can be deployed on virtual machines and platforms like Azure AWS or Google Cloud.
+> **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=18)** You can use the cloud platform where models can be deployed on [[Virtual Machines]] and platforms like [[Microsoft Azure|Azure]] AWS or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
-> **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=26)** This provides scalability and access to powerful hardware, but may involve some data privacy considerations.
+> **[0:26](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=26)** This provides [[Scalability]] and access to powerful [[Hardware]], but may involve some [[Data Privacy]] considerations.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=32)** You can also utilize serverless architecture in the cloud where you can use serverless functions to deploy models, which allow for automatic scaling and cost efficiency, especially for variable workloads.
 >
@@ -1350,7 +1337,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=60)** This balances latency and computational load.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=63)** Another option is containerization, like Dockers or Kubernetes.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=63)** Another option is containerization, like Dockers or [[Kubernetes]].
 >
 > **[1:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deployment-types?u=76281980&t=66)** Deploying models and containers allows for easy scaling, portability, and management across different environments.
 >
@@ -1364,7 +1351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Hardware]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[IoT]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[IoT]] (1), [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** iot (1), aws (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** known as (1)
@@ -1375,8 +1362,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deploying and accessing SLM locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980)
+#### [Deploying and accessing SLM locally](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,13 +1404,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=102)** I already downloaded Visual Studio 2022 and installed it, and in this scenario I'm using a console application.
 >
-> **[1:49](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=109)** In addition, I downloaded the Newtonsoft.Json NuGet package.
+> **[1:49](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=109)** In addition, I downloaded the Newtonsoft.[[JSON]] NuGet package.
 >
 > **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=115)** Stepping into my code, what I'm doing is I'm instantiating an HTTP client.
 >
 > **[2:01](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=121)** For the base URL and the model ID, I copied these parameters from the Developer tab.
 >
-> **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=128)** In addition, I set my request body where I specify the prompt and the maximum number of tokens.
+> **[2:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=128)** In addition, I set my request body where I specify the prompt and the maximum number of [[Tokens]].
 >
 > **[2:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-slm-locally?u=76281980&t=135)** And in this case, I'm simply asking, what's the capital of Spain?
 >
@@ -1452,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), next (1), [[Search]] (1), api (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Tokens]] (1)
 > **Env Vars:** uri (2), slm (1), api (1), http (1), url (1)
 > **Tools:** visual studio (3)
 > **CLI Commands:** make (2)
@@ -1461,16 +1447,15 @@ created: 2026-05-02
 > **Versions:** 3.1 (1)
 > **Definitions:** is a  (1)
 
-#### Deploying and accessing LLM in Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980)
+#### [Deploying and accessing LLM in Azure AI Foundry](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=0)** - [Narrator] In this video, I will demonstrate how to deploy a large language model in the cloud and interact with it using C# code.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=8)** I will use the Azure AI Foundry to deploy the model, then access it from a console application.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=8)** I will use the [[Azure AI Foundry]] to deploy the model, then access it from a console application.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=13)** To get to this stage, you'll need to set up an Azure subscription in the Azure portal.
+> **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=13)** To get to this stage, you'll need to set up an [[Microsoft Azure|Azure]] subscription in the Azure portal.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=17)** Then you'll need to set up a hub and project in the Azure AI Foundry linked to that subscription.
 >
@@ -1504,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=143)** These three pieces of information will be utilized in my code.
 >
-> **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=147)** I can click on the consume tab and it gives me code snippets in three different languages for accessing my model, in Python, C#, as well as JSON.
+> **[2:27](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=147)** I can click on the consume tab and it gives me code snippets in three different languages for accessing my model, in [[Python (Programming Language)|Python]], C#, as well as [[JSON]].
 >
 > **[2:40](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/deploying-and-accessing-llm-in-azure-ai-foundry?u=76281980&t=160)** I'll utilize the C# code here and use it in Visual Studio 2022.
 >
@@ -1542,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), ai (2), [[JSON]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[JSON]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** gpt (2), json (2), openai_endpoint (2), openai_key (2), uri (1)
 > **UI Navigation:** click on (5), scroll down (1), select the (1)
 > **Prerequisites:** set up (5), you'll need (2)
@@ -1551,14 +1536,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1), visual studio (1)
 > **URLs:** [azure.ai](https://azure.ai) (1)
 
-#### Challenge: Build an SLM solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980)
+#### [Challenge: Build an SLM solution](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980&t=0)** - [Instructor] Now it's time to put your skills to the test with this challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980&t=9)** You are required to choose a model with the following criteria; a text translation model from the AI Foundry, it must have an Apache 2.0 license, has to be relatively small in size, AKA, a small language model, capable of fine tuning, deployed from the Azure AI Foundry in a managed compute environment, and supports the languages of English, French, Romanian, and German.
+> **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980&t=9)** You are required to choose a model with the following criteria; a text translation model from the AI Foundry, it must have an Apache 2.0 license, has to be relatively small in size, AKA, a small language model, capable of [[Fine Tuning]], deployed from the [[Azure AI Foundry]] in a managed compute environment, and supports the languages of English, French, Romanian, and German.
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/challenge-build-an-slm-solution?u=76281980&t=33)** In addition, build an application to access that deployed model.
 >
@@ -1566,7 +1550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Fine Tuning]] (1), [[Azure AI Foundry]] (1), application (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Azure AI Foundry]] (1)
 > **CLI Commands:** apache (1)
 > **Env Vars:** aka (1)
 > **Versions:** 2.0 (1)
@@ -1574,8 +1558,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build an SLM solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980)
+#### [Solution: Build an SLM solution](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,7 +1566,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=5)** - [Instructor] Now, let's take a look at the solution for our challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=8)** In Azure AI Foundry, I set the filters according to the criteria that was specified in the challenge.
+> **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=8)** In [[Azure AI Foundry]], I set the filters according to the criteria that was specified in the challenge.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=15)** I'm looking for a managed compute, text translation model, license of apache, and a fine-tuneable translation model.
 >
@@ -1633,7 +1616,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=181)** From there, we set our request body and we're utilizing the input.
 >
-> **[3:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=187)** I love working with Azure and AI in English.
+> **[3:07](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=187)** I love working with [[Microsoft Azure|Azure]] and AI in English.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=191)** We then utilize the GetEnvironment variable for the API key.
 >
@@ -1643,7 +1626,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=210)** As we see, we instantiate the targetURI with a URI method.
 >
-> **[3:39](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=219)** We specify that the MediaTypeHeaderValue is going to be JSON.
+> **[3:39](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=219)** We specify that the MediaTypeHeaderValue is going to be [[JSON]].
 >
 > **[3:44](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/solution-build-an-slm-solution?u=76281980&t=224)** We then go ahead and make a PostAsync call.
 >
@@ -1657,7 +1640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (2), ai (2), [[Azure AI Foundry]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1), [[JSON]] (1)
 > **Env Vars:** uri (2), net (2), url (1), api (1), target_uri (1)
 > **CLI Commands:** apache (1), make (1)
 > **Versions:** 4.7.1 (1), 9.0 (1)
@@ -1671,14 +1654,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common pitfalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980)
+#### [Common pitfalls](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=0)** - [Instructor] Let's look at some common pitfalls that can impact your AI project.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=4)** First, data quality.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=4)** First, [[Data Quality]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=6)** Like the old adage, garbage in, garbage out.
 >
@@ -1708,7 +1690,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=61)** Next is interpretability.
 >
-> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=63)** This is where complex models like deep neural networks can be hard to interpret, which might make it challenging to understand why they make certain decisions.
+> **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=63)** This is where complex models like deep [[Neural Networks]] can be hard to interpret, which might make it challenging to understand why they make certain decisions.
 >
 > **[1:11](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=71)** This can be problematic, and high stake industries.
 >
@@ -1718,7 +1700,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=84)** For tasks that require high stakes, it's always best to have a human checkpoint.
 >
-> **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=89)** Scalability.
+> **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=89)** [[Scalability]].
 >
 > **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=90)** Some models perform well in controlled environments, but struggle when scaled up or applied to real world scenarios.
 >
@@ -1730,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=112)** Last but not least, ethical and legal concerns.
 >
-> **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=115)** Privacy issues, compliance with data regulations, and the ethical implications of deploying AI are often overlooked, leading to potential legal problems.
+> **[1:55](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=115)** [[Privacy Issues]], compliance with data regulations, and the ethical implications of deploying AI are often overlooked, leading to potential legal problems.
 >
 > **[2:05](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=125)** Some additional pitfalls.
 >
@@ -1744,7 +1726,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=144)** Not enough test cases or the model has been retrained, and has been been deployed without testing.
 >
-> **[2:30](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=150)** Another common pitfall is the sample code provided by the Azure AI Foundry.
+> **[2:30](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=150)** Another common pitfall is the sample code provided by the [[Azure AI Foundry]].
 >
 > **[2:34](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=154)** Although this code is useful, and provides a good starting point, sometimes it's not always up to date, and requires some modifications, whether it's the NuGet packages or updated classes for accessing the model.
 >
@@ -1760,7 +1742,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=189)** In addition, pay special attention to the virtual machine size.
 >
-> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=193)** This might be restricted in your region, so always check that availability list provided by Azure.
+> **[3:13](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=193)** This might be restricted in your region, so always check that availability list provided by [[Microsoft Azure|Azure]].
 >
 > **[3:19](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/common-pitfalls?u=76281980&t=199)** Another thing to note with regards to the deployment is that it occurs in three separate steps.
 >
@@ -1774,7 +1756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (7), business (2), [[Azure AI Foundry]] (2), teams (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Data Quality]] (1), [[Neural Networks]] (1), [[Scalability]] (1), [[Privacy Issues]] (1)
 > **Warnings:** pitfall (5), keep in mind (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1), gpu (1)
@@ -1782,14 +1764,13 @@ created: 2026-05-02
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980)
+#### [Best practices](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=0)** - [Presenter] Let's look at some best practices to implement in your AI project.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=4)** First and foremost is data quality.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=4)** First and foremost is [[Data Quality]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=6)** Be sure that data represents real-world diversity, free from biases where it's skewed towards a specific grouping.
 >
@@ -1803,11 +1784,11 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=32)** Also, if used in high stakes applications, that it require a human checkpoint, where an industry professional can either approve or reject the response from the model.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=42)** Third is security and privacy.
+> **[0:42](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=42)** Third is security and [[Privacy]].
 >
 > **[0:44](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=44)** Handle the data responsibly.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=46)** Implement robust security measures to protect user data and comply with data privacy regulations.
+> **[0:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=46)** Implement robust security measures to protect user data and comply with [[Data Privacy]] regulations.
 >
 > **[0:52](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=52)** Another best practice is for interpretability.
 >
@@ -1817,13 +1798,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=62)** Also, keep in mind that AI development is an iterative development process.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=68)** Treat model development as an iterative process in the sense that you're continuously testing, validating, and improving your model based on user feedback and performance metrics.
+> **[1:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=68)** Treat model development as an iterative process in the sense that you're continuously testing, validating, and improving your model based on user feedback and [[Performance Metrics]].
 >
 > **[1:18](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=78)** Another key point to remember is documentation.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=81)** Maintain thorough documentation of your models, including training data, methodologies, and version histories.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=88)** The key word here is thorough.
+> **[1:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=88)** The key [[Microsoft Word|word]] here is thorough.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=90)** Not only do you want your colleagues and new team members to fully understand the documentation, but you also want your future you to be able to understand it.
 >
@@ -1875,19 +1856,19 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=206)** As new data arrives, apply augmentation techniques such as synonym replacement or paraphrasing, and this will help keep the model up-to-date.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=214)** Another method is real time information retrieval.
+> **[3:34](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=214)** Another method is real time [[Information Retrieval]].
 >
 > **[3:37](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=217)** This is where the output is augmented by external data using retrieval augmented generation or RAG.
 >
 > **[3:43](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=223)** Depending on your specific scenario, this may be difficult to achieve.
 >
-> **[3:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=226)** Since some models may be running on hardware not connected to a network, real-time data retrieval from another system would not be possible.
+> **[3:46](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=226)** Since some models may be running on [[Hardware]] not connected to a network, [[Real-Time]] data retrieval from another system would not be possible.
 >
 > **[3:54](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=234)** This is especially true for small language models.
 >
 > **[3:57](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=237)** And lastly is the ensemble method for updating the model.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=240)** This is where you combine multiple models trained on different time windows to create an ensemble model that reflects the most recent data.
+> **[4:00](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=240)** This is where you combine multiple models trained on different time [[Windows]] to create an ensemble model that reflects the most recent data.
 >
 > **[4:08](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/best-practices?u=76281980&t=248)** This approach can improve the model's robustness and accuracy by incorporating diverse perspectives.
 >
@@ -1897,7 +1878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (3), [[Security]] (2), [[Privacy]] (2), application (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Data Quality]] (1), [[Privacy]] (1), [[Data Privacy]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** best practice (2)
 > **Env Vars:** rag (1)
@@ -1911,8 +1892,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,7 +1904,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980&t=16)** One of the things I enjoy most is helping other developers on their learning journey.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980&t=21)** LinkedIn has been instrumental in connecting me with other developers to answer their questions and provide guidance when needed.
+> **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980&t=21)** [[LinkedIn]] has been instrumental in connecting me with other developers to answer their questions and provide guidance when needed.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-llms-and-slms/next-steps?u=76281980&t=28)** I'd be happy to answer any questions for you, help you with a course, or assist you in your AI project.
 >
@@ -1936,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)

@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create happier users with asynchronous C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980)
+#### [Create happier users with asynchronous C#](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=5)** These days, most computers have multicore processors.
 >
-> **[0:09](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=9)** When that's combined with increasingly sophisticated user interfaces, developers have both a need, and the hardware capability for asynchronous programming.
+> **[0:09](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=9)** When that's combined with increasingly sophisticated user interfaces, developers have both a need, and the [[Hardware]] capability for asynchronous programming.
 >
 > **[0:18](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/create-happier-users-with-asynchronous-c-sharp?u=76281980&t=18)** Mastering asynchronous techniques will help you build applications that take full advantage of modern hardware, perform well, and are more responsive to your users.
 >
@@ -98,12 +97,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Env Vars:** net (1)
 > **Speakers:** - asynchronous (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=11)** Things like declaring variables, writing functions, loops, and using basic programming constructs that exist in just about every language.
 >
-> **[0:19](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=19)** I'll be writing small programs and running them with the .NET CLI, so some basic experience with it would also be helpful, but not really required.
+> **[0:19](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=19)** I'll be writing small programs and running them with the .NET [[CLI]], so some basic experience with it would also be helpful, but not really required.
 >
 > **[0:29](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-you-should-know?u=76281980&t=29)** As long as you have the .NET SDK installed on your computer, you should be able to follow along even if you've never used the .NET CLI.
 >
@@ -123,7 +121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[CLI]] (2)
+> **Frameworks & Libraries:** [[CLI]] (2)
 > **Env Vars:** net (3), cli (2), sdk (1)
 > **Speakers:** - [instructor] (1)
 
@@ -132,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is asynchronous programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980)
+#### [What is asynchronous programming?](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=17)** Asynchronous programming is a technique that lets you offload long running operations to background threads so that the main thread of your application remains available to respond to new input from your user.
 >
-> **[0:30](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=30)** The result is an application that makes more efficient use of the available hardware and is more responsive to your users.
+> **[0:30](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=30)** The result is an application that makes more efficient use of the available [[Hardware]] and is more responsive to your users.
 >
 > **[0:38](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=38)** When a user starts your application, an application process begins running on their computer.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=55)** In some applications, only utilizing a single thread may be all you need.
 >
-> **[1:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=60)** However, if your application starts to perform tasks that take a bit longer to execute, like reading the contents of a file or making an HTTP request, then there can be negative effects on the overall user experience.
+> **[1:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=60)** However, if your application starts to perform tasks that take a bit longer to execute, like reading the contents of a file or making an HTTP request, then there can be negative effects on the overall [[User Experience (UX)|user experience]].
 >
 > **[1:13](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/what-is-asynchronous-programming?u=76281980&t=73)** While the UI thread is busy processing those longer running tasks, it blocks any new input from your user.
 >
@@ -171,14 +168,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Programming]] (3), [[Hardware]] (2), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** cpu (1), http (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - these (1)
 
-#### When and why to write asynchronous code
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/when-and-why-to-write-asynchronous-code?u=76281980)
+#### [When and why to write asynchronous code](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/when-and-why-to-write-asynchronous-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,13 +206,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Programming]] (1), api (1), web (1), database (1)
 > **Env Vars:** api (1), cpu (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - understanding (1)
 
-#### Patterns for asynchronous programming in C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980)
+#### [Patterns for asynchronous programming in C#](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=14)** The patterns used for asynchronous programming in C# have evolved a lot over the years.
 >
-> **[0:19](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=19)** In this course, I'm only going to focus on the pattern currently recommended by Microsoft, but I want you to be aware that other older patterns do exist, because you will likely encounter them in older books, blog posts, and other training materials.
+> **[0:19](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=19)** In this course, I'm only going to focus on the pattern currently recommended by [[Microsoft]], but I want you to be aware that other older patterns do exist, because you will likely encounter them in older books, blog posts, and other training materials.
 >
 > **[0:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/patterns-for-asynchronous-programming-in-c-sharp?u=76281980&t=34)** The first I'll mention is the Event-Based Asynchronous Pattern.
 >
@@ -260,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Programming]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (4)
 > **Analogies:** such as (1), for example (1)
 > **Best Practices:** recommended (2)
 > **Definitions:** known as (1)
@@ -272,8 +266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and executing tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980)
+#### [Creating and executing tasks](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=58)** I'll output another message to the console, so we know when the processing has begun.
 >
-> **[1:08](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=68)** I'm not going to do any real work here, instead I'll just simulate some long-running data processing by calling Thread.Sleep.
+> **[1:08](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=68)** I'm not going to do any real work here, instead I'll just simulate some long-running [[Data Processing]] by calling Thread.Sleep.
 >
 > **[1:20](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/creating-and-executing-tasks?u=76281980&t=80)** At the end I'll add one more Console.WriteLine call, just to let us know when the processing is completed.
 >
@@ -347,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), hit (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2)
 > **CLI Commands:** make (2), dotnet (1), go run (1)
 > **Tools:** terminal (3), visual studio (1)
 > **Cross-References:** go back to (2)
@@ -355,8 +348,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Waiting for tasks to complete
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980)
+#### [Waiting for tasks to complete](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +414,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=190)** Between those two, I'm first going to create a new HttpClient instance,
 >
-> **[3:21](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=201)** I'll then call the GetAsync method that exists on HTTP clients and request the LinkedIn learning homepage.
+> **[3:21](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=201)** I'll then call the GetAsync method that exists on HTTP clients and request the [[LinkedIn]] learning homepage.
 >
 > **[3:33](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/waiting-for-tasks-to-complete?u=76281980&t=213)** Notice that if I hover over the call to GetAsync, we can see that it returns a task with a generic type parameter of type HTTP response message.
 >
@@ -446,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), generic (2), next (1), api (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** http (4), net (1), api (1)
 > **Analogies:** imagine (1), just like (1)
 > **Code Identifiers:** datatask (1)
@@ -455,8 +447,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using continuations
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980)
+#### [Using continuations](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -520,7 +511,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=225)** I'll name that task HTTP task.
 >
-> **[3:52](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=232)** Since the continuation is also a task that will be executed asynchronously, I can process the results of the completed task here without blocking the rest of the application.
+> **[3:52](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=232)** Since the continuation is also a task that will be executed asynchronously, I can process the results of the completed task here without blocking the [[Representational State Transfer (REST)|rest]] of the application.
 >
 > **[4:03](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-continuations?u=76281980&t=243)** I'll just move the two lines I already had that access and print out the result inside the body of the delegate.
 >
@@ -532,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (5), url (1)
 > **Analogies:** for instance (1), such as (1)
 > **Prerequisites:** configure (2)
@@ -541,12 +532,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Updating the user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980)
+#### [Updating the user interface](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980&t=0)** - [Instructor] The examples I've shown you so far use console applications, which avoids a problem you may run into if using a graphical user interface framework like WPF or Windows Forms.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980&t=0)** - [Instructor] The examples I've shown you so far use console applications, which avoids a problem you may run into if using a graphical user interface framework like WPF or [[Windows]] [[Forms]].
 >
 > **[0:12](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/updating-the-user-interface?u=76281980&t=12)** When you use one of those frameworks, the UI elements get created by a single UI thread that starts when your program starts.
 >
@@ -560,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** wpf (1)
 > **Cross-References:** next chapter (1)
@@ -568,8 +558,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create and continue a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-create-and-continue-a-task?u=76281980)
+#### [Challenge: Create and continue a task](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-create-and-continue-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,13 +582,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat funky music) (1)
 
-#### Solution: Create and continue a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-create-and-continue-a-task?u=76281980)
+#### [Solution: Create and continue a task](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-create-and-continue-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,7 +632,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **CLI Commands:** find (1), dotnet (1)
 > **Code Identifiers:** number_to_calculate (1)
 > **Tools:** terminal (1)
@@ -658,8 +644,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of using async and await
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/benefits-of-using-async-and-await?u=76281980)
+#### [Benefits of using async and await](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/benefits-of-using-async-and-await?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -705,11 +690,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (1)
 > **Speakers:** - [instructor] (1)
 
-#### Awaiting a task
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/awaiting-a-task?u=76281980)
+#### [Awaiting a task](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/awaiting-a-task?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +752,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1)
 > **Env Vars:** http (3)
 > **CLI Commands:** make (1), dotnet (1)
 > **URLs:** [linkedinlearning.com](https://linkedinlearning.com) (1)
@@ -778,11 +760,9 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/handling-exceptions?u=76281980)
+#### [Handling exceptions](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/handling-exceptions?u=76281980)
 
-#### Challenge: Await HTTP requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980)
+#### [Challenge: Await HTTP requests](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,21 +776,20 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=42)** You want to observe that it doesn't block your main thread while requesting the URL, so add some output before and after the function call so you can see when the different parts are running and ready for user input.
 >
-> **[0:55](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=55)** Finally, use the .NET CLI to run your program and verify that your Async function doesn't block the main program thread.
+> **[0:55](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=55)** Finally, use the .NET [[CLI]] to run your program and verify that your Async function doesn't block the main program thread.
 >
 > **[1:03](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-await-http-requests?u=76281980&t=63)** In the next movie, I'll present my solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** url (5), net (1), cli (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Await HTTP requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980)
+#### [Solution: Await HTTP requests](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +815,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=86)** Just so we can see when the program starts running I'll add some initial output to the console.
 >
-> **[1:33](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=93)** (keyboard clicks) I'll then call our new function passing it the URL for LinkedIn Learning.
+> **[1:33](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=93)** (keyboard clicks) I'll then call our new function passing it the URL for [[LinkedIn]] Learning.
 >
 > **[1:41](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-await-http-requests?u=76281980&t=101)** I'll capture the return task in a variable.
 >
@@ -868,8 +847,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using cancellation tokens
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-cancellation-tokens?u=76281980)
+#### [Using cancellation tokens](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/using-cancellation-tokens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,12 +882,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing timeout cancellations
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980)
+#### [Implementing timeout cancellations](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=0)** - In this lesson, I want to show you an example of using the cancellation token source class, and cancellation tokens, to implement timeout cancellations for asynchronous methods.
+> **[0:00](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=0)** - In this lesson, I want to show you an example of using the cancellation token source class, and cancellation [[Tokens]], to implement timeout cancellations for asynchronous methods.
 >
 > **[0:12](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/implementing-timeout-cancellations?u=76281980&t=12)** I've already got some code in place here that will asynchronously read the contents of a text file before printing it to the screen.
 >
@@ -975,7 +952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Tools:** terminal (2), vs code (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **Env Vars:** usb (1)
@@ -984,8 +961,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Reporting task progress
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980)
+#### [Reporting task progress](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +995,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=99)** Let me show you an example of how it all works.
 >
-> **[1:42](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=102)** I've got an async method here at the top of my code file named ProcessData that I'll use to simulate some asynchronous data processing.
+> **[1:42](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=102)** I've got an async method here at the top of my code file named ProcessData that I'll use to simulate some asynchronous [[Data Processing]].
 >
 > **[1:51](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/reporting-task-progress?u=76281980&t=111)** It takes an array of strings representing departments as a parameter, loops over them and simulate some data processing with this call to task.delay, which will delay the function by one second for each department.
 >
@@ -1077,15 +1053,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), generic (2)
+> **Frameworks & Libraries:** [[Data Processing]] (2)
 > **CLI Commands:** make (2), go run (1), find (1)
 > **Tools:** terminal (2), vs code (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cancel a slow HTTP request
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980)
+#### [Challenge: Cancel a slow HTTP request](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1084,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=68)** Also, make sure to use try-catch finally blocks to make the request and handle the exception thrown as a result of a cancellation.
 >
-> **[1:16](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=76)** Finally, call your function inside Program.cs and use the .NET CLI to run your program.
+> **[1:16](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=76)** Finally, call your function inside Program.cs and use the .NET [[CLI]] to run your program.
 >
 > **[1:23](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/challenge-cancel-a-slow-http-request?u=76281980&t=83)** Hopefully, most websites will return successfully in less than five seconds.
 >
@@ -1119,7 +1094,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** url (4), http (2), net (1), cli (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous chapter (1), in the next (1)
@@ -1128,8 +1103,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Cancel a slow HTTP request
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980)
+#### [Solution: Cancel a slow HTTP request](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,7 +1121,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=39)** I await the results of that asynchronous function and capture the webpage contents in a variable that I then output to the screen.
 >
-> **[0:47](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=47)** A little further down, I wrote a few lines to call the function, passing it the URL for the LinkedIn Learning website.
+> **[0:47](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=47)** A little further down, I wrote a few lines to call the function, passing it the URL for the [[LinkedIn]] Learning website.
 >
 > **[0:55](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/solution-cancel-a-slow-http-request?u=76281980&t=55)** The part of this challenge you didn't do in the earlier one is adding a CancellationToken to cancel the request if it takes too long.
 >
@@ -1200,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,9 +1188,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=15)** I've got a few suggestions to help you in each of those areas.
 >
-> **[0:18](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=18)** There are lots of great C# courses on LinkedIn Learning to help you with asynchronous programming and other advanced topics.
+> **[0:18](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=18)** There are lots of great C# courses on [[LinkedIn]] Learning to help you with asynchronous programming and other advanced topics.
 >
-> **[0:25](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=25)** C# Advanced Practices includes topics on task and asynchronous programming as well as LINQ, entity framework and multi-threading.
+> **[0:25](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=25)** C# Advanced Practices includes topics on task and asynchronous programming as well as [[Language Integrated Query (LINQ)|LINQ]], entity framework and multi-threading.
 >
 > **[0:34](https://www.linkedin.com/learning/asynchronous-programming-in-c-sharp/next-steps?u=76281980&t=34)** Advanced C#: Thread-Safe Data with Concurrent Collections covers many important multi-threading topics with an obvious focus on concurrent collections.
 >
@@ -1241,7 +1214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), concurrent (2), application (2), [[LinkedIn]] (1), [[Language Integrated Query (LINQ)|Linq]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Language Integrated Query (LINQ)|Linq]] (1)
 > **Env Vars:** linq (1), cpu (1)
 > **Speakers:** - [narrator] (1)
 

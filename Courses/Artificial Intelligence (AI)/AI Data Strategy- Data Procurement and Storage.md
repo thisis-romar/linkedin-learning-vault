@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI data strategy: Data procurement and storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
+#### [AI data strategy: Data procurement and storage](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=0)** - [Lillian] Ever wonder how top tech companies build AI products that scale effortlessly, and deliver real business results?
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=0)** - [Lillian] Ever wonder how top tech companies build AI [[Microsoft Products|products]] that scale effortlessly, and deliver real business results?
 >
 > **[0:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ai-data-strategy-data-procurement-and-storage?u=76281980&t=8)** It all starts with one thing, data strategy.
 >
@@ -106,29 +105,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[Microsoft Products|Products]] (2), business (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Speakers:** - [lillian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=0)** - Let's talk about what you should know before jumping into this course.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=4)** You don't need to be a data engineering expert, but a basic understanding of AI and data science concepts will definitely help.
+> **[0:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=4)** You don't need to be a [[Data Engineering]] expert, but a basic understanding of AI and [[Data Science]] concepts will definitely help.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=14)** If you're brand new to data strategy, you might want to check out my book, "Data & AI Imperative: Designing Strategies for Exponential Growth".
 >
 > **[0:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=23)** It'll give you the foundation you need.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=25)** And while we'll be covering my proprietary star framework step by step, having some background in business strategy or product development will make it easier to connect the dots.
+> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=25)** And while we'll be covering my proprietary star framework step by step, having some background in business strategy or [[Product Development]] will make it easier to connect the dots.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/what-you-should-know?u=76281980&t=38)** That said, you are in the right place, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Data Engineering]] (1), business (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Data Science]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
@@ -137,14 +135,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Strategic decision-making in AI product development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
+#### [Strategic decision-making in AI product development](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=0)** - [Instructor] Hey, everyone and welcome.
 >
-> **[0:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=2)** In this video, we're exploring how early choices in AI product development can dramatically impact the future of our products.
+> **[0:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=2)** In this video, we're exploring how early choices in AI [[Product Development]] can dramatically impact the future of our [[Microsoft Products|products]].
 >
 > **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=9)** In my nearly two decades working with data and technology, I've seen it over and over again how the right choices early on can make or break a project.
 >
@@ -168,7 +165,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=75)** We study successful implementations, examine failures, and identify patterns that lead to success.
 >
-> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=81)** It's sort of like drawing a map of what's currently working to drive business growth across data science and AI.
+> **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=81)** It's sort of like drawing a map of what's currently working to drive business growth across [[Data Science]] and AI.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=87)** You'll use your learnings to guide your strategy development journey.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=115)** We identify gaps between where you are, and where you want to be.
 >
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=119)** Evaluate your data governance and analyze pain points that need addressing.
+> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=119)** Evaluate your [[Data Governance]] and analyze pain points that need addressing.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=124)** At the end of this phase, you'll be empowered to select an optimal use case that offers your organization the highest reward for the lowest risk.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=170)** How to handle more users and data as we grow?
 >
-> **[2:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=174)** Should that be done via more scalable infrastructure, distributed computing, more efficient algorithms, or all three?
+> **[2:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=174)** Should that be done via more scalable infrastructure, distributed computing, more efficient [[Algorithms]], or all three?
 >
 > **[3:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=183)** Also, what's the best way to set up our technology?
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=210)** They started by researching and learning from others across industry, checking out what they had available to them internally to support the product development, and then turning a critical eye to how their simple movie suggestions, based on your viewing history, could be made better.
 >
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=229)** To improve the growth outcomes of the product, they eventually decided to incorporate collaborative filtering, content-based filtering, and even reinforcement learning techniques.
+> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=229)** To improve the growth outcomes of the product, they eventually decided to incorporate collaborative filtering, content-based filtering, and even [[Reinforcement Learning]] techniques.
 >
 > **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/strategic-decision-making-in-ai-product-development?u=76281980&t=241)** This helped personalize recommendations, optimize for user engagement and continuously improve their models, all of which led Netflix to building one of the most powerful recommendation systems on the planet.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (5), product (4), [[Product Development]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Microsoft Products|Products]] (2), [[Data Science]] (1), [[Data Governance]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Env Vars:** star (3), roi (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -236,36 +233,35 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data strategy vocabulary
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980)
+#### [Data strategy vocabulary](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=0)** - [Lecturer] In this video, we'll examine the core vocabulary and how it's used in the context of data procurement and storage for AI product development.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=0)** - [Lecturer] In this video, we'll examine the core vocabulary and how it's used in the context of data procurement and storage for AI [[Product Development]].
 >
-> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=10)** When it comes to data procurement and storage, an AI strategy should include a set of recommendations and plans for how to collect, store, and use the data that powers your AI solution.
+> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=10)** When it comes to data procurement and storage, an [[AI Strategy]] should include a set of recommendations and plans for how to collect, store, and use the data that powers your AI solution.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=21)** I'm talking about your current data needs and how they evolve over time.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=25)** Your AI strategy should, of course, include your recommendations for data sources, data formats, data, pre-processing techniques like cleaning, transforming, feature engineering, as well as your recommendations for data storage solutions, whether those be data lakes, data warehouses, vector databases, or what have you.
+> **[0:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=25)** Your AI strategy should, of course, include your recommendations for data sources, data formats, data, pre-processing techniques like cleaning, transforming, [[Feature Engineering]], as well as your recommendations for [[Data Storage]] solutions, whether those be [[Data Lakes]], data warehouses, [[Vector Databases]], or what have you.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=46)** You'll also want to detail projected data usage patterns, how those might evolve over time, and what the estimated cost will be as it relates to the procurement in storage of your data for use by your AI solution.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=60)** The next thing you need to be really clear on is scalability.
+> **[1:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=60)** The next thing you need to be really clear on is [[Scalability]].
 >
 > **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=64)** Scalability is the ability of your AI solution to adjust up or down seamlessly with changes in the number of users of the product and their engagement with it.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=75)** Your solution must be built to seamlessly handle more users, more data, and more complexity without negatively impacting the usability of the product or user experience overall.
+> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=75)** Your solution must be built to seamlessly handle more users, more data, and more complexity without negatively impacting the usability of the product or [[User Experience (UX)|user experience]] overall.
 >
 > **[1:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=88)** A recommendation engine that works well with 10,000 users will many times break if it were to experience the demand of, say, 10 million users.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=97)** Your technology choices must account for growth needs right from the beginning, so you want to make sure you're considering things like distributed computing frameworks, efficient algorithms, and scalable infrastructure.
+> **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=97)** Your technology choices must account for growth needs right from the beginning, so you want to make sure you're considering things like distributed computing frameworks, efficient [[Algorithms]], and scalable infrastructure.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=110)** Now let's talk about business alignment.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=113)** For AI to truly drive business success, it must align with key business objectives.
 >
-> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=119)** Without clear alignment, even the most advanced AI solutions can fail to deliver meaningful impact.
+> **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=119)** Without clear alignment, even the most advanced [[AI Solutions]] can fail to deliver meaningful impact.
 >
 > **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=126)** With respect to business alignment, key focus areas are user value, cost efficiency, and problem solving.
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=210)** The STAR framework provides a structured approach to aligning AI initiatives with business objectives.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=215)** Let's walk through how a retail company might apply this framework to enhance its inventory forecasting system.
+> **[3:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=215)** Let's walk through how a retail company might apply this framework to enhance its inventory [[Forecasting]] system.
 >
 > **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=222)** Step one, when surveying the industry, they could analyze how customers manage inventory predictions, identify common challenges such as seasonal demand fluctuations and unexpected supply chain distributions.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=241)** And step two, when taking stock of internal capabilities, they may assess available historical sales data, current technical infrastructure, and team expertise.
 >
-> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=252)** While they're at it, they could identify any gaps in data quality, AI readiness, or technical resources.
+> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=252)** While they're at it, they could identify any gaps in [[Data Quality]], [[AI Readiness]], or technical resources.
 >
 > **[4:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=259)** For step three, in assessing critical business needs, they may determine where AI can provide the most impact in optimizing inventory forecasting or recognize the AI solutions must be interpreted and trusted by store managers to be useful.
 >
@@ -317,9 +313,9 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=333)** They could combine internal sales data with external factors such as seasonal trends, local events, and market conditions.
 >
-> **[5:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=341)** They could also ensure data pipelines are clean, consistent, and updated in real time.
+> **[5:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=341)** They could also ensure [[Data Pipelines]] are clean, consistent, and updated in real time.
 >
-> **[5:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=346)** Scalability would involve preparing for growth where the system must generate accurate forecast for multiple store locations simultaneously, and where they could implement cloud-based or distributed computing solutions to handle large-scale data processing.
+> **[5:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=346)** Scalability would involve preparing for growth where the system must generate accurate forecast for multiple store locations simultaneously, and where they could implement cloud-based or distributed computing solutions to handle large-scale [[Data Processing]].
 >
 > **[6:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-strategy-vocabulary?u=76281980&t=362)** With respect to business alignment for ensuring usability and trust, they could put measures in place where store managers must understand and trust AI-generated forecast to act upon them.
 >
@@ -335,20 +331,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (32), data (19), business (14), [[Forecasting]] (5), [[Scalability]] (4)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Scalability]] (4), [[Product Development]] (2), [[AI Strategy]] (2), [[AI Solutions]] (2)
 > **Env Vars:** star (3), roi (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lecturer] (1)
 
-#### ML-driven AI vs. generative AI: A strategic overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980)
+#### [ML-driven AI vs. generative AI: A strategic overview](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=0)** - [Instructor] Now that we've covered the STAR method for strategic decision making, let's explore key choices in AI development.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=9)** We'll be looking at the differences between ML-driven AI versus generative AI.
+> **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=9)** We'll be looking at the differences between ML-driven AI versus [[Generative AI]].
 >
 > **[0:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=15)** Understanding their differences will help you to collect data, train models, and achieve your product goals effectively.
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=27)** With ML-driven AI, you build and train your own models.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=30)** That means choosing the right algorithms, optimizing performance, and working with frameworks like TensorFlow or PyTorch.
+> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=30)** That means choosing the right [[Algorithms]], optimizing performance, and working with frameworks like [[TensorFlow]] or [[PyTorch]].
 >
 > **[0:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=38)** You have full control, but it takes more time and expertise.
 >
@@ -390,7 +385,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=143)** Unfortunately, this product did not work as expected and it ended up costing IBM a lot of money.
 >
-> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=150)** But just in terms of how it worked, instead of generating new content like a generative AI model would, Watson used natural language processing and structured reasoning to retrieve relevant medical insights.
+> **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=150)** But just in terms of how it worked, instead of generating new content like a generative AI model would, Watson used [[Natural Language Processing (NLP)|natural language processing]] and structured reasoning to retrieve relevant medical insights.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=164)** Despite problems that this product ultimately had in the market, this example shows how ML-driven AI has been used in healthcare practice to analyze large data sets and make evidence-based recommendations rather than creating entirely new outputs.
 >
@@ -398,11 +393,11 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=186)** With ML-driven AI, you might build a model to predict stock movements using structured data like historical prices, trading volumes, and market trends.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=196)** Techniques like time series analysis help forecast specific stock performance.
+> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=196)** Techniques like [[Time Series Analysis]] help forecast specific stock performance.
 >
 > **[3:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=202)** With generative AI, you could analyze market reports, news articles, and social media sentiment to generate insights or suggest trading strategies.
 >
-> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=212)** Instead of making direct predictions, the model processes the unstructured data to identify emerging trends.
+> **[3:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=212)** Instead of making direct predictions, the model processes the [[Unstructured Data]] to identify emerging trends.
 >
 > **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=220)** Both have value.
 >
@@ -426,17 +421,17 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=274)** Then, assess your current infrastructure and capabilities.
 >
-> **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=278)** Can your system handle real-time stock predictions with ML-driven AI, or do you need a model that processes large volumes of unstructured text?
+> **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=278)** Can your system handle [[Real-Time]] stock predictions with ML-driven AI, or do you need a model that processes large volumes of unstructured text?
 >
 > **[4:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=288)** Identify gaps that could limit your ability to execute.
 >
 > **[4:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=292)** Finally, recommend a clear implementation plan.
 >
-> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=296)** If you choose ML-driven AI, focus on high-accuracy predictive modeling.
+> **[4:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=296)** If you choose ML-driven AI, focus on high-accuracy [[Predictive Modeling]].
 >
 > **[5:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=302)** If you choose generative AI, ensure proper filtering and validation to avoid misleading insights.
 >
-> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=308)** Consider scalability risks in how the AI system fits into your existing workflow.
+> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=308)** Consider [[Scalability]] risks in how the AI system fits into your existing workflow.
 >
 > **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/ml-driven-ai-vs-generative-ai-a-strategic-overview?u=76281980&t=314)** By following the STAR framework, you'll make a well-informed choice between ML-driven AI for structured predictions and generative AI for broader market analysis.
 >
@@ -444,15 +439,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Generative AI]] (12), data (9), product (3), [[Unstructured Data]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (12), [[Unstructured Data]] (2), [[Algorithms]] (1), [[TensorFlow]] (1), [[PyTorch]] (1)
 > **Env Vars:** star (3), ibm (2), gpt (1), api (1)
 > **CLI Commands:** make (4)
 > **Versions:** 3.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The role of data strategy in AI product success
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980)
+#### [The role of data strategy in AI product success](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -460,9 +454,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=7)** Your data strategy will make or break your success.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=12)** I've seen brilliant AI products fail not because of poor algorithms, but because their data strategy couldn't support them beyond the pilot phase.
+> **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=12)** I've seen brilliant AI [[Microsoft Products|products]] fail not because of poor [[Algorithms]], but because their data strategy couldn't support them beyond the pilot phase.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=20)** Without a well-structured plan for data collection, storage, and evolution, even the most promising AI solutions can still struggle to scale or deliver long-term value.
+> **[0:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=20)** Without a well-structured plan for [[Data Collection]], storage, and evolution, even the most promising [[AI Solutions]] can still struggle to scale or deliver long-term value.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=31)** In this video, we'll explore how to build a robust data strategy that ensures your AI product is sustainable, scalable, and aligned with business goals.
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=58)** You need a blueprint, a strong foundation, and the right materials to ensure stability and longevity.
 >
-> **[1:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=65)** When designing your data AI strategy, there are three critical elements you need to focus on.
+> **[1:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=65)** When designing your data [[AI Strategy]], there are three critical elements you need to focus on.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=71)** One, what data you actually need.
 >
@@ -484,13 +478,13 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=76)** You need to define the specific data points that will drive insights and decision making for your AI models.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=83)** Two, how to ensure data quality.
+> **[1:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=83)** Two, how to ensure [[Data Quality]].
 >
 > **[1:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=86)** Clean, well structured and unbiased data is essential for accurate and reliable AI predictions.
 >
 > **[1:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=92)** Low quality data leads to poor model performance.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=95)** And three, how to handle governance and privacy requirements.
+> **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=95)** And three, how to handle governance and [[Privacy]] requirements.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=100)** AI development comes with legal, ethical, and compliance responsibilities.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=177)** Without a sequence based analysis of transactions, the model struggle to differentiate between real fraud and normal variations in customer behavior.
 >
-> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=187)** To address this, the company had to rebuild its data architecture to incorporate pattern recognition and sequence-based analysis to track user behavior over time, as well as a more advanced validation framework to score and verify potential fraud risks.
+> **[3:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=187)** To address this, the company had to rebuild its [[Data Architecture]] to incorporate pattern recognition and sequence-based analysis to track user behavior over time, as well as a more advanced validation framework to score and verify potential fraud risks.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=203)** And additionally, they had to incorporate temporal data handling to better understand the timing of transactions.
 >
@@ -538,7 +532,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=232)** Data strategy gets even more complex as you grow.
 >
-> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=236)** Your data pipelines, in other words, the systems that process your data, they need to scale with your product.
+> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=236)** Your [[Data Pipelines]], in other words, the systems that process your data, they need to scale with your product.
 >
 > **[4:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=243)** Your storage solution needs to be cost effective, and your quality checks need to happen automatically.
 >
@@ -548,11 +542,11 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=261)** In its early days, X relied on third-party hosting solutions, but as its user base expanded, this approach became unsustainable.
 >
-> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=270)** The company needed a data infrastructure that could handle hundreds of cache clusters, real-time data streaming, and rapid query responses.
+> **[4:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=270)** The company needed a data infrastructure that could handle hundreds of cache clusters, [[Real-Time]] [[Data Streaming]], and rapid query responses.
 >
 > **[4:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=281)** So how did the platform overcome these challenges?
 >
-> **[4:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=286)** Well, to support scalability and performance, X transition from third-party hosting to private data clusters.
+> **[4:46](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=286)** Well, to support [[Scalability]] and performance, X transition from third-party hosting to private data clusters.
 >
 > **[4:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/the-role-of-data-strategy-in-ai-product-success?u=76281980&t=294)** They implemented deep buffer switches and cost networks to manage high traffic volumes sufficiently.
 >
@@ -634,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (51), ai (21), product (4), business (4), [[Scalability]] (3)
+> **Frameworks & Libraries:** [[Data Collection]] (3), [[Scalability]] (3), [[Microsoft Products|Products]] (2), [[AI Solutions]] (2), [[AI Strategy]] (2)
 > **CLI Commands:** make (3), apache (1)
 > **Definitions:** in other words (1), known as (1)
 > **Cross-References:** in the last (1)
@@ -642,8 +636,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aligning data with business goals for AI product development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980)
+#### [Aligning data with business goals for AI product development](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,7 +658,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=61)** This case study goes to show an important lesson: technical success doesn't always mean business success.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=70)** To ensure AI solutions truly drive impact, AI models must align with business objectives, not just past data.
+> **[1:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=70)** To ensure [[AI Solutions]] truly drive impact, AI models must align with business objectives, not just past data.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=79)** Biases and historical data must be identified and mitigated, and training data should be diverse and representative of the company's future hiring goals, not just past trends.
 >
@@ -679,15 +672,15 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=121)** Netflix collects massive amounts of user data, including viewing history, which tells them what users watch and how often; watch patterns, which tells them when users pause, rewind, or binge watch; user preferences, including ratings, genre preferences, and engagement.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=142)** This data feeds into a sophisticated mix of machine learning models and algorithms that analyze billions of records to personalize recommendations at scale.
+> **[2:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=142)** This data feeds into a sophisticated mix of machine learning models and [[Algorithms]] that analyze billions of records to personalize recommendations at scale.
 >
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=154)** To optimize engagement, Netflix implemented collaborative filtering, content-based filtering, and reinforcement learning.
+> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=154)** To optimize engagement, Netflix implemented collaborative filtering, content-based filtering, and [[Reinforcement Learning]].
 >
-> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=161)** Where the collaborative filtering recommends shows based on what similar users watch, and a content-based filtering suggests shows similar to past viewing habits, and reinforcement learning continually adjust recommendations based on real-time feedback.
+> **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=161)** Where the collaborative filtering recommends shows based on what similar users watch, and a content-based filtering suggests shows similar to past viewing habits, and reinforcement learning continually adjust recommendations based on [[Real-Time]] feedback.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=179)** Netflix's success isn't really about having a large data set, of course.
 >
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=185)** It's about using data strategically to optimize user experience and retention.
+> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=185)** It's about using data strategically to optimize [[User Experience (UX)|user experience]] and retention.
 >
 > **[3:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=190)** Their AI-driven approach keeps users engaged, which reduces churn and drives long term business growth.
 >
@@ -699,7 +692,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=217)** Unlike traditional music platforms which rely on static playlists or user-driven searches, Spotify uses machine learning and data analytics to personalize every user's experience.
 >
-> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=229)** Spotify collects a variety of user data, including listening habits, playlist creation, song metadata, and user interactions.
+> **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=229)** Spotify collects a variety of user data, including listening habits, playlist creation, song [[Metadata]], and user interactions.
 >
 > **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=241)** By analyzing these data points, Spotify predicts user preferences and recommends new content that's tailored to each listener.
 >
@@ -717,7 +710,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=303)** Now let's look at one more success case, Amazon.
 >
-> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=308)** On its face, Amazon looks like it's successful because it's good at selling products, but it goes a lot further than that.
+> **[5:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=308)** On its face, Amazon looks like it's successful because it's good at selling [[Microsoft Products|products]], but it goes a lot further than that.
 >
 > **[5:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=316)** Amazon's success really comes down to its logistics efficiency and cost optimization.
 >
@@ -731,7 +724,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=371)** The key point here is that if your data isn't clearly linked to a business outcome, it might not be the right data to collect.
 >
-> **[6:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=380)** Now, let's look at a simple framework for aligning data collection with business goals.
+> **[6:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=380)** Now, let's look at a simple framework for aligning [[Data Collection]] with business goals.
 >
 > **[6:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/aligning-data-with-business-goals-for-ai-product-development?u=76281980&t=386)** I call this the goal-data-impact exercise.
 >
@@ -773,7 +766,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (32), ai (11), business (11), [[Reinforcement Learning]] (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Metadata]] (2), [[Microsoft Products|Products]] (2), [[Data Collection]] (2), [[AI Solutions]] (1)
 > **Analogies:** similar to (1), picture (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** keep in mind (2)
@@ -784,8 +777,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sourcing structured data for ML-driven AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
+#### [Sourcing structured data for ML-driven AI products](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,9 +785,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=9)** Now, we move into the next interesting question.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=11)** Where do you actually get the right data for your AI products?
+> **[0:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=11)** Where do you actually get the right data for your AI [[Microsoft Products|products]]?
 >
-> **[0:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=16)** Throughout this section, we'll explore the ins and outs of data procurement, from sourcing structured data for traditional ML models to gathering diverse data sets for generative AI.
+> **[0:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=16)** Throughout this section, we'll explore the ins and outs of data procurement, from sourcing structured data for traditional ML models to gathering diverse data sets for [[Generative AI]].
 >
 > **[0:26](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=26)** We'll examine data diversity and bias, weigh strategic trade-offs between cost and quality, and explore various data sources, from open platforms to strategic partnerships.
 >
@@ -833,7 +825,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=144)** This involves regular updates to reflect current patterns, timed removal of outdated information, and continuous validation of data relevance.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=153)** This is especially important in e-commerce, where the customer preferences change rapidly.
+> **[2:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=153)** This is especially important in [[E-Commerce]], where the customer preferences change rapidly.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=159)** Take Amazon's product recommendation system, for example.
 >
@@ -853,7 +845,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=192)** What relationships between data points matter for these patterns?
 >
-> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=196)** How will you ensure consistent data collection across sources?
+> **[3:16](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=196)** How will you ensure consistent [[Data Collection]] across sources?
 >
 > **[3:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=201)** And how often does the data need to be updated?
 >
@@ -871,7 +863,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=241)** It's a common challenge and it can feel like a roadblock, especially when you're trying to build or train robust models.
 >
-> **[4:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=249)** Maybe your data set is too small, lacks diversity, or is rife with missing values, or perhaps privacy concerns and regulatory restrictions limit your access to real world data altogether.
+> **[4:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=249)** Maybe your data set is too small, lacks diversity, or is rife with missing values, or perhaps [[Privacy]] concerns and regulatory restrictions limit your access to real world data altogether.
 >
 > **[4:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=262)** This is where you'll need to turn to synthetic data.
 >
@@ -905,23 +897,22 @@ created: 2026-05-02
 >
 > **[6:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=395)** How would you validate its effectiveness?
 >
-> **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=399)** Take a moment to think over your answers to these questions, and next, we'll tackle an even bigger challenge, sourcing unstructured data for generative AI.
+> **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/sourcing-structured-data-for-ml-driven-ai-products?u=76281980&t=399)** Take a moment to think over your answers to these questions, and next, we'll tackle an even bigger challenge, sourcing [[Unstructured Data]] for generative AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (54), ai (6), [[Privacy]] (6), next (4), teams (3)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[Data Collection]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Cross-References:** next video (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for sourcing unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980)
+#### [Best practices for sourcing unstructured data](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=0)** - [Instructor] In the last video, you saw how to source structured data for ML models, but generative AI brings us into a whole new world, one where we need vast amounts of unstructured data, like text, images, and code.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=0)** - [Instructor] In the last video, you saw how to source structured data for ML models, but [[Generative AI]] brings us into a whole new world, one where we need vast amounts of [[Unstructured Data]], like text, images, and code.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=14)** Apart from the sheer volume, the challenge with generative AI is about finding diverse high quality data that you need to help your models learn and consequently generate meaningful content.
 >
@@ -959,7 +950,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=114)** Unstructured data goes stale faster than you might think.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=118)** Language evolves, visual styles change, and technical documentation updates.
+> **[1:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=118)** Language evolves, visual styles change, and [[Technical Documentation]] updates.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/best-practices-for-sourcing-unstructured-data?u=76281980&t=124)** You need a strategy for continuously refreshing your training data.
 >
@@ -1011,7 +1002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Unstructured Data]] (7), [[Generative AI]] (5), teams (1), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (7), [[Generative AI]] (5), [[Technical Documentation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gpt (1), api (1)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -1020,12 +1011,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding bias in traditional ML systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980)
+#### [Understanding bias in traditional ML systems](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=0)** - [Instructor] As we continue exploring data quality we've reached a very important topic, bias in AI systems.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=0)** - [Instructor] As we continue exploring [[Data Quality]] we've reached a very important topic, bias in AI systems.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=9)** Bias can occur when AI models produce unfair or prejudiced results, often disadvantaging specific groups.
 >
@@ -1033,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=24)** Bias in AI refers to systematic unfairness in model outputs.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=28)** This often originates from biased training data, skewed algorithms, or lack of diversity in the dataset.
+> **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=28)** This often originates from biased training data, skewed [[Algorithms]], or lack of diversity in the dataset.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=35)** To mitigate bias start with documenting data sources thoroughly.
 >
@@ -1045,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=50)** Bias isn't always obvious at first.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=53)** That's why continuous monitoring is essential.
+> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=53)** That's why [[Continuous Monitoring]] is essential.
 >
 > **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=56)** Bias can emerge over time as new data is added, making regular audits an absolutely necessary process.
 >
@@ -1097,7 +1087,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=222)** Step one is to document data sources.
 >
-> **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=225)** Bias often begins at the data collection phase.
+> **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=225)** Bias often begins at the [[Data Collection]] phase.
 >
 > **[3:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=228)** To reduce risk create detailed documentation of your data sources, including where the data comes from, any known limitations or biases, and whether certain demographics are overrepresented or underrepresented.
 >
@@ -1141,25 +1131,24 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=383)** If so, how would you detect it, and what mitigation strategies would work best for you?
 >
-> **[6:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=390)** While these approaches work well for traditional ML systems, generative AI introduces new dimensions of bias that require additional consideration.
+> **[6:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=390)** While these approaches work well for traditional ML systems, [[Generative AI]] introduces new dimensions of bias that require additional consideration.
 >
 > **[6:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/understanding-bias-in-traditional-ml-systems?u=76281980&t=399)** We'll discuss that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (13), [[Algorithms]] (2), [[Continuous Monitoring]] (2), teams (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Continuous Monitoring]] (2), [[Data Quality]] (1), [[Data Collection]] (1), [[Generative AI]] (1)
 > **Analogies:** for example (2), think of it as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bias in generative AI: Challenges and mitigation strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980)
+#### [Bias in generative AI: Challenges and mitigation strategies](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=0)** - [Instructor] So in this video we'll discuss algorithmic bias and generative AI, a complex but not insurmountable challenge.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=0)** - [Instructor] So in this video we'll discuss algorithmic bias and [[Generative AI]], a complex but not insurmountable challenge.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=9)** According to News Guard, factually incorrect, AI generated articles have increased by more than 1,000% just last year.
 >
@@ -1169,11 +1158,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=36)** Traditional ML models might show bias through measurable disparities in accuracy or performance across different groups, but generative models can perpetuate subtle cultural biases that are hard to quantify, but equally harmful, if not more so.
 >
-> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=53)** A study by Edith Cohen University analyzed AI generated images from Midjourney and focused on how it depicts Olympic teams from various countries.
+> **[0:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=53)** A study by Edith Cohen University analyzed AI generated images from [[Midjourney]] and focused on how it depicts Olympic teams from various countries.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=64)** In his study, he found that men were depicted five times more often than women with 82.86% of images showing male athletes.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=74)** And in analysis of more than 5,000 AI images that were created by Stable Diffusion's text-to-image model, Bloomberg found that images associated with higher paying job titles featured people with lighter skin tones, and that results for most professional roles were male dominated.
+> **[1:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=74)** And in analysis of more than 5,000 AI images that were created by [[Stable Diffusion]]'s text-to-image model, Bloomberg found that images associated with higher paying job titles featured people with lighter skin tones, and that results for most professional roles were male dominated.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=97)** Here's what makes addressing this particularly challenging.
 >
@@ -1183,9 +1172,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=114)** This is why prudent companies are proactively implementing robust frameworks for assessing and mitigating bias before they release their AI models.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=125)** Ensuring ethical AI development requires a structured approach that integrates ethics into the development process rather than treating it as an afterthought.
+> **[2:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=125)** Ensuring ethical AI development requires a structured approach that integrates [[Ethics]] into the development process rather than treating it as an afterthought.
 >
-> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=134)** Let's explore key strategies organizations are using to build responsible AI systems.
+> **[2:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=134)** Let's explore key strategies organizations are using to build [[Responsible AI]] systems.
 >
 > **[2:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=141)** One, there's the team integration and testing.
 >
@@ -1197,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=171)** And then they're also doing proactive issue identification.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=177)** This is where they do a regular review of data sets and algorithms to catch potential ethical concerns before they become systematic problems.
+> **[2:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=177)** This is where they do a regular review of data sets and [[Algorithms]] to catch potential ethical concerns before they become systematic problems.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=186)** I've seen this work particularly well at a FinTech company that made bias detection part of their daily standups.
 >
@@ -1217,7 +1206,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=242)** And lastly, you can consider impact assessments, which is a continuous evaluation of how AI decisions affect different groups.
 >
-> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=252)** Real-time bias detection is essential in AI ethics.
+> **[4:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=252)** [[Real-Time]] bias detection is essential in AI ethics.
 >
 > **[4:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/bias-in-generative-ai-challenges-and-mitigation-strategies?u=76281980&t=255)** Companies are now using secondary AI models to monitor outputs for fairness and inclusivity before they're deployed.
 >
@@ -1245,19 +1234,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (5), teams (3), [[Ethics]] (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Ethics]] (3), [[Generative AI]] (2), [[Algorithms]] (2), [[Midjourney]] (1), [[Stable Diffusion]] (1)
 > **Env Vars:** gpt (3), llm (2), ucs (1)
 > **Versions:** 38.6 (1), 82.86 (1), 3.5 (1)
 > **Analogies:** similar to (1), for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Framework for bias mitigation in AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980)
+#### [Framework for bias mitigation in AI](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=0)** - [Instructor] Bias manifests differently in traditional ML models compared to generative AI models.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=0)** - [Instructor] Bias manifests differently in traditional ML models compared to [[Generative AI]] models.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=5)** While traditional ML models often exhibit disparities in prediction accuracy across different demographic groups, generative AI models can amplify biases in the content they create.
 >
@@ -1299,7 +1287,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=180)** Next, there's the impact scope.
 >
-> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=182)** Bias in traditional ML affects decision-making, whereas bias and generative AI influences user perception and engagement.
+> **[3:02](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=182)** Bias in traditional ML affects [[Decision-Making]], whereas bias and generative AI influences user perception and engagement.
 >
 > **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=191)** Lastly, quantification methods.
 >
@@ -1317,23 +1305,22 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=229)** By using this framework, you can systematically assess and mitigate bias in your AI systems to ensure they're fair, reliable, and ethical.
 >
-> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=237)** In the next video, we'll talk about protecting user privacy.
+> **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/framework-for-bias-mitigation-in-ai?u=76281980&t=237)** In the next video, we'll talk about protecting user [[Privacy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (10), ai (3), next (2), [[Decision-Making]] (1), application (1)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Decision-Making]] (1), [[Privacy]] (1)
 > **Env Vars:** dre (2), spd (1), fpr (1), scr (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Versions:** 0.1 (1), 0.15 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building intelligent systems with data protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980)
+#### [Building intelligent systems with data protection](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=0)** - [Instructor] We've talked about bias in AI systems, but there's another fundamental challenge that's reshaping how we build AI products, privacy.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=0)** - [Instructor] We've talked about bias in AI systems, but there's another fundamental challenge that's reshaping how we build AI [[Microsoft Products|products]], [[Privacy]].
 >
 > **[0:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=8)** Not just basic data protection, but actually building AI systems that can learn and improve while keeping sensitive information truly private.
 >
@@ -1395,7 +1382,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=213)** In my opinion, the key is to select the right combinations of tools and techniques that best suit your specific needs and data characteristics.
 >
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=222)** The screen grab here shows a list of tools that you can consider using when adding privacy protection, but the thing that really matters here is this.
+> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=222)** The screen grab here shows a list of tools that you can consider using when adding [[Privacy Protection]], but the thing that really matters here is this.
 >
 > **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-intelligent-systems-with-data-protection?u=76281980&t=231)** It's not enough to just bolt on privacy features after you've built your system.
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (15), [[Privacy]] (12), teams (2), [[Privacy Protection]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Privacy Protection]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2), imagine (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1436,8 +1423,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open data platforms: Democratizing AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980)
+#### [Open data platforms: Democratizing AI development](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,13 +1441,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=44)** One of the biggest advantages of open data platforms is that they provide more than just raw data.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=50)** Platforms like Google Dataset Search include metadata, information about the data, such as what it contains, how it was collected, and the licensing terms.
+> **[0:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=50)** Platforms like [[Google]] Dataset Search include [[Metadata]], information about the data, such as what it contains, how it was collected, and the licensing terms.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=61)** This helps you quickly decide if a dataset fits your project's needs without wasting time digging through irrelevant options.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=69)** Let's consider an example.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=72)** Say you're developing a financial forecasting tool.
+> **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=72)** Say you're developing a [[Financial Forecasting]] tool.
 >
 > **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=75)** Instead of manually compiling stock prices from multiple sources, you can turn to platforms like Kaggle or [Data.gov](https://Data.gov), which can provide you pre-validated datasets that are ready to go.
 >
@@ -1501,7 +1487,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=175)** Licensing terms might specify one of the following.
 >
-> **[2:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=179)** It's free for research, meaning you can use it for educational purposes, but not for commercial apps, like a paid weather forecasting tool.
+> **[2:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=179)** It's free for research, meaning you can use it for educational purposes, but not for commercial apps, like a paid weather [[Forecasting]] tool.
 >
 > **[3:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=188)** Attribution is required, meaning you need to mention the data source in any published work or application, or geographic restrictions.
 >
@@ -1515,7 +1501,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=214)** Let's say the weather dataset is updated monthly with new readings.
 >
-> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=219)** Using a version control system, you can track changes by saving the original dataset as version one, adding new data each month as separate versions, like version two, version three, and so on, and also keeping notes on what was added or changed in each version.
+> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=219)** Using a [[Version Control]] system, you can track changes by saving the original dataset as version one, adding new data each month as separate versions, like version two, version three, and so on, and also keeping notes on what was added or changed in each version.
 >
 > **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/open-data-platforms-democratizing-ai-development?u=76281980&t=237)** This way, if your model produces unexpected results, you can go back to an earlier version to identify whether the issue was caused by a data update.
 >
@@ -1543,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (1), [[Google]] (1), [[Search]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Metadata]] (1), [[Financial Forecasting]] (1), [[Forecasting]] (1), [[Version Control]] (1)
 > **Prerequisites:** you'll need (2), you need to have (1), set up (1)
 > **Cross-References:** we covered (1), go back to (1), next video (1)
 > **URLs:** [data.gov](https://data.gov) (1)
@@ -1551,14 +1537,13 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging APIs for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980)
+#### [Leveraging APIs for AI](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=0)** - [Instructor] In this video, I'll be talking about leveraging APIs for sourcing data for AI product development.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=0)** - [Instructor] In this video, I'll be talking about leveraging APIs for sourcing data for AI [[Product Development]].
 >
-> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=7)** While open data platforms offer valuable resources, many companies need more dynamic real-time data access.
+> **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=7)** While open data platforms offer valuable resources, many companies need more dynamic [[Real-Time]] data access.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=17)** Think of APIs as direct pipelines to data.
 >
@@ -1582,7 +1567,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=64)** Lastly, there are real-time APIs.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=66)** These provide constant data updates and are essential when every second counts, like, for example, when you're tracking cryptocurrency price or airline ticket prices.
+> **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=66)** These provide constant data updates and are essential when every second counts, like, for example, when you're tracking [[Cryptocurrency]] price or airline ticket prices.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=79)** Let's see how these are being used across different sectors.
 >
@@ -1612,7 +1597,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=176)** Real-time data is crucial for things like market prices, while other use cases might only need daily or weekly updates.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=184)** When choosing between APIs, you want to look at performance metrics, risk factors, and cost structure.
+> **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=184)** When choosing between APIs, you want to look at [[Performance Metrics]], risk factors, and cost structure.
 >
 > **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=192)** For performance metrics, look into uptime guarantees where you look for APIs with strong service-level agreements that guarantee high uptime.
 >
@@ -1622,7 +1607,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=216)** Does the response time spike when there's high demand?
 >
-> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=220)** You might need to do some load testing here.
+> **[3:40](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=220)** You might need to do some [[Load Testing]] here.
 >
 > **[3:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=223)** And also data freshness, make sure the API delivers data as up-to-date as your application needs it to be.
 >
@@ -1658,7 +1643,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=304)** All right, I hope you still remember the STAR framework we've covered earlier.
 >
-> **[5:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=309)** Let's apply it to your next API decision-making process.
+> **[5:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=309)** Let's apply it to your next API [[Decision-Making]] process.
 >
 > **[5:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/leveraging-apis-for-ai?u=76281980&t=315)** Take 15 minutes to evaluate a data need in your organization.
 >
@@ -1712,7 +1697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), api (15), [[Real-Time]] (4), next (4), business (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Performance Metrics]] (2), [[Product Development]] (1), [[Cryptocurrency]] (1), [[Load Testing]] (1)
 > **Env Vars:** api (15), aim (1), star (1)
 > **Analogies:** for example (1), for instance (1), think of it as (1)
 > **CLI Commands:** make (1)
@@ -1721,8 +1706,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building sustainable data ecosystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980)
+#### [Building sustainable data ecosystems](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1744,19 +1728,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=49)** This partnership now provides weather insights to industries from aviation to agriculture.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=56)** Then there's the United Health Group and their collaboration with Optum Mayo Clinic and Google Cloud.
+> **[0:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=56)** Then there's the United Health Group and their collaboration with Optum Mayo Clinic and [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:03](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=63)** In 2019, they formed a partnership which demonstrated healthcare collaboration done right.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=69)** Mayo Clinic keeps control of its patient data while using Google technology to analyze it.
+> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=69)** Mayo Clinic keeps control of its patient data while using [[Google]] technology to analyze it.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=75)** This has led to faster diagnosises while maintaining strict privacy standards.
+> **[1:15](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=75)** This has led to faster diagnosises while maintaining strict [[Privacy]] standards.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=81)** Lastly, there's IBM and Salesforce, where in May of 2024, they announced an expanded partnership.
 >
 > **[1:29](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=89)** The combination of IBM Watson X AI platform with Salesforce Einstein 1 platform.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=96)** IBM gains access to Salesforce's extensive CRM ecosystem to deploy its generative AI models while Salesforce receives enterprise grade LLMs and zero copy data integration capabilities.
+> **[1:36](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=96)** IBM gains access to Salesforce's extensive CRM ecosystem to deploy its [[Generative AI]] models while Salesforce receives enterprise grade LLMs and zero copy [[Data Integration]] capabilities.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=110)** So how do you build a successful data partnership?
 >
@@ -1764,7 +1748,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=119)** Here are the few key components to consider when structuring your collaboration.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=126)** Data sharing agreements.
+> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=126)** [[Data Sharing]] agreements.
 >
 > **[2:08](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=128)** These agreements outline the exchange, usage and protection of data and partnerships.
 >
@@ -1782,7 +1766,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=165)** And lastly, cost sharing efficiencies.
 >
-> **[2:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=168)** You want to think about how you'll share the cost of data collection, storage and processing so that the partnership is more sustainable.
+> **[2:48](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=168)** You want to think about how you'll share the cost of [[Data Collection]], storage and processing so that the partnership is more sustainable.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=178)** A solid legal foundation is also essential.
 >
@@ -1796,7 +1780,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=191)** For example, is it limited to a specific AI project or can it be repurposed?
 >
-> **[3:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=197)** Privacy compliance requirements.
+> **[3:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=197)** [[Privacy Compliance]] requirements.
 >
 > **[3:20](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=200)** See that the partnership adheres to regulations like GDPR and CCPA.
 >
@@ -1810,7 +1794,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=230)** This is where the day-to-day success of the collaboration is determined.
 >
-> **[3:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=234)** Consider things like data quality standards where you agree on specific metrics for data quality, such as completeness, accuracy, and consistency.
+> **[3:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=234)** Consider things like [[Data Quality]] standards where you agree on specific metrics for data quality, such as completeness, accuracy, and consistency.
 >
 > **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=244)** Look at integration methods.
 >
@@ -1822,9 +1806,9 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=263)** Look at maintenance protocols.
 >
-> **[4:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=265)** Ensure both parties agree on responsibilities for maintaining data pipelines and fixing any technical issues.
+> **[4:25](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=265)** Ensure both parties agree on responsibilities for maintaining [[Data Pipelines]] and fixing any technical issues.
 >
-> **[4:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=272)** Also, consider performance metrics.
+> **[4:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=272)** Also, consider [[Performance Metrics]].
 >
 > **[4:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/building-sustainable-data-ecosystems?u=76281980&t=275)** Set up systems to monitor the partnership's effectiveness, such as tracking improvement in model performance or operational efficiency.
 >
@@ -1836,7 +1820,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), ai (2), power (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Google]] (1), [[Privacy]] (1), [[Generative AI]] (1)
 > **Env Vars:** ibm (5), crm (1), gdpr (1), ccpa (1)
 > **Analogies:** such as (3), for example (2)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
@@ -1848,12 +1832,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing scalable storage solutions for ML-driven AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
+#### [Choosing scalable storage solutions for ML-driven AI](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=0)** - [Instructor] In our last video, we talked about finding the right data and handling it responsibly, but there's a crucial aspect of AI development that often gets over overlooked, data storage.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=0)** - [Instructor] In our last video, we talked about finding the right data and handling it responsibly, but there's a crucial aspect of AI development that often gets over overlooked, [[Data Storage]].
 >
 > **[0:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=11)** Many teams get so focused on building a sophisticated AI model that they don't give enough thought to how that data will be stored and accessed.
 >
@@ -1877,9 +1860,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=66)** Consider PayPal's fraud detection system.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=69)** They need to analyze an immense volume of data in real-time, over 1 million transactions every second.
+> **[1:09](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=69)** They need to analyze an immense volume of data in [[Real-Time]], over 1 million transactions every second.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=77)** To achieve this, they rely on specialized Aerospike servers and data-centric Intel processors that are optimized for high-speed data processing.
+> **[1:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=77)** To achieve this, they rely on specialized Aerospike servers and data-centric Intel processors that are optimized for high-speed [[Data Processing]].
 >
 > **[1:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=87)** Here's how to translate these principles into a practical storage strategy.
 >
@@ -1895,7 +1878,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=114)** Keeping them close together minimizes delays.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=117)** And don't forget about version control.
+> **[1:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=117)** And don't forget about [[Version Control]].
 >
 > **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=120)** This helps you track changes in your data and makes it much easier to find and fix problems.
 >
@@ -1911,15 +1894,15 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=147)** Remember, choosing the cheapest storage option might seem like a good idea at first, but if it slows down the entire system, it will end up costing you more in the long run.
 >
-> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=157)** These storage challenges become even more complex when we're dealing with generative AI.
+> **[2:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=157)** These storage challenges become even more complex when we're dealing with [[Generative AI]].
 >
-> **[2:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=162)** Next, I'll share a resource with you that goes into detail about how cloud computing is changing the game for storing and managing these massive systems.
+> **[2:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=162)** Next, I'll share a resource with you that goes into detail about how [[Cloud Computing]] is changing the game for storing and managing these massive systems.
 >
 > **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/choosing-scalable-storage-solutions-for-ml-driven-ai?u=76281980&t=171)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), ai (5), [[Real-Time]] (2), teams (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Real-Time]] (2), [[Data Processing]] (1), [[Version Control]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** imagine (1)
@@ -1927,8 +1910,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing storage for performance in ML-driven AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980)
+#### [Optimizing storage for performance in ML-driven AI](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,7 +1924,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=28)** That's because these improvements have a ripple effect throughout your entire ML pipeline.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=34)** Think about companies like Uber whose Michelangelo platform powers real-time predictions for things like ride pacing and estimated arrival times.
+> **[0:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=34)** Think about companies like Uber whose Michelangelo platform powers [[Real-Time]] predictions for things like ride pacing and estimated arrival times.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=45)** To handle the massive amount of data involved in making these predictions accurately and quickly, they rely on a highly optimized storage architecture.
 >
@@ -2016,30 +1998,29 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=230)** This sets a strong foundation for your ML system to perform at its best.
 >
-> **[3:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=235)** Before we move on to discussing real-time processing and data storage for generative AI in our next video, take some time to think about your own ML system.
+> **[3:55](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=235)** Before we move on to discussing real-time processing and [[Data Storage]] for [[Generative AI]] in our next video, take some time to think about your own ML system.
 >
 > **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/optimizing-storage-for-performance-in-ml-driven-ai?u=76281980&t=244)** Where could you apply the STAR framework to optimize your storage and boost your model's performance?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), parallel (3), [[Real-Time]] (2), next (2), feature (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Data Storage]] (1), [[Generative AI]] (1)
 > **Env Vars:** star (3)
 > **Analogies:** picture (1), think of it like (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data security and compliance in AI product development: On-premise, local AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980)
+#### [Data security and compliance in AI product development: On-premise, local AI](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=0)** - [Instructor] We've spent some time discussing how to build high-performance storage for your AI products.
+> **[0:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=0)** - [Instructor] We've spent some time discussing how to build high-performance storage for your AI [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=6)** Now, let's shift our focus to an equally important aspect, keeping that data safe.
 >
 > **[0:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=12)** After all, a fast AI system is useless if it puts user data at risk.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=18)** Data security is more than just protecting those valuable assets.
+> **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=18)** [[Data Security]] is more than just protecting those valuable assets.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=22)** It's about maintaining the trust of your users and meeting your legal obligations.
 >
@@ -2083,9 +2064,9 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=150)** It includes significant penalties for non-compliance.
 >
-> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=154)** The CCPA, or California Consumer Privacy Act, focuses on the data rights of California residents.
+> **[2:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=154)** The CCPA, or California Consumer [[Privacy]] Act, focuses on the data rights of California residents.
 >
-> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=164)** It requires transparency about data collection practices and gives consumers the right to opt out of having their data sold.
+> **[2:44](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=164)** It requires transparency about [[Data Collection]] practices and gives consumers the right to opt out of having their data sold.
 >
 > **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=173)** For those in healthcare, HIPAA governs protected health information.
 >
@@ -2093,23 +2074,23 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=184)** With the compliance landscape in mind, let's consider how you deploy your AI systems.
 >
-> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=191)** There are two main approaches I recommend, on-premises deployment and local AI solutions.
+> **[3:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=191)** There are two main approaches I recommend, on-premises deployment and local [[AI Solutions]].
 >
 > **[3:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=198)** On-prem deployment is the traditional approach.
 >
-> **[3:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=201)** You own the infrastructure, control the hardware, and manage everything within your own physical space.
+> **[3:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=201)** You own the infrastructure, control the [[Hardware]], and manage everything within your own physical space.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=208)** This gives you complete control and direct oversight of any security measures.
 >
 > **[3:33](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=213)** Local AI takes a different approach and focuses on processing data closer to where it's generated, often at the edge.
 >
-> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=222)** This can be a great option for real-time applications as it reduces latency and allows for faster response times.
+> **[3:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=222)** This can be a great option for [[Real-Time]] applications as it reduces latency and allows for faster response times.
 >
 > **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=231)** As an example of this, imagine the network of sensors that are collecting data from a factory floor.
 >
 > **[3:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=237)** Instead of sending all that data to a central data center for processing, you could use local AI to analyze it right there on-site.
 >
-> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=246)** This allows for real-time decision-making and can improve efficiency.
+> **[4:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=246)** This allows for real-time [[Decision-Making]] and can improve efficiency.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=253)** To help you evaluate these approaches, let's take a look at this table, which compares on-prem deployment and local AI solutions across several key performance indicators.
 >
@@ -2117,17 +2098,17 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=278)** Each approach also has different security and maintenance considerations.
 >
-> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=283)** You'll see how on-prem deployment offers greater control and potentially higher consistency, while local AI solutions provide better scalability and low latency for edge applications.
+> **[4:43](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=283)** You'll see how on-prem deployment offers greater control and potentially higher consistency, while local AI solutions provide better [[Scalability]] and low latency for edge applications.
 >
 > **[4:57](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=297)** I recommend you considering your budget, security requirements, performance goals, and compliance obligations when making your decision.
 >
 > **[5:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=305)** Now that we've explored data security and deployment approaches, let's move on to an interesting exercise that will help you put all of these concepts together.
 >
-> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=314)** In the next video, we'll design a future-proof data storage strategy for a rapidly growing AI application.
+> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/data-security-and-compliance-in-ai-product-development-on-premise-local-ai?u=76281980&t=314)** In the next video, we'll design a future-proof [[Data Storage]] strategy for a rapidly growing AI application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), ai (12), [[Security]] (8), [[Microsoft Products|Products]] (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[AI Solutions]] (3), [[Microsoft Products|Products]] (2), [[Data Security]] (2), [[Real-Time]] (2), [[Privacy]] (1)
 > **Env Vars:** gdpr (1), ccpa (1), hipaa (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -2136,8 +2117,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Future-proofing data storage for AI products
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980)
+#### [Future-proofing data storage for AI products](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,13 +2127,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=7)** Now, let's look ahead.
 >
-> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=10)** How can you make sure your data storage strategy stays strong, even as technology changes, and your company's AI ambitions grow?
+> **[0:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=10)** How can you make sure your [[Data Storage]] strategy stays strong, even as technology changes, and your company's AI ambitions grow?
 >
 > **[0:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=18)** That's what we'll be focusing on in this video, future-proofing your AI data storage.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=24)** It's about anticipating those challenges and being ready to adapt.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=30)** A key principle here is scalability.
+> **[0:30](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=30)** A key principle here is [[Scalability]].
 >
 > **[0:32](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=32)** Your storage needs to be elastic, not fixed.
 >
@@ -2225,7 +2205,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=231)** To really future-proof your storage, you need to be able to forecast your needs, analyze historical usage patterns and project future growth to understand how your storage requirements will change over time.
 >
-> **[4:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=245)** This allows you to make informed decisions about your capacity planning, and avoid costly surprises.
+> **[4:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=245)** This allows you to make informed decisions about your [[Capacity Planning]], and avoid costly surprises.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/future-proofing-data-storage-for-ai-products?u=76281980&t=253)** That said, let's put these concepts into practice.
 >
@@ -2285,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), ai (7), [[Scalability]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Data Storage]] (2), [[Scalability]] (1), [[Capacity Planning]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** think of it like (1)
 > **Best Practices:** don't forget (1)
@@ -2297,8 +2277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design a real-world data strategy for an AI-powered product
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
+#### [Design a real-world data strategy for an AI-powered product](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2306,15 +2285,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=6)** Now, let's put it all together in one cohesive challenge that will test your ability to design a real-world data strategy for an AI-powered product.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=17)** Imagine you're the lead data strategist at Fashion First, a fast-growing e-commerce company that's doing 50 million in annual sales.
+> **[0:17](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=17)** Imagine you're the lead data strategist at Fashion First, a fast-growing [[E-Commerce]] company that's doing 50 million in annual sales.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=28)** They want to revolutionize their customer experience by using AI to personalize product recommendations and create a more engaging shopping journey.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=37)** Fashion First has an established data infrastructure, including two years of purchase history, comprehensive interaction logs, customer service transcripts, and a product catalog with basic metadata.
+> **[0:37](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=37)** Fashion First has an established data infrastructure, including two years of purchase history, comprehensive interaction logs, customer service transcripts, and a product catalog with basic [[Metadata]].
 >
 > **[0:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=51)** The platform currently serves 2 million monthly active users and operates on a basic cold storage setup, but they have a crucial decision to make.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=61)** Should they buy a traditional and model-driven recommendation engine, or should they leverage the power of generative AI to create a truly personalized experience?
+> **[1:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=61)** Should they buy a traditional and model-driven recommendation engine, or should they leverage the power of [[Generative AI]] to create a truly personalized experience?
 >
 > **[1:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=72)** Let's apply the STAR framework we discussed earlier to guide our decision making process.
 >
@@ -2328,13 +2307,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=95)** Think about user demographics, purchase history, product attributes, and browsing behavior.
 >
-> **[1:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=101)** With respect to unstructured data, how could you leverage unstructured data, like customer reviews, social media posts, and fashion blogs, to enhance a generative AI approach?
+> **[1:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=101)** With respect to [[Unstructured Data]], how could you leverage unstructured data, like customer reviews, social media posts, and fashion blogs, to enhance a generative AI approach?
 >
 > **[1:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=113)** Regarding data diversity and bias, how will you ensure your data is representative and unbiased?
 >
 > **[2:00](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=120)** How can you mitigate the risk of perpetuating existing biases in the fashion industry?
 >
-> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=126)** And lastly, what about evolving data collection?
+> **[2:06](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=126)** And lastly, what about evolving [[Data Collection]]?
 >
 > **[2:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=130)** Think back to our Netflix case study.
 >
@@ -2348,19 +2327,19 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=151)** What storage solution would be appropriate for each tier?
 >
-> **[2:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=155)** Regarding real-time processing, what are the real-time processing needs for each approach?
+> **[2:35](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=155)** Regarding [[Real-Time]] processing, what are the real-time processing needs for each approach?
 >
 > **[2:41](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=161)** How would this influence your storage choices?
 >
 > **[2:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=165)** About cost optimization, how can you optimize storage costs while meeting performance requirements?
 >
-> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=171)** And lastly, their scalability.
+> **[2:51](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=171)** And lastly, their [[Scalability]].
 >
 > **[2:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=173)** How will your storage architecture scale to accommodate future growth in data volume and user activity?
 >
-> **[3:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=181)** Lastly, consider data security and compliance.
+> **[3:01](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=181)** Lastly, consider [[Data Security]] and compliance.
 >
-> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=185)** Regarding data privacy, what data privacy measures will you implement to protect customer information?
+> **[3:05](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=185)** Regarding [[Data Privacy]], what data privacy measures will you implement to protect customer information?
 >
 > **[3:12](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=192)** How will you ensure compliance with regulations, like GDPR and CCPA Regarding security architecture, designing robust security architecture to protect your data from unauthorized access and cyber attacks, how will you do that?
 >
@@ -2368,17 +2347,17 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=211)** Implement granular access controls to ensure that only authorized personnel can have access to sensitive data.
 >
-> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=219)** Now, if you choose the traditional ML approach, you got to think about algorithms.
+> **[3:39](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=219)** Now, if you choose the traditional ML approach, you got to think about [[Algorithms]].
 >
 > **[3:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=225)** Which ML algorithms would you consider for building a recommendation engine?
 >
 > **[3:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=230)** Think about collaborative filtering, content-based filtering, and hybrid approaches.
 >
-> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=236)** Then there's feature engineering.
+> **[3:56](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=236)** Then there's [[Feature Engineering]].
 >
 > **[3:58](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=238)** How would you engineer relevant features from your data to improve the accuracy of your models?
 >
-> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=244)** And cold starts, what strategies would you use to handle the cold start problem for new users or products?
+> **[4:04](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=244)** And cold starts, what strategies would you use to handle the cold start problem for new users or [[Microsoft Products|products]]?
 >
 > **[4:11](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=251)** And lastly, the accuracy measurement.
 >
@@ -2386,19 +2365,19 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=258)** What metrics will you track?
 >
-> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=261)** Now, if you choose the generative AI approach, you need to think about retrieval-augmented generation.
+> **[4:21](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=261)** Now, if you choose the generative AI approach, you need to think about [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[4:27](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=267)** Would you use RAG to enhance your generative AI system?
 >
 > **[4:31](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=271)** If so, how would you implement it?
 >
-> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=274)** Then fine-tuning, what's your strategy for fine tuning a pre-trained generative model for the fashion domain?
+> **[4:34](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=274)** Then fine-tuning, what's your strategy for [[Fine Tuning]] a pre-trained generative model for the fashion domain?
 >
 > **[4:42](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=282)** Lastly, there's the output quality.
 >
 > **[4:45](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=285)** How will you ensure the quality and relevance of the outputs generated by your system?
 >
-> **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=290)** And then also, prompt engineering.
+> **[4:50](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=290)** And then also, [[Prompt Engineering]].
 >
 > **[4:53](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=293)** How will you design effective prompts to guide the AI's responses and ensure that they meet user needs?
 >
@@ -2406,9 +2385,9 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=307)** It could last up to three months.
 >
-> **[5:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=310)** Focus on data acquisition, cleaning, and preparation.
+> **[5:10](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=310)** Focus on [[Data Acquisition]], cleaning, and preparation.
 >
-> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=314)** This is where you'd be building your data pipelines and storage infrastructure.
+> **[5:14](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=314)** This is where you'd be building your [[Data Pipelines]] and storage infrastructure.
 >
 > **[5:18](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/design-a-real-world-data-strategy-for-an-ai-powered-product?u=76281980&t=318)** Then in Phase 2, another three months spent on initial deployment, where you develop and deploy your chosen AI solution, whether that be ML or generative AI.
 >
@@ -2430,7 +2409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), ai (7), [[Generative AI]] (6), product (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Unstructured Data]] (2), [[Data Collection]] (2), [[Real-Time]] (2), [[Data Privacy]] (2)
 > **Env Vars:** star (1), gdpr (1), ccpa (1), rag (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
@@ -2444,8 +2423,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-data-strategy-data-procurement-and-storage/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,7 +2439,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), ai (1)
 > **Speakers:** - [instructor] (1)
 
 

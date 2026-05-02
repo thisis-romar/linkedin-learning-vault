@@ -86,20 +86,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ChatGPT for data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980)
+#### [Introduction to ChatGPT for data engineering](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=0)** - [Deepak] Do you want to become a data engineer who think fast, code faster, and debug fastest?
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=6)** Then, how to use ChatGPT effectively is the most important skills to have.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=6)** Then, how to use [[ChatGPT]] effectively is the most important skills to have.
 >
 > **[0:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=12)** This course is designed to prepare you to utilize the power of ChatGPT to become a top-notch data engineer.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=20)** You will learn prompt engineering, how to write context-based prompts, use ChatGPT for coding, debugging, optimize the code, and for documentation purpose.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=20)** You will learn [[Prompt Engineering]], how to write context-based prompts, use ChatGPT for coding, debugging, optimize the code, and for documentation purpose.
 >
-> **[0:32](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=32)** Hi, I'm Deepak Goyal, a Senior Certified Microsoft Solution Architect and Trainer.
+> **[0:32](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=32)** Hi, I'm Deepak Goyal, a Senior Certified [[Microsoft]] Solution Architect and Trainer.
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/introduction-to-chatgpt-for-data-engineering?u=76281980&t=38)** Join me to accelerate your career in the data world.
 >
@@ -107,15 +106,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[ChatGPT]] (3), power (1), [[Prompt Engineering]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Prompt Engineering]] (1), [[Microsoft]] (1)
 > **Speakers:** - [deepak] (1)
 
-#### Setting expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/setting-expectations?u=76281980)
+#### [Setting expectations](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/setting-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/setting-expectations?u=76281980&t=0)** - [Narrator] It is important to understand that what is a prerequisite knowledge needed to learn this ChatGPT for Data Engineering course.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/setting-expectations?u=76281980&t=0)** - [Narrator] It is important to understand that what is a prerequisite knowledge needed to learn this [[ChatGPT]] for [[Data Engineering]] course.
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/setting-expectations?u=76281980&t=8)** The good news is that you just need basic knowledge around the ChatGPT and data engineering.
 >
@@ -131,7 +129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Data Engineering]] (2), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Data Engineering]] (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [narrator] (1)
@@ -141,14 +139,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980)
+#### [Understanding prompt engineering](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=0)** - [Instructor] Did you know that the way you ask a question can completely change the answer?
 >
-> **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=6)** Welcome to the world of prompt engineering, where mastering your question can help you to use the ChatGPT to its full potential.
+> **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=6)** Welcome to the world of [[Prompt Engineering]], where mastering your question can help you to use the [[ChatGPT]] to its full potential.
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=16)** Let's understand what is prompt engineering.
 >
@@ -170,11 +167,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=82)** I mean, you can think like the ChatGPT is a junior data engineer in your team.
 >
-> **[1:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=89)** If you give them the vague instructions, like, "Write PySpark script," you'd probably end up with something generic or an incomplete answer.
+> **[1:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=89)** If you give them the vague instructions, like, "Write [[PySpark]] script," you'd probably end up with something generic or an incomplete answer.
 >
 > **[1:42](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=102)** But if you give them a specific task, like, "Write a PySpark script that reads a CSU file, remove the null values, and perform deduplication," now they exactly know what you want.
 >
-> **[2:02](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=122)** In the world of data engineering, efficiency and precisions are the key, and that's why the prompt engineering becomes more important.
+> **[2:02](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=122)** In the world of [[Data Engineering]], efficiency and precisions are the key, and that's why the prompt engineering becomes more important.
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=132)** Whether you are automating a task, writing the scripts, or trying to optimize the workflow, what you are looking for is fast and accurate result, and prompt engineering can help you to get there.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=162)** Now if you ask the ChatGPT saying, "Help me clean my data," but don't you feel that this is too broad and to generic to ask from ChatGPT?
 >
-> **[2:57](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=177)** However, instead of this, if you give a very targeted prompt, like, "Generate the Python code to clean a dataset by removing duplicates, handling nulls, and normalizing the column names," now you are going to get a response which is precise and very near to what exactly you are looking for.
+> **[2:57](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=177)** However, instead of this, if you give a very targeted prompt, like, "Generate the [[Python (Programming Language)|Python]] code to clean a dataset by removing duplicates, handling nulls, and normalizing the column names," now you are going to get a response which is precise and very near to what exactly you are looking for.
 >
 > **[3:27](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=207)** This is the heart of prompt engineering, transforming your broad and general requests into targeted and precise instructions.
 >
@@ -216,7 +213,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=323)** Another thing would be is the constraint, that is, set the rule.
 >
-> **[5:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=329)** Maybe you are expecting ChatGPT to write SQL code for you, but you need it for very specifically ANSI standard.
+> **[5:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=329)** Maybe you are expecting ChatGPT to write [[SQL]] code for you, but you need it for very specifically ANSI standard.
 >
 > **[5:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/understanding-prompt-engineering?u=76281980&t=338)** So you can push that just by adding that specific constraint, that I need in this specific format only.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prompt Engineering]] (8), [[ChatGPT]] (8), prompt (7), [[PySpark]] (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (8), [[ChatGPT]] (8), [[PySpark]] (4), [[Python (Programming Language)|Python]] (3), [[Data Engineering]] (1)
 > **Env Vars:** csu (1), csv (1), sql (1), ansi (1)
 > **CLI Commands:** python (3)
 > **Analogies:** for example (3)
@@ -240,16 +237,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing effective prompts for coding tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980)
+#### [Writing effective prompts for coding tasks](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=0)** - [Instructor] Imagine having a coding assistant who understand exactly what you need and delivers code on demand.
 >
-> **[0:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=9)** That's what ChatGPT can be.
+> **[0:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=9)** That's what [[ChatGPT]] can be.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=12)** Whether you are working with the Python, SQL, or a PySpark, knowing how to frame your prompts will save you hours of coding time and debugging.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=12)** Whether you are working with the [[Python (Programming Language)|Python]], [[SQL]], or a [[PySpark]], knowing how to frame your prompts will save you hours of coding time and debugging.
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=24)** Let's break it down step by step with some real-world examples that you can apply right away.
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=64)** A effective prompt could be is you are giving the context.
 >
-> **[1:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=69)** For example, "For MySQL," so here the context which you have given is the MySQL.
+> **[1:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=69)** For example, "For [[MySQL]]," so here the context which you have given is the MySQL.
 >
 > **[1:16](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=76)** So ChatGPT will understand that the query which you need to write is belongs to MySQL.
 >
@@ -293,11 +289,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=154)** Now here you, you're restricting the ChatGPT to use a specific library.
 >
-> **[2:39](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=159)** That is the requests library only, and you're saying that the API is a GitHub.
+> **[2:39](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=159)** That is the requests library only, and you're saying that the API is a [[GitHub]].
 >
 > **[2:46](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=166)** So again, it will write the code accordingly.
 >
-> **[2:49](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=169)** And lastly, you are saying it, you need it as in pandas.
+> **[2:49](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=169)** And lastly, you are saying it, you need it as in [[Pandas (Software)|pandas]].
 >
 > **[2:53](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/writing-effective-prompts-for-coding-tasks?u=76281980&t=173)** So it will effectively use the pandas library as well.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (3), [[MySQL]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (3), [[MySQL]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (3), mysql (3), make (1)
 > **Env Vars:** sql (3), api (3)
 > **Code Identifiers:** customer_id (2), order_value (1)
@@ -318,12 +314,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
 
-#### Common pitfalls and how to avoid them
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980)
+#### [Common pitfalls and how to avoid them](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] Have you ever felt like you are just not getting the answers you need from ChatGPT?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=0)** - [Instructor] Have you ever felt like you are just not getting the answers you need from [[ChatGPT]]?
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=8)** It's not always the AI's fault.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=27)** This is one of the most common mistakes people make when working with ChatGPT.
 >
-> **[0:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=34)** For example, you have to ask for a Python script.
+> **[0:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=34)** For example, you have to ask for a [[Python (Programming Language)|Python]] script.
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=38)** Rather than just asking a vague question, "Write a Python script", you can always add the more specification.
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=93)** Rather then, what you can do is you can break it down further into a one step at a time.
 >
-> **[1:40](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=100)** For example, you can say, first, let's connect to an API and fetch the data.
+> **[1:40](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=100)** For example, you can say, first, let's connect to an API and [[Fetch]] the data.
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=107)** Maybe step number two, clean the data.
 >
@@ -367,9 +362,9 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=132)** When I say not providing the context, it means that you just say without having any further detail given.
 >
-> **[2:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=139)** For example, "Optimize this SQL query".
+> **[2:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=139)** For example, "Optimize this [[SQL]] query".
 >
-> **[2:23](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=143)** Now, if I give you the query and I say just optimize the query, you can add a couple of context inside it, saying optimize for a PostgreSQL database, which is having millions of records by indexing the date column.
+> **[2:23](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=143)** Now, if I give you the query and I say just optimize the query, you can add a couple of context inside it, saying optimize for a [[PostgreSQL]] database, which is having millions of records by indexing the date column.
 >
 > **[2:40](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=160)** Now here you are specifically saying to our ChatGPT that this is the situation and please answer based on these circumstances.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=269)** So it's important that you give a little bit output format as well that I need it in specifically in this language and in this specific format.
 >
-> **[4:41](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=281)** For example, I said like, write a brief Python function using the Pandas.
+> **[4:41](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=281)** For example, I said like, write a brief Python function using the [[Pandas (Software)|Pandas]].
 >
 > **[4:47](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/common-pitfalls-and-how-to-avoid-them?u=76281980&t=287)** Now that we have covered the common mistakes and we know how to avoid them, let's explore how we can combine the multiple prompts to handle the more complex task.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[ChatGPT]] (5), data (4), [[Python (Programming Language)|Python]] (3), api (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (3), [[Fetch]] (1), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Analogies:** for example (6)
 > **CLI Commands:** python (3), make (1)
 > **Env Vars:** api (2), csv (1), sql (1)
@@ -422,12 +417,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refining prompts for better results
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980)
+#### [Refining prompts for better results](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=0)** - [Instructor] Have you ever got a response from ChatGPT that was good, but not that great?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=0)** - [Instructor] Have you ever got a response from [[ChatGPT]] that was good, but not that great?
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=8)** And what if I told you that a few small tweaks could turn a decent result into exactly what you need?
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=97)** You might need a specific format or a specific tool.
 >
-> **[1:43](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=103)** For example, you are trying to get the SQL queries, but that has to be written in a formatted way, right?
+> **[1:43](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=103)** For example, you are trying to get the [[SQL]] queries, but that has to be written in a formatted way, right?
 >
 > **[1:49](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=109)** So you got the SQL query, but not in a formatted manner.
 >
@@ -461,7 +455,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=119)** Let's take in a real world example.
 >
-> **[2:01](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=121)** Imagine that you wanted to write a Python script and you give a very contextual-based prompt, write a Python script to clean a data set by removing rules with null values.
+> **[2:01](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=121)** Imagine that you wanted to write a [[Python (Programming Language)|Python]] script and you give a very contextual-based prompt, write a Python script to clean a data set by removing rules with null values.
 >
 > **[2:14](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/refining-prompts-for-better-results?u=76281980&t=134)** This all looks well, but if you refine this prompt specifically, like modify the Python script to handle the exceptions when the dataset is empty and print an error message.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (3), [[SQL]] (2)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** imagine (2), for example (2)
 > **Env Vars:** sql (2)
@@ -483,8 +477,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using contextual prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980)
+#### [Using contextual prompts](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,9 +487,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=14)** Contextual prompts are simply the prompts that gives ChatPGT a deeper understanding of the task by just providing extra background details.
 >
-> **[0:28](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=28)** For example, when ChatGPT understands the bigger picture, it probably can produce the responses that are more relevant and tailored to your specific problem.
+> **[0:28](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=28)** For example, when [[ChatGPT]] understands the bigger picture, it probably can produce the responses that are more relevant and tailored to your specific problem.
 >
-> **[0:43](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=43)** For example, a simple way of asking a question to ChatGPT is write a Python script or a PySpark script to process the data.
+> **[0:43](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=43)** For example, a simple way of asking a question to ChatGPT is write a [[Python (Programming Language)|Python]] script or a [[PySpark]] script to process the data.
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-contextual-prompts?u=76281980&t=53)** However, you can add the context by saying join customer orders and product detail on product ID, perform aggregation, and handle the null values.
 >
@@ -528,19 +521,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), data (3), [[PySpark]] (2), product (2), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[PySpark]] (2), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2), picture (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combining multiple prompts for complex tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980)
+#### [Combining multiple prompts for complex tasks](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=0)** - [Instructor] Sometimes do you feel like your coding challenge are too complex for just one question?
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=8)** What if I tell you that ChatGPT, through a series of prompts, helps you to solve those complex problem in a step-by-step manner?
+> **[0:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=8)** What if I tell you that [[ChatGPT]], through a series of prompts, helps you to solve those complex problem in a step-by-step manner?
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=19)** Seems exciting, right?
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=61)** I mean, combining the prompts probably is like conversation you are doing with your colleague.
 >
-> **[1:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=68)** You ask for help for one part, then build on it as you progress, And this process is especially helpful in data engineering perspective, like you are doing in ETL, multiple steps at a time.
+> **[1:08](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=68)** You ask for help for one part, then build on it as you progress, And this process is especially helpful in [[Data Engineering]] perspective, like you are doing in ETL, multiple steps at a time.
 >
 > **[1:24](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=84)** Let's take an example.
 >
@@ -564,7 +556,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=100)** For example, first you want to extract the data.
 >
-> **[1:44](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=104)** So you probably write a first prompt saying, "Write a script to connect to REST API and extract data in JSON format."
+> **[1:44](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=104)** So you probably write a first prompt saying, "Write a script to connect to [[Representational State Transfer (REST)|REST]] API and extract data in [[JSON]] format."
 >
 > **[1:53](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/combining-multiple-prompts-for-complex-tasks?u=76281980&t=113)** Probably this step is specifically doing the extraction.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[ChatGPT]] (3), prompt (3), [[Data Engineering]] (2), etl (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Data Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **Env Vars:** etl (2), rest (1), api (1), json (1)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** in the next (1)
@@ -605,16 +597,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating data engineering code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980)
+#### [Generating data engineering code with ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=0)** - [Instructor] So far in this course, we have learned how we can write a good ChatGPT prompt.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=0)** - [Instructor] So far in this course, we have learned how we can write a good [[ChatGPT]] prompt.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=6)** Now, it's time to do that in a very practical manner.
 >
-> **[0:11](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=11)** So let's assume that I want to write a Python script to clean the data from a CSV file where my column names are Customerid, name, address, and phone number.
+> **[0:11](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=11)** So let's assume that I want to write a [[Python (Programming Language)|Python]] script to clean the data from a CSV file where my column names are Customerid, name, address, and phone number.
 >
 > **[0:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=38)** And I can just say Enter.
 >
@@ -640,7 +631,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=118)** Sometimes, if you don't give the exact details, then your ChatGPT start assuming the thing.
 >
-> **[2:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=126)** So, in this example, we got basic data engineering code, but you will find that it might not be exactly doing what you expect because you have not furnished those information.
+> **[2:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=126)** So, in this example, we got basic [[Data Engineering]] code, but you will find that it might not be exactly doing what you expect because you have not furnished those information.
 >
 > **[2:22](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-data-engineering-code-with-chatgpt?u=76281980&t=142)** So maybe you can just add it like this, "Change to add the null check for the name field."
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (2), data (2), [[Data Engineering]] (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (2), [[Data Engineering]] (2)
 > **CLI Commands:** python (2), find (2)
 > **Env Vars:** csv (2)
 > **Code Identifiers:** drop_duplicates (1)
@@ -660,18 +651,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating documentation with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980)
+#### [Automating documentation with ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=0)** - [Instructor] You might understand how to write the code using the ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=0)** - [Instructor] You might understand how to write the code using the [[ChatGPT]].
 >
 > **[0:05](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=5)** But code is not everything.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=9)** Code without documentation is like a story without a narrative, which is hard to follow.
 >
-> **[0:16](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=16)** And if I tell you that using ChatGPT, you can do the documentation of all your data pipelines and your logics in just few seconds, probably that will excite you, right?
+> **[0:16](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=16)** And if I tell you that using ChatGPT, you can do the documentation of all your [[Data Pipelines]] and your logics in just few seconds, probably that will excite you, right?
 >
 > **[0:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=34)** So let's understand how we can use ChatGPT for the documentation purpose.
 >
@@ -693,9 +683,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=110)** And now you will find that it is doing in documentation for each and every step of your script.
 >
-> **[2:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=120)** Similarly, it's not just you do a documentation only for your Python script.
+> **[2:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=120)** Similarly, it's not just you do a documentation only for your [[Python (Programming Language)|Python]] script.
 >
-> **[2:07](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=127)** You can just write a SQL query.
+> **[2:07](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=127)** You can just write a [[SQL]] query.
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/automating-documentation-with-chatgpt?u=76281980&t=129)** For example, "Select * from Customer where country is = India."
 >
@@ -707,15 +697,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (3), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[SQL]] (3), [[Data Pipelines]] (1), [[Python (Programming Language)|Python]] (1)
 > **Documentation:** the documentation (4)
 > **CLI Commands:** find (2), python (1)
 > **Analogies:** for instance (1), imagine (1), for example (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [instructor] (1)
 
-#### Debugging data pipelines using ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980)
+#### [Debugging data pipelines using ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -723,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=9)** What if you're going to have an assistant to help you identify and fix issues instantly?
 >
-> **[0:17](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=17)** That is no one but ChatGPT.
+> **[0:17](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=17)** That is no one but [[ChatGPT]].
 >
 > **[0:21](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=21)** ChatGPT can help you not only in developing, optimizing your code and logics, but it can also help you to debug your code and data pipeline logics to find out the error in a quickest manner.
 >
@@ -731,7 +720,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=46)** Imagine that I am getting this error, which is FileNotFoundError, no such file or directory.
 >
-> **[0:55](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=55)** Now, this error is coming while I am reading a file in the PySpark code.
+> **[0:55](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=55)** Now, this error is coming while I am reading a file in the [[PySpark]] code.
 >
 > **[1:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=66)** I can write a prompt with this detail and say that identify the root cause of an error and give solution.
 >
@@ -753,7 +742,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=144)** Imagine that I am getting this error, which is error column region must appear in GROUP BY clause or be used in aggregate function.
 >
-> **[2:36](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=156)** Now, this error is coming while I am running a SQL query.
+> **[2:36](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=156)** Now, this error is coming while I am running a [[SQL]] query.
 >
 > **[2:45](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/debugging-data-pipelines-using-chatgpt?u=76281980&t=165)** Again, we can ask to ChatGPT, "Give me the solution to this problem."
 >
@@ -771,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (11), data (2), [[PySpark]] (1), prompt (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (11), [[PySpark]] (1), [[SQL]] (1)
 > **Env Vars:** group (3), gpt (1), sql (1)
 > **CLI Commands:** find (4)
 > **Analogies:** imagine (2), for example (2)
@@ -780,16 +769,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing SQL queries with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980)
+#### [Optimizing SQL queries with ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=0)** - [Instructor] Have you ever written a SQL query that works, but takes forever to run?
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=0)** - [Instructor] Have you ever written a [[SQL]] query that works, but takes forever to run?
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=6)** Performance matters, especially when dealing with the large data set.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=12)** In this video, we are going to learn how ChatGPT can help you in optimizing that specific SQL queries.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=12)** In this video, we are going to learn how [[ChatGPT]] can help you in optimizing that specific SQL queries.
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-sql-queries-with-chatgpt?u=76281980&t=22)** Let's just go back to our ChatGPT and see how it can help to optimize queries.
 >
@@ -837,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[SQL]] (3), data (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[SQL]] (3)
 > **Env Vars:** sql (3), join (1), exists (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -846,22 +834,21 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** recommended (1)
 
-#### Using ChatGPT for data cleaning scripts
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980)
+#### [Using ChatGPT for data cleaning scripts](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=0)** - [Instructor] Data cleaning is one of the very crucial step in the data engineering world because a dirty data can lead to an incorrect analysis, and poor decision making.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=0)** - [Instructor] [[Data Cleaning]] is one of the very crucial step in the [[Data Engineering]] world because a dirty data can lead to an incorrect analysis, and poor decision making.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=14)** Hence, if you are working as a data engineer, you come across this data cleaning activity multiple times.
 >
-> **[0:23](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=23)** And the good news is ChatGPT can help you in the data cleaning step as well.
+> **[0:23](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=23)** And the good news is [[ChatGPT]] can help you in the data cleaning step as well.
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=29)** Assume that I have a situation, and I have to clean the data for my CSV file.
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=39)** I can think of writing a prompt something like this.
 >
-> **[0:44](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=44)** "Write a Python script using Pandas to read A CSV file, removes rows with any null values, and drop duplicate rows."
+> **[0:44](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=44)** "Write a [[Python (Programming Language)|Python]] script using [[Pandas (Software)|Pandas]] to read A CSV file, removes rows with any null values, and drop duplicate rows."
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-for-data-cleaning-scripts?u=76281980&t=57)** When you give the prompt something like this, which consists of all the rules that you want to apply, it creates an exact code for you.
 >
@@ -897,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[ChatGPT]] (5), prompt (5), [[Data Engineering]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (5), [[ChatGPT]] (5), [[Data Engineering]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (2), nan (2)
 > **CLI Commands:** python (1), find (1)
 > **Cross-References:** in the next (1)
@@ -905,14 +892,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### ChatGPT for data analysis and insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980)
+#### [ChatGPT for data analysis and insights](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=0)** - [Instructor] Data analysis is the key to unlocking valuable insights, but it often requires time consuming exploration and interpretation.
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=13)** What if ChatGPT could help you in doing so and extract actionable insights quickly?
+> **[0:13](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=13)** What if [[ChatGPT]] could help you in doing so and extract actionable insights quickly?
 >
 > **[0:21](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=21)** That would be awesome, right?
 >
@@ -920,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=31)** Let's just take an example.
 >
-> **[0:33](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=33)** Assume that I have a file and I want to use the Python script using Pandas to identify the mean, median, and standard deviation for the sales amount present in that CSV column, how I can do it?
+> **[0:33](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=33)** Assume that I have a file and I want to use the [[Python (Programming Language)|Python]] script using [[Pandas (Software)|Pandas]] to identify the mean, median, and standard deviation for the sales amount present in that CSV column, how I can do it?
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/chatgpt-for-data-analysis-and-insights?u=76281980&t=53)** Let's see how ChatGPT can help you in writing that piece of a code for you.
 >
@@ -962,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), prompt (5), data (4), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (3)
 > **CLI Commands:** python (2)
 > **Cross-References:** next video (1)
@@ -975,16 +961,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating PySpark code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980)
+#### [Generating PySpark code with ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Handling big data efficiently requires the power of distributed processing, and that's where PySpark is needed.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Handling [[Big Data]] efficiently requires the power of distributed processing, and that's where [[PySpark]] is needed.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=9)** And if you are working as a data engineer, then you must aware of that this is a very common task which you need to do day in day out as a data engineer.
 >
-> **[0:22](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=22)** Now let's understand how ChatGPT can help us in doing so.
+> **[0:22](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=22)** Now let's understand how [[ChatGPT]] can help us in doing so.
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/generating-pyspark-code-with-chatgpt?u=76281980&t=28)** Take an example, assume that I have a CSV file which contains the customer data, and I want to read this file using the PySpark, and want to filter the records which includes only the customers from USA and want it to see some of the sample rules, how I can write it?
 >
@@ -1030,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), [[PySpark]] (6), data (6), prompt (3), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[PySpark]] (6), [[Big Data]] (1)
 > **Env Vars:** csv (4), usa (1)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** total_sales_dataframe (1)
@@ -1039,14 +1024,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing PySpark jobs using ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980)
+#### [Optimizing PySpark jobs using ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980&t=0)** - [Instructor] Processing big data with PySpark is powerful, but it comes with its own set of challenges, for example, slow jobs, memory issues, and resource bottlenecks that can reduce the performance of your Spark code.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980&t=0)** - [Instructor] Processing [[Big Data]] with [[PySpark]] is powerful, but it comes with its own set of challenges, for example, slow jobs, memory issues, and resource bottlenecks that can reduce the performance of your Spark code.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980&t=18)** However, the good news is ChatGPT can help you in optimizing and improving the performance of your PySpark code as well.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980&t=18)** However, the good news is [[ChatGPT]] can help you in optimizing and improving the performance of your PySpark code as well.
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/optimizing-pyspark-jobs-using-chatgpt?u=76281980&t=28)** Let's see how it can help us.
 >
@@ -1086,27 +1070,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[ChatGPT]] (8), [[PySpark]] (6), prompt (3), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[PySpark]] (6), [[Big Data]] (1)
 > **Analogies:** for example (2), imagine (2)
 > **CLI Commands:** find (3)
 > **Cross-References:** next video (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ChatGPT in Databricks notebooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980)
+#### [Using ChatGPT in Databricks notebooks](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=0)** - [Instructor] If you're working as a data engineer and writing a code in a PySpark, there's a very high chance that you might be using the Databricks because Databricks is very popular in the data engineering world, and people use this a lot for writing the Spark and PySpark Logic.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=0)** - [Instructor] If you're working as a data engineer and writing a code in a [[PySpark]], there's a very high chance that you might be using the Databricks because Databricks is very popular in the [[Data Engineering]] world, and people use this a lot for writing the Spark and PySpark Logic.
 >
-> **[0:21](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=21)** Now imagine that you are writing in the Databricks and you want to take in help of ChatGPT.
+> **[0:21](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=21)** Now imagine that you are writing in the Databricks and you want to take in help of [[ChatGPT]].
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=27)** How you can do that?
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=29)** Let's see with an example.
 >
-> **[0:30](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=30)** When you wanted to connect your Databricks with the Azure, there's a very common problem is mounting, and you want the help in that.
+> **[0:30](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=30)** When you wanted to connect your Databricks with the [[Microsoft Azure|Azure]], there's a very common problem is mounting, and you want the help in that.
 >
 > **[0:39](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/using-chatgpt-in-databricks-notebooks?u=76281980&t=39)** In that case, you can think of writing a prompt, something like this.
 >
@@ -1130,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (4), data (3), [[PySpark]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[PySpark]] (3), [[Microsoft Azure|Azure]] (3), [[Data Engineering]] (1)
 > **Analogies:** imagine (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
@@ -1140,16 +1123,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data privacy and security with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980)
+#### [Data privacy and security with ChatGPT](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=0)** - [Instructor] In today's data-driven world, ensuring the privacy and security of your data is not just about having a best practice in your project, but it is a kind of a mandatory thing for a lot of compliances or regulations like GDPR and CCPA.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=0)** - [Instructor] In today's data-driven world, ensuring the [[Privacy]] and security of your data is not just about having a best practice in your project, but it is a kind of a mandatory thing for a lot of compliances or regulations like GDPR and CCPA.
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=20)** How do you safeguard your data while still leveraging the powerful analytics?
 >
-> **[0:27](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=27)** Let's understand how ChatGPT can be helpful in implementing the data privacy and security measures in your data engineering projects.
+> **[0:27](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=27)** Let's understand how [[ChatGPT]] can be helpful in implementing the [[Data Privacy]] and security measures in your [[Data Engineering]] projects.
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=37)** Data privacy and security are not only the ethical obligations nowadays, but also a legal requirement.
 >
@@ -1165,7 +1147,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=92)** We can think of writing a specific prompt, something like this I can say.
 >
-> **[1:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=98)** Write a PySpark to mask sensitive information in a data frame by replacing all but the last four digit of the credit card number column with asterisks.
+> **[1:38](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=98)** Write a [[PySpark]] to mask sensitive information in a data frame by replacing all but the last four digit of the credit card number column with asterisks.
 >
 > **[1:52](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/data-privacy-and-security-with-chatgpt?u=76281980&t=112)** Now when you write this prompt and execute it, you will find that ChatGPT is going to give you exact code, which is going to mask the sensitive information.
 >
@@ -1187,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Privacy]] (5), [[Security]] (4), prompt (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[ChatGPT]] (2), [[Data Privacy]] (2), [[Data Engineering]] (2), [[PySpark]] (2)
 > **Env Vars:** gdpr (1), ccpa (1), pii (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1195,20 +1177,19 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethical AI usage in data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980)
+#### [Ethical AI usage in data engineering](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=0)** - [Instructor] AI is transforming data engineering, but with the great power, comes the great responsibility.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=0)** - [Instructor] AI is transforming [[Data Engineering]], but with the great power, comes the great responsibility.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=7)** How you can ensure that the AI-driven data solutions are fair, transparent, and ethical?
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=16)** Let's understand this in more detail.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=20)** AI ethics is about ensuring that AI systems are used in the ways that are fair, transparent, and respectful of individual rights.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=20)** AI [[Ethics]] is about ensuring that AI systems are used in the ways that are fair, transparent, and respectful of individual rights.
 >
-> **[0:33](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=33)** Unethical AI practices such as bias algorithms or misuse of the personal data can lead to discrimination, privacy validations, and loss of trust.
+> **[0:33](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=33)** Unethical AI practices such as bias [[Algorithms]] or misuse of the personal data can lead to discrimination, [[Privacy]] validations, and loss of trust.
 >
 > **[0:45](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=45)** By focusing on ethical AI usage, we can build the data solutions that not only deliver the insights, but also uphold the ethical standards.
 >
@@ -1232,7 +1213,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=135)** It's difficult to understand how they are making their decisions.
 >
-> **[2:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=140)** However, having the transparency and explainability can help in building the trust and accountability for AI systems.
+> **[2:20](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=140)** However, having the transparency and explainability can help in building the trust and [[Accountability]] for AI systems.
 >
 > **[2:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=149)** Let's understand what are the different strategies that can be followed.
 >
@@ -1248,22 +1229,21 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=206)** So probably we can take this step to avoid any breaching of those regulations like data minimization using the only data which is necessary, data anonymization, where you are not sharing the actual information, encryption, opting consent, and ensure compliances and especially implement the data access control, so only right people will have access to the right information.
 >
-> **[3:57](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=237)** We can also establish the ethical guidelines for the AI usage in your project, like you can define your ethical principles, you could create an ethic committee, conduct an ethical assessments, and develop a very crystal clear policies what is accepted and what is unacceptable, provide trainings and awareness to the team, and do continuous monitoring of these principles are followed or not.
+> **[3:57](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=237)** We can also establish the ethical guidelines for the AI usage in your project, like you can define your ethical principles, you could create an ethic committee, conduct an ethical assessments, and develop a very crystal clear policies what is accepted and what is unacceptable, provide trainings and awareness to the team, and do [[Continuous Monitoring]] of these principles are followed or not.
 >
-> **[4:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=269)** Ethical AI usage is crucial for building trust and ensuring that AI systems are used responsibly.
+> **[4:29](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=269)** Ethical AI usage is crucial for [[Building Trust]] and ensuring that AI systems are used responsibly.
 >
-> **[4:37](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=277)** So while you making use of ChatGPT in your project, try to ensure that you are following the all AI ethical practices.
+> **[4:37](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ethical-ai-usage-in-data-engineering?u=76281980&t=277)** So while you making use of [[ChatGPT]] in your project, try to ensure that you are following the all AI ethical practices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (14), feature (3), [[Data Engineering]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[Ethics]] (1), [[Algorithms]] (1), [[Privacy]] (1), [[Accountability]] (1)
 > **Env Vars:** lime (1), gdpr (1), ccpa (1)
 > **Analogies:** such as (1), similar to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ensuring compliance and data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980)
+#### [Ensuring compliance and data governance](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1251,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=7)** It is about building the trust and maintaining the integrity of your data practices.
 >
-> **[0:13](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=13)** Let's understand why data governance and compliance matters.
+> **[0:13](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=13)** Let's understand why [[Data Governance]] and compliance matters.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=18)** Data governance and compliance are essential for managing data assets effectively.
 >
@@ -1281,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=41)** It can also cause data breaches and reputation damages.
 >
-> **[0:46](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=46)** By implementing the strong data governance practice and ensuring the compliance, you can safeguard the data, support data-driven decision making, and foster a culture of accountability.
+> **[0:46](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=46)** By implementing the strong data governance practice and ensuring the compliance, you can safeguard the data, support [[Data-driven Decision Making]], and foster a culture of [[Accountability]].
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=63)** Implementation of data governance policies start with defining the data governance policies.
 >
@@ -1289,13 +1269,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=79)** You should have a policy for data access that defines who could have access to a specific data, and to implement that, you can use the RBAC, that is role-based access control.
 >
-> **[1:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=94)** You should also set the data quality standards to ensure accuracy and completeness of your data.
+> **[1:34](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=94)** You should also set the [[Data Quality]] standards to ensure accuracy and completeness of your data.
 >
 > **[1:42](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=102)** You should also think about establishing the security protocols to protect your sensitive data from unauthorized access.
 >
-> **[1:51](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=111)** You should think of developing data privacy policies that complies with regulations like GDPR and CCPA.
+> **[1:51](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=111)** You should think of developing [[Data Privacy]] policies that complies with regulations like GDPR and CCPA.
 >
-> **[1:59](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=119)** You should also define the lifecycle of data from creation to the disposal to effectively manage your data storage.
+> **[1:59](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=119)** You should also define the lifecycle of data from creation to the disposal to effectively manage your [[Data Storage]].
 >
 > **[2:09](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/ensuring-compliance-and-data-governance?u=76281980&t=129)** You should also set up the monitoring and auditing mechanism to track the data access, usage, and modification.
 >
@@ -1303,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Data-driven Decision Making]] (1), [[Accountability]] (1), [[Security]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (6), [[Data-driven Decision Making]] (1), [[Accountability]] (1), [[Data Quality]] (1), [[Data Privacy]] (1)
 > **Env Vars:** rbac (1), gdpr (1), ccpa (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1313,20 +1293,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=0)** - [Deepak] That brings us to the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=2)** You did great in understanding and learning ChatGPT for data engineering, but we have only scratched the surface of the data world, so by no means is this the end.
+> **[0:02](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=2)** You did great in understanding and learning [[ChatGPT]] for [[Data Engineering]], but we have only scratched the surface of the data world, so by no means is this the end.
 >
 > **[0:15](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=15)** I encourage you to keep moving forward in your learning journey.
 >
-> **[0:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=19)** You can start by taking my live data engineering program, Mission 100 Azure Data Engineer.
+> **[0:19](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=19)** You can start by taking my live data engineering program, Mission 100 [[Microsoft Azure|Azure]] Data Engineer.
 >
-> **[0:26](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=26)** You can find the program on my LinkedIn profile page itself.
+> **[0:26](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=26)** You can find the program on my [[LinkedIn]] profile page itself.
 >
 > **[0:30](https://www.linkedin.com/learning/generative-ai-for-data-engineering-chatgpt-power-tips/next-steps?u=76281980&t=30)** Again, my name is Deepak Goyal and it has been both my pleasure and honor to teach you the skills of ChatGPT for data engineering.
 >
@@ -1334,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Data Engineering]] (3), [[ChatGPT]] (2), data (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[ChatGPT]] (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [deepak] (1)
 

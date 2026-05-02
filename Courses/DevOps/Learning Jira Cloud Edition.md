@@ -101,39 +101,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing work in Jira Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980)
+#### [Managing work in Jira Cloud](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=0)** How do you track your work?
 >
-> **[0:02](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=2)** As organizations continue to adopt digital technology, more and more teams are leveraging Jira.
+> **[0:02](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=2)** As organizations continue to adopt digital technology, more and more teams are leveraging [[Jira]].
 >
-> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=7)** Jira is already the industry standard for software development, but other teams like marketing, legal, IT, and finance are adopting it, as well.
+> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=7)** Jira is already the industry standard for [[Software Development]], but other teams like marketing, legal, IT, and finance are adopting it, as well.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=16)** By learning Jira, you'll be able to easily manage your own daily tasks and help your organization plan their strategic initiatives.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=24)** In this course, you'll learn all about navigating Jira, working with projects and issues, and creating filters, dashboards, and boards.
+> **[0:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=24)** In this course, you'll learn all about navigating Jira, working with projects and issues, and creating filters, [[Dashboards]], and boards.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=33)** I'll show you everything you need to know so you can get started right away.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=37)** Hi, I'm Rachel Wright, Certified Jira Administrator and author of the JIRA Strategy Admin Workbook.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=43)** Join my LinkedIn learning course to understand Jira fundamentals and how you can leverage the software to tame your never ending to-do list.
+> **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/managing-work-in-jira-cloud?u=76281980&t=43)** Join my [[LinkedIn]] learning course to understand Jira fundamentals and how you can leverage the software to tame your never ending to-do list.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), teams (2), [[Software Development]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Software Development]] (1), [[Dashboards]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (7)
 > **Env Vars:** jira (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=0)** This course helps new Jira users get started, access the important areas of the application, and work with issues so you can track and manage your to-do list.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=0)** This course helps new [[Jira]] users get started, access the important areas of the application, and work with issues so you can track and manage your to-do list.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=9)** It doesn't matter if you're a software developer, a marketing manager, a procurement specialist, or an HR generalist.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=39)** This course is for users of the Jira Cloud deployment type.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=43)** This means Atlassian is hosting the software on their servers.
+> **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=43)** This means [[Atlassian]] is hosting the software on their servers.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=48)** If you have Jira Server or Data Center instead, take my other learning Jira course for that application type.
 >
@@ -163,19 +161,18 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=67)** You may be brand new to Jira, have some Jira experience, or have used Jira at a previous company.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=73)** Additionally, you might be a new Jira administrator without much end-user experience.
+> **[1:13](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/who-is-this-course-for?u=76281980&t=73)** Additionally, you might be a new Jira administrator without much end-[[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (15), application (3), cloud (2), data (2), hr (1)
+> **Frameworks & Libraries:** [[Jira]] (15), [[Atlassian]] (1), [[User Experience (UX)|User experience]] (1)
 > **Tools:** jira (15)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=0)** You don't need any specific Jira skills or special Jira permissions for this course.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=0)** You don't need any specific [[Jira]] skills or special Jira permissions for this course.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=5)** Ideally, you'll have some experience using other web-based applications.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=66)** New features are added, moved, or changed all the time.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=70)** Existing features or even entire products are renamed, and links that worked yesterday are broken today.
+> **[1:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=70)** Existing features or even entire [[Microsoft Products|products]] are renamed, and links that worked yesterday are broken today.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=78)** That's why I've set up a special place on my website where you can get the latest Jira information. When something impactful to the course changes, I'll post that information at the URL shown.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=97)** For some of you, I speak too slowly, and for others, I speak too fast.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=101)** Luckily, the LinkedIn video player has some useful features to help you move at your own pace.
+> **[1:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=101)** Luckily, the [[LinkedIn]] video player has some useful features to help you move at your own pace.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-do-you-need-for-this-course?u=76281980&t=107)** On the bottom left, use the skip back icon to rewind 10 seconds and hear information again.
 >
@@ -227,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), application (3), cloud (3), web (2), product (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (7)
 > **Env Vars:** url (1)
 > **Prerequisites:** set up (1)
@@ -237,46 +234,44 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Jira?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980)
+#### [What is Jira?](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=0)** Jira is software for issue tracking, bug tracking, and project management.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=0)** [[Jira]] is software for issue tracking, bug tracking, and project management.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=5)** It digitizes your wall of sticky notes.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=8)** Jira helps teams of all types manage their work.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=11)** When Jira was first released in 2002, it was purely for software development.
+> **[0:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=11)** When Jira was first released in 2002, it was purely for [[Software Development]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=17)** But these days, all kinds of teams like legal, marketing, HR, and IT use Jira.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=23)** Jira is made by a company called Atlassian who makes other popular tools like Confluence, a wiki, and collaboration portal, and development tools like Bamboo and Bitbucket.
+> **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=23)** Jira is made by a company called [[Atlassian]] who makes other popular tools like [[Confluence]], a wiki, and collaboration portal, and development tools like Bamboo and [[Bitbucket]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=35)** Atlassian tools all connect to each other.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=38)** For example, you can show real-time Jira information on Confluence pages.
+> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=38)** For example, you can show [[Real-Time]] Jira information on Confluence pages.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=43)** In the example, the Jira issue is linked to a related confluence page.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=48)** Jira also integrates with third-party tools like the Slack chat application or the Salesforce CRM.
+> **[0:48](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=48)** Jira also integrates with third-party tools like the [[Slack]] chat application or the Salesforce CRM.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/what-is-jira?u=76281980&t=55)** For example, you can get Jira issue notifications in your team's chat room.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Confluence]] (3), teams (2), [[Atlassian]] (2), management (1)
+> **Frameworks & Libraries:** [[Jira]] (9), [[Confluence]] (3), [[Atlassian]] (2), [[Software Development]] (1), [[Bitbucket]] (1)
 > **Tools:** jira (9), confluence (3), bitbucket (1), slack (1)
 > **Analogies:** for example (2)
 > **Env Vars:** crm (1)
 
-#### How is Jira used?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980)
+#### [How is Jira used?](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=0)** This course helps new Jira users get started, access the important areas of the application, and work with issues so you can track and manage your to-do list.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=0)** This course helps new [[Jira]] users get started, access the important areas of the application, and work with issues so you can track and manage your to-do list.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=9)** It doesn't matter if you're a software developer, a marketing manager, a procurement specialist, or an HR generalist.
 >
@@ -320,22 +315,21 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=104)** Here's the answer.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=106)** To track a task from conception to completion, use Jira. To document a task, use a collaboration platform and document repository like Confluence.
+> **[1:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=106)** To track a task from conception to completion, use Jira. To document a task, use a collaboration platform and document repository like [[Confluence]].
 >
-> **[1:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=117)** To talk about a task in real time, use a chat program like Slack or Microsoft Teams.
+> **[1:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-is-jira-used?u=76281980&t=117)** To talk about a task in real time, use a chat program like [[Slack]] or [[Microsoft Teams]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), application (2), hr (2), database (1), product (1)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Confluence]] (1), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **Tools:** jira (10), confluence (1), slack (1)
 > **Analogies:** for example (1)
 
-#### Types of Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980)
+#### [Types of Jira](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=0)** Different types of Jira include different abilities, different deployment methods, and even different user interfaces.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=0)** Different types of [[Jira]] include different abilities, different deployment methods, and even different user interfaces.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=7)** It's important to know which type you have so you can leverage the correct features, advice, and documentation.
 >
@@ -353,9 +347,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=46)** The next type is Jira Software.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=49)** It's designed for development teams using a scrum or Kanban methodology.
+> **[0:49](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=49)** It's designed for development teams using a [[Scrum]] or Kanban methodology.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=54)** Jira Software includes dev specific features like sprints, story points, backlogs, and integration with tools like Bamboo and Bitbucket.
+> **[0:54](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=54)** Jira Software includes dev specific features like sprints, story points, backlogs, and integration with tools like Bamboo and [[Bitbucket]].
 >
 > **[1:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=65)** The next type is Jira Service Management.
 >
@@ -369,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=100)** JSM has a simple request entry interface called the customer portal.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=105)** It also integrates with Confluence to display self-service help articles.
+> **[1:45](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=105)** It also integrates with [[Confluence]] to display self-service help articles.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-jira?u=76281980&t=110)** Finally, let's take a brief look at the newest application type, Jira Product Discovery.
 >
@@ -377,17 +371,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (13), management (6), product (3), teams (3), next (2)
+> **Frameworks & Libraries:** [[Jira]] (13), [[Scrum]] (1), [[Bitbucket]] (1), [[Confluence]] (1)
 > **Tools:** jira (13), bitbucket (1), confluence (1)
 > **Env Vars:** jsm (1)
 > **Analogies:** for example (1)
 
-#### Jira versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980)
+#### [Jira versions](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=0)** In addition to application types, there are Jira deployment types, as well.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=0)** In addition to application types, there are [[Jira]] deployment types, as well.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=5)** We talked about this briefly in the intro lesson.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=86)** Now don't make my mistake and waste time reading the wrong information.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=90)** Second, you can extend Jira's capabilities with apps from the Atlassian Marketplace.
+> **[1:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=90)** Second, you can extend Jira's capabilities with apps from the [[Atlassian]] Marketplace.
 >
 > **[1:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/jira-versions?u=76281980&t=95)** In the example, the apps available for all three hosting options, but that's not true for every app, however.
 >
@@ -437,21 +430,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), application (5), cloud (5), data (4), [[Atlassian]] (2)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (2)
 > **Tools:** jira (7)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1)
 > **Cross-References:** we talked about (1)
 > **Best Practices:** always make sure (1)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=0)** Now that you know about the different application and deployment types, let's discuss some important terms and definitions.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in Jira.
+> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=7)** An issue is an individual item in [[Jira]].
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=11)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
@@ -461,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=36)** A project is a collection of issues.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=39)** Now, the word "project" in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=39)** Now, the [[Microsoft Word|word]] "project" in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=45)** Think of a Jira project as a container for all your team's initiatives, tasks, and to-do items.
 >
@@ -469,7 +461,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=60)** There's generally one Jira project per department, system, team, or application.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=68)** For example, there might be a Jira project called Human Resources to track all the different things the HR team works on.
+> **[1:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=68)** For example, there might be a Jira project called [[Human Resources (HR)|Human Resources]] to track all the different things the HR team works on.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=75)** Each project has a long name and a short name.
 >
@@ -497,19 +489,19 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=128)** It's an easy way to see the status of many issues at the same time.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=132)** There are scrum boards for teams that plan in chunks of work called sprints.
+> **[2:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=132)** There are [[Scrum]] boards for teams that plan in chunks of work called sprints.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=137)** There are also Kanban boards for teams with less structured delivery schedules.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=142)** While scrum and Kanban are development terms, any team can benefit from viewing their work on a board.
 >
-> **[2:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=150)** A dashboard is a statistics-based view of issues from one or more projects.
+> **[2:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=150)** A dashboard is a [[Statistics]]-based view of issues from one or more projects.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=155)** A dashboard shows a lot of data at one time.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=158)** Dashboard show counts, trends, and charts.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=162)** There's a default system dashboard for everyone to share, and you can create custom dashboards, too.
+> **[2:42](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=162)** There's a default system dashboard for everyone to share, and you can create custom [[Dashboards]], too.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=168)** We'll discuss boards and dashboards again later in the course.
 >
@@ -527,17 +519,17 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=199)** Always be sure to refer to these terms by their real names.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=203)** It avoids confusion between users when reading documentation and when communicating with Atlassian support.
+> **[3:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=203)** It avoids confusion between users when reading documentation and when communicating with [[Atlassian]] support.
 >
 > **[3:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=210)** This course contains a lot of Jira specific terminology.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=214)** So I've made a glossary to help you with it, both for this course and when navigating the Atlassian ecosystem.
 >
-> **[3:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=221)** Download my handout from the exercise files area in LinkedIn learning.
+> **[3:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/important-terms-and-definitions?u=76281980&t=221)** Download my handout from the exercise files area in [[LinkedIn]] learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (14), hr (4), application (2), [[Scrum]] (2), teams (2)
+> **Frameworks & Libraries:** [[Jira]] (14), [[Scrum]] (2), [[Dashboards]] (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (14)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** jql (3)
@@ -550,12 +542,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Logging in
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980)
+#### [Logging in](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=0)** If your access account was created for you, log in with the credentials provided by your Jira administrator.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=0)** If your access account was created for you, log in with the credentials provided by your [[Jira]] administrator.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=6)** Sometimes users create their own accounts.
 >
@@ -563,7 +554,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=13)** Your username is your email address.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=16)** Depending on how your application is set up, you may also be able to log in with a Google or Microsoft account.
+> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=16)** Depending on how your application is set up, you may also be able to log in with a [[Google]] or [[Microsoft]] account.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/logging-in?u=76281980&t=23)** Ask your Jira administrator for specifics.
 >
@@ -575,20 +566,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), application (1), [[Google]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Tools:** jira (2)
 > **Prerequisites:** set up (1)
 
-#### Using key views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980)
+#### [Using key views](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=0)** The first page you see when you log in to Jira is configurable.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=0)** The first page you see when you log in to [[Jira]] is configurable.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=4)** To manage your default view, click your avatar icon in the top right and select "Personal Settings."
 >
-> **[0:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=10)** Then select either your work, projects directory, or dashboards from the your Jira home page setting.
+> **[0:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=10)** Then select either your work, projects directory, or [[Dashboards]] from the your Jira home page setting.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-key-views?u=76281980&t=18)** Don't forget to save your changes using the form submission button.
 >
@@ -644,26 +634,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Dashboards]] (4), data (2), next (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Dashboards]] (4)
 > **Tools:** jira (5)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 
-#### Accessing key features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980)
+#### [Accessing key features](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=0)** Let's talk about the main navigation bar so you can access key features.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=5)** No matter where you are in Jira, you'll always see the same menu at the top of the page.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=5)** No matter where you are in [[Jira]], you'll always see the same menu at the top of the page.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=10)** The first icon is the application navigator.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=14)** This icon looks like a grid.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=16)** Click this icon to view other Atlassian applications or internal tools.
+> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=16)** Click this icon to view other [[Atlassian]] applications or internal tools.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=21)** The next item is the logo image.
 >
@@ -691,7 +680,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=66)** Type any issue key to go straight to that issue's detail page.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=70)** Type any word or phrase to search through all the issues.
+> **[1:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=70)** Type any [[Microsoft Word|word]] or phrase to search through all the issues.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=74)** You can also type a project's long name.
 >
@@ -765,7 +754,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=216)** Under the toolbar are additional fields and information.
 >
-> **[3:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=220)** This issue has a description, an attachment, and a link to a Confluence page.
+> **[3:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=220)** This issue has a description, an attachment, and a link to a [[Confluence]] page.
 >
 > **[3:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/accessing-key-features?u=76281980&t=226)** At the very bottom of every issue is the activity area.
 >
@@ -873,7 +862,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (18), next (8), application (3), [[Atlassian]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Jira]] (18), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), [[Confluence]] (1)
 > **Tools:** jira (18), confluence (1)
 > **Env Vars:** cust (3), url (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -882,8 +871,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** be aware (1)
 
-#### Challenge: Finding key features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-finding-key-features?u=76281980)
+#### [Challenge: Finding key features](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-finding-key-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,8 +887,7 @@ created: 2026-05-02
 >
 > **CLI Commands:** find (4)
 
-#### Solution: Finding key features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-finding-key-features?u=76281980)
+#### [Solution: Finding key features](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-finding-key-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -924,7 +911,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 
@@ -933,12 +919,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Viewing the project list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980)
+#### [Viewing the project list](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=0)** Projects are containers for related Jira issues.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=0)** Projects are containers for related [[Jira]] issues.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=3)** They help organize work.
 >
@@ -956,7 +941,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=29)** There's generally a project for each department or team.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=33)** In the example, there's a Jira project for the human resources department and the legal department.
+> **[0:33](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=33)** In the example, there's a Jira project for the [[Human Resources (HR)|human resources]] department and the legal department.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/viewing-the-project-list?u=76281980&t=39)** You might have other projects for special use cases, as well.
 >
@@ -974,12 +959,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Human Resources (HR)|Human resources]] (1), management (1)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Human Resources (HR)|Human resources]] (1)
 > **Tools:** jira (6)
 > **UI Navigation:** click on (1)
 
-#### Types of projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980)
+#### [Types of projects](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=5)** Here are some examples.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=7)** Contracts is a business project from Jira Work Management.
+> **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=7)** Contracts is a business project from [[Jira]] Work Management.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=10)** Development is a software project from Jira Software.
 >
@@ -995,21 +979,21 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=26)** Business projects from Jira Work Management help business teams collaborate and manage their projects, processes, and tasks.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=34)** The Cloud version includes some exciting new features like lists, calendars, timelines, forms, and the project summary shown here.
+> **[0:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=34)** The Cloud version includes some exciting new features like lists, calendars, timelines, [[Forms]], and the project summary shown here.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=44)** This project type is great for business teams like marketing, human resources, legal, sales, and more.
+> **[0:44](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=44)** This project type is great for business teams like marketing, [[Human Resources (HR)|human resources]], legal, sales, and more.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=52)** Software projects from Jira Software help development teams track features, stories, bugs, tasks, and more.
+> **[0:52](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=52)** [[Software Projects]] from Jira Software help development teams track features, stories, bugs, tasks, and more.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=60)** It's designed for development teams and teams using a scrum or Kanban methodology.
+> **[1:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=60)** It's designed for development teams and teams using a [[Scrum]] or Kanban methodology.
 >
-> **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=66)** It includes dev specific features like sprints, story points, backlog, and integration with tools like Bamboo and Bitbucket.
+> **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=66)** It includes dev specific features like sprints, story points, backlog, and integration with tools like Bamboo and [[Bitbucket]].
 >
 > **[1:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=74)** Support type projects from Jira Service Management are designed for help and service teams.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=80)** This project type organizes requests into queues.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=84)** It has service-level agreements for meeting contractual deadlines and integrates with Confluence for knowledge-based capabilities.
+> **[1:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=84)** It has service-level agreements for meeting contractual deadlines and integrates with [[Confluence]] for knowledge-based capabilities.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/types-of-projects?u=76281980&t=92)** And finally, there's a project type for tracking ideas, discovery and delivery using Jira Product Discovery.
 >
@@ -1047,18 +1031,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (15), teams (7), management (6), product (5), business (4)
+> **Frameworks & Libraries:** [[Jira]] (15), [[Software Projects]] (2), [[Forms]] (1), [[Human Resources (HR)|Human resources]] (1), [[Scrum]] (1)
 > **Tools:** jira (15), bitbucket (1), confluence (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 
-#### Parts of a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980)
+#### [Parts of a project](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=0)** As discussed in the last section, what you can see or do in a Jira project depends on the project type.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=0)** As discussed in the last section, what you can see or do in a [[Jira]] project depends on the project type.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=6)** In this section, we'll take a little tour of some of the helpful features for each project type.
 >
@@ -1070,7 +1053,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=26)** It's at the top instead of on the left sidebar.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=29)** Some other unique features for this project type include the statistics shown on the Summary page, the List view where it's easy to filter and group issues.
+> **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=29)** Some other unique features for this project type include the [[Statistics]] shown on the Summary page, the List view where it's easy to filter and group issues.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=39)** The Calendar view where you can manipulate issue start and end dates and plan unscheduled issues.
 >
@@ -1084,7 +1067,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=63)** And any links created here are also shown on the regular issue screen.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=68)** The last feature I wanted to mention are forms.
+> **[1:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=68)** The last feature I wanted to mention are [[Forms]].
 >
 > **[1:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=72)** Forms provide an alternate way to collect information.
 >
@@ -1102,9 +1085,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=108)** A card is a visual representation of an issue.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=112)** The Jira has two types of boards; scrum and Kanban.
+> **[1:52](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=112)** The Jira has two types of boards; [[Scrum]] and Kanban.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=116)** But these terms are from the [[Agile Software Development]] methodology.
+> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=116)** But these terms are from the [[[[Agile Software Development]]]] methodology.
 >
 > **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=120)** Scrum boards are for teams that deliver their work in regular fixed intervals called sprints.
 >
@@ -1116,7 +1099,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=137)** Let's take a look.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=140)** In software projects, the navigation is on the left.
+> **[2:20](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=140)** In [[Software Projects]], the navigation is on the left.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=144)** If the project has a board, that's the view you're likely to see first.
 >
@@ -1244,7 +1227,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=476)** A component is a way to group similar issues.
 >
-> **[7:59](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=479)** For example, a project might have components like backend, front-end, or graphic design to group issues by the skills required, or there may be components like Argentina, Canada, India, Japan, and Spain to group issues by the team location.
+> **[7:59](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=479)** For example, a project might have components like backend, front-end, or [[Graphic Design]] to group issues by the skills required, or there may be components like Argentina, Canada, India, Japan, and Spain to group issues by the team location.
 >
 > **[8:17](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=497)** Components are created and managed by the project's administrator.
 >
@@ -1282,7 +1265,7 @@ created: 2026-05-02
 >
 > **[9:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=597)** The left side of the Releases page shows links to any related work and issues in the release.
 >
-> **[10:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=603)** In the example, I've linked to related Confluence page.
+> **[10:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=603)** In the example, I've linked to related [[Confluence]] page.
 >
 > **[10:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=607)** If additional dev tools are connected, you might see other information like an unrevealed code warning or a count of code commits, for example.
 >
@@ -1306,13 +1289,13 @@ created: 2026-05-02
 >
 > **[10:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=657)** Next, in the left sidebar is the On-call section.
 >
-> **[11:01](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=661)** If you have Atlassian's Opsgenie application, you can leverage on-call support schedules and incident management features.
+> **[11:01](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=661)** If you have [[Atlassian]]'s Opsgenie application, you can leverage on-call support schedules and incident management features.
 >
 > **[11:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=669)** The last area I wanted to mention is named Project pages.
 >
 > **[11:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=674)** If you have Atlassian's Confluence application, you can see and create content for that application right here.
 >
-> **[11:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=681)** For more information about using this project type with Confluence, Bitbucket, and other development tools, check out my [[Planning and Releasing Software with Jira]] course.
+> **[11:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=681)** For more information about using this project type with Confluence, [[Bitbucket]], and other development tools, check out my [[Planning and Releasing Software with Jira]] course.
 >
 > **[11:31](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/parts-of-a-project?u=76281980&t=691)** The next step on our project tour is an example Service Management project.
 >
@@ -1418,7 +1401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (18), next (12), management (6), [[Scrum]] (4), [[Confluence]] (4)
+> **Frameworks & Libraries:** [[Jira]] (18), [[Scrum]] (4), [[Confluence]] (4), [[Forms]] (2), [[Software Projects]] (2)
 > **Tools:** jira (18), confluence (4), bitbucket (1)
 > **Definitions:** is a  (7), is an  (3)
 > **UI Navigation:** click on (1), open the (1), select the (1), drag and drop (1), in the menu (1)
@@ -1427,12 +1410,11 @@ created: 2026-05-02
 > **Analogies:** for example (3), just like (1)
 > **Cross-References:** in the last (1), in the next (1), later in (1)
 
-#### Identifying project leads
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980)
+#### [Identifying project leads](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=0)** A Jira project may have multiple administrators, but there's only one owner or lead.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=0)** A [[Jira]] project may have multiple administrators, but there's only one owner or lead.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=6)** A lead is a project single point of contact.
 >
@@ -1448,7 +1430,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=32)** Contact this person for questions about the project and its use.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=37)** For Software projects, there's a Summary page, but there's no direct link to it.
+> **[0:37](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=37)** For [[Software Projects]], there's a Summary page, but there's no direct link to it.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=42)** Use the URL format shown to access this page.
 >
@@ -1458,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=53)** By default, a project's recent activity is shown.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=57)** Change the view to statistics to see stats like the number of unresolved issues by priority, assignee, or version.
+> **[0:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=57)** Change the view to [[Statistics]] to see stats like the number of unresolved issues by priority, assignee, or version.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/identifying-project-leads?u=76281980&t=66)** If you find this page useful like I do, ask your project admin to add a link to it from the project sidebar.
 >
@@ -1468,7 +1450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Jira]] (1), [[Software Projects]] (1), [[Statistics]] (1), product (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Software Projects]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** url (1)
 > **Tools:** jira (1)
@@ -1479,18 +1461,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980)
+#### [Creating issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=0)** The easiest way to create a new issue is by clicking the "Create" button in the main nav.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=5)** First, select the proper Jira project.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=5)** First, select the proper [[Jira]] project.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=8)** Type a project's long name, it's short name, or scroll down through the list.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=14)** For this example, I'll choose the Human Resources project.
+> **[0:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=14)** For this example, I'll choose the [[Human Resources (HR)|Human Resources]] project.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=18)** After you've selected a project, select the type of issue using the issue type dropdown menu.
 >
@@ -1534,19 +1515,18 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=114)** You'll also see additional create buttons on strategic Jira Project pages.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=120)** You can create issues by emailing a special address, create using third-party apps, or create from other applications like Confluence.
+> **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-issues?u=76281980&t=120)** You can create issues by emailing a special address, create using third-party apps, or create from other applications like [[Confluence]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), feature (1), [[Confluence]] (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Confluence]] (1)
 > **Tools:** jira (7), confluence (1)
 > **UI Navigation:** select the (2), scroll down (1), dropdown (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** csv (1)
 
-#### Editing issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980)
+#### [Editing issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1538,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980&t=11)** It's important to complete as many fields as possible and update fields as soon as information changes.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980&t=18)** Additional information often becomes available after an issue was created, so make sure to add it to Jira to support and clarify issue data.
+> **[0:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980&t=18)** Additional information often becomes available after an issue was created, so make sure to add it to [[Jira]] to support and clarify issue data.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/editing-issues?u=76281980&t=28)** Accurate information helps others find issues and generate reports.
 >
@@ -1566,13 +1546,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Jira]] (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Tools:** jira (1)
 > **Best Practices:** make sure to (1)
 
-#### Adding attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980)
+#### [Adding attachments](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1586,11 +1565,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=25)** For example, image attachments have thumbnail previews.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=29)** If you can't attach files or the file size exceeds the limit, contact your Jira administrator.
+> **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=29)** If you can't attach files or the file size exceeds the limit, contact your [[Jira]] administrator.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=35)** The size limit is configurable.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=38)** Another option, upload large files to another location like Confluence and simply link to the file.
+> **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=38)** Another option, upload large files to another location like [[Confluence]] and simply link to the file.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=45)** There are multiple ways to attach additional information to issues.
 >
@@ -1608,7 +1587,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=67)** Another attachment method, type the paste command to upload the contents of your clipboard.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=75)** You can also capture a screenshot using your computer's keyboard shortcut command. On a Windows or Linux machine, press the print screen button on the keyboard.
+> **[1:15](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=75)** You can also capture a screenshot using your computer's keyboard shortcut command. On a [[Windows]] or [[Linux]] machine, press the print screen button on the keyboard.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/adding-attachments?u=76281980&t=85)** On a Mac, press the Command+Shift+3 keys at the same time.
 >
@@ -1626,12 +1605,11 @@ created: 2026-05-02
 > **Tools:** jira (3), confluence (1)
 > **Analogies:** for example (1)
 
-#### Linking issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/linking-issues?u=76281980)
+#### [Linking issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/linking-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/linking-issues?u=76281980&t=0)** Did you know you can link any Jira issue to any other Jira issue?
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/linking-issues?u=76281980&t=0)** Did you know you can link any [[Jira]] issue to any other Jira issue?
 >
 > **[0:04](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/linking-issues?u=76281980&t=4)** It's really easy.
 >
@@ -1665,14 +1643,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), web (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **UI Navigation:** select the (1), in the toolbar (1)
 > **Env Vars:** url (1)
 > **Cross-References:** later in (1)
 
-#### Transitioning issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/transitioning-issues?u=76281980)
+#### [Transitioning issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/transitioning-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,11 +1687,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (1)
 > **Definitions:** is a  (1)
 
-#### Estimating effort
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980)
+#### [Estimating effort](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,7 +1711,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=40)** The goal is to provide your best guess and improve accuracy over time.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=46)** In Jira, estimates are used to determine how long an issue may take to complete and how many issues may be accomplished in a certain time frame.
+> **[0:46](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=46)** In [[Jira]], estimates are used to determine how long an issue may take to complete and how many issues may be accomplished in a certain time frame.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=55)** There are two types of estimation; time and story points.
 >
@@ -1748,11 +1723,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=77)** The other estimation method is story points.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=81)** This method is normally for Agile teams.
+> **[1:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=81)** This method is normally for [[Agile Development|Agile]] teams.
 >
 > **[1:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=84)** Story points are a relative measure of work signified by numbers.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=89)** Read Atlassian's explanation of estimation types at the URL shown.
+> **[1:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=89)** Read [[Atlassian]]'s explanation of estimation types at the URL shown.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=94)** Regardless of the estimation type used, there are many places to enter estimates.
 >
@@ -1762,7 +1737,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=110)** In this example, there's a transition screen to update estimate information.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=116)** If the project has a scrum board, you can also view and update estimates there.
+> **[1:56](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=116)** If the project has a [[Scrum]] board, you can also view and update estimates there.
 >
 > **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/estimating-effort?u=76281980&t=120)** This board uses the time estimation type.
 >
@@ -1774,12 +1749,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Jira]] (1), [[Agile Development|Agile]] (1), teams (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1), [[Agile Development|Agile]] (1), [[Atlassian]] (1), [[Scrum]] (1)
 > **Env Vars:** url (1)
 > **Tools:** jira (1)
 
-#### Tracking time
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980)
+#### [Tracking time](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1793,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=20)** If someone is constantly asking, "Is this done yet?"
 >
-> **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=23)** Try teaching them about the progress bars in Jira.
+> **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=23)** Try teaching them about the progress bars in [[Jira]].
 >
 > **[0:26](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=26)** If you're logging time, they can answer the question without bugging you.
 >
@@ -1833,13 +1807,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=113)** In this example, the time spent field is on the transition screen that also collects the resolution.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=120)** You can also log time from scrum and Kanban boards. On a board, click an issue to open it on the right, then click the ellipses icon on the top right, and choose Log work.
+> **[2:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=120)** You can also log time from [[Scrum]] and Kanban boards. On a board, click an issue to open it on the right, then click the ellipses icon on the top right, and choose Log work.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/tracking-time?u=76281980&t=131)** If you're not able to log time or edit your time logs, contact your Jira administrator.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), next (1), [[Scrum]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2), [[Scrum]] (1)
 > **Tools:** jira (2)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -1851,20 +1825,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ways to find Jira issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980)
+#### [Ways to find Jira issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=0)** There are multiple ways to find issues.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=3)** First, use the quick search feature at the top right of every Jira page.
+> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=3)** First, use the quick search feature at the top right of every [[Jira]] page.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=7)** If you know the issues ID, enter it in the search box.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=11)** In the example, I've entered HR-1. Jira shows that issue in the drop-down and a link to the HR project, as well.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=19)** If you know a word or phrase in the issue, enter that in the search box.
+> **[0:19](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=19)** If you know a [[Microsoft Word|word]] or phrase in the issue, enter that in the search box.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/ways-to-find-jira-issues?u=76281980&t=24)** Jira will find issues with that word in its summary, description, or comment fields.
 >
@@ -1878,16 +1851,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Jira]] (3), feature (2), hr (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Microsoft Word|Word]] (2)
 > **Tools:** jira (3)
 > **CLI Commands:** find (2)
 
-#### Using basic search
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980)
+#### [Using basic search](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=0)** In the last section, I showed how to enter an issue ID or phrase in Jira search bar.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=0)** In the last section, I showed how to enter an issue ID or phrase in [[Jira]] search bar.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=6)** But what if you don't know the issue ID or need to find multiple issues?
 >
@@ -1905,7 +1877,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=47)** Let's search for the HR issue titled Create Onboarding Checklist from our earlier example.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=53)** I'll check the box next to the Human Resources project.
+> **[0:53](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=53)** I'll check the box next to the [[Human Resources (HR)|Human Resources]] project.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=57)** Now that action alone filtered out thousands of issues not in the HR project.
 >
@@ -1915,7 +1887,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=75)** Now Jira will only return issues that are both in the HR project and assigned to me.
 >
-> **[1:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=81)** Finally, if you know a word or phrase contained in the issue, add it to the free text field.
+> **[1:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=81)** Finally, if you know a [[Microsoft Word|word]] or phrase contained in the issue, add it to the free text field.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-basic-search?u=76281980&t=87)** I know the summary of the issue is create onboarding checklist, so I'll add the word onboarding to the search.
 >
@@ -1931,32 +1903,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Jira]] (5), hr (4), next (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Microsoft Word|Word]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** find (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 
-#### Using advanced search and JQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980)
+#### [Using advanced search and JQL](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=0)** Before we check out the advanced search method, here are some terms to define.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=5)** A query is another word for a question.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=5)** A query is another [[Microsoft Word|word]] for a question.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=8)** Each time you use a search engine, you're querying the Internet for web pages.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=12)** When you search in Jira, you're querying the database for issues that match your specifications.
+> **[0:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=12)** When you search in [[Jira]], you're querying the database for issues that match your specifications.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=18)** In Jira, JQL means Jira Query Language, and it's the way to search through thousands of issues to find the few that you're looking for.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=27)** It's also the way to control which issues appear on a board and the data displayed on dashboards and in reports.
+> **[0:27](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=27)** It's also the way to control which issues appear on a board and the data displayed on [[Dashboards]] and in reports.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=35)** Now, JQL is for everyone, not just technical users.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=39)** If you've ever used SQL, you'll find JQL is similar.
+> **[0:39](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=39)** If you've ever used [[SQL]], you'll find JQL is similar.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-advanced-search-and-jql?u=76281980&t=43)** If you haven't used a query language before, it's okay.
 >
@@ -1986,14 +1957,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Jira]] (4), [[Microsoft Word|Word]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Microsoft Word|Word]] (1), [[Dashboards]] (1), [[SQL]] (1)
 > **Env Vars:** jql (6), sql (1)
 > **Tools:** jira (4)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 
-#### Sample queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980)
+#### [Sample queries](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2021,11 +1991,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=54)** There are many ways to search for bugs that are not yet fixed.
 >
-> **[0:59](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=59)** In this example, Jira returns all bugs in the open status and all bugs in the in progress status.
+> **[0:59](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=59)** In this example, [[Jira]] returns all bugs in the open status and all bugs in the in progress status.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=66)** Now, notice that the value In Progress is in quotes.
 >
-> **[1:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=69)** You must enclose all multi-word values in quotes like this.
+> **[1:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=69)** You must enclose all multi-[[Microsoft Word|word]] values in quotes like this.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/sample-queries?u=76281980&t=74)** When there are many AND clauses, the query becomes long.
 >
@@ -2073,15 +2043,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Jira]] (3), [[Microsoft Word|Word]] (2), hr (2), data (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Microsoft Word|Word]] (2)
 > **Tools:** jira (3)
 > **Env Vars:** jql (1), url (1)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (2)
 > **CLI Commands:** find (1)
 
-#### Challenge: Finding issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-finding-issues?u=76281980)
+#### [Challenge: Finding issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-finding-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2095,11 +2064,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), application (1)
 > **CLI Commands:** find (1)
 
-#### Solution: Finding issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-finding-issues?u=76281980)
+#### [Solution: Finding issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-finding-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), next (1)
 > **CLI Commands:** find (1)
 > **Definitions:** means that (1)
 
@@ -2148,12 +2114,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reporting methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980)
+#### [Reporting methods](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=0)** Jira's reporting capabilities are super powerful.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=0)** [[Jira]]'s reporting capabilities are super powerful.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=3)** There are many ways to view, present, and share issue data and progress.
 >
@@ -2173,7 +2138,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=37)** A board is a status-based view of issues.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=40)** A dashboard is a statistics-based view of issues.
+> **[0:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=40)** A dashboard is a [[Statistics]]-based view of issues.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/reporting-methods?u=76281980&t=43)** And finally, a gadget is used to display dynamic content on a Jira dashboard.
 >
@@ -2193,18 +2158,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Search]] (5), data (3), management (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Statistics]] (1)
 > **Tools:** jira (5)
 > **Definitions:** is a  (5)
 
-#### How to save and share filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980)
+#### [How to save and share filters](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980&t=0)** Let's construct a search query and save it as a filter so we can use it again.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980&t=5)** Use safe filters to access the same type of information quickly, to create lists, to power boards and dashboards, and to share results with others.
+> **[0:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980&t=5)** Use safe filters to access the same type of information quickly, to create lists, to power boards and [[Dashboards]], and to share results with others.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/how-to-save-and-share-filters?u=76281980&t=16)** The query in this example is project = dev and assignee = currentUser().
 >
@@ -2268,15 +2232,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), power (1), [[Dashboards]] (1), next (1), feature (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** currentuser (2)
 > **Env Vars:** jql (1), url (1)
 > **UI Navigation:** click on (1), select the (1)
 
-#### Creating filter subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-filter-subscriptions?u=76281980)
+#### [Creating filter subscriptions](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-filter-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,8 +2284,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1), checkbox (1)
 > **Definitions:** is a  (1)
 
-#### Creating boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980)
+#### [Creating boards](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2344,7 +2306,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980&t=38)** You can also create a board from scratch.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980&t=41)** Let's create a board to share with other users of the Dev Jira project.
+> **[0:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980&t=41)** Let's create a board to share with other users of the Dev [[Jira]] project.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-boards?u=76281980&t=45)** Start by clicking the "Create board" button at the top of the Boards page.
 >
@@ -2460,7 +2422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Search]] (2), [[Jira]] (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** select the (2), scroll down (2), click on (1)
 > **Env Vars:** dev (1), jql (1)
@@ -2469,14 +2431,13 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Prerequisites:** configure (1)
 
-#### Creating dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980)
+#### [Creating dashboards](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=0)** Dashboards are another way to view issue data.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=0)** [[Dashboards]] are another way to view issue data.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=3)** Boards are great for showing current status, but when you need statistics, use a dashboard.
+> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=3)** Boards are great for showing current status, but when you need [[Statistics]], use a dashboard.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=9)** Access the list by clicking "Dashboards" in the main nav and choosing "View all dashboards."
 >
@@ -2598,11 +2559,11 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=303)** I check it multiple times a day and it's really easy to spot new issues.
 >
-> **[5:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=307)** I prefer checking my dashboard to relying on Jira email notifications.
+> **[5:07](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/creating-dashboards?u=76281980&t=307)** I prefer checking my dashboard to relying on [[Jira]] email notifications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (8), [[Dashboards]] (7), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (8), [[Dashboards]] (7), [[Jira]] (1)
 > **UI Navigation:** select the (5), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1), configure (1)
@@ -2610,8 +2571,7 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Analogies:** just like (1)
 
-#### Using reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-reports?u=76281980)
+#### [Using reports](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/using-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2647,29 +2607,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (2), data (1)
 > **Env Vars:** jql (1), url (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 
-#### Exporting issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980)
+#### [Exporting issues](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=0)** There are many ways to export issue data, but before you do, make sure that Jira doesn't already do what you're trying to accomplish.
+> **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=0)** There are many ways to export issue data, but before you do, make sure that [[Jira]] doesn't already do what you're trying to accomplish.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=8)** Exported data is never as up to date as real-time Jira information.
+> **[0:08](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=8)** Exported data is never as up to date as [[Real-Time]] Jira information.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=12)** The best export method depends on the intended use.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=16)** To simply save the information in a different format, choose the printable, Microsoft Word, or HTML format.
+> **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=16)** To simply save the information in a different format, choose the printable, [[Microsoft Word]], or [[HTML]] format.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=23)** This works well for offline viewing or to create a personal poor man's secondary backup.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=30)** To manipulate the data, save it in a structured way, or import it into another Jira application.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=36)** Choose the Excel, Google Sheets, CSV, or XML format.
+> **[0:36](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=36)** Choose the [[Microsoft Excel|Excel]], [[Google]] Sheets, CSV, or XML format.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=41)** You can open CSV data as a spreadsheet to do your own analysis.
 >
@@ -2707,17 +2665,17 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=134)** I recommend using my defaults instead, which includes just the columns currently displayed.
 >
-> **[2:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=141)** If the built-in reporting features don't meet your needs, then explore third-party apps from the Atlassian Marketplace.
+> **[2:21](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=141)** If the built-in reporting features don't meet your needs, then explore third-party apps from the [[Atlassian]] Marketplace.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=148)** There are many add-ons specifically for reporting and some that add additional dashboard gadgets.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=154)** If you have programming skills, you can also create your own application that connects to the Jira REST API.
+> **[2:34](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=154)** If you have programming skills, you can also create your own application that connects to the Jira [[Representational State Transfer (REST)|REST]] API.
 >
 > **[2:40](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/exporting-issues?u=76281980&t=160)** There's endless reporting potential provided users are entering the needed information in Jira issues.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), data (6), application (3), [[HTML]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Jira]] (7), [[HTML]] (2), [[Real-Time]] (1), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** csv (3), html (2), xml (1), rss (1), rest (1)
 > **Tools:** jira (7)
 > **Warnings:** note that (1), be aware (1)
@@ -2725,8 +2683,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Using reporting features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-using-reporting-features?u=76281980)
+#### [Challenge: Using reporting features](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-using-reporting-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2744,12 +2701,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/challenge-using-reporting-features?u=76281980&t=28)** Get started from the Search page.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** [[Search]] (2), power (1)
-
-#### Solution: Using reporting features
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-using-reporting-features?u=76281980)
+#### [Solution: Using reporting features](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/solution-using-reporting-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2771,7 +2723,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), next (2)
 > **UI Navigation:** select the (1)
 
 
@@ -2779,14 +2730,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Changing user preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980)
+#### [Changing user preferences](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=0)** Let's talk about your personal profile settings.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=3)** To access them, click your avatar icon at the top right of any Jira screen and click the profile option.
+> **[0:03](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=3)** To access them, click your avatar icon at the top right of any [[Jira]] screen and click the profile option.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=10)** This is a sample profile summary page.
 >
@@ -2798,7 +2748,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=27)** On the right, is a list of issues and areas you worked last.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=31)** If you click the "Manage account" button, you'll leave Jira and visit id.[atlassian.com](https://atlassian.com).
+> **[0:31](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=31)** If you click the "Manage account" button, you'll leave Jira and visit id.[[[Atlassian]].com](https://atlassian.com).
 >
 > **[0:38](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=38)** From that website, you can access your overall Atlassian account settings.
 >
@@ -2810,7 +2760,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=65)** I always uncheck the setting to receive notifications when I make changes to an issue.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=71)** You can choose to receive emails in HTML or text format.
+> **[1:11](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=71)** You can choose to receive emails in [[HTML]] or text format.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/changing-user-preferences?u=76281980&t=76)** I recommend HTML as it will show you what changed.
 >
@@ -2820,7 +2770,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (3), [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (3), [[HTML]] (2)
 > **Tools:** jira (4)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (2)
@@ -2834,8 +2784,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980)
+#### [Additional resources for Jira learning](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2843,13 +2792,13 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=2)** You performed many of the tasks expected of a new user and are well on your way towards a strong foundation.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=9)** You should now be able to determine which type of Jira you have and how it's used.
+> **[0:09](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=9)** You should now be able to determine which type of [[Jira]] you have and how it's used.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=13)** Navigate to the most used areas.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=16)** Work with Jira projects and issues by creating, editing, searching, and transitioning.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=22)** Create custom views like filters, dashboards, and boards and change user preferences.
+> **[0:22](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=22)** Create custom views like filters, [[Dashboards]], and boards and change user preferences.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=29)** You have homework.
 >
@@ -2881,7 +2830,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=95)** Users and business team members should read my 9 Tips for Getting Action in Jira article for ways to get issues moving forward.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=103)** Also, check out my other Jira and Confluence courses for users and admins right here on LinkedIn.
+> **[1:43](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=103)** Also, check out my other Jira and [[Confluence]] courses for users and admins right here on [[LinkedIn]].
 >
 > **[1:51](https://www.linkedin.com/learning/learning-jira-cloud-edition-19890900/additional-resources-for-jira-learning?u=76281980&t=111)** If you're a Jira administrator, read my 9 Ways to Learn Jira Administration article.
 >
@@ -2897,7 +2846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (16), next (2), [[LinkedIn]] (2), [[Dashboards]] (1), business (1)
+> **Frameworks & Libraries:** [[Jira]] (16), [[LinkedIn]] (2), [[Dashboards]] (1), [[Confluence]] (1)
 > **Tools:** jira (16), confluence (1)
 > **Env Vars:** url (2)
 > **UI Navigation:** navigate to (1), click on (1)

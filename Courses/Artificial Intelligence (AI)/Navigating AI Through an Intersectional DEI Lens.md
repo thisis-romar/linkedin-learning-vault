@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and its impact on diversity, equity, and inclusion (DEI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980)
+#### [AI and its impact on diversity, equity, and inclusion (DEI)](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980&t=0)** - While artificial intelligence is becoming more prevalent, it can perpetuate and amplify biases that exist in our society leading to harmful outcomes.
+> **[0:00](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980&t=0)** - While [[Artificial Intelligence (AI)|artificial intelligence]] is becoming more prevalent, it can perpetuate and amplify biases that exist in our society leading to harmful outcomes.
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ai-and-its-impact-on-dei?u=76281980&t=10)** Perhaps you find value in the power of AI or you care about others' experiences and want to show up as a responsible leader.
 >
@@ -94,13 +93,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dei (1)
 > **Speakers:** - while (1)
 
-#### The vital link between DEI and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980)
+#### [The vital link between DEI and AI](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,13 +120,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=66)** It might not do it on purpose, but it can make unfairness even more unfair.
 >
-> **[1:12](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=72)** Ensuring AI is designed with fairness, accountability, and inclusivity in mind minimizes the risk of perpetuating biases and inequities.
+> **[1:12](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=72)** Ensuring AI is designed with fairness, [[Accountability]], and inclusivity in mind minimizes the risk of perpetuating biases and inequities.
 >
-> **[1:23](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=83)** The real world benefit of this practice is the creation of AI solutions that better align with diverse human needs, promote equitable outcomes, and contribute to a more just and inclusive society.
+> **[1:23](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=83)** The real world benefit of this practice is the creation of [[AI Solutions]] that better align with diverse human needs, promote equitable outcomes, and contribute to a more just and inclusive society.
 >
 > **[1:37](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=97)** So let's just get down to the details.
 >
-> **[1:40](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=100)** We must conscientiously address the importance of responsible AI usage and bias mitigation with a focus on using an intersectional DEI lens.
+> **[1:40](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=100)** We must conscientiously address the importance of [[Responsible AI]] usage and bias mitigation with a focus on using an intersectional DEI lens.
 >
 > **[1:52](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=112)** This steers us toward the creation of fair and more ethical AI systems.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=138)** Be mindful that this course assumes that you have foundational knowledge of DEI and AI concepts.
 >
-> **[2:24](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=144)** If you need a deeper dive into these topics, I encourage you to download your handout and explore my recommended LinkedIn learning courses to consider before completing this course.
+> **[2:24](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=144)** If you need a deeper dive into these topics, I encourage you to download your handout and explore my recommended [[LinkedIn]] learning courses to consider before completing this course.
 >
 > **[2:36](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-vital-link-between-dei-and-ai?u=76281980&t=156)** All systems learn from vast amounts of data.
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (29), data (8), [[Accountability]] (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[AI Solutions]] (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dei (6)
 > **CLI Commands:** make (3)
 > **Analogies:** imagine (2)
@@ -202,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating intersectionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980)
+#### [Navigating intersectionality](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980&t=37)** Today, we'll embark on a journey to explore this profound concept and its significance in our diverse world.
 >
-> **[0:45](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980&t=45)** Understanding intersectionality empowers you to develop a more nuanced understanding of diversity and inequities, which is crucial for creating and selecting inclusive AI solutions that address the diverse needs and experiences of individuals from various backgrounds.
+> **[0:45](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980&t=45)** Understanding intersectionality empowers you to develop a more nuanced understanding of diversity and inequities, which is crucial for creating and selecting inclusive [[AI Solutions]] that address the diverse needs and experiences of individuals from various backgrounds.
 >
 > **[1:02](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/navigating-intersectionality?u=76281980&t=62)** Let's get into this further.
 >
@@ -271,14 +268,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), power (3)
+> **Frameworks & Libraries:** [[AI Solutions]] (1)
 > **Definitions:** is a  (2), refers to (2), is called (1)
 > **Analogies:** imagine (1), such as (1), for example (1)
 > **Env Vars:** dei (1), lgbtq (1)
 > **Speakers:** - throughout (1)
 
-#### Unveiling the tangle: Intersecting bias in AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980)
+#### [Unveiling the tangle: Intersecting bias in AI systems](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,13 +284,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=15)** Just as a maze has many paths, biases can intersect, resulting in unintended and harmful consequences.
 >
-> **[0:22](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=22)** Let's delve into the intricate web of bias intersection within AI systems, and understand how different forms of bias can combine and compound, affecting technology's fairness and reliability.
+> **[0:22](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=22)** Let's delve into the intricate web of bias intersection within AI systems, and understand how different [[Forms]] of bias can combine and compound, affecting technology's fairness and reliability.
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=36)** Bias intersection is the phenomenon where multiple forms of bias present in AI systems converge, potentially leading to amplify discriminatory outcomes.
 >
 > **[0:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=47)** This occurs when different types of bias within AI systems interact, magnifying their impact.
 >
-> **[0:53](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=53)** Consider a speech recognition system consistently misunderstanding female-sounding voices and non-native English accents.
+> **[0:53](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=53)** Consider a [[Speech Recognition]] system consistently misunderstanding female-sounding voices and non-native English accents.
 >
 > **[1:01](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=61)** This reveals the intersection of gender and racial bias disproportionately affecting women of color.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=108)** When racial bias combines with socioeconomic bias, the amplification effect intensifies that disparity.
 >
-> **[1:55](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=115)** To counter this, builders must identify these intersections and reevaluate training data and algorithms.
+> **[1:55](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=115)** To counter this, builders must identify these intersections and reevaluate training data and [[Algorithms]].
 >
 > **[2:02](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/unveiling-the-tangle-intersecting-bias-in-ai-systems?u=76281980&t=122)** Finally, addressing bias intersection requires a comprehensive approach that considers all intersecting dimensions.
 >
@@ -340,12 +336,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Forms]] (2), data (2), [[Algorithms]] (2), web (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Algorithms]] (2), [[Speech Recognition]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **Speakers:** - imagine (1)
 
-#### The impact of intersectionality on AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980)
+#### [The impact of intersectionality on AI development](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980&t=96)** Considering intersectionality and AI design also ensures technology accommodates diverse user needs.
 >
-> **[1:44](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980&t=104)** Inclusive design involves developing products and systems that consider the diverse needs of various user groups.
+> **[1:44](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980&t=104)** Inclusive design involves developing [[Microsoft Products|products]] and systems that consider the diverse needs of various user groups.
 >
 > **[1:52](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-intersectionality-on-ai-development?u=76281980&t=112)** And AI power navigation app might work perfectly for those who see well, but exclude those with visual impairments.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
@@ -410,8 +405,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethics and values in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980)
+#### [Ethics and values in AI development](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +415,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=16)** A bit unnerving, huh?
 >
-> **[0:18](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=18)** Ethics and values guide AI development toward responsible and meaningful outcomes, just as a compass guides the ship through treacherous waters.
+> **[0:18](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=18)** [[Ethics]] and values guide AI development toward responsible and meaningful outcomes, just as a compass guides the ship through treacherous waters.
 >
 > **[0:28](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=28)** Join me as we embark on a journey to explore the critical role of ethics and values in shaping the future of AI.
 >
@@ -465,20 +459,19 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=167)** Remember that every decision made in AI development carries ethical implications.
 >
-> **[2:53](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=173)** So embrace the responsibility of weaving values like fairness, empathy, and accountability into the fabric of AI systems.
+> **[2:53](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=173)** So embrace the responsibility of weaving values like fairness, empathy, and [[Accountability]] into the fabric of AI systems.
 >
 > **[3:03](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/ethics-and-values-in-ai-development?u=76281980&t=183)** By doing so, you contribute to a future where technology enhances lives without compromising our shared ethical standards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Ethics]] (7), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (7), [[Accountability]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - we (1)
 
-#### Best practices for integrating DEI in AI development
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980)
+#### [Best practices for integrating DEI in AI development](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,17 +495,17 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=87)** An AI voice assistant that struggles to understand various accents demonstrates the importance of diverse teams.
 >
-> **[1:35](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=95)** By involving linguists, engineers and users from different backgrounds, developers can create speech recognition models that cater to the richness of accents around the world.
+> **[1:35](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=95)** By involving linguists, engineers and users from different backgrounds, developers can create [[Speech Recognition]] models that cater to the richness of accents around the world.
 >
-> **[1:46](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=106)** Ethical data collection and use are paramount to avoiding the perpetuation of biases.
+> **[1:46](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=106)** Ethical [[Data Collection]] and use are paramount to avoiding the perpetuation of biases.
 >
 > **[1:52](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=112)** Ethical data usage involves, collecting data responsibly, ensuring its representative, and addressing potential biases.
 >
 > **[2:03](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=123)** A hiring AI system trained on bias historical data may unintentionally favor candidates from specific educational backgrounds.
 >
-> **[2:11](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=131)** To address this, developers can strive to incorporate diverse and representative data, refine algorithms, and actively work to mitigate biases in the system to ensure a fair and equitable hiring process for individuals from various educational institutions.
+> **[2:11](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=131)** To address this, developers can strive to incorporate diverse and representative data, refine [[Algorithms]], and actively work to mitigate biases in the system to ensure a fair and equitable hiring process for individuals from various educational institutions.
 >
-> **[2:30](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=150)** Frequent audits and accountability measures are necessary to ensure that AI systems remain fair and unbiased over time.
+> **[2:30](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=150)** Frequent audits and [[Accountability]] measures are necessary to ensure that AI systems remain fair and unbiased over time.
 >
 > **[2:40](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=160)** Auditing involves regularly assessing AI systems for biases and fairness.
 >
@@ -562,11 +555,11 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=295)** And number four, education and training.
 >
-> **[4:59](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=299)** AI ethics training.
+> **[4:59](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=299)** AI [[Ethics]] training.
 >
 > **[5:01](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=301)** Provide training and awareness programs for employees and users about AI ethics, bias and inclusivity.
 >
-> **[5:08](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=308)** Responsible AI culture.
+> **[5:08](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=308)** [[Responsible AI]] culture.
 >
 > **[5:11](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/best-practices-for-integrating-dei-in-ai-development?u=76281980&t=311)** Foster a culture within the organization that values responsible and ethical AI practices.
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (23), data (12), teams (6), [[Accountability]] (3), [[Ethics]] (2)
+> **Frameworks & Libraries:** [[Accountability]] (3), [[Data Collection]] (2), [[Ethics]] (2), [[Speech Recognition]] (1), [[Algorithms]] (1)
 > **Env Vars:** dei (7)
 > **UI Navigation:** checkbox (1)
 > **Definitions:** is a  (1)
@@ -592,8 +585,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact of data bias on AI outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-data-bias-on-ai-outcomes?u=76281980)
+#### [The impact of data bias on AI outcomes](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/the-impact-of-data-bias-on-ai-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,14 +633,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (15)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), refers to (1)
 > **Speakers:** - imagine (1)
 
-#### Mitigating bias in AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980)
+#### [Mitigating bias in AI systems](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +656,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=47)** Bias mitigation involves identifying and reducing bias within AI systems to ensure their decisions are fair and just.
 >
-> **[0:56](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=56)** Mitigating bias in AI, especially in decision-making, is essential to prevent discriminatory outcomes and uphold ethical standards.
+> **[0:56](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=56)** Mitigating bias in AI, especially in [[Decision-Making]], is essential to prevent discriminatory outcomes and uphold ethical standards.
 >
 > **[1:05](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=65)** Picture an AI system used in college admissions that consistently favors applicants from certain geographical locations, leading to educational disparities.
 >
@@ -696,7 +686,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=189)** An AI language translation tool that inaccurately translates certain languages or dialects, particularly those spoken by minority communities due to biased training data, can lead to miscommunications.
 >
-> **[3:23](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=203)** Programmers can tackle this issue by incorporating diverse linguistic data sets, refining translation algorithms, and actively working to ensure accurate and culturally sensitive translations for all language users.
+> **[3:23](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=203)** Programmers can tackle this issue by incorporating diverse linguistic data sets, refining translation [[Algorithms]], and actively working to ensure accurate and culturally sensitive translations for all language users.
 >
 > **[3:38](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/mitigating-bias-in-ai-systems?u=76281980&t=218)** Mitigating bias in AI decision-making is a continuous effort that requires vigilance and commitment.
 >
@@ -706,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (12), [[Decision-Making]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (4), [[Algorithms]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** imagine (2), picture (1)
 > **Definitions:** is a  (1)
@@ -717,8 +707,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsibility in future AI development and use
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980)
+#### [Responsibility in future AI development and use](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -736,9 +725,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=42)** Responsibility requires developers to program AI systems that prioritize human safety above all else, minimizing the risk of accidents and safeguarding lives.
 >
-> **[0:55](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=55)** Responsible AI use also involves considering the broader implications of technology on society and individuals.
+> **[0:55](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=55)** [[Responsible AI]] use also involves considering the broader implications of technology on society and individuals.
 >
-> **[1:03](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=63)** Ethical considerations involve evaluating the potential impact of AI on privacy, security, and social equity.
+> **[1:03](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=63)** Ethical considerations involve evaluating the potential impact of AI on [[Privacy]], security, and social equity.
 >
 > **[1:12](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=72)** Educating yourself about AI bias is crucial to ensure responsible AI development and use.
 >
@@ -750,7 +739,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=103)** Two, engage with online communities.
 >
-> **[1:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=107)** Join online forums and communities dedicated to AI ethics, such as AI Ethics, AI for Good, or AI and Fairness.
+> **[1:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=107)** Join online forums and communities dedicated to AI [[Ethics]], such as AI Ethics, AI for Good, or AI and Fairness.
 >
 > **[1:58](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=118)** Three, practice ethical AI development.
 >
@@ -758,7 +747,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=136)** And for organizations, one, provide training and workshops.
 >
-> **[2:21](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=141)** Offer training sessions and workshops on AI ethics, bias mitigation, and fairness to employees involved in AI development and decision-making.
+> **[2:21](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=141)** Offer training sessions and workshops on AI ethics, bias mitigation, and fairness to employees involved in AI development and [[Decision-Making]].
 >
 > **[2:31](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/responsibility-in-future-ai-development-and-use?u=76281980&t=151)** Two, establish ethical guidelines.
 >
@@ -786,13 +775,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (27), [[Responsible AI]] (3), [[Ethics]] (3), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Ethics]] (3), [[Privacy]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - congratulations (1)
 
-#### Incorporating a DEI lens in AI development and use
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980)
+#### [Incorporating a DEI lens in AI development and use](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,7 +794,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=43)** A DEI lens entails considering the impact of AI on diverse users, addressing biases, and ensuring equitable outcomes.
 >
-> **[0:54](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=54)** Imagine a speech recognition AI that understands some accents, but struggles with others.
+> **[0:54](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=54)** Imagine a [[Speech Recognition]] AI that understands some accents, but struggles with others.
 >
 > **[1:00](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=60)** Incorporating a DEI lens requires developers to refine the system, to recognize a wide range of accents, ensuring equal accessibility for all users.
 >
@@ -816,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=91)** When developing a medical diagnosis AI, incorporating a DEI lens means involving medical experts from different backgrounds to ensure that diagnostic accuracy is not compromised for any specific group of patients.
 >
-> **[1:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=107)** Equitable data collection is essential to train AI systems on diverse and representative data sets.
+> **[1:47](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=107)** Equitable [[Data Collection]] is essential to train AI systems on diverse and representative data sets.
 >
 > **[1:53](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/incorporating-a-dei-lens-in-ai-development-and-use?u=76281980&t=113)** Equitable data collection evolves ensuring that the data used to train AI systems reflects the diverse demographics of the user base.
 >
@@ -838,7 +826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), data (5), power (2), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Speech Recognition]] (1)
 > **Env Vars:** dei (7)
 > **Analogies:** imagine (2)
 > **Speakers:** - imagine (1)
@@ -848,8 +836,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling the future you want to see
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980)
+#### [Modeling the future you want to see](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -861,11 +848,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=22)** Remember that AI is constantly evolving, which means staying on top of the latest trends and practices will be essential for you.
 >
-> **[0:30](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=30)** The real world benefit of this are leading and participating in responsible AI initiatives, influencing the development and implementation of AI systems that align with human values, promoting belonging and inclusion, and positively impacting society by fostering a more equitable and trustworthy AI landscape.
+> **[0:30](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=30)** The real world benefit of this are leading and participating in [[Responsible AI]] initiatives, influencing the development and implementation of AI systems that align with human values, promoting belonging and inclusion, and positively impacting society by fostering a more equitable and trustworthy AI landscape.
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=50)** In the words of the late Maya Angelou, "When we know better, we do better."
 >
-> **[0:54](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=54)** With that spirit, lean into the actions, tools, and handouts I've provided you to continue your learning journey, and be sure to follow me on LinkedIn to stay connected to more content similar to what was found in this course.
+> **[0:54](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=54)** With that spirit, lean into the actions, tools, and handouts I've provided you to continue your learning journey, and be sure to follow me on [[LinkedIn]] to stay connected to more content similar to what was found in this course.
 >
 > **[1:08](https://www.linkedin.com/learning/navigating-ai-through-an-intersectional-dei-lens/modeling-the-future-you-want-to-see?u=76281980&t=68)** Don't get weary in well-doing.
 >
@@ -873,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), power (1), [[Responsible AI]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - congratulations (1)

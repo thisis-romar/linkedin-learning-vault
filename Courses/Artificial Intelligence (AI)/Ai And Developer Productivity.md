@@ -92,8 +92,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and developer productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980)
+#### [AI and developer productivity](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980&t=20)** That's when being strategic about the work you do may be quite advantageous.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980&t=25)** In this course, I'll show you how AI can speed up software development and simplify issue resolution.
+> **[0:25](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980&t=25)** In this course, I'll show you how AI can speed up [[Software Development]] and simplify issue resolution.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-and-developer-productivity?u=76281980&t=33)** My name is Temidayo Adefioye.
 >
@@ -117,23 +116,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), ai (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Speakers:** - [temidayo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we dive into this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=4)** First off, you should have a basic understanding of software development.
+> **[0:04](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=4)** First off, you should have a basic understanding of [[Software Development]].
 >
 > **[0:09](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=9)** This will help you grasp the concepts more effectively.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=13)** Secondly, throughout the course, I'll be using some prompts to enhance the learning experience.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=20)** Don't worry if you're new to this, I have everything created on my public Git repository.
+> **[0:20](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=20)** Don't worry if you're new to this, I have everything created on my public [[Git]] repository.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-and-developer-productivity/what-you-should-know?u=76281980&t=26)** You can access all the resources you need through the link provided.
 
@@ -143,8 +141,7 @@ created: 2026-05-02
 > **CLI Commands:** git (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the role of AI in software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980)
+#### [Understanding the role of AI in software development](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=18)** If you think about it, automation has transformed the entire sector, giving us the opportunity to speak to our loved ones in a split second.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=29)** Fast forward to today, we are on the brink of something huge, the artificial intelligence era in software development.
+> **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=29)** Fast forward to today, we are on the brink of something huge, the [[Artificial Intelligence (AI)|artificial intelligence]] era in [[Software Development]].
 >
 > **[0:38](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=38)** When it comes to making software, it's all about being efficient, making sure it's top-notch, and getting it done fast.
 >
@@ -186,18 +183,17 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=125)** It's not here to steal our jobs.
 >
-> **[2:09](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=129)** Rest assured that AI is going to collaborate with us, making sure we keep up the efficiency, quality, and speed needed to get our software to the market.
+> **[2:09](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=129)** [[Representational State Transfer (REST)|Rest]] assured that AI is going to collaborate with us, making sure we keep up the efficiency, quality, and speed needed to get our software to the market.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-the-role-of-ai-in-software-development?u=76281980&t=140)** So going forward, let's think of AI technology as a tool that could expand our abilities, enable us to be innovative engineers, and develop software that blows the minds of users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Software Development]] (3), [[Automation]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Software Development]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Amplifying developer creativity: The AI advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980)
+#### [Amplifying developer creativity: The AI advantage](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980&t=7)** Some friends and mentees felt the same way.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980&t=11)** The ability of generative AI to render images, videos, words, and programming code appeared to be a serious strength to many people.
+> **[0:11](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980&t=11)** The ability of [[Generative AI]] to render images, videos, words, and programming code appeared to be a serious strength to many people.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-and-developer-productivity/amplifying-developer-creativity-the-ai-advantage?u=76281980&t=23)** What if this is in the end of the human workforce, but a chance for us developers to develop our creativity?
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Generative AI]] (1), [[Programming]] (1), functional (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** gpt (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - when (1)
@@ -271,8 +267,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to GPT technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980)
+#### [Introduction to GPT technology](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=25)** Back in the days when AI models were getting their start, we literally fed them lots of data, short pictures, gave them all the key details.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=37)** It was called supervised learning, where humans did the heavy lifting labeling data for the machines to learn.
+> **[0:37](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=37)** It was called [[Supervised Learning]], where humans did the heavy lifting labeling data for the machines to learn.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=45)** Just imagine the amount of work that goes into teaching the kid with lots of pictures and words, but then things got even cooler.
 >
@@ -328,13 +323,13 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=147)** Chat GPT is making an impact and millions of people are using it for everything, regardless of their job.
 >
-> **[2:36](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=156)** So ChatGPT is extremely versatile.
+> **[2:36](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=156)** So [[ChatGPT]] is extremely versatile.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=160)** When you give it a task, it takes it head on.
 >
 > **[2:43](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=163)** It could be a songwriter, a software developer, a content creator, or even a marketing expert.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=169)** People from all walks of life use ChatGPT, from writers creating their next masterpiece to developers debugging code errors.
+> **[2:49](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=169)** People from all walks of life use ChatGPT, from writers creating their next masterpiece to developers [[Debugging Code]] errors.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=178)** It's like having a handy tool for whatever you need.
 >
@@ -344,7 +339,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=194)** People wonder if this is a major security concern.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=198)** Well, the companies behind Major GPT platforms such as Open AI, Microsoft, and others are not taken safety lightly.
+> **[3:18](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=198)** Well, the companies behind Major GPT platforms such as Open AI, [[Microsoft]], and others are not taken safety lightly.
 >
 > **[3:27](https://www.linkedin.com/learning/ai-and-developer-productivity/introduction-to-gpt-technology?u=76281980&t=207)** They have worked really hard to ensure that it's safe for everyone.
 >
@@ -354,20 +349,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (3), [[ChatGPT]] (2), [[Supervised Learning]] (1), power (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Supervised Learning]] (1), [[Debugging Code]] (1), [[Microsoft]] (1)
 > **Env Vars:** gpt (12)
 > **Analogies:** imagine (2), it's like (2), think of it as (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How GPT works
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980)
+#### [How GPT works](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=0)** - [Narrator] ChatGPT has had an incredible two year journey, beginning with the introduction of GPT-1 in 2018.
+> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=0)** - [Narrator] [[ChatGPT]] has had an incredible two year journey, beginning with the introduction of GPT-1 in 2018.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=9)** Since then, it has evolved to produce the most recent GPT-4.
+> **[0:09](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=9)** Since then, it has evolved to produce the most recent [[GPT-4]].
 >
 > **[0:14](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=14)** Let's revisit GPT-1 and -2 for a moment.
 >
@@ -391,13 +385,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=74)** Learn, learn, and learn.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=77)** We call it deep learning, which refers to how AI tools such as GPT gain intelligence.
+> **[1:17](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=77)** We call it [[Deep Learning]], which refers to how AI tools such as GPT gain intelligence.
 >
 > **[1:25](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=85)** It's interesting to know that GPT does not read text, like humans do.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=91)** It's not like, "Oh, this is a word and this is another word."
+> **[1:31](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=91)** It's not like, "Oh, this is a [[Microsoft Word|word]] and this is another word."
 >
-> **[1:36](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=96)** No. It breaks it down into chunks known as tokens.
+> **[1:36](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=96)** No. It breaks it down into chunks known as [[Tokens]].
 >
 > **[1:40](https://www.linkedin.com/learning/ai-and-developer-productivity/how-gpt-works?u=76281980&t=100)** One word may be one token, but if it's a long text, it can be much more.
 >
@@ -429,18 +423,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), data (3), [[GPT-4]] (2), ai (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[GPT-4]] (2), [[Tokens]] (2), [[ChatGPT]] (1), [[Deep Learning]] (1)
 > **Env Vars:** gpt (19)
 > **Definitions:** known as (2), refers to (1), is a  (1)
 > **Analogies:** such as (1), it's like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prompt engineering strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/prompt-engineering-strategies?u=76281980)
+#### [Prompt engineering strategies](https://www.linkedin.com/learning/ai-and-developer-productivity/prompt-engineering-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/prompt-engineering-strategies?u=76281980&t=0)** - [Instructor] ChatGPT is not a mind reader.
+> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/prompt-engineering-strategies?u=76281980&t=0)** - [Instructor] [[ChatGPT]] is not a mind reader.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-and-developer-productivity/prompt-engineering-strategies?u=76281980&t=3)** Instead, it relies on your input, also known as prompts.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), prompt (8), next (2), database (2), data (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (14)
 > **Env Vars:** rise (2), rtf (2), care (1), tag (1)
 > **Analogies:** picture (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -540,8 +533,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practical use cases of GPT in software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980)
+#### [Practical use cases of GPT in software development](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=15)** GPT is not just great at writing code, it's a whole suite every software engineer must have.
 >
-> **[0:21](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=21)** Beyond just generating lines of code, GPT has this capability that completely changes your whole software development experience.
+> **[0:21](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=21)** Beyond just generating lines of code, GPT has this capability that completely changes your whole [[Software Development]] experience.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=31)** Let's talk about debugging.
 >
@@ -571,7 +563,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=60)** With the help of GPT, you can turn your thoughts into clear, user-friendly documentation.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=68)** Another great use case is code review.
+> **[1:08](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=68)** Another great use case is [[Code Review]].
 >
 > **[1:11](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=71)** GPT steps in as your second pair of eyes, giving your code the once over and highlighting potential issues.
 >
@@ -585,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=107)** We have all been in situations where we wanted to quickly prepare for an urgent interview with a tech recruiter.
 >
-> **[1:54](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=114)** In this scenario, GPT plays the role of your career coach, helping you brush up on those tricky algorithms and coding tasks.
+> **[1:54](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=114)** In this scenario, GPT plays the role of your career coach, helping you brush up on those tricky [[Algorithms]] and coding tasks.
 >
 > **[2:05](https://www.linkedin.com/learning/ai-and-developer-productivity/practical-use-cases-of-gpt-in-software-development?u=76281980&t=125)** All right, we have only begun to explore all of the amazing ways that GPT is improving how we write and deliver software.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Debugging]] (1), [[Code Review]] (1), [[Automation]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Code Review]] (1), [[Algorithms]] (1)
 > **Env Vars:** gpt (11)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
@@ -608,12 +600,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A disclaimer before we begin
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980)
+#### [A disclaimer before we begin](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=0)** - [Presenter] Generative AI is fantastic, no doubt, but there are some constraints to depending on AI for building software end to end.
+> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=0)** - [Presenter] [[Generative AI]] is fantastic, no doubt, but there are some constraints to depending on AI for building software end to end.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=9)** First things first, AI learns from what it sees.
 >
@@ -627,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=47)** As for AI, not so much.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=51)** Now let's discuss the importance of humans in software development.
+> **[0:51](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=51)** Now let's discuss the importance of humans in [[Software Development]].
 >
 > **[0:56](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=56)** There is a level of human creativity that AI may struggle to match at this time.
 >
@@ -639,7 +630,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=86)** It cannot handle edge cases or sudden changes in requirements as effectively as we can.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=95)** Let's not forget about big, important issues like ethics, privacy, and security.
+> **[1:35](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=95)** Let's not forget about big, important issues like [[Ethics]], [[Privacy]], and security.
 >
 > **[1:42](https://www.linkedin.com/learning/ai-and-developer-productivity/a-disclaimer-before-we-begin?u=76281980&t=102)** AI can follow rules, but we are responsible for understanding the nuances of right and wrong, protecting user data and ensuring fairness.
 >
@@ -653,14 +644,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Generative AI]] (1), [[Software Development]] (1), application (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Software Development]] (1), [[Ethics]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### GPT for idea generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980)
+#### [GPT for idea generation](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -678,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=35)** GPT is not just about generating a code, it's about guiding you on which approach is safe and efficient.
 >
-> **[0:43](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=43)** Let's imagine you are working on a new feature for your payment app and you're stuck on how best to write the phone transfer feature in JavaScript.
+> **[0:43](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=43)** Let's imagine you are working on a new feature for your payment app and you're stuck on how best to write the phone transfer feature in [[JavaScript]].
 >
 > **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=52)** You ask GPT, and it gives you best practices about how to understand compliance and legal requirements, and maybe even some key practices you hadn't thought of.
 >
@@ -688,7 +678,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=80)** So let's implement the tag prompt framework we discussed earlier in this course.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=87)** Let's give ChatGPT this prompt.
+> **[1:27](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=87)** Let's give [[ChatGPT]] this prompt.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-for-idea-generation?u=76281980&t=91)** GPT, your task is to recommend a suitable approach for developing a product feature.
 >
@@ -710,22 +700,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), feature (3), [[ChatGPT]] (3), [[JavaScript]] (2), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[JavaScript]] (2)
 > **Env Vars:** gpt (7)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging AI for code reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/leveraging-ai-for-code-reviews?u=76281980)
+#### [Leveraging AI for code reviews](https://www.linkedin.com/learning/ai-and-developer-productivity/leveraging-ai-for-code-reviews?u=76281980)
 
-#### AI-assisted code completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980)
+#### [AI-assisted code completion](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=0)** - [Instructor] Have you ever had a brilliant concept in your head, like data structures, algorithms, or solid principles, and then struggle to turn it into actual code?
+> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=0)** - [Instructor] Have you ever had a brilliant concept in your head, like [[Data Structures]], [[Algorithms]], or solid principles, and then struggle to turn it into actual code?
 >
 > **[0:11](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=11)** Or maybe you know how something should work, but you just don't have the time to write all those mundane code snippets?
 >
@@ -735,7 +723,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=39)** That's right, AI tools are here to take the heavy lifting off our shoulders, giving us a hand in creating code snippets that align with business requirements.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=52)** There are some popular AI tools out there like GitHub Copilot, Tabnine, ChatGPT, Amazon CodeWhisperer, and more.
+> **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=52)** There are some popular AI tools out there like [[GitHub Copilot]], Tabnine, [[ChatGPT]], Amazon CodeWhisperer, and more.
 >
 > **[1:03](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=63)** Most of these are paid, but they are worth it, especially if you're looking for something that speeds up your coding process.
 >
@@ -745,7 +733,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=84)** Okay, let's do a quick experiment with ChatGPT.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=89)** Say you are trying to look up a name from 1 million student records and you want JavaScript function that's fast and efficient.
+> **[1:29](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=89)** Say you are trying to look up a name from 1 million student records and you want [[JavaScript]] function that's fast and efficient.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-assisted-code-completion?u=76281980&t=99)** Show us how you can frame it using the RISE prompt framework.
 >
@@ -789,7 +777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (6), data (4), [[JavaScript]] (4), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[JavaScript]] (4), [[Data Structures]] (3), [[Algorithms]] (2), [[GitHub Copilot]] (1)
 > **Env Vars:** rise (2)
 > **Analogies:** picture (1), just like (1)
 > **Tools:** github (1)
@@ -797,8 +785,7 @@ created: 2026-05-02
 > **Warnings:** important note (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bug detection with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980)
+#### [Bug detection with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -810,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=21)** Now, imagine this scenario.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=23)** You're working on a JavaScript function and you included a code snippet like this.
+> **[0:23](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=23)** You're working on a [[JavaScript]] function and you included a code snippet like this.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=29)** It seems harmless, right?
 >
@@ -824,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=52)** Instead of spending hours trying to identify the error and fix it manually, we can turn to AI for a helping hand.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=62)** Let's bring in ChatGPT for this task, using the TAG prompt framework, task, action, and goal.
+> **[1:02](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=62)** Let's bring in [[ChatGPT]] for this task, using the TAG prompt framework, task, action, and goal.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=72)** Your task is to resolve a bug in the snippet below.
 >
@@ -834,23 +821,22 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=87)** ChatGPT takes the prompt, understands the task at hand, and quickly comes back with a clear result.
 >
-> **[1:35](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=95)** It identifies the issue, in this case, an unexpected character in the JSON data and provides guidance on how to fix it, just like that.
+> **[1:35](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=95)** It identifies the issue, in this case, an unexpected character in the [[JSON]] data and provides guidance on how to fix it, just like that.
 >
 > **[1:48](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=108)** Finally, you have moved past the error stage and you can now focus on the more important aspect of your project.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=118)** With tools like GitHub Copilot and ChatGPT, we can eliminate those bugs faster and get back to what really matters, building awesome software.
+> **[1:58](https://www.linkedin.com/learning/ai-and-developer-productivity/bug-detection-with-ai?u=76281980&t=118)** With tools like [[GitHub Copilot]] and ChatGPT, we can eliminate those bugs faster and get back to what really matters, building awesome software.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[ChatGPT]] (3), prompt (2), [[Debugging]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[JavaScript]] (1), [[JSON]] (1), [[GitHub Copilot]] (1)
 > **Env Vars:** tag (1), json (1)
 > **Analogies:** imagine (1), just like (1)
 > **Tools:** github (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-powered performance optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980)
+#### [AI-powered performance optimization](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +852,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=32)** These steps are not just about getting the job done, they are about ensuring our software is top-notch and ready for prime time.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=40)** Think about it, in software development, we are always on the lookout for those bottlenecks that can turn a great app into a frustrating experience for users.
+> **[0:40](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=40)** Think about it, in [[Software Development]], we are always on the lookout for those bottlenecks that can turn a great app into a frustrating experience for users.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=51)** And that way, optimization is more important than ever.
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=65)** This is exactly why we need AI to improve the way we optimize our software.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=70)** It can literally analyze your code, check out your database queries, look at your server setup, and might just find that your images are too large or your query is more complex than it needs to be.
+> **[1:10](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=70)** It can literally analyze your code, check out your [[Database Queries]], look at your server setup, and might just find that your images are too large or your query is more complex than it needs to be.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-performance-optimization?u=76281980&t=84)** Once AI identifies these issues, it doesn't just leave you hanging, it goes the extra mile, suggesting different ways to optimize your code.
 >
@@ -894,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), power (1), [[Software Development]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Database Queries]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -904,12 +890,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The traditional challenges of software testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980)
+#### [The traditional challenges of software testing](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=0)** - [Narrator] You have ever been in a coding space for some time, you know that testing is a critical part of the software development cycle, making sure our software is of high quality.
+> **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=0)** - [Narrator] You have ever been in a coding space for some time, you know that testing is a critical part of the [[Software Development]] cycle, making sure our software is of high quality.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=13)** But hold on.
 >
@@ -921,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=29)** What exactly does this requirement mean?
 >
-> **[0:33](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=33)** This is a classic challenge in software testing.
+> **[0:33](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=33)** This is a classic challenge in [[Software Testing]].
 >
 > **[0:37](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=37)** Sometimes the requirements aren't as crystal clear as we would like them to be.
 >
@@ -929,9 +914,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=49)** Not exactly what we are aiming for, right?
 >
-> **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=52)** Let's talk about another prominent challenge, the not so glamorous test data management.
+> **[0:52](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=52)** Let's talk about another prominent challenge, the not so glamorous test [[Data Management]].
 >
-> **[0:58](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=58)** Imagine you are all set to run your tests and you realize that you need data, and not just any kind of data, but data that simulates a real world user experience.
+> **[0:58](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=58)** Imagine you are all set to run your tests and you realize that you need data, and not just any kind of data, but data that simulates a real world [[User Experience (UX)|user experience]].
 >
 > **[1:12](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=72)** Suddenly, you are in a rush trying to manage and maintain this data.
 >
@@ -941,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=89)** Without the right data, how can you be sure that your tests are reflecting the real experience?
 >
-> **[1:36](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=96)** Another major concern is test automation complexity.
+> **[1:36](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=96)** Another major concern is [[Test Automation]] complexity.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=101)** Automation is meant to make our lives easier, right?
 >
@@ -955,7 +940,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=127)** So how do we tackle these challenges?
 >
-> **[2:11](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=131)** All thanks to artificial intelligence.
+> **[2:11](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=131)** All thanks to [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:15](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-software-testing?u=76281980&t=135)** It enables us to navigate through the ambiguity of requirements, streamline test data management, and even simplify the complexities of test automation.
 >
@@ -967,14 +952,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), management (3), [[Test Automation]] (3), [[Automation]] (3), ai (2)
+> **Frameworks & Libraries:** [[Data Management]] (3), [[Test Automation]] (3), [[Software Development]] (1), [[Software Testing]] (1), [[User Experience (UX)|User experience]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Test data generation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980)
+#### [Test data generation with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=4)** You want data that covers all your bases, diverse, relevant, and reflecting real-world scenarios.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=14)** With the help of AI tools like ChatGPT, these smart algorithms receive your product requirements and parameters as input and generate test data that's not just good, but spot on for what you need.
+> **[0:14](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=14)** With the help of AI tools like [[ChatGPT]], these smart [[Algorithms]] receive your product requirements and parameters as input and generate test data that's not just good, but spot on for what you need.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=31)** Here's how it works.
 >
@@ -996,7 +980,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=69)** Plus, with AI-generated test data, you get a more accurate evolution of your software's performance and functionality.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=78)** Let's say, you are working on a new e-commerce app.
+> **[1:18](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=78)** Let's say, you are working on a new [[E-Commerce]] app.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-and-developer-productivity/test-data-generation-with-ai?u=76281980&t=81)** You need test data that simulates real shopping behavior from browsing items to filling cards and checkouts.
 >
@@ -1018,13 +1002,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[ChatGPT]] (6), ai (3), product (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Algorithms]] (1), [[E-Commerce]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test script generation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980)
+#### [Test script generation with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,17 +1019,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=28)** Writing the scripts by hand is time-consuming, and let's be honest, it can be boring.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=34)** But with AI, we are talking speed, efficiency, and more time to focus on the crucial part of software development.
+> **[0:34](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=34)** But with AI, we are talking speed, efficiency, and more time to focus on the crucial part of [[Software Development]].
 >
-> **[0:44](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=44)** Let's take a quick look at our e-commerce app.
+> **[0:44](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=44)** Let's take a quick look at our [[E-Commerce]] app.
 >
 > **[0:48](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=48)** We already have our test data, right?
 >
 > **[0:51](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=51)** Now we need scripts that can automatically run the test on this data.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=57)** Let's assume that this app is going to be built with JavaScript.
+> **[0:57](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=57)** Let's assume that this app is going to be built with [[JavaScript]].
 >
-> **[1:03](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=63)** Our prompt for ChatGPT will look something like this, "Hey, I need you to generate JavaScript test scripts "for my e-commerce app.
+> **[1:03](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=63)** Our prompt for [[ChatGPT]] will look something like this, "Hey, I need you to generate JavaScript test scripts "for my e-commerce app.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-and-developer-productivity/test-script-generation-with-ai?u=76281980&t=73)** "The scripts should cover customer interactions, "shopping cart functions, and transaction processes."
 >
@@ -1070,13 +1053,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[JavaScript]] (4), [[ChatGPT]] (4), [[Scripting]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ChatGPT]] (4), [[E-Commerce]] (2), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [presenter] (1)
 
-#### The pros and cons of using AI tools for test scripting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980)
+#### [The pros and cons of using AI tools for test scripting](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1076,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980&t=29)** It ensures that your scripts cover all the bases.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980&t=34)** And let's not forget about scalability.
+> **[0:34](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980&t=34)** And let's not forget about [[Scalability]].
 >
 > **[0:37](https://www.linkedin.com/learning/ai-and-developer-productivity/the-pros-and-cons-of-using-ai-tools-for-test-scripting?u=76281980&t=37)** As your project grows, AI scales with you, handling more complex scenarios with ease.
 >
@@ -1122,7 +1104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Scripting]] (1), data (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Analogies:** imagine (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -1132,8 +1114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding common coding errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-common-coding-errors?u=76281980)
+#### [Understanding common coding errors](https://www.linkedin.com/learning/ai-and-developer-productivity/understanding-common-coding-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,13 +1182,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [presenter] (1)
 
-#### GPT-powered debugging tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980)
+#### [GPT-powered debugging tools](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,13 +1196,13 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=14)** Let's start with the big players.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=16)** Copilot is the subscription service, while ChatGPT and HuggingChat provide a free version of their service.
+> **[0:16](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=16)** [[Microsoft Copilot|Copilot]] is the subscription service, while [[ChatGPT]] and HuggingChat provide a free version of their service.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=25)** They are fantastic at helping you resolve bugs.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=28)** But for this lesson, we are going to focus on how to leverage ChatGPT for debugging in some real-life scenarios.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=38)** Let's say you're working on a JavaScript function and something is off.
+> **[0:38](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=38)** Let's say you're working on a [[JavaScript]] function and something is off.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=42)** Your code is supposed to calculate the sum of an array, but it's just not working.
 >
@@ -1245,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=87)** Just like that, you've caught the bug with the help of AI.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=92)** Now, let's consider a Python snippet.
+> **[1:32](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=92)** Now, let's consider a [[Python (Programming Language)|Python]] snippet.
 >
 > **[1:36](https://www.linkedin.com/learning/ai-and-developer-productivity/gpt-powered-debugging-tools?u=76281980&t=96)** You've written a function to divide two numbers, but there is a catch.
 >
@@ -1267,15 +1246,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Debugging]] (3), prompt (2), [[Python (Programming Language)|Python]] (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Python (Programming Language)|Python]] (2), [[Microsoft Copilot|Copilot]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (2)
 > **Env Vars:** gpt (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Efficient issue identification
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980)
+#### [Efficient issue identification](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1291,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=32)** It's the first step towards becoming a debugging pro.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=36)** Once you get used to common error types in software development, the next step is mastering error identification techniques.
+> **[0:36](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=36)** Once you get used to common error types in [[Software Development]], the next step is mastering error identification techniques.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=45)** This is where things become interesting.
 >
@@ -1321,7 +1299,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=111)** While identifying coding errors and honing your debugging skills is beneficial, AI tools can significantly accelerate your debugging efforts.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=121)** Tools like Copilot and ChatGPT can be extremely useful, especially once you have determined what type of error you're dealing with.
+> **[2:01](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=121)** Tools like [[Microsoft Copilot|Copilot]] and [[ChatGPT]] can be extremely useful, especially once you have determined what type of error you're dealing with.
 >
 > **[2:11](https://www.linkedin.com/learning/ai-and-developer-productivity/efficient-issue-identification?u=76281980&t=131)** These tools can analyze your code, suggest where errors may exist, and even propose solutions.
 >
@@ -1331,14 +1309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (6), ai (3), next (2), application (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Copilot|Copilot]] (1), [[ChatGPT]] (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### Contextual issue resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980)
+#### [Contextual issue resolution](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980&t=24)** It's easy to go to quick fix mode, but here is where we change the script.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980&t=29)** Instead of zooming in on just the problem, we zoom out, we start asking why did this happen?
+> **[0:29](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980&t=29)** Instead of zooming in on just the problem, we [[Zoom]] out, we start asking why did this happen?
 >
 > **[0:37](https://www.linkedin.com/learning/ai-and-developer-productivity/contextual-issue-resolution?u=76281980&t=37)** What's the bigger picture here?
 >
@@ -1380,7 +1357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (4), hit (1), [[Zoom]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Analogies:** picture (2), for example (1), imagine (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
@@ -1391,18 +1368,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collaboration and modern software development
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980)
+#### [Collaboration and modern software development](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=0)** - [Instructor] The way we work together to build software is changing, and it's changing really fast.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=5)** Remember when software development involved a team working together in the room, sketching ideas on a whiteboard?
+> **[0:05](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=5)** Remember when [[Software Development]] involved a team working together in the room, [[Sketching]] ideas on a whiteboard?
 >
 > **[0:13](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=13)** Nowadays, software development revolves around collaboration.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=18)** Teams are spread out across the globe, working together in real time to build amazing products.
+> **[0:18](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=18)** Teams are spread out across the globe, working together in real time to build amazing [[Microsoft Products|products]].
 >
 > **[0:25](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=25)** However, collaboration and software development is more than just writing a lot of code together.
 >
@@ -1410,7 +1386,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=35)** In essence, successful collaboration depends on clear communication among team members.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=41)** So it's critical for developers to improve their communication skills, which include interactions on platforms like Slack, planning video calls, and annotating code.
+> **[0:41](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=41)** So it's critical for developers to improve their communication skills, which include interactions on platforms like [[Slack]], planning video calls, and annotating code.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-and-developer-productivity/collaboration-and-modern-software-development?u=76281980&t=53)** As technology advances, adaptability is essential.
 >
@@ -1432,14 +1408,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Software Development]] (3), teams (3), [[Sketching]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Sketching]] (1), [[Microsoft Products|Products]] (1), [[Slack]] (1)
 > **Cross-References:** in the next (1)
 > **Tools:** slack (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-powered communication tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-communication-tools?u=76281980)
+#### [AI-powered communication tools](https://www.linkedin.com/learning/ai-and-developer-productivity/ai-powered-communication-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1474,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), feature (2), [[Engineering]] (1), game (1)
 > **URLs:** [read.ai](https://read.ai) (8), [krisp.ai](https://krisp.ai) (4)
 > **Analogies:** think of it as (1), such as (1)
 > **CLI Commands:** make (1)
@@ -1511,8 +1485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The significance of clear code documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980)
+#### [The significance of clear code documentation](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1495,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980&t=15)** It seemed completely unnecessary.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980&t=19)** "My code speaks for itself," I would say, echoing a sentiment shared by many developers regarding unit testing.
+> **[0:19](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980&t=19)** "My code speaks for itself," I would say, echoing a sentiment shared by many developers regarding [[Unit Testing]].
 >
 > **[0:26](https://www.linkedin.com/learning/ai-and-developer-productivity/the-significance-of-clear-code-documentation?u=76281980&t=26)** But here it is, I was completely wrong.
 >
@@ -1570,15 +1543,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (1), hit (1), next (1), ai (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating your first draft with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980)
+#### [Generating your first draft with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1606,7 +1578,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980&t=84)** Okay, let's put Docify to test with an example file.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980&t=90)** Assume we have the simple JavaScript file.
+> **[1:30](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980&t=90)** Assume we have the simple [[JavaScript]] file.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-and-developer-productivity/generating-your-first-draft-with-ai?u=76281980&t=94)** To take advantage of Docify's capabilities, we must first download the extension from the VS Code marketplace.
 >
@@ -1646,7 +1618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (1), feature (1), [[JavaScript]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Tools:** visual studio (1), vs code (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1660,14 +1632,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The traditional challenges of acing an interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980)
+#### [The traditional challenges of acing an interview](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=0)** - [Instructor] Isn't job interviews are just as important as writing clean, efficient code?
 >
-> **[0:07](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=7)** Many of us leave interview preparation until the last minute.
+> **[0:07](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=7)** Many of us leave [[Interview Preparation]] until the last minute.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=11)** We think, oh, I've been coding for years, I'll be fine.
 >
@@ -1689,7 +1660,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=66)** Another exciting tip is to refresh your technical knowledge.
 >
-> **[1:11](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=71)** Examine those data structures and algorithms and programming languages until they become a habit.
+> **[1:11](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=71)** Examine those [[Data Structures]] and [[Algorithms]] and programming languages until they become a habit.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-and-developer-productivity/the-traditional-challenges-of-acing-an-interview?u=76281980&t=78)** Do not forget to keep up with the latest strengths and technologies in the tech industry.
 >
@@ -1713,13 +1684,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), strengths (2), ai (2), [[Interview Preparation]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Interview Preparation]] (1), [[Data Structures]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical interview practice with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980)
+#### [Technical interview practice with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,11 +1697,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=6)** You are dealing with complex problems that put your coding skills, problem-solving abilities, and sometimes patience to the test.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=15)** Let's say you're preparing for an interview and are aware that data structures and algorithms will be a major focus.
+> **[0:15](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=15)** Let's say you're preparing for an interview and are aware that [[Data Structures]] and [[Algorithms]] will be a major focus.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=24)** At this point, you may want to look into other AI tools like HuggingChat for preparation.
 >
-> **[0:31](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=31)** This is also a great alternative to ChatGPT.
+> **[0:31](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=31)** This is also a great alternative to [[ChatGPT]].
 >
 > **[0:36](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=36)** Let's try a prompt like this.
 >
@@ -1757,7 +1727,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=110)** Please include examples for better understanding."
 >
-> **[1:55](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=115)** HuggingChat can break down this complex question into manageable chunks, guiding you through decisions such as database choices, API design and scalability challenges.
+> **[1:55](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=115)** HuggingChat can break down this complex question into manageable chunks, guiding you through decisions such as database choices, API design and [[Scalability]] challenges.
 >
 > **[2:08](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=128)** It's more than just getting an answer.
 >
@@ -1767,7 +1737,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=145)** We can use the prompts like this as well.
 >
-> **[2:29](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=149)** "Present me with a common debugging scenario involving array manipulation in JavaScript.
+> **[2:29](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=149)** "Present me with a common debugging scenario involving array manipulation in [[JavaScript]].
 >
 > **[2:35](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=155)** Guide me through your thought process of identifying and resolving the bug, emphasizing the rationale behind each debugging step."
 >
@@ -1775,7 +1745,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=168)** You have a clear and concise output from HuggingChat.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=174)** The benefits of using AI tools like HuggingChat for interview preparation are endless.
+> **[2:54](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=174)** The benefits of using AI tools like HuggingChat for [[Interview Preparation]] are endless.
 >
 > **[3:00](https://www.linkedin.com/learning/ai-and-developer-productivity/technical-interview-practice-with-ai?u=76281980&t=180)** One of these is that you are actively working on your problem-solving and coding skills by answering a variety of questions.
 >
@@ -1791,13 +1761,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), prompt (2), database (2), api (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Algorithms]] (1), [[ChatGPT]] (1), [[Scalability]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Behavioral interview preparation with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980)
+#### [Behavioral interview preparation with AI](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1809,9 +1778,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=15)** However, it's not only what you say that matters, it's also how you say it.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=23)** And this is why interview preparation is so important.
+> **[0:23](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=23)** And this is why [[Interview Preparation]] is so important.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=28)** We can simulate an interview experience using AI tools such as HuggingChat and ChatGPT to receive real time feedback on what we intend to say during the actual interview.
+> **[0:28](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=28)** We can simulate an interview experience using AI tools such as HuggingChat and [[ChatGPT]] to receive real time feedback on what we intend to say during the actual interview.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-and-developer-productivity/behavioral-interview-preparation-with-ai?u=76281980&t=42)** In this video, we will explore HuggingChat, but ChatGPT would work similarly.
 >
@@ -1869,14 +1838,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Interview Preparation]] (2), [[ChatGPT]] (2), prompt (1), leadership (1)
+> **Frameworks & Libraries:** [[Interview Preparation]] (2), [[ChatGPT]] (2)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** star (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for interview success
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980)
+#### [Best practices for interview success](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,7 +1882,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980&t=101)** So how do you position yourself as the stand-out candidate they're looking for?
 >
-> **[1:47](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980&t=107)** It's all about storytelling.
+> **[1:47](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980&t=107)** It's all about [[Storytelling]].
 >
 > **[1:50](https://www.linkedin.com/learning/ai-and-developer-productivity/best-practices-for-interview-success?u=76281980&t=110)** Focus on stories that show your abilities, adaptability, and alignment with the company's values.
 >
@@ -1926,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), strengths (1), data (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1938,8 +1906,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to improve productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980)
+#### [Using AI to improve productivity](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1949,11 +1916,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=8)** Now let's quickly go over some of the key takeaways from our course.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=12)** We've realized that software development is more than just writing code.
+> **[0:12](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=12)** We've realized that [[Software Development]] is more than just writing code.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=17)** It's about working smarter, not harder.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=20)** By leveraging AI tools and strategies, you can now easily streamline your workflow, meet deadlines, and deliver high quality software projects.
+> **[0:20](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=20)** By leveraging AI tools and strategies, you can now easily streamline your workflow, meet deadlines, and deliver high quality [[Software Projects]].
 >
 > **[0:30](https://www.linkedin.com/learning/ai-and-developer-productivity/using-ai-to-improve-productivity?u=76281980&t=30)** So what comes next for you?
 >
@@ -1969,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Software Development]] (1), ai (1), [[Software Projects]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Software Projects]] (1)
 > **Speakers:** - finally (1)
 
 

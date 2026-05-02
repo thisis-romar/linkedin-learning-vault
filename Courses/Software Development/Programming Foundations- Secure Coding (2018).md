@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement secure code with your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
+#### [Implement secure code with your team](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=18)** With some basic knowledge, a little dedication, and a company culture that embraces security, many of these issues can be preventable.
 >
-> **[0:29](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=29)** This course is designed to provide you with some of the basic knowledge of secure coding.
+> **[0:29](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=29)** This course is designed to provide you with some of the basic knowledge of [[Secure Coding]].
 >
 > **[0:37](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=37)** My goal is to arm you with the knowledge so that you can capitalize on this information, protect your systems, and prevent the trend of recurring flaws.
 >
@@ -98,22 +97,21 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=50)** I'm a software, technology, and security developer and architect.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=56)** I've built security programs for organizations and seen how adding security into agile processes can improve team attitudes and understanding, as well as help you have a better security posture.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=56)** I've built security programs for organizations and seen how adding security into [[Agile Development|agile]] processes can improve team attitudes and understanding, as well as help you have a better security posture.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=71)** I invite you to join me on my LinkedIn Learning course about secure coding.
+> **[1:11](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-secure-code-with-your-team?u=76281980&t=71)** I invite you to join me on my [[LinkedIn]] Learning course about secure coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Secure Coding]] (2), data (1), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (2), [[Agile Development|Agile]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - you (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=0)** - If you're a professional software developer, or looking to enter into this crazy chaos that is software development, then this course is for you.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=0)** - If you're a professional software developer, or looking to enter into this crazy chaos that is [[Software Development]], then this course is for you.
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=11)** The consistent theme in this industry is that nothing is consistent.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=53)** Platforms work in the same way.
 >
-> **[0:56](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=56)** A web platform for instance has very different attack vectors than the embedded software on an IoT device.
+> **[0:56](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=56)** A web platform for instance has very different attack vectors than the [[Embedded Software]] on an [[IoT]] device.
 >
 > **[1:05](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/what-you-need-to-know?u=76281980&t=65)** Neither is secure or insecure in its own right.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), web (1), [[Embedded Software]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Embedded Software]] (1), [[IoT]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -152,8 +150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The goal of secure coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
+#### [The goal of secure coding](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=121)** So while you may be great at writing code that is more secure, your personal impact in the overall code base is smaller than that of the whole team.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=133)** In most teams, several developers are part of the code review or pull request.
+> **[2:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=133)** In most teams, several developers are part of the [[Code Review]] or pull request.
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=139)** So your impact can be dramatically increased by simply being engaged in code reviews from a security perspective.
 >
@@ -201,21 +198,20 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=156)** If you are a development manager, you need to understand what your team is doing, what your team is spending time on, and what risks they are trying to resolve.
 >
-> **[2:47](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=167)** If you're a project manager or a scrum leader, you also need to know why a development task may take longer because of the security concerns.
+> **[2:47](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=167)** If you're a project manager or a [[Scrum]] leader, you also need to know why a development task may take longer because of the security concerns.
 >
-> **[2:57](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=177)** And if you are a quality assurance or quality control person for a team, you can leverage this knowledge of exploits and attack vectors to write more effective tests.
+> **[2:57](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=177)** And if you are a [[Quality Assurance]] or quality control person for a team, you can leverage this knowledge of exploits and attack vectors to write more effective tests.
 >
 > **[3:09](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/the-goal-of-secure-coding?u=76281980&t=189)** And that's the ultimate challenge, realizing that security has a place for everyone on the development team and embracing it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), teams (1), [[Code Review]] (1), [[Scrum]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (1), [[Scrum]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - part (1)
 
-#### Understand an attacker
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-an-attacker?u=76281980)
+#### [Understand an attacker](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-an-attacker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,19 +265,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), business (1), [[Security]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - the (1)
 
-#### Break what you build
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980)
+#### [Break what you build](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=1)** - As developers, our general strength lies in building systems.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=6)** A huge part of the problem in secure coding is that we are builders.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=6)** A huge part of the problem in [[Secure Coding]] is that we are builders.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=12)** So we need to change our mindset a little in order to truly be effective as a secure coder.
 >
@@ -313,7 +307,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=113)** Constructive collaboration with security teams can be even more valuable for today's development teams.
 >
-> **[2:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=122)** This concept of DevSecOps really is about bringing security into your development process the same way that we brought operations into our processes for DevOps.
+> **[2:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=122)** This concept of [[DevSecOps]] really is about bringing security into your development process the same way that we brought operations into our processes for [[DevOps]].
 >
 > **[2:17](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/break-what-you-build?u=76281980&t=137)** Everyone on the team learns and becomes responsible for the security footprint of the application.
 >
@@ -329,16 +323,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Secure Coding]] (2), application (2), teams (2), data (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (2), [[DevSecOps]] (1), [[DevOps]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - as (1)
 
-#### Understand your risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980)
+#### [Understand your risks](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=0)** - One of the core tenets of security especially in a software development shop is understanding and mitigating your risks.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=0)** - One of the core tenets of security especially in a [[Software Development]] shop is understanding and mitigating your risks.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=10)** An entire course could be devoted to risk management for software teams.
 >
@@ -370,7 +363,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=140)** You can then question requirements and evaluate design decisions that include these risks.
 >
-> **[2:27](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=147)** More importantly, armed with knowledge of secure coding and risks, you can provide more tangible feedback on code reviews.
+> **[2:27](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=147)** More importantly, armed with knowledge of [[Secure Coding]] and risks, you can provide more tangible feedback on code reviews.
 >
 > **[2:38](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/understand-your-risks?u=76281980&t=158)** Understanding your risk is not static however.
 >
@@ -388,14 +381,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (3), [[Security]] (2), teams (2), [[Secure Coding]] (2), management (1)
+> **Frameworks & Libraries:** [[Software Development]] (3), [[Secure Coding]] (2)
 > **Cross-References:** earlier in (2)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - one (1)
 
-#### Document what you understand
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980)
+#### [Document what you understand](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980&t=130)** I also believe in documenting your risk mitigation and testing strategy.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980&t=136)** This can be easily incorporated into your definition-of-done statement, assuming, of course, that you want security testing to be part of that definition.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980&t=136)** This can be easily incorporated into your definition-of-done statement, assuming, of course, that you want [[Security Testing]] to be part of that definition.
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/document-what-you-understand?u=76281980&t=147)** There are a couple of other areas of documentation that I feel are so important that they're worth mentioning here.
 >
@@ -465,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), application (2), management (1), game (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Warnings:** be careful (1)
 > **Speakers:** - documenting (1)
@@ -475,12 +467,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Input validation issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
+#### [Input validation issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=0)** - One of the most repetitive security issues we find in software development today is input validation bugs.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=0)** - One of the most repetitive security issues we find in [[Software Development]] today is input validation bugs.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=8)** With input validation issues exist in many different contexts.
 >
@@ -490,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=26)** Injection attacks are one of the most common and most publicized exploits, not just in the input validation arena but globally.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=36)** Often when we think about injection attacks we are talking about SQL injection.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=36)** Often when we think about injection attacks we are talking about [[SQL]] injection.
 >
 > **[0:41](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=41)** But there are several other types.
 >
@@ -510,7 +501,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=105)** Scripting attacks are another very common attack based on lack of proper input validation.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=113)** The most common, and continually on the OWASP Top Ten, is cross-site scripting, or XSS attacks.
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=113)** The most common, and continually on the [[OWASP]] Top Ten, is cross-site scripting, or XSS attacks.
 >
 > **[2:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=122)** The concept again is rather simple.
 >
@@ -526,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=157)** However, there are a couple other types.
 >
-> **[2:41](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=161)** Reflected cross-site scripting is often used in phishing attacks, where the malicious script actually originates in the request.
+> **[2:41](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=161)** Reflected cross-site scripting is often used in [[Phishing]] attacks, where the malicious script actually originates in the request.
 >
 > **[2:51](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/input-validation-issues?u=76281980&t=171)** There are also exploits in the dom that can be attacked.
 >
@@ -560,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (4), data (3), [[SQL]] (2), [[Security]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Software Development]] (1), [[OWASP]] (1), [[Phishing]] (1)
 > **Env Vars:** sql (2), select (1), where (1), owasp (1), xss (1)
 > **Analogies:** for example (1), such as (1), for instance (1)
 > **CLI Commands:** find (2)
@@ -568,8 +559,7 @@ created: 2026-05-02
 > **Definitions:** is called (2)
 > **Speakers:** - one (1)
 
-#### Communication channel issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980)
+#### [Communication channel issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/communication-channel-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,7 +619,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (2), traffic (1), seo (1)
 > **Env Vars:** tls (7), ssl (3), https (2), tcpip (1), http (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** good practice (1), you should always (1)
@@ -638,8 +627,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Session management issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980)
+#### [Session management issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,7 +655,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=91)** The vulnerability that can exploit this process is called session hijacking.
 >
-> **[1:37](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=97)** Session hijacking works by using the session's tokens which are often created using random numbers.
+> **[1:37](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=97)** Session hijacking works by using the session's [[Tokens]] which are often created using random numbers.
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=106)** If the random number generator isn't secure, a bad actor can simply predict the value of the session identifier for a user.
 >
@@ -713,13 +701,13 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=279)** A developer should invalidate the session when the browser closes to ensure the session cannot be stolen.
 >
-> **[4:46](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=286)** Now we don't always use sessions in web development but when we do, we need to be aware of the risks.
+> **[4:46](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=286)** Now we don't always use sessions in [[Web Development]] but when we do, we need to be aware of the risks.
 >
 > **[4:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/session-management-issues?u=76281980&t=293)** Protecting users in these situations isn't hard but you have to think about the risks and make a global plan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (2), [[Tokens]] (2), web application (1), web (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Web Development]] (1)
 > **Env Vars:** http (5), https (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
@@ -731,12 +719,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Error handling issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
+#### [Error handling issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980&t=0)** - Error handling is an important part of application development.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980&t=0)** - Error handling is an important part of [[Application Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/error-handling-issues?u=76281980&t=5)** It allows the developer to prevent the application from abnormal termination while also providing a great place for troubleshooting break points when issues do arise.
 >
@@ -788,14 +775,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Application Development]] (1), [[Troubleshooting]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[Application Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - error (1)
 
-#### Logging and output issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980)
+#### [Logging and output issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -823,9 +809,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=103)** While these things should appear in your log messages, there are several things that should never appear.
 >
-> **[1:50](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=110)** Credentials and connection strings for backing services like databases should never be logged.
+> **[1:50](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=110)** Credentials and connection strings for backing services like [[Databases]] should never be logged.
 >
-> **[1:57](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=117)** Tokens for sessions or specific events likewise have no place in your logs.
+> **[1:57](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=117)** [[Tokens]] for sessions or specific events likewise have no place in your logs.
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/logging-and-output-issues?u=76281980&t=124)** Encryption operations and keys as well as user passwords also fall into this category.
 >
@@ -857,14 +843,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Troubleshooting]] (3), [[Security]] (2), application (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Tokens]] (1)
 > **Analogies:** such as (2), just like (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - we (1)
 
-#### Internal data management issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980)
+#### [Internal data management issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +861,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=25)** Let's start our discussion with a common use case and that is connecting to a remote service.
 >
-> **[0:31](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=31)** Usually, to connect to a remote service, you need to store the URL of that service along with the credentials or tokens needed to consume that service.
+> **[0:31](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=31)** Usually, to connect to a remote service, you need to store the URL of that service along with the credentials or [[Tokens]] needed to consume that service.
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=42)** That information is needed by your application at runtime.
 >
@@ -898,9 +883,9 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=103)** These tools are powerful for your application, because many of them also provide ways to rotate your credentials.
 >
-> **[1:51](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=111)** Another key takeaway to prevent vulnerabilities related to data management is to ensure developers never commit sensitive information to source control.
+> **[1:51](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=111)** Another key takeaway to prevent vulnerabilities related to [[Data Management]] is to ensure developers never commit sensitive information to source control.
 >
-> **[2:03](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=123)** Even non-prod systems can provide an attack vector into your application or your system as a whole, so no sensitive information should ever be checked into the software configuration management or SCM.
+> **[2:03](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=123)** Even non-prod systems can provide an attack vector into your application or your system as a whole, so no sensitive information should ever be checked into the software [[Configuration Management]] or SCM.
 >
 > **[2:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/internal-data-management-issues?u=76281980&t=138)** Finally, you should consider using certificates for your systems where there is a client/server component.
 >
@@ -914,14 +899,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), application (5), [[Tokens]] (1), management (1), [[Configuration Management]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Data Management]] (1), [[Configuration Management]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** url (1), scm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Configuration issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980)
+#### [Configuration issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -979,7 +963,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980&t=216)** For instance, if you are using an application server to run your application, it's default configuration will most likely expose too much information about your application.
 >
-> **[3:49](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980&t=229)** You should apply best practices from organizations like OWASP when configuring your runtime to prevent information disclosure that could be used to attack your application.
+> **[3:49](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980&t=229)** You should apply best practices from organizations like [[OWASP]] when configuring your runtime to prevent information disclosure that could be used to attack your application.
 >
 > **[4:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/configuration-issues?u=76281980&t=242)** Once again, it comes down to common sense.
 >
@@ -993,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), feature (6), data (3), database (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Analogies:** for instance (3), such as (1)
 > **Env Vars:** sans (1), url (1), owasp (1)
 > **CLI Commands:** find (1), make (1)
@@ -1001,14 +985,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - a (1)
 
-#### Database issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980)
+#### [Database issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=1)** - We talked about a couple of the potential issues with databases from other perspectives, but databases and other backing services are used in multiple ways in targeted attacks.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=1)** - We talked about a couple of the potential issues with [[Databases]] from other perspectives, but databases and other backing services are used in multiple ways in targeted attacks.
 >
-> **[0:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=13)** Let's start our discussion once again with SQL injection attacks.
+> **[0:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=13)** Let's start our discussion once again with [[SQL]] injection attacks.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=18)** I mentioned these attacks when we discussed user input validation and indeed that is a good mitigation for these attacks.
 >
@@ -1034,11 +1017,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=106)** Often, database connection strings are performed using plain text communication channels.
 >
-> **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=113)** If you own the database client code, its runtime, the network, and the database system, and all of the hardware involved, you may be tempted to think you aren't at risk.
+> **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=113)** If you own the database client code, its runtime, the network, and the database system, and all of the [[Hardware]] involved, you may be tempted to think you aren't at risk.
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=127)** We must, however, consider that all too often the internal user is the most dangerous attacker in a company.
 >
-> **[2:16](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=136)** The proper way to connect to database systems is through secured channels.
+> **[2:16](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=136)** The proper way to connect to [[Database Systems]] is through secured channels.
 >
 > **[2:22](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/database-issues?u=76281980&t=142)** Most, if not all databases, allow for encrypted communication between the client and the server.
 >
@@ -1066,15 +1049,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (9), database (6), application (3), data (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Databases]] (9), [[SQL]] (2), [[Hardware]] (1), [[Database Systems]] (1)
 > **Env Vars:** sql (2), dba (1)
 > **Cross-References:** we talked about (1), we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - we (1)
 
-#### File and I/O issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980)
+#### [File and I/O issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1088,13 +1070,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=36)** There are several areas we need to focus on with file systems and file input and output.
 >
-> **[0:43](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=43)** The first we will discuss is often more infrastructure focused, but in a devops world, the line is very blurred.
+> **[0:43](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=43)** The first we will discuss is often more infrastructure focused, but in a [[DevOps]] world, the line is very blurred.
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=52)** You need to ensure your application is run in a user process that is controlled.
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=59)** You should only provide access to the file system for that user that the application needs in order to run.
 >
-> **[1:08](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=68)** This is often considered in server side application, especially in the Linux world, but the same cannot be said for desktop or mobile applications.
+> **[1:08](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=68)** This is often considered in server side application, especially in the [[Linux]] world, but the same cannot be said for desktop or mobile applications.
 >
 > **[1:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/file-and-i-o-issues?u=76281980&t=78)** While sandboxing environments help, the fact is that the developer still needs to only allow the application to read and write from a finite location on the file system, and the process needs to only have that same access.
 >
@@ -1138,18 +1120,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), data (4), management (1), [[DevOps]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Linux]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - the (1)
 
-#### Memory management issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980)
+#### [Memory management issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=1)** - Memory management vulnerabilities are a very special class in that they're only exposed in certain languages and certain situations.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=1)** - [[Memory Management]] vulnerabilities are a very special class in that they're only exposed in certain languages and certain situations.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=10)** The most common and the one that I will focus on is the buffer overflow attack.
 >
@@ -1163,13 +1144,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=56)** In higher level languages, for instance, we seldom deal with raw memory allocations.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=62)** Even in languages like Go, Java and C#, where we have pointers, we're not usually able to manipulate raw memory without dipping into unsafe code.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=62)** Even in languages like Go, [[Java]] and C#, where we have pointers, we're not usually able to manipulate raw memory without dipping into unsafe code.
 >
 > **[1:15](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=75)** As such, these languages are usually safe from these errors.
 >
 > **[1:21](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=81)** There are lessons to be learned, however, from those of us that use these higher level languages.
 >
-> **[1:27](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=87)** So, I encourage you to to listen and find parallels in how you deal with data structures in your code.
+> **[1:27](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=87)** So, I encourage you to to listen and find parallels in how you deal with [[Data Structures]] in your code.
 >
 > **[1:36](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/memory-management-issues?u=76281980&t=96)** In lower level languages like C for instance, you are dealing with arrays and pointers to them.
 >
@@ -1215,18 +1196,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Memory Management]] (1), [[Security]] (1), [[Java]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Memory Management]] (1), [[Java]] (1), [[Data Structures]] (1)
 > **Analogies:** for instance (3)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - memory (1)
 
-#### Dependency issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980)
+#### [Dependency issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=1)** - Dependency Management is often the bane of software engineering.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=1)** - [[Dependency Management]] is often the bane of software engineering.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=6)** When it comes to security-related topics, it's even more so of a problem.
 >
@@ -1260,17 +1240,17 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=113)** The real question however, is not how to fix these, but instead, how to identify them.
 >
-> **[2:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=121)** There are actually several tools, some free like from OWASP, that run scans on your bill of materials, or dependency graph, and identify which of your dependencies are actually vulnerable to an attack.
+> **[2:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=121)** There are actually several tools, some free like from [[OWASP]], that run scans on your bill of materials, or dependency graph, and identify which of your dependencies are actually vulnerable to an attack.
 >
 > **[2:17](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=137)** Some paid tools even have detailed analysis that provides more information about the attack possibilities.
 >
-> **[2:25](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=145)** But ultimately, they all point to similar, if not identical databases of CWEs and CVEs.
+> **[2:25](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=145)** But ultimately, they all point to similar, if not identical [[Databases]] of CWEs and CVEs.
 >
 > **[2:34](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/dependency-issues?u=76281980&t=154)** So your strategy needs to simply be this, stay on top of dependencies, look for problem spots, and address those problems as needed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (2), [[Dependency Management]] (1), [[Engineering]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Dependency Management]] (1), [[OWASP]] (1), [[Databases]] (1)
 > **Env Vars:** owasp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -1281,8 +1261,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication and password issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
+#### [Authentication and password issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1289,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=63)** This is a case where faster is not better.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=67)** We're going to talk about cryptographic algorithms in a bit, but know that some hashing algorithms are slower than others, and when it comes to authentication, slow is not a bad thing.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=67)** We're going to talk about cryptographic [[Algorithms]] in a bit, but know that some hashing algorithms are slower than others, and when it comes to authentication, slow is not a bad thing.
 >
 > **[1:20](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=80)** Now, when I say slow, we're talking about hundreds of milliseconds slower, not seconds or minutes.
 >
@@ -1336,7 +1315,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=184)** Also, leverage short-lived unique links for passwords resets.
 >
-> **[3:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=190)** Password reset functionality should provide unique tokens to customers through their verified email address.
+> **[3:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=190)** Password reset functionality should provide unique [[Tokens]] to customers through their verified email address.
 >
 > **[3:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=198)** You should never provide them a password in a plain text email.
 >
@@ -1352,7 +1331,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=247)** The first is easier for the user to memorize, while the latter is next to impossible.
 >
-> **[4:14](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=254)** While I won't argue that special characters and uppercase letters add to the search space, I will state that an all lowercase, 29 character, dictionary word based password would currently take over a trillion years to crack randomly.
+> **[4:14](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=254)** While I won't argue that special characters and uppercase letters add to the search space, I will state that an all lowercase, 29 character, dictionary [[Microsoft Word|word]] based password would currently take over a trillion years to crack randomly.
 >
 > **[4:32](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authentication-and-password-issues?u=76281980&t=272)** An eight character password, with symbols, numbers, and mixed case, can take minutes to guess.
 >
@@ -1362,13 +1341,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), data (2), next (2), [[Security]] (1), database (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Tokens]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - authentication (1)
 
-#### Authorization and access control issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980)
+#### [Authorization and access control issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1392,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980&t=155)** It should not simply be checked once.
 >
-> **[2:38](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980&t=158)** This becomes even more critical in microservices architectures where the systems are distributed.
+> **[2:38](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980&t=158)** This becomes even more critical in [[Microservices]] architectures where the systems are distributed.
 >
 > **[2:46](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/authorization-and-access-control-issues?u=76281980&t=166)** You should only serve data, or execute transactions, if the principle has the authority to do so.
 >
@@ -1438,20 +1416,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Security]] (2), data (2), [[Troubleshooting]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Definitions:** is called (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - providing (1)
 
-#### Cryptography issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980)
+#### [Cryptography issues](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=0)** - Cryptography is a very hard subject for most developers.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=0)** - [[Cryptography]] is a very hard subject for most developers.
 >
-> **[0:06](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=6)** Thankfully, those that do understand cryptography are very good at it and make things easier for the rest of us, assuming we follow the rules correctly.
+> **[0:06](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=6)** Thankfully, those that do understand cryptography are very good at it and make things easier for the [[Representational State Transfer (REST)|rest]] of us, assuming we follow the rules correctly.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=18)** So let's start by talking about the security risks associated with broken cryptography.
 >
@@ -1463,7 +1440,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=49)** Many developers implement an algorithm for encryption, hashing, or digital signatures that they have used before but it may no longer be considered safe.
 >
-> **[1:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=62)** The mitigation for these flaws is quite simply to use the latest and greatest algorithms that serve the current and possibly future purposes.
+> **[1:02](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=62)** The mitigation for these flaws is quite simply to use the latest and greatest [[Algorithms]] that serve the current and possibly future purposes.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/cryptography-issues?u=76281980&t=73)** Now you don't need to be bleeding edge but you do need to use algorithms that are not yet cracked and I do mean not yet.
 >
@@ -1533,7 +1510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (9), [[Cryptography]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (2), api (1)
+> **Frameworks & Libraries:** [[Algorithms]] (9), [[Cryptography]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (5)
 > **Env Vars:** sha (1), api (1)
 > **CLI Commands:** make (1)
@@ -1546,18 +1523,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace security in design
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
+#### [Embrace security in design](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=0)** - As we begin talking about culture changes around secure coding, I think it is only fitting to talk first about the point where most developers begin their engagement, and that is the design.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=0)** - As we begin talking about culture changes around [[Secure Coding]], I think it is only fitting to talk first about the point where most developers begin their engagement, and that is the design.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=14)** Design is a great place to start looking at ways to make your application more secure for various reasons, but I want to focus on some strategies for how to take security into account during design.
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=28)** I like to start all of my design activities by looking at the system design.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=34)** Whether it's a complete system in waterfall or a simple feature in Scrum, the system itself is key.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=34)** Whether it's a complete system in waterfall or a simple feature in [[Scrum]], the system itself is key.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-design?u=76281980&t=43)** By looking at what you are building, you can start looking at ways to destroy it, and that is in my opinion one of the greatest assets for a secure developer.
 >
@@ -1593,17 +1569,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), feature (3), database (2), [[Secure Coding]] (1), application (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (1), [[Scrum]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Embrace security in development
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980)
+#### [Embrace security in development](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=1)** - Obviously, there was a large focus in this course on the development side of secure coding.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=1)** - Obviously, there was a large focus in this course on the development side of [[Secure Coding]].
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=7)** But I want to emphasize a little about how you can leverage this knowledge to positively impact your culture.
 >
@@ -1615,7 +1590,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=38)** You have to start living this stuff at least a little in order to really grasp the full reality of it.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=45)** Follow blogs and Twitter because that is how you will hear of the new attacks you may need to react to.
+> **[0:45](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=45)** Follow blogs and Twitter because that is how you will hear of the new attacks you may need to [[React.js|react]] to.
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-development?u=76281980&t=53)** If you hear of a vulnerability the day it is announced and the component you use, you will have the information to fix the issue before it becomes one for you, assuming of course you weren't hit before the announcement.
 >
@@ -1657,13 +1632,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Secure Coding]] (2), [[React.js|React]] (1), hit (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (2), [[React.js|React]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - obviously (1)
 
-#### Embrace security in testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980)
+#### [Embrace security in testing](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1707,7 +1681,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=124)** Once again, risks change, and you have to address these changes in your existing tests as well as new tests.
 >
-> **[2:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=133)** Another area that testing comes into play is with penetration testing tools.
+> **[2:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=133)** Another area that testing comes into play is with [[Penetration Testing]] tools.
 >
 > **[2:19](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=139)** You may not have a security focused person on your team who can do this.
 >
@@ -1727,7 +1701,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=192)** Make a testing plan that works on one area, and try to make significant headway in that area before moving on to others.
 >
-> **[3:22](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=202)** A word of caution here, while you may be tempted to start with penetration testing, keep in mind the security mindset of the whole team.
+> **[3:22](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=202)** A [[Microsoft Word|word]] of caution here, while you may be tempted to start with penetration testing, keep in mind the security mindset of the whole team.
 >
 > **[3:32](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-testing?u=76281980&t=212)** If you dump a list of vulnerabilities on them day one, they may never catch up.
 >
@@ -1735,18 +1709,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Penetration Testing]] (2), application (1), next (1), ci (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2), cd (1)
 > **Warnings:** keep in mind (2), caution (1)
 > **Env Vars:** sdlc (2)
 > **Speakers:** - in (1)
 
-#### Embrace security in deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-deployment?u=76281980)
+#### [Embrace security in deployment](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-deployment?u=76281980&t=1)** - Deployment of code is one of those areas that all too often gets ignored when it comes to developing a secure coding plan.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-deployment?u=76281980&t=1)** - Deployment of code is one of those areas that all too often gets ignored when it comes to developing a [[Secure Coding]] plan.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/embrace-security-in-deployment?u=76281980&t=10)** This is an unfortunate oversight, as there are many ways to improve the security of your system at this point.
 >
@@ -1784,23 +1757,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Automation]] (2), [[Secure Coding]] (1), data (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - deployment (1)
 
-#### Implement best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980)
+#### [Implement best practices](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=1)** - Security is often a moving target.
 >
-> **[0:04](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=4)** When you are starting down this path of secure coding, and ultimately, a culture of security, it's easy to get lost.
+> **[0:04](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=4)** When you are starting down this path of [[Secure Coding]], and ultimately, a culture of security, it's easy to get lost.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=13)** I'm going to suggest you focus on the most current best practices.
 >
-> **[0:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=18)** Consider development tasks like source control, unit testing, static and dynamic code analysis, and peer-reviewed best practices to help secure your code.
+> **[0:18](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=18)** Consider development tasks like source control, [[Unit Testing]], static and dynamic code analysis, and peer-reviewed best practices to help secure your code.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=29)** Don't be afraid to attack them one at a time and get processes in place that work for you.
 >
@@ -1832,7 +1804,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=127)** Start with the basics and reach out to the community.
 >
-> **[2:11](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=131)** A lot of work around penetration testing and automated deployments has been solved, but things like attack trees are not as common.
+> **[2:11](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=131)** A lot of work around [[Penetration Testing]] and automated deployments has been solved, but things like attack trees are not as common.
 >
 > **[2:20](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/implement-best-practices?u=76281980&t=140)** You may prioritize your individual workloads based on what is done and what isn't.
 >
@@ -1842,7 +1814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), management (2), [[Secure Coding]] (1), [[Unit Testing]] (1), web (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (1), [[Unit Testing]] (1), [[Penetration Testing]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - security (1)
@@ -1857,12 +1829,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980&t=1)** - Throughout this course we have looked at several different yet important aspects of secure coding and culture, so let's review.
+> **[0:01](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980&t=1)** - Throughout this course we have looked at several different yet important aspects of [[Secure Coding]] and culture, so let's review.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-secure-coding-2018/next-steps?u=76281980&t=10)** We spent some time talking about what secure coding is all about and why it is important.
 >
@@ -1904,7 +1875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Secure Coding]] (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Secure Coding]] (4)
 > **Cross-References:** we talked about (4)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)

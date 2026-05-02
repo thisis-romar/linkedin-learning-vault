@@ -17,7 +17,7 @@ tags:
   - topic/network-and-system-administration
   - topic/software-development
   - topic/data-science
-course_count: 84
+course_count: 85
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Network Security
 
-> **Type:** Concept | **Courses:** 84 | **Topics:** [[Cloud Computing]], [[Cybersecurity]], [[Network and System Administration]], [[Software Development]], [[Data Science]]
+> **Type:** Concept | **Courses:** 85 | **Topics:** [[Cloud Computing]], [[Cybersecurity]], [[Network and System Administration]], [[Software Development]], [[Data Science]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 8 mentions
 10. [[Azure Administration Essential Training]] — 8 mentions
 
-> [!note]- See all 84 courses
+> [!note]- See all 85 courses
 > 11. [[Cisco Network Security Core Security Concepts]] — 8 mentions
 > 12. [[Network Forensics]] — 7 mentions
 > 13. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 7 mentions
@@ -84,37 +84,38 @@ created: 2026-05-02
 > 51. [[Ethical Hacking- Hacking IoT Devices]] — 1 mentions
 > 52. [[Ethical Hacking- Cloud Computing]] — 1 mentions
 > 53. [[Cybersecurity Careers- Become a Security Auditor]] — 1 mentions
-> 54. [[IT Security Foundations- Core Concepts]] — 1 mentions
-> 55. [[Computer Components and Peripherals for IT Technicians]] — 1 mentions
-> 56. [[Analyzing VoIP Traffic with Wireshark]] — 1 mentions
-> 57. [[Vulnerability Management with Nessus]] — 1 mentions
-> 58. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
-> 59. [[Introduction to Pen Testing for Cybersecurity Professionals]] — 1 mentions
-> 60. [[MLOps Essentials- Model Deployment and Monitoring]] — 1 mentions
-> 61. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
-> 62. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
-> 63. [[AWS- Storage and Data Management]] — 1 mentions
-> 64. [[Introduction To Career Skills In Software Development]] — 1 mentions
-> 65. [[Cybersecurity for Executives]] — 1 mentions
-> 66. [[Manage Virtual Machines in Azure]] — 1 mentions
-> 67. [[Devops Foundations Devsecops]] — 1 mentions
-> 68. [[AWS Security Best Practices for Developers]] — 1 mentions
-> 69. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
-> 70. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
-> 71. [[Wireshark- Network Troubleshooting]] — 1 mentions
-> 72. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
-> 73. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 1 mentions
-> 74. [[Azure Quick Tips for Developers]] — 1 mentions
-> 75. [[Artificial Intelligence and Application Security]] — 1 mentions
-> 76. [[Machine Learning with Python- k-Means Clustering]] — 1 mentions
-> 77. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
-> 78. [[Kubernetes- Microservices]] — 1 mentions
-> 79. [[Graph Databases- Neo4j for Complex Data Relationships]] — 1 mentions
-> 80. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
-> 81. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 1 mentions
-> 82. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
-> 83. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
-> 84. [[Wireshark- Malware and Forensics]] — 1 mentions
+> 54. [[Practical Cybersecurity for IT Professionals]] — 1 mentions
+> 55. [[IT Security Foundations- Core Concepts]] — 1 mentions
+> 56. [[Computer Components and Peripherals for IT Technicians]] — 1 mentions
+> 57. [[Analyzing VoIP Traffic with Wireshark]] — 1 mentions
+> 58. [[Vulnerability Management with Nessus]] — 1 mentions
+> 59. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 1 mentions
+> 60. [[Introduction to Pen Testing for Cybersecurity Professionals]] — 1 mentions
+> 61. [[MLOps Essentials- Model Deployment and Monitoring]] — 1 mentions
+> 62. [[Complete Guide to Data Lakes and Lakehouses]] — 1 mentions
+> 63. [[Fine-Tuning LLMs for Cybersecurity- Mistral, Llama, AutoTrain, AutoGen, and LLM Agents]] — 1 mentions
+> 64. [[AWS- Storage and Data Management]] — 1 mentions
+> 65. [[Introduction To Career Skills In Software Development]] — 1 mentions
+> 66. [[Cybersecurity for Executives]] — 1 mentions
+> 67. [[Manage Virtual Machines in Azure]] — 1 mentions
+> 68. [[Devops Foundations Devsecops]] — 1 mentions
+> 69. [[AWS Security Best Practices for Developers]] — 1 mentions
+> 70. [[Cisco Network Security- Intrusion Detection and Prevention]] — 1 mentions
+> 71. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
+> 72. [[Wireshark- Network Troubleshooting]] — 1 mentions
+> 73. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 1 mentions
+> 74. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 1 mentions
+> 75. [[Azure Quick Tips for Developers]] — 1 mentions
+> 76. [[Artificial Intelligence and Application Security]] — 1 mentions
+> 77. [[Machine Learning with Python- k-Means Clustering]] — 1 mentions
+> 78. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
+> 79. [[Kubernetes- Microservices]] — 1 mentions
+> 80. [[Graph Databases- Neo4j for Complex Data Relationships]] — 1 mentions
+> 81. [[OWASP Top 10- -9 Security Logging and Monitoring Failures and -10 Server-Side Request Forgery]] — 1 mentions
+> 82. [[LPIC-1 Exam 102 (Version 5.0) Cert Prep]] — 1 mentions
+> 83. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
+> 84. [[Cybersecurity Awareness- IoT Devices]] — 1 mentions
+> 85. [[Wireshark- Malware and Forensics]] — 1 mentions
 
 ## Learning Paths
 

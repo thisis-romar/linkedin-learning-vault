@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capture and present information with value stream mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
+#### [Capture and present information with value stream mapping](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,19 +74,18 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=5)** By measuring and recording the current state of a process, you can identify where things are going well and where you need to improve.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=11)** In this course, I'll provide an overview of value stream maps and show you how to implement them using Excel for your calculations and PowerPoint for your diagrams.
+> **[0:11](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=11)** In this course, I'll provide an overview of value stream maps and show you how to implement them using [[Microsoft Excel|Excel]] for your calculations and [[Microsoft PowerPoint|PowerPoint]] for your diagrams.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=20)** I'm Curt Frye.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=21)** Join me at LinkedIn Learning for an introduction to value stream maps that will let you improve your company's business processes.
+> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/capture-and-present-information-with-value-stream-mapping?u=76281980&t=21)** Join me at [[LinkedIn]] Learning for an introduction to value stream maps that will let you improve your company's business processes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[LinkedIn]] (1)
 > **Speakers:** - value (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,17 +99,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=18)** You can base your vision of what you want the process to look like based on the analysis that you do but you are capturing reality as best you can.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=26)** Also, it will help if you are familiar with Excel, at least to create basic formulas.
+> **[0:26](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=26)** Also, it will help if you are familiar with [[Microsoft Excel|Excel]], at least to create basic formulas.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=31)** I will walk you through the technical bits where you need it.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=34)** And finally, you should understand that even though I'm working in PowerPoint and making, or at least trying to make my value stream maps look nice, pen and paper are absolutely fine for the first draft of a value stream map, and actually, for drafts after that until you want to put it into a finished corporate product.
+> **[0:34](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=34)** And finally, you should understand that even though I'm working in [[Microsoft PowerPoint|PowerPoint]] and making, or at least trying to make my value stream maps look nice, pen and paper are absolutely fine for the first draft of a value stream map, and actually, for drafts after that until you want to put it into a finished corporate product.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-value-stream-mapping/what-you-should-know?u=76281980&t=53)** So do your calculations accurately, reflect reality accurately, and get that information down as best we can.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -120,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe the philosophy and goals of value stream maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
+#### [Describe the philosophy and goals of value stream maps](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980&t=0)** - [Instructor] Every business has processes for making and selling products and services.
+> **[0:00](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980&t=0)** - [Instructor] Every business has processes for making and selling [[Microsoft Products|products]] and services.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-value-stream-mapping/describe-the-philosophy-and-goals-of-value-stream-maps?u=76281980&t=5)** The more you know about those processes, the more effectively you can manage and improve them.
 >
@@ -175,13 +172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduce the course scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980)
+#### [Introduce the course scenarios](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +187,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980&t=17)** The name of the company that we'll use is Red30 Tech.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980&t=21)** This company is fictional, but we're assuming that in mixed products that include drones, robots and books, for example, books about robotics and also instructions for building your own.
+> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980&t=21)** This company is fictional, but we're assuming that in mixed [[Microsoft Products|products]] that include drones, robots and books, for example, books about robotics and also instructions for building your own.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-value-stream-mapping/introduce-the-course-scenarios-2?u=76281980&t=33)** We will work with two scenarios in this course.
 >
@@ -223,13 +219,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (2), cat (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify the components of a value stream map
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/identify-the-components-of-a-value-stream-map-2?u=76281980)
+#### [Identify the components of a value stream map](https://www.linkedin.com/learning/excel-value-stream-mapping/identify-the-components-of-a-value-stream-map-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,19 +318,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **Definitions:** is a  (2), stands for (2), refers to (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** cat (1), rm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Read a value stream map
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/read-a-value-stream-map-2?u=76281980)
+#### [Read a value stream map](https://www.linkedin.com/learning/excel-value-stream-mapping/read-a-value-stream-map-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-value-stream-mapping/read-a-value-stream-map-2?u=76281980&t=0)** - [Instructor] In this movie, I'd like to take a look at a value stream map that documents a process for assembling robots for sale by a consumer electronics company.
+> **[0:00](https://www.linkedin.com/learning/excel-value-stream-mapping/read-a-value-stream-map-2?u=76281980&t=0)** - [Instructor] In this movie, I'd like to take a look at a value stream map that documents a process for assembling robots for sale by a consumer [[Electronics]] company.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-value-stream-mapping/read-a-value-stream-map-2?u=76281980&t=10)** I'll point out information flows, describe how the data relating to workstations and other resources fit into the overall process, and also identify the beginning and end of the elements we're concerned with.
 >
@@ -399,7 +392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Electronics]] (1), data (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **CLI Commands:** cat (3), find (1)
 > **Versions:** 45.8 (1)
 > **Cross-References:** in the next (1)
@@ -410,8 +403,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate takt time for the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
+#### [Calculate takt time for the process](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=5)** In this movie, I will demonstrate how to calculate one of the most fundamental characteristics of your process, its takt time.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=13)** I'll perform my calculations in a workbook called 02_01 Takt Time, and that's an Excel file that you can find in the Exercise Files collection.
+> **[0:13](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=13)** I'll perform my calculations in a workbook called 02_01 Takt Time, and that's an [[Microsoft Excel|Excel]] file that you can find in the Exercise Files collection.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=24)** Takt time indicates how much time you have to complete a task on average to meet customer demand.
 >
@@ -463,7 +455,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=118)** So that means that on average, I need to produce a cat robot every 240 seconds throughout the week.
 >
-> **[2:06](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=126)** Now we can switch over to our value stream map, which I have in PowerPoint, to add this information.
+> **[2:06](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=126)** Now we can switch over to our value stream map, which I have in [[Microsoft PowerPoint|PowerPoint]], to add this information.
 >
 > **[2:13](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process?u=76281980&t=133)** At the top right corner of the value stream map, you see that I have weekly demand, production time available in seconds, and also the takt time.
 >
@@ -471,15 +463,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), business (1), next (1), product (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** find (3), cat (2)
 > **Env Vars:** c10 (2), product (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine process time and cycle time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980)
+#### [Determine process time and cycle time](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=24)** Those are referred to as the process time and the cycle time.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=28)** I'll start in Excel using the 02_02 process and sample time workbook.
+> **[0:28](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=28)** I'll start in [[Microsoft Excel|Excel]] using the 02_02 process and sample time workbook.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=33)** You can find it in the exercise files folder.
 >
@@ -551,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=194)** Now let's switch over to the value stream map that we've begun filling out and add this information.
 >
-> **[3:20](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=200)** Now I'm over in PowerPoint and we have at the top right information from the previous movie, the demand, production time available per week, and takt time.
+> **[3:20](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=200)** Now I'm over in [[Microsoft PowerPoint|PowerPoint]] and we have at the top right information from the previous movie, the demand, production time available per week, and takt time.
 >
 > **[3:31](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time?u=76281980&t=211)** Now we can add the information we just calculated for our three workstations.
 >
@@ -571,15 +562,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** cat (5), find (1)
 > **Versions:** 0.5 (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate process utilization
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980)
+#### [Calculate process utilization](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -591,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=16)** In this movie, I will show you how to calculate utilization.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=19)** The sample file I work from is an Excel workbook called 02_03 Utilization, and you can find that in the Exercise Files folder.
+> **[0:19](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=19)** The sample file I work from is an [[Microsoft Excel|Excel]] workbook called 02_03 Utilization, and you can find that in the Exercise Files folder.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=28)** I have all the information from our previous movies.
 >
@@ -629,7 +619,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=163)** All right, those are our values.
 >
-> **[2:44](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=164)** Now let's switch back over to the value stream map in PowerPoint and add them in.
+> **[2:44](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=164)** Now let's switch back over to the value stream map in [[Microsoft PowerPoint|PowerPoint]] and add them in.
 >
 > **[2:50](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization?u=76281980&t=170)** So we're back in the value stream map that we've been creating so far.
 >
@@ -645,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1), [[Microsoft PowerPoint|Powerpoint]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 45.8 (3), 87.5 (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
@@ -653,8 +643,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine inventory waiting time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980)
+#### [Determine inventory waiting time](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980&t=7)** In this movie, I'll show you how to calculate inventory waiting time and add that information to your value stream map.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980&t=14)** I'll start in Excel using the 02_04 Inventory workbook.
+> **[0:14](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980&t=14)** I'll start in [[Microsoft Excel|Excel]] using the 02_04 Inventory workbook.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time?u=76281980&t=18)** You can find that in the Exercise Files folder.
 >
@@ -714,14 +703,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include information flow times
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times?u=76281980)
+#### [Include information flow times](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,14 +745,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate total lead time and total processing time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-total-lead-time-and-total-processing-time-2?u=76281980)
+#### [Calculate total lead time and total processing time](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-total-lead-time-and-total-processing-time-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +784,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -806,8 +791,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Calculate takt time for the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
+#### [Calculate takt time for the process](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=9)** In this movie, I will show you how to calculate the takt time for a law department's contract creation process.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=15)** I'll start in Excel using the 03 01 Takt Time Legel Excel workbook.
+> **[0:15](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=15)** I'll start in [[Microsoft Excel|Excel]] using the 03 01 Takt Time Legel Excel workbook.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=21)** You can find that in the exercise files collection.
 >
@@ -827,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=38)** So, we have five days, eight hours per day and 60 minutes per hour for 2,400 total minutes during the week.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=46)** And, yes, for anyone who is an attorney or who works with attorneys, I'm sure that you would like to know where this mythical law office is that you can only work 40 hours a week.
+> **[0:46](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=46)** And, yes, for anyone who is an attorney or who works with attorneys, I'm sure that you would like to know where this mythical law [[Microsoft Office|office]] is that you can only work 40 hours a week.
 >
 > **[0:57](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=57)** I'm using this for demonstration purposes and I understand that it might not be realistic for your actual schedules.
 >
@@ -841,7 +825,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=91)** So, every 80 minutes on average, this law department needs to put out a contract.
 >
-> **[1:37](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=97)** Now we can switch over to PowerPoint and add this information to our value stream map.
+> **[1:37](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=97)** Now we can switch over to [[Microsoft PowerPoint|PowerPoint]] and add this information to our value stream map.
 >
 > **[1:43](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-takt-time-for-the-process-2?u=76281980&t=103)** Now we're in PowerPoint and we have a blank value stream map for our three stations and we've already identified the demand for the week as 30 contracts, the time available is 2,400 minutes and the takt time of 80.
 >
@@ -849,25 +833,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine process time and cycle time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980)
+#### [Determine process time and cycle time](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=0)** - [Instructor] Work processes are broken down into one or more discrete steps.
 >
-> **[0:04](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=4)** If Red30 Tech's legal department is generating contracts, you could define tasks such as interviewing the client, drafting the contract, and reviewing the product.
+> **[0:04](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=4)** If Red30 Tech's legal department is generating contracts, you could define tasks such as [[Interviewing]] the client, drafting the contract, and reviewing the product.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=14)** In this movie, I will show you how to characterize the time it takes to fulfill a task for one unit, and how often the task will be completed on average.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=21)** My sample file is 03_02 Process and Cycle Time Legal, that's an Excel workbook you can find in the exercise files folder.
+> **[0:21](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=21)** My sample file is 03_02 Process and Cycle Time Legal, that's an [[Microsoft Excel|Excel]] workbook you can find in the exercise files folder.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-process-time-and-cycle-time-2?u=76281980&t=30)** I've carried over our takt time, the heartbeat of the process, from our previous calculations.
 >
@@ -907,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (2), product (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Versions:** 1.5 (1)
@@ -916,8 +899,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate process utilization
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980)
+#### [Calculate process utilization](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +909,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=9)** This calculation, usually expressed as a percentage, is the resource's utilization.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=15)** I'll start out in Excel to do the utilization calculations.
+> **[0:15](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=15)** I'll start out in [[Microsoft Excel|Excel]] to do the utilization calculations.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=19)** My sample file is 03_03 Utilization Legal, and you can find it in the exercise files folder.
 >
@@ -977,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=121)** However, we have done the calculations that we need, and we can add the information to our value stream map.
 >
-> **[2:07](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=127)** So I'll switch over to PowerPoint and add that information in.
+> **[2:07](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=127)** So I'll switch over to [[Microsoft PowerPoint|PowerPoint]] and add that information in.
 >
 > **[2:12](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-process-utilization-2?u=76281980&t=132)** Here in PowerPoint we have our information on Takt time, production time, and demand, as well as our staffing and process time and cycle time.
 >
@@ -987,15 +969,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Excel|Excel]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Excel|Excel]] (1)
 > **Versions:** 56.3 (2), 112.5 (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is called (1), in other words (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine inventory waiting time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980)
+#### [Determine inventory waiting time](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980&t=5)** In this movie, I'll show you how to calculate inventory waiting time and add that information to your value stream map.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980&t=12)** I'll start in Excel and my sample file here is 03_04 Inventory Legal.
+> **[0:12](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980&t=12)** I'll start in [[Microsoft Excel|Excel]] and my sample file here is 03_04 Inventory Legal.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-value-stream-mapping/determine-inventory-waiting-time-2?u=76281980&t=18)** You can find that in the Exercise Files folder.
 >
@@ -1043,15 +1024,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 1.5 (3)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include information flow times
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980)
+#### [Include information flow times](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,13 +1041,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=11)** These flows don't reflect the time it takes to complete production, but they do offer insights into how information moves within a larger process.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=18)** We actually don't need to do any calculation in Excel for this movie, instead we're going to assume that we have a Program Manager, who appears at the top, that is controlling the flow of information within the legal department at Red30 Tech.
+> **[0:18](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=18)** We actually don't need to do any calculation in [[Microsoft Excel|Excel]] for this movie, instead we're going to assume that we have a Program Manager, who appears at the top, that is controlling the flow of information within the legal department at Red30 Tech.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=33)** And in this scenario, we will assume that information in the form of orders, that is, contracts for generation, are provided on an as-available basis from the Program Manager, so they're not sent in batches, just as soon as they're ready, they are sent to the interview department.
 >
 > **[0:51](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=51)** And at the end, after contracts go through review by a senior associate, they are finished goods, and they are transmitted back again, as completed.
 >
-> **[1:00](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=60)** So in this scenario, the average weekly demand is purely observational, there's not really any forecasting that has been done.
+> **[1:00](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=60)** So in this scenario, the average weekly demand is purely observational, there's not really any [[Forecasting]] that has been done.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-value-stream-mapping/include-information-flow-times-2?u=76281980&t=69)** So it's possible that there have been wild fluctuations in demand levels in the past, or perhaps that the 30 number, that is the number of contracts per week, is solid, and can be used for future planning.
 >
@@ -1078,8 +1058,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate total lead time and total processing time
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-total-lead-time-and-total-processing-time?u=76281980)
+#### [Calculate total lead time and total processing time](https://www.linkedin.com/learning/excel-value-stream-mapping/calculate-total-lead-time-and-total-processing-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1144,8 +1123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)
+#### [More resources](https://www.linkedin.com/learning/excel-value-stream-mapping/more-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1153,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Engineering]] (1), management (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [curt] (1)
 

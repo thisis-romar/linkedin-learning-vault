@@ -99,58 +99,55 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storing information in a data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980)
+#### [Storing information in a data warehouse](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=0)** - [Adam] It's been said that information is power, and in the world of business, having more information and being able to access it quickly can give you a competitive advantage.
 >
-> **[0:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=10)** There's been an explosion in recent years in the importance of business intelligence, and one of the key components of a BI system is a single, complete, and trustworthy repository of raw data called a data warehouse.
+> **[0:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=10)** There's been an explosion in recent years in the importance of [[Business Intelligence (BI)|business intelligence]], and one of the key components of a BI system is a single, complete, and trustworthy repository of raw data called a data warehouse.
 >
 > **[0:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=24)** Hello, I'm Adam Wilbert, and I've spent the last decade helping organizations get the most value from their data.
 >
-> **[0:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=31)** I'm excited to introduce you to the concepts of data warehousing and the tools available in SQL Server 2022.
+> **[0:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=31)** I'm excited to introduce you to the concepts of [[Data Warehousing]] and the tools available in [[Microsoft SQL Server|SQL Server]] 2022.
 >
-> **[0:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=38)** So join me on LinkedIn Learning to see how to develop data warehouses that provide a robust, trustworthy platform to serve all of your business intelligence reporting and analysis workloads.
+> **[0:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/storing-information-in-a-data-warehouse?u=76281980&t=38)** So join me on [[LinkedIn]] Learning to see how to develop data warehouses that provide a robust, trustworthy platform to serve all of your business intelligence reporting and analysis workloads.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Business Intelligence (BI)|Business intelligence]] (2), power (1), business (1), bi (1)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (2), [[Data Warehousing]] (1), [[Microsoft SQL Server|Sql server]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=0)** - [Narrator] In order to get the most out of this course, you should have some familiarity with SQL Server and designing relational databases.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=0)** - [Narrator] In order to get the most out of this course, you should have some familiarity with [[Microsoft SQL Server|SQL Server]] and designing [[Relational Databases]].
 >
-> **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=8)** My expectation is that you've worked with SQL Server Management Studio and can write basic Transact SQL queries.
+> **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=8)** My expectation is that you've worked with SQL Server Management Studio and can write basic Transact [[SQL]] queries.
 >
 > **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=15)** If you need a quick introduction, or feel like you might want a refresher on a few of these topics, then a great place to start is with my course, "SQL Server 2022 Essential Training."
 >
-> **[0:26](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=26)** That course will give you everything that you need to make the most of your time here learning about the role data warehouses play in an enterprise's business intelligence solution.
+> **[0:26](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-you-should-know?u=76281980&t=26)** That course will give you everything that you need to make the most of your time here learning about the role data warehouses play in an enterprise's [[Business Intelligence (BI)|business intelligence]] solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Relational Databases]] (1), management (1), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Relational Databases]] (1), [[SQL]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Set up the example databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980)
+#### [Set up the example databases](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=0)** - [Instructor] If you'd like to follow along on your own computer, then you'll need access to a SQL Server instance and Management Studio.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=0)** - [Instructor] If you'd like to follow along on your own computer, then you'll need access to a [[Microsoft SQL Server|SQL Server]] instance and Management Studio.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=7)** I'm going to be using SQL Server 2022 and Management Studio version 19, but you can use whatever is easily available.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=16)** You'll also need a couple of sample databases and you can get them from the Microsoft SQL Server samples repository at [github.com/microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples).
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=16)** You'll also need a couple of sample [[Databases]] and you can get them from the [[Microsoft SQL Server]] samples repository at [[[GitHub]].com/[[Microsoft]]/[[SQL]]-server-samples](https://github.com/microsoft/sql-server-samples).
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/set-up-the-example-databases?u=76281980&t=27)** Here you'll find lots of different databases designed around different learning topics and programming languages.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), database (6), [[Microsoft SQL Server|Sql server]] (4), data (4), management (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft SQL Server]] (2), [[GitHub]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (6), mssql (3)
 > **UI Navigation:** scroll down (3), click on (2), navigate to (1)
 > **CLI Commands:** find (3)
@@ -242,18 +239,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data warehouse core concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980)
+#### [Data warehouse core concepts](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=0)** - [Instructor] Let's kick off this course with an explanation about what a data warehouse is.
 >
-> **[0:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=5)** A data warehouse plays a critical role in an enterprise's business intelligence system.
+> **[0:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=5)** A data warehouse plays a critical role in an enterprise's [[Business Intelligence (BI)|business intelligence]] system.
 >
-> **[0:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=10)** In a typical scenario, important business data is initially collected in operational or production databases.
+> **[0:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=10)** In a typical scenario, important business data is initially collected in operational or production [[Databases]].
 >
-> **[0:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=18)** These can be separate databases for customer transactions and sales data, or human resources and employment records, or corporate financial information.
+> **[0:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=18)** These can be separate databases for customer transactions and sales data, or [[Human Resources (HR)|human resources]] and employment records, or corporate financial information.
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=27)** They can even be external data sources maintained by a vendor or a government regulator.
 >
@@ -267,15 +263,15 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=74)** Data warehouses are designed to collect data over long periods of time, and they aggregate and format that data so that it can better support the analysis and reporting requirements of the enterprise.
 >
-> **[1:26](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=86)** In this way, they differ from the transactional databases that are used for real-time data collection.
+> **[1:26](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=86)** In this way, they differ from the transactional databases that are used for [[Real-Time]] [[Data Collection]].
 >
 > **[1:32](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=92)** However, data warehouses use the same table structures with attribute columns and data types and relationships.
 >
 > **[1:39](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=99)** They also use the same underlying database engine.
 >
-> **[1:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=102)** In our case, SQL Server.
+> **[1:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=102)** In our case, [[Microsoft SQL Server|SQL Server]].
 >
-> **[1:44](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=104)** And the same query language, SQL.
+> **[1:44](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=104)** And the same query language, [[SQL]].
 >
 > **[1:48](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=108)** The difference is is that they only receive data through a standardized method, the extract, transform, and load process.
 >
@@ -309,21 +305,20 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=254)** Again, this relieves pressure from the operational databases by allowing them to focus strictly on the current state of the data.
 >
-> **[4:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=263)** As you can see, a data warehouse is just another database in the enterprise, but they serve a different purpose from the relational databases that you might be used to working with.
+> **[4:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=263)** As you can see, a data warehouse is just another database in the enterprise, but they serve a different purpose from the [[Relational Databases]] that you might be used to working with.
 >
-> **[4:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=273)** The primary goal of a data warehouse is to support the decision-making needs of the enterprise.
+> **[4:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=273)** The primary goal of a data warehouse is to support the [[Decision-Making]] needs of the enterprise.
 >
 > **[4:39](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/data-warehouse-core-concepts?u=76281980&t=279)** And as such, they require a different approach to their design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), database (10), [[Databases]] (8), business (4), etl (3)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Business Intelligence (BI)|Business intelligence]] (2), [[Real-Time]] (2), [[Human Resources (HR)|Human resources]] (1), [[Data Collection]] (1)
 > **Env Vars:** etl (3), sql (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transactional DBs vs. data warehouses
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980)
+#### [Transactional DBs vs. data warehouses](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980&t=22)** It's a term that describes the traditional role of a database to quickly and efficiently collect and modify records or what's known as performing a transaction.
 >
-> **[0:32](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980&t=32)** The goal of OLTP databases is to quickly write data to the database while maintaining strict control over the reliability, consistency, and integrity of the data.
+> **[0:32](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980&t=32)** The goal of OLTP [[Databases]] is to quickly write data to the database while maintaining strict control over the reliability, consistency, and integrity of the data.
 >
 > **[0:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/transactional-dbs-vs-data-warehouses?u=76281980&t=45)** This is accomplished by having the data structure follow a normalized relational model where data is spread out across related tables.
 >
@@ -407,15 +402,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), database (16), [[Databases]] (5), business (1), etl (1)
+> **Frameworks & Libraries:** [[Databases]] (5)
 > **Env Vars:** oltp (8), olap (6), etl (1)
 > **Analogies:** for instance (2), picture (1), for example (1)
 > **Definitions:** stands for (2), known as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dimensions and facts
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980)
+#### [Dimensions and facts](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,9 +487,9 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=292)** Once the transformation step is complete, the staging tables are emptied, and all of the restructured data is moved into the final dimension and fact tables.
 >
-> **[5:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=303)** Staging tables are also very useful when the external data source isn't a database, but rather a text file, such as a CSV, XML, or a JSON data file.
+> **[5:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=303)** Staging tables are also very useful when the external data source isn't a database, but rather a text file, such as a CSV, XML, or a [[JSON]] data file.
 >
-> **[5:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=315)** We can take a look inside of the two sample databases in Management Studio to see how they've organized the fact and dimension tables.
+> **[5:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=315)** We can take a look inside of the two sample [[Databases]] in Management Studio to see how they've organized the fact and dimension tables.
 >
 > **[5:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=322)** Let's look in the AdventureWorks database.
 >
@@ -555,7 +549,7 @@ created: 2026-05-02
 >
 > **[7:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=458)** We have similar data. We have lots of keys here.
 >
-> **[7:41](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=461)** And if I scroll over to the right, we'll have some financial data.
+> **[7:41](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=461)** And if I scroll over to the right, we'll have some [[Financial Data]].
 >
 > **[7:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/dimensions-and-facts?u=76281980&t=465)** Just like the other database, we can expand the dimensions table in order to get to the related detail.
 >
@@ -567,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), database (9), etl (2), [[Databases]] (2), management (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[JSON]] (1), [[Financial Data]] (1)
 > **Analogies:** for instance (4), just like (2), imagine (1), such as (1)
 > **UI Navigation:** select the (3), right-click (2), scroll down (1), go to (1)
 > **Env Vars:** etl (2), csv (1), xml (1), json (1), dim (1)
@@ -576,14 +570,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Star and snowflake schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980)
+#### [Star and snowflake schemas](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=0)** - [Instructor] The relationships between fact and dimension tables can take two different arrangements in a data warehouse.
 >
-> **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=7)** These are named based on their shape, either a star or a snowflake.
+> **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=7)** These are named based on their shape, either a star or a [[Snowflake]].
 >
 > **[0:12](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=12)** Star designs are the preferred method of connecting dimension tables and fact tables.
 >
@@ -627,7 +620,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=143)** Now, on my screen, things are a little bit too big here.
 >
-> **[2:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=145)** I'm only seeing a couple of these tables, so I'm going to right click, point to Zoom, and zoom out to 50%.
+> **[2:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=145)** I'm only seeing a couple of these tables, so I'm going to right click, point to [[Zoom]], and zoom out to 50%.
 >
 > **[2:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/star-and-snowflake-schemas?u=76281980&t=151)** Scrolling down, I'll find the Order table that we started with.
 >
@@ -655,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (3), [[Snowflake]] (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Snowflake]] (2), [[Zoom]] (2)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** click on (2)
@@ -663,12 +656,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hardware and infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980)
+#### [Hardware and infrastructure](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=0)** - [Instructor] When it comes to rightsizing hardware for a data warehouse, like all databases, the answer is always, it depends on your workload.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=0)** - [Instructor] When it comes to rightsizing [[Hardware]] for a data warehouse, like all [[Databases]], the answer is always, it depends on your workload.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=8)** However, there are a couple of resources that you should focus on when determining the hardware that you'll require.
 >
@@ -714,13 +706,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=159)** You can look at techniques to schedule, stagger, or throttle the connections to external data sources so that you don't impact the operations of your business's transactional databases.
 >
-> **[2:50](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=170)** With today's trend of moving data warehouses onto scalable cloud infrastructure, the need to rightsize local hardware is becoming less important.
+> **[2:50](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=170)** With today's trend of moving data warehouses onto scalable [[Cloud Infrastructure]], the need to rightsize local hardware is becoming less important.
 >
-> **[3:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=180)** However, when you will be running your own server, nothing beats load testing during the development of a data warehouse in order to help identify the best resource allocations when you move it into production.
+> **[3:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hardware-and-infrastructure?u=76281980&t=180)** However, when you will be running your own server, nothing beats [[Load Testing]] during the development of a data warehouse in order to help identify the best resource allocations when you move it into production.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Databases]] (5), [[Hardware]] (4), etl (3), database (2)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Hardware]] (4), [[Cloud Infrastructure]] (1), [[Load Testing]] (1)
 > **Env Vars:** etl (3)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
@@ -732,18 +724,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a data warehouse in SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980)
+#### [Create a data warehouse in SQL Server](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=0)** - [Instructor] A data warehouse is created just like any other database in SQL Server.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=0)** - [Instructor] A data warehouse is created just like any other database in [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=4)** You'll use the same SQL commands that you're probably already familiar with in order to create the database, build the fact and dimension tables, and join them together with relationships.
+> **[0:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=4)** You'll use the same [[SQL]] commands that you're probably already familiar with in order to create the database, build the fact and dimension tables, and join them together with relationships.
 >
 > **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=15)** So let's get started with a new data warehouse here in Management Studio by creating a database for a company called KinetEco.
 >
-> **[0:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=23)** Right-click on the Databases folder and then click New Database.
+> **[0:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=23)** Right-click on the [[Databases]] folder and then click New Database.
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=27)** I'll name the database KinetEcoDW.
 >
@@ -781,7 +772,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=153)** So those are the basic differences between configuring a data warehouse and your typical transactional database.
 >
-> **[2:40](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=160)** Of course, you can configure additional settings according to your business requirements and hardware.
+> **[2:40](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=160)** Of course, you can configure additional settings according to your business requirements and [[Hardware]].
 >
 > **[2:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=165)** I'm just going to go ahead and press the Okay button to create the database.
 >
@@ -835,7 +826,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=305)** Finally, let's think about how we're going to organize the fact and dimension tables of the data warehouse.
 >
-> **[5:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=310)** If we go into the AdventureWorks database and take a look at that real quick, we'll see that these use file names that start with DIM for the dimension tables and the word Fact for the names of their fact tables.
+> **[5:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=310)** If we go into the AdventureWorks database and take a look at that real quick, we'll see that these use file names that start with DIM for the dimension tables and the [[Microsoft Word|word]] Fact for the names of their fact tables.
 >
 > **[5:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-data-warehouse-in-sql-server?u=76281980&t=322)** If we take a look at the other database that we have as an example, the WideWorldImporters data warehouse, and go into the tables folder, you'll see that this database uses schema.
 >
@@ -881,7 +872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), database (13), [[Databases]] (4), etl (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1), [[Hardware]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), etl (3), create (2), schema (2), ssd (1)
 > **CLI Commands:** make (3), find (2)
 > **UI Navigation:** right-click (2), go to (1)
@@ -890,8 +881,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design dimension tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980)
+#### [Design dimension tables](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +895,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=27)** So, I'm going to create a dimension table for dates and a second dimension table for customers.
 >
-> **[0:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=33)** Before we do that, it might be a good idea to take a quick look, and see how the example databases handle these same dimensions.
+> **[0:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=33)** Before we do that, it might be a good idea to take a quick look, and see how the example [[Databases]] handle these same dimensions.
 >
 > **[0:40](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=40)** Let's look in the Wide World Importers database first.
 >
@@ -941,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=133)** That'll be the DimGeography table over here in the Object Explorer.
 >
-> **[2:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=137)** So, this tells me that the customer dimension is part of a snowflake design since it links to another dimension table.
+> **[2:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=137)** So, this tells me that the customer dimension is part of a [[Snowflake]] design since it links to another dimension table.
 >
 > **[2:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-dimension-tables?u=76281980&t=145)** Next, we have a reference to the primary key in the transactional database again.
 >
@@ -1051,7 +1041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (12), next (5), [[Databases]] (2), etl (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Snowflake]] (1)
 > **UI Navigation:** select the (3), scroll up (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** etl (2), wwi (1)
@@ -1060,8 +1050,7 @@ created: 2026-05-02
 > **Analogies:** compare this to (1), such as (1)
 > **Exercise Files:** exercise file (1)
 
-#### Design fact tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-fact-tables?u=76281980)
+#### [Design fact tables](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/design-fact-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,7 +1146,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (5), next (1), product (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (2)
 > **Definitions:** is an  (1), means that (1)
@@ -1166,8 +1154,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an indexed view
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980)
+#### [Create an indexed view](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1170,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980&t=53)** When we do perform an analysis, we're still asking the database query engine to perform a join between the fact table and the relevant dimension.
 >
-> **[1:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980&t=62)** For end users that aren't familiar with the SQL language that might be a little bit challenging.
+> **[1:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980&t=62)** For end users that aren't familiar with the [[SQL]] language that might be a little bit challenging.
 >
 > **[1:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-an-indexed-view?u=76281980&t=68)** So we can help them out by creating a view that combines the information from the fact table with the dimensions in a single resource that end users can pull information from without having to worry about the syntax needed to create the table joints.
 >
@@ -1243,7 +1230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (7), business (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -1256,14 +1243,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advantages of columnstore indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980)
+#### [Advantages of columnstore indexes](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980&t=0)** - [Instructor] All of the tables that we've been working with have been examples of a rowstore structure, where individual records in a table are stored as rows.
 >
-> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980&t=9)** SQL Server also supports an arrangement called a columnstore index, which separates out each column of a table when creating the index on disk.
+> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980&t=9)** [[Microsoft SQL Server|SQL Server]] also supports an arrangement called a columnstore index, which separates out each column of a table when creating the index on disk.
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/advantages-of-columnstore-indexes?u=76281980&t=18)** Columnstore indexes should be standard on fact tables in your data warehouses, and even on some large dimension tables.
 >
@@ -1343,7 +1329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (1), ix_cs (1)
 > **Definitions:** means that (1), is a  (1)
@@ -1351,12 +1337,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Memory-optimized columnstore table
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/memory-optimized-columnstore-table?u=76281980)
+#### [Memory-optimized columnstore table](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/memory-optimized-columnstore-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/memory-optimized-columnstore-table?u=76281980&t=0)** - [Instructor] SQL Server supports the creation of clustered column store indexes on top of a memory optimized table.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/memory-optimized-columnstore-table?u=76281980&t=0)** - [Instructor] [[Microsoft SQL Server|SQL Server]] supports the creation of clustered column store indexes on top of a memory optimized table.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/memory-optimized-columnstore-table?u=76281980&t=7)** This means that you can gain the benefit of both technologies simultaneously.
 >
@@ -1422,7 +1407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (3), database (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
@@ -1431,8 +1416,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rebuild columnstore indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980)
+#### [Rebuild columnstore indexes](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,7 +1442,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980&t=56)** When they do, you can either reorganize or rebuild the index to reset the fragmentation back to zero.
 >
-> **[1:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980&t=64)** You can do this with a T-SQL command to perform the index maintenance and I have an example of that code in the course exercise files but there are also options built right here into Management Studio, and that's probably the easiest way to maintain these indexes in your Data Warehouse.
+> **[1:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980&t=64)** You can do this with a T-[[SQL]] command to perform the index maintenance and I have an example of that code in the course exercise files but there are also options built right here into Management Studio, and that's probably the easiest way to maintain these indexes in your Data Warehouse.
 >
 > **[1:20](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/rebuild-columnstore-indexes?u=76281980&t=80)** Let's press cancel to dismiss this properties window.
 >
@@ -1490,7 +1474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (3), management (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** ccx (1), sql (1)
 > **UI Navigation:** click on (2)
@@ -1504,22 +1488,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are ETL and SSIS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980)
+#### [What are ETL and SSIS?](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=0)** - [Instructor] Extract, transform and load is the process that feeds data into your data warehouse.
 >
-> **[0:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=6)** ETL is an important component of the overall business intelligence system, and we've talked about the role that ETL plays in feeding data from multiple data sources into your data warehouse, so that it can then be used for reporting and analysis workloads.
+> **[0:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=6)** ETL is an important component of the overall [[Business Intelligence (BI)|business intelligence]] system, and we've talked about the role that ETL plays in feeding data from multiple data sources into your data warehouse, so that it can then be used for reporting and analysis workloads.
 >
-> **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=21)** Let's now spend a few minutes and dive a little bit deeper into how ETL works in SQL Server.
+> **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=21)** Let's now spend a few minutes and dive a little bit deeper into how ETL works in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=28)** The most common tool for performing ETL in a SQL Server-based data warehouse is called [[SQL Server Integration Services]].
 >
 > **[0:36](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=36)** Integration Services, or SSIS, is a platform for building workflows that can automate and standardize complex, data-related tasks.
 >
-> **[0:46](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=46)** As the name would imply, it can help integrate data from a variety of sources, including other SQL databases, Excel spreadsheets, flat files, such as CSV and XML files, and pull it all together into a single destination database.
+> **[0:46](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=46)** As the name would imply, it can help integrate data from a variety of sources, including other [[SQL]] [[Databases]], [[Microsoft Excel|Excel]] spreadsheets, flat files, such as CSV and XML files, and pull it all together into a single destination database.
 >
 > **[1:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=62)** It does this through the three phases of ETL.
 >
@@ -1535,9 +1518,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=99)** There's a long list of tasks that you can add to an integration services package.
 >
-> **[1:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=105)** In order to develop a package of tasks, you'll use a graphical designer called SQL Server Data Tools which is a component of Microsoft's flagship application development program, Visual Studio.
+> **[1:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=105)** In order to develop a package of tasks, you'll use a graphical designer called SQL Server Data Tools which is a component of [[Microsoft]]'s flagship [[Application Development]] program, Visual Studio.
 >
-> **[1:57](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=117)** Here, you'll specify what tasks you want to perform as a control flow diagram.
+> **[1:57](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=117)** Here, you'll specify what tasks you want to perform as a [[Control Flow]] diagram.
 >
 > **[2:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/what-are-etl-and-ssis?u=76281980&t=123)** You'll connect tasks to the appropriate data sources and the destination data warehouse, and then you'll define the sequence in which the tasks will execute.
 >
@@ -1561,7 +1544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), etl (7), [[Microsoft SQL Server|Sql server]] (6), database (4), [[Control Flow]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Control Flow]] (3), [[Business Intelligence (BI)|Business intelligence]] (1), [[SQL]] (1), [[Databases]] (1)
 > **Env Vars:** etl (7), sql (7), ssis (2), csv (1), xml (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** such as (1), for instance (1), just like (1)
@@ -1569,20 +1552,19 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand data flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980)
+#### [Understand data flow](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=0)** - [Instructor] The [[SQL Server Integration Services]] Data Flow task provides the three main components of the ETL process.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=0)** - [Instructor] The [[[[Microsoft SQL Server|SQL Server]] Integration Services]] Data Flow task provides the three main components of the ETL process.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=8)** The first component is the data source.
 >
 > **[0:11](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=11)** With this component, you'll define where the original data is located and how to access it.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=16)** SSIS supports connections to a wide variety of data storage platforms, everything from simple Excel files to Flat Files like XML or CSV or other databases such as Access, Oracle, remote SQL server instances, and many more.
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=16)** SSIS supports connections to a wide variety of [[Data Storage]] platforms, everything from simple [[Microsoft Excel|Excel]] files to Flat Files like XML or CSV or other [[Databases]] such as Access, Oracle, remote SQL server instances, and many more.
 >
-> **[0:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=33)** You can even connect to big data providers such as a Hadoop Distributed File System.
+> **[0:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=33)** You can even connect to [[Big Data]] providers such as a [[Hadoop]] Distributed File System.
 >
 > **[0:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=38)** The data source's Connection Manager stores all of the information needed to retrieve data from these locations, including the network path to the resource, any login credentials that would be needed to securely access them, and the names of specific tables and attribute columns that you want to pull.
 >
@@ -1594,7 +1576,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=84)** Conditional split will divide the records based on criteria that you specify.
 >
-> **[1:29](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=89)** Derived column transforms will allow you to apply functions and formulas to process the data into different forms.
+> **[1:29](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=89)** Derived column transforms will allow you to apply functions and formulas to process the data into different [[Forms]].
 >
 > **[1:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/understand-data-flow?u=76281980&t=97)** And aggregate transforms will find the subtotals or averages across a group of records.
 >
@@ -1632,15 +1614,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Microsoft SQL Server|Sql server]] (2), etl (2), [[Microsoft Excel|Excel]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Excel|Excel]] (2), [[Data Storage]] (1), [[Databases]] (1), [[Big Data]] (1)
 > **Env Vars:** sql (2), etl (2), ssis (2), xml (1), csv (1)
 > **Analogies:** for instance (4), such as (3), just like (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** means that (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establish control flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980)
+#### [Establish control flow](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,13 +1629,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=5)** An integration services package also allows you to automate a wide range of database activities, in addition to the standard ETL tasks found in a data flow.
 >
-> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=15)** Together, this extended capability goes by the term control flow.
+> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=15)** Together, this extended capability goes by the term [[Control Flow]].
 >
 > **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=21)** Control flow tasks can perform routine database maintenance such as creating a backup or rebuilding indexes.
 >
 > **[0:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=28)** They can also work with the file system and create folders and files on the local file system or on an FTP server.
 >
-> **[0:36](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=36)** You can create a control flow task that sends an email to database administrators when a certain condition occurs, or run Transact-SQL commands on a database server.
+> **[0:36](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=36)** You can create a control flow task that sends an email to database administrators when a certain condition occurs, or run [[Transact-SQL (T-SQL)|Transact-SQL]] commands on a database server.
 >
 > **[0:47](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=47)** Control flow tasks can even incorporate looping containers that are useful for performing the same task multiple times.
 >
@@ -1674,13 +1655,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=118)** Once the SSIS package has been created and all of the control flow and data flow tasks have been configured, the package gets deployed to the integration services catalog database.
 >
-> **[2:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=130)** Then, using the SQL Server Agent, a schedule can be enabled that will automatically execute the package at regular intervals, perhaps nightly or at the end of every month.
+> **[2:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=130)** Then, using the [[Microsoft SQL Server|SQL Server]] Agent, a schedule can be enabled that will automatically execute the package at regular intervals, perhaps nightly or at the end of every month.
 >
 > **[2:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/establish-control-flow?u=76281980&t=142)** That way, your data warehouse is consistently fed current information so that the decision makers in the organization have the best information possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Control Flow]] (7), database (5), etl (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
+> **Frameworks & Libraries:** [[Control Flow]] (7), [[Transact-SQL (T-SQL)|Transact-sql]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** ssis (3), sql (2), etl (1), ftp (1), csv (1)
 > **Analogies:** for instance (2), such as (1), just like (1)
 > **Cross-References:** we discussed (1)
@@ -1691,8 +1672,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hosting a DW in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980)
+#### [Hosting a DW in the cloud](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,9 +1680,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=9)** Before you go out and purchase a high-end database server you should really consider the benefits of a cloud-hosted data warehouse.
 >
-> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=16)** Microsoft's offering called Azure Synapse Analytics could be a cost effective solution for businesses with a wide range of needs.
+> **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=16)** [[Microsoft]]'s offering called [[Microsoft Azure|Azure]] Synapse Analytics could be a cost effective solution for businesses with a wide range of needs.
 >
-> **[0:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=25)** Azure Synapse analytics combines data warehousing and big data analytics into a single service.
+> **[0:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=25)** Azure Synapse analytics combines [[Data Warehousing]] and [[Big Data Analytics]] into a single service.
 >
 > **[0:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=31)** There are three main components.
 >
@@ -1714,23 +1694,23 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=56)** Azure Data Lake is a petabyte scale storage solution built on Azure blob storage.
 >
-> **[1:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=62)** Here you can store Parquet, CSV, TSV, and JSON data files and make them available to your data warehouse.
+> **[1:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=62)** Here you can store Parquet, CSV, TSV, and [[JSON]] data files and make them available to your data warehouse.
 >
 > **[1:11](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=71)** By bringing all of these technologies together under a single umbrella, Microsoft has removed a number of barriers that made them difficult to integrate and leverage in the past.
 >
 > **[1:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=82)** I mentioned that within these Synapse Workspace you can connect to a variety of different data sources.
 >
-> **[1:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=88)** These include serverless SQL pools which allow you to execute queries on the fly without first having to provision any compute resources.
+> **[1:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=88)** These include serverless [[SQL]] pools which allow you to execute queries on the fly without first having to provision any compute resources.
 >
 > **[1:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=97)** Billing is handled automatically based on the amount of data processed.
 >
-> **[1:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=102)** Likewise, Serverless Spark pools allow you to analyze big data stores without first provisioning resources.
+> **[1:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=102)** Likewise, Serverless Spark pools allow you to analyze [[Big Data]] stores without first provisioning resources.
 >
 > **[1:50](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=110)** The session will automatically pause when the work is completed and users are billed for the work done during each session.
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=118)** And finally, there are Dedicated SQL pools.
 >
-> **[2:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=121)** These are more likely traditional types of data warehouses that we've been working with in our local installation of SQL Server.
+> **[2:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=121)** These are more likely traditional types of data warehouses that we've been working with in our local installation of [[Microsoft SQL Server|SQL Server]].
 >
 > **[2:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/hosting-a-dw-in-the-cloud?u=76281980&t=128)** When you create a dedicated pool you're pre-provisioning a certain level of CPU, memory and storage resources within the Azure Cloud.
 >
@@ -1788,7 +1768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Microsoft Azure|Azure]] (10), [[SQL]] (8), cloud (4), database (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (10), [[SQL]] (8), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Data Warehousing]] (1)
 > **Env Vars:** sql (10), cpu (2), csv (1), tsv (1), json (1)
 > **CLI Commands:** node (3), make (2)
 > **Definitions:** is a  (2)
@@ -1796,12 +1776,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - data (1)
 
-#### Create a dedicated SQL Pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980)
+#### [Create a dedicated SQL Pool](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=0)** - [Instructor] To create a dedicated SQL pool in Azure Synapse, you'll need a Microsoft account and an Azure account.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=0)** - [Instructor] To create a dedicated [[SQL]] pool in [[Microsoft Azure|Azure]] Synapse, you'll need a [[Microsoft]] account and an Azure account.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=7)** There is a free option if you'd like to test out the service, and you can find out information about that by going to azure.[microsoft.com](https://microsoft.com).
 >
@@ -1843,7 +1822,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=104)** Then we'll scroll down and take a look at the authentication.
 >
-> **[1:47](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=107)** I want to be able to easily log in from SQL Server Management Studio, so I'll choose the option to enable SQL Server authentication there and then we'll provide a new administrator name and password.
+> **[1:47](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=107)** I want to be able to easily log in from [[Microsoft SQL Server|SQL Server]] Management Studio, so I'll choose the option to enable SQL Server authentication there and then we'll provide a new administrator name and password.
 >
 > **[1:59](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-dedicated-sql-pool?u=76281980&t=119)** You can type in whatever name and password you prefer.
 >
@@ -1891,7 +1870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Azure|Azure]] (7), next (6), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft Azure|Azure]] (7), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft]] (3)
 > **Env Vars:** sql (11)
 > **UI Navigation:** go to (4), scroll down (2), dropdown (1)
 > **CLI Commands:** make (2), find (1)
@@ -1900,12 +1879,11 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1), [azure.com](https://azure.com) (1)
 > **Definitions:** is a  (1)
 
-#### Reserve resources with workload isolation groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980)
+#### [Reserve resources with workload isolation groups](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=0)** - [Instructor] My dedicated SQL pool has just finished deploying to my Azure account and I can see it here on the main dashboard.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=0)** - [Instructor] My dedicated [[SQL]] pool has just finished deploying to my [[Microsoft Azure|Azure]] account and I can see it here on the main dashboard.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=7)** Now, within the SQL pool memory and CPU resources are going to be shared across all of the users of the database.
 >
@@ -1921,7 +1899,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=58)** This will bring up the pool's overview page with lots of useful information, including the server name that we'll need later.
 >
-> **[1:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=66)** In order to connect in SQL Server Management Studio.
+> **[1:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=66)** In order to connect in [[Microsoft SQL Server|SQL Server]] Management Studio.
 >
 > **[1:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/reserve-resources-with-workload-isolation-groups?u=76281980&t=70)** Let's take a quick detour to the very bottom of the page where we have a couple of different charts.
 >
@@ -2007,7 +1985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), concurrent (4), [[SQL]] (3), [[Microsoft Azure|Azure]] (2), management (2)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Azure|Azure]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4), cpu (3)
 > **Prerequisites:** configure (4), set up (2)
 > **CLI Commands:** make (2), find (1)
@@ -2016,8 +1994,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Versions:** 12.5 (1)
 
-#### Classify workloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980)
+#### [Classify workloads](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2029,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=18)** So let's connect using Management Studio.
 >
-> **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=21)** If you're still on the workload management page for the dedicated SQL pool, switch over to the Overview page.
+> **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=21)** If you're still on the workload management page for the dedicated [[SQL]] pool, switch over to the Overview page.
 >
 > **[0:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=28)** At the top, you'll find the fully qualified server name that we need to use in order to connect.
 >
@@ -2043,13 +2020,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=49)** For the server name, I'll paste in that fully qualified server address that we've just copied to the clipboard.
 >
-> **[0:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=55)** The authentication will be SQL Server Authentication, and we'll type in the login name and password that we set up for the dedicated SQL pool.
+> **[0:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=55)** The authentication will be [[Microsoft SQL Server|SQL Server]] Authentication, and we'll type in the login name and password that we set up for the dedicated SQL pool.
 >
 > **[1:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=64)** Go ahead and press the Connect button and you'll shortly see it appear over here in the Object Explorer.
 >
-> **[1:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=69)** So here is my dedicated SQL pool that's running inside of Azure.
+> **[1:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=69)** So here is my dedicated SQL pool that's running inside of [[Microsoft Azure|Azure]].
 >
-> **[1:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=73)** I'm going to expand the databases folder.
+> **[1:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=73)** I'm going to expand the [[Databases]] folder.
 >
 > **[1:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/classify-workloads?u=76281980&t=75)** Here is my data warehouse called AW-SQL Pool.
 >
@@ -2143,7 +2120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (8), [[SQL]] (8), management (4), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Azure|Azure]] (2), [[Databases]] (1)
 > **Env Vars:** sql (10), cpu (2)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** make (2), find (1)
@@ -2152,12 +2129,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load data into a staging table
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980)
+#### [Load data into a staging table](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=0)** - [Instructor] The next step in setting up a cloud-hosted data warehouse is to ingest data into staging or integration tables in the SQL pool.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=0)** - [Instructor] The next step in setting up a cloud-hosted data warehouse is to ingest data into staging or integration tables in the [[SQL]] pool.
 >
 > **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=9)** This is accomplished with a few T-SQL commands that you can execute here in Management Studio.
 >
@@ -2167,7 +2143,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=39)** Either way the concept is the same.
 >
-> **[0:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=42)** You want to pull data from the external transactional databases and other sources and consolidate it in a standardized way in the data warehouse.
+> **[0:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=42)** You want to pull data from the external transactional [[Databases]] and other sources and consolidate it in a standardized way in the data warehouse.
 >
 > **[0:52](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=52)** First I want to make sure that I'm using the workload isolation group policy so I need to log into the server with the new data loader account.
 >
@@ -2191,7 +2167,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=118)** Then I'll scroll up to the top and we'll move through it line by line.
 >
-> **[2:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=122)** Microsoft has some sample data stored in an Azure blob storage account that we can use for this demonstration.
+> **[2:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=122)** [[Microsoft]] has some sample data stored in an [[Microsoft Azure|Azure]] blob storage account that we can use for this demonstration.
 >
 > **[2:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=128)** It's technically for the Wide World Importers database but it'll be fine to pull into our example data warehouse.
 >
@@ -2203,7 +2179,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=148)** I'll call it WWIstorage for Wide World Importer storage.
 >
-> **[2:32](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=152)** It's a Hadoop data source and it has a location listed right there.
+> **[2:32](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=152)** It's a [[Hadoop]] data source and it has a location listed right there.
 >
 > **[2:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=157)** Let me highlight these lines and press execute to create that data source.
 >
@@ -2245,11 +2221,11 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=263)** I'll select everything out of the dbo.DIMCity table and here is the data that's been loaded from blob storage.
 >
-> **[4:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=271)** At this point we have a new dimension that's ready to link to any fact tables further building out our star or snowflake design of the data warehouse.
+> **[4:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/load-data-into-a-staging-table?u=76281980&t=271)** At this point we have a new dimension that's ready to link to any fact tables further building out our star or [[Snowflake]] design of the data warehouse.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), database (6), [[SQL]] (3), cloud (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Hadoop]] (1)
 > **Env Vars:** sql (3), elt (1), etl (1)
 > **UI Navigation:** select the (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -2257,12 +2233,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pause and remove resources in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/pause-and-remove-resources-in-azure?u=76281980)
+#### [Pause and remove resources in Azure](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/pause-and-remove-resources-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/pause-and-remove-resources-in-azure?u=76281980&t=0)** - [Instructor] When you are experimenting with dedicated SQL pools on a paid Azure subscription plan, you'll want to minimize your costs by pausing the resources when you're not using them or deleting them from your account entirely.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/pause-and-remove-resources-in-azure?u=76281980&t=0)** - [Instructor] When you are experimenting with dedicated [[SQL]] pools on a paid [[Microsoft Azure|Azure]] subscription plan, you'll want to minimize your costs by pausing the resources when you're not using them or deleting them from your account entirely.
 >
 > **[0:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/pause-and-remove-resources-in-azure?u=76281980&t=13)** From the portal dashboard, click on the dedicated SQL pool resource.
 >
@@ -2304,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), database (3), [[Microsoft Azure|Azure]] (2), data (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (4), cpu (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -2316,20 +2291,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQL Server Data Quality Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980)
+#### [SQL Server Data Quality Services](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=0)** - [Instructor] Anytime you have humans entering data into a database, you're bound to wind up with typos and misspellings that'll wreck havoc on your analyses.
 >
-> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=9)** Data Quality Services is an add-on for SQL Server that'll help you build a customized knowledge base for correcting, standardizing, and de-duplicating your data.
+> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=9)** [[Data Quality]] Services is an add-on for [[Microsoft SQL Server|SQL Server]] that'll help you build a customized knowledge base for correcting, standardizing, and de-duplicating your data.
 >
 > **[0:19](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=19)** Essentially, DQS will help you locate and correct common misspellings and other data entry errors.
 >
-> **[0:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=25)** It's particularly useful when you're moving data from a number of source databases, each with their own peculiarities, and consolidating it all in a single, consistent data warehouse.
+> **[0:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=25)** It's particularly useful when you're moving data from a number of source [[Databases]], each with their own peculiarities, and consolidating it all in a single, consistent data warehouse.
 >
-> **[0:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=37)** You can read up on the features and implementation details on learn.[microsoft.com](https://microsoft.com).
+> **[0:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=37)** You can read up on the features and implementation details on learn.[[[Microsoft]].com](https://microsoft.com).
 >
 > **[0:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=42)** But I wanted to take a few minutes and walk through an example so that you can see how DQS can help you maintain a more valuable data warehouse.
 >
@@ -2339,7 +2313,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=67)** I did not include the necessary components when I installed SQL Server, so I'm going to add them now.
 >
-> **[1:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=74)** Go down to the start menu, and in the Microsoft SQL Server program group, you'll find an icon for the installation center.
+> **[1:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=74)** Go down to the start menu, and in the [[Microsoft SQL Server]] program group, you'll find an icon for the installation center.
 >
 > **[1:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=81)** Let's go ahead and start that up.
 >
@@ -2347,7 +2321,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=93)** That'll prompt me to locate the installation media that I've previously downloaded for SQL Server.
 >
-> **[1:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=98)** On my computer that's on the C drive in a folder called SQL 2022 and I'm using the evaluation edition for the release candidate one.
+> **[1:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=98)** On my computer that's on the C drive in a folder called [[SQL]] 2022 and I'm using the evaluation edition for the release candidate one.
 >
 > **[1:46](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=106)** I'll go ahead and select that folder and press OK.
 >
@@ -2363,7 +2337,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=137)** Select your instance name from the dropdown menu if you have multiples installed, and then press Next.
 >
-> **[2:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=144)** On this page, I'll uncheck the option to use the Azure extension for SQL Server and press Next.
+> **[2:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=144)** On this page, I'll uncheck the option to use the [[Microsoft Azure|Azure]] extension for SQL Server and press Next.
 >
 > **[2:30](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=150)** That'll bring us to the feature selection page.
 >
@@ -2381,7 +2355,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=186)** A script was created for us that'll create a couple of additional databases on our SQL Server instance.
 >
-> **[3:12](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=192)** In order to run the script your Windows user account must be a member of the CIS Admin Fixed Server role in SQL Server.
+> **[3:12](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=192)** In order to run the script your [[Windows]] user account must be a member of the CIS Admin Fixed Server role in SQL Server.
 >
 > **[3:20](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/sql-server-data-quality-services?u=76281980&t=200)** To run the script, go down to your start menu and you'll either see it here at the very top of the page or if you scroll down and go into the Microsoft SQL Server folder, you'll find the script here.
 >
@@ -2419,7 +2393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft SQL Server|Sql server]] (11), next (5), database (4), [[Databases]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[Data Quality]] (9), [[Databases]] (4), [[Microsoft SQL Server]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (14), dqs (3), cis (1)
 > **Prerequisites:** install (3), setup (3)
 > **CLI Commands:** find (2), make (2)
@@ -2428,8 +2402,7 @@ created: 2026-05-02
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Tools:** command prompt (1)
 
-#### Cleanse data with DQS
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980)
+#### [Cleanse data with DQS](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,9 +2410,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=9)** When you have lots of users entering data into a database you're bound to wind up with typographical errors and misspellings.
 >
-> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=15)** And when you're pulling lots of data from multiple databases and consolidating it all in a single data warehouse those little problems can add up quickly and have a big impact on the results of your analyses.
+> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=15)** And when you're pulling lots of data from multiple [[Databases]] and consolidating it all in a single data warehouse those little problems can add up quickly and have a big impact on the results of your analyses.
 >
-> **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=27)** Data Quality Services provides a tool to help us out and make sure that the values that we're importing into the database are consistent.
+> **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=27)** [[Data Quality]] Services provides a tool to help us out and make sure that the values that we're importing into the database are consistent.
 >
 > **[0:35](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=35)** Before we can get started with an example we need some data to cleanse.
 >
@@ -2469,7 +2442,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=98)** Let me minimize Management Studio and go down to my Start menu.
 >
-> **[1:41](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=101)** Then I'll scroll down to the Microsoft SQL Server program group.
+> **[1:41](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=101)** Then I'll scroll down to the [[Microsoft SQL Server]] program group.
 >
 > **[1:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=105)** Here you have the option to start up the Data Quality Client.
 >
@@ -2477,7 +2450,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=115)** So make sure you're choosing the right one to start up the data quality client.
 >
-> **[2:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=120)** That'll prompt me to log into my SQL Server instance.
+> **[2:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=120)** That'll prompt me to log into my [[Microsoft SQL Server|SQL Server]] instance.
 >
 > **[2:04](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=124)** Since I'm working on the same machine that I'm running SQL Server on, I'll use the keyword "localhost" or you would fill in the server name that you use in Management Studio.
 >
@@ -2505,7 +2478,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=174)** You can create your own knowledge base in DQS that pertains to your own data.
 >
-> **[2:57](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=177)** Perhaps a list of products or store names that you've verified is complete and accurate.
+> **[2:57](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=177)** Perhaps a list of [[Microsoft Products|products]] or store names that you've verified is complete and accurate.
 >
 > **[3:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=182)** For now, I'm going to use the sample knowledge base that includes details about locations in the United States.
 >
@@ -2513,7 +2486,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=198)** Go ahead and press the Next button in the lower right hand corner.
 >
-> **[3:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=203)** For the data source I'll select SQL Server, but you can also choose to pull in data from an Excel file.
+> **[3:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=203)** For the data source I'll select SQL Server, but you can also choose to pull in data from an [[Microsoft Excel|Excel]] file.
 >
 > **[3:29](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=209)** For the database I'll choose the KinetEco data warehouse.
 >
@@ -2533,7 +2506,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=242)** That'll begin the cleansing process.
 >
-> **[4:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=245)** When it's done, we get some statistics at the bottom about the completeness and accuracy of the data.
+> **[4:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=245)** When it's done, we get some [[Statistics]] at the bottom about the completeness and accuracy of the data.
 >
 > **[4:11](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/cleanse-data-with-dqs?u=76281980&t=251)** We have a value that was automatically corrected and a value that data Quality Services is making a suggestion about.
 >
@@ -2659,7 +2632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Microsoft SQL Server|Sql server]] (7), next (6), management (4), database (3)
+> **Frameworks & Libraries:** [[Data Quality]] (12), [[Microsoft SQL Server|Sql server]] (7), [[Microsoft Excel|Excel]] (2), [[Databases]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (7), dqs (3), csv (1)
 > **UI Navigation:** right-click (3), scroll down (2), go to (2), dropdown (2)
 > **CLI Commands:** make (4), find (3)
@@ -2668,12 +2641,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980)
+#### [Create a custom knowledge base](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=0)** - [Instructor] In order to use data quality services to cleanse your data, you need to have some information about what is correct and valid.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=0)** - [Instructor] In order to use [[Data Quality]] services to cleanse your data, you need to have some information about what is correct and valid.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=8)** This information is stored in a knowledge base and individual table columns from your input data source will get mapped to domains in the knowledge base.
 >
@@ -2683,7 +2655,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=45)** For this example, I want to create a knowledge base that includes all of the supplier names used by Wide World Importers.
 >
-> **[0:53](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=53)** This will be useful to help ensure that data is entered consistently when it's copied out of a variety of source databases and stored in the data warehouse.
+> **[0:53](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=53)** This will be useful to help ensure that data is entered consistently when it's copied out of a variety of source [[Databases]] and stored in the data warehouse.
 >
 > **[1:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=63)** In the data quality client home screen click New knowledge base in the left hand column.
 >
@@ -2707,7 +2679,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=111)** So choose knowledge discovery, and then press next.
 >
-> **[1:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=116)** That data source will be coming out of SQL Server but you can also pull the data from an Excel file.
+> **[1:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=116)** That data source will be coming out of [[Microsoft SQL Server|SQL Server]] but you can also pull the data from an [[Microsoft Excel|Excel]] file.
 >
 > **[2:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/create-a-custom-knowledge-base?u=76281980&t=121)** The database is the Wide World Importer's data warehouse and the table is the supplier table.
 >
@@ -2827,7 +2799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), next (5), database (3), business (2), management (2)
+> **Frameworks & Libraries:** [[Data Quality]] (7), [[Microsoft Excel|Excel]] (2), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** dqs (2), wwi (1), sql (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (1), find (1)
@@ -2841,22 +2813,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Master Data Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980)
+#### [Introduction to Master Data Services](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=0)** - [Instructor] Rather than attempt to clean up data before loading it into a data warehouse, it might be better to ensure that the data is consistently entered into each of your transactional databases in the first place.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=0)** - [Instructor] Rather than attempt to clean up data before loading it into a data warehouse, it might be better to ensure that the data is consistently entered into each of your transactional [[Databases]] in the first place.
 >
-> **[0:12](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=12)** This approach is known as Master Data Management.
+> **[0:12](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=12)** This approach is known as Master [[Data Management]].
 >
 > **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=16)** Master Data Management aims to create a single point of reference within an organization for critical data sets.
 >
-> **[0:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=23)** The most common kinds of master data include customers or products, but it can represent any reference data that would benefit from a consistent set of permissible values.
+> **[0:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=23)** The most common kinds of master data include customers or [[Microsoft Products|products]], but it can represent any reference data that would benefit from a consistent set of permissible values.
 >
-> **[0:34](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=34)** This single point of reference is then disseminated through data integration techniques to an enterprise's transactional databases so that they're always consistent right from the start.
+> **[0:34](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=34)** This single point of reference is then disseminated through [[Data Integration]] techniques to an enterprise's transactional databases so that they're always consistent right from the start.
 >
-> **[0:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=45)** If you were to diagram out how master data benefits an overall business intelligence system, it might look something like this.
+> **[0:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=45)** If you were to diagram out how master data benefits an overall [[Business Intelligence (BI)|business intelligence]] system, it might look something like this.
 >
 > **[0:52](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=52)** Here we have a master database that includes all of the products that we make and sell.
 >
@@ -2872,32 +2843,31 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=97)** This allows our business intelligence analyses to be able to easily relate products from the manufacturing segment of the business through inventory and warehousing to the final sale and delivery.
 >
-> **[1:50](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=110)** Microsoft provides a tool for managing master data called, Master Data Services.
+> **[1:50](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=110)** [[Microsoft]] provides a tool for managing master data called, Master Data Services.
 >
-> **[1:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=115)** It's an add-on for a SQL server, and it allows users to create a model for their data.
+> **[1:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=115)** It's an add-on for a [[Microsoft SQL Server|SQL server]], and it allows users to create a model for their data.
 >
 > **[2:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/introduction-to-master-data-services?u=76281980&t=121)** Master data services also provides a web-application that makes it easy for a business' end users to go in and review, update, or add to the master data, so that updates are always available to every system in the organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Products|Products]] (4), database (4), management (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Databases]] (2), [[Data Management]] (2), [[Business Intelligence (BI)|Business intelligence]] (2), [[Data Integration]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install MDS and IIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980)
+#### [Install MDS and IIS](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=0)** - [Instructor] I need to add the components for Master Data Services to my SQL Server instance, and we can do that through the SQL Server installation center.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=0)** - [Instructor] I need to add the components for Master Data Services to my [[Microsoft SQL Server|SQL Server]] instance, and we can do that through the SQL Server installation center.
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=8)** I'll come down to the start menu, and we'll scroll down to the SQL Server program group and inside of there we'll find the installation center.
 >
 > **[0:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=16)** Then we'll go to the installation page and click the first link to add features to an existing installation.
 >
-> **[0:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=22)** That'll prompt me for the installation media, and I've downloaded that to my computer on the C drive into a folder called SQL 2022, and I'm using the evaluation edition of release candidate 1.
+> **[0:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=22)** That'll prompt me for the installation media, and I've downloaded that to my computer on the C drive into a folder called [[SQL]] 2022, and I'm using the evaluation edition of release candidate 1.
 >
 > **[0:34](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=34)** Your specific folder location will probably be a little bit different just depending on the edition and version of SQL Server that you're working with.
 >
@@ -2909,7 +2879,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=61)** Press the next button.
 >
-> **[1:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=63)** On this page, I need to turn off the Azure extension for SQL Server.
+> **[1:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=63)** On this page, I need to turn off the [[Microsoft Azure|Azure]] extension for SQL Server.
 >
 > **[1:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=67)** Now, for some reason on this page, the next button doesn't activate immediately so I'm just going to wait here a moment until it activates and I can click it.
 >
@@ -2923,17 +2893,17 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=88)** In the "feature description" box over here on the right, you can take a look at what's going to happen on our system.
 >
-> **[1:34](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=94)** This is going to install Master Data Services including the manager, assemblies, a PowerShell snap-in and the folders and files for a web application.
+> **[1:34](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=94)** This is going to install Master Data Services including the manager, assemblies, a [[Powershell]] snap-in and the folders and files for a web application.
 >
 > **[1:43](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=103)** Press the next button at the bottom, then we can review the summary about what's going to get installed on our system, and finally press the install button.
 >
 > **[1:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=116)** When it completes, we can go ahead and press the close button and we're done installing the components on SQL Server.
 >
-> **[2:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=122)** Next, we need to add Internet information services, or IIS, to our Windows machine.
+> **[2:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=122)** Next, we need to add Internet information services, or IIS, to our [[Windows]] machine.
 >
-> **[2:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=128)** In Windows server, you'll do this through the server manager and then you go to "Add roles and features."
+> **[2:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=128)** In [[Windows Server]], you'll do this through the server manager and then you go to "Add roles and features."
 >
-> **[2:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=134)** In Windows 10 which is what I'm using, go down to the search box and search for the control panel.
+> **[2:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=134)** In [[Windows 10]] which is what I'm using, go down to the search box and search for the control panel.
 >
 > **[2:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=142)** Then click programs, then programs and features.
 >
@@ -2951,11 +2921,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=176)** We can now collapse this section and expand the section for "Worldwide Web Services."
 >
-> **[3:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=181)** Inside of here, we'll go into "Application development features."
+> **[3:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=181)** Inside of here, we'll go into "[[Application Development]] features."
 >
 > **[3:05](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=185)** I'll place a check mark for .net extensibility 3.5 and 4.8.
 >
-> **[3:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=190)** Also [ASP.net](https://ASP.net) 3.5 and 4.8, and then make sure that we also got check marks placed for IS API extensions, and IS API filters.
+> **[3:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=190)** Also [[[ASP.NET]]](https://ASP.net) 3.5 and 4.8, and then make sure that we also got check marks placed for IS API extensions, and IS API filters.
 >
 > **[3:22](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-mds-and-iis?u=76281980&t=202)** Okay, we're done in this section, let's go ahead and minimize that, and come down to common HTTP features.
 >
@@ -3001,7 +2971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft SQL Server|Sql server]] (6), next (6), web (4), data (3)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Microsoft SQL Server|Sql server]] (6), [[SQL]] (1), [[Microsoft Azure|Azure]] (1), [[Powershell]] (1)
 > **Env Vars:** sql (7), http (4), iis (2), api (2), ftp (1)
 > **CLI Commands:** make (9), find (4), snap (1)
 > **Versions:** 4.8 (3), 3.5 (2)
@@ -3010,18 +2980,17 @@ created: 2026-05-02
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Tools:** powershell (1)
 
-#### Configure Master Data Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980)
+#### [Configure Master Data Services](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=0)** - I just installed Internet Information Services on my Windows machine and now we're ready to configure Master Data Services.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=0)** - I just installed Internet Information Services on my [[Windows]] machine and now we're ready to configure Master Data Services.
 >
 > **[0:07](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=7)** Let's go ahead and close the web browser.
 >
-> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=9)** To find it come down to the Windows Start menu and go into the Microsoft SQL Server program group.
+> **[0:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=9)** To find it come down to the Windows Start menu and go into the [[Microsoft SQL Server]] program group.
 >
-> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=15)** Here you'll find a new program that's just been installed called SQL Server Master Data Services Configuration Manager.
+> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=15)** Here you'll find a new program that's just been installed called [[Microsoft SQL Server|SQL Server]] Master Data Services Configuration Manager.
 >
 > **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=21)** Let's go ahead and start that up and allow it to make changes to my computer.
 >
@@ -3081,11 +3050,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=140)** While we're here, we can also make sure that the new database was just created on our system.
 >
-> **[2:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=144)** So only go ahead and refresh the databases folder and there is the new Master Data Services database that was just set up, so everything's looking good here.
+> **[2:24](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=144)** So only go ahead and refresh the [[Databases]] folder and there is the new Master Data Services database that was just set up, so everything's looking good here.
 >
 > **[2:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=153)** Okay, let's go back into the Data Services Configuration Manager.
 >
-> **[2:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=158)** Now, I'm still seeing this red message here that tells me the agent is still not running, but if I flip over to the Windows 10 PC, which is the name of my computer, and then go back into database configuration you'll see that that red warning message disappears so everything's looking good.
+> **[2:38](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=158)** Now, I'm still seeing this red message here that tells me the agent is still not running, but if I flip over to the [[Windows 10]] PC, which is the name of my computer, and then go back into database configuration you'll see that that red warning message disappears so everything's looking good.
 >
 > **[2:53](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=173)** Finally, we need to configure the Master Data Services website.
 >
@@ -3121,13 +3090,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=259)** This might take a moment to load the first time so just be patient.
 >
-> **[4:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=263)** Previous versions of Master Data Services required the Microsoft Silver Light Plugin and Internet Explorer 10 or 11, but those requirements have since been dropped.
+> **[4:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=263)** Previous versions of Master Data Services required the [[Microsoft]] Silver Light Plugin and Internet Explorer 10 or 11, but those requirements have since been dropped.
 >
 > **[4:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/configure-master-data-services?u=76281980&t=273)** The web application now uses a standard HTML5 interface and should work on any modern web browser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), data (12), [[Microsoft SQL Server|Sql server]] (7), next (7), [[Windows]] (5)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Windows]] (5), [[Microsoft SQL Server]] (1), [[Databases]] (1), [[Windows 10]] (1)
 > **Env Vars:** sql (8), html5 (1)
 > **Prerequisites:** configure (3), set up (2), you'll need (1), install (1)
 > **CLI Commands:** make (3), find (2)
@@ -3136,8 +3105,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - i (1)
 
-#### Deploy a sample MDS model
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980)
+#### [Deploy a sample MDS model](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3145,9 +3113,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=11)** You can find them by going into the C Drive, into Program Files.
 >
-> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=15)** Then Microsoft SQL Server.
+> **[0:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=15)** Then [[Microsoft SQL Server]].
 >
-> **[0:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=17)** 160, if you're using SQL Server 2022 or it'll be a lower number if you're on an older version of SQL Server.
+> **[0:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=17)** 160, if you're using [[Microsoft SQL Server|SQL Server]] 2022 or it'll be a lower number if you're on an older version of SQL Server.
 >
 > **[0:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=23)** I'll just go into the 160 folder.
 >
@@ -3197,7 +3165,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=182)** Once the operation completes successfully and you get returned back to your command prompt you're all done setting everything up.
 >
-> **[3:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=188)** Let's go ahead and close the command prompt tool as well as our Windows Explorer window.
+> **[3:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=188)** Let's go ahead and close the command prompt tool as well as our [[Windows]] Explorer window.
 >
 > **[3:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=193)** Now let's go take a look inside of the Master Data Services web app.
 >
@@ -3283,7 +3251,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=369)** So if you wanted to change the color of a product you can use the dropdown menu and that'll give you a list of all different valid values that you can choose from.
 >
-> **[6:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=378)** This is similar to a data validation list that you might use in an Excel spreadsheet.
+> **[6:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=378)** This is similar to a [[Data Validation]] list that you might use in an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[6:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/deploy-a-sample-mds-model?u=76281980&t=383)** So, that's how Master Data Services organizes the data.
 >
@@ -3297,7 +3265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), product (8), [[Microsoft SQL Server|Sql server]] (3), prompt (3), [[Microsoft SQL Server]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft SQL Server]] (2), [[Windows]] (1), [[Data Validation]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (3), navigate to (2), dropdown (2), scroll down (1), right-click (1)
 > **Env Vars:** sql (5), mds1 (2), cmd (1), mds (1)
 > **CLI Commands:** find (5), make (2), cd (1)
@@ -3306,12 +3274,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is called (1)
 > **Prerequisites:** install (2)
 
-#### Install the MDS Excel add-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980)
+#### [Install the MDS Excel add-in](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=0)** - [Instructor] One of the more interesting features of Master Data Services is that Microsoft includes a plugin that integrates right into Excel.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=0)** - [Instructor] One of the more interesting features of Master Data Services is that [[Microsoft]] includes a plugin that integrates right into [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=8)** This allows business end users to view, extend, and update Master Data right from a program that they use every day.
 >
@@ -3341,7 +3308,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=83)** We'll take a look at one additional detail.
 >
-> **[1:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=85)** We also need to install the Visual Studio 2010 tools for Office in order for everything to work, so I'll go ahead and click on this link.
+> **[1:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=85)** We also need to install the Visual Studio 2010 tools for [[Microsoft Office|Office]] in order for everything to work, so I'll go ahead and click on this link.
 >
 > **[1:33](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/install-the-mds-excel-add-in?u=76281980&t=93)** That'll bring me to another download page, and once again, I'll click the download button here.
 >
@@ -3377,7 +3344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (5), next (3), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** url (1), mds (1), x64 (1), x86 (1)
@@ -3386,12 +3353,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Cross-References:** go back to (1)
 
-#### Update master data in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980)
+#### [Update master data in Excel](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=0)** - [Instructor] I've just installed the Master Data Services add-in for Excel, and now it's time to see how it can make it easy to work with your master data right inside of an Excel workbook.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=0)** - [Instructor] I've just installed the Master Data Services add-in for [[Microsoft Excel|Excel]], and now it's time to see how it can make it easy to work with your master data right inside of an Excel workbook.
 >
 > **[0:10](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=10)** We'll start with a new blank workbook.
 >
@@ -3485,7 +3451,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=225)** So that's an example that only scrapes the surface of what you can do with an Excel add-in for Master Data Services.
 >
-> **[3:51](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=231)** You can also copy and paste a large number of entity members for use in pivot tables or other visualizations here in Excel.
+> **[3:51](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=231)** You can also copy and paste a large number of entity members for use in [[Pivot Tables]] or other visualizations here in Excel.
 >
 > **[3:59](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/update-master-data-in-excel?u=76281980&t=239)** You can use spellcheck and translation tools or anything else that you would typically do in Excel.
 >
@@ -3493,7 +3459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Excel|Excel]] (8), database (3), product (3), web (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Pivot Tables]] (1)
 > **CLI Commands:** make (8)
 > **Env Vars:** per (2), url (1)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -3505,14 +3471,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business intelligence applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980)
+#### [Business intelligence applications](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=0)** - [Instructor] Once you have all of your internal and external data organized, cleansed, and reconfigured into fact and dimension tables in a data warehouse, it's time to actually do something with all of that data.
 >
-> **[0:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=13)** This brings us back to the concept of business intelligence.
+> **[0:13](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=13)** This brings us back to the concept of [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:18](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=18)** The purpose of business intelligence is to gain insight by analyzing raw data that can lead to a competitive advantage in the marketplace.
 >
@@ -3526,37 +3491,37 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=63)** So with that in mind, I'd like to briefly introduce a number of tools that can be used in the next step in your overall business intelligence strategy data analysis.
 >
-> **[1:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=74)** The first is SQL Server reporting services.
+> **[1:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=74)** The first is [[Microsoft SQL Server|SQL Server]] reporting services.
 >
 > **[1:17](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=77)** Reporting services is an add-on for SQL Server that provides the tools needed to ingest data from a data warehouse using queries and then format that data into customizable reports.
 >
-> **[1:29](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=89)** These reports can include charts and other visualizations to make it easier to interpret the data and can include customizable controls so that end users can drill into details or zoom out to get a bigger picture.
+> **[1:29](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=89)** These reports can include charts and other visualizations to make it easier to interpret the data and can include customizable controls so that end users can drill into details or [[Zoom]] out to get a bigger picture.
 >
 > **[1:42](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=102)** Reports get published to a web portal so that they're accessible to anyone with an internet connection.
 >
-> **[1:48](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=108)** Reports can be formatted to be printed on paper, or arranged into mobile reports that work well as interactive dashboards on a mobile phone or tablet.
+> **[1:48](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=108)** Reports can be formatted to be printed on paper, or arranged into mobile reports that work well as interactive [[Dashboards]] on a mobile phone or tablet.
 >
 > **[1:58](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=118)** You can find out more about reporting services at this URL.
 >
-> **[2:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=123)** Next is a tool called Power BI and it's similar to reporting services, but it focuses more on interactive dashboards and visualizations than paginated reports.
+> **[2:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=123)** Next is a tool called [[Microsoft Power BI|Power BI]] and it's similar to reporting services, but it focuses more on interactive dashboards and visualizations than paginated reports.
 >
 > **[2:14](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=134)** Dashboards can include key performance indicators, interactive charts, maps, and other visualizations that tell the story of your data.
 >
 > **[2:23](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=143)** Again, these visualizations are available across a variety of devices through a secure internet connection.
 >
-> **[2:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=151)** Another business intelligence platform that's popular for analyzing information from a data warehouse is Tableau.
+> **[2:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=151)** Another business intelligence platform that's popular for analyzing information from a data warehouse is [[Tableau]].
 >
 > **[2:37](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=157)** Tableau tends to be more popular with decision makers that want to be able to develop their own analyses on the fly, rather than simply consume an analysis that was developed by someone in IT and published to a portal.
 >
 > **[2:51](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=171)** Tableau will help you build fantastic reports that look as good as they function.
 >
-> **[2:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=176)** If you're looking for something simpler that builds on tools that you already use, then you might consider Power Pivot for Excel.
+> **[2:56](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=176)** If you're looking for something simpler that builds on tools that you already use, then you might consider Power Pivot for [[Microsoft Excel|Excel]].
 >
-> **[3:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=183)** This is another Excel add-in that will allow you to bring in data from other SQL servers and create visualizations using the same charts and formulas that you're probably already familiar with.
+> **[3:03](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=183)** This is another Excel add-in that will allow you to bring in data from other [[SQL]] servers and create visualizations using the same charts and formulas that you're probably already familiar with.
 >
 > **[3:15](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=195)** Because Power Pivot creates live links to a SQL Server database, the data can be easily refreshed to get the most current view in your analysis.
 >
-> **[3:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=205)** And finally, I'd like to introduce, SQL Server Analysis Services, or Azure Analysis Services.
+> **[3:25](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=205)** And finally, I'd like to introduce, SQL Server Analysis Services, or [[Microsoft Azure|Azure]] Analysis Services.
 >
 > **[3:31](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=211)** With this SQL Server add-on, you can convert your two-dimensional data warehouse tables and combine them into multidimensional structures called cubes.
 >
@@ -3564,13 +3529,13 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=235)** These are just a few of the many business intelligence analysis applications that are available.
 >
-> **[4:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=240)** Each one brings different tools and approaches to the analysis of your data, and many of them are covered with specific courses on LinkedIn Learning.
+> **[4:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=240)** Each one brings different tools and approaches to the analysis of your data, and many of them are covered with specific courses on [[LinkedIn]] Learning.
 >
 > **[4:09](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/business-intelligence-applications?u=76281980&t=249)** I'd encourage you to do some research and identify the best option for your needs in order to fully take advantage of your data warehouse.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Business Intelligence (BI)|Business intelligence]] (6), [[Microsoft SQL Server|Sql server]] (5), [[Dashboards]] (3), power (3)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (6), [[Microsoft SQL Server|Sql server]] (5), [[Dashboards]] (3), [[Tableau]] (3), [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** sql (6), url (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3583,18 +3548,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=0)** - [Adam] I want to thank you for joining me as we explore data warehouses in SQL Server.
+> **[0:00](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=0)** - [Adam] I want to thank you for joining me as we explore data warehouses in [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=6)** Data warehouses are only one component of a larger business intelligence system so I'd like to leave you with a few suggestions on courses that you should consider adding to your personal learning watch list, and these will help give more context to the entire process.
+> **[0:06](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=6)** Data warehouses are only one component of a larger [[Business Intelligence (BI)|business intelligence]] system so I'd like to leave you with a few suggestions on courses that you should consider adding to your personal learning watch list, and these will help give more context to the entire process.
 >
 > **[0:21](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=21)** First, to move data into the warehouse, you'll need to be familiar with [[SQL Server Integration Services]].
 >
-> **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=27)** This is the component of SQL Server that you'll use to create ETL processes that'll move information out of individual transactional databases and transform it in preparation to load into the warehouse.
+> **[0:27](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=27)** This is the component of SQL Server that you'll use to create ETL processes that'll move information out of individual transactional [[Databases]] and transform it in preparation to load into the warehouse.
 >
 > **[0:40](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=40)** For more information on that component, check out my course [[SQL Server Integration Services]].
 >
@@ -3602,15 +3566,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=54)** For that, you could turn to my course on [[SQL Server- Reporting Services]] to format principal and mobile reports.
 >
-> **[1:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=61)** Or dive into [[Power Bi Essential Training]] to learn how to build interactive visualizations.
+> **[1:01](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=61)** Or dive into [[[[Microsoft Power BI|Power Bi]] Essential Training]] to learn how to build interactive visualizations.
 >
-> **[1:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=68)** Finally, you can find out more about cloud-hosted data warehouse options with [[Microsoft Azure Synapse for Developers]].
+> **[1:08](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=68)** Finally, you can find out more about cloud-hosted data warehouse options with [[[[Microsoft Azure]] Synapse for Developers]].
 >
 > **[1:16](https://www.linkedin.com/learning/implementing-a-data-warehouse-with-sql-server-2022/next-steps?u=76281980&t=76)** Until next time, I've been Adam Wilbert, and I hope you have a great day.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (5), [[Business Intelligence (BI)|Business intelligence]] (1), etl (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Business Intelligence (BI)|Business intelligence]] (1), [[Databases]] (1), [[Microsoft Power BI|Power bi]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** sql (5), etl (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)

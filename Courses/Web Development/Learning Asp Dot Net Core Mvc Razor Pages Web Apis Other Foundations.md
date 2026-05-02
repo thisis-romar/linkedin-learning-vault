@@ -107,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why you should learn ASP.NET Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980)
+#### [Why you should learn ASP.NET Core](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980&t=0)** - [ASP.NET](https://ASP.NET) Core is a huge topic.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980&t=0)** - [[[ASP.NET]]](https://ASP.NET) Core is a huge topic.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/why-you-should-learn-asp-dot-net-core?u=76281980&t=3)** Are you confused by all the different application types?
 >
@@ -132,20 +131,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (3), web (2), application (1), next (1), web application (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (3)
 > **Env Vars:** net (4), asp (3)
 > **URLs:** [asp.net](https://asp.net) (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - asp (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Here's what you should know to get the most out of this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=3)** A basic understanding of HTML would be helpful.
+> **[0:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=3)** A basic understanding of [[HTML]] would be helpful.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=7)** I'll be creating and showing you some very simple web-based user interfaces, but I'm not going to spend much time explaining the specific HTML.
 >
@@ -155,13 +153,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=29)** That's truly about it.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=31)** I've tried to keep the prerequisites to a minimum and focus on [ASP.NET](https://ASP.NET) Core.
+> **[0:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=31)** I've tried to keep the prerequisites to a minimum and focus on [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/what-you-need-to-know?u=76281980&t=36)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), web (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** html (2), asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - [instructor] (1)
@@ -171,12 +169,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the capabilities of ASP.NET Core
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980)
+#### [Understanding the capabilities of ASP.NET Core](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=0)** - Let me start by explaining how [ASP.NET](https://ASP.NET) Core fits in the net ecosystem.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=0)** - Let me start by explaining how [[[ASP.NET]]](https://ASP.NET) Core fits in the net ecosystem.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=6)** .NET has been around for well over 20 years and is a general purpose development platform that includes programming languages, libraries, and other tools to build all kinds of applications.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=33)** It and the web have evolved a lot over the years.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=36)** You can do a lot more with [ASP.NET](https://ASP.NET) Core now than just the basic rendering of HTML that was in some of the earliest versions.
+> **[0:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=36)** You can do a lot more with [ASP.NET](https://ASP.NET) Core now than just the basic rendering of [[HTML]] that was in some of the earliest versions.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=45)** Server rendered web applications are still an important part of the framework, but the capabilities and sophistication of the available libraries have grown significantly.
 >
@@ -216,13 +213,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=126)** gRPC is a cross-platform, remote procedure call framework.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=130)** The gRPC specification was originally developed by Google and is designed to support high performance services using multiple programming languages and development stacks.
+> **[2:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=130)** The gRPC specification was originally developed by [[Google]] and is designed to support high performance services using multiple programming languages and development stacks.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=141)** [ASP.NET](https://ASP.NET) Core includes excellent support for creating gRPC servers and clients.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=148)** SignalR is an [ASP.NET](https://ASP.NET) Core library that supports realtime web functionality, including server side code pushing content to clients instantly.
 >
-> **[2:38](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=158)** I'll talk more about how this works and show you how to create a SignalR server hub and JavaScript client later in the course.
+> **[2:38](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=158)** I'll talk more about how this works and show you how to create a SignalR server hub and [[JavaScript]] client later in the course.
 >
 > **[2:47](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=167)** The final [ASP.NET](https://ASP.NET) Core application type I'm going to cover in the course is Blazor.
 >
@@ -232,17 +229,17 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=190)** The last point I want to make regarding the capabilities of [ASP.NET](https://ASP.NET) Core is that it's open-source and cross platform.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=198)** Early versions of .NET and [ASP.NET](https://ASP.NET) only ran on Windows.
+> **[3:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=198)** Early versions of .NET and [ASP.NET](https://ASP.NET) only ran on [[Windows]].
 >
 > **[3:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=202)** Those days are long gone.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=204)** [ASP.NET](https://ASP.NET) Core is fully cross platform and works great on Windows, Mac, OS, and Linux.
+> **[3:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=204)** [ASP.NET](https://ASP.NET) Core is fully cross platform and works great on Windows, Mac, OS, and [[Linux]].
 >
 > **[3:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-the-capabilities-of-asp-dot-net-core?u=76281980&t=212)** Up next, I'll talk about some of the development tools commonly used when building [ASP.NET](https://ASP.NET) Core apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (13), web (8), [[JavaScript]] (3), [[Programming]] (2), [[ASP.NET]] (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (13), [[JavaScript]] (3), [[ASP.NET]] (2), [[Windows]] (2), [[HTML]] (1)
 > **Env Vars:** net (19), asp (15), api (2), html (1), mvc (1)
 > **URLs:** [asp.net](https://asp.net) (15)
 > **Definitions:** is a  (2), known as (2), is an  (1)
@@ -251,16 +248,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Documentation:** specification (1)
 
-#### ASP.NET Core development tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980)
+#### [ASP.NET Core development tools](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=0)** - [Instructor] There are only a couple of things you absolutely need to install before you can get started with [ASP.NET](https://ASP.NET) Core Development.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=0)** - [Instructor] There are only a couple of things you absolutely need to install before you can get started with [[[ASP.NET]]](https://ASP.NET) Core Development.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=7)** The first is the .NET SDK.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=10)** You can get that directly from Microsoft at dotnet.[microsoft.com](https://microsoft.com).
+> **[0:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=10)** You can get that directly from [[Microsoft]] at dotnet.[microsoft.com](https://microsoft.com).
 >
 > **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=16)** That site has downloads available for various .NET runtimes, but to create your own applications, you're going to need the SDK.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=76)** Professional and Enterprise require you to purchase a license, but the Community edition is free for students, open-source contributors, and individuals.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=86)** Visual Studio is a great development tool, but note that it only runs on Windows.
+> **[1:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=86)** Visual Studio is a great development tool, but note that it only runs on [[Windows]].
 >
 > **[1:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=92)** It also has lots of features and may feel overwhelming to a new developer or someone just getting started with [ASP.NET](https://ASP.NET) Core development.
 >
@@ -292,17 +288,17 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=108)** It's free, cross-platform and very extensible.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=113)** You can download versions for Windows, macOS, or Linux at code.[visualstudio.com](https://visualstudio.com).
+> **[1:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=113)** You can download versions for Windows, macOS, or [[Linux]] at code.[visualstudio.com](https://visualstudio.com).
 >
 > **[2:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=120)** It's a fast and lightweight editor right out of the box, but there are also thousands of extensions available for it that can help you accomplish just about any development task.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=131)** For [ASP.NET](https://ASP.NET) Core development, I'll recommend you also install the C# Dev Kit extension to give you lots of great syntax highlighting and other features to assist with .NET development.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=144)** If you're new to VS code or just want to learn more about it and fully utilize its features, you should check out another of my LinkedIn learning courses titled, Learning Visual Studio Code.
+> **[2:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=144)** If you're new to VS code or just want to learn more about it and fully utilize its features, you should check out another of my [[LinkedIn]] learning courses titled, Learning Visual Studio Code.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=156)** Okay, there are a couple of other important development tools I want to specifically mention, but they're both included with the .NET SDKs, so, you don't need to download or install them separately.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=168)** The first is the .NET Command line interface or CLI.
+> **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=168)** The first is the .NET Command line interface or [[CLI]].
 >
 > **[2:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/asp-dot-net-core-development-tools?u=76281980&t=173)** As its name suggests, it's a command line tool you'll run in your favorite terminal.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (6), [[Microsoft]] (3), [[Windows]] (2), open-source (1), cross-platform (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (6), [[Microsoft]] (3), [[Windows]] (2), [[Linux]] (1), [[LinkedIn]] (1)
 > **Env Vars:** net (13), asp (6), sdk (3), cli (1)
 > **URLs:** [asp.net](https://asp.net) (6), [microsoft.com](https://microsoft.com) (1), [visualstudio.com](https://visualstudio.com) (1)
 > **Tools:** visual studio (4), command line (2), vs code (1), terminal (1)
@@ -331,14 +327,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Code Identifiers:** macos (1)
 
-#### Create and run an ASP.NET Core application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980)
+#### [Create and run an ASP.NET Core application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=0)** - [Instructor] Let's now use the .NET CLI to create and run a new [ASP.NET](https://ASP.NET) Core application.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=0)** - [Instructor] Let's now use the .NET [[CLI]] to create and run a new [[[ASP.NET]]](https://ASP.NET) Core application.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=7)** I'm here in PowerShell on a Windows machine, but you can run the CLI from any terminal on macOS or Linux.
+> **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=7)** I'm here in [[Powershell]] on a [[Windows]] machine, but you can run the CLI from any terminal on macOS or [[Linux]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=15)** You invoke the CLI with the command dotnet You follow that with additional commands or options based on what you're trying to accomplish.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=151)** We're not going to spend much time there in this course.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=155)** The properties folder contains a file named launchsettings.json with some settings that determine how your app is run.
+> **[2:35](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=155)** The properties folder contains a file named launchsettings.[[JSON]] with some settings that determine how your app is run.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=162)** We'll look inside it in just a minute.
 >
@@ -478,11 +473,11 @@ created: 2026-05-02
 >
 > **[8:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=489)** You've now seen the basics of getting a simple [ASP.NET](https://ASP.NET) Core application up and running.
 >
-> **[8:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=495)** Up next, we'll add to this basic app and talk about the dependency injection system and how to use it to add additional services to the application.
+> **[8:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/create-and-run-an-asp-dot-net-core-application?u=76281980&t=495)** Up next, we'll add to this basic app and talk about the [[Dependency Injection]] system and how to use it to add additional services to the application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), web (6), [[CLI]] (4), [[ASP.NET Core]] (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[CLI]] (4), [[ASP.NET Core]] (4), [[JSON]] (3), [[Powershell]] (1), [[Windows]] (1)
 > **Env Vars:** url (10), net (8), http (6), cli (4), asp (4)
 > **Tools:** terminal (5), vs code (3), powershell (1)
 > **CLI Commands:** dotnet (4), make (1)
@@ -491,8 +486,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **File Paths:** launchsettings.json (3)
 
-#### Configuring dependency injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980)
+#### [Configuring dependency injection](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,11 +494,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=12)** We'll talk about middleware in the next movie.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=14)** Right now, I want to focus on how to inject services into your [ASP.NET](https://ASP.NET) Core applications.
+> **[0:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=14)** Right now, I want to focus on how to inject services into your [[[ASP.NET]]](https://ASP.NET) Core applications.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=20)** First, when I talk about injecting services, I'm not talking about web services, but rather discrete pieces of functionality I want to make available in the app.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=30)** These types of services are injected via the built-in dependency injection system.
+> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=30)** These types of services are injected via the built-in [[Dependency Injection]] system.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=37)** I'm not going to dive too deeply into this, but I do want to provide a quick overview of dependency injection in case this topic is new to you.
 >
@@ -528,7 +522,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=113)** You can see here that the services property on the web application builder object is an IServiceCollection.
 >
-> **[2:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=120)** The naming convention for the extension methods that add groups of services is the word add, followed by the name of the service group.
+> **[2:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=120)** The naming convention for the extension methods that add groups of services is the [[Microsoft Word|word]] add, followed by the name of the service group.
 >
 > **[2:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=131)** For instance, I'll start to type add, and you can see the code completion help brings up a long list of extension methods that will register lots of interesting new functionality for my app.
 >
@@ -548,7 +542,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=214)** I don't want to run the app again just yet, but I do want to make sure it still builds successfully.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=219)** So I'll quickly show you another .NET CLI command.
+> **[3:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=219)** So I'll quickly show you another .NET [[CLI]] command.
 >
 > **[3:44](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/configuring-dependency-injection?u=76281980&t=224)** If you want to build your project without running it, you can just type dotnet build.
 >
@@ -560,7 +554,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Dependency Injection]] (3), next (2), web application (2), web (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Dependency Injection]] (3), [[Microsoft Word|Word]] (1), [[CLI]] (1)
 > **Env Vars:** net (5), asp (4), ioc (1), cli (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **CLI Commands:** make (2), dotnet (1)
@@ -569,8 +563,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 
-#### Using middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980)
+#### [Using middleware](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,7 +577,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=32)** The middleware can manipulate the request and responses by doing things such as adding headers, enforcing authentication rules, and much more.
 >
-> **[0:43](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=43)** There's lots of middleware built into [ASP.NET](https://ASP.NET) Core that you can add to your app with a simple function call.
+> **[0:43](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=43)** There's lots of middleware built into [[[ASP.NET]]](https://ASP.NET) Core that you can add to your app with a simple function call.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=50)** You can also add your own custom middleware.
 >
@@ -600,9 +593,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=88)** If it is development, I'll call the UseDeveloperExceptionPage function on the WebApplication object.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=100)** I mentioned earlier that the convention for adding services to the dependency injection system is to call a function named add, followed by the group of services you're adding.
+> **[1:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=100)** I mentioned earlier that the convention for adding services to the [[Dependency Injection]] system is to call a function named add, followed by the group of services you're adding.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=111)** The conventional name for functions that add middleware start with the word Use.
+> **[1:51](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=111)** The conventional name for functions that add middleware start with the [[Microsoft Word|word]] Use.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=117)** UseDeveloperExceptionPage will add middleware to the HTTP pipeline that automatically displays an exception page designed for developers if an exception is encountered.
 >
@@ -686,13 +679,13 @@ created: 2026-05-02
 >
 > **[7:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=446)** First up will be Razor Pages applications.
 >
-> **[7:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=449)** They're are popular choice for server rendered applications, and a great way to get some experience with the Razor syntax, which lets you combine C# code with HTML.
+> **[7:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=449)** They're are popular choice for server rendered applications, and a great way to get some experience with the Razor syntax, which lets you combine C# code with [[HTML]].
 >
 > **[7:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-middleware?u=76281980&t=459)** Stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[ASP.NET Core]] (4), application (4), [[Microsoft Word|Word]] (2), web (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[Microsoft Word|Word]] (2), [[Dependency Injection]] (1), [[HTML]] (1)
 > **Env Vars:** http (8), asp (4), net (4), url (1), f12 (1)
 > **URLs:** [asp.net](https://asp.net) (4)
 > **UI Navigation:** open the (3)
@@ -706,16 +699,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Razor Pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980)
+#### [Understanding Razor Pages](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=0)** - [Instructor] Razor Pages applications are probably the most productive way to get started building server rendered apps with [ASP.NET](https://ASP.NET) Core.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=0)** - [Instructor] Razor Pages applications are probably the most productive way to get started building server rendered apps with [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=8)** As the name suggests, Razor Pages projects are structured around the pages of a website, and the functionality of each page is reasonably self-contained usually within one or two files.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=20)** Let's create a new Razor Pages project with the .NET CLI and take a look at how they're structured and configured.
+> **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=20)** Let's create a new Razor Pages project with the .NET [[CLI]] and take a look at how they're structured and configured.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=28)** I'll create a new project with the command, dotnet new.
 >
@@ -745,11 +737,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=119)** Webpages in a Razor Pages app have the file extension, .cshtml.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=126)** That's used to denote a file that contains the Razor syntax, which is a combination of C# and HTML.
+> **[2:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=126)** That's used to denote a file that contains the Razor syntax, which is a combination of C# and [[HTML]].
 >
 > **[2:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=134)** The default homepage for a new Razor Pages application will be in a file named index.cshtml.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=143)** If you've done any web development before, you'll quickly notice that this file doesn't look like a typical HTML file.
+> **[2:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=143)** If you've done any [[Web Development]] before, you'll quickly notice that this file doesn't look like a typical HTML file.
 >
 > **[2:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=150)** There's a div tag and a few other HTML tags down at the bottom, but there's no root HTML tag and no body tag.
 >
@@ -757,7 +749,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=164)** Over the next few movies, I'm going to explain all of this, so hang in there.
 >
-> **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=168)** Let's start at the top of this file with the line of code that contains an @ symbol followed by the word page.
+> **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=168)** Let's start at the top of this file with the line of code that contains an @ symbol followed by the [[Microsoft Word|word]] page.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-razor-pages?u=76281980&t=175)** This is a directive, specifically it's the page directive.
 >
@@ -799,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), [[CLI]] (2), web (2), next (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[CLI]] (2), [[Microsoft Word|Word]] (2), [[ASP.NET Core]] (1), [[Web Development]] (1)
 > **Env Vars:** html (6), net (2), cli (2), asp (1), http (1)
 > **Definitions:** is a  (5)
 > **Cross-References:** later in (1), in the next (1)
@@ -808,12 +800,11 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Tools:** vs code (1)
 
-#### Using Razor syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980)
+#### [Using Razor syntax](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=0)** - [Instructor] Razor syntax allows you to embed entire C# code blocks in your pages, as well as simple C# expressions that will be evaluated and rendered as HTML before being sent back to the browser.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=0)** - [Instructor] Razor syntax allows you to embed entire C# code blocks in your pages, as well as simple C# expressions that will be evaluated and rendered as [[HTML]] before being sent back to the browser.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=14)** This default index page we looked at in the last movie already has a C# code block in it just after the page and Model directives.
 >
@@ -887,7 +878,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=230)** (keys clicking) Before we go any further, I'll quickly run this in the terminal so we can take a look at the updated page.
 >
-> **[4:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=240)** I'll also show you another CLI command that will run your app and have it watch for new code changes so you don't have to keep stopping and restarting it with each update.
+> **[4:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=240)** I'll also show you another [[CLI]] command that will run your app and have it watch for new code changes so you don't have to keep stopping and restarting it with each update.
 >
 > **[4:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-razor-syntax?u=76281980&t=250)** Instead of dotnet run, I'll start it with the command dotnet watch.
 >
@@ -975,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), data (5), [[CLI]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5), [[CLI]] (1)
 > **Non-Speech:** (keys clicking) (19)
 > **Env Vars:** html (5), cli (1)
 > **Cross-References:** in the last (2), go back to (2), coming up (1)
@@ -984,12 +975,11 @@ created: 2026-05-02
 > **CLI Commands:** dotnet (2)
 > **Tools:** terminal (2)
 
-#### Implementing page layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980)
+#### [Implementing page layouts](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=0)** - [Instructor] Let's now talk about how relatively small snippets of HTML, like those we've seen in our Razor pages, get turned into complete and syntactically valid HTML pages.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=0)** - [Instructor] Let's now talk about how relatively small snippets of [[HTML]], like those we've seen in our Razor pages, get turned into complete and syntactically valid HTML pages.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=12)** Here I've opened the index.cshtml file I was experimenting with in the previous movie.
 >
@@ -1005,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=49)** Most sites have page elements that are the same throughout most or all of the site.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=54)** This can include headers, footers, navigation menus, and even references to style sheets and JavaScript files.
+> **[0:54](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=54)** This can include headers, footers, navigation menus, and even references to style sheets and [[JavaScript]] files.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=62)** Those common elements are stored in layout files.
 >
@@ -1059,7 +1049,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=259)** I do that with the section directive.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=262)** That starts with an at sign, followed by the word section.
+> **[4:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=262)** That starts with an at sign, followed by the [[Microsoft Word|word]] section.
 >
 > **[4:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=268)** I then need to give the section a name.
 >
@@ -1135,7 +1125,7 @@ created: 2026-05-02
 >
 > **[9:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=551)** Lastly, I'll remove all of the script tags at the bottom as well as the call to RenderSectionAsync that renders the page's Scripts section.
 >
-> **[9:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=563)** I now want to update the included privacy page to use this layout instead of the one in the default layout file.
+> **[9:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=563)** I now want to update the included [[Privacy]] page to use this layout instead of the one in the default layout file.
 >
 > **[9:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-page-layouts?u=76281980&t=571)** I'll do that in the Privacy.cshtml file.
 >
@@ -1155,7 +1145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), [[JavaScript]] (4), [[Privacy]] (3), application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[JavaScript]] (4), [[Privacy]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (10)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (2), open the (1), select the (1), scroll up (1)
@@ -1164,12 +1154,11 @@ created: 2026-05-02
 > **File Paths:** site.js (1)
 > **Analogies:** imagine (1)
 
-#### Routing to pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980)
+#### [Routing to pages](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=0)** - [Instructor] In order to successfully receive HTTP request, and present your users with the page they're hoping to find, [asp.net](https://asp.net) core has to implement a routing system.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=0)** - [Instructor] In order to successfully receive HTTP request, and present your users with the page they're hoping to find, [[[ASP.NET]]](https://asp.net) core has to implement a [[Routing]] system.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=11)** The job of the routing system is to look at the HTTP request, including the URL, HTTP verb and other request properties, and determine what page in the application should handle that request.
 >
@@ -1179,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=49)** [Asp.net](https://Asp.net) core will look at the URL requested, and see if it can find a page in the pages folder that matches the first segment of the URL after the host and port number.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=62)** This app currently has an index page, an error page and a privacy page.
+> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=62)** This app currently has an index page, an error page and a [[Privacy]] page.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=67)** I've already got the app running here in a browser.
 >
@@ -1217,7 +1206,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=212)** I'll first create a folder named engineering, and at the same time create a pages folder inside it.
 >
-> **[3:43](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=223)** Let's also imagine I want a human resources area, so I'll also create an HR folder with a pages folder inside it.
+> **[3:43](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=223)** Let's also imagine I want a [[Human Resources (HR)|human resources]] area, so I'll also create an HR folder with a pages folder inside it.
 >
 > **[3:55](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=235)** When [asp.net](https://asp.net) core is looking for the pages being requested, this area's folder is one of the default places it will look.
 >
@@ -1231,7 +1220,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=270)** I could also copy and paste an existing file, and make the necessary adjustments.
 >
-> **[4:35](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=275)** However, the option I want to demonstrate for you is adding new pages with the .NET CLI.
+> **[4:35](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=275)** However, the option I want to demonstrate for you is adding new pages with the .NET [[CLI]].
 >
 > **[4:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=281)** I'll first add a new page to the engineering area.
 >
@@ -1257,7 +1246,7 @@ created: 2026-05-02
 >
 > **[5:59](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=359)** I'll quickly add a line of content to the page.
 >
-> **[6:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=361)** I'll create an H1 tag with just a greeting from the web development team.
+> **[6:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=361)** I'll create an H1 tag with just a greeting from the [[Web Development]] team.
 >
 > **[6:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/routing-to-pages?u=76281980&t=371)** I'll quickly add something similar to the new HR index page.
 >
@@ -1291,7 +1280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (7), [[ASP.NET Core]] (5), [[Routing]] (5), [[Privacy]] (5), hr (4)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (5), [[Routing]] (5), [[Privacy]] (5), [[Human Resources (HR)|Human resources]] (1), [[CLI]] (1)
 > **Env Vars:** url (12), http (5), net (2), cli (1)
 > **URLs:** [asp.net](https://asp.net) (5)
 > **Cross-References:** go back to (2), previous chapter (1), coming up (1), in the next (1)
@@ -1300,30 +1289,29 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **UI Navigation:** go to (1)
 
-#### Creating links with tag helpers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980)
+#### [Creating links with tag helpers](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=0)** - [Instructor] Before I show you some additional routing techniques, I want to create and fix some links from the previous movie using tag helpers.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=0)** - [Instructor] Before I show you some additional [[Routing]] techniques, I want to create and fix some links from the previous movie using tag helpers.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=8)** Tag helpers are small bits of Razor markup that assist in creating HTML markup for your pages.
+> **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=8)** Tag helpers are small bits of Razor markup that assist in creating [[HTML]] markup for your pages.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=15)** There are built in tag helpers to help you create image tags, forms, script tags, validation messages, and more.
+> **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=15)** There are built in tag helpers to help you create image tags, [[Forms]], script tags, validation messages, and more.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=24)** They look a lot like standard HTML and usually take the form of additional attributes you add to standard HTML elements.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=32)** Because I need to add and update some links, I'm going to show you some examples using the anchor tag helper.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=39)** In the last movie, I moved the Privacy page into a new folder inside the root Pages folder.
+> **[0:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=39)** In the last movie, I moved the [[Privacy]] page into a new folder inside the root Pages folder.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=46)** As a result, the links on the page no longer work.
 >
 > **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=49)** Clicking on it just leaves me here on the homepage.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=52)** I want to fix that and I also want to add new links to the navigation at the top for the Engineering and Human Resources pages I created.
+> **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=52)** I want to fix that and I also want to add new links to the navigation at the top for the Engineering and [[Human Resources (HR)|Human Resources]] pages I created.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=61)** Finally, I want to add a link to the official [asp.net](https://asp.net) core site when I reference the other project types here on the homepage.
+> **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=61)** Finally, I want to add a link to the official [[[ASP.NET]]](https://asp.net) core site when I reference the other project types here on the homepage.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=69)** I've already got the layout page open here in VS Code.
 >
@@ -1335,7 +1323,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=89)** It uses the standard ahtml element.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=93)** It's got a CSS class applied to it, and before the closing tag, you can see the text for the link, just the word privacy.
+> **[1:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=93)** It's got a CSS class applied to it, and before the closing tag, you can see the text for the link, just the [[Microsoft Word|word]] privacy.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=101)** The tag helper parts are the two additional attributes on the element.
 >
@@ -1415,7 +1403,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=362)** It does in fact take me to the main [asp.net](https://asp.net) core site.
 >
-> **[6:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=366)** The URL in the address bar is different because Microsoft is doing some redirection from the [asp.net](https://asp.net) host, but it got me where I wanted to be.
+> **[6:06](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=366)** The URL in the address bar is different because [[Microsoft]] is doing some redirection from the [asp.net](https://asp.net) host, but it got me where I wanted to be.
 >
 > **[6:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-links-with-tag-helpers?u=76281980&t=375)** The anchor tag helper is just one of many tag helpers that can help you create more maintainable markup in your pages.
 >
@@ -1425,7 +1413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (8), [[Engineering]] (6), [[Human Resources (HR)|Human resources]] (5), [[ASP.NET Core]] (4), [[HTML]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Human Resources (HR)|Human resources]] (5), [[ASP.NET Core]] (4), [[HTML]] (3), [[Microsoft Word|Word]] (3)
 > **URLs:** [asp.net](https://asp.net) (6)
 > **Env Vars:** html (3), css (1), url (1)
 > **Cross-References:** in the last (2)
@@ -1433,8 +1421,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binding to data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980)
+#### [Binding to data](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1460,13 +1447,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=69)** I'll call the first route parameter for this page, "name" I'll then use a literal forward slash to separate it from the next parameter, which I'll call "id".
 >
-> **[1:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=80)** As this is currently written, both of those additional URL segments will be required and [ASP.NET](https://ASP.NET) Core will not match a route to this page without them.
+> **[1:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=80)** As this is currently written, both of those additional URL segments will be required and [[[ASP.NET]]](https://ASP.NET) Core will not match a route to this page without them.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=91)** Let's imagine I want them to be optional segments.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=94)** I can implement that by adding a question mark after the parameter names.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=101)** So the way this works is [ASP.NET](https://ASP.NET) Core will use its routing algorithms to determine what page matches the requested URL.
+> **[1:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=101)** So the way this works is [ASP.NET](https://ASP.NET) Core will use its [[Routing]] [[Algorithms]] to determine what page matches the requested URL.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=110)** When this page matches the URL segments after the page name if present, will be interpreted as these name and ID parameters.
 >
@@ -1498,7 +1485,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=227)** I'll now switch back to my browser and try it out.
 >
-> **[3:51](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=231)** I'll click the human resources link and we only see the generic message.
+> **[3:51](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=231)** I'll click the [[Human Resources (HR)|human resources]] link and we only see the generic message.
 >
 > **[3:56](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/binding-to-data?u=76281980&t=236)** And if you look at the address bar, you don't see the additional URL segments for name and id.
 >
@@ -1540,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[ASP.NET Core]] (2), web application (1), hr (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Routing]] (1), [[Algorithms]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** url (7), asp (2), net (2), http (1)
 > **Exercise Files:** template (4)
 > **Analogies:** imagine (1), just like (1), similar to (1)
@@ -1549,8 +1536,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Create a Razor Pages application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980)
+#### [Challenge: Create a Razor Pages application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1562,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980&t=21)** In the next movie, I'll show you how I went about solving the challenge.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980&t=25)** Start by using the .NET CLI to create a new project with the Razor Pages application template.
+> **[0:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980&t=25)** Start by using the .NET [[CLI]] to create a new project with the Razor Pages application template.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-razor-pages-application?u=76281980&t=32)** The functionality and features aren't that important for the purposes of this challenge, but if you have an app you already know you want to build or one you've built before, feel free to use it here.
 >
@@ -1586,7 +1572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[CLI]] (1), application (1)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** net (1), cli (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1595,14 +1581,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a Razor Pages application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980)
+#### [Solution: Create a Razor Pages application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=0)** (Electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=5)** - [Speaker] The first step to solving this challenge is to create a new razor pages project with the dot net CLI.
+> **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=5)** - [Speaker] The first step to solving this challenge is to create a new razor pages project with the dot net [[CLI]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=12)** I'll do that here in my terminal with the [command.net](https://command.net) new web app.
 >
@@ -1638,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=114)** (no speaking here)
 >
-> **[2:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=128)** Remember that to transition from HTML to C sharp, you use the at symbol.
+> **[2:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=128)** Remember that to transition from [[HTML]] to C sharp, you use the at symbol.
 >
 > **[2:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=133)** I'm using it here to begin my for each loop as well as to reference the property on the page model class, and display the value of the book loop variable.
 >
@@ -1674,11 +1659,11 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=260)** It looks good so far.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=262)** The new books link appears next to the privacy link on the navigation bar.
+> **[4:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=262)** The new books link appears next to the [[Privacy]] link on the navigation bar.
 >
 > **[4:27](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=267)** I'll click it and the page loads and correctly presents the section welcome message and the list of fake book titles stored on the page model class.
 >
-> **[4:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=276)** Razor pages apps are a great way to get started with [asp.net](https://asp.net) core development.
+> **[4:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=276)** Razor pages apps are a great way to get started with [[[ASP.NET]]](https://asp.net) core development.
 >
 > **[4:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-razor-pages-application?u=76281980&t=281)** I hope you'll continue to experiment with the features I've shown you and try out more advanced features as you gain more experience.
 >
@@ -1690,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (2), next (2), web (1), [[Programming]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[HTML]] (1), [[Privacy]] (1), [[ASP.NET Core]] (1)
 > **Tools:** terminal (3), vs code (3)
 > **UI Navigation:** open the (3), go to (1), scroll down (1)
 > **Env Vars:** cli (2), html (1), cshtml (1)
@@ -1704,8 +1689,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Model-View-Controller applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980)
+#### [Understanding Model-View-Controller applications](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1733,7 +1717,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980&t=69)** They're also where you want to store your business logic.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980&t=72)** The controller does a lot of processing, but that should really be limited to handling routing and the coordination between the models and views.
+> **[1:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980&t=72)** The controller does a lot of processing, but that should really be limited to handling [[Routing]] and the coordination between the models and views.
 >
 > **[1:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-model-view-controller-applications?u=76281980&t=80)** The actual business logic for your application should be contained inside the model classes.
 >
@@ -1799,7 +1783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), application (4), business (3), web (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** mvc (13), http (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** make (1), find (1), dotnet (1)
@@ -1808,8 +1792,7 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **UI Navigation:** switch to (1)
 
-#### Handling requests with controllers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980)
+#### [Handling requests with controllers](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1823,7 +1806,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=26)** The first job of controllers is to receive HTTP requests.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=30)** The routing configuration for your app is what directs requests to specific controllers and specific methods on those controllers.
+> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=30)** The [[Routing]] configuration for your app is what directs requests to specific controllers and specific methods on those controllers.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=39)** Near the end of this file, there's a call to MapControllerRoute that defines the route template that will be used to route requests to specific controllers and methods.
 >
@@ -1857,7 +1840,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=136)** The first thing I want to point out is the name of the class itself.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=140)** By convention, Controller classes include the word Controller as a suffix on the class name.
+> **[2:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=140)** By convention, Controller classes include the [[Microsoft Word|word]] Controller as a suffix on the class name.
 >
 > **[2:27](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=147)** Also, notice that this class inherits from a built-in class named Controller.
 >
@@ -1869,7 +1852,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=168)** Using the routing template defined in Program.cs, HTTP requests sent to /Home/Index will be handled by this Index method.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=178)** Requests to /Home/Privacy will be handled by the Privacy method.
+> **[2:58](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=178)** Requests to /Home/[[Privacy]] will be handled by the Privacy method.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=184)** Additional route parameters could be received by these methods as part of the data binding process I talked about in the previous chapter.
 >
@@ -1879,7 +1862,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=203)** The Index and Privacy methods here just call the View method inherited from the Controller class and return the value it returns, which is a valid implementation of the IActionResult interface named ViewResult.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=219)** [ASP.net](https://ASP.net) Core will search for a view with the same name as the action method, so if a request is routed to the Index action method, then it will search for a view named Index.cshtml.
+> **[3:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=219)** [[[ASP.NET]]](https://ASP.net) Core will search for a view with the same name as the action method, so if a request is routed to the Index action method, then it will search for a view named Index.cshtml.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=232)** It will look for that file first in a sub-folder of the Views folder named after the controller.
 >
@@ -1903,7 +1886,7 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=311)** One option for creating new controllers is just to manually add a new file and start writing your controller code.
 >
-> **[5:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=318)** Another option is to use a controller template available with the .NET CLI.
+> **[5:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=318)** Another option is to use a controller template available with the .NET [[CLI]].
 >
 > **[5:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/handling-requests-with-controllers?u=76281980&t=323)** That's the option I'm going to show you.
 >
@@ -1943,7 +1926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (5), data (4), [[Routing]] (2), application (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Routing]] (2), [[Microsoft Word|Word]] (1), [[ASP.NET Core]] (1), [[CLI]] (1)
 > **Env Vars:** http (4), url (4), mvc (2), asp (1), net (1)
 > **Exercise Files:** template (12)
 > **Definitions:** is a  (4), is an  (2), known as (1)
@@ -1952,8 +1935,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (2)
 > **Analogies:** for instance (1), imagine (1)
 
-#### Working with MVC models
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/working-with-mvc-models?u=76281980)
+#### [Working with MVC models](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/working-with-mvc-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1999,7 +1981,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), database (1), web (1), next (1)
 > **Env Vars:** mvc (2), app (1), explorer (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** find (1)
@@ -2007,8 +1988,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rendering MVC views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980)
+#### [Rendering MVC views](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2020,7 +2000,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=28)** The call to the view method on line 11 above isn't past any parameters.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=33)** Therefore, [ASP.NET](https://ASP.NET) Core will attempt to locate a view named Index.cshtml and the view will not be passed any model data.
+> **[0:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=33)** Therefore, [[[ASP.NET]]](https://ASP.NET) Core will attempt to locate a view named Index.cshtml and the view will not be passed any model data.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=43)** For the current project's view, I will also let [ASP.NET](https://ASP.NET) Core look for a view with the same name as the action method, but I want it to be able to use the EngineeringDepartment instance as its view model.
 >
@@ -2030,7 +2010,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=76)** That's all the code I need to add to this action method, but I haven't yet created either of the views used by this controller.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=84)** There's a .NET CLI command to create views, but this time I'll show you the manual way to create them.
+> **[1:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=84)** There's a .NET [[CLI]] command to create views, but this time I'll show you the manual way to create them.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=90)** The first thing I'll do is create a new folder inside the views folder named Engineering.
 >
@@ -2044,7 +2024,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=137)** I'll add another new file to the Engineering folder and name this one CurrentProjects.cshtml.
 >
-> **[2:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=148)** Here I want to render the contents of the current software projects array from the EngineeringDepartment model class.
+> **[2:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=148)** Here I want to render the contents of the current [[Software Projects]] array from the EngineeringDepartment model class.
 >
 > **[2:35](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=155)** In the previous chapter while working with razor pages, I showed you that you used the @Model directive inside the page to specify a model to be used with the page.
 >
@@ -2068,7 +2048,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=240)** I want them to appear in the navigation bar for all routes, so I'll add them to the _Layout.cshtml file in the views shared folder.
 >
-> **[4:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=251)** I'll copy and paste the li element for the privacy link and use it to create the two new links.
+> **[4:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=251)** I'll copy and paste the li element for the [[Privacy]] link and use it to create the two new links.
 >
 > **[4:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/rendering-mvc-views?u=76281980&t=269)** The first one will link to the index action on the EngineeringController.
 >
@@ -2108,7 +2088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (9), [[ASP.NET Core]] (2), [[Software Projects]] (2), data (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Software Projects]] (2), [[CLI]] (1), [[Privacy]] (1)
 > **Env Vars:** mvc (5), net (3), asp (2), url (2), cli (1)
 > **CLI Commands:** make (1), dotnet (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -2116,8 +2096,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a MVC application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980)
+#### [Challenge: Create a MVC application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2106,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980&t=9)** I'm going to stick with an app to manage books, but you should feel free to create an app in whatever domain you prefer.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980&t=16)** Start by using the .NET CLI to create a new application using the MVC project template.
+> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980&t=16)** Start by using the .NET [[CLI]] to create a new application using the MVC project template.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-mvc-application?u=76281980&t=23)** Add to your project a model class to retrieve and store information about books or whatever domain type you want to use in your app.
 >
@@ -2145,21 +2124,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (3), application (2), data (2), next (1)
+> **Frameworks & Libraries:** [[CLI]] (3)
 > **Env Vars:** cli (3), mvc (2), net (2), http (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright, upbeat music) (1)
 
-#### Solution: Create a MVC application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980)
+#### [Solution: Create a MVC application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=0)** - [Instructor] Let me now show you how I'll solve the challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=8)** I'll first create a new project in my terminal using the dotnet cli.
+> **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=8)** I'll first create a new project in my terminal using the dotnet [[CLI]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=13)** Remember that the short name used to create a new MVC app is just MVC.
 >
@@ -2239,7 +2217,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=296)** The first view will be named allbooks.cshtml.
 >
-> **[5:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=303)** I'll add an HTML header explaining that this will present a list of all books in the library.
+> **[5:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=303)** I'll add an [[HTML]] header explaining that this will present a list of all books in the library.
 >
 > **[5:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=315)** I'll then use Razor syntax to add a four each loop to print out all of the books in the library property on the model.
 >
@@ -2253,7 +2231,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=358)** Let's now add links to the new routes inside the main layout page.
 >
-> **[6:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=363)** Rather than create new links this time, I think I'll just update the home and privacy links on the navigation bar to the new routes.
+> **[6:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=363)** Rather than create new links this time, I think I'll just update the home and [[Privacy]] links on the navigation bar to the new routes.
 >
 > **[6:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-mvc-application?u=76281980&t=371)** On the first one, I'll change the ASP controller attribute to Books and leave ASP action set to Index.
 >
@@ -2293,7 +2271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[CLI]] (2), application (1), data (1), database (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[HTML]] (1), [[Privacy]] (1)
 > **Env Vars:** mvc (3), asp (3), cli (1), html (1), url (1)
 > **CLI Commands:** dotnet (5), find (1), make (1)
 > **Tools:** terminal (2), vs code (1)
@@ -2307,12 +2285,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding controller-based APIs and minimal APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980)
+#### [Understanding controller-based APIs and minimal APIs](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=0)** - [Instructor] In addition to standalone server-rendered web applications, [ASP.NET](https://ASP.NET) Core is also great at helping you develop web APIs to deliver data to other applications.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=0)** - [Instructor] In addition to standalone server-rendered web applications, [[[ASP.NET]]](https://ASP.NET) Core is also great at helping you develop web APIs to deliver data to other applications.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=12)** There are two different web API project types, controller-based APIs and minimal APIs.
 >
@@ -2320,7 +2297,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=23)** Both are designed to work over HTTP and can be used to build RESTful APIs.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=30)** REST stands for Representational State Transfer, and is an architectural pattern that uses HTTP verbs and status codes, along with other requests and response elements to manage application data.
+> **[0:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=30)** [[Representational State Transfer (REST)|REST]] stands for [[Representational State Transfer (REST)|Representational State Transfer]], and is an architectural pattern that uses HTTP verbs and status codes, along with other requests and response elements to manage application data.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=44)** Both types of Web API can serve data to just about any client application.
 >
@@ -2334,7 +2311,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=78)** You'll find that these are structured and work a lot like Model-View-Controller apps without the View.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=84)** Instead of a View, they generally just return data in the JSON format.
+> **[1:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=84)** Instead of a View, they generally just return data in the [[JSON]] format.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=90)** Minimal web APIs don't use controllers.
 >
@@ -2342,7 +2319,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=96)** The handlers for your HTTP request are usually Lambda expressions.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=101)** These will look and feel familiar to you if you've ever done Node.js development with the Express framework.
+> **[1:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=101)** These will look and feel familiar to you if you've ever done [[Node.js]] development with the Express framework.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-controller-based-apis-and-minimal-apis?u=76281980&t=108)** The functionality available in the two web API project types is similar, but not identical.
 >
@@ -2352,7 +2329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), data (5), api (5), [[ASP.NET Core]] (2), application (2)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Node.js]] (1)
 > **Env Vars:** api (5), http (4), asp (2), net (2), json (2)
 > **CLI Commands:** make (1), find (1), node (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -2361,16 +2338,15 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating controller-based Web APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980)
+#### [Creating controller-based Web APIs](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=0)** - [Instructor] Let's now focus our attention on controller-based web APIs.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=5)** Before I create a new project, let's use the .NET CLI to review some of the options for creating new web APIs.
+> **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=5)** Before I create a new project, let's use the .NET [[CLI]] to review some of the options for creating new web APIs.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=12)** I'll bring up a list of the available [asp.net](https://asp.net) core project templates with the dotnet new list [asp.net](https://asp.net).
+> **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=12)** I'll bring up a list of the available [[[ASP.NET]]](https://asp.net) core project templates with the dotnet new list [asp.net](https://asp.net).
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=23)** The third template in the list is the one we're interested in.
 >
@@ -2410,7 +2386,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=151)** Notice here on line five that this controller-based web API project instead calls a method named AddControllers.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=159)** Routing is also configured a little differently.
+> **[2:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=159)** [[Routing]] is also configured a little differently.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=162)** The MVC app configured routing by calling a method named MapControllerRoute and passed in a pattern used to route incoming URLs to a specific controller and action methods.
 >
@@ -2514,7 +2490,7 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=503)** Now you can see the output returned from the server.
 >
-> **[8:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=506)** The random five-day forecast was automatically serialized to the JSON data format.
+> **[8:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=506)** The random five-day forecast was automatically serialized to the [[JSON]] data format.
 >
 > **[8:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-controller-based-web-apis?u=76281980&t=512)** This isn't terribly useful to view in a browser, but it's a great way to serve data to other apps that can easily consume JSON data.
 >
@@ -2528,7 +2504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (18), web (7), [[Routing]] (4), data (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Routing]] (4), [[JSON]] (2), [[CLI]] (1), [[ASP.NET Core]] (1), [[ASP.NET]] (1)
 > **Env Vars:** api (14), mvc (8), url (7), http (5), json (2)
 > **Exercise Files:** template (10)
 > **CLI Commands:** dotnet (4), make (1)
@@ -2537,14 +2513,13 @@ created: 2026-05-02
 > **Cross-References:** previous chapter (2), in the next (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 
-#### Creating minimal Web APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980)
+#### [Creating minimal Web APIs](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=0)** - [Instructor] Minimal web APIs let you implement most of the functionality available in controller-based APIs, but with minimal files and dependencies.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=9)** Let's go ahead and create one with the .NET CLI.
+> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=9)** Let's go ahead and create one with the .NET [[CLI]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=13)** I'll use the same command I did to create a controller-based API, .NET new webAPI.
 >
@@ -2640,7 +2615,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=369)** The URL I defined for the weather forecast endpoint was /API /weatherforecast /5day, so I'll add that in the address bar.
 >
-> **[6:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=384)** That did correctly return the random five day forecast serialized to JSON.
+> **[6:24](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=384)** That did correctly return the random five day forecast serialized to [[JSON]].
 >
 > **[6:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=389)** Let's now try the second endpoint that takes a route parameter.
 >
@@ -2652,21 +2627,21 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=415)** But you can see it did echo back the value I passed as a route parameter.
 >
-> **[7:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=420)** Minimal web APIs are great for microservices, prototypes, or any service you want to get working quickly.
+> **[7:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=420)** Minimal web APIs are great for [[Microservices]], prototypes, or any service you want to get working quickly.
 >
 > **[7:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=427)** I hope you'll give them a try.
 >
-> **[7:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=428)** Sending test requests to either type of [asp.net](https://asp.net) core API with a browser, as I've been doing, isn't ideal.
+> **[7:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=428)** Sending test requests to either type of [[[ASP.NET]]](https://asp.net) core API with a browser, as I've been doing, isn't ideal.
 >
 > **[7:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=436)** You could view some requests or response details if you opened up the browser dev tools, but it's also awkward to submit requests with anything but the HTTP Get verb using a browser.
 >
-> **[7:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=448)** Thankfully, Microsoft has included a built-in tool called Swagger to make testing your APIs a little easier.
+> **[7:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=448)** Thankfully, [[Microsoft]] has included a built-in tool called Swagger to make testing your APIs a little easier.
 >
 > **[7:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-minimal-web-apis?u=76281980&t=456)** I'll show you that next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), web (3), web application (2), next (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[CLI]] (1), [[Microservices]] (1), [[ASP.NET Core]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (12), url (8), net (2), http (2), json (2)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** in the next (1), in the last (1), as you saw (1)
@@ -2675,8 +2650,7 @@ created: 2026-05-02
 > **Code Identifiers:** webapi (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 
-#### Using Swagger to test Web APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980)
+#### [Using Swagger to test Web APIs](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2688,7 +2662,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=22)** You can read more about the Swagger project at [swagger.io](https://swagger.io).
 >
-> **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=26)** What I'm going to show you in this demo is an embedded version of the Swagger UI that can be hosted inside your [ASP.NET](https://ASP.NET) Core web API projects.
+> **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=26)** What I'm going to show you in this demo is an embedded version of the Swagger UI that can be hosted inside your [[[ASP.NET]]](https://ASP.NET) Core web API projects.
 >
 > **[0:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=36)** This is the code for the minimal-api project I created in the previous movie.
 >
@@ -2714,7 +2688,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=122)** Before I show you the Swagger UI, I want to show you the OpenAPI document that was generated by the call to UseSwagger.
 >
-> **[2:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=130)** You can find it at /swagger/v1/swagger.json.
+> **[2:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=130)** You can find it at /swagger/v1/swagger.[[JSON]].
 >
 > **[2:19](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/using-swagger-to-test-web-apis?u=76281980&t=139)** This is a JSON document that describes the endpoints and schema used in the service.
 >
@@ -2774,7 +2748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), web (6), [[JSON]] (4), data (2), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[ASP.NET Core]] (1)
 > **Env Vars:** api (6), http (4), url (3), json (3), asp (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (1), dotnet (1), find (1), curl (1)
@@ -2783,8 +2757,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **File Paths:** swagger/v1/swagger.json (1)
 
-#### Challenge: Create a Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980)
+#### [Challenge: Create a Web API](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,7 +2765,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980&t=5)** - [Instructor] It's your turn to practice creating your own web API.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980&t=9)** In this challenge, I want you to start by creating a new minimal Web API project using the .NET CLI.
+> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980&t=9)** In this challenge, I want you to start by creating a new minimal Web API project using the .NET [[CLI]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-web-api?u=76281980&t=16)** As you've seen, the project template includes sample code related to weather forecasts.
 >
@@ -2822,15 +2795,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (4), web (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **Env Vars:** api (5), url (2), net (1), cli (1)
 > **Exercise Files:** template (1), sample code (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (playful music) (1)
 
-#### Solution: Create a Web API
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980)
+#### [Solution: Create a Web API](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2838,7 +2810,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=11)** The goal is to create a working web API and reinforce your understanding of the project types.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=17)** To get started, I'm going to use the dotnet CLI to create a new minimal API project.
+> **[0:17](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=17)** To get started, I'm going to use the dotnet [[CLI]] to create a new minimal API project.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=23)** The command to do that is dotnet new webAPI.
 >
@@ -2932,7 +2904,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=341)** This endpoint doesn't require any parameters, so I can just click the execute button.
 >
-> **[5:47](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=347)** That worked as expected, and if I scroll down a little, you can see the JSON representation of the books returned.
+> **[5:47](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=347)** That worked as expected, and if I scroll down a little, you can see the [[JSON]] representation of the books returned.
 >
 > **[5:55](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-web-api?u=76281980&t=355)** Let's now try out the second endpoint.
 >
@@ -2958,7 +2930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), api (9), data (5), web (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[CLI]] (1)
 > **Env Vars:** api (7), url (5), json (2), cli (1), grpc (1)
 > **CLI Commands:** make (5), dotnet (2)
 > **UI Navigation:** switch to (1), open the (1), click on (1), scroll down (1)
@@ -2972,8 +2944,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding gRPC APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980)
+#### [Understanding gRPC APIs](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2983,7 +2954,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=9)** gRPC is a remote procedure call framework that is language agnostic and can give you better performance than a simple web API.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=18)** By default, gRPC services utilize protocol buffers, which is a language-neutral platform developed by Google for serializing structured data.
+> **[0:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=18)** By default, gRPC services utilize [[Protocol Buffers]], which is a language-neutral platform developed by [[Google]] for serializing structured data.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=29)** gRPC services with protocol buffers are developed contract first.
 >
@@ -2995,13 +2966,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=52)** Tooling exists in lots of different languages to read the proto files that define a service and generate strongly typed server code to implement the service and client code to call it.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=64)** gRPC services generally perform better than web APIs because of the reduced network usage that results from the protobuf binary serialization.
+> **[1:04](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=64)** gRPC services generally perform better than web APIs because of the reduced network usage that results from the [[Protocol Buffers|protobuf]] binary serialization.
 >
-> **[1:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=74)** For all these reasons, gRPC services can be a good alternative if you need the flexibility to work with different languages, need to deliver services that are more efficient and performant, or need more advanced real-time communication than you would get with a typical rest service.
+> **[1:14](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=74)** For all these reasons, gRPC services can be a good alternative if you need the flexibility to work with different languages, need to deliver services that are more efficient and performant, or need more advanced [[Real-Time]] communication than you would get with a typical [[Representational State Transfer (REST)|rest]] service.
 >
 > **[1:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=92)** Let's jump over to the terminal and start creating one.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=96)** As you've seen me do several times already, I'm going to create a new project with the .NET CLI.
+> **[1:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=96)** As you've seen me do several times already, I'm going to create a new project with the .NET [[CLI]].
 >
 > **[1:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-grpc-apis?u=76281980&t=102)** The short name for the gRPC project template is just gRPC, so the command I'll use is dotnet new grpc.
 >
@@ -3037,7 +3008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Protocol Buffers]] (2), data (2), api (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Protocol Buffers]] (2), [[Google]] (1), [[Protocol Buffers|Protobuf]] (1), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** grpc (12)
 > **Definitions:** is a  (4), means that (1)
 > **Env Vars:** api (1), net (1), cli (1), http (1)
@@ -3046,8 +3017,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), dotnet (1)
 > **Tools:** terminal (1), vs code (1)
 
-#### Creating a .proto file
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980)
+#### [Creating a .proto file](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3055,9 +3025,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=5)** I'm going to start with the default greet.proto file that came with the project template.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=11)** I'm going to show you some of the basic syntax, but I'll also encourage you to check out the official documentation at [protobuf.dev](https://protobuf.dev).
+> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=11)** I'm going to show you some of the basic syntax, but I'll also encourage you to check out the official documentation at [[[Protocol Buffers|protobuf]].dev](https://protobuf.dev).
 >
-> **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=20)** The first line here just declares which version of the proto syntax we'll be using, proto3 in this case.
+> **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=20)** The first line here just declares which version of the proto syntax we'll be using, [[Protocol Buffers|proto3]] in this case.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=26)** Line three assigns a value to the C# namespace option.
 >
@@ -3109,7 +3079,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=199)** I'll now add the service specifier and name it webdev.
 >
-> **[3:27](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=207)** Inside it, I'm going to declare a single RPC named CreateProject that might be used to create and save a new web development project on the server.
+> **[3:27](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=207)** Inside it, I'm going to declare a single RPC named CreateProject that might be used to create and save a new [[Web Development]] project on the server.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-proto-file?u=76281980&t=220)** It will take a Project object as a parameter and return a ProjectConfirmation object.
 >
@@ -3147,7 +3117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Protocol Buffers|Protobuf]] (4), data (3), next (2), [[Protocol Buffers|Proto3]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Protocol Buffers|Protobuf]] (4), [[Protocol Buffers|Proto3]] (1), [[Web Development]] (1)
 > **Env Vars:** rpc (3), grpc (1)
 > **Exercise Files:** template (2)
 > **Definitions:** is a  (2)
@@ -3156,8 +3126,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** open the (1)
 
-#### Generating C# assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980)
+#### [Generating C# assets](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3165,7 +3134,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980&t=4)** The next step is to use those proto files to generate C# server code that implements the services.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980&t=11)** We do that in [ASP.NET](https://ASP.NET) Core using tooling available in a NuGet package.
+> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980&t=11)** We do that in [[[ASP.NET]]](https://ASP.NET) Core using tooling available in a NuGet package.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/generating-c-sharp-assets?u=76281980&t=17)** I've still got my main C# project file open here in my editor.
 >
@@ -3225,7 +3194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), next (2), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1)
 > **Env Vars:** grpc (5), asp (1), net (1), f12 (1)
 > **Tools:** vs code (2), terminal (2)
 > **Exercise Files:** template (2)
@@ -3234,8 +3203,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [isn (1)
 
-#### Implementing service methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980)
+#### [Implementing service methods](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3277,7 +3245,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=132)** Grpc.Core is built in, and grpc_server is the namespace containing the generated code for my service.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=140)** I'll now add a namespace for the rest of the code I'll add to this file.
+> **[2:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=140)** I'll now add a namespace for the [[Representational State Transfer (REST)|rest]] of the code I'll add to this file.
 >
 > **[2:28](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=148)** I'll name the class WebDevService, and it will inherit from the generated class named WebDev.WebDevBase.
 >
@@ -3309,7 +3277,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=273)** We can't just use the browser or swagger.
 >
-> **[4:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=276)** [ASP.NET](https://ASP.NET) Core really just includes hosting a GRPC server.
+> **[4:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=276)** [[[ASP.NET]]](https://ASP.NET) Core really just includes hosting a GRPC server.
 >
 > **[4:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/implementing-service-methods?u=76281980&t=281)** You can create GRPC clients using lots of different programming languages.
 >
@@ -3319,7 +3287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (2), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** grpc (7), asp (2), net (2), f12 (1)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Cross-References:** in the last (1), in the next (1)
@@ -3327,8 +3295,7 @@ created: 2026-05-02
 > **Code Identifiers:** grpc_server (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calling gRPC services
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980)
+#### [Calling gRPC services](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3336,7 +3303,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=5)** I'm going to show you a very basic example with a console application in C sharp.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=11)** I'll start by opening the VS code terminal and using the dotnet CLI to create a new console app.
+> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=11)** I'll start by opening the VS code terminal and using the dotnet [[CLI]] to create a new console app.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=21)** I'll put it in a folder named GRPC client.
 >
@@ -3358,7 +3325,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=97)** The first one is [grpc.net](https://grpc.net).client.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=102)** The next one is google.protobuf.
+> **[1:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=102)** The next one is [[Google]].[[Protocol Buffers|protobuf]].
 >
 > **[1:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=110)** The last one is Grpc.tools.
 >
@@ -3412,7 +3379,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=299)** Your server address will probably not be the same as my server address, if you're following along with me.
 >
-> **[5:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=305)** The best thing to do is copy it from the launch settings.json file in your server project.
+> **[5:05](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=305)** The best thing to do is copy it from the launch settings.[[JSON]] file in your server project.
 >
 > **[5:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/calling-grpc-services?u=76281980&t=322)** I'll now paste this as a parameter to the ForAddress method.
 >
@@ -3446,7 +3413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (2), next (2), [[Protocol Buffers|Protobuf]] (2), [[Programming]] (1), application (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[Protocol Buffers|Protobuf]] (2), [[Google]] (1), [[JSON]] (1)
 > **Env Vars:** grpc (11), cli (2)
 > **CLI Commands:** dotnet (5), make (4)
 > **Tools:** vs code (5), terminal (3)
@@ -3455,16 +3422,15 @@ created: 2026-05-02
 > **URLs:** [grpc.net](https://grpc.net) (1)
 > **UI Navigation:** right-click (1)
 
-#### Challenge: Create a gRPC service
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980)
+#### [Challenge: Create a gRPC service](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=0)** - [Instructor] In this challenge, I'll have you create a new gRPC service hosted with [ASP.NET](https://ASP.NET) Core.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=0)** - [Instructor] In this challenge, I'll have you create a new gRPC service hosted with [[[ASP.NET]]](https://ASP.NET) Core.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=12)** The service will work with book data much like the other challenges in the course.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=16)** Start by creating a new project with the .NET CLI using the gRPC project template.
+> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=16)** Start by creating a new project with the .NET [[CLI]] using the gRPC project template.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-grpc-service?u=76281980&t=23)** Add a new proto file to the project named books.proto.
 >
@@ -3484,7 +3450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ASP.NET Core]] (1), data (1), [[CLI]] (1), next (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1), [[CLI]] (1)
 > **Env Vars:** net (2), asp (1), cli (1)
 > **Code Identifiers:** grpc (2)
 > **CLI Commands:** make (1)
@@ -3493,8 +3459,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a gRPC service
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980)
+#### [Solution: Create a gRPC service](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3504,7 +3469,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=13)** This is just one way to solve it.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=16)** I'll start by creating a new GRPC application using the .NET CLI.
+> **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=16)** I'll start by creating a new GRPC application using the .NET [[CLI]].
 >
 > **[0:21](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=21)** The command I'll use is dotnet new grpc.
 >
@@ -3524,7 +3489,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=82)** Before we declare any RPC calls in the file, we need to add details for the syntax version and namespace.
 >
-> **[1:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=90)** I'll use the proto3 syntax in this file.
+> **[1:30](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=90)** I'll use the [[Protocol Buffers|proto3]] syntax in this file.
 >
 > **[1:37](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=97)** I'll use the C# namespace option to set the namespace for my C# code files to grpc_challenge.
 >
@@ -3612,17 +3577,17 @@ created: 2026-05-02
 >
 > **[7:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=422)** I showed you earlier how to create a basic C# client in a console app, but you can also create GRPC clients in lots of other languages as well.
 >
-> **[7:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=431)** So if you're already familiar with Python, C++, or maybe Java, try creating a client with it.
+> **[7:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=431)** So if you're already familiar with [[Python (Programming Language)|Python]], C++, or maybe [[Java]], try creating a client with it.
 >
-> **[7:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=438)** GRPC services perform better than standard web APIs, but sometimes you need real-time functionality.
+> **[7:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=438)** GRPC services perform better than standard web APIs, but sometimes you need [[Real-Time]] functionality.
 >
-> **[7:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=445)** SignalR is an [ASP.NET](https://ASP.NET) Core library that gives you that capability.
+> **[7:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=445)** SignalR is an [[[ASP.NET]]](https://ASP.NET) Core library that gives you that capability.
 >
 > **[7:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-grpc-service?u=76281980&t=451)** I'll cover it in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[CLI]] (1), [[Protocol Buffers|Proto3]] (1), database (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Protocol Buffers|Proto3]] (1), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Real-Time]] (1)
 > **Env Vars:** grpc (5), net (2), cli (1), rpc (1), obj (1)
 > **CLI Commands:** dotnet (2), make (2), python (1)
 > **Tools:** terminal (2), vs code (1)
@@ -3636,8 +3601,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding SignalR applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980)
+#### [Understanding SignalR applications](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3645,23 +3609,23 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=9)** However, that means the client won't know about new information unless they request and receive it.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=15)** SignalR adds real-time web functionality to apps and gives servers the ability to push content to clients at any time.
+> **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=15)** SignalR adds [[Real-Time]] web functionality to apps and gives servers the ability to push content to clients at any time.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=23)** This can be great for things like real-time chat apps, corporate dashboards that always need the latest data, and any app requiring time-sensitive alerts.
+> **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=23)** This can be great for things like real-time chat apps, corporate [[Dashboards]] that always need the latest data, and any app requiring time-sensitive alerts.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=34)** SignalR accomplishes this by supporting two-way communication between the server and clients.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=40)** The server acts as a hub for this communication and can push messages to all clients or individual clients as needed.
 >
-> **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=49)** [ASP.NET](https://ASP.NET) Core even provides a base class named hub you can use to implement your SignalR servers.
+> **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=49)** [[[ASP.NET]]](https://ASP.NET) Core even provides a base class named hub you can use to implement your SignalR servers.
 >
 > **[0:56](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=56)** SignalR supports multiple transports for the communication between the server and clients.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=62)** WebSockets are the preferred transport, and will automatically be used if supported by both the client and server.
+> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=62)** [[WebSocket|WebSockets]] are the preferred transport, and will automatically be used if supported by both the client and server.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=69)** This shouldn't be a problem with any modern browser, since they all support WebSockets these days.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=75)** However, SignalR will gracefully fall back to using server-sent events, or long polling if a particular client doesn't support WebSockets.
+> **[1:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=75)** However, SignalR will gracefully fall back to using [[Server-Sent Events]], or long polling if a particular client doesn't support WebSockets.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-signalr-applications?u=76281980&t=85)** The last thing I'll mention before I get into a demo is that SignalR is really a feature you can add to any [ASP.NET](https://ASP.NET) Core project.
 >
@@ -3671,18 +3635,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (3), [[WebSocket|Websockets]] (3), web (2), [[ASP.NET Core]] (2), feature (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[WebSocket|Websockets]] (3), [[ASP.NET Core]] (2), [[Dashboards]] (1), [[Server-Sent Events]] (1)
 > **Env Vars:** asp (2), net (2)
 > **URLs:** [asp.net](https://asp.net) (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a server hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980)
+#### [Creating a server hub](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=0)** - [Instructor] Because you can really add SignalR functionality to any [ASP.NET](https://ASP.NET) Core application, I'm not going to create a new application for this demo.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=0)** - [Instructor] Because you can really add SignalR functionality to any [[[ASP.NET]]](https://ASP.NET) Core application, I'm not going to create a new application for this demo.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=9)** Instead, I'll just add a new feature to an app I created earlier in the course.
 >
@@ -3698,7 +3661,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=45)** I'll add a new file to the root of the project named MessageHub.cs.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=52)** [ASP.NET](https://ASP.NET) Core includes a hub base class in the Microsoft.AspNetCore.SignalR namespace.
+> **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=52)** [ASP.NET](https://ASP.NET) Core includes a hub base class in the [[Microsoft]].AspNetCore.SignalR namespace.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=61)** (keyboard clacking) I'll now just declare a new class named MessageHub that inherits from the built-in Hub base class.
 >
@@ -3744,11 +3707,11 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=220)** I've got a hub class, I've enabled SignalR, and I've registered my hub with an endpoint.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=225)** In the next movie, I'll add a user interface and some client-side code to connect to the server with JavaScript.
+> **[3:45](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-server-hub?u=76281980&t=225)** In the next movie, I'll add a user interface and some client-side code to connect to the server with [[JavaScript]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[ASP.NET Core]] (2), application (2), feature (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (2), [[Microsoft]] (1), [[JavaScript]] (1)
 > **Env Vars:** asp (2), net (2)
 > **Cross-References:** in the next (3), earlier in (1)
 > **URLs:** [asp.net](https://asp.net) (2)
@@ -3757,12 +3720,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a JavaScript client
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980)
+#### [Creating a JavaScript client](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=0)** - [Instructor] Before I can write the JavaScript code to connect to the message hub on the server, I first need to create a user interface for the message board.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=0)** - [Instructor] Before I can write the [[JavaScript]] code to connect to the message hub on the server, I first need to create a user interface for the message board.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=8)** I'll start by adding a new navigation link to the project's layout page.
 >
@@ -3778,7 +3740,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=53)** Because this will be a standard razor page, the first thing I'll add to the file is the page directive.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=61)** I'll then page in some HTML for the user interface.
+> **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=61)** I'll then page in some [[HTML]] for the user interface.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=64)** This just creates a very basic interface I can use to input and display messages for the message board.
 >
@@ -3802,9 +3764,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=131)** The first step is to install the signal R JavaScript library.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=135)** There are several ways you can install it, but since I already have node JS and the node package manager NPM on my computer, that's what I'm going to use.
+> **[2:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=135)** There are several ways you can install it, but since I already have node JS and the node package manager [[npm]] on my computer, that's what I'm going to use.
 >
-> **[2:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=146)** Here in the terminal, I'll type npm install at Microsoft slash signal R.
+> **[2:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=146)** Here in the terminal, I'll type npm install at [[Microsoft]] slash signal R.
 >
 > **[2:38](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-javascript-client?u=76281980&t=158)** That ran and successfully added a node modules folder to my project.
 >
@@ -3916,7 +3878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), node (3), [[npm]] (2), [[Microsoft]] (2), application (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[npm]] (2), [[Microsoft]] (2), [[HTML]] (1)
 > **CLI Commands:** node (3), npm (2), make (2)
 > **Env Vars:** html (1), npm (1), url (1)
 > **Prerequisites:** install (3)
@@ -3925,8 +3887,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (2)
 > **Definitions:** is a  (2)
 
-#### Challenge: Create a SignalR application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980)
+#### [Challenge: Create a SignalR application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3938,7 +3899,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=16)** Users will have the ability to post the amount of new sales, and the largest sales will be pushed from the server to all clients and displayed in their browser.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=26)** Start by creating a new Razor Pages application you'll use to send and receive real-time sales data.
+> **[0:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=26)** Start by creating a new Razor Pages application you'll use to send and receive [[Real-Time]] sales data.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=33)** Add a new class to the project named SalesHub that will inherit from the built-in hub class.
 >
@@ -3946,11 +3907,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=52)** On the site's homepage, add UI elements to allow users to submit new sales amounts and display the large sales received from the server.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=62)** In order to make it all work, you know you'll need to add some JavaScript code.
+> **[1:02](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=62)** In order to make it all work, you know you'll need to add some [[JavaScript]] code.
 >
 > **[1:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=67)** Add code to send new sales to the server and receive and display large sales.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=73)** Don't forget, you'll first need to install the SignalR package from NPM.
+> **[1:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=73)** Don't forget, you'll first need to install the SignalR package from [[npm]].
 >
 > **[1:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-signalr-application?u=76281980&t=78)** Finally, open two browsers simultaneously and test out the application.
 >
@@ -3960,7 +3921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (2), [[Real-Time]] (1), [[JavaScript]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[JavaScript]] (1), [[npm]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** npm (1)
@@ -3969,8 +3930,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright, upbeat music) (1)
 
-#### Solution: Create a SignalR application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980)
+#### [Solution: Create a SignalR application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3988,7 +3948,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=42)** I'll do that with a new hub class in a file named SalesHub.cs.
 >
-> **[0:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=50)** I first want to pull in the Microsoft.AspNetCore.SignalR namespace.
+> **[0:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=50)** I first want to pull in the [[Microsoft]].AspNetCore.SignalR namespace.
 >
 > **[1:01](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=61)** I'll now declare the new SalesHub class and have it inherit from the base Hub class.
 >
@@ -4016,7 +3976,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=164)** I'm going to update the text on the existing h1 tag and delete the paragraph tag below it.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=176)** I'll now paste in some HTML, so you don't have to watch me type so much.
+> **[2:56](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=176)** I'll now paste in some [[HTML]], so you don't have to watch me type so much.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=183)** The first div I added, starting on line 11, adds the input element so users can send sales data to the server.
 >
@@ -4028,9 +3988,9 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=216)** That's it for the UI.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=218)** I now need to add some JavaScript.
+> **[3:38](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=218)** I now need to add some [[JavaScript]].
 >
-> **[3:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=220)** That starts with installing the SignalR package using npm.
+> **[3:40](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=220)** That starts with installing the SignalR package using [[npm]].
 >
 > **[3:46](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=226)** The command to install it is npm install @microsoft/signalr.
 >
@@ -4104,15 +4064,15 @@ created: 2026-05-02
 >
 > **[8:31](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=511)** For some extra SignalR practice, try exploring the API little more and implement some new scenarios that only send updates to a subset of all clients.
 >
-> **[8:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=521)** I think SignalR opens up exciting new ways to keep client applications up to date with fresh data and enables real-time notifications that developers previously didn't think possible with standard web applications.
+> **[8:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=521)** I think SignalR opens up exciting new ways to keep client applications up to date with fresh data and enables [[Real-Time]] notifications that developers previously didn't think possible with standard web applications.
 >
 > **[8:55](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=535)** Keep it in mind and I bet you'll find lots of use cases for it.
 >
-> **[9:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=540)** Up next, we're going to explore Blazer and I'll show you how you can apply your C# and .NET skills to client side web development.
+> **[9:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-signalr-application?u=76281980&t=540)** Up next, we're going to explore Blazer and I'll show you how you can apply your C# and .NET skills to client side [[Web Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (3), [[Microsoft]] (2), [[npm]] (2), node (2)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft]] (2), [[npm]] (2), [[HTML]] (1), [[Real-Time]] (1)
 > **CLI Commands:** npm (2), node (2), dotnet (1), find (1)
 > **Code Identifiers:** largesales (2), saleamount (1), withurl (1), getelementbyid (1), addeventlistener (1)
 > **File Paths:** site.js (2), wwroot.js (1)
@@ -4126,14 +4086,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Blazor
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980)
+#### [Understanding Blazor](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=0)** - [Instructor] Being a full stack web developer often means learning lots of different technologies, and how to fit them together into a cohesive application that meets your user's needs.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=11)** Blazer is an [asp.net](https://asp.net) core technology that makes that at least a little easier by allowing you to develop full stack web applications entirely with C-sharp and .NET.
+> **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=11)** Blazer is an [[[ASP.NET]]](https://asp.net) core technology that makes that at least a little easier by allowing you to develop full stack web applications entirely with C-sharp and .NET.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=23)** Blazer applications are composed primarily of Razor components.
 >
@@ -4145,7 +4104,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=49)** The biggest change is the introduction of multiple render modes.
 >
-> **[0:54](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=54)** The render mode describes where and how the razor components HTML is rendered before being handed off to the browser for presentation.
+> **[0:54](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=54)** The render mode describes where and how the razor components [[HTML]] is rendered before being handed off to the browser for presentation.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/understanding-blazor?u=76281980&t=63)** The static server render mode is the simplest and renders the HTML on the server before sending it over the network to the browser.
 >
@@ -4241,7 +4200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), application (4), [[ASP.NET Core]] (4), [[HTML]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (4), [[HTML]] (3)
 > **Env Vars:** net (4), html (3), mvc (1)
 > **Exercise Files:** template (4), download the (1)
 > **CLI Commands:** dotnet (3), find (1)
@@ -4250,12 +4209,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** vs code (1)
 
-#### Developing a Blazor application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980)
+#### [Developing a Blazor application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=0)** - [Instructor] Let's now walk through the new Blazer project I created in the previous movie and see how it's similar and different to some of the other [asp.net](https://asp.net) core projects we've already looked at in the course.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=0)** - [Instructor] Let's now walk through the new Blazer project I created in the previous movie and see how it's similar and different to some of the other [[[ASP.NET]]](https://asp.net) core projects we've already looked at in the course.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=11)** Let's start with the Program.cs file.
 >
@@ -4289,7 +4247,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=92)** By convention, files containing Razor components end with the .razor extension.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=99)** This is the application's root component, and you can see it contains the top level HTML elements you would expect to find on any webpage.
+> **[1:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=99)** This is the application's root component, and you can see it contains the top level [[HTML]] elements you would expect to find on any webpage.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=108)** Inside the head element, you see some standard meta tags and links to a few CSS files.
 >
@@ -4299,7 +4257,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=127)** The head outlet component is a built-in component that gathers page title and other head content from nested components and inserts them here in the rendered page.
 >
-> **[2:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=138)** A little further down on line 17, you can see a reference to a built-in JavaScript file required for Blazer apps.
+> **[2:18](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=138)** A little further down on line 17, you can see a reference to a built-in [[JavaScript]] file required for Blazer apps.
 >
 > **[2:26](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=146)** Just above it is another nested component named Routes.
 >
@@ -4307,7 +4265,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=156)** It's defined in another file in the Components folder named Routes.razor.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=161)** This component scans the assembly specified as the app assembly for component routing information.
+> **[2:41](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=161)** This component scans the assembly specified as the app assembly for component [[Routing]] information.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=168)** The other important bit of configuration here is the default layout attribute on line three.
 >
@@ -4369,7 +4327,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=350)** They use the same Razor syntax you've seen throughout the course.
 >
-> **[5:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=353)** You can add them with the .NET CLI, but I actually think, in this case, they're easier to add to the project yourself.
+> **[5:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=353)** You can add them with the .NET [[CLI]], but I actually think, in this case, they're easier to add to the project yourself.
 >
 > **[6:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/developing-a-blazor-application?u=76281980&t=360)** I'm going to add a new greeting component.
 >
@@ -4413,7 +4371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), generic (2), next (2), web (2), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[ASP.NET Core]] (1), [[JavaScript]] (1), [[Routing]] (1), [[CLI]] (1)
 > **Env Vars:** html (3), css (1), net (1), cli (1)
 > **UI Navigation:** open the (3), navigate to (1), click on (1), go to (1)
 > **Definitions:** is a  (2), known as (1), defined as (1)
@@ -4422,8 +4380,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Creating a standalone Blazor WebAssembly application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980)
+#### [Creating a standalone Blazor WebAssembly application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4443,7 +4400,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=63)** In this project, on line five, it creates a web assembly host builder instead.
 >
-> **[1:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=70)** It then uses the root components property on that object to declare the app component as the root component and load it in place of the HTML element with the ID app.
+> **[1:10](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=70)** It then uses the root components property on that object to declare the app component as the root component and load it in place of the [[HTML]] element with the ID app.
 >
 > **[1:22](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=82)** Let's now take a look at the app component.
 >
@@ -4455,7 +4412,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=102)** In this WebAssembly version, the app component doesn't contain any HTML and includes what was effectively the contents of the routes component from the earlier project.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=112)** The routing configuration here is not significantly different from what we saw earlier.
+> **[1:52](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=112)** The [[Routing]] configuration here is not significantly different from what we saw earlier.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/creating-a-standalone-blazor-webassembly-application?u=76281980&t=117)** It still scans the project for routable components, and on line three specifies that the default layout is declared in the main layout file.
 >
@@ -4519,7 +4476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[HTML]] (6), application (2), web application (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Routing]] (1)
 > **Env Vars:** html (5)
 > **UI Navigation:** open the (2), click on (1), go to (1)
 > **Definitions:** short for (1), is a  (1)
@@ -4528,12 +4485,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Create a Blazor application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-blazor-application?u=76281980)
+#### [Challenge: Create a Blazor application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-blazor-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-blazor-application?u=76281980&t=0)** - [Instructor] In this final challenge of the course, I want you to use the .NET CLI to create a new full-stack Blazor application configured for server-side rendering.
+> **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-blazor-application?u=76281980&t=0)** - [Instructor] In this final challenge of the course, I want you to use the .NET [[CLI]] to create a new full-stack Blazor application configured for server-side rendering.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/challenge-create-a-blazor-application?u=76281980&t=15)** Add a new component to the Components folder named ThankYou.
 >
@@ -4549,21 +4505,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CLI]] (2), application (2), next (2), full-stack (1)
+> **Frameworks & Libraries:** [[CLI]] (2)
 > **Env Vars:** net (2), cli (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a Blazor application
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980)
+#### [Solution: Create a Blazor application](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=0)** - [Instructor] I'll now walk you through how I solve the Blazor challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=9)** I'll start by creating a new app with the .NET CLI.
+> **[0:09](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=9)** I'll start by creating a new app with the .NET [[CLI]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=13)** The short name for the Blazor full stack template is just Blazor, so the command I'll use is dotnet new blazor.
 >
@@ -4597,7 +4552,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=108)** I'll nest the thank you component after the last bit of markup in this file.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=113)** I include it by using the component name as if it were another HTML level.
+> **[1:53](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=113)** I include it by using the component name as if it were another [[HTML]] level.
 >
 > **[2:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=123)** The beauty of components is that they're reusable, so I'll also go ahead and add the thank you component to the end of the weather component.
 >
@@ -4615,7 +4570,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=159)** It shows up correctly there as well.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=162)** Blazor is a big topic and one of Microsoft's most exciting new web technologies.
+> **[2:42](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=162)** Blazor is a big topic and one of [[Microsoft]]'s most exciting new web technologies.
 >
 > **[2:48](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/solution-create-a-blazor-application?u=76281980&t=168)** I've only scratched the surface of what you can do with it, but I hope I've given you a sense of the possibilities when creating full stack web applications entirely in C# and composing apps from reusable components.
 >
@@ -4623,7 +4578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[CLI]] (1), [[HTML]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[HTML]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (3), click on (1)
 > **Exercise Files:** template (4)
 > **Env Vars:** net (1), cli (1), html (1)
@@ -4637,8 +4592,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps on your learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980)
+#### [Next steps on your learning journey](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4646,13 +4600,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=3)** I've shown you a lot of things in this course, but there's always more to learn.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=7)** You should feel confident evaluating the requirements for your next project and deciding which [ASP.NET](https://ASP.NET) Core technologies will help you satisfy those requirements.
+> **[0:07](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=7)** You should feel confident evaluating the requirements for your next project and deciding which [[[ASP.NET]]](https://ASP.NET) Core technologies will help you satisfy those requirements.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=17)** You also know enough to get started on a new project.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=20)** However, be prepared to dig deeper into the details and continue learning.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=25)** LinkedIn Learning has lots of great courses to help you do that.
+> **[0:25](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=25)** [[LinkedIn]] Learning has lots of great courses to help you do that.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-asp-dot-net-core-mvc-razor-pages-web-apis-other-foundations/next-steps-on-your-learning-journey?u=76281980&t=29)** You should also do your best to put your new skills into practice as soon as possible.
 >
@@ -4666,7 +4620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), next (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ASP.NET Core]] (1)
 > **Env Vars:** asp (1), net (1)
 > **URLs:** [asp.net](https://asp.net) (1)
 > **Speakers:** - congratulations (1)

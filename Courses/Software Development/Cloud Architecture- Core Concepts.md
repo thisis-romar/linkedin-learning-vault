@@ -110,11 +110,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is cloud architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
+#### [What is cloud architecture?](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-is-cloud-architecture?u=76281980)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,11 +122,11 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-you-should-know?u=76281980&t=20)** If you're not yet comfortable around some of the topics mentioned, I suggest you review one, two, or all three of the following courses.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-you-should-know?u=76281980&t=29)** Cloud Computing Core Concepts, Cloud Storage, Public Cloud Providers, and then join me back here.
+> **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-you-should-know?u=76281980&t=29)** [[Cloud Computing]] Core Concepts, [[Cloud Storage]], Public Cloud Providers, and then join me back here.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Cloud Storage]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -136,12 +134,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud architecture basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
+#### [Cloud architecture basics](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=0)** - [Narrator] Cloud computing architecture can be defined as the configuration of cloud technologies optimized to address specific business problems.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=0)** - [Narrator] [[Cloud Computing]] architecture can be defined as the configuration of cloud technologies optimized to address specific business problems.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=8)** Much like traditional building architecture, it shares common goals such as utilizing the best resources in the most cost efficient and effective way.
 >
@@ -149,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=26)** IT prioritizes security and access controls as integral parts of the design, incorporating elements like storage, compute, security measures, and other IT system components.
 >
-> **[0:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=39)** Additionally, it addresses emerging technologies such as machine learning and artificial intelligence, edge computing, IoT, or internet of things, containers, and serverless computing.
+> **[0:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=39)** Additionally, it addresses emerging technologies such as machine learning and [[Artificial Intelligence (AI)|artificial intelligence]], edge computing, [[IoT]], or [[IoT|internet of things]], containers, and [[Serverless Computing]].
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-basics?u=76281980&t=51)** There are no limitations on what cloud architecture can encompass.
 >
@@ -161,12 +158,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), business (3), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT]] (1), [[IoT|Internet of things]] (1), [[Serverless Computing]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud architecture: Example 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980)
+#### [Cloud architecture: Example 1](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,15 +184,15 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=67)** This involves reviewing a checklist of critical elements before designing the cloud-based systems, including migration of existing systems.
 >
-> **[1:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=77)** Key considerations typically include performance, integration, security governance, operations, application development, and DevOps, compute, cloud specific services, such as AI and IOT, storage solutions, database systems, and business continuity and disaster recovery.
+> **[1:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=77)** Key considerations typically include performance, integration, security governance, operations, [[Application Development]], and [[DevOps]], compute, cloud specific services, such as AI and [[IoT]], storage solutions, [[Database Systems]], and business continuity and disaster recovery.
 >
-> **[1:36](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=96)** When transitioning the architecture, several key decisions need to be made, choosing the most suitable target public cloud platform, such as Amazon Web Services, Microsoft Azure, or Google Cloud.
+> **[1:36](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=96)** When transitioning the architecture, several key decisions need to be made, choosing the most suitable target public cloud platform, such as [[Amazon Web Services (AWS)|Amazon Web Services]], [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=109)** Selecting the optimal storage system that integrates with the chosen cloud platform.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=114)** Identifying the best database solutions or databases.
+> **[1:54](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=114)** Identifying the best database solutions or [[Databases]].
 >
-> **[1:58](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=118)** Define the appropriate security solutions, determine the right compute system, including operating systems like Linux, establishing effective monitoring and operational systems for long-term maintenance.
+> **[1:58](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=118)** Define the appropriate security solutions, determine the right compute system, including operating systems like [[Linux]], establishing effective monitoring and operational systems for long-term maintenance.
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-1?u=76281980&t=130)** It's important to note that these considerations can become highly detailed.
 >
@@ -208,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), business (6), [[Security]] (2), database (2), management (1)
+> **Frameworks & Libraries:** [[Application Development]] (1), [[DevOps]] (1), [[IoT]] (1), [[Database Systems]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Analogies:** such as (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **Prerequisites:** setup (1), configure (1)
@@ -217,8 +213,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud architecture: Example 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980)
+#### [Cloud architecture: Example 2](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,11 +221,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=9)** This solution might involve two different types of clouds.
 >
-> **[0:13](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=13)** The first is an infrastructure as a service, or IaaS provider, such as Amazon Web Services or AWS, Microsoft Azure, or Google Cloud.
+> **[0:13](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=13)** The first is an [[IaaS|infrastructure as a service]], or [[IaaS]] provider, such as [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS, [[Microsoft Azure]], or [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:23](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=23)** While some solutions require leveraging more than a single cloud provider, let's assume that for this example, that a single infrastructure as a service provider is sufficient.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=34)** The second type is a software as a service or a SaaS provider.
+> **[0:34](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=34)** The second type is a [[SaaS|software as a service]] or a [[SaaS]] provider.
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-example-2?u=76281980&t=38)** In Henry's case, this could be an accounting application delivered over the internet designed to handle sales management, accounting, and manufacturing management.
 >
@@ -258,15 +253,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[IaaS|Infrastructure as a service]] (7), business (4), data (4), [[SaaS|Software as a service]] (3)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (7), [[SaaS|Software as a service]] (3), [[SaaS]] (3), [[IaaS]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **Env Vars:** aws (1), rfid (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Skills, tools, and processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980)
+#### [Skills, tools, and processes](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +268,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=3)** The reality is that effective cloud architects take a generalist approach across technologies.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=9)** This means they have broad knowledge about cloud computing, such as understanding the differences between object, block and file storage in public cloud systems without diving into product specific details like APIs of individual storage systems.
+> **[0:09](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=9)** This means they have broad knowledge about [[Cloud Computing]], such as understanding the differences between object, block and file storage in public cloud systems without diving into product specific details like APIs of individual storage systems.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=25)** This good enough level of knowledge is vital for building cloud architecture.
 >
@@ -286,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=60)** Most major cloud providers offer architecture certifications, which can be useful, but be cautious.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=66)** Architects certified in a specific provider might excel at developing solutions within that ecosystem, but may lack the broader knowledge required to design solutions that encompass all potential cloud technologies.
+> **[1:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=66)** Architects certified in a specific provider might [[Microsoft Excel|excel]] at developing solutions within that ecosystem, but may lack the broader knowledge required to design solutions that encompass all potential cloud technologies.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=80)** Great architects approach problems with open minds constantly seeking the most optimized solution for a given problem.
 >
@@ -298,30 +292,29 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=109)** While we may assert certain processes or approaches in this context, architects can adapt existing ones, redefine them, or create their own.
 >
-> **[1:59](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=119)** Tools on the other hand, serve tactical purposes like system inventory, data management, and security planning.
+> **[1:59](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=119)** Tools on the other hand, serve tactical purposes like system inventory, [[Data Management]], and security planning.
 >
 > **[2:07](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=127)** However, remember, tools can improve efficiency with specific tasks, but they cannot automate the entirety of the architecture.
 >
-> **[2:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=137)** Despite claims from tool providers, the creative and strategic aspects of architecture rest squarely in the hands of the architect.
+> **[2:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=137)** Despite claims from tool providers, the creative and strategic aspects of architecture [[Representational State Transfer (REST)|rest]] squarely in the hands of the architect.
 >
 > **[2:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/skills-tools-and-processes?u=76281980&t=145)** This is something that took me 20 years to learn.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), product (1), aws (1), [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Microsoft Excel|Excel]] (1), [[Data Management]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980)
+#### [Building a framework](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=0)** - [Instructor] The reality of cloud architecture is that you must take a holistic approach to develop effective solutions.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=6)** This includes considering every aspect of cloud technology, such as storage compute, databases, governance, security, development, and other relevant components.
+> **[0:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=6)** This includes considering every aspect of cloud technology, such as storage compute, [[Databases]], governance, security, development, and other relevant components.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=18)** Creating an initial solution is only the first step.
 >
@@ -353,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=106)** Once the logical architecture is in place, the next step is adding specific technologies that have the potential to address the predefined requirements.
 >
-> **[1:54](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=114)** It's important to note the use of the word potential here because the true fit of a technology can only be determined after it has been tested and accepted.
+> **[1:54](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=114)** It's important to note the use of the [[Microsoft Word|word]] potential here because the true fit of a technology can only be determined after it has been tested and accepted.
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/building-a-framework?u=76281980&t=125)** During this phase, you may find that a selected technology does not work as promised or fails to meet the needs of the architecture.
 >
@@ -367,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Databases]] (1), [[Security]] (1), aws (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** aws (1), find (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
@@ -379,12 +372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What problems need to be solved?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
+#### [What problems need to be solved?](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980&t=0)** - [Instructor] The best way to gain a clear understanding of the problems you need to address with sound cloud computing architecture is by defining two major stages or states, the aS is state and the to be state.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980&t=0)** - [Instructor] The best way to gain a clear understanding of the problems you need to address with sound [[Cloud Computing]] architecture is by defining two major stages or states, the aS is state and the to be state.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/what-problems-need-to-be-solved?u=76281980&t=14)** Establish the as is state.
 >
@@ -420,13 +412,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), cloud (2), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Analogies:** such as (2)
 > **Code Identifiers:** as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The "as is" state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-as-is-state?u=76281980)
+#### [The "as is" state](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-as-is-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,18 +449,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (2), cloud (1), management (1), application (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The "to be" state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-to-be-state?u=76281980)
+#### [The "to be" state](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-to-be-state?u=76281980)
 
-#### The value of architecture optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-value-of-architecture-optimization?u=76281980)
+#### [The value of architecture optimization](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/the-value-of-architecture-optimization?u=76281980)
 
-#### Cloud architecture and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980)
+#### [Cloud architecture and security](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,19 +464,19 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=4)** It's essential to consider encryption and identity well in advance of deploying the target architecture and solutions.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=12)** In fact, cloud architecture needs to be created with a security solution set in mind for everything from data storage, applications, networking, to additional attributes of a target architecture.
+> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=12)** In fact, cloud architecture needs to be created with a security solution set in mind for everything from [[Data Storage]], applications, networking, to additional attributes of a target architecture.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=25)** Otherwise, your security solution will likely be a forced fit to the architecture, and if the data and applications are not purpose built for security, they will fall short in terms of their security features, as well.
 >
 > **[0:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=39)** So security is systemic to everything that we're doing here.
 >
-> **[0:43](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=43)** This means that we're considering how we're defining and designing databases and storage solutions with purpose-built security in mind.
+> **[0:43](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=43)** This means that we're considering how we're defining and designing [[Databases]] and storage solutions with purpose-built security in mind.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=51)** For example, if you're storing sensitive data, which many cloud databases do, you'll have to consider the types of data as well as the laws and regulations that apply to that data.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=63)** For example, HIPAA or Health Insurance Portability and Accountability Act of 1996, pronounced HIPAA, is a federal law that requires the creation of national standards to protect sensitive patient health information from being disclosed without the patient's consent or knowledge.
+> **[1:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=63)** For example, HIPAA or Health Insurance Portability and [[Accountability]] Act of 1996, pronounced HIPAA, is a federal law that requires the creation of national standards to protect sensitive patient health information from being disclosed without the patient's consent or knowledge.
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=82)** HIPAA data has to be stored and managed in specific ways, and cloud databases need to have that privacy protection capability built in.
+> **[1:22](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=82)** HIPAA data has to be stored and managed in specific ways, and cloud databases need to have that [[Privacy Protection]] capability built in.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=91)** Applications that access and use that data need to be designed differently, as well.
 >
@@ -497,7 +484,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=106)** You need to be aware of what the applicable laws are and how they'll impact the system security that must be built in to our architecture.
 >
-> **[1:55](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=115)** The core lesson learned here is that security is part of each step we're defining here, including most aspects of target cloud computing architecture.
+> **[1:55](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=115)** The core lesson learned here is that security is part of each step we're defining here, including most aspects of target [[Cloud Computing]] architecture.
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-security?u=76281980&t=124)** This is a bit of a change in the way we dealt with security traditionally, where it was a step in the process and not a part of every portion of the process.
 >
@@ -505,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), data (8), cloud (5), [[Databases]] (3), [[Accountability]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Data Storage]] (1), [[Accountability]] (1), [[Privacy Protection]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** hipaa (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
@@ -513,32 +500,31 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud architecture and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980)
+#### [Cloud architecture and AI](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=0)** - [Instructor] Cloud computing architecture plays a vital role in designing and deploying AI systems by providing scalable, flexible, and cost effective infrastructure.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] architecture plays a vital role in designing and deploying AI systems by providing scalable, flexible, and cost effective infrastructure.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=10)** Many organizations choose AI systems in the cloud because the cloud providers offer a prebuilt AI ecosystem that is ready to go on demand.
 >
-> **[0:19](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=19)** Building AI in the cloud allows organizations to leverage vast amounts of data and computational resources while ensuring agility and efficiency in AI application development.
+> **[0:19](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=19)** Building AI in the cloud allows organizations to leverage vast amounts of data and computational resources while ensuring agility and efficiency in AI [[Application Development]].
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=31)** The architecture begins with the compute layer where AI models are trained and deployed.
 >
-> **[0:37](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=37)** Cloud platforms like AWS, Azure and Google Cloud provide powerful resources such as GPUs, TPUs, and serverless computing to handle the intensive processing demands of machine learning and deep learning tasks.
+> **[0:37](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=37)** Cloud platforms like AWS, [[Microsoft Azure|Azure]] and [[Google Cloud Platform (GCP)|Google Cloud]] provide powerful resources such as GPUs, TPUs, and [[Serverless Computing]] to handle the intensive processing demands of machine learning and [[Deep Learning]] tasks.
 >
 > **[0:52](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=52)** These resources allow organizations to train complex AI models at scale, reducing processing time while managing costs effectively.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=62)** The data layer is critical in AI development as cloud storage systems like object storage, block storage, and data lake enable the management of massive data sets, which are needed as training data.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=62)** The data layer is critical in AI development as [[Cloud Storage]] systems like object storage, block storage, and data lake enable the management of massive data sets, which are needed as training data.
 >
-> **[1:15](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=75)** AI systems require vast amounts of structured and unstructured data for training, and the cloud offers nearly infinite storage capacity along with integration services like ETL or extract, translate, and load pipelines to prepare and process data for AI algorithms.
+> **[1:15](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=75)** AI systems require vast amounts of structured and [[Unstructured Data]] for training, and the cloud offers nearly infinite storage capacity along with integration services like ETL or extract, translate, and load pipelines to prepare and process data for AI [[Algorithms]].
 >
 > **[1:34](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=94)** Cloud architecture also supports AI through prebuilt services and frameworks.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=99)** Platforms like Google AI, AWS AI and Azure AI offer APIs for natural language processing, image recognition, speech to text, and more, allowing developers to integrate AI solutions without building models from scratch.
+> **[1:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=99)** Platforms like [[Google]] AI, AWS AI and Azure AI offer APIs for [[Natural Language Processing (NLP)|natural language processing]], image recognition, speech to text, and more, allowing developers to integrate [[AI Solutions]] without building models from scratch.
 >
-> **[1:55](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=115)** The architecture scalability enables AI systems to handle dynamic workloads, such as real-time data processing for fraud detection or live customer support bots.
+> **[1:55](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=115)** The architecture [[Scalability]] enables AI systems to handle dynamic workloads, such as [[Real-Time]] [[Data Processing]] for fraud detection or live [[Customer Support]] bots.
 >
 > **[2:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-architecture-and-ai?u=76281980&t=126)** Elastic compute services ensure the resources adjust dynamically, accommodating varying loads.
 >
@@ -550,14 +536,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), cloud (11), data (8), aws (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Scalability]] (2), [[Cloud Computing]] (1), [[Application Development]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** aws (2), etl (1), gdpr (1), hipaa (1)
 > **CLI Commands:** aws (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Approaching architecture planning for Atlas Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980)
+#### [Challenge: Approaching architecture planning for Atlas Inc.](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=5)** - [Instructor] Atlas Incorporated, a mid-size business that is aiming to transition to the cloud.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=10)** They face significant uncertainty in understanding how to approach a basic cloud computing architecture.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=10)** They face significant uncertainty in understanding how to approach a basic [[Cloud Computing]] architecture.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=18)** The primary issue lies in the absence of a structured plan.
 >
@@ -573,13 +558,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=33)** Defining key requirements is another major hurdle.
 >
-> **[0:36](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=36)** Atlas struggles to identify essential components of cloud environments, such as compute power, storage solutions, and networking configurations, and match them with business needs, like performance, scalability, and cost effectiveness.
+> **[0:36](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=36)** Atlas struggles to identify essential components of cloud environments, such as compute power, storage solutions, and networking configurations, and match them with business needs, like performance, [[Scalability]], and cost effectiveness.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=51)** For example, should they prioritize storage for high-volume data focused on compute-heavy tasks, or aim to balance both?
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=60)** Atlas also must determine which cloud model to adopt, such as public, private, or hybrid while evaluating providers like AWS, Azure or Google Cloud, each offering distinct features and trade-offs.
+> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=60)** Atlas also must determine which cloud model to adopt, such as public, private, or hybrid while evaluating providers like AWS, [[Microsoft Azure|Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]], each offering distinct features and trade-offs.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=74)** The lack of technical expertise within the team complicates the decision-making process further, leaving gaps in understanding of long-term management, cost controls, and scaling strategies.
+> **[1:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=74)** The lack of technical expertise within the team complicates the [[Decision-Making]] process further, leaving gaps in understanding of long-term management, cost controls, and scaling strategies.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/challenge-approaching-architecture-planning-for-atlas-inc?u=76281980&t=87)** The challenge for Atlas is not just about choosing a cloud provider, but also creating a foundation cloud architecture that can grow, adapt, and perform efficiently while aligning with their business goals.
 >
@@ -591,7 +576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), business (3), power (1), [[Scalability]] (1), data (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Scalability]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Decision-Making]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** aws (1), find (1)
 > **Env Vars:** aws (1)
@@ -599,14 +584,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Approaching architecture planning for Atlas Inc.
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980)
+#### [Solution: Approaching architecture planning for Atlas Inc.](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=5)** - [Instructor] To design a basic cloud computing architecture for Atlas Incorporated, the first step is identifying the core business objectives that the architecture needs to address, such as scalability, operational efficiency, and budget management.
+> **[0:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=5)** - [Instructor] To design a basic [[Cloud Computing]] architecture for Atlas Incorporated, the first step is identifying the core business objectives that the architecture needs to address, such as [[Scalability]], operational efficiency, and budget management.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=20)** Starting with a high-level understanding of priorities ensures that technical decisions align with business goals.
 >
@@ -618,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=51)** Next, a logical architecture should be developed defining the basic structure of the cloud environment.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=56)** Atlas could determine the allocation of storage systems, such as object or block storage, compute power, such as virtual machines, or serverless options and networking solutions, such as virtual private networks or load balancers.
+> **[0:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=56)** Atlas could determine the allocation of storage systems, such as object or block storage, compute power, such as [[Virtual Machines]], or serverless options and networking solutions, such as virtual private networks or load balancers.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/solution-approaching-architecture-planning-for-atlas-inc?u=76281980&t=71)** Flexibility during this phase is critical to allow adjustments as insights are gained.
 >
@@ -630,7 +614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (2), [[Scalability]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Cloud Computing]] (1), [[Virtual Machines]] (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright electronic music) (1)
@@ -640,23 +624,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
+#### [Cloud storage](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-storage?u=76281980)
 
-#### Cloud compute
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980)
+#### [Cloud compute](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=0)** - [Instructor] Compute, simply put, is attaching some sort of virtual processor to your cloud system to function as if you have a specific CPU, and memory system that are able to carry out processing.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=12)** Within a typical cloud platform, we have memory storage and operating systems, such as Linux.
+> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=12)** Within a typical cloud platform, we have memory storage and operating systems, such as [[Linux]].
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=18)** How the whole thing functions or is operated.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=21)** And finally, some type of CPU, or sometimes called a core.
 >
-> **[0:26](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=26)** The CPU, or a compute platform, based upon public cloud services, such as AWS, Microsoft, or Google, need to have memory, and, most of the time, storage as well.
+> **[0:26](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=26)** The CPU, or a compute platform, based upon public [[Cloud Services]], such as AWS, [[Microsoft]], or [[Google]], need to have memory, and, most of the time, storage as well.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-compute?u=76281980&t=37)** So while you may be able to pick a specific processor, you'll also have to create a total configuration around that processor, because CPUs themselves can't work without input and output to something.
 >
@@ -666,48 +648,46 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), [[Linux]] (1), aws (1), [[Microsoft]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Cloud Services]] (1), [[Microsoft]] (1), [[Google]] (1)
 > **Env Vars:** cpu (7), aws (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** aws (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980)
+#### [Cloud databases](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=0)** - [Instructor] Databases are just really a system that's able to leverage some type of storage system, such as block or object storage in a structured way that applications or humans find easier to deal with.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=0)** - [Instructor] [[Databases]] are just really a system that's able to leverage some type of storage system, such as block or object storage in a structured way that applications or humans find easier to deal with.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=12)** Most cloud computing providers offer many different databases ranging from cloud native databases, which are built and provided just on that cloud provider, third party databases, or other popular databases that run on the cloud as a non-native cloud service such as Oracle or SQL Server.
+> **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=12)** Most [[Cloud Computing]] providers offer many different databases ranging from cloud native databases, which are built and provided just on that cloud provider, third party databases, or other popular databases that run on the cloud as a non-native cloud service such as Oracle or [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:32](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=32)** There are few important things to understand about databases, including the fact that they provide some sort of interface to place data, remove data, and read data, typically an API or a specific language such as SQL.
+> **[0:32](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=32)** There are few important things to understand about databases, including the fact that they provide some sort of interface to place data, remove data, and read data, typically an API or a specific language such as [[SQL]].
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=47)** They're able to either accept new data using single updates from applications or other database interface users, or it can do massive data loads such as needed when moving from on-premises data storage systems to cloud-based databases.
+> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=47)** They're able to either accept new data using single updates from applications or other database interface users, or it can do massive data loads such as needed when moving from on-premises [[Data Storage]] systems to cloud-based databases.
 >
-> **[1:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=66)** They have other services such as data security, metadata management, backup and recovery services, and interfaces with other add-on services such as artificial intelligence and machine learning.
+> **[1:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=66)** They have other services such as [[Data Security]], [[Metadata]] management, backup and recovery services, and interfaces with other add-on services such as [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
-> **[1:19](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=79)** Databases are common to most cloud computing architectures due to the ease of managing data using a system that was purpose built to do data management.
+> **[1:19](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=79)** Databases are common to most cloud computing architectures due to the ease of managing data using a system that was purpose built to do [[Data Management]].
 >
 > **[1:30](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=90)** They are often a part of application domains providing all data storage and recall for that application, or can be a part of the larger data warehouse or data mart or even a part of an emerging technology such as the use of a data lake or data lake house.
 >
-> **[1:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=107)** Essentially, all databases provide a means of leveraging larger amounts of structured and unstructured data to draw conclusions from that data, such as if sales are going up or going down.
+> **[1:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-databases?u=76281980&t=107)** Essentially, all databases provide a means of leveraging larger amounts of structured and [[Unstructured Data]] to draw conclusions from that data, such as if sales are going up or going down.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Databases]] (9), cloud (7), management (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (9), [[Cloud Computing]] (2), [[Data Storage]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Analogies:** such as (7)
 > **Env Vars:** sql (2), api (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980)
+#### [Cloud security](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=0)** - [Instructor] Cloud security considerations should be fully integrated in every step of the cloud computing architecture creation process.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=0)** - [Instructor] [[Cloud Security]] considerations should be fully integrated in every step of the [[Cloud Computing]] architecture creation process.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=9)** Thus, it's difficult to define this as a separate step as we have with topics such as selecting a database, or picking a CPU and operating system.
 >
@@ -715,43 +695,42 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=29)** It's systemic to everything we do in order to be successful.
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=33)** Thus, it's important to understand that cloud security at an architectural level requires a specific set of skills and/or technology, including use of encryption in flight and at rest.
+> **[0:33](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=33)** Thus, it's important to understand that cloud security at an architectural level requires a specific set of skills and/or technology, including use of encryption in flight and at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:46](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=46)** Use of identity management, including directories that store identities.
 >
 > **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=51)** Use of a specific cloud security service on the public cloud platforms you're leveraging.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=56)** Data security, platform security, et cetera.
+> **[0:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=56)** [[Data Security]], platform security, et cetera.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=60)** My recommendation is that you learn about security specifically and in depth, meaning that you watch one or more of the videos on the topic here on LinkedIn Learning to gain more insights and learn how it relates to cloud computing architecture.
+> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-security?u=76281980&t=60)** My recommendation is that you learn about security specifically and in depth, meaning that you watch one or more of the videos on the topic here on [[LinkedIn]] Learning to gain more insights and learn how it relates to cloud computing architecture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Security]] (7), data (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cloud Security]] (4), [[Cloud Computing]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Security]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud operations (CloudOps)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980)
+#### [Cloud operations (CloudOps)](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=0)** - [Narrator] Cloud operations is the ability to plan for and carry out all of the processes and tasks needed to continue to run and deploy cloud systems.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=10)** In the world of cloud computing architecture, this means thinking about how we're going to operate our systems, or systems once deployed.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=10)** In the world of [[Cloud Computing]] architecture, this means thinking about how we're going to operate our systems, or systems once deployed.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=18)** This includes skills likely needed, tools likely needed, processes and playbooks likely needed, improving operations moving forward, and business continuity.
 >
 > **[0:30](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=30)** Skills planning is important to cloud computing architecture when considering that we're not only looking for what skills are going to be required for successful operations, but also looking at the cost of obtaining and maintaining those skills.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=44)** Create an inventory of cloud services that need to be operated and then match the skills needed and the number of resources needed to operate those applications, databases, and other cloud-based systems successfully.
+> **[0:44](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=44)** Create an inventory of [[Cloud Services]] that need to be operated and then match the skills needed and the number of resources needed to operate those applications, [[Databases]], and other cloud-based systems successfully.
 >
 > **[0:59](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=59)** Tools are typically something that architects pick too early in the process.
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=64)** It's essential to first establish what needs to be monitored and operated and then how they will be operated, and then and only then do you have all the information needed to pick the right tools.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=76)** In the case of operations, this means that we're looking at tools, such as database monitoring and administrative tooling, such as AIOps or artificial intelligent operations tools, that are able to automate much of operations using knowledge engines and other tools that may be needed to keep an eye on everything that's keeping things running.
+> **[1:16](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=76)** In the case of operations, this means that we're looking at tools, such as database monitoring and administrative tooling, such as [[AIOps]] or artificial intelligent operations tools, that are able to automate much of operations using knowledge engines and other tools that may be needed to keep an eye on everything that's keeping things running.
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-operations-cloudops?u=76281980&t=98)** Process and playbooks should outline the things that are needed to be accomplished.
 >
@@ -775,35 +754,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), business (2), data (2), [[Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (2), [[Databases]] (1), [[AIOps]] (1)
 > **Analogies:** such as (4), for instance (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Cloud AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980)
+#### [Cloud AI](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=0)** - [Instructor] AI systems rely on high performance computing for tasks like training machine learning models, and running AI algorithms in production.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=0)** - [Instructor] AI systems rely on high performance computing for tasks like training machine learning models, and running AI [[Algorithms]] in production.
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=9)** A cloud architecture must incorporate scalable and elastic compute resources, such as GPUs or TPU, to handle AI resource-intensive workloads efficiently.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=21)** For example, serverless computing can provide flexible on demand infrastructure tailored to AI needs for GPU and TPU clusters that can be accessed on demand.
+> **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=21)** For example, [[Serverless Computing]] can provide flexible on demand infrastructure tailored to AI needs for GPU and TPU clusters that can be accessed on demand.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=31)** Data is the foundation of AI.
 >
-> **[0:34](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=34)** Cloud architectures must include robust data storage solutions like data lakes or object storage to handle large structured and unstructured data sets that are used to train the AI models.
+> **[0:34](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=34)** Cloud architectures must include robust [[Data Storage]] solutions like [[Data Lakes]] or object storage to handle large structured and [[Unstructured Data]] sets that are used to train the AI models.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=47)** The architecture should also leverage data processing pipelines for cleaning, transforming, and loading data into machine learning workflows.
+> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=47)** The architecture should also leverage [[Data Processing]] pipelines for cleaning, transforming, and loading data into machine learning workflows.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=56)** Storage and processing must be designed to meet the AI requirements of performance latency and compliance with regulatory standards.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=64)** Cloud providers offer integrated AI services, APIs, and tools for natural language processing, image recognition, and predictive analytics.
+> **[1:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=64)** Cloud providers offer integrated AI services, APIs, and tools for [[Natural Language Processing (NLP)|natural language processing]], image recognition, and [[Predictive Analytics]].
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=74)** These out of the box solutions speed up development and reduce complexity, allowing architects to quickly integrate AI capabilities into applications.
 >
-> **[1:24](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=84)** Scalability is critical.
+> **[1:24](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=84)** [[Scalability]] is critical.
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=85)** AI workloads can fluctuate unpredictably, so the architecture must support autoscaling to manage peaks in demand.
 >
@@ -811,33 +789,31 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=102)** Lastly, security and governance are essential.
 >
-> **[1:44](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=104)** Ensuring data integrity, privacy, and compliance standards are met when deploying AI tools.
+> **[1:44](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=104)** Ensuring [[Data Integrity]], [[Privacy]], and compliance standards are met when deploying AI tools.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/cloud-ai?u=76281980&t=112)** By designing with these considerations in mind, cloud architectures can efficiently support AI systems, allowing high scalability, innovation, and value delivery to the business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (6), cloud (4), [[Scalability]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Algorithms]] (1), [[Serverless Computing]] (1), [[Data Storage]] (1), [[Data Lakes]] (1)
 > **Env Vars:** tpu (2), gpu (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Additional cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/additional-cloud-services?u=76281980)
+#### [Additional cloud services](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/additional-cloud-services?u=76281980)
 
 
 ### 4. From Requirements to Solutions
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Storage level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
+#### [Storage level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=0)** - [Lecturer] Let's start at the storage level when approaching cloud architecture.
 >
-> **[0:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=4)** We'll be working with a few different levels for our basic architecture, and these include data level, how we're going to store structured and unstructured data.
+> **[0:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=4)** We'll be working with a few different levels for our basic architecture, and these include data level, how we're going to store structured and [[Unstructured Data]].
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=14)** Compute level, or which CPU and platform we're going to leverage.
 >
@@ -857,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=54)** Storage level architecture means we're looking at both physical and logical storage systems.
 >
-> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=60)** Physical storage defines how we're going to place information in binaries on cloud storage.
+> **[1:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=60)** Physical storage defines how we're going to place information in binaries on [[Cloud Storage]].
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=66)** Logical storage is a conceptual architecture without binding that architecture to a specific cloud storage technology.
 >
@@ -869,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=116)** Physical storage typically means we're picking specific storage technologies, including but not limited to object, block, and file storage systems on cloud platforms.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=126)** Also, the cloud platforms we're going to use such as AWS, Google, and Microsoft.
+> **[2:06](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=126)** Also, the cloud platforms we're going to use such as AWS, [[Google]], and [[Microsoft]].
 >
 > **[2:13](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/storage-level?u=76281980&t=133)** The lessons learned here is that it's best to move from logical to physical architecture and don't jump right to the selection of the technology.
 >
@@ -879,19 +855,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (4), [[Security]] (2), data (1), [[Unstructured Data]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (3), [[Unstructured Data]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** aws (1), make (1)
 > **Env Vars:** cpu (1), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Data level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980)
+#### [Data level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=0)** - [Instructor] The data level is about defining which database systems are correct for the architecture in terms of meeting requirements of humans, applications and systems that will be using the cloud-based databases.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=0)** - [Instructor] The data level is about defining which [[Database Systems]] are correct for the architecture in terms of meeting requirements of humans, applications and systems that will be using the cloud-based [[Databases]].
 >
 > **[0:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=12)** Defining the right logical architecture for data.
 >
@@ -913,33 +888,32 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=64)** Analytical databases are purpose-built to deal with the storage and understanding of large amounts of data.
 >
-> **[1:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=72)** These go by different names, including traditional data warehouse, data lakes, big data and data lakehouses.
+> **[1:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=72)** These go by different names, including traditional data warehouse, [[Data Lakes]], [[Big Data]] and data lakehouses.
 >
 > **[1:20](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=80)** When you hear those terms, they are most likely talking about analytical databases, which are used to create those systems.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=89)** So, we first focused on the logical data-level architecture, which does not focus on the technology, and then the physical architecture, which does.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=99)** Upon creating a logical data architecture, we should ensure that we're considering all of the requirements that we need to consider when creating the ideal database architecture concept or logical architecture.
+> **[1:39](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=99)** Upon creating a logical [[Data Architecture]], we should ensure that we're considering all of the requirements that we need to consider when creating the ideal database architecture concept or logical architecture.
 >
 > **[1:53](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/data-level?u=76281980&t=113)** During the physical architecture planning phase, we're going to focus on picking the actual database technology that has the best chance of solving the problems defined in the logical architecture.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (9), database (8), data (7), cloud (3), product (1)
+> **Frameworks & Libraries:** [[Databases]] (9), [[Database Systems]] (1), [[Data Lakes]] (1), [[Big Data]] (1), [[Data Architecture]] (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compute level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980)
+#### [Compute level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=0)** - [Instructor] The trick to creating an effective compute-level architecture for cloud computing architecture is to match the compute needs to a compute platform that can meet those needs.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=0)** - [Instructor] The trick to creating an effective compute-level architecture for [[Cloud Computing]] architecture is to match the compute needs to a compute platform that can meet those needs.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=10)** The issue with compute-level architecture is that cloud architects frequently either underpower or overpower the amount of compute needed.
 >
-> **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=18)** This is easy to do with public clouds since you're not actually provisioning hardware, but virtual systems that you'll never physically see.
+> **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=18)** This is easy to do with public clouds since you're not actually provisioning [[Hardware]], but virtual systems that you'll never physically see.
 >
 > **[0:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/compute-level?u=76281980&t=25)** Thus, in many instances, too much compute is used.
 >
@@ -977,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), [[Hardware]] (1), hit (1), power (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (3)
 > **Env Vars:** cpu (2)
@@ -985,20 +959,19 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980)
+#### [Network level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=0)** - [Narrator] While typically the cloud architect has teams of people to design, deploy, and modify networks in support of cloud computing, it's important that you understand how they relate to cloud-based systems and even some technologies that you'll have to pick.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=0)** - [Narrator] While typically the cloud architect has teams of people to design, deploy, and modify networks in support of [[Cloud Computing]], it's important that you understand how they relate to cloud-based systems and even some technologies that you'll have to pick.
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=18)** The world of cloud computing networks are not just the way data gets from the cloud to your desktop, computer or mobile phone.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=25)** They provide applications and databases within the cloud, the means of communication as well, and are configurable by the cloud architecture to support these functions.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=25)** They provide applications and [[Databases]] within the cloud, the means of communication as well, and are configurable by the cloud architecture to support these functions.
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=37)** Having a cloud network means setting up domain name servers within the clouds, as well as the ability to monitor and operate these intra-cloud communications using monitoring and management tools that the cloud providers provide.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=51)** Most of what you deal with as an architect is intra-cloud networking, or the way the cloud provider interconnects systems and cloud services you'll be leveraging.
+> **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=51)** Most of what you deal with as an architect is intra-cloud networking, or the way the cloud provider interconnects systems and [[Cloud Services]] you'll be leveraging.
 >
 > **[1:02](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/network-level?u=76281980&t=62)** Well, some of this is automatic, depending on your cloud provider.
 >
@@ -1014,29 +987,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (23), teams (1), data (1), [[Databases]] (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Cloud Services]] (2), [[Databases]] (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Env Vars:** vpc (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/security-level?u=76281980)
+#### [Security level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/security-level?u=76281980)
 
-#### Operations level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980)
+#### [Operations level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=0)** - [Instructor] We established the need to plan for how the systems you're architecting will operate longer term.
 >
-> **[0:07](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=7)** Now, let's talk about the means to do this by considering operational issues, such as CloudOps, or cloud operations, or how you'll operate the cloud systems holistically; SecOps, or security operations, or how you will operate your security systems; DataOps, or data operations; AppOps, or application operations.
+> **[0:07](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=7)** Now, let's talk about the means to do this by considering operational issues, such as CloudOps, or cloud operations, or how you'll operate the cloud systems holistically; SecOps, or [[Security Operations]], or how you will operate your security systems; DataOps, or data operations; AppOps, or application operations.
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=29)** You'll find that each has a set of processes and procedures that are leveraged as best practices.
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=35)** For example, leveraging AIOps, AI-assisted operations tooling to automate most aspects of CloudOps, such as finding and fixing I/O problem errors on a storage device automatically.
+> **[0:35](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=35)** For example, leveraging [[AIOps]], AI-assisted operations tooling to automate most aspects of CloudOps, such as finding and fixing I/O problem errors on a storage device automatically.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=48)** AIOps tools are any tool that is leveraged for cloud operations, such as monitoring and online retail sales system, which exists in a public cloud, including the customer interface, the application, and the data storage system.
+> **[0:48](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=48)** AIOps tools are any tool that is leveraged for cloud operations, such as monitoring and online retail sales system, which exists in a public cloud, including the customer interface, the application, and the [[Data Storage]] system.
 >
 > **[1:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=63)** It's the job of the tool to alert humans or perhaps some automated processes that there is an issue that needs to be corrected, such as the database not responding.
 >
@@ -1070,7 +1041,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=204)** Operations are important to consider as part of your architecture.
 >
-> **[3:28](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=208)** This is due to the number of things that have to be monitored and operated ongoing, including security, databases, applications, or the public clouds themselves.
+> **[3:28](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=208)** This is due to the number of things that have to be monitored and operated ongoing, including security, [[Databases]], applications, or the public clouds themselves.
 >
 > **[3:38](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/operations-level?u=76281980&t=218)** Keep in mind that this is how the success of an architecture is determined, not just the fact that it works the first day it's deployed, but that it's able to function ongoing to meet the needs of the business.
 >
@@ -1078,15 +1049,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[AIOps]] (4), [[Security]] (3), database (3), data (2)
+> **Frameworks & Libraries:** [[AIOps]] (4), [[Security Operations]] (1), [[Data Storage]] (1), [[Databases]] (1)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980)
+#### [Application level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,55 +1066,54 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=32)** Select how the application is to be designed, such as breaking it into component parts that run separately, or build an application that's more monolithic.
 >
-> **[0:40](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=40)** Finally, determine how the application is able to keep running, such as leveraging resiliency services, for example, redundant servers that can failover to each other.
+> **[0:40](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=40)** Finally, determine how the application is able to keep running, such as leveraging [[Resiliency]] services, for example, redundant servers that can failover to each other.
 >
-> **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=51)** The reality here is that while you may assist in defining core architecture, such as the use of serverless computing and containers, developers will most likely build the actual applications.
+> **[0:51](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=51)** The reality here is that while you may assist in defining core architecture, such as the use of [[Serverless Computing]] and containers, developers will most likely build the actual applications.
 >
-> **[1:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=63)** Thus, you must work closely with the developer teams to ensure that they are providing their feedback as to how to optimize application development, deployment, and operations.
+> **[1:03](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=63)** Thus, you must work closely with the developer teams to ensure that they are providing their feedback as to how to optimize [[Application Development]], deployment, and operations.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=75)** You may find that something that you believe is architecturally important could be something that increases their amount of work, and brings unnecessary risk.
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=84)** All of this needs to be discussed before you define a final agreement on what the application architecture should be.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=92)** The concept of collaboration is something that is needed when doing architecture, considering that your decisions affect any number of other teams such as security, development, operations, databases, et cetera.
+> **[1:32](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/application-level?u=76281980&t=92)** The concept of collaboration is something that is needed when doing architecture, considering that your decisions affect any number of other teams such as security, development, operations, [[Databases]], et cetera.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), cloud (2), teams (2), data (1), business (1)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Serverless Computing]] (1), [[Application Development]] (1), [[Databases]] (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI level
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980)
+#### [AI level](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=0)** - [Instructor] The AI level integrates with existing levels such as the application, operations and security levels to provide intelligent automation, predictive analytics, and other services that the business may need.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=0)** - [Instructor] The AI level integrates with existing levels such as the application, operations and security levels to provide intelligent automation, [[Predictive Analytics]], and other services that the business may need.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=13)** Let's look at how AI exists within the overall cloud architecture and interacts with the other levels we have presented in this section.
 >
-> **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=21)** Data integration.
+> **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=21)** [[Data Integration]].
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=22)** As covered in past videos, AI models require data from various sources for training purposes.
 >
-> **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=29)** The AI level integrates with the data level to access both transactional and analytical databases.
+> **[0:29](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=29)** The AI level integrates with the data level to access both transactional and analytical [[Databases]].
 >
-> **[0:35](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=35)** Data pipelines are established to feed data into AI models for training and inference.
+> **[0:35](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=35)** [[Data Pipelines]] are established to feed data into AI models for training and inference.
 >
 > **[0:41](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=41)** Compute resources.
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=43)** AI models often require significant compute power.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=47)** The AI level leverages the compute level to provision GPUs and TPUs and other specialized hardware for training and running models.
+> **[0:47](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=47)** The AI level leverages the compute level to provision GPUs and TPUs and other specialized [[Hardware]] for training and running models.
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=55)** Serverless technologies can be used for scalable and on-demand AI processing.
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=61)** AI services.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=62)** Cloud providers offer a suite of AI services, including machine learning platforms, natural language processing, computer vision, and more.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=62)** Cloud providers offer a suite of AI services, including machine learning platforms, [[Natural Language Processing (NLP)|natural language processing]], [[Computer Vision]], and more.
 >
 > **[1:12](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/ai-level?u=76281980&t=72)** The AI level leverages these services to implement AI functionalities.
 >
@@ -1164,12 +1133,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (5), cloud (4), application (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Data Integration]] (1), [[Databases]] (1), [[Data Pipelines]] (1), [[Hardware]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a winning cloud architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980)
+#### [Creating a winning cloud architecture](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,7 +1145,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980&t=10)** We're also considering all viable solutions and doing so with an open mind.
 >
-> **[0:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980&t=17)** Cloud architects often get in trouble when they assume things such as pre-selecting a cloud or cloud services before understanding what the requirements are.
+> **[0:17](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980&t=17)** Cloud architects often get in trouble when they assume things such as pre-selecting a cloud or [[Cloud Services]] before understanding what the requirements are.
 >
 > **[0:28](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/creating-a-winning-cloud-architecture?u=76281980&t=28)** This is due to bias that we all have, such as working with a specific cloud provider in the past or specific cloud native service.
 >
@@ -1201,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), database (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (3)
 > **Analogies:** such as (2)
@@ -1212,12 +1180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Step 1: Define your requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
+#### [Step 1: Define your requirements](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980&t=0)** - [Instructor] For the purpose of this course, we'll define the steps of doing a basic cloud computing architecture as step one, define your requirements, step two, define your desired end state, step three, mapping as is to to be, step four, create final architecture.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980&t=0)** - [Instructor] For the purpose of this course, we'll define the steps of doing a basic [[Cloud Computing]] architecture as step one, define your requirements, step two, define your desired end state, step three, mapping as is to to be, step four, create final architecture.
 >
 > **[0:21](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-1-define-your-requirements?u=76281980&t=21)** Along the way, you may add or remove steps as needed.
 >
@@ -1253,13 +1220,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), cloud (3), data (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Analogies:** imagine (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 2: Define your desired end state
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-2-define-your-desired-end-state?u=76281980)
+#### [Step 2: Define your desired end state](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-2-define-your-desired-end-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,13 +1249,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Security]] (2), next (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Step 3: Mapping "as is" to "to be"
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980)
+#### [Step 3: Mapping "as is" to "to be"](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,9 +1269,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=49)** This step is third and not first.
 >
-> **[0:52](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=52)** Since now we have an understanding of the to-be architecture, which is more logical at this point and the requirements and can determine how we're going to change things with the use of cloud computing.
+> **[0:52](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=52)** Since now we have an understanding of the to-be architecture, which is more logical at this point and the requirements and can determine how we're going to change things with the use of [[Cloud Computing]].
 >
-> **[1:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=65)** Keep in mind that this could be a very complex existing system, perhaps, 100 databases and 1000 applications.
+> **[1:05](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=65)** Keep in mind that this could be a very complex existing system, perhaps, 100 [[Databases]] and 1000 applications.
 >
 > **[1:14](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=74)** In that case, it makes sense to break that up into several problem domains and not to attempt to boil the ocean.
 >
@@ -1331,7 +1295,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=202)** For the future state, this means data or where the data should exist, what technology is leveraged and how it interacts with other systems.
 >
-> **[3:31](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=211)** Compute cloud servers that are to be leveraged and the platform attributes and what will be on those servers such as applications and data stores, storage, cloud storage systems to be leveraged and platform attributes and what will be on those servers, applications, number and type of applications and how they are created such as programming language and development platform that may or will exist on the cloud platforms.
+> **[3:31](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=211)** Compute cloud servers that are to be leveraged and the platform attributes and what will be on those servers such as applications and data stores, storage, [[Cloud Storage]] systems to be leveraged and platform attributes and what will be on those servers, applications, number and type of applications and how they are created such as programming language and development platform that may or will exist on the cloud platforms.
 >
 > **[3:59](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-3-mapping-as-is-to-to-be?u=76281980&t=239)** Governance, what governance system or systems will be leveraged and how it will be leveraged.
 >
@@ -1345,14 +1309,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), data (7), [[Security]] (5), [[Databases]] (2), application (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Cloud Computing]] (1), [[Cloud Storage]] (1)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [speaker] (1)
 
-#### Step 4: Create your final architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-4-create-your-final-architecture?u=76281980)
+#### [Step 4: Create your final architecture](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/step-4-create-your-final-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1382,7 +1345,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), cloud (2), data (1), parallel (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1394,11 +1356,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more about cloud architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)
+#### [Learning more about cloud architecture](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/learning-more-about-cloud-architecture?u=76281980)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1426,11 +1386,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=64)** Deep expertise in a niche area can make you a valuable asset in the industry.
 >
-> **[1:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=70)** Explore advanced topics on LinkedIn Learning.
+> **[1:10](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=70)** Explore advanced topics on [[LinkedIn]] Learning.
 >
 > **[1:13](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=73)** Expand your knowledge with courses here on LinkedIn Learning.
 >
-> **[1:16](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=76)** Consider courses focusing on cloud security best practices, advanced data architecture in the cloud, or AI and machine learning implementation strategies for cloud environments.
+> **[1:16](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=76)** Consider courses focusing on [[Cloud Security]] best practices, advanced [[Data Architecture]] in the cloud, or AI and machine learning implementation strategies for cloud environments.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-architecture-core-concepts-25837442/next-steps?u=76281980&t=87)** And finally, contribute.
 >
@@ -1446,7 +1406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Security]] (3), ai (3), data (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Cloud Security]] (1), [[Data Architecture]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

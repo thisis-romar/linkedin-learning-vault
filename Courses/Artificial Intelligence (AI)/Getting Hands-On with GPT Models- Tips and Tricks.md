@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Level up your ChatGPT skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
+#### [Level up your ChatGPT skills](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,9 +90,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=7)** We'll start with some basic prompting, like generating compelling content.
 >
-> **[0:11](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=11)** Then we'll advance our prompt engineering skills to explore things like few-shot learning and chain of thought reasoning.
+> **[0:11](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=11)** Then we'll advance our [[Prompt Engineering]] skills to explore things like few-shot learning and chain of thought reasoning.
 >
-> **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=17)** We'll also learn how generative AI can help us work with data and code, even if that's not your strong suit.
+> **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=17)** We'll also learn how [[Generative AI]] can help us work with data and code, even if that's not your strong suit.
 >
 > **[0:23](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/level-up-your-chatgpt-skills?u=76281980&t=23)** Hi, I'm Denys Linkov, Head of Machine Learning at Wisedocs.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Prompt Engineering]] (1), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (2)
 > **Speakers:** - okay (1)
 
-#### Configuring ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980)
+#### [Configuring ChatGPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=0)** - [Instructor] You might've used the public version of ChatGPT going to [chatgpt.com](https://chatgpt.com).
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=0)** - [Instructor] You might've used the public version of [[ChatGPT]] going to [chatgpt.com](https://chatgpt.com).
 >
 > **[0:05](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=5)** Here, you can use ChatGPT for free, but there are some limitations.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=79)** Now if we want to learn more, we can click on Learn More to open up the policies.
 >
-> **[1:23](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=83)** So when you're using large language models, it's important to review the policies as they can change, and also depending on the type of content that you're uploading.
+> **[1:23](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=83)** So when you're using [[Large Language Models (LLM)|large language models]], it's important to review the policies as they can change, and also depending on the type of content that you're uploading.
 >
 > **[1:31](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=91)** Let's close that.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=158)** Now here we can connect some different integrations depending on what we want to do with ChatGPT.
 >
-> **[2:42](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=162)** We see Google Drive, OneDrive, GitHub, Dropbox, and a few others.
+> **[2:42](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=162)** We see [[Google Drive]], [[Microsoft OneDrive|OneDrive]], [[GitHub]], Dropbox, and a few others.
 >
 > **[2:47](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/configuring-chatgpt?u=76281980&t=167)** As you're using ChatGPT, these integrations might evolve, so keep an eye out.
 >
@@ -226,7 +224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (17), data (3), prompt (3), business (2), ai (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (17), [[Large Language Models (LLM)|Large language models]] (1), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (9), go to (3), toggle (2)
 > **Speakers:** - [instructor] (3), - [chatgpt] (2)
 > **CLI Commands:** make (1)
@@ -240,8 +238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Brainstorming with GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
+#### [Brainstorming with GPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -249,9 +246,9 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=2)** We're trying to brainstorm some ideas, but nothing's coming to us.
 >
-> **[0:06](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=6)** Let's use GPT-4 to help us out.
+> **[0:06](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=6)** Let's use [[GPT-4]] to help us out.
 >
-> **[0:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=8)** I'm on [ChatGPT.com](https://ChatGPT.com) and have selected GPT-4o in the top left corner as my model.
+> **[0:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=8)** I'm on [[[ChatGPT]].com](https://ChatGPT.com) and have selected GPT-4o in the top left corner as my model.
 >
 > **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=14)** You can click up here to double check.
 >
@@ -303,7 +300,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=107)** Now the responses you might be getting or the ideas might be slightly different, so don't be alarmed.
 >
-> **[1:52](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=112)** Large language models often produce different results for different people at different times.
+> **[1:52](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=112)** [[Large Language Models (LLM)|Large language models]] often produce different results for different people at different times.
 >
 > **[1:56](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/brainstorming-with-gpt?u=76281980&t=116)** Okay, here we go, we have some ideas here.
 >
@@ -347,23 +344,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[GPT-4]] (2), prompt (1), [[Large Language Models (LLM)|Large language models]] (1), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[GPT-4]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (3), bogo (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **URLs:** [chatgpt.com](https://chatgpt.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterating with GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980)
+#### [Iterating with GPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=0)** - [Instructor] I'm hosting an event about ChatGPT and large language models, and I'd like some feedback from a colleague, but they're on vacation.
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=0)** - [Instructor] I'm hosting an event about [[ChatGPT]] and [[Large Language Models (LLM)|large language models]], and I'd like some feedback from a colleague, but they're on vacation.
 >
 > **[0:07](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=7)** So let's use GPT to start.
 >
-> **[0:09](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=9)** My goal is to iterate through an itinerary and get some feedback from GPT-4.
+> **[0:09](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=9)** My goal is to iterate through an itinerary and get some feedback from [[GPT-4]].
 >
 > **[0:13](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/iterating-with-gpt?u=76281980&t=13)** Now, I've attached this starting itinerary in the exercise folder.
 >
@@ -449,7 +445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), hit (3), prompt (2), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Large Language Models (LLM)|Large language models]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (3)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (1), :30 (1)
@@ -457,8 +453,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving writing with GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980)
+#### [Improving writing with GPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=14)** I'm here under 01_03 and I have mistakes_article.txt open.
 >
-> **[0:20](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=20)** Let's copy this and paste it into ChatGPT.
+> **[0:20](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=20)** Let's copy this and paste it into [[ChatGPT]].
 >
 > **[0:24](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=24)** You can see here I have some typos.
 >
@@ -478,7 +473,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=28)** If I keep scrolling down.
 >
-> **[0:29](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=29)** I have Office 363, not 365, and so forth.
+> **[0:29](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=29)** I have [[Microsoft Office|Office]] 363, not 365, and so forth.
 >
 > **[0:34](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=34)** So at the top, let's type, "Can you fix the mistakes in this article," and hit enter.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=65)** Okay, this table format is very nice, and I can even copy it if I want to paste it somewhere.
 >
-> **[1:11](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=71)** Now, this is a pretty cool call to action if I want to download this as a PDF or as a Word document.
+> **[1:11](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=71)** Now, this is a pretty cool call to action if I want to download this as a PDF or as a [[Microsoft Word|Word]] document.
 >
 > **[1:16](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-writing-with-gpt?u=76281980&t=76)** I still want to keep iterating, so let's not do that yet.
 >
@@ -518,7 +513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), hit (4), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gpt (1), pdf (1)
 > **File Paths:** mistakes_article.txt (1)
@@ -527,8 +522,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Creating an ice cream advertisement
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980)
+#### [Challenge: Creating an ice cream advertisement](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +532,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980&t=11)** The first, let's draft a list of the top five ice cream flavors.
 >
-> **[0:16](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980&t=16)** The second is let's create an email marketing campaign.
+> **[0:16](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980&t=16)** The second is let's create an [[Email Marketing]] campaign.
 >
 > **[0:19](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-creating-an-ice-cream-advertisement?u=76281980&t=19)** And finally, let's create three social media posts.
 >
@@ -554,8 +548,7 @@ created: 2026-05-02
 > **Speakers:** - [host] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating an ice cream advertisement
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980)
+#### [Solution: Creating an ice cream advertisement](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980&t=8)** We'll start off with our first task, which is brainstorming five new ice cream flavors.
 >
-> **[0:13](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980&t=13)** So here in ChatGPT, let's type out, can you create five new ice cream flavors for me?
+> **[0:13](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980&t=13)** So here in [[ChatGPT]], let's type out, can you create five new ice cream flavors for me?
 >
 > **[0:22](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-creating-an-ice-cream-advertisement?u=76281980&t=22)** And hit Enter.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), hit (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -653,12 +646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An overview of OpenAI GPT and Reasoning Models
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
+#### [An overview of OpenAI GPT and Reasoning Models](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=0)** - [Instructor] You might have noticed in the top left we have the ChatGPT dropdown.
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=0)** - [Instructor] You might have noticed in the top left we have the [[ChatGPT]] dropdown.
 >
 > **[0:04](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=4)** We have ChatGPT-4o, and then some other models.
 >
@@ -680,7 +672,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=52)** o-series models are stronger at math, coding, and logic problems.
 >
-> **[0:56](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=56)** They've been trained with additional reinforcement learning techniques, which will help the model learn on how to get to a clear answer.
+> **[0:56](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=56)** They've been trained with additional [[Reinforcement Learning]] techniques, which will help the model learn on how to get to a clear answer.
 >
 > **[1:03](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=63)** This is why these models are stronger coding and math, domains where verification on answers is easier.
 >
@@ -734,21 +726,20 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=157)** We see more thinking time, so we see, it thought for a few seconds, and then here we have the answer.
 >
-> **[2:44](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=164)** Now, if you've used some other large language models like Gemini, you can see the thought outputs, but for OpenAI models, like the o-series, those are hidden from the user.
+> **[2:44](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=164)** Now, if you've used some other [[Large Language Models (LLM)|large language models]] like [[Gemini]], you can see the thought outputs, but for OpenAI models, like the o-series, those are hidden from the user.
 >
-> **[2:54](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=174)** Now, for this course, we'll be using the GPT-4 family of models, but if you're facing problems that are more math- or coding-focused, you can go ahead and switch to the o-series.
+> **[2:54](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=174)** Now, for this course, we'll be using the [[GPT-4]] family of models, but if you're facing problems that are more math- or coding-focused, you can go ahead and switch to the o-series.
 >
 > **[3:05](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/an-overview-of-openai-gpt-and-reasoning-models?u=76281980&t=185)** So now when somebody asks you what's the difference between a GPT model and an o-series model, you'll have the answer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), hit (2), [[Reinforcement Learning]] (1), ux (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Reinforcement Learning]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Gemini]] (1), [[GPT-4]] (1)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** dropdown (1), switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving prompting with examples and quotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980)
+#### [Improving prompting with examples and quotes](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980&t=17)** So here we go.
 >
-> **[0:18](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980&t=18)** Once again, we can see the structure of ChatGPT.
+> **[0:18](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980&t=18)** Once again, we can see the structure of [[ChatGPT]].
 >
 > **[0:21](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/improving-prompting-with-examples-and-quotes?u=76281980&t=21)** We have the bold, we have the emojis, and so forth.
 >
@@ -826,14 +817,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), prompt (4), web (3), [[ChatGPT]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using completion sequences and few shot
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980)
+#### [Using completion sequences and few shot](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980&t=7)** Providing examples is a technique called few-shot learning.
 >
-> **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980&t=10)** Let me show you how this can be helpful using ChatGPT.
+> **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980&t=10)** Let me show you how this can be helpful using [[ChatGPT]].
 >
 > **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-completion-sequences-and-few-shot?u=76281980&t=14)** Let's go ahead and go into the Exercise Files.
 >
@@ -903,15 +893,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (4), hit (4), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4)
 > **CLI Commands:** cat (1), make (1)
 > **File Paths:** prompts.txt (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using chain-of-thought reasoning
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980)
+#### [Using chain-of-thought reasoning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -919,9 +908,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=4)** In the LM space, this approach is called chain-of-thought reasoning, and it can be applied to improving our prompting when using AI tools.
 >
-> **[0:12](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=12)** To show you how this works, let's talk about a word puzzle that has a series of operations.
+> **[0:12](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=12)** To show you how this works, let's talk about a [[Microsoft Word|word]] puzzle that has a series of operations.
 >
-> **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=17)** Normally, ChatGPT is really good at these puzzles, but I found one that doesn't work.
+> **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=17)** Normally, [[ChatGPT]] is really good at these puzzles, but I found one that doesn't work.
 >
 > **[0:22](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/using-chain-of-thought-reasoning?u=76281980&t=22)** Let's go ahead and grab our puzzle from exercise folder under 02_04.
 >
@@ -997,19 +986,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (7), prompt (5), hit (3), ai (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Microsoft Word|Word]] (1)
 > **Cross-References:** go back to (3)
 > **Definitions:** is called (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Give GPT a tricky problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-give-gpt-a-tricky-problem?u=76281980)
+#### [Challenge: Give GPT a tricky problem](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-give-gpt-a-tricky-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-give-gpt-a-tricky-problem?u=76281980&t=0)** - [Instructor] ChatGPT is quite good at solving logical problems, but can you find a way to trick it?
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-give-gpt-a-tricky-problem?u=76281980&t=0)** - [Instructor] [[ChatGPT]] is quite good at solving logical problems, but can you find a way to trick it?
 >
 > **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-give-gpt-a-tricky-problem?u=76281980&t=10)** Your challenge today has two parts.
 >
@@ -1021,14 +1009,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Give GPT a tricky problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980)
+#### [Solution: Give GPT a tricky problem](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,7 +1047,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=39)** Let's remove the, "Only output the answer," as we saw in the previous video and hit send.
 >
-> **[0:45](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=45)** Now by default, ChatGPT is going to output the answer using chain of thought reasoning.
+> **[0:45](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=45)** Now by default, [[ChatGPT]] is going to output the answer using chain of thought reasoning.
 >
 > **[0:51](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=51)** Now we have the correct answer.
 >
@@ -1076,11 +1063,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=82)** By using chain of thought reasoning and one-shot learning, we're able to get more consistent answers with GPT.
 >
-> **[1:28](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=88)** And I'm also curious what kind of problem you came up with, so feel free to share on LinkedIn on how you tricked ChatGPT.
+> **[1:28](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-give-gpt-a-tricky-problem?u=76281980&t=88)** And I'm also curious what kind of problem you came up with, so feel free to share on [[LinkedIn]] on how you tricked ChatGPT.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), [[ChatGPT]] (2), hit (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2), o2_06 (1)
 > **Cross-References:** as we saw (1), previous video (1)
 > **File Paths:** prompts.txt (1)
@@ -1094,12 +1081,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interpreting code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
+#### [Interpreting code with ChatGPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Whether you're new to coding or a pro, you'll want to know how ChatGPT can help you save time and teach you how to improve your skills.
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Whether you're new to coding or a pro, you'll want to know how [[ChatGPT]] can help you save time and teach you how to improve your skills.
 >
 > **[0:07](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/interpreting-code-with-chatgpt?u=76281980&t=7)** Right here I have some code that I grabbed from the exercise files, under 0301.
 >
@@ -1169,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), hit (2), prompt (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Env Vars:** gpt (2)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
@@ -1177,8 +1163,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980)
+#### [Generating code with ChatGPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,9 +1173,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=10)** Let's have GPT help us out to write some code for this task.
 >
-> **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=14)** Let's open up our Exercise Files and copy Prompt 1 and go to ChatGPT.
+> **[0:14](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=14)** Let's open up our Exercise Files and copy Prompt 1 and go to [[ChatGPT]].
 >
-> **[0:20](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=20)** So let's take a look at this prompt, "Write some JavaScript that takes in a list of fruits and counts how many there are."
+> **[0:20](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=20)** So let's take a look at this prompt, "Write some [[JavaScript]] that takes in a list of fruits and counts how many there are."
 >
 > **[0:26](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=26)** So JavaScript is a programming language and it can be run on a web browser.
 >
@@ -1224,7 +1209,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=95)** Okay, so what do we have here?
 >
-> **[1:37](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=97)** So this is HTML, it helps us create webpages and gives the structure.
+> **[1:37](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=97)** So this is [[HTML]], it helps us create webpages and gives the structure.
 >
 > **[1:42](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=102)** You might've seen HTML before, but if you haven't, don't worry too much.
 >
@@ -1250,7 +1235,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=149)** So that's pretty cool.
 >
-> **[2:30](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=150)** You might have heard of the term called vibe coding.
+> **[2:30](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=150)** You might have heard of the term called [[Vibe Coding]].
 >
 > **[2:33](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=153)** This is what we're doing.
 >
@@ -1314,11 +1299,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=268)** We have the explanation of the function, the declaration of the constant types of the list, apple, banana, orange, grape, kiwi, mango, and so forth.
 >
-> **[4:39](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=279)** Now, if we want more advanced functionality, we can go to the bottom right and click this Code review.
+> **[4:39](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=279)** Now, if we want more advanced functionality, we can go to the bottom right and click this [[Code Review]].
 >
 > **[4:44](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=284)** We have different options that we can use for coding: Code review, Port to a language, Fix bugs, Add logs, and Add comments.
 >
-> **[4:53](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=293)** Let's click Port to a language, and let's do it for Python and click Enter.
+> **[4:53](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=293)** Let's click Port to a language, and let's do it for [[Python (Programming Language)|Python]] and click Enter.
 >
 > **[5:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/generating-code-with-chatgpt?u=76281980&t=300)** Okay, here we go, this code is being rewritten.
 >
@@ -1336,7 +1321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (6), [[ChatGPT]] (5), [[JavaScript]] (4), prompt (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[JavaScript]] (4), [[HTML]] (2), [[Code Review]] (2), [[Vibe Coding]] (1)
 > **UI Navigation:** go to (6), click on (1)
 > **Env Vars:** gpt (3), html (2)
 > **CLI Commands:** make (3), python (1)
@@ -1345,12 +1330,11 @@ created: 2026-05-02
 > **Code Identifiers:** handlecount (1)
 > **Cross-References:** go back to (1)
 
-#### Editing code with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980)
+#### [Editing code with ChatGPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Let's learn how we can use GPT-4 to edit our code and find issues with it.
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=0)** - [Instructor] Let's learn how we can use [[GPT-4]] to edit our code and find issues with it.
 >
 > **[0:05](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=5)** I have some code here from the exercise files under 03_03 under prompt one.
 >
@@ -1360,7 +1344,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=16)** What is wrong with this code?
 >
-> **[0:21](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=21)** Now the goal of this code is to find a palindrome, meaning that the word is the same forwards and backwards.
+> **[0:21](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=21)** Now the goal of this code is to find a palindrome, meaning that the [[Microsoft Word|word]] is the same forwards and backwards.
 >
 > **[0:27](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=27)** It can also be a sentence, but we'll get to that.
 >
@@ -1376,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=50)** So let's go back to our exercise files and copy prompt number three.
 >
-> **[0:55](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=55)** So let's make sure that the ChatGPT code runs.
+> **[0:55](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=55)** So let's make sure that the [[ChatGPT]] code runs.
 >
 > **[0:57](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=57)** So let's paste it in.
 >
@@ -1394,11 +1378,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=85)** This is different code.
 >
-> **[1:27](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=87)** This is Python code, not my JavaScript code.
+> **[1:27](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=87)** This is [[Python (Programming Language)|Python]] code, not my [[JavaScript]] code.
 >
 > **[1:31](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=91)** So we have to be careful.
 >
-> **[1:33](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=93)** Let's go to the bottom-right here and click Code Review.
+> **[1:33](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=93)** Let's go to the bottom-right here and click [[Code Review]].
 >
 > **[1:36](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/editing-code-with-chatgpt?u=76281980&t=96)** So let's ask ChatGPT to run the code in the console.
 >
@@ -1506,7 +1490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), hit (6), prompt (3), [[JavaScript]] (3), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[JavaScript]] (3), [[GPT-4]] (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (6), find (2), python (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **Best Practices:** make sure to (4)
@@ -1515,16 +1499,15 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Env Vars:** gpt (1)
 
-#### Formatting responses as JSON with ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980)
+#### [Formatting responses as JSON with ChatGPT](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=0)** - [Narrator] Data entry and data processing can be a very tedious task.
+> **[0:00](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=0)** - [Narrator] Data entry and [[Data Processing]] can be a very tedious task.
 >
 > **[0:04](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=4)** Luckily, when generating and transforming data with GPT, we can specify the format of our data.
 >
-> **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=10)** One way to structure the data is with the JSON format.
+> **[0:10](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=10)** One way to structure the data is with the [[JSON]] format.
 >
 > **[0:13](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=13)** JSON is a structured form of data that uses keys and values.
 >
@@ -1536,7 +1519,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=31)** The key is the name of the book and the contents is the value.
 >
-> **[0:35](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=35)** So let's head over to ChatGPT to structure some data.
+> **[0:35](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=35)** So let's head over to [[ChatGPT]] to structure some data.
 >
 > **[0:38](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/formatting-responses-as-json-with-chatgpt?u=76281980&t=38)** We're going to ask ChatGPT to generate three recipes.
 >
@@ -1582,7 +1565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[JSON]] (4), [[ChatGPT]] (4), hit (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[ChatGPT]] (4), [[Data Processing]] (1)
 > **Env Vars:** json (4), gpt (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1), make sure to (1)
@@ -1590,8 +1573,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Auto formatting an API call
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980)
+#### [Challenge: Auto formatting an API call](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1611,9 +1593,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=35)** Now your goal with this data is two parts.
 >
-> **[0:37](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=37)** First, write a prompt that can extract the temperature for 12:00 p.m. Eastern Time and then have GPT-4 generate some JavaScript code that can make the call to the API and print all the temperatures returned.
+> **[0:37](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=37)** First, write a prompt that can extract the temperature for 12:00 p.m. Eastern Time and then have [[GPT-4]] generate some [[JavaScript]] code that can make the call to the API and print all the temperatures returned.
 >
-> **[0:50](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=50)** Now if you're struggling with this task, you can always ask ChatGPT for some help.
+> **[0:50](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=50)** Now if you're struggling with this task, you can always ask [[ChatGPT]] for some help.
 >
 > **[0:55](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/challenge-auto-formatting-an-api-call?u=76281980&t=55)** All right, this challenge is a little bit trickier, but I believe in you.
 >
@@ -1621,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (3), prompt (1), [[GPT-4]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1), [[JavaScript]] (1), [[ChatGPT]] (1)
 > **Env Vars:** api (5), gpt (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
@@ -1629,8 +1611,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Auto formatting an API call
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980)
+#### [Solution: Auto formatting an API call](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1644,9 +1625,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=23)** So let's go ahead and copy this text from current data all the way down until API call.
 >
-> **[0:30](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=30)** Now let's paste it into chatGPT.
+> **[0:30](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=30)** Now let's paste it into [[ChatGPT]].
 >
-> **[0:33](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=33)** If we scroll up, we can see my prompt "Extract the temperature for noon by writing a Python function."
+> **[0:33](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=33)** If we scroll up, we can see my prompt "Extract the temperature for noon by writing a [[Python (Programming Language)|Python]] function."
 >
 > **[0:38](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=38)** I'm going to go to tools and enable write or code.
 >
@@ -1692,7 +1673,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=118)** Let's hit enter and here we go. So we changed our script.
 >
-> **[2:02](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=122)** We're now fetching the weather data and we're extracting the noon temperatures and we can see the fetch from the API here.
+> **[2:02](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=122)** We're now fetching the weather data and we're extracting the noon temperatures and we can see the [[Fetch]] from the API here.
 >
 > **[2:09](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=129)** Let's go ahead in the top right and click run.
 >
@@ -1706,7 +1687,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=146)** Now, as you continue coding with chatGPT, you can ask follow up questions like what is an API?
 >
-> **[2:32](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=152)** What are the different forms of an API?
+> **[2:32](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=152)** What are the different [[Forms]] of an API?
 >
 > **[2:34](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/solution-auto-formatting-an-api-call?u=76281980&t=154)** And how do we format this information in different ways?
 >
@@ -1714,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), data (8), prompt (4), [[ChatGPT]] (4), hit (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1), [[Forms]] (1)
 > **Env Vars:** api (8), o3_06 (1), gpt (1)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Code Identifiers:** chatgpt (3)
@@ -1728,16 +1709,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=1)** - Thank you for joining me on this adventure to learn how to get the most out of ChatGPT.
+> **[0:01](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=1)** - Thank you for joining me on this adventure to learn how to get the most out of [[ChatGPT]].
 >
 > **[0:06](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=6)** OpenAI has some great resources about GPT, so you can check it out on their website at [openai.com](https://openai.com).
 >
-> **[0:12](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=12)** You can also follow me on LinkedIn, where I share content about generative AI.
+> **[0:12](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=12)** You can also follow me on [[LinkedIn]], where I share content about [[Generative AI]].
 >
 > **[0:17](https://www.linkedin.com/learning/getting-hands-on-with-gpt-models-tips-and-tricks/next-steps-26249246?u=76281980&t=17)** You can also check out my other LinkedIn Learning courses, like AI Pricing and ROI or LLM Evaluation Techniques.
 >
@@ -1745,7 +1725,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1), ai (1), llm (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Env Vars:** gpt (1), roi (1), llm (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 > **Speakers:** - thank (1)

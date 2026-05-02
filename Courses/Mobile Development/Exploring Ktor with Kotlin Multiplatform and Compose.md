@@ -103,14 +103,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Ktor with Kotlin Multiplatform and Compose Multiplatform
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980)
+#### [Explore Ktor with Kotlin Multiplatform and Compose Multiplatform](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980&t=0)** - Do you ever look at mobile apps and wonder how teams build for both Android and iOS without writing everything twice, or wish you could create a single backend that serves data to any platform?
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980&t=0)** - Do you ever look at mobile apps and wonder how teams build for both [[Android]] and iOS without writing everything twice, or wish you could create a single backend that serves data to any platform?
 >
-> **[0:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980&t=13)** In this LinkedIn Learning course, we'll build a complete cross platform app from the ground up using Kotlin's type safe, modern approach to multi-platform development.
+> **[0:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980&t=13)** In this [[LinkedIn]] Learning course, we'll build a complete cross platform app from the ground up using [[Kotlin]]'s type safe, modern approach to multi-platform development.
 >
 > **[0:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/exploring-ktor-with-kotlin-multiplatform-and-compose?u=76281980&t=24)** I'm Troy Miles.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), teams (1), data (1), [[LinkedIn]] (1), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[LinkedIn]] (1), [[Kotlin]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - do (1)
 
@@ -129,14 +128,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up Kotlin Multiplatform (KMP) projects with a Ktor server
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980)
+#### [Set up Kotlin Multiplatform (KMP) projects with a Ktor server](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=0)** - [Instructor] Welcome.
 >
-> **[0:01](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=1)** In this first module, we're setting up the foundation of our Kotlin multi-platform project, which includes both a mobile frontend and a Ktor-powered server backend.
+> **[0:01](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=1)** In this first module, we're setting up the foundation of our [[Kotlin]] multi-platform project, which includes both a mobile frontend and a [[Ktor]]-powered server backend.
 >
 > **[0:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=12)** We'll start by examining the server setup, how we launch it, and how the major pieces come together.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=22)** This is our entry point for the server.
 >
-> **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=25)** If you've used Spring Boot or Express before, this is similar to your main function or index.js.
+> **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=25)** If you've used [[Spring Boot]] or Express before, this is similar to your main function or index.js.
 >
 > **[0:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=32)** In Ktor, we created embedded server, specify the engine, here it's Netty, and provide a port, host, and a reference to the main application module.
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=62)** That's where the real setup happens.
 >
-> **[1:04](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=64)** We configure Koin for dependency injection, initialize the database, and install a few plugins.
+> **[1:04](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=64)** We configure Koin for [[Dependency Injection]], initialize the database, and install a few plugins.
 >
 > **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=72)** Let's walk through each of those steps.
 >
@@ -190,13 +188,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=170)** So to recap, our server entry point is main, which creates an embedded Netty server and invokes the Application.module method.
 >
-> **[3:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=180)** Inside that module, we install dependency injection, set up our databases, and register plugins that handle serialization, error handling, routing, monitoring, and background jobs.
+> **[3:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=180)** Inside that module, we install dependency injection, set up our [[Databases]], and register plugins that handle serialization, error handling, [[Routing]], monitoring, and background jobs.
 >
 > **[3:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-setup-with-ktor-server?u=76281980&t=193)** This modular structure keeps our code clean, organized, and ready for scaling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Ktor]] (3), database (3), [[Dependency Injection]] (2), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Ktor]] (3), [[Dependency Injection]] (2), [[Kotlin]] (1), [[Spring Boot]] (1), [[Databases]] (1)
 > **Prerequisites:** setup (3), configure (2), install (2), set up (1)
 > **Code Identifiers:** appconfigmodule (1), databasemodule (1), appmodule (1), initializedatabase (1), configureserialization (1)
 > **Env Vars:** orm (1), api (1), apod (1), http (1)
@@ -205,12 +203,11 @@ created: 2026-05-02
 > **URLs:** [http://0.0.0.0:8080](http://0.0.0.0:8080) (1)
 > **Ports:** :8080 (1)
 
-#### Essential Ktor plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980)
+#### [Essential Ktor plugins](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=0)** - [InstruKtor] Now that the Ktor server is up and running, let's talk about the core plugins that make it actually useful.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=0)** - [InstruKtor] Now that the [[Ktor]] server is up and running, let's talk about the core plugins that make it actually useful.
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=7)** These plugins are where Ktor gets its flexibility and they're the backbone of any serious Ktor application.
 >
@@ -218,9 +215,9 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=19)** This plugin allows a server to automatically serialize and deserialize requests and response bodies.
 >
-> **[0:27](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=27)** We've configured it with Kotlinx serialization, which gives us a fast and type safe way to work with JSON.
+> **[0:27](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=27)** We've configured it with Kotlinx serialization, which gives us a fast and type safe way to work with [[JSON]].
 >
-> **[0:36](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=36)** With content negotiation in place, we can return Kotlin objects directly from our route handlers, and Ktor will take care of turning them into proper HTTP responses, same goes for request bodies.
+> **[0:36](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=36)** With content negotiation in place, we can return [[Kotlin]] objects directly from our route handlers, and Ktor will take care of turning them into proper HTTP responses, same goes for request bodies.
 >
 > **[0:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=52)** Ktor will handle deserialization for us.
 >
@@ -248,21 +245,20 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=128)** Each plugin is installed in the application.module function.
 >
-> **[2:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=133)** To sum it up, Ktor plugins handle a lot of the boring but necessary parts of web development, serialization, logging, error handling, compression.
+> **[2:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=133)** To sum it up, Ktor plugins handle a lot of the boring but necessary parts of [[Web Development]], serialization, logging, error handling, compression.
 >
 > **[2:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/essential-ktor-plugins?u=76281980&t=146)** We've wired them up in a clean, modular way so our server is easy to extend and debug.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ktor]] (6), application (2), api (2), [[JSON]] (1), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Ktor]] (6), [[JSON]] (1), [[Kotlin]] (1), [[Web Development]] (1)
 > **Env Vars:** http (2), api (2), json (1), apod (1)
 > **CLI Commands:** make (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instruktor] (1)
 
-#### NASA Astronomy Picture of the Day (APOD) API integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980)
+#### [NASA Astronomy Picture of the Day (APOD) API integration](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=49)** Here's how that works.
 >
-> **[0:51](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=51)** When a client hits API APOD today, Ktor routes that request to the service.
+> **[0:51](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=51)** When a client hits API APOD today, [[Ktor]] routes that request to the service.
 >
 > **[0:59](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=59)** So we start here at /api/apod/today, and then it calls apodService.getTodayApod, and that brings us here to getTodayApod.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=144)** We use similar flow for other endpoints.
 >
-> **[2:27](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=147)** For API APOD date, we validate the format, check the cache, and if needed, fetch from NASA.
+> **[2:27](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=147)** For API APOD date, we validate the format, check the cache, and if needed, [[Fetch]] from NASA.
 >
 > **[2:35](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/nasa-apod-api-integration?u=76281980&t=155)** We even guard against invalidate like future dates or anything before June 16th, 1995 when the APOD program started.
 >
@@ -364,7 +360,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), data (3), [[Ktor]] (2), database (2), hit (2)
+> **Frameworks & Libraries:** [[Ktor]] (2), [[Fetch]] (1)
 > **Env Vars:** apod (11), api (10), nasa (9), ngc (2)
 > **Code Identifiers:** gettodayapod (2), apodservice (1), apoddao (1), cachedapod (1)
 > **Analogies:** picture (2), just like (1)
@@ -373,8 +369,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 
-#### APOD API endpoints with validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-api-endpoints-with-validation?u=76281980)
+#### [APOD API endpoints with validation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-api-endpoints-with-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +457,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), database (1)
 > **Env Vars:** api (7), apod (6), url (1), iso (1), http (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** validatedate (1)
@@ -471,8 +465,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Enhanced date validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-enhanced-date-validation?u=76281980)
+#### [Challenge: Enhanced date validation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-enhanced-date-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,14 +489,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Enhanced date validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-enhanced-date-validation?u=76281980)
+#### [Solution: Enhanced date validation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-enhanced-date-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,18 +548,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SQLite setup with Exposed object-relational mapping (ORM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980)
+#### [SQLite setup with Exposed object-relational mapping (ORM)](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=0)** - [Instructor] Now that we have a working Ktor server, pulling data from NASA's APOD API, it's time to start storing that data locally.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=0)** - [Instructor] Now that we have a working [[Ktor]] server, pulling data from NASA's APOD API, it's time to start storing that data locally.
 >
 > **[0:09](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=9)** In this module, we'll hook up SQLite using JetBrains as Exposed ORM.
 >
 > **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=15)** You might have noticed there's no DB in the project, and that's on purpose.
 >
-> **[0:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=19)** We don't check the database into version control.
+> **[0:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=19)** We don't check the database into [[Version Control]].
 >
 > **[0:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=22)** It gets created automatically at runtime and lives in a folder called data.
 >
@@ -578,13 +568,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=39)** Also worth calling out, we're not storing any images.
 >
-> **[0:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=43)** The database holds metadata about each photo, things like title, date, explanation, and the URL where the picture is hosted on NASA servers.
+> **[0:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=43)** The database holds [[Metadata]] about each photo, things like title, date, explanation, and the URL where the picture is hosted on NASA servers.
 >
 > **[0:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=54)** We establish a connection to SQLite in the initializeDatabase function.
 >
 > **[1:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=60)** It uses HikariCP, and this is going to be at the top, to manage performance and concurrency, and connects with the connection string that's passed to JetBrains Exposed, which handles everything from there.
 >
-> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=78)** Exposed is Kotlin's type-safe SQL framework.
+> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=78)** Exposed is [[Kotlin]]'s type-safe [[SQL]] framework.
 >
 > **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=81)** It gives us a clean DSL, a domain-specific language for defining tables, columns, and queries.
 >
@@ -608,13 +598,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=148)** It's one less thing to worry about when developing locally.
 >
-> **[2:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=151)** And since we're using SQLite, we don't need to spin up Postgre or MySQL just to test our server.
+> **[2:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=151)** And since we're using SQLite, we don't need to spin up Postgre or [[MySQL]] just to test our server.
 >
 > **[2:39](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=159)** This makes development lightweight and portable.
 >
 > **[2:42](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=162)** Later, if we want to move to a more scalable database, we can.
 >
-> **[2:46](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=166)** Just update to JDBC driver and change the connectivity string.
+> **[2:46](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=166)** Just update to [[Java Database Connectivity (JDBC)|JDBC]] driver and change the connectivity string.
 >
 > **[2:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/sqlite-setup-with-exposed-orm?u=76281980&t=172)** The best part, everything is pure Kotlin, so we get full support from the IDE plus compiler checks.
 >
@@ -622,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (4), [[Kotlin]] (3), [[Metadata]] (2), [[Ktor]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Metadata]] (2), [[Ktor]] (1), [[Version Control]] (1), [[SQL]] (1)
 > **Env Vars:** nasa (2), apod (1), api (1), orm (1), url (1)
 > **Code Identifiers:** initializedatabase (1), mediatype (1)
 > **Analogies:** picture (1), for example (1)
@@ -630,8 +620,7 @@ created: 2026-05-02
 > **SQL:** varchar (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data access layer implementation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980)
+#### [Data access layer implementation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +630,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=10)** In this module, we'll define our DAO, data access object classes using JetBrains expose.
 >
-> **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=18)** Classes like apod DAO and Cache metadata DAO, these classes are responsible for querying and updating tables in the database.
+> **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=18)** Classes like apod DAO and Cache [[Metadata]] DAO, these classes are responsible for querying and updating tables in the database.
 >
 > **[0:29](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=29)** Each one encapsulates logic for a specific table and all interactions happen through them.
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=108)** Expose requires transactions to safely interact with the database.
 >
-> **[1:53](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=113)** You can think of this as a cotton friendly wrapper around the JDBC transaction management.
+> **[1:53](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=113)** You can think of this as a cotton friendly wrapper around the [[Java Database Connectivity (JDBC)|JDBC]] transaction management.
 >
 > **[1:59](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=119)** Let's take get by date as an example.
 >
@@ -685,7 +674,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=137)** Similarly, the save function either inserts or replaces an existing row.
 >
-> **[2:23](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=143)** We use insert or replace to make sure we are not duplicating entries, and we store the current timestamp in the fetch at column.
+> **[2:23](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=143)** We use insert or replace to make sure we are not duplicating entries, and we store the current timestamp in the [[Fetch]] at column.
 >
 > **[2:34](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=154)** By isolating all this logic in the DAO, we can keep the code base clean.
 >
@@ -701,11 +690,11 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=187)** To wrap up, the data access layer is where we do the actual querying.
 >
-> **[3:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=193)** It is built entirely in Kotlin, Expose and safe transaction handling.
+> **[3:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/data-access-layer-implementation?u=76281980&t=193)** It is built entirely in [[Kotlin]], Expose and safe transaction handling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (4), [[Metadata]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1), management (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Fetch]] (1), [[Kotlin]] (1)
 > **Env Vars:** dao (7), varchar (2), dsl (1), nasa (1), jdbc (1)
 > **SQL:** varchar (2)
 > **Analogies:** for example (2)
@@ -714,18 +703,17 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Caching layer integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980)
+#### [Caching layer integration](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=0)** - [Instructor] With the data layer in place, we now have all the tools we need to start caching APOD metadata locally.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=0)** - [Instructor] With the data layer in place, we now have all the tools we need to start caching APOD [[Metadata]] locally.
 >
 > **[0:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=7)** In this module, we're going to connect everything together by adding a caching layer between the NASA API and the database.
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=14)** Most of the logic lives inside of the APOD service class.
 >
-> **[0:20](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=20)** This service acts as the middleman and it decides whether to fetch from the local database or call out to NASA.
+> **[0:20](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=20)** This service acts as the middleman and it decides whether to [[Fetch]] from the local database or call out to NASA.
 >
 > **[0:27](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=27)** Let's start with a get today APOD method.
 >
@@ -749,7 +737,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=79)** The service extracts all of that, which makes testing and maintenance much easier.
 >
-> **[1:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=86)** But we've also added resiliency.
+> **[1:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=86)** But we've also added [[Resiliency]].
 >
 > **[1:28](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/caching-layer-integration?u=76281980&t=88)** Suppose NASA's API is rate limited or temporarily unavailable, and that case we fall back to yesterday's cash photo if it exists.
 >
@@ -779,13 +767,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), database (4), [[Fetch]] (4), data (3), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Metadata]] (1), [[Resiliency]] (1)
 > **Env Vars:** apod (7), nasa (7), api (7)
 > **Code Identifiers:** getapod (1)
 > **Speakers:** - [instructor] (1)
 
-#### Background jobs and scheduling
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980)
+#### [Background jobs and scheduling](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +784,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=20)** This method runs as part of a background job configured when the server starts up.
 >
-> **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=26)** The first thing the job does is try to fetch and cache today's Apod.
+> **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=26)** The first thing the job does is try to [[Fetch]] and cache today's Apod.
 >
 > **[0:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=31)** This ensures that if the app missed it earlier, for example, due to downtime, it gets another chance.
 >
@@ -817,7 +804,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=78)** It stores simple key value pairs like daily maintenance, last run, so we can check this info later if needed.
 >
-> **[1:28](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=88)** All of this runs asynchronously using Kotlin co-routines, which means it won't block the main thread or slow down incoming API requests.
+> **[1:28](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=88)** All of this runs asynchronously using [[Kotlin]] co-routines, which means it won't block the main thread or slow down incoming API requests.
 >
 > **[1:37](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/background-jobs-and-scheduling?u=76281980&t=97)** We also log every step, both successes and failures, so we can monitor job health in production.
 >
@@ -835,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2), [[Kotlin]] (2), [[Fetch]] (1), api (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Fetch]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** cachemetadatadao (1)
@@ -843,8 +830,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Log each cached APOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-log-each-catched-apod?u=76281980)
+#### [Challenge: Log each cached APOD](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-log-each-catched-apod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -860,12 +846,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Debugging]] (1), data (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Log each cached APOD
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-log-each-catched-apod?u=76281980)
+#### [Solution: Log each cached APOD](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-log-each-catched-apod?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,7 +875,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), api (1), [[Debugging]] (1)
 > **Env Vars:** apod (5), api (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -903,8 +886,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enhanced error handling and status pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980)
+#### [Enhanced error handling and status pages](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,7 +894,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=5)** Right now, if something goes wrong in a route or service, the error might bubble up and trigger a generic response or worse, no response at all.
 >
-> **[0:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=16)** Let's make that better by setting up structured error handling using Ktor's status pages plugin.
+> **[0:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=16)** Let's make that better by setting up structured error handling using [[Ktor]]'s status pages plugin.
 >
 > **[0:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=22)** This gives us full control over how the server responds to exceptions, both expected and unexpected.
 >
@@ -922,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=43)** Inside status pages, we use exception handlers to catch specific exception types and respond with appropriate HTTP status codes and messages.
 >
-> **[0:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=54)** For example, when we throw an illegal argument exception, the server responds with a 400 bad request and a JSON body that includes a helpful message.
+> **[0:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=54)** For example, when we throw an illegal argument exception, the server responds with a 400 bad request and a [[JSON]] body that includes a helpful message.
 >
 > **[1:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/enhanced-error-handling-and-status-pages?u=76281980&t=67)** We also have a catchall handler for generic durable errors.
 >
@@ -952,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), [[Ktor]] (1), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Ktor]] (1), [[JSON]] (1)
 > **Env Vars:** http (2), json (1), dao (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
@@ -960,12 +942,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced routing and request processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980)
+#### [Advanced routing and request processing](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=0)** - [Instructor] Routing is the heart of any web server.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=0)** - [Instructor] [[Routing]] is the heart of any web server.
 >
 > **[0:03](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=3)** It defines how requests get handled and which logic responds to which path.
 >
@@ -991,11 +972,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=70)** Third, we added an extension function called respond error.
 >
-> **[1:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=75)** This wraps up error responses in a consistent JSON format and ensures we don't duplicate response logic throughout the file.
+> **[1:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=75)** This wraps up error responses in a consistent [[JSON]] format and ensures we don't duplicate response logic throughout the file.
 >
 > **[1:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=84)** Every error response includes the HTTP status code and message.
 >
-> **[1:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=91)** Let's talk a little bit about dependency injection.
+> **[1:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=91)** Let's talk a little bit about [[Dependency Injection]].
 >
 > **[1:35](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=95)** The APOD service instance is resolved using coin inject function.
 >
@@ -1013,23 +994,22 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=131)** It's a handy tool for checking if the app is properly initialized, especially in staging or test environments under the hood.
 >
-> **[2:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=139)** It uses a raw SQL query via exposed to list the table names.
+> **[2:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=139)** It uses a raw [[SQL]] query via exposed to list the table names.
 >
-> **[2:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=145)** Even though most of our app uses Safe Kotlin DSL, there are times when going straight to the SQL makes sense and this is one of them.
+> **[2:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=145)** Even though most of our app uses Safe [[Kotlin]] DSL, there are times when going straight to the SQL makes sense and this is one of them.
 >
 > **[2:34](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/advanced-routing-and-request-processing?u=76281980&t=154)** With these patterns in place, clean structure, early validation, inject services, and utility helpers, you've got a routing set up that's easy to expand, test and maintain.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), api (3), [[JSON]] (2), [[SQL]] (2), web (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[JSON]] (2), [[SQL]] (2), [[Dependency Injection]] (1), [[Kotlin]] (1)
 > **Env Vars:** apod (3), api (2), json (2), sql (2), http (1)
 > **API Endpoints:** /api/admin/db-status (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performance monitoring and optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980)
+#### [Performance monitoring and optimization](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1019,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=14)** First up is request logging.
 >
-> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=17)** If you've checked out the configureMonitoring function, you'll see that we've installed Ktor's CallLogging plugin.
+> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=17)** If you've checked out the configureMonitoring function, you'll see that we've installed [[Ktor]]'s CallLogging plugin.
 >
 > **[0:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=24)** This logs in incoming requests, including method, path, and response time.
 >
@@ -1055,7 +1035,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=71)** If you want to go deeper, consider adding correlation IDs to each request.
 >
-> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=77)** That allows you to trace a request across services, even down to specific database queries.
+> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=77)** That allows you to trace a request across services, even down to specific [[Database Queries]].
 >
 > **[1:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/performance-monitoring-and-optimization?u=76281980&t=85)** We haven't added that here, but it's a common next step for larger applications.
 >
@@ -1075,14 +1055,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ktor]] (2), api (2), database (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Ktor]] (2), [[Database Queries]] (1)
 > **API Endpoints:** get  (1), /api/apod/random (1)
 > **Env Vars:** apod (1), api (1)
 > **Code Identifiers:** configuremonitoring (1)
 > **Speakers:** - [instructor] (1)
 
-#### API documentation and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980)
+#### [API documentation and testing](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,19 +1075,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=30)** /today returns today's image, /date date fetches a date, /random gives you a surprise, and /history supports pagination with page and page size.
 >
-> **[0:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=43)** For manual testing, we've included an Insomnia workspace under the server/api-test/insomnia.
+> **[0:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=43)** For [[Manual Testing]], we've included an Insomnia workspace under the server/api-test/insomnia.
 >
-> **[0:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=54)** This YAML file defines all the routes and example requests you'll need to explore the API from a REST client.
+> **[0:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=54)** This YAML file defines all the routes and example requests you'll need to explore the API from a [[Representational State Transfer (REST)|REST]] client.
 >
 > **[1:03](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=63)** Insomnia makes it easy to simulate edge cases like requesting a missing date or hitting the API without pagination parameters.
 >
 > **[1:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=71)** These scenarios help you validate both our happy path and our responses.
 >
-> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=77)** Each route returns consistent JSON, even when something goes wrong.
+> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=77)** Each route returns consistent [[JSON]], even when something goes wrong.
 >
 > **[1:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=82)** For example, dates return a 400 with an error response object that includes a status and a message that helps front end developers handle errors without guessing.
 >
-> **[1:36](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=96)** If you want to automate, you could write integration tests using Ktor's test application engine.
+> **[1:36](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=96)** If you want to automate, you could write integration tests using [[Ktor]]'s test application engine.
 >
 > **[1:43](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/api-documentation-and-testing?u=76281980&t=103)** That would let you simulate HTTP requests inside a test environment, check the response status, and assert on the body.
 >
@@ -1120,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Manual Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[Ktor]] (1)
+> **Frameworks & Libraries:** [[Manual Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[Ktor]] (1)
 > **Env Vars:** api (6), http (2), apod (1), yaml (1), rest (1)
 > **Tools:** insomnia (3)
 > **CLI Commands:** make (2)
@@ -1129,8 +1108,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Date range filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-date-range-filtering?u=76281980)
+#### [Challenge: Date range filtering](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-date-range-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,15 +1130,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Date range filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-date-range-filtering?u=76281980)
+#### [Solution: Date range filtering](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-date-range-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,7 +1198,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** enddate (4), startdate (3), pagesize (2), enddates (1), getpaginated (1)
 > **Env Vars:** dau (1), dao (1)
 > **Non-Speech:** (bright rhythmic music) (1), (bright rhythmic music fading) (1)
@@ -1234,14 +1209,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### KMP project architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980)
+#### [KMP project architecture](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=0)** - [Instructor] Kotlin multi-platform lets us share logic across Android, iOS, and even the backend.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=0)** - [Instructor] [[Kotlin]] multi-platform lets us share logic across [[Android]], iOS, and even the backend.
 >
-> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=6)** In this module, we're going to break down the structure of our KMP project and walk through how it all fits together.
+> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=6)** In this module, we're going to break down the structure of our [[Kotlin Multiplatform|KMP]] project and walk through how it all fits together.
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=14)** There are three key modules, shared, composeApp, and iosApp.
 >
@@ -1267,9 +1241,9 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=69)** This is the Android UI layer.
 >
-> **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=72)** It depends on shared and builds a Jetpack Compose interface for the user to browse APOD metadata.
+> **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=72)** It depends on shared and builds a [[Jetpack Compose]] interface for the user to browse APOD [[Metadata]].
 >
-> **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=81)** Because Compose is still only Android only, this module stays platform specific, but everything it depends on, like repository models comes from shared.
+> **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=81)** Because [[Jetpack Compose|Compose]] is still only Android only, this module stays platform specific, but everything it depends on, like repository models comes from shared.
 >
 > **[1:34](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=94)** By the way, newsflash, iOS is now able to use Compose.
 >
@@ -1279,7 +1253,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=107)** And finally, there's iosApp.
 >
-> **[1:49](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=109)** This is the Xcode project and Swift UI interface for iOS.
+> **[1:49](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=109)** This is the [[Xcode]] project and [[Swift (Programming Language)|Swift]] UI interface for iOS.
 >
 > **[1:54](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/kmp-project-architecture?u=76281980&t=114)** It includes the generated Kotlin framework from the shared module, which means we can call shared Kotlin code directly from Swift.
 >
@@ -1305,23 +1279,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (4), [[Kotlin Multiplatform|Kmp]] (2), business (2), data (2)
+> **Frameworks & Libraries:** [[Android]] (6), [[Kotlin]] (4), [[Kotlin Multiplatform|Kmp]] (2), [[Jetpack Compose|Compose]] (2), [[Swift (Programming Language)|Swift]] (2)
 > **Code Identifiers:** ios (5), composeapp (2), iosapp (2), commonmain (2), androidmain (2)
 > **Env Vars:** kmp (2), apod (1)
 > **Versions:** 1.0 (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared data models and constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980)
+#### [Shared data models and constants](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=0)** - [Instructor] In this module, we are going to focus on what goes into the shared module, and more specifically, how we define shared models and constants that work across all platforms.
 >
-> **[0:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=12)** Shared models are the foundation of a clean, Kotlin multi-platform architecture.
+> **[0:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=12)** Shared models are the foundation of a clean, [[Kotlin]] multi-platform architecture.
 >
-> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=17)** They let us define data ones and use it everywhere, on iOS, on Android, and even the backend if we want to.
+> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=17)** They let us define data ones and use it everywhere, on iOS, on [[Android]], and even the backend if we want to.
 >
 > **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=26)** You'll find most of these live in shared, source, commonMain, and Kotlin.
 >
@@ -1329,7 +1302,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=40)** Inside you'll see data classes like ApodResponse, PaginatedResponse, and ErrorResponse.
 >
-> **[0:50](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=50)** These are used for everything, parsing JSON, communicating between services, and shaping what we send back to the UI.
+> **[0:50](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=50)** These are used for everything, parsing [[JSON]], communicating between services, and shaping what we send back to the UI.
 >
 > **[0:59](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=59)** Because they live in commonMain, we can safely serialize and deserialize them on both Android and iOS using the same logic.
 >
@@ -1353,24 +1326,23 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=155)** Shared data models and constants are where structure starts.
 >
-> **[2:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=160)** They're easy to overlook, but they're what makes true code reuse possible in a KMP project.
+> **[2:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-data-models-and-constants?u=76281980&t=160)** They're easy to overlook, but they're what makes true code reuse possible in a [[Kotlin Multiplatform|KMP]] project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Kotlin]] (4), [[Android]] (3), [[JSON]] (1), api (1)
+> **Frameworks & Libraries:** [[Kotlin]] (4), [[Android]] (3), [[JSON]] (1), [[Kotlin Multiplatform|Kmp]] (1)
 > **Code Identifiers:** ios (3), commonmain (3)
 > **Env Vars:** json (1), api (1), url (1), jvm (1), kmp (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dependency injection setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980)
+#### [Dependency injection setup](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=0)** - [Instructor] In this module, we are going to set up dependency objection for our shared code.
 >
-> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=6)** If you're coming from Android or server-side Kotlin, you might already be familiar with DI frameworks like Dagger, Hilt, or Coin.
+> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=6)** If you're coming from [[Android]] or server-side [[Kotlin]], you might already be familiar with DI frameworks like Dagger, Hilt, or Coin.
 >
 > **[0:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=14)** We're using Coin.
 >
@@ -1404,15 +1376,15 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=105)** It just asks for what it needs, like an APOD repository, and Coin provides the right instance.
 >
-> **[1:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=112)** This decouples creation from usage, makes unit testing simple and sets the stage for replacing implementations if we want to test offline behavior or simulate errors.
+> **[1:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=112)** This decouples creation from usage, makes [[Unit Testing]] simple and sets the stage for replacing implementations if we want to test offline behavior or simulate errors.
 >
-> **[2:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=126)** That's dependency injection in Kotlin multi-platform using Coin.
+> **[2:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=126)** That's [[Dependency Injection]] in Kotlin multi-platform using Coin.
 >
 > **[2:10](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/dependency-injection-setup?u=76281980&t=130)** Simple, flexible, and 100% testable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (5), [[Kotlin]] (2), database (1), [[Unit Testing]] (1), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Android]] (5), [[Kotlin]] (2), [[Unit Testing]] (1), [[Dependency Injection]] (1)
 > **Code Identifiers:** ios (3)
 > **Env Vars:** apod (3)
 > **Prerequisites:** set up (1), setup (1)
@@ -1420,8 +1392,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Platform-specific logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980)
+#### [Challenge: Platform-specific logging](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1429,7 +1400,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=5)** - [Instructor] We've been logging events on the server for a while now, but what about shared code?
 >
-> **[0:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=11)** In this challenge, we're going to extend logging support to our shared Kotlin multi-platform module starting with Android.
+> **[0:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=11)** In this challenge, we're going to extend logging support to our shared [[Kotlin]] multi-platform module starting with [[Android]].
 >
 > **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=18)** The goal is to let common code write log messages without knowing which platform it's running on.
 >
@@ -1441,7 +1412,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=49)** You should see the output in Logcat when you run the app.
 >
-> **[0:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=52)** This is a great way to get familiar with platform-specific declarations in Kotlin Multiplatform.
+> **[0:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=52)** This is a great way to get familiar with platform-specific declarations in [[Kotlin Multiplatform]].
 >
 > **[0:58](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-platform-specific-logging?u=76281980&t=58)** And once you've got Android version working, it'll be easy to add support for iOS and other platforms later.
 
@@ -1453,8 +1424,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Platform-specific logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980)
+#### [Solution: Platform-specific logging](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,13 +1460,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=71)** Now, the same logging call works no matter what.
 >
-> **[1:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=74)** So if I take a look inside right now, I do have the Android app running in the background.
+> **[1:14](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=74)** So if I take a look inside right now, I do have the [[Android]] app running in the background.
 >
 > **[1:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=79)** It's been running for a bit.
 >
 > **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=81)** If I take a look in Logcat and I look for MainActivity launched, we can see it right here.
 >
-> **[1:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=90)** Now, if you run your app now and trigger a few API calls, you should see those log messages show up in Android Logcat or an Xcode console depending on which platform you're testing.
+> **[1:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=90)** Now, if you run your app now and trigger a few API calls, you should see those log messages show up in Android Logcat or an [[Xcode]] console depending on which platform you're testing.
 >
 > **[1:42](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-platform-specific-logging?u=76281980&t=102)** This is a great pattern to use anytime you want shared code to talk to the host, and it keeps things clean and testable.
 >
@@ -1504,7 +1474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), api (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Xcode]] (1)
 > **Code Identifiers:** jvmmain (1), androidmain (1), iosmain (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -1516,12 +1486,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ktor client setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980)
+#### [Ktor client setup](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=0)** - [Instructor] In this module, we're going to set up the shared HTTP client that both Android and iOS will use to talk to the Ktor server.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=0)** - [Instructor] In this module, we're going to set up the shared HTTP client that both [[Android]] and iOS will use to talk to the [[Ktor]] server.
 >
 > **[0:09](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=9)** This will live entirely in our shared code module and use Ktor client to handle network calls in a multi-platform friendly way.
 >
@@ -1533,9 +1502,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=37)** First is content negotiation.
 >
-> **[0:41](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=41)** This handles automatic JSON serialization and deserialization using Kotlinx serialization.
+> **[0:41](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=41)** This handles automatic [[JSON]] serialization and deserialization using Kotlinx serialization.
 >
-> **[0:48](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=48)** That means we can send and receive typed Kotlin data models without writing any manual parsing code.
+> **[0:48](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=48)** That means we can send and receive typed [[Kotlin]] data models without writing any manual parsing code.
 >
 > **[0:56](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=56)** Next is the logging plugin.
 >
@@ -1547,13 +1516,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=75)** For example, during development, the client can point to local hosts in production, it can target a remote server.
 >
-> **[1:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=82)** We manage this through dependency injection using a base URL that's injected via coin.
+> **[1:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=82)** We manage this through [[Dependency Injection]] using a base URL that's injected via coin.
 >
 > **[1:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/ktor-client-setup?u=76281980&t=90)** The results is a flexible, shared HTTP client that works seamlessly across both Android and iOS with support for structured logging, timeouts, and automatic JSON handling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (3), [[Ktor]] (3), [[JSON]] (2), [[Kotlin]] (1), data (1)
+> **Frameworks & Libraries:** [[Android]] (3), [[Ktor]] (3), [[JSON]] (2), [[Kotlin]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** http (4), json (2), jvm (1), url (1)
 > **Code Identifiers:** ios (3)
 > **Prerequisites:** set up (1), configure (1), install (1)
@@ -1561,12 +1530,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repository pattern with shared code
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980)
+#### [Repository pattern with shared code](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=0)** - [Instructor] Now that we've configured our shared KTor client, let's build on top of it using the repository pattern.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=0)** - [Instructor] Now that we've configured our shared [[Ktor]] client, let's build on top of it using the repository pattern.
 >
 > **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=6)** The goal here is to abstract away the details of the network access behind a clean, testable interface.
 >
@@ -1580,13 +1548,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=50)** We pass it via Constructor Injection using Koin, which keeps things clean and decoupled.
 >
-> **[0:56](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=56)** Each method sends a GET request using client dot get and maps the results directly into a shared Kotlin data class, like APOD response or paginated response.
+> **[0:56](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=56)** Each method sends a GET request using client dot get and maps the results directly into a shared [[Kotlin]] data class, like APOD response or paginated response.
 >
 > **[1:10](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=70)** Because we're using Kotlin X serialization, we don't need to write any parsing logic.
 >
 > **[1:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=76)** One nice touch is inside the repository, if a request fails, we catch the exception, and throw a structured error like network exception or a not found exception.
 >
-> **[1:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=91)** That keeps the error logic out of the UI, and makes unit testing much easier.
+> **[1:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=91)** That keeps the error logic out of the UI, and makes [[Unit Testing]] much easier.
 >
 > **[1:37](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=97)** Another benefit of the repository pattern is testability.
 >
@@ -1598,21 +1566,20 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=124)** This separation makes the code base easier to reason about and maintain across platforms.
 >
-> **[2:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=131)** In short, the repository acts as a glue between the shared HTTP clients and the rest of the app.
+> **[2:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=131)** In short, the repository acts as a glue between the shared HTTP clients and the [[Representational State Transfer (REST)|rest]] of the app.
 >
 > **[2:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/repository-pattern-with-shared-code?u=76281980&t=139)** It's the layer that turns raw HTTP responses into real data our features can use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Kotlin]] (3), [[Ktor]] (2), [[Unit Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (3), [[Ktor]] (2), [[Unit Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** apod (8), http (2)
 > **API Endpoints:** get  (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared business logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980)
+#### [Shared business logic](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,7 +1591,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=18)** You've already seen this class on the server, but in the shared client code, we're using the same name for consistency.
 >
-> **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=26)** This is the class that coordinates request between the repository and the rest of the app.
+> **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=26)** This is the class that coordinates request between the repository and the [[Representational State Transfer (REST)|rest]] of the app.
 >
 > **[0:33](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=33)** Let's walk through what it does.
 >
@@ -1642,7 +1609,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=77)** We also use this layer to centralize validation.
 >
-> **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=81)** For instance, when we fetch by date, the service checks that the date is valid in the past and after the APOD program started.
+> **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=81)** For instance, when we [[Fetch]] by date, the service checks that the date is valid in the past and after the APOD program started.
 >
 > **[1:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=92)** That's not UI logic. It's not networking logic.
 >
@@ -1650,7 +1617,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=98)** By isolating these decisions in the shared module, we avoid duplicating them on each platform.
 >
-> **[1:45](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=105)** Android and iOS both benefit from the same logic and future platforms will too.
+> **[1:45](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=105)** [[Android]] and iOS both benefit from the same logic and future platforms will too.
 >
 > **[1:51](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=111)** And of course, this layer is fully testable.
 >
@@ -1664,19 +1631,18 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=136)** It just makes decisions, when to fetch how to cash and what to return.
 >
-> **[2:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=142)** Keeping that logic and shared code means we're not just sharing code, we're sharing behavior, and that's what makes Kotlin multi-platform so powerful.
+> **[2:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/shared-business-logic?u=76281980&t=142)** Keeping that logic and shared code means we're not just sharing code, we're sharing behavior, and that's what makes [[Kotlin]] multi-platform so powerful.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Android]] (1), [[Kotlin]] (1)
 > **Env Vars:** apod (3)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Repository error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-repository-error-handling?u=76281980)
+#### [Challenge: Repository error handling](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-repository-error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,8 +1714,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Repository error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-repository-error-handling?u=76281980)
+#### [Solution: Repository error handling](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-repository-error-handling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1791,7 +1756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** apod (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1804,8 +1768,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compose UI architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980)
+#### [Compose UI architecture](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,7 +1776,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=6)** In this chapter, we're focusing in on composed UI side of things, starting with architecture.
 >
-> **[0:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=12)** Open up the compose app module.
+> **[0:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=12)** Open up the [[Jetpack Compose|compose]] app module.
 >
 > **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=15)** This is where our composed multi-platform UI code lives.
 >
@@ -1823,7 +1786,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=30)** Take a look at APOD view model to see how the view model talks to the repository and emits state through state flow.
 >
-> **[0:39](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=39)** Inside the view model, we use Kotlin routines to fetch data and update state.
+> **[0:39](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=39)** Inside the view model, we use [[Kotlin]] routines to [[Fetch]] data and update state.
 >
 > **[0:44](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=44)** When something goes wrong, say a network error.
 >
@@ -1835,7 +1798,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=67)** This pattern helps us stay organized as apps grow, you can swap out the repository, mock the data and previews, or handle UI events consistently.
 >
-> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=78)** And because all of this is built with composed multi-platform, it works the same whether you're tapping on an Android phone or running an iOS simulator.
+> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=78)** And because all of this is built with composed multi-platform, it works the same whether you're tapping on an [[Android]] phone or running an iOS simulator.
 >
 > **[1:29](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/compose-ui-architecture?u=76281980&t=89)** As you move into more advanced modules, this architecture will help keep the UI predictable, testable, and maintainable.
 >
@@ -1843,13 +1806,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), business (2), [[Kotlin]] (2), [[Jetpack Compose|Compose]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Jetpack Compose|Compose]] (1), [[Fetch]] (1), [[Android]] (1)
 > **Env Vars:** mvvm (1), apod (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### APOD display screens
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980)
+#### [APOD display screens](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1863,7 +1825,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=25)** The UI shows a title, the image, and an explanation.
 >
-> **[0:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=31)** Images are loaded using async image, which supports multi-platform image loading and caching across Android and iOS.
+> **[0:31](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=31)** Images are loaded using async image, which supports multi-platform image loading and caching across [[Android]] and iOS.
 >
 > **[0:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=40)** When there is an error or the user is offline, we display helpful messages with retry buttons instead of crashing.
 >
@@ -1875,7 +1837,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=72)** This screen supports pagination using lazy loading with a load more trigger.
 >
-> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=78)** When the user scrolls near the end, we call view model to fetch the next page.
+> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=78)** When the user scrolls near the end, we call view model to [[Fetch]] the next page.
 >
 > **[1:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/apod-display-screens?u=76281980&t=84)** Both screens are powered by the same shared business logic, so they behave identically regardless of platform.
 >
@@ -1883,15 +1845,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Android]] (1), data (1), [[Fetch]] (1), business (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Fetch]] (1)
 > **Env Vars:** apod (5)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is an  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Client integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980)
+#### [Client integration](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980&t=73)** The separation keeps things testable and consistent.
 >
-> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980&t=77)** The view model doesn't know about compose and the UI doesn't know about HTTP calls or caching.
+> **[1:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980&t=77)** The view model doesn't know about [[Jetpack Compose|compose]] and the UI doesn't know about HTTP calls or caching.
 >
 > **[1:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/client-integration?u=76281980&t=84)** We use App Module with Coin to inject the repository, making it easy to mock and test.
 >
@@ -1927,12 +1888,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** api (1), http (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cases and clean architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980)
+#### [Use cases and clean architecture](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1940,9 +1900,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=8)** Look in the domain use case package for classes like GetApodByDateUseCase.
 >
-> **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=15)** Each class defines one job, fetch today's Apod, fetch by date, or fetch paginated history.
+> **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=15)** Each class defines one job, [[Fetch]] today's Apod, fetch by date, or fetch paginated history.
 >
-> **[0:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=22)** They don't know about compose or view models.
+> **[0:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=22)** They don't know about [[Jetpack Compose|compose]] or view models.
 >
 > **[0:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=26)** They just expose a function and return a result.
 >
@@ -1960,9 +1920,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=64)** You can write fast unit tests for each use case in isolation, mocking the repository, and asserting correct behavior.
 >
-> **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=72)** And because use cases are pure Kotlin, they live entirely in the shared module.
+> **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=72)** And because use cases are pure [[Kotlin]], they live entirely in the shared module.
 >
-> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=78)** So Android and iOS use identical business logic.
+> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=78)** So [[Android]] and iOS use identical business logic.
 >
 > **[1:22](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/use-cases-and-clean-architecture?u=76281980&t=82)** This architecture might feel like a lot at first, but it pays off as the app grows.
 >
@@ -1972,12 +1932,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (3), business (3), [[Jetpack Compose|Compose]] (1), [[Kotlin]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[Jetpack Compose|Compose]] (1), [[Kotlin]] (1), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Complete the FindScreen navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-complete-the-findscreen-navigation?u=76281980)
+#### [Challenge: Complete the FindScreen navigation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-complete-the-findscreen-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,14 +1966,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Complete the FindScreen navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980)
+#### [Solution: Complete the FindScreen navigation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2042,7 +1999,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980&t=81)** Tapping the view full picture sets the state to display detail.
 >
-> **[1:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980&t=86)** This highlights an important principle in Jetpack Compose.
+> **[1:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980&t=86)** This highlights an important principle in [[Jetpack Compose]].
 >
 > **[1:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-complete-the-findscreen-navigation?u=76281980&t=90)** For simple self-contained flows, local state is often the cleanest solution.
 >
@@ -2050,7 +2007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Jetpack Compose]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** toggle (1), click on (1), navigate to (1)
 > **File Paths:** app.kt (1)
@@ -2064,14 +2021,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding iOS generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980)
+#### [Understanding iOS generation](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=0)** - [Instructor] In this module, we're going to explore how Compose Multiplatform runs natively on iOS.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=0)** - [Instructor] In this module, we're going to explore how [[Jetpack Compose|Compose]] [[Kotlin Multiplatform|Multiplatform]] runs natively on iOS.
 >
-> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=6)** You've already seen how shared code works on Android.
+> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=6)** You've already seen how shared code works on [[Android]].
 >
 > **[0:10](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=10)** On iOS, it's even more seamless.
 >
@@ -2079,9 +2035,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=15)** We're at the tip of the spear here.
 >
-> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=17)** Unlike traditional Kotlin Multiplatform that generates frameworks for Swift, we're running Compose directly on iOS.
+> **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=17)** Unlike traditional [[Kotlin Multiplatform]] that generates frameworks for [[Swift (Programming Language)|Swift]], we're running Compose directly on iOS.
 >
-> **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=25)** That means no Swift code, no framework generation, just Kotlin.
+> **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=25)** That means no Swift code, no framework generation, just [[Kotlin]].
 >
 > **[0:30](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=30)** Pure Kotlin and Compose all the way down.
 >
@@ -2097,9 +2053,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=60)** When you build iOS, Kotlin/Native compiles your Compose code into a native iOS binary.
 >
-> **[1:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=67)** The Compose runtime handles all the iOS-specific details, touch events, navigation, memory management, while your business logic and UI stay identical across platforms.
+> **[1:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=67)** The Compose runtime handles all the iOS-specific details, touch events, navigation, [[Memory Management]], while your business logic and UI stay identical across platforms.
 >
-> **[1:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=79)** This approach eliminates traditional pain points of cross-platform development.
+> **[1:19](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=79)** This approach eliminates traditional pain points of [[Cross-platform Development]].
 >
 > **[1:24](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/understanding-ios-generation?u=76281980&t=84)** No API translation layers, no platform-specific UI code to maintain, no synchronization issues between iOS and Android implementation.
 >
@@ -2116,14 +2072,13 @@ created: 2026-05-02
 > **Env Vars:** apod (1), api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Xcode project configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980)
+#### [Xcode project configuration](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=0)** - [Instructor] In this module, we'll get your composed multi-platform app running on the iOS simulator without ever opening Xcode.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=0)** - [Instructor] In this module, we'll get your composed multi-platform app running on the iOS simulator without ever opening [[Xcode]].
 >
-> **[0:08](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=8)** The beauty of composed multi-platform is that you can develop, build, and test your iOS app entirely from Android studio.
+> **[0:08](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=8)** The beauty of composed multi-platform is that you can develop, build, and test your iOS app entirely from [[Android]] studio.
 >
 > **[0:15](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=15)** Make no mistake though, you still need Xcode.
 >
@@ -2135,13 +2090,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=28)** So if we do a dropdown here, we can see that there's an iOS app here.
 >
-> **[0:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=32)** There's a compose app, which is Android, which even can run tests from here and other things.
+> **[0:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=32)** There's a [[Jetpack Compose|compose]] app, which is Android, which even can run tests from here and other things.
 >
-> **[0:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=40)** Gradle handles everything, compiling Kotlin native, packaging the app, launching the simulator, and installing your app.
+> **[0:40](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=40)** [[Gradle]] handles everything, compiling [[Kotlin]] native, packaging the app, launching the simulator, and installing your app.
 >
 > **[0:48](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=48)** The same APOD view model and today's screen that you've been testing on Android will appear on the iOS simulator.
 >
-> **[0:56](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=56)** The iOS simulator runs your actual composed UI code, tap interaction, scroll, navigate, everything behaves like a native iOS app because it is a native iOS app, just written in Kotlin and composed instead of Swift and Swift UI.
+> **[0:56](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=56)** The iOS simulator runs your actual composed UI code, tap interaction, scroll, navigate, everything behaves like a native iOS app because it is a native iOS app, just written in Kotlin and composed instead of [[Swift (Programming Language)|Swift]] and Swift UI.
 >
 > **[1:13](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/xcode-project-configuration?u=76281980&t=73)** If you need to debugs iOS specific behavior, you can use the same debugging tools you use for Android, set break points.
 >
@@ -2171,7 +2126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (6), [[Xcode]] (2), [[Kotlin]] (2), [[Swift (Programming Language)|Swift]] (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[Android]] (6), [[Xcode]] (2), [[Kotlin]] (2), [[Swift (Programming Language)|Swift]] (2), [[Jetpack Compose|Compose]] (1)
 > **Code Identifiers:** ios (11)
 > **Analogies:** picture (5), just like (1)
 > **UI Navigation:** dropdown (1), click on (1), go to (1)
@@ -2180,14 +2135,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** remember to (1)
 
-#### Running on iOS simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980)
+#### [Running on iOS simulator](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=0)** - [Instructor] While your Compose UI runs identically on both platforms, there are some platform specific behaviors worth understanding.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=0)** - [Instructor] While your [[Jetpack Compose|Compose]] UI runs identically on both platforms, there are some platform specific behaviors worth understanding.
 >
-> **[0:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=7)** Look at platform Android and platform iOS.
+> **[0:07](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=7)** Look at platform [[Android]] and platform iOS.
 >
 > **[0:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=11)** So, we've got 'em here standing side by side.
 >
@@ -2207,7 +2161,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=55)** Your home screen and today's screen automatically adapt to iOS design guidelines without any platform-specific code.
 >
-> **[1:03](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=63)** Image loading through AsyncImage works identical on both platforms, but iOS has different caching behaviors and memory management.
+> **[1:03](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=63)** Image loading through AsyncImage works identical on both platforms, but iOS has different caching behaviors and [[Memory Management]].
 >
 > **[1:12](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/running-on-ios-simulator?u=76281980&t=72)** The APOD View model doesn't need to know about these differences.
 >
@@ -2223,17 +2177,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[Android]] (3), [[Memory Management]] (1), business (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (4), [[Android]] (3), [[Memory Management]] (1)
 > **Code Identifiers:** ios (6)
 > **Env Vars:** apod (4), url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cross-platform verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980)
+#### [Challenge: Cross-platform verification](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=0)** - [Instructor] Now that you have composed multi-platform running on both Android and iOS, your challenge is to verify that behavior is truly consistent across platforms.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=0)** - [Instructor] Now that you have composed multi-platform running on both [[Android]] and iOS, your challenge is to verify that behavior is truly consistent across platforms.
 >
 > **[0:17](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=17)** This isn't just about checking whether the app compiles and runs.
 >
@@ -2259,19 +2212,18 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=85)** Try edge cases like invalid dates in the same search screen, network timeouts, and app backgrounding.
 >
-> **[1:33](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=93)** Since you're using the same Kotlin code for everything, the behavior should be consistent.
+> **[1:33](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=93)** Since you're using the same [[Kotlin]] code for everything, the behavior should be consistent.
 >
 > **[1:39](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/challenge-cross-platform-verification?u=76281980&t=99)** This verification builds confidence that your shared codebase truly delivers on the promise of write once, run everywhere functionality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (2), [[Search]] (2), data (2), [[Kotlin]] (1)
+> **Frameworks & Libraries:** [[Android]] (2), [[Kotlin]] (1)
 > **Code Identifiers:** ios (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Cross-platform verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980)
+#### [Solution: Cross-platform verification](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2279,7 +2231,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=9)** The key was testing the same flows and confirming identical results from your shared APOD view model, and APOD repository.
 >
-> **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=18)** In software development, there is still some manual testing.
+> **[0:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=18)** In [[Software Development]], there is still some [[Manual Testing]].
 >
 > **[0:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=21)** This testing is for high value user flows that you want to guarantee are not broken, such as someone making a purchase in your store app or someone booking an appointment in your calendar app.
 >
@@ -2291,11 +2243,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=52)** For error scenarios, using server config to break the network showed that both platforms handled failures identically.
 >
-> **[1:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=60)** The same error messages appear, the same retry logic triggers, and the same fallback behavior occurs because it's all shared Kotlin code.
+> **[1:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=60)** The same error messages appear, the same retry logic triggers, and the same fallback behavior occurs because it's all shared [[Kotlin]] code.
 >
 > **[1:11](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=71)** Pagination testing in home screen confirmed that scrolling behavior and data loading work the same way on both platforms.
 >
-> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=78)** The APOD view model manages state identically and Compose handles UI rendering consistently.
+> **[1:18](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=78)** The APOD view model manages state identically and [[Jetpack Compose|Compose]] handles UI rendering consistently.
 >
 > **[1:26](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=86)** Edge case testing revealed that input validation, network timeout, and error recovery are all behaving the same way across platforms.
 >
@@ -2303,15 +2255,15 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=101)** Everything lives in the shared Kotlin.
 >
-> **[1:44](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=104)** The verification confirms that Compose Multiplatform delivers true code sharing.
+> **[1:44](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=104)** The verification confirms that Compose [[Kotlin Multiplatform|Multiplatform]] delivers true code sharing.
 >
-> **[1:51](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=111)** Not just shared models or networking, but shared UI, shared state management, and shared user experience.
+> **[1:51](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=111)** Not just shared models or networking, but shared UI, shared state management, and shared [[User Experience (UX)|user experience]].
 >
 > **[2:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/solution-cross-platform-verification?u=76281980&t=120)** Both platforms run the exact same application logic, just compiled for different targets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Kotlin]] (2), [[Jetpack Compose|Compose]] (2), [[Software Development]] (1), [[Manual Testing]] (1)
+> **Frameworks & Libraries:** [[Kotlin]] (2), [[Jetpack Compose|Compose]] (2), [[Software Development]] (1), [[Manual Testing]] (1), [[Kotlin Multiplatform|Multiplatform]] (1)
 > **Env Vars:** apod (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -2322,24 +2274,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980)
+#### [Next steps and course summary](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=0)** - [Instructor] Congratulations on building a truly multi-platform app with Compose multi-platform.
+> **[0:00](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=0)** - [Instructor] Congratulations on building a truly multi-platform app with [[Jetpack Compose|Compose]] multi-platform.
 >
-> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=6)** We started with a Ktor server connected to NASA's APOD API, built a shared repository layer and created view models that work across platform.
+> **[0:06](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=6)** We started with a [[Ktor]] server connected to NASA's APOD API, built a shared repository layer and created view models that work across platform.
 >
-> **[0:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=16)** Then we built Compose UI that runs natively on both Android and iOS.
+> **[0:16](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=16)** Then we built Compose UI that runs natively on both [[Android]] and iOS.
 >
 > **[0:21](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=21)** No platform specific UI code required.
 >
 > **[0:25](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=25)** You've seen how APODViewModel, TodayScreen and HomeScreen work identically on both platforms.
 >
-> **[0:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=32)** The same error handling, the same navigation, the same user experience, all from shared Kotlin and compose code.
+> **[0:32](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=32)** The same error handling, the same navigation, the same [[User Experience (UX)|user experience]], all from shared [[Kotlin]] and compose code.
 >
-> **[0:41](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=41)** This represents the future of cross-platform development.
+> **[0:41](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=41)** This represents the future of [[Cross-platform Development]].
 >
 > **[0:44](https://www.linkedin.com/learning/exploring-ktor-with-kotlin-multiplatform-and-compose/next-steps-and-course-summary?u=76281980&t=44)** Instead of maintaining separate code bases or dealing with bridge layers, you write code once in Kotlin and Compose and deploy it everywhere.
 >
@@ -2355,7 +2306,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[Kotlin]] (2), [[Ktor]] (1), api (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (5), [[Kotlin]] (2), [[Ktor]] (1), [[Android]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** nasa (1), apod (1), api (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)

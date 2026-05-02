@@ -97,20 +97,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning AI-native vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
+#### [Learning AI-native vector databases](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=0)** A new third wave of AI-first database technology is being ushered in.
 >
-> **[0:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=4)** These new AI native databases brilliantly answer queries posed in natural language, but the machine learning models aren't limited to text searches.
+> **[0:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=4)** These new AI native [[Databases]] brilliantly answer queries posed in natural language, but the machine learning models aren't limited to text searches.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=13)** The same approach can be used to search anything from images to audio to even DNA.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=18)** This foundational infrastructure technology is already being used to power solutions in industries like e-commerce, social media, and many more.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=18)** This foundational infrastructure technology is already being used to power solutions in industries like [[E-Commerce]], social media, and many more.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=28)** In this course, we'll cover everything from foundational concepts around AI-first vector databases to hands-on coding labs for question-answering using large language models.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=28)** In this course, we'll cover everything from foundational concepts around AI-first [[Vector Databases]] to hands-on coding labs for question-answering using [[Large Language Models (LLM)|large language models]].
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/learning-ai-native-vector-databases?u=76281980&t=37)** I'm Zain, a data scientist who's passionate about machine learning and building a community through education and collaboration.
 >
@@ -118,17 +117,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), database (1), [[Databases]] (1), [[Search]] (1), power (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[E-Commerce]] (1), [[Vector Databases]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** dna (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980&t=0)** In this course on AI native vector databases, we'll be using the Python programming language, and Weaviate, an open source vector database.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980&t=0)** In this course on AI native [[Vector Databases]], we'll be using the [[Python (Programming Language)|Python]] programming language, and [[Weaviate]], an open source vector database.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980&t=8)** We'll also leverage tools like Jupyter Notebooks as our main development environment, GitHub to access these challenge and solution code notebooks.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980&t=8)** We'll also leverage tools like Jupyter Notebooks as our main development environment, [[GitHub]] to access these challenge and solution code notebooks.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/what-you-should-know?u=76281980&t=18)** Pip to install and manage required packages.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (2), database (2), [[GitHub]] (2), ai (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[GitHub]] (2), [[Python (Programming Language)|Python]] (1), [[Weaviate]] (1)
 > **CLI Commands:** python (1), pip (1), docker (1)
 > **Tools:** github (2), jupyter (1)
 > **Prerequisites:** install (1), set up (1)
@@ -152,8 +150,7 @@ created: 2026-05-02
 > **Documentation:** the readme (1)
 > **Exercise Files:** github repo (1)
 
-#### The superpower of vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980)
+#### [The superpower of vector databases](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -179,9 +176,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=29)** What if I showed you an image and asked you to pull up a video talking about similar concepts?
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=35)** Searching over files and finding similar ones is one of the most common things we do on our devices, and vector databases enable this critical functionality.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=35)** Searching over files and finding similar ones is one of the most common things we do on our devices, and [[Vector Databases]] enable this critical functionality.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=45)** The superpower of vector databases is that they understand your data using artificial intelligence, and let you search over billions of files.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=45)** The superpower of vector databases is that they understand your data using [[Artificial Intelligence (AI)|artificial intelligence]], and let you search over billions of files.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=53)** They can tell you exactly how similar two files are, and can perform thousands of searches in the blink of an eye.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=103)** Think of what you could build with this type of search functionality at your fingertips.
 >
-> **[1:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=107)** Vector databases understand all of these forms of data, and allow you to search over billions of these files to find the most relevant ones in real-time.
+> **[1:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=107)** Vector databases understand all of these [[Forms]] of data, and allow you to search over billions of these files to find the most relevant ones in [[Real-Time]].
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/the-superpower-of-vector-databases?u=76281980&t=117)** Want to find out how they do it?
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Vector Databases]] (5), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Forms]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (3), imagine (1)
 > **CLI Commands:** find (3)
 > **Definitions:** known as (1)
@@ -223,8 +220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Structured versus unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
+#### [Structured versus unstructured data](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,13 +236,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=18)** Let's explore this further.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=19)** For numerical and structured data, for example, data that can be stored in an Excel file, this type of comparison is quite easy.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=19)** For numerical and structured data, for example, data that can be stored in an [[Microsoft Excel|Excel]] file, this type of comparison is quite easy.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=27)** A question could be, which customer is older, earns more, and by how much?
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=32)** We could simply subtract rows and it's easier for us to compare and measure structured data.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=37)** The question then is, how do we compare similarity for unstructured data such as images, audio, video, or even text?
+> **[0:37](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=37)** The question then is, how do we compare similarity for [[Unstructured Data]] such as images, audio, video, or even text?
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/structured-versus-unstructured-data?u=76281980&t=45)** Qualitatively comparing these data types is not that hard, but putting an exact number to it is.
 >
@@ -288,18 +284,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (8), [[Microsoft Excel|Excel]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (8), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** similar to (2), for example (1), such as (1)
 > **CLI Commands:** cat (2), make (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **Definitions:** is an  (1)
 
-#### Human-understandable versus machine-understandable data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980)
+#### [Human-understandable versus machine-understandable data](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=0)** In the previous video, we introduced some differences between structured and unstructured data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=0)** In the previous video, we introduced some differences between structured and [[Unstructured Data]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=5)** Now let's think about how all of these unstructured data types we've discussed previously, text, images, audio, and video can be understood by humans.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=182)** Similar to when translating from one language to another, we want to make sure our data makes sense to computers as vectors, and we want to ensure that, if possible, no meaning is lost in translation when going from human understandable data representations to machine understandable data representations or vectors.
 >
-> **[3:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=201)** So, to summarize, vector databases use vector data representations to understand data.
+> **[3:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=201)** So, to summarize, [[Vector Databases]] use vector data representations to understand data.
 >
 > **[3:26](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/huma-understandable-versus-machine-understandable-data?u=76281980&t=206)** That's why they're called vector databases.
 >
@@ -357,15 +352,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Unstructured Data]] (2), [[Vector Databases]] (2), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Vector Databases]] (2)
 > **Analogies:** similar to (3), for example (2), picture (1)
 > **Versions:** 1.2 (1), 1.1 (1), 6.2 (1), 1.3 (1), 9.8 (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** known as (2)
 > **CLI Commands:** make (1)
 
-#### Drawing out and visualizing vector representations of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980)
+#### [Drawing out and visualizing vector representations of data](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980&t=132)** It has a direction and a length or magnitude.
 >
-> **[2:16](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980&t=136)** Let's draw out the rest of the colors as well.
+> **[2:16](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980&t=136)** Let's draw out the [[Representational State Transfer (REST)|rest]] of the colors as well.
 >
 > **[2:19](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/drawing-out-and-visualizing-vector-representations-of-data?u=76281980&t=139)** See how the vectors for similar colors, violet and magenta are closer together, whereas the vectors for dissimilar colors are farther apart.
 >
@@ -463,19 +457,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** in other words (2), is a  (2)
 > **Analogies:** imagine (2), picture (1)
 > **CLI Commands:** cat (2)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** rgb (1)
 
-#### Introduce the concept of distance between two vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980)
+#### [Introduce the concept of distance between two vectors](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=0)** Now that we understand that unstructured data can be represented as vectors, let's think about similar and dissimilar data points in vector space.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=0)** Now that we understand that [[Unstructured Data]] can be represented as vectors, let's think about similar and dissimilar data points in vector space.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=9)** Let's go back to our example of the vector representations of a dog, cat, and wolf.
 >
@@ -515,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=106)** If you can represent it as a vector, then you can automatically measure how similar it is to your other vectorized data points.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=114)** This is how vector databases measure the difference between any two data points.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=114)** This is how [[Vector Databases]] measure the difference between any two data points.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/introduce-the-concept-of-distance-between-two-vectors?u=76281980&t=118)** And you can do this with any data you can represent as vectors.
 >
@@ -527,22 +520,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Unstructured Data]] (1), product (1), [[Vector Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (1), [[Vector Databases]] (1)
 > **CLI Commands:** cat (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** think of it as (1), similar to (1)
 
-#### Challenge: Working with vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980)
+#### [Challenge: Working with vectors](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=5)** In this chapter, we covered the difference between structured and unstructured data, how we might represent unstructured data as vectors, how you can visualize these vectors, and how you can measure the distance between vectors.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=5)** In this chapter, we covered the difference between structured and [[Unstructured Data]], how we might represent unstructured data as vectors, how you can visualize these vectors, and how you can measure the distance between vectors.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=19)** Now it's time to apply this knowledge with a challenge.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=22)** Given two color vectors with coordinates of RGB values, can you write a Python program that first can be used to draw out the vectors for these colors?
+> **[0:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=22)** Given two color vectors with coordinates of RGB values, can you write a [[Python (Programming Language)|Python]] program that first can be used to draw out the vectors for these colors?
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-working-with-vectors?u=76281980&t=31)** Second, calculate the Euclidean, Manhattan, cosine, and dot product distance between these colors.
 >
@@ -552,13 +544,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Python (Programming Language)|Python]] (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** rgb (1)
 
-#### Solution: Working with vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980)
+#### [Solution: Working with vectors](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=409)** So, the color one is 120 units away from the color two based on the Manhattan distance measuring from one vector to the other vector.
 >
-> **[7:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=420)** An alternate approach to calculate the exact same distance is just to use the built-in library in NumPy, the linear algebra library here, to calculate the norm between a and b of order one.
+> **[7:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=420)** An alternate approach to calculate the exact same distance is just to use the built-in library in NumPy, the [[Linear Algebra]] library here, to calculate the norm between a and b of order one.
 >
 > **[7:12](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=432)** This is why Manhattan distance is also known as the L1 distance.
 >
@@ -760,7 +751,7 @@ created: 2026-05-02
 >
 > **[8:39](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=519)** So, we're going to take the square root of this information.
 >
-> **[8:44](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=524)** I'm going to pass in the NumPy array which goes in and it takes this Python list, turns it into a NumPy array, and it sums across the dimensions, and it takes a square root.
+> **[8:44](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=524)** I'm going to pass in the NumPy array which goes in and it takes this [[Python (Programming Language)|Python]] list, turns it into a NumPy array, and it sums across the dimensions, and it takes a square root.
 >
 > **[8:56](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-working-with-vectors?u=76281980&t=536)** So, now we get our Euclidean distance between these two vectors.
 >
@@ -924,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), next (5), [[Linear Algebra]] (3), power (1)
+> **Frameworks & Libraries:** [[Linear Algebra]] (3), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (7), python (1)
 > **Versions:** 0.1 (1), 78.74 (1), 1.0 (1)
 > **Definitions:** known as (2), is a  (1)
@@ -938,8 +929,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Frame the query as a question or search
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
+#### [Frame the query as a question or search](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,11 +955,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=58)** How can we search through the tens of thousands of data points and retrieve the ones that are relevant to the question or query?
 >
-> **[1:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=64)** There are many algorithms that can be used to quantify how relevant a data point is to our question or query.
+> **[1:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=64)** There are many [[Algorithms]] that can be used to quantify how relevant a data point is to our question or query.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=71)** But to keep it simple, the search process is essentially the same as measuring the distance between our question vector and every other file vector representation in our computer.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=82)** This is known as vector search or semantic search.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=82)** This is known as vector search or [[Semantic Search]].
 >
 > **[1:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/frame-the-query-as-a-question-or-search?u=76281980&t=85)** In our green vector space, imagine the query as a red vector.
 >
@@ -983,13 +973,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (8), [[Algorithms]] (1), [[Semantic Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Semantic Search]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **Definitions:** known as (2)
 > **Cross-References:** in the next (1)
 
-#### Generate the question in machine-understandable language
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/generate-the-question-in-machine-understandable-language?u=76281980)
+#### [Generate the question in machine-understandable language](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/generate-the-question-in-machine-understandable-language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1013,26 +1002,25 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/generate-the-question-in-machine-understandable-language?u=76281980&t=66)** We've now fully covered how to perform vector or semantic searches using a query and object stored in a vector database.
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/generate-the-question-in-machine-understandable-language?u=76281980&t=74)** In the next video, we'll see how you can set up and perform vector search using Python and the open-source vector database Weaviate.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/generate-the-question-in-machine-understandable-language?u=76281980&t=74)** In the next video, we'll see how you can set up and perform vector search using [[Python (Programming Language)|Python]] and the open-source vector database [[Weaviate]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (4), next (1), [[Search]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Weaviate]] (1)
 > **Analogies:** similar to (2), think of it as (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** set up (1)
 
-#### Adding data to a vector database
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980)
+#### [Adding data to a vector database](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=0)** In this video, we'll look at getting started with Weaviate, an open source vector database.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=0)** In this video, we'll look at getting started with [[Weaviate]], an open source vector database.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=5)** Firstly, we're going to import a bunch of libraries that we're going to use.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=9)** So, the request library and the JSON library.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=9)** So, the request library and the [[JSON]] library.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=12)** The first one is going to help us grab our data, the second one is going to help us print out the data.
 >
@@ -1040,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=20)** So, we're going to use this URL to get access to it, and we're going to load it up.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=25)** Once we've loaded the data set into our Python environment, we're going to go ahead and examine our data set.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=25)** Once we've loaded the data set into our [[Python (Programming Language)|Python]] environment, we're going to go ahead and examine our data set.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=32)** So firstly, we want to look at the type of data that we've just brought in, and we're also going to look at how much data we have.
 >
@@ -1066,7 +1054,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=76)** Notice how the category is the concept that the question is based on.
 >
-> **[1:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=80)** Because this JSON printing is a common function that we're going to be using, we're going to wrap that into a Python function, and we're going to use this function to print out the rest of our data.
+> **[1:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=80)** Because this JSON printing is a common function that we're going to be using, we're going to wrap that into a Python function, and we're going to use this function to print out the [[Representational State Transfer (REST)|rest]] of our data.
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=91)** To do that, we simply just call the function on the rest of our data, and we can run this line of code.
 >
@@ -1092,7 +1080,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=153)** In order to setup your API key, you can go into the Readme file for this course's repository, and there I explain exactly how you can set it up so that you'll be able to use it as I'm specifying it here.
 >
-> **[2:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=167)** I'm going into my environment variables, and I'm just grabbing the OpenAI API key because I've already set this up as a part of the setup for the course.
+> **[2:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=167)** I'm going into my environment variables, and I'm just grabbing the [[OpenAI API]] key because I've already set this up as a part of the setup for the course.
 >
 > **[2:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=174)** So, now, we're going to go ahead and run that, and it lets us know that Weaviate embedded: I started with a process ID.
 >
@@ -1106,7 +1094,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=205)** We're going to go ahead into the client, and we're going to run the get meta endpoint.
 >
-> **[3:29](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=209)** And this is just going to show us some metadata around this particular Weaviate endpoint.
+> **[3:29](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=209)** And this is just going to show us some [[Metadata]] around this particular Weaviate endpoint.
 >
 > **[3:34](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/adding-data-to-a-vector-database?u=76281980&t=214)** So we can see the hostname the modules that we have available.
 >
@@ -1280,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (44), [[Weaviate]] (15), database (11), [[JSON]] (9), next (4)
+> **Frameworks & Libraries:** [[Weaviate]] (15), [[JSON]] (9), [[Python (Programming Language)|Python]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Metadata]] (2)
 > **Env Vars:** json (9), api (3), url (1)
 > **Prerequisites:** set up (5), setup (2), getting started (1)
 > **Definitions:** is a  (4), means that (2), known as (1)
@@ -1288,8 +1276,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** the readme (1)
 
-#### Performing semantic searches using Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980)
+#### [Performing semantic searches using Weaviate](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,11 +1286,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=9)** So, just to summarize, we're going to start off with where we left off in the last video.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=14)** So, here we're loading in our data, printing out one object. We're instantiating with Weaviate.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=14)** So, here we're loading in our data, printing out one object. We're instantiating with [[Weaviate]].
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=22)** It's ready to go.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=24)** We can make sure that it's ready to go by looking at the metadata.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=24)** We can make sure that it's ready to go by looking at the [[Metadata]].
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=27)** Everything is good here.
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=313)** So, here, we want to create a query that's going to help us search for biology-related questions.
 >
-> **[5:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=320)** So, here this is where we perform semantic search.
+> **[5:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=320)** So, here this is where we perform [[Semantic Search]].
 >
 > **[5:23](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/performing-semantic-searches-using-weaviate?u=76281980&t=323)** We want to extract questions that are conceptually or semantically close to the concept of biology.
 >
@@ -1639,7 +1626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), database (9), [[Search]] (5), [[Weaviate]] (4), next (2)
+> **Frameworks & Libraries:** [[Weaviate]] (4), [[Metadata]] (1), [[Semantic Search]] (1)
 > **Versions:** 0.24 (6), 0.19 (3), 0.20 (1), 0.18 (1), 0.2 (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** dna (4)
@@ -1647,12 +1634,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Definitions:** is a  (1), is called (1)
 
-#### Challenge: Vector search with Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-search-with-weaviate?u=76281980)
+#### [Challenge: Vector search with Weaviate](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-search-with-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-search-with-weaviate?u=76281980&t=5)** In this chapter, we introduce the concept of vector search, how to set up Weaviate and how to use it to perform vector search.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-search-with-weaviate?u=76281980&t=5)** In this chapter, we introduce the concept of vector search, how to set up [[Weaviate]] and how to use it to perform vector search.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-search-with-weaviate?u=76281980&t=12)** Now, let's apply our knowledge with a challenge.
 >
@@ -1672,13 +1658,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Weaviate]] (2), data (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Weaviate]] (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 
-#### Solution: Vector Search with Weaviate
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980)
+#### [Solution: Vector Search with Weaviate](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1700,7 +1685,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=43)** We have the round it was used in the value of that question, and like before, we've got the category question and the answer.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=51)** So, we're going to go ahead and start up with Weaviate as we've been doing.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=51)** So, we're going to go ahead and start up with [[Weaviate]] as we've been doing.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=56)** And then we're going to see if the question class exists.
 >
@@ -1720,9 +1705,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=95)** The Vectorizer is the module that's going to specify the model that will be used to turn our question text into vectors.
 >
-> **[1:43](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=103)** So, here, we'll use text2vec-openai which is why we had to include the OpenAI API key at the beginning here as well.
+> **[1:43](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=103)** So, here, we'll use text2vec-openai which is why we had to include the [[OpenAI API]] key at the beginning here as well.
 >
-> **[1:52](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=112)** If you have yet to get that set up, you can look into the Read me file for this GitHub repository.
+> **[1:52](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=112)** If you have yet to get that set up, you can look into the Read me file for this [[GitHub]] repository.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=117)** The next thing that we're going to do is set up the vector index configuration.
 >
@@ -1884,7 +1869,7 @@ created: 2026-05-02
 >
 > **[8:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=537)** So, the first thing that we'll do is let's limit it to three options.
 >
-> **[9:02](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=542)** Arbitrary you can modify it as well, and add a where filter to this with where. And the wear filter allows us to filter over metadata so that we can select out rounds that are double jeopardy rounds.
+> **[9:02](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=542)** Arbitrary you can modify it as well, and add a where filter to this with where. And the wear filter allows us to filter over [[Metadata]] so that we can select out rounds that are double jeopardy rounds.
 >
 > **[9:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-search-with-weaviate?u=76281980&t=558)** And how we're going to specify this is by doing the following.
 >
@@ -1930,7 +1915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), database (10), [[Search]] (7), next (6), [[Weaviate]] (4)
+> **Frameworks & Libraries:** [[Weaviate]] (4), [[OpenAI API]] (1), [[GitHub]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** url (1), api (1)
 > **Cross-References:** as we saw (1), in the next (1)
@@ -1944,8 +1929,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning models and object classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
+#### [Machine learning models and object classification](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1953,9 +1937,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=7)** In this chapter, we'll explore how this translation happens.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=11)** Vector databases use machine learning models to translate data into vector representations, such that as little meaning is lost in translation as possible.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=11)** [[Vector Databases]] use machine learning models to translate data into vector representations, such that as little meaning is lost in translation as possible.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=21)** Most often, these models are neural networks.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=21)** Most often, these models are [[Neural Networks]].
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=23)** Machine-learning models can translate similar objects to vectors that are closer together in vector space, and dissimilar objects to vectors that are farther apart, thus retaining a lot of the meaning behind the vectors.
 >
@@ -1973,7 +1957,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=87)** And it's for this very reason that machine learning models are critical to understanding how vector databases work.
 >
-> **[1:34](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=94)** The reason why we Weaviate is known as an AI native vector database is because it relies on and uses AI models to generate the vectors, which are then used to perform vector search.
+> **[1:34](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=94)** The reason why we [[Weaviate]] is known as an AI native vector database is because it relies on and uses AI models to generate the vectors, which are then used to perform vector search.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/machine-learning-models-and-object-classification?u=76281980&t=106)** Using AI models, we understand how data objects according to their concepts can be located in vector space.
 >
@@ -1981,13 +1965,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (3), [[Vector Databases]] (2), [[Neural Networks]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Neural Networks]] (1), [[Weaviate]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 
-#### Translating data from human to machine-understandable
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980)
+#### [Translating data from human to machine-understandable](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2007,7 +1990,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=61)** Similarly, ML models that understand and can generate vectors for text are trained to predict words by filling in the blanks.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=69)** For example, if I said the blank howled at the moon, you probably know the correct word to complete the sentence.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=69)** For example, if I said the blank howled at the moon, you probably know the correct [[Microsoft Word|word]] to complete the sentence.
 >
 > **[1:17](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=77)** In a similar manner, these language models learn which words are likely to occur before and after other words.
 >
@@ -2021,26 +2004,25 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=99)** By solving tasks on human understandable data, these ML models learn to capture the meaning behind the data.
 >
-> **[1:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=106)** Whether it's visual features in an image or word usage in a paragraph, vector databases leverage these ML models and their ability to understand data and convert it into vectors.
+> **[1:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=106)** Whether it's visual features in an image or word usage in a paragraph, [[Vector Databases]] leverage these ML models and their ability to understand data and convert it into vectors.
 >
 > **[1:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=117)** Here, we developed an intuition of how ML models understand data and capture this meaning in vector form.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=124)** In the next video, we'll see how we can specify which ML model inside Weaviate is used to vectorize your data.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/translating-data-from-human-to-machine-understandable?u=76281980&t=124)** In the next video, we'll see how we can specify which ML model inside [[Weaviate]] is used to vectorize your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (2), [[Vector Databases]] (1), next (1), [[Weaviate]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Vector Databases]] (1), [[Weaviate]] (1)
 > **Cross-References:** previous video (1), we discussed (1), in the next (1)
 > **Analogies:** for example (2), imagine (1)
 
-#### ML models and vector embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980)
+#### [ML models and vector embeddings](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=0)** Now that we know ML models help us generate vectors, let's get practical and see how to do this in a vector database.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=6)** In this video, we'll look at how to vectorize images and text using Weaviate.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=6)** In this video, we'll look at how to vectorize images and text using [[Weaviate]].
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=11)** Let's say you put all of your images into a vector database and want to search for family photos by passing in the query, family vacation at the beach.
 >
@@ -2064,9 +2046,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=64)** And I've already provided you with the Docker file that you need to get this up and running.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=69)** And I've also provided instructions in the Read me file for the GitHub repo that will help you set up Docker to begin with.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=69)** And I've also provided instructions in the Read me file for the [[GitHub]] repo that will help you set up Docker to begin with.
 >
-> **[1:16](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=76)** So, to launch, we Weaviate locally using Docker, all we need to do here is just say docker compose up.
+> **[1:16](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=76)** So, to launch, we Weaviate locally using Docker, all we need to do here is just say docker [[Jetpack Compose|compose]] up.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=82)** So, it tells us that the containers are up and running.
 >
@@ -2218,7 +2200,7 @@ created: 2026-05-02
 >
 > **[7:27](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=447)** So, the way that we do that is by specifying the data properties.
 >
-> **[7:30](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=450)** And this is, again, a dictionary Python.
+> **[7:30](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=450)** And this is, again, a dictionary [[Python (Programming Language)|Python]].
 >
 > **[7:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=453)** We're going to pass in the image and we're going to tell it that the encoded image here, the image and the name of the image is what we have here that we're looping over.
 >
@@ -2378,7 +2360,7 @@ created: 2026-05-02
 >
 > **[13:39](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=819)** So, as I scroll down here, I have a with near image, and I have to specify which image I'm interested in.
 >
-> **[13:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=827)** So, the image that I wanted to perform semantic search with respect to is this particular image that I've just visualized up there.
+> **[13:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=827)** So, the image that I wanted to perform [[Semantic Search]] with respect to is this particular image that I've just visualized up there.
 >
 > **[13:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ml-models-and-vector-embeddings?u=76281980&t=834)** So, I'm going to give it the path to that particular image.
 >
@@ -2436,7 +2418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Weaviate]] (24), data (13), [[Search]] (12), next (8), database (6)
+> **Frameworks & Libraries:** [[Weaviate]] (24), [[GitHub]] (1), [[Jetpack Compose|Compose]] (1), [[Python (Programming Language)|Python]] (1), [[Semantic Search]] (1)
 > **CLI Commands:** docker (8), make (3), cat (3), python (1)
 > **Definitions:** is a  (6), known as (1), is an  (1)
 > **UI Navigation:** scroll down (3)
@@ -2445,12 +2427,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), github (1)
 > **Exercise Files:** github repo (1), download the (1)
 
-#### Challenge: Search with images and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-search-with-images-and-text?u=76281980)
+#### [Challenge: Search with images and text](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-search-with-images-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-search-with-images-and-text?u=76281980&t=5)** In this chapter, we explained how machine learning models can be used to embed your data into vectors, how you can specify which ML model to use with Weaviate, and how to build multimedia search functionality with Weaviate and the clip model.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-search-with-images-and-text?u=76281980&t=5)** In this chapter, we explained how machine learning models can be used to embed your data into vectors, how you can specify which ML model to use with [[Weaviate]], and how to build multimedia search functionality with Weaviate and the clip model.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-search-with-images-and-text?u=76281980&t=19)** Now, let's test this knowledge with a challenge.
 >
@@ -2464,11 +2445,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Weaviate]] (3), [[Search]] (3), database (1), next (1)
+> **Frameworks & Libraries:** [[Weaviate]] (3)
 > **Cross-References:** in the next (1)
 
-#### Solution: Search with images and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980)
+#### [Solution: Search with images and text](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2478,9 +2458,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=17)** So, the first thing that we need to do is import our libraries that we're going to be using.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=21)** The second thing that we need to do is start Weaviate up locally.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=21)** The second thing that we need to do is start [[Weaviate]] up locally.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=26)** So, what you'll notice is in the GitHub repository, you have access to a Docker compose file.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=26)** So, what you'll notice is in the [[GitHub]] repository, you have access to a Docker [[Jetpack Compose|compose]] file.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=32)** We're going to use that Docker compose file to initialize our instance of Weaviate locally.
 >
@@ -2496,7 +2476,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=45)** And that should get Weaviate running in the background for you.
 >
-> **[0:49](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=49)** And now, what we want to do is connect to that locally running instance of Weaviate through the Python client over here.
+> **[0:49](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=49)** And now, what we want to do is connect to that locally running instance of Weaviate through the [[Python (Programming Language)|Python]] client over here.
 >
 > **[0:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-search-with-images-and-text?u=76281980&t=57)** So, to connect it we're going to write code like so. Client with Weaviate because we've already imported it we can autocomplete.
 >
@@ -2812,7 +2792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (20), [[Weaviate]] (15), database (10), data (10), next (7)
+> **Frameworks & Libraries:** [[Weaviate]] (15), [[Jetpack Compose|Compose]] (4), [[GitHub]] (2), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** make (6), docker (4), cat (3), python (2), find (2)
 > **Tools:** github (2), terminal (1)
 > **Analogies:** similar to (2), for example (1)
@@ -2825,24 +2805,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scalability: When to use a vector DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
+#### [Scalability: When to use a vector DB](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=0)** In the last chapter, we learned about how vector databases use machine learning models to generate vectors for data points.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=0)** In the last chapter, we learned about how [[Vector Databases]] use machine learning models to generate vectors for data points.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=7)** We even built our own multimedia search functionality that allows us to search with images and text.
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=13)** In this chapter, we'll discuss scaling up with vector databases, how to assess how good a vector database is, and how you can perform CRUD operations with vector databases.
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=23)** Let's start off with scalability.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=23)** Let's start off with [[Scalability]].
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=25)** If you have tens of millions or even billions of data objects and want to perform vector search or semantic search over them, this is where other solutions will slow down and you'll need vector databases.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=25)** If you have tens of millions or even billions of data objects and want to perform vector search or [[Semantic Search]] over them, this is where other solutions will slow down and you'll need vector databases.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=36)** They're optimized to perform mathematical operations on vectors and can retrieve relevant objects in real-time, even when you have billions of vectors in the database.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=36)** They're optimized to perform mathematical operations on vectors and can retrieve relevant objects in [[Real-Time]], even when you have billions of vectors in the database.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=46)** Vector databases use a class of algorithms called approximate nearest neighbors, ANN, to find which vectors are in the nearest neighborhood of the query vector.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=46)** Vector databases use a class of [[Algorithms]] called approximate nearest neighbors, ANN, to find which vectors are in the nearest neighborhood of the query vector.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/scalability-when-to-use-a-vector-db?u=76281980&t=56)** This method allows them to efficiently search over vectors without having to compare the query vector to every stored vector, one at a time, like we demonstrated in an earlier video.
 >
@@ -2874,19 +2853,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Vector Databases]] (5), database (5), data (3), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (5), [[Real-Time]] (2), [[Databases]] (1), [[Scalability]] (1), [[Semantic Search]] (1)
 > **Env Vars:** ann (3), crud (1), hnsw (1)
 > **CLI Commands:** find (4)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1), is called (1)
 > **Prerequisites:** you'll need (1)
 
-#### Ways to measure performance of a vector DB
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980)
+#### [Ways to measure performance of a vector DB](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=0)** In the last video, we spoke about the HNSW ANN algorithm, which is the core technology that allows vector databases to perform real-time searches over lots and lots of data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=0)** In the last video, we spoke about the HNSW ANN algorithm, which is the core technology that allows [[Vector Databases]] to perform [[Real-Time]] searches over lots and lots of data.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=10)** In this video, we'll introduce some concepts that will help you assess the performance of a vector database.
 >
@@ -2920,7 +2898,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=107)** If you can reduce the memory usage of a vector database and still keep the same performance and recall, then this is ideal.
 >
-> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=114)** Some vector databases, such as Weaviate, use vector compression algorithms that save you space and still offer good recall and queries per second.
+> **[1:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=114)** Some vector databases, such as [[Weaviate]], use vector compression [[Algorithms]] that save you space and still offer good recall and queries per second.
 >
 > **[2:03](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/ways-to-measure-performance-of-a-vector-db?u=76281980&t=123)** So to conclude, we introduce three metrics recall, QPS, and memory usage.
 >
@@ -2930,32 +2908,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Vector Databases]] (4), [[Real-Time]] (2), [[Search]] (2), data (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (4), [[Real-Time]] (2), [[Weaviate]] (1), [[Algorithms]] (1)
 > **Env Vars:** qps (4), ann (3), ram (2), hnsw (1), crud (1)
 > **Definitions:** means that (2), defined as (1), is a  (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Analogies:** such as (1)
 
-#### CRUD operations in vector DBs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980)
+#### [CRUD operations in vector DBs](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=0)** In last video, we spoke about metrics that you can use to assess the performance of a vector database.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=5)** In this video, we'll talk about how vector databases keep this data fresh and up to date.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=5)** In this video, we'll talk about how [[Vector Databases]] keep this data fresh and up to date.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=11)** Our data is always changing. Whether it be due to new customers signing on to our platform or new products being listed on our store, we need a way to have our database always up to date and loaded with this fresh data.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=11)** Our data is always changing. Whether it be due to new customers signing on to our platform or new [[Microsoft Products|products]] being listed on our store, we need a way to have our database always up to date and loaded with this fresh data.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=23)** In order to keep a database fresh, we need to be able to create data objects, read already stored data objects, update old data objects, and even delete them if needed.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=33)** This makes up the CRUD operations that every database needs to support.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=37)** Because a database needs to be a real-time account of all the data our business is dealing with.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=37)** Because a database needs to be a [[Real-Time]] account of all the data our business is dealing with.
 >
 > **[0:43](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=43)** It needs to be able to support rea- time CRUD operations.
 >
-> **[0:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=46)** Let's have a look at how we can perform CRUD operations with the Weaviate vector database.
+> **[0:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=46)** Let's have a look at how we can perform CRUD operations with the [[Weaviate]] vector database.
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=52)** So, in this notebook, you'll see some boilerplate code that we've been using back-and-forth.
 >
@@ -2987,7 +2964,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=121)** So, here, we're going to have a data object.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=125)** And this is going to be another Python dictionary.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=125)** And this is going to be another [[Python (Programming Language)|Python]] dictionary.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=128)** And again, this has to be in line with the information that we want to pass in.
 >
@@ -3049,7 +3026,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=273)** We can take the data object and now we can go in here, and we can print this out.
 >
-> **[4:41](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=281)** To print JSON, humps.
+> **[4:41](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=281)** To print [[JSON]], humps.
 >
 > **[4:45](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/crud-operations-in-vector-dbs?u=76281980&t=285)** We take our data object, we add a little bit of indentation here.
 >
@@ -3199,7 +3176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), database (20), next (4), [[Vector Databases]] (2), [[Weaviate]] (2)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Weaviate]] (2), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** crud (9), uuid (5), json (1)
 > **CLI Commands:** make (2), python (1)
 > **Cross-References:** in the next (1)
@@ -3208,14 +3185,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Challenge: CRUD and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980)
+#### [Challenge: CRUD and performance](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980&t=5)** In this chapter, we explained how vector databases search over billions of objects in real-time.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980&t=5)** In this chapter, we explained how [[Vector Databases]] search over billions of objects in [[Real-Time]].
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980&t=11)** We introduced how the HNSW algorithm helps accomplish this, and we introduced how to perform real-time CRUD operations in Weaviate to ensure that our data is up to date.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980&t=11)** We introduced how the HNSW algorithm helps accomplish this, and we introduced how to perform real-time CRUD operations in [[Weaviate]] to ensure that our data is up to date.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-crud-and-performance?u=76281980&t=20)** Now, for this challenge, we'll demonstrate the true power of vector databases at scale.
 >
@@ -3229,21 +3205,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), [[Real-Time]] (2), [[Weaviate]] (2), data (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Real-Time]] (2), [[Weaviate]] (2)
 > **Env Vars:** hnsw (1), crud (1), url (1), api (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 
-#### Solution: CRUD and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980)
+#### [Solution: CRUD and performance](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=5)** Now that you've taken the time to work on this challenge, allow me to demonstrate my solution.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=10)** The interesting part about challenge four is that we're going to be working with a real vector database that has lots and lots of objects in here, and you get to see the scalability and the power of a vector database in action.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=10)** The interesting part about challenge four is that we're going to be working with a real vector database that has lots and lots of objects in here, and you get to see the [[Scalability]] and the power of a vector database in action.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=21)** Because this database is too big to be ran locally, we're actually going to connect to an instance of Weaviate running remotely on the cloud.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=21)** Because this database is too big to be ran locally, we're actually going to connect to an instance of [[Weaviate]] running remotely on the cloud.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=29)** And for that, we need to specify the URL.
 >
@@ -3257,7 +3232,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=48)** So, we're going to pass this in over here.
 >
-> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=51)** The other thing that you'll need for this is a coherent API key, and the instructions to set this up yourself are in the Readme file for the GitHub repo for the course.
+> **[0:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=51)** The other thing that you'll need for this is a coherent API key, and the instructions to set this up yourself are in the Readme file for the [[GitHub]] repo for the course.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=60)** I've already set this up, so this will be completed for me here.
 >
@@ -3309,7 +3284,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=201)** Look at five, and then we'll go ahead and perform that query.
 >
-> **[3:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=205)** So, now, when I hit enter on this code cell, this is going to go ahead and perform semantic search where it matches this concept with the closest objects that are stored in my 9.5 million object vector database.
+> **[3:25](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=205)** So, now, when I hit enter on this code cell, this is going to go ahead and perform [[Semantic Search]] where it matches this concept with the closest objects that are stored in my 9.5 million object vector database.
 >
 > **[3:40](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=220)** So, when it comes back, it shows me that this is the information that it found that is most relevant to what I am interested in vacation spots in California.
 >
@@ -3419,7 +3394,7 @@ created: 2026-05-02
 >
 > **[8:26](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=506)** Feel free to experiment with this and see what else you can get back.
 >
-> **[8:31](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=511)** In this chapter, we introduced the concept of recall, latency, and memory efficiency as they pertain to vector databases.
+> **[8:31](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=511)** In this chapter, we introduced the concept of recall, latency, and memory efficiency as they pertain to [[Vector Databases]].
 >
 > **[8:38](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-crud-and-performance?u=76281980&t=518)** We also practice performing CRUD operations that can be used to keep our data up to date and fresh.
 >
@@ -3427,7 +3402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Search]] (5), data (3), next (3), api (2)
+> **Frameworks & Libraries:** [[Semantic Search]] (2), [[Vector Databases]] (2), [[Scalability]] (1), [[Weaviate]] (1), [[GitHub]] (1)
 > **Env Vars:** url (4), api (2), crud (1)
 > **CLI Commands:** make (4)
 > **Versions:** 9.5 (4)
@@ -3441,20 +3416,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vector DB1: E-commerce RecSys
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
+#### [Vector DB1: E-commerce RecSys](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=0)** In the last chapter, we spoke about the scalability of a vector database and assessing its performance.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=0)** In the last chapter, we spoke about the [[Scalability]] of a vector database and assessing its performance.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=5)** In this chapter, we'll introduce three different and common uses of vector databases in industry, starting off with building a recommender system.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=5)** In this chapter, we'll introduce three different and common uses of [[Vector Databases]] in industry, starting off with building a recommender system.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=15)** So, let's think about what a recommender system is.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=18)** So, if you look at my screen, you can think of this as an e-commerce platform where if a user comes in, and they're interested in buying a particular product, let's say we're here and we're interested in buying this shirt, for example.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=18)** So, if you look at my screen, you can think of this as an [[E-Commerce]] platform where if a user comes in, and they're interested in buying a particular product, let's say we're here and we're interested in buying this shirt, for example.
 >
-> **[0:30](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=30)** What you'd like to do is if a user shows interest in this by clicking it, or by putting this particular item in their cart, you want to reorganize all of the products that you have on your storefront so that similar items are shown further up, because now the user has shown you their intention of what they're interested in, and you can then recommend similar items to them.
+> **[0:30](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=30)** What you'd like to do is if a user shows interest in this by clicking it, or by putting this particular item in their cart, you want to reorganize all of the [[Microsoft Products|products]] that you have on your storefront so that similar items are shown further up, because now the user has shown you their intention of what they're interested in, and you can then recommend similar items to them.
 >
 > **[0:54](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=54)** And so, in order to do this, you can use a vector database to build the underlying infrastructure for that. Let's have a look at how we can do that.
 >
@@ -3472,7 +3446,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=100)** So, for example, for the product class, we can establish the vectorized representation for the product by encoding its image and creating a vector for the image so we can display similar products.
 >
-> **[1:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=111)** Then, we can use this property of Weaviate, known as cross-references, which are shown here in the diagram as arrows.
+> **[1:51](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=111)** Then, we can use this property of [[Weaviate]], known as cross-references, which are shown here in the diagram as arrows.
 >
 > **[1:58](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=118)** And so, if you create a user, that user can like a particular product, and that can be encoded in the database schema as a cross-reference from the user class to the product class.
 >
@@ -3500,7 +3474,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=212)** And so, this user likes the shirt and the pair of boots, we can take the product and their vector representations, and then we can create an up to date vector representation of the user as an average of the shirt vector and an average of the boot vector.
 >
-> **[3:48](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=228)** And so, effectively, what we're doing here is, in real-time, accounting for the fact that a user's preferences can change, and we're updating their vector by averaging all of the products that they like in real-time.
+> **[3:48](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=228)** And so, effectively, what we're doing here is, in [[Real-Time]], accounting for the fact that a user's preferences can change, and we're updating their vector by averaging all of the products that they like in real-time.
 >
 > **[4:01](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db1-e-commerce-recsys?u=76281980&t=241)** And you can scale this up to millions of items, and you can do real-time recommendations as a result of this.
 >
@@ -3600,7 +3574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (29), [[Microsoft Products|Products]] (12), database (7), [[E-Commerce]] (7), [[Weaviate]] (7)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (12), [[E-Commerce]] (7), [[Weaviate]] (7), [[Real-Time]] (4), [[Vector Databases]] (2)
 > **Analogies:** for example (4), similar to (2), imagine (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** find (1), make (1)
@@ -3609,12 +3583,11 @@ created: 2026-05-02
 > **Env Vars:** sku (1)
 > **UI Navigation:** scroll down (1)
 
-#### Vector DB2: Hybrid search
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980)
+#### [Vector DB2: Hybrid search](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=0)** We've learned about semantic search for similar objects, but sometimes, we need to perform exact search.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=0)** We've learned about [[Semantic Search]] for similar objects, but sometimes, we need to perform exact search.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=6)** Imagine you're looking for a flight with some specific flight number. Here, matching keywords is the solution.
 >
@@ -3638,7 +3611,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=53)** I'm just going to quickly run through all of this.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=56)** Import all the data into Weaviate.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=56)** Import all the data into [[Weaviate]].
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=58)** We make sure that we've got the ten questions and answers that we've been using.
 >
@@ -3690,7 +3663,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=166)** The other side of the coin here is what if we only want to look for specific words in the questions and return if those words exist?
 >
-> **[2:55](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=175)** So, notice here how looking for the concept of animal, it doesn't matter if the word animal is in the question or not.
+> **[2:55](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=175)** So, notice here how looking for the concept of animal, it doesn't matter if the [[Microsoft Word|word]] animal is in the question or not.
 >
 > **[3:01](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=181)** Sometimes, the word might be present, sometimes, the word might not be present.
 >
@@ -3836,11 +3809,11 @@ created: 2026-05-02
 >
 > **[8:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=526)** Here we introduced hybrid search, which allows you to tune how much you want to match exact words versus concepts in the return results.
 >
-> **[8:55](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=535)** In the next video, we'll talk about another wildly popular application of vector databases, using them to improve large language models like ChatGPT.
+> **[8:55](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db2-hybrid-search?u=76281980&t=535)** In the next video, we'll talk about another wildly popular application of [[Vector Databases]], using them to improve [[Large Language Models (LLM)|large language models]] like [[ChatGPT]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (46), [[Microsoft Word|Word]] (11), data (3), [[Semantic Search]] (2), [[Weaviate]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[Semantic Search]] (2), [[Weaviate]] (2), [[Vector Databases]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Definitions:** is a  (2), is an  (1), stands for (1), known as (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** scroll up (1), go to (1)
@@ -3848,22 +3821,21 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Analogies:** imagine (1)
 
-#### Vector DB3: Retrieval augmented generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980)
+#### [Vector DB3: Retrieval augmented generation](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=0)** Now, let's talk about how you can use a vector database to improve a large language model-based chatbot like chat GPT.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=7)** The problem with large language models like ChatGPT is that they don't know anything they haven't been trained on. Using the information stored in a vector database, we can solve this problem.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=7)** The problem with [[Large Language Models (LLM)|large language models]] like [[ChatGPT]] is that they don't know anything they haven't been trained on. Using the information stored in a vector database, we can solve this problem.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=18)** Retrieval-Augmented Generation, RAG, is a technique that allows you to tell your large language model about relevant concepts prior to getting it to answer a question.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=18)** [[Retrieval-Augmented Generation (RAG)|Retrieval-Augmented Generation]], RAG, is a technique that allows you to tell your large language model about relevant concepts prior to getting it to answer a question.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=28)** This is how RAG works.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=30)** First, we query the vector database with a concept.
 >
-> **[0:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=33)** Second, we obtain retrieved results from semantic search, then, we build a prompt that uses these retrieve results, and we feed that prompt and results into the large language model to generate from.
+> **[0:33](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=33)** Second, we obtain retrieved results from [[Semantic Search]], then, we build a prompt that uses these retrieve results, and we feed that prompt and results into the large language model to generate from.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/vector-db3-retrieval-augmented-generation?u=76281980&t=46)** This allows a large language model to read retrieved relevant facts before having to generate an answer to a question, very much in the same manner as you would go to research a topic prior to writing an essay, or providing a well-thought out answer.
 >
@@ -4055,7 +4027,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (21), database (7), [[Search]] (7), rag (4), [[ChatGPT]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Semantic Search]] (1)
 > **Env Vars:** rag (4), gpt (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -4064,12 +4036,11 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Analogies:** similar to (1)
 
-#### Challenge: Vector DBs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-dbs?u=76281980)
+#### [Challenge: Vector DBs](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-dbs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-dbs?u=76281980&t=5)** In this chapter, we explained how vector databases can be used to power recommender systems, how hybrid search can help you balance between keyword search and vector search, and how vector databases can be used to improve large language models by providing them context.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-dbs?u=76281980&t=5)** In this chapter, we explained how [[Vector Databases]] can be used to power recommender systems, how hybrid search can help you balance between keyword search and vector search, and how vector databases can be used to improve [[Large Language Models (LLM)|large language models]] by providing them context.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/challenge-vector-dbs?u=76281980&t=21)** Now, let's apply the understanding of RAG with a challenge, and we'll see how good large language models are at answering jeopardy-like questions.
 >
@@ -4083,13 +4054,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Vector Databases]] (2), database (2), llm (2), power (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (2), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** llm (2), rag (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Solution: Vector DBs
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980)
+#### [Solution: Vector DBs](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4111,7 +4081,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=49)** Here, we've got the ten question data set.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=53)** We're going to start up Weaviate, and then we're going to insert all of our data into Weaviate.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=53)** We're going to start up [[Weaviate]], and then we're going to insert all of our data into Weaviate.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=58)** And to make sure that everything is in there, we just do a simple aggregate query here to make sure that there's ten objects in there.
 >
@@ -4229,15 +4199,15 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=341)** Another thing that I would recommend you can do is give it all ten questions and see how many of those it can get right if you're interested in that.
 >
-> **[5:50](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=350)** In this final chapter, we introduced how vector databases can be used to build recommender systems in e-commerce and beyond.
+> **[5:50](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=350)** In this final chapter, we introduced how [[Vector Databases]] can be used to build recommender systems in [[E-Commerce]] and beyond.
 >
-> **[5:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=357)** We also explored the concept of retrieval augmented generation, or RAG for short, that's being used along with large language models to power chatbots, agents, and search engines in production at multiple companies as we speak.
+> **[5:57](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=357)** We also explored the concept of retrieval augmented generation, or RAG for short, that's being used along with [[Large Language Models (LLM)|large language models]] to power chatbots, agents, and search engines in production at multiple companies as we speak.
 >
 > **[6:10](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/solution-vector-dbs?u=76281980&t=370)** Excellent work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), data (5), database (5), rag (2), [[Weaviate]] (2)
+> **Frameworks & Libraries:** [[Weaviate]] (2), [[Vector Databases]] (1), [[E-Commerce]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rag (2)
 
@@ -4246,18 +4216,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your AI-native vector databases learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)
+#### [Continue your AI-native vector databases learning journey](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=0)** Congratulations on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=2)** We've covered all the foundational material you need to get started integrating the critical new technology of vector databases into your applications, and as a part of your tech stack.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=2)** We've covered all the foundational material you need to get started integrating the critical new technology of [[Vector Databases]] into your applications, and as a part of your tech stack.
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=11)** We've learned a lot in this short amount of time.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=14)** The foundational concepts of how vector databases use machine learning to understand data, how to use Weaviate, an open-source vector database to search over your data, and applications of vector databases in multiple industries.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=14)** The foundational concepts of how vector databases use machine learning to understand data, how to use [[Weaviate]], an open-source vector database to search over your data, and applications of vector databases in multiple industries.
 >
 > **[0:27](https://www.linkedin.com/learning/introduction-to-ai-native-vector-databases/continue-your-ai-native-vector-databases-learning-journey?u=76281980&t=27)** If you'd like to dive into further details, I invite you to leverage the following resources: the Weaviate Quickstart Guide, and Weaviate Academy.
 >
@@ -4273,7 +4242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Weaviate]] (3), data (2), open-source (1), database (1)
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Weaviate]] (3), [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 

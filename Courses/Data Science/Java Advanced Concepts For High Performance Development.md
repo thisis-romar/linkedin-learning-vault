@@ -104,36 +104,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn advanced Java programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
+#### [Learn advanced Java programming](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=0)** - [Bethan] If you're already familiar with Java and you want to become a better and more productive developer, then this course is for you.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=0)** - [Bethan] If you're already familiar with [[Java]] and you want to become a better and more productive developer, then this course is for you.
 >
 > **[0:06](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=6)** The best way to improve is to fully understand the key concepts and the more advanced features of the language.
 >
-> **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=11)** So in this course, I'll explain a range of advanced topics including generics, multithreading, inputs and outputs, and functional programming and more.
+> **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=11)** So in this course, I'll explain a range of advanced topics including generics, multithreading, inputs and outputs, and [[Functional Programming]] and more.
 >
 > **[0:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=19)** By the end of the course, you should have a good understanding of some of the most important features of the language.
 >
 > **[0:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=24)** My name is Bethan Palmer, and I'm a Java developer and a member of the Java Champions.
 >
-> **[0:29](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=29)** So join me in my LinkedIn Learning course to learn how to master some of the more advanced topics in Java.
+> **[0:29](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/learn-advanced-java-programming?u=76281980&t=29)** So join me in my [[LinkedIn]] Learning course to learn how to master some of the more advanced topics in Java.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Java]] (4), [[Functional Programming]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [bethan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you get started with this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980&t=4)** You should already be familiar with writing code in Java.
+> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980&t=4)** You should already be familiar with writing code in [[Java]].
 >
 > **[0:07](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/what-you-should-know?u=76281980&t=7)** I won't be explaining any basics in text, so if you're new to Java, I'd suggest watching the course, "Learning Java."
 >
@@ -148,14 +146,13 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=0)** - [Instructor] Before we start the course, let's have a look at how you can get started with the code examples.
 >
-> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=5)** The code for this course is available on GitHub.
+> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=5)** The code for this course is available on [[GitHub]].
 >
 > **[0:07](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=7)** So, first you'll need to go to the repository for this course.
 >
@@ -165,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=21)** The next step is to open up your Terminal, if you're on Mac.
 >
-> **[0:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=24)** or Command Prompt, if you're on Windows.
+> **[0:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=24)** or Command Prompt, if you're on [[Windows]].
 >
 > **[0:26](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=26)** I'm on Mac, so I'm going to open up my Terminal.
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=37)** So I'm going to say cd, which stands for change directory and then I'm going to type in Desktop and press Enter.
 >
-> **[0:45](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=45)** Then the command to download the code is git clone.
+> **[0:45](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=45)** Then the command to download the code is [[Git]] clone.
 >
 > **[0:48](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=48)** So, I'm going to say git clone and then I'm going to paste that URL that's I just copied and press Enter.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=99)** You'll see that there is a folder called Source and inside that there's a folder called Main.
 >
-> **[1:43](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=103)** And inside Main there's one called Java.
+> **[1:43](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=103)** And inside Main there's one called [[Java]].
 >
 > **[1:45](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-exercise-files?u=76281980&t=105)** Inside the Java folder, there is a package for each video in the course.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Git]] (2), [[Java]] (2), [[GitHub]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Java]] (2), [[GitHub]] (1), [[Windows]] (1)
 > **Tools:** intellij (3), terminal (2), github (1), command prompt (1)
 > **Definitions:** is a  (5), stands for (1)
 > **Env Vars:** url (2), ide (2)
@@ -225,14 +222,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Which version of Java to use?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
+#### [Which version of Java to use?](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980&t=0)** - [Instructor] In this course, I'll be using OpenJDK 17.
 >
-> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980&t=4)** To be able to use all the features in this course, you will need to have at least Java 8 installed, but feel free to use any later version as well.
+> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980&t=4)** To be able to use all the features in this course, you will need to have at least [[Java]] 8 installed, but feel free to use any later version as well.
 >
 > **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/which-version-of-java-to-use?u=76281980&t=11)** Choosing which Java version to use isn't completely straightforward.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), feature (2), next (2), teams (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Env Vars:** jdk (4)
 > **Versions:** java 8 (1), java 17 (1), java 21 (1)
 > **CLI Commands:** make (1)
@@ -282,8 +278,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to generics in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
+#### [Introduction to generics in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -305,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=44)** So I'm going to click on the green arrow next to the main method and choose Run.
 >
-> **[0:49](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=49)** And in the terminal, I can see it prints out the word circle as expected.
+> **[0:49](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=49)** And in the terminal, I can see it prints out the [[Microsoft Word|word]] circle as expected.
 >
 > **[0:54](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=54)** But what if I want to assign a variable to that first value from the list?
 >
@@ -391,11 +386,11 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=241)** And I'm going to change this value from integer to string.
 >
-> **[4:06](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=246)** So generics are a powerful parts of the Java language which make our codes safer and easier for us to write and also easier for other people to read.
+> **[4:06](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-generics-in-java?u=76281980&t=246)** So generics are a powerful parts of the [[Java]] language which make our codes safer and easier for us to write and also easier for other people to read.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Java]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -403,8 +398,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic methods in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/generic-methods-in-java?u=76281980)
+#### [Generic methods in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/generic-methods-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,14 +490,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), generic (1)
 > **Code Identifiers:** convertarraytolist (3), wordslist (2), numberslist (2), aslist (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Bounded generics in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/bounded-generics-in-java?u=76281980)
+#### [Bounded generics in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/bounded-generics-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,15 +541,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Versions:** 2.0 (1), 3.5 (1), 14.7 (1)
 > **Analogies:** for example (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Liskov substitution principle in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980)
+#### [The Liskov substitution principle in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +563,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980&t=23)** So first, I have an abstract class called ClothingItem and this class has two abstracts methods in it, getPrice and getName.
 >
-> **[0:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980&t=32)** Then there are two classes that extends this abstract class, so one of them is the ShirtItem class and in this class the getPrice method returns 10 and the getName method returns the word Shirts.
+> **[0:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980&t=32)** Then there are two classes that extends this abstract class, so one of them is the ShirtItem class and in this class the getPrice method returns 10 and the getName method returns the [[Microsoft Word|word]] Shirts.
 >
 > **[0:44](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-liskov-substitution-principle-in-java?u=76281980&t=44)** Then there's one called JacketItem and in this class the getPrice method returns 25 and the getName method returns the word Jacket.
 >
@@ -660,8 +650,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using wildcards in generic programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980)
+#### [Using wildcards in generic programming](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +692,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=117)** To fix this, I can instead use wild cards.
 >
-> **[2:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=120)** So, in my checkoutAllItems method declaration inside the brackets, where I've got List clothingItem, before ClothingItem, I'm going to put a question mark and then the word extends and then ClothingItem.
+> **[2:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=120)** So, in my checkoutAllItems method declaration inside the brackets, where I've got List clothingItem, before ClothingItem, I'm going to put a question mark and then the [[Microsoft Word|word]] extends and then ClothingItem.
 >
 > **[2:12](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=132)** So, this means I can now pass in a list of clothingItems, or a list containing any subtype of ClothingItem.
 >
@@ -711,7 +700,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=140)** And if I run this just to make sure, I can see that this works as expected and it prints out the purchases of the two shirtItems.
 >
-> **[2:33](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=153)** So, this syntax with question mark followed by extends is known as a wild card and that's how you can use wild cards in Java to make your code more flexible and save you writing a lot of unnecessary boilerplate code.
+> **[2:33](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-wildcards-in-generic-programming?u=76281980&t=153)** So, this syntax with question mark followed by extends is known as a wild card and that's how you can use wild cards in [[Java]] to make your code more flexible and save you writing a lot of unnecessary boilerplate code.
 
 > [!info]- Semantic Content
 >
@@ -723,8 +712,7 @@ created: 2026-05-02
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Using generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-using-generics?u=76281980)
+#### [Challenge: Using generics](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-using-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +770,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), next (1)
 > **Code Identifiers:** getprice (3), tostring (2), flattenlist (2), gettotalprice (2), flattenedlist (2)
 > **Definitions:** is called (2), is an  (1)
 > **Cross-References:** in the next (1)
@@ -790,8 +777,7 @@ created: 2026-05-02
 > **Speakers:** - now (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Using generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980)
+#### [Solution: Using generics](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,15 +807,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=69)** So instead of passing in a list of tickets, I want to be able to pass in either a list of tickets or a list of any subtype of tickets.
 >
-> **[1:16](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=76)** So in front of the word ticket, in the angle brackets, I'm going to put to question mark and then extends.
+> **[1:16](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=76)** So in front of the [[Microsoft Word|word]] ticket, in the angle brackets, I'm going to put to question mark and then extends.
 >
-> **[1:23](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=83)** And now if I uncomment the rest of the lines, I can see that I don't have any compiler errors here as well.
+> **[1:23](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=83)** And now if I uncomment the [[Representational State Transfer (REST)|rest]] of the lines, I can see that I don't have any compiler errors here as well.
 >
 > **[1:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-using-generics?u=76281980&t=92)** So if I just give this a quick run by clicking on the green arrow and choosing run, I can see that everything compiles and works fine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), next (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** flattenlist (3), gettotalprice (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **CLI Commands:** make (1)
@@ -841,18 +827,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collections in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
+#### [Collections in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=0)** - [Instructor] Collections are a fundamental part of all object-oriented programming languages, and Java's no different.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=0)** - [Instructor] Collections are a fundamental part of all [[Object-Oriented Programming (OOP)|object-oriented programming]] languages, and [[Java]]'s no different.
 >
 > **[0:06](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=6)** Most programs you write will contain some kind of collection, so it's useful to have a good understanding of how they work.
 >
 > **[0:13](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=13)** A collection is an object that contains a group of other objects.
 >
-> **[0:17](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=17)** Most people are familiar with the most common data structures, like Arrays and ArrayLists, but there are, of course, many, many others, too many for me to cover here.
+> **[0:17](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=17)** Most people are familiar with the most common [[Data Structures]], like Arrays and ArrayLists, but there are, of course, many, many others, too many for me to cover here.
 >
 > **[0:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=25)** So in this chapter, I'm going to do some demos of how to use some particularly useful ones, including LinkedLists, HashMaps, and LinkedHashMaps.
 >
@@ -914,18 +899,17 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=142)** It's just useful to see the difference between collection and map.
 >
-> **[2:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=145)** So let's have a look at some real word examples where some of these collections are used.
+> **[2:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/collections-in-java?u=76281980&t=145)** So let's have a look at some real [[Microsoft Word|word]] examples where some of these collections are used.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Data Structures]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (5)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using LinkedLists to structure data
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-linkedlists-to-structure-data?u=76281980)
+#### [Using LinkedLists to structure data](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-linkedlists-to-structure-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,18 +998,17 @@ created: 2026-05-02
 > **Code Identifiers:** getfirst (1), getlast (1)
 > **Speakers:** - first (1)
 
-#### Storing pairs with HashMaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980)
+#### [Storing pairs with HashMaps](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=0)** - [Instructor] Sometimes you'll need a data structure that can store key-value pairs.
 >
-> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=4)** Probably the most common way to do this in Java is with a HashMap.
+> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=4)** Probably the most common way to do this in [[Java]] is with a HashMap.
 >
 > **[0:08](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=8)** So in this example I have a class called HashmapExample and at the moment this just has an empty main method inside it.
 >
-> **[0:14](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=14)** So to create a HashMap, I'm going to put the word Hashmap and IntelliJ has added the import statement at the top for me.
+> **[0:14](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=14)** So to create a HashMap, I'm going to put the [[Microsoft Word|word]] Hashmap and IntelliJ has added the import statement at the top for me.
 >
 > **[0:22](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/storing-pairs-with-hashmaps?u=76281980&t=22)** And then inside the pair of angle brackets, I need to put two types.
 >
@@ -1129,7 +1112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (1), [[Java]] (1), [[Microsoft Word|Word]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (2), is called (1)
 > **Best Practices:** the key is (3)
@@ -1138,8 +1121,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using LinkedHashMaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-linkedhashmaps?u=76281980)
+#### [Using LinkedHashMaps](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-linkedhashmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,15 +1187,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** foreach (1), getfirst (1), getlast (1)
 > **Cross-References:** previous video (2), in the next (1)
 > **Definitions:** is called (1), means that (1)
 > **Tools:** intellij (1)
 > **Speakers:** - in (1)
 
-#### Challenge: Data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980)
+#### [Challenge: Data structures](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,7 +1211,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=46)** So to check that your code is working, there are some unit tests that you can run.
 >
-> **[0:50](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=50)** So inside the folder, test, Java, for example, in _03_05, there's a class called VotingSystemTest.
+> **[0:50](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=50)** So inside the folder, test, [[Java]], for example, in _03_05, there's a class called VotingSystemTest.
 >
 > **[0:58](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=58)** The first test adds some votes to the voting system by calling the vote method a few times.
 >
@@ -1265,7 +1245,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=133)** But once you've finished writing the code in the class called votingSystem, you should be able to run these tests again and they should pass.
 >
-> **[2:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=139)** So it's actually also really good practice for test-driven development.
+> **[2:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=139)** So it's actually also really good practice for [[Test-Driven Development]].
 >
 > **[2:23](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-data-structures?u=76281980&t=143)** If you do get stuck on any of this, don't worry.
 >
@@ -1273,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (1), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Test-Driven Development]] (1)
 > **Code Identifiers:** getvotes (2), assertequals (2), votingsystem (2), keyset (1), votingsystemtest (1)
 > **Analogies:** for example (3)
 > **Env Vars:** ide (2)
@@ -1282,8 +1262,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Best Practices:** good practice (1)
 
-#### Solution: Data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-data-structures?u=76281980)
+#### [Solution: Data structures](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1337,7 +1316,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Best Practices:** the key is (2)
 > **Non-Speech:** (upbeat synth music) (1), (music ends) (1)
 > **UI Navigation:** go to (1)
@@ -1348,14 +1326,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional Interfaces in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
+#### [Functional Interfaces in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980&t=0)** - [Instructor] Lambdas and streams allow you to write neat, concise code.
 >
-> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980&t=4)** Since they were introduced in Java 8, they've become really widely used, so it's useful and important to understand this functional style of programming.
+> **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980&t=4)** Since they were introduced in [[Java]] 8, they've become really widely used, so it's useful and important to understand this functional style of programming.
 >
 > **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/functional-interfaces-in-java?u=76281980&t=11)** Lambdas are a shorthand for functional interfaces, so we're going to start with those.
 >
@@ -1433,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), [[Java]] (3), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Code Identifiers:** printmessage (3), helloworldgreeting (2), goodmorninggreeting (2)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -1441,8 +1418,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing lambdas in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/implementing-lambdas-in-java?u=76281980)
+#### [Implementing lambdas in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/implementing-lambdas-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,16 +1480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Definitions:** is a  (2), is called (1)
 > **Speakers:** - now (1)
 
-#### Using method references in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980)
+#### [Using method references in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=0)** - [Instructor] Another feature that was introduced in Java eight is method references.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=0)** - [Instructor] Another feature that was introduced in [[Java]] eight is method references.
 >
 > **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=4)** These are another type of lambda expression and they're another way of making your code more concise.
 >
@@ -1577,7 +1551,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=155)** So I'm going to get rid of the number in brackets and the arrow.
 >
-> **[2:38](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=158)** And I'm going to get rid of the word number in brackets so that I'm just left with number util dots even or odd.
+> **[2:38](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=158)** And I'm going to get rid of the [[Microsoft Word|word]] number in brackets so that I'm just left with number util dots even or odd.
 >
 > **[2:44](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-method-references-in-java?u=76281980&t=164)** And I'm going to replace the dots with two colons.
 >
@@ -1593,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), functional (2), feature (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** foreach (3)
 > **Definitions:** is a  (3)
 > **Tools:** intellij (1), terminal (1)
@@ -1602,12 +1576,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** note that (1)
 
-#### Understanding streams in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-streams-in-java?u=76281980)
+#### [Understanding streams in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-streams-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-streams-in-java?u=76281980&t=0)** - [Instructor] Streams provide a powerful way to work with sequences of elements in Java.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-streams-in-java?u=76281980&t=0)** - [Instructor] Streams provide a powerful way to work with sequences of elements in [[Java]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-streams-in-java?u=76281980&t=5)** They have a slightly confusing name and that they sound similar to input and output streams, but actually, they're completely different things.
 >
@@ -1643,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Tools:** terminal (4)
 > **Analogies:** for example (2), similar to (1)
 > **Code Identifiers:** foreach (1)
@@ -1652,8 +1625,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using streams in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-streams-in-java?u=76281980)
+#### [Using streams in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-streams-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,21 +1741,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **Env Vars:** api (2)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980)
+#### [Challenge: Functional programming](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=5)** - This exercise is going to give you a chance to practice some functional programming.
+> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=5)** - This exercise is going to give you a chance to practice some [[Functional Programming]].
 >
 > **[0:10](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=10)** You'll see that for this one, there is another suite of J unit tests.
 >
@@ -1831,7 +1801,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=143)** So if I go back to my StreamUtils test and rerun this one, this one now passes.
 >
-> **[2:30](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=150)** I'll leave the rest of the methods for you to try.
+> **[2:30](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=150)** I'll leave the [[Representational State Transfer (REST)|rest]] of the methods for you to try.
 >
 > **[2:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-functional-programming?u=76281980&t=152)** You could do this exercise without using functional programming, but see if you can do it all using streams.
 >
@@ -1839,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Functional Programming]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** testsorted (1), streamutiles (1), assertequals (1), tolist (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Definitions:** is a  (1), is called (1)
@@ -1847,12 +1817,11 @@ created: 2026-05-02
 > **Speakers:** - this (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Functional programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-functional-programming?u=76281980)
+#### [Solution: Functional programming](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-functional-programming?u=76281980&t=0)** - [Instructor] Let's go through the solutions for the functional programming exercise.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-functional-programming?u=76281980&t=0)** - [Instructor] Let's go through the solutions for the [[Functional Programming]] exercise.
 >
 > **[0:09](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-functional-programming?u=76281980&t=9)** So I fixed the first test in the previous video.
 >
@@ -1950,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Code Identifiers:** startswith (2), tolist (2), testbeginninhwitht (1), testuppercase (1), testeverythingcombined (1)
 > **Cross-References:** go back to (3), previous video (1)
 > **Definitions:** is called (3)
@@ -1963,12 +1932,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to concurrency in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
+#### [Introduction to concurrency in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980&t=0)** - [Narrator] Making use of concurrency in Java can help you write faster applications by letting your code do more than one thing at a time.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980&t=0)** - [Narrator] Making use of concurrency in [[Java]] can help you write faster applications by letting your code do more than one thing at a time.
 >
 > **[0:07](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/introduction-to-concurrency-in-java?u=76281980&t=7)** As an analogy, imagine a chef is cooking a meal, and as part of the meal, they need to cook both rice and potatoes.
 >
@@ -2030,7 +1998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (2), [[Programming]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
@@ -2038,14 +2006,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### The Thread class in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980)
+#### [The Thread class in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980&t=0)** - Let's have a look at how threads work in practice.
 >
-> **[0:03](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980&t=3)** Java has a thread class that can be used to work directly with threads, but most of the time when you're writing multi-threaded code, you'll work with obstructions rather than the thread class directly.
+> **[0:03](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980&t=3)** [[Java]] has a thread class that can be used to work directly with threads, but most of the time when you're writing multi-threaded code, you'll work with obstructions rather than the thread class directly.
 >
 > **[0:13](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-thread-class-in-java?u=76281980&t=13)** But it's useful to know how they work so you can understand the concepts that the obstructions are using.
 >
@@ -2101,14 +2068,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), application (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** threadone (3), threadtwo (3), setname (2), getname (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - let (1)
 
-#### The Runnable interface in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-runnable-interface-in-java?u=76281980)
+#### [The Runnable interface in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/the-runnable-interface-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2164,7 +2130,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3)
 > **UI Navigation:** go to (3), click on (1)
 > **Code Identifiers:** getname (1), threadone (1), threadtwo (1)
 > **Cross-References:** go back to (2), previous chapter (1)
@@ -2173,8 +2138,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the ExecutorService in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980)
+#### [Using the ExecutorService in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2186,7 +2150,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980&t=18)** For example, we might want to reuse threads, because it uses a lot of memory to keep creating and removing them.
 >
-> **[0:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980&t=24)** Luckily, rather than configuring all this ourselves, Java provides some instructions that make it easier to work with threads.
+> **[0:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980&t=24)** Luckily, rather than configuring all this ourselves, [[Java]] provides some instructions that make it easier to work with threads.
 >
 > **[0:31](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-the-executorservice-in-java?u=76281980&t=31)** One good way to manage threads is to use something called an ExecutorService.
 >
@@ -2240,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), application (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** previous video (1)
@@ -2248,8 +2212,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Synchronized methods in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980)
+#### [Synchronized methods in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2327,7 +2290,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980&t=176)** I can make this withdraw method a synchronized method.
 >
-> **[2:59](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980&t=179)** And I can do this by putting the word synchronized before the return type.
+> **[2:59](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980&t=179)** And I can do this by putting the [[Microsoft Word|word]] synchronized before the return type.
 >
 > **[3:02](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/synchronized-methods-in-java?u=76281980&t=182)** So after public and before void, I'm going to put the word synchronized.
 >
@@ -2348,8 +2311,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Name
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-name?u=76281980)
+#### [Challenge: Name](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2399,7 +2361,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1)
 > **Definitions:** is called (2), is a  (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), in the next (1)
@@ -2407,8 +2368,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Name
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980)
+#### [Solution: Name](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2458,7 +2418,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980&t=89)** And then one final thing is I'm going to make this method a synchronized method.
 >
-> **[1:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980&t=92)** So before the void, I'm going to put the word synchronized.
+> **[1:32](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980&t=92)** So before the void, I'm going to put the [[Microsoft Word|word]] synchronized.
 >
 > **[1:36](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-name?u=76281980&t=96)** So if I run this just to make sure it works.
 >
@@ -2468,7 +2428,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** executorservice (3), stockchecker (2), newfixedthreadpool (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - so (1)
@@ -2478,8 +2438,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding I/O in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
+#### [Understanding I/O in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2499,7 +2458,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980&t=35)** If you wanted to have data going two ways, you would need two separate Streams.
 >
-> **[0:39](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980&t=39)** There are two core abstract classes in the Java Streams API, InputStream and OutputStream.
+> **[0:39](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980&t=39)** There are two core abstract classes in the [[Java]] Streams API, InputStream and OutputStream.
 >
 > **[0:45](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/understanding-i-o-in-java?u=76281980&t=45)** As these are abstract classes, you can't instantiate them directly, but they each have several concrete implementations for handling different types of data.
 >
@@ -2519,13 +2478,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (1), [[Java]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading from System.in with a Scanner
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980)
+#### [Reading from System.in with a Scanner](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2537,7 +2495,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980&t=17)** One way to do this is with the Scanner class.
 >
-> **[0:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980&t=19)** So I'm going to create a new Scanner object by saying Scanner, which is inside the java.util class and I'll call it Scanner.
+> **[0:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980&t=19)** So I'm going to create a new Scanner object by saying Scanner, which is inside the [[Java]].util class and I'll call it Scanner.
 >
 > **[0:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-from-system-in-with-a-scanner?u=76281980&t=25)** Then I can say equals new Scanner and I'm going to pass in system.in.
 >
@@ -2631,15 +2589,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), prompt (2), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** nextline (9), nextint (6)
 > **Definitions:** is an  (1), is called (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading files with BufferedReader
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980)
+#### [Reading files with BufferedReader](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2671,13 +2628,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=53)** The FileReader constructor also takes an argument and in this case, it's a string, which is a path to the file that I want to read.
 >
-> **[1:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=60)** This path will be read from the root of my project so I'm going to put src/main/java and then this is inside 06_03 and the file is called example.txt.
+> **[1:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=60)** This path will be read from the root of my project so I'm going to put src/main/[[Java]] and then this is inside 06_03 and the file is called example.txt.
 >
 > **[1:16](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=76)** So I can see that I've actually got a compiler error at the moment, and that's because I need to handle a FileNotFoundException.
 >
 > **[1:24](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=84)** So I'm going to put this inside a try-catch block.
 >
-> **[1:26](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=86)** So I'm going to put the word try and then a curly brace and then a closing curly brace after my line where I created my reader.
+> **[1:26](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=86)** So I'm going to put the [[Microsoft Word|word]] try and then a curly brace and then a closing curly brace after my line where I created my reader.
 >
 > **[1:33](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=93)** Then I can have a catch statement.
 >
@@ -2713,7 +2670,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=171)** And just to make it clear, I'll add another system.out.println above and put a message saying that that is the first line.
 >
-> **[3:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=180)** So if I wanted to get the rest of the lines of the file as a single string, I could write a loop where I check if the next line is null using that readLine method.
+> **[3:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=180)** So if I wanted to get the [[Representational State Transfer (REST)|rest]] of the lines of the file as a single string, I could write a loop where I check if the next line is null using that readLine method.
 >
 > **[3:08](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/reading-files-with-bufferedreader?u=76281980&t=188)** And if it's not, then I add it to my string.
 >
@@ -2759,7 +2716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Java]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** readline (3), stringbuilder (3), printstacktrace (1), firstline (1), foreach (1)
 > **Definitions:** is a  (3), is called (1)
 > **File Paths:** example.txt (2)
@@ -2768,8 +2725,7 @@ created: 2026-05-02
 > **Versions:** java 8 (1)
 > **Warnings:** note that (1)
 
-#### Using try-with-resources with I/O
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980)
+#### [Using try-with-resources with I/O](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2791,7 +2747,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980&t=49)** Luckily, there is a simpler way to handle this scenario called, try-with-resources.
 >
-> **[0:54](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980&t=54)** The syntax for try-with-resources is to declare the resource inside brackets after the word try.
+> **[0:54](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980&t=54)** The syntax for try-with-resources is to declare the resource inside brackets after the [[Microsoft Word|word]] try.
 >
 > **[1:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/using-try-with-resources-with-i-o?u=76281980&t=60)** So after the word try, I'm going to put a pair of brackets.
 >
@@ -2805,15 +2761,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Microsoft Word|Word]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Input and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-input-and-output?u=76281980)
+#### [Challenge: Input and output](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-input-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2853,15 +2808,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Definitions:** is called (3), is a  (2)
 > **File Paths:** scanner.txt (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Input and output
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980)
+#### [Solution: Input and output](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2891,7 +2844,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980&t=53)** And then inside this constructor, I pass in the path to the file.
 >
-> **[0:57](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980&t=57)** So I'm going to say src/main/java.
+> **[0:57](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980&t=57)** So I'm going to say src/main/[[Java]].
 >
 > **[1:01](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-input-and-output?u=76281980&t=61)** And then this is inside _06_06, although if you did the exercise inside 06 05, then you should put _06_05 here.
 >
@@ -2967,7 +2920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** stringbuilder (5), getfirstline (2), firstline (2), printstacktrace (2), getwholefile (2)
 > **Cross-References:** go back to (3)
 > **Definitions:** is called (2)
@@ -2981,12 +2934,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with files in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
+#### [Working with files in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980&t=0)** - [Instructor] Java has always had ways to handle files right from the very first version.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980&t=0)** - [Instructor] [[Java]] has always had ways to handle files right from the very first version.
 >
 > **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-files-in-java?u=76281980&t=5)** There are two different packages that contain classes that we can use to work with files, [java.io](https://java.io) and java.nio.
 >
@@ -3014,21 +2966,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), api (1)
+> **Frameworks & Libraries:** [[Java]] (9)
 > **URLs:** [java.io](https://java.io) (3)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a new file
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980)
+#### [Creating a new file](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980&t=0)** - [Instructor] A task that comes up fairly often in software development is the need to work with files in some way.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980&t=0)** - [Instructor] A task that comes up fairly often in [[Software Development]] is the need to work with files in some way.
 >
-> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980&t=5)** So to begin with, let's look at how we can create a new empty file in Java.
+> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980&t=5)** So to begin with, let's look at how we can create a new empty file in [[Java]].
 >
 > **[0:09](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/creating-a-new-file?u=76281980&t=9)** So in this example, I have a class called FileCreationExample with an empty main method inside it.
 >
@@ -3104,12 +3055,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with directories in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-directories-in-java?u=76281980)
+#### [Working with directories in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-directories-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-directories-in-java?u=76281980&t=0)** - [Speaker] It's often useful to be able to work with directories in Java.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-directories-in-java?u=76281980&t=0)** - [Speaker] It's often useful to be able to work with directories in [[Java]].
 >
 > **[0:04](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/working-with-directories-in-java?u=76281980&t=4)** So let's start by seeing how we can list the contents of a directory.
 >
@@ -3211,19 +3161,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), api (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Analogies:** for example (3)
 > **Code Identifiers:** printstacktrace (1), isdirectory (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Speakers:** - [speaker] (1)
 
-#### Copying files in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/copying-files-in-java?u=76281980)
+#### [Copying files in Java](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/copying-files-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/copying-files-in-java?u=76281980&t=0)** - [Instructor] Let's see how we can copy files in Java now.
+> **[0:00](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/copying-files-in-java?u=76281980&t=0)** - [Instructor] Let's see how we can copy files in [[Java]] now.
 >
 > **[0:03](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/copying-files-in-java?u=76281980&t=3)** So in this example, inside 07 04, I've actually got a directory called files and inside that I have two more directories, A and B.
 >
@@ -3287,14 +3236,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), next (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **Env Vars:** txt (3)
 > **Tools:** intellij (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-files-and-directories?u=76281980)
+#### [Challenge: Files and directories](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/challenge-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3314,14 +3262,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** example.txt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Files and directories
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980)
+#### [Solution: Files and directories](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3335,7 +3281,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980&t=19)** So I'm going to say path, path equals Paths.get, and then I'm going to pass in the path.
 >
-> **[0:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980&t=25)** So I'm going to say src/main/java and then 0706, although if you did this exercise in 0705, then you could put 0705 here, and then I'm going to say /folderA/example.txt.
+> **[0:25](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980&t=25)** So I'm going to say src/main/[[Java]] and then 0706, although if you did this exercise in 0705, then you could put 0705 here, and then I'm going to say /folderA/example.txt.
 >
 > **[0:44](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/solution-files-and-directories?u=76281980&t=44)** And I also know that the next methods I'm going to call are going to throw IO exceptions.
 >
@@ -3403,7 +3349,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** folderb (6), foldera (4), newpath (3), notexists (2), printstacktrace (1)
 > **File Paths:** example.txt (2), foldera/example.txt (1)
 > **Definitions:** is an  (1)
@@ -3415,8 +3361,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3424,21 +3369,21 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=3)** Well done on completing it, and thank you for joining me.
 >
-> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=5)** This course has covered a really broad range of topics, and hopefully you now feel more confident in your Java coding skills.
+> **[0:05](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=5)** This course has covered a really broad range of topics, and hopefully you now feel more confident in your [[Java]] coding skills.
 >
-> **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=11)** A good next step would be to look in the LinkedIn Learning library at some more of the Java programming courses in more specialist areas.
+> **[0:11](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=11)** A good next step would be to look in the [[LinkedIn]] Learning library at some more of the Java programming courses in more specialist areas.
 >
-> **[0:17](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=17)** For example, if you're interested in using Java with databases, there's a course on learning JDBC.
+> **[0:17](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=17)** For example, if you're interested in using Java with [[Databases]], there's a course on learning [[Java Database Connectivity (JDBC)|JDBC]].
 >
 > **[0:22](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=22)** Or if you want to learn to use Docker with Java, I'd recommend the Docker for Java Development course.
 >
-> **[0:28](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=28)** If you're interested in web development, for example, I'd recommend looking at the courses on Spring and Spring Boot.
+> **[0:28](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=28)** If you're interested in [[Web Development]], for example, I'd recommend looking at the courses on Spring and [[Spring Boot]].
 >
 > **[0:34](https://www.linkedin.com/learning/java-advanced-concepts-for-high-performance-development/next-steps?u=76281980&t=34)** Good luck with your continued learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (1), [[LinkedIn]] (1), [[Programming]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[LinkedIn]] (1), [[Databases]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Web Development]] (1)
 > **CLI Commands:** docker (2)
 > **Analogies:** for example (2)
 > **Env Vars:** jdbc (1)

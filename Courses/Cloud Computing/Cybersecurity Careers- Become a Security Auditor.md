@@ -77,18 +77,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Helping organizations stay secure through auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980)
+#### [Helping organizations stay secure through auditing](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=0)** - Every company needs a security auditor, someone who can give them advice, make sure their security posture is aligned with their business goals, and lead them into compliance.
 >
-> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=11)** In this LinkedIn Learning course, we're going to break down the requirements to help you get into the security auditing field.
+> **[0:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=11)** In this [[LinkedIn]] Learning course, we're going to break down the requirements to help you get into the security auditing field.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=17)** We'll talk about what it takes from a technical level, sure.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=20)** Frameworks like the NIST CSF and PCI DSS.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=20)** Frameworks like the [[NIST]] CSF and PCI DSS.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=24)** But a lot of what it takes to be a great auditor isn't technical at all.
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=36)** Hi, I'm Mike Miller.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=38)** I'm a 25-year veteran in the field of cybersecurity.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=38)** I'm a 25-year veteran in the field of [[Cybersecurity]].
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/helping-organizations-stay-secure-through-auditing?u=76281980&t=41)** I've been fortunate enough to have worked in defensive security, offensive security, and security auditing.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), business (1), [[LinkedIn]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (1), csf (1), pci (1), dss (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - every (1)
@@ -116,8 +115,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are security auditing and compliance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980)
+#### [What are security auditing and compliance?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980&t=75)** During a security audit, each of these requirements are broken down into several low level sub controls.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980&t=82)** An example of an auditing function would be to ask the organization to provide evidence that proper Windows update and patching is occurring on a regular basis.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980&t=82)** An example of an auditing function would be to ask the organization to provide evidence that proper [[Windows]] update and patching is occurring on a regular basis.
 >
 > **[1:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/what-are-security-auditing-and-compliance?u=76281980&t=92)** During a security audit, an auditor would not only conduct interviews with the appropriate system administrators, but also review evidence of a patching schedule.
 >
@@ -171,15 +169,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), data (4), business (1), management (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pci (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - before (1)
 
-#### Why do organizations need to be audited?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980)
+#### [Why do organizations need to be audited?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980&t=61)** Here's another example.
 >
-> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980&t=62)** Many times, organizations have their own intellectual property, like new cutting edge products they're working on.
+> **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980&t=62)** Many times, organizations have their own intellectual property, like new cutting edge [[Microsoft Products|products]] they're working on.
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/why-do-organizations-need-to-be-audited?u=76281980&t=68)** Obviously, they want to protect that IP from leaks or unintended disclosure.
 >
@@ -255,17 +252,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), data (10), business (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** cvv (1), pii (1)
 > **Analogies:** such as (2)
 > **Speakers:** - every (1)
 
-#### Who can be a security auditor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980)
+#### [Who can be a security auditor?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=0)** - In the field of cybersecurity, and particularly auditing, there's no standard blueprint or hard requirement that needs to be followed to step foot into the security auditing world.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=0)** - In the field of [[Cybersecurity]], and particularly auditing, there's no standard blueprint or hard requirement that needs to be followed to step foot into the security auditing world.
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=10)** I actually came into this field after years in IT.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=45)** In my experience though, that's not really the case.
 >
-> **[0:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=49)** The real value in the security auditing field comes from the core soft skills that you bring to the table and that starts with integrity.
+> **[0:49](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=49)** The real value in the security auditing field comes from the core [[Soft Skills]] that you bring to the table and that starts with integrity.
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=58)** This is the most important quality to have as an auditor.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=114)** During an auditing engagement, the security auditor will conduct many interviews throughout the organization.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=120)** This can include associates within the IT department, as well as human resources.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=120)** This can include associates within the IT department, as well as [[Human Resources (HR)|human resources]].
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/who-can-be-a-security-auditor?u=76281980&t=125)** Oftentimes, end users will be interviewed as well.
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), data (3), business (2), [[Cybersecurity]] (1), [[Soft Skills]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Soft Skills]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** pii (1)
 > **Speakers:** - in (1)
 
@@ -350,8 +346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of common security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980)
+#### [Overview of common security frameworks](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,15 +372,15 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=75)** There are two main security frameworks that we will take a deep dive into during this course.
 >
-> **[1:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=79)** They are the NIST CSF and the PCI DSS framework.
+> **[1:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=79)** They are the [[NIST]] CSF and the PCI DSS framework.
 >
-> **[1:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=85)** The NIST CSF, also known as the Cybersecurity Framework, is a comprehensive framework that can be used by any organization.
+> **[1:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=85)** The NIST CSF, also known as the [[Cybersecurity]] Framework, is a comprehensive framework that can be used by any organization.
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=94)** There are five major categories within this framework: identify, protect, detect, respond, and recover.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=103)** If the NIST CSF is followed entirely, it'll ensure that an appropriate security strategy is in place.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=111)** The PCI DSS, also known as the Data Security Standard, is a framework that was developed to keep credit card owners' information safe.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=111)** The PCI DSS, also known as the [[Data Security]] Standard, is a framework that was developed to keep credit card owners' information safe.
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/overview-of-common-security-frameworks?u=76281980&t=120)** There are 12 main categories that ensure that credit card information is kept safe when making consumer purchases.
 >
@@ -403,17 +398,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[NIST]] (4), data (2), business (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (4), [[Cybersecurity]] (1), [[Data Security]] (1)
 > **Env Vars:** nist (4), csf (4), pci (3), dss (2)
 > **Definitions:** known as (2), is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### NIST security framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980)
+#### [NIST security framework](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=0)** - [Instructor] The National Institute of Standards and Technology has produced a cybersecurity framework called the NIST CSF.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=0)** - [Instructor] The National Institute of Standards and Technology has produced a [[Cybersecurity]] framework called the [[NIST]] CSF.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=7)** By aligning an organization against this framework, it allows for a full analysis of security gaps that the company may have.
 >
@@ -425,7 +419,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=38)** This isn't an in-depth course on the NIST CSF framework specifically so we're going to talk about each of these at a high level.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=45)** But if you're interested in learning more, I've provided a handout with a few helpful links along with some other courses here in the LinkedIn Learning library.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=45)** But if you're interested in learning more, I've provided a handout with a few helpful links along with some other courses here in the [[LinkedIn]] Learning library.
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=53)** The identify category is designed to help an organization develop an organizational understanding to manage cybersecurity risk to systems, people, assets, data, and capabilities.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=78)** This particular control ensures that an organization has a complete understanding of its digital assets.
 >
-> **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=83)** An example of this would be an organization having a completed and up-to-date Excel spreadsheet of each and every device the business has.
+> **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=83)** An example of this would be an organization having a completed and up-to-date [[Microsoft Excel|Excel]] spreadsheet of each and every device the business has.
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=91)** Without keeping an up-to-date list, a business is not able to ensure that its assets are being protected.
 >
@@ -443,7 +437,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=105)** The protect section of the CSF covers in detail how to protect the systems within an organization.
 >
-> **[1:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=111)** This can include security measures such as identity management and access control, awareness training, data security, information protection processes and procedures, and even maintenance.
+> **[1:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=111)** This can include security measures such as identity management and access control, awareness training, [[Data Security]], information protection processes and procedures, and even maintenance.
 >
 > **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=124)** To give one example, in section PR.IP-1, it states that all systems should be configured in accordance to a standard baseline configuration.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=214)** For example, section RS.RP-1 states that a response plan is executed during or after an incident.
 >
-> **[3:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=221)** An Incident Response Plan, or IRP, is something that should be in place proactively at every organization to ensure proper details of how an incident should be handled.
+> **[3:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=221)** An [[Incident Response]] Plan, or IRP, is something that should be in place proactively at every organization to ensure proper details of how an incident should be handled.
 >
 > **[3:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/nist-security-framework?u=76281980&t=232)** Not having an IRP in place can cost vital time, resources, and greater damage.
 >
@@ -511,15 +505,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[NIST]] (7), business (4), traffic (3), [[Cybersecurity]] (2)
+> **Frameworks & Libraries:** [[NIST]] (7), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Microsoft Excel|Excel]] (1), [[Data Security]] (1)
 > **Env Vars:** csf (8), nist (7), irp (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (2)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### PCI security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980)
+#### [PCI security frameworks](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -531,13 +524,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=18)** This council was formed from some of the best experts around the world.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=22)** They created what we know now as the Payment Card Industry Data Security Standards Framework, or PCI DSS.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=22)** They created what we know now as the Payment Card Industry [[Data Security]] Standards Framework, or PCI DSS.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=29)** Any business that is processing credit cards is held to PCI compliance against this framework.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=34)** This is to ensure that customer credit cards are protected.
 >
-> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=38)** At a high level, security controls include items like installing and maintaining network security controls, applying secure configurations to all systems and components, protecting stored account data, and many more.
+> **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=38)** At a high level, security controls include items like installing and maintaining [[Network Security]] controls, applying secure configurations to all systems and components, protecting stored account data, and many more.
 >
 > **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/pci-security-frameworks?u=76281980&t=52)** All of the compliance requirements are in the PCI DSS guidelines, which can be downloaded at the PCI Council's website.
 >
@@ -581,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (3), business (3), express (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (16), qsa (6), dss (2)
 > **Definitions:** known as (2), stands for (1), is a  (1), means that (1), is an  (1)
 > **Prerequisites:** required to (3)
@@ -592,14 +585,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to land your first security auditing position
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980)
+#### [How to land your first security auditing position](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=0)** - Security auditing can open a world of fulfilling career opportunities for both technical and non-technical professionals.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=8)** For those that are not of a technical nature, this can be a great pivot into cybersecurity.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=8)** For those that are not of a technical nature, this can be a great pivot into [[Cybersecurity]].
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=15)** And the good news is you don't have to be extremely technical to land your first position as a security auditor.
 >
@@ -625,7 +617,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=74)** Many businesses are compliance driven, so they tend to focus on the framework that they need to adhere to for compliance.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=81)** NIST frameworks have a huge place in the government sector like government contractors and working for government agencies.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=81)** [[NIST]] frameworks have a huge place in the government sector like government contractors and working for government agencies.
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=87)** If that interests you, taking a deep dive into the different NIST frameworks will give you a boost.
 >
@@ -651,7 +643,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=150)** The second thing to lend a job as a security auditor is to be discovered.
 >
-> **[2:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=155)** Recruiters and hiring managers are using LinkedIn every single day to find good candidates to fill roles in the security auditing space.
+> **[2:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=155)** Recruiters and hiring managers are using [[LinkedIn]] every single day to find good candidates to fill roles in the security auditing space.
 >
 > **[2:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-land-your-first-security-auditing-position?u=76281980&t=162)** Your LinkedIn profile really needs to reflect interest in the rule that you are seeking.
 >
@@ -679,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[LinkedIn]] (5), career (3), [[Cybersecurity]] (2), [[NIST]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Cybersecurity]] (2), [[NIST]] (2)
 > **CLI Commands:** find (4)
 > **Env Vars:** pci (2), nist (2)
 > **Analogies:** for example (2)
@@ -687,8 +679,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - security (1)
 
-#### How to level up in security auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980)
+#### [How to level up in security auditing](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=56)** Many frameworks speak the same language, but often in a different manner.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=61)** Once you understand a few of them, the rest will come easy.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=61)** Once you understand a few of them, the [[Representational State Transfer (REST)|rest]] will come easy.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=64)** The second factor in becoming a great security auditor, is to get technical.
 >
@@ -728,7 +719,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=93)** As one example, many frameworks talk about encryption.
 >
-> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=96)** If you were to take a deep dive on learning various encryption algorithms and techniques, you'll have a better understanding of the framework language.
+> **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=96)** If you were to take a deep dive on learning various encryption [[Algorithms]] and techniques, you'll have a better understanding of the framework language.
 >
 > **[1:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-level-up-in-security-auditing?u=76281980&t=104)** This will allow you to more effectively lead your clients with the right compliance strategy.
 >
@@ -742,7 +733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), career (2), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** pci (1)
 > **Cross-References:** we talked about (1)
@@ -753,8 +744,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be a successful team auditor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980)
+#### [Be a successful team auditor](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980&t=58)** So here's an example.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980&t=59)** Let's say during a security audit and engagement, you find yourself interviewing the client on various controls.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980&t=59)** Let's say during a security audit and engagement, you find yourself [[Interviewing]] the client on various controls.
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/be-a-successful-team-auditor?u=76281980&t=65)** You'll be asking security questions and advising on certain solutions that will help fill any security gaps that are found.
 >
@@ -814,19 +804,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), strengths (3), web (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - by (1)
 
-#### How to communicate effectively as a security auditor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980)
+#### [How to communicate effectively as a security auditor](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=0)** - Communication is by far the most important aspect of being a Security Auditor.
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=6)** You can be an expert in cybersecurity, but without being able to effectively communicate to your target audience, it can be hard to be successful.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=6)** You can be an expert in [[Cybersecurity]], but without being able to effectively communicate to your target audience, it can be hard to be successful.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=15)** One of the hardest jobs for a Security Consultant is to talk to the level of their audience.
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=34)** That's why it's so important to understand your audience.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=37)** For example, if you're talking to the web development team about security issues within their application, they'll certainly be more likely to understand a conversation about input sanitization, web application firewalls, or even secure coding.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=37)** For example, if you're talking to the [[Web Development]] team about security issues within their application, they'll certainly be more likely to understand a conversation about input sanitization, web application firewalls, or even [[Secure Coding]].
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/how-to-communicate-effectively-as-a-security-auditor?u=76281980&t=51)** But if you were to have a conversation with a stakeholder and talk to them about secure coding, you will most likely lose them in that conversation.
 >
@@ -882,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), business (5), [[Secure Coding]] (2), teams (2), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Secure Coding]] (2), [[Cybersecurity]] (1), [[Web Development]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Speakers:** - communication (1)
@@ -892,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security auditing leads to many opportunities
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980)
+#### [Security auditing leads to many opportunities](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980&t=55)** Having a deep understanding of security auditing can help you pivot into other sectors of security, such as offensive and defensive security.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980&t=64)** For example, learning the scanning and penetration testing techniques required within the PCI framework can enable you to move into the offensive security field like penetration testing.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980&t=64)** For example, learning the scanning and [[Penetration Testing]] techniques required within the PCI framework can enable you to move into the offensive security field like penetration testing.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/security-auditing-leads-to-many-opportunities?u=76281980&t=75)** Plus, the ability to communicate with the offensive security team about processes, requirements, and future goals around the requirements is even more valuable.
 >
@@ -931,15 +919,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), business (3), management (2), [[Penetration Testing]] (2), career (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is called (2)
 > **Env Vars:** pci (1)
 > **Speakers:** - a (1)
 
-#### Continuing on with security auditing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980)
+#### [Continuing on with security auditing](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -951,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980&t=13)** Take a look at the handouts I've provided you, as well as the notes you've written down about your own experiences throughout the course as a guide.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980&t=21)** If you're interested in diving deeper into any of the things we talked about here or other topics on cybersecurity, check out some of our other courses here in the LinkedIn Learning Library.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980&t=21)** If you're interested in diving deeper into any of the things we talked about here or other topics on [[Cybersecurity]], check out some of our other courses here in the [[LinkedIn]] Learning Library.
 >
 > **[0:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-security-auditor/continuing-on-with-security-auditing?u=76281980&t=33)** You're just at the beginning of an extremely rewarding career.
 >
@@ -961,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Cybersecurity]] (1), career (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Cybersecurity]] (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - congratulations (1)
 

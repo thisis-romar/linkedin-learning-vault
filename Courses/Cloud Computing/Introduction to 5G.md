@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop a solid understanding of 5G
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980)
+#### [Develop a solid understanding of 5G](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=0)** - [Instructor] Welcome to an exciting Primer on 5G.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=0)** - [Instructor] Welcome to an exciting Primer on [[5G]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=4)** The course is powered by 5G courses, top of the market in providing 5G courses globally.
 >
@@ -114,11 +113,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=93)** Well you don't really see, so I'm going to go now to the other side, and you see this queer antenna is a massive frequent five gear Hertz and the other one, the small ones, are the 28 gears.
 >
-> **[1:44](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=104)** That being front hall, into the 5G engineering room in the cloud center and as you can see, that is now not purpose made hardware anymore.
+> **[1:44](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=104)** That being front hall, into the 5G engineering room in the cloud center and as you can see, that is now not purpose made [[Hardware]] anymore.
 >
-> **[1:55](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=115)** It is actually off the shelf cloud computing equipment, in this case, provided by Dell.
+> **[1:55](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=115)** It is actually off the shelf [[Cloud Computing]] equipment, in this case, provided by Dell.
 >
-> **[2:02](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=122)** So we have a lot of opportunities here for 5G to become a very agile system in that we have decoupled hardware and software.
+> **[2:02](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=122)** So we have a lot of opportunities here for 5G to become a very [[Agile Development|agile]] system in that we have decoupled hardware and software.
 >
 > **[2:12](https://www.linkedin.com/learning/introduction-to-5g/develop-a-solid-understanding-of-5g?u=76281980&t=132)** You can get your hardware from anyone you want and you're implementing the software, whether you write that yourself, or you get it from in your leading vendors in the field.
 >
@@ -168,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (9), [[Hardware]] (3), cloud (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[5G]] (9), [[Hardware]] (3), [[Cloud Computing]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bbc (1)
 > **Definitions:** is a  (1)
@@ -179,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting the scene
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980)
+#### [Setting the scene](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +186,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980&t=2)** There are quite a few important items we need to walk through.
 >
-> **[0:05](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980&t=5)** The first one is on the key performance indicators, I want you to understand what 5G is expected to do in the future.
+> **[0:05](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980&t=5)** The first one is on the key performance indicators, I want you to understand what [[5G]] is expected to do in the future.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-5g/setting-the-scene?u=76281980&t=14)** We then talk about some technology enablers.
 >
@@ -207,12 +205,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[5G]] (5)
 > **Speakers:** - welcome (1)
 
-#### Key performance indicators
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980)
+#### [Key performance indicators](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=0)** - [Instructor] Now let's come to the key performance indicators, and I always say 5G is both very boring as well as very exciting.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=0)** - [Instructor] Now let's come to the key performance indicators, and I always say [[5G]] is both very boring as well as very exciting.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=9)** It is boring because it follows the trends we have observed over the last years as we move from 1G to 2G, 3G, and 4G.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=142)** So, we see that as a very, very strong technical use case, because of course we have more and more data hungry applications coming out.
 >
-> **[2:30](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=150)** But we also have an IoT application here, which is on the bottom-left corner, which we refer to as the Massive Machine Type Communications, where we have loads of IoT devices, low cost, low on battery life, covering huge areas.
+> **[2:30](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=150)** But we also have an [[IoT]] application here, which is on the bottom-left corner, which we refer to as the Massive Machine Type Communications, where we have loads of IoT devices, low cost, low on battery life, covering huge areas.
 >
 > **[2:46](https://www.linkedin.com/learning/introduction-to-5g/key-performance-indicators?u=76281980&t=166)** And then we have the more exciting one and the really difficult one to do from a tech point of view, it's the Ultra-Reliable and Low Latency Communications, or the URLLC, no idea who came up with this abbreviation, and that is really about mission-critical stuff.
 >
@@ -270,20 +267,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (10), data (4), [[IoT]] (2), game (1), application (1)
+> **Frameworks & Libraries:** [[5G]] (10), [[IoT]] (2)
 > **Env Vars:** ppp (1), urllc (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Analogies:** imagine (1), think of it like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical enablers
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980)
+#### [Technical enablers](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=0)** - [Instructor] Let's look at the spectrum.
 >
-> **[0:01](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=1)** And 5G offers a very rich and high plethora of spectrum bands, and roughly we have three bands which are new, and we call them the pioneering bands.
+> **[0:01](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=1)** And [[5G]] offers a very rich and high plethora of spectrum bands, and roughly we have three bands which are new, and we call them the pioneering bands.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=12)** There's one which is below one gigahertz, so this is typically around 700 megahertz, in the UK, that's the TV whitespace band.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=49)** And there's not too much spectrum available, so data rate is never too good.
 >
-> **[0:53](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=53)** But it's a great band to control things, all the real-time voice traffic can go in there, and some of the video traffic as well.
+> **[0:53](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=53)** But it's a great band to control things, all the [[Real-Time]] voice traffic can go in there, and some of the video traffic as well.
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=60)** And then, we have the 3.5 gigahertz range, and in each country, it's a little bit different, but you know, that's a good band and a very prime location, because most cellular systems today work on a band which is very close to that frequency, which means that all our planning exercises we have done, all the deployments we have done, we can reuse that for this frequency band.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=112)** There isn't too much blockage, you know, there is a relatively good link, and the designs have been done really well, so we're excited about having these millimeter wave bands where you have a lot of bandwidth so you can pump through tens of gigabits per second of data, downloading an entire Netflix movie within milliseconds.
 >
-> **[2:14](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=134)** So these are the three bands I want you to remember: Sub-gigahertz, typical cellular 3.5 gig, and the exciting new bands of millimeter wave 26 in Europe, and 28 in the United States, rest of the world.
+> **[2:14](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=134)** So these are the three bands I want you to remember: Sub-gigahertz, typical cellular 3.5 gig, and the exciting new bands of millimeter wave 26 in Europe, and 28 in the United States, [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[2:27](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=147)** So what type of key technologies out there, you know there are totally new ways of deploying your stuff in the field, and this is highlighted in red, here.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=254)** And that means that if you want to implement a new feature, you don't need to send your engineer to do the changes and change the box there doing your cabling, you do that with a mouse click from your coffee table, right?
 >
-> **[4:26](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=266)** And we are able to do that, because we decoupled hardware and software.
+> **[4:26](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=266)** And we are able to do that, because we decoupled [[Hardware]] and software.
 >
 > **[4:30](https://www.linkedin.com/learning/introduction-to-5g/technical-enablers?u=76281980&t=270)** And that is what the network function virtualization achieves.
 >
@@ -393,15 +389,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[5G]] (4), data (3), [[Virtualization]] (3), traffic (2)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[5G]] (4), [[Real-Time]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** vnf (4), mimo (2), ran (1), sdn (1)
 > **Definitions:** means that (2), is a  (2)
 > **Versions:** 3.5 (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standardization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980)
+#### [Standardization](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +404,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=1)** Why is softwareization important?
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=3)** Well hello, because 5G is not a single, homogeneous technology.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=3)** Well hello, because [[5G]] is not a single, homogeneous technology.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=9)** It is a whole set. A salad of technologies.
 >
@@ -529,7 +524,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=327)** Let's standardize that!
 >
-> **[5:29](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=329)** And the rest, as they say, is history.
+> **[5:29](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=329)** And the [[Representational State Transfer (REST)|rest]], as they say, is history.
 >
 > **[5:31](https://www.linkedin.com/learning/introduction-to-5g/standardization?u=76281980&t=331)** Was it the better system back then?
 >
@@ -573,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (8), cloud (1), game (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[5G]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** itu (6), tsg (4), iut (3), ran (2), ngmn (2)
 > **Definitions:** is a  (4), is an  (3), stands for (1)
 > **Speakers:** - [presentor (1), - now (1)
@@ -587,8 +582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reviewing 5G technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980)
+#### [Reviewing 5G technologies](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +592,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=7)** We're going to be talking about spectrum.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=9)** Well, yes, wireless is all about spectrum, so you need to understand at least the high-level understanding what all that spectrum is about in 5G.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=9)** Well, yes, wireless is all about spectrum, so you need to understand at least the high-level understanding what all that spectrum is about in [[5G]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-5g/reviewing-5g-technologies?u=76281980&t=19)** We then move on to novel, exciting connectivity technologies which are being used within the 5G ecosystem.
 >
@@ -624,12 +618,11 @@ created: 2026-05-02
 > **Env Vars:** sdn (1), nfv (1)
 > **Speakers:** - congratulations (1)
 
-#### 5G spectrum
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980)
+#### [5G spectrum](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=0)** - [Male Instructor] I would like us to start by recapping the different bands used in 5G and what are the trade-offs.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=0)** - [Male Instructor] I would like us to start by recapping the different bands used in [[5G]] and what are the trade-offs.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=7)** So just looking at this here, you can see we have two rough regions.
 >
@@ -639,7 +632,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=20)** Anything below six gigahertz is very congested.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=24)** It's prime spectrum because hardware's cheap, the actual deployment is quite cheap.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=24)** It's prime spectrum because [[Hardware]]'s cheap, the actual deployment is quite cheap.
 >
 > **[0:31](https://www.linkedin.com/learning/introduction-to-5g/5g-spectrum?u=76281980&t=31)** But the problem is it's very congested.
 >
@@ -691,7 +684,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (3), [[Hardware]] (1), application (1)
+> **Frameworks & Libraries:** [[5G]] (3), [[Hardware]] (1)
 > **Env Vars:** embb (1), iut (1), mmtc (1), url (1), llc (1)
 > **Versions:** 3.5 (2)
 > **CLI Commands:** find (1)
@@ -699,8 +692,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [male (1)
 
-#### New 5G technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980)
+#### [New 5G technologies](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -712,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980&t=37)** Then you have of course that problem that there's a huge blockage effect as you go up in frequencies.
 >
-> **[0:42](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980&t=42)** So, you know, certain radio frequencies stop being able to penetrate walls and windows and they get rather reflectant.
+> **[0:42](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980&t=42)** So, you know, certain radio frequencies stop being able to penetrate walls and [[Windows]] and they get rather reflectant.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-5g/new-5g-technologies?u=76281980&t=53)** Then we have the general atmospheric absorption which leads to the higher pathloss.
 >
@@ -780,15 +772,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Windows]] (1), [[Security]] (1), game (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Code Identifiers:** mmwave (10)
 > **Env Vars:** mimo (9)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
 > **Speakers:** - so (1)
 
-#### Unified Air Interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980)
+#### [Unified Air Interface](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +793,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=23)** We need to support different duplexing methodologies.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=27)** Well for that, ideally, we would like to have a single interface, a single set of parameters you could tweak to come up with that 5G setting and accommodate the different technologies.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=27)** Well for that, ideally, we would like to have a single interface, a single set of parameters you could tweak to come up with that [[5G]] setting and accommodate the different technologies.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=46)** And that's how we do it, so you look at the flexible radio frame design.
 >
@@ -842,7 +833,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=186)** One is enhanced mobile broadband, video streaming.
 >
-> **[3:10](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=190)** The IoT stuff and maybe a smart grid, ultra reliable low latency comms.
+> **[3:10](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=190)** The [[IoT]] stuff and maybe a smart grid, ultra reliable low latency comms.
 >
 > **[3:15](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=195)** So as you can see on the physical layer, we can adapt to a suitable numerology.
 >
@@ -870,13 +861,13 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=261)** Of course but the flexibility comes a lot of responsibility and comes a lot of headaches because it's to configure the system properly is very difficult.
 >
-> **[4:31](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=271)** So we will have probably artificial intelligence to help us, and be coming to grips with that.
+> **[4:31](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=271)** So we will have probably [[Artificial Intelligence (AI)|artificial intelligence]] to help us, and be coming to grips with that.
 >
 > **[4:36](https://www.linkedin.com/learning/introduction-to-5g/unified-air-interface?u=76281980&t=276)** But overall, I think it's a very exciting design approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (2), generic (1), [[IoT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[5G]] (2), [[IoT]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** arq (2), ofdm (1), mimo (1), urllc (1), tti (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is called (2), is a  (1)
@@ -885,8 +876,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Prerequisites:** configure (1)
 
-#### 5G access network
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980)
+#### [5G access network](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,7 +884,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=1)** The radio access network architectures, as we used to call it, we actually got rid of the R because we think the access network architecture is more general when just supporting a specific radio.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=16)** And you can see on the right-hand side on the bottom side some true 5G base stations.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=16)** And you can see on the right-hand side on the bottom side some true [[5G]] base stations.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=22)** We refer to them as gNB, okay?
 >
@@ -908,7 +898,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=67)** So if a base station is able to connect to a 5G core while they're still using a 4G interface, we refer to it as an NG-eNB and it is equally connected to my 5G base stations.
 >
-> **[1:22](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=82)** Let's zoom in into one of these NG, next generation, radio access network base stations, the gNBs.
+> **[1:22](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=82)** Let's [[Zoom]] in into one of these NG, next generation, radio access network base stations, the gNBs.
 >
 > **[1:30](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=90)** And you have different configurations.
 >
@@ -960,7 +950,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=256)** So we said, hey, why don't keep some of the functionalities in the antenna?
 >
-> **[4:22](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=262)** And so we are splitting now, let's say at lower physical air capabilities, assume we do the FFTs and maybe some of the coding, decoding, in the antenna and the rest goes by a front hauling into my central unit.
+> **[4:22](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=262)** And so we are splitting now, let's say at lower physical air capabilities, assume we do the FFTs and maybe some of the coding, decoding, in the antenna and the [[Representational State Transfer (REST)|rest]] goes by a front hauling into my central unit.
 >
 > **[4:38](https://www.linkedin.com/learning/introduction-to-5g/5g-access-network?u=76281980&t=278)** And then suddenly you see that my 157 gigabits per second have been diminished to something like 10 gigabits per second, a reduction of a factor of 10.
 >
@@ -974,14 +964,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (10), cloud (8), functional (2), data (2), node (1)
+> **Frameworks & Libraries:** [[5G]] (10), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** gnb (4), enb (4), gnbs (2)
 > **CLI Commands:** node (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### 5G Core and architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980)
+#### [5G Core and architecture](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,11 +986,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=21)** And then you had the data plane, where essentially everything happened what the users were doing on the computer.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=26)** Well, you know what, 5G is now at that point.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=26)** Well, you know what, [[5G]] is now at that point.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=30)** You see on the top, all the different functionalities and functions and control functions, which are needed to support anything the users want to do in the operator.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=40)** We have an application function, unified and data management, policy functions, network exposure functions, authentication functions, so it would authenticate the users, access and mobility management functions, when you take care that you get the right handovers to the right base stations, et cetera, et cetera.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=40)** We have an application function, unified and [[Data Management]], policy functions, network exposure functions, authentication functions, so it would authenticate the users, access and mobility management functions, when you take care that you get the right handovers to the right base stations, et cetera, et cetera.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=58)** And they're all connected on what you can see here on a data bus, right?
 >
@@ -1009,7 +998,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=79)** It's become a much lighter system and much easier to implement because you can imagine that each of these functions now, could be its own software routine and you can put it on its own virtual machine and you can do with it what you want.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=95)** And that allows us to go from a very hardware-centric approach to a more software-centric one.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=95)** And that allows us to go from a very [[Hardware]]-centric approach to a more software-centric one.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=100)** Look at on the left-hand side, this is how we used to be.
 >
@@ -1039,7 +1028,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=186)** Well it's very interesting to split because we want to support a huge amount of user cases.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=191)** Think about IOT.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=191)** Think about [[IoT]].
 >
 > **[3:13](https://www.linkedin.com/learning/introduction-to-5g/5g-core-and-architecture?u=76281980&t=193)** IOT requires quite a bit of control, but very little data.
 >
@@ -1149,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (16), data (9), cloud (9), management (6), [[IoT]] (4)
+> **Frameworks & Libraries:** [[5G]] (16), [[IoT]] (4), [[Hardware]] (3), [[Data Management]] (1)
 > **Env Vars:** iot (4), sdn (3), ran (2), gnb (2), mmtc (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
@@ -1162,8 +1151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### 5G use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980)
+#### [5G use cases](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,7 +1165,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980&t=12)** I promised you some really exciting stuff, and I will be talking about it.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980&t=17)** I want you to understand what can we do with that 5G technology which, if you think about it, will be the future public internet.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980&t=17)** I want you to understand what can we do with that [[5G]] technology which, if you think about it, will be the future public internet.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-5g/5g-use-cases?u=76281980&t=28)** Let's get it going and let's be amazed.
 >
@@ -1189,11 +1177,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (3), application (1), next (1)
+> **Frameworks & Libraries:** [[5G]] (3)
 > **Speakers:** - welcome (1)
 
-#### Deployment modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980)
+#### [Deployment modes](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1205,7 +1192,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=21)** And once you've made that bed, you essentially talk to and uplink and downlink to the very same bay station.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=28)** In this future 5G world, that will be very different, because me, as a user, I am now seeing loads of bay stations.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=28)** In this future [[5G]] world, that will be very different, because me, as a user, I am now seeing loads of bay stations.
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-5g/deployment-modes?u=76281980&t=34)** Remember we are increasing the density of the infrastructure.
 >
@@ -1253,12 +1240,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (2), data (1)
+> **Frameworks & Libraries:** [[5G]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - let (1)
 
-#### 5G applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980)
+#### [5G applications](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980&t=19)** He said, "We started to design 3G when the Internet "wasn't even truly around and we started to design 4G "when the smartphone wasn't invented yet."
 >
-> **[0:29](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980&t=29)** Well we interpolate that and you may ask yourself, we have started to do 5G but then when something was not around.
+> **[0:29](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980&t=29)** Well we interpolate that and you may ask yourself, we have started to do [[5G]] but then when something was not around.
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-5g/5g-applications?u=76281980&t=38)** I'll leave that for you to design, but just bearing that in mind that we may not want to get married to a very specific application today but rather be open for that.
 >
@@ -1284,17 +1270,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (3), application (2)
+> **Frameworks & Libraries:** [[5G]] (3)
 > **Env Vars:** ceo (1), ngmn (1), igu (1)
 > **Versions:** 38.913 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Some early 5G trials
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980)
+#### [Some early 5G trials](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=3)** which is some early 5G trials.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=3)** which is some early [[5G]] trials.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=5)** And I've been personally leading these, and I can tell you a lot about the methodology, the working methodology here.
 >
@@ -1308,7 +1293,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=60)** So we worked, for instance, with various theaters in London, and we worked with hospitals, with the transport industry, gaming, financial, sports, anything you want, and we did a very deep co-design.
 >
-> **[1:15](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=75)** So this was not about sitting with them and just having a one hour PowerPoint about 5G.
+> **[1:15](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=75)** So this was not about sitting with them and just having a one hour [[Microsoft PowerPoint|PowerPoint]] about 5G.
 >
 > **[1:22](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=82)** This is literally spending hours, days, weeks, years with them.
 >
@@ -1420,7 +1405,7 @@ created: 2026-05-02
 >
 > **[10:33](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=633)** - The idea is to create an eDJ experience.
 >
-> **[10:36](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=636)** Imagine a DJ Djing in Los Angeles, Imagine a DJ Djing in Los Angeles, and that person is then being transmitted in real-time, and that person is then being transmitted in real-time, to another club.
+> **[10:36](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=636)** Imagine a DJ Djing in Los Angeles, Imagine a DJ Djing in Los Angeles, and that person is then being transmitted in [[Real-Time]], and that person is then being transmitted in real-time, to another club.
 >
 > **[10:45](https://www.linkedin.com/learning/introduction-to-5g/some-early-5g-trials?u=76281980&t=645)** to another club.
 >
@@ -1508,7 +1493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (13), [[Real-Time]] (4), next (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[5G]] (13), [[Real-Time]] (4), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Analogies:** imagine (5), picture (2), for instance (1)
 > **Speakers:** - the (2), - [presenter] (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -1520,8 +1505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concluding remarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980)
+#### [Concluding remarks](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1535,9 +1519,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=15)** After that we designed the mobile internet.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=17)** We connected every single mobile phone going from 2G, 3G, 4G and now 5G.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=17)** We connected every single mobile phone going from 2G, 3G, 4G and now [[5G]].
 >
-> **[0:23](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=23)** And after that we developed you know the Things internet, or the Internet of Things as we call it, connecting all centers and actuators.
+> **[0:23](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=23)** And after that we developed you know the Things internet, or the [[IoT|Internet of Things]] as we call it, connecting all centers and actuators.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=30)** And you know four years back I asked, "What's next internet?
 >
@@ -1553,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=61)** And I thought, hey, why don't we combine, you know, our best robotic edge equipment designs with our best networks.
 >
-> **[1:09](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=69)** Put a little bit of artificial intelligence in there because it's a very hip topic at the moment.
+> **[1:09](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=69)** Put a little bit of [[Artificial Intelligence (AI)|artificial intelligence]] in there because it's a very hip topic at the moment.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-5g/concluding-remarks?u=76281980&t=73)** And design something which would allow us to virtualize medical skills.
 >
@@ -1585,7 +1569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[5G]] (3), next (3), [[Internet of Things (IoT)|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[5G]] (3), [[IoT|Internet of things]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - and (1)
 
 

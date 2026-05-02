@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of application dependency
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/the-role-of-application-dependency?u=76281980)
+#### [The role of application dependency](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/the-role-of-application-dependency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), application (2)
 > **CLI Commands:** make (3)
 > **Speakers:** - your (1)
 
@@ -105,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application migration overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980)
+#### [Application migration overview](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=52)** So if you have applications that are in development, being tested, you can set up that environment very, very quickly.
 >
-> **[1:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=61)** And rest assured, if you have a predefined image that you're rolling out, it has already the latest updates and patching.
+> **[1:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=61)** And [[Representational State Transfer (REST)|rest]] assured, if you have a predefined image that you're rolling out, it has already the latest updates and patching.
 >
 > **[1:10](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=70)** This is voluntary whether you want to have this or not, because some updates, some patching can create some problems, so you are in control of that.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=215)** So you don't have the peak infrastructure.
 >
-> **[3:37](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=217)** You don't have hardware maintenance.
+> **[3:37](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=217)** You don't have [[Hardware]] maintenance.
 >
 > **[3:39](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud?u=76281980&t=219)** You don't have to worry about who's maintaining everything.
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (14), [[Security]] (5), data (5), [[Hardware]] (3), application (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
@@ -236,8 +233,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Migrating applications to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980)
+#### [Migrating applications to the cloud](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -311,9 +307,9 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=172)** You see, the cloud service is a different environment.
 >
-> **[2:56](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=176)** You might have one application that you just use infrastructure as a service.
+> **[2:56](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=176)** You might have one application that you just use [[IaaS|infrastructure as a service]].
 >
-> **[3:02](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=182)** You might have another one that you use platform as a service.
+> **[3:02](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=182)** You might have another one that you use [[PaaS|platform as a service]].
 >
 > **[3:05](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/migrating-applications-to-the-cloud-19294470?u=76281980&t=185)** Yet another one you might want to move up for service as a service.
 >
@@ -353,13 +349,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), cloud (8), business (1), [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1)
+> **Frameworks & Libraries:** [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Application dependency mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980)
+#### [Application dependency mapping](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=122)** So that is a consideration.
 >
-> **[2:05](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=125)** Your large databases, the sheer amount of data is going to prevent you from, over the internet, sending that up or uploading it to your cloud service provider so they can load it onto their network.
+> **[2:05](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=125)** Your large [[Databases]], the sheer amount of data is going to prevent you from, over the internet, sending that up or uploading it to your cloud service provider so they can load it onto their network.
 >
 > **[2:21](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=141)** The good news is that they can send you this big box, and the big box has a bunch of hard drives on it.
 >
@@ -471,19 +466,19 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=352)** The levels of abstraction, let me give you an example of what I mean here.
 >
-> **[5:56](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=356)** SQL database.
+> **[5:56](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=356)** [[SQL]] database.
 >
-> **[5:57](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=357)** It might be a situation where, hey, you just take your images, you load 'em up to images or virtual machines in the cloud, and then you go from there.
+> **[5:57](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=357)** It might be a situation where, hey, you just take your images, you load 'em up to images or [[Virtual Machines]] in the cloud, and then you go from there.
 >
-> **[6:06](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=366)** That's infrastructure as a service.
+> **[6:06](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=366)** That's [[IaaS|infrastructure as a service]].
 >
-> **[6:08](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=368)** However, all of them offer a Mongo DB or an SQL or a documented NoSQL database that you don't have to worry about the infrastructure behind that.
+> **[6:08](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=368)** However, all of them offer a Mongo DB or an SQL or a documented [[NoSQL]] database that you don't have to worry about the infrastructure behind that.
 >
 > **[6:21](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=381)** You just deal with the APIs.
 >
 > **[6:23](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=383)** You just deal with the platform.
 >
-> **[6:24](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=384)** That's platform as a service.
+> **[6:24](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=384)** That's [[PaaS|platform as a service]].
 >
 > **[6:26](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-dependency-mapping?u=76281980&t=386)** And every service provider has its own tools and its own dependencies.
 >
@@ -495,7 +490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (21), application (15), database (8), [[Security]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (1), [[Virtual Machines]] (1), [[IaaS|Infrastructure as a service]] (1), [[NoSQL]] (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mongo (1)
@@ -503,8 +498,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considerations for cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980)
+#### [Considerations for cloud migration](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=164)** Another dependency that you might not have thought about.
 >
-> **[2:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=168)** Data integrity.
+> **[2:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=168)** [[Data Integrity]].
 >
 > **[2:50](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=170)** When you have an application, it operates with data.
 >
@@ -620,7 +614,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=306)** And unique dependencies.
 >
-> **[5:08](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=308)** You're going to have applications that just don't fit the mold, that just don't quite play right with your common databases, your common operating systems.
+> **[5:08](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=308)** You're going to have applications that just don't fit the mold, that just don't quite play right with your common [[Databases]], your common operating systems.
 >
 > **[5:20](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/considerations-for-cloud-migration?u=76281980&t=320)** So identifying a unique dependency, flagging that application of, "Hey, this one's a little bit different.
 >
@@ -642,14 +636,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), data (10), cloud (8), database (7), web (3)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sap (1), citrix (1)
 > **Definitions:** is a  (1), basically means (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detailing app dependencies for cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/detailing-app-dependencies-for-cloud-migration?u=76281980)
+#### [Detailing app dependencies for cloud migration](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/detailing-app-dependencies-for-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,7 +744,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (15), cloud (6), data (3), game (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
 > **Documentation:** the documentation (2)
@@ -765,8 +757,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using installed agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980)
+#### [Using installed agents](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980&t=39)** So, this component can take a look at internally what applications are doing within the server itself, and also take a look at where it is communicating to other servers that that application depends upon.
 >
-> **[0:55](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980&t=55)** It conducts real-time monitoring of incoming and outgoing traffic, and it collects detailed information about all the dependencies and all the services each application is using, by monitoring those applications because it sits on the server itself.
+> **[0:55](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980&t=55)** It conducts [[Real-Time]] monitoring of incoming and outgoing traffic, and it collects detailed information about all the dependencies and all the services each application is using, by monitoring those applications because it sits on the server itself.
 >
 > **[1:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-installed-agents?u=76281980&t=76)** With all of these, I want to tell you, well, why use this?
 >
@@ -834,14 +825,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Real-Time]] (2), traffic (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2)
 > **CLI Commands:** find (2)
 > **Prerequisites:** install (2)
 > **Analogies:** picture (1)
 > **Speakers:** - now (1)
 
-#### Using the sweep and pull method
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-sweep-and-pull-method?u=76281980)
+#### [Using the sweep and pull method](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-sweep-and-pull-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,14 +895,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), product (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using network monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980)
+#### [Using network monitoring](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,7 +926,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980&t=94)** Let's take a look at the pros and cons of using Network Monitoring.
 >
-> **[1:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980&t=100)** The benefits, real-time application performance information, meaning that you know in a pretty precise manner how your servers are communicating to each other and immediately know how that application is using its dependencies.
+> **[1:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980&t=100)** The benefits, [[Real-Time]] application performance information, meaning that you know in a pretty precise manner how your servers are communicating to each other and immediately know how that application is using its dependencies.
 >
 > **[2:00](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-network-monitoring?u=76281980&t=120)** And remember, one application can be dependent on another application, and that application is dependent on other applications, and then you have middleware and operating systems, and things like that.
 >
@@ -968,13 +956,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Real-Time]] (1), data (1), next (1), traffic (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Using intelligent traffic-based mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980)
+#### [Using intelligent traffic-based mapping](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,13 +1047,13 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980&t=320)** Well, a lot of that information you never even needed to know in the first place in order to map those dependencies in order to harmonize that with what the cloud service provider offers you.
 >
-> **[5:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980&t=336)** So, intelligent mapping uses artificial intelligence, it uses its database, it uses its history of the other people that migrated that application to the cloud, and you get the benefit of all of that.
+> **[5:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980&t=336)** So, intelligent mapping uses [[Artificial Intelligence (AI)|artificial intelligence]], it uses its database, it uses its history of the other people that migrated that application to the cloud, and you get the benefit of all of that.
 >
 > **[5:51](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-intelligent-traffic-based-mapping?u=76281980&t=351)** So, that's a look at intelligent-based mapping for application dependencies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), cloud (9), database (6), traffic (4), next (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1076,8 +1063,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application options for cloud migrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980)
+#### [Application options for cloud migrations](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1089,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=96)** You just image that server, send it up to a cloud and install it on a cloud vm.
 >
-> **[1:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=102)** This will be infrastructure as a service.
+> **[1:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=102)** This will be [[IaaS|infrastructure as a service]].
 >
 > **[1:46](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=106)** Next, we take a look at re-platform the application, and this would be that you can modernize the app to work with the standard cloud platform.
 >
@@ -1117,7 +1103,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=164)** Use most of your existing code and adjust it, just portions of it, to work with the cloud as a service provider.
 >
-> **[2:54](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=174)** Let me give you an example, the SQL database.
+> **[2:54](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=174)** Let me give you an example, the [[SQL]] database.
 >
 > **[2:57](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=177)** You might have an SQL database that you rehost, right?
 >
@@ -1125,7 +1111,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=192)** Well, that is still you taking care of that SQL database.
 >
-> **[3:17](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=197)** How about you decide that I'm going to use, let's say in Microsoft Azure, a thing called Azure SQL, and that is an SQL.
+> **[3:17](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=197)** How about you decide that I'm going to use, let's say in [[Microsoft Azure]], a thing called [[Microsoft Azure|Azure]] SQL, and that is an SQL.
 >
 > **[3:28](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=208)** And all you do is take care of the database.
 >
@@ -1137,7 +1123,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=241)** You just worry about using that SQL database.
 >
-> **[4:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=244)** And this would be a platform as a service.
+> **[4:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=244)** And this would be a [[PaaS|platform as a service]].
 >
 > **[4:08](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=248)** And then that leads us to something that your application is going to be difficult to move to the cloud.
 >
@@ -1163,7 +1149,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=342)** You retire the old one, you find a comparable application that is offered by your cloud service provider and you just use that application.
 >
-> **[5:54](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=354)** You somewhat transform the use of that old application, probably a legacy application, and you just use some kind of software as a service up in the cloud that you just have to worry about setting that up.
+> **[5:54](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=354)** You somewhat transform the use of that old application, probably a legacy application, and you just use some kind of [[SaaS|software as a service]] up in the cloud that you just have to worry about setting that up.
 >
 > **[6:13](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/application-options-for-cloud-migrations?u=76281980&t=373)** You don't have to worry about maintaining it, you just use their software and use that as a service.
 >
@@ -1195,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (29), application (17), [[SQL]] (10), database (6), [[IaaS|Infrastructure as a service]] (2)
+> **Frameworks & Libraries:** [[SQL]] (10), [[IaaS|Infrastructure as a service]] (2), [[PaaS|Platform as a service]] (2), [[Microsoft Azure]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (10)
 > **Prerequisites:** install (2), set up (2)
 > **CLI Commands:** find (2)
@@ -1203,8 +1189,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - we (1)
 
-#### Establishing a versioning scheme
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980)
+#### [Establishing a versioning scheme](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1226,7 +1211,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=83)** This is a good time to talk about cloud types, because if that scripting language that you're using or that middleware is not available from your chosen cloud provider, perhaps you go to another one, or perhaps you look into a different type environment.
 >
-> **[1:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=102)** So let's start with this one, hybrid cloud.
+> **[1:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=102)** So let's start with this one, [[Hybrid Cloud]].
 >
 > **[1:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=105)** This is where you have an on-premises entity.
 >
@@ -1248,7 +1233,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=153)** This by far, is the most used.
 >
-> **[2:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=156)** You only have one vendor, and that's going to be Google, or GCP, AWS, which is Amazon, or you're going to have Microsoft Azure.
+> **[2:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=156)** You only have one vendor, and that's going to be [[Google]], or GCP, AWS, which is Amazon, or you're going to have [[Microsoft Azure]].
 >
 > **[2:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=165)** All of these service providers provide you an opportunity to have some of the information on your own cloud, and some of the information on their cloud.
 >
@@ -1258,9 +1243,9 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=198)** The difference between hybrid and having this combination of private cloud and public cloud is the interface, and the integration between those two data centers.
 >
-> **[3:31](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=211)** Lastly, you might be in a situation like this, that, "Hey, I like this one particular benefit that the Google Cloud is going to provide for me.
+> **[3:31](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=211)** Lastly, you might be in a situation like this, that, "Hey, I like this one particular benefit that the [[Google Cloud Platform (GCP)|Google Cloud]] is going to provide for me.
 >
-> **[3:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=220)** However, look what Microsoft Azure operates in this online active directory," and you want to combine the two.
+> **[3:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=220)** However, look what Microsoft Azure operates in this online [[Active Directory]]," and you want to combine the two.
 >
 > **[3:51](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/establishing-a-versioning-scheme?u=76281980&t=231)** Well, you can do that, and you leverage different features from that cloud provider to another cloud provider.
 >
@@ -1272,15 +1257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), [[Scripting]] (7), data (4), [[Hybrid Cloud]] (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (2), [[Microsoft Azure]] (2), [[Google]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Active Directory]] (1)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** gcp (1), aws (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting middleware configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980)
+#### [Documenting middleware configurations](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,13 +1278,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=15)** And I want to emphasize what's important to document for each one of these processes, otherwise defined as middleware.
 >
-> **[0:23](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=23)** Let's start with the most important one, and that's the databases.
+> **[0:23](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=23)** Let's start with the most important one, and that's the [[Databases]].
 >
 > **[0:28](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=28)** The thing is, your database might not be available from your chosen cloud service provider.
 >
-> **[0:35](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=35)** The biggest thing to know, is it SQL, NoSQL, or is it document-based?
+> **[0:35](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=35)** The biggest thing to know, is it [[SQL]], [[NoSQL]], or is it document-based?
 >
-> **[0:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=40)** In SQL, We have SQL Server, Oracle, PostgreSQL, MySQL, amongst some other things.
+> **[0:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=40)** In SQL, We have [[Microsoft SQL Server|SQL Server]], Oracle, [[PostgreSQL]], [[MySQL]], amongst some other things.
 >
 > **[0:47](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=47)** Now, SQL is going to work quite well for your application once you move it up to the cloud.
 >
@@ -1308,7 +1292,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=61)** So it's important to document what version of SQL, what type of SQL, so you can make the decision eventually of how are you going to get that database up to a cloud server.
 >
-> **[1:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=76)** For the NoSQL are document-based MongoDB all over the place and this is the one that's going to be the most available for your cloud service provider.
+> **[1:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=76)** For the NoSQL are document-based [[MongoDB]] all over the place and this is the one that's going to be the most available for your cloud service provider.
 >
 > **[1:25](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=85)** And there's some other ones included here as well.
 >
@@ -1324,7 +1308,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=124)** Applications with mass traffic are going to have this.
 >
-> **[2:07](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=127)** Some of the common caching software is Redis, AppFabric, PrimoCache, Memcached.
+> **[2:07](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=127)** Some of the common caching software is [[Redis]], AppFabric, PrimoCache, Memcached.
 >
 > **[2:14](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=134)** You need to know what caching software that application uses if it uses one.
 >
@@ -1338,7 +1322,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=165)** This allows the apps to talk to each other in a very secure, durable way.
 >
-> **[2:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=172)** Some of the ones that are common is Microsoft Message Queuing, RabbitMQ, amongst some others.
+> **[2:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=172)** Some of the ones that are common is [[Microsoft]] Message Queuing, RabbitMQ, amongst some others.
 >
 > **[2:59](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=179)** So documenting what queuing software you use for your messaging is going to be important because again, you have to document that yourself because that might not be part of your application mapping software result.
 >
@@ -1350,7 +1334,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=218)** Here's the good news.
 >
-> **[3:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=220)** All of the major ones that you're going to use, XML-RPC, UDDI, SOAP, REST, they're all available on your cloud service provider.
+> **[3:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=220)** All of the major ones that you're going to use, XML-RPC, UDDI, SOAP, [[Representational State Transfer (REST)|REST]], they're all available on your cloud service provider.
 >
 > **[3:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-middleware-configurations?u=76281980&t=232)** This is going to be the most robust offering for middleware that you're going to be provided from your cloud service provider.
 >
@@ -1360,14 +1344,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), application (8), [[SQL]] (6), web (3), database (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[NoSQL]] (2), [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (7), xml (1), rpc (1), uddi (1), soap (1)
 > **CLI Commands:** make (3), mysql (1)
 > **Definitions:** defined as (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documenting operating system dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980)
+#### [Documenting operating system dependencies](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1421,13 +1404,13 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=190)** And then finally, as mentioned, your prebuilt images will only have the latest version of the operating system.
 >
-> **[3:18](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=198)** If you're a Windows person, you have to go 2012v2, for almost all the services from your cloud provider, and that is through the big three cloud providers.
+> **[3:18](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=198)** If you're a [[Windows]] person, you have to go 2012v2, for almost all the services from your cloud provider, and that is through the big three cloud providers.
 >
 > **[3:30](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=210)** If you go anywhere before this, it's going to work in certain scenarios, but you're just asking for trouble.
 >
 > **[3:39](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=219)** So when you standardize your Windows operating system, my suggestion is you don't go with the latest one, and in this case, it's 2021, you might go with 2019, in order to have that standardized operating system that most of your applications are going to work for.
 >
-> **[3:58](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=238)** If you're Linux, which a lot of your applications are going to use, the version that is required, that you should standardize to, is going to depend upon the distribution of that Linux.
+> **[3:58](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=238)** If you're [[Linux]], which a lot of your applications are going to use, the version that is required, that you should standardize to, is going to depend upon the distribution of that Linux.
 >
 > **[4:11](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/documenting-operating-system-dependencies?u=76281980&t=251)** And not all distributions are going to be available from your cloud service provider.
 >
@@ -1437,7 +1420,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), application (7), [[Windows]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
@@ -1447,14 +1430,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the migration process in Google Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980)
+#### [Using the migration process in Google Cloud](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=0)** - We're ready now to take a look at the actual cloud service providers themselves.
 >
-> **[0:06](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=6)** I'm going to cover the big three, which are GCP, the Google Cloud Platform, AWS, Amazon Web Services, and Microsoft Azure.
+> **[0:06](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=6)** I'm going to cover the big three, which are GCP, the [[Google Cloud Platform (GCP)|Google Cloud Platform]], AWS, [[Amazon Web Services (AWS)|Amazon Web Services]], and [[Microsoft Azure]].
 >
 > **[0:17](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=17)** I'm going to show you generally what services each platform offers and the process they use to migrate your applications to their cloud service.
 >
@@ -1462,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=34)** Each will tell you what applications you have, what those applications depend on, and most importantly, how to get your applications onto their cloud servers.
 >
-> **[0:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=48)** We're going to start with the Google Cloud, or commonly known as the Google Cloud Platform.
+> **[0:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=48)** We're going to start with the [[Google Cloud Platform (GCP)|Google Cloud]], or commonly known as the Google Cloud Platform.
 >
 > **[0:53](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=53)** I want to tell you what the migration process is, and I think this is going to help you when you're assessing what application dependencies you have, because that, if you decide to use Google Cloud, is going to help you with your migration and make it much easier by leveraging their tools.
 >
@@ -1490,7 +1472,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=144)** Moving on, discover your assets.
 >
-> **[2:28](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=148)** The Google Migration Center allows you to create an inventory of your assets by automatically scanning your on-premises environment.
+> **[2:28](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=148)** The [[Google]] Migration Center allows you to create an inventory of your assets by automatically scanning your on-premises environment.
 >
 > **[2:39](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-migration-process-in-google-cloud?u=76281980&t=159)** If you already have used a tool, then you can manually upload your infrastructure data to the Migration Center.
 >
@@ -1540,19 +1522,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), [[Google Cloud Platform (GCP)|Google cloud]] (5), application (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (4), [[Google]] (4)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google Cloud Platform (GCP)|Google cloud platform]] (4), [[Google]] (4), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure]] (1)
 > **CLI Commands:** aws (1), make (1), find (1)
 > **Env Vars:** gcp (1), aws (1)
 > **Definitions:** known as (1)
 > **Analogies:** picture (1)
 > **Speakers:** - we (1)
 
-#### Using the Google Cloud Migrate tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980)
+#### [Using the Google Cloud Migrate tool](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=1)** - [Instructor] We're going to start off here at the landing page for Google Cloud and this is what it's going to look like for you.
+> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=1)** - [Instructor] We're going to start off here at the landing page for [[Google Cloud Platform (GCP)|Google Cloud]] and this is what it's going to look like for you.
 >
 > **[0:07](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=7)** Once you log in and have your account, you can go to the console that you see right here.
 >
@@ -1560,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=22)** Let's go up to the notifications and I have three of them.
 >
-> **[0:26](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=26)** I have created a project called LinkedIn Migrate 0.1.
+> **[0:26](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=26)** I have created a project called [[LinkedIn]] Migrate 0.1.
 >
 > **[0:30](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=30)** A project is simply a workspace in which gives you context of the different activities and tasks that you have performed.
 >
@@ -1648,7 +1629,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=282)** You have online mode, offline mode.
 >
-> **[4:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=285)** Online mode means that you are real time sending your information up to Google.
+> **[4:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=285)** Online mode means that you are real time sending your information up to [[Google]].
 >
 > **[4:52](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=292)** Offline means that, okay, I'm going to collect all the information here and then after that I'm going to upload that information to the Google Cloud service.
 >
@@ -1678,11 +1659,11 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=376)** And then down here, if you can see it, it says, Shift, and that is for a lift and shift, Containerize and give you the different recommendations that they have for moving your assets up to the Google Cloud.
 >
-> **[6:31](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=391)** So, that should be enough to get you started if you're using the Google Cloud platform to find out what assets you have and their dependencies.
+> **[6:31](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-google-cloud-migrate-tool?u=76281980&t=391)** So, that should be enough to get you started if you're using the [[Google Cloud Platform (GCP)|Google Cloud platform]] to find out what assets you have and their dependencies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), cloud (5), application (4), [[Google]] (4), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (5), [[Google]] (4), [[LinkedIn]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1)
 > **UI Navigation:** go to (4), click on (3), scroll down (2)
 > **Definitions:** means that (3), is an  (2)
 > **CLI Commands:** find (3)
@@ -1691,14 +1672,13 @@ created: 2026-05-02
 > **Versions:** 0.1 (1)
 > **Cross-References:** go back to (1)
 
-#### Working in Microsoft Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980)
+#### [Working in Microsoft Azure](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=1)** - [Instructor] I want to show you the migration process for Microsoft Azure.
+> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=1)** - [Instructor] I want to show you the migration process for [[Microsoft Azure]].
 >
-> **[0:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=4)** Microsoft Azure, of course, being Microsoft's solution for cloud computing.
+> **[0:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=4)** Microsoft Azure, of course, being [[Microsoft]]'s solution for [[Cloud Computing]].
 >
 > **[0:10](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=10)** The first step is discover.
 >
@@ -1730,7 +1710,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=106)** And remember, there's different strategies.
 >
-> **[1:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=108)** There's the rehost, which is basically a lift and shift, and then you have the refactor, which means that you are putting your assets up to Microsoft and using them as more of a platform as a service.
+> **[1:48](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=108)** There's the rehost, which is basically a lift and shift, and then you have the refactor, which means that you are putting your assets up to Microsoft and using them as more of a [[PaaS|platform as a service]].
 >
 > **[2:04](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=124)** Well, that business case is going to be developed from Microsoft to tell you what the best path forward is for that particular application.
 >
@@ -1740,19 +1720,18 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=152)** And then finally, we have Assess, and it simply is clicking on a button here, and you can look for the recommendations for the different strategies for the applications once they are moved to the cloud.
 >
-> **[2:47](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=167)** So without further ado, let's go in to Microsoft Azure and take a look at Azure Migrate.
+> **[2:47](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-microsoft-azure?u=76281980&t=167)** So without further ado, let's go in to Microsoft Azure and take a look at [[Microsoft Azure|Azure]] Migrate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), application (5), [[Microsoft Azure]] (4), cloud (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Azure]] (4), [[Cloud Computing]] (1), [[PaaS|Platform as a service]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is an  (1), is a  (1), means that (1)
 > **Env Vars:** csv (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Azure Migrate tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980)
+#### [Using the Azure Migrate tool](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,7 +1747,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=14)** You can come right up here and you can say migrate.
 >
-> **[0:18](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=18)** And under migrate, there's the Azure Migrate and the different migration strategies that you can have with Microsoft Azure.
+> **[0:18](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=18)** And under migrate, there's the [[Microsoft Azure|Azure]] Migrate and the different migration strategies that you can have with [[Microsoft Azure]].
 >
 > **[0:28](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=28)** I'm going to click on migrate right here, and this takes you to the landing page for Azure Migrate.
 >
@@ -1776,9 +1755,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=41)** I'm going to scroll down a bit to show you some things.
 >
-> **[0:44](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=44)** On the left hand side, right here you can see servers, databases, and web apps.
+> **[0:44](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=44)** On the left hand side, right here you can see servers, [[Databases]], and web apps.
 >
-> **[0:50](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=50)** This is the main discovery tool from Microsoft Migrate.
+> **[0:50](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=50)** This is the main discovery tool from [[Microsoft]] Migrate.
 >
 > **[0:54](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=54)** Now these discovery tools can go down, connect to your network and discover what's on your network.
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=218)** And this is a screenshot from [microsoft.com](https://microsoft.com) that kind of tells you how you're supposed to go about this.
 >
-> **[3:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=225)** And notice the discovered entities, the servers, SQL instances, the user databases, and gives you a whole range of information about what you actually have on your network.
+> **[3:45](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=225)** And notice the discovered entities, the servers, [[SQL]] instances, the user databases, and gives you a whole range of information about what you actually have on your network.
 >
 > **[3:58](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-azure-migrate-tool?u=76281980&t=238)** And then simply, right down here, dependency analysis, and the assessments that are available right there.
 >
@@ -1830,7 +1809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (11), [[Microsoft]] (6), database (5), [[Microsoft Azure]] (4), web (4)
+> **Frameworks & Libraries:** [[Databases]] (11), [[Microsoft]] (6), [[Microsoft Azure]] (4), [[Microsoft Azure|Azure]] (2), [[SQL]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **Env Vars:** dma (1), sql (1)
@@ -1839,12 +1818,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working in Amazon Web Services (AWS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-amazon-web-services-aws?u=76281980)
+#### [Working in Amazon Web Services (AWS)](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-amazon-web-services-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-amazon-web-services-aws?u=76281980&t=1)** - [Instructor] The migration process for Amazon Web Services.
+> **[0:01](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-amazon-web-services-aws?u=76281980&t=1)** - [Instructor] The migration process for [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:05](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/working-in-amazon-web-services-aws?u=76281980&t=5)** It starts with an agent.
 >
@@ -1908,7 +1886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), data (3), application (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (8), make (3), find (1)
 > **Env Vars:** aws (8)
 > **Prerequisites:** install (6)
@@ -1916,8 +1894,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the AWS Server Migration tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980)
+#### [Using the AWS Server Migration tool](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,11 +1952,11 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=194)** It's going to say, "Well, what kind?"
 >
-> **[3:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=196)** You have Windows and Linux, you have Windows, the Graphical User Interface, and then you have the client, the Linux, and then the Linux client down here.
+> **[3:16](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=196)** You have [[Windows]] and [[Linux]], you have Windows, the Graphical User Interface, and then you have the client, the Linux, and then the Linux client down here.
 >
 > **[3:25](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=205)** And if you want to download it, you just click it and it gives you the information about how you install that on your Windows servers.
 >
-> **[3:35](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=215)** And then after that, here it is, the Microsoft Evaluation Collector.
+> **[3:35](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=215)** And then after that, here it is, the [[Microsoft]] Evaluation Collector.
 >
 > **[3:40](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=220)** This after you have your information is going to come back and tell you, "Well, this application that you have is best suited for this scenario or service from AWS."
 >
@@ -1995,11 +1972,11 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=260)** And this is an example of an application that they have, what is started, what is in process, and what is completed as far as the applications, and migrating those up to AWS.
 >
-> **[4:34](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=274)** So that is a general overview and enough information that you need in order to get going on AWS to tell you your applications and those application dependencies in order to move up to Amazon Web Services.
+> **[4:34](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/using-the-aws-server-migration-tool?u=76281980&t=274)** So that is a general overview and enough information that you need in order to get going on AWS to tell you your applications and those application dependencies in order to move up to [[Amazon Web Services (AWS)|Amazon Web Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), application (7), data (3), [[Windows]] (3), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Linux]] (3), [[Microsoft]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** aws (10), make (2), find (1)
 > **Env Vars:** aws (10)
 > **UI Navigation:** click on (3), go to (2)
@@ -2013,8 +1990,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in cloud migration
-> [LinkedIn Learning](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980)
+#### [Next steps in cloud migration](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2030,13 +2006,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980&t=34)** And I would love to hear from you.
 >
-> **[0:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980&t=36)** Please connect with me on LinkedIn.
+> **[0:36](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980&t=36)** Please connect with me on [[LinkedIn]].
 >
 > **[0:39](https://www.linkedin.com/learning/dependency-mapping-for-cloud-migration/next-steps-in-cloud-migration?u=76281980&t=39)** Thank you for watching, and good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - congratulations (1)

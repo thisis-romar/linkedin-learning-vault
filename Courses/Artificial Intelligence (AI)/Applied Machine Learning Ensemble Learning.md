@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ensemble learning: Boost your models' performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/ensemble-learning-boost-your-models-performance?u=76281980)
+#### [Ensemble learning: Boost your models' performance](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/ensemble-learning-boost-your-models-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,17 +103,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1), power (1)
 > **Speakers:** - have (1)
 
-#### How to use Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980)
+#### [How to use Codespaces](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=0)** - [Instructor] One of the cool features of GitHub is that it provides Codespaces.
+> **[0:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=0)** - [Instructor] One of the cool features of [[GitHub]] is that it provides [[Codespaces]].
 >
-> **[0:05](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=5)** So if you're not familiar with using Python and friends to install the packages to run this course, no need to worry because Codespaces has you covered.
+> **[0:05](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=5)** So if you're not familiar with using [[Python (Programming Language)|Python]] and friends to install the packages to run this course, no need to worry because Codespaces has you covered.
 >
 > **[0:15](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=15)** It's real easy to use.
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=37)** Here's where the fun stuff happens.
 >
-> **[0:39](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=39)** Behind the scenes, it's provisioning a Linux environment, and I've got it set up so it installs Python and the packages you need for this course.
+> **[0:39](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=39)** Behind the scenes, it's provisioning a [[Linux]] environment, and I've got it set up so it installs Python and the packages you need for this course.
 >
 > **[0:47](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/how-to-use-codespaces?u=76281980&t=47)** In fact, all you need to do is wait for this to set up.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), hit (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), [[Linux]] (1)
 > **Prerequisites:** set up (4), install (2), you'll need (1)
 > **UI Navigation:** click on (5), navigate to (1)
 > **CLI Commands:** python (5)
@@ -214,8 +211,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Definition of ensemble learning and the problem of overfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980)
+#### [Definition of ensemble learning and the problem of overfitting](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980&t=52)** If each juror is slightly more likely than random, to make the right decision, you should add them to the jury.
 >
-> **[0:59](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980&t=59)** Adding more juries will increase the probability of the group reaching the correct verdict.
+> **[0:59](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980&t=59)** Adding more juries will increase the [[Probability]] of the group reaching the correct verdict.
 >
 > **[1:05](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/definition-of-ensemble-learning-and-the-problem-of-overfitting?u=76281980&t=65)** So this same logic applies to ensembles.
 >
@@ -335,15 +331,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), data (2), strengths (2), power (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Analogies:** it's like (2), kind of like (2), just like (1), similar to (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-world relevance
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/real-world-relevance?u=76281980)
+#### [Real-world relevance](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/real-world-relevance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,14 +408,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), strengths (1), next (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [speaker] (1)
 
-#### Types of ensembles
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980)
+#### [Types of ensembles](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980&t=60)** A great example of bagging is a random forest.
 >
-> **[1:03](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980&t=63)** You have many decision trees that are trained on different subsets of the data and their outputs are averaged.
+> **[1:03](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980&t=63)** You have many [[Decision Trees]] that are trained on different subsets of the data and their outputs are averaged.
 >
 > **[1:09](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/types-of-ensembles?u=76281980&t=69)** Random forest is super popular because it's easy to implement, robust, and handles noisy data.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), hit (2), next (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -524,8 +517,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concept of bagging
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980)
+#### [Concept of bagging](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -557,7 +549,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=96)** And what the Random Forest algorithm does, again, it splits the dataset into multiple subsets, and then we're going to train a decision tree on each subset.
 >
-> **[1:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=106)** Now, these decision trees should be a little bit different.
+> **[1:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=106)** Now, these [[Decision Trees]] should be a little bit different.
 >
 > **[1:50](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=110)** And then at the end we'll combine their predictions into a final prediction.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=140)** I've already used it here, but I'm just showing you this because I think it's very useful for trying things out.
 >
-> **[2:24](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=144)** Like you can draw a little dataset here, and then you can save it as pandas.
+> **[2:24](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=144)** Like you can draw a little dataset here, and then you can save it as [[Pandas (Software)|pandas]].
 >
 > **[2:29](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=149)** So I've done that here, and I'm going to demonstrate this notion of bagging doing that.
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=353)** Then we're going to make a Random Forest with that number of trees.
 >
-> **[5:58](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=358)** The rest of this code is very similar to what we just did.
+> **[5:58](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=358)** The [[Representational State Transfer (REST)|rest]] of this code is very similar to what we just did.
 >
 > **[6:01](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-bagging?u=76281980&t=361)** So let's look at what's going on here.
 >
@@ -691,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Pandas (Software)|Pandas]] (2), [[Decision Trees]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Decision Trees]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** subplot_mosaic (1), n_tree (1), max_samples (1)
 > **Analogies:** for example (2), similar to (1)
@@ -699,8 +691,7 @@ created: 2026-05-02
 > **Definitions:** short for (1), is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Random forest example
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980)
+#### [Random forest example](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=63)** Finally, down here I'm going to use set config from sklearn.
 >
-> **[1:06](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=66)** And by default, scikit-learn will output numpy arrays, and I prefer to work in pandas, so this is just going to let us work in pandas.
+> **[1:06](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=66)** And by default, scikit-learn will output numpy arrays, and I prefer to work in [[Pandas (Software)|pandas]], so this is just going to let us work in pandas.
 >
 > **[1:16](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=76)** It's going to give us pandas output.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=140)** I'll show how to deal with those in a moment here.
 >
-> **[2:23](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=143)** Another thing you might want to do is just look at the summary statistics here.
+> **[2:23](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=143)** Another thing you might want to do is just look at the summary [[Statistics]] here.
 >
 > **[2:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=147)** So I'm going to use describe from pandas to do that.
 >
@@ -774,7 +765,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=202)** I'm going to make a pipeline to process some of that.
 >
-> **[3:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=207)** If you're not familiar with pipelines, I would encourage you to check out my applied machine learning feature engineering course.
+> **[3:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=207)** If you're not familiar with pipelines, I would encourage you to check out my [[Applied Machine Learning]] [[Feature Engineering]] course.
 >
 > **[3:33](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=213)** It goes through all the details of making these pipelines.
 >
@@ -786,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=227)** One hot encoder is a mechanism for converting categorical values into numeric values.
 >
-> **[3:55](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=235)** Just be aware that many machine learning algorithms cannot deal with categorical values directly so we need some mechanism to convert those into numbers and one hot encoding is a common way of doing that.
+> **[3:55](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=235)** Just be aware that many machine learning [[Algorithms]] cannot deal with categorical values directly so we need some mechanism to convert those into numbers and one hot encoding is a common way of doing that.
 >
 > **[4:08](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/random-forest-example?u=76281980&t=248)** One hot encoding will take each of the unique values from a category and make a new column for each of the unique values, inserting a one or zero for whether that category exists for a row.
 >
@@ -888,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (9), [[Statistics]] (2), [[Feature Engineering]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (9), [[Statistics]] (2), [[Feature Engineering]] (2), [[Algorithms]] (2), [[Applied Machine Learning]] (1)
 > **CLI Commands:** make (10), find (2)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (4)
@@ -897,8 +888,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Prerequisites:** you'll need (1)
 
-#### Parameter tuning for Random Forest
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/parameter-tuning-for-random-forest?u=76281980)
+#### [Parameter tuning for Random Forest](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/parameter-tuning-for-random-forest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +998,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (2), node (1)
 > **CLI Commands:** make (2), node (1)
 > **Warnings:** note that (2), be aware (1)
 > **Tools:** notion (2)
@@ -1017,8 +1006,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Tune Random Forest parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-random-forest-parameters?u=76281980)
+#### [Challenge: Tune Random Forest parameters](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-random-forest-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,8 +1021,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Tune Random Forest parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-random-forest-parameters?u=76281980)
+#### [Solution: Tune Random Forest parameters](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-random-forest-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1119,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (2)
 > **CLI Commands:** find (2), make (1)
 > **Warnings:** be aware (2), note that (1)
 > **Code Identifiers:** n_estimators (1)
@@ -1146,14 +1132,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concept of boosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980)
+#### [Concept of boosting](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980&t=0)** - [Instructor] In this section, we're going to explore another kind of ensemble called boosting.
 >
-> **[0:05](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980&t=5)** And these are super powerful algorithms.
+> **[0:05](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980&t=5)** And these are super powerful [[Algorithms]].
 >
 > **[0:08](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-boosting?u=76281980&t=8)** In fact, I wrote a book about boosting because I find that I'm using this so often with some of my clients.
 >
@@ -1217,14 +1202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** short for (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### AdaBoost and gradient boosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980)
+#### [AdaBoost and gradient boosting](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1284,7 +1268,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980&t=147)** We've got our pipeline here and again, the nice thing about scikit-learn is I just swap out this classifier in our pipeline.
 >
-> **[2:33](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980&t=153)** The rest of this code looks exactly the same as the other code here and our model accuracy is 82%, similar to what we got with the random forest.
+> **[2:33](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980&t=153)** The [[Representational State Transfer (REST)|rest]] of this code looks exactly the same as the other code here and our model accuracy is 82%, similar to what we got with the random forest.
 >
 > **[2:45](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/adaboost-and-gradient-boosting?u=76281980&t=165)** I'm going to look at gradient boosting as well, and I'm going to plot gradient boosting with our sample here.
 >
@@ -1348,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), hit (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** similar to (3)
 > **Versions:** 0.1 (1)
@@ -1356,8 +1340,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hyperparameter tuning for boosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980)
+#### [Hyperparameter tuning for boosting](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1410,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980&t=252)** It looks like it's plateaued some here around 150.
 >
-> **[4:15](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980&t=255)** I might go back in and zoom in around this area to see if perhaps we get a better score earlier, but it looks like it's plateaued there.
+> **[4:15](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980&t=255)** I might go back in and [[Zoom]] in around this area to see if perhaps we get a better score earlier, but it looks like it's plateaued there.
 >
 > **[4:26](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-boosting?u=76281980&t=266)** Now, we also have the orange line as well, right?
 >
@@ -1451,7 +1434,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (4), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Code Identifiers:** learning_rate (4), n_estimators (2)
 > **Analogies:** it's like (1), think of it as (1)
 > **Warnings:** be aware (1), note that (1)
@@ -1459,8 +1442,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: tune AdaBoost model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-adaboost-model?u=76281980)
+#### [Challenge: tune AdaBoost model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-adaboost-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,8 +1458,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: tune AdaBoost model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980)
+#### [Solution: tune AdaBoost model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1492,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980&t=83)** max_depth values rarely go above 20.
 >
-> **[1:25](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980&t=85)** In fact, for these boosted algorithms, they rarely go above 10.
+> **[1:25](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980&t=85)** In fact, for these boosted [[Algorithms]], they rarely go above 10.
 >
 > **[1:30](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-adaboost-model?u=76281980&t=90)** So I'm going to come in here and maybe I'll do this.
 >
@@ -1581,7 +1562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Code Identifiers:** max_depth (9), max_depths (4), n_estimators (1)
 > **Warnings:** note that (2)
 > **CLI Commands:** make (1)
@@ -1595,12 +1576,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why XGBoost?
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980)
+#### [Why XGBoost?](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980&t=0)** - [Instructor] If you've been in the world of data science for a while, you've probably heard of or even used XGBoost, but what makes XGBoost so special?
+> **[0:00](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980&t=0)** - [Instructor] If you've been in the world of [[Data Science]] for a while, you've probably heard of or even used XGBoost, but what makes XGBoost so special?
 >
 > **[0:10](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/why-xgboost?u=76281980&t=10)** Why is it considered the go-to tool for a lot of data scientists?
 >
@@ -1650,13 +1630,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), parallel (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hands-on coding with XGBoost
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hands-on-coding-with-xgboost?u=76281980)
+#### [Hands-on coding with XGBoost](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hands-on-coding-with-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1740,7 +1719,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** enable_categorical (1), y_train (1)
 > **Warnings:** note that (2)
 > **Versions:** 0.82 (1)
@@ -1748,8 +1726,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Hyperparameter tuning for XGBoost
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-xgboost?u=76281980)
+#### [Hyperparameter tuning for XGBoost](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hyperparameter-tuning-for-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1849,7 +1826,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** eta (4)
 > **Definitions:** is a  (3)
 > **Versions:** 87.8 (1), 0.875 (1)
@@ -1857,9 +1833,9 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** general rule (1)
+> **Speakers:** - [instructor] (1)
 
-#### Challenge: Tune XGBoost model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-xgboost-model?u=76281980)
+#### [Challenge: Tune XGBoost model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-tune-xgboost-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1875,8 +1851,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Tune XGBoost model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980)
+#### [Solution: Tune XGBoost model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1920,7 +1895,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980&t=99)** We bump it up a little bit, it goes down, and then we keep bumping it up, it goes up, and then it looks like it's going back down.
 >
-> **[1:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980&t=106)** So I might want to zoom in a little bit here.
+> **[1:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980&t=106)** So I might want to [[Zoom]] in a little bit here.
 >
 > **[1:49](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-tune-xgboost-model?u=76281980&t=109)** It looks like 5 is the peak of the values I entered.
 >
@@ -1952,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), generic (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Versions:** 0.1 (1), 0.875 (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
@@ -1964,8 +1939,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concept of stacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980)
+#### [Concept of stacking](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1983,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980&t=36)** More specifically, we will train these base models, and these base models are trained independently on the data, and they don't have to be the same model type.
 >
-> **[0:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980&t=46)** For example, you could use a decision tree, linear models, neural networks, nearest neighbors, any of the models found in scikit-learn, or models that are compatible with the scikit-learn API.
+> **[0:46](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980&t=46)** For example, you could use a decision tree, linear models, [[Neural Networks]], nearest neighbors, any of the models found in scikit-learn, or models that are compatible with the scikit-learn API.
 >
 > **[0:59](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/concept-of-stacking?u=76281980&t=59)** We're going to train each of those models individually.
 >
@@ -2005,15 +1979,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), strengths (1), [[Neural Networks]] (1), api (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (1)
 > **Definitions:** is an  (2), is a  (1), known as (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hands-on coding with StackingClassifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hands-on-coding-with-stackingclassifier?u=76281980)
+#### [Hands-on coding with StackingClassifier](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/hands-on-coding-with-stackingclassifier?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,14 +2026,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** fit_transform (1)
 > **Versions:** 0.822 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluation of stacking vs individual models
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/evaluation-of-stacking-vs-individual-models?u=76281980)
+#### [Evaluation of stacking vs individual models](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/evaluation-of-stacking-vs-individual-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,8 +2056,7 @@ created: 2026-05-02
 > **Versions:** 0.81 (1), 0.80 (1), 0.82 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a stacked model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-create-a-stacked-model?u=76281980)
+#### [Challenge: Create a stacked model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/challenge-create-a-stacked-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2106,8 +2076,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a stacked model
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-create-a-stacked-model?u=76281980)
+#### [Solution: Create a stacked model](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/solution-create-a-stacked-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2174,8 +2143,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2191,7 +2159,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980&t=24)** Stay curious and keep learning.
 >
-> **[0:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980&t=27)** If you're eager to continue growing, check out my other machine learning courses on LinkedIn Learning for even more insights and techniques.
+> **[0:27](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980&t=27)** If you're eager to continue growing, check out my other machine learning courses on [[LinkedIn]] Learning for even more insights and techniques.
 >
 > **[0:35](https://www.linkedin.com/learning/applied-machine-learning-ensemble-learning-25317548/next-steps?u=76281980&t=35)** Thank you for joining me in this course.
 >
@@ -2201,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1), cat (1)
 > **Env Vars:** cat (1), gbm (1)
 > **Speakers:** - as (1)

@@ -92,18 +92,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use spaCy?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
+#### [Why use spaCy?](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=0)** - [Prateek Sawhney] Machine learning professionals struggle with keeping up to date on new packages and libraries.
 >
-> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=5)** One library you need to know is SpaCy.
+> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=5)** One library you need to know is [[spaCy]].
 >
-> **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=8)** It's rapidly being adopted for its ease of use and ability to fasten the process with voice-based devices like Alexa, Google Assistant, and many more.
+> **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=8)** It's rapidly being adopted for its ease of use and ability to fasten the process with voice-based devices like Alexa, [[Google]] Assistant, and many more.
 >
-> **[0:17](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=17)** In this course, you will learn about natural language processing pipelines in Python, and how to apply it to real world, complex problems using SpaCy's advanced nlp library.
+> **[0:17](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=17)** In this course, you will learn about [[Natural Language Processing (NLP)|natural language processing]] pipelines in [[Python (Programming Language)|Python]], and how to apply it to real world, complex problems using SpaCy's advanced nlp library.
 >
 > **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/why-use-spacy?u=76281980&t=26)** By the end of this course, we'll build a custom training loop and train multiple levels.
 >
@@ -117,30 +116,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1), nlp (1)
+> **Frameworks & Libraries:** [[spaCy]] (4), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [prateek (1)
 
-#### Prerequisites of the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980)
+#### [Prerequisites of the course](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=0)** - [Instructor] To get the most out of this course, it's good to have an understanding of the basic idea behind natural language processing.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=0)** - [Instructor] To get the most out of this course, it's good to have an understanding of the basic idea behind [[Natural Language Processing (NLP)|natural language processing]].
 >
-> **[0:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=7)** NLP refers to the branch of artificial intelligence that gives computers the ability to understand and learn natural language just as a human does.
+> **[0:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=7)** NLP refers to the branch of [[Artificial Intelligence (AI)|artificial intelligence]] that gives computers the ability to understand and learn natural language just as a human does.
 >
 > **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=16)** For example, it's the process of how we educate the computer to understand the actual meaning of human language; further, not just the human language, it also gives the ability to the machine to understand raw text of data.
 >
-> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=29)** Apart from this, intermediate to advanced knowledge of Python and virtual environments, like Anaconda, is necessary for this course.
+> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=29)** Apart from this, intermediate to advanced knowledge of [[Python (Programming Language)|Python]] and virtual environments, like Anaconda, is necessary for this course.
 >
 > **[0:37](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=37)** To brush up your skills in Python and virtual environments, you can also refer to the Python documentation.
 >
-> **[0:43](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=43)** spaCy supports 66-plus languages and it's open source; this means you can also contribute to it after completing this course.
+> **[0:43](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/prerequisites-of-the-course?u=76281980&t=43)** [[spaCy]] supports 66-plus languages and it's open source; this means you can also contribute to it after completing this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), nlp (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[spaCy]] (1)
 > **CLI Commands:** python (3)
 > **Code Identifiers:** spacy (1)
 > **Env Vars:** nlp (1)
@@ -149,16 +147,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to install spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980)
+#### [How to install spaCy](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=0)** - To install spaCy, I would recommend installing it inside a virtual environment that is, a conda environment.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=0)** - To install [[spaCy]], I would recommend installing it inside a virtual environment that is, a conda environment.
 >
 > **[0:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=7)** By conda, it means an environment taken from the Anaconda distribution.
 >
-> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=11)** For downloading Anaconda, head over to Anaconda's website and download the setup for your particular system architecture.
+> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=11)** For downloading Anaconda, head over to Anaconda's website and download the setup for your particular [[System Architecture]].
 >
 > **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=18)** I'll download the setup for MacOS.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=61)** I'll select macOS with M1 chip and conda as the package manager.
 >
-> **[1:06](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=66)** Hardware will be CPU for default.
+> **[1:06](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=66)** [[Hardware]] will be CPU for default.
 >
 > **[1:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/how-to-install-spacy?u=76281980&t=68)** I would recommend selecting both of the configurations, that is virtual environment and train models.
 >
@@ -212,12 +209,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to spaCy
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
+#### [Introduction to spaCy](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=0)** - [Instructor] Let's start by focusing on the most basic and important concepts of the spaCy library.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=0)** - [Instructor] Let's start by focusing on the most basic and important concepts of the [[spaCy]] library.
 >
 > **[0:06](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=6)** SpaCy supports a variety of languages, but in this course we'll focus on the language English as we have downloaded the configuration related to it.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=26)** For now we can use the spaCy dot language dot English package and instantiate the English language class with any names.
 >
-> **[0:33](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=33)** For example, nlp just as we create an object in Python.
+> **[0:33](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=33)** For example, nlp just as we create an object in [[Python (Programming Language)|Python]].
 >
 > **[0:37](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=37)** Now, this nlp object inherits all the properties of spaCy and is capable of performing different operations surrounding spaCy.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=80)** This slice object is known as the Doc object in spaCy.
 >
-> **[1:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=83)** It contains the slices of the original text and these slices are known as tokens.
+> **[1:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=83)** It contains the slices of the original text and these slices are known as [[Tokens]].
 >
 > **[1:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=89)** Now, let's look at the Span object.
 >
@@ -275,13 +271,13 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=159)** As the names of all these attributes suggest printing these attributes returns, Boolean values, status, true or false.
 >
-> **[2:48](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=168)** These are very helpful in data processing pipelines and reduce a large amount of effort whilst cleaning and normalizing data.
+> **[2:48](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=168)** These are very helpful in [[Data Processing]] pipelines and reduce a large amount of effort whilst cleaning and normalizing data.
 >
 > **[2:55](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-spacy?u=76281980&t=175)** These are called lexical attributes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (8), [[Tokens]] (5), nlp (4), [[Python (Programming Language)|Python]] (3), data (3)
+> **Frameworks & Libraries:** [[spaCy]] (8), [[Tokens]] (5), [[Python (Programming Language)|Python]] (3), [[Data Processing]] (1)
 > **Code Identifiers:** spacy (7)
 > **Definitions:** known as (2), is called (2), is a  (2), is an  (1)
 > **CLI Commands:** python (3)
@@ -289,12 +285,11 @@ created: 2026-05-02
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### spaCy's statistical models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980)
+#### [spaCy's statistical models](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=0)** - [Instructor] We have already learned about some Lexical attributes and how to process the textual data via Spans and tokens.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=0)** - [Instructor] We have already learned about some Lexical attributes and how to process the textual data via Spans and [[Tokens]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=7)** But what about some contextual data?
 >
@@ -302,13 +297,13 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=15)** How do you know whether any token represents a noun or a verb?
 >
-> **[0:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=19)** Now, we'll learn about spaCy statistical models which help us to perform these tasks at a very fast pace by using linguistic contextual data, it means that the meaning of some of the words are dependent on the other.
+> **[0:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=19)** Now, we'll learn about [[spaCy]] statistical models which help us to perform these tasks at a very fast pace by using linguistic contextual data, it means that the meaning of some of the words are dependent on the other.
 >
 > **[0:32](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=32)** How would we know whether some of the tokens or slices are verbs or pronouns?
 >
 > **[0:37](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=37)** In the same way whether a Span, that is a group of tokens, represents a person's name or not?
 >
-> **[0:44](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=44)** SpaCy's statistical models come to the rescue here because they are trained on large amounts of contextual data taken from the internet and various functions could be used in no time to predict the actual meaning of the word.
+> **[0:44](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=44)** SpaCy's statistical models come to the rescue here because they are trained on large amounts of contextual data taken from the internet and various functions could be used in no time to predict the actual meaning of the [[Microsoft Word|word]].
 >
 > **[0:57](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-statistical-models?u=76281980&t=57)** One such statistical English model is the EN core web SM package, which is pre-trained and can be downloaded along with its weight from the internet.
 >
@@ -360,19 +355,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[spaCy]] (5), [[Tokens]] (3), [[Microsoft Word|Word]] (2), web (2)
+> **Frameworks & Libraries:** [[spaCy]] (5), [[Tokens]] (3), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** spacy (4)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### spaCy's containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980)
+#### [spaCy's containers](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=0)** - [Instructor] To get a more clear understanding of the spaCy basic concepts, let's deep dive into the containers concept of spaCy.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=0)** - [Instructor] To get a more clear understanding of the [[spaCy]] basic concepts, let's deep dive into the containers concept of spaCy.
 >
 > **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=8)** We looked at containers previously, and now, I want to clearly describe the fundamentals related to them.
 >
@@ -388,13 +382,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=38)** The Doc object, as I described previously, is instantiated from the root, that is, the object inherited from the particular language class of spaCy.
 >
-> **[0:48](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=48)** The Doc object behaves as a root and contains various Tokens, just as a branches on the tree.
+> **[0:48](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=48)** The Doc object behaves as a root and contains various [[Tokens]], just as a branches on the tree.
 >
 > **[0:54](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=54)** Try to relate it with the sentence.
 >
 > **[0:56](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=56)** The Doc object takes as input the sentence and gives as output a group of Tokens.
 >
-> **[1:02](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=62)** Each Token corresponds to a word, that is, noun, verb, proposition, or a punctuation character.
+> **[1:02](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=62)** Each Token corresponds to a [[Microsoft Word|word]], that is, noun, verb, proposition, or a punctuation character.
 >
 > **[1:09](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-containers?u=76281980&t=69)** If we group some branches of a tree, it becomes a bush.
 >
@@ -420,30 +414,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (7), [[Tokens]] (6), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[spaCy]] (7), [[Tokens]] (6), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** spacy (7)
 > **Cross-References:** later in (1), next video (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to matching based on rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980)
+#### [Introduction to matching based on rules](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=0)** - [Instructor] We already know about using regular expressions on raw text.
 >
-> **[0:04](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=4)** Now let's focus on spaCy's matcher.
+> **[0:04](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=4)** Now let's focus on [[spaCy]]'s matcher.
 >
 > **[0:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=7)** With the inbuilt matcher, it becomes very easy to find words, phrases or strings of text.
 >
 > **[0:13](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=13)** It not only works with strings but also with the Doc object.
 >
-> **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=16)** We can also match tokens and other lexical attributes too.
+> **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=16)** We can also match [[Tokens]] and other lexical attributes too.
 >
 > **[0:20](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=20)** The whole concept works on rules, so we can even write rules that use the model's prediction.
 >
-> **[0:25](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=25)** For example, finding a word, address, only if it's a verb and not a noun.
+> **[0:25](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=25)** For example, finding a [[Microsoft Word|word]], address, only if it's a verb and not a noun.
 >
 > **[0:31](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/introduction-to-matching-based-on-rules?u=76281980&t=31)** Now, in order to implement the rule-based matching, there is something known as a match pattern.
 >
@@ -505,7 +498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (3), [[spaCy]] (2), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[spaCy]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** match_id (2), spacy (1), en_core_web_sm (1), matched_span (1)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Cross-References:** as we saw (1), as you saw (1)
@@ -513,8 +506,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Predicting linguistic annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980)
+#### [Challenge: Predicting linguistic annotations](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980&t=24)** Use this text and process it with the help of the small English model to create a doc object.
 >
-> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980&t=29)** For all the tokens associated with the doc object, print the tokens' text, dependency label, and part of speech text.
+> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980&t=29)** For all the [[Tokens]] associated with the doc object, print the tokens' text, dependency label, and part of speech text.
 >
 > **[0:36](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-predicting-linguistic-annotations?u=76281980&t=36)** Apart from this, another sub-task would be to iterate over all the entities of the doc object and print the entities' text and label attribute.
 >
@@ -542,13 +534,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (2), web (1)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Exercise Files:** exercise files (1), sample code (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright electronic music) (1)
 
-#### Solution: Predicting linguistic annotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980)
+#### [Solution: Predicting linguistic annotations](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,17 +549,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=8)** We have to process the given text, using the en_core_web_sm model.
 >
-> **[0:12](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=12)** For this, let's import the model using the spacy.load method and create a nlp object.
+> **[0:12](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=12)** For this, let's import the model using the [[spaCy]].load method and create a nlp object.
 >
 > **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=18)** Passing the text into this nlp object would give us the doc object.
 >
-> **[0:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=23)** Now simply we can iterate over the doc object, as we have learned in the previous videos, and for each of the tokens, printing the three attributes.
+> **[0:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=23)** Now simply we can iterate over the doc object, as we have learned in the previous videos, and for each of the [[Tokens]], printing the three attributes.
 >
 > **[0:31](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=31)** Token.text would give us the value of the text, and token.pos would give us the part of speech tags associated with the respective token, and the dependency label could be fetched using the token.dependency property.
 >
 > **[0:44](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=44)** Running the for loop across these three statements and printing the three attributes, would give us the desired output.
 >
-> **[0:50](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=50)** Now, coming to the second sub-problem In order to fetch the entities corresponding to the doc object, we can use the doc.ents property and in the same way iterate over all the entities using a for loop.
+> **[0:50](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=50)** Now, coming to the second sub-problem In order to [[Fetch]] the entities corresponding to the doc object, we can use the doc.ents property and in the same way iterate over all the entities using a for loop.
 >
 > **[1:02](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-predicting-linguistic-annotations?u=76281980&t=62)** We can print the entity's text using the entity.text property and the label using the label attribute.
 >
@@ -578,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[spaCy]] (1), [[Tokens]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (1), [[Tokens]] (1), [[Fetch]] (1)
 > **Code Identifiers:** en_core_web_sm (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
@@ -588,12 +579,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### spaCy's data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
+#### [spaCy's data structures](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=0)** - [Instructor] Now let's focus on the things SpaCy does in the backend for us.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=0)** - [Instructor] Now let's focus on the things [[spaCy]] does in the backend for us.
 >
 > **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=5)** One such thing is shared vocabulary, which we used earlier for initializing the match up.
 >
@@ -603,7 +593,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=21)** SpaCy encodes or generates all the vocabulary strings in hash format IDs.
 >
-> **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=26)** For all the textual data, SpaCy stores the hash values corresponding to only one ID of each word once, and ignores the further occurrence of each word.
+> **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=26)** For all the textual data, SpaCy stores the hash values corresponding to only one ID of each [[Microsoft Word|word]] once, and ignores the further occurrence of each word.
 >
 > **[0:35](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=35)** In this way, all the original string data is stored only once, and thus saves a lot of space.
 >
@@ -647,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=141)** The doc contains the words in context.
 >
-> **[2:24](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=144)** Some of the tokens could be part of speech tags, or dependency labels.
+> **[2:24](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=144)** Some of the [[Tokens]] could be part of speech tags, or dependency labels.
 >
 > **[2:28](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/spacy-s-data-structures?u=76281980&t=148)** Each token refers to a lexeme, which knows the words hash id.
 >
@@ -697,25 +687,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[spaCy]] (8), data (6), nlp (6), [[Tokens]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (11), [[spaCy]] (8), [[Tokens]] (3)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** for example (2), just like (1)
 > **Code Identifiers:** is_alpha (1)
 > **Speakers:** - [instructor] (1)
 
-#### Similarity and word vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980)
+#### [Similarity and word vectors](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=0)** - [Instructor] In SpaCy, we can compare two objects, such as Spans, Tokens, or even Doc objects to extract the semantic similarity between one another.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=0)** - [Instructor] In [[spaCy]], we can compare two objects, such as Spans, [[Tokens]], or even Doc objects to extract the semantic similarity between one another.
 >
 > **[0:10](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=10)** This technique is useful if we want to compare the similarity between two sentences or even two documents.
 >
 > **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=16)** Similarity depends on the application context.
 >
-> **[0:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=19)** Let's dig into these techniques in natural language processing applications including chat bots, voice assistants, et cetera.
+> **[0:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=19)** Let's dig into these techniques in [[Natural Language Processing (NLP)|natural language processing]] applications including chat bots, voice assistants, et cetera.
 >
 > **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=26)** Each document, Span, or a single Token object comes with a similarity method or function, which takes in another object, to which we want to compare its similarity to.
 >
@@ -727,7 +716,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=64)** Suppose we want to predict two documents.
 >
-> **[1:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=67)** First, we'll import the en_core_web_md, or the medium English SpaCy model, which contains word vectors too.
+> **[1:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=67)** First, we'll import the en_core_web_md, or the medium English SpaCy model, which contains [[Microsoft Word|word]] vectors too.
 >
 > **[1:14](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=74)** Then, we'll create two Doc objects and use the similarity method of the first Doc object to predict the similarity with the second Doc object.
 >
@@ -751,7 +740,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=134)** In the same way, we can also use a similarity method to compare a Doc with a Span.
 >
-> **[2:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=139)** The root of a similarity is derived from word vectors, which are generated using algorithms like for two vectors and in large quantities.
+> **[2:19](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=139)** The root of a similarity is derived from word vectors, which are generated using [[Algorithms]] like for two vectors and in large quantities.
 >
 > **[2:27](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=147)** These can also be added to SpaCy's statistical models.
 >
@@ -773,22 +762,21 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=203)** This is just based on the context and its similarity.
 >
-> **[3:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=206)** Now, it's your turn to check your understanding of data structures, and apply SpaCy techniques to solve complex problems.
+> **[3:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/similarity-and-word-vectors?u=76281980&t=206)** Now, it's your turn to check your understanding of [[Data Structures]], and apply SpaCy techniques to solve complex problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (9), [[Microsoft Word|Word]] (7), [[Tokens]] (5), application (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (9), [[Microsoft Word|Word]] (7), [[Tokens]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Analogies:** similar to (3), such as (1), for example (1)
 > **Code Identifiers:** en_core_web_md (2), en_core_web_large (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating spaCy's models and rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980)
+#### [Integrating spaCy's models and rules](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=0)** - [Instructor] We have looked at statistical models and rule-based approaches in spaCy, now, let's focus on how to efficiently use both of them together.
+> **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=0)** - [Instructor] We have looked at statistical models and rule-based approaches in [[spaCy]], now, let's focus on how to efficiently use both of them together.
 >
 > **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=8)** We will start by preparing a more dominant method for NLP-related tasks or an advanced method to find complex sequences of data from a particular problem statement.
 >
@@ -818,7 +806,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=131)** As you must have noticed, one major difference between a normal matcher and phrase matcher is that with the phrase matching it's possible to input even doc objects such as patterns instead of a list of dictionaries.
 >
-> **[2:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=143)** Phrase matching is capable of doing keyword search on the document, but instead of only picking up strings, it gives us direct access to the relevant tokens in context.
+> **[2:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=143)** Phrase matching is capable of doing keyword search on the document, but instead of only picking up strings, it gives us direct access to the relevant [[Tokens]] in context.
 >
 > **[2:34](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/integrating-spacy-s-models-and-rules?u=76281980&t=154)** After this, we can just iterate over the matcher in the same way as we did earlier and extract the starting and the ending index of the matched span.
 >
@@ -826,15 +814,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (3), nlp (2), data (2), [[Tokens]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (3), [[Tokens]] (2)
 > **Analogies:** such as (4)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** spacy (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Phrase matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-phrase-matching?u=76281980)
+#### [Challenge: Phrase matching](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-phrase-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +851,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** nlp (1)
 > **Exercise Files:** exercise files (1)
@@ -873,8 +859,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Phrase matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980)
+#### [Solution: Phrase matching](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +867,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=5)** - [Instructor] Let me walk through my solution.
 >
-> **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=8)** To import the phrase matcher, we can import it from the SpaCy dot matcher, and initialize it with the shared vocabulary using nlp dot vocab.
+> **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=8)** To import the phrase matcher, we can import it from the [[spaCy]] dot matcher, and initialize it with the shared vocabulary using nlp dot vocab.
 >
 > **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=16)** I'm assuming you already know how to create a nlp and a dock object, and initialize it.
 >
@@ -892,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=34)** The add attribute expects three arguments like this.
 >
-> **[0:38](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=38)** And then, we can fetch the matches or the results set of matches, by using our matcher, or the dock object, which we created above.
+> **[0:38](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=38)** And then, we can [[Fetch]] the matches or the results set of matches, by using our matcher, or the dock object, which we created above.
 >
 > **[0:45](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-phrase-matching?u=76281980&t=45)** Lastly, we can iterate over the result set, by using a for loop.
 >
@@ -902,7 +887,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[spaCy]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (1), [[Fetch]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
 
@@ -911,8 +896,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Processing pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
+#### [Processing pipelines](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/processing-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,14 +952,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (8), data (2)
 > **Env Vars:** nlp (6)
 > **Code Identifiers:** pipe_names (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pipeline's custom components
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980)
+#### [Pipeline's custom components](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -985,7 +967,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=14)** This means when the NLP object is called on a string of text or data, it would run the pipeline components defined by us.
 >
-> **[0:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=21)** Till now we talked about the default pipeline components that come under the NLP object of spaCy.
+> **[0:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=21)** Till now we talked about the default pipeline components that come under the NLP object of [[spaCy]].
 >
 > **[0:27](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=27)** Now, let's talk about more modifying them or adding new ones.
 >
@@ -993,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=45)** The pipeline is executed automatically and all components run on their own.
 >
-> **[0:50](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=50)** The custom components are important when we need to add our own metadata to documents and tokens.
+> **[0:50](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=50)** The custom components are important when we need to add our own [[Metadata]] to documents and [[Tokens]].
 >
 > **[0:55](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/pipeline-s-custom-components?u=76281980&t=55)** The simple meaning of a component is like anything such as an operation or a method which is applied on a doc object and prepares the output to be taken up for the next pipeline component as an input.
 >
@@ -1031,7 +1013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (7), [[spaCy]] (5), data (3), [[Metadata]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (5), [[Metadata]] (1), [[Tokens]] (1)
 > **Code Identifiers:** spacy (5), add_pipe (2), custom_component (2)
 > **Env Vars:** nlp (5)
 > **Cross-References:** we talked about (2), in the last (1)
@@ -1039,20 +1021,19 @@ created: 2026-05-02
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extension attributes: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980)
+#### [Extension attributes: Part 1](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=0)** - Now, we'll dig a step deeper and see how to add custom properties to the Doc, Token, and Span objects in order to store custom data into them.
 >
-> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=11)** We already know that token.text is a built-in attribute by spaCy which gives us the text associated with the Token.
+> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=11)** We already know that token.text is a built-in attribute by [[spaCy]] which gives us the text associated with the Token.
 >
-> **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=18)** If we want to add any other attribute or metadata defined by us, for example, to the Doc object, such as Doc.title, here is when custom attributes come into picture.
+> **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=18)** If we want to add any other attribute or [[Metadata]] defined by us, for example, to the Doc object, such as Doc.title, here is when custom attributes come into picture.
 >
 > **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=29)** Let's see how to add these custom-made properties on the Doc, Token, and Span objects.
 >
-> **[0:35](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=35)** In order to add custom properties, first of all, we need to add the Doc, Token, and Span from the global classes and import them from the spacy.tokens.
+> **[0:35](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=35)** In order to add custom properties, first of all, we need to add the Doc, Token, and Span from the global classes and import them from the spacy.[[Tokens]].
 >
 > **[0:44](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-1?u=76281980&t=44)** Further, we can add new custom attributes by using the set_extension method for each of the Doc, Token, and Span objects.
 >
@@ -1102,15 +1083,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (3), [[Tokens]] (3), data (1), [[Metadata]] (1), nlp (1)
+> **Frameworks & Libraries:** [[spaCy]] (3), [[Tokens]] (3), [[Metadata]] (1)
 > **Code Identifiers:** set_extension (3), is_color (2), spacy (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Env Vars:** nlp (1)
 > **Speakers:** - now (1)
 
-#### Extension attributes: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980)
+#### [Extension attributes: Part 2](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1120,7 +1100,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=8)** First, let's take a look at property extensions.
 >
-> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=11)** Property extensions work like getters and setters in Python.
+> **[0:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=11)** Property extensions work like getters and setters in [[Python (Programming Language)|Python]].
 >
 > **[0:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=15)** A getter function is defined and also an optional setter is set up at the same time.
 >
@@ -1128,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=24)** Let's see this in action.
 >
-> **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=26)** We'll import the token from the spaCy dot tokens and define a getter function.
+> **[0:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=26)** We'll import the token from the [[spaCy]] dot [[Tokens]] and define a getter function.
 >
 > **[0:31](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=31)** For example, get is color which takes in as input only one argument, the object in this case, such as the token.
 >
@@ -1136,13 +1116,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=45)** Before we learned about the set extension method which takes as the first argument the name of the custom extension that is, is color and at the same time, we can also pass the second argument as the getter, which corresponds to the name of the getter function, which we defined above.
 >
-> **[1:02](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=62)** So, when we register the extension we can provide the function via the getter key word argument.
+> **[1:02](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=62)** So, when we register the extension we can provide the function via the getter key [[Microsoft Word|word]] argument.
 >
 > **[1:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=68)** Now, processing the same example as in the last lesson video, that is processing the text, Ram loves to bowl with the red ball, with the nlp object and extracting the corresponding Doc object.
 >
 > **[1:20](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=80)** This time we have the is color custom extension created using the property extension, that is using the getter function.
 >
-> **[1:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=86)** Now, if we fetch the token corresponding to the Doc six and access its custom attribute, is color, using the dot underscore and for the getter key word argument we can pass the Doc six dot text.
+> **[1:26](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=86)** Now, if we [[Fetch]] the token corresponding to the Doc six and access its custom attribute, is color, using the dot underscore and for the getter key word argument we can pass the Doc six dot text.
 >
 > **[1:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/extension-attributes-part-2?u=76281980&t=99)** That is text corresponding to the token at position six of the Doc object.
 >
@@ -1176,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[spaCy]] (2), [[Tokens]] (2), nlp (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[spaCy]] (2), [[Tokens]] (2), [[Python (Programming Language)|Python]] (1), [[Fetch]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **Code Identifiers:** spacy (2)
 > **Analogies:** for example (1), such as (1)
@@ -1185,8 +1165,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 
-#### Performance and scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980)
+#### [Performance and scaling](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=29)** In Spacey, we have the nlp.pipe method which processes data in streams and increases the speed of computing at a very significant rate.
 >
-> **[0:37](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=37)** We know about batch processing in machine learning.
+> **[0:37](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=37)** We know about [[Batch Processing]] in machine learning.
 >
 > **[0:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=39)** For those who don't know batch processing is a technique through which the machine learning model takes a chunk of data at a time processes it makes the prediction and performs this step again and again on subsequent chunks of data.
 >
@@ -1226,7 +1205,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=123)** Suppose we have the entity the tokenizer tagger and the parser in our NLP pipeline and we want only to use the tagger, then we can disable the entity the tokenizer and the parser with the use of a with block like this and then process the text with the help of the NLP object.
 >
-> **[2:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=141)** Outside the with block in the execution of the program all the disabled components become active again to be used further in the Python program.
+> **[2:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=141)** Outside the with block in the execution of the program all the disabled components become active again to be used further in the [[Python (Programming Language)|Python]] program.
 >
 > **[2:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/performance-and-scaling?u=76281980&t=149)** So we can define some methods with the use of a Disabled Pipes method of NLP object where we only want to run the certain components of the NLP pipeline.
 >
@@ -1236,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (12), data (7), [[Batch Processing]] (2), power (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** nlp (9), lmp (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** disable_pipes (1)
@@ -1244,8 +1223,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Processing streams and selective processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980)
+#### [Challenge: Processing streams and selective processing](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,9 +1233,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=17)** There are two streams of text that will require your knowledge and work divided into two task.
 >
-> **[0:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=23)** For task one, you need to import the spaCy small English model and load it into the NLP object.
+> **[0:23](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=23)** For task one, you need to import the [[spaCy]] small English model and load it into the NLP object.
 >
-> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=29)** You'll be converting the text one into only tokens or tokenizing the text without using the complete NLP pipeline.
+> **[0:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=29)** You'll be converting the text one into only [[Tokens]] or tokenizing the text without using the complete NLP pipeline.
 >
 > **[0:36](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-processing-streams-and-selective-processing?u=76281980&t=36)** For task two, you will use the NLP pipeline and performed tokenization on text two.
 >
@@ -1269,15 +1247,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (4), [[spaCy]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (1), [[Tokens]] (1)
 > **Env Vars:** nlp (4)
 > **Code Identifiers:** spacy (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Processing streams and selective processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980)
+#### [Solution: Processing streams and selective processing](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1262,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980&t=8)** First of all, let's import the en_core_web_sm model and instantiate it.
 >
-> **[0:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980&t=15)** Then as we have to convert the text_1 into only tokens, we can use the nlp.make_doc method.
+> **[0:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980&t=15)** Then as we have to convert the text_1 into only [[Tokens]], we can use the nlp.make_doc method.
 >
 > **[0:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-processing-streams-and-selective-processing?u=76281980&t=21)** We can consume the text_1 from the nlp.make_doc method and thus we'll get the corresponding doc object.
 >
@@ -1307,7 +1284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (8), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (2)
 > **Env Vars:** nlp (5)
 > **Code Identifiers:** make_doc (2), en_core_web_sm (1), disable_pipes (1)
 > **CLI Commands:** make (1)
@@ -1319,8 +1296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training and updating models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
+#### [Training and updating models](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1306,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=10)** Training a machine learning model requires a lot of computing power depending upon the data and the architecture of the model.
 >
-> **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=18)** We have learned previously about spaCy's pre-trained models.
+> **[0:18](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=18)** We have learned previously about [[spaCy]]'s pre-trained models.
 >
 > **[0:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=21)** Pre-trained models work in many scenarios brilliantly but they couldn't be used in all of the end use case scenarios.
 >
@@ -1400,7 +1376,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=246)** It should contain a large number of examples of what we want the model to predict.
 >
-> **[4:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=251)** The data could also include tokens and their part-of-speech tags.
+> **[4:11](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=251)** The data could also include [[Tokens]] and their part-of-speech tags.
 >
 > **[4:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-and-updating-models?u=76281980&t=255)** One important and fundamental point to note here is that whenever we want to create a new categorized model, we may need a large amount of data, say one lakh examples.
 >
@@ -1412,15 +1388,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[spaCy]] (6), next (4), nlp (2), power (1)
+> **Frameworks & Libraries:** [[spaCy]] (6), [[Tokens]] (1)
 > **Code Identifiers:** spacy (6), begin_training (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Training loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980)
+#### [Training loop](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,9 +1423,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=67)** Now we'll make a training loop, for example, for 10 iterations and start with shuffling the retaining data as we have learned just now.
 >
-> **[1:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=75)** Then we'll create mini batches or this is called batch processing in simple language.
+> **[1:15](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=75)** Then we'll create mini batches or this is called [[Batch Processing]] in simple language.
 >
-> **[1:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=81)** Mini batches are created using the spacy.util.minibatch package available in spacy.util.
+> **[1:21](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=81)** Mini batches are created using the [[spaCy]].util.minibatch package available in spacy.util.
 >
 > **[1:29](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop?u=76281980&t=89)** This is used to divide the training data into batches.
 >
@@ -1484,7 +1459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), nlp (5), [[spaCy]] (3), [[Batch Processing]] (2), application (1)
+> **Frameworks & Libraries:** [[spaCy]] (3), [[Batch Processing]] (2)
 > **Code Identifiers:** to_disk (1), add_pipe (1)
 > **Env Vars:** nlp (2)
 > **Definitions:** is called (1), means that (1)
@@ -1492,8 +1467,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Challenge: Building a training loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980)
+#### [Challenge: Building a training loop](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,7 +1475,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=5)** - [Instructor] In this challenge, you'll practice how to initially build a training loop.
 >
-> **[0:10](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=10)** I have already imported spaCy and random.
+> **[0:10](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=10)** I have already imported [[spaCy]] and random.
 >
 > **[0:13](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=13)** I have also completed half of the code, and also defined the training data for this task.
 >
@@ -1513,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=35)** The first step in that training pipeline should be shuffling of the data.
 >
-> **[0:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=39)** Further, you should use batch processing, and use a batch size of two.
+> **[0:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=39)** Further, you should use [[Batch Processing]], and use a batch size of two.
 >
 > **[0:43](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-building-a-training-loop?u=76281980&t=43)** Within that batch processing, extract the text and their corresponding annotations from the respective entities.
 >
@@ -1521,20 +1495,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), nlp (2), [[Batch Processing]] (2), [[spaCy]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[spaCy]] (1)
 > **Env Vars:** nlp (2)
 > **Code Identifiers:** spacy (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Building a training loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980)
+#### [Solution: Building a training loop](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=5)** - [Instructor] First, we will create a blank English model using spacy.blank.
+> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=5)** - [Instructor] First, we will create a blank English model using [[spaCy]].blank.
 >
 > **[0:10](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=10)** Then we can create a new entity recognizer and add it to the training pipeline.
 >
@@ -1546,13 +1519,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=33)** Remember to declare the empty losses that we would be printing in the end of each iteration.
 >
-> **[0:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=39)** After this, we have to do the batch processing, and for that, we can use a spacy.util.minibatch function.
+> **[0:39](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=39)** After this, we have to do the [[Batch Processing]], and for that, we can use a spacy.util.minibatch function.
 >
 > **[0:46](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=46)** This function takes as input two arguments.
 >
 > **[0:48](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=48)** First, the training data and the second argument would be the size of batches which will be two in this case.
 >
-> **[0:56](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=56)** Then we can easily fetch the text and their corresponding annotations, and then update the model in the end using the nlp.update method, which will take three arguments.
+> **[0:56](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=56)** Then we can easily [[Fetch]] the text and their corresponding annotations, and then update the model in the end using the nlp.update method, which will take three arguments.
 >
 > **[1:07](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-building-a-training-loop?u=76281980&t=67)** That is text, annotations and losses.
 >
@@ -1560,15 +1533,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (2), nlp (2), data (2), [[Batch Processing]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (2), [[Batch Processing]] (1), [[Fetch]] (1)
 > **Code Identifiers:** begin_training (1)
 > **Env Vars:** gadget (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Training loop best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980)
+#### [Training loop best practices](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,7 +1562,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980&t=47)** Another common problem is sometimes, despite several techniques and tweaks, the model is not learning what we want it to learn.
 >
-> **[0:54](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980&t=54)** Generally, spaCy models make predictions based on the local context.
+> **[0:54](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980&t=54)** Generally, [[spaCy]] models make predictions based on the local context.
 >
 > **[0:59](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/training-loop-best-practices?u=76281980&t=59)** For example, the surrounding words are extremely important while predicting name identities.
 >
@@ -1600,7 +1572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[spaCy]] (2), generic (1)
+> **Frameworks & Libraries:** [[spaCy]] (2)
 > **Definitions:** is a  (1), means that (1), known as (1)
 > **Code Identifiers:** spacy (2)
 > **CLI Commands:** make (1)
@@ -1608,8 +1580,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Training multiple labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-training-multiple-labels?u=76281980)
+#### [Challenge: Training multiple labels](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/challenge-training-multiple-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,8 +1598,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Training multiple labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-training-multiple-labels?u=76281980)
+#### [Solution: Training multiple labels](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/solution-training-multiple-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,7 +1620,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music begins) (1)
 
@@ -1659,28 +1628,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)
+#### [Wrap-up](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=0)** - [Prateek Sawhney] Congratulations, thank you for following along and completing this course.
 >
-> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=5)** I encourage you to keep learning new techniques and strategies to deal with natural language processing tasks using advanced libraries.
+> **[0:05](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=5)** I encourage you to keep learning new techniques and strategies to deal with [[Natural Language Processing (NLP)|natural language processing]] tasks using advanced libraries.
 >
 > **[0:13](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=13)** The machine learning space is vast and rapidly growing.
 >
 > **[0:16](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=16)** Keeping up to date is the best way you can follow along.
 >
-> **[0:20](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=20)** There are new and advanced libraries such as spaCy you can learn.
+> **[0:20](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=20)** There are new and advanced libraries such as [[spaCy]] you can learn.
 >
 > **[0:24](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=24)** I have included a list of resources for you in the handout.
 >
-> **[0:28](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=28)** To keep practicing, I recommend you extract the Google search results data, and process that using the spaCy package.
+> **[0:28](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=28)** To keep practicing, I recommend you extract the [[Google]] search results data, and process that using the spaCy package.
 >
 > **[0:35](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=35)** I have included a step-by-step guide in the handout.
 >
-> **[0:38](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=38)** If you want to follow me for more AI content, you can find me on LinkedIn and subscribe to my AI newsletter.
+> **[0:38](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=38)** If you want to follow me for more AI content, you can find me on [[LinkedIn]] and subscribe to my AI newsletter.
 >
 > **[0:45](https://www.linkedin.com/learning/building-nlp-pipelines-with-spacy/wrap-up?u=76281980&t=45)** If you have any questions or comments, feel free to leave them in the Q&A.
 >
@@ -1688,7 +1656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[spaCy]] (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Google]] (1), [[LinkedIn]] (1)
 > **Code Identifiers:** spacy (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)

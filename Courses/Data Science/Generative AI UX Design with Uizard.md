@@ -86,24 +86,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of Uizard on UX design
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
+#### [The power of Uizard on UX design](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=0)** - [Narrator] Artificial intelligence is making it easier for anyone to design a website or application quickly.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] is making it easier for anyone to design a website or application quickly.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=6)** The entire field of UX is changing and it's going to be more important than ever for designers to be able to adapt their skills to capitalize.
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=14)** In addition, design adjacent jobs, like product manager and founders can be empowered to create their own designs in a way they never could before.
 >
-> **[0:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=23)** This course is going to introduce you to Miros wizard AI fast prototyping tool, and give you all the skills you need to build interactive prototypes for mobile, tablet, and desktop in just minutes.
+> **[0:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=23)** This course is going to introduce you to Miros wizard AI fast [[Prototyping]] tool, and give you all the skills you need to build interactive prototypes for mobile, tablet, and desktop in just minutes.
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/welcome?u=76281980&t=35)** So grab a coffee, have a seat, and let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), application (1), ux (1), product (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Prototyping]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Uizard, the magic prototyping tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
+#### [Uizard, the magic prototyping tool](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=8)** What makes Uizard really stand out is its GenAI integration.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=12)** Uizard is made for designers who want to get things going quickly, but also for product managers, founders, developers, and others who might need to get some designs but don't have the chops or time to do things in Figma or other design tools.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=12)** Uizard is made for designers who want to get things going quickly, but also for product managers, founders, developers, and others who might need to get some designs but don't have the chops or time to do things in [[Figma (Software)|Figma]] or other design tools.
 >
 > **[0:25](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=25)** Using GenAI, Uizard allows us to do a number of powerful things: create screens and even entire prototypes at a single prompt; creating screens using sketches that are drawn on a napkin or a piece of paper or whatever, or taking screenshots from the web and using those to start.
 >
@@ -158,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=130)** You can make your prototypes interactive.
 >
-> **[2:13](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=133)** Uizard's Prototyping Tool makes it easy to create links and make a clickable prototype that you can share a digital rendition of your app to test with users, share with collaborators, and whatever you need.
+> **[2:13](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=133)** Uizard's [[Prototyping]] Tool makes it easy to create links and make a clickable prototype that you can share a digital rendition of your app to test with users, share with collaborators, and whatever you need.
 >
 > **[2:24](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/uizard-the-magic-prototyping-tool?u=76281980&t=144)** All in all, Uizard allows us to design UIs and prototypes faster than ever before.
 >
@@ -168,15 +166,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), application (2), ai (2), product (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (3)
 > **Tools:** figma (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The app, using projects and templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980)
+#### [The app, using projects and templates](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980&t=101)** And then if you want one of these, you can pop it up and you can see.
 >
-> **[1:45](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980&t=105)** So this is Google material.
+> **[1:45](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980&t=105)** So this is [[Google]] material.
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-app-using-projects-templates?u=76281980&t=107)** So I can open this up and I can have a look at the different sort of default screens that they include.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), ai (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **UI Navigation:** toggle (2), go to (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** find (1)
@@ -262,8 +259,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The designing interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980)
+#### [The designing interface](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,7 +391,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980&t=283)** Let's go ahead and add a login form for returning members.
 >
-> **[4:48](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980&t=288)** So if we go to the Form menu, we can scroll down, and you'll see, so not only does it have form elements, but it'll actually have full forms.
+> **[4:48](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980&t=288)** So if we go to the Form menu, we can scroll down, and you'll see, so not only does it have form elements, but it'll actually have full [[Forms]].
 >
 > **[4:57](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/the-designing-interface?u=76281980&t=297)** So there are some login actual forms we can use.
 >
@@ -453,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Forms]] (2), next (2), ai (1), prompt (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **UI Navigation:** go to (5), click on (1), scroll down (1)
 > **Exercise Files:** template (5)
 > **Analogies:** for example (4), just like (1)
@@ -461,8 +457,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the designer
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980)
+#### [Using the designer](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=11)** For now, let's just get oriented with this screen.
 >
-> **[0:14](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=14)** So in the middle area are all of our screens and you can zoom in and out as you wish.
+> **[0:14](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=14)** So in the middle area are all of our screens and you can [[Zoom]] in and out as you wish.
 >
 > **[0:20](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=20)** I'm using pinch and zoom, and notice there's also a button up here to zoom in and out if you prefer that methodology.
 >
@@ -526,7 +521,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=132)** Is it going to bring you to a different URL, et cetera.
 >
-> **[2:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=135)** So this is all for the prototyping aspect of Uizard.
+> **[2:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=135)** So this is all for the [[Prototyping]] aspect of Uizard.
 >
 > **[2:18](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-designer?u=76281980&t=138)** Then we can view the screens that shows you all of the screens just in overview and the ability to create a new screen.
 >
@@ -578,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Zoom]] (4), product (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Prototyping]] (1)
 > **UI Navigation:** click on (3), toggle (2), go to (1)
 > **Exercise Files:** template (4)
 > **CLI Commands:** find (1), make (1), snap (1)
@@ -587,8 +582,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireframe and interactive modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980)
+#### [Wireframe and interactive modes](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +616,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=78)** Yes, there are lots of amazing things in this menu, but we'll talk about them later.
 >
-> **[1:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=83)** The other aspect of prototyping you'll want to utilize is to make them into interactive prototypes.
+> **[1:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=83)** The other aspect of [[Prototyping]] you'll want to utilize is to make them into interactive prototypes.
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=89)** So we've got our three screens here, so let's go ahead and make them interactive.
 >
@@ -670,7 +664,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=201)** So we'll just go to our landing page.
 >
-> **[3:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=203)** In this case, I'll just put [linkedin.com](https://linkedin.com).
+> **[3:23](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=203)** In this case, I'll just put [[[LinkedIn]].com](https://linkedin.com).
 >
 > **[3:25](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/wireframe-and-interactive-modes?u=76281980&t=205)** Alright, so once that's set, it's set.
 >
@@ -722,7 +716,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (1), [[Prototyping]] (1), [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** toggle (4), click on (4), go to (3), select the (1), drag and drop (1)
 > **CLI Commands:** make (7)
 > **Cross-References:** in the last (1), go back to (1)
@@ -735,8 +729,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new app with Autodesigner
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
+#### [Create a new app with Autodesigner](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/create-a-new-app-with-autodesigner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,15 +827,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), ai (6), application (1), web (1), [[Search]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **Tools:** safari (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying a screen with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-screen-with-ai?u=76281980)
+#### [Modifying a screen with AI](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-screen-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,15 +927,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), ux (1), prompt (1), application (1)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modifying a component with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980)
+#### [Modifying a component with AI](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=58)** So I'm just going to say, "Can you add a star rating to this component?"
 >
-> **[1:09](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=69)** Okay, so I'm going to zoom in a little bit.
+> **[1:09](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=69)** Okay, so I'm going to [[Zoom]] in a little bit.
 >
 > **[1:12](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=72)** It just kind of slapped it on top so it's a little sloppy, but we could do it.
 >
@@ -1004,7 +993,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=101)** Just get 'em all nice and centered.
 >
-> **[1:43](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=103)** And then, you can see this one isn't grouped with the rest.
+> **[1:43](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=103)** And then, you can see this one isn't grouped with the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:47](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-component-with-ai?u=76281980&t=107)** So, when we get this in the place, we want it like this.
 >
@@ -1062,15 +1051,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (2)
 > **Analogies:** kind of like (2)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying a theme with AI prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980)
+#### [Modifying a theme with AI prompt](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1092,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980&t=92)** So you can see in here, you can open the preview.
 >
-> **[1:35](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980&t=95)** This allows you to sort of zoom in and see it a little better.
+> **[1:35](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980&t=95)** This allows you to sort of [[Zoom]] in and see it a little better.
 >
 > **[1:38](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-a-theme-with-ai-prompt?u=76281980&t=98)** So this is the old, this is the new.
 >
@@ -1170,15 +1158,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), ai (2), next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (2), open the (1)
 > **Env Vars:** url (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a new screen with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980)
+#### [Creating a new screen with AI](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1220,7 +1207,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980&t=81)** We have a couple of these.
 >
-> **[1:22](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980&t=82)** I'm just going to zoom in so I can see.
+> **[1:22](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980&t=82)** I'm just going to [[Zoom]] in so I can see.
 >
 > **[1:24](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/creating-a-new-screen-with-ai?u=76281980&t=84)** So we have this one.
 >
@@ -1278,14 +1265,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), ai (2), [[Zoom]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modifying content with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980)
+#### [Modifying content with AI](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,9 +1305,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=105)** All right, so now you can see the images.
 >
-> **[1:47](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=107)** I'm going to zoom in a little so we can see them, and there are like, people.
+> **[1:47](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=107)** I'm going to [[Zoom]] in a little so we can see them, and there are like, people.
 >
-> **[1:52](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=112)** They definitely have that sort of AI DALL-E sort of flavor to them, but you know, overall, they're not too bad.
+> **[1:52](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=112)** They definitely have that sort of AI [[DALL-E]] sort of flavor to them, but you know, overall, they're not too bad.
 >
 > **[2:00](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=120)** They're kind of what I was looking for.
 >
@@ -1403,13 +1389,13 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=310)** So that's basically it.
 >
-> **[5:11](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=311)** So you can see it's pretty easy to tweak your content once you've got your design going using generative AI tools.
+> **[5:11](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=311)** So you can see it's pretty easy to tweak your content once you've got your design going using [[Generative AI Tools]].
 >
 > **[5:18](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/modifying-content-with-ai?u=76281980&t=318)** So let's go deeper now into Wizard and see how we can create designs using screenshots and sketches and more.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Zoom]] (4), prompt (2), [[Search]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[DALL-E]] (1), [[Generative AI Tools]] (1)
 > **UI Navigation:** go to (4), open the (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1422,8 +1408,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scanning a screenshot
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
+#### [Scanning a screenshot](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-screenshot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1503,14 +1488,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), ai (1), prompt (1), application (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning a wireframe
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980)
+#### [Scanning a wireframe](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1503,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=11)** The first thing to look at is the design guide.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=15)** Wizard provides a sketching guide that gives you some shortcuts so you know what kind of things are going to be translated by the AI engine and how they're going to be translated.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=15)** Wizard provides a [[Sketching]] guide that gives you some shortcuts so you know what kind of things are going to be translated by the AI engine and how they're going to be translated.
 >
 > **[0:24](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=24)** So in the example, first of all, you want to make sure you frame the picture so that your UI is the full picture, you don't have anything else in the picture.
 >
@@ -1566,7 +1549,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=155)** That way I can really see it.
 >
-> **[2:37](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=157)** So now we'll zoom in and you can see it interpreted my slider.
+> **[2:37](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=157)** So now we'll [[Zoom]] in and you can see it interpreted my slider.
 >
 > **[2:41](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/scanning-a-wireframe?u=76281980&t=161)** It has my check boxes, my travel dates, and it even generated an image.
 >
@@ -1588,7 +1571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Sketching]] (2), next (2), business (1), feature (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** picture (4)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -1596,8 +1579,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Generating themes with a URL or images
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980)
+#### [Generating themes with a URL or images](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1623,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980&t=96)** Now if you have something on your phone, you can upload using the phone, but in this case I have one on my desktop that I already took.
 >
-> **[1:42](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980&t=102)** I'm going to do it like a LinkedIn Learning as if I want to integrate this site in with LinkedIn Learning or have it match that style.
+> **[1:42](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980&t=102)** I'm going to do it like a [[LinkedIn]] Learning as if I want to integrate this site in with LinkedIn Learning or have it match that style.
 >
 > **[1:49](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/generating-themes-with-a-url-or-images?u=76281980&t=109)** So we'll go to the desktop and we'll grab our screenshot.
 >
@@ -1669,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), prompt (1), data (1), application (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **Cross-References:** go back to (1), in the next (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** url (1)
@@ -1681,8 +1663,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interactive prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
+#### [Interactive prototypes](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1752,7 +1733,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980&t=181)** And then that would allow us to make all kinds of comments and I can bring people there and I can create different whiteboards for different users when I'm doing user research.
 >
-> **[3:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980&t=190)** Or I can just get HTML code and embed it in the website somewhere.
+> **[3:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980&t=190)** Or I can just get [[HTML]] code and embed it in the website somewhere.
 >
 > **[3:13](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/interactive-prototypes?u=76281980&t=193)** So that's how you use this project once you're completed with it.
 >
@@ -1764,7 +1745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), application (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (2)
@@ -1772,8 +1753,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Editing interactivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/editing-interactivity?u=76281980)
+#### [Editing interactivity](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/editing-interactivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1851,8 +1831,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using design review
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
+#### [Using design review](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-design-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1928,15 +1907,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6)
 > **CLI Commands:** make (2)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the brand kit
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980)
+#### [Using the brand kit](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1948,7 +1925,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980&t=22)** And with that you get this brand kit.
 >
-> **[0:24](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980&t=24)** And you can create a brand kit from scratch, or you can create it from Figma.
+> **[0:24](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980&t=24)** And you can create a brand kit from scratch, or you can create it from [[Figma (Software)|Figma]].
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-the-brand-kit?u=76281980&t=29)** You can use a prompt, you can link to a website and it'll pull in that data or a screenshot.
 >
@@ -2068,7 +2045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), business (2), [[Figma (Software)|Figma]] (1), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
 > **Versions:** 4.68 (1)
@@ -2077,8 +2054,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using handoff
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980)
+#### [Using handoff](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2092,9 +2068,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=37)** So there's one thing to note.
 >
-> **[0:39](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=39)** So this will give you React code if you're building in React.
+> **[0:39](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=39)** So this will give you [[React.js|React]] code if you're building in React.
 >
-> **[0:42](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=42)** You got our screen, right, and then you have our styles or if you're building an HTML or something else, you can get just the style sheets that you need, the CSS.
+> **[0:42](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=42)** You got our screen, right, and then you have our styles or if you're building an [[HTML]] or something else, you can get just the style sheets that you need, the CSS.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/using-handoff?u=76281980&t=51)** So here we can get the background color, you know, on some other components like this.
 >
@@ -2114,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[HTML]] (1)
 > **Env Vars:** css (2), png (1), jpeg (1), pdf (1), html (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** download the (1), template (1)
@@ -2126,8 +2102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you and next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)
+#### [Thank you and next steps](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2137,9 +2112,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=10)** This space is changing and evolving so quickly.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=15)** New tools like Google Stitch bring more competition and options to the space.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=15)** New tools like [[Google]] Stitch bring more competition and options to the space.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=20)** If you want to learn more about design using AI, there are a number of courses here in the LinkedIn Learning Library.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=20)** If you want to learn more about design using AI, there are a number of courses here in the [[LinkedIn]] Learning Library.
 >
 > **[0:26](https://www.linkedin.com/learning/generative-ai-ux-design-with-uizard/thank-you-and-next-steps?u=76281980&t=26)** I have a couple of courses that are particularly relevant.
 >
@@ -2155,7 +2130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[LinkedIn]] (2), [[Google]] (1), product (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 

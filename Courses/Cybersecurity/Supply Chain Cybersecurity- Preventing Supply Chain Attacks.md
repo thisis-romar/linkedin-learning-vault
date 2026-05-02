@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980)
+#### [Securing your supply chain](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,9 +84,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=11)** So, we're going to talk about them.
 >
-> **[0:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=13)** In this LinkedIn Learning Course, we'll discuss bad actors, their motives, how they penetrate supply chains, and some best practices that you can use to prevent that from happening.
+> **[0:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=13)** In this [[LinkedIn]] Learning Course, we'll discuss bad actors, their motives, how they penetrate supply chains, and some best practices that you can use to prevent that from happening.
 >
-> **[0:22](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=22)** I'm Nicole Dove, university lecturer, cybersecurity leader, and podcast host, and over the course of my career I've seen the firsthand impact that these attacks can have on organizations.
+> **[0:22](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=22)** I'm Nicole Dove, university lecturer, [[Cybersecurity]] leader, and podcast host, and over the course of my career I've seen the firsthand impact that these attacks can have on organizations.
 >
 > **[0:33](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/securing-your-supply-chain?u=76281980&t=33)** I've worked with operational leaders and security teams at Fortune 500 companies to help them prevent just that.
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[LinkedIn]] (1), [[Cybersecurity]] (1), career (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Cybersecurity]] (1)
 > **Speakers:** - when (1)
 
 
@@ -103,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threat actors and their motivations
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980)
+#### [Threat actors and their motivations](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -112,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=5)** Our personal and professional recordkeeping has now evolved into the digital realm, as well.
 >
-> **[0:10](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=10)** The amount of bank accounts, financial statements, health records and biometric identifiers that are stored digitally have exponentially increased over the past decade, and with that innovation comes those who are looking to exploit it and you.
+> **[0:10](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=10)** The amount of bank accounts, [[Financial Statements]], health records and biometric identifiers that are stored digitally have exponentially increased over the past decade, and with that innovation comes those who are looking to exploit it and you.
 >
 > **[0:25](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=25)** Who are the people that want this data?
 >
@@ -128,9 +126,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=58)** Some work alone, others work in groups, but they are all motivated by profit, and as their name suggests, commit nefarious acts using technology.
 >
-> **[1:08](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=68)** Common cybercrimes include phishing scams, business email compromise, ransomware, espionage, and identity theft.
+> **[1:08](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=68)** Common cybercrimes include [[Phishing]] scams, business email compromise, ransomware, espionage, and identity theft.
 >
-> **[1:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=78)** One of the biggest risks to a company's cybersecurity is the people who have been granted access to the data, systems, and networks that need to be protected.
+> **[1:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=78)** One of the biggest risks to a company's [[Cybersecurity]] is the people who have been granted access to the data, systems, and networks that need to be protected.
 >
 > **[1:28](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/threat-actors-and-their-motivations?u=76281980&t=88)** Insiders are employees within an organization that use their access maliciously.
 >
@@ -152,13 +150,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Phishing]] (2), [[Financial Statements]] (1), business (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Financial Statements]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** ddos (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - nowadays (1)
 
-#### Emerging cyberattack strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980)
+#### [Emerging cyberattack strategies](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=30)** Malware can crack weak passwords; prevent you from accessing files on your device; allow unauthorized access to system resources; and even steal, encrypt, or delete sensitive data.
 >
-> **[0:42](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=42)** To learn more about advanced malware, payloads, back doors, and botnets, check out some of the LinkedIn Learning courses on malicious software.
+> **[0:42](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=42)** To learn more about advanced malware, payloads, back doors, and botnets, check out some of the [[LinkedIn]] Learning courses on malicious software.
 >
 > **[0:50](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=50)** Passwords are the first line of defense when protecting access to data.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=139)** These attacks usually happen on unsecure networks and are hard to identify, as they typically don't impact network or device functionality.
 >
-> **[2:28](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=148)** According to Fortinet, phishing is a social engineering technique, where bad actors try to persuade, scare, or threaten the receiver to take a specific action or reveal personal information that can lead to a security compromise.
+> **[2:28](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=148)** According to Fortinet, [[Phishing]] is a social engineering technique, where bad actors try to persuade, scare, or threaten the receiver to take a specific action or reveal personal information that can lead to a security compromise.
 >
 > **[2:42](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/emerging-cyberattack-strategies?u=76281980&t=162)** Traditional phishing attacks include email phishing or whaling, which targets executives because of their broad access to trade secrets.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Phishing]] (4), business (2), [[LinkedIn]] (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (4), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), short for (1)
 > **Env Vars:** sms (2)
 > **UI Navigation:** click on (1)
@@ -243,16 +240,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a supply chain attack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980)
+#### [What is a supply chain attack?](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=0)** - Companies work with third-party vendors that provide a lot of products and services.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=0)** - Companies work with third-party vendors that provide a lot of [[Microsoft Products|products]] and services.
 >
 > **[0:04](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=4)** Off the top of my head, payroll, transportation, maintenance, data loss prevention.
 >
-> **[0:11](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=11)** In many cases, these outside vendors need access to a company's data, networks, software or hardware to fulfill their contractual obligations.
+> **[0:11](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=11)** In many cases, these outside vendors need access to a company's data, networks, software or [[Hardware]] to fulfill their contractual obligations.
 >
 > **[0:21](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/what-is-a-supply-chain-attack?u=76281980&t=21)** But once a company provides an outside vendor access to their information and technology ecosystems the vendor's risks are now a part of that company's risk profile and can exponentially increase the organization's attack surface.
 >
@@ -268,11 +264,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Hardware]] (2), [[Microsoft Products|Products]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Products|Products]] (1)
 > **Speakers:** - companies (1)
 
-#### Key elements of a supply chain attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/key-elements-of-a-supply-chain-attack?u=76281980)
+#### [Key elements of a supply chain attack](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/key-elements-of-a-supply-chain-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,12 +309,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Exercise Files:** source code (2)
 > **Speakers:** - in (1)
 
-#### The cost of supply chain attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980)
+#### [The cost of supply chain attacks](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,13 +342,13 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=93)** Its effects are felt far after these attacks are identified.
 >
-> **[1:36](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=96)** Companies, governments, and consumers must take care to contain, resolve, recover from, and invest in preventing future events, which takes tools, people, money, thought leadership and, most importantly, time.
+> **[1:36](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=96)** Companies, governments, and consumers must take care to contain, resolve, recover from, and invest in preventing future events, which takes tools, people, money, [[Thought Leadership]] and, most importantly, time.
 >
 > **[1:50](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=110)** First, the impacted entity needs to discover the extent of the attack, and if the bad actor went unidentified in the network for an extended amount of time, it will likely take time to figure out all they compromised and what additional actions they took while going unnoticed.
 >
-> **[2:07](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=127)** That could take months, but by following a standard repeatable incident response framework, companies are better positioned to prevent incidents from recurring and contain them in a timely fashion if they do so.
+> **[2:07](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=127)** That could take months, but by following a standard repeatable [[Incident Response]] framework, companies are better positioned to prevent incidents from recurring and contain them in a timely fashion if they do so.
 >
-> **[2:20](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=140)** The NIST Incident Response Framework consists of the following phases, preparation, detection and analysis, containment, eradication and recovery, and post-incident activity.
+> **[2:20](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=140)** The [[NIST]] Incident Response Framework consists of the following phases, preparation, detection and analysis, containment, eradication and recovery, and post-incident activity.
 >
 > **[2:32](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=152)** Once the impacted areas have been identified, the organization needs to contain the incident.
 >
@@ -365,7 +358,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=178)** Whether a power grid, medical facility, or a fuel pipeline, supply chain attacks have far-reaching implications for the businesses they infiltrate and the customers they serve, as well as broader communities and governments.
 >
-> **[3:11](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=191)** Protecting these technology ecosystems is not just about sensitive information but how we must all collectively use cybersecurity to protect our society, our livelihood, and our world.
+> **[3:11](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=191)** Protecting these technology ecosystems is not just about sensitive information but how we must all collectively use [[Cybersecurity]] to protect our society, our livelihood, and our world.
 >
 > **[3:23](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/the-cost-of-supply-chain-attacks?u=76281980&t=203)** Depending on the industry and incident, the organization may also have to honor a legal duty to notify its customers and vendors of the incident to help control its reach.
 >
@@ -375,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Incident Response]] (2), [[Thought Leadership]] (1), [[NIST]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Thought Leadership]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** gdp (1), nist (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -385,12 +378,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding your threat environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980)
+#### [Understanding your threat environment](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=0)** - Cybersecurity professionals have many jobs developing secure software, protecting the network, monitoring employee behavior, and many more but bad actors have one job and that's to get their hands on the data that we all work so hard to protect.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=0)** - [[Cybersecurity]] professionals have many jobs developing secure software, protecting the network, monitoring employee behavior, and many more but bad actors have one job and that's to get their hands on the data that we all work so hard to protect.
 >
 > **[0:16](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=16)** A cyber threat is an activity intended to compromise the security of an system by altering the availability, integrity or confidentiality of a system or the information it contains.
 >
@@ -412,7 +404,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=80)** Each new employee represents a new entry point for bad actors.
 >
-> **[1:24](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=84)** Most supply chain attacks stem from successful social engineering, like phishing attacks.
+> **[1:24](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=84)** Most supply chain attacks stem from successful social engineering, like [[Phishing]] attacks.
 >
 > **[1:29](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=89)** While social engineering may not be intentional, an example of an intentional insider threat is an employee who may use their legitimate access to steal, modify or destroy data or share security practices with bad actors in an effort to help them circumvent security controls.
 >
@@ -420,7 +412,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=119)** Threat intelligence teams research and stay current on threats specific to their organization's threat environment.
 >
-> **[2:05](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=125)** These teams gather information from a wide variety of resources, public and private databases, intelligence reports, hacker profiles government organizations and internet groups just to name a few.
+> **[2:05](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=125)** These teams gather information from a wide variety of resources, public and private [[Databases]], intelligence reports, hacker profiles government organizations and internet groups just to name a few.
 >
 > **[2:17](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/understanding-your-threat-environment?u=76281980&t=137)** While there are commercial organizations that offer threat intelligence as a service for a fee, there are many no cost databases like the US National Vulnerability Database or a community managed list of common vulnerabilities and exposures.
 >
@@ -454,14 +446,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (4), [[Security]] (3), [[Engineering]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Cybersecurity]] (1), [[Phishing]] (1)
 > **Exercise Files:** source code (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - cybersecurity (1)
 
-#### Best practices that enhance supply chain security
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980)
+#### [Best practices that enhance supply chain security](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=14)** While some organizations get it wrong, there are some that are getting it right.
 >
-> **[0:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=18)** And in this video, we'll discuss some of the best practices you can use to enhance your supply chain security.
+> **[0:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=18)** And in this video, we'll discuss some of the best practices you can use to enhance your [[Supply Chain Security]].
 >
 > **[0:25](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=25)** First, don't build a supply chain security program focused on just preventing attacks.
 >
@@ -489,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=68)** Never trust and always verify, implementing least privilege, and assume breach.
 >
-> **[1:16](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=76)** If implemented well, zero trust can improve your security environment and enhance user experience.
+> **[1:16](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=76)** If implemented well, zero trust can improve your security environment and enhance [[User Experience (UX)|user experience]].
 >
 > **[1:24](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=84)** What is a zero trust security model?
 >
@@ -501,7 +492,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=106)** For more in-depth information on the zero trust security model, check out some of the courses that go into more detail on its foundational principles and implementation best practices.
 >
-> **[1:58](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=118)** Third, don't discount the importance of continuous learning and security awareness.
+> **[1:58](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=118)** Third, don't discount the importance of continuous learning and [[Security Awareness]].
 >
 > **[2:04](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=124)** Many companies are guilty of investing in lots of security tools and significantly less in the people who are tasked with using them.
 >
@@ -525,7 +516,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=181)** Ensure vulnerabilities are addressed, not only at contract execution, but throughout the vendor's lifecycle.
 >
-> **[3:08](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=188)** New security and privacy regulations are being rolled out constantly.
+> **[3:08](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=188)** New security and [[Privacy]] regulations are being rolled out constantly.
 >
 > **[3:12](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/best-practices-that-enhance-supply-chain-security?u=76281980&t=192)** Understand how they stay up-to-date and partner closely with lower-tier vendors.
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Supply Chain Security]] (4), teams (1), management (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Supply Chain Security]] (4), [[Security Awareness]] (2), [[User Experience (UX)|User experience]] (1), [[Privacy]] (1)
 > **Env Vars:** rfp (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -544,12 +535,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leveraging the NIST cybersecurity framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980)
+#### [Leveraging the NIST cybersecurity framework](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=0)** - [Instructor] Since 2008, the National Institute of Standards and Technology, or NIST, has developed an enhanced cyber supply chain risk management guidance to help organizations of all sizes.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=0)** - [Instructor] Since 2008, the National Institute of Standards and Technology, or [[NIST]], has developed an enhanced cyber supply chain risk management guidance to help organizations of all sizes.
 >
 > **[0:12](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=12)** There are eight key practices that NIST recommends, and you can see them here on the screen.
 >
@@ -563,21 +553,21 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=72)** What I've found is that establishing risk councils are a great way to develop innovative solutions to common problems.
 >
-> **[1:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=78)** Creating a risk council to address supply chain security is a great way to integrate risk into the operations of key functions that are critical to the supply chain lifecycle.
+> **[1:18](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=78)** Creating a risk council to address [[Supply Chain Security]] is a great way to integrate risk into the operations of key functions that are critical to the supply chain lifecycle.
 >
 > **[1:29](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=89)** First, make sure you have the right participants.
 >
-> **[1:32](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=92)** In addition to including product security, development, legal, and procurement, be sure to have the business users of the vendor technology part of the council too.
+> **[1:32](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=92)** In addition to including [[Product Security]], development, legal, and procurement, be sure to have the business users of the vendor technology part of the council too.
 >
 > **[1:42](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=102)** Managing supply chain risk throughout the entire lifecycle is key and being aware of how users are leveraging the technology is an important part of the discussion.
 >
-> **[1:53](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=113)** The risk council should meet regularly and leverage both data-driven and user experience feedback to drive discussions and influence decisions.
+> **[1:53](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=113)** The risk council should meet regularly and leverage both data-driven and [[User Experience (UX)|user experience]] feedback to drive discussions and influence decisions.
 >
-> **[2:02](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=122)** Threat intelligence and incident response teams should provide internal and external information so that the council can determine how to leverage incident history and industry attacks to their advantage.
+> **[2:02](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=122)** Threat intelligence and [[Incident Response]] teams should provide internal and external information so that the council can determine how to leverage incident history and industry attacks to their advantage.
 >
-> **[2:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=133)** The best offense is good defense, and evaluating incident history is a great way to prepare your cybersecurity ecosystem for ever-evolving threat act or activity.
+> **[2:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=133)** The best offense is good defense, and evaluating incident history is a great way to prepare your [[Cybersecurity]] ecosystem for ever-evolving threat act or activity.
 >
-> **[2:23](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=143)** Further, having a council increases security awareness across the organization, as its function aligns business needs, security, and vendor offerings in a thoughtful, proactive way.
+> **[2:23](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=143)** Further, having a council increases [[Security Awareness]] across the organization, as its function aligns business needs, security, and vendor offerings in a thoughtful, proactive way.
 >
 > **[2:36](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=156)** Another common situation I face when working with vendors is evaluating their security posture throughout the partnership lifecycle.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=291)** But we should also extend as much rigor to the offboarding process.
 >
-> **[4:55](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=295)** Vendors who are not removed from your systems or networks can operate like shadow IT, which we all know is a huge security risk.
+> **[4:55](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=295)** Vendors who are not removed from your systems or networks can operate like shadow IT, which we all know is a huge [[Security Risk]].
 >
 > **[5:05](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/leveraging-the-nist-cybersecurity-framework?u=76281980&t=305)** Understanding what data and systems your vendor has access to, the associated service accounts, API calls, and other key factors are critical.
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), business (6), teams (4), [[NIST]] (3), data (3)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Supply Chain Security]] (1), [[Product Security]] (1), [[User Experience (UX)|User experience]] (1), [[Incident Response]] (1)
 > **Env Vars:** nist (3), api (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -639,12 +629,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enhance your incident response strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/enhance-your-incident-response-strategy?u=76281980)
+#### [Enhance your incident response strategy](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/enhance-your-incident-response-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/enhance-your-incident-response-strategy?u=76281980&t=0)** - A robust incident response plan is critical to a cybersecurity ecosystem's ability to prevent and defend against supply chain attacks.
+> **[0:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/enhance-your-incident-response-strategy?u=76281980&t=0)** - A robust [[Incident Response]] plan is critical to a [[Cybersecurity]] ecosystem's ability to prevent and defend against supply chain attacks.
 >
 > **[0:09](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/enhance-your-incident-response-strategy?u=76281980&t=9)** Security incidents happen multiple times a day and not being prepared and positioned to respond appropriately and timely can and will have significant negative consequences for your organization.
 >
@@ -722,13 +711,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (28), [[Incident Response]] (8), teams (5), [[Cybersecurity]] (2), management (2)
+> **Frameworks & Libraries:** [[Incident Response]] (8), [[Cybersecurity]] (2)
 > **Definitions:** is a  (3)
 > **Env Vars:** nis (2)
 > **Speakers:** - a (1)
 
-#### Managing the third-party lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980)
+#### [Managing the third-party lifecycle](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +740,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=77)** For example, if sensitive data is collected, who has access to that data and how it's gathered, processed, stored, and eliminated are of importance when assessing third-party risk.
 >
-> **[1:28](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=88)** Once the third-party risk team understands these key elements, they may request additional assessments be performed by other security teams, like application security, privacy, or compliance.
+> **[1:28](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=88)** Once the third-party risk team understands these key elements, they may request additional assessments be performed by other security teams, like [[Application Security]], [[Privacy]], or compliance.
 >
 > **[1:43](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=103)** It's not uncommon for these teams to identify less than ideal security practices at vendors.
 >
@@ -764,7 +752,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=147)** This will dictate how often the vendor security is assessed, and may even drive the scope of internal policies, baselines and standards that the vendor must comply with.
 >
-> **[2:37](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=157)** Many organizations use weighted formulas to determine a vendor's risk level, and these formulas can vary by industry, cost and data classification.
+> **[2:37](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=157)** Many organizations use weighted formulas to determine a vendor's risk level, and these formulas can vary by industry, cost and [[Data Classification]].
 >
 > **[2:45](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=165)** It all depends on what is most important to their business.
 >
@@ -784,9 +772,9 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=233)** If the services being provided by the vendor are not technology-related, it's not uncommon that this person is not a security professional.
 >
-> **[4:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=240)** However, as a best practice, a key cybersecurity professional should identify key vendors and work with the relationship managers to ensure cybersecurity risks are actively managed throughout the life cycle.
+> **[4:00](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=240)** However, as a best practice, a key [[Cybersecurity]] professional should identify key vendors and work with the relationship managers to ensure cybersecurity risks are actively managed throughout the life cycle.
 >
-> **[4:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=253)** For example, if your company's security operations team is notified of a security incident and identifies the root cause to be associated with the vendor, the vendor relationship manager should be notified.
+> **[4:13](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=253)** For example, if your company's [[Security Operations]] team is notified of a security incident and identifies the root cause to be associated with the vendor, the vendor relationship manager should be notified.
 >
 > **[4:25](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/managing-the-third-party-lifecycle?u=76281980&t=265)** The relationship manager would notify the vendor and work with their cybersecurity team to resolve the root cause and implement controls at the vendor, your company, or both, that will reduce the risk of the incident happening again.
 >
@@ -804,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), data (6), teams (5), management (5), [[Cybersecurity]] (3)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Application Security]] (1), [[Privacy]] (1), [[Data Classification]] (1), [[Security Operations]] (1)
 > **Best Practices:** best practice (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -818,8 +806,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing to prevent supply chain attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/continuing-to-prevent-supply-chain-attacks?u=76281980)
+#### [Continuing to prevent supply chain attacks](https://www.linkedin.com/learning/supply-chain-cybersecurity-preventing-supply-chain-attacks/continuing-to-prevent-supply-chain-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +834,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), data (3), management (2), [[Engineering]] (1)
 > **Speakers:** - when (1)
 
 

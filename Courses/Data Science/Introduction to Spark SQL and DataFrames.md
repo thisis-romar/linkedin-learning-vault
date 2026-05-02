@@ -87,50 +87,48 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apache Spark SQL and data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980)
+#### [Apache Spark SQL and data analysis](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=0)** - [Dan] Apache Spark and SQL are both widely used for data analysis and data science.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=0)** - [Dan] [[Apache Spark]] and [[SQL]] are both widely used for data analysis and [[Data Science]].
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=5)** Hello and welcome to this course, Introduction to Spark SQL and DataFrames.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=10)** In this course, we're going to introduce dataframes, a foundational data structure in Apache Spark, as well as in the widely used Pandas library and Python.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=10)** In this course, we're going to introduce dataframes, a foundational data structure in Apache Spark, as well as in the widely used [[Pandas (Software)|Pandas]] library and [[Python (Programming Language)|Python]].
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=19)** You'll learn about basic operations like filtering and aggregating, using both the Dataframe API and SQL.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=26)** You'll also learn more advanced techniques like joining data, eliminating duplicates, and understanding how to work with null values.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=32)** We'll also develop techniques for exploratory data analysis, including analyzing time series data, using clustering, and applying linear regression.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=32)** We'll also develop techniques for exploratory data analysis, including analyzing time series data, using clustering, and applying [[Linear Regression]].
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/apache-spark-sql-and-data-analysis-21043116?u=76281980&t=41)** So join us now to learn about Apache Spark, SQL, and how to do data analysis with the two of them together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (4), [[Apache Spark]] (3), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Apache Spark]] (3), [[Data Science]] (1), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** sql (4), api (1)
 > **CLI Commands:** apache (3), python (1)
 > **Speakers:** - [dan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=0)** - [Instructor] Now, I make some assumptions about background knowledge.
 >
-> **[0:03](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=3)** I assume that you're familiar with SQL, at least the SELECT statement within SQL.
+> **[0:03](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=3)** I assume that you're familiar with [[SQL]], at least the SELECT statement within SQL.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=8)** We'll be using that quite a bit and I won't go into a lot of introductory comments about the structure of SELECT statements.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=14)** I also assume you're familiar with Python programming or at least able to read Python code.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=14)** I also assume you're familiar with [[Python (Programming Language)|Python]] programming or at least able to read Python code.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/what-you-should-know?u=76281980&t=19)** And then finally, I assume you're comfortable working with the command line, in particular, navigating between directories, running commands and using an editor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** sql (2), select (2)
 > **CLI Commands:** python (2), make (1)
 > **SQL:** select (2)
@@ -142,28 +140,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980)
+#### [Introduction to DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=0)** - [Instructor] In this course we'll be using Spark, which is a platform for distributed data processing.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=0)** - [Instructor] In this course we'll be using Spark, which is a platform for distributed [[Data Processing]].
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=6)** And it's particularly well-suited for dealing with very large data sets, such as data sets that are so large they don't readily fit within the memory or capacity of a single server.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=16)** Spark has a modular architecture.
 >
-> **[0:19](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=19)** There's the core platform, which is called Apache Spark Core.
+> **[0:19](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=19)** There's the core platform, which is called [[Apache Spark]] Core.
 >
 > **[0:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=22)** And then there are a number of modules, which run on top of the core platform.
 >
-> **[0:27](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=27)** We're going to talk mostly about Spark SQL.
+> **[0:27](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=27)** We're going to talk mostly about Spark [[SQL]].
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=30)** In the last section of the course, we'll also look at a couple of machine learning libraries.
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=35)** Spark Streaming and GraphX are other modules in the Spark architecture, but they're outside the scope of this course.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=41)** Now, Spark supports multiple languages, including Scala, Java, Python, and R.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=41)** Now, Spark supports multiple languages, including [[Scala]], [[Java]], [[Python (Programming Language)|Python]], and R.
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=48)** We'll be using Python here.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=59)** The columns have names, and the rows have a schema.
 >
-> **[1:03](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=63)** So in this way, they're very similar or analogous to tables in relational databases.
+> **[1:03](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=63)** So in this way, they're very similar or analogous to tables in [[Relational Databases]].
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/introduction-to-dataframes?u=76281980&t=68)** Here's an example of some data in a DataFrame.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (2), database (2), [[Apache Spark]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Processing]] (1), [[Apache Spark]] (1), [[SQL]] (1), [[Scala]] (1)
 > **Analogies:** for example (2), such as (1), analogous to (1)
 > **CLI Commands:** python (2), apache (1)
 > **Env Vars:** sql (1), cpu (1)
@@ -212,8 +209,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL for DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980)
+#### [SQL for DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,9 +229,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=35)** Now I also want to display the results, so I use the .show method.
 >
-> **[0:40](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=40)** Now, like in SQL, you can do things like group by a particular column.
+> **[0:40](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=40)** Now, like in [[SQL]], you can do things like group by a particular column.
 >
-> **[0:44](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=44)** So in this example, I have a DataFrame called df, I'm applying the group by method, and I'm telling PySpark that I want to group by the server ID.
+> **[0:44](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=44)** So in this example, I have a DataFrame called df, I'm applying the group by method, and I'm telling [[PySpark]] that I want to group by the server ID.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sql-for-dataframes?u=76281980&t=53)** And after I do the grouping, I'd like to do a count, so I'd like to count the number of rows in each group.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), api (1), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[PySpark]] (1)
 > **Env Vars:** sql (6), cpu (2), api (1)
 > **Analogies:** similar to (2), for example (1)
 > **File Paths:** spark.sql (1)
@@ -281,12 +277,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980)
+#### [Install Spark](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=0)** - [Instructor] Okay, let's download Apache Spark.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=0)** - [Instructor] Okay, let's download [[Apache Spark]].
 >
 > **[0:02](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=2)** Now, on this page we can download Apache Spark and it's a couple step process.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=24)** I'm going to select the one that is enabled by default and those two options, when we choose the Spark release and the package type, that will provide us then with a link to download a particular version of Apache Spark, and we can just click on the download.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=41)** And so what happened was I downloaded a G-zipped file which contains Apache Spark and I double clicked on it, or when I clicked on it after it downloaded, that triggered an unpacking or an unzipping of that file, and now I have a folder called Spark 3.5.0 bin Hadoop 3.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=41)** And so what happened was I downloaded a G-zipped file which contains Apache Spark and I double clicked on it, or when I clicked on it after it downloaded, that triggered an unpacking or an unzipping of that file, and now I have a folder called Spark 3.5.0 bin [[Hadoop]] 3.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=62)** That's a pretty long-winded name so I'm going to rename this simply to Spark.
 >
@@ -324,7 +319,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=133)** And if I do a list on Bash profile, I'll see that I have a Bash profile and that file I've opened in an editor.
 >
-> **[2:24](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=144)** And so this Bash profile currently just has some information about how to set up my Anaconda environment, which I use for Python.
+> **[2:24](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=144)** And so this Bash profile currently just has some information about how to set up my Anaconda environment, which I use for [[Python (Programming Language)|Python]].
 >
 > **[2:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-spark-21043117?u=76281980&t=152)** What I'd like to do is add some environment variables to make it easier to work with Py Spark and with Spark.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (4), cd (3), [[Python (Programming Language)|Python]] (3), [[Hadoop]] (1), next (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (4), [[Python (Programming Language)|Python]] (3), [[Hadoop]] (1)
 > **CLI Commands:** apache (4), cd (3), python (3), make (3), cat (1)
 > **Tools:** bash (10), terminal (1), anaconda (1)
 > **UI Navigation:** select the (2), click on (1), go to (1)
@@ -375,12 +370,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), next video (1)
 > **Exercise Files:** exercise files (1)
 
-#### Install PySpark
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-pyspark-21042116?u=76281980)
+#### [Install PySpark](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-pyspark-21042116?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-pyspark-21042116?u=76281980&t=0)** - [Instructor] Okay, we've already installed Spark, but we also need to install PySpark and to do that we can use the Python package installer, pip.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-pyspark-21042116?u=76281980&t=0)** - [Instructor] Okay, we've already installed Spark, but we also need to install [[PySpark]] and to do that we can use the [[Python (Programming Language)|Python]] package installer, pip.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/install-pyspark-21042116?u=76281980&t=9)** So we can save pip, install PySpark and this will give us the Python environment that we will use to work with Spark.
 >
@@ -399,8 +393,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using Jupyter notebooks with PySpark
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980)
+#### [Using Jupyter notebooks with PySpark](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,9 +401,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=13)** Now I already have it installed, but if you don't, then this would download and install the Jupyter files for you.
 >
-> **[0:20](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=20)** Okay, let's work with PySpark.
+> **[0:20](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=20)** Okay, let's work with [[PySpark]].
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=22)** So I've opened a terminal window and I've navigated to my working directory, which in this case, is in my home directory under LinkedIn Learning and I simply call it Spark SQL.
+> **[0:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=22)** So I've opened a terminal window and I've navigated to my working directory, which in this case, is in my home directory under [[LinkedIn]] Learning and I simply call it Spark [[SQL]].
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=30)** I can start PySpark by typing the PySpark command and this will start Jupyter Notebook for me and you'll notice when Jupyter Notebooks open, it lists the contents of the directory, so there are some data files and some IPYNB files.
 >
@@ -420,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=61)** What I would like to do is just show you what a basic Jupyter Notebook looks like.
 >
-> **[1:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=65)** So I'm going to mouse over to the upper right and I'm going to click on the new button and I'm going to select Python 3.
+> **[1:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=65)** So I'm going to mouse over to the upper right and I'm going to click on the new button and I'm going to select [[Python (Programming Language)|Python]] 3.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/using-jupyter-notebooks-with-pyspark?u=76281980&t=71)** Now, Jupyter Notebooks also work with Scylla, so if you have Scylla installed, you might see it in the list.
 >
@@ -456,7 +449,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (3), [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (1), [[SQL]] (1)
 > **Tools:** jupyter (12), terminal (2)
 > **CLI Commands:** python (3), pip (1)
 > **Env Vars:** ipynb (3), sql (1)
@@ -470,16 +463,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up a Jupyter notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980)
+#### [Set up a Jupyter notebook](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=0)** - [Instructor] All right, I have opened a terminal, and I've navigated to my working directory, which is just in my Spark SQL directory, I've created one called work.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=0)** - [Instructor] All right, I have opened a terminal, and I've navigated to my working directory, which is just in my Spark [[SQL]] directory, I've created one called work.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=8)** And I'll just list the files, showing it's empty right now.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=12)** So now I'm going to run PySpark, this will start a Jupyter notebook for me.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=12)** So now I'm going to run [[PySpark]], this will start a Jupyter notebook for me.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/set-up-a-jupyter-notebook?u=76281980&t=18)** Now because the directory's empty, I don't have any notebooks here, so I'm going to create a new notebook, and I'm going to use Python3, and the first thing I want to do is load some data.
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[PySpark]] (4), [[SQL]] (3)
+> **Frameworks & Libraries:** [[PySpark]] (4), [[SQL]] (3)
 > **Env Vars:** sql (2)
 > **Tools:** terminal (1), jupyter (1)
 > **Prerequisites:** setup (1), set up (1)
@@ -510,8 +502,7 @@ created: 2026-05-02
 > **Code Identifiers:** getorcreate (1)
 > **Versions:** version 2 (1)
 
-#### Load data into DataFrames: CSV Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-csv-files?u=76281980)
+#### [Load data into DataFrames: CSV Files](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +670,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), hit (6), next (3)
 > **Code Identifiers:** file_path_no_header (3), withcolumnrenamed (3), location_temp (2), event_date (2), location_id (2)
 > **Env Vars:** csv (6)
 > **File Paths:** utilization.csv (2), location_temp.csv (1)
@@ -688,8 +678,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load data into DataFrames: JSON Files
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980)
+#### [Load data into DataFrames: JSON Files](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,13 +686,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=6)** I called it simply 03.01 Loading csv files into dataframes.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=11)** And now I'm going to create a new Notebook, also with Python 3.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=11)** And now I'm going to create a new Notebook, also with [[Python (Programming Language)|Python]] 3.
 >
-> **[0:16](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=16)** And, in this example, I'd like to show you how to read a json file.
+> **[0:16](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=16)** And, in this example, I'd like to show you how to read a [[JSON]] file.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=20)** Now, the formats going to be pretty similar.
 >
-> **[0:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=22)** For example, the first thing we want to do is import from pyspark.sql and we want to import SparkSession
+> **[0:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=22)** For example, the first thing we want to do is import from [[PySpark]].[[SQL]] and we want to import SparkSession
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/load-data-into-dataframes-json-files?u=76281980&t=34)** and then we want to create a spark context which is the variable again that gives us a reference point for communicating and manipulating the cluster.
 >
@@ -757,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), data (5), hit (2), [[Python (Programming Language)|Python]] (1), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Python (Programming Language)|Python]] (1), [[PySpark]] (1), [[SQL]] (1)
 > **Code Identifiers:** getorcreate (1), cpu_utilization (1), free_memory (1), server_id (1)
 > **Versions:** 03.01 (1), python 3 (1), 0.22 (1), 03.02 (1)
 > **Analogies:** for example (2), similar to (1)
@@ -766,8 +755,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **UI Navigation:** click on (1)
 
-#### Basic DataFrame operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980)
+#### [Basic DataFrame operations](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +769,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980&t=20)** So each of the exercise files will have all of the commands that are needed to load the data that is required for that particular exercise.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980&t=28)** In this case, I have our JSON file with the utilization data already loaded.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980&t=28)** In this case, I have our [[JSON]] file with the utilization data already loaded.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-dataframe-operations?u=76281980&t=33)** Let's just take a quick look at that.
 >
@@ -861,7 +849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JSON]] (1), hit (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Versions:** 0.1 (1)
 > **Exercise Files:** exercise files (1)
@@ -869,8 +857,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data with DataFrame API
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filter-data-with-dataframe-api?u=76281980)
+#### [Filter data with DataFrame API](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filter-data-with-dataframe-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,14 +915,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), data (1), [[Programming]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate data with DataFrame API
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980)
+#### [Aggregate data with DataFrame API](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,7 +962,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=120)** I'll do that by referencing the data frame, df1.
 >
-> **[2:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=125)** Now I'd like to get the average by location_id so I'm going to groupBy location_id so that tells PySpark how I want to group the data.
+> **[2:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=125)** Now I'd like to get the average by location_id so I'm going to groupBy location_id so that tells [[PySpark]] how I want to group the data.
 >
 > **[2:15](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=135)** And now I want to give it an aggregate function and I specify the aggregate method or agg.
 >
@@ -987,7 +972,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=154)** And the thing that I want to do to temp.celsius is find the average or the mean.
 >
-> **[2:38](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=158)** Now in the case of PySpark we use the word mean so I'm going to specify that.
+> **[2:38](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=158)** Now in the case of PySpark we use the [[Microsoft Word|word]] mean so I'm going to specify that.
 >
 > **[2:43](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregate-data-with-dataframe-api?u=76281980&t=163)** So now what I've done is, on the data frame df1, I've said that I want to group by the location_id and then for each one of those individual groups of locations, I want to find the mean of the column called temperature Celsius.
 >
@@ -1011,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[PySpark]] (2), api (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PySpark]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** location_id (6), groupby (3), orderby (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1), such as (1)
@@ -1020,8 +1005,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sample data from DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980)
+#### [Sample data from DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980&t=104)** So we got 50,201, so it's not exactly 10%, which is what we specified in our fraction, but it's pretty close, so you can just keep that in mind, this is approximate, not an exact count when you specify a fraction.
 >
-> **[1:57](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980&t=117)** So let's run some simple descriptive statistics on our sample.
+> **[1:57](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980&t=117)** So let's run some simple descriptive [[Statistics]] on our sample.
 >
 > **[2:01](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/sample-data-from-dataframes?u=76281980&t=121)** Use df1_s1, and let's group by location ID.
 >
@@ -1091,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Versions:** 0.1 (1), 29.34 (1), 29.18 (1), 28.14 (1), 28.24 (1)
 > **CLI Commands:** find (3), make (1)
 > **Code Identifiers:** temp_celsius (2)
@@ -1099,8 +1083,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save data from DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980)
+#### [Save data from DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1124,7 +1107,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=60)** So I can do things like ls for list, and then specify df1.csv.
 >
-> **[1:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=67)** And in Windows, you would use the D-I-R command.
+> **[1:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=67)** And in [[Windows]], you would use the D-I-R command.
 >
 > **[1:11](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=71)** And then we'll return.
 >
@@ -1158,7 +1141,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=133)** And what we see here is that we have our data, a timestamp, a location, and a measurement, and it's in comma-separated format.
 >
-> **[2:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=142)** Now, if we want to use JSON as our format, that is just as simple to write out by using the name of the DataFrame, specifying the write method, and then using the JSON method.
+> **[2:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=142)** Now, if we want to use [[JSON]] as our format, that is just as simple to write out by using the name of the DataFrame, specifying the write method, and then using the JSON method.
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/save-data-from-dataframes?u=76281980&t=156)** And let's call this df1.json.
 >
@@ -1184,7 +1167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[Windows]] (1)
 > **File Paths:** df1.csv (4), df1.json (3)
 > **Env Vars:** json (4)
 > **Definitions:** is a  (2), is called (1)
@@ -1197,14 +1180,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying DataFrames with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980)
+#### [Querying DataFrames with SQL](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=0)** - [Instructor] Up to now, we've been using the Spark DataFrame API to work with DataFrames.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=6)** Now, we're going to switch gears and we're going to work with SQL.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=6)** Now, we're going to switch gears and we're going to work with [[SQL]].
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=10)** In particular, we're going to use Spark SQL for working with DataFrames.
 >
@@ -1212,13 +1194,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=18)** Let's just quickly go through the steps that are involved with that.
 >
-> **[0:21](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=21)** First, I import a pyspark library that allows us to work with SQL.
+> **[0:21](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=21)** First, I import a [[PySpark]] library that allows us to work with SQL.
 >
 > **[0:26](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=26)** I create a Spark session global variable which allows us to work with a distributed Spark session.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=32)** Then I've defined a string that points to my directory which holds my data.
 >
-> **[0:36](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=36)** And then, I create another string which points to the file I want to load, and then I execute a Spark read command specifying the JSON format.
+> **[0:36](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=36)** And then, I create another string which points to the file I want to load, and then I execute a Spark read command specifying the [[JSON]] format.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/querying-dataframes-with-sql?u=76281980&t=46)** And then finally, I've listed out the first 10 rows of this DataFrame, which I called df.
 >
@@ -1290,21 +1272,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (4), api (1), [[PySpark]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[PySpark]] (1), [[JSON]] (1)
 > **Env Vars:** sql (9), select (2), api (1), json (1), cpu (1)
 > **Code Identifiers:** createorreplacetempview (2), df_sql (2), server_id (2), session_count (2)
 > **SQL:** select (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering DataFrames with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980)
+#### [Filtering DataFrames with SQL](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980&t=0)** - [Instructor] Next, we're going to take a look at how to filter data frames using Spark SQL.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980&t=0)** - [Instructor] Next, we're going to take a look at how to filter data frames using Spark [[SQL]].
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980&t=6)** So I've started a new workbook, I've imported the SQL library from PySpark, I've created a Spark session, and then loaded my data from the JSON file.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980&t=6)** So I've started a new workbook, I've imported the SQL library from [[PySpark]], I've created a Spark session, and then loaded my data from the [[JSON]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/filtering-dataframes-with-sql?u=76281980&t=15)** Again, we're using the utilization data, which includes measurements on CPU utilization, free memory, and session count, and that's organized by time and by server ID.
 >
@@ -1392,7 +1373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (15), data (10), database (3), next (1), [[PySpark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (15), [[PySpark]] (1), [[JSON]] (1)
 > **Env Vars:** sql (15), cpu (2), json (1)
 > **Code Identifiers:** df_sql (3)
 > **Analogies:** for example (2), such as (1)
@@ -1400,12 +1381,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregating Data with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregating-data-with-sql?u=76281980)
+#### [Aggregating Data with SQL](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregating-data-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregating-data-with-sql?u=76281980&t=0)** - [Instructor] When we work with Sequel in databases, we often use Sequel to perform aggregations and the same holds true when working with Sequel in Spark.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregating-data-with-sql?u=76281980&t=0)** - [Instructor] When we work with Sequel in [[Databases]], we often use Sequel to perform aggregations and the same holds true when working with Sequel in Spark.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/aggregating-data-with-sql?u=76281980&t=8)** So once again, I've started a new Jupyter Notebook, and I've loaded data from our Utilization file, and that utilization includes CPU utilization, free memory, and session count, those are the measures, and we organize those by time and by server ID.
 >
@@ -1437,7 +1417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** cpu (1)
 > **Cross-References:** go back to (1)
@@ -1445,12 +1425,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Joining DataFrames with SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980)
+#### [Joining DataFrames with SQL](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=0)** - [Instructor] One of the most useful features of SQL is the ability to join tables.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=0)** - [Instructor] One of the most useful features of [[SQL]] is the ability to join tables.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=5)** We can join in Spark SQL as well.
 >
@@ -1482,7 +1461,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=93)** So this server has two columns, a server ID, which numbers that we've seen before like 100, 101, 102 and a server name.
 >
-> **[1:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=101)** And the server's name is simply the concatenation of the server ID and the word server.
+> **[1:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=101)** And the server's name is simply the concatenation of the server ID and the [[Microsoft Word|word]] server.
 >
 > **[1:46](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=106)** So let's create an accessible SQL table by specifying df server create or replace temp view and we'll call this server name.
 >
@@ -1530,7 +1509,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=248)** And that join is going to be on the server name, server ID equal to the utilization server ID.
 >
-> **[4:23](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=263)** So this looks just like a SQL statement that you would put into a Postgres database.
+> **[4:23](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=263)** So this looks just like a SQL statement that you would put into a [[PostgreSQL|Postgres]] database.
 >
 > **[4:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/joining-dataframes-with-sql?u=76281980&t=268)** Now, what I'd like to do is, now that I have my aliases defined, I've showed you where they are, I'm going to just type in the names of the columns I'd like to get back.
 >
@@ -1558,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), data (6), [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Microsoft Word|Word]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (9)
 > **File Paths:** name.csv (1)
 > **Tools:** jupyter (1)
@@ -1567,8 +1546,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 
-#### Eliminating duplicates in DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980)
+#### [Eliminating duplicates in DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1578,7 +1556,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980&t=7)** Now, our data files that we've been working with the location and temperature data in our utilization files don't have any duplicate data, so we'll take this as an opportunity to also look at how we can create small data sets to work with within our Jupiter Notebook session.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980&t=24)** So, the first thing I want to do, is import some code that we'll need from the PySpark SQL package, so I'll specify from PySpark dot SQL import the row package, and we have that.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980&t=24)** So, the first thing I want to do, is import some code that we'll need from the [[PySpark]] [[SQL]] package, so I'll specify from PySpark dot SQL import the row package, and we have that.
 >
 > **[0:39](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/eliminating-duplicates-in-dataframes?u=76281980&t=39)** And, now what I'm going to do, is I'm going to create a data frame and I'm going to do that by entering data manually here in the notebook and I'm going to call this data frame dup because it's going to have duplicate data in there.
 >
@@ -1642,15 +1620,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[PySpark]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[PySpark]] (2), [[SQL]] (2)
 > **Env Vars:** cpu (7), sql (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with NA values in DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/working-with-na-values-in-dataframes?u=76281980)
+#### [Working with NA values in DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/working-with-na-values-in-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,7 +1687,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), next (2), api (1)
 > **Env Vars:** df2 (5), df_na (2), cpu (1), api (1)
 > **CLI Commands:** find (2)
 > **Tools:** jupyter (2)
@@ -1723,12 +1699,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploratory data analysis with DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980)
+#### [Exploratory data analysis with DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=0)** - [Instructor] Now that we've seen, how to work with Spark data frames, using the data frame API and Spark SQL we can now start to look at how we use those tools for some higher level tasks, like exploratory data analysis and machine learning.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=0)** - [Instructor] Now that we've seen, how to work with Spark data frames, using the data frame API and Spark [[SQL]] we can now start to look at how we use those tools for some higher level tasks, like exploratory data analysis and machine learning.
 >
 > **[0:17](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=17)** So in this video we'll look at how to use the data frame API for some basic exploratory data analysis with the utilization data we've looked at previously.
 >
@@ -1738,7 +1713,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=68)** It should be 500,000 and it is so we're all set.
 >
-> **[1:12](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=72)** Now the first thing I'd like to show you is an API command called describe, and you can describe a data frame by specifying the data frame name followed by describe, and show, and what this does it actually produces another data frame with summary statistics about the data frame.
+> **[1:12](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=72)** Now the first thing I'd like to show you is an API command called describe, and you can describe a data frame by specifying the data frame name followed by describe, and show, and what this does it actually produces another data frame with summary [[Statistics]] about the data frame.
 >
 > **[1:34](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-dataframes?u=76281980&t=94)** For example, in this case we see that there are several columns, there's a summary column, followed by the name of a column in the original data frame.
 >
@@ -1816,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), api (3), [[Statistics]] (3), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[SQL]] (2)
 > **Env Vars:** cpu (4), api (3), sql (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for example (4)
@@ -1824,14 +1799,13 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploratory data analysis with Spark SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980)
+#### [Exploratory data analysis with Spark SQL](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=0)** - [Instructor] Now, we saw how we could get things like the count the mean standard deviation using the DataFrame API.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=7)** Let's do that with Spark SQL.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=7)** Let's do that with Spark [[SQL]].
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=9)** And to do that, we'll specify Spark SQL, and then we'll give it a command.
 >
@@ -1847,7 +1821,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=86)** So to do that I can continue in line and specify in GROUP BY, and we want to group by server ID.
 >
-> **[1:38](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=98)** And now we have those same statistics, the min, the max, and the standard deviation, but now they apply to each of the server IDs.
+> **[1:38](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=98)** And now we have those same [[Statistics]], the min, the max, and the standard deviation, but now they apply to each of the server IDs.
 >
 > **[1:47](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/exploratory-data-analysis-with-spark-sql?u=76281980&t=107)** What I forgot to do, though, is include the server IDs.
 >
@@ -1897,7 +1871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[SQL]] (2), [[Statistics]] (2), api (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Statistics]] (2)
 > **Env Vars:** cpu (10), sql (2), api (1), select (1), group (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1906,8 +1880,7 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **UI Navigation:** go to (1)
 
-#### Timeseries analysis with DataFrames
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980)
+#### [Timeseries analysis with DataFrames](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=25)** So that makes it easier to work with in some ways.
 >
-> **[0:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=28)** So what I'm now doing is loading the data, and I'm going to load the utilization data and I've also created the utilization table so we can work with Spark SQL right away.
+> **[0:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=28)** So what I'm now doing is loading the data, and I'm going to load the utilization data and I've also created the utilization table so we can work with Spark [[SQL]] right away.
 >
 > **[0:40](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=40)** Okay so we're going to start with Spark SQL and let's create a select statement and let's select the server ID and then we'll get the min of CPU utilization and the max of CPU utilization and the standard deviation of CPU utilization, and let's continue this on the next line and of course this will be from the utilization table, and let's group by server ID.
 >
@@ -1979,7 +1952,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=342)** That's the average server util column and now we've added a fifth column which is the difference between the CPU utilization on that row, and the average for that particular server.
 >
-> **[5:55](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=355)** So let's see what that looks like, and actually before I do that I'm going to rename this to SQL window2 and I need to add a comma here and the rest looks correct.
+> **[5:55](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=355)** So let's see what that looks like, and actually before I do that I'm going to rename this to SQL window2 and I need to add a comma here and the [[Representational State Transfer (REST)|rest]] looks correct.
 >
 > **[6:08](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/timeseries-analysis-with-dataframes?u=76281980&t=368)** So now we've defined SQL window2 so let's take a look at it.
 >
@@ -2029,7 +2002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[SQL]] (12), next (5), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cpu (27), sql (12)
 > **Analogies:** for example (5)
 > **Ports:** :06 (1), :11 (1), :21 (1)
@@ -2038,8 +2011,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic machine learning with DataFrames, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980)
+#### [Basic machine learning with DataFrames, part 1](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2057,7 +2029,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=28)** We're also going to use some code from the machine learning package.
 >
-> **[0:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=32)** So the first thing I did before loading the data was I imported of course, our pyspark SQL so we can have our Spark sessions.
+> **[0:32](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=32)** So the first thing I did before loading the data was I imported of course, our [[PySpark]] [[SQL]] so we can have our Spark sessions.
 >
 > **[0:41](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=41)** I also imported three libraries from the ml package.
 >
@@ -2065,7 +2037,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=48)** And I'll explain each of those as we go through.
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=50)** And then I went through our usual steps to upload our utilization data from a JSON file into a dataframe called df_util.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=50)** And then I went through our usual steps to upload our utilization data from a [[JSON]] file into a dataframe called df_util.
 >
 > **[0:58](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=58)** So let's take a quick look at df_util, just so we're familiar with what the data looks like.
 >
@@ -2141,7 +2113,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=262)** We now have the data that we want to use in our clustering algorithm all combined into a single column called features.
 >
-> **[4:29](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=269)** And the reason we did that is because the machine learning algorithms in the Spark ml packages expect the input data to be in a single vector.
+> **[4:29](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=269)** And the reason we did that is because the machine learning [[Algorithms]] in the Spark ml packages expect the input data to be in a single vector.
 >
 > **[4:39](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-1?u=76281980&t=279)** And now the machine learning algorithm we're going to use is called kmeans.
 >
@@ -2191,7 +2163,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Algorithms]] (2), [[PySpark]] (1), [[SQL]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[PySpark]] (1), [[SQL]] (1), [[JSON]] (1)
 > **Env Vars:** cpu (7), sql (1), json (1)
 > **Code Identifiers:** df_util (4), inputcols (1), outputcol (1)
 > **Definitions:** is called (2), stands for (2)
@@ -2200,12 +2172,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic machine learning with DataFrames, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980)
+#### [Basic machine learning with DataFrames, part 2](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=0)** - [Instructor] We're going to look at another commonly used machine learning technique or data science or statistics technique called linear regression.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=0)** - [Instructor] We're going to look at another commonly used machine learning technique or [[Data Science]] or [[Statistics]] technique called [[Linear Regression]].
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=7)** Linear regression is useful when you have data in which you believe you can make predictions about one variable using knowledge about another variable.
 >
@@ -2311,11 +2282,11 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=319)** So this is the basics of how you can go about using a data frame to create a linear model, and then use that linear model to calculate coefficients and intercepts of a line and then to understand how well that line fits the data by looking at the root mean squared error.
 >
-> **[5:36](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=336)** And if you'd like more information on linear models then I suggest you look up my course on advanced SQL for data science and also the course on using SQL for exploratory data analysis.
+> **[5:36](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/basic-machine-learning-with-dataframes-part-2?u=76281980&t=336)** And if you'd like more information on linear models then I suggest you look up my course on advanced [[SQL]] for data science and also the course on using SQL for exploratory data analysis.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Linear Regression]] (10), feature (2), [[SQL]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Data Science]] (2), [[SQL]] (2), [[Statistics]] (1)
 > **Env Vars:** cpu (5), sql (2)
 > **CLI Commands:** make (3)
 > **Versions:** 47.02 (1), 40.417 (1)
@@ -2329,16 +2300,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=0)** - [Dan] Now that we've concluded our look at Spark SQL and data frames, you can continue to follow-up on both Spark and SQL with other courses in the library.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=0)** - [Dan] Now that we've concluded our look at Spark [[SQL]] and data frames, you can continue to follow-up on both Spark and SQL with other courses in the library.
 >
 > **[0:10](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=10)** If you're interested in Spark and machine learning, I suggest you look into my course on Spark for AI and machine learning.
 >
-> **[0:18](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=18)** If you're interested in data science, I suggest you look at my advanced course on SQL for data science, which covers topics like windowing and other advanced SQL functions.
+> **[0:18](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=18)** If you're interested in [[Data Science]], I suggest you look at my advanced course on SQL for data science, which covers topics like windowing and other advanced SQL functions.
 >
 > **[0:29](https://www.linkedin.com/learning/introduction-to-spark-sql-and-dataframes/next-steps?u=76281980&t=29)** Also, Spark and SQL are both commonly used for data exploration and data analysis.
 >
@@ -2346,7 +2316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (6), data (6), ai (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Data Science]] (2)
 > **Env Vars:** sql (6)
 > **Speakers:** - [dan] (1)
 

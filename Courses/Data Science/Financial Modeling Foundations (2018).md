@@ -107,8 +107,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using Excel for financial modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980)
+#### [Using Excel for financial modeling](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=2)** I'm a professor of finance, a frequent consultant to industry, and a Wall Street veteran.
 >
-> **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=7)** In this course on financial modeling, I want to show you how to build financial models for use in corporate finance investments and banking.
+> **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=7)** In this course on [[Financial Modeling]], I want to show you how to build financial models for use in [[Corporate Finance]] investments and [[Banking]].
 >
 > **[0:16](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=16)** We're going to learn how to do financial forecasts in a model to understand where a firm is headed in the future.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=28)** Finally, we're going to learn how to update our models to make them easier to read, avoid problems like circular references, and build in advanced tools like scenario analysis.
 >
-> **[0:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=40)** All of this will be done through the lens of Excel, the key tool in finance.
+> **[0:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=40)** All of this will be done through the lens of [[Microsoft Excel|Excel]], the key tool in finance.
 >
 > **[0:46](https://www.linkedin.com/learning/financial-modeling-foundations-2018/using-excel-for-financial-modeling?u=76281980&t=46)** If you're a premium member, there are exercise files available for the course that'll enrich your learning.
 >
@@ -137,14 +136,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [mike] (1)
 
-#### What you should know before watching this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980)
+#### [What you should know before watching this course](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Narrator] This course is intended for financial professionals interested in learning more about financial modeling.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980&t=0)** - [Narrator] This course is intended for financial professionals interested in learning more about [[Financial Modeling]].
 >
-> **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980&t=7)** I'm assuming that you're already familiar with basic accounting and finance terms, concepts like the income statement, the balance sheet, and the cashflow statement, as well as basic Excel usage, including basic use of formulas, navigating Excel, navigating the tabs in Excel, and other basic Microsoft Office skills.
+> **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980&t=7)** I'm assuming that you're already familiar with basic accounting and finance terms, concepts like the income statement, the balance sheet, and the cashflow statement, as well as basic [[Microsoft Excel|Excel]] usage, including basic use of formulas, navigating Excel, navigating the tabs in Excel, and other basic [[Microsoft Office]] skills.
 >
 > **[0:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-you-should-know-before-watching-this-course?u=76281980&t=30)** In this course we will be using Excel files for the exercises.
 >
@@ -172,12 +170,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is financial modeling?
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980)
+#### [What is financial modeling?](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=0)** - [Instructor] What is Financial Modeling?
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=0)** - [Instructor] What is [[Financial Modeling]]?
 >
 > **[0:02](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=2)** At its core, financial modeling is really just a business form of what we call a model.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=204)** In particular, a good financial model should help us to evaluate risks around a business decision.
 >
-> **[3:31](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=211)** We can use a variety of techniques to evaluate those risks: Sensitivity analysis, break-even analysis, scenario analysis, and more.
+> **[3:31](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=211)** We can use a variety of techniques to evaluate those risks: Sensitivity analysis, [[Break-even Analysis]], scenario analysis, and more.
 >
 > **[3:39](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=219)** The financial model helps us to understand the risks and complexities of the business decision that we're making.
 >
@@ -259,7 +256,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=263)** We can also use stochastic models.
 >
-> **[4:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=265)** These are really involving a lot more probability theory.
+> **[4:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=265)** These are really involving a lot more [[Probability]] theory.
 >
 > **[4:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=268)** We won't talk about those as much in this course, and they're more complex to implement in reality, so they're not as widely used.
 >
@@ -267,28 +264,27 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=281)** For that reason, we're making the assumption that you understand something about finance.
 >
-> **[4:47](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=287)** If you need a refresher or maybe help with the basics, I recommend two courses here on linked and learn: Excel for Corporate Finance Professions, and Excel for Management Accounting.
+> **[4:47](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=287)** If you need a refresher or maybe help with the basics, I recommend two courses here on linked and learn: [[Microsoft Excel|Excel]] for [[Corporate Finance]] Professions, and Excel for Management Accounting.
 >
 > **[4:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/what-is-financial-modeling?u=76281980&t=298)** Each of these will give you the background that you need to be able to succeed with financial modeling going forward.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[Financial Modeling]] (5), [[Microsoft Excel|Excel]] (2), [[Break-even Analysis]] (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (5), [[Microsoft Excel|Excel]] (2), [[Break-even Analysis]] (1), [[Probability]] (1), [[Corporate Finance]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why is financial modeling important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980)
+#### [Why is financial modeling important?](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=0)** - [Instructor] Why should you care about financial modeling?
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=0)** - [Instructor] Why should you care about [[Financial Modeling]]?
 >
 > **[0:02](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=2)** In the next few minutes, I'll explain what financial modeling is, and how understanding it can help you move your career forward.
 >
-> **[0:10](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=10)** For anyone pursuing or advancing a career in corporate development, investment banking, FP&A, also called financial planning and analysis, equity research, commercial banking, or any other area of corporate finance, building financial models is part of the daily routine.
+> **[0:10](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=10)** For anyone pursuing or advancing a career in corporate development, investment [[Banking]], FP&A, also called [[Financial Planning]] and analysis, equity research, commercial banking, or any other area of [[Corporate Finance]], building financial models is part of the daily routine.
 >
 > **[0:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=26)** The reality is that for many of the most lucrative and exciting areas of finance, financial modeling is a critical skill that you need to have.
 >
@@ -306,7 +302,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=94)** Now, the reality is that today, there's a lot of talk about new software programs being used in modeling.
 >
-> **[1:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=102)** But, take it from me, based on my experience, and based on the experience of countless other corporate finance professionals, Excel is still the dominant software tool for financial modeling, the vast majority of financial modeling takes place in Excel.
+> **[1:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=102)** But, take it from me, based on my experience, and based on the experience of countless other corporate finance professionals, [[Microsoft Excel|Excel]] is still the dominant software tool for financial modeling, the vast majority of financial modeling takes place in Excel.
 >
 > **[1:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/why-is-financial-modeling-important?u=76281980&t=118)** There was a newspaper report a few months ago about how certain companies were moving away from Excel, and starting to use other software programs in financial modeling, but a follow-up survey to that, and the vast majority of user response to that article showed that Excel is still the dominant tool in this space.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (9), [[Microsoft Excel|Excel]] (6), career (2), [[Banking]] (2), [[Corporate Finance]] (2)
+> **Frameworks & Libraries:** [[Financial Modeling]] (9), [[Microsoft Excel|Excel]] (6), [[Banking]] (2), [[Corporate Finance]] (2), [[Financial Planning]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
@@ -324,12 +320,11 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business questions and financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/business-questions-and-financial-models?u=76281980)
+#### [Business questions and financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/business-questions-and-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/business-questions-and-financial-models?u=76281980&t=0)** - [Instructor] Financial modeling lets us evaluate very specific sets of circumstances and make decisions based on those situations.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/business-questions-and-financial-models?u=76281980&t=0)** - [Instructor] [[Financial Modeling]] lets us evaluate very specific sets of circumstances and make decisions based on those situations.
 >
 > **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/business-questions-and-financial-models?u=76281980&t=8)** Since the kind of decisions we make in business differ under various circumstances, the models that we use to evaluate those decisions differ as well.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dcf (2)
 > **Tools:** terminal (2)
@@ -414,12 +409,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data for a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/data-for-a-model?u=76281980)
+#### [Data for a model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/data-for-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/data-for-a-model?u=76281980&t=0)** - [Instructor] Effective financial modeling is driven by data, but different types of models require different kinds of data.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/data-for-a-model?u=76281980&t=0)** - [Instructor] Effective [[Financial Modeling]] is driven by data, but different types of models require different kinds of data.
 >
 > **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/data-for-a-model?u=76281980&t=7)** In the next couple of minutes, I'll show you how to determine what data you will need to build an effective financial model.
 >
@@ -473,14 +467,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Financial Modeling]] (1), next (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** crm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sources of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980)
+#### [Sources of data](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +483,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=9)** Fortunately, this is easier than it once was.
 >
-> **[0:12](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=12)** Thanks to some great tools and databases that are available online.
+> **[0:12](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=12)** Thanks to some great tools and [[Databases]] that are available online.
 >
 > **[0:17](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=17)** Traditionally, one big issue for firms in complex financial models was the lack of external data.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=27)** Today, there's a variety of great sources for free external data.
 >
-> **[0:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=32)** Three top sources you'll wanna consider, depending on what you're trying to model, are the BLS or Bureau of Labor Statistics, The Fed or Federal Reserve, and the U.S. Census Bureau.
+> **[0:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=32)** Three top sources you'll wanna consider, depending on what you're trying to model, are the BLS or Bureau of Labor [[Statistics]], The Fed or Federal Reserve, and the U.S. Census Bureau.
 >
 > **[0:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=42)** Each of these has different data sets that you could use depending on the financial model that you're trying to build.
 >
@@ -510,7 +503,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=82)** In addition you can also gather data on non traditional metrics that you might care about.
 >
-> **[1:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=88)** Google Trends has a variety of different kinds of data related to searches that are done through its search engines.
+> **[1:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=88)** [[Google]] Trends has a variety of different kinds of data related to searches that are done through its search engines.
 >
 > **[1:37](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=97)** This is great data to use in a variety of different scenarios.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=159)** The key, though, is to understand what kind of biases you introduce by using a survey.
 >
-> **[2:45](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=165)** Remember, any survey that you do needs to be representative of the rest of the world.
+> **[2:45](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=165)** Remember, any survey that you do needs to be representative of the [[Representational State Transfer (REST)|rest]] of the world.
 >
 > **[2:51](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sources-of-data?u=76281980&t=171)** So if you're trying to figure out how to sell to other customers or new customers you need to ask yourself if the existing customers you're surveying are representative of your target customers.
 >
@@ -540,14 +533,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Databases]] (1), [[Statistics]] (1), [[Google]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Statistics]] (1), [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** bls (2)
 > **CLI Commands:** make (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gathering data from FRED for Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980)
+#### [Gathering data from FRED for Excel](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=5)** In particular, if you're making projections about the future, or about the level of market share a firm will have, it's helpful to have outside data as part of that process.
 >
-> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=15)** You can often get this data through Excel.
+> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=15)** You can often get this data through [[Microsoft Excel|Excel]].
 >
 > **[0:19](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=19)** In particular, I'm gonna show you how to use a tool called "FRED" to do this.
 >
@@ -623,11 +615,11 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=275)** Once I do this, I can click "get FRED data" and all of my data now updates so that it starts in 1990 and goes through present time in 2018.
 >
-> **[4:49](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=289)** At this point, you should understand how to use FRED to pull in outside data that's relevant to your financial modeling needs.
+> **[4:49](https://www.linkedin.com/learning/financial-modeling-foundations-2018/gathering-data-from-fred-for-excel?u=76281980&t=289)** At this point, you should understand how to use FRED to pull in outside data that's relevant to your [[Financial Modeling]] needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft Excel|Excel]] (7), business (2), database (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Financial Modeling]] (1)
 > **Env Vars:** fred (12)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (1)
@@ -635,12 +627,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Getting started with the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980)
+#### [Getting started with the project](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=0)** - [Instructor] Building a financial model requires getting your hands dirty by actually demonstrating what will happen in a scenario, using figures and projections in Excel.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=0)** - [Instructor] Building a financial model requires getting your hands dirty by actually demonstrating what will happen in a scenario, using figures and projections in [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=8)** Throughout this course, I will try to keep us all on the same page by using partially prebuilt Excel examples.
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=30)** All three of these are linked together based on different formulas.
 >
-> **[0:35](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=35)** So some portions of any financial statements will be driven by data from the firm, something like COGS, as an example, or SG&A, particularly on a historical basis.
+> **[0:35](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=35)** So some portions of any [[Financial Statements]] will be driven by data from the firm, something like COGS, as an example, or SG&A, particularly on a historical basis.
 >
 > **[0:45](https://www.linkedin.com/learning/financial-modeling-foundations-2018/getting-started-with-the-project-2?u=76281980&t=45)** These won't be projections or calculations; they'll be derived directly from what the firm actually reports.
 >
@@ -684,18 +675,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Financial Statements]] (4), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Financial Statements]] (4)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excel tips for financial modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980)
+#### [Excel tips for financial modeling](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=0)** - [Instructor] Financial modeling is really as much an art as it is a science, but there are some basic tips that you should adhere to when you're building financial models.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=0)** - [Instructor] [[Financial Modeling]] is really as much an art as it is a science, but there are some basic tips that you should adhere to when you're building financial models.
 >
-> **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=9)** First of all, you need to understand that Excel is the main tool used by a variety of institutions, banks, corporations, et cetera, to really do financial modeling.
+> **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=9)** First of all, you need to understand that [[Microsoft Excel|Excel]] is the main tool used by a variety of institutions, banks, corporations, et cetera, to really do financial modeling.
 >
 > **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=18)** And the reason for this is that it's so versatile.
 >
@@ -715,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=60)** Don't separate it into different sheets or it becomes harder to read.
 >
-> **[1:04](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=64)** Then, go through and separate your assumptions and drivers from the rest of the model.
+> **[1:04](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=64)** Then, go through and separate your assumptions and drivers from the [[Representational State Transfer (REST)|rest]] of the model.
 >
 > **[1:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/excel-tips-for-financial-modeling-2?u=76281980&t=69)** Have a section at the top so that anyone reviewing that model can easily go through and review what assumptions you've made.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Modeling]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Financial Modeling]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -756,18 +746,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundations of the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980)
+#### [Foundations of the model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=0)** - [Presenter] The art of financial modeling, mostly relates to making assumptions about the future performance of the business being modeled.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=0)** - [Presenter] The art of [[Financial Modeling]], mostly relates to making assumptions about the future performance of the business being modeled.
 >
 > **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=7)** This is the most subjective, but also the most important part in valuation of a firm.
 >
 > **[0:13](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=13)** In particular, there's four different types of Financial Forecasts that are used.
 >
-> **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=18)** It's critical that we understand these different methods of financial forecasting, because, again, that's the crux, that is the meat and potatoes, of our financial model.
+> **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=18)** It's critical that we understand these different methods of [[Financial Forecasting]], because, again, that's the crux, that is the meat and potatoes, of our financial model.
 >
 > **[0:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=29)** If we get the forecast wrong, our model will inherently be wrong.
 >
@@ -785,7 +774,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=61)** A growth rate of 500 percent is probably not right.
 >
-> **[1:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=65)** Either way, forecasting is critical to modeling.
+> **[1:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=65)** Either way, [[Forecasting]] is critical to modeling.
 >
 > **[1:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=69)** Now, as I said, there's four different types of financial forecasts.
 >
@@ -795,7 +784,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=80)** So, for example, you might start by thinking about what is the company's market share, and then what is its share in different geographic segments?
 >
-> **[1:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=88)** What is the share based on products that are out there, and the product the company sells?
+> **[1:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=88)** What is the share based on [[Microsoft Products|products]] that are out there, and the product the company sells?
 >
 > **[1:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=93)** And then, how much can they rely on for revenue from each particular customer?
 >
@@ -837,7 +826,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=195)** If we gather the appropriate data, we can then make a very clean scientific forecast about what our revenues, or profits, or any other variable would be going forward.
 >
-> **[3:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=205)** Typically, you can perform a regression analysis in Excel, but again it's a little bit more advanced.
+> **[3:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=205)** Typically, you can perform a regression analysis in [[Microsoft Excel|Excel]], but again it's a little bit more advanced.
 >
 > **[3:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=212)** Finally, the most basic type of forecasting, simply using a Year-Over-Year Growth Rate, often called a CAGR.
 >
@@ -851,13 +840,13 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=243)** The more advanced forecasting techniques are not a major focus of this course.
 >
-> **[4:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=248)** If you're interesting in learning more, and I think it's a great thing to do that, then I recommend two other courses here on LinkedIn Learning: Financial Forecasting with Big Data, and Applied Economic Forecasting with Big Data.
+> **[4:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=248)** If you're interesting in learning more, and I think it's a great thing to do that, then I recommend two other courses here on [[LinkedIn]] Learning: Financial Forecasting with [[Big Data]], and Applied Economic Forecasting with Big Data.
 >
 > **[4:21](https://www.linkedin.com/learning/financial-modeling-foundations-2018/foundations-of-the-model?u=76281980&t=261)** Now that you have a hand on the different types of financial forecasts used in modeling, we're ready to proceed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forecasting]] (5), business (3), [[Financial Forecasting]] (3), [[Financial Modeling]] (2), product (2)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Financial Forecasting]] (3), [[Financial Modeling]] (2), [[Big Data]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -866,12 +855,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Linking financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980)
+#### [Linking financial statements](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=0)** - [Instructor] The first step in many financial models is linking the different financial statements together.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=0)** - [Instructor] The first step in many financial models is linking the different [[Financial Statements]] together.
 >
 > **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=5)** In point of fact, this actually seems trivial.
 >
@@ -885,7 +873,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=19)** So, step one in linking the financial statements, is to begin by calculating our revenue.
 >
-> **[0:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=25)** We're gonna do this based on some kind of a forecasting approach.
+> **[0:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=25)** We're gonna do this based on some kind of a [[Forecasting]] approach.
 >
 > **[0:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/linking-financial-statements?u=76281980&t=29)** From there, you need to go through and fill in your other major accounting statement items, so cost of goods sold or COGs, your gross profit, your operating expenses.
 >
@@ -947,12 +935,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Three-statement financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980)
+#### [Three-statement financial model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=0)** - [Instructor] One of our first tasks in building out a financial model, especially a three-statement financial model is to go through and evaluate the financial statements and make sure they're complete.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=0)** - [Instructor] One of our first tasks in building out a financial model, especially a three-statement financial model is to go through and evaluate the [[Financial Statements]] and make sure they're complete.
 >
 > **[0:10](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=10)** Now what we have here are three different financial statements for a basic model, the income statement, the balance sheet, and the statement of cashflows.
 >
@@ -996,29 +983,28 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=175)** And then finally, we can go through and determine our Equity based on the components above, which will include Common Stock, Additional Paid-in Capital, Retained Earnings, and the Unrealized Gains we have.
 >
-> **[3:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=194)** Once we've done all that, we may wish to make a couple of cosmetic changes, including adding some borders in Excel, just to make it look a little neater and cleaner, but as you can see, we've been quickly able to build out the rest of our basic three-statement model with minimal trouble, thanks to the power of Excel and the formulas used therein.
+> **[3:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/three-statement-financial-model-2?u=76281980&t=194)** Once we've done all that, we may wish to make a couple of cosmetic changes, including adding some borders in [[Microsoft Excel|Excel]], just to make it look a little neater and cleaner, but as you can see, we've been quickly able to build out the [[Representational State Transfer (REST)|rest]] of our basic three-statement model with minimal trouble, thanks to the power of Excel and the formulas used therein.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1), power (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** c22 (1), c27 (1), c28 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting source parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980)
+#### [Setting source parameters](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=0)** - [Instructor] While building out the income statement and the balance sheet portion of the three-statement financial model is usually fairly straightforward, building out the statement of cash flows can be a little bit trickier because it often draws from the income statement and the balance sheet.
 >
-> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=14)** I'm in the zero two zero four begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=14)** I'm in the zero two zero four begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=18)** Now we have our basic three-statement model and this includes the balance sheet and the income statement completely filled out for our purposes.
 >
 > **[0:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=26)** But we have a significant portion of the statement of cash flows that's missing.
 >
-> **[0:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=32)** In our case though, we should be able to go through and fill out the rest of the sheet based on that income statement and balance sheet.
+> **[0:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=32)** In our case though, we should be able to go through and fill out the [[Representational State Transfer (REST)|rest]] of the sheet based on that income statement and balance sheet.
 >
 > **[0:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=40)** Notice the net income portion, which starts the cash from operating activities, this is going to be drawn directly from our income statement above.
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=172)** Now, purchases and sales of investments may not appear in other places so in this particular case we're simply going to assume that we have the same level each year on an ongoing basis.
 >
-> **[3:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=185)** We'd probably need to gather this data from supporting schedules, which we don't have in this particular set of financial statements.
+> **[3:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=185)** We'd probably need to gather this data from supporting schedules, which we don't have in this particular set of [[Financial Statements]].
 >
 > **[3:13](https://www.linkedin.com/learning/financial-modeling-foundations-2018/setting-source-parameters-2?u=76281980&t=193)** For our purposes, I'm just going to assume that those changes are consistent from period to period rather than trying to draw them from other parts of the financial statements.
 >
@@ -1102,14 +1088,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Financial Statements]] (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assumptions in financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980)
+#### [Assumptions in financial statements](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1117,7 +1102,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=7)** In particular, in order to get to future assumptions, we're going to have to start by examining what's happened historically.
 >
-> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=14)** I'm in the 02_05_Begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=14)** I'm in the 02_05_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=18)** Now, what we have here are a set of assumptions ranging from assumptions related to TAM, Target Addressable Market, to Income Statement Assumptions and Balance Sheet Assumptions.
 >
@@ -1139,7 +1124,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=90)** Similarly, we'll need to make assumptions about what COGS looks like, what SGNA look like, what Depreciation and Amortization look like and what Interest Rates look like.
 >
-> **[1:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=100)** We'll do this based on historical figures from the financial statements.
+> **[1:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=100)** We'll do this based on historical figures from the [[Financial Statements]].
 >
 > **[1:46](https://www.linkedin.com/learning/financial-modeling-foundations-2018/assumptions-in-financial-statements-2?u=76281980&t=106)** That's why, before we can even get to building the assumptions, we need to have an iron clad set of financial statements in place.
 >
@@ -1171,21 +1156,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (3), business (2), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tam (1), cogs (1), sgna (1), cap (1)
 > **Versions:** 5.1 (1), 7.77 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forecasting in financial statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980)
+#### [Forecasting in financial statements](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=0)** - [Instructor] Once we've gone through and built out our financial assumptions based on the historical figures, it's time to move on to the forward-looking portion of those assumptions.
 >
-> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=11)** I'm in the 02_06_Begin excel file.
+> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=11)** I'm in the 02_06_Begin [[Microsoft Excel|excel]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=15)** Now, we've gone through and computed various historical metrics for the firm, revenue growth, cogs as a percentage of revenue, SG&A as a percentage of revenue, etc.
 >
@@ -1199,7 +1183,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=57)** In that case, it's 6.3%.
 >
-> **[0:59](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=59)** An alternative approach would be to say, alright, well let's see what we think will happen to say, our market share, based on maybe new products we're rolling out and what we think will happen to the market as a whole, and then we could try to tie our revenue growth to the sum of these two values, and that's okay in practice, but the problem becomes that there's a lot of error that's going to go on in measuring or estimating what our share growth will be and what the overall market growth will be.
+> **[0:59](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=59)** An alternative approach would be to say, alright, well let's see what we think will happen to say, our market share, based on maybe new [[Microsoft Products|products]] we're rolling out and what we think will happen to the market as a whole, and then we could try to tie our revenue growth to the sum of these two values, and that's okay in practice, but the problem becomes that there's a lot of error that's going to go on in measuring or estimating what our share growth will be and what the overall market growth will be.
 >
 > **[1:34](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=94)** Similarly if we were to simply use the average of the growth over the last four years, we're still going to get a relatively inaccurate picture of what this year's growth is going to be.
 >
@@ -1227,23 +1211,22 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=210)** Keep this in mind as you're building up your financial models.
 >
-> **[3:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=213)** If you're interested in learning more about basic financial forecasting and some of the more advanced methodologies, I recommend you check out my financial forecasting with excel course.
+> **[3:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/forecasting-in-financial-statements-2?u=76281980&t=213)** If you're interested in learning more about basic [[Financial Forecasting]] and some of the more advanced methodologies, I recommend you check out my financial forecasting with excel course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), data (1), [[Forecasting]] (1), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), [[Forecasting]] (1), [[Financial Forecasting]] (1)
 > **Analogies:** for example (1), picture (1)
 > **Versions:** 6.3 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Putting it all together
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980)
+#### [Putting it all together](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980&t=0)** - [Instructor] Once we've made a set of forward-looking assumptions about how we think the firm's revenue, cost and assets and liabilities will change over time, we're prepared to then begin making projections about the firm's financial condition on a forward-looking basis.
 >
-> **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980&t=18)** I'm in the 02 07 Begin Excel file.
+> **[0:18](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980&t=18)** I'm in the 02 07 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:23](https://www.linkedin.com/learning/financial-modeling-foundations-2018/putting-it-all-together-2?u=76281980&t=23)** Now what we have here are the projections we made around revenue, growth around various firm metrics, etcetera.
 >
@@ -1321,15 +1304,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** coggs (1), cagr (1), eps (1)
 > **Cross-References:** in the last (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improving model quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/improving-model-quality?u=76281980)
+#### [Improving model quality](https://www.linkedin.com/learning/financial-modeling-foundations-2018/improving-model-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1399,7 +1381,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), data (1)
 > **CLI Commands:** make (8), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1411,8 +1392,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial modeling strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980)
+#### [Financial modeling strategies](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1424,7 +1404,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=9)** Step one involves going through and gathering the data that we need to build that model.
 >
-> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=15)** Typically, we're gonna start with our historical financial statements.
+> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=15)** Typically, we're gonna start with our historical [[Financial Statements]].
 >
 > **[0:19](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=19)** So we need to gather them up and then we need to read them and make sure that they make sense.
 >
@@ -1440,7 +1420,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=54)** So we wanna make sure that we're starting with revenue through net income, and that we've linked them together in a readable, usable fashion.
 >
-> **[1:02](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=62)** So have them all in one place, rather than on separate sheets in Excel.
+> **[1:02](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=62)** So have them all in one place, rather than on separate sheets in [[Microsoft Excel|Excel]].
 >
 > **[1:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=68)** Step three is to go through and compute our historical ratios based on our past financial statements.
 >
@@ -1494,7 +1474,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=235)** So for example, we wanna make sure we avoid long formulas that are difficult to read.
 >
-> **[4:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=240)** This is probably the single worst problem in financial modeling.
+> **[4:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=240)** This is probably the single worst problem in [[Financial Modeling]].
 >
 > **[4:04](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-modeling-strategies?u=76281980&t=244)** The second big problem that I see is when we don't keep inputs together.
 >
@@ -1504,7 +1484,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (3), next (2), business (2), [[Financial Modeling]] (2), data (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (3), [[Financial Modeling]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (13)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
@@ -1512,18 +1492,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sensitivity analysis and financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980)
+#### [Sensitivity analysis and financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=0)** - [Instructor] If we've built our financial model correctly, when we get done, the whole model should be tied together so that any change to the model dynamically updates across the entire spreadsheet.
 >
-> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=11)** This is very useful when dealing with practical problems like the need to account for different kinds of scenarios that may arise in corporate finance.
+> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=11)** This is very useful when dealing with practical problems like the need to account for different kinds of scenarios that may arise in [[Corporate Finance]].
 >
 > **[0:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=22)** Let me show you what I'm referring to.
 >
-> **[0:24](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=24)** I'm in the 03_02_Begin Excel spreadsheet.
+> **[0:24](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=24)** I'm in the 03_02_Begin [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=28)** Now what we have here are the revenue projections and other projections that we've made over time, and they're tied to our revenues, our net income, our earnings per share, and of course the various balance sheet and cash flow statement items.
 >
@@ -1561,21 +1540,20 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=146)** Well now, they leap forward towards the end of the period, finishing up $3.35 per share.
 >
-> **[2:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=152)** Hopefully at this point, you have a better idea how we can go through and adjust our specific assumptions based on individual projections and see how that dynamically flows through the rest of our model.
+> **[2:32](https://www.linkedin.com/learning/financial-modeling-foundations-2018/sensitivity-analysis-and-financial-models-2?u=76281980&t=152)** Hopefully at this point, you have a better idea how we can go through and adjust our specific assumptions based on individual projections and see how that dynamically flows through the [[Representational State Transfer (REST)|rest]] of our model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 6.3 (1), 3.41 (1), 2.84 (1), 3.35 (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding visuals to a financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980)
+#### [Adding visuals to a financial model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=0)** - [Instructor] While there a lot of different ways to build financial models, one of the great features that's unique to Excel is the ease of adding graphics, right?
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=0)** - [Instructor] While there a lot of different ways to build financial models, one of the great features that's unique to [[Microsoft Excel|Excel]] is the ease of adding graphics, right?
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=9)** We all know that while numbers are interesting, there's an awful lot of business people out there that really rely on graphics to give them a quick and easy way to evaluate what's going on with the business.
 >
@@ -1615,7 +1593,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=165)** Now, perhaps we're not happy about the yellow line here, right?
 >
-> **[2:50](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=170)** It's kind of distorting our view on what's going on with the rest of the data.
+> **[2:50](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=170)** It's kind of distorting our view on what's going on with the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[2:54](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-visuals-to-a-financial-model-2?u=76281980&t=174)** Well, we can affect that by selecting our data and then removing Total Assets from the equation.
 >
@@ -1625,7 +1603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cogs (3)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** make (1)
@@ -1636,8 +1614,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Financial valuation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980)
+#### [Financial valuation models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1683,7 +1660,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980&t=145)** Is the growth beyond the level of forecast the cash flow's gonna continue to be constant, is it gonna tail off or even no growth at all.
 >
-> **[2:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980&t=153)** If we have say a five year forecast, about what cash flows will be and we're forecasting the specific level of growth in each of those five years, how much will cash flows grow after that five years?
+> **[2:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980&t=153)** If we have say a five year forecast, about what cash flows will be and we're [[Forecasting]] the specific level of growth in each of those five years, how much will cash flows grow after that five years?
 >
 > **[2:47](https://www.linkedin.com/learning/financial-modeling-foundations-2018/financial-valuation-models?u=76281980&t=167)** Will they continue to grow say constant five percent per year, will it tail off from five to one percent very slowly or will we simply assume that there's no growth at all, beyond the five year period?
 >
@@ -1705,7 +1682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (2)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
@@ -1714,8 +1691,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cash flows in the valuation model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980)
+#### [Cash flows in the valuation model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,7 +1705,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980&t=17)** But the reality is, it's a bit more tricky than you might think.
 >
-> **[0:20](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980&t=20)** I'm in the 04_02_Begin Excel file.
+> **[0:20](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980&t=20)** I'm in the 04_02_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/financial-modeling-foundations-2018/cash-flows-in-the-valuation-model-2?u=76281980&t=24)** Now, what we've got here is our three-statement financial model, and I focused on the statement of cash flows as well as our various assumptions over time.
 >
@@ -1788,14 +1764,13 @@ created: 2026-05-02
 > **Env Vars:** pmt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Terminal value in a valuation model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980)
+#### [Terminal value in a valuation model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980&t=0)** - [Instructor] When valuing a company, a key part of the valuation is not just the cash flows that'll be generated for the next few years, but ultimately, what the company is going to be worth far down the road, what we call the terminal value.
 >
-> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980&t=14)** I'm in the 04_03_Begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980&t=14)** I'm in the 04_03_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/financial-modeling-foundations-2018/terminal-value-in-a-valuation-model-2?u=76281980&t=19)** Now, we're going through and determining the value for this particular firm.
 >
@@ -1863,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Tools:** terminal (8)
 > **CLI Commands:** make (1)
 > **Env Vars:** dcf (1)
@@ -1871,18 +1846,17 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpreting a DCF model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980)
+#### [Interpreting a DCF model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=0)** - [Instructor] In addition to financial models built around the three different major financial statements, we'll often to be asked to build financial models around stock price data and the associated financials.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=0)** - [Instructor] In addition to financial models built around the three different major [[Financial Statements]], we'll often to be asked to build financial models around stock price data and the associated financials.
 >
 > **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=14)** Now, two types of models that we might be asked to build are the DDM, or Dividend Discount Model, and the DCF model, or Discounted Cashflow Model.
 >
-> **[0:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=25)** I'm in the 04_04_Begin Excel spreadsheet.
+> **[0:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=25)** I'm in the 04_04_Begin [[Microsoft Excel|Excel]] spreadsheet.
 >
-> **[0:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=29)** Now what we have here is stock price data for Microsoft, along with different financial metrics for the firm, including various multiples and the firm's financials over the last few years.
+> **[0:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=29)** Now what we have here is stock price data for [[Microsoft]], along with different financial metrics for the firm, including various multiples and the firm's financials over the last few years.
 >
 > **[0:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=42)** We want to figure out the intrinsic value of Microsoft stock.
 >
@@ -1942,11 +1916,11 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=228)** This would indicate that Microsoft was slightly undervalued based on these particular assumptions.
 >
-> **[3:54](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=234)** Now you're all set to go through and build your own financial models around stock prices given financial data.
+> **[3:54](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interpreting-a-dcf-model-2?u=76281980&t=234)** Now you're all set to go through and build your own financial models around stock prices given [[Financial Data]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (8), data (2), next (2), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (8), [[Financial Statements]] (1), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **Env Vars:** dcf (5), ddm (4), npv (3)
 > **Versions:** 84.23 (1), 116.65 (1), 114.37 (1)
 > **CLI Commands:** make (1)
@@ -1958,8 +1932,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beyond the basics in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980)
+#### [Beyond the basics in financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1942,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980&t=16)** These types of advanced financial transactions are common, especially at larger companies.
 >
-> **[0:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980&t=22)** When we're doing more advanced financial modeling, we're typically trying to model a more complex deal.
+> **[0:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980&t=22)** When we're doing more advanced [[Financial Modeling]], we're typically trying to model a more complex deal.
 >
 > **[0:28](https://www.linkedin.com/learning/financial-modeling-foundations-2018/beyond-the-basics-in-financial-models?u=76281980&t=28)** In particular, probably the most common areas where you see the need for advanced financial models are modeling buyouts by private equity firms and modeling merger and acquisition deals by large companies.
 >
@@ -2005,8 +1978,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Corkscrews and models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/corkscrews-and-models?u=76281980)
+#### [Corkscrews and models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/corkscrews-and-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2058,19 +2030,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Definitions:** is a  (2), is called (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** dcf (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Waterfalls and models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980)
+#### [Waterfalls and models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=0)** - [Instructor] Waterfalls are a concept used in financial modeling to help deal with how profits are split out to various buckets or stakeholders over time.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=0)** - [Instructor] Waterfalls are a concept used in [[Financial Modeling]] to help deal with how profits are split out to various buckets or stakeholders over time.
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=9)** One common example of this occurs with profit distributions to bondholders, preferred stockholders, and then common stockholders.
 >
@@ -2098,7 +2068,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=85)** And then after that, we provide returns to the project sponsor, that is the equity investor in this particular project.
 >
-> **[1:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=93)** Let's take a look at how this works in Excel though.
+> **[1:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=93)** Let's take a look at how this works in [[Microsoft Excel|Excel]] though.
 >
 > **[1:36](https://www.linkedin.com/learning/financial-modeling-foundations-2018/waterfalls-and-models?u=76281980&t=96)** Shall we?
 >
@@ -2146,15 +2116,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Microsoft Excel|Excel]] (2), feature (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding toggles to a financial model
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-toggles-to-a-financial-model?u=76281980)
+#### [Adding toggles to a financial model](https://www.linkedin.com/learning/financial-modeling-foundations-2018/adding-toggles-to-a-financial-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,8 +2191,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Model outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980)
+#### [Model outputs](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2207,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980&t=31)** This is in fact exactly the kind of financial model that professional analysts on Wall Street and investment relations advisors use when they're evaluating potential investments.
 >
-> **[0:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980&t=42)** It's also something that's useful in a corporate finance setting when a company is trying to decide whether it should issue debt or equity in order to fund itself going forward.
+> **[0:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980&t=42)** It's also something that's useful in a [[Corporate Finance]] setting when a company is trying to decide whether it should issue debt or equity in order to fund itself going forward.
 >
 > **[0:53](https://www.linkedin.com/learning/financial-modeling-foundations-2018/model-outputs?u=76281980&t=53)** Now on the context of an LBO or a buyout, we're interested in the valuation per share in the future versus what we could buy the shares at today.
 >
@@ -2319,7 +2287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Env Vars:** ddm (3), ebitda (3), dcf (2), lbo (1)
 > **Tools:** terminal (5)
 > **CLI Commands:** make (2)
@@ -2328,8 +2296,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Hiding tabs and making models readable
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980)
+#### [Hiding tabs and making models readable](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2365,7 +2332,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=118)** So if we scroll down in the sheet, everything looks fairly normal.
 >
-> **[2:03](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=123)** But there's an indication down here at the bottom next to the word Ready that says Circular References.
+> **[2:03](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=123)** But there's an indication down here at the bottom next to the [[Microsoft Word|word]] Ready that says Circular References.
 >
 > **[2:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=131)** We can also evaluate the model to see if there are any errors by clicking on the Formulas tab and then coming over to the Error Checking option.
 >
@@ -2373,7 +2340,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=147)** This is right next to the Trace Precedents and Trace Dependents arrows, which is also useful for understanding how different cells affect different areas of the model.
 >
-> **[2:39](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=159)** So if we're looking to understand where our circular reference comes in, we can click and see what does Excel have to say about where these circular references are coming up.
+> **[2:39](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=159)** So if we're looking to understand where our circular reference comes in, we can click and see what does [[Microsoft Excel|Excel]] have to say about where these circular references are coming up.
 >
 > **[2:50](https://www.linkedin.com/learning/financial-modeling-foundations-2018/hiding-tabs-and-making-models-readable?u=76281980&t=170)** And it'll tell us all the points where we have those circular reference arising.
 >
@@ -2421,7 +2388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** lbo (3), acme (2), dcf (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (1), right-click (1), scroll down (1)
@@ -2430,8 +2397,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stress testing models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980)
+#### [Stress testing models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2457,7 +2423,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980&t=53)** Net present value and IROR, or internal rate of return, are two of the most common.
 >
-> **[0:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980&t=58)** IROR is arguably more popular within finance, particularly within corporate finance, largely because it provides essentially a rate of return, a percentage interest rate, and we can compare that to other choices or other investments we have.
+> **[0:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980&t=58)** IROR is arguably more popular within finance, particularly within [[Corporate Finance]], largely because it provides essentially a rate of return, a percentage interest rate, and we can compare that to other choices or other investments we have.
 >
 > **[1:16](https://www.linkedin.com/learning/financial-modeling-foundations-2018/stress-testing-models?u=76281980&t=76)** So if you notice, depending on the changing assumptions that we make, our IROR will go up or down.
 >
@@ -2525,7 +2491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1)
 > **Env Vars:** iror (9), lbo (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (2)
@@ -2539,8 +2505,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interest rate assumptions in models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980)
+#### [Interest rate assumptions in models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2574,11 +2539,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=71)** To do that, FRED can be a great tool.
 >
-> **[1:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=75)** So I'm gonna create a new sheet here and we're going to use FRED data based on the FRED Excel add-in.
+> **[1:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=75)** So I'm gonna create a new sheet here and we're going to use FRED data based on the FRED [[Microsoft Excel|Excel]] add-in.
 >
 > **[1:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=82)** So I'll come over to the FRED tab after enabling the add-in as we've seen previously.
 >
-> **[1:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=89)** And I'm gonna come down to money, banking and finance.
+> **[1:29](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=89)** And I'm gonna come down to money, [[Banking]] and finance.
 >
 > **[1:33](https://www.linkedin.com/learning/financial-modeling-foundations-2018/interest-rate-assumptions-in-models?u=76281980&t=93)** And there's a variety of different metrics for interest rates I could use.
 >
@@ -2646,14 +2611,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), business (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Banking]] (1)
 > **Env Vars:** fred (5), baa (1)
 > **Versions:** 7.43 (2), 8.3 (1), 5.3 (1), 11.4 (1), 4.7 (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### Discount rates in models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/discount-rates-in-models?u=76281980)
+#### [Discount rates in models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/discount-rates-in-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2710,8 +2674,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Top-down financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980)
+#### [Top-down financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2719,7 +2682,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=9)** The reason this is done in industry is not necessarily because it's correct, but because it's easy.
 >
-> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=14)** An alternative approach is to use a top-down model for forecasting future financial results.
+> **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=14)** An alternative approach is to use a top-down model for [[Forecasting]] future financial results.
 >
 > **[0:21](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=21)** Now, what we see is that this particular model has a 10% CAGR built-in and that CAGR changes based on the scenario in question.
 >
@@ -2731,7 +2694,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=64)** Say, rising or falling 1%.
 >
-> **[1:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=66)** Instead, we might wanna use a little bit more sophisticated approach, like a top-down financial forecasting model.
+> **[1:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=66)** Instead, we might wanna use a little bit more sophisticated approach, like a top-down [[Financial Forecasting]] model.
 >
 > **[1:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=74)** To do that, I'm gonna scroll down and we'll have to make a few assumptions.
 >
@@ -2765,7 +2728,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=203)** Now, we wanna ask how much our share of the pie is growing.
 >
-> **[3:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=206)** Well, maybe we think that we're gonna do a good job rolling out some new products and so we'll pick up some market share, particularly in 2020, but then thereafter, we'll be flat.
+> **[3:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=206)** Well, maybe we think that we're gonna do a good job rolling out some new [[Microsoft Products|products]] and so we'll pick up some market share, particularly in 2020, but then thereafter, we'll be flat.
 >
 > **[3:38](https://www.linkedin.com/learning/financial-modeling-foundations-2018/top-down-financial-models?u=76281980&t=218)** Because we're not willing to see price, maybe we'll even lose a little bit of market share in 2022.
 >
@@ -2801,7 +2764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forecasting]] (1), [[Financial Forecasting]] (1)
 > **Env Vars:** cagr (6), fred (1)
 > **UI Navigation:** switch to (2), scroll down (1), toggle (1)
 > **CLI Commands:** make (3)
@@ -2809,14 +2772,13 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bottom-up financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980)
+#### [Bottom-up financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980&t=0)** - [Instructor] An alternative to top-down models of financial forecasting are bottom-up analysis.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980&t=0)** - [Instructor] An alternative to top-down models of [[Financial Forecasting]] are bottom-up analysis.
 >
-> **[0:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980&t=6)** Now, we've gone through when we've added a toggle because we now have a few different methods for forecasting how revenue growth will change over time.
+> **[0:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980&t=6)** Now, we've gone through when we've added a toggle because we now have a few different methods for [[Forecasting]] how revenue growth will change over time.
 >
 > **[0:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bottom-up-financial-models?u=76281980&t=14)** So if we type in a 1, that indicates the top-down method, if we type in a 2, that's gonna be for our bottom-up method, and 3 will be for our conventional simple and easy to use CAGR method.
 >
@@ -2892,7 +2854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), data (3), [[Forecasting]] (2), power (2), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (2), [[Financial Forecasting]] (1)
 > **Env Vars:** cagr (5), gdp (1)
 > **Versions:** 0.1 (1), 7.1 (1), 9.7 (1)
 > **UI Navigation:** toggle (1), switch to (1)
@@ -2900,8 +2862,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### IRR decisions in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980)
+#### [IRR decisions in financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2919,7 +2880,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980&t=59)** In 2022, after we've improved the firm, we're ready to turn around and sell the company.
 >
-> **[1:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980&t=66)** Now, we project, based on all the financial modeling that we have done above, that we will be able to sell the firm for 214.1819 million dollars, so maybe 214 and change, right?
+> **[1:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980&t=66)** Now, we project, based on all the [[Financial Modeling]] that we have done above, that we will be able to sell the firm for 214.1819 million dollars, so maybe 214 and change, right?
 >
 > **[1:21](https://www.linkedin.com/learning/financial-modeling-foundations-2018/irr-decisions-in-financial-models?u=76281980&t=81)** Now, we need to compute an IRR for that.
 >
@@ -2949,19 +2910,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **Env Vars:** irr (14), lbo (1), ebitda (1)
 > **Versions:** 214.1819 (1), 20.3 (1), 18.8 (1), 35.4 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### NPV decisions in financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/npv-decisions-in-financial-models?u=76281980)
+#### [NPV decisions in financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/npv-decisions-in-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/npv-decisions-in-financial-models?u=76281980&t=0)** - [Instructor] An alternative decision making criteria in financial modeling is NPV, or net present value.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/npv-decisions-in-financial-models?u=76281980&t=0)** - [Instructor] An alternative decision making criteria in [[Financial Modeling]] is NPV, or net present value.
 >
 > **[0:06](https://www.linkedin.com/learning/financial-modeling-foundations-2018/npv-decisions-in-financial-models?u=76281980&t=6)** It's a bit less intuitive, but it has some critical advantages over IRR when making a major decision.
 >
@@ -3019,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **Env Vars:** irr (14), npv (5), dcf (2), lbl (2)
 > **Versions:** 21.63 (2), 236.6 (1)
 > **CLI Commands:** make (2)
@@ -3027,8 +2987,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limits of financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980)
+#### [Limits of financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,7 +3029,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=112)** The first are circular references.
 >
-> **[1:55](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=115)** When you have a circular reference, Excel will generally warn you as soon as you open the model.
+> **[1:55](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=115)** When you have a circular reference, [[Microsoft Excel|Excel]] will generally warn you as soon as you open the model.
 >
 > **[2:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=120)** Then you wanna go and try and track down that circular reference, and figure out how to resolve it.
 >
@@ -3098,7 +3057,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=200)** In order to avoid problems with our model, we need to make sure that historical data is accurate, and if we've simply typed something in wrong, we'll have problems.
 >
-> **[3:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=210)** The second type of issue that comes up in financial modeling are inaccurate assumptions.
+> **[3:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=210)** The second type of issue that comes up in [[Financial Modeling]] are inaccurate assumptions.
 >
 > **[3:35](https://www.linkedin.com/learning/financial-modeling-foundations-2018/limits-of-financial-models?u=76281980&t=215)** This is perhaps the easiest problem to have with a model.
 >
@@ -3162,7 +3121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Excel|Excel]] (4), data (3), [[Financial Modeling]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Financial Modeling]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2), picture (1)
 > **UI Navigation:** open the (1), go to (1)
@@ -3176,8 +3135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980)
+#### [Characteristics of financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3223,7 +3181,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980&t=188)** What are the drivers of earnings, of sales, of cost, et cetera?
 >
-> **[3:13](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980&t=193)** In a DCF model, we might also use our historical financial statements but we're gonna rely more heavily on an analysis of what the future may hold so we're more likely to use something like a simple CAGR to estimate what our sales are likely to be in the future.
+> **[3:13](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980&t=193)** In a DCF model, we might also use our historical [[Financial Statements]] but we're gonna rely more heavily on an analysis of what the future may hold so we're more likely to use something like a simple CAGR to estimate what our sales are likely to be in the future.
 >
 > **[3:30](https://www.linkedin.com/learning/financial-modeling-foundations-2018/characteristics-of-financial-models?u=76281980&t=210)** The buyout model does something similar.
 >
@@ -3249,7 +3207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Financial Statements]] (2), business (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (2)
 > **Env Vars:** dcf (3), irr (2), cagr (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -3257,8 +3215,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling in banking
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980)
+#### [Modeling in banking](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3322,7 +3279,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980&t=222)** It's hard to maintain the kind of strong credit ratings that investors like to see.
 >
-> **[3:48](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980&t=228)** It's much easier to be a high risk company, but the purpose in financial modeling, when it comes to risk evaluation, is to look at not where the company is today, but where it might be in the future, based on these metrics.
+> **[3:48](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980&t=228)** It's much easier to be a high risk company, but the purpose in [[Financial Modeling]], when it comes to risk evaluation, is to look at not where the company is today, but where it might be in the future, based on these metrics.
 >
 > **[4:03](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-banking?u=76281980&t=243)** How well the company is servicing its debt.
 >
@@ -3332,19 +3289,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (3), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1), we talked about (1)
 > **Speakers:** - [narrator] (1)
 
-#### Modeling in corporate finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980)
+#### [Modeling in corporate finance](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980&t=0)** - [Instructor] The two major areas of finance are corporate finance and investments.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980&t=0)** - [Instructor] The two major areas of finance are [[Corporate Finance]] and investments.
 >
-> **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980&t=5)** Financial modeling is important in both areas.
+> **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980&t=5)** [[Financial Modeling]] is important in both areas.
 >
 > **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-corporate-finance?u=76281980&t=8)** In the corporate finance world, we care primarily about the cash flow statement, the income statement, and the balance sheet.
 >
@@ -3378,12 +3334,11 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Modeling in investments
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980)
+#### [Modeling in investments](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=0)** - [Instructor] Financial modeling is an extremely important skill in the investments world.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=0)** - [Instructor] [[Financial Modeling]] is an extremely important skill in the investments world.
 >
 > **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=5)** Let's face it. At the end of the day, most of the investment's work comes down to analyzing whether it makes sense to purchase a particular asset at a particular price or not.
 >
@@ -3415,7 +3370,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=118)** And how does that translate to risk?
 >
-> **[2:01](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=121)** Is this an investment that we're prepared to take on given the level of risk that the financial statements reflect?
+> **[2:01](https://www.linkedin.com/learning/financial-modeling-foundations-2018/modeling-in-investments?u=76281980&t=121)** Is this an investment that we're prepared to take on given the level of risk that the [[Financial Statements]] reflect?
 
 > [!info]- Semantic Content
 >
@@ -3429,8 +3384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Applications of financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980)
+#### [Applications of financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3492,25 +3446,24 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980&t=229)** If our growth projections prove too optimistic, and we instead loosen those growth projections, so we're now growing at a slower pace, does it still make sense to pursue this particular investment?
 >
-> **[4:01](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980&t=241)** That's what financial modeling is all about.
+> **[4:01](https://www.linkedin.com/learning/financial-modeling-foundations-2018/applications-of-financial-models?u=76281980&t=241)** That's what [[Financial Modeling]] is all about.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (1)
 > **Env Vars:** abc (3), dcf (3), lbo (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bitcoin and cryptocurrency valuation modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980)
+#### [Bitcoin and cryptocurrency valuation modeling](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=0)** - [Narrator] One of the fun things about financial models is the ability to attack problems in order to make decisions that other people are confused about.
 >
-> **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=8)** One great example of this is is in the widely discussed bitcoin and cryptocurrency space.
+> **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=8)** One great example of this is is in the widely discussed bitcoin and [[Cryptocurrency]] space.
 >
 > **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=15)** There's a lot of discussion, at present, in the financial markets about what these cryptocurrencies, including bitcoin, are worth, if anything.
 >
@@ -3556,18 +3509,17 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=203)** Putting that all together then, we come up with the present value of bitcoin which we project to be $12,274.34 using a roughly 31% discount rate.
 >
-> **[3:38](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=218)** Now, this is a great example of complex financial modeling being used to attack a problem which is otherwise extremely complicated and difficult to analyze using more conventional and simpler techniques like a typical multiple approach used by some investment analysts.
+> **[3:38](https://www.linkedin.com/learning/financial-modeling-foundations-2018/bitcoin-and-cryptocurrency-valuation-modeling?u=76281980&t=218)** Now, this is a great example of complex [[Financial Modeling]] being used to attack a problem which is otherwise extremely complicated and difficult to analyze using more conventional and simpler techniques like a typical multiple approach used by some investment analysts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptocurrency]] (2), next (2), data (1), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (2), [[Financial Modeling]] (1)
 > **Versions:** 17.5 (1), 7.5 (1), 274.34 (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Updating financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980)
+#### [Updating financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3575,9 +3527,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=5)** Projected revenues will become actual revenues and we'll have to generate new projections down the road.
 >
-> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=11)** I'm in the 08_03_Begin Excel file.
+> **[0:11](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=11)** I'm in the 08_03_Begin [[Microsoft Excel|Excel]] file.
 >
-> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=15)** Now what we have here is Microsoft stock and financial information starting in the first quarter of 2014 all the way through the second quarter of 2018.
+> **[0:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=15)** Now what we have here is [[Microsoft]] stock and financial information starting in the first quarter of 2014 all the way through the second quarter of 2018.
 >
 > **[0:27](https://www.linkedin.com/learning/financial-modeling-foundations-2018/updating-financial-models-2?u=76281980&t=27)** But let's hypothetically pretend that we fast forward six months and now we need to update Microsoft's financials based on what's happened over the next couple of quarters.
 >
@@ -3599,13 +3551,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Excel|Excel]] (1), next (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining ongoing financial models
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980)
+#### [Maintaining ongoing financial models](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3613,7 +3564,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=7)** Oftentimes, this includes the need to update the model as new results come in, and also to explain to management and other stakeholders what those new results mean compared to the projections we made in the model.
 >
-> **[0:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=22)** I'm in the 08_04.Begin Excel file.
+> **[0:22](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=22)** I'm in the 08_04.Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=26)** Now what we have here is our three-statement model, where we've updated 2018 to include 2019 actuals, but we've left in the 2019 Estimates column.
 >
@@ -3625,7 +3576,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=64)** These types of variances are very common for companies to examine and focus on on an annual and even quarterly basis.
 >
-> **[1:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=74)** In fact, variance analysis is a key part of FP&A, Financial Planning and Analysis, which is part of most corporate finance functions.
+> **[1:14](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=74)** In fact, variance analysis is a key part of FP&A, [[Financial Planning]] and Analysis, which is part of most [[Corporate Finance]] functions.
 >
 > **[1:23](https://www.linkedin.com/learning/financial-modeling-foundations-2018/maintaining-ongoing-financial-models-2?u=76281980&t=83)** To determine that variance, we're simply going to take the plan figure minus the actual and subtract the two, and this tells us that our Plan to Actual on revenue, for example, was 16,272.
 >
@@ -3655,7 +3606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Microsoft Excel|Excel]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
 > **Versions:** 16.27 (1), 16.2 (1), 0.16 (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** for example (1)
@@ -3666,12 +3617,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=0)** - [Michael] I hope you've enjoyed the course and it's given you a practical understanding of what's needed in a typical financial modeling project.
+> **[0:00](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=0)** - [Michael] I hope you've enjoyed the course and it's given you a practical understanding of what's needed in a typical [[Financial Modeling]] project.
 >
 > **[0:08](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=8)** Throughout this course we've learned about the three major types of financial models and the work and effort required to develop those models.
 >
@@ -3687,7 +3637,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=54)** The third type of model that we looked at were buyout models.
 >
-> **[0:57](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=57)** These models are often used in investment banking and by investment bankers advising clients looking at mergers and acquisition deals.
+> **[0:57](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=57)** These models are often used in investment [[Banking]] and by investment bankers advising clients looking at mergers and acquisition deals.
 >
 > **[1:07](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=67)** As you move forward in your career, I recommend you keep a couple of things in mind.
 >
@@ -3695,7 +3645,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=75)** Financial modeling is always evolving, and while you now have all of the foundations that you need to be an effective modeler, there's always more to learn.
 >
-> **[1:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=86)** To that end, I recommend three great courses here on LinkedIn learning: Financial Forecasting with Big Data, Algorithmic Trading and Stock Essentials Training, and Pricing Analytics for Corporate Finance Essential Training.
+> **[1:26](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=86)** To that end, I recommend three great courses here on [[LinkedIn]] learning: [[Financial Forecasting]] with [[Big Data]], [[Algorithmic Trading]] and Stock Essentials Training, and Pricing Analytics for [[Corporate Finance]] Essential Training.
 >
 > **[1:40](https://www.linkedin.com/learning/financial-modeling-foundations-2018/next-steps?u=76281980&t=100)** Each of these courses relates closely to applied financial models that we've talked about throughout this course.
 >
@@ -3705,7 +3655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Banking]] (1), career (1), [[LinkedIn]] (1), [[Financial Forecasting]] (1)
+> **Frameworks & Libraries:** [[Financial Modeling]] (3), [[Banking]] (1), [[LinkedIn]] (1), [[Financial Forecasting]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)

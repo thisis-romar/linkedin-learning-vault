@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/css-display/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), web (1)
 > **Env Vars:** css (2)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -97,12 +95,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inline elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980)
+#### [Inline elements](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980&t=1)** - By default, before applying any browser or author style sheet, every html element is set to a value of inline for its display property.
+> **[0:01](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980&t=1)** - By default, before applying any browser or author style sheet, every [[HTML]] element is set to a value of inline for its display property.
 >
 > **[0:11](https://www.linkedin.com/learning/css-display/inline-elements?u=76281980&t=11)** The browser style sheet will override many of those html elements to block values instead.
 >
@@ -234,19 +231,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), next (2), generic (1), feature (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Definitions:** in other words (6), is a  (2), defined as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - by (1)
 
-#### Block elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/block-elements?u=76281980)
+#### [Block elements](https://www.linkedin.com/learning/css-display/block-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=1)** - [Instructor] Block elements are the other default value you'll encounter with your HTML elements.
+> **[0:01](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=1)** - [Instructor] Block elements are the other default value you'll encounter with your [[HTML]] elements.
 >
 > **[0:06](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=6)** In general, a block element is one that holds big blocks of information, elements like section, article, aside, header, footer, and body are all block level, but a number of other elements that contain content are also block level, like paragraphs, headings, tables and lists.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=79)** And what is the section tag's containing element?
 >
-> **[1:21](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=81)** It's the body element, even though we don't see it here in CodePen, you know that it's there.
+> **[1:21](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=81)** It's the body element, even though we don't see it here in [[CodePen]], you know that it's there.
 >
 > **[1:27](https://www.linkedin.com/learning/css-display/block-elements?u=76281980&t=87)** Let's go ahead and turn on borders for all of those.
 >
@@ -354,18 +350,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), generic (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Env Vars:** html (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding proper nesting of block and inline elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/understanding-proper-nesting-of-block-and-inline-elements?u=76281980)
+#### [Understanding proper nesting of block and inline elements](https://www.linkedin.com/learning/css-display/understanding-proper-nesting-of-block-and-inline-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-display/understanding-proper-nesting-of-block-and-inline-elements?u=76281980&t=1)** - [Instructor] As you've seen in the last two videos, block and inline are two really core concepts to CSS and to HTML.
+> **[0:01](https://www.linkedin.com/learning/css-display/understanding-proper-nesting-of-block-and-inline-elements?u=76281980&t=1)** - [Instructor] As you've seen in the last two videos, block and inline are two really core concepts to CSS and to [[HTML]].
 >
 > **[0:10](https://www.linkedin.com/learning/css-display/understanding-proper-nesting-of-block-and-inline-elements?u=76281980&t=10)** And so I thought I'd present the last very important concept in terms of block and inline.
 >
@@ -431,15 +426,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display: none vs. visibility: hidden
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980)
+#### [Display: none vs. visibility: hidden](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=20)** So let's look at that difference now.
 >
-> **[0:23](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=23)** So here inside of this CodePen, this is the same sort of section with the heading and the paragraph with some inline elements inside of it that you've seen before.
+> **[0:23](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=23)** So here inside of this [[CodePen]], this is the same sort of section with the heading and the paragraph with some inline elements inside of it that you've seen before.
 >
 > **[0:34](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=34)** I'm going to go ahead and write some CSS here to demonstrate this.
 >
@@ -497,13 +491,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=166)** We still have space there for h3, but the h2 space is completely disappeared.
 >
-> **[2:53](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=173)** So, if you happen to be in a situation where you want to hide some texts, but you want to keep the space, that may be very well true for something with JavaScript for example, where we are making something appear and disappear, and you don't want the whole page to wiggle around and everything goes squirrely on it.
+> **[2:53](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=173)** So, if you happen to be in a situation where you want to hide some texts, but you want to keep the space, that may be very well true for something with [[JavaScript]] for example, where we are making something appear and disappear, and you don't want the whole page to wiggle around and everything goes squirrely on it.
 >
 > **[3:10](https://www.linkedin.com/learning/css-display/display-none-vs-visibility-hidden?u=76281980&t=190)** Visibility hidden may be a better choice for you than something like display none, which will actually remove the space that the text previously occupied.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[CodePen]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[JavaScript]] (1)
 > **Env Vars:** css (3)
 > **Definitions:** means that (3)
 > **Analogies:** for example (2), kind of like (1)
@@ -515,8 +509,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding layouts with inline flex and grid
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980)
+#### [Understanding layouts with inline flex and grid](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980&t=44)** So in this particular example, I've got a div with a class of row.
 >
-> **[0:49](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980&t=49)** You've seen this kind of HTML before, all kinds of places.
+> **[0:49](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980&t=49)** You've seen this kind of [[HTML]] before, all kinds of places.
 >
 > **[0:53](https://www.linkedin.com/learning/css-display/understanding-layouts-with-inline-flex-and-grid?u=76281980&t=53)** Got a div with a glass of row.
 >
@@ -622,15 +615,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Definitions:** is a  (3), in other words (3)
 > **Env Vars:** html (2), css (1)
 > **Tools:** firefox (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Flow-root and floats
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980)
+#### [Flow-root and floats](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +638,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980&t=29)** And I am just going to go ahead and float that image because of course, image is an inline element.
 >
-> **[0:35](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980&t=35)** It is indeed in-line with the rest of the words in my paragraph, but it looks a little weird because of course the text aligned to the bottom of the image by default.
+> **[0:35](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980&t=35)** It is indeed in-line with the [[Representational State Transfer (REST)|rest]] of the words in my paragraph, but it looks a little weird because of course the text aligned to the bottom of the image by default.
 >
 > **[0:43](https://www.linkedin.com/learning/css-display/flow-root-and-floats?u=76281980&t=43)** So all we need to do is say img and then we can say something like float left, and uh, if you want to put a margin around it and so forth, you can do that as well.
 >
@@ -692,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1), game (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (5)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Inline-block
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/inline-block?u=76281980)
+#### [Inline-block](https://www.linkedin.com/learning/css-display/inline-block?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,13 +706,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=42)** And if you notice the markup here, this is the way navigation bars should be marked up all the time.
 >
-> **[0:48](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=48)** I can't believe the crazy HTML I see these days of people trying not to use lists for navigation bars, but the nav tag goes around the outside of this.
+> **[0:48](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=48)** I can't believe the crazy [[HTML]] I see these days of people trying not to use lists for navigation bars, but the nav tag goes around the outside of this.
 >
 > **[0:58](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=58)** It's an unordered list because this is a list of links.
 >
 > **[1:01](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=61)** They can be visited in any particular order.
 >
-> **[1:03](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=63)** So this is the correct semantic markup for any navigation bar that's out there.
+> **[1:03](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=63)** So this is the correct [[Semantic Markup]] for any navigation bar that's out there.
 >
 > **[1:08](https://www.linkedin.com/learning/css-display/inline-block?u=76281980&t=68)** Now, if you take a look at our CSS styling underneath of that you'll see here that I've just pre-configured a few things here for you.
 >
@@ -799,18 +790,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[HTML]] (1), [[Semantic Markup]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Semantic Markup]] (1)
 > **Definitions:** in other words (2), is a  (1), is an  (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (1), css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Table, inline-table, and its internal structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980)
+#### [Table, inline-table, and its internal structures](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=1)** - [Instructor] In terms of markup in HTML table is about as complicated as things get.
+> **[0:01](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=1)** - [Instructor] In terms of markup in [[HTML]] table is about as complicated as things get.
 >
 > **[0:07](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=7)** There are so many different tags that are used inside of a table, and they have a very specific way in which they can be nested.
 >
@@ -820,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=28)** My, the course is called HTML Tables.
 >
-> **[0:30](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=30)** It's available here at LinkedIn Learning and it will walk you through the process of marking up a table, styling it and making it responsive.
+> **[0:30](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=30)** It's available here at [[LinkedIn]] Learning and it will walk you through the process of marking up a table, styling it and making it responsive.
 >
 > **[0:39](https://www.linkedin.com/learning/css-display/table-inline-table-and-its-internal-structures?u=76281980&t=39)** And if you don't have a background in how to put together a table this is the best place to start because I don't have time to walk you through all of the table tags and exactly how they're nested in this example.
 >
@@ -892,15 +882,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[LinkedIn]] (1), product (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[LinkedIn]] (1)
 > **Definitions:** is called (1), in other words (1), is a  (1)
 > **Env Vars:** html (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### List-item
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/list-item?u=76281980)
+#### [List-item](https://www.linkedin.com/learning/css-display/list-item?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/css-display/list-item?u=76281980&t=8)** Well, remember that if you want to convey the semantic meaning of a list like steps that have to be completed in a certain order or a list of things, that those need to be marked up as a list with either the UL for unordered lists or the OL for ordered list, plus LI for your individual list items.
 >
-> **[0:29](https://www.linkedin.com/learning/css-display/list-item?u=76281980&t=29)** You need to use semantic HTML to convey the meaning of what it is that you want to show.
+> **[0:29](https://www.linkedin.com/learning/css-display/list-item?u=76281980&t=29)** You need to use semantic [[HTML]] to convey the meaning of what it is that you want to show.
 >
 > **[0:35](https://www.linkedin.com/learning/css-display/list-item?u=76281980&t=35)** However, if you want the look of a list without conveying the meaning of a list, you can replicate this with a list item display property.
 >
@@ -986,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), css (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), css (2)
 > **CLI Commands:** make (2)
 > **Versions:** 1.5 (2)
@@ -998,8 +987,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/css-display/next-steps-25753009?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/css-display/next-steps-25753009?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1021,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (1)
 > **Env Vars:** css (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - hey (1)

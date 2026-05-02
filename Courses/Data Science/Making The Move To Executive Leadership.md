@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three circles of executive performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
+#### [Three circles of executive performance](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=0)** - Whether you're a people manager focused on making the jump to [[Executive Leadership]] or an individual contributor seeking to understand your senior leaders, this course is for you.
+> **[0:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=0)** - Whether you're a people manager focused on making the jump to [[[[Executive Leadership]]]] or an individual contributor seeking to understand your senior leaders, this course is for you.
 >
 > **[0:13](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/three-circles-of-executive-performance?u=76281980&t=13)** As an Amazon VP, I successfully guided many people to senior leadership roles, and today, I do the same as an executive coach.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Executive Leadership]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - whether (1)
 
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaled, deep leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
+#### [Scaled, deep leadership](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/scaled-deep-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,13 +176,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), next (1), business (1), career (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** pitfall (1)
 > **Speakers:** - steve (1)
 
-#### Change agent: Inventing and solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/change-agent-inventing-and-solving?u=76281980)
+#### [Change agent: Inventing and solving](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/change-agent-inventing-and-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -254,8 +250,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - i (1)
 
-#### Invention
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980)
+#### [Invention](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -285,7 +280,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980&t=94)** Your team can only invent for you if you both set the expectation that this is part of their job, and give them the time to think.
 >
-> **[1:44](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980&t=104)** A high-tech example of this approach is the famous 20% time policy at Google where employees can spend up to 20% of their work time on a project of their own choosing.
+> **[1:44](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980&t=104)** A high-tech example of this approach is the famous 20% time policy at [[Google]] where employees can spend up to 20% of their work time on a project of their own choosing.
 >
 > **[1:58](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/invention?u=76281980&t=118)** Perhaps you can't grant your team a day every week to work on whatever they want.
 >
@@ -307,13 +302,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Google]] (1), management (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - while (1)
 
-#### Trusted decision maker
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/trusted-decision-maker?u=76281980)
+#### [Trusted decision maker](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/trusted-decision-maker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -389,7 +383,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (2), business (1)
 > **CLI Commands:** make (8)
 > **Analogies:** for example (1), picture (1)
 > **Env Vars:** ceo (1)
@@ -397,8 +390,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - when (1)
 
-#### How to: Build and demonstrate executive presence
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-build-and-demonstrate-executive-presence?u=76281980)
+#### [How to: Build and demonstrate executive presence](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-build-and-demonstrate-executive-presence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,8 +463,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - i (1)
 
-#### How to: Know where you stand
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-know-where-you-stand?u=76281980)
+#### [How to: Know where you stand](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-know-where-you-stand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -540,7 +531,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), strengths (1)
 > **Analogies:** picture (1)
 > **Warnings:** warning (1)
 > **Speakers:** - many (1)
@@ -550,8 +540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Executing with little oversight
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
+#### [Executing with little oversight](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +550,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=18)** You must do this while collaborating with peers and partners worldwide.
 >
-> **[0:24](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=24)** In this short video, I can't teach you the deep skills for each area of basic team leadership.
+> **[0:24](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=24)** In this short video, I can't teach you the deep skills for each area of basic [[Team Leadership]].
 >
 > **[0:32](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=32)** This is just like what you'll experience as an executive.
 >
@@ -571,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=56)** You must staff your organization with top talent in your field.
 >
-> **[1:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=60)** You can't blame recruiting for unfilled positions or expect human resources to develop and retain your team.
+> **[1:00](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=60)** You can't blame recruiting for unfilled positions or expect [[Human Resources (HR)|human resources]] to develop and retain your team.
 >
 > **[1:08](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=68)** Like everything else, you own it.
 >
@@ -587,7 +576,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=102)** Good leaders do push their teams, but they also bring out their best by creating a strong vision.
 >
-> **[1:50](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=110)** Follows Simon Sinek, author of "Start with Why" here on LinkedIn to get specific tactics to do this.
+> **[1:50](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=110)** Follows Simon Sinek, author of "Start with Why" here on [[LinkedIn]] to get specific tactics to do this.
 >
 > **[1:59](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/executing-with-little-oversight?u=76281980&t=119)** Now that your team is motivated, you need to organize and lead them to deliver valuable projects.
 >
@@ -617,14 +606,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), hit (2), [[Team Leadership]] (1), [[Human Resources (HR)|Human resources]] (1), hr (1)
+> **Frameworks & Libraries:** [[Team Leadership]] (1), [[Human Resources (HR)|Human resources]] (1), [[LinkedIn]] (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - an (1)
 
-#### Taking risks and recovering from setbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/taking-risks-and-recovering-from-setbacks?u=76281980)
+#### [Taking risks and recovering from setbacks](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/taking-risks-and-recovering-from-setbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,14 +686,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), management (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Analogies:** for example (1)
 > **Speakers:** - jeff (1)
 
-#### Delivering results
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/delivering-results?u=76281980)
+#### [Delivering results](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/delivering-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,7 +755,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), product (1), leadership (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** dvr (1)
 > **Speakers:** - i (1)
@@ -779,8 +764,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Developing strategic vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
+#### [Developing strategic vision](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,7 +800,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=107)** Tech companies, banks, manufacturers, and consulting firms all approach business in different ways.
 >
-> **[1:55](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=115)** These companies all have distinct strategies to address climate change, benefit from AI, or make money with electric vehicles.
+> **[1:55](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=115)** These companies all have distinct strategies to address [[Climate Change]], benefit from AI, or make money with electric vehicles.
 >
 > **[2:05](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=125)** If you don't understand your company's business model, you can start learning by paying attention to what the CEO, the board, and the press are saying about the company direction.
 >
@@ -826,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=155)** Planned strategy is when we think through a new development and make a plan to go start a new business in a given area.
 >
-> **[2:43](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=163)** Examples include Apple entering the phone business, or Amazon moving from e-commerce to web services.
+> **[2:43](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=163)** Examples include Apple entering the phone business, or Amazon moving from [[E-Commerce]] to web services.
 >
 > **[2:52](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/developing-strategic-vision?u=76281980&t=172)** Emergent strategy is when we recognize something that is already happening in our business, and change to do more of it.
 >
@@ -848,7 +832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), next (2), leadership (1), feature (1), teams (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1), [[E-Commerce]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -856,8 +840,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - executives (1)
 
-#### Leading the whole enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980)
+#### [Leading the whole enterprise](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980&t=64)** This same logic applies to each combination of roles where succeeding in your own function is not enough if another function falls short.
 >
-> **[1:14](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980&t=74)** At Amazon, I owned building an app store business to compete with Google on the Android phone platform.
+> **[1:14](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980&t=74)** At Amazon, I owned building an app store business to compete with [[Google]] on the [[Android]] phone platform.
 >
 > **[1:23](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-the-whole-enterprise?u=76281980&t=83)** A year later, Amazon decided to launch its own line of Kindle tablets.
 >
@@ -913,12 +896,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), teams (2), product (1), [[Google]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Android]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leading with influence
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-with-influence?u=76281980)
+#### [Leading with influence](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/leading-with-influence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,12 +962,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), data (2), power (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - the (1)
 
-#### How to: Engage executive sponsors
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980)
+#### [How to: Engage executive sponsors](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=6)** A good executive sponsor serves two main functions.
 >
-> **[0:10](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=10)** First, they may mentor you, giving you advice, and helping you improve your [[Executive Leadership]] skills.
+> **[0:10](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=10)** First, they may mentor you, giving you advice, and helping you improve your [[[[Executive Leadership]]]] skills.
 >
 > **[0:18](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-engage-executive-sponsors?u=76281980&t=18)** Second, they advocate for you, putting you forward for growth opportunities, high profile projects, and ultimately, for promotion.
 >
@@ -1057,7 +1037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Executive Leadership]] (1), product (1), leadership (1), career (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - you (1)
 
@@ -1066,8 +1046,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to: Get unstuck in your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
+#### [How to: Get unstuck in your career](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1102,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980&t=198)** At this level, being seen as sturdy and reliable is no longer a positive signal to promote you, but rather indicates that you are trusted to take direction and execute.
 >
-> **[3:32](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980&t=212)** You must go beyond completing assigned tasks to think big, invent new products, and drive valuable changes at the executive level.
+> **[3:32](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980&t=212)** You must go beyond completing assigned tasks to think big, invent new [[Microsoft Products|products]], and drive valuable changes at the executive level.
 >
 > **[3:43](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-get-unstuck-in-your-career?u=76281980&t=223)** Finally, changing your existing reputation may be easier with a fresh start in another team.
 >
@@ -1133,13 +1112,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), leadership (4), next (2), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Speakers:** - it (1)
 
-#### Understand your organization's executive promotion process
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/understand-your-organization-s-executive-promotion-process?u=76281980)
+#### [Understand your organization's executive promotion process](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/understand-your-organization-s-executive-promotion-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,13 +1187,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), next (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - having (1)
 
-#### Confirm the challenge level
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/confirm-the-challenge-level?u=76281980)
+#### [Confirm the challenge level](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/confirm-the-challenge-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,11 +1255,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (1), leadership (1), teams (1)
 > **Speakers:** - a (1)
 
-#### How to: Increase your scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980)
+#### [How to: Increase your scope](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1321,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980&t=205)** Lastly, other companies may be better growth opportunities.
 >
-> **[3:31](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980&t=211)** Throughout the 2010s, the big tech industry of Amazon, Google, Microsoft, and Meta were growing rapidly.
+> **[3:31](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980&t=211)** Throughout the 2010s, the big tech industry of Amazon, [[Google]], [[Microsoft]], and Meta were growing rapidly.
 >
 > **[3:41](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-increase-your-scope?u=76281980&t=221)** Now they're not growing as much, but the next wave of startups and segments like FinTech are growing instead.
 >
@@ -1355,13 +1329,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (2), business (2), leadership (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - executive (1)
 
-#### How to: Work around poor managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-work-around-poor-managers?u=76281980)
+#### [How to: Work around poor managers](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/how-to-work-around-poor-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1419,7 +1392,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - it (1)
@@ -1429,8 +1401,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From action to results
-> [LinkedIn Learning](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)
+#### [From action to results](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1456,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=56)** We then went on to your role as a team leader.
 >
-> **[1:01](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=61)** You master the basics of large team leadership, so that you don't need support to execute.
+> **[1:01](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=61)** You master the basics of large [[Team Leadership]], so that you don't need support to execute.
 >
 > **[1:08](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=68)** Seek feedback from your manager and key peers to pinpoint where you need to improve.
 >
@@ -1498,11 +1469,11 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=200)** That's everything.
 >
-> **[3:21](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=201)** I invite you to follow me here on LinkedIn as EthanEvansVP.
+> **[3:21](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=201)** I invite you to follow me here on [[LinkedIn]] as EthanEvansVP.
 >
 > **[3:27](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=207)** You can also reach me through my website, [EthanEvans.com](https://EthanEvans.com).
 >
-> **[3:32](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=212)** I share advice about high performance careers and large scale product development on LinkedIn nearly every day.
+> **[3:32](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=212)** I share advice about high performance careers and large scale [[Product Development]] on LinkedIn nearly every day.
 >
 > **[3:40](https://www.linkedin.com/learning/making-the-move-to-executive-leadership/from-action-to-results?u=76281980&t=220)** I hope you'll find it helpful after this class.
 >
@@ -1510,7 +1481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[LinkedIn]] (2), [[Team Leadership]] (1), leadership (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Team Leadership]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (2), find (1)
 > **URLs:** [ethanevans.com](https://ethanevans.com) (1)
 > **Cross-References:** we covered (1)

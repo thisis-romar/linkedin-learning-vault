@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is social media marketing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
+#### [What is social media marketing?](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980&t=0)** - Social media marketing is the process of using social platforms to reach both new and existing customers with a mix of entertaining, educational and promotional messaging.
+> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980&t=0)** - [[Social Media Marketing]] is the process of using social platforms to reach both new and existing customers with a mix of entertaining, educational and promotional messaging.
 >
-> **[0:12](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980&t=12)** Businesses can use social media to market their products and services, gain attention for their brand, build a stronger connection with customers and considerably increase sales.
+> **[0:12](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980&t=12)** Businesses can use social media to market their [[Microsoft Products|products]] and services, gain attention for their brand, build a stronger connection with customers and considerably increase sales.
 >
 > **[0:23](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/what-is-social-media-marketing?u=76281980&t=23)** Hi, I'm Brian Honigman.
 >
@@ -98,15 +97,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[Microsoft Products|Products]] (1), career (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[Microsoft Products|Products]] (1)
 > **Speakers:** - social (1)
 
-#### Use the provided handouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/use-the-provided-handouts?u=76281980)
+#### [Use the provided handouts](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/use-the-provided-handouts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/use-the-provided-handouts?u=76281980&t=0)** - This course is about exploring the fundamentals of social media marketing and using these principles to drive meaningful results for your business.
+> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/use-the-provided-handouts?u=76281980&t=0)** - This course is about exploring the fundamentals of [[Social Media Marketing]] and using these principles to drive meaningful results for your business.
 >
 > **[0:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/use-the-provided-handouts?u=76281980&t=10)** What works for my coaching and consulting clients is putting these best practices into action and applying them to their unique circumstances.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Social Media Marketing]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2)
 > **Documentation:** reference guide (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -138,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Produce an actionable social media strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
+#### [Produce an actionable social media strategy](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,9 +160,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=85)** First, you want to define the goals you're looking to achieve with your use of social media so you can ensure any campaign you create in the future is in support of these outcomes.
 >
-> **[1:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=96)** Choose goals for your social media marketing that align with the priorities of your organization over the next few weeks, months, or quarters.
+> **[1:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=96)** Choose goals for your [[Social Media Marketing]] that align with the priorities of your organization over the next few weeks, months, or quarters.
 >
-> **[1:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=106)** For example, if your company is expanding and looking to hire 50 new positions, you might set a goal to increase referral traffic from social media to the career pages on your website by 15%, and double the number of applicants applying to open positions on LinkedIn.
+> **[1:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=106)** For example, if your company is expanding and looking to hire 50 new positions, you might set a goal to increase referral traffic from social media to the career pages on your website by 15%, and double the number of applicants applying to open positions on [[LinkedIn]].
 >
 > **[2:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=124)** This is the most important section to get right, as it impacts all the decisions you make throughout your plan.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=180)** Some of these should be educational, entertaining, or promotional.
 >
-> **[3:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=185)** For instance, Thrive Market, an e-commerce retailer selling natural and organic food products, uses Pinterest to share recipes, shopping lists for entertaining guests, and articles on navigating your own wellness.
+> **[3:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=185)** For instance, Thrive Market, an [[E-Commerce]] retailer selling natural and organic food [[Microsoft Products|products]], uses Pinterest to share recipes, shopping lists for entertaining guests, and articles on navigating your own [[Wellness]].
 >
 > **[3:19](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-an-actionable-social-media-strategy?u=76281980&t=199)** They've intentionally curated content on subjects of interest to their health-conscious customers and formats aligned with the channels they're using to find this type of information.
 >
@@ -205,19 +202,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Social Media Marketing]] (3), teams (1), traffic (1), career (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (3), [[LinkedIn]] (1), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Wellness]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1), for instance (1)
 > **Prerequisites:** getting started (1), you'll need (1)
 > **Warnings:** common mistake (1)
 > **Speakers:** - a (1)
 
-#### Focus on social media measurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980)
+#### [Focus on social media measurement](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=0)** - There's no guarantees with social media marketing.
+> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=0)** - There's no guarantees with [[Social Media Marketing]].
 >
 > **[0:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/focus-on-social-media-measurement?u=76281980&t=4)** Even with the best strategy in place, you might not achieve the results you're after, but you're more likely to when you're consistently measuring your performance to cater your social media efforts to what's working and shifting your focus away from lackluster activities.
 >
@@ -273,15 +269,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Social Media Marketing]] (2), data (1), business (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Develop marketing personas for your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980)
+#### [Develop marketing personas for your audience](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=51)** The point of personas is to have them act as a single source of truth on who your audience is so you can reference them again when you're creating your social media campaigns.
 >
-> **[1:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=60)** This information about your customers can come from observations, reviewing existing analytics data from your website, social media, your retail locations, CRM or other contact points, as well as formal market research, like conducting a survey, running a focus group, or through an ethnographic interview.
+> **[1:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=60)** This information about your customers can come from observations, reviewing existing analytics data from your website, social media, your retail locations, CRM or other contact points, as well as formal [[Market Research]], like conducting a survey, running a focus group, or through an ethnographic interview.
 >
 > **[1:22](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=82)** Start putting together your own personas by organizing your customers into groups based on shared characteristics, and then assign demographics and behaviors that accurately define them.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=198)** The last section to include is your persona's communication preferences, which includes where they prefer to share information with others and what news sources they typically reference.
 >
-> **[3:29](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=209)** Here you'd list the social media they most often use, creators they follow, podcasts they listen to, publications they read, newsletters they subscribe to, et cetera.
+> **[3:29](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=209)** Here you'd list the social media they most often use, creators they follow, podcasts they listen to, publications they read, [[Newsletters]] they subscribe to, et cetera.
 >
 > **[3:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/develop-marketing-personas-for-your-audience?u=76281980&t=221)** For the Yogi Parents persona, they might follow influencers on TikTok and Instagram known for clean eating and meal prep, and read publications like Yoga Journal or Mindbodygreen.
 >
@@ -331,18 +326,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), data (1), [[Market Research]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** crm (1)
 > **Speakers:** - if (1)
 
-#### Hire a social media manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980)
+#### [Hire a social media manager](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=0)** - To unlock the full potential of social media marketing for your organization, hire a social media manager.
+> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=0)** - To unlock the full potential of [[Social Media Marketing]] for your organization, hire a social media manager.
 >
 > **[0:08](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=8)** Often, the effort and expertise required to succeed with social media is underestimated, leading to lackluster results since the medium isn't given proper support from the start.
 >
@@ -350,11 +344,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=37)** A social media manager's focus in terms of channels will vary depending on the type of organization, how big their company is, the complexity of their marketing activities, and the size of their audience on these channels.
 >
-> **[0:51](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=51)** Like how a social media manager at a small nonprofit may run the organization's LinkedIn, Instagram, and Twitter accounts, as long as the size of their communities are manageable.
+> **[0:51](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=51)** Like how a social media manager at a small nonprofit may run the organization's [[LinkedIn]], Instagram, and Twitter accounts, as long as the size of their communities are manageable.
 >
 > **[1:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=63)** Compared to a social media manager at a global brand who may only work on the company's TikTok account due to the resources it requires, and they've got a big team supporting them.
 >
-> **[1:15](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=75)** While the channels they're responsible for depend on their organization, their responsibilities are usually consistent across strategy, content creation, and community management.
+> **[1:15](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=75)** While the channels they're responsible for depend on their organization, their responsibilities are usually consistent across strategy, [[Content Creation]], and community management.
 >
 > **[1:26](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/hire-a-social-media-manager?u=76281980&t=86)** From the strategy perspective, the social media manager will not only contribute to defining what your strategy should be on social media, but helps make sure that plan actually gets executed.
 >
@@ -400,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), business (2), [[Content Creation]] (2), [[Social Media Marketing]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Content Creation]] (2), [[Social Media Marketing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - to (1)
@@ -410,8 +404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Community-based social networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
+#### [Community-based social networks](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,13 +418,13 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=28)** To determine which options are a match for your company, recognize that there's different types of social channels with unique use cases, strengths, and weaknesses to account for.
 >
-> **[0:39](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=39)** One of the most popular types are community-based social networks like Facebook, Instagram, Twitter, and LinkedIn.
+> **[0:39](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=39)** One of the most popular types are community-based social networks like Facebook, Instagram, Twitter, and [[LinkedIn]].
 >
 > **[0:47](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=47)** These are social networks where users populate the content in their own feed by choosing to follow certain accounts, usually their friends, family, coworkers, and other connections.
 >
 > **[0:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=58)** Consumers use these social networks to publicly post updates on their lives, communicate with their communities, and stay up to date on what's happening with these contacts.
 >
-> **[1:09](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=69)** While these networks all have complex algorithms to help populate engaging content for users, they're heavily organized around an individual's social graph to ensure relevancy.
+> **[1:09](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=69)** While these networks all have complex [[Algorithms]] to help populate engaging content for users, they're heavily organized around an individual's social graph to ensure relevancy.
 >
 > **[1:20](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=80)** For businesses, a primary benefit of this type of network is the ability to advertise to a vast audience of engaged users at scale, with personalized content and sophisticated targeting.
 >
@@ -451,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=150)** A highly visual social network, businesses can share images and short form videos, known as stories and reels, and connect with creators there to help promote their offerings.
 >
-> **[2:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=161)** The service is particularly ideal for companies selling highly visual, well-designed products like clothing, jewelry, beauty products, home decor, fitness equipment, art, and more.
+> **[2:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=161)** The service is particularly ideal for companies selling highly visual, well-designed [[Microsoft Products|products]] like clothing, jewelry, beauty products, home decor, fitness equipment, art, and more.
 >
 > **[2:54](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=174)** Let's move on to Twitter, which is known for its text-based messages, called Tweets, and it's fast-paced conversations leading to up to the minute coverage of current events worldwide.
 >
@@ -461,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=207)** Another major social channel is LinkedIn, which is a professional network for users looking for a job to connect with people in their industry, showcase their expertise, and improve their professional skills.
 >
-> **[3:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=221)** Owned by Microsoft, LinkedIn is a widely trusted channel, ideal for companies looking to recruit talent by showcasing their employer brand and advertising to business-minded customers.
+> **[3:41](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=221)** Owned by [[Microsoft]], LinkedIn is a widely trusted channel, ideal for companies looking to recruit talent by showcasing their employer brand and advertising to business-minded customers.
 >
 > **[3:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/community-based-social-networks?u=76281980&t=233)** Especially relevant to B2B organizations, LinkedIn provides advertisers with the ability to target relevant individuals based on their professional titles they've listed on their profiles.
 >
@@ -469,14 +462,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), business (2), [[Microsoft Products|Products]] (2), strengths (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Microsoft Products|Products]] (2), [[Algorithms]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (4), known as (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovery-focused social platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980)
+#### [Discovery-focused social platforms](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=26)** While anyone has the ability to upload their content to these channels, only a small percentage of their overall audience actually does publish, which is usually creators and businesses.
 >
-> **[0:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=38)** Users discover quality content on these networks by relying on the recommendations provided by their advanced algorithms, using their search functionality, and following creators.
+> **[0:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=38)** Users discover quality content on these networks by relying on the recommendations provided by their advanced [[Algorithms]], using their search functionality, and following creators.
 >
 > **[0:49](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=49)** TikTok and YouTube are where people spend the most time on social media as audiences spend an average of 45 minutes per day there surpassing the other major networks.
 >
@@ -500,13 +492,13 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=96)** Businesses benefit from TikTok by working with creators on the platform, advertising with user generated content, creating original sounds and songs made for distribution on TikTok, and by developing original video series that sometimes incorporate trends.
 >
-> **[1:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=113)** Next is YouTube, the popular Google-owned platform for watching videos usually of a few minutes in length covering every subject from makeup to movie reviews to recipes.
+> **[1:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=113)** Next is YouTube, the popular [[Google]]-owned platform for watching videos usually of a few minutes in length covering every subject from makeup to movie reviews to recipes.
 >
 > **[2:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=125)** Businesses can launch their own YouTube channel to share original programming with their subscribers as a way to build a stronger connection, given they're able to go into more depth and reach new audiences in the long term through searches on YouTube or on Google, as these videos can rank as part of the search results on the world's number one search engine.
 >
 > **[2:27](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=147)** Plus, advertisers can serve ads before, during, or after a popular video is played on the platform to target the right audiences at scale, building awareness, and driving conversions.
 >
-> **[2:40](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=160)** Now, let's move on to Twitch, a live streaming network where viewers mainly watch live broadcasts from their favorite streamers playing video games while they provide commentary.
+> **[2:40](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=160)** Now, let's move on to Twitch, a [[Live Streaming]] network where viewers mainly watch live broadcasts from their favorite streamers playing video games while they provide commentary.
 >
 > **[2:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=173)** Streamers, which is what creators are called on Twitch, also host cooking shows, DJ sets, talk shows, and provide coverage of eSports.
 >
@@ -518,7 +510,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=219)** Pinterest is often used to spur ideas for weddings, interior design, recipes, and other creative projects.
 >
-> **[3:47](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=227)** Companies that sell visual consumer-facing products stand to benefit the most from Pinterest as a means of driving short-term results with targeted ads and long-term conversions with search.
+> **[3:47](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=227)** Companies that sell visual consumer-facing [[Microsoft Products|products]] stand to benefit the most from Pinterest as a means of driving short-term results with targeted ads and long-term conversions with search.
 >
 > **[3:59](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/discovery-focused-social-platforms?u=76281980&t=239)** That's because people come to Pinterest to purchase, as 85% of weekly Pinners purchase items based on Pins they've seen from brands.
 >
@@ -526,14 +518,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Google]] (2), [[Algorithms]] (1), next (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Algorithms]] (1), [[Live Streaming]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** esports (1)
 > **Speakers:** - lean (1)
 
-#### Social messaging apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980)
+#### [Social messaging apps](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=58)** Let's explore these services in more detail starting with WeChat, which is one of the most sophisticated social messaging apps available due to its functionality as an all-in-one app.
 >
-> **[1:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=70)** WeChat is a Chinese messaging app where users can communicate with friends, pay bills, buy products, and video chat, which is why it's often referred to as a super app.
+> **[1:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=70)** WeChat is a Chinese messaging app where users can communicate with friends, pay bills, buy [[Microsoft Products|products]], and video chat, which is why it's often referred to as a super app.
 >
 > **[1:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/social-messaging-apps?u=76281980&t=81)** Because popular apps like Facebook, Instagram, Snapchat, and Twitter are blocked by the Chinese government, this is one of the best channels for reaching consumers in China.
 >
@@ -573,13 +564,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), [[Security]] (1), [[Microsoft Products|Products]] (1), next (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - not (1)
 
-#### Review sites and discussion forums
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980)
+#### [Review sites and discussion forums](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,11 +583,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=36)** For instance, Yelp is a review site for restaurants and local businesses.
 >
-> **[0:42](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=42)** TripAdvisor showcases reviews for travel experiences like hotels and excursions, and G2 aggregates user reviews for business software, compared to Google Business Profile, OpenTable, Amazon and Facebook that provide a wide range of services, including allowing people to post reviews of products and businesses.
+> **[0:42](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=42)** TripAdvisor showcases reviews for travel experiences like hotels and excursions, and G2 aggregates user reviews for business software, compared to [[Google]] Business Profile, OpenTable, Amazon and Facebook that provide a wide range of services, including allowing people to post reviews of [[Microsoft Products|products]] and businesses.
 >
 > **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=64)** Generating reviews for your company matters as it's a way of collecting valuable feedback on how to improve your offerings.
 >
-> **[1:11](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=71)** And it's a marketing tool for building trust in what you sell.
+> **[1:11](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=71)** And it's a marketing tool for [[Building Trust]] in what you sell.
 >
 > **[1:15](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/review-sites-and-discussion-forums?u=76281980&t=75)** To make the most of either type of review site, first identify which destinations your customers reference for reviews, as these options do vary in relevance depending on the industry you're in.
 >
@@ -627,7 +617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (3), product (1), feature (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Google]] (1), [[Building Trust]] (1)
 > **Definitions:** is a  (5)
 > **Documentation:** stack overflow (2)
 > **CLI Commands:** make (1)
@@ -639,8 +629,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create organic content for social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
+#### [Create organic content for social media](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -666,7 +655,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=103)** When a story you're telling on social media is enjoyable, teaches something useful, or expresses your viewpoint on an important topic, it's more likely to be engaging to a customer.
 >
-> **[1:55](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=115)** It's okay to talk about the benefits of your products and services sometimes, but moving your messaging beyond that is an opportunity to connect with customers in an unexpected way.
+> **[1:55](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=115)** It's okay to talk about the benefits of your [[Microsoft Products|products]] and services sometimes, but moving your messaging beyond that is an opportunity to connect with customers in an unexpected way.
 >
 > **[2:07](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=127)** Next, you want to choose topics that are relevant to your customers.
 >
@@ -692,24 +681,23 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=224)** This calendar is often a spreadsheet or part of a marketing tool and coordinates the timing of your messaging and ensures you're balancing activities across each theme and channel.
 >
-> **[3:55](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=235)** Although some of your messages on social media will be shared in real time to react to important moments, you'll save time by pre-planning a majority of your organic content.
+> **[3:55](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=235)** Although some of your messages on social media will be shared in real time to [[React.js|react]] to important moments, you'll save time by pre-planning a majority of your organic content.
 >
 > **[4:07](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/create-organic-content-for-social-media?u=76281980&t=247)** Scale your organic messaging to the right audiences by investing in strategic themes that are engaging relevant and complementary, and of course, organized with an editorial calendar.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[React.js|React]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - what (1)
 
-#### Produce engaging paid social campaigns
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980)
+#### [Produce engaging paid social campaigns](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=0)** - Targeting the right people at scale is another major benefit of social media marketing.
+> **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=0)** - Targeting the right people at scale is another major benefit of [[Social Media Marketing]].
 >
 > **[0:06](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=6)** Known as paid social advertising or paid social for short, it's the process of paying to get your ads preferred placement on a social media channel to reach a specific audience.
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=29)** Ultimately, this helps you significantly improve a campaign's performance, an option not possible with many other marketing mediums.
 >
-> **[0:37](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=37)** Plus, these ads are formatted like organic posts, but with a label indicating they're an ad, so they don't come across as disruptive to consumers compared to other forms of advertising.
+> **[0:37](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=37)** Plus, these ads are formatted like organic posts, but with a label indicating they're an ad, so they don't come across as disruptive to consumers compared to other [[Forms]] of advertising.
 >
 > **[0:49](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=49)** You've likely seen examples of these ads yourself as they occasionally appear in the feeds of your favorite social networks alongside the organic posts you're most familiar with seeing.
 >
@@ -727,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=83)** A common use case of paid social is to support the launch of a new business or product line, given you can immediately start promoting it as soon as you have a budget to work with.
 >
-> **[1:34](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=94)** But in reality, you can use a paid social campaign at any stage of your company's maturity to gain awareness, traffic, engagement, leads, and of course sell your products and services.
+> **[1:34](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=94)** But in reality, you can use a paid social campaign at any stage of your company's maturity to gain awareness, traffic, engagement, leads, and of course sell your [[Microsoft Products|products]] and services.
 >
 > **[1:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/produce-engaging-paid-social-campaigns?u=76281980&t=106)** So what's the best way to successfully structure a paid social campaign to drive results?
 >
@@ -765,15 +753,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Social Media Marketing]] (1), [[Forms]] (1), business (1), product (1), traffic (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - targeting (1)
 
-#### Humanize your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980)
+#### [Humanize your content](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -785,17 +772,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=18)** Whether in the form of organic or paid social, customers want to see raw footage, the challenges you're facing behind the scenes, the processes that help your business run, the beliefs you have, and most of all, the people behind your brand.
 >
-> **[0:34](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=34)** The goal is to better humanize your brand through using social media, so you stand out for your unique point of view that other businesses can't duplicate, building trust in the process.
+> **[0:34](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=34)** The goal is to better humanize your brand through using social media, so you stand out for your unique point of view that other businesses can't duplicate, [[Building Trust]] in the process.
 >
 > **[0:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=46)** You can't try to manufacture it, as humanizing your content happens by establishing a set of values and a perspective for your brand that you consistently act on and communicate about.
 >
 > **[0:59](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=59)** So what does it look like to better humanize your content on social media?
 >
-> **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=64)** Well, one example is Ben & Jerry's on Instagram, as the ice cream brand not only posts about new flavors, but discusses social issues aligned to their values, like addressing voting barriers for minorities in the US and the importance of combating climate change.
+> **[1:04](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=64)** Well, one example is Ben & Jerry's on Instagram, as the ice cream brand not only posts about new flavors, but discusses social issues aligned to their values, like addressing voting barriers for minorities in the US and the importance of combating [[Climate Change]].
 >
 > **[1:22](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=82)** While it wouldn't make sense for most brands to chime in on these topics on social media, it works for Ben & Jerry's, as their communications reflect their mission statement and the actions the company consistently takes to help find solutions for these societal problems.
 >
-> **[1:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=98)** But, authenticity comes in many forms, as humanizing content for another brand could mean relying on self-deprecating humor or featuring employees in their social media more regularly.
+> **[1:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=98)** But, authenticity comes in many [[Forms]], as humanizing content for another brand could mean relying on self-deprecating humor or featuring employees in their social media more regularly.
 >
 > **[1:51](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=111)** That's because being authentic and sharing humanizing messaging isn't a formula you can master, but the act of knowing what your values and perspective is and committing to them long-term.
 >
@@ -803,7 +790,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=135)** No matter what your organization does, it's beneficial to feature your employees and company leadership across social media, as people are way easier to relate to.
 >
-> **[2:26](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=146)** Whether your founder is hosting a livestream on how they started the business, or you're showing employees using your products, these moments can help you be more relatable.
+> **[2:26](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=146)** Whether your founder is hosting a livestream on how they started the business, or you're showing employees using your [[Microsoft Products|products]], these moments can help you be more relatable.
 >
 > **[2:37](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/humanize-your-content?u=76281980&t=157)** One example of this that's becoming more common is having your social media manager be the onscreen talent in your messaging, building a relationship with your audience.
 >
@@ -823,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Building Trust]] (1), [[Climate Change]] (1), [[Forms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Climate Change]] (1), [[Forms]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - authenticity (1)
@@ -833,8 +820,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Embrace social listening and monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
+#### [Embrace social listening and monitoring](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +834,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=38)** This is possible by embracing social media monitoring, which is keeping track of your customers' conversations on social media about your brand specifically; as well as investing in social media listening, the process of analyzing the broad discussions on social media about your industry and any other topics of interest to your organization.
 >
-> **[1:02](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=62)** These similar but distinct forms of analysis are meant to help your company organize the conversations happening on social media into two separate categories.
+> **[1:02](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=62)** These similar but distinct [[Forms]] of analysis are meant to help your company organize the conversations happening on social media into two separate categories.
 >
 > **[1:13](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=73)** This way, your social monitoring efforts capture feedback about your brand, so you can address customer service concerns, adapt to useful input, and manage your reputation.
 >
@@ -860,7 +846,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=122)** Most companies will find value in social monitoring as listening and responding to this feedback demonstrates they care about customer input, fostering a connection with them.
 >
-> **[2:13](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=133)** At a minimum, a majority of organizations will use social listening to get a high-level overview of conversations in their industry and on social media at large, so they can react accordingly.
+> **[2:13](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=133)** At a minimum, a majority of organizations will use social listening to get a high-level overview of conversations in their industry and on social media at large, so they can [[React.js|react]] accordingly.
 >
 > **[2:24](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=144)** However, most won't have the resources to commit to a robust social listening program as big brands are often the firms with the capabilities to get the full value from this intelligence.
 >
@@ -870,7 +856,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=178)** - There's also many third party tools available, like Sprout Social or Hootsuite, to keep track of all the mentions of your brand, especially when you're trying to manage a constant influx.
 >
-> **[3:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=190)** What's distinct about these tools compared to the out-of-the-box options is that you can set alerts for specific keywords, like your brand name, products, and variations of these terms.
+> **[3:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=190)** What's distinct about these tools compared to the out-of-the-box options is that you can set alerts for specific keywords, like your brand name, [[Microsoft Products|products]], and variations of these terms.
 >
 > **[3:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=201)** Unless you're using a third-party tool, you may miss some of the mentions of your brand and its products, as not every consumer will compliment you or complain using your exact handle.
 >
@@ -878,7 +864,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=225)** Well-known brands typically need to rely on third-party enterprise tools, like Meltwater, Brandwatch, or Sprinklr, to properly analyze the conversations across industries at scale.
 >
-> **[3:59](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=239)** This way, these organizations can more quickly identify trending discussions as they happen that relate to their brand and decide whether or not to react to them in real-time.
+> **[3:59](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=239)** This way, these organizations can more quickly identify trending discussions as they happen that relate to their brand and decide whether or not to react to them in [[Real-Time]].
 >
 > **[4:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/embrace-social-listening-and-monitoring?u=76281980&t=250)** What's most important about your choice of social monitoring or social listening tools is whether it can help generate reporting in a timely manner for your team that's accurate.
 >
@@ -890,15 +876,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), business (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Microsoft Products|Products]] (2), [[Forms]] (1), [[Real-Time]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - listening (1), - there (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Proactive engagement to earn attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980)
+#### [Proactive engagement to earn attention](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +915,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=130)** While you don't need to accomplish all three things with every conversation the point is to foster trust with your audience through your long-term leadership on relevant topics.
 >
-> **[2:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=141)** For instance, the grocery store chain Lidl, has shared a series on LinkedIn for over a year called Lidl Expats discussing their employees experiences with their job rotation program.
+> **[2:21](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=141)** For instance, the grocery store chain Lidl, has shared a series on [[LinkedIn]] for over a year called Lidl Expats discussing their employees experiences with their job rotation program.
 >
 > **[2:32](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=152)** Each post tells a story of how a Lidl employee moved to a different country to take on a new role at their international organization.
 >
@@ -954,17 +939,16 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=228)** If your answer to all three questions is yes, then feel free to add your take to the discussion.
 >
-> **[3:56](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=236)** Take advantage of social media to proactively direct the conversation in your favor, building trust with your customers, and gaining positive attention for your brand.
+> **[3:56](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/proactive-engagement-to-earn-attention?u=76281980&t=236)** Take advantage of social media to proactively direct the conversation in your favor, [[Building Trust]] with your customers, and gaining positive attention for your brand.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (1), leadership (1), [[LinkedIn]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Building Trust]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **Definitions:** known as (1), is an  (1)
 > **Speakers:** - starting (1)
 
-#### Reactive engagement for customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980)
+#### [Reactive engagement for customer service](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,11 +972,11 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=96)** More often they'll acknowledge the customer's tweet publicly and ask them to send a direct message on Twitter so they can resolve the issue privately.
 >
-> **[1:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=106)** This way, they can ask for their account info and dive into the specifics that shouldn't be shared publicly because of privacy concerns and to limit the reach of negative customer experiences.
+> **[1:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=106)** This way, they can ask for their account info and dive into the specifics that shouldn't be shared publicly because of [[Privacy]] concerns and to limit the reach of negative customer experiences.
 >
 > **[1:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=118)** And that's the general approach your business should follow with reactive engagement.
 >
-> **[2:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=123)** Begin with social monitoring to keep track of messages, comments, and reviews on channels like Facebook, TikTok, Instagram, Twitter, Yelp or your Google Business profile.
+> **[2:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=123)** Begin with social monitoring to keep track of messages, comments, and reviews on channels like Facebook, TikTok, Instagram, Twitter, Yelp or your [[Google]] Business profile.
 >
 > **[2:16](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/reactive-engagement-for-customer-service?u=76281980&t=136)** Next, address all the questions, complaints, and requests for help you receive, whether they're positive or negative as long as they're constructive, ideally aim to answer their question or resolve the issue with your initial response.
 >
@@ -1022,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Privacy]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Google]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (2)
 > **Warnings:** troubleshoot (1), keep in mind (1)
@@ -1033,8 +1017,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coordinate teams with a social media policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
+#### [Coordinate teams with a social media policy](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1042,7 +1025,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980&t=2)** It takes a whole orchestra to play it."
 >
-> **[0:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980&t=5)** This quote from H. E. Luccock applies to social media marketing, given success is often the result of a group effort.
+> **[0:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980&t=5)** This quote from H. E. Luccock applies to [[Social Media Marketing]], given success is often the result of a group effort.
 >
 > **[0:13](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/coordinate-teams-with-a-social-media-policy?u=76281980&t=13)** While it should be led by your social media manager and marketing, the most successful social media activities happen in coordination with stakeholders on multiple teams.
 >
@@ -1084,12 +1067,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Social Media Marketing]] (1), leadership (1), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 
-#### Set up successful creator campaigns
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980)
+#### [Set up successful creator campaigns](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1085,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=51)** While there's a variety of different kinds of creators due to their focus, audience size, and the influence they yield, they're all effective at persuading their audience to take action.
 >
-> **[1:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=63)** From selling their own merchandise, encouraging signups for a petition, or promoting products on behalf of sponsors, creators have a unique ability to make an impact and that's why companies want to partner with them, to break through the noise on social media and reach customers that trust the opinions of these influential individuals.
+> **[1:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=63)** From selling their own merchandise, encouraging signups for a petition, or promoting [[Microsoft Products|products]] on behalf of sponsors, creators have a unique ability to make an impact and that's why companies want to partner with them, to break through the noise on social media and reach customers that trust the opinions of these influential individuals.
 >
 > **[1:26](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/set-up-successful-creator-campaigns?u=76281980&t=86)** For businesses, there's a variety of ways to partner with creators, regardless of your budget and resources, to increase brand awareness, drive engagement, and of course, earn sales.
 >
@@ -1133,15 +1115,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** mac (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - customers (1)
 
-#### Experiment beyond best practices in social
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980)
+#### [Experiment beyond best practices in social](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1136,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980&t=35)** For example, HP, a company that sells computers, printers, and other tech accessories, earned 5 million views on TikTok from a surprising campaign about the recycling efforts.
 >
-> **[0:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980&t=46)** Instead of promoting their products, they partnered with TikTok creators in the sustainability space to highlight HP's program, allowing customers to recycle their print cartridges for free.
+> **[0:46](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980&t=46)** Instead of promoting their [[Microsoft Products|products]], they partnered with TikTok creators in the [[Sustainability]] space to highlight HP's program, allowing customers to recycle their print cartridges for free.
 >
 > **[0:58](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/experiment-beyond-best-practices-in-social?u=76281980&t=58)** Environmentalism isn't an area you typically associate with a computer manufacturer, but that's one of the reasons why this experiment was a success for the company.
 >
@@ -1193,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), [[Microsoft Products|Products]] (1), [[Sustainability]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Sustainability]] (1)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - you (1)
@@ -1203,26 +1184,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay updated on social media marketing
-> [LinkedIn Learning](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)
+#### [Stay updated on social media marketing](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=0)** - Thank you so much for completing this course.
 >
-> **[0:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=3)** I hope you feel more confident about embracing social media marketing with purpose.
+> **[0:03](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=3)** I hope you feel more confident about embracing [[Social Media Marketing]] with purpose.
 >
 > **[0:09](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=9)** You're now ready to create your own social media strategy to guide your team on a productive path towards positively impacting your customers and driving business value.
 >
 > **[0:19](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=19)** Be sure to review the included worksheets as I designed each to help you act on the lessons we've discussed here, like choosing the right social networks and partnering with creators.
 >
-> **[0:30](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=30)** To continue to excel with social media marketing, it's important to stay updated by learning about new approaches, emerging channels, and advancements in marketing.
+> **[0:30](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=30)** To continue to [[Microsoft Excel|excel]] with social media marketing, it's important to stay updated by learning about new approaches, emerging channels, and advancements in marketing.
 >
 > **[0:40](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=40)** Being aware of these changes can ensure you more accurately adapt your activities on social media to new creative constraints.
 >
 > **[0:49](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=49)** This way, it's more likely your message will be heard.
 >
-> **[0:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=53)** To keep learning about what's happening with social media, be sure to take other LinkedIn Learning courses on the topic, like my course, Social Media For Leadership, or Essential Skills for Social Media Managers.
+> **[0:53](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=53)** To keep learning about what's happening with social media, be sure to take other [[LinkedIn]] Learning courses on the topic, like my course, Social Media For Leadership, or Essential Skills for Social Media Managers.
 >
 > **[1:05](https://www.linkedin.com/learning/social-media-marketing-foundations-22309474/stay-updated-on-social-media-marketing?u=76281980&t=65)** I recommend subscribing to news sources that cover what's next and what's happening now with social media, as well as marketing in general, like "Social Media Today," "Social Media Examiner," "Adweek," and "Marketing Dive."
 >
@@ -1238,7 +1218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Social Media Marketing]] (2), [[LinkedIn]] (2), business (1), [[Microsoft Excel|Excel]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Social Media Marketing]] (2), [[LinkedIn]] (2), [[Microsoft Excel|Excel]] (1)
 > **URLs:** [brianhonigman.com](https://brianhonigman.com) (1)
 > **Speakers:** - thank (1)
 

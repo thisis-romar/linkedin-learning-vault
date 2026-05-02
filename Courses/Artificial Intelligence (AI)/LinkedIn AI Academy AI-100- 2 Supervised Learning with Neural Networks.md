@@ -78,16 +78,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The LinkedIn AI Academy: Neural networks are the heart of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
+#### [The LinkedIn AI Academy: Neural networks are the heart of AI](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=0)** - [Ananth] Deep neural networks have made strong inroads in many areas including natural language processing image processing, and healthcare.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=0)** - [Ananth] Deep [[Neural Networks]] have made strong inroads in many areas including [[Natural Language Processing (NLP)|natural language processing]] [[Image Processing]], and healthcare.
 >
 > **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=13)** some of the most popular neural network architectures.
 >
-> **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=16)** We'll go through simple linear classification, neural networks, convolutional neural networks,
+> **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=16)** We'll go through simple linear classification, neural networks, [[Convolutional Neural Networks (CNN)|convolutional neural networks]],
 >
 > **[0:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/the-linkedin-ai-academy-neural-networks-are-the-heart-of-ai?u=76281980&t=27)** language processing today.
 
@@ -101,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Neuron: Basic element of neural net
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
+#### [Neuron: Basic element of neural net](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980&t=8)** He covered topics like regression, supervised and unsupervised learning, and the bias variant straight off.
 >
-> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980&t=15)** These are all critical to training deep neural networks, which are today's most popular machine learning models.
+> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980&t=15)** These are all critical to training deep [[Neural Networks]], which are today's most popular machine learning models.
 >
 > **[0:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neuron-basic-element-of-neural-net?u=76281980&t=22)** In order to understand deep neural networks, we have to first understand the basic element of a neural network called a neuron.
 >
@@ -188,14 +186,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Neural Networks]] (3), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (3)
 > **Definitions:** is called (2), is a  (2)
 > **Versions:** 0.5 (3)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Neural nets and nonlinearly separable classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neural-nets-and-nonlinearly-separable-classification?u=76281980)
+#### [Neural nets and nonlinearly separable classification](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/neural-nets-and-nonlinearly-separable-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,15 +266,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2)
 > **Definitions:** is called (3), in other words (1), is a  (1)
 > **Cross-References:** as we saw (2), in the last (1)
 > **Versions:** 0.5 (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multiclass deep neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980)
+#### [Multiclass deep neural networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=91)** In this figure, we show a three-class classification problem and it is handled by using a separate output neuron for each of the classes.
 >
-> **[1:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=101)** Each of these neurons outputs a number between zero and one, and this value is interpreted as the probability that the input belongs to the class corresponding to that output neuron.
+> **[1:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=101)** Each of these neurons outputs a number between zero and one, and this value is interpreted as the [[Probability]] that the input belongs to the class corresponding to that output neuron.
 >
 > **[1:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=114)** So as we've seen, a neural network can be as simple as a single neuron, which can solve a two-class linearly separable classification problem, or it can be as complicated as a multiple hidden layer deep neural network with multiple output neurons.
 >
@@ -317,15 +312,15 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=149)** This figure shows an image classification problem where the input image should be classified into one of three categories, horse, cat, or dog.
 >
-> **[2:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=161)** Deep neural networks research has progressed in multiple directions.
+> **[2:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=161)** Deep [[Neural Networks]] research has progressed in multiple directions.
 >
-> **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=165)** They are now used for many industrial applications, such as speech recognition, image processing, natural language processing, recommendation systems, self-driving cars, robotics, and medicine.
+> **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=165)** They are now used for many industrial applications, such as [[Speech Recognition]], [[Image Processing]], [[Natural Language Processing (NLP)|natural language processing]], recommendation systems, self-driving cars, robotics, and medicine.
 >
 > **[3:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/multiclass-deep-neural-networks?u=76281980&t=180)** It is one of the most exciting technologies of today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Probability]] (1), [[Neural Networks]] (1), [[Speech Recognition]] (1), [[Image Processing]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1), [[Neural Networks]] (1), [[Speech Recognition]] (1), [[Image Processing]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (3), such as (2)
 > **CLI Commands:** cat (1)
 > **Definitions:** is a  (1)
@@ -336,8 +331,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a convolutional filter?
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
+#### [What is a convolutional filter?](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=92)** This is far too many parameters to be able to train, with even a large size data set on a large compute grid.
 >
-> **[1:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=100)** Clearly, we need to impose some constraints on our neural networks to address this problem.
+> **[1:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=100)** Clearly, we need to impose some constraints on our [[Neural Networks]] to address this problem.
 >
 > **[1:46](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=106)** The solution to this problem is a convolutional filter.
 >
@@ -399,24 +393,23 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=207)** When it is applied to the image of this building, the hidden layer neurons essentially extract all horizontal edges.
 >
-> **[3:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=214)** Edges are very useful features for image processing.
+> **[3:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=214)** Edges are very useful features for [[Image Processing]].
 >
 > **[3:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=218)** When a large number of different convolution filters are put together in a structured way, we get a convolutional neural network.
 >
-> **[3:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=225)** Convolutional neural networks are the state of the art today for image processing and classification.
+> **[3:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=225)** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] are the state of the art today for image processing and classification.
 >
 > **[3:51](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/what-is-a-convolutional-filter?u=76281980&t=231)** And now that we know a bit about how they work, let's see how we can use them to solve image classification tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Image Processing]] (2), data (1), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Image Processing]] (2), [[Neural Networks]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (3), in other words (2), means that (1)
 > **Analogies:** for example (2), compare this to (1)
 > **CLI Commands:** cat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deep convolutional neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980)
+#### [Deep convolutional neural networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980&t=72)** We would need a different convolutional filter to extract different features such as vertical edges or slanted edges.
 >
-> **[1:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980&t=80)** To enable the computation of different features, convolutional neural networks typically have multiple filters at each layer of the neural network.
+> **[1:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980&t=80)** To enable the computation of different features, [[Convolutional Neural Networks (CNN)|convolutional neural networks]] typically have multiple filters at each layer of the neural network.
 >
 > **[1:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/deep-convolutional-neural-networks?u=76281980&t=90)** Each convolutional filter produces a separate output channel.
 >
@@ -484,14 +477,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), product (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (2), [[Neural Networks]] (1)
 > **Analogies:** such as (3), for example (2), picture (1)
 > **Definitions:** is a  (1), is called (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980)
+#### [Transfer learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,11 +503,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=49)** ImageNet is a well-known data set that contains 14 million images manually annotated for 2000 different categories.
 >
-> **[0:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=57)** A neural network, such as Google's InceptionNet, trained on this task could gather general knowledge about different colors and shapes and objects, how they differ from each other and how they're used in the world.
+> **[0:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=57)** A neural network, such as [[Google]]'s InceptionNet, trained on this task could gather general knowledge about different colors and shapes and objects, how they differ from each other and how they're used in the world.
 >
-> **[1:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=72)** InceptionNet could then be applied to a target task such as detecting whether an image uploaded to LinkedIn is personal or professional.
+> **[1:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=72)** InceptionNet could then be applied to a target task such as detecting whether an image uploaded to [[LinkedIn]] is personal or professional.
 >
-> **[1:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=82)** InceptionNet has already learned about people, animals, office buildings, and home settings.
+> **[1:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=82)** InceptionNet has already learned about people, animals, [[Microsoft Office|office]] buildings, and home settings.
 >
 > **[1:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=89)** Therefore, with a small amount of data from the target task it can learn that a picture of multiple people sitting in an office meeting room is a professional picture, but a person playing with their dog in a garden is a personal picture.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=138)** Now, a neural network could be trained entirely with data from the target task, such as spam classification.
 >
-> **[2:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=145)** However, with transfer learning, neural networks usually perform better.
+> **[2:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=145)** However, with transfer learning, [[Neural Networks]] usually perform better.
 >
 > **[2:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transfer-learning?u=76281980&t=150)** Transfer learning has two distinct advantages over learning entirely from the target training data.
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[LinkedIn]] (2), [[Microsoft Office|Office]] (2), [[Google]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Office|Office]] (2), [[Google]] (1), [[Neural Networks]] (1)
 > **Analogies:** such as (6), picture (3)
 > **Env Vars:** bert (3), vgg (1), gpt (1)
 > **Definitions:** is a  (3), we call this (1)
@@ -566,14 +558,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modeling sequences with language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
+#### [Modeling sequences with language models](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980&t=0)** - [Instructor] Let's talk about sequence classification, and in particular, language models which are used to predict the next word in a sentence.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980&t=0)** - [Instructor] Let's talk about sequence classification, and in particular, language models which are used to predict the next [[Microsoft Word|word]] in a sentence.
 >
-> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980&t=9)** To start, recall how feedforward neural networks work.
+> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980&t=9)** To start, recall how feedforward [[Neural Networks]] work.
 >
 > **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/modeling-sequences-with-language-models?u=76281980&t=13)** In a feedforward neural network, the input vector X is passed to the first hidden layer which produces an output vector Y.
 >
@@ -637,21 +628,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), next (10), [[Neural Networks]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (17), [[Neural Networks]] (3)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
 > **UI Navigation:** switch to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recurrent neural network language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980)
+#### [Recurrent neural network language models](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980&t=0)** - [Instructor] Let's talk about a new kind of neural network called the recurrent neural network which is used for doing language modeling and other sequence classification tasks.
 >
-> **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980&t=11)** We build up the idea of recurrent neural networks using the same task we described in the last video that of predicting the next word in the sentence given all the previous words.
+> **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980&t=11)** We build up the idea of recurrent [[Neural Networks]] using the same task we described in the last video that of predicting the next [[Microsoft Word|word]] in the sentence given all the previous words.
 >
 > **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/recurrent-neural-network-language-models?u=76281980&t=21)** As before let's consider the sentence, "How old are you?"
 >
@@ -705,23 +695,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (20), [[Neural Networks]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (20), [[Neural Networks]] (3)
 > **Definitions:** is called (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine translation and encoder-decoder networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980)
+#### [Machine translation and encoder-decoder networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=0)** - [Instructor] Let's consider an application of recurrent neural networks that we commonly use at LinkedIn, machine translation.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=0)** - [Instructor] Let's consider an application of recurrent [[Neural Networks]] that we commonly use at [[LinkedIn]], machine translation.
 >
 > **[0:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=8)** We'll use our previous sentence, "How old are you?"
 >
 > **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=11)** And try to translate it into Chinese.
 >
-> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=15)** First, we will consider what happens if we do simple word for word translation of the words in the sentence.
+> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=15)** First, we will consider what happens if we do simple [[Microsoft Word|word]] for word translation of the words in the sentence.
 >
 > **[0:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=22)** So first we translate the word how into its Chinese equivalent.
 >
@@ -811,7 +800,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=289)** Another example is image captioning.
 >
-> **[4:51](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=291)** In this case, the input is an image and the encoder network forms a representation of the input image.
+> **[4:51](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=291)** In this case, the input is an image and the encoder network [[Forms]] a representation of the input image.
 >
 > **[4:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/machine-translation-and-encoder-decoder-networks?u=76281980&t=299)** The decoder network then spits out a sentence which describes the input image.
 >
@@ -827,18 +816,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), [[Neural Networks]] (4), [[LinkedIn]] (3), [[Forms]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (13), [[Neural Networks]] (4), [[LinkedIn]] (3), [[Forms]] (2)
 > **Analogies:** for example (3), imagine (1), just like (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** cat (2)
 > **Speakers:** - [instructor] (1)
 
-#### Attention-based neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980)
+#### [Attention-based neural networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=0)** - [Instructor] In this video, we'll introduce the topic of attention in deep neural networks.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=0)** - [Instructor] In this video, we'll introduce the topic of attention in deep [[Neural Networks]].
 >
 > **[0:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=5)** Attention is a way for a neural network to focus on specific parts of its inputs to produce more accurate outputs.
 >
@@ -868,7 +856,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=106)** We will now describe the attention mechanism which allows the decoder to consider only relevant parts of the English sentence when it is producing corresponding parts of the French sentence.
 >
-> **[1:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=118)** Let us start with the first word produced by the decoder.
+> **[1:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=118)** Let us start with the first [[Microsoft Word|word]] produced by the decoder.
 >
 > **[2:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/attention-based-neural-networks?u=76281980&t=122)** This word is le and it is produced by using the hidden state representation of the first time unit of the decoder.
 >
@@ -922,26 +910,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), [[Neural Networks]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), [[Neural Networks]] (1)
 > **CLI Commands:** cat (6)
 > **Cross-References:** previous video (2), as we saw (1)
 > **Definitions:** is a  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformer model
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980)
+#### [Transformer model](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=0)** - [Instructor] In the previous video, we learned how encoder decoder neural networks can use attention to improve their accuracy for machine translation.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=0)** - [Instructor] In the previous video, we learned how encoder decoder [[Neural Networks]] can use attention to improve their accuracy for machine translation.
 >
-> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=9)** When the decoder forms the representation of a translated word in the target language, it focuses its attention only on the relevant words in the source language.
+> **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=9)** When the decoder [[Forms]] the representation of a translated [[Microsoft Word|word]] in the target language, it focuses its attention only on the relevant words in the source language.
 >
 > **[0:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=19)** In this video, we will discuss how attention is used in one of the most important neural networks of today.
 >
 > **[0:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=26)** The transformer model.
 >
-> **[0:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=27)** The transformer model, is central to all state-of-the-art natural language processing neural networks today.
+> **[0:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=27)** The transformer model, is central to all state-of-the-art [[Natural Language Processing (NLP)|natural language processing]] neural networks today.
 >
 > **[0:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/transformer-model?u=76281980&t=34)** Transformer neural networks are used to model sequences.
 >
@@ -989,25 +976,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Neural Networks]] (5), next (3), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Neural Networks]] (5), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Forms]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** cat (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pretrained language models
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980)
+#### [Pretrained language models](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=0)** - [Instructor] Pretrained Language Models are large multilayered transformer based neural networks used to represent word sequences.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=0)** - [Instructor] Pretrained Language Models are large multilayered transformer based [[Neural Networks]] used to represent [[Microsoft Word|word]] sequences.
 >
 > **[0:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=8)** They are trained on extremely large amounts of unsupervised text data from sources such as Wikipedia, books, and news.
 >
 > **[0:17](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=17)** Popular pretrained language models have hundreds of millions of parameters and are trained on several billions of words.
 >
-> **[0:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=25)** The idea is that by training on such a large corpora of text data representing various domains and topics, these large language models will learn the nuances of words and the contexts in which they are used.
+> **[0:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=25)** The idea is that by training on such a large corpora of text data representing various domains and topics, these [[Large Language Models (LLM)|large language models]] will learn the nuances of words and the contexts in which they are used.
 >
 > **[0:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=40)** However, because this training data doesn't contain any explicit human labels, we fashion special training tasks that provide us labels required for learning.
 >
@@ -1019,7 +1005,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=74)** At its input layer, BERT takes in a pair of sentences, separated by a separator, or a SEP token.
 >
-> **[1:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=82)** BERT also has a beginning of sentence token represented by CLS BERT processes these input tokens to produce representations of them at all layers of the model.
+> **[1:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=82)** BERT also has a beginning of sentence token represented by CLS BERT processes these input [[Tokens]] to produce representations of them at all layers of the model.
 >
 > **[1:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=95)** At the output layer, the CLS representation represents the entire input word sequence.
 >
@@ -1047,9 +1033,9 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=190)** To perform the next sentence prediction task, BERT needs to understand sentence meaning and the context in which sentences occur in paragraphs.
 >
-> **[3:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=200)** When BERT is trained on the Mask Language Model and Next Sentence Prediction Task, using hundreds of millions of sentences with billions of words, it forms an extremely powerful representation of language.
+> **[3:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=200)** When BERT is trained on the Mask Language Model and Next Sentence Prediction Task, using hundreds of millions of sentences with billions of words, it [[Forms]] an extremely powerful representation of language.
 >
-> **[3:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=214)** This pretrained BERT model can then be further trained for different target tasks in a process called fine tuning.
+> **[3:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=214)** This pretrained BERT model can then be further trained for different target tasks in a process called [[Fine Tuning]].
 >
 > **[3:43](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=223)** For example, the target task might be to determine if a movie review is positive or negative.
 >
@@ -1067,7 +1053,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=280)** In this example, we see a false entailment because the second sentence, "Pat is a dolphin," cannot be true given that the first sentence tells us, "Pat is a small brown dog."
 >
-> **[4:53](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=293)** Pretrained language models based upon the transformer architecture have become the state of the art in today's natural language processing tasks.
+> **[4:53](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=293)** Pretrained language models based upon the transformer architecture have become the state of the art in today's [[Natural Language Processing (NLP)|natural language processing]] tasks.
 >
 > **[5:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=302)** By training on a large amount of unsupervised data, pretrained language models form an extremely powerful representation of language.
 >
@@ -1077,11 +1063,11 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=320)** However, there are several other target tasks such as name identity recognition, question answering, and part of speech tagging.
 >
-> **[5:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=329)** At LinkedIn, we make use of many of these tasks to process things like queries, posts, member profiles, and job descriptions.
+> **[5:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/pretrained-language-models?u=76281980&t=329)** At [[LinkedIn]], we make use of many of these tasks to process things like queries, posts, member profiles, and job descriptions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (5), [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fine Tuning]] (2), [[Neural Networks]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1)
 > **Env Vars:** bert (18), cls (2), sep (1)
 > **Definitions:** is a  (4), is called (2)
 > **Analogies:** such as (2), for example (1)
@@ -1095,16 +1081,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Motivation and introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
+#### [Motivation and introduction](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=0)** - [Instructor] Let's introduce the field of Graph Neural Networks, where we apply deep neural networks to graph structure data to solve a variety of prediction problems.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=0)** - [Instructor] Let's introduce the field of Graph [[Neural Networks]], where we apply deep neural networks to graph structure data to solve a variety of prediction problems.
 >
 > **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=9)** Throughout this course, we've seen several methods for working with sequential data like recurrent neural networks and transformers for text, which is a sequence of words or characters.
 >
-> **[0:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=19)** We've also seen methods for working with two-dimensional data like convolutional neural networks for images, which we can conceive of as a grid of pixels.
+> **[0:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=19)** We've also seen methods for working with two-dimensional data like [[Convolutional Neural Networks (CNN)|convolutional neural networks]] for images, which we can conceive of as a grid of pixels.
 >
 > **[0:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=28)** However, many kinds of data are more naturally represented using a graph.
 >
@@ -1146,7 +1131,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=174)** For instance, some nodes in an online social network graph might be bots, not actual humans.
 >
-> **[3:01](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=181)** If we can label some of the nodes as humans, H, and others as bots, B, we can use these nodes as instances for a supervised learning problem.
+> **[3:01](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=181)** If we can label some of the nodes as humans, H, and others as bots, B, we can use these nodes as instances for a [[Supervised Learning]] problem.
 >
 > **[3:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=191)** This is an example of node classification.
 >
@@ -1158,7 +1143,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=224)** These are examples of link prediction.
 >
-> **[3:47](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=227)** When using GNNs for link prediction, we can infer a probability that any two nodes in the graph are linked in a particular way.
+> **[3:47](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=227)** When using GNNs for link prediction, we can infer a [[Probability]] that any two nodes in the graph are linked in a particular way.
 >
 > **[3:55](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/motivation-and-introduction?u=76281980&t=235)** These predicted links could be used to fill in missing data in the graph or to make recommendations, such as interest a given person might want to explore.
 >
@@ -1166,14 +1151,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (8), [[Neural Networks]] (6), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (6), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1), [[Supervised Learning]] (1), [[Probability]] (1)
 > **CLI Commands:** node (8), make (2), find (1)
 > **Definitions:** is a  (2), is an  (2), is called (1)
 > **Analogies:** imagine (1), for example (1), for instance (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Node embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980)
+#### [Node embeddings](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980&t=10)** After training, these unsupervised embeddings can be used for a variety of prediction problems.
 >
-> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980&t=15)** While we often represent graphs visually it's important to remember that graphs are logical data structures defined by the set of nodes and edges they contain.
+> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980&t=15)** While we often represent graphs visually it's important to remember that graphs are logical [[Data Structures]] defined by the set of nodes and edges they contain.
 >
 > **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/node-embeddings?u=76281980&t=24)** The two graphs shown here are actually the same graph.
 >
@@ -1263,15 +1247,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), generic (1), data (1), next (1)
 > **CLI Commands:** node (9)
 > **Analogies:** similar to (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Graph neural networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980)
+#### [Graph neural networks](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1289,7 +1271,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980&t=35)** During training, the entire network can be optimized to best solve the supervised objective.
 >
-> **[0:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980&t=41)** Graph neural networks, or GNNs, apply the same pattern to making predictions about nodes in a graph.
+> **[0:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980&t=41)** Graph [[Neural Networks]], or GNNs, apply the same pattern to making predictions about nodes in a graph.
 >
 > **[0:48](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/graph-neural-networks?u=76281980&t=48)** GNNs can learn node embeddings as part of a single end-to-end supervised neural network that solves a specific prediction problem.
 >
@@ -1355,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (19), feature (5), data (2), [[Neural Networks]] (2), generic (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (2)
 > **CLI Commands:** node (19), make (3)
 > **Env Vars:** gnn (6), mlp (4)
 > **Cross-References:** previous video (2), we covered (1)
@@ -1368,8 +1350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing the AI-100 learning path
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)
+#### [Continuing the AI-100 learning path](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980&t=3)** - [Daniel] Now that you understand the basics of some of the most popular neural network architectures, we hope you'll continue on your journey by delving deeply into specific models that may be of interest to you or the problems you are solving.
 >
-> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980&t=15)** - [Ananth] If anything in this course was particularly interesting or relevant to you, check out the LinkedIn Learning Library to dive deeper into that topic.
+> **[0:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980&t=15)** - [Ananth] If anything in this course was particularly interesting or relevant to you, check out the [[LinkedIn]] Learning Library to dive deeper into that topic.
 >
 > **[0:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-2-supervised-learning-with-neural-networks/continuing-the-ai-100-learning-path?u=76281980&t=24)** - [Daniel] Also, check out the final course in the AI Academy 100 series where I and some of our other LinkedIn AI staff discuss how we apply these concepts to problems right here at LinkedIn.
 >
@@ -1393,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (3)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Speakers:** - [ananth] (2), - [daniel] (2), - i (1), - [daniel (1)
 
 

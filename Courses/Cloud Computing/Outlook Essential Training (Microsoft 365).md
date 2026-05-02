@@ -97,8 +97,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stay organized and collaborate effectively with Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980)
+#### [Stay organized and collaborate effectively with Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980&t=5)** But you know what?
 >
-> **[0:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980&t=7)** It's all under control right now, and it's all thanks to Outlook.
+> **[0:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980&t=7)** It's all under control right now, and it's all thanks to [[Microsoft Outlook|Outlook]].
 >
 > **[0:10](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/stay-organized-and-collaborate-effectively-with-outlook?u=76281980&t=10)** I'm going to show you how you can get it all under control also.
 >
@@ -129,12 +128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate the Outlook interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980)
+#### [Navigate the Outlook interface](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=0)** - [Narrator] It can be very overwhelming to see all of the features of Outlook at once.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=0)** - [Narrator] It can be very overwhelming to see all of the features of [[Microsoft Outlook|Outlook]] at once.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=4)** It just looks like a sea of text and icons.
 >
@@ -146,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=33)** To break it down to the individual pieces that make up the application, the very top of the screen contains the ribbon.
 >
-> **[0:40](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=40)** Now, the ribbon is that tabbed interface across all Microsoft products, as you know, and the more commonly used tasks are in the home tab, along with any other add-ons that you may be using.
+> **[0:40](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=40)** Now, the ribbon is that tabbed interface across all [[Microsoft Products]], as you know, and the more commonly used tasks are in the home tab, along with any other add-ons that you may be using.
 >
 > **[0:52](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=52)** You can also click these three dots at the end and find more commands that aren't as popular or they just didn't have room for, but they still need to be in the ribbon.
 >
@@ -166,9 +164,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=117)** To move between the different aspects of Outlook, you can click on each icon.
 >
-> **[2:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=122)** Right now we're in mail, but I can click to access my calendar, my contacts, which Microsoft calls People, and I can go through, for example, there's To Do, Engage, Bookings.
+> **[2:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=122)** Right now we're in mail, but I can click to access my calendar, my contacts, which [[Microsoft]] calls People, and I can go through, for example, there's To Do, Engage, Bookings.
 >
-> **[2:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=134)** I can access all my files that are stored on OneDrive here, and I can click on More Apps and access shortcuts to go directly to Word, Excel, PowerPoint, et cetera.
+> **[2:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=134)** I can access all my files that are stored on [[Microsoft OneDrive|OneDrive]] here, and I can click on More Apps and access shortcuts to go directly to [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[2:25](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/navigate-the-outlook-interface?u=76281980&t=145)** I'll click back to go into email.
 >
@@ -220,19 +218,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), application (1), [[Microsoft Products]] (1), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), [[Microsoft Products]] (1), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (12), toggle (1)
 > **Analogies:** for example (3), similar to (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add and remove accounts in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980)
+#### [Add and remove accounts in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=0)** - [Instructor] Most likely, your network administrator had already added your Outlook account for you when you launched Outlook.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=0)** - [Instructor] Most likely, your network administrator had already added your [[Microsoft Outlook|Outlook]] account for you when you launched Outlook.
 >
 > **[0:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=6)** If not, when you start Outlook for the first time with nothing, you're prompted to add your email address anyway, but you can add an additional email account at any time.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=73)** So you can use either method.
 >
-> **[1:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=76)** It's going to look at your screen and computer and figure out if you've already logged into a Microsoft 365 account from a different browser.
+> **[1:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=76)** It's going to look at your screen and computer and figure out if you've already logged into a [[Microsoft 365]] account from a different browser.
 >
 > **[1:23](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=83)** And if you have, it's going to populate that as a suggested account to add.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=113)** Click continue.
 >
-> **[1:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=115)** And it's telling me that it needs to sync everything to the Microsoft Cloud.
+> **[1:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=115)** And it's telling me that it needs to sync everything to the [[Microsoft]] Cloud.
 >
 > **[1:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=119)** That's fine, it has to happen.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=124)** Because I chose a Gmail account, it's going to bring me to the browser so that I can log in.
 >
-> **[2:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=133)** Now I need to give Microsoft permission to look at all that data on my Google account.
+> **[2:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=133)** Now I need to give Microsoft permission to look at all that data on my [[Google]] account.
 >
 > **[2:18](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/add-and-remove-accounts-in-outlook?u=76281980&t=138)** It's okay, because I do know that I can revoke this access at any time in my Google account, so I'll go through everything.
 >
@@ -308,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), [[Microsoft 365]] (2), [[Microsoft]] (2), [[Google]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (7), [[Microsoft 365]] (2), [[Microsoft]] (2), [[Google]] (2)
 > **UI Navigation:** scroll down (1), right-click (1), scroll up (1)
 > **Env Vars:** imap (1), isp (1)
 > **Code Identifiers:** icloud (1)
@@ -319,8 +316,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Read mail and use the Focused Inbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980)
+#### [Read mail and use the Focused Inbox](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -332,9 +328,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=14)** Remember, we have two mail accounts.
 >
-> **[0:17](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=17)** The currently selected folder that you're in is highlighted on the left-hand side, so right now, I'm in the inbox of my Red30 Tech Microsoft 365 account.
+> **[0:17](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=17)** The currently selected folder that you're in is highlighted on the left-hand side, so right now, I'm in the inbox of my Red30 Tech [[Microsoft 365]] account.
 >
-> **[0:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=27)** I have another email account that I use with Outlook, and I can access that inbox by clicking on it directly in the navigation pane, or I've also put it in my favorites folder right here at the top of the screen.
+> **[0:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=27)** I have another email account that I use with [[Microsoft Outlook|Outlook]], and I can access that inbox by clicking on it directly in the navigation pane, or I've also put it in my favorites folder right here at the top of the screen.
 >
 > **[0:40](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=40)** So from left to right, I have the navigation pane with all of my folders, I have the contents of the currently selected folder in the middle of the screen, and I can preview and view the contents of the currently selected email on the right-hand side.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=93)** I can click on an email, read it on the right-hand side, and as soon as I click away, the blue bar goes away, and now the message is marked as having been read, and I can move on.
 >
-> **[1:50](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=110)** Occasionally, you'll get a message such as this one that, to protect your privacy and to be more safe, Outlook will block automatic downloading of some content.
+> **[1:50](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=110)** Occasionally, you'll get a message such as this one that, to protect your [[Privacy]] and to be more safe, Outlook will block automatic downloading of some content.
 >
 > **[1:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/read-mail-and-use-the-focused-inbox?u=76281980&t=119)** At the top of the screen, you can see what to do with these messages.
 >
@@ -416,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), next (4), [[Microsoft 365]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft 365]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** in the next (1), go back to (1), next video (1)
 > **UI Navigation:** click on (3)
@@ -425,12 +421,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize the Outlook inbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-inbox?u=76281980)
+#### [Customize the Outlook inbox](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-inbox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-inbox?u=76281980&t=0)** - [Instructor] Outlook has some great options for customizing the way you read your mail, to make it work exactly the way you feel comfortable and productive.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-inbox?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] has some great options for customizing the way you read your mail, to make it work exactly the way you feel comfortable and productive.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-inbox?u=76281980&t=8)** Let's start by customizing our view.
 >
@@ -532,19 +527,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4)
 > **UI Navigation:** click on (3), toggle (2), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Customize the Outlook Ribbon
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-ribbon?u=76281980)
+#### [Customize the Outlook Ribbon](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-ribbon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-ribbon?u=76281980&t=0)** - [Instructor] In Outlook, you can customize everything, including this ribbon.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-ribbon?u=76281980&t=0)** - [Instructor] In [[Microsoft Outlook|Outlook]], you can customize everything, including this ribbon.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/customize-the-outlook-ribbon?u=76281980&t=4)** If you find that there's options that you just never use or if you find yourself saying, "Oh, I really wish this option was here and it would make things so much easier," you can probably add it.
 >
@@ -640,18 +634,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft Outlook|Outlook]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** set up (3)
 > **Speakers:** - [instructor] (1)
 
-#### Save attachments from a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980)
+#### [Save attachments from a message](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=0)** - [Instructor] When people send you attachments, like PDF files, Word docs, photos, and other files, you can save those to clear out your email.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=0)** - [Instructor] When people send you attachments, like PDF files, [[Microsoft Word|Word]] docs, photos, and other files, you can save those to clear out your email.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=8)** You'll know when a message has an attachment because you'll see the paperclip icon on the right hand side in the message pane, and there may be more than one attachment in an email and you'll see the icon right here in the email itself.
 >
@@ -665,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=39)** I can click Open here at the top to open it in whatever is the default program to view that file type on my computer.
 >
-> **[0:47](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=47)** Save As will save it directly to my computer and I can print it or save it to my OneDrive online.
+> **[0:47](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=47)** Save As will save it directly to my computer and I can print it or save it to my [[Microsoft OneDrive|OneDrive]] online.
 >
 > **[0:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/save-attachments-from-a-message?u=76281980&t=55)** On the right hand side, it's also letting me read the email itself, which is very convenient because it may gimme some context as to what I'm looking for in the attachment.
 >
@@ -723,24 +716,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (5), [[Microsoft Word|Word]] (2)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Search and Advanced Find in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980)
+#### [Use Search and Advanced Find in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=0)** - [Instructor] It's easy to find the message you're looking for in Outlook.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=0)** - [Instructor] It's easy to find the message you're looking for in [[Microsoft Outlook|Outlook]].
 >
 > **[0:03](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=3)** Right at the very top of the screen is the search bar, and the easiest and quickest way to find a message is to click inside, start typing, and hit the Enter key.
 >
 > **[0:15](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=15)** My search is performed.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=16)** The word is highlighted both in the message pane and if it occurs in the email itself.
+> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=16)** The [[Microsoft Word|word]] is highlighted both in the message pane and if it occurs in the email itself.
 >
 > **[0:22](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-search-and-advanced-find-in-outlook?u=76281980&t=22)** You can type as much or as little as you know what you're looking for.
 >
@@ -822,15 +814,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (18), teams (3), [[Microsoft Outlook|Outlook]] (2), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (5), such as (1)
 > **CLI Commands:** find (4), make (1)
 > **UI Navigation:** click on (1), checkbox (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ignore conversations and flag mail as junk
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980)
+#### [Ignore conversations and flag mail as junk](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -840,9 +831,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=9)** You have two options under Report.
 >
-> **[0:12](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=12)** You can either choose to report a message as phishing or junk.
+> **[0:12](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=12)** You can either choose to report a message as [[Phishing]] or junk.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=16)** Now, what this does is it sends a copy to Microsoft, which helps them improve their spam filters so they might even be able to filter it before it even gets to your organization.
+> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=16)** Now, what this does is it sends a copy to [[Microsoft]], which helps them improve their spam filters so they might even be able to filter it before it even gets to your organization.
 >
 > **[0:26](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=26)** The other option is right underneath that, and that's to block the sender.
 >
@@ -926,7 +917,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=208)** So I don't need to keep getting these emails.
 >
-> **[3:32](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=212)** Outlook can help me ignore this, that is, send any future replies right to the trash.
+> **[3:32](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=212)** [[Microsoft Outlook|Outlook]] can help me ignore this, that is, send any future replies right to the trash.
 >
 > **[3:38](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/ignore-conversations-and-flag-mail-as-junk?u=76281980&t=218)** With a conversation selected, on the home ribbon tab, click the down arrow next to the Delete button.
 >
@@ -958,7 +949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Phishing]] (2), [[Microsoft]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Microsoft]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (3), right-click (2), select the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1), is a  (1)
@@ -971,12 +962,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flag, snooze, and pin messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980)
+#### [Flag, snooze, and pin messages](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=0)** - [Instructor] Outlook gives me several tools to organize my mail in the Inbox.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] gives me several tools to organize my mail in the Inbox.
 >
 > **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=5)** The first thing that I can do is hover my mouse over an email.
 >
@@ -1010,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=81)** It adds a red flag, and it makes the email bright yellow in the view.
 >
-> **[1:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=87)** It also does one more additional thing, which is add it to my to-do list, which is an actual app in the Microsoft 365 suite.
+> **[1:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=87)** It also does one more additional thing, which is add it to my to-do list, which is an actual app in the [[Microsoft 365]] suite.
 >
 > **[1:35](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/flag-snooze-and-pin-messages?u=76281980&t=95)** In fact, I can get to it from Outlook all the way on the left-hand side by clicking To Do, which is the check mark icon.
 >
@@ -1074,15 +1064,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (3), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft 365]] (1)
 > **UI Navigation:** right-click (3), click on (2), toggle (1)
 > **Analogies:** for example (5)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Organize mail into folders and favorites
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980)
+#### [Organize mail into folders and favorites](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,7 +1135,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980&t=161)** Now, something else that we can do, and this is another way that we can see all mail from Leslie in one place, is to add messages from Leslie as a favorite.
 >
-> **[2:53](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980&t=173)** This is one of my favorite Outlook tips.
+> **[2:53](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980&t=173)** This is one of my favorite [[Microsoft Outlook|Outlook]] tips.
 >
 > **[2:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/organize-mail-into-folders-and-favorites?u=76281980&t=175)** I just love this.
 >
@@ -1162,19 +1151,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (5), drag and drop (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Quick Steps to process messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-quick-steps-to-process-messages?u=76281980)
+#### [Use Quick Steps to process messages](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-quick-steps-to-process-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-quick-steps-to-process-messages?u=76281980&t=0)** - [Instructor] A quick step is a feature in Outlook in which you'll manually trigger a sequence of events to process a message.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-quick-steps-to-process-messages?u=76281980&t=0)** - [Instructor] A quick step is a feature in [[Microsoft Outlook|Outlook]] in which you'll manually trigger a sequence of events to process a message.
 >
 > **[0:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-quick-steps-to-process-messages?u=76281980&t=7)** Unlike rules which trigger automatically, you manually trigger a quick step on any particular email that fits your needs at that time.
 >
@@ -1276,19 +1264,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Microsoft Outlook|Outlook]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process messages with mail rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980)
+#### [Process messages with mail rules](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980&t=0)** - [Instructor] Unlike Quick Steps, which are triggered manually by you, mail rules are a set of filters that act on your incoming mail automatically based on the set of rules that you specified.
 >
-> **[0:10](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980&t=10)** Let's create a simple rule to move this Microsoft Viva email into a folder called Viva Digest that I've already created.
+> **[0:10](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980&t=10)** Let's create a simple rule to move this [[Microsoft]] Viva email into a folder called Viva Digest that I've already created.
 >
 > **[0:19](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/process-messages-with-mail-rules?u=76281980&t=19)** On the Home Ribbon tab, click the three dots all the way at the end, hover your mouse over rules, and we've already done the create rule button, which will automatically have the recipient of the selected email be based on that rule.
 >
@@ -1362,13 +1349,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete, restore, archive, and sweep mail
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980)
+#### [Delete, restore, archive, and sweep mail](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1398,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=68)** You can select all and get the same options.
 >
-> **[1:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=76)** In a previous video, we created a mail rule to move all of these Microsoft Viva emails into a special folder.
+> **[1:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=76)** In a previous video, we created a mail rule to move all of these [[Microsoft]] Viva emails into a special folder.
 >
 > **[1:23](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=83)** But there's another technique that you can use to do that, and it's called sweeping.
 >
@@ -1418,7 +1404,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=123)** This is different from the first option because this one is a one-time option, whereas the second option is also going to move any future messages.
 >
-> **[2:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=133)** This third option will keep the latest message and move the rest of them.
+> **[2:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=133)** This third option will keep the latest message and move the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[2:17](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/delete-restore-archive-and-sweep-mail?u=76281980&t=137)** So it's always going to give you that latest message on top for you to read.
 >
@@ -1492,7 +1478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (2)
@@ -1505,14 +1491,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and format a new message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980)
+#### [Create and format a new message](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=0)** - [Instructor] To create a new message, click New Mail from the Home ribbon tab on the top left-hand side of the screen.
 >
-> **[0:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=6)** If I have more than one account in Outlook, I can click the dropdown next to my email address and choose from which account I want to send the mail from.
+> **[0:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=6)** If I have more than one account in [[Microsoft Outlook|Outlook]], I can click the dropdown next to my email address and choose from which account I want to send the mail from.
 >
 > **[0:15](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=15)** Click inside the To field to start addressing the email.
 >
@@ -1534,7 +1519,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=78)** (keyboard clacking) And then click inside the body to start typing the actual content of the email.
 >
-> **[1:26](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=86)** (keyboard clacking) Just like a Word document, I can click and drag and highlight text and work with it that way.
+> **[1:26](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=86)** (keyboard clacking) Just like a [[Microsoft Word|Word]] document, I can click and drag and highlight text and work with it that way.
 >
 > **[1:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=93)** For example, I can bold face it or change the color.
 >
@@ -1546,7 +1531,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=111)** From the ribbon, click the Paperclip icon.
 >
-> **[1:54](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=114)** I can see some suggested files below, and I could also attach a file directly from OneDrive or click to browse my computer.
+> **[1:54](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=114)** I can see some suggested files below, and I could also attach a file directly from [[Microsoft OneDrive|OneDrive]] or click to browse my computer.
 >
 > **[2:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=125)** As a nice shortcut, I can also hit the forward slash key on my keyboard, and it's going to give me some suggested files below that I could add.
 >
@@ -1554,7 +1539,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=145)** I can start typing and if I select their name, it's going to instantly put them in the To field automatically, and I can even hit the backspace key to remove their last name if I wanted to make it a little bit less formal.
 >
-> **[2:37](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=157)** (keyboard clacking) Something else that's a great new addition that you can insert into your document is components from other Microsoft apps.
+> **[2:37](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=157)** (keyboard clacking) Something else that's a great new addition that you can insert into your document is components from other [[Microsoft]] apps.
 >
 > **[2:49](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=169)** For example, you can add polls.
 >
@@ -1572,7 +1557,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=195)** It's going to place it inside your email, and you can directly add tasks at assignees from the people that are addressed in this email.
 >
-> **[3:24](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=204)** This task list will automatically update itself live in the email, and you can go back and forth and always have real-time information.
+> **[3:24](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=204)** This task list will automatically update itself live in the email, and you can go back and forth and always have [[Real-Time]] information.
 >
 > **[3:32](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=212)** So these are really fun components to add to your emails.
 >
@@ -1580,7 +1565,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=223)** For example, I can schedule it and send it tomorrow morning, Sunday morning, or anytime that I choose by clicking Custom Time.
 >
-> **[3:53](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=233)** You can also notice that because this email is being sent outside of standard work hours, Microsoft Outlook is giving me the suggestion to schedule it anyway.
+> **[3:53](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=233)** You can also notice that because this email is being sent outside of standard work hours, [[Microsoft Outlook]] is giving me the suggestion to schedule it anyway.
 >
 > **[4:03](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-format-a-new-message?u=76281980&t=243)** So when you're writing emails, always be on the lookout for some helpful items that Outlook might give you to be able to send your emails.
 >
@@ -1598,7 +1583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft]] (2), [[Microsoft Word|Word]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (3), just like (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** dropdown (1), click on (1)
@@ -1606,12 +1591,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reply, forward, and share message to Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980)
+#### [Reply, forward, and share message to Teams](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=0)** - [Instructor] Outlook has different options for handling email responses.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] has different options for handling email responses.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=4)** If I want to reply to this email, the easiest way is to just click reply right here.
 >
@@ -1651,7 +1635,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=85)** For example, I can remove the forward prefix.
 >
-> **[1:30](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=90)** I also have an option to upload it to OneDrive instead of sending it as an attachment.
+> **[1:30](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=90)** I also have an option to upload it to [[Microsoft OneDrive|OneDrive]] instead of sending it as an attachment.
 >
 > **[1:36](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/reply-forward-and-share-message-to-teams?u=76281980&t=96)** I can and should remove header information.
 >
@@ -1711,18 +1695,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft OneDrive|Onedrive]] (1), hit (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight text for faster actions in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/highlight-text-for-faster-actions-in-outlook?u=76281980)
+#### [Highlight text for faster actions in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/highlight-text-for-faster-actions-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/highlight-text-for-faster-actions-in-outlook?u=76281980&t=0)** - [Instructor] Something that's both fun and useful that you can do with Outlook is highlight text to bring up a context menu of action items that you can do with that text.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/highlight-text-for-faster-actions-in-outlook?u=76281980&t=0)** - [Instructor] Something that's both fun and useful that you can do with [[Microsoft Outlook|Outlook]] is highlight text to bring up a context menu of action items that you can do with that text.
 >
 > **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/highlight-text-for-faster-actions-in-outlook?u=76281980&t=9)** Here's a long email, it contains Red30's address.
 >
@@ -1780,8 +1763,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and use an email signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-use-an-email-signature?u=76281980)
+#### [Create and use an email signature](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-use-an-email-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1838,22 +1820,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Turn on automatic replies in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980)
+#### [Turn on automatic replies in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=0)** - [Instructor] When you go on vacation, you probably change your voicemail on your phone, telling callers the dates you'll be unavailable to return calls.
 >
-> **[0:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=8)** You can do the same with email, and it's called automatic replies or out of office.
+> **[0:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=8)** You can do the same with email, and it's called automatic replies or out of [[Microsoft Office|office]].
 >
-> **[0:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=13)** Outlook will auto-respond to anyone that emails you within the dates that you'll be away.
+> **[0:13](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=13)** [[Microsoft Outlook|Outlook]] will auto-respond to anyone that emails you within the dates that you'll be away.
 >
 > **[0:19](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=19)** If you use IMAP, you can create a message rule to apply to all incoming mail.
 >
 > **[0:24](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=24)** However, the Outlook client does have to be open and running.
 >
-> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=28)** So ideally, this is great for Microsoft 365 users.
+> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=28)** So ideally, this is great for [[Microsoft 365]] users.
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/turn-on-automatic-replies-in-outlook?u=76281980&t=33)** Now, if you remember, I'm also using Gmail.
 >
@@ -1899,7 +1880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** imap (1)
 > **UI Navigation:** scroll up (1)
@@ -1912,8 +1893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create new contacts in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980)
+#### [Create new contacts in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,9 +1903,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=11)** I can click-through and see the details of these contacts on the right.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=16)** I can go through all their tabs and see everything about them, including files that they have or attachments that they've shared with me via OneDrive in this tab also.
+> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=16)** I can go through all their tabs and see everything about them, including files that they have or attachments that they've shared with me via [[Microsoft OneDrive|OneDrive]] in this tab also.
 >
-> **[0:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=27)** Contacts is one area in Outlook where it's definitely advantageous to keep this navigation pane open.
+> **[0:27](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=27)** Contacts is one area in [[Microsoft Outlook|Outlook]] where it's definitely advantageous to keep this navigation pane open.
 >
 > **[0:34](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-new-contacts-in-outlook?u=76281980&t=34)** In fact, your contacts may open in this Favorite section, which will show you a much smaller list of contacts.
 >
@@ -1983,14 +1963,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create contact lists in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980)
+#### [Create contact lists in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1991,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980&t=50)** It doesn't even have to be anybody that's in my contacts.
 >
-> **[0:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980&t=59)** This could be the first time that Outlook is hearing about this email address, and that's fine.
+> **[0:59](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980&t=59)** This could be the first time that [[Microsoft Outlook|Outlook]] is hearing about this email address, and that's fine.
 >
 > **[1:03](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-contact-lists-in-outlook?u=76281980&t=63)** I'll click Add and I can still add them to my list.
 >
@@ -2050,7 +2029,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
@@ -2062,12 +2041,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Features for Outlook users with disabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980)
+#### [Features for Outlook users with disabilities](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=0)** - [Instructor] Outlook has some tools built in to help you if you need assistance.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] has some tools built in to help you if you need assistance.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=4)** We talked about using the highlight tool in a previous video, but don't forget that you can click and drag to select text, and in the context menu that appears, you can click highlight to bring attention to that particular bit of text.
 >
@@ -2087,7 +2065,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=64)** Clicking the grammar options will let you call out the parts of speech such as nouns, verbs, and adjectives, and you can change the different colors of those to point them out.
 >
-> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=74)** You can even turn syllables on so that you can see each individual syllable of the word.
+> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=74)** You can even turn syllables on so that you can see each individual syllable of the [[Microsoft Word|word]].
 >
 > **[1:20](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/features-for-outlook-users-with-disabilities?u=76281980&t=80)** And finally, in the reading preferences screen, you can choose how many lines of focus you want to show when you're reading.
 >
@@ -2109,7 +2087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1)
 > **Cross-References:** we talked about (1), previous video (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
@@ -2118,8 +2096,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create accessible content in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980)
+#### [Create accessible content in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2139,7 +2116,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=33)** It's also a good practice to include alternative text with any visual.
 >
-> **[0:38](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=38)** Alt text describes the image to those using a screen reader, and Microsoft Outlook makes it easy to add alt text by selecting your image, right clicking on it, and choosing add alternate text.
+> **[0:38](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=38)** Alt text describes the image to those using a screen reader, and [[Microsoft Outlook]] makes it easy to add alt text by selecting your image, right clicking on it, and choosing add alternate text.
 >
 > **[0:54](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=54)** From here, you can type in the image description.
 >
@@ -2147,9 +2124,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=62)** I'll click OK, and the alt text is done.
 >
-> **[1:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=66)** One of my favorite features of Outlook is something called the accessibility checker.
+> **[1:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=66)** One of my favorite features of [[Microsoft Outlook|Outlook]] is something called the accessibility checker.
 >
-> **[1:11](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=71)** I love it because it takes all the guesswork out of it, and the accessibility checker is available in all the apps, including Word and PowerPoint too.
+> **[1:11](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=71)** I love it because it takes all the guesswork out of it, and the accessibility checker is available in all the apps, including [[Microsoft Word|Word]] and [[Microsoft PowerPoint|PowerPoint]] too.
 >
 > **[1:20](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=80)** Click options and then click the little green man with the check mark next to it.
 >
@@ -2159,7 +2136,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=94)** For example, if you're composing a message to a large audience, if there's somebody outside your organization, if you're making a message with high importance or at least one recipient prefers accessible content.
 >
-> **[1:46](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=106)** It will even tell you if you're using a dark background to compose a message as this may be a contrast issue for some people.
+> **[1:46](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=106)** It will even tell you if you're using a dark background to [[Jetpack Compose|compose]] a message as this may be a contrast issue for some people.
 >
 > **[1:54](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-accessible-content-in-outlook?u=76281980&t=114)** It would've told me in this accessibility checker if I had an image that did not have alt text set, and it makes it easy to set that text.
 >
@@ -2169,7 +2146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Jetpack Compose|Compose]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Best Practices:** good practice (2), best practice (1)
 > **CLI Commands:** make (1), find (1)
@@ -2181,14 +2158,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change the look of the Outlook calendar
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980)
+#### [Change the look of the Outlook calendar](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=0)** - [Instructor] Let's go over customizing a calendar to make it work for you.
 >
-> **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=4)** You can access the calendar in Outlook by clicking the calendar icon on the left hand side of the screen.
+> **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=4)** You can access the calendar in [[Microsoft Outlook|Outlook]] by clicking the calendar icon on the left hand side of the screen.
 >
 > **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=9)** I'm also going to click the three horizontal lines to open up our navigation pane.
 >
@@ -2224,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=69)** I'm going to put it back to work week for now.
 >
-> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=74)** While in any of these views, I can scroll up and down to see the rest of the day or data that doesn't fit on the screen.
+> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=74)** While in any of these views, I can scroll up and down to see the [[Representational State Transfer (REST)|rest]] of the day or data that doesn't fit on the screen.
 >
 > **[1:21](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=81)** I can also change the days here using these arrows.
 >
@@ -2264,7 +2240,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=177)** You can also click this little plus sign in the current day.
 >
-> **[3:01](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=181)** This is how you can change on the fly where you are, whether you're working from home, remotely, or at your office.
+> **[3:01](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=181)** This is how you can change on the fly where you are, whether you're working from home, remotely, or at your [[Microsoft Office|office]].
 >
 > **[3:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/change-the-look-of-the-outlook-calendar?u=76281980&t=187)** You can also click to set a schedule, and that's in the Settings also.
 >
@@ -2278,7 +2254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), data (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** go to (1), scroll up (1)
 > **Cross-References:** go back to (1)
@@ -2286,8 +2262,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an appointment and an all-day event
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980)
+#### [Create an appointment and an all-day event](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2297,7 +2272,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980&t=21)** I can start by putting in a title.
 >
-> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980&t=28)** You'll notice as soon as I put in the title, Outlook has already chosen a charm for me.
+> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980&t=28)** You'll notice as soon as I put in the title, [[Microsoft Outlook|Outlook]] has already chosen a charm for me.
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-an-appointment-and-an-all-day-event?u=76281980&t=33)** It's going to change depending on what you put in.
 >
@@ -2427,15 +2402,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (9), find (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use categories to visually organize Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980)
+#### [Use categories to visually organize Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2443,7 +2417,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980&t=4)** You can assign a category to calendar items, to do items, even mail.
 >
-> **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980&t=9)** The easiest way to get started is to right click an event in your calendar, hover your mouse over categorize, and you'll see all the default categories that come with Outlook.
+> **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980&t=9)** The easiest way to get started is to right click an event in your calendar, hover your mouse over categorize, and you'll see all the default categories that come with [[Microsoft Outlook|Outlook]].
 >
 > **[0:19](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-categories-to-visually-organize-outlook?u=76281980&t=19)** We're going to change these.
 >
@@ -2554,8 +2528,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** don't forget (1)
 
-#### Create, open, and share calendars
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980)
+#### [Create, open, and share calendars](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2681,7 +2654,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980&t=283)** Now, something else that I can do now that I have multiple calendars, and I could do this with Jenny's calendar also, is I can use something called Split View.
 >
-> **[4:52](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980&t=292)** Now, split view up here at the top is grayed out if I don't have multiple calendars set up and Outlook, if I click Split View, now it's showing these calendars side by side because maybe I don't want the other calendars to be overlaid on top of mine.
+> **[4:52](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980&t=292)** Now, split view up here at the top is grayed out if I don't have multiple calendars set up and [[Microsoft Outlook|Outlook]], if I click Split View, now it's showing these calendars side by side because maybe I don't want the other calendars to be overlaid on top of mine.
 >
 > **[5:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-open-and-share-calendars?u=76281980&t=307)** That can get confusing, especially if I've got a lot of calendars working together.
 >
@@ -2739,7 +2712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** toggle (2), open the (1), click on (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
@@ -2750,8 +2723,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a meeting in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980)
+#### [Create a meeting in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2767,7 +2739,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=36)** I can also fill in the location of the meeting.
 >
-> **[0:39](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=39)** Now, because this is a Microsoft 365 environment, I can choose a specific conference room if my network administrator has set this room up.
+> **[0:39](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=39)** Now, because this is a [[Microsoft 365]] environment, I can choose a specific conference room if my network administrator has set this room up.
 >
 > **[0:50](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=50)** I can see here that this particular conference room is available at that particular time and that it seats 12 people.
 >
@@ -2783,7 +2755,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=86)** I can format it, boldface it, italicize it.
 >
-> **[1:30](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=90)** And like an email, I can also use the forward slash and get a list of recently accessed files from OneDrive that I might want to insert into the details field, maybe a more specific agenda.
+> **[1:30](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=90)** And like an email, I can also use the forward slash and get a list of recently accessed files from [[Microsoft OneDrive|OneDrive]] that I might want to insert into the details field, maybe a more specific agenda.
 >
 > **[1:43](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=103)** I can also use the paperclip file to attach files here as well.
 >
@@ -2817,7 +2789,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=169)** And I'll add Devon.
 >
-> **[2:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=175)** Now, something that Outlook is going to do is suggest some times when everybody is available.
+> **[2:55](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=175)** Now, something that [[Microsoft Outlook|Outlook]] is going to do is suggest some times when everybody is available.
 >
 > **[3:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-a-meeting-in-outlook?u=76281980&t=182)** It's letting me know at the top that at least one of the invited attendees is in a different time zone.
 >
@@ -2847,7 +2819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft 365]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** double-click (1), toggle (1), go to (1)
 > **Definitions:** is a  (3)
@@ -2856,8 +2828,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chair a meeting in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/chair-a-meeting-in-outlook?u=76281980)
+#### [Chair a meeting in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/chair-a-meeting-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2936,8 +2907,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Respond to a meeting invitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980)
+#### [Respond to a meeting invitation](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,7 +2939,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980&t=56)** And when I'm looking at the appointment, I can see my calendar right here in the email.
 >
-> **[1:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980&t=62)** I can see in the details that this is going to be a Microsoft Teams meeting, not a physical location, like a conference room.
+> **[1:02](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980&t=62)** I can see in the details that this is going to be a [[Microsoft Teams]] meeting, not a physical location, like a conference room.
 >
 > **[1:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/respond-to-a-meeting-invitation?u=76281980&t=68)** And I can click to join the meeting right from here.
 >
@@ -3017,7 +2987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (1), teams (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (1)
 > **Env Vars:** rsvp (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3027,16 +2997,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and assign To Dos in Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980)
+#### [Create and assign To Dos in Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=0)** - [Instructor] Outlook comes with a built-in mechanism for handling all of your to-do lists, and it's actually called To Do.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] comes with a built-in mechanism for handling all of your to-do lists, and it's actually called To Do.
 >
 > **[0:06](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=6)** Click the To Do icon on the left-hand side.
 >
-> **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=9)** If you have the desktop version installed, that'll open up there, otherwise, it's going to open up a web browser and bring you into Microsoft To Do.
+> **[0:09](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=9)** If you have the desktop version installed, that'll open up there, otherwise, it's going to open up a web browser and bring you into [[Microsoft]] To Do.
 >
 > **[0:17](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/create-and-assign-to-dos-in-outlook?u=76281980&t=17)** This is a very powerful little app that does a lot.
 >
@@ -3110,7 +3079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft]] (2), web (1), hit (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft]] (2)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **CLI Commands:** make (1)
@@ -3118,12 +3087,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set general Outlook options
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/set-general-outlook-options?u=76281980)
+#### [Set general Outlook options](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/set-general-outlook-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/set-general-outlook-options?u=76281980&t=0)** - [Instructor] We've gone over a lot of settings that you can change to make Outlook work for you.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/set-general-outlook-options?u=76281980&t=0)** - [Instructor] We've gone over a lot of settings that you can change to make [[Microsoft Outlook|Outlook]] work for you.
 >
 > **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/set-general-outlook-options?u=76281980&t=5)** You can change fonts and colors, and we've done a lot of that, but there's some more things that you can change.
 >
@@ -3185,12 +3153,11 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use My Day and notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980)
+#### [Use My Day and notifications](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=0)** - [Instructor] Outlook has a great feature called My Day.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] has a great feature called My Day.
 >
 > **[0:03](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=3)** Now, I know over this course, I keep saying that every feature is my favorite, but this one might really be my favorite.
 >
@@ -3238,9 +3205,9 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=108)** In fact, if I click this Filter button, you can choose what you want to see.
 >
-> **[1:52](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=112)** Any email mentions or document mentions, that is, anytime anybody uses that @ symbol before your name in a Microsoft Word or Excel file, even if they reacted to a message.
+> **[1:52](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=112)** Any email mentions or document mentions, that is, anytime anybody uses that @ symbol before your name in a [[Microsoft Word]] or [[Microsoft Excel|Excel]] file, even if they reacted to a message.
 >
-> **[2:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=125)** And don't forget, you can react to a message by clicking on this little emoji.
+> **[2:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=125)** And don't forget, you can [[React.js|react]] to a message by clicking on this little emoji.
 >
 > **[2:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/use-my-day-and-notifications?u=76281980&t=128)** Maybe I particularly liked what she said.
 >
@@ -3262,7 +3229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), feature (2), [[Microsoft Excel|Excel]] (2), next (2), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word]] (1), [[React.js|React]] (1)
 > **Cross-References:** go back to (1), previous video (1)
 > **UI Navigation:** switch to (1), click on (1)
 > **CLI Commands:** make (1)
@@ -3276,16 +3243,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize emails and generate replies with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980)
+#### [Summarize emails and generate replies with Copilot](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=0)** - [Instructor] Copilot is an AI-powered tool to help you with everyday productivity in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is an AI-powered tool to help you with everyday productivity in [[Microsoft 365]].
 >
 > **[0:07](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=7)** Copilot is an add-on that must be purchased from your work organization, but it's free to use if you're a Family or Personal Microsoft 365 subscriber.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=16)** You'll know you're entitled to use Copilot and you'll know you have it in Outlook if you see this colorful Copilot logo within the app.
+> **[0:16](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=16)** You'll know you're entitled to use Copilot and you'll know you have it in [[Microsoft Outlook|Outlook]] if you see this colorful Copilot logo within the app.
 >
 > **[0:24](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=24)** It's here on the top right-hand side in Outlook, and it's also in the sidebar directly underneath the calendar.
 >
@@ -3305,7 +3271,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=68)** You can also use these thumbs up and thumbs down mechanisms to rate the response of Copilot.
 >
-> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=74)** Now, that will help Microsoft with training Copilot.
+> **[1:14](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=74)** Now, that will help [[Microsoft]] with training Copilot.
 >
 > **[1:18](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/summarize-emails-and-generate-replies-with-copilot?u=76281980&t=78)** I can also click this Copilot button to open up the sidebar.
 >
@@ -3361,7 +3327,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Microsoft 365]] (2), [[Microsoft Outlook|Outlook]] (2), ai (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Microsoft 365]] (2), [[Microsoft Outlook|Outlook]] (2), [[Microsoft]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** in the sidebar (1), click on (1)
@@ -3369,12 +3335,11 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get coaching assistance and generate emails with Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/get-coaching-assistance-and-generate-emails-with-copilot?u=76281980)
+#### [Get coaching assistance and generate emails with Copilot](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/get-coaching-assistance-and-generate-emails-with-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/get-coaching-assistance-and-generate-emails-with-copilot?u=76281980&t=0)** - [Instructor] Copilot and Outlook can help you draft the content of an email.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/get-coaching-assistance-and-generate-emails-with-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] and [[Microsoft Outlook|Outlook]] can help you draft the content of an email.
 >
 > **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/get-coaching-assistance-and-generate-emails-with-copilot?u=76281980&t=5)** Maybe you're struggling with how to start, unsure of how to address a sensitive topic, or maybe you're just pressed for time.
 >
@@ -3490,7 +3455,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (5), next (3), [[Microsoft Outlook|Outlook]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
@@ -3502,24 +3467,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft 365 is much more than Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980)
+#### [Microsoft 365 is much more than Outlook](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=0)** - [Instructor] My name is Jess Stratton, and I hope you enjoyed seeing all these incredible features of Outlook.
+> **[0:00](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=0)** - [Instructor] My name is Jess Stratton, and I hope you enjoyed seeing all these incredible features of [[Microsoft Outlook|Outlook]].
 >
-> **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=5)** If you're looking for some more learning, I suggest looking at all of our Outlook courses, including Outlook for the web, and we have a lot more courses on Microsoft Copilot to learn more about how the AI can help you through your productivity.
+> **[0:05](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=5)** If you're looking for some more learning, I suggest looking at all of our Outlook courses, including Outlook for the web, and we have a lot more courses on [[Microsoft Copilot]] to learn more about how the AI can help you through your productivity.
 >
-> **[0:19](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=19)** If you want to take it a little bit further, I also suggest looking for any course that we have with Microsoft 365, including To Do, Planner, and Loop.
+> **[0:19](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=19)** If you want to take it a little bit further, I also suggest looking for any course that we have with [[Microsoft 365]], including To Do, Planner, and Loop.
 >
-> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=28)** If you have any questions or comments, you can find me on LinkedIn at NerdGirlJess.
+> **[0:28](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=28)** If you have any questions or comments, you can find me on [[LinkedIn]] at NerdGirlJess.
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-essential-training-microsoft-365-25654391/microsoft-365-is-much-more-than-outlook?u=76281980&t=33)** I'd love to hear from you and see what you think about Outlook.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), web (1), [[Microsoft Copilot]] (1), ai (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft Copilot]] (1), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

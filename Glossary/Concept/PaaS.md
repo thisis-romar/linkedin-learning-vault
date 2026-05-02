@@ -34,7 +34,7 @@ created: 2026-05-02
 1. [[A Beginner's Guide to Public Cloud Options]] — 30 mentions
 2. [[Cloud Computing Understanding Core Concepts]] — 29 mentions
 3. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 29 mentions
-4. [[Azure Understanding The Big Picture]] — 20 mentions
+4. [[Azure Understanding The Big Picture]] — 21 mentions
 5. [[Microsoft Azure Essentials By Microsoft Press]] — 19 mentions
 6. [[Migrating to Azure]] — 17 mentions
 7. [[Everything as a Service (XaaS) is the Future of Business]] — 14 mentions
@@ -64,19 +64,19 @@ created: 2026-05-02
 > 29. [[Including Sustainability in Your Cloud Strategy]] — 3 mentions
 > 30. [[Microsoft Azure- Security Concepts]] — 3 mentions
 > 31. [[Choosing A Cloud Platform For Developers Aws Azure And Gcp]] — 3 mentions
-> 32. [[Including Sustainability in Your Cloud Strategy (2022)]] — 3 mentions
-> 33. [[Microsoft Entra ID Fundamentals]] — 2 mentions
-> 34. [[IT Security Foundations- Core Concepts]] — 2 mentions
-> 35. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
-> 36. [[Networking Foundations Networking Basics]] — 2 mentions
-> 37. [[Building a Cloud Architecture Diagram]] — 2 mentions
-> 38. [[Data Management Essential Training]] — 2 mentions
-> 39. [[Aws Essential Training For Developers]] — 2 mentions
-> 40. [[Google Cloud Platform for Machine Learning Essential Training]] — 2 mentions
-> 41. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 2 mentions
-> 42. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 2 mentions
-> 43. [[Certified Analytics Professional (CAP) Cert Prep]] — 2 mentions
-> 44. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 2 mentions
+> 32. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 3 mentions
+> 33. [[Including Sustainability in Your Cloud Strategy (2022)]] — 3 mentions
+> 34. [[Microsoft Entra ID Fundamentals]] — 2 mentions
+> 35. [[IT Security Foundations- Core Concepts]] — 2 mentions
+> 36. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
+> 37. [[Networking Foundations Networking Basics]] — 2 mentions
+> 38. [[Building a Cloud Architecture Diagram]] — 2 mentions
+> 39. [[Data Management Essential Training]] — 2 mentions
+> 40. [[Aws Essential Training For Developers]] — 2 mentions
+> 41. [[Google Cloud Platform for Machine Learning Essential Training]] — 2 mentions
+> 42. [[Google Cloud Professional Machine Learning Engineer Cert Prep]] — 2 mentions
+> 43. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 2 mentions
+> 44. [[Certified Analytics Professional (CAP) Cert Prep]] — 2 mentions
 > 45. [[Problem-Solving Strategies for Data Engineers]] — 2 mentions
 > 46. [[Introduction to IT Architecture]] — 1 mentions
 > 47. [[Cybersecurity Foundations]] — 1 mentions
@@ -104,13 +104,13 @@ created: 2026-05-02
 
 1. [[Foundations of Cloud Computing- Models, Platforms, Services, and Careers]] — 68 total mentions
 2. [[Essential New Skills in IT Administration]] — 62 total mentions
-3. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 44 total mentions
+3. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 45 total mentions
 4. [[Explore a Career as a Cloud Administrator]] — 33 total mentions
 5. [[The Top 10 Most Popular Courses among IT Professionals]] — 30 total mentions
 6. [[Master Digital Transformation]] — 29 total mentions
 7. [[Prepare for the Google Cloud Digital Leader Certification]] — 29 total mentions
-8. [[Getting Started as an Azure Developer]] — 25 total mentions
-9. [[Getting Started with Cloud Development]] — 23 total mentions
+8. [[Getting Started as an Azure Developer]] — 26 total mentions
+9. [[Getting Started with Cloud Development]] — 24 total mentions
 10. [[Become an IT Security Specialist]] — 22 total mentions
 
 ---

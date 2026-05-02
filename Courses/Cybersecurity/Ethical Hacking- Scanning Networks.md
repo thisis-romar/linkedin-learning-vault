@@ -100,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scanning the LAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
+#### [Scanning the LAN](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980&t=0)** - [Instructor] After a thorough footprinting exercise, the team is armed with more information on the target and is ready to move into the second phase of ethical hacking, scanning the network.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980&t=0)** - [Instructor] After a thorough footprinting exercise, the team is armed with more information on the target and is ready to move into the second phase of [[Ethical Hacking]], scanning the network.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-the-lan?u=76281980&t=13)** In this course, I'll explore scanning techniques and ways to obtain information from the target system, including using specially crafted packets, TCP flags, SYN scans, and ping sweeps.
 >
@@ -123,16 +122,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (2)
 > **Env Vars:** tcp (1), syn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-resources?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-resources?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for anyone with an interest in learning more about [[Ethical Hacking]].
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-resources?u=76281980&t=10)** This course is part of the Ethical Hacking series.
 >
@@ -157,12 +155,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/hacking-ethically?u=76281980&t=11)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -174,17 +171,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your virtual network
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980)
+#### [Setting up your virtual network](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=0)** - [Instructor] To demonstrate some of the tools used in ethical hacking, I've set up a small network using pre-made images and virtual machines.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=0)** - [Instructor] To demonstrate some of the tools used in [[Ethical Hacking]], I've set up a small network using pre-made images and [[Virtual Machines]].
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=10)** As we see in this graphic, we have Kali Linux and Windows using the virtual switch, which is created automatically, all inside the VMware Player or VirtualBox environment.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=10)** As we see in this graphic, we have [[Kali Linux]] and [[Windows]] using the virtual switch, which is created automatically, all inside the VMware Player or VirtualBox environment.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=25)** Let's take a look at where we can obtain these resources.
 >
@@ -194,7 +190,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=45)** And here's where you'll go for a copy of VirtualBox.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=49)** For the virtual machines, you can visit Microsoft's Developer page for a 90 day version of the latest Windows operating system.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=49)** For the virtual machines, you can visit [[Microsoft]]'s Developer page for a 90 day version of the latest Windows operating system.
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/setting-up-your-virtual-network?u=76281980&t=60)** And go to [kali.org](https://kali.org) for the latest version of Kali.
 >
@@ -221,12 +217,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Roadmapping a scan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
+#### [Roadmapping a scan](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=0)** - [Instructor] The second phase of ethical hacking is scanning, which helps develop a profile of the target.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=0)** - [Instructor] The second phase of [[Ethical Hacking]] is scanning, which helps develop a profile of the target.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=7)** In this segment, we'll learn how scanning helps discover responding hosts, check for listening services, determine the operating systems in use, and generate a map of the network.
 >
@@ -246,7 +241,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=81)** We want to identify the type of devices that are in place.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=86)** We'll also check for any defense methods that might exist, such as firewalls and intrusion detection systems.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=86)** We'll also check for any defense methods that might exist, such as firewalls and [[Intrusion Detection]] systems.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/roadmapping-a-scan?u=76281980&t=95)** In addition, the team will check for listening services, determine the operating systems, and monitor for evidence of data being sent in clear text.
 >
@@ -274,13 +269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), data (2), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (2), udp (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Outlining the TCP flags
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980)
+#### [Outlining the TCP flags](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +334,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=198)** Now, most scanners use the TCP flags.
 >
-> **[3:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=201)** For example, Nmap can use the following techniques.
+> **[3:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=201)** For example, [[Nmap]] can use the following techniques.
 >
 > **[3:27](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=207)** A full connect scan completes the handshake and is the most reliable scan.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=250)** Now, closed ports should send back a reset.
 >
-> **[4:14](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=254)** Now, a Windows machine will send resets regardless of the port state.
+> **[4:14](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=254)** Now, a [[Windows]] machine will send resets regardless of the port state.
 >
 > **[4:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/outlining-the-tcp-flags?u=76281980&t=259)** So a Windows machine really isn't susceptible to this type of scan.
 >
@@ -380,14 +374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Windows]] (2), next (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Nmap]] (1)
 > **Env Vars:** tcp (11), udp (7), fin (5), syn (4), icmp (3)
 > **Definitions:** is a  (5)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging the TCP three-way handshake
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980)
+#### [Leveraging the TCP three-way handshake](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,7 +420,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980&t=127)** Now I'd like to show you an example of a TCP handshake and FIN exchange between a client and a server.
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980&t=135)** If you'd like to follow along, get the file "TCP_Start&End" found in the exercise folder, and open the file in Wireshark.
+> **[2:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980&t=135)** If you'd like to follow along, get the file "TCP_Start&End" found in the exercise folder, and open the file in [[Wireshark]].
 >
 > **[2:25](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-the-tcp-three-way-handshake?u=76281980&t=145)** We'll first look at the three-way handshake.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** tcp (7), fin (6), ack (4), syn (3), icmp (1)
 > **UI Navigation:** open the (2), scroll down (1), go to (1)
 > **Versions:** 10.0.0 (1), 178.255.83 (1)
@@ -478,8 +471,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarizing scanning tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980)
+#### [Summarizing scanning tools](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,23 +497,23 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=92)** This is achieved using a method known as fingerprinting, which estimates the operating system based on the analysis of responses from the host.
 >
-> **[1:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=104)** For instance, consider the output of a scan that indicates with 99% accuracy that the operating system is Windows 10.
+> **[1:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=104)** For instance, consider the output of a scan that indicates with 99% accuracy that the operating system is [[Windows 10]].
 >
 > **[1:56](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=116)** Finally, upon completing all scans, the scanner can identify the topology and construct a logical map of the network.
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=127)** Next, let's talk about some of the tools you might use when scanning.
 >
-> **[2:12](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=132)** If you do a keyword search on apps to scan the network, you'll find a wide variety of tools that are either free or for pay, and some are built into Kali Linux.
+> **[2:12](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=132)** If you do a keyword search on apps to scan the network, you'll find a wide variety of tools that are either free or for pay, and some are built into [[Kali Linux]].
 >
 > **[2:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=146)** Apps include the Angry IP Scanner.
 >
-> **[2:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=149)** This is a freely available scanner for Linux, Windows, and Mac OS.
+> **[2:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=149)** This is a freely available scanner for [[Linux]], [[Windows]], and Mac OS.
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=157)** Nessus is a widely used vulnerability scanner that's commercially available but free for personal use.
 >
 > **[2:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=165)** Aircrack-ng is a suite of tools for wireless LAN auditing.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=171)** OpenVAS is an open-source vulnerability scanner, and Nmap is another open-source tool for network discovery and vulnerability scanning.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=171)** OpenVAS is an open-source vulnerability scanner, and [[Nmap]] is another open-source tool for network discovery and vulnerability scanning.
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=184)** Unicornscan comes pre-installed with Kali Linux and is a fast, efficient scanner.
 >
@@ -539,7 +531,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=236)** There are also a wide range of tools available.
 >
-> **[4:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=240)** Drozer is an application security testing framework that's specifically designed for Android devices.
+> **[4:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=240)** Drozer is an [[Application Security]] testing framework that's specifically designed for [[Android]] devices.
 >
 > **[4:09](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/summarizing-scanning-tools?u=76281980&t=249)** Quark Engine is an open-source Android and iOS malware scoring system.
 >
@@ -555,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** open-source (3), [[Android]] (3), next (2), [[Kali Linux]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Android]] (3), [[Kali Linux]] (2), [[Windows]] (2), [[Windows 10]] (1), [[Linux]] (1)
 > **Definitions:** is a  (4), is an  (4), known as (1)
 > **Env Vars:** ack (2), syn (2), icmp (1), tcp (1), arp (1)
 > **Code Identifiers:** ios (2)
@@ -564,12 +556,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** troubleshoot (1)
 
-#### Discovering Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980)
+#### [Discovering Nmap](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=0)** - [Instructor] Nmap is a powerful and flexible open source network discovery tool.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=0)** - [Instructor] [[Nmap]] is a powerful and flexible open source network discovery tool.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=6)** In this segment, we'll outline some of the Nmap scans available that include host discovery, port scanning, and operating system detection, along with some additional features to help streamline your scans.
 >
@@ -577,7 +568,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=30)** One of the more popular scanning tools is Nmap.
 >
-> **[0:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=35)** Nmap, or Network Mapper, provides a wide range of scans and options.
+> **[0:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=35)** Nmap, or [[Nmap|Network Mapper]], provides a wide range of scans and options.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/discovering-nmap?u=76281980&t=40)** In addition to standard scans, Nmap has a wide range of features to optimize scanning on any size network.
 >
@@ -611,7 +602,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), dns (1)
+> **Frameworks & Libraries:** [[Nmap]] (10), [[Nmap|Network mapper]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dns (1), cpu (1)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -620,8 +611,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Using hping3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980)
+#### [Using hping3](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +637,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=89)** I've opened up a terminal so we can do a simple ping scan using Hping3.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=95)** I'm going to pinging scanme.[nmap.org](https://nmap.org), which is a site that allows you to test and do some pinging and scanning.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=95)** I'm going to pinging scanme.[[[Nmap]].org](https://nmap.org), which is a site that allows you to test and do some pinging and scanning.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=105)** So I've entered the command and I'll press Enter, and I'll stop that.
 >
@@ -665,7 +655,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=174)** And here we see the command.
 >
-> **[2:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=177)** Now, so we can see the random IP addresses that Hping3 generates, I'll launch Wireshark here within Kali and start the capture.
+> **[2:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=177)** Now, so we can see the random IP addresses that Hping3 generates, I'll launch [[Wireshark]] here within Kali and start the capture.
 >
 > **[3:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-hping3?u=76281980&t=187)** So we're going to move this over and I'll launch Wireshark.
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Nmap]] (1)
 > **Env Vars:** syn (4), tcp (2), icmp (1), udp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
@@ -707,8 +697,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Locating network hosts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
+#### [Locating network hosts](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=40)** The packets are specifically crafted to obtain responses and gather attributes.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=47)** Let's check the Nmap book for more information.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=47)** Let's check the [[Nmap]] book for more information.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=51)** I'm here at [nmap.org](https://nmap.org) in chapter three of the online version of the Nmap book, which focuses on host discovery.
 >
@@ -740,7 +729,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=106)** For example, we can use command line tools such as nslookup, dig, or whois, or we can use traceroute and ping.
 >
-> **[1:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=117)** We can check email headers or even use online databases and directories.
+> **[1:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=117)** We can check email headers or even use online [[Databases]] and directories.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=124)** Let's take a look.
 >
@@ -772,7 +761,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=225)** I've opened a command line prompt and entered ping [nationalguard.com](https://nationalguard.com), and I'll press Enter.
 >
-> **[3:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=234)** We'll see how the request will time out due to packet filtering, or in some cases, a silent discard to the Bitbucket.
+> **[3:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=234)** We'll see how the request will time out due to packet filtering, or in some cases, a silent discard to the [[Bitbucket]].
 >
 > **[4:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/locating-network-hosts?u=76281980&t=244)** Now let's test your knowledge.
 >
@@ -782,7 +771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Security]] (1), [[Databases]] (1), web (1), prompt (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Databases]] (1), [[Bitbucket]] (1)
 > **Analogies:** for example (3), such as (2)
 > **UI Navigation:** scroll down (2), go to (1), open the (1)
 > **URLs:** [nmap.org](https://nmap.org) (1), [example.com](https://example.com) (1), [nationalguard.com](https://nationalguard.com) (1)
@@ -791,8 +780,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing ping scans
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980)
+#### [Comparing ping scans](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,9 +790,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=15)** First, let's talk about ARP scanning.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=19)** ARP scanning, also called ARP ping or ARP sweep is a simple and effective way to determine the live hosts on a local area network.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=19)** ARP scanning, also called ARP ping or ARP sweep is a simple and effective way to determine the live hosts on a [[Local Area Network (LAN)|local area network]].
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=30)** Let's see how this works in Wireshark.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=30)** Let's see how this works in [[Wireshark]].
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=33)** I've opened up ARP scan, where we can view the signature.
 >
@@ -818,7 +806,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=70)** Another scan we can use to test for liveness is a UDP ping.
 >
-> **[1:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=75)** With this scan, Nmap will send a UDP packet to some common ports.
+> **[1:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=75)** With this scan, [[Nmap]] will send a UDP packet to some common ports.
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=81)** For example, port 53, which is used for DNS, it sends it out and will wait for a response.
 >
@@ -826,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=99)** You could see various ICMP error messages.
 >
-> **[1:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=104)** For example, in Zenmap, which is the Windows version of Nmap, I use the following command as we see here, and we let this run.
+> **[1:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=104)** For example, in Zenmap, which is the [[Windows]] version of Nmap, I use the following command as we see here, and we let this run.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=117)** And then down below, we see the host 10.001, which is the router, has port 53 open.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=263)** All total, they provide information about the network.
 >
-> **[4:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=268)** However, keep in mind when using ICMP ping sweeps, many times they're blocked by a firewall or intrusion detection system.
+> **[4:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=268)** However, keep in mind when using ICMP ping sweeps, many times they're blocked by a firewall or [[Intrusion Detection]] system.
 >
 > **[4:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/comparing-ping-scans?u=76281980&t=279)** Now let's test your knowledge.
 >
@@ -872,7 +860,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), [[Wireshark]] (3), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Nmap]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Windows]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** icmp (9), arp (8), udp (6), dns (5), mac (2)
 > **UI Navigation:** scroll down (2), go to (1), select the (1)
 > **Definitions:** is a  (3)
@@ -881,8 +869,7 @@ created: 2026-05-02
 > **Versions:** 10.001 (1)
 > **Warnings:** keep in mind (1)
 
-#### Sending SYN and ACK scans
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/sending-syn-and-ack-scans?u=76281980)
+#### [Sending SYN and ACK scans](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/sending-syn-and-ack-scans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,23 +933,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** syn (14), tcp (13), ack (9), icmp (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identify a scanning signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980)
+#### [Challenge: Identify a scanning signature](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=0)** - [Instructor] Let's do a challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=7)** For this challenge, we'll evaluate a scanning signature using Wireshark.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=7)** For this challenge, we'll evaluate a scanning signature using [[Wireshark]].
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=13)** For this challenge, we'll begin by going to the Exercise folder and opening the file Nmap Scan.pcapng in Wireshark.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=13)** For this challenge, we'll begin by going to the Exercise folder and opening the file [[Nmap]] Scan.pcapng in Wireshark.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-identify-a-scanning-signature?u=76281980&t=24)** And here's what you should see when you open the file.
 >
@@ -998,21 +983,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Wireshark]] (2)
 > **UI Navigation:** open the (1), right-click (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identify a scanning signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980)
+#### [Solution: Identify a scanning signature](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=0)** - [Instructor] Okay, now let's check our work.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=8)** For this challenge, you were to open Nmap Scan.pcapng, and then I wanted you to filter by several protocols.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=8)** For this challenge, you were to open [[Nmap]] Scan.pcapng, and then I wanted you to filter by several protocols.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=18)** So when we begin, I want you to imagine that you are an intrusion detection system and you're monitoring all the traffic that goes through your device for unusual or suspicious behavior.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=18)** So when we begin, I want you to imagine that you are an [[Intrusion Detection]] system and you're monitoring all the traffic that goes through your device for unusual or suspicious behavior.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-identify-a-scanning-signature?u=76281980&t=31)** And more specifically in this case, we're going to be able to see some patterns of a scan.
 >
@@ -1094,7 +1078,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Scripting]] (2), [[Intrusion Detection]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Nmap]] (8), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (4), syn (3), arp (2), ack (1), icmp (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
@@ -1106,8 +1090,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evaluating port scanning methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
+#### [Evaluating port scanning methods](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1102,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=37)** Another task done during port scanning is called service discovery, which is done to identify services that are running, and if possible, determine the version of those services.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=51)** The added benefit is that by gathering information obtained during scanning, the scanner can identify a wide range of statistics and data.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=51)** The added benefit is that by gathering information obtained during scanning, the scanner can identify a wide range of [[Statistics]] and data.
 >
 > **[1:02](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=62)** Information includes the types of devices, such as firewalls, that are on the network, along with the operating systems that are in use.
 >
@@ -1163,7 +1146,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=234)** And there's also stealth scans, such as the FIN, NULL, and Xmas Tree scan, which are designed to probe ports without completing a full handshake or connection.
 >
-> **[4:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=247)** Now, once done, the scanner will present you with a list of identified services, and here we see some examples of open ports here at [nmap.org](https://nmap.org), so you know what to look for once the scan is complete.
+> **[4:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=247)** Now, once done, the scanner will present you with a list of identified services, and here we see some examples of open ports here at [[[Nmap]].org](https://nmap.org), so you know what to look for once the scan is complete.
 >
 > **[4:23](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/evaluating-port-scanning-methods?u=76281980&t=263)** Now, let's test your knowledge.
 >
@@ -1173,7 +1156,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), dns (2), [[Statistics]] (1), data (1), application (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Nmap]] (1)
 > **Env Vars:** udp (5), tcp (4), syn (3), dns (2), http (1)
 > **Analogies:** such as (4), for example (2)
 > **Ports:** port 53 (1), port 80 (1), port 88 (1), port 3389 (1), port 1001 (1)
@@ -1182,8 +1165,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning IPv6 networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980)
+#### [Scanning IPv6 networks](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/scanning-ipv6-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,15 +1235,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), traffic (1), lan (1)
 > **Env Vars:** slaac (5), mac (3), nic (3), fffe (2), lan (1)
 > **Versions:** 18.4 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying listening hosts using SCTP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980)
+#### [Identifying listening hosts using SCTP](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,11 +1259,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=48)** With SCTP, data can be sent in chunks between two endpoints as opposed to TCP, where data is sent in a stream of bytes, which can be inefficient for certain applications.
 >
-> **[1:05](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=65)** Let's take a look at SCTP in Wireshark.
+> **[1:05](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=65)** Let's take a look at SCTP in [[Wireshark]].
 >
 > **[1:09](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=69)** If you'd like to follow along, go to the Wireshark Wiki and select this packet capture.
 >
-> **[1:16](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=76)** Now, once here, I'm going to go to statistics and open a flow graph.
+> **[1:16](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=76)** Now, once here, I'm going to go to [[Statistics]] and open a flow graph.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/identifying-listening-hosts-using-sctp?u=76281980&t=82)** In this flow graph, we see the communication between two endpoints.
 >
@@ -1335,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Wireshark]] (2), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1)
 > **Env Vars:** sctp (12), init (12), cookie (8), echo (8), ack (4)
 > **Prerequisites:** setup (3)
 > **UI Navigation:** go to (2)
@@ -1343,8 +1323,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using SSDP for discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980)
+#### [Using SSDP for discovery](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1370,7 +1349,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=103)** NOTIFY is also a multicast that announces what services are available.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=110)** So that we can better understand how SSDP works, I'd like to show you, in Wireshark, some of the information that SSDP provides for passive discovery of network devices.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=110)** So that we can better understand how SSDP works, I'd like to show you, in [[Wireshark]], some of the information that SSDP provides for passive discovery of network devices.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=124)** If you'd like to follow along, go to [cloudshark.org](https://cloudshark.org), and then once you're there, we'll go to Export, Download File, Download the original file, and open it in Wireshark.
 >
@@ -1380,7 +1359,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=149)** I'd also like to do a flow graph.
 >
-> **[2:32](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=152)** Now we'll go to Statistics and Flow Graph, and we'll limit it to display filter.
+> **[2:32](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=152)** Now we'll go to [[Statistics]] and Flow Graph, and we'll limit it to display filter.
 >
 > **[2:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-ssdp-for-discovery?u=76281980&t=159)** And here, we see some notifies, along with M-SEARCH.
 >
@@ -1412,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Wireshark]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1)
 > **Env Vars:** ssdp (11), search (2), udp (2), upnp (1), notify (1)
 > **UI Navigation:** go to (3), right-click (1)
 > **Definitions:** is a  (4)
@@ -1421,18 +1400,17 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** such as (1)
 
-#### Optimizing scans with Nmap Script Engine
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980)
+#### [Optimizing scans with Nmap Script Engine](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=0)** - [Instructor] On its own, Nmap provides an exceptional ability to scan networks.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=0)** - [Instructor] On its own, [[Nmap]] provides an exceptional ability to scan networks.
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=6)** In this segment, we'll learn how we can use Nmap Scripting Engine to streamline and power up our scanning results.
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=16)** Nmap is a powerful network scanner.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=19)** However, to make scanning more efficient, we can use pre-configured scripts during an ethical hacking exercise.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=19)** However, to make scanning more efficient, we can use pre-configured scripts during an [[Ethical Hacking]] exercise.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=28)** Let's talk about how this works.
 >
@@ -1470,7 +1448,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=132)** I'd like to show you an example.
 >
-> **[2:14](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=134)** I'm here in Zenmap, which is the Windows version of Nmap, and I use the following script.
+> **[2:14](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=134)** I'm here in Zenmap, which is the [[Windows]] version of Nmap, and I use the following script.
 >
 > **[2:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/optimizing-scans-with-nmap-script-engine?u=76281980&t=141)** Here we can see the script as follows.
 >
@@ -1504,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scripting]] (3), power (2), [[Ethical Hacking]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (14), [[Ethical Hacking]] (1), [[Windows]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1), find (1)
@@ -1518,8 +1496,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fingerprinting the OS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
+#### [Fingerprinting the OS](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1531,7 +1508,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=31)** Two techniques commonly used to determine the operating system are banner grabbing and fingerprinting.
 >
-> **[0:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=39)** Both are used in the initial stages of a cybersecurity assessment, commonly during reconnaissance and enumeration.
+> **[0:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=39)** Both are used in the initial stages of a [[Cybersecurity]] assessment, commonly during reconnaissance and enumeration.
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=48)** While the two techniques are somewhat related, they serve different purposes and use different methods.
 >
@@ -1543,7 +1520,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=76)** The response commonly includes a banner that displays information about the software, its version, and other details.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=86)** I'm hereat [nmap.org](https://nmap.org), where we see an example from an Nmap script that we can use to grab a banner.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=86)** I'm hereat [[[Nmap]].org](https://nmap.org), where we see an example from an Nmap script that we can use to grab a banner.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/fingerprinting-the-os?u=76281980&t=94)** If we were to connect to an FTP server, it might yield this banner as shown in the script output.
 >
@@ -1569,21 +1546,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Security]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (5), [[Cybersecurity]] (1)
 > **URLs:** [nmap.org](https://nmap.org) (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ftp (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Wireshark for OS discovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980)
+#### [Using Wireshark for OS discovery](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=0)** - [Instructor] In addition to active operating system discovery, the team can leverage passive techniques to determine the target's operating system.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=10)** In this segment, we'll learn how Wireshark can capture identifiers to help discover the operating system in use.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=10)** In this segment, we'll learn how [[Wireshark]] can capture identifiers to help discover the operating system in use.
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=19)** Passive operating system discovery can be done by using Wireshark.
 >
@@ -1605,9 +1581,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=94)** Now I'll expand this, and here we see Server Message Block.
 >
-> **[1:37](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=97)** And then I'll drop down Microsoft Windows Browser Protocol, and I'll scroll down here.
+> **[1:37](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=97)** And then I'll drop down [[Microsoft]] [[Windows]] Browser Protocol, and I'll scroll down here.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=103)** Now, looking at the packet details, we can see that the host name is RECORDING-PC, and here we see the Windows version is Windows 10.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=103)** Now, looking at the packet details, we can see that the host name is RECORDING-PC, and here we see the Windows version is [[Windows 10]].
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/using-wireshark-for-os-discovery?u=76281980&t=114)** And it tells us about the server type, which here, I'll select that.
 >
@@ -1647,15 +1623,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), traffic (3), [[Windows]] (2), lan (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Windows]] (2), [[Microsoft]] (1), [[Windows 10]] (1)
 > **Env Vars:** http (5), lan (1), recording (1), tcp (1)
 > **CLI Commands:** find (2), nginx (1), apache (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Employing IPv6 fingerprinting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980)
+#### [Employing IPv6 fingerprinting](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1638,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=11)** In this segment, we'll learn how IP version six fingerprinting can help identify the operating system and open services on the target.
 >
-> **[0:22](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=22)** When using Nmap, IP version six fingerprinting is pretty much the same as when scanning with IP version four.
+> **[0:22](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=22)** When using [[Nmap]], IP version six fingerprinting is pretty much the same as when scanning with IP version four.
 >
 > **[0:31](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=31)** To scan with IP version six, you would use the dash six option.
 >
@@ -1673,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=52)** The differences are in the specific probes Nmap uses and in the way they are matched.
 >
-> **[1:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=60)** What I'd like to do is talk about a few specific features, and then show you the probe in Wireshark.
+> **[1:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=60)** What I'd like to do is talk about a few specific features, and then show you the probe in [[Wireshark]].
 >
 > **[1:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=67)** To follow along, open IP version six probe Nmap.pcapng, which you'll find in the Exercise folder.
 >
@@ -1705,7 +1680,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=170)** And there is no data payload.
 >
-> **[2:53](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=173)** But what makes this probe interesting is that it uses faulty extension headers, and I'll just go here to show you that there are four of them, and they're hop-by-hop, destination options, routing, hop-by-hop.
+> **[2:53](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=173)** But what makes this probe interesting is that it uses faulty extension headers, and I'll just go here to show you that there are four of them, and they're hop-by-hop, destination options, [[Routing]], hop-by-hop.
 >
 > **[3:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-ipv6-fingerprinting?u=76281980&t=191)** Now we'll go back into Wireshark, and in this case, we're going to go down to the expert information.
 >
@@ -1745,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), node (2), [[Routing]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Nmap]] (7), [[Wireshark]] (5), [[Routing]] (2)
 > **Env Vars:** icmp (3), abcd (1)
 > **Definitions:** is an  (2), is called (1), is a  (1)
 > **CLI Commands:** node (2), find (1)
@@ -1754,14 +1729,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Harnessing the TTL value
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980)
+#### [Harnessing the TTL value](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=0)** - [Lecturer] The Time to Live value in an IP header can be used to help determine the operating system.
 >
-> **[0:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=7)** In this segment, we'll learn how Nmap uses the Time to Live value to make a best-guess effort as to the target's operating system.
+> **[0:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=7)** In this segment, we'll learn how [[Nmap]] uses the Time to Live value to make a best-guess effort as to the target's operating system.
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=18)** Nmap sends probes to identify the operating system based on specific behavior from the target system.
 >
@@ -1785,9 +1759,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=95)** Some common values are as follows.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=99)** For Linux, it's 64 hops, Windows, 128 hop, and Cisco routers, 255 hops.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=99)** For [[Linux]], it's 64 hops, [[Windows]], 128 hop, and Cisco routers, 255 hops.
 >
-> **[1:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=111)** I'd like to show you an example of an active operating system scan in Wireshark.
+> **[1:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=111)** I'd like to show you an example of an active operating system scan in [[Wireshark]].
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=117)** If you'd like to follow along, you can download activeosfingerprinting.pcapng, here, at [chrissanders.org](https://chrissanders.org).
 >
@@ -1801,7 +1775,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=152)** So we can see it better, let's do a flow graph.
 >
-> **[2:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=155)** We'll go to Statistics, and then to Flow Graph.
+> **[2:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=155)** We'll go to [[Statistics]], and then to Flow Graph.
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/harnessing-the-ttl-value?u=76281980&t=160)** We see that the host at .128 has sent several probes out to host .150, and is waiting for responses.
 >
@@ -1821,7 +1795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), [[Linux]] (1), [[Windows]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (6), [[Wireshark]] (3), [[Linux]] (1), [[Windows]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** tcp (1), rfc (1)
@@ -1830,16 +1804,15 @@ created: 2026-05-02
 > **Documentation:** rfc (1)
 > **UI Navigation:** go to (1)
 
-#### Mapping the network using Nmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980)
+#### [Mapping the network using Nmap](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=0)** - [Instructor] The Ethical Hacker has numerous scanning tools available for network discovery.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=6)** In this segment, we'll learn how Nmap can provide detailed information during host discovery, and review some common scans and options.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=6)** In this segment, we'll learn how [[Nmap]] can provide detailed information during host discovery, and review some common scans and options.
 >
-> **[0:17](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=17)** Nmap, or Network Mapper, is a popular tool that can find live hosts, identify listening services, and evade intrusion detection systems.
+> **[0:17](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=17)** Nmap, or [[Nmap|Network Mapper]], is a popular tool that can find live hosts, identify listening services, and evade [[Intrusion Detection]] systems.
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/mapping-the-network-using-nmap?u=76281980&t=30)** Nmap has a ton of scans, options, and scripts.
 >
@@ -1921,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Search]] (1), product (1)
+> **Frameworks & Libraries:** [[Nmap]] (18), [[Nmap|Network mapper]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (3), syn (3), nic (3), icmp (1), echo (1)
 > **Definitions:** is a  (4), means that (1), is an  (1)
 > **URLs:** [nmap.org](https://nmap.org) (3), [example.com](https://example.com) (1)
@@ -1935,14 +1908,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generating less noise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
+#### [Generating less noise](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=0)** - [Instructor] Scanning a network can generate a great deal of traffic.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=4)** In this segment, we'll outline methods to quietly scan and avoid detection by intrusion detection systems and firewalls.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=4)** In this segment, we'll outline methods to quietly scan and avoid detection by [[Intrusion Detection]] systems and firewalls.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=14)** First, let's talk about two security devices commonly found on a network.
 >
@@ -1984,7 +1956,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=161)** We can use proxies during scanning, which will enable the team to move through a network without fear of being identified.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=171)** Anonymizers can also be used during ethical hacking to protect the identity and location of the team.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=171)** Anonymizers can also be used during [[Ethical Hacking]] to protect the identity and location of the team.
 >
 > **[3:01](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/generating-less-noise?u=76281980&t=181)** Now, let's test your knowledge.
 >
@@ -1994,13 +1966,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Intrusion Detection]] (4), [[Security]] (3), application (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (4), [[Ethical Hacking]] (1)
 > **Env Vars:** tcp (1), fin (1), null (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the idle scan
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/understanding-the-idle-scan?u=76281980)
+#### [Understanding the idle scan](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/understanding-the-idle-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2068,15 +2039,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** syn (5), ack (4), tcp (2)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Firewalking the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980)
+#### [Firewalking the network](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2089,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980&t=154)** The team can conduct fire walking in one of several ways.
 >
-> **[2:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980&t=159)** You can use tracer route on a Unix Linux system, tracer on a Windows system, or use the Firewalk tool available on Cali Linux.
+> **[2:39](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980&t=159)** You can use tracer route on a Unix [[Linux]] system, tracer on a [[Windows]] system, or use the Firewalk tool available on Cali Linux.
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/firewalking-the-network?u=76281980&t=172)** Now, let's test your knowledge, describe how Firewalking can help discover the details of an internal network that's protected by a firewall.
 >
@@ -2128,7 +2097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1)
 > **CLI Commands:** find (1)
 > **URLs:** [kali.org](https://kali.org) (1)
 > **Env Vars:** icmp (1)
@@ -2136,8 +2105,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing stealth scans
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980)
+#### [Implementing stealth scans](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2165,7 +2133,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=84)** And with the Maimon scan, the scanner sends a TCP ACK packet with the FIN flag set to the target port.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=93)** When using inverse TCP flag scans, NMAP will indicate the state as follows.
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=93)** When using inverse TCP flag scans, [[Nmap]] will indicate the state as follows.
 >
 > **[1:41](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=101)** If there's no response, the port is either open or filtered.
 >
@@ -2183,11 +2151,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=156)** With a FIN scan, closed ports should send back a reset.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=161)** However, a Windows machine will send a reset regardless of the port state, so a Windows machine is not susceptible to this type of scan.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=161)** However, a [[Windows]] machine will send a reset regardless of the port state, so a Windows machine is not susceptible to this type of scan.
 >
 > **[2:52](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=172)** In addition, some scans, for example, the Maimon scan won't work on a newer operating system.
 >
-> **[2:59](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=179)** Because inverse TCP FLAG scans use flags to probe systems in ways that most TCP/IP implementations don't expect, it may be able to stay under the radar of an intrusion detection system or firewall.
+> **[2:59](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=179)** Because inverse TCP FLAG scans use flags to probe systems in ways that most TCP/IP implementations don't expect, it may be able to stay under the radar of an [[Intrusion Detection]] system or firewall.
 >
 > **[3:17](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/implementing-stealth-scans?u=76281980&t=197)** However many newer devices are tuned to recognize the signature of these scans.
 >
@@ -2201,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Nmap]] (2), [[Windows]] (2), [[Intrusion Detection]] (1)
 > **Env Vars:** tcp (11), fin (7), null (3), nmap (2), icmp (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
@@ -2211,8 +2179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manipulating packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
+#### [Manipulating packets](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2234,25 +2201,25 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=58)** When you combine randomizing with slow scanning options, this can make it more difficult for devices to detect scanning activity.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=68)** The --randomize-hosts option in Nmap will randomize the order of hosts.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=68)** The --randomize-hosts option in [[Nmap]] will randomize the order of hosts.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=75)** This option will shuffle groups of up to 16,384 hosts before scanning.
 >
 > **[1:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=84)** Another option is to use fragmentation.
 >
-> **[1:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=88)** In this case, the idea is to split up the TCP header over several packets to make it harder for packet filters and intrusion detection systems to identify what you're doing.
+> **[1:28](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=88)** In this case, the idea is to split up the TCP header over several packets to make it harder for packet filters and [[Intrusion Detection]] systems to identify what you're doing.
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=102)** To use fragmentation, use the -f option, which causes the scan, including ping scans, to use tiny fragmented IP packets.
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=113)** Let's take a look.
 >
-> **[1:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=114)** I ran a fragmented scan in Zenmap, and then I ran a capture in Wireshark.
+> **[1:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=114)** I ran a fragmented scan in Zenmap, and then I ran a capture in [[Wireshark]].
 >
 > **[2:01](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=121)** To follow along, grab the capture Frag Scan.pcapng, which you'll find in the Exercise folder.
 >
 > **[2:09](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=129)** First, I'll run a flow graph so we can view the conversation and how the scan checked the ports.
 >
-> **[2:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=135)** We'll go to Statistics and then Flow Graph.
+> **[2:15](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=135)** We'll go to [[Statistics]] and then Flow Graph.
 >
 > **[2:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/manipulating-packets?u=76281980&t=139)** And here we can see the different ports that are checked: 443, 80, 21, 1720.
 >
@@ -2302,7 +2269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Wireshark]] (1), [[Statistics]] (1), data (1)
+> **Frameworks & Libraries:** [[Nmap]] (1), [[Intrusion Detection]] (1), [[Wireshark]] (1), [[Statistics]] (1)
 > **Env Vars:** icmp (5), tcp (2), udp (1), arp (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** such as (3), for example (1)
@@ -2311,8 +2278,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spoofing and cloaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980)
+#### [Spoofing and cloaking](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2332,7 +2298,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=54)** Now, generally this is done when there is no expectation of receiving a reply, as when the source IP address is spoofed, the message cannot be returned to the sender.
 >
-> **[1:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=67)** When scanning with Nmap, you can use the -D or decoy option.
+> **[1:07](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=67)** When scanning with [[Nmap]], you can use the -D or decoy option.
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=73)** This will then launch an attack using bogus IP addresses instead of the actual address.
 >
@@ -2344,11 +2310,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=98)** If I'm receiving traffic from this IP address, I can go into Search, and then once there, we can see the geolocation and information about that IP address.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=110)** We see that it belongs to Google, and if we scroll down, we can see information listing Google's addresses and the geolocation.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=110)** We see that it belongs to [[Google]], and if we scroll down, we can see information listing Google's addresses and the geolocation.
 >
 > **[2:02](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=122)** Now let's talk about MAC address spoofing.
 >
-> **[2:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=126)** On a local area network, a device is identified by its MAC address.
+> **[2:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=126)** On a [[Local Area Network (LAN)|local area network]], a device is identified by its MAC address.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=131)** MAC address spoofing changes or spoofs the MAC address on a network interface card to someone else's MAC address.
 >
@@ -2364,7 +2330,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=171)** When traffic is delivered, Host A and the attacker will receive the data.
 >
-> **[2:58](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=178)** There are a number of different tools available to change your MAC address and a number of different software products.
+> **[2:58](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=178)** There are a number of different tools available to change your MAC address and a number of different software [[Microsoft Products|products]].
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/spoofing-and-cloaking?u=76281980&t=185)** I'm here at this website, where you can see one example of a MAC address changer.
 >
@@ -2378,13 +2344,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Search]] (2), [[Google]] (2), [[Local Area Network (LAN)|Local area network]] (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Nmap]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** mac (14)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Employing proxies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980)
+#### [Employing proxies](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2410,7 +2375,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980&t=79)** There are several tools available, such as Proxy Switcher, Proxifier, and Proxy Workbench.
 >
-> **[1:27](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980&t=87)** On Kali Linux, you can use the ProxyChains utility, which will redirect connections through proxy servers.
+> **[1:27](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980&t=87)** On [[Kali Linux]], you can use the ProxyChains utility, which will redirect connections through proxy servers.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/employing-proxies?u=76281980&t=95)** Most of the time, you'll need to complete a few steps.
 >
@@ -2424,28 +2389,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Prerequisites:** you'll need (1), install (1)
 > **Env Vars:** socks5 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging anonymizers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980)
+#### [Leveraging anonymizers](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=0)** - [Instructor] During an ethical hacking exercise, there are several tools that can be used to protect the identity and location of the team.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=0)** - [Instructor] During an [[Ethical Hacking]] exercise, there are several tools that can be used to protect the identity and location of the team.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=9)** In this segment, we'll describe how anonymizers and censorship circumvention tools can help prevent exposure and gain access to restricted or blocked sites.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=22)** First, let's outline how the tools work.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=26)** Anonymizers are tools or services that are designed to provide privacy when moving through a network.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=26)** Anonymizers are tools or services that are designed to provide [[Privacy]] when moving through a network.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=34)** Censorship circumvention uses various techniques, tools, or strategies to allow an individual to bypass or evade restricted sites.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=47)** One way to stay anonymous when moving through the network is by using The Onion Routing.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=47)** One way to stay anonymous when moving through the network is by using The Onion [[Routing]].
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/leveraging-anonymizers?u=76281980&t=53)** The Onion Routing, or Tor, is an open framework that encrypts and moves traffic within the Tor network.
 >
@@ -2477,7 +2441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (3), traffic (2), web (2), [[Ethical Hacking]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Ethical Hacking]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** node (1)
 > **Env Vars:** usb (1)
@@ -2490,8 +2454,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preventing scanning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)
+#### [Preventing scanning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2551,7 +2514,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980&t=182)** And other suggestions include, use firewalls to block unnecessary incoming and outgoing traffic.
 >
-> **[3:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980&t=190)** Tune intrusion detection prevention systems to detect suspicious scanning activities and take action such as blocking the source IP or alerting administrators.
+> **[3:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980&t=190)** Tune [[Intrusion Detection]] prevention systems to detect suspicious scanning activities and take action such as blocking the source IP or alerting administrators.
 >
 > **[3:23](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/preventing-scanning?u=76281980&t=203)** Properly segment the network using routers and VLANs to provide isolation and protection of the sub-networks.
 >
@@ -2565,14 +2528,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (2), business (1), traffic (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980)
+#### [Detecting spoofing](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2608,7 +2570,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=123)** Let's take a look.
 >
-> **[2:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=126)** I'm in Wireshark, and if you'd like to follow along, open the file IP ID.pcapng found in the exercise folder.
+> **[2:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=126)** I'm in [[Wireshark]], and if you'd like to follow along, open the file IP ID.pcapng found in the exercise folder.
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=137)** Now, when you're in here, there's only three packets, and they're all part of the same communication stream going in one direction.
 >
@@ -2628,7 +2590,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=193)** Well, the TCP header includes a window size field which is used to communicate the maximum amount of data the recipient can currently receive.
 >
-> **[3:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=204)** The value changes as the receiving host is able to accept more data, and will communicate a new window size with a windows update message.
+> **[3:24](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=204)** The value changes as the receiving host is able to accept more data, and will communicate a new window size with a [[Windows]] update message.
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/detecting-spoofing?u=76281980&t=214)** A zero window size means that the host can no longer receive traffic.
 >
@@ -2666,7 +2628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), data (3), [[Wireshark]] (1), [[Windows]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Windows]] (1)
 > **Env Vars:** mac (3), tcp (3), arp (2)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1), for example (1)
@@ -2674,8 +2636,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Draw a network diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980)
+#### [Challenge: Draw a network diagram](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2683,11 +2644,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=6)** But first, a little background information.
 >
-> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=10)** During an ethical hacking exercise, it's helpful to have a logical drawing of the network.
+> **[0:10](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=10)** During an [[Ethical Hacking]] exercise, it's helpful to have a logical drawing of the network.
 >
 > **[0:17](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=17)** In this challenge, we'll create a network drawing.
 >
-> **[0:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=21)** You can use any tool such as Visio, PowerPoint, or an online solution.
+> **[0:21](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=21)** You can use any tool such as Visio, [[Microsoft PowerPoint|PowerPoint]], or an online solution.
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/challenge-draw-a-network-diagram?u=76281980&t=27)** Now here's the simple network drawing.
 >
@@ -2708,8 +2669,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Draw a network diagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-draw-a-network-diagram?u=76281980)
+#### [Solution: Draw a network diagram](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/solution-draw-a-network-diagram?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2777,21 +2737,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1), [[Troubleshooting]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - okay (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=0)** - [Lisa] Thank you for watching!
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=2)** Ethical Hacking: Scanning.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=2)** [[Ethical Hacking]]: Scanning.
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=5)** In this course, we explored scanning techniques and ways to obtain information from the target system, such as specially crafted packets, TCP flags, UDP scans, and ping sweeps.
 >
@@ -2803,7 +2761,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=44)** New content is added all the time.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=48)** If you're interested in learning more about packet analysis, check out my learning path, Improve Your Wireshark Skills.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=48)** If you're interested in learning more about packet analysis, check out my learning path, Improve Your [[Wireshark]] Skills.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-scanning-networks-20213513/next-steps?u=76281980&t=57)** If you're ready to continue your journey as an ethical hacker, be sure to watch the other courses in the series.
 >

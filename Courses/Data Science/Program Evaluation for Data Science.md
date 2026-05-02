@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going beyond A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
+#### [Going beyond A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980&t=32)** I'm Howard Friedman.
 >
-> **[0:33](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980&t=33)** I teach at Columbia University, and have decades of experience applying program evaluation and data science in the real world.
+> **[0:33](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980&t=33)** I teach at Columbia University, and have decades of experience applying program evaluation and [[Data Science]] in the real world.
 >
 > **[0:41](https://www.linkedin.com/learning/program-evaluation-for-data-science/going-beyond-a-b-testing?u=76281980&t=41)** Are you ready to go beyond A/B testing?
 >
@@ -119,17 +118,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Speakers:** - ask (1)
 
-#### What do I need to know?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980)
+#### [What do I need to know?](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=0)** - So, what do you need to know to thrive in this course?
 >
-> **[0:03](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=3)** First, you should have a basic understanding of how data science is used by companies, organizations, and governments.
+> **[0:03](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=3)** First, you should have a basic understanding of how [[Data Science]] is used by companies, organizations, and governments.
 >
 > **[0:11](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=11)** Second, you have a little understanding of program evaluation.
 >
@@ -141,13 +139,13 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=22)** Third, you should understand how to implement a regression model.
 >
-> **[0:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=26)** While it would be best if you were comfortable with Python or R, a working knowledge of SaaS, STATA, SPSS, or the Data Analysis Tool Pack in Excel is sufficient for this course.
+> **[0:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=26)** While it would be best if you were comfortable with [[Python (Programming Language)|Python]] or R, a working knowledge of [[SaaS]], [[Stata]], SPSS, or the Data Analysis Tool Pack in [[Microsoft Excel|Excel]] is sufficient for this course.
 >
 > **[0:38](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-do-i-need-to-know?u=76281980&t=38)** All right, let's dive in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Stata]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Stata]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** stata (1), spss (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - so (1)
@@ -157,12 +155,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is program evaluation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
+#### [What is program evaluation?](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=1)** - This course on going beyond A/B testing is centered on applying program evaluation in data science.
+> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=1)** - This course on going beyond A/B testing is centered on applying program evaluation in [[Data Science]].
 >
 > **[0:07](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=7)** To make sure we have no issues about definitions, I want to start by being very clear about what we mean by a program and program evaluation.
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=89)** Similarly, if the program was a modeling effort to improve cancer treatment, then the program evaluation would look at how effective the new model is at increasing life expectancy compared to baseline treatments.
 >
-> **[1:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=103)** When I first started working in banking and private equity, I was impressed by the variety of situations where data science was implemented.
+> **[1:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=103)** When I first started working in [[Banking]] and private equity, I was impressed by the variety of situations where data science was implemented.
 >
 > **[1:51](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-is-program-evaluation?u=76281980&t=111)** There were situations where I had to divide the country to regions and implement models in only one region as a comparison, or when I had monthly time series data that I needed to analyze to see if the model we implemented without a control was making a difference, or when we rolled out a program for customers over a certain threshold of credit, and I was tasked with figuring out the impact.
 >
@@ -204,18 +201,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), functional (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Banking]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - this (1)
 
-#### Evaluation in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980)
+#### [Evaluation in data science](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=1)** - Data science offers powerful tools for building supervised and unsupervised machine learning models, but the measure of a model is not how it performs on training data sets, but rather how well it does solving real world problems.
+> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=1)** - [[Data Science]] offers powerful tools for building supervised and unsupervised machine learning models, but the measure of a model is not how it performs on training data sets, but rather how well it does solving real world problems.
 >
 > **[0:16](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=16)** Program evaluation is a critical part of data science that helps us rigorously evaluate the impact of models when they're deployed in the real world.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=85)** By using program evaluation principles, we can ensure that the data science models are not just technically sound, but they are truly impactful in the real world.
 >
-> **[1:37](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=97)** In this course, we will introduce a number of examples for you to practice, but I would like to refer back to the examples of preventing charge-offs in banking and optimizing cancer treatment to prevent mortality.
+> **[1:37](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=97)** In this course, we will introduce a number of examples for you to practice, but I would like to refer back to the examples of preventing charge-offs in [[Banking]] and optimizing cancer treatment to prevent mortality.
 >
 > **[1:49](https://www.linkedin.com/learning/program-evaluation-for-data-science/evaluation-in-data-science?u=76281980&t=109)** The first is detecting customers at high risk of charge-offs.
 >
@@ -255,18 +251,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Banking]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Banking]] (1)
 > **Definitions:** is a  (3), in other words (2), refers to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - data (1)
 
-#### Introduction to causation
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980)
+#### [Introduction to causation](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=1)** - Program evaluation aims to confirm that the data science model was the cause of the change in the outcome.
+> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=1)** - Program evaluation aims to confirm that the [[Data Science]] model was the cause of the change in the outcome.
 >
 > **[0:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=8)** Did the new treatment optimization model cause cancer patients to live longer?
 >
@@ -276,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=28)** People think that data science is all about making predictive models and doing machine learning.
 >
-> **[0:34](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=34)** Causal inference is an underappreciated field within statistics and data science.
+> **[0:34](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=34)** [[Causal Inference]] is an underappreciated field within [[Statistics]] and data science.
 >
 > **[0:39](https://www.linkedin.com/learning/program-evaluation-for-data-science/introduction-to-causation?u=76281980&t=39)** Causal inference requires us to isolate the impact of the item of interest.
 >
@@ -310,13 +305,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Causal Inference]] (5), data (4), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Causal Inference]] (5), [[Data Science]] (3), [[Statistics]] (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - program (1)
 
-#### Checklist for evaluations
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/checklist-for-evaluations?u=76281980)
+#### [Checklist for evaluations](https://www.linkedin.com/learning/program-evaluation-for-data-science/checklist-for-evaluations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +358,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -375,8 +368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are randomized studies?
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
+#### [What are randomized studies?](https://www.linkedin.com/learning/program-evaluation-for-data-science/what-are-randomized-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,15 +420,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (1), product (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - simply (1)
 
-#### Advantages of A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980)
+#### [Advantages of A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -454,7 +444,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980&t=56)** Otherwise, we could be accidentally drawing a false conclusion about the program's effectiveness by confounding the effect of the selection bias due to sex, age, or location with the impact of the program.
 >
-> **[1:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980&t=70)** Randomization and A/B testing are necessary tools to have in the data science toolkit, but they're not foolproof.
+> **[1:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980&t=70)** Randomization and A/B testing are necessary tools to have in the [[Data Science]] toolkit, but they're not foolproof.
 >
 > **[1:18](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-a-b-testing?u=76281980&t=78)** We already mentioned that issues can arise in the randomization process or sample size calculator resulting in populations that are not well-balanced on key attributes.
 >
@@ -488,14 +478,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - now (1)
 
-#### Applications for A/B testing in data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980)
+#### [Applications for A/B testing in data science](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +494,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=18)** Across a broad swath of industries, randomization is readily applied by data scientists as the default method for program evaluation.
 >
-> **[0:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=28)** Consider the healthcare, banking, telecommunications, and retail industries as examples.
+> **[0:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=28)** Consider the healthcare, [[Banking]], [[Telecommunications]], and retail industries as examples.
 >
 > **[0:35](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=35)** Each industry has data scientists engaged in developing and implementing models to increase revenue and reduce costs.
 >
@@ -519,7 +508,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=71)** Here they focus on identifying which transactions and accounts are likely to have fraudulent activity.
 >
-> **[1:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=77)** Fraud detection models and work prioritization algorithms are a major way for companies to reduce their fraud losses.
+> **[1:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=77)** Fraud detection models and work prioritization [[Algorithms]] are a major way for companies to reduce their fraud losses.
 >
 > **[1:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=86)** Both types of models are routinely tested using randomized studies.
 >
@@ -529,7 +518,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=125)** Cellphone companies are concerned about cross sells and churn.
 >
-> **[2:09](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=129)** The more products a customer has, the less likely they are to change plans.
+> **[2:09](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=129)** The more [[Microsoft Products|products]] a customer has, the less likely they are to change plans.
 >
 > **[2:14](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=134)** At the same time, they want to make sure that they're offering products to customers that they might like, and not having the potentially valuable customer relationship being added to the list of spammers.
 >
@@ -539,7 +528,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=158)** Healthcare companies have countless examples of randomized studies.
 >
-> **[2:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=163)** While I already introduced the challenge of optimized treatments, this is a standard application of data science in the pharmaceutical and healthcare space.
+> **[2:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=163)** While I already introduced the challenge of optimized treatments, this is a standard application of [[Data Science]] in the pharmaceutical and healthcare space.
 >
 > **[2:52](https://www.linkedin.com/learning/program-evaluation-for-data-science/applications-for-a-b-testing-in-data-science?u=76281980&t=172)** Besides examining drug utilization, other random experiments can examine different drug labeling, packaging, or educational materials to minimize medication errors and reduce the rate of adverse events.
 >
@@ -549,20 +538,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Banking]] (2), [[Microsoft Products|Products]] (2), application (2), business (1)
+> **Frameworks & Libraries:** [[Banking]] (2), [[Microsoft Products|Products]] (2), [[Telecommunications]] (1), [[Algorithms]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - randomizations (1)
 
-#### Quality checking A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980)
+#### [Quality checking A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980&t=1)** - When running an A/B test or more generally a randomized study, there are a number of quality checks that should be performed in order to confirm that your conclusions being drawn are unbiased.
 >
-> **[0:13](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980&t=13)** First and foremost is a data quality check.
+> **[0:13](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980&t=13)** First and foremost is a [[Data Quality]] check.
 >
 > **[0:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/quality-checking-a-b-testing?u=76281980&t=17)** This data quality check should review the completeness of the data by assessing the level of missing this.
 >
@@ -618,19 +606,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3)
 > **Definitions:** is a  (2), refers to (2)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Practice A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980)
+#### [Practice A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=1)** - In this example, we're going to examine a data set from a retail client that was interested in modifying its loyalty program in order to ensure that the new program was effective.
 >
-> **[0:12](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=12)** For this example, I encourage you to use whatever software you're comfortable with that can support statistical tests and regression modeling, whether that be Python or R, or a proprietary software package such as SaaS, SPSS, S plus, or even Excel.
+> **[0:12](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=12)** For this example, I encourage you to use whatever software you're comfortable with that can support statistical tests and regression modeling, whether that be [[Python (Programming Language)|Python]] or R, or a proprietary software package such as [[SaaS]], SPSS, S plus, or even [[Microsoft Excel|Excel]].
 >
 > **[0:29](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=29)** Just remember to focus on understanding the data and have fun.
 >
@@ -668,7 +655,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=156)** Are there any correlations between the features you should be aware of?
 >
-> **[2:42](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=162)** After you've completed your data quality checks, please examine the quality of the match to see if the customers are well balanced in the two groups.
+> **[2:42](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=162)** After you've completed your [[Data Quality]] checks, please examine the quality of the match to see if the customers are well balanced in the two groups.
 >
 > **[2:50](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-a-b-testing?u=76281980&t=170)** Finally, develop some models of the outcome variable, post index purchases.
 >
@@ -680,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[SaaS]] (1), [[Microsoft Excel|Excel]] (1), [[Data Quality]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** such as (2)
 > **Env Vars:** spss (1)
@@ -693,8 +680,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Limitations of A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
+#### [Limitations of A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -710,7 +696,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980&t=42)** For example, in a retail store chain testing different store layouts, you can't randomly assign customers to shop in one layout or another.
 >
-> **[0:53](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980&t=53)** Or in a banking program, for those with low credit scores, only those customers below a specific threshold are allowed into the program.
+> **[0:53](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980&t=53)** Or in a [[Banking]] program, for those with low credit scores, only those customers below a specific threshold are allowed into the program.
 >
 > **[1:02](https://www.linkedin.com/learning/program-evaluation-for-data-science/limitations-of-a-b-testing?u=76281980&t=62)** Or randomization can fail, resulting in populations that are not well balanced on key attributes, called a selection threat.
 >
@@ -736,15 +722,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - in (1)
 
-#### Alternatives to A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/alternatives-to-a-b-testing?u=76281980)
+#### [Alternatives to A/B testing](https://www.linkedin.com/learning/program-evaluation-for-data-science/alternatives-to-a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +785,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Analogies:** for example (1), imagine (1), such as (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
@@ -810,8 +794,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to apply matching methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
+#### [When to apply matching methods](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-matching-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -855,26 +838,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), feature (2)
 > **Definitions:** known as (1), is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - matching (1)
 
-#### Best practices for matching methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980)
+#### [Best practices for matching methods](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=1)** - Matching can be performed in different ways, though I generally like to divide it into two categories, absolute matching and propensity score matching.
 >
-> **[0:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=10)** In absolute matching, algorithms seek to identify subjects who are similar in the multi-dimensional space of the baseline features using windows of acceptability.
+> **[0:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=10)** In absolute matching, [[Algorithms]] seek to identify subjects who are similar in the multi-dimensional space of the baseline features using [[Windows]] of acceptability.
 >
 > **[0:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=21)** For example, you can specify that the match subjects have to be within two years of each other or have to have the exact same number of years as a customer, or the same cancer stage.
 >
 > **[0:34](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=34)** The algorithms have controls to select the features included in the match, as well as the caliper or window of acceptability.
 >
-> **[0:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=43)** In propensity score matching, the propensity or probability of being assigned to the test versus control group is computed.
+> **[0:43](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=43)** In propensity score matching, the propensity or [[Probability]] of being assigned to the test versus control group is computed.
 >
 > **[0:52](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-matching-methods?u=76281980&t=52)** Every subject is then classified by this single dimension, the propensity or probability of assignment.
 >
@@ -916,7 +897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Probability]] (2), [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6), [[Probability]] (2), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Versions:** 0.2 (1)
@@ -924,14 +905,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - matching (1)
 
-#### Advantages of matching methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980)
+#### [Advantages of matching methods](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=0)** - There are many advantages to matching methods when faced with a retrospective data study, meaning the program already exists and has been implemented.
 >
-> **[0:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=10)** The first denote is that there are a large number of matching algorithms and programs that already exist in Python, R, SAS and other programming languages.
+> **[0:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=10)** The first denote is that there are a large number of matching [[Algorithms]] and programs that already exist in [[Python (Programming Language)|Python]], R, SAS and other programming languages.
 >
 > **[0:22](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=22)** So please, first, take a few minutes to explore online what is already available and can be readily used for your work.
 >
@@ -939,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=50)** The next thing to note is that it is relatively easy to communicate the results of a matching study because the match population looks a lot like the output of a randomized study.
 >
-> **[1:02](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=62)** You can share the descriptive statistics from the match population and then discuss the results of the program.
+> **[1:02](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=62)** You can share the descriptive [[Statistics]] from the match population and then discuss the results of the program.
 >
 > **[1:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-matching-methods?u=76281980&t=70)** If it is a charge off reduction program, you can show how similar the match customers in the program are to the control and then, report the resulting charge off rates.
 >
@@ -959,15 +939,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1)
 > **Env Vars:** sas (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Interpreting results of matching methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980)
+#### [Interpreting results of matching methods](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +966,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980&t=45)** We are always going to be a little concerned about the issue of strong ignorability or, in other words, was there a critical feature that was not in our data set so we couldn't use it for the matching?
 >
-> **[0:58](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980&t=58)** While there are some matching algorithms that focus on weighting all subjects, most work by discarding subjects that are dissimilar.
+> **[0:58](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980&t=58)** While there are some matching [[Algorithms]] that focus on weighting all subjects, most work by discarding subjects that are dissimilar.
 >
 > **[1:07](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-matching-methods?u=76281980&t=67)** This leads to another subtle point about interpreting the results of matched studies.
 >
@@ -1009,14 +988,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1), [[Algorithms]] (1), management (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - matching (1)
 
-#### Practice matching methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980)
+#### [Practice matching methods](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980&t=74)** I'm purposely leaving this open to you to decide what software, matching algorithm, match ratio, and caliper you want to use.
 >
-> **[1:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980&t=85)** In this example, you should explore the data first by performing descriptive statistics on the unmatched population.
+> **[1:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980&t=85)** In this example, you should explore the data first by performing descriptive [[Statistics]] on the unmatched population.
 >
 > **[1:33](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-matching-methods?u=76281980&t=93)** What do you notice?
 >
@@ -1052,7 +1030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **CLI Commands:** find (1)
 > **Versions:** 0.05 (1)
@@ -1064,8 +1042,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to apply difference in difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
+#### [When to apply difference in difference](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-difference-in-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,13 +1080,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (2)
 > **Env Vars:** covid (1)
 > **Speakers:** - difference (1)
 
-#### Best practices for difference in difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-difference-in-difference?u=76281980)
+#### [Best practices for difference in difference](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-difference-in-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,12 +1130,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is called (1), known as (1)
 > **Speakers:** - the (1)
 
-#### Advantages of difference in difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-difference-in-difference?u=76281980)
+#### [Advantages of difference in difference](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-difference-in-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,13 +1175,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - the (1)
 
-#### Interpreting results of difference in difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980)
+#### [Interpreting results of difference in difference](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,7 +1201,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980&t=80)** The goodness of fit of the regression model tells you how well the model represented the data.
 >
-> **[1:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980&t=86)** For linear regression models, R squared is a common measure, but you can also look at the mean squared error, mean absolute percent error, or another more advanced method such as base information criteria.
+> **[1:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980&t=86)** For [[Linear Regression]] models, R squared is a common measure, but you can also look at the mean squared error, mean absolute percent error, or another more advanced method such as base information criteria.
 >
 > **[1:40](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-difference-in-difference?u=76281980&t=100)** Models that have very strong goodness of fit raise your confidence that they're explaining a lot of the variance in the data.
 >
@@ -1252,13 +1223,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (1), [[Linear Regression]] (1), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Practice difference in difference
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-difference-in-difference?u=76281980)
+#### [Practice difference in difference](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-difference-in-difference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1288,7 +1258,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1298,8 +1267,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to apply regression discontinuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
+#### [When to apply regression discontinuity](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980&t=130)** This is the root of the idea behind regression discontinuity, that those just above and just below the eligibility threshold are probably similar.
 >
-> **[2:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980&t=141)** I emphasize the word threshold because it is the existence of a threshold that specifically indicates that the program is a good candidate for a evaluation using regression discontinuity.
+> **[2:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980&t=141)** I emphasize the [[Microsoft Word|word]] threshold because it is the existence of a threshold that specifically indicates that the program is a good candidate for a evaluation using regression discontinuity.
 >
 > **[2:35](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-regression-discontinuity?u=76281980&t=155)** In your own work, do you have programs where there is a threshold for eligibility?
 >
@@ -1342,8 +1310,7 @@ created: 2026-05-02
 > **Env Vars:** fico (1)
 > **Speakers:** - the (1)
 
-#### Best practices for regression discontinuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980)
+#### [Best practices for regression discontinuity](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,7 +1318,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=25)** The first question regarding what do we mean by just above and below can be explored with sensitivity analysis?
 >
-> **[0:34](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=34)** We could run regression discontinuity with different windows of eligibility and see if the results change substantially.
+> **[0:34](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=34)** We could run regression discontinuity with different [[Windows]] of eligibility and see if the results change substantially.
 >
 > **[0:42](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=42)** As we use a wide window such as between 400 and 600, then the population size will be large, but the program and comparison groups will likely be very different.
 >
@@ -1361,7 +1328,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=76)** So a best practice is to explore the sensitivity of the results to different windows of analysis.
 >
-> **[1:23](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=83)** To test the level of similarity, we compute the descriptive statistics of the populations just above and below the threshold and do this for the sensitivity analysis we just discussed.
+> **[1:23](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=83)** To test the level of similarity, we compute the descriptive [[Statistics]] of the populations just above and below the threshold and do this for the sensitivity analysis we just discussed.
 >
 > **[1:35](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-regression-discontinuity?u=76281980&t=95)** So if we test five different windows, then we will have five sets of descriptive statistics.
 >
@@ -1405,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (6), [[Windows]] (4), feature (2), power (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (6), [[Windows]] (4)
 > **Analogies:** such as (4), imagine (1)
 > **Best Practices:** best practice (4)
 > **Definitions:** is a  (2)
@@ -1414,8 +1381,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - i (1)
 
-#### Advantages of regression discontinuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980)
+#### [Advantages of regression discontinuity](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1411,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980&t=105)** Lastly, regression discontinuity has many ways we can obtain an estimate, which should be generally consistent.
 >
-> **[1:52](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980&t=112)** The estimate of the size of the jump in the graph I just described should be about the same as the descriptive statistics estimate as well as the regression estimate.
+> **[1:52](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980&t=112)** The estimate of the size of the jump in the graph I just described should be about the same as the descriptive [[Statistics]] estimate as well as the regression estimate.
 >
 > **[2:03](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-regression-discontinuity?u=76281980&t=123)** If they disagree, it is usually going to be because another feature is also discontinuous around the threshold, or there are behavioral issues, such as people gaming their way to be in or not in the program.
 >
@@ -1453,14 +1419,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), feature (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** means that (1), is a  (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Interpreting results of regression discontinuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980)
+#### [Interpreting results of regression discontinuity](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,22 +1445,21 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980&t=68)** A dashed line is often placed at the threshold.
 >
-> **[1:11](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980&t=71)** A jump in the average outcome variable before and after the dash line represents the impact of the program around the threshold and should roughly correspond to the results from descriptive statistics and regression modeling.
+> **[1:11](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980&t=71)** A jump in the average outcome variable before and after the dash line represents the impact of the program around the threshold and should roughly correspond to the results from descriptive [[Statistics]] and regression modeling.
 >
-> **[1:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980&t=86)** Now that we've discussed the key concepts, best practices, and interpreting results, let's move on to an example using banking data.
+> **[1:26](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-regression-discontinuity?u=76281980&t=86)** Now that we've discussed the key concepts, best practices, and interpreting results, let's move on to an example using [[Banking]] data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Banking]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Banking]] (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - because (1)
 
-#### Practice regression discontinuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980)
+#### [Practice regression discontinuity](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=1)** - This is a regression discontinuity example based on banking data.
+> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=1)** - This is a regression discontinuity example based on [[Banking]] data.
 >
 > **[0:05](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=5)** The bank has developed a database of clients who have different levels of debt that have been charged off due to the legal restrictions on when a bank must charge off loans.
 >
@@ -1513,7 +1477,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=85)** In this example, we want to find out if there's a difference in the actual recovery amount associated with a step from level zero to one at a threshold of $1,000.
 >
-> **[1:37](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=97)** In order to do this, you will need to first convince yourself that no other feature also has a step jump at this same threshold, you can test the continuity of the other features and the difference in the average actual recovery amount using descriptive statistics for a variety of expected recovery windows, including wide windows, such as $500 to $1,500 and narrow windows such as $975 to $1025.
+> **[1:37](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=97)** In order to do this, you will need to first convince yourself that no other feature also has a step jump at this same threshold, you can test the continuity of the other features and the difference in the average actual recovery amount using descriptive [[Statistics]] for a variety of expected recovery [[Windows]], including wide windows, such as $500 to $1,500 and narrow windows such as $975 to $1025.
 >
 > **[2:12](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-regression-discontinuity?u=76281980&t=132)** After examining the descriptive statistics, you can build regression models for the actual recovery amount as a function of the expected recovery amount.
 >
@@ -1527,7 +1491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[Windows]] (3), data (2), [[Banking]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Windows]] (3), [[Banking]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -1538,14 +1502,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### When to apply interrupted time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
+#### [When to apply interrupted time series](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980&t=1)** - Time series data is especially useful in program evaluation and, luckily, is found often in real world settings.
 >
-> **[0:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980&t=8)** For example, in the banking world there is monthly tracking of customer purchase patterns, payment activity, and other key measures.
+> **[0:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980&t=8)** For example, in the [[Banking]] world there is monthly tracking of customer purchase patterns, payment activity, and other key measures.
 >
 > **[0:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/when-to-apply-interrupted-time-series?u=76281980&t=17)** In healthcare, there is ongoing tracking of healthcare resource utilization and expenses.
 >
@@ -1587,14 +1550,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), power (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Analogies:** for example (1), think of it as (1), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - time (1)
 
-#### Best practices for interrupted time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980)
+#### [Best practices for interrupted time series](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,7 +1578,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980&t=71)** Technically, this means that you should use a time series method when analyzing the data, such as mixed modeling approach, ARIMA, or a dynamic regression technique.
 >
-> **[1:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980&t=81)** While it is often simpler to apply linear regression models, the reality is that they make assumptions about the data that is violated for time series.
+> **[1:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980&t=81)** While it is often simpler to apply [[Linear Regression]] models, the reality is that they make assumptions about the data that is violated for time series.
 >
 > **[1:32](https://www.linkedin.com/learning/program-evaluation-for-data-science/best-practices-for-interrupted-time-series?u=76281980&t=92)** Whenever I develop interrupted time series models, I create a set of dummy variables for the interrupted slopes and intercepts.
 >
@@ -1648,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), business (2), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Definitions:** known as (1), means that (1), is a  (1), is an  (1)
 > **Best Practices:** best practice (2), you should never (1)
 > **Analogies:** such as (1), for example (1)
@@ -1656,8 +1618,7 @@ created: 2026-05-02
 > **Env Vars:** arima (1)
 > **Speakers:** - there (1)
 
-#### Advantages of interrupted time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-interrupted-time-series?u=76281980)
+#### [Advantages of interrupted time series](https://www.linkedin.com/learning/program-evaluation-for-data-science/advantages-of-interrupted-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,19 +1652,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), feature (1), power (1), business (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - interrupted (1)
 
-#### Interpreting results of interrupted time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980)
+#### [Interpreting results of interrupted time series](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=1)** - When interpreting the results of an interrupted time series analysis, there are a few key items to examine.
+> **[0:01](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=1)** - When interpreting the results of an interrupted [[Time Series Analysis]], there are a few key items to examine.
 >
-> **[0:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=8)** As part of the analysis, you should have created models with different time windows for the interruption.
+> **[0:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=8)** As part of the analysis, you should have created models with different time [[Windows]] for the interruption.
 >
 > **[0:14](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=14)** In doing this analysis, you'll have measures of the model's goodness of fit, the coefficient of the interruption, and statistical significance of the interruption for each time window of interruption tested.
 >
@@ -1731,19 +1690,18 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=128)** In some situations like medical research, the statistical significance of the interruption coefficient is very important.
 >
-> **[2:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=137)** In business applications like banking and retail, the goal is generally to maximize profits and the statistical significance is less important.
+> **[2:17](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=137)** In business applications like [[Banking]] and retail, the goal is generally to maximize profits and the statistical significance is less important.
 >
 > **[2:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/interpreting-results-of-interrupted-time-series?u=76281980&t=148)** Take a moment to ask yourself, in your work situation, is statistical significance an important consideration, or would the business leaders be happy simply knowing that the program is increasing profits?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Time Series Analysis]] (2), business (2), [[Windows]] (1), feature (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Time Series Analysis]] (2), [[Windows]] (1), [[Banking]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - when (1)
 
-#### Practice interrupted time series
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980)
+#### [Practice interrupted time series](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,7 +1719,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980&t=70)** Because this is a time series data, it is best if you analyze the data, using a time series approach, such as mixed methods, arima or dynamic regression.
 >
-> **[1:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980&t=81)** But if you're not familiar with these methods, then you can explore the data, using linear regression.
+> **[1:21](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980&t=81)** But if you're not familiar with these methods, then you can explore the data, using [[Linear Regression]].
 >
 > **[1:27](https://www.linkedin.com/learning/program-evaluation-for-data-science/practice-interrupted-time-series?u=76281980&t=87)** Start by graphing the data where you may find it more useful to use the log of HIV prevalence, rather than the prevalence itself.
 >
@@ -1791,7 +1749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Env Vars:** hiv (8), ida (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
@@ -1803,8 +1761,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps in program evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)
+#### [Next steps in program evaluation](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1828,19 +1785,19 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=85)** Are the best practices being followed?
 >
-> **[1:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=88)** Be a leader in your organization's approach to evaluating data science by leading the charge of going beyond A/B testing.
+> **[1:28](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=88)** Be a leader in your organization's approach to evaluating [[Data Science]] by leading the charge of going beyond A/B testing.
 >
 > **[1:38](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=98)** Thank you very much for joining this course.
 >
 > **[1:40](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=100)** I wish you the best of success in applying these ideas and skills in your work.
 >
-> **[1:46](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=106)** Lastly, if you have any questions or want to discuss these concepts more and how you can apply them, please don't hesitate to leave a question in this course's Q&A section, and connect with me on LinkedIn.
+> **[1:46](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=106)** Lastly, if you have any questions or want to discuss these concepts more and how you can apply them, please don't hesitate to leave a question in this course's Q&A section, and connect with me on [[LinkedIn]].
 >
 > **[1:59](https://www.linkedin.com/learning/program-evaluation-for-data-science/next-steps-in-program-evaluation?u=76281980&t=119)** Thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[LinkedIn]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
 

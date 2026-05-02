@@ -83,18 +83,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From physical to digital: Your first step into the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
+#### [From physical to digital: Your first step into the Internet of Things](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=0)** - [Bruce] What if your product or service or environment could sense, think and communicate?
 >
-> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=6)** That's the promise of the Internet of Things, and it's already changing the way we live and work.
+> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=6)** That's the promise of the [[IoT|Internet of Things]], and it's already changing the way we live and work.
 >
-> **[0:11](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=11)** In this course, I'll explain how IoT really works.
+> **[0:11](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=11)** In this course, I'll explain how [[IoT]] really works.
 >
-> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=14)** We'll explore how data flows from hardware, sensors and external systems through the Internet of Things, to the AI model within the digital twin, where it's transformed into useful information.
+> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=14)** We'll explore how data flows from [[Hardware]], sensors and external systems through the Internet of Things, to the AI model within the digital twin, where it's transformed into useful information.
 >
 > **[0:28](https://www.linkedin.com/learning/iot-foundations-fundamentals/welcome-29683438?u=76281980&t=28)** Hi, I'm Bruce Sinclair, founder and managing partner of AI Operating Partners.
 >
@@ -102,11 +101,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[IoT]] (2), ai (2), product (1), data (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[IoT]] (2), [[Hardware]] (1)
 > **Speakers:** - [bruce] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,22 +112,21 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980&t=7)** It'd also be helpful to have a rudimentary understanding of programming, IT networking, and data analytics.
 >
-> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980&t=14)** The most important requirement is that you have an interest in the internet of things.
+> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980&t=14)** The most important requirement is that you have an interest in the [[IoT|internet of things]].
 >
 > **[0:19](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-you-should-know?u=76281980&t=19)** So, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1), [[Analytics]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architectural overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980)
+#### [Architectural overview](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=0)** - [Instructor] The Internet of Things is a complex technology that's never too far away from business.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] is a complex technology that's never too far away from business.
 >
 > **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=5)** First, the definition.
 >
@@ -139,11 +136,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=18)** So, when you hear all the hype, it's real.
 >
-> **[0:21](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=21)** The Internet of Things is segmented by B2C, or business to consumer IoT, and B2B, or business to business IoT.
+> **[0:21](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=21)** The Internet of Things is segmented by B2C, or business to consumer [[IoT]], and B2B, or business to business IoT.
 >
 > **[0:30](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=30)** B2C IoT is consumer IoT, where B2B is commercial, industrial, and infrastructure IoT.
 >
-> **[0:39](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=39)** In the Internet of Things, there's three kinds of products.
+> **[0:39](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=39)** In the Internet of Things, there's three kinds of [[Microsoft Products|products]].
 >
 > **[0:41](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=41)** We have our smart products, connected products, and our IoT products.
 >
@@ -179,7 +176,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=104)** Before jumping too far into the tech, it's useful to start out with some basics, and then jump into the big picture.
 >
-> **[1:50](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=110)** The business view of the IoT product, segments it into four parts, the software-defined, and the hardware-defined product, that are connected by the network fabric and interface the external systems.
+> **[1:50](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=110)** The business view of the IoT product, segments it into four parts, the software-defined, and the [[Hardware]]-defined product, that are connected by the network fabric and interface the external systems.
 >
 > **[2:02](https://www.linkedin.com/learning/iot-foundations-fundamentals/architectural-overview?u=76281980&t=122)** The tech of an IoT product is either collecting data or transforming it into useful information.
 >
@@ -189,7 +186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Microsoft Products|Products]] (7), business (6), product (6), [[Internet of Things (IoT)|Internet of things]] (5)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Microsoft Products|Products]] (7), [[IoT|Internet of things]] (5), [[Hardware]] (2)
 > **Env Vars:** b2c (2), b2b (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** picture (1)
@@ -200,22 +197,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The digital twin
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
+#### [The digital twin](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=1)** - [Instructor] The software defined product is both the heart and the brain of the IoT product, also referred to as the digital twin.
+> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=1)** - [Instructor] The software defined product is both the heart and the brain of the [[IoT]] product, also referred to as the digital twin.
 >
-> **[0:08](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=8)** It is the virtual representation of the physical products functionality and in this course, when I say product, I mean discrete product, a system, or an environment.
+> **[0:08](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=8)** It is the virtual representation of the physical [[Microsoft Products|products]] functionality and in this course, when I say product, I mean discrete product, a system, or an environment.
 >
-> **[0:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=18)** The software defined product is one of the four main components of an IoT product and sits between the sensor data coming from the hardware defined product and outside data coming from external systems.
+> **[0:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=18)** The software defined product is one of the four main components of an IoT product and sits between the sensor data coming from the [[Hardware]] defined product and outside data coming from external systems.
 >
 > **[0:30](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=30)** All three are connected by the network fabric.
 >
 > **[0:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=33)** The software-defined product consists of two components, the AI model and the application.
 >
-> **[0:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=40)** It is a simulation of how the product produces value.
+> **[0:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=40)** It is a [[Simulation]] of how the product produces value.
 >
 > **[0:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/the-digital-twin?u=76281980&t=43)** This is not to be confused with the simulation of how the product looks.
 >
@@ -237,17 +233,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[IoT]] (5), ai (3), application (3), data (2)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Simulation]] (2), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The AI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980)
+#### [The AI model](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=1)** - [Instructor] The AI model is one of two parts of the IoT product's software design product, or digital twin, along with the application.
+> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=1)** - [Instructor] The AI model is one of two parts of the [[IoT]] product's [[Software Design]] product, or digital twin, along with the application.
 >
 > **[0:09](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=9)** Models are not new.
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=43)** The game application operates on the character, and the character acts out its personality and capabilities within that environment.
 >
-> **[0:51](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=51)** The software-defined product's AI model is represented with statistical or linear algebra or calculus approximations.
+> **[0:51](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=51)** The software-defined product's AI model is represented with statistical or [[Linear Algebra]] or [[Calculus]] approximations.
 >
 > **[1:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=60)** The real world is too complex to represent things with deterministic equations.
 >
@@ -299,24 +294,23 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=137)** We would also have a model for how long it takes to dry clothes and for how much money it's going to take to dry those same clothes.
 >
-> **[2:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=144)** The AI model is key to creating valuable IoT products, differentiating them from products that are just connected or just smart.
+> **[2:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=144)** The AI model is key to creating valuable IoT [[Microsoft Products|products]], differentiating them from products that are just connected or just smart.
 >
 > **[2:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/ai-model?u=76281980&t=153)** AI model development and use is key to value creation, and as such, must be a core competency of every IoT company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (5), product (5), ai (4), application (4), game (4)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Microsoft Products|Products]] (2), [[Software Design]] (1), [[Linear Algebra]] (1), [[Calculus]] (1)
 > **Env Vars:** cad (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Application
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980)
+#### [Application](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=1)** - [Instructor] The application is the second part of the IoT product software-defined product or digital twin along with the AI model.
+> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=1)** - [Instructor] The application is the second part of the [[IoT]] product software-defined product or digital twin along with the AI model.
 >
 > **[0:08](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=8)** The application provides functionality as well as human and data interfaces.
 >
@@ -336,19 +330,18 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=63)** It can be distributed anywhere on the network fabric, from the embedded systems, on the end nodes, to the cloud or to a remote server anywhere on the internet or intranet.
 >
-> **[1:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=75)** IoT application development is central to value creation, and as such must be a core competency of every IoT company.
+> **[1:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/application-29689426?u=76281980&t=75)** IoT [[Application Development]] is central to value creation, and as such must be a core competency of every IoT company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), game (6), product (5), data (5), [[IoT]] (4)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Application Development]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT value modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980)
+#### [IoT value modeling](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=0)** - [Instructor] Smart products and connected products are predominant in IoT.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=0)** - [Instructor] Smart [[Microsoft Products|products]] and connected products are predominant in [[IoT]].
 >
 > **[0:04](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=4)** Unfortunately, these types of products often fail because the incremental value is less than the incremental cost.
 >
@@ -374,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=53)** To quantify this model, we need to capture certain variables.
 >
-> **[0:58](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=58)** They could include fan speed, angular velocity of the drum, load weight, heater temperature, drum temperature, and finally electricity pricing.
+> **[0:58](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=58)** They could include fan speed, [[Angular]] velocity of the drum, load weight, heater temperature, drum temperature, and finally electricity pricing.
 >
 > **[1:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-value-modeling?u=76281980&t=70)** These variables expose the sensors that we need to include in our IoT dryer.
 >
@@ -422,7 +415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), product (5), [[Microsoft Products|Products]] (4), next (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Microsoft Products|Products]] (4), [[Angular]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -436,12 +429,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hardware overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
+#### [Hardware overview](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=0)** - [Instructor] The Hardware Defined Product is one of four main components of an IOT product.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=0)** - [Instructor] The [[Hardware]] Defined Product is one of four main components of an [[IoT]] product.
 >
 > **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=5)** Its purpose is to capture data from the edge, sometimes process it, and then transmit the data over the network to the application.
 >
@@ -449,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=20)** The Hardware Defined Product consists of two types of components, connected sensors and actuators, and embedded system.
 >
-> **[0:28](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=28)** The Hardware Defined Product only includes these two components and not the rest of the physical product.
+> **[0:28](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=28)** The Hardware Defined Product only includes these two components and not the [[Representational State Transfer (REST)|rest]] of the physical product.
 >
 > **[0:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/hardware-overview?u=76281980&t=33)** The sensor gathers data from the physical environment.
 >
@@ -463,12 +455,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), data (5), [[Hardware]] (4), [[IoT]] (2), application (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[IoT]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iot (2)
 > **Speakers:** - [instructor] (1)
 
-#### Sensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980)
+#### [Sensors](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980&t=53)** A digital signal, which is really a message from the application, is converted with a D to A converter to affect the physical environment.
 >
-> **[1:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980&t=61)** Going back to our IoT dryer, we may use an actuator to increase the fan speed or decrease the temperature of the heating coil.
+> **[1:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980&t=61)** Going back to our [[IoT]] dryer, we may use an actuator to increase the fan speed or decrease the temperature of the heating coil.
 >
 > **[1:11](https://www.linkedin.com/learning/iot-foundations-fundamentals/sensors?u=76281980&t=71)** To make a sensor a connected sensor, requires an embedded system.
 >
@@ -512,23 +503,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[IoT]] (3), application (2), product (1)
+> **Frameworks & Libraries:** [[IoT]] (3)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedded systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980)
+#### [Embedded systems](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=0)** - [Instructor] Embedded systems are computing devices that sit on the edge of an IoT product and are mostly responsible for connecting sensors to the internet.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=0)** - [Instructor] Embedded systems are computing devices that sit on the edge of an [[IoT]] product and are mostly responsible for connecting sensors to the internet.
 >
 > **[0:09](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=9)** Remember, an IoT product is a discreet product, a system, or an environment.
 >
 > **[0:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=15)** An embedded system, sometimes called an embedded chipset, is a dedicated computer system that lives on the edge of the network.
 >
-> **[0:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=24)** Instead of a CPU, it runs an MPU, and instead of a traditional operating system, it runs an RTOS, otherwise known as a real-time operating system.
+> **[0:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=24)** Instead of a CPU, it runs an MPU, and instead of a traditional operating system, it runs an RTOS, otherwise known as a [[Real-Time]] operating system.
 >
 > **[0:34](https://www.linkedin.com/learning/iot-foundations-fundamentals/embedded-systems-29683437?u=76281980&t=34)** The embedded system or chipset may include radios and sensors.
 >
@@ -544,14 +534,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[IoT]] (2), data (2), [[Security]] (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Real-Time]] (1)
 > **Env Vars:** cpu (1), mpu (1), rtos (1)
 > **Definitions:** is a  (2), known as (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connected sensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980)
+#### [Connected sensors](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,13 +554,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=33)** There are two main configurations, stand-alone connected sensors and connected sensor arrays.
 >
-> **[0:41](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=41)** A stand-alone connected sensor consists of a single embedded system with a single sensor, and it's added to existing products.
+> **[0:41](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=41)** A stand-alone connected sensor consists of a single embedded system with a single sensor, and it's added to existing [[Microsoft Products|products]].
 >
 > **[0:50](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=50)** Connected sensor arrays are one embedded system with multiple sensors.
 >
 > **[0:56](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=56)** These are used in new products.
 >
-> **[0:58](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=58)** For example, in our IoT dryer, we would use a connected sensor array.
+> **[0:58](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=58)** For example, in our [[IoT]] dryer, we would use a connected sensor array.
 >
 > **[1:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/connected-sensors?u=76281980&t=66)** Stand-alone connected sensors are generally used in commercial, industrial, and infrastructure IoT to add an overlay network to an existing product that's too costly to replace.
 >
@@ -579,7 +568,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[Microsoft Products|Products]] (3), power (1), product (1), business (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Microsoft Products|Products]] (3)
 > **Env Vars:** mpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -589,14 +578,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview and standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
+#### [Overview and standards](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980&t=0)** - [Instructor] The network fabric is one of the four main components of the IoT product.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980&t=0)** - [Instructor] The network fabric is one of the four main components of the [[IoT]] product.
 >
-> **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980&t=5)** Its main job is to transport internal data from the hardware-defined product and external data from the external systems to the software-defined product.
+> **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980&t=5)** Its main job is to transport internal data from the [[Hardware]]-defined product and external data from the external systems to the software-defined product.
 >
 > **[0:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-and-standards?u=76281980&t=15)** It consists of the OT network, that is the operational technology network, that's inside the product.
 >
@@ -654,12 +642,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (6), application (5), [[IoT]] (4), cloud (2)
+> **Frameworks & Libraries:** [[IoT]] (4), [[Hardware]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### OT, IT, and fog networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980)
+#### [OT, IT, and fog networks](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -683,7 +670,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=39)** Therefore, they can be a personal network, a local network, or a wide area network.
 >
-> **[0:45](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=45)** From a hardware perspective, they consist of gateways.
+> **[0:45](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=45)** From a [[Hardware]] perspective, they consist of gateways.
 >
 > **[0:48](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=48)** This is negatively referred to as the internet of gateways.
 >
@@ -703,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=92)** The IT network's job is to move the data from the receiving radio to the backhaul up link to the internet.
 >
-> **[1:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=100)** Let's consider our IoT drier.
+> **[1:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=100)** Let's consider our [[IoT]] drier.
 >
 > **[1:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=103)** Data from the sensors are carried across the internal network.
 >
@@ -713,7 +700,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=113)** The IT network is a small network in your home between your router and eventually the fiber up link that leads it to the internet.
 >
-> **[2:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=121)** Hardware in the IT network using the internet of things is the same as the hardware used in the internet of people.
+> **[2:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=121)** Hardware in the IT network using the [[IoT|internet of things]] is the same as the hardware used in the internet of people.
 >
 > **[2:07](https://www.linkedin.com/learning/iot-foundations-fundamentals/ot-it-and-fog-networks?u=76281980&t=127)** Routers, switches, firewalls, the technology is the same because the network is the same.
 >
@@ -745,20 +732,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (4), [[Hardware]] (3), [[Automation]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[IoT|Internet of things]] (2), [[IoT]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** node (1)
 > **Env Vars:** lpwa (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT product cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980)
+#### [IoT product cloud](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980&t=0)** - [Narrator] The Product Cloud can be thought of as a high-powered computing extension of the IoT product.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980&t=0)** - [Narrator] The Product Cloud can be thought of as a high-powered computing extension of the [[IoT]] product.
 >
-> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980&t=6)** The private cloud expands the products computing, memory, and storage capabilities.
+> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980&t=6)** The private cloud expands the [[Microsoft Products|products]] computing, memory, and storage capabilities.
 >
 > **[0:11](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-product-cloud?u=76281980&t=11)** It is different than the IT cloud in both technology and business.
 >
@@ -780,16 +766,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), [[IoT]] (5), product (4), business (3), data (2)
+> **Frameworks & Libraries:** [[IoT]] (5), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### IoT platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980)
+#### [IoT platform](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=0)** - [Instructor] The IoT platform packages and commercializes much of the network fabric required by the IoT product.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=0)** - [Instructor] The [[IoT]] platform packages and commercializes much of the network fabric required by the IoT product.
 >
 > **[0:08](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=8)** Structurally, an IoT platform is middleware.
 >
@@ -797,7 +782,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=18)** In some cases, it includes a development environment.
 >
-> **[0:22](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=22)** There are three main forms of IoT platforms.
+> **[0:22](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=22)** There are three main [[Forms]] of IoT platforms.
 >
 > **[0:26](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=26)** First we have the Application Enablement Platform or the AEP.
 >
@@ -813,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=58)** It is a subset of an AEP and it simply establishes a connection between a software module on the embedded system and the internet.
 >
-> **[1:07](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=67)** This is generally what connected products use.
+> **[1:07](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=67)** This is generally what connected [[Microsoft Products|products]] use.
 >
 > **[1:11](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=71)** When using an IoT platform, consider the risk of building your application on rented land.
 >
@@ -829,7 +814,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=97)** The second architecture is a client server architecture.
 >
-> **[1:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=100)** While a little bit more complicated to implement, it can be used in more real-time applications.
+> **[1:40](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=100)** While a little bit more complicated to implement, it can be used in more [[Real-Time]] applications.
 >
 > **[1:47](https://www.linkedin.com/learning/iot-foundations-fundamentals/iot-platform?u=76281980&t=107)** Most, if not all companies, should buy or rent an IoT platform.
 >
@@ -839,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), application (3), product (2), cloud (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **Definitions:** is a  (3), is called (2)
 > **Env Vars:** aep (2), m2m (1), sim (1)
 > **Speakers:** - [instructor] (1)
@@ -849,12 +834,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of external systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
+#### [Overview of external systems](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=0)** - [Narrator] External systems are one of the four main components of the IoT product.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=0)** - [Narrator] External systems are one of the four main components of the [[IoT]] product.
 >
 > **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=5)** They include all the sources of data on the internet that can be accessed by an API.
 >
@@ -866,7 +850,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=26)** Business systems provide internal operational data that could be useful to the product.
 >
-> **[0:32](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=32)** And finally, the last source of data are other IoT products.
+> **[0:32](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=32)** And finally, the last source of data are other IoT [[Microsoft Products|products]].
 >
 > **[0:38](https://www.linkedin.com/learning/iot-foundations-fundamentals/overview-of-external-systems?u=76281980&t=38)** It is this interfacing with these external sources of data that differentiates the IoT product from the connected product and the smart product, just like any other software on the internet.
 >
@@ -880,33 +864,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (8), [[IoT]] (6), api (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Analytics and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980)
+#### [Analytics and AI](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=1)** - [Instructor] Analytics and AI are technically what create value in IoT.
+> **[0:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=1)** - [Instructor] Analytics and AI are technically what create value in [[IoT]].
 >
 > **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=5)** They transform data into useful information, and it's this useful information that constitutes value, whether it's served up by the IoT product or by a standalone analytics or AI system used offline.
 >
-> **[0:19](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=19)** A classic example of analytics is linear regression, where a line is fit through a bunch of data points, but linear regression is also considered a supervised machine learning algorithm, so is linear regression considered analytics or AI?
+> **[0:19](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=19)** A classic example of analytics is [[Linear Regression]], where a line is fit through a bunch of data points, but linear regression is also considered a supervised machine learning algorithm, so is linear regression considered analytics or AI?
 >
 > **[0:34](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=34)** Both.
 >
 > **[0:35](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=35)** If it's a static event that's evaluated once or over time, always the same way, it's analytics.
 >
-> **[0:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=43)** Analytics is a packaging of statistics for a specific purpose.
+> **[0:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=43)** Analytics is a packaging of [[Statistics]] for a specific purpose.
 >
 > **[0:47](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=47)** If it's a training model with one dataset to be used to make predictions about another dataset, it's AI.
 >
 > **[0:54](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=54)** AI is statistics wrapped in a learning algorithm.
 >
-> **[0:57](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=57)** We can manage training by hand if they're just two parameters, but if there's thousands of parameters or millions of parameters, as found in deep learning models, or billions of parameters, as found in gen AI models, then we need an automated learning algorithm to tweak the equation's parameters to minimize error.
+> **[0:57](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=57)** We can manage training by hand if they're just two parameters, but if there's thousands of parameters or millions of parameters, as found in [[Deep Learning]] models, or billions of parameters, as found in gen AI models, then we need an automated learning algorithm to tweak the equation's parameters to minimize error.
 >
 > **[1:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=75)** As mentioned, AI is statistics wrapped in a learning algorithm.
 >
@@ -914,13 +897,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=84)** Humans interpret the results of analytics, therefore, they are the learning algorithm, but in AI, the software learns how to interpret the results on its own.
 >
-> **[1:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=93)** There are three types of learning algorithms.
+> **[1:33](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=93)** There are three types of learning [[Algorithms]].
 >
-> **[1:36](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=96)** There are supervised learning that requires the datasets to be labeled so the software can know when it's right or wrong.
+> **[1:36](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=96)** There are [[Supervised Learning]] that requires the datasets to be labeled so the software can know when it's right or wrong.
 >
 > **[1:43](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=103)** This is used when identifying things and predicting things.
 >
-> **[1:46](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=106)** A good example of this is teaching cars to identify things on the road using deep neural networks and writing code with gen AI.
+> **[1:46](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=106)** A good example of this is teaching cars to identify things on the road using deep [[Neural Networks]] and writing code with gen AI.
 >
 > **[1:54](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=114)** A second learning algorithm is unsupervised learning.
 >
@@ -928,11 +911,11 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=121)** It is used for grouping things or associating things together, as is used in recommender systems, for example, by Netflix and Amazon.
 >
-> **[2:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=130)** The third way for AI models to learn is reinforcement learning.
+> **[2:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=130)** The third way for AI models to learn is [[Reinforcement Learning]].
 >
 > **[2:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=134)** Reinforcement learning needs the data and the rules.
 >
-> **[2:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=138)** It is used for decision-making, as used by player AIs in video games and for the Roomba vacuum.
+> **[2:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=138)** It is used for [[Decision-Making]], as used by player AIs in video games and for the Roomba vacuum.
 >
 > **[2:26](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=146)** Another useful way to differentiate analytics and AI is to think about them along the time dimension and by the questions they answer.
 >
@@ -942,13 +925,13 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=165)** Diagnostic analytics examines historical data to identify patterns, trends, and insights.
 >
-> **[2:51](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=171)** To support business intelligence or to make more informed decisions, we answer the questions about the past, asking, what happened and why did it happen?
+> **[2:51](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=171)** To support [[Business Intelligence (BI)|business intelligence]] or to make more informed decisions, we answer the questions about the past, asking, what happened and why did it happen?
 >
 > **[3:02](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=182)** By analyzing existing data from our IoT dryer, diagnostic analytics can answer the questions like, how long did it take to dry our clothes, and how much did it cost, and if applicable, why did the dryer break down?
 >
 > **[3:17](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=197)** In the present, we use rules engines and stream processing.
 >
-> **[3:21](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=201)** These real-time, or better described as runtime analytics, answer the question, what's happening?
+> **[3:21](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=201)** These [[Real-Time]], or better described as runtime analytics, answer the question, what's happening?
 >
 > **[3:28](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=208)** Within our IoT dryer, runtime analytics is continuously looking at the sensors to, for example, make sure they're within norms.
 >
@@ -962,9 +945,9 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=244)** The present belongs to AI.
 >
-> **[4:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=246)** We use machine learning, neural networks, and generative AI to make predictions and prescriptions about the future rather than descriptions and decisions about the present.
+> **[4:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=246)** We use machine learning, neural networks, and [[Generative AI]] to make predictions and prescriptions about the future rather than descriptions and decisions about the present.
 >
-> **[4:17](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=257)** In the context of IoT, predictive maintenance is a good example of how predictive AI works.
+> **[4:17](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=257)** In the context of IoT, predictive maintenance is a good example of how [[Predictive AI]] works.
 >
 > **[4:24](https://www.linkedin.com/learning/iot-foundations-fundamentals/analytics-and-ai?u=76281980&t=264)** Predictive maintenance matches the failure signatures to the current data.
 >
@@ -984,22 +967,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Analytics]] (17), [[IoT]] (10), data (9), product (3)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Linear Regression]] (3), [[Statistics]] (3), [[Neural Networks]] (2), [[Reinforcement Learning]] (2)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Data services
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980)
+#### [Data services](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=0)** - [Instructor] Data services, also known as data microservices are abundant on the internet.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=0)** - [Instructor] Data services, also known as data [[Microservices]] are abundant on the internet.
 >
-> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=6)** And until IoT, we're only accessed by software.
+> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=6)** And until [[IoT]], we're only accessed by software.
 >
-> **[0:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=10)** Data services such as weather, mapping and pricing can provide incredible value to physical products.
+> **[0:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=10)** Data services such as weather, mapping and pricing can provide incredible value to physical [[Microsoft Products|products]].
 >
 > **[0:18](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=18)** Many data services are free, some are not.
 >
@@ -1011,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=48)** The transformation of IBM clearly demonstrates where all companies should be heading.
 >
-> **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=53)** Since the Internet of Things is virtualized in the software, it can interface with this rich form of data in the same way that internet software does today.
+> **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=53)** Since the [[IoT|Internet of Things]] is virtualized in the software, it can interface with this rich form of data in the same way that internet software does today.
 >
 > **[1:03](https://www.linkedin.com/learning/iot-foundations-fundamentals/data-services-29689434?u=76281980&t=63)** Weather isn't the only data IBM is analyzing.
 >
@@ -1023,20 +1005,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[IoT]] (3), [[Microservices]] (2), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Microservices]] (2), [[Microsoft Products|Products]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** ibm (4), api (1)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980)
+#### [Business systems](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=0)** - The Internet of Things is changing business processes through the automated collection of business intelligence.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=0)** - The [[IoT|Internet of Things]] is changing business processes through the automated collection of [[Business Intelligence (BI)|business intelligence]].
 >
-> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=6)** Now IoT products can interface directly with business systems, circumventing the need to manually input and extract data.
+> **[0:06](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=6)** Now [[IoT]] [[Microsoft Products|products]] can interface directly with business systems, circumventing the need to manually input and extract data.
 >
 > **[0:15](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=15)** Interfacing products directly with the CRM system or Customer Relationship Management System enables the enterprise to track customer requirements and needs.
 >
@@ -1046,7 +1027,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=45)** If, for example, a lot of customers use their Smartwatch in the water, the manufacturer may prioritize the development of a water sports version.
 >
-> **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=53)** Interfacing products directly with the Supply Chain Management system, they can follow their progress through the entire supply chain.
+> **[0:53](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=53)** Interfacing products directly with the [[Supply Chain Management]] system, they can follow their progress through the entire supply chain.
 >
 > **[1:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/business-systems?u=76281980&t=60)** For example, since Tesla cars can be ordered online, the company can track each car from the time of order through manufacturing to delivery.
 >
@@ -1062,17 +1043,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), business (4), [[IoT]] (2), data (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (7), [[IoT]] (2), [[IoT|Internet of things]] (1), [[Business Intelligence (BI)|Business intelligence]] (1), [[Supply Chain Management]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** crm (1), plm (1), erp (1)
 > **Speakers:** - the (1)
 
-#### Other IoT products
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/other-iot-products?u=76281980)
+#### [Other IoT products](https://www.linkedin.com/learning/iot-foundations-fundamentals/other-iot-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/other-iot-products?u=76281980&t=0)** - [Instructor] IoT products are external systems.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/other-iot-products?u=76281980&t=0)** - [Instructor] [[IoT]] [[Microsoft Products|products]] are external systems.
 >
 > **[0:03](https://www.linkedin.com/learning/iot-foundations-fundamentals/other-iot-products?u=76281980&t=3)** Each generates data, which theoretically means they can be connected to each other like Lego blocks to deliver outcomes.
 >
@@ -1094,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (4), [[IoT]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[IoT]] (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1103,12 +1083,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Main takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)
+#### [Main takeaways](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980&t=0)** - [Instructor] I've covered a lot of information on IoT tech, but there's a couple points I'd like to reiterate.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980&t=0)** - [Instructor] I've covered a lot of information on [[IoT]] tech, but there's a couple points I'd like to reiterate.
 >
 > **[0:05](https://www.linkedin.com/learning/iot-foundations-fundamentals/main-takeaways?u=76281980&t=5)** The software defined product is the heart of IoT tech.
 >
@@ -1126,15 +1105,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), product (2), data (2)
+> **Frameworks & Libraries:** [[IoT]] (4)
 > **Speakers:** - [instructor] (1)
 
-#### What was not included
-> [LinkedIn Learning](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980)
+#### [What was not included](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=0)** - [Instructor] I have focused on the core of IoT tech.
+> **[0:00](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=0)** - [Instructor] I have focused on the core of [[IoT]] tech.
 >
 > **[0:03](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=3)** However, to create an IoT product, there's still a few other areas that need to be considered.
 >
@@ -1142,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=10)** It needs to be considered at every step of the development cycle.
 >
-> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=14)** Analytics and big data are also very important, as they're key to transforming data into useful information.
+> **[0:14](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=14)** Analytics and [[Big Data]] are also very important, as they're key to transforming data into useful information.
 >
 > **[0:21](https://www.linkedin.com/learning/iot-foundations-fundamentals/what-was-not-included?u=76281980&t=21)** Standardization is still evolving in IoT, so protocol analysis must be understood.
 >
@@ -1152,7 +1130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (6), product (3), [[Security]] (1), [[Analytics]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[IoT]] (6), [[Big Data]] (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 

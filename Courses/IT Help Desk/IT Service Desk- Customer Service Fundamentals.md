@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=0)** - We've all been on the receiving end of poor technical support.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=0)** - We've all been on the receiving end of poor [[Technical Support]].
 >
 > **[0:04](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=4)** Maybe we were left on hold indefinitely.
 >
@@ -110,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=23)** Hi, my name is Fancy Mills and welcome to my course.
 >
-> **[0:27](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=27)** This course is designed to help you grow and develop the customer service skills that are required in today's age to be successful.
+> **[0:27](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=27)** This course is designed to help you grow and develop the [[Customer Service Skills]] that are required in today's age to be successful.
 >
 > **[0:36](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/welcome?u=76281980&t=36)** The techniques and tools and strategies that we'll cover, have been acquired throughout my career working in technical support.
 >
@@ -130,12 +129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Support]] (2), [[Customer Service Skills]] (1), career (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2), [[Customer Service Skills]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### How to get the most value out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980)
+#### [How to get the most value out of this course](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980&t=25)** This course was designed with all ranges of experience of mind.
 >
-> **[0:29](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980&t=29)** If you are new to technical support, you'll walk away with many new skills, techniques and strategies to handle customers more efficiently.
+> **[0:29](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980&t=29)** If you are new to [[Technical Support]], you'll walk away with many new skills, techniques and strategies to handle customers more efficiently.
 >
 > **[0:36](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-get-the-most-value-out-of-this-course?u=76281980&t=36)** Experienced service desk technicians will refresh their knowledge and find new techniques that will help advance your skills.
 >
@@ -175,12 +173,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
-#### What makes service desk customer service unique?
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980)
+#### [What makes service desk customer service unique?](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=0)** - Technical support customer service is so unique because we utilize multiple skills at once.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=0)** - [[Technical Support]] customer service is so unique because we utilize multiple skills at once.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=6)** Including technical, customer service, and knowledge skills.
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=67)** Our goal is to ensure that we as service desk technicians have the right skills, both technical and customer service, to meet those unique demands.
 >
-> **[1:17](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=77)** This course will help us learn, refine, and utilize our customer service skills to meet those needs.
+> **[1:17](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=77)** This course will help us learn, refine, and utilize our [[Customer Service Skills]] to meet those needs.
 >
 > **[1:24](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/what-makes-service-desk-customer-service-unique?u=76281980&t=84)** I'm so excited that we are going on this learning journey together.
 >
@@ -223,8 +220,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Contact greeting and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
+#### [Contact greeting and validation](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +230,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980&t=10)** How did that make you feel?
 >
-> **[0:12](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980&t=12)** And how do you feel about that company and their products?
+> **[0:12](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980&t=12)** And how do you feel about that company and their [[Microsoft Products|products]]?
 >
 > **[0:15](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-greeting-and-validation?u=76281980&t=15)** Creating a positive experience for our customers is part of our responsibility as service desk technicians.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - in (2), - we (1), - thank (1), - help (1)
 > **Analogies:** it's like (1), such as (1)
 > **CLI Commands:** make (1)
@@ -326,8 +322,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### Contact investigation and diagnosis: Close-ended questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-close-ended-questions?u=76281980)
+#### [Contact investigation and diagnosis: Close-ended questions](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-close-ended-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +416,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Security]] (1)
 > **Speakers:** - now (1), - once (1), - i (1), - think (1)
 > **UI Navigation:** open the (1), click on (1)
 > **Analogies:** such as (1), for example (1)
@@ -429,8 +423,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** troubleshoot (1)
 
-#### Contact investigation and diagnosis: Open-ended questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980)
+#### [Contact investigation and diagnosis: Open-ended questions](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +451,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980&t=58)** Can you describe the issue you're experiencing?
 >
-> **[1:01](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980&t=61)** - When investigating and diagnosing an issue, be careful of using the word why in your open-ended questions.
+> **[1:01](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980&t=61)** - When investigating and diagnosing an issue, be careful of using the [[Microsoft Word|word]] why in your open-ended questions.
 >
 > **[1:07](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-open-ended-questions?u=76281980&t=67)** I've heard technicians in the past ask a customer, "Why did you do that?"
 >
@@ -476,14 +469,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - now (1), - how (1), - when (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** the key is (1)
 > **Warnings:** be careful (1)
 
-#### Contact investigation and diagnosis: Probing questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980)
+#### [Contact investigation and diagnosis: Probing questions](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980&t=39)** These very responses help us to formulate further probing questions.
 >
-> **[0:44](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980&t=44)** These questions seek to gather more information and can begin with the word such as can, you mentioned, when, where, how much, and what.
+> **[0:44](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980&t=44)** These questions seek to gather more information and can begin with the [[Microsoft Word|word]] such as can, you mentioned, when, where, how much, and what.
 >
 > **[0:56](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-probing-questions?u=76281980&t=56)** Words are not the only important component to probing.
 >
@@ -541,8 +533,7 @@ created: 2026-05-02
 > **Definitions:** defined as (1)
 > **Speakers:** - now (1)
 
-#### Contact investigation and diagnosis: Confirming questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-confirming-questions?u=76281980)
+#### [Contact investigation and diagnosis: Confirming questions](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-investigation-and-diagnosis-confirming-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,13 +581,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Speakers:** - the (1), - can (1), - now (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** before we start (1)
 
-#### Contact resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980)
+#### [Contact resolution](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=29)** The first step in resolution is to leverage and use your resources.
 >
-> **[0:33](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=33)** Resources can come in many forms, such as a knowledge base, standard operating procedures, anywhere that solutions and fixes and step-by-step procedures are documented.
+> **[0:33](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=33)** Resources can come in many [[Forms]], such as a knowledge base, standard operating procedures, anywhere that solutions and fixes and step-by-step procedures are documented.
 >
 > **[0:44](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=44)** Resources could also be peers, other team members, vendors, documentation and web sites.
 >
@@ -624,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=63)** Why spend more time than needed if the fix has already been identified and documented for reuse?
 >
-> **[1:09](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=69)** There is no time to reinvent the wheel in technical support.
+> **[1:09](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=69)** There is no time to reinvent the wheel in [[Technical Support]].
 >
 > **[1:14](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-resolution?u=76281980&t=74)** Let's take a moment to document your organization's available resources in your action plan.
 >
@@ -680,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Forms]] (1), web (1), [[Technical Support]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Technical Support]] (1)
 > **Speakers:** - now (1), - would (1), - there (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -688,8 +677,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** good practice (1)
 
-#### Contact closure
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980)
+#### [Contact closure](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,7 +709,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980&t=76)** Does another group need to be engaged to research and investigate this further?
 >
-> **[1:21](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980&t=81)** This is where the problem management process could be engaged, and a problem record created.
+> **[1:21](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980&t=81)** This is where the [[Problem Management]] process could be engaged, and a problem record created.
 >
 > **[1:27](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/contact-closure?u=76281980&t=87)** It's important to understand your organization's current problem management process, and how this works.
 >
@@ -747,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Problem Management]] (2), management (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Problem Management]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -758,8 +746,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Placing a contact on hold
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
+#### [Placing a contact on hold](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -777,7 +764,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980&t=22)** Has a company ever failed to follow up with you after telling you they will do so?
 >
-> **[0:27](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980&t=27)** These are some of the biggest complaints customers have with technical support.
+> **[0:27](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980&t=27)** These are some of the biggest complaints customers have with [[Technical Support]].
 >
 > **[0:32](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/placing-a-contact-on-hold?u=76281980&t=32)** Often, there is a need to perform these tasks.
 >
@@ -815,15 +802,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Support]] (1), next (1)
+> **Frameworks & Libraries:** [[Technical Support]] (1)
 > **Speakers:** - have (1), - okay (1), - in (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Non-Speech:** (hold music) (1)
 
-#### Hold: The DATE process
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/hold-the-date-process?u=76281980)
+#### [Hold: The DATE process](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/hold-the-date-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,7 +913,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), web (1)
 > **Speakers:** - hi (2), - every (1), - brian (1), - avoid (1), - i (1)
 > **Env Vars:** date (4)
 > **Definitions:** is a  (4)
@@ -936,8 +921,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Non-Speech:** (soft music) (1)
 
-#### When to use mute
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980)
+#### [When to use mute](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -973,7 +957,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980&t=84)** In those situations, mute would be acceptable.
 >
-> **[1:28](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980&t=88)** But don't take my word for it.
+> **[1:28](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980&t=88)** But don't take my [[Microsoft Word|word]] for it.
 >
 > **[1:29](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/when-to-use-mute?u=76281980&t=89)** Find out what your process is as well.
 >
@@ -1037,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - brian (2), - mute (1), - using (1), - some (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (2)
@@ -1045,8 +1029,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Escalation procedures: Why
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/escalation-procedures-why?u=76281980)
+#### [Escalation procedures: Why](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/escalation-procedures-why?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1100,14 +1083,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), next (1)
 > **Definitions:** is a  (2), defined as (1)
 > **Env Vars:** vip (2)
 > **Analogies:** picture (1)
 > **Speakers:** - a (1)
 
-#### Escalation procedures: How
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/escalation-procedures-how?u=76281980)
+#### [Escalation procedures: How](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/escalation-procedures-how?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1209,15 +1190,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Troubleshooting]] (3), management (2), business (1)
 > **Speakers:** - so (2), - hi (2), - many (1), - tino (1), - now (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** make sure to (1)
 
-#### Transfer procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/transfer-procedures?u=76281980)
+#### [Transfer procedures](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/transfer-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1276,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), management (1)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - there (1), - hi (1), - in (1)
 > **Documentation:** the documentation (1)
@@ -1308,8 +1286,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The value of building rapport with customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
+#### [The value of building rapport with customers](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=13)** Customers really want to be treated with respect, and have an interaction with a technician who cares.
 >
-> **[0:19](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=19)** Building rapport with our customers is one of the most important aspects of technical support and customer service.
+> **[0:19](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=19)** Building rapport with our customers is one of the most important aspects of [[Technical Support]] and customer service.
 >
 > **[0:26](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=26)** This isn't always an easy task.
 >
@@ -1359,7 +1336,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=128)** Trust is built by setting expectations that are clear and straight forward.
 >
-> **[2:12](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=132)** Following up on commitments and listening to customer's needs are two additional components of building trust.
+> **[2:12](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=132)** Following up on commitments and listening to customer's needs are two additional components of [[Building Trust]].
 >
 > **[2:19](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/the-value-of-building-rapport-with-customers?u=76281980&t=139)** Think about a time when a company that you were a customer of didn't follow through or gave the wrong information, or was even rude.
 >
@@ -1397,14 +1374,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Support]] (2), career (1), product (1), [[Building Trust]] (1), next (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2), [[Building Trust]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - in (1)
 
-#### Building rapport over the phone, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980)
+#### [Building rapport over the phone, part 1](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1420,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=32)** What happens when you lose the ability to use any of these three elements with a customer?
 >
-> **[0:38](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=38)** Well, it makes technical support much more difficult.
+> **[0:38](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=38)** Well, it makes [[Technical Support]] much more difficult.
 >
 > **[0:41](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=41)** Let's start with telephone support as an example.
 >
@@ -1430,7 +1406,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=55)** Let's look at the key components to choosing the right language and tone for effectively building phone support.
 >
-> **[1:02](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=62)** They are positive tone, listening and following the customer, positive word choices, empathy, and the customer perspective.
+> **[1:02](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=62)** They are positive tone, listening and following the customer, positive [[Microsoft Word|word]] choices, empathy, and the customer perspective.
 >
 > **[1:11](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-1?u=76281980&t=71)** Having a positive tone could be one of the simplest ways to start a contact out on a positive note.
 >
@@ -1546,14 +1522,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Support]] (3), [[Microsoft Word|Word]] (2), next (2), data (1), vpn (1)
+> **Frameworks & Libraries:** [[Technical Support]] (3), [[Microsoft Word|Word]] (2)
 > **Speakers:** - well (3), - thank (2), - in (2), - thanks (2), - okay (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **Env Vars:** vpn (1)
 > **Analogies:** such as (1)
 
-#### Building rapport over the phone, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980)
+#### [Building rapport over the phone, part 2](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1616,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980&t=251)** These are just a few examples of what can make a customer frustrated.
 >
-> **[4:16](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980&t=256)** If we can take a breath and just listen to the customer's perspective, we can make great strides in relationship building.
+> **[4:16](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980&t=256)** If we can take a breath and just listen to the customer's perspective, we can make great strides in [[Relationship Building]].
 >
 > **[4:24](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-over-the-phone-part-2?u=76281980&t=264)** Let's take a minute and document in our action plan what key component of building rapport over the phone you would like to work on.
 >
@@ -1649,14 +1624,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), product (1), [[Relationship Building]] (1)
+> **Frameworks & Libraries:** [[Relationship Building]] (1)
 > **Speakers:** - let (1), - i (1), - thanks (1), - it (1), - again (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** acl (1)
 > **Warnings:** be aware (1)
 
-#### Building rapport through writing: Style
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980)
+#### [Building rapport through writing: Style](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,9 +1650,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=43)** Let's look at three key elements of building rapport.
 >
-> **[0:47](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=47)** These elements can apply to any form of written communication, like email, chat, text, web forms, web tickets.
+> **[0:47](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=47)** These elements can apply to any form of written communication, like email, chat, text, web [[Forms]], web tickets.
 >
-> **[0:57](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=57)** The three key elements that we'll discuss are style, tone, and word choice.
+> **[0:57](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=57)** The three key elements that we'll discuss are style, tone, and [[Microsoft Word|word]] choice.
 >
 > **[1:04](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-style?u=76281980&t=64)** Many organizations use prepared content and responses for common incidents and requests.
 >
@@ -1766,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Microsoft Word|Word]] (2), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Forms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Best Practices:** good practice (2)
@@ -1774,8 +1748,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - have (1)
 
-#### Building rapport through writing: Tone
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980)
+#### [Building rapport through writing: Tone](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1787,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980&t=11)** Number one, the purpose of the message, and number two, the audience of the message, and number three, the words used to convey the tone.
 >
-> **[0:20](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980&t=20)** For technical support, we must first understand who our audience is, and then, what is the purpose of our communication?
+> **[0:20](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980&t=20)** For [[Technical Support]], we must first understand who our audience is, and then, what is the purpose of our communication?
 >
 > **[0:28](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-tone?u=76281980&t=28)** Let's first start with the audience.
 >
@@ -1837,19 +1810,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Technical Support]] (2), web (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2)
 > **Env Vars:** cio (1), vip (1), sla (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - the (1)
 
-#### Building rapport through writing: Words
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-words?u=76281980)
+#### [Building rapport through writing: Words](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-words?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-words?u=76281980&t=0)** - Now that we've talked about style and tone, let's discuss our third element in written communication, word choice.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-words?u=76281980&t=0)** - Now that we've talked about style and tone, let's discuss our third element in written communication, [[Microsoft Word|word]] choice.
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-through-writing-words?u=76281980&t=7)** Word choice conveys tone in written communication.
 >
@@ -1937,14 +1909,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **UI Navigation:** click on (3), go to (1), open the (1)
 > **Best Practices:** you should never (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - now (1)
 
-#### Building rapport face-to-face
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-face-to-face?u=76281980)
+#### [Building rapport face-to-face](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/building-rapport-face-to-face?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2053,12 +2024,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - for (1)
 
-#### Refining our message
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/refining-our-message?u=76281980)
+#### [Refining our message](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/refining-our-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/refining-our-message?u=76281980&t=0)** - Now that we've discussed word choices, tone, and body language, let's look further at refining our message.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/refining-our-message?u=76281980&t=0)** - Now that we've discussed [[Microsoft Word|word]] choices, tone, and body language, let's look further at refining our message.
 >
 > **[0:07](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/refining-our-message?u=76281980&t=7)** First, a concept that is central to refining our message is learning how to avoid using what are called filler words in our conversations with customers.
 >
@@ -2114,18 +2084,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### How to effectively manage conflict
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980)
+#### [How to effectively manage conflict](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980&t=0)** - Have you ever picked up a call or walked into someone's office or had a customer walk in and they were already angry or in a heightened emotional state?
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980&t=0)** - Have you ever picked up a call or walked into someone's [[Microsoft Office|office]] or had a customer walk in and they were already angry or in a heightened emotional state?
 >
-> **[0:11](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980&t=11)** This is all before we've even managed to get a word in.
+> **[0:11](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980&t=11)** This is all before we've even managed to get a [[Microsoft Word|word]] in.
 >
 > **[0:14](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-effectively-manage-conflict?u=76281980&t=14)** Learning how to manage conflict is a skill that is vital for all technicians.
 >
@@ -2247,7 +2216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - [customer] (3), - now (2), - by (2), - have (1), - my (1)
 > **Cross-References:** we covered (1), in the next (1)
 > **Definitions:** is a  (1)
@@ -2258,8 +2227,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recovering unsatisfied customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
+#### [Recovering unsatisfied customers](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/recovering-unsatisfied-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2359,14 +2327,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - hey (2), - [customer] (2), - providing (1), - yeah (1), - so (1)
 > **Env Vars:** lead (5)
 > **CLI Commands:** find (1)
 > **Definitions:** defined as (1)
 
-#### Learning how to redirect customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/learning-how-to-redirect-customers?u=76281980)
+#### [Learning how to redirect customers](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/learning-how-to-redirect-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2510,15 +2476,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **Speakers:** - i (5), - well (2), - did (2), - so (2), - often (1)
 > **Analogies:** it's like (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** p101 (1)
 > **Prerequisites:** install (1)
 
-#### How to say no without saying no
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-without-saying-no?u=76281980)
+#### [How to say no without saying no](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-without-saying-no?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2594,16 +2558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), next (1)
 > **Speakers:** - i (2), - one (1), - how (1), - we (1), - yes (1)
 > **Definitions:** is a  (1)
 
-#### How to say no: the steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980)
+#### [How to say no: the steps](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=0)** - Let's go over the four exact steps to say no without saying the word no.
+> **[0:00](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=0)** - Let's go over the four exact steps to say no without saying the [[Microsoft Word|word]] no.
 >
 > **[0:06](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=6)** First, confirm the issue to determine whether it's truly something you cannot handle.
 >
@@ -2681,7 +2643,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=151)** Can you look me up another way?
 >
-> **[2:33](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=153)** - We're legally bound by the privacy act to use that information for security validation.
+> **[2:33](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=153)** - We're legally bound by the [[Privacy]] act to use that information for security validation.
 >
 > **[2:37](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/how-to-say-no-the-steps?u=76281980&t=157)** It protects you and keeps your account secure.
 >
@@ -2717,13 +2679,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Security]] (2), [[Privacy]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Microsoft Word|Word]] (1)
 > **Speakers:** - i (4), - this (2), - okay (2), - here (2), - let (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 
-#### Customer behavior profiles: Impassioned
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-impassioned?u=76281980)
+#### [Customer behavior profiles: Impassioned](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-impassioned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2827,15 +2788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), database (1)
 > **Speakers:** - okay (3), - so (2), - what (1), - my (1), - yes (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Best Practices:** don't forget (1)
 > **Warnings:** troubleshoot (1)
 
-#### Customer behavior profiles: Combative
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-combative?u=76281980)
+#### [Customer behavior profiles: Combative](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-combative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2961,8 +2920,7 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Best Practices:** the key is (1)
 
-#### Customer behavior profiles: Chatty
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980)
+#### [Customer behavior profiles: Chatty](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3000,7 +2958,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980&t=43)** Oh, let me look.
 >
-> **[0:45](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980&t=45)** Sorry, I just walked out of my office.
+> **[0:45](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980&t=45)** Sorry, I just walked out of my [[Microsoft Office|office]].
 >
 > **[0:46](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-chatty?u=76281980&t=46)** I'm calling you from my cellphone.
 >
@@ -3114,13 +3072,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Speakers:** - [caller] (4), - our (1), - yes (1), - from (1), - the (1)
 > **Env Vars:** lms (4)
 > **Definitions:** is a  (1)
 
-#### Customer behavior profiles: Timid
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-timid?u=76281980)
+#### [Customer behavior profiles: Timid](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/customer-behavior-profiles-timid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3238,7 +3195,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Search]] (1)
 > **Speakers:** - okay (5), - well (4), - the (3), - oh (3), - i (3)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** tms (2)
@@ -3249,8 +3205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/it-service-desk-customer-service-fundamentals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3282,7 +3237,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - we (1)
 

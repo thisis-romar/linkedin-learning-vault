@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Showing posts in pages using PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
+#### [Showing posts in pages using PHP](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980&t=0)** - [Kevin] Pagination is a valuable skill for all PHP developers to learn.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980&t=0)** - [Kevin] Pagination is a valuable skill for all [[PHP]] developers to learn.
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-pagination/showing-posts-in-pages-using-php?u=76281980&t=4)** Presenting long lists of records as separate pages of results is a great user interface technique.
 >
@@ -95,22 +94,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), web (3), traffic (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3)
 > **Env Vars:** php (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [kevin] (1)
 
-#### Using the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980)
+#### [Using the exercise files on GitHub](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=0)** - [Instructor] All of the exercise files for this course are available in a [[GitHub]] repository.
 >
 > **[0:05](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=5)** You can find it at this URL.
 >
-> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=7)** It's a project hosted by the LinkedIn Learning account called php-techniques-pagination-2884225.
+> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=7)** It's a project hosted by the [[LinkedIn]] Learning account called [[PHP]]-techniques-pagination-2884225.
 >
 > **[0:17](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=17)** The repository has branches that correspond to each of the videos in the course.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=45)** You can also download the code to work along with me.
 >
-> **[0:47](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=47)** If you're a Git user, then you can clone the repository by clicking on the Code button and then clicking on the clipboard icon to copy the URL.
+> **[0:47](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=47)** If you're a [[Git]] user, then you can clone the repository by clicking on the Code button and then clicking on the clipboard icon to copy the URL.
 >
 > **[0:58](https://www.linkedin.com/learning/php-techniques-pagination/using-the-exercise-files-on-github?u=76281980&t=58)** Then you can type git clone and paste in the URL that you copied to your clipboard.
 >
@@ -156,8 +154,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Pagination overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
+#### [Pagination overview](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=89)** You've seen pagination in action if you've ever searched for anything online.
 >
-> **[1:33](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=93)** When I search for the word "pagination" on Bing, it tells me there are 43 million results.
+> **[1:33](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=93)** When I search for the [[Microsoft Word|word]] "pagination" on Bing, it tells me there are 43 million results.
 >
 > **[1:38](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=98)** Now I certainly don't want to see all 43 million results in one long, scrolling page.
 >
@@ -207,13 +204,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=119)** You can see up here that it tells me that it's records 25 through 38 out of those 43 million.
 >
-> **[2:05](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=125)** Google does the same thing.
+> **[2:05](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=125)** [[Google]] does the same thing.
 >
 > **[2:06](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=126)** If we scroll down to the bottom here, you'll see that it does its pagination by putting an O over every one of those numbers and a red O indicates the page that I'm on currently.
 >
 > **[2:17](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=137)** This shows the basic idea.
 >
-> **[2:19](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=139)** This is what we want to be able to do in our PHP projects.
+> **[2:19](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=139)** This is what we want to be able to do in our [[PHP]] projects.
 >
 > **[2:22](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=142)** In this course, you have the option to apply pagination directly to one of your projects as we work, or you can use the exercise files and the demo project that I've included there.
 >
@@ -225,13 +222,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=164)** Let's start by looking at customers no DB dot PHP.
 >
-> **[2:48](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=168)** Most of the time when you're doing pagination, you're going to be working with a database because databases are good at storing lots of records, but it doesn't have to be true.
+> **[2:48](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=168)** Most of the time when you're doing pagination, you're going to be working with a database because [[Databases]] are good at storing lots of records, but it doesn't have to be true.
 >
 > **[2:56](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=176)** You could get your results from somewhere else.
 >
 > **[2:59](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=179)** They might be coming from a CSB file or from a third-party API.
 >
-> **[3:03](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=183)** This is going to demonstrate how we can work without using a database, while customers dot PHP is going to focus on using an SQL database.
+> **[3:03](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=183)** This is going to demonstrate how we can work without using a database, while customers dot PHP is going to focus on using an [[SQL]] database.
 >
 > **[3:11](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=191)** You'll see here that it includes initialized dot PHP.
 >
@@ -239,9 +236,9 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=200)** And you can browse through each one of those to see the kinds of functions that I've included already as a starter project.
 >
-> **[3:27](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=207)** These functions will be familiar to anyone who took PHP with MySQL Essential Training.
+> **[3:27](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=207)** These functions will be familiar to anyone who took PHP with [[MySQL]] Essential Training.
 >
-> **[3:33](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=213)** If we go back to customers no DB, you'll see that it's got some HTML, and then it's just iterating through a list of the customers into a table.
+> **[3:33](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=213)** If we go back to customers no DB, you'll see that it's got some [[HTML]], and then it's just iterating through a list of the customers into a table.
 >
 > **[3:41](https://www.linkedin.com/learning/php-techniques-pagination/pagination-overview?u=76281980&t=221)** And we can see that if we go into Firefox, it'll just come up with a basic customer list.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), database (7), [[Search]] (3), [[MySQL]] (3), web (2)
+> **Frameworks & Libraries:** [[PHP]] (9), [[MySQL]] (3), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Databases]] (1)
 > **CLI Commands:** php (9), mysql (3), make (1), find (1)
 > **Env Vars:** php (9), csb (1), api (1), sql (1), html (1)
 > **UI Navigation:** click on (1), scroll down (1)
@@ -270,8 +267,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** firefox (1)
 
-#### Finding the pagination variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980)
+#### [Finding the pagination variables](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980&t=29)** If the URL has page one, it returns page one, if it has page five, it returns page five.
 >
-> **[0:34](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980&t=34)** We can retrieve that value in PHP using the GET superglobal.
+> **[0:34](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980&t=34)** We can retrieve that value in [[PHP]] using the GET superglobal.
 >
 > **[0:38](https://www.linkedin.com/learning/php-techniques-pagination/finding-the-pagination-variables?u=76281980&t=38)** I'm also using the null coalesce operator introduced in PHP seven to default, to a value of one, anytime the value of page is not set.
 >
@@ -423,7 +419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[PHP]] (6), database (2), web (1)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **CLI Commands:** php (6), make (3), find (2)
 > **Env Vars:** php (4), url (3)
 > **API Endpoints:** get  (3), get
@@ -433,8 +429,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Tools:** firefox (1)
 
-#### Using total record count
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980)
+#### [Using total record count](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=26)** If they're in an array, that we can use PHPs count function, in order to count them.
 >
-> **[0:31](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=31)** if they're stored in a database, then we can write an SQL statement for it.
+> **[0:31](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=31)** if they're stored in a database, then we can write an [[SQL]] statement for it.
 >
 > **[0:35](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=35)** We'll learn how to do that in a moment, the total number of pages, is going to be the total count divided by the number of records per page, and then we take the ceiling of that value.
 >
@@ -474,7 +469,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=102)** Let's figure out the total account right here below customers.
 >
-> **[1:45](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=105)** So we're going to use the total account, and because we're working with an array in PHP, we can just use count.
+> **[1:45](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=105)** So we're going to use the total account, and because we're working with an array in [[PHP]], we can just use count.
 >
 > **[1:51](https://www.linkedin.com/learning/php-techniques-pagination/using-total-record-count?u=76281980&t=111)** In order to do that, we want to count all customers, not just the customers on this page, which is what is inside this customer's variable, we want to use all customers.
 >
@@ -540,7 +535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), database (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[SQL]] (1)
 > **CLI Commands:** make (8), php (4), find (1)
 > **Env Vars:** php (4), sql (1), ceil (1)
 > **Analogies:** for example (4)
@@ -553,8 +548,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up the project database
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
+#### [Setting up the project database](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=5)** Of course, to do that we'll need a database.
 >
-> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=7)** You can use the database from an existing PHP project.
+> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=7)** You can use the database from an existing [[PHP]] project.
 >
 > **[0:10](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=10)** But I'm going to show you how to set up a simple one to go with the exercise files.
 >
@@ -572,11 +566,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=17)** And you should do the same.
 >
-> **[0:18](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=18)** Make sure that you have a user that can log into mysql.
+> **[0:18](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=18)** Make sure that you have a user that can log into [[MySQL]].
 >
 > **[0:21](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=21)** Here I've created a new user called 'php user.'
 >
-> **[0:25](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=25)** But you can use root or any other SQL user that you already have.
+> **[0:25](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=25)** But you can use root or any other [[SQL]] user that you already have.
 >
 > **[0:28](https://www.linkedin.com/learning/php-techniques-pagination/setting-up-the-project-database?u=76281980&t=28)** Then you'll create the database.
 >
@@ -700,7 +694,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[PHP]] (9), [[MySQL]] (6), [[SQL]] (4), hit (4)
+> **Frameworks & Libraries:** [[PHP]] (9), [[MySQL]] (6), [[SQL]] (4)
 > **CLI Commands:** php (9), make (6), mysql (6)
 > **Code Identifiers:** php_pagination (2), find_customers (2), db_fetch (2), php_user (1), db_connect (1)
 > **Env Vars:** php (4), sql (3)
@@ -709,14 +703,13 @@ created: 2026-05-02
 > **Tools:** command line (1), firefox (1)
 > **UI Navigation:** go to (1)
 
-#### SQL LIMIT, OFFSET, and COUNT
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980)
+#### [SQL LIMIT, OFFSET, and COUNT](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980&t=0)** - [Narrator] To paginate records stored in an SQL database, we need to learn a few techniques to retrieve a subset of the total records.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980&t=0)** - [Narrator] To paginate records stored in an [[SQL]] database, we need to learn a few techniques to retrieve a subset of the total records.
 >
-> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980&t=7)** We could retrieve all records and then put them in a PHP array and pick through them to find the ones we want to show but that's not very efficient.
+> **[0:07](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980&t=7)** We could retrieve all records and then put them in a [[PHP]] array and pick through them to find the ones we want to show but that's not very efficient.
 >
 > **[0:15](https://www.linkedin.com/learning/php-techniques-pagination/sql-limit-offset-and-count?u=76281980&t=15)** We'd be transferring a lot of data from the database that's quickly discarded and that could be thousands or even millions of records.
 >
@@ -776,7 +769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (9), database (6), data (3), [[PHP]] (2), web (2)
+> **Frameworks & Libraries:** [[SQL]] (9), [[PHP]] (2)
 > **Env Vars:** limit (11), sql (9), offset (9), select (4), count (4)
 > **CLI Commands:** php (2), find (2)
 > **SQL:** select (4)
@@ -784,14 +777,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [narrator] (1)
 
-#### Paginating database records
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980)
+#### [Paginating database records](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980&t=0)** - [Instructor] In the last movie, we learned how to use SQL limit, offset and count.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980&t=0)** - [Instructor] In the last movie, we learned how to use [[SQL]] limit, offset and count.
 >
-> **[0:05](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980&t=5)** Let's use those to paginate the database records in a PHP project.
+> **[0:05](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980&t=5)** Let's use those to paginate the database records in a [[PHP]] project.
 >
 > **[0:09](https://www.linkedin.com/learning/php-techniques-pagination/paginating-database-records?u=76281980&t=9)** I already have my database set up, and "customers.php" is already pulling up an unpaginated list of those customers from the database.
 >
@@ -965,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[SQL]] (4), [[PHP]] (4), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[PHP]] (4)
 > **CLI Commands:** find (8), make (7), php (4)
 > **Env Vars:** sql (4), php (1), asc (1), url (1)
 > **Code Identifiers:** db_escape (2), count_customers (2), db_fetch_association (2)
@@ -979,14 +971,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding links to previous and next pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
+#### [Adding links to previous and next pages](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=0)** - [Instructor] Now that we have the fundamentals of pagination for both a non database and a database version, I want to work on adding some features, starting with adding links to the previous and next pages.
 >
-> **[0:11](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=11)** I'm going to be doing these in the customers .PHP file.
+> **[0:11](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=11)** I'm going to be doing these in the customers .[[PHP]] file.
 >
 > **[0:14](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=14)** You could also add the same thing to the customers nodb.PHP file, and it will work the same.
 >
@@ -1010,7 +1001,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=54)** I've also got some more here, which we'll come back and look at a little later.
 >
-> **[0:57](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=57)** So I'm going to add a Previous and Next, and I'm also going to add a HTML character into the- for the left arrow and one here for the right arrow.
+> **[0:57](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=57)** So I'm going to add a Previous and Next, and I'm also going to add a [[HTML]] character into the- for the left arrow and one here for the right arrow.
 >
 > **[1:13](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=73)** Oops, miss type that they put an A there.
 >
@@ -1020,7 +1011,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=84)** You can use whatever you want for these.
 >
-> **[1:26](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=86)** It could be a link with a word.
+> **[1:26](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=86)** It could be a link with a [[Microsoft Word|word]].
 >
 > **[1:28](https://www.linkedin.com/learning/php-techniques-pagination/adding-links-to-previous-and-next-pages?u=76281980&t=88)** It can be a symbol, or it can be a link with an image so that an image links each one.
 >
@@ -1156,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), [[PHP]] (8), database (2), [[HTML]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (8), ulli (1), html (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
@@ -1164,8 +1155,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating pagination links
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980)
+#### [Creating pagination links](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980&t=22)** Instead of just having previous and next, we want to have numbers in between those.
 >
-> **[0:27](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980&t=27)** So I'm going to come over to customers.php, and right here where that pipe is I'm going to take that out and, instead, I'll add some new PHP tags, and this is where I'm going to put my pagination links.
+> **[0:27](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980&t=27)** So I'm going to come over to customers.[[PHP]], and right here where that pipe is I'm going to take that out and, instead, I'll add some new PHP tags, and this is where I'm going to put my pagination links.
 >
 > **[0:40](https://www.linkedin.com/learning/php-techniques-pagination/creating-pagination-links?u=76281980&t=40)** I'm going to start by just doing a simple list of the numbers.
 >
@@ -1257,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** make (6), php (2)
 > **Analogies:** for example (3), similar to (1)
 > **UI Navigation:** click on (3)
@@ -1266,8 +1256,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Showing an excerpt of the page list
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980)
+#### [Showing an excerpt of the page list](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1276,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=34)** For example, you can see that Bing shows us two numbers before and after our current page, it also shows us the number one, always, and then it has an excerpt here with the previous and next links on the outside.
 >
-> **[0:47](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=47)** Google handles it differently.
+> **[0:47](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=47)** [[Google]] handles it differently.
 >
 > **[0:49](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=49)** Google shows the five pages before, the current page, and then the four pages after that with previous and next links.
 >
@@ -1305,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=82)** What I'm going to do is I'm going to make a conditional here that says if certain things are true, then don't go and output the page number, instead, just continue.
 >
-> **[1:35](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=95)** Continue is a PHP function that tells the loop to just skip to the next iteration.
+> **[1:35](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=95)** Continue is a [[PHP]] function that tells the loop to just skip to the next iteration.
 >
 > **[1:40](https://www.linkedin.com/learning/php-techniques-pagination/showing-an-excerpt-of-the-page-list?u=76281980&t=100)** It will never get to these lines down here anymore.
 >
@@ -1381,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Google]] (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[PHP]] (1)
 > **CLI Commands:** make (3), php (1)
 > **Analogies:** for example (2)
 > **Env Vars:** php (1)
@@ -1390,8 +1379,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Remembering the current page
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/remembering-the-current-page?u=76281980)
+#### [Remembering the current page](https://www.linkedin.com/learning/php-techniques-pagination/remembering-the-current-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1467,20 +1455,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining a pagination class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
+#### [Defining a pagination class](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=0)** - [Instructor] In the previous chapters, we've been using functional programming for our pagination.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=0)** - [Instructor] In the previous chapters, we've been using [[Functional Programming]] for our pagination.
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=4)** In this chapter, we will learn to create an object-oriented pagination.
 >
-> **[0:08](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=8)** It doesn't really matter whether the rest of your code is functional or object-oriented.
+> **[0:08](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=8)** It doesn't really matter whether the [[Representational State Transfer (REST)|rest]] of your code is functional or object-oriented.
 >
 > **[0:12](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=12)** You can use either version of this pagination code.
 >
-> **[0:15](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=15)** Both use PHP features that are always available to you.
+> **[0:15](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=15)** Both use [[PHP]] features that are always available to you.
 >
 > **[0:18](https://www.linkedin.com/learning/php-techniques-pagination/defining-a-pagination-class?u=76281980&t=18)** I've gone ahead and added a new file to the project.
 >
@@ -1672,7 +1659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), functional (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** per_page (11), current_page (10), total_pages (9), total_count (6), customers_oo (2)
 > **CLI Commands:** php (7), make (6), find (3)
 > **Env Vars:** php (4)
@@ -1681,8 +1668,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 
-#### Outputting links for previous and next pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980)
+#### [Outputting links for previous and next pages](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1698,7 +1684,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=24)** Our pagination class can know how to output a previous or a next link.
 >
-> **[0:29](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=29)** If we go to customers.php, we had that kind of code here inside pagination.
+> **[0:29](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=29)** If we go to customers.[[PHP]], we had that kind of code here inside pagination.
 >
 > **[0:35](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=35)** What I want to do is take this code here and move it inside the class, so that the class itself can be asked to output this for us.
 >
@@ -1802,7 +1788,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=249)** All of that as the same, but this of course will be different.
 >
-> **[4:13](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=253)** Instead, it's going to say next and rarr; for the HTML entity for the arrow.
+> **[4:13](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=253)** Instead, it's going to say next and rarr; for the [[HTML]] entity for the arrow.
 >
 > **[4:21](https://www.linkedin.com/learning/php-techniques-pagination/outputting-links-for-previous-and-next-pages?u=76281980&t=261)** All right, so let's go and try these out.
 >
@@ -1838,7 +1824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (18), [[PHP]] (7), [[Programming]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (1)
 > **CLI Commands:** php (7), make (4)
 > **Env Vars:** url (3), php (2), html (1)
 > **File Paths:** customers.php (3), customers_00.php (2)
@@ -1847,8 +1833,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** means that (1)
 
-#### Outputting pagination links
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980)
+#### [Outputting pagination links](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1856,7 +1841,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=6)** Let's do the same thing now with our Pagination links.
 >
-> **[0:09](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=9)** You'll remember that in our customers.php file, we had all this code here, which output the different pagination links.
+> **[0:09](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=9)** You'll remember that in our customers.[[PHP]] file, we had all this code here, which output the different pagination links.
 >
 > **[0:16](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=16)** I'm going to copy all of that because we're going to be moving it into our pagination class to use it there.
 >
@@ -1894,7 +1879,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=135)** We want to make sure that it can be any URL.
 >
-> **[2:17](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=137)** So whatever URL is being passed in the rest of this logic is pretty much the same.
+> **[2:17](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=137)** So whatever URL is being passed in the [[Representational State Transfer (REST)|rest]] of this logic is pretty much the same.
 >
 > **[2:21](https://www.linkedin.com/learning/php-techniques-pagination/outputting-pagination-links?u=76281980&t=141)** I want to make one other addition, which is if when is set to zero, then we won't do a window at all.
 >
@@ -1990,7 +1975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (9), php (4), find (2)
 > **Env Vars:** url (4), php (3)
 > **Cross-References:** go back to (2), we talked about (1)
@@ -2004,16 +1989,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=0)** - [Instructor] I would like to thank you for taking "PHP Techniques: Pagination" with me.
+> **[0:00](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=0)** - [Instructor] I would like to thank you for taking "[[PHP]] Techniques: Pagination" with me.
 >
 > **[0:04](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=4)** I hope you can immediately find uses for the pagination techniques that we've learned in this course.
 >
-> **[0:09](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=9)** Once you have a good understanding of pagination, you may be interested in the chapter on infinite scrolling in "Ajax with PHP," another course in the library.
+> **[0:09](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=9)** Once you have a good understanding of pagination, you may be interested in the chapter on infinite scrolling in "[[AJAX]] with PHP," another course in the library.
 >
 > **[0:18](https://www.linkedin.com/learning/php-techniques-pagination/next-steps?u=76281980&t=18)** Infinite scrolling loads results in pages, just like we learned in this course, but when the user scrolls to the bottom of the page, Ajax automatically loads the next page and adds it to the end.
 >
@@ -2023,7 +2007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[AJAX]] (2), next (2)
+> **Frameworks & Libraries:** [[PHP]] (2), [[AJAX]] (2)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
 > **Analogies:** just like (1)

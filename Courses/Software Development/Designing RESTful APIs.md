@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design a RESTful API for your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
+#### [Design a RESTful API for your organization](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=5)** In this course, we'll start with a simple overview of what it takes to add an API to your application, whether it's been around for years or you're just getting started.
 >
-> **[0:13](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=13)** Our goal is to teach you to design an API which is useful for end users while respecting the HTTP concepts and REST constraints, which we'll review and describe throughout this course.
+> **[0:13](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=13)** Our goal is to teach you to design an API which is useful for end users while respecting the HTTP concepts and [[Representational State Transfer (REST)|REST]] constraints, which we'll review and describe throughout this course.
 >
 > **[0:25](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=25)** And like any good design, it starts with a good definition.
 >
@@ -93,7 +92,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=40)** Once we understand our business workflow and the structure, we'll dive into the HTTP concepts and REST constraints to help determine our design.
 >
-> **[0:49](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=49)** Finally, we'll wrap up this course by covering common API design patterns you'll have to deal with.
+> **[0:49](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=49)** Finally, we'll wrap up this course by covering common API [[Design Patterns]] you'll have to deal with.
 >
 > **[0:54](https://www.linkedin.com/learning/designing-restful-apis/design-a-restful-api-for-your-organization?u=76281980&t=54)** This list isn't exhaustive, but covers the most common ones.
 >
@@ -101,13 +100,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Representational State Transfer (REST)|Rest]] (2), business (2), application (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Design Patterns]] (1)
 > **Env Vars:** api (4), http (2), rest (2)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [keith] (1)
 
-#### Before you build an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/before-you-build-an-api?u=76281980)
+#### [Before you build an API](https://www.linkedin.com/learning/designing-restful-apis/before-you-build-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +141,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), api (1)
 > **Env Vars:** http (3), api (1)
 > **Tools:** firefox (1), postman (1), command line (1)
 > **CLI Commands:** curl (1)
@@ -156,18 +153,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why good API design is important
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
+#### [Why good API design is important](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=0)** - [Instructor] Welcome to designing RESTful APIs.
 >
-> **[0:03](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=3)** In this course, we'll talk through API design, what to consider, some things to exclude, and design patterns that'll fit no matter what.
+> **[0:03](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=3)** In this course, we'll talk through API design, what to consider, some things to exclude, and [[Design Patterns]] that'll fit no matter what.
 >
 > **[0:12](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=12)** But let's talk about your API.
 >
-> **[0:14](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=14)** To set the tone for the rest of the day, let's understand one important aspect, API design is hard, it's a game of trade-offs.
+> **[0:14](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=14)** To set the tone for the [[Representational State Transfer (REST)|rest]] of the day, let's understand one important aspect, API design is hard, it's a game of trade-offs.
 >
 > **[0:22](https://www.linkedin.com/learning/designing-restful-apis/why-good-api-design-is-important-14393375?u=76281980&t=22)** But more than anything, we want to be deliberate about our choices.
 >
@@ -231,15 +227,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (12), [[Design Patterns]] (1), [[Representational State Transfer (REST)|Rest]] (1), game (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (12)
 > **Definitions:** is an  (3), is a  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Approaches to adding an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980)
+#### [Approaches to adding an API](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +282,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980&t=116)** I'm working with a number of companies where we're doing this right now.
 >
-> **[2:00](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980&t=120)** They have a huge number of soap services that power their backend and they're wrapping each of these with services with re-architected REST interfaces.
+> **[2:00](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980&t=120)** They have a huge number of soap services that power their backend and they're wrapping each of these with services with re-architected [[Representational State Transfer (REST)|REST]] interfaces.
 >
 > **[2:08](https://www.linkedin.com/learning/designing-restful-apis/approaches-to-adding-an-api?u=76281980&t=128)** This gives them the ability to keep working systems in place while making the underlying architecture better.
 >
@@ -301,15 +296,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), business (3), application (2), next (2), functional (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (5), rest (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips for modeling APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/tips-for-modeling-apis-14399132?u=76281980)
+#### [Tips for modeling APIs](https://www.linkedin.com/learning/designing-restful-apis/tips-for-modeling-apis-14399132?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +361,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (1), application (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (3)
 > **Cross-References:** earlier in (1)
@@ -375,8 +368,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980)
+#### [Identifying participants](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -398,7 +390,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980&t=36)** Our participants are the entities who will be involved in the business process using the API.
 >
-> **[0:41](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980&t=41)** I say that specifically because the various IOT devices, bots, and monitoring services, we need to understand that not all of our participants are humans.
+> **[0:41](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980&t=41)** I say that specifically because the various [[IoT]] devices, bots, and monitoring services, we need to understand that not all of our participants are humans.
 >
 > **[0:51](https://www.linkedin.com/learning/designing-restful-apis/identifying-participants-14395229?u=76281980&t=51)** From here forward, whenever I say participant, remember that I could mean a person or an entity.
 >
@@ -456,14 +448,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), business (4), next (2), [[IoT]] (1), management (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Env Vars:** api (6), iot (1)
 > **Cross-References:** coming up (1), in the next (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying activities and breaking them into steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/identifying-activities-and-breaking-them-into-steps-14396320?u=76281980)
+#### [Identifying activities and breaking them into steps](https://www.linkedin.com/learning/designing-restful-apis/identifying-activities-and-breaking-them-into-steps-14396320?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,12 +506,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study: Identifying participants and activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980)
+#### [Case study: Identifying participants and activities](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -548,7 +537,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=49)** Also, the developer of the system is probably not involved here either, but we do need a stock clerk who fulfills the actual order.
 >
-> **[0:57](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=57)** Finally, let's include Customer Support, just in case.
+> **[0:57](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=57)** Finally, let's include [[Customer Support]], just in case.
 >
 > **[1:01](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=61)** So when we stop and look at who remains, we have three participants.
 >
@@ -582,7 +571,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=129)** If the book isn't available, Customer Support may need to get in touch with the customer to cancel the order or make other arrangements.
 >
-> **[2:17](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=137)** While most e-commerce systems aren't going to allow a customer to order something that's out of stock, sometimes inventory count isn't correct.
+> **[2:17](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=137)** While most [[E-Commerce]] systems aren't going to allow a customer to order something that's out of stock, sometimes inventory count isn't correct.
 >
 > **[2:25](https://www.linkedin.com/learning/designing-restful-apis/case-study-identifying-participants-and-activities?u=76281980&t=145)** So let's include this activity just in case.
 >
@@ -606,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Customer Support]] (3), next (1), [[E-Commerce]] (1), teams (1)
+> **Frameworks & Libraries:** [[Customer Support]] (3), [[E-Commerce]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Warnings:** note that (1)
 > **Speakers:** - now (1)
@@ -616,8 +605,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and grouping API methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
+#### [Creating and grouping API methods](https://www.linkedin.com/learning/designing-restful-apis/creating-and-grouping-api-methods-14392975?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -707,7 +695,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (2), product (1)
 > **Env Vars:** api (3), crud (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), as we saw (1)
@@ -715,8 +702,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping activities to verbs and actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980)
+#### [Mapping activities to verbs and actions](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +828,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980&t=269)** If you know the vision and the customer, sure, the odds of you being correct might be pretty good.
 >
-> **[4:35](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980&t=275)** But something that you decided on your own without input could accidentally become a hard requirement to the rest of your team and nobody realizes that was a choice that you made as opposed to something that the customer dictated.
+> **[4:35](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980&t=275)** But something that you decided on your own without input could accidentally become a hard requirement to the [[Representational State Transfer (REST)|rest]] of your team and nobody realizes that was a choice that you made as opposed to something that the customer dictated.
 >
 > **[4:48](https://www.linkedin.com/learning/designing-restful-apis/mapping-activities-to-verbs-and-actions-14397191?u=76281980&t=288)** Now, let's go back to the relationships for a second.
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), database (4), api (3), data (2), product (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** post (8), http (3), put (3), api (3), delete (2)
 > **API Endpoints:** post  (3), post
  (3), put  (2), get  (1), delete  (1)
@@ -940,8 +926,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** you should never (1)
 
-#### Validating your API
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980)
+#### [Validating your API](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +978,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=105)** And alternatively, and probably my favorite approach is to use a microframework.
 >
-> **[1:50](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=110)** You can use something like hapi.js in Node or Slim in PHP to accept incoming requests, validate the corresponding verbs and URL patterns, and return static HTTP response codes and payloads.
+> **[1:50](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=110)** You can use something like hapi.js in Node or Slim in [[PHP]] to accept incoming requests, validate the corresponding verbs and URL patterns, and return static HTTP response codes and payloads.
 >
 > **[2:04](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=124)** In most cases, as long as you're familiar with your framework, you should be able to implement the basic API calls in a manner of hours to a few days.
 >
@@ -1015,7 +1000,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=194)** Most teams should be able to accomplish a rough draft of this documentation in just a few days.
 >
-> **[3:19](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=199)** And while there are great documentation platforms and tools out there, I suggest a simple Google doc.
+> **[3:19](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=199)** And while there are great documentation platforms and tools out there, I suggest a simple [[Google]] doc.
 >
 > **[3:25](https://www.linkedin.com/learning/designing-restful-apis/validating-your-api-14396322?u=76281980&t=205)** It's not because that will be our end structure or format.
 >
@@ -1053,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (15), teams (5), node (1), [[PHP]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1), [[Google]] (1)
 > **Env Vars:** api (15), http (2), php (1), url (1)
 > **CLI Commands:** make (6), find (2), node (1), php (1), curl (1)
 > **Documentation:** the documentation (3)
@@ -1067,8 +1052,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### REST and HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
+#### [REST and HTML](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,7 +1060,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=8)** HTTP is great in that it underlies the entire web.
 >
-> **[0:12](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=12)** It's well-documented and understood by clients and all the tools out there and is the usual foundation of a REST API.
+> **[0:12](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=12)** It's well-documented and understood by clients and all the tools out there and is the usual foundation of a [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:20](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=20)** Unfortunately, this leads to the first misunderstanding that's worth explaining.
 >
@@ -1084,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=27)** XML is a markup language.
 >
-> **[0:30](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=30)** JSON is a notation.
+> **[0:30](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=30)** [[JSON]] is a notation.
 >
 > **[0:33](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=33)** There are XML standards that can add structure and meaning to it.
 >
@@ -1150,20 +1134,19 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=162)** There are the headers and the payload.
 >
-> **[2:44](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=164)** The payload is the HTML, the JSON, the XML, or whatever comes back that you can view, interact with and process.
+> **[2:44](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=164)** The payload is the [[HTML]], the JSON, the XML, or whatever comes back that you can view, interact with and process.
 >
 > **[2:53](https://www.linkedin.com/learning/designing-restful-apis/rest-and-html?u=76281980&t=173)** If it's just HTML, it's usually presented to the user on the screen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[JSON]] (4), api (2), [[HTML]] (2), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[JSON]] (4), [[HTML]] (2)
 > **Env Vars:** http (7), rest (5), xml (4), json (4), api (2)
 > **Definitions:** is a  (6)
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTTP header and response codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980)
+#### [HTTP header and response codes](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1168,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=38)** So we simply type 'curl -I' and the name of the API we're going to hit.
 >
-> **[0:44](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=44)** In this case GitHub.
+> **[0:44](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=44)** In this case [[GitHub]].
 >
 > **[0:46](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=46)** We run this command against the GitHub API.
 >
@@ -1301,7 +1284,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=308)** This simply identifies the type of payload being provided by the server.
 >
-> **[5:12](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=312)** For normal web browsing, it'll normally be text HTML, but for APIs, we'll normally see application JSON and potentially text XML.
+> **[5:12](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=312)** For normal web browsing, it'll normally be text [[HTML]], but for APIs, we'll normally see application [[JSON]] and potentially text XML.
 >
 > **[5:22](https://www.linkedin.com/learning/designing-restful-apis/http-header-and-response-codes?u=76281980&t=322)** Of course, that describes what the payload is not how it's structured.
 >
@@ -1327,7 +1310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[GitHub]] (7), next (4), hit (1), web (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[HTML]] (1), [[JSON]] (1)
 > **Env Vars:** api (13), http (5), url (4), html (1), json (1)
 > **Tools:** github (7), firefox (1), command line (1)
 > **CLI Commands:** curl (2), find (1)
@@ -1335,12 +1318,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### REST APIs: Constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980)
+#### [REST APIs: Constraints](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=0)** - [Instructor] As I noted earlier, REST is not a formal specification or standard itself, but it often uses some standards and some principles or constraints.
+> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=0)** - [Instructor] As I noted earlier, [[Representational State Transfer (REST)|REST]] is not a formal specification or standard itself, but it often uses some standards and some principles or constraints.
 >
 > **[0:10](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=10)** In this video, we'll talk about those specific constraints.
 >
@@ -1352,7 +1334,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=42)** This is the internet, so that shouldn't be too surprising.
 >
-> **[0:45](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=45)** The single biggest benefit to the setup is that it allows us to vary the implementation details, upgrade paths, and scalability of each independently of the other.
+> **[0:45](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=45)** The single biggest benefit to the setup is that it allows us to vary the implementation details, upgrade paths, and [[Scalability]] of each independently of the other.
 >
 > **[0:56](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=56)** The second constraint, that's that the API should be stateless.
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=139)** And it's the same result you got from the first request.
 >
-> **[2:22](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=142)** An idempotent request would be viewing of one of your GitHub repositories.
+> **[2:22](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=142)** An idempotent request would be viewing of one of your [[GitHub]] repositories.
 >
 > **[2:27](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=147)** You can request it all day long, and nothing will change.
 >
@@ -1402,7 +1384,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=187)** Those layers can be caching and a variety of other components.
 >
-> **[3:10](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=190)** We do this on the web every day when we have web servers talk to database servers.
+> **[3:10](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=190)** We do this on the web every day when we have [[Web Servers]] talk to database servers.
 >
 > **[3:14](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=194)** Most of the time, this just works.
 >
@@ -1420,13 +1402,13 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=241)** This architecture gives us the ability to add things like logging, access control, and caching to the system without architecting them in on day one.
 >
-> **[4:10](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=250)** The API management companies like Apigee and MuleSoft and many others take advantage of this aspect, to insert logging, access control, and even load balancing between you and the actual API.
+> **[4:10](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=250)** The [[API Management]] companies like Apigee and MuleSoft and many others take advantage of this aspect, to insert logging, access control, and even load balancing between you and the actual API.
 >
 > **[4:21](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-constraints?u=76281980&t=261)** Basically, layers give us flexibility to improve and evolve our system as our requirements and our architecture changes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), web (3), [[Representational State Transfer (REST)|Rest]] (2), application (2), database (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Scalability]] (1), [[GitHub]] (1), [[Web Servers]] (1), [[API Management]] (1)
 > **Env Vars:** api (6), rest (2), dns (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1435,12 +1417,11 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
 
-#### REST APIs: Code on demand and uniform interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980)
+#### [REST APIs: Code on demand and uniform interfaces](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=0)** - [Instructor] In this video, we'll talk about the final two constraints for REST API.
+> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=0)** - [Instructor] In this video, we'll talk about the final two constraints for [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:05](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=5)** The fifth constraint is optional, but probably the most powerful.
 >
@@ -1458,7 +1439,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=36)** At first glance, executing arbitrary third-party code sounds like a security nightmare, and it could be, but can you think of anywhere on the web or anywhere in your application that's already doing this?
 >
-> **[0:48](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=48)** Most of the internet does this with JavaScript.
+> **[0:48](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=48)** Most of the internet does this with [[JavaScript]].
 >
 > **[0:51](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=51)** When you load an application such as Gmail in your browser, it also retrieves the JavaScript required to interact with that page.
 >
@@ -1516,7 +1497,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=204)** So what does this look like in practice?
 >
-> **[3:27](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=207)** Here's an example from the GitHub API.
+> **[3:27](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=207)** Here's an example from the [[GitHub]] API.
 >
 > **[3:30](https://www.linkedin.com/learning/designing-restful-apis/rest-apis-code-on-demand-and-uniform-interfaces?u=76281980&t=210)** So we just hit the API just like we did before, api.[github.com](https://github.com), and now what we're going to see are a series of links.
 >
@@ -1550,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), application (4), [[JavaScript]] (4), [[GitHub]] (3), web (2)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[GitHub]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (10), url (5), hateoas (2), rest (1)
 > **URLs:** [amazon.com](https://amazon.com) (2), [github.com](https://github.com) (1)
 > **Tools:** github (3)
@@ -1564,12 +1545,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
+#### [Authentication and authorization](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=0)** - [Instructor] Now that we've covered your nouns and verbs and what REST is, let's talk about some of the common API design patterns that you'll use the tie them all together.
+> **[0:00](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=0)** - [Instructor] Now that we've covered your nouns and verbs and what [[Representational State Transfer (REST)|REST]] is, let's talk about some of the common API [[Design Patterns]] that you'll use the tie them all together.
 >
 > **[0:09](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=9)** We'll start with authentication and authorization, which are affectionately known as authn and authz.
 >
@@ -1579,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=21)** You do this every time you use a website with a username and password.
 >
-> **[0:25](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=25)** When I log into my banking website, I established that I am Keith, and it allows me to continue.
+> **[0:25](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=25)** When I log into my [[Banking]] website, I established that I am Keith, and it allows me to continue.
 >
 > **[0:30](https://www.linkedin.com/learning/designing-restful-apis/authentication-and-authorization-14392976?u=76281980&t=30)** But that's not where the process stops.
 >
@@ -1667,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Security]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Design Patterns]] (1), [[Banking]] (1)
 > **Env Vars:** api (5), url (2), rest (1)
 > **CLI Commands:** curl (1), make (1), find (1)
 > **Versions:** 2.0 (2)
@@ -1676,8 +1656,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Best Practices:** recommended (1)
 
-#### API versioning best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980)
+#### [API versioning best practices](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1695,7 +1674,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=42)** This is called content negotiation.
 >
-> **[0:44](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=44)** At the first level, the data types could be as simple as XML versus JSON.
+> **[0:44](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=44)** At the first level, the data types could be as simple as XML versus [[JSON]].
 >
 > **[0:49](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=49)** That's where most APIs will begin and end, and that's acceptable as long as you can parse the result.
 >
@@ -1729,7 +1708,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=148)** And even if someone forgets to include the headers, there's no question or additional effort required to figure out what data is involved.
 >
-> **[2:36](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=156)** In practical terms, this may look like a V1 in the URL, or even something like this from the Twilio API.
+> **[2:36](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=156)** In practical terms, this may look like a V1 in the URL, or even something like this from the [[Twilio]] API.
 >
 > **[2:43](https://www.linkedin.com/learning/designing-restful-apis/api-versioning-best-practices?u=76281980&t=163)** The 2010-04-01 portion of the URL is the version.
 >
@@ -1761,15 +1740,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), data (6), [[JSON]] (4), next (2), [[Twilio]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Twilio]] (2)
 > **Env Vars:** api (9), url (9), json (4), xml (1)
 > **Definitions:** means that (2), is called (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing media types and processing content
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980)
+#### [Choosing media types and processing content](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1777,13 +1755,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=11)** We haven't talked about how to choose what data needs to be in the payload and how to structure it.
 >
-> **[0:16](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=16)** In most cases, people will say, JSON and name value pairs are fine, and not worry about anything else.
+> **[0:16](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=16)** In most cases, people will say, [[JSON]] and name value pairs are fine, and not worry about anything else.
 >
 > **[0:22](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=22)** And I admit, that the flat key value pair structure is incredibly easy to consume.
 >
 > **[0:28](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=28)** The drawbacks are that it becomes harder to extend and almost impossible to add detail about the data.
 >
-> **[0:34](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=34)** Remember from earlier, one of the rest constraints is uniform interfaces.
+> **[0:34](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=34)** Remember from earlier, one of the [[Representational State Transfer (REST)|rest]] constraints is uniform interfaces.
 >
 > **[0:40](https://www.linkedin.com/learning/designing-restful-apis/choosing-media-types-and-processing-content-14394323?u=76281980&t=40)** And within that, our messages should be self descriptive.
 >
@@ -1867,14 +1845,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[JSON]] (5), api (1), [[Representational State Transfer (REST)|Rest]] (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** json (5), hal (4), api (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hypermedia approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980)
+#### [Hypermedia approaches](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1918,7 +1895,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980&t=91)** Even better, there are different discovery documents and formats that are currently under development that might tell our API client how to interact with the API.
 >
-> **[1:39](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980&t=99)** This is what it looks like in practice from the GitHub API.
+> **[1:39](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980&t=99)** This is what it looks like in practice from the [[GitHub]] API.
 >
 > **[1:43](https://www.linkedin.com/learning/designing-restful-apis/hypermedia-approaches-14398158?u=76281980&t=103)** We enter through a fixed entry point, api.[github.com](https://github.com), we make a request, we get back a series of URLs.
 >
@@ -1950,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[GitHub]] (3), next (2), game (1), web (1)
+> **Frameworks & Libraries:** [[GitHub]] (3)
 > **Env Vars:** api (8), url (4)
 > **Tools:** github (3), postman (1), command line (1)
 > **CLI Commands:** make (4)
@@ -1959,8 +1936,7 @@ created: 2026-05-02
 > **URLs:** [github.com](https://github.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advanced HTTP headers: Content negotiation and caching
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/advanced-http-headers-content-negotiation-and-caching-14396321?u=76281980)
+#### [Advanced HTTP headers: Content negotiation and caching](https://www.linkedin.com/learning/designing-restful-apis/advanced-http-headers-content-negotiation-and-caching-14396321?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2010,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (3), application (1), web (1), next (1)
 > **Env Vars:** api (3), http (2)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** we talked about (1), earlier in (1)
@@ -2042,8 +2017,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Documentation approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980)
+#### [Documentation approaches](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2055,9 +2029,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=11)** While your intention might be great, you'll have the problem of multiple versions floating around, no one knowing which version is right, and your customers never knowing if things are quite right.
 >
-> **[0:21](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=21)** If you really have a 100% private API and you don't want to share your documentation publicly, a Google site or similarly password protected tool is much better than a PDF.
+> **[0:21](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=21)** If you really have a 100% private API and you don't want to share your documentation publicly, a [[Google]] site or similarly password protected tool is much better than a PDF.
 >
-> **[0:32](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=32)** Alternatively, if you're posting your documentation on WordPress or some other CMS, that's marginally better, but still not great.
+> **[0:32](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=32)** Alternatively, if you're posting your documentation on [[WordPress]] or some other CMS, that's marginally better, but still not great.
 >
 > **[0:40](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=40)** When your API changes, the first question every user will have is, what has changed or what do I do differently?
 >
@@ -2075,7 +2049,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=77)** Syntax hiding is absolutely mandatory.
 >
-> **[1:20](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=80)** Next, we need version control.
+> **[1:20](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=80)** Next, we need [[Version Control]].
 >
 > **[1:22](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=82)** This is helpful to our users, which I already noted, but it's also important to our team.
 >
@@ -2095,7 +2069,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=127)** Thinking about tools, a Wiki is actually a strong option here.
 >
-> **[2:11](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=131)** Whether you're looking at MediaWiki, Confluence or something else entirely, most have syntax highlighting built in, or as a simple plugin.
+> **[2:11](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=131)** Whether you're looking at MediaWiki, [[Confluence]] or something else entirely, most have syntax highlighting built in, or as a simple plugin.
 >
 > **[2:19](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=139)** Obviously, since it's a Wiki, version control is built in, so that's covered.
 >
@@ -2119,11 +2093,11 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=193)** Syntax highlighting is very easy via plugins.
 >
-> **[3:17](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=197)** It doesn't have version control built in, but if you're storing the pages in Git, you already have that.
+> **[3:17](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=197)** It doesn't have version control built in, but if you're storing the pages in [[Git]], you already have that.
 >
 > **[3:22](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=202)** In fact, Git will let you have different branches for different versions of the docs and even private branches from other repositories.
 >
-> **[3:30](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=210)** So it becomes relatively easy to maintain, and definitely search engine friendly because it's just static HTML.
+> **[3:30](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=210)** So it becomes relatively easy to maintain, and definitely search engine friendly because it's just static [[HTML]].
 >
 > **[3:38](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=218)** The downside is that you're still working in raw text.
 >
@@ -2141,11 +2115,11 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=249)** It can be done usually in under five minutes.
 >
-> **[4:12](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=252)** Next, they've added some simple JavaScript plugins and CSS to add tabbing for different programming languages and examples.
+> **[4:12](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=252)** Next, they've added some simple [[JavaScript]] plugins and CSS to add tabbing for different programming languages and examples.
 >
 > **[4:19](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=259)** So as a result, you can have one text description and then display different snippets of different languages right there in context with the text, and then you can toggle between them.
 >
-> **[4:29](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=269)** More subtly, this is also done via URL in the documentation, so you link someone directly to the Java or the PHP or the Golang example that they need.
+> **[4:29](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=269)** More subtly, this is also done via URL in the documentation, so you link someone directly to the [[Java]] or the [[PHP]] or the Golang example that they need.
 >
 > **[4:40](https://www.linkedin.com/learning/designing-restful-apis/documentation-approaches-14398162?u=76281980&t=280)** And just remember that our goal here is that we want people to be successful with our API.
 >
@@ -2155,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), next (3), [[Version Control]] (3), [[Google]] (2), [[Confluence]] (2)
+> **Frameworks & Libraries:** [[Version Control]] (3), [[Google]] (2), [[Confluence]] (2), [[Git]] (2), [[WordPress]] (1)
 > **Env Vars:** api (6), pdf (2), cms (1), ide (1), html (1)
 > **CLI Commands:** git (2), make (1), ruby (1), php (1), find (1)
 > **Definitions:** is a  (1), is an  (1), is called (1), means that (1)
@@ -2164,8 +2138,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **UI Navigation:** toggle (1)
 
-#### SDK design considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980)
+#### [SDK design considerations](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2173,7 +2146,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=2)** You shouldn't need an SDK or helper library to use your API.
 >
-> **[0:06](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=6)** If you use the HTTP verbs, and response codes properly, you use JSON for your payloads, and the common authentication method, a simple HTTP library, and JSON parsing libraries should be enough.
+> **[0:06](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=6)** If you use the HTTP verbs, and response codes properly, you use [[JSON]] for your payloads, and the common authentication method, a simple HTTP library, and JSON parsing libraries should be enough.
 >
 > **[0:19](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=19)** While I'd love to go with that, most of us are doing something a little bit more complex with our API.
 >
@@ -2207,9 +2180,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=100)** Next, the I stands for idiomatic or reflecting the language it was written in.
 >
-> **[1:45](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=105)** That means a PHP SDK should have naming conventions, structures and patterns common to PHP.
+> **[1:45](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=105)** That means a [[PHP]] SDK should have naming conventions, structures and patterns common to PHP.
 >
-> **[1:52](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=112)** It shouldn't look and feel like Java.
+> **[1:52](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=112)** It shouldn't look and feel like [[Java]].
 >
 > **[1:54](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=114)** And finally, the L stands for logical.
 >
@@ -2231,7 +2204,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=153)** And the final thing to remember, before you start building SDKs, and your favorite languages, ask your existing users which ones they need?
 >
-> **[2:41](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=161)** You could build the perfect react library, but if nobody uses it, what was the point?
+> **[2:41](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=161)** You could build the perfect [[React.js|react]] library, but if nobody uses it, what was the point?
 >
 > **[2:46](https://www.linkedin.com/learning/designing-restful-apis/sdk-design-considerations-14396316?u=76281980&t=166)** Your time would have been better spent elsewhere or sometimes the other side of it is even worse.
 >
@@ -2241,7 +2214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[JSON]] (2), next (2), open-source (2), [[PHP]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[PHP]] (2), [[Java]] (1), [[React.js|React]] (1)
 > **Env Vars:** sdk (11), api (4), http (2), json (2), php (2)
 > **CLI Commands:** make (4), php (2)
 > **Definitions:** stands for (2)
@@ -2252,8 +2225,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps toward designing a RESTful API
-> [LinkedIn Learning](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)
+#### [Next steps toward designing a RESTful API](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2267,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980&t=22)** For online resources, I would recommend anything written by Mike Amundsen or from the API Craft mailing list.
 >
-> **[0:29](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980&t=29)** Mike is the author of "Collection+JSON," which we talked about earlier.
+> **[0:29](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980&t=29)** Mike is the author of "Collection+[[JSON]]," which we talked about earlier.
 >
 > **[0:32](https://www.linkedin.com/learning/designing-restful-apis/next-steps-toward-designing-a-restful-api?u=76281980&t=32)** Both are great places to collect and explore thoughts from some of the best and brightest.
 >
@@ -2287,7 +2259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), next (3), [[JSON]] (1), business (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (7), json (1)
 > **Code Identifiers:** theapidesignbook (1)
 > **URLs:** [theapidesignbook.com](https://theapidesignbook.com) (1)

@@ -109,35 +109,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Automating common Jira activities
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
+#### [Automating common Jira activities](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=0)** - Automation is the most fun part of Jira administration.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=0)** - Automation is the most fun part of [[Jira]] administration.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=4)** It's easy to build rules, so you and your users can focus on more important tasks instead.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=11)** With Atlassian's no-code engine and low-code apps from the marketplace, you can accomplish work faster, with less human error.
+> **[0:11](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=11)** With [[Atlassian]]'s no-code engine and low-code apps from the marketplace, you can accomplish work faster, with less human error.
 >
 > **[0:19](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=19)** In this course, you'll learn how to automate common Jira tasks to reduce manual work and human error, build custom rules that perform conditional actions, extend abilities with placeholders called smart values, leverage built-in automation capabilities, and leverage features provided by third-party apps from the Atlassian Marketplace.
 >
 > **[0:42](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=42)** Hi, I'm Rachel Wright.
 >
-> **[0:44](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=44)** Join my LinkedIn learning course to learn how to save time and effort by automating common activities and reducing clicks in Jira.
+> **[0:44](https://www.linkedin.com/learning/jira-administration-automation/automating-common-jira-activities?u=76281980&t=44)** Join my [[LinkedIn]] learning course to learn how to save time and effort by automating common activities and reducing clicks in Jira.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (2), [[Atlassian]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (2), [[LinkedIn]] (1)
 > **Tools:** jira (3)
 > **Speakers:** - automation (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps new and experienced Jira application administrators and project admins build and test custom automation rules.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=0)** - [Instructor] This course helps new and experienced [[Jira]] application administrators and project admins build and test custom automation rules.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=9)** It's also useful for anyone interested in improving team and process efficiency like project managers, leaders, and business analysts.
 >
@@ -151,13 +149,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=40)** You might have different colors, a different layout and customization specific to your company, your application type or deployment type.
 >
-> **[0:51](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=51)** We'll also discuss adding automation capabilities using apps from the Atlassian marketplace.
+> **[0:51](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=51)** We'll also discuss adding automation capabilities using apps from the [[Atlassian]] marketplace.
 >
 > **[0:57](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=57)** If you have Jira server, data center, or automation provided by a third party app, the concepts in this course will still apply to you.
 >
 > **[1:07](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=67)** But the user interface, specific capabilities, and implementation methods may differ slightly.
 >
-> **[1:14](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=74)** If you're new to Jira administration, take my basic and advanced administration courses here on LinkedIn first.
+> **[1:14](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=74)** If you're new to Jira administration, take my basic and advanced administration courses here on [[LinkedIn]] first.
 >
 > **[1:22](https://www.linkedin.com/learning/jira-administration-automation/who-is-this-course-for?u=76281980&t=82)** This course assumes you already know how to create, configure, and manage Jira projects and settings.
 >
@@ -165,17 +163,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (6), application (3), business (2), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Atlassian]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (6)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### What do you need for this course?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980)
+#### [What do you need for this course?](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you've been using Jira for a while and have experience managing Jira projects and working with issues.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=0)** - Ideally, you've been using [[Jira]] for a while and have experience managing Jira projects and working with issues.
 >
 > **[0:08](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=8)** All you need for this course is application level or project level administration access to a Jira application.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=34)** If you have Jira Cloud Premium or Enterprise, Sandbox functionality is already built in.
 >
-> **[0:41](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=41)** Access it from the products tab at admin.[atlassian.com](https://atlassian.com).
+> **[0:41](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=41)** Access it from the [[Microsoft Products|products]] tab at admin.[[[Atlassian]].com](https://atlassian.com).
 >
 > **[0:47](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=47)** If there's no existing test environment, sign up for your own free version of Jira Cloud.
 >
@@ -219,7 +216,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=119)** For some of you, I speak too slowly and for others, I speak too fast.
 >
-> **[2:05](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=125)** Luckily, the LinkedIn video player has some useful features to help you move at your own pace.
+> **[2:05](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=125)** Luckily, the [[LinkedIn]] video player has some useful features to help you move at your own pace.
 >
 > **[2:11](https://www.linkedin.com/learning/jira-administration-automation/what-do-you-need-for-this-course?u=76281980&t=131)** On the bottom left, use the skip back icon to rewind 10 seconds and hear information again.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), application (5), cloud (2), [[Microsoft Products|Products]] (2), next (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Microsoft Products|Products]] (2), [[Atlassian]] (1), [[LinkedIn]] (1)
 > **Tools:** jira (6)
 > **Env Vars:** url (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1)
@@ -243,20 +240,19 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - ideally (1)
 
-#### Important terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980)
+#### [Important terms and definitions](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=0)** - [Instructor] Before we get started, I wanted to refresh your memory of some terms from previous courses and introduce some new terms for this course.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=9)** An issue is an individual item in Jira.
+> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=9)** An issue is an individual item in [[Jira]].
 >
 > **[0:13](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=13)** Each time you create an item, you're creating a new issue with a unique key to identify it.
 >
 > **[0:20](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=20)** A project is a collection of issues.
 >
-> **[0:23](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=23)** Now, the word project in Jira is different than an initiative your team is working on outside of Jira.
+> **[0:23](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=23)** Now, the [[Microsoft Word|word]] project in Jira is different than an initiative your team is working on outside of Jira.
 >
 > **[0:29](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=29)** Think of a Jira project as a container for all your team's initiatives, tasks, and to do items.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=54)** In server and data center, they're called software, service and business.
 >
-> **[1:01](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=61)** Jira Cloud products also have plans.
+> **[1:01](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=61)** Jira Cloud [[Microsoft Products|products]] also have plans.
 >
 > **[1:05](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=65)** Now, this is important because plans have different monthly rule execution limits.
 >
@@ -320,7 +316,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=235)** Instead of hard coding a Jira issue key in an automation rule, you can use the format, issue.key enclosed in double curly brackets to insert it as a placeholder.
 >
-> **[4:08](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=248)** JSON stands for JavaScript object notation.
+> **[4:08](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=248)** [[JSON]] stands for [[JavaScript]] object notation.
 >
 > **[4:12](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=252)** It's a lightweight, universal way to store and transmit data in web applications.
 >
@@ -332,19 +328,19 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=272)** And finally, apps are extensions or modules that provide additional Jira functionality.
 >
-> **[4:39](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=279)** There are hundreds of free and paid apps in the Atlassian marketplace to add automation capabilities in Jira and between Jira and other applications.
+> **[4:39](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=279)** There are hundreds of free and paid apps in the [[Atlassian]] marketplace to add automation capabilities in Jira and between Jira and other applications.
 >
 > **[4:50](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=290)** This course contains a lot of Jira specific terminology.
 >
 > **[4:54](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=294)** I've made a glossary to help you with it for now and for later when navigating the Atlassian ecosystem.
 >
-> **[5:01](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=301)** Download my handout from the exercise files area in LinkedIn learning.
+> **[5:01](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=301)** Download my handout from the exercise files area in [[LinkedIn]] learning.
 >
 > **[5:06](https://www.linkedin.com/learning/jira-administration-automation/important-terms-and-definitions?u=76281980&t=306)** In the next section, we'll discuss the different types of automation, the benefits of using it and its capabilities in Jira.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (17), [[Automation]] (7), data (6), cloud (2), business (2)
+> **Frameworks & Libraries:** [[Jira]] (17), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1), [[JSON]] (1)
 > **Tools:** jira (17)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Cross-References:** later in (2), in the next (1)
@@ -358,8 +354,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Levels of automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
+#### [Levels of automation](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,9 +370,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=35)** These basic examples save time, so I can focus on other tasks.
 >
-> **[0:40](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=40)** Automation means different things to different people, and all of us are likely at different stages in our Jira journey.
+> **[0:40](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=40)** Automation means different things to different people, and all of us are likely at different stages in our [[Jira]] journey.
 >
-> **[0:48](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=48)** If you were previously using paper forms or emails to request things in your organization, then adopting Jira might've been the first step in automating your processes.
+> **[0:48](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=48)** If you were previously using paper [[Forms]] or emails to request things in your organization, then adopting Jira might've been the first step in automating your processes.
 >
 > **[1:00](https://www.linkedin.com/learning/jira-administration-automation/levels-of-automation?u=76281980&t=60)** After using Jira for a while, you likely explored built-in time-saving features, like component auto-assignment, workflow behaviors, like triggers, conditions, validators, and post functions, and custom notification events.
 >
@@ -387,18 +382,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), [[Jira]] (4), power (1), [[Forms]] (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Forms]] (1)
 > **Tools:** jira (4)
 > **Speakers:** - in (1)
 
-#### Automation benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980)
+#### [Automation benefits](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=0)** - [Presenter] Other industries like manufacturing, finance, and healthcare have all automated standard processes to accomplish things faster and with less human error.
 >
-> **[0:12](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=12)** We all have an endless list of Jira issues to work, transition, and update.
+> **[0:12](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=12)** We all have an endless list of [[Jira]] issues to work, transition, and update.
 >
 > **[0:17](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=17)** So it's time for us to benefit from automation capabilities so we can focus more on doing and less on tracking what we're doing.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=59)** Or when it's time to do a quarterly audit, automatically create all the tasks and remind the compliance team to start the process.
 >
-> **[1:09](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=69)** Finally, software can help improve data quality and reduce human error.
+> **[1:09](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=69)** Finally, software can help improve [[Data Quality]] and reduce human error.
 >
 > **[1:14](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=74)** I'm horrible at math, so I have Jira automatically sum up the travel expenses for accurate travel reimbursement requests.
 >
@@ -450,31 +444,30 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=201)** Well, yes, but that doesn't scale very well.
 >
-> **[3:25](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=205)** John McKiernan from Atlassian updated the quote at the Team 2021 user confluence.
+> **[3:25](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=205)** [[John the Ripper|John]] McKiernan from [[Atlassian]] updated the quote at the Team 2021 user [[Confluence]].
 >
 > **[3:32](https://www.linkedin.com/learning/jira-administration-automation/automation-benefits?u=76281980&t=212)** John said, "If you want a thing done well, let automation do it."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (9), [[Automation]] (6), data (3), business (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (9), [[John the Ripper|John]] (2), [[Data Quality]] (1), [[Atlassian]] (1), [[Confluence]] (1)
 > **Tools:** jira (9), confluence (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [presenter] (1)
 
-#### Capabilities in Jira
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980)
+#### [Capabilities in Jira](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=0)** - Before we move on, it's good to know that automation capabilities differ based on your application type, deployment type, and plan.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=10)** In cloud, Jira has built-in automation.
+> **[0:10](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=10)** In cloud, [[Jira]] has built-in automation.
 >
 > **[0:14](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=14)** The screenshot shows the built-in feature, additionally, you can use a variety of marketplace apps.
 >
-> **[0:22](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=22)** Jira Service Management also has built-in automation, plus some legacy capabilities that will one day be decommissioned, at that time, Atlassian will automatically migrate any rules from the Legacy version to the new version for you.
+> **[0:22](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=22)** Jira Service Management also has built-in automation, plus some legacy capabilities that will one day be decommissioned, at that time, [[Atlassian]] will automatically migrate any rules from the Legacy version to the new version for you.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-administration-automation/capabilities-in-jira?u=76281980&t=38)** You'll only see Legacy automation features if your cloud site was created before August 30th, 2021.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), [[Jira]] (4), cloud (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (1)
 > **Tools:** jira (4)
 > **Cross-References:** later in (1)
 > **Speakers:** - before (1)
@@ -508,12 +501,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
+#### [Using automation](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=0)** - Now let's take a high level tour of the built-in automation areas in Jira Cloud.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=0)** - Now let's take a high level tour of the built-in automation areas in [[Jira]] Cloud.
 >
 > **[0:06](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=6)** I'll show you the most important things to know so you can navigate to the right areas and get built in quickly.
 >
@@ -535,7 +527,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=52)** Filter the rules list by typing a keyword in the search box.
 >
-> **[0:56](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=56)** You can use a word in a rules name or description.
+> **[0:56](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=56)** You can use a [[Microsoft Word|word]] in a rules name or description.
 >
 > **[1:00](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=60)** To see global rules that apply to all projects, click the scope button.
 >
@@ -567,7 +559,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=129)** Click the rule name to read the description or access rule settings.
 >
-> **[2:14](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=134)** Sometimes I name rules with helpful terms like Slack reminder.
+> **[2:14](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=134)** Sometimes I name rules with helpful terms like [[Slack]] reminder.
 >
 > **[2:19](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=139)** This way I know the rule sends an alert to my team's chat room without needing to open the rule and review its settings.
 >
@@ -583,7 +575,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=180)** I usually leave my example rules disabled so they don't execute.
 >
-> **[3:05](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=185)** Finally, use the actions menu to copy, delete, or export an individual rule in JSON format.
+> **[3:05](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=185)** Finally, use the actions menu to copy, delete, or export an individual rule in [[JSON]] format.
 >
 > **[3:14](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=194)** The other place to access automation rules is from the system admin area.
 >
@@ -627,7 +619,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=321)** Get to the page using the ellipsis menu at the top right.
 >
-> **[5:25](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=325)** See the Atlassian documentation for more information about automation permissions.
+> **[5:25](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=325)** See the [[Atlassian]] documentation for more information about automation permissions.
 >
 > **[5:32](https://www.linkedin.com/learning/jira-administration-automation/using-automation?u=76281980&t=332)** Application admins are also able to extend rules to all projects of a certain type, like all service management projects, or to all projects in the entire application.
 >
@@ -705,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (18), [[Jira]] (12), application (7), next (4), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (12), [[Microsoft Word|Word]] (1), [[Slack]] (1), [[JSON]] (1), [[Atlassian]] (1)
 > **Tools:** jira (12), slack (1)
 > **UI Navigation:** navigate to (1), go to (1), open the (1), toggle (1), select the (1)
 > **Definitions:** is a  (4)
@@ -714,12 +706,11 @@ created: 2026-05-02
 > **Cross-References:** later in (2)
 > **Analogies:** for example (1), just like (1)
 
-#### Using and creating templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980)
+#### [Using and creating templates](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=0)** - Jira comes with automation templates to get you started.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=0)** - [[Jira]] comes with automation templates to get you started.
 >
 > **[0:03](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=3)** I'll show you how to use them and find others.
 >
@@ -743,7 +734,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=61)** To go back and explore other templates, click the Return to templates link.
 >
-> **[1:06](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=66)** Another place to find templates is in Atlassian's automation template library.
+> **[1:06](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=66)** Another place to find templates is in [[Atlassian]]'s automation template library.
 >
 > **[1:12](https://www.linkedin.com/learning/jira-administration-automation/using-and-creating-templates?u=76281980&t=72)** There are hundreds of examples, so you don't have to start from scratch.
 >
@@ -761,21 +752,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (5), [[Jira]] (3), [[Atlassian]] (2), application (2)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (2)
 > **Tools:** jira (3)
 > **CLI Commands:** find (2)
 > **Exercise Files:** template (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - jira (1)
 
-#### Creating custom rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980)
+#### [Creating custom rules](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=0)** - In addition to creating rules from templates, examples, or copying existing rules, you can also create your own custom rules.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=9)** To create a new rule in any Jira project, use the Create Rule button at the top right of the page.
+> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=9)** To create a new rule in any [[Jira]] project, use the Create Rule button at the top right of the page.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=16)** If you create a rule here, it will automatically be scoped to the specific project.
 >
@@ -793,9 +783,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=63)** Before we build a custom rule, we need to discuss rule instructions, which include triggers, conditions, branches, and actions.
 >
-> **[1:13](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=73)** Atlassian calls these instructions components.
+> **[1:13](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=73)** [[Atlassian]] calls these instructions components.
 >
-> **[1:17](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=77)** Now, the word component is also used to describe categorization and auto-assignment into Jira projects, and a categorization feature in Atlassian's Compass product.
+> **[1:17](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=77)** Now, the [[Microsoft Word|word]] component is also used to describe categorization and auto-assignment into Jira projects, and a categorization feature in Atlassian's Compass product.
 >
 > **[1:28](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=88)** The use of component in this context just means different parts of an automation rule.
 >
@@ -819,20 +809,19 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=144)** Here's an example use case for our custom rule.
 >
-> **[2:28](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=148)** The rule instructions are: In the human resources project, when an issue is completed and the resolution is done, add a comment to any linked issues.
+> **[2:28](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=148)** The rule instructions are: In the [[Human Resources (HR)|human resources]] project, when an issue is completed and the resolution is done, add a comment to any linked issues.
 >
 > **[2:40](https://www.linkedin.com/learning/jira-administration-automation/creating-custom-rules?u=76281980&t=160)** We'll start our creation process with a trigger.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Automation]] (2), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Atlassian]] (2), [[Microsoft Word|Word]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Tools:** jira (4)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
 
-#### Triggering rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980)
+#### [Triggering rules](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=8)** For example, run a rule when an issue is created, when an issue is assigned manually or on a set schedule.
 >
-> **[0:17](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=17)** There are many, many triggers to choose from based on what you want Jira to listen for.
+> **[0:17](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=17)** There are many, many triggers to choose from based on what you want [[Jira]] to listen for.
 >
 > **[0:23](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=23)** A trigger is always required and a rule can only have one.
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=35)** Let's translate this sentence into Jira requirements.
 >
-> **[0:40](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=40)** The scope of the rule is the Human Resources project.
+> **[0:40](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=40)** The scope of the rule is the [[Human Resources (HR)|Human Resources]] project.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-administration-automation/triggering-rules?u=76281980&t=45)** The trigger is when the issue is completed.
 >
@@ -872,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Human Resources (HR)|Human resources]] (2), [[Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Human Resources (HR)|Human resources]] (2)
 > **Tools:** jira (3)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** go to (1)
@@ -880,8 +869,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980)
+#### [Adding conditions](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980&t=28)** The condition is the resolution equals Done.
 >
-> **[0:31](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980&t=31)** In Jira terms, that means we'll need to use the Issue fields condition and set it to apply to issues with the Done resolution.
+> **[0:31](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980&t=31)** In [[Jira]] terms, that means we'll need to use the Issue fields condition and set it to apply to issues with the Done resolution.
 >
 > **[0:40](https://www.linkedin.com/learning/jira-administration-automation/adding-conditions?u=76281980&t=40)** We've already added the trigger, so now let's add the condition.
 >
@@ -913,7 +901,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Jira]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Env Vars:** jql (1)
 > **Documentation:** the documentation (1)
 > **Tools:** jira (1)
@@ -921,8 +909,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using branches
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-branches?u=76281980)
+#### [Using branches](https://www.linkedin.com/learning/jira-administration-automation/using-branches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,13 +941,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980)
+#### [Leveraging actions](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +959,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980&t=26)** The action is to add a comment.
 >
-> **[0:29](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980&t=29)** In Jira terms, that means we'll need to use the Comment on issue action and specify the comment copy.
+> **[0:29](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980&t=29)** In [[Jira]] terms, that means we'll need to use the Comment on issue action and specify the comment copy.
 >
 > **[0:37](https://www.linkedin.com/learning/jira-administration-automation/leveraging-actions?u=76281980&t=37)** Now let's add the action.
 >
@@ -1000,14 +985,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Cross-References:** in the next (1)
 > **Documentation:** the documentation (1)
 > **Tools:** jira (1)
 > **Speakers:** - actions (1)
 
-#### Testing rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980)
+#### [Testing rules](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1025,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980&t=30)** Always test new or updated rules in a sandbox environment first.
 >
-> **[0:36](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980&t=36)** If you don't have a test environment, at least create a test Jira project in your production application.
+> **[0:36](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980&t=36)** If you don't have a test environment, at least create a test [[Jira]] project in your production application.
 >
 > **[0:42](https://www.linkedin.com/learning/jira-administration-automation/testing-rules?u=76281980&t=42)** Next, limit the scope as much as possible in the beginning.
 >
@@ -1137,7 +1121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (8), next (4), [[Jira]] (3), application (2), data (2)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **CLI Commands:** make (9)
 > **Env Vars:** jql (4)
 > **Tools:** jira (3)
@@ -1146,8 +1130,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Create a common rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980)
+#### [Challenge: Create a common rule](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1138,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980&t=6)** - [Instructor] Here's your challenge.
 >
-> **[0:07](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980&t=7)** Create a manual rule that finds all issues in a Jira project that contain any specific term that you choose.
+> **[0:07](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980&t=7)** Create a manual rule that finds all issues in a [[Jira]] project that contain any specific term that you choose.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-common-rule?u=76281980&t=16)** Then automatically assign those issues to yourself.
 >
@@ -1172,8 +1155,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright uptempo music) (1)
 
-#### Solution: Create a common rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980)
+#### [Solution: Create a common rule](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1167,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980&t=12)** First, I added a manual trigger and restricted the rule to users in the Administrator's Group, then I added an if or else condition.
 >
-> **[0:21](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980&t=21)** In the Condition Settings, I specified that all provided conditions must match, and I added a JQL statement to find issues with the word intranet in the Summary, Body or Comment section.
+> **[0:21](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980&t=21)** In the Condition Settings, I specified that all provided conditions must match, and I added a JQL statement to find issues with the [[Microsoft Word|word]] intranet in the Summary, Body or Comment section.
 >
 > **[0:35](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-common-rule?u=76281980&t=35)** Finally, I added an Assign issue action, and selected my username.
 >
@@ -1199,7 +1181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jql (1)
 > **Speakers:** - [instructor] (1)
@@ -1210,8 +1192,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Maintaining rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
+#### [Maintaining rules](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1204,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980&t=13)** Here are some tips for effectively managing your rule library.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980&t=18)** Just like with other Jira schemes and settings, it's important to have a classification and naming strategy.
+> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980&t=18)** Just like with other [[Jira]] schemes and settings, it's important to have a classification and naming strategy.
 >
 > **[0:25](https://www.linkedin.com/learning/jira-administration-automation/maintaining-rules?u=76281980&t=25)** In my Jira application, I like to use the labels feature to answer the question, what does the rule do?
 >
@@ -1297,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Search]] (4), next (3), [[Automation]] (2), feature (2)
+> **Frameworks & Libraries:** [[Jira]] (4)
 > **Tools:** jira (4)
 > **Env Vars:** sla (2)
 > **CLI Commands:** find (1)
@@ -1305,16 +1286,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - when (1)
 
-#### Importing and exporting rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980)
+#### [Importing and exporting rules](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=0)** - Next we'll discuss using Jira's import and export feature to move, backup, and search within rule settings.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=0)** - Next we'll discuss using [[Jira]]'s import and export feature to move, backup, and search within rule settings.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=9)** The import feature allows you to move rules to other cloud environments, like a sandbox.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=15)** The export feature allows you to save rule configurations in JSON format.
+> **[0:15](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=15)** The export feature allows you to save rule configurations in [[JSON]] format.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=21)** Exporting is a great way to keep a local backup.
 >
@@ -1322,7 +1302,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=32)** Exporting also gives you a headstart on documenting rule components.
 >
-> **[0:38](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=38)** In February, 2024, Atlassian reported that automation rules were losing configuration data.
+> **[0:38](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=38)** In February, 2024, [[Atlassian]] reported that automation rules were losing configuration data.
 >
 > **[0:45](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=45)** As a result, rule runs were failing and Jira admins were left either waiting for a vendor fix or trying to manually restore their configuration settings.
 >
@@ -1354,7 +1334,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=130)** Let's explore the contents of a JSON file for a single rule.
 >
-> **[2:14](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=134)** I open the exported file in a text editor and pasted the contents into Confluence so I could take advantage of the automatic color coding feature.
+> **[2:14](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=134)** I open the exported file in a text editor and pasted the contents into [[Confluence]] so I could take advantage of the automatic color coding feature.
 >
 > **[2:24](https://www.linkedin.com/learning/jira-administration-automation/importing-and-exporting-rules?u=76281980&t=144)** You don't need to be a programmer to benefit from the information in this file.
 >
@@ -1424,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), [[Jira]] (9), next (5), feature (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Jira]] (9), [[Atlassian]] (3), [[Confluence]] (1)
 > **Env Vars:** json (10), url (1), jql (1)
 > **Tools:** jira (9), confluence (1)
 > **UI Navigation:** open the (2), select the (2), go to (1)
@@ -1433,8 +1413,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Best Practices:** general rule (1)
 
-#### Documenting rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980)
+#### [Documenting rules](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,11 +1459,11 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=107)** Here's a documentation example.
 >
-> **[1:50](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=110)** At the top are all the rule details, like the rule's ID, a link to the rule settings in Jira, and the Jira issue requesting the functionality.
+> **[1:50](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=110)** At the top are all the rule details, like the rule's ID, a link to the rule settings in [[Jira]], and the Jira issue requesting the functionality.
 >
 > **[2:00](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=120)** Next, I attach a screenshot of the rule instructions which shows a high-level overview of the steps.
 >
-> **[2:07](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=127)** I also attach or paste in the rule's JSON code.
+> **[2:07](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=127)** I also attach or paste in the rule's [[JSON]] code.
 >
 > **[2:12](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=132)** Next, I list each component in the order they appear and any related settings.
 >
@@ -1506,11 +1485,11 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=188)** I've created a version of this documentation that you can use to craft your own.
 >
-> **[3:13](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=193)** Download my handout from the exercise files area in LinkedIn Learning.
+> **[3:13](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=193)** Download my handout from the exercise files area in [[LinkedIn]] Learning.
 >
-> **[3:18](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=198)** Finally, I wanted to share some exciting capabilities coming our way through artificial intelligence.
+> **[3:18](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=198)** Finally, I wanted to share some exciting capabilities coming our way through [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[3:24](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=204)** Atlassian and app developers are creating exciting new ways to build and document automation rules.
+> **[3:24](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=204)** [[Atlassian]] and app developers are creating exciting new ways to build and document automation rules.
 >
 > **[3:31](https://www.linkedin.com/learning/jira-administration-automation/documenting-rules?u=76281980&t=211)** Here's a brief example.
 >
@@ -1538,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (7), [[Automation]] (5), ai (4), next (4), [[Atlassian]] (4)
+> **Frameworks & Libraries:** [[Jira]] (7), [[Atlassian]] (4), [[JSON]] (1), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Tools:** jira (7)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** json (1), url (1)
@@ -1547,8 +1526,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Monitoring usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980)
+#### [Monitoring usage](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=3)** In this section, I'll show you how to view, monitor, and manage your application's limit.
 >
-> **[0:10](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=10)** We previously discussed that the different Jira cloud plans have different automation execution limits.
+> **[0:10](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=10)** We previously discussed that the different [[Jira]] cloud plans have different automation execution limits.
 >
 > **[0:17](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=17)** Here are the limits in the different Jira software plans.
 >
@@ -1570,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=46)** Keep in mind this is a test application, so there's not much activity to show.
 >
-> **[0:52](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=52)** The first table shows the current month statistics, including executions used and remaining.
+> **[0:52](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=52)** The first table shows the current month [[Statistics]], including executions used and remaining.
 >
 > **[0:58](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=58)** Any rule that performs at least one successful action is counted as an execution.
 >
@@ -1610,11 +1588,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=180)** Finally, also consider leveraging marketplace apps, which may not have rule execution limits.
 >
-> **[3:07](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=187)** See Atlassian's documentation for additional reduction methods and advice.
+> **[3:07](https://www.linkedin.com/learning/jira-administration-automation/monitoring-usage?u=76281980&t=187)** See [[Atlassian]]'s documentation for additional reduction methods and advice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Jira]] (6), next (4), hit (2), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Statistics]] (1), [[Atlassian]] (1)
 > **Tools:** jira (6)
 > **Env Vars:** jql (1)
 > **UI Navigation:** go to (1)
@@ -1622,8 +1600,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
 
-#### Troubleshooting errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980)
+#### [Troubleshooting errors](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1631,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980&t=4)** In this section, we'll discuss where to look and what to do when you encounter them.
 >
-> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980&t=9)** I previously mentioned that you can see the status of each rule run from an impacted Jira issue.
+> **[0:09](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980&t=9)** I previously mentioned that you can see the status of each rule run from an impacted [[Jira]] issue.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-administration-automation/troubleshooting-errors?u=76281980&t=16)** The example shows that there were some errors the last time the rule was run for this issue.
 >
@@ -1683,15 +1660,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (6), [[Jira]] (3), next (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Env Vars:** success (1), config (1), change (1), actions (1), performed (1)
 > **Tools:** jira (3)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
 
-#### Challenge: Back up a rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980)
+#### [Challenge: Back up a rule](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,19 +1677,18 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980&t=8)** Pick an automation rule to back up.
 >
-> **[0:11](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980&t=11)** Use the export feature and save the JSON file in a safe place.
+> **[0:11](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980&t=11)** Use the export feature and save the [[JSON]] file in a safe place.
 >
 > **[0:16](https://www.linkedin.com/learning/jira-administration-automation/challenge-back-up-a-rule?u=76281980&t=16)** Then document the rules, details, and components.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), feature (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [speaker] (1)
 > **Non-Speech:** (cool upbeat music) (1)
 
-#### Solution: Back up a rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/solution-back-up-a-rule?u=76281980)
+#### [Solution: Back up a rule](https://www.linkedin.com/learning/jira-administration-automation/solution-back-up-a-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,7 +1712,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
@@ -1748,8 +1722,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using smart values
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
+#### [Using smart values](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1771,7 +1744,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980&t=48)** In the example, the highlighted areas are all variables.
 >
-> **[0:53](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980&t=53)** You can use the same substitution concept in Jira for customizing comment and notification copy, setting and copying field values, formatting and calculating totals and dates, and more.
+> **[0:53](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980&t=53)** You can use the same substitution concept in [[Jira]] for customizing comment and notification copy, setting and copying field values, formatting and calculating totals and dates, and more.
 >
 > **[1:08](https://www.linkedin.com/learning/jira-administration-automation/using-smart-values?u=76281980&t=68)** Jira stores a ton of data, so it's great to be able to use all of that info in a dynamic way.
 >
@@ -1801,18 +1774,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), data (2), [[Programming]] (1), product (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Tools:** jira (3)
 > **Env Vars:** issue (1), url (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - so (1)
 
-#### Accessing project and issue data
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980)
+#### [Accessing project and issue data](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=0)** - In this section, I'll share some easy ways to determine smart value capabilities to access Jira project and issue data.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=0)** - In this section, I'll share some easy ways to determine smart value capabilities to access [[Jira]] project and issue data.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=9)** First, try this URL format for an easy way to get issue configuration information like custom field names.
 >
@@ -1820,7 +1792,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=21)** Just make sure you're logged into Jira and paste the URL displayed in your browser's address bar.
 >
-> **[0:28](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=28)** For example, if I'm looking for a field or value used in issue service 14, I can simply embed that ID in the REST API URL to see all the available data.
+> **[0:28](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=28)** For example, if I'm looking for a field or value used in issue service 14, I can simply embed that ID in the [[Representational State Transfer (REST)|REST]] API URL to see all the available data.
 >
 > **[0:42](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=42)** More information about finding smart values is available in the documentation.
 >
@@ -1832,7 +1804,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=66)** In the overlay, use the search box, use the tabs or scroll through the recommendations list for examples and usage tips.
 >
-> **[1:16](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=76)** Finally, Atlassian has completed a list of smart values in their documentation.
+> **[1:16](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=76)** Finally, [[Atlassian]] has completed a list of smart values in their documentation.
 >
 > **[1:22](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=82)** Visit the URL shown for example, values, formats, and examples.
 >
@@ -1846,7 +1818,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=107)** Here's a tip, copy the syntax in the handout to create your own smart value library.
 >
-> **[1:53](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=113)** I store frequently used values and functions in Confluence or in a disabled automation rule, so they're easy to repurpose.
+> **[1:53](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=113)** I store frequently used values and functions in [[Confluence]] or in a disabled automation rule, so they're easy to repurpose.
 >
 > **[2:02](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=122)** All right, onto some Jira project and issue smart value examples.
 >
@@ -1882,7 +1854,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=222)** Here's how to turn URLs into hyperlinks in other areas.
 >
-> **[3:47](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=227)** In HTML, embed the issue URL smart value in href tag and use the issue key smart value as the clickable text.
+> **[3:47](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=227)** In [[HTML]], embed the issue URL smart value in href tag and use the issue key smart value as the clickable text.
 >
 > **[3:57](https://www.linkedin.com/learning/jira-administration-automation/accessing-project-and-issue-data?u=76281980&t=237)** In Wiki markup surround the issue key and issue URL in single square brackets.
 >
@@ -1892,7 +1864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (8), data (5), next (3), [[Representational State Transfer (REST)|Rest]] (2), api (2)
+> **Frameworks & Libraries:** [[Jira]] (8), [[Representational State Transfer (REST)|Rest]] (2), [[Atlassian]] (1), [[Confluence]] (1), [[HTML]] (1)
 > **Env Vars:** url (7), rest (2), api (2), html (1)
 > **Tools:** jira (8), confluence (1)
 > **Analogies:** for example (2)
@@ -1901,8 +1873,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** don't forget (1)
 
-#### Working with user properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980)
+#### [Working with user properties](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,25 +1883,25 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=10)** In Cloud, usernames are a long stream of letters and numbers.
 >
-> **[0:15](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=15)** They're set by Atlassian and there's no way to change them.
+> **[0:15](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=15)** They're set by [[Atlassian]] and there's no way to change them.
 >
-> **[0:19](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=19)** This value is used across Cloud sites and products.
+> **[0:19](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=19)** This value is used across Cloud sites and [[Microsoft Products|products]].
 >
 > **[0:23](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=23)** To find a username in Cloud, visit a user's profile and look for their unique ID in the browser's address bar.
 >
-> **[0:31](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=31)** You'll find it just after the word users.
+> **[0:31](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=31)** You'll find it just after the [[Microsoft Word|word]] users.
 >
 > **[0:35](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=35)** Once you have the ID, you can use it in rules or to access other user profile details.
 >
 > **[0:41](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=41)** Just plug it into the example URL as shown.
 >
-> **[0:45](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=45)** In server and data center, usernames are created by Jira administrators.
+> **[0:45](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=45)** In server and data center, usernames are created by [[Jira]] administrators.
 >
 > **[0:50](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=50)** They're generally in the format first.last, flast, or sometimes they're an email address.
 >
 > **[0:58](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=58)** In server and data center, usernames are easy to find.
 >
-> **[1:02](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=62)** They're listed on the user management admin page.
+> **[1:02](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=62)** They're listed on the [[User Management]] admin page.
 >
 > **[1:07](https://www.linkedin.com/learning/jira-administration-automation/working-with-user-properties?u=76281980&t=67)** Here's the URL format to retrieve user profile information in server and data center.
 >
@@ -1990,7 +1961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), data (4), cloud (4), [[Atlassian]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Atlassian]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1), [[User Management]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** url (2)
@@ -1999,8 +1970,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Leveraging dates and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980)
+#### [Leveraging dates and times](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2046,7 +2016,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980&t=112)** In the second example, I used the letter m to return only the minute of the current hour.
 >
-> **[2:00](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980&t=120)** The pattern syntax to use is detailed in the Java documentation on Oracle's website.
+> **[2:00](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980&t=120)** The pattern syntax to use is detailed in the [[Java]] documentation on Oracle's website.
 >
 > **[2:07](https://www.linkedin.com/learning/jira-administration-automation/leveraging-dates-and-times?u=76281980&t=127)** Finally, you can convert dates using the convert to time zone element.
 >
@@ -2066,7 +2036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1), [[Java]] (1), database (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Env Vars:** utc (4), url (4)
 > **Code Identifiers:** mediumdate (1), startofmonth (1), endofmonth (1), firstbusinessdayofmonth (1), minusdays (1)
 > **Analogies:** for example (2), just like (1)
@@ -2074,8 +2044,7 @@ created: 2026-05-02
 > **URLs:** [timeanddate.com](https://timeanddate.com) (1)
 > **Speakers:** - now (1)
 
-#### Using conditional logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980)
+#### [Using conditional logic](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2085,7 +2054,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980&t=8)** In this conditional example, I'm checking to see if a field has a value using not and isEmpty.
 >
-> **[0:16](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980&t=16)** If the priority field is not empty, Jira adds a supplied copy to the comment.
+> **[0:16](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980&t=16)** If the priority field is not empty, [[Jira]] adds a supplied copy to the comment.
 >
 > **[0:22](https://www.linkedin.com/learning/jira-administration-automation/using-conditional-logic?u=76281980&t=22)** In this example, I'm using equals to check for a specific value.
 >
@@ -2102,8 +2071,7 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Speakers:** - in (1)
 
-#### Performing calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980)
+#### [Performing calculations](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2117,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=20)** It takes a number in a custom field and rounds it up to the next whole number.
 >
-> **[0:25](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=25)** For example, if the value 10.55 is present in a custom number field called Mileage, Jira rounds it to 11.
+> **[0:25](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=25)** For example, if the value 10.55 is present in a custom number field called Mileage, [[Jira]] rounds it to 11.
 >
 > **[0:34](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=34)** The next example shows simple multiplication.
 >
@@ -2165,11 +2133,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=159)** As a reminder, all these smart value examples are available as a downloadable handout.
 >
-> **[2:45](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=165)** To see additional examples, see Atlassian's documentation at the URL shown.
+> **[2:45](https://www.linkedin.com/learning/jira-administration-automation/performing-calculations?u=76281980&t=165)** To see additional examples, see [[Atlassian]]'s documentation at the URL shown.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Jira]] (3), data (1), [[Automation]] (1), [[Atlassian]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[Atlassian]] (1)
 > **Versions:** 1.2 (2), 10.55 (1)
 > **Tools:** jira (3)
 > **Env Vars:** round (1), url (1)
@@ -2178,14 +2146,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - finally (1)
 
-#### Challenge: Create a rule with smart values
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980)
+#### [Challenge: Create a rule with smart values](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980&t=0)** - Your challenge for this section is to create a rule that sends an email message that utilizes smart values.
 >
-> **[0:13](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980&t=13)** Now, these requirements are intentionally loose so you don't mess up your Jira configuration building a specific use case.
+> **[0:13](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980&t=13)** Now, these requirements are intentionally loose so you don't mess up your [[Jira]] configuration building a specific use case.
 >
 > **[0:21](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-a-rule-with-smart-values?u=76281980&t=21)** For smart values, just use fields you already have in your application, like summary, assignee, due date, and priority to dynamically populate issue data in an email message.
 >
@@ -2193,14 +2160,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (2), application (2), data (1), next (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Jira]] (2)
 > **Tools:** jira (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - your (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a rule with smart values
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980)
+#### [Solution: Create a rule with smart values](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2210,7 +2176,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=16)** Consider this scenario.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=18)** The customer uses Jira to collect purchase requests, but not all their vendors have online ordering.
+> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=18)** The customer uses [[Jira]] to collect purchase requests, but not all their vendors have online ordering.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=24)** Instead, the purchase manager calls or emails the supplier to order items.
 >
@@ -2234,7 +2200,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=83)** The message contains smart values to substitute the Send To email address, the vendor's name, and additional order details stored in custom fields.
 >
-> **[1:34](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=94)** The message also contains some HTML line breaks for spacing.
+> **[1:34](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=94)** The message also contains some [[HTML]] line breaks for spacing.
 >
 > **[1:39](https://www.linkedin.com/learning/jira-administration-automation/solution-create-a-rule-with-smart-values?u=76281980&t=99)** Finally, an Add Comment action records the information sent, so there's a record and a timestamp.
 >
@@ -2304,7 +2270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), [[Jira]] (5), [[Automation]] (3), [[HTML]] (1), application (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[HTML]] (1)
 > **Tools:** jira (5)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** ascurrency (2)
@@ -2318,8 +2284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating information
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
+#### [Communicating information](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2335,7 +2300,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=24)** Create separate issues as reminders.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=27)** Automatically link to related information inside or outside Jira, and more.
+> **[0:27](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=27)** Automatically link to related information inside or outside [[Jira]], and more.
 >
 > **[0:33](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=33)** Just be careful not to duplicate existing functionality.
 >
@@ -2367,7 +2332,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=113)** Now let's review the result.
 >
-> **[1:55](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=115)** Here's a system problem where the summary contains the word outage.
+> **[1:55](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=115)** Here's a system problem where the summary contains the [[Microsoft Word|word]] outage.
 >
 > **[1:59](https://www.linkedin.com/learning/jira-administration-automation/communicating-information?u=76281980&t=119)** The issue has multiple components selected.
 >
@@ -2377,14 +2342,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (4), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Jira]] (4), [[Microsoft Word|Word]] (1)
 > **Tools:** jira (4)
 > **Env Vars:** jql (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - in (1)
 
-#### Updating information
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980)
+#### [Updating information](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2406,7 +2370,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980&t=42)** Then, a condition makes sure the automation only applies to bug issues.
 >
-> **[0:47](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980&t=47)** Finally, there's an Edit issues action with a little bit of JSON code.
+> **[0:47](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980&t=47)** Finally, there's an Edit issues action with a little bit of [[JSON]] code.
 >
 > **[0:52](https://www.linkedin.com/learning/jira-administration-automation/updating-information?u=76281980&t=52)** The code updates a specific custom field by incrementing its value.
 >
@@ -2422,14 +2386,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** json (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repeating frequent tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/repeating-frequent-tasks?u=76281980)
+#### [Repeating frequent tasks](https://www.linkedin.com/learning/jira-administration-automation/repeating-frequent-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2459,12 +2422,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (1)
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syncing information
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980)
+#### [Syncing information](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2478,7 +2439,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980&t=27)** Here's an example of one of those ideas.
 >
-> **[0:30](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980&t=30)** This example looks for a Jira issue ID in a comment and automatically links that issue to the other issue.
+> **[0:30](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980&t=30)** This example looks for a [[Jira]] issue ID in a comment and automatically links that issue to the other issue.
 >
 > **[0:38](https://www.linkedin.com/learning/jira-administration-automation/syncing-information?u=76281980&t=38)** The rule runs when a new comment is added, then a smart values condition is used to look for an issue ID in the comment's copy.
 >
@@ -2496,17 +2457,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), data (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Tools:** jira (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performing maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/performing-maintenance?u=76281980)
+#### [Performing maintenance](https://www.linkedin.com/learning/jira-administration-automation/performing-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/performing-maintenance?u=76281980&t=0)** - [Instructor] Here are some ideas for maintaining lists of Jira issues.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/performing-maintenance?u=76281980&t=0)** - [Instructor] Here are some ideas for maintaining lists of [[Jira]] issues.
 >
 > **[0:04](https://www.linkedin.com/learning/jira-administration-automation/performing-maintenance?u=76281980&t=4)** Ideally, each Jira project has a lead that helps spot and address these issues, but automation can help lessen the burden.
 >
@@ -2540,21 +2500,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (3), data (1), management (1)
+> **Frameworks & Libraries:** [[Jira]] (3)
 > **Tools:** jira (3)
 > **Env Vars:** jql (1), jsm (1)
 > **Code Identifiers:** displayname (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sending alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980)
+#### [Sending alerts](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980&t=0)** - [Instructor] Here are some ideas for sending alerts, for meeting deadlines, managing missing issue data, and catching undesired behavior, like user's about to miss a completion deadline.
 >
-> **[0:12](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980&t=12)** Again, make sure you're providing additional value and not duplicating built-in Jira notification capabilities.
+> **[0:12](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980&t=12)** Again, make sure you're providing additional value and not duplicating built-in [[Jira]] notification capabilities.
 >
 > **[0:19](https://www.linkedin.com/learning/jira-administration-automation/sending-alerts?u=76281980&t=19)** Here's an example of one of these ideas.
 >
@@ -2584,14 +2543,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Jira]] (1), next (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **Env Vars:** sla (2), ceo (2), vip (1), jql (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating information
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980)
+#### [Calculating information](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2615,20 +2573,19 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980&t=48)** I'll trigger the manual automation to calculate the total.
 >
-> **[0:53](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980&t=53)** If you need some additional inspiration, here's my list of 65 ways you can use automation to make your Jira life easier.
+> **[0:53](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980&t=53)** If you need some additional inspiration, here's my list of 65 ways you can use automation to make your [[Jira]] life easier.
 >
 > **[1:01](https://www.linkedin.com/learning/jira-administration-automation/calculating-information?u=76281980&t=61)** You can accomplish all of the ideas with built-in automation, workflow extensions, and scheduling apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Jira]] (1)
+> **Frameworks & Libraries:** [[Jira]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** jql (1)
 > **Tools:** jira (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create an advanced rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-an-advanced-rule?u=76281980)
+#### [Challenge: Create an advanced rule](https://www.linkedin.com/learning/jira-administration-automation/challenge-create-an-advanced-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2650,14 +2607,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (1), next (1)
 > **Env Vars:** url (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create an advanced rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980)
+#### [Solution: Create an advanced rule](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2683,7 +2638,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980&t=55)** Next, I use smart values in the email subject line and content fields.
 >
-> **[1:00](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980&t=60)** The content field supports HTML, so I added a hyperlink and some basic formatting.
+> **[1:00](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980&t=60)** The content field supports [[HTML]], so I added a hyperlink and some basic formatting.
 >
 > **[1:05](https://www.linkedin.com/learning/jira-administration-automation/solution-create-an-advanced-rule?u=76281980&t=65)** Finally, I added a function to display the names of the watchers as a list.
 >
@@ -2713,7 +2668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1), [[HTML]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** jql (2), html (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - were (1)
@@ -2724,16 +2679,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Post functions with JMWE
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
+#### [Post functions with JMWE](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=0)** - In addition to built-in capabilities, you can also add automation functionality through third-party apps in the Atlassian Marketplace.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=0)** - In addition to built-in capabilities, you can also add automation functionality through third-party apps in the [[Atlassian]] Marketplace.
 >
 > **[0:09](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=9)** Apps allow all sorts of additional features through workflow behaviors, scheduled or event-based actions, triggered alerts and more.
 >
-> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=18)** You can even use apps to automate Jira configuration changes and the testing process.
+> **[0:18](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=18)** You can even use apps to automate [[Jira]] configuration changes and the testing process.
 >
 > **[0:24](https://www.linkedin.com/learning/jira-administration-automation/post-functions-with-jmwe?u=76281980&t=24)** Next, let's explore some automation capabilities provided by third-party apps.
 >
@@ -2795,14 +2749,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), [[Automation]] (4), [[Atlassian]] (1), next (1), cloud (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[Atlassian]] (1)
 > **Tools:** jira (5)
 > **Env Vars:** jmwe (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - in (1)
 
-#### Scheduled actions with JMWE
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980)
+#### [Scheduled actions with JMWE](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2814,7 +2767,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=15)** At one company, external users call-in to report problems.
 >
-> **[0:20](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=20)** The customer service team files bugs in Jira on their behalf, but because the callers aren't Jira users, they can't access the issue to view their status or receive email updates.
+> **[0:20](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=20)** The customer service team files bugs in [[Jira]] on their behalf, but because the callers aren't Jira users, they can't access the issue to view their status or receive email updates.
 >
 > **[0:32](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=32)** Luckily, the JMWE app can send email notifications to any email address.
 >
@@ -2846,7 +2799,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=102)** Here are the specific settings.
 >
-> **[1:44](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=104)** First, select the issues to include, then enter the email subject line and content for the text and HTML messages.
+> **[1:44](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=104)** First, select the issues to include, then enter the email subject line and content for the text and [[HTML]] messages.
 >
 > **[1:53](https://www.linkedin.com/learning/jira-administration-automation/scheduled-actions-with-jmwe?u=76281980&t=113)** You can use placeholders here, which are similar in format to smart values.
 >
@@ -2862,7 +2815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (5), next (3), data (2), cloud (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Jira]] (5), [[HTML]] (1)
 > **Env Vars:** jmwe (2), jql (2), html (1)
 > **Tools:** jira (5)
 > **UI Navigation:** select the (4)
@@ -2871,14 +2824,13 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Prerequisites:** configure (1)
 
-#### Event-based actions with JMWE
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980)
+#### [Event-based actions with JMWE](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=0)** - Here's one more JMWE example showing event-based actions.
 >
-> **[0:05](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=5)** These actions run when something specific happens in a Jira issue, like an edit or transition.
+> **[0:05](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=5)** These actions run when something specific happens in a [[Jira]] issue, like an edit or transition.
 >
 > **[0:12](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=12)** In the "Updating Information" section of this course, I showed you how to create an automation that counts how many times testing failed.
 >
@@ -2904,26 +2856,25 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=76)** On the left, this was accomplished using a built-in increased field value function, and you can also do it with code.
 >
-> **[1:24](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=84)** On the right, this was accomplished with a smart value within JSON code.
+> **[1:24](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=84)** On the right, this was accomplished with a smart value within [[JSON]] code.
 >
 > **[1:29](https://www.linkedin.com/learning/jira-administration-automation/event-based-actions-with-jmwe?u=76281980&t=89)** Both methods achieve the same result of incrementing a custom field when an issue is transitioned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (3), [[Automation]] (2), cloud (2), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Jira]] (3), [[JSON]] (1)
 > **Env Vars:** jmwe (4), jql (1), json (1)
 > **Tools:** jira (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - here (1)
 
-#### Monitoring config changes with Salto
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980)
+#### [Monitoring config changes with Salto](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=0)** - Now, let's examine a different kind of automation.
 >
-> **[0:04](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=4)** As a Jira admin, I want to know when other admins make certain changes to the application's configuration settings.
+> **[0:04](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=4)** As a [[Jira]] admin, I want to know when other admins make certain changes to the application's configuration settings.
 >
 > **[0:11](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=11)** Now, my application already has too many custom fields, and I don't want anymore if I can help it.
 >
@@ -2931,7 +2882,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=24)** Luckily, there's an app that can do it.
 >
-> **[0:27](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=27)** Salto provides automated configuration management for enterprise applications.
+> **[0:27](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=27)** Salto provides automated [[Configuration Management]] for enterprise applications.
 >
 > **[0:33](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=33)** Their solution automatically extracts the configs of different business applications like Jira, Salesforce, and NetSuite.
 >
@@ -2945,11 +2896,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=63)** I'll use Salto to send me an alert via email if a new custom field is created, if a user is added to a security level in an issue security scheme, or if a project role is modified in any way.
 >
-> **[1:17](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=77)** Salto can also send Slack messages.
+> **[1:17](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=77)** Salto can also send [[Slack]] messages.
 >
 > **[1:20](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=80)** Here's the Salto app, which runs on its own website.
 >
-> **[1:23](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=83)** You simply connect it to your Jira cloud or data center application and fetch the configuration settings.
+> **[1:23](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=83)** You simply connect it to your Jira cloud or data center application and [[Fetch]] the configuration settings.
 >
 > **[1:30](https://www.linkedin.com/learning/jira-administration-automation/monitoring-config-changes-with-salto?u=76281980&t=90)** Again, we're not talking about managing issue data.
 >
@@ -2987,19 +2938,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (10), application (4), [[Security]] (4), [[Automation]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Jira]] (10), [[Configuration Management]] (1), [[Slack]] (1), [[Fetch]] (1)
 > **Tools:** jira (10), slack (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - now (1)
 
-#### Test management with Katalon
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980)
+#### [Test management with Katalon](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=0)** - Finally, let's demo an automated testing process using Katalon Studio, which integrates with Jira through a Marketplace app.
+> **[0:00](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=0)** - Finally, let's demo an automated testing process using Katalon Studio, which integrates with [[Jira]] through a Marketplace app.
 >
 > **[0:08](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=8)** As a Jira administrator, I need to verify standard application functions anytime we do configuration cleanups, routine maintenance, app installations or removals, upgrades, or conduct quarterly audits.
 >
@@ -3021,7 +2971,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=65)** Katalon has both free and paid versions.
 >
-> **[1:08](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=68)** It includes a desktop application, a web component on their website, and an app in the Atlassian Marketplace to connect test cases to Jira issues.
+> **[1:08](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=68)** It includes a desktop application, a web component on their website, and an app in the [[Atlassian]] Marketplace to connect test cases to Jira issues.
 >
 > **[1:19](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=79)** As a very simple sample, I'll show you a test case that simply checks the custom field count so I can make sure no one was sneaky and added new fields overnight.
 >
@@ -3049,7 +2999,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=147)** This example test case is linked to its Companion Jira issue.
 >
-> **[2:32](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=152)** Live statistics about test case runs are displayed.
+> **[2:32](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=152)** Live [[Statistics]] about test case runs are displayed.
 >
 > **[2:35](https://www.linkedin.com/learning/jira-administration-automation/test-management-with-katalon?u=76281980&t=155)** From here, I'll open the linked Jira issue.
 >
@@ -3065,7 +3015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (12), application (3), [[Atlassian]] (2), web (1), data (1)
+> **Frameworks & Libraries:** [[Jira]] (12), [[Atlassian]] (2), [[Statistics]] (1)
 > **Tools:** jira (12)
 > **UI Navigation:** click on (1), open the (1)
 > **CLI Commands:** make (1)
@@ -3077,8 +3027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional resources for Jira learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)
+#### [Additional resources for Jira learning](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3086,21 +3035,21 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=2)** I hope you're excited to try automation or enhance some existing rules in your test application.
 >
-> **[0:08](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=8)** You should now be able to build custom rules to reduce manual work and human error, extend capabilities with smart values and placeholder variables, and leverage built-in capabilities or automation apps from the Atlassian marketplace.
+> **[0:08](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=8)** You should now be able to build custom rules to reduce manual work and human error, extend capabilities with smart values and placeholder variables, and leverage built-in capabilities or automation apps from the [[Atlassian]] marketplace.
 >
 > **[0:25](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=25)** Here are some additional resources so you can continue learning.
 >
 > **[0:30](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=30)** For cloud, visit this documentation area to learn more and access the list of available smart values.
 >
-> **[0:37](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=37)** The documentation area for data center is available at confluence.[atlassian.com/automation](https://atlassian.com/automation).
+> **[0:37](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=37)** The documentation area for data center is available at [[Confluence]].[atlassian.com/automation](https://atlassian.com/automation).
 >
-> **[0:44](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=44)** Don't forget to download all the course handouts from the exercise file area in LinkedIn learning.
+> **[0:44](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=44)** Don't forget to download all the course handouts from the exercise file area in [[LinkedIn]] learning.
 >
 > **[0:51](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=51)** As a reminder, here's the special area of my website where I'll post corrections, updates, and new information for this course.
 >
 > **[0:59](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=59)** Next, there's always more to learn and new features are added all the time.
 >
-> **[1:03](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=63)** You'll find many admin learning resources in the "9 Ways to Learn Jira Administration" article on my website.
+> **[1:03](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=63)** You'll find many admin learning resources in the "9 Ways to Learn [[Jira]] Administration" article on my website.
 >
 > **[1:11](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=71)** To learn more about the strategy of configuring your application, check out my books.
 >
@@ -3116,7 +3065,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=107)** If you like this course, you'll love managing custom workflows.
 >
-> **[1:51](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=111)** It's a deep dive into building smart workflows that your business development and support teams will actually use.
+> **[1:51](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=111)** It's a deep dive into building smart workflows that your [[Business Development]] and support teams will actually use.
 >
 > **[2:00](https://www.linkedin.com/learning/jira-administration-automation/additional-resources-for-jira-learning?u=76281980&t=120)** If you have questions, I'd love to hear from you.
 >
@@ -3132,7 +3081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jira]] (6), [[Automation]] (4), application (2), [[Atlassian]] (2), [[Confluence]] (2)
+> **Frameworks & Libraries:** [[Jira]] (6), [[Atlassian]] (2), [[Confluence]] (2), [[LinkedIn]] (2), [[Business Development]] (1)
 > **Tools:** jira (6), confluence (2)
 > **URLs:** [atlassian.com](https://atlassian.com) (1), [jirastrategy.com](https://jirastrategy.com) (1)
 > **CLI Commands:** find (1)

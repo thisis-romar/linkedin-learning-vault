@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Allow me to disclose something
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
+#### [Allow me to disclose something](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -93,13 +92,13 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=10)** We share information knowing there's a risk of disclosure and we communicate about our policies and expectations for how data is going to be used.
 >
-> **[0:20](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=20)** This course is part of a series on threat modeling and the stride threats.
+> **[0:20](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=20)** This course is part of a series on [[Threat Modeling]] and the stride threats.
 >
 > **[0:25](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=25)** I'm Adam Shostack.
 >
 > **[0:27](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=27)** I've written the most popular book on threat modeling, helped create the CVA, and I'm on the Black Hat review board.
 >
-> **[0:34](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=34)** In this course, you'll learn about the threat of information disclosure and technical systems, including some classic models like information at rest and in motion, and the ways processes leak knowledge that attackers use as stepping stones.
+> **[0:34](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=34)** In this course, you'll learn about the threat of information disclosure and technical systems, including some classic models like information at [[Representational State Transfer (REST)|rest]] and in motion, and the ways processes leak knowledge that attackers use as stepping stones.
 >
 > **[0:48](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/allow-me-to-disclose-something?u=76281980&t=48)** We'll look at the side effects of computation and how physical effects of standard CPUs can mess up your security.
 >
@@ -111,16 +110,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (2), data (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cva (1)
 > **Speakers:** - [adam] (1)
 
-#### Four-question framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980)
+#### [Four-question framework](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=0)** - [Instructor] This course is part of a series on Threat Modeling and the STRIDE Threats.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=0)** - [Instructor] This course is part of a series on [[Threat Modeling]] and the STRIDE Threats.
 >
 > **[0:09](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=9)** At the heart of threat modeling are four incredibly simple questions.
 >
@@ -140,13 +138,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=50)** Information disclosure is a broad threat.
 >
-> **[0:53](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=53)** I can disclose information about data in motion or data at rest.
+> **[0:53](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=53)** I can disclose information about data in motion or data at [[Representational State Transfer (REST)|rest]].
 >
 > **[1:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=60)** I can disclose information from a process, a file, or a device.
 >
 > **[1:05](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=65)** Information gets disclosed as devices emit energy through with the spectrum, and it's disclosed because they use energy, and the use of energy exposes information.
 >
-> **[1:19](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=79)** There's information disclosure in the cloud, in mobile, and from IoT devices.
+> **[1:19](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=79)** There's information disclosure in the cloud, in mobile, and from [[IoT]] devices.
 >
 > **[1:27](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/four-question-framework?u=76281980&t=87)** The mechanisms are different for each, but all result in a failure for confidentiality.
 >
@@ -154,17 +152,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), cloud (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[IoT]] (1)
 > **Env Vars:** stride (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Information disclosure as a part of STRIDE
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/information-disclosure-as-a-part-of-stride-23119434?u=76281980)
+#### [Information disclosure as a part of STRIDE](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/information-disclosure-as-a-part-of-stride-23119434?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/information-disclosure-as-a-part-of-stride-23119434?u=76281980&t=0)** - [Instructor] This course is part of a series on threat modeling and STRIDE threats.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/information-disclosure-as-a-part-of-stride-23119434?u=76281980&t=0)** - [Instructor] This course is part of a series on [[Threat Modeling]] and STRIDE threats.
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/information-disclosure-as-a-part-of-stride-23119434?u=76281980&t=7)** STRIDE is a mnemonic that stands for spoofing, tampering, repudiation, information disclosure, denial of service, and elevation of privilege.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Env Vars:** stride (2)
 > **Definitions:** is a  (1), stands for (1)
 > **Speakers:** - [instructor] (1)
@@ -198,16 +195,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authorized access
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
+#### [Authorized access](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=0)** - [Instructor] Data at rest is data that's being stored somewhere.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=0)** - [Instructor] Data at [[Representational State Transfer (REST)|rest]] is data that's being stored somewhere.
 >
 > **[0:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=6)** But don't limit your thinking to drives that are connected to a computer.
 >
-> **[0:13](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=13)** This can be normal files, databases, swap files, all sorts of things.
+> **[0:13](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=13)** This can be normal files, [[Databases]], swap files, all sorts of things.
 >
 > **[0:20](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=20)** Any data that's stored, and the most obvious place for data is files.
 >
@@ -215,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=34)** Files can have content that's hidden to various degrees.
 >
-> **[0:40](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=40)** Spreadsheets allow us to hide columns, and word processors let us reveal or hide tracked information.
+> **[0:40](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=40)** Spreadsheets allow us to hide columns, and [[Microsoft Word|word]] processors let us reveal or hide tracked information.
 >
 > **[0:47](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=47)** You can explore tracking changes in Word in setting it to display no markup.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=85)** Files are not deleted, really, but pointers to them get removed from the file lists in directories.
 >
-> **[1:35](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=95)** It used to be possible to zero out content, but flash drives apply wear-leveling algorithms to make that hard.
+> **[1:35](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=95)** It used to be possible to zero out content, but flash drives apply wear-leveling [[Algorithms]] to make that hard.
 >
 > **[1:44](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/authorized-access?u=76281980&t=104)** Additionally, there's another set of problems where confusion leads to authorization being granted.
 >
@@ -251,13 +247,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Physical layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980)
+#### [Physical layer](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=8)** Even though removing hard drives can be a pain, it's not that much of a pain, and once done the data on the disc is likely accessible to anyone who could hold it in their hands.
 >
-> **[0:19](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=19)** Many things in the internet of things store their operating system and some data on flash drives.
+> **[0:19](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=19)** Many things in the [[IoT|internet of things]] store their operating system and some data on flash drives.
 >
 > **[0:27](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=27)** Even cloud-oriented devices may have locally stored data like a cash, or security information like passwords all on local storage.
 >
@@ -281,21 +276,20 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=63)** What if I enter the wrong password?
 >
-> **[1:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=66)** Protecting data at rest helps me rest better at night.
+> **[1:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/physical-layer?u=76281980&t=66)** Protecting data at [[Representational State Transfer (REST)|rest]] helps me rest better at night.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (2), [[Internet of Things (IoT)|Internet of things]] (1), cloud (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[IoT|Internet of things]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980)
+#### [Metadata](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980&t=0)** - [Instructor] Files have content, which is hopefully interesting.
 >
-> **[0:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980&t=6)** And they also have metadata, names, modification times, et cetera.
+> **[0:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980&t=6)** And they also have [[Metadata]], names, modification times, et cetera.
 >
 > **[0:13](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata?u=76281980&t=13)** Filenames signal that the contents are interesting.
 >
@@ -324,8 +318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Encrypted and unencrypted
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
+#### [Encrypted and unencrypted](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +330,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=18)** Data in motion is easy to read.
 >
-> **[0:21](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=21)** Just grab a tool like WireShark and go to town.
+> **[0:21](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=21)** Just grab a tool like [[Wireshark]] and go to town.
 >
 > **[0:26](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=26)** Even if it's only on the local network, then you're trusting your router to do the right thing and never send it elsewhere.
 >
@@ -361,25 +354,24 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=96)** And it won't help to bring me into the game if that's the only time you text me.
 >
-> **[1:41](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=101)** The metadata about data in motion will shine through.
+> **[1:41](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=101)** The [[Metadata]] about data in motion will shine through.
 >
 > **[1:46](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/encrypted-and-unencrypted?u=76281980&t=106)** Also, I look bad in stripes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Wireshark]] (1), game (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1), [[Metadata]] (1)
 > **Env Vars:** smtp (1), ecb (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metadata in motion
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980)
+#### [Metadata in motion](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=0)** - [Instructor] The content of communication with malware controlled on [example.com](https://example.com) is probably interesting, but even if their developer has done their job and encrypted both the channel and the messages, you can learn a lot from the metadata.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=0)** - [Instructor] The content of communication with malware controlled on [example.com](https://example.com) is probably interesting, but even if their developer has done their job and encrypted both the channel and the messages, you can learn a lot from the [[Metadata]].
 >
 > **[0:17](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=17)** Let me pause for a minute to say how easy it is to get this wrong.
 >
@@ -393,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=45)** Each of these can reveal something.
 >
-> **[0:49](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=49)** Knowing which bank someone uses makes it easier to target them with good phishing emails.
+> **[0:49](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=49)** Knowing which bank someone uses makes it easier to target them with good [[Phishing]] emails.
 >
 > **[0:54](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-in-motion?u=76281980&t=54)** Digging in, the size of the packets coming from bank website can reveal which page or user is on, even if the details are encrypted.
 >
@@ -401,13 +393,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (3), data (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Phishing]] (1)
 > **URLs:** [example.com](https://example.com) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Non-internet data
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980)
+#### [Non-internet data](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -431,11 +422,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=68)** They'll even use proprietary ciphers, which is always a red flag.
 >
-> **[1:15](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=75)** Don't mistake the lack of tools in Kali Linux for security.
+> **[1:15](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/non-internet-data?u=76281980&t=75)** Don't mistake the lack of tools in [[Kali Linux]] for security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1)
 > **Env Vars:** gps (1), lta (1), ip6 (1), ip4 (1)
 > **Analogies:** such as (1)
 > **Best Practices:** general rule (1)
@@ -446,20 +437,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Intentional disclosure
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
+#### [Intentional disclosure](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=0)** - [Instructor] Processes handout data intentionally, all the time.
 >
-> **[0:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=6)** If you connect to Microsoft's mail servers, they'll tell you their exact host name, the time, their time zone.
+> **[0:06](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=6)** If you connect to [[Microsoft]]'s mail servers, they'll tell you their exact host name, the time, their time zone.
 >
 > **[0:15](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=15)** Sadly, they're running in UTC.
 >
 > **[0:19](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=19)** So I can't be all passive aggressive about them running on Seattle time, but I can ask, why do they feel a need to tell everyone that?
 >
-> **[0:28](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=28)** Apache web servers, by default, send more information.
+> **[0:28](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=28)** Apache [[Web Servers]], by default, send more information.
 >
 > **[0:35](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=35)** Internet-scale scanning projects like Shondan gather this information.
 >
@@ -467,19 +457,18 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=49)** A mail server might respond differently to HELO and ELHO allowing someone to fingerprint it.
 >
-> **[0:59](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=59)** These differences are at the heart of how Nmap does operating system identification.
+> **[0:59](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=59)** These differences are at the heart of how [[Nmap]] does operating system identification.
 >
 > **[1:04](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/intentional-disclosure?u=76281980&t=64)** In today's world, it makes sense for processes to be conservative in what they send.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Web Servers]] (1), [[Nmap]] (1)
 > **Env Vars:** utc (1), helo (1), elho (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metadata and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-and-security?u=76281980)
+#### [Metadata and security](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -513,7 +502,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
@@ -522,8 +510,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Radios: Intentional and accidental
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
+#### [Radios: Intentional and accidental](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/radios-intentional-and-accidental?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,13 +532,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Timing
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/timing?u=76281980)
+#### [Timing](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/timing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,13 +564,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpretation
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/interpretation?u=76281980)
+#### [Interpretation](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/interpretation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +608,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - it (1)
 
@@ -634,14 +616,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
+#### [Cloud](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980&t=0)** - [Instructor] I hope it's obvious that the cloud is someone else's computer and that you're trusting that someone with your data, but the cloud is more than that.
 >
-> **[0:12](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980&t=12)** As a set of design patterns, it's also the agile and fluid use of third party services to deliver value.
+> **[0:12](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980&t=12)** As a set of [[Design Patterns]], it's also the [[Agile Development|agile]] and fluid use of third party services to deliver value.
 >
 > **[0:22](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cloud?u=76281980&t=22)** Many times that means including the latest and greatest geolocation service, ad service, payment service, emoji service, or what have you.
 >
@@ -657,11 +638,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), data (2), [[Design Patterns]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Agile Development|Agile]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### IoT and mobile
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980)
+#### [IoT and mobile](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +655,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980&t=30)** Each of these sensors is better than you'd expect and getting better, faster than you expect.
 >
-> **[0:41](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980&t=41)** Sensors are now so cheap that it's easier to include them in hardware packages than to have two separate skews, and so they end up in everything.
+> **[0:41](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980&t=41)** Sensors are now so cheap that it's easier to include them in [[Hardware]] packages than to have two separate skews, and so they end up in everything.
 >
 > **[0:54](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/iot-and-mobile?u=76281980&t=54)** That means you need to be thoughtful about what permissions you ask for and what permissions you provide.
 >
@@ -688,8 +668,7 @@ created: 2026-05-02
 > **Env Vars:** gps (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/ai-and-machine-learning?u=76281980)
+#### [AI and machine learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/ai-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -727,7 +706,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -738,12 +716,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Metadata management
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
+#### [Metadata management](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980&t=0)** - [Instructor] The simplest defense is to not store metadata.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980&t=0)** - [Instructor] The simplest defense is to not store [[Metadata]].
 >
 > **[0:04](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/metadata-management?u=76281980&t=4)** If you have to have metadata, hide it where it won't be seen.
 >
@@ -783,14 +760,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Metadata]] (2), feature (1), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (2)
 > **File Paths:** robot.txt (1), robots.txt (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secrets and secrets management
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980)
+#### [Secrets and secrets management](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980&t=3)** That includes knowing what secrets you have, storing them carefully, and destroying them after rotation when they're no longer needed.
 >
-> **[0:12](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980&t=12)** Most modern platforms have APIs for storing local secrets, like the keychain on macOS, keystore on Android, or gpapi on Windows.
+> **[0:12](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980&t=12)** Most modern platforms have APIs for storing local secrets, like the keychain on macOS, keystore on [[Android]], or gpapi on [[Windows]].
 >
 > **[0:23](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secrets-and-secrets-management?u=76281980&t=23)** You also need to set permissions carefully.
 >
@@ -826,17 +802,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (1), [[Windows]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Android]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cryptography
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cryptography?u=76281980)
+#### [Cryptography](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cryptography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cryptography?u=76281980&t=0)** - [Instructor] Cryptography is the best way to protect information from disclosure.
+> **[0:00](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cryptography?u=76281980&t=0)** - [Instructor] [[Cryptography]] is the best way to protect information from disclosure.
 >
 > **[0:07](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/cryptography?u=76281980&t=7)** When you create ciphertext by encrypting plain text with a key, then the only way to get the plain text from the ciphertext is to either get the key or break the crypto system.
 >
@@ -854,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (2), management (1), data (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
@@ -863,8 +838,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure by design: Bring confidentiality to your systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)
+#### [Secure by design: Bring confidentiality to your systems](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -878,15 +852,15 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=20)** This course is a great introduction to understanding information disclosure threats.
 >
-> **[0:26](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=26)** So you can apply them to threat modeling and other security work.
+> **[0:26](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=26)** So you can apply them to [[Threat Modeling]] and other security work.
 >
-> **[0:29](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=29)** I have a set of deep dives here on LinkedIn Learning.
+> **[0:29](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=29)** I have a set of deep dives here on [[LinkedIn]] Learning.
 >
 > **[0:33](https://www.linkedin.com/learning/threat-modeling-information-disclosure-in-depth/secure-by-design-bring-confidentiality-to-your-systems?u=76281980&t=33)** For a more comprehensive view, check out my books, "Threat Modeling: Designing for Security," and "Threats: What Every Engineer Should Learn from Star Wars."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[Security]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [adam] (1)

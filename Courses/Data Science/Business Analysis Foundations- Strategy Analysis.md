@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Increase success with strategy analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/increase-success-with-strategy-analysis?u=76281980)
+#### [Increase success with strategy analysis](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/increase-success-with-strategy-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,11 +97,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), next (1)
 > **Speakers:** - if (1)
 
-#### Who is this course for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/who-is-this-course-for?u=76281980)
+#### [Who is this course for?](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/who-is-this-course-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), teams (2), product (1)
 > **Analogies:** such as (1), picture (1)
 > **Speakers:** - if (1)
 
@@ -127,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is strategy analysis?
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/what-is-strategy-analysis?u=76281980)
+#### [What is strategy analysis?](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/what-is-strategy-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,13 +195,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12)
 > **CLI Commands:** make (3)
 > **Speakers:** - many (1), - while (1)
 > **Definitions:** is an  (1)
 
-#### Getting started when your company doesn't perform strategy analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980)
+#### [Getting started when your company doesn't perform strategy analysis](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +233,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980&t=129)** It's also possible your business partners didn't write a business case.
 >
-> **[2:14](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980&t=134)** They may have been able to champion their idea, speaking to senior leaders using only their domain knowledge and business acumen.
+> **[2:14](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980&t=134)** They may have been able to champion their idea, speaking to senior leaders using only their domain knowledge and [[Business Acumen]].
 >
 > **[2:23](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/getting-started-when-your-company-doesn-t-perform-strategy-analysis?u=76281980&t=143)** In this case, their analysis was loosely done.
 >
@@ -258,13 +251,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **Prerequisites:** set up (1), you'll need (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Strategy analysis key concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980)
+#### [Strategy analysis key concepts](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +308,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=169)** But either way, it's the business environment today.
 >
-> **[2:53](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=173)** It's made up of existing capabilities, such as processes, products, services, people, IT systems, just to name a few.
+> **[2:53](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=173)** It's made up of existing capabilities, such as processes, [[Microsoft Products|products]], services, people, IT systems, just to name a few.
 >
 > **[3:02](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=182)** Current state understanding is good, but we're making changes so we're transforming the current state.
 >
@@ -332,7 +324,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=226)** It's your explanation of the major activities needing to take place to transition the business into its future state.
 >
-> **[3:55](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=235)** You might come up with a few change strategies, but there'll be a preferred change strategy that is explained in detail so it's clear how the business transformation will happen.
+> **[3:55](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=235)** You might come up with a few change strategies, but there'll be a preferred change strategy that is explained in detail so it's clear how the [[Business Transformation]] will happen.
 >
 > **[4:06](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/strategy-analysis-key-concepts?u=76281980&t=246)** Remember, establishing common terms with your team will facilitate a much smoother adoption of the practices.
 >
@@ -340,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (21), [[Microsoft Products|Products]] (1), [[Business Transformation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Business Transformation]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (3), known as (1)
 > **Speakers:** - as (1)
@@ -350,8 +342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze current state
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980)
+#### [Analyze current state](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,7 +402,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980&t=181)** If done correctly, analyzing the current state will result in a shared understanding about aspects of the current state that are relevant to the problem or opportunity you're analyzing.
 >
-> **[3:13](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980&t=193)** This might include a high level description about the capabilities, resources or components of enterprise architecture that would be important for everyone to understand due to some relationship to the situation being analyzed.
+> **[3:13](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980&t=193)** This might include a high level description about the capabilities, resources or components of [[Enterprise Architecture]] that would be important for everyone to understand due to some relationship to the situation being analyzed.
 >
 > **[3:29](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/analyze-current-state?u=76281980&t=209)** And a list of business requirements, which could be represented as goals, objectives, and outcomes the business is interested in achieving.
 >
@@ -421,14 +412,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Enterprise Architecture]] (1)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), just like (1), picture (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - think (1)
 
-#### Technique: Determining root cause
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-determining-root-cause?u=76281980)
+#### [Technique: Determining root cause](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-determining-root-cause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,14 +512,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - many (1)
 
-#### Technique: Business model canvas
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980)
+#### [Technique: Business model canvas](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980&t=121)** An example of an intellectual asset would be a patent which physical resource examples would be machinery and buildings.
 >
-> **[2:11](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980&t=131)** Fourth, the value proposition section is where you'll capture the products and services produced or supported that deliver value to your customers.
+> **[2:11](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980&t=131)** Fourth, the value proposition section is where you'll capture the [[Microsoft Products|products]] and services produced or supported that deliver value to your customers.
 >
 > **[2:21](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-model-canvas?u=76281980&t=141)** Then you have the customer relationship section where you'll list different ways your business creates and maintains relationships with its customers.
 >
@@ -597,15 +585,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (16), [[Microsoft Products|Products]] (3), next (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - in (1)
 
-#### Technique: SWOT analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-swot-analysis?u=76281980)
+#### [Technique: SWOT analysis](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-swot-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +660,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), strengths (6)
 > **Env Vars:** swot (3)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
@@ -681,8 +667,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - the (1)
 
-#### Technique: Process modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-process-modeling?u=76281980)
+#### [Technique: Process modeling](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-process-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,11 +707,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-process-modeling?u=76281980&t=169)** Use them to explain the current and future state processes.
 >
-> **[2:52](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-process-modeling?u=76281980&t=172)** You may find they help maintain stakeholder engagement and participation because they are just so well understood.
+> **[2:52](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-process-modeling?u=76281980&t=172)** You may find they help maintain [[Stakeholder Engagement]] and participation because they are just so well understood.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), functional (1), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
@@ -736,8 +721,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define future state
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980)
+#### [Define future state](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980&t=52)** This will help you provide clarity around what the business wants to achieve once the change initiative is complete.
 >
-> **[1:00](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980&t=60)** Also don't forget to conduct a review of the enterprise architecture to help with identifying any new, modified or eliminated architectural components the future state might incorporate.
+> **[1:00](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980&t=60)** Also don't forget to conduct a review of the [[Enterprise Architecture]] to help with identifying any new, modified or eliminated architectural components the future state might incorporate.
 >
 > **[1:13](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-future-state?u=76281980&t=73)** Enterprise architecture is a description of the business processes, information, technology, people, operations, information, and projects of an enterprise and the relationships between them.
 >
@@ -789,15 +773,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Enterprise Architecture]] (2)
+> **Frameworks & Libraries:** [[Enterprise Architecture]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (3)
 > **Best Practices:** make sure to (2), don't forget (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - abraham (1)
 
-#### Identifying solution options to analyze
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980)
+#### [Identifying solution options to analyze](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +812,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980&t=86)** Perhaps this is through the completion of requests for information, RFI, requests for quote, RFQ, or requests for proposal, RFP, process.
 >
-> **[1:37](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980&t=97)** While each of these are slightly different in scope and approach, the underlying purpose is similar, where vendors are solicited to provide input on how their products and services can address a specific business need.
+> **[1:37](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980&t=97)** While each of these are slightly different in scope and approach, the underlying purpose is similar, where vendors are solicited to provide input on how their [[Microsoft Products|products]] and services can address a specific business need.
 >
 > **[1:51](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/identifying-solution-options-to-analyze?u=76281980&t=111)** Second, subject matter experts.
 >
@@ -861,12 +844,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** rfi (1), rfq (1), rfp (1)
 > **Speakers:** - we (1)
 
-#### Technique: Elicitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980)
+#### [Technique: Elicitation](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +880,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980&t=86)** You can elicit a ton of valuable information to support analysis by reviewing existing documentation.
 >
-> **[1:33](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980&t=93)** Document analysis is a superb technique for acquiring information about the current state, since most of what your organization produces is in the form of systems or technical documentation, standard operating procedures, work instructions, et cetera.
+> **[1:33](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980&t=93)** Document analysis is a superb technique for acquiring information about the current state, since most of what your organization produces is in the form of systems or [[Technical Documentation]], standard operating procedures, work instructions, et cetera.
 >
 > **[1:51](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-elicitation?u=76281980&t=111)** It's all written about the current environment.
 >
@@ -930,12 +912,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Technical Documentation]] (1), business (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - elicitation (1)
 
-#### Technique: Constraints, assumptions, risks, and dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-constraints-assumptions-risks-and-dependencies?u=76281980)
+#### [Technique: Constraints, assumptions, risks, and dependencies](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-constraints-assumptions-risks-and-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -997,15 +978,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), feature (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Env Vars:** card (1)
 > **Speakers:** - once (1)
 
-#### Technique: Gap analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980)
+#### [Technique: Gap analysis](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1057,7 +1036,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980&t=172)** Capability gaps pertain to differences between current and desired capabilities.
 >
-> **[2:58](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980&t=178)** A capability consists of the set of activities the enterprise performs, the knowledge it has, the products and services it provides, the functions it supports, and the methods it uses to make decisions.
+> **[2:58](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980&t=178)** A capability consists of the set of activities the enterprise performs, the knowledge it has, the [[Microsoft Products|products]] and services it provides, the functions it supports, and the methods it uses to make decisions.
 >
 > **[3:12](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-gap-analysis?u=76281980&t=192)** In strategy analysis, analysts compare any one or more of these items to help stakeholders identify a set of potential changes to move from the current state to the future state.
 >
@@ -1067,19 +1046,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - we (1)
 
-#### Technique: Financial analysis of solution options
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980)
+#### [Technique: Financial analysis of solution options](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980&t=1)** - In strategy analysis, solution options are analyzed in many different ways, including financially.
 >
-> **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980&t=7)** Financial analysis provides decision makers guidance on whether a solution is a good investment.
+> **[0:07](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980&t=7)** [[Financial Analysis]] provides decision makers guidance on whether a solution is a good investment.
 >
 > **[0:13](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-financial-analysis-of-solution-options?u=76281980&t=13)** Once solution options are identified, it's good practice to analyze options to estimate the possible financial return of each.
 >
@@ -1147,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Financial Analysis]] (3)
+> **Frameworks & Libraries:** [[Financial Analysis]] (3)
 > **Env Vars:** irr (5), roi (3), npv (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -1161,8 +1139,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980)
+#### [Assess risks](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1182,7 +1159,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=63)** Therefore, assessing risks involves identifying any uncertainties that could lead to your solution, providing less value than what you're proposing to the decision makers it can provide.
 >
-> **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=76)** Your job is to collaborate with your stakeholders to identify a list of risks, results of those risks and the probability or how likely they are to happen.
+> **[1:16](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=76)** Your job is to collaborate with your stakeholders to identify a list of risks, results of those risks and the [[Probability]] or how likely they are to happen.
 >
 > **[1:26](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=86)** If they do happen, you'll want to draw out information to assess the impacts and value.
 >
@@ -1212,7 +1189,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=157)** Work with your stakeholders and delivery team to determine risks they will have the knowledge and experience that can help you draw this information out.
 >
-> **[2:47](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=167)** Risks can be uncovered by solution architects, product development teams, operational staff or by reviewing lessons learned.
+> **[2:47](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=167)** Risks can be uncovered by solution architects, [[Product Development]] teams, operational staff or by reviewing lessons learned.
 >
 > **[2:55](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/assess-risks?u=76281980&t=175)** Even the constraints and assumptions, and dependencies identified during future state analysis are potential sources for identifying risks.
 >
@@ -1224,12 +1201,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Probability]] (2), [[Automation]] (1), [[Product Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Probability]] (2), [[Product Development]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - so (1)
 
-#### Technique: Risk analysis and management
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980)
+#### [Technique: Risk analysis and management](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=96)** Your key stakeholders may apply lessons learned or expert judgment when helping create the list.
 >
-> **[1:43](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=103)** This second step of this technique is risk analysis, or analyzing each risk based on the impact and probability.
+> **[1:43](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=103)** This second step of this technique is risk analysis, or analyzing each risk based on the impact and [[Probability]].
 >
 > **[1:52](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=112)** Impacts can be stated in terms of impact to value, cost, schedule or quality.
 >
@@ -1297,11 +1273,11 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=236)** Identifying and managing risks early and often helps teams be better prepared when negative situations happen.
 >
-> **[4:05](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=245)** Consider using this technique to keep a pulse on any potential risk that can impact the solution, and get your team prepared to know how to react should the risk occur.
+> **[4:05](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-risk-analysis-and-management?u=76281980&t=245)** Consider using this technique to keep a pulse on any potential risk that can impact the solution, and get your team prepared to know how to [[React.js|react]] should the risk occur.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Probability]] (3), management (2), teams (2), game (1)
+> **Frameworks & Libraries:** [[Probability]] (3), [[React.js|React]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
@@ -1311,8 +1287,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define change strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-change-strategy?u=76281980)
+#### [Define change strategy](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/define-change-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,14 +1363,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3)
 > **Best Practices:** recommended (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - it (1)
 
-#### Technique: Business cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980)
+#### [Technique: Business cases](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1425,7 +1398,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=105)** You'll also want to list the different solution options being considered to address the business need.
 >
-> **[1:51](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=111)** Since the business case is relied upon to guide business decision making, only include options that make sense for a business decision maker to consider.
+> **[1:51](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=111)** Since the business case is relied upon to guide [[Business Decision Making]], only include options that make sense for a business decision maker to consider.
 >
 > **[2:01](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=121)** You might be asking, "How do you know an option makes sense?"
 >
@@ -1435,7 +1408,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=134)** This refers to an options expected costs against the potential benefits that option will provide.
 >
-> **[2:21](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=141)** Financial feasibility can be determined by using one or more financial analysis techniques we discuss in this course.
+> **[2:21](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=141)** Financial feasibility can be determined by using one or more [[Financial Analysis]] techniques we discuss in this course.
 >
 > **[2:30](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/technique-business-cases?u=76281980&t=150)** Second, operational feasibility.
 >
@@ -1467,7 +1440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), [[Business Decision Making]] (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Business Decision Making]] (1), [[Financial Analysis]] (1)
 > **Cross-References:** we covered (2)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -1479,8 +1452,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Supporting project initiation
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/supporting-project-initiation?u=76281980)
+#### [Supporting project initiation](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/supporting-project-initiation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,13 +1524,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), management (2), next (1), teams (1), hit (1)
 > **Best Practices:** recommended (1), don't forget (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - you (1)
 
-#### Revisiting strategy analysis when changes arise
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/revisiting-strategy-analysis-when-changes-arise?u=76281980)
+#### [Revisiting strategy analysis when changes arise](https://www.linkedin.com/learning/business-analysis-foundations-strategy-analysis/revisiting-strategy-analysis-when-changes-arise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1634,7 +1604,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), management (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)

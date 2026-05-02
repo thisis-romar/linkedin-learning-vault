@@ -64,8 +64,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing potentially harmful language with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
+#### [Managing potentially harmful language with AI](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,7 +74,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=14)** The standard way of dealing with this issue is brute force filtering of input and responses for specific words and phrases.
 >
-> **[0:21](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=21)** This approach works but it's labor intensive, error prone, and very difficult to get right because our language is context specific and word filters don't handle context at all.
+> **[0:21](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=21)** This approach works but it's labor intensive, error prone, and very difficult to get right because our language is context specific and [[Microsoft Word|word]] filters don't handle context at all.
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=32)** Consider this example.
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=53)** The language capabilities of modern AI systems can help us with language moderation because they are capable of processing words and phrases in context.
 >
-> **[1:02](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=62)** The OpenAI API provides a robust moderation endpoint you can use for exactly this purpose: to evaluate user prompts and AI responses for harmful content by measuring it against OpenAI's content policy.
+> **[1:02](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=62)** The [[OpenAI API]] provides a robust moderation endpoint you can use for exactly this purpose: to evaluate user prompts and AI responses for harmful content by measuring it against OpenAI's content policy.
 >
 > **[1:15](https://www.linkedin.com/learning/openai-api-moderation/managing-potentially-harmful-language-with-ai?u=76281980&t=75)** Adding an AI-powered moderation layer to your apps can make them safer for you to host and for your users to use.
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (1), [[Microsoft Word|Word]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[OpenAI API]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Speakers:** - let (1)
@@ -107,20 +106,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the OpenAI API moderation feature works
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
+#### [How the OpenAI API moderation feature works](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=0)** - When you build an app or service where people can input natural language and get natural language responses, it's important to filter and moderate the language.
 >
-> **[0:08](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=8)** This is especially true with a conversational AI system because users can input anything and cause a system to respond in kind.
+> **[0:08](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=8)** This is especially true with a [[Conversational AI]] system because users can input anything and cause a system to respond in kind.
 >
 > **[0:15](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=15)** Now, rather than automatically moderating input and output language for you, OpenAI provides an endpoint you can use to get information about the text and whether it violates OpenAI's content guidelines.
 >
 > **[0:27](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=27)** And once you have this information, you can then write software to handle the violations according to your own needs, whether that be asking the user or the system to resubmit or regenerate the content or automatically cleaning up the language before handling the request or even blocking the request or the user altogether.
 >
-> **[0:45](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=45)** The OpenAI API moderation endpoint classifies text based on whether it passes or violates OpenAI's content guidelines.
+> **[0:45](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=45)** The [[OpenAI API]] moderation endpoint classifies text based on whether it passes or violates OpenAI's content guidelines.
 >
 > **[0:52](https://www.linkedin.com/learning/openai-api-moderation/how-the-openai-api-moderation-feature-works?u=76281980&t=52)** This moderation endpoint is free to use when monitoring the input and output of OpenAI's APIs, and OpenAI is currently disallowing other uses.
 >
@@ -178,20 +176,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), api (2), [[Conversational AI]] (1), [[OpenAI API]] (1), data (1)
+> **Frameworks & Libraries:** [[Conversational AI]] (1), [[OpenAI API]] (1)
 > **Env Vars:** api (3)
 > **Versions:** 0.5 (1), 0.6 (1)
 > **Documentation:** api reference (1)
 > **Speakers:** - when (1)
 
-#### Using the moderation feature in the OpenAI API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980)
+#### [Using the moderation feature in the OpenAI API](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980&t=0)** - To put the moderation endpoint into technical context, I've created three examples for you and you can find them in the GitHub repository for this course and run them in either Codespaces or on your own computer.
+> **[0:00](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980&t=0)** - To put the moderation endpoint into technical context, I've created three examples for you and you can find them in the [[GitHub]] repository for this course and run them in either [[Codespaces]] or on your own computer.
 >
-> **[0:11](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980&t=11)** They're all using Python and they're really straightforward and easy to follow.
+> **[0:11](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980&t=11)** They're all using [[Python (Programming Language)|Python]] and they're really straightforward and easy to follow.
 >
 > **[0:15](https://www.linkedin.com/learning/openai-api-moderation/using-the-moderation-feature-in-the-openai-api?u=76281980&t=15)** To access these code examples, the easiest thing you can do is go to the GitHub repository, click on code, then select the Codespaces tab and create either a new Codespace or select one you've already created for this repository.
 >
@@ -367,7 +364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), [[Python (Programming Language)|Python]] (4), api (3), ai (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[GitHub]] (2), [[Codespaces]] (2)
 > **UI Navigation:** go to (2), click on (2), open the (2), select the (1)
 > **CLI Commands:** python (4), find (1), make (1)
 > **File Paths:** basic.py (2), conditional.py (2), mod-assistant.py (1)
@@ -381,8 +378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)
+#### [Further resources and documentation](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +386,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=8)** Before you do, so, I have four resources for you.
 >
-> **[0:11](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=11)** First, the GitHub repository for this course.
+> **[0:11](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=11)** First, the [[GitHub]] repository for this course.
 >
 > **[0:14](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=14)** This is where you find the examples I've built out.
 >
@@ -410,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=57)** Finally, I encourage you to go read the OpenAI usage policies.
 >
-> **[1:01](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=61)** Now, these apply to all usage of all OpenAI products, and they're also the foundation for this moderation.
+> **[1:01](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=61)** Now, these apply to all usage of all [[OpenAI Products]], and they're also the foundation for this moderation.
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-moderation/further-resources-and-documentation?u=76281980&t=68)** If you read these usage policies, you'll see why the system does things like flag "Blond people are boring" as an issue, but not "Blond people are interesting."
 >
@@ -420,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), api (1), [[OpenAI Products]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[OpenAI Products]] (1)
 > **CLI Commands:** find (1), go build (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)

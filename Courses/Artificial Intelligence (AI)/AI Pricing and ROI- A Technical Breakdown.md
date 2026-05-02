@@ -128,12 +128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Considering the cost of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980)
+#### [Considering the cost of AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=0)** - Everyone wants AI in their products, but how much will it cost?
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=0)** - Everyone wants AI in their [[Microsoft Products|products]], but how much will it cost?
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/considering-the-cost-of-ai?u=76281980&t=4)** If you're creating or approving AI budgets, you'll want to know the details.
 >
@@ -153,7 +152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - everyone (1)
 
 
@@ -161,8 +160,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Framing build vs. buy in an AI context
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980)
+#### [Framing build vs. buy in an AI context](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=31)** A hospital may benefit from better patient summaries and transcriptions.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=36)** An E-commerce store can grow faster with better photo editing.
+> **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=36)** An [[E-Commerce]] store can grow faster with better photo editing.
 >
 > **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=40)** Or a car manufacturer could do better predictive maintenance.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=76)** Industry-specific solutions often come with vendor expertise, allowing you to leverage these teams to implement your specific solutions.
 >
-> **[1:25](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=85)** If you're in a regulated industry, such as financial services or healthcare, more attention should be placed on privacy, user disclosure, and regulatory compliance.
+> **[1:25](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=85)** If you're in a regulated industry, such as financial services or healthcare, more attention should be placed on [[Privacy]], user disclosure, and [[Regulatory Compliance]].
 >
 > **[1:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/framing-build-vs-buy-in-an-ai-context?u=76281980&t=96)** You may also have proprietary and sensitive data that must be kept in-house.
 >
@@ -204,14 +202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (1), [[E-Commerce]] (1), cloud (1), api (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Privacy]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setup vs. ongoing costs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980)
+#### [Setup vs. ongoing costs](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,11 +238,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=63)** This might also require significant innovation depending on your business problem.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=68)** Privacy, latency, throughput, and network connectivity would all affect the deployment pattern that you choose in the product configurations you would have.
+> **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=68)** [[Privacy]], latency, throughput, and network connectivity would all affect the deployment pattern that you choose in the product configurations you would have.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=78)** Once the models and their infrastructure are up and running, they're typically classified as an operating expense or OpEx.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=86)** In most modern applications, you'll need to continuously monitor and update your models, which is typically referred to as MLOps.
+> **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=86)** In most modern applications, you'll need to continuously monitor and update your models, which is typically referred to as [[MLOps]].
 >
 > **[1:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-vs-ongoing-costs?u=76281980&t=94)** Like software, models aren't static, and need to be updated and retrained.
 >
@@ -255,13 +252,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), data (2), [[Privacy]] (1), product (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[MLOps]] (1)
 > **Prerequisites:** setup (2), you'll need (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right models for the tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980)
+#### [Selecting the right models for the tasks](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -273,9 +269,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=18)** Tabular data, which usually involves predicting numeric properties, like the size of a loan, is typically best done with boosting or tree-based methods.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=28)** Forecasting models such as predicting time series results like the sales of the next month, typically use moving average models and deep learning.
+> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=28)** [[Forecasting]] models such as predicting time series results like the sales of the next month, typically use moving average models and [[Deep Learning]].
 >
-> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=37)** Recommender systems serve up the recommendations that we see on social media or e-commerce sites.
+> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=37)** Recommender systems serve up the recommendations that we see on social media or [[E-Commerce]] sites.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=43)** Typically, there's been a lot of success there with deep learning.
 >
@@ -285,17 +281,16 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=62)** Their best use case, however, is to adapt and prototype to new tasks, allowing you to experiment and understand the intended goal without spending time gathering the data and infrastructure to deploy to specialized model.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=75)** The next video, we'll cover the best ways to deploy your models using the choice of SaaS, Paas, and IaaS solutions in the AI context.
+> **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/selecting-the-right-models-for-the-tasks?u=76281980&t=75)** The next video, we'll cover the best ways to deploy your models using the choice of [[SaaS]], [[PaaS]], and [[IaaS]] solutions in the AI context.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), [[Deep Learning]] (2), [[Forecasting]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Forecasting]] (1), [[E-Commerce]] (1), [[SaaS]] (1), [[PaaS]] (1)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### SaaS, PaaS, and IaaS in the context of AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980)
+#### [SaaS, PaaS, and IaaS in the context of AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,11 +298,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=4)** So how can we do the same thing with AI infrastructure?
 >
-> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=8)** When we talk about cloud infrastructure, we typically divide them into categories to understand their capabilities in how to make buying decisions.
+> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=8)** When we talk about [[Cloud Infrastructure]], we typically divide them into categories to understand their capabilities in how to make buying decisions.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=16)** These are often referred to as SaaS, PaaS, and IaaS.
+> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=16)** These are often referred to as [[SaaS]], [[PaaS]], and [[IaaS]].
 >
-> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=20)** As a quick refresher, IaaS stands for infrastructure as a service, PaaS stands for platform as a service, SaaS stands for software as a service, and in the AI world, MaaS stands for model as a service.
+> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=20)** As a quick refresher, IaaS stands for [[IaaS|infrastructure as a service]], PaaS stands for [[PaaS|platform as a service]], SaaS stands for [[SaaS|software as a service]], and in the AI world, MaaS stands for model as a service.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=33)** Let's go through some examples with a situation where we want to train a model.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=90)** Definitions can typically blend, especially in the PaaS and SaaS spectrum.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=96)** Let's take for example, Hugging Face.
+> **[1:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=96)** Let's take for example, [[Hugging Face]].
 >
 > **[1:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/saas-paas-and-iaas-in-the-context-of-ai?u=76281980&t=99)** Is Hugging Face a PaaS or a SaaS?
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[PaaS]] (8), [[SaaS]] (6), [[Hugging Face]] (4), [[IaaS]] (3)
+> **Frameworks & Libraries:** [[PaaS]] (8), [[SaaS]] (6), [[Hugging Face]] (4), [[IaaS]] (3), [[Cloud Infrastructure]] (1)
 > **Definitions:** stands for (4), is a  (3), refers to (1)
 > **Env Vars:** api (3), gpu (1)
 > **CLI Commands:** make (1)
@@ -373,14 +368,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI as an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980)
+#### [Introduction to AI as an API](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=0)** - [Instructor] The magical experience of Gen AI via an API is that if you can dream an idea, you can usually prototype it.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=7)** This is a stark comparison with many more traditional ML tools, which require exploration, tuning, and adjustment.
+> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=7)** This is a [[Stark (Accessibility Software)|stark]] comparison with many more traditional ML tools, which require exploration, tuning, and adjustment.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=14)** Let's go through some questions to ask when assessing an AI as an API.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=70)** Moving on to our second factor, which is reliability.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=74)** In the early days of OpenAI, the ChatGPT API often failed.
+> **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=74)** In the early days of OpenAI, the [[ChatGPT]] API often failed.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=79)** This made depending on the API a challenge.
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=91)** Now what makes reliability complex is that the model not only has to offer uptime, but also has to offer the correct answer and have the usual latencies that we expect.
 >
-> **[1:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=101)** If the AI API is very core to your business, it might be important to consider a multi AI strategy where you might use multiple AI providers to make sure that your service is at least working.
+> **[1:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=101)** If the AI API is very core to your business, it might be important to consider a multi [[AI Strategy]] where you might use multiple AI providers to make sure that your service is at least working.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=112)** In the ChatGPT case, OpenAI has a program called the Foundry program where you can pay extra to have additional capacity that's pre reserved.
 >
@@ -424,7 +418,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=145)** These costs have been decreasing for a number of reasons.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=148)** The cost of hardware has fallen, programs have gotten more optimized, and there's also a lot more investment money allowing companies to subsidize the cost of their APIs.
+> **[2:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=148)** The cost of [[Hardware]] has fallen, programs have gotten more optimized, and there's also a lot more investment money allowing companies to subsidize the cost of their APIs.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=157)** Now our next factor is latency.
 >
@@ -448,7 +442,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=213)** As an example, some AI APIs have tenancy limits, meaning the number of dedicated applications that you provide to your users might be limited.
 >
-> **[3:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=222)** As a personal example, the company I work for, VoiceFlow, we had to manage a number of conversational AI applications for our customers.
+> **[3:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=222)** As a personal example, the company I work for, VoiceFlow, we had to manage a number of [[Conversational AI]] applications for our customers.
 >
 > **[3:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-an-api?u=76281980&t=230)** At the beginning, we used a vendor API, but as we started to scale, the vendor API could no longer maintain our pace of growth.
 >
@@ -472,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), api (15), [[ChatGPT]] (4), data (2), application (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Stark (Accessibility Software)|Stark]] (1), [[AI Strategy]] (1), [[Hardware]] (1), [[Conversational AI]] (1)
 > **Env Vars:** api (15), gpt (1), b2b (1)
 > **CLI Commands:** make (1)
 > **URLs:** [openai.com](https://openai.com) (1)
@@ -481,8 +475,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 
-#### Introduction to AI as a platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980)
+#### [Introduction to AI as a platform](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,15 +487,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=26)** Platforms provide us with standardized methods to deploy and train models, allowing us to get to market faster for each subsequent model.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=33)** Some of these frameworks include Databricks, SageMaker, Azure ML, Vertex AI, and many more.
+> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=33)** Some of these frameworks include Databricks, SageMaker, [[Microsoft Azure|Azure]] ML, [[Vertex]] AI, and many more.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=41)** Since these platforms specialize in these products, they're typically more reliable with hundreds of engineers working on them.
+> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=41)** Since these platforms specialize in these [[Microsoft Products|products]], they're typically more reliable with hundreds of engineers working on them.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=48)** Cost-wise these platforms may be expensive, but many charge in the same elastic way as regular cloud services.
+> **[0:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=48)** Cost-wise these platforms may be expensive, but many charge in the same elastic way as regular [[Cloud Services]].
 >
 > **[0:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=56)** As an example here, many of these platforms have pricing calculators as seen here for this Databricks one.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=62)** Latency wise, different platforms have different capabilities such as more powerful hardware for faster inference, the ability to deploy on edge or enable streaming modes.
+> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=62)** Latency wise, different platforms have different capabilities such as more powerful [[Hardware]] for faster inference, the ability to deploy on edge or enable streaming modes.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=72)** As an example here, we have a screenshot from SageMaker.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=94)** Sometimes, however, that's not enough.
 >
-> **[1:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=97)** As a personal example, when I was building the conversational AI platform for Voiceflow, we needed to serve tens of thousands of models in parallel with low latency, AB testing enabled and continuous training.
+> **[1:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=97)** As a personal example, when I was building the [[Conversational AI]] platform for Voiceflow, we needed to serve tens of thousands of models in parallel with low latency, AB testing enabled and continuous training.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/introduction-to-ai-as-a-platform?u=76281980&t=110)** So just like in the previous video, we use a vendor API to get us started, but eventually transition to an in-house platform.
 >
@@ -524,23 +517,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), api (2), [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (1), [[Vertex]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Azure|Azure]] (1), [[Vertex]] (1), [[Cloud Services]] (1), [[Hardware]] (1)
 > **Cross-References:** previous video (2), in the next (1)
 > **Env Vars:** api (2)
 > **Analogies:** such as (1), just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setup costs for AI APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980)
+#### [Setup costs for AI APIs](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=0)** - [Instructor] Let's discuss the setup costs when using AI APIs.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=4)** The powerful value of using AI APIs is avoiding traditional investments into large software purchases or hardware.
+> **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=4)** The powerful value of using AI APIs is avoiding traditional investments into large software purchases or [[Hardware]].
 >
-> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=12)** This allows companies to be more agile, makes technology more accessible for smaller teams or firms.
+> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=12)** This allows companies to be more [[Agile Development|agile]], makes technology more accessible for smaller teams or firms.
 >
 > **[0:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setup-costs-for-ai-apis?u=76281980&t=19)** When working with APIs as a service, there may be discounts for upfront purchasing or certain billing commitments.
 >
@@ -554,15 +546,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Hardware]] (1), [[Agile Development|Agile]] (1), teams (1), cloud (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Agile Development|Agile]] (1)
 > **Prerequisites:** setup (1), set up (1)
 > **Versions:** 1.5 (1)
 > **Cross-References:** next video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ongoing costs for AI APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980)
+#### [Ongoing costs for AI APIs](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -582,19 +573,19 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=26)** These hosting models are good if you have consistent workloads.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=30)** Now as an example, between two vendors on the left here, we have AWS Bedrock serving pre-trained Llama with both one month and six-month commitments.
+> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=30)** Now as an example, between two vendors on the left here, we have AWS Bedrock serving pre-trained [[LLaMA]] with both one month and six-month commitments.
 >
 > **[0:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=38)** And with [Together.AI](https://Together.AI), you pay by model size per hour.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=43)** Our second option is per API consumption pricing or serverless pricing.
 >
-> **[0:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=48)** Here we pay by API call with some additional parameters like tokens that are used.
+> **[0:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=48)** Here we pay by API call with some additional parameters like [[Tokens]] that are used.
 >
 > **[0:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=54)** We connected these models via an API, so it's still easy to use.
 >
 > **[0:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=58)** And these are great for elastic workloads where you're not sure how much of a model you're going to use at a given time.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=64)** Two examples of this pricing structure include the Google Translate pricing, where it costs $20 per million characters; or the ChatGPT pricing where it costs per input and output tokens.
+> **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=64)** Two examples of this pricing structure include the [[Google]] Translate pricing, where it costs $20 per million characters; or the [[ChatGPT]] pricing where it costs per input and output tokens.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=76)** Now, diving more into the ChatGPT pricing, tokens are worth approximately a 1,000 tokens to 750 words.
 >
@@ -628,11 +619,11 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=177)** And with that, we've covered the three different types of pricing models that exist for AI APIs.
 >
-> **[3:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=182)** In the next video, we'll go into an example on estimating the cost of a translation feature, working in Excel to put the numbers together.
+> **[3:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ongoing-costs-for-ai-apis?u=76281980&t=182)** In the next video, we'll go into an example on estimating the cost of a translation feature, working in [[Microsoft Excel|Excel]] to put the numbers together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Tokens]] (8), ai (5), [[ChatGPT]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Tokens]] (8), [[ChatGPT]] (2), [[LLaMA]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** api (9), aws (1), llm (1)
 > **URLs:** [together.ai](https://together.ai) (1), [stability.ai](https://stability.ai) (1)
 > **CLI Commands:** aws (1)
@@ -641,8 +632,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Estimating cost for a translation feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980)
+#### [Estimating cost for a translation feature](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -650,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980&t=6)** Let's do some estimation.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980&t=7)** If we look on how much Google translates costs, we can see that it costs $20 per million characters.
+> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980&t=7)** If we look on how much [[Google]] translates costs, we can see that it costs $20 per million characters.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-translation-feature?u=76281980&t=14)** Let's take a look in our spreadsheet to see how much this application would cost under different scenarios.
 >
@@ -694,14 +684,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** click on (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating cost for a RAG solution: What is RAG?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980)
+#### [Estimating cost for a RAG solution: What is RAG?](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=26)** Let's take a look at an example.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=28)** I'm here in ChatGPT, and I can ask, "Why is the sky blue?"
+> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=28)** I'm here in [[ChatGPT]], and I can ask, "Why is the sky blue?"
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=33)** So let's type that out, and hit Enter.
 >
@@ -749,7 +738,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=104)** So if you have custom data, RAG is great for reducing these hallucinations.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=109)** Some common use-cases include searching for internal documentation and providing an answer, or a customer support bot.
+> **[1:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=109)** Some common use-cases include searching for internal documentation and providing an answer, or a [[Customer Support]] bot.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=116)** Now let's go through the components of RAG so we know how to price it.
 >
@@ -763,7 +752,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=133)** So going into what embeddings are, embedding models help turn text into numbers that we can use to search against.
 >
-> **[2:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=140)** This makes it really easy for vector databases to compare what is similar to what.
+> **[2:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=140)** This makes it really easy for [[Vector Databases]] to compare what is similar to what.
 >
 > **[2:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-what-is-rag?u=76281980&t=144)** So in our uploading stage, what we'll do is we'll have some kind of documentation, for example, a document about the sky.
 >
@@ -785,14 +774,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (4), database (4), prompt (3), [[ChatGPT]] (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Customer Support]] (1), [[Vector Databases]] (1)
 > **Env Vars:** rag (4), llm (1)
 > **Analogies:** similar to (2), for example (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating cost for a RAG solution: Costs of RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980)
+#### [Estimating cost for a RAG solution: Costs of RAG](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=4)** In the last video, we learned about the different components of RAG, including the embedding model, the vector database, and the large language model.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=12)** In today's video, we're going to price out the cost of a customer support bot that uses RAG.
+> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=12)** In today's video, we're going to price out the cost of a [[Customer Support]] bot that uses RAG.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=17)** So let's head over to our exercise files and click on 02_07 under chapter two.
 >
@@ -810,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=34)** Let's start off with uploading data.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=36)** We're going to assume we have a thousand documents, and each document has around 500 tokens.
+> **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=36)** We're going to assume we have a thousand documents, and each document has around 500 [[Tokens]].
 >
 > **[0:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=42)** We're going to split these documents on average into chunks of 300.
 >
@@ -880,13 +868,13 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=216)** We take the number of questions per month and multiply it by the average response length, so we get 100,000.
 >
-> **[3:43](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=223)** Now for our LLM costs, I'm using the March, 2024 pricing for ChatGPT.
+> **[3:43](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=223)** Now for our LLM costs, I'm using the March, 2024 pricing for [[ChatGPT]].
 >
 > **[3:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=228)** So that's 50 cents per million input tokens and 1.5 dollars per output token.
 >
 > **[3:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=236)** I'm going to multiply our usage by the cost and get 75 cents per month for our LLM input costs and 15 cents per month for LLM output costs.
 >
-> **[4:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=246)** Now in total we have 90 cents for our LLMs and $75 for the rest, which includes our vector DB and embedding model, and our total costs are $75.91.
+> **[4:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=246)** Now in total we have 90 cents for our LLMs and $75 for the [[Representational State Transfer (REST)|rest]], which includes our vector DB and embedding model, and our total costs are $75.91.
 >
 > **[4:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=260)** So as you can see here, our vector DB is consuming the most amount of money for running this application, and we can go ahead and expand to other scenarios.
 >
@@ -898,7 +886,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=279)** We adjusted the number of documents that we upload for both scenario two and three, and we changed the number of questions being run for scenario two.
 >
-> **[4:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=288)** For scenario three, we use GPT-4 Turbo to summarize our information.
+> **[4:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=288)** For scenario three, we use [[GPT-4]] Turbo to summarize our information.
 >
 > **[4:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-cost-for-a-rag-solution-costs-of-rag?u=76281980&t=292)** So the LLM portion will be more expensive.
 >
@@ -914,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (10), rag (6), llm (6), application (4), data (3)
+> **Frameworks & Libraries:** [[Tokens]] (10), [[Customer Support]] (2), [[ChatGPT]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[GPT-4]] (1)
 > **Env Vars:** rag (6), llm (6), gpt (1)
 > **Cross-References:** in the last (1), as we saw (1), in the next (1), next video (1)
 > **UI Navigation:** scroll down (2), click on (1), scroll up (1)
@@ -923,12 +911,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimating costs for an image generation feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980)
+#### [Estimating costs for an image generation feature](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=0)** - [Instructor] Let's calculate the costs for an image gen feature for an e-commerce store.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=0)** - [Instructor] Let's calculate the costs for an image gen feature for an [[E-Commerce]] store.
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=4)** We want to generate realistic placements for our product in realistic environments.
 >
@@ -940,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=23)** I'm on the OpenAI website, and for image models, I can see the pricing here per image.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=28)** Let's look at the DALL-E 2 pricing because this is the model that can do this background filling.
+> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=28)** Let's look at the [[DALL-E]] 2 pricing because this is the model that can do this background filling.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=33)** We can confirm this on the image generation page on OpenAI's website.
 >
@@ -962,7 +949,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=79)** So looking at our combined cost, DALL-E 2 would cost us $0 per month, and for 400 images, $8, leading to a total of $8.
 >
-> **[1:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=89)** For Stable Diffusion, it would cost $20 per month and $12 for 400 images, bringing the cost up to $32.
+> **[1:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=89)** For [[Stable Diffusion]], it would cost $20 per month and $12 for 400 images, bringing the cost up to $32.
 >
 > **[1:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/estimating-costs-for-an-image-generation-feature?u=76281980&t=97)** Now you might prefer Stable Diffusion's generation quality to DALL-E 2.
 >
@@ -972,15 +959,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DALL-E]] (4), feature (2), [[Stable Diffusion]] (2), [[E-Commerce]] (1), product (1)
+> **Frameworks & Libraries:** [[DALL-E]] (4), [[Stable Diffusion]] (2), [[E-Commerce]] (1)
 > **Env Vars:** dall (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Estimating the cost of a book summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-estimating-the-cost-of-a-book-summarization?u=76281980)
+#### [Challenge: Estimating the cost of a book summarization](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-estimating-the-cost-of-a-book-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -998,14 +984,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Estimating the cost of a book summarization
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980)
+#### [Solution: Estimating the cost of a book summarization](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1023,9 +1007,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=34)** Each of our summaries are going to be around 100 words.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=37)** So to calculate our initial input tokens, we're going to take our initial number of books, multiply it by the number of words per book.
+> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=37)** So to calculate our initial input [[Tokens]], we're going to take our initial number of books, multiply it by the number of words per book.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=46)** We're then going to multiply it by tokens per word.
+> **[0:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=46)** We're then going to multiply it by tokens per [[Microsoft Word|word]].
 >
 > **[0:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=49)** That's how we end up with 62.5 billion tokens.
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=133)** Now let's unhide scenario number two.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=135)** So for scenario number two, we used ChatGPT 3.5.
+> **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=135)** So for scenario number two, we used [[ChatGPT]] 3.5.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-estimating-the-cost-of-a-book-summarization?u=76281980&t=139)** It has a context length of 128,000 tokens, which should be fine for this application.
 >
@@ -1085,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (15), [[ChatGPT]] (3), [[Microsoft Word|Word]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (15), [[ChatGPT]] (3), [[Microsoft Word|Word]] (2)
 > **Versions:** 3.5 (2), 62.5 (1), 1.5 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1096,8 +1080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Diving into ChatGPT pricing (OpenAI)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980)
+#### [Diving into ChatGPT pricing (OpenAI)](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1090,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=5)** So OpenAI offers a few types of models.
 >
-> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=7)** We've gone through ChatGPT 3.5 and DALL-E 2 already.
+> **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=7)** We've gone through [[ChatGPT]] 3.5 and [[DALL-E]] 2 already.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=11)** But let's do a refresher.
 >
@@ -1123,9 +1106,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=34)** We have a number of different GPT models here with different costs and availabilities.
 >
-> **[0:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=38)** We can scroll down and see GPT-4 Turbo.
+> **[0:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=38)** We can scroll down and see [[GPT-4]] Turbo.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=41)** If we go back to our initial brag application, which takes about 1500 input tokens, we can see that the input would cost around 1.50 cents.
+> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=41)** If we go back to our initial brag application, which takes about 1500 input [[Tokens]], we can see that the input would cost around 1.50 cents.
 >
 > **[0:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=50)** And if we were to summarize a book, it costs around a dollar.
 >
@@ -1141,9 +1124,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=75)** If we keep scrolling down, we can see the Assistance API.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=79)** The Assistance API lets it do context management and data management, and provides a managed Breg solution with function calling capabilities.
+> **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=79)** The Assistance API lets it do context management and [[Data Management]], and provides a managed Breg solution with function calling capabilities.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=87)** We can also scroll down to fine tuning models.
+> **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=87)** We can also scroll down to [[Fine Tuning]] models.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-chatgpt-pricing-openai?u=76281980&t=90)** These are around three to five times more expensive than the regular models.
 >
@@ -1167,15 +1150,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (5), [[DALL-E]] (2), api (2), management (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (5), [[DALL-E]] (2), [[ChatGPT]] (1), [[Tokens]] (1), [[Data Management]] (1)
 > **Env Vars:** gpt (8), dall (2), api (2)
 > **UI Navigation:** scroll down (4), scroll up (2)
 > **Versions:** 3.5 (3), 1.50 (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into Anthropic-based pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980)
+#### [Diving into Anthropic-based pricing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,9 +1167,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=9)** We can see here that there are two main model types, Claude Instant and Claude 2.0 and 2.1.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=16)** Now, if you look at the pricing, Claude Instant is the cheaper model, costing about 80 cents per million input tokens, which they call prompt tokens, and $2.40 per million output tokens, which they call completion tokens.
+> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=16)** Now, if you look at the pricing, Claude Instant is the cheaper model, costing about 80 cents per million input [[Tokens]], which they call prompt tokens, and $2.40 per million output tokens, which they call completion tokens.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=30)** Now, generally, Claude Instant maintains the same price as OpenAI ChatGPT-3.5.
+> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=30)** Now, generally, Claude Instant maintains the same price as OpenAI [[ChatGPT]]-3.5.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-anthropic-based-pricing?u=76281980&t=36)** In the current moment of filming, it's a little bit more expensive.
 >
@@ -1213,28 +1195,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (9), prompt (1), [[ChatGPT]] (1), feature (1)
+> **Frameworks & Libraries:** [[Tokens]] (9), [[ChatGPT]] (1)
 > **Versions:** 2.1 (2), 2.0 (1), 2.40 (1), 3.5 (1), 0.1 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into Google AI pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980)
+#### [Diving into Google AI pricing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=0)** - [Instructor] Google has a variety of AI models to use, and as a large cloud service vendor, many are integrated in the GCP offering.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=0)** - [Instructor] [[Google]] has a variety of AI models to use, and as a large cloud service vendor, many are integrated in the GCP offering.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=8)** Our goal is to understand the structure of the pricing, as the prices themselves might change after this movie is done recording.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=14)** Let's head over to the Google AI page.
 >
-> **[0:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=17)** Google's AI service is called Vertex AI.
+> **[0:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=17)** Google's AI service is called [[Vertex]] AI.
 >
 > **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=20)** We'll start with the general pricing guide and then move to the model garden where we can see many of the models available to us.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=26)** Let's scroll down and find the Gemini models.
+> **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=26)** Let's scroll down and find the [[Gemini]] models.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=29)** Gemini is Google's multimodal foundational model, so it can input text, images and videos.
 >
@@ -1244,9 +1225,9 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=51)** If we multiply this by 1000, we'll see that Gemini Pro is priced at 12 cents per million characters, which is roughly 40 to 50 cents per token, depending on the language.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=62)** And this is roughly the same price as ChatGPT.
+> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=62)** And this is roughly the same price as [[ChatGPT]].
 >
-> **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=65)** Now for output, we can see that it's three times as expensive, meaning that it costs around 37 cents per million characters, or $1 to 1.5 per million tokens, also comparable to ChatGPT.
+> **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=65)** Now for output, we can see that it's three times as expensive, meaning that it costs around 37 cents per million characters, or $1 to 1.5 per million [[Tokens]], also comparable to ChatGPT.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=78)** Now, if we go to an example we talked about before, which is a standard RAG response, Gemini Pro would cost around 0.1 of a cent, depending on the length.
 >
@@ -1254,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=92)** And in a multilingual context, Gemini Pro would likely be cheaper than ChatGPT 3.5, given the way that the character pricing interacts with different languages.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=102)** Now, the nice thing about Gemini Pro is that it's similar to GPT-4 in the sense that it can accept multimodal inputs.
+> **[1:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=102)** Now, the nice thing about Gemini Pro is that it's similar to [[GPT-4]] in the sense that it can accept multimodal inputs.
 >
 > **[1:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=109)** As you can see here, the image input is priced per image and the video input is priced by second.
 >
@@ -1262,7 +1243,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=123)** Let's scroll down and go to the next section, which is image-based models.
 >
-> **[2:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=127)** As you can see here by pricing, most of the prices are based per image, similar to what we've seen with Stable Diffusion and DALL-E.
+> **[2:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=127)** As you can see here by pricing, most of the prices are based per image, similar to what we've seen with [[Stable Diffusion]] and [[DALL-E]].
 >
 > **[2:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=136)** We also have the opportunity to fine tune a model, and here we're charged per hour.
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=188)** These might be Google's models like Gemini Pro and Gemini Pro Vision, or they could be third party models like Claude and Claude Instant.
 >
-> **[3:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=197)** They could also be open source models like Llama 2 and the recently released Gemma.
+> **[3:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=197)** They could also be open source models like [[LLaMA]] 2 and the recently released Gemma.
 >
 > **[3:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=203)** Now, the benefit of this Model Garden is it gives us the flexibility to deploy and manage both Google and third party models.
 >
@@ -1308,13 +1289,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=250)** Everything's integrated in one platform, but it is more complex.
 >
-> **[4:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=254)** In our next two videos, we'll be covering the AWS and Azure based pricing.
+> **[4:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=254)** In our next two videos, we'll be covering the AWS and [[Microsoft Azure|Azure]] based pricing.
 >
-> **[4:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=259)** This pricing navigation will be similar to Google's and GCPs because Azure and AWS are large cloud services.
+> **[4:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-google-ai-pricing?u=76281980&t=259)** This pricing navigation will be similar to Google's and GCPs because Azure and AWS are large [[Cloud Services]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (9), ai (6), cloud (4), gcp (3)
+> **Frameworks & Libraries:** [[Google]] (9), [[Gemini]] (9), [[ChatGPT]] (3), [[GPT-4]] (2), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** gcp (3), rag (2), gpt (2), aws (2), dall (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **CLI Commands:** aws (2), find (1)
@@ -1323,8 +1304,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), go back to (1)
 > **Definitions:** is called (1), is a  (1)
 
-#### Diving into AWS Bedrock pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980)
+#### [Diving into AWS Bedrock pricing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,11 +1314,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=9)** Let's start out with the first party models that AWS offers called Titan.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=15)** The types of models are similar to Google's, text generation, image generation, and embeddings.
+> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=15)** The types of models are similar to [[Google]]'s, text generation, image generation, and embeddings.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=23)** The prices noted here are similar to other vendors, in that they have 1k token increments.
 >
-> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=28)** These tokens might be different than the ChatGPT ones, since each model uses slightly different tokenizers.
+> **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=28)** These [[Tokens]] might be different than the [[ChatGPT]] ones, since each model uses slightly different tokenizers.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=34)** As of this recording in March 2024, Titan Lite is roughly half as expensive as ChatGPT, costing around 30 cents per million input tokens, and around 40 cents per million output tokens.
 >
@@ -1352,7 +1332,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=78)** If we look at the pricing here, Titan's image generator is around half the price of OpenAI's, or Google's image generation, but generally, these models aren't as strong.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=88)** The more unique aspect about Bedrock, if we scroll down, we'll see the ability to host LLMs at an hourly rate, both for AWS first-party models, like Titan models here, or third-party models, like A21, Cohere, Stable Diffusion, Llama, and Cloud models.
+> **[1:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=88)** The more unique aspect about Bedrock, if we scroll down, we'll see the ability to host LLMs at an hourly rate, both for AWS first-party models, like Titan models here, or third-party models, like A21, Cohere, [[Stable Diffusion]], [[LLaMA]], and Cloud models.
 >
 > **[1:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=110)** There are also opportunities to fine tune Llama and Cohere models, as well as some Titan models as well.
 >
@@ -1364,11 +1344,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=132)** But if you used AWS before, that's where you can find your bedrock in AI prices.
 >
-> **[2:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=137)** In our next video, we'll dive into Azure's AI pricing to found out our big three cloud vendors.
+> **[2:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-aws-bedrock-pricing?u=76281980&t=137)** In our next video, we'll dive into [[Microsoft Azure|Azure]]'s AI pricing to found out our big three cloud vendors.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (6), ai (5), [[Tokens]] (5), cloud (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Google]] (3), [[ChatGPT]] (2), [[LLaMA]] (2), [[Stable Diffusion]] (1)
 > **Env Vars:** aws (6), rag (1), a21 (1)
 > **CLI Commands:** aws (6), find (1)
 > **Analogies:** similar to (3)
@@ -1377,14 +1357,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 
-#### Diving into Azure AI-based pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980)
+#### [Diving into Azure AI-based pricing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=0)** - [Instructor] Microsoft is well known in their partnership with OpenAI and being able to host those models.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=0)** - [Instructor] [[Microsoft]] is well known in their partnership with OpenAI and being able to host those models.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=6)** In this video, we'll review these prices along with some of the other offerings that Azure has.
+> **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=6)** In this video, we'll review these prices along with some of the other offerings that [[Microsoft Azure|Azure]] has.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=11)** I'm here on the Azure AI Services pricing page.
 >
@@ -1396,7 +1375,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=29)** One thing that you'll notice is some models are not available in all regions.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=34)** In this case, on US West we can only have the GPT-4 turbo models.
+> **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=34)** In this case, on US West we can only have the [[GPT-4]] turbo models.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=39)** Now let's head to a region with more options.
 >
@@ -1412,13 +1391,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=68)** As we can see here, there are many different categories like image recognition, translation, search, and so forth.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=75)** Many of these capabilities have their own pricing tables, but let's take a look at how much it would cost to deploy a Llama model.
+> **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=75)** Many of these capabilities have their own pricing tables, but let's take a look at how much it would cost to deploy a [[LLaMA]] model.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=81)** Something that we looked at in the previous videos.
 >
 > **[1:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=84)** So I have this page open already.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=86)** It's part of the Azure AI Studio preview option.
+> **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=86)** It's part of the [[Azure AI Studio]] preview option.
 >
 > **[1:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=90)** As we can see here, there's a model catalog with some announcements and model capabilities.
 >
@@ -1444,17 +1423,17 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=135)** If we want to see the prices, we can click on deploy model and click marketplace offering, and see the prices here.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=142)** For input tokens and output tokens.
+> **[2:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=142)** For input [[Tokens]] and output tokens.
 >
 > **[2:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=146)** Similar to other cloud vendors, AI spend can be found in the billing section under your Azure tenant.
 >
 > **[2:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=153)** So that wraps up our Azure AI summary and our summary of the big three cloud vendors.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=158)** In the next video, we'll dive into Hugging Face's pricing strategy as a large open source player.
+> **[2:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-azure-ai-based-pricing?u=76281980&t=158)** In the next video, we'll dive into [[Hugging Face]]'s [[Pricing Strategy]] as a large open source player.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), ai (5), [[LLaMA]] (4), [[Microsoft]] (2), [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[LLaMA]] (4), [[Microsoft]] (2), [[GPT-4]] (2), [[Tokens]] (2)
 > **UI Navigation:** scroll down (2), scroll up (2), click on (2), go to (1), select the (1)
 > **Env Vars:** gpt (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1462,12 +1441,11 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into Hugging Face-based pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980)
+#### [Diving into Hugging Face-based pricing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=0)** - [Instructor] Let's dive deeper into Hugging Face's pricing.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=0)** - [Instructor] Let's dive deeper into [[Hugging Face]]'s pricing.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=3)** Hugging Face is an open source ecosystem company and creates some of the most common open-sourced ML and AI libraries.
 >
@@ -1479,11 +1457,11 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=22)** This is a plan that allows enterprise collaboration, allowing teams to share their models and experiments while maintaining audit logs and enterprise standards.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=32)** This pricing starts at $20 a month per user, like many SaaS products.
+> **[0:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=32)** This pricing starts at $20 a month per user, like many [[SaaS]] [[Microsoft Products|products]].
 >
 > **[0:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=36)** Now, you can also host models on Hugging Face.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=40)** Pricing is dependent on the hardware you deploy to host your model.
+> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=40)** Pricing is dependent on the [[Hardware]] you deploy to host your model.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=44)** Let's go ahead and click on Inference Endpoints.
 >
@@ -1493,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=54)** You have CPU instances on the left and GPU instances on the right.
 >
-> **[0:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=58)** For example, if you wanted to deploy a 7 billion Llama model, you could use an A10G, which would cost $1.30 an hour.
+> **[0:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=58)** For example, if you wanted to deploy a 7 billion [[LLaMA]] model, you could use an A10G, which would cost $1.30 an hour.
 >
 > **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/diving-into-hugging-face-based-pricing?u=76281980&t=68)** If you wanted to deploy a Llama 70 billion, you'd probably need two A100s, which would cost $13 an hour.
 >
@@ -1517,7 +1495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Hardware]] (2), [[LLaMA]] (2), ai (1), teams (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (8), [[Hardware]] (2), [[LLaMA]] (2), [[SaaS]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cpu (1), gpu (1), a10g (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1531,8 +1509,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of technical components and tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980)
+#### [Overview of technical components and tooling](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1523,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980&t=32)** These GPUs usually need to be coupled with standard CPU, RAM, and disk resources to be able to get the data to the GPUs for training.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980&t=42)** Clean data and data management are key for training models.
+> **[0:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980&t=42)** Clean data and [[Data Management]] are key for training models.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/overview-of-technical-components-and-tooling?u=76281980&t=46)** There are several papers commenting on the importance of clean data.
 >
@@ -1566,14 +1543,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (2), teams (1), management (1), next (1)
+> **Frameworks & Libraries:** [[Data Management]] (1)
 > **Env Vars:** h100 (1), cpu (1), ram (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up an AI training cluster
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980)
+#### [Setting up an AI training cluster](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,9 +1567,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=31)** GPUs for AI training are most commonly known, with vendors like Nvidia and AMD providing them.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=37)** Next, we have Google's TPU, or Tensor Processing Unit.
+> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=37)** Next, we have [[Google]]'s TPU, or Tensor Processing Unit.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=41)** These are custom-built by Google and can be found on their Google Cloud.
+> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=41)** These are custom-built by Google and can be found on their [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=45)** Now, other vendors have also created their own chips, such as AWS's Trainium chip.
 >
@@ -1601,13 +1577,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=56)** Nvidia has taken the lead with their Cuda libraries.
 >
-> **[0:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=59)** These plug into common open source platforms like PyTorch and TensorFlow.
+> **[0:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=59)** These plug into common open source platforms like [[PyTorch]] and [[TensorFlow]].
 >
 > **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=64)** So let's go through the different options.
 >
 > **[1:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=66)** Most large cloud providers for training models are integrated with tool suites.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=70)** It could be something like SageMaker, AI Studio, Vertex AI, or Databricks, and there are many more platforms.
+> **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=70)** It could be something like SageMaker, AI Studio, [[Vertex]] AI, or Databricks, and there are many more platforms.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=78)** Many companies have these platforms already.
 >
@@ -1645,7 +1621,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=170)** So this is pretty affordable for most companies.
 >
-> **[2:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=173)** Now, for a larger model like Llama, training the model from scratch should be quite expensive.
+> **[2:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=173)** Now, for a larger model like [[LLaMA]], training the model from scratch should be quite expensive.
 >
 > **[2:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/setting-up-an-ai-training-cluster?u=76281980&t=178)** For Llama 7 Billion, it costs around $80,000 using cloud rates and all the way up to over $1 million if you're training the 65 billion parameter option.
 >
@@ -1661,7 +1637,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (3), cloud (3), next (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[LLaMA]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[PyTorch]] (1), [[TensorFlow]] (1)
 > **Env Vars:** gpu (5), bert (3), tpu (2), amd (1), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Cross-References:** in the next (1)
@@ -1670,8 +1646,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 
-#### Cost of compute for training AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980)
+#### [Cost of compute for training AI models](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,7 +1664,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=38)** Now, you might be wondering, just how much CPU, memory, and disk do we need?
 >
-> **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=44)** Well, the minimum is typically to run some kind of training program, which includes the Python and the data.
+> **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=44)** Well, the minimum is typically to run some kind of training program, which includes the [[Python (Programming Language)|Python]] and the data.
 >
 > **[0:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=49)** But generally, we don't have to worry about this.
 >
@@ -1705,19 +1680,18 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=86)** Now, typically, you'd want to deploy a little bit more, so getting an N1-standard-2 would cost around $60 a month.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=93)** Now that we know the training requirements that we need for both GPUs and other compute resources, we'll talk about the data processing side.
+> **[1:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/cost-of-compute-for-training-ai-models?u=76281980&t=93)** Now that we know the training requirements that we need for both GPUs and other compute resources, we'll talk about the [[Data Processing]] side.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), cloud (1), aws (1), gcp (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Processing]] (1)
 > **Env Vars:** ram (4), cpu (4), gpu (2), aws (1), a100 (1)
 > **Analogies:** for example (2), just like (1)
 > **CLI Commands:** python (1), aws (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data cleanliness and sourcing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980)
+#### [Data cleanliness and sourcing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1739,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=38)** Missing data can be frustrating 'cause you don't have all the variables you need to make a prediction.
 >
-> **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=44)** For example, here, if we have an e-commerce use case, we might have a lot of nulls, meaning for certain fields we're missing information.
+> **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=44)** For example, here, if we have an [[E-Commerce]] use case, we might have a lot of nulls, meaning for certain fields we're missing information.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=52)** In this table, we can see that for every customer, we don't actually have a full profile.
 >
@@ -1795,7 +1769,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=180)** Data scientists and ML engineers understand that cleaning data is really important, but if they come into a situation that is truly horrible, many of them will leave, since other companies promise better data clarity.
 >
-> **[3:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=192)** So the key thing to understand here is that your data strategy must be part of your AI strategy.
+> **[3:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=192)** So the key thing to understand here is that your data strategy must be part of your [[AI Strategy]].
 >
 > **[3:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-cleanliness-and-sourcing?u=76281980&t=198)** Otherwise, your bottles won't turn up with the same results that you expect.
 >
@@ -1803,15 +1777,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), product (2), ai (2), [[E-Commerce]] (1), llm (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[AI Strategy]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we covered (1), in the next (1), we mentioned (1)
 > **Env Vars:** llm (1), roi (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data movement and storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980)
+#### [Data movement and storage](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1827,7 +1800,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=33)** The next type of cost is a transformation process.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=37)** This includes something like ETL or ELT, which stands for Extract, Transform, Load, or Extract, Load, Transform.
+> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=37)** This includes something like ETL or ELT, which stands for [[Extract, Transform, Load (ETL)|Extract, Transform, Load]], or Extract, Load, Transform.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=46)** The reason that we need these processes is we need to make sure that our data sets get converted from our transactional or application layers into the format that we need that is ML or AI ready.
 >
@@ -1837,11 +1810,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=74)** But the trap that we might run into is that data for analytics and existing systems might be different than the one that we need for AI or ML.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=83)** Let's go through an e-commerce use case.
+> **[1:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=83)** Let's go through an [[E-Commerce]] use case.
 >
 > **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=87)** Let's say that we're collecting data for an e-commerce website.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=91)** For an analytics use case, we might be collecting reviews, user ratings, and sentiment analysis, and this might be useful for an AI and ML use case, reviews and user data for predicting churn, and sentiment analysis for forecasting word-of-mouth growth.
+> **[1:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=91)** For an analytics use case, we might be collecting reviews, user ratings, and sentiment analysis, and this might be useful for an AI and ML use case, reviews and user data for predicting churn, and sentiment analysis for [[Forecasting]] [[Microsoft Word|word]]-of-mouth growth.
 >
 > **[1:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=107)** Now, for an analytics use case, you might not need product documentation or product information.
 >
@@ -1907,7 +1880,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=291)** You might also want to run through some smaller models to help label and categorize the data.
 >
-> **[4:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=297)** With all these transformations, you start getting into the big data space and it becomes expensive to pay for all these compute or services that accomplish this.
+> **[4:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=297)** With all these transformations, you start getting into the [[Big Data]] space and it becomes expensive to pay for all these compute or services that accomplish this.
 >
 > **[5:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/data-movement-and-storage?u=76281980&t=307)** Now, since we're doing batch transformations, we don't have to worry about streaming, unless you're going to do something like continuous retraining, which is a pretty advanced technique.
 >
@@ -1917,7 +1890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), ai (10), [[Analytics]] (3), application (2), next (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Extract, Transform, Load (ETL)|Extract, transform, load]] (1), [[Forecasting]] (1), [[Microsoft Word|Word]] (1), [[Big Data]] (1)
 > **CLI Commands:** make (4), find (1), aws (1)
 > **Env Vars:** cdp (1), etl (1), elt (1), aws (1)
 > **Definitions:** is a  (2), stands for (1), is called (1)
@@ -1925,8 +1898,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI model training iteration and evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980)
+#### [AI model training iteration and evaluation](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1984,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=200)** Test sets might end up in your training sets, leading to misleading results.
 >
-> **[3:25](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=205)** As an example, in the GPT-4 technical report, they dedicate a section to explain how contaminated GPT-4 might be.
+> **[3:25](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=205)** As an example, in the [[GPT-4]] technical report, they dedicate a section to explain how contaminated GPT-4 might be.
 >
 > **[3:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-model-training-iteration-and-evaluation?u=76281980&t=212)** In this case, they measure contamination by checking for exact matches or very close matches in the model outputs.
 >
@@ -2034,7 +2006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), business (2), next (2), [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[GPT-4]] (2)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** gpt (2), mmlu (1)
 > **Analogies:** similar to (1), such as (1)
@@ -2042,8 +2014,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [presenter] (1)
 
-#### Tracking AI experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980)
+#### [Tracking AI experiments](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2079,7 +2050,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=65)** And there are a couple of examples of open source frameworks for doing model tracking.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=69)** One is MLflow and another one is TensorBoard.
+> **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=69)** One is [[MLflow]] and another one is TensorBoard.
 >
 > **[1:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=72)** Let's quickly take a look at MLflow.
 >
@@ -2119,19 +2090,18 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=160)** So in this video, we learned why tracking AI experiments is important with working individually and as part of a team.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=166)** In the next video, we'll talk about fine tuning models and how this is an essential skill for reducing our costs.
+> **[2:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/tracking-ai-experiments?u=76281980&t=166)** In the next video, we'll talk about [[Fine Tuning]] models and how this is an essential skill for reducing our costs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLflow]] (4), ai (3), data (2), teams (2), next (1)
+> **Frameworks & Libraries:** [[MLflow]] (4), [[Fine Tuning]] (1)
 > **Cross-References:** we mentioned (1), in the next (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fine-tuning models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980)
+#### [Fine-tuning models](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2141,7 +2111,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=12)** We'd also need less data to accomplish this task.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=15)** So I'd like to introduce you to the concept of fine tuning.
+> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=15)** So I'd like to introduce you to the concept of [[Fine Tuning]].
 >
 > **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=18)** We can fine tune existing models to save up to 99% of the costs to accomplish a task.
 >
@@ -2151,9 +2121,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=28)** Afterwards, we can take our model and our new data, train them together and get a fine tuned model.
 >
-> **[0:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=35)** As a specific example, let's say we've been using LLaMa for some of our experiments.
+> **[0:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=35)** As a specific example, let's say we've been using [[LLaMA]] for some of our experiments.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=41)** It's doing quite well, but we want to improve the performance for banking specific tasks.
+> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=41)** It's doing quite well, but we want to improve the performance for [[Banking]] specific tasks.
 >
 > **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=45)** So what we can do is we can fine tune LLaMa with banking data and get a variation like banking LLaMa.
 >
@@ -2175,7 +2145,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=95)** Now this will take around 8.8 hours and cost around $18.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=99)** I got this information from a technical lead who wrote a blog post on Hugging Face.
+> **[1:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=99)** I got this information from a technical lead who wrote a blog post on [[Hugging Face]].
 >
 > **[1:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/fine-tuning-models?u=76281980&t=104)** So you can see here that there are different techniques that you can actually use.
 >
@@ -2199,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Fine Tuning]] (4), ai (3), [[LLaMA]] (3), [[Banking]] (3)
+> **Frameworks & Libraries:** [[Fine Tuning]] (4), [[LLaMA]] (3), [[Banking]] (3), [[Hugging Face]] (1)
 > **Definitions:** is called (2), is a  (2), is an  (1)
 > **Env Vars:** imdb (1), a10g (1), aws (1), mlg5 (1)
 > **CLI Commands:** find (1), aws (1)
@@ -2207,8 +2177,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiring the team that trains the models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980)
+#### [Hiring the team that trains the models](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2226,7 +2195,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=39)** In the small team, you might have a product manager and a couple ML generalists.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=45)** These people can accomplish all these different tasks, do some data processing, train the model, deploy the model, and integrate it together.
+> **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=45)** These people can accomplish all these different tasks, do some [[Data Processing]], train the model, deploy the model, and integrate it together.
 >
 > **[0:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=53)** A common title that we've been seeing recently is member of technical staff.
 >
@@ -2262,7 +2231,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=162)** If we look at some online compensation reports, like from Levels.fwy, we can see that many OpenAI researchers make close to that $1-million mark, and the more senior ones can make even more.
 >
-> **[2:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=174)** Similarly, for Google software engineers, and especially the ones working on large language models, more senior engineers can make $1 million or even more.
+> **[2:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=174)** Similarly, for [[Google]] software engineers, and especially the ones working on [[Large Language Models (LLM)|large language models]], more senior engineers can make $1 million or even more.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=183)** So if you're hiring for the same skill sets as these large companies, you might be out-competed on compensation.
 >
@@ -2274,13 +2243,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=201)** My recommendation is to go back to the basics.
 >
-> **[3:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=203)** You need to understand your users, understand your data and domains, be able to build and consume APIs, be able to fine-tune models, and be able to deploy on cloud infrastructure.
+> **[3:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=203)** You need to understand your users, understand your data and domains, be able to build and consume APIs, be able to fine-tune models, and be able to deploy on [[Cloud Infrastructure]].
 >
 > **[3:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=215)** These requirements are more general, and you can find people who are more generalists to work on these problems.
 >
 > **[3:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=220)** Now, to talk about quickly on how I've hired for my AI team, I've generally focused on generalists.
 >
-> **[3:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=227)** I work in the AI space that relates to natural language processing, so that's been a skill that I've been looking for.
+> **[3:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=227)** I work in the AI space that relates to [[Natural Language Processing (NLP)|natural language processing]], so that's been a skill that I've been looking for.
 >
 > **[3:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-that-trains-the-models?u=76281980&t=234)** I also look for experience in cloud infrastructure 'cause we need to deploy our models and manage them.
 >
@@ -2296,7 +2265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (5), business (4), product (4), [[Google]] (2)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Google]] (2), [[Cloud Infrastructure]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (5), node (1), find (1)
 > **Cross-References:** go back to (1), next video (1)
 > **Definitions:** is a  (2)
@@ -2304,8 +2273,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Training AI for your enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980)
+#### [Challenge: Training AI for your enterprise](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,7 +2289,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980&t=30)** I've assumed that you'll be training a BERT model, your dataset size, and then some additional information for the costs.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980&t=37)** On the right-hand side it's more of a question of putting together the team and forecasting the cost of additional tooling.
+> **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980&t=37)** On the right-hand side it's more of a question of putting together the team and [[Forecasting]] the cost of additional tooling.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-enterprise?u=76281980&t=44)** Once you put all these different costs together, your goal is to make a budget ask.
 >
@@ -2329,7 +2297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), [[Forecasting]] (1), next (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** bert (1)
@@ -2338,8 +2306,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Training AI for your enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980)
+#### [Solution: Training AI for your enterprise](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2349,7 +2316,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=13)** So we'll start off with columns A and B.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=16)** So my assumption is that we're going be using a bird based model fine tuned from hugging face.
+> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=16)** So my assumption is that we're going be using a bird based model fine tuned from [[Hugging Face]].
 >
 > **[0:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=22)** On B4, I assume that our data set is going to be 250,000 entries.
 >
@@ -2369,7 +2336,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=60)** We're assuming we're using a T4 graphics card, and these are the average cloud costs.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=64)** Now, based on the number of layers we have, the graphics card we're using, and the number of epochs, I've calculated our time to fine tuning, which is around 500 minutes.
+> **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=64)** Now, based on the number of layers we have, the graphics card we're using, and the number of epochs, I've calculated our time to [[Fine Tuning]], which is around 500 minutes.
 >
 > **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-enterprise?u=76281980&t=74)** I've also added five minutes for boot up time to get all this infrastructure started.
 >
@@ -2433,15 +2400,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Hugging Face]] (1), cloud (1), [[Fine Tuning]] (1), next (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** gpu (1), cpu (1), ram (1), b12 (1), dne (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Versions:** 5.89 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Training AI for your start-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-start-up?u=76281980)
+#### [Challenge: Training AI for your start-up](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-training-ai-for-your-start-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2461,15 +2427,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Training AI for your start-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-start-up?u=76281980)
+#### [Solution: Training AI for your start-up](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-training-ai-for-your-start-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2535,7 +2499,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), ai (1), [[Engineering]] (1), next (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -2546,8 +2509,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hosting and running your AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980)
+#### [Hosting and running your AI models](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,7 +2519,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=2)** In this video and chapter, we'll be talking about the key components of hosting and deploying AI models.
 >
-> **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=9)** We'll talk about three main things in this chapter, the challenges of deploying models, choosing the right hardware and predicting costs.
+> **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=9)** We'll talk about three main things in this chapter, the challenges of deploying models, choosing the right [[Hardware]] and predicting costs.
 >
 > **[0:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=17)** So why is deploying an AI model challenging?
 >
@@ -2585,7 +2547,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=61)** And finally, your source data and your model might have sovereignty challenges for compliance or regulatory reasons.
 >
-> **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=69)** And many of the challenges that you'll experience are similar to software development challenges.
+> **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=69)** And many of the challenges that you'll experience are similar to [[Software Development]] challenges.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=73)** If you're working in a siloed way, your development will suffer.
 >
@@ -2597,7 +2559,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=87)** For example, you should consider using a smaller model, spend more time on optimization techniques for latency and research the hardware you're deploying on before going through the training process.
 >
-> **[1:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=99)** So in essence, this forms the circular loop.
+> **[1:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=99)** So in essence, this [[Forms]] the circular loop.
 >
 > **[1:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hosting-and-running-your-ai-models?u=76281980&t=102)** Model development and model deployment should be an iterative process with teams communicating and working together.
 >
@@ -2623,7 +2585,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Hardware]] (5), ai (4), [[Software Development]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Software Development]] (1), [[Forms]] (1)
 > **Analogies:** similar to (2), for example (1)
 > **Env Vars:** gdpr (2)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2631,8 +2593,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running your own models or outsourcing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980)
+#### [Running your own models or outsourcing](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2650,9 +2611,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=29)** You could either host yourself or have a fully managed solution.
 >
-> **[0:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=32)** Closer to the host yourself option, you can run everything in your own data center, buying your own hardware, and going through this procurement and hosting journey.
+> **[0:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=32)** Closer to the host yourself option, you can run everything in your own data center, buying your own [[Hardware]], and going through this procurement and hosting journey.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=41)** If we move further right, we could implement a cloud IAAS, so we'll have managed hardware.
+> **[0:41](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=41)** If we move further right, we could implement a cloud [[IaaS]], so we'll have managed hardware.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=46)** We could keep going further and have this platform be deployed in another cloud environment, but be peered back to IAAS and connected via something like a private link.
 >
@@ -2660,9 +2621,9 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=62)** For a first-party platform.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=63)** we could deploy Databricks within our AWS or Azure environment.
+> **[1:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=63)** we could deploy Databricks within our AWS or [[Microsoft Azure|Azure]] environment.
 >
-> **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=68)** We could also have a peered platform, like having a hugging face deployment peered back to our VPC.
+> **[1:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=68)** We could also have a peered platform, like having a [[Hugging Face]] deployment peered back to our VPC.
 >
 > **[1:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=75)** We can have a third party platform like DataRobot that we connect to over the internet, or we can use a fully managed solution, like hosting models in a platform like Gradient.
 >
@@ -2686,7 +2647,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=129)** It becomes very chaotic if your data lives on prem and your compute is in the cloud, and vice versa.
 >
-> **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=135)** It's best to make sure that your data strategy once again aligns with your AI strategy.
+> **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=135)** It's best to make sure that your data strategy once again aligns with your [[AI Strategy]].
 >
 > **[2:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/running-your-own-models-or-outsourcing?u=76281980&t=140)** So in this video, we learned about the different types of solutions we can use.
 >
@@ -2694,7 +2655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (4), [[Hardware]] (4), cloud (3), [[IaaS]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[IaaS]] (2), [[Microsoft Azure|Azure]] (1), [[Hugging Face]] (1), [[AI Strategy]] (1)
 > **Env Vars:** iaas (2), api (1), aws (1), vpc (1)
 > **CLI Commands:** aws (1), make (1)
 > **Cross-References:** we covered (1), in the next (1)
@@ -2702,12 +2663,11 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right hardware for AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/choosing-the-right-hardware-for-ai-models?u=76281980)
+#### [Choosing the right hardware for AI models](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/choosing-the-right-hardware-for-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/choosing-the-right-hardware-for-ai-models?u=76281980&t=0)** - [Instructor] Let's talk about hardware costs for AI hosting use cases.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/choosing-the-right-hardware-for-ai-models?u=76281980&t=0)** - [Instructor] Let's talk about [[Hardware]] costs for AI hosting use cases.
 >
 > **[0:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/choosing-the-right-hardware-for-ai-models?u=76281980&t=3)** In this case, I typically think through three important considerations: Latency, throughput, and model location.
 >
@@ -2825,7 +2785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), ai (5), next (4), chatbot (3), data (2)
+> **Frameworks & Libraries:** [[Hardware]] (7)
 > **Env Vars:** cpu (6), a100 (6), gdpr (1), bert (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
@@ -2834,8 +2794,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Prerequisites:** set up (1)
 
-#### Logging and monitoring AI inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980)
+#### [Logging and monitoring AI inference](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2867,7 +2826,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=61)** Now, if you miss an SLA, in your contract, there's typically a term for refunding your customer a portion of their bill.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=67)** This is an example from Google Translate.
+> **[1:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=67)** This is an example from [[Google]] Translate.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=70)** If their monthly uptime percentage dips below a certain amount, they'll provide a credit to you for future billing cycles.
 >
@@ -2879,7 +2838,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=96)** So let's talk about the metrics used for alerting.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=98)** These are typically metrics that affect the user experience.
+> **[1:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=98)** These are typically metrics that affect the [[User Experience (UX)|user experience]].
 >
 > **[1:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=102)** These might be things like latency, throughput, user feedback, or error rates.
 >
@@ -2903,7 +2862,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=147)** Some might be sudden drifts where the data completely changes.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=151)** In an e-commerce use case, this might be interest for a whole nother product.
+> **[2:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=151)** In an [[E-Commerce]] use case, this might be interest for a whole nother product.
 >
 > **[2:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=155)** Something might be in fashion, or there might be a viral video going on about it.
 >
@@ -2917,7 +2876,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=170)** For example, the buying demographics might be getting older for a certain type of product.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=175)** Or there might be some reoccurring concepts like seasonality, buying different types of products.
+> **[2:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=175)** Or there might be some reoccurring concepts like seasonality, buying different types of [[Microsoft Products|products]].
 >
 > **[3:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=181)** For example, holiday gifts.
 >
@@ -2943,7 +2902,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=228)** So this is important both when you're deploying your own models or using third party ones.
 >
-> **[3:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=233)** Let's say for your system, you upgrade from GPT-3.5 to GPT-4.
+> **[3:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=233)** Let's say for your system, you upgrade from GPT-3.5 to [[GPT-4]].
 >
 > **[3:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=238)** These models behave in very different ways.
 >
@@ -2961,11 +2920,11 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=271)** Now from a software perspective, all these AI models still need to be integrated with your system.
 >
-> **[4:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=277)** There's a recent postmortem posted by OpenAI, which talked about how they had unexpected responses from ChatGPT.
+> **[4:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=277)** There's a recent postmortem posted by OpenAI, which talked about how they had unexpected responses from [[ChatGPT]].
 >
-> **[4:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=284)** What the postmortem details is that the LLMs are generating responses, and something was lost in translation in the sense that the generated responses did not match to the standard tokens that were typically used.
+> **[4:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=284)** What the postmortem details is that the LLMs are generating responses, and something was lost in translation in the sense that the generated responses did not match to the standard [[Tokens]] that were typically used.
 >
-> **[4:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=297)** In this case, the integration between the hardware, the software, and the results being served by ChatGPT were not consistent.
+> **[4:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=297)** In this case, the integration between the [[Hardware]], the software, and the results being served by ChatGPT were not consistent.
 >
 > **[5:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/logging-and-monitoring-ai-inference?u=76281980&t=305)** So something was lost in translation and it resulted in a poor user experience.
 >
@@ -3025,7 +2984,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (9), product (8), business (5), [[User Experience (UX)|User experience]] (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[E-Commerce]] (2), [[GPT-4]] (2), [[ChatGPT]] (2), [[Google]] (1)
 > **Env Vars:** gpt (5), sla (3)
 > **Versions:** 3.5 (4), 99.99 (1), 99.9 (1), 99.5 (1)
 > **Definitions:** is an  (3), is a  (2)
@@ -3034,8 +2993,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hiring the team for AI inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980)
+#### [Hiring the team for AI inference](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3059,9 +3017,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=48)** This might include technical things like post-training optimizations with techniques like compiling or quantizing the model.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=55)** In certain cases, to get the model to perform at the level that you need, you might need specialty hardware knowledge.
+> **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=55)** In certain cases, to get the model to perform at the level that you need, you might need specialty [[Hardware]] knowledge.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=62)** For example, there's a great blog post that Hugging Face put out, to how to optimize the BERT model to get under a one millisecond latency.
+> **[1:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=62)** For example, there's a great blog post that [[Hugging Face]] put out, to how to optimize the BERT model to get under a one millisecond latency.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=70)** This blog post is a technical read, but it is very interesting to understand the thinking and process of optimizing your models.
 >
@@ -3079,7 +3037,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=121)** And as you're working with larger models, they'll become harder to deploy compared to more traditional ones.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=126)** This is why when running a large language model or other generative AI, people who can deploy these models and put them into production efficiently are paid very well.
+> **[2:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=126)** This is why when running a large language model or other [[Generative AI]], people who can deploy these models and put them into production efficiently are paid very well.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/hiring-the-team-for-ai-inference?u=76281980&t=136)** In the next video, you'll receive a challenge for running AI for your start-up.
 >
@@ -3087,7 +3045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), business (2), [[Hardware]] (2), [[Hugging Face]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Hugging Face]] (1), [[Generative AI]] (1)
 > **Cross-References:** previous video (1), we talked about (1), in the next (1)
 > **Env Vars:** bert (1)
 > **Definitions:** is a  (1)
@@ -3095,8 +3053,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Running AI for your start-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980)
+#### [Challenge: Running AI for your start-up](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3122,7 +3079,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980&t=51)** I've included a starter template for you.
 >
-> **[0:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980&t=54)** On the left hand side, you'll find some values for the different hardware you can use to host this model.
+> **[0:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980&t=54)** On the left hand side, you'll find some values for the different [[Hardware]] you can use to host this model.
 >
 > **[0:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-start-up?u=76281980&t=59)** Within this section, you'll have to calculate which hardware works best and its average cost.
 >
@@ -3136,7 +3093,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Hardware]] (2), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Hardware]] (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** find (1)
@@ -3145,8 +3102,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Solution: Running AI for your start-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980)
+#### [Solution: Running AI for your start-up](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3158,7 +3114,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980&t=17)** We know that on average, we'll get 100 requests per second with 1000 max requests.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980&t=23)** Combining the request number with the throughput, we can calculate the average amount of hardware we need and the max amount.
+> **[0:23](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980&t=23)** Combining the request number with the throughput, we can calculate the average amount of [[Hardware]] we need and the max amount.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-start-up?u=76281980&t=30)** We get this by dividing the average request per second by the throughput and then taking the ceiling 'cause we can't have fractions.
 >
@@ -3228,7 +3184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Hardware]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** cpu (5), a100 (3), g11 (1), g14 (1), g16 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 449.7 (1)
@@ -3236,8 +3192,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Running AI for your enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-enterprise?u=76281980)
+#### [Challenge: Running AI for your enterprise](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-running-ai-for-your-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3275,15 +3230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), feature (1)
 > **Env Vars:** cpu (1), sla (1)
 > **Versions:** 99.9 (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Running AI for your enterprise
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980)
+#### [Solution: Running AI for your enterprise](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3293,7 +3246,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980&t=14)** So starting off, we've updated our Average Requests and our Max Requests on lines 3 and 4.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980&t=20)** Based on these updates for lines 10 and 11, we can see the amount of hardware units we need are much higher for the maximum number of CPUs that we'll need.
+> **[0:20](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980&t=20)** Based on these updates for lines 10 and 11, we can see the amount of [[Hardware]] units we need are much higher for the maximum number of CPUs that we'll need.
 >
 > **[0:29](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-running-ai-for-your-enterprise?u=76281980&t=29)** We get into the 3000s, which is pretty high.
 >
@@ -3357,7 +3310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** a100 (1), g16 (1), g18 (1), g20 (1)
 > **Versions:** 647.73 (1), 1.8 (1)
 > **Cross-References:** in the next (1)
@@ -3371,8 +3324,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI copyright and legal risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980)
+#### [AI copyright and legal risks](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3386,19 +3338,19 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=21)** But much of this data is still covered by copyright.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=24)** In December 2023, "The New York Times" filed a lawsuit against OpenAI and Microsoft about allegations of copyright infringement.
+> **[0:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=24)** In December 2023, "The New York Times" filed a lawsuit against OpenAI and [[Microsoft]] about allegations of copyright infringement.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=33)** The main argument is that ChatGPT could produce "New York Times" content verbatim, content that was behind a paywall.
+> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=33)** The main argument is that [[ChatGPT]] could produce "New York Times" content verbatim, content that was behind a paywall.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=39)** For the training of these models, OpenAI argues fair use.
 >
 > **[0:44](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=44)** This lawsuit is very important since it'll likely set the precedent for many AI lawsuits in the future.
 >
-> **[0:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=50)** Another example is that, in November 2022, four plaintiffs argued that Microsoft Copilot was generating AI suggestions that infringed on code copyright.
+> **[0:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=50)** Another example is that, in November 2022, four plaintiffs argued that [[Microsoft Copilot]] was generating AI suggestions that infringed on code copyright.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=60)** Now, lawsuits can be scary for companies, and because of this, many potential customers of GenAI could be scared off.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=67)** For this reason, Google and Microsoft have pledged to cover legal costs for GenAI copyright.
+> **[1:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=67)** For this reason, [[Google]] and Microsoft have pledged to cover legal costs for GenAI copyright.
 >
 > **[1:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-copyright-and-legal-risks?u=76281980&t=73)** This was announced in September 2023 for Microsoft, and October 2023 for Google.
 >
@@ -3424,13 +3376,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (3), [[Microsoft]] (3), chatbot (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Google]] (2), [[ChatGPT]] (1), [[Microsoft Copilot]] (1)
 > **Code Identifiers:** itutorgroup (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI reputational risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980)
+#### [AI reputational risks](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3440,9 +3391,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=13)** Now, in the current AI wave, risk appetite about AI has increased significantly with almost 10x the amount of AI mentions in earning calls in 2023 on S&P 500 transcripts.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=26)** And many companies who don't have expertise in AI may launch products prematurely and mishandled this opportunity.
+> **[0:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=26)** And many companies who don't have expertise in AI may launch [[Microsoft Products|products]] prematurely and mishandled this opportunity.
 >
-> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=33)** For example, recently a car dealership when viral after their bot was a simple wrapper on ChatGPT and customers we're able to say to give them a car for just $1.
+> **[0:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=33)** For example, recently a car dealership when viral after their bot was a simple wrapper on [[ChatGPT]] and customers we're able to say to give them a car for just $1.
 >
 > **[0:43](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=43)** Now, on top of these mishaps, reputational risk can also occur when there's an underwhelming launch.
 >
@@ -3452,21 +3403,20 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=66)** So as a company, it's important to know your customer profile and expectations and balance the time to market testing and feature implementation of your AI products.
 >
-> **[1:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=76)** In the next video, we'll talk about AI security risks and how they might impact your company.
+> **[1:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-reputational-risks?u=76281980&t=76)** In the next video, we'll talk about [[AI Security]] risks and how they might impact your company.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Microsoft Products|Products]] (2), feature (2), [[ChatGPT]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[ChatGPT]] (1), [[AI Security]] (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### AI security risks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980)
+#### [AI security risks](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=0)** - [Instructor] As we deploy more AI models, AI security risks become more important.
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=0)** - [Instructor] As we deploy more AI models, [[AI Security]] risks become more important.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=6)** In this video, we'll cover some of the types of AI security vulnerabilities, ways to mitigate, and the impacts that these might have on your business.
 >
@@ -3500,13 +3450,13 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=88)** With a combination of different training data and prompts, it is possible for generative models to generate the wrong type of image, for example, generating a handbag into a toaster.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=100)** So before launching your models, it's important to do something called red teaming, which is doing internal adversarial testing to figure out what might go wrong.
+> **[1:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=100)** So before launching your models, it's important to do something called [[Red Teaming]], which is doing internal adversarial testing to figure out what might go wrong.
 >
 > **[1:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=109)** On the other side of the spectrum, there's something called blue teaming, which is the exercise of doing internal defense, and the AI security space is pretty new.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=118)** So there are a few initiatives launching that might be helpful.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=120)** For example, for LLMs, Meta launched the Purple LLaMa Initiative providing some tools for teams to both red team and blue team these types of large language models.
+> **[2:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=120)** For example, for LLMs, Meta launched the Purple [[LLaMA]] Initiative providing some tools for teams to both red team and blue team these types of [[Large Language Models (LLM)|large language models]].
 >
 > **[2:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=131)** And moving on to the large language model side, for large language model apps, there are two main dangers.
 >
@@ -3524,7 +3474,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=179)** Now there are even more advanced techniques that can get through even the most stringent security teams.
 >
-> **[3:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=184)** For example, in 2023, there's a more complex technique used on Google Bard.
+> **[3:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=184)** For example, in 2023, there's a more complex technique used on [[Google]] Bard.
 >
 > **[3:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-security-risks?u=76281980&t=189)** The idea of the compromise was, by using markdown images, you're able to expose some of the information in people's Google Docs.
 >
@@ -3578,7 +3528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (10), [[Security]] (8), business (4), [[Red Teaming]] (2)
+> **Frameworks & Libraries:** [[AI Security]] (4), [[Red Teaming]] (2), [[Google]] (2), [[LLaMA]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** rag (1), llm (1)
@@ -3586,8 +3536,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI impact on service level agreements
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980)
+#### [AI impact on service level agreements](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3613,7 +3562,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=45)** For certain applications, AI might be a nice to have or optional.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=49)** For example, in a word processor, text rephrasing might be an optional but nice to have feature.
+> **[0:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=49)** For example, in a [[Microsoft Word|word]] processor, text rephrasing might be an optional but nice to have feature.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=55)** Now, if we move down into the critical path, something like an AI powered search bar might be very important.
 >
@@ -3627,7 +3576,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=82)** So for that, even if the AI service goes down, the application can keep functioning.
 >
-> **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=87)** The other alternative is to have a multi-AI strategy.
+> **[1:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=87)** The other alternative is to have a multi-[[AI Strategy]].
 >
 > **[1:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-impact-on-service-level-agreements?u=76281980&t=90)** You could either use multiple models from one provider, you can use multiple providers, for example, OpenAI and Cohere, or you can self-host some models just in case a provider goes down.
 >
@@ -3689,7 +3638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), business (3), application (3), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[AI Strategy]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** sla (2)
 > **Cross-References:** we talked about (1), next video (1)
@@ -3698,8 +3647,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### AI's environmental impacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980)
+#### [AI's environmental impacts](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3707,7 +3655,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=3)** So AI uses many resources along the many steps along the way.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=8)** This includes data collection and processing, training, and inference.
+> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=8)** This includes [[Data Collection]] and processing, training, and inference.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=13)** Let's talk about the resources that we use.
 >
@@ -3723,7 +3671,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=50)** And for training an individual model like GPT 3, the researchers estimate that it used around 5.4 million liters of water.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=56)** And for running something like ChatGPT, 5 or 10 prompts might use around two cups of water.
+> **[0:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=56)** And for running something like [[ChatGPT]], 5 or 10 prompts might use around two cups of water.
 >
 > **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=61)** Now, most cloud vendors have pledged to be water positive by 2030.
 >
@@ -3751,7 +3699,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=135)** Now, in training models, it's becoming more common to disclose the carbon impact.
 >
-> **[2:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=139)** One recent example is from LLaMa 2 where they disclose how much GPU hours they used, the power consumption of each, and the total carbon emitted.
+> **[2:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=139)** One recent example is from [[LLaMA]] 2 where they disclose how much GPU hours they used, the power consumption of each, and the total carbon emitted.
 >
 > **[2:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/ai-s-environmental-impacts?u=76281980&t=148)** And one thing that this misses is the electricity power from the other chips that are being used that we talked about, the compute, RAM, disk, and cooling systems, along with the power and materials needed to build the data centers that power all these chips.
 >
@@ -3783,7 +3731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), power (9), data (5), [[ChatGPT]] (3), next (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Data Collection]] (1), [[LLaMA]] (1)
 > **Cross-References:** in the next (2), we talked about (1), in the last (1)
 > **Env Vars:** gpt (1), gpu (1), ram (1)
 > **Versions:** 4.2 (1), 6.6 (1), 5.4 (1)
@@ -3795,8 +3743,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unit and margin pricing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980)
+#### [Unit and margin pricing for AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3820,7 +3767,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=45)** So let's go through some key information.
 >
-> **[0:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=47)** We'll assume for our classifier our prompt length is a thousand tokens.
+> **[0:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=47)** We'll assume for our classifier our prompt length is a thousand [[Tokens]].
 >
 > **[0:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=51)** The cost of the business for a million tokens is half a dollar.
 >
@@ -3850,7 +3797,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=116)** We'll assume our average cost for running these models is $50 per month with a max cost of a hundred dollars.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=122)** This represents the elastic nature of cloud computing.
+> **[2:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=122)** This represents the elastic nature of [[Cloud Computing]].
 >
 > **[2:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=126)** Now, for our customers, we're still going to price it at $2 per a thousand requests.
 >
@@ -3868,7 +3815,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=162)** But in the lower request range, we'll have a lower margin and potentially a negative margin.
 >
-> **[2:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=167)** So the drawback of this approach is its often hard to predict margins 'cause we need to know how many requests we're going to have, and in this case, it's hard to predict margins because it's often really difficult to time model scalability for a continuous use case.
+> **[2:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=167)** So the drawback of this approach is its often hard to predict margins 'cause we need to know how many requests we're going to have, and in this case, it's hard to predict margins because it's often really difficult to time model [[Scalability]] for a continuous use case.
 >
 > **[3:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=182)** So using the same prices will have different costs, whether we're using a third party model with unit pricing or running our own.
 >
@@ -3894,7 +3841,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=226)** Now the fifth benefit or drawback is you can compete or lose on market price.
 >
-> **[3:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=232)** In some cases, like right now, some AI products are actually being priced under cost, so it might be very difficult to generate the revenue that you need at unit pricing.
+> **[3:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=232)** In some cases, like right now, some AI [[Microsoft Products|products]] are actually being priced under cost, so it might be very difficult to generate the revenue that you need at unit pricing.
 >
 > **[4:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/unit-and-margin-pricing-for-ai?u=76281980&t=242)** In the next video, we'll talk about a variant of unit pricing, which is based on time.
 >
@@ -3902,15 +3849,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (3), [[Tokens]] (2), business (2), llm (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Cloud Computing]] (1), [[Scalability]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Time consumption pricing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980)
+#### [Time consumption pricing for AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3944,7 +3890,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980&t=64)** Now, similar to our previous base pricing, we can always adjust our margin based on the market price.
 >
-> **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980&t=70)** Now, at this use case, we assume that we have zero time to actually spin up and spin down any hardware, and in practice this isn't true.
+> **[1:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980&t=70)** Now, at this use case, we assume that we have zero time to actually spin up and spin down any [[Hardware]], and in practice this isn't true.
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/time-consumption-pricing-for-ai?u=76281980&t=78)** So we might want to add in a minimum time consumption charge.
 >
@@ -3976,7 +3922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), next (2), ai (1), gcp (1), business (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Env Vars:** gpu (1), gcp (1)
 > **Analogies:** similar to (2)
 > **Versions:** 0.50 (1)
@@ -3984,8 +3930,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value-based pricing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980)
+#### [Value-based pricing for AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4017,7 +3962,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980&t=74)** Another challenge is that value may be long term.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980&t=77)** For example, in the search engine optimization space, you could use AI generated content, but search engine optimization takes time, so even though you might generate hundreds or thousands of articles, there might be downstream effects on brand, engagement and overall marketing impact.
+> **[1:17](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980&t=77)** For example, in the [[Search Engine Optimization (SEO)|search engine optimization]] space, you could use AI generated content, but search engine optimization takes time, so even though you might generate hundreds or thousands of articles, there might be downstream effects on brand, engagement and overall marketing impact.
 >
 > **[1:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/value-based-pricing-for-ai?u=76281980&t=94)** So you might be in a situation where you've sold immediate savings, but caused long-term harm to a customer.
 >
@@ -4059,7 +4004,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), ai (2), [[Automation]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (2), data (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (2)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -4067,24 +4012,23 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Subscription pricing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980)
+#### [Subscription pricing for AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=0)** - [Instructor] In this video, we'll cover subscription-based pricing.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=4)** This is a common technique in the software world, giving rise to the industry of SaaS.
+> **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=4)** This is a common technique in the software world, giving rise to the industry of [[SaaS]].
 >
 > **[0:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=9)** Now, the benefits of subscription-based pricing is that it offers predictable revenue.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=13)** An example of subscription-based pricing is that ChatGPT costs $20 us per month for the premium subscription and to the average user ChatGPT's pricing is pretty simple, but there also exists a teams and enterprise plan.
+> **[0:13](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=13)** An example of subscription-based pricing is that [[ChatGPT]] costs $20 us per month for the premium subscription and to the average user ChatGPT's pricing is pretty simple, but there also exists a teams and enterprise plan.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=27)** This is similar to the other SaaS services that we've seen, for example, weights and biases from our training chapter.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=34)** Now, for many existing businesses like Microsoft, Salesforce and Google AI is a common add-on.
+> **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=34)** Now, for many existing businesses like [[Microsoft]], Salesforce and [[Google]] AI is a common add-on.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=42)** For example, Microsoft offers Microsoft Co-pilot for Office 365 for 30 extra dollars a month, assuming you already have a license.
+> **[0:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=42)** For example, Microsoft offers Microsoft Co-pilot for [[Microsoft Office|Office]] 365 for 30 extra dollars a month, assuming you already have a license.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=51)** This is a great upsell opportunity.
 >
@@ -4096,7 +4040,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=76)** Won't this cost us a bunch of money to run these models?
 >
-> **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=79)** Well, this might be the case, one of the smart things that OpenAI has done is limit usage for GPT-4.
+> **[1:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=79)** Well, this might be the case, one of the smart things that OpenAI has done is limit usage for [[GPT-4]].
 >
 > **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=86)** So you have unlimited usage for the cheaper 3.5 model, and you're limited as if this video's making to 40 messages for three hours for GPT-4.
 >
@@ -4132,9 +4076,9 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=173)** You can also see that my pricing has gone up based on this consumption.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=177)** Now, with the different techniques that we've learned, we can combine them to form our pricing strategy.
+> **[2:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=177)** Now, with the different techniques that we've learned, we can combine them to form our [[Pricing Strategy]].
 >
-> **[3:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=181)** At the company I work at, which is Voiceflow, we combine SaaS-based pricing for every user that utilizes the product, consumption-based pricing for the number of interactions that you have with your assistant and unit based pricing for AI generative tokens.
+> **[3:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=181)** At the company I work at, which is Voiceflow, we combine SaaS-based pricing for every user that utilizes the product, consumption-based pricing for the number of interactions that you have with your assistant and unit based pricing for AI generative [[Tokens]].
 >
 > **[3:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=198)** So through this model, we try to mitigate costs and capture upside.
 >
@@ -4152,7 +4096,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=231)** To summarize subscription based pricing for AI, the benefits are that we can get predictable revenue.
 >
-> **[3:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=238)** It's also easy to cross sell AI for existing products.
+> **[3:58](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=238)** It's also easy to cross sell AI for existing [[Microsoft Products|products]].
 >
 > **[4:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/subscription-pricing-for-ai?u=76281980&t=241)** We can also combine subscription-based pricing with other pricing to mitigate downside and get potential upside.
 >
@@ -4162,7 +4106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[SaaS]] (4), [[Microsoft]] (4), power (4), [[ChatGPT]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (4), [[Microsoft]] (4), [[ChatGPT]] (3), [[GPT-4]] (3), [[Google]] (1)
 > **Analogies:** for example (4), similar to (1)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** gpt (3)
@@ -4171,8 +4115,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Start-up funding and grant programs for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/start-up-funding-and-grant-programs-for-ai?u=76281980)
+#### [Start-up funding and grant programs for AI](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/start-up-funding-and-grant-programs-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4246,7 +4189,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (2)
 > **Definitions:** is called (3), is a  (3), is an  (1), stands for (1)
 > **Env Vars:** nrc (1), irap (1)
 > **CLI Commands:** make (1)
@@ -4254,8 +4196,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Pricing your logo generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-pricing-your-logo-generator?u=76281980)
+#### [Challenge: Pricing your logo generator](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-pricing-your-logo-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4276,8 +4217,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Pricing your logo generator
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980)
+#### [Solution: Pricing your logo generator](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4291,11 +4231,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=18)** Now, apart from our AI logo generation, businesses may be interested in additional image services.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=24)** And my final assumption is that using DALL-E 3 is sufficient enough for our quality.
+> **[0:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=24)** And my final assumption is that using [[DALL-E]] 3 is sufficient enough for our quality.
 >
 > **[0:28](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=28)** So let's go into our pricing model.
 >
-> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=30)** So I've chosen to do a value-based SaaS solution.
+> **[0:30](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=30)** So I've chosen to do a value-based [[SaaS]] solution.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-pricing-your-logo-generator?u=76281980&t=34)** My goal is to compete against human costs and show that we can deliver a better solution faster.
 >
@@ -4339,7 +4279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (3), [[DALL-E]] (3), [[SaaS]] (2), feature (1)
+> **Frameworks & Libraries:** [[DALL-E]] (3), [[SaaS]] (2)
 > **Versions:** 3.99 (1), 13.99 (1), 99.7 (1), 71.4 (1)
 > **Env Vars:** dall (3)
 > **CLI Commands:** make (1)
@@ -4348,8 +4288,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light upbeat music) (1)
 
-#### Building a business case for AI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980)
+#### [Building a business case for AI projects](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4357,9 +4296,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=4)** Now, this is the structure we're going to follow.
 >
-> **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=6)** We're going to present a problem or opportunity, a solution, key metrics, a financial analysis, a resource ask, and the risks for this proposal.
+> **[0:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=6)** We're going to present a problem or opportunity, a solution, key metrics, a [[Financial Analysis]], a resource ask, and the risks for this proposal.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=18)** Now, for the purpose of this video, we're going to focus on an e-commerce B2B software company.
+> **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=18)** Now, for the purpose of this video, we're going to focus on an [[E-Commerce]] B2B software company.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=24)** So to start off, we need to have a clear problem to solve.
 >
@@ -4427,7 +4366,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=225)** We're also going to decrease our support OpEx due to fewer future support hires and our support center lowering our outsource volume.
 >
-> **[3:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=234)** So my ask is for $250,000, $100,000 for a new SaaS support platform, and 150,000 for two developers and one product manager for three months.
+> **[3:54](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=234)** So my ask is for $250,000, $100,000 for a new [[SaaS]] support platform, and 150,000 for two developers and one product manager for three months.
 >
 > **[4:06](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-business-case-for-ai-projects?u=76281980&t=246)** And these developers and product manager will continue to support this platform and replace that support OpEx we discussed earlier.
 >
@@ -4451,7 +4390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), product (3), [[Financial Analysis]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Financial Analysis]] (2), [[E-Commerce]] (1), [[SaaS]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** b2b (1), xyz (1), roi (1)
 > **Cross-References:** we discussed (1), in the next (1)
@@ -4459,8 +4398,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building a financial projection for AI projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980)
+#### [Building a financial projection for AI projects](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4504,7 +4442,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=92)** Our customer churn rate, our net customer month over month growth, and our net revenue retention.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=98)** Now scrolling down on lines 21 to 25, we have our probability to churn with customer and no customer support tickets.
+> **[1:38](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=98)** Now scrolling down on lines 21 to 25, we have our [[Probability]] to churn with customer and no [[Customer Support]] tickets.
 >
 > **[1:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=106)** To understand these metrics, let's go into our Support Metrics sheet, which is number four.
 >
@@ -4558,7 +4496,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=259)** Now, looking at this sheet, we have a couple components.
 >
-> **[4:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=262)** We have our business as usual support costs, which involve our calls and our cost per call, our bot SaaS cost and maintenance costs, and our cost per support employee.
+> **[4:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=262)** We have our business as usual support costs, which involve our calls and our cost per call, our bot [[SaaS]] cost and maintenance costs, and our cost per support employee.
 >
 > **[4:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=274)** And from a cost perspective, our promise is that we're going to reduce the amount of support that we have.
 >
@@ -4588,11 +4526,11 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=365)** We've talked about the profit, revenue opportunities, cost reduction opportunities, and key support metrics.
 >
-> **[6:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=372)** In the next video, you'll be challenged to create a presentation for a new business case, putting together your financial and business acumen to propose a new AI feature.
+> **[6:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/building-a-financial-projection-for-ai-projects?u=76281980&t=372)** In the next video, you'll be challenged to create a presentation for a new business case, putting together your financial and [[Business Acumen]] to propose a new AI feature.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Customer Support]] (3), next (2), [[Probability]] (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Customer Support]] (3), [[Probability]] (2), [[SaaS]] (1), [[Business Acumen]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** csat (1)
@@ -4601,8 +4539,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Building an AI business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980)
+#### [Challenge: Building an AI business case](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4610,11 +4547,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=5)** - [Instructor] Your challenge is to build an AI business case.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=8)** For this challenge, you need to design a translation feature for an e-commerce SaaS platform.
+> **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=8)** For this challenge, you need to design a translation feature for an [[E-Commerce]] [[SaaS]] platform.
 >
 > **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=14)** Based on this feature, you need to put together a basic business case.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=18)** As we've talked about before, stating the problem, solution, key metrics, financial analysis, resourcing ask, and risks.
+> **[0:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=18)** As we've talked about before, stating the problem, solution, key metrics, [[Financial Analysis]], resourcing ask, and risks.
 >
 > **[0:27](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/challenge-building-an-ai-business-case?u=76281980&t=27)** Make sure to make assumptions, but justify them.
 >
@@ -4622,14 +4559,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), feature (2), ai (1), [[E-Commerce]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[SaaS]] (1), [[Financial Analysis]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Building an AI business case
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980)
+#### [Solution: Building an AI business case](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4667,9 +4603,9 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=109)** Our monthly fee for this add-on will be $99 for the basic plan and $599 for the premium plan.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=116)** We'll be using Google Translate; paying around $20 per 1 million characters.
+> **[1:56](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=116)** We'll be using [[Google]] Translate; paying around $20 per 1 million characters.
 >
-> **[2:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=120)** An average E-commerce website for our smaller users will have around 500,000 characters leading to an initial cost of $10.
+> **[2:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=120)** An average [[E-Commerce]] website for our smaller users will have around 500,000 characters leading to an initial cost of $10.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=129)** This gives us an initial margin of 90%.
 >
@@ -4681,11 +4617,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=153)** Now, in every subsequent month, we assume that usage will be lower because customers won't be launching to new locales every month.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=159)** Continuing our financial analysis, we expect our lifetime customer value for this add-on to be around $198 for two months worth of subscription.
+> **[2:39](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=159)** Continuing our [[Financial Analysis]], we expect our lifetime customer value for this add-on to be around $198 for two months worth of subscription.
 >
 > **[2:50](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=170)** For a premium user, we're expecting $6,000 for 12 months worth of subscription.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=175)** We're expecting around a 30% churn per month on this add-on since customers may not be launching new products or expanding every month.
+> **[2:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=175)** We're expecting around a 30% churn per month on this add-on since customers may not be launching new [[Microsoft Products|products]] or expanding every month.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/solution-building-an-ai-business-case?u=76281980&t=183)** While the 30% churn is quite high, we still think that this will be a sticky plan and we hope to reduce that churn risk later on.
 >
@@ -4735,7 +4671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), feature (4), business (2), next (2), [[E-Commerce]] (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Microsoft Products|Products]] (2), [[Google]] (1), [[Financial Analysis]] (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
@@ -4745,16 +4681,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### ROI on AI customer support automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980)
+#### [ROI on AI customer support automation](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=0)** - [Narrator] Two years after the release of ChatGPT, we're all still wondering what has been the business ROI of gen AI?
+> **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=0)** - [Narrator] Two years after the release of [[ChatGPT]], we're all still wondering what has been the business ROI of gen AI?
 >
 > **[0:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=7)** In this chapter, we'll go through a few use cases and see what's emerged in the industry.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=12)** To start us off, we'll cover the ROI on AI customer support.
+> **[0:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=12)** To start us off, we'll cover the ROI on AI [[Customer Support]].
 >
 > **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=16)** Now, customer support isn't homogenous.
 >
@@ -4782,7 +4717,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=86)** As we scroll down, we can see an overview of the product and some metrics on average customer support costs and rates.
 >
-> **[1:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=94)** In this case, MavenAGI fine-tuned GPT-4 as part of their release.
+> **[1:34](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=94)** In this case, MavenAGI fine-tuned [[GPT-4]] as part of their release.
 >
 > **[1:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=100)** Another case study is by Trilogy, a private equity firm that automated over 60% of their tickets using Voiceflow.
 >
@@ -4816,7 +4751,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=182)** There are three typical models that we've seen and that we've talked about earlier in this course.
 >
-> **[3:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=187)** There's a SaaS pricing model, where you charge by seat, or a general subscription.
+> **[3:07](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=187)** There's a [[SaaS]] pricing model, where you charge by seat, or a general subscription.
 >
 > **[3:12](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-customer-support-automation?u=76281980&t=192)** Consumption, which typically charges by the number of requests going to a customer system.
 >
@@ -4866,7 +4801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[Customer Support]] (11), product (3), business (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Customer Support]] (11), [[ChatGPT]] (1), [[GPT-4]] (1), [[SaaS]] (1)
 > **Env Vars:** roi (6), gpt (1), rag (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1), make (1)
@@ -4875,14 +4810,13 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### ROI on AI lead generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980)
+#### [ROI on AI lead generation](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=0)** - [Instructor] Now the highest ROI for your company is for AI to help you generate more revenue.
 >
-> **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=5)** In this case, we'll examine the ROI on AI lead generation.
+> **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=5)** In this case, we'll examine the ROI on AI [[Lead Generation]].
 >
 > **[0:08](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=8)** Within the domain of lead generation, there are typically three main approaches to using AI.
 >
@@ -4900,7 +4834,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=49)** Many of them do similar tasks in regard to inbound, outbound, or data enrichment in the sales domain.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=55)** Now, going into more specifics, one customer that I worked with, Sanlam Studios, built an AI financial coach in order to help users understand their lending products more.
+> **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=55)** Now, going into more specifics, one customer that I worked with, Sanlam Studios, built an AI financial coach in order to help users understand their lending [[Microsoft Products|products]] more.
 >
 > **[1:04](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=64)** It had a number of different features, including education, tough conversations about money, and understanding lending products.
 >
@@ -4922,7 +4856,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=115)** AI outbound sales is likely less documented because this automated messaging is often perceived from consumers as spam.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=122)** When companies are reaching out to prospective clients, having an AI automation can lessen the relationship with the humans on the other side, unless, however, we get to a world where we have AI agents talking to each other, both on the selling and buying side.
+> **[2:02](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=122)** When companies are reaching out to prospective clients, having an AI automation can lessen the relationship with the humans on the other side, unless, however, we get to a world where we have [[AI Agents]] talking to each other, both on the selling and buying side.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=135)** So in building outbound automation, it's important to keep in mind the relationship that you're having with your customer.
 >
@@ -4934,11 +4868,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=156)** We wouldn't want to invest heavily into voice AI automation if our customers prefer to use a texting channel.
 >
-> **[2:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=162)** We also need to understand how our customers will react to AI automation.
+> **[2:42](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=162)** We also need to understand how our customers will [[React.js|react]] to AI automation.
 >
 > **[2:46](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=166)** Now, based on this information, we'll be able to identify the highest ROI channels, whether we're using AI to do inbound qualification or make outbound calls to a long tail of customers that otherwise are harder to reach.
 >
-> **[2:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=179)** And finally, for sales automation, we might not always need to use AI.
+> **[2:59](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=179)** And finally, for [[Sales Automation]], we might not always need to use AI.
 >
 > **[3:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-lead-generation?u=76281980&t=183)** There are many different tools that are available.
 >
@@ -4948,7 +4882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), data (6), [[Microsoft Products|Products]] (4), [[Automation]] (4), [[Lead Generation]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Lead Generation]] (3), [[AI Agents]] (1), [[React.js|React]] (1), [[Sales Automation]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** roi (3)
 > **Definitions:** is a  (2)
@@ -4956,8 +4890,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### ROI on AI Developer tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980)
+#### [ROI on AI Developer tooling](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4969,7 +4902,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=10)** However, there have been quite a few studies regarding the ROI ON using AI developer tooling.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=15)** When we look at the software development process, there are typically three different categories we can group the process into.
+> **[0:15](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=15)** When we look at the [[Software Development]] process, there are typically three different categories we can group the process into.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=21)** The first one is writing code, the second one is testing, and the third one are ancillary tasks, such as writing documentation and providing updates.
 >
@@ -4977,7 +4910,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=37)** Let's take a look at a few case studies.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=40)** Now, a company that does significant research into the software development space is Google, which employs tens of thousands of software engineers.
+> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=40)** Now, a company that does significant research into the software development space is [[Google]], which employs tens of thousands of software engineers.
 >
 > **[0:47](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=47)** Now, looking through this research, we can see that there are a number of different factors that affect software development.
 >
@@ -5001,13 +4934,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=115)** Now, moving beyond Google, there's a recent report by Amazon, discussing very large migration using Amazon Q, their internal coding product.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=123)** The case study given is an upgrade from Java 8 to Java 17 using Amazon Q.
+> **[2:03](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=123)** The case study given is an upgrade from [[Java]] 8 to Java 17 using Amazon Q.
 >
 > **[2:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=129)** Amazon claims that they saved 4,500 years of software development time and saved $260 million in this process.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=136)** Now, this task is quite specific to an internal Amazon process, but many other companies are upgrading their software stack, so it's quite interesting to reference this as a case study.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=146)** And one more company that has done interesting research into this space is Microsoft and GitHub, measuring the productivity gains of Copilot.
+> **[2:26](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=146)** And one more company that has done interesting research into this space is [[Microsoft]] and [[GitHub]], measuring the productivity gains of [[Microsoft Copilot|Copilot]].
 >
 > **[2:33](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=153)** In this report, GitHub provides an overview on how leadership teams can measure the productivity gains of code copilots.
 >
@@ -5017,7 +4950,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=172)** On the development space, you might have heard about the emergence of AI coding agents.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=177)** And in 2024, we saw a few AI agents emerge in the coding space.
+> **[2:57](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=177)** And in 2024, we saw a few [[AI Agents]] emerge in the coding space.
 >
 > **[3:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=181)** Two of the major ones were Devin from Cognition Labs, which claim to be the first AI software engineer.
 >
@@ -5045,11 +4978,11 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=249)** In the scenario where AI can automate a large portion of your software development, it raises the question of how much domain knowledge people actually have to be able to solve and continue to make improvements.
 >
-> **[4:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=259)** Overall, the ROI on AI developer tooling has been quite positive, but raises further questions on how we build software development teams and build the best products out there.
+> **[4:19](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-developer-tooling?u=76281980&t=259)** Overall, the ROI on AI developer tooling has been quite positive, but raises further questions on how we build software development teams and build the best [[Microsoft Products|products]] out there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Software Development]] (12), [[Google]] (6), [[GitHub]] (3), teams (3)
+> **Frameworks & Libraries:** [[Software Development]] (12), [[Google]] (6), [[GitHub]] (3), [[Java]] (2), [[AI Agents]] (2)
 > **Env Vars:** roi (2), ceo (1)
 > **Tools:** github (3)
 > **Versions:** java 8 (1), java 17 (1)
@@ -5058,8 +4991,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### ROI on AI Copilots
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980)
+#### [ROI on AI Copilots](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5067,7 +4999,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=5)** Copilots come in three different flavors, general copilots that can help you with day-to-day tasks and aren't particularly specialized.
 >
-> **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=14)** Then there are domain-specific copilots that might help in areas that have specific nuances, for example, sales or customer support.
+> **[0:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=14)** Then there are domain-specific copilots that might help in areas that have specific nuances, for example, sales or [[Customer Support]].
 >
 > **[0:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=22)** There are also custom copilots that could be built for company-specific processes that need even more customization.
 >
@@ -5077,19 +5009,19 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=35)** So we'll start off with a quick article from Bain & Company from August of 2023.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=40)** This article estimates the percentage of labor time that would be automated using generative AI.
+> **[0:40](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=40)** This article estimates the percentage of labor time that would be automated using [[Generative AI]].
 >
 > **[0:45](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=45)** Now, the research methodology is proprietary to Bain & Company, but it does provide a framework to start thinking about how AI automation and copilots will affect human work.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=55)** For general copilots, it can be quite challenging to estimate what the ROI is for their efforts.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=61)** For example, we can look into broader reports, like this report by Google Cloud.
+> **[1:01](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=61)** For example, we can look into broader reports, like this report by [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[1:05](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=65)** That goes into GenAI ROI overviews.
 >
 > **[1:09](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=69)** And this provides a broader context, but we can also look at general copilots.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=74)** For example, Microsoft's 365 Copilot.
+> **[1:14](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=74)** For example, [[Microsoft]]'s 365 [[Microsoft Copilot|Copilot]].
 >
 > **[1:18](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=78)** In this report, Microsoft shares the productivity gains and ROI on using Copilot.
 >
@@ -5135,7 +5067,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=202)** For others, it might be a detractor.
 >
-> **[3:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=204)** We also need systems to verify the correctness of GenAI 'cause we don't want hallucinations to make it through the quality assurance process.
+> **[3:24](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=204)** We also need systems to verify the correctness of GenAI 'cause we don't want hallucinations to make it through the [[Quality Assurance]] process.
 >
 > **[3:31](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/roi-on-ai-copilots?u=76281980&t=211)** We should also think about how decisions are being made, whether AI automation is the one that's making the decision, or it's informing people with additional information and insights to make better decisions.
 >
@@ -5149,7 +5081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Automation]] (5), [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[Customer Support]] (1), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** roi (10), gpt (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
@@ -5161,8 +5093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5174,13 +5105,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980&t=11)** When you complete an AI financial proposal or presentation, I'd love to hear how it went.
 >
-> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980&t=16)** You can also follow me on LinkedIn where I post about both the technology and business side of AI.
+> **[0:16](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980&t=16)** You can also follow me on [[LinkedIn]] where I post about both the technology and business side of AI.
 >
 > **[0:22](https://www.linkedin.com/learning/ai-pricing-and-roi-a-technical-breakdown/next-steps?u=76281980&t=22)** Let's keep learning about AI and incorporating it into our business in a financially savvy way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

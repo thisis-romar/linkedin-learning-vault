@@ -108,14 +108,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Essentials deep dive
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
+#### [Essentials deep dive](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980&t=0)** - [Instructor] C# is one of the most popular programming languages in use and continues to make programming easier and more fun with each new version.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980&t=9)** In this course, we'll dig deeper into some essential features of C#, like generic types, lambda expressions, language integrated query, and more.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980&t=9)** In this course, we'll dig deeper into some essential features of C#, like generic types, lambda expressions, [[Language Integrated Query (LINQ)|language integrated query]], and more.
 >
 > **[0:19](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/essentials-deep-dive?u=76281980&t=19)** I'm Matt Milner, and I've been programming with C# for 20 years.
 >
@@ -125,12 +124,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), generic (1), [[Language Integrated Query (LINQ)|Language integrated query]] (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,11 +138,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=11)** Maybe you've used another programming language, or you've tried them out, or you've got some basic programming knowledge.
 >
-> **[0:18](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=18)** Also, as this is a part two, I'm assuming at you've watched or know the content of C Sharp Essential Training one, and the Learning C Sharp course on LinkedIn Learning, which was a prerequisite for that course.
+> **[0:18](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=18)** Also, as this is a part two, I'm assuming at you've watched or know the content of C Sharp Essential Training one, and the Learning C Sharp course on [[LinkedIn]] Learning, which was a prerequisite for that course.
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=31)** All of that's really going to help in this course for you to make sense of what we're talking about and really get the most out of it.
 >
-> **[0:39](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=39)** In this course, I'm going to use Visual Studio 2022 on Windows.
+> **[0:39](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=39)** In this course, I'm going to use Visual Studio 2022 on [[Windows]].
 >
 > **[0:44](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/what-you-should-know?u=76281980&t=44)** I'm going to be using C# 10 and .NET 6.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[Windows]] (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1)
 > **Tools:** visual studio (7)
 > **Env Vars:** net (3)
 > **Analogies:** for example (1), similar to (1)
@@ -177,8 +175,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CoderPad tour
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980)
+#### [CoderPad tour](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980&t=15)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:22](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/coderpad-tour?u=76281980&t=30)** The code challenge has four areas: instructions in the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used in the bottom right and a console for output in the bottom left.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -240,8 +237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
+#### [Understanding generics](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +291,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980&t=114)** I have a person class that I've defined over here in my library.
 >
-> **[1:58](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980&t=118)** That library is referenced by my LinkedIn essentials program.
+> **[1:58](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980&t=118)** That library is referenced by my [[LinkedIn]] essentials program.
 >
 > **[2:02](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-generics?u=76281980&t=122)** And it's just a simple class called Person, first and last name and age and an ID.
 >
@@ -393,7 +389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[LinkedIn]] (1), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -401,8 +397,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with generics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980)
+#### [Working with generics](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +407,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=16)** I'm just going to piece in a little bit of code here.
 >
-> **[0:20](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=20)** So this is just a string that represents some JSON, some JavaScript object notation.
+> **[0:20](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=20)** So this is just a string that represents some [[JSON]], some [[JavaScript]] object notation.
 >
 > **[0:25](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=25)** Pretty common format these days for serializing objects and it just indicates that we've got an ID property, first name, last name, and age, which should look familiar.
 >
@@ -448,7 +443,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=176)** Well, if we look at X now, we can see that there are properties on there called value and it has a return type of int 'cause that's the generic type parameter we provided.
 >
-> **[3:08](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=188)** If we look at git value or default, that's going to return an int.
+> **[3:08](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=188)** If we look at [[Git]] value or default, that's going to return an int.
 >
 > **[3:13](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-generics?u=76281980&t=193)** Again, because of the type parameter that we provided.
 >
@@ -488,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (12), [[JSON]] (11), [[Git]] (4), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JSON]] (11), [[Git]] (4), [[JavaScript]] (1)
 > **Env Vars:** json (10), var (1)
 > **CLI Commands:** git (4), make (1)
 > **Definitions:** is a  (3)
@@ -496,8 +491,7 @@ created: 2026-05-02
 > **Ports:** :00 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining generic types and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/defining-generic-types-and-methods?u=76281980)
+#### [Defining generic types and methods](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/defining-generic-types-and-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,7 +657,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for example (1), similar to (1), just like (1)
@@ -671,8 +664,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generic constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/generic-constraints?u=76281980)
+#### [Generic constraints](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/generic-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +796,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (3), next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** stands for (2)
 > **Analogies:** for example (1), similar to (1)
@@ -812,8 +803,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Generic type with constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-generic-type-with-constraints?u=76281980)
+#### [Solution: Generic type with constraints](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-generic-type-with-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +839,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1)
 > **Code Identifiers:** findlargest (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -861,8 +850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding collection types in the BCL
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
+#### [Understanding collection types in the BCL](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980&t=95)** I can do the same thing with ArrayList and now I've got a class and I could go add items to it.
 >
-> **[1:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980&t=101)** So I could take that and I can now add, and if I wanted to, I could add in say the word First so we can see that we've got a particular item in there.
+> **[1:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980&t=101)** So I could take that and I can now add, and if I wanted to, I could add in say the [[Microsoft Word|word]] First so we can see that we've got a particular item in there.
 >
 > **[1:51](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-collection-types-in-the-bcl?u=76281980&t=111)** If you notice, looking at the signature of Add, it takes an object.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), next (2), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Tools:** notion (3)
 > **Env Vars:** f12 (2)
 > **UI Navigation:** go to (2)
@@ -1029,8 +1017,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Warnings:** caution (1)
 
-#### Choosing the right collection type
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980)
+#### [Choosing the right collection type](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1146,7 +1133,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980&t=270)** Again, the list is one I use most often 'cause I often just need to manage a collection of items, with dictionary probably being the second most used for me.
 >
-> **[4:40](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980&t=280)** But you may have programming concepts in your applications where the Stack and Queue are really relevant.
+> **[4:40](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980&t=280)** But you may have [[Programming Concepts]] in your applications where the Stack and Queue are really relevant.
 >
 > **[4:46](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/choosing-the-right-collection-type?u=76281980&t=286)** If we come back in here, I'm just going to change this.
 >
@@ -1172,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), management (1), [[Programming Concepts]] (1)
+> **Frameworks & Libraries:** [[Programming Concepts]] (1)
 > **Env Vars:** net (3), http (1)
 > **Cross-References:** go back to (1), in the last (1)
 > **Tools:** notion (1)
@@ -1181,8 +1168,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-collections?u=76281980)
+#### [Working with collections](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1364,7 +1350,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), generic (1), feature (1)
 > **CLI Commands:** find (10)
 > **Code Identifiers:** customerthree (1), customerseven (1)
 > **Cross-References:** go back to (2)
@@ -1372,9 +1357,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1), essentially is (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
+> **Prerequisites:** set up (1)
 
-#### Working with keyed collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-keyed-collections?u=76281980)
+#### [Working with keyed collections](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/working-with-keyed-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,15 +1505,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), next (1)
 > **CLI Commands:** find (4), go run (1)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** keyfound (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding concurrent collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-concurrent-collections?u=76281980)
+#### [Understanding concurrent collections](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-concurrent-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1536,12 +1519,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-concurrent-collections?u=76281980&t=228)** Keep that in mind as well as you choose those collection types.
 
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** concurrent (1)
-
-#### Solution: Choose the right collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980)
+#### [Solution: Choose the right collection](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1571,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980&t=91)** So that way we don't get an exception trying to read off of the queue when there's nothing there.
 >
-> **[1:38](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980&t=98)** On our example, we're going to add two products in here, the widget and the gizmo, and then we're going to go through and add all those from the array and then call retrieve.
+> **[1:38](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980&t=98)** On our example, we're going to add two [[Microsoft Products|products]] in here, the widget and the gizmo, and then we're going to go through and add all those from the array and then call retrieve.
 >
 > **[1:51](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-choose-the-right-collection?u=76281980&t=111)** Great, we got the product back.
 >
@@ -1585,7 +1563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), generic (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
@@ -1595,8 +1573,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basics of try-catch-finally
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
+#### [Basics of try-catch-finally](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1608,7 +1585,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=17)** So if we go over here and look, you'll see over in the library, I've got an Employee class that's a simple record type of employee with an Id, FirstName and LastName.
 >
-> **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=28)** I've got a JSON file in the LinkedIn.Essentials2, the main program that just has some JavaScript Object Notation, or JSON, of an employee.
+> **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=28)** I've got a [[JSON]] file in the [[LinkedIn]].Essentials2, the main program that just has some [[JavaScript]] Object Notation, or JSON, of an employee.
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=38)** It's got that Id, FirstName and LastName.
 >
@@ -1698,7 +1675,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=272)** And so I've followed this pattern of making sure in the finally that I call dispose.
 >
-> **[4:38](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=278)** fileStreams, like lots of classes in .NET, especially those that access external resources, network connections, SQL database connections, for example, implement something called the IDisposable interface.
+> **[4:38](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=278)** fileStreams, like lots of classes in .NET, especially those that access external resources, network connections, [[SQL]] database connections, for example, implement something called the IDisposable interface.
 >
 > **[4:52](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=292)** And that means they have this dispose method to clean up whatever resources they might have.
 >
@@ -1708,7 +1685,7 @@ created: 2026-05-02
 >
 > **[5:26](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=326)** What that means is I can actually comment out this cleanup because the using statement understands IDisposable.
 >
-> **[5:35](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=335)** And what it says is for this block, so from lines 19 to 24, I'm going to have this fileStream, but regardless of how I exit, if there's an exception or if I just fall through the control flow, I want to make sure to dispose of whatever the object is that I've declared in this using statement.
+> **[5:35](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=335)** And what it says is for this block, so from lines 19 to 24, I'm going to have this fileStream, but regardless of how I exit, if there's an exception or if I just fall through the [[Control Flow]], I want to make sure to dispose of whatever the object is that I've declared in this using statement.
 >
 > **[5:53](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-try-catch-finally?u=76281980&t=353)** So that fileStream has to be something that implements IDisposable.
 >
@@ -1718,7 +1695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (7), [[LinkedIn]] (1), [[JavaScript]] (1), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[JSON]] (7), [[LinkedIn]] (1), [[JavaScript]] (1), [[SQL]] (1), [[Control Flow]] (1)
 > **Code Identifiers:** rightpath (6), filestream (6), wrongpath (4), tostring (1), filestreams (1)
 > **Env Vars:** json (5), net (2), sql (1)
 > **CLI Commands:** make (4), find (2)
@@ -1727,8 +1704,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Exception filtering by type with catch
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980)
+#### [Exception filtering by type with catch](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1740,7 +1716,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980&t=9)** One is file-based issue, trying to open that file and read it.
 >
-> **[0:13](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980&t=13)** And the other is with the JSON serialization.
+> **[0:13](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980&t=13)** And the other is with the [[JSON]] serialization.
 >
 > **[0:16](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-by-type-with-catch?u=76281980&t=16)** So just catching an exception while it will handle all of those, doesn't really tell us what the specific problem is.
 >
@@ -1818,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), hit (1), generic (1)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **Env Vars:** json (6)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
@@ -1827,8 +1803,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exception filtering with when
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980)
+#### [Exception filtering with when](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,7 +1811,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=6)** That's a derived type of an IOException that tells you exactly what went wrong.
 >
-> **[0:10](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=10)** But sometimes, the exceptions are more general, like a JSON exception.
+> **[0:10](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=10)** But sometimes, the exceptions are more general, like a [[JSON]] exception.
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=14)** There's a number of reasons that there might be a problem with our JSON.
 >
@@ -1874,7 +1849,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=86)** And so now, my catch is very specific.
 >
-> **[1:30](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=90)** I want a JSON exception where that message has the word "converted" in it.
+> **[1:30](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=90)** I want a JSON exception where that message has the [[Microsoft Word|word]] "converted" in it.
 >
 > **[1:35](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/exception-filtering-with-when?u=76281980&t=95)** So I'm really looking for that particular problem that we just saw.
 >
@@ -1926,14 +1901,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (12), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JSON]] (12), [[Microsoft Word|Word]] (1)
 > **Env Vars:** json (12)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Throwing and rethrowing exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/throwing-and-rethrowing-exceptions?u=76281980)
+#### [Throwing and rethrowing exceptions](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/throwing-and-rethrowing-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2075,15 +2049,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), next (1)
 > **Code Identifiers:** shouldthrow (5)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/creating-custom-exceptions?u=76281980)
+#### [Creating custom exceptions](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/creating-custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2201,7 +2173,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Env Vars:** ctor (2)
@@ -2210,8 +2181,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Multiple exception types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-multiple-exception-types?u=76281980)
+#### [Solution: Multiple exception types](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-multiple-exception-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2281,7 +2251,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), generic (1)
 > **Env Vars:** nre (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2291,8 +2260,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threading basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
+#### [Threading basics](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,7 +2346,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980&t=240)** Well, this should look mostly familiar.
 >
-> **[4:02](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980&t=242)** We're going out to that JSON file.
+> **[4:02](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980&t=242)** We're going out to that [[JSON]] file.
 >
 > **[4:05](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/threading-basics?u=76281980&t=245)** We're going to read the text and then we're going to deserialize it into an employee and we'll write that out.
 >
@@ -2422,7 +2390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Programming]] (3), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** json (1)
@@ -2430,8 +2398,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basics of using async and await
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980)
+#### [Basics of using async and await](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,7 +2456,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980&t=233)** Looking at DoFileWorkAsync, again, it has the async keyword, and it returns a task.
 >
-> **[3:59](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980&t=239)** Notice on line 60, now I'm reading that JSON by doing File.ReadAllTextAsync, and I'm awaiting that operation.
+> **[3:59](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980&t=239)** Notice on line 60, now I'm reading that [[JSON]] by doing File.ReadAllTextAsync, and I'm awaiting that operation.
 >
 > **[4:10](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/basics-of-using-async-and-await?u=76281980&t=250)** So a couple key things here, one is ReadAllTextAsync, just like I said, DoFileWorkAsync.
 >
@@ -2573,7 +2540,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (3), [[JSON]] (2), generic (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Analogies:** for example (2), just like (2), similar to (2), kind of like (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Env Vars:** json (2)
@@ -2582,8 +2549,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** setup (1)
 
-#### Task management
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/task-management?u=76281980)
+#### [Task management](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/task-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,12 +2657,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling errors when using await
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980)
+#### [Handling errors when using await](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2720,7 +2684,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980&t=56)** And then I'm going to come in and I'm going to remove that comma.
 >
-> **[1:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980&t=60)** So now that JSON file's invalid, so the code on line 54 should fail because the JSON exception's going to happen and the code on line 55's going to fail because we're not going to find that file.
+> **[1:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980&t=60)** So now that [[JSON]] file's invalid, so the code on line 54 should fail because the JSON exception's going to happen and the code on line 55's going to fail because we're not going to find that file.
 >
 > **[1:12](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/handling-errors-when-using-await?u=76281980&t=72)** But because these are tasks and they're asynchronous, they're not going to fail right away.
 >
@@ -2814,7 +2778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), next (1)
+> **Frameworks & Libraries:** [[JSON]] (6)
 > **Env Vars:** json (6), net (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -2823,8 +2787,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Task management
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-task-management?u=76281980)
+#### [Solution: Task management](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-task-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2868,8 +2831,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
+#### [Understanding delegates](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2957,7 +2919,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980&t=228)** Our DelegateSamples over here is going to get passed that.
 >
-> **[3:52](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980&t=232)** It's going to invoke it with the word delegates.
+> **[3:52](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980&t=232)** It's going to invoke it with the [[Microsoft Word|word]] delegates.
 >
 > **[3:55](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-delegates?u=76281980&t=235)** So if we run, we should get our first one, which is hello matt.
 >
@@ -2969,7 +2931,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -2977,8 +2939,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding events
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980)
+#### [Understanding events](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3076,7 +3037,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980&t=241)** And then, event arguments, console cancel event arguments passed in as well.
 >
-> **[4:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980&t=251)** So, the sender can be null, can also be the class with the object that sent it if that's important to you, but the ARGs are often typed in order to give you control over that event or have you react to that event in a certain way.
+> **[4:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980&t=251)** So, the sender can be null, can also be the class with the object that sent it if that's important to you, but the ARGs are often typed in order to give you control over that event or have you [[React.js|react]] to that event in a certain way.
 >
 > **[4:26](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-events?u=76281980&t=266)** So, for a cancel event, notice in the ARGs we have a cancel property that's a Boolean.
 >
@@ -3154,7 +3115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** f10 (1)
@@ -3162,8 +3123,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common delegates with Action<T> and Func<T>
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/3055829?u=76281980)
+#### [Common delegates with Action<T> and Func<T>](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/3055829?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3283,12 +3243,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), game (1), application (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - i (1)
 
-#### Understanding lambda expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980)
+#### [Understanding lambda expressions](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3298,7 +3256,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980&t=12)** So for those cases where, really, the implementation of that delegate is very focused, we don't need a standalone method for it, we want to be able to have a way to write a method without having to fully declare it or write that logic.
 >
-> **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980&t=28)** And these expressions come in two forms.
+> **[0:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980&t=28)** And these expressions come in two [[Forms]].
 >
 > **[0:31](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understanding-lambda-expressions?u=76281980&t=31)** So I'm just going to call this var T, and have a parameter list.
 >
@@ -3363,8 +3321,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expressions as delegates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980)
+#### [Expressions as delegates](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3416,7 +3373,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980&t=165)** So on line 23, we're going to be able to see that count come out because we've invoked that expression from this method.
 >
-> **[2:57](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980&t=177)** So we've got our hello expression delegates, that's the PassMeWork getting invoked there, calling back into our Lambda expression now with the word delegates.
+> **[2:57](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980&t=177)** So we've got our hello expression delegates, that's the PassMeWork getting invoked there, calling back into our Lambda expression now with the [[Microsoft Word|word]] delegates.
 >
 > **[3:07](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/expressions-as-delegates?u=76281980&t=187)** Then we have our hello World, that's what was called or passed into that function, when we call worker here, we're calling that expression we defined, and we first do a WriteLine, and then the function says what it returned here on line 23.
 >
@@ -3455,8 +3412,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other uses for expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-uses-for-expressions?u=76281980)
+#### [Other uses for expressions](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-uses-for-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3497,8 +3453,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** caveat (1)
 
-#### Solution: Delegate using Func<T>
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/4548039?u=76281980)
+#### [Solution: Delegate using Func<T>](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/4548039?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3547,8 +3502,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The case for extension methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
+#### [The case for extension methods](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/the-case-for-extension-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3652,7 +3606,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** numchars (3), stingextensions (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** error (1), net (1)
@@ -3660,8 +3613,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing an extension method
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/writing-an-extension-method?u=76281980)
+#### [Writing an extension method](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/writing-an-extension-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3685,13 +3637,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an extension method
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/using-an-extension-method?u=76281980)
+#### [Using an extension method](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/using-an-extension-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3749,14 +3699,13 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - now (1)
 
-#### Common extension methods on collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980)
+#### [Common extension methods on collections](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980&t=0)** - [Instructor] One of the most common places you'll find and use extension methods is on collections.
 >
-> **[0:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980&t=6)** We're going to look at, in the next chapter, language integrated query, and it's going to take advantage of these extension methods extensively.
+> **[0:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980&t=6)** We're going to look at, in the next chapter, [[Language Integrated Query (LINQ)|language integrated query]], and it's going to take advantage of these extension methods extensively.
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/common-extension-methods-on-collections?u=76281980&t=14)** If I just take a look at a list of string here, I've got all of these items.
 >
@@ -3832,14 +3781,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Language Integrated Query (LINQ)|Language integrated query]] (2)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Language integrated query]] (2)
 > **CLI Commands:** find (2)
 > **Code Identifiers:** orderednames (2)
 > **Cross-References:** in the next (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Extension method
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-extension-method?u=76281980)
+#### [Solution: Extension method](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-extension-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3901,14 +3849,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the purpose of LINQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
+#### [Understand the purpose of LINQ](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980&t=0)** - [Instructor] In the previous two chapters, we've looked at expressions and extension methods.
 >
-> **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980&t=5)** And while they both have great usability and provide excellent features in C# on their own, they're also part of a foundation of language-integrated query or LINQ.
+> **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980&t=5)** And while they both have great usability and provide excellent features in C# on their own, they're also part of a foundation of language-integrated query or [[Language Integrated Query (LINQ)|LINQ]].
 >
 > **[0:18](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/understand-the-purpose-of-linq?u=76281980&t=18)** So let's take a look.
 >
@@ -3984,14 +3931,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (1), next (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (1)
 > **Code Identifiers:** filteredemployees (1)
 > **Env Vars:** linq (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying collections with LINQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980)
+#### [Querying collections with LINQ](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4019,9 +3965,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=63)** We should see the same results.
 >
-> **[1:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=66)** If you've done any querying of databases, for example, or other systems, a lot of these keywords, a lot of this structure is very similar.
+> **[1:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=66)** If you've done any querying of [[Databases]], for example, or other systems, a lot of these keywords, a lot of this structure is very similar.
 >
-> **[1:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=75)** It's slightly different from, say, a SQL query where you'd start with the select first, then the from and the where.
+> **[1:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=75)** It's slightly different from, say, a [[SQL]] query where you'd start with the select first, then the from and the where.
 >
 > **[1:23](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/querying-collections-with-linq?u=76281980&t=83)** But it's the same kind of idea.
 >
@@ -4067,7 +4013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1), hit (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[SQL]] (1)
 > **Code Identifiers:** femployees (5)
 > **Env Vars:** sql (1), f10 (1)
 > **Definitions:** is a  (1)
@@ -4075,8 +4021,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering and ordering queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980)
+#### [Filtering and ordering queries](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4144,24 +4089,23 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980&t=155)** You can use grouping to get values that are grouped together in that projection.
 >
-> **[2:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980&t=161)** I'm just showing you a sampling of what the language integrated query can provide in terms of giving you this quick, easy way to query against collections in order to get out just what you need.
+> **[2:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980&t=161)** I'm just showing you a sampling of what the [[Language Integrated Query (LINQ)|language integrated query]] can provide in terms of giving you this quick, easy way to query against collections in order to get out just what you need.
 >
 > **[2:55](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/filtering-and-ordering-queries?u=76281980&t=175)** I've found that I tend to use this with collections more than even some of the other sources that we'll see in the next clip.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Language integrated query]] (1), next (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Language integrated query]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other sources for LINQ
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980)
+#### [Other sources for LINQ](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=0)** - [Instructor] We've used LINQ to work with these collections of objects, and that's great.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=0)** - [Instructor] We've used [[Language Integrated Query (LINQ)|LINQ]] to work with these collections of objects, and that's great.
 >
 > **[0:05](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=5)** There are a number of other places where you're going to query data usually.
 >
@@ -4181,7 +4125,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=57)** Another is to take this LINQ statement, everything on line 106 to line 109, and make an expression tree.
 >
-> **[1:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=66)** But then a provider might translate that into something that SQL Server or a database server can understand.
+> **[1:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=66)** But then a provider might translate that into something that [[Microsoft SQL Server|SQL Server]] or a database server can understand.
 >
 > **[1:13](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=73)** So you can't have, for example, method calls in here that wouldn't be understood on the server.
 >
@@ -4195,13 +4139,13 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=109)** Now that's going to put, as we know, the XElement class, but also maybe extension methods and other things, into scope.
 >
-> **[1:56](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=116)** So now I can load, and I'm going to load, just like we did with our JSON files, I'm going to load an Employees.xml.
+> **[1:56](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=116)** So now I can load, and I'm going to load, just like we did with our [[JSON]] files, I'm going to load an Employees.xml.
 >
 > **[2:08](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=128)** We'll put a semicolon there. Well, what the heck is that?
 >
 > **[2:10](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=130)** I've added this into our project files.
 >
-> **[2:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=135)** So you'll want to look in the Begin folder, you'll see that I've added the Employees.xml there, under the LinkedIn Essentials 2 project.
+> **[2:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=135)** So you'll want to look in the Begin folder, you'll see that I've added the Employees.xml there, under the [[LinkedIn]] Essentials 2 project.
 >
 > **[2:23](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/other-sources-for-linq?u=76281980&t=143)** And at the top we have an Employees element.
 >
@@ -4307,7 +4251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (9), data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Language Integrated Query (LINQ)|Linq]] (9), [[Microsoft SQL Server|Sql server]] (1), [[JSON]] (1), [[LinkedIn]] (1)
 > **Env Vars:** xml (9), linq (8), sql (1), json (1)
 > **Analogies:** for example (3), just like (2)
 > **Code Identifiers:** xemployees (3), xemplinq (1)
@@ -4316,12 +4260,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** coming up (2)
 
-#### Solution: LINQ query to filter and sort
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980)
+#### [Solution: LINQ query to filter and sort](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=0)** - [Instructor] In this challenge, you need to use LINQ in order to take a array or collection of orders.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=0)** - [Instructor] In this challenge, you need to use [[Language Integrated Query (LINQ)|LINQ]] in order to take a array or collection of orders.
 >
 > **[0:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=6)** You see our Order record defined there on line six, and we want orders with a totals greater than 1,000, and we want to sort them by the order date.
 >
@@ -4351,7 +4294,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=93)** And then, you can OrderBy, pass in o, o.orderDate, and toList().
 >
-> **[1:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=101)** This uses extension methods whereas previously, I was using the Language Integrated Query right in the C# language, but it's all based on these extension methods, so we should see success using either method.
+> **[1:41](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/solution-linq-query-to-filter-and-sort?u=76281980&t=101)** This uses extension methods whereas previously, I was using the [[Language Integrated Query (LINQ)|Language Integrated Query]] right in the C# language, but it's all based on these extension methods, so we should see success using either method.
 
 > [!info]- Semantic Content
 >
@@ -4366,8 +4309,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build something and continue learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)
+#### [Build something and continue learning](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4377,7 +4319,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=11)** As you look to the next steps, there's some additional C# training you could take.
 >
-> **[0:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=15)** We really touched on LINQ at the very end, or Language Integrated Query, but there's so much more you can do with it, and there's more complex operations and grouping that you can do as well.
+> **[0:15](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=15)** We really touched on [[Language Integrated Query (LINQ)|LINQ]] at the very end, or [[Language Integrated Query (LINQ)|Language Integrated Query]], but there's so much more you can do with it, and there's more complex operations and grouping that you can do as well.
 >
 > **[0:27](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=27)** So if that's something you think you're going to use, I would recommend you go out and dive a little deeper with some of the LINQ training.
 >
@@ -4385,19 +4327,19 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=54)** Additionally, just like I said at the end of C# Essentials, one, other C# language features that you can look into, and then other frameworks.
 >
-> **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=63)** So Entity Framework is a very common framework for people to use for data access to all sorts of database systems.
+> **[1:03](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=63)** So Entity Framework is a very common framework for people to use for data access to all sorts of [[Database Systems]].
 >
-> **[1:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=71)** [ASP.NET](https://ASP.NET) is a framework for building web applications.
+> **[1:11](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=71)** [[[ASP.NET]]](https://ASP.NET) is a framework for building web applications.
 >
-> **[1:16](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=76)** You have Blazor for building client applications using web technologies, like HTML and Cascading Style Sheets, but C# instead of JavaScript.
+> **[1:16](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=76)** You have Blazor for building client applications using web technologies, like [[HTML]] and [[Cascading Style Sheets (CSS)|Cascading Style Sheets]], but C# instead of [[JavaScript]].
 >
-> **[1:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=88)** You have Xamarin and .NET MAUI coming out soon, all for building cross-platform applications, especially mobile applications for iOS, Android, and Windows and Mac.
+> **[1:28](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=88)** You have Xamarin and .NET MAUI coming out soon, all for building cross-platform applications, especially mobile applications for iOS, [[Android]], and [[Windows]] and Mac.
 >
 > **[1:40](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=100)** And you have Windows Presentation Foundation, and other UI frameworks if you're specifically targeting Windows.
 >
-> **[1:47](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=107)** So depending on the kinds of applications you want to build, any of these last four may be a good place for you to move next with your C#, and if you're going to be accessing databases in any of those kinds of applications.
+> **[1:47](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=107)** So depending on the kinds of applications you want to build, any of these last four may be a good place for you to move next with your C#, and if you're going to be accessing [[Databases]] in any of those kinds of applications.
 >
-> **[2:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=120)** Entity Framework is Microsoft's offering in that space that you'll want to take a look at.
+> **[2:00](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=120)** Entity Framework is [[Microsoft]]'s offering in that space that you'll want to take a look at.
 >
 > **[2:06](https://www.linkedin.com/learning/c-sharp-essential-training-2-generics-collections-and-linq/build-something-and-continue-learning?u=76281980&t=126)** Now, other than watch courses, the main thing I can recommend is that you go build something you're excited about.
 >
@@ -4409,7 +4351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (5), [[Windows]] (3), next (2), [[Language Integrated Query (LINQ)|Linq]] (2), web (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Language Integrated Query (LINQ)|Linq]] (2), [[Language Integrated Query (LINQ)|Language integrated query]] (1), [[Database Systems]] (1), [[ASP.NET]] (1)
 > **Env Vars:** linq (2), net (2), asp (1), html (1), maui (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** go build (1)

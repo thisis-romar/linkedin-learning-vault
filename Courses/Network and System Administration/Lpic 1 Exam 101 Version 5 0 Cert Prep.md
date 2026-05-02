@@ -165,12 +165,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get ready for LPIC-1
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980)
+#### [Get ready for LPIC-1](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=0)** - [Grant] Possessing credentials as well known as the Linux Professional Institute's LPIC-1 certification will help you secure a position in the IT industry as a Linux administrator.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=0)** - [Grant] Possessing credentials as well known as the [[Linux]] Professional Institute's LPIC-1 certification will help you secure a position in the IT industry as a Linux administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=9)** The LPIC-1 certification is a popular distribution neutral Linux certification.
 >
@@ -182,7 +181,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=35)** This course ends with tips and tricks on taking the exam to help you prepare.
 >
-> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=39)** As an added bonus, I provide quick reply answers to questions on videos in the LinkedIn learning library.
+> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=39)** As an added bonus, I provide quick reply answers to questions on videos in the [[LinkedIn]] learning library.
 >
 > **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-ready-for-lpic-1?u=76281980&t=44)** This is Grant McWilliams, college professor and Linux enthusiast.
 >
@@ -197,12 +196,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, we'll be using CentOS 7 Enterprise Linux, which is a clone of Red Hat Enterprise Linux 7, as well as Ubuntu 19.04, running in VirtualBox virtual machines.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course, we'll be using CentOS 7 Enterprise [[Linux]], which is a clone of Red Hat Enterprise Linux 7, as well as [[Ubuntu]] 19.04, running in VirtualBox [[Virtual Machines]].
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=11)** In this course, when I refer to Enterprise Linux 7, I mean Red Hat Enterprise Linux 7 or CentOS 7 Enterprise Linux.
 >
@@ -214,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=28)** For this course, we'll install Linux in VirtualBox virtual machines.
 >
-> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=31)** There are versions for VirtualBox for Windows, macOS, Solaris, and various Linux distributions.
+> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=31)** There are versions for VirtualBox for [[Windows]], macOS, Solaris, and various Linux distributions.
 >
 > **[0:36](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=36)** For this course, I'll be running VirtualBox on a Linux host.
 >
@@ -242,13 +240,13 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=102)** If you're using Windows as the host OS, I recommend eight gigabytes of RAM minimum.
 >
-> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=107)** Notice that these hardware requirements are not that large.
+> **[1:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=107)** Notice that these [[Hardware]] requirements are not that large.
 >
 > **[1:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-you-should-know?u=76281980&t=110)** Most computers built in the last 10 years will work fine.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Linux]] (13), [[Ubuntu]] (3), [[Virtual Machines]] (3), [[Windows]] (3), [[Hardware]] (1)
 > **Env Vars:** amd (3), cpu (1), iso (1), ram (1)
 > **Prerequisites:** you'll need (2), install (1), make sure you have (1)
 > **Versions:** 19.04 (2)
@@ -257,12 +255,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Exercise Files:** download the (1)
 
-#### About the LPIC-1 exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
+#### [About the LPIC-1 exam](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=0)** - [Instructor] The Linux Professional Institute created the LPIC-1 certification in 1999 about 10 years after the first Linux kernel was released as an entry level distribution agnostic certification.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=0)** - [Instructor] The [[Linux]] Professional Institute created the LPIC-1 certification in 1999 about 10 years after the first Linux kernel was released as an entry level distribution agnostic certification.
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=11)** In 2010, the Linux Professional Institute teamed up with CompTIA and created a combined set of exams.
 >
@@ -278,11 +275,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=50)** And unlike the previous certification, is not tied to the CompTIA Linux+ certification.
 >
-> **[0:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=55)** This course covers the new LPIC-1 Version 5, 101 exam which focuses on System Architecture including disk layout and the boot process, kernel modules, and both Debian and Red Hat package managers.
+> **[0:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=55)** This course covers the new LPIC-1 Version 5, 101 exam which focuses on [[System Architecture]] including disk layout and the boot process, kernel modules, and both Debian and Red Hat package managers.
 >
 > **[1:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=68)** It has increased focus on virtualization technologies such as containers and cloud initialization.
 >
-> **[1:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=73)** It still covers file editing, permissions and user management as it has in the past.
+> **[1:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=73)** It still covers file editing, permissions and [[User Management]] as it has in the past.
 >
 > **[1:19](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=79)** This course covers Exam 101 only.
 >
@@ -290,7 +287,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=84)** And you have 90 minutes to complete them.
 >
-> **[1:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=86)** The exam costs $200 US and the exam can be taken at many Pearson VUE testing centers around the world.
+> **[1:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=86)** The exam costs $200 US and the exam can be taken at many Pearson [[Vue.js|VUE]] testing centers around the world.
 >
 > **[1:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=93)** This certification is valid for five years.
 >
@@ -300,7 +297,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=108)** Check the LPI website for more information on available languages.
 >
-> **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=112)** When you arrive at the Pearson Vue testing center, two forms of ID will be required and no personal items will be allowed in the testing room.
+> **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=112)** When you arrive at the Pearson Vue testing center, two [[Forms]] of ID will be required and no personal items will be allowed in the testing room.
 >
 > **[1:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=119)** You must arrive at the testing center 15 minutes early.
 >
@@ -316,13 +313,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=150)** There are separate courses covering disk systems, networking, scripting and so on.
 >
-> **[2:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=154)** In this course, we'll be using CentOS 7 for a lot of the exam objectives including systemd, disk systems including partitioning and LVM as well as RPM and Yum package management.
+> **[2:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=154)** In this course, we'll be using CentOS 7 for a lot of the exam objectives including systemd, disk systems including partitioning and LVM as well as RPM and Yum [[Package Management]].
 >
-> **[2:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=165)** We'll be using Ubuntu in the videos covering the Debian package manager.
+> **[2:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-the-lpic-1-exam?u=76281980&t=165)** We'll be using [[Ubuntu]] in the videos covering the Debian package manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Vue.js|Vue]] (2), product (1), [[System Architecture]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Vue.js|Vue]] (2), [[System Architecture]] (1), [[User Management]] (1), [[Forms]] (1)
 > **Env Vars:** lpic (5), lxo (2), suse (1), vue (1), lpi (1)
 > **Versions:** version 5 (2)
 > **CLI Commands:** yum (1)
@@ -331,12 +328,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** initialization (1)
 
-#### CentOS 7 install
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980)
+#### [CentOS 7 install](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=0)** - [Instructor] For most of this course we'll be using a CentOS seven Enterprise Linux virtual machine running in VirtualBox. I won't walk through every step of the installation, but instead we'll focus on the important parts.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=0)** - [Instructor] For most of this course we'll be using a CentOS seven Enterprise [[Linux]] virtual machine running in VirtualBox. I won't walk through every step of the installation, but instead we'll focus on the important parts.
 >
 > **[0:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=10)** Here's a short checklist of what we need to do to install successfully. Number one, be sure you have virtualization turned on in your BIOS slash UEFI.
 >
@@ -346,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=24)** To do so go to [virtualbox.org](https://virtualbox.org) and click on the download VirtualBox six icon.
 >
-> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=29)** I'll be using Linux on my host OS but Windows, macOS 10 and Solaris will also work.
+> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=29)** I'll be using Linux on my host OS but [[Windows]], macOS 10 and Solaris will also work.
 >
 > **[0:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=34)** If you're using Linux, you may be able to install VirtualBox to the package manager instead.
 >
@@ -386,7 +382,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=111)** This is a nice shortcut saving time.
 >
-> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=114)** Now click to the rest of the dialogues by taking the defaults.
+> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=114)** Now click to the [[Representational State Transfer (REST)|rest]] of the dialogues by taking the defaults.
 >
 > **[1:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-install?u=76281980&t=119)** After the VM has been created, click on Settings to optimize the VM.
 >
@@ -464,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), next (2), [[Virtualization]] (1), web (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Windows]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (20), go to (1), scroll down (1), checkbox (1)
 > **Env Vars:** iso (3), gui (3), bios (1), uefi (1), usb (1)
 > **Prerequisites:** install (11), required to (1)
@@ -473,8 +469,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Code Identifiers:** macos (1)
 
-#### CentOS 7 lab setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980)
+#### [CentOS 7 lab setup](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=91)** And enter your password if prompted.
 >
-> **[1:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=94)** This installs the software development tools.
+> **[1:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=94)** This installs the [[Software Development]] tools.
 >
 > **[1:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/centos-7-lab-setup?u=76281980&t=97)** After they're done, we'll install the kernel headers.
 >
@@ -644,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), hit (4), cd (3), power (3), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **UI Navigation:** click on (32), right-click (2), select the (1)
 > **CLI Commands:** make (6), sudo (4), yum (3), cd (3)
 > **Prerequisites:** install (7), configure (1), set up (1)
@@ -653,14 +648,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), later in (1)
 > **Exercise Files:** download the (2)
 
-#### Ubuntu 19.04 install
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980)
+#### [Ubuntu 19.04 install](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=0)** - [Instructor] We'll use our second Linux installation to demonstrate Debian package management and the AppArmor mandatory access control system.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=0)** - [Instructor] We'll use our second [[Linux]] installation to demonstrate Debian [[Package Management]] and the AppArmor mandatory access control system.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=7)** For this we'll install Ubuntu Linux 19.04 in a virtual machine.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=7)** For this we'll install [[Ubuntu]] Linux 19.04 in a virtual machine.
 >
 > **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=12)** You could possibly use another Debian-based distribution, such as Linux Mint or even Debian itself.
 >
@@ -682,7 +676,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=65)** Start typing the name Ubuntu so the fields auto select, then change the name to ubhost1 and then click on next.
 >
-> **[1:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=75)** Now click quickly through the rest of the dialogues, choosing defaults.
+> **[1:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=75)** Now click quickly through the [[Representational State Transfer (REST)|rest]] of the dialogues, choosing defaults.
 >
 > **[1:20](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=80)** Now click on settings to optimize this VM to make it run better just like we did previously with CentOS and click on system to change the memory to two gigabytes.
 >
@@ -692,7 +686,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=97)** For me, KVM is good because my host is Linux.
 >
-> **[1:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=100)** If you're using a Windows host, you may want to Hyper-V.
+> **[1:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=100)** If you're using a [[Windows]] host, you may want to Hyper-V.
 >
 > **[1:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/ubuntu-19-04-install?u=76281980&t=103)** The default is a safe choice.
 >
@@ -762,7 +756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (9), [[Linux]] (4), next (2), hit (2), [[Package Management]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (9), [[Linux]] (4), [[Package Management]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (20), go to (6), scroll down (1), select the (1)
 > **Prerequisites:** install (8)
 > **Env Vars:** iso (3), dvd (2), cpu (1), kvm (1)
@@ -776,12 +770,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enable/disable integrated hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980)
+#### [Enable/disable integrated hardware](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=0)** - [Narrator] The most simple and lowest level of system configuration is enabling and disabling hardware in the system firmware.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=0)** - [Narrator] The most simple and lowest level of [[System Configuration]] is enabling and disabling [[Hardware]] in the system firmware.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/enable-disable-integrated-hardware?u=76281980&t=6)** Often we need to go into the BIOS or UEFI to enable hardware before we can use it.
 >
@@ -829,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (5), [[System Configuration]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[System Configuration]] (1)
 > **Env Vars:** bios (11), uefi (9), cpu (2), efi (1), guid (1)
 > **Prerequisites:** you'll need (3), configure (1)
 > **Versions:** 2.8 (1)
@@ -837,16 +830,15 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Determine hardware resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980)
+#### [Determine hardware resources](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=0)** - [Instructor] One of the things I like about Linux is that it doesn't hide anything from the user.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=0)** - [Instructor] One of the things I like about [[Linux]] is that it doesn't hide anything from the user.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=4)** It's true that if you use it as a desktop OS, you're shielded from the details underneath, however, that data is accessible just by opening a terminal.
 >
-> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=12)** Let's talk about how to find information on your hardware resources.
+> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=12)** Let's talk about how to find information on your [[Hardware]] resources.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=15)** The first tool we'll talk about is ls hardware.
 >
@@ -876,7 +868,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=69)** This only shows the processor information.
 >
-> **[1:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=72)** Another nice thing about lshw is that it can output in HTML, XML, and JSON format.
+> **[1:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=72)** Another nice thing about lshw is that it can output in [[HTML]], XML, and [[JSON]] format.
 >
 > **[1:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/determine-hardware-resources?u=76281980&t=78)** For instance, type in clear, and then type in sudo lhsw -html > /tmp/output.html ;
 >
@@ -1004,7 +996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), [[HTML]] (6), [[Hardware]] (4), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Hardware]] (4), [[Linux]] (1), [[JSON]] (1)
 > **CLI Commands:** sudo (16), cat (2), find (1), ls (1), grep (1)
 > **Env Vars:** html (3), bios (2), xml (1), json (1), cpu (1)
 > **Tools:** firefox (3), terminal (2)
@@ -1013,8 +1005,7 @@ created: 2026-05-02
 > **File Paths:** tmp/output.html (2)
 > **Ports:** :02 (2)
 
-#### Working with USB devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/working-with-usb-devices?u=76281980)
+#### [Working with USB devices](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/working-with-usb-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1087,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4)
 > **Env Vars:** usb (28), ohci (2), uhci (2), ehci (2), vhci (1)
 > **Tools:** terminal (4)
 > **CLI Commands:** make (2), grep (1)
@@ -1104,17 +1094,17 @@ created: 2026-05-02
 > **Versions:** 1.1 (2), 2.0 (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
+> **UI Navigation:** click on (1)
 
-#### About sysfs, udev, and D-Bus
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980)
+#### [About sysfs, udev, and D-Bus](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=0)** - [Instructor] To help understand how sysfs, Udev, and dbus work together, we need to understand that in Linux, we have two different spaces for running code.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=0)** - [Instructor] To help understand how sysfs, Udev, and dbus work together, we need to understand that in [[Linux]], we have two different spaces for running code.
 >
 > **[0:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=8)** Kernel space and user space.
 >
-> **[0:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=10)** Code that runs in kernel space is privileged and has full access to hardware.
+> **[0:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=10)** Code that runs in kernel space is privileged and has full access to [[Hardware]].
 >
 > **[0:14](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysfs-udev-and-d-bus?u=76281980&t=14)** It runs in ring 0, which is a hardware-enforced privilege execution mode.
 >
@@ -1180,19 +1170,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), hit (2), [[Troubleshooting]] (2), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Linux]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** sudo (2)
 > **Tools:** terminal (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage kernel modules
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980)
+#### [Manage kernel modules](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=0)** - [Instructor] In addition to the kernel itself, Linux has modules that have to match the kernel version.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=0)** - [Instructor] In addition to the kernel itself, [[Linux]] has modules that have to match the kernel version.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=5)** These modules add functionality to the kernel which could include file systems and device drivers.
 >
@@ -1248,7 +1237,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=143)** If you want to change the module parameters, you'll need to unload the module and then reload it with the custom parameters.
 >
-> **[2:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=150)** Usually, Linux does a great job of loading hardware device drivers automatically.
+> **[2:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=150)** Usually, Linux does a great job of loading [[Hardware]] device drivers automatically.
 >
 > **[2:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-kernel-modules?u=76281980&t=154)** But on occasion, we need to force the issue.
 >
@@ -1312,7 +1301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Linux]] (4), [[Hardware]] (3), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4), [[Hardware]] (3)
 > **CLI Commands:** sudo (5), make (4), ls (1), rm (1)
 > **Code Identifiers:** dm_mirror (9), dm_region_hash (1), dm_log (1)
 > **Analogies:** for instance (3), just like (1)
@@ -1321,8 +1310,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** you'll need (1)
 
-#### Manual network configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980)
+#### [Manual network configuration](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1378,7 +1366,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=135)** The global DNS name server file is slash etc slash resolv dot conf.
 >
-> **[2:20](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=140)** However, Enterprise Linux allows interface specific DNS servers using the DNS1 equals or DNS2 equals options.
+> **[2:20](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=140)** However, Enterprise [[Linux]] allows interface specific DNS servers using the DNS1 equals or DNS2 equals options.
 >
 > **[2:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manual-network-configuration?u=76281980&t=149)** We would specify the DNS server addresses here.
 >
@@ -1410,7 +1398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[Linux]] (3), data (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **Env Vars:** dns (4), ipaddr (1), ipv6addr (1), hwaddr (1), macaddr (1)
 > **Prerequisites:** configure (2), you'll need (1)
 > **Versions:** 255.255.255 (1)
@@ -1418,8 +1406,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure networking using NetworkManager
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980)
+#### [Configure networking using NetworkManager](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,7 +1510,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=286)** I will choose ethernet by typing in ethernet, and hit enter.
 >
-> **[4:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=290)** Now I can type in a ? or the word help to get more possible options.
+> **[4:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=290)** Now I can type in a ? or the [[Microsoft Word|word]] help to get more possible options.
 >
 > **[4:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/configure-networking-using-networkmanager?u=76281980&t=295)** I typed in ?, and hit enter.
 >
@@ -1535,7 +1522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** nmcli (10), nmtui (5), tui (1), wpa (1), nmcui (1)
 > **CLI Commands:** sudo (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1549,12 +1536,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the Linux boot process
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980)
+#### [Understand the Linux boot process](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=0)** - A Linux system goes through several stages when booting.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=0)** - A [[Linux]] system goes through several stages when booting.
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=3)** First, the Firmware stage.
 >
@@ -1566,7 +1552,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=23)** After the Firmware stage, the BIOS or UEFI executes the Boot loader stage.
 >
-> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=29)** In the case of Enterprise Linux or other modern distributions such as Ubuntu, the boot loader is GRUB2 or Grand Unified Bootloader version 2.
+> **[0:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=29)** In the case of Enterprise Linux or other modern distributions such as [[Ubuntu]], the boot loader is GRUB2 or Grand Unified Bootloader version 2.
 >
 > **[0:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=38)** GRUBs job is to read in this configuration file and boot to Linux kernel.
 >
@@ -1600,7 +1586,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=105)** Systemd has the concept of targets that are similar to the old sys file init run levels.
 >
-> **[1:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=110)** You can think of a target as a system configuration, for instance by default Enterprise Linux boots into the graphical target.
+> **[1:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=110)** You can think of a target as a [[System Configuration]], for instance by default Enterprise Linux boots into the graphical target.
 >
 > **[1:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-linux-boot-process?u=76281980&t=117)** A system can be booted into different targets.
 >
@@ -1608,7 +1594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), [[Ubuntu]] (2), next (1), power (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Ubuntu]] (2), [[System Configuration]] (1)
 > **Env Vars:** bios (4), uefi (4), ram (3), post (1), grub2 (1)
 > **Analogies:** such as (3), for instance (1)
 > **Prerequisites:** initialization (3)
@@ -1617,12 +1603,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - a (1)
 
-#### Using GRUB
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980)
+#### [Using GRUB](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=0)** - [Instructor] In the past, there were multiple different bootloaders used to boot linux.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=0)** - [Instructor] In the past, there were multiple different bootloaders used to boot [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=4)** ISOLINUX was used to boot from a cd drive.
 >
@@ -1670,7 +1655,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=100)** It would also list the kernel and RAM disk to load.
 >
-> **[1:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=103)** For multi-boot systems, it would also start a secondary bootloader, such as the one used to boot Windows.
+> **[1:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=103)** For multi-boot systems, it would also start a secondary bootloader, such as the one used to boot [[Windows]].
 >
 > **[1:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=108)** This is called chainloading.
 >
@@ -1750,7 +1735,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=263)** Type in cd /boot/grub2, and hit Enter.
 >
-> **[4:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=267)** If you were on Ubuntu, you'd use the grub directory.
+> **[4:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=267)** If you were on [[Ubuntu]], you'd use the grub directory.
 >
 > **[4:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/using-grub?u=76281980&t=270)** Now type in ls.
 >
@@ -1790,7 +1775,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Linux]] (6), cd (3), data (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Windows]] (2), [[Ubuntu]] (1)
 > **Env Vars:** grub (12), grub2 (7), lilo (4), isolinux (1), gnu (1)
 > **CLI Commands:** cat (5), cd (3), sudo (3), ls (2), make (2)
 > **File Paths:** grub.cfg (3), boot/grub2/grub.cfg (1), boot/grub/grub.cfg (1)
@@ -1799,8 +1784,7 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Versions:** 0.97 (1)
 
-#### Create a custom GRUB menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980)
+#### [Create a custom GRUB menu](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1830,7 +1814,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980&t=86)** Now we need to delete all of the lines we don't need.
 >
-> **[1:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980&t=90)** Find the line that says do not edit this file, and delete all lines after it until it says begin space slash ETC slash grub dot D slash 10 underscore linux.
+> **[1:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980&t=90)** Find the line that says do not edit this file, and delete all lines after it until it says begin space slash ETC slash grub dot D slash 10 underscore [[Linux]].
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-a-custom-grub-menu?u=76281980&t=102)** This is the beginning of our first menu entry.
 >
@@ -1874,15 +1858,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** cfg (8), etc (4), efi (2), tty (1), kbm (1)
 > **CLI Commands:** sudo (4), awk (3), cat (2), find (2), cp (1)
 > **Tools:** terminal (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating the Linux kernel
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980)
+#### [Updating the Linux kernel](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1910,7 +1893,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980&t=51)** As with mine, you may have some small numbers after this.
 >
-> **[0:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980&t=54)** It's built for Enterprise Linux seven and it's compiled for 64 bit CPU's.
+> **[0:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980&t=54)** It's built for Enterprise [[Linux]] seven and it's compiled for 64 bit CPU's.
 >
 > **[0:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/updating-the-linux-kernel?u=76281980&t=59)** All installed kernels reside in slash boot.
 >
@@ -1998,7 +1981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** yum (7), sudo (4), cat (1), make (1)
 > **Env Vars:** vim (3), ram (2), cpu (1)
 > **Tools:** terminal (3), vim (3)
@@ -2007,8 +1990,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Exercise Files:** download the (1)
 
-#### About acpid
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980)
+#### [About acpid](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2016,7 +1998,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980&t=4)** ACPI is a standardized interface for power management in PC computers.
 >
-> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980&t=9)** In the past, Legacy Linux used a service called ACPID that handled power management and battery information.
+> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980&t=9)** In the past, Legacy [[Linux]] used a service called ACPID that handled power management and battery information.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-acpid?u=76281980&t=15)** The ACPID service listens to a file in /proc/acpi/event and waits for events to occur.
 >
@@ -2040,7 +2022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), management (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** acpid (7), acpi (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for instance (1), such as (1)
@@ -2053,16 +2035,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About SysVinit, systemd, and Upstart
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980)
+#### [About SysVinit, systemd, and Upstart](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=0)** System services are processes that are started by the OS and sit in the background waiting to answer requests.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=7)** These services might include web servers, file servers, mail servers, and others.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=7)** These services might include [[Web Servers]], file servers, mail servers, and others.
 >
-> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=12)** In Linux, a system service is called a daemon, spelled D-A-E-M-O-N.
+> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=12)** In [[Linux]], a system service is called a daemon, spelled D-A-E-M-O-N.
 >
 > **[0:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=18)** The term daemon was first used by programmers at MIT.
 >
@@ -2072,7 +2053,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=36)** In this sense, Linux daemons are good spirits working in the background, doing good deeds.
 >
-> **[0:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=43)** The correct pronunciation of the Latin word "daemon" is dee-mun.
+> **[0:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=43)** The correct pronunciation of the Latin [[Microsoft Word|word]] "daemon" is dee-mun.
 >
 > **[0:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-systemd-and-upstart?u=76281980&t=47)** However, it is common to pronounce Linux services dee-mun or day-mun, and both are acceptable.
 >
@@ -2122,13 +2103,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (8), web (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (8), [[Web Servers]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** mit (1), unix (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 
-#### Get systemd service status
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-systemd-service-status?u=76281980)
+#### [Get systemd service status](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-systemd-service-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2226,15 +2206,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6)
 > **CLI Commands:** systemctl (7), cat (1)
 > **Definitions:** means that (2)
 > **Tools:** terminal (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage systemd services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-systemd-services?u=76281980)
+#### [Manage systemd services](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-systemd-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,18 +2274,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11)
 > **Env Vars:** ctl (18), atd (12)
 > **Tools:** terminal (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make systemd services persistent
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/make-systemd-services-persistent?u=76281980)
+#### [Make systemd services persistent](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/make-systemd-services-persistent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/make-systemd-services-persistent?u=76281980&t=0)** - [Instructor] When a Linux system boots up certain services are run automatically by system d.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/make-systemd-services-persistent?u=76281980&t=0)** - [Instructor] When a [[Linux]] system boots up certain services are run automatically by system d.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/make-systemd-services-persistent?u=76281980&t=5)** We can enable services so they start automatically, or disable them so they don't.
 >
@@ -2345,17 +2321,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** systemctl (7), sudo (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### About SysVinit services
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980)
+#### [About SysVinit services](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=0)** - [Instructor] The Linux Plus certification exam covers the Legacy SysVinit System, as well as system D, which we've already discussed.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=0)** - [Instructor] The [[Linux]] Plus certification exam covers the Legacy SysVinit System, as well as system D, which we've already discussed.
 >
 > **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=7)** We will cover SysVinit briefly in slides and will not install a distribution that uses it or have any exercise due to it's age.
 >
@@ -2369,7 +2344,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=34)** Linux continued to use a SysVinit System for about 15 years.
 >
-> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=39)** Later when SysVinit started to show it's age, Ubuntu developed Upstart and many distributions adopted it.
+> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=39)** Later when SysVinit started to show it's age, [[Ubuntu]] developed Upstart and many distributions adopted it.
 >
 > **[0:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=46)** Eventually almost every distribution settled on System D to manage system initialization processes.
 >
@@ -2381,7 +2356,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=71)** Debian managed to hold onto SysVinit until 2013 for Debian Wheezy.
 >
-> **[1:16](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=76)** Debian adopts System D much later because it never migrated to Upstart like the rest of these distributions.
+> **[1:16](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=76)** Debian adopts System D much later because it never migrated to Upstart like the [[Representational State Transfer (REST)|rest]] of these distributions.
 >
 > **[1:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=82)** If you have an Upstart-based distribution you can see a remanence of SysVinit as it had a compatibility layer.
 >
@@ -2393,7 +2368,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=110)** Those scripts start the system services.
 >
-> **[1:53](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=113)** You can think of a runlevel as a system configuration.
+> **[1:53](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=113)** You can think of a runlevel as a [[System Configuration]].
 >
 > **[1:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-sysvinit-services?u=76281980&t=116)** You have seven runlevels total and you can configure your system to run different services in each.
 >
@@ -2499,7 +2474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), [[Ubuntu]] (2), ux (1), [[Representational State Transfer (REST)|Rest]] (1), [[System Configuration]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Ubuntu]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[System Configuration]] (1)
 > **Prerequisites:** install (2), initialization (2), you'll need (1), configure (1)
 > **Env Vars:** unix (2), imb (1), aix (1), suse (1)
 > **Analogies:** for instance (3), just like (1)
@@ -2508,8 +2483,7 @@ created: 2026-05-02
 > **Code Identifiers:** opensuse (1)
 > **Tools:** command line (1)
 
-#### Change runlevels/targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/change-runlevels-targets?u=76281980)
+#### [Change runlevels/targets](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/change-runlevels-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2609,7 +2583,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), prompt (1), next (1)
 > **CLI Commands:** systemctl (4), cat (2), sudo (2), find (1), ls (1)
 > **Analogies:** for instance (3), just like (2), such as (1), similar to (1)
 > **Env Vars:** gui (2), inet (2)
@@ -2617,9 +2590,9 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Tools:** command prompt (1)
 > **UI Navigation:** switch to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Boot into the emergency target
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980)
+#### [Boot into the emergency target](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2647,7 +2620,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980&t=46)** Once it's highlighted press the E key to edit.
 >
-> **[0:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980&t=50)** Now find the line that includes the word VM Linux, this is the kernel line and press the End key to go to the end of the line.
+> **[0:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980&t=50)** Now find the line that includes the [[Microsoft Word|word]] VM [[Linux]], this is the kernel line and press the End key to go to the end of the line.
 >
 > **[0:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/boot-into-the-emergency-target?u=76281980&t=58)** This is the kernel line and the items after are kernel parameters, we're going to add one new kernel parameter.
 >
@@ -2731,7 +2704,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), prompt (3), [[Linux]] (3), power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (3), click on (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** grub (2)
@@ -2740,8 +2713,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Locate and interpret system log files
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
+#### [Locate and interpret system log files](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2823,7 +2795,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=167)** Type in clear and then type in sudo, space, grep, space, dash, V for invert, space, single quote, systemd, colon, single quote, space, slash, var, slash, log, slash, messages, and hit enter.
 >
-> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=182)** Now we see all lines excluding those containing the word systemd.
+> **[3:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=182)** Now we see all lines excluding those containing the [[Microsoft Word|word]] systemd.
 >
 > **[3:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=186)** Another useful tool for monitoring a log file is the tail commands follow option.
 >
@@ -2849,7 +2821,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=237)** Press Q to quit.
 >
-> **[3:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=239)** Logs by default in Enterprise Linux are rotated based on a configuration file.
+> **[3:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=239)** Logs by default in Enterprise [[Linux]] are rotated based on a configuration file.
 >
 > **[4:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/locate-and-interpret-system-log-files?u=76281980&t=244)** We won't go into log rotation here, but you may want to note a cron job named logrotate in slash, etc, slash, cron.daily.
 >
@@ -2869,7 +2841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Search]] (3), data (2), [[Linux]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (4), grep (3), systemctl (2), find (2), make (1)
 > **Tools:** terminal (3)
 > **Env Vars:** tcp (1), udp (1)
@@ -2878,8 +2850,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading the system journal
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/reading-the-system-journal?u=76281980)
+#### [Reading the system journal](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/reading-the-system-journal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2959,7 +2930,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), data (3), prompt (1)
 > **CLI Commands:** journalctl (5), sudo (4), make (2), mkdir (1), systemctl (1)
 > **Env Vars:** ram (2)
 > **Definitions:** is a  (2)
@@ -2973,12 +2943,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Debian software management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980)
+#### [Debian software management overview](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980&t=0)** - [Narrator] Debian created the first real package management system for Linux.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980&t=0)** - [Narrator] Debian created the first real [[Package Management]] system for [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/debian-software-management-overview?u=76281980&t=4)** There were other ways of distributing software, but they largely relied on compressed archives full of files.
 >
@@ -3042,7 +3011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Package Management]] (2), database (2), [[Linux]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Package Management]] (2), [[Linux]] (1)
 > **CLI Commands:** apt (25)
 > **Env Vars:** apt (17), dpkg (6), cdrom (1)
 > **Prerequisites:** install (7)
@@ -3051,14 +3020,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Get package information with dpkg and APT
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980)
+#### [Get package information with dpkg and APT](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980&t=0)** - Debian-based distributions have their own package file format and package management system.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980&t=0)** - Debian-based distributions have their own package file format and [[Package Management]] system.
 >
-> **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980&t=5)** These commands can be used on any Debian-based systems, such as Debian, Ubuntu, and Linux Mint.
+> **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980&t=5)** These commands can be used on any Debian-based systems, such as Debian, [[Ubuntu]], and [[Linux]] Mint.
 >
 > **[0:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-package-information-with-dpkg-and-apt?u=76281980&t=10)** In this video, we will talk about how to get information about which packages are available to install, as well as information about the packages themselves.
 >
@@ -3208,7 +3176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), [[Package Management]] (3), [[Search]] (3), database (3), application (2)
+> **Frameworks & Libraries:** [[Package Management]] (3), [[Ubuntu]] (1), [[Linux]] (1)
 > **CLI Commands:** apt (20), sudo (11), yum (3), apache (2), dnf (1)
 > **Prerequisites:** install (16)
 > **Analogies:** such as (3)
@@ -3217,8 +3185,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll up (1)
 
-#### Manage software with dpkg and APT
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980)
+#### [Manage software with dpkg and APT](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3314,13 +3281,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980&t=201)** Type in clear then type in sudo apt full-upgrade and hit enter.
 >
-> **[3:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980&t=208)** I don't have a distribution upgrade as I used the most recent version of Ubuntu.
+> **[3:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980&t=208)** I don't have a distribution upgrade as I used the most recent version of [[Ubuntu]].
 >
 > **[3:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-software-with-dpkg-and-apt?u=76281980&t=212)** Depending on when you take this course, you may have a distribution to upgrade to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), web (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (1)
 > **CLI Commands:** apt (20), sudo (10), apache (1)
 > **Env Vars:** apt (10)
 > **Prerequisites:** install (5)
@@ -3328,8 +3295,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with APT repositories
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980)
+#### [Work with APT repositories](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3345,7 +3311,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=31)** You can add to the pool of available software by adding new repositories to your APT configuration.
 >
-> **[0:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=37)** From the desktop we can start the Ubuntu Software and Updates GUI by clicking on the Show Applications icon in the bottom of the dock and then typing in software and then click on Ubuntu Software and Updates.
+> **[0:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=37)** From the desktop we can start the [[Ubuntu]] Software and Updates GUI by clicking on the Show Applications icon in the bottom of the dock and then typing in software and then click on Ubuntu Software and Updates.
 >
 > **[0:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=50)** There are four section names for each repository.
 >
@@ -3401,7 +3367,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=215)** /etc/apt/sources.list.d/* and hit enter.
 >
-> **[3:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=223)** This shows only lines that start with the word "deb" in both the sources.list file and the sources.list.d directory.
+> **[3:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=223)** This shows only lines that start with the [[Microsoft Word|word]] "deb" in both the sources.list file and the sources.list.d directory.
 >
 > **[3:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/work-with-apt-repositories?u=76281980&t=230)** We can add repositories from the command line by editing the sources.list file manually and pasting in the APT line, or we can download a repo file into the sources.list.d directory.
 >
@@ -3449,7 +3415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (8), hit (6), web (2), [[Security]] (2), open-source (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (8), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** apt (14), grep (2), sudo (2)
 > **Env Vars:** apt (7), ppa (3), gui (2)
 > **Versions:** 19.04 (3), 17.10 (1), 18.04 (1), 18.10 (1)
@@ -3463,20 +3429,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RPM software management overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980)
+#### [RPM software management overview](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=0)** - [Instructor] We've talked about the RPM command and the RPM package format already in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=4)** RPM knows what its dependencies are, and has the ability to download software from ftp and web servers.
+> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=4)** RPM knows what its dependencies are, and has the ability to download software from ftp and [[Web Servers]].
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=11)** The thing that's missing is a repository-centric view.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=15)** RPM does not manage software collections in remote repositories.
 >
-> **[0:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=18)** As such, Yum was created by Yellowdog Linux and has since been adopted by many Red Hat-based distributions, including Fedora and CentOS.
+> **[0:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=18)** As such, Yum was created by Yellowdog [[Linux]] and has since been adopted by many Red Hat-based distributions, including Fedora and CentOS.
 >
 > **[0:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=27)** Yum resolves dependencies automatically.
 >
@@ -3506,7 +3471,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=82)** The user then selects the software package that they want to install.
 >
-> **[1:25](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=85)** Users can select packages to install by using either CLI or Gooey tools.
+> **[1:25](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=85)** Users can select packages to install by using either [[CLI]] or Gooey tools.
 >
 > **[1:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/rpm-software-management-overview?u=76281980&t=90)** Yum then calculates dependencies.
 >
@@ -3538,7 +3503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Linux]] (1), [[CLI]] (1), database (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Linux]] (1), [[CLI]] (1)
 > **CLI Commands:** yum (15), make (1)
 > **Env Vars:** rpm (8), cli (1)
 > **Prerequisites:** install (5)
@@ -3546,8 +3511,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Query packages with RPM
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980)
+#### [Query packages with RPM](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3635,7 +3599,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980&t=202)** This shows that the slash bin slash bash file came from the bash package.
 >
-> **[3:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980&t=206)** Being able to identify where software came from can help a lot in learning about our linux system.
+> **[3:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980&t=206)** Being able to identify where software came from can help a lot in learning about our [[Linux]] system.
 >
 > **[3:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/query-packages-with-rpm?u=76281980&t=211)** What is really handy is combining the -qd for query documentation and qf for query file options.
 >
@@ -3711,7 +3675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (20), database (12), next (1), [[Search]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** yum (11), find (3), make (3), sudo (3), ls (3)
 > **Tools:** bash (11), terminal (1)
 > **Prerequisites:** install (6)
@@ -3720,8 +3684,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intall and remove packages with Yum
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980)
+#### [Intall and remove packages with Yum](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3833,7 +3796,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980&t=294)** Also YUM only removes the packages specified, and leaves behind any dependencies that were installed.
 >
-> **[5:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980&t=300)** Let's install Wireshark, and it's dependencies.
+> **[5:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980&t=300)** Let's install [[Wireshark]], and it's dependencies.
 >
 > **[5:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/intall-and-remove-packages-with-yum?u=76281980&t=302)** Wireshark is a network sniffer program, and has dependencies.
 >
@@ -3875,7 +3838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (19), [[Wireshark]] (10), cd (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (10)
 > **CLI Commands:** yum (29), sudo (13), cd (1), ls (1), find (1)
 > **Prerequisites:** install (24)
 > **Env Vars:** yum (12), rpm (3), kde (2), gnome3 (1), gnome (1)
@@ -3884,8 +3847,7 @@ created: 2026-05-02
 > **Analogies:** just like (1), similar to (1)
 > **Cross-References:** earlier in (1)
 
-#### Install and remove package groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980)
+#### [Install and remove package groups](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3973,7 +3935,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980&t=207)** Type in yum group list and hit Enter.
 >
-> **[3:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980&t=211)** Near the bottom is the System Administration Tools group.
+> **[3:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980&t=211)** Near the bottom is the [[System Administration]] Tools group.
 >
 > **[3:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/install-and-remove-package-groups?u=76281980&t=214)** Let's install that.
 >
@@ -4025,7 +3987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), hit (11), [[System Administration]] (1)
+> **Frameworks & Libraries:** [[System Administration]] (1)
 > **CLI Commands:** yum (22), sudo (6), make (1)
 > **Prerequisites:** install (13)
 > **Cross-References:** we discussed (2), earlier in (1)
@@ -4039,12 +4001,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compare cloud and virtualization concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980)
+#### [Compare cloud and virtualization concepts](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=0)** - [Instructor] We hear the terms cloud computing and virtualization a lot these days.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=0)** - [Instructor] We hear the terms [[Cloud Computing]] and virtualization a lot these days.
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=3)** In some cases, it seems that the terms are used interchangeably.
 >
@@ -4052,7 +4013,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=9)** First, let's talk about cloud computing.
 >
-> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=12)** Cloud computing is the automatic and dynamic scaling of computer resources, especially data storage and computing power.
+> **[0:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=12)** Cloud computing is the automatic and dynamic scaling of computer resources, especially [[Data Storage]] and computing power.
 >
 > **[0:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=18)** That last part is important.
 >
@@ -4080,11 +4041,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=68)** This is a common use of cloud computing.
 >
-> **[1:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=70)** Amazon Web Services, Google Compute Cloud, and Microsoft Azure provide these services.
+> **[1:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=70)** [[Amazon Web Services (AWS)|Amazon Web Services]], [[Google]] Compute Cloud, and [[Microsoft Azure]] provide these services.
 >
 > **[1:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=75)** Providing dynamic storage is also popular in the cloud.
 >
-> **[1:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=78)** Popular choices are Dropbox, OneDrive, Google Drive, and pCloud.
+> **[1:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=78)** Popular choices are Dropbox, [[Microsoft OneDrive|OneDrive]], [[Google Drive]], and pCloud.
 >
 > **[1:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=82)** If 100 people subscribe to one terabyte of data storage each, a cloud provider won't immediately add 100 terabytes of storage.
 >
@@ -4100,29 +4061,29 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=106)** You just use it.
 >
-> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=108)** Examples of cloud database providers would be Amazon Relational Database Service, Google Cloud SQL, and Microsoft Azure database services.
+> **[1:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=108)** Examples of cloud database providers would be Amazon Relational Database Service, [[Google Cloud Platform (GCP)|Google Cloud]] [[SQL]], and Microsoft Azure database services.
 >
 > **[1:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=117)** Because we are effectively using CPUs, disks, and applications, we need networking in the cloud too.
 >
 > **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=122)** For this, we pay for network services.
 >
-> **[2:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=124)** This would entail routing, switching firewalls, VPNs, and IP addressing.
+> **[2:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=124)** This would entail [[Routing]], switching firewalls, VPNs, and [[IP Addressing]].
 >
 > **[2:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=129)** Notice that all of these things exist in the normal physical world as pieces of infrastructure.
 >
-> **[2:14](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=134)** In the cloud, we're not directly purchasing the infrastructure but are, in fact, paying for the infrastructure as a service, or IaaS.
+> **[2:14](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=134)** In the cloud, we're not directly purchasing the infrastructure but are, in fact, paying for the [[IaaS|infrastructure as a service]], or [[IaaS]].
 >
 > **[2:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=143)** In the past, we would have needed to build a large network full of expensive servers, disks, and network equipment.
 >
 > **[2:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=149)** Now we can pay for it as a service.
 >
-> **[2:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=151)** In infrastructure as a service, we might have CPU resources such as virtual machines that we can log in to remotely and install the OS and software that we want.
+> **[2:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=151)** In infrastructure as a service, we might have CPU resources such as [[Virtual Machines]] that we can log in to remotely and install the OS and software that we want.
 >
 > **[2:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=159)** In this scenario, we're working at a fairly low level, just as we would if we built physical servers and networks.
 >
 > **[2:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=165)** With cloud computing, we have the concept of everything as a service.
 >
-> **[2:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=169)** The next level of an abstraction is platform as a service, or PaaS.
+> **[2:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=169)** The next level of an abstraction is [[PaaS|platform as a service]], or [[PaaS]].
 >
 > **[2:53](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=173)** At this level, we don't interact directly with the operating system but rather create applications on a platform.
 >
@@ -4130,7 +4091,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=185)** With PaaS, we write to the API of the platform, not to the operating system.
 >
-> **[3:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=190)** The next higher level in the abstraction is software as a service.
+> **[3:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=190)** The next higher level in the abstraction is [[SaaS|software as a service]].
 >
 > **[3:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=193)** We've all used web-based applications such as Gmail.
 >
@@ -4142,9 +4103,9 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=209)** Any of these services could either be in a private cloud hosted by us or a provider.
 >
-> **[3:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=213)** It could be in a public cloud or a combination of both in a hybrid cloud.
+> **[3:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=213)** It could be in a public cloud or a combination of both in a [[Hybrid Cloud]].
 >
-> **[3:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=218)** Some online services like Netflix have, in the past, provided their own video streaming servers, but if demand outstripped the resource pool, they would direct the request to cloud services.
+> **[3:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=218)** Some online services like Netflix have, in the past, provided their own video streaming servers, but if demand outstripped the resource pool, they would direct the request to [[Cloud Services]].
 >
 > **[3:47](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=227)** This gives a company the ability to grow without risk.
 >
@@ -4154,7 +4115,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=236)** At a low level, it's replacing real physical resources with virtual ones in software.
 >
-> **[4:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=241)** Virtualization is creating a virtual version of something, specifically computer hardware, storage devices, and network resources.
+> **[4:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=241)** Virtualization is creating a virtual version of something, specifically computer [[Hardware]], storage devices, and network resources.
 >
 > **[4:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=248)** If you want to virtualize a computer, we have a hypervisor that creates a software layer to intercept software requests for hardware.
 >
@@ -4164,7 +4125,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=269)** The hypervisor would then make the request to the host operating system, which then allocates the physical resource.
 >
-> **[4:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=275)** In this course, we've been using VirtualBox to virtualize various Linux distributions.
+> **[4:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=275)** In this course, we've been using VirtualBox to virtualize various [[Linux]] distributions.
 >
 > **[4:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/compare-cloud-and-virtualization-concepts?u=76281980&t=280)** VirtualBox provides virtual CPUs, virtual hard drive controllers and virtual drives, network cards, virtual ports, display cards, and even a BIOS.
 >
@@ -4178,7 +4139,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (26), [[Virtualization]] (6), database (6), data (2), power (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (8), [[Data Storage]] (2), [[Google]] (2), [[Microsoft Azure]] (2), [[IaaS|Infrastructure as a service]] (2)
 > **Analogies:** such as (3), just like (1), for instance (1), for example (1), imagine (1)
 > **Env Vars:** cpu (3), sql (1), api (1), bios (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
@@ -4187,8 +4148,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of hypervisors
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980)
+#### [Types of hypervisors](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4200,7 +4160,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=18)** There are different types of hypervisors, but generally they're categorized as type one or type two.
 >
-> **[0:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=23)** In the case of a type two hypervisor, such as VirtualBox, It's an application running on a Host OS, which in turn provides Virtual Machines for Guest Operating Systems.
+> **[0:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=23)** In the case of a type two hypervisor, such as VirtualBox, It's an application running on a Host OS, which in turn provides [[Virtual Machines]] for Guest Operating Systems.
 >
 > **[0:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=32)** In a type one hypervisor, the application requests the resources from the Guest OS and the VM, which in turn requests the resources from the hypervisor.
 >
@@ -4238,7 +4198,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=112)** The first virtualization was Paravirtualization or PV.
 >
-> **[1:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=115)** This is software virtualization that does not require any virtualization support in hardware, but it's different than emulation.
+> **[1:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=115)** This is software virtualization that does not require any virtualization support in [[Hardware]], but it's different than emulation.
 >
 > **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=122)** CPU instructions are passed directly from the virtual CPU to the real CPU, so the Guest OS sees the real CPU instead of an emulated one.
 >
@@ -4266,7 +4226,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=178)** One of the advantages is that the Guest OS doesn't need to be aware that it's being virtualized.
 >
-> **[3:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=183)** This allows us to virtualize Windows.
+> **[3:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=183)** This allows us to virtualize [[Windows]].
 >
 > **[3:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=186)** Full virtualization attempts to provide an entire virtual computer including BIOS and devices.
 >
@@ -4290,7 +4250,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=241)** Paravirtualized drivers help speed up devices that are not virtualized in hardware.
 >
-> **[4:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=245)** However, the rest of the emulated devices are still slow.
+> **[4:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=245)** However, the [[Representational State Transfer (REST)|rest]] of the emulated devices are still slow.
 >
 > **[4:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=249)** Paravirtualized drivers are available for most type one hypervisors.
 >
@@ -4308,11 +4268,11 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=282)** There is no BIOS to exploit or virtual hardware devices that aren't needed.
 >
-> **[4:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=286)** Amazon AWS uses PVH mode for Linux Guest by default.
+> **[4:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/types-of-hypervisors?u=76281980&t=286)** Amazon AWS uses PVH mode for [[Linux]] Guest by default.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (19), [[Hardware]] (9), application (3), [[Windows]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (9), [[Windows]] (2), [[Virtual Machines]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1)
 > **Env Vars:** cpu (7), kvm (4), bios (4), pvh (3), hvm (1)
 > **Definitions:** is a  (2), means that (1), is called (1)
 > **Analogies:** such as (4)
@@ -4321,8 +4281,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Warnings:** be aware (1)
 
-#### System images and cloud instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980)
+#### [System images and cloud instances](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4364,7 +4323,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=115)** Another way is to install one VM as a golden image, and then clone it, we did this for our CentOS7 VM.
 >
-> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=122)** If we're using one host for running virtual machines, we can clone VMs the same way as we did on VirtualBox.
+> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=122)** If we're using one host for running [[Virtual Machines]], we can clone VMs the same way as we did on VirtualBox.
 >
 > **[2:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=127)** We shut down the VM, make one two, or three clones, and then boot them up.
 >
@@ -4414,7 +4373,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=261)** Now let's talk about bootstrapping.
 >
-> **[4:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=264)** When creating a new instance of a VM, in a cloud setting like Amazon Web Services, it's nice to inject data into the VM.
+> **[4:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=264)** When creating a new instance of a VM, in a cloud setting like [[Amazon Web Services (AWS)|Amazon Web Services]], it's nice to inject data into the VM.
 >
 > **[4:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=270)** We can do this using cloud-init.
 >
@@ -4428,11 +4387,11 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=296)** Libvirt was created to end this.
 >
-> **[4:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=298)** Libvirt runs on Linux, macOS, FreeBSD, and Windows.
+> **[4:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=298)** Libvirt runs on [[Linux]], macOS, FreeBSD, and [[Windows]].
 >
 > **[5:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=303)** Libvirt gives us one set of tools to manage many different virtualization systems.
 >
-> **[5:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=308)** It supports the following virtualization stacks, Xen, LXC Linux containers, OpenVZ, QEMU, VirtualBox, VMWARE ESX, WMWare Workstation, and Microsoft Hyper-V, among others.
+> **[5:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=308)** It supports the following virtualization stacks, Xen, LXC Linux containers, OpenVZ, QEMU, VirtualBox, VMWARE ESX, WMWare Workstation, and [[Microsoft]] Hyper-V, among others.
 >
 > **[5:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=323)** Libvirt doesn't just manage hypervisors either, it can manage storage.
 >
@@ -4444,11 +4403,11 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=357)** There are other commands too.
 >
-> **[5:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=358)** You can visit the Libvirt documentation at [libvirt.org/docs.html](https://libvirt.org/docs.html), for more information.
+> **[5:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/system-images-and-cloud-instances?u=76281980&t=358)** You can visit the Libvirt documentation at [libvirt.org/docs.[[HTML]]](https://libvirt.org/docs.html), for more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (4), data (3), web (2), cloud (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Virtual Machines]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** iso (2), suse (1), usb (1), ftp (1), ova (1)
 > **Prerequisites:** install (11), setup (1)
 > **Analogies:** such as (2), for instance (2), imagine (1)
@@ -4457,12 +4416,11 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1), iscsi (1)
 > **Exercise Files:** download the (1), template (1)
 
-#### About containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980)
+#### [About containers](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=0)** - A virtual machine provides enough virtual hardware for an entire OS to run on.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=0)** - A virtual machine provides enough virtual [[Hardware]] for an entire OS to run on.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=5)** If the VM is para-virtualized, the hardware is minimal but is still there and will have memory, drives, and network even if the CPU is shared with the host.
 >
@@ -4478,7 +4436,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=38)** The hypervisor could also run more than one virtual machine providing isolation between VMs.
 >
-> **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=44)** Starting these virtual machines is much faster than starting a real physical machine, but even at best they may take anywhere from 10 to 60 seconds to boot.
+> **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=44)** Starting these [[Virtual Machines]] is much faster than starting a real physical machine, but even at best they may take anywhere from 10 to 60 seconds to boot.
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=51)** You can export these virtual machines to files, distribute them, and deploy them on other hosts, but because of the size of the disk image containing the entire operating system, it may take a substantial amount of time for the process to complete.
 >
@@ -4502,7 +4460,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=116)** Non-containerized applications can also be run alongside applications in containers as well.
 >
-> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=122)** It's important to note that performance-wise there's no difference between running an application natively on Linux, and running one in a container.
+> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=122)** It's important to note that performance-wise there's no difference between running an application natively on [[Linux]], and running one in a container.
 >
 > **[2:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-containers?u=76281980&t=129)** You're just isolating the containerized application from other applications.
 >
@@ -4520,15 +4478,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Virtual Machines]] (4), [[Hardware]] (2), [[Virtualization]] (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Hardware]] (2), [[Linux]] (1)
 > **CLI Commands:** apache (1), make (1), docker (1)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** cpu (1)
 > **Warnings:** note that (1)
 > **Speakers:** - a (1)
 
-#### Introduction to cloud-init
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980)
+#### [Introduction to cloud-init](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4548,7 +4505,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=33)** The first step to creating a specific use VM on the fly would be to create a new bare VM.
 >
-> **[0:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=38)** This would add the virtual hardware configured such as memory, disk and network card including MAC address.
+> **[0:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=38)** This would add the virtual [[Hardware]] configured such as memory, disk and network card including MAC address.
 >
 > **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=44)** The next step would be to bootstrap it.
 >
@@ -4556,11 +4513,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=51)** The purpose of the bootstrap step is to get the VM ready to boot and install.
 >
-> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=56)** The last step is to start the configuration management system to finish the OS level configuration.
+> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=56)** The last step is to start the [[Configuration Management]] system to finish the OS level configuration.
 >
 > **[1:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=61)** When that's done, reboot into the new installation.
 >
-> **[1:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=64)** Examples of configuration management systems are Puppet, Chef, SaltStack, and Ansible.
+> **[1:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=64)** Examples of configuration management systems are Puppet, Chef, SaltStack, and [[Ansible]].
 >
 > **[1:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=69)** To discuss these complex systems, I would need one course each.
 >
@@ -4588,7 +4545,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=131)** This opens up a lot of possibilities.
 >
-> **[2:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=133)** You could configure the rest of the system with shell scripts, but it's probably better to start the configuration management system which will configure the rest of the system for you.
+> **[2:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=133)** You could configure the [[Representational State Transfer (REST)|rest]] of the system with shell scripts, but it's probably better to start the configuration management system which will configure the rest of the system for you.
 >
 > **[2:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/introduction-to-cloud-init?u=76281980&t=142)** The user data file can be in several different formats, including a file of configuration data, or a shell script.
 >
@@ -4646,7 +4603,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), data (10), [[Configuration Management]] (4), [[Hardware]] (2), management (2)
+> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Hardware]] (2), [[Ansible]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Prerequisites:** install (5), configure (5), set up (2)
 > **CLI Commands:** make (2), ansible (2), ssh (1)
 > **Env Vars:** mac (2), kvm (1), ssh (1), url (1)
@@ -4660,8 +4617,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Simple and compound commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980)
+#### [Simple and compound commands](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4763,7 +4719,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980&t=237)** Type in cat hello.txt and hit enter.
 >
-> **[4:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980&t=240)** Only the word there is in the file.
+> **[4:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980&t=240)** Only the [[Microsoft Word|word]] there is in the file.
 >
 > **[4:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/simple-and-compound-commands?u=76281980&t=243)** Only the second echo got redirected to the text file.
 >
@@ -4817,7 +4773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), cd (5), prompt (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** cd (5), mkdir (4), make (2), cat (2), ls (1)
 > **File Paths:** hello.txt (3)
 > **Analogies:** for instance (2), similar to (1)
@@ -4826,8 +4782,7 @@ created: 2026-05-02
 > **Tools:** bash (1)
 > **UI Navigation:** go to (1)
 
-#### Modify the shell environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980)
+#### [Modify the shell environment](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4925,7 +4880,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980&t=232)** Different files are processed depending on how the shell starts.
 >
-> **[3:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980&t=236)** When we log in to Linux by typing in a password, Linux first executes the etc profile, which in turn executes scripts in /etc/profile/.d.
+> **[3:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980&t=236)** When we log in to [[Linux]] by typing in a password, Linux first executes the etc profile, which in turn executes scripts in /etc/profile/.d.
 >
 > **[4:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-the-shell-environment?u=76281980&t=247)** These two items are the systemwide filing directories holding our environment and shell variables.
 >
@@ -4971,7 +4926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (15), [[Linux]] (2), data (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** enter (15), var (8), posix (4), shell (2), test (1)
 > **CLI Commands:** grep (6), make (1)
 > **Tools:** bash (6), terminal (1)
@@ -4980,8 +4935,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Command history
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/command-history?u=76281980)
+#### [Command history](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/command-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5065,15 +5019,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), cd (4), [[Search]] (4), prompt (2), next (1)
 > **CLI Commands:** ls (7), cd (4), cat (4), sudo (4)
 > **Analogies:** for instance (3)
 > **Tools:** command prompt (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - using (1)
 
-#### The PATH and command execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/the-path-and-command-execution?u=76281980)
+#### [The PATH and command execution](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/the-path-and-command-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5177,14 +5129,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Search]] (1), data (1)
 > **CLI Commands:** tar (3), make (2), find (1), mkdir (1), sudo (1)
 > **Tools:** bash (3), terminal (1)
 > **Warnings:** note that (2)
 > **Prerequisites:** you'll need (2)
 
-#### Named and unnamed pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980)
+#### [Named and unnamed pipes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5196,7 +5146,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=20)** Type into a terminal grap space TCP space slash ETC slash services space pipe space less, and hit enter.
 >
-> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=31)** This looks through the ETC services file for the word TCP and then sends the output to less which presents it one page at a time.
+> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=31)** This looks through the ETC services file for the [[Microsoft Word|word]] TCP and then sends the output to less which presents it one page at a time.
 >
 > **[0:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=38)** Press Q to quit.
 >
@@ -5266,7 +5216,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=214)** We don't need our second terminal anymore, so close it and make the first one full screen.
 >
-> **[3:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=218)** Now let's take a look at the metadata of the named pipe using LS.
+> **[3:38](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=218)** Now let's take a look at the [[Metadata]] of the named pipe using LS.
 >
 > **[3:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/named-and-unnamed-pipes?u=76281980&t=222)** Type in LS space dash L, and hit enter.
 >
@@ -5278,7 +5228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Microsoft Word|Word]] (3), data (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Metadata]] (1)
 > **Env Vars:** tcp (4), etc (4), fifo (3), awk (1)
 > **Tools:** terminal (12)
 > **CLI Commands:** cat (3), awk (2), ls (2), make (1), rm (1)
@@ -5286,8 +5236,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use input-output redirection (>, >>, |, 2>, etc.)
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980)
+#### [Use input-output redirection (>, >>, |, 2>, etc.)](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5347,7 +5296,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=122)** There are times where we might want to send the output of a command to a file, and to the screen.
 >
-> **[2:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=129)** Neither pipes or redirects handle this natively, but Linux provides a special command for doing this, called tee.
+> **[2:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=129)** Neither pipes or redirects handle this natively, but [[Linux]] provides a special command for doing this, called tee.
 >
 > **[2:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/2273099?u=76281980&t=135)** It splits, or tees the output, and sends it both to a file, and to the screen.
 >
@@ -5405,7 +5354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **File Paths:** etcsort.txt (5), etcerr.txt (3), lsout.txt (2)
 > **CLI Commands:** find (6), ls (1)
 > **Tools:** terminal (2)
@@ -5413,12 +5362,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use text filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980)
+#### [Use text filters](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=0)** - [Instructor] Linux has the ability to stream data between commands using pipes.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=0)** - [Instructor] [[Linux]] has the ability to stream data between commands using pipes.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=4)** It can also redirect those streams to the disk using redirects.
 >
@@ -5450,7 +5398,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=61)** That is the dash f option.
 >
-> **[1:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=63)** Another tool we've used is the wc or word count command with a dash l option to count lines in a file.
+> **[1:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=63)** Another tool we've used is the wc or [[Microsoft Word|word]] count command with a dash l option to count lines in a file.
 >
 > **[1:10](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=70)** Often, we need to sort text and we have a command to do that too named sort.
 >
@@ -5524,7 +5472,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=216)** The unexpand command does exactly the opposite and replaces spaces with tabs.
 >
-> **[3:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=220)** These can be handy commands when dealing with python scripts which use tabs and spaces to end code blocks.
+> **[3:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=220)** These can be handy commands when dealing with [[Python (Programming Language)|python]] scripts which use tabs and spaces to end code blocks.
 >
 > **[3:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=226)** We can also use the cut command to grab columns of the text file.
 >
@@ -5576,7 +5524,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=335)** It translates text one character at a time.
 >
-> **[5:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=337)** For instance, Windows text files use different lane endings than Unix.
+> **[5:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=337)** For instance, [[Windows]] text files use different lane endings than Unix.
 >
 > **[5:41](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=341)** So, the tr command can translate one to the other easily.
 >
@@ -5604,7 +5552,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=393)** If you need to replace whole words with other words, you need to use sed.
 >
-> **[6:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=397)** The next three commands create a check sum of a file using different encoding algorithms.
+> **[6:37](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=397)** The next three commands create a check sum of a file using different encoding [[Algorithms]].
 >
 > **[6:41](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-text-filters?u=76281980&t=401)** This allows us to create a fingerprint of a file and then check it again later to ensure that the file has not changed.
 >
@@ -5616,7 +5564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), next (3), [[Linux]] (2), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Windows]] (1), [[Algorithms]] (1)
 > **CLI Commands:** cat (15), awk (5), sed (2), python (1)
 > **File Paths:** tabs.txt (10), words.txt (5)
 > **Analogies:** for instance (4), similar to (2)
@@ -5625,12 +5573,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Find files using locate
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980)
+#### [Find files using locate](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=0)** - [Instructor] The Linux directory structure is deep and has many files.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=0)** - [Instructor] The [[Linux]] directory structure is deep and has many files.
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=3)** Knowing how to find those files is important.
 >
@@ -5696,7 +5643,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=132)** We can use a basic regular expression to find all files that start with slash usr.
 >
-> **[2:16](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=136)** Include the word pixmaps and end with that jpg.
+> **[2:16](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=136)** Include the [[Microsoft Word|word]] pixmaps and end with that jpg.
 >
 > **[2:19](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=139)** To do so type in clear and type in locate space dash dash regexp space single quote, carrot, slash usr dot asterisk pixmaps dot asterisk, jpg dollar sign, single quote.
 >
@@ -5734,11 +5681,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=243)** See the pattern matching chapter this course for more examples on how to use regular expressions.
 >
-> **[4:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=248)** The last thing I'll demonstrate is how to show statistics on all files and directories that locate is aware of.
+> **[4:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=248)** The last thing I'll demonstrate is how to show [[Statistics]] on all files and directories that locate is aware of.
 >
 > **[4:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=253)** Type in clear and then type in locate space dash capital S and hit Enter.
 >
-> **[4:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=258)** Since the locate databases updated via a system service once every 24 hours, it will not include files that have been recently created.
+> **[4:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=258)** Since the locate [[Databases]] updated via a system service once every 24 hours, it will not include files that have been recently created.
 >
 > **[4:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/find-files-using-locate?u=76281980&t=266)** To update the locate database manually, we need to run the update db command with elevated privileges.
 >
@@ -5756,19 +5703,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), database (7), [[Search]] (6), [[Linux]] (3), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Microsoft Word|Word]] (2), [[Statistics]] (1), [[Databases]] (1)
 > **CLI Commands:** find (5), sudo (1)
 > **Analogies:** for instance (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding files with find
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-files-with-find?u=76281980)
+#### [Finding files with find](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-files-with-find?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-files-with-find?u=76281980&t=0)** - [Grant] Linux includes both the locate and find commands for searching the file systems.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-files-with-find?u=76281980&t=0)** - [Grant] [[Linux]] includes both the locate and find commands for searching the file systems.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-files-with-find?u=76281980&t=5)** Locate is database driven and find is not, so it's slower but the results are always up to date and it's much more powerful.
 >
@@ -5892,7 +5838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), hit (11), [[Linux]] (1), database (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** find (30), sudo (9)
 > **Cross-References:** in the last (1)
 > **Documentation:** man page (1)
@@ -5900,8 +5846,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [grant] (1)
 
-#### Finding text in files with grep
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980)
+#### [Finding text in files with grep](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5925,7 +5870,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980&t=39)** View the grep man page for more information.
 >
-> **[0:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980&t=42)** This example of using options shows a case insensitive search for the word root in /etc/password.
+> **[0:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980&t=42)** This example of using options shows a case insensitive search for the [[Microsoft Word|word]] root in /etc/password.
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/finding-text-in-files-with-grep?u=76281980&t=49)** You can also pipe the output of any command into grep.
 >
@@ -6055,7 +6000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (4), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **CLI Commands:** grep (11), find (2), make (2), apache (1), sed (1)
 > **Analogies:** such as (5), for instance (3), just like (2)
 > **Speakers:** - [instructor] (1), - v (1), - c (1), - o (1), - r (1)
@@ -6069,12 +6014,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Select and sort processes for display
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980)
+#### [Select and sort processes for display](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980&t=0)** - [Grant] A Linux system may have hundreds of processes running at any time.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980&t=0)** - [Grant] A [[Linux]] system may have hundreds of processes running at any time.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/select-and-sort-processes-for-display?u=76281980&t=5)** The first tool we'll look at to monitor processes is the PS command. In a terminal type in PS and hit enter.
 >
@@ -6202,7 +6146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), web (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** cpu (14), uid (4), pid (4), cmd (4), gnu (3)
 > **Tools:** firefox (6), terminal (5)
 > **Analogies:** for instance (2), just like (1)
@@ -6211,14 +6155,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 
-#### Monitor active processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980)
+#### [Monitor active processes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=0)** - [Instructor] The PS command shows you up to date process information, but we have to keep running it to get real time data.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=7)** Linux has another tool used just for displaying real time process information called top.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=7)** [[Linux]] has another tool used just for displaying real time process information called top.
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=13)** In a terminal, start top by typing in T O P and hitting enter.
 >
@@ -6238,7 +6181,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=64)** Pressing number 1 and T allows you to have a solid bar for each CPU core.
 >
-> **[1:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=71)** Press M to toggle between different memory displays or turn off memory statistics.
+> **[1:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=71)** Press M to toggle between different memory displays or turn off memory [[Statistics]].
 >
 > **[1:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/monitor-active-processes?u=76281980&t=77)** In the fields area it shows the same fields as PS.
 >
@@ -6328,7 +6271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (3), prompt (3), next (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Statistics]] (1)
 > **Env Vars:** cpu (9)
 > **UI Navigation:** toggle (3)
 > **Tools:** terminal (1), command line (1)
@@ -6337,8 +6280,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Send signals to processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/send-signals-to-processes?u=76281980)
+#### [Send signals to processes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/send-signals-to-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6490,7 +6432,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (17), application (1)
 > **Tools:** terminal (11), firefox (6), command line (1)
 > **Env Vars:** pid (5), sig (3), sighub (2), sigterm (2), sigkill (1)
 > **CLI Commands:** sudo (3), make (1), systemctl (1)
@@ -6498,13 +6439,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** we covered (1)
 > **Analogies:** just like (1)
+> **Speakers:** - [instructor] (1)
 
-#### Run a program with higher or lower priority than the default
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-a-program-with-higher-or-lower-priority-than-the-default?u=76281980)
+#### [Run a program with higher or lower priority than the default](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-a-program-with-higher-or-lower-priority-than-the-default?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-a-program-with-higher-or-lower-priority-than-the-default?u=76281980&t=0)** - [Narrator] Linux process priorities are handled by a system called nice.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-a-program-with-higher-or-lower-priority-than-the-default?u=76281980&t=0)** - [Narrator] [[Linux]] process priorities are handled by a system called nice.
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-a-program-with-higher-or-lower-priority-than-the-default?u=76281980&t=4)** Nice levels go from negative one, to negative 19 for privileged users.
 >
@@ -6576,7 +6517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** cpu (8), pid (1), cmd (1)
 > **Tools:** terminal (8)
 > **CLI Commands:** sudo (3)
@@ -6585,8 +6526,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Run jobs in the foreground and background
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-jobs-in-the-foreground-and-background?u=76281980)
+#### [Run jobs in the foreground and background](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/run-jobs-in-the-foreground-and-background?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6686,7 +6626,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), prompt (3), data (1)
 > **Tools:** terminal (16), command line (1)
 > **Env Vars:** cpu (4), pid (1), cmd (1)
 > **Documentation:** spec (3)
@@ -6694,8 +6633,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Signal a program to continue running after logout
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/signal-a-program-to-continue-running-after-logout?u=76281980)
+#### [Signal a program to continue running after logout](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/signal-a-program-to-continue-running-after-logout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6747,7 +6685,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
 > **UI Navigation:** scroll up (1)
@@ -6758,8 +6695,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the differences between basic and extended regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-differences-between-basic-and-extended-regular-expressions?u=76281980)
+#### [Understand the differences between basic and extended regular expressions](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-the-differences-between-basic-and-extended-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6853,13 +6789,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **Env Vars:** gnu (6), posix (3), ere (2), bre (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - within (1)
 
-#### Matching characters and words with regexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980)
+#### [Matching characters and words with regexes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6887,7 +6821,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980&t=55)** GNU EREs support special expressions using backslash characters followed by regular characters.
 >
-> **[1:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980&t=60)** For instance, backslash B will match the empty string at either edge of a word.
+> **[1:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980&t=60)** For instance, backslash B will match the empty string at either edge of a [[Microsoft Word|word]].
 >
 > **[1:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/matching-characters-and-words-with-regexes?u=76281980&t=65)** For example, backslash B rat backslash B matches the separate word rat, but not brat, drat or rattle.
 >
@@ -6939,8 +6873,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specifying occurrences with regexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/specifying-occurrences-with-regexes?u=76281980)
+#### [Specifying occurrences with regexes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/specifying-occurrences-with-regexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6990,15 +6923,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1)
 > **Analogies:** such as (1), for instance (1)
 > **Env Vars:** gnu (1)
 > **Cross-References:** we discussed (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alternation and grouping with regexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/alternation-and-grouping-with-regexes?u=76281980)
+#### [Alternation and grouping with regexes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/alternation-and-grouping-with-regexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7094,14 +7025,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** cat (5), make (2), grep (1)
 > **Env Vars:** ere (2)
 > **Analogies:** for instance (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Back references and subexpressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/back-references-and-subexpressions?u=76281980)
+#### [Back references and subexpressions](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/back-references-and-subexpressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7164,8 +7093,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search text using regular expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980)
+#### [Search text using regular expressions](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7173,7 +7101,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=3)** Let's talk more about using grep in extended regular expressions.
 >
-> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=7)** Grep may be the most common tool in Linux to use regular expressions with.
+> **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=7)** Grep may be the most common tool in [[Linux]] to use regular expressions with.
 >
 > **[0:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=11)** In fact, the name grep stands for global regular expression print.
 >
@@ -7203,7 +7131,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=83)** We can also combine this option with a pattern or patterns passed with a dash E option and it will process all of them.
 >
-> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=89)** To force grep to only match word without specifying this in the RegEx we can pass the dash W option.
+> **[1:29](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=89)** To force grep to only match [[Microsoft Word|word]] without specifying this in the RegEx we can pass the dash W option.
 >
 > **[1:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-text-using-regular-expressions?u=76281980&t=95)** This is similar to using a back slash W special expression in an ERE.
 >
@@ -7291,7 +7219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Search]] (3), [[Microsoft Word|Word]] (2), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1)
 > **CLI Commands:** grep (24), find (1), make (1), ls (1)
 > **File Paths:** words.txt (4)
 > **Env Vars:** ere (2), bre (1), gnu (1)
@@ -7300,8 +7228,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 
-#### Use regular expressions to delete, change, and substitute text
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980)
+#### [Use regular expressions to delete, change, and substitute text](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7319,7 +7246,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=24)** Type in "clear", then type in "sed -n '/root/p' passwd".
 >
-> **[0:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=35)** The pattern that we're matching is the word "root", which is between the forward slashes and then printing the result, which is two lines.
+> **[0:35](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=35)** The pattern that we're matching is the [[Microsoft Word|word]] "root", which is between the forward slashes and then printing the result, which is two lines.
 >
 > **[0:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=42)** The narrow it down to one line we can use an anchor.
 >
@@ -7373,7 +7300,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=192)** Now let me show you another neat thing that sed does.
 >
-> **[3:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=195)** We have back references, but we can also duplicate the mesh pattern.
+> **[3:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=195)** We have back references, but we can also duplicate the [[Mesh]] pattern.
 >
 > **[3:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/use-regular-expressions-to-delete-change-and-substitute-text?u=76281980&t=198)** There's a file in chapter nine directory called "phonenumbers.txt".
 >
@@ -7427,7 +7354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Microsoft Word|Word]] (2), [[Mesh]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Mesh]] (1)
 > **CLI Commands:** sed (15), ls (2), cat (2), grep (1)
 > **File Paths:** phonenumbers.txt (3)
 > **Env Vars:** passwd (1), posix (1)
@@ -7436,12 +7363,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Awareness of Emacs, Nano, and Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980)
+#### [Awareness of Emacs, Nano, and Vim](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=0)** - [Instructor] There are multiple command line editors for Linux, Nano is one of the simplest to get started with.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=0)** - [Instructor] There are multiple command line editors for [[Linux]], Nano is one of the simplest to get started with.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/awareness-of-emacs-nano-and-vim?u=76281980&t=5)** All keys with the exception of Control and Meta key sequences will enter text into the file being created.
 >
@@ -7501,7 +7427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), feature (2), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **File Paths:** nanofile.txt (2)
 > **Documentation:** the documentation (1), man page (1)
 > **Tools:** command line (1), terminal (1)
@@ -7509,14 +7435,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### An introduction to Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980)
+#### [An introduction to Vim](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=0)** - [Narrator] Although Nano is easy to start and get around in, I find it limiting and unintuitive at times.
 >
-> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=6)** Another editor that's installed by default on just about all versions of Linux is VI or in the case of SENTAS, VIM or VIM proved.
+> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=6)** Another editor that's installed by default on just about all versions of [[Linux]] is VI or in the case of SENTAS, VIM or VIM proved.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/an-introduction-to-vim?u=76281980&t=15)** A lot of people shy away from using VIM because it virtually has no user interface and looks hard.
 >
@@ -7618,7 +7543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Tools:** vim (17), terminal (1), command prompt (1)
 > **Env Vars:** vim (17), sentas (1)
 > **UI Navigation:** go to (2)
@@ -7626,8 +7551,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Edit text in Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980)
+#### [Edit text in Vim](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7663,7 +7587,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=57)** To cut text we'll use the C key.
 >
-> **[0:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=59)** To cut a letter, we'll type CL, to cut a word, we'll type CW, and to cut a line, we'll type CC.
+> **[0:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=59)** To cut a letter, we'll type CL, to cut a [[Microsoft Word|word]], we'll type CW, and to cut a line, we'll type CC.
 >
 > **[1:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/edit-text-in-vim?u=76281980&t=67)** For this demonstration, type CC.
 >
@@ -7721,8 +7645,7 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search and replace in Vim
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980)
+#### [Search and replace in Vim](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7738,7 +7661,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=31)** To search from your current position to the end of the document, exit insert mode by pressing escape, press forward slash to search, and then start typing.
 >
-> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=39)** I'm going to search for the word four and hit enter.
+> **[0:39](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=39)** I'm going to search for the [[Microsoft Word|word]] four and hit enter.
 >
 > **[0:43](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/search-and-replace-in-vim?u=76281980&t=43)** If you want to search from your current position towards the beginning of the document, then press the question mark and start typing.
 >
@@ -7784,7 +7707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Search]] (7), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Tools:** vim (8), command line (1)
 > **Env Vars:** vim (7)
 > **File Paths:** searchfile.txt (1)
@@ -7796,8 +7719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File globbing and parameter expansion
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980)
+#### [File globbing and parameter expansion](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7813,7 +7735,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=28)** An asterisk matches any type of character and any number of them.
 >
-> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=31)** So file.* would match any word that starts with file, has a dot in it, and is followed by any number of characters.
+> **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=31)** So file.* would match any [[Microsoft Word|word]] that starts with file, has a dot in it, and is followed by any number of characters.
 >
 > **[0:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=40)** A question mark matches any type of character but only one of them.
 >
@@ -7839,7 +7761,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=109)** For instance, to not match a number that's zero through nine, we'd use left square bracket, exclamation mark, zero through nine, right square bracket.
 >
-> **[1:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=119)** Linux also provides us a mechanism for matching certain character classes.
+> **[1:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=119)** [[Linux]] also provides us a mechanism for matching certain character classes.
 >
 > **[2:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-globbing-and-parameter-expansion?u=76281980&t=124)** With character classes, we have a bit more power than the standard sets.
 >
@@ -7893,7 +7815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1), power (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Linux]] (1)
 > **Analogies:** for instance (3), such as (1), for example (1)
 > **File Paths:** file1.txt (2), filea.txt (1), file2.txt (1)
 > **CLI Commands:** ls (2)
@@ -7902,12 +7824,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Env Vars:** gui (1)
 
-#### Understand filesystem paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-filesystem-paths?u=76281980)
+#### [Understand filesystem paths](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-filesystem-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-filesystem-paths?u=76281980&t=0)** - [Instructor] Understanding absolute and relative paths and being able to visualize the Linux directory structure will make it easier to get around in the Linux file system.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-filesystem-paths?u=76281980&t=0)** - [Instructor] Understanding absolute and relative paths and being able to visualize the [[Linux]] directory structure will make it easier to get around in the Linux file system.
 >
 > **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/understand-filesystem-paths?u=76281980&t=9)** Even when we list a directory recursively, the LS command doesn't give us output that's easy to visualize.
 >
@@ -8015,7 +7936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (16), hit (9), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Linux]] (3)
 > **CLI Commands:** cd (16), ls (4), make (1), sudo (1), yum (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
@@ -8024,8 +7945,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980)
+#### [Create files and dirs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8045,7 +7965,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=32)** When you're done, press Escape + :wq and hit Enter.
 >
-> **[0:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=40)** If you'd like to get a quick overview of how to use Vim, check out my course in the library titled "Linux Directory Structure and Basic Tools."
+> **[0:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=40)** If you'd like to get a quick overview of how to use Vim, check out my course in the library titled "[[Linux]] Directory Structure and Basic Tools."
 >
 > **[0:49](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=49)** Now let's verify that we have a file by typing in ls -l ~ and hitting Enter.
 >
@@ -8133,7 +8053,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=297)** And it lists out all three directories that we created.
 >
-> **[5:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=300)** I used the -d option to get ls to show the directory metadata instead of showing the directory contents.
+> **[5:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=300)** I used the -d option to get ls to show the directory [[Metadata]] instead of showing the directory contents.
 >
 > **[5:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-files-and-dirs?u=76281980&t=307)** Notice that I also used a question mark to glob for the last digit.
 >
@@ -8141,7 +8061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), [[Linux]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Metadata]] (1)
 > **CLI Commands:** ls (8), mkdir (8), find (3), cat (2), make (1)
 > **File Paths:** textfile.txt (6), emptyfile.txt (3)
 > **Tools:** vim (7), terminal (1)
@@ -8149,8 +8069,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copy files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980)
+#### [Copy files and dirs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8158,7 +8077,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=4)** We can do these tasks from the GUI, but they're usually faster on the command line.
 >
-> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=9)** The command we use to copy files on Linux is CP.
+> **[0:09](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=9)** The command we use to copy files on [[Linux]] is CP.
 >
 > **[0:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=13)** The syntax for CP is CP [Options] <source> <destination> The options can take the form of single letters preceded by a hyphen, or complete words preceded by two hyphens.
 >
@@ -8284,7 +8203,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=312)** You'll see that we now have a copy of "dir1" named "dir2".
 >
-> **[5:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=317)** I'm not going to cover every option of the "Cp" command, but a couple of options I've found useful are: "-a" for Archive, which preserves all metadata.
+> **[5:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=317)** I'm not going to cover every option of the "Cp" command, but a couple of options I've found useful are: "-a" for Archive, which preserves all [[Metadata]].
 >
 > **[5:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/copy-files-and-dirs?u=76281980&t=326)** This includes timestamps, ownership, and permissions.
 >
@@ -8294,7 +8213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (16), [[Linux]] (2), management (1), cd (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Metadata]] (1)
 > **CLI Commands:** cp (14), make (5), mkdir (4), yum (2), cd (1)
 > **File Paths:** file1.txt (9), file1-copy.txt (3), 1-copy.txt (1), dir1/file1-copy.txt (1)
 > **Tools:** command line (1), terminal (1)
@@ -8303,12 +8222,11 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Analogies:** for instance (1)
 
-#### Move and rename files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/move-and-rename-files-and-dirs?u=76281980)
+#### [Move and rename files and dirs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/move-and-rename-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/move-and-rename-files-and-dirs?u=76281980&t=0)** - [Instructor] When Linux copies a file, it copies the file data blocks to a new location on the disk.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/move-and-rename-files-and-dirs?u=76281980&t=0)** - [Instructor] When [[Linux]] copies a file, it copies the file data blocks to a new location on the disk.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/move-and-rename-files-and-dirs?u=76281980&t=5)** When moving a file between file systems, Linux copies the data blocks to the new location and then deletes the original data blocks.
 >
@@ -8410,7 +8328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Linux]] (5), data (4), cd (1)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **CLI Commands:** mv (10), mkdir (3), ls (3), make (1), cd (1)
 > **File Paths:** mvfile1.txt (3), mvfile2.txt (3), mvrenamed.txt (2), home/bob/file1.txt (1), home/ted/file1.txt (1)
 > **Prerequisites:** install (2)
@@ -8419,8 +8337,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980)
+#### [Remove files and dirs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8428,7 +8345,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980&t=4)** Namely, rm, and rmdir.
 >
-> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980&t=6)** You may want to note that on the command line Linux doesn't have a recycle bin, if you delete a file, it is for all practical purposes deleted.
+> **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980&t=6)** You may want to note that on the command line [[Linux]] doesn't have a recycle bin, if you delete a file, it is for all practical purposes deleted.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/remove-files-and-dirs?u=76281980&t=15)** Be careful, recovering files requires extra work.
 >
@@ -8574,7 +8491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), cd (4), [[Linux]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** rm (16), ls (8), cd (4), mkdir (2), sudo (1)
 > **File Paths:** filea.txt (2), dir1/file1.txt (1), fileb.txt (1), filec.txt (1), filed.txt (1)
 > **Warnings:** be careful (2), note that (1), keep in mind (1)
@@ -8583,8 +8500,7 @@ created: 2026-05-02
 > **Documentation:** man page (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create links to files and dirs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-links-to-files-and-dirs?u=76281980)
+#### [Create links to files and dirs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-links-to-files-and-dirs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8690,7 +8606,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), data (3), cd (1)
 > **File Paths:** file.txt (12), filelink.txt (7), filename.txt (1), fileone.txt (1), filesymlink.txt (1)
 > **CLI Commands:** ls (4), mkdir (2), cd (1), rm (1)
 > **Definitions:** is a  (3), means that (1)
@@ -8703,8 +8618,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and delete local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980)
+#### [Create and delete local user accounts](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8720,7 +8634,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980&t=24)** We'll observe this in a moment.
 >
-> **[0:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980&t=27)** The process of creating users in Linux is pretty straightforward.
+> **[0:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980&t=27)** The process of creating users in [[Linux]] is pretty straightforward.
 >
 > **[0:31](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-and-delete-local-user-accounts?u=76281980&t=31)** Let's go a terminal and type in sudo useradd with no arguments.
 >
@@ -8816,14 +8730,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (12), cat (7), ls (3)
 > **Documentation:** man page (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modify local user accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980)
+#### [Modify local user accounts](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8871,7 +8784,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980&t=108)** Now enter her password twice, and hit Enter again.
 >
-> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980&t=114)** We can verify this word by viewing the etc shadow file.
+> **[1:54](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980&t=114)** We can verify this [[Microsoft Word|word]] by viewing the etc shadow file.
 >
 > **[1:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/modify-local-user-accounts?u=76281980&t=117)** Type in sudo, space cat, space slash E-T-C, slash shadow, and hit Enter.
 >
@@ -8935,7 +8848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** sudo (10), cat (6)
 > **Env Vars:** bin (4)
 > **Tools:** bash (2), terminal (1)
@@ -8944,12 +8857,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Manage user passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-user-passwords?u=76281980)
+#### [Manage user passwords](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-user-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-user-passwords?u=76281980&t=0)** - The main tool for managing passwords in Linux is the "passwd" command.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-user-passwords?u=76281980&t=0)** - The main tool for managing passwords in [[Linux]] is the "passwd" command.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-user-passwords?u=76281980&t=5)** If you type in "passwd" without any arguments, it asks us twice for a new password and then the password is saved.
 >
@@ -9067,7 +8979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** sudo (10), ssh (2), cat (2)
 > **Env Vars:** ssh (2)
 > **Documentation:** man page (1)
@@ -9076,8 +8988,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - the (1)
 
-#### What is a file?
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980)
+#### [What is a file?](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9125,7 +9036,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980&t=87)** These are buffers for placin' data in a queue to be processed by other applications.
 >
-> **[1:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980&t=92)** Linux takes the idea of everything being a file so far that even the output of application data on the screen is considered a file that hasn't yet been saved.
+> **[1:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980&t=92)** [[Linux]] takes the idea of everything being a file so far that even the output of application data on the screen is considered a file that hasn't yet been saved.
 >
 > **[1:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/what-is-a-file?u=76281980&t=102)** The /proc directory has files with data in them that can be read but have a file size of zero bytes.
 >
@@ -9139,19 +9050,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Analogies:** such as (2), for instance (1), just like (1)
 > **CLI Commands:** ls (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** usb (1), fifo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get file attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-file-attributes?u=76281980)
+#### [Get file attributes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-file-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-file-attributes?u=76281980&t=0)** - [Instructor] Data that describes other data is called metadata.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-file-attributes?u=76281980&t=0)** - [Instructor] Data that describes other data is called [[Metadata]].
 >
 > **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-file-attributes?u=76281980&t=4)** It's important to be able to view metadata describing attributes of our files.
 >
@@ -9245,7 +9155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (6), hit (4), next (4), data (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (6)
 > **CLI Commands:** ls (6)
 > **Tools:** terminal (2)
 > **Analogies:** just like (1), for example (1)
@@ -9253,8 +9163,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get extended attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980)
+#### [Get extended attributes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9280,7 +9189,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980&t=51)** Extended system attributes store file access control list, or ACLs.
 >
-> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980&t=56)** ACLS provide an additional layer of discretionary access control for Linux, making Linux permissions easier to manage.
+> **[0:56](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980&t=56)** ACLS provide an additional layer of discretionary access control for [[Linux]], making Linux permissions easier to manage.
 >
 > **[1:03](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/get-extended-attributes?u=76281980&t=63)** File ACLs allow administrators to set permissions for multiple users on a file.
 >
@@ -9354,7 +9263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Security]] (6), [[Linux]] (5), data (3)
+> **Frameworks & Libraries:** [[Linux]] (5)
 > **File Paths:** aclfile.txt (4), afile.txt (3)
 > **CLI Commands:** ls (4), sudo (1)
 > **Env Vars:** acl (4), acls (1)
@@ -9363,12 +9272,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** just like (1)
 
-#### About standard Linux permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-standard-linux-permissions?u=76281980)
+#### [About standard Linux permissions](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-standard-linux-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-standard-linux-permissions?u=76281980&t=0)** - [Instructor] The standard Linux permission system came from Unix and was created 40 years ago.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-standard-linux-permissions?u=76281980&t=0)** - [Instructor] The standard [[Linux]] permission system came from Unix and was created 40 years ago.
 >
 > **[0:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/about-standard-linux-permissions?u=76281980&t=5)** It is a tried and true system and works for most situations.
 >
@@ -9429,12 +9337,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### File and directory modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980)
+#### [File and directory modes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=0)** - [Instructor] Standard Linux permissions support three different modes, read, write and execute.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=0)** - [Instructor] Standard [[Linux]] permissions support three different modes, read, write and execute.
 >
 > **[0:07](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=7)** These three modes provide different functionality for files and directories.
 >
@@ -9450,7 +9357,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=40)** These same three modes act differently on a directory.
 >
-> **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory, it means they can list the contents of the directory, which includes the metadata about the files and directories in it.
+> **[0:44](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=44)** If a user has read access to a directory, it means they can list the contents of the directory, which includes the [[Metadata]] about the files and directories in it.
 >
 > **[0:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-and-directory-modes?u=76281980&t=52)** If a user doesn't have read access and they type in LS inside the directory, you'll see a lot of question marks where the metadata should be.
 >
@@ -9466,14 +9373,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1), application (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Linux]] (1)
 > **CLI Commands:** ls (2)
 > **Definitions:** means that (2)
 > **Tools:** firefox (1)
 > **Speakers:** - [instructor] (1)
 
-#### File ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980)
+#### [File ownership](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9511,7 +9417,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980&t=100)** You can get a list of existing users by viewing etc password and etc group.
 >
-> **[1:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980&t=105)** For more information about creating users and groups, see my course in the library titled, Linux User and Group Management.
+> **[1:45](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980&t=105)** For more information about creating users and groups, see my course in the library titled, [[Linux]] User and Group Management.
 >
 > **[1:52](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/file-ownership?u=76281980&t=112)** Where we cover this topic in depth.
 >
@@ -9577,7 +9483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), cd (2), data (1), [[Linux]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** chown (10), sudo (7), ls (3), mkdir (3), cat (3)
 > **File Paths:** file.txt (7)
 > **Analogies:** for instance (2)
@@ -9586,12 +9492,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - before (1)
 
-#### Set permissions using numeric method
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-numeric-method?u=76281980)
+#### [Set permissions using numeric method](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-numeric-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-numeric-method?u=76281980&t=0)** There are two different methods of setting permissions in Linux: numeric and symbolic.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-numeric-method?u=76281980&t=0)** There are two different methods of setting permissions in [[Linux]]: numeric and symbolic.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-numeric-method?u=76281980&t=6)** Let's talk about numeric mode now.
 >
@@ -9657,19 +9562,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Linux]] (2), cd (1), application (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** chmod (8), ls (2), mkdir (1), cd (1)
 > **File Paths:** file.txt (2)
 > **Tools:** terminal (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Set permissions using symbolic method
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-symbolic-method?u=76281980)
+#### [Set permissions using symbolic method](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-symbolic-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-symbolic-method?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in Linux; numeric and symbolic mode.
+> **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-symbolic-method?u=76281980&t=0)** - [Instructor] There are two different methods of setting permissions in [[Linux]]; numeric and symbolic mode.
 >
 > **[0:06](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/set-permissions-using-symbolic-method?u=76281980&t=6)** Let's talk about symbolic mode.
 >
@@ -9773,7 +9677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), [[Linux]] (2), cd (2)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **CLI Commands:** chmod (11), ls (3), sudo (3), cd (2), mkdir (1)
 > **Analogies:** for instance (3)
 > **Tools:** terminal (2)
@@ -9782,8 +9686,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Default permissions using umask
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980)
+#### [Default permissions using umask](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9817,7 +9720,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980&t=71)** To calculate default permissions, we'll have to subtract the umask from maximum initial permissions.
 >
-> **[1:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980&t=78)** For directories, our maximum initial permissions are 777, since having execute on a directory doesn't create a security risk.
+> **[1:18](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980&t=78)** For directories, our maximum initial permissions are 777, since having execute on a directory doesn't create a [[Security Risk]].
 >
 > **[1:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/default-permissions-using-umask?u=76281980&t=86)** Now let's subtract 002 from 777.
 >
@@ -9903,7 +9806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (18), [[Security]] (2)
+> **Frameworks & Libraries:** [[Security Risk]] (1)
 > **CLI Commands:** ls (2), sudo (2), make (1), mkdir (1)
 > **Tools:** terminal (3), bash (1)
 > **File Paths:** umaskfile.txt (1), umask.sh (1), etc/profile.d/umask.sh (1)
@@ -9912,8 +9815,7 @@ created: 2026-05-02
 > **Env Vars:** uid (1)
 > **Cross-References:** go back to (1)
 
-#### Special file bits: SUID and SGID
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-file-bits-suid-and-sgid?u=76281980)
+#### [Special file bits: SUID and SGID](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-file-bits-suid-and-sgid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9993,7 +9895,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), power (1), [[Security]] (1)
 > **Env Vars:** suid (9), sgid (8), sjd (1)
 > **CLI Commands:** find (5), chmod (4), sudo (2), ls (1)
 > **Tools:** terminal (2)
@@ -10001,8 +9902,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special directory bits: SGID and Sticky
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980)
+#### [Special directory bits: SGID and Sticky](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10054,7 +9954,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980&t=118)** If there were no execute permissions, the s would be upper case.
 >
-> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980&t=122)** Sgid bits on directories represent the only inheritance in standard Linux permissions and ownership.
+> **[2:02](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980&t=122)** Sgid bits on directories represent the only inheritance in standard [[Linux]] permissions and ownership.
 >
 > **[2:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/special-directory-bits-sgid-and-sticky?u=76281980&t=128)** All files and directories created inside our accounting directory will inherit the group owner.
 >
@@ -10158,7 +10058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (19), cd (5), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (9), ls (8), cd (5), mkdir (3), chmod (3)
 > **File Paths:** file.txt (5)
 > **Tools:** terminal (2)
@@ -10170,8 +10070,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hard drive partitioning strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980)
+#### [Hard drive partitioning strategies](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10183,7 +10082,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=15)** With other operating systems, the entire OS goes in one partition.
 >
-> **[0:19](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=19)** With Linux, we have the ability to put pieces of it on many different discs just by mounting those volumes into the file system tree.
+> **[0:19](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=19)** With [[Linux]], we have the ability to put pieces of it on many different discs just by mounting those volumes into the file system tree.
 >
 > **[0:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=26)** For instance, we could segment off /boot, /home, and /var into separate partitions if we wanted to.
 >
@@ -10259,7 +10158,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=206)** We have another disc option during install, and that is whether to encrypt the drive or not.
 >
-> **[3:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=212)** Encryption used to be very slow, but now that we have AES hardware encryption and decryption built into CPUs, there's very little, if any, slowdown with an encrypted drive.
+> **[3:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=212)** Encryption used to be very slow, but now that we have AES [[Hardware]] encryption and decryption built into CPUs, there's very little, if any, slowdown with an encrypted drive.
 >
 > **[3:42](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=222)** For mobile devices such as laptops, I highly recommend encrypting the drives.
 >
@@ -10275,7 +10174,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=245)** If we don't have enough swap space, we can add more with another partition or LVM later.
 >
-> **[4:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=251)** In an emergency, we can even create a swap file similar to a Windows page file.
+> **[4:11](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=251)** In an emergency, we can even create a swap file similar to a [[Windows]] page file.
 >
 > **[4:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/hard-drive-partitioning-strategies?u=76281980&t=257)** We've talked about how to divide up the OS, but we haven't talked about why we do this.
 >
@@ -10315,7 +10214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linux]] (5), management (2), [[Hardware]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Hardware]] (2), [[Windows]] (2)
 > **Env Vars:** bios (8), lvm (6), guid (5), suid (2), sgid (2)
 > **Analogies:** for instance (4), such as (3), similar to (1)
 > **Definitions:** is an  (2), short for (1)
@@ -10324,8 +10223,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (2)
 > **Cross-References:** later in (1)
 
-#### List, create, delete partitions on MBR and GPT disks
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
+#### [List, create, delete partitions on MBR and GPT disks](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10429,7 +10327,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=235)** Type in +500M, capital M for megabytes.
 >
-> **[3:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=239)** This will create a 500MB partition and leave the rest of the disk free.
+> **[3:59](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=239)** This will create a 500MB partition and leave the [[Representational State Transfer (REST)|rest]] of the disk free.
 >
 > **[4:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/list-create-delete-partitions-on-mbr-and-gpt-disks?u=76281980&t=244)** Hit enter for the default partition ID of 8300.
 >
@@ -10479,7 +10377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (14), power (2), application (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (7), bios (4), mbr (3), uefi (2), guid (1)
 > **CLI Commands:** sudo (6), cat (3)
 > **Tools:** terminal (2), command line (2)
@@ -10487,8 +10385,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [male] (1)
 
-#### Create parititons using parted
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-parititons-using-parted?u=76281980)
+#### [Create parititons using parted](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-parititons-using-parted?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10558,7 +10455,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10)
 > **CLI Commands:** sudo (3), cp (1), yum (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (2), similar to (2)
@@ -10566,9 +10462,9 @@ created: 2026-05-02
 > **Env Vars:** dos (1), gpt (1)
 > **Prerequisites:** install (2)
 > **Versions:** version 2 (1)
+> **Cross-References:** previous video (1)
 
-#### Resize partitions without losing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980)
+#### [Resize partitions without losing data](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10656,7 +10552,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980&t=166)** For our ending sector, take the default, which will be the last sector of the disk.
 >
-> **[2:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980&t=170)** Our old partition type was Linux file system, so accept the default again.
+> **[2:50](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980&t=170)** Our old partition type was [[Linux]] file system, so accept the default again.
 >
 > **[2:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/resize-partitions-without-losing-data?u=76281980&t=175)** Let's view the partition table by pressing P and hitting Enter.
 >
@@ -10708,14 +10604,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), data (1), prompt (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** sdb (13), lsblk (3), xfs (2), gpt (1), exd (1)
 > **CLI Commands:** sudo (7), make (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic features of logical volume management (LVM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-logical-volume-management-lvm?u=76281980)
+#### [Basic features of logical volume management (LVM)](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-logical-volume-management-lvm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10781,7 +10676,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (1)
 > **Env Vars:** lvm (12)
 > **CLI Commands:** snap (2)
 > **UI Navigation:** switch to (1)
@@ -10789,8 +10683,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Manage LVM volumes and volume groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980)
+#### [Manage LVM volumes and volume groups](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -10876,7 +10769,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980&t=208)** We have several choices for file systems.
 >
-> **[3:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980&t=210)** The historic Linux file system is ext2, which supports permissions and ownership but is not journalized.
+> **[3:30](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980&t=210)** The historic [[Linux]] file system is ext2, which supports permissions and ownership but is not journalized.
 >
 > **[3:36](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/manage-lvm-volumes-and-volume-groups?u=76281980&t=216)** Ext3 is ext2 but with a journal.
 >
@@ -10938,7 +10831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), data (4), [[Linux]] (4), management (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (4)
 > **CLI Commands:** sudo (12), make (2), mkdir (2)
 > **Env Vars:** lvm (5), xfs (2), unix (1), raid (1), type (1)
 > **Analogies:** such as (2), for instance (1)
@@ -10947,8 +10840,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Warnings:** note that (1)
 
-#### Extend existing logical volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/extend-existing-logical-volumes?u=76281980)
+#### [Extend existing logical volumes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/extend-existing-logical-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11026,7 +10918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), management (1), data (1), next (1)
 > **CLI Commands:** sudo (9), make (1)
 > **Env Vars:** sdc (1), free (1)
 > **Cross-References:** previous video (1)
@@ -11034,8 +10925,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reduce existing logical volumes
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/reduce-existing-logical-volumes?u=76281980)
+#### [Reduce existing logical volumes](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/reduce-existing-logical-volumes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11125,15 +11015,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), data (1)
 > **CLI Commands:** sudo (7)
 > **Env Vars:** e2fsck (2), lvs (2)
 > **Code Identifiers:** resize2fs (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Replace a physical volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/replace-a-physical-volume?u=76281980)
+#### [Replace a physical volume](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/replace-a-physical-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11239,14 +11127,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (13), data (5)
 > **CLI Commands:** sudo (13)
 > **Versions:** 1.5 (2)
 > **Warnings:** be careful (1), warning (1)
 > **Speakers:** - replacing (1)
 
-#### Create EXT filesystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980)
+#### [Create EXT filesystems](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11300,7 +11186,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980&t=133)** You can go back and forth between these two formats without losing data.
 >
-> **[2:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980&t=137)** The ext2 and the ext3 file system drivers will go away in future versions of the linux kernel.
+> **[2:17](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980&t=137)** The ext2 and the ext3 file system drivers will go away in future versions of the [[Linux]] kernel.
 >
 > **[2:22](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/create-ext-filesystems?u=76281980&t=142)** The newer ext4 driver can mount an older drive for backwards compatibility.
 >
@@ -11322,15 +11208,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), data (2), front-end (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **CLI Commands:** sudo (7), ls (1)
 > **Env Vars:** mkfs (2)
 > **Tools:** terminal (1), command line (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Repair EXT filesystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980)
+#### [Repair EXT filesystems](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11418,7 +11303,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980&t=205)** There are some decisions that need an administrator to make.
 >
-> **[3:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980&t=208)** For instance, if the drive suddenly has thousands of errors, maybe it's actually a hardware problem.
+> **[3:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980&t=208)** For instance, if the drive suddenly has thousands of errors, maybe it's actually a [[Hardware]] problem.
 >
 > **[3:33](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/repair-ext-filesystems?u=76281980&t=213)** If so, trying to copy all data from the drive is probably a better use of our time than attempting to fix the file system itself when it may not be the problem.
 >
@@ -11454,7 +11339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), data (5), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** sudo (6), make (3), cp (1)
 > **Cross-References:** go back to (2)
 > **Tools:** terminal (1)
@@ -11462,8 +11347,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mount filesystems automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/mount-filesystems-automatically?u=76281980)
+#### [Mount filesystems automatically](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/mount-filesystems-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11561,7 +11445,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), data (3)
 > **Env Vars:** tab (8), uuid (6), xfs (2), blk (1), stb (1)
 > **CLI Commands:** sudo (9), mkdir (2), make (2)
 > **Cross-References:** previous video (1), earlier in (1)
@@ -11570,8 +11453,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [male] (1)
 
-#### Back up and restore an EXT filesystem
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/back-up-and-restore-an-ext-filesystem?u=76281980)
+#### [Back up and restore an EXT filesystem](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/back-up-and-restore-an-ext-filesystem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11645,12 +11527,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), cd (1)
 > **CLI Commands:** sudo (8), ssh (2), make (1), yum (1), ls (1)
 > **Prerequisites:** install (2)
 
-#### Basic features of Btrfs
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980)
+#### [Basic features of Btrfs](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11668,7 +11548,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=41)** In 2005, Sun Mircosystems released a file system called ZFS.
 >
-> **[0:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=46)** ZFS is a file system but has many features traditionally found on disk partitioning tools, such as pooled storage, copy-on-write, snapshots, data integrity verification and automatic repair, and RAID-Z which is a unique, dynamic disk striping system.
+> **[0:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=46)** ZFS is a file system but has many features traditionally found on disk partitioning tools, such as pooled storage, copy-on-write, snapshots, [[Data Integrity]] verification and automatic repair, and RAID-Z which is a unique, dynamic disk striping system.
 >
 > **[1:01](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=61)** ZFS enlarged parts of Sun Solaris were opensourced.
 >
@@ -11678,7 +11558,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=74)** A couple of years before Oracle bought Sun Microsystems and the code for ZFS, one of their developers started working on a new advanced file system called Btrfs or Btrfs.
 >
-> **[1:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=84)** Btrfs was scheduled to be released in 2008 and was added to the Linux kernel in 2009 right before Oracle bought Sun Microsystems.
+> **[1:24](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=84)** Btrfs was scheduled to be released in 2008 and was added to the [[Linux]] kernel in 2009 right before Oracle bought Sun Microsystems.
 >
 > **[1:32](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=92)** In 2012, two distributions moved Btrfs to production status, Oracle Linux and Suse Enterprise server.
 >
@@ -11696,7 +11576,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=148)** Online searching and repairing of errors for files that have redundant copies and support for RAID 0, RAID 1, and RAID 10 as well as subvolumes or multiple volumes in one partition.
 >
-> **[2:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=160)** It also supports transparent compression per file or volume, atomic writable snapshots and read-only snapshots, file cloning, checksums on data and metadata, incremental backups, data de-duplication, and lastly support for swap files and partitions.
+> **[2:40](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=160)** It also supports transparent compression per file or volume, atomic writable snapshots and read-only snapshots, file cloning, checksums on data and [[Metadata]], incremental backups, data de-duplication, and lastly support for swap files and partitions.
 >
 > **[2:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/basic-features-of-btrfs?u=76281980&t=177)** Notice some of these features sound like a more traditional file system like XFS and some of these features are currently handled by the Linux Raid Layer or LVM.
 >
@@ -11708,22 +11588,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), data (4), management (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Data Integrity]] (1), [[Metadata]] (1)
 > **Env Vars:** zfs (8), raid (4), xfs (3), lvm (2), ext4 (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Archiving files with tar
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980)
+#### [Archiving files with tar](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=0)** - [Instructor] We often have to archive files and directories for backup purposes.
 >
-> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=4)** With other operating systems such as Windows, we might use the ZIP tool for this.
+> **[0:04](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=4)** With other operating systems such as [[Windows]], we might use the ZIP tool for this.
 >
-> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=8)** In Linux, we use and Archiver, to preserve metadata such as ownership, permissions, access control lists, as well as the file data itself.
+> **[0:08](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=8)** In [[Linux]], we use and Archiver, to preserve [[Metadata]] such as ownership, permissions, access control lists, as well as the file data itself.
 >
 > **[0:15](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/archiving-files-with-tar?u=76281980&t=15)** The tool we usually use is TAR, or Tape Archiver.
 >
@@ -11823,7 +11702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (10), [[Linux]] (3), [[Metadata]] (2), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Metadata]] (2), [[Windows]] (1)
 > **CLI Commands:** tar (17), sudo (3), grep (1), ls (1)
 > **Env Vars:** tar (5), gzip (3), bzip2 (2), zip (1), edc (1)
 > **Analogies:** such as (2), for instance (2)
@@ -11837,8 +11716,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980)
+#### [Taking the exam](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -11858,9 +11736,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=26)** The test really does follow the exam objectives.
 >
-> **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=28)** The Linux Professional Institute has told you what is on the exam so pay close attention to the objectives.
+> **[0:28](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=28)** The [[Linux]] Professional Institute has told you what is on the exam so pay close attention to the objectives.
 >
-> **[0:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=34)** This exam has increased focus on system architecture, Linux installation and package management, GNU and Unix commands, devices, Linux filesystems, and the filesystem hierarchy standard.
+> **[0:34](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=34)** This exam has increased focus on [[System Architecture]], Linux installation and [[Package Management]], GNU and Unix commands, devices, Linux filesystems, and the filesystem hierarchy standard.
 >
 > **[0:46](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=46)** Each LPI exam is ranked on a scale from 200 to 800 with a passing score of 500.
 >
@@ -11892,11 +11770,11 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=115)** Lastly, practice, practice, practice.
 >
-> **[1:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=117)** Walk through this course more than once, complete the assessment questions more than once without using Google or your notes, and good luck.
+> **[1:57](https://www.linkedin.com/learning/lpic-1-exam-101-version-5-0-cert-prep/taking-the-exam?u=76281980&t=117)** Walk through this course more than once, complete the assessment questions more than once without using [[Google]] or your notes, and good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), management (1), [[System Architecture]] (1), [[Package Management]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[System Architecture]] (1), [[Package Management]] (1), [[Google]] (1)
 > **Env Vars:** lpi (3), lpic (1), gnu (1)
 > **Versions:** version 5 (1), 102.2 (1)
 > **Analogies:** for example (1)

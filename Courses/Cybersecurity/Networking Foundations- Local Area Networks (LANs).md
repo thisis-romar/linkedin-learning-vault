@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning networking foundations: LANs
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
+#### [Learning networking foundations: LANs](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980&t=9)** That's okay 'cause that's what we'll cover in this course.
 >
-> **[0:13](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980&t=13)** We will first talk about what is the local area network, or the LAN.
+> **[0:13](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980&t=13)** We will first talk about what is the [[Local Area Network (LAN)|local area network]], or the LAN.
 >
 > **[0:17](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/learning-networking-foundations-lans?u=76281980&t=17)** Then we'll look at the various ways of connecting to a LAN from copper cables of twisted pairs and coax to fiber optic cables and even wireless.
 >
@@ -103,20 +102,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (7), [[Local Area Network (LAN)|Local area network]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2)
 > **Env Vars:** lan (7), man (1), wan (1), pan (1), vlan (1)
 > **Speakers:** - [jarrel] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, we'll be covering topics related to computer networking.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=0)** - [Instructor] In this course, we'll be covering topics related to [[Computer Networking]].
 >
-> **[0:05](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=5)** For that matter, it is ideal if you're already familiar with the terms like SOHO or the small office home office network, IP addresses, network switches, Wi-Fi, copper cables, and fiber optics.
+> **[0:05](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=5)** For that matter, it is ideal if you're already familiar with the terms like SOHO or the small [[Microsoft Office|office]] home office network, IP addresses, [[Network Switches]], Wi-Fi, copper cables, and fiber optics.
 >
-> **[0:17](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=17)** Also, later in the course I'll be doing some basic demonstrations using Wireshark and a SOHO router emulator from TP-Link.
+> **[0:17](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=17)** Also, later in the course I'll be doing some basic demonstrations using [[Wireshark]] and a SOHO router emulator from TP-Link.
 >
 > **[0:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-you-should-know?u=76281980&t=26)** The emulator is publicly available.
 >
@@ -138,14 +136,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a LAN?
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
+#### [What is a LAN?](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=0)** - [Instructor] Let's start with the question, what is a LAN?
 >
-> **[0:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=3)** LAN stands for local area network.
+> **[0:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=3)** LAN stands for [[Local Area Network (LAN)|local area network]].
 >
 > **[0:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=6)** As the name implies, it is a type of network where devices are connected within a local area.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=52)** That is because of LAN.
 >
-> **[0:54](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=54)** How is it that we can access the same server in our office?
+> **[0:54](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=54)** How is it that we can access the same server in our [[Microsoft Office|office]]?
 >
 > **[0:57](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-a-lan?u=76281980&t=57)** That is also because of LAN.
 >
@@ -217,19 +214,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (21), [[Local Area Network (LAN)|Local area network]] (5), [[Microsoft Office|Office]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (5), [[Microsoft Office|Office]] (2)
 > **Env Vars:** lan (21), pan (5), man (2), wan (2), dns (1)
 > **Definitions:** is a  (7), refers to (2), stands for (1), known as (1)
 > **Prerequisites:** setup (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Components of a LAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980)
+#### [Components of a LAN](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=0)** - [Instructor] There are various components that make up a LAN, or a local area network.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=0)** - [Instructor] There are various components that make up a LAN, or a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:05](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=5)** We've got the hosts, or the end devices, the intermediary devices such as the switch, routers, and access points, as well as the network media, like the cables or the wifi connection.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=161)** Each network media has their pros and cons and a reason why one media is preferred on certain instances versus the others.
 >
-> **[2:49](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=169)** It is important to know the differences between each of them, so rest assured that we'll cover them separately in the succeeding videos.
+> **[2:49](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=169)** It is important to know the differences between each of them, so [[Representational State Transfer (REST)|rest]] assured that we'll cover them separately in the succeeding videos.
 >
 > **[2:58](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=178)** Finally, we've got the intermediary devices.
 >
@@ -319,7 +315,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=262)** Well, the answer is all of them.
 >
-> **[4:25](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=265)** A SOHO router, or a small office/home office router, has the capability to connect you to the internet.
+> **[4:25](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=265)** A SOHO router, or a small [[Microsoft Office|office]]/home office router, has the capability to connect you to the internet.
 >
 > **[4:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=272)** Hence, it is a router.
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 >
 > **[5:22](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=322)** We also now have cloud managed devices such as Cisco Meraki, which enables monitoring and management of network devices over the internet.
 >
-> **[5:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=332)** With the advent of virtualization, we also now have virtual network switches and routers that could be ideal for large enterprises and cloud managed solutions.
+> **[5:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=332)** With the advent of virtualization, we also now have virtual [[Network Switches]] and routers that could be ideal for large enterprises and cloud managed solutions.
 >
 > **[5:43](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/components-of-a-lan?u=76281980&t=343)** To know more about the various considerations when selecting network devices kindly refer to the course handout as well.
 >
@@ -369,7 +365,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (12), [[Microsoft Office|Office]] (4), [[Local Area Network (LAN)|Local area network]] (3), data (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Local Area Network (LAN)|Local area network]] (3), [[Network Switches]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** lan (12), nic (6), mac (3), soho (3), voip (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **Analogies:** such as (4)
@@ -377,18 +373,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### LAN topologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980)
+#### [LAN topologies](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=0)** - [Presenter] A network topology refers to how the devices in the network are connected to each other.
 >
-> **[0:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=6)** For a LAN or a local area network, this may refer to how various end devices are connected.
+> **[0:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=6)** For a LAN or a [[Local Area Network (LAN)|local area network]], this may refer to how various end devices are connected.
 >
 > **[0:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=12)** There are five common LAN topologies.
 >
-> **[0:15](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=15)** These are bus, tree, ring, star or hub-and-spoke and mesh.
+> **[0:15](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=15)** These are bus, tree, ring, star or hub-and-spoke and [[Mesh]].
 >
 > **[0:21](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=21)** Let us talk about each of these starting with a bus topology.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=52)** Did you notice that?
 >
-> **[0:53](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=53)** It is called the tree topology because much like a tree, the network begins at the root and expands to the rest of the network going to the end points.
+> **[0:53](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=53)** It is called the tree topology because much like a tree, the network begins at the root and expands to the [[Representational State Transfer (REST)|rest]] of the network going to the end points.
 >
 > **[1:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-topologies?u=76281980&t=63)** In this topology, the physical cable plant is known as the branching tree.
 >
@@ -458,7 +453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Mesh]] (4), [[Representational State Transfer (REST)|Rest]] (3), data (2), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** lan (5), ieee (1), fddi (1)
 > **Definitions:** is a  (2), known as (2), refers to (1), is called (1)
 > **Versions:** 802.5 (1)
@@ -472,8 +467,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Ethernet?
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
+#### [What is Ethernet?](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=12)** Ethernet refers to a family of networking technologies defined in the IEEE 802.2 and and IEE 802.3 standards.
 >
-> **[0:21](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=21)** It has become the defacto standard for wired communications, hence when you hear the term Ethernet, you can then think of a wired local area network.
+> **[0:21](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=21)** It has become the defacto standard for wired communications, hence when you hear the term Ethernet, you can then think of a wired [[Local Area Network (LAN)|local area network]].
 >
 > **[0:31](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=31)** Wired LAN, which means it includes twisted-pair coaxial cables and fiber optics.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=76)** Very important, isn't it?
 >
-> **[1:19](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=79)** For us to better understand how Ethernet works, let us look at this packet capture using Wireshark.
+> **[1:19](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=79)** For us to better understand how Ethernet works, let us look at this packet capture using [[Wireshark]].
 >
 > **[1:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-ethernet?u=76281980&t=86)** This is a packet capture of an ARP request and reply.
 >
@@ -575,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), lan (2), [[Local Area Network (LAN)|Local area network]] (2), cd (2), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Wireshark]] (1)
 > **Env Vars:** arp (6), mac (5), lan (2), csma (2), ieee (1)
 > **Definitions:** is a  (2), refers to (1), known as (1), is an  (1)
 > **CLI Commands:** cd (2)
@@ -583,8 +577,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ethernet standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980)
+#### [Ethernet standards](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=94)** Nice.
 >
-> **[1:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=96)** After the number, we got the word Base, referring to baseband transmission, and finally, T to denote that it is for twisted-pair cable.
+> **[1:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=96)** After the number, we got the [[Microsoft Word|word]] Base, referring to baseband transmission, and finally, T to denote that it is for twisted-pair cable.
 >
 > **[1:47](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=107)** There could also be cases where you might see 100Base-TX or D4 instead.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=139)** We also have 1000Base-LX, where in the L that refers to long distance, which is common for single-mode fiber.
 >
-> **[2:29](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=149)** You might also see 1000Base-RHx in some fiber optic products in the market right now, especially in the automotive industry.
+> **[2:29](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=149)** You might also see 1000Base-RHx in some fiber optic [[Microsoft Products|products]] in the market right now, especially in the automotive industry.
 >
 > **[2:39](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=159)** RH refers to robust high-speed, which is used for gigabit Ethernet over step-index POFs, or plastic optical fibers.
 >
@@ -658,7 +651,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=214)** As you can see, Ethernet standards have evolved over time to support higher network speeds and bandwidth.
 >
-> **[3:42](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=222)** This scalability ensures that Ethernet can meet the growing demands of modern networks, and that is why Ethernet is still used up until today.
+> **[3:42](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/ethernet-standards?u=76281980&t=222)** This [[Scalability]] ensures that Ethernet can meet the growing demands of modern networks, and that is why Ethernet is still used up until today.
 
 > [!info]- Semantic Content
 >
@@ -668,8 +661,7 @@ created: 2026-05-02
 > **Versions:** 802.3 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Copper cable: Twisted pair
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980)
+#### [Copper cable: Twisted pair](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,9 +677,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=31)** As the name implies, UTP is unshielded, which means that the cable does not have any additional shielding, unlike STP.
 >
-> **[0:40](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=40)** Because of this, UTP is less expensive than STP, and is ideal for home and office environments where there is minimal Electromagnetic Interference, or EMI, or Radio Frequency Interference, or RFI.
+> **[0:40](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=40)** Because of this, UTP is less expensive than STP, and is ideal for home and [[Microsoft Office|office]] environments where there is minimal Electromagnetic Interference, or EMI, or Radio Frequency Interference, or RFI.
 >
-> **[0:57](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=57)** On the other hand, in an STP, or a Shielded Twisted-Pair cable, each pair of wires is individually wrapped in a shielding material, such as a mesh, or an aluminum foil, which makes it less prone to Electromagnetic Interferences or Radio Frequency Interferences.
+> **[0:57](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=57)** On the other hand, in an STP, or a Shielded Twisted-Pair cable, each pair of wires is individually wrapped in a shielding material, such as a [[Mesh]], or an aluminum foil, which makes it less prone to Electromagnetic Interferences or Radio Frequency Interferences.
 >
 > **[1:16](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-twisted-pair?u=76281980&t=76)** Because of this, STP is the better choice for industrial settings, where there are heavy machineries or radio and electrical installations.
 >
@@ -749,7 +741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), data (2), [[Mesh]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Mesh]] (1)
 > **Env Vars:** stp (8), cat8 (6), cat6 (5), utp (4), cat7 (4)
 > **Definitions:** refers to (2), means that (1), known as (1)
 > **CLI Commands:** cat (2)
@@ -758,8 +750,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Twisted pair cable configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980)
+#### [Twisted pair cable configuration](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980&t=16)** But hey, they're actually referring to the same set of standards anyway.
 >
-> **[0:20](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980&t=20)** The name changed to ANSI/TIA-568 in 2011 after the Electronics Industries Alliance or EIA has ceased its operations.
+> **[0:20](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980&t=20)** The name changed to ANSI/TIA-568 in 2011 after the [[Electronics]] Industries Alliance or EIA has ceased its operations.
 >
 > **[0:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/twisted-pair-cable-configuration?u=76281980&t=32)** So what's with the T568 standard?
 >
@@ -843,7 +834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Electronics]] (1), management (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Env Vars:** t568a (6), t568b (6), tia (4), ansi (3), mdix (3)
 > **UI Navigation:** switch to (2)
 > **Analogies:** such as (2)
@@ -851,8 +842,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copper cable: Coaxial cable
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980)
+#### [Copper cable: Coaxial cable](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +876,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980&t=97)** First is the cost.
 >
-> **[1:39](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980&t=99)** Twisted-pair cables are generally less expensive than coaxial cables, making it a more cost effective option for home and office networks.
+> **[1:39](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980&t=99)** Twisted-pair cables are generally less expensive than coaxial cables, making it a more cost effective option for home and [[Microsoft Office|office]] networks.
 >
 > **[1:49](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/copper-cable-coaxial-cable?u=76281980&t=109)** Second reason is the ease of installation.
 >
@@ -922,13 +912,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Microsoft Office|Office]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** lan (5), emi (1), rfi (1), bnc (1), cat7 (1)
 > **Definitions:** is a  (1), short for (1), stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fiber optic cables
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/fiber-optic-cables?u=76281980)
+#### [Fiber optic cables](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/fiber-optic-cables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1000,7 +989,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** emi (1), rfi (1)
 > **Warnings:** caveat (1), be aware (1)
 > **Cross-References:** go back to (1)
@@ -1011,8 +999,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is wireless LAN?
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
+#### [What is wireless LAN?](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1038,7 +1025,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=72)** One of the key benefits of wireless LAN is mobility.
 >
-> **[1:16](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=76)** It has enabled us to use our mobile devices such as mobile phones and laptops, then move around at home or in the office while staying connected over the network.
+> **[1:16](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=76)** It has enabled us to use our mobile devices such as mobile phones and laptops, then move around at home or in the [[Microsoft Office|office]] while staying connected over the network.
 >
 > **[1:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=86)** It has freed us from cable wires.
 >
@@ -1048,9 +1035,9 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=96)** While it may not have as wide usage as Wi-Fi, it is actually a viable form of wireless LAN, such as for short range connections with remote controls and home automation devices, as well as in line of sight communications across buildings or sites.
 >
-> **[1:53](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=113)** Speaking of home automation, we also now have wireless networks for connecting IoT devices.
+> **[1:53](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=113)** Speaking of home automation, we also now have wireless networks for connecting [[IoT]] devices.
 >
-> **[1:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=119)** IoT refers to internet of things.
+> **[1:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=119)** IoT refers to [[IoT|internet of things]].
 >
 > **[2:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/what-is-wireless-lan?u=76281980&t=123)** These are devices that we can connect to the network or to the internet with the use of wireless technologies such as Zigbee, ANT+, or Z-Wave among many others.
 >
@@ -1080,7 +1067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (5), [[Microsoft Office|Office]] (3), [[IoT]] (3), [[Automation]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[IoT]] (3), [[IoT|Internet of things]] (1)
 > **Env Vars:** lan (5), ant (1), ieee (1), soho (1)
 > **Analogies:** such as (5), for example (1)
 > **Versions:** 2.4 (5)
@@ -1088,8 +1075,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless standards
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-standards?u=76281980)
+#### [Wireless standards](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-standards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1153,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), lan (3)
 > **Versions:** 2.4 (6), 802.11 (2), 6.9 (1)
 > **Env Vars:** lan (3), ieee (2), soho (1)
 > **Definitions:** known as (1), means that (1)
@@ -1176,8 +1161,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wireless LAN configuration via SOHO router
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980)
+#### [Wireless LAN configuration via SOHO router](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1249,11 +1233,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=224)** Then enter the server's IP address along with the password.
 >
-> **[3:50](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=230)** For small office home office networks, we typically use a preshared key or a passphrase, so for this demonstration, I'll select WPA3 personal and then enter a password.
+> **[3:50](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=230)** For small [[Microsoft Office|office]] home office networks, we typically use a preshared key or a passphrase, so for this demonstration, I'll select WPA3 personal and then enter a password.
 >
 > **[4:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=243)** This passphrase will be the Wi-Fi password that we'll enter when we connect to this wireless network later on.
 >
-> **[4:11](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=251)** For our end, I'll enter LinkedIn demo Wi-Fi, so let me type that one properly and that's it.
+> **[4:11](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=251)** For our end, I'll enter [[LinkedIn]] demo Wi-Fi, so let me type that one properly and that's it.
 >
 > **[4:20](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/wireless-lan-configuration-via-soho-router?u=76281980&t=260)** I know it's pretty long, right?
 >
@@ -1289,7 +1273,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (4), [[Security]] (2), [[Microsoft Office|Office]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[LinkedIn]] (2)
 > **Env Vars:** ssid (8), wpa2 (5), wpa3 (5), lan (4), soho (3)
 > **Versions:** 2.4 (5), 822.11 (3)
 > **Best Practices:** good practice (3), remember to (2)
@@ -1303,12 +1287,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### DHCP: Dynamic Host Configuration Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
+#### [DHCP: Dynamic Host Configuration Protocol](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=0)** - [Speaker] When configuring a SOHO router or a small office home office router, there are a few configurations that relates to LAN or the local area network, which could be useful in your home or office networks.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=0)** - [Speaker] When configuring a SOHO router or a small [[Microsoft Office|office]] home office router, there are a few configurations that relates to LAN or the [[Local Area Network (LAN)|local area network]], which could be useful in your home or office networks.
 >
 > **[0:13](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=13)** And so in the succeeding videos, we'll cover DHCP, DNS, VLAN, and LAN security.
 >
@@ -1358,7 +1341,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=144)** This typically happens automatically.
 >
-> **[2:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=146)** Otherwise, on a Windows machine, you can use the command IP config space forward slash renew, so as to get a new IP address.
+> **[2:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=146)** Otherwise, on a [[Windows]] machine, you can use the command IP config space forward slash renew, so as to get a new IP address.
 >
 > **[2:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dhcp-dynamic-host-configuration-protocol?u=76281980&t=156)** Meanwhile, notice that there's also optional fields for default gateway, primary DNS, and the secondary DNS.
 >
@@ -1388,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (6), [[Microsoft Office|Office]] (3), lan (3), [[Local Area Network (LAN)|Local area network]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Local Area Network (LAN)|Local area network]] (2), [[Windows]] (1)
 > **Env Vars:** dhcp (13), dns (6), soho (3), lan (3), vlan (1)
 > **Prerequisites:** configure (4)
 > **Definitions:** stands for (1), is a  (1), refers to (1)
@@ -1397,8 +1380,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 
-#### DNS: Domain Name System
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980)
+#### [DNS: Domain Name System](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1408,7 +1390,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=10)** And so, let's talk about DNS in this video.
 >
-> **[0:14](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=14)** DNS is an acronym which stands for Domain Name System or Domain Name Server in some references.
+> **[0:14](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=14)** DNS is an acronym which stands for [[Domain Name System (DNS)|Domain Name System]] or Domain Name Server in some references.
 >
 > **[0:22](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=22)** Either way, it's a computer protocol that matches domain names to their respective IP addresses.
 >
@@ -1422,7 +1404,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=51)** It matches domain names to their respective IP addresses.
 >
-> **[0:57](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=57)** DNS servers can either be hosted within your local network or it can be external, such as your ISP or internet service provider, or from a third-party vendor, such as Google.
+> **[0:57](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=57)** DNS servers can either be hosted within your local network or it can be external, such as your ISP or internet service provider, or from a third-party vendor, such as [[Google]].
 >
 > **[1:09](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=69)** Having said, one of Google's public DNS servers has an IP address of 8.8.8.8.
 >
@@ -1432,13 +1414,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=83)** There is so much more to uncover about DNS.
 >
-> **[1:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=86)** If you're interested, then you may also want to check out my course on learning DNS also here in LinkedIn Learning.
+> **[1:26](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=86)** If you're interested, then you may also want to check out my course on learning DNS also here in [[LinkedIn]] Learning.
 >
 > **[1:33](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/dns-domain-name-system?u=76281980&t=93)** See you then.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (9), [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[LinkedIn]] (1)
 > **Env Vars:** dns (9), dhcp (1), soho (1), isp (1)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** such as (2)
@@ -1446,14 +1428,13 @@ created: 2026-05-02
 > **Versions:** 8.8.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### VLAN: Virtual local area network
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980)
+#### [VLAN: Virtual local area network](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=0)** - [Instructor] Let us now talk about VLANs.
 >
-> **[0:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=3)** VLAN refers to virtual local area network.
+> **[0:03](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=3)** VLAN refers to virtual [[Local Area Network (LAN)|local area network]].
 >
 > **[0:07](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=7)** As the name implies, it is a local area network, but virtual.
 >
@@ -1501,7 +1482,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=149)** Let us go to Advanced, IPTV/VLAN, and then I'll just enable this one.
 >
-> **[2:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=156)** Yes, on small office/home office networks, we can use VLANs to separate the traffic for IPTV from the VoIP traffic, as well as the data traffic for our local area networks.
+> **[2:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=156)** Yes, on small [[Microsoft Office|office]]/home office networks, we can use VLANs to separate the traffic for IPTV from the VoIP traffic, as well as the data traffic for our local area networks.
 >
 > **[2:50](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/vlan-virtual-local-area-network?u=76281980&t=170)** Nice, right?
 >
@@ -1517,25 +1498,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (3), traffic (3), [[Microsoft Office|Office]] (2), data (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (3), [[Microsoft Office|Office]] (2)
 > **Env Vars:** vlan (6), soho (3), iptv (2), pc1 (1), pc6 (1)
 > **Definitions:** is a  (2), refers to (1), known as (1)
 > **Prerequisites:** configure (2), set up (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### LAN security
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980)
+#### [LAN security](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=0)** - [Instructor] Let us now talk about some of the best practices for securing the local area network.
+> **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=0)** - [Instructor] Let us now talk about some of the best practices for securing the [[Local Area Network (LAN)|local area network]].
 >
 > **[0:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=6)** First is physical security.
 >
 > **[0:08](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=8)** Sadly, this is one aspect that is often missed out.
 >
-> **[0:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=12)** With physical security, we need to ensure that our network hardware, routers, switches, and even our network links are all protected from unauthorized physical access.
+> **[0:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=12)** With physical security, we need to ensure that our network [[Hardware]], routers, switches, and even our network links are all protected from unauthorized physical access.
 >
 > **[0:23](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=23)** This can be done by placing them in secure rooms with secure racks or cabinets.
 >
@@ -1561,13 +1541,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=119)** We need to ensure that we use strong passphrases for user accounts, Wi-Fi access, including the router or switch admin access.
 >
-> **[2:08](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=128)** For Wi-Fi access, use WPA3-Personal if possible, or WPA2 with pre shared key for small office home office networks.
+> **[2:08](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=128)** For Wi-Fi access, use WPA3-Personal if possible, or WPA2 with pre shared key for small [[Microsoft Office|office]] home office networks.
 >
 > **[2:18](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=138)** You can also use RADIUS via WPA2-Enterprise for medium to large networks.
 >
 > **[2:25](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=145)** In terms of encryption, please remember to use strong encryption like AES, such as in Wi-Fi advanced configuration.
 >
-> **[2:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=154)** You can also opt to use VPN or virtual private network to keep your network secure.
+> **[2:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=154)** You can also opt to use VPN or [[Virtual Private Network (VPN)|virtual private network]] to keep your network secure.
 >
 > **[2:41](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=161)** Next is authorization.
 >
@@ -1575,9 +1555,9 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=167)** For networks, you can opt to use whitelists such as web filtering or use MAC address filtering, so as to limit which devices would be allowed to connect to the network.
 >
-> **[2:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=179)** You can also use systems and devices like firewalls, along with IDS or intrusion detection system, and IPS or intrusion prevention systems to better secure the network.
+> **[2:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=179)** You can also use systems and devices like firewalls, along with IDS or [[Intrusion Detection]] system, and IPS or intrusion prevention systems to better secure the network.
 >
-> **[3:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=192)** Ooh, by the way, if you'd like to learn more about firewalls, then you may want to check out my course on firewall administration essentials, also here in LinkedIn Learning.
+> **[3:12](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=192)** Ooh, by the way, if you'd like to learn more about firewalls, then you may want to check out my course on firewall administration essentials, also here in [[LinkedIn]] Learning.
 >
 > **[3:23](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-security?u=76281980&t=203)** Finally, it is also a good practice to conduct regular audits or compliance checks, so as to ensure that proper security controls are in place.
 >
@@ -1587,7 +1567,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), power (3), [[Microsoft Office|Office]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Hardware]] (1), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** wpa2 (2), ups (1), fhrp (1), hsrp (1), glbp (1)
 > **Analogies:** such as (3)
 > **Best Practices:** remember to (1), good practice (1)
@@ -1599,8 +1579,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LAN troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)
+#### [LAN troubleshooting](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,11 +1625,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=84)** This is where we check the IP address configuration.
 >
-> **[1:28](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=88)** On a Windows machine, you can use the ipconfig command.
+> **[1:28](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=88)** On a [[Windows]] machine, you can use the ipconfig command.
 >
-> **[1:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=92)** On a Linux machine, you can use the ifconfig or the IP address command.
+> **[1:32](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=92)** On a [[Linux]] machine, you can use the ifconfig or the IP address command.
 >
-> **[1:37](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=97)** The same commands can also work on Apple and Android devices.
+> **[1:37](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=97)** The same commands can also work on Apple and [[Android]] devices.
 >
 > **[1:41](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=101)** Having said that, inspect the IP configuration closely.
 >
@@ -1718,7 +1697,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=224)** By the way, the connection to the internet or the worldwide web is in the realm of WAN, or the wide area network.
 >
-> **[3:52](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=232)** If you're interested in learning more about WAN, then you may want to check out my course, also here in LinkedIn Learning.
+> **[3:52](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=232)** If you're interested in learning more about WAN, then you may want to check out my course, also here in [[LinkedIn]] Learning.
 >
 > **[3:59](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=239)** In this troubleshooting approach, you would notice that we started from the application layer going down to the physical layer, hence it is called as the top-down approach.
 >
@@ -1738,13 +1717,13 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=302)** Then you can go up or down the OSI model to resolve the issue.
 >
-> **[5:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=306)** For complex problems, you can also use netstat or Wireshark to further analyze the network traffic.
+> **[5:06](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=306)** For complex problems, you can also use netstat or [[Wireshark]] to further analyze the network traffic.
 >
 > **[5:14](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=314)** Once you have found the problematic layer, then you can use the follow-the-path approach to further trace the issue and resolve it.
 >
 > **[5:22](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=322)** With the follow-the-path approach, we look at the data flow through the network, from the source going to the destination, checking each hub along the way to see where the issue occurs.
 >
-> **[5:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=334)** This is particularly useful for resolving routing issues.
+> **[5:34](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=334)** This is particularly useful for resolving [[Routing]] issues.
 >
 > **[5:39](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/lan-troubleshooting?u=76281980&t=339)** Finally, we've got the component-swapping approach.
 >
@@ -1762,27 +1741,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (5), application (3), [[Windows]] (2), data (2), lan (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (1), [[Android]] (1), [[LinkedIn]] (1), [[Wireshark]] (1)
 > **Env Vars:** dhcp (4), osi (2), wan (2), lan (1), tcp (1)
 > **Definitions:** means that (2), is an  (1), is called (1)
 > **CLI Commands:** find (1)
 > **Versions:** 169.254 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=0)** - [Host] Yay, you've just completed the course on local area networks.
 >
-> **[0:04](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=4)** Hopefully you now have a better understanding of what a local area network is, or the LAN along with the various LAN connectivity options from wide ethernet to wireless LAN.
+> **[0:04](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=4)** Hopefully you now have a better understanding of what a [[Local Area Network (LAN)|local area network]] is, or the LAN along with the various LAN connectivity options from wide ethernet to wireless LAN.
 >
 > **[0:15](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=15)** The next step is for you to explore further and apply what you've just learned.
 >
 > **[0:20](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=20)** Having said that, if you're interested in creating a simulated local network, then you may want to check my course on Cisco Modeling labs.
 >
-> **[0:28](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=28)** Ooh, by the way, I also have other courses here on LinkedIn Learning that might interest you as well, like the courses on WAN, Firewall and DNS.
+> **[0:28](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=28)** Ooh, by the way, I also have other courses here on [[LinkedIn]] Learning that might interest you as well, like the courses on WAN, Firewall and DNS.
 >
 > **[0:36](https://www.linkedin.com/learning/networking-foundations-local-area-networks-lans-24682603/next-steps?u=76281980&t=36)** So check them out too.
 >
@@ -1794,7 +1772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (3), [[LinkedIn]] (2), [[Local Area Network (LAN)|Local area network]] (1), next (1), dns (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** lan (3), wan (1), dns (1)
 > **Speakers:** - [host] (1)
 

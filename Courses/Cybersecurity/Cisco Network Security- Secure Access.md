@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securely accessing resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980)
+#### [Securely accessing resources](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980&t=25)** I'll cover AAA security and compare RADIUS and TACACS authentication.
 >
-> **[0:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980&t=31)** I'll finish with ways to deal with the challenging environment network administrators manage today when dealing with bring your own device and the Internet of Things.
+> **[0:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980&t=31)** I'll finish with ways to deal with the [[Challenging Environment]] network administrators manage today when dealing with bring your own device and the [[IoT|Internet of Things]].
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-accessing-resources-23906978?u=76281980&t=43)** Hello, my name is Lisa Bock, and I'm a security ambassador.
 >
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1), [[Challenging Environment]] (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Challenging Environment]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** aaa (1), radius (1), tacacs (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/what-you-should-know-23666801?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cisco-network-security-secure-access/what-you-should-know-23666801?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -127,7 +125,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), career (1)
 > **Env Vars:** ccna (3)
 > **Definitions:** is an  (2)
 > **UI Navigation:** scroll down (1)
@@ -138,8 +135,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cisco Networking Academy
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980)
+#### [Cisco Networking Academy](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +153,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980&t=60)** Let's take a look.
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980&t=62)** I'll select Explore, and then I'll scroll down where we can see many subject areas, such as cybersecurity, networking, programming, and information technology.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980&t=62)** I'll select Explore, and then I'll scroll down where we can see many subject areas, such as [[Cybersecurity]], networking, programming, and information technology.
 >
 > **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-access/cisco-networking-academy-23666802?u=76281980&t=76)** But here's the one I want you to select, Cisco Packet Tracer.
 >
@@ -173,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Env Vars:** ccna (3)
 > **Prerequisites:** you'll need (2)
 > **URLs:** [netacad.com](https://netacad.com) (1)
@@ -182,12 +178,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packet Tracer interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980)
+#### [Packet Tracer interface](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=1)** - [Instructor] During this course, I'll demonstrate some of the concepts using Packet Tracer, an application made available through Cisco Networking Academy.
+> **[0:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=1)** - [Instructor] During this course, I'll demonstrate some of the concepts using Packet Tracer, an application made available through [[Cisco Networking]] Academy.
 >
 > **[0:11](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=11)** Packet Tracer lets us configure common networking equipment.
 >
@@ -207,7 +202,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=62)** But there's lots you can do to personalize your own interface.
 >
-> **[1:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=67)** View, where you can zoom in or zoom out or go to specific Views, Tools, Extensions.
+> **[1:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=67)** View, where you can [[Zoom]] in or zoom out or go to specific Views, Tools, Extensions.
 >
 > **[1:15](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=75)** And there you see the Activity Wizard.
 >
@@ -247,7 +242,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=176)** And then once done, I'll go back to the Select tool, and now we'll go over to the lower right-hand corner.
 >
-> **[3:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=181)** Now on the right-hand side, we'll see the Realtime and Simulation bar.
+> **[3:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=181)** Now on the right-hand side, we'll see the Realtime and [[Simulation]] bar.
 >
 > **[3:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=187)** Now, I'll most likely be in Realtime, but you can go into Simulation if you want to.
 >
@@ -273,7 +268,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=233)** And there are different categories.
 >
-> **[3:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=236)** I'll select cybersecurity, and then I'll go to AAA.
+> **[3:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=236)** I'll select [[Cybersecurity]], and then I'll go to AAA.
 >
 > **[4:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/packet-tracer-interface-23670159?u=76281980&t=240)** And then I'll select Simple Authentication, and then I'll open it.
 >
@@ -289,7 +284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Simulation]] (3), application (2), [[Cisco Networking]] (2), [[Zoom]] (2), hit (1)
+> **Frameworks & Libraries:** [[Simulation]] (3), [[Cisco Networking]] (2), [[Zoom]] (2), [[Cybersecurity]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Analogies:** for example (2), it's like (1)
 > **CLI Commands:** make (1), find (1)
@@ -303,8 +298,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secure Access Control System overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980)
+#### [Secure Access Control System overview](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -324,13 +318,13 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=51)** Let's take a look.
 >
-> **[0:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=53)** Network security means we protect our networks against external and internal attacks.
+> **[0:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=53)** [[Network Security]] means we protect our networks against external and internal attacks.
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=60)** On the upper right-hand corner, we see we should develop policies that include home and mobile networking, and train all employees on secure cyber practices while at home and on mobile devices.
 >
 > **[1:14](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=74)** Secure configuration.
 >
-> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=76)** This means patch and configuration management of all systems.
+> **[1:16](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=76)** This means patch and [[Configuration Management]] of all systems.
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=81)** We can't overlook the need for policies that provide access control and proper use and disposal of removable media.
 >
@@ -340,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=107)** At the bottom we see incident management.
 >
-> **[1:50](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=110)** All companies should establish an incident response and disaster recovery program, so that you're prepared in case of an incident or disaster.
+> **[1:50](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=110)** All companies should establish an [[Incident Response]] and disaster recovery program, so that you're prepared in case of an incident or disaster.
 >
 > **[2:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=121)** Over in the left-hand corner lists user education and awareness.
 >
@@ -356,7 +350,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=166)** In general, there are a lot of moving parts to manage and secure an enterprise network that include technical, physical, and administrative controls.
 >
-> **[2:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=176)** The network security specialist is responsible for some of the physical aspects, such as ensuring the server room doors are properly locked, along with the technical or logical controls such as access control lists and intrusion detection, intrusion prevention signatures, and implementing password policies.
+> **[2:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=176)** The network security specialist is responsible for some of the physical aspects, such as ensuring the server room doors are properly locked, along with the technical or logical controls such as access control lists and [[Intrusion Detection]], intrusion prevention signatures, and implementing password policies.
 >
 > **[3:18](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=198)** When dealing with the various networking devices as they move data throughout the network, there are three planes.
 >
@@ -366,11 +360,11 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=221)** Protocols in this plane include Telnet, File Transfer Protocol, Secure FTP, Simple Network Management Protocol, and Secure Shell.
 >
-> **[3:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=233)** The control plane is responsible for routing protocols and routers that talk with one another.
+> **[3:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=233)** The control plane is responsible for [[Routing Protocols]] and routers that talk with one another.
 >
 > **[3:59](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=239)** Protocols in this plane work independently of the network administrator.
 >
-> **[4:05](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=245)** They work on their own and include routing protocols such as Open Shortest Path First, Intermediary System - Intermediary System, and Enhanced Interior Gateway Routing Protocol, along with other protocols such as IGMP, Protocol Independent Multicast, ICMP and ARP.
+> **[4:05](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=245)** They work on their own and include routing protocols such as Open Shortest Path First, Intermediary System - Intermediary System, and Enhanced Interior Gateway [[Routing]] Protocol, along with other protocols such as IGMP, Protocol Independent Multicast, ICMP and ARP.
 >
 > **[4:27](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-access-control-system-overview?u=76281980&t=267)** The data plane processes and moves user traffic.
 >
@@ -388,20 +382,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (4), [[Network Security]] (3), [[Security]] (2), [[Routing Protocols]] (2)
+> **Frameworks & Libraries:** [[Network Security]] (3), [[Routing Protocols]] (2), [[Configuration Management]] (1), [[Incident Response]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** eniac (1), ftp (1), igmp (1), icmp (1), arp (1)
 > **Analogies:** such as (5)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare in-band and out-of-band management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980)
+#### [Compare in-band and out-of-band management](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980&t=0)** [Narrator]
 >
-> **[0:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980&t=1)** - On an enterprise network we'll have a variety of devices to manage that include routers, switches, adaptive security appliances, along with intrusion detection and intrusion prevention.
+> **[0:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980&t=1)** - On an enterprise network we'll have a variety of devices to manage that include routers, switches, adaptive security appliances, along with [[Intrusion Detection]] and intrusion prevention.
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-network-security-secure-access/compare-in-band-and-out-of-band-management?u=76281980&t=14)** It's essential to defend the network and the devices against the many possible threats that include unauthorized access, man in-the-middle attacks, denial service, botnets, and privilege escalation.
 >
@@ -485,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (14), [[Security]] (2), [[Intrusion Detection]] (1), data (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Env Vars:** tty (3), vty (3), ios (2), http (1), cty (1)
 > **Tools:** command line (1), terminal (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -493,8 +486,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - on (1)
 
-#### Secure network management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980)
+#### [Secure network management](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -506,7 +498,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=32)** For a proactive approach, a comprehensive view of the network is necessary.
 >
-> **[0:37](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=37)** Gather and monitor access control lists, protocols, services, routing tables, vulnerabilities, and patches.
+> **[0:37](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=37)** Gather and monitor access control lists, protocols, services, [[Routing]] tables, vulnerabilities, and patches.
 >
 > **[0:46](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=46)** Assess what you might be missing, such as logins, banners, passwords, and access control list entries.
 >
@@ -514,7 +506,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=68)** With a macro view of the network in hand, the network administrator is better prepared to face the daily challenges and keep the network up and operational.
 >
-> **[1:20](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=80)** At the heart of network administration, is secure network management.
+> **[1:20](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=80)** At the heart of [[Network Administration]], is secure network management.
 >
 > **[1:25](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-network-management?u=76281980&t=85)** Although we view the network as a whole, we must secure each and every individual device, either via console or virtual terminal access.
 >
@@ -574,7 +566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), management (4), data (3), [[Routing]] (1), [[Network Administration]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Network Administration]] (1)
 > **Env Vars:** vty (3), radius (1), tacacs (1)
 > **Analogies:** such as (4), picture (1)
 > **Prerequisites:** configure (4)
@@ -583,8 +575,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Simple Network Management Protocol (SNMP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980)
+#### [Simple Network Management Protocol (SNMP)](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +635,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980&t=230)** SNMP version three is the one you will want to use, because it ensures confidentiality, authentication, and access control.
 >
-> **[4:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980&t=240)** Let's take a look at a Simple Network Management Protocol transaction in Wireshark, a free open-source protocol analysis tool.
+> **[4:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980&t=240)** Let's take a look at a Simple Network Management Protocol transaction in [[Wireshark]], a free open-source protocol analysis tool.
 >
 > **[4:09](https://www.linkedin.com/learning/cisco-network-security-secure-access/simple-network-management-protocol-snmp?u=76281980&t=249)** I've opened up this capture and what we'll do is go to the display filter and type SNMP and Enter, so I only see the frames that have SNMP.
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (11), data (4), database (3), next (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** snmp (13), oid (2), mib (1), rfc (1), md5 (1)
 > **Analogies:** such as (3)
 > **Documentation:** rfc (1)
@@ -704,8 +695,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure SNMP
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-snmp?u=76281980)
+#### [Configure SNMP](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-snmp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +803,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (10), data (1), database (1)
 > **Env Vars:** mib (4), snmp (4), ios (2), sntp (1)
 > **UI Navigation:** go to (8), open the (1)
 > **CLI Commands:** make (3)
@@ -821,9 +810,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Ports:** port 161 (1)
 > **Analogies:** such as (1)
+> **Speakers:** - [narrator] (1)
 
-#### Configure and verify security for Network Time Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980)
+#### [Configure and verify security for Network Time Protocol](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -837,7 +826,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=26)** On a Cisco router, there are two types of clocks.
 >
-> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=30)** A hardware clock that's battery powered, and is referred to as the calendar in the IOS.
+> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=30)** A [[Hardware]] clock that's battery powered, and is referred to as the calendar in the IOS.
 >
 > **[0:36](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=36)** A software clock, which is the primary source for time, and is referenced as the clock in the IOS.
 >
@@ -935,7 +924,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=371)** Well now you can see what's available.
 >
-> **[6:12](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=372)** Remember, Packet Tracer is a simulation software product, so it might not have all of the options available.
+> **[6:12](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=372)** Remember, Packet Tracer is a [[Simulation Software]] product, so it might not have all of the options available.
 >
 > **[6:21](https://www.linkedin.com/learning/cisco-network-security-secure-access/configure-and-verify-security-for-network-time-protocol?u=76281980&t=381)** But it does have enough at least to get us started.
 >
@@ -965,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (3), web (1), hit (1), management (1), [[Simulation Software]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Simulation Software]] (1)
 > **Env Vars:** ntp (25), ios (2), vines (1), snmp (1)
 > **Prerequisites:** configure (4), you'll need (3)
 > **UI Navigation:** go to (3)
@@ -974,8 +963,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1), be careful (1)
 > **CLI Commands:** make (1)
 
-#### Secure Copy Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-copy-protocol?u=76281980)
+#### [Secure Copy Protocol](https://www.linkedin.com/learning/cisco-network-security-secure-access/secure-copy-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,7 +1027,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** tftp (5), ftp (2), udp (1)
 > **Prerequisites:** configure (3), you'll need (2)
 > **Definitions:** is a  (2), is an  (1)
@@ -1051,12 +1038,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AAA security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980)
+#### [AAA security](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=0)** - [Instructor] Network security threats can gain access to the network and violate the confidentiality of data, alter the integrity of the network, or disrupt the availability of resources.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=0)** - [Instructor] [[Network Security]] threats can gain access to the network and violate the confidentiality of data, alter the integrity of the network, or disrupt the availability of resources.
 >
 > **[0:14](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=14)** Access control is a framework comprised of methods and logical controls to ensure confidentiality, integrity, and availability.
 >
@@ -1072,9 +1058,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=95)** Considerations include what level of security is required and also the impact of the security measures.
 >
-> **[1:43](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=103)** Access control can be enforced in one of three main categories: Administrative, by enforcing rules through policies, Logical, by enforcing rules through access controls, and Physical, by limiting physical access to the hardware.
+> **[1:43](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=103)** Access control can be enforced in one of three main categories: Administrative, by enforcing rules through policies, Logical, by enforcing rules through access controls, and Physical, by limiting physical access to the [[Hardware]].
 >
-> **[1:59](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=119)** Authentication, authorization, and accounting or Triple A security is a commonly accepted model to control access and defend the infrastructure, ensure data privacy, and adhere to regulatory compliance.
+> **[1:59](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=119)** Authentication, authorization, and accounting or Triple A security is a commonly accepted model to control access and defend the infrastructure, ensure [[Data Privacy]], and adhere to [[Regulatory Compliance]].
 >
 > **[2:15](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=135)** Authentication asks the question, "Who are you?
 >
@@ -1094,7 +1080,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=186)** A policy information point holds information on all clients that access the network.
 >
-> **[3:13](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=193)** And monitoring and reporting systems gather information and statistics and can alert the administrator of activity that's outside of the range of acceptable activity.
+> **[3:13](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=193)** And monitoring and reporting systems gather information and [[Statistics]] and can alert the administrator of activity that's outside of the range of acceptable activity.
 >
 > **[3:24](https://www.linkedin.com/learning/cisco-network-security-secure-access/aaa-security?u=76281980&t=204)** Triple A Deployment can be local or decentralized or server-based or central.
 >
@@ -1104,14 +1090,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), [[Network Security]] (1), [[Hardware]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Hardware]] (1), [[Data Privacy]] (1), [[Regulatory Compliance]] (1), [[Statistics]] (1)
 > **Env Vars:** aaa (2), radius (1), tacacs (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980)
+#### [Authentication](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,9 +1110,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=24)** What you have in your hand, such as a smart card, a token, or even a dongle.
 >
-> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=30)** A smart card is a small device that contains a microchip and has data storage capabilities.
+> **[0:30](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=30)** A smart card is a small device that contains a microchip and has [[Data Storage]] capabilities.
 >
-> **[0:37](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=37)** It can store several forms of identification, such as a fingerprint and a password, and it's available in several form factors, such as cards, key fobs, and USB tokens.
+> **[0:37](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=37)** It can store several [[Forms]] of identification, such as a fingerprint and a password, and it's available in several form factors, such as cards, key fobs, and USB [[Tokens]].
 >
 > **[0:50](https://www.linkedin.com/learning/cisco-network-security-secure-access/authentication?u=76281980&t=50)** And what you are.
 >
@@ -1189,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Forms]] (1), [[Tokens]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Forms]] (1), [[Tokens]] (1)
 > **Analogies:** such as (5)
 > **Env Vars:** pin (1), usb (1), md5 (1)
 > **Definitions:** is a  (2)
@@ -1197,8 +1182,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980)
+#### [Authorization](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,7 +1198,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=43)** To see what polices are in place, that will either allow or deny access.
 >
-> **[0:49](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=49)** Microsoft's directory is called Active Directory, which is a database of objects that stores, organizes and enables access to other objects.
+> **[0:49](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=49)** [[Microsoft]]'s directory is called [[Active Directory]], which is a database of objects that stores, organizes and enables access to other objects.
 >
 > **[1:01](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=61)** Active Directory provides essential network services, such as DNS and Kerberos-based authentication.
 >
@@ -1238,19 +1222,18 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=145)** Authorization states what an entity is allowed to do, once they're on a network.
 >
-> **[2:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=151)** Intrusion detection and intrusion prevention should pick up unauthorized behavior and block potential malicious activity.
+> **[2:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/authorization?u=76281980&t=151)** [[Intrusion Detection]] and intrusion prevention should pick up unauthorized behavior and block potential malicious activity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), next (1), [[Microsoft]] (1), database (1), dns (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Microsoft]] (1), [[Intrusion Detection]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** dns (1), ios (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980)
+#### [Accounting](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1272,7 +1255,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980&t=59)** However, it's a critical component in a comprehensive security plan.
 >
-> **[1:03](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980&t=63)** Capturing data in the logs and then carefully reviewing the logs is essential for intrusion detection and forensics investigations.
+> **[1:03](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980&t=63)** Capturing data in the logs and then carefully reviewing the logs is essential for [[Intrusion Detection]] and forensics investigations.
 >
 > **[1:12](https://www.linkedin.com/learning/cisco-network-security-secure-access/accounting?u=76281980&t=72)** On any system there are multiple types of auditing and logging methods.
 >
@@ -1308,7 +1291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), [[Intrusion Detection]] (1), vpn (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Env Vars:** radius (2), tacacs (2), vpn (1)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
@@ -1322,8 +1305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RADIUS and TACACS+ authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980)
+#### [RADIUS and TACACS+ authentication](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1377,7 +1359,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=176)** This provides access control for routers, network access servers, and other networked computing devices.
 >
-> **[3:04](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=184)** TACACS+ is an authentication program used on UNIX and Linux systems.
+> **[3:04](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=184)** TACACS+ is an authentication program used on UNIX and [[Linux]] systems.
 >
 > **[3:10](https://www.linkedin.com/learning/cisco-network-security-secure-access/radius-and-tacacs-plus-authentication?u=76281980&t=190)** It's an extension of the RADIUS protocol that integrates well with Cisco devices.
 >
@@ -1401,7 +1383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** radius (19), tacacs (8), tcp (2), udp (2), chap (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (2)
@@ -1409,8 +1391,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using TACACS+
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/using-tacacs-plus?u=76281980)
+#### [Using TACACS+](https://www.linkedin.com/learning/cisco-network-security-secure-access/using-tacacs-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,14 +1447,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **Env Vars:** aaa (6), tacacs (5), tacacs2 (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enforcing security with AAA
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980)
+#### [Enforcing security with AAA](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,7 +1466,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=39)** I'm here at this site where you can learn more about ICE.
 >
-> **[0:44](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=44)** ICE works with multiple types of users and devices that want to join the network, including LAN and IoT devices, along with wireless and VPN users.
+> **[0:44](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=44)** ICE works with multiple types of users and devices that want to join the network, including LAN and [[IoT]] devices, along with wireless and VPN users.
 >
 > **[0:57](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=57)** Once users and devices have gained access and authenticated into the network, ICE monitors and logs all activities.
 >
@@ -1501,11 +1480,11 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=103)** So, now let's step through an example of how Cisco's ICE works with each protocol in the context of AAA.
 >
-> **[1:52](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=112)** The first step is authentication, where the client requests access to the network, and will log in using either credentials, such as a username and password, certificates, or multi-factor authentication.
+> **[1:52](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=112)** The first step is authentication, where the client requests access to the network, and will log in using either credentials, such as a username and password, certificates, or [[Multi-factor Authentication]].
 >
 > **[2:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=127)** The authentication process is usually where Cisco's ICE acts as the RADIUS server and communicates with the network device, such as a switch or a wireless access point.
 >
-> **[2:20](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=140)** The process will verify the user's identity and credentials against a directory service, such as Active Directory or LDAP to ensure that only legitimate users and devices gain access.
+> **[2:20](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=140)** The process will verify the user's identity and credentials against a directory service, such as [[Active Directory]] or LDAP to ensure that only legitimate users and devices gain access.
 >
 > **[2:35](https://www.linkedin.com/learning/cisco-network-security-secure-access/enforcing-security-with-triple-a?u=76281980&t=155)** Once the client is authenticated, the RADIUS server then checks the user account to see their permissions.
 >
@@ -1523,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), vpn (2), lan (1), [[IoT]] (1), [[Multi-factor Authentication]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Multi-factor Authentication]] (1), [[Active Directory]] (1)
 > **Env Vars:** aaa (8), radius (7), ice (7), tacacs (4), vpn (2)
 > **Analogies:** such as (5)
 > **Definitions:** is an  (1)
@@ -1534,8 +1513,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing a BYOD infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/managing-a-byod-infrastructure?u=76281980)
+#### [Managing a BYOD infrastructure](https://www.linkedin.com/learning/cisco-network-security-secure-access/managing-a-byod-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1605,7 +1583,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (2), management (1), application (1), lan (1)
 > **Definitions:** is a  (2), is called (1)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (1), you'll need (1)
@@ -1614,8 +1591,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mobile device management (MDM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980)
+#### [Mobile device management (MDM)](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1643,7 +1619,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=81)** So you can see that the network administrator can have granular control over the devices on the network.
 >
-> **[1:28](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=88)** However, along with network administration, user education is very important.
+> **[1:28](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=88)** However, along with [[Network Administration]], user education is very important.
 >
 > **[1:35](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=95)** Because of an always on connection and the amount of time spent on mobile devices, users should take precaution to secure the device.
 >
@@ -1657,11 +1633,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=156)** They can also disable anti-malware.
 >
-> **[2:39](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=159)** Only obtain apps from trusted sources, such as Apple iTunes, Google Play, or Amazon App Store for Android.
+> **[2:39](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=159)** Only obtain apps from trusted sources, such as Apple iTunes, [[Google]] Play, or Amazon App Store for [[Android]].
 >
 > **[2:48](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=168)** This helps prevent malware which is often distributed via apps.
 >
-> **[2:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=173)** Also, once you download, you'll want to review any privacy policies and understand what data the app wants to access, such as your location, social media information, before you download and install the app.
+> **[2:53](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=173)** Also, once you download, you'll want to review any [[Privacy]] policies and understand what data the app wants to access, such as your location, social media information, before you download and install the app.
 >
 > **[3:08](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=188)** With privacy, only give your cell phone number to someone you know.
 >
@@ -1675,7 +1651,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=207)** Either all incoming calls or individual names and numbers.
 >
-> **[3:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=211)** Vishing is another name for voice over IP phishing.
+> **[3:31](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=211)** Vishing is another name for voice over IP [[Phishing]].
 >
 > **[3:35](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=215)** It's just like regular phishing in that an attacker will call the party and request confidential information.
 >
@@ -1683,7 +1659,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=225)** This voids the manufacturer's warranty and it may be in violation of corporate policy.
 >
-> **[3:51](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=231)** Use good web sense. Use a secure connection while shopping or banking.
+> **[3:51](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=231)** Use good web sense. Use a secure connection while shopping or [[Banking]].
 >
 > **[3:56](https://www.linkedin.com/learning/cisco-network-security-secure-access/mobile-device-management-mdm?u=76281980&t=236)** Enroll in something such as Find my iPhone or equivalent service if it isn't supported at your workplace.
 >
@@ -1699,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), [[Security]] (3), data (2), [[Privacy]] (2), [[Phishing]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Phishing]] (2), [[Network Administration]] (1), [[Google]] (1), [[Android]] (1)
 > **Analogies:** such as (6), just like (1)
 > **Code Identifiers:** itunes (1), iphone (1)
 > **Warnings:** keep in mind (1), caution (1)
@@ -1708,18 +1684,17 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Securely integrating IoT devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980)
+#### [Securely integrating IoT devices](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=0)** - [Instructor] The Internet of Things offers numerous opportunities for consumers, businesses, and governments.
+> **[0:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] offers numerous opportunities for consumers, businesses, and governments.
 >
-> **[0:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=7)** In this segment, we'll learn how to safely integrate IOT devices into the network using a zero trust approach.
+> **[0:07](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=7)** In this segment, we'll learn how to safely integrate [[IoT]] devices into the network using a zero trust approach.
 >
 > **[0:16](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=16)** The Internet of Things is a collection of tens of billions of devices attached to the internet that collect and exchange data using nodes, sensors, and controllers.
 >
-> **[0:29](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=29)** For most of the early growth in the IoT, we didn't incorporate any traditional security methods such as firewalls and intrusion detection systems.
+> **[0:29](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=29)** For most of the early growth in the IoT, we didn't incorporate any traditional security methods such as firewalls and [[Intrusion Detection]] systems.
 >
 > **[0:39](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=39)** The belief was these tiny devices were not an attractive target to hackers, or they couldn't possibly be susceptible to an attack.
 >
@@ -1727,7 +1702,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=60)** As a result, many have moved away from the traditional approach and have adopted a zero trust model.
 >
-> **[1:08](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=68)** Zero trust is an approach to cybersecurity that assumes no absolute trust for users, devices, or applications regardless of location or level of access.
+> **[1:08](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=68)** Zero trust is an approach to [[Cybersecurity]] that assumes no absolute trust for users, devices, or applications regardless of location or level of access.
 >
 > **[1:23](https://www.linkedin.com/learning/cisco-network-security-secure-access/securely-integrating-iot-devices?u=76281980&t=83)** A zero trust framework helps reduce the risk of a malicious actor gaining access and moving through the network.
 >
@@ -1761,7 +1736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (3), data (3), application (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (3), [[Intrusion Detection]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** iot (1), api (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** scroll down (1)
@@ -1773,8 +1748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1788,13 +1762,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=25)** Additionally, I reviewed AAA security, including authentication, authorization, and accounting.
 >
-> **[0:32](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=32)** I compared RADIUS and TACACs authentication, along with the extended environment network administrators manage, when dealing with Bring Your Own Device, along with the integration of the Internet of Things.
+> **[0:32](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=32)** I compared RADIUS and TACACs authentication, along with the extended environment network administrators manage, when dealing with Bring Your Own Device, along with the integration of the [[IoT|Internet of Things]].
 >
 > **[0:47](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=47)** If you're interested in learning more, please check out the library, where we add new courses all the time.
 >
-> **[0:55](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=55)** If you're interested in learning about packet analysis, please check out my courses on Wireshark.
+> **[0:55](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=55)** If you're interested in learning about packet analysis, please check out my courses on [[Wireshark]].
 >
-> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=62)** My course, "[[Introduction to Pen Testing for Cybersecurity Professionals]]", will be well worth your time.
+> **[1:02](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=62)** My course, "[[Introduction to Pen Testing for [[Cybersecurity]] Professionals]]", will be well worth your time.
 >
 > **[1:10](https://www.linkedin.com/learning/cisco-network-security-secure-access/next-steps-23667573?u=76281980&t=70)** You might also want to see what my colleague, Malcolm Shore, has for you on his homepage.
 >
@@ -1804,7 +1778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Security]] (1), [[Internet of Things (IoT)|Internet of things]] (1), [[Wireshark]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[Wireshark]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** aaa (1), radius (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)

@@ -68,8 +68,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Providing Voice over Internet Protocol (VoIP) telephony
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
+#### [Providing Voice over Internet Protocol (VoIP) telephony](https://www.linkedin.com/learning/learning-voip-and-unified-communications/providing-voice-over-internet-protocol-voip-telephony-14173322?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,12 +90,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-you-need-to-know-14171521?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-you-need-to-know-14171521?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), application (1)
 > **Env Vars:** url (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
@@ -129,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unified communications (UC) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
+#### [Unified communications (UC) overview](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -146,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=56)** In today's world, we use any combination of communication methods, including email, phones, instant messaging, and video conferencing.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=68)** Communication can be real-time or non-real time.
+> **[1:08](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=68)** Communication can be [[Real-Time]] or non-real time.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=73)** During real-time communication, the sender and receiver communicate in both directions at the same time.
 >
@@ -158,11 +153,11 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=98)** Effective communication requires feedback.
 >
-> **[1:43](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=103)** Unified Communications combines different forms of communications and provides a framework for a consistent user interface across multiple devices and improves business communications.
+> **[1:43](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=103)** Unified Communications combines different [[Forms]] of communications and provides a framework for a consistent user interface across multiple devices and improves [[Business Communications]].
 >
 > **[1:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=118)** Unified Communications leverages the IP network.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=124)** We can combine communications across a wide range of platforms, including commercial-off-the-shelf tools such as Outlook and Customer Relations Management tools and mobile apps.
+> **[2:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=124)** We can combine communications across a wide range of platforms, including commercial-off-the-shelf tools such as [[Microsoft Outlook|Outlook]] and [[Customer Relations]] Management tools and mobile apps.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unified-communications-uc-overview-14175295?u=76281980&t=138)** Features can include voicemail, fax, chat, email, video conferencing and presence information.
 >
@@ -188,12 +183,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), management (2), business (2), [[Forms]] (1), [[Business Communications]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Forms]] (1), [[Business Communications]] (1), [[Microsoft Outlook|Outlook]] (1), [[Customer Relations]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making a call using VoIP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980)
+#### [Making a call using VoIP](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,7 +235,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=183)** Every function is included, such as calling, texting, browsing and sending email.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=191)** To take advantage of mobile VoIP, there are various apps available such as Skype or Truphone for both iPhone and Android.
+> **[3:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=191)** To take advantage of mobile VoIP, there are various apps available such as Skype or Truphone for both iPhone and [[Android]].
 >
 > **[3:20](https://www.linkedin.com/learning/learning-voip-and-unified-communications/making-a-call-using-voip-14171517?u=76281980&t=200)** In addition, there are a number of VoIP apps available for tablets or laptops.
 >
@@ -251,7 +245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), business (3), web (1), feature (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -259,8 +253,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evolution of the Public Switched Telephone Network (PSTN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980)
+#### [Evolution of the Public Switched Telephone Network (PSTN)](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980&t=71)** In the beginning, calling involved a manual switch or operator directed calls.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980&t=78)** In the 1880s, a building in the center of a city called a central office housed equipment, signed up, and connected the community.
+> **[1:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980&t=78)** In the 1880s, a building in the center of a city called a central [[Microsoft Office|office]] housed equipment, signed up, and connected the community.
 >
 > **[1:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/evolution-of-the-public-switched-telephone-network-pstn?u=76281980&t=89)** The companies created islands of local service in a radius of a few miles around the central office in major cities that were part of, owned by, or licensed by the Bell Telephone Company.
 >
@@ -322,12 +315,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), traffic (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [speaker] (1)
 
-#### Moving from the PSTN to VoIP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980)
+#### [Moving from the PSTN to VoIP](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=18)** In 1975, the phone system developed Signaling System 7 control system, or simply SS7.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=29)** SS7 is a set of signaling protocols, used to set up and tear down calls, and is the basis of call routing for most of the world's calls.
+> **[0:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=29)** SS7 is a set of signaling protocols, used to set up and tear down calls, and is the basis of call [[Routing]] for most of the world's calls.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=40)** The public switched telephone network and SS7 integrate with one another with the help of a signaling gateway.
 >
@@ -345,7 +337,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=54)** The three kinds of signaling points are Switching Service Point, Signal Transfer Point, and Service Control Point.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=64)** The Switching Service Point is the central office that carries the messages through the public switched telephone network onto the SS7 network.
+> **[1:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=64)** The Switching Service Point is the central [[Microsoft Office|office]] that carries the messages through the public switched telephone network onto the SS7 network.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=75)** Signal Transfer Points have circuits and switches that transfer data from one signaling link to another.
 >
@@ -361,7 +353,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=145)** And then we saw the emergence of commercial internet service providers or ISPs.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=152)** In 1996, the Telecommunications Act allowed for wide open competition for both local and long-distance telecommunications.
+> **[2:32](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=152)** In 1996, the [[Telecommunications]] Act allowed for wide open competition for both local and long-distance telecommunications.
 >
 > **[2:43](https://www.linkedin.com/learning/learning-voip-and-unified-communications/moving-from-the-pstn-to-voip?u=76281980&t=163)** And 2002, Voice over IP began commercially, which ended the reign of pure long-distance carriers and standard long-distance pricing.
 >
@@ -369,7 +361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (2), [[Microsoft Office|Office]] (2), [[Telecommunications]] (2), data (1), database (1)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Microsoft Office|Office]] (2), [[Telecommunications]] (2)
 > **Env Vars:** ss7 (5)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -381,8 +373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### UC components
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
+#### [UC components](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,7 +397,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=104)** Gateways are essential when communicating in a complex network with the public switch telephone network, ISDN, fax machines and other networks.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=116)** In order to transport streaming media such as telephony and video teleconference applications over IP networks, multiple protocols are involved to provide setup, communication control and data transport and include Real-time Transport Protocol, Real-time Streaming Protocol, Megaco, SIP and H323.
+> **[1:56](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=116)** In order to transport streaming media such as telephony and video teleconference applications over IP networks, multiple protocols are involved to provide setup, communication control and data transport and include [[Real-Time]] Transport Protocol, Real-time Streaming Protocol, Megaco, SIP and H323.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=141)** Codecs encode or decode a data stream to remove redundancies and improve transmission.
 >
@@ -418,11 +409,11 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=169)** Routers, switches and voice gateways carry data, voice and video between all network devices and applications.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=178)** The infrastructure must provide high availability, management, quality of service and network security.
+> **[2:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/uc-components-14170765?u=76281980&t=178)** The infrastructure must provide high availability, management, quality of service and [[Network Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Real-Time]] (2), business (1), application (1), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Network Security]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** isdn (1), sip (1), h323 (1)
 > **Definitions:** is a  (2)
@@ -431,8 +422,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unifying communication systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980)
+#### [Unifying communication systems](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +452,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=93)** And phone features, such as hold, transfer, forward and conference.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=99)** Integration with office communicator apps presence status.
+> **[1:39](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=99)** Integration with [[Microsoft Office|office]] communicator apps presence status.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=105)** And behind all of this is a database.
 >
@@ -472,7 +462,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=125)** Things happen, make sure the system has backup and restore tools, maybe a built-in disaster recovery system, and gateway support and legacy integration.
 >
-> **[2:19](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=139)** It probably will need support for different protocols and protocol routing.
+> **[2:19](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=139)** It probably will need support for different protocols and protocol [[Routing]].
 >
 > **[2:25](https://www.linkedin.com/learning/learning-voip-and-unified-communications/unifying-communication-systems?u=76281980&t=145)** And in many cases, analog support for phone, fax and modem.
 >
@@ -482,15 +472,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), business (1), [[Microsoft Office|Office]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Routing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Voice signal conversion with digital codecs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voice-signal-conversion-with-digital-codecs?u=76281980)
+#### [Voice signal conversion with digital codecs](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voice-signal-conversion-with-digital-codecs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,14 +543,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Automation]] (1)
 > **Env Vars:** mos (3), itutp (1)
 > **Versions:** 3.5 (1), 4.2 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data transportation using real-time protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980)
+#### [Data transportation using real-time protocols](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=21)** In order to transmit streaming media successfully, multiple protocols are necessary to provide setup, data transport and communication control over an IP network.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=35)** The suite of Real-Time Protocols includes Real-Time Transport Protocol, transports audio and video.
+> **[0:35](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=35)** The suite of [[Real-Time]] Protocols includes Real-Time Transport Protocol, transports audio and video.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=44)** Real-Time Control Protocol carries control information.
 >
@@ -597,7 +584,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=118)** Each media stream has a corresponding RTP session.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=123)** Real-Time Control Protocol passively gathers statistics and reports information about each session.
+> **[2:03](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=123)** Real-Time Control Protocol passively gathers [[Statistics]] and reports information about each session.
 >
 > **[2:12](https://www.linkedin.com/learning/learning-voip-and-unified-communications/data-transportation-using-real-time-protocols?u=76281980&t=132)** Real-Time Control Protocol then provides feedback on the quality of data and characteristics of the stream to the media source and other session participants in order to help localize network problems, such as jitter, that occurs in real-time data by the delay between packets.
 >
@@ -625,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (12), data (4), management (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (12), [[Statistics]] (1)
 > **Env Vars:** rtp (3), udp (1), tcp (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (3)
@@ -637,8 +624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Passing telephony data through gateways
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
+#### [Passing telephony data through gateways](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -654,7 +640,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=51)** Media gateway control protocol or Megaco works with H.323 or SIP.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=58)** And call control protocols include SIP, H.323, and Skinny.
+> **[0:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=58)** And [[Call Control]] protocols include SIP, H.323, and Skinny.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=65)** A phone call can travel through various networks that include the public switch telephone network, the internet, and a LAN.
 >
@@ -666,7 +652,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=91)** That SS7 signal will have to go through a signaling gateway where it becomes SIGTRAN as it travels across the internet.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=101)** Once in a local area network, it will hit the call agent or media gateway controller.
+> **[1:41](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=101)** Once in a [[Local Area Network (LAN)|local area network]], it will hit the call agent or media gateway controller.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=108)** Signaling then becomes session initiation protocol, or H.323 as it communicates with another call agent or media gateway controller.
 >
@@ -674,20 +660,19 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=124)** As we see the data coming off of the public switch telephone network, it's in the form of time division multiplexing.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=133)** As it passes through the media gateway, it will then transport it into real-time transport protocol.
+> **[2:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=133)** As it passes through the media gateway, it will then transport it into [[Real-Time]] transport protocol.
 >
 > **[2:21](https://www.linkedin.com/learning/learning-voip-and-unified-communications/passing-telephony-data-through-gateways?u=76281980&t=141)** A complex network will involve gateways and protocols to transport telephony data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Call Control]] (1), lan (1), [[Local Area Network (LAN)|Local area network]] (1), hit (1)
+> **Frameworks & Libraries:** [[Call Control]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Real-Time]] (1)
 > **Env Vars:** ss7 (3), sigtran (2), sip (2), lan (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
-#### Understanding MGCP/Megaco (H.248)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980)
+#### [Understanding MGCP/Megaco (H.248)](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -709,7 +694,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980&t=71)** Up on the top, you see two media gateway controllers or softswitches communicating with one another.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980&t=78)** The lower part of the graphic, here we see two media gateways, then in between, the real-time protocol media stream communicating.
+> **[1:18](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980&t=78)** The lower part of the graphic, here we see two media gateways, then in between, the [[Real-Time]] protocol media stream communicating.
 >
 > **[1:27](https://www.linkedin.com/learning/learning-voip-and-unified-communications/understanding-mgcp-megaco-h-248?u=76281980&t=87)** This is where we see MGCP and Megaco in action.
 >
@@ -717,14 +702,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), management (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** mgcp (3)
 > **Definitions:** known as (1), is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Session Initiation Protocol (SIP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980)
+#### [Session Initiation Protocol (SIP)](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -744,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=81)** SIP is the most common signaling protocol used in VoIP today.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=87)** As a result, manufacturers are incorporating SIP into various products, such as phones, proxies, gateways and servers.
+> **[1:27](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=87)** As a result, manufacturers are incorporating SIP into various [[Microsoft Products|products]], such as phones, proxies, gateways and servers.
 >
 > **[1:36](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=96)** For a call to take place, we have to establish, manage and terminate.
 >
@@ -786,13 +770,13 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=206)** Now we see the conversation.
 >
-> **[3:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=209)** Real-time Transport Protocol and Real-Time Control Protocol carries the media directly between the end points and also reports on the condition of the call.
+> **[3:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=209)** [[Real-Time]] Transport Protocol and Real-Time Control Protocol carries the media directly between the end points and also reports on the condition of the call.
 >
 > **[3:41](https://www.linkedin.com/learning/learning-voip-and-unified-communications/session-initiation-protocol-sip?u=76281980&t=221)** At the end of the call, you'll see a SIP message with a BYE in the request line.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (2), lan (1), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sip (9), invite (5), lan (1), bye (1)
 > **Analogies:** such as (3)
 > **URLs:** [patra.net](https://patra.net) (2)
@@ -801,18 +785,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The H.323 wrapper, H.225, and H.245
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980)
+#### [The H.323 wrapper, H.225, and H.245](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=0)** - [Instructor] In this graphic showing a complex network, I'm going to focus on the H.323 signaling up here in the local area network, where you see the call agent or media gateway controller, communicating with another call agent.
+> **[0:00](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=0)** - [Instructor] In this graphic showing a complex network, I'm going to focus on the H.323 signaling up here in the [[Local Area Network (LAN)|local area network]], where you see the call agent or media gateway controller, communicating with another call agent.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=17)** H.323 signaling is an ITU-T recommendation for audio and video communication across an IP network.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=26)** In case you're not familiar with this protocol, we can go to the source to find out more detailed information about it.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=33)** I'm at this page here with the international telecommunications unit, where we can see this recommendation H.323.
+> **[0:33](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=33)** I'm at this page here with the international [[Telecommunications]] unit, where we can see this recommendation H.323.
 >
 > **[0:43](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=43)** Keep in mind, it's a recommendation, not a law.
 >
@@ -850,7 +833,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=167)** This establishes properties such as the codecs that are used, and logical channels for the media transfer.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=174)** Then, the call begins followed by the media transport using real-time transport protocol.
+> **[2:54](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=174)** Then, the call begins followed by the media transport using [[Real-Time]] transport protocol.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-voip-and-unified-communications/the-h-323-wrapper-h-225-and-h-245?u=76281980&t=181)** Let's step through the process.
 >
@@ -875,8 +858,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 
-#### Translators and mixers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980)
+#### [Translators and mixers](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,7 +868,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980&t=19)** They're sometimes necessary when handling conferencing sessions or traversing firewalls.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980&t=26)** Translators transform real-time transport protocol media as it passes through a network to better suit the characteristics of the output network.
+> **[0:26](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980&t=26)** Translators transform [[Real-Time]] transport protocol media as it passes through a network to better suit the characteristics of the output network.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-voip-and-unified-communications/translators-and-mixers-14169852?u=76281980&t=39)** Uses include providing a bridge between different transport protocols, adjust for lower or higher quality bandwidth by converting between media codecs, pass through application layer firewalls, or add or remove encryption.
 >
@@ -920,7 +902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Real-Time]] (1), application (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** rtp (2)
 > **Speakers:** - [instructor] (1)
 
@@ -929,8 +911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan a unified communications system
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
+#### [Plan a unified communications system](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,13 +919,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=5)** Companies can integrate VoIP with email, billing, mobile devices and customer management systems.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=13)** VoIP and unified communications is not a single product or hardware solution.
+> **[0:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=13)** VoIP and unified communications is not a single product or [[Hardware]] solution.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=19)** As a result, when a company decides to implement a VoIP system, careful planning and consideration are required in order to meet the needs of the organization.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=32)** Voice over IP provides an alternative to the traditional public switch telephone network, not only for large companies, but also small-to-middle size businesses.
 >
-> **[0:44](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=44)** More and more companies are adopting VoIP because of its scalability, flexibility, and ability to unify communications.
+> **[0:44](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=44)** More and more companies are adopting VoIP because of its [[Scalability]], flexibility, and ability to unify communications.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-voip-and-unified-communications/plan-a-unified-communications-system?u=76281980&t=54)** Before implementation, sit down with all stakeholders and conduct a needs analysis.
 >
@@ -974,17 +955,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), management (1), product (1), [[Hardware]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Scalability]] (1)
 > **Analogies:** such as (2)
 > **Env Vars:** pbx (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/network-assessment-14172475?u=76281980)
+#### [Network assessment](https://www.linkedin.com/learning/learning-voip-and-unified-communications/network-assessment-14172475?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-voip-and-unified-communications/network-assessment-14172475?u=76281980&t=0)** - [Instructor] Networks are complicated, and when dealing with voiceover IP traffic, we may not have a lot of control outside of the local area network.
+> **[0:00](https://www.linkedin.com/learning/learning-voip-and-unified-communications/network-assessment-14172475?u=76281980&t=0)** - [Instructor] Networks are complicated, and when dealing with voiceover IP traffic, we may not have a lot of control outside of the [[Local Area Network (LAN)|local area network]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-voip-and-unified-communications/network-assessment-14172475?u=76281980&t=10)** However, on our own local area network, we do have control.
 >
@@ -1078,7 +1058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), traffic (3), [[Local Area Network (LAN)|Local area network]] (3), data (3), next (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (3)
 > **Versions:** 3.5 (1), 4.2 (1), 4.4 (1)
 > **Env Vars:** test (1), vlan (1)
 > **UI Navigation:** go to (1)
@@ -1087,8 +1067,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assure quality of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980)
+#### [Assure quality of service](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,7 +1131,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980&t=176)** On an IP network, quality of service make sure your voice traffic is prioritized when traveling through the network.
 >
-> **[3:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980&t=184)** When you implement quality of service, real-time traffic is delivered first, before everything else such as Word documents and email.
+> **[3:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980&t=184)** When you implement quality of service, [[Real-Time]] traffic is delivered first, before everything else such as [[Microsoft Word|Word]] documents and email.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-voip-and-unified-communications/assure-quality-of-service?u=76281980&t=195)** Configure devices to monitor and prioritize time sensitive data.
 >
@@ -1164,15 +1143,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), web (1), [[Real-Time]] (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (3), for example (1), it's like (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using STIR/SHAKEN to restore trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980)
+#### [Using STIR/SHAKEN to restore trust](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1180,7 +1158,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=13)** In this segment, we'll outline how SITR/SHAKEN works and explain why implementing this framework is essential for business.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=22)** We know that email, spam, and phishing go hand in hand, and both are dangerous as they exploit our trust using social engineering.
+> **[0:22](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=22)** We know that email, spam, and [[Phishing]] go hand in hand, and both are dangerous as they exploit our trust using social engineering.
 >
 > **[0:33](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=33)** But how do malicious actors use VoIP to exploit our trust?
 >
@@ -1206,7 +1184,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=118)** The framework has two parts: STIR, or Secure Telephone Identity Revisited, provides a digital signature that verifies the identity of the caller.
 >
-> **[2:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=131)** SHAKEN, or Signature-based Handling of Asserted Information Using toKENS, sets the standards for deploying STIR, and this helps ensure legitimate calls reach the recipient while blocking or identifying a spoofed call.
+> **[2:11](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=131)** SHAKEN, or Signature-based Handling of Asserted Information Using [[Tokens]], sets the standards for deploying STIR, and this helps ensure legitimate calls reach the recipient while blocking or identifying a spoofed call.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-voip-and-unified-communications/using-stir-shaken-to-restore-trust?u=76281980&t=149)** Now here is the process.
 >
@@ -1232,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), business (1), [[Engineering]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Tokens]] (1)
 > **Env Vars:** stir (7), shaken (7), spit (3), sitr (1), fcc (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1), such as (1), for example (1)
@@ -1241,8 +1219,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### VoIP security
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980)
+#### [VoIP security](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=43)** VoIP uses software and is vulnerable to malware attacks that can hijack the voice infrastructure and spread malware.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=52)** Defend against this threat by using anti-malware software, along with patch and configuration management.
+> **[0:52](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=52)** Defend against this threat by using anti-malware software, along with patch and [[Configuration Management]].
 >
 > **[0:59](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=59)** In addition, user education is essential as one wrong click can release malware.
 >
@@ -1274,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=99)** SIP over transport layer security.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=102)** This will provide a VPN to secure information during call establishment and secure a real-time transport protocol.
+> **[1:42](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=102)** This will provide a VPN to secure information during call establishment and secure a [[Real-Time]] transport protocol.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=111)** We use this to encrypt the data exchange.
 >
@@ -1282,7 +1259,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=124)** One way a hacker can launch a VoIP denial of service attack is by flooding the target with multiple unnecessary SIP INVITE messages.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=134)** To prevent this, tune your intrusion detection system to block communications if it detects an excessive amount of invite messages.
+> **[2:14](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=134)** To prevent this, tune your [[Intrusion Detection]] system to block communications if it detects an excessive amount of invite messages.
 >
 > **[2:24](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=144)** Hackers used phone phreaking back in the day, when a blue box could be spoofed using tones generated by a plastic toy.
 >
@@ -1294,7 +1271,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=171)** To prevent this, monitor for vulnerabilities, update your software and lock down the VoIP system.
 >
-> **[2:59](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=179)** Vishing is another term for voice over IP phishing.
+> **[2:59](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=179)** Vishing is another term for voice over IP [[Phishing]].
 >
 > **[3:04](https://www.linkedin.com/learning/learning-voip-and-unified-communications/voip-security-14172477?u=76281980&t=184)** It's just like regular phishing in that an attack will call the party and request confidential information.
 >
@@ -1322,7 +1299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Phishing]] (2), [[Configuration Management]] (1), vpn (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Configuration Management]] (1), [[Real-Time]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** spit (3), sip (2), pots (1), vpn (1), invite (1)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
@@ -1334,8 +1311,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)
+#### [What's next?](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1351,11 +1327,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=28)** If you're interested in learning more, please check out the library where we add new courses all the time.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=35)** If you want to learn about encryption, check out my Learning Cryptography and Network Security course.
+> **[0:35](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=35)** If you want to learn about encryption, check out my Learning [[Cryptography]] and [[Network Security]] course.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=41)** For security basics, check out my Foundations of IT Security.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=46)** If security and cryptography are up your alley, any course in the Ethical Hacking series will be well worth your time.
+> **[0:46](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=46)** If security and cryptography are up your alley, any course in the [[Ethical Hacking]] series will be well worth your time.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-voip-and-unified-communications/what-s-next-14174309?u=76281980&t=53)** For more courses, check out my author page.
 >
@@ -1363,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Cryptography]] (2), [[Network Security]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (2), [[Network Security]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [lisa] (1)
 

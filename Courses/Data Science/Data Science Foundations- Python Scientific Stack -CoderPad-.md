@@ -134,12 +134,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Python scientific stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
+#### [The Python scientific stack](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980&t=0)** - [Miki] Data science is booming, and Python is a major player there.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980&t=0)** - [Miki] [[Data Science]] is booming, and [[Python (Programming Language)|Python]] is a major player there.
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/the-python-scientific-stack?u=76281980&t=5)** Hi, I'm Miki Tebeka, and together we'll crunch some data, train some models, create visualizations, and generally have fun with Python and data.
 >
@@ -157,17 +156,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (1)
 > **CLI Commands:** python (3), find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [miki] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is about Python and data science.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is about [[Python (Programming Language)|Python]] and [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/what-you-should-know?u=76281980&t=4)** It'll help if you know a bit of both.
 >
@@ -181,20 +179,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Data Science]] (2)
 > **CLI Commands:** python (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=0)** - [Ray] This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real-world hands-on practice that mirrors software development in the workplace.
+> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=15)** It allows for real-world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=21)** This course was created using GitHub Codespaces.
 >
@@ -278,7 +275,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=270)** I'll hit OK.
 >
-> **[4:32](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=272)** You can also let it go ahead and run git fetch.
+> **[4:32](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=272)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[4:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-github-codespaces-with-this-course?u=76281980&t=275)** That way, it'll automatically sync with your forked repo.
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), hit (4), [[LinkedIn]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Codespaces]] (6), [[GitHub]] (4), [[LinkedIn]] (2), [[Software Development]] (1), [[Git]] (1)
 > **Tools:** github (4), visual studio (2)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (1), git (1)
@@ -303,12 +300,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980)
+#### [Setup](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=0)** - [Instructor] This course is using GitHub's Codespaces, which mean everything is already preconfigured for you.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=0)** - [Instructor] This course is using [[GitHub]]'s [[Codespaces]], which mean everything is already preconfigured for you.
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=8)** To get started, head over to the repository on GitHub.
 >
@@ -322,9 +318,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=35)** And you see that the terminal now is free of output.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=39)** Now you can go on, close the terminal and these two windows, and you're ready to go.
+> **[0:39](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=39)** Now you can go on, close the terminal and these two [[Windows]], and you're ready to go.
 >
-> **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=46)** You have a machine with Python, all dependencies installed, and Visual Studio Code ready to run everything.
+> **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=46)** You have a machine with [[Python (Programming Language)|Python]], all dependencies installed, and Visual Studio Code ready to run everything.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/setup?u=76281980&t=54)** This is going to save you from all the trouble of installing Python and all the scientific applications.
 >
@@ -347,8 +343,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use code cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
+#### [Use code cells](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +381,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980&t=66)** Let's try and run the code from the command.
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980&t=70)** So I'm going to open a terminal with new terminal, and then python Ch01/01_01/code_cells.py,
+> **[1:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980&t=70)** So I'm going to open a terminal with new terminal, and then [[Python (Programming Language)|python]] Ch01/01_01/code_cells.py,
 >
 > **[1:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-code-cells?u=76281980&t=83)** and nothing is being printed out.
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), next (2), data (1), [[Python (Programming Language)|Python]] (1), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (4), visual studio (2), command line (1)
 > **Definitions:** is a  (1), known as (1), is an  (1)
 > **File Paths:** ch01/01_01/code_cells.py (1)
@@ -425,12 +420,11 @@ created: 2026-05-02
 > **Env Vars:** repl (1)
 > **Analogies:** for example (1)
 
-#### Extensions to the Python language
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/extensions-to-the-python-language?u=76281980)
+#### [Extensions to the Python language](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/extensions-to-the-python-language?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/extensions-to-the-python-language?u=76281980&t=0)** - IPython which the Visual Studio Code Python extension is built on offers extensions to the Python language to make interactive development easier.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/extensions-to-the-python-language?u=76281980&t=0)** - IPython which the Visual Studio Code [[Python (Programming Language)|Python]] extension is built on offers extensions to the Python language to make interactive development easier.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/extensions-to-the-python-language?u=76281980&t=11)** The first extension is called magics.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), prompt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), ls (2), make (1)
 > **Definitions:** is called (1), known as (1)
 > **Env Vars:** pwd (1)
@@ -475,8 +469,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - ipython (1)
 
-#### Understand markdown cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980)
+#### [Understand markdown cells](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=11)** In Visual Studio Code, you can write Markdown cells by adding the Markdown inside square brackets.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=18)** When you run the cell, Visual Studio Code is going to render the Markdown as html.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=18)** When you run the cell, Visual Studio Code is going to render the Markdown as [[HTML]].
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=23)** So, we have a header and then a list.
 >
@@ -494,7 +487,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=28)** Here's an example of a link and adding an image.
 >
-> **[0:34](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=34)** Right, so you have Python.
+> **[0:34](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=34)** Right, so you have [[Python (Programming Language)|Python]].
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-markdown-cells?u=76281980&t=35)** If you're going to click that, this is going to take us to Python and the Python image.
 >
@@ -522,14 +515,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### NumPy overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
+#### [NumPy overview](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980&t=0)** - [Speaker] Let's look at one of the building blocks of the scientific Python stack which is NumPy sometimes pronounce NumPee.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980&t=0)** - [Speaker] Let's look at one of the building blocks of the scientific [[Python (Programming Language)|Python]] stack which is NumPy sometimes pronounce NumPee.
 >
-> **[0:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980&t=8)** NumPy gives us fast homogenous arrays or matrices math functions, linear algebra, randomization, and more.
+> **[0:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980&t=8)** NumPy gives us fast homogenous arrays or matrices math functions, [[Linear Algebra]], randomization, and more.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-overview?u=76281980&t=15)** You can ask, why do we need matrices when we have python lists?
 >
@@ -573,14 +565,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Linear Algebra]] (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Linear Algebra]] (1)
 > **CLI Commands:** python (4)
 > **Env Vars:** n64 (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [speaker] (1)
 
-#### NumPy arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980)
+#### [NumPy arrays](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +589,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980&t=18)** We can ask for the len, we can get the second element.
 >
-> **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980&t=21)** And arrays are zero-based indexing like the rest of Python.
+> **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980&t=21)** And arrays are zero-based indexing like the [[Representational State Transfer (REST)|rest]] of [[Python (Programming Language)|Python]].
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/numpy-arrays?u=76281980&t=25)** But if you look closer, for example, type of the first element, we see that it's not a Python integer but a numpy.int64.
 >
@@ -678,19 +669,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), product (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Versions:** 6.27 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Slicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/slicing?u=76281980)
+#### [Slicing](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/slicing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/slicing?u=76281980&t=0)** - [Instructor] Python lists support slicing.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/slicing?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] lists support slicing.
 >
 > **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/slicing?u=76281980&t=2)** Here's an example.
 >
@@ -734,14 +724,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learn boolean indexing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980)
+#### [Learn boolean indexing](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980&t=58)** You can combine these conditions or mask using Boolean operators.
 >
-> **[1:03](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980&t=63)** However, these are not the normal Boolean operators that we have in Python.
+> **[1:03](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980&t=63)** However, these are not the normal Boolean operators that we have in [[Python (Programming Language)|Python]].
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-boolean-indexing?u=76281980&t=66)** You're going to use 1% for and, the vertical bar or and, the Tilda for no.
 >
@@ -797,14 +786,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is an  (1), is called (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand broadcasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-broadcasting?u=76281980)
+#### [Understand broadcasting](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-broadcasting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,14 +836,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** astroml (1), knn (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand array operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980)
+#### [Understand array operations](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -873,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980&t=20)** So, "v.T" returns the transpose of the matrix, "v.any" will return true since there is at least one element in the array which is true.
 >
-> **[0:31](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980&t=31)** As a reminder, everything in Python is true except the zero value numbers, empty collections, none, and of course, false itself.
+> **[0:31](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980&t=31)** As a reminder, everything in [[Python (Programming Language)|Python]] is true except the zero value numbers, empty collections, none, and of course, false itself.
 >
 > **[0:40](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-array-operations?u=76281980&t=40)** We also have "v.all", and this one is going to return false.
 >
@@ -909,14 +895,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), product (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand ufuncs
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-ufuncs?u=76281980)
+#### [Understand ufuncs](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-ufuncs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,8 +954,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - there (1)
 
-#### Challenge: Working with an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-working-with-an-image?u=76281980)
+#### [Challenge: Working with an image](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-working-with-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,8 +983,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Working with an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-working-with-an-image?u=76281980)
+#### [Solution: Working with an image](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-working-with-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,8 +1042,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### pandas overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
+#### [pandas overview](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=11)** Some can be time, like the year of birth, etcetera, etcetera.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=16)** Pandas is a library built for real-world data, data that is messy, incomplete, and from various types.
+> **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=16)** [[Pandas (Software)|Pandas]] is a library built for real-world data, data that is messy, incomplete, and from various types.
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=23)** Once pandas was released, it was adopted by the scientific community as the tool for dealing with data.
 >
@@ -1080,28 +1062,27 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=34)** You can easily select subsets of data by time and also change the frequency of the events to suit your needs.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=42)** You can think of pandas as providing in-memory Excel data sheet, which we call DataFrame, with many, many extra features.
+> **[0:42](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=42)** You can think of pandas as providing in-memory [[Microsoft Excel|Excel]] data sheet, which we call DataFrame, with many, many extra features.
 >
 > **[0:51](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=51)** Panda's DataFrame can process large amount of data.
 >
-> **[0:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=54)** I've personally worked with millions of rows, and it can draw charts, join other DataFrames, pivot tables, and more.
+> **[0:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=54)** I've personally worked with millions of rows, and it can draw charts, join other DataFrames, [[Pivot Tables]], and more.
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=62)** Apart from being very useful, pandas is one of the best-documented projects out there.
 >
 > **[1:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=67)** Documentation contains many, many code examples.
 >
-> **[1:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=71)** It is also worth reading the book, "Data Analysis with Python," which was written by panda's creator, Wes.
+> **[1:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/pandas-overview?u=76281980&t=71)** It is also worth reading the book, "Data Analysis with [[Python (Programming Language)|Python]]," which was written by panda's creator, Wes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (5), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loading CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980)
+#### [Loading CSV files](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,11 +1090,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=5)** We'll start by looking at the data, which is in CSV format.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=9)** Pandas is going to load the whole CSV into memory, and it's a good idea to have a quick look at the data before you load some corrupted data or a file that is too big to fit in memory.
+> **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=9)** [[Pandas (Software)|Pandas]] is going to load the whole CSV into memory, and it's a good idea to have a quick look at the data before you load some corrupted data or a file that is too big to fit in memory.
 >
 > **[0:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=20)** If you don't have enough memory on your computer, you can spin a machine in the cloud with a lot of memory, do your work, and then tear it down.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=28)** This approach is usually very cost effective and much easier than using a big data platform.
+> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=28)** This approach is usually very cost effective and much easier than using a [[Big Data]] platform.
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=35)** If you think your data is too big, remember that you can spin a machine with several terabytes of memory.
 >
@@ -1139,11 +1120,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=74)** So we start with the bank sign, telling the IPython or the interactive prompt to run a shell command.
 >
-> **[1:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=80)** And this is an extension to Python.
+> **[1:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=80)** And this is an extension to [[Python (Programming Language)|Python]].
 >
 > **[1:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=81)** And we pass the name of the CSV file prefixed by the dollar sign as a variable.
 >
-> **[1:26](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=86)** Note that this command will work only on Linux or on Mac, not on Windows.
+> **[1:26](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=86)** Note that this command will work only on [[Linux]] or on Mac, not on [[Windows]].
 >
 > **[1:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=90)** Now, let's see how many lines we have.
 >
@@ -1167,7 +1148,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=135)** And now we are going to get 740, while WC showed us 741.
 >
-> **[2:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=142)** Pandas is loading the first row as the column names and counting only the rest of the rows, which are the data rows.
+> **[2:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=142)** Pandas is loading the first row as the column names and counting only the [[Representational State Transfer (REST)|rest]] of the rows, which are the data rows.
 >
 > **[2:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=150)** Let's have a look at the column.
 >
@@ -1185,11 +1166,11 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=184)** So only the latitude, longitude, and height.
 >
-> **[3:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=186)** You'll get the count, the mean, standard deviations and other interesting statistics.
+> **[3:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/loading-csv-files?u=76281980&t=186)** You'll get the count, the mean, standard deviations and other interesting [[Statistics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (4), cloud (1), [[Big Data]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Big Data]] (1), [[Python (Programming Language)|Python]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Env Vars:** csv (7)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** python (1)
@@ -1197,20 +1178,19 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Parse time
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980)
+#### [Parse time](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=0)** - [Instructor] Let's load our DataFrame.
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=1)** So we import pandas, and we read the CSV, and we display the data types for each column.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=1)** So we import [[Pandas (Software)|pandas]], and we read the CSV, and we display the data types for each column.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=9)** You can see the latitude, longitude, and height are floats, and the time is an object, which usually means a string in Pandas.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=15)** In some cases, it's okay for data to be a string, but in our case, you expect some kind of a timestamp.
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=22)** Unlike JSON and other formats, CSV don't have type information embedded with the data, which means that everything comes out as a string.
+> **[0:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=22)** Unlike [[JSON]] and other formats, CSV don't have type information embedded with the data, which means that everything comes out as a string.
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/parse-time?u=76281980&t=32)** Pandas does a good job at guessing types, but here, it needs our help in parsing the time.
 >
@@ -1248,7 +1228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (4), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[JSON]] (1)
 > **Env Vars:** csv (3), json (1), rfc (1)
 > **Code Identifiers:** read_csv (1), parse_dates (1), csv_file (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1256,8 +1236,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Access rows and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980)
+#### [Access rows and columns](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1258,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=46)** So selecting the latitude column and then the first value.
 >
-> **[0:51](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=51)** Remember that Python is zero based and not one based.
+> **[0:51](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=51)** Remember that [[Python (Programming Language)|Python]] is zero based and not one based.
 >
 > **[0:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=54)** The first item is at zero location.
 >
@@ -1291,7 +1270,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=65)** Lo can also work with slices as well, so from two to seven.
 >
-> **[1:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=70)** Unlike slicing in Python, which are half open the dot lock in pandas slices from the start to the end, including the end.
+> **[1:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=70)** Unlike slicing in Python, which are half open the dot lock in [[Pandas (Software)|pandas]] slices from the start to the end, including the end.
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/access-rows-and-columns?u=76281980&t=79)** You can also combine slices and column selection so we're selecting only the latitude and longitude columns.
 >
@@ -1361,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (5)
 > **Ports:** :48 (2)
@@ -1369,8 +1348,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - let (1)
 
-#### Calculate distance
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/calculate-distance?u=76281980)
+#### [Calculate distance](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/calculate-distance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1458,20 +1436,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** times_hour (2), read_csv (1)
 > **Versions:** 4.7 (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display speed box plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980)
+#### [Display speed box plot](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980&t=0)** - [Instructor] Let's run our code, load the data and calculate the speed.
 >
-> **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980&t=4)** Now we can use the describe method of the speed to get some statistics about what is the mean standard deviation and other values.
+> **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980&t=4)** Now we can use the describe method of the speed to get some [[Statistics]] about what is the mean standard deviation and other values.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/display-speed-box-plot?u=76281980&t=13)** I'd like to use box plot for first impression of the data.
 >
@@ -1537,29 +1513,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Taxi data mean speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-taxi-data-mean-speed?u=76281980)
+#### [Challenge: Taxi data mean speed](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-taxi-data-mean-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-taxi-data-mean-speed?u=76281980&t=5)** - [Instructor] I'm asking you to calculate the mean speed in miles per hour in taxi.parquet.
 >
-> **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-taxi-data-mean-speed?u=76281980&t=11)** To get the file taxi.parquet, you will need to run the download data Python script in order to get it, and you're going to use the Pandas read parquet instead of read CSV to load the data.
+> **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-taxi-data-mean-speed?u=76281980&t=11)** To get the file taxi.parquet, you will need to run the download data [[Python (Programming Language)|Python]] script in order to get it, and you're going to use the [[Pandas (Software)|Pandas]] read parquet instead of read CSV to load the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Taxi data mean speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980)
+#### [Solution: Taxi data mean speed](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980&t=7)** As a reminder, you will need to run the download data or copy taxi.parquet from the challenge in order to be able to work.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980&t=15)** So importing Pandas and using the read_parquet to read the file.
+> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980&t=15)** So importing [[Pandas (Software)|Pandas]] and using the read_parquet to read the file.
 >
 > **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-taxi-data-mean-speed?u=76281980&t=21)** We have some bad lines in the data.
 >
@@ -1585,7 +1559,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** read_parquet (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1594,18 +1568,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create an initial map
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
+#### [Create an initial map](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=0)** - [Instructor} Folium is a library for creating web-based interactive maps.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=5)** Under the hood Folium uses leaflet.js JavaScript library and leaflet.js uses Openstreetmap to render maps.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=5)** Under the hood Folium uses leaflet.js [[JavaScript]] library and leaflet.js uses Openstreetmap to render maps.
 >
 > **[0:14](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=14)** Let's load the log of one of my runs.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=17)** So we're going to load track.csv we're going to tell pandas that the time column should be passed as a timestamp, and we also say that the index column is the time.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=17)** So we're going to load track.csv we're going to tell [[Pandas (Software)|pandas]] that the time column should be passed as a timestamp, and we also say that the index column is the time.
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=27)** So now if you're going to run this you're going to see that we have only latitude, longitude, and height.
 >
@@ -1621,7 +1594,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=53)** and then we're going to create a map which is folium.map.
 >
-> **[0:56](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=56)** We say the location is the center and we're going to say the zoom level which is 15.
+> **[0:56](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=56)** We say the location is the center and we're going to say the [[Zoom]] level which is 15.
 >
 > **[1:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=62)** I don't have a good rule of thumb for the initial zoom level.
 >
@@ -1633,7 +1606,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=72)** We can move it around, zoom in, zoom out, and do everything we do with maps.
 >
-> **[1:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=78)** You can even save the map to an HTML file and then open this file in the browser.
+> **[1:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=78)** You can even save the map to an [[HTML]] file and then open this file in the browser.
 >
 > **[1:24](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/create-an-initial-map?u=76281980&t=84)** If you go back to look at the files we see now that we have track.html, which is an HTML file you can open it in browser.
 >
@@ -1641,7 +1614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (4), [[HTML]] (3), web (1), [[JavaScript]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[HTML]] (3), [[JavaScript]] (1), [[Pandas (Software)|Pandas]] (1)
 > **File Paths:** leaflet.js (2), track.csv (1), track.html (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1649,8 +1622,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor (1)
 
-#### Draw a track on map
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980)
+#### [Draw a track on map](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1676,7 +1648,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980&t=55)** But now when I'm clicking on the marker, I'm going to see my popup.
 >
-> **[1:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980&t=60)** There are many styles of markers in volume, and the popup can be HTML.
+> **[1:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980&t=60)** There are many styles of markers in volume, and the popup can be [[HTML]].
 >
 > **[1:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/draw-a-track-on-map?u=76281980&t=64)** Check out the volume documentation for more details.
 >
@@ -1732,14 +1704,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using geospatial data with shapely
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980)
+#### [Using geospatial data with shapely](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1751,11 +1722,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=12)** And the question maps to, is this point inside that polygon?
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=17)** There are several libraries in Python to work with what is called GIS, Geographic Information System and geometry in general.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=17)** There are several libraries in [[Python (Programming Language)|Python]] to work with what is called GIS, Geographic Information System and geometry in general.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=25)** We are going to have a look at one library called Shapely.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=28)** The two main data structures that we're going to use are a point and a polygon.
+> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=28)** The two main [[Data Structures]] that we're going to use are a point and a polygon.
 >
 > **[0:34](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=34)** So from shapely geometry, import point and we are going to create a point and show it.
 >
@@ -1783,7 +1754,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=80)** So let's load our tracking data.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=82)** So we're going to use pandas read CSV from our track.
+> **[1:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=82)** So we're going to use [[Pandas (Software)|pandas]] read CSV from our track.
 >
 > **[1:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=85)** We are going to say parse the time column and use it as the index column.
 >
@@ -1837,7 +1808,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=192)** It's easy to add it to a map, right?
 >
-> **[3:14](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=194)** So we're going to create a folium map with the location in the mean with the zoom start.
+> **[3:14](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=194)** So we're going to create a folium map with the location in the mean with the [[Zoom]] start.
 >
 > **[3:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/using-geospatial-data-with-shapely?u=76281980&t=199)** And then do the stack to get the points.
 >
@@ -1877,15 +1848,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), gis (4), prompt (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Structures]] (1), [[Pandas (Software)|Pandas]] (1), [[Zoom]] (1)
 > **Env Vars:** gis (4), csv (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** python (1), find (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Draw the running track
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-draw-the-running-track?u=76281980)
+#### [Challenge: Draw the running track](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-draw-the-running-track?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1895,12 +1865,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **File Paths:** track.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Draw the running track
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980)
+#### [Solution: Draw the running track](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1908,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980&t=8)** First, we're going to load the dataframe, pass the dates, the index call, and then resample permanent frequency.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980&t=15)** Next, we're going to create the map, so importing folium, and then creating a map with the location at the mean, and the zoom start is 15.
+> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980&t=15)** Next, we're going to create the map, so importing folium, and then creating a map with the location at the mean, and the [[Zoom]] start is 15.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-draw-the-running-track?u=76281980&t=25)** And now the add marker function, so getting the location from the latitude and longitude, creating a circle marker at that location with radius five.
 >
@@ -1926,7 +1894,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1935,8 +1903,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examine data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
+#### [Examine data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/examine-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,15 +1941,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **File Paths:** taxi.csv (1)
 > **UI Navigation:** open the (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load data from CSV files
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980)
+#### [Load data from CSV files](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1992,7 +1957,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980&t=9)** So let's start.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980&t=10)** Import pandas as pd, and we are going to use pd read csv to load the file.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980&t=10)** Import [[Pandas (Software)|pandas]] as pd, and we are going to use pd read csv to load the file.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/load-data-from-csv-files?u=76281980&t=15)** And finally, we're going to print out the length, adding a thousand comma separator for the number of rows.
 >
@@ -2026,19 +1991,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** taxi.csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with categorical data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980)
+#### [Working with categorical data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=0)** - Let's load our data.
 >
-> **[0:01](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=1)** So we import Pandas as pd.
+> **[0:01](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=1)** So we import [[Pandas (Software)|Pandas]] as pd.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=4)** We define what are the time columns and we use the read CSV method to load the data passing the time columns and looking at the data types.
 >
@@ -2050,7 +2014,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=27)** We'd like to refer them by name.
 >
-> **[0:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=30)** You can access the metadata or the scheme of the data.
+> **[0:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=30)** You can access the [[Metadata]] or the scheme of the data.
 >
 > **[0:33](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-categorical-data?u=76281980&t=33)** And here we see that Vendor one is Creative and Vendor two is Verifone.
 >
@@ -2110,15 +2074,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[Metadata]] (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Env Vars:** csv (2)
 > **Analogies:** for example (2)
 > **Code Identifiers:** megabytes (1)
 > **Speakers:** - let (1)
 
-#### Work with data: Hourly trip rides
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980)
+#### [Work with data: Hourly trip rides](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,7 +2089,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=3)** To do this, we're going to use grouping.
 >
-> **[0:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=6)** If you're familiar with SQL, you already know about grouping, it's span equivalent of SQL's group by.
+> **[0:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=6)** If you're familiar with [[SQL]], you already know about grouping, it's span equivalent of SQL's group by.
 >
 > **[0:13](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=13)** We probably want to do something like group by the date and count from the rides and group by the date again.
 >
@@ -2138,7 +2101,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=35)** Remember to run the download data or copy taxi dot csv.
 >
-> **[0:39](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=39)** So import pandas as pd define the time column, read it and then set the vendor name from the vendor ID.
+> **[0:39](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=39)** So import [[Pandas (Software)|pandas]] as pd define the time column, read it and then set the vendor name from the vendor ID.
 >
 > **[0:47](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=47)** And let's run this.
 >
@@ -2192,7 +2155,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=145)** This object waits for you to tell it what to do with every group.
 >
-> **[2:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=150)** Extract some columns, maybe calculate some statistics.
+> **[2:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=150)** Extract some columns, maybe calculate some [[Statistics]].
 >
 > **[2:33](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-hourly-trip-rides?u=76281980&t=153)** In this case, we'd like to count how many rides are per hour.
 >
@@ -2230,15 +2193,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[SQL]] (4), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Pandas (Software)|Pandas]] (2), [[Statistics]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** stands for (1), is a  (1)
 > **Documentation:** the documentation (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor (1)
 
-#### Work with data: Rides per hour
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980)
+#### [Work with data: Rides per hour](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2270,7 +2232,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=57)** Oops. The vendor column is not there anymore.
 >
-> **[0:59](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=59)** What happened is that pandas uses the groupby keys as indices, to the new generated data frame.
+> **[0:59](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=59)** What happened is that [[Pandas (Software)|pandas]] uses the groupby keys as indices, to the new generated data frame.
 >
 > **[1:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=66)** Let's have a look.
 >
@@ -2306,7 +2268,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=156)** To reshape the data frame like this you're going to use pivot.
 >
-> **[2:40](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=160)** If you work with Excel or sql you probably know or heard about pivot.
+> **[2:40](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=160)** If you work with [[Microsoft Excel|Excel]] or [[SQL]] you probably know or heard about pivot.
 >
 > **[2:44](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-rides-per-hour?u=76281980&t=164)** Let's see, the fancier transpose, where role becomes columns, and the other way around.
 >
@@ -2326,14 +2288,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (4), [[Microsoft Excel|Excel]] (1), [[SQL]] (1), power (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Microsoft Excel|Excel]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - let (1)
 
-#### Work with data: Weather data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980)
+#### [Work with data: Weather data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2343,7 +2304,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=10)** First, we're going to load the weather data, reminding you either to run down data script or copy over the taxi dot CSV file.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=19)** So input pandas, define the time columns with the data, and then add the vendor column.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=19)** So input [[Pandas (Software)|pandas]], define the time columns with the data, and then add the vendor column.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=25)** And let's run this out.
 >
@@ -2391,7 +2352,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=125)** Pandas has various ways of joining data.
 >
-> **[2:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=128)** Like an SQL, there are many kinds of joints.
+> **[2:08](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=128)** Like an [[SQL]], there are many kinds of joints.
 >
 > **[2:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-data-weather-data?u=76281980&t=131)** Inner, outer, left.
 >
@@ -2447,7 +2408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Pandas (Software)|Pandas]] (3), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[SQL]] (1)
 > **Env Vars:** csv (3), wdf (1), tmax (1), tmin (1), pdf (1)
 > **File Paths:** weather.csv (1), taxi.csv (1)
 > **UI Navigation:** go to (2)
@@ -2456,8 +2417,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Warnings:** note that (1)
 
-#### Challenge: Graphing taxi data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-graphing-taxi-data?u=76281980)
+#### [Challenge: Graphing taxi data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-graphing-taxi-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,12 +2431,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Graphing taxi data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980)
+#### [Solution: Graphing taxi data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,7 +2442,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980&t=7)** First, we're going to load the data frame.
 >
-> **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980&t=9)** So defining time columns, reading the CSV, and telling pandas to pause the time columns.
+> **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980&t=9)** So defining time columns, reading the CSV, and telling [[Pandas (Software)|pandas]] to pause the time columns.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-graphing-taxi-data?u=76281980&t=15)** And finally creating a vendor name from the vendor ID.
 >
@@ -2542,7 +2500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [teacher] (1)
 
@@ -2551,14 +2509,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### scikit-learn introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
+#### [scikit-learn introduction](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=0)** - Scikit-learn is a package for machine learning.
 >
-> **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=2)** It implements a lot of algorithms and tasks such as classification, regression, clustering, and more.
+> **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=2)** It implements a lot of [[Algorithms]] and tasks such as classification, regression, clustering, and more.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=11)** Apart from providing algorithms Scikit-learn also provides a lot of utilities that help us with the day to day machine learning tasks, such as pre-processing parameter selection, model evaluation, and more.
 >
@@ -2572,23 +2529,22 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=45)** Scikit-learn is huge and has many parts.
 >
-> **[0:48](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=48)** The developers of Scikit-learn made the API consistent so you can learn one algorithm and it's pretty easy to use the rest of them.
+> **[0:48](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=48)** The developers of Scikit-learn made the API consistent so you can learn one algorithm and it's pretty easy to use the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[0:57](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=57)** We'll cover the interesting parts and learn some guidelines on how you can use and understand Scikit-learn better.
 >
-> **[1:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=64)** As a bonus, it's very easy to get an algorithm created by the data science team and put it in production as is.
+> **[1:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/scikit-learn-introduction?u=76281980&t=64)** As a bonus, it's very easy to get an algorithm created by the [[Data Science]] team and put it in production as is.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), api (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Science]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - scikit (1)
 
-#### Linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980)
+#### [Linear regression](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2616,7 +2572,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=38)** Let's have a look at what we got back.
 >
-> **[0:40](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=40)** So we'll use the Python-type function to see what it is.
+> **[0:40](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=40)** So we'll use the [[Python (Programming Language)|Python]]-type function to see what it is.
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=44)** This is called a bunch.
 >
@@ -2658,7 +2614,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=124)** And this is what we'd like to predict.
 >
-> **[2:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=127)** There are several regression algorithms in Scikit-learn.
+> **[2:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=127)** There are several regression [[Algorithms]] in Scikit-learn.
 >
 > **[2:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=130)** Let's go with a random forest regressor.
 >
@@ -2730,7 +2686,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=255)** And if you're going to look at the shape of X, which is the data, we see that it is 20,000 rows, but we have eight columns, which are the features.
 >
-> **[4:24](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=264)** The nice thing about decision trees, it's also easy to see the reasoning behind them.
+> **[4:24](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=264)** The nice thing about [[Decision Trees]], it's also easy to see the reasoning behind them.
 >
 > **[4:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/linear-regression?u=76281980&t=270)** Scikit-learn has an export_graphviz, which is exporting the graph into a .file.
 >
@@ -2816,7 +2772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Python (Programming Language)|Python]] (3), feature (3), [[Algorithms]] (1), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1), [[Decision Trees]] (1)
 > **Definitions:** is a  (4), is called (2), stands for (1), known as (1), means that (1)
 > **Env Vars:** clf (2), svg (2), dir (1)
 > **CLI Commands:** python (3), make (1)
@@ -2825,8 +2781,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1), picture (1)
 > **Documentation:** the documentation (2)
 
-#### Understand train/test split
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980)
+#### [Understand train/test split](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2838,7 +2793,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980&t=19)** SecondLearn makes it easy. First, let's slow the data.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980&t=23)** So we're going to fetch the California housing, and then we're going to take the X and the Y from the California housing.
+> **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980&t=23)** So we're going to [[Fetch]] the California housing, and then we're going to take the X and the Y from the California housing.
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-train-test-split?u=76281980&t=29)** And let's look at the shape of the X.
 >
@@ -2874,20 +2829,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Versions:** 0.3 (1), 0.8 (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preprocess data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980)
+#### [Preprocess data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=0)** - [Instructor] In most cases, you will need to pre-process the data before you feed it through your model.
 >
-> **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=5)** Some algorithms are sensitives to the range of feature values.
+> **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=5)** Some [[Algorithms]] are sensitives to the range of feature values.
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=9)** Let's look at our data.
 >
@@ -2923,7 +2877,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=86)** Let's see what the scaler did.
 >
-> **[1:27](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=87)** So we're going to use pandas for that.
+> **[1:27](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=87)** So we're going to use [[Pandas (Software)|pandas]] for that.
 >
 > **[1:29](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/preprocess-data?u=76281980&t=89)** So we import pandas as pd, and we create a dataframe from the scale data, telling it the column names are the feature names.
 >
@@ -2963,7 +2917,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Algorithms]] (3), [[Pandas (Software)|Pandas]] (3), feature (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Pandas (Software)|Pandas]] (3)
 > **Definitions:** is a  (3), known as (1), is called (1), stands for (1)
 > **Env Vars:** pca (3), svr (1), svm (1)
 > **Code Identifiers:** fetch_california_housing (1), as_frame (1)
@@ -2971,12 +2925,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compose pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/compose-pipelines?u=76281980)
+#### [Compose pipelines](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/compose-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/compose-pipelines?u=76281980&t=0)** - There might be several steps you need to perform before you finally feed your data to your algorithms.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/compose-pipelines?u=76281980&t=0)** - There might be several steps you need to perform before you finally feed your data to your [[Algorithms]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/compose-pipelines?u=76281980&t=6)** (indistinct) provides us pipelines which are a way to group together several steps.
 >
@@ -3042,7 +2995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Algorithms]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** svr (6), pca (4), svm (1), svrc (1)
 > **Versions:** 0.9 (2)
 > **Definitions:** is called (1), is an  (1)
@@ -3050,8 +3003,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Save and load models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980)
+#### [Save and load models](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3061,9 +3013,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=7)** Scikit-learn makes it easy.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=10)** Python has a built in model called Pickle which can store and retrieve almost any Python object.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=10)** [[Python (Programming Language)|Python]] has a built in model called Pickle which can store and retrieve almost any Python object.
 >
-> **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=16)** The Pickle Model is Python specific, so you can't save Scikit-learn Pickle Model and have Java loaded.
+> **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=16)** The Pickle Model is Python specific, so you can't save Scikit-learn Pickle Model and have [[Java]] loaded.
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/save-and-load-models?u=76281980&t=23)** But if your production is using Python, let's say in the microservice architecture, this becomes a non issue.
 >
@@ -3103,14 +3055,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (2), [[Java]] (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Java]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** pca (1), svr (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Handwritten digits
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-handwritten-digits?u=76281980)
+#### [Challenge: Handwritten digits](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-handwritten-digits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3156,12 +3107,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), prompt (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [computer (1)
 
-#### Solution: Handwritten digits
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-handwritten-digits?u=76281980)
+#### [Solution: Handwritten digits](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-handwritten-digits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3187,7 +3136,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8)
 > **Env Vars:** pca (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -3197,18 +3145,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of matplotlib
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
+#### [Overview of matplotlib](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=0)** - [Instructor] Displaying charts is an important part of the data science process and storytelling both in the exploratory state and when presenting reports.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=0)** - [Instructor] Displaying charts is an important part of the [[Data Science]] process and [[Storytelling]] both in the exploratory state and when presenting reports.
 >
-> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=10)** So far, we used Pandas' plotting capabilities to display charts.
+> **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=10)** So far, we used [[Pandas (Software)|Pandas]]' plotting capabilities to display charts.
 >
 > **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=15)** Under the hood, Pandas uses a library called Matplotlib.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=19)** There are several other plotting libraries in Python, but Matplotlib is by far the most used.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=19)** There are several other plotting libraries in [[Python (Programming Language)|Python]], but Matplotlib is by far the most used.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/overview-of-matplotlib?u=76281980&t=25)** Matplotlib is very powerful and has many features.
 >
@@ -3224,14 +3171,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (1), [[Storytelling]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Data Science]] (1), [[Storytelling]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-styles?u=76281980)
+#### [Use styles](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3281,18 +3227,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Customize pandas output
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/customize-pandas-output?u=76281980)
+#### [Customize pandas output](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/customize-pandas-output?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/customize-pandas-output?u=76281980&t=0)** - [Instructor] Visual Studio Code can render Pandas DataFrame nicely.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/customize-pandas-output?u=76281980&t=0)** - [Instructor] Visual Studio Code can render [[Pandas (Software)|Pandas]] DataFrame nicely.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/customize-pandas-output?u=76281980&t=4)** Let's have a look.
 >
@@ -3394,7 +3338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** load_iris (1)
 > **Documentation:** the documentation (1)
@@ -3402,12 +3346,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Plotting with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980)
+#### [Plotting with pandas](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=0)** - [Instructor] Pandas bases its plotting on matplotlib.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=0)** - [Instructor] [[Pandas (Software)|Pandas]] bases its plotting on matplotlib.
 >
 > **[0:03](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=3)** It simplifies plotting, and also adds some advanced charts.
 >
@@ -3423,7 +3366,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=43)** Let's have a look at msft price over time.
 >
-> **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=46)** So first, we are going to get only the rows that shows Microsoft, and then we are going to plot the closing price using the .plot method, which is going to generate a line plot.
+> **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=46)** So first, we are going to get only the rows that shows [[Microsoft]], and then we are going to plot the closing price using the .plot method, which is going to generate a line plot.
 >
 > **[0:58](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/plotting-with-pandas?u=76281980&t=58)** You can notice that the X axis, which is time based, is rendered nicely by pandas.
 >
@@ -3463,7 +3406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (5), [[Microsoft]] (1), feature (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Microsoft]] (1)
 > **File Paths:** stocks.csv (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** kde (1)
@@ -3472,12 +3415,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Matplotlib with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980)
+#### [Use Matplotlib with pandas](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=0)** - Pandas does a lot of the heavy lifting when it comes to plotting.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=0)** - [[Pandas (Software)|Pandas]] does a lot of the heavy lifting when it comes to plotting.
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=4)** But sometimes you'd like to have more control over the generated output.
 >
@@ -3493,7 +3435,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=35)** And we're going to look at the first few lines.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=38)** Let's take only the Microsoft part so query symbol equal msft.
+> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=38)** Let's take only the [[Microsoft]] part so query symbol equal msft.
 >
 > **[0:44](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/use-matplotlib-with-pandas?u=76281980&t=44)** And now we want to plot a median of the daily volume.
 >
@@ -3529,15 +3471,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), data (3), [[Microsoft]] (1), api (1), power (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Microsoft]] (1)
 > **Env Vars:** csv (2), msft (1), api (1)
 > **File Paths:** data.py (1), stocks.csv (1)
 > **CLI Commands:** make (1), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - pandas (1)
 
-#### Tips and tricks
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/tips-and-tricks?u=76281980)
+#### [Tips and tricks](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/tips-and-tricks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3592,12 +3533,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [man] (1)
 
-#### Other plotting packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980)
+#### [Other plotting packages](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=0)** - [Instructor] Matplotlib is the library for plotting in Python, but it's not the only player in town.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=0)** - [Instructor] Matplotlib is the library for plotting in [[Python (Programming Language)|Python]], but it's not the only player in town.
 >
 > **[0:06](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=6)** Matplotlib is old, which means it's working, but it generates static images.
 >
@@ -3613,7 +3553,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=37)** Let's see an example.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=38)** I'm going to load the track data, so input pandas as pd, and read csv.
+> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=38)** I'm going to load the track data, so input [[Pandas (Software)|pandas]] as pd, and read csv.
 >
 > **[0:43](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=43)** Parse the time column and set it to the index.
 >
@@ -3635,7 +3575,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=79)** And now I have an interactive plot, with automated tool tips and I could do zooming and panning, and all the other things you're used to do with charts.
 >
-> **[1:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=88)** You can even write this chart into an HTML file, using fig.write_html.
+> **[1:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=88)** You can even write this chart into an [[HTML]] file, using fig.write_html.
 >
 > **[1:34](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-plotting-packages?u=76281980&t=94)** And if you're going to look back at our code, now we see we have track.html, which can be opened in the browser, and we show exactly this chart interactively.
 >
@@ -3667,7 +3607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (2)
 > **File Paths:** track.html (1)
@@ -3676,8 +3616,7 @@ created: 2026-05-02
 > **Env Vars:** html (1)
 > **Best Practices:** rule of thumb (1)
 
-#### Challenge: Stock data bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-stock-data-bar-charts?u=76281980)
+#### [Challenge: Stock data bar charts](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/challenge-stock-data-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3689,20 +3628,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **File Paths:** stocks.csv (1)
 > **Code Identifiers:** download_data (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Stock data bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980)
+#### [Solution: Stock data bar charts](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:05](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980&t=5)** - [Speaker] Here is my solution.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980&t=7)** We import pandas as pd and we read the CSV file passing the date column as dates and let's have a look at the first few rows.
+> **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980&t=7)** We import [[Pandas (Software)|pandas]] as pd and we read the CSV file passing the date column as dates and let's have a look at the first few rows.
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/solution-stock-data-bar-charts?u=76281980&t=16)** Now I'm going to create a month column by saying df month equals df date.dt.month and now I'm going to rotate the data with a pivot table.
 >
@@ -3724,7 +3661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** csv (1)
 > **Speakers:** - [speaker] (1)
 
@@ -3733,8 +3670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Other packages overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
+#### [Other packages overview](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3754,7 +3690,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980&t=32)** Sites such as Stack Overflow are a great place for asking questions.
 >
-> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980&t=38)** Most packages are hosted on GitHub.
+> **[0:38](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980&t=38)** Most packages are hosted on [[GitHub]].
 >
 > **[0:41](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/other-packages-overview?u=76281980&t=41)** Go over and check the activity, the number of committers, the number of stars, et cetera.
 >
@@ -3770,7 +3706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), feature (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Documentation:** stack overflow (1)
 > **Tools:** github (1)
@@ -3778,8 +3714,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Go faster with Numba
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980)
+#### [Go faster with Numba](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3787,7 +3722,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980&t=9)** However, there are cases when you can't vectorize your code or that you like to squeeze even more performance.
 >
-> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980&t=17)** The common approach in Python is to write soft, performance-sensitive code in Cython or C and use it from Python.
+> **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980&t=17)** The common approach in [[Python (Programming Language)|Python]] is to write soft, performance-sensitive code in Cython or C and use it from Python.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/go-faster-with-numba?u=76281980&t=25)** However, before going that route let me show you another approach that is less painful.
 >
@@ -3843,7 +3778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** jit (4), llvm (1)
 > **CLI Commands:** python (4)
 > **Versions:** 20.3 (1), 7.6 (1)
@@ -3851,22 +3786,21 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand deep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980)
+#### [Understand deep learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=0)** - [Voice Over] Deep learning is a hot subject.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=0)** - [Voice Over] [[Deep Learning]] is a hot subject.
 >
-> **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=2)** In its base, Deep learning uses neural networks which has been around for a while.
+> **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=2)** In its base, Deep learning uses [[Neural Networks]] which has been around for a while.
 >
-> **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=7)** However, it uses some new ways of utilizing hardware such as GPUs to gain some very impressive results.
+> **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=7)** However, it uses some new ways of utilizing [[Hardware]] such as GPUs to gain some very impressive results.
 >
 > **[0:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=16)** There are several deep learning libraries available.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=18)** Lucky for you, most of them are available in Python.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=18)** Lucky for you, most of them are available in [[Python (Programming Language)|Python]].
 >
-> **[0:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=22)** You can choose from TensorFlow, PyTorch, MXNet, and others.
+> **[0:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=22)** You can choose from [[TensorFlow]], [[PyTorch]], MXNet, and others.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=28)** We're going to work with Keras, which is part of TensorFlow and it's easier to start with.
 >
@@ -3894,7 +3828,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=80)** Then hidden units.
 >
-> **[1:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=82)** And finally the output units, with the probability for each of them.
+> **[1:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=82)** And finally the output units, with the [[Probability]] for each of them.
 >
 > **[1:26](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=86)** We are going to guess 1 of 10 digits.
 >
@@ -3922,7 +3856,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=137)** So our first value is 0, we have 1 here and 0 is here.
 >
-> **[2:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=141)** The second value is 1, So we have 0 on the first location, 1 in the second location, and 0 at the rest, et cetera, et cetera.
+> **[2:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=141)** The second value is 1, So we have 0 on the first location, 1 in the second location, and 0 at the [[Representational State Transfer (REST)|rest]], et cetera, et cetera.
 >
 > **[2:29](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-deep-learning?u=76281980&t=149)** So now X is Y of data and Y we're going to convert it to "to_categorical".
 >
@@ -3978,7 +3912,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[TensorFlow]] (4), [[Deep Learning]] (3), [[Probability]] (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (4), [[Deep Learning]] (3), [[Probability]] (2), [[Neural Networks]] (1), [[Hardware]] (1)
 > **Code Identifiers:** to_categorical (3), agf5 (1)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** python (1)
@@ -3987,12 +3921,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [voice (1)
 
-#### Work with image processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980)
+#### [Work with image processing](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=0)** - [Instructor] When it comes to image processing you have many options in Python.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=0)** - [Instructor] When it comes to [[Image Processing]] you have many options in [[Python (Programming Language)|Python]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=4)** Let's have a look at the few most common ones.
 >
@@ -4000,7 +3933,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=12)** There are some filters in the scipy.ndimage module.
 >
-> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=18)** Second image has many algorithms for working with images.
+> **[0:18](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=18)** Second image has many [[Algorithms]] for working with images.
 >
 > **[0:22](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/work-with-image-processing?u=76281980&t=22)** Pillow can be used to reshape images and paint on them but by far the biggest and most comprehensive library is OpenCV.
 >
@@ -4050,26 +3983,25 @@ created: 2026-05-02
 > **Code Identifiers:** cvtcolor (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understand NLP: NLTK
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980)
+#### [Understand NLP: NLTK](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=0)** - NLP stands for Natural Language Processing.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=0)** - NLP stands for [[Natural Language Processing (NLP)|Natural Language Processing]].
 >
 > **[0:04](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=4)** NLP deals both with understanding text, and to some extent generating text.
 >
 > **[0:10](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=10)** Most of the tasks are in the understanding side but with the rise of personal assistance and the rise of chat bots, text and speech generation is on the rise as well.
 >
-> **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=21)** In Python, we have several libraries that work with text.
+> **[0:21](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=21)** In [[Python (Programming Language)|Python]], we have several libraries that work with text.
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=25)** Scikit-Learn has some text processing capabilities.
 >
-> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=28)** Deep learning has been used successfully in NLP, so Keras, TensorFlow and others are options as well.
+> **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=28)** [[Deep Learning]] has been used successfully in NLP, so Keras, [[TensorFlow]] and others are options as well.
 >
 > **[0:36](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=36)** NLTK, which stands for Natural Language Toolkit was originally designed for teaching NLP, and during the time gained a lot of practical tools.
 >
-> **[0:45](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=45)** And Spacy, which is an industrial strength NLP package with many practical tools built over a nice API.
+> **[0:45](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=45)** And [[spaCy]], which is an industrial strength NLP package with many practical tools built over a nice API.
 >
 > **[0:52](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=52)** And this is the one we're going to have a look at.
 >
@@ -4083,7 +4015,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=75)** Let's have a look.
 >
-> **[1:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=76)** So we are going to take from Scikit-Learn data sets the Fetch 20 news groups, and we're going to get just a space one and remove the headers and the footers.
+> **[1:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=76)** So we are going to take from Scikit-Learn data sets the [[Fetch]] 20 news groups, and we're going to get just a space one and remove the headers and the footers.
 >
 > **[1:27](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=87)** We'll take one single text and print it out.
 >
@@ -4109,7 +4041,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=133)** Splitting text to sentences is surprisingly hard task.
 >
-> **[2:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=136)** We can iterate over the sentences and look at the tokens.
+> **[2:16](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=136)** We can iterate over the sentences and look at the [[Tokens]].
 >
 > **[2:20](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-nlp-nltk?u=76281980&t=140)** So for every sentence, for every token in the sentence we're going to print the token with a text and the tag of the token, right?
 >
@@ -4125,7 +4057,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (6), [[spaCy]] (6), [[Python (Programming Language)|Python]] (2), web (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[spaCy]] (6), [[Python (Programming Language)|Python]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Deep Learning]] (1), [[TensorFlow]] (1)
 > **Env Vars:** nlp (6), nltk (1), api (1)
 > **Definitions:** is an  (3), stands for (2), is a  (1)
 > **CLI Commands:** python (2), find (1)
@@ -4133,24 +4065,23 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - nlp (1)
 
-#### Working with bigger data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980)
+#### [Working with bigger data](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=0)** - [Instructor] Pandas, NumPy, and most of the data science library in Python works best when the data fits in memory.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=0)** - [Instructor] [[Pandas (Software)|Pandas]], NumPy, and most of the [[Data Science]] library in [[Python (Programming Language)|Python]] works best when the data fits in memory.
 >
 > **[0:07](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=7)** Moving outside a single machine is hard.
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=11)** Try as much as you can to stay inside the limit of one machine.
 >
-> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=15)** If you lack memory, before you start with a big data solution, remember that you can rent a cloud machine with several terabytes of memory.
+> **[0:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=15)** If you lack memory, before you start with a [[Big Data]] solution, remember that you can rent a cloud machine with several terabytes of memory.
 >
 > **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=23)** But sometimes you will need to deal with data that is too big to fit in memory.
 >
 > **[0:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=28)** Before you start the painful and expensive route to big data systems, there are some options you can try.
 >
-> **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=35)** Most of the data is stored in databases, and Pandas can read and right to databases.
+> **[0:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=35)** Most of the data is stored in [[Databases]], and Pandas can read and right to databases.
 >
 > **[0:42](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=42)** Before we start, you need to run the download data script so you'll have the taxi.csv file in this directory.
 >
@@ -4184,7 +4115,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=111)** This is the data frame, to_sql method.
 >
-> **[1:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=114)** The SQL table is called "rides".
+> **[1:54](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=114)** The [[SQL]] table is called "rides".
 >
 > **[1:56](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=116)** Using the connection we tell it that we don't want to store data frame "index" in the database, and if the table exists, append the data into it.
 >
@@ -4212,7 +4143,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=192)** But it is well worth the effort.
 >
-> **[3:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=195)** A lot of data out there is in relational databases.
+> **[3:15](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=195)** A lot of data out there is in [[Relational Databases]].
 >
 > **[3:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/working-with-bigger-data?u=76281980&t=199)** Apart from SQL, you can also look at the HDF5 format which is designed specifically to store big matrices.
 >
@@ -4254,7 +4185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Pandas (Software)|Pandas]] (7), database (7), [[SQL]] (6), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (7), [[SQL]] (6), [[Databases]] (3), [[Big Data]] (2), [[Data Science]] (1)
 > **Env Vars:** sql (6), csv (2), etl (2), select (1), count (1)
 > **Code Identifiers:** passenger_count (3), vendorid (3), to_sql (2), value_counts (2), read_csv (1)
 > **Definitions:** is an  (2), known as (1), stands for (1), is a  (1), is called (1)
@@ -4268,8 +4199,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Development process overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
+#### [Development process overview](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4287,16 +4217,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980&t=32)** Process is sometimes referred to as accidental complexity.
 >
-> **[0:36](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980&t=36)** It's the things you need to do and not strictly data science, but are essential to get the product out of the door.
+> **[0:36](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/development-process-overview?u=76281980&t=36)** It's the things you need to do and not strictly [[Data Science]], but are essential to get the product out of the door.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), data (1), product (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand source control
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980)
+#### [Understand source control](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4312,7 +4241,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=17)** The other major job of source control is to allow several people to work on the same code.
 >
-> **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=23)** There are many systems for source control, but Git is by far the most widely used one.
+> **[0:23](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=23)** There are many systems for source control, but [[Git]] is by far the most widely used one.
 >
 > **[0:29](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=29)** Most IDs have support for Git, and you can run Git command from inside your ID, such as visuals to the code.
 >
@@ -4320,7 +4249,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=39)** Do check our offering on the subject.
 >
-> **[0:42](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=42)** Sites such as GitHub are offering more than just version control.
+> **[0:42](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=42)** Sites such as [[GitHub]] are offering more than just [[Version Control]].
 >
 > **[0:46](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/understand-source-control?u=76281980&t=46)** They have support for the full software life cycle.
 >
@@ -4332,7 +4261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (1), [[Version Control]] (1), application (1), data (1)
+> **Frameworks & Libraries:** [[Git]] (6), [[GitHub]] (1), [[Version Control]] (1)
 > **CLI Commands:** git (6), make (1)
 > **Definitions:** is a  (2), known as (1)
 > **Env Vars:** lfs (1), dvc (1)
@@ -4340,8 +4269,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - there (1)
 
-#### Learn code review
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980)
+#### [Learn code review](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4351,7 +4279,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=11)** I teach a lot of classes, and my students catch my mistakes every time before I have a chance to find them myself.
 >
-> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=19)** The process of letting people look at your code and comment on it is called code review.
+> **[0:19](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=19)** The process of letting people look at your code and comment on it is called [[Code Review]].
 >
 > **[0:25](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=25)** I highly recommend it will be a central part of your development process.
 >
@@ -4371,11 +4299,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=88)** I think you'll find it useful.
 >
-> **[1:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=90)** In the world of hosted Git, it's very common to create a pull request.
+> **[1:30](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=90)** In the world of hosted [[Git]], it's very common to create a pull request.
 >
 > **[1:35](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=95)** This means that you work on a feature branch, and once you're happy with your code, you create a pull request that people can comment on.
 >
-> **[1:44](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=104)** Here's an example from the pandas project.
+> **[1:44](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=104)** Here's an example from the [[Pandas (Software)|pandas]] project.
 >
 > **[1:47](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/learn-code-review?u=76281980&t=107)** We have a pull request that Jeff submitted, and then they started a discussion about the pull request with comments from various people.
 >
@@ -4383,14 +4311,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), [[Git]] (1), feature (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (2), [[Git]] (1), [[Pandas (Software)|Pandas]] (1)
 > **CLI Commands:** find (2), make (2), git (1)
 > **Definitions:** means that (2), is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980)
+#### [Testing overview](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4432,7 +4359,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980&t=101)** I'm sure your situation is not that difficult.
 >
-> **[1:45](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980&t=105)** Another thing you might want to consider is continuous integration, or CI system.
+> **[1:45](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980&t=105)** Another thing you might want to consider is [[Continuous Integration (CI)|continuous integration]], or CI system.
 >
 > **[1:51](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-overview?u=76281980&t=111)** These systems will monitor your source control, and every time they detect a change to your source control, they will pull the code and run all the tests.
 >
@@ -4446,7 +4373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), feature (1), functional (1), application (1), ci (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** nasa (2)
 > **Definitions:** is a  (1)
@@ -4454,12 +4381,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing example
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-example?u=76281980)
+#### [Testing example](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-example?u=76281980&t=0)** - Python has a built in test-with.
+> **[0:00](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-example?u=76281980&t=0)** - [[Python (Programming Language)|Python]] has a built in test-with.
 >
 > **[0:02](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/testing-example?u=76281980&t=2)** However, most projects and companies prefer to use pytest, which is more Pythonic and is packed with features.
 >
@@ -4523,8 +4449,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/data-science-foundations-python-scientific-stack-coderpad/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4540,7 +4465,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Speakers:** - [instructor] (1)
 
 

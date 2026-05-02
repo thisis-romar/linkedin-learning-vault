@@ -86,36 +86,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-ready data: Learning database design for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
+#### [AI-ready data: Learning database design for success](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=0)** - [Melody] Have you ever wondered how databases are designed behind the scenes?
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=0)** - [Melody] Have you ever wondered how [[Databases]] are designed behind the scenes?
 >
 > **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=4)** Whether you're starting a new project or looking to add to an existing system, it can be daunting to know where to begin.
 >
-> **[0:12](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=12)** Or maybe you're interested in AI and you've heard that data preparation, cleaning, integration, and organization takes up to 80% of the time in an AI project.
+> **[0:12](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=12)** Or maybe you're interested in AI and you've heard that [[Data Preparation]], cleaning, integration, and organization takes up to 80% of the time in an AI project.
 >
-> **[0:25](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=25)** This crucial step is deeply rooted in solid relational database design.
+> **[0:25](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=25)** This crucial step is deeply rooted in solid relational [[Database Design]].
 >
 > **[0:32](https://www.linkedin.com/learning/database-design-fundamentals/ai-ready-data-learning-database-design-for-success?u=76281980&t=32)** My name is Melody Zacharias, and with over 20 years of experience teaching students about data, I'm here to guide you from zero to hero in relational database design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (2), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[Databases]] (1), [[Data Preparation]] (1)
 > **Speakers:** - [melody] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a beginner course in fundamental database design.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=0)** - [Instructor] This is a beginner course in fundamental [[Database Design]].
 >
-> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=4)** It is designed to get you started in understanding what you need to know to start designing relational databases.
+> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=4)** It is designed to get you started in understanding what you need to know to start designing [[Relational Databases]].
 >
-> **[0:12](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=12)** We will not be covering what you need to know for designing data lakes and big data, but it is certainly an excellent and simple foundation to support that type of learning.
+> **[0:12](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=12)** We will not be covering what you need to know for designing [[Data Lakes]] and [[Big Data]], but it is certainly an excellent and simple foundation to support that type of learning.
 >
 > **[0:25](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=25)** This is a great course if you have an interest in changing careers into any data-related field.
 >
@@ -129,11 +127,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=70)** You will find a spreadsheet application useful to follow along with the exercises in the course.
 >
-> **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=76)** I will be using Excel, but any of these will work, and we'll end the course with a final project, where you will put your learning into practice and design your very own database.
+> **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/what-you-should-know?u=76281980&t=76)** I will be using [[Microsoft Excel|Excel]], but any of these will work, and we'll end the course with a final project, where you will put your learning into practice and design your very own database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (3), [[Relational Databases]] (1), [[Big Data]] (1), next (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[Relational Databases]] (1), [[Data Lakes]] (1), [[Big Data]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** dba (1)
@@ -144,16 +142,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
+#### [Types of relational databases](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=0)** - [Instructor] For example, did you know that Excel spreadsheets can be a table in a database?
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=0)** - [Instructor] For example, did you know that [[Microsoft Excel|Excel]] spreadsheets can be a table in a database?
 >
-> **[0:06](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=6)** Many people start their database design careers because they have an issue at work that gets them overwhelmed with too many Excel spreadsheets.
+> **[0:06](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=6)** Many people start their [[Database Design]] careers because they have an issue at work that gets them overwhelmed with too many Excel spreadsheets.
 >
-> **[0:15](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=15)** It's a problem that needs to be solved, and databases are a logical, easy solution.
+> **[0:15](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=15)** It's a problem that needs to be solved, and [[Databases]] are a logical, easy solution.
 >
 > **[0:22](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=22)** When solving a problem, the best way to resolve it is to start with the problem.
 >
@@ -185,9 +182,9 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=138)** Many newer systems and the former can be far easier for end users to understand, faster to process and query with less rerunning due to errors.
 >
-> **[2:30](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=150)** OLAP systems are very popular with analytical processing of big data, dashboards, large data, for machine learning pre-processing, data analysis, AI, and much more.
+> **[2:30](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=150)** OLAP systems are very popular with analytical processing of [[Big Data]], [[Dashboards]], large data, for machine learning pre-processing, data analysis, AI, and much more.
 >
-> **[2:46](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=166)** HTAP systems are hybrid transactional analytical systems and were designed to bring the best of both systems and allow for quick processing by enabling in-memory technologies to increase the processing speeds of high-volume of OLTP transactions, To improve OLAP processing, column store features are often added to allow for forecasting and simulations to be more scalable.
+> **[2:46](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=166)** HTAP systems are hybrid transactional analytical systems and were designed to bring the best of both systems and allow for quick processing by enabling in-memory technologies to increase the processing speeds of high-volume of OLTP transactions, To improve OLAP processing, column store features are often added to allow for [[Forecasting]] and simulations to be more scalable.
 >
 > **[3:17](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relational-databases?u=76281980&t=197)** In this course, we will focus on OLTP systems, not only as it makes for good foundation of design, but because relational systems still make up the majority of business use cases today.
 >
@@ -195,23 +192,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (4), [[Microsoft Excel|Excel]] (3), [[Databases]] (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Databases]] (3), [[Database Design]] (1), [[Big Data]] (1), [[Dashboards]] (1)
 > **Env Vars:** oltp (5), olap (3), htap (2), pin (1), etl (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database schemas
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980)
+#### [Database schemas](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=0)** - [Instructor] A schema is a simple yet powerful model used by organizations of all types and sizes for a broad variety of information needs.
 >
-> **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=10)** Relational databases are used to track inventories, process e-commerce transactions, and manage huge amounts of mission-critical customer information.
+> **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=10)** [[Relational Databases]] are used to track inventories, process [[E-Commerce]] transactions, and manage huge amounts of mission-critical customer information.
 >
-> **[0:21](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=21)** There are two common database schema designs: star and snowflake.
+> **[0:21](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=21)** There are two common database schema designs: star and [[Snowflake]].
 >
 > **[0:26](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=26)** As their name suggests, their designs often look like visual representations of a star and a snowflake.
 >
@@ -225,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=70)** It is a hierarchical or top-down in nature.
 >
-> **[1:15](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=75)** Designing a schema is an important skill when designing databases.
+> **[1:15](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=75)** Designing a schema is an important skill when designing [[Databases]].
 >
 > **[1:20](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=80)** It is a critical functional part of defining the scope, and is often done after consultation with business owners and subject matter experts.
 >
@@ -237,7 +233,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=117)** Not all those decisions are covered in this course.
 >
-> **[2:01](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=121)** Depending on the business decisions made, it may be determined that it is important that the human resources person, production, purchasing, and sales data need to be separated for business data reasons, as is the case seen here.
+> **[2:01](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=121)** Depending on the business decisions made, it may be determined that it is important that the [[Human Resources (HR)|human resources]] person, production, purchasing, and sales data need to be separated for business data reasons, as is the case seen here.
 >
 > **[2:19](https://www.linkedin.com/learning/database-design-fundamentals/database-schemas?u=76281980&t=139)** This can be done, for example, in this case, by department.
 >
@@ -245,14 +241,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (5), [[Relational Databases]] (3), [[Snowflake]] (3), database (2)
+> **Frameworks & Libraries:** [[Relational Databases]] (3), [[Snowflake]] (3), [[E-Commerce]] (1), [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** olap (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Entity relationship diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980)
+#### [Entity relationship diagrams](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +263,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=41)** Either as the subject matter expert or as the technical expert, in conjunction with the subject matter expert or experts, the next steps is to collect all the relevant data that is related to the project.
 >
-> **[0:55](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=55)** That includes reports, data fields you may be currently using, documents, forms, and even manual processes that feed into what you are currently doing or will need to feed into, or augment with what you will need to accomplish.
+> **[0:55](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=55)** That includes reports, data fields you may be currently using, documents, [[Forms]], and even manual processes that feed into what you are currently doing or will need to feed into, or augment with what you will need to accomplish.
 >
 > **[1:11](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=71)** Be very specific with this information in your understanding of it.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=116)** Reviewing the data and the individual pieces of collateral is a critical time for the stakeholders to come together and finalize specific data requirements and types of information that need to be stored.
 >
-> **[2:10](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=130)** It is an opportunity to discuss security, privacy, and regulation requirements for the data, understand any data processing and reporting needs to ensure the data can integrate with other systems, hardware, networks, and your team is up-to-date on any outstanding requests or requirements.
+> **[2:10](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=130)** It is an opportunity to discuss security, [[Privacy]], and regulation requirements for the data, understand any [[Data Processing]] and reporting needs to ensure the data can integrate with other systems, [[Hardware]], networks, and your team is up-to-date on any outstanding requests or requirements.
 >
 > **[2:33](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=153)** Once the data has been reviewed, it is time to evaluate any changes to what was missed.
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=214)** Where is it and where does it come from?
 >
-> **[3:40](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=220)** Once the review is done, a logical design of how the data entities relate to each other and the entity relationship they have with other business data structures at a high level, can be drawn.
+> **[3:40](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=220)** Once the review is done, a logical design of how the data entities relate to each other and the entity relationship they have with other business [[Data Structures]] at a high level, can be drawn.
 >
 > **[3:52](https://www.linkedin.com/learning/database-design-fundamentals/entity-relationsip-diagrams?u=76281980&t=232)** This is a logical design referred to as an ERD or Entity Relationship Diagram.
 >
@@ -322,15 +317,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), next (2), [[Forms]] (2), business (2), game (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Privacy]] (1), [[Data Processing]] (1), [[Hardware]] (1), [[Data Structures]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** erd (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Relational database design basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980)
+#### [Relational database design basics](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=33)** In contrast, physical data models define the actual implementation details of the database, such as the specific tables, columns, data types, and storage structures.
 >
-> **[0:46](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=46)** Physical data models are often tailored to the specific database management system or management system type, and focusing on optimizing performance and storage for that system.
+> **[0:46](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=46)** Physical data models are often tailored to the specific [[Database Management]] system or management system type, and focusing on optimizing performance and storage for that system.
 >
 > **[1:00](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=60)** The logical model or entity relationship diagram is done first by the business analysts and data architects to fully understand the business flow, requirements, inputs, outflows, and the data.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=92)** The key benefits of the logical data models are that they help identify and improve business processes, enable better description of data elements, minimize the risk of implementing bad models, and support data reuse and sharing.
 >
-> **[1:52](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=112)** The benefits of physical data models is that it provides a visual representation of the database structure, is used to translate the logical model into the database schema, can be used to optimize performance through indexing, normalization, and storage management.
+> **[1:52](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=112)** The benefits of physical data models is that it provides a visual representation of the database structure, is used to translate the logical model into the database schema, can be used to optimize performance through indexing, normalization, and [[Storage Management]].
 >
 > **[2:10](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=130)** And is a guide to use for ongoing database maintenance and updates.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=158)** And that can be used to make decisions.
 >
-> **[2:42](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=162)** Discovery is critical to database design.
+> **[2:42](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=162)** Discovery is critical to [[Database Design]].
 >
 > **[2:45](https://www.linkedin.com/learning/database-design-fundamentals/realtional-database-design-basics?u=76281980&t=165)** And depending on the role of the person making the discovery, this may require one or many people.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), database (10), business (10), management (3), [[Storage Management]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (2), [[Storage Management]] (1), [[Database Design]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -387,8 +381,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determining primary keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
+#### [Determining primary keys](https://www.linkedin.com/learning/database-design-fundamentals/determining-primary-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,13 +427,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Different data relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/different-data-relationships?u=76281980)
+#### [Different data relationships](https://www.linkedin.com/learning/database-design-fundamentals/different-data-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,18 +461,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collation and character sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980)
+#### [Collation and character sets](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=0)** - [Instructor] We have discussed many of the different aspects of data.
 >
-> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=4)** Essentially the pieces of the data that make up databases.
+> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=4)** Essentially the pieces of the data that make up [[Databases]].
 >
 > **[0:08](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=8)** These are all foundational pieces, very important and critical to the design.
 >
@@ -549,7 +538,7 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=276)** Test performance impacts when dealing with large data sets and complex collations.
 >
-> **[4:44](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=284)** Understanding and properly configuring character sets and collations is crucial for maintaining data integrity, performance, and correct query results in a database system.
+> **[4:44](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=284)** Understanding and properly configuring character sets and collations is crucial for maintaining [[Data Integrity]], performance, and correct query results in a database system.
 >
 > **[4:58](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=298)** In the age of AI, many of the challenges of AI come back to the data.
 >
@@ -561,17 +550,17 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=320)** This is why the choice of the character set and collation is just as important as it ever was.
 >
-> **[5:28](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=328)** We are moving to an age of AI and unstructured data, but that does not mean we should be sloppy in our design and attention to detail of data.
+> **[5:28](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=328)** We are moving to an age of AI and [[Unstructured Data]], but that does not mean we should be sloppy in our design and attention to detail of data.
 >
 > **[5:39](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=339)** This is standard default for the entire database, if not overwritten specifically by another command, which is both cumbersome and awkward.
 >
-> **[5:50](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=350)** Making sure the default is correct for the majority of use cases is critical to database design.
+> **[5:50](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=350)** Making sure the default is correct for the majority of use cases is critical to [[Database Design]].
 >
 > **[5:57](https://www.linkedin.com/learning/database-design-fundamentals/collation-and-character-sets?u=76281980&t=357)** It is a matter of making choices that suit the solution optimally with the most latitude for future growth and adaptability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (4), ai (3), [[Databases]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Data Integrity]] (1), [[Unstructured Data]] (1), [[Database Design]] (1)
 > **Env Vars:** utf (5), ascii (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3), just like (1)
@@ -584,14 +573,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### First normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
+#### [First normal form](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=0)** - [Presenter] In the last chapter, we looked at data relationships.
 >
-> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=4)** Now we are going to use those relationships to build out our data architecture.
+> **[0:04](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=4)** Now we are going to use those relationships to build out our [[Data Architecture]].
 >
 > **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=10)** When data is given to an architect, it is similar to the raw materials that any builder or artist has to work with.
 >
@@ -611,7 +599,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=81)** Keep note of all the different names and locations that the same file is located in to make later data cleansing easier.
 >
-> **[1:31](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=91)** Find fields by using the forms and data you are given by the business and that you find in your research.
+> **[1:31](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=91)** Find fields by using the [[Forms]] and data you are given by the business and that you find in your research.
 >
 > **[1:38](https://www.linkedin.com/learning/database-design-fundamentals/first-normal-form?u=76281980&t=98)** For example, here in this order form, you will find the customer name, email, phone number, and address to get you started.
 >
@@ -651,14 +639,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (2), [[Forms]] (2), [[Data Architecture]] (1), business (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Data Architecture]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Second normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/second-normal-form?u=76281980)
+#### [Second normal form](https://www.linkedin.com/learning/database-design-fundamentals/second-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,13 +691,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Third normal form
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980)
+#### [Third normal form](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,13 +739,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=155)** It is far more performant to just leave the data in third normal form.
 >
-> **[2:40](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=160)** This diagram shows us a typical implementation of the databases we just looked at.
+> **[2:40](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=160)** This diagram shows us a typical implementation of the [[Databases]] we just looked at.
 >
 > **[2:46](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=166)** It is in complete third normal state, as city, state, and zip code are still in the customer table.
 >
 > **[2:54](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=174)** This is a common design in modern databases for the sake of query speed and data access.
 >
-> **[3:01](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=181)** It is important to know the rules of the normal forms and also the reasons when and why they are followed.
+> **[3:01](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=181)** It is important to know the rules of the normal [[Forms]] and also the reasons when and why they are followed.
 >
 > **[3:09](https://www.linkedin.com/learning/database-design-fundamentals/third-normal-form?u=76281980&t=189)** This is the typical rule learned when designing databases.
 >
@@ -782,20 +767,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Databases]] (3), next (2), business (2), [[Forms]] (2)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Forms]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Normalization from BCNF to 6NF
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980)
+#### [Normalization from BCNF to 6NF](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=0)** - [Instructor] The majority of the time databases are not normalized beyond third normal form.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=0)** - [Instructor] The majority of the time [[Databases]] are not normalized beyond third normal form.
 >
-> **[0:07](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=7)** So why are there other forms of normalization and what is the point?
+> **[0:07](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=7)** So why are there other [[Forms]] of normalization and what is the point?
 >
 > **[0:13](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=13)** Boyce-Codd normal form is a table in third normal form that has anomalies due to composite keys.
 >
@@ -825,17 +809,17 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=150)** Sixth normal form deals with temporal databases where you want to separate time dependent data to allow for effective temporal querying.
 >
-> **[2:41](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=161)** Sixth normal form is primarily used in specialized cases like data warehousing or systems that were require detailed historical tracking.
+> **[2:41](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=161)** Sixth normal form is primarily used in specialized cases like [[Data Warehousing]] or systems that were require detailed historical tracking.
 >
 > **[2:51](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=171)** A table tracking employee salaries over time might benefit from sixth normal form by splitting the temporal aspects into separate tables for better query performance.
 >
-> **[3:05](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=185)** Key considerations for using higher normal forms include careful monitoring of data integrity to reduce redundancy and ensure that the data maintains its integrity without unnecessary duplication.
+> **[3:05](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=185)** Key considerations for using higher normal forms include careful monitoring of [[Data Integrity]] to reduce redundancy and ensure that the data maintains its integrity without unnecessary duplication.
 >
 > **[3:20](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=200)** Higher normalization can lead to more complex queries with multiple joins potentially impacting performance.
 >
-> **[3:27](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=207)** You need to balance normalization with performance considerations, especially for heavy read systems, apply higher normal forms based on the specific data structures and relationships within your database.
+> **[3:27](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=207)** You need to balance normalization with performance considerations, especially for heavy read systems, apply higher normal forms based on the specific [[Data Structures]] and relationships within your database.
 >
-> **[3:43](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=223)** For example, Boyce-Codd normal form might be sufficient for most relational databases while fifth normal form and sixth normal form are more specialized.
+> **[3:43](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=223)** For example, Boyce-Codd normal form might be sufficient for most [[Relational Databases]] while fifth normal form and sixth normal form are more specialized.
 >
 > **[3:54](https://www.linkedin.com/learning/database-design-fundamentals/normalization-from-bcnf-to-6nf?u=76281980&t=234)** In practice, many databases remain in third normal form or Boyce-Codd normal form, as these are often sufficient for most applications.
 >
@@ -843,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forms]] (4), [[Databases]] (3), database (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[Databases]] (3), [[Data Warehousing]] (1), [[Data Integrity]] (1), [[Relational Databases]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
@@ -853,8 +837,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data types that are key to relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
+#### [Data types that are key to relational databases](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,9 +871,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=58)** This, without any other context, appears far more like an image than a numeric piece of data.
 >
-> **[1:06](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=66)** I have mentioned how important data types are to the data integrity and optimization of database management and the performance of physical databases.
+> **[1:06](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=66)** I have mentioned how important data types are to the [[Data Integrity]] and optimization of [[Database Management]] and the performance of physical [[Databases]].
 >
-> **[1:17](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=77)** There are specific character types, such as CHAR, VARCHAR, and TEXT, for different databases, but these are general data types that are common to relational databases as a whole.
+> **[1:17](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=77)** There are specific character types, such as CHAR, VARCHAR, and TEXT, for different databases, but these are general data types that are common to [[Relational Databases]] as a whole.
 >
 > **[1:31](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=91)** Fixed-length strings are efficient for storage, but can waste space if values vary significantly in length.
 >
@@ -938,9 +921,9 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=298)** Ensure compatibility if you plan to migrate or integrate with other systems.
 >
-> **[5:03](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=303)** Adhering to SQL standards for data types to enhance portability across different RDBMSs can be a good way to future-proof your system.
+> **[5:03](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=303)** Adhering to [[SQL]] standards for data types to enhance portability across different RDBMSs can be a good way to future-proof your system.
 >
-> **[5:14](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=314)** A database architect must carefully choose data types based on storage requirements, performance needs, data integrity, compatibility, scalability, and specific application requirements.
+> **[5:14](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=314)** A database architect must carefully choose data types based on storage requirements, performance needs, data integrity, compatibility, [[Scalability]], and specific application requirements.
 >
 > **[5:28](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=328)** Understanding the implications of each helps in designing efficient and robust databases, but ultimately understanding your data and how it will be used is what will ensure you make the correct decisions.
 >
@@ -948,11 +931,11 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=353)** Each version of SQL, the language of many relational databases, can have slightly different implementation options based on which provider you choose.
 >
-> **[6:04](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=364)** For example, Oracle uses PL/SQL, a different version of SQL, than Microsoft SQL Server, which uses T-SQL, yet they both adhere to the same ANSI SQL standards.
+> **[6:04](https://www.linkedin.com/learning/database-design-fundamentals/data-types-that-are-key-to-relational-databases?u=76281980&t=364)** For example, Oracle uses PL/SQL, a different version of SQL, than [[Microsoft SQL Server]], which uses T-SQL, yet they both adhere to the same ANSI SQL standards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Databases]] (7), [[SQL]] (6), database (4), [[Relational Databases]] (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[SQL]] (6), [[Data Integrity]] (3), [[Relational Databases]] (3), [[Database Management]] (2)
 > **Env Vars:** sql (7), blob (3), char (2), varchar (2), text (2)
 > **Analogies:** for example (3), such as (2)
 > **Definitions:** is a  (4)
@@ -961,8 +944,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### How rows and columns impact database design
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980)
+#### [How rows and columns impact database design](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,15 +952,15 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=10)** The most common design is the relational database, which organizes data into tables primarily by row, which we have been discussing.
 >
-> **[0:19](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=19)** However, other designs like columnar databases are also important.
+> **[0:19](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=19)** However, other designs like columnar [[Databases]] are also important.
 >
 > **[0:25](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=25)** A columnar database, also known as a column-oriented database, stores data by columns rather than by rows.
 >
 > **[0:33](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=33)** It is optimized for running analytical queries on large datasets.
 >
-> **[0:38](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=38)** Columnar databases excel at performing operations like aggregations, filtering, and summarizing data across records, making them faster, more efficient for these tasks.
+> **[0:38](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=38)** Columnar databases [[Microsoft Excel|excel]] at performing operations like aggregations, filtering, and summarizing data across records, making them faster, more efficient for these tasks.
 >
-> **[0:53](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=53)** These databases are often used in data warehousing environments where the primary use case is reading and analyzing data rather than frequent updates or transactions.
+> **[0:53](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=53)** These databases are often used in [[Data Warehousing]] environments where the primary use case is reading and analyzing data rather than frequent updates or transactions.
 >
 > **[1:05](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=65)** If you're dealing with large volumes of data that need to be processed in bulk, such as log analytics or time series data, columnar databases can be very efficient.
 >
@@ -994,7 +976,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=119)** They allow users to perform multidimensional analysis, such as slicing and dicing data, drilling down into details, and rolling up summaries.
 >
-> **[2:11](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=131)** Dimensional databases are best for complex queries, and multidimensional analysis, often used in business intelligence and data warehousing environments.
+> **[2:11](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=131)** Dimensional databases are best for complex queries, and multidimensional analysis, often used in [[Business Intelligence (BI)|business intelligence]] and data warehousing environments.
 >
 > **[2:22](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=142)** An example of this is where the treasury department of a bank is responsible for managing the bank's liquidity, ensuring it has enough liquid assets to meet its obligations while optimizing the return on excess cash.
 >
@@ -1004,54 +986,52 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=186)** A dimensional database allows them to slice and dice this data to understand the impact of different factors on liquidity.
 >
-> **[3:16](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=196)** Business intelligence databases are often used in BI environments, where the goal is to analyze data from different perspectives to support decision-making.
+> **[3:16](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=196)** Business intelligence databases are often used in BI environments, where the goal is to analyze data from different perspectives to support [[Decision-Making]].
 >
 > **[3:27](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=207)** Like columnar databases, these data warehouses are dimensional databases that are common in data warehousing.
 >
 > **[3:35](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=215)** However, they focus on how data is modeled to support flexible querying.
 >
-> **[3:41](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=221)** Examples you may be familiar with by name would be Snowflake or Microsoft SQL Server Analysis Services.
+> **[3:41](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=221)** Examples you may be familiar with by name would be [[Snowflake]] or [[Microsoft SQL Server]] Analysis Services.
 >
 > **[3:50](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=230)** These support star schema and snowflake schemas, which are common dimensional database designs that we talked about earlier.
 >
-> **[3:58](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=238)** Each type of database design has its strengths.
+> **[3:58](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=238)** Each type of [[Database Design]] has its strengths.
 >
 > **[4:02](https://www.linkedin.com/learning/database-design-fundamentals/how-rows-and-columns-impact-database-design?u=76281980&t=242)** So the choice depends on the specific use case, whether you prioritize data retrieval speed, the complexity of queries, or the volume and type of data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Databases]] (10), database (7), product (2), [[Business Intelligence (BI)|Business intelligence]] (2)
+> **Frameworks & Libraries:** [[Databases]] (10), [[Data Warehousing]] (3), [[Business Intelligence (BI)|Business intelligence]] (2), [[Snowflake]] (2), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** olap (1), sql (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980)
+#### [Types of relationships](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=0)** - [Instructor] Relationships in databases describe how the data is related between the tables.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=0)** - [Instructor] Relationships in [[Databases]] describe how the data is related between the tables.
 >
 > **[0:06](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=6)** Tables can have two different types of relationships; either one-to-one, a record in one table is related to a single record in another table, for example, a person and their passport, or one to many, a record in one table can be related to multiple records in another table, for example, a customer can place many orders.
 >
-> **[0:32](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=32)** In database design and entity relationship diagrams, or ERDs, the one side of the relationship is depicted with a straight line or a single bar.
+> **[0:32](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=32)** In [[Database Design]] and entity relationship diagrams, or ERDs, the one side of the relationship is depicted with a straight line or a single bar.
 >
 > **[0:43](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=43)** The many side is depicted with a crow's foot symbol, which looks like a branching set of three lines.
 >
-> **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=50)** Relationships are crucial in database design and understanding, because they ensure data integrity, reduce redundancy, and facilitate efficient retrieval of data.
+> **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=50)** Relationships are crucial in database design and understanding, because they ensure [[Data Integrity]], reduce redundancy, and facilitate efficient retrieval of data.
 >
 > **[1:03](https://www.linkedin.com/learning/database-design-fundamentals/types-of-relationsips?u=76281980&t=63)** Through the relationships, the rules of primary and foreign key constraints and consistency are enforced.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[Databases]] (1), [[Data Integrity]] (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Defining primary keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980)
+#### [Defining primary keys](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1055,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=76)** If a natural or composite key cannot be found due to the nature of the data itself, it changes, or it is personal, identifiable, in any way, or just does not fit the definition of a primary key, then a surrogate key is the ideal option.
 >
-> **[1:36](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=96)** Most often, a surrogate key is the best option, with the cost of storage and compute being relatively low in comparison to the complexity of data privacy and other challenges that come with natural keys.
+> **[1:36](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=96)** Most often, a surrogate key is the best option, with the cost of storage and compute being relatively low in comparison to the complexity of [[Data Privacy]] and other challenges that come with natural keys.
 >
 > **[1:51](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=111)** If you were choosing a natural key, composite, or surrogate key, the important thing to remember is to ensure uniqueness.
 >
@@ -1087,7 +1067,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=133)** It all relates to performance.
 >
-> **[2:15](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=135)** Modern relational databases create indexes on primary keys.
+> **[2:15](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=135)** Modern [[Relational Databases]] create indexes on primary keys.
 >
 > **[2:21](https://www.linkedin.com/learning/database-design-fundamentals/defining-primary-keys?u=76281980&t=141)** This index allows the database to skip full-table scans and use more efficient index searching methods, significantly speeding up query performance for select statements that involve primary key columns.
 >
@@ -1105,18 +1085,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Privacy]] (1), [[Relational Databases]] (1), database (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatically increment a field
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980)
+#### [Automatically increment a field](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=0)** - [Instructor] Auto incrementing keys provide a unique identifier for each row in a table, which is crucial for maintaining data integrity and establishing relationships between tables.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=0)** - [Instructor] Auto incrementing keys provide a unique identifier for each row in a table, which is crucial for maintaining [[Data Integrity]] and establishing relationships between tables.
 >
 > **[0:12](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=12)** This unique identifier is automatically generated, reducing the risk of human error in key assignment.
 >
@@ -1132,7 +1111,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=61)** Assuming the data does not already exist in the table, giving space efficiency savings.
 >
-> **[1:08](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=68)** Auto-incrementing primary keys simplifies the process of adding new rows to a table simplifying data management.
+> **[1:08](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=68)** Auto-incrementing primary keys simplifies the process of adding new rows to a table simplifying [[Data Management]].
 >
 > **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/automatically-increment-a-field?u=76281980&t=76)** Users do not need to manually manage the primary key values, which reduces the complexity and potential for errors.
 >
@@ -1142,12 +1121,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), management (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (1), [[Data Management]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of foreign keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/the-importance-of-foreign-keys?u=76281980)
+#### [The importance of foreign keys](https://www.linkedin.com/learning/database-design-fundamentals/the-importance-of-foreign-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,16 +1163,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (4), management (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a null?
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980)
+#### [What is a null?](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=0)** - [Instructor] In database design, a NULL represents the absence of a value in a particular field or column.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=0)** - [Instructor] In [[Database Design]], a NULL represents the absence of a value in a particular field or column.
 >
 > **[0:07](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=7)** Imagine you're filling out a form and there's a question you don't have an answer to, so you leave it blank.
 >
@@ -1212,7 +1188,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=50)** For example, if you try to add numbers together and one of them is a NULL, the result will be a NULL value because the database can't calculate with a missing value.
 >
-> **[1:04](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=64)** When designing a database, it's important to keep data integrity in mind at all times.
+> **[1:04](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=64)** When designing a database, it's important to keep [[Data Integrity]] in mind at all times.
 >
 > **[1:10](https://www.linkedin.com/learning/database-design-fundamentals/what-is-a-null?u=76281980&t=70)** It is easy to make a decision that you will make every field in your database mandatory so that you will never have NULL fields.
 >
@@ -1228,19 +1204,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), data (6)
+> **Frameworks & Libraries:** [[Database Design]] (1), [[Data Integrity]] (1)
 > **Env Vars:** null (9)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Naming convention importance in relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980)
+#### [Naming convention importance in relational databases](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=0)** - [Instructor] Standard naming conventions for relational databases help maintain consistency, clarity, and ease of understanding across the database.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=0)** - [Instructor] Standard naming conventions for [[Relational Databases]] help maintain consistency, clarity, and ease of understanding across the database.
 >
 > **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=10)** To make the readability easier, avoid abbreviations unless they are well-known and unambiguous, industry or company specific.
 >
@@ -1252,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=36)** It will just cause confusion.
 >
-> **[0:39](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=39)** Avoid using SQL reserved words as names, things like select or where.
+> **[0:39](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=39)** Avoid using [[SQL]] reserved words as names, things like select or where.
 >
 > **[0:47](https://www.linkedin.com/learning/database-design-fundamentals/naming-conventionimportance-in-relational-databases?u=76281980&t=47)** Table names use singular nouns or plural nouns.
 >
@@ -1292,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[Relational Databases]] (1), [[SQL]] (1), data (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[SQL]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1), tbl (1), col (1)
 > **Analogies:** such as (1), for example (1)
@@ -1305,8 +1280,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architectural overview for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
+#### [Architectural overview for AI](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1322,19 +1296,19 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=38)** Consider using professional tools for designing entire systems.
 >
-> **[0:43](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=43)** Some common tools for entity relationship diagrams are, MySQL Workbench offers comprehensive tools for database design, SQL development and database administration.
+> **[0:43](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=43)** Some common tools for entity relationship diagrams are, [[MySQL]] Workbench offers comprehensive tools for [[Database Design]], [[SQL]] development and [[Database Administration]].
 >
-> **[0:57](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=57)** Microsoft Visio is popular for creating ER diagrams and other visual representations of data structures.
+> **[0:57](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=57)** [[Microsoft]] Visio is popular for creating ER diagrams and other visual representations of [[Data Structures]].
 >
-> **[1:05](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=65)** Lucidchart is a cloud-based tool that supports collaborative database diagramming and design.
+> **[1:05](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=65)** Lucidchart is a cloud-based tool that supports collaborative database [[Diagramming]] and design.
 >
-> **[1:13](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=73)** ER/Studio is a tool for data modeling, especially in large, complex environments.
+> **[1:13](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=73)** ER/Studio is a tool for [[Data Modeling]], especially in large, complex environments.
 >
-> **[1:20](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=80)** And dbForge Studio provides ER diagram capabilities along with SQL coding, database management and administration tools.
+> **[1:20](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=80)** And dbForge Studio provides ER diagram capabilities along with SQL coding, [[Database Management]] and administration tools.
 >
-> **[1:30](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=90)** Metadata Management is a key architectural tool for AI, enabling the effective use of a data catalog to manage integrated data.
+> **[1:30](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=90)** [[Metadata]] Management is a key architectural tool for AI, enabling the effective use of a data catalog to manage integrated data.
 >
-> **[1:42](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=102)** It helps track data lineage, ensure data governance, and provide context for AI models, which are crucial for explainability and compliance.
+> **[1:42](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=102)** It helps track [[Data Lineage]], ensure [[Data Governance]], and provide context for AI models, which are crucial for explainability and compliance.
 >
 > **[1:52](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=112)** The current trend in AI maturity is that governments are looking at governance and compliance of AI on top of the data and governance that is currently in place on data and security.
 >
@@ -1348,25 +1322,24 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=157)** There are counter options to balance the full performance loss.
 >
-> **[2:42](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=162)** As a whole, data integration is a foundational element in database design for scalable AI.
+> **[2:42](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=162)** As a whole, [[Data Integration]] is a foundational element in database design for scalable AI.
 >
 > **[2:50](https://www.linkedin.com/learning/database-design-fundamentals/architectural-overview-for-ai?u=76281980&t=170)** It ensures that AI models have access to high-quality, diverse data at scale, while also maintaining performance, security and compliance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (10), database (6), [[Security]] (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Database Design]] (3), [[SQL]] (2), [[MySQL]] (1), [[Database Administration]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** mysql (1)
 > **Code Identifiers:** dbforge (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980)
+#### [Designing for AI](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=0)** - [Instructor] Data integration is crucial in designing databases for scalable AI performance.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=0)** - [Instructor] [[Data Integration]] is crucial in designing [[Databases]] for scalable AI performance.
 >
 > **[0:06](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=6)** It involves combining data from different sources into a unified view, essential for training AI models.
 >
@@ -1378,27 +1351,27 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=46)** This unified access is critical for AI models that need consistent, clean, and comprehensive datasets.
 >
-> **[0:54](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=54)** Choosing the right tools for real-time data processing is streaming data integration that requires real-time data, like those in predictive analytics or autonomous systems.
+> **[0:54](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=54)** Choosing the right tools for [[Real-Time]] [[Data Processing]] is streaming data integration that requires real-time data, like those in [[Predictive Analytics]] or autonomous systems.
 >
 > **[1:07](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=67)** Data integration must support streaming data.
 >
-> **[1:11](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=71)** Tools like Apache Kafka or Amazon Kinesis can be used to integrate and process real-time data, feeding it directly into AI pipelines.
+> **[1:11](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=71)** Tools like [[Apache Kafka]] or Amazon Kinesis can be used to integrate and process real-time data, feeding it directly into AI pipelines.
 >
 > **[1:23](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=83)** The right tool for the right data is key to designing data stores for AI.
 >
-> **[1:29](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=89)** There are different data stores, each making a marked difference in the scalability and performance.
+> **[1:29](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=89)** There are different data stores, each making a marked difference in the [[Scalability]] and performance.
 >
 > **[1:35](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=95)** Be sure to choose the right database for the right type of data.
 >
 > **[1:39](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=99)** Distributed databases are used to handle large-scale data integration for AI.
 >
-> **[1:44](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=104)** Distributed databases, like Apache Cassandra, MongoDB, Google Bigtable, or Azure Cosmos DB, are often used.
+> **[1:44](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=104)** Distributed databases, like Apache Cassandra, [[MongoDB]], [[Google]] Bigtable, or [[Microsoft Azure|Azure]] Cosmos DB, are often used.
 >
 > **[1:55](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=115)** These databases are designed to scale horizontally, allowing them to manage massive datasets without sacrificing performance.
 >
 > **[2:05](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=125)** For columnar and dimensional data models for AI workloads, choosing the right database model is key.
 >
-> **[2:12](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=132)** For instance, columnar databases, like Apache HBase, can be more efficient for read-heavy AI tasks, while dimensional models, the Star and Snowflake schema, are better suited for analytical queries.
+> **[2:12](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=132)** For instance, columnar databases, like Apache HBase, can be more efficient for read-heavy AI tasks, while dimensional models, the Star and [[Snowflake]] schema, are better suited for analytical queries.
 >
 > **[2:28](https://www.linkedin.com/learning/database-design-fundamentals/designing-for-ai?u=76281980&t=148)** For data partitioning and sharding to deal with scalability in databases, what is often needed is to partition or shard data across multiple nodes.
 >
@@ -1412,18 +1385,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), ai (10), [[Databases]] (7), database (5), [[Real-Time]] (3)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Data Integration]] (5), [[Real-Time]] (3), [[Scalability]] (2), [[Data Processing]] (1)
 > **CLI Commands:** apache (3)
 > **Analogies:** such as (2), for instance (1)
 > **Env Vars:** etl (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considerations for AI: Unstructured data and analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980)
+#### [Considerations for AI: Unstructured data and analytics](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=0)** - [Instructor] Data quality is one of the most important considerations to keep in mind at all times when working in data.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=0)** - [Instructor] [[Data Quality]] is one of the most important considerations to keep in mind at all times when working in data.
 >
 > **[0:07](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=7)** Ensure mechanisms are in place to clean and pre-process data before it's ingested into the database.
 >
@@ -1437,13 +1409,13 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=49)** Get to know your data.
 >
-> **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=50)** Almost every aspect of architecting, designing, and performance tuning data is easier if you know every aspect of your data.
+> **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=50)** Almost every aspect of architecting, designing, and [[Performance Tuning]] data is easier if you know every aspect of your data.
 >
 > **[0:59](https://www.linkedin.com/learning/database-design-fundamentals/considerations-for-ai-unstructured-data-and-analytics?u=76281980&t=59)** This means how it is used, how it is stored, the quantitative, as well as the qualitative aspects of it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (3), database (2), [[Performance Tuning]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1), [[Performance Tuning]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -1453,12 +1425,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project setup: Design your own database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
+#### [Final project setup: Design your own database](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=0)** - [Instructor] Welcome to our Database Design Fundamentals Final Project.
+> **[0:00](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=0)** - [Instructor] Welcome to our [[Database Design]] Fundamentals Final Project.
 >
 > **[0:10](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=10)** I'm going to walk you through the setup of the project so you're set up for success.
 >
@@ -1472,7 +1443,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=45)** The challenge will start in tab Salesperson and Product where you will choose your fields.
 >
-> **[0:53](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=53)** In the next few tabs, going through each of the normal forms, I've left spaces for you to choose where to place information.
+> **[0:53](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=53)** In the next few tabs, going through each of the normal [[Forms]], I've left spaces for you to choose where to place information.
 >
 > **[1:03](https://www.linkedin.com/learning/database-design-fundamentals/final-project-setup-design-your-own-database?u=76281980&t=63)** Just to give you a few hints.
 >
@@ -1488,7 +1459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), product (2), next (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (1), [[Forms]] (1)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Definitions:** is a  (1)
@@ -1496,8 +1467,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Final project walkthrough: Design your own database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980)
+#### [Final project walkthrough: Design your own database](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1515,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980&t=171)** And then, here is our diagram.
 >
-> **[2:54](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980&t=174)** A final visual of the full outline of the database design.
+> **[2:54](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980&t=174)** A final visual of the full outline of the [[Database Design]].
 >
 > **[2:59](https://www.linkedin.com/learning/database-design-fundamentals/final-project-walkthrough-design-your-own-database?u=76281980&t=179)** Starting with the customer table, we designed it with a customer ID as an independent key.
 >
@@ -1563,7 +1533,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), database (3), data (1), business (1)
+> **Frameworks & Libraries:** [[Database Design]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1575,8 +1545,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Empower your world: Innovate, act, transform
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)
+#### [Empower your world: Innovate, act, transform](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1602,17 +1571,17 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=50)** The data community is a vibrant community of thousands of professionals worldwide and one of the most welcoming professional communities I have ever heard of and certainly experienced.
 >
-> **[1:02](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=62)** Feel free to reach out to me and connect on LinkedIn, but also connect locally with your local user group if there is one.
+> **[1:02](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=62)** Feel free to reach out to me and connect on [[LinkedIn]], but also connect locally with your local user group if there is one.
 >
 > **[1:10](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=70)** User groups can be found at aka.ms/datacommunity.
 >
-> **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=76)** I look forward to hearing about your database design successes and new roles in data on LinkedIn.
+> **[1:16](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=76)** I look forward to hearing about your [[Database Design]] successes and new roles in data on LinkedIn.
 >
 > **[1:24](https://www.linkedin.com/learning/database-design-fundamentals/next-steps-empower-your-world-innovate-act-transform?u=76281980&t=84)** Until next time, empower your world, innovate, act, and transform.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Database Design]] (1)
 > **Env Vars:** erd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [melody] (1)

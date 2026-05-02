@@ -64,16 +64,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get up and running quickly with Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
+#### [Get up and running quickly with Word](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=0)** - [Nick] Microsoft Word is a very popular application for writing documents.
+> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=0)** - [Nick] [[Microsoft Word]] is a very popular application for writing documents.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=4)** Word has lots of options and features which can take years to master, but you can easily skip the features that you don't need, focus only on the tools required for your document and keep things very simple.
+> **[0:04](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=4)** [[Microsoft Word|Word]] has lots of options and features which can take years to master, but you can easily skip the features that you don't need, focus only on the tools required for your document and keep things very simple.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=16)** I'm Nick Brazzi and I have a very short course to help you get running quickly with the version of Microsoft Word that comes with Microsoft 365.
+> **[0:16](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=16)** I'm Nick Brazzi and I have a very short course to help you get running quickly with the version of Microsoft Word that comes with [[Microsoft 365]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/get-up-and-running-quickly-with-word?u=76281980&t=24)** This course focuses only on the most common basic features that every user needs to get started.
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (2), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (2), [[Microsoft Word|Word]] (2), [[Microsoft 365]] (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [nick] (1)
@@ -95,18 +94,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Work with ribbons and the Backstage view
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
+#### [Work with ribbons and the Backstage view](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=0)** - [Instructor] In this video, I want to establish some important controls in the Microsoft Word interface, which might be a little different from other applications that you've used.
+> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=0)** - [Instructor] In this video, I want to establish some important controls in the [[Microsoft Word]] interface, which might be a little different from other applications that you've used.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=8)** I'm working on Windows, so I'll go to the Start menu to launch Microsoft Word.
+> **[0:08](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=8)** I'm working on [[Windows]], so I'll go to the Start menu to launch Microsoft Word.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=14)** And on this welcome screen, I want to make sure that Home is selected, over on the left, and I want to open a new Blank document, so I'll choose that option here.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=21)** And that takes us to the main Word interface, and this is where you'll do most of your work.
+> **[0:21](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=21)** And that takes us to the main [[Microsoft Word|Word]] interface, and this is where you'll do most of your work.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-ribbons-and-the-backstage-view?u=76281980&t=26)** It's important to introduce this row of buttons up at the top, which is called the ribbon.
 >
@@ -156,21 +154,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3), next (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (2), is a  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and save documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980)
+#### [Create and save documents](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=0)** - [Instructor] Let's make a new document in Microsoft Word and see how to save it.
+> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=0)** - [Instructor] Let's make a new document in [[Microsoft Word]] and see how to save it.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=4)** When you launch Word, you start here at the welcome screen.
+> **[0:04](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=4)** When you launch [[Microsoft Word|Word]], you start here at the welcome screen.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=7)** Over on the left, you can select Home.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=40)** If you need to close this and continue working on it later, you need to save this document as a file.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=45)** If you're using Windows, you can click the File button near the top left, and that'll take you to the backstage view.
+> **[0:45](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=45)** If you're using [[Windows]], you can click the File button near the top left, and that'll take you to the backstage view.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=52)** And then you're looking for the options for Save or Save As.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=71)** And this is what it looks like on a Windows computer.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=73)** If you are signed into a Microsoft account, you may see OneDrive or SharePoint listed here.
+> **[1:13](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=73)** If you are signed into a [[Microsoft]] account, you may see [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] listed here.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/create-and-save-documents?u=76281980&t=78)** These are online storage tools connected to your Microsoft account, so you could save your file to one of those.
 >
@@ -296,16 +293,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with Word Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980)
+#### [Work with Word Online](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=0)** - [Instructor] If you are working with a Microsoft 365 subscription, you have access to a version of Microsoft Word on the web.
+> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=0)** - [Instructor] If you are working with a [[Microsoft 365]] subscription, you have access to a version of [[Microsoft Word]] on the web.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=6)** And that lets you work with Word from almost any computer with a web browser.
+> **[0:06](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=6)** And that lets you work with [[Microsoft Word|Word]] from almost any computer with a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=10)** I'm starting at the Microsoft 365 website, which you can get to by going to [office.com](https://office.com).
+> **[0:10](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=10)** I'm starting at the Microsoft 365 website, which you can get to by going to [[[Microsoft Office|office]].com](https://office.com).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=15)** And I've already signed in with my Microsoft 365 account.
 >
@@ -315,13 +311,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=31)** I could make a new blank document.
 >
-> **[0:33](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=33)** I could start from a template and there's a link here for more templates, or you can open a file that you already have stored on your OneDrive.
+> **[0:33](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=33)** I could start from a template and there's a link here for more templates, or you can open a file that you already have stored on your [[Microsoft OneDrive|OneDrive]].
 >
-> **[0:42](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=42)** OneDrive is an online storage tool from Microsoft and it's included with a Microsoft 365 account.
+> **[0:42](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=42)** OneDrive is an online storage tool from [[Microsoft]] and it's included with a Microsoft 365 account.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=48)** When you use Word on the web, you cannot save your files directly to your computer.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=52)** They must be saved on OneDrive or you can work on files that are stored on SharePoint or in Microsoft Teams.
+> **[0:52](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=52)** They must be saved on OneDrive or you can work on files that are stored on [[SharePoint]] or in [[Microsoft Teams]].
 >
 > **[0:59](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/work-with-word-online?u=76281980&t=59)** So let's start by making a new blank document.
 >
@@ -389,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Microsoft Word]] (11), web (11), [[Microsoft OneDrive|Onedrive]] (11), [[Microsoft 365]] (7)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Microsoft Word]] (11), [[Microsoft OneDrive|Onedrive]] (11), [[Microsoft 365]] (7), [[SharePoint]] (4)
 > **UI Navigation:** click on (3), go to (2), open the (1)
 > **Prerequisites:** install (1), you'll need (1), required to (1)
 > **CLI Commands:** make (2)
@@ -398,8 +394,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write and format text
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980)
+#### [Write and format text](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,11 +406,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=19)** So I could click here at the beginning of this line to set the cursor there, and then I can just type in some text.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=25)** You'll probably also know if you hit the return key, it will start a new line, but to be completely clear, hitting the return key in Microsoft Word starts a new paragraph, and we'll see paragraph formatting in a moment, so it's important to know that one paragraph ends and another begins when you hit the return key.
+> **[0:25](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=25)** You'll probably also know if you hit the return key, it will start a new line, but to be completely clear, hitting the return key in [[Microsoft Word]] starts a new paragraph, and we'll see paragraph formatting in a moment, so it's important to know that one paragraph ends and another begins when you hit the return key.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=41)** Now, next, we should see how to format our text, and the first thing you need to do is select the text that you want to format.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=47)** If you want to select just one word, you can double click on it, you can see that it's selected and you can click anywhere else to clear that selection.
+> **[0:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=47)** If you want to select just one [[Microsoft Word|word]], you can double click on it, you can see that it's selected and you can click anywhere else to clear that selection.
 >
 > **[0:55](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=55)** But I want more than just one word, so I'm going to move my mouse to one side of some text, hold the mouse button down, drag across it, then let go, and now I have that text selected and I can format it.
 >
@@ -429,7 +424,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=95)** And if you do something you don't like, you can click the undo button in the home ribbon to take one step back.
 >
-> **[1:41](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=101)** Now you may notice that the home ribbon is sort of separated into sections, and if you're working in Windows, those sections are labeled and you can see we've been working in the font section, but there are even more font formatting options that do not show up in the font section of the home ribbon.
+> **[1:41](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=101)** Now you may notice that the home ribbon is sort of separated into sections, and if you're working in [[Windows]], those sections are labeled and you can see we've been working in the font section, but there are even more font formatting options that do not show up in the font section of the home ribbon.
 >
 > **[1:58](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/write-and-format-text?u=76281980&t=118)** If you select some text then right click on it and choose font, that opens a panel where you have even more text formatting options.
 >
@@ -481,15 +476,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), hit (2), next (2), [[Microsoft Word]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft Word]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (4), select the (2), go to (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (2), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980)
+#### [Format a document](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +503,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=31)** If you're working in the United States like I am, you'll see the option for letter or US letter near the top of this list.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=38)** But if you've installed Word in a different region, this list will be organized differently, giving you the most common formats for your region at the top of the list.
+> **[0:38](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=38)** But if you've installed [[Microsoft Word|Word]] in a different region, this list will be organized differently, giving you the most common formats for your region at the top of the list.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/format-a-document?u=76281980&t=45)** And if you don't know which page size to use, the default is usually the most common for your region so you may never need to change anything here.
 >
@@ -585,15 +579,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (6), click on (3), select the (1), scroll down (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert page breaks, section breaks, and columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980)
+#### [Insert page breaks, section breaks, and columns](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/insert-page-breaks-section-breaks-and-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +672,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), hit (3)
 > **UI Navigation:** go to (10), scroll up (3), scroll down (2), click on (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (1), find (1)
@@ -687,8 +679,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and format images
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980)
+#### [Add and format images](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -702,7 +693,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=16)** The stock images library gives you a collection of pictures that you can use, but for now, I want to use my own pictures.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=22)** So if you're working on Windows, you can click this device.
+> **[0:22](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=22)** So if you're working on [[Windows]], you can click this device.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=25)** Or if you're on a Mac, that option will be picture from file, but they'll do the same thing, you can click on that, then navigate to the folder where you have your pictures, then select the picture you want and click insert, and it will insert it where your text cursor was.
 >
@@ -764,7 +755,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=167)** But you see, what I'm dragging is this text cursor.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=170)** And my picture will go wherever I drop that text cursor, even if it's in the middle of a word, and that might not be what you want.
+> **[2:50](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=170)** And my picture will go wherever I drop that text cursor, even if it's in the middle of a [[Microsoft Word|word]], and that might not be what you want.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-and-format-images?u=76281980&t=177)** So instead, what you could do is select the picture, go to that wrap text menu and try one of these wrapping options.
 >
@@ -804,15 +795,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (2), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** picture (32), just like (1)
 > **UI Navigation:** go to (5), click on (4), select the (2), navigate to (1)
 > **CLI Commands:** make (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add headers, footers, and page numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980)
+#### [Add headers, footers, and page numbers](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -826,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=18)** So I'm going to double-click near the top edge of this page, and now I'm editing the header.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=23)** The rest of my page is sort of gray, which means I cannot edit the body of the document until I close the header.
+> **[0:23](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=23)** The [[Representational State Transfer (REST)|rest]] of my page is sort of gray, which means I cannot edit the body of the document until I close the header.
 >
 > **[0:29](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=29)** But first, let's put something into the header.
 >
@@ -850,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=101)** If you're working on a Mac, you'll choose the page number option from this menu and then follow the prompts that it gives you.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=107)** But here on Windows, I want the page number to be in the footer, so I'm going to go to this Bottom of Page section and choose one of these options.
+> **[1:47](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=107)** But here on [[Windows]], I want the page number to be in the footer, so I'm going to go to this Bottom of Page section and choose one of these options.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/add-headers-footers-and-page-numbers?u=76281980&t=115)** I'll just choose Plain Number Two.
 >
@@ -880,7 +870,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Windows]] (1)
 > **UI Navigation:** double-click (5)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
@@ -892,20 +882,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more about Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)
+#### [Where to learn more about Word](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=0)** - [Instructor] Thanks for joining me for this quick course on Microsoft Word.
+> **[0:00](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=0)** - [Instructor] Thanks for joining me for this quick course on [[Microsoft Word]].
 >
-> **[0:03](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=3)** This was intended to be a brief starting point to get you working with Word quickly.
+> **[0:03](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=3)** This was intended to be a brief starting point to get you working with [[Microsoft Word|Word]] quickly.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=7)** If you need to learn more about Microsoft Word, and if you have the Microsoft 365 subscription, I recommend the longer course, Word Essential Training for Office 365 or Microsoft 365.
+> **[0:07](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=7)** If you need to learn more about Microsoft Word, and if you have the [[Microsoft 365]] subscription, I recommend the longer course, Word Essential Training for [[Microsoft Office|Office]] 365 or Microsoft 365.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=19)** There are other versions of Word, and there are other full length training courses available for those other versions as well.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=24)** And if you want to keep going, there are many other courses that focus on specific tasks for features in Microsoft Word, as well as other Microsoft Office applications.
+> **[0:24](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=24)** And if you want to keep going, there are many other courses that focus on specific tasks for features in Microsoft Word, as well as other [[Microsoft Office]] applications.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-word-desktop-microsoft-365/where-to-learn-more-about-word?u=76281980&t=34)** You should be able to find lots of training options.
 

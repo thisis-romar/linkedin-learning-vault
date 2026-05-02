@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identity is at the center of cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980)
+#### [Identity is at the center of cybersecurity](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980&t=19)** If yes, you should be an IAM Manager.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980&t=21)** In this course, I'll discuss the responsibilities of an IAM Manager, the essential skill sets, why communication and people management are important, and how your decisions affect your organization.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980&t=21)** In this course, I'll discuss the responsibilities of an IAM Manager, the essential skill sets, why communication and [[People Management]] are important, and how your decisions affect your organization.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/identity-is-at-the-center-of-cybersecurity?u=76281980&t=36)** I'll discuss how to identify open IAM Manager roles and offer advice for landing one.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[People Management]] (1)
+> **Frameworks & Libraries:** [[People Management]] (1)
 > **Env Vars:** iam (6)
 > **Definitions:** is a  (1)
 > **Speakers:** - data (1)
@@ -120,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of an IAM manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980)
+#### [The role of an IAM manager](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=93)** You wonder if you need to be technical in this role.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=95)** Do you need to know what Python is or how to hack your own company using Kali Linux?
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=95)** Do you need to know what [[Python (Programming Language)|Python]] is or how to hack your own company using [[Kali Linux]]?
 >
 > **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=100)** While I'm here to tell you, you do not.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=146)** IAM is one part of the organization's IT security division.
 >
-> **[2:31](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=151)** As an IAM manager, the policies you come up with needs to have feedback from your security operations team and your governance, compliance and relations teams or commonly referred to as GRC.
+> **[2:31](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=151)** As an IAM manager, the policies you come up with needs to have feedback from your [[Security Operations]] team and your governance, compliance and relations teams or commonly referred to as GRC.
 >
 > **[2:43](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-role-of-an-iam-manager?u=76281980&t=163)** Collaboration includes being able to communicate your decisions in a fashion that is simple to understand without any jargon or acronyms.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (3), next (2), leadership (2), teams (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Kali Linux]] (1), [[Security Operations]] (1)
 > **Env Vars:** iam (12), saml (1), grc (1)
 > **Analogies:** such as (2), imagine (1)
 > **Ports:** :00 (2)
@@ -197,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication goes beyond a strong password
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980)
+#### [Authentication goes beyond a strong password](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980&t=181)** If you work for a small company where the budget and resources are tight, maybe a strong password policy is enough.
 >
-> **[3:08](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980&t=188)** Ideally, for a mid-sized company, you want at least two options, also known as multi-factor authentication, such as a user pop in their passwords, then being prompted to enter a number from an RSA token.
+> **[3:08](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980&t=188)** Ideally, for a mid-sized company, you want at least two options, also known as [[Multi-factor Authentication]], such as a user pop in their passwords, then being prompted to enter a number from an RSA token.
 >
 > **[3:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/authentication-goes-beyond-a-strong-password?u=76281980&t=201)** Or if you work for a large company where resources are not an issue, you can use an application that allows the user to use a physical characteristic in addition to a strong password policy.
 >
@@ -272,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2), management (1), application (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (2)
 > **Env Vars:** rsa (3), iam (2)
 > **Definitions:** is a  (2), known as (1)
 > **CLI Commands:** make (1)
@@ -280,8 +277,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowing the different authorization models
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980)
+#### [Knowing the different authorization models](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980&t=101)** This is common because many managers want new hires to hit the ground running without the limitations of software access.
 >
-> **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980&t=108)** We hear requests such as, please mirror John's access.
+> **[1:48](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980&t=108)** We hear requests such as, please mirror [[John the Ripper|John]]'s access.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/knowing-the-different-authorization-models?u=76281980&t=112)** The problem we face is that 9 out 10 times John has access to more applications than a new hire should receive.
 >
@@ -415,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), business (2), data (1), hit (1), database (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **Env Vars:** rbac (9), abac (6), pbac (5)
 > **Analogies:** such as (6), just like (1), for example (1)
 > **Definitions:** is a  (4), known as (2), is an  (1)
@@ -424,14 +420,13 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Best Practices:** best practice (1)
 
-#### Employee and contractor lifecycle management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980)
+#### [Employee and contractor lifecycle management](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=0)** - [Instructor] Today is the big day.
 >
-> **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=1)** You arrive at the office or job location early and you sit down.
+> **[0:01](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=1)** You arrive at the [[Microsoft Office|office]] or job location early and you sit down.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=5)** Is there a computer in front of you?
 >
@@ -463,7 +458,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=89)** When we look at the joiner process, the first thing we look at is creating their new account in our system.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=95)** Take our new hire John Smith.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=95)** Take our new hire [[John the Ripper|John]] Smith.
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/employee-and-contractor-lifecycle-management?u=76281980&t=96)** John Smith is a common name and a company can have more than one.
 >
@@ -541,7 +536,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), application (3), hr (3), management (2), data (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Microsoft Office|Office]] (1)
 > **Env Vars:** iam (7), lcm (5)
 > **Definitions:** is an  (3), is a  (3), known as (1)
 > **CLI Commands:** make (3)
@@ -550,8 +545,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of certifying user access
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/importance-of-certifying-user-access?u=76281980)
+#### [Importance of certifying user access](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/importance-of-certifying-user-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,7 +611,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), application (1), aws (1)
 > **Env Vars:** iam (6), aws (1)
 > **CLI Commands:** aws (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -630,14 +623,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Being a member of the blue team
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980)
+#### [Being a member of the blue team](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=0)** - [Instructor] They say defense wins championships, and I tend to agree.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=4)** In cybersecurity, there is the red team whose job is to hack and attempt to get into systems, the blue team who's put up barriers to stop hackers from getting into systems, and the purple team which takes the best of both worlds.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=4)** In [[Cybersecurity]], there is the red team whose job is to hack and attempt to get into systems, the blue team who's put up barriers to stop hackers from getting into systems, and the purple team which takes the best of both worlds.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=17)** As IAM managers, we play for the blue team.
 >
@@ -649,7 +641,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=41)** Our goal as the IAM manager is to protect our company assets, our workers.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=47)** To do that, we must put up guardrails such as implementing a strong password policy, using multi-factor authentication, and requiring certifications on privileged users more often than record users.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=47)** To do that, we must put up guardrails such as implementing a strong password policy, using [[Multi-factor Authentication]], and requiring certifications on privileged users more often than record users.
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/being-a-member-of-the-blue-team?u=76281980&t=59)** One challenge IAM managers face is making guardrails to protect our users, but do not add a significant layer of complexity that adds burdens to our user.
 >
@@ -681,14 +673,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), teams (2), [[Multi-factor Authentication]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Multi-factor Authentication]] (1)
 > **Env Vars:** iam (8), grc (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Your decisions impact everyone in the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980)
+#### [Your decisions impact everyone in the organization](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=83)** Similar to the proposed policy you mentioned earlier other common scenarios seen often are organizations asking users to put an app on their smartphone that will send a notification to confirm when logging into a system and even present their location.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=98)** Today where privacy is a hot topic this request could feel intrusive.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=98)** Today where [[Privacy]] is a hot topic this request could feel intrusive.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=103)** When we make a decision, our job should always involve multiple teams.
 >
@@ -730,7 +721,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=113)** Their input is critical since they have metrics on common complaints submitted and can suggest how end users respond to a new policy.
 >
-> **[2:02](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=122)** The other team should be our security operations or SecOps team.
+> **[2:02](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=122)** The other team should be our [[Security Operations]] or SecOps team.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/your-decisions-impact-everyone-in-the-organization?u=76281980&t=126)** The SecOps team provides input on if our proposed policies are too lax or overly secure and they also offer insight on if vulnerabilities are present in our proposed approach.
 >
@@ -740,7 +731,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), teams (2), management (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Security Operations]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** iam (5)
 > **Analogies:** imagine (1), similar to (1), such as (1)
@@ -748,8 +739,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Mentoring junior analysts
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/mentoring-junior-analysts?u=76281980)
+#### [Mentoring junior analysts](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/mentoring-junior-analysts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,14 +831,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), management (1), next (1), application (1)
 > **Analogies:** for example (2)
 > **Env Vars:** iam (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing senior analysts and engineers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/managing-senior-analysts-and-engineers?u=76281980)
+#### [Managing senior analysts and engineers](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/managing-senior-analysts-and-engineers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,7 +892,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), management (1), leadership (1)
 > **Cross-References:** previous video (1), in the last (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -917,12 +904,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You don't need to be an expert in everything
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980)
+#### [You don't need to be an expert in everything](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=0)** - [Instructor] Blowfish, Active Directory, and policy-based access control.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=0)** - [Instructor] Blowfish, [[Active Directory]], and policy-based access control.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=4)** Should I know what each of the IAM's supposed to do?
 >
@@ -956,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=72)** However, I do not need to know how to set up a firewall but I should know what policies or rules assign access to manage a firewall.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=81)** I bet you want to know how a person with a business background learned IAM concepts and other cybersecurity fields.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=81)** I bet you want to know how a person with a business background learned IAM concepts and other [[Cybersecurity]] fields.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=88)** I did three things.
 >
@@ -972,9 +958,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=121)** Finally, I took the time to get hands-on experience.
 >
-> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=124)** Microsoft lets you download a trial of Azure Active Directory for you to learn.
+> **[2:04](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=124)** [[Microsoft]] lets you download a trial of [[Microsoft Entra ID|Azure Active Directory]] for you to learn.
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=129)** Websites such as [freecodecamp.org](https://freecodecamp.org) offers free videos on technical languages such as system querying language, or SQL.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=129)** Websites such as [freecodecamp.org](https://freecodecamp.org) offers free videos on technical languages such as system querying language, or [[SQL]].
 >
 > **[2:19](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/you-don-t-need-to-be-an-expert-in-everything?u=76281980&t=139)** A solid technical background is good, but you do not need to be an expert to be considered an IAM manager.
 >
@@ -984,7 +970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (2), business (2), [[Cybersecurity]] (1), [[Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Cybersecurity]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[SQL]] (1)
 > **Env Vars:** iam (13), sql (1)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is an  (2), is a  (1)
@@ -992,8 +978,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Utilizing the plan, build, run model
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980)
+#### [Utilizing the plan, build, run model](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1018,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980&t=96)** As the IAM manager, your role is to have strong training material readily available.
 >
-> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980&t=101)** Training materials can be hands-on, video tutorials, a frequently asked questions sheet, or even office hours to allow end users to join a live session where questions can be answered in real time.
+> **[1:41](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980&t=101)** Training materials can be hands-on, video tutorials, a frequently asked questions sheet, or even [[Microsoft Office|office]] hours to allow end users to join a live session where questions can be answered in real time.
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/utilizing-the-plan-build-run-model?u=76281980&t=113)** As an IAM manager, knowing this framework is essential as you consider upgrading your current processes and application.
 >
@@ -1041,14 +1026,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Env Vars:** iam (4)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delegation is your best friend
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980)
+#### [Delegation is your best friend](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,17 +1080,17 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=109)** Remember, we can't do everything.
 >
-> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=112)** As IAM managers, our primary goal is to establish policy that will strengthen our organization's identity maturity without sacrificing end user experience.
+> **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=112)** As IAM managers, our primary goal is to establish policy that will strengthen our organization's identity maturity without sacrificing end [[User Experience (UX)|user experience]].
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=122)** With mental health being widely recognized delegating tasks will keep you from burning out and allow your team to grow.
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=129)** John C. Maxwell, the author of Developing the Leaders Around You, wrote, if you want to do a few small things right, do them yourself.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=129)** [[John the Ripper|John]] C. Maxwell, the author of Developing the Leaders Around You, wrote, if you want to do a few small things right, do them yourself.
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/delegation-is-your-best-friend?u=76281980&t=138)** If you want to do great things and make a big impact, learn to delegate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[John the Ripper|John]] (1)
 > **Env Vars:** iam (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1116,8 +1100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your professional network
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980)
+#### [Building your professional network](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,7 +1112,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=21)** First step should be expanding your network but how do you build your network?
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=25)** As funny as it sounds, using LinkedIn is a great community to find like-minded professionals.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=25)** As funny as it sounds, using [[LinkedIn]] is a great community to find like-minded professionals.
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=31)** You can find professionals who have experience with IAM specific companies such as OKTO or CellPoint.
 >
@@ -1141,7 +1124,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=60)** From my experience many group members enjoy welcoming new members and are open to answering questions.
 >
-> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=66)** Another way to build your network is to attend conferences specific to IAM or cybersecurity in general.
+> **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=66)** Another way to build your network is to attend conferences specific to IAM or [[Cybersecurity]] in general.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=73)** I cannot tell you the number of incredible professionals I have met at panels or vendor booths.
 >
@@ -1165,23 +1148,22 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=132)** He worked as a senior recruiter and had an open role as an IAM manager.
 >
-> **[2:16](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=136)** He showed my video to his chief information officer and the rest is history.
+> **[2:16](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/building-your-professional-network?u=76281980&t=136)** He showed my video to his chief information officer and the [[Representational State Transfer (REST)|rest]] is history.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), feature (1), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Cybersecurity]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** iam (12), okto (1)
 > **CLI Commands:** find (4)
 > **Analogies:** such as (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### The IAM manager interview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980)
+#### [The IAM manager interview](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=0)** - [Instructor] You connected with other professionals on LinkedIn or attended a conference where you learn someone is looking for an IAM manager.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=0)** - [Instructor] You connected with other professionals on [[LinkedIn]] or attended a conference where you learn someone is looking for an IAM manager.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=7)** You feel confident this is a role for you.
 >
@@ -1217,7 +1199,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=125)** Identity access to a healthcare organization differs from those in the food or government.
 >
-> **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=132)** For example, if you are applying for a healthcare organization, you should be familiar with the requirements pertain to the Health Insurance Portability and Accountability Act or HIPAA for short.
+> **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=132)** For example, if you are applying for a healthcare organization, you should be familiar with the requirements pertain to the Health Insurance Portability and [[Accountability]] Act or HIPAA for short.
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=143)** Finally, I get this question often: Do I need a certification?
 >
@@ -1233,7 +1215,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=178)** If there is one certification in which you choose to invest your time, I lean toward the Security+.
 >
-> **[3:03](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=183)** Security+ touches the different areas of security, such as networking, the cloud, other cybersecurity laws, and much more.
+> **[3:03](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=183)** Security+ touches the different areas of security, such as networking, the cloud, other [[Cybersecurity]] laws, and much more.
 >
 > **[3:11](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/the-iam-manager-interview?u=76281980&t=191)** LinkedIn Learning has over 2000 amazing courses and videos that can help you prepare for the certification.
 >
@@ -1247,24 +1229,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[LinkedIn]] (2), leadership (1), [[Accountability]] (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Accountability]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** iam (6), star (3), hipaa (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Market outlook for an IAM manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980)
+#### [Market outlook for an IAM manager](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=0)** - [Narrator] As data breaches increase yearly, the need for identity and access management analysts, engineers and managers, also increases.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=8)** According to the latest Verizon data breach investigation report, 82% of breaches are related to some form of human action, mainly stolen credentials, but also phishing attacks.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=8)** According to the latest Verizon data breach investigation report, 82% of breaches are related to some form of human action, mainly stolen credentials, but also [[Phishing]] attacks.
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=20)** Add the recent pandemic that forced companies to allow remote work, the need for experienced IAM managers has doubled.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=27)** According to cybersecurity ventures, there is an estimated 3.5 million open cybersecurity rules worldwide.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=27)** According to [[Cybersecurity]] ventures, there is an estimated 3.5 million open cybersecurity rules worldwide.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/market-outlook-for-an-iam-manager?u=76281980&t=34)** Today is a great time to jump into the IAM space.
 >
@@ -1284,7 +1265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Cybersecurity]] (3), management (1), [[Phishing]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Phishing]] (1)
 > **Env Vars:** iam (6)
 > **Definitions:** is a  (2), is an  (1)
 > **URLs:** [salary.com](https://salary.com) (1), [indeed.com](https://indeed.com) (1)
@@ -1296,8 +1277,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Are you ready to make a difference as an IAM manager?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/are-you-ready-to-make-a-difference-as-an-iam-manager?u=76281980)
+#### [Are you ready to make a difference as an IAM manager?](https://www.linkedin.com/learning/cybersecurity-careers-become-an-identity-and-access-management-manager/are-you-ready-to-make-a-difference-as-an-iam-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1331,7 +1311,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), business (1)
 > **Env Vars:** iam (5)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)

@@ -135,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Turn data into information with queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
+#### [Turn data into information with queries](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=0)** - There is little point in saving data in a SQL Server database if you never actually do anything with it.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=0)** - There is little point in saving data in a [[Microsoft SQL Server|SQL Server]] database if you never actually do anything with it.
 >
 > **[0:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=7)** The process of retrieving data is called querying, and learning how to write queries is an essential skill for any database user.
 >
@@ -150,27 +149,26 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=31)** It's when all of the time and hard work spent building a flexible database really pays off, and you can start to turn all of that raw data into useful, actionable information.
 >
-> **[0:41](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=41)** So join me in my LinkedIn Learning course on writing queries for SQL Server databases, and start to leverage this power for yourself.
+> **[0:41](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/turn-data-into-information-with-queries?u=76281980&t=41)** So join me in my [[LinkedIn]] Learning course on writing queries for SQL Server [[Databases]], and start to leverage this power for yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[Microsoft SQL Server|Sql server]] (2), [[LinkedIn]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[LinkedIn]] (1), [[Databases]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (1), is an  (1)
 > **Speakers:** - there (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is going to focus on retrieving information from data tables stored in a SQL Server database.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is going to focus on retrieving information from data tables stored in a [[Microsoft SQL Server|SQL Server]] database.
 >
 > **[0:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=7)** Because we're starting from a point where a database has already been created and data has already been saved, this course really won't be a good introduction to SQL Server, if you're brand new to the platform.
 >
-> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=20)** You should come prepared with a little knowledge about SQL Server databases.
+> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=20)** You should come prepared with a little knowledge about SQL Server [[Databases]].
 >
-> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=24)** If you need to consider taking my SQL Server 2022 Essential Training course for a detailed overview or my short introductory course Learning Microsoft SQL Server 2022, either of these courses will give you a great starting point so that you can make the most of your time here.
+> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=24)** If you need to consider taking my SQL Server 2022 Essential Training course for a detailed overview or my short introductory course Learning [[Microsoft SQL Server]] 2022, either of these courses will give you a great starting point so that you can make the most of your time here.
 >
 > **[0:41](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-you-should-know?u=76281980&t=41)** Once you know how to install SQL Server, log into the server and create a simple database using Management Studio.
 >
@@ -178,28 +176,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), database (3), data (2), [[Databases]] (1), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (6)
 > **CLI Commands:** make (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Download the sample database
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980)
+#### [Download the sample database](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=0)** - [Instructor] Querying a database is all about pulling useful information out of your tables.
 >
-> **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=5)** In order to learn about queries and SQL Server, we need to have a database with some interesting data that we can review.
+> **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=5)** In order to learn about queries and [[Microsoft SQL Server|SQL Server]], we need to have a database with some interesting data that we can review.
 >
 > **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=12)** For this course, I'm going to use the sample database for a fictional company called AdventureWorks.
 >
-> **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=18)** You can find a download link to the database from the Microsoft GitHub page.
+> **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=18)** You can find a download link to the database from the [[Microsoft]] [[GitHub]] page.
 >
 > **[0:23](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=23)** I'm going to scroll down on this page here a little bit until I get to the downloadable backup files.
 >
-> **[0:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=28)** Now, there's different versions of AdventureWorks for different versions of SQL Server, but the data that all of these databases contain is exactly the same.
+> **[0:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=28)** Now, there's different versions of AdventureWorks for different versions of SQL Server, but the data that all of these [[Databases]] contain is exactly the same.
 >
 > **[0:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=36)** So, it really doesn't matter which of these you choose.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=52)** I'll go ahead and minimize my web browser, and we'll go into the Downloads folder where I'll find the file that it just downloaded and I'm going to cut it to my clipboard.
 >
-> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=60)** Then we'll go into the C: Drive, program files, Microsoft SQL Server, the folder for the server instance that we're working with.
+> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=60)** Then we'll go into the C: Drive, program files, [[Microsoft SQL Server]], the folder for the server instance that we're working with.
 >
 > **[1:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/download-the-sample-database?u=76281980&t=68)** Mine is called MSSQL.16.MSSQLSERVER.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Microsoft SQL Server|Sql server]] (3), data (3), [[Databases]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[Microsoft]] (1), [[GitHub]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (4), mssql (1), mssqlserver (1), msssql (1), ssms (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -264,8 +261,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the code challenge environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980)
+#### [Exploring the code challenge environment](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980&t=15)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:23](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the LinkedIn Learning mobile app, if you prefer.
+> **[0:23](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980&t=23)** We recommend using a desktop browser for the best experience with code challenges, but you can also use the [[LinkedIn]] Learning mobile app, if you prefer.
 >
 > **[0:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/exploring-the-code-challenge-environment?u=76281980&t=33)** The code challenge has three areas.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** max (1)
 > **Cross-References:** next video (1)
@@ -318,16 +314,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Transact SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
+#### [What is Transact SQL?](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=0)** - [Instructor] In the world of relational databases, you won't get very far before you run into a need to be able to read and write structured query language commands.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=0)** - [Instructor] In the world of [[Relational Databases]], you won't get very far before you run into a need to be able to read and write structured query language commands.
 >
-> **[0:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=9)** SQL, often pronounced as sequel, stands for Structured Query Language.
+> **[0:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=9)** [[SQL]], often pronounced as sequel, stands for Structured Query Language.
 >
-> **[0:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=14)** It's been around for several decades and it's become the defacto language for interacting with all relational database management systems.
+> **[0:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=14)** It's been around for several decades and it's become the defacto language for interacting with all relational [[Database Management]] systems.
 >
 > **[0:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=22)** But not all versions of the SQL language are exactly the same.
 >
@@ -347,11 +342,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=78)** First you have ANSI SQL, which is the standard format that's defined by the American National Standards Institute.
 >
-> **[1:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=85)** And then you have offshoots developed for Oracle databases or by Microsoft for SQL Server.
+> **[1:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=85)** And then you have offshoots developed for Oracle [[Databases]] or by [[Microsoft]] for [[Microsoft SQL Server|SQL Server]].
 >
-> **[1:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=91)** In this course, we're going to focus on the Microsoft SQL Server dialect that goes by the brand named Transact SQL, or simply T-SQL.
+> **[1:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=91)** In this course, we're going to focus on the [[Microsoft SQL Server]] dialect that goes by the brand named Transact SQL, or simply T-SQL.
 >
-> **[1:40](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=100)** Transact SQL is used for performing all kinds of actions on a SQL server database, regardless of whether it's running on local hardware or in the Azure Cloud.
+> **[1:40](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=100)** Transact SQL is used for performing all kinds of actions on a SQL server database, regardless of whether it's running on local [[Hardware]] or in the [[Microsoft Azure|Azure]] Cloud.
 >
 > **[1:50](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=110)** The components of the language can be broken down into three categories.
 >
@@ -363,9 +358,9 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=136)** The SQL language includes commands to perform all of these tasks and many more.
 >
-> **[2:21](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=141)** But the the most important thing that the SQL language can do, and what we're going to focus on in this course, is a set of commands that are collectively called Data Manipulation Language, or DML.
+> **[2:21](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=141)** But the the most important thing that the SQL language can do, and what we're going to focus on in this course, is a set of commands that are collectively called [[Data Manipulation]] Language, or DML.
 >
-> **[2:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=153)** These commands allow you to literally ask questions about your data by writing database queries.
+> **[2:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=153)** These commands allow you to literally ask questions about your data by writing [[Database Queries]].
 >
 > **[2:39](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-transact-sql?u=76281980&t=159)** Querying a database is the process of retrieving data that's been stored, and these DML commands help users turn that raw data into useful information.
 >
@@ -379,25 +374,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), database (9), data (6), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Database Queries]] (2), [[Relational Databases]] (1)
 > **Env Vars:** sql (16), ddl (2), dml (2), rdbms (1), ansi (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### The SQL querying environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980)
+#### [The SQL querying environment](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=0)** - One of the most common database queries is to retrieve a number of records from a data table.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=0)** - One of the most common [[Database Queries]] is to retrieve a number of records from a data table.
 >
-> **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=5)** In fact, this query is so common that the graphical interface here in Management Studio, provides this query as a menu item so that it can be executed without having to write any SQL code ourselves.
+> **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=5)** In fact, this query is so common that the graphical interface here in Management Studio, provides this query as a menu item so that it can be executed without having to write any [[SQL]] code ourselves.
 >
 > **[0:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=17)** Let's go into the Adventure Works Database and I'll expand the Tables folder, and here we have all the different data tables in this database.
 >
-> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=24)** I'm going to find the one in the Human Resources schema called Department, then I'll right-click on it and choose Select Top 1000 Rows.
+> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=24)** I'm going to find the one in the [[Human Resources (HR)|Human Resources]] schema called Department, then I'll right-click on it and choose Select Top 1000 Rows.
 >
 > **[0:34](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=34)** This runs a query that asks the basic question, what data is in this table?
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=132)** You're going to be executing a lot of queries if you follow along, so F5 is a good shortcut to commit to memory.
 >
-> **[2:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=140)** Executing the query tells the system to go out and fetch the requested data from the database.
+> **[2:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=140)** Executing the query tells the system to go out and [[Fetch]] the requested data from the database.
 >
 > **[2:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=146)** This is when the data is read from the tables, compiled into the format that you specified and filters are applied so that you only get back the data that you requested to see.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=229)** You can open it inside of Notepad and you can see the results right there.
 >
-> **[3:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=233)** So we can export our data from SQL Server into a plain text file with that export option.
+> **[3:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=233)** So we can export our data from [[Microsoft SQL Server|SQL Server]] into a plain text file with that export option.
 >
 > **[3:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=238)** All right, let me go ahead and close that and I'll just throw this file away.
 >
@@ -471,7 +465,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=251)** Next to this results tab, we have the tab for messages.
 >
-> **[4:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=255)** This will display any error messages if your query was unable to execute for any reason or it'll give you some basic statistics if the query ran without any problems.
+> **[4:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=255)** This will display any error messages if your query was unable to execute for any reason or it'll give you some basic [[Statistics]] if the query ran without any problems.
 >
 > **[4:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-sql-querying-environment?u=76281980&t=265)** In this case, I simply see that 16 records were returned from the department table and the time and date that the query was executed.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (8), [[SQL]] (6), management (3), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Microsoft SQL Server|Sql server]] (2), [[Database Queries]] (1), [[Human Resources (HR)|Human resources]] (1), [[Fetch]] (1)
 > **Env Vars:** sql (7), ssms (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** right-click (2), go to (1), checkbox (1)
@@ -552,12 +546,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Return records with SELECT and FROM
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980)
+#### [Return records with SELECT and FROM](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=0)** - Whenever you want to retrieve data from a database, you'll need to write a SQL select statement.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=0)** - Whenever you want to retrieve data from a database, you'll need to write a [[SQL]] select statement.
 >
 > **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=6)** Select statements are exceptionally powerful, and it can include a number of clauses, criteria, and conditions that'll help you retrieve exactly the information that you need from a database in exactly the format and arrangement that you need it.
 >
@@ -565,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=28)** If you have any tabs open from the previous movie, feel free to close them without saving any changes.
 >
-> **[0:34](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=34)** To start, simply type out the word select.
+> **[0:34](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=34)** To start, simply type out the [[Microsoft Word|word]] select.
 >
 > **[0:39](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=39)** The SQL language is case insensitive which means that it doesn't matter if you use uppercase or lowercase letters.
 >
@@ -579,11 +572,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=66)** I'll finish the line with the statement terminator character which is a semicolon.
 >
-> **[1:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=71)** This character isn't strictly required in SQL Server.
+> **[1:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=71)** This character isn't strictly required in [[Microsoft SQL Server|SQL Server]].
 >
 > **[1:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=74)** Your queries will execute just fine if you don't type this semicolon in.
 >
-> **[1:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=79)** But Microsoft recommends that you do include it as it might become a requirement in the future.
+> **[1:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=79)** But [[Microsoft]] recommends that you do include it as it might become a requirement in the future.
 >
 > **[1:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=84)** So, it's probably just best to get in the habit of including it right from the start.
 >
@@ -635,7 +628,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=193)** But what you really want to query is to return data that's stored in your tables.
 >
-> **[3:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=198)** The Adventure Works database has a table called Department in the human resources schema.
+> **[3:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=198)** The Adventure Works database has a table called Department in the [[Human Resources (HR)|human resources]] schema.
 >
 > **[3:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=204)** Let me expand that over here inside of the Object Explorer window, and I'll expand the columns to see all of the columns that are in that department table.
 >
@@ -677,7 +670,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=313)** This dropdown menu in the toolbar here will show you the target database.
 >
-> **[5:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=317)** You want to make sure that it's set to Adventure Works and not any of the other databases that might exist on your server.
+> **[5:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=317)** You want to make sure that it's set to Adventure Works and not any of the other [[Databases]] that might exist on your server.
 >
 > **[5:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-records-with-select-and-from?u=76281980&t=324)** Then go ahead and press the execute button.
 >
@@ -743,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), data (6), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Human Resources (HR)|Human resources]] (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (3), [[Human Resources (HR)|Human resources]] (3), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (7)
 > **Definitions:** is a  (3), means that (2)
 > **CLI Commands:** make (2), find (1)
@@ -752,8 +745,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), be aware (1)
 > **Cross-References:** go back to (1)
 
-#### Filter records with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980)
+#### [Filter records with WHERE](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +755,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=16)** Let's continue working on the department table in the Adventure Works Database.
 >
-> **[0:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=19)** I currently have a select statement that simply reads, select star from Human Resources dot Department.
+> **[0:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=19)** I currently have a select statement that simply reads, select star from [[Human Resources (HR)|Human Resources]] dot Department.
 >
 > **[0:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=25)** The results display everything that the table contains all 16 rows. Now, if I'm only interested in departments in a specific group name, I can add a WHERE clause to filter the results.
 >
@@ -813,7 +805,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=193)** There is a built-in function that you can use when listing multiple WHERE criteria in your queries, and that's the N Function.
 >
-> **[3:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=200)** For instance, one way to retrieve departments in multiple groups would be something like this, where the group name is equal to Research and Development, or the group name is equal to Quality Assurance.
+> **[3:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=200)** For instance, one way to retrieve departments in multiple groups would be something like this, where the group name is equal to Research and Development, or the group name is equal to [[Quality Assurance]].
 >
 > **[3:34](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-records-with-where?u=76281980&t=214)** (computer typing) Now, this is getting a little bit long, so let me go ahead and place the second predicate here with the or statement on line number four.
 >
@@ -831,7 +823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Quality Assurance]] (3), database (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **SQL:** where (8)
 > **Env Vars:** where (8)
 > **Analogies:** for instance (2), such as (1)
@@ -840,8 +832,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sort records with ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/sort-records-with-order-by?u=76281980)
+#### [Sort records with ORDER BY](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/sort-records-with-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +898,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (1), management (1)
 > **Env Vars:** order (7), select (2), where (1), desc (1)
 > **SQL:** order by (6), select (2), where (1)
 > **UI Navigation:** scroll down (2)
@@ -915,8 +905,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/column-aliases?u=76281980)
+#### [Column aliases](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/column-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,13 +959,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (2), database (1)
 > **SQL:** select (3)
 > **Env Vars:** select (3)
 > **Speakers:** - [instructor] (1)
 
-#### Create values with constants and math
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980)
+#### [Create values with constants and math](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=15)** Let's explore some data from a different table now.
 >
-> **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=18)** Let me go ahead and minimize the human resources dot department table and I'll scroll down to the production schema.
+> **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=18)** Let me go ahead and minimize the [[Human Resources (HR)|human resources]] dot department table and I'll scroll down to the production schema.
 >
 > **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=24)** We'll find a table called production dot product.
 >
@@ -1034,7 +1021,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=153)** When I press execute, we can see that column gets listed over here on the right.
 >
-> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=158)** Now I can see we have a lot of products that don't actually have any price, so let's exclude these from the results.
+> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=158)** Now I can see we have a lot of [[Microsoft Products|products]] that don't actually have any price, so let's exclude these from the results.
 >
 > **[2:44](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-values-with-constants-and-math?u=76281980&t=164)** I can do that by adding a where clause after the from clause. Let's move the Terminator character to the line number six.
 >
@@ -1068,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (6), [[Microsoft Products|Products]] (2), database (2), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.85 (2)
 > **UI Navigation:** scroll down (1)
@@ -1076,20 +1063,19 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - sometimes (1)
 
-#### Challenge: Write a SELECT query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980)
+#### [Challenge: Write a SELECT query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=0)** (upbeat funky music)
 >
-> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=6)** - [Tutor] Now that you've seen a few of the clauses that make up a SQL select query, it's time to put that knowledge to the test with our first challenge.
+> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=6)** - [Tutor] Now that you've seen a few of the clauses that make up a [[SQL]] select query, it's time to put that knowledge to the test with our first challenge.
 >
 > **[0:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=14)** In the AdventureWorks database there's a table called production.WorkOrder.
 >
 > **[0:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=19)** This table stores information about the production of the items that AdventureWorks manufacturers.
 >
-> **[0:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=25)** Now unfortunately, sometimes the manufacturing process encounters a problem, and products need to be discarded or scrapped.
+> **[0:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=25)** Now unfortunately, sometimes the manufacturing process encounters a problem, and [[Microsoft Products|products]] need to be discarded or scrapped.
 >
 > **[0:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=33)** I want you to find all of the work orders from the month of December, 2013 that had a scrapped quantity above zero units.
 >
@@ -1097,7 +1083,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=50)** I will give you one hint here.
 >
-> **[0:51](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=51)** In SQL server, dates are treated like text strings, so you'll want to write them out in single quotation marks in your query predicates.
+> **[0:51](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=51)** In [[Microsoft SQL Server|SQL server]], dates are treated like text strings, so you'll want to write them out in single quotation marks in your query predicates.
 >
 > **[0:59](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-select-query?u=76281980&t=59)** And use the year, month, day format that's shown here.
 >
@@ -1107,14 +1093,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (1), database (1), [[Microsoft Products|Products]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Products|Products]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **Speakers:** - [tutor] (1)
 > **Non-Speech:** (upbeat funky music) (1)
 
-#### Solution: Write a SELECT query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980)
+#### [Solution: Write a SELECT query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1228,13 +1213,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980&t=236)** And that is my solution to the challenge.
 >
-> **[3:59](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980&t=239)** I'll go ahead and save all of this text inside of the exercise files as challengeonecomplete.sql and you can compare your solution against mine.
+> **[3:59](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980&t=239)** I'll go ahead and save all of this text inside of the exercise files as challengeonecomplete.[[SQL]] and you can compare your solution against mine.
 >
 > **[4:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-select-query?u=76281980&t=247)** And just know that there's lots of different ways you can get to a similar answer, just depending on how you interpreted the question.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **CLI Commands:** find (6), make (1)
 > **File Paths:** challengeonecomplete.sql (1)
 > **UI Navigation:** scroll down (1)
@@ -1242,8 +1227,7 @@ created: 2026-05-02
 > **Speakers:** - i (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Query information from a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980)
+#### [Solution: Query information from a database](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1251,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=69)** Now we need to supply some better aliases.
 >
-> **[1:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=72)** We're asked to clean up the column names and make them a little simpler by adding one-word column names here, so I'll go through and add in all of my aliases with the AS keyword.
+> **[1:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=72)** We're asked to clean up the column names and make them a little simpler by adding one-[[Microsoft Word|word]] column names here, so I'll go through and add in all of my aliases with the AS keyword.
 >
 > **[1:21](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=81)** So TenantName, we'll rename as Tenant.
 >
@@ -1297,7 +1281,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=154)** And this only applies to the CoderPad environment where it is case-sensitive.
 >
-> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=158)** If you were running this inside of SQL server, it is not case-sensitive in an actual SQL server instance, so you could put paid here with a lowercase P and that would still match.
+> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=158)** If you were running this inside of [[Microsoft SQL Server|SQL server]], it is not case-sensitive in an actual SQL server instance, so you could put paid here with a lowercase P and that would still match.
 >
 > **[2:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-query-information-from-a-database?u=76281980&t=167)** But here in the challenge, I do need to say capital P Paid.
 >
@@ -1349,7 +1333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** where (6), select (3), sql (2), status (1), price (1)
 > **Non-Speech:** (keys typing) (13), (upbeat music) (1)
 > **SQL:** where (6), select (3), order by (1)
@@ -1361,8 +1345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Limit results with TOP
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
+#### [Limit results with TOP](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1430,7 +1413,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980&t=181)** This is approximately half of the original 29 that we started with.
 >
-> **[3:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980&t=186)** Note that you need to use the full word percent, you can't use the percent symbol.
+> **[3:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980&t=186)** Note that you need to use the full [[Microsoft Word|word]] percent, you can't use the percent symbol.
 >
 > **[3:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/limit-results-with-top?u=76281980&t=191)** If you try and use the percent symbol here it'll cause the query to fail with an error message.
 >
@@ -1460,7 +1443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gst (1)
 > **Cross-References:** in the last (1)
@@ -1469,8 +1452,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** note that (1)
 
-#### Remove duplicates with DISTINCT
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/remove-duplicates-with-distinct?u=76281980)
+#### [Remove duplicates with DISTINCT](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/remove-duplicates-with-distinct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,7 +1514,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2)
 > **Env Vars:** select (6), distinct (1), order (1)
 > **SQL:** select (6), order by (1)
 > **CLI Commands:** find (1)
@@ -1540,8 +1521,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparison operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980)
+#### [Comparison operators](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1555,11 +1535,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=33)** They're not equal to, not less than, and not greater than.
 >
-> **[0:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=38)** This format is not common to see though but you might run across them when exploring queries in databases that other people have made.
+> **[0:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=38)** This format is not common to see though but you might run across them when exploring queries in [[Databases]] that other people have made.
 >
 > **[0:45](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=45)** So it's a good idea to be familiar with what they are.
 >
-> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=48)** I'd recommend sticking with the standard format when writing queries in SQL Server.
+> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=48)** I'd recommend sticking with the standard format when writing queries in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/comparison-operators?u=76281980&t=53)** So let's see these in action in a couple of queries.
 >
@@ -1615,7 +1595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (5)
 > **Versions:** 7.25 (4)
 > **Analogies:** for instance (4)
@@ -1624,8 +1604,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand NULL values
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980)
+#### [Understand NULL values](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1635,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=17)** It just does not make any sense to ask for records where a Null is equal to something or not equal or greater than some other value.
 >
-> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=26)** That's why SQL Server gives us two alternate ways to work with records that contain Null values.
+> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=26)** That's why [[Microsoft SQL Server|SQL Server]] gives us two alternate ways to work with records that contain Null values.
 >
 > **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=32)** Let's take a look by creating a query that retrieves data from the WorkOrder table.
 >
@@ -1677,7 +1656,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=173)** Then instead of displaying just the data that's in the ScrapReasonID column from the table, I want to modify those values with a function called ISNULL.
 >
-> **[3:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=184)** The function name does not have a space in between the word is and null like we do when we're using it in a WHERE clause.
+> **[3:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=184)** The function name does not have a space in between the [[Microsoft Word|word]] is and null like we do when we're using it in a WHERE clause.
 >
 > **[3:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-null-values?u=76281980&t=190)** We'll talk more about modifying data with functions later on in the course, but for now all you need to know is that you use a function you just type in a name and then inside a parenthesis you'll list out the parameters that the function requires as a comma separated list.
 >
@@ -1707,14 +1686,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** where (5), isnull (5), sql (1), select (1), isnotnull (1)
 > **SQL:** where (5), select (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for instance (2)
 
-#### Match text with LIKE and wildcards
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980)
+#### [Match text with LIKE and wildcards](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,7 +1728,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980&t=125)** If you want to create a pattern that matches a single character only, you'll use the underscore symbol.
 >
-> **[2:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980&t=131)** For instance, if I specify where the first name is like A, underscore, underscore, underscore, SQL server will return all of the names that have a first name that starts with the letter A, and then has three additional letters.
+> **[2:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980&t=131)** For instance, if I specify where the first name is like A, underscore, underscore, underscore, [[Microsoft SQL Server|SQL server]] will return all of the names that have a first name that starts with the letter A, and then has three additional letters.
 >
 > **[2:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/match-text-with-like-and-wildcards?u=76281980&t=147)** You can also be more specific about what letters you want to search for by providing a list of characters in square brackets.
 >
@@ -1784,7 +1762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[Search]] (2), [[Microsoft SQL Server|Sql server]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (6)
 > **Analogies:** for instance (2), such as (1)
 > **Env Vars:** sql (1)
@@ -1792,8 +1770,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Retrieve matching text strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980)
+#### [Challenge: Retrieve matching text strings](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,7 +1780,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980&t=15)** There you'll find a list of all of the vendor names that do business with AdventureWorks.
 >
-> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980&t=20)** I'd like you to locate all of the vendors that start with a letter C, then filter those results further by finding just the names that also include the word bike or bicycle.
+> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980&t=20)** I'd like you to locate all of the vendors that start with a letter C, then filter those results further by finding just the names that also include the [[Microsoft Word|word]] bike or bicycle.
 >
 > **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-retrieve-matching-text-strings?u=76281980&t=32)** Depending on how you write the query, you may need to pay special attention to the use of parentheses to ensure that your predicates match, and the query is actually returning the results that you intend.
 >
@@ -1813,14 +1790,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), business (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Retrieve matching text strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980)
+#### [Solution: Retrieve matching text strings](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1838,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=72)** So these are the 15 vendors that all start with the letter C.
 >
-> **[1:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=76)** Now I want to filter these further and find just the vendors that also include the word bike or bicycle.
+> **[1:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=76)** Now I want to filter these further and find just the vendors that also include the [[Microsoft Word|word]] bike or bicycle.
 >
 > **[1:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=84)** So let's go ahead and continue adding onto our where clause for that.
 >
@@ -1940,19 +1916,18 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=284)** So this is my solution to the challenge.
 >
-> **[4:45](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=285)** I'll go ahead and save it as Challenge Two Complete.SQL and you can compare my solutions against yours.
+> **[4:45](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-retrieve-matching-text-strings?u=76281980&t=285)** I'll go ahead and save it as Challenge Two Complete.[[SQL]] and you can compare my solutions against yours.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), database (1), data (1), [[Search]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[SQL]] (1)
 > **CLI Commands:** find (4)
 > **File Paths:** complete.sql (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Filter results from a query result
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980)
+#### [Solution: Filter results from a query result](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1986,7 +1961,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980&t=78)** Now, I can't just say WHERE ReviewText is equal to mystery because that's going to look for exactly that text.
 >
-> **[1:29](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980&t=89)** And you can see these all have sentences, so none of 'em are exactly going to match the word mystery.
+> **[1:29](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980&t=89)** And you can see these all have sentences, so none of 'em are exactly going to match the [[Microsoft Word|word]] mystery.
 >
 > **[1:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-filter-results-from-a-query-result?u=76281980&t=93)** What we need to do is use text pattern matching to find all of the rows that contain the word mystery somewhere inside of their text.
 >
@@ -2040,7 +2015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7)
 > **SQL:** where (5), select (3)
 > **Env Vars:** where (5), select (3)
 > **CLI Commands:** find (4), make (3)
@@ -2054,18 +2029,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Table joins and relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
+#### [Table joins and relationships](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=0)** - [Instructor] Relational databases are efficient for storing data because they minimize redundancy.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=0)** - [Instructor] [[Relational Databases]] are efficient for storing data because they minimize redundancy.
 >
 > **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=6)** They do this by splitting information up and storing it in multiple related tables.
 >
 > **[0:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=11)** This allows the database to compartmentalize data but it does require users to join records back together again when they want to review information that's been spread out across several tables.
 >
-> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=24)** There are four different types of joins that you can make between two related tables in your SQL queries.
+> **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=24)** There are four different types of joins that you can make between two related tables in your [[SQL]] queries.
 >
 > **[0:30](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=30)** They're an inner join, a left outer join, a right outer join, and a full outer join.
 >
@@ -2073,7 +2047,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=40)** The first, and by far the most common, join that you can create between two related tables is called an inner join.
 >
-> **[0:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=47)** In fact, this is the default join type in SQL Server.
+> **[0:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=47)** In fact, this is the default join type in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:51](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/table-joins-and-relationships?u=76281980&t=51)** So, if you're not specific about what kind of join you're asking for, the query engine will assume that it's an inner join.
 >
@@ -2127,18 +2101,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (2), [[Relational Databases]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is called (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inner joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980)
+#### [Inner joins](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=0)** - [Narrator] The inner join is the most common table join type that you can make in SQL Server.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=0)** - [Narrator] The inner join is the most common table join type that you can make in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=5)** It returns records that have matching data on both sides of the pair of tables.
 >
@@ -2148,7 +2121,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=42)** And from the person.person phone table, we'll also grab the business entity ID and phone number columns.
 >
-> **[0:49](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=49)** If I execute both of these queries at once, I'm going to get two different windows down here at the bottom.
+> **[0:49](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=49)** If I execute both of these queries at once, I'm going to get two different [[Windows]] down here at the bottom.
 >
 > **[0:54](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/inner-joins?u=76281980&t=54)** I can scroll through, here the first records correspond to the first query against the person table.
 >
@@ -2304,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (12), [[Microsoft SQL Server|Sql server]] (4), data (4), next (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Windows]] (1)
 > **CLI Commands:** make (6), find (4)
 > **Env Vars:** sql (4)
 > **Analogies:** for instance (3), just like (1)
@@ -2313,8 +2286,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Best Practices:** best practice (1)
 
-#### Left, right, and full outer joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980)
+#### [Left, right, and full outer joins](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2336,7 +2308,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=46)** Scrolling through the list, you'll see the different types.
 >
-> **[0:49](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=49)** Now we can execute another query against the human resources, that employees table.
+> **[0:49](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=49)** Now we can execute another query against the [[Human Resources (HR)|human resources]], that employees table.
 >
 > **[0:54](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=54)** To find information about specifically just the employees, we'll grab their entity ID as well as their job title.
 >
@@ -2352,7 +2324,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=85)** Notice that I'm just using the keyword join here.
 >
-> **[1:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=88)** So SQL Server is going to use an inner join for this at first, let me highlight all of this on lines 9 to 15 and press execute, so we can see the result.
+> **[1:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=88)** So [[Microsoft SQL Server|SQL Server]] is going to use an inner join for this at first, let me highlight all of this on lines 9 to 15 and press execute, so we can see the result.
 >
 > **[1:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/left-right-and-full-outer-joins?u=76281980&t=96)** This returns 290 rows, so we're only seeing information now about our employees.
 >
@@ -2420,15 +2392,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Human Resources (HR)|Human resources]] (1), [[Microsoft SQL Server|Sql server]] (1), database (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cross joins
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/cross-joins?u=76281980)
+#### [Cross joins](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/cross-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2530,7 +2501,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2)
 > **CLI Commands:** find (2), make (2)
 > **SQL:** where (2), select (1)
 > **Env Vars:** where (2), select (1)
@@ -2539,8 +2509,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Return data from multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-return-data-from-multiple-tables?u=76281980)
+#### [Challenge: Return data from multiple tables](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-return-data-from-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2568,14 +2537,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), database (2)
 > **Env Vars:** inner (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Return data from multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-return-data-from-multiple-tables?u=76281980)
+#### [Solution: Return data from multiple tables](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-return-data-from-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2727,11 +2694,11 @@ created: 2026-05-02
 >
 > **[6:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-return-data-from-multiple-tables?u=76281980&t=360)** So that is my solution to the challenge.
 >
-> **[6:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-return-data-from-multiple-tables?u=76281980&t=363)** I'll go ahead and save this as challenge three complete complete.sql, and you can compare how I got to my solution against the solution that you developed.
+> **[6:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-return-data-from-multiple-tables?u=76281980&t=363)** I'll go ahead and save this as challenge three complete complete.[[SQL]], and you can compare how I got to my solution against the solution that you developed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), database (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** inner (3), join (3), select (2), order (1)
 > **SQL:** inner join (3), select (2), order by (1)
 > **CLI Commands:** make (2), find (2)
@@ -2739,8 +2706,7 @@ created: 2026-05-02
 > **File Paths:** complete.sql (1)
 > **Code Identifiers:** countryregion (1)
 
-#### Solution: Join data in multiple tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-join-data-in-multiple-tables?u=76281980)
+#### [Solution: Join data in multiple tables](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-join-data-in-multiple-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2820,7 +2786,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Env Vars:** join (8), inner (3), employeeid (2), sessionid (2), left (2)
 > **SQL:** join (3), inner join (3), left join (2), where (2)
 > **UI Navigation:** select the (1)
@@ -2832,8 +2797,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand record grouping
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
+#### [Understand record grouping](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2859,7 +2823,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=54)** That would leave you with 13 groups with four cards each.
 >
-> **[0:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=58)** You'd have four aces, four kings, four queens, and so on through the rest of the deck.
+> **[0:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=58)** You'd have four aces, four kings, four queens, and so on through the [[Representational State Transfer (REST)|rest]] of the deck.
 >
 > **[1:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=63)** That's three different ways that you could group the cards in a standard deck of playing cards and each one can give you a different insight into the makeup of the deck.
 >
@@ -2887,19 +2851,18 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=152)** It takes the standard query output and then consolidates rows based on a common value.
 >
-> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=158)** Then, it provides aggregates, or summary statistics, across those groups.
+> **[2:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/understand-record-grouping?u=76281980&t=158)** Then, it provides aggregates, or summary [[Statistics]], across those groups.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **SQL:** group by (3)
 > **Env Vars:** group (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use GROUP BY and COUNT
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980)
+#### [Use GROUP BY and COUNT](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2991,7 +2954,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980&t=267)** This will place these cities with the highest counts at the top of the list.
 >
-> **[4:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980&t=272)** Now we're getting to some interesting statistics.
+> **[4:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980&t=272)** Now we're getting to some interesting [[Statistics]].
 >
 > **[4:35](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-group-by-and-count?u=76281980&t=275)** I can see that the city with the most addresses is London with 434 addresses.
 >
@@ -3007,7 +2970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** group (9), select (6), order (6), distinct (1)
 > **SQL:** group by (9), select (6), order by (6)
 > **CLI Commands:** make (1)
@@ -3016,8 +2979,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Aggregate functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980)
+#### [Aggregate functions](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3029,7 +2991,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=24)** You'll also almost always want to add an alias with the AS keyword so that the results clearly identify what the values represent.
 >
-> **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=32)** So what are the aggregate functions that are available in SQL Server?
+> **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=32)** So what are the aggregate functions that are available in [[Microsoft SQL Server|SQL Server]]?
 >
 > **[0:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=36)** The most common is COUNT.
 >
@@ -3063,7 +3025,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=129)** Finally, there's a new class of aggregate functions that were introduced with SQL Server 2019 and extended in 2022.
 >
-> **[2:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=137)** These aggregate functions will find approximate values and are targeted for use in big data applications where you need to get a rough idea of the measurement when the data set contains millions of rows or more.
+> **[2:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=137)** These aggregate functions will find approximate values and are targeted for use in [[Big Data]] applications where you need to get a rough idea of the measurement when the data set contains millions of rows or more.
 >
 > **[2:30](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=150)** In this situation, you may be more concerned with getting an answer very quickly that is close enough to be actionable rather than spending all day to get an exact value.
 >
@@ -3075,7 +3037,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=177)** One function will calculate the approximate continuous percentile, and the other one will calculate the approximate discrete percentile.
 >
-> **[3:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=185)** Both of these functions are useful for identifying the median value in a group or the first and third quartile, or other breakpoint values that are useful in a statistical analysis.
+> **[3:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=185)** Both of these functions are useful for identifying the median value in a group or the first and third quartile, or other breakpoint values that are useful in a [[Statistical Analysis]].
 >
 > **[3:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/aggregate-functions?u=76281980&t=196)** Again, these functions return a number that is reasonably accurate, but may not be exact.
 >
@@ -3083,17 +3045,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), database (1), [[Big Data]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Big Data]] (1), [[Statistical Analysis]] (1)
 > **Env Vars:** sum (4), count (3), sql (2), distinct (2), count_big (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore data with SUM
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980)
+#### [Explore data with SUM](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=0)** - [Instructor] Aggregate functions are ideal for getting high-level summaries of financial data.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=0)** - [Instructor] Aggregate functions are ideal for getting high-level summaries of [[Financial Data]].
 >
 > **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=5)** That's because in a typical relational database, sales numbers are often recorded individually.
 >
@@ -3113,7 +3074,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=53)** This order had 12 lines.
 >
-> **[0:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=55)** It was for 12 different products that we can see listed over here in the Product ID column.
+> **[0:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=55)** It was for 12 different [[Microsoft Products|products]] that we can see listed over here in the Product ID column.
 >
 > **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/explore-data-with-sum?u=76281980&t=60)** Then we have the number of items ordered for each product, and that's the Order Quantity column.
 >
@@ -3235,15 +3196,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), data (8), database (3), [[Microsoft Products|Products]] (2), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Financial Data]] (1)
 > **Env Vars:** select (6), group (5), sum (4), order (2), count (1)
 > **SQL:** select (6), group by (5), order by (2)
 > **CLI Commands:** find (4)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter groups with HAVING
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980)
+#### [Filter groups with HAVING](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3255,7 +3215,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=22)** This table lists out every product, and one of the columns describes each product's Color.
 >
-> **[0:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=28)** To find out how many products that we have in each Color, we can write a query that uses a GROUP BY clause and an aggregate function.
+> **[0:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=28)** To find out how many [[Microsoft Products|products]] that we have in each Color, we can write a query that uses a GROUP BY clause and an aggregate function.
 >
 > **[0:37](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=37)** I'll modify my SELECT query to include the Color column, and I'll use a counting function to count up all the rows.
 >
@@ -3315,20 +3275,19 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=198)** And with that change made to the query, we get back to the final result, showing the five Colors that are used by more than 25 products.
 >
-> **[3:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=206)** So remember, when grouping records together to get summary statistics with aggregate functions, use the WHERE clause to filter out individual rows from the group.
+> **[3:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=206)** So remember, when grouping records together to get summary [[Statistics]] with aggregate functions, use the WHERE clause to filter out individual rows from the group.
 >
 > **[3:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/filter-groups-with-having?u=76281980&t=216)** And you'll use the HAVING clause to filter entire groups from the final result.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Statistics]] (1)
 > **Env Vars:** where (8), having (8), group (5), select (3), null (3)
 > **SQL:** where (8), having (8), group by (5), select (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Obtain order summaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-obtain-order-summaries?u=76281980)
+#### [Challenge: Obtain order summaries](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-obtain-order-summaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,19 +3321,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sum (1), min (1), max (1), avg (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Obtain order summaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980)
+#### [Solution: Obtain order summaries](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=0)** - [Instructor] I hope you are able to obtain the sales summary statistics for each of the Adventure Works customers.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=0)** - [Instructor] I hope you are able to obtain the sales summary [[Statistics]] for each of the Adventure Works customers.
 >
 > **[0:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=11)** Let's take a look at the solution.
 >
@@ -3678,13 +3635,13 @@ created: 2026-05-02
 >
 > **[10:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=619)** And there is my final solution with lots of interesting information about each of our customers and all of the orders that they've ever placed.
 >
-> **[10:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=626)** So that's my solution. I will go ahead and save that as challenge four complete dot sql.
+> **[10:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=626)** So that's my solution. I will go ahead and save that as challenge four complete dot [[SQL]].
 >
 > **[10:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-order-summaries?u=76281980&t=631)** And you can take a look at it and run it on your own system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[SQL]] (1)
 > **Env Vars:** sum (8), soh (5), min (4), max (4), group (3)
 > **SQL:** group by (3), inner join (2), select (1)
 > **CLI Commands:** find (2), make (1)
@@ -3693,8 +3650,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Solution: Group rows and aggregate data
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980)
+#### [Solution: Group rows and aggregate data](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3710,7 +3666,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980&t=42)** So we can start by selecting just the class column out of the data table.
 >
-> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980&t=48)** Now when I do that though, it's still going to return each individual row for all of my students, so I can see physics is repeated over and over again, calculus below that, and history there.
+> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980&t=48)** Now when I do that though, it's still going to return each individual row for all of my students, so I can see physics is repeated over and over again, [[Calculus]] below that, and history there.
 >
 > **[0:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-group-rows-and-aggregate-data?u=76281980&t=58)** In order to get these to show me just a single row for each unique class, we need to start grouping these individual rows together.
 >
@@ -3764,7 +3720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Calculus]] (3), next (1)
+> **Frameworks & Libraries:** [[Calculus]] (3)
 > **Env Vars:** avg (3)
 > **Versions:** 2.8 (1), 1.7 (1), 1.8 (1)
 > **CLI Commands:** find (2)
@@ -3777,12 +3733,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use functions in T-SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
+#### [Use functions in T-SQL](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980&t=1)** - [Instructor] SQL Server ships with a large number of built-in functions that you can leverage to manipulate the data that's stored in your database tables.
+> **[0:01](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980&t=1)** - [Instructor] [[Microsoft SQL Server|SQL Server]] ships with a large number of built-in functions that you can leverage to manipulate the data that's stored in your database tables.
 >
 > **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-functions-in-t-sql?u=76281980&t=10)** In this chapter, I'm going to introduce you to some of my favorites, but I thought it'd be helpful to get an overview first.
 >
@@ -3836,7 +3791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (3), database (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3), group (1), left (1), url (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -3844,8 +3799,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### String functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980)
+#### [String functions](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3917,7 +3871,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980&t=192)** I don't think any of our data in the AdventureWorks database actually has extra space characters, but this function can be very useful in data cleansing procedures.
 >
-> **[3:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980&t=202)** So that's a number of text manipulation functions that you can use in your SQL queries.
+> **[3:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980&t=202)** So that's a number of text manipulation functions that you can use in your [[SQL]] queries.
 >
 > **[3:28](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/string-functions?u=76281980&t=208)** They're useful anytime you have text strings in one format and you need to manipulate them.
 >
@@ -3925,18 +3879,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (2), next (1), [[SQL]] (1), product (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** upper (2), len (2), trim (2), lower (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Text concatenation
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980)
+#### [Text concatenation](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980&t=0)** - [Instructor] Text Concatenation is the process of joining two text strings together.
 >
-> **[0:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980&t=4)** SQL Server has two concatenation functions that we can use to do that in our query results.
+> **[0:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980&t=4)** [[Microsoft SQL Server|SQL Server]] has two concatenation functions that we can use to do that in our query results.
 >
 > **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/text-concatenation?u=76281980&t=10)** I'm going to start with the same first and last name data that's coming out of the person table that we used in the prior movie.
 >
@@ -4012,7 +3965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), data (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2)
 > **Cross-References:** in the last (2)
 > **Definitions:** stands for (1), is a  (1)
@@ -4020,8 +3973,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Round with mathematical functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/round-with-mathematical-functions?u=76281980)
+#### [Round with mathematical functions](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/round-with-mathematical-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4087,20 +4039,19 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/round-with-mathematical-functions?u=76281980&t=172)** Use round when you want to control the precision or use ceiling or floor when you want to force the rounding to the next integer, either up or down.
 >
-> **[3:01](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/round-with-mathematical-functions?u=76281980&t=181)** These are very useful to apply when statistical analyses result in more significant digits than the original data supports or when formatting precise financial data for a report.
+> **[3:01](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/round-with-mathematical-functions?u=76281980&t=181)** These are very useful to apply when statistical analyses result in more significant digits than the original data supports or when formatting precise [[Financial Data]] for a report.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (5), database (2), business (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1)
 > **Env Vars:** ytd (3)
 > **Speakers:** - [instructor] (1)
 
-#### Find the GREATEST or LEAST value
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980)
+#### [Find the GREATEST or LEAST value](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=0)** - [Instructor] There are two new functions that have been added to SQL Server 2022 that'll help you compare numbers and text strings across multiple columns in the same row, they're called greatest and least.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=0)** - [Instructor] There are two new functions that have been added to [[Microsoft SQL Server|SQL Server]] 2022 that'll help you compare numbers and text strings across multiple columns in the same row, they're called greatest and least.
 >
 > **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=12)** Let's see how they work by selecting all of the first and last names of all of the people in the person's table.
 >
@@ -4126,7 +4077,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=84)** With these two functions added into my query, I'll execute it and we'll take a look at the two new columns.
 >
-> **[1:30](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=90)** So the greatest function is going to return the highest alphabetical word from the first two columns.
+> **[1:30](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=90)** So the greatest function is going to return the highest alphabetical [[Microsoft Word|word]] from the first two columns.
 >
 > **[1:37](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/find-the-greatest-or-least-value?u=76281980&t=97)** In the case of Ken Sanchez, his last name Sanchez is higher alphabetically.
 >
@@ -4194,15 +4145,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** sql (1), iif (1)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980)
+#### [Work with date functions](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4258,7 +4208,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980&t=162)** This function doesn't have any arguments, but you still need to use the open and closed parenthesis.
 >
-> **[2:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980&t=168)** Get date simply returns the current date and time of the computer that SQL Server is running on.
+> **[2:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980&t=168)** Get date simply returns the current date and time of the computer that [[Microsoft SQL Server|SQL Server]] is running on.
 >
 > **[2:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/work-with-date-functions?u=76281980&t=175)** If you need this date and time in coordinated universal time, you can use the get UTC date function instead.
 >
@@ -4314,7 +4264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), business (1), next (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2), utc (2)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
@@ -4322,18 +4272,17 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### FORMAT date and times
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980)
+#### [FORMAT date and times](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=0)** - [Instructor] Most databases will store date and time data in a numeric date and time data type, and that makes logical sense, right?
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=0)** - [Instructor] Most [[Databases]] will store date and time data in a numeric date and time data type, and that makes logical sense, right?
 >
-> **[0:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=8)** But it's not uncommon to need to present those dates and times as text in reports or interactive forms.
+> **[0:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=8)** But it's not uncommon to need to present those dates and times as text in reports or interactive [[Forms]].
 >
 > **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=15)** This makes them easier to read and understand for end users of the data, for instance, I think it's much easier to understand the month when I read the name August instead of the month number 8.
 >
-> **[0:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=27)** To convert your dates into text you can use the SQL server format function.
+> **[0:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=27)** To convert your dates into text you can use the [[Microsoft SQL Server|SQL server]] format function.
 >
 > **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/format-date-and-times?u=76281980&t=32)** Let's take a look by working with the employee hire dates again.
 >
@@ -4369,19 +4318,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Databases]] (1), [[Forms]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Forms]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group dates into buckets
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/group-dates-into-buckets?u=76281980)
+#### [Group dates into buckets](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/group-dates-into-buckets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/group-dates-into-buckets?u=76281980&t=0)** - [Instructor] Another function that's new for SQL Server 2022 will allow you to identify the first day of the week, month, or year that a given date occurred in.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/group-dates-into-buckets?u=76281980&t=0)** - [Instructor] Another function that's new for [[Microsoft SQL Server|SQL Server]] 2022 will allow you to identify the first day of the week, month, or year that a given date occurred in.
 >
 > **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/group-dates-into-buckets?u=76281980&t=10)** It's called Date_Bucket.
 >
@@ -4517,15 +4465,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return random records with NEWID
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980)
+#### [Return random records with NEWID](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4533,7 +4480,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=7)** And when you need to perform verification audits, you want to make sure that the records that are chosen for review represent an unbiased, random selection.
 >
-> **[0:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=17)** You can use the SQL Server function called New ID to help you pull random records out of a data table for these kinds of analysis projects and audits.
+> **[0:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=17)** You can use the [[Microsoft SQL Server|SQL Server]] function called New ID to help you pull random records out of a data table for these kinds of analysis projects and audits.
 >
 > **[0:27](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=27)** Let's start with a query that pulls out the ID numbers of all of the records in the Work Order table.
 >
@@ -4567,23 +4514,22 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=119)** Pressing the execute button again will reveal a different list of 10 work order IDs.
 >
-> **[2:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=124)** These 10 work orders are being randomly chosen from the database, and I can use them in a manual verification process or a statistical analysis.
+> **[2:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=124)** These 10 work orders are being randomly chosen from the database, and I can use them in a manual verification process or a [[Statistical Analysis]].
 >
 > **[2:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-random-records-with-newid?u=76281980&t=133)** By selecting random rows from a data table, you could ensure that your selected rows don't contain a selection bias that could invalidate the results.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), database (3), [[Microsoft SQL Server|Sql server]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a series of values
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980)
+#### [Create a series of values](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=0)** - [Instructor] There is one more function that's brand new in SQL Server 2022 that I want to share with you.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=0)** - [Instructor] There is one more function that's brand new in [[Microsoft SQL Server|SQL Server]] 2022 that I want to share with you.
 >
 > **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=6)** This is something that a lot of database professionals have been asking for for a very long time and that's the ability to generate a series of numbers.
 >
@@ -4597,7 +4543,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=45)** So if you have an older database, even if it's on a SQL Server 2022 server, it may not have been brought forward to fully support the current set of features.
 >
-> **[0:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=55)** I've got the Generate series Start SQL file opened up on my screen, which includes the code at the top that you'll need to check your database.
+> **[0:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=55)** I've got the Generate series Start [[SQL]] file opened up on my screen, which includes the code at the top that you'll need to check your database.
 >
 > **[1:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-series-of-values?u=76281980&t=64)** Assuming you're using the same AdventureWorks 2019 database that I'm using, you can run this query to see the current compatibility level that you have on your database.
 >
@@ -4693,21 +4639,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[Microsoft SQL Server|Sql server]] (3), business (3), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[SQL]] (1)
 > **Versions:** 0.0 (2), 1.0 (2), 0.1 (2), 0.2 (1)
 > **Env Vars:** sql (4)
 > **UI Navigation:** scroll down (1), select the (1)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### The IIF logical function
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980)
+#### [The IIF logical function](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980&t=0)** - [Instructor] The logical function IIF will evaluate a condition and return one value if the condition is true and a different value if the condition is false.
 >
-> **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980&t=10)** Using this function, you can have SQL Server make decisions about your data for you or help you place records into groups.
+> **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980&t=10)** Using this function, you can have [[Microsoft SQL Server|SQL Server]] make decisions about your data for you or help you place records into groups.
 >
 > **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/the-iif-logical-function?u=76281980&t=18)** To see how this works, I want to take a look at the year-to-date sales history of the employees at AdventureWorks.
 >
@@ -4797,7 +4742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** iif (8), sql (1), where (1), select (1), group (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** where (1), select (1), group by (1)
@@ -4806,8 +4751,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write a CASE statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/write-a-case-statement?u=76281980)
+#### [Write a CASE statement](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/write-a-case-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4909,21 +4853,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (5), next (1), database (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Use functions in a SQL query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980)
+#### [Challenge: Use functions in a SQL query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=0)** - [Instructor] We've seen a lot of different functions that you can apply to your SQL Server databases.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=0)** - [Instructor] We've seen a lot of different functions that you can apply to your [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
 > **[0:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=11)** Let's combine a few of them and apply what you've learned to a challenge.
 >
-> **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=15)** Locate the file called ChallengeFive-Start.sql in the Chapter Five folder of the Exercise files.
+> **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=15)** Locate the file called ChallengeFive-Start.[[SQL]] in the Chapter Five folder of the Exercise files.
 >
 > **[0:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-functions-in-a-sql-query?u=76281980&t=22)** Inside you'll find four different challenging scenarios.
 >
@@ -4935,7 +4877,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1), [[SQL]] (1)
 > **File Paths:** challengefive-start.sql (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
@@ -4944,14 +4886,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Use functions in a SQL query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980)
+#### [Solution: Use functions in a SQL query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=0)** (gentle music)
 >
-> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=6)** - [Instructor] I hope you are able to flex a bit of your new SQL Server function muscles in answering the following questions.
+> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=6)** - [Instructor] I hope you are able to flex a bit of your new [[Microsoft SQL Server|SQL Server]] function muscles in answering the following questions.
 >
 > **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=12)** Let's take a look and go over each one, one at a time.
 >
@@ -5311,11 +5252,11 @@ created: 2026-05-02
 >
 > **[13:42](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=822)** All right, so that's my solution to the fourth problem and that completes the entire challenge.
 >
-> **[13:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=827)** So I'll go ahead and save this as ChallengeFive-Complete.sql, and you can compare my solutions against the ones that you came up with.
+> **[13:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-sql-query?u=76281980&t=827)** So I'll go ahead and save this as ChallengeFive-Complete.[[SQL]], and you can compare my solutions against the ones that you came up with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (4), [[Microsoft SQL Server|Sql server]] (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** select (5), concat (4), case (4), newid (4), iif (4)
 > **SQL:** select (5), where (3), order by (3)
 > **CLI Commands:** find (4), make (1)
@@ -5324,8 +5265,7 @@ created: 2026-05-02
 > **File Paths:** challengefive-complete.sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Use functions in a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-query?u=76281980)
+#### [Solution: Use functions in a query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-functions-in-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5423,7 +5363,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), database (1)
 > **Env Vars:** case (6), concat (1), left (1), else (1), end (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
@@ -5436,8 +5375,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Change database context with USE
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
+#### [Change database context with USE](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5455,7 +5393,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980&t=52)** When you execute the query it goes out to the selected table and returns all of the columns that you've asked for.
 >
-> **[0:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980&t=58)** So far, so good, but how does SQL Server know to query the Adventure Works database and not some other database that happens to be on the same server?
+> **[0:58](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980&t=58)** So far, so good, but how does [[Microsoft SQL Server|SQL Server]] know to query the Adventure Works database and not some other database that happens to be on the same server?
 >
 > **[1:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/change-database-context-with-use?u=76281980&t=67)** Here in Management Studio we can adjust the context of the query using this dropdown menu in the toolbar.
 >
@@ -5501,7 +5439,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (3), management (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3)
 > **UI Navigation:** dropdown (1), in the toolbar (1), select the (1)
 > **Analogies:** for instance (2), such as (1)
@@ -5509,14 +5447,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add comments to a script
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980)
+#### [Add comments to a script](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=0)** - [Instructor] When sharing your scripts with other users, it's advisable that you include comments to describe exactly what your query does.
 >
-> **[0:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=7)** Transact-SQL supports two different methods for including comments in your queries.
+> **[0:07](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=7)** [[Transact-SQL (T-SQL)|Transact-SQL]] supports two different methods for including comments in your queries.
 >
 > **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=12)** Let's write a simple SELECT statement that pulls some information out of the tables.
 >
@@ -5528,9 +5465,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=33)** We'll say, "This query selects people's names from the AdventureWorks database."
 >
-> **[0:37](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=37)** If your text is really long and you want to wrap it onto multiple lines, for instance, let's break it right here after the word from, make sure you put two hyphens before every single line of your comment.
+> **[0:37](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=37)** If your text is really long and you want to wrap it onto multiple lines, for instance, let's break it right here after the [[Microsoft Word|word]] from, make sure you put two hyphens before every single line of your comment.
 >
-> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=48)** Otherwise, SQL Server will interpret that text as commands that the server will try and execute.
+> **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=48)** Otherwise, [[Microsoft SQL Server|SQL Server]] will interpret that text as commands that the server will try and execute.
 >
 > **[0:54](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/add-comments-to-a-script?u=76281980&t=54)** Here in Management Studio, the text gets colored green to indicate commented lines.
 >
@@ -5598,7 +5535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), data (2), [[Transact-SQL (T-SQL)|Transact-sql]] (1), database (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Transact-SQL (T-SQL)|Transact-sql]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (4), select (4)
 > **SQL:** select (4)
 > **Analogies:** for instance (4)
@@ -5607,14 +5544,13 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use square brackets
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980)
+#### [When to use square brackets](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=0)** - [Instructor] When you right-click on any table name in the Management Studio Object Explorer window, and select top 1,000 rows, you might have noticed that the query that's generated includes a lot of square brackets.
 >
-> **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=12)** Those brackets are included so that SQL server can correctly interpret queries that reference tables or column names that includes spaces.
+> **[0:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=12)** Those brackets are included so that [[Microsoft SQL Server|SQL server]] can correctly interpret queries that reference tables or column names that includes spaces.
 >
 > **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=20)** None of the tables or column names in this database actually do include spaces, but the automatically generated scripts include the square brackets anyway.
 >
@@ -5628,7 +5564,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=59)** Now, when I try and execute the query, I'm going to get a syntax error.
 >
-> **[1:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=63)** SQL server reads this as, select the first name column as person, and then it doesn't really know what to do with the rest of this.
+> **[1:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=63)** SQL server reads this as, select the first name column as person, and then it doesn't really know what to do with the [[Representational State Transfer (REST)|rest]] of this.
 >
 > **[1:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/when-to-use-square-brackets?u=76281980&t=71)** To fix this, we simply wrap the aliases in square brackets or we could also use quotation marks in this case.
 >
@@ -5640,7 +5576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), management (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (3)
 > **UI Navigation:** right-click (1), select the (1)
 > **Analogies:** for instance (1)
@@ -5652,8 +5588,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a subquery?
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
+#### [What is a subquery?](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5661,7 +5596,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980&t=4)** When this occurs, they're called subqueries or inner queries.
 >
-> **[0:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980&t=8)** When the SQL Server Database Engine executes a query, the subquery will run first and returns values that can then be used by the outer portion of the query.
+> **[0:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980&t=8)** When the [[Microsoft SQL Server|SQL Server]] Database Engine executes a query, the subquery will run first and returns values that can then be used by the outer portion of the query.
 >
 > **[0:17](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/what-is-a-subquery?u=76281980&t=17)** Let's see how this works by creating a subquery in the SELECT list of another query.
 >
@@ -5763,7 +5698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** select (6), sql (2), top (2), max (2), ytd (1)
 > **SQL:** select (6)
 > **CLI Commands:** find (5)
@@ -5772,8 +5707,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a subquery in a HAVING clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980)
+#### [Use a subquery in a HAVING clause](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5787,7 +5721,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980&t=30)** These first couple of results from line one all the way down to line number 12, all correspond to these same sales order ID.
 >
-> **[0:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980&t=38)** That particular sales order was made up of 12 individual lines, they were ordered for 12 different products, we have their different quantities, and their total price over here on the far right for each line.
+> **[0:38](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980&t=38)** That particular sales order was made up of 12 individual lines, they were ordered for 12 different [[Microsoft Products|products]], we have their different quantities, and their total price over here on the far right for each line.
 >
 > **[0:50](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/use-a-subquery-in-a-having-clause?u=76281980&t=50)** To get the total value of the sales order, we can add an aggregate function to get the sum total of the lines and group that rows by the sales order ID.
 >
@@ -5899,15 +5833,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** select the (2)
 > **Env Vars:** avg (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlated subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/correlated-subqueries?u=76281980)
+#### [Correlated subqueries](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/correlated-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6029,7 +5962,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1)
 > **Env Vars:** join (8), inner (6), where (4), null (4), left (1)
 > **SQL:** inner join (5), where (4), join (2), left join (1)
 > **CLI Commands:** find (2), make (2)
@@ -6037,9 +5969,9 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), select the (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (keyboard clicking) (1)
 
-#### PIVOT the result set
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980)
+#### [PIVOT the result set](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6051,7 +5983,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=18)** First, let's review the data stored in the product table.
 >
-> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=26)** We'll select the product line and list price columns out of the production.product table and filter the results to only see products where the product line is not nulled.
+> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=26)** We'll select the product line and list price columns out of the production.product table and filter the results to only see [[Microsoft Products|products]] where the product line is not nulled.
 >
 > **[0:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=36)** This gives us the product line and the list price for all 278 products in the database.
 >
@@ -6125,19 +6057,18 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=249)** that makes it easier to understand what this table is all about.
 >
-> **[4:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=253)** The data is now in a cross tabular arrangement, just like you might find in a spreadsheet program like Excel.
+> **[4:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/pivot-the-result-set?u=76281980&t=253)** The data is now in a cross tabular arrangement, just like you might find in a spreadsheet program like [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (21), data (8), [[Microsoft Products|Products]] (3), database (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** select the (3)
 > **Env Vars:** pivot (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Write a query with a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980)
+#### [Challenge: Write a query with a subquery](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6147,15 +6078,15 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=9)** For the sixth challenge for the course, I'd like you to work with a subquery and the PIVOT command.
 >
-> **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=15)** In the exercise files, find the ChallengeSix-Start.sql file.
+> **[0:15](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=15)** In the exercise files, find the ChallengeSix-Start.[[SQL]] file.
 >
-> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=20)** In it, you'll find a query that counts up the number of products in each category at AdventureWorks.
+> **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=20)** In it, you'll find a query that counts up the number of [[Microsoft Products|products]] in each category at AdventureWorks.
 >
 > **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=26)** I want you to write a new query that displays the exact same information, only pivoted into a column-oriented structure instead of a row-oriented structure.
 >
 > **[0:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=36)** This means that your column headers will be the names of each category, and the table row will display the count of products.
 >
-> **[0:44](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=44)** Pivot tables can bring a whole new perspective to your data, and give you additional options for reporting and sharing information with other applications.
+> **[0:44](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=44)** [[Pivot Tables]] can bring a whole new perspective to your data, and give you additional options for reporting and sharing information with other applications.
 >
 > **[0:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-write-a-query-with-a-subquery?u=76281980&t=52)** So take your time and work out the pivot statement to reorient the results.
 >
@@ -6165,7 +6096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Pivot Tables]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (2)
 > **File Paths:** challengesix-start.sql (1)
 > **Env Vars:** pivot (1)
@@ -6174,16 +6105,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (funky upbeat music) (1)
 
-#### Solution: Write a query with a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980)
+#### [Solution: Write a query with a subquery](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=0)** - [Instructor] I hope you were able to generate the pivot table results that summarize the number of products in each category.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=0)** - [Instructor] I hope you were able to generate the pivot table results that summarize the number of [[Microsoft Products|products]] in each category.
 >
 > **[0:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=13)** Let's get going with the solution.
 >
-> **[0:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=14)** I currently have the challenge six-start SQL file here on the screen, and I'm just going to execute it right away so we can take a look at the results, and then we'll take a look at the query above.
+> **[0:14](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=14)** I currently have the challenge six-start [[SQL]] file here on the screen, and I'm just going to execute it right away so we can take a look at the results, and then we'll take a look at the query above.
 >
 > **[0:24](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-write-a-query-with-a-subquery?u=76281980&t=24)** So the results give me two columns.
 >
@@ -6391,7 +6321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), [[Microsoft Products|Products]] (11), data (9), next (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (11), [[SQL]] (2)
 > **UI Navigation:** select the (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** sql (2)
@@ -6400,8 +6330,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Obtain information with a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-information-with-a-subquery?u=76281980)
+#### [Solution: Obtain information with a subquery](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-obtain-information-with-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6551,7 +6480,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2)
 > **Env Vars:** group (4), select (3), having (3), avg (2), inner (1)
 > **SQL:** group by (4), select (3), having (3), inner join (1), order by (1)
 > **CLI Commands:** find (4)
@@ -6564,12 +6492,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and use variables in a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
+#### [Create and use variables in a query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=0)** - [Narrator] The SQL language is primarily used for querying data out of a relational database.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=0)** - [Narrator] The [[SQL]] language is primarily used for querying data out of a relational database.
 >
 > **[0:05](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=5)** But it can perform many other functions in the management of your database.
 >
@@ -6593,7 +6520,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=43)** Next, you need to specify what type of data, the variable will contain.
 >
-> **[0:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=47)** Your options are these same data types that are used when creating fields in a SQL Server table.
+> **[0:47](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=47)** Your options are these same data types that are used when creating fields in a [[Microsoft SQL Server|SQL Server]] table.
 >
 > **[0:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=52)** I'll set this variable to the INT data type.
 >
@@ -6645,7 +6572,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=168)** I'll start it on line number eight.
 >
-> **[2:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=172)** I want to find all of the products that are a specific color.
+> **[2:52](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=172)** I want to find all of the [[Microsoft Products|products]] that are a specific color.
 >
 > **[2:55](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-and-use-variables-in-a-query?u=76281980&t=175)** First, I'll declare my variable called Color.
 >
@@ -6687,7 +6614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3), product (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Products|Products]] (3), [[SQL]] (2)
 > **Env Vars:** sql (5), int (1), varchar (1)
 > **CLI Commands:** find (2), make (1)
 > **SQL:** varchar (1)
@@ -6696,12 +6623,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a counter for a looping statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980)
+#### [Create a counter for a looping statement](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=0)** - [Instructor] SQL variables can be used as counters in a looping statement to control how many times a batch of commands will execute.
+> **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=0)** - [Instructor] [[SQL]] variables can be used as counters in a looping statement to control how many times a batch of commands will execute.
 >
 > **[0:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=8)** First, we'll create a new variable called Counter.
 >
@@ -6799,7 +6725,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=236)** from the Production.Product table.
 >
-> **[4:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=240)** Then I'll insert a WHERE clause, and I only want to see the products where the ProductID is equal to the value of the Product variable that we established up above.
+> **[4:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=240)** Then I'll insert a WHERE clause, and I only want to see the [[Microsoft Products|products]] where the ProductID is equal to the value of the Product variable that we established up above.
 >
 > **[4:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=250)** So I'll say WHERE the ProductID is equal to our variable.
 >
@@ -6833,13 +6759,13 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=316)** So this is just one example of how a looping statement could work in a SQL query using a WHILE command.
 >
-> **[5:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=322)** And SQL Server also supports other kinds of programmatic statements that you can incorporate into your queries, such as if-else or try-catch.
+> **[5:22](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=322)** And [[Microsoft SQL Server|SQL Server]] also supports other kinds of programmatic statements that you can incorporate into your queries, such as if-else or try-catch.
 >
 > **[5:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/create-a-counter-for-a-looping-statement?u=76281980&t=332)** All of these can be combined to make your queries more flexible and efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[SQL]] (2), data (2), database (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Products|Products]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** while (12), end (5), sql (3), begin (3), set (3)
 > **SQL:** select (2), where (2)
 > **UI Navigation:** select the (2)
@@ -6847,14 +6773,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Use variables in a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980)
+#### [Challenge: Use variables in a query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980&t=0)** (lively music)
 >
-> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980&t=6)** - [Instructor] Variables can be very useful when developing efficient routines in SQL Server.
+> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980&t=6)** - [Instructor] Variables can be very useful when developing efficient routines in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:11](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/challenge-use-variables-in-a-query?u=76281980&t=11)** Let's get some additional practice by applying them to a challenge.
 >
@@ -6875,14 +6800,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Use variables in a query
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980)
+#### [Solution: Use variables in a query](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980&t=0)** (energetic music)
 >
-> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980&t=6)** - So were you able to incorporate variables into your SQL query?
+> **[0:06](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980&t=6)** - So were you able to incorporate variables into your [[SQL]] query?
 >
 > **[0:10](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/solution-use-variables-in-a-query?u=76281980&t=10)** Let's take a look at how I would approach this challenge.
 >
@@ -7010,7 +6934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[SQL]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** select (5), top (5), where (3), sql (2), order (2)
 > **SQL:** select (5), where (3), order by (2)
 > **CLI Commands:** make (2)
@@ -7023,8 +6947,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Combine results with UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
+#### [Combine results with UNION](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7036,9 +6959,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=13)** I'm going to write two SELECT statements that look at the product category and product subcategory tables.
 >
-> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=26)** Executing these two queries at the same time, will show me two different result windows here at the bottom.
+> **[0:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=26)** Executing these two queries at the same time, will show me two different result [[Windows]] here at the bottom.
 >
-> **[0:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=31)** The first one gives me the four main categories, and the second one gives me the 37 subcategories of products that AdventureWorks sells.
+> **[0:31](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=31)** The first one gives me the four main categories, and the second one gives me the 37 subcategories of [[Microsoft Products|products]] that AdventureWorks sells.
 >
 > **[0:39](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/combine-results-with-union?u=76281980&t=39)** Now, if I wanted to see these results in a single result set, I can UNION them together.
 >
@@ -7090,15 +7013,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (3), [[Windows]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** union (8), select (3)
 > **SQL:** select (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return distinct rows with EXCEPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-distinct-rows-with-except?u=76281980)
+#### [Return distinct rows with EXCEPT](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-distinct-rows-with-except?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7184,11 +7106,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-distinct-rows-with-except?u=76281980&t=233)** Just like we saw earlier in the course, when using a sub query as an alternative to a joint, there are often multiple ways to get to the same answer when writing queries.
 >
-> **[4:02](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-distinct-rows-with-except?u=76281980&t=242)** The path that you choose can be left to personal taste or it can be guided by the results of performance testing to see if one method is actually better than the other on your own data and hardware.
+> **[4:02](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-distinct-rows-with-except?u=76281980&t=242)** The path that you choose can be left to personal taste or it can be guided by the results of performance testing to see if one method is actually better than the other on your own data and [[Hardware]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), data (2), database (2), next (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (2)
 > **Cross-References:** earlier in (1)
@@ -7196,8 +7118,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Return common rows with INTERSECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980)
+#### [Return common rows with INTERSECT](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7209,7 +7130,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=20)** I'll select everything from Production.ProductProductPhoto and everything from Production.ProductReview.
 >
-> **[0:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=25)** The ProductProductPhoto table is used to join the products that AdventureWorks carries to the photos used on the website and catalogs through the ProductID column.
+> **[0:25](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=25)** The ProductProductPhoto table is used to join the [[Microsoft Products|products]] that AdventureWorks carries to the photos used on the website and catalogs through the ProductID column.
 >
 > **[0:36](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=36)** The ProductReview table also uses the ProductID to join customer reviews to these specific products.
 >
@@ -7243,7 +7164,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=120)** Now, I will give you a bit of warning.
 >
-> **[2:02](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=122)** This query is very wordy, since the table names have a lot of repetition in the word production and product.
+> **[2:02](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=122)** This query is very wordy, since the table names have a lot of repetition in the [[Microsoft Word|word]] production and product.
 >
 > **[2:08](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=128)** So we'll start with a SELECT DISTINCT statement.
 >
@@ -7263,11 +7184,11 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=199)** One gets the values using two queries and the INTERSECT operator, and the other one uses an INNER JOIN.
 >
-> **[3:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=206)** Depending on the size of your tables and the presence of indexes on your data, one of these methods may perform significantly better than the other if you try and implement it in a similar query in your own databases.
+> **[3:26](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/return-common-rows-with-intersect?u=76281980&t=206)** Depending on the size of your tables and the presence of indexes on your data, one of these methods may perform significantly better than the other if you try and implement it in a similar query in your own [[Databases]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), data (3), [[Microsoft Word|Word]] (1), product (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Microsoft Word|Word]] (1), [[Databases]] (1)
 > **Env Vars:** intersect (7), join (5), select (4), inner (4), union (2)
 > **SQL:** select (4), inner join (4), join (1)
 > **CLI Commands:** find (2), make (2)
@@ -7281,18 +7202,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=0)** - [Adam] Congratulations on reaching the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=3)** I'd like to thank you for joining me as we got to know how to write queries for Microsoft SQL Server 2022.
+> **[0:03](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=3)** I'd like to thank you for joining me as we got to know how to write queries for [[Microsoft SQL Server]] 2022.
 >
-> **[0:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=9)** Here's a couple of additional courses that I think you'd enjoy and will help you dig further into the capabilities of SQL Server and the world of Transact SQL.
+> **[0:09](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=9)** Here's a couple of additional courses that I think you'd enjoy and will help you dig further into the capabilities of [[Microsoft SQL Server|SQL Server]] and the world of Transact [[SQL]].
 >
-> **[0:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=19)** First, we didn't talk at all about query performance, and that definitely becomes a big deal when you start writing queries against very large databases, or queries that need to run hundreds of thousands of times a day.
+> **[0:19](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=19)** First, we didn't talk at all about query performance, and that definitely becomes a big deal when you start writing queries against very large [[Databases]], or queries that need to run hundreds of thousands of times a day.
 >
 > **[0:32](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=32)** I'd recommend taking a look at the course, SQL Server Performance for Developers, and specifically chapter one for an introduction into Query Execution plans.
 >
@@ -7300,7 +7220,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=48)** My course, SQL Server Database Triggers, will help you automate tasks in your database by setting up systems that monitor activity and automatically perform actions based on specific conditions.
 >
-> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=60)** And finally, if you want to learn how to create your own custom functions and store procedures that you can use to streamline your queries, take a look at my course, [[Program Databases with Transact-SQL]].
+> **[1:00](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=60)** And finally, if you want to learn how to create your own custom functions and store procedures that you can use to streamline your queries, take a look at my course, [[Program Databases with [[Transact-SQL (T-SQL)|Transact-SQL]]]].
 >
 > **[1:12](https://www.linkedin.com/learning/querying-microsoft-sql-server-2022/next-steps?u=76281980&t=72)** I encourage you to bookmark these courses now and add them to your Learning Watch list so that they're easy to find when you're ready to dig further into SQL queries.
 >
@@ -7310,7 +7230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[Databases]] (2), database (2), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[Databases]] (2), [[Microsoft SQL Server]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** find (1)
 > **Speakers:** - [adam] (1)

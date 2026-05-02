@@ -80,14 +80,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for security with PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980)
+#### [The need for security with PHP](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980&t=0)** - [Kevin] All developers should learn the fundamentals of security.
 >
-> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980&t=3)** This course will teach developers how to think about security in PHP and will provide practical solutions to protect PHP websites from the most common security threats.
+> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980&t=3)** This course will teach developers how to think about security in [[PHP]] and will provide practical solutions to protect PHP websites from the most common security threats.
 >
 > **[0:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/the-need-for-security-with-php?u=76281980&t=12)** This course is intended for developers who already know the fundamentals of PHP and want to learn how to avoid common and costly mistakes in their code.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Security]] (4), web application (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (9)
 > **CLI Commands:** php (9)
 > **Env Vars:** php (9)
 > **Speakers:** - [kevin] (1)
@@ -117,14 +116,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is security?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980)
+#### [What is security?](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=0)** - [Instructor] Before we dive into learning how to secure our PHP code, let's first talk about what security is.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=0)** - [Instructor] Before we dive into learning how to secure our [[PHP]] code, let's first talk about what security is.
 >
-> **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=6)** For web development, security means keeping your web server and its applications protected or safe from harm.
+> **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=6)** For [[Web Development]], security means keeping your web server and its applications protected or safe from harm.
 >
 > **[0:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=13)** Who are we trying to protect it from?
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=94)** In this training, we will briefly review the security challenges that you'll face before we focus our efforts on crafting solutions in PHP.
 >
-> **[1:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=101)** Two other training titles in the library can provide a deeper explanation of the how and why hackers use certain attacks, [[Programming Foundations- Web Security]] and Web Security: User Authentication and Access Control.
+> **[1:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=101)** Two other training titles in the library can provide a deeper explanation of the how and why hackers use certain attacks, [[[[Programming Foundations]]- Web Security]] and Web Security: User Authentication and Access Control.
 >
 > **[1:54](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/what-is-security?u=76281980&t=114)** These courses focus on awareness of the security issues.
 >
@@ -218,7 +216,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (28), [[PHP]] (5), web (5), [[Web Development]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Web Development]] (1), [[Programming Foundations]] (1)
 > **CLI Commands:** php (5)
 > **Env Vars:** php (5)
 > **Definitions:** is a  (2)
@@ -226,12 +224,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1), you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980)
+#### [Security and PHP](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=0)** - [Instructor] Security is an essential skill for all PHP developers to learn.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=0)** - [Instructor] Security is an essential skill for all [[PHP]] developers to learn.
 >
 > **[0:04](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=4)** Hackers can target any server, but web applications are the most frequently targeted.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=13)** If we could simply lock the doors to the public, it sure would make it easier to keep the hackers out.
 >
-> **[0:17](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=17)** Plus many modern websites are backed by databases, which collect and store personal data, names, addresses, emails, credit cards, date of birth.
+> **[0:17](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=17)** Plus many modern websites are backed by [[Databases]], which collect and store personal data, names, addresses, emails, credit cards, date of birth.
 >
 > **[0:25](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=25)** All that personal data is valuable.
 >
@@ -247,11 +244,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=33)** PHP applications are often targeted because PHP is a popular language used worldwide.
 >
-> **[0:39](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=39)** It's used in popular open source applications like WordPress.
+> **[0:39](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=39)** It's used in popular open source applications like [[WordPress]].
 >
 > **[0:42](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=42)** Another problem is that PHP is also an easy programming language for beginners to learn.
 >
-> **[0:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=47)** Many beginners graduate from HTML and CSS to using little bits of PHP code.
+> **[0:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=47)** Many beginners graduate from [[HTML]] and CSS to using little bits of PHP code.
 >
 > **[0:52](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/security-and-php?u=76281980&t=52)** I know that I did, but these beginners may not appreciate the security concerns that PHP code adds.
 >
@@ -289,27 +286,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), [[Security]] (7), web (2), data (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[Databases]] (1), [[WordPress]] (1), [[HTML]] (1)
 > **CLI Commands:** php (13), make (3)
 > **Env Vars:** php (13), html (1), css (1), ini (1)
 > **Definitions:** is a  (4), is an  (1), means that (1)
 > **File Paths:** php.ini (1)
 > **Speakers:** - [instructor] (1)
 
-#### General security principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980)
+#### [General security principles](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=0)** - [Narrator] Let's quickly review the primary security principles.
 >
-> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=3)** These principles are covered in more depth in the course I mentioned earlier, [[Programming Foundations- Web Security]].
+> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=3)** These principles are covered in more depth in the course I mentioned earlier, [[[[Programming Foundations]]- Web Security]].
 >
 > **[0:08](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=8)** The first principle is called least privilege.
 >
 > **[0:11](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=11)** The principle of least privilege means giving a user account only those privileges that are essential to that user's work and nothing more.
 >
-> **[0:19](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=19)** Users in human resources shouldn't be able to see accounting information, and users in accounting shouldn't be able to see human resources information.
+> **[0:19](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=19)** Users in [[Human Resources (HR)|human resources]] shouldn't be able to see accounting information, and users in accounting shouldn't be able to see human resources information.
 >
 > **[0:27](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=27)** But we're not just talking about user privileges.
 >
@@ -387,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=178)** Last of all, you want to map the exposure points and data passageways in your application.
 >
-> **[3:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=183)** Think about the incoming data through URLs, forms, cookies, sessions, and the outgoing data, what goes out to the user as HTML or JavaScript.
+> **[3:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=183)** Think about the incoming data through URLs, [[Forms]], cookies, sessions, and the outgoing data, what goes out to the user as [[HTML]] or [[JavaScript]].
 >
 > **[3:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/general-security-principles?u=76281980&t=192)** Consider what paths data takes as it travels from a user through the application and into the database and the path that takes back from the database to the application and to the user.
 >
@@ -399,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (4), application (4), web (3), database (3)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2), [[Programming Foundations]] (1), [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** html (1)
@@ -410,12 +406,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping versions up to date
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980)
+#### [Keeping versions up to date](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=0)** - [Instructor] The first step in securing your PHP installation is to keep all of your software versions up to date.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=0)** - [Instructor] The first step in securing your [[PHP]] installation is to keep all of your software versions up to date.
 >
 > **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=6)** Keeping software versions up to date is the easiest and most important security measure that you can take.
 >
@@ -439,9 +434,9 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=50)** This applies to PHP as well as to other software that you're using.
 >
-> **[0:54](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=54)** Your web server, database, libraries of code, and code from third parties, especially frameworks or open source applications like WordPress.
+> **[0:54](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=54)** Your web server, database, libraries of code, and code from third parties, especially frameworks or open source applications like [[WordPress]].
 >
-> **[1:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=62)** You should also make sure that all of your servers are kept on the same latest versions of the hardware.
+> **[1:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=62)** You should also make sure that all of your servers are kept on the same latest versions of the [[Hardware]].
 >
 > **[1:08](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-versions-up-to-date?u=76281980&t=68)** Of course, you'll test new versions on a development server before you put them into production.
 >
@@ -471,7 +466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[PHP]] (5), web (1), database (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[WordPress]] (1), [[Hardware]] (1)
 > **CLI Commands:** php (5), make (3), find (3)
 > **Env Vars:** php (4)
 > **URLs:** [php.net](https://php.net) (1)
@@ -479,14 +474,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### phpinfo and phpMyAdmin
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980)
+#### [phpinfo and phpMyAdmin](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=0)** - [Instructor] phpinfo and phpMyAdmin are useful tools, but it's essential that you keep them secure.
 >
-> **[0:07](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=7)** A phpinfo file is simply a PHP file that calls the built-in function phpinfo.
+> **[0:07](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=7)** A phpinfo file is simply a [[PHP]] file that calls the built-in function phpinfo.
 >
 > **[0:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=13)** When accessed through the browser, it reports a lot of useful information about how the server has been set up, what's installed, and all the configurations that PHP uses.
 >
@@ -498,7 +492,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=34)** You also need to be careful with phpMyAdmin.
 >
-> **[0:37](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=37)** phpMyAdmin is a third-party application that gives access to a MySQL database using a browser.
+> **[0:37](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=37)** phpMyAdmin is a third-party application that gives access to a [[MySQL]] database using a browser.
 >
 > **[0:43](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/phpinfo-and-phpmyadmin?u=76281980&t=43)** I mention PHP admin here, even though it's a third-party application, because it's very popular.
 >
@@ -534,7 +528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (3), database (3), application (2), web (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[MySQL]] (3)
 > **CLI Commands:** php (4), mysql (3), find (1), apache (1), make (1)
 > **Code Identifiers:** phpmyadmin (6)
 > **Env Vars:** php (4), http (1)
@@ -543,12 +537,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure error reporting and logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980)
+#### [Configure error reporting and logging](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to configure error reporting in PHP with security in mind.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to configure error reporting in [[PHP]] with security in mind.
 >
 > **[0:05](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=5)** There are four primary configurations for error reporting.
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=71)** Warning is for non-fatal errors.
 >
-> **[1:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=73)** PHP found a big problem but it was able to keep going with the rest of the script anyway.
+> **[1:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=73)** PHP found a big problem but it was able to keep going with the [[Representational State Transfer (REST)|rest]] of the script anyway.
 >
 > **[1:18](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=78)** Notice allows PHP to give you notices about potential issues.
 >
@@ -658,7 +651,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=220)** It should be the full and complete path to find that file on the hard drive.
 >
-> **[3:44](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=224)** If you're on Windows, you would use C: at the start.
+> **[3:44](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=224)** If you're on [[Windows]], you would use C: at the start.
 >
 > **[3:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/configure-error-reporting-and-logging?u=76281980&t=227)** Another option is to use the syslog keyword.
 >
@@ -672,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (17), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[PHP]] (17), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **CLI Commands:** php (17), find (4), make (1)
 > **Env Vars:** php (15), e_all (1)
 > **Code Identifiers:** display_errors (3), log_errors (3), error_log (1), error_reporting (1)
@@ -681,12 +674,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), imagine (1)
 > **File Paths:** php.ini (1)
 
-#### Other configuration options
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980)
+#### [Other configuration options](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=0)** - [Instructor] Let's take a look at a few other configurations in your php.ini file.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=0)** - [Instructor] Let's take a look at a few other configurations in your [[PHP]].ini file.
 >
 > **[0:05](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=5)** Many of these are optional configurations, and many of them will depend on how you use php.
 >
@@ -724,7 +716,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=78)** That information is being included by the web server, which is Apache in my case.
 >
-> **[1:22](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=82)** That's something we would need to turn off in the web servers configuration.
+> **[1:22](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=82)** That's something we would need to turn off in the [[Web Servers]] configuration.
 >
 > **[1:26](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=86)** That's beyond the scope of this course, but you could do it for Apache by setting the configuration for server signature to off.
 >
@@ -764,7 +756,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=165)** File uploads is typically on.
 >
-> **[2:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=167)** The default setting allows you to create HTML forms which can upload files.
+> **[2:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=167)** The default setting allows you to create [[HTML]] [[Forms]] which can upload files.
 >
 > **[2:51](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/other-configuration-options?u=76281980&t=171)** But if you don't need file uploads, you can turn it off.
 >
@@ -798,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (18), web (4), [[Security]] (3), hit (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (18), [[Web Servers]] (1), [[HTML]] (1), [[Forms]] (1)
 > **CLI Commands:** php (18), curl (4), apache (2), make (1)
 > **File Paths:** php.ini (2), ini.php (1)
 > **Code Identifiers:** expose_php (1), allow_url_fopen (1), allow_url_include (1)
@@ -807,12 +799,11 @@ created: 2026-05-02
 > **Versions:** php 7 (1), 3.11 (1)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### PHP on a shared host
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980)
+#### [PHP on a shared host](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=0)** - [Instructor] In this movie, we'll talk about how to configure PHP when it's being used on a shared host.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=0)** - [Instructor] In this movie, we'll talk about how to configure [[PHP]] when it's being used on a shared host.
 >
 > **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=6)** The best place to configure PHP is via the php.ini file.
 >
@@ -838,15 +829,15 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=69)** Over the last decade, shared hosting has largely been replaced by virtual private servers.
 >
-> **[1:15](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=75)** On a virtual private server, users share hardware, but everybody gets their own operating system.
+> **[1:15](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=75)** On a virtual private server, users share [[Hardware]], but everybody gets their own operating system.
 >
-> **[1:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=80)** If you sign up for a server and it feels like you have your own Linux server all to yourself, then you're using a virtual private server.
+> **[1:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=80)** If you sign up for a server and it feels like you have your own [[Linux]] server all to yourself, then you're using a virtual private server.
 >
 > **[1:27](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-on-a-shared-host?u=76281980&t=87)** It gives you a lot more freedom to manage the server the way you want, but it means that you're more responsible for configuration and maintenance, but it does give you the freedom to manage your PHP installation using the php.ini file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), web (2), [[Hardware]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[PHP]] (11), [[Hardware]] (1), [[Linux]] (1)
 > **CLI Commands:** php (11), make (1)
 > **Env Vars:** php (8), isp (1)
 > **Prerequisites:** configure (7)
@@ -860,12 +851,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validating input
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980)
+#### [Validating input](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=0)** - [Instructor] In this chapter, we will learn real-world techniques to secure the input to PHP and the output from PHP.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=0)** - [Instructor] In this chapter, we will learn real-world techniques to secure the input to [[PHP]] and the output from PHP.
 >
 > **[0:07](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=7)** We'll start by using PHP to validate that input data matches our expectations.
 >
@@ -1023,7 +1013,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=358)** It depends on whether you're checking a database and what kind of database you're using.
 >
-> **[6:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=362)** You might be using MySQL, PDO objects or prepared statements.
+> **[6:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=362)** You might be using [[MySQL]], PDO objects or prepared statements.
 >
 > **[6:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/validating-input?u=76281980&t=366)** Instead, I've just given you a mock-up of the concept so that you can implement it yourself.
 >
@@ -1119,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[PHP]] (13), database (5), next (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (13), [[MySQL]] (1)
 > **CLI Commands:** php (13), make (5), mysql (1), find (1)
 > **Env Vars:** php (11), url (6), pdo (1)
 > **Definitions:** is a  (9), is an  (1)
@@ -1128,16 +1118,15 @@ created: 2026-05-02
 > **File Paths:** validation_functions.php (1), validation_tests.php (1)
 > **Tools:** firefox (2)
 
-#### Sanitizing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980)
+#### [Sanitizing data](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=0)** - [Presenter] In addition to writing validations, we also want to sanitize the data that comes into your PHP code.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=0)** - [Presenter] In addition to writing validations, we also want to sanitize the data that comes into your [[PHP]] code.
 >
 > **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=6)** Many common types of hacks, pass in data that's carefully constructed to cause harm.
 >
-> **[0:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=12)** Special strings can be used to affect many parts of the code, from the database to JavaScript, to HTML and more.
+> **[0:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=12)** Special strings can be used to affect many parts of the code, from the database to [[JavaScript]], to [[HTML]] and more.
 >
 > **[0:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=20)** Sanitizing the input will convert harmful data into harmless data.
 >
@@ -1193,13 +1182,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=156)** The PHP function URL encode will encode a string so that it can be used in a link or a URL.
 >
-> **[2:42](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=162)** JSON encode will encode a string so that it's safe for use in JavaScript or JSON.
+> **[2:42](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=162)** [[JSON]] encode will encode a string so that it's safe for use in JavaScript or JSON.
 >
 > **[2:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=167)** If you're using a database, you'll need to escape strings before you use them with the database both for inserting data into the table as well as for querying a table.
 >
-> **[2:56](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=176)** Most databases offer some kind of functions with them that will escape data specifically for that database type.
+> **[2:56](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=176)** Most [[Databases]] offer some kind of functions with them that will escape data specifically for that database type.
 >
-> **[3:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=182)** If you're using MySQL then you can use MySQLi real escape string.
+> **[3:02](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=182)** If you're using [[MySQL]] then you can use MySQLi real escape string.
 >
 > **[3:07](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=187)** If you don't have a database specific function available, PHP also offers add slashes which is a generic function that escapes key characters that are typically associated with databases; primarily quotation marks.
 >
@@ -1305,7 +1294,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=431)** It can use add slashes but if we had a database, it would be better to use the database specific function like MySQLi real escape string.
 >
-> **[7:19](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=439)** Then I'm going to use that string to construct some SQL.
+> **[7:19](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=439)** Then I'm going to use that string to construct some [[SQL]].
 >
 > **[7:22](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=442)** So you can see I'm dropping it in right here.
 >
@@ -1333,7 +1322,7 @@ created: 2026-05-02
 >
 > **[8:21](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=501)** The dash dash is an SQL comment that says ignore everything that comes after that.
 >
-> **[8:25](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=505)** So the rest of it is irrelevant.
+> **[8:25](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=505)** So the [[Representational State Transfer (REST)|rest]] of it is irrelevant.
 >
 > **[8:27](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sanitizing-data?u=76281980&t=507)** This would match every single customer in the database.
 >
@@ -1385,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (20), data (16), database (15), [[PHP]] (13), [[JavaScript]] (10)
+> **Frameworks & Libraries:** [[HTML]] (20), [[PHP]] (13), [[JavaScript]] (10), [[SQL]] (7), [[JSON]] (2)
 > **Env Vars:** html (20), php (11), url (10), sql (7), json (2)
 > **CLI Commands:** php (13), cat (1), mysql (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -1394,14 +1383,13 @@ created: 2026-05-02
 > **File Paths:** html.php (1)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### Keeping code private
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980)
+#### [Keeping code private](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=0)** - [Instructor] Controlling output also means controlling visibility.
 >
-> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=3)** And there are parts of our application we choose to show users like the HTML output, but even more parts that we want to keep hidden like our application logic, functions, and database passwords.
+> **[0:03](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=3)** And there are parts of our application we choose to show users like the [[HTML]] output, but even more parts that we want to keep hidden like our application logic, functions, and database passwords.
 >
 > **[0:14](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=14)** Because of that, you should always organize your code into public and private areas.
 >
@@ -1417,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=41)** Those private libraries could be in a directory that's not accessible to the web server, but would still be accessible to your code because your code has access to the file system.
 >
-> **[0:53](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=53)** Most PHP frameworks use this type of public private code organization, so that you don't have to worry about it.
+> **[0:53](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=53)** Most [[PHP]] frameworks use this type of public private code organization, so that you don't have to worry about it.
 >
 > **[0:58](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=58)** But if you're not using a framework, it's a smart way to organize your code.
 >
@@ -1433,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=85)** Storing credentials in a single file separated from your code makes it easier to treat them with care.
 >
-> **[1:31](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=91)** It also makes it easier to exclude that file from version control systems, like GIT or SVN, where you wouldn't want them shared and permanently archived.
+> **[1:31](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=91)** It also makes it easier to exclude that file from [[Version Control]] systems, like [[Git]] or SVN, where you wouldn't want them shared and permanently archived.
 >
 > **[1:39](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/keeping-code-private?u=76281980&t=99)** And it's a good idea to keep as few copies of the credentials around as you can.
 >
@@ -1539,7 +1527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (15), web (10), database (6), application (4), [[HTML]] (2)
+> **Frameworks & Libraries:** [[PHP]] (15), [[HTML]] (2), [[Version Control]] (1), [[Git]] (1)
 > **CLI Commands:** php (15), git (1), make (1), apache (1), nginx (1)
 > **File Paths:** index.php (9), initialize.php (2), passwords.php (2), functions.php (1)
 > **Env Vars:** html (2), php (1), git (1), svn (1), nginx (1)
@@ -1548,8 +1536,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Documentation:** the documentation (1)
 
-#### Smart logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980)
+#### [Smart logging](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1550,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=12)** You want to log sensitive actions whenever they're performed, and you want to log possible attacks.
 >
-> **[0:17](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=17)** PHP will log major errors for you already.
+> **[0:17](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=17)** [[PHP]] will log major errors for you already.
 >
 > **[0:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=20)** In the configuration chapter, we learned how to configure which errors are shown and logged, but there could be application errors that aren't PHP errors.
 >
@@ -1611,19 +1598,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=130)** There's monolog, there's log for PHP, keylogger, and analog.
 >
-> **[2:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=136)** All of those you can find on GitHub.
+> **[2:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=136)** All of those you can find on [[GitHub]].
 >
 > **[2:18](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=138)** If you're using a PHP framework, most of them have their own logging tools.
 >
-> **[2:22](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=142)** Laravel and Symfony incorporate monolog.
+> **[2:22](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=142)** [[Laravel]] and Symfony incorporate monolog.
 >
-> **[2:26](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=146)** Drupal, Zend, Magento all use built-in classes.
+> **[2:26](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=146)** [[Drupal]], Zend, Magento all use built-in classes.
 >
 > **[2:30](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/smart-logging?u=76281980&t=150)** Whether you use one of these or you write your own, logging will help you to monitor your application and detect problems that could impact your website security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), application (5), database (2), [[Debugging]] (1), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[GitHub]] (1), [[Laravel]] (1), [[Drupal]] (1)
 > **CLI Commands:** php (6), make (2), find (1)
 > **Env Vars:** php (4), unix (1)
 > **Tools:** firefox (2), github (1)
@@ -1632,8 +1619,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Cookie configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980)
+#### [Cookie configuration](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1647,7 +1633,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=15)** In many browsers, a user can simply go into the browser preferences to inspect their cookies.
 >
-> **[0:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=20)** We also already discussed that cross-site scripting attacks can use JavaScript to access and steal cookie data.
+> **[0:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=20)** We also already discussed that cross-site scripting attacks can use [[JavaScript]] to access and steal cookie data.
 >
 > **[0:27](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=27)** If a website is not using HTTPS exclusively, then cookie data is also visible in transit from the browser to the web server and vice versa.
 >
@@ -1665,7 +1651,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=68)** You should use HTTPS for all your web pages and then use secure cookies, which are sent only if the connection is encrypted.
 >
-> **[1:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=76)** In PHP, we can do all of this using the set cookie function.
+> **[1:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=76)** In [[PHP]], we can do all of this using the set cookie function.
 >
 > **[1:19](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cookie-configuration?u=76281980&t=79)** The first two arguments are the cookie name and value.
 >
@@ -1707,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (3), [[PHP]] (3), web (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[PHP]] (3)
 > **Env Vars:** https (4), php (2), http (2)
 > **CLI Commands:** php (3), make (2)
 > **Definitions:** short for (2), is a  (2)
@@ -1721,8 +1707,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cross-site scripting (XSS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980)
+#### [Cross-site scripting (XSS)](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1732,7 +1717,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=9)** We'll begin by looking at cross-site scripting, or XSS for short.
 >
-> **[0:14](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=14)** Cross-site scripting is when a hacker is able to inject arbitrary JavaScript code into someone else's webpage.
+> **[0:14](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=14)** Cross-site scripting is when a hacker is able to inject arbitrary [[JavaScript]] code into someone else's webpage.
 >
 > **[0:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=20)** It's used to trick users of that webpage into running that JavaScript code.
 >
@@ -1740,7 +1725,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=27)** An example of a cross-site scripting attack would be getting a user to click a malicious link which includes a URL parameter containing JavaScript.
 >
-> **[0:35](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=35)** When the page loads, if the parameter is included in the HTML, it will include the JavaScript and the code will execute.
+> **[0:35](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=35)** When the page loads, if the parameter is included in the [[HTML]], it will include the JavaScript and the code will execute.
 >
 > **[0:43](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=43)** This example just pops up a harmless alert box that says, "Gotcha!"
 >
@@ -1754,19 +1739,19 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=65)** We defend against cross-site scripting attacks by sanitizing any dynamic text that gets output to the browser.
 >
-> **[1:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=72)** It could be HTML, JavaScript, JSON, XML.
+> **[1:12](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=72)** It could be HTML, JavaScript, [[JSON]], XML.
 >
 > **[1:15](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=75)** It doesn't matter.
 >
 > **[1:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=76)** Any dynamic data used in the response needs to be sanitized.
 >
-> **[1:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=80)** You should certainly sanitize data that comes directly from users via URLs or submitted forms, but you should also sanitize data that comes from the database: From files, from cookies or from sessions.
+> **[1:20](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=80)** You should certainly sanitize data that comes directly from users via URLs or submitted [[Forms]], but you should also sanitize data that comes from the database: From files, from cookies or from sessions.
 >
 > **[1:33](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=93)** It may have originally come from a user, or it may have been modified since it was stored.
 >
 > **[1:37](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=97)** We learned sanitization techniques in the last chapter, so I won't go over them again but I will give you some functions to streamline the sanitization process.
 >
-> **[1:45](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=105)** In the file xss_sanitize_functions.php, I've given you three functions for sanitizing data.
+> **[1:45](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=105)** In the file xss_sanitize_functions.[[PHP]], I've given you three functions for sanitizing data.
 >
 > **[1:52](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-scripting-xss?u=76281980&t=112)** Each function name is a single letter which I've borrowed from Ruby's ERB.
 >
@@ -1792,7 +1777,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (9), data (7), [[Scripting]] (5), [[HTML]] (4), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (9), [[HTML]] (4), [[JSON]] (2), [[Forms]] (1), [[PHP]] (1)
 > **Env Vars:** html (4), url (2), json (2), xss (1), xml (1)
 > **CLI Commands:** php (1), ruby (1), make (1)
 > **File Paths:** xss_sanitize_functions.php (1)
@@ -1801,12 +1786,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** gotcha (1)
 
-#### Cross-site request forgery (CSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980)
+#### [Cross-site request forgery (CSRF)](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to use PHP to protect against cross-site request forgery, which is also known as CSRF.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to use [[PHP]] to protect against cross-site request forgery, which is also known as CSRF.
 >
 > **[0:08](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=8)** Cross-site request forgery is when a hacker tricks a user into making a request to a third-party website.
 >
@@ -1820,7 +1804,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=30)** Imagine that you, as a user, are logged into your bank account.
 >
-> **[0:33](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=33)** And once you're done with your banking, you navigate away from the window, but you don't actually click log out.
+> **[0:33](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=33)** And once you're done with your [[Banking]], you navigate away from the window, but you don't actually click log out.
 >
 > **[0:38](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=38)** That means you're logged in session with the bank is still open.
 >
@@ -1860,7 +1844,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=107)** It's possible to generate a post request without actually having a web form, but it's harder to trick someone into accidentally sending a secret post request.
 >
-> **[1:55](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=115)** Once post methods are required for changes, then we can add protections to ensure that the form data comes from legitimate forms that the website generated, and not from a fake version.
+> **[1:55](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=115)** Once post methods are required for changes, then we can add protections to ensure that the form data comes from legitimate [[Forms]] that the website generated, and not from a fake version.
 >
 > **[2:05](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=125)** A token can be generated and stored in the user session.
 >
@@ -1880,7 +1864,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=160)** You can use it to make sure that only post requests add, edit or delete data.
 >
-> **[2:45](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=165)** In the file CSRF token functions, I've included functions to help you generate and work with CSRF tokens.
+> **[2:45](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=165)** In the file CSRF token functions, I've included functions to help you generate and work with CSRF [[Tokens]].
 >
 > **[2:52](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=172)** The CSRF token function will generate a unique token that we can use for our CSRF protection.
 >
@@ -1892,7 +1876,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=193)** It removes the data from the session.
 >
-> **[3:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=196)** The CSRF token tag returns an HTML tag that includes a newly generated and stored token.
+> **[3:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=196)** The CSRF token tag returns an [[HTML]] tag that includes a newly generated and stored token.
 >
 > **[3:24](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/cross-site-request-forgery-csrf?u=76281980&t=204)** It's calling those functions up above.
 >
@@ -1956,7 +1940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), web (3), data (3), [[Forms]] (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (4), [[Forms]] (2), [[Tokens]] (2), [[Banking]] (1)
 > **Env Vars:** csrf (19), html (4), php (3), url (2)
 > **CLI Commands:** make (5), php (4)
 > **Definitions:** is a  (6), known as (1)
@@ -1965,12 +1949,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** imagine (1)
 
-#### SQL injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sql-injection?u=76281980)
+#### [SQL injection](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sql-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sql-injection?u=76281980&t=0)** - [Instructor] In this movie, we will learn to prevent SQL injection as our PHP code interacts with an SQL database.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sql-injection?u=76281980&t=0)** - [Instructor] In this movie, we will learn to prevent [[SQL]] injection as our [[PHP]] code interacts with an SQL database.
 >
 > **[0:07](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/sql-injection?u=76281980&t=7)** SQL injection is when a hacker is able to execute arbitrary SQL requests.
 >
@@ -2062,7 +2045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (14), data (11), database (10), [[PHP]] (8), application (1)
+> **Frameworks & Libraries:** [[SQL]] (14), [[PHP]] (8)
 > **Env Vars:** sql (14), php (5), pdo (1)
 > **CLI Commands:** php (8)
 > **Code Identifiers:** sqli_escape_function (1), sql_prep (1), mysqli_real_escape_string (1), sqli_prepared_statement (1)
@@ -2071,8 +2054,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### Session hijacking and fixation
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980)
+#### [Session hijacking and fixation](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2110,13 +2092,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=77)** If the user is considered logged in, then the attacker is too.
 >
-> **[1:21](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=81)** Session fixation is often performed by including the session identifier in a URL string or added using JavaScript.
+> **[1:21](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=81)** Session fixation is often performed by including the session identifier in a URL string or added using [[JavaScript]].
 >
 > **[1:28](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=88)** Session hijacking and fixation have similar solutions, so we'll cover them together.
 >
 > **[1:33](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=93)** First, never accept session identifiers from anywhere besides cookies.
 >
-> **[1:37](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=97)** PHP can be configured to accept IDs sent in from the GET and POST variables too.
+> **[1:37](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=97)** [[PHP]] can be configured to accept IDs sent in from the GET and POST variables too.
 >
 > **[1:41](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/session-hijacking-and-fixation?u=76281980&t=101)** It was even a default setting early on.
 >
@@ -2200,7 +2182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (4), [[Scripting]] (2), feature (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[JavaScript]] (4)
 > **Code Identifiers:** user_agent (3), is_session_valid (2), cookie_lifetime (1), use_cookies (1), cookie_httponly (1)
 > **Env Vars:** php (3), post (2), https (2), url (1), http (1)
 > **CLI Commands:** php (5), make (2), find (1)
@@ -2209,12 +2191,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Versions:** php 7 (1)
 
-#### Remote system execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/remote-system-execution?u=76281980)
+#### [Remote system execution](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/remote-system-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/remote-system-execution?u=76281980&t=0)** - [Instructor] In this movie, we'll learn to protect our PHP code from the most powerful attack of all, remote system execution.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/remote-system-execution?u=76281980&t=0)** - [Instructor] In this movie, we'll learn to protect our [[PHP]] code from the most powerful attack of all, remote system execution.
 >
 > **[0:06](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/remote-system-execution?u=76281980&t=6)** Remote system execution is when an attacker gains the ability to run operating system commands on the web server.
 >
@@ -2322,7 +2303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), data (6), [[Security]] (2), web (1), power (1)
+> **Frameworks & Libraries:** [[PHP]] (10)
 > **CLI Commands:** php (10), make (2)
 > **Env Vars:** php (9)
 > **Definitions:** is a  (3), is an  (1)
@@ -2331,12 +2312,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **Warnings:** caution (1), gotcha (1)
 
-#### PHP code injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980)
+#### [PHP code injection](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=0)** - [Narrator] In this movie, we'll learn about PHP code injection and how to protect your code from it.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=0)** - [Narrator] In this movie, we'll learn about [[PHP]] code injection and how to protect your code from it.
 >
 > **[0:05](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=5)** PHP code injection is when a hacker is able to execute arbitrary PHP code on the web server.
 >
@@ -2364,7 +2344,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=76)** Here, I'm asking for that super secret password file that we looked at in the last movie or you can append something on.
 >
-> **[1:23](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=83)** So for example, let's say we're going to have PHP that echoes some code to the HTML, the hacker could close the PHP tag then insert some JavaScript and then reopen the PHP tag again.
+> **[1:23](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=83)** So for example, let's say we're going to have PHP that echoes some code to the [[HTML]], the hacker could close the PHP tag then insert some [[JavaScript]] and then reopen the PHP tag again.
 >
 > **[1:35](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/php-code-injection?u=76281980&t=95)** Let's take a look at some examples using include.
 >
@@ -2406,7 +2386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (19), data (3), web (2), database (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (19), [[HTML]] (1), [[JavaScript]] (1)
 > **CLI Commands:** php (19), make (2), find (1)
 > **Env Vars:** php (19), html (1), ftp (1)
 > **Analogies:** for example (2), similar to (1), imagine (1)
@@ -2419,12 +2399,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980&t=0)** - [Instructor] I would like to thank you for taking PHP, creating secure sites with me.
+> **[0:00](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980&t=0)** - [Instructor] I would like to thank you for taking [[PHP]], creating secure sites with me.
 >
 > **[0:04](https://www.linkedin.com/learning/php-creating-secure-websites-8399320/next-steps?u=76281980&t=4)** We've covered a lot of ground in this course.
 >
@@ -2442,7 +2421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[PHP]] (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1), is an  (1)

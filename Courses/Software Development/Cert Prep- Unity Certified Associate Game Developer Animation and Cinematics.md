@@ -78,12 +78,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980&t=0)** - [Instructor] Greetings, and welcome to this Unity -certified associate course, Animation and Cinematics, presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980&t=0)** - [Instructor] Greetings, and welcome to this [[Unity]] -certified associate course, Animation and Cinematics, presented by [[LinkedIn]] Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/introduction?u=76281980&t=10)** On this course, you'll learn how to animate objects and scenes inside Unity, and set up your cameras to create interesting and compelling shots.
 >
@@ -101,16 +100,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1), feature (1), game (1), power (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/companion-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files then you'll have access to a folder like this containing a range of different Unity projects.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/companion-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files then you'll have access to a folder like this containing a range of different [[Unity]] projects.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/companion-files?u=76281980&t=9)** As we move throughout this course video by video, I'll be calling out different files and folders to use.
 >
@@ -131,12 +129,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rotating through update functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980)
+#### [Rotating through update functions](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=0)** - [Instructor] In this chapter of the course, we're going to look at some lesser known ways of animating objects, here inside Unity.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=0)** - [Instructor] In this chapter of the course, we're going to look at some lesser known ways of animating objects, here inside [[Unity]].
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=6)** In later chapters, we'll see the classical animation features.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=197)** So, I'm going to choose RotSpeed multiplied by Time.deltaTime.
 >
-> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=201)** If you're not familiar with the basics of scripting here inside Unity, be sure to check out our certification module on scripting and publishing here at LinkedIn Learning.
+> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=201)** If you're not familiar with the basics of scripting here inside Unity, be sure to check out our certification module on scripting and publishing here at [[LinkedIn]] Learning.
 >
 > **[3:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/rotating-through-update-functions?u=76281980&t=211)** So, I'm going to save this script file.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), hit (2), [[Scripting]] (2), game (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Unity]] (8), [[LinkedIn]] (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (4), drag and drop (1)
 > **Code Identifiers:** deltatime (3)
@@ -271,8 +268,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), template (1)
 > **Analogies:** for example (2)
 
-#### Animating with Animation Curves
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980)
+#### [Animating with Animation Curves](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980&t=89)** Now we're going to be coming back to this script file.
 >
-> **[1:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980&t=92)** But having created this animation curve, I want to jump back to unity to show you how it works.
+> **[1:32](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980&t=92)** But having created this animation curve, I want to jump back to [[Unity]] to show you how it works.
 >
 > **[1:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/animating-with-animation-curves?u=76281980&t=100)** And jumping back to unity.
 >
@@ -434,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), game (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **UI Navigation:** select the (3), click on (2), drag and drop (1)
 > **Tools:** visual studio (3)
 > **Definitions:** is a  (2), means that (1)
@@ -443,14 +439,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Prerequisites:** set up (2)
 
-#### Creating animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980)
+#### [Creating animations](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=0)** - [Instructor] In the previous movie, we created an animation sequence using programmatic animation to create these jumping, spinning food items, the banana, the olive and the cheese.
 >
-> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=12)** In this movie, I want to configure the camera to move around these objects using more of the traditional animation techniques here inside the unity engine, but we'll also see how it can link up to programmatic animation so that we can create a link between pre scripted animation that we can make here inside the unity editor, but also link it up to our code so we can respond during particular times within an animation.
+> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=12)** In this movie, I want to configure the camera to move around these objects using more of the traditional animation techniques here inside the [[Unity]] engine, but we'll also see how it can link up to programmatic animation so that we can create a link between pre scripted animation that we can make here inside the unity editor, but also link it up to our code so we can respond during particular times within an animation.
 >
 > **[0:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=43)** To start configuring this, we want to set up the camera in the scene to prepare for that animation.
 >
@@ -502,7 +497,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=267)** And I'm going to select the option here that says Animation.
 >
-> **[4:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=270)** Be careful not to choose Animator or Animator Parameter, it's going to be Animation, can press Ctrl + 6 on a windows PC or Command + 6 on a Mac and select that option here.
+> **[4:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=270)** Be careful not to choose Animator or Animator Parameter, it's going to be Animation, can press Ctrl + 6 on a [[Windows]] PC or Command + 6 on a Mac and select that option here.
 >
 > **[4:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-animations?u=76281980&t=281)** Now I may appear for you as a free floating window as it does for me, and you can just drag and drop that to the bottom.
 >
@@ -530,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), next (3), game (2), hit (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Unity]] (6), [[Windows]] (1)
 > **UI Navigation:** select the (5), drag and drop (2), right-click (1)
 > **Prerequisites:** set up (3), configure (1)
 > **CLI Commands:** make (3)
@@ -539,8 +534,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 
-#### Using the animation window
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/using-the-animation-window?u=76281980)
+#### [Using the animation window](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/using-the-animation-window?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -632,7 +626,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (1), node (1), next (1)
 > **UI Navigation:** select the (3), go to (1), switch to (1), double-click (1)
 > **CLI Commands:** make (3), node (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -640,8 +633,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with animation events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980)
+#### [Working with animation events](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=45)** You'll see that it creates a canvas and an event system.
 >
-> **[0:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=48)** Now the details of creating UI objects are covered in a different course on Unity certification here at LinkedIn learning.
+> **[0:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=48)** Now the details of creating UI objects are covered in a different course on [[Unity]] certification here at [[LinkedIn]] learning.
 >
 > **[0:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-animation-events?u=76281980&t=57)** So be sure to check out our 2D and UI course for creating UI elements and the details on how to do that.
 >
@@ -843,7 +835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), [[Unity]] (4), [[LinkedIn]] (1), [[Search]] (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[LinkedIn]] (1)
 > **UI Navigation:** select the (6), dropdown (4), switch to (2), click on (2)
 > **CLI Commands:** make (4), find (4)
 > **Cross-References:** go back to (2)
@@ -856,8 +848,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980)
+#### [Importing characters](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=4)** And to demonstrate that, I've opened up this scene here the Charanim scene included in the course exercise files.
 >
-> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=12)** This scene is based on the assets that are freely available from the unity asset store, the haunted house resources.
+> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=12)** This scene is based on the assets that are freely available from the [[Unity]] asset store, the haunted house resources.
 >
 > **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=20)** If I bring in a web browser window, I've gone ahead and downloaded the 3D beginner tutorial resources which you can find from Unity technologies at the Unity asset store.
 >
@@ -885,7 +876,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=70)** In particular inside the models folder and the characters folder, we have the main character here.
 >
-> **[1:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=78)** This John Lemon asset which I'll drag and drop into the scene.
+> **[1:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=78)** This [[John the Ripper|John]] Lemon asset which I'll drag and drop into the scene.
 >
 > **[1:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=84)** It's a character model.
 >
@@ -943,7 +934,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=280)** We have the idle animation set here which we can preview.
 >
-> **[4:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=287)** The animation itself is actually contained inside this mesh.
+> **[4:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=287)** The animation itself is actually contained inside this [[Mesh]].
 >
 > **[4:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-characters?u=76281980&t=292)** This is imported as an FBX file and the animation data was included in this file.
 >
@@ -975,7 +966,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (5), node (3), generic (2), hit (2), [[Mesh]] (2)
+> **Frameworks & Libraries:** [[Unity]] (5), [[Mesh]] (2), [[John the Ripper|John]] (1)
 > **UI Navigation:** select the (7), drag and drop (3), double-click (3), click on (1), go to (1)
 > **CLI Commands:** node (3), find (2)
 > **Cross-References:** in the next (2), go back to (1)
@@ -984,8 +975,7 @@ created: 2026-05-02
 > **Code Identifiers:** animcharmain (1)
 > **Env Vars:** fbx (1)
 
-#### Non-humanoid and generic animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980)
+#### [Non-humanoid and generic animations](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,9 +989,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=35)** So that this character works in the way that it does.
 >
-> **[0:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=39)** I'm going to go back to the assets folder, I'm going to move to the characters folder you'll find this character inside models, characters, and then it's the John Lennon character which I can left click to select inside the Project Panel.
+> **[0:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=39)** I'm going to go back to the assets folder, I'm going to move to the characters folder you'll find this character inside models, characters, and then it's the [[John the Ripper|John]] Lennon character which I can left click to select inside the Project Panel.
 >
-> **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=54)** Every mesh that you import can have its data spanning across a range of tabs that you can see here inside the inspector.
+> **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=54)** Every [[Mesh]] that you import can have its data spanning across a range of tabs that you can see here inside the inspector.
 >
 > **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=63)** Critical to animation are the center two tabs.
 >
@@ -1009,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=72)** Typically when you import an animated character, it's set up to contain bones.
 >
-> **[1:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=78)** These are not created and applied inside Unity.
+> **[1:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=78)** These are not created and applied inside [[Unity]].
 >
 > **[1:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/non-humanoid-and-generic-animations?u=76281980&t=81)** These will have previously been created and applied inside character animation software, such as Maya, 3ds Max or Blender or some other kind of tool.
 >
@@ -1123,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (6), node (5), data (4), [[Unity]] (4), [[Mesh]] (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[John the Ripper|John]] (2), [[Mesh]] (1)
 > **CLI Commands:** node (5), find (1), make (1)
 > **Prerequisites:** set up (5), configure (1)
 > **UI Navigation:** drag and drop (2), select the (2), switch to (1)
@@ -1132,12 +1122,11 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Humanoid animations and configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/humanoid-animations-and-configuration?u=76281980)
+#### [Humanoid animations and configuration](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/humanoid-animations-and-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/humanoid-animations-and-configuration?u=76281980&t=0)** - [Instructor] In this movie, we're going to work with the Unity humanoid system that's part of Mecanim.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/humanoid-animations-and-configuration?u=76281980&t=0)** - [Instructor] In this movie, we're going to work with the [[Unity]] humanoid system that's part of Mecanim.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/humanoid-animations-and-configuration?u=76281980&t=6)** The broader character animation system.
 >
@@ -1269,7 +1258,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), generic (1), next (1), hit (1), game (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **UI Navigation:** switch to (4), select the (3), drag and drop (3), scroll down (2), dropdown (1)
 > **Prerequisites:** configure (4), set up (2)
 > **Analogies:** for example (3), such as (1)
@@ -1278,14 +1267,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1), means that (1)
 > **Env Vars:** fbx (1)
 
-#### Getting started with parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980)
+#### [Getting started with parameters](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=0)** - [Instructor] In the previous movie we configured the Kyle robot to reuse this idle animation from a completely different model.
 >
-> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=9)** That was made possible and easy simply because of the humanoid system here inside Unity.
+> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=9)** That was made possible and easy simply because of the humanoid system here inside [[Unity]].
 >
 > **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/getting-started-with-parameters?u=76281980&t=15)** It really just made it a simple process.
 >
@@ -1463,7 +1451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Unity]] (3), hit (3), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **UI Navigation:** click on (4), select the (3), drag and drop (1), switch to (1), right-click (1)
 > **CLI Commands:** make (6), node (1)
 > **Cross-References:** in the next (1)
@@ -1471,8 +1459,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coding parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980)
+#### [Coding parameters](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1507,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980&t=170)** We are using this animator and the function dot set trigger to kick off that trigger and to play the named animation.
 >
-> **[2:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980&t=179)** I'm going to save this code and go back to unity here and select the robot character.
+> **[2:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980&t=179)** I'm going to save this code and go back to [[Unity]] here and select the robot character.
 >
 > **[3:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/coding-parameters?u=76281980&t=184)** The script that we have just created needs to be attached to the same object that has the animator component because remember we're going to be using the get component function to get access to that animator on the one and same object.
 >
@@ -1538,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Unity]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1552,8 +1539,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980)
+#### [Creating a timeline](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1561,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980&t=6)** If you want to create cut scenes, cinematics, and other really interesting animated sequences where lots of different objects need to move together synchronously, then you're going to want to know about timelines.
 >
-> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980&t=19)** To demonstrate this, I'm going to be using the 3D Game Kit Lite asset pack that you can get directly from the Unity asset store.
+> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980&t=19)** To demonstrate this, I'm going to be using the 3D Game Kit Lite asset pack that you can get directly from the [[Unity]] asset store.
 >
 > **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-a-timeline?u=76281980&t=29)** If I bring in a web browser window so you can see this information here, we have the link at the top where you need to navigate to if you want to download this asset pack.
 >
@@ -1681,14 +1667,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (6), [[Unity]] (5), hit (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (5)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyframes and clips
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/keyframes-and-clips?u=76281980)
+#### [Keyframes and clips](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/keyframes-and-clips?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1860,7 +1845,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), game (1), next (1)
 > **UI Navigation:** drag and drop (4), go to (3), select the (2), scroll down (2), click on (1)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2)
@@ -1869,8 +1853,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with multiple objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-multiple-objects?u=76281980)
+#### [Working with multiple objects](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-multiple-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,15 +1971,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** click on (2), select the (1)
 > **Analogies:** kind of like (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980)
+#### [Working with characters](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2034,7 +2015,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980&t=130)** Select the camera and then choose GameObject, Align With View, can check out here inside the main camera view, I've aligned the camera to the view.
 >
-> **[2:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980&t=139)** And in the act of aligning the camera to the view, Unity has detected this, already added key frames here so when I select the camera and I check out the position and the rotation fields, you can see that Unity has already key framed that data.
+> **[2:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980&t=139)** And in the act of aligning the camera to the view, [[Unity]] has detected this, already added key frames here so when I select the camera and I check out the position and the rotation fields, you can see that Unity has already key framed that data.
 >
 > **[2:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/working-with-characters?u=76281980&t=154)** Now I want to keep the camera at this position throughout the idling animation, until we reach about here where we transition to the walk animation.
 >
@@ -2090,7 +2071,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (2), game (2), prompt (1), hit (1), data (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **UI Navigation:** select the (6), click on (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (1)
@@ -2101,14 +2082,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing Cinemachine
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980)
+#### [Importing Cinemachine](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980&t=0)** - [Instructor] In this chapter, we're going to be taking a look at virtual cinematography.
 >
-> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980&t=5)** This is a library that Unity calls Cinemachine.
+> **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980&t=5)** This is a library that [[Unity]] calls Cinemachine.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/importing-cinemachine?u=76281980&t=9)** It's an asset package that we can bring into our projects, and it gives us the ability to create intelligent cameras that can frame different elements of our scene.
 >
@@ -2166,15 +2146,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (4), feature (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **Prerequisites:** install (4), set up (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first camera shot
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980)
+#### [Creating your first camera shot](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2220,7 +2199,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980&t=178)** In this case, we are negative 10 meters on the z-axis away from the player.
 >
-> **[3:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980&t=184)** I can click inside that field to zoom in and check out where we are.
+> **[3:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980&t=184)** I can click inside that field to [[Zoom]] in and check out where we are.
 >
 > **[3:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/creating-your-first-camera-shot?u=76281980&t=191)** So I can move around to the front and you can see I'm now looking at the player character from the front, but I'm going to zoom past the player and going to a negative value.
 >
@@ -2256,7 +2235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Zoom]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **CLI Commands:** make (2)
 > **UI Navigation:** drag and drop (1), click on (1)
 > **Versions:** 5.3 (1)
@@ -2265,14 +2244,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - previously (1)
 
-#### Free look camera rigs
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980)
+#### [Free look camera rigs](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=0)** - [Instructor] In this movie, we're going to configure a new type of cinemachine camera, so that we're going to get an aerial view of this cityscape and a camera that can orbit that cityscape giving us a panoramic scene.
 >
-> **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=15)** Now to demonstrate this I've opened up the Windridge City Demo Scene here, it's also included as an asset free of charge on the Unity Asset Store.
+> **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=15)** Now to demonstrate this I've opened up the Windridge City Demo Scene here, it's also included as an asset free of charge on the [[Unity]] Asset Store.
 >
 > **[0:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=25)** You can just search the asset store for that asset but it's included inside the course exercise files.
 >
@@ -2308,7 +2286,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=154)** They are actually visible inside the scene view but are too small for us to see right now, but I'm going to change that.
 >
-> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=161)** For the bottom rig, I'm going to click on the radius field and begin to drag that out here to something pretty large, maybe 120, and in fact, when I set it to 120, if you zoom in a bit you can see the red orbit around these buildings, so already that's too small.
+> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=161)** For the bottom rig, I'm going to click on the radius field and begin to drag that out here to something pretty large, maybe 120, and in fact, when I set it to 120, if you [[Zoom]] in a bit you can see the red orbit around these buildings, so already that's too small.
 >
 > **[3:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/free-look-camera-rigs?u=76281980&t=184)** So I'm going to increase the radius even further to ensure that it's a circle around the buildings.
 >
@@ -2346,15 +2324,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (2), [[Search]] (2), game (2), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Zoom]] (1)
 > **UI Navigation:** scroll down (2), drag and drop (2), click on (2)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Following paths
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980)
+#### [Following paths](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2378,7 +2355,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980&t=68)** I'm going to select that option.
 >
-> **[1:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980&t=71)** Now what I do this unity creates two separate objects.
+> **[1:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980&t=71)** Now what I do this [[Unity]] creates two separate objects.
 >
 > **[1:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/following-paths?u=76281980&t=74)** The first one is the Dolly track.
 >
@@ -2514,7 +2491,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), next (2), [[Unity]] (1), [[Search]] (1), node (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Versions:** 0.0 (3), 0.1 (2), 0.2 (2), 2.1 (1), 0.05 (1)
 > **CLI Commands:** make (4), node (1)
 > **Prerequisites:** set up (2), configure (2), setup (1)
@@ -2528,12 +2505,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980&t=0)** - Well, congratulations on reaching the end of this course Unity Certified Associate Animation and Cinematics presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980&t=0)** - Well, congratulations on reaching the end of this course [[Unity]] Certified Associate Animation and Cinematics presented by [[LinkedIn]] Learning.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-animation-and-cinematics/next-steps?u=76281980&t=11)** Over this course you have seen a wide variety of animation and cinematic features built into the Unity engine; features you can use straight away to make your life easier.
 >
@@ -2553,7 +2529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (2), game (2), feature (2), power (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - well (1)

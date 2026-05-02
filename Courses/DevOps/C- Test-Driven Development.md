@@ -83,8 +83,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing web applications and APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
+#### [Testing web applications and APIs](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,7 +95,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=21)** First, you create the test, and then you write the code.
 >
-> **[0:25](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=25)** In my LinkedIn Learning course, I will show you how to use TDD with .NET and C#.
+> **[0:25](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=25)** In my [[LinkedIn]] Learning course, I will show you how to use TDD with .NET and C#.
 >
 > **[0:32](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-web-applications-and-apis?u=76281980&t=32)** After taking a close look at the TDD process, we will use Visual Studio to create, and run tests using NUnit as our testing framework of choice.
 >
@@ -118,14 +117,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** tdd (4), net (3)
 > **Tools:** visual studio (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,13 +159,13 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=99)** You will still be able to follow along, but of course it's beneficial if you have already had some exposure to Entity Framework Core.
 >
-> **[1:49](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=109)** Also, we will be talking about testing web applications, so knowledge of [ASP.NET](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial.
+> **[1:49](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=109)** Also, we will be talking about testing web applications, so knowledge of [[[ASP.NET]]](https://ASP.NET) Core, especially [API.NET](https://API.NET) Core MVC is beneficial.
 >
 > **[2:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=120)** Having seen web APIs is helpful too.
 >
-> **[2:06](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=126)** Then, from a software development point of view, we'll be using an IDE to develop our applications and to work with the demos.
+> **[2:06](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=126)** Then, from a [[Software Development]] point of view, we'll be using an IDE to develop our applications and to work with the demos.
 >
-> **[2:17](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=137)** Visual Studio is the IDE of choice as it's a fully fledged IDE that Microsoft provides.
+> **[2:17](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=137)** Visual Studio is the IDE of choice as it's a fully fledged IDE that [[Microsoft]] provides.
 >
 > **[2:25](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-you-should-know-23401540?u=76281980&t=145)** The Community edition, which is free If you meet some prerequisites, please check it out on the Visual Studio website, is good enough for everything we cover in this course.
 >
@@ -191,7 +189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), database (1), [[ASP.NET Core]] (1), api (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1), [[Software Development]] (1), [[Microsoft]] (1)
 > **Env Vars:** net (8), ide (3), asp (1), api (1), mvc (1)
 > **Tools:** visual studio (8)
 > **URLs:** [asp.net](https://asp.net) (1), [api.net](https://api.net) (1)
@@ -204,8 +202,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
+#### [About testing](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/about-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -289,7 +286,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), application (1)
 > **Definitions:** is a  (3), is called (1)
 > **Cross-References:** later in (2)
 > **Analogies:** for instance (2)
@@ -298,12 +294,11 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - before (1)
 
-#### What is TDD?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980)
+#### [What is TDD?](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=0)** - [Instructor] Let's take a look at the process of test-driven development.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=0)** - [Instructor] Let's take a look at the process of [[Test-Driven Development]].
 >
 > **[0:04](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/what-is-tdd?u=76281980&t=4)** Test-driven development basically means we start with a test.
 >
@@ -347,19 +342,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Test-Driven Development]] (2)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** basically means (1), is an  (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advantages and disadvantages of TDD
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980)
+#### [Advantages and disadvantages of TDD](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=0)** - [Instructor] Test-driven development is a very appealing proposition but not everyone is doing it because as always, there are advantages but also potential disadvantages.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=0)** - [Instructor] [[Test-Driven Development]] is a very appealing proposition but not everyone is doing it because as always, there are advantages but also potential disadvantages.
 >
 > **[0:12](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=12)** And I don't want to go into a lengthy discussion here because you have already decided that you want to watch this course so you are at least interested in TDD.
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=157)** I think that's the major block for many that they say okay, I would love to do TDD but the way my application is structured because I already have an application or the way I envisioned my new application, it's really hard to write some of the tests.
 >
-> **[2:53](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=173)** I have a lot of dependencies. I work with databases.
+> **[2:53](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=173)** I have a lot of dependencies. I work with [[Databases]].
 >
 > **[2:56](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/advantages-and-disadvantages-of-tdd?u=76281980&t=176)** It's a map application. I communicate with an API.
 >
@@ -433,7 +427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (11), [[Test-Driven Development]] (1), [[Databases]] (1), api (1), management (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Databases]] (1)
 > **Env Vars:** tdd (6), ide (1), api (1)
 > **Analogies:** for instance (2), it's like (1)
 > **Definitions:** is a  (1)
@@ -441,12 +435,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Software and tooling
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980)
+#### [Software and tooling](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=0)** - There are several frameworks and tools with regards to unit testing in the .NET space.
+> **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=0)** - There are several frameworks and tools with regards to [[Unit Testing]] in the .NET space.
 >
 > **[0:08](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=8)** And this course is not on one specific framework and all of its features.
 >
@@ -460,9 +453,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=49)** There are a few which are relatively popular.
 >
-> **[0:51](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=51)** One is MSTest directly coming from Microsoft, but there are other options as well.
+> **[0:51](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=51)** One is MSTest directly coming from [[Microsoft]], but there are other options as well.
 >
-> **[0:58](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=58)** And the most famous, or probably most famous, unit testing tool is J unit from the Java world.
+> **[0:58](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=58)** And the most famous, or probably most famous, unit testing tool is J unit from the [[Java]] world.
 >
 > **[1:09](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/software-and-tooling?u=76281980&t=69)** And there are .NET ports.
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Microsoft]] (3), [[Unit Testing]] (2), [[Java]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Unit Testing]] (2), [[Java]] (1)
 > **Env Vars:** net (3), tdd (2), ide (1), api (1)
 > **Analogies:** for instance (2)
 > **Code Identifiers:** xunit (1)
@@ -513,14 +506,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demo project introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
+#### [Demo project introduction](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=0)** - [Instructor] The code we will be writing in this course is for the fictional h+sport company.
 >
-> **[0:09](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=9)** They sell a variety of sports related products, like mineral water, supplements, and apparel for women and men.
+> **[0:09](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=9)** They sell a variety of sports related [[Microsoft Products|products]], like mineral water, supplements, and apparel for women and men.
 >
 > **[0:17](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=17)** So let's see whether they have something for me.
 >
@@ -536,18 +528,17 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=38)** Now it's in my shopping cart, and I can... Well, see your shopping cart, I can't really order it because, again, it's fictional, but that's what they do.
 >
-> **[0:47](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=47)** And when using TDD, we will implement some of the back office parts of their application.
+> **[0:47](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=47)** And when using TDD, we will implement some of the back [[Microsoft Office|office]] parts of their application.
 >
 > **[0:58](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-project-introduction?u=76281980&t=58)** And we'll start with parts of the shopping cart.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a test
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980)
+#### [Creating a test](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/creating-a-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +702,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), data (2), [[Search]] (1), api (1), web application (1)
 > **Prerequisites:** set up (4), setup (3)
 > **Env Vars:** tdd (3), api (1), var (1)
 > **UI Navigation:** click on (2), go to (2)
@@ -719,9 +709,9 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
+> **Code Identifiers:** xunit (1)
 
-#### Fixing the code
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/fixing-the-code?u=76281980)
+#### [Fixing the code](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/fixing-the-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,8 +759,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding another test
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/adding-another-test?u=76281980)
+#### [Adding another test](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/adding-another-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,12 +795,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Satisfying the next test
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/satisfying-the-next-test?u=76281980)
+#### [Satisfying the next test](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/satisfying-the-next-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -857,14 +844,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), generic (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** tdd (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - the (1)
 
-#### Challenge: Making the test pass
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/challenge-making-the-test-pass?u=76281980)
+#### [Challenge: Making the test pass](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/challenge-making-the-test-pass?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,12 +883,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Making the test pass
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-making-the-test-pass?u=76281980)
+#### [Solution: Making the test pass](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-making-the-test-pass?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +952,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Definitions:** is an  (2)
@@ -982,8 +964,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to mocking
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
+#### [Introduction to mocking](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/introduction-to-mocking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1039,12 +1020,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (1), application (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adding an interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/adding-an-interface?u=76281980)
+#### [Adding an interface](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/adding-an-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,15 +1093,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** shoppingcart (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a test with a mock
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/using-a-test-with-a-mock?u=76281980)
+#### [Using a test with a mock](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/using-a-test-with-a-mock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,7 +1173,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1), database (1)
 > **Code Identifiers:** mockmanager (4)
 > **Prerequisites:** configure (2), install (1), setup (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -1204,9 +1180,9 @@ created: 2026-05-02
 > **Analogies:** for instance (1), similar to (1)
 > **Env Vars:** net (1)
 > **Cross-References:** go back to (1)
+> **Speakers:** - there (1)
 
-#### Testing without a database: Preparations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-without-a-database-preparations?u=76281980)
+#### [Testing without a database: Preparations](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-without-a-database-preparations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,14 +1242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), application (2), data (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Testing without a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-without-a-database?u=76281980)
+#### [Demo: Testing without a database](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-without-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1343,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), database (1)
 > **Code Identifiers:** initialitems (5), mockcontext (2), mockmanager (1)
 > **Prerequisites:** setup (2), install (1)
 > **UI Navigation:** go to (2)
@@ -1377,8 +1350,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing ASP.NET Core applications: Preparations
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980)
+#### [Testing ASP.NET Core applications: Preparations](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1388,7 +1360,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=14)** Because this time I would like to display a few articles, and then of course I need a name and maybe also a price.
 >
-> **[0:21](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=21)** Then I've set up a new [asp.net](https://asp.net) core application.
+> **[0:21](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=21)** Then I've set up a new [[[ASP.NET]]](https://asp.net) core application.
 >
 > **[0:26](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/testing-asp-dot-net-core-applications-preparations?u=76281980&t=26)** And I would like to start MVC style.
 >
@@ -1424,7 +1396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Search]] (2), [[ASP.NET Core]] (1), application (1), database (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (1), http (1)
 > **Prerequisites:** set up (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1432,8 +1404,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Demo: Testing ASP.NET Core applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980)
+#### [Demo: Testing ASP.NET Core applications](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1482,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=236)** And then once we run it, after a short while we'll see that everything is green again.
 >
-> **[4:03](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=243)** And that's the basic approach, how you can test [ASP.NET](https://ASP.NET) Core applications when they're using MVC.
+> **[4:03](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=243)** And that's the basic approach, how you can test [[[ASP.NET]]](https://ASP.NET) Core applications when they're using MVC.
 >
 > **[4:10](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/demo-testing-asp-dot-net-core-applications?u=76281980&t=250)** You access the controllers, you instantiate the controllers, and then you run the action methods.
 >
@@ -1519,7 +1490,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Search]] (3), web (1), data (1), [[ASP.NET Core]] (1)
+> **Frameworks & Libraries:** [[ASP.NET Core]] (1)
 > **Env Vars:** mvc (4), asp (1), net (1)
 > **Code Identifiers:** viewresult (2)
 > **URLs:** [asp.net](https://asp.net) (1)
@@ -1528,8 +1499,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Testing an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/challenge-testing-an-api?u=76281980)
+#### [Challenge: Testing an API](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/challenge-testing-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,14 +1547,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), web (1), application (1)
 > **Env Vars:** api (7), http (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Testing an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980)
+#### [Solution: Testing an API](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1580,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=94)** And the nice thing is, if we have a look at the ArticlesController, the GetAll method returns an IEnumerable of Article.
 >
-> **[1:43](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=103)** Web API does all the magic that then creates JSON and sends the correct HTTP headers, et cetera.
+> **[1:43](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=103)** Web API does all the magic that then creates [[JSON]] and sends the correct HTTP headers, et cetera.
 >
 > **[1:51](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/solution-testing-an-api?u=76281980&t=111)** But for our test, that's great.
 >
@@ -1692,7 +1660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), web (1), [[JSON]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (8), http (2), json (1)
 > **UI Navigation:** go to (3)
 > **Cross-References:** go back to (2)
@@ -1706,8 +1674,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with C#
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)
+#### [Next steps with C#](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1729,11 +1696,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980&t=77)** Thank you for watching that course.
 >
-> **[1:19](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980&t=79)** See you next time here on LinkedIn Learning.
+> **[1:19](https://www.linkedin.com/learning/c-sharp-test-driven-development-14275015/next-steps-with-c-sharp?u=76281980&t=79)** See you next time here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), application (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** tdd (2)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [christian] (1)

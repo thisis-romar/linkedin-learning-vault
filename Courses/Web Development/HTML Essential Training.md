@@ -154,35 +154,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why should I learn HTML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
+#### [Why should I learn HTML?](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=0)** - Whether you're looking to build websites from scratch, customize existing templates, or just want to understand how websites work, learning HTML is your first step into the world of web development.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=0)** - Whether you're looking to build websites from scratch, customize existing templates, or just want to understand how websites work, learning [[HTML]] is your first step into the world of [[Web Development]].
 >
 > **[0:11](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=11)** It's the foundation of the web.
 >
 > **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=14)** HTML is the language used to structure and give meaning to the content you see on every website you visit.
 >
-> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=21)** In this course, you'll learn core concepts and techniques, including how to structure web pages, work with text and links, incorporate images and videos, and create interactive forms.
+> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=21)** In this course, you'll learn core concepts and techniques, including how to structure web pages, work with text and links, incorporate images and videos, and create interactive [[Forms]].
 >
 > **[0:33](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=33)** By the end, you'll be able to build well-structured, accessible web pages that work seamlessly across devices and platforms.
 >
-> **[0:40](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=40)** Hi, I'm Christina Truong, and I invite you to join me for my course on LinkedIn Learning where I'll cover the essentials of HTML.
+> **[0:40](https://www.linkedin.com/learning/html-essential-training-22425519/why-should-i-learn-html?u=76281980&t=40)** Hi, I'm Christina Truong, and I invite you to join me for my course on [[LinkedIn]] Learning where I'll cover the essentials of HTML.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), web (3), [[Web Development]] (1), [[Forms]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Web Development]] (1), [[Forms]] (1), [[LinkedIn]] (1)
 > **Env Vars:** html (3)
 > **Speakers:** - whether (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=0)** - [Christina] This course includes three types of hands-on work, demonstrations and examples where I'll show how different HTML concepts work.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=0)** - [Christina] This course includes three types of hands-on work, demonstrations and examples where I'll show how different [[HTML]] concepts work.
 >
 > **[0:08](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=8)** You have the option to follow along on your computer or just watch as I go through the steps.
 >
@@ -190,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=21)** This is where you'll work on a guided personal project with solution videos provided.
 >
-> **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=27)** For some of the shorter demonstrations, I'll be using an online tool called CodePen.
+> **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=27)** For some of the shorter demonstrations, I'll be using an online tool called [[CodePen]].
 >
 > **[0:33](https://www.linkedin.com/learning/html-essential-training-22425519/how-to-use-the-exercise-files?u=76281980&t=33)** All of the CodePen exercises in this course can be found in my HTML essential training collection.
 >
@@ -224,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (2), next (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (2)
 > **Exercise Files:** exercise files (5), download the (1), zip file (1)
 > **Env Vars:** html (3), pdf (1), zip (1)
 > **Prerequisites:** you'll need (2), required to (1), setup (1)
@@ -238,8 +236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Languages of the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
+#### [Languages of the web](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -261,9 +258,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=57)** But remember, the web was originally created to share text-based documents, but since those early days, the web has developed into a lot more, including the introduction of more web-based languages.
 >
-> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=71)** In this course, we'll focus on HTML, which is one part of a group of languages that control what you see in a browser.
+> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=71)** In this course, we'll focus on [[HTML]], which is one part of a group of languages that control what you see in a browser.
 >
-> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=79)** This is known as front-end or client-side languages and includes HTML, CSS and JavaScript.
+> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=79)** This is known as front-end or client-side languages and includes HTML, CSS and [[JavaScript]].
 >
 > **[1:28](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=88)** HTML stands for Hyper Text Markup Language.
 >
@@ -273,13 +270,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=110)** JavaScript is a scripting language used to add interactivity to webpages.
 >
-> **[1:56](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=116)** Back-end or server-side languages are also used in web development to handle the functionality behind the scenes, such as managing databases or handling user authentication.
+> **[1:56](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=116)** Back-end or server-side languages are also used in [[Web Development]] to handle the functionality behind the scenes, such as managing [[Databases]] or handling user authentication.
 >
-> **[2:08](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=128)** Some examples of backend languages are PHP, Ruby, Java, which is totally different from JavaScript, and Python.
+> **[2:08](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=128)** Some examples of backend languages are [[PHP]], Ruby, [[Java]], which is totally different from JavaScript, and [[Python (Programming Language)|Python]].
 >
 > **[2:17](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=137)** Traditionally, front-end and back-end languages had clear differences.
 >
-> **[2:22](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=142)** Front-end code runs in the browser, back-end code runs on a server, but with the introduction of JavaScript-based frameworks like Node.js, React, and Angular, those with knowledge of JavaScript can now create functionality that was once reserved for back-end languages.
+> **[2:22](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=142)** Front-end code runs in the browser, back-end code runs on a server, but with the introduction of JavaScript-based frameworks like [[Node.js]], [[React.js|React]], and [[Angular]], those with knowledge of JavaScript can now create functionality that was once reserved for back-end languages.
 >
 > **[2:38](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=158)** This blurring of the lines has contributed to the rise of the full-stack developer, which is someone who works with both front-end and back-end technologies.
 >
@@ -299,13 +296,13 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=207)** Also, many platforms have an option to add custom code, so if you have some technical skills, you can still use these services and also be able to add your personal touch.
 >
-> **[3:37](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=217)** And maybe one day, you might work at one of these companies or start your own, developing the products for these services, then you'll definitely need to learn how these languages work.
+> **[3:37](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=217)** And maybe one day, you might work at one of these companies or start your own, developing the [[Microsoft Products|products]] for these services, then you'll definitely need to learn how these languages work.
 >
 > **[3:48](https://www.linkedin.com/learning/html-essential-training-22425519/languages-of-the-web?u=76281980&t=228)** You could even be the person who comes up with the new ideas for these technologies in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[JavaScript]] (5), [[HTML]] (4), front-end (4), ai (3)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[HTML]] (4), [[Web Development]] (1), [[Databases]] (1), [[PHP]] (1)
 > **Env Vars:** html (4), css (2), cern (1), pdf (1), php (1)
 > **CLI Commands:** find (1), php (1), ruby (1), python (1), node (1)
 > **Definitions:** is a  (3), known as (1), stands for (1)
@@ -314,8 +311,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - for (1)
 
-#### Anatomy of a website
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980)
+#### [Anatomy of a website](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,9 +329,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=31)** Both terms are used interchangeably.
 >
-> **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=34)** HTML files must be saved With the HTML file extension.
+> **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=34)** [[HTML]] files must be saved With the HTML file extension.
 >
-> **[0:39](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=39)** You can write CSS and JavaScript within an HTML file, but they're usually separated into their own files with specific extensions, .CSS for CSS and .JS for JavaScript.
+> **[0:39](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=39)** You can write CSS and [[JavaScript]] within an HTML file, but they're usually separated into their own files with specific extensions, .CSS for CSS and .JS for JavaScript.
 >
 > **[0:52](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=52)** There are also other types of files that can be added to a webpage, such as images, videos, and audio files.
 >
@@ -353,13 +349,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=85)** It may cause errors when the files are uploaded to a web server.
 >
-> **[1:29](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=89)** You can use a hyphen or underscore to separate multi-word names, but just note that Google's search engine optimization guide recommends hyphens over underscores.
+> **[1:29](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=89)** You can use a hyphen or underscore to separate multi-[[Microsoft Word|word]] names, but just note that [[Google]]'s [[Search Engine Optimization (SEO)|search engine optimization]] guide recommends hyphens over underscores.
 >
 > **[1:39](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=99)** The reference link is included in the links.pdf file.
 >
 > **[1:43](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=103)** Another convention is to use all lowercase letters.
 >
-> **[1:46](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=106)** Some computers and web servers are case-sensitive and will interpret different letter casing as different files.
+> **[1:46](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=106)** Some computers and [[Web Servers]] are case-sensitive and will interpret different letter casing as different files.
 >
 > **[1:53](https://www.linkedin.com/learning/html-essential-training-22425519/anatomy-of-a-website?u=76281980&t=113)** To prevent any potential issues, stick to using all lowercase letters.
 >
@@ -381,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), css (3), web (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[JavaScript]] (2), [[Microsoft Word|Word]] (1), [[Google]] (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** html (7), css (3), seo (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
@@ -389,12 +385,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The rules of the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-rules-of-the-web?u=76281980)
+#### [The rules of the web](https://www.linkedin.com/learning/html-essential-training-22425519/the-rules-of-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/the-rules-of-the-web?u=76281980&t=0)** - There are specific rules for writing HTML.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/the-rules-of-the-web?u=76281980&t=0)** - There are specific rules for writing [[HTML]].
 >
 > **[0:03](https://www.linkedin.com/learning/html-essential-training-22425519/the-rules-of-the-web?u=76281980&t=3)** But where do these rules come from?
 >
@@ -446,7 +441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), web (3), css (3), feature (2), application (1)
+> **Frameworks & Libraries:** [[HTML]] (9)
 > **Env Vars:** html (9), w3c (3), css (3), url (1)
 > **Documentation:** w3c (3), the documentation (1)
 > **CLI Commands:** find (2), make (1)
@@ -454,8 +449,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Terminology and syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980)
+#### [Terminology and syntax](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=6)** When it comes to coding, we can think of syntax and terminology as basically the grammar, punctuation, and vocabulary rules for that coding language.
 >
-> **[0:16](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=16)** HTML stands for Hypertext Markup Language and is used to add structure and meaning to content on webpages.
+> **[0:16](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=16)** [[HTML]] stands for Hypertext Markup Language and is used to add structure and meaning to content on webpages.
 >
 > **[0:22](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=22)** You may have also heard of two variations of this term, XHTML and HTML5.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=70)** These elements not only control appearance, but also communicate the content's meaning to the browser, a concept known as semantics.
 >
-> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=79)** Think about any word processing app or any type of writing tool you've used.
+> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=79)** Think about any [[Microsoft Word|word]] processing app or any type of writing tool you've used.
 >
 > **[1:24](https://www.linkedin.com/learning/html-essential-training-22425519/terminology-and-syntax?u=76281980&t=84)** The interface usually provides options to format text into headings, subheadings, paragraphs, and lists.
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (1), hr (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (14), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (14), xhtml (4), html5 (2), xml (1), html6 (1)
 > **Definitions:** stands for (1), refers to (1), known as (1)
 > **Analogies:** such as (2), just like (1)
@@ -567,8 +561,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - just (1)
 
-#### Exercise: The development environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980)
+#### [Exercise: The development environment](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=18)** You'll also need a computer, of course.
 >
-> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=21)** Web browsers come pre-installed on your computer, Safari on Apple devices, and Edge on Windows.
+> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=21)** Web browsers come pre-installed on your computer, Safari on Apple devices, and Edge on [[Windows]].
 >
 > **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=27)** You can also download other options like Firefox, Chrome or Opera.
 >
@@ -602,7 +595,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=78)** Text editors are also optimized for specific programming languages.
 >
-> **[1:22](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=82)** Some popular options for writing HTML are Sublime Text, Notepad++, and Visual Studio Code.
+> **[1:22](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=82)** Some popular options for writing [[HTML]] are Sublime Text, Notepad++, and Visual Studio Code.
 >
 > **[1:32](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-the-development-environment?u=76281980&t=92)** Throughout this course, I'll use Firefox and Visual Studio Code.
 >
@@ -662,7 +655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), web (2), [[HTML]] (2), application (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[HTML]] (2)
 > **Tools:** vs code (3), firefox (2), visual studio (2), safari (1), sublime (1)
 > **UI Navigation:** click on (3), open the (2)
 > **Prerequisites:** setup (3), set up (1), install (1)
@@ -671,8 +664,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Analogies:** such as (1)
 
-#### Exercise: Customizing your text editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980)
+#### [Exercise: Customizing your text editor](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +696,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=62)** Another way to add folders is to use the menu File, Open Folder..., and navigate to it from there.
 >
-> **[1:10](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=70)** Now, let's open an example HTML file to see how different settings affect how the contents of the files appear in the editor.
+> **[1:10](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=70)** Now, let's open an example [[HTML]] file to see how different settings affect how the contents of the files appear in the editor.
 >
 > **[1:18](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=78)** Click the arrow to the left of the ch1 folder to expand it.
 >
@@ -738,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=161)** I'll set mine to two.
 >
-> **[2:43](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=163)** Another setting I always turn on is word wrap.
+> **[2:43](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=163)** Another setting I always turn on is [[Microsoft Word|word]] wrap.
 >
 > **[2:47](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=167)** Without it, you'll have to scroll horizontally to see the content that goes beyond the editor's width.
 >
@@ -800,11 +792,11 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=343)** These are just a few features to get you started.
 >
-> **[5:46](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=346)** To see what else is available, check out the editor's documentation or take a look through the rest of the settings.
+> **[5:46](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-customizing-your-text-editor?u=76281980&t=346)** To see what else is available, check out the editor's documentation or take a look through the [[Representational State Transfer (REST)|rest]] of the settings.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[HTML]] (3), [[Microsoft Word|Word]] (3), feature (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** select the (3), in the sidebar (3), dropdown (3), drag and drop (1), checkbox (1)
 > **Prerequisites:** install (3), set up (1)
 > **Exercise Files:** exercise files (3)
@@ -813,8 +805,7 @@ created: 2026-05-02
 > **File Paths:** example.html (1)
 > **CLI Commands:** make (1)
 
-#### Exercise: Setting up your dev environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980)
+#### [Exercise: Setting up your dev environment](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,13 +835,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=68)** Press Enter or Return to create the folder.
 >
-> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=71)** Now, let's create an HTML file for our homepage.
+> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=71)** Now, let's create an [[HTML]] file for our homepage.
 >
 > **[1:16](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=76)** Make sure the personal-site folder is selected and create the new file from here.
 >
 > **[1:22](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=82)** Name the homepage index.html.
 >
-> **[1:26](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=86)** This is required because web servers look for this file name by default.
+> **[1:26](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=86)** This is required because [[Web Servers]] look for this file name by default.
 >
 > **[1:32](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=92)** And press Enter or Return.
 >
@@ -928,13 +919,13 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=310)** That way, if you close the editor, you can easily reopen the files and pick up right where you left off.
 >
-> **[5:16](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=316)** For smaller exercises, we'll use CodePen, which is a great tool for quick demonstrations.
+> **[5:16](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=316)** For smaller exercises, we'll use [[CodePen]], which is a great tool for quick demonstrations.
 >
 > **[5:21](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-setting-up-your-dev-environment?u=76281980&t=321)** And we'll give you a chance to work with different industry tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), web (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Web Servers]] (1), [[CodePen]] (1)
 > **UI Navigation:** go to (3), in the sidebar (1), dropdown (1), click on (1), in the tab (1)
 > **Env Vars:** html (5), url (1)
 > **CLI Commands:** make (3)
@@ -948,12 +939,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Paragraphs and headings
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
+#### [Paragraphs and headings](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=0)** - The majority of content on a webpage is usually text, and now that we've learned the syntax of HTML, let's look at how to create some common text-based elements, starting with paragraphs and headings.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=0)** - The majority of content on a webpage is usually text, and now that we've learned the syntax of [[HTML]], let's look at how to create some common text-based elements, starting with paragraphs and headings.
 >
 > **[0:12](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=12)** To create a paragraph element, use the <p> tag to format one or more sentences into relevant groupings.
 >
@@ -963,7 +953,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=27)** <h1> is used for the most significant heading on the page, followed by <h2> and so on.
 >
-> **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=34)** I'll use CodePen to demonstrate how these tags work and how they're displayed in the browser.
+> **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=34)** I'll use [[CodePen]] to demonstrate how these tags work and how they're displayed in the browser.
 >
 > **[0:39](https://www.linkedin.com/learning/html-essential-training-22425519/paragraphs-and-headings?u=76281980&t=39)** All the links to the CodePen demos, course references, and extra resources can be found in the Links PDF file in your exercise files.
 >
@@ -1053,21 +1043,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), next (6), [[CodePen]] (4), css (3)
+> **Frameworks & Libraries:** [[HTML]] (8), [[CodePen]] (4)
 > **Env Vars:** html (8), css (3), pdf (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Ordered, unordered, and description lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980)
+#### [Ordered, unordered, and description lists](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=0)** - Something we use in our everyday lives are lists, like shopping lists or to-do lists.
 >
-> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=5)** So, it's not surprising that we'll also need to use lists in HTML to organize our content.
+> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=5)** So, it's not surprising that we'll also need to use lists in [[HTML]] to organize our content.
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=10)** There are three types, ordered, unordered, and description.
 >
@@ -1085,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=50)** If you want to include introductory texts, use a paragraph element outside of the ol or ul tag.
 >
-> **[0:58](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=58)** Let's take a look at a CodePen example.
+> **[0:58](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=58)** Let's take a look at a [[CodePen]] example.
 >
 > **[1:01](https://www.linkedin.com/learning/html-essential-training-22425519/ordered-unordered-and-description-lists?u=76281980&t=61)** In the first block of text, the content contains directions which need to be in a specific sequence, so an ordered list is used.
 >
@@ -1181,19 +1170,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (1), next (1), feature (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[CodePen]] (1)
 > **Env Vars:** html (4), css (1)
 > **UI Navigation:** drag and drop (1), right-click (1)
 > **Analogies:** for example (2)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - something (1)
 
-#### Quotations
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980)
+#### [Quotations](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=0)** - [Narrator] Headings, paragraphs and lists are common HTML elements you'll likely use for the majority of your content, but there are additional ways to format text-based content.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=0)** - [Narrator] Headings, paragraphs and lists are common [[HTML]] elements you'll likely use for the majority of your content, but there are additional ways to format text-based content.
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=10)** What if you had a quote and you wanted to cite the source of that quote?
 >
@@ -1229,7 +1217,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=98)** If you were to add a second paragraph, it would start on a new line.
 >
-> **[1:44](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=104)** The cite element is an inline element, which means that it's written within the paragraph tag and the browser displays the text within the same line as the rest of the paragraph text.
+> **[1:44](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=104)** The cite element is an inline element, which means that it's written within the paragraph tag and the browser displays the text within the same line as the [[Representational State Transfer (REST)|rest]] of the paragraph text.
 >
 > **[1:57](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=117)** For inline elements, we generally don't add indentation in the code, but just note that these are just conventions that we use to help us read our code better.
 >
@@ -1249,7 +1237,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=168)** The URL listed in the cite attribute is not displayed in the browser, so users won't be able to see or click on it.
 >
-> **[2:55](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=175)** Instead, it provides metadata to browsers to help with assistive technologies and search engines/ To make the source clickable, a link can be added.
+> **[2:55](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=175)** Instead, it provides [[Metadata]] to browsers to help with assistive technologies and search engines/ To make the source clickable, a link can be added.
 >
 > **[3:03](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=183)** We'll get into more details about using links later in the course.
 >
@@ -1263,7 +1251,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=211)** You could also just manually add quotation marks around the quote to format it, and your HTML will still be valid without using the Q tag.
 >
-> **[3:40](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=220)** But if you're really keen about typography, keep in mind the quotation marks typed on your keyboard typically appear as straight quotes rather than curly quotes.
+> **[3:40](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=220)** But if you're really keen about [[Typography]], keep in mind the quotation marks typed on your keyboard typically appear as straight quotes rather than curly quotes.
 >
 > **[3:51](https://www.linkedin.com/learning/html-essential-training-22425519/quotations?u=76281980&t=231)** The style of quotation marks may also vary depending on the font used.
 >
@@ -1271,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1), [[Search]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1), [[Typography]] (1)
 > **Env Vars:** html (4), url (4), css (1)
 > **Cross-References:** earlier in (1), we talked about (1), later in (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -1280,12 +1268,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** recommended (1)
 
-#### Exercise: Formatting text, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-1?u=76281980)
+#### [Exercise: Formatting text, part 1](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-1?u=76281980&t=0)** - [Instructor] In this exercise, you'll get some practice using the HTML elements we discussed so far to format content using the appropriate HTML tags.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-1?u=76281980&t=0)** - [Instructor] In this exercise, you'll get some practice using the [[HTML]] elements we discussed so far to format content using the appropriate HTML tags.
 >
 > **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-1?u=76281980&t=9)** You can pause the video right now to try it out yourself or keep watching to do it together as a code along.
 >
@@ -1345,15 +1332,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Date and time
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980)
+#### [Date and time](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1365,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980&t=15)** It can also be used to add functionality, such as calendar reminders, or to search for results based on a date range.
 >
-> **[0:23](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980&t=23)** In HTML, the time element is used to define a specific period in time.
+> **[0:23](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980&t=23)** In [[HTML]], the time element is used to define a specific period in time.
 >
 > **[0:28](https://www.linkedin.com/learning/html-essential-training-22425519/date-and-time?u=76281980&t=28)** The content you want to display in the browser is added between the tags.
 >
@@ -1393,22 +1379,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Search]] (1), [[HTML]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1), mdn (1)
 > **Analogies:** for example (1), such as (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - date (1)
 
-#### Bold and italics
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980)
+#### [Bold and italics](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=0)** - [Instructor] Many text formatting elements are used to define whole blocks of text, but sometimes you may need to format just a word or a short phrase contained inside another element.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=0)** - [Instructor] Many text formatting elements are used to define whole blocks of text, but sometimes you may need to format just a [[Microsoft Word|word]] or a short phrase contained inside another element.
 >
 > **[0:12](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=12)** We've already seen an example of this with the cite element, which is an example of an inline element.
 >
-> **[0:19](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=19)** HTML has more ways to format inline text.
+> **[0:19](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=19)** [[HTML]] has more ways to format inline text.
 >
 > **[0:22](https://www.linkedin.com/learning/html-essential-training-22425519/bold-and-italics?u=76281980&t=22)** For example, there are two tags that can be used to convey importance or emphasis, strong and em.
 >
@@ -1452,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[HTML]] (4), product (1), [[Search]] (1), css (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[HTML]] (4)
 > **Env Vars:** html (4), css (1)
 > **Analogies:** for example (3), it's like (1)
 > **Definitions:** is an  (2)
@@ -1460,8 +1445,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Character entity reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980)
+#### [Character entity reference](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=6)** You can even include shapes like arrows, or a check mark.
 >
-> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=9)** This website, HTML Arrows is one of the many resources that you can refer to to see a list of all the special characters and symbols.
+> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=9)** This website, [[HTML]] Arrows is one of the many resources that you can refer to to see a list of all the special characters and symbols.
 >
 > **[0:18](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=18)** These symbols can be copied and pasted directly into HTML, but sometimes you may need to use the character reference, which are the special codes shown below each symbol.
 >
@@ -1543,7 +1527,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=235)** Instead of a regular space, I can use ampersand, NBSP, semicolon, to add a non-breaking space.
 >
-> **[4:05](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=245)** Now, the browser knows not to break that space and will treat it like one word.
+> **[4:05](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=245)** Now, the browser knows not to break that space and will treat it like one [[Microsoft Word|word]].
 >
 > **[4:13](https://www.linkedin.com/learning/html-essential-training-22425519/character-entity-reference?u=76281980&t=253)** The non-breaking space can also be used if your text needs formatting that requires more than one space.
 >
@@ -1555,7 +1539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), next (2), css (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (10), css (1), nbsp (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -1564,18 +1548,17 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exercise: Formatting text, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980)
+#### [Exercise: Formatting text, part 2](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=0)** - [Instructor] Let's go back to the text formatting exercise we started in Video 02_04, and add in some of the new HTML tags we've learned about since then, such as the time element for the post date.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=0)** - [Instructor] Let's go back to the text formatting exercise we started in Video 02_04, and add in some of the new [[HTML]] tags we've learned about since then, such as the time element for the post date.
 >
 > **[0:13](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=13)** Start by wrapping just the date with the time tag.
 >
 > **[0:18](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=18)** Then add the datetime attribute.
 >
-> **[0:24](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=24)** It's all one word with no space.
+> **[0:24](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=24)** It's all one [[Microsoft Word|word]] with no space.
 >
 > **[0:26](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-formatting-text-pt-2?u=76281980&t=26)** For the date value, we can use the year, month, day format.
 >
@@ -1610,18 +1593,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code and line breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980)
+#### [Code and line breaks](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=0)** - [Instructor] So far, we've talked about different ways to format inline content, such as bold and italics.
 >
-> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=5)** Let's look at this CodePen demo to explore a few more.
+> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=5)** Let's look at this [[CodePen]] demo to explore a few more.
 >
 > **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=9)** One that I often use when writing about code is the code element.
 >
-> **[0:13](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=13)** In addition to using HTML entities to display the angle brackets as text, we can also use the code element to wrap the text.
+> **[0:13](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=13)** In addition to using [[HTML]] entities to display the angle brackets as text, we can also use the code element to wrap the text.
 >
 > **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=21)** By default, the text will be displayed with a monospaced font.
 >
@@ -1639,23 +1621,22 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=67)** Use the br tag where it makes sense for the content to have a line break.
 >
-> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=71)** If you just want a particular word to go on another line strictly for style purposes, use CSS.
+> **[1:11](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=71)** If you just want a particular [[Microsoft Word|word]] to go on another line strictly for style purposes, use CSS.
 >
 > **[1:17](https://www.linkedin.com/learning/html-essential-training-22425519/code-and-line-breaks?u=76281980&t=77)** HTML for content, CSS for presentation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), css (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[CodePen]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (2), css (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### HTML and typography
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/html-and-typography?u=76281980)
+#### [HTML and typography](https://www.linkedin.com/learning/html-essential-training-22425519/html-and-typography?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-and-typography?u=76281980&t=0)** - When writing HTML, the main rule is to use tags that describe what the content means, not how it looks, but there are a few HTML tags that are used for specific typographical styles, like superscript or subscript.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-and-typography?u=76281980&t=0)** - When writing [[HTML]], the main rule is to use tags that describe what the content means, not how it looks, but there are a few HTML tags that are used for specific typographical styles, like superscript or subscript.
 >
 > **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/html-and-typography?u=76281980&t=14)** This may seem to contradict the semantics over presentation rule, but these tags are okay to use as long as you use them to follow standard writing practices.
 >
@@ -1681,13 +1662,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), web (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** html (2), sup (1), css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Challenge: Write text-based HTML markup for course project
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980)
+#### [Challenge: Write text-based HTML markup for course project](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1699,7 +1679,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=20)** In chapter one, we installed and customized our VS Code settings.
 >
-> **[0:24](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=24)** We also created the project folder, personal site, and the index.html file.
+> **[0:24](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=24)** We also created the project folder, personal site, and the index.[[HTML]] file.
 >
 > **[0:30](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=30)** If you closed your editor, you will also need to relaunch Live Server as well.
 >
@@ -1735,7 +1715,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=110)** Lorem Ipsum is placeholder text that we used in a previous demo.
 >
-> **[1:53](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=113)** It's been an industry standard in graphic design, publishing, and web development.
+> **[1:53](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=113)** It's been an industry standard in [[Graphic Design]], publishing, and [[Web Development]].
 >
 > **[1:58](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-write-text-based-html-markup-for-course-project?u=76281980&t=118)** It uses nonsensical Latin-derived words to mimic the look of actual content.
 >
@@ -1759,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (1), [[Graphic Design]] (1), [[Web Development]] (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Graphic Design]] (1), [[Web Development]] (1)
 > **Env Vars:** html (2)
 > **Cross-References:** in the last (1), earlier in (1)
 > **File Paths:** index.html (1)
@@ -1768,8 +1748,7 @@ created: 2026-05-02
 > **UI Navigation:** right-click (1)
 > **Definitions:** is a  (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1760,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980&t=10)** Since it's meant to be a personal website, your name represents the most important heading on the page, so let's make it an h1.
 >
-> **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980&t=20)** As you start adding more HTML into the page, you may notice that in VS Code, when you hover over an element, a pop-up appears.
+> **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980&t=20)** As you start adding more [[HTML]] into the page, you may notice that in VS Code, when you hover over an element, a pop-up appears.
 >
 > **[0:28](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24558343?u=76281980&t=28)** It includes a description of the element and a link to the MDN reference.
 >
@@ -1859,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), feature (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** html (3), url (2), mdn (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
@@ -1873,12 +1852,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The basic HTML document
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
+#### [The basic HTML document](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=0)** - Now that we have some practice writing HTML, let's take a step back and look at how to build an entire webpage, also referred to as the HTML document.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=0)** - Now that we have some practice writing [[HTML]], let's take a step back and look at how to build an entire webpage, also referred to as the HTML document.
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=10)** There are many different elements, and some are used more frequently than others, but there are specific elements that all documents must include to function properly in the browser.
 >
@@ -1930,7 +1908,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=136)** Other types of information can be included using the meta tag.
 >
-> **[2:20](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=140)** It's used with various attributes to provide different types of metadata.
+> **[2:20](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=140)** It's used with various attributes to provide different types of [[Metadata]].
 >
 > **[2:24](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=144)** It's also avoid elements, so it doesn't require a closing tag.
 >
@@ -1958,7 +1936,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=210)** Every document should include these two types of meta tags, but there are additional attributes to include more information.
 >
-> **[3:36](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=216)** The head section can also contain other tags like the link tag for adding custom icons or CSS and JavaScript files.
+> **[3:36](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=216)** The head section can also contain other tags like the link tag for adding custom icons or CSS and [[JavaScript]] files.
 >
 > **[3:44](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=224)** This is documented on the MDN website.
 >
@@ -1968,13 +1946,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=236)** This tag is added after the head tag and all content to be displayed in the browser viewport goes within the body tags.
 >
-> **[4:04](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=244)** When using CodePen, these tags aren't required because the tool has already included them behind the scenes.
+> **[4:04](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=244)** When using [[CodePen]], these tags aren't required because the tool has already included them behind the scenes.
 >
 > **[4:10](https://www.linkedin.com/learning/html-essential-training-22425519/the-basic-html-document?u=76281980&t=250)** This makes CodePen ideal for short demos and quick tests, but when you're creating HTML documents for a website, these tags must always be included.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (15), [[Search]] (3), [[Metadata]] (2), css (2), [[CodePen]] (2)
+> **Frameworks & Libraries:** [[HTML]] (15), [[Metadata]] (2), [[CodePen]] (2), [[JavaScript]] (1)
 > **Env Vars:** html (15), css (2), utf (1), mdn (1)
 > **Definitions:** is an  (1), refers to (1)
 > **CLI Commands:** find (1)
@@ -1983,8 +1961,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Structuring content, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980)
+#### [Structuring content, part 1](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,11 +1989,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=74)** When using a tagline, in the past, I've often used a second heading for the text.
 >
-> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=79)** However, there's ongoing debate about the best way to handle taglines in HTML to make them more meaningful.
+> **[1:19](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=79)** However, there's ongoing debate about the best way to handle taglines in [[HTML]] to make them more meaningful.
 >
 > **[1:27](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=87)** Since the H1 tag is almost always used for the main title, adding an H2 for the tagline, would suggests that it's a subtitle, which is usually for introducing content in a subsection.
 >
-> **[1:38](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=98)** Remember, heading tags create a content hierarchy that forms an outline.
+> **[1:38](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=98)** Remember, heading tags create a content hierarchy that [[Forms]] an outline.
 >
 > **[1:43](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=103)** If we were to create a table of contents, would we include the tagline in the outline?
 >
@@ -2060,7 +2037,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=212)** Another thing to note is that header is different from the head element.
 >
-> **[3:36](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=216)** Head is for metadata and information about the document.
+> **[3:36](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=216)** Head is for [[Metadata]] and information about the document.
 >
 > **[3:40](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-1?u=76281980&t=220)** Header is for introductory content.
 >
@@ -2096,7 +2073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), [[Search]] (2), feature (2), generic (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Forms]] (1), [[Metadata]] (1)
 > **Env Vars:** html (3), html5 (2), css (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
@@ -2105,12 +2082,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structuring content, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980)
+#### [Structuring content, part 2](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=0)** - [Instructor] Once you've created a basic page layout with the <header>, <main>, and <footer> tags, you can use other structural HTML tags to further organize your content.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=0)** - [Instructor] Once you've created a basic page layout with the <header>, <main>, and <footer> tags, you can use other structural [[HTML]] tags to further organize your content.
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=10)** Elements like <section>, <article>, and <aside> can be used to divide the content into more specific groupings.
 >
@@ -2146,7 +2122,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=114)** It's often used for things you might see on the side of a webpage like ads, or a author bio if you're on a blog, or highlighted sections from within the main content, like pull quotes from an article.
 >
-> **[2:06](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=126)** Let's go back to the CodePen example and add an <aside> element.
+> **[2:06](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=126)** Let's go back to the [[CodePen]] example and add an <aside> element.
 >
 > **[2:11](https://www.linkedin.com/learning/html-essential-training-22425519/structuring-content-pt-2?u=76281980&t=131)** Let's say I want to take a catchy line from the article to be used as a pull quote.
 >
@@ -2160,23 +2136,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), product (1), [[CodePen]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[CodePen]] (1)
 > **Env Vars:** html (3), css (1)
 > **CLI Commands:** make (2)
 > **Analogies:** think of it as (1), such as (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exercise: Structuring content
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980)
+#### [Exercise: Structuring content](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=0)** - [Instructor] In this exercise, we'll use VS Code since CodePen automatically adds the required tags to the backend tool.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=0)** - [Instructor] In this exercise, we'll use VS Code since [[CodePen]] automatically adds the required tags to the backend tool.
 >
 > **[0:07](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=7)** By using VS Code, we can practice building a complete webpage from scratch.
 >
-> **[0:12](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=12)** In the 03_04 folder, I've created an HTML file with some content for a fictional website.
+> **[0:12](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=12)** In the 03_04 folder, I've created an [[HTML]] file with some content for a fictional website.
 >
 > **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-structuring-content?u=76281980&t=20)** Open the 03_04_start.html file to get started.
 >
@@ -2302,7 +2277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (9), next (2), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (9), [[CodePen]] (1)
 > **Env Vars:** html (7), doc (1)
 > **Tools:** vs code (4)
 > **UI Navigation:** open the (1), dropdown (1), right-click (1)
@@ -2311,14 +2286,13 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Best Practices:** make sure to (1)
 
-#### HTML tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980)
+#### [HTML tables](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=0)** - In the '90s and early 2000s, tables were commonly used to create page layouts.
 >
-> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=5)** But since then, new improvements to HTML and CSS have made this practice outdated, though you may still see it being used on old websites.
+> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=5)** But since then, new improvements to [[HTML]] and CSS have made this practice outdated, though you may still see it being used on old websites.
 >
 > **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=14)** Today, tables are mainly used for organizing data in rows and columns, like a price list or a comparison chart.
 >
@@ -2326,7 +2300,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=27)** Let's take a look at the different parts that make up a basic HTML table.
 >
-> **[0:33](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=33)** All forms start with a table tag.
+> **[0:33](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=33)** All [[Forms]] start with a table tag.
 >
 > **[0:36](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=36)** The caption element is optional, but can be added to provide a brief description of the table's contents.
 >
@@ -2338,7 +2312,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=55)** To add data to the rows, use a td tag.
 >
-> **[1:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=60)** Let's open an example in CodePen to see what a basic table looks like.
+> **[1:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=60)** Let's open an example in [[CodePen]] to see what a basic table looks like.
 >
 > **[1:06](https://www.linkedin.com/learning/html-essential-training-22425519/html-tables?u=76281980&t=66)** By default, the data is displayed in rows and columns.
 >
@@ -2384,14 +2358,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), data (6), css (5), [[Forms]] (1), [[CodePen]] (1)
+> **Frameworks & Libraries:** [[HTML]] (7), [[Forms]] (1), [[CodePen]] (1)
 > **Env Vars:** html (7), css (5), mdn (1)
 > **CLI Commands:** make (2)
 > **Documentation:** the documentation (1), mdn (1)
 > **Speakers:** - in (1)
 
-#### Exercise: Create an HTML table
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980)
+#### [Exercise: Create an HTML table](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2407,7 +2380,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980&t=20)** You can pause the video now if you'd like to work it out on your own first, or just keep watching and do it together as a code along.
 >
-> **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980&t=27)** I'm going to start by scrolling the HTML editor area up so we can't see the existing table code from the last demo.
+> **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980&t=27)** I'm going to start by scrolling the [[HTML]] editor area up so we can't see the existing table code from the last demo.
 >
 > **[0:36](https://www.linkedin.com/learning/html-essential-training-22425519/exercise-create-an-html-table?u=76281980&t=36)** Now let's start building the size guide with a new table tag.
 >
@@ -2453,20 +2426,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), css (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (1), html (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Document Object Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980)
+#### [The Document Object Model](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=0)** - [Instructor] Throughout this course, we've talked about nesting elements such as lists and list items and structural page elements like main, article, or section.
 >
-> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=9)** This nesting actually creates relationships between the elements known as the document object model, or DOM for short.
+> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=9)** This nesting actually creates relationships between the elements known as the [[Document Object Model (DOM)|document object model]], or DOM for short.
 >
 > **[0:18](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=18)** The DOM is represented as a tree structure, and each node in the tree corresponds to a specific part of the document.
 >
@@ -2482,27 +2454,26 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=53)** Sibling elements share the same parent.
 >
-> **[0:57](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=57)** Understanding these relationships is essential for writing CSS and JavaScript.
+> **[0:57](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=57)** Understanding these relationships is essential for writing CSS and [[JavaScript]].
 >
 > **[1:01](https://www.linkedin.com/learning/html-essential-training-22425519/the-document-object-model?u=76281980&t=61)** Both languages target elements based on their position in the DOM to apply styles and add functionality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (3), [[Document Object Model (DOM)|Document object model]] (1), node (1), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Document Object Model (DOM)|Document object model]] (1), [[JavaScript]] (1)
 > **Env Vars:** dom (3), css (1)
 > **Definitions:** known as (1), in other words (1)
 > **CLI Commands:** node (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add structural elements to project
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980)
+#### [Challenge: Add structural elements to project](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980&t=5)** - [Instructor] In this challenge, we'll focus on organizing content using appropriate Structural HTML Tags.
+> **[0:05](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980&t=5)** - [Instructor] In this challenge, we'll focus on organizing content using appropriate Structural [[HTML]] Tags.
 >
 > **[0:11](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-structural-elements-to-project?u=76281980&t=11)** Here's what we'll do.
 >
@@ -2549,8 +2520,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2572,7 +2542,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=43)** Right now, the only content that would be considered as introductory is the H1 tag, so let's go ahead and move that into the header element.
 >
-> **[0:53](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=53)** The main element can be used for the rest of the content on the page, except the copyright note, that should be added to a footer.
+> **[0:53](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=53)** The main element can be used for the [[Representational State Transfer (REST)|rest]] of the content on the page, except the copyright note, that should be added to a footer.
 >
 > **[1:03](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=63)** So in this case, I'm just going to take the main closing tag and add it to the end.
 >
@@ -2602,7 +2572,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=138)** In the explorer sidebar, make sure you have the personal site folder selected.
 >
-> **[2:24](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=144)** Then select the file icon, name it blog.html, and make sure it's added to your personal site folder.
+> **[2:24](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=144)** Then select the file icon, name it blog.[[HTML]], and make sure it's added to your personal site folder.
 >
 > **[2:38](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo?u=76281980&t=158)** Then we'll add the basic HTML tags, exclamation point, then the tab key.
 >
@@ -2666,7 +2636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[HTML]] (3), [[Search]] (1), [[Representational State Transfer (REST)|Rest]] (1), generic (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** in the tab (1), select the (1), click on (1)
 > **File Paths:** blog.html (1), index.html (1)
@@ -2680,8 +2650,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The hyperlink
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
+#### [The hyperlink](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2697,17 +2666,17 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=35)** Just like you need an address to find a house, you need a URL to find a specific website or webpage.
 >
-> **[0:41](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=41)** Tim Berners-Lee also created a web server to host the files, a browser to view the files, and last but not least, HTML to create the webpages.
+> **[0:41](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=41)** Tim Berners-Lee also created a web server to host the files, a browser to view the files, and last but not least, [[HTML]] to create the webpages.
 >
 > **[0:51](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=51)** While all these components are essential, one of the most important elements of the Worldwide Web is hyperlinks.
 >
 > **[0:58](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=58)** Hyperlinks allow users to move between different pages and resources on the Internet by clicking on links embedded in webpages and written in HTML.
 >
-> **[1:08](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=68)** This revolutionized how information is accessed and shared online and forms the foundation of the Internet we use today.
+> **[1:08](https://www.linkedin.com/learning/html-essential-training-22425519/the-hyperlink?u=76281980&t=68)** This revolutionized how information is accessed and shared online and [[Forms]] the foundation of the Internet we use today.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (2), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Forms]] (1)
 > **Env Vars:** http (2), html (2), cern (1), url (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** earlier in (1)
@@ -2715,8 +2684,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - earlier (1)
 
-#### Relative and absolute URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980)
+#### [Relative and absolute URLs](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2736,7 +2704,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=34)** Let's look at an example directory.
 >
-> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=37)** All the HTML pages are in the same directory, the first level of the main project folder, clothing-store, the root folder.
+> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=37)** All the [[HTML]] pages are in the same directory, the first level of the main project folder, clothing-store, the root folder.
 >
 > **[0:45](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=45)** When linking to pages within the same directory, the href value is just the file name.
 >
@@ -2768,13 +2736,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=158)** An absolute URL must include the protocol HTTP or HTTPS and the domain name.
 >
-> **[2:47](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=167)** Web servers automatically navigate to index.html files, so you don't need to include them in the URL.
+> **[2:47](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=167)** [[Web Servers]] automatically navigate to index.html files, so you don't need to include them in the URL.
 >
 > **[2:55](https://www.linkedin.com/learning/html-essential-training-22425519/relative-and-absolute-urls?u=76281980&t=175)** For all other pages and web resources, you'll need to use the complete directory structure, including the file name.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), web (2)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Web Servers]] (1)
 > **Env Vars:** html (3), url (2), http (1), https (1)
 > **File Paths:** apparel.html (1), shoes.html (1), index.html (1)
 > **UI Navigation:** navigate to (2)
@@ -2783,8 +2751,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of links
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980)
+#### [Types of links](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2818,7 +2785,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=91)** You can also link to a specific spot on another page by adding a hash symbol and id value to the end of the page URL.
 >
-> **[1:42](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=102)** Let's look at an example in CodePen.
+> **[1:42](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=102)** Let's look at an example in [[CodePen]].
 >
 > **[1:46](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=106)** For in-page links to work effectively, the page content needs to extend beyond the browser's visible area.
 >
@@ -2826,7 +2793,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=119)** If the page isn't long enough, the browser will scroll as close as possible to the target content.
 >
-> **[2:05](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=125)** There are some longer blocks of code here in the HTML, so we need to scroll down to see all of the content.
+> **[2:05](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=125)** There are some longer blocks of code here in the [[HTML]], so we need to scroll down to see all of the content.
 >
 > **[2:12](https://www.linkedin.com/learning/html-essential-training-22425519/types-of-links?u=76281980&t=132)** In most text editors, you can collapse indented code by clicking on the arrow icon next to the line numbers.
 >
@@ -2888,7 +2855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[CodePen]] (1), [[HTML]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[CodePen]] (1), [[HTML]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (3), such as (1)
 > **UI Navigation:** go to (1), scroll down (1), open the (1)
@@ -2897,8 +2864,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1), note that (1)
 > **Exercise Files:** download the (1)
 
-#### Navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/navigation?u=76281980)
+#### [Navigation](https://www.linkedin.com/learning/html-essential-training-22425519/navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2936,18 +2902,17 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/html-essential-training-22425519/navigation?u=76281980&t=113)** I've added CSS to remove the default list styles, so we can view the navigation closer to how it's commonly styled on websites to give us a little more context.
 >
-> **[2:04](https://www.linkedin.com/learning/html-essential-training-22425519/navigation?u=76281980&t=124)** While you can do a lot more with CSS to change the look of navigation lists, make sure that it always starts with organized and semantic HTML.
+> **[2:04](https://www.linkedin.com/learning/html-essential-training-22425519/navigation?u=76281980&t=124)** While you can do a lot more with CSS to change the look of navigation lists, make sure that it always starts with organized and semantic [[HTML]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** css (2), html (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add links and navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980)
+#### [Challenge: Add links and navigation](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2957,7 +2922,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980&t=13)** Here are the steps to follow.
 >
-> **[0:15](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980&t=15)** Create a new file and name it "contact.html."
+> **[0:15](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980&t=15)** Create a new file and name it "contact.[[HTML]]."
 >
 > **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-links-and-navigation?u=76281980&t=20)** Then add the required HTML tags and the header and footer content, which will be the same as the other pages.
 >
@@ -2973,7 +2938,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **File Paths:** contact.html (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
@@ -2981,8 +2946,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2990,7 +2954,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=10)** In the Explorer sidebar, click the file icon.
 >
-> **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=14)** Let's name this file contact.html, and make sure it's added to your personal site folder.
+> **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=14)** Let's name this file contact.[[HTML]], and make sure it's added to your personal site folder.
 >
 > **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=21)** Then we'll add the basic tags.
 >
@@ -3000,7 +2964,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=40)** For the page title, I'll copy it from the other page as well.
 >
-> **[0:47](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=47)** I'll update the beginning part to Contact first, then paste in the rest of it.
+> **[0:47](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=47)** I'll update the beginning part to Contact first, then paste in the [[Representational State Transfer (REST)|rest]] of it.
 >
 > **[0:53](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=53)** For the site navigation, start by adding the <nav> element as the first block of the content in the header.
 >
@@ -3052,7 +3016,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=189)** <li> for the list item, <a> for the link.
 >
-> **[3:15](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=195)** For the content, I'll be adding links to my YouTube, online shop, newsletter, and LinkedIn profile.
+> **[3:15](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=195)** For the content, I'll be adding links to my YouTube, online shop, newsletter, and [[LinkedIn]] profile.
 >
 > **[3:21](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560328?u=76281980&t=201)** Just so you don't have to watch me type it all out, I'm going to copy the content from a pre-written text file.
 >
@@ -3072,7 +3036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), next (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3), find (1)
 > **File Paths:** contact.html (1), index.html (1), blog.html (1)
 > **UI Navigation:** go to (2)
@@ -3086,12 +3050,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
+#### [Image formats](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=0)** - [Instructor] Before we talk about how to add images with HTML, let's take a look at the different image formats used on the web.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=0)** - [Instructor] Before we talk about how to add images with [[HTML]], let's take a look at the different image formats used on the web.
 >
 > **[0:07](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=7)** These formats fall into two categories, raster and vector images.
 >
@@ -3141,7 +3104,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=139)** Photos are sometimes larger than JPEGs, but simple graphics with basic colors and shapes often create smaller files.
 >
-> **[2:28](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=148)** WebP is a newer image format developed by Google and supports photographic images, animation, and transparency.
+> **[2:28](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=148)** WebP is a newer image format developed by [[Google]] and supports photographic images, animation, and transparency.
 >
 > **[2:36](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=156)** The quality level is pretty much the same as JPEGs and PNGs.
 >
@@ -3161,7 +3124,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=196)** This means you can also create SVG images by writing your own code.
 >
-> **[3:22](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=202)** Let's take a look at an example in CodePen.
+> **[3:22](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=202)** Let's take a look at an example in [[CodePen]].
 >
 > **[3:27](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=207)** Basic shapes are created with rectangle and circle elements while more advanced shapes can be created with the path element.
 >
@@ -3169,7 +3132,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=222)** When creating SVGs with code, you can treat them like HTML elements.
 >
-> **[3:46](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=226)** They can be styled with CSS and enhanced with JavaScript.
+> **[3:46](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=226)** They can be styled with CSS and enhanced with [[JavaScript]].
 >
 > **[3:50](https://www.linkedin.com/learning/html-essential-training-22425519/image-formats?u=76281980&t=230)** You can also open any SVG files in a text editor to view its underlying code.
 >
@@ -3183,24 +3146,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (3), [[Google]] (1), [[CodePen]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Google]] (1), [[CodePen]] (1), [[JavaScript]] (1)
 > **Env Vars:** svg (4), html (3), gif (2), png (2), jpeg (1)
 > **Definitions:** is a  (4)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980)
+#### [Embedding images](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=0)** - So far, we've gone over different ways to format text-based content, but images can also be used as content.
 >
-> **[0:07](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=7)** For example, shopping sites use them to showcase products, while personal websites might feature a profile picture or thumbnails for your projects.
+> **[0:07](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=7)** For example, shopping sites use them to showcase [[Microsoft Products|products]], while personal websites might feature a profile picture or thumbnails for your projects.
 >
 > **[0:16](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=16)** Images can also be used as design elements to add visual interests, such as a banner image at the top of a page.
 >
-> **[0:23](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=23)** To add images to an HTML page, use the image tag.
+> **[0:23](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=23)** To add images to an [[HTML]] page, use the image tag.
 >
 > **[0:27](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-images?u=76281980&t=27)** It's a void element, so a closing tag is not required.
 >
@@ -3272,7 +3234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), feature (1), [[HTML]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[HTML]] (1)
 > **Env Vars:** url (6), html (1), pdf (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for example (1), picture (1), such as (1)
@@ -3280,8 +3242,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
 
-#### Width and height attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980)
+#### [Width and height attributes](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3293,13 +3254,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=21)** There are also various image files included in this folder, which will be used throughout the chapter demonstrations.
 >
-> **[0:29](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=29)** Each demo's completed code is saved in its own folder, but these folders only include the HTML file, not the images.
+> **[0:29](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=29)** Each demo's completed code is saved in its own folder, but these folders only include the [[HTML]] file, not the images.
 >
 > **[0:36](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=36)** You can use these files to view the completed code off screen.
 >
-> **[0:41](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=41)** We're using VS Code for these examples since CodePen's free account doesn't allow for the uploading of your own image files, and we'll be using quite a few.
+> **[0:41](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=41)** We're using VS Code for these examples since [[CodePen]]'s free account doesn't allow for the uploading of your own image files, and we'll be using quite a few.
 >
-> **[0:50](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=50)** I'm also going to zoom my browser out a bit and collapse the explorer sidebar so we can see this full image while keeping the editor and browser both in view.
+> **[0:50](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=50)** I'm also going to [[Zoom]] my browser out a bit and collapse the explorer sidebar so we can see this full image while keeping the editor and browser both in view.
 >
 > **[1:00](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=60)** Okay, now that we've got the file situation sorted out, let's get back to working with images.
 >
@@ -3335,7 +3296,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=193)** Adding the width and height attributes allows the browser to reserve the specified amount of space before images load, preventing layout shifts.
 >
-> **[3:21](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=201)** It's not required, but it can improve the user experience.
+> **[3:21](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=201)** It's not required, but it can improve the [[User Experience (UX)|user experience]].
 >
 > **[3:25](https://www.linkedin.com/learning/html-essential-training-22425519/width-and-height-attributes?u=76281980&t=205)** When you set either the width or height to a value different from the original file dimensions, the browser will display the image at that specified size.
 >
@@ -3371,19 +3332,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1), [[Zoom]] (1), css (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[CodePen]] (1), [[Zoom]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** html (1), css (1)
 > **Warnings:** note that (2)
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/optimizing-images?u=76281980)
+#### [Optimizing images](https://www.linkedin.com/learning/html-essential-training-22425519/optimizing-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/optimizing-images?u=76281980&t=0)** - There are many ways to resize images with HTML attributes and with CSS, but you'll often need to resize the actual image file first.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/optimizing-images?u=76281980&t=0)** - There are many ways to resize images with [[HTML]] attributes and with CSS, but you'll often need to resize the actual image file first.
 >
 > **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/optimizing-images?u=76281980&t=9)** Photos taken with a camera are typically optimized for print, making them much larger than what's needed for the web.
 >
@@ -3457,7 +3417,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), css (2), web (2)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html (5), ppi (4), css (2), gimp (1)
 > **Definitions:** is called (1), refers to (1)
 > **Analogies:** such as (1), for example (1)
@@ -3466,8 +3426,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** it's best to (1)
 
-#### Developer tools and resizing images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980)
+#### [Developer tools and resizing images](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3511,7 +3470,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=137)** Let's keep the developer tools open.
 >
-> **[2:19](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=139)** We'll continue to use this file and this tool throughout the rest of the chapter demonstrations.
+> **[2:19](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=139)** We'll continue to use this file and this tool throughout the [[Representational State Transfer (REST)|rest]] of the chapter demonstrations.
 >
 > **[2:25](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=145)** Now let's explore how to resize image files.
 >
@@ -3547,11 +3506,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=254)** Depending on the project, you may need to create a bunch of different versions of the same image.
 >
-> **[4:20](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=260)** Web design and development can be fun and interesting but it also involves some repetitive tasks.
+> **[4:20](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=260)** [[Web Design]] and development can be fun and interesting but it also involves some repetitive tasks.
 >
 > **[4:25](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=265)** That's just the nature of the business.
 >
-> **[4:27](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=267)** If you are using a content management system like WordPress or Joomla, there are plugins that can be added to automatically resize the images when you upload them.
+> **[4:27](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=267)** If you are using a [[Content Management]] system like [[WordPress]] or Joomla, there are plugins that can be added to automatically resize the images when you upload them.
 >
 > **[4:38](https://www.linkedin.com/learning/html-essential-training-22425519/developer-tools-and-resizing-images?u=76281980&t=278)** Website builders like Squarespace often integrate this feature into their platform as well, though they often still have formatting guidelines.
 >
@@ -3563,7 +3522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1), web (1), business (1), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Web Design]] (1), [[Content Management]] (1), [[WordPress]] (1)
 > **Env Vars:** dpr (3), png (2)
 > **UI Navigation:** dropdown (2), go to (2), open the (1)
 > **Tools:** firefox (2)
@@ -3572,8 +3531,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Responsive images, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980)
+#### [Responsive images, part 1](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3581,13 +3539,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=9)** Today, we have a wide variety of internet-enabled devices, from phones and tablets to laptops, desktops, TVs, and even refrigerators.
 >
-> **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=20)** In 2010, designer Ethan Marcotte introduced Responsive Web Design to address these changes.
+> **[0:20](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=20)** In 2010, designer Ethan Marcotte introduced [[Responsive Web Design]] to address these changes.
 >
 > **[0:26](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=26)** This design philosophy focuses on creating websites that are able to adapt to different screen sizes and devices.
 >
 > **[0:33](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=33)** Responsive images are an important part of responsive web design.
 >
-> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=37)** There are several HTML methods for creating adaptive and responsive images, each designed for specific scenarios.
+> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=37)** There are several [[HTML]] methods for creating adaptive and responsive images, each designed for specific scenarios.
 >
 > **[0:47](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-1?u=76281980&t=47)** If you're limited to only using a single image file, then using one that's at least twice the size of the intended display dimensions will support both standard and high-pixel density screens.
 >
@@ -3653,15 +3611,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsive Web Design]] (2), [[HTML]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (2), [[HTML]] (2)
 > **Env Vars:** dpr (3), html (2), ppi (1)
 > **Cross-References:** go back to (1)
 > **Tools:** vs code (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - in (1)
 
-#### Responsive images, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980)
+#### [Responsive images, part 2](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3711,7 +3668,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980&t=133)** This specifies the image width for viewports that fall outside of the media conditions.
 >
-> **[2:20](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980&t=140)** Let's go back to the editor and update the HTML.
+> **[2:20](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980&t=140)** Let's go back to the editor and update the [[HTML]].
 >
 > **[2:25](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-pt-2?u=76281980&t=145)** I'll keep this image with the pixel density descriptor, to use for comparison.
 >
@@ -3825,7 +3782,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), next (3), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (5), dpr (4), html (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3834,8 +3791,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responsive images with picture
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980)
+#### [Responsive images with picture](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3915,7 +3871,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980&t=275)** We can apply the same styling to the picture element.
 >
-> **[4:39](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980&t=279)** I'm just going to zoom out my browser just a little bit more so we could see both images.
+> **[4:39](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980&t=279)** I'm just going to [[Zoom]] out my browser just a little bit more so we could see both images.
 >
 > **[4:46](https://www.linkedin.com/learning/html-essential-training-22425519/responsive-images-with-picture?u=76281980&t=286)** Now, let's add the same class attribute to the image tag in the picture element, class equals responsive.
 >
@@ -3973,7 +3929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), css (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** png (6), dpr (6), pgn (1), css (1)
 > **Analogies:** picture (10), for example (1), just like (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -3981,8 +3937,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - so (1)
 
-#### Challenge: Add responsive images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980)
+#### [Challenge: Add responsive images](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3998,7 +3953,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980&t=29)** Just remember, the sample files are for practice within the course only, not for external projects.
 >
-> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980&t=37)** Create an images folder for your image files to group them separately from the HTML files.
+> **[0:37](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980&t=37)** Create an images folder for your image files to group them separately from the [[HTML]] files.
 >
 > **[0:43](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-responsive-images?u=76281980&t=43)** Use the responsive technique for supporting different resolutions and pixel densities.
 >
@@ -4012,14 +3967,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4075,7 +4029,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980&t=182)** It's an external link, so I want it to open in a new tab or window.
 >
-> **[3:07](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980&t=187)** Other places I could add a link or references to external websites in my bio, such as my LinkedIn profile, courses, and YouTube channel.
+> **[3:07](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980&t=187)** Other places I could add a link or references to external websites in my bio, such as my [[LinkedIn]] profile, courses, and YouTube channel.
 >
 > **[3:18](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24554377?u=76281980&t=198)** For demonstration purposes, I'll just use the number sign as a placeholder for the URL.
 >
@@ -4097,12 +4051,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Video
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
+#### [Video](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=0)** - The introduction of video and audio elements was a big step forward in the development of HTML.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=0)** - The introduction of video and audio elements was a big step forward in the development of [[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=7)** The ability to easily embed video and audio directly into webpages, replaced older plugin based solutions like Flash and Silverlight, helping to drive the growth of streaming media online with platforms like YouTube and SoundCloud as some of the early adopters.
 >
@@ -4152,9 +4105,9 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=148)** Videos can be used to add visual interests.
 >
-> **[2:30](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=150)** For example, a clothing store might use video to showcase their products or for ad campaigns.
+> **[2:30](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=150)** For example, a clothing store might use video to showcase their [[Microsoft Products|products]] or for ad campaigns.
 >
-> **[2:36](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=156)** In this scenario, you may not need to include any playback controls, but most of the time they're typically recommended for a better user experience.
+> **[2:36](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=156)** In this scenario, you may not need to include any playback controls, but most of the time they're typically recommended for a better [[User Experience (UX)|user experience]].
 >
 > **[2:45](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=165)** Back in the editor let's add the controls boolean attribute to display the default browser controls.
 >
@@ -4164,7 +4117,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=187)** Chrome offers some additional features, playback speed and picture in picture, which is basically the same as Firefox's pop-out feature.
 >
-> **[3:15](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=195)** For more advanced customization beyond the default controls, or to create browser specific features, JavaScript can be used.
+> **[3:15](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=195)** For more advanced customization beyond the default controls, or to create browser specific features, [[JavaScript]] can be used.
 >
 > **[3:23](https://www.linkedin.com/learning/html-essential-training-22425519/video?u=76281980&t=203)** Let's add a few more boolean attributes.
 >
@@ -4212,7 +4165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[User Experience (UX)|User experience]] (2), feature (2), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[User Experience (UX)|User experience]] (2), [[Microsoft Products|Products]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (2), mp4 (2), ogg (1), css (1), mdn (1)
 > **Analogies:** for example (2), picture (2), just like (1)
 > **Tools:** firefox (4)
@@ -4221,8 +4174,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Documentation:** mdn (1)
 
-#### Adding captions and subtitles
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980)
+#### [Adding captions and subtitles](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4260,7 +4212,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=108)** An optional queue identifier can be added, usually a number, represented here with one, two, and three.
 >
-> **[1:55](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=115)** It's added before the time code to serve as a reference for JavaScript or CSS.
+> **[1:55](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=115)** It's added before the time code to serve as a reference for [[JavaScript]] or CSS.
 >
 > **[2:01](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=121)** A blank line should also be included between queue blocks.
 >
@@ -4284,7 +4236,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=183)** The kind attribute specifies how the text track will be used.
 >
-> **[3:07](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=187)** It can be set to one of these values, captions, subtitles, chapters, which we discussed earlier, or metadata.
+> **[3:07](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=187)** It can be set to one of these values, captions, subtitles, chapters, which we discussed earlier, or [[Metadata]].
 >
 > **[3:16](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=196)** Metadata provides additional information about the media such as descriptions or annotations.
 >
@@ -4306,7 +4258,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=263)** One final note about the track element.
 >
-> **[4:25](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=265)** While you can open HTML files directly from your computer into the browser, the track element requires a server environment to function properly due to security restrictions and server communication requirements.
+> **[4:25](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=265)** While you can open [[HTML]] files directly from your computer into the browser, the track element requires a server environment to function properly due to security restrictions and server communication requirements.
 >
 > **[4:38](https://www.linkedin.com/learning/html-essential-training-22425519/adding-captions-and-subtitles?u=76281980&t=278)** However, the live server plugin we've been using creates a local server, allowing us to test VTT files with the track element.
 >
@@ -4316,7 +4268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (3), [[JavaScript]] (2), next (1), css (1), feature (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** vtt (5), css (1), html (1), pdf (1)
 > **Cross-References:** go back to (1), previous video (1), we discussed (1)
 > **Analogies:** such as (2)
@@ -4325,8 +4277,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980)
+#### [Audio](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4366,7 +4317,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=93)** The OGG format is an older open-source option, but also provides good quality and smaller file sizes.
 >
-> **[1:41](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=101)** Let's look at an example using the 06_03_start HTML file.
+> **[1:41](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=101)** Let's look at an example using the 06_03_start [[HTML]] file.
 >
 > **[1:47](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=107)** This shows the basic audio implementation using the source and controls attributes along with a fallback message.
 >
@@ -4378,23 +4329,22 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=141)** You can add the autoplay and loop attributes to automatically play the audio on page load and loop the audio file when it reaches the end.
 >
-> **[2:29](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=149)** But just like video, use these features thoughtfully to ensure the best user experience.
+> **[2:29](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=149)** But just like video, use these features thoughtfully to ensure the best [[User Experience (UX)|user experience]].
 >
 > **[2:37](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=157)** The track element can also be used with audio, but its implementation requires additional scripting because the only visual interface is the control bar.
 >
-> **[2:46](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=166)** Using the video element is the simplest solution, but if you want to use the audio element for better semantics, you'll need JavaScript to display captions during playback, either through existing libraries or creating your own custom scripts.
+> **[2:46](https://www.linkedin.com/learning/html-essential-training-22425519/audio?u=76281980&t=166)** Using the video element is the simplest solution, but if you want to use the audio element for better semantics, you'll need [[JavaScript]] to display captions during playback, either through existing libraries or creating your own custom scripts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), open-source (1), [[HTML]] (1), feature (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[User Experience (UX)|User experience]] (1), [[JavaScript]] (1)
 > **Env Vars:** mp3 (1), wav (1), ogg (1), html (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding media with iframes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980)
+#### [Embedding media with iframes](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4436,7 +4386,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=117)** Let's say I have a website about tourist attractions in Toronto.
 >
-> **[2:01](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=121)** I can go to Google Maps and search for an address or landmark to find its location.
+> **[2:01](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=121)** I can go to [[Google]] Maps and search for an address or landmark to find its location.
 >
 > **[2:07](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=127)** For example, let me look up the CN Tower.
 >
@@ -4448,13 +4398,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=154)** The preview shown in this modal window represents what will be embedded on your website.
 >
-> **[2:40](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=160)** There are many third-party services that let you embed content, like forms, calendars, and interactive widgets, into your webpage.
+> **[2:40](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=160)** There are many third-party services that let you embed content, like [[Forms]], calendars, and interactive widgets, into your webpage.
 >
-> **[2:47](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=167)** While knowing how to write HTML from scratch is valuable, using existing tools can help you add more advanced features and simplify your workflow.
+> **[2:47](https://www.linkedin.com/learning/html-essential-training-22425519/embedding-media-with-iframes?u=76281980&t=167)** While knowing how to write [[HTML]] from scratch is valuable, using existing tools can help you add more advanced features and simplify your workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Google]] (1), [[Search]] (1), [[Forms]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Forms]] (1), [[HTML]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** url (1), pdf (1), html (1)
 > **UI Navigation:** go to (3)
@@ -4462,8 +4412,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - if (1)
 
-#### Challenge: Add media to project
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-media-to-project?u=76281980)
+#### [Challenge: Add media to project](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-media-to-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4485,8 +4434,7 @@ created: 2026-05-02
 > **Speakers:** - [presenter] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4498,7 +4446,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=18)** It doesn't even have to be YouTube or a video.
 >
-> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=21)** It can be Google Maps, SoundCloud, Spotify, or any third party media service.
+> **[0:21](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=21)** It can be [[Google]] Maps, SoundCloud, Spotify, or any third party media service.
 >
 > **[0:28](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=28)** Finding the embed code for most third party services is generally straightforward.
 >
@@ -4506,7 +4454,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=36)** Then look for an embed option.
 >
-> **[0:40](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=40)** Copy the whole block and add it to your HTML.
+> **[0:40](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=40)** Copy the whole block and add it to your [[HTML]].
 >
 > **[0:44](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24560329?u=76281980&t=44)** Back in the editor, I'll paste it underneath the paragraph.
 >
@@ -4520,7 +4468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[HTML]] (1)
 > **Env Vars:** html (1), css (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -4531,12 +4479,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are web forms?
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
+#### [What are web forms?](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=0)** - Web forms are one of the main ways users interact with websites.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=0)** - Web [[Forms]] are one of the main ways users interact with websites.
 >
 > **[0:04](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=4)** When you fill out a quiz, sign up for a newsletter, or enter payment details to make an online purchase, you are using forms to input your data.
 >
@@ -4546,11 +4493,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=26)** A form's complexity depends on how much information needs to be collected.
 >
-> **[0:30](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=30)** While most forms require processing on a web server through server-side programming, the user interface elements, the parts that we see in the browser, like text fields and submit buttons, those are created with HTML.
+> **[0:30](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=30)** While most forms require processing on a web server through server-side programming, the user interface elements, the parts that we see in the browser, like text fields and submit buttons, those are created with [[HTML]].
 >
-> **[0:43](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=43)** On web development teams, front end developers typically create the interface elements, while backend developers manage the functionality and the data processing.
+> **[0:43](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=43)** On [[Web Development]] teams, front end developers typically create the interface elements, while backend developers manage the functionality and the [[Data Processing]].
 >
-> **[0:52](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=52)** There are also many services for creating forms such as Typeform or Google Forms.
+> **[0:52](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=52)** There are also many services for creating forms such as Typeform or [[Google]] Forms.
 >
 > **[0:58](https://www.linkedin.com/learning/html-essential-training-22425519/what-are-web-forms?u=76281980&t=58)** And while these tools have their place, there are benefits to learning how to create forms with HTML.
 >
@@ -4558,22 +4505,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (9), web (2), data (2), [[HTML]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Forms]] (9), [[HTML]] (2), [[Web Development]] (1), [[Data Processing]] (1), [[Google]] (1)
 > **Env Vars:** html (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - web (1)
 
-#### HTML form basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980)
+#### [HTML form basics](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=0)** - [Instructor] HTML forms contain various controls, which are the elements that allow users to input data and interact with web forms, like text fields for typing, check boxes for selecting options, and buttons for submitting the forms.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=0)** - [Instructor] [[HTML]] [[Forms]] contain various controls, which are the elements that allow users to input data and interact with web forms, like text fields for typing, check boxes for selecting options, and buttons for submitting the forms.
 >
 > **[0:14](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=14)** We'll explore how to implement various form controls by building an account signup form.
 >
-> **[0:19](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=19)** When designing user interfaces, I like to start by sketching it out.
+> **[0:19](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=19)** When designing user interfaces, I like to start by [[Sketching]] it out.
 >
 > **[0:22](https://www.linkedin.com/learning/html-essential-training-22425519/html-form-basics?u=76281980&t=22)** It provides a helpful blueprint, even if the final design may change.
 >
@@ -4709,7 +4655,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Forms]] (7), [[HTML]] (5), next (4), css (3)
+> **Frameworks & Libraries:** [[Forms]] (7), [[HTML]] (5), [[Sketching]] (1)
 > **Env Vars:** html (3), url (3), post (2), css (2), http (1)
 > **File Paths:** 07_02_start.html (1), submit.html (1), forms.css (1)
 > **CLI Commands:** make (3)
@@ -4718,12 +4664,11 @@ created: 2026-05-02
 > **Definitions:** basically means (1), is a  (1)
 > **Analogies:** for example (2)
 
-#### Input types
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/input-types?u=76281980)
+#### [Input types](https://www.linkedin.com/learning/html-essential-training-22425519/input-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/input-types?u=76281980&t=0)** - [Narrator] Input elements are an important part of creating forms since they can handle different types of data.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/input-types?u=76281980&t=0)** - [Narrator] Input elements are an important part of creating [[Forms]] since they can handle different types of data.
 >
 > **[0:06](https://www.linkedin.com/learning/html-essential-training-22425519/input-types?u=76281980&t=6)** By adding the type attribute, we can specify each input's data type, which determines how the input functions.
 >
@@ -4803,7 +4748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), [[Forms]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **URLs:** [dot.com](https://dot.com) (1), [or.edu](https://or.edu) (1), [email.com](https://email.com) (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Env Vars:** tld (1)
@@ -4811,12 +4756,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Form validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980)
+#### [Form validation](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=0)** - In the last demo, we saw that forms accept blank fields by default, since they often include both required and optional fields.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=0)** - In the last demo, we saw that [[Forms]] accept blank fields by default, since they often include both required and optional fields.
 >
 > **[0:08](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=8)** For example, an address form will require a street address, city, country, and postal or ZIP code, while a unit number is optional; it's only needed for those who live in apartments.
 >
@@ -4896,11 +4840,11 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=279)** Now it's passed all the requirements.
 >
-> **[4:41](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=281)** Using just a few HTML attributes, we were able to add basic form validation, but for more advanced validation features, JavaScript or server-side programming will be needed.
+> **[4:41](https://www.linkedin.com/learning/html-essential-training-22425519/form-validation?u=76281980&t=281)** Using just a few [[HTML]] attributes, we were able to add basic form validation, but for more advanced validation features, [[JavaScript]] or server-side programming will be needed.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** tld (3), zip (1), pdf (1), html (1)
 > **CLI Commands:** make (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -4908,8 +4852,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Checkbox and radio inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980)
+#### [Checkbox and radio inputs](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5027,21 +4970,20 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980&t=397)** We've covered the basics of how to use various input types, but there are more input types and attributes available.
 >
-> **[6:48](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980&t=408)** Learning all the ins and outs of forms could really be its own course.
+> **[6:48](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980&t=408)** Learning all the ins and outs of [[Forms]] could really be its own course.
 >
 > **[6:52](https://www.linkedin.com/learning/html-essential-training-22425519/checkbox-and-radio-inputs?u=76281980&t=412)** The full list of inputs and attributes are available on the MDN website.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **UI Navigation:** checkbox (11)
 > **Env Vars:** mdn (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** mdn (1)
 > **Speakers:** - so (1)
 
-#### Additional form elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980)
+#### [Additional form elements](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5079,7 +5021,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980&t=112)** Both select and text area can also be used with labels to add a caption.
 >
-> **[1:58](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980&t=118)** There's a lot more to learn about forms.
+> **[1:58](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980&t=118)** There's a lot more to learn about [[Forms]].
 >
 > **[2:00](https://www.linkedin.com/learning/html-essential-training-22425519/additional-form-elements?u=76281980&t=120)** Selecting an option shows the documentation and all available attributes for each element.
 >
@@ -5091,14 +5033,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (2), data (1), css (1)
+> **Frameworks & Libraries:** [[Forms]] (2)
 > **UI Navigation:** dropdown (2)
 > **Env Vars:** css (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a contact form
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-a-contact-form?u=76281980)
+#### [Challenge: Add a contact form](https://www.linkedin.com/learning/html-essential-training-22425519/challenge-add-a-contact-form?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5116,13 +5057,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980)
+#### [Solution: Demo](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5210,7 +5149,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980&t=227)** And that's it for your form, but we're not quite done yet.
 >
-> **[3:53](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980&t=233)** We've created a well-structured and semantically sound website with HTML.
+> **[3:53](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980&t=233)** We've created a well-structured and semantically sound website with [[HTML]].
 >
 > **[3:58](https://www.linkedin.com/learning/html-essential-training-22425519/solution-demo-24555351?u=76281980&t=238)** However, the current appearance is limited to the browser's default styling.
 >
@@ -5272,7 +5211,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), next (4), [[HTML]] (3), functional (1), data (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Env Vars:** css (5), html (3)
 > **CLI Commands:** make (4)
 > **File Paths:** styles.css (2)
@@ -5286,12 +5225,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is accessibility?
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
+#### [What is accessibility?](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=0)** - Throughout this course, I've mentioned ways to make HTML more accessible, and we've covered different topics.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=0)** - Throughout this course, I've mentioned ways to make [[HTML]] more accessible, and we've covered different topics.
 >
 > **[0:06](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=6)** Now let's take a step back and explore what does this really mean.
 >
@@ -5305,9 +5243,9 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=34)** The core principle is simple: everyone should have access to the web, and in some places it's actually the law.
 >
-> **[0:42](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=42)** The W3C keeps a list of web accessibility laws and policies by country.
+> **[0:42](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=42)** The W3C keeps a list of [[Web Accessibility]] laws and policies by country.
 >
-> **[0:48](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=48)** The legal requirements vary by region, but they usually apply to government agencies and sectors such as banking, telecommunications, libraries, educational institutions, and transportation.
+> **[0:48](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=48)** The legal requirements vary by region, but they usually apply to government agencies and sectors such as [[Banking]], [[Telecommunications]], libraries, educational institutions, and transportation.
 >
 > **[1:00](https://www.linkedin.com/learning/html-essential-training-22425519/what-is-accessibility?u=76281980&t=60)** The W3C has also created the Web Content Accessibility Guidelines, which is a detailed guide explaining how to make websites accessible.
 >
@@ -5325,7 +5263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Accessibility]] (3), web (2), [[HTML]] (1), [[Banking]] (1), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (3), [[HTML]] (1), [[Banking]] (1), [[Telecommunications]] (1)
 > **Env Vars:** w3c (2), html (1), wcag (1), pdf (1)
 > **CLI Commands:** make (2)
 > **Documentation:** w3c (2)
@@ -5334,8 +5272,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 
-#### Accessible Rich Internet Applications (ARIA) basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980)
+#### [Accessible Rich Internet Applications (ARIA) basics](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5349,7 +5286,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980&t=24)** As the web became more advanced and interactive, new accessibility challenges popped up.
 >
-> **[0:30](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980&t=30)** Adding more complex features and dynamic content using JavaScript libraries sometimes resulted in less semantic HTML code, making it harder for screen readers to understand.
+> **[0:30](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980&t=30)** Adding more complex features and dynamic content using [[JavaScript]] libraries sometimes resulted in less semantic [[HTML]] code, making it harder for screen readers to understand.
 >
 > **[0:42](https://www.linkedin.com/learning/html-essential-training-22425519/aria-basics?u=76281980&t=42)** There is a technology that can help, ARIA, which stands for Accessible Rich Internet Applications.
 >
@@ -5413,7 +5350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), web (3), [[JavaScript]] (3)
+> **Frameworks & Libraries:** [[HTML]] (6), [[JavaScript]] (3)
 > **Env Vars:** aria (14), html (6), w3c (1), mdn (1)
 > **Analogies:** for example (2), similar to (2)
 > **CLI Commands:** make (2), find (1)
@@ -5422,12 +5359,11 @@ created: 2026-05-02
 > **UI Navigation:** checkbox (1)
 > **Prerequisites:** you'll need (1)
 
-#### Supporting languages
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/supporting-languages?u=76281980)
+#### [Supporting languages](https://www.linkedin.com/learning/html-essential-training-22425519/supporting-languages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/supporting-languages?u=76281980&t=0)** - [Instructor] In Chapter three's discussion of required HTML tags, we talked about the lang attribute, used to specify the language of the page content.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/supporting-languages?u=76281980&t=0)** - [Instructor] In Chapter three's discussion of required [[HTML]] tags, we talked about the lang attribute, used to specify the language of the page content.
 >
 > **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/supporting-languages?u=76281980&t=9)** This helps assistive technologies use the correct pronunciation.
 >
@@ -5495,7 +5431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[HTML]] (1), data (1), feature (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** iana (2), html (1), w3c (1)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** find (2)
@@ -5509,16 +5445,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=0)** - Congratulations on completing the HTML Essential Training course.
+> **[0:00](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=0)** - Congratulations on completing the [[HTML]] Essential Training course.
 >
 > **[0:04](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=4)** You deserve a round of applause and maybe a little break.
 >
-> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=9)** When you're ready to resume your studies and continue on your web development journey, here's some suggestions for next steps.
+> **[0:09](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=9)** When you're ready to resume your studies and continue on your [[Web Development]] journey, here's some suggestions for next steps.
 >
 > **[0:15](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=15)** Get in some more practice.
 >
@@ -5530,13 +5465,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=34)** HTML is the foundation of the web, but it's also the beginning.
 >
-> **[0:38](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=38)** As you progress, you'll want to learn CSS for styling and JavaScript for interactivity to become a well-rounded web developer.
+> **[0:38](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=38)** As you progress, you'll want to learn CSS for styling and [[JavaScript]] for interactivity to become a well-rounded web developer.
 >
 > **[0:46](https://www.linkedin.com/learning/html-essential-training-22425519/next-steps?u=76281980&t=46)** Thanks for watching the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (2), web (2), [[Web Development]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Web Development]] (1), [[JavaScript]] (1)
 > **Env Vars:** html (4), css (2)
 > **Speakers:** - congratulations (1)
 

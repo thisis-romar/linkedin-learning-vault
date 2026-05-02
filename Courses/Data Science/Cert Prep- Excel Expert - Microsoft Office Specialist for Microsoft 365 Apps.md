@@ -103,12 +103,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prove your Excel skills as a MOS Expert
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980)
+#### [Prove your Excel skills as a MOS Expert](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=0)** - Hi, my name is Jen McBee, and I'm here to help you prepare for the Microsoft Excel Expert Exam for Microsoft 365 apps.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=0)** - Hi, my name is Jen McBee, and I'm here to help you prepare for the [[Microsoft Excel]] Expert Exam for [[Microsoft 365]] apps.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=10)** We'll start with an overview of the different MOS certifications, and how to prepare for the exam.
 >
@@ -116,28 +115,27 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=34)** I will give you opportunities throughout the course for hands-on practice, and we'll finish with a full-length practice exam to test your skills and your speed.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=44)** When you can finish my practice exam in under 40 minutes, you're probably ready to start your final preparations for the Excel Expert Exam.
+> **[0:44](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=44)** When you can finish my practice exam in under 40 minutes, you're probably ready to start your final preparations for the [[Microsoft Excel|Excel]] Expert Exam.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prove-your-excel-skills-as-a-mos-expert-17330192?u=76281980&t=55)** Thanks for joining me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft 365]] (1), next (1), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft 365]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** mos (1)
 > **Speakers:** - hi (1)
 
-#### Who should take this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980)
+#### [Who should take this course](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=0)** - [Instructor] This course is custom-tailored to those interested in becoming a Microsoft certified Excel Expert.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=0)** - [Instructor] This course is custom-tailored to those interested in becoming a [[Microsoft]] certified [[Microsoft Excel|Excel]] Expert.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=7)** To really get the most out of this course, I recommend learners have at least six to 12 months of prior experience with Microsoft Excel.
+> **[0:07](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=7)** To really get the most out of this course, I recommend learners have at least six to 12 months of prior experience with [[Microsoft Excel]].
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=16)** You should also have a very good comfort level with creating, managing, and collaborating on workbooks.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=25)** We'll branch off of this knowledge to learn more about performing advanced calculations using logical operations, working with macros, creating and modifying advanced charts, pivot tables and pivot charts.
+> **[0:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=25)** We'll branch off of this knowledge to learn more about performing advanced calculations using logical operations, working with macros, creating and modifying advanced charts, [[Pivot Tables]] and pivot charts.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/who-should-take-this-course-17331148?u=76281980&t=41)** If you fit this criteria and are ready to prepare for the Microsoft certified Excel Expert exam, well, then let's get started.
 
@@ -146,12 +144,11 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Excel]] (1), [[Pivot Tables]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-exercise-files-17327310?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-exercise-files-17327310?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-exercise-files-17327310?u=76281980&t=0)** - [Instructor] If you'd like to access the exercise files that we'll be using throughout the course, you can download them from the LinkedIn Learning library.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-exercise-files-17327310?u=76281980&t=0)** - [Instructor] If you'd like to access the exercise files that we'll be using throughout the course, you can download them from the [[LinkedIn]] Learning library.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-exercise-files-17327310?u=76281980&t=8)** To start, I'd like you to download the exercise file package to a location on your computer, such as the desktop, as I did here.
 >
@@ -173,8 +170,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the challenge files
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-challenge-files-17331144?u=76281980)
+#### [Using the challenge files](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/using-the-challenge-files-17331144?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,16 +193,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The different kinds of Microsoft Office Specialist certifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980)
+#### [The different kinds of Microsoft Office Specialist certifications](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=0)** - [Instructor] Microsoft is moving in a new direction for certifications.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=0)** - [Instructor] [[Microsoft]] is moving in a new direction for certifications.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=4)** They will still be offering certification in Office 2019, Office 2016, and Office 2013.
+> **[0:04](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=4)** They will still be offering certification in [[Microsoft Office|Office]] 2019, Office 2016, and Office 2013.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=14)** They will now also be offering certification in Microsoft 365 Apps.
+> **[0:14](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=14)** They will now also be offering certification in [[Microsoft 365]] Apps.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=22)** Now, a couple of things that you need to be aware of.
 >
@@ -216,7 +211,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=68)** So you'll start in Office 2019 and continue all the way through, or you'll start in Microsoft 365 Apps and continue your certification path all the way through in that program.
 >
-> **[1:23](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=83)** If you have any questions about the current certification options, please reach out to me through LinkedIn Learning in the Q&A section.
+> **[1:23](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=83)** If you have any questions about the current certification options, please reach out to me through [[LinkedIn]] Learning in the Q&A section.
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=92)** I know it can be a little confusing, and I will be very happy to help.
 >
@@ -224,9 +219,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=106)** There is an Associate level and an Expert level.
 >
-> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=110)** The first level is Microsoft Office Specialist Associate.
+> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=110)** The first level is [[Microsoft Office]] Specialist Associate.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=115)** An Associate is an individual who has demonstrated their expertise by passing any three of these four exams: Excel Associate, Word Associate, Outlook Associate, or PowerPoint Associate.
+> **[1:55](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=115)** An Associate is an individual who has demonstrated their expertise by passing any three of these four exams: [[Microsoft Excel|Excel]] Associate, [[Microsoft Word|Word]] Associate, [[Microsoft Outlook|Outlook]] Associate, or [[Microsoft PowerPoint|PowerPoint]] Associate.
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/the-different-kinds-of-microsoft-office-specialist-certifications-17325392?u=76281980&t=132)** The second level is Microsoft Office Specialist Expert.
 >
@@ -247,8 +242,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare for the test
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980)
+#### [Prepare for the test](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=3)** First of all, what to study?
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=6)** We've inserted into your chapter one folder, a list of the Excel Expert 365 Apps Domain Objectives.
+> **[0:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=6)** We've inserted into your chapter one folder, a list of the [[Microsoft Excel|Excel]] Expert 365 Apps Domain Objectives.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=16)** Here's the list of the objectives.
 >
@@ -304,7 +298,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=183)** You'll have 20 to 25 tests on your exam and you will use multiple workbooks and spreadsheets to complete each of those tests.
 >
-> **[3:16](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=196)** Microsoft believes that using multiple projects through the exam allows you to better show your knowledge and skills of Excel.
+> **[3:16](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=196)** [[Microsoft]] believes that using multiple projects through the exam allows you to better show your knowledge and skills of Excel.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=204)** The projects you'll be working on are real world examples of documents like you probably work on now.
 >
@@ -320,11 +314,11 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=244)** This is their homepage where you can register as a new user or login if you are a current client of Certiport's.
 >
-> **[4:14](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=254)** This is also where you can find additional information about the Microsoft Office Specialist certification.
+> **[4:14](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=254)** This is also where you can find additional information about the [[Microsoft Office]] Specialist certification.
 >
 > **[4:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=265)** You can also find the testing center that is closest to you when you are ready to schedule your exam.
 >
-> **[4:34](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=274)** Now, at the time of recording, Certiport was still allowing people to take the exam from their office or from home.
+> **[4:34](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=274)** Now, at the time of recording, Certiport was still allowing people to take the exam from their [[Microsoft Office|office]] or from home.
 >
 > **[4:43](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/prepare-for-the-test-17330187?u=76281980&t=283)** So you can check with Certiport or you can contact me and I'll be glad to help you set that up if you want to go ahead and test from your home.
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (3), [[Microsoft]] (2), data (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft]] (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2), find (2)
 > **URLs:** [certiport.com](https://certiport.com) (3)
 > **Env Vars:** mos (3)
@@ -365,8 +359,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage macros
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980)
+#### [Manage macros](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=67)** Well, by default, if you do not click this, such as I did, the reference will be an absolute reference.
 >
-> **[1:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=75)** This is what I like to use because if I record a macro in J3, I can select the range of cells that I want to apply the macro to before I run it and Excel won't care where I am selecting the cells.
+> **[1:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=75)** This is what I like to use because if I record a macro in J3, I can select the range of cells that I want to apply the macro to before I run it and [[Microsoft Excel|Excel]] won't care where I am selecting the cells.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=90)** It will absolutely just apply that formatting in this case to the cells.
 >
@@ -440,7 +433,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=231)** Now let's copy this macro into our other open workbook.
 >
-> **[3:56](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=236)** Go to view, switch windows, copy macros.
+> **[3:56](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=236)** Go to view, switch [[Windows]], copy macros.
 >
 > **[4:01](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-macros-17327312?u=76281980&t=241)** Developer tab, let's go into Visual Basic.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Excel|Excel]] (1), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (6), go to (5), select the (1), drag and drop (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is an  (1)
@@ -517,14 +510,13 @@ created: 2026-05-02
 > **Env Vars:** e14 (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Reference data in other workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980)
+#### [Reference data in other workbooks](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=0)** - [Instructor] Linking to a data source is a quick way to access data from another file.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=5)** It can be an Excel workbook. It can be from a PDF.
+> **[0:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=5)** It can be an [[Microsoft Excel|Excel]] workbook. It can be from a PDF.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=8)** It can be a text file, a CSV file.
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=32)** The main workbook is 02_02 Workbook_Reference.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=36)** And under my view ribbon, if I go to Switch Windows, you'll see we also have 02_02 for 2021, 2020, and 2022 sales, and I put some extra files in your Chapter 2 folders, so that you can practice using Get and Transform.
+> **[0:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=36)** And under my view ribbon, if I go to Switch [[Windows]], you'll see we also have 02_02 for 2021, 2020, and 2022 sales, and I put some extra files in your Chapter 2 folders, so that you can practice using Get and Transform.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=53)** Well, we have our 2022 sales information already in our main workbook, so we want to bring in the 2021 sales into the next worksheet.
 >
@@ -560,7 +552,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=112)** We're going to bring in the column headings, as well as the information for each of the quarters.
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=118)** I'll go ahead and click in C3, go to Data, get data from file, and these are all of the data sources we have access to: an Excel workbook, text and CSV, XML, JSON, PDF, from a database, from Azure, all of these different data sources.
+> **[1:58](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=118)** I'll go ahead and click in C3, go to Data, get data from file, and these are all of the data sources we have access to: an Excel workbook, text and CSV, XML, [[JSON]], PDF, from a database, from [[Microsoft Azure|Azure]], all of these different data sources.
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/reference-data-in-other-workbooks-17325396?u=76281980&t=140)** We'll start with From File, from an Excel workbook.
 >
@@ -682,15 +674,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Microsoft Excel|Excel]] (3), [[Windows]] (1), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (1), [[JSON]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** go to (8), select the (2), double-click (1), click on (1)
 > **Env Vars:** pdf (2), csv (2), xml (1), json (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage workbook versions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980)
+#### [Manage workbook versions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,9 +689,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=10)** We're in the 02, 03 Versions Workbook and you'll notice right away that I have auto save turned on.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=18)** I'm actually working on the OneDrive for Globe Bank and I'm working under Kim Trung, which is why she's showing up here.
+> **[0:18](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=18)** I'm actually working on the [[Microsoft OneDrive|OneDrive]] for Globe Bank and I'm working under Kim Trung, which is why she's showing up here.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=28)** In order to use Versions, you do need to have access to OneDrive or to a SharePoint server.
+> **[0:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=28)** In order to use Versions, you do need to have access to OneDrive or to a [[SharePoint]] server.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/manage-workbook-versions-17327314?u=76281980&t=37)** Now, when you open the 02, 03 Versions Workbook in the exercise file, you're going to notice right away that it looks different from what you're seeing on the screen.
 >
@@ -766,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[SharePoint]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (10), [[SharePoint]] (1)
 > **UI Navigation:** go to (4), toggle (2), open the (1), click on (1)
 > **Ports:** :47 (2)
 > **CLI Commands:** make (1)
@@ -775,8 +766,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 
-#### Protect workbooks and worksheets
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980)
+#### [Protect workbooks and worksheets](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,11 +864,11 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=265)** But first I have to add a group of people.
 >
-> **[4:27](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=267)** Now, if you're working on a SharePoint Server or with OneDrive, then you would be able to add people.
+> **[4:27](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=267)** Now, if you're working on a [[SharePoint]] Server or with [[Microsoft OneDrive|OneDrive]], then you would be able to add people.
 >
 > **[4:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=276)** I am just working right on my own laptop, and therefore I don't have any other people to add.
 >
-> **[4:42](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=282)** But this is where you would add people in your office, so that you can allow them to go in and edit that range.
+> **[4:42](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=282)** But this is where you would add people in your [[Microsoft Office|office]], so that you can allow them to go in and edit that range.
 >
 > **[4:51](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=291)** I'm going to click cancel out of here, and cancel again one more time.
 >
@@ -904,7 +894,7 @@ created: 2026-05-02
 >
 > **[6:01](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=361)** So I can share this workbook, and I can put people's names in, emails in, put a message in.
 >
-> **[6:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=370)** It's going to launch Outlook and send them a message with either a link to the document, or I can attach the original document by sending a copy of it, either as an Excel workbook or as a PDF.
+> **[6:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=370)** It's going to launch [[Microsoft Outlook|Outlook]] and send them a message with either a link to the document, or I can attach the original document by sending a copy of it, either as an [[Microsoft Excel|Excel]] workbook or as a PDF.
 >
 > **[6:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/protect-workbooks-and-worksheets-17329213?u=76281980&t=385)** And then this is what we can change right here.
 >
@@ -936,12 +926,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure formula calculation options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-formula-calculation-options-17329212?u=76281980)
+#### [Configure formula calculation options](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-formula-calculation-options-17329212?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-formula-calculation-options-17329212?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about how to set up your calculation settings for Excel.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-formula-calculation-options-17329212?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about how to set up your calculation settings for [[Microsoft Excel|Excel]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-formula-calculation-options-17329212?u=76281980&t=6)** Let's jump right into our workbook.
 >
@@ -993,7 +982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (3), [[Microsoft Excel|Excel]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Versions:** 5.5 (2), 6.5 (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (1)
@@ -1001,8 +990,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manage workbook options and settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980)
+#### [Challenge: Manage workbook options and settings](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980&t=19)** Since this is your first challenge, let's take a look at where to find those files.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980&t=24)** I'm in Excel.
+> **[0:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980&t=24)** I'm in [[Microsoft Excel|Excel]].
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-workbook-options-and-settings-17327304?u=76281980&t=26)** I have stored my exercise files on the desktop.
 >
@@ -1038,8 +1026,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [presenter] (1)
 
-#### Solution: Manage workbook options and settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980)
+#### [Solution: Manage workbook options and settings](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980&t=37)** Click Save and move on.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980&t=40)** Configure Excel so that calculations do not automatically occur, but recalculate when the workbook is saved.
+> **[0:40](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980&t=40)** Configure [[Microsoft Excel|Excel]] so that calculations do not automatically occur, but recalculate when the workbook is saved.
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-workbook-options-and-settings-17326586?u=76281980&t=47)** We'll go to File, down to Options, Formulas, Manual.
 >
@@ -1217,7 +1204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (11), open the (1), select the (1), drag and drop (1)
 > **Env Vars:** cbi (3), pf71878 (1), b20 (1)
 > **CLI Commands:** make (3)
@@ -1231,14 +1218,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fill cells using Flash Fill
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980)
+#### [Fill cells using Flash Fill](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980&t=0)** - [Instructor] Have you ever had to combine information from two or more cells into a brand new column, such as combining a first name, a middle initial, and a last name?
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980&t=11)** Well, you may have used concatenate to do that or you may have just retyped all the information, but I want to show you how to use Flash Fill to make your life so much easier and let Excel do all the work.
+> **[0:11](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980&t=11)** Well, you may have used concatenate to do that or you may have just retyped all the information, but I want to show you how to use Flash Fill to make your life so much easier and let [[Microsoft Excel|Excel]] do all the work.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-flash-fill-17332134?u=76281980&t=23)** Let's go ahead and go into our document, 03_01 FlashFill, and I'll show you first how we can combine those first and last names; Contact First, Contact Last.
 >
@@ -1286,18 +1272,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fill cells using advanced Fill Series options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-advanced-fill-series-options-17325389?u=76281980)
+#### [Fill cells using advanced Fill Series options](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-advanced-fill-series-options-17325389?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-advanced-fill-series-options-17325389?u=76281980&t=0)** - [Instructor] Autofill is a feature that fills cells based on the existing data in the pattern that you show Excel.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-advanced-fill-series-options-17325389?u=76281980&t=0)** - [Instructor] Autofill is a feature that fills cells based on the existing data in the pattern that you show [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/fill-cells-using-advanced-fill-series-options-17325389?u=76281980&t=8)** Well, in this video, I'm going to show you how to use the advanced fill series options, such as creating a linear series or creating a growth series.
 >
@@ -1385,7 +1370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), feature (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** mos (1)
@@ -1394,8 +1379,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create custom number formats
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980)
+#### [Create custom number formats](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1461,7 +1445,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=206)** Over on the left-hand side, these are going to be your positive numbers.
 >
-> **[3:31](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=211)** In square brackets, this tells Excel what color the text should be if it's a positive number.
+> **[3:31](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=211)** In square brackets, this tells [[Microsoft Excel|Excel]] what color the text should be if it's a positive number.
 >
 > **[3:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=216)** In this case, it's blue.
 >
@@ -1497,7 +1481,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=310)** Down below, I've given you some custom formats with text so you can see how those work.
 >
-> **[5:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=315)** For instance, if your coding is general, open quotes, a space and the word million, and I type in 100 and something that is formatted in that way, that's the result, 100 million.
+> **[5:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=315)** For instance, if your coding is general, open quotes, a space and the [[Microsoft Word|word]] million, and I type in 100 and something that is formatted in that way, that's the result, 100 million.
 >
 > **[5:30](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-custom-number-formats-17326585?u=76281980&t=330)** So have fun with this information, try them out.
 >
@@ -1519,7 +1503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (2), [[Microsoft Excel|Excel]] (2), [[Security]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), toggle (2), select the (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for instance (2), just like (1)
@@ -1528,12 +1512,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure data validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980)
+#### [Configure data validation](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=0)** - [Instructor] Data validation lets you control what data can be entered into a cell.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=0)** - [Instructor] [[Data Validation]] lets you control what data can be entered into a cell.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=5)** After watching this video, you'll know how to limit the entries that people make to a whole number or a decimal number, or they can only choose an item from a list of items you give them, or how about if we only allow dates between two specific dates or times that fall within a specific range?
 >
@@ -1557,7 +1540,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=102)** It can be a date, a number, text, a formula.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=106)** Excel doesn't care, because that is the default value.
+> **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=106)** [[Microsoft Excel|Excel]] doesn't care, because that is the default value.
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/configure-data-validation-17328207?u=76281980&t=110)** But using the dropdown menu, this is where we can say only whole numbers can be entered or only numbers with a decimal.
 >
@@ -1647,15 +1630,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Data Validation]] (8), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (3), dropdown (2), go to (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group and ungroup, use subtotals and totals
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980)
+#### [Group and ungroup, use subtotals and totals](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1657,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980&t=53)** Go to our data tab, outline, and these are our options.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980&t=59)** Group, where we can group the information together, we can also use auto outline and let Excel determine where the groups should be created.
+> **[0:59](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980&t=59)** Group, where we can group the information together, we can also use auto outline and let [[Microsoft Excel|Excel]] determine where the groups should be created.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/group-and-ungroup-use-subtotals-and-totals-17328206?u=76281980&t=71)** This is your ungroup function where you can ungroup the information or clear the whole outline.
 >
@@ -1747,17 +1729,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (4), select the (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove duplicate records
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/remove-duplicate-records-17329209?u=76281980)
+#### [Remove duplicate records](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/remove-duplicate-records-17329209?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/remove-duplicate-records-17329209?u=76281980&t=0)** - [Narrator] In Excel, we have a way to filter the information for unique values and we have another tool we can use to remove duplicate values.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/remove-duplicate-records-17329209?u=76281980&t=0)** - [Narrator] In [[Microsoft Excel|Excel]], we have a way to filter the information for unique values and we have another tool we can use to remove duplicate values.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/remove-duplicate-records-17329209?u=76281980&t=9)** After watching this video, you'll know how to apply both to your worksheets.
 >
@@ -1817,13 +1798,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create and manage custom conditional formatting rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980)
+#### [Create and manage custom conditional formatting rules](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,9 +1813,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=24)** Let's take a look at our 0307 conditional formatting worksheet.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=29)** Our profit loss statement has a list of all of our products for the first half of the year and how they're doing in sales.
+> **[0:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=29)** Our profit loss statement has a list of all of our [[Microsoft Products|products]] for the first half of the year and how they're doing in sales.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=38)** In cell D3, I've created a data validation rule and used the product list in column A to create a dropdown menu for people to choose a product from.
+> **[0:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=38)** In cell D3, I've created a [[Data Validation]] rule and used the product list in column A to create a dropdown menu for people to choose a product from.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-manage-custom-conditional-formatting-rules-17325398?u=76281980&t=50)** Our next step for conditional formatting will be to create a rule so when someone selects Canino, for instance, it'll come down and highlight that entire row.
 >
@@ -2007,7 +1987,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), product (2), next (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Data Validation]] (1)
 > **UI Navigation:** go to (4), dropdown (2), double-click (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (2)
@@ -2016,12 +1996,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 
-#### Create conditional formatting rules using formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-conditional-formatting-rules-using-formulas-17332129?u=76281980)
+#### [Create conditional formatting rules using formulas](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-conditional-formatting-rules-using-formulas-17332129?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-conditional-formatting-rules-using-formulas-17332129?u=76281980&t=0)** - [Instructor] We know Excel has great built-in conditional formatting rules, and we know that we can create our own custom rules.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-conditional-formatting-rules-using-formulas-17332129?u=76281980&t=0)** - [Instructor] We know [[Microsoft Excel|Excel]] has great built-in conditional formatting rules, and we know that we can create our own custom rules.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-conditional-formatting-rules-using-formulas-17332129?u=76281980&t=7)** But in this video, we want to take a look at how we can use formulas in our custom rules.
 >
@@ -2169,19 +2148,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **Env Vars:** weekday (3), sku (1), mos (1)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate numeric data by using RANDARRAY()
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980)
+#### [Generate numeric data by using RANDARRAY()](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about RANDARRAY, which is a new function to Excel 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=0)** - [Instructor] In this video, we're going to talk about RANDARRAY, which is a new function to [[Microsoft Excel|Excel]] 365.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=7)** This RANDARRAY function returns an array of random numbers, and you get to specify how many rows and columns to fill, minimum and maximum values, and whether to return whole numbers or decimal values.
 >
@@ -2205,7 +2183,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=99)** This last example, I have asked for the same thing, 10 rows, three columns between one and 30.
 >
-> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=110)** But notice, I have the word true in the statement and that is because I want Excel to return whole numbers for me.
+> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=110)** But notice, I have the [[Microsoft Word|word]] true in the statement and that is because I want Excel to return whole numbers for me.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/generate-numeric-data-by-using-randarray-17326581?u=76281980&t=119)** The previous example, I did not type in anything.
 >
@@ -2313,13 +2291,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), hit (4), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** randarray (13), rand (4), randbetween (3), sortby (2)
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manage and format data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-and-format-data-17325393?u=76281980)
+#### [Challenge: Manage and format data](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-and-format-data-17325393?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2338,8 +2315,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Manage and format data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980)
+#### [Solution: Manage and format data](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2375,7 +2351,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=75)** Okay, let's move on.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=77)** "Configure Excel to only allow the following in the range E9 to E100."
+> **[1:17](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=77)** "Configure [[Microsoft Excel|Excel]] to only allow the following in the range E9 to E100."
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=82)** And I have a list here.
 >
@@ -2387,7 +2363,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=105)** Want to make sure we go all the way down to 100.
 >
-> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=110)** We'll go to Data Validation.
+> **[1:50](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=110)** We'll go to [[Data Validation]].
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-and-format-data-17326582?u=76281980&t=114)** Allow from a list.
 >
@@ -2651,7 +2627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), hit (3), [[Microsoft Excel|Excel]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Data Validation]] (4), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (9), select the (3), click on (1)
 > **Env Vars:** sku (5), f1000 (3), e100 (2), csr (1)
 > **CLI Commands:** make (5)
@@ -2665,8 +2641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use AND(), OR(), and NOT() in nested functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980)
+#### [Use AND(), OR(), and NOT() in nested functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,7 +2713,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980&t=204)** I do want to accept this correction, so I will click yes.
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980&t=208)** So I should've put that closing parentheses and neglected to do so, but luckily Excel caught that for me.
+> **[3:28](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980&t=208)** So I should've put that closing parentheses and neglected to do so, but luckily [[Microsoft Excel|Excel]] caught that for me.
 >
 > **[3:35](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-and-or-and-not-in-nested-functions-17330189?u=76281980&t=215)** So the first one is false.
 >
@@ -2776,7 +2751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** true (5), false (2), o4_01 (1), and_or_not (1)
 > **UI Navigation:** double-click (2)
 > **CLI Commands:** make (1)
@@ -2785,8 +2760,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use IF() and IFS() in nested functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980)
+#### [Use IF() and IFS() in nested functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2830,7 +2804,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980&t=142)** We'll click in F6, and this will be an IFS statement.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980&t=147)** Equals IFS, E6 equals five, comma, then return the word, "Met."
+> **[2:27](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980&t=147)** Equals IFS, E6 equals five, comma, then return the [[Microsoft Word|word]], "Met."
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-if-and-ifs-in-nested-functions-17331150?u=76281980&t=157)** So we'll put that in double quotation marks, comma, if the amount in E6 is greater than five, comma, return the word, "Exceeded, " comma.
 >
@@ -2872,19 +2846,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), hit (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Env Vars:** ifs (6)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SWITCH() in nested functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980)
+#### [Use SWITCH() in nested functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980&t=0)** - [Instructor] We can use the SWITCH function to look at a value in a cell and match it to a list of values and then return a certain number if there's a match.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980&t=15)** If there's not a match, we can have Excel return another value, such as no match or unknown.
+> **[0:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980&t=15)** If there's not a match, we can have [[Microsoft Excel|Excel]] return another value, such as no match or unknown.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-switch-in-nested-functions-17329217?u=76281980&t=24)** After watching this video, you'll know how to use SWITCH by itself and as a nested function.
 >
@@ -2960,14 +2933,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** switch (7)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SUMIF(), AVERAGEIF(), SUMIFS(), and AVERAGEIFS() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980)
+#### [Use SUMIF(), AVERAGEIF(), SUMIFS(), and AVERAGEIFS() functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3051,11 +3023,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=245)** There's the total salary for full-time training employees.
 >
-> **[4:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=250)** Now our last two things that we want to look at are the average years for marketing employees, and the average salary for quality assurance employees who are contract labor.
+> **[4:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=250)** Now our last two things that we want to look at are the average years for marketing employees, and the average salary for [[Quality Assurance]] employees who are contract labor.
 >
 > **[4:20](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=260)** I'd like to leave these last two for you to complete, and you can always look at how I did the prior three functions and that should help you out.
 >
-> **[4:30](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=270)** You can also always reach out to me in the Q and A section underneath the video in LinkedIn learning.
+> **[4:30](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=270)** You can also always reach out to me in the Q and A section underneath the video in [[LinkedIn]] learning.
 >
 > **[4:39](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-sumif-averageif-sumifs-and-averageifs-functions-17328211?u=76281980&t=279)** So give those a try.
 >
@@ -3063,14 +3035,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Quality Assurance]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sumif (4), sumifs (4), averageif (3), averageifs (2), g738 (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use COUNTIF(), COUNTIFS(), MAXIFS, and MINIFS
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980)
+#### [Use COUNTIF(), COUNTIFS(), MAXIFS, and MINIFS](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3178,7 +3149,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980&t=313)** Are they full-time?
 >
-> **[5:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980&t=315)** Notice as I'm working in this function arguments window that Excel is putting quotation marks around any texts that I'm entering as the criteria.
+> **[5:15](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980&t=315)** Notice as I'm working in this function arguments window that [[Microsoft Excel|Excel]] is putting quotation marks around any texts that I'm entering as the criteria.
 >
 > **[5:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-countif-countifs-maxifs-and-minifs-17329220?u=76281980&t=325)** So if you were just typing this out you would want to enclose those in double quotation marks.
 >
@@ -3190,12 +3161,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), hit (2), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** maxifs (6), minifs (6), countif (5), countifs (5), count (1)
 > **Speakers:** - [instructor] (1)
 
-#### Look up data using XLOOKUP(), VLOOKUP(), HLOOKUP(), INDEX(), and MATCH()
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980)
+#### [Look up data using XLOOKUP(), VLOOKUP(), HLOOKUP(), INDEX(), and MATCH()](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3237,7 +3207,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=106)** VLOOKUP stands for vertical lookup and all of our information in this worksheet is vertical.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=115)** I have created a dropdown menu using data validation for you to pick and choose which employees you want to focus on.
+> **[1:55](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=115)** I have created a dropdown menu using [[Data Validation]] for you to pick and choose which employees you want to focus on.
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=123)** Let's look at Karin, Terry.
 >
@@ -3351,13 +3321,13 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=421)** And notice, if I change the employee, it changes all the information.
 >
-> **[7:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=426)** So that's a great look at all the lookup functions that are available to you in Excel.
+> **[7:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=426)** So that's a great look at all the lookup functions that are available to you in [[Microsoft Excel|Excel]].
 >
 > **[7:12](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/look-up-data-using-xlookup-vlookup-hlookup-index-and-match-17330191?u=76281980&t=432)** Make sure you're comfortable with all of them in case you come across a task on the exam asking you to look up information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** xlookup (7), hlookup (4), vlookup (3), lookup (1), b14 (1)
 > **CLI Commands:** find (9), make (3)
 > **Code Identifiers:** lookup_value (5), table_array (2), range_lookup (2)
@@ -3366,8 +3336,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use NOW() and TODAY() functions and calculate dates using WEEKDAY() and WORKDAY() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980)
+#### [Use NOW() and TODAY() functions and calculate dates using WEEKDAY() and WORKDAY() functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3409,7 +3378,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980&t=108)** Weekday, the syntax is the serial number and then the return type.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980&t=113)** Now, by serial number, I mean that when Excel looks at dates it doesn't see September 7th, 2022, it actually sees the serial number for today's date.
+> **[1:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980&t=113)** Now, by serial number, I mean that when [[Microsoft Excel|Excel]] looks at dates it doesn't see September 7th, 2022, it actually sees the serial number for today's date.
 >
 > **[2:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-now-and-today-functions-and-calculate-dates-using-weekday-and-workday-functions-17326579?u=76281980&t=125)** If I go back to our today and now worksheet and go back to the today function that I wrote and change it from a date format to a number format, you'll see that it's 44,811 days since the computer started keeping time, which would be January 1st, 1900.
 >
@@ -3509,7 +3478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** go back to (3), in the next (1)
 > **UI Navigation:** switch to (1), select the (1), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -3518,12 +3487,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize data from multiple ranges by using the Consolidate feature
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980)
+#### [Summarize data from multiple ranges by using the Consolidate feature](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=0)** - [Instructor] The consolidate feature in Excel pulls data from multiple Excel worksheets into one worksheet.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=0)** - [Instructor] The consolidate feature in [[Microsoft Excel|Excel]] pulls data from multiple Excel worksheets into one worksheet.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=6)** The only caveat is that the data must be structured similarly.
 >
@@ -3555,7 +3523,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=104)** There's my first reference.
 >
-> **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=106)** Now to reference the information in my other workbook, I will go to view, switch windows, 04_08 2022 Sales.
+> **[1:46](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=106)** Now to reference the information in my other workbook, I will go to view, switch [[Windows]], 04_08 2022 Sales.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/summarize-data-from-multiple-ranges-by-using-the-consolidate-feature-17330183?u=76281980&t=119)** Select the same information.
 >
@@ -3611,15 +3579,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), feature (1), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Windows]] (1)
 > **UI Navigation:** go to (3), select the (1), switch to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use What-If Analysis, Goal Seek, and Scenario Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-what-if-analysis-goal-seek-and-scenario-manager-17328208?u=76281980)
+#### [Use What-If Analysis, Goal Seek, and Scenario Manager](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-what-if-analysis-goal-seek-and-scenario-manager-17328208?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3749,7 +3716,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
 > **Env Vars:** c11 (2)
 > **Versions:** 4.5 (1), 722.32 (1)
@@ -3758,12 +3724,11 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate financial data with NPER() and PMT() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/calculate-financial-data-with-nper-and-pmt-functions-17332132?u=76281980)
+#### [Calculate financial data with NPER() and PMT() functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/calculate-financial-data-with-nper-and-pmt-functions-17332132?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/calculate-financial-data-with-nper-and-pmt-functions-17332132?u=76281980&t=0)** - [Instructor] It's easy to calculate financial data in Excel using NPER, which will give you the number of periods you will need to pay off a specific amount for a loan and payment, PMT, which will tell you what your payment would be if you know the interest rate, the term of the loan and the present value or the amount of the loan.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/calculate-financial-data-with-nper-and-pmt-functions-17332132?u=76281980&t=0)** - [Instructor] It's easy to calculate [[Financial Data]] in [[Microsoft Excel|Excel]] using NPER, which will give you the number of periods you will need to pay off a specific amount for a loan and payment, PMT, which will tell you what your payment would be if you know the interest rate, the term of the loan and the present value or the amount of the loan.
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/calculate-financial-data-with-nper-and-pmt-functions-17332132?u=76281980&t=26)** After watching this video, you'll know how to use both of these functions.
 >
@@ -3855,15 +3820,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** nper (6), pmt (3), b10 (1)
 > **Versions:** 4.9 (3), 3.5 (2)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the SORTBY() and FILTER() functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-the-sortby-and-filter-functions-17328210?u=76281980)
+#### [Use the SORTBY() and FILTER() functions](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/use-the-sortby-and-filter-functions-17328210?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3957,14 +3921,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1), next (1), hit (1)
 > **Env Vars:** sortby (8), filter (4)
 > **Definitions:** is a  (3)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980)
+#### [Troubleshoot formulas](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4050,7 +4012,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=209)** We can get help on this error.
 >
-> **[3:33](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=213)** It takes us out to the internet, to [microsoft.com](https://microsoft.com), to their support page.
+> **[3:33](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=213)** It takes us out to the internet, to [[[Microsoft]].com](https://microsoft.com), to their support page.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=219)** Very helpful.
 >
@@ -4142,11 +4104,11 @@ created: 2026-05-02
 >
 > **[7:54](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=474)** And if you want to delete the watch, I would click on the first one, scroll all the way down, Shift + click, delete watch, and now that entire watch has been deleted.
 >
-> **[8:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=490)** So I hope that I've given you a few tools that you can use to troubleshoot your formulas in Excel.
+> **[8:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/troubleshoot-formulas-17326583?u=76281980&t=490)** So I hope that I've given you a few tools that you can use to troubleshoot your formulas in [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (8), go to (4), double-click (2), open the (1), select the (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1), is an  (1), means that (1)
@@ -4155,8 +4117,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 
-#### Challenge: Create advanced formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-create-advanced-formulas-17332122?u=76281980)
+#### [Challenge: Create advanced formulas](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-create-advanced-formulas-17332122?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4174,8 +4135,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create advanced formulas
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980)
+#### [Solution: Create advanced formulas](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4197,7 +4157,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=47)** Here's G7.
 >
-> **[0:48](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=48)** We will use data validation.
+> **[0:48](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=48)** We will use [[Data Validation]].
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=51)** Data tab, Data validation, Allow from a list, click in the source field, and select all the salespeople, and click OK.
 >
@@ -4435,7 +4395,7 @@ created: 2026-05-02
 >
 > **[12:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=758)** Close visual basic.
 >
-> **[12:44](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=764)** And let me go to view, switch windows, My Macro and we'll close that workbook.
+> **[12:44](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=764)** And let me go to view, switch [[Windows]], My Macro and we'll close that workbook.
 >
 > **[12:49](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=769)** Well, let's make sure it's there first, macros.
 >
@@ -4443,7 +4403,7 @@ created: 2026-05-02
 >
 > **[12:57](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=777)** We will want to save this as macro enabled.
 >
-> **[13:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=780)** I'll click no and in our chapter four folder I'll change the save as type to Excel macro enabled workbook and click save.
+> **[13:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=780)** I'll click no and in our chapter four folder I'll change the save as type to [[Microsoft Excel|Excel]] macro enabled workbook and click save.
 >
 > **[13:14](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-create-advanced-formulas-17329218?u=76281980&t=794)** And now we are ready to use a function in K4 to insert the company ID and sales rep for Herb's herbs.
 >
@@ -4481,7 +4441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (7), hit (4), hr (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (2), [[Windows]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (7), dropdown (1), click on (1), drag and drop (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** xlookup (1), h13 (1)
@@ -4495,8 +4455,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and modify dual-axis and combo charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-dual-axis-and-combo-charts-17328205?u=76281980)
+#### [Create and modify dual-axis and combo charts](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-dual-axis-and-combo-charts-17328205?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4580,7 +4539,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), hit (1)
 > **UI Navigation:** go to (4), select the (3), click on (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
@@ -4588,8 +4546,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and modify box and whisker and funnel charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980)
+#### [Create and modify box and whisker and funnel charts](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4619,7 +4576,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980&t=98)** Let's take a look at our funnel chart.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980&t=101)** Here, we have information on Excel training for our employees.
+> **[1:41](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980&t=101)** Here, we have information on [[Microsoft Excel|Excel]] training for our employees.
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-box-and-whisker-and-funnel-charts-17332131?u=76281980&t=105)** We have 250 employees and we can see how many have been trained in Basic, Intermediate, Advanced, and who has become MOS Certified.
 >
@@ -4635,14 +4592,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** mos (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and modify Sunburst, Histogram, and Waterfall charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-sunburst-histogram-and-waterfall-charts-17328209?u=76281980)
+#### [Create and modify Sunburst, Histogram, and Waterfall charts](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-sunburst-histogram-and-waterfall-charts-17328209?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4776,7 +4732,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (1), hit (1)
 > **UI Navigation:** go to (4), click on (4)
 > **Versions:** 7.9 (2), 6.67 (2), 8.33 (2), 10.80 (1)
 > **Analogies:** for instance (2)
@@ -4784,8 +4739,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create PivotTables and modify field selections and options
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980)
+#### [Create PivotTables and modify field selections and options](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4807,13 +4761,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=48)** With the data selected, I'll go to Insert, Pivot Table.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=53)** But notice we also have recommended Pivot Tables.
+> **[0:53](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=53)** But notice we also have recommended [[Pivot Tables]].
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=56)** It's a good idea to check these out to see if any of these would meet the criteria that we are trying to show.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=63)** Item cost and quantity by salesperson, item cost by company name and country.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=69)** So there's some really good pivot tables that we could bring in that Excel has suggested for us and would make our job a lot easier.
+> **[1:09](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=69)** So there's some really good pivot tables that we could bring in that [[Microsoft Excel|Excel]] has suggested for us and would make our job a lot easier.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-pivottables-and-modify-field-selections-and-options-17327309?u=76281980&t=79)** Well, that's great to know that that's there.
 >
@@ -4949,7 +4903,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), click on (4)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (1)
@@ -4958,12 +4912,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and modify PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980)
+#### [Create and modify PivotCharts](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=0)** - [Instructor] Now that we know how to create pivot tables let's take a look at how to create and modify pivot charts from our pivot tables.
+> **[0:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=0)** - [Instructor] Now that we know how to create [[Pivot Tables]] let's take a look at how to create and modify pivot charts from our pivot tables.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=10)** We're working in the 0505 pivot charts workbook and this is the information that we created in the previous video where we created a calculated field to calculate the 3% commission based on the order amount.
 >
@@ -5025,7 +4978,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=265)** And this will be sales by country.
 >
-> **[4:32](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=272)** I like to put the word chart at the end so I know which one is a chart and which one is the table.
+> **[4:32](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=272)** I like to put the [[Microsoft Word|word]] chart at the end so I know which one is a chart and which one is the table.
 >
 > **[4:41](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/create-and-modify-pivotcharts-17332130?u=76281980&t=281)** Sheet five is our new pivot table, so let's go ahead and name this sales by country table.
 >
@@ -5037,15 +4990,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pivot Tables]] (4), data (2), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (4), [[Microsoft Word|Word]] (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Manage advanced charts and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-advanced-charts-and-tables-17331145?u=76281980)
+#### [Challenge: Manage advanced charts and tables](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-manage-advanced-charts-and-tables-17331145?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5063,8 +5015,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Manage advanced charts and tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-advanced-charts-and-tables-17328202?u=76281980)
+#### [Solution: Manage advanced charts and tables](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-manage-advanced-charts-and-tables-17328202?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5166,7 +5117,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), hit (1)
 > **UI Navigation:** go to (7), click on (2), select the (1)
 > **Env Vars:** gpa (7)
 > **CLI Commands:** make (3)
@@ -5174,14 +5124,14 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (upbeat music) (1)
 
 
 ### 6. Final Challenge
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Full-length MOS Excel Expert sample exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-full-length-mos-excel-expert-sample-exam-17329208?u=76281980)
+#### [Challenge: Full-length MOS Excel Expert sample exam](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/challenge-full-length-mos-excel-expert-sample-exam-17329208?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5205,8 +5155,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Full-length MOS Excel Expert sample exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980)
+#### [Solution: Full-length MOS Excel Expert sample exam](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5224,7 +5173,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=34)** And click Save.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=36)** Next, configure Excel to disable all macros except macros that are digitally signed.
+> **[0:36](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=36)** Next, configure [[Microsoft Excel|Excel]] to disable all macros except macros that are digitally signed.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=43)** We'll go to File, Options, Trust Center, Macro Settings,
 >
@@ -5244,7 +5193,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=94)** On the data tab we'll go to Consolidate and we need to add the references from our consolidate workbook.
 >
-> **[1:43](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=103)** Let's go to View, Switch Windows, Consolidate.
+> **[1:43](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=103)** Let's go to View, Switch [[Windows]], Consolidate.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=107)** Here's 2019.
 >
@@ -5476,7 +5425,7 @@ created: 2026-05-02
 >
 > **[15:00](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=900)** Beginning in K8, use the data below to determine the manufacturing cost for each product.
 >
-> **[15:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=905)** Use HLOOKUP for product one and XLOOKUP for products two and three.
+> **[15:05](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=905)** Use HLOOKUP for product one and XLOOKUP for [[Microsoft Products|products]] two and three.
 >
 > **[15:11](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=911)** Let's go ahead and start in K8 and we'll use our HLOOKUP equals HLOOKUP and we'll go into our function arguments window.
 >
@@ -5512,7 +5461,7 @@ created: 2026-05-02
 >
 > **[17:08](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=1028)** Beginning in F9, create the following entries for each employee, last name, hyphen department, hyphen status.
 >
-> **[17:17](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=1037)** Our first one is Abbott, space and a hyphen, department is quality assurance space and a hyphen.
+> **[17:17](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=1037)** Our first one is Abbott, space and a hyphen, department is [[Quality Assurance]] space and a hyphen.
 >
 > **[17:27](https://www.linkedin.com/learning/microsoft-office-specialist-excel-expert-microsoft-365-apps-cert-prep/solution-full-length-mos-excel-expert-sample-exam-17326577?u=76281980&t=1047)** And their status is full-time.
 >
@@ -5574,7 +5523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), hit (6), product (6), next (4), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Windows]] (2), [[Microsoft Products|Products]] (1), [[Quality Assurance]] (1)
 > **Env Vars:** sku (5), hlookup (3), usa (2), countif (2), ke200 (2)
 > **UI Navigation:** go to (16), click on (4), select the (2), dropdown (1)
 > **CLI Commands:** make (4), find (2)

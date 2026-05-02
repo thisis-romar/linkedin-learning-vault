@@ -17,7 +17,7 @@ tags:
   - topic/database-management
   - topic/cloud-computing
   - topic/web-development
-course_count: 386
+course_count: 387
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # SQL
 
-> **Type:** Language | **Courses:** 386 | **Topics:** [[Software Development]], [[Data Science]], [[Database Management]], [[Cloud Computing]], [[Web Development]]
+> **Type:** Language | **Courses:** 387 | **Topics:** [[Software Development]], [[Data Science]], [[Database Management]], [[Cloud Computing]], [[Web Development]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[SQL for Healthcare Professionals]] — 113 mentions
 10. [[PHP- Object-Oriented Programming with Databases]] — 111 mentions
 
-> [!note]- See all 386 courses
+> [!note]- See all 387 courses
 > 11. [[Using SQL with Python]] — 110 mentions
 > 12. [[Ethical Hacking- SQL Injection]] — 98 mentions
 > 13. [[SQL Server Intelligence- Cracking the Code of Enterprise Data]] — 95 mentions
@@ -188,16 +188,16 @@ created: 2026-05-02
 > 155. [[Burp Suite Essential Training]] — 8 mentions
 > 156. [[Microsoft Azure- Networking Concepts]] — 8 mentions
 > 157. [[Learning Docker Compose]] — 8 mentions
-> 158. [[Hands-On Introduction- Data Engineering]] — 7 mentions
-> 159. [[Microsoft Azure Essentials By Microsoft Press]] — 7 mentions
-> 160. [[Building Full-Stack Apps with React and Spring]] — 7 mentions
-> 161. [[Azure Quick Tips for Developers]] — 7 mentions
-> 162. [[Advanced Terraform]] — 7 mentions
-> 163. [[A Beginner's Guide to Public Cloud Options]] — 6 mentions
-> 164. [[Ethical Hacking- Vulnerability Analysis]] — 6 mentions
-> 165. [[AI Fundamentals for Data Professionals]] — 6 mentions
-> 166. [[Data Science Team Lifecycle Management]] — 6 mentions
-> 167. [[Migrating to Azure]] — 6 mentions
+> 158. [[Migrating to Azure]] — 7 mentions
+> 159. [[Hands-On Introduction- Data Engineering]] — 7 mentions
+> 160. [[Microsoft Azure Essentials By Microsoft Press]] — 7 mentions
+> 161. [[Building Full-Stack Apps with React and Spring]] — 7 mentions
+> 162. [[Azure Quick Tips for Developers]] — 7 mentions
+> 163. [[Advanced Terraform]] — 7 mentions
+> 164. [[A Beginner's Guide to Public Cloud Options]] — 6 mentions
+> 165. [[Ethical Hacking- Vulnerability Analysis]] — 6 mentions
+> 166. [[AI Fundamentals for Data Professionals]] — 6 mentions
+> 167. [[Data Science Team Lifecycle Management]] — 6 mentions
 > 168. [[Data Management Essential Training]] — 6 mentions
 > 169. [[ASP.NET Core- Token-Based Authentication]] — 6 mentions
 > 170. [[Azure Management Basics- Portal, PowerShell, Bicep, and CLI]] — 6 mentions
@@ -382,41 +382,42 @@ created: 2026-05-02
 > 349. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 1 mentions
 > 350. [[Data Wrangling in R]] — 1 mentions
 > 351. [[Python Functions for Data Science]] — 1 mentions
-> 352. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
-> 353. [[Django Essential Training]] — 1 mentions
-> 354. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
-> 355. [[Docker Essential Training]] — 1 mentions
-> 356. [[Data Analytics- Dashboards vs. Data Stories]] — 1 mentions
-> 357. [[Certified Analytics Professional (CAP) Cert Prep]] — 1 mentions
-> 358. [[Power Bi Dashboards For Beginners]] — 1 mentions
-> 359. [[Machine Learning and AI Foundations- Decision Trees with KNIME]] — 1 mentions
-> 360. [[Developer Career Paths and Certifications]] — 1 mentions
-> 361. [[Power BI Top Skills]] — 1 mentions
-> 362. [[LLMOps in Practice- A Deep Dive]] — 1 mentions
-> 363. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
-> 364. [[Windows Server 2019 Essential Training]] — 1 mentions
-> 365. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
-> 366. [[15 Tips for Landing a Data Science Job]] — 1 mentions
-> 367. [[Get a Remote Data Science Job]] — 1 mentions
-> 368. [[Building RESTful Web APIs with Django]] — 1 mentions
-> 369. [[Java Essential Training Syntax And Structure]] — 1 mentions
-> 370. [[Python Data Analysis (2020)]] — 1 mentions
-> 371. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
-> 372. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 1 mentions
-> 373. [[WordPress Essential Training]] — 1 mentions
-> 374. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
-> 375. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
-> 376. [[Data Science for Java Developers]] — 1 mentions
-> 377. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
-> 378. [[Winter CMS with Laravel]] — 1 mentions
-> 379. [[API Testing Foundations]] — 1 mentions
-> 380. [[Foundational JavaScript Security]] — 1 mentions
-> 381. [[Learning JavaScript Debugging]] — 1 mentions
-> 382. [[QGIS and Python for AEC]] — 1 mentions
-> 383. [[Foundations of Geographic Information Systems (GIS)]] — 1 mentions
-> 384. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
-> 385. [[Learning Autopsy for Digital Forensics]] — 1 mentions
-> 386. [[Node.js- Testing and Code Quality]] — 1 mentions
+> 352. [[React Native Ecosystem and Workflow]] — 1 mentions
+> 353. [[Node.js- Debugging and Performance Tuning]] — 1 mentions
+> 354. [[Django Essential Training]] — 1 mentions
+> 355. [[Kubernetes- Cloud Native Ecosystem]] — 1 mentions
+> 356. [[Docker Essential Training]] — 1 mentions
+> 357. [[Data Analytics- Dashboards vs. Data Stories]] — 1 mentions
+> 358. [[Certified Analytics Professional (CAP) Cert Prep]] — 1 mentions
+> 359. [[Power Bi Dashboards For Beginners]] — 1 mentions
+> 360. [[Machine Learning and AI Foundations- Decision Trees with KNIME]] — 1 mentions
+> 361. [[Developer Career Paths and Certifications]] — 1 mentions
+> 362. [[Power BI Top Skills]] — 1 mentions
+> 363. [[LLMOps in Practice- A Deep Dive]] — 1 mentions
+> 364. [[Advanced LLMOps- Deploying and Managing LLMs in Production]] — 1 mentions
+> 365. [[Windows Server 2019 Essential Training]] — 1 mentions
+> 366. [[Data Science and Analytics Career Paths and Certifications- First Steps]] — 1 mentions
+> 367. [[15 Tips for Landing a Data Science Job]] — 1 mentions
+> 368. [[Get a Remote Data Science Job]] — 1 mentions
+> 369. [[Building RESTful Web APIs with Django]] — 1 mentions
+> 370. [[Java Essential Training Syntax And Structure]] — 1 mentions
+> 371. [[Python Data Analysis (2020)]] — 1 mentions
+> 372. [[Red Hat Certified Engineer Ex294 Cert Prep 1 Foundations Of Ansible]] — 1 mentions
+> 373. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 1 mentions
+> 374. [[WordPress Essential Training]] — 1 mentions
+> 375. [[Drupal 9 Essential Training 1 Introduction And Administration]] — 1 mentions
+> 376. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
+> 377. [[Data Science for Java Developers]] — 1 mentions
+> 378. [[Spring On Kubernetes Deploying And Managing Cloud Native Applications]] — 1 mentions
+> 379. [[Winter CMS with Laravel]] — 1 mentions
+> 380. [[API Testing Foundations]] — 1 mentions
+> 381. [[Foundational JavaScript Security]] — 1 mentions
+> 382. [[Learning JavaScript Debugging]] — 1 mentions
+> 383. [[QGIS and Python for AEC]] — 1 mentions
+> 384. [[Foundations of Geographic Information Systems (GIS)]] — 1 mentions
+> 385. [[Troubleshoot and Repair Your WordPress Website]] — 1 mentions
+> 386. [[Learning Autopsy for Digital Forensics]] — 1 mentions
+> 387. [[Node.js- Testing and Code Quality]] — 1 mentions
 
 ## Learning Paths
 

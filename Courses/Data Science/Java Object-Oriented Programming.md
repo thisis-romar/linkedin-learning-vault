@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why learn about object-oriented programming in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980)
+#### [Why learn about object-oriented programming in Java](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980&t=0)** - [Instructor] Are you familiar with Java but want to write code that's reusable and maintainable?
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980&t=0)** - [Instructor] Are you familiar with [[Java]] but want to write code that's reusable and maintainable?
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/why-learn-about-object-oriented-programming-in-java?u=76281980&t=5)** Then this is the course for you.
 >
@@ -127,14 +126,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is object orientation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980)
+#### [What is object orientation?](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=6)** In fact, it can be represented in a variety of different ways, depending on how the program's designed.
 >
-> **[0:13](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=13)** Object-oriented programming is a programming model that can help make your code more flexible, reusable and easier to maintain.
+> **[0:13](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=13)** [[Object-Oriented Programming (OOP)|Object-oriented programming]] is a programming model that can help make your code more flexible, reusable and easier to maintain.
 >
 > **[0:22](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=22)** It's based around writing code that's modeled around objects and data.
 >
@@ -160,11 +158,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=77)** We'll explore each of these principles throughout the course.
 >
-> **[1:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=80)** We'll also look at how to achieve these principles in our custom programs, as well as how the Java source code uses these concepts to reduce complexity and encourage code reusability.
+> **[1:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-object-orientation?u=76281980&t=80)** We'll also look at how to achieve these principles in our custom programs, as well as how the [[Java]] source code uses these concepts to reduce complexity and encourage code reusability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), data (2), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Java]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** source code (1)
 > **Definitions:** is a  (1)
@@ -176,14 +174,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using classes as blueprints
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980)
+#### [Using classes as blueprints](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980&t=0)** - [Instructor] Almost anything in real life can be represented in code, but how well something is represented is up to us in what we decide to program.
 >
-> **[0:09](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980&t=9)** Classes in Java give us a way to model or represent physical objects in code via a blueprint.
+> **[0:09](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980&t=9)** Classes in [[Java]] give us a way to model or represent physical objects in code via a blueprint.
 >
 > **[0:17](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-classes-as-blueprints?u=76281980&t=17)** A blueprint, or class, contains a set of attributes and behaviors that define an object.
 >
@@ -267,14 +264,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (4)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Env Vars:** ide (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building objects with a constructor
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/building-objects-with-a-constructor?u=76281980)
+#### [Building objects with a constructor](https://www.linkedin.com/learning/java-object-oriented-programming-2/building-objects-with-a-constructor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -333,8 +329,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (typing) (1)
 
-#### Using concrete instances for application logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980)
+#### [Using concrete instances for application logic](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980&t=197)** To do that, we'll replace my favorite oak tree.
 >
-> **[3:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980&t=200)** The key word this, will use the height and tree type of whatever tree is using this behavior.
+> **[3:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980&t=200)** The key [[Microsoft Word|word]] this, will use the height and tree type of whatever tree is using this behavior.
 >
 > **[3:27](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-concrete-instances-for-application-logic?u=76281980&t=207)** To use this function as my favorite oak tree, we'll call it in our main method.
 >
@@ -428,14 +423,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** myfavoriteoaktree (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the difference between class and instance members
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/understanding-the-difference-between-class-and-instance-members?u=76281980)
+#### [Understanding the difference between class and instance members](https://www.linkedin.com/learning/java-object-oriented-programming-2/understanding-the-difference-between-class-and-instance-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +527,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** treetype (6), trunkdiameter (2), announcetree (2), announcetalltree (1)
 > **Env Vars:** trunk_color (7)
 > **CLI Commands:** make (6)
@@ -541,13 +534,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
+> **Speakers:** - [instructor] (1)
 
-#### Exploring a built-in Java class
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-a-built-in-java-class?u=76281980)
+#### [Exploring a built-in Java class](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-a-built-in-java-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-a-built-in-java-class?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of classes and instances, we'll explore the implementation of a built in Java class.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-a-built-in-java-class?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of classes and instances, we'll explore the implementation of a built in [[Java]] class.
 >
 > **[0:09](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-a-built-in-java-class?u=76281980&t=9)** One class we've already seen is the color class.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), feature (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Env Vars:** ide (4), ewt (1)
 > **Exercise Files:** source code (2)
 > **Documentation:** the documentation (1)
@@ -622,14 +615,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 
-#### Challenge: Build an employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980)
+#### [Challenge: Build an employee class](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980&t=0)** (bright upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980&t=5)** - [Instructor] It's time to practice representing objects in code by creating an employee with Java.
+> **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980&t=5)** - [Instructor] It's time to practice representing objects in code by creating an employee with [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-build-an-employee-class?u=76281980&t=12)** In this challenge, you'll represent an employee in Java by creating an employee class.
 >
@@ -655,12 +647,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Build an employee class
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-build-an-employee-class?u=76281980)
+#### [Solution: Build an employee class](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-build-an-employee-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-build-an-employee-class?u=76281980&t=0)** - [Instructor] Let's represent an employee, in Java, with a class.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-build-an-employee-class?u=76281980&t=0)** - [Instructor] Let's represent an employee, in [[Java]], with a class.
 >
 > **[0:10](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-build-an-employee-class?u=76281980&t=10)** We'll create a new class, call it employee, and give it the appropriate attributes.
 >
@@ -708,7 +699,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -719,12 +710,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is encapsulation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980)
+#### [What is encapsulation?](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=0)** - [Instructor] Encapsulation is one of the forming principles in object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=0)** - [Instructor] Encapsulation is one of the forming principles in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=6)** It refers to the idea of binding an object state and behavior together into one unit.
 >
@@ -732,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=19)** This may sound familiar and it should.
 >
-> **[0:22](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=22)** In the last chapter, we bound together data and methods in the form of a Java class.
+> **[0:22](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=22)** In the last chapter, we bound together data and methods in the form of a [[Java]] class.
 >
 > **[0:28](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=28)** Now we're giving this idea a formal name, encapsulation.
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=44)** One benefit is we can prevent classes from being tightly coupled.
 >
-> **[0:49](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=49)** This means we can easily modify one class, either in the data it contains or its behaviors, without affecting the rest of the program.
+> **[0:49](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=49)** This means we can easily modify one class, either in the data it contains or its behaviors, without affecting the [[Representational State Transfer (REST)|rest]] of the program.
 >
 > **[0:58](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-encapsulation?u=76281980&t=58)** However, this can only happen if we have a clear interface between the class and the rest of the program.
 >
@@ -764,18 +754,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (2)
 > **Definitions:** refers to (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering access modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-access-modifiers?u=76281980)
+#### [Discovering access modifiers](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-access-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-access-modifiers?u=76281980&t=0)** - In Java, we can achieve encapsulation by using access modifiers.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-access-modifiers?u=76281980&t=0)** - In [[Java]], we can achieve encapsulation by using access modifiers.
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-access-modifiers?u=76281980&t=6)** Different access modifiers determine where certain variables and methods can be accessed in your code.
 >
@@ -821,14 +810,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** jvm (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - in (1)
 
-#### Implementing encapsulation with access modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980)
+#### [Implementing encapsulation with access modifiers](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,7 +824,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980&t=7)** However, we still want it to be accessible indirectly through a clear pathway.
 >
-> **[0:13](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980&t=13)** in Java, one way we can achieve encapsulation for our attributes is to declare each attribute as private then write public methods to get and set the value of each attribute.
+> **[0:13](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980&t=13)** in [[Java]], one way we can achieve encapsulation for our attributes is to declare each attribute as private then write public methods to get and set the value of each attribute.
 >
 > **[0:26](https://www.linkedin.com/learning/java-object-oriented-programming-2/implementing-encapsulation-with-access-modifiers?u=76281980&t=26)** With this, other classes will still be able to access the hidden data, but they can only do so through a public method of a given class.
 >
@@ -908,7 +896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ide (2)
 > **Code Identifiers:** getheightft (1)
@@ -916,12 +904,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring encapsulation in Java string class
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980)
+#### [Exploring encapsulation in Java string class](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=0)** - With the good foundation of encapsulation, we can begin to explore how the Java programming language, uses encapsulation in some of its built-in classes.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=0)** - With the good foundation of encapsulation, we can begin to explore how the [[Java]] programming language, uses encapsulation in some of its built-in classes.
 >
 > **[0:10](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=10)** Exploring more examples will help you better understand this object oriented principle, and recognize the scenarios it should be used in.
 >
@@ -937,7 +924,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=54)** This is all hidden away from us and the way we use strings in everyday programs.
 >
-> **[0:59](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=59)** This means, even if things inside the string class change, it won't affect the rest of the program, as long as the input, output and result of the public behaviors stay the same.
+> **[0:59](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=59)** This means, even if things inside the string class change, it won't affect the [[Representational State Transfer (REST)|rest]] of the program, as long as the input, output and result of the public behaviors stay the same.
 >
 > **[1:11](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-encapsulation-in-java-string-class?u=76281980&t=71)** There are a few other private attributes in this class, but we'll be focusing on this value attribute.
 >
@@ -973,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** ide (1), jdk (1), gep (1)
 > **Code Identifiers:** charat (1)
@@ -981,8 +968,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### Challenge: Banking application
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980)
+#### [Challenge: Banking application](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -990,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980&t=5)** - [Instructor] Let's practice using encapsulation.
 >
-> **[0:08](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980&t=8)** In this challenge, you'll put your encapsulation skills to the test by modifying a Java program to use this object oriented principle.
+> **[0:08](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980&t=8)** In this challenge, you'll put your encapsulation skills to the test by modifying a [[Java]] program to use this object oriented principle.
 >
 > **[0:17](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-banking-application?u=76281980&t=17)** We'll start off with a bank account class.
 >
@@ -1019,12 +1005,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Banking application
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-banking-application?u=76281980)
+#### [Solution: Banking application](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-banking-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-banking-application?u=76281980&t=0)** - [Instructor] To add encapsulation to this Java program, the first thing we'll do is make the owner and balance attributes private.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-banking-application?u=76281980&t=0)** - [Instructor] To add encapsulation to this [[Java]] program, the first thing we'll do is make the owner and balance attributes private.
 >
 > **[0:14](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-banking-application?u=76281980&t=14)** Then we'll make these indirectly accessible through public behaviors.
 >
@@ -1120,8 +1105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is inheritance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-inheritance?u=76281980)
+#### [What is inheritance?](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1173,8 +1157,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging different types of inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980)
+#### [Leveraging different types of inheritance](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=35)** An analyst is also an employee, but an analyst is not a salesperson.
 >
-> **[0:41](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=41)** This type of inheritance is called hierarchical inheritance, where one parent class has many subclasses, and this is also supported in Java.
+> **[0:41](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=41)** This type of inheritance is called hierarchical inheritance, where one parent class has many subclasses, and this is also supported in [[Java]].
 >
 > **[0:50](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=50)** Another type of inheritance we have is multi-level inheritance.
 >
@@ -1220,7 +1203,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=149)** Later on in the course, we'll also encounter interfaces and abstract classes, which are other ways classes can share code.
 >
-> **[2:38](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=158)** However, understanding the different forms of inheritance available to you in Java can help you design better systems that reduce code for your use case.
+> **[2:38](https://www.linkedin.com/learning/java-object-oriented-programming-2/leveraging-different-types-of-inheritance?u=76281980&t=158)** However, understanding the different [[Forms]] of inheritance available to you in Java can help you design better systems that reduce code for your use case.
 
 > [!info]- Semantic Content
 >
@@ -1228,12 +1211,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3), is called (1)
 > **Speakers:** - inheritance (1)
 
-#### Using inheritance to reduce code duplication
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-inheritance-to-reduce-code-duplication?u=76281980)
+#### [Using inheritance to reduce code duplication](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-inheritance-to-reduce-code-duplication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-inheritance-to-reduce-code-duplication?u=76281980&t=0)** - [Instructor] In Java, we can achieve inheritance by using the keyword extends.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-inheritance-to-reduce-code-duplication?u=76281980&t=0)** - [Instructor] In [[Java]], we can achieve inheritance by using the keyword extends.
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-inheritance-to-reduce-code-duplication?u=76281980&t=6)** The subclass will use this keyword with the superclass in its class definition to inherit all the properties and behaviors of the superclass.
 >
@@ -1325,18 +1307,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering inheritance in foundational Java classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980)
+#### [Discovering inheritance in foundational Java classes](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=0)** - [Instructor] With a good foundation of inheritance, we can begin to explore how the Java programming language uses inheritance.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=0)** - [Instructor] With a good foundation of inheritance, we can begin to explore how the [[Java]] programming language uses inheritance.
 >
 > **[0:08](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=8)** Exploring more examples will help you better understand this object-oriented concept and recognize the scenarios it should be used in.
 >
 > **[0:17](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=17)** One common Java class is the Stack class.
 >
-> **[0:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=20)** Stack is the data structure and while we won't be exploring data structures too much in this course, we'll explore how this class uses inheritance to inherit behaviors and attributes from its superclass.
+> **[0:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=20)** Stack is the data structure and while we won't be exploring [[Data Structures]] too much in this course, we'll explore how this class uses inheritance to inherit behaviors and attributes from its superclass.
 >
 > **[0:34](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-inheritance-in-foundational-java-classes?u=76281980&t=34)** Here we have a stack of characters and we've added a few characters to the stack with the push method.
 >
@@ -1388,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Data Structures]] (1)
 > **Code Identifiers:** addelement (2), removeelementat (2)
 > **CLI Commands:** cat (1)
 > **UI Navigation:** click on (1)
@@ -1396,8 +1377,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Reduce redundant code with inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-redundant-code-with-inheritance?u=76281980)
+#### [Challenge: Reduce redundant code with inheritance](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-redundant-code-with-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,8 +1417,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat chiming music) (1)
 
-#### Solution: Reduce redundant code with inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-reduce-redundant-code-with-inheritance?u=76281980)
+#### [Solution: Reduce redundant code with inheritance](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-reduce-redundant-code-with-inheritance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1497,12 +1476,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is polymorphism?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980)
+#### [What is polymorphism?](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many forms.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=0)** - [Instructor] Polymorphism is the ability for an object or function to take many [[Forms]].
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=6)** Depending on the context and situation, the form may be different, making your code more flexible and reducing complexity.
 >
@@ -1520,7 +1498,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=50)** The idea that an object can use functionality from different classes depending on the context is a key idea that's essential to understanding polymorphism.
 >
-> **[1:01](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=61)** Java supports two types of polymorphism, runtime polymorphism and compile-time polymorphism.
+> **[1:01](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=61)** [[Java]] supports two types of polymorphism, runtime polymorphism and compile-time polymorphism.
 >
 > **[1:08](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-polymorphism?u=76281980&t=68)** We'll be exploring both in this chapter.
 >
@@ -1533,12 +1511,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing reusable algorithms with runtime polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980)
+#### [Writing reusable algorithms with runtime polymorphism](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=0)** - [Instructor] Let's explore how to implement polymorphism in Java.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=0)** - [Instructor] Let's explore how to implement polymorphism in [[Java]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=5)** We'll look at a similar example to our ModArrayList but this time, we'll create an OddArrayList that will only contain odd numbers.
 >
@@ -1586,7 +1563,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=156)** In the implementation, we use some of the Java Streams functionality introduced in newer versions of Java.
 >
-> **[2:43](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=163)** If this interests you, I encourage you to check out some of our Java Streams and Java collection courses on LinkedIn Learning.
+> **[2:43](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=163)** If this interests you, I encourage you to check out some of our Java Streams and Java collection courses on [[LinkedIn]] Learning.
 >
 > **[2:51](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-reusable-algorithms-with-runtime-polymorphism?u=76281980&t=171)** Next, we'll modify the set functionality so that only valid elements can be inserted.
 >
@@ -1622,17 +1599,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), next (2), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[LinkedIn]] (1)
 > **Code Identifiers:** addall (2), replaceall (2), oddlisty (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring different forms in a single object
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-different-forms-in-a-single-object?u=76281980)
+#### [Exploring different forms in a single object](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-different-forms-in-a-single-object?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-different-forms-in-a-single-object?u=76281980&t=0)** - [Teacher] Depending on the context, a given instance can take many different forms.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-different-forms-in-a-single-object?u=76281980&t=0)** - [Teacher] Depending on the context, a given instance can take many different [[Forms]].
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-different-forms-in-a-single-object?u=76281980&t=6)** With the odd listy, it takes the form of an odd ArrayList when the add method is used, only adding odd numbers.
 >
@@ -1712,8 +1688,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [teacher] (1)
 
-#### Accessing specific object forms with instanceof
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/accessing-specific-object-forms-with-instanceof?u=76281980)
+#### [Accessing specific object forms with instanceof](https://www.linkedin.com/learning/java-object-oriented-programming-2/accessing-specific-object-forms-with-instanceof?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1801,7 +1776,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **Code Identifiers:** iseligible (3), isodd (1), oddlisty (1), evenlisty (1), addrandomnumber (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -1809,12 +1783,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing flexible code with compile-time polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-flexible-code-with-compile-time-polymorphism?u=76281980)
+#### [Writing flexible code with compile-time polymorphism](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-flexible-code-with-compile-time-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-flexible-code-with-compile-time-polymorphism?u=76281980&t=0)** - [Instructor] Java also supports compile-time polymorphism to make your code faster and cleaner.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-flexible-code-with-compile-time-polymorphism?u=76281980&t=0)** - [Instructor] [[Java]] also supports compile-time polymorphism to make your code faster and cleaner.
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/writing-flexible-code-with-compile-time-polymorphism?u=76281980&t=6)** With compile-time polymorphism we can have more than one method with the same name, let's take a look.
 >
@@ -1893,12 +1866,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring how built-in Java classes use polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-how-built-in-java-classes-use-polymorphism?u=76281980)
+#### [Exploring how built-in Java classes use polymorphism](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-how-built-in-java-classes-use-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-how-built-in-java-classes-use-polymorphism?u=76281980&t=0)** - [Instructor] The Java programming language uses both runtime and compile-time polymorphism under the hood, let's take a look at the ArrayList class.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-how-built-in-java-classes-use-polymorphism?u=76281980&t=0)** - [Instructor] The [[Java]] programming language uses both runtime and compile-time polymorphism under the hood, let's take a look at the ArrayList class.
 >
 > **[0:11](https://www.linkedin.com/learning/java-object-oriented-programming-2/exploring-how-built-in-java-classes-use-polymorphism?u=76281980&t=11)** The ArrayList class has two methods with the name addAll, but they have different sets of parameters.
 >
@@ -1954,18 +1926,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** addall (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Reduce complexity with polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-complexity-with-polymorphism?u=76281980)
+#### [Challenge: Reduce complexity with polymorphism](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-complexity-with-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-complexity-with-polymorphism?u=76281980&t=0)** - [Instructor] Let's practice leveraging polymorphism in Java to reduce application complexity.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-complexity-with-polymorphism?u=76281980&t=0)** - [Instructor] Let's practice leveraging polymorphism in [[Java]] to reduce application complexity.
 >
 > **[0:11](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-reduce-complexity-with-polymorphism?u=76281980&t=11)** Let's say you want to add a series of contacts to your phone.
 >
@@ -1985,12 +1956,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Reduce complexity with polymorphism
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-reduce-complexity-with-polymorphism?u=76281980)
+#### [Solution: Reduce complexity with polymorphism](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-reduce-complexity-with-polymorphism?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2122,7 +2092,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (2)
 > **Definitions:** we call this (1), is a  (1)
 > **Env Vars:** ide (1)
@@ -2136,12 +2105,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is abstraction?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980)
+#### [What is abstraction?](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=0)** - [Instructor] In software development we use abstraction to hide implementation complexity.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=0)** - [Instructor] In [[Software Development]] we use abstraction to hide implementation complexity.
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=5)** This complexity could be from an algorithm, EPI or design.
 >
@@ -2161,7 +2129,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=64)** You can do all of this without having any knowledge of the coffee machine's internal implementation.
 >
-> **[1:12](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=72)** Looking at abstraction and Java specifically, we have abstract classes and interfaces and we'll be looking at these in more detail in later lessons.
+> **[1:12](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=72)** Looking at abstraction and [[Java]] specifically, we have abstract classes and interfaces and we'll be looking at these in more detail in later lessons.
 >
 > **[1:21](https://www.linkedin.com/learning/java-object-oriented-programming-2/what-is-abstraction?u=76281980&t=81)** When systems are abstract, it's easier for engineers to add code contributions because they don't have to know every single detail of each system they're working with.
 >
@@ -2171,17 +2139,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), product (1), [[Java]] (1), application (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Java]] (1)
 > **CLI Commands:** brew (1), make (1)
 > **Env Vars:** epi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using abstract classes in Java to reduce code complexity
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-abstract-classes-in-java-to-reduce-code-complexity?u=76281980)
+#### [Using abstract classes in Java to reduce code complexity](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-abstract-classes-in-java-to-reduce-code-complexity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-abstract-classes-in-java-to-reduce-code-complexity?u=76281980&t=0)** - [Instructor] An abstract class allows us to add abstraction to our Java programs.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-abstract-classes-in-java-to-reduce-code-complexity?u=76281980&t=0)** - [Instructor] An abstract class allows us to add abstraction to our [[Java]] programs.
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-abstract-classes-in-java-to-reduce-code-complexity?u=76281980&t=5)** It's like a template for a class where some of the functionality is not implemented yet.
 >
@@ -2295,7 +2262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), data (1)
+> **Frameworks & Libraries:** [[Java]] (3)
 > **CLI Commands:** make (3)
 > **Tools:** intellij (2)
 > **File Paths:** message.txt (1)
@@ -2303,12 +2270,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using interfaces in Java to provide conformity
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-interfaces-in-java-to-provide-conformity?u=76281980)
+#### [Using interfaces in Java to provide conformity](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-interfaces-in-java-to-provide-conformity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-interfaces-in-java-to-provide-conformity?u=76281980&t=0)** - [Instructor] Another way we can add abstraction to our Java programs is through interfaces.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-interfaces-in-java-to-provide-conformity?u=76281980&t=0)** - [Instructor] Another way we can add abstraction to our [[Java]] programs is through interfaces.
 >
 > **[0:06](https://www.linkedin.com/learning/java-object-oriented-programming-2/using-interfaces-in-java-to-provide-conformity?u=76281980&t=6)** An interface is a set of method signatures for to-be-implemented functionality.
 >
@@ -2419,12 +2385,11 @@ created: 2026-05-02
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discovering abstraction in Java source code
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980)
+#### [Discovering abstraction in Java source code](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=0)** - [Instructor] To find some more examples of abstraction, We can look at the Java source code.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=0)** - [Instructor] To find some more examples of abstraction, We can look at the [[Java]] source code.
 >
 > **[0:05](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=5)** Java uses abstract classes and interfaces to reduce complexity.
 >
@@ -2450,7 +2415,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=64)** Many of the implemented methods use the abstract methods in order to calculate various things such as whether the collection contains a given item or for converting the collection into an array.
 >
-> **[1:18](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=78)** When another class extends this class and implements the iterator in size functionality, it will get all of these other collection algorithms for free without worrying about their implementation.
+> **[1:18](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=78)** When another class extends this class and implements the iterator in size functionality, it will get all of these other collection [[Algorithms]] for free without worrying about their implementation.
 >
 > **[1:33](https://www.linkedin.com/learning/java-object-oriented-programming-2/discovering-abstraction-in-java-source-code?u=76281980&t=93)** The abstract class also has an add method that throws an unsupported operation exception.
 >
@@ -2519,8 +2484,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Leverage abstraction to write simpler applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980)
+#### [Challenge: Leverage abstraction to write simpler applications](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2544,20 +2508,19 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980&t=62)** We should still be able to work with the events as event objects.
 >
-> **[1:07](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980&t=67)** In this challenge, I encourage you to play around with abstract classes and consider using the abstraction pattern we saw in the Java source code.
+> **[1:07](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980&t=67)** In this challenge, I encourage you to play around with abstract classes and consider using the abstraction pattern we saw in the [[Java]] source code.
 >
 > **[1:16](https://www.linkedin.com/learning/java-object-oriented-programming-2/challenge-leverage-abstraction-to-write-simpler-applications?u=76281980&t=76)** Good luck and have fun.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Cross-References:** earlier in (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Leverage abstraction to write simpler applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-leverage-abstraction-to-write-simpler-applications?u=76281980)
+#### [Solution: Leverage abstraction to write simpler applications](https://www.linkedin.com/learning/java-object-oriented-programming-2/solution-leverage-abstraction-to-write-simpler-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2603,7 +2566,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** gettimestamp (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
@@ -2615,12 +2577,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying code smells and anti-patterns in OOP code
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980)
+#### [Identifying code smells and anti-patterns in OOP code](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980&t=0)** - [Instructor] When used correctly, object-oriented programming or OOP can be a great tool for writing maintainable and efficient code.
+> **[0:00](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980&t=0)** - [Instructor] When used correctly, [[Object-Oriented Programming (OOP)|object-oriented programming]] or OOP can be a great tool for writing maintainable and efficient code.
 >
 > **[0:08](https://www.linkedin.com/learning/java-object-oriented-programming-2/identifying-code-smells-and-anti-patterns-in-oop-code?u=76281980&t=8)** However, developers may accidentally introduce issues known as code smells.
 >
@@ -2676,14 +2637,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (2), oop (1), feature (1)
+> **Frameworks & Libraries:** [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Definitions:** is a  (2), known as (1), is called (1)
 > **Env Vars:** oop (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2695,7 +2655,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980&t=20)** You leveraged these to reduce complexity and duplicate code in your applications.
 >
-> **[0:26](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980&t=26)** You also explored Java source code and witnessed how Java uses object oriented programming behind the scenes.
+> **[0:26](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980&t=26)** You also explored [[Java]] source code and witnessed how Java uses object oriented programming behind the scenes.
 >
 > **[0:34](https://www.linkedin.com/learning/java-object-oriented-programming-2/next-steps?u=76281980&t=34)** Thank you for watching this course.
 >
@@ -2707,7 +2667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (4)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [kathryn] (1)
 

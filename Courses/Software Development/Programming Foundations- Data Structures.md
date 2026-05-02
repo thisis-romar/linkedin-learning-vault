@@ -111,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why to use data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
+#### [Why to use data structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980&t=7)** If so, this is the course for you.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980&t=9)** We're going to talk all about data and data structures.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980&t=9)** We're going to talk all about data and [[Data Structures]].
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/why-use-data-structures-24503276?u=76281980&t=13)** When I say data, think numbers, letters, and more.
 >
@@ -136,19 +135,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2)
 > **Speakers:** - are (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=0)** - For this course, I expect you to have written code before.
 >
-> **[0:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=3)** You should understand the basic concepts of programming, including variables, loops, functions, and other basic software development jargon.
+> **[0:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=3)** You should understand the basic concepts of programming, including variables, loops, functions, and other basic [[Software Development]] jargon.
 >
-> **[0:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=12)** We'll be writing our code in Python 3.
+> **[0:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=12)** We'll be writing our code in [[Python (Programming Language)|Python]] 3.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=15)** Now, you don't need to know python's super well for this course since the syntax is pretty easy to pick up.
 >
@@ -156,21 +154,20 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=29)** You may have only programmed for a few months or several years, but you should be comfortable developing in a general purpose programming language.
 >
-> **[0:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=38)** This is also a great course for those of you who are preparing for technical interviews as many cover data structures.
+> **[0:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-you-need-to-know-24296966?u=76281980&t=38)** This is also a great course for those of you who are preparing for technical interviews as many cover [[Data Structures]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (2), data (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Software Development]] (1), [[Data Structures]] (1)
 > **CLI Commands:** python (3)
 > **Versions:** python 3 (1)
 > **Speakers:** - for (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-coder-pad-24296963?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-coder-pad-24296963?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-coder-pad-24296963?u=76281980&t=0)** - Throughout this course, we'll be using CoderPad to test our knowledge of data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-coder-pad-24296963?u=76281980&t=0)** - Throughout this course, we'll be using CoderPad to test our knowledge of [[Data Structures]].
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-coder-pad-24296963?u=76281980&t=5)** These are small code snippets focused on very specific functionality.
 >
@@ -208,20 +205,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Code Identifiers:** show_expected_result (1), show_hints (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - throughout (1)
 
-#### How to Use GitHub Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980)
+#### [How to Use GitHub Codespaces](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=0)** - [Instructor] Before jumping into the course, there are a few logistics we should talk about.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=5)** We'll be using GitHub for the exercise files that'll go along with each video.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=5)** We'll be using [[GitHub]] for the exercise files that'll go along with each video.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=10)** To access the code for a given video, you'll go to the appropriate branch In GitHub.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=48)** By clicking the different branches, I can view the code online.
 >
-> **[0:54](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=54)** And this is great for viewing the code, but if I want to actually run the code, I can use GitHub Codespaces.
+> **[0:54](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=54)** And this is great for viewing the code, but if I want to actually run the code, I can use GitHub [[Codespaces]].
 >
 > **[1:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=65)** To do this, we'll click on Code, Codespaces, and create a codespace on this branch.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=82)** Within our codespace, there are a few things already set up for us.
 >
-> **[1:26](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=86)** One is Python.
+> **[1:26](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=86)** One is [[Python (Programming Language)|Python]].
 >
 > **[1:30](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-use-github-codespaces-9708965?u=76281980&t=90)** There's our Python version, Python 3.10.12.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[Python (Programming Language)|Python]] (4), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Codespaces]] (4), [[Python (Programming Language)|Python]] (4)
 > **Tools:** github (7), terminal (1)
 > **CLI Commands:** python (4)
 > **File Paths:** app.py (2)
@@ -271,8 +267,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
+#### [What is data?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -308,7 +303,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980&t=104)** Operations wise, we can add numbers, subtract them, and more.
 >
-> **[1:49](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980&t=109)** In Python, we have four core primitive data types, int, float, boolean and string.
+> **[1:49](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980&t=109)** In [[Python (Programming Language)|Python]], we have four core primitive data types, int, float, boolean and string.
 >
 > **[1:56](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-data-24506004?u=76281980&t=116)** Any whole number is classified as an integer.
 >
@@ -326,14 +321,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Introduction to data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980)
+#### [Introduction to data structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980&t=16)** In fact, what happens if we want to store a list of floats or a series of numbers?
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980&t=21)** This is where data structures come in.
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980&t=21)** This is where [[Data Structures]] come in.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/introduction-to-data-structures-24501444?u=76281980&t=24)** Data structures are containers.
 >
@@ -387,18 +381,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18)
+> **Frameworks & Libraries:** [[Data Structures]] (5)
 > **CLI Commands:** find (1)
 > **Speakers:** - so (1)
 
-#### Built-in data structures in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980)
+#### [Built-in data structures in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980&t=0)** - Each programming language comes with built-in data structures that are native to that language.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980&t=0)** - Each programming language comes with built-in [[Data Structures]] that are native to that language.
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980&t=5)** Let's take a look at some of the ones that come for free with Python.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980&t=5)** Let's take a look at some of the ones that come for free with [[Python (Programming Language)|Python]].
 >
 > **[0:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/built-in-data-structures-in-python-24501442?u=76281980&t=9)** We'll discuss each of these more in depth in later chapters, but this is an introduction to the different ways we can store groups of data in Python.
 >
@@ -456,19 +449,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (7), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Structures]] (4)
 > **CLI Commands:** python (7)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **Analogies:** similar to (2), such as (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - each (1)
 
-#### Common operations on data structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980)
+#### [Common operations on data structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=0)** - Data structures are more than just containers for storing data.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=0)** - [[Data Structures]] are more than just containers for storing data.
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=3)** They come with operations that allow us to efficiently manage and manipulate the data.
 >
@@ -484,7 +476,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=39)** To do this, you might use a traversal, an operation where each element is visited sequentially, allowing you to inspect or modify data as needed.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=48)** To make data easier to interpret, you could also sort it in a particular order, either ascending or descending, using sorting algorithms like Merge Sort or Quick Sort.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=48)** To make data easier to interpret, you could also sort it in a particular order, either ascending or descending, using sorting [[Algorithms]] like Merge Sort or Quick Sort.
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/common-operations-on-data-structures-24300489?u=76281980&t=59)** Sorting can significantly improve the efficiency of other operations, like searching, by organizing data in a logical way.
 >
@@ -496,13 +488,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Search]] (1), [[Algorithms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - data (1)
 
-#### Big-O notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980)
+#### [Big-O notation](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -514,7 +505,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=17)** Essentially, it tells you how efficient an operation is.
 >
-> **[0:21](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=21)** Now, how does this relate to data structures?
+> **[0:21](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=21)** Now, how does this relate to [[Data Structures]]?
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=24)** For each operation, we can come up with its time complexity or how long it takes to run, independent of input.
 >
@@ -530,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=59)** The operation will take the same amount of time.
 >
-> **[1:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=63)** To give an example, adding a key value pair to a dictionary in Python takes the same amount of time, no matter how large the dictionary is.
+> **[1:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=63)** To give an example, adding a key value pair to a dictionary in [[Python (Programming Language)|Python]] takes the same amount of time, no matter how large the dictionary is.
 >
 > **[1:13](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/big-o-notation-24300485?u=76281980&t=73)** Another time complexity we have is linear time O of n.
 >
@@ -562,7 +553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Search]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
@@ -574,8 +565,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an array?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
+#### [What is an array?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,13 +617,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=127)** You also may have noticed that the positional indexing always started at zero, and ended at the length that the array minus one, or the number of items in the array minus one.
 >
-> **[2:18](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=138)** This is called zero-based indexing, and many popular programming languages, including Python, use this type of indexing in their arrays.
+> **[2:18](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=138)** This is called zero-based indexing, and many popular programming languages, including [[Python (Programming Language)|Python]], use this type of indexing in their arrays.
 >
 > **[2:28](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=148)** Now, no matter what type of indexing system you're using, the index is very important.
 >
 > **[2:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=154)** This is how you'll access your data in the array structure.
 >
-> **[2:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=158)** Now, every programming language provides built-in data structures differently.
+> **[2:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=158)** Now, every programming language provides built-in [[Data Structures]] differently.
 >
 > **[2:43](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-an-array-24503277?u=76281980&t=163)** Python itself does not have a data structure called an array, but it does have array-like structures.
 >
@@ -641,18 +631,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Programming]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - let (1)
 
-#### Create a list in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-list-in-python-24504258?u=76281980)
+#### [Create a list in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-list-in-python-24504258?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-list-in-python-24504258?u=76281980&t=0)** - [Instructor] We've talked about arrays in theory, but now it's time to put them to practice in Python with a list.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-list-in-python-24504258?u=76281980&t=0)** - [Instructor] We've talked about arrays in theory, but now it's time to put them to practice in [[Python (Programming Language)|Python]] with a list.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-list-in-python-24504258?u=76281980&t=6)** Imagine we want to compute the average number of books each student in a class has read this year.
 >
@@ -688,15 +677,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieve data from a list in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980)
+#### [Retrieve data from a list in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980&t=40)** For our list of numbers, we cannot access an index greater than the length of the list.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980&t=46)** If we do, Python will raise an index out of range error, but let's try it and see what happens.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980&t=46)** If we do, [[Python (Programming Language)|Python]] will raise an index out of range error, but let's try it and see what happens.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-data-from-a-list-in-python-24506010?u=76281980&t=60)** IndexError: list index out of range.
 >
@@ -770,7 +758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1)
 > **Versions:** 0.2 (1), 4.50 (1)
 > **Code Identifiers:** student_books_list (1)
@@ -778,8 +766,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutate a list in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-list-in-python-24501443?u=76281980)
+#### [Mutate a list in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-list-in-python-24501443?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -833,19 +820,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **Analogies:** for example (1), similar to (1)
 > **Code Identifiers:** student_books_list (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Swap items
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980)
+#### [Solution: Swap items](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980&t=0)** - [Instructor] In programming, swapping values in a list is a common task often required in algorithms like sorting or shuffling data.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980&t=0)** - [Instructor] In programming, swapping values in a list is a common task often required in [[Algorithms]] like sorting or shuffling data.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980&t=9)** Let's walk through a Python solution that swaps items in a list.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980&t=9)** Let's walk through a [[Python (Programming Language)|Python]] solution that swaps items in a list.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-swap-items-24501451?u=76281980&t=13)** When swapping values, you have a few options.
 >
@@ -893,22 +878,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** python (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multidimensional lists in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980)
+#### [Multidimensional lists in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=0)** - [Instructor] In some cases, a simple list isn't enough to store complex data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=0)** - [Instructor] In some cases, a simple list isn't enough to store complex [[Data Structures]].
 >
 > **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=5)** For example, consider a seating chart in a classroom where you need to track which student is sitting at a specific row and column.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=19)** In Python, you can achieve this using a multi-dimensional list, also known as a nested list.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=19)** In [[Python (Programming Language)|Python]], you can achieve this using a multi-dimensional list, also known as a nested list.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/multidimensional-lists-in-python-24504259?u=76281980&t=26)** These lists allow you to store multiple lists within a single list, giving you the flexibility to represent 2D or even 3D structures.
 >
@@ -984,7 +968,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1), for instance (1)
@@ -993,12 +977,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tuples in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/tuples-in-python-24503275?u=76281980)
+#### [Tuples in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/tuples-in-python-24503275?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/tuples-in-python-24503275?u=76281980&t=0)** - [Instructor] Another array like data structure in Python is the tuple.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/tuples-in-python-24503275?u=76281980&t=0)** - [Instructor] Another array like data structure in [[Python (Programming Language)|Python]] is the tuple.
 >
 > **[0:04](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/tuples-in-python-24503275?u=76281980&t=4)** Similar to a list, a tuple allows you to store a collection of values, but with one key difference.
 >
@@ -1050,15 +1033,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Analogies:** similar to (1), such as (1), for example (1), just like (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** rgb (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Square items
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980)
+#### [Solution: Square items](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1084,7 +1066,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980&t=64)** After the loop is finished, we return the result list, which now contains the two of the original values and their squared values.
 >
-> **[1:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980&t=72)** Now in Python, we can actually condense this logic even more using a comprehension.
+> **[1:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980&t=72)** Now in [[Python (Programming Language)|Python]], we can actually condense this logic even more using a comprehension.
 >
 > **[1:22](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-square-items-24296969?u=76281980&t=82)** This line of code creates a new list defined by square brackets, and it's a list of tuple.
 >
@@ -1102,8 +1084,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search array-like structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980)
+#### [Search array-like structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1123,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980&t=45)** In many languages, you can do this using a for loop to iterate over the list, checking each item at every index.
 >
-> **[0:52](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980&t=52)** Let's try it in Python.
+> **[0:52](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980&t=52)** Let's try it in [[Python (Programming Language)|Python]].
 >
 > **[0:55](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/search-array-like-structures-24300488?u=76281980&t=55)** We'll start by creating a list and defining the item we want to search for.
 >
@@ -1183,15 +1164,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), data (4), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (3), python (3), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort array-like structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980)
+#### [Sort array-like structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1211,7 +1191,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980&t=35)** To sort the items, we can implement a sorting function ourselves, or usually this behavior is built into the programming language through a sort function.
 >
-> **[0:45](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980&t=45)** Let's see how it works In Python.
+> **[0:45](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980&t=45)** Let's see how it works In [[Python (Programming Language)|Python]].
 >
 > **[0:48](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/sort-array-like-structures-24296968?u=76281980&t=48)** In Python, we have the sorted function, which makes sorting simple.
 >
@@ -1273,14 +1253,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Search]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find the second smallest item
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-find-the-second-smallest-item-24296962?u=76281980)
+#### [Solution: Find the second smallest item](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-find-the-second-smallest-item-24296962?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,12 +1306,11 @@ created: 2026-05-02
 > **Non-Speech:** (clicking keyboard) (6)
 > **Speakers:** - [instructor] (1)
 
-#### When to use array-like structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-array-like-structures-24506013?u=76281980)
+#### [When to use array-like structures](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-array-like-structures-24506013?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-array-like-structures-24506013?u=76281980&t=0)** - [Instructor] Lists and tuples are versatile data structures in Python.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-array-like-structures-24506013?u=76281980&t=0)** - [Instructor] Lists and tuples are versatile [[Data Structures]] in [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-array-like-structures-24506013?u=76281980&t=3)** Each offering unique trade-offs for handling sequential data.
 >
@@ -1362,7 +1340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -1372,8 +1350,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a dictionary?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
+#### [What is a dictionary?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,7 +1366,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980&t=22)** Together, they form the basic building blocks of a dictionary data structure.
 >
-> **[0:28](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980&t=28)** Think of a Python dictionary like a real-world dictionary, but instead of looking up words and their definitions, you're retrieving values based on keys.
+> **[0:28](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980&t=28)** Think of a [[Python (Programming Language)|Python]] dictionary like a real-world dictionary, but instead of looking up words and their definitions, you're retrieving values based on keys.
 >
 > **[0:37](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-dictionary-24502365?u=76281980&t=37)** In programming, the key serves as a label for a particular piece of data, and the value represents the information tied to that key.
 >
@@ -1407,18 +1384,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Create a dictionary in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-dictionary-in-python-24296959?u=76281980)
+#### [Create a dictionary in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-dictionary-in-python-24296959?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-dictionary-in-python-24296959?u=76281980&t=0)** - [Instructor] Let's create a dictionary in Python.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-dictionary-in-python-24296959?u=76281980&t=0)** - [Instructor] Let's create a dictionary in [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/create-a-dictionary-in-python-24296959?u=76281980&t=3)** We'll use a dictionary to store states in their capitals where the state is the key and the capital is the value.
 >
@@ -1456,12 +1432,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutate a dictionary in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980)
+#### [Mutate a dictionary in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1471,7 +1446,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980&t=8)** One key has a numerical value, while another has a Boolean value, and even another has a string value.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980&t=16)** This is a flexibility that can be achieved in Python, but does not work in all languages.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980&t=16)** This is a flexibility that can be achieved in [[Python (Programming Language)|Python]], but does not work in all languages.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-dictionary-in-python-24501448?u=76281980&t=22)** While state capitals are relatively stable, user preferences can change at any moment.
 >
@@ -1541,8 +1516,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Update salary
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-update-salary-24296965?u=76281980)
+#### [Solution: Update salary](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-update-salary-24296965?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1566,8 +1540,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Handle missing dictionary keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/handle-missing-dictionary-keys-24505116?u=76281980)
+#### [Handle missing dictionary keys](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/handle-missing-dictionary-keys-24505116?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1607,16 +1580,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **API Endpoints:** get  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Retrieve keys and value collections from dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-keys-and-value-collections-from-dictionaries-24501450?u=76281980)
+#### [Retrieve keys and value collections from dictionaries](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-keys-and-value-collections-from-dictionaries-24501450?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-keys-and-value-collections-from-dictionaries-24501450?u=76281980&t=0)** - [Instructor] Dictionaries in Python are great for mapping keys to values, but you may often need to retrieve only the keys or only the values for further operations.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-keys-and-value-collections-from-dictionaries-24501450?u=76281980&t=0)** - [Instructor] Dictionaries in [[Python (Programming Language)|Python]] are great for mapping keys to values, but you may often need to retrieve only the keys or only the values for further operations.
 >
 > **[0:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/retrieve-keys-and-value-collections-from-dictionaries-24501450?u=76281980&t=10)** Python provides built-in methods to make this fairly straightforward.
 >
@@ -1650,12 +1621,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Clean user preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-clean-user-preferences-24503281?u=76281980)
+#### [Solution: Clean user preferences](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-clean-user-preferences-24503281?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,14 +1657,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use dictionaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980)
+#### [When to use dictionaries](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1704,7 +1672,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980&t=8)** Dictionaries are ideal when you need fast data access.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980&t=11)** They offer significantly quicker retrieval, insertion, and search times than many other data structures, though this comes at the cost of higher memory usage.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980&t=11)** They offer significantly quicker retrieval, insertion, and search times than many other [[Data Structures]], though this comes at the cost of higher memory usage.
 >
 > **[0:22](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-dictionaries-24505117?u=76281980&t=22)** In fact, these operations take O of 1 or constant time because their runtime is consistent across any input or any size of the structure.
 >
@@ -1724,7 +1692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1733,8 +1701,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a set?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
+#### [What is a set?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,7 +1721,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980&t=30)** Think a pinky finger, ring, middle, and index.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980&t=34)** Unlike our other data structures we've discussed, sets don't concern themselves with the order of elements or with accessing a specific item.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980&t=34)** Unlike our other [[Data Structures]] we've discussed, sets don't concern themselves with the order of elements or with accessing a specific item.
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-set-24296967?u=76281980&t=43)** Instead, they focus on membership.
 >
@@ -1776,18 +1743,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine set membership in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/determine-set-membership-in-python-24504261?u=76281980)
+#### [Determine set membership in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/determine-set-membership-in-python-24504261?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/determine-set-membership-in-python-24504261?u=76281980&t=0)** - [Instructor] How do sets work in Python?
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/determine-set-membership-in-python-24504261?u=76281980&t=0)** - [Instructor] How do sets work in [[Python (Programming Language)|Python]]?
 >
 > **[0:02](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/determine-set-membership-in-python-24504261?u=76281980&t=2)** Let's take a look.
 >
@@ -1818,12 +1784,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mutate a set in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-set-in-python-24501449?u=76281980)
+#### [Mutate a set in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-set-in-python-24501449?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-set-in-python-24501449?u=76281980&t=0)** - [Instructor] Sets in Python are mutable, meaning we can modify them by adding, removing, or updating their elements.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-set-in-python-24501449?u=76281980&t=0)** - [Instructor] Sets in [[Python (Programming Language)|Python]] are mutable, meaning we can modify them by adding, removing, or updating their elements.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/mutate-a-set-in-python-24501449?u=76281980&t=8)** This flexibility makes sets ideal for situations where you need a collection of unique items that can change over time.
 >
@@ -1869,8 +1834,7 @@ created: 2026-05-02
 > **CLI Commands:** python (4)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Unique characters
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-unique-characters-24296961?u=76281980)
+#### [Solution: Unique characters](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-unique-characters-24296961?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,11 +1866,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Speakers:** - [instructor] (1)
 
-#### Operations on sets in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980)
+#### [Operations on sets in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1958,7 +1920,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980&t=210)** It's actually the union of the two differences.
 >
-> **[3:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980&t=214)** By utilizing these set operations, you can perform various computations and comparisons effectively in Python.
+> **[3:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980&t=214)** By utilizing these set operations, you can perform various computations and comparisons effectively in [[Python (Programming Language)|Python]].
 >
 > **[3:42](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/operations-on-sets-in-python-24300487?u=76281980&t=222)** They can help you find unique elements, merge sets, find common elements or exclude overlapping elements between sets.
 
@@ -1968,8 +1930,7 @@ created: 2026-05-02
 > **CLI Commands:** find (2), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Immutable sets in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/immutable-sets-in-python-24296960?u=76281980)
+#### [Immutable sets in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/immutable-sets-in-python-24296960?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,12 +1966,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Mutual friends
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-mutual-friends-24506005?u=76281980)
+#### [Solution: Mutual friends](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-mutual-friends-24506005?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,8 +2007,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-sets-24503280?u=76281980)
+#### [When to use sets](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-sets-24503280?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,11 +2029,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-sets-24503280?u=76281980&t=46)** You can't access elements by their position because no positional information is maintained.
 >
-> **[0:53](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-sets-24503280?u=76281980&t=53)** So, while sets provide unique advantages for membership checking, they do have limited data manipulation options.
+> **[0:53](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-sets-24503280?u=76281980&t=53)** So, while sets provide unique advantages for membership checking, they do have limited [[Data Manipulation]] options.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), strengths (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Data Manipulation]] (1)
 > **Speakers:** - [narrator] (1)
 
 
@@ -2083,8 +2041,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a queue?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
+#### [What is a queue?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,25 +2065,24 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980&t=51)** This is the next item to be dequeued.
 >
-> **[0:54](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980&t=54)** In Python, there's a built-in tool we can use to store and manage data as a queue.
+> **[0:54](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980&t=54)** In [[Python (Programming Language)|Python]], there's a built-in tool we can use to store and manage data as a queue.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-queue-24502368?u=76281980&t=60)** Let's take a look.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Definitions:** known as (1), refers to (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** fifo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - like (1)
 
-#### Use a deque as a queue in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980)
+#### [Use a deque as a queue in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=0)** - [Instructor] In Python, we can use a deck or a double-ended queue to implement a queue structure.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]], we can use a deck or a double-ended queue to implement a queue structure.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=6)** A deck excels at performing insertions and deletions from both ends, making it perfect for us to use as a queue.
 >
@@ -2142,7 +2098,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=52)** These will be processed in FIFO order.
 >
-> **[0:55](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=55)** Let's print out the first document, the Taylor Swift tickets.
+> **[0:55](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=55)** Let's print out the first document, the Taylor [[Swift (Programming Language)|Swift]] tickets.
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-deque-as-a-queue-in-python-24504260?u=76281980&t=59)** We can use the pop left method to remove an item from the front of the deck.
 >
@@ -2166,8 +2122,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Generate binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980)
+#### [Solution: Generate binary numbers](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2187,7 +2142,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980&t=50)** For example, after printing one, we add one, zero and one, one to the sequence, then after processing one, zero, we append one, zero, zero and one, zero, one to the sequence.
 >
-> **[1:04](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980&t=64)** This pattern repeats for the rest of the binary numbers.
+> **[1:04](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980&t=64)** This pattern repeats for the [[Representational State Transfer (REST)|rest]] of the binary numbers.
 >
 > **[1:09](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-generate-binary-numbers-24506008?u=76281980&t=69)** We can leverage this pattern using a deck to generate the first n binary numbers.
 >
@@ -2229,13 +2184,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-queues-24505114?u=76281980)
+#### [When to use queues](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-queues-24505114?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2247,7 +2201,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
@@ -2256,8 +2209,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
+#### [What is a stack?](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2291,18 +2243,17 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980&t=68)** Once all the items are popped, the stack is empty.
 >
-> **[1:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980&t=72)** Now let's see how this concept works in Python.
+> **[1:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/what-is-a-stack-24506006?u=76281980&t=72)** Now let's see how this concept works in [[Python (Programming Language)|Python]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), feature (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** lifo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use a list as a stack in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980)
+#### [Use a list as a stack in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2312,7 +2263,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980&t=17)** You can only add a remove from the top.
 >
-> **[0:20](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980&t=20)** In Python we can use a list to act as a stack and mimic this behavior.
+> **[0:20](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980&t=20)** In [[Python (Programming Language)|Python]] we can use a list to act as a stack and mimic this behavior.
 >
 > **[0:26](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-list-as-a-stack-in-python-24505112?u=76281980&t=26)** To create a stack of cards, we'll start with an empty list.
 >
@@ -2368,18 +2319,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2), find (1)
 > **Env Vars:** lifo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a deque as a stack in Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980)
+#### [Use a deque as a stack in Python](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=0)** - [Instructor] Python provides another data structure we can use to implement a stack, the deck.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] provides another data structure we can use to implement a stack, the deck.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=6)** As you might remember from the queues chapter, a deck is a double-ended queue, and we've used it to store data as a queue.
 >
@@ -2403,7 +2353,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=66)** In the program, we create a deck and add three items to the stack.
 >
-> **[1:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=70)** Google, LinkedIn, and Stack Overflow.
+> **[1:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=70)** [[Google]], [[LinkedIn]], and Stack Overflow.
 >
 > **[1:14](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/use-a-deque-as-a-stack-in-python-24502366?u=76281980&t=74)** When we pop the stack, the most recently added item is removed first.
 >
@@ -2417,15 +2367,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (3), [[LinkedIn]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[LinkedIn]] (2), [[Google]] (1)
 > **CLI Commands:** python (3)
 > **URLs:** [overflow.com](https://overflow.com) (1), [linkedin.com](https://linkedin.com) (1)
 > **Documentation:** stack overflow (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Matching parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-matching-parentheses-24505115?u=76281980)
+#### [Solution: Matching parentheses](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/solution-matching-parentheses-24505115?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2474,8 +2423,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to use stacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980)
+#### [When to use stacks](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2485,7 +2433,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980&t=8)** In fact, constant time.
 >
-> **[0:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980&t=10)** They're great data structures to use if you find yourself operating on your data in a last in, first out manner.
+> **[0:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980&t=10)** They're great [[Data Structures]] to use if you find yourself operating on your data in a last in, first out manner.
 >
 > **[0:18](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/when-to-use-stacks-24300484?u=76281980&t=18)** However, if you find yourself needing to index your data structure or get a specific item in the middle, stacks are not the solution.
 >
@@ -2495,7 +2443,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
@@ -2504,14 +2452,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GitHub Codespace challenge: To-do list
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
+#### [GitHub Codespace challenge: To-do list](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=0)** (pensive music)
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=5)** - Now that you have a good understanding of data structures, this chapter will focus on integrating data structures into practical applications.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=5)** - Now that you have a good understanding of [[Data Structures]], this chapter will focus on integrating data structures into practical applications.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=13)** You'll have to decide which data structure to use and implement it within a given application.
 >
@@ -2525,9 +2472,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=36)** Each task should also have three fields: an ID, a name, and a completed field that represents whether the task is completed.
 >
-> **[0:46](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=46)** The program lives in GitHub Codespaces.
+> **[0:46](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=46)** The program lives in [[GitHub]] [[Codespaces]].
 >
-> **[0:49](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=49)** The UI will already be implemented, so you shouldn't need to make any changes to the HTML, CSS, or JavaScript.
+> **[0:49](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=49)** The UI will already be implemented, so you shouldn't need to make any changes to the [[HTML]], CSS, or [[JavaScript]].
 >
 > **[0:57](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=57)** This will let you focus on integrating the data structure at hand within the app.py file.
 >
@@ -2535,7 +2482,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=71)** Feel free to explore the other files to understand more fully how the application works.
 >
-> **[1:17](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=77)** To run this application, use Python app.py in the terminal.
+> **[1:17](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=77)** To run this application, use [[Python (Programming Language)|Python]] app.py in the terminal.
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-to-do-list-9708964?u=76281980&t=83)** Then, you'll be able to view the application in a browser.
 >
@@ -2545,7 +2492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (4), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (2), [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** html (1), css (1)
@@ -2554,12 +2501,11 @@ created: 2026-05-02
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
 
-#### GitHub Codespace solution: To-do list
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-to-do-list-24296958?u=76281980)
+#### [GitHub Codespace solution: To-do list](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-to-do-list-24296958?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-to-do-list-24296958?u=76281980&t=0)** - [Instructor] Let's walk through building a simple to-do list application in Python using data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-to-do-list-24296958?u=76281980&t=0)** - [Instructor] Let's walk through building a simple to-do list application in [[Python (Programming Language)|Python]] using [[Data Structures]].
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-to-do-list-24296958?u=76281980&t=11)** We'll begin by choosing a data structure to hold our tasks, and then we'll add functionality to manage them.
 >
@@ -2633,7 +2579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), data (3), [[Python (Programming Language)|Python]] (2), hit (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** find (4), python (2), make (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (2)
@@ -2641,8 +2587,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### GitHub Codespace challenge: Reservation waitlist
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980)
+#### [GitHub Codespace challenge: Reservation waitlist](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2654,9 +2599,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=28)** Each guest should include a unique ID and their name to easily manage reservations.
 >
-> **[0:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=34)** Like with our last project, the program lives in GitHub Codespaces.
+> **[0:34](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=34)** Like with our last project, the program lives in [[GitHub]] [[Codespaces]].
 >
-> **[0:39](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=39)** The UI is already implemented, so you shouldn't need to make any changes to the HTML or CSS.
+> **[0:39](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=39)** The UI is already implemented, so you shouldn't need to make any changes to the [[HTML]] or CSS.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=45)** Instead, you should focus on integrating the data structure at hand within the app.py file.
 >
@@ -2664,7 +2609,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=59)** Feel free to explore the other files to get a better understanding of how the system works together as a whole.
 >
-> **[1:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=65)** To run the application, use the python app.py command.
+> **[1:05](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=65)** To run the application, use the [[Python (Programming Language)|python]] app.py command.
 >
 > **[1:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-reservation-waitlist-24296964?u=76281980&t=71)** Then you'll be able to view the application in a browser.
 >
@@ -2674,7 +2619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), application (2), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Codespaces]] (1), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** html (1), css (1)
@@ -2683,12 +2628,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### GitHub Codespace solution: Reservation waitlist
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980)
+#### [GitHub Codespace solution: Reservation waitlist](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=0)** - [Instructor] Let's walk through building a reservation wait list system in Python using data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=0)** - [Instructor] Let's walk through building a reservation wait list system in [[Python (Programming Language)|Python]] using [[Data Structures]].
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=11)** We'll begin by choosing a data structure to hold up our walk-up customers and then add functionality to manage them.
 >
@@ -2700,7 +2644,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=35)** To return all the guests in the waiting list, we can convert the queue to a list.
 >
-> **[0:42](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=42)** This will allow it to be serialized as JSON and returned to the client.
+> **[0:42](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=42)** This will allow it to be serialized as [[JSON]] and returned to the client.
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=49)** Each guest will be represented as a dictionary.
 >
@@ -2728,7 +2672,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=112)** Let's add a few guests to the waiting list.
 >
-> **[1:57](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=117)** Taylor Swift, Harry Potter, and Harry Styles.
+> **[1:57](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=117)** Taylor [[Swift (Programming Language)|Swift]], Harry Potter, and Harry Styles.
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-reservation-waitlist-24506009?u=76281980&t=127)** Now let's seat one of the guests.
 >
@@ -2740,28 +2684,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1), application (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (2), [[Python (Programming Language)|Python]] (1), [[Data Structures]] (1), [[JSON]] (1)
 > **CLI Commands:** python (1)
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### GitHub Codespace challenge: Inventory tracker
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980)
+#### [GitHub Codespace challenge: Inventory tracker](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=0)** - [Instructor] The last system you'll build is an inventory tracker for managing inventory in a warehouse.
 >
-> **[0:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=12)** You'll integrate a data structure that efficiently keeps track of items and their quantities, enabling real-time updates and management.
+> **[0:12](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=12)** You'll integrate a data structure that efficiently keeps track of items and their quantities, enabling [[Real-Time]] updates and management.
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=20)** The system should allow you to add new items to the inventory, update the quantity of existing items, remove items, and view the entire inventory.
 >
 > **[0:29](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=29)** Each item in the inventory will include a name and a quantity, making it easy to manage and monitor stock levels as items come and go.
 >
-> **[0:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=38)** Like with our previous projects, this program lives in GitHub Code Spaces.
+> **[0:38](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=38)** Like with our previous projects, this program lives in [[GitHub]] Code Spaces.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=44)** The UI will already be implemented, so you shouldn't need to make any changes to the html or css.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=44)** The UI will already be implemented, so you shouldn't need to make any changes to the [[HTML]] or css.
 >
 > **[0:50](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=50)** Instead, you should focus on integrating the data structure at hand within the app.py file.
 >
@@ -2769,7 +2712,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=63)** Feel free to explore the other files to get a better understanding of how the system works together as a whole.
 >
-> **[1:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=70)** To run the application, use python app.py in the terminal.
+> **[1:10](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=70)** To run the application, use [[Python (Programming Language)|python]] app.py in the terminal.
 >
 > **[1:16](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-challenge-inventory-tracker-24503278?u=76281980&t=76)** Then you'll be able to view the application in a browser.
 >
@@ -2779,7 +2722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), application (2), [[Real-Time]] (1), management (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[GitHub]] (1), [[HTML]] (1), [[Python (Programming Language)|Python]] (1)
 > **File Paths:** app.py (2)
 > **CLI Commands:** make (1), python (1)
 > **Tools:** github (1), terminal (1)
@@ -2788,12 +2731,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### GitHub Codespace solution: Inventory tracker
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-inventory-tracker-24300490?u=76281980)
+#### [GitHub Codespace solution: Inventory tracker](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-inventory-tracker-24300490?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-inventory-tracker-24300490?u=76281980&t=0)** - [Narrator] Let's walk through building an inventory tracker in Python using data structures.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-inventory-tracker-24300490?u=76281980&t=0)** - [Narrator] Let's walk through building an inventory tracker in [[Python (Programming Language)|Python]] using [[Data Structures]].
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/github-codespace-solution-inventory-tracker-24300490?u=76281980&t=11)** We'll begin by choosing a data structure to hold our inventory, and then we'll add functionality to manage its items.
 >
@@ -2847,7 +2789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Data Structures]] (1)
 > **Code Identifiers:** item_name (5), update_quantity (1)
 > **CLI Commands:** python (1)
 > **Prerequisites:** setup (1)
@@ -2864,26 +2806,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to decide which data structure to use
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)
+#### [How to decide which data structure to use](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=0)** - Congratulations on finishing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=2)** You now have an understanding of data structures that'll help you no matter what language you're programming in.
+> **[0:02](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=2)** You now have an understanding of [[Data Structures]] that'll help you no matter what language you're programming in.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=8)** Every data structure has their pros and cons, and there is no perfect data structure.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=14)** It all depends on what data you're trying to store, how you want to store it, and how you want to access it.
 >
-> **[0:20](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=20)** My name is Kathryn and I hope to see you again in some of my other LinkedIn Learning courses.
+> **[0:20](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=20)** My name is Kathryn and I hope to see you again in some of my other [[LinkedIn]] Learning courses.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-data-structures-25191158/how-to-decide-which-data-structure-to-use-24503282?u=76281980&t=24)** Thank you for watching and happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[LinkedIn]] (1)
 > **Speakers:** - congratulations (1)
 
 

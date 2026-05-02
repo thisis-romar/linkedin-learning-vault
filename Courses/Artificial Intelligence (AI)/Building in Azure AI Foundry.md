@@ -76,26 +76,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your AI applications with Azure AI Foundry
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
+#### [Build your AI applications with Azure AI Foundry](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=0)** - Do you want to level up your AI application development?
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=0)** - Do you want to level up your AI [[Application Development]]?
 >
-> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=4)** Consider using Azure AI Foundry.
+> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=4)** Consider using [[Azure AI Foundry]].
 >
 > **[0:07](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=7)** It's one place to manage, build, evaluate, and deploy your AI applications.
 >
-> **[0:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=13)** I will show you how to manage your work environment in Azure AI Foundry, create your AI project and explore AI models, how to build generative AI applications using your instructions, data, and content filters, and how to create prompt flows and perform both manual and metric evaluations.
+> **[0:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=13)** I will show you how to manage your work environment in Azure AI Foundry, create your AI project and explore AI models, how to build [[Generative AI]] applications using your instructions, data, and content filters, and how to create prompt flows and perform both manual and metric evaluations.
 >
-> **[0:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=35)** I'm Bryan Li, and I worked in IT and software development for 20 plus years.
+> **[0:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=35)** I'm Bryan Li, and I worked in IT and [[Software Development]] for 20 plus years.
 >
-> **[0:40](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=40)** Join me in my LinkedIn Learning course on building your AI applications with Azure AI Foundry.
+> **[0:40](https://www.linkedin.com/learning/building-in-azure-ai-foundry/build-your-ai-applications-with-azure-ai-foundry?u=76281980&t=40)** Join me in my [[LinkedIn]] Learning course on building your AI applications with Azure AI Foundry.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Azure AI Foundry]] (3), [[Application Development]] (1), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Application Development]] (1), [[Generative AI]] (1), [[Software Development]] (1), [[LinkedIn]] (1)
 > **Speakers:** - do (1)
 
 
@@ -103,32 +102,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Azure AI Foundry?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
+#### [What is Azure AI Foundry?](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=0)** - [Instructor] What is Azure AI Foundry?
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=0)** - [Instructor] What is [[Azure AI Foundry]]?
 >
-> **[0:01](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=1)** Azure AI Foundry, formerly known as Azure AI Studio, is an enterprise-grade platform to develop AI applications on the Microsoft Azure Cloud.
+> **[0:01](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=1)** Azure AI Foundry, formerly known as [[Azure AI Studio]], is an enterprise-grade platform to develop AI applications on the [[Microsoft Azure]] Cloud.
 >
-> **[0:12](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=12)** The word foundry is traditionally associated with the metalworking industry.
+> **[0:12](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=12)** The [[Microsoft Word|word]] foundry is traditionally associated with the metalworking industry.
 >
 > **[0:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=17)** It refers to a place where raw metals are mounted and shaped into specific components.
 >
-> **[0:23](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=23)** While Microsoft uses the word foundry in its product name, my impression is that it emphasizes the concepts of transformation, creation, and collaboration.
+> **[0:23](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=23)** While [[Microsoft]] uses the word foundry in its product name, my impression is that it emphasizes the concepts of transformation, creation, and collaboration.
 >
 > **[0:34](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=34)** You may ask, "What does enterprise grade mean?"
 >
 > **[0:37](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=37)** It means Azure AI Foundry offers key capabilities for building AI applications in enterprise environments.
 >
-> **[0:45](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=45)** For example, AI developers need to explore and deploy models from various providers, implement software development to lifecycle to design, build, evaluate, and deploy their AI solutions, access professional tools like agents, prompt flow, fine tuning, and evaluation, manage all project resources like connections, models, endpoints, storage, and compute instances, and manage project users and roles.
+> **[0:45](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=45)** For example, AI developers need to explore and deploy models from various providers, implement [[Software Development]] to lifecycle to design, build, evaluate, and deploy their [[AI Solutions]], access professional tools like agents, [[Prompt Flow]], [[Fine Tuning]], and evaluation, manage all project resources like connections, models, endpoints, storage, and compute instances, and manage project users and roles.
 >
-> **[1:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=77)** This is why we need Azure AI Foundry for Enterprise AI application development.
+> **[1:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=77)** This is why we need Azure AI Foundry for Enterprise AI [[Application Development]].
 >
 > **[1:23](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=83)** Now let's have a quick tour of Azure AI Foundry.
 >
-> **[1:26](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=86)** To access Azure AI Foundry, I will open a browser and visit ai.[azure.com](https://azure.com).
+> **[1:26](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=86)** To access Azure AI Foundry, I will open a browser and visit ai.[[[Microsoft Azure|azure]].com](https://azure.com).
 >
 > **[1:34](https://www.linkedin.com/learning/building-in-azure-ai-foundry/what-is-azure-ai-foundry-26538881?u=76281980&t=94)** Then I will sign in with my Microsoft account.
 >
@@ -146,35 +144,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Azure AI Foundry]] (6), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (6), [[Microsoft Word|Word]] (2), [[Microsoft]] (2), [[Microsoft Azure|Azure]] (2), [[Azure AI Studio]] (1)
 > **Definitions:** known as (1), is an  (1), refers to (1)
 > **URLs:** [azure.com](https://azure.com) (1)
 > **Cross-References:** later in (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980)
+#### [Manage AI applications](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=0)** - [Instructor] How can we essentially manage our AI applications in Azure AI Foundry?
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=0)** - [Instructor] How can we essentially manage our AI applications in [[Azure AI Foundry]]?
 >
 > **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=5)** We can do this by creating projects.
 >
 > **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=9)** In Azure AI Foundry, there are two types of projects; AI Foundry projects and hub-based projects.
 >
-> **[0:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=17)** Behind the scenes, AI Foundry projects are built on an AI Foundry resource, which provides new AI agents and model-centric capabilities recommended by Microsoft.
+> **[0:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=17)** Behind the scenes, AI Foundry projects are built on an AI Foundry resource, which provides new [[AI Agents]] and model-centric capabilities recommended by [[Microsoft]].
 >
-> **[0:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=30)** Hub-based projects are hosted by an AI hub resource, which is older than the AI Foundry resource, but it supports certain features that are not yet available in Foundry projects, such as open source models and prompt flow.
+> **[0:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=30)** Hub-based projects are hosted by an AI hub resource, which is older than the AI Foundry resource, but it supports certain features that are not yet available in Foundry projects, such as open source models and [[Prompt Flow]].
 >
 > **[0:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=46)** To manage project settings in Azure AI Foundry, we can use the management center of each resource.
 >
-> **[0:53](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=53)** Common settings include quotas and the model usage, users and their roles, and the connected resources such as Azure AI Services.
+> **[0:53](https://www.linkedin.com/learning/building-in-azure-ai-foundry/manage-ai-applications?u=76281980&t=53)** Common settings include quotas and the model usage, users and their roles, and the connected resources such as [[Microsoft Azure|Azure]] AI Services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Azure AI Foundry]] (3), [[Microsoft]] (1), prompt (1), management (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[AI Agents]] (1), [[Microsoft]] (1), [[Prompt Flow]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** such as (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
@@ -184,12 +181,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your AI project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
+#### [Create your AI project](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=0)** - [Instructor] Let's look at creating your AI project in Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=0)** - [Instructor] Let's look at creating your AI project in [[Azure AI Foundry]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=5)** First, we need a business case for our demo.
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=101)** Click customize.
 >
-> **[1:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=106)** Select my Azure subscription, and I want to create a new resource group.
+> **[1:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=106)** Select my [[Microsoft Azure|Azure]] subscription, and I want to create a new resource group.
 >
 > **[1:54](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=114)** For example, rg-ai-california-tours.
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=277)** Under Project Users, click new user.
 >
-> **[4:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=283)** I can search for users or groups in my Microsoft Entra ID.
+> **[4:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=283)** I can search for users or groups in my [[Microsoft Entra ID]].
 >
 > **[4:50](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-your-ai-project?u=76281980&t=290)** For example, Henry Twill.
 >
@@ -275,20 +271,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Microsoft Azure|Azure]] (8), next (3), [[Azure AI Foundry]] (2), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Azure AI Foundry]] (2), [[Microsoft Entra ID]] (1)
 > **Analogies:** for example (5)
 > **UI Navigation:** select the (1), click on (1), in the menu (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [instructor] (1)
 
-#### Explore and deploy AI models
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980)
+#### [Explore and deploy AI models](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=0)** - [Instructor] Our AI applications are built on top of selected AI models.
 >
-> **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=5)** Let's look at how to explore and deploy AI models in Azure AI Foundry.
+> **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=5)** Let's look at how to explore and deploy AI models in [[Azure AI Foundry]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=12)** Here's my demo project in the Azure AI Foundry portal.
 >
@@ -308,7 +303,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=56)** We can filter models by collections.
 >
-> **[1:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=60)** For example, models curated by Azure AI,
+> **[1:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=60)** For example, models curated by [[Microsoft Azure|Azure]] AI,
 >
 > **[1:12](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=72)** provided by Azure OpenAI Service,
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=292)** For example, gsm8k.
 >
-> **[4:58](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=298)** We can see it's a dataset for 8,500 grade school math word problems.
+> **[4:58](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=298)** We can see it's a dataset for 8,500 grade school math [[Microsoft Word|word]] problems.
 >
 > **[5:08](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=308)** And this o1 model has an accuracy score of 94.5%.
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=371)** For example, 2024 May 13.
 >
-> **[6:20](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=380)** Adjust the Tokens per Minute Rate Limit to control the model usage, We can assign a content filter for this model, which I will talk about later in this course.
+> **[6:20](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=380)** Adjust the [[Tokens]] per Minute Rate Limit to control the model usage, We can assign a content filter for this model, which I will talk about later in this course.
 >
 > **[6:38](https://www.linkedin.com/learning/building-in-azure-ai-foundry/explore-and-deploy-ai-models?u=76281980&t=398)** Finally, click Deploy.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Word|Word]] (1), [[Tokens]] (1)
 > **Analogies:** for example (10)
 > **Env Vars:** gpt (5)
 > **UI Navigation:** in the menu (2), switch to (1), select the (1)
@@ -397,16 +392,15 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
 
-#### Use the chat playground and system message
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980)
+#### [Use the chat playground and system message](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=0)** - [Instructor] We can use a chat playground and a system message to quickly build our generative AI application.
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=0)** - [Instructor] We can use a chat playground and a system message to quickly build our [[Generative AI]] application.
 >
 > **[0:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=6)** Let's see how it works.
 >
-> **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=9)** Here's our demo project in the Azure AI Foundry portal.
+> **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=9)** Here's our demo project in the [[Azure AI Foundry]] portal.
 >
 > **[0:14](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=14)** In the menu, click Playgrounds.
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=55)** I can adjust the model parameters like Max Response.
 >
-> **[1:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=60)** This is the maximum number of tokens per model response.
+> **[1:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=60)** This is the maximum number of [[Tokens]] per model response.
 >
 > **[1:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-chat-playground-and-system-message?u=76281980&t=66)** Temperature, it controls the randomness of the response.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), application (3), [[Azure AI Foundry]] (2), [[Generative AI]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Generative AI]] (1), [[Tokens]] (1)
 > **Analogies:** such as (1), similar to (1), just like (1), imagine (1), for example (1)
 > **UI Navigation:** in the menu (1), select the (1)
 > **Definitions:** means that (1), is called (1)
@@ -522,22 +516,21 @@ created: 2026-05-02
 > **Env Vars:** gpt (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980)
+#### [Use your data](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=0)** - [Instructor] Let's look at using your data to enhance AI-generated results.
 >
-> **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=5)** This prompt strategy is based on the architecture approach called retrieval-augmented generation, or RAG.
+> **[0:05](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=5)** This prompt strategy is based on the architecture approach called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG.
 >
 > **[0:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=13)** It enables us to add domain-specific knowledge to our AI models.
 >
-> **[0:19](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=19)** For instance, this is a sample Excel file, which has a list of California tour packages, with information like package name, description, duration, price, and a group discount rate.
+> **[0:19](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=19)** For instance, this is a sample [[Microsoft Excel|Excel]] file, which has a list of California tour packages, with information like package name, description, duration, price, and a group discount rate.
 >
 > **[0:33](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=33)** We can upload this file to our Explore California application so AI can help users quickly find a suitable tour packages.
 >
-> **[0:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=43)** To add a user data to Azure AI Foundry, we need to connect Azure AI Search.
+> **[0:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=43)** To add a user data to [[Azure AI Foundry]], we need to connect [[Microsoft Azure|Azure]] AI Search.
 >
 > **[0:49](https://www.linkedin.com/learning/building-in-azure-ai-foundry/use-your-data?u=76281980&t=49)** The general workflow is like, first, user data are ingested into Azure AI Search.
 >
@@ -641,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Search]] (13), data (9), [[Microsoft Azure|Azure]] (7), next (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (7), [[Microsoft Excel|Excel]] (2), [[Azure AI Foundry]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **CLI Commands:** find (4)
 > **UI Navigation:** select the (2), go to (1), dropdown (1)
 > **Analogies:** for example (3), for instance (1)
@@ -650,14 +643,13 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Definitions:** is a  (1)
 
-#### Create content filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980)
+#### [Create content filters](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=0)** - [Instructor] Let's talk about creating content filters.
 >
-> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=4)** As we already know, prompting is the primary method to interact with generative AI models.
+> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=4)** As we already know, prompting is the primary method to interact with [[Generative AI]] models.
 >
 > **[0:11](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=11)** A user sends a prompt to an AI model, then the model will generate a response and send it back.
 >
@@ -665,9 +657,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=25)** Basically, we can have an input filter to check user prompts and an output filter to check model completions.
 >
-> **[0:34](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=34)** Content filters are crucial for implementing responsible AI as they detect and prevent harmful content.
+> **[0:34](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=34)** Content filters are crucial for implementing [[Responsible AI]] as they detect and prevent harmful content.
 >
-> **[0:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=43)** Let's see how to create content filters in Azure AI Foundry.
+> **[0:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=43)** Let's see how to create content filters in [[Azure AI Foundry]].
 >
 > **[0:48](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-content-filters?u=76281980&t=48)** Here's our demo project in the actual AI Foundry portal.
 >
@@ -729,7 +721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (4), prompt (3), [[Security]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Responsible AI]] (1), [[Azure AI Foundry]] (1)
 > **UI Navigation:** in the menu (2), select the (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
@@ -737,12 +729,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy your AI application
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980)
+#### [Deploy your AI application](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=0)** - [Instructor] Let's look at how to deploy your AI application in Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=0)** - [Instructor] Let's look at how to deploy your AI application in [[Azure AI Foundry]].
 >
 > **[0:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=6)** Here's the Azure AI Foundry portal.
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=30)** For example, webapp-california-tours.
 >
-> **[0:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=35)** Choose my Azure demo subscription and the resource group.
+> **[0:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=35)** Choose my [[Microsoft Azure|Azure]] demo subscription and the resource group.
 >
 > **[0:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=46)** Select the location.
 >
@@ -772,7 +763,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=72)** Deploying the web app takes a few minutes.
 >
-> **[1:15](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=75)** Because the web app uses Microsoft Entra ID as the identity provider by default, it may take a while to activate the authentication.
+> **[1:15](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=75)** Because the web app uses [[Microsoft Entra ID]] as the identity provider by default, it may take a while to activate the authentication.
 >
 > **[1:28](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=88)** In the menu, click web apps.
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=126)** I can click share to share the web app.
 >
-> **[2:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=133)** You may notice that the default site logo and the name are for Contoso, which is a demo company often used by Microsoft.
+> **[2:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=133)** You may notice that the default site logo and the name are for Contoso, which is a demo company often used by [[Microsoft]].
 >
 > **[2:22](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=142)** How can you change them?
 >
@@ -804,7 +795,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=160)** Here's the web app we just created on the Azure portal.
 >
-> **[2:44](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=164)** On the overview page, you can see that it uses an external repository project on GitHub.
+> **[2:44](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=164)** On the overview page, you can see that it uses an external repository project on [[GitHub]].
 >
 > **[2:52](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=172)** Click the project link.
 >
@@ -814,7 +805,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=189)** Go back to the playground in Azure AI foundry.
 >
-> **[3:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=193)** You can also click export to save your work items to a JSON file.
+> **[3:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=193)** You can also click export to save your work items to a [[JSON]] file.
 >
 > **[3:21](https://www.linkedin.com/learning/building-in-azure-ai-foundry/deploy-your-ai-application?u=76281980&t=201)** Then click export.
 >
@@ -830,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[GitHub]] (3), ai (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (3), [[GitHub]] (3), [[JSON]] (2), [[Microsoft Entra ID]] (1)
 > **Tools:** github (3), azure portal (2)
 > **UI Navigation:** in the menu (2), select the (1), go to (1)
 > **Env Vars:** json (2)
@@ -844,30 +835,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create prompt flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
+#### [Create prompt flows](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=0)** - [Instructor] Prompt flows, empower developers to build advanced AI solutions.
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=0)** - [Instructor] Prompt flows, empower developers to build advanced [[AI Solutions]].
 >
-> **[0:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=6)** In our previous lessons, we used a playground to build a generative AI-powered chat bot.
+> **[0:06](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=6)** In our previous lessons, we used a playground to build a [[Generative AI]]-powered chat bot.
 >
 > **[0:13](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=13)** While playground is a convenient tool, how can you further customize your application?
 >
-> **[0:18](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=18)** For example, how do you use multiple large language models in one application?
+> **[0:18](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=18)** For example, how do you use multiple [[Large Language Models (LLM)|large language models]] in one application?
 >
 > **[0:24](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=24)** How to retrieve data from multiple sources?
 >
 > **[0:28](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=28)** How to dynamically craft your prompts, and how do you control the logic of your AI application?
 >
-> **[0:36](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=36)** One popular option is using prompt flow.
+> **[0:36](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=36)** One popular option is using [[Prompt Flow]].
 >
 > **[0:39](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=39)** A flow is an executable instruction that builds a workflow of your application.
 >
-> **[0:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=46)** It has inputs and outputs, in between, you can use all kinds of nodes like Python, prompt and LLM tools, and you can orchestrate this nodes to implement a logic flow of your AI application.
+> **[0:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=46)** It has inputs and outputs, in between, you can use all kinds of nodes like [[Python (Programming Language)|Python]], prompt and LLM tools, and you can orchestrate this nodes to implement a logic flow of your AI application.
 >
-> **[1:03](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=63)** Now let's see how it works in Azure AI Foundry.
+> **[1:03](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=63)** Now let's see how it works in [[Azure AI Foundry]].
 >
 > **[1:07](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=67)** Here's the chat playground in the Azure AI Foundry portal.
 >
@@ -925,11 +915,11 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=284)** Building prompt flows is beyond the scope of this course.
 >
-> **[4:48](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=288)** If you are interested, check out my hands-on course building prompt flows with Azure AI Foundry on LinkedIn learning.
+> **[4:48](https://www.linkedin.com/learning/building-in-azure-ai-foundry/create-prompt-flows?u=76281980&t=288)** If you are interested, check out my hands-on course building prompt flows with Azure AI Foundry on [[LinkedIn]] learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), application (5), [[Azure AI Foundry]] (5), ai (3), llm (2)
+> **Frameworks & Libraries:** [[Prompt Flow]] (9), [[Azure AI Foundry]] (5), [[AI Solutions]] (1), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** node (2), python (1), find (1)
 > **Analogies:** for example (4)
 > **Env Vars:** llm (2)
@@ -938,8 +928,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate your AI application
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980)
+#### [Evaluate your AI application](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,7 +946,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=46)** We need to use an evaluation tool to help us.
 >
-> **[0:53](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=53)** In Azure AI Foundry, we can use the tool to run two types of evaluations.
+> **[0:53](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=53)** In [[Azure AI Foundry]], we can use the tool to run two types of evaluations.
 >
 > **[0:59](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=59)** Manual evaluations for manually reviewing the results after generating AI responses with your test datasets.
 >
@@ -983,9 +972,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=129)** This includes system message, model configuration, and my data.
 >
-> **[2:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=150)** It uses the Azure AI search index we created before.
+> **[2:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=150)** It uses the [[Microsoft Azure|Azure]] AI search index we created before.
 >
-> **[2:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=155)** This index is based on our sample Excel file that has a list of California tour packages.
+> **[2:35](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=155)** This index is based on our sample [[Microsoft Excel|Excel]] file that has a list of California tour packages.
 >
 > **[2:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/evaluate-your-ai-application?u=76281980&t=163)** It includes information like package name, duration, price, and discount.
 >
@@ -1045,7 +1034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (6), [[Azure AI Foundry]] (3), application (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Microsoft Azure|Azure]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for example (3), such as (2)
 > **UI Navigation:** in the menu (1), click on (1)
 > **CLI Commands:** find (1)
@@ -1053,12 +1042,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply evaluation metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980)
+#### [Apply evaluation metrics](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=0)** - [Instructor] Let's look at how to use industry standard metrics to evaluate your AI application in Azure AI foundry.
+> **[0:00](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=0)** - [Instructor] Let's look at how to use industry standard metrics to evaluate your AI application in [[Azure AI Foundry]].
 >
 > **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=9)** Here's my demo project in the actual AI foundry portal.
 >
@@ -1068,7 +1056,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=25)** I can create an evaluation with some industry standard metrics.
 >
-> **[0:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=30)** For this demo, I'll evaluate the prompt flow of California tours, which we created in the previous video.
+> **[0:30](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=30)** For this demo, I'll evaluate the [[Prompt Flow]] of California tours, which we created in the previous video.
 >
 > **[0:38](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=38)** Select the prompt flow.
 >
@@ -1080,7 +1068,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=68)** I can download a data template, open the template.
 >
-> **[1:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=77)** It's a JSON lines file for entering my test data.
+> **[1:17](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=77)** It's a [[JSON]] lines file for entering my test data.
 >
 > **[1:21](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=81)** Here are the sample data sets for our demo, choose add your dataset, then click upload file.
 >
@@ -1102,7 +1090,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=162)** For the context, the data source is the flow output documents.
 >
-> **[2:49](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=169)** This is the Excel file that has a list of sample California Tour packages.
+> **[2:49](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=169)** This is the [[Microsoft Excel|Excel]] file that has a list of sample California Tour packages.
 >
 > **[2:54](https://www.linkedin.com/learning/building-in-azure-ai-foundry/apply-evaluation-metrics?u=76281980&t=174)** We use this document to ground the AI responses.
 >
@@ -1126,7 +1114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), prompt (5), ai (4), next (3), application (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (5), [[Azure AI Foundry]] (1), [[JSON]] (1), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** in the menu (1), select the (1), open the (1)
 > **Prerequisites:** configure (3)
 > **Exercise Files:** template (2)
@@ -1139,8 +1127,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course conclusion
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)
+#### [Course conclusion](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,9 +1135,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=1)** Congratulations on completing this course.
 >
-> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=4)** Now you have a comprehensive view of Azure AI Foundry.
+> **[0:04](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=4)** Now you have a comprehensive view of [[Azure AI Foundry]].
 >
-> **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=9)** As a quick summary, we learned how to manage Azure AI projects, resources, and models, build generative AI applications using your instructions, data, and content filters, and explore advanced capabilities, like prong flows and evaluations.
+> **[0:09](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=9)** As a quick summary, we learned how to manage [[Microsoft Azure|Azure]] AI projects, resources, and models, build [[Generative AI]] applications using your instructions, data, and content filters, and explore advanced capabilities, like prong flows and evaluations.
 >
 > **[0:27](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=27)** So what's next?
 >
@@ -1162,13 +1149,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=43)** Also, let's stay connected.
 >
-> **[0:45](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=45)** You're welcome to connect with me on LinkedIn.
+> **[0:45](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=45)** You're welcome to connect with me on [[LinkedIn]].
 >
 > **[0:48](https://www.linkedin.com/learning/building-in-azure-ai-foundry/course-conclusion?u=76281980&t=48)** I look forward to collaborating with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), data (2), [[Microsoft Azure|Azure]] (1), ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[Microsoft Azure|Azure]] (1), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - you (1)
 

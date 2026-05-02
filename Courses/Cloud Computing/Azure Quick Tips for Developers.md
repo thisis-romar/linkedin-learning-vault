@@ -101,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure quick tips overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980)
+#### [Azure quick tips overview](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980&t=2)** - [Mike Benkovich] Hello, and welcome to Azure Quick Tips for Developers.
+> **[0:02](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980&t=2)** - [Mike Benkovich] Hello, and welcome to [[Microsoft Azure|Azure]] Quick Tips for Developers.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quick-tips-overview?u=76281980&t=6)** The cloud is a rapidly changing place with new features and services arriving daily.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), cloud (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [mike (1)
 
@@ -129,18 +128,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a resource group from the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980)
+#### [Create a resource group from the portal](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=3)** - [Instructor] There are many ways that we can create a resource group.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=6)** One way is from the Azure Portal.
+> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=6)** One way is from the [[Microsoft Azure|Azure]] Portal.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=8)** To create a resource group in the Azure Portal, go into the Resource groups, click on Add, and then type in the name of the subscription you want to work with.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=20)** In this case, I'm going to use my LinkedIn Demo Sub.
+> **[0:20](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=20)** In this case, I'm going to use my [[LinkedIn]] Demo Sub.
 >
 > **[0:23](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-resource-group-from-the-portal?u=76281980&t=23)** And I'm going to give it a name and then I'm going to pick a location for it.
 >
@@ -169,12 +167,11 @@ created: 2026-05-02
 > **Tools:** azure portal (3)
 > **Speakers:** - [instructor] (1)
 
-#### Customize the default view in the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/customize-the-default-view-in-the-portal?u=76281980)
+#### [Customize the default view in the portal](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/customize-the-default-view-in-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/customize-the-default-view-in-the-portal?u=76281980&t=1)** - [Narrator] The Azure Portal is an interesting application with a lot of features and capabilities, being able to customize it makes it easier for me to find what I'm looking for.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/customize-the-default-view-in-the-portal?u=76281980&t=1)** - [Narrator] The [[Microsoft Azure|Azure]] Portal is an interesting application with a lot of features and capabilities, being able to customize it makes it easier for me to find what I'm looking for.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/customize-the-default-view-in-the-portal?u=76281980&t=9)** One of my favorite things is that on the new Azure homepage I've got a list of services that are listing what I've recently created.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5)
 > **UI Navigation:** click on (2), go to (1), select the (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -212,12 +209,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use the activity log to review actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-the-activity-log-to-review-actions?u=76281980)
+#### [Use the activity log to review actions](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-the-activity-log-to-review-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-the-activity-log-to-review-actions?u=76281980&t=1)** - How do you figure out what's changed or what activities have occurred inside of your environment in Azure?
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-the-activity-log-to-review-actions?u=76281980&t=1)** - How do you figure out what's changed or what activities have occurred inside of your environment in [[Microsoft Azure|Azure]]?
 >
 > **[0:07](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-the-activity-log-to-review-actions?u=76281980&t=7)** This is where in the Azure activity log we can take a look and see what's been going on.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **Env Vars:** csv (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
@@ -251,8 +247,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - how (1)
 
-#### Create a custom report of RGs by tag value
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-report-of-rgs-by-tag-value?u=76281980)
+#### [Create a custom report of RGs by tag value](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-report-of-rgs-by-tag-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,12 +283,11 @@ created: 2026-05-02
 > **Env Vars:** csv (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use multiple accounts in the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980)
+#### [Use multiple accounts in the portal](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=3)** - [Instructor] Have you been using Azure for a while and maybe you have your own subscriptions as well as the subscriptions you can access at work?
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=3)** - [Instructor] Have you been using [[Microsoft Azure|Azure]] for a while and maybe you have your own subscriptions as well as the subscriptions you can access at work?
 >
 > **[0:11](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=11)** You probably have different accounts.
 >
@@ -311,7 +305,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=35)** And then it asks, "Is this a work account?"
 >
-> **[0:37](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=37)** which means it's in the Office 365 domain tenant that I've been working with or is it a personal account, a Hotmail or a Live account that I created?
+> **[0:37](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=37)** which means it's in the [[Microsoft Office|Office]] 365 domain tenant that I've been working with or is it a personal account, a Hotmail or a Live account that I created?
 >
 > **[0:46](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-multiple-accounts-in-the-portal?u=76281980&t=46)** In this case, I'm using a personal account.
 >
@@ -323,14 +317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (3), switch to (1)
 > **Env Vars:** msdn (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a guest user to an Azure subscription
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980)
+#### [Add a guest user to an Azure subscription](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +331,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980&t=10)** You may have a tile that says Quick tasks which has an icon that says, Add a guest user.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980&t=15)** You also may have Active Directory on your toolbar.
+> **[0:15](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980&t=15)** You also may have [[Active Directory]] on your toolbar.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-guest-user-to-an-azure-subscription?u=76281980&t=19)** But if you don't, you can get to the same place by going up to All services, searching for Active directory, selecting the icon, then going over to the Users tab and then clicking on Add new guest user.
 >
@@ -364,14 +357,13 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a report of users
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980)
+#### [Create a report of users](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980&t=3)** - [Instructor] Have you ever been asked for a list of who is an active user in your subscription?
 >
-> **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980&t=8)** You can get that by going out to the Active Directory and then using the list of users, be able to create that.
+> **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980&t=8)** You can get that by going out to the [[Active Directory]] and then using the list of users, be able to create that.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-report-of-users?u=76281980&t=15)** What you do is go to the active directory.
 >
@@ -395,19 +387,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4)
 > **UI Navigation:** click on (5), go to (3)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use bulk operations to manage users
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980)
+#### [Use bulk operations to manage users](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980&t=3)** - [Instructor] Are you new going into Azure and you have a set of subscriptions that you need to import your users into?
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980&t=3)** - [Instructor] Are you new going into [[Microsoft Azure|Azure]] and you have a set of subscriptions that you need to import your users into?
 >
-> **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980&t=10)** You can do that with the bulk operations on Active Directory.
+> **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980&t=10)** You can do that with the bulk operations on [[Active Directory]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-bulk-operations-to-manage-users?u=76281980&t=14)** In the Azure portal, go to the Active Directory tool.
 >
@@ -433,19 +424,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Azure|Azure]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Exercise Files:** download the (1), template (1)
 > **Env Vars:** csv (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Check a user's access in Azure
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/check-a-user-s-access-in-azure?u=76281980)
+#### [Check a user's access in Azure](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/check-a-user-s-access-in-azure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/check-a-user-s-access-in-azure?u=76281980&t=1)** - [Instructor] Role-based access control is a great way to manage access in Azure.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/check-a-user-s-access-in-azure?u=76281980&t=1)** - [Instructor] Role-based access control is a great way to manage access in [[Microsoft Azure|Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/check-a-user-s-access-in-azure?u=76281980&t=4)** It allows us to protect and govern who can see, contribute, and create things.
 >
@@ -483,20 +473,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (3), select the (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980)
+#### [Create a custom dashboard](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980&t=3)** - [Instructor] If you have users who are new to Azure, it can be challenging trying to show them where to find everything to be able to manage the services that they might be responsible for.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980&t=3)** - [Instructor] If you have users who are new to [[Microsoft Azure|Azure]], it can be challenging trying to show them where to find everything to be able to manage the services that they might be responsible for.
 >
-> **[0:13](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980&t=13)** That's where dashboards come in.
+> **[0:13](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980&t=13)** That's where [[Dashboards]] come in.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-custom-dashboard?u=76281980&t=14)** Dashboards allow us to create and give our users a nice starting point to find things and pin what they want to look for.
 >
@@ -539,8 +528,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Speakers:** - [instructor] (1)
 
-#### Share a dashboard with operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/share-a-dashboard-with-operations?u=76281980)
+#### [Share a dashboard with operations](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/share-a-dashboard-with-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -570,25 +558,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Search]] (1)
 > **UI Navigation:** click on (2)
 > **Env Vars:** msdn (1)
 > **Definitions:** means that (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extract an ARM template from a resource group
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980)
+#### [Extract an ARM template from a resource group](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=3)** - [Instructor] If you ever wanted to copy a deployment, maybe have some slightly different names, but be able to recreate it later on, you can take the native language, which is the Azure resource manager template and export it.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=3)** - [Instructor] If you ever wanted to copy a deployment, maybe have some slightly different names, but be able to recreate it later on, you can take the native language, which is the [[Microsoft Azure|Azure]] resource manager template and export it.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=17)** If you look at a resource group, I can click on the export template, and this will take me to where it has all of the values, the parameters and the resources, that are deployed into this group.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=28)** Not everything can get exported but most things can.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=31)** The nice thing about this is that I can take this template, and if I want to redeploy it with PowerShell, I can get a PowerShell script, I can use a .net, I can also just take the template itself, and I can download it and save it to my environment, Save it and then I can go out, and open it in whatever tool I want to.
+> **[0:31](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=31)** The nice thing about this is that I can take this template, and if I want to redeploy it with [[Powershell]], I can get a PowerShell script, I can use a .net, I can also just take the template itself, and I can download it and save it to my environment, Save it and then I can go out, and open it in whatever tool I want to.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/extract-an-arm-template-from-a-resource-group?u=76281980&t=51)** I can also add it to a library so that I can save this, and I might call this my MSDN demo RG template, give it a description template of demo stuff, and then click on save, and then I've got it added to my library, and then I could redeploy it by using the deploy button.
 >
@@ -603,20 +589,19 @@ created: 2026-05-02
 > **Env Vars:** msdn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard from Quickstart templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980)
+#### [Dashboard from Quickstart templates](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=3)** - [Instructor] Creating arm templates can be a confusing thing.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=6)** Fortunately, Microsoft created a GitHub library of templates that you can use.
+> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=6)** Fortunately, [[Microsoft]] created a [[GitHub]] library of templates that you can use.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=10)** I've got a link to that on my website.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=12)** And if you go to [Benkotips.com](https://Benkotips.com), you'll see that I have a link to a shared dashboard that I contributed, did a poll request on for a shared dashboard.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=22)** You can deploy this either by clicking this deploy to Azure icon, or you can go to [Benkotips.com](https://Benkotips.com) and click on deploy the shared Azure dashboard.
+> **[0:22](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=22)** You can deploy this either by clicking this deploy to [[Microsoft Azure|Azure]] icon, or you can go to [Benkotips.com](https://Benkotips.com) and click on deploy the shared Azure dashboard.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dashboard-from-quickstart-templates?u=76281980&t=30)** And this is going to deploy my copy of that.
 >
@@ -638,8 +623,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARM template from deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/arm-template-from-deployment?u=76281980)
+#### [ARM template from deployment](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/arm-template-from-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -653,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/arm-template-from-deployment?u=76281980&t=31)** Clicking on the template lets me go out and take this shared dashboard, and I can download it and then edit it in my own environment.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/arm-template-from-deployment?u=76281980&t=38)** I can also add it to my library, and if I add it to my library, then I can do template deployments from that library that's stored within Azure, or I can just click on deploy to create a new instance of this.
+> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/arm-template-from-deployment?u=76281980&t=38)** I can also add it to my library, and if I add it to my library, then I can do template deployments from that library that's stored within [[Microsoft Azure|Azure]], or I can just click on deploy to create a new instance of this.
 
 > [!info]- Semantic Content
 >
@@ -662,8 +646,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (2), scroll down (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clean up resources in a resource group
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/clean-up-resources-in-a-resource-group?u=76281980)
+#### [Clean up resources in a resource group](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/clean-up-resources-in-a-resource-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,12 +669,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (4), go to (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete a resource group
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/delete-a-resource-group?u=76281980)
+#### [Delete a resource group](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/delete-a-resource-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/delete-a-resource-group?u=76281980&t=3)** - [Instructor] Do you need to clean up your Azure subscription and delete resource groups and resources you don't use anymore.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/delete-a-resource-group?u=76281980&t=3)** - [Instructor] Do you need to clean up your [[Microsoft Azure|Azure]] subscription and delete resource groups and resources you don't use anymore.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/delete-a-resource-group?u=76281980&t=9)** You can do that by going into the actual resource group blade, and then you can select the resource group that you want to work with.
 >
@@ -718,12 +700,11 @@ created: 2026-05-02
 > **Env Vars:** msdn (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a basic blueprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-basic-blueprint?u=76281980)
+#### [Create a basic blueprint](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-basic-blueprint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-basic-blueprint?u=76281980&t=3)** - [Instructor] You can use Azure Blueprints to do governance type of things like granting access to an application team.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-basic-blueprint?u=76281980&t=3)** - [Instructor] You can use [[Microsoft Azure|Azure]] Blueprints to do governance type of things like granting access to an application team.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-basic-blueprint?u=76281980&t=10)** Where we do that is in the blueprint part of the portal where I can search for blueprints, open up where I can get to the Get Started and I can work with the tool.
 >
@@ -765,19 +746,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (1), [[Search]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Versions:** 0.1 (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assign a blueprint to grant access to RG
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/assign-a-blueprint-to-grant-access-to-rg?u=76281980)
+#### [Assign a blueprint to grant access to RG](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/assign-a-blueprint-to-grant-access-to-rg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/assign-a-blueprint-to-grant-access-to-rg?u=76281980&t=3)** - [Instructor] Blueprints allow us to grant access to a resource group and to resources inside of Azure.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/assign-a-blueprint-to-grant-access-to-rg?u=76281980&t=3)** - [Instructor] Blueprints allow us to grant access to a resource group and to resources inside of [[Microsoft Azure|Azure]].
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/assign-a-blueprint-to-grant-access-to-rg?u=76281980&t=9)** Inside of the blueprint's tool, I can assign blueprints by going to my blueprint definitions, selecting one that I want to assign, like the basic network blueprint, and saying Assign Blueprint.
 >
@@ -797,18 +777,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Env Vars:** vnet (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visual Studio's resource group project
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980)
+#### [Visual Studio's resource group project](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=3)** - [Instructor] Publishing an application into Azure from Visual Studio can be done a number of different ways.
+> **[0:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=3)** - [Instructor] Publishing an application into [[Microsoft Azure|Azure]] from Visual Studio can be done a number of different ways.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=9)** I can publish from the Publish screen or I can go to the solution and I can Add a resource group project.
 >
@@ -818,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=27)** A resource group project allows me to go out and deploy my application into some resource services and it'll create an ARM template for me.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=35)** There are the built in ones, but I can also go to the GitHub and go to the Azure Quickstart templates.
+> **[0:35](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=35)** There are the built in ones, but I can also go to the [[GitHub]] and go to the Azure Quickstart templates.
 >
 > **[0:39](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/visual-studio-s-resource-group-project?u=76281980&t=39)** There's over 700 that are there.
 >
@@ -830,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Azure|Azure]] (2), [[Search]] (1), cloud (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[GitHub]] (1)
 > **UI Navigation:** go to (3), click on (1)
 > **Tools:** visual studio (1), github (1)
 > **Exercise Files:** template (2)
@@ -838,8 +817,7 @@ created: 2026-05-02
 > **Env Vars:** arm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use policy to enforce tagging
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-policy-to-enforce-tagging?u=76281980)
+#### [Use policy to enforce tagging](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/use-policy-to-enforce-tagging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -877,17 +855,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), data (1)
 > **UI Navigation:** click on (3), select the (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure scaling for an App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-scaling-for-an-app-service?u=76281980)
+#### [Configure scaling for an App Service](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-scaling-for-an-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-scaling-for-an-app-service?u=76281980&t=0)** - [Instructor] Azure App Services is a great option for compute because it provides some really great features that you can take advantage of.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-scaling-for-an-app-service?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] App Services is a great option for compute because it provides some really great features that you can take advantage of.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-scaling-for-an-app-service?u=76281980&t=7)** For instance, I've got an application that I've deployed here, a web application, and I'm running on an app service plan that is currently free because I was doing a development making sure that things looked right.
 >
@@ -913,15 +889,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), application (1), web application (1), [[Search]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for instance (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add an autoscale rule to an App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-an-autoscale-rule-to-an-app-service?u=76281980)
+#### [Add an autoscale rule to an App Service](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-an-autoscale-rule-to-an-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,15 +930,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), application (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **Env Vars:** cpu (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automate backups for App Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/automate-backups-for-app-service?u=76281980)
+#### [Automate backups for App Service](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/automate-backups-for-app-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,14 +968,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Restore an App Service from a backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980)
+#### [Restore an App Service from a backup](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1028,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980&t=44)** Ignore the conflicting host names.
 >
-> **[0:46](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980&t=46)** I can also ignore databases if I only want to restore the compute.
+> **[0:46](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980&t=46)** I can also ignore [[Databases]] if I only want to restore the compute.
 >
 > **[0:50](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/restore-an-app-service-from-a-backup?u=76281980&t=50)** Clicking OK will take us to where the restore happens and then we can monitor the progress on the backup screen.
 >
@@ -1036,19 +1007,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **UI Navigation:** click on (2)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Diagnose and solve App Service problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980)
+#### [Diagnose and solve App Service problems](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=0)** - [Instructor] Diagnosing and solving problems is always a challenge.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=5)** But in Azure, there's a troubleshooting support that you can go to help you identify common problems.
+> **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=5)** But in [[Microsoft Azure|Azure]], there's a troubleshooting support that you can go to help you identify common problems.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=12)** For instance, if I go into an app service or really any of the Azure services, you'll find the diagnose and solve problems.
 >
@@ -1062,13 +1032,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=43)** Click on troubleshoot.
 >
-> **[0:44](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=44)** It'll go out and it takes a look at all of these different types of things, web app down, the CPU analysis, HTB 400 errors, and then gives me a chart that shows me how my performance has been behaving.
+> **[0:44](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=44)** It'll go out and it takes a look at all of these different types of things, web app down, the CPU analysis, [[HackTheBox|HTB]] 400 errors, and then gives me a chart that shows me how my performance has been behaving.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/diagnose-and-solve-app-service-problems?u=76281980&t=59)** This is a great way to get into finding out what's going on and to diagnose what's going wrong.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Troubleshooting]] (2), feature (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[HackTheBox|Htb]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** for instance (3)
 > **Env Vars:** cpu (1), htb (1)
@@ -1077,12 +1047,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up Azure DevOps from the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/set-up-azure-devops-from-the-portal?u=76281980)
+#### [Set up Azure DevOps from the portal](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/set-up-azure-devops-from-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/set-up-azure-devops-from-the-portal?u=76281980&t=0)** - [Narrator] You can use automated deployments to set up a DevOps process to your application using the App Services from the Azure Portal.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/set-up-azure-devops-from-the-portal?u=76281980&t=0)** - [Narrator] You can use automated deployments to set up a [[DevOps]] process to your application using the App Services from the [[Microsoft Azure|Azure]] Portal.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/set-up-azure-devops-from-the-portal?u=76281980&t=9)** The way you do that is go into the deployment center click on the deployment center and then choose your source control.
 >
@@ -1108,22 +1077,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[DevOps]] (2)
 > **UI Navigation:** click on (2), select the (2)
 > **Prerequisites:** set up (2)
 > **Tools:** azure portal (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure Storage Explorer
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980)
+#### [Azure Storage Explorer](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=0)** - [Instructor] Storage is a core service of Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=0)** - [Instructor] Storage is a core service of [[Microsoft Azure|Azure]].
 >
 > **[0:04](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=4)** Being able to explore it and see what's in there is very important.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=8)** We can go to the Storage Explorer in the preview inside the portal, or you can open in the Windows app that is a Storage Explorer.
+> **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=8)** We can go to the Storage Explorer in the preview inside the portal, or you can open in the [[Windows]] app that is a Storage Explorer.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-storage-explorer?u=76281980&t=16)** If you click on download it from here, it'll go out to the page where you can download and install the app.
 >
@@ -1153,27 +1121,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), next (2), data (2), [[Windows]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Windows]] (1)
 > **UI Navigation:** click on (4), go to (2), open the (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reset service principle credentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980)
+#### [Reset service principle credentials](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=0)** - [Narrator] Service credentials are principles that connect up to Azure and do work on our behalf, and we can manage things like APIs or build agents or other tools that don't have a username and a password.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=0)** - [Narrator] Service credentials are principles that connect up to [[Microsoft Azure|Azure]] and do work on our behalf, and we can manage things like APIs or build agents or other tools that don't have a username and a password.
 >
 > **[0:13](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=13)** Sometimes they expire and we have to fix it.
 >
 > **[0:16](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=16)** How do we do that?
 >
-> **[0:17](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=17)** We go into Azure Active Directory.
+> **[0:17](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=17)** We go into [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:19](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=19)** Active Directory has a location called App Registrations which you can open up.
+> **[0:19](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=19)** [[Active Directory]] has a location called App Registrations which you can open up.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/reset-service-principle-credentials?u=76281980&t=25)** And then you can search for the application that has the expired credential.
 >
@@ -1195,19 +1162,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Active Directory]] (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1), [[Active Directory]] (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enable dynamic data masking in Azure SQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980)
+#### [Enable dynamic data masking in Azure SQL](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980&t=0)** - [Instructor] Security and encryption are important things in managing any data that's in the cloud.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980&t=6)** One feature that's available in SQL database is dynamic data masking.
+> **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980&t=6)** One feature that's available in [[SQL]] database is dynamic data masking.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/enable-dynamic-data-masking-in-azure-sql?u=76281980&t=12)** If you scroll down to the Security section, you can open up the Dynamic Data Masking and SQL database will go through and look at your schema and identify fields that are likely candidates to be using this feature.
 >
@@ -1223,18 +1189,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Security]] (2), feature (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** sql (2)
 > **UI Navigation:** scroll down (1), click on (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a VNET
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980)
+#### [Create a VNET](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=1)** - [Instructor] A subnet allows us to connect a group of resources in Azure into a VNet and then manage the traffic between them.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=1)** - [Instructor] A subnet allows us to connect a group of resources in [[Microsoft Azure|Azure]] into a VNet and then manage the traffic between them.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=7)** For example, we may have a group of resources that should be isolated from the internet.
 >
@@ -1254,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=37)** So that should be plenty big enough.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=38)** And then I can also specify on net gateway, a network security group, and route tables.
+> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=38)** And then I can also specify on net gateway, a [[Network Security]] group, and route tables.
 >
 > **[0:44](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-vnet?u=76281980&t=44)** Clicking on save, this will go out and it'll create and add our subnet.
 >
@@ -1262,17 +1227,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Azure|Azure]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Network Security]] (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a subnet to a VNET
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-subnet-to-a-vnet?u=76281980)
+#### [Add a subnet to a VNET](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-subnet-to-a-vnet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-subnet-to-a-vnet?u=76281980&t=1)** - [Instructor] A VNet is a free service in Azure that allows us to define virtual networks that manage traffic connect resources, such as VMs and data, and optionally allow us to connect to our on-premises networks.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-subnet-to-a-vnet?u=76281980&t=1)** - [Instructor] A VNet is a free service in [[Microsoft Azure|Azure]] that allows us to define virtual networks that manage traffic connect resources, such as VMs and data, and optionally allow us to connect to our on-premises networks.
 >
 > **[0:11](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/add-a-subnet-to-a-vnet?u=76281980&t=11)** Let's see how we can create that in Azure.
 >
@@ -1296,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), traffic (1), data (1), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (2), go to (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** make (1)
@@ -1305,8 +1269,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define peering for VNETs
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980)
+#### [Define peering for VNETs](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1291,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980&t=48)** And then I'm going to set up the hub-to-peer relationship and then we'll call that our hub-spoke-peer.
 >
-> **[0:57](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980&t=57)** I'm going to do this deployment using my LinkedIn Learning azqt demo environment.
+> **[0:57](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980&t=57)** I'm going to do this deployment using my [[LinkedIn]] Learning azqt demo environment.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/define-peering-for-vnets?u=76281980&t=63)** And then I can go down, I can select the hub VNet.
 >
@@ -1340,19 +1303,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), data (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (1), go to (1), select the (1)
 > **Cross-References:** go back to (1), coming up (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a virtual machine with auto shutdown
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-virtual-machine-with-auto-shutdown?u=76281980)
+#### [Create a virtual machine with auto shutdown](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-virtual-machine-with-auto-shutdown?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-virtual-machine-with-auto-shutdown?u=76281980&t=1)** - [Instructor] Virtual machines are a great option in Azure for when you need resources of a full machine for your workload.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-virtual-machine-with-auto-shutdown?u=76281980&t=1)** - [Instructor] [[Virtual Machines]] are a great option in [[Microsoft Azure|Azure]] for when you need resources of a full machine for your workload.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-virtual-machine-with-auto-shutdown?u=76281980&t=6)** One scenario I use is a developer VM with all the tools I need already installed.
 >
@@ -1388,19 +1350,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1), management (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1), [[Microsoft Azure|Azure]] (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
 > **Ports:** :00 (1)
 > **Tools:** visual studio (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure monitoring for Azure VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-monitoring-for-azure-vm?u=76281980)
+#### [Configure monitoring for Azure VM](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-monitoring-for-azure-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-monitoring-for-azure-vm?u=76281980&t=1)** - [Instructor] How do you ensure that you're not surprised when something goes wrong with an Azure deployment?
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-monitoring-for-azure-vm?u=76281980&t=1)** - [Instructor] How do you ensure that you're not surprised when something goes wrong with an [[Microsoft Azure|Azure]] deployment?
 >
 > **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/configure-monitoring-for-azure-vm?u=76281980&t=5)** You can configure monitoring and alerts.
 >
@@ -1436,14 +1397,13 @@ created: 2026-05-02
 > **Env Vars:** cpu (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an SQL database from the portal
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980)
+#### [Create an SQL database from the portal](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=1)** - [Instructor] SQL Server is a very popular relational database engine.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=1)** - [Instructor] [[Microsoft SQL Server|SQL Server]] is a very popular relational database engine.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=5)** Azure SQL databases allows us to use SQL Server as a service in the cloud.
+> **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=5)** [[Microsoft Azure|Azure]] [[SQL]] [[Databases]] allows us to use SQL Server as a service in the cloud.
 >
 > **[0:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=10)** We can create a database by going into the SQL databases and creating a new one.
 >
@@ -1453,11 +1413,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=26)** I'm going to call this my azqtdb and I'm going to create a new server and I'm going to call this my azqtdbms.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=36)** I'll put this in the east-us and then I'm going to allow it to do authentication with both SQL Server and with Azure AD Authentication, or I could do with just Azure AD Authentication.
+> **[0:36](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=36)** I'll put this in the east-us and then I'm going to allow it to do authentication with both SQL Server and with [[Microsoft Entra ID|Azure AD]] Authentication, or I could do with just Azure AD Authentication.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=49)** Click on Set Admin.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=50)** This then allows me to go out here and pull in my LinkedIn account, select and then say OK.
+> **[0:50](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=50)** This then allows me to go out here and pull in my [[LinkedIn]] account, select and then say OK.
 >
 > **[1:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-sql-database-from-the-portal?u=76281980&t=60)** Now I go back into the template for this, and by default, you can see I'm running my workload.
 >
@@ -1481,7 +1441,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (2), [[SQL]] (2), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Microsoft Azure|Azure]] (2), [[SQL]] (2), [[Databases]] (2), [[Microsoft Entra ID|Azure ad]] (2)
 > **Env Vars:** sql (5)
 > **UI Navigation:** click on (2), go to (1)
 > **Exercise Files:** template (2)
@@ -1490,12 +1450,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dynamically scale an Azure SQL database
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980)
+#### [Dynamically scale an Azure SQL database](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=1)** - [Instructor] SQL Azure makes it easy to work with your data, but for development versus testing versus production, you're likely to have different performance requirements.
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=1)** - [Instructor] [[SQL]] [[Microsoft Azure|Azure]] makes it easy to work with your data, but for development versus testing versus production, you're likely to have different performance requirements.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=9)** Fortunately, SQL Azure provides a way to dynamically scale a running database.
 >
@@ -1529,13 +1488,13 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=72)** Once I've decided how I want to run this, for instance, I could go to provisioned.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=77)** I can specify if I have SQL server licenses I want to apply.
+> **[1:17](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=77)** I can specify if I have [[Microsoft SQL Server|SQL server]] licenses I want to apply.
 >
 > **[1:22](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/dynamically-scale-an-azure-sql-database?u=76281980&t=82)** I just click on apply, and that will now upsize my database to where it needs to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Microsoft Azure|Azure]] (4), [[SQL]] (3), data (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (4), vcore (2), dtu (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Tools:** azure portal (1)
@@ -1543,12 +1502,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-key-vault?u=76281980)
+#### [Create a Key Vault](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-key-vault?u=76281980&t=0)** - [Instructor] Key Vaults provide a way for the secure storage of secrets, certificates, and keys in Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-key-vault?u=76281980&t=0)** - [Instructor] Key Vaults provide a way for the secure storage of secrets, certificates, and keys in [[Microsoft Azure|Azure]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-a-key-vault?u=76281980&t=7)** I can create a Key Vault in Azure in the portal by going out and searching for Key Vaults, by typing in Key Vault, and then doing the search.
 >
@@ -1574,17 +1532,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3)
 > **UI Navigation:** click on (3), select the (1), go to (1)
 > **CLI Commands:** az (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grant access to a Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/grant-access-to-a-key-vault?u=76281980)
+#### [Grant access to a Key Vault](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/grant-access-to-a-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/grant-access-to-a-key-vault?u=76281980&t=0)** - Access to key vaults can be managed either through access policies or with active directory integration.
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/grant-access-to-a-key-vault?u=76281980&t=0)** - Access to key vaults can be managed either through access policies or with [[Active Directory]] integration.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/grant-access-to-a-key-vault?u=76281980&t=6)** Let's take a look at how we can grant our developer access to read secrets with access policies.
 >
@@ -1618,14 +1575,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (1), management (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - access (1)
 
-#### Update a secret in a Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/update-a-secret-in-a-key-vault?u=76281980)
+#### [Update a secret in a Key Vault](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/update-a-secret-in-a-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,8 +1616,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (3), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Purge or recover deleted Key Vaults
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/purge-or-recover-deleted-key-vaults?u=76281980)
+#### [Purge or recover deleted Key Vaults](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/purge-or-recover-deleted-key-vaults?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1689,13 +1644,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrate App Service and Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980)
+#### [Integrate App Service and Key Vault](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1707,7 +1660,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=30)** This will go out and apply a setting for the application to run within a particular identity.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=38)** And then once that's done, I can make an Azure role assignment to grant it a Key Vault reader access to a Key Vault environment.
+> **[0:38](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=38)** And then once that's done, I can make an [[Microsoft Azure|Azure]] role assignment to grant it a Key Vault reader access to a Key Vault environment.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=48)** Select on add role assignment, set your scope to Key Vault.
 >
@@ -1717,7 +1670,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=63)** Select save and this will go out and assign that role assignment to my App Service.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=70)** Next, we go back into our configuration and it may take a moment for those settings to propagate but when it's done, I can go in and I can take my secret and instead of having a hard coded value, 'cause I can use a value from that Key Vault, where I pull in the @Microsoft.KeyVault, pass in the vault name, LinkedIn Learnings demo with a secret name of my secret, say OK and then save, click on continue.
+> **[1:10](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=70)** Next, we go back into our configuration and it may take a moment for those settings to propagate but when it's done, I can go in and I can take my secret and instead of having a hard coded value, 'cause I can use a value from that Key Vault, where I pull in the @[[Microsoft]].KeyVault, pass in the vault name, [[LinkedIn]] Learnings demo with a secret name of my secret, say OK and then save, click on continue.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/integrate-app-service-and-key-vault?u=76281980&t=102)** And now my settings will show that my secret is coming from the Key Vault.
 >
@@ -1725,13 +1678,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Microsoft Azure|Azure]] (1), next (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** select the (1), click on (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an App Insights dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-app-insights-dashboard?u=76281980)
+#### [Create an App Insights dashboard](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/create-an-app-insights-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1751,34 +1703,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Quickstart Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980)
+#### [Azure Quickstart Center](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=1)** - [Instructor] So you've decided to use Azure, but now it's like, how do I get started?
+> **[0:01](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=1)** - [Instructor] So you've decided to use [[Microsoft Azure|Azure]], but now it's like, how do I get started?
 >
 > **[0:05](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=5)** Well, let me tell you about one thing in Azure that you can check out.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=8)** Under the all services general is the quick start center.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=12)** If you click on that, you can go out and you can see how you can get started creating web apps, virtual machines, build and deploy serverless applications, among other things.
+> **[0:12](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=12)** If you click on that, you can go out and you can see how you can get started creating web apps, [[Virtual Machines]], build and deploy serverless applications, among other things.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=21)** There's an Azure setup guide as well as migration guide which will help you identify where you're at in the cloud journey and help you figure out what the next step is.
 >
 > **[0:30](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=30)** There's also a number of online courses.
 >
-> **[0:32](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=32)** These are connected to the learn.[microsoft.com](https://microsoft.com) and there's a number of great opportunities to go through and learn how to set up and do things like working with the compute services or managing your Azure costs.
+> **[0:32](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=32)** These are connected to the learn.[[[Microsoft]].com](https://microsoft.com) and there's a number of great opportunities to go through and learn how to set up and do things like working with the compute services or managing your Azure costs.
 >
 > **[0:46](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-quickstart-center?u=76281980&t=46)** But the quick start center is a great place to start out and see where you're at and to get started quickly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), web (1), [[Virtual Machines]] (1), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Virtual Machines]] (1), [[Microsoft]] (1)
 > **Prerequisites:** setup (1), set up (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **UI Navigation:** click on (1)
@@ -1786,12 +1736,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure free services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980)
+#### [Azure free services](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=0)** - [Instructor] If you're new to Azure, and you're wondering, "What can I do with it?"
+> **[0:00](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=0)** - [Instructor] If you're new to [[Microsoft Azure|Azure]], and you're wondering, "What can I do with it?"
 >
 > **[0:04](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=4)** you might be interested in this little nugget that I found.
 >
@@ -1799,9 +1748,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=14)** Free services is always good, something that you can get for free, and this lists out all the different kinds of things you can do in Azure, everything from Compute, where you get a free account with 12 months, Key Vault, Azure Storage, media services.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=29)** If you scroll down, you can see you get PostgreSQL, you have AI, things like computer vision, moderation, custom vision, forms recognizer.
+> **[0:29](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=29)** If you scroll down, you can see you get [[PostgreSQL]], you have AI, things like [[Computer Vision]], moderation, custom vision, [[Forms]] recognizer.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=39)** A lot of these options are available for free with the new subscription, but there's also always free services, where you can have app compute services, where you can have functions up to a million requests per month for free, you can have AD B2C, you can have DevOps tools, application insights.
+> **[0:39](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=39)** A lot of these options are available for free with the new subscription, but there's also always free services, where you can have app compute services, where you can have functions up to a million requests per month for free, you can have AD B2C, you can have [[DevOps Tools]], application insights.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-quick-tips-for-developers-18807163/azure-free-services?u=76281980&t=59)** Go out and explore this.
 >
@@ -1809,7 +1758,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[PostgreSQL]] (1), ai (1), [[Computer Vision]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[PostgreSQL]] (1), [[Computer Vision]] (1), [[Forms]] (1), [[DevOps Tools]] (1)
 > **UI Navigation:** click on (1), scroll down (1)
 > **Env Vars:** b2c (1)
 > **Speakers:** - [instructor] (1)

@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working effectively with JavaScript data
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980)
+#### [Working effectively with JavaScript data](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=0)** - When you write JavaScript code that works with data, you have so many formatting choices.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=0)** - When you write [[JavaScript]] code that works with data, you have so many formatting choices.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=5)** Some decisions you make may be habits you picked up when you started coding or even carried with you from another programming language.
 >
@@ -107,23 +106,22 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=21)** We'll look at declaring variables and assigning values.
 >
-> **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=24)** We'll also explore approaches for typecasting and for value comparisons, and we'll set up ESLint rules that help you keep your code consistent.
+> **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=24)** We'll also explore approaches for typecasting and for value comparisons, and we'll set up [[ESLint]] rules that help you keep your code consistent.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-best-practices-for-data/working-effectively-with-javascript-data-25664843?u=76281980&t=33)** After we're done, you'll be able to write polished code and explain why your code style choices make sense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), data (2), [[Programming]] (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-best-practices-for-data/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in front-end JavaScript including modern ES6 syntax.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/what-you-should-know?u=76281980&t=0)** - [Instructor] This course assumes you have some experience coding in front-end [[JavaScript]] including modern ES6 syntax.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/what-you-should-know?u=76281980&t=7)** If you don't have experience with JavaScript, a basic JavaScript course would be a great place to start.
 >
@@ -131,20 +129,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), front-end (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Env Vars:** es6 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980)
+#### [Setting up your environment](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=0)** - To work along with me on the files for this course, you need a few applications: ESLint, a code editor, and optionally, a web browser.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=0)** - To work along with me on the files for this course, you need a few applications: [[ESLint]], a code editor, and optionally, a web browser.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=10)** ESLint is a command-line utility that you install using the node package manager, or NPM.
+> **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=10)** ESLint is a command-line utility that you install using the node package manager, or [[npm]].
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=16)** NPM is part of the Node.js runtime.
+> **[0:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=16)** NPM is part of the [[Node.js]] runtime.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=20)** If you don't have Node installed, start by visiting Node.[js.org](https://js.org) and installing the LTS version.
 >
@@ -178,13 +175,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=106)** So if you have a code editor you like, like Sublime Text or Atom, it's fine to use it.
 >
-> **[1:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=111)** I use Visual Studio Code in these videos, which is a version of Microsoft's Visual Studio, created specifically for web development.
+> **[1:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=111)** I use Visual Studio Code in these videos, which is a version of [[Microsoft]]'s Visual Studio, created specifically for [[Web Development]].
 >
-> **[1:59](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=119)** Visual Studio Code is free and has Windows, Mac, and Linux releases.
+> **[1:59](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=119)** Visual Studio Code is free and has [[Windows]], Mac, and [[Linux]] releases.
 >
-> **[2:04](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=124)** The code is available on GitHub and users can submit issues there as well.
+> **[2:04](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=124)** The code is available on [[GitHub]] and users can submit issues there as well.
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=128)** I've turned on word wrap in my editor.
+> **[2:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=128)** I've turned on [[Microsoft Word|word]] wrap in my editor.
 >
 > **[2:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=131)** Word wrap ensures that long lines of code don't run off the screen.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=208)** I'll be using the console in a web browser in this course.
 >
-> **[3:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=212)** But a modern editor like Visual Studio Code has a built-in console that you can use to test your JavaScript code without ever switching to a browser.
+> **[3:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=212)** But a modern editor like Visual Studio Code has a built-in console that you can use to test your [[JavaScript]] code without ever switching to a browser.
 >
 > **[3:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/setting-up-your-environment?u=76281980&t=220)** If you're comfortable using those built-in tools in your editor, that's a fine alternative.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (6), [[Microsoft Word|Word]] (4), web (3), node (2)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (6), [[Microsoft Word|Word]] (4), [[Node.js]] (2), [[Microsoft]] (2)
 > **Tools:** visual studio (7), terminal (1), command prompt (1), command line (1), sublime (1)
 > **CLI Commands:** npm (6), node (4)
 > **Env Vars:** npm (6), lts (1), http (1)
@@ -238,12 +235,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding style guides
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980)
+#### [Understanding style guides](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=0)** - [Instructor] If you've already watched one of my other courses on JavaScript best practices, you may already have the background under your belt.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=0)** - [Instructor] If you've already watched one of my other courses on [[JavaScript]] best practices, you may already have the background under your belt.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=6)** If so, feel free to skip ahead to chapter two.
 >
@@ -277,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=97)** First, it keeps you coding rather than needing to break your flow while you try to balance the options and choose a syntax.
 >
-> **[1:44](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=104)** It also ensures that the code you write interacts with the rest of the code base in a particular way.
+> **[1:44](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=104)** It also ensures that the code you write interacts with the [[Representational State Transfer (REST)|rest]] of the code base in a particular way.
 >
 > **[1:50](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=110)** For instance, defining a function using const ensures that it can't be erroneously redefined.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=130)** The Airbnb Guide is one of the most widely referenced style guides among JavaScript developers.
 >
-> **[2:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=136)** Another is the Google Style Guide.
+> **[2:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=136)** Another is the [[Google]] Style Guide.
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-style-guides?u=76281980&t=141)** Many best practices can and do change over time.
 >
@@ -299,19 +295,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Debugging]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), known as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using modern deployment tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980)
+#### [Using modern deployment tools](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=0)** - [Instructor] In the early days of JavaScript, the code a developer wrote was the code that was executed in every browser or other user agent.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=0)** - [Instructor] In the early days of [[JavaScript]], the code a developer wrote was the code that was executed in every browser or other user agent.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=7)** Over time, JavaScript evolved and added new features.
 >
@@ -337,7 +332,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=78)** Because a transpiler can't rebuild some code for older browsers, the job of a polyfill is to instead add the functionality of the new feature to older browsers.
 >
-> **[1:28](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=88)** Promises and Fetch are a widely used example or a feature that requires a polyfill for backward compatibility.
+> **[1:28](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=88)** Promises and [[Fetch]] are a widely used example or a feature that requires a polyfill for backward compatibility.
 >
 > **[1:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/using-modern-deployment-tools?u=76281980&t=95)** With transpiling and polyfills in the developer toolbox for JavaScript developers, the group that maintains JavaScript standards has been free to innovate without worrying about proposed changes never being widely available.
 >
@@ -347,18 +342,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (11), feature (3), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (11), [[Fetch]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980)
+#### [Understanding ESLint](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=0)** - [Instructor] ESLint is a utility that flags deviations from selected best practices right in your editor as you code.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=0)** - [Instructor] [[ESLint]] is a utility that flags deviations from selected best practices right in your editor as you code.
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=7)** ESLint is widely used by Java script developers to catch and correct issues before testing and deploying.
+> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=7)** ESLint is widely used by [[Java]] script developers to catch and correct issues before testing and deploying.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=14)** Although ESLint allows you to load a default set of rules, one of it's strengths is it's configurability.
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=29)** For this reason, it's important to understand how to configure ESLint, otherwise using it can be an exercise in frustration as you have to ignore its warnings when they're not relevant to your preferences.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=40)** With ESLint installed I could run a configuration utility, however, this builds out a package that JSON file and associated modules that I don't need here.
+> **[0:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=40)** With ESLint installed I could run a configuration utility, however, this builds out a package that [[JSON]] file and associated modules that I don't need here.
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=50)** So instead, ESLint supports rules written using Java script itself, as well as YAML or JSON.
 >
@@ -404,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=130)** You may find that this file is not visible in your file manager even though you can see it in your editor.
 >
-> **[2:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=136)** The default configuration for both Mac and Windows is to hide dot files.
+> **[2:16](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=136)** The default configuration for both Mac and [[Windows]] is to hide dot files.
 >
 > **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/understanding-eslint?u=76281980&t=141)** As long as you can see the file in your editor, though, you can open it and save changes.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[Java]] (3), [[JSON]] (2), strengths (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[Java]] (3), [[JSON]] (2), [[Windows]] (1)
 > **Env Vars:** json (2), env (2), es6 (2), yaml (1)
 > **File Paths:** eslintrc.js (3)
 > **CLI Commands:** make (1), find (1)
@@ -421,12 +415,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 
-#### Foundational practice: Always use strict mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980)
+#### [Foundational practice: Always use strict mode](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=0)** - [Instructor] No matter which other practices are in your style guide or what modern JavaScript features you may be using, your first step when writing code should be to ensure that you're working in strict mode.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=0)** - [Instructor] No matter which other practices are in your style guide or what modern [[JavaScript]] features you may be using, your first step when writing code should be to ensure that you're working in strict mode.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=10)** Indicating that code should be interpreted in strict mode specifies to user agents like browsers that they should treat code literally as written and throw an error if the code doesn't make sense.
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=46)** So const city equals Chicago and console.log city.
 >
-> **[0:55](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=55)** And I'll save that, I'll switch to my HTML file, and I'll run Live Server.
+> **[0:55](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=55)** And I'll save that, I'll switch to my [[HTML]] file, and I'll run Live Server.
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=61)** And I'll open up my console here.
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=180)** So make sure the first line in any JavaScript file you create is use strict.
 >
-> **[3:05](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=185)** I can enforce this using ESLint.
+> **[3:05](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=185)** I can enforce this using [[ESLint]].
 >
 > **[3:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=190)** Opening my .eslintrc.js file, and within the rules object, I'll add the strict key.
 >
@@ -514,11 +507,11 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=268)** And I'll save and I'm all good.
 >
-> **[4:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=271)** Including this use strict statement will work in concert with ESLint to ensure that both the editor and the parser prompt me about any lazy coding practices, which will increase the overall quality of my code.
+> **[4:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/foundational-practice-always-use-strict-mode?u=76281980&t=271)** Including this use strict statement will work in concert with ESLint to ensure that both the editor and the parser prompt me about any lazy [[Coding Practices]], which will increase the overall quality of my code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), [[HTML]] (1), next (1), prompt (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), [[HTML]] (1), [[Coding Practices]] (1)
 > **CLI Commands:** make (3)
 > **File Paths:** eslintrc.js (1), app.js (1)
 > **Env Vars:** html (1)
@@ -532,8 +525,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prefer const, then let
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980)
+#### [Prefer const, then let](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -541,7 +533,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=4)** But var has drawbacks, and I want to take advantage of let and const instead.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=9)** I can enforce this across my code base with the eslint no var rule.
+> **[0:09](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=9)** I can enforce this across my code base with the [[ESLint]] no var rule.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=14)** With a simple string value, I can get eslint to throw errors for any var declaration.
 >
@@ -557,11 +549,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=56)** I have few enough statements here I can do a search and replace to switch to let statements.
 >
-> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=61)** So I'll do a command F, which is control F on Windows.
+> **[1:01](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=61)** So I'll do a command F, which is control F on [[Windows]].
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=66)** And I'm going to click this arrow here, that lets me switch to replace mode in VS code.
 >
-> **[1:12](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=72)** I'm going to look for var and a space, just to make sure if I have a word that starts with var or includes the letters var, that it's not also going to hit that.
+> **[1:12](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=72)** I'm going to look for var and a space, just to make sure if I have a [[Microsoft Word|word]] that starts with var or includes the letters var, that it's not also going to hit that.
 >
 > **[1:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=81)** And I want to replace with let space.
 >
@@ -593,7 +585,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=140)** So I'll save that.
 >
-> **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=141)** I'll switch to my html file and go live.
+> **[2:21](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=141)** I'll switch to my [[HTML]] file and go live.
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=144)** And in my console I get no errors.
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=180)** In my eslint RC file, I'll add another line to the rules section, and add prefer-const with a value of error.
 >
-> **[3:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=191)** I'll save that, switch back to my JavaScript.
+> **[3:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=191)** I'll save that, switch back to my [[JavaScript]].
 >
 > **[3:13](https://www.linkedin.com/learning/javascript-best-practices-for-data/prefer-const-then-let?u=76281980&t=193)** And I have one error up here, and when I hover over that, my eslint extension points out that this variable was never reassigned.
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[Search]] (1), [[Windows]] (1), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **UI Navigation:** switch to (3), scroll down (1)
 > **CLI Commands:** make (2), cd (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -678,12 +670,11 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Best Practices:** it's best to (1)
 
-#### Use individual statements to create variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980)
+#### [Use individual statements to create variables](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=0)** - [Instructor] JavaScript allows the declaration of multiple variables using a single keyword, like in my code here.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=0)** - [Instructor] [[JavaScript]] allows the declaration of multiple variables using a single keyword, like in my code here.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=5)** It can make code more concise, but it has some drawbacks.
 >
@@ -693,7 +684,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=27)** So I prefer to use separate statements when I create variables.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=30)** ESLint has a rule for this, which is one bar.
+> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=30)** [[ESLint]] has a rule for this, which is one bar.
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-individual-statements-to-create-variables?u=76281980&t=34)** This rule supports a lot of configuration options for different keywords.
 >
@@ -721,13 +712,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), [[Debugging]] (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create descriptive variable names
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980)
+#### [Create descriptive variable names](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=30)** Just numbers with no context.
 >
-> **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=32)** Now, when a parser is processing my JavaScript statements, it doesn't care about variable names at all.
+> **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=32)** Now, when a parser is processing my [[JavaScript]] statements, it doesn't care about variable names at all.
 >
 > **[0:38](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=38)** But for me and other humans working with the code, it's really helpful to understand what a variable is meant to contain.
 >
@@ -759,7 +749,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=65)** And I'll rename the second, veggies.
 >
-> **[1:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=68)** That's a compromise from the full word, which is long, but this still gives me enough information to understand what the content is.
+> **[1:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=68)** That's a compromise from the full [[Microsoft Word|word]], which is long, but this still gives me enough information to understand what the content is.
 >
 > **[1:15](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=75)** The third and fourth variables are a little more involved.
 >
@@ -775,7 +765,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=98)** This is sometimes known as snakecase.
 >
-> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=100)** Perhaps due to its popularity in the Python programming language.
+> **[1:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=100)** Perhaps due to its popularity in the [[Python (Programming Language)|Python]] programming language.
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=103)** So I can replace these variable names with something like, inventory and underscore ratio and maybe the second one previous, underscore year, underscore ratio.
 >
@@ -789,7 +779,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=131)** If for no other reason, then it's shorter and easier to type.
 >
-> **[2:15](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=135)** ESLint supports the camelcase rule, all lowercase.
+> **[2:15](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=135)** [[ESLint]] supports the camelcase rule, all lowercase.
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-descriptive-variable-names?u=76281980&t=139)** So I'll add that, back in my ESLint RC file, camelcase, with a value of error.
 >
@@ -803,13 +793,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[JavaScript]] (2), [[ESLint]] (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[JavaScript]] (2), [[ESLint]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standardize acronym case
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980)
+#### [Standardize acronym case](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,13 +814,13 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=31)** Either standard can require its own approach in variable naming.
 >
-> **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=34)** My first variable name uses all lowercase, which is standard for a single word variable name.
+> **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=34)** My first variable name uses all lowercase, which is standard for a single [[Microsoft Word|word]] variable name.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=40)** My second uses an initial cap for the acronym, then camel cases the next word.
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=45)** And my final variable uses the all caps format for an acronym.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=50)** Add into the mix the fact that an initial cap to variable name has specific meanings in JavaScript, and picking a name can make your head spin.
+> **[0:50](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=50)** Add into the mix the fact that an initial cap to variable name has specific meanings in [[JavaScript]], and picking a name can make your head spin.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=58)** And this isn't just a problem for developers.
 >
@@ -851,7 +840,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=105)** I've selected an occurrence.
 >
-> **[1:47](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=107)** I'm going to press command F2 on my Mac, which would be control F2 on Windows.
+> **[1:47](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=107)** I'm going to press command F2 on my Mac, which would be control F2 on [[Windows]].
 >
 > **[1:52](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-acronym-case?u=76281980&t=112)** And now, both occurrences are selected, and any edit I make affects both of them.
 >
@@ -867,14 +856,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), business (1), next (1), [[JavaScript]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[JavaScript]] (1), [[Windows]] (1)
 > **Env Vars:** cogs (2), ytd (2), nop (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Remove unused variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980)
+#### [Remove unused variables](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -888,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980&t=25)** And especially if I was working in a big codebase, it can be easy to overlook orphaned variables, that is, variables that are declared but no longer used.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980&t=35)** ESLint can help me watch for this with the no-unused-vars rule.
+> **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980&t=35)** [[ESLint]] can help me watch for this with the no-unused-vars rule.
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-best-practices-for-data/remove-unused-variables?u=76281980&t=39)** If I prune or restructure my code, such that a variable is no longer used anywhere in my code, ESLint will catch that for me.
 >
@@ -909,8 +897,7 @@ created: 2026-05-02
 > **File Paths:** app.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Declare variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-declare-variables?u=76281980)
+#### [Challenge: Declare variables](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-declare-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,15 +921,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Declare variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980)
+#### [Solution: Declare variables](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1014,7 +999,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980&t=260)** Next I want to make sure I'm not using any unused variables.
 >
-> **[4:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980&t=264)** So I'm going to add an eslint rule for this, no unused vars, the value of error.
+> **[4:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980&t=264)** So I'm going to add an [[ESLint]] rule for this, no unused vars, the value of error.
 >
 > **[4:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-declare-variables?u=76281980&t=275)** And over here it looks like I have a couple of those.
 >
@@ -1036,7 +1021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (2), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** reportdate (1)
 > **Env Vars:** dow (1)
@@ -1050,8 +1035,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Don't assign variables in chains
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980)
+#### [Don't assign variables in chains](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980&t=30)** This makes each line of code more easily digestible when I read it, and does away with corner cases where chained assignment can create uncertainty.
 >
-> **[0:38](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980&t=38)** ESLint has a rule that can flag this for me, which is no-multi-assign.
+> **[0:38](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980&t=38)** [[ESLint]] has a rule that can flag this for me, which is no-multi-assign.
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-assign-variables-in-chains?u=76281980&t=46)** I'll start by adding that to my ESLint RC file.
 >
@@ -1088,18 +1072,17 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[ESLint]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Standardize quotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980)
+#### [Standardize quotes](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=0)** - [Instructor] JavaScript offers a few different options for enclosing items in quotes.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=0)** - [Instructor] [[JavaScript]] offers a few different options for enclosing items in quotes.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=4)** As long as your quote characters are paired, you can use single quotes, double quotes, or even backticks if you're working with Modern JS.
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=11)** For the sake of efficiency and consistency, a lot of developers choose to standardize on just one quote style.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=18)** Before JavaScript, I worked with HTML, which required double quotes.
+> **[0:18](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=18)** Before JavaScript, I worked with [[HTML]], which required double quotes.
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=22)** So I initially wrote my JavaScript with double quotes.
 >
@@ -1109,7 +1092,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=32)** And in general, single quotes are pretty popular in JavaScript.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=36)** Whichever style you choose to standardize on, you can commit to it using ESLint quotes rule.
+> **[0:36](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=36)** Whichever style you choose to standardize on, you can commit to it using [[ESLint]] quotes rule.
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-best-practices-for-data/standardize-quotes?u=76281980&t=42)** It takes an array in which you specify the alert level and which quote style you use.
 >
@@ -1151,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (4), [[HTML]] (1), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4), [[ESLint]] (4), [[HTML]] (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** autocompletion (1)
@@ -1160,8 +1143,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create arrays and objects using literals
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980)
+#### [Create arrays and objects using literals](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1169,7 +1151,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=6)** Likewise, it creates a new empty object using the object constructor.
 >
-> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=11)** This is perfectly valid JavaScript, but stylistically, these constructors are often not the best choice.
+> **[0:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=11)** This is perfectly valid [[JavaScript]], but stylistically, these constructors are often not the best choice.
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=18)** Because the array constructor accepts either a numeric argument for the number of elements or a comma separated list of values, there's a pitfall.
 >
@@ -1181,7 +1163,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=46)** For this reason, and for conciseness, most developers prefer to rely on the array literal, saving the constructor only for creating sparse arrays that need to include empty elements.
 >
-> **[0:57](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=57)** ESLint can flag this issue with the no-array-constructor rule.
+> **[0:57](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=57)** [[ESLint]] can flag this issue with the no-array-constructor rule.
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-best-practices-for-data/create-arrays-and-objects-using-literals?u=76281980&t=63)** So in my ESLint file, I'll add that.
 >
@@ -1211,20 +1193,19 @@ created: 2026-05-02
 > **Warnings:** pitfall (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quote object property names consistently
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980)
+#### [Quote object property names consistently](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=0)** - [Instructor] My sessions object contains session labels and names for the first few sessions at a conference.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=6)** The first key, plenary, is a single word and doesn't strictly need quoting in JavaScript, but the other two use hyphens in their names, which aren't valid property names unless you pass them as strings, so they're quoted here.
+> **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=6)** The first key, plenary, is a single [[Microsoft Word|word]] and doesn't strictly need quoting in [[JavaScript]], but the other two use hyphens in their names, which aren't valid property names unless you pass them as strings, so they're quoted here.
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=19)** I prefer to use quotes around property names only where needed.
 >
 > **[0:23](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=23)** The lack of quotes around the key that doesn't need them actually provides a bit of a performance edge in the parser, and it does keep the code less cluttered, especially when most keys don't need the quotes.
 >
-> **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=34)** ESLint supports LinkedIn property names style with the quote-props rule, to support quotes only where needed, you use the as-needed value.
+> **[0:34](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=34)** [[ESLint]] supports [[LinkedIn]] property names style with the quote-props rule, to support quotes only where needed, you use the as-needed value.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/quote-object-property-names-consistently?u=76281980&t=43)** So I'll update my ESLint RC file with quote props, and an array value with error and as dash needed.
 >
@@ -1242,8 +1223,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Assign values
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980)
+#### [Challenge: Assign values](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1239,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980&t=24)** Instead, focus on implementing strategies for assigning values to variables, that make better organized and predictable code.
 >
-> **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980&t=32)** Add rules as appropriate to .ESLint RC, to check for issues, as well as fixing those issues in the app.js file.
+> **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980&t=32)** Add rules as appropriate to .[[ESLint]] RC, to check for issues, as well as fixing those issues in the app.js file.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-assign-values?u=76281980&t=40)** This exercise should take you about 10 minutes.
 >
@@ -1267,15 +1247,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **CLI Commands:** make (2)
 > **File Paths:** app.js (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
 
-#### Solution: Assign values
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980)
+#### [Solution: Assign values](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=26)** I've even got some backticks at the bottom.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=30)** So over in my eslint file, I'm going to add a quotes rule, and the value there is error and single, which is what I'm standardizing on.
+> **[0:30](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=30)** So over in my [[ESLint]] file, I'm going to add a quotes rule, and the value there is error and single, which is what I'm standardizing on.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=44)** And then that's going to guide me to what I need to replace here.
 >
@@ -1305,7 +1284,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=56)** And now that's singles.
 >
-> **[0:58](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=58)** And again, it's going to leave my backticks alone, because it's okay for me to use template literals while still using another choice for the rest of my quotes.
+> **[0:58](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=58)** And again, it's going to leave my backticks alone, because it's okay for me to use template literals while still using another choice for the [[Representational State Transfer (REST)|rest]] of my quotes.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=69)** So I also want to make sure that I am using array literals and object literals.
 >
@@ -1315,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=91)** I'll save those.
 >
-> **[1:33](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=93)** And now in my JavaScript file, I've got an error for my new array statement and for my new object statement, so I'll convert those to literals.
+> **[1:33](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=93)** And now in my [[JavaScript]] file, I've got an error for my new array statement and for my new object statement, so I'll convert those to literals.
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=103)** Deleting, this is an array.
 >
@@ -1347,7 +1326,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=167)** Now my errors are gone and I've taken care of that multi-assignment issue.
 >
-> **[2:53](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=173)** Now I'm going to open up my HTML file and run that in my browser.
+> **[2:53](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=173)** Now I'm going to open up my [[HTML]] file and run that in my browser.
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-assign-values?u=76281980&t=180)** Open up my console.
 >
@@ -1372,8 +1351,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Type cast strings with the String wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980)
+#### [Type cast strings with the String wrapper](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1391,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980&t=118)** If you need to typecast something to a string, just use the string wrapper, and not toString, and not the new keyword with the string wrapper.
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980&t=128)** ESLint can check for the first issue I ran into which is the use of new with the wrapper and this rule applies not just to string, but to other primitive wrappers as well.
+> **[2:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980&t=128)** [[ESLint]] can check for the first issue I ran into which is the use of new with the wrapper and this rule applies not just to string, but to other primitive wrappers as well.
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-strings-with-the-string-wrapper?u=76281980&t=139)** In my eslintrc file, I'll add no-new-wrappers, with a value of error.
 >
@@ -1427,18 +1405,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[ESLint]] (3)
+> **Frameworks & Libraries:** [[ESLint]] (3)
 > **Code Identifiers:** tostring (4), foreach (1), formdata (1)
 > **Best Practices:** best practice (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type cast numbers with the Number wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980)
+#### [Type cast numbers with the Number wrapper](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=0)** - [Instructor] When you're working with data that needs to be a number, JavaScript offers a couple approaches to typecast to a number.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=0)** - [Instructor] When you're working with data that needs to be a number, [[JavaScript]] offers a couple approaches to typecast to a number.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=6)** But these approaches aren't equal.
 >
@@ -1446,7 +1423,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=18)** First, I'm using the new keyword and the Number wrapper, and then I'm using the Number wrapper all on its own.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=25)** Now I have some error squiggles on lines nine and 10 and that's because my ESLint already contains the no new wrappers rule.
+> **[0:25](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=25)** Now I have some error squiggles on lines nine and 10 and that's because my [[ESLint]] already contains the no new wrappers rule.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-numbers-with-the-number-wrapper?u=76281980&t=32)** So I can start off looking at that part with suspicion.
 >
@@ -1472,19 +1449,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JavaScript]] (1), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[ESLint]] (1)
 > **Code Identifiers:** foreach (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Type cast Booleans using double negation
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980)
+#### [Type cast Booleans using double negation](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980&t=0)** - [Instructor] When you're working with data that needs to be a Boolean, you can typecast it a few different ways.
 >
-> **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980&t=6)** As with typecasting in general in JavaScript, not all approaches are equal.
+> **[0:06](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980&t=6)** As with typecasting in general in [[JavaScript]], not all approaches are equal.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/type-cast-booleans-using-double-negation?u=76281980&t=10)** I have an array with three elements whose values are different data types, and I have a for each statement that loops through the array and uses three different methods to typecast.
 >
@@ -1526,12 +1502,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rely on implicit Boolean values in conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980)
+#### [Rely on implicit Boolean values in conditionals](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,13 +1522,13 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=39)** So this extra step of typecasting isn't necessary.
 >
-> **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=43)** ESLint has a rule to test for this, no-extra-boolean-cast.
+> **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=43)** [[ESLint]] has a rule to test for this, no-extra-boolean-cast.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=48)** It's enabled in the ESLint recommended rules, and by default it's flexible, watching only for Boolean typecasting when it's not necessary, but allowing it otherwise.
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=58)** I'll go to my eslintrc file and I'll add no-extra-boolean-cast with a value of error.
 >
-> **[1:09](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=69)** Saving that and moving back to my JavaScript file, and I have an error, the screen tip that mentions redundant double negation and the rule I just added.
+> **[1:09](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=69)** Saving that and moving back to my [[JavaScript]] file, and I have an error, the screen tip that mentions redundant double negation and the rule I just added.
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-best-practices-for-data/rely-on-implicit-boolean-values-in-conditionals?u=76281980&t=80)** I'll take out the double exclamation, and the error is gone.
 >
@@ -1565,15 +1540,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (2), [[JavaScript]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (2), [[JavaScript]] (2)
 > **Code Identifiers:** loggedin (4)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Type cast
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980)
+#### [Challenge: Type cast](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1591,7 +1565,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980&t=43)** In addition, the code works with Booleans a few times, and you should make sure that best practices are being implemented in all of these statements.
 >
-> **[0:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980&t=51)** Add rules as appropriate to dot ESLint RC to check for issues, as well as fixing those issues in the app.js file.
+> **[0:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980&t=51)** Add rules as appropriate to dot [[ESLint]] RC to check for issues, as well as fixing those issues in the app.js file.
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-type-cast?u=76281980&t=59)** This exercise should take you about 10 minutes.
 >
@@ -1599,15 +1573,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[ESLint]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Type cast
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-type-cast?u=76281980)
+#### [Solution: Type cast](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-type-cast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,7 +1636,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Code Identifiers:** tempf (3), tempc (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1677,12 +1649,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use triple-character equality operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980)
+#### [Use triple-character equality operators](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=0)** - I have an array of some falsy values in JavaScript and I've written code to log the results of comparing each one to the string zero and to the value undefined.
+> **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=0)** - I have an array of some falsy values in [[JavaScript]] and I've written code to log the results of comparing each one to the string zero and to the value undefined.
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=10)** My code uses the double equal sign to check for equality which is one of two ways to check for equality in JavaScript Running my code, I get statements logged for the comparisons that are equivalent.
 >
@@ -1692,7 +1663,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=35)** What?
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=36)** JavaScript has two different ways to compare equality, the algorithms in the parser for the double equal equality sign result in some unexpected equivalences.
+> **[0:36](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=36)** JavaScript has two different ways to compare equality, the [[Algorithms]] in the parser for the double equal equality sign result in some unexpected equivalences.
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=46)** For instance, false is equivalent to zero, zero as a string, an empty string, and an empty array, but not an empty object, as well as an array containing only the value zero.
 >
@@ -1714,7 +1685,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=103)** Using triple equal is a best practice for avoiding unexpected corner cases in your equality checks.
 >
-> **[1:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=111)** Now, of course ESLint can help us out, as with so many other things, with the entertainingly named eqeqeq rule.
+> **[1:51](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=111)** Now, of course [[ESLint]] can help us out, as with so many other things, with the entertainingly named eqeqeq rule.
 >
 > **[1:59](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-triple-character-equality-operators?u=76281980&t=119)** Notice that it also covers the bang equal equal rule, which is the preferred three character version of not equals The eqeqeq rule also flags use of a two character bang equal expression.
 >
@@ -1743,8 +1714,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
 
-#### Don't use Yoda conditions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980)
+#### [Don't use Yoda conditions](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1758,7 +1728,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=22)** But if the code looks funny to you, you're not alone.
 >
-> **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=24)** It's pretty standard in JavaScript to write the variable first, and then the literal value second in comparisons.
+> **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=24)** It's pretty standard in [[JavaScript]] to write the variable first, and then the literal value second in comparisons.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=31)** Flipping them around like I've done here is sometimes called a Yoda condition, in reference to the Star Wars character Yoda, who often reverses the order of his sentences.
 >
@@ -1766,7 +1736,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=46)** But for a human, it can take a moment to piece it together and recognize the comparison, because the opposite pattern is so common.
 >
-> **[0:53](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=53)** I prefer not to use Yoda conditions, and ESLint can flag those for me with the Yoda rule.
+> **[0:53](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=53)** I prefer not to use Yoda conditions, and [[ESLint]] can flag those for me with the Yoda rule.
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/don-t-use-yoda-conditions?u=76281980&t=60)** So, in my dot ESLint RC file, I'll add that in, and that's going to be Yoda and error.
 >
@@ -1786,12 +1756,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[ESLint]] (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare appropriately for the data type
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980)
+#### [Compare appropriately for the data type](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1805,7 +1774,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980&t=22)** In this case the value is a Boolean so simply checking the value makes sense.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980&t=27)** I could add double-negation before the value to insure I'm getting a Boolean, but when I know I'm working with a Boolean, that's redundant and I already have the no-extra-Boolean-cast rule set up in ESLint to flag that.
+> **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980&t=27)** I could add double-negation before the value to insure I'm getting a Boolean, but when I know I'm working with a Boolean, that's redundant and I already have the no-extra-Boolean-cast rule set up in [[ESLint]] to flag that.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-best-practices-for-data/compare-appropriately-for-the-data-type?u=76281980&t=40)** So I'll take those back out and leave line 10 as is.
 >
@@ -1837,7 +1806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -1845,8 +1814,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ternary statements judiciously
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980)
+#### [Use ternary statements judiciously](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1862,7 +1830,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980&t=37)** Because of the potential draw backs of ternary statements, it's important to use them only when necessary.
 >
-> **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980&t=43)** ESLint has a rule that flags ternaries that could easily be replaced.
+> **[0:43](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980&t=43)** [[ESLint]] has a rule that flags ternaries that could easily be replaced.
 >
 > **[0:48](https://www.linkedin.com/learning/javascript-best-practices-for-data/use-ternary-statements-judiciously?u=76281980&t=48)** It also has a rule that lets you flag nested ternaries for elimination.
 >
@@ -1902,15 +1870,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[ESLint]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **Warnings:** warning (6)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** doteslintrc (1), warningtext (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - my (1)
 
-#### Add parentheses to clarify logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980)
+#### [Add parentheses to clarify logic](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,7 +1889,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980&t=24)** That can make it hard to read, and every time I come to this line while debugging, I have to stop for a minute to remember just what it's doing.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980&t=31)** Both mathematical and logical operations in JavaScript have a specific order that the parser follows.
+> **[0:31](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980&t=31)** Both mathematical and logical operations in [[JavaScript]] have a specific order that the parser follows.
 >
 > **[0:37](https://www.linkedin.com/learning/javascript-best-practices-for-data/add-parentheses-to-clarify-logic?u=76281980&t=37)** For instance, this is the order of operations for a few common logical operators.
 >
@@ -1954,13 +1921,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Compare values
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980)
+#### [Challenge: Compare values](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1974,7 +1940,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980&t=20)** Your task is to update the code to make it easier to read and to follow best practices for comparisons.
 >
-> **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980&t=27)** Add rules as appropriate to .ESLint RC, to check for issues, as well as fixing those issues in the app.js file.
+> **[0:27](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980&t=27)** Add rules as appropriate to .[[ESLint]] RC, to check for issues, as well as fixing those issues in the app.js file.
 >
 > **[0:35](https://www.linkedin.com/learning/javascript-best-practices-for-data/challenge-compare-values?u=76281980&t=35)** Note that the code I've written is intentionally convoluted here and there.
 >
@@ -1986,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (1)
 > **File Paths:** app.js (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -1994,8 +1960,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat bouncy music) (1)
 
-#### Solution: Compare values
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980)
+#### [Solution: Compare values](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,7 +1970,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=46)** So, I'm going to start with the flow control up here.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=49)** Save that nice, gnarly ternary for a little bit later, and this is one of those places where I think putting the ESLint rules in place first can be really helpful, 'cause they can point out some of those errors, and I can just chip away error by error, issue by issue, and make things little by little better.
+> **[0:49](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=49)** Save that nice, gnarly ternary for a little bit later, and this is one of those places where I think putting the [[ESLint]] rules in place first can be really helpful, 'cause they can point out some of those errors, and I can just chip away error by error, issue by issue, and make things little by little better.
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=68)** So, switching over to my eslintrc, I'm going to start by adding that triple equality rule, eqeqeq with a value of error, and that will flag for me if I've got that going on anywhere, and I do, I have one.
 >
@@ -2159,7 +2124,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=540)** I don't have a ternary that is just assigning true and false.
 >
-> **[9:03](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=543)** It' a whole lot easier to read, and there's definitely optimization I can do in all of this control flow here.
+> **[9:03](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=543)** It' a whole lot easier to read, and there's definitely optimization I can do in all of this [[Control Flow]] here.
 >
 > **[9:11](https://www.linkedin.com/learning/javascript-best-practices-for-data/solution-compare-values?u=76281980&t=551)** This may not even need to be two separate sections, and it could probably be boiled down a whole lot.
 >
@@ -2171,7 +2136,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (1), data (1), [[Control Flow]] (1), next (1)
+> **Frameworks & Libraries:** [[ESLint]] (1), [[Control Flow]] (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** specialship (2), subtotal (1), shipexception (1)
 > **Definitions:** is a  (4)
@@ -2184,16 +2149,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=0)** - [Sasha] Thanks so much for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=3)** You now have experience implementing best practices for working with data in JavaScript.
+> **[0:03](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=3)** You now have experience implementing best practices for working with data in [[JavaScript]].
 >
-> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=7)** To dig deeper into automating code linting for JavaScript, check here in our library for a course on ESLint.
+> **[0:07](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=7)** To dig deeper into automating code linting for JavaScript, check here in our library for a course on [[ESLint]].
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-best-practices-for-data/next-steps?u=76281980&t=14)** If you want to write better formatted JavaScript code, try a course on [[Javascript Best Practices For Code Formatting]].
 >
@@ -2207,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (5), data (1), [[ESLint]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (5), [[ESLint]] (1)
 > **Speakers:** - [sasha] (1)
 
 

@@ -87,24 +87,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Excel's tools for corporate finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980)
+#### [Excel's tools for corporate finance](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=0)** - Did you know that almost every important question in life can be answered with finance or at least with corporate finance techniques?
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=0)** - Did you know that almost every important question in life can be answered with finance or at least with [[Corporate Finance]] techniques?
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=8)** From whether to buy or lease a car, to what to study in college, or even who you should marry?
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=13)** The decision tools that we use in finance can be extrapolated to every area of life.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=18)** Now, don't worry, this is not a dating and marriage course, but it is a course about how you can use decision tools and Excel to help firms make key choices in corporate finance.
+> **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=18)** Now, don't worry, this is not a dating and marriage course, but it is a course about how you can use decision tools and [[Microsoft Excel|Excel]] to help firms make key choices in corporate finance.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=30)** I'm Dr. Michael McDonald.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=31)** Whatever your job or role, I want to help you learn how to use Excel to make corporate investment decisions, optimize capital structure, do projection models and more.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=43)** If you're ready to jump in and learn how to use Excel for corporate finance work, then please join me here on LinkedIn Learning.
+> **[0:43](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/excel-s-tools-for-corporate-finance?u=76281980&t=43)** If you're ready to jump in and learn how to use Excel for corporate finance work, then please join me here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
@@ -118,12 +117,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describe corporate finance and its purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980)
+#### [Describe corporate finance and its purpose](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=0)** - [Narrator] So what exactly is corporate finance?
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=0)** - [Narrator] So what exactly is [[Corporate Finance]]?
 >
 > **[0:03](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=3)** Well, really, in finance as a whole, there's sort of two sides to this, the field or the subject, right?
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=58)** Do we have enough financial flexibility for the firm?
 >
-> **[1:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=61)** What's the appropriate price that we should be setting for our products?
+> **[1:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=61)** What's the appropriate price that we should be setting for our [[Microsoft Products|products]]?
 >
 > **[1:04](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=64)** Things like that.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=77)** First would be understanding the different profitability levers that the company has at its disposal, right?
 >
-> **[1:23](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=83)** Certainly, accountants put together the financial statements, but in corporate finance, we're often tasked with examining the financials for the firm and trying to make sure that we're optimizing the company's operations so that we maximize the level of profit the company's producing, right?
+> **[1:23](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=83)** Certainly, accountants put together the [[Financial Statements]], but in corporate finance, we're often tasked with examining the financials for the firm and trying to make sure that we're optimizing the company's operations so that we maximize the level of profit the company's producing, right?
 >
 > **[1:40](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=100)** This could mean adjusting price, volume, trying to understand where our financial ratios are, making changes to our capital structure, things of that nature.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=128)** So, in corporate finance work, we're doing a variety of different types of budgeting and planning.
 >
-> **[2:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=134)** This means short-term forecasting, like over the next few quarters as an example, but it also means annual budgets, and it means helping to develop the strategic multi-year plan the company is going to try to implement going forward.
+> **[2:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=134)** This means short-term [[Forecasting]], like over the next few quarters as an example, but it also means annual budgets, and it means helping to develop the strategic multi-year plan the company is going to try to implement going forward.
 >
 > **[2:29](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-corporate-finance-and-its-purpose?u=76281980&t=149)** How are we going to grow the business over time, right?
 >
@@ -201,22 +199,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (15), business (5), next (2), management (2), product (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (15), [[Microsoft Products|Products]] (1), [[Financial Statements]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explore project selection in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980)
+#### [Explore project selection in finance](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=0)** - [Instructor] One big task in the area of corporate finance and something that we'll be exploring throughout part of this course, is what's called project selection.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=0)** - [Instructor] One big task in the area of [[Corporate Finance]] and something that we'll be exploring throughout part of this course, is what's called project selection.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=8)** Now, project selection is the most visible part of corporate finance.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=12)** It's really the area that touches all of the rest of the business overall.
+> **[0:12](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=12)** It's really the area that touches all of the [[Representational State Transfer (REST)|rest]] of the business overall.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=17)** What project selection essentially does is help with making investment decisions for the firm.
 >
@@ -256,7 +253,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=143)** Another complication that can come up that we have to consider is whether particular investments are mutually exclusive or not.
 >
-> **[2:29](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=149)** For example, if we have a piece of land, well, we can put an apartment building on that piece of land or we could put an office building on that piece of land.
+> **[2:29](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=149)** For example, if we have a piece of land, well, we can put an apartment building on that piece of land or we could put an [[Microsoft Office|office]] building on that piece of land.
 >
 > **[2:38](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=158)** We can't do both.
 >
@@ -276,22 +273,21 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=213)** It's pretty simple to calculate, but net present value and IRR are both mathematical measures that are going to require us to do cashflow projections over time, assign an appropriate discount rate and then make a decision based on the relationship between those cash flows and the upfront investment cost as it relates to that discount rate.
 >
-> **[3:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=237)** Excel makes it very easy to do these types of calculations and we'll look at that in a subsequent video.
+> **[3:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explore-project-selection-in-finance?u=76281980&t=237)** [[Microsoft Excel|Excel]] makes it very easy to do these types of calculations and we'll look at that in a subsequent video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Corporate Finance]] (2), business (2), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Corporate Finance]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** irr (2), pbp (2), npv (1)
 > **Analogies:** for example (4), picture (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explain the weighted average cost of capital and capital structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explain-the-weighted-average-cost-of-capital-and-capital-structure?u=76281980)
+#### [Explain the weighted average cost of capital and capital structure](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explain-the-weighted-average-cost-of-capital-and-capital-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explain-the-weighted-average-cost-of-capital-and-capital-structure?u=76281980&t=0)** - [Instructor] Another key task that we're often asked to do in a corporate finance role is to evaluate a company's capital structure and its weighted average cost of capital.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explain-the-weighted-average-cost-of-capital-and-capital-structure?u=76281980&t=0)** - [Instructor] Another key task that we're often asked to do in a [[Corporate Finance]] role is to evaluate a company's capital structure and its weighted average cost of capital.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/explain-the-weighted-average-cost-of-capital-and-capital-structure?u=76281980&t=10)** Now, weighted average cost of capital or WACC is simply the the rate that we have to pay for funding at the company.
 >
@@ -411,12 +407,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimate cash flows in budgeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980)
+#### [Estimate cash flows in budgeting](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=0)** - [Instructor] Corporate finance is not just concerned with big picture issues like WACC, and capital structure, and project selection though.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=0)** - [Instructor] [[Corporate Finance]] is not just concerned with big picture issues like WACC, and capital structure, and project selection though.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=7)** Corporate finance roles often entail a good deal of work in budgeting and planning for a firm.
 >
@@ -428,13 +423,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=35)** Now we think about cash flows and budgeting.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=37)** One key element in this is our forecasting.
+> **[0:37](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=37)** One key element in this is our [[Forecasting]].
 >
 > **[0:41](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=41)** We've got to make effective forecasts in order to understand the financial resources the company is going to have to operate with going forward.
 >
 > **[0:49](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=49)** This means in turn that we have to look at the market share for the firm.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=54)** We have to look at what we think the effective price will be for the company's products, and we have to look at what we think our cost structure is going to look like, and we've got to do all of that on a forward-looking basis.
+> **[0:54](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=54)** We have to look at what we think the effective price will be for the company's [[Microsoft Products|products]], and we have to look at what we think our cost structure is going to look like, and we've got to do all of that on a forward-looking basis.
 >
 > **[1:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-cash-flows-in-budgeting?u=76281980&t=66)** Now, estimating these variables going forward is not easy.
 >
@@ -472,19 +467,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Microsoft Products|Products]] (2), business (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Microsoft Products|Products]] (2), [[Forecasting]] (1)
 > **Env Vars:** cagr (7), wacc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Financial ratios and Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980)
+#### [Financial ratios and Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=0)** - [Instructor] Financial ratios are a key tool that's widely used in corporate finance, so it's something that's important to understand.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=0)** - [Instructor] Financial ratios are a key tool that's widely used in [[Corporate Finance]], so it's something that's important to understand.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=7)** Now, in general, financial ratios fall into kind of four major categories.
 >
@@ -492,7 +486,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=18)** And each of these different types of ratios gives us different information and does something different.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=25)** In a nutshell though, all ratios are going to use various pieces of information from the financial statements to establish relationships between different elements in the business.
+> **[0:25](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=25)** In a nutshell though, all ratios are going to use various pieces of information from the [[Financial Statements]] to establish relationships between different elements in the business.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=37)** For example, activity ratios allow us to go through and examine how effectively assets are being used by the firm.
 >
@@ -508,7 +502,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=95)** So different ratios answer different questions.
 >
-> **[1:39](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=99)** Now, in general, ratio analysis is very helpful for analyzing the financial position of any firm that's out there, right?
+> **[1:39](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=99)** Now, in general, [[Ratio Analysis]] is very helpful for analyzing the financial position of any firm that's out there, right?
 >
 > **[1:47](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=107)** Ratios let us examine a company against itself over time, or compare a company to other companies.
 >
@@ -530,7 +524,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=153)** They can be used by managers to identify areas of strengths and weaknesses for the firm as a whole.
 >
-> **[2:40](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=160)** So ratios have a lot of value for us, and Excel is a very easy and effective way to calculate and monitor our ratios over time.
+> **[2:40](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=160)** So ratios have a lot of value for us, and [[Microsoft Excel|Excel]] is a very easy and effective way to calculate and monitor our ratios over time.
 >
 > **[2:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=171)** Now, there's a number of best practices that we should note here.
 >
@@ -554,7 +548,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=233)** Don't try to use a ratio in isolation.
 >
-> **[3:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=237)** Finally, we can use ratios effectively for forecasting.
+> **[3:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=237)** Finally, we can use ratios effectively for [[Forecasting]].
 >
 > **[4:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/financial-ratios-and-excel?u=76281980&t=241)** For example, it's very common to forecast costs based on some sort of ratio.
 >
@@ -572,19 +566,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Forecasting]] (2), [[Corporate Finance]] (1), [[Financial Statements]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Forecasting]] (2), [[Corporate Finance]] (1), [[Financial Statements]] (1), [[Ratio Analysis]] (1)
 > **Analogies:** for example (3), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** cogs (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Valuation tools and Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980)
+#### [Valuation tools and Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=0)** - [Instructor] Oftentimes, in corporate finance, we'll be called upon to do a valuation of an asset or a particular investment the company might be considering.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=0)** - [Instructor] Oftentimes, in [[Corporate Finance]], we'll be called upon to do a valuation of an asset or a particular investment the company might be considering.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=9)** Now when we look at valuation and how we can do this with corporate finance, it always comes down to estimating our expected future cash flows.
 >
@@ -620,7 +613,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=139)** So my advice is generally to use scenarios here.
 >
-> **[2:22](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=142)** Think about, okay, what's the probability of cash flows of X?
+> **[2:22](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=142)** Think about, okay, what's the [[Probability]] of cash flows of X?
 >
 > **[2:27](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=147)** What's the probability of cash flows of Y?
 >
@@ -660,7 +653,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=264)** Now the other point to be aware of is that small changes in discount rates can have a big impact on valuation.
 >
-> **[4:31](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=271)** We'll see that later on as we start getting into some of the financial modeling.
+> **[4:31](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=271)** We'll see that later on as we start getting into some of the [[Financial Modeling]].
 >
 > **[4:35](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=275)** But making even a small change to your discount rate can have a major impact on the value of the asset.
 >
@@ -692,28 +685,27 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=384)** So we can still do valuation on options in corporate finance, it's just harder to do and it's going to require the use of probabilities.
 >
-> **[6:33](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=393)** In any event, that is the valuation approach that we'll use in corporate finance in a nutshell, and this'll be important later on as we start getting into our Excel modeling.
+> **[6:33](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-tools-and-excel?u=76281980&t=393)** In any event, that is the valuation approach that we'll use in corporate finance in a nutshell, and this'll be important later on as we start getting into our [[Microsoft Excel|Excel]] modeling.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Probability]] (3), product (2), business (2), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (5), [[Probability]] (3), [[Financial Modeling]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build scenarios and stress tests in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980)
+#### [Build scenarios and stress tests in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=0)** - [Instructor] Corporate finance inherently is all about building models to help us understand what's going on with the business and what type of operational changes we should make.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=0)** - [Instructor] [[Corporate Finance]] inherently is all about building models to help us understand what's going on with the business and what type of operational changes we should make.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=9)** So let's look at what's probably a pretty standard and fairly straightforward corporate finance model.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=15)** I'm in the 0107 Excel file.
+> **[0:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=15)** I'm in the 0107 [[Microsoft Excel|Excel]] file.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=19)** Now, what we have here is a fairly straightforward financial model, and this is a projection for a single store that's selling services and products right now.
+> **[0:19](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=19)** Now, what we have here is a fairly straightforward financial model, and this is a projection for a single store that's selling services and [[Microsoft Products|products]] right now.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-scenarios-and-stress-tests-in-excel?u=76281980&t=30)** This is kind of a generic example but basically what you see is we've got sales for both services and product broken out by month throughout the year, and then our full year values.
 >
@@ -773,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (3), [[Corporate Finance]] (2), business (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Corporate Finance]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (4)
 > **Versions:** 0.46 (1), 0.53 (1), 16.2 (1)
 > **CLI Commands:** make (1)
@@ -785,12 +777,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define a capital budgeting scenario in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980)
+#### [Define a capital budgeting scenario in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=0)** - [Instructor] Now, one of the most common tasks that you'll be asked to do in a corporate finance role is to go through and build a financial model.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=0)** - [Instructor] Now, one of the most common tasks that you'll be asked to do in a [[Corporate Finance]] role is to go through and build a financial model.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=6)** So I want to start by having us build a fairly basic and simple financial model, just for a simple kind of business.
 >
@@ -870,7 +861,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=289)** Now, I've done this for January already, and you'll notice that I've anchored ourselves.
 >
-> **[4:55](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=295)** What that means is we can go ahead and we can take this all the way down the column and that'll fill in the rest of the year.
+> **[4:55](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=295)** What that means is we can go ahead and we can take this all the way down the column and that'll fill in the [[Representational State Transfer (REST)|rest]] of the year.
 >
 > **[5:05](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/define-a-capital-budgeting-scenario-in-excel?u=76281980&t=305)** Now, from here, we need to go through and make an adjustment, all right?
 >
@@ -938,15 +929,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Corporate Finance]] (1), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Corporate Finance]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** i20 (2), i25 (1)
 > **Definitions:** is a  (3)
 > **Versions:** 3.5 (1), 4.25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build out a series of capital budgeting scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980)
+#### [Build out a series of capital budgeting scenarios](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -954,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980&t=9)** Let's take a look at an example of how we do one of these models in a simple scenario.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980&t=14)** I'm in the 02_02_Begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980&t=14)** I'm in the 02_02_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-series-of-capital-budgeting-scenarios?u=76281980&t=18)** Now what we've got here is a simple set of revenues and costs that we've built out for a vacation property, or I should say a vacation property/student rental.
 >
@@ -1132,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **CLI Commands:** make (7)
 > **Versions:** 015.05 (2), 1.04 (1), 7.6 (1), 7.658 (1), 325.52 (1)
 > **Env Vars:** dcf (2), k14 (1), pmt (1)
@@ -1140,8 +1130,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform NPV tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980)
+#### [Perform NPV tests](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1153,7 +1142,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980&t=14)** Let's take a look at an example.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980&t=16)** I'm in the 02_03_Begin Excel file.
+> **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980&t=16)** I'm in the 02_03_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-npv-tests?u=76281980&t=20)** Now, we have here our beach house with a series of revenues and costs over time, and we're renting this out, and we've got the cash flow that we generate in year one, and then we've forecasted what those cash flows will look like over a long period of time, the next 60 years.
 >
@@ -1275,7 +1264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** npv (7), wac (5)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** xnpv (2)
@@ -1284,8 +1273,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform IRR tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980)
+#### [Perform IRR tests](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1293,7 +1281,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=12)** Let's take a look at an example of how this works.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=16)** I'm in the 02_04_Begin Excel file.
+> **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=16)** I'm in the 02_04_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=19)** Now, we've gone through and we've done our net present value test based on a series of cash flows for a vacation house we're interested in investing in, but the net present value tells us that essentially, we're going to earn an increase in our wealth or a profit on this investment in some sense of $83,059.59.
 >
@@ -1347,7 +1335,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=218)** It's not great, but maybe we can go through, and maybe we can make some adjustments to our assumptions.
 >
-> **[3:45](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=225)** Now, we wouldn't want to make adjustments to the assumptions just to justify the IRR, but if our outlook improves, if we feel good about, say, the student rental market and we think we can get $1100 instead of $1000 per bedroom, we can update that.
+> **[3:45](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=225)** Now, we wouldn't want to make adjustments to the assumptions just to justify the IRR, but if our [[Microsoft Outlook|outlook]] improves, if we feel good about, say, the student rental market and we think we can get $1100 instead of $1000 per bedroom, we can update that.
 >
 > **[4:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-irr-tests?u=76281980&t=241)** And you'll notice that because I've linked everything together in my model, it all changes dynamically, right?
 >
@@ -1391,7 +1379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), cd (1), hit (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** irr (20), npv (8)
 > **CLI Commands:** make (9), cd (1)
 > **Versions:** 059.59 (1), 0.1 (1), 6.29 (1)
@@ -1400,14 +1388,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform PBP and MIRR tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980)
+#### [Perform PBP and MIRR tests](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980&t=0)** - [Instructor] As I alluded to previously, there are various issues that come up with IRR, especially around reinvestments.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980&t=7)** Fortunately, Excel has a way to work around this and it's what's called modified IRR or MIRR.
+> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980&t=7)** Fortunately, [[Microsoft Excel|Excel]] has a way to work around this and it's what's called modified IRR or MIRR.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/perform-pbp-and-mirr-tests?u=76281980&t=15)** Let's take a look at an example.
 >
@@ -1513,12 +1500,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Scenario analysis in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/scenario-analysis-in-excel?u=76281980)
+#### [Scenario analysis in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/scenario-analysis-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/scenario-analysis-in-excel?u=76281980&t=0)** - [Instructor] One of the great things about Excel is that it lets us go through and construct a variety of different scenarios for a financial model we are building.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/scenario-analysis-in-excel?u=76281980&t=0)** - [Instructor] One of the great things about [[Microsoft Excel|Excel]] is that it lets us go through and construct a variety of different scenarios for a financial model we are building.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/scenario-analysis-in-excel?u=76281980&t=8)** Let's take a look at an example.
 >
@@ -1594,19 +1580,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), for instance (1)
 > **Env Vars:** i26 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### NPV and scenario analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/npv-and-scenario-analysis?u=76281980)
+#### [NPV and scenario analysis](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/npv-and-scenario-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/npv-and-scenario-analysis?u=76281980&t=0)** - [Instructor] When we do scenario analysis in Excel, oftentimes we want to look at a single key variable in order to make a decision and see whether or not a particular investment makes sense.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/npv-and-scenario-analysis?u=76281980&t=0)** - [Instructor] When we do scenario analysis in [[Microsoft Excel|Excel]], oftentimes we want to look at a single key variable in order to make a decision and see whether or not a particular investment makes sense.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/npv-and-scenario-analysis?u=76281980&t=9)** Let's take a look at an example.
 >
@@ -1674,18 +1659,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (7)
 > **Env Vars:** npv (3), irr (1), mirr (1), i20 (1), kpi (1)
 > **Versions:** 4.25 (1), 936.19 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluate Excel models for accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/evaluate-excel-models-for-accuracy?u=76281980)
+#### [Evaluate Excel models for accuracy](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/evaluate-excel-models-for-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/evaluate-excel-models-for-accuracy?u=76281980&t=0)** - [Instructor] When we're doing analysis in Excel we often want to go through and evaluate our assumptions and try and stress test them.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/evaluate-excel-models-for-accuracy?u=76281980&t=0)** - [Instructor] When we're doing analysis in [[Microsoft Excel|Excel]] we often want to go through and evaluate our assumptions and try and stress test them.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/evaluate-excel-models-for-accuracy?u=76281980&t=6)** See what happens if we're wrong about the assumptions that we're making Excel is great for that.
 >
@@ -1787,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), hit (3), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8)
 > **CLI Commands:** make (6)
 > **Env Vars:** e13 (2), i17 (1), npv (1)
 > **Versions:** 3.49 (1), 928.19 (1)
@@ -1798,14 +1782,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capital structure in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980)
+#### [Capital structure in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980&t=0)** - [Instructor] One of the most important concepts in corporate finance is the concept of WACC or the weighted average cost to capital.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980&t=0)** - [Instructor] One of the most important concepts in [[Corporate Finance]] is the concept of WACC or the weighted average cost to capital.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980&t=7)** Excel can be very useful for calculating WACC.
+> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980&t=7)** [[Microsoft Excel|Excel]] can be very useful for calculating WACC.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/capital-structure-in-excel?u=76281980&t=10)** Let's take a look at how we start this process.
 >
@@ -1881,21 +1864,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (2), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Corporate Finance]] (1)
 > **Env Vars:** aaa (5), wacc (3), bbb (1)
 > **Versions:** 5.47 (1), 10.25 (1), 14.25 (1), 4.1 (1)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Describe the concept of WACC
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980)
+#### [Describe the concept of WACC](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=0)** - [Instructor] In many corporate finance models, we're going to need to calculate what we refer to as a WACC, or weighted average cost of capital.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=0)** - [Instructor] In many [[Corporate Finance]] models, we're going to need to calculate what we refer to as a WACC, or weighted average cost of capital.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=7)** We can do this easily and effectively with Excel.
+> **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=7)** We can do this easily and effectively with [[Microsoft Excel|Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=10)** Let's take a look.
 >
@@ -1939,7 +1921,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=138)** Well, all of a sudden, this WACC then starts to take on a whole new level of significance.
 >
-> **[2:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=144)** All of our investments that we make as part of the firm, investing in opening new stores, marketing initiatives, rolling out new products, R and D, whatever, they all have to have a rate of return in excess of this WACC.
+> **[2:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=144)** All of our investments that we make as part of the firm, investing in opening new stores, marketing initiatives, rolling out new [[Microsoft Products|products]], R and D, whatever, they all have to have a rate of return in excess of this WACC.
 >
 > **[2:41](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/describe-the-concept-of-wacc?u=76281980&t=161)** So essentially, WACC becomes kind of a guiding signpost for how we're going to make decisions, at least at the high level for the firm itself.
 >
@@ -1963,15 +1945,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Corporate Finance]] (1), cd (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Corporate Finance]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** wacc (10)
 > **CLI Commands:** make (4), cd (1)
 > **Versions:** 0.5 (2), 7.18 (1), 11.63 (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build out a set of capital structure options in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980)
+#### [Build out a set of capital structure options in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1981,7 +1962,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980&t=18)** Let's take a look at an example.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980&t=20)** I'm in the 0303 Begin Excel sheet.
+> **[0:20](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980&t=20)** I'm in the 0303 Begin [[Microsoft Excel|Excel]] sheet.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-out-a-set-of-capital-structure-options-in-excel?u=76281980&t=25)** Now, what we have here is a firm or set of firms really, with different levels of risk from AAA to single B.
 >
@@ -2157,7 +2138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** wacc (17), aaa (7), ebit (2), c14 (1), c15 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 4.1 (1)
@@ -2166,8 +2147,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstrate changes in capital structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980)
+#### [Demonstrate changes in capital structure](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,7 +2155,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980&t=12)** Let's take a look at an example.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980&t=14)** I'm in the 0304 Begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980&t=14)** I'm in the 0304 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-changes-in-capital-structure?u=76281980&t=17)** Now, what we have here are series of four corporate actions.
 >
@@ -2279,14 +2259,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Versions:** 9.5 (3), 90.5 (1), 88.5 (1), 11.5 (1), 10.25 (1)
 > **Env Vars:** wac (4), c14 (2), c15 (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimate WACC in Excel for a capital structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980)
+#### [Estimate WACC in Excel for a capital structure](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2298,7 +2277,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980&t=25)** Let's take a look at some of the analysis we can do around this.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980&t=28)** I'm in the 03 05 Begin Excel file.
+> **[0:28](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980&t=28)** I'm in the 03 05 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimate-wacc-in-excel-for-a-capital-structure?u=76281980&t=32)** Now what we have here is a firm with, or I should say, a set of firms with different levels of risk, right, from triple A to single B, and the associated costs of debt and cost of equity under those conditions.
 >
@@ -2432,8 +2411,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), picture (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Show sensitivity of WACC to changes in capital structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980)
+#### [Show sensitivity of WACC to changes in capital structure](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2445,7 +2423,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=16)** Let's take a look at one of these nuances.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=18)** I'm in the 0306 Begin Excel file.
+> **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=18)** I'm in the 0306 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=22)** Now, what we've done so far is simply look at cost of debt and cost of equity.
 >
@@ -2459,7 +2437,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=49)** Well, beta is simply a measure for risk inequities.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=53)** In other words, it measures how risky a particular stock is compared to the rest of the market.
+> **[0:53](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=53)** In other words, it measures how risky a particular stock is compared to the [[Representational State Transfer (REST)|rest]] of the market.
 >
 > **[1:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/show-sensitivity-of-wacc-to-changes-in-capital-structure?u=76281980&t=60)** Specifically and more precisely, beta's the covariance between a stock and the market as a whole.
 >
@@ -2555,12 +2533,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine optimal WACC
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980)
+#### [Determine optimal WACC](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=0)** - [Instructor] One of the great things about Excel is that it allows us to model hypothetical future scenarios to decide how we would respond or what we would do in those kinds of situations.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=0)** - [Instructor] One of the great things about [[Microsoft Excel|Excel]] is that it allows us to model hypothetical future scenarios to decide how we would respond or what we would do in those kinds of situations.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=11)** Let's take a look at an example of how we can do this.
 >
@@ -2610,7 +2587,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=169)** Now, everything was okay, we modeled 200 million in downside EBIT, but we probably want to think about different scenarios that might have different levels of minimum EBIT, right?
 >
-> **[3:02](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=182)** Maybe we think there's at least a 90% probability.
+> **[3:02](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=182)** Maybe we think there's at least a 90% [[Probability]].
 >
 > **[3:04](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-optimal-wacc?u=76281980&t=184)** We'll always have a minimum $0 EBIT.
 >
@@ -2671,8 +2648,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjusting WACC for risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980)
+#### [Adjusting WACC for risk](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2684,7 +2660,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980&t=23)** In contrast maybe a cost cutting program, for example, or upgrading certain energy saving appliances or something like that might be a very safe project and less risky and have a lower WACC than for the firm as a whole.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980&t=38)** We can model all of this using Excel.
+> **[0:38](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980&t=38)** We can model all of this using [[Microsoft Excel|Excel]].
 >
 > **[0:41](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/adjusting-wacc-for-risk?u=76281980&t=41)** I'm the 03_08_Begin Excel file.
 >
@@ -2766,7 +2742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), product (1), data (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **Env Vars:** wacc (10), irr (2), e10 (1)
 > **Versions:** 8.8 (2), 9.5 (1), 5.5 (1), 1.1 (1), 8.76 (1)
 > **Analogies:** for example (3)
@@ -2779,14 +2755,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce operational budgeting in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980)
+#### [Introduce operational budgeting in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=0)** - [Instructor] Excel is a great tool for what's called operational budgeting.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is a great tool for what's called operational budgeting.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=5)** Now, essentially we talk about different firms, there's really two types of financial forecasting that has to be done.
+> **[0:05](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=5)** Now, essentially we talk about different firms, there's really two types of [[Financial Forecasting]] that has to be done.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=11)** We have long-term financial forecasting and planning and then short-term financial forecasting and planning.
 >
@@ -2814,7 +2789,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=72)** And then how is that going to impact the firm?
 >
-> **[1:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=75)** So we're doing things like going through and forecasting the detailed level, financials the firm will face.
+> **[1:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=75)** So we're doing things like going through and [[Forecasting]] the detailed level, financials the firm will face.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/introduce-operational-budgeting-in-excel?u=76281980&t=81)** What do sales look like?
 >
@@ -2866,19 +2841,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Forecasting]] (3), business (3), [[Microsoft Excel|Excel]] (2), next (2), product (2)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (3), [[Microsoft Excel|Excel]] (2), [[Forecasting]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstrate building a budget in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980)
+#### [Demonstrate building a budget in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=0)** - [Instructor] Okay, so what we're going to do is look at how we can use Excel to go through and build a relatively simple forecasting budget for a company with a couple of products.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=0)** - [Instructor] Okay, so what we're going to do is look at how we can use [[Microsoft Excel|Excel]] to go through and build a relatively simple [[Forecasting]] budget for a company with a couple of [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=10)** I'm in the 04_02_Begin Excel file.
 >
@@ -2972,7 +2946,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=309)** But the nice thing about doing this with Excel, and if I've done this correctly, is I can just apply that right down to product 2, and I could apply it to as many other products as I wanted.
 >
-> **[5:21](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=321)** And having set up the formula the way I did, I could also go through and apply this for the rest of the year if I wanted to, for example, right?
+> **[5:21](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=321)** And having set up the formula the way I did, I could also go through and apply this for the [[Representational State Transfer (REST)|rest]] of the year if I wanted to, for example, right?
 >
 > **[5:28](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/demonstrate-building-a-budget-in-excel?u=76281980&t=328)** So I could go through and figure out what I'm forecasting for Q3 and Q4 as well.
 >
@@ -2988,7 +2962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Products|Products]] (5), product (5), [[Forecasting]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Products|Products]] (5), [[Forecasting]] (2), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** ebit (4), ebt (2), cogs (1), cagr (1)
 > **Versions:** 1.2 (3), 1.98 (2), 5.2 (1)
 > **CLI Commands:** make (5)
@@ -2997,12 +2971,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** set up (1)
 
-#### Add CAGRs to Excel for long-term assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980)
+#### [Add CAGRs to Excel for long-term assumptions](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=0)** - [Instructor] Excel can allow us to go through and build out comprehensive financial models for either short-term or long-term projections.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] can allow us to go through and build out comprehensive financial models for either short-term or long-term projections.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=7)** Let's take a look at an example.
 >
@@ -3070,7 +3043,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=166)** And you'll see the addition to retained earnings changes as a result of that seasonal effect.
 >
-> **[2:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=171)** So if we've successfully built out these formulas correctly, we can just drag this right across and fill in the rest of the year, but we're going to have to make a couple of minor changes as we do, right?
+> **[2:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=171)** So if we've successfully built out these formulas correctly, we can just drag this right across and fill in the [[Representational State Transfer (REST)|rest]] of the year, but we're going to have to make a couple of minor changes as we do, right?
 >
 > **[3:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/add-cagrs-to-excel-for-long-term-assumptions?u=76281980&t=186)** In particular, what's going to be different here?
 >
@@ -3122,7 +3095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Excel|Excel]] (5), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** cagr (3), cogs (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2)
@@ -3130,12 +3103,11 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build percent of sales assumptions for expense
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980)
+#### [Build percent of sales assumptions for expense](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=0)** - [Instructor] As I've alluded to previously, Excel is a great tool for going through and doing cash budgeting for a business to make sure that we're operating within the constraints that we face.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=0)** - [Instructor] As I've alluded to previously, [[Microsoft Excel|Excel]] is a great tool for going through and doing cash budgeting for a business to make sure that we're operating within the constraints that we face.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=10)** Let's take a look at how we can do this in practice.
 >
@@ -3145,7 +3117,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=22)** We've taken into account various seasonal effects and then we've made some assumptions about the business as a whole to help us to kind of derive the numbers in this particular income statement.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=34)** Now, from here, we might want to go through and start doing a little bit of cash flow forecasting just to make sure that we're not going to run out of cash along the way.
+> **[0:34](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=34)** Now, from here, we might want to go through and start doing a little bit of cash flow [[Forecasting]] just to make sure that we're not going to run out of cash along the way.
 >
 > **[0:42](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/build-percent-of-sales-assumptions-for-expense?u=76281980&t=42)** So we'll assume that we're going to start with a million dollars in working capital on the balance sheet.
 >
@@ -3257,18 +3229,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), business (2), next (2), [[Forecasting]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forecasting]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2), in other words (1)
 > **Versions:** 1.734 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Link budget to pricing and sales assumptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980)
+#### [Link budget to pricing and sales assumptions](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=0)** - [Instructor] When you start talking about budgeting and using Excel for a variety of forecasting techniques, this always leads to an important topic that I call the power of price.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=0)** - [Instructor] When you start talking about budgeting and using [[Microsoft Excel|Excel]] for a variety of [[Forecasting]] techniques, this always leads to an important topic that I call the power of price.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=11)** Now, for most businesses, there's an inherent trade-off between price or volume, right?
 >
@@ -3356,22 +3327,21 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=280)** Price flows directly to the bottom line, whereas incremental volume is still offset by our variable cost.
 >
-> **[4:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=291)** Keep this in mind as you're doing financial models because it'll help you to understand the choices that you might want to make as you do any kind of financial planning and analysis for a corporate finance entity.
+> **[4:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/link-budget-to-pricing-and-sales-assumptions?u=76281980&t=291)** Keep this in mind as you're doing financial models because it'll help you to understand the choices that you might want to make as you do any kind of [[Financial Planning]] and analysis for a [[Corporate Finance]] entity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Forecasting]] (1), [[Financial Planning]] (1), [[Corporate Finance]] (1)
 > **Versions:** 4.50 (2), 1.50 (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provide stress test tools for budgets in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/provide-stress-test-tools-for-budgets-in-excel?u=76281980)
+#### [Provide stress test tools for budgets in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/provide-stress-test-tools-for-budgets-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/provide-stress-test-tools-for-budgets-in-excel?u=76281980&t=0)** - [Instructor] Excel is a great tool for doing a variety of types of scenario analysis.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/provide-stress-test-tools-for-budgets-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] is a great tool for doing a variety of types of scenario analysis.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/provide-stress-test-tools-for-budgets-in-excel?u=76281980&t=4)** And this is certainly true when we think about doing any kind of cash budgeting using Excel.
 >
@@ -3443,16 +3413,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Valuation of assets in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980)
+#### [Valuation of assets in Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=0)** - [Michael] Perhaps the most common task in all of corporate finance is simply building basic financial models.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=0)** - [Michael] Perhaps the most common task in all of [[Corporate Finance]] is simply building basic financial models.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=6)** So let's take a look at an example of the kind of detailed model you might be building if you were working in a corporate finance role.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=13)** I'm in the 0501 Begin Excel file.
+> **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=13)** I'm in the 0501 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=16)** Now, this is a model that I've set up, and this is supposed to represent kind of a local coffee shop, right?
 >
@@ -3608,7 +3577,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=457)** And you'll notice we've tried to kind of break out our big ticket items, right?
 >
-> **[7:41](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=461)** We've got, as an example, our revenue here, we've got our costs, and then we've got our EBITDeA, and they're all sort of set out from the rest of the model making this easy to read.
+> **[7:41](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=461)** We've got, as an example, our revenue here, we've got our costs, and then we've got our EBITDeA, and they're all sort of set out from the [[Representational State Transfer (REST)|rest]] of the model making this easy to read.
 >
 > **[7:51](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/valuation-of-assets-in-excel?u=76281980&t=471)** So if you want to drill down to kind of the sub-level, you can, if you just want to hit kind of the high notes, you can as well.
 >
@@ -3638,7 +3607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (2), traffic (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Versions:** 4.25 (2), 1.2 (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** wacc (2), ebitda (1)
@@ -3646,16 +3615,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [michael] (1)
 
-#### Estimation of cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980)
+#### [Estimation of cash flows](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=0)** - [Instructor] In corporate finance, we're often called upon to go through and evaluate how a change in a business might impact the bottom line.
+> **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=0)** - [Instructor] In [[Corporate Finance]], we're often called upon to go through and evaluate how a change in a business might impact the bottom line.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=8)** Let's take a look at an example.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=9)** I'm in the 0502 Begin Excel file.
+> **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=9)** I'm in the 0502 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/estimation-of-cash-flows?u=76281980&t=13)** Now, if you're anything like me, you've probably seen various news stories about different coffee chains and restaurants, and things like that starting to implement more and more robotic technology, right?
 >
@@ -3769,14 +3737,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (1), business (1), [[Microsoft Excel|Excel]] (1), ai (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (4), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine a discount rate
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980)
+#### [Determine a discount rate](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3784,7 +3751,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980&t=11)** To do this, we need to take into account our cost to capital.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980&t=15)** I'm in the 0503 Begin Excel file.
+> **[0:15](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980&t=15)** I'm in the 0503 Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/determine-a-discount-rate?u=76281980&t=18)** Now, what we have here is our coffee robot model, and what we want to figure out is what the appropriate weighted average cost to capital would be in a case like this.
 >
@@ -3821,8 +3788,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identify the valuation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980)
+#### [Identify the valuation](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3830,7 +3796,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980&t=6)** And this requires us to value that investment.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980&t=9)** I'm in the 05_04_Begin Excel file.
+> **[0:09](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980&t=9)** I'm in the 05_04_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/identify-the-valuation?u=76281980&t=13)** Now we've talked about IRR and NPV previously.
 >
@@ -3910,7 +3876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** irr (10), npv (10), wacc (3)
 > **CLI Commands:** make (5)
 > **Versions:** 0.1 (1), 088.19 (1)
@@ -3919,8 +3885,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** set up (1)
 
-#### Stress testing the valuation model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980)
+#### [Stress testing the valuation model](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3928,9 +3893,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=11)** Let's take a look at how we can do that.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=13)** I'm in the 05_05_begin Excel file.
+> **[0:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=13)** I'm in the 05_05_begin [[Microsoft Excel|Excel]] file.
 >
-> **[0:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=17)** Now, what we have here is our robot coffee who's going to go into our coffee shop and potentially replace a couple of our baristas, or perhaps shift them to other forms of labor, whatever you'd like.
+> **[0:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=17)** Now, what we have here is our robot coffee who's going to go into our coffee shop and potentially replace a couple of our baristas, or perhaps shift them to other [[Forms]] of labor, whatever you'd like.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=30)** And we've gone through and kind of modeled the outcome this would have on our free cash flows, and we needed to decide whether or not this was a worthwhile investment.
 >
@@ -3960,9 +3925,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=104)** Of course, that's certainly a consideration and a concern.
 >
-> **[1:48](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=108)** And you know, this is a fictional example incidentally but this is the type of thing that we have to think about as we're doing corporate finance modeling.
+> **[1:48](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=108)** And you know, this is a fictional example incidentally but this is the type of thing that we have to think about as we're doing [[Corporate Finance]] modeling.
 >
-> **[1:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=117)** We've got to be thinking about the human element in the decisions that we're making as well and in particular, how that can play into the risks in our cashflow forecasting.
+> **[1:57](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=117)** We've got to be thinking about the human element in the decisions that we're making as well and in particular, how that can play into the risks in our cashflow [[Forecasting]].
 >
 > **[2:08](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=128)** So maybe we think that 10% WACC or 9.66% to be more precise, maybe we think given those risks, that's too low.
 >
@@ -3984,7 +3949,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=202)** Well, let's take a look.
 >
-> **[3:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=204)** So I'm going to flip over here to our original store model and we'll zoom in here just to make things kind of a little bit easier to read and see.
+> **[3:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=204)** So I'm going to flip over here to our original store model and we'll [[Zoom]] in here just to make things kind of a little bit easier to read and see.
 >
 > **[3:34](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/stress-testing-the-valuation-model?u=76281980&t=214)** But what we're going to see when we look at this is that I've added in a couple of additional assumptions.
 >
@@ -4074,7 +4039,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), business (2), [[Forms]] (1), [[Corporate Finance]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Forms]] (1), [[Corporate Finance]] (1), [[Forecasting]] (1), [[Zoom]] (1)
 > **Env Vars:** wacc (8)
 > **Versions:** 9.66 (2), 6.6 (2), 088.19 (1), 800.25 (1)
 > **CLI Commands:** make (3)
@@ -4087,14 +4052,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your corporate finance journey with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980)
+#### [Continue your corporate finance journey with Excel](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=0)** - All right.
 >
-> **[0:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=1)** At this point, we've talked about all the major tools you need to know to be successful in corporate finance.
+> **[0:01](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=1)** At this point, we've talked about all the major tools you need to know to be successful in [[Corporate Finance]].
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=7)** But as I said at the start, these tools themselves can be used in a variety of ways, can't they?
 >
@@ -4120,13 +4084,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=73)** Okay, maybe not all decisions in life have to come down to finance tools.
 >
-> **[1:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=77)** But in all seriousness, if you want to keep growing your skillset, keep an eye out for more great courses right here on LinkedIn Learning.
+> **[1:17](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=77)** But in all seriousness, if you want to keep growing your skillset, keep an eye out for more great courses right here on [[LinkedIn]] Learning.
 >
 > **[1:24](https://www.linkedin.com/learning/excel-for-corporate-finance-professionals-22881104/continue-your-corporate-finance-journey-with-excel?u=76281980&t=84)** I'm Professor Michael McDonald and I'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (2), business (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (2), [[LinkedIn]] (1)
 > **Env Vars:** npv (1), irr (1), wacc (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

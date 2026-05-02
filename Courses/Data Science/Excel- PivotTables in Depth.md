@@ -124,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply the power of Excel PivotTables to your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980)
+#### [Apply the power of Excel PivotTables to your data](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=0)** - [Curt] Excel pivot tables are a powerful tool for evaluating data within your business or organization.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=0)** - [Curt] [[Microsoft Excel|Excel]] [[Pivot Tables]] are a powerful tool for evaluating data within your business or organization.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=6)** Mastering the skills you need to manage pivot tables effectively will let you work quickly and make great decisions.
 >
@@ -137,16 +136,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=21)** I'm Curt Frye.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=22)** Join me at LinkedIn Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes with Excel pivot tables for Microsoft 365.
+> **[0:22](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-the-power-of-excel-pivottables-to-your-data?u=76281980&t=22)** Join me at [[LinkedIn]] Learning for an introduction to the essential skills that will let you unlock the power and flexibility that comes with Excel pivot tables for [[Microsoft 365]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pivot Tables]] (4), [[Microsoft Excel|Excel]] (3), data (2), power (2), business (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (4), [[Microsoft Excel|Excel]] (3), [[LinkedIn]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [curt] (1)
 
-#### What you should know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980)
+#### [What you should know before starting](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=2)** Before I get started, I'd like to tell you some things that will help for you to know before you start.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=9)** First, I am assuming basic Excel skills, and those include creating formulas, managing files, that sort of thing.
+> **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=9)** First, I am assuming basic [[Microsoft Excel|Excel]] skills, and those include creating formulas, managing files, that sort of thing.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=17)** Second, it would be very helpful if you know how to create and modify Excel tables and charts.
 >
@@ -162,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=32)** And finally, you should have a willingness to explore.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=36)** Pivot tables are a vast topic, and even though this course is comprehensive, it is not all inclusive, there's always more to learn.
+> **[0:36](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=36)** [[Pivot Tables]] are a vast topic, and even though this course is comprehensive, it is not all inclusive, there's always more to learn.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/what-you-should-know-before-starting?u=76281980&t=46)** Another thing to note is that based on the system that you're using and the size of your monitor, you might see a different version of the ribbon.
 >
@@ -185,12 +183,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduce PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980)
+#### [Introduce PivotTables](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980&t=0)** - [Instructor] Before I go into the details of how to create and manipulate pivot tables, I'd like to demonstrate a few of the ways that pivot tables help you analyze your worksheet data.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980&t=0)** - [Instructor] Before I go into the details of how to create and manipulate [[Pivot Tables]], I'd like to demonstrate a few of the ways that pivot tables help you analyze your worksheet data.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/introduce-pivottables?u=76281980&t=10)** I have opened my sample file, 01_01_introduction, and I'm on sheet two, which has a pivot table.
 >
@@ -236,20 +233,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (3), business (2), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3)
 > **UI Navigation:** go to (2), checkbox (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format data for use in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980)
+#### [Format data for use in a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=0)** - [Instructor] Pivot tables let you summarize and reorganize your data dynamically, but you can't use just any data set.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] let you summarize and reorganize your data dynamically, but you can't use just any data set.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=7)** In most cases, your data needs to be laid out as a data list and preferably as an Excel table.
+> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=7)** In most cases, your data needs to be laid out as a data list and preferably as an [[Microsoft Excel|Excel]] table.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=15)** In this movie, I will describe how your data needs to be laid out for creating a pivot table.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=212)** If for some reason Excel hadn't been able to detect that you had headers, in this case, by different formatting, then that checkbox would be blank.
 >
-> **[3:42](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=222)** So if you do have headers and they're just the same format as the rest of the values, you could check this box and Excel would include the first row as column headers.
+> **[3:42](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=222)** So if you do have headers and they're just the same format as the [[Representational State Transfer (REST)|rest]] of the values, you could check this box and Excel would include the first row as column headers.
 >
 > **[3:53](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-data-for-use-in-a-pivottable?u=76281980&t=233)** This case, I'll click OK, and I get my Excel table.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Microsoft Excel|Excel]] (10), [[Pivot Tables]] (1), product (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (10), [[Pivot Tables]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** b10 (1), f10 (1), a10 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** checkbox (1)
@@ -335,12 +331,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980)
+#### [Create a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=0)** - [Instructor] PivotTables are powerful and flexible Excel analysis tools.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=0)** - [Instructor] PivotTables are powerful and flexible [[Microsoft Excel|Excel]] analysis tools.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=5)** A PivotTable lets you rearrange, sort and filter a data set on the fly so you can analyze it from several different perspectives with a minimum of effort.
 >
@@ -384,7 +379,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=153)** So I will go up and I'll drag product category to the rows area.
 >
-> **[2:41](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=161)** So I have the different types of categories that my products fall into.
+> **[2:41](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=161)** So I have the different types of categories that my [[Microsoft Products|products]] fall into.
 >
 > **[2:47](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable?u=76281980&t=167)** And then in the columns area, I'll put customer type.
 >
@@ -410,14 +405,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (4), product (3), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** go to (2), scroll down (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pivot a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980)
+#### [Pivot a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,13 +481,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980&t=230)** But note that defer layout update is still checked.
 >
-> **[3:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980&t=234)** If I want to have my updates occur as I make them, then I will clear that checkbox, everything looks good, and I'll drag order type below employee title, and I get the change that you would expect to the pivot tables organization.
+> **[3:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980&t=234)** If I want to have my updates occur as I make them, then I will clear that checkbox, everything looks good, and I'll drag order type below employee title, and I get the change that you would expect to the [[Pivot Tables]] organization.
 >
 > **[4:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivottable?u=76281980&t=252)** Changing a pivot tables arrangement shifts the data's emphasis, enabling you to examine the data from different perspectives quickly and easily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (6), business (2), [[Pivot Tables]] (2), power (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **Warnings:** note that (2)
@@ -501,12 +495,11 @@ created: 2026-05-02
 > **Definitions:** short for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/configure-a-pivottable?u=76281980)
+#### [Configure a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/configure-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/configure-a-pivottable?u=76281980&t=0)** - [Instructor] When you create a PivotTable, Excel shows the number of PivotTable elements by default.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/configure-a-pivottable?u=76281980&t=0)** - [Instructor] When you create a PivotTable, [[Microsoft Excel|Excel]] shows the number of PivotTable elements by default.
 >
 > **[0:05](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/configure-a-pivottable?u=76281980&t=5)** You can show, hide or, in some cases, move those elements to change the PivotTable configuration to your liking.
 >
@@ -600,18 +593,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** snap (1), make (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect to an external data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/connect-to-an-external-data-source?u=76281980)
+#### [Connect to an external data source](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/connect-to-an-external-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/connect-to-an-external-data-source?u=76281980&t=0)** - [Instructor] Excel lets you build PivotTables from data found both inside and outside the workbook where you create the PivotTable.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/connect-to-an-external-data-source?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] lets you build PivotTables from data found both inside and outside the workbook where you create the PivotTable.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/connect-to-an-external-data-source?u=76281980&t=8)** If you want to build a PivotTable from a data source that you either can't or don't want to import into Excel directly, you can create its connection to that data source and work with it in place.
 >
@@ -669,19 +661,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **UI Navigation:** go to (1), select the (1), open the (1)
 > **CLI Commands:** find (1), make (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Consolidate data from multiple sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980)
+#### [Consolidate data from multiple sources](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=0)** - [Instructor] Most of the times you create a pivot table using a data list or an Excel table.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=0)** - [Instructor] Most of the times you create a pivot table using a data list or an [[Microsoft Excel|Excel]] table.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=6)** But you can also summarize multiple data ranges using a pivot table if the data is formatted appropriately.
 >
@@ -789,19 +780,18 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=357)** And the answer has always been yes.
 >
-> **[6:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=360)** And the reason, it's kind of nice to take a look back in the history of Excel and pivot tables, but it's also the case where if you actually do need to take cross tab data and turn it into a pivot table for analysis, now you know how to do it.
+> **[6:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/consolidate-data-from-multiple-sources?u=76281980&t=360)** And the reason, it's kind of nice to take a look back in the history of Excel and [[Pivot Tables]], but it's also the case where if you actually do need to take cross tab data and turn it into a pivot table for analysis, now you know how to do it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (4), [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Pivot Tables]] (1)
 > **Env Vars:** h12 (1), f12 (1), f15 (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1), go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage PivotTables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980)
+#### [Manage PivotTables](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,7 +853,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980&t=309)** If you want to copy an existing PivotTable layout and paste it back in just as values, then you can do that by selecting the entire PivotTable.
 >
-> **[5:19](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980&t=319)** So click it, select entire PivotTable, control C, and then paste it as values into your worksheet, so I will use the new keyboard shortcut in Microsoft Excel of control shift V, so control shift V, I paste it, and I just get the values.
+> **[5:19](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980&t=319)** So click it, select entire PivotTable, control C, and then paste it as values into your worksheet, so I will use the new keyboard shortcut in [[Microsoft Excel]] of control shift V, so control shift V, I paste it, and I just get the values.
 >
 > **[5:42](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-pivottables?u=76281980&t=342)** Now, of course, I didn't get any of the formatting, and grand total isn't a sum, it's just a value that was brought in from the original data, but I have the data that I can work with any way that I want to, and I can do so without affecting the PivotTable that I created it from.
 >
@@ -871,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** go back to (2)
@@ -879,8 +869,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [curt] (1)
 
-#### Define a default PivotTable layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980)
+#### [Define a default PivotTable layout](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -890,7 +879,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980&t=18)** My sample file is 01_09_Default, and you can find it in the chapter one folder of the exercise files collection.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980&t=26)** To set the default format for a PivotTable, go to the file tab on the ribbon, and then at the very bottom, click options to open the Excel options dialog box.
+> **[0:26](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980&t=26)** To set the default format for a PivotTable, go to the file tab on the ribbon, and then at the very bottom, click options to open the [[Microsoft Excel|Excel]] options dialog box.
 >
 > **[0:39](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-a-default-pivottable-layout?u=76281980&t=39)** And from here, click data to move to the data page.
 >
@@ -954,7 +943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Exercise Files:** exercise files (1)
@@ -966,12 +955,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage subtotals and grand totals
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980)
+#### [Manage subtotals and grand totals](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980&t=0)** - [Instructor] Excel PivotTables display your data in as much or as little detail as you prefer.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] PivotTables display your data in as much or as little detail as you prefer.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-subtotals-and-grand-totals?u=76281980&t=6)** Pivoting and filtering the PivotTable changes how the individual data elements are displayed, but you can also position the subtotals and grand totals for rows and columns to summarize your data as desired.
 >
@@ -1065,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (5), [[Microsoft Excel|Excel]] (2), product (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
@@ -1073,12 +1061,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the data field summary operation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-summary-operation?u=76281980)
+#### [Change the data field summary operation](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-summary-operation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-summary-operation?u=76281980&t=0)** - [Instructor] Most data lists you summarize using pivot tables will contain some sort of financial or personnel data.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-summary-operation?u=76281980&t=0)** - [Instructor] Most data lists you summarize using [[Pivot Tables]] will contain some sort of financial or personnel data.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-summary-operation?u=76281980&t=7)** You'll often want to find the sum of the values in the list, but you're not limited to doing that.
 >
@@ -1150,7 +1137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Pivot Tables]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (1)
@@ -1158,8 +1145,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Summarize more than one data field
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980)
+#### [Summarize more than one data field](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980&t=111)** So it still hasn't taken the two away because it needs to distinguish the name of the field from the other copy.
 >
-> **[2:01](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980&t=121)** Because of the way the labels are constructed, pivot tables with multiple data sets, especially if you have multiple values in the columns area, can be very wide on your screen.
+> **[2:01](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980&t=121)** Because of the way the labels are constructed, [[Pivot Tables]] with multiple data sets, especially if you have multiple values in the columns area, can be very wide on your screen.
 >
 > **[2:14](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/summarize-more-than-one-data-field?u=76281980&t=134)** So while you can create a dashboard-usable pivot tables that have multiple data fields, in fact, you have to remove the labels and it makes them hard to read.
 >
@@ -1209,20 +1195,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pivot Tables]] (3), business (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage dates in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980)
+#### [Manage dates in a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=0)** - [Instructor] One of the most important facts that a business records is when something happened.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=6)** In this movie, I will show you how Excel manages dates in your pivot tables.
+> **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=6)** In this movie, I will show you how [[Microsoft Excel|Excel]] manages dates in your [[Pivot Tables]].
 >
 > **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=10)** You'll find that you can break dates down by year, quarter, and month using just the dates from your original data source.
 >
@@ -1270,7 +1255,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=158)** And I get each of my datasets broken down by day.
 >
-> **[2:43](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=163)** So even if there are multiple orders per day, and you can see that there are, I just see a single row label for January 1st, January 2nd, January 3rd, and so on throughout the rest of the data.
+> **[2:43](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=163)** So even if there are multiple orders per day, and you can see that there are, I just see a single row label for January 1st, January 2nd, January 3rd, and so on throughout the [[Representational State Transfer (REST)|rest]] of the data.
 >
 > **[2:57](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/manage-dates-in-a-pivottable?u=76281980&t=177)** And if I press Ctrl + Z, then the grouping returns.
 >
@@ -1280,26 +1265,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** find (3)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use PivotTable data in a formula
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980)
+#### [Use PivotTable data in a formula](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=0)** - [Instructor] When you create a formula, it's usually a good idea to draw the formula's values from the original data source.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=7)** That way if the source changes, the formula's result will update the next time Excel recalculates your worksheet.
+> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=7)** That way if the source changes, the formula's result will update the next time [[Microsoft Excel|Excel]] recalculates your worksheet.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=14)** But what do you do if your pivot table contains data drawn from an outside source and you can't connect to the original tables?
 >
 > **[0:21](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=21)** In that case, you can refer to a cell within the pivot table using a get pivot data function.
 >
-> **[0:28](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=28)** In this movie, I will use sample file 0205 get pivot to show you how to use the get pivot data function to bring data out from a pivot table and into the rest of your worksheet.
+> **[0:28](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=28)** In this movie, I will use sample file 0205 get pivot to show you how to use the get pivot data function to bring data out from a pivot table and into the [[Representational State Transfer (REST)|rest]] of your worksheet.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=41)** On the sheet-1 worksheet of this workbook, I have a pivot table that summarizes sales by employee title and also by customer type.
 >
@@ -1361,22 +1345,21 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=266)** So if that box is cleared, then check it and click okay.
 >
-> **[4:33](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=273)** And you will be able to use get pivot data to refer to data from your pivot tables.
+> **[4:33](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/use-pivottable-data-in-a-formula?u=76281980&t=273)** And you will be able to use get pivot data to refer to data from your [[Pivot Tables]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (5), business (4), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Pivot Tables]] (1)
 > **UI Navigation:** go to (2), click on (1), open the (1), checkbox (1)
 > **Versions:** 578.59 (1), 562.09 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drill down to the underlying data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980)
+#### [Drill down to the underlying data](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=0)** - [Instructor] Pivot tables enable you to find a specific data points within your set.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] enable you to find a specific data points within your set.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=6)** For example, if you wanted to know the total value of sales of electric vehicle chargers made by sales associates, then you could create this pivot table and look at cell C5 where you have the EV charger column intersecting with the Sales Associate row.
 >
@@ -1386,7 +1369,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=40)** To drill down and see the rows of data that contribute to a particular cell, double-click the cell.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=47)** So in this case, I will double-click cell C5, and Excel creates a new worksheet called Detail1 that shows the three rows with data that contributed to the total.
+> **[0:47](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=47)** So in this case, I will double-click cell C5, and [[Microsoft Excel|Excel]] creates a new worksheet called Detail1 that shows the three rows with data that contributed to the total.
 >
 > **[1:03](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/drill-down-to-the-underlying-data?u=76281980&t=63)** There are a couple of things that I'll point out.
 >
@@ -1412,7 +1395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Pivot Tables]] (1)
 > **UI Navigation:** double-click (2), select the (1)
 > **CLI Commands:** find (2)
 > **Definitions:** means that (1)
@@ -1424,8 +1407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sort PivotTable data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/sort-pivottable-data?u=76281980)
+#### [Sort PivotTable data](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/sort-pivottable-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1487,7 +1469,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (2)
 > **UI Navigation:** go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -1495,8 +1476,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [curt] (1)
 
-#### Create a custom sort order
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980)
+#### [Create a custom sort order](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1520,7 +1500,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980&t=94)** If I want to create a list that will sort them according to an order that I specify, then I can do that by defining a custom list.
 >
-> **[1:45](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980&t=105)** I will start by going to the File tab, clicking Options to display the Excel Options dialogue box, and then click Advanced.
+> **[1:45](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980&t=105)** I will start by going to the File tab, clicking Options to display the [[Microsoft Excel|Excel]] Options dialogue box, and then click Advanced.
 >
 > **[1:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-custom-sort-order?u=76281980&t=114)** On the Advanced page of the Excel Options dialogue box, I'll scroll all the way down and click Edit Custom Lists.
 >
@@ -1582,19 +1562,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **UI Navigation:** go to (1), checkbox (1), select the (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** a12 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter a PivotTable field by selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-field-by-selection?u=76281980)
+#### [Filter a PivotTable field by selection](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-field-by-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-field-by-selection?u=76281980&t=0)** - [Instructor] Pivot tables can summarize huge data collections, but many times you will want to limit the data displayed within a given category.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-field-by-selection?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] can summarize huge data collections, but many times you will want to limit the data displayed within a given category.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-field-by-selection?u=76281980&t=8)** In this movie, I will show you how to create a filter by selecting specific values that you want.
 >
@@ -1670,7 +1649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (4), next (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1678,12 +1657,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter a PivotTable by rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-by-rule?u=76281980)
+#### [Filter a PivotTable by rule](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-by-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-by-rule?u=76281980&t=0)** - [Instructor] Pivot tables help you summarize large amounts of data, but you can always limit the data that appears by creating a filter.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-by-rule?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] help you summarize large amounts of data, but you can always limit the data that appears by creating a filter.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-by-rule?u=76281980&t=8)** If the data that you want to display in your pivot table fits a rule, such as all values greater than 1,000, you can define that rule and use it to filter your pivot table.
 >
@@ -1761,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1), - so (1)
@@ -1769,14 +1747,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Filter a PivotTable using a search filter
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980)
+#### [Filter a PivotTable using a search filter](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980&t=0)** - [Instructor] When you work with a pivot table, you'll often find that you want to locate data that contains a particular string of characters in its label.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980&t=8)** For example, you could look for the word solar to find solar panels and similar products.
+> **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980&t=8)** For example, you could look for the [[Microsoft Word|word]] solar to find solar panels and similar [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-search-filter?u=76281980&t=15)** In this movie, I will show you how to search for those values within the labels of your data.
 >
@@ -1836,7 +1813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Microsoft Products|Products]] (6), product (5), data (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4)
 > **Warnings:** note that (2)
 > **UI Navigation:** go to (1)
@@ -1844,12 +1821,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter a PivotTable using slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980)
+#### [Filter a PivotTable using slicers](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=0)** - [Instructor] When you filter a pivot table, Excel indicates that a field has been filtered by placing different icons in the body of the pivot table and in the pivot table field list.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=0)** - [Instructor] When you filter a pivot table, [[Microsoft Excel|Excel]] indicates that a field has been filtered by placing different icons in the body of the pivot table and in the pivot table field list.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=11)** Unfortunately, those icons are small and hard to see and what's more, they give you no indication of which values are included or excluded from the filter.
 >
@@ -1921,21 +1897,20 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=275)** And then about halfway down in the shortcut menu, click remove customer type, and it disappears.
 >
-> **[4:42](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=282)** Filtering your pivot tables using slicers helps you and your audience visualize which values are included and excluded from your filter.
+> **[4:42](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=282)** Filtering your [[Pivot Tables]] using slicers helps you and your audience visualize which values are included and excluded from your filter.
 >
 > **[4:50](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-slicers?u=76281980&t=290)** They work best for filtering fields with 20 or fewer unique values, especially if your pivot table takes up more than half of the screen after you apply the filter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Excel|Excel]] (1), data (1), business (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-slicers?u=76281980)
+#### [Format slicers](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2041,7 +2016,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (4), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.7 (1), 0.3 (1)
 > **Definitions:** short for (1), means that (1)
@@ -2049,13 +2023,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
-#### Filter a PivotTable with report filter fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980)
+#### [Filter a PivotTable with report filter fields](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=0)** - [Instructor] Whenever you add a field to a pivot tables column area, or row area, you change the pivot tables organization by adding a layer of detail.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=0)** - [Instructor] Whenever you add a field to a [[Pivot Tables]] column area, or row area, you change the pivot tables organization by adding a layer of detail.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=9)** But suppose you have a terrific pivot table layout and want to filter it using the values in a field that you don't want to appear in the body of the pivot table?
 >
@@ -2075,7 +2049,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=59)** If I add sales region below rows, then I get a fairly large pivot table and given the status set, it's not terrible, but it does require me to scroll down.
 >
-> **[1:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=75)** If I drag sales region from rows to filters, and the filters area used to be called the report filters area, so I've been using Excel for quite a while, and I still use the old terminology sometime.
+> **[1:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=75)** If I drag sales region from rows to filters, and the filters area used to be called the report filters area, so I've been using [[Microsoft Excel|Excel]] for quite a while, and I still use the old terminology sometime.
 >
 > **[1:30](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-with-report-filter-fields?u=76281980&t=90)** So we have sales region in the filters area.
 >
@@ -2133,7 +2107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pivot Tables]] (3), [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
@@ -2141,14 +2115,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clear and reapply PivotTable filters
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980)
+#### [Clear and reapply PivotTable filters](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=0)** - [Instructor] There would be a little sense in applying a pivot table filter if you weren't able to remove it later.
 >
-> **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=6)** In Excel, you can remove filters from individual fields, remove all filters at the same time, and reapply filters that you just got rid of.
+> **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=6)** In [[Microsoft Excel|Excel]], you can remove filters from individual fields, remove all filters at the same time, and reapply filters that you just got rid of.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=15)** In this movie, I will show you how to perform all those tasks.
 >
@@ -2182,20 +2155,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=130)** If I want to remove all the filters at the same time, then I can go up to the pivot table, analyze contextual tab on the ribbon, click Clear, and then I can either click Clear All, which removes the entire pivot table, or click Clear Filters, which removes every filter that has been applied to that pivot table.
 >
-> **[2:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=152)** So as you can see, when you are done with the filter, you can remove it and continue with the rest of your work.
+> **[2:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=152)** So as you can see, when you are done with the filter, you can remove it and continue with the [[Representational State Transfer (REST)|rest]] of your work.
 >
 > **[2:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/clear-and-reapply-pivottable-filters?u=76281980&t=158)** You can always recreate it later, or if you haven't made any changes that you don't want to lose, you might be able to use Ctrl + Z or the Undo button to bring the filter back.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Excel|Excel]] (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter a PivotTable using a timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980)
+#### [Filter a PivotTable using a timeline](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2239,7 +2211,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980&t=181)** If I want to remove the filter, I can click the clear filter button on the timeline header, and all of my data comes back.
 >
-> **[3:11](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980&t=191)** And when you're done using the timeline box, just click it once to make sure it's selected, then press the delete key and Excel removes it from your pivot table.
+> **[3:11](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980&t=191)** And when you're done using the timeline box, just click it once to make sure it's selected, then press the delete key and [[Microsoft Excel|Excel]] removes it from your pivot table.
 >
 > **[3:20](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivottable-using-a-timeline?u=76281980&t=200)** Timelines offer a visual filtering alternative to what you find in the usual filtering tools.
 >
@@ -2247,7 +2219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), business (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Cross-References:** go back to (1)
@@ -2259,12 +2231,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Apply a PivotTable style
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980)
+#### [Apply a PivotTable style](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=0)** - [Instructor] When you create a PivotTable, Excel applies some formatting that lets you distinguish the labels and organizational layers from the data in the body of the PivotTable.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=0)** - [Instructor] When you create a PivotTable, [[Microsoft Excel|Excel]] applies some formatting that lets you distinguish the labels and organizational layers from the data in the body of the PivotTable.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=11)** Excel comes with a substantial number of built-in styles from which to choose.
 >
@@ -2338,7 +2309,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=280)** Also note that even though I have banded rows checked, banded rows are not available with a style, so they're not displayed.
 >
-> **[4:48](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=288)** PivotTable styles are a part of Office themes, which are collections of predefined color schemes.
+> **[4:48](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=288)** PivotTable styles are a part of [[Microsoft Office|Office]] themes, which are collections of predefined color schemes.
 >
 > **[4:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=294)** So if you apply a built-in PivotTable style and then change the Office theme, the built-in PivotTable style changes as well.
 >
@@ -2352,7 +2323,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=324)** You can edit themes, for example, by changing color, font or effects that are applied, and you can go to themes and browse elsewhere for current themes.
 >
-> **[5:35](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=335)** Or if you have made changes, you can save the current theme as part of your workbook and Microsoft Office environment.
+> **[5:35](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=335)** Or if you have made changes, you can save the current theme as part of your workbook and [[Microsoft Office]] environment.
 >
 > **[5:43](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/apply-a-pivottable-style?u=76281980&t=343)** So remember, regardless of the style you apply, you can always change the formatting of individual cells.
 >
@@ -2360,7 +2331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (3), data (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (3), [[Microsoft Office]] (1)
 > **UI Navigation:** go to (3), scroll up (1)
 > **Analogies:** for example (3)
 > **Warnings:** note that (2)
@@ -2369,12 +2340,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a PivotTable style
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-style?u=76281980)
+#### [Create a PivotTable style](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-style?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-style?u=76281980&t=0)** - The built-in Excel Pivot Table style gallery contains a lot of good color schemes, but you can also create your own.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-style?u=76281980&t=0)** - The built-in [[Microsoft Excel|Excel]] Pivot Table style gallery contains a lot of good color schemes, but you can also create your own.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-style?u=76281980&t=6)** And in this movie, I will show you how to do that.
 >
@@ -2456,19 +2426,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), next (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### Change the PivotTable layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-pivottable-layout?u=76281980)
+#### [Change the PivotTable layout](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-pivottable-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-pivottable-layout?u=76281980&t=0)** - [Instructor] Excel pivot tables let you summarize your data in formats that are easy to read and very helpfully easy to modify.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-pivottable-layout?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] [[Pivot Tables]] let you summarize your data in formats that are easy to read and very helpfully easy to modify.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-pivottable-layout?u=76281980&t=8)** You can also change your pivot tables layout, choosing whether to display blank rows below each item and selecting from three report layouts with subtle but important differences that are important for you to know about.
 >
@@ -2532,7 +2501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), [[Pivot Tables]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pivot Tables]] (2)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (2)
@@ -2540,12 +2509,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the data field number format
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980)
+#### [Change the data field number format](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=0)** - [Instructor] When you create a PivotTable, Excel displays the values in the data fields without any formatting.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=0)** - [Instructor] When you create a PivotTable, [[Microsoft Excel|Excel]] displays the values in the data fields without any formatting.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=6)** When you look at numbers in the hundreds and below, the lack of commas doesn't really matter.
 >
@@ -2565,7 +2533,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=67)** A version of the Format Cells dialog box appears, and I just have the Number tab to work with.
 >
-> **[1:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=75)** I'm working with financial data, so I will click Accounting.
+> **[1:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=75)** I'm working with [[Financial Data]], so I will click Accounting.
 >
 > **[1:19](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-the-data-field-number-format?u=76281980&t=79)** And over on the right, I get my sample, which has separators, in this case, a comma in the US.
 >
@@ -2595,7 +2563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Financial Data]] (1)
 > **UI Navigation:** go to (2), right-click (1)
 > **CLI Commands:** find (2)
 > **Exercise Files:** exercise files (1)
@@ -2608,12 +2576,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Highlight cells by applying a rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980)
+#### [Highlight cells by applying a rule](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980&t=0)** - [Instructor] PivotTables help you summarize large data collections in an Excel worksheet, but it can be hard to find data that matches specific criteria just by looking at the numbers.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980&t=0)** - [Instructor] PivotTables help you summarize large data collections in an [[Microsoft Excel|Excel]] worksheet, but it can be hard to find data that matches specific criteria just by looking at the numbers.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-cells-by-applying-a-rule?u=76281980&t=10)** For example, in the sheet in sample file 05_01_Rule, which you can find in the Chapter 5 folder of the Exercise Files collection, contains values that go as low as 15,000 to other values that are over 500,000.
 >
@@ -2687,7 +2654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** c10 (1)
 > **Cross-References:** go back to (1)
@@ -2696,14 +2663,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight the top or bottom values in a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980)
+#### [Highlight the top or bottom values in a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980&t=0)** - [Instructor] Companies of all kinds are interested in their best salespeople, their best customers, and their best selling products.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980&t=0)** - [Instructor] Companies of all kinds are interested in their best salespeople, their best customers, and their best selling [[Microsoft Products|products]].
 >
-> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980&t=7)** Excel lets you create what are called Top 10 Conditional Formats to identify the top or bottom values in a pivot table.
+> **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980&t=7)** [[Microsoft Excel|Excel]] lets you create what are called Top 10 Conditional Formats to identify the top or bottom values in a pivot table.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/highlight-the-top-or-bottom-values-in-a-pivottable?u=76281980&t=15)** And in this movie, I will show you how to create them.
 >
@@ -2811,15 +2777,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** dropdown (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format cells using data bars
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-data-bars?u=76281980)
+#### [Format cells using data bars](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-data-bars?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2887,7 +2852,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** dropdown (1)
@@ -2895,8 +2859,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format cells using color scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-color-scales?u=76281980)
+#### [Format cells using color scales](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-color-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2954,14 +2917,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** find (2)
 > **Versions:** 709.31 (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format cells using icon sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980)
+#### [Format cells using icon sets](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2969,7 +2930,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980&t=8)** If you set up your workbook as a dashboard that summarizes performance, you can use indicators such as the familiar red, yellow, and green stoplight images to indicate unacceptable, acceptable, and excellent results.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980&t=23)** In Excel, this group of indicators is called an icon set.
+> **[0:23](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980&t=23)** In [[Microsoft Excel|Excel]], this group of indicators is called an icon set.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-cells-using-icon-sets?u=76281980&t=28)** I'll show you how to apply them as a conditional format.
 >
@@ -3075,7 +3036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (3), management (1), product (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -3084,8 +3045,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit a conditional formatting rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-a-conditional-formatting-rule?u=76281980)
+#### [Edit a conditional formatting rule](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-a-conditional-formatting-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3135,21 +3095,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Control how multiple rules are applied
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980)
+#### [Control how multiple rules are applied](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=0)** - [Instructor] In Excel, there is no practical limit to the number of conditional formatting rules that you can apply to a cell.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=0)** - [Instructor] In [[Microsoft Excel|Excel]], there is no practical limit to the number of conditional formatting rules that you can apply to a cell.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=7)** It's also possible for more than one conditional formatting rule to be applied to the same cell.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=12)** So in this movie, I will show you how to manage multiple rules as applied to pivot tables.
+> **[0:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=12)** So in this movie, I will show you how to manage multiple rules as applied to [[Pivot Tables]].
 >
 > **[0:18](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/control-how-multiple-rules-are-applied?u=76281980&t=18)** My sample file is 05_07, multiple rules, and you can find it in the chapter five folder of the exercise files collection.
 >
@@ -3207,7 +3165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (4), next (2), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Pivot Tables]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** b10 (1), c10 (1)
 > **Definitions:** is a  (1), means that (1)
@@ -3215,8 +3173,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete a conditional formatting rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980)
+#### [Delete a conditional formatting rule](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3266,11 +3223,11 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=166)** You could clear rules from this table.
 >
-> **[2:49](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=169)** And we're working at the pivot table, not an Excel table.
+> **[2:49](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=169)** And we're working at the pivot table, not an [[Microsoft Excel|Excel]] table.
 >
 > **[2:51](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=171)** So this one is grayed out and the bottom is clear rules from this pivot table, and that's the one that we'll use.
 >
-> **[2:59](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=179)** So if we had a pivot table on say a dashboard with conditional formatting applied, then we could clear the rules from this pivot table and not effective the rest of the worksheet.
+> **[2:59](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=179)** So if we had a pivot table on say a dashboard with conditional formatting applied, then we could clear the rules from this pivot table and not effective the [[Representational State Transfer (REST)|rest]] of the worksheet.
 >
 > **[3:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/delete-a-conditional-formatting-rule?u=76281980&t=190)** So this is a very useful option.
 >
@@ -3284,7 +3241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
@@ -3297,12 +3254,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980)
+#### [Create a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=0)** - [Instructor] Pivot tables help you summarize large data sets efficiently.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=0)** - [Instructor] [[Pivot Tables]] help you summarize large data sets efficiently.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=4)** But it can be difficult to interpret data when all you have to go on are the raw numbers.
 >
@@ -3314,7 +3270,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=27)** My sample file is 0601 create pivot chart, and you can find it in the chapter six folder of the exercise files collection.
 >
-> **[0:36](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=36)** I've started with just my sales data for my company, and it's an Excel table on the sales worksheet.
+> **[0:36](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=36)** I've started with just my sales data for my company, and it's an [[Microsoft Excel|Excel]] table on the sales worksheet.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivotchart?u=76281980&t=46)** If I want to create a pivot chart, which has a pivot table contained within it, whether that pivot table is displayed or not, I can go to the insert tab of the ribbon, and then in the charts group, I can click pivot chart.
 >
@@ -3386,7 +3342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (2), business (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (2)
 > **Analogies:** for example (2)
@@ -3395,8 +3351,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pivot a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivotchart?u=76281980)
+#### [Pivot a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/pivot-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3444,15 +3399,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (3), power (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivotchart?u=76281980)
+#### [Filter a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/filter-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3506,15 +3459,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (6), business (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** checkbox (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-a-pivotchart?u=76281980)
+#### [Format a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/format-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3582,20 +3533,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), select the (2)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change a PivotChart’s layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980)
+#### [Change a PivotChart’s layout](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980&t=0)** - [Instructor] When you create a pivot chart in Microsoft Excel, the program uses a basic layout to determine when and where to display elements such as the chart title, a legend representing each data series, axis titles, labels, and other elements.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980&t=0)** - [Instructor] When you create a pivot chart in [[Microsoft Excel]], the program uses a basic layout to determine when and where to display elements such as the chart title, a legend representing each data series, axis titles, labels, and other elements.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980&t=16)** The basic layout Excel uses is good enough for a quick look at your data, but you'll probably want to change it based on your own needs.
+> **[0:16](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980&t=16)** The basic layout [[Microsoft Excel|Excel]] uses is good enough for a quick look at your data, but you'll probably want to change it based on your own needs.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-layout?u=76281980&t=23)** And in this movie, I will give you the tools that you need to do so.
 >
@@ -3663,15 +3612,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change a PivotChart’s chart type
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-chart-type?u=76281980)
+#### [Change a PivotChart’s chart type](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-a-pivotchart-s-chart-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3735,15 +3683,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7)
 > **UI Navigation:** select the (2), go to (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add a trendline to a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/add-a-trendline-to-a-pivotchart?u=76281980)
+#### [Add a trendline to a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/add-a-trendline-to-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3795,7 +3741,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1), business (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -3803,14 +3748,14 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 7. Printing PivotTables
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Print a PivotTable
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980)
+#### [Print a PivotTable](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3846,11 +3791,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980&t=105)** Printing a PivotTable by itself is a fairly straightforward operation.
 >
-> **[1:49](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980&t=109)** If you want to print just the PivotTable and not the rest of the worksheet, identify the PivotTable as a Print Area, and you're ready to go.
+> **[1:49](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivottable?u=76281980&t=109)** If you want to print just the PivotTable and not the [[Representational State Transfer (REST)|rest]] of the worksheet, identify the PivotTable as a Print Area, and you're ready to go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** pdf (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
@@ -3859,8 +3804,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set PivotTable print options
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/set-pivottable-print-options?u=76281980)
+#### [Set PivotTable print options](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/set-pivottable-print-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3910,15 +3854,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** pdf (1)
 > **UI Navigation:** scroll down (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print each item on its own page
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980)
+#### [Print each item on its own page](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3982,13 +3924,13 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=209)** Show all report filter pages of sales region. Click OK.
 >
-> **[3:34](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=214)** And Excel creates a separate worksheet for each of my regions.
+> **[3:34](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=214)** And [[Microsoft Excel|Excel]] creates a separate worksheet for each of my regions.
 >
 > **[3:39](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=219)** So starting out with Central East, then you can see that filter has been applied so that we're only seeing Central East.
 >
 > **[3:46](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=226)** And then North Central East, again, the filter has been applied.
 >
-> **[3:50](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=230)** North Central West, continuing on for the rest of my fields.
+> **[3:50](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=230)** North Central West, continuing on for the [[Representational State Transfer (REST)|rest]] of my fields.
 >
 > **[3:55](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-each-item-on-its-own-page?u=76281980&t=235)** Be aware that Excel creates a new worksheet for each combination of field values in the filters area.
 >
@@ -4000,7 +3942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (2), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (2), right-click (1), scroll down (1)
 > **Warnings:** note that (2), be aware (1)
 > **CLI Commands:** make (1), find (1)
@@ -4008,12 +3950,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print a PivotChart
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivotchart?u=76281980)
+#### [Print a PivotChart](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivotchart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivotchart?u=76281980&t=0)** - [Instructor] When you're ready to print an Excel pivot chart, you can use the same skills that you would use to print regular charts.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivotchart?u=76281980&t=0)** - [Instructor] When you're ready to print an [[Microsoft Excel|Excel]] pivot chart, you can use the same skills that you would use to print regular charts.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/print-a-pivotchart?u=76281980&t=6)** In this movie, I will review some of the things you can do to make printing your pivot chart go smoothly.
 >
@@ -4068,12 +4009,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Record and review an Excel macro
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980)
+#### [Record and review an Excel macro](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=0)** - [Instructor] When you work with pivot tables, you'll often find that you want to recreate a specific configuration.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=0)** - [Instructor] When you work with [[Pivot Tables]], you'll often find that you want to recreate a specific configuration.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=7)** You could write down the fields and the order in which they appear, but it might be easier to record a macro that records the position for you.
 >
@@ -4093,7 +4033,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=74)** And then I will click OK.
 >
-> **[1:17](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=77)** So now Excel is recording everything that I do and it will be part of the macro.
+> **[1:17](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=77)** So now [[Microsoft Excel|Excel]] is recording everything that I do and it will be part of the macro.
 >
 > **[1:23](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/record-and-review-an-excel-macro?u=76281980&t=83)** I'll start by clearing the pivot table.
 >
@@ -4180,12 +4120,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run an Excel macro
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/run-an-excel-macro?u=76281980)
+#### [Run an Excel macro](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/run-an-excel-macro?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/run-an-excel-macro?u=76281980&t=0)** - [Instructor] Excel macros let you perform complicated tasks such as manipulating PivotTables quickly by recording the steps and playing them back when needed.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/run-an-excel-macro?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] macros let you perform complicated tasks such as manipulating PivotTables quickly by recording the steps and playing them back when needed.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/run-an-excel-macro?u=76281980&t=9)** In this movie I will show you a couple of ways to run your PivotTable macros.
 >
@@ -4269,7 +4208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** go to (2), right-click (2), open the (1)
 > **Env Vars:** vba (4)
 > **Definitions:** is a  (1), means that (1), is an  (1)
@@ -4278,14 +4217,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** warning (1)
 
-#### Create a simple PivotTable presentation kit
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980)
+#### [Create a simple PivotTable presentation kit](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980&t=0)** - [Instructor] After you have recorded one or more macros that recreate PivotTable positions you want to use, you can add elements to your workbook that let you run those macros quickly and in the desired order.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980&t=12)** In this movie, I will show you how to create a very simple presentation kit, so you can use your PivotTables for storytelling.
+> **[0:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980&t=12)** In this movie, I will show you how to create a very simple presentation kit, so you can use your PivotTables for [[Storytelling]].
 >
 > **[0:21](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-simple-pivottable-presentation-kit?u=76281980&t=21)** My sample file is 0803_presentation, and that is a macro-enabled workbook that you can find in the Chapter 8 folder of the Exercise Files collection.
 >
@@ -4353,21 +4291,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Storytelling]] (2)
+> **Frameworks & Libraries:** [[Storytelling]] (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change PivotTables using keyboard shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980)
+#### [Change PivotTables using keyboard shortcuts](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980&t=0)** - [Instructor] One very useful capability in Microsoft Excel is controlling the program, especially the ribbon using the keyboard rather than the mouse.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980&t=0)** - [Instructor] One very useful capability in [[Microsoft Excel]] is controlling the program, especially the ribbon using the keyboard rather than the mouse.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980&t=9)** And in this movie, I will show you how to do that as related to pivot tables, my sample file is 08_04_Keyboard, and you can find it in the Chapter 8 folder of the exercise files collection.
+> **[0:09](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980&t=9)** And in this movie, I will show you how to do that as related to [[Pivot Tables]], my sample file is 08_04_Keyboard, and you can find it in the Chapter 8 folder of the exercise files collection.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/change-pivottables-using-keyboard-shortcuts?u=76281980&t=24)** On sheet 1 of this workbook, I have a pivot table, and at present, cell B7 is the active cell.
 >
@@ -4415,7 +4352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Pivot Tables]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (1), [[Pivot Tables]] (1)
 > **UI Navigation:** open the (1), select the (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4427,12 +4364,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create relationships between tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980)
+#### [Create relationships between tables](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980&t=0)** - [Narrator] One of the best practices in database design is storing data about separate business objects, such as orders, customers, and products, in separate tables.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980&t=0)** - [Narrator] One of the best practices in [[Database Design]] is storing data about separate business objects, such as orders, customers, and [[Microsoft Products|products]], in separate tables.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-relationships-between-tables?u=76281980&t=12)** In this movie, I will show you how to take data that is stored across multiple tables and combine them into a single data model.
 >
@@ -4508,7 +4444,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), product (6), [[Microsoft Products|Products]] (5), database (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[Database Design]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
@@ -4517,12 +4453,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create a PivotTable using the data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980)
+#### [Create a PivotTable using the data model](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=0)** - [Instructor] When you define relationships between Excel tables, Excel adds them to the workbooks data model.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=0)** - [Instructor] When you define relationships between [[Microsoft Excel|Excel]] tables, Excel adds them to the workbooks data model.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=6)** You can then use the data model rather than an individual table as the basis for your pivot table.
 >
@@ -4548,7 +4483,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=77)** So here in this pivot table, everything looks similar to what it was before except over in the PivotTable Fields task pane, instead of a single list of fields that are available to me, I have a list of tables.
 >
-> **[1:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=92)** So I have Customers, Orders and Products.
+> **[1:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=92)** So I have Customers, Orders and [[Microsoft Products|Products]].
 >
 > **[1:34](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/create-a-pivottable-using-the-data-model?u=76281980&t=94)** And if I click the OrdersTable, Show Detail control, then I get a list of fields that are available from the OrdersTable.
 >
@@ -4562,19 +4497,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (3), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit table relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980)
+#### [Edit table relationships](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=0)** - [Instructor] You can define relationships between pairs of Excel tables in your workbook based on common fields, but you might accidentally identify the wrong field in one of the tables.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=0)** - [Instructor] You can define relationships between pairs of [[Microsoft Excel|Excel]] tables in your workbook based on common fields, but you might accidentally identify the wrong field in one of the tables.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=10)** If that occurs, your pivot table will return incorrect or perhaps no results.
 >
@@ -4586,7 +4520,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=41)** And if I look over in the PivotTable Fields task pane, I see that I have two fields, Sum of Quantity, which is summarized in the pivot table, and then Product Category for which I get a blank value.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=54)** Based on my knowledge of the data, I figure that I must have a problem with a relationship to the Products table that is in the workbook.
+> **[0:54](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=54)** Based on my knowledge of the data, I figure that I must have a problem with a relationship to the [[Microsoft Products|Products]] table that is in the workbook.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/edit-table-relationships?u=76281980&t=65)** To edit that relationship, I can go to the Data tab of the ribbon, and then click the Relationships button in the Data Tools group.
 >
@@ -4608,18 +4542,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), data (4), [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deactivate and delete table relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980)
+#### [Deactivate and delete table relationships](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=0)** - [Instructor] When you create relationships between tables in the Excel data model, you can create a pivot table based on that data as if it came from one source.
+> **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=0)** - [Instructor] When you create relationships between tables in the [[Microsoft Excel|Excel]] data model, you can create a pivot table based on that data as if it came from one source.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=10)** In this movie, I will show you how to delete a relationship you no longer need, but also warn you what will happen if you delete a relationship that you do need.
 >
@@ -4627,7 +4560,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=29)** In this workbook I have on sheet one, a pivot table that combines data from three fields and three tables.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=38)** From the customer table, I have Customer Type, from the Products table, I have Product Category, and from the Orders table I have sum of Quantity.
+> **[0:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=38)** From the customer table, I have Customer Type, from the [[Microsoft Products|Products]] table, I have Product Category, and from the Orders table I have sum of Quantity.
 >
 > **[0:46](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/deactivate-and-delete-table-relationships?u=76281980&t=46)** Let's see what would happen if I were to delete a relationship between two of the tables that I'm using.
 >
@@ -4671,14 +4604,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define sets of values
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980)
+#### [Define sets of values](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4690,7 +4622,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980&t=17)** My sample file is 0905 sets, and you can find it in the chapter nine folder of the exercise files collection.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980&t=25)** I'm demonstrating how to create sets using the data model, but it works for other pivot tables as well.
+> **[0:25](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980&t=25)** I'm demonstrating how to create sets using the data model, but it works for other [[Pivot Tables]] as well.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/define-sets-of-values?u=76281980&t=32)** In the pivot table, in the row labels area, I have sales regions and I might want to create a set that will contain every region that has central in the name, so Central East, North Central East, North Central West, South Central East, and South Central West.
 >
@@ -4738,7 +4670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Pivot Tables]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1)
 > **UI Navigation:** go to (1), scroll down (1), checkbox (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -4750,34 +4682,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980)
+#### [Further resources](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=0)** - [Instructor] Thanks again for your interest in the course.
 >
-> **[0:02](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=2)** Before I go, I'd like to point out some further resources that you can use to learn more about PivotTables in Excel.
+> **[0:02](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=2)** Before I go, I'd like to point out some further resources that you can use to learn more about PivotTables in [[Microsoft Excel|Excel]].
 >
-> **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=10)** First, of course, is the support.[office.com](https://office.com) website.
+> **[0:10](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=10)** First, of course, is the support.[[[Microsoft Office|office]].com](https://office.com) website.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=15)** There's all kinds of terrific information available there.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=20)** The first book I'd like to recommend is "Microsoft Excel Data Analysis and Business Modeling".
+> **[0:20](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=20)** The first book I'd like to recommend is "[[Microsoft Excel]] Data Analysis and Business Modeling".
 >
-> **[0:25](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=25)** That's by Dr. Wayne Winston, and it's published by Microsoft Press.
+> **[0:25](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=25)** That's by Dr. Wayne Winston, and it's published by [[Microsoft]] Press.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=30)** This book is updated frequently, so make sure that you get the most recent edition so you can get the latest solutions.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=38)** And finally, if you want to extend your use of Excel and PivotTables beyond just what I've shown you here, you can buy "Power Pivot and Power BI" by Rob Collie and Avichal Singh from Holy Macro! Books.
+> **[0:38](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=38)** And finally, if you want to extend your use of Excel and PivotTables beyond just what I've shown you here, you can buy "Power Pivot and [[Microsoft Power BI|Power BI]]" by Rob Collie and Avichal Singh from Holy Macro! Books.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=53)** This book shows you how to use Power Pivot and Power BI to summarize and create dashboards based on your data, and it's a terrific next step after you've learned to use PivotTables.
+> **[0:53](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=53)** This book shows you how to use Power Pivot and Power BI to summarize and create [[Dashboards]] based on your data, and it's a terrific next step after you've learned to use PivotTables.
 >
 > **[1:04](https://www.linkedin.com/learning/excel-pivottables-in-depth-23781270/further-resources?u=76281980&t=64)** Thanks again and all the best.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Microsoft Excel|Excel]] (2), data (2), bi (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Power BI|Power bi]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Excel]] (1), [[Microsoft]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [office.com](https://office.com) (1)
 > **Speakers:** - [instructor] (1)

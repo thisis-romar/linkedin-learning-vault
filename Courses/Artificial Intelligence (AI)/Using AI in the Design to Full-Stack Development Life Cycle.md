@@ -98,12 +98,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leaning into AI: Reframing what we know and how we build
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
+#### [Leaning into AI: Reframing what we know and how we build](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980&t=0)** - AI is changing the landscape of web development, but you don't need to start from scratch to take advantage of it.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980&t=0)** - AI is changing the landscape of [[Web Development]], but you don't need to start from scratch to take advantage of it.
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-reframing-what-we-know-and-how-we-build?u=76281980&t=5)** Whether you want to automate tasks, optimize performance, or speed up development, AI can fit seamlessly into your existing workflow.
 >
@@ -115,11 +114,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **Speakers:** - ai (1)
 
-#### AI: Common hesitations, curiosities, and unknowns
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980)
+#### [AI: Common hesitations, curiosities, and unknowns](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980&t=9)** Throughout this course, we'll explore how to use AI as a tool to support your existing workflows and hopefully stoke your curiosity and lean into the changes AI might bring.
 >
-> **[0:19](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980&t=19)** With the rapid development of AI technology, it's important to consider things like biased AI systems, surveillance and privacy concerns, the carbon footprint that AI leaves behind, the AI automation and effects on labor and AI's impact on human creativity, as well as the learning process.
+> **[0:19](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980&t=19)** With the rapid development of AI technology, it's important to consider things like biased AI systems, surveillance and [[Privacy]] concerns, the carbon footprint that AI leaves behind, the AI automation and effects on labor and AI's impact on human creativity, as well as the learning process.
 >
 > **[0:39](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-common-hesitations-curiosities-unknowns?u=76281980&t=39)** Here are some reflection questions to guide your thinking as you learn more about AI, in general, as well as in this course.
 >
@@ -143,11 +141,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Privacy]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Speakers:** - ai (1)
 
-#### What to expect
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/what-to-expect?u=76281980)
+#### [What to expect](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/what-to-expect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,12 +158,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **Exercise Files:** starter code (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the project files
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-the-project-files?u=76281980)
+#### [Using the project files](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-the-project-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,8 +200,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leaning into AI: Introduction to AI in wireframing
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
+#### [Leaning into AI: Introduction to AI in wireframing](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leaning-into-ai-introduction-to-ai-in-wireframing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -238,21 +232,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), game (1), ux (1), next (1)
 > **Cross-References:** later in (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - wire (1)
 
-#### Exploring Figma AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980)
+#### [Exploring Figma AI tools](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=0)** - [Instructor] Figma is a powerhouse for designers, but it also has AI tools to make wire framing faster and smarter.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] is a powerhouse for designers, but it also has AI tools to make wire framing faster and smarter.
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=6)** In this video, we'll uncover Figma's hidden gems and how they can transform your workflow.
 >
-> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=12)** Some notable features that are built into Figma are auto layout, smart suggestions, and AI generated components, and some plugins such as AI Design Copilot, UX Pilot, and Text to Design, which is what I will be demonstrating in this video.
+> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=12)** Some notable features that are built into Figma are auto layout, smart suggestions, and AI generated components, and some plugins such as AI Design [[Microsoft Copilot|Copilot]], UX Pilot, and Text to Design, which is what I will be demonstrating in this video.
 >
 > **[0:27](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=27)** They all use text descriptions to generate your wireframe.
 >
@@ -316,7 +308,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=164)** I'm not just going to use it as it is, especially, honestly, with the content and all that, you're going to have to change that.
 >
-> **[2:49](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=169)** With this plugin you can preview the code, which this is just basic HTML, and not what we're going to use for our next JS project.
+> **[2:49](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=169)** With this plugin you can preview the code, which this is just basic [[HTML]], and not what we're going to use for our next JS project.
 >
 > **[2:58](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/exploring-figma-ai-tools?u=76281980&t=178)** But it's good to know how, you know, this is being generated, what classes they're using, stuff like that.
 >
@@ -344,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Figma (Software)|Figma]] (6), prompt (2), next (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (6), [[Microsoft Copilot|Copilot]] (1), [[HTML]] (1)
 > **Tools:** figma (6)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -353,8 +345,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 
-#### Generate your wireframe
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generate-your-wireframe?u=76281980)
+#### [Generate your wireframe](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generate-your-wireframe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -404,16 +395,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI as a partner: Refining the AI output wireframe
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe?u=76281980)
+#### [AI as a partner: Refining the AI output wireframe](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe?u=76281980&t=0)** - [Instructor] Now that we have our foundational wire frame, while we're here, we might as well think of the rest of our project.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe?u=76281980&t=0)** - [Instructor] Now that we have our foundational wire frame, while we're here, we might as well think of the [[Representational State Transfer (REST)|rest]] of our project.
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe?u=76281980&t=6)** Right, so we're building a pet adoption site, so we're probably going to need thumbnails or a pet object layout, so I went ahead and used Text to Design again to generate my other components, right?
 >
@@ -435,14 +424,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make it useful: Annotate your wireframe
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980)
+#### [Make it useful: Annotate your wireframe](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -450,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=16)** So let's go ahead and start with annotating the homepage, right?
 >
-> **[0:20](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=20)** So in Figma, it's really cool, you can toggle between design mode and dev mode.
+> **[0:20](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=20)** So in [[Figma (Software)|Figma]], it's really cool, you can toggle between design mode and dev mode.
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=25)** So I'll go ahead and select this, I can annotate my homepage.
 >
@@ -470,7 +458,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=78)** So I think this is pretty good now for this annotation.
 >
-> **[1:22](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=82)** And I would repeat the same process for the rest of the components that you've generated, right?
+> **[1:22](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=82)** And I would repeat the same process for the [[Representational State Transfer (REST)|rest]] of the components that you've generated, right?
 >
 > **[1:28](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-useful-annotate-your-wireframe?u=76281980&t=88)** Really thinking about the structure, the data types, what kind of content is going to be on there.
 >
@@ -486,7 +474,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Figma (Software)|Figma]] (1), prompt (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** figma (1)
 > **UI Navigation:** toggle (1)
 > **Definitions:** is a  (1)
@@ -497,8 +485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using AI to brainstorm your frontend approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
+#### [Using AI to brainstorm your frontend approach](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980&t=13)** The learning objectives for this video are understanding how AI can support brainstorming for front end development, as well as recognizing techniques to maximize AI's brainstorming potential.
 >
-> **[0:24](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980&t=24)** Brainstorming with AI can look like having a conversation with something like ChatGPT to create an initial game plan for your project.
+> **[0:24](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980&t=24)** Brainstorming with AI can look like having a conversation with something like [[ChatGPT]] to create an initial game plan for your project.
 >
 > **[0:32](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/using-ai-to-brainstorm-your-frontend-approach?u=76281980&t=32)** You can let it know what you're thinking, how you're thinking you want to approach it, what you're building.
 >
@@ -528,13 +515,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[ChatGPT]] (1), game (1), [[Debugging]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging AI tools for frontend brainstorming
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980)
+#### [Leveraging AI tools for frontend brainstorming](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980&t=6)** In this video, we'll introduce tools tailored to front-end brainstorming and how to make the most of them.
 >
-> **[0:11](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980&t=11)** Some powerful coding AI tools include GitHub Copilot, Tabnine, Codeium, and ChatGPT, which is what I will be demoing in the next video.
+> **[0:11](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980&t=11)** Some powerful coding AI tools include [[GitHub Copilot]], Tabnine, Codeium, and [[ChatGPT]], which is what I will be demoing in the next video.
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-tools-for-frontend-brainstorming?u=76281980&t=21)** Some things to remember as you move through your development process is the better you know your project, the better you're going to be able to use AI to help you build it, right?
 >
@@ -592,15 +578,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), front-end (2), [[ChatGPT]] (2), next (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[GitHub Copilot]] (1)
 > **Cross-References:** in the next (1), next video (1)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Tools:** github (1)
 > **Speakers:** - [narrator] (1)
 
-#### Writing effective AI prompts for frontend development
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/writing-effective-ai-prompts-for-frontend-development?u=76281980)
+#### [Writing effective AI prompts for frontend development](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/writing-effective-ai-prompts-for-frontend-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,7 +689,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), ai (11), front-end (2), [[Security]] (2), next (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** good practice (1), pro tip (1)
 > **File Paths:** mext.js (1)
@@ -712,20 +696,19 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI as a partner: Refining the AI output wireframe to code
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980)
+#### [AI as a partner: Refining the AI output wireframe to code](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=0)** - [Instructor] Now that we've gone over effective prompting, let's go ahead and see those prompts in action.
 >
-> **[0:05](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=5)** So, what you're seeing here is ChatGPT.
+> **[0:05](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=5)** So, what you're seeing here is [[ChatGPT]].
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=7)** You can see the screenshot from our wire frame that we generated earlier, as well as the initial prompt.
 >
 > **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=12)** I'm letting ChatGPT know that I need to generate code for this landing page.
 >
-> **[0:17](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=17)** I want it to be generated in Next.js so it's compatible with my project, and I'm going to replace the default code with the output that it gives me.
+> **[0:17](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=17)** I want it to be generated in [[Next.js]] so it's compatible with my project, and I'm going to replace the default code with the output that it gives me.
 >
 > **[0:25](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-wireframe-to-code?u=76281980&t=25)** I also give it a specific ask to create these component files for me.
 >
@@ -779,7 +762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), [[ChatGPT]] (2), [[Next.js]] (2), ai (2), css (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Next.js]] (2)
 > **File Paths:** next.js (2), page.js (2)
 > **Env Vars:** scss (2), css (1)
 > **CLI Commands:** make (1)
@@ -788,12 +771,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make it real: First frontend iteration
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-first-frontend-iteration?u=76281980)
+#### [Make it real: First frontend iteration](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-first-frontend-iteration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-first-frontend-iteration?u=76281980&t=0)** - [Instructor] Now that we've generated our output using ChatGPT, let's go ahead and look at how it looks in the code base.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-first-frontend-iteration?u=76281980&t=0)** - [Instructor] Now that we've generated our output using [[ChatGPT]], let's go ahead and look at how it looks in the code base.
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-first-frontend-iteration?u=76281980&t=6)** Right, so I've copied and pasted the code that it gave me in the output into my project, and it's important to note that it just gave me the files, right?
 >
@@ -817,7 +799,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (1), css (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (2)
 > **File Paths:** page.js (1)
 > **Env Vars:** css (1)
@@ -829,8 +811,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coming up with your backend approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
+#### [Coming up with your backend approach](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/coming-up-with-your-backend-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,15 +853,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), api (1), next (1)
 > **Env Vars:** api (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** boilerplate (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing benefits and tradeoffs
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980)
+#### [Analyzing benefits and tradeoffs](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +871,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=18)** These work really well as a thought partner as you continue through your workflow.
 >
-> **[0:22](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=22)** We will be using ChatGPT in this chapter, but feel free to explore and use other tools that work for your workflow.
+> **[0:22](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=22)** We will be using [[ChatGPT]] in this chapter, but feel free to explore and use other tools that work for your workflow.
 >
 > **[0:29](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=29)** Some things to consider are thinking of your project as a whole, which you have things built at this point in your lifecycle, but you also want to think ahead as well in terms of testing, documentation, handoff, all of those things.
 >
@@ -926,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=126)** But overall, speed is not the goal with using AI, right?
 >
-> **[2:09](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=129)** You want to create quality products, you want to write quality code, use best practices, things like that.
+> **[2:09](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=129)** You want to create quality [[Microsoft Products|products]], you want to write quality code, use best practices, things like that.
 >
 > **[2:15](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/analyzing-benefits-and-tradeoffs?u=76281980&t=135)** So I really want to drive home that using AI to become a better dev for you and your team is really the ultimate goal.
 >
@@ -938,13 +917,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[ChatGPT]] (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - backend (1)
 
-#### AI as a partner: Refining the AI output backend brainstorm
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980)
+#### [AI as a partner: Refining the AI output backend brainstorm](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,7 +938,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=17)** I'm building a pet adoption website.
 >
-> **[0:19](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=19)** This architecture is decoupled, got Next.js as my frontend, and I need a backend CMS that's going to meet my needs, right?
+> **[0:19](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=19)** This architecture is decoupled, got [[Next.js]] as my frontend, and I need a backend CMS that's going to meet my needs, right?
 >
 > **[0:26](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=26)** So I list those out and I want the AI to suggest three backend tools that help me achieve this.
 >
@@ -978,7 +956,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=64)** So I suggested Contentful because I've used it before.
 >
-> **[1:07](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=67)** And I wanted to ask chatGPT, what it thought about Contentful for this project.
+> **[1:07](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=67)** And I wanted to ask [[ChatGPT]], what it thought about Contentful for this project.
 >
 > **[1:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-as-partner-refining-ai-output-backend-brainstorm?u=76281980&t=72)** And it's saying that Contentful is an excellent choice for this and it's going to go ahead and give me a full breakdown, which is really awesome.
 >
@@ -1054,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), ai (3), cms (2), prompt (2), [[Next.js]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Next.js]] (2)
 > **Code Identifiers:** chatgpt (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** setup (1), install (1), configure (1)
@@ -1063,12 +1041,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 
-#### Make it real: Frontend meets the backend
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980)
+#### [Make it real: Frontend meets the backend](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=0)** - [Instructor] Now that we've used our output generated from ChatGPT and plugged it into our codebase, this is our front end, right?
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=0)** - [Instructor] Now that we've used our output generated from [[ChatGPT]] and plugged it into our codebase, this is our front end, right?
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=7)** Our styling is still intact.
 >
@@ -1078,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=30)** And so I was able to debug alongside ChatGPT as well as call out any errors that were happening.
 >
-> **[0:37](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=37)** And this is a really good example of using ChatGPT or an AI tool as a partner in the process because I was able to debug right there in real-time versus having to dig through documentation and find different information on how to do that.
+> **[0:37](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=37)** And this is a really good example of using ChatGPT or an AI tool as a partner in the process because I was able to debug right there in [[Real-Time]] versus having to dig through documentation and find different information on how to do that.
 >
 > **[0:54](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/make-it-real-frontend-meets-the-backend?u=76281980&t=54)** And I was able to move through the code pretty easily because I know my project well, right?
 >
@@ -1092,7 +1069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), ai (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Real-Time]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
@@ -1103,8 +1080,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing your code with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
+#### [Testing your code with AI](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/testing-your-code-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,12 +1108,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Debugging]] (4), power (1)
 > **Exercise Files:** boilerplate (1)
 > **Speakers:** - [narrator] (1)
 
-#### Leveraging AI when writing tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980)
+#### [Leveraging AI when writing tests](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1119,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=5)** In this video, we'll explore AI tools that help you write tests and integrate testing suites seamlessly into your project.
 >
-> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=12)** Some tools for AI-assisted test generation are TestGPT, GitHub Copilot, and ChatGPT, which is what we will be using in this chapter.
+> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=12)** Some tools for AI-assisted test generation are TestGPT, [[GitHub Copilot]], and [[ChatGPT]], which is what we will be using in this chapter.
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=21)** I also use GitHub Copilot, it's very reliable and I enjoy it a lot, but for our purposes here, we'll be using ChatGPT.
 >
@@ -1175,7 +1149,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=82)** AI-generated insights can be really helpful for you as a dev.
 >
-> **[1:26](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=86)** It supports your continuous learning and improvement, it can help you recognize patterns in test failures, and improve your coding practices.
+> **[1:26](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=86)** It supports your continuous learning and improvement, it can help you recognize patterns in test failures, and improve your [[Coding Practices]].
 >
 > **[1:34](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/leveraging-ai-when-writing-tests?u=76281980&t=94)** Maybe you've had a certain issue with implementing a certain test suite, and you remember that you've worked through this with AI before, and now you're learning, and you're becoming a better developer in the process.
 >
@@ -1193,17 +1167,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[GitHub Copilot]] (2), [[ChatGPT]] (2), application (1), ux (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (2), [[ChatGPT]] (2), [[Coding Practices]] (1)
 > **CLI Commands:** make (1), cd (1)
 > **Tools:** github (2)
 > **Speakers:** - [instructor] (1)
 
-#### Effective prompting for testing your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/effective-prompting-for-testing-your-project?u=76281980)
+#### [Effective prompting for testing your project](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/effective-prompting-for-testing-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/effective-prompting-for-testing-your-project?u=76281980&t=0)** - [Instructor] In this video, I've already had a conversation with ChatGPT about setting up a testing suite in my project and I'll move through the process to show you how I got what I needed.
+> **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/effective-prompting-for-testing-your-project?u=76281980&t=0)** - [Instructor] In this video, I've already had a conversation with [[ChatGPT]] about setting up a testing suite in my project and I'll move through the process to show you how I got what I needed.
 >
 > **[0:09](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/effective-prompting-for-testing-your-project?u=76281980&t=9)** So here we have our initial prompt setting the context and basically the foundation for this session with ChatGPT, I'm making sure to let it know what I'm building, what I'm using to build it.
 >
@@ -1297,15 +1270,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Debugging]] (5), ai (3), prompt (2), api (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (5)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/troubleshooting-with-ai?u=76281980)
+#### [Troubleshooting with AI](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/troubleshooting-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,15 +1319,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** scroll up (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [host] (1)
 
-#### It's time to run it: Testing your tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980)
+#### [It's time to run it: Testing your tests](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1363,7 +1333,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980&t=6)** So here you can see my initial setup with just, and we can go ahead and run it.
 >
-> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980&t=12)** Npm run test, that should run just good.
+> **[0:12](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980&t=12)** [[npm]] run test, that should run just good.
 >
 > **[0:17](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/let-s-run-it-testing-your-tests?u=76281980&t=17)** And you're going to see that the tests are failing and that's okay.
 >
@@ -1415,7 +1385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), next (1)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **CLI Commands:** npm (2), make (2), find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1425,8 +1395,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streamlining handoff and delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
+#### [Streamlining handoff and delivery](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1405,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980&t=21)** In this chapter, your Learning Objectives are to understand how AI can optimize communication and asset organization to make the handoff to developers smoother, as well as client delivery.
 >
-> **[0:34](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980&t=34)** Additionally, you'll explore how AI can automate deployment processes and quality assurance in project delivery.
+> **[0:34](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980&t=34)** Additionally, you'll explore how AI can automate deployment processes and [[Quality Assurance]] in project delivery.
 >
 > **[0:41](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/streamlining-handoff-delivery?u=76281980&t=41)** Using AI to assist us in our handoff and delivery process helps foster seamless collaboration across teams by being able to organize design specs, generating documentation, or add comments to our code for future developers.
 >
@@ -1450,13 +1419,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), teams (3), [[Automation]] (2), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cicd (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-assisted delivery and handoff in the real world
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-assisted-delivery-and-handoff-in-the-real-world?u=76281980)
+#### [AI-assisted delivery and handoff in the real world](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/ai-assisted-delivery-and-handoff-in-the-real-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1494,21 +1462,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Automation]] (1), api (1), next (1)
 > **Warnings:** keep in mind (1), troubleshoot (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generating useful documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980)
+#### [Generating useful documentation](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980&t=0)** - [Instructor] Good documentation starts with good prompts.
 >
-> **[0:03](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980&t=3)** In this video, I'll show you my documentation process with ChatGPT.
+> **[0:03](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980&t=3)** In this video, I'll show you my documentation process with [[ChatGPT]].
 >
 > **[0:07](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/generating-useful-documentation?u=76281980&t=7)** So here you can see that this is my initial prompt.
 >
@@ -1572,13 +1538,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (2), ai (2), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Env Vars:** readme (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Documentation for devs
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/documentation-for-devs?u=76281980)
+#### [Documentation for devs](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/documentation-for-devs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1614,14 +1579,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2)
 > **Env Vars:** readme (2), api (2), url (1)
 > **CLI Commands:** find (1), make (1)
 > **Documentation:** the readme (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing your documentation for client delivery
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/preparing-your-documentation-for-client-delivery?u=76281980)
+#### [Preparing your documentation for client delivery](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/preparing-your-documentation-for-client-delivery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,7 +1636,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), cms (2), ai (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cms (2), faq (1)
 > **Speakers:** - [instructor] (1)
@@ -1683,8 +1645,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of design to dev stages and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)
+#### [Overview of design to dev stages and AI](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/overview-of-design-to-dev-stages-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1702,11 +1663,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Speakers:** - [instructor] (1)
 
-#### How might you integrate AI into your personal workflow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980)
+#### [How might you integrate AI into your personal workflow?](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1718,7 +1677,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980&t=16)** Keep that curiosity alive, keep coding, and most importantly, enjoy the journey.
 >
-> **[0:20](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980&t=20)** If this course inspired you or gave you that big aha moment, feel free to connect with me on LinkedIn and let me know.
+> **[0:20](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980&t=20)** If this course inspired you or gave you that big aha moment, feel free to connect with me on [[LinkedIn]] and let me know.
 >
 > **[0:26](https://www.linkedin.com/learning/using-ai-in-the-design-to-full-stack-development-life-cycle/how-might-you-integrate-ai-into-your-personal-workflow?u=76281980&t=26)** I'd love to hear how you're using AI in your workflow.
 >
@@ -1728,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 

@@ -85,8 +85,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI orchestration for observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/ai-orchestration-for-observability?u=76281980)
+#### [AI orchestration for observability](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/ai-orchestration-for-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,37 +101,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), llm (2), data (1), next (1)
 > **Env Vars:** llm (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [fikayo] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=0)** - [Instructor] Once again, I would like to welcome you to this AI orchestration course focused on planning and orchestrating for observability.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=0)** - [Instructor] Once again, I would like to welcome you to this [[AI Orchestration]] course focused on planning and orchestrating for observability.
 >
 > **[0:08](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=8)** Before you dive into this course, it is important that you know that you're equipped with the necessary skills and tools to take this course.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=16)** So in this video, we'll be going to a checklist of items that you need to fulfill before you take this course.
 >
-> **[0:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=23)** And first on the list is that you need to know what large language models are and what it is like building applications powered by these models.
+> **[0:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=23)** And first on the list is that you need to know what [[Large Language Models (LLM)|large language models]] are and what it is like building applications powered by these models.
 >
 > **[0:32](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=32)** Yeah, this course focuses on observability for LLM-powered applications and how it is made easier with orchestration tools.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=39)** So you need to be familiar with application development using modern LLMs, from vendors like OpenAI or Google Gemini.
+> **[0:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=39)** So you need to be familiar with [[Application Development]] using modern LLMs, from vendors like OpenAI or [[Google Gemini]].
 >
-> **[0:47](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=47)** It'll also help if you have built one or two applications powered by models like GPT-4 or Google Gemini.
+> **[0:47](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=47)** It'll also help if you have built one or two applications powered by models like [[GPT-4]] or Google Gemini.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=55)** This will help you better understand exactly what your goals are when implementing observability tools.
 >
-> **[1:02](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=62)** Familiarity with AI orchestration frameworks like LangChain and LlamaIndex is also a good foundation for taking this course.
+> **[1:02](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=62)** Familiarity with AI orchestration frameworks like [[LangChain]] and [[LlamaIndex]] is also a good foundation for taking this course.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=70)** While I will do my best to define what orchestration tools are, experience working with these tools will better equip you for taking this course.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=78)** If you need a quick study on these topics, that is building applications with large language models or working with AI orchestration frameworks, there are numerous courses in the LinkedIn Learning Library for these topics.
+> **[1:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=78)** If you need a quick study on these topics, that is building applications with large language models or working with AI orchestration frameworks, there are numerous courses in the [[LinkedIn]] Learning Library for these topics.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=91)** I'll specifically recommend Introduction to AI Orchestration with LangChain and LlamaIndex by M. Joel Dubinko.
 >
@@ -140,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=109)** However, if you're already familiar with the prerequisite listed, feel free to jump straight into the course.
 >
-> **[1:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=116)** I'll also like to point out that all the code written this course is available on GitHub at a link displayed on the screen.
+> **[1:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=116)** I'll also like to point out that all the code written this course is available on [[GitHub]] at a link displayed on the screen.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-you-should-know?u=76281980&t=124)** The link can also be found in the overview section of this course.
 >
@@ -150,7 +147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (6), ai (5), [[Large Language Models (LLM)|Large language models]] (2), [[Google Gemini]] (2), [[LangChain]] (2)
+> **Frameworks & Libraries:** [[AI Orchestration]] (4), [[Large Language Models (LLM)|Large language models]] (2), [[Google Gemini]] (2), [[LangChain]] (2), [[LlamaIndex]] (2)
 > **Env Vars:** llm (1), gpt (1)
 > **Tools:** github (1)
 > **Prerequisites:** prerequisite (1)
@@ -161,8 +158,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is AI observability?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980)
+#### [What is AI observability?](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -188,7 +184,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=75)** The more dynamism, probabilities, or unpredictable components exist in a software system, the more liable the system is to bugs.
 >
-> **[1:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=83)** So how do we ensure that we're taking full advantage of powerful generative AI models and also keeping their activities in check in order to reduce, detect and mitigate on desired outcomes?
+> **[1:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=83)** So how do we ensure that we're taking full advantage of powerful [[Generative AI]] models and also keeping their activities in check in order to reduce, detect and mitigate on desired outcomes?
 >
 > **[1:36](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=96)** This is where AI observability comes in.
 >
@@ -196,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=112)** This activity also extends to all other components to the model interacts with.
 >
-> **[1:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=117)** For example, prompt, vector databases and even external web search or database querying tools.
+> **[1:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=117)** For example, prompt, [[Vector Databases]] and even external web search or database querying tools.
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/what-is-ai-observability?u=76281980&t=124)** So you can simply say that AI observability gives you visibility into the activity of AI models, powering software applications, and all their surrounding components.
 >
@@ -228,14 +224,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (22), prompt (2), [[Generative AI]] (1), [[Vector Databases]] (1), web (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Vector Databases]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goals of AI observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980)
+#### [Goals of AI observability](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -257,7 +252,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980&t=59)** This includes understanding the inputs it receives, the outputs it generates, and internal decisions it makes along the way.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980&t=66)** For large language models, which our experts refer to as LLMs, this might involve analyzing the generated text for patterns, biases, or unexpected results.
+> **[1:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980&t=66)** For [[Large Language Models (LLM)|large language models]], which our experts refer to as LLMs, this might involve analyzing the generated text for patterns, biases, or unexpected results.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/goals-of-ai-observability?u=76281980&t=77)** The next factor we need to gain insight and understanding into is performance in our AI applications.
 >
@@ -331,15 +326,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (31), application (7), next (5), data (4), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **Cross-References:** previous video (1), next video (1), in the next (1)
 > **Definitions:** refers to (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Benefits of AI observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980)
+#### [Benefits of AI observability](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -365,7 +359,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=70)** By continuously monitoring key metrics like accuracy, speed, and resource usage, we can identify areas for optimization.
 >
-> **[1:19](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=79)** Optimizations can be introduced through activities like fine tuning the model, implementing retrieval augmented generation, improving data quality and prompt design, or even reducing complexity of workflows.
+> **[1:19](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=79)** Optimizations can be introduced through activities like [[Fine Tuning]] the model, implementing retrieval augmented generation, improving [[Data Quality]] and prompt design, or even reducing complexity of workflows.
 >
 > **[1:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=91)** When problems arise, observability tools help you to quickly pinpoint the root cause, saving you valuable time and resources.
 >
@@ -381,17 +375,17 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=141)** And finally, AI observability fosters trust and transparency.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=146)** Trust is a key essential commodity for users to adopt your AI solutions.
+> **[2:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=146)** Trust is a key essential commodity for users to adopt your [[AI Solutions]].
 >
 > **[2:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=151)** Observability promotes transparency by providing insights into how the AI application works and why it makes certain decisions.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=160)** This helps build confidence amongst users, stakeholders, and the public about your product.
 >
-> **[2:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=166)** By demonstrating responsible AI practices through observability, you can foster trust and encourage wide acceptance of your AI products and AI powered features.
+> **[2:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=166)** By demonstrating [[Responsible AI]] practices through observability, you can foster trust and encourage wide acceptance of your AI [[Microsoft Products|products]] and AI powered features.
 >
 > **[2:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=176)** And that's our run through of the benefits of implementing observability in AI applications.
 >
-> **[3:02](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=182)** Now, this course is all about how we can use AI orchestration to achieve better observability, and you may be wondering why we haven't mentioned anything about AI orchestrators yet.
+> **[3:02](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=182)** Now, this course is all about how we can use [[AI Orchestration]] to achieve better observability, and you may be wondering why we haven't mentioned anything about AI orchestrators yet.
 >
 > **[3:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/benefits-of-ai-observability?u=76281980&t=192)** Don't worry, we'll be doing just that in the next video.
 >
@@ -399,23 +393,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), application (2), [[Fine Tuning]] (1), data (1), prompt (1)
+> **Frameworks & Libraries:** [[Fine Tuning]] (1), [[Data Quality]] (1), [[AI Solutions]] (1), [[Responsible AI]] (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The need for orchestration in observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980)
+#### [The need for orchestration in observability](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=0)** - [Instructor] Now that we fully understand AI observability and its benefits, we can now begin discussion on how AI orchestration ties into our observability goals.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=0)** - [Instructor] Now that we fully understand AI observability and its benefits, we can now begin discussion on how [[AI Orchestration]] ties into our observability goals.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=11)** But before we begin, I will not want to assume that everyone watching this course understands what AI orchestration is or what AI orchestrators are.
 >
 > **[0:21](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=21)** So let's first get that out of the way before diving into how AI orchestration aids observability.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=29)** AI orchestration is a practice of using orchestrators like LangChain and LlamaIndex to build your LLM-powered applications, instead of calling the APIs of LLM providers directly, or trying to manage all the interactions with tools, databases, and services manually.
+> **[0:29](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=29)** AI orchestration is a practice of using orchestrators like [[LangChain]] and [[LlamaIndex]] to build your LLM-powered applications, instead of calling the APIs of LLM providers directly, or trying to manage all the interactions with tools, [[Databases]], and services manually.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=46)** Now let's look at why such tools are important, and fast becoming the defacto strategy for building LLM-powered applications today.
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=116)** Orchestrators like LangChain and LlamaIndex provide a structured way to define, orchestrate, and manage complex LLM workflows.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=124)** These orchestrators provide pre-built components and abstractions that handle common tasks like loading data, prompt engineering, output parsing, memory management, tool calling, and manual.
+> **[2:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=124)** These orchestrators provide pre-built components and abstractions that handle common tasks like loading data, [[Prompt Engineering]], output parsing, [[Memory Management]], tool calling, and manual.
 >
 > **[2:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=137)** Using these components to write and manage your workflows reduces the amount of custom code you need to write.
 >
@@ -451,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=166)** AI orchestrators also offer integrations with a wide range of tools and services, making it easier to connect your LLM to databases, APIs, and other AI models.
 >
-> **[2:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=177)** This expands the capabilities of your application and also simplifies data management in your AI apps.
+> **[2:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=177)** This expands the capabilities of your application and also simplifies [[Data Management]] in your AI apps.
 >
 > **[3:05](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=185)** So that is your quick crash course on AI orchestration and its major benefits.
 >
@@ -461,7 +454,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=202)** You see, while observability is crucial in our AI applications, it is quite difficult to implement manually.
 >
-> **[3:30](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=210)** To gain insights into your LLM-powered applications, you need to track inputs, the intermediate steps in your workflows, and a bunch of performance metrics.
+> **[3:30](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=210)** To gain insights into your LLM-powered applications, you need to track inputs, the intermediate steps in your workflows, and a bunch of [[Performance Metrics]].
 >
 > **[3:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/the-need-for-orchestration-in-observability?u=76281980&t=219)** Doing this manually can be very tedious, time-consuming, and error-prone.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), llm (14), [[Orchestration]] (9), data (8), [[LangChain]] (5)
+> **Frameworks & Libraries:** [[AI Orchestration]] (7), [[LangChain]] (5), [[LlamaIndex]] (3), [[Databases]] (3), [[Prompt Engineering]] (1)
 > **Env Vars:** llm (14)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -513,8 +506,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Observing infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980)
+#### [Observing infrastructure](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=59)** You need to clearly outline your goals for your infrastructure observability.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=64)** Are you trying to prevent performance bottlenecks, optimize resource utilization, ensure system stability and reliability, improve capacity planning, or troubleshoot issues faster?
+> **[1:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=64)** Are you trying to prevent performance bottlenecks, optimize resource utilization, ensure system stability and reliability, improve [[Capacity Planning]], or troubleshoot issues faster?
 >
 > **[1:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=77)** Having all this properly spelled out will ensure that you have a good grasp of the scope of what you're trying to monitor and how it aligns with your operational targets.
 >
@@ -566,7 +558,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=179)** And, finally, in our strategy for observing infrastructure, you need to visualize and analyze your results.
 >
-> **[3:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=186)** This involves creating dashboards to visualize your infrastructure metrics in real time for a clear overview of system health and performance.
+> **[3:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=186)** This involves creating [[Dashboards]] to visualize your infrastructure metrics in real time for a clear overview of system health and performance.
 >
 > **[3:14](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=194)** You can also combine infrastructure metrics with application-level logs and traces to gain a holistic view of your LLM application's behavior.
 >
@@ -604,13 +596,13 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=296)** Implementing observability at the infrastructure layer provides a solid base for understanding and optimizing your LLM application's performance.
 >
-> **[5:05](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=305)** By monitoring key metrics and analyzing data, you can ensure that your infrastructure is running efficiently, prevent potential issues, and ultimately deliver a better user experience.
+> **[5:05](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=305)** By monitoring key metrics and analyzing data, you can ensure that your infrastructure is running efficiently, prevent potential issues, and ultimately deliver a better [[User Experience (UX)|user experience]].
 >
 > **[5:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-infrastructure?u=76281980&t=317)** In the next video, we'll be exploring the next layer to implement observability, the model or LLM layer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), llm (7), next (5), ai (4), [[Capacity Planning]] (2)
+> **Frameworks & Libraries:** [[Capacity Planning]] (2), [[Dashboards]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** llm (7), cpu (2), elk (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -619,8 +611,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Observing models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980)
+#### [Observing models](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,7 +653,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=129)** This involves capturing detailed logs of your model's inputs, outputs, and any intermediate steps.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=136)** Information gathered from this step helps provide a record of the model's behavior and allows you to trace its decision-making process.
+> **[2:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=136)** Information gathered from this step helps provide a record of the model's behavior and allows you to trace its [[Decision-Making]] process.
 >
 > **[2:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=144)** You also need to implement the mechanisms that help you collect the metrics you have identified.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=187)** Once you have instrumented your models for login, metric collection, and tracing, the final step is to analyze and visualize your performance data.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=196)** This is done by creating dashboards to visualize key model metrics in real-time.
+> **[3:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=196)** This is done by creating [[Dashboards]] to visualize key model metrics in [[Real-Time]].
 >
 > **[3:21](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-models?u=76281980&t=201)** This gives you a clear overview of model health and performance.
 >
@@ -718,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (7), next (4), data (4), application (2), ai (2)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Dashboards]] (1), [[Real-Time]] (1)
 > **Env Vars:** llm (7)
 > **Definitions:** is a  (3)
 > **Cross-References:** previous video (1), in the next (1)
@@ -726,8 +717,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Observing caches and vector databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980)
+#### [Observing caches and vector databases](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -735,11 +725,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=9)** It needs to interact with other components to be able to achieve the powerful AI features we are now accustomed to.
 >
-> **[0:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=18)** One of those interactions is with semantic caches and vector databases.
+> **[0:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=18)** One of those interactions is with semantic caches and [[Vector Databases]].
 >
-> **[0:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=23)** Practice and popularity of retrieval-augmented generation, RAG, has also made the need for LLMs to work with vector databases a requirement in most AI applications.
+> **[0:23](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=23)** Practice and popularity of [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], RAG, has also made the need for LLMs to work with vector databases a requirement in most AI applications.
 >
-> **[0:34](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=34)** While semantic caches and vector databases are becoming more popular in AI applications for RAG and also long and short-term memory of AI agents, they have also become critical to the performance of AI applications as they also introduce their own set of complexities which we need to pay careful attention to.
+> **[0:34](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=34)** While semantic caches and vector databases are becoming more popular in AI applications for RAG and also long and short-term memory of [[AI Agents]], they have also become critical to the performance of AI applications as they also introduce their own set of complexities which we need to pay careful attention to.
 >
 > **[0:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=52)** So in this video, using the framework of defining our goals, instrumenting our system, and visualizing our data for analysis, we'll be breaking down the observability strategy for semantic caches and vector databases.
 >
@@ -755,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=100)** Latency, which measures how long it takes to retrieve information from the vector database or cache.
 >
-> **[1:47](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=107)** Data quality, which checks if the data in the vector database and cache are accurate and up to date.
+> **[1:47](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=107)** [[Data Quality]], which checks if the data in the vector database and cache are accurate and up to date.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=115)** And we also have storage efficiency, which checks if the vector database is optimized for storage and retrieval.
 >
@@ -763,13 +753,13 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=134)** Important metrics to take into account for caches and vector databases include Recall@K, which is a measure of the proportion of relevant documents retrieved in the top K results.
 >
-> **[2:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=147)** Top K is a sampling technique for token selection, which picks the next possible tokens from a fixed K number of tokens.
+> **[2:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=147)** Top K is a sampling technique for token selection, which picks the next possible [[Tokens]] from a fixed K number of tokens.
 >
 > **[2:35](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=155)** Other metrics include cache hit rate, query latency, index size and growth rate, and data freshness, for example, measuring the last time the database or cache was updated.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=169)** Once you have identified your objectives, it's time to move to the next step in the observability strategy, instrumenting your caches and vector databases.
 >
-> **[2:59](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=179)** Most vector databases like Milvus, Weaviate, and Pinecone provide built-in monitoring capabilities.
+> **[2:59](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=179)** Most vector databases like Milvus, [[Weaviate]], and [[Pinecone]] provide built-in monitoring capabilities.
 >
 > **[3:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=186)** You can leverage this to track metrics like query latency, index size, and resource allocation.
 >
@@ -785,7 +775,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=233)** Finally, in our observability implementation strategy for semantic caches and vector databases is analysis and visualization.
 >
-> **[4:01](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=241)** You first need to create dashboards to visualize key metrics related to your vector database and sematic cache.
+> **[4:01](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=241)** You first need to create [[Dashboards]] to visualize key metrics related to your vector database and sematic cache.
 >
 > **[4:08](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=248)** This provides a clear overview of your performance and health.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=343)** This immediately has a direct impact on the amount you're spending in running your LLMs.
 >
-> **[5:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=349)** You also get an enhanced user experience.
+> **[5:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=349)** You also get an enhanced [[User Experience (UX)|user experience]].
 >
 > **[5:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-caches-and-vector-databases?u=76281980&t=352)** By improving the performance and the accuracy of your RAG system, you can deliver a better user experience with faster and more relevant responses.
 >
@@ -839,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vector Databases]] (10), ai (8), database (8), data (7), llm (6)
+> **Frameworks & Libraries:** [[Vector Databases]] (10), [[Tokens]] (2), [[User Experience (UX)|User experience]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[AI Agents]] (1)
 > **Env Vars:** llm (6), rag (5)
 > **Analogies:** for example (4), just like (1), such as (1)
 > **CLI Commands:** find (1), make (1)
@@ -848,16 +838,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Observing orchestration frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980)
+#### [Observing orchestration frameworks](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=0)** - [Instructor] Observability for orchestration frameworks, like LangChain, Land Graph, and LlamaIndex, which are now becoming the industry standard for building LLM applications, is essential for understanding the performance and behavior of your entire LLM application.
+> **[0:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=0)** - [Instructor] Observability for orchestration frameworks, like [[LangChain]], Land Graph, and [[LlamaIndex]], which are now becoming the industry standard for building LLM applications, is essential for understanding the performance and behavior of your entire LLM application.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=15)** These frameworks play a central role in managing complex workflows, therefore, observing them is crucial for identifying bottlenecks and optimizing performance.
 >
-> **[0:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=27)** In this video, we'll be diving into our observability framework and how we can implement it for AI orchestration tools.
+> **[0:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=27)** In this video, we'll be diving into our observability framework and how we can implement it for [[AI Orchestration]] tools.
 >
 > **[0:35](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=35)** And as usual, we start with defining our objectives.
 >
@@ -869,7 +858,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=66)** We can also check error handling in our AI workflows to see how effectively errors are being handled within the orchestration framework.
 >
-> **[1:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=75)** Resource usage is also a crucial focus when it comes to observing orchestration tools, like prompt flow or line graph.
+> **[1:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=75)** Resource usage is also a crucial focus when it comes to observing orchestration tools, like [[Prompt Flow]] or line graph.
 >
 > **[1:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=82)** We need to add visibility over how much memory and compute are being consumed by the framework itself.
 >
@@ -903,7 +892,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=210)** Once you're done with the instrumentation step, you can then move to analyzing and visualizing.
 >
-> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=217)** Here you can create dashboards to visualize metrics related to your orchestration framework.
+> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=217)** Here you can create [[Dashboards]] to visualize metrics related to your orchestration framework.
 >
 > **[3:41](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/observing-orchestration-frameworks?u=76281980&t=221)** This will provide a clear overview of workflow, performance, and resource utilization.
 >
@@ -943,7 +932,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (17), llm (8), data (5), application (4), next (4)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[LlamaIndex]] (2), [[AI Orchestration]] (2), [[Prompt Flow]] (1), [[Dashboards]] (1)
 > **Env Vars:** llm (8), cpu (1), rag (1)
 > **Analogies:** for example (3), such as (2)
 > **Cross-References:** in the next (2)
@@ -957,8 +946,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating an observability strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980)
+#### [Creating an observability strategy](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=85)** The first step is to pick and use an orchestration framework to build the application.
 >
-> **[1:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=91)** We can choose between different options like line chain, line graph, count flow, or LlamaIndex, depending on whether we want to build the app as an orchestrated workflow or an independently functioning agent.
+> **[1:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=91)** We can choose between different options like line chain, line graph, count flow, or [[LlamaIndex]], depending on whether we want to build the app as an orchestrated workflow or an independently functioning agent.
 >
 > **[1:44](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=104)** We'll be going into more details about this step in a subsequent video.
 >
@@ -1006,11 +994,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=153)** There are tools like Prometheus, that specializes in metrics collection.
 >
-> **[2:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=157)** The ELK Stack of Elasticsearch, Logstash, and Kibana focus on log collection and querying.
+> **[2:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=157)** The ELK Stack of [[Elasticsearch]], Logstash, and Kibana focus on log collection and querying.
 >
 > **[2:44](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=164)** We also have Grafana, that focuses on the visualization of observability data.
 >
-> **[2:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=169)** Then there are full-featured tools like Datadog, New Relic, and even LangSmith by the creators of LangChain.
+> **[2:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=169)** Then there are full-featured tools like Datadog, New Relic, and even LangSmith by the creators of [[LangChain]].
 >
 > **[2:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=176)** These full-featured observability tools seek to cover every aspect of the observability value chain, including other tasks like alerting and automation.
 >
@@ -1020,7 +1008,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=200)** This data will then be stored, and we can query them to analyze the performance of the application.
 >
-> **[3:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=206)** For better visibility into the activities of the application, we'll also be creating dashboards to visualize workflow, identify errors, and monitor input and output of our LLMs and the surrounding components.
+> **[3:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=206)** For better visibility into the activities of the application, we'll also be creating [[Dashboards]] to visualize workflow, identify errors, and monitor input and output of our LLMs and the surrounding components.
 >
 > **[3:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-an-observability-strategy?u=76281980&t=219)** With this implemented, we'll now have an AI application that has been fully instrumented for observability.
 >
@@ -1042,15 +1030,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), data (8), ai (5), [[Orchestration]] (4), next (2)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1), [[Elasticsearch]] (1), [[LangChain]] (1), [[Dashboards]] (1)
 > **Env Vars:** llm (1), rag (1), elk (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Picking an orchestration framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980)
+#### [Picking an orchestration framework](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1060,11 +1047,11 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=24)** I also mentioned that for accuracy, this application will be using retrieval augmented generation, RAG, to help the model provide accurate answers by referencing factual documents and historical records.
 >
-> **[0:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=37)** Thus, aside the model, which will be the central point of this application, we'll also need to work with an embedding model, a retriever, and a vector database like Pinecone.
+> **[0:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=37)** Thus, aside the model, which will be the central point of this application, we'll also need to work with an embedding model, a retriever, and a vector database like [[Pinecone]].
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=48)** We also need to know where we'll be getting our facts from.
 >
-> **[0:51](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=51)** We can browse the web, extract information from documents like PDF or text files, or even search an actual database like MySQL.
+> **[0:51](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=51)** We can browse the web, extract information from documents like PDF or text files, or even search an actual database like [[MySQL]].
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=60)** So we have a model at the center of our application, an information source to query, and a set of components to embed our static information, store them, and retrieve the relevant part for our queries.
 >
@@ -1072,9 +1059,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=84)** But first, we need to decide whether we want to build this feature as an orchestrated workflow or as an independent AI agent.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=93)** If we want it as an orchestrated workflow, then frameworks like LangChain and LlamaIndex can help us achieve that.
+> **[1:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=93)** If we want it as an orchestrated workflow, then frameworks like [[LangChain]] and [[LlamaIndex]] can help us achieve that.
 >
-> **[1:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=100)** Other options like Prompt Flow from Microsoft and Haystack are also great options.
+> **[1:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=100)** Other options like [[Prompt Flow]] from [[Microsoft]] and Haystack are also great options.
 >
 > **[1:45](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=105)** However, an application referred to as the Helpful Historian sounds like an assistant that users can just walk up to and it can help them with their history questions.
 >
@@ -1088,7 +1075,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=147)** A framework like LangChain can help you build simple agentic workflows.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=151)** However, the developers of LangChain have created LangGraph specifically for building AI agents.
+> **[2:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=151)** However, the developers of LangChain have created LangGraph specifically for building [[AI Agents]].
 >
 > **[2:38](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=158)** With LangGraph, you get agent native tools and APIs to build simple and complex AI agents that you can fully customize.
 >
@@ -1100,7 +1087,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=190)** For this course, I'll be going with LangGraph, an agent development framework by the developers of LangChain.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=198)** LangGraph is easy to work with as a Python and JavaScript SDK, and highly customizable in designing your agentic workflows.
+> **[3:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=198)** LangGraph is easy to work with as a [[Python (Programming Language)|Python]] and [[JavaScript]] SDK, and highly customizable in designing your agentic workflows.
 >
 > **[3:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=206)** It is also open source, so that's a plus.
 >
@@ -1122,7 +1109,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=256)** After the retrieval step, we then proceed to generation.
 >
-> **[4:20](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=260)** LangGraph passes the retrieved context and the user's question to an LLM, for example, GPT-4.0 by OpenAI or Gemini 1.5 Pro by Google, along with a prompt engineer to generate comprehensive and informative answers.
+> **[4:20](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=260)** LangGraph passes the retrieved context and the user's question to an LLM, for example, [[GPT-4]].0 by OpenAI or [[Gemini]] 1.5 Pro by [[Google]], along with a prompt engineer to generate comprehensive and informative answers.
 >
 > **[4:35](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-orchestration-framework?u=76281980&t=275)** We can also decide to add a fact checking tool to verify the LLM's output against another knowledge source.
 >
@@ -1138,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), ai (6), [[LangChain]] (5), database (4), [[Orchestration]] (3)
+> **Frameworks & Libraries:** [[LangChain]] (5), [[Pinecone]] (2), [[LlamaIndex]] (2), [[Microsoft]] (2), [[AI Agents]] (2)
 > **Env Vars:** llm (3), rag (1), pdf (1), sdk (1), gpt (1)
 > **CLI Commands:** mysql (1), python (1)
 > **Versions:** 4.0 (1), 1.5 (1)
@@ -1146,8 +1133,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining what to observe
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980)
+#### [Defining what to observe](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1175,7 +1161,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=63)** We want users to find the application helpful and easy to use.
 >
-> **[1:07](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=67)** This involves providing clear, concise answers and a smooth user experience.
+> **[1:07](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=67)** This involves providing clear, concise answers and a smooth [[User Experience (UX)|user experience]].
 >
 > **[1:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=72)** And lastly, we have efficiency.
 >
@@ -1219,7 +1205,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=192)** This will tell us how long it takes to retrieve information from the vector database.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=198)** The next set of metrics to collect are the model's performance metrics.
+> **[3:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=198)** The next set of metrics to collect are the model's [[Performance Metrics]].
 >
 > **[3:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=202)** We need to check for the model's accuracy, which is how often the LLM generates correct answers.
 >
@@ -1227,7 +1213,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=214)** And lastly, we need to check token consumption.
 >
-> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=217)** How many tokens are being used for each query?
+> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=217)** How many [[Tokens]] are being used for each query?
 >
 > **[3:41](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/defining-what-to-observe?u=76281980&t=221)** After taking care of the model's metrics, we need to also collect some workflow metrics.
 >
@@ -1251,15 +1237,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), llm (5), next (4), ai (2), database (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Performance Metrics]] (1), [[Tokens]] (1)
 > **Env Vars:** llm (5), cpu (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Picking an observability framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980)
+#### [Picking an observability framework](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1264,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=55)** The volume of observability data we'll be collecting, for example, logs, metrics, and traces, will influence our choice of storage and processing infrastructure.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=66)** Another important factor under the scope and scale of our observability requirement is scalability.
+> **[1:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=66)** Another important factor under the scope and scale of our observability requirement is [[Scalability]].
 >
 > **[1:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=72)** We need to choose a framework that can scale with our application as it grows in usage and complexity.
 >
@@ -1291,7 +1276,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=100)** The same goes for the vector database.
 >
-> **[1:43](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=103)** Your chosen observability framework should integrate with your chosen vector database, for example, Pinecone, to collect retrieval-related metrics.
+> **[1:43](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=103)** Your chosen observability framework should integrate with your chosen vector database, for example, [[Pinecone]], to collect retrieval-related metrics.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=112)** The observability framework should also be able to capture relevant metrics from the LLM, whether the LLM is running locally or is accessed through an API.
 >
@@ -1307,7 +1292,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=153)** The next consideration on our list is all alerting and automation.
 >
-> **[2:38](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=158)** The observability framework should allow for the setup of real-time all alerts based on defined threshold and conditions.
+> **[2:38](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=158)** The observability framework should allow for the setup of [[Real-Time]] all alerts based on defined threshold and conditions.
 >
 > **[2:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=166)** For example, high latency or lower recall.
 >
@@ -1321,15 +1306,15 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=205)** Now that we have discussed considerations, let's take a look at some players in the observability framework space.
 >
-> **[3:32](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=212)** First, we have dedicated options like Prometheus, which specializes in data collection and storage.
+> **[3:32](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=212)** First, we have dedicated options like Prometheus, which specializes in [[Data Collection]] and storage.
 >
-> **[3:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=219)** We also have Grafana, whose focus is on visualizations through the creation of powerful dashboards.
+> **[3:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=219)** We also have Grafana, whose focus is on visualizations through the creation of powerful [[Dashboards]].
 >
 > **[3:44](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=224)** We'll be discussing more on visualizations in the following video.
 >
-> **[3:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=229)** The ELK stack of Elasticsearch, Logstash, and Kibana shines in log management and analysis.
+> **[3:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=229)** The ELK stack of [[Elasticsearch]], Logstash, and Kibana shines in log management and analysis.
 >
-> **[3:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=237)** These specialized frameworks can be combined to provide a full stack observability setup that provides data collection, data storage, data analysis, and data visualization, and also other functions like alerting and automation.
+> **[3:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=237)** These specialized frameworks can be combined to provide a full stack observability setup that provides data collection, [[Data Storage]], data analysis, and data visualization, and also other functions like alerting and automation.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=253)** The next set of observability framework types is full-featured tools that aim to provide everything required in terms of observing applications and infrastructure.
 >
@@ -1349,7 +1334,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=337)** Another major player in this category is LangSmith.
 >
-> **[5:41](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=341)** This is a full-featured observability framework created by the team behind LangChain, specifically for monitoring LLM-powered applications.
+> **[5:41](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=341)** This is a full-featured observability framework created by the team behind [[LangChain]], specifically for monitoring LLM-powered applications.
 >
 > **[5:50](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-an-observability-framework?u=76281980&t=350)** It offers tracing, metrics and logs collection, storage and visualization, all in a single setup.
 >
@@ -1363,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), application (6), next (5), llm (5), database (4)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Scalability]] (1), [[Pinecone]] (1), [[Real-Time]] (1), [[Dashboards]] (1)
 > **Env Vars:** llm (5), api (1), elk (1)
 > **Analogies:** for example (6)
 > **Prerequisites:** setup (3), required to (1)
@@ -1372,8 +1357,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 
-#### Picking a visualization framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980)
+#### [Picking a visualization framework](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980&t=48)** You need to ensure that the tool supports the types of visualization your application needs.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980&t=52)** For example, time series graphs, histograms, dashboards, scatter plots, and many more.
+> **[0:52](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980&t=52)** For example, time series graphs, histograms, [[Dashboards]], scatter plots, and many more.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/picking-a-visualization-framework?u=76281980&t=60)** You also need to check how customizable the visualization tool is.
 >
@@ -1445,7 +1429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Dashboards]] (3), application (2), llm (2), product (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3)
 > **Env Vars:** elk (2), llm (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** setup (1), set up (1)
@@ -1457,8 +1441,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a simple orchestrated AI application
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980)
+#### [Creating a simple orchestrated AI application](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,13 +1455,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=18)** Let's begin.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=19)** We'll start things off in this video by building a simple AI application with LangChain.
+> **[0:19](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=19)** We'll start things off in this video by building a simple AI application with [[LangChain]].
 >
-> **[0:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=26)** This application will help users answer any JavaScript questions they might have.
+> **[0:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=26)** This application will help users answer any [[JavaScript]] questions they might have.
 >
 > **[0:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=31)** We'll then trace some of the actions in this application to observe the behavior and performance in later videos.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=39)** To begin, first, you need to ensure that you have Python 3 installed on your system, as we'll be building the application with Python.
+> **[0:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=39)** To begin, first, you need to ensure that you have [[Python (Programming Language)|Python]] 3 installed on your system, as we'll be building the application with Python.
 >
 > **[0:46](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=46)** You can confirm this by running the command %python3 -V to see the version of Python that you're running on your system.
 >
@@ -1522,9 +1505,9 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=176)** For this simple LangChain project, we'll need to install the LangChain core library for all the core features of LangChain and the LangChain OpenAI library, as we'll be using OpenAI as our model vendor.
 >
-> **[3:09](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=189)** To follow along with this demo, you'll need to get an OpenAI key and get API credits in order to call the OpenAI API.
+> **[3:09](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=189)** To follow along with this demo, you'll need to get an OpenAI key and get API credits in order to call the [[OpenAI API]].
 >
-> **[3:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=197)** If you choose to go with another LLM vendor, let's say Google Gemini or Anthropic, make sure you're installing their respective SDKs and that you also have the appropriate API key.
+> **[3:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=197)** If you choose to go with another LLM vendor, let's say [[Google Gemini]] or Anthropic, make sure you're installing their respective SDKs and that you also have the appropriate API key.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=208)** Let's go ahead and install our libraries and, also, add our API key as an environment variable.
 >
@@ -1582,7 +1565,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=417)** So openAIModel, (keyboard clacks) and let's set up our integration to use the gpt-4o model, and while we are at that, I set up our parser.
 >
-> **[7:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=437)** So we have configured our OpenAI integration to use the GPT-4 model, and we have also set up our output parser, which is a string output parser.
+> **[7:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=437)** So we have configured our OpenAI integration to use the [[GPT-4]] model, and we have also set up our output parser, which is a string output parser.
 >
 > **[7:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/creating-a-simple-orchestrated-a-i-application?u=76281980&t=446)** Now, we can create our workflow chain and start prompting it with JavaScript questions.
 >
@@ -1632,7 +1615,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Python (Programming Language)|Python]] (7), [[LangChain]] (6), [[JavaScript]] (6), next (6)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[LangChain]] (6), [[JavaScript]] (6), [[OpenAI API]] (4), [[Google Gemini]] (1)
 > **CLI Commands:** python (7), python3 (2), pip (2), make (1)
 > **Env Vars:** api (8), openai_api_key (2), llm (1), gpt (1)
 > **Prerequisites:** install (7), set up (4), you'll need (1)
@@ -1641,8 +1624,7 @@ created: 2026-05-02
 > **Versions:** 3.11.6 (2), python 3 (1), 3.9.6 (1)
 > **Exercise Files:** template (3)
 
-#### Instrumenting activity traces
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980)
+#### [Instrumenting activity traces](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=34)** Secondly, it is made specifically for monitoring and debugging LLM-powered applications.
 >
-> **[0:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=40)** And do I need to mention once again that it was made by the LangChain team?
+> **[0:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=40)** And do I need to mention once again that it was made by the [[LangChain]] team?
 >
 > **[0:45](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=45)** Making it perfect for observing LangChain applications.
 >
@@ -1756,7 +1738,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=233)** And this project, I'm just going to call it.
 >
-> **[3:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=236)** "Javascript Teacher".
+> **[3:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=236)** "[[JavaScript]] Teacher".
 >
 > **[4:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=240)** "Javascript Teacher".
 >
@@ -1888,11 +1870,11 @@ created: 2026-05-02
 >
 > **[8:08](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=488)** Just like the previous table, this is already a bunch of valuable feedback as to what happened within our model prompting and output passing process.
 >
-> **[8:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=497)** We also get some great statistics here at the right hand side.
+> **[8:17](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=497)** We also get some great [[Statistics]] here at the right hand side.
 >
 > **[8:20](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=500)** It displays how many observability runs we have made in this project.
 >
-> **[8:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=504)** The total tokens consumed.
+> **[8:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=504)** The total [[Tokens]] consumed.
 >
 > **[8:27](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/instrumenting-activity-traces?u=76281980&t=507)** Error rate, and latency information.
 >
@@ -1954,7 +1936,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[LangChain]] (7), application (6), ai (4), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[LangChain]] (7), [[JavaScript]] (4), [[Tokens]] (3), [[Statistics]] (2)
 > **Env Vars:** api (13), llm (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **Tools:** command line (2), vs code (1)
@@ -1963,8 +1945,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2), setup (1)
 > **Exercise Files:** template (2)
 
-#### Evaluating the model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980)
+#### [Evaluating the model](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1980,7 +1961,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=37)** But first, let us apply the context manager to ensure that we're tracing the model invocation.
 >
-> **[0:45](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=45)** It's called a model, and we can just call the invoke function on the model and pass in any question, any question this time, because we're now using the prompt template, that defines it as the JavaScript teacher.
+> **[0:45](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=45)** It's called a model, and we can just call the invoke function on the model and pass in any question, any question this time, because we're now using the prompt template, that defines it as the [[JavaScript]] teacher.
 >
 > **[1:00](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=60)** But since we're still in the JavaScript teacher context, let's still ask it the JavaScript question, like, "Who created JavaScript?"
 >
@@ -2010,7 +1991,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=126)** We now have a new run, and this is for just our model.
 >
-> **[2:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=130)** Like I mentioned earlier, first, we get some useful information, the input, the output, the error rate, start time, and even some summary statistics here.
+> **[2:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=130)** Like I mentioned earlier, first, we get some useful information, the input, the output, the error rate, start time, and even some summary [[Statistics]] here.
 >
 > **[2:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=138)** This is for the general JavaScript teacher project.
 >
@@ -2018,7 +1999,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=145)** You see, it just gives us ChatOpenAI, which is a model integration, and here we can see all the operations that took place inside our model.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=153)** In the trace section, it tells us that we're using the GPT-4.0 model.
+> **[2:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=153)** In the trace section, it tells us that we're using the [[GPT-4]].0 model.
 >
 > **[2:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=157)** You can always use this to show all stats.
 >
@@ -2030,7 +2011,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=192)** We check the feedback section, no feedback for this one.
 >
-> **[3:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=196)** But we go to metadata, this where we get nerdy and go into a lot of details about what took place with this operation.
+> **[3:16](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=196)** But we go to [[Metadata]], this where we get nerdy and go into a lot of details about what took place with this operation.
 >
 > **[3:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=202)** We can get a bunch of metadata here, model name, whether we're streaming it.
 >
@@ -2040,7 +2021,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=215)** It even gives us the platform of our mark.
 >
-> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=217)** That's where we run the code, the SDK version, which is the LangSmith for Python, and we get some metadata here, some more metadata here to the response that we go back.
+> **[3:37](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=217)** That's where we run the code, the SDK version, which is the LangSmith for [[Python (Programming Language)|Python]], and we get some metadata here, some more metadata here to the response that we go back.
 >
 > **[3:48](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=228)** The maximum we tried was two, but we tried it only once, and the name of the component is ChatOpenAI.
 >
@@ -2050,13 +2031,13 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=248)** It's not available now, but TIME TO FIRST TOKEN is the time between when the model sent the request and the first token was generated, the first token in the response was generated.
 >
-> **[4:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=258)** That can be this JavaScript or Java or JavaS, whatever the token breakdown of this JavaScript word is.
+> **[4:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=258)** That can be this JavaScript or [[Java]] or JavaS, whatever the token breakdown of this JavaScript [[Microsoft Word|word]] is.
 >
 > **[4:25](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=265)** It can also go granular and tell us the time to first token.
 >
 > **[4:30](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=270)** So, the status is success, seen there.
 >
-> **[4:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=273)** We consumed a total of 60 tokens, 60 tokens, and that was at the cost of $0.0005175.
+> **[4:33](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=273)** We consumed a total of 60 [[Tokens]], 60 tokens, and that was at the cost of $0.0005175.
 >
 > **[4:44](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/evaluating-the-model?u=76281980&t=284)** Yeah, these are actual costs that you can log and you can always keep track of to know how much you've spent so far and compare it with what OpenAI is actually charging you.
 >
@@ -2088,7 +2069,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (13), [[JavaScript]] (12), prompt (7), [[Metadata]] (4), data (3)
+> **Frameworks & Libraries:** [[Tokens]] (13), [[JavaScript]] (12), [[Metadata]] (4), [[GPT-4]] (2), [[Statistics]] (1)
 > **Env Vars:** time (3), first (3), token (3), gpt (2), api (1)
 > **Versions:** 4.0 (2), 2.05 (2), 0.0005175 (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
@@ -2097,8 +2078,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **File Paths:** chain.py (1)
 
-#### Visualizing performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980)
+#### [Visualizing performance](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2108,7 +2088,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=13)** To get access to this project, clone the repository for the exercise files for this course and can find the agent project inside the folder web-agent.
 >
-> **[0:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=24)** This model has been built with LangGraph and also uses some LangChain models for orchestration.
+> **[0:24](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=24)** This model has been built with LangGraph and also uses some [[LangChain]] models for orchestration.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=30)** This agent, as we have opened it here contained in this agent, the JS file has been built with LangGraph and also uses some LangChain models for orchestration.
 >
@@ -2126,7 +2106,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=82)** The agent will then decide which tool to use, call the tool, get the results from the web and pass it in a format consumable for humans.
 >
-> **[1:32](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=92)** As you may have observed, this project is written in JavaScript, so you need NodeJS installed on your computer to run this project.
+> **[1:32](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=92)** As you may have observed, this project is written in [[JavaScript]], so you need NodeJS installed on your computer to run this project.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=101)** You also need to be running NodeJS version 18 or higher.
 >
@@ -2138,7 +2118,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=124)** Once confirmed that you have NodeJS installed and the minimum version required, the next thing to do is to install all the dependencies for this application.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=132)** The dependencies are already listed in the packet of Jason file, so to install them we can simply run npm install, hit enter and have all our project dependencies installed.
+> **[2:12](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=132)** The dependencies are already listed in the packet of Jason file, so to install them we can simply run [[npm]] install, hit enter and have all our project dependencies installed.
 >
 > **[2:28](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=148)** With our project dependencies installed, the next step is to get the Tavily API key.
 >
@@ -2166,7 +2146,7 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=251)** But for this project we're still going to be using OpenAI.
 >
-> **[4:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=255)** So let us add our OpenAI API key with the export OpenAI_API_key, set that to the value of my key, hit enter and now if I say echo $OPENAI_API_key,
+> **[4:15](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=255)** So let us add our [[OpenAI API]] key with the export OpenAI_API_key, set that to the value of my key, hit enter and now if I say echo $OPENAI_API_key,
 >
 > **[4:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=279)** I should get my key back.
 >
@@ -2200,7 +2180,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=369)** And we're going to set this to true.
 >
-> **[6:11](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=371)** What this does is that it ensures that your traces are being captured even when you're working in a serverless environment like AWS Lambda or like Firebase functions.
+> **[6:11](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=371)** What this does is that it ensures that your traces are being captured even when you're working in a serverless environment like AWS Lambda or like [[Firebase]] functions.
 >
 > **[6:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=382)** So let's just get that in for good measure.
 >
@@ -2224,7 +2204,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=451)** Remember we asked it for the current prime minister of the United Kingdom, and just in time we get our response back.
 >
-> **[7:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=459)** It tells us that the current Prime Minister of the United Kingdom is Keir Starmer, who has been in office since 5th of July, 2024.
+> **[7:39](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=459)** It tells us that the current Prime Minister of the United Kingdom is Keir Starmer, who has been in [[Microsoft Office|office]] since 5th of July, 2024.
 >
 > **[7:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=469)** As you can see, because it browsed the web, it was able to get us up-to-date information that is beyond the model's cutoff training date.
 >
@@ -2242,7 +2222,7 @@ created: 2026-05-02
 >
 > **[8:40](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=520)** LangGraph, this is representing the framework that we built it with.
 >
-> **[8:43](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=523)** We also have some restart here that shows us for the last seven days how many runs we have had, the total tokens consumed, the median tokens, error rates, whether we streamed, the stream percentage and all.
+> **[8:43](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=523)** We also have some restart here that shows us for the last seven days how many runs we have had, the total [[Tokens]] consumed, the median tokens, error rates, whether we streamed, the stream percentage and all.
 >
 > **[8:55](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/visualising-performance?u=76281980&t=535)** Now to really get into this, let us expand this LangGraph section.
 >
@@ -2346,7 +2326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (17), api (10), next (9), [[Tokens]] (6), [[Search]] (5)
+> **Frameworks & Libraries:** [[Tokens]] (6), [[LangChain]] (4), [[Microsoft Office|Office]] (2), [[JavaScript]] (1), [[npm]] (1)
 > **Env Vars:** api (11), llm (2), tavily_api_key (1), langchain (1), langchain_callbacks_background (1)
 > **Versions:** version 18 (2), 1.9 (2), 3.5 (2), 0.9 (2), 16.1 (1)
 > **CLI Commands:** node (3), make (2), find (1), npm (1), aws (1)
@@ -2360,8 +2340,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2369,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=10)** And I hope that this course has given you a better understanding of how to take advantage of orchestration frameworks and observability tools to properly monitor and analyze the activities of your AI applications.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=22)** The LinkedIn Learning Library is full of a ton of AI courses that can help you continuously improve your skills on using orchestration and observability tools for your LLM-powered applications.
+> **[0:22](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=22)** The [[LinkedIn]] Learning Library is full of a ton of AI courses that can help you continuously improve your skills on using orchestration and observability tools for your LLM-powered applications.
 >
 > **[0:34](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=34)** I'll be keeping an updated list of helpful resources in the article that follows this video.
 >
@@ -2377,19 +2356,19 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=49)** So I highly recommend that you check out that list from time to time to stay updated on the latest materials.
 >
-> **[0:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=56)** This course is also a part of a larger series on AI orchestration, and I advise that you check out other courses in the series also.
+> **[0:56](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=56)** This course is also a part of a larger series on [[AI Orchestration]], and I advise that you check out other courses in the series also.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=65)** I'll also be adding links to the other courses in the series so that it can be easy for you to find them.
 >
 > **[1:11](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=71)** Once again, I am Fikayo Adepoju, and you can reach me on any of my socials displayed on the screen.
 >
-> **[1:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=78)** At LinkedIn by my name, on Twitter at @coderonfleek, and on GitHub, also at @coderonfleek.
+> **[1:18](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=78)** At LinkedIn by my name, on Twitter at @coderonfleek, and on [[GitHub]], also at @coderonfleek.
 >
 > **[1:26](https://www.linkedin.com/learning/ai-orchestration-planning-and-orchestrating-for-observability/next-steps?u=76281980&t=86)** Happy coding.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Orchestration]] (4), [[LinkedIn]] (2), llm (1), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[AI Orchestration]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** llm (1)
 > **Tools:** github (1)

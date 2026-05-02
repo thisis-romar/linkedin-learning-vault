@@ -97,20 +97,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform complex data into insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
+#### [Transform complex data into insights](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=0)** - Are you ready to turn data into a gold mine of insights?
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=4)** In this course, we will solve a key challenge in the world of data engineering, how to efficiently extract, load, and transform data into a unified format that is ready for analytics.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=4)** In this course, we will solve a key challenge in the world of [[Data Engineering]], how to efficiently extract, load, and transform data into a unified format that is ready for analytics.
 >
 > **[0:16](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=16)** My name is Thalia, and I'm an experienced data engineer.
 >
-> **[0:19](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=19)** I'm going to help you construct a robust data pipeline for a fictional e-commerce company, Big Star Collectibles.
+> **[0:19](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=19)** I'm going to help you construct a robust data pipeline for a fictional [[E-Commerce]] company, Big Star Collectibles.
 >
-> **[0:26](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=26)** Our mission, transform their scattered, complex data into a model that drives insights and aids decision-making.
+> **[0:26](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=26)** Our mission, transform their scattered, complex data into a model that drives insights and aids [[Decision-Making]].
 >
 > **[0:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/transform-complex-data-into-insights?u=76281980&t=34)** Throughout this course, you will master the concepts behind extraction, loading, transformation, and orchestration through practical exercises.
 >
@@ -118,11 +117,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Data Engineering]] (1), [[Analytics]] (1), [[E-Commerce]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **Speakers:** - are (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,9 +128,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=6)** First, let's talk about knowledge base.
 >
-> **[0:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=8)** To make the most of this course, you should be familiar with [[Data Engineering Foundations]], have a basic understanding of SQL and Python, and comfortable with basic command line operations and Git.
+> **[0:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=8)** To make the most of this course, you should be familiar with [[[[Data Engineering]] Foundations]], have a basic understanding of [[SQL]] and [[Python (Programming Language)|Python]], and comfortable with basic command line operations and [[Git]].
 >
-> **[0:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=21)** About the tech stack, you will need Python 3, Docker and Docker Compose, which are bundled with Docker Desktop, and an IDE.
+> **[0:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=21)** About the tech stack, you will need Python 3, Docker and Docker [[Jetpack Compose|Compose]], which are bundled with Docker Desktop, and an IDE.
 >
 > **[0:30](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=30)** I highly recommend Visual Studio Code.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=38)** We will build this data engineering project together from scratch.
 >
-> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=41)** The main takeaway from this course is a GitHub Repo to showcase what you built.
+> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=41)** The main takeaway from this course is a [[GitHub]] Repo to showcase what you built.
 >
 > **[0:46](https://www.linkedin.com/learning/end-to-end-data-engineering-project/what-you-should-know?u=76281980&t=46)** You will be able to understand and explain each and every section of it.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (3), [[Python (Programming Language)|Python]] (2), [[SQL]] (1), [[Git]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** docker (3), make (2), python (2), git (1), find (1)
 > **Tools:** command line (1), docker desktop (1), visual studio (1), github (1)
 > **Exercise Files:** exercise file (1), github repo (1), exercise files (1)
@@ -182,14 +180,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project architecture overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
+#### [Project architecture overview](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=0)** - Welcome to the team, fellow data engineer.
 >
-> **[0:03](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=3)** You are now part of Big Star Collectibles, a vibrant e-commerce company.
+> **[0:03](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=3)** You are now part of Big Star Collectibles, a vibrant [[E-Commerce]] company.
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=9)** Ahead of you lies a rewarding task that is critical for the company's growth.
 >
@@ -197,9 +194,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=21)** Why? They need data, specific actionable data.
 >
-> **[0:25](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=25)** And there's no data engineering team in the company.
+> **[0:25](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=25)** And there's no [[Data Engineering]] team in the company.
 >
-> **[0:30](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=30)** The data is sitting in a Postgres backend database.
+> **[0:30](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=30)** The data is sitting in a [[PostgreSQL|Postgres]] backend database.
 >
 > **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-architecture-overview?u=76281980&t=33)** It is raw and not very useful for the marketing team.
 >
@@ -231,19 +228,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (3), [[PostgreSQL|Postgres]] (2), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[E-Commerce]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
 
-#### Project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980)
+#### [Project setup](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=0)** - [Instructor] Now let's roll up our sleeves and dive right in.
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=4)** First, go to the project repo in GitHub and let's create a fork.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=4)** First, go to the project repo in [[GitHub]] and let's create a fork.
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=9)** Forking generates your own copy of the repo in GitHub.
 >
@@ -259,11 +255,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=39)** And now let's go to the terminal.
 >
-> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=41)** Start by typing git clone, and then paste the URL we just copied.
+> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=41)** Start by typing [[Git]] clone, and then paste the URL we just copied.
 >
 > **[0:51](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=51)** Next, navigate into the newly created directory and let's open the project in Visual Studio Code.
 >
-> **[1:03](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=63)** Now let's create a Python Virtual Environment.
+> **[1:03](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=63)** Now let's create a [[Python (Programming Language)|Python]] Virtual Environment.
 >
 > **[1:07](https://www.linkedin.com/learning/end-to-end-data-engineering-project/project-setup?u=76281980&t=67)** The environment will help manage the project dependencies separately from any other Python projects you may have.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), next (2), [[Git]] (1), dbt (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[GitHub]] (2), [[Git]] (1)
 > **Tools:** visual studio (3), github (2), terminal (2)
 > **CLI Commands:** python (5), git (1)
 > **UI Navigation:** go to (2), click on (2), open the (2)
@@ -298,20 +294,19 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the Big Star Collectibles database
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980)
+#### [Understanding the Big Star Collectibles database](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=0)** - [Instructor] Now that our project is set up, it is time to access the foundation of any data project, the data itself.
 >
-> **[0:07](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=7)** To make things easy for you, I have prepared a Docker image that includes a Postgres database along with some preloaded data.
+> **[0:07](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=7)** To make things easy for you, I have prepared a Docker image that includes a [[PostgreSQL|Postgres]] database along with some preloaded data.
 >
 > **[0:15](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=15)** This Docker image will simulate the Big Star Collectibles backend database.
 >
 > **[0:20](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=20)** To understand how to transform and use this data effectively, it is crucial to first understand the structure and contents, so let's go over it.
 >
-> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=29)** The database is an organized system designed to handle various aspects of the e-commerce store operation.
+> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=29)** The database is an organized system designed to handle various aspects of the [[E-Commerce]] store operation.
 >
 > **[0:36](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=36)** It consists of four main tables that serve a unique role.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=42)** It contains details about each customer who has made a purchase from Big Star Collectibles, including their location information.
 >
-> **[0:50](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=50)** The Products table is a catalog of the e-commerce store.
+> **[0:50](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=50)** The [[Microsoft Products|Products]] table is a catalog of the e-commerce store.
 >
 > **[0:54](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-big-star-collectibles-database?u=76281980&t=54)** It keeps track of all products available for purchase, including their price, rating, and categorization.
 >
@@ -399,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (7), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** docker (6), make (3), psql (1)
 > **Tools:** terminal (3), docker desktop (1)
 > **Prerequisites:** set up (3), configure (1)
@@ -408,8 +403,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Setting up your data warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980)
+#### [Setting up your data warehouse](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,9 +411,9 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=5)** They have become the center of the modern data stack, holding huge amounts of data ready for us to gain valuable insights.
 >
-> **[0:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=12)** Google BigQuery is a powerful player in this revolution.
+> **[0:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=12)** [[Google]] BigQuery is a powerful player in this revolution.
 >
-> **[0:16](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=16)** BigQuery is a fully managed serverless data warehouse that enables super fast SQL queries.
+> **[0:16](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=16)** BigQuery is a fully managed serverless data warehouse that enables super fast [[SQL]] queries.
 >
 > **[0:22](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=22)** Using the processing power of Google's infrastructure.
 >
@@ -427,17 +421,17 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=31)** I have chosen BigQuery for this project mainly because it offers a generous free tier, which is perfect for learning and small projects.
 >
-> **[0:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=40)** But please know that you can use any other data warehouse, such as Snowflake or Redshift if you have access to them.
+> **[0:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=40)** But please know that you can use any other data warehouse, such as [[Snowflake]] or Redshift if you have access to them.
 >
 > **[0:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=47)** Some steps in this project will be slightly different, but you can definitely follow along.
 >
-> **[0:53](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=53)** Even a local Postgres database could work as your data warehouse.
+> **[0:53](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=53)** Even a local [[PostgreSQL|Postgres]] database could work as your data warehouse.
 >
 > **[0:57](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=57)** And now let's set up our BigQuery data warehouse.
 >
-> **[1:01](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=61)** The first step is to sign up to Google Cloud Services.
+> **[1:01](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=61)** The first step is to sign up to [[Google Cloud Platform (GCP)|Google Cloud]] Services.
 >
-> **[1:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=64)** At the moment of recording, Google Cloud offers $300 in credits and free usage of 20 plus products, including BigQuery.
+> **[1:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=64)** At the moment of recording, Google Cloud offers $300 in credits and free usage of 20 plus [[Microsoft Products|products]], including BigQuery.
 >
 > **[1:14](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=74)** After you sign up, go to the cloud console.
 >
@@ -499,7 +493,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=213)** And click on done.
 >
-> **[3:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=217)** Now, let's generate a JSON key for our service accounts.
+> **[3:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=217)** Now, let's generate a [[JSON]] key for our service accounts.
 >
 > **[3:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-your-data-warehouse?u=76281980&t=221)** A JSON key is a secure file that an application can use to authenticate as the service account.
 >
@@ -525,7 +519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), dbt (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Google]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (3), [[JSON]] (3), [[SQL]] (1), [[Snowflake]] (1)
 > **UI Navigation:** click on (12), go to (2), navigate to (1)
 > **Env Vars:** dbt (3), json (3), sql (1)
 > **Definitions:** is a  (5), is an  (1)
@@ -539,8 +533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with ELT tools: An introduction to Airbyte
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
+#### [Getting started with ELT tools: An introduction to Airbyte](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,17 +545,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=18)** ELT stands for Extract, Load, and Transform.
 >
-> **[0:22](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=22)** These tools help you extract data from a multitude of sources like databases or APIs, and load it into a target system like a data warehouse or a data lake, so then you can transform the data as needed.
+> **[0:22](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=22)** These tools help you extract data from a multitude of sources like [[Databases]] or APIs, and load it into a target system like a data warehouse or a data lake, so then you can transform the data as needed.
 >
 > **[0:36](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=36)** ELT tools are a core piece of the modern data stack because they replace ad hoc scripting, simplifying the extraction, loading, and optional transformation processes, thereby minimizing errors and maintenance efforts.
 >
 > **[0:51](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=51)** Now let's focus on one specific tool, Airybyte.
 >
-> **[0:55](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=55)** Airbyte allows you to extract data from various sources and load it into a wide range of destinations, simplifying the creation and maintenance of data pipelines.
+> **[0:55](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=55)** Airbyte allows you to extract data from various sources and load it into a wide range of destinations, simplifying the creation and maintenance of [[Data Pipelines]].
 >
 > **[1:07](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=67)** Airbyte operates around connectors, which handle the extraction from a source and then loading into a destination.
 >
-> **[1:14](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=74)** Imagine your company stores data across different platforms like Salesforce CRM, a MySQL database, a Postgres database, and you want to aggregate all of this data for insightful analysis.
+> **[1:14](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=74)** Imagine your company stores data across different platforms like Salesforce CRM, a [[MySQL]] database, a [[PostgreSQL|Postgres]] database, and you want to aggregate all of this data for insightful analysis.
 >
 > **[1:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=89)** Well, in this case, Airbyte can provide you with out of the box connectors for all of these and many other systems, enabling you to easily set up a comprehensive data pipeline.
 >
@@ -572,13 +565,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=115)** Airbyte uses docker containers, which can be easily managed and scaled.
 >
-> **[2:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=120)** You can deploy the open-source version on your own infrastructure, like on on-premises servers or on Cloud virtual machines.
+> **[2:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=120)** You can deploy the open-source version on your own infrastructure, like on on-premises servers or on Cloud [[Virtual Machines]].
 >
 > **[2:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=129)** But for the purpose of this course, we will be deploying the open-source version of Airbyte on your local machine.
 >
 > **[2:16](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=136)** Airbyte also has a Cloud version, which is fully managed, so you don't have to worry about managing the resources yourself.
 >
-> **[2:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=144)** As you can see, ELT tools like Airbyte automate data extraction and loading, allowing data engineers and analysts to focus on tasks that add more value, like data architecture, modeling and analysis.
+> **[2:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=144)** As you can see, ELT tools like Airbyte automate data extraction and loading, allowing data engineers and analysts to focus on tasks that add more value, like [[Data Architecture]], modeling and analysis.
 >
 > **[2:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/getting-started-with-elt-tools-an-introduction-to-airbyte?u=76281980&t=160)** Are you ready to give Airbyte a try?
 >
@@ -588,7 +581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (2), [[PostgreSQL|Postgres]] (2), open-source (2), cloud (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Databases]] (1), [[Data Pipelines]] (1), [[MySQL]] (1), [[Virtual Machines]] (1)
 > **Env Vars:** elt (5), crm (1)
 > **CLI Commands:** mysql (1), docker (1)
 > **Definitions:** stands for (1)
@@ -596,8 +589,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - have (1)
 
-#### Deploying Airbyte for data synchronization
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/deploying-airbyte-for-data-synchronization?u=76281980)
+#### [Deploying Airbyte for data synchronization](https://www.linkedin.com/learning/end-to-end-data-engineering-project/deploying-airbyte-for-data-synchronization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,14 +637,13 @@ created: 2026-05-02
 > **Tools:** docker desktop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up sources and destinations in Airbyte
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980)
+#### [Setting up sources and destinations in Airbyte](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=0)** - [Instructor] Let's now create our data source and destination connectors.
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=4)** Navigate to the sources section where we will add our Postgres source.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=4)** Navigate to the sources section where we will add our [[PostgreSQL|Postgres]] source.
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=9)** In the search bar, start typing Postgres and click on it once you find it.
 >
@@ -700,7 +691,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=161)** Our default dataset ID is going to be raw_data, and the loading method is going to be standard inserts.
 >
-> **[2:52](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=172)** Now you need to copy the contents of the JSON file we downloaded for the Airbyte service account and add them in this field.
+> **[2:52](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=172)** Now you need to copy the contents of the [[JSON]] file we downloaded for the Airbyte service account and add them in this field.
 >
 > **[2:59](https://www.linkedin.com/learning/end-to-end-data-engineering-project/setting-up-sources-and-destinations-in-airbyte?u=76281980&t=179)** Yes, all of that JSON string.
 >
@@ -722,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), database (4), next (3), [[JSON]] (3), data (2)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (8), [[JSON]] (3)
 > **UI Navigation:** click on (2), go to (2), navigate to (1)
 > **Prerequisites:** set up (4)
 > **Code Identifiers:** airbyte_slot (1), airbyte_publication (1), raw_data (1)
@@ -731,18 +722,17 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** docker desktop (1)
 
-#### Establishing connections in Airbyte
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980)
+#### [Establishing connections in Airbyte](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=0)** - [Instructor] The moment we have been waiting for is finally here.
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=4)** We are about to set up a data highway from our Postgres database into our data warehouse.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=4)** We are about to set up a data highway from our [[PostgreSQL|Postgres]] database into our data warehouse.
 >
 > **[0:10](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=10)** Kickstart this journey by heading over to connections, if you are not already there, and then click on create your first connection.
 >
-> **[0:20](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=20)** Then select your source, your destination, and let Airbyte fetch the schema from our source database.
+> **[0:20](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=20)** Then select your source, your destination, and let Airbyte [[Fetch]] the schema from our source database.
 >
 > **[0:28](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=28)** Then you will be presented with this connection settings page.
 >
@@ -792,7 +782,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=162)** Finally, let's select normalized traveler data.
 >
-> **[2:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=167)** Otherwise, we would see our data as a JSON blob in the destination, and that's not necessarily what we want.
+> **[2:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=167)** Otherwise, we would see our data as a [[JSON]] blob in the destination, and that's not necessarily what we want.
 >
 > **[2:54](https://www.linkedin.com/learning/end-to-end-data-engineering-project/establishing-connections-in-airbyte?u=76281980&t=174)** More details on this later.
 >
@@ -806,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (3), [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), application (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[Fetch]] (1), [[JSON]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** refers to (1), in other words (1), means that (1)
 > **Prerequisites:** set up (2), setup (1)
@@ -814,8 +804,7 @@ created: 2026-05-02
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Synchronizing and navigating through data
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980)
+#### [Synchronizing and navigating through data](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,13 +832,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=65)** Let's preview the content in one of these raw tables.
 >
-> **[1:10](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=70)** You will notice that there are two metadata columns, airbyte_ab_id, which is a unique identifier that Airbyte assigns to be true, and the Airbyte_emitted_at, which marks the timestamp when the record was dispatched.
+> **[1:10](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=70)** You will notice that there are two [[Metadata]] columns, airbyte_ab_id, which is a unique identifier that Airbyte assigns to be true, and the Airbyte_emitted_at, which marks the timestamp when the record was dispatched.
 >
-> **[1:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=84)** And finally, we have the Airbyte data, which contains the actual data in JSON format.
+> **[1:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=84)** And finally, we have the Airbyte data, which contains the actual data in [[JSON]] format.
 >
 > **[1:31](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=91)** The Airbyte normalization, which we selected in our connection configuration, creates another set of tables transforming the JSON blob into a format that matches our destination.
 >
-> **[1:43](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=103)** These are our deduped tables and the ones we will be using for the rest of the project.
+> **[1:43](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=103)** These are our deduped tables and the ones we will be using for the [[Representational State Transfer (REST)|rest]] of the project.
 >
 > **[1:48](https://www.linkedin.com/learning/end-to-end-data-engineering-project/synchronizing-and-navigating-through-data?u=76281980&t=108)** Let's preview this data.
 >
@@ -877,7 +866,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Metadata]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[JSON]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** airbyte_ab_id (2), raw_data (1), airbyte_raw (1), airbyte_emitted_at (1), airbyte_normalized_at (1)
 > **Env Vars:** json (3), scd (2)
 > **Definitions:** is a  (1), stands for (1), in other words (1)
@@ -891,18 +880,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data modeling with dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
+#### [Introduction to data modeling with dbt](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=0)** - [Instructor] Data modeling is like putting together a puzzle.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=0)** - [Instructor] [[Data Modeling]] is like putting together a puzzle.
 >
 > **[0:03](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=3)** It converts messy, disorganized data into an easy to understand format.
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=9)** Take the Big Star Collectibles marketing team, for instance.
 >
-> **[0:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=12)** They want to know their customers better, but the data is scattered across different tables in a Postgres database.
+> **[0:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=12)** They want to know their customers better, but the data is scattered across different tables in a [[PostgreSQL|Postgres]] database.
 >
 > **[0:20](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=20)** That's why we come to help.
 >
@@ -912,11 +900,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=34)** Now, navigating the world of data modeling may sound like a daunting task, but don't worry.
 >
-> **[0:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=40)** There's a secret weapon used by data and analytics engineers around the world, dbt, standing for data build tool, is a game changing open source tool that has simplified our approach to data within warehouses.
+> **[0:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=40)** There's a secret weapon used by data and analytics engineers around the world, dbt, standing for [[Data Build Tool (DBT)|data build tool]], is a game changing open source tool that has simplified our approach to data within warehouses.
 >
-> **[0:55](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=55)** It is based on Python and it integrates with many modern data ecosystems.
+> **[0:55](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=55)** It is based on [[Python (Programming Language)|Python]] and it integrates with many modern data ecosystems.
 >
-> **[1:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=60)** dbt empowers users to create transformations using SQL.
+> **[1:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=60)** dbt empowers users to create transformations using [[SQL]].
 >
 > **[1:05](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=65)** Additionally, the SQL files can incorporate Jinja, a lightweight templating language.
 >
@@ -936,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=111)** With dbt, you can automate documentation of your data models, making it easier for users to understand the data structure and lineage.
 >
-> **[2:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=120)** dbt integrates with version control systems like Git, ensuring that changes to your data models are tracked and managed effectively.
+> **[2:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=120)** dbt integrates with [[Version Control]] systems like [[Git]], ensuring that changes to your data models are tracked and managed effectively.
 >
 > **[2:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=128)** Now, let's go deeper into one of the main concepts of dbt, models.
 >
@@ -952,13 +940,13 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=160)** When you execute the dbt run command, dbt takes your model, wraps the select statement in DDL or DML and materializes it in the warehouse.
 >
-> **[2:51](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=171)** DDL and DML stand for data definition language and data manipulation language, respectively.
+> **[2:51](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=171)** DDL and DML stand for data definition language and [[Data Manipulation]] language, respectively.
 >
 > **[3:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=180)** In this sense, dbt serves as the interface between your code, which we store and manage in a Git repo, and your data.
 >
 > **[3:08](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=188)** Don't worry if this seems abstract now, we will put it into practice.
 >
-> **[3:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=192)** As we dive deeper into our data transformation with dbt, it is important to understand the two primary ways to use this tool, dbt CLI and dbt Cloud.
+> **[3:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=192)** As we dive deeper into our [[Data Transformation]] with dbt, it is important to understand the two primary ways to use this tool, dbt [[CLI]] and dbt Cloud.
 >
 > **[3:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-modeling-with-dbt?u=76281980&t=204)** dbt CLI is a common line tool that you can run locally, allowing you full control over your environment and processes.
 >
@@ -972,7 +960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), dbt (20), [[SQL]] (7), [[CLI]] (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[SQL]] (7), [[CLI]] (3), [[Data Modeling]] (2), [[Git]] (2), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** sql (7), cli (3), ddl (2), dml (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** git (2), python (1)
@@ -980,8 +968,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the structure of a dbt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980)
+#### [Understanding the structure of a dbt project](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,9 +986,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=26)** Second, it reduces complexity.
 >
-> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=29)** It lets us break down complex area products into manageable pieces.
+> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=29)** It lets us break down complex area [[Microsoft Products|products]] into manageable pieces.
 >
-> **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=33)** To keep this neat modular system in check, dbt recommends a well-thought out set of naming conventions that represent each stage of the data transformation journey.
+> **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=33)** To keep this neat modular system in check, dbt recommends a well-thought out set of naming conventions that represent each stage of the [[Data Transformation]] journey.
 >
 > **[0:43](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=43)** Sources are the raw data tables fresh from the EL tool.
 >
@@ -1031,7 +1018,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=107)** Our challenge?
 >
-> **[1:48](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=108)** Transforming our Big Star Collectibles' e-commerce transactional data, by creating source, staging, and mart models into a structure that's ready for primetime analysis and reporting.
+> **[1:48](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=108)** Transforming our Big Star Collectibles' [[E-Commerce]] transactional data, by creating source, staging, and mart models into a structure that's ready for primetime analysis and reporting.
 >
 > **[2:01](https://www.linkedin.com/learning/end-to-end-data-engineering-project/understanding-the-structure-of-a-dbt-project?u=76281980&t=121)** To help us visualize this process, dbt projects employ a Directed Acyclic Graph, DAG.
 >
@@ -1041,13 +1028,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (7), data (6), [[Microsoft Products|Products]] (2), business (2), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Data Transformation]] (1), [[E-Commerce]] (1)
 > **Env Vars:** dag (2)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initiating your dbt project
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980)
+#### [Initiating your dbt project](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,7 +1053,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=39)** Let's start by opening the profiles file.
 >
-> **[0:42](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=42)** Since this file tells dbt how to connect to the data platform, in this case BigQuery, it may contain information that we don't want to version control.
+> **[0:42](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=42)** Since this file tells dbt how to connect to the data platform, in this case BigQuery, it may contain information that we don't want to [[Version Control]].
 >
 > **[0:52](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=52)** Because of that, we are going to use environment variables.
 >
@@ -1079,13 +1065,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=84)** Then the key file path.
 >
-> **[1:26](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=86)** It should point to where you start the JSON key for the dbt service account.
+> **[1:26](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=86)** It should point to where you start the [[JSON]] key for the dbt service account.
 >
 > **[1:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=94)** After that, the data set location, in this case, it is the US.
 >
 > **[1:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=101)** And lastly, we indicate the project ID.
 >
-> **[1:45](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=105)** Remember, you can get this from your Google Cloud console.
+> **[1:45](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=105)** Remember, you can get this from your [[Google Cloud Platform (GCP)|Google Cloud]] console.
 >
 > **[1:49](https://www.linkedin.com/learning/end-to-end-data-engineering-project/initiating-your-dbt-project?u=76281980&t=109)** Just remember, these variables are only accessible from your virtual environment, so make sure they are set when you execute anything from now on, then we need one last variable to tell dbt where to locate the profiles file.
 >
@@ -1111,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (14), data (9), [[Version Control]] (1), [[JSON]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1), [[JSON]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Prerequisites:** set up (5), install (1)
 > **File Paths:** profiles.yml (2)
 > **Tools:** visual studio (1), terminal (1)
@@ -1120,8 +1106,7 @@ created: 2026-05-02
 > **Env Vars:** json (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring data sources in dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980)
+#### [Configuring data sources in dbt](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1139,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980&t=44)** Better visibility.
 >
-> **[0:46](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980&t=46)** Sources are identified as green nodes in the lineage graph, which makes it easier to track and understand data lineage.
+> **[0:46](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980&t=46)** Sources are identified as green nodes in the lineage graph, which makes it easier to track and understand [[Data Lineage]].
 >
 > **[0:54](https://www.linkedin.com/learning/end-to-end-data-engineering-project/configuring-data-sources-in-dbt?u=76281980&t=54)** Data freshness.
 >
@@ -1177,15 +1162,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), dbt (8), database (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (2)
 > **Code Identifiers:** raw_data (2), src_big_star_db (1)
 > **Env Vars:** yaml (2)
 > **File Paths:** src_big_star_db.yml (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a freshness check
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980)
+#### [Challenge: Add a freshness check](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,7 +1179,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980&t=17)** If the data in your source is too old, the freshness check will fail or show a warning, signaling a potential issue in your data pipeline.
 >
-> **[0:25](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980&t=25)** Of course, this doesn't apply to our current pipeline as it is since our Postgres database is not undergoing any changes and our Airbyte data synchronization is not periodically running.
+> **[0:25](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980&t=25)** Of course, this doesn't apply to our current pipeline as it is since our [[PostgreSQL|Postgres]] database is not undergoing any changes and our Airbyte data synchronization is not periodically running.
 >
 > **[0:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-freshness-check?u=76281980&t=37)** But I thought it was a nice challenge to emulate what you would do in an actual production pipeline.
 >
@@ -1205,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), dbt (2), [[PostgreSQL|Postgres]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** warning (2)
 > **Code Identifiers:** raw_data (1)
@@ -1214,8 +1198,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add a freshness check
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-a-freshness-check?u=76281980)
+#### [Solution: Add a freshness check](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-a-freshness-check?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,7 +1224,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), dbt (2), feature (1)
 > **File Paths:** src_big_star_db.yml (1)
 > **Code Identifiers:** src_big_star_db (1)
 > **Analogies:** similar to (1)
@@ -1254,8 +1236,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating and customizing your dbt models
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
+#### [Creating and customizing your dbt models](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1248,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980&t=11)** I will provide a detailed explanation of what we did in the upcoming lesson, so don't worry if things seem to be going a bit too fast for now, everything will be clear later.
 >
-> **[0:22](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980&t=22)** In the staging directory, let's create a file called stg_customers.sql.
+> **[0:22](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980&t=22)** In the staging directory, let's create a file called stg_customers.[[SQL]].
 >
 > **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/creating-and-customizing-your-dbt-models?u=76281980&t=33)** And then let's add the following SQL query.
 >
@@ -1297,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (5), dbt (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (5)
 > **File Paths:** stg_customers.sql (1), stg_orders.sql (1), dim_customers.sql (1), dbt_project.yaml (1)
 > **Code Identifiers:** stg_customers (1), stg_orders (1), dim_customers (1), dbt_project (1)
 > **Env Vars:** sql (2)
@@ -1306,12 +1287,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** stands for (1)
 
-#### Reviewing and executing dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980)
+#### [Reviewing and executing dbt](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=0)** - [Instructor] Let's recap everything we have done with DVT and take a closer look at the SQL queries that form our models.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=0)** - [Instructor] Let's recap everything we have done with DVT and take a closer look at the [[SQL]] queries that form our models.
 >
 > **[0:07](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=7)** In the previous lesson, we began by creating staging models in the staging directory.
 >
@@ -1321,7 +1301,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=33)** For example, in our staging customers model, we are not propagating the customer name and last name.
 >
-> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=41)** This could be useful for privacy reasons.
+> **[0:41](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=41)** This could be useful for [[Privacy]] reasons.
 >
 > **[0:44](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=44)** The staging models are also the right place to make small transformations, like casting.
 >
@@ -1365,13 +1345,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=205)** And congrats.
 >
-> **[3:27](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=207)** You are well on your way to mastering data transformation with DVT, but the learning doesn't stop here.
+> **[3:27](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=207)** You are well on your way to mastering [[Data Transformation]] with DVT, but the learning doesn't stop here.
 >
 > **[3:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/reviewing-and-executing-dbt?u=76281980&t=214)** Up next, we will explore how to ensure the validity of our data with DVT testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (2), [[SQL]] (1), [[Privacy]] (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Privacy]] (1), [[Data Transformation]] (1)
 > **Env Vars:** dvt (7), sql (1)
 > **Code Identifiers:** dim_customers (2), src_big_star_db (1), first_order_date (1), most_recent_order_date (1), number_of_orders (1)
 > **CLI Commands:** make (3)
@@ -1380,18 +1360,17 @@ created: 2026-05-02
 > **Cross-References:** as you saw (1)
 > **UI Navigation:** navigate to (1)
 
-#### Securing your data with dbt tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980)
+#### [Securing your data with dbt tests](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=0)** - I remember not too long ago, I was working on a project to enhance a legacy data pipeline, and our team was facing all sorts of challenges from large data sets to super complex SQL queries.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=0)** - I remember not too long ago, I was working on a project to enhance a legacy data pipeline, and our team was facing all sorts of challenges from large data sets to super complex [[SQL]] queries.
 >
 > **[0:14](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=14)** Despite our best efforts, we and sometimes our stakeholders, were finding inconsistencies in the data almost on a daily basis.
 >
-> **[0:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=24)** This highlighted for us the importance of testing in our data pipelines.
+> **[0:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=24)** This highlighted for us the importance of testing in our [[Data Pipelines]].
 >
-> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=29)** Just as software engineering highlights the importance of unit integration and end-to-end testing, we should apply the same to our data projects.
+> **[0:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=29)** Just as software engineering highlights the importance of unit integration and [[End-to-end Testing]], we should apply the same to our data projects.
 >
 > **[0:39](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=39)** Especially when we have tools like dbt, which make it easy for us to ensure the validity and accuracy of our data.
 >
@@ -1437,7 +1416,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=149)** Let's go to the orders raw data and get the unique values of the status column.
 >
-> **[2:39](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=159)** Here we need to select the distinct status and we can remove the rest of the query that Bitquery suggests for us.
+> **[2:39](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=159)** Here we need to select the distinct status and we can remove the [[Representational State Transfer (REST)|rest]] of the query that Bitquery suggests for us.
 >
 > **[2:49](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=169)** Now let's click on run.
 >
@@ -1467,11 +1446,11 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=233)** Now, let's not forget to add back the unavailable value.
 >
-> **[3:57](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=237)** By writing and running this test, you are ensuring your data behaves the way you expect it to, and that's a superpower in data engineering.
+> **[3:57](https://www.linkedin.com/learning/end-to-end-data-engineering-project/securing-your-data-with-dbt-tests?u=76281980&t=237)** By writing and running this test, you are ensuring your data behaves the way you expect it to, and that's a superpower in [[Data Engineering]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), dbt (9), generic (2), [[SQL]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Data Pipelines]] (1), [[End-to-end Testing]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Engineering]] (1)
 > **UI Navigation:** go to (2), select the (1), click on (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (1), yaml (1)
@@ -1480,8 +1459,7 @@ created: 2026-05-02
 > **Code Identifiers:** not_null (1)
 > **Speakers:** - i (1)
 
-#### Challenge: Add tests to the Marts model
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-tests-to-the-marts-model?u=76281980)
+#### [Challenge: Add tests to the Marts model](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-tests-to-the-marts-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1507,15 +1485,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (1), next (1)
 > **Code Identifiers:** stg_orders (2), not_null (2), dim_customers (2), customer_id (2), stg_customers (1)
 > **Env Vars:** dbt (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add tests to the Marts model
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-tests-to-the-marts-model?u=76281980)
+#### [Solution: Add tests to the Marts model](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-tests-to-the-marts-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1543,14 +1519,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Automating documentation in dbt
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980)
+#### [Automating documentation in dbt](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1558,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=12)** Imagine that you are a newcomer into a team and you are handed a DBT project.
 >
-> **[0:18](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=18)** You open it up and it's just code, just a vast sea of SQL files and you are supposed to navigate that.
+> **[0:18](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=18)** You open it up and it's just code, just a vast sea of [[SQL]] files and you are supposed to navigate that.
 >
 > **[0:27](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=27)** Sounds daunting, right?
 >
@@ -1590,7 +1564,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=103)** Now all of these columns in our models also have a description.
 >
-> **[1:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=107)** Feel free to add the rest of the columns that belong to these models and let's see your work in action.
+> **[1:47](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=107)** Feel free to add the [[Representational State Transfer (REST)|rest]] of the columns that belong to these models and let's see your work in action.
 >
 > **[1:52](https://www.linkedin.com/learning/end-to-end-data-engineering-project/automating-documentation-in-dbt?u=76281980&t=112)** Go ahead and generate the documentation by running DBT docs generate command in your terminal.
 >
@@ -1624,7 +1598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (6), [[SQL]] (2), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1), web (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dbt (6), sql (2), yaml (2)
 > **Analogies:** imagine (2), for example (1), picture (1)
 > **Documentation:** the documentation (3)
@@ -1633,14 +1607,13 @@ created: 2026-05-02
 > **Ports:** port 8080 (1)
 > **Tools:** terminal (1)
 
-#### Completing your dbt project: A full development cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980)
+#### [Completing your dbt project: A full development cycle](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980&t=1)** - [Instructor] We have accomplished so much in the past lessons.
 >
-> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980&t=4)** Now, we will bring everything together and persist our changes in GitHub.
+> **[0:04](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980&t=4)** Now, we will bring everything together and persist our changes in [[GitHub]].
 >
 > **[0:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/completing-your-dbt-project-a-full-development-cycle?u=76281980&t=9)** In Visual Studio Code, go to the Source Control section on the left panel, check all the modification and additions we have made to our project, and then enter a commit message.
 >
@@ -1670,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (8), [[GitHub]] (2), next (1), power (1), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (2)
 > **Tools:** github (2), visual studio (1), terminal (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** github repo (1)
@@ -1683,8 +1656,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to data orchestration with Dagster
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
+#### [Introduction to data orchestration with Dagster](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,13 +1680,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=52)** In the diverse landscape of orchestration tools, Dagster shines with its open-source nature.
 >
-> **[0:58](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=58)** It allows for defining and managing data pipelines with relative ease, thanks to its Python-based framework, and it's built to be used at every stage of the data development lifecycle from local development to staging environments, all the way to production.
+> **[0:58](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=58)** It allows for defining and managing [[Data Pipelines]] with relative ease, thanks to its [[Python (Programming Language)|Python]]-based framework, and it's built to be used at every stage of the data development lifecycle from local development to staging environments, all the way to production.
 >
 > **[1:14](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=74)** Before we move further, there are some key concepts in Dagster that it's important to know about.
 >
 > **[1:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=81)** Software Defined Assets are persistent storage objects, like tables or machine learning models.
 >
-> **[1:28](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=88)** Ops are the core computational units that perform tasks like executing database queries.
+> **[1:28](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=88)** Ops are the core computational units that perform tasks like executing [[Database Queries]].
 >
 > **[1:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/introduction-to-data-orchestration-with-dagster?u=76281980&t=94)** Graphs are sets of interconnected ops that work together to accomplish more complex tasks.
 >
@@ -1732,14 +1704,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Orchestration]] (3), dbt (2), [[Troubleshooting]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Data Pipelines]] (1), [[Python (Programming Language)|Python]] (1), [[Database Queries]] (1)
 > **Env Vars:** dbt (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating dbt models with Dagster assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980)
+#### [Integrating dbt models with Dagster assets](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1779,7 +1750,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=89)** Essentially what we are doing is telling Dagster to take all of these dbt models in this path and treat them as assets.
 >
-> **[1:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=97)** We also created a dbt cli resource to allow Dagster to interact with dbt.
+> **[1:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=97)** We also created a dbt [[CLI]] resource to allow Dagster to interact with dbt.
 >
 > **[1:43](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=103)** You may also have noticed that we are using a new environment variable, dbt project directory.
 >
@@ -1809,19 +1780,18 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=173)** And there you go, our dbt models are now displayed as assets in Dagster and that is how we bridge dbt and Dagster.
 >
-> **[3:02](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=182)** Now you have a unified data management platform, which will make handling complex data workflows a breeze.
+> **[3:02](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-dbt-models-with-dagster-assets?u=76281980&t=182)** Now you have a unified [[Data Management]] platform, which will make handling complex data workflows a breeze.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dbt (19), data (6), [[Orchestration]] (3), strengths (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[CLI]] (1), [[Data Management]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** similar to (1), just like (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating Airbyte connections with Dagster assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980)
+#### [Integrating Airbyte connections with Dagster assets](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1843,9 +1813,9 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=44)** Defining downstream transformations that rely on data produced by Airbyte becomes easier.
 >
-> **[0:50](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=50)** You can also track historical metadata and logs for each data stream.
+> **[0:50](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=50)** You can also track historical [[Metadata]] and logs for each data stream.
 >
-> **[0:54](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=54)** And lastly, tracing data lineage through Airbyte and other tools become straightforward.
+> **[0:54](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=54)** And lastly, tracing [[Data Lineage]] through Airbyte and other tools become straightforward.
 >
 > **[1:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/integrating-airbyte-connections-with-dagster-assets?u=76281980&t=60)** Let's go back to Visual Studio Code.
 >
@@ -1895,7 +1865,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Metadata]] (1), web (1), dbt (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Data Lineage]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** load_assets_from_airbyte_instance (1), key_prefix (1)
@@ -1904,8 +1874,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Materializing assets using Dagit
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980)
+#### [Materializing assets using Dagit](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1923,7 +1892,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=32)** And now we see how the sync is running.
 >
-> **[0:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=34)** We had already run our initial sync manually, and since there is no new data in our Postgres database, this sync will not ingest new data.
+> **[0:34](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=34)** We had already run our initial sync manually, and since there is no new data in our [[PostgreSQL|Postgres]] database, this sync will not ingest new data.
 >
 > **[0:44](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=44)** A good challenge for you here would be to add new rows to the Postgres database, and materialize again to see new data flowing through the pipeline.
 >
@@ -1937,11 +1906,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=75)** For example, clicking on an asset will open a sidebar, presenting more details about it.
 >
-> **[1:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=81)** For example, in this case, the SQL statement that generated the model and statistics about the last materialization.
+> **[1:21](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=81)** For example, in this case, the [[SQL]] statement that generated the model and [[Statistics]] about the last materialization.
 >
 > **[1:29](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=89)** Feel free to explore around.
 >
-> **[1:31](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=91)** Oh, and by the way, don't forget to commit and push your Dexter code to GitHub.
+> **[1:31](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=91)** Oh, and by the way, don't forget to commit and push your Dexter code to [[GitHub]].
 >
 > **[1:37](https://www.linkedin.com/learning/end-to-end-data-engineering-project/materializing-assets-using-dagit?u=76281980&t=97)** By now, you have got a fully operational data pipeline, which is viewable and manageable from Dexter.
 >
@@ -1949,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[PostgreSQL|Postgres]] (2), database (2), [[SQL]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[PostgreSQL|Postgres]] (2), [[SQL]] (1), [[Statistics]] (1), [[GitHub]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (2)
 > **Env Vars:** sql (1)
@@ -1957,8 +1926,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Add a schedule to your data pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-schedule-to-your-data-pipeline?u=76281980)
+#### [Challenge: Add a schedule to your data pipeline](https://www.linkedin.com/learning/end-to-end-data-engineering-project/challenge-add-a-schedule-to-your-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,13 +1938,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add a schedule to your data pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-a-schedule-to-your-data-pipeline?u=76281980)
+#### [Solution: Add a schedule to your data pipeline](https://www.linkedin.com/learning/end-to-end-data-engineering-project/solution-add-a-schedule-to-your-data-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2006,7 +1972,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** define_asset_job (1), cron_scheduler (1)
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [instructor] (1)
@@ -2017,12 +1982,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An evolving field
-> [LinkedIn Learning](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)
+#### [An evolving field](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=0)** - Congratulations on completing this journey into the world of modern data engineering.
+> **[0:00](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=0)** - Congratulations on completing this journey into the world of modern [[Data Engineering]].
 >
 > **[0:06](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=6)** We have covered a lot of ground together.
 >
@@ -2050,11 +2014,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=62)** You can also consider other tools in the modern data stack for a specific project you may have.
 >
-> **[1:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=69)** And lastly, you can consider learning more about data modeling techniques as they are really important and can provide a lot of value.
+> **[1:09](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=69)** And lastly, you can consider learning more about [[Data Modeling]] techniques as they are really important and can provide a lot of value.
 >
 > **[1:18](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=78)** Remember, you can continue the conversation by posting questions in the Q and A section of the course.
 >
-> **[1:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=84)** And don't forget to follow me on LinkedIn.
+> **[1:24](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=84)** And don't forget to follow me on [[LinkedIn]].
 >
 > **[1:27](https://www.linkedin.com/learning/end-to-end-data-engineering-project/an-evolving-field?u=76281980&t=87)** I love creating content for data professionals.
 >
@@ -2062,7 +2026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Data Engineering]] (4), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (4), [[Data Modeling]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** don't forget (1)

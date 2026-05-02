@@ -119,8 +119,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn C++
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
+#### [Learn C++](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,11 +129,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=9)** We'll start with the basics, including syntax, operators, loops, and functions.
 >
-> **[0:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=15)** I'll explain how to use data structures and create your own functions.
+> **[0:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=15)** I'll explain how to use [[Data Structures]] and create your own functions.
 >
 > **[0:20](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=20)** I'll show you how to create classes and objects.
 >
-> **[0:22](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=22)** And finally I'll cover the fundamentals of templates and the C++ standard template library, which provides a wealth of containers and algorithms.
+> **[0:22](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=22)** And finally I'll cover the fundamentals of templates and the C++ standard template library, which provides a wealth of containers and [[Algorithms]].
 >
 > **[0:32](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/learn-c-plus-plus?u=76281980&t=32)** For in-depth coverage of templates in the standard template library, please see the companion course C++ Templates and the STL.
 >
@@ -146,13 +145,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Algorithms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Structures]] (1), [[Algorithms]] (1)
 > **Exercise Files:** template (2)
 > **Env Vars:** stl (1)
 > **Speakers:** - [bill] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -170,9 +168,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=27)** These files are C++ console applications.
 >
-> **[0:31](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=31)** See the instructions in the next chapter for compiling and running these programs with popular Windows and Mac development environments.
+> **[0:31](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=31)** See the instructions in the next chapter for compiling and running these programs with popular [[Windows]] and Mac development environments.
 >
-> **[0:38](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=38)** These files are compatible with any modern C++ development environment, including Xcode, Microsoft Visual Studio, GCC, Clang, or any modern compiler or integrated environment that supports the C++ 20 standard.
+> **[0:38](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=38)** These files are compatible with any modern C++ development environment, including [[Xcode]], [[Microsoft]] Visual Studio, GCC, Clang, or any modern compiler or integrated environment that supports the C++ 20 standard.
 >
 > **[0:54](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-the-exercise-files?u=76281980&t=54)** The exercise files are here to make your learning experience easier and more powerful.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Windows]] (1), [[Xcode]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Xcode]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** gcc (1)
@@ -188,16 +186,15 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is C++?
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980)
+#### [What is C++?](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=0)** - [Instructor] C++ is a powerful, flexible, general purpose programming language that supports a number of different coding paradigms, including object-oriented, procedural, functional, and generic programming.
+> **[0:00](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=0)** - [Instructor] C++ is a powerful, flexible, general purpose programming language that supports a number of different coding paradigms, including object-oriented, procedural, functional, and [[Generic Programming]].
 >
 > **[0:13](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=13)** What is now called C++ was originally C with classes, developed in the late 1970s by Danish computer scientist, Bjarne Stroustrup.
 >
-> **[0:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=24)** C++ began its life as a set of enhancements to allow object-oriented programming in C.
+> **[0:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=24)** C++ began its life as a set of enhancements to allow [[Object-Oriented Programming (OOP)|object-oriented programming]] in C.
 >
 > **[0:30](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=30)** C++ is an extension of the C language.
 >
@@ -209,15 +206,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=62)** Today, vast numbers of medium to large-scale applications are written in C++.
 >
-> **[1:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=68)** The list is huge and it includes every version of Windows since 1.0, the parts of Unix that aren't written in plain C, major parts of macOS are written in C++, other parts are in Objective-C, which is also based on C.
+> **[1:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=68)** The list is huge and it includes every version of [[Windows]] since 1.0, the parts of Unix that aren't written in plain C, major parts of macOS are written in C++, other parts are in Objective-C, which is also based on C.
 >
-> **[1:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=84)** Major business applications like Microsoft Office and QuickBooks are written in C++.
+> **[1:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=84)** Major business applications like [[Microsoft Office]] and QuickBooks are written in C++.
 >
-> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=89)** Adobe Photoshop, Illustrator, InDesign, Firefox, Google Chrome, and most web browsers are written in C++.
+> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=89)** [[Adobe Photoshop]], Illustrator, InDesign, Firefox, [[Google]] Chrome, and most web browsers are written in C++.
 >
 > **[1:38](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=98)** Major websites like Amazon, Facebook, and Google are either written in or have significant backend resources written in C++.
 >
-> **[1:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=106)** In fact, most major programming languages, including Java, PHP, Python, and Perl are written in C or C++.
+> **[1:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=106)** In fact, most major programming languages, including [[Java]], [[PHP]], [[Python (Programming Language)|Python]], and Perl are written in C or C++.
 >
 > **[1:57](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=117)** C++ is made up of a number of different components, parts of which require understanding distinct sets of grammar.
 >
@@ -287,7 +284,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=313)** The companion course C++ Templates And The STL covers further details.
 >
-> **[5:19](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=319)** The Standard Template Library is a comprehensive library of containers and algorithms that makes extensive use of C++ templates.
+> **[5:19](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=319)** The Standard Template Library is a comprehensive library of containers and [[Algorithms]] that makes extensive use of C++ templates.
 >
 > **[5:27](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=327)** Again, we'll cover the basics here, and the companion course C++ Templates And The STL goes into greater detail.
 >
@@ -325,13 +322,13 @@ created: 2026-05-02
 >
 > **[6:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=406)** The C++ programming language is one of the most important languages in computing today.
 >
-> **[6:52](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=412)** It is the go-to language for projects large and small and it forms the basis of other popular languages, like Java, C#, Python, PHP, and many others.
+> **[6:52](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=412)** It is the go-to language for projects large and small and it [[Forms]] the basis of other popular languages, like Java, C#, Python, PHP, and many others.
 >
 > **[7:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/what-is-c-plus-plus?u=76281980&t=423)** There's a lot to cover here, so take your time, experiment, make mistakes, and enjoy the journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Generic Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Generic Programming]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Windows]] (2), [[Google]] (2), [[Java]] (2)
 > **Env Vars:** stl (4), php (2), iso (1)
 > **CLI Commands:** php (2), python (2), make (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -345,8 +342,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The C++ toolchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
+#### [The C++ toolchain](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=3)** This means that your development cycle will include a distinct compilation step.
 >
-> **[0:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=8)** If you're already familiar with a scripting language, like JavaScript, Python, Perl, or PHP, this may be a new experience for you.
+> **[0:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=8)** If you're already familiar with a scripting language, like [[JavaScript]], [[Python (Programming Language)|Python]], Perl, or [[PHP]], this may be a new experience for you.
 >
 > **[0:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=16)** Languages like JavaScript, Python, Perl, and PHP are effectively interpreted languages.
 >
@@ -372,7 +368,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=39)** This means that before you can run the code, it must be converted from source code into something your operating system can run.
 >
-> **[0:47](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=47)** For most of us, this happens in an integrated development environment, an IDE, like Xcode or Visual Studio, but it's still important to understand what all the steps are.
+> **[0:47](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=47)** For most of us, this happens in an integrated development environment, an IDE, like [[Xcode]] or Visual Studio, but it's still important to understand what all the steps are.
 >
 > **[0:59](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-c-plus-plus-toolchain?u=76281980&t=59)** The first step is the preprocessor.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2), [[PHP]] (2), [[Xcode]] (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Python (Programming Language)|Python]] (2), [[PHP]] (2), [[Xcode]] (2)
 > **Definitions:** is a  (3), means that (3), is an  (1)
 > **CLI Commands:** python (2), php (2), make (1)
 > **Exercise Files:** source code (5)
@@ -414,8 +410,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using an IDE with the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980)
+#### [Using an IDE with the exercise files](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,11 +418,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=7)** Any compiler that supports C++ 20 should work.
 >
-> **[0:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=12)** An IDE like Xcode or Visual Studio could be an excellent environment for using the exercise files.
+> **[0:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=12)** An IDE like [[Xcode]] or Visual Studio could be an excellent environment for using the exercise files.
 >
 > **[0:18](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=18)** For demonstration purposes, I mostly use Xcode on a Mac because it has a clear, uncluttered display and it's easy to compile and run from right there in Xcode.
 >
-> **[0:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=29)** I also demonstrate a few things in Visual Studio on Windows.
+> **[0:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=29)** I also demonstrate a few things in Visual Studio on [[Windows]].
 >
 > **[0:32](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=32)** Keep in mind that any editor and compiler that supports C++ 20 will do fine.
 >
@@ -481,7 +476,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=131)** And then make sure that you add it to your workspace.
 >
-> **[2:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=135)** You don't need a Git repository.
+> **[2:15](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=135)** You don't need a [[Git]] repository.
 >
 > **[2:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-an-ide-with-the-exercise-files?u=76281980&t=137)** It's probably overkill if you do that.
 >
@@ -645,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Xcode]] (12), [[Windows]] (3), next (1), [[Git]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (12), [[Windows]] (3), [[Git]] (1)
 > **Exercise Files:** exercise files (11), source code (1)
 > **File Paths:** hello.cpp (6), working.cpp (2)
 > **Tools:** visual studio (6), command line (1)
@@ -654,8 +649,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2), find (1), git (1)
 > **Env Vars:** ide (1), gnu (1)
 
-#### Check for std::format support
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980)
+#### [Check for std::format support](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -663,9 +657,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=6)** The format library is new for C++ 20, and as I'm recording this in June 2022, not all systems are yet supported.
 >
-> **[0:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=14)** Microsoft Visual C++ supports it.
+> **[0:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=14)** [[Microsoft]] Visual C++ supports it.
 >
-> **[0:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=17)** Other compilers like this Xcode and Clang on a Mac do not.
+> **[0:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=17)** Other compilers like this [[Xcode]] and Clang on a Mac do not.
 >
 > **[0:22](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/check-for-std-format-support?u=76281980&t=22)** You can find out if your compiler supports it by loading this working.cpp from chapter two of the exercise files.
 >
@@ -692,8 +686,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
+#### [Basic syntax](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,7 +740,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980&t=123)** In this case, we include the iostream library which provides the C out object.
 >
-> **[2:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980&t=129)** In the rest of this chapter, we'll go through the basic syntax of C++ in a bit more detail.
+> **[2:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980&t=129)** In the [[Representational State Transfer (REST)|rest]] of this chapter, we'll go through the basic syntax of C++ in a bit more detail.
 >
 > **[2:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/basic-syntax?u=76281980&t=134)** You'll learn how to construct a syntactically correct program, how to define variables, and how to use pointers and references.
 >
@@ -765,8 +758,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - this (1)
 
-#### Anatomy of a C++ program
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980)
+#### [Anatomy of a C++ program](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -782,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=40)** You'll find this code in chapter two of your exercise files as hello.cpp, whitespace is any characters that are normally invisible, including new lines, spaces, and tabs.
 >
-> **[0:56](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=56)** Whitespace is mostly ignored in C++, one notable exception is when a space is necessary to distinguish between two words or tokens.
+> **[0:56](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=56)** Whitespace is mostly ignored in C++, one notable exception is when a space is necessary to distinguish between two words or [[Tokens]].
 >
 > **[1:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=66)** For example, the space between the words int and main is significant and required, extra spaces would still be ignored.
 >
@@ -832,7 +824,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=281)** Beginning with C++20, there's a new formatter called format.
 >
-> **[4:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=286)** The format function is inspired by Python's string formatter.
+> **[4:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=286)** The format function is inspired by [[Python (Programming Language)|Python]]'s string formatter.
 >
 > **[4:50](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/anatomy-of-a-c-plus-plus-program?u=76281980&t=290)** The format function is in the format header, we'll be using format to format strings in this course.
 >
@@ -865,8 +857,7 @@ created: 2026-05-02
 > **File Paths:** hello.cpp (1)
 > **URLs:** [bw.org](https://bw.org) (1)
 
-#### Statements and expressions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/statements-and-expressions?u=76281980)
+#### [Statements and expressions](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/statements-and-expressions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -922,8 +913,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980)
+#### [Identifiers](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=30)** Identifiers may not conflict with reserved words.
 >
-> **[0:34](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=34)** The current C++ standard reserves 73 keywords, plus 11 alternative tokens.
+> **[0:34](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=34)** The current C++ standard reserves 73 keywords, plus 11 alternative [[Tokens]].
 >
 > **[0:41](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=41)** You cannot use any of these words as an identifier.
 >
@@ -957,7 +947,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=83)** As an example, this code compiles and runs fine on a Mac with X code and Clang.
 >
-> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=89)** It does not compile at all on Microsoft Visual Studio.
+> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=89)** It does not compile at all on [[Microsoft]] Visual Studio.
 >
 > **[1:34](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/identifiers?u=76281980&t=94)** Current standards allow for identifiers to be of any length although only the first 63 characters are guaranteed to be checked for uniqueness.
 >
@@ -975,7 +965,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft]] (1)
 > **Env Vars:** iso (2), ascii (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
@@ -984,8 +974,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 
-#### Defining variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980)
+#### [Defining variables](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1064,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980&t=226)** It will not allow us to change it because it's now a constant variable.
 >
-> **[3:51](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980&t=231)** So let's take these out here, and we're going to change this again, and I'm going to use the word 'auto' as the type instead of anything there.
+> **[3:51](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980&t=231)** So let's take these out here, and we're going to change this again, and I'm going to use the [[Microsoft Word|word]] 'auto' as the type instead of anything there.
 >
 > **[4:00](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/defining-variables?u=76281980&t=240)** And I'm going to assign it a value.
 >
@@ -1127,7 +1116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5), means that (1), in other words (1)
 > **Prerequisites:** initialization (5)
 > **File Paths:** variable.cpp (1)
@@ -1135,8 +1124,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - variables (1)
 
-#### Pointers and references
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/pointers-and-references?u=76281980)
+#### [Pointers and references](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/pointers-and-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1334,11 +1322,11 @@ created: 2026-05-02
 >
 > **[9:20](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/pointers-and-references?u=76281980&t=560)** both pointers and references are used a lot in C++ especially in functions and classes.
 >
-> **[9:26](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/pointers-and-references?u=76281980&t=566)** You'll see many more examples of this in the rest of the course.
+> **[9:26](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/pointers-and-references?u=76281980&t=566)** You'll see many more examples of this in the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (9), is called (2), is an  (1), we call this (1)
 > **Analogies:** just like (1), it's like (1), for example (1), for instance (1)
 > **File Paths:** pointers.cpp (1)
@@ -1352,8 +1340,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conditionals
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
+#### [Conditionals](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/conditionals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,7 +1502,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **File Paths:** working.cpp (1)
 > **Cross-References:** go back to (1)
@@ -1523,8 +1509,7 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980)
+#### [Loops](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1576,7 +1561,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980&t=131)** So go ahead, and I'll run this and you see we get element zero, element one, and element two, but at that point, the loop stops because we hit the break statement.
 >
-> **[2:22](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980&t=142)** Alternately, I can skip the rest of a block with the continue statement.
+> **[2:22](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980&t=142)** Alternately, I can skip the [[Representational State Transfer (REST)|rest]] of a block with the continue statement.
 >
 > **[2:26](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/loops?u=76281980&t=146)** I can say, if i equals two, and I can increment i and continue.
 >
@@ -1610,15 +1595,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is called (1), is a  (1)
 > **File Paths:** while.cpp (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - the (1)
 
-#### Iterating with for
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980)
+#### [Iterating with for](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1612,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980&t=8)** Let's look at the C for loop first, as this is by far the most common.
 >
-> **[0:13](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980&t=13)** This is for.cpp from Chapter three of the exercise files and that's the word for, not the number four.
+> **[0:13](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980&t=13)** This is for.cpp from Chapter three of the exercise files and that's the [[Microsoft Word|word]] for, not the number four.
 >
 > **[0:20](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/iterating-with-for?u=76281980&t=20)** F-O-R.cpp.
 >
@@ -1762,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Programming]] (1), oop (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4)
 > **File Paths:** for.cpp (1), f-o-r.cpp (1), range-for.c (1)
 > **CLI Commands:** find (3)
@@ -1770,8 +1754,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/functions?u=76281980)
+#### [Functions](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1895,7 +1878,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **File Paths:** func.cpp (1)
 > **Cross-References:** later in (1)
@@ -1907,8 +1889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
+#### [Overview of data types](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,19 +1971,18 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980&t=190)** C++ provides a number of fundamental data types which may be used or extended for many purposes.
 >
-> **[3:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980&t=197)** The rest of this chapter will cover these types in greater detail.
+> **[3:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-data-types?u=76281980&t=197)** The [[Representational State Transfer (REST)|rest]] of this chapter will cover these types in greater detail.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1), refers to (1)
 > **Env Vars:** stl (1)
 > **Analogies:** for example (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integer types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/integer-types?u=76281980)
+#### [Integer types](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/integer-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2064,17 +2044,16 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/integer-types?u=76281980&t=140)** If you acquire an integer of a specific size, the C standard int header, c-s-t-d-i-n-t, provides types in these specific widths, eight bit, 16 bit, 32 bit, and 64 bit, both signed and unsigned.
 >
-> **[2:36](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/integer-types?u=76281980&t=156)** Intmax_t and uintmax_t are the largest size supported by your target hardware.
+> **[2:36](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/integer-types?u=76281980&t=156)** Intmax_t and uintmax_t are the largest size supported by your target [[Hardware]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** ls (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Floating point types
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980)
+#### [Floating point types](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2092,7 +2071,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=44)** On many systems including this one here which is an Apple with the M1 chip, which is the ARM 64 running Apple clang, the long double type is simply a synonym for double.
 >
-> **[0:56](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=56)** This is also true on Microsoft Visual C++ even on 64-bit systems, the long double is simply a synonym for double.
+> **[0:56](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=56)** This is also true on [[Microsoft]] Visual C++ even on 64-bit systems, the long double is simply a synonym for double.
 >
 > **[1:04](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=64)** On Intel® MAX® and on other Intel systems running Clang or GCC, the long double, it'll read out as being 128-bits but it's actually an 80-bit IEEE long double.
 >
@@ -2112,17 +2091,17 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=132)** Now I can show this to you on a couple of other systems.
 >
-> **[2:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=136)** So this is a terminal session that's connected to a Linux system running GCC on an Intel processor.
+> **[2:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=136)** So this is a terminal session that's connected to a [[Linux]] system running GCC on an Intel processor.
 >
 > **[2:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=144)** And, this is the code.
 >
-> **[2:25](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=145)** It's exactly the same code as we saw in Xcode just a moment ago.
+> **[2:25](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=145)** It's exactly the same code as we saw in [[Xcode]] just a moment ago.
 >
 > **[2:30](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=150)** And when I run this, you notice that it says the long double is 128-bits.
 >
 > **[2:36](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=156)** And that's actually, only using 80-bits of it for an IEEE long double, which is still a lot of precision.
 >
-> **[2:42](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=162)** Now let's take a look at it on a windows system.
+> **[2:42](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=162)** Now let's take a look at it on a [[Windows]] system.
 >
 > **[2:45](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/floating-point-types?u=76281980&t=165)** This is a windows box that I have here in my lap.
 >
@@ -2215,8 +2194,7 @@ created: 2026-05-02
 > **File Paths:** float-types.cpp (1)
 > **Cross-References:** as we saw (1)
 
-#### The auto type
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980)
+#### [The auto type](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2242,13 +2220,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=67)** In fact, that value will be different depending on the compiler, the library, the version all of those things.
 >
-> **[1:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=72)** We can look at this exact same code on our Linux box, and here it is.
+> **[1:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=72)** We can look at this exact same code on our [[Linux]] box, and here it is.
 >
 > **[1:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=77)** And you notice the same code and I'll go ahead and run that.
 >
 > **[1:23](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=83)** And you see that we have a different incomprehensible string that starts with N S T seven, blah, blah, blah.
 >
-> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=89)** And if we look at it on Microsoft Visual C++ we'll see that it's different yet again.
+> **[1:29](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=89)** And if we look at it on [[Microsoft]] Visual C++ we'll see that it's different yet again.
 >
 > **[1:35](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/the-auto-type?u=76281980&t=95)** Here is exactly the same code, and I'll go ahead and I'll run it.
 >
@@ -2318,8 +2296,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - the (1)
 
-#### Qualifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980)
+#### [Qualifiers](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2377,7 +2354,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980&t=133)** Let's take a look at a couple of qualifiers and code.
 >
-> **[2:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980&t=136)** Let's switch now to Xcode.
+> **[2:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980&t=136)** Let's switch now to [[Xcode]].
 >
 > **[2:18](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/qualifiers?u=76281980&t=138)** This is qualifiers.cpp from chapter 3 of the Exercise Files.
 >
@@ -2429,15 +2406,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Xcode]] (1)
+> **Frameworks & Libraries:** [[Xcode]] (1)
 > **Definitions:** is an  (1), stands for (1), means that (1), is called (1)
 > **CLI Commands:** make (2)
 > **File Paths:** qualifiers.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - qualifiers (1)
 
-#### Type aliases
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/type-aliases?u=76281980)
+#### [Type aliases](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/type-aliases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2499,8 +2475,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Primitive arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/primitive-arrays?u=76281980)
+#### [Primitive arrays](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/primitive-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2634,7 +2609,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (8)
 > **Env Vars:** stl (2)
 > **Prerequisites:** you'll need (1), initialization (1)
@@ -2643,8 +2617,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### C-strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980)
+#### [C-strings](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2664,7 +2637,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980&t=48)** What's interesting is that because this is simply an array of characters, we can initialize it with the string like this as a shortcut but what it really is, is the same as doing this.
 >
-> **[1:02](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980&t=62)** It's the six characters of the word string, followed by a zero value or a null terminator.
+> **[1:02](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980&t=62)** It's the six characters of the [[Microsoft Word|word]] string, followed by a zero value or a null terminator.
 >
 > **[1:10](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/c-strings?u=76281980&t=70)** When I build and run this you see that it works exactly the same because the C string is simply an array of characters terminated with a zero.
 >
@@ -2741,8 +2714,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1), exercise files (1)
 > **Speakers:** - a (1)
 
-#### Structures
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/structures?u=76281980)
+#### [Structures](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/structures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2792,15 +2764,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1)
 > **Versions:** 47.9 (2), 73.0 (1)
 > **Definitions:** is an  (2)
 > **File Paths:** struct.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - a (1)
 
-#### Challenge: Library card
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-library-card?u=76281980)
+#### [Challenge: Library card](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-library-card?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,15 +2816,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1)
 > **Env Vars:** oclc (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (techno music) (1)
 
-#### Solution: Library card
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-library-card?u=76281980)
+#### [Solution: Library card](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-library-card?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2906,8 +2874,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
+#### [Common operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/common-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3102,8 +3069,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compound assignment operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/compound-assignment-operators?u=76281980)
+#### [Compound assignment operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/compound-assignment-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3158,8 +3124,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Increment and decrement operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/increment-and-decrement-operators?u=76281980)
+#### [Increment and decrement operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/increment-and-decrement-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3267,7 +3232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (1), is a  (1), in other words (1)
 > **Warnings:** note that (1), keep in mind (1)
@@ -3275,8 +3239,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Operator precedence
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/operator-precedence?u=76281980)
+#### [Operator precedence](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/operator-precedence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3335,8 +3298,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Prime numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-prime-numbers?u=76281980)
+#### [Challenge: Prime numbers](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-prime-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3364,15 +3326,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - for (1)
 > **Non-Speech:** (beeping music) (1)
 
-#### Solution: Prime numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-prime-numbers?u=76281980)
+#### [Solution: Prime numbers](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-prime-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3402,7 +3362,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **File Paths:** 05-solution.cpp (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
@@ -3414,8 +3373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of C++ functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
+#### [Overview of C++ functions](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-c-plus-plus-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3571,15 +3529,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), data (1)
 > **Definitions:** is called (6), is a  (5)
 > **Analogies:** analogous to (1), for example (1)
 > **File Paths:** func.cpp (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Passing values to a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/passing-values-to-a-function?u=76281980)
+#### [Passing values to a function](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/passing-values-to-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3731,7 +3687,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), power (2), [[Security]] (2)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Env Vars:** stl (2)
 > **File Paths:** func.cpp (1)
@@ -3740,8 +3695,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Returning values from a function
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/returning-values-from-a-function?u=76281980)
+#### [Returning values from a function](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/returning-values-from-a-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3891,7 +3845,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), data (1), [[Security]] (1)
 > **CLI Commands:** make (6)
 > **File Paths:** func.cpp (1)
 > **Documentation:** stack overflow (1)
@@ -3900,8 +3853,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using recursion
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-recursion?u=76281980)
+#### [Using recursion](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/using-recursion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3947,7 +3899,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Security]] (1)
 > **Definitions:** is a  (1), refers to (1), defined as (1), in other words (1), is an  (1)
 > **File Paths:** factorial.cpp (1)
 > **CLI Commands:** find (1)
@@ -3956,8 +3907,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Non-recursive factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-non-recursive-factorial?u=76281980)
+#### [Challenge: Non-recursive factorial](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-non-recursive-factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3985,13 +3935,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Cross-References:** earlier in (1), we covered (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Non-recursive factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-non-recursive-factorial?u=76281980)
+#### [Solution: Non-recursive factorial](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-non-recursive-factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4021,7 +3969,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -4031,8 +3978,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of classes and objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
+#### [Overview of classes and objects](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-classes-and-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4160,7 +4106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
 > **Definitions:** is called (3), is an  (1)
 > **File Paths:** class.cpp (1)
 > **CLI Commands:** make (1)
@@ -4168,8 +4113,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data members
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980)
+#### [Data members](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4203,7 +4147,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980&t=83)** Again, the only difference between class and struct is that class defaults to private visibility and structure defaults to public visibility.
 >
-> **[1:33](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980&t=93)** This makes struct much more useful for data structures and this makes class much more useful for situations where the data members are going to be private and encapsulated and you're going to have function accessors.
+> **[1:33](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980&t=93)** This makes struct much more useful for [[Data Structures]] and this makes class much more useful for situations where the data members are going to be private and encapsulated and you're going to have function accessors.
 >
 > **[1:47](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/data-members?u=76281980&t=107)** Let's take a look at some function accessors.
 >
@@ -4247,7 +4191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9)
+> **Frameworks & Libraries:** [[Data Structures]] (1)
 > **Definitions:** is a  (2), is called (1), known as (1)
 > **File Paths:** struct-class.cpp (1), accessors.cpp (1)
 > **CLI Commands:** make (1)
@@ -4255,8 +4199,7 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Function members
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980)
+#### [Function members](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4302,7 +4245,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=118)** So in other words, this getter, I call these setters and getters, this getter is not const qualified.
 >
-> **[2:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=126)** To const qualify it I can put the word const after the function signature and before the block.
+> **[2:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=126)** To const qualify it I can put the [[Microsoft Word|word]] const after the function signature and before the block.
 >
 > **[2:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=132)** This tells the compiler that I've designated this as a const qualified member function.
 >
@@ -4344,11 +4287,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=254)** Member functions are what make object oriented programming possible.
 >
-> **[4:18](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=258)** As we go through the rest of this chapter, you'll see that most of the other features of C++ objects are based on member functions.
+> **[4:18](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/function-members?u=76281980&t=258)** As we go through the [[Representational State Transfer (REST)|rest]] of this chapter, you'll see that most of the other features of C++ objects are based on member functions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (1), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** getval (4), setval (2)
 > **Definitions:** is a  (2), in other words (2), is called (2)
 > **CLI Commands:** make (2)
@@ -4357,8 +4300,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** best practice (1)
 
-#### Constructors and destructors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980)
+#### [Constructors and destructors](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4492,7 +4434,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980&t=364)** This our assignment operator.
 >
-> **[6:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980&t=366)** Operator overloads use the word operator and then the symbol for the operator.
+> **[6:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980&t=366)** Operator overloads use the [[Microsoft Word|word]] operator and then the symbol for the operator.
 >
 > **[6:11](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/constructors-and-destructors?u=76281980&t=371)** And on the right-hand side of the operator, we have an Animal object, and we do the same thing with the copying but you notice that there's this condition here if this is not equal to the address of the right-hand side object.
 >
@@ -4524,7 +4466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
 > **Code Identifiers:** clone_prefix (2), a_type (1), a_name (1)
 > **Prerequisites:** set up (1), initialization (1)
@@ -4533,8 +4475,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operator overloads
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/operator-overloads?u=76281980)
+#### [Operator overloads](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/operator-overloads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4670,7 +4611,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), functional (1), data (1)
 > **Definitions:** is a  (6), is called (1), means that (1), is an  (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (2)
@@ -4679,8 +4619,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - operator (1)
 
-#### Non-member operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/non-member-operators?u=76281980)
+#### [Non-member operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/non-member-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4802,7 +4741,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the last (1), we discussed (1)
@@ -4811,8 +4749,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Non-member operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-non-member-operators?u=76281980)
+#### [Challenge: Non-member operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-non-member-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4838,7 +4775,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** earlier in (1), in the next (1)
 > **File Paths:** challenge.cpp (1)
 > **Env Vars:** cpp (1)
@@ -4846,8 +4782,7 @@ created: 2026-05-02
 > **Speakers:** - [educator] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Non-member operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-non-member-operators?u=76281980)
+#### [Solution: Non-member operators](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-non-member-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4884,14 +4819,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
+#### [Understanding templates](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980&t=0)** - [Instructor] C++ templates are wonderfully simple and powerful.
 >
-> **[0:04](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980&t=4)** This is the C++ feature that supports generic programming.
+> **[0:04](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980&t=4)** This is the C++ feature that supports [[Generic Programming]].
 >
 > **[0:08](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/understanding-templates?u=76281980&t=8)** Generic programming refers to code that works independent of type.
 >
@@ -4935,7 +4869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generic Programming]] (4), feature (2), generic (2), data (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Generic Programming]] (4)
 > **Exercise Files:** template (10)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** stl (1)
@@ -4944,8 +4878,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980)
+#### [Template functions](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4959,9 +4892,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=17)** You notice the template keyword, and in these angle brackets here, we have the template argument list.
 >
-> **[0:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=24)** The keyword typename is commonly used here, but the word class works exactly the same and is often used instead.
+> **[0:24](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=24)** The keyword typename is commonly used here, but the [[Microsoft Word|word]] class works exactly the same and is often used instead.
 >
-> **[0:34](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=34)** Just be aware, that at least in this context, either of these two tokens means the same thing.
+> **[0:34](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=34)** Just be aware, that at least in this context, either of these two [[Tokens]] means the same thing.
 >
 > **[0:40](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=40)** I strongly recommend that you use typename.
 >
@@ -5053,7 +4986,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=299)** This is very convenient, and it works in many common circumstances.
 >
-> **[5:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=303)** Template functions are a form of generic programming that are easy to create, can be very useful.
+> **[5:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=303)** Template functions are a form of [[Generic Programming]] that are easy to create, can be very useful.
 >
 > **[5:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-functions?u=76281980&t=309)** For many of the purposes, we used to use C macros.
 >
@@ -5069,8 +5002,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-classes?u=76281980)
+#### [Template classes](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/template-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5220,7 +5152,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (5), means that (2), is an  (1)
 > **Exercise Files:** template (5), exercise files (1)
 > **Env Vars:** stl (2), lifo (1)
@@ -5228,8 +5159,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Template factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-template-factorial?u=76281980)
+#### [Challenge: Template factorial](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-template-factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5254,8 +5184,7 @@ created: 2026-05-02
 > **Speakers:** - [educator] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Template factorial
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-template-factorial?u=76281980)
+#### [Solution: Template factorial](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-template-factorial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5289,7 +5218,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-template-factorial?u=76281980&t=58)** In this challenge, you've used your understanding of templates to create a templates-based solution for the non-recursive factorial function.
 >
-> **[1:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-template-factorial?u=76281980&t=66)** I hope you can see how powerful and flexible templates can be for generic programming in C++.
+> **[1:06](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-template-factorial?u=76281980&t=66)** I hope you can see how powerful and flexible templates can be for [[Generic Programming]] in C++.
 
 > [!info]- Semantic Content
 >
@@ -5303,8 +5232,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the STL
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
+#### [Overview of the STL](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5314,7 +5242,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980&t=9)** Commonly called the STL, the Standard Template Library provides containers and supporting data types like vectors, lists, queues, and iterators.
 >
-> **[0:19](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980&t=19)** The STL provides a number of standard containers, iterators, and algorithms.
+> **[0:19](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980&t=19)** The STL provides a number of standard containers, iterators, and [[Algorithms]].
 >
 > **[0:23](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/overview-of-the-stl?u=76281980&t=23)** Some of these include vector, a fundamental random access container that can be used in many places a C array could be used, but with a lot more functionality.
 >
@@ -5346,14 +5274,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** stl (6)
 > **Exercise Files:** template (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/vectors?u=76281980)
+#### [Vectors](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5469,7 +5396,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** just like (3), think of it as (1)
 > **Env Vars:** sdl (2), std (1)
 > **Exercise Files:** template (2), exercise files (1)
@@ -5477,8 +5403,7 @@ created: 2026-05-02
 > **File Paths:** dot.cpp (1)
 > **Speakers:** - [narrator] (1)
 
-#### Strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980)
+#### [Strings](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5538,7 +5463,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980&t=178)** So we get the fifth position and we'll insert a capital X and we go ahead and run this.
 >
-> **[3:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980&t=183)** And you see, we get our capital X just before the word is and we can erase it again with an iterator in the same way.
+> **[3:03](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980&t=183)** And you see, we get our capital X just before the [[Microsoft Word|word]] is and we can erase it again with an iterator in the same way.
 >
 > **[3:14](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/strings?u=76281980&t=194)** We can use positions to replace.
 >
@@ -5576,8 +5501,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980)
+#### [Format](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5587,7 +5511,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=12)** Both have serious flaws but we've used them because they work.
 >
-> **[0:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=16)** Beginning with C++ 20, the format function provides text formatting inspired by Python 3's formatter.
+> **[0:16](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=16)** Beginning with C++ 20, the format function provides text formatting inspired by [[Python (Programming Language)|Python]] 3's formatter.
 >
 > **[0:25](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=25)** This is format.cpp from chapter nine of the exercise files.
 >
@@ -5651,7 +5575,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=173)** In this one it says hello earthlings we are vulcans and that's because we've used these positional arguments to change the position of the arguments.
 >
-> **[3:02](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=182)** And this is great for internationalization and other uses where you may want to change the order of things.
+> **[3:02](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=182)** And this is great for [[Internationalization]] and other uses where you may want to change the order of things.
 >
 > **[3:09](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/format?u=76281980&t=189)** Now let's take a look at our double.
 >
@@ -5725,7 +5649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (1), [[Internationalization]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Internationalization]] (1)
 > **Exercise Files:** template (7), exercise files (1)
 > **Env Vars:** stl (4)
 > **Analogies:** just like (3)
@@ -5734,8 +5658,7 @@ created: 2026-05-02
 > **File Paths:** format.cpp (1)
 > **CLI Commands:** python (1)
 
-#### I/O Stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980)
+#### [I/O Stream](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5753,7 +5676,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=43)** So here we have cout "Hello, World!" with a new line, and we've seen this before.
 >
-> **[0:49](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=49)** And we declare a string called istr, I S T R, and we cout a prompt with no new line, so it'll just be on one line there and then we cin from istr and you notice my comment says one word at a time.
+> **[0:49](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=49)** And we declare a string called istr, I S T R, and we cout a prompt with no new line, so it'll just be on one line there and then we cin from istr and you notice my comment says one [[Microsoft Word|word]] at a time.
 >
 > **[1:05](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/i-o-stream?u=76281980&t=65)** That's the way that cin works by default, is one word at a time, and then we'll display the string that we get.
 >
@@ -5851,7 +5774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), prompt (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4)
 > **Definitions:** is a  (5), is an  (2)
 > **File Paths:** iostream-formatting.cpp (1), iostream-file.cpp (1)
 > **Env Vars:** stl (1)
@@ -5859,8 +5782,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Transform a file (STL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-transform-a-file-stl?u=76281980)
+#### [Challenge: Transform a file (STL)](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/challenge-transform-a-file-stl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5894,15 +5816,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sku (1), stl (1)
 > **Exercise Files:** template (1), exercise files (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Transform a file (STL)
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-transform-a-file-stl?u=76281980)
+#### [Solution: Transform a file (STL)](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/solution-transform-a-file-stl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5956,7 +5876,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **File Paths:** 09-solution.cpp (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** stl (1)
@@ -5970,8 +5889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thank you
-> [LinkedIn Learning](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)
+#### [Thank you](https://www.linkedin.com/learning/c-plus-plus-essential-training-15106801/thank-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6003,7 +5921,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** sdl (1), stl (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)

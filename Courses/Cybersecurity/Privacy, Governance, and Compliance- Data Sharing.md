@@ -85,14 +85,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980&t=0)** - Thank you for joining me to learn more about data sharing with privacy controls.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980&t=0)** - Thank you for joining me to learn more about [[Data Sharing]] with [[Privacy]] controls.
 >
-> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980&t=4)** My name is Nishant Bhajaria, and I'm a privacy and cybersecurity executive, published author and educator in this space.
+> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980&t=4)** My name is Nishant Bhajaria, and I'm a privacy and [[Cybersecurity]] executive, published author and educator in this space.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/welcome?u=76281980&t=10)** I also advise venture capitalists, startup founders, think tanks and universities.
 >
@@ -144,16 +143,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Privacy]] (8), [[Cybersecurity]] (1), [[Security]] (1), database (1)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Data Sharing]] (3), [[Cybersecurity]] (1)
 > **Env Vars:** covid (3)
 > **Speakers:** - thank (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course builds on my previous course on privacy, also hosted on LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course builds on my previous course on [[Privacy]], also hosted on [[LinkedIn]].
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=4)** That course was titled, Implementing a Privacy Risk and Assurance Program, and it focused on building a cross-functional privacy program and was fairly introductory in nature.
 >
@@ -161,15 +159,15 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=19)** This course also builds on my other course on privacy, also hosted on LinkedIn.
 >
-> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=23)** That course focused on data classification as part of overall data governance.
+> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=23)** That course focused on [[Data Classification]] as part of overall [[Data Governance]].
 >
 > **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=27)** The classification and inventory are part of a shift left approach to help manage privacy risk at scale.
 >
-> **[0:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=33)** In this course, we will look at not just the left, but the sharing of data that occurs throughout the rest of the data funnel.
+> **[0:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=33)** In this course, we will look at not just the left, but the sharing of data that occurs throughout the [[Representational State Transfer (REST)|rest]] of the data funnel.
 >
 > **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=40)** Modern companies share data with business partners, vendors, governments, et cetera, for the sake of growing the business, engagement, personalization, and regulation, just to name a few.
 >
-> **[0:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=50)** I will educate you on how data sharing actually works, the underlying risks, and how you can reduce those risks using several privacy techniques.
+> **[0:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=50)** I will educate you on how [[Data Sharing]] actually works, the underlying risks, and how you can reduce those risks using several privacy techniques.
 >
 > **[0:58](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/who-this-course-is-for?u=76281980&t=58)** This course is aimed at chief information security officers, chief privacy officers, privacy architects, privacy engineers, and just about anyone in charge of making decisions around protecting customer data.
 >
@@ -181,15 +179,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (13), data (7), [[LinkedIn]] (2), business (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (13), [[LinkedIn]] (2), [[Data Classification]] (1), [[Data Governance]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data classification as part of data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-classification-as-part-of-data-governance?u=76281980)
+#### [Data classification as part of data governance](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-classification-as-part-of-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-classification-as-part-of-data-governance?u=76281980&t=0)** - Just like data classification privacy of our data sharing is a critical part of data governance.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-classification-as-part-of-data-governance?u=76281980&t=0)** - Just like [[Data Classification]] [[Privacy]] of our [[Data Sharing]] is a critical part of [[Data Governance]].
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-classification-as-part-of-data-governance?u=76281980&t=6)** Given how vital data sharing is for the modern economy planning for it strategically and thoughtfully is critical.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Data Classification]] (6), [[Privacy]] (6), business (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (9), [[Data Governance]] (7), [[Data Classification]] (6), [[Privacy]] (6)
 > **Definitions:** is a  (1), refers to (1)
 > **Analogies:** just like (2)
 > **Speakers:** - just (1)
@@ -233,14 +230,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How data sharing works: The ads use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980)
+#### [How data sharing works: The ads use case](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980&t=0)** - [Instructor] Let's look at a concrete example of how data sharing works by looking at online advertising as a use case.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980&t=0)** - [Instructor] Let's look at a concrete example of how [[Data Sharing]] works by looking at online advertising as a use case.
 >
-> **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980&t=6)** You may or may not like online advertising, but given the complexity of the advertising space, it'll help you understand data sharing and its privacy implications in great detail.
+> **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980&t=6)** You may or may not like online advertising, but given the complexity of the advertising space, it'll help you understand data sharing and its [[Privacy]] implications in great detail.
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-works-the-ads-use-case?u=76281980&t=17)** The Electronic Frontiers Foundation has published research that showed how we get served ads on the internet.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Privacy]] (5), next (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (5), [[Privacy]] (5)
 > **Env Vars:** ssp (5), dsp (2)
 > **Definitions:** refers to (1), known as (1), is a  (1), is an  (1)
 > **Analogies:** for example (2)
@@ -312,12 +308,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### How data sharing can go wrong
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980)
+#### [How data sharing can go wrong](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=0)** - [Instructor] The online advertising example shows the privacy challenges that are caused by data sharing.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=0)** - [Instructor] The online advertising example shows the [[Privacy]] challenges that are caused by [[Data Sharing]].
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=5)** One such challenge is lack of awareness.
 >
@@ -325,7 +320,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=15)** But the other big challenges are lack of guardrails or having guardrails but them being broken all over the place.
 >
-> **[0:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=22)** For example, caching reduces the burden on backend databases.
+> **[0:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=22)** For example, caching reduces the burden on backend [[Databases]].
 >
 > **[0:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=25)** This means engineers can deploy code without always having to worry about scaling the backend.
 >
@@ -365,7 +360,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=135)** Strava responded by explaining that all users have the ability to set activities to private so that their activities are not included in the heat map.
 >
-> **[2:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=142)** And that explanation is technically correct, but when it comes to security and privacy, the companies building the products will own the outcomes, not the users themselves.
+> **[2:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=142)** And that explanation is technically correct, but when it comes to security and privacy, the companies building the [[Microsoft Products|products]] will own the outcomes, not the users themselves.
 >
 > **[2:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=152)** And this is how a company as sophisticated as Strava and an organization as disciplined as the US military were caught by surprise due to privacy and data sharing.
 >
@@ -377,25 +372,24 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=176)** And this was especially true in the early days of social media when sharing was a sense of empowerment.
 >
-> **[3:01](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=181)** But when data sharing goes wrong, privacy issues become major problems.
+> **[3:01](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=181)** But when data sharing goes wrong, [[Privacy Issues]] become major problems.
 >
 > **[3:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-data-sharing-can-go-wrong?u=76281980&t=186)** Next we will look at red flags to watch for when it comes to data sharing that way you may be able to prepare and build better guardrails and mitigate possible privacy risks when it comes to data sharing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Privacy]] (5), [[Databases]] (1), web (1), feature (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (7), [[Privacy]] (5), [[Databases]] (1), [[Microsoft Products|Products]] (1), [[Privacy Issues]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data sharing risks: A case study
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980)
+#### [Data sharing risks: A case study](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=0)** - [Instructor] Given the complex nature of data sharing, let's dive headfirst into a case study.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=0)** - [Instructor] Given the complex nature of [[Data Sharing]], let's dive headfirst into a case study.
 >
-> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=5)** I want you to understand that the privacy risks here are not abstract.
+> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=5)** I want you to understand that the [[Privacy]] risks here are not abstract.
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=9)** Let's start with some key insights.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=178)** For now, let's continue to track President Trump and his entourage.
 >
-> **[3:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=182)** The same phone represented by the dot we saw previously pinged a dozen times at the nearby Secret Service field office.
+> **[3:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=182)** The same phone represented by the dot we saw previously pinged a dozen times at the nearby Secret Service field [[Microsoft Office|office]].
 >
 > **[3:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=188)** From computer screens more than 1,000 miles away, Journalists at the New York Times offices could watch this person travel from exclusive areas at Palm Beach International Airport to Mar-a-Lago.
 >
@@ -535,13 +529,13 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=430)** And when those weaknesses are exploited, you will share the consequences.
 >
-> **[7:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=434)** For the rest of this course, I will be speaking directly to professionals who design and create these apps.
+> **[7:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=434)** For the [[Representational State Transfer (REST)|rest]] of this course, I will be speaking directly to professionals who design and create these apps.
 >
 > **[7:19](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/data-sharing-risks-a-case-study?u=76281980&t=439)** The goal is to help them share data in a way that enables innovation but also respects privacy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), [[Privacy]] (8), [[Security]] (3), hit (2), web (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (9), [[Privacy]] (8), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Ports:** :10 (1), :24 (1), :12 (1), :08 (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.6 (1)
@@ -549,12 +543,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### When data sharing should raise red flags
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/when-data-sharing-should-raise-red-flags?u=76281980)
+#### [When data sharing should raise red flags](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/when-data-sharing-should-raise-red-flags?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/when-data-sharing-should-raise-red-flags?u=76281980&t=0)** - Privacy risks that stem from data sharing are never static or constant.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/when-data-sharing-should-raise-red-flags?u=76281980&t=0)** - [[Privacy]] risks that stem from [[Data Sharing]] are never static or constant.
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/when-data-sharing-should-raise-red-flags?u=76281980&t=4)** They could change because of a whole host of reasons.
 >
@@ -604,17 +597,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (5), next (3), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (6), [[Privacy]] (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - privacy (1)
 
-#### Valid reasons for data sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/valid-reasons-for-data-sharing?u=76281980)
+#### [Valid reasons for data sharing](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/valid-reasons-for-data-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/valid-reasons-for-data-sharing?u=76281980&t=0)** - [Instructor] So far, we have seen the challenging side of data sharing.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/valid-reasons-for-data-sharing?u=76281980&t=0)** - [Instructor] So far, we have seen the challenging side of [[Data Sharing]].
 >
 > **[0:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/valid-reasons-for-data-sharing?u=76281980&t=3)** However, there are valid reasons as to why an app may want to share data with other entities.
 >
@@ -642,7 +634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), traffic (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (4)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
@@ -651,20 +643,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Techniques to minimize privacy risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980)
+#### [Techniques to minimize privacy risk](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=0)** - [Instructor] So far we have seen the scale of data sharing and the privacy risks it causes.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=0)** - [Instructor] So far we have seen the scale of [[Data Sharing]] and the [[Privacy]] risks it causes.
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=4)** The good news here is that there are several best practices available, and techniques available to help make data sharing more privacy focused.
 >
-> **[0:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=12)** When it comes to data collection, I have built architectures with a key principle, the more precisely identifiable the data, the lower the retention period should be.
+> **[0:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=12)** When it comes to [[Data Collection]], I have built architectures with a key principle, the more precisely identifiable the data, the lower the retention period should be.
 >
 > **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=21)** I will repeat again, the more precisely identifiable the data, the lower the retention period should be.
 >
-> **[0:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=28)** We saw this exact principle in action in the data classification course as well, precision and retention should have an inverse correlation.
+> **[0:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=28)** We saw this exact principle in action in the [[Data Classification]] course as well, precision and retention should have an inverse correlation.
 >
 > **[0:35](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=35)** This theme is apropos for data sharing as well.
 >
@@ -694,7 +685,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=127)** Key tip, you may also have some use cases where you may actually want to identify somebody whose data you have shared, for those use cases, you may want to create another table that links their external identifiers, like passport numbers, for example, to internal identifiers that are customized for your company alone.
 >
-> **[2:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=143)** However, you should carefully manage access to this linking table so as to prevent any potential privacy issues.
+> **[2:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=143)** However, you should carefully manage access to this linking table so as to prevent any potential [[Privacy Issues]].
 >
 > **[2:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/techniques-to-minimize-privacy-risk?u=76281980&t=150)** Let's look at an example on the next slide.
 >
@@ -792,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (49), [[Privacy]] (9), teams (3), [[Security]] (2), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Data Sharing]] (6), [[Data Collection]] (1), [[Data Classification]] (1), [[Privacy Issues]] (1)
 > **Ports:** :30 (2), :00 (2), :22 (1), :09 (1), :24 (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -801,12 +792,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anonymization concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980)
+#### [Anonymization concepts](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=0)** - [Instructor] Continuing on the idea of sharing data while also reducing privacy risks, let's look at anonymization.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=0)** - [Instructor] Continuing on the idea of sharing data while also reducing [[Privacy]] risks, let's look at anonymization.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=6)** Anonymization is a concept that lets you alter the data so as to reduce the risk of identifying the user, their location, or any other data that could put the user at risk.
 >
@@ -836,7 +826,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=108)** Full anonymization.
 >
-> **[1:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=110)** In addition to partial anonymization, you can ensure that the data cannot be linked to databases or additional information outside your company or anywhere in the public domain.
+> **[1:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=110)** In addition to partial anonymization, you can ensure that the data cannot be linked to [[Databases]] or additional information outside your company or anywhere in the public domain.
 >
 > **[1:59](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-concepts?u=76281980&t=119)** The risks of singling out, addressability, inference and linkability are all significantly reduced when you have full anonymization.
 >
@@ -854,13 +844,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Privacy]] (6), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Databases]] (1)
 > **Definitions:** refers to (3), is a  (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Anonymization techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980)
+#### [Anonymization techniques](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -880,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980&t=31)** It is unlikely on its own to lead to full anonymization as the remaining indirect identifiers could allow for the identification of the individual to whom the data belongs.
 >
-> **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980&t=40)** Substitution is a technique that removes the association between the individual and the personal data by replacing identifiable data values with values that could have been randomly drawn from large databases, for example, real names and addresses could be replaced by false names and addresses.
+> **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980&t=40)** Substitution is a technique that removes the association between the individual and the personal data by replacing identifiable data values with values that could have been randomly drawn from large [[Databases]], for example, real names and addresses could be replaced by false names and addresses.
 >
 > **[0:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/anonymization-techniques?u=76281980&t=56)** Again, this has limitations as well.
 >
@@ -936,7 +925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Databases]] (1), database (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -944,12 +933,11 @@ created: 2026-05-02
 > **Versions:** 0.5 (1)
 > **Speakers:** - [teacher] (1)
 
-#### Encryption
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980)
+#### [Encryption](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=0)** - As we have seen already, privacy and security are different, but very closely connected.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=0)** - As we have seen already, [[Privacy]] and security are different, but very closely connected.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=5)** Security tools protect against external attacks but they also protect data from internal misuse.
 >
@@ -989,7 +977,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=78)** And finally, if there is a public key, you should distribute it in a certificate so as to prevent, or at least make hard, any interception attacks.
 >
-> **[1:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=86)** Cryptography helps protect your users from privacy harm because it helps achieve authentication.
+> **[1:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=86)** [[Cryptography]] helps protect your users from privacy harm because it helps achieve authentication.
 >
 > **[1:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=91)** Let's look at that in a bit more detail.
 >
@@ -1005,7 +993,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=116)** If any forgery occurs, there could be irreversible privacy harm because the forger has taken someone's reputation without permission.
 >
-> **[2:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=123)** When using encryption to minimize privacy risk during data sharing, you should avoid making any erroneous assumptions, and therefore fatal mistakes.
+> **[2:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=123)** When using encryption to minimize privacy risk during [[Data Sharing]], you should avoid making any erroneous assumptions, and therefore fatal mistakes.
 >
 > **[2:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=131)** Remember, before sharing data over cryptographically protected channels, remember three things.
 >
@@ -1025,7 +1013,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=169)** Finally, cryptography could be slow at times, so you should expect some pushback from executives and other engineers.
 >
-> **[2:55](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=175)** You will need to make a strong business case as well as apply cryptography thoughtfully so as to avoid another wasteful lose-lose battle between data privacy on the one hand, and business efficiency on the other hand.
+> **[2:55](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=175)** You will need to make a strong business case as well as apply cryptography thoughtfully so as to avoid another wasteful lose-lose battle between [[Data Privacy]] on the one hand, and business efficiency on the other hand.
 >
 > **[3:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=188)** While encryption can help you protect your data, what you really need is a comprehensive data protection strategy.
 >
@@ -1035,13 +1023,13 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=205)** The question is, does the partner you want to share data with have such a strategy?
 >
-> **[3:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=211)** As an example, let us look at the data obtained from two breaches, the first at the Office of Personnel Management or OPM, and the second at Equifax.
+> **[3:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=211)** As an example, let us look at the data obtained from two breaches, the first at the [[Microsoft Office|Office]] of Personnel Management or OPM, and the second at Equifax.
 >
 > **[3:39](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=219)** Let's first look at the OPM breach.
 >
 > **[3:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=222)** In April, 2015, IT staffers within the US Office of Personnel Management or OPM, the agency that manages the government's civilian workforce, discovered that some of which personnel files had been hacked.
 >
-> **[3:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=234)** Among the sensitive data that was exfiltrated and stolen were millions of SF-86 forms which contain extremely personal information gathered from background checks for people seeking government security clearances along with records of millions of people's fingerprints.
+> **[3:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=234)** Among the sensitive data that was exfiltrated and stolen were millions of SF-86 [[Forms]] which contain extremely personal information gathered from background checks for people seeking government security clearances along with records of millions of people's fingerprints.
 >
 > **[4:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=248)** So if you could get ahold of this data, you could find out intimate secrets about government employees in the US who have security clearances.
 >
@@ -1059,13 +1047,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=294)** Now, if you combine the data from these two breaches at the same time, you could have information about who has government clearances and who from that list has financial situations that could leave them vulnerable to blackmail.
 >
-> **[5:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=306)** This is how data leaving a company could become a national security risk.
+> **[5:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=306)** This is how data leaving a company could become a national [[Security Risk]].
 >
 > **[5:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/encryption?u=76281980&t=310)** So encryption could be a key solution to reduce data sharing risks, but not a tool you can blindly and complacently depend upon in all situations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Privacy]] (11), [[Security]] (9), [[Cryptography]] (5), business (4)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Cryptography]] (5), [[Data Sharing]] (2), [[Microsoft Office|Office]] (2), [[Data Privacy]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** opm (3)
 > **Definitions:** is a  (1)
@@ -1078,8 +1066,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is k-anonymity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980)
+#### [What is k-anonymity?](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1082,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=25)** At worst, the data release narrows down an individual entry to a group of k individuals.
 >
-> **[0:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=31)** K-Anonymity is intuitive to implement used by Google in their Ad API and provides a guarantee that you are one among a minimum cohort rather than being uniquely identifiable across the board.
+> **[0:31](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=31)** K-Anonymity is intuitive to implement used by [[Google]] in their Ad API and provides a guarantee that you are one among a minimum cohort rather than being uniquely identifiable across the board.
 >
 > **[0:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=42)** This is a raw table before we apply k-Anonymity.
 >
@@ -1107,18 +1094,17 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=63)** This is similar to what we did by rounding off the pickup and drop-off details a few slides ago.
 >
-> **[1:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=68)** K-Anonymity is powerful since it gives you a way to measure privacy impact before you share data.
+> **[1:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/what-is-k-anonymity?u=76281980&t=68)** K-Anonymity is powerful since it gives you a way to measure [[Privacy]] impact before you share data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[Google]] (1), api (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
 
-#### k-Anonymity: A use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-a-use-case?u=76281980)
+#### [k-Anonymity: A use case](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-a-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,12 +1122,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Engineering]] (1)
 > **Env Vars:** gps (1)
 > **Speakers:** - [instructor] (1)
 
-#### k-Anonymity: With very coarse data
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980)
+#### [k-Anonymity: With very coarse data](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,7 +1141,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980&t=26)** By way of additional context, for two trips to have the same value in this example they would have to have the same pickup and drop off points.
 >
-> **[0:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980&t=34)** In the first view of this data, I will focus on extremely course data intended to provide maximal privacy.
+> **[0:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980&t=34)** In the first view of this data, I will focus on extremely course data intended to provide maximal [[Privacy]].
 >
 > **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-coarse-data?u=76281980&t=40)** When you share GPS location data with zero decimal points you have rendered the users less identifiable with high k-anonymity values.
 >
@@ -1171,20 +1155,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gps (4)
 > **CLI Commands:** find (2), make (1)
 > **Ports:** :21 (1), :22 (1), :30 (1)
 > **Speakers:** - [instructor] (1)
 
-#### k-Anonymity: With very granular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980)
+#### [k-Anonymity: With very granular data](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980&t=0)** - [Instructor] Let's now look at the same data through a very different lens to understand k-Anonymity even better.
 >
-> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980&t=5)** In the second view of this data, I will focus on very precise location data intended to provide very high quality but very little privacy.
+> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980&t=5)** In the second view of this data, I will focus on very precise location data intended to provide very high quality but very little [[Privacy]].
 >
 > **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-with-very-granular-data?u=76281980&t=13)** The more decimal points you have in the GPS coordinates, the more precise the location of the user will be and therefore, the more identifiable the user is.
 >
@@ -1212,15 +1195,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** gps (5)
 > **Versions:** 68.4 (2), 97.4 (2), 0.9 (1)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### k-Anonymity: Industry best practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980)
+#### [k-Anonymity: Industry best practice](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,9 +1238,9 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=88)** So if your goal is to have a k-anonymity value of five, we would need to suppress only 0.2% of the data.
 >
-> **[1:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=94)** That is, if you wanted to share this data and a k-anonymity value of five meets your privacy standards you could do so by suppressing only 0.2% of those records.
+> **[1:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=94)** That is, if you wanted to share this data and a k-anonymity value of five meets your [[Privacy]] standards you could do so by suppressing only 0.2% of those records.
 >
-> **[1:44](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=104)** When it comes to minimizing privacy risks in data sharing k-anonymity may not be enough.
+> **[1:44](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=104)** When it comes to minimizing privacy risks in [[Data Sharing]] k-anonymity may not be enough.
 >
 > **[1:49](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-industry-best-practice?u=76281980&t=109)** In the previous slide, we saw how the industry best practice of k-anonymity value of five provides a meaningful balance between privacy and usability.
 >
@@ -1270,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Privacy]] (3), hit (1), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Sharing]] (1)
 > **Versions:** 0.2 (2), 99.8 (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gps (2)
@@ -1284,8 +1266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How l-diversity helps privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980)
+#### [How l-diversity helps privacy](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1295,7 +1276,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980&t=16)** In this instance, using external data, you may be able to learn where any passenger from that starting point would go.
 >
-> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980&t=23)** So you have additional work to do to ensure that privacy is protected.
+> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980&t=23)** So you have additional work to do to ensure that [[Privacy]] is protected.
 >
 > **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/how-l-diversity-helps-privacy?u=76281980&t=27)** This is where l-Diversity can help.
 >
@@ -1305,16 +1286,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### k-Anonymity vs. l-diversity
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-vs-l-diversity?u=76281980)
+#### [k-Anonymity vs. l-diversity](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-vs-l-diversity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-vs-l-diversity?u=76281980&t=0)** - [Instructor] We have seen the tension that exists between security and privacy, and we have also seen now that there can be tension between privacy and data quality.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-vs-l-diversity?u=76281980&t=0)** - [Instructor] We have seen the tension that exists between security and [[Privacy]], and we have also seen now that there can be tension between privacy and [[Data Quality]].
 >
 > **[0:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/k-anonymity-vs-l-diversity?u=76281980&t=8)** Let's look at an example in the next slide.
 >
@@ -1350,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Privacy]] (5), [[Security]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Quality]] (3)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -1360,8 +1340,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your physical fingerprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980)
+#### [Your physical fingerprint](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1369,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980&t=11)** In the U.S., I had to give the government my fingerprints several times during my naturalization process as a U.S. citizen.
 >
-> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980&t=18)** I recently read a paper titled "Unique In the Crowd: The Privacy Bounds of Human Mobility", that defines how identifiable you can be via your human fingerprint.
+> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980&t=18)** I recently read a paper titled "Unique In the Crowd: The [[Privacy]] Bounds of Human Mobility", that defines how identifiable you can be via your human fingerprint.
 >
 > **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-physical-fingerprint?u=76281980&t=27)** The link to that paper is on the bottom left of the slide on your screen right now.
 >
@@ -1381,12 +1360,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Your digital fingerprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-digital-fingerprint?u=76281980)
+#### [Your digital fingerprint](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/your-digital-fingerprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1408,12 +1386,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Versions:** 1.5 (1)
 > **Speakers:** - [host] (1)
 
-#### The power of joining outside data
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980)
+#### [The power of joining outside data](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1421,7 +1397,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980&t=10)** When I mentioned this at industry events, conferences or even to engineers who report into me, they all seem very skeptical at times.
 >
-> **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980&t=17)** Too often, privacy and security experts get a bit too cocky in their own skills.
+> **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980&t=17)** Too often, [[Privacy]] and security experts get a bit too cocky in their own skills.
 >
 > **[0:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/the-power-of-joining-outside-data?u=76281980&t=22)** Well, let's look at two specific examples that are outside data approved to be more potent than privacy and security controls.
 >
@@ -1457,7 +1433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Privacy]] (2), [[Security]] (2), database (1)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - throughout (1)
@@ -1467,12 +1443,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=0)** - I was recently discussing data sharing and the digital economy with my neighbor.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=0)** - I was recently discussing [[Data Sharing]] and the digital economy with my neighbor.
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=4)** His wife works at a major tech company and he himself is a chef.
 >
@@ -1482,13 +1457,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=21)** Even though tech companies are extremely profitable and create tons of jobs, they have lost public trust.
 >
-> **[0:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=26)** A key part of winning back this trust comes with treating data with respect and sharing their data in a way that does not lose sight of the fact that behind all those databases, behind all of those metrics, behind all of those dashboards, is a real human being.
+> **[0:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=26)** A key part of winning back this trust comes with treating data with respect and sharing their data in a way that does not lose sight of the fact that behind all those [[Databases]], behind all of those metrics, behind all of those [[Dashboards]], is a real human being.
 >
 > **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=40)** The techniques we reviewed in this course will help ensure that your users and their data are safe from misuse by any partner you may share data with.
 >
 > **[0:48](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=48)** I would encourage studying those techniques, testing them, and using them, and then you may need to improvise on your own and investigate further.
 >
-> **[0:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=56)** As your data becomes even more anonymized and your sharing becomes safer, the number of privacy incidents you face should decrease in number and impact.
+> **[0:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=56)** As your data becomes even more anonymized and your sharing becomes safer, the number of [[Privacy]] incidents you face should decrease in number and impact.
 >
 > **[1:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-sharing/next-steps?u=76281980&t=65)** Then the trust between the tech industry and their users will become a reality rather than sarcasm.
 >
@@ -1500,7 +1475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Databases]] (1), [[Dashboards]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Data Sharing]] (1), [[Databases]] (1), [[Dashboards]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 

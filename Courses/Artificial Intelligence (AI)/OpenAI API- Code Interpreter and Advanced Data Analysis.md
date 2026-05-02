@@ -76,14 +76,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Code Interpreter and Advanced Data Analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980)
+#### [Introduction to Code Interpreter and Advanced Data Analysis](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980&t=0)** - [Williams] Open AI's code interpreter and advanced data analysis features make it easy to analyze information from documents like PDFs and Excel files, and use it to generate new content and insights.
+> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980&t=0)** - [Williams] Open AI's code interpreter and advanced data analysis features make it easy to analyze information from documents like PDFs and [[Microsoft Excel|Excel]] files, and use it to generate new content and insights.
 >
-> **[0:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980&t=15)** With code interpreter, you can create and optimize Python code to speed up your application development process.
+> **[0:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980&t=15)** With code interpreter, you can create and optimize [[Python (Programming Language)|Python]] code to speed up your [[Application Development]] process.
 >
 > **[0:24](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/introduction-to-code-interpreter-and-advanced-data-analysis?u=76281980&t=24)** In this course, I'll show you how to perform data analysis, visualization, and code generation, all while teaching you troubleshooting using logs.
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), data (2), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Application Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[Application Development]] (1)
 > **CLI Commands:** make (1), python (1)
 > **Speakers:** - [williams] (1)
 
@@ -100,12 +99,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Advanced Data Analysis features and capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980)
+#### [Explore Advanced Data Analysis features and capabilities](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=0)** - [Narrator] Are you ready to learn about one of the most exciting features of ChatGPT, the Advanced Data Analysis tool, formerly known as Code Interpreter?
+> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=0)** - [Narrator] Are you ready to learn about one of the most exciting features of [[ChatGPT]], the Advanced Data Analysis tool, formerly known as Code Interpreter?
 >
 > **[0:11](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=11)** Advanced Data Analysis is a way to upload different types of documents and talk to them using natural language through ChatGPT.
 >
@@ -115,7 +113,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=39)** The process is straightforward.
 >
-> **[0:41](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=41)** Upload your file, write your prompt, then Python code is generated and executed behind the scenes in a sandbox environment to perform the task, and then a response is provided.
+> **[0:41](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=41)** Upload your file, write your prompt, then [[Python (Programming Language)|Python]] code is generated and executed behind the scenes in a sandbox environment to perform the task, and then a response is provided.
 >
 > **[0:57](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=57)** If the response comes with a downloadable file, it's easy to download the results seamlessly.
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=83)** Several file types are supported.
 >
-> **[1:25](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=85)** PDF, text, PowerPoint, Word, Excel, CSV.
+> **[1:25](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=85)** PDF, text, [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], CSV.
 >
 > **[1:32](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=92)** Imagine using Advanced Data Analysis to generate PowerPoint slides.
 >
@@ -139,13 +137,13 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=129)** The tool is integrated into the ChatGPT UI and does not need to be explicitly enabled.
 >
-> **[2:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=135)** As we discussed, you simply upload a file, like an Excel spreadsheet, and type your prompt and ChatGPT handles the rest.
+> **[2:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=135)** As we discussed, you simply upload a file, like an Excel spreadsheet, and type your prompt and ChatGPT handles the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:24](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/explore-advanced-data-analysis-features-and-capabilities?u=76281980&t=144)** Now that you understand how the Advanced Data Analysis tool works, let's look at the Code Interpreter tool available via the Assistants API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[ChatGPT]] (7), prompt (2), [[Python (Programming Language)|Python]] (2), feature (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (7), [[Python (Programming Language)|Python]] (2), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (1), csv (1), api (1)
 > **CLI Commands:** python (2)
 > **Definitions:** known as (1), is a  (1)
@@ -154,8 +152,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understand the Code Interpreter Tool via the Assistants API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980)
+#### [Understand the Code Interpreter Tool via the Assistants API](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980&t=30)** While this course does not go deep into the Assistants API, we'll cover enough of it so that you understand how to access the code interpreter tool using the API.
 >
-> **[0:43](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980&t=43)** The code Interpreter tool writes and executes Python code in a sandbox environment, behind the scenes when needed to answer your questions.
+> **[0:43](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980&t=43)** The code Interpreter tool writes and executes [[Python (Programming Language)|Python]] code in a sandbox environment, behind the scenes when needed to answer your questions.
 >
 > **[0:52](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-the-code-interpreter-tool-via-the-assistants-api?u=76281980&t=52)** The code interpreter tool is accessible to anyone with an OpenAI account, no need to be a paid subscriber.
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), data (3), ai (2), [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** api (6)
 > **CLI Commands:** python (2), tar (1)
 > **Definitions:** is a  (2)
@@ -209,18 +206,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conduct data analysis via the ChatGPT UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980)
+#### [Conduct data analysis via the ChatGPT UI](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=0)** - [Instructor] Are you ready to use an Excel spreadsheet to see the Advanced Data Analysis tool in action?
+> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=0)** - [Instructor] Are you ready to use an [[Microsoft Excel|Excel]] spreadsheet to see the Advanced Data Analysis tool in action?
 >
 > **[0:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=7)** Let's look at our Excel spreadsheet.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=9)** Customer_Feedback_Product_Ratings.
 >
-> **[0:11](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=11)** This data is from an e-commerce company that wants to analyze customer feedback and product ratings.
+> **[0:11](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=11)** This data is from an [[E-Commerce]] company that wants to analyze customer feedback and product ratings.
 >
 > **[0:19](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=19)** This data includes customer details, product information, purchase dates, rating scores, and customer comments.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=67)** In this case, 2345, here, 7896, 5643, and so on.
 >
-> **[1:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=75)** Next, we have the product category, which is the category of the product, so electronics, apparel, home goods, books, beauty products, electronics, and so forth.
+> **[1:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=75)** Next, we have the product category, which is the category of the product, so [[Electronics]], apparel, home goods, books, beauty [[Microsoft Products|products]], electronics, and so forth.
 >
 > **[1:29](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=89)** And then we have the purchase date, which is the date the product was purchased.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=157)** Here, I send in, "Can you properly format this CSV file?"
 >
-> **[2:43](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=163)** Notice that I'm passing in an Excel file, but telling ChatGPT it's a CSV.
+> **[2:43](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=163)** Notice that I'm passing in an Excel file, but telling [[ChatGPT]] it's a CSV.
 >
 > **[2:49](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=169)** Let's see how it handles this.
 >
@@ -276,9 +272,9 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=176)** It says Error analyzing.
 >
-> **[2:58](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=178)** To see the error, you click on this down arrow to see the Python that was generated and executed in the sandbox environment.
+> **[2:58](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=178)** To see the error, you click on this down arrow to see the [[Python (Programming Language)|Python]] that was generated and executed in the sandbox environment.
 >
-> **[3:08](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=188)** You'll notice that it's just a code snippet, but ChatGPT appears to be using the pandas Python module, which is a common data science library for reading and manipulating data using a data frame.
+> **[3:08](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=188)** You'll notice that it's just a code snippet, but ChatGPT appears to be using the [[Pandas (Software)|pandas]] Python module, which is a common [[Data Science]] library for reading and manipulating data using a data frame.
 >
 > **[3:22](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/conduct-data-analysis-via-the-chatgpt-ui?u=76281980&t=202)** Let's close this and look at the response.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (8), [[Microsoft Excel|Excel]] (7), next (6), [[ChatGPT]] (5)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (4), [[Electronics]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** csv (4)
 > **UI Navigation:** click on (2), scroll down (2)
@@ -351,8 +347,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perform data visualization via the ChatGPT UI
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980)
+#### [Perform data visualization via the ChatGPT UI](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980&t=44)** The graph provides a visual representation of how customers rate different product categories on average.
 >
-> **[0:53](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980&t=53)** You can click this arrow to see the Python code generated and executed by ChatGPT in its sandbox environment.
+> **[0:53](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980&t=53)** You can click this arrow to see the [[Python (Programming Language)|Python]] code generated and executed by [[ChatGPT]] in its sandbox environment.
 >
 > **[1:02](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/perform-data-visualization-via-the-chatgpt-ui?u=76281980&t=62)** The Python code can also be copied and executed in your environment.
 >
@@ -418,7 +413,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), data (6), [[ChatGPT]] (5), prompt (4), next (4)
+> **Frameworks & Libraries:** [[ChatGPT]] (5), [[Python (Programming Language)|Python]] (2)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** python (2)
 > **Env Vars:** api (1)
@@ -431,14 +426,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generate and apply Python code
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980)
+#### [Generate and apply Python code](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=0)** - [Instructor] You already know that the code interpreter tool is integrated with the broader assistance API framework.
 >
-> **[0:06](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=6)** Let's see it in action in this Jupyter Notebook containing our Python code.
+> **[0:06](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=6)** Let's see it in action in this Jupyter Notebook containing our [[Python (Programming Language)|Python]] code.
 >
 > **[0:12](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=12)** We use OpenAI's Python SDK for our code example to interact with the assistance API.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=61)** Next, we import the OpenAI, OS and time modules.
 >
-> **[1:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=67)** The OpenAI module provides access to the OpenAI API.
+> **[1:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=67)** The OpenAI module provides access to the [[OpenAI API]].
 >
 > **[1:12](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=72)** The OS module provides access to operating system dependent functionality, and we'll use it to access the API key stored as an environment variable in an external environment file.
 >
@@ -490,7 +484,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=206)** The first step is to use the upload file function to upload our formatted customer feedback product ratings file.
 >
-> **[3:36](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=216)** If you recall, the data provides customer feedback and ratings on several products.
+> **[3:36](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=216)** If you recall, the data provides customer feedback and ratings on several [[Microsoft Products|products]].
 >
 > **[3:43](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=223)** Next, here in cell eight, we create the assistant and then print the ID.
 >
@@ -518,7 +512,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=342)** This is the Python code that was generated by the code interpreter tool in the sandbox environment.
 >
-> **[5:50](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=350)** You can see the code uses Python data science libraries, pandas, seaborne, matplotlib to generate the heatmap image, and you can just look at the code that was generated.
+> **[5:50](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=350)** You can see the code uses Python [[Data Science]] libraries, [[Pandas (Software)|pandas]], seaborne, matplotlib to generate the heatmap image, and you can just look at the code that was generated.
 >
 > **[6:02](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/generate-and-apply-python-code?u=76281980&t=362)** The code is nicely commented so you understand what's going on.
 >
@@ -536,7 +530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (11), [[Python (Programming Language)|Python]] (7), next (6), data (2), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[OpenAI API]] (1), [[Microsoft Products|Products]] (1), [[Data Science]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** api (12), sdk (1)
 > **CLI Commands:** python (7)
 > **UI Navigation:** scroll down (5), navigate to (1)
@@ -545,12 +539,11 @@ created: 2026-05-02
 > **Code Identifiers:** heatmap_code (1), heatmap_customer_ratings (1)
 > **Tools:** jupyter (2)
 
-#### Review and optimize Python code
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980)
+#### [Review and optimize Python code](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=0)** - [Instructor] Let's see the power of the code interpreter tool to review and optimize your Python code.
+> **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=0)** - [Instructor] Let's see the power of the code interpreter tool to review and optimize your [[Python (Programming Language)|Python]] code.
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=6)** You've seen these first few cells already in the prior lesson, so I won't go through them again in detail.
 >
@@ -614,7 +607,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=188)** In real world scenarios, you might want to handle the empty list case differently.
 >
-> **[3:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=195)** This is all just feedback from ChatGPT.
+> **[3:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=195)** This is all just feedback from [[ChatGPT]].
 >
 > **[3:18](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/review-and-optimize-python-code?u=76281980&t=198)** Next, it placed the example code usage within this guard so that it won't execute when the module is imported.
 >
@@ -652,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), api (3), next (3), [[ChatGPT]] (3), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[ChatGPT]] (3)
 > **Code Identifiers:** query_assistant (2), upload_file (1), create_assistant (1), code_to_improve (1), calculate_average (1)
 > **UI Navigation:** scroll down (6), navigate to (1)
 > **CLI Commands:** python (5), find (1)
@@ -661,8 +654,7 @@ created: 2026-05-02
 > **File Paths:** improved_code.py (1)
 > **Versions:** 0.0 (1)
 
-#### Troubleshoot using logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980)
+#### [Troubleshoot using logs](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=54)** When given a list of cities, you plot those cities on a map and make the map image available for download.
 >
-> **[1:01](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=61)** If you write Python code, also make the file available for download.
+> **[1:01](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=61)** If you write [[Python (Programming Language)|Python]] code, also make the file available for download.
 >
 > **[1:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=67)** Here we name it, it's the same name we use before Coding Bot, the same model.
 >
@@ -700,7 +692,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=107)** There's also a check here to ensure the step is from the code interpreter tool before printing it out.
 >
-> **[1:55](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=115)** This conversation session with code interpreter aims to read a list of places I've visited from an Excel spreadsheet and plot them on a world map.
+> **[1:55](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=115)** This conversation session with code interpreter aims to read a list of places I've visited from an [[Microsoft Excel|Excel]] spreadsheet and plot them on a world map.
 >
 > **[2:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=127)** The name of the Excel spreadsheet is visits, and let's go to that file now.
 >
@@ -756,7 +748,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=302)** So let's take a look at the logs that are printed out.
 >
-> **[5:05](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=305)** Now, this first section here, the code input, shows the generated Python code and it imports the necessary data science libraries.
+> **[5:05](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=305)** Now, this first section here, the code input, shows the generated Python code and it imports the necessary [[Data Science]] libraries.
 >
 > **[5:17](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=317)** It creates a geo data frame for the cities.
 >
@@ -764,13 +756,13 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=328)** Here, world_map_cities.png.
 >
-> **[5:31](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=331)** This next section here shows the process to translate the Excel data to a readable format for data processing, and there's a lot of logs, but if you look here, you'll notice the output shows the cities and the countries that need to be mapped.
+> **[5:31](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=331)** This next section here shows the process to translate the Excel data to a readable format for [[Data Processing]], and there's a lot of logs, but if you look here, you'll notice the output shows the cities and the countries that need to be mapped.
 >
 > **[5:54](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=354)** Let's scroll down.
 >
 > **[5:57](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=357)** It's inspecting the XML files that it created.
 >
-> **[6:01](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=361)** It's using pandas to read the XML files, and here we have our code output log.
+> **[6:01](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=361)** It's using [[Pandas (Software)|pandas]] to read the XML files, and here we have our code output log.
 >
 > **[6:10](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/troubleshoot-using-logs?u=76281980&t=370)** We also have our code input log for the next attempt.
 >
@@ -804,7 +796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (5), api (2), [[Python (Programming Language)|Python]] (2), [[Troubleshooting]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Data Processing]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Code Identifiers:** create_assistant (2), query_assistant (2), world_map_cities (2), upload_file (1), file_id (1)
 > **UI Navigation:** scroll down (8), go to (1)
 > **Env Vars:** api (2), xml (2), png (1)
@@ -818,14 +810,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Estimate pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980)
+#### [Estimate pricing](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=0)** - [Instructor] Let's look at ways to estimate the usage costs for advanced data analysis and the code interpreter tool.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=7)** ChatGPT Plus and ChatGPT Enterprise provide unlimited access to the advanced data analysis feature.
+> **[0:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=7)** [[ChatGPT]] Plus and ChatGPT Enterprise provide unlimited access to the advanced data analysis feature.
 >
 > **[0:15](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=15)** ChatGPT plus is $20 a month as of January, 2024.
 >
@@ -853,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=91)** While you only send a single new message to a thread, all past messages are stored server side, and used with every interaction with the backend model.
 >
-> **[1:44](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=104)** This means the entire conversation history is passed to the model on each interaction, so you're paying for all the tokens during each exchange every time.
+> **[1:44](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=104)** This means the entire conversation history is passed to the model on each interaction, so you're paying for all the [[Tokens]] during each exchange every time.
 >
 > **[1:57](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/estimate-pricing?u=76281980&t=117)** Remember this when you are estimating the price, tokens accumulate over time every time you add a new message.
 >
@@ -861,27 +852,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (4), data (2), api (2), [[Tokens]] (2), feature (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Tokens]] (2)
 > **Env Vars:** api (2)
 > **Versions:** 0.03 (1)
 > **Best Practices:** don't forget (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980)
+#### [Understand limitations](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=0)** - [Instructor] Let's discuss a few Code Interpreter and Advanced Data Analysis tool limitations.
 >
-> **[0:06](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=6)** The Advanced Data Analysis feature within the ChatGPT UI has a context window.
+> **[0:06](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=6)** The Advanced Data Analysis feature within the [[ChatGPT]] UI has a context window.
 >
 > **[0:12](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=12)** The context window is the amount of text the model can consider at one time when generating a response.
 >
 > **[0:20](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=20)** This includes your prompts, the model's previous responses, and any other information within the conversation thread.
 >
-> **[0:28](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=28)** The current context window is 32,000 tokens.
+> **[0:28](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=28)** The current context window is 32,000 [[Tokens]].
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=32)** When the context window is filled, the model may start to forget the earlier parts of the conversation.
 >
@@ -909,21 +899,21 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=107)** In internet access, it has none, and certain advanced or highly specialized computational tasks.
 >
-> **[1:55](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=115)** The environment is designed with privacy and security in mind.
+> **[1:55](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=115)** The environment is designed with [[Privacy]] and security in mind.
 >
-> **[1:59](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=119)** It does not store personal data beyond the session and cannot interact with external systems or databases.
+> **[1:59](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=119)** It does not store personal data beyond the session and cannot interact with external systems or [[Databases]].
 >
-> **[2:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=127)** The tool also has a limited set of pre-installed Python packages.
+> **[2:07](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=127)** The tool also has a limited set of pre-installed [[Python (Programming Language)|Python]] packages.
 >
 > **[2:12](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=132)** A few popular packages include Data Analysis and Manipulation, Machine Learning, and Data Visualization.
 >
-> **[2:22](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=142)** It also supports other common natural language processing, web scraping and network, deep learning, image processing, audio processing, file formatting, database, web development, and more.
+> **[2:22](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=142)** It also supports other common [[Natural Language Processing (NLP)|natural language processing]], web scraping and network, [[Deep Learning]], [[Image Processing]], audio processing, file formatting, database, [[Web Development]], and more.
 >
 > **[2:38](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/understand-limitations?u=76281980&t=158)** Now that you understand the limitations of the Code Interpreter tool, let's talk about your Advanced Data Analysis and Code Interpreter tool journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Tokens]] (2), api (2), feature (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[ChatGPT]] (1), [[Privacy]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** we discussed (1)
@@ -934,8 +924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your Advanced Data Analysis and Code Interpreter journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980)
+#### [Your Advanced Data Analysis and Code Interpreter journey](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,15 +936,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=16)** During our time together, you've learned all about the power of the advanced data analysis feature to conduct data analysis and perform data visualizations.
 >
-> **[0:26](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=26)** We also explored the code interpreter tool via the assistance API to generate and optimize Python code.
+> **[0:26](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=26)** We also explored the code interpreter tool via the assistance API to generate and optimize [[Python (Programming Language)|Python]] code.
 >
 > **[0:36](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=36)** If you haven't pulled down the code examples, I encourage you to deepen your understanding, and retain your newfound knowledge through hands-on exploration.
 >
-> **[0:46](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=46)** You can also continue learning by watching my other courses, Building a Project with a ChatGPT API, Artificial Intelligence Foundations Machine Learning, and other courses in the OpenAI API series.
+> **[0:46](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=46)** You can also continue learning by watching my other courses, Building a Project with a [[ChatGPT]] API, [[Artificial Intelligence Foundations]] Machine Learning, and other courses in the [[OpenAI API]] series.
 >
 > **[1:02](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=62)** I've enjoyed our time together.
 >
-> **[1:04](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=64)** Please follow me on LinkedIn so that we can stay connected.
+> **[1:04](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=64)** Please follow me on [[LinkedIn]] so that we can stay connected.
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-code-interpreter-and-advanced-data-analysis/your-advanced-data-analysis-and-code-interpreter-journey?u=76281980&t=68)** I enjoy speaking on the topic of AI, and machine learning, so please consider me for your upcoming conference or event.
 >
@@ -965,7 +954,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), feature (2), api (2), power (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[ChatGPT]] (1), [[Artificial Intelligence Foundations]] (1), [[OpenAI API]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (3)
 > **CLI Commands:** python (1)
 > **Speakers:** - [kesha] (1)

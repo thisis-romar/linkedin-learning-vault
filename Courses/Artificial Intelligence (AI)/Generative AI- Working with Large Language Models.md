@@ -95,12 +95,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning about Large Language Models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
+#### [Learning about Large Language Models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=0)** - Large language models have made news for the last couple of years.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=0)** - [[Large Language Models (LLM)|Large language models]] have made news for the last couple of years.
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=4)** If you've heard about them and want to know more, then this course is for you.
 >
@@ -108,13 +107,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=13)** Join me as we look at GPT-3.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=15)** In the process, we'll also focus on the large language models that have been developed since like Google's GLaM and Palm Model, Deep Mine's Gopher and Chinchilla, OPT from Meta and Bloom from Hugging Face.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=15)** In the process, we'll also focus on the large language models that have been developed since like [[Google]]'s GLaM and Palm Model, Deep Mine's Gopher and Chinchilla, OPT from Meta and Bloom from [[Hugging Face]].
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/learning-about-large-language-models?u=76281980&t=29)** These are exciting times to be working in AI, so let's get to it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (1), [[Hugging Face]] (1), ai (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[Google]] (1), [[Hugging Face]] (1)
 > **Env Vars:** gpt (1), opt (1)
 > **Speakers:** - large (1)
 
@@ -123,16 +122,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are large language models?
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
+#### [What are large language models?](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=0)** - [Narrator] Have you seen the terms BERT or GPT-3 in articles online?
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=5)** These are examples of large language models and their underlying architecture is based on transformers.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=5)** These are examples of [[Large Language Models (LLM)|large language models]] and their underlying architecture is based on transformers.
 >
-> **[0:12](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=12)** Transformers were proposed by a team of researchers from Google in 2017 in a paper called Attention is All You Need.
+> **[0:12](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=12)** Transformers were proposed by a team of researchers from [[Google]] in 2017 in a paper called Attention is All You Need.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=19)** This paper has been a turning point in NLP.
 >
@@ -144,9 +142,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=41)** So that's from May, 2020 to July of 2022.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=45)** We'll cover models released by Google Research including GLaM and PaLM, Gopher and Chinchilla, that was released by Deep Mind, and the Megatron-Turing NLG by Microsoft and Nvidia.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=45)** We'll cover models released by Google Research including GLaM and PaLM, Gopher and Chinchilla, that was released by Deep Mind, and the Megatron-Turing NLG by [[Microsoft]] and Nvidia.
 >
-> **[0:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=57)** And finally, we'll wrap up with the work done by both Meta AI and Hugging Face to make large language models available to researchers outside of big tech.
+> **[0:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=57)** And finally, we'll wrap up with the work done by both Meta AI and [[Hugging Face]] to make large language models available to researchers outside of big tech.
 >
 > **[1:06](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/what-are-large-language-models?u=76281980&t=66)** Meta AI released the open tree train transformer and Hugging Face coordinated a research effort with over 1000 researchers to create the blue model.
 >
@@ -156,23 +154,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (2), ai (2), [[Hugging Face]] (2), nlp (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (4), [[Google]] (2), [[Hugging Face]] (2), [[Microsoft]] (1)
 > **Env Vars:** gpt (3), bert (1), nlp (1), nlg (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Transformers in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980)
+#### [Transformers in production](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=0)** - [Instructor] If you're like me, the only time you watch the winter sport curling is every four years during the Winter Olympics.
 >
-> **[0:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=7)** Now, whenever I've used Google search in the past, I've often only entered keywords such as curling objective.
+> **[0:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=7)** Now, whenever I've used [[Google]] search in the past, I've often only entered keywords such as curling objective.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=13)** In 2019, Google started using BERT as part of search.
 >
-> **[0:18](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=18)** Now BERT is an acronym for Bidirectional Encoder Representations from Transformers as one of the first large language models developed by the Google research team.
+> **[0:18](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=18)** Now BERT is an acronym for Bidirectional Encoder Representations from Transformers as one of the first [[Large Language Models (LLM)|large language models]] developed by the Google research team.
 >
 > **[0:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-in-production?u=76281980&t=29)** Now that I know that Google Search uses BERT, I know that I can enter a more English sounding phrase like what's the main objective of curling?
 >
@@ -196,20 +193,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), [[Search]] (7), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Google]] (9), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bert (6)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformers: History
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980)
+#### [Transformers: History](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=0)** - [Instructor] The models based on the original transformer paper from 2017 have evolved over the years.
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=5)** One of the challenges with training large language models in 2017 was that you needed labeled data.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=5)** One of the challenges with training [[Large Language Models (LLM)|large language models]] in 2017 was that you needed labeled data.
 >
 > **[0:11](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=11)** This required a lot of time and effort.
 >
@@ -219,9 +215,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=28)** In June of 2018, GPT or Generative Pre-Trained Model, which is developed by Open AI, was the first pre-trained transformer model.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=37)** Now, this was used for fine tuning on various NLP tasks and obtained state-of-the-art results.
+> **[0:37](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=37)** Now, this was used for [[Fine Tuning]] on various NLP tasks and obtained state-of-the-art results.
 >
-> **[0:43](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=43)** And a couple of months later, researchers at Google came up with BERT or Bidirectional Encoder Representations from Transformers.
+> **[0:43](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=43)** And a couple of months later, researchers at [[Google]] came up with BERT or Bidirectional Encoder Representations from Transformers.
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=51)** We saw a couple of examples of BERT being used in production at Google.
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=75)** Both of these models are large pre-trained models using the same architecture as the original transformer.
 >
-> **[1:22](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=82)** And at the same time the team at Hugging Face bucked the trend.
+> **[1:22](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=82)** And at the same time the team at [[Hugging Face]] bucked the trend.
 >
 > **[1:25](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformers-history?u=76281980&t=85)** Everyone was moving to bigger models, they released DistilBERT, which is a smaller, faster and lighter version of BERT, and had 95% of BERT'S performance and reduced the size of the BERT model by 40%.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (3), [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Fine Tuning]] (1), [[Hugging Face]] (1)
 > **Env Vars:** gpt (11), bert (7), nlp (1), bart (1)
 > **Definitions:** is a  (3)
 > **Versions:** 1.5 (1)
@@ -277,12 +273,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transfer learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
+#### [Transfer learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=0)** - [Instructor] One of the most important techniques used in deep learning is transfer learning.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=0)** - [Instructor] One of the most important techniques used in [[Deep Learning]] is transfer learning.
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=4)** It's made up of two components, pretraining and fine-tuning.
 >
@@ -296,9 +291,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=27)** You also need a lot of compute.
 >
-> **[0:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=29)** This is normally several hundreds to thousands of hardware accelerators, depending on how quickly you want to train your model.
+> **[0:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=29)** This is normally several hundreds to thousands of [[Hardware]] accelerators, depending on how quickly you want to train your model.
 >
-> **[0:36](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=36)** And these hardware accelerators are usually Nvidia's GPUs or Google's TPUs.
+> **[0:36](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=36)** And these hardware accelerators are usually Nvidia's GPUs or [[Google]]'s TPUs.
 >
 > **[0:42](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=42)** At the end of this training, which can take days, weeks, or months, you have a model that has a very good understanding of the language you've trained it on.
 >
@@ -336,9 +331,9 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=158)** Now, I've put an asterisk by the 8 times V100s because BERT wasn't trained on GPUs, but rather Google's equivalent, TPUs, or Tensor Processing Units.
 >
-> **[2:49](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=169)** The size of the dataset used for training was 16 gigabytes, and the training tokens were 250 billion.
+> **[2:49](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=169)** The size of the dataset used for training was 16 gigabytes, and the training [[Tokens]] were 250 billion.
 >
-> **[2:56](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=176)** Now, think of one word as being approximately equal to 1 1/2 tokens.
+> **[2:56](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=176)** Now, think of one [[Microsoft Word|word]] as being approximately equal to 1 1/2 tokens.
 >
 > **[3:01](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=181)** And finally, the data sources that was used to train BERT were Wikipedia and the BookCorpus, now, the BookCorpus being a large collection of free novels written by unpublished authors.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=291)** The number of parameters for the largest model was 175 billion.
 >
-> **[4:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=297)** The training time was probably around 34 days, and the infrastructure used was 10,000 V100 GPUs, and this was primarily an Azure infrastructure.
+> **[4:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=297)** The training time was probably around 34 days, and the infrastructure used was 10,000 V100 GPUs, and this was primarily an [[Microsoft Azure|Azure]] infrastructure.
 >
 > **[5:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=307)** The size of the dataset used for training was 4,500 gigabytes, which is 300 billion tokens.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=348)** And finally, we're able to achieve excellent results.
 >
-> **[5:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=351)** We saw this phenomena when using transfer learning with computer vision several years ago when working with the ImageNet dataset, and this technique has worked in NLP too.
+> **[5:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=351)** We saw this phenomena when using transfer learning with [[Computer Vision]] several years ago when working with the ImageNet dataset, and this technique has worked in NLP too.
 >
 > **[6:01](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transfer-learning?u=76281980&t=361)** We've looked at the two components of transfer learning, pretraining and fine-tuning, and why they're such powerful techniques for NLP.
 >
@@ -400,15 +395,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Tokens]] (8), next (4), [[Google]] (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Tokens]] (8), [[Google]] (3), [[Hardware]] (2), [[Microsoft Word|Word]] (2), [[Deep Learning]] (1)
 > **Env Vars:** bert (14), v100 (2), nlp (2), gpt (1), gpu (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** 1.4 (1), 1.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transformer: Architecture overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980)
+#### [Transformer: Architecture overview](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -432,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=44)** So encoder-decoder models are good for generative tasks such as translation or summarization.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=51)** Examples of such encoder-decoder models are Facebook's BART model and Google's T5.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=51)** Examples of such encoder-decoder models are Facebook's BART model and [[Google]]'s T5.
 >
 > **[0:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/transformer-architecture-overview?u=76281980&t=57)** Encoder-only models are good for tasks that require understanding of the input, such as sentence classification and named entity recognition.
 >
@@ -448,14 +442,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** nlp (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** gpt (4), nlp (2), bert (2), bart (1), gbt (1)
 > **Analogies:** such as (4)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Self-attention
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980)
+#### [Self-attention](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=14)** It does this using a mechanism called self-attention that incorporates the embeddings for all the other words in the sentence.
 >
-> **[0:20](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=20)** So when processing the word it, self-attention will take a weighted average of the embeddings of the other context words.
+> **[0:20](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=20)** So when processing the [[Microsoft Word|word]] it, self-attention will take a weighted average of the embeddings of the other context words.
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=27)** The darker the shade, the more weight that word is given and every word is given some weight.
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=89)** While those that don't share much in common will have little to no overlap.
 >
-> **[1:33](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=93)** Now, if you've forgotten your linear algebra from school, the T means that we're performing a transpose operation on the vector K.
+> **[1:33](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=93)** Now, if you've forgotten your [[Linear Algebra]] from school, the T means that we're performing a transpose operation on the vector K.
 >
 > **[1:40](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/self-attention?u=76281980&t=100)** So here N is the dimension of these vectors.
 >
@@ -511,16 +504,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), product (3), [[Linear Algebra]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Linear Algebra]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multi-head attention and Feed Forward Network
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/multi-head-attention-and-feed-forward-network?u=76281980)
+#### [Multi-head attention and Feed Forward Network](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/multi-head-attention-and-feed-forward-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/multi-head-attention-and-feed-forward-network?u=76281980&t=0)** - Earlier, we looked at how self-attention can help us provide context for a word for the sentence, the monkey ate that banana because it was too hungry.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/multi-head-attention-and-feed-forward-network?u=76281980&t=0)** - Earlier, we looked at how self-attention can help us provide context for a [[Microsoft Word|word]] for the sentence, the monkey ate that banana because it was too hungry.
 >
 > **[0:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/multi-head-attention-and-feed-forward-network?u=76281980&t=9)** But what if we could get multiple instances of the self-attention mechanism so that each can perform a different task?
 >
@@ -552,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** bert (2), gpt (1)
 > **Speakers:** - earlier (1)
@@ -562,8 +554,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPT-3
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
+#### [GPT-3](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,7 +562,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=4)** Let's take a look at what the letters GPT represent in turn.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=8)** G is for generative, as we're predicting a future token, given past tokens.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=8)** G is for generative, as we're predicting a future token, given past [[Tokens]].
 >
 > **[0:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=14)** P is for pre-trained, as it's trained on a large corpus of data, including English Wikipedia, among several others.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=42)** This is very similar to how predictive text works on your phone.
 >
-> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=45)** So if you type roses, the next suggested word is likely to be are followed by red and so on.
+> **[0:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=45)** So if you type roses, the next suggested [[Microsoft Word|word]] is likely to be are followed by red and so on.
 >
 > **[0:52](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=52)** GPT-3 was trained on the English Wikipedia, which is around 2 1/2 billion words, Common Crawl, WebText2, Books1, and Books2.
 >
@@ -607,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=106)** We can then take all these humongous datasets and use them to train our model.
 >
-> **[1:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=111)** Additionally, we want to use some decoding algorithms such as beam search, to give us a balance of coherent language and diversity, so we don't get sentences repeated.
+> **[1:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=111)** Additionally, we want to use some decoding [[Algorithms]] such as beam search, to give us a balance of coherent language and diversity, so we don't get sentences repeated.
 >
 > **[2:01](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3?u=76281980&t=121)** For a couple of years, the focus of researchers was getting a large corpus of data and then training a language model.
 >
@@ -659,7 +650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (4), [[Tokens]] (2), [[Microsoft Word|Word]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Microsoft Word|Word]] (2), [[Algorithms]] (1)
 > **Env Vars:** gpt (11), bert (1), imdb (1)
 > **Definitions:** is a  (3), known as (1), means that (1), is an  (1)
 > **Analogies:** similar to (1), such as (1)
@@ -667,8 +658,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### GPT-3 use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980)
+#### [GPT-3 use cases](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=145)** Now write a creative ad for the following product to run on Facebook aimed at parents.
 >
-> **[2:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=149)** So I'm going to create a ad for a bot to help students in high school to learn how to code in Python, and let's see if it comes up with some reasonable content.
+> **[2:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=149)** So I'm going to create a ad for a bot to help students in high school to learn how to code in [[Python (Programming Language)|Python]], and let's see if it comes up with some reasonable content.
 >
 > **[2:38](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gpt-3-use-cases?u=76281980&t=158)** And so that's a bot to help students in high school to learn how to code in Python.
 >
@@ -816,7 +806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (3), ai (2), product (2), api (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** gpt (14), api (1)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** python (4), find (1), make (1)
@@ -825,8 +815,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - open (1)
 
-#### Challenges and shortcomings of GPT-3
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980)
+#### [Challenges and shortcomings of GPT-3](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +827,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=16)** And part of this data that GPT-3 was trained on was data that was deemed interesting on Reddit based on up votes from other users.
 >
-> **[0:23](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=23)** Unfortunately, this means that biases and dominant worldviews then make it into training data and are encoded in large language models.
+> **[0:23](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=23)** Unfortunately, this means that biases and dominant worldviews then make it into training data and are encoded in [[Large Language Models (LLM)|large language models]].
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=31)** Let's see if there are examples of bias in the model.
 >
@@ -926,7 +915,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=219)** One of the other major concerns with GPT-3 and large language models is their environmental impact.
 >
-> **[3:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=225)** A carbon emission study of large language models was conducted by Google and Berkeley in 2021 and found that training GPT-3 would've resulted in energy consumption of almost 1,300 megawatt hours and a release of 550 tons of CO2.
+> **[3:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=225)** A carbon emission study of large language models was conducted by [[Google]] and Berkeley in 2021 and found that training GPT-3 would've resulted in energy consumption of almost 1,300 megawatt hours and a release of 550 tons of CO2.
 >
 > **[4:02](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/challenges-and-shortcomings-of-gpt-3?u=76281980&t=242)** We've looked at two of these shortcomings of GPT-3: bias and environmental impact.
 >
@@ -936,19 +925,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Large Language Models (LLM)|Large language models]] (5), prompt (2), ai (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (5), [[Google]] (1)
 > **Env Vars:** gpt (10), co2 (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### GLaM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980)
+#### [GLaM](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=0)** - [Instructor] The Google research team noted that training large dense models requires significant amount of compute resources, and they proposed a family of language models called GLaM or Generalist Language Models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=0)** - [Instructor] The [[Google]] research team noted that training large dense models requires significant amount of compute resources, and they proposed a family of language models called GLaM or Generalist Language Models.
 >
 > **[0:13](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=13)** They use a sparsely activated mixture of experts architecture to scale and because they're using a sparse model, they have significantly less training costs compared to an equivalent dense model.
 >
@@ -970,7 +958,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=83)** Let me give you an example.
 >
-> **[1:24](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=84)** So let's say our input tokens was the phrase roses are red and violets are blue and the blue grid represents the 64 experts.
+> **[1:24](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=84)** So let's say our input [[Tokens]] was the phrase roses are red and violets are blue and the blue grid represents the 64 experts.
 >
 > **[1:35](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/glam?u=76281980&t=95)** A gating module dynamically selects two of the experts for the first token roses.
 >
@@ -996,20 +984,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (2), [[Tokens]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Tokens]] (1)
 > **Env Vars:** gpt (4)
 > **Versions:** 1.2 (3), 96.6 (1)
 > **Definitions:** is a  (1), known as (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Megatron-Turing NLG Model
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980)
+#### [Megatron-Turing NLG Model](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=0)** - [Instructor] A lot of the research after GPT-3 was released seemed to indicate that scaling up models improved performance.
 >
-> **[0:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=7)** So Microsoft and Nvidia partnered together to create the Megatron-Turing NLG model, a massive three times more parameters than GPT-3.
+> **[0:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=7)** So [[Microsoft]] and Nvidia partnered together to create the Megatron-Turing NLG model, a massive three times more parameters than GPT-3.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=18)** Modelwise, the architecture uses the transformers decoder just like GPT-3, but you can see that it has more layers and more attention heads than GPT-3.
 >
@@ -1017,13 +1004,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=35)** GPT-3 has 96 attention heads, and Megatron-Turing's NLG model has 128 and finally, Megatron-Turing's NLG model has 530 billion parameters versus GPT-3's 175 billion.
 >
-> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=51)** Now, the researchers identified a couple of challenges with working with large language models.
+> **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=51)** Now, the researchers identified a couple of challenges with working with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:56](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=56)** It's hard to train big models because they don't fit in the memory of one GPU because it would take a long time to do all the compute operations required.
 >
 > **[1:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=65)** Efficient parallel techniques, scalable on both memory and compute, can help to use the full potential of thousands of GPUs.
 >
-> **[1:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=74)** Although these researchers achieved superior zero, one and few-shot learning accuracies on several NLP benchmarks and established some new state-of-the-art results, a lot of their success is probably more around the super-computing hardware infrastructure that was developed with an enormous 600 Nvidia DGX A100 nodes.
+> **[1:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=74)** Although these researchers achieved superior zero, one and few-shot learning accuracies on several NLP benchmarks and established some new state-of-the-art results, a lot of their success is probably more around the super-computing [[Hardware]] infrastructure that was developed with an enormous 600 Nvidia DGX A100 nodes.
 >
 > **[1:37](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/megatron-turing-nlg-model?u=76281980&t=97)** To wrap this video up, let's add the Megatron-Turing language model to the list so that we can compare it with the other models.
 >
@@ -1031,13 +1018,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft]] (1), [[Large Language Models (LLM)|Large language models]] (1), parallel (1), nlp (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (7), nlg (4), gpu (1), nlp (1), dgx (1)
 > **Analogies:** just like (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gopher
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980)
+#### [Gopher](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,7 +1049,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=63)** The DeepMind team called this MassiveText.
 >
-> **[1:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=65)** Now, this dataset has over 2.3 trillion tokens in total.
+> **[1:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=65)** Now, this dataset has over 2.3 trillion [[Tokens]] in total.
 >
 > **[1:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=70)** What's interesting is that they only train on a subset of these tokens so the model doesn't get to see the whole dataset.
 >
@@ -1081,7 +1067,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=127)** And the results are pretty impressive.
 >
-> **[2:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=129)** Gopher outperforms the current state of the art large language models in 100 of the 124 tasks it was tested on.
+> **[2:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=129)** Gopher outperforms the current state of the art [[Large Language Models (LLM)|large language models]] in 100 of the 124 tasks it was tested on.
 >
 > **[2:18](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=138)** So what you have on the X axis are the different tasks, so each vertical bar corresponds to a different task, and the Y axis is the percent change to the state of the art at that time.
 >
@@ -1089,7 +1075,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=152)** Now the darker the shade of blue, the bigger the percent improvement.
 >
-> **[2:36](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=156)** And in general, you can see that Gopher improves over the current state of the art for fact checking and general knowledge tasks, STEM and medicine, ethics, and reading comprehension.
+> **[2:36](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=156)** And in general, you can see that Gopher improves over the current state of the art for fact checking and general knowledge tasks, STEM and medicine, [[Ethics]], and reading comprehension.
 >
 > **[2:47](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/gopher?u=76281980&t=167)** You can also see that there's more pink in this diagram.
 >
@@ -1135,7 +1121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Tokens]] (2), next (1), [[Large Language Models (LLM)|Large language models]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Ethics]] (1)
 > **Env Vars:** gpt (8), stem (3)
 > **URLs:** [direct.com](https://direct.com) (1), [gale.com](https://gale.com) (1), [nih.gov](https://nih.gov) (1), [academia.edu](https://academia.edu) (1)
 > **Analogies:** such as (3), similar to (1)
@@ -1143,8 +1129,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling laws
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/scaling-laws?u=76281980)
+#### [Scaling laws](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/scaling-laws?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,19 +1199,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), power (2)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chinchilla
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980)
+#### [Chinchilla](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=0)** - [Instructor] Up to this point, we've seen that the trend has been to increase the model size.
 >
-> **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=4)** Interestingly, the number of training tokens used for most of these models has been around 300 billion.
+> **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=4)** Interestingly, the number of training [[Tokens]] used for most of these models has been around 300 billion.
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=10)** Now, the DeepMind team's hypothesis was that Gopher was too large.
 >
@@ -1236,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=32)** They then trained Chinchilla a 70 billion parameter model with 1.4 trillion training tokens and Chinchilla outperforms Gopher which has 280 billion parameters GPT-3 with its 175 billion parameters and Megatron-Turing NLG with its 530 billion parameters on a large range of downstream evaluation tasks.
 >
-> **[0:56](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=56)** As this is a smaller model this means less computes required for fine tuning and inference.
+> **[0:56](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=56)** As this is a smaller model this means less computes required for [[Fine Tuning]] and inference.
 >
 > **[1:02](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=62)** Now, let's think back to what we learned about scaling laws.
 >
@@ -1262,7 +1245,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=145)** Compare this to GPT-3s, one 75 billion parameters and Gopher's 280 billion parameters and so on.
 >
-> **[2:32](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=152)** But what is different is that while most of the large language models have been trained on around 300 billion tokens, Chinchilla has been trained on 1.4 trillion tokens, which is almost five times as many tokens as has been the norm.
+> **[2:32](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=152)** But what is different is that while most of the [[Large Language Models (LLM)|large language models]] have been trained on around 300 billion tokens, Chinchilla has been trained on 1.4 trillion tokens, which is almost five times as many tokens as has been the norm.
 >
 > **[2:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/chinchilla?u=76281980&t=165)** The DeepMind team set out to answer this question, given a fixed flops budget, how should one trade off model size and the number of training tokens?
 >
@@ -1354,7 +1337,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (22), data (8), power (6), [[Large Language Models (LLM)|Large language models]] (2), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (22), [[Large Language Models (LLM)|Large language models]] (2), [[Fine Tuning]] (1)
 > **Versions:** 1.4 (4), 1.5 (3), 2.8 (3), 1.8 (1), 5.76 (1)
 > **Env Vars:** gpt (4), nlg (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1363,8 +1346,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### BIG-bench
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980)
+#### [BIG-bench](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=35)** They also included a team of human expert writers that performed all tasks in order to provide a strong baseline, and they were allowed to use all available resources including searching the internet.
 >
-> **[0:47](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=47)** The tasks are really diverse and are all available on GitHub.
+> **[0:47](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=47)** The tasks are really diverse and are all available on [[GitHub]].
 >
 > **[0:51](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=51)** Here are a couple of examples.
 >
@@ -1456,11 +1438,11 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=252)** However, for some tasks, the best performing model beat the average human.
 >
-> **[4:17](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=257)** So this leads us to the best performing model to date, Google's PaLM, and we look at this next.
+> **[4:17](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/big-bench?u=76281980&t=257)** So this leads us to the best performing model to date, [[Google]]'s PaLM, and we look at this next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), next (2), [[GitHub]] (1), api (1), power (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Google]] (1)
 > **Env Vars:** gpt (3), big (2), api (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1), imagine (1)
@@ -1468,12 +1450,11 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### PaLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980)
+#### [PaLM](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=0)** - [Instructor] In April, 2022, Google released PaLM, or to give it its full name, the Pathways Language Model.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=0)** - [Instructor] In April, 2022, [[Google]] released PaLM, or to give it its full name, the Pathways Language Model.
 >
 > **[0:07](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=7)** Now there are a couple of key takeaways from this model.
 >
@@ -1483,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=31)** Now, Google used the pathway system, a new AI architecture that they revealed at the end of 2021.
 >
-> **[0:37](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=37)** So using this framework allows for many more chips to be used for model training, with PaLM being trained on 6,144 hardware accelerators versus smaller numbers of chips being used for previous large language models.
+> **[0:37](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=37)** So using this framework allows for many more chips to be used for model training, with PaLM being trained on 6,144 [[Hardware]] accelerators versus smaller numbers of chips being used for previous [[Large Language Models (LLM)|large language models]].
 >
 > **[0:53](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=53)** And finally, if we look at the Model Flops Utilization, you can see that the Model Flops Utilizations have increased going from GPT-3 to PaLM.
 >
@@ -1493,11 +1474,11 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=69)** And these are possible because of improvements over the years across the model and compiler technology.
 >
-> **[1:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=74)** Now, PaLM was trained on an enormous 780 billion tokens using a multilingual corpus with text from over 100 languages.
+> **[1:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=74)** Now, PaLM was trained on an enormous 780 billion [[Tokens]] using a multilingual corpus with text from over 100 languages.
 >
 > **[1:24](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=84)** Now about 78% of this training data was in English.
 >
-> **[1:28](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=88)** So 50% of the training is in multi-language social media conversations, just over a quarter is filtered webpages, and then we have the usual contents that we've seen so far, books, GitHub, Wikipedia, and the news.
+> **[1:28](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=88)** So 50% of the training is in multi-language social media conversations, just over a quarter is filtered webpages, and then we have the usual contents that we've seen so far, books, [[GitHub]], Wikipedia, and the news.
 >
 > **[1:42](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/palm?u=76281980&t=102)** Now another really interesting phenomena that the Google team picked up on was on scaling.
 >
@@ -1609,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (3), prompt (3), ai (1), [[Hardware]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Hardware]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1), [[GitHub]] (1)
 > **Env Vars:** gpt (7), nlg (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
@@ -1618,8 +1599,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### OPT and BLOOM
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980)
+#### [OPT and BLOOM](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1621,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=61)** The research teams behind the BLOOM model went one step further.
 >
-> **[1:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=65)** The Hugging Face team working together with the Montreal AI Ethics Institute got a 3 million Euro grant for compute resources from research institutes in France.
+> **[1:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=65)** The [[Hugging Face]] team working together with the Montreal AI [[Ethics]] Institute got a 3 million Euro grant for compute resources from research institutes in France.
 >
 > **[1:16](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=76)** And then working together with a volunteer team of over 1000 researchers from different countries and institutions, they created a 176 billion parameter decoder-only transformer model called BLOOM.
 >
@@ -1653,24 +1633,23 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=117)** Now, what makes BLOOM unique is that for most of these languages, such as Spanish and French and Arabic, BLOOM will be the first language model with over 100 billion parameters ever created.
 >
-> **[2:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=130)** Now, even if you want to run these models as inference, you'll still need access to expensive hardware accelerators.
+> **[2:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=130)** Now, even if you want to run these models as inference, you'll still need access to expensive [[Hardware]] accelerators.
 >
 > **[2:16](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=136)** What makes this project particularly exciting is that now because more research teams have access to these models, the weights and the data sets, some parts of the community might focus on trying to make smaller versions of the model, which can run on fewer and less expensive hardware accelerators.
 >
 > **[2:32](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=152)** And other researchers might try and train it on other languages not covered so far and get the first 100 billion parameter model.
 >
-> **[2:40](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=160)** These two initiatives from Facebook and Hugging Face have made large language models available to everyone, and only time will tell what impact this will have.
+> **[2:40](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/opt-and-bloom?u=76281980&t=160)** These two initiatives from Facebook and Hugging Face have made [[Large Language Models (LLM)|large language models]] available to everyone, and only time will tell what impact this will have.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), ai (2), [[Hugging Face]] (2), [[Hardware]] (2), api (1)
+> **Frameworks & Libraries:** [[Hugging Face]] (2), [[Hardware]] (2), [[Ethics]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** bloom (5), gpt (2), api (1), opt (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### GitHub models
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980)
+#### [GitHub models](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,11 +1657,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=4)** Now each of them might have a different approach to solving the problem.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=8)** And it's like that with large language models.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=8)** And it's like that with [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=10)** You can provide the same text or prompt and get a different response from the large language model.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=15)** GitHub models let us easily compare two large language models.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=15)** [[GitHub]] models let us easily compare two large language models.
 >
 > **[0:19](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=19)** You'll need a GitHub account, and you can sign up for one by going to [github.com](https://github.com).
 >
@@ -1716,7 +1695,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=99)** Now I've intentionally included the reference to May the 4th to see if I can trick some of the language models to see if there's a "Star Wars" reference.
 >
-> **[1:47](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=107)** The explanation of this joke or this word play is that this person doesn't want to attend their dad's poetry reading.
+> **[1:47](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=107)** The explanation of this joke or this [[Microsoft Word|word]] play is that this person doesn't want to attend their dad's poetry reading.
 >
 > **[1:54](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/github-models?u=76281980&t=114)** So let's go ahead and see how the different models explain this.
 >
@@ -1734,7 +1713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), business (2), prompt (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Large Language Models (LLM)|Large language models]] (4), [[Microsoft Word|Word]] (1)
 > **Tools:** github (5)
 > **Env Vars:** gpt (3)
 > **Analogies:** imagine (1), it's like (1), compare this to (1)
@@ -1743,16 +1722,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Accessing Large Language Models using an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980)
+#### [Accessing Large Language Models using an API](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=0)** - [Instructor] Now in the previous video, we looked at comparing large language models using GitHub models.
+> **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=0)** - [Instructor] Now in the previous video, we looked at comparing [[Large Language Models (LLM)|large language models]] using [[GitHub]] models.
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=5)** Now in this one, we look to see how we can access the large language models via an API using a programming language like Python.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=5)** Now in this one, we look to see how we can access the large language models via an API using a programming language like [[Python (Programming Language)|Python]].
 >
-> **[0:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=14)** Now I prefer GitHub Codespaces for prototyping any apps.
+> **[0:14](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=14)** Now I prefer GitHub [[Codespaces]] for [[Prototyping]] any apps.
 >
 > **[0:18](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/accessing-large-language-models-using-an-api?u=76281980&t=18)** It's a cloud-based coding environment and you can access it from any device.
 >
@@ -1860,7 +1838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), api (2)
+> **Frameworks & Libraries:** [[GitHub]] (13), [[Python (Programming Language)|Python]] (10), [[Codespaces]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Prototyping]] (1)
 > **CLI Commands:** python (10), pip (2), make (1)
 > **Tools:** github (13)
 > **Env Vars:** gpt (4), api (2)
@@ -1869,14 +1847,13 @@ created: 2026-05-02
 > **File Paths:** joke.py (2), python.gitignore (1)
 > **URLs:** [github.com](https://github.com) (3)
 
-#### Inference time vs. pre-training
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980)
+#### [Inference time vs. pre-training](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=0)** - [Instructor] Over this course, we've looked at scaling laws and lessons from the chinchilla models.
 >
-> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=5)** Let's bring this all together as we look at the current trends for large language models.
+> **[0:05](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=5)** Let's bring this all together as we look at the current trends for [[Large Language Models (LLM)|large language models]].
 >
 > **[0:10](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=10)** When training of large language models first kicked off, most of the focus was on improving the models, and then the scaling laws were the guiding principle, and the scaling laws suggested that you would get the biggest improvement by increasing the size of the models.
 >
@@ -1900,11 +1877,11 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=82)** So these are small models that are trained from scratch on large data sets.
 >
-> **[1:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=87)** Now, because these are smaller models, this means they require less memory to run, and so, we can potentially run them using fewer hardware accelerators.
+> **[1:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=87)** Now, because these are smaller models, this means they require less memory to run, and so, we can potentially run them using fewer [[Hardware]] accelerators.
 >
 > **[1:35](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=95)** Smaller models can also run on local devices.
 >
-> **[1:38](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=98)** Now, the big advantage here is privacy, as all the interactions with the language model takes place on your device.
+> **[1:38](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=98)** Now, the big advantage here is [[Privacy]], as all the interactions with the language model takes place on your device.
 >
 > **[1:45](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=105)** The other important consideration is how can we improve the quality of these models?
 >
@@ -1918,7 +1895,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=137)** An example of this Test Time Compute is the o1 model from OpenAI.
 >
-> **[2:22](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=142)** The model uses these reasoning tokens to break down their understanding of the prompt and consider multiple approaches to generating a response.
+> **[2:22](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=142)** The model uses these reasoning [[Tokens]] to break down their understanding of the prompt and consider multiple approaches to generating a response.
 >
 > **[2:30](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/inference-time-vs-pre-training?u=76281980&t=150)** Now, what you see here is an example of this multi-step conversation between a user and the model.
 >
@@ -1946,7 +1923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (5), data (4), [[Large Language Models (LLM)|Large language models]] (3), ai (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Large Language Models (LLM)|Large language models]] (3), [[Hardware]] (1), [[Privacy]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Env Vars:** gpqa (1)
 > **Speakers:** - [instructor] (1)
@@ -1956,20 +1933,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going further with Transformers
-> [LinkedIn Learning](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)
+#### [Going further with Transformers](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=0)** - [Jonathan] We've covered a ton of material in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=3)** We've looked at many of the large language models since GPT-3.
+> **[0:03](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=3)** We've looked at many of the [[Large Language Models (LLM)|large language models]] since GPT-3.
 >
 > **[0:06](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=6)** Let's review them really quickly.
 >
-> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=8)** We saw how Google reduced training and inference costs by using sparse mixtures of expert models with GLaM.
+> **[0:08](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=8)** We saw how [[Google]] reduced training and inference costs by using sparse mixtures of expert models with GLaM.
 >
-> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=15)** A month later, Microsoft teamed up with Nvidia to create the Megatron Turing LG model that was three times larger than GPT-3 with 530 billion parameters.
+> **[0:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=15)** A month later, [[Microsoft]] teamed up with Nvidia to create the Megatron Turing LG model that was three times larger than GPT-3 with 530 billion parameters.
 >
 > **[0:27](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=27)** In the same month, the DeepMind team released Gofer and their largest 280 billion parameter model which was their best performing model.
 >
@@ -1981,11 +1957,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=58)** Up to this point, large language models have been exclusive to big tech.
 >
-> **[1:02](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=62)** In an attempt to allow other researchers access to these models, Meta release the open Pre-Train model and Hugging Face when one step further with BLOOM sharing data sets, weights, and checkpoints to anyone who is interested.
+> **[1:02](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=62)** In an attempt to allow other researchers access to these models, Meta release the open Pre-Train model and [[Hugging Face]] when one step further with BLOOM sharing data sets, weights, and checkpoints to anyone who is interested.
 >
 > **[1:15](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=75)** If you haven't had enough of transformers, I've got some more resources for you.
 >
-> **[1:19](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=79)** If you want a hands on code-centric look at transformers where we train a model to do text classification using BERT, then check out my other course in the LinkedIn library.
+> **[1:19](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=79)** If you want a hands on code-centric look at transformers where we train a model to do text classification using BERT, then check out my other course in the [[LinkedIn]] library.
 >
 > **[1:29](https://www.linkedin.com/learning/generative-ai-working-with-large-language-models/going-further-with-transformers?u=76281980&t=89)** I hope you've enjoyed this course.
 >

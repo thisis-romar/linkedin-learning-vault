@@ -75,37 +75,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting hands on with Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
+#### [Getting hands on with Java](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=0)** - [Angie] Java is one of the world's most popular programming languages and it's widely used to build enterprise applications in domains such as web, mobile, big data, cloud, gaming, and even artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=0)** - [Angie] [[Java]] is one of the world's most popular programming languages and it's widely used to build enterprise applications in domains such as web, mobile, [[Big Data]], cloud, gaming, and even [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=15)** While learning programming concepts is an important first step in becoming a Java developer, mastery is obtained by applying those concepts to building applications.
+> **[0:15](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=15)** While learning [[Programming Concepts]] is an important first step in becoming a Java developer, mastery is obtained by applying those concepts to building applications.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=26)** That's why in this course, we'll focus on gaining practical experience and developing a Java application using GitHub Codespaces.
+> **[0:26](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=26)** That's why in this course, we'll focus on gaining practical experience and developing a Java application using [[GitHub]] [[Codespaces]].
 >
 > **[0:36](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=36)** We'll visit core concepts of the Java programming language and learn when and how to apply them to real-world problems.
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=45)** I'm Angie Jones, a certified Java developer and Java champion.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=50)** Join me in this LinkedIn Learning course as we dive into project-based learning.
+> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-java/getting-hands-on-with-java?u=76281980&t=50)** Join me in this [[LinkedIn]] Learning course as we dive into project-based learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Programming]] (2), web (1), [[Big Data]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Big Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Programming Concepts]] (1), [[GitHub]] (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [angie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have basic knowledge of Java or any other object-oriented programming language.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course, you should have basic knowledge of [[Java]] or any other [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:07](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=7)** We'll focus on exercising that knowledge by building an application to gain practical experience with Java.
 >
@@ -113,26 +111,25 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=33)** If you already have fundamental knowledge about object-oriented programming, let's jump right in.
 >
-> **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=39)** We'll use GitHub Codespaces in this course, so Ray will walk us through the initial setup.
+> **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/what-you-should-know?u=76281980&t=39)** We'll use [[GitHub]] [[Codespaces]] in this course, so Ray will walk us through the initial setup.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), application (1), data (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Versions:** java 17 (1)
 > **Tools:** github (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using GitHub Codespaces with this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980)
+#### [Using GitHub Codespaces with this course](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, senior staff instructor at LinkedIn Learning, and I'm going to show you how to work with LinkedIn Learning courses using GitHub Codespaces.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=0)** - This is Ray Villalobos, senior staff instructor at [[LinkedIn]] Learning, and I'm going to show you how to work with LinkedIn Learning courses using [[GitHub]] [[Codespaces]].
 >
 > **[0:09](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=9)** Codespaces is a code editor in the cloud with the full power of Visual Studio Code.
 >
-> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real-world hands-on practice that mirrors software development in the workplace.
+> **[0:14](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=14)** It allows for real-world hands-on practice that mirrors [[Software Development]] in the workplace.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=19)** This course was created using GitHub Codespaces.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=195)** As you work through a course, you might make some changes on a branch.
 >
-> **[3:19](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.html file right here.
+> **[3:19](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=199)** I'm going to make a minor edit on the index.[[HTML]] file right here.
 >
 > **[3:27](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=207)** I'm going to go ahead and save that, and you can see that I've modified this file because there's an M right here, and the branch name now has an asterisk on it.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=332)** I'll hit OK.
 >
-> **[5:34](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run git fetch.
+> **[5:34](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=334)** You can also let it go ahead and run [[Git]] [[Fetch]].
 >
 > **[5:37](https://www.linkedin.com/learning/hands-on-introduction-java/using-github-codespaces-with-this-course?u=76281980&t=337)** That way, it'll automatically sync with your forked repo.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), hit (5), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Codespaces]] (9), [[GitHub]] (8), [[LinkedIn]] (2), [[Software Development]] (1), [[HTML]] (1)
 > **Tools:** github (8), visual studio (2)
 > **UI Navigation:** switch to (4), click on (1), go to (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -269,12 +266,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Warnings:** note that (1)
 
-#### Project setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980)
+#### [Project setup](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=0)** - [Instructor] Most of the heavy lifting to configure our project has already been taken care of by Codespaces.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=0)** - [Instructor] Most of the heavy lifting to configure our project has already been taken care of by [[Codespaces]].
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=6)** There's a couple of additional steps we need to cover so that we're ready to build our application.
 >
@@ -308,13 +304,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=100)** Once we click that, we see the contents of the database.
 >
-> **[1:45](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=105)** Next, we need to import the Java project we'll be working on.
+> **[1:45](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=105)** Next, we need to import the [[Java]] project we'll be working on.
 >
 > **[1:48](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=108)** We can do this by expanding the Java Projects section under Explorer.
 >
 > **[1:55](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=115)** And I'll just collapse the very top one.
 >
-> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=118)** We'll click this Import Projects button, and this will import our empty Banking project.
+> **[1:58](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=118)** We'll click this Import Projects button, and this will import our empty [[Banking]] project.
 >
 > **[2:06](https://www.linkedin.com/learning/hands-on-introduction-java/project-setup?u=76281980&t=126)** Awesome. Our project has been imported.
 >
@@ -336,7 +332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), database (3), [[Banking]] (2), [[Codespaces]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Banking]] (2), [[Codespaces]] (1)
 > **UI Navigation:** scroll down (1), click on (1), right-click (1)
 > **Prerequisites:** install (2), configure (1)
 > **File Paths:** src.main.java (1)
@@ -350,18 +346,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Design a solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
+#### [Design a solution](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=0)** - [Instructor] For this project, our task is to build a basic banking system that allows customers to view their balance, make deposits, and withdraw funds from their accounts.
+> **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=0)** - [Instructor] For this project, our task is to build a basic [[Banking]] system that allows customers to view their balance, make deposits, and withdraw funds from their accounts.
 >
 > **[0:11](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=11)** Before writing any code, let's examine our challenge, design a solution, and identify our assumptions.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=19)** We have a database with two tables: customers and accounts.
 >
-> **[0:23](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=23)** These both represent objects within our application that we'll need to interact with, so we can develop Java classes that represent both of these.
+> **[0:23](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=23)** These both represent objects within our application that we'll need to interact with, so we can develop [[Java]] classes that represent both of these.
 >
 > **[0:34](https://www.linkedin.com/learning/hands-on-introduction-java/design-a-solution?u=76281980&t=34)** We'll also need to account for the actions or behaviors of our system, so we'll need methods to check the balance of an account, deposit, and withdraw.
 >
@@ -399,14 +394,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), application (2), [[Banking]] (1), [[Java]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Java]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** account_id (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create customer
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980)
+#### [Create customer](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980&t=23)** We'll create our class within a package, which is a folder that holds our class files.
 >
-> **[0:29](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980&t=29)** Under the source main Java directory, we see a package called bank.
+> **[0:29](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980&t=29)** Under the source main [[Java]] directory, we see a package called bank.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-introduction-java/create-customer?u=76281980&t=35)** Bank is all lowercase as it's a Java convention for package names to be lower case.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), data (2), database (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (6)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Best Practices:** best practice (1), don't forget (1)
 > **Prerequisites:** set up (2)
@@ -523,8 +517,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 
-#### Create account
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980)
+#### [Create account](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980&t=6)** The columns are ID, type, and balance.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980&t=10)** In this video, we'll create a Java class to model this object.
+> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980&t=10)** In this video, we'll create a [[Java]] class to model this object.
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-introduction-java/create-account?u=76281980&t=15)** The steps to complete this task are similar to the ones from the last video, where we created a customer class.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), database (1)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **Code Identifiers:** settype (1), setbalance (1)
 > **UI Navigation:** go to (2)
 > **Speakers:** - in (1)
@@ -573,16 +566,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
+#### [Connect to data source](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=0)** - We have a SQLite database that's holding all of the data for our application.
 >
-> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=5)** In order to read and write to this database, we need to first connect to it from our Java code.
+> **[0:05](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=5)** In order to read and write to this database, we need to first connect to it from our [[Java]] code.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=10)** Fortunately, we can use the SQLite JDBC plugin to accomplish this.
+> **[0:10](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=10)** Fortunately, we can use the SQLite [[Java Database Connectivity (JDBC)|JDBC]] plugin to accomplish this.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=17)** Let's create a new class under our bank package called Data Source.
 >
@@ -594,7 +586,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=41)** It'll return a connection object and we'll call this method "connect."
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=48)** We'll need to import the connection class from the Java dot SQL package.
+> **[0:48](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=48)** We'll need to import the connection class from the Java dot [[SQL]] package.
 >
 > **[0:52](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=52)** So let's just click on this connection, you'll see a little light bulb here, click this and they'll show you some ways that you can fix this error.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=166)** So let's go ahead and set this equal to null initially and then we'll create a try block.
 >
-> **[2:54](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=174)** We can do so by writing the word try, followed by a set of curly braces.
+> **[2:54](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=174)** We can do so by writing the [[Microsoft Word|word]] try, followed by a set of curly braces.
 >
 > **[3:01](https://www.linkedin.com/learning/hands-on-introduction-java/connect-to-data-source?u=76281980&t=181)** Inside of this try block, we're going to set the connection equal to this driver manager dot get connection.
 >
@@ -680,15 +672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Java]] (4), [[SQL]] (3), data (2), [[Java Database Connectivity (JDBC)|Jdbc]] (2)
+> **Frameworks & Libraries:** [[Java]] (4), [[SQL]] (3), [[Java Database Connectivity (JDBC)|Jdbc]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), jdbc (1)
 > **CLI Commands:** make (3)
 > **API Endpoints:** get  (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - we (1)
 
-#### Construct customer from data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980)
+#### [Construct customer from data source](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=20)** So we'll say public static Customer get customer, and this method will accept the username of the customer.
 >
-> **[0:32](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=32)** We'll need to craft a SQL query that will get the customer data from the database. We can do that using a string and Java. So we'll call this SQL, and then within quotes, we put the query. So let's say, select star from customers where username equals, and here we want to pass in the username variable that was passed into us. Technically, we could append it to the string.
+> **[0:32](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=32)** We'll need to craft a [[SQL]] query that will get the customer data from the database. We can do that using a string and [[Java]]. So we'll call this SQL, and then within quotes, we put the query. So let's say, select star from customers where username equals, and here we want to pass in the username variable that was passed into us. Technically, we could append it to the string.
 >
 > **[1:05](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=65)** However, you should never send raw user input as part of a database query because it could be malicious input used as a SQL injection meant to steal data or manipulate your data tables instead.
 >
@@ -768,7 +759,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=374)** So we'll say resultsset.getstring and we'll pass in the column name, which is name.
 >
-> **[6:24](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=384)** Let's do this quickly for the rest of them as well.
+> **[6:24](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=384)** Let's do this quickly for the [[Representational State Transfer (REST)|rest]] of them as well.
 >
 > **[6:28](https://www.linkedin.com/learning/hands-on-introduction-java/construct-customer-from-data-source?u=76281980&t=388)** So results set username is a string, so we'll see.
 >
@@ -822,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (12), database (10), data (8), [[Java]] (6), next (1)
+> **Frameworks & Libraries:** [[SQL]] (12), [[Java]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (12)
 > **Definitions:** is a  (3), is an  (1), we call this (1)
 > **File Paths:** java.sql (3)
@@ -831,8 +822,7 @@ created: 2026-05-02
 > **Code Identifiers:** twest80 (1)
 > **Tools:** terminal (1)
 
-#### Construct account from data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980)
+#### [Construct account from data source](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=40)** and we'll ask them to provide us with the account id.
 >
-> **[0:45](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=45)** Our SQL query should target the accounts table by account id.
+> **[0:45](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=45)** Our [[SQL]] query should target the accounts table by account id.
 >
 > **[0:50](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=50)** So we'll say string SQL equals and we'll go select everything from accounts where the id equals question mark.
 >
@@ -914,11 +904,11 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=284)** Perfect. Great job.
 >
-> **[4:46](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=286)** Now if our application needs to interact with any accounts, we can do so with Java.
+> **[4:46](https://www.linkedin.com/learning/hands-on-introduction-java/construct-account-from-data-source?u=76281980&t=286)** Now if our application needs to interact with any accounts, we can do so with [[Java]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[SQL]] (3), data (1), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Java]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft music) (1)
@@ -928,8 +918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create Authenticator
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
+#### [Create Authenticator](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +964,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=151)** If the customer is null, we want to stop the program entirely.
 >
-> **[2:36](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=156)** To do so, we can throw Java's built-in login exception.
+> **[2:36](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=156)** To do so, we can throw [[Java]]'s built-in login exception.
 >
 > **[2:41](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=161)** So we can throw the exception by saying throw new LoginException and we can pass a message into this constructor.
 >
@@ -1011,7 +1000,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=295)** Notice here we have an isAuthenticated and also a getAuthenticated and they both do the same thing.
 >
-> **[5:03](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=303)** However, because this method is returning a boolean value, it's a Java convention to have the method name essentially ask a question usually starting with the word is.
+> **[5:03](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=303)** However, because this method is returning a boolean value, it's a Java convention to have the method name essentially ask a question usually starting with the [[Microsoft Word|word]] is.
 >
 > **[5:15](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=315)** So we'll use the isAuthenticated one and get rid of the getAuthenticated.
 >
@@ -1039,15 +1028,15 @@ created: 2026-05-02
 >
 > **[6:42](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=402)** So we'll do customer.setAuthenticated and we will pass in false.
 >
-> **[6:51](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=411)** Excellent work making sure our toy banking application is secure.
+> **[6:51](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=411)** Excellent work making sure our toy [[Banking]] application is secure.
 >
 > **[6:56](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=416)** In production applications, of course there are additional security measures that should be accounted for.
 >
-> **[7:03](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=423)** You're welcome to search LinkedIn Learning for courses that cover security and software development.
+> **[7:03](https://www.linkedin.com/learning/hands-on-introduction-java/create-authenticator?u=76281980&t=423)** You're welcome to search [[LinkedIn]] Learning for courses that cover security and [[Software Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), database (3), [[Java]] (3), application (2)
+> **Frameworks & Libraries:** [[Java]] (3), [[Microsoft Word|Word]] (1), [[Banking]] (1), [[LinkedIn]] (1), [[Software Development]] (1)
 > **Code Identifiers:** getcustomer (2), isauthenticated (2), getauthenticated (2), setauthenticated (2), getpassword (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1056,8 +1045,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980)
+#### [Create menu](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1071,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980&t=31)** So we'll click this plus sign and let's name it Menu.
 >
-> **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980&t=39)** In order to receive input from the text console we can use Java's built-in Scanner class.
+> **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980&t=39)** In order to receive input from the text console we can use [[Java]]'s built-in Scanner class.
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-introduction-java/create-menu?u=76281980&t=45)** Let's declare a Scanner object now.
 >
@@ -1181,7 +1169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), next (4), application (1), prompt (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **Code Identifiers:** authenticateuser (3), showmenu (3), getmessage (1), getaccounts (1), getaccountid (1)
 > **Definitions:** is a  (2), defined as (1)
 > **CLI Commands:** make (2)
@@ -1189,8 +1177,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Display menu options
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980)
+#### [Display menu options](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1238,7 +1225,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=210)** Okay, now we want to execute different blocks of code depending on the selection the user made, to execute a specific block of code based on a value, we can use the switch decision structure.
 >
-> **[3:44](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=224)** We write the word switch, and in parentheses, we provide the variable that we want evaluated, so in our case, that selection, and then we can follow this with a set of curly braces.
+> **[3:44](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=224)** We write the [[Microsoft Word|word]] switch, and in parentheses, we provide the variable that we want evaluated, so in our case, that selection, and then we can follow this with a set of curly braces.
 >
 > **[3:59](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=239)** Inside of the switch statement, we provide cases for all of the possible values of the selection variable.
 >
@@ -1266,7 +1253,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=380)** Okay, back to menu.
 >
-> **[6:26](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=386)** Now the last line of the case should be a break statement, which let's Java know not to continue executing any more cases.
+> **[6:26](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=386)** Now the last line of the case should be a break statement, which let's [[Java]] know not to continue executing any more cases.
 >
 > **[6:37](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=397)** Without a break statement after a switch case, the code will fall through to the next case, in fact, it will keep going through all of the cases until it reaches a break statement, even if the case does not match the variable of the switch structure, so be extra careful to include a break statement after each case, unless it is your intention to run multiple blocks of code for specific values.
 >
@@ -1284,7 +1271,7 @@ created: 2026-05-02
 >
 > **[8:37](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=517)** And then for selection 4, the user wants to exit the application, so let's log them out and print a farewell message.
 >
-> **[8:47](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=527)** So we can do authenticator.logout, pass in our customer, and then we'll say system.out.println, "Thanks for banking at Globe Bank International,"
+> **[8:47](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=527)** So we can do authenticator.logout, pass in our customer, and then we'll say system.out.println, "Thanks for [[Banking]] at Globe Bank International,"
 >
 > **[9:09](https://www.linkedin.com/learning/hands-on-introduction-java/display-menu-options?u=76281980&t=549)** and break.
 >
@@ -1302,7 +1289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (2), application (2), prompt (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Java]] (1), [[Banking]] (1)
 > **CLI Commands:** make (7)
 > **Code Identifiers:** nextdouble (2), showmenu (1), nextint (1), getbalance (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
@@ -1316,8 +1303,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deposit
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
+#### [Deposit](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,9 +1321,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=39)** We can stop the program by throwing an exception.
 >
-> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=43)** To throw an exception we'll write the word throw followed by new and the name of the exception.
+> **[0:43](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=43)** To throw an exception we'll write the [[Microsoft Word|word]] throw followed by new and the name of the exception.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=50)** Now, Java provides a lot of built-in exception classes that you can use, or you can make your own custom exceptions.
+> **[0:50](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=50)** Now, [[Java]] provides a lot of built-in exception classes that you can use, or you can make your own custom exceptions.
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-introduction-java/deposit?u=76281980&t=57)** For this error let's throw our own custom exception.
 >
@@ -1417,7 +1403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1), data (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **Code Identifiers:** newbalance (2), getmessage (1), setbalance (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1426,8 +1412,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Update data source
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980)
+#### [Update data source](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1430,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980&t=39)** Our query needs to update the balance column of the accounts table.
 >
-> **[0:44](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980&t=44)** So, we'll say string SQL equals update accounts by setting the balance equal to question mark, where ID equals question mark.
+> **[0:44](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980&t=44)** So, we'll say string [[SQL]] equals update accounts by setting the balance equal to question mark, where ID equals question mark.
 >
 > **[1:00](https://www.linkedin.com/learning/hands-on-introduction-java/update-data-source?u=76281980&t=60)** So now, we have two place holders.
 >
@@ -1535,7 +1520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Versions:** 230.49 (2), 330.49 (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** updateaccountbalance (1), setint (1)
@@ -1544,8 +1529,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - in (1)
 
-#### Withdraw
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/withdraw?u=76281980)
+#### [Withdraw](https://www.linkedin.com/learning/hands-on-introduction-java/withdraw?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1603,7 +1587,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), database (1)
 > **Code Identifiers:** newbalance (3), updateaccountbalance (2), getmessage (1), getbalance (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
@@ -1614,8 +1597,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Java and project-based learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)
+#### [Continuing on with Java and project-based learning](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,15 +1605,15 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=2)** You've made it to the end of the course.
 >
-> **[0:04](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=4)** You've gained practical experience in applying Java programming to build actual applications.
+> **[0:04](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=4)** You've gained practical experience in applying [[Java]] programming to build actual applications.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=10)** Hopefully, this project helped to cement your knowledge of the language and provided stronger context on how to solve problems with code.
 >
 > **[0:20](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=20)** I encourage you to add this project to your portfolio and to continue to build additional projects with your newfound experience.
 >
-> **[0:28](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=28)** If you're ready for another course, there are some great options here on LinkedIn Learning.
+> **[0:28](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=28)** If you're ready for another course, there are some great options here on [[LinkedIn]] Learning.
 >
-> **[0:33](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=33)** This is the first course in a series of courses on Java using GitHub Codespaces so be sure to check out the other courses as well.
+> **[0:33](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=33)** This is the first course in a series of courses on Java using [[GitHub]] [[Codespaces]] so be sure to check out the other courses as well.
 >
 > **[0:43](https://www.linkedin.com/learning/hands-on-introduction-java/continuing-on-with-java-and-project-based-learning?u=76281980&t=43)** Thanks so much for taking this course.
 >
@@ -1641,7 +1623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (2), [[Programming]] (1), [[GitHub]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[LinkedIn]] (2), [[GitHub]] (1), [[Codespaces]] (1)
 > **Tools:** github (1)
 > **Speakers:** - [angie] (1)
 

@@ -84,14 +84,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Microsoft 365: Administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
+#### [Microsoft 365: Administration](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980&t=0)** Microsoft 365 is the evolution of Microsoft's back office product and a truly mature software as a service offering.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980&t=0)** [[Microsoft 365]] is the evolution of [[Microsoft]]'s back [[Microsoft Office|office]] product and a truly mature [[SaaS|software as a service]] offering.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980&t=8)** We will look at how to manage the various workloads in Microsoft 365, as well as how to create teams, create mailboxes, create SharePoint sites and other properties that are relevant to managing a Microsoft 365 subscription.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980&t=8)** We will look at how to manage the various workloads in Microsoft 365, as well as how to create teams, create mailboxes, create [[SharePoint]] sites and other properties that are relevant to managing a Microsoft 365 subscription.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-365-administration/microsoft-365-administration?u=76281980&t=25)** We will ensure that your configurations are secure and they are compliant.
 >
@@ -101,23 +100,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), product (1), [[SaaS|Software as a service]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[SaaS|Software as a service]] (1), [[SharePoint]] (1)
 > **CLI Commands:** make (1)
 
-#### What should you know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980)
+#### [What should you know](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=0)** Before you start this course, make sure to sign up for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=0)** Before you start this course, make sure to sign up for [[Microsoft 365]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=5)** You can sign up for a free trial of Microsoft 365, which will allow you to explore all of the functionalities of the product and all of the workloads that are included in Microsoft 365.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=17)** If you go to [Office.com](https://Office.com) and go to Get Microsoft 365, you will be able to go through the various questions from Microsoft that will allow you to start your free trial of Microsoft 365.
+> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/what-should-you-know?u=76281980&t=17)** If you go to [[[Microsoft Office|Office]].com](https://Office.com) and go to Get Microsoft 365, you will be able to go through the various questions from [[Microsoft]] that will allow you to start your free trial of Microsoft 365.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), product (1), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **URLs:** [office.com](https://office.com) (1)
@@ -128,18 +126,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring Microsoft 365 core functionalities
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
+#### [Exploring Microsoft 365 core functionalities](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=0)** At its core, Microsoft 365 is not one thing.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=0)** At its core, [[Microsoft 365]] is not one thing.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=4)** It is a suite of products.
+> **[0:04](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=4)** It is a suite of [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=6)** Microsoft 365 has gone through many iterations of names.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=11)** It was recently known as Microsoft Office 365, representing the Office suite type of products.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=11)** It was recently known as [[Microsoft Office]] 365, representing the [[Microsoft Office|Office]] suite type of products.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=18)** Before that, we knew Microsoft 365 as the business productivity online suite, representing the heavy focus on business-type software solutions.
 >
@@ -153,9 +150,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=95)** Administrators will then access the administrative portal in order to manage multiple users, sets of data, files, and any other property that can be managed by the various pieces of software that are part of the Microsoft 365 suite of products.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=114)** There are primary workloads that we will look at throughout this course that are key to Microsoft 365, and that are truly the key offerings from Microsoft.
+> **[1:54](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=114)** There are primary workloads that we will look at throughout this course that are key to Microsoft 365, and that are truly the key offerings from [[Microsoft]].
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=126)** The email services such as Exchange Online, the collaboration services such as Microsoft Teams, the document storage and management services such as OneDrive and SharePoint, as well as all the other products and services that are part of Microsoft 365.
+> **[2:06](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=126)** The email services such as Exchange Online, the collaboration services such as [[Microsoft Teams]], the document storage and management services such as [[Microsoft OneDrive|OneDrive]] and [[SharePoint]], as well as all the other products and services that are part of Microsoft 365.
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-core-functionalities?u=76281980&t=144)** So in this interface, we see the client view.
 >
@@ -165,24 +162,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (12), [[Microsoft Products|Products]] (6), [[Microsoft Office|Office]] (2), business (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (12), [[Microsoft Products|Products]] (6), [[Microsoft Office|Office]] (2), [[Microsoft Office]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (3)
 
-#### Exploring Microsoft 365 Admin Center: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980)
+#### [Exploring Microsoft 365 Admin Center: Part 1](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=0)** Welcome to the Microsoft 365 admin center, the primary portal for managing everything that is Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=0)** Welcome to the [[Microsoft 365]] admin center, the primary portal for managing everything that is Microsoft 365.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=8)** Microsoft 365 is a true SaaS offering, Software as a Service, where there are many pieces of softwares that are actually bundled in with Microsoft 365. We will look at some of the general settings that apply to all the various software solutions, as well as the individual administrative centers.
+> **[0:08](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=8)** Microsoft 365 is a true [[SaaS]] offering, [[SaaS|Software as a Service]], where there are many pieces of softwares that are actually bundled in with Microsoft 365. We will look at some of the general settings that apply to all the various software solutions, as well as the individual administrative centers.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=30)** But let's start with the Microsoft 365 admin center.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=35)** Here in the primary window, we see various cards.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=39)** So Microsoft calls these cards.
+> **[0:39](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=39)** So [[Microsoft]] calls these cards.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=41)** They can be customized and they provide a set of information.
 >
@@ -198,9 +194,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=83)** Keep in mind that even though Microsoft 365 is a complete solution, behind the scenes, underneath the covers, we see other Microsoft solutions that are providing some of these services.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=97)** And when it comes to users and identities, it is Microsoft Entra ID. Microsoft Entra ID is the new iteration of Azure Active Directory or Azure AD, which is what provides the identity services for Microsoft 365.
+> **[1:37](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=97)** And when it comes to users and identities, it is [[Microsoft Entra ID]]. Microsoft Entra ID is the new iteration of [[Microsoft Entra ID|Azure Active Directory]] or [[Microsoft Entra ID|Azure AD]], which is what provides the identity services for Microsoft 365.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=114)** So even though I can click on active users and I see the list of users in my environment, these users actually are Microsoft Entra ID accounts, their identities, security principles that reside within Entra ID.
+> **[1:54](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=114)** So even though I can click on active users and I see the list of users in my environment, these users actually are Microsoft Entra ID accounts, their identities, security principles that reside within [[Microsoft Entra ID|Entra ID]].
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=130)** However, I can manage them here on Microsoft 365 because my Microsoft Entra ID tenant is bundled with Microsoft 365. They are one of the same.
 >
@@ -210,7 +206,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=157)** Frankly, everything you need to do for Entra ID accounts, your user accounts here can be done from Microsoft 365.
 >
-> **[2:45](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=165)** There are some advanced functionalities that we would do in Entra ID, such as implementing conditional access policies, essentially specifying when users can connect and what conditions they need to have in order to connect, as well as multi-factor authentication will be done somewhere else.
+> **[2:45](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=165)** There are some advanced functionalities that we would do in Entra ID, such as implementing conditional access policies, essentially specifying when users can connect and what conditions they need to have in order to connect, as well as [[Multi-factor Authentication]] will be done somewhere else.
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=184)** Right now, it's in a legacy portal, but in the future, it will also move to Entra ID.
 >
@@ -220,7 +216,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=202)** All of your teams and groups are listed here.
 >
-> **[3:25](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=205)** The teams and groups are used to not only provide distribution list, email list for different users, or even create and provide access to a group of users to access specific resources or for that group of users to perform administrative tasks, but this is also where I create my Microsoft Teams.
+> **[3:25](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=205)** The teams and groups are used to not only provide distribution list, email list for different users, or even create and provide access to a group of users to access specific resources or for that group of users to perform administrative tasks, but this is also where I create my [[Microsoft Teams]].
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=226)** There is a specialized Teams Admin Center that we will look at later on in this course, but in here I see all of the teams and Microsoft 365 groups that have been created in my environment.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=341)** This is where you would purchase additional licenses and subscription for the various needs that you have in your organization.
 >
-> **[5:49](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=349)** For example, you want to provide a new service for your users, such as an access to Exchange Online, or you want to provide some additional encryption functionalities for documentations, or you want to ensure that your users can have access to the Office applications offline.
+> **[5:49](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=349)** For example, you want to provide a new service for your users, such as an access to Exchange Online, or you want to provide some additional encryption functionalities for documentations, or you want to ensure that your users can have access to the [[Microsoft Office|Office]] applications offline.
 >
 > **[6:09](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-1?u=76281980&t=369)** All of these functionalities can be purchased by Microsoft through the various product and license offering.
 >
@@ -262,23 +258,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (12), teams (6), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (4), [[Microsoft Entra ID]] (4)
+> **Frameworks & Libraries:** [[Microsoft 365]] (12), [[Microsoft Entra ID|Entra id]] (5), [[Microsoft]] (4), [[Microsoft Entra ID]] (4), [[Microsoft Entra ID|Azure ad]] (2)
 > **Analogies:** such as (4), for example (3)
 > **Definitions:** is a  (4)
 > **Prerequisites:** configure (3)
 > **UI Navigation:** click on (1)
 > **Warnings:** keep in mind (1)
 
-#### Exploring Microsoft 365 Admin Center: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980)
+#### [Exploring Microsoft 365 Admin Center: Part 2](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=0)** Now moving down the list of options that I have here in the Microsoft 365 admin center, I also have support options.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=0)** Now moving down the list of options that I have here in the [[Microsoft 365]] admin center, I also have support options.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=10)** Now, support options can be very relevant if you're having issues with your Microsoft 365 subscription.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=17)** There are different levels of support that you can access, and you can open up a support request from Microsoft, as well you can ask for immediate support from partners, Microsoft partners.
+> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=17)** There are different levels of support that you can access, and you can open up a support request from [[Microsoft]], as well you can ask for immediate support from partners, Microsoft partners.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=30)** Depending on your type of support agreement that you have with Microsoft, there are different SLAs, Service-Level Agreements, in providing a response time for your various issues in Microsoft 365.
 >
@@ -298,7 +293,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=104)** It requires synchronization of data to the cloud.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=109)** It requires the implementation of synchronized identities using tools like Microsoft Entra Connect, formerly known as Azure AD Connect, and this requires a higher level of expertise and experience.
+> **[1:49](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=109)** It requires the implementation of synchronized identities using tools like Microsoft [[Microsoft Entra ID|Entra]] Connect, formerly known as [[Microsoft Entra ID|Azure AD]] Connect, and this requires a higher level of expertise and experience.
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=122)** Today, organizations are setting up in the cloud immediately and from the get-go.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=171)** How many files are they storing, what amount of storage is being used?
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=175)** How many messages are being used over Microsoft Teams?
+> **[2:55](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=175)** How many messages are being used over [[Microsoft Teams]]?
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=178)** How many emails are being received?
 >
@@ -330,7 +325,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=212)** So reports is definitely a very useful functionality that we will look at in detail later on. As well, down below, the last menu option I have here is health, which really provides a lot of information about the health of not only your tenant, your subscription of Microsoft 365, but the Microsoft 365 services as a whole.
 >
-> **[3:56](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=236)** All Microsoft 365 cloud services reside in Microsoft data centers that are distributed around the world.
+> **[3:56](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=236)** All Microsoft 365 [[Cloud Services]] reside in Microsoft data centers that are distributed around the world.
 >
 > **[4:05](https://www.linkedin.com/learning/microsoft-365-administration/exploring-microsoft-365-admin-center-part-2?u=76281980&t=245)** Sometimes some of these data centers incur some kind of a failure or a service as a whole has a failure that affects the services that you have.
 >
@@ -350,17 +345,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Microsoft]] (9), cloud (5), data (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (14), [[Microsoft]] (9), [[Microsoft Entra ID|Entra]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Teams]] (1)
 > **Prerequisites:** setup (4), set up (1)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 
-#### Managing domain names in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980)
+#### [Managing domain names in Microsoft 365](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=0)** When you first purchase a Microsoft 365 subscription and create your Microsoft 365 tenant, you get a default domain, a domain that finishes with on [microsoft.com](https://microsoft.com). That domain, though it may be useful initially when setting up your environment, needs to be modified later on so that you can have a more representative domain to match your organization or your company.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=0)** When you first purchase a [[Microsoft 365]] subscription and create your Microsoft 365 tenant, you get a default domain, a domain that finishes with on [[[Microsoft]].com](https://microsoft.com). That domain, though it may be useful initially when setting up your environment, needs to be modified later on so that you can have a more representative domain to match your organization or your company.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-domain-names-in-microsoft-365?u=76281980&t=28)** That domain name will then be the suffix that you will use for all of your users' sign-in information, for all of your email addresses, as well as the suffix that you can use for a website that you are publishing.
 >
@@ -456,7 +450,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (15), [[Microsoft 365]] (9), dns (9)
+> **Frameworks & Libraries:** [[Microsoft]] (15), [[Microsoft 365]] (9)
 > **Env Vars:** dns (9), txt (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (4), [netlogon.com](https://netlogon.com) (2), [godaddy.com](https://godaddy.com) (1), [thisismydomainname.com](https://thisismydomainname.com) (1)
 > **UI Navigation:** click on (5), go to (1)
@@ -464,12 +458,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (2)
 > **Warnings:** warning (1)
 
-#### Managing licensing and products
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980)
+#### [Managing licensing and products](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=0)** In Microsoft 365, the way that we provide software services to our users is by assigning them licenses, licenses to products that are part of the Microsoft 365 suite.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=0)** In [[Microsoft 365]], the way that we provide software services to our users is by assigning them licenses, licenses to [[Microsoft Products|products]] that are part of the Microsoft 365 suite.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=13)** So let's take a look at how we purchase and manage these licenses.
 >
@@ -501,15 +494,15 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=94)** It's located in Canada.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=96)** The licensing prices will always be adapted based on your region, and they're also modified based on regional pricing from Microsoft.
+> **[1:36](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=96)** The licensing prices will always be adapted based on your region, and they're also modified based on regional pricing from [[Microsoft]].
 >
 > **[1:45](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=105)** So once I click on the two of them and I click on "Compare", the product comparison blade opens up.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=112)** And there I see the difference between these two licenses.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=115)** If you notice at their core for office apps, they're essentially identical and the same for collaboration and communication.
+> **[1:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=115)** If you notice at their core for [[Microsoft Office|office]] apps, they're essentially identical and the same for collaboration and communication.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=124)** They offer the same services: Exchange, OneDrive, SharePoint, Skype for Business Teams, and Yammer are all included in this subscription.
+> **[2:04](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=124)** They offer the same services: Exchange, [[Microsoft OneDrive|OneDrive]], [[SharePoint]], Skype for Business Teams, and Yammer are all included in this subscription.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=133)** Notice that Skype for Business has instant messaging only, and these various plan, Plan 1, they refer to the various options within those workloads.
 >
@@ -519,9 +512,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=156)** If I keep on going down the list, you'll see that I find some options now that start to change.
 >
-> **[2:41](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=161)** And the primary difference between those two licenses is the inclusion of the Azure Active Directory or as it's known now, Microsoft Entra ID Premium License or the Microsoft Intune as well that is included, Cloud App Security, another mechanism for securing your published application.
+> **[2:41](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=161)** And the primary difference between those two licenses is the inclusion of the [[Microsoft Entra ID|Azure Active Directory]] or as it's known now, [[Microsoft Entra ID]] Premium License or the Microsoft Intune as well that is included, Cloud App Security, another mechanism for securing your published application.
 >
-> **[3:03](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=183)** Azure Information Protection for encrypting files and securing files as they are shared, and a number of other functionalities here that are not included in my license.
+> **[3:03](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=183)** [[Microsoft Azure|Azure]] Information Protection for encrypting files and securing files as they are shared, and a number of other functionalities here that are not included in my license.
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-licensing-and-products?u=76281980&t=196)** So I may look at those various options and decide whether or not they are important for me, and then decide to purchase one of those additional licenses. As well, if I want to see specifically all of the products that are included in my license, I click on "Your products", and then I see all of the products that are included in my license.
 >
@@ -553,19 +546,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (9), [[Microsoft 365]] (6), [[Microsoft Products|Products]] (4), [[Microsoft]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Products|Products]] (4), [[Microsoft]] (3), [[Microsoft Office|Office]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** means that (2)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 
-#### Managing general user settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980)
+#### [Managing general user settings](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=0)** In a previous video in this course, we looked at the various products and licenses that are purchased in Microsoft 365 and how those are assigned to users in order to give them access to the various Microsoft 365 workloads.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=0)** In a previous video in this course, we looked at the various [[Microsoft Products|products]] and licenses that are purchased in [[Microsoft 365]] and how those are assigned to users in order to give them access to the various Microsoft 365 workloads.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=16)** So let's take a look at how we manage those users and how we manage licenses for the users.
 >
@@ -577,7 +569,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=50)** I'm going to click on the user account to open up a blade that includes all of my user details.
 >
-> **[0:56](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=56)** In this User Details pane, I'll see my username, my email address, all of the various aliases that are assigned to me, which are basically additional email addresses, I see all the groups I'm part of, as well, I will see the devices that are enrolled to Microsoft Intune with my user account.
+> **[0:56](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=56)** In this User Details pane, I'll see my username, my email address, all of the various aliases that are assigned to me, which are basically additional email addresses, I see all the groups I'm part of, as well, I will see the devices that are enrolled to [[Microsoft]] Intune with my user account.
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=78)** I don't have Microsoft Intune, so I have no devices enrolled.
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=94)** Now, something that may not seem obvious here, but may seem very obvious once you click or uncheck a checkbox, is that if you remove a license for a key workload from a user, you are actually disabling the workload for that user.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=111)** So for example, if a user has access to Exchange Online through the license that you're attributing here, by removing the license, you are essentially removing their mailbox, removing their access to email, and removing their access through email, through Outlook send and receive email, and anything that is associated with the Exchange workload.
+> **[1:51](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=111)** So for example, if a user has access to Exchange Online through the license that you're attributing here, by removing the license, you are essentially removing their mailbox, removing their access to email, and removing their access through email, through [[Microsoft Outlook|Outlook]] send and receive email, and anything that is associated with the Exchange workload.
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=132)** So be very careful when you are checking or unchecking mailboxes in this pane.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=147)** You'll see in my case here, I have 48 GB of email and my limit is 50.
 >
-> **[2:33](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=153)** So I am really nearing my limit, as well as several other email-related settings that we will look at in a later video in this course. As well, here under OneDrive, I have my data storage and the data storage quotas that is assigned to me.
+> **[2:33](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=153)** So I am really nearing my limit, as well as several other email-related settings that we will look at in a later video in this course. As well, here under [[Microsoft OneDrive|OneDrive]], I have my [[Data Storage]] and the data storage quotas that is assigned to me.
 >
 > **[2:50](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=170)** So in this case, I have only 10% of my quota that is being used.
 >
@@ -609,19 +601,19 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=189)** And, of course, you can reset your password.
 >
-> **[3:12](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=192)** Keep in mind, as I mentioned in a previous video in this course, that all of the settings that you modify here are actually related to a Microsoft Entra ID or previously known as Azure Active Directory account.
+> **[3:12](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=192)** Keep in mind, as I mentioned in a previous video in this course, that all of the settings that you modify here are actually related to a [[Microsoft Entra ID]] or previously known as [[Microsoft Entra ID|Azure Active Directory]] account.
 >
 > **[3:26](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=206)** So this is one of the same.
 >
-> **[3:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=208)** You may be able to configure some additional settings that may be relevant to you using the Microsoft Entra admin center.
+> **[3:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=208)** You may be able to configure some additional settings that may be relevant to you using the Microsoft [[Microsoft Entra ID|Entra]] admin center.
 >
-> **[3:35](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=215)** Other settings include multi-factor authentication and other attributes that can be set for the user, such as their manager, name, phone number, and so on.
+> **[3:35](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=215)** Other settings include [[Multi-factor Authentication]] and other attributes that can be set for the user, such as their manager, name, phone number, and so on.
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-365-administration/managing-general-user-settings?u=76281980&t=225)** So these two admin centers together provide a complete solution of managing your identities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), data (3), [[Search]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), [[Data Storage]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (3), checkbox (2)
 > **Cross-References:** previous video (2)
 > **Analogies:** for example (1), such as (1)
@@ -629,12 +621,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** configure (1)
 
-#### Creating a Microsoft 365 user
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980)
+#### [Creating a Microsoft 365 user](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=0)** Now that we've learned how to manage users in Microsoft 365, let's go ahead and create a new user in our Microsoft 365 subscription.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=0)** Now that we've learned how to manage users in [[Microsoft 365]], let's go ahead and create a new user in our Microsoft 365 subscription.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=10)** So to create a new user, I'm going to go under Users in the Microsoft 365 Admin Center and then click on "Add a user".
 >
@@ -680,9 +671,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=144)** If I don't assign a license for the user, the user will not appear as a recipient for exchange online.
 >
-> **[2:31](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=151)** He will not have access to Microsoft Teams.
+> **[2:31](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=151)** He will not have access to [[Microsoft Teams]].
 >
-> **[2:35](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=155)** He will not be able to store files in SharePoint Online, and so on.
+> **[2:35](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=155)** He will not be able to store files in [[SharePoint]] Online, and so on.
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=159)** So assigning the license activates the user for at least the three primary workloads, which are Exchange Online, Microsoft Teams, and SharePoint Online.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=195)** All of those types of permissions are assigned through roles.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=199)** Now in this case, this user will be just a regular user. As well, you can specify profile information to the user, job title, department, office phone number, and so on.
+> **[3:19](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=199)** Now in this case, this user will be just a regular user. As well, you can specify profile information to the user, job title, department, [[Microsoft Office|office]] phone number, and so on.
 >
 > **[3:29](https://www.linkedin.com/learning/microsoft-365-administration/creating-a-microsoft-365-user?u=76281980&t=209)** These properties are actually attributes to the user account, and those attributes can then be used later on.
 >
@@ -718,22 +709,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), next (3), [[Microsoft Teams]] (2), [[SharePoint]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Teams]] (2), [[SharePoint]] (2), [[Microsoft]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (5)
 > **Analogies:** such as (2)
 > **Best Practices:** good practice (1)
 > **Prerequisites:** required to (1)
 
-#### Manage Microsoft 365 by using PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980)
+#### [Manage Microsoft 365 by using PowerShell](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=0)** We looked at managing Microsoft 365 by using the Microsoft 365 Admin Center, and later on in this course, we'll look at the other admin centers that exist within Microsoft 365 workloads.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=0)** We looked at managing [[Microsoft 365]] by using the Microsoft 365 Admin Center, and later on in this course, we'll look at the other admin centers that exist within Microsoft 365 workloads.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=12)** However, there's another way of managing Microsoft 365 that's through some scripting.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=19)** Now we can use PowerShell or Bash scripting in order to manage our subscription, automate various tasks, bulk-edit projects.
+> **[0:19](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=19)** Now we can use [[Powershell]] or Bash scripting in order to manage our subscription, automate various tasks, bulk-edit projects.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=29)** There's a number of advantages of using scripting that is not necessarily a very challenging thing to learn, or to add to your skill set as an administrator. You can either use PowerShell on your local computer and connect your local PowerShell application to your online tenant to Microsoft 365, or directly from the Admin Center, you can use what's called the Cloud Shell.
 >
@@ -741,13 +731,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=66)** You can load various modules in PowerShell.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=69)** You can select between PowerShell or Bash if you choose to use the CLI instead of PowerShell, if that's your preferred way of managing tools and solutions.
+> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=69)** You can select between PowerShell or Bash if you choose to use the [[CLI]] instead of PowerShell, if that's your preferred way of managing tools and solutions.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=80)** And from here, I can connect to the various services and I can manage them in any way I want.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=86)** I can run all the various commands that exist in your PowerShell tool that are already loaded in the various modules, or I can load additional modules. I can connect to specific workloads, or I can use the workloads that are already connected to here.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=101)** So, for example, there is an IntelliSense here that tells me get -AzSbscription, which is my Azure subscription, is a command that I can use directly from PowerShell.
+> **[1:41](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=101)** So, for example, there is an IntelliSense here that tells me get -AzSbscription, which is my [[Microsoft Azure|Azure]] subscription, is a command that I can use directly from PowerShell.
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=111)** And it lists the various subscriptions that I have.
 >
@@ -777,7 +767,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=181)** And now I've authenticated for the session or I've stored my authentication in this variable.
 >
-> **[3:08](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=188)** So what I'm going to do is I'm going to connect to Microsoft Teams.
+> **[3:08](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=188)** So what I'm going to do is I'm going to connect to [[Microsoft Teams]].
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-365-administration/manage-microsoft-365-by-using-powershell?u=76281980&t=193)** And I'm going to specify -credential and then a $credential to pull out my credentials directly from that variable.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft 365]] (7), [[Microsoft Azure|Azure]] (6), cloud (5), [[Microsoft Teams]] (5)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft 365]] (7), [[Microsoft Azure|Azure]] (6), [[Microsoft Teams]] (5), [[Microsoft]] (1)
 > **Tools:** powershell (12), bash (2), azure portal (2)
 > **Definitions:** is a  (2), is an  (1), means that (1), stands for (1)
 > **Analogies:** for example (4)
@@ -834,12 +824,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get familiar with Exchange Admin Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
+#### [Get familiar with Exchange Admin Center](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=0)** As I mentioned earlier in this course, there are multiple admin centers that we can use to manage the various workloads that make up Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=0)** As I mentioned earlier in this course, there are multiple admin centers that we can use to manage the various workloads that make up [[Microsoft 365]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=9)** These admin centers are found in the bottom left.
 >
@@ -849,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=21)** Exchange Online was the first workload that was added to Microsoft 365, way back when it used to be called the Business Productivity Online Suite.
 >
-> **[0:32](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=32)** Exchange Online is the online version of the on-premises product Exchange Server, which is one of the richest and most evolved products from the Microsoft Back Office Suite.
+> **[0:32](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=32)** Exchange Online is the online version of the on-premises product Exchange Server, which is one of the richest and most evolved [[Microsoft Products|products]] from the [[Microsoft]] Back [[Microsoft Office|Office]] Suite.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=46)** Therefore, Microsoft Exchange Online is really a complete product.
 >
@@ -893,7 +882,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=199)** This is done through roles.
 >
-> **[3:20](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=200)** Of course, we assign administrative roles to users. As well, we can control how users use Outlook web app, the web version of Outlook, using policies.
+> **[3:20](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=200)** Of course, we assign administrative roles to users. As well, we can control how users use [[Microsoft Outlook|Outlook]] web app, the web version of Outlook, using policies.
 >
 > **[3:32](https://www.linkedin.com/learning/microsoft-365-administration/get-familiar-with-exchange-admin-center?u=76281980&t=212)** Policies allow you to control how Outlook web app is being accessed by your users.
 >
@@ -919,15 +908,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), web (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 
-#### Explore the recipients in Exchange Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980)
+#### [Explore the recipients in Exchange Online](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -941,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=31)** So here if I am in my Exchange Admin Center and I click on "Recipients", I'm exposing the types of recipients that I can create.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=39)** Some of those recipients can be created from the Exchange Admin Center, others need to be created from the Microsoft 365 Admin Center, but they will all be represented here in Exchange.
+> **[0:39](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=39)** Some of those recipients can be created from the Exchange Admin Center, others need to be created from the [[Microsoft 365]] Admin Center, but they will all be represented here in Exchange.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=51)** So the first and most important recipient type is the mailbox.
 >
@@ -971,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=126)** For example, a mailbox you would use for resumes in an organization, or a mailbox that you would use for help desk support so that everyone could email the help desk support mailbox, and then multiple users can go in to that shared mailbox.
 >
-> **[2:21](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=141)** Essentially, from Outlook, it would be added to their Outlook profile, and then they can go in and access that shared mailbox and respond to messages that have been sent to that shared mailbox.
+> **[2:21](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=141)** Essentially, from [[Microsoft Outlook|Outlook]], it would be added to their Outlook profile, and then they can go in and access that shared mailbox and respond to messages that have been sent to that shared mailbox.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=153)** The shared mailbox gets an email address, of course, and anyone can send to that shared mailbox, whether they are internal or external to the organization.
 >
@@ -987,7 +975,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=182)** It essentially can do everything any other group can do, but it also has a Microsoft 365 Team associated to it so that it can be used for collaboration.
 >
-> **[3:13](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=193)** And you see here that some of these groups that are Microsoft Teams connected have the Teams icon associated to it.
+> **[3:13](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=193)** And you see here that some of these groups that are [[Microsoft Teams]] connected have the Teams icon associated to it.
 >
 > **[3:21](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=201)** So we can create Microsoft 365 groups.
 >
@@ -1041,7 +1029,7 @@ created: 2026-05-02
 >
 > **[6:18](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=378)** The contacts come in two flavors, either a mail contact or a mail user.
 >
-> **[6:24](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=384)** A mail contact is a contact that doesn't have a user account in Microsoft Entra ID. The mail user is a Microsoft Entra ID user of type guest.
+> **[6:24](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=384)** A mail contact is a contact that doesn't have a user account in [[Microsoft Entra ID]]. The mail user is a Microsoft Entra ID user of type guest.
 >
 > **[6:38](https://www.linkedin.com/learning/microsoft-365-administration/explore-the-recipients-in-exchange-online?u=76281980&t=398)** So these are not member users, these are guests.
 >
@@ -1055,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Outlook|Outlook]] (5), [[Security]] (4), [[Microsoft Entra ID]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Outlook|Outlook]] (5), [[Microsoft Entra ID]] (3), [[Microsoft]] (2), [[Microsoft Entra ID|Entra]] (1)
 > **Definitions:** is a  (7), means that (1)
 > **Analogies:** for example (3), such as (1)
 > **UI Navigation:** click on (2)
@@ -1064,18 +1052,17 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Warnings:** note that (1)
 
-#### Managing Exchange Online user mailboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980)
+#### [Managing Exchange Online user mailboxes](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=0)** As we've mentioned in a previous video in this course, Microsoft Exchange Online is the primary workload of Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=0)** As we've mentioned in a previous video in this course, [[Microsoft]] Exchange Online is the primary workload of [[Microsoft 365]].
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=9)** We talked about recipients and through the list of recipient types, the primary recipient that we're going to look at right now is the mailbox.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=18)** You'll remember that the mailbox is associated to a user account.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=22)** The user account exists in Microsoft Entra.
+> **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=22)** The user account exists in Microsoft [[Microsoft Entra ID|Entra]].
 >
 > **[0:26](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=26)** And once we create a user account and associate a license to the user account, if that license includes Exchange Online, the user gets a mailbox.
 >
@@ -1117,9 +1104,9 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=126)** So which apps can be used to access the mailbox?
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=129)** So the first one is Outlook on the web, the web version of Outlook or the browser-based version of Outlook.
+> **[2:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=129)** So the first one is [[Microsoft Outlook|Outlook]] on the web, the web version of Outlook or the browser-based version of Outlook.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=134)** I've also the MAPI version of Outlook, which is essentially the Outlook that you know, as part of the Office suite of product, and then a number of other services or applications that can be used to access the mailbox, such as the older, more classical way of accessing email, POP3.
+> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=134)** I've also the MAPI version of Outlook, which is essentially the Outlook that you know, as part of the [[Microsoft Office|Office]] suite of product, and then a number of other services or applications that can be used to access the mailbox, such as the older, more classical way of accessing email, POP3.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-365-administration/managing-exchange-online-user-mailboxes?u=76281980&t=150)** That one has been around since the beginning of backend server-based email solutions. So that is my general tab.
 >
@@ -1187,7 +1174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Entra ID|Entra]] (3), [[Microsoft]] (2), [[Microsoft 365]] (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Entra ID|Entra]] (3), [[Microsoft]] (2), [[Microsoft 365]] (2), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** click on (6), go to (1)
 > **Env Vars:** gal (1), mapi (1), pop3 (1)
 > **Cross-References:** previous video (1), we talked about (1)
@@ -1195,18 +1182,17 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** configure (1)
 
-#### Exploring groups in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980)
+#### [Exploring groups in Microsoft 365](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=0)** So we've looked at Exchange Online recipients and the fact that there are many different recipient types in Microsoft Exchange Online.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=0)** So we've looked at Exchange Online recipients and the fact that there are many different recipient types in [[Microsoft]] Exchange Online.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=8)** However, now we need to look at another primary recipient type, which is groups.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=14)** So as I've mentioned earlier in this course, there are different types of groups that we can create in Microsoft 365.
+> **[0:14](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=14)** So as I've mentioned earlier in this course, there are different types of groups that we can create in [[Microsoft 365]].
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=20)** The first being the Microsoft 365 group, a group that is associated to a Microsoft Team, a SharePoint Online Site, and of course, an email distribution list.
+> **[0:20](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=20)** The first being the Microsoft 365 group, a group that is associated to a Microsoft Team, a [[SharePoint]] Online Site, and of course, an email distribution list.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=33)** So you can send emails to a Microsoft 365 group, you can access it as a Microsoft Team, and as a SharePoint Online Site.
 >
@@ -1226,7 +1212,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=76)** It is the all-encompassing group of everything that you could possibly do in Microsoft 365. But very similarly to the Microsoft 365 group, we have a mail-enabled security group.
 >
-> **[1:29](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=89)** Now a mail-enabled security group is a security group in Microsoft Entra, which means a group of users that are grouped together for the purpose of providing permissions or providing access to resources.
+> **[1:29](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=89)** Now a mail-enabled security group is a security group in Microsoft [[Microsoft Entra ID|Entra]], which means a group of users that are grouped together for the purpose of providing permissions or providing access to resources.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-365-administration/exploring-groups-in-microsoft-365?u=76281980&t=103)** So think about a department that are all accessing the same folders, or users that need to access the same project files, you would put them in a group.
 >
@@ -1318,7 +1304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (13), [[Security]] (8), [[Microsoft]] (6), teams (4), [[SharePoint]] (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (13), [[Microsoft]] (6), [[SharePoint]] (3), [[Microsoft Entra ID|Entra]] (1)
 > **Definitions:** is a  (4), means that (1), basically means (1)
 > **UI Navigation:** click on (5)
 > **CLI Commands:** find (1), make (1)
@@ -1326,12 +1312,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 
-#### Manage resource mailboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/manage-resource-mailboxes?u=76281980)
+#### [Manage resource mailboxes](https://www.linkedin.com/learning/microsoft-365-administration/manage-resource-mailboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/manage-resource-mailboxes?u=76281980&t=0)** Those of you that have experience with Microsoft Exchange Server on premises may be familiar with the concept of a resource mailbox.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/manage-resource-mailboxes?u=76281980&t=0)** Those of you that have experience with [[Microsoft]] Exchange Server on premises may be familiar with the concept of a resource mailbox.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-365-administration/manage-resource-mailboxes?u=76281980&t=9)** A resource mailbox is primarily used for the purpose of scheduling, to allow users in your organization to schedule a resource and make sure that no one else will schedule it at the same time, so that the mailbox or the resource, in this case, will be marked as utilized, or will be marked as busy.
 >
@@ -1425,7 +1410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (2)
@@ -1437,18 +1422,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing the SharePoint admin center in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
+#### [Managing the SharePoint admin center in Microsoft 365](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=0)** Microsoft 365 is a suite of products.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=0)** [[Microsoft 365]] is a suite of [[Microsoft Products|products]].
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=3)** These products are identified as workloads, and we've spent quite a bit of time in this course looking at the Exchange Online workload. And in my opinion, it is the key workload in Microsoft 365, certainly the first workload that was introduced as part of the product when it was first released.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=22)** But there are other products as well that are quite noteworthy that we need to look at.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=27)** And the first we'll look at is SharePoint Online.
+> **[0:27](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=27)** And the first we'll look at is [[SharePoint]] Online.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=31)** So all of the workloads are accessible through the admin centers that are available on the left-hand side in the Microsoft 365 admin center.
 >
@@ -1460,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=57)** But essentially, the prefix before [SharePoint.com](https://SharePoint.com) is a name that you defined when you first create your first site in SharePoint Online.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=69)** So here I am in the SharePoint admin center and in SharePoint I will be creating what we call SharePoint sites. Now SharePoint and OneDrive, which are two technologies used to store and share files, have sort of been consolidated for the purpose of terminology within the Microsoft 365 ecosystem.
+> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=69)** So here I am in the SharePoint admin center and in SharePoint I will be creating what we call SharePoint sites. Now SharePoint and [[Microsoft OneDrive|OneDrive]], which are two technologies used to store and share files, have sort of been consolidated for the purpose of terminology within the Microsoft 365 ecosystem.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=90)** And when you store files in SharePoint, you can access them using your OneDrive client.
 >
@@ -1470,7 +1454,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=106)** There's different ways of accessing the files, and you can access your files in SharePoint through custom applications that you would build out.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=115)** And those applications can utilize metadata that's assigned to files to be able to localize and expose files as necessary.
+> **[1:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=115)** And those applications can utilize [[Metadata]] that's assigned to files to be able to localize and expose files as necessary.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=124)** So first, let's take a look at this navigation in the SharePoint admin center.
 >
@@ -1478,7 +1462,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=130)** When I click on "Active sites", I see all the sites that exist in my SharePoint tenant, and the various sites are organized with URLs.
 >
-> **[2:20](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=140)** They have a site name, a URL, some of them Team-associated, which means they are associated with Microsoft Teams.
+> **[2:20](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=140)** They have a site name, a URL, some of them Team-associated, which means they are associated with [[Microsoft Teams]].
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=147)** I see the amount of storage that are being used, as well as who the owners of these are.
 >
@@ -1500,7 +1484,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=223)** So that's another interesting point as well.
 >
-> **[3:45](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=225)** Here I have some messages from Microsoft about service updates and various updates to the environment.
+> **[3:45](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=225)** Here I have some messages from [[Microsoft]] about service updates and various updates to the environment.
 >
 > **[3:52](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-sharepoint-admin-center-in-microsoft-365?u=76281980&t=232)** Something else interesting here is I have my active users in Microsoft 365, and I can look to see how many of my users are active in SharePoint versus active in other applications.
 >
@@ -1544,7 +1528,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (31), data (10), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[SharePoint]] (31), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Products|Products]] (3), [[Microsoft]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** url (2)
@@ -1553,22 +1537,21 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** configure (1)
 
-#### Managing the Microsoft Teams admin center in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980)
+#### [Managing the Microsoft Teams admin center in Microsoft 365](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=0)** During the last few years, the need for remote collaboration between users has grown significantly.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=7)** As a result, the growth of one of the Microsoft workloads has matched that same need for remote connectivity and collaboration.
+> **[0:07](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=7)** As a result, the growth of one of the [[Microsoft]] workloads has matched that same need for remote connectivity and collaboration.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=17)** And that's Microsoft Teams.
+> **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=17)** And that's [[Microsoft Teams]].
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=19)** Microsoft Teams, previously known as Skype for Business and previously known as Link and previously known as Office Communication Server, has definitely gone through many iterations in its evolution.
+> **[0:19](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=19)** Microsoft Teams, previously known as Skype for Business and previously known as Link and previously known as [[Microsoft Office|Office]] Communication Server, has definitely gone through many iterations in its evolution.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=32)** Today, Microsoft Teams Online is a service that allows users to collaborate using chat, sharing files in virtual meetings and conferences, as well as doing audio calls and video calls with each other.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=47)** Teams has certainly been a very important tool within the deployment of a Microsoft 365 infrastructure.
+> **[0:47](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=47)** Teams has certainly been a very important tool within the deployment of a [[Microsoft 365]] infrastructure.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=55)** In order to manage Microsoft Teams, we're going to use the Microsoft Teams admin center, which we can access on the left list of all admin centers here.
 >
@@ -1584,7 +1567,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=100)** So for example, here under my teams user activity, I can click on the last 30 days and I can see when there was much more activity in teams in my organizations than other days. Under teams, this is where I'm going to see all of my various teams.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=116)** These virtual collaboration places where people share files and communicate with each other.
+> **[1:56](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=116)** These [[Virtual Collaboration]] places where people share files and communicate with each other.
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=122)** I have many teams in my organization.
 >
@@ -1598,7 +1581,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=147)** Then I have my Teams users.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=149)** So these are my users, the same users that have mailboxes with Exchange Online and that access your SharePoint Online files.
+> **[2:29](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=149)** So these are my users, the same users that have mailboxes with Exchange Online and that access your [[SharePoint]] Online files.
 >
 > **[2:37](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=157)** Those are also Team users.
 >
@@ -1652,7 +1635,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=307)** You can connect a PBX system, a phone exchanger system to your Teams infrastructure so that your users can actually communicate with external voiced users that are connected through the PSTN or the typical phone line.
 >
-> **[5:23](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=323)** You can also create policies around that, any policies around how your voicemails are answered, how calls are put on hold, how caller ID works, and you can specify also routing policies, how messages or calls are routed between users within an organization.
+> **[5:23](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=323)** You can also create policies around that, any policies around how your voicemails are answered, how calls are put on hold, how caller ID works, and you can specify also [[Routing]] policies, how messages or calls are routed between users within an organization.
 >
 > **[5:41](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-teams-admin-center-in-microsoft-365?u=76281980&t=341)** If a user has multiple phone numbers from a mobile device and their teams phone, how that's routed from one to the other.
 >
@@ -1674,31 +1657,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (27), [[Microsoft Teams]] (11), [[Microsoft]] (3), [[Microsoft 365]] (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (11), [[Microsoft]] (3), [[Microsoft 365]] (3), [[Microsoft Office|Office]] (1), [[Virtual Collaboration]] (1)
 > **Definitions:** known as (3), is a  (2)
 > **Prerequisites:** configure (3)
 > **Env Vars:** pbx (1), pstn (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 
-#### Managing the Microsoft Entra admin center in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980)
+#### [Managing the Microsoft Entra admin center in Microsoft 365](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=0)** When we're in Microsoft 365, we have user accounts that are enabled for various Microsoft 365 workloads.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=0)** When we're in [[Microsoft 365]], we have user accounts that are enabled for various Microsoft 365 workloads.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=10)** All of those user accounts are actually user accounts that also reside in Microsoft Entra ID.
+> **[0:10](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=10)** All of those user accounts are actually user accounts that also reside in [[Microsoft Entra ID]].
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=16)** Microsoft Entra ID is the new name for Azure Active Directory, one of the first workloads associated with Microsoft 365 that provides all of the authorization and authentication services for Microsoft 365.
+> **[0:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=16)** Microsoft Entra ID is the new name for [[Microsoft Entra ID|Azure Active Directory]], one of the first workloads associated with Microsoft 365 that provides all of the authorization and authentication services for Microsoft 365.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=33)** Microsoft Entra ID is Microsoft's identity and access management solution, and it has its own portal, its own admin center.
+> **[0:33](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=33)** Microsoft Entra ID is [[Microsoft]]'s identity and access management solution, and it has its own portal, its own admin center.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=44)** So to access the Microsoft Entry ID admin center, I'm going to go down my list of admin centers and go into Identity.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=54)** When I click on "Identity", I'm entering the Entra admin center and I'm entering the tenant that's associated with my Microsoft 365 subscription.
+> **[0:54](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=54)** When I click on "Identity", I'm entering the [[Microsoft Entra ID|Entra]] admin center and I'm entering the tenant that's associated with my Microsoft 365 subscription.
 >
-> **[1:04](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=64)** When you first subscribe to Microsoft 365, you will have an Entra ID tenant that uses the Entra ID-free license.
+> **[1:04](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=64)** When you first subscribe to Microsoft 365, you will have an [[Microsoft Entra ID|Entra ID]] tenant that uses the Entra ID-free license.
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=74)** It is a free tenant.
 >
@@ -1720,7 +1702,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=126)** However, if you are an administrator and you are accessing this, you would be able to see all of these usernames and email addresses.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=134)** This is also where we're going to enable multi-factor authentication or per-user MFA, per-user multifactor authentication will be enabled from here, and it is something that will allow you to force your users to use more than one form of authentication.
+> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=134)** This is also where we're going to enable [[Multi-factor Authentication]] or per-user MFA, per-user multifactor authentication will be enabled from here, and it is something that will allow you to force your users to use more than one form of authentication.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-administration/managing-the-microsoft-entra-admin-center-in-microsoft-365?u=76281980&t=151)** And we'll be doing that in a later video in this course.
 >
@@ -1766,22 +1748,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Managing Microsoft 365 Defender
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980)
+#### [Managing Microsoft 365 Defender](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=0)** Security is a key aspect of managing your resources within Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=0)** Security is a key aspect of managing your resources within [[Microsoft 365]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=6)** In order to access the primary security functionalities of Microsoft 365, we're going to use Microsoft 365 Defender.
+> **[0:06](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=6)** In order to access the primary security functionalities of Microsoft 365, we're going to use Microsoft 365 [[Microsoft Defender|Defender]].
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=15)** I've launched a Microsoft 365 Defender by opening up the Security admin center from the Microsoft 365 admin center.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=24)** As soon as I'm in the Microsoft 365 Defender, I see that I have some options here that I can configure related to securing devices, data, and infrastructure, as well as any custom applications or applications I've deployed in my Microsoft 365 subscription.
 >
-> **[0:43](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=43)** So the applications that your users are using to access your data, the data that's being stored in SharePoint Online, the email messages that are being transferred by mailboxes and users in Exchange Online, the identities that are stored in Entra ID and that are used to authenticate, all of those various resources can be secured even more by using Microsoft 365 Defender.
+> **[0:43](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=43)** So the applications that your users are using to access your data, the data that's being stored in [[SharePoint]] Online, the email messages that are being transferred by mailboxes and users in Exchange Online, the identities that are stored in [[Microsoft Entra ID|Entra ID]] and that are used to authenticate, all of those various resources can be secured even more by using Microsoft 365 Defender.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=69)** So in the 365 Defender portal or admin center, I have the general security settings that I have my top settings here, as well as some specific settings for devices for endpoints such as devices and applications and APIs, as well as email and collaboration solutions of Exchange Online and Microsoft Teams.
+> **[1:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=69)** So in the 365 Defender portal or admin center, I have the general security settings that I have my top settings here, as well as some specific settings for devices for endpoints such as devices and applications and APIs, as well as email and collaboration solutions of Exchange Online and [[Microsoft Teams]].
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=92)** So let's take a look first at the global security settings.
 >
@@ -1797,7 +1778,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=128)** Those are specific to anything related to your email content or your teams content.
 >
-> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=134)** So, for example, in this case here, I had a user report an email message as spam and that spam was categorized as potential malware or a phishing attempt.
+> **[2:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=134)** So, for example, in this case here, I had a user report an email message as spam and that spam was categorized as potential malware or a [[Phishing]] attempt.
 >
 > **[2:26](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=146)** So this is going to be listed here so that I can actually review it a little bit more in detail.
 >
@@ -1821,7 +1802,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=226)** So how secure is my 365 tenant? And I get a score assigned to that based on the configurations that I've set.
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=234)** So, for example, if you enable multi-factor authentication for all your users, that will increase your score.
+> **[3:54](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=234)** So, for example, if you enable [[Multi-factor Authentication]] for all your users, that will increase your score.
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=240)** You've done a good job.
 >
@@ -1837,7 +1818,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=308)** I will not review these.
 >
-> **[5:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=309)** There are courses available specifically on Microsoft Defender.
+> **[5:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=309)** There are courses available specifically on [[Microsoft Defender]].
 >
 > **[5:14](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-365-defender?u=76281980&t=314)** Be careful, there's different flavors of Microsoft Defender.
 >
@@ -1845,7 +1826,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[Microsoft 365]] (8), [[Microsoft Defender|Defender]] (8), [[Microsoft]] (5), data (5)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft Defender|Defender]] (8), [[Microsoft]] (5), [[SharePoint]] (1), [[Microsoft Entra ID|Entra id]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1857,16 +1838,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configure multifactor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
+#### [Configure multifactor authentication](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=0)** Security is top of mind for most organizations, and a great way of securing the access to your resources, such as your mailboxes and the data stored in SharePoint Online is by implementing multi-factor authentication or forcing your users to use more than one method of authentication.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=0)** Security is top of mind for most organizations, and a great way of securing the access to your resources, such as your mailboxes and the data stored in [[SharePoint]] Online is by implementing [[Multi-factor Authentication]] or forcing your users to use more than one method of authentication.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=22)** The first method of authentication all users are using is username, password combination. And you can set various password rules to enforce your users to use complex passwords.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=35)** You can also set policies using Microsoft Entra to specify what conditions must exist for a user to access your resources.
+> **[0:35](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=35)** You can also set policies using [[Microsoft]] [[Microsoft Entra ID|Entra]] to specify what conditions must exist for a user to access your resources.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=44)** Those are called conditional access policies.
 >
@@ -1874,7 +1854,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=80)** So let's take a look at how we implement multi-factor authentication.
 >
-> **[1:24](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=84)** And I can do it from the Entra admin center or I can do it from the Microsoft 365 admin center.
+> **[1:24](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=84)** And I can do it from the Entra admin center or I can do it from the [[Microsoft 365]] admin center.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=91)** So when I click under Users, Active users, I see that I have an option here for multi-factor authentication.
 >
@@ -1884,7 +1864,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=109)** As of the recording of this course, this is still the only way to implement MFA.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=113)** Later on in late 2024, we expect Microsoft to update the Entra portal to include multi-factor authentication settings, but for now, you are redirected to the oldest of Azure portals, which is the [windowsazure.com](https://windowsazure.com) portal.
+> **[1:53](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=113)** Later on in late 2024, we expect Microsoft to update the Entra portal to include multi-factor authentication settings, but for now, you are redirected to the oldest of [[Microsoft Azure|Azure]] portals, which is the [windowsazure.com](https://windowsazure.com) portal.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=130)** And from that portal, I can go ahead and find users and enable them for multi-factor authentication.
 >
@@ -1906,7 +1886,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=171)** As I mentioned, a code sent to them by phone, a code sent to them by a text message, or a notification through a mobile app.
 >
-> **[2:59](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=179)** So the mobile app is the Microsoft Authenticator app, or verification code from a mobile app or a hardware token.
+> **[2:59](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=179)** So the mobile app is the Microsoft Authenticator app, or verification code from a mobile app or a [[Hardware]] token.
 >
 > **[3:05](https://www.linkedin.com/learning/microsoft-365-administration/configure-multifactor-authentication?u=76281980&t=185)** So if I have a third-party hardware device that would be used to generate a code, and then that code would be entered in when I authenticate.
 >
@@ -1938,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Security]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (7), [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (4), [[Hardware]] (2), [[SharePoint]] (1)
 > **Env Vars:** mfa (16)
 > **UI Navigation:** click on (4)
 > **Analogies:** such as (2), for example (1)
@@ -1947,22 +1927,21 @@ created: 2026-05-02
 > **URLs:** [windowsazure.com](https://windowsazure.com) (1)
 > **Definitions:** is a  (1)
 
-#### Configuring SharePoint sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980)
+#### [Configuring SharePoint sites](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=0)** So you're already familiar with SharePoint Online and some of the functionalities available with the SharePoint admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=0)** So you're already familiar with [[SharePoint]] Online and some of the functionalities available with the SharePoint admin center.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=7)** Now let's take a closer look at SharePoint sites.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=11)** So in an earlier video in this course, I created a Microsoft 365 group.
+> **[0:11](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=11)** So in an earlier video in this course, I created a [[Microsoft 365]] group.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=17)** I also mentioned that this group now becomes other things.
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=22)** It has other magical functionalities that are enabled within Microsoft 365 for multiple workloads.
 >
-> **[0:29](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=29)** It is a Microsoft Team, but it is also a SharePoint site.
+> **[0:29](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=29)** It is a [[Microsoft]] Team, but it is also a SharePoint site.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=35)** So under SharePoint sites, when I click on "Active sites", I see my Marketing Canada Microsoft 365 group, but it's also my Marketing Canada SharePoint site.
 >
@@ -2000,7 +1979,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=171)** Well, let's go ahead and take a look at this site actually. If I click on "View site", it will actually direct me to SharePoint Online to view the site.
 >
-> **[2:57](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=177)** And by the way, if I click "Open in Teams", it will open up the site directly within Microsoft Teams.
+> **[2:57](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=177)** And by the way, if I click "Open in Teams", it will open up the site directly within [[Microsoft Teams]].
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=184)** So I'm going to click "View site" to access the site within the browser.
 >
@@ -2012,7 +1991,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=213)** So this SharePoint site has a folder here called general.
 >
-> **[3:36](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=216)** And you can link that folder into Microsoft OneDrive in your OneDrive client in Windows and it will look like a regular folder.
+> **[3:36](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=216)** And you can link that folder into [[Microsoft OneDrive]] in your [[Microsoft OneDrive|OneDrive]] client in [[Windows]] and it will look like a regular folder.
 >
 > **[3:44](https://www.linkedin.com/learning/microsoft-365-administration/configuring-sharepoint-sites?u=76281980&t=224)** And you can store files of all types in this site.
 >
@@ -2020,7 +1999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft]] (4), [[Microsoft 365]] (2), teams (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft]] (4), [[Microsoft 365]] (2), [[Microsoft Teams]] (1), [[Microsoft OneDrive]] (1)
 > **UI Navigation:** click on (5)
 > **Definitions:** is a  (2)
 > **Env Vars:** url (1)
@@ -2028,14 +2007,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** configure (1)
 
-#### Managing Microsoft Teams settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980)
+#### [Managing Microsoft Teams settings](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=0)** So now that we've become a little familiar with the Microsoft Teams admin center, let's take a look a little bit closer at the teams that we have in here.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=0)** So now that we've become a little familiar with the [[Microsoft Teams]] admin center, let's take a look a little bit closer at the teams that we have in here.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=9)** So in my Microsoft 365 tenant, I have several Microsoft teams that I've created for several purposes.
+> **[0:09](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=9)** So in my [[Microsoft 365]] tenant, I have several Microsoft teams that I've created for several purposes.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=18)** And these teams allow me to share information with users working on a specific project, a shared project.
 >
@@ -2061,7 +2039,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=101)** If I move on to my settings, I'll note that all of the settings for the teams are found here.
 >
-> **[1:48](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=108)** So the first thing to note is that you have the privacy of the team.
+> **[1:48](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=108)** So the first thing to note is that you have the [[Privacy]] of the team.
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=112)** So this team by default is created as a public team.
 >
@@ -2089,7 +2067,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=176)** So that's called a mention.
 >
-> **[2:58](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=178)** You can do that in Outlook emails, you can do that in Teams chats, Teams messages as well.
+> **[2:58](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=178)** You can do that in [[Microsoft Outlook|Outlook]] emails, you can do that in Teams chats, Teams messages as well.
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=183)** So you can specify whether that's allowed or disallowed.
 >
@@ -2099,11 +2077,11 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=196)** And then we've got fun settings.
 >
-> **[3:17](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=197)** Now, I love the fact that Microsoft labeled these fun settings because essentially they have no implication besides being fun.
+> **[3:17](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=197)** Now, I love the fact that [[Microsoft]] labeled these fun settings because essentially they have no implication besides being fun.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=204)** It's whether or not you're allowed to use things like thumbs up and smiley faces and stickers within chats.
 >
-> **[3:32](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=212)** So all of those are similar to what you would use in a text messaging application on an iPhone or an Android mobile device.
+> **[3:32](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=212)** So all of those are similar to what you would use in a text messaging application on an iPhone or an [[Android]] mobile device.
 >
 > **[3:39](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-settings?u=76281980&t=219)** All these little fun communication memes that they have in there.
 >
@@ -2125,19 +2103,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (18), [[Microsoft]] (2), [[Microsoft Teams]] (2), business (2), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1), [[Privacy]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (3)
 > **Definitions:** is a  (2)
 > **Analogies:** similar to (1), such as (1)
 > **Code Identifiers:** iphone (1)
 > **Warnings:** note that (1)
 
-#### Managing Microsoft Teams users
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980)
+#### [Managing Microsoft Teams users](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=0)** Once you assign a license to one of your users in Microsoft 365, they become a Teams user and they will appear in this list of users here in the Teams admin center.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=0)** Once you assign a license to one of your users in [[Microsoft 365]], they become a Teams user and they will appear in this list of users here in the Teams admin center.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=12)** So if I look for my user accounts here, I can specify properties for this user account.
 >
@@ -2145,7 +2122,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=22)** And now that I'm in my specific user settings, I can go ahead and configure a number of options.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=28)** Now it's interesting to note: The first thing here is that some of these settings in my organization have been set by Microsoft and cannot be changed.
+> **[0:28](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=28)** Now it's interesting to note: The first thing here is that some of these settings in my organization have been set by [[Microsoft]] and cannot be changed.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=37)** So Microsoft lets you know not everything here is for you to modify.
 >
@@ -2183,13 +2160,13 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=136)** Next, I have Teams devices. Teams devices are any devices that I've actually loaded into my profile.
 >
-> **[2:23](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=143)** So actual hardware devices such as microphones or speakers or so on that I've loaded into my account.
+> **[2:23](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=143)** So actual [[Hardware]] devices such as microphones or speakers or so on that I've loaded into my account.
 >
 > **[2:31](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=151)** I see any policies that have affected my Team user account, different permissions, different configurations that have affected the way that I can communicate with other users, sign in to teams, manage resources and teams.
 >
 > **[2:45](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=165)** All of that is defined through policies.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=167)** And there are several courses available on Microsoft Teams where you can go into detail on all of these various policies.
+> **[2:47](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=167)** And there are several courses available on [[Microsoft Teams]] where you can go into detail on all of these various policies.
 >
 > **[2:55](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=175)** And then I have usage. Usage lets me know how much I have used of various services.
 >
@@ -2219,11 +2196,11 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=279)** So these are my Teams user configuration.
 >
-> **[4:43](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=283)** Again, these are used in collaboration with the user configurations that I have in Microsoft 365 and the user configurations that I have in Microsoft Entra ID.
+> **[4:43](https://www.linkedin.com/learning/microsoft-365-administration/managing-microsoft-teams-users?u=76281980&t=283)** Again, these are used in collaboration with the user configurations that I have in Microsoft 365 and the user configurations that I have in [[Microsoft Entra ID]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (18), [[Microsoft]] (4), [[Microsoft 365]] (3), cloud (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft 365]] (3), [[Hardware]] (1), [[Microsoft Teams]] (1), [[Microsoft Entra ID]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1)
 > **UI Navigation:** click on (3)
 > **Analogies:** such as (1), for example (1)
@@ -2236,18 +2213,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beyond Microsoft 365 Administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)
+#### [Beyond Microsoft 365 Administration](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=0)** Thank you for joining me in this course on Microsoft 365 Administration.
+> **[0:00](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=0)** Thank you for joining me in this course on [[Microsoft 365]] Administration.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=5)** We've looked at the combination of all the various Microsoft 365 workloads, but now it's time for you to dig deeper into every single one of those workloads if you are using them in your organization.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=18)** There are different ways for you to learn more about Exchange Online, Microsoft Teams, SharePoint Online, and Microsoft Entra.
+> **[0:18](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=18)** There are different ways for you to learn more about Exchange Online, [[Microsoft Teams]], [[SharePoint]] Online, and [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=26)** In order to do that, you can follow some of my courses available on the LinkedIn Library.
+> **[0:26](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=26)** In order to do that, you can follow some of my courses available on the [[LinkedIn]] Library.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-365-administration/beyond-microsoft-365-administration?u=76281980&t=31)** Some of those courses focus on Entra or Exchange Online. As well, you can browse through Microsoft Learn and go through the various documentations available from Microsoft Learns specifically on all of those workloads.
 >

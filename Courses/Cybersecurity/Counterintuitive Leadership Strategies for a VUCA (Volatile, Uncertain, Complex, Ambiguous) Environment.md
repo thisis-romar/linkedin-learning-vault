@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Disrupt your own way of working and thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/disrupt-your-own-way-of-working-and-thinking?u=76281980)
+#### [Disrupt your own way of working and thinking](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/disrupt-your-own-way-of-working-and-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,15 +115,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), product (1), business (1)
 > **Speakers:** - like (1)
 
-#### Equipping yourself for a new leadership landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/equipping-yourself-for-a-new-leadership-landscape?u=76281980)
+#### [Equipping yourself for a new leadership landscape](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/equipping-yourself-for-a-new-leadership-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/equipping-yourself-for-a-new-leadership-landscape?u=76281980&t=1)** - Today, the rules for leadership success have radically changed, which makes sense if you consider the seismic shifts in the business environment, from artificial-intelligence-driven solutions, to big data revelations.
+> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/equipping-yourself-for-a-new-leadership-landscape?u=76281980&t=1)** - Today, the rules for leadership success have radically changed, which makes sense if you consider the seismic shifts in the business environment, from artificial-intelligence-driven solutions, to [[Big Data]] revelations.
 >
 > **[0:14](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/equipping-yourself-for-a-new-leadership-landscape?u=76281980&t=14)** There's also more uncertainty, more chaos, and constant pressure, enormous expectations.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (6), business (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1)
 > **Env Vars:** pdf (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** download the (1)
@@ -181,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Myth of motion
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980)
+#### [Myth of motion](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=102)** You have deadlines and goals.
 >
-> **[1:45](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=105)** I'm also not suggesting that you trade in your office desk for a yoga mat.
+> **[1:45](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=105)** I'm also not suggesting that you trade in your [[Microsoft Office|office]] desk for a yoga mat.
 >
 > **[1:49](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=109)** My recommendation is to be more selective.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=128)** In fact, neuroscientists at Washington University decided to test this theory.
 >
-> **[2:14](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=134)** They looked at the brain scan data of people doing math problems and word games.
+> **[2:14](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=134)** They looked at the brain scan data of people doing math problems and [[Microsoft Word|word]] games.
 >
 > **[2:19](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/myth-of-motion?u=76281980&t=139)** The intense focus of those tasks cause sharp spikes in some parts of the brain but major declines in others.
 >
@@ -258,13 +254,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), [[Microsoft Office|Office]] (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** dna (1)
 > **Speakers:** - as (1)
 
-#### Case in point: The corporate leadership retreat
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980)
+#### [Case in point: The corporate leadership retreat](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -276,7 +271,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980&t=12)** A major tech company brought me in to coach some executives during a leadership retreat.
 >
-> **[0:17](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980&t=17)** They were divided into teams to compete in an outdoor business simulation.
+> **[0:17](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980&t=17)** They were divided into teams to compete in an outdoor business [[Simulation]].
 >
 > **[0:22](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-corporate-leadership-retreat?u=76281980&t=22)** Essentially, a highly complex scavenger hunt on a nature trail.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2), teams (2), business (1), [[Simulation]] (1), power (1)
+> **Frameworks & Libraries:** [[Simulation]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - today (1)
@@ -344,8 +339,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The prison of perspectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980)
+#### [The prison of perspectives](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +371,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980&t=64)** Along the way, they search for evidence to confirm their theories, which means they place greater value on the sources that support their positions, and they gravitate toward facts that reinforce and confirm their thinking.
 >
-> **[1:18](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980&t=78)** That way, they can rest easy knowing they were correct.
+> **[1:18](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980&t=78)** That way, they can [[Representational State Transfer (REST)|rest]] easy knowing they were correct.
 >
 > **[1:21](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-prison-of-perspectives?u=76281980&t=81)** Except sometimes, they're not.
 >
@@ -421,13 +415,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), business (2), [[Representational State Transfer (REST)|Rest]] (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** roi (1)
 > **Speakers:** - as (1)
 
-#### Case in point: The museum at the Rhode Island School of Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-museum-at-the-rhode-island-school-of-design?u=76281980)
+#### [Case in point: The museum at the Rhode Island School of Design](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-museum-at-the-rhode-island-school-of-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,7 +492,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), data (1), game (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
@@ -508,14 +500,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The addiction to hard data
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980)
+#### [The addiction to hard data](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=1)** - Leaders today are drowning in data.
 >
-> **[0:03](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=3)** We've got advanced software, sophisticated algorithms, and enormous databases that can help us collect and analyze information about well, pretty much anything.
+> **[0:03](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=3)** We've got advanced software, sophisticated [[Algorithms]], and enormous [[Databases]] that can help us collect and analyze information about well, pretty much anything.
 >
 > **[0:13](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=13)** And while data is hugely valuable for leaders, it can have limitations.
 >
@@ -539,9 +530,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=68)** First, they aren't afraid to question the data.
 >
-> **[1:11](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=71)** Instead of accepting the facts and moving on, they recognize that interpretations may be skewed, that data collection errors sometimes occur, and they have the courage to dig deeper.
+> **[1:11](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=71)** Instead of accepting the facts and moving on, they recognize that interpretations may be skewed, that [[Data Collection]] errors sometimes occur, and they have the courage to dig deeper.
 >
-> **[1:22](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=82)** They are compelled to find out the rest of the story.
+> **[1:22](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=82)** They are compelled to find out the [[Representational State Transfer (REST)|rest]] of the story.
 >
 > **[1:25](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=85)** They talk to analysts, employees and customers.
 >
@@ -553,7 +544,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=117)** They search for patterns and stories, emotions and attitudes, worries and complaints.
 >
-> **[2:03](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=123)** They explore the nuances that don't show up in the statistics.
+> **[2:03](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=123)** They explore the nuances that don't show up in the [[Statistics]].
 >
 > **[2:07](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-addiction-to-hard-data?u=76281980&t=127)** These modern leaders value the concept of blending hard data with soft intelligence and they reap the benefits.
 >
@@ -563,13 +554,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Algorithms]] (1), [[Databases]] (1), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Databases]] (1), [[Data Collection]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - leaders (1)
 
-#### Case in point: Nokia
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980)
+#### [Case in point: Nokia](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -617,13 +607,13 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=141)** Looking at the numbers alone sent them down the wrong road with their brand strategy.
 >
-> **[2:26](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=146)** In 2012, the company ended up losing four billion and ultimately was forced to sell off its phone business to Microsoft.
+> **[2:26](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=146)** In 2012, the company ended up losing four billion and ultimately was forced to sell off its phone business to [[Microsoft]].
 >
 > **[2:36](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=156)** Leaders in all types of companies run the risk of making the same tragic error in judgment.
 >
 > **[2:42](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=162)** They tend to value the measurable more than the unmeasurable.
 >
-> **[2:47](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=167)** They get blinded by the numbers and the statistics, so they miss out on the human insights behind them that can actually drive sales and revenue.
+> **[2:47](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=167)** They get blinded by the numbers and the [[Statistics]], so they miss out on the human insights behind them that can actually drive sales and revenue.
 >
 > **[2:57](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nokia?u=76281980&t=177)** Here's the key for you.
 >
@@ -643,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), feature (1), business (1), [[Microsoft]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - one (1)
@@ -653,8 +643,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The rut of routines
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-rut-of-routines?u=76281980)
+#### [The rut of routines](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-rut-of-routines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,16 +721,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), business (2), product (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - avid (1)
 
-#### Case in point: Nabob Foods Limited
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980)
+#### [Case in point: Nabob Foods Limited](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=1)** - I want to give you an example of the prune-to-gro concept by telling you about a company called Nabob Foods Limited, a packaged foods company with a wide portfolio of grocery products.
+> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=1)** - I want to give you an example of the prune-to-gro concept by telling you about a company called Nabob Foods Limited, a packaged foods company with a wide portfolio of grocery [[Microsoft Products|products]].
 >
 > **[0:11](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=11)** Some years ago, they were facing tremendous challenges.
 >
@@ -751,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=21)** The owner saw the writing the wall.
 >
-> **[0:24](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=24)** So, as a last ditch effort, they hired a promising young executive named John Bell as VP of marketing.
+> **[0:24](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=24)** So, as a last ditch effort, they hired a promising young executive named [[John the Ripper|John]] Bell as VP of marketing.
 >
 > **[0:32](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-nabob-foods-limited?u=76281980&t=32)** Bell would have to make some tough decisions about the company's 12 different product lines if he wanted to help the organization survive.
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** ceo (1)
 > **Speakers:** - i (1)
@@ -829,8 +816,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The obsession with informing
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-obsession-with-informing?u=76281980)
+#### [The obsession with informing](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-obsession-with-informing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,12 +896,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), teams (3), business (2), leadership (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - maybe (1)
 
-#### Case in point: The venture capital presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980)
+#### [Case in point: The venture capital presentation](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -927,9 +911,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=20)** Karina had spent weeks preparing her pitch.
 >
-> **[0:23](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=23)** She had PowerPoint slides and handouts, economic indicators, statistics about trends for consumer spending in the home furnishings industry.
+> **[0:23](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=23)** She had [[Microsoft PowerPoint|PowerPoint]] slides and handouts, economic indicators, [[Statistics]] about trends for consumer spending in the home furnishings industry.
 >
-> **[0:32](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=32)** She talked about the scalability of her business model, the opportunities to reduce cost for raw materials, and the anticipated ROI.
+> **[0:32](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=32)** She talked about the [[Scalability]] of her business model, the opportunities to reduce cost for raw materials, and the anticipated ROI.
 >
 > **[0:40](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-the-venture-capital-presentation?u=76281980&t=40)** At the end of her very thorough presentation she waited in silence for someone on the committee to respond.
 >
@@ -985,7 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Statistics]] (2), data (2), next (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - i (1)
@@ -995,12 +979,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The trap of expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980)
+#### [The trap of expertise](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980&t=1)** - As a leader, you likely share an inherent quality with others in your role, an inner drive to excel.
+> **[0:01](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980&t=1)** - As a leader, you likely share an inherent quality with others in your role, an inner drive to [[Microsoft Excel|excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-trap-of-expertise?u=76281980&t=7)** That goal oriented focus is probably what made you ripe for leadership.
 >
@@ -1060,12 +1043,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), leadership (2), [[Microsoft Excel|Excel]] (1), business (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### Case in point: Martial arts
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-martial-arts?u=76281980)
+#### [Case in point: Martial arts](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-martial-arts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1127,7 +1109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (1), game (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** just like (1)
 > **Speakers:** - becoming (1)
@@ -1137,8 +1118,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The chains of best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-chains-of-best-practices?u=76281980)
+#### [The chains of best practices](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-chains-of-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,13 +1186,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - ask (1)
 
-#### Case in point: Capital One bank
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980)
+#### [Case in point: Capital One bank](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1222,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=12)** But I want to share a story with you about a company that decide to completely flip that script.
 >
-> **[0:18](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=18)** As you probably know, the banking industry was dramatically transformed by the digital evolution.
+> **[0:18](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=18)** As you probably know, the [[Banking]] industry was dramatically transformed by the digital evolution.
 >
 > **[0:24](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/case-in-point-capital-one-bank?u=76281980&t=24)** And before long, consumers could complete every financial transaction from their couches in the middle of the night.
 >
@@ -1278,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (5), next (1)
+> **Frameworks & Libraries:** [[Banking]] (5)
 > **Definitions:** known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - i (1)
@@ -1288,8 +1266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of enduring practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980)
+#### [The power of enduring practices](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1317,7 +1294,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=85)** People know when you're tuned in and when you're not.
 >
-> **[1:28](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=88)** By remaining present, you are showing respect, building trust, and strengthening relationships.
+> **[1:28](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=88)** By remaining present, you are showing respect, [[Building Trust]], and strengthening relationships.
 >
 > **[1:35](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=95)** Second, demonstrate grace and humility.
 >
@@ -1359,7 +1336,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=204)** For the leaders who embrace these five timeless qualities, their careers and their organizations are destined to thrive.
 >
-> **[3:32](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=212)** They intrinsically understand that their professional prominence isn't just based on the products they sold or the strategies they implemented.
+> **[3:32](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=212)** They intrinsically understand that their professional prominence isn't just based on the [[Microsoft Products|products]] they sold or the strategies they implemented.
 >
 > **[3:43](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/the-power-of-enduring-practices?u=76281980&t=223)** They use a different metric.
 >
@@ -1369,7 +1346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), teams (2), [[Building Trust]] (1), career (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - without (1)
 
@@ -1378,8 +1355,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### New strategies for success
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980)
+#### [New strategies for success](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1417,13 +1393,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980&t=115)** Your goal is to master knowing when to follow it and when to defy it.
 >
-> **[2:00](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980&t=120)** That's the decision-making nuance that will catapult your career into a real leadership legacy.
+> **[2:00](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980&t=120)** That's the [[Decision-Making]] nuance that will catapult your career into a real leadership legacy.
 >
 > **[2:07](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/new-strategies-for-success?u=76281980&t=127)** Make the choice to break free from the familiar and comfortable, and when you do, you will be better positioned to conquer the chaos of our ever changing and hyper speed world.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), [[Decision-Making]] (1), career (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pdf (1)
 > **Definitions:** in other words (1)
@@ -1435,8 +1411,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/counterintuitive-leadership-strategies-for-a-vuca-volatile-uncertain-complex-ambiguous-environment/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1472,7 +1447,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (4)
 > **CLI Commands:** make (1)
 > **URLs:** [saracanaday.com](https://saracanaday.com) (1)
 > **Definitions:** is a  (1)

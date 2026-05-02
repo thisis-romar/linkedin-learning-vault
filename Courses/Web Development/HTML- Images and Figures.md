@@ -85,14 +85,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980&t=0)** - [J. David] We can't imagine a web without images.
 >
-> **[0:02](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980&t=2)** But the very first version of HTML in 1992 didn't include images at all.
+> **[0:02](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980&t=2)** But the very first version of [[HTML]] in 1992 didn't include images at all.
 >
 > **[0:07](https://www.linkedin.com/learning/html-images-and-figures/welcome?u=76281980&t=7)** HTML version two had support for basic images and its been onward and upward ever since.
 >
@@ -116,18 +115,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), web (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [j (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/html-images-and-figures/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/what-you-should-know?u=76281980&t=1)** - [Instructor] In order to successfully complete this course, you need to know the essentials of HTML.
+> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/what-you-should-know?u=76281980&t=1)** - [Instructor] In order to successfully complete this course, you need to know the essentials of [[HTML]].
 >
 > **[0:05](https://www.linkedin.com/learning/html-images-and-figures/what-you-should-know?u=76281980&t=5)** You need to know that an HTML element consists of an opening tag, a closing tag, and the content between.
 >
@@ -141,12 +139,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Env Vars:** html (4), css (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up your computer
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980)
+#### [Setting up your computer](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -154,23 +151,23 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=6)** You'll want a web browser that has good support for developers.
 >
-> **[0:09](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=9)** I recommend either Google Chrome or Firefox Developer Edition.
+> **[0:09](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=9)** I recommend either [[Google]] Chrome or Firefox Developer Edition.
 >
 > **[0:13](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=13)** You'll also need a text editor.
 >
-> **[0:15](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=15)** If you don't already have a favorite text editor, you can use a simple yet powerful one like Notepad++ for Windows or Geany, which works on Window, Macintosh and Linux.
+> **[0:15](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=15)** If you don't already have a favorite text editor, you can use a simple yet powerful one like Notepad++ for [[Windows]] or Geany, which works on Window, Macintosh and [[Linux]].
 >
 > **[0:26](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=26)** Or you can go with an integrated development environment, like Atom or Visual Studio Code, which also work on Windows, Macintosh and Linux.
 >
 > **[0:35](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=35)** All of these are free to download and use.
 >
-> **[0:38](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=38)** In this course, I am using Firefox and Geany on a Windows 10 machine, but you'll be able to follow along with the software of your choice.
+> **[0:38](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=38)** In this course, I am using Firefox and Geany on a [[Windows 10]] machine, but you'll be able to follow along with the software of your choice.
 >
 > **[0:47](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=47)** If you have access to the exercise files for this course, each chapter contains a folder for each video.
 >
 > **[0:54](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=54)** In the specific video folder, you'll find begin and end.
 >
-> **[0:59](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=59)** The begin folder contains the HTML file and images for you to follow along at the start of the video, and the end folder shows the state of the files at the end.
+> **[0:59](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=59)** The begin folder contains the [[HTML]] file and images for you to follow along at the start of the video, and the end folder shows the state of the files at the end.
 >
 > **[1:09](https://www.linkedin.com/learning/html-images-and-figures/setting-up-your-computer?u=76281980&t=69)** Also in the exercise files folder, we've included the file links.html, which has all the links that we'll refer to throughout this course.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Windows]] (2), [[Linux]] (2), [[HTML]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Linux]] (2), [[HTML]] (2), [[Google]] (1), [[Windows 10]] (1)
 > **Tools:** firefox (2), atom (1), visual studio (1)
 > **Exercise Files:** exercise files (2)
 > **Prerequisites:** set up (2)
@@ -192,12 +189,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the img element and src attribute
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
+#### [Using the img element and src attribute](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980&t=1)** - [Instructor] Here are the essentials of adding an image into an HTML page.
+> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980&t=1)** - [Instructor] Here are the essentials of adding an image into an [[HTML]] page.
 >
 > **[0:04](https://www.linkedin.com/learning/html-images-and-figures/using-the-img-element-and-src-attribute?u=76281980&t=4)** Use the image element with the source, SRC attribute that gives the path to the image file.
 >
@@ -241,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), web (3), css (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **Env Vars:** html (4), xml (2), src (1), xhtml5 (1), html5 (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** picture (2)
@@ -250,8 +246,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Accessibility: alt and title attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980)
+#### [Accessibility: alt and title attributes](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980&t=14)** Hope you like it.
 >
-> **[0:15](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980&t=15)** - [Instructor] The only thing it read for the image was the word image.
+> **[0:15](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980&t=15)** - [Instructor] The only thing it read for the image was the [[Microsoft Word|word]] image.
 >
 > **[0:18](https://www.linkedin.com/learning/html-images-and-figures/accessibility-alt-and-title-attributes?u=76281980&t=18)** Not very helpful for the user to know what was in the image, was it?
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - [instructor] (3), - [computer] (2)
 > **Analogies:** picture (3), such as (1)
 > **CLI Commands:** make (3)
@@ -339,8 +334,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Best Practices:** general rule (1)
 
-#### Image size: Width and height
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980)
+#### [Image size: Width and height](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -390,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=119)** However, width and height are not always the answer.
 >
-> **[2:03](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=123)** Let's go back to our HTML and add a close-up image of the cherry blossoms picture.
+> **[2:03](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=123)** Let's go back to our [[HTML]] and add a close-up image of the cherry blossoms picture.
 >
 > **[2:09](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=129)** So I'll start a new paragraph, and this image will have a source of images, cherry_blossoms_closeup.jpg, and its alt attribute will be closeup of cherry blossoms with pink centers.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=210)** What's the solution to this problem?
 >
-> **[3:32](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=212)** Use an image editor program, like the preview app for Macintosh, Paint for Windows, or, as in this screenshot, the GNU image manipulation program, which works on Windows, Mac, and Linux.
+> **[3:32](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=212)** Use an image editor program, like the preview app for Macintosh, Paint for [[Windows]], or, as in this screenshot, the GNU image manipulation program, which works on Windows, Mac, and [[Linux]].
 >
 > **[3:45](https://www.linkedin.com/learning/html-images-and-figures/image-size-width-and-height?u=76281980&t=225)** I've used it to resize the picture and named it cherry_blossoms_closeup_small.jpg.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (2), [[HTML]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[HTML]] (1), [[Linux]] (1)
 > **Analogies:** picture (13)
 > **Versions:** 3.4 (5)
 > **Code Identifiers:** cherry_blossoms_closeup (1), cherry_blossoms_closeup_small (1)
@@ -439,14 +433,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Obtaining images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980)
+#### [Obtaining images](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980&t=1)** - [Instructor] Before we go further, let's address the subject of where you get images for your websites.
 >
-> **[0:05](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980&t=5)** If you needed a photo of the city of Tokyo, you might be tempted to go Google Images, search for an image you like and right click to save that image.
+> **[0:05](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980&t=5)** If you needed a photo of the city of Tokyo, you might be tempted to go [[Google]] Images, search for an image you like and right click to save that image.
 >
 > **[0:14](https://www.linkedin.com/learning/html-images-and-figures/obtaining-images?u=76281980&t=14)** No, don't do that.
 >
@@ -486,7 +479,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (3)
 > **Code Identifiers:** istock (1)
@@ -500,8 +493,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Image format overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
+#### [Image format overview](https://www.linkedin.com/learning/html-images-and-figures/image-format-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,14 +527,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **Env Vars:** gif (1), png (1), svg (1), jpeg (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### GIF and PNG: The format for line art
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980)
+#### [GIF and PNG: The format for line art](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -578,11 +568,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=78)** All the information in the original is stored precisely in the compressed version so when uncompressed the image will look exactly as the original did.
 >
-> **[1:25](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=85)** The algorithms used by GIF and PNG are significantly more complex than the one showing here but the idea is the same.
+> **[1:25](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=85)** The [[Algorithms]] used by GIF and PNG are significantly more complex than the one showing here but the idea is the same.
 >
 > **[1:31](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=91)** With PNG, ping, you can adjust the amount of compression that the algorithm uses.
 >
-> **[1:36](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=96)** Here are the statistics for compression of the image at the left.
+> **[1:36](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=96)** Here are the [[Statistics]] for compression of the image at the left.
 >
 > **[1:40](https://www.linkedin.com/learning/html-images-and-figures/gif-and-png-the-format-for-line-art?u=76281980&t=100)** The difference in amount of time needed to uncompress is negligible, so you may as well use the best compression all the time.
 >
@@ -592,12 +582,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Algorithms]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Statistics]] (1)
 > **Env Vars:** gif (9), png (4)
 > **Speakers:** - [instructor] (1)
 
-#### JPEG: The format for photos
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/jpeg-the-format-for-photos?u=76281980)
+#### [JPEG: The format for photos](https://www.linkedin.com/learning/html-images-and-figures/jpeg-the-format-for-photos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,8 +640,7 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### SVG: The format for vector line art
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980)
+#### [SVG: The format for vector line art](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -670,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980&t=29)** The file consists of commands that tell the browser what geometric shapes to draw.
 >
-> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980&t=33)** It looks a lot like HTML.
+> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980&t=33)** It looks a lot like [[HTML]].
 >
 > **[0:35](https://www.linkedin.com/learning/html-images-and-figures/svg-the-format-for-vector-line-art?u=76281980&t=35)** This example tells the browser to draw an ellipse and a rectangle with the specified positions, dimensions and styles.
 >
@@ -694,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), product (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** svg (6), png (2), gif (1), jpeg (1), html (1)
 > **Speakers:** - [instructor] (1)
 
@@ -703,12 +691,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Borders, padding, and spacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
+#### [Borders, padding, and spacing](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980&t=1)** - [Instructor] Let's look at how to use CSS, Cascading Style Sheets, to change how your images are displayed.
+> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980&t=1)** - [Instructor] Let's look at how to use CSS, [[Cascading Style Sheets (CSS)|Cascading Style Sheets]], to change how your images are displayed.
 >
 > **[0:08](https://www.linkedin.com/learning/html-images-and-figures/borders-padding-and-spacing?u=76281980&t=8)** Here's the markup for three pictures of eagle-themed art in Washington, D.C.
 >
@@ -770,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
+> **Frameworks & Libraries:** [[Cascading Style Sheets (CSS)|Cascading style sheets]] (1)
 > **Env Vars:** css (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (1), picture (1), similar to (1)
@@ -778,8 +765,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980)
+#### [Alignment](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=31)** Baseline is a typographical term.
 >
-> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=33)** Here it is in reference to other terms that you may see as you go through your career in web design.
+> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=33)** Here it is in reference to other terms that you may see as you go through your career in [[Web Design]].
 >
 > **[0:38](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=38)** You can adjust the alignment of the image with respect to the text by using the vertical align CSS property.
 >
@@ -841,7 +827,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=166)** To accomplish this, you use a style to clear left or clear right depending on the float to tell the browser, wait until the left side of the browser window is clear of any images before displaying this paragraph.
 >
-> **[3:04](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=184)** And now, no matter how much I zoom in on the text or no matter where I resize my window, I'm always guaranteed that the text will be below the image.
+> **[3:04](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=184)** And now, no matter how much I [[Zoom]] in on the text or no matter where I resize my window, I'm always guaranteed that the text will be below the image.
 >
 > **[3:15](https://www.linkedin.com/learning/html-images-and-figures/alignment?u=76281980&t=195)** If you have images that are floated both to the left and right as you see in this screenshot, you can use clear both to ensure the text doesn't appear until the browser window is clear of images on both sides.
 >
@@ -851,13 +837,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), next (2), career (1), web (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[Zoom]] (1)
 > **Env Vars:** css (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Images and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980)
+#### [Challenge: Images and text](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -871,7 +856,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980&t=15)** The original sizes for each image is listed here.
 >
-> **[0:18](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980&t=18)** The HTML file I've provided you has comments that tell you what needs to be done.
+> **[0:18](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980&t=18)** The [[HTML]] file I've provided you has comments that tell you what needs to be done.
 >
 > **[0:22](https://www.linkedin.com/learning/html-images-and-figures/challenge-images-and-text?u=76281980&t=22)** The heading on lines 17 to 21 will have the flags of Germany and Munich on either side of the text, vertically aligned with the middle of the text.
 >
@@ -891,15 +876,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** html (1)
 > **Cross-References:** next video (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [man] (1)
 
-#### Solution: Images and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/solution-images-and-text?u=76281980)
+#### [Solution: Images and text](https://www.linkedin.com/learning/html-images-and-figures/solution-images-and-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,15 +955,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), css (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
 > **Env Vars:** css (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special effects
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/special-effects?u=76281980)
+#### [Special effects](https://www.linkedin.com/learning/html-images-and-figures/special-effects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1043,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1), [[Search]] (1)
 > **Analogies:** picture (5)
 > **Env Vars:** css (3)
 > **CLI Commands:** make (1)
@@ -1069,9 +1050,9 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is an  (1)
 > **Best Practices:** remember to (1)
+> **Speakers:** - [instructor] (1)
 
-#### Background images
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980)
+#### [Background images](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1103,7 +1084,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980&t=69)** I'm going to use this file, travel-globe-light.png instead so the text is easier to see.
 >
-> **[1:16](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980&t=76)** Back in the HTML, I'm going to modify the URL.
+> **[1:16](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980&t=76)** Back in the [[HTML]], I'm going to modify the URL.
 >
 > **[1:22](https://www.linkedin.com/learning/html-images-and-figures/background-images?u=76281980&t=82)** Save.
 >
@@ -1159,7 +1140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **Env Vars:** css (3), url (3), html (2)
 > **URLs:** [mozilla.org](https://mozilla.org) (1)
 > **UI Navigation:** scroll down (1)
@@ -1171,12 +1152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Resolution and pixel density
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
+#### [Resolution and pixel density](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980&t=1)** - [Instructor] Responsive design, or how you design your images so they work on a wide variety of devices is something everyone who works with HTML should learn.
+> **[0:01](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980&t=1)** - [Instructor] Responsive design, or how you design your images so they work on a wide variety of devices is something everyone who works with [[HTML]] should learn.
 >
 > **[0:09](https://www.linkedin.com/learning/html-images-and-figures/resolution-and-pixel-density?u=76281980&t=9)** In the preceding chapters, our pages will work fine if our viewers have only one type of display device, say a monitor.
 >
@@ -1210,8 +1190,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling pixel density
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980)
+#### [Handling pixel density](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,7 +1206,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980&t=31)** There's one new thing here on line six.
 >
-> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980&t=33)** When you're doing responsive images you need this meta element to tell the browser to use the full window width with a scaling factor of 1, which is no zoom.
+> **[0:33](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980&t=33)** When you're doing responsive images you need this meta element to tell the browser to use the full window width with a scaling factor of 1, which is no [[Zoom]].
 >
 > **[0:45](https://www.linkedin.com/learning/html-images-and-figures/handling-pixel-density?u=76281980&t=45)** This factor can range from 0.1 to 10.
 >
@@ -1252,8 +1231,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using srcset and sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980)
+#### [Using srcset and sizes](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=22)** Ordinarily, these would be identical images other than their dimensions, but in order to show the effect more clearly, I've labeled each of the pictures with their width as shown in this example.
 >
-> **[0:34](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=34)** Here's the HTML so far with just the 200 pixel image on line 16 and 17.
+> **[0:34](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=34)** Here's the [[HTML]] so far with just the 200 pixel image on line 16 and 17.
 >
 > **[0:39](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=39)** As before, we have the meta element on line six to tell the browser to use the full window width with an initial scaling factor of one.
 >
@@ -1309,7 +1287,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=209)** This resizing on the fly works great in Firefox but not in Chrome, because Chrome keeps the largest image cached and reuses it.
 >
-> **[3:37](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=217)** To show you that srcset really does work in Chrome, I opened several new windows, resized them, and then loaded the web page.
+> **[3:37](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=217)** To show you that srcset really does work in Chrome, I opened several new [[Windows]], resized them, and then loaded the web page.
 >
 > **[3:45](https://www.linkedin.com/learning/html-images-and-figures/using-srcset-and-sizes?u=76281980&t=225)** As you can see, the correct sized image displays for each sized window.
 >
@@ -1317,7 +1295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (1), next (1), [[Windows]] (1), web (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Windows]] (1)
 > **Analogies:** picture (3), for example (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html (1)
@@ -1326,8 +1304,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Testing screen resolutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/testing-screen-resolutions?u=76281980)
+#### [Testing screen resolutions](https://www.linkedin.com/learning/html-images-and-figures/testing-screen-resolutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,15 +1350,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **UI Navigation:** select the (2), go to (1), toggle (1)
 > **Tools:** firefox (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Use srcset
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980)
+#### [Challenge: Use srcset](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1389,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980&t=5)** This is a challenge about using sourceset and sizes.
 >
-> **[0:09](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980&t=9)** Start by opening the index dot html file in the exercise files.
+> **[0:09](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980&t=9)** Start by opening the index dot [[HTML]] file in the exercise files.
 >
 > **[0:13](https://www.linkedin.com/learning/html-images-and-figures/challenge-use-srcset?u=76281980&t=13)** Follow the instructions in the comments of the index dot html page starting by adding the meta element after line six.
 >
@@ -1440,8 +1415,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Use srcset
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980)
+#### [Solution: Use srcset](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1423,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=5)** To save time, I've already set up the basic image elements with appropriate alt attributes on lines 18 and 19 as well as here on lines 37 and 38.
 >
-> **[0:17](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=17)** Now I type the meta element to set the view port to be the width of the entire device and an initial scale of one for no zoom.
+> **[0:17](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=17)** Now I type the meta element to set the view port to be the width of the entire device and an initial scale of one for no [[Zoom]].
 >
 > **[0:36](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=36)** I'll save that and load the page in the browser to make sure that the defaults give a reasonable display before I try expanding on the mark up.
 >
@@ -1487,19 +1461,18 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=168)** There's a lot more to responsive design than we've shown you in these videos.
 >
-> **[2:52](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=172)** You can find more courses in the library by doing a search for responsive web design.
+> **[2:52](https://www.linkedin.com/learning/html-images-and-figures/solution-use-srcset?u=76281980&t=172)** You can find more courses in the library by doing a search for [[Responsive Web Design]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (1), [[Search]] (1), [[Responsive Web Design]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Responsive Web Design]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (clicking) (1)
 
-#### Art direction: The picture element
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/art-direction-the-picture-element?u=76281980)
+#### [Art direction: The picture element](https://www.linkedin.com/learning/html-images-and-figures/art-direction-the-picture-element?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1551,7 +1524,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** picture (4)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** ipad (1)
@@ -1563,8 +1535,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using figure and figcaption elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
+#### [Using figure and figcaption elements](https://www.linkedin.com/learning/html-images-and-figures/using-figure-and-figcaption-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1616,8 +1587,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Autonumbering figures with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980)
+#### [Autonumbering figures with CSS](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1627,13 +1597,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=9)** Let me show you what I mean.
 >
-> **[0:11](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=11)** By searching Google Scholar for web design, I'll scroll down a bit and look at this article about sitemaps and storyboards.
+> **[0:11](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=11)** By searching [[Google]] Scholar for [[Web Design]], I'll scroll down a bit and look at this article about sitemaps and storyboards.
 >
 > **[0:22](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=22)** And if I scroll down, here's figure two with a caption below it.
 >
 > **[0:26](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=26)** Let's add figure numbers to the figures we created in the preceding video.
 >
-> **[0:30](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=30)** In our HTML, we could type the words figure one, figure two and so on inside each fig caption.
+> **[0:30](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=30)** In our [[HTML]], we could type the words figure one, figure two and so on inside each fig caption.
 >
 > **[0:36](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=36)** But the browser can do that for you with CSS.
 >
@@ -1651,7 +1621,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=80)** And then the content to be displayed.
 >
-> **[1:23](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=83)** Which is the word figure followed by a space.
+> **[1:23](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=83)** Which is the [[Microsoft Word|word]] figure followed by a space.
 >
 > **[1:27](https://www.linkedin.com/learning/html-images-and-figures/autonumbering-figures-with-css?u=76281980&t=87)** The current counter value.
 >
@@ -1673,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), [[Google]] (1), web (1), [[HTML]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Web Design]] (1), [[HTML]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** css (5), html (1)
 > **UI Navigation:** scroll down (2), go to (1)
 > **CLI Commands:** find (1)
@@ -1684,8 +1654,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,9 +1674,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=29)** If you're going the technical route, here are some courses in the library you might want to take.
 >
-> **[0:34](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=34)** The CSS essential trainings, motion design with CSS, and creating responsive web design.
+> **[0:34](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=34)** The CSS essential trainings, motion design with CSS, and creating [[Responsive Web Design]].
 >
-> **[0:40](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=40)** There's a large selection of graphic design courses, as well.
+> **[0:40](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=40)** There's a large selection of [[Graphic Design]] courses, as well.
 >
 > **[0:44](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=44)** From introduction to advanced levels.
 >
@@ -1719,13 +1688,13 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=62)** Even if you aren't doing graphics in that area, the book is so beautiful designed and well-written that you will definitely learn a lot.
 >
-> **[1:08](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=68)** Whichever route you take, either technical or artistic, or both, enjoy your future projects working with images and figures in HTML.
+> **[1:08](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=68)** Whichever route you take, either technical or artistic, or both, enjoy your future projects working with images and figures in [[HTML]].
 >
 > **[1:16](https://www.linkedin.com/learning/html-images-and-figures/next-steps?u=76281980&t=76)** Thanks so much for taking this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1), [[Responsive Web Design]] (1), [[Graphic Design]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Responsive Web Design]] (1), [[Graphic Design]] (1), [[HTML]] (1)
 > **Env Vars:** css (4), html (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

@@ -99,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You are a target and the first line of defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
+#### [You are a target and the first line of defense](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=0)** - In today's digital world, you and your organization are cyber targets.
 >
-> **[0:04](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=4)** Artificial intelligence can add to this feeling of vulnerability.
+> **[0:04](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=4)** [[Artificial Intelligence (AI)|Artificial intelligence]] can add to this feeling of vulnerability.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=9)** As a leader, you must create the vision for dealing with these risks.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=27)** Then, mitigate your risks to reduce the impacts.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=30)** Good cybersecurity is like brakes on a fast car.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=30)** Good [[Cybersecurity]] is like brakes on a fast car.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/you-are-a-target-and-the-first-line-of-defense-24392561?u=76281980&t=34)** It helps you to avoid obstacles.
 >
@@ -128,7 +127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
@@ -137,8 +136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the big picture overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
+#### [Understand the big picture overview](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,19 +154,18 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980&t=48)** For example, in the spring and summer of 2017, a piece of malicious code, an out-of-control cyber weapon eventually called NotPetya, stormed across Europe, causing over $10 billion in total damages.
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980&t=63)** This event, along with others, have led many people to believe that Russia is currently using Ukraine as a cyber war testing ground, a laboratory for perfecting new forms of online combat.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980&t=63)** This event, along with others, have led many people to believe that Russia is currently using Ukraine as a cyber war testing ground, a laboratory for perfecting new [[Forms]] of online combat.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/understand-the-big-picture-overview?u=76281980&t=76)** Online criminals and cyber warriors are certainly hard to defend against, but we'll also talk about a leading cause of cyber failure that you have some influence over; your insider threat.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - you (1)
 
-#### Why are you a target?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980)
+#### [Why are you a target?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -186,7 +183,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980&t=51)** Did you know cyber criminals like to use your CPU and hard drive space for their unsuspecting victims?
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980&t=58)** It's a great way for them to send spam, high illicit files, launch attacks on other people, and mine a cryptocurrency.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980&t=58)** It's a great way for them to send spam, high illicit files, launch attacks on other people, and mine a [[Cryptocurrency]].
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-a-target?u=76281980&t=66)** Even if cyber criminals aren't trying to steal your time, it's going to cost you plenty of it to recover from a successful attack.
 >
@@ -208,13 +205,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (2), [[Cryptocurrency]] (1), business (1)
+> **Frameworks & Libraries:** [[Cryptocurrency]] (1)
 > **Env Vars:** cpu (1)
 > **Analogies:** for example (1)
 > **Speakers:** - these (1)
 
-#### Example: Organized crime
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980)
+#### [Example: Organized crime](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=101)** Cyber criminals usually strike by tricking you into clicking on a malicious link in an email or opening an infected file attachment.
 >
-> **[1:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=110)** This is called a phishing attack and when you are targeted by name, it's called a spear phishing or a whaling attack.
+> **[1:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=110)** This is called a [[Phishing]] attack and when you are targeted by name, it's called a spear phishing or a whaling attack.
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-organized-crime?u=76281980&t=119)** Our governments are still almost helpless to do anything about it.
 >
@@ -256,25 +252,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (2)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** fbi (1)
 > **Versions:** 3.5 (1)
 > **Speakers:** - let (1)
 
-#### Why are you in the line of fire?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980)
+#### [Why are you in the line of fire?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=0)** - Now that government sees cyberspace as a new domain to dominate, the internet has become a very dangerous place.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=7)** A few years ago, the cybersecurity company Mandiant released a detailed report describing Unit 61398, the secret cyber espionage division of the Chinese People's Liberation Army.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=7)** A few years ago, the [[Cybersecurity]] company Mandiant released a detailed report describing Unit 61398, the secret cyber espionage division of the Chinese People's Liberation Army.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=21)** This group is also called Advanced Persistent Threat 1 or APT1.
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=27)** According to the report, the Shanghai-based APT1 is staffed by hundreds of soldiers trained in network security, covert communications, and the English language.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=27)** According to the report, the Shanghai-based APT1 is staffed by hundreds of soldiers trained in [[Network Security]], covert communications, and the English language.
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=40)** Mandiant has watched attacks get launched from this unit against at least 141 companies spanning 20 major industries.
 >
@@ -288,7 +283,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=93)** But the United States and China aren't the only nations with armies in cyberspace.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=98)** Many people believe that Russia has been using Ukraine as a cyber war testing ground, a laboratory for perfecting new forms of global online combat.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=98)** Many people believe that Russia has been using Ukraine as a cyber war testing ground, a laboratory for perfecting new [[Forms]] of global online combat.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=109)** For example, the massive 2015 Ukrainian power outage affected nearly a quarter million people two days before Christmas.
 >
@@ -296,20 +291,19 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=125)** And in the hours before it invaded Ukraine in February 2022, Russia launched the AcidRain cyber weapon against Viasat, a satellite service used by the Ukrainian military.
 >
-> **[2:18](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=138)** This wiper permanently disabled Viasat hardware, knocking internet service and wind power generation offline for hundreds of thousands of people all over Europe.
+> **[2:18](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=138)** This wiper permanently disabled Viasat [[Hardware]], knocking internet service and wind power generation offline for hundreds of thousands of people all over Europe.
 >
 > **[2:30](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/why-are-you-in-the-line-of-fire?u=76281980&t=150)** In the next video, we'll take a look at another attack that's part of the ongoing cyber war between Russia and Ukraine and the collateral damage it caused to innocent bystanders.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Cybersecurity]] (1), [[Network Security]] (1), data (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Network Security]] (1), [[Forms]] (1), [[Hardware]] (1)
 > **Env Vars:** apt1 (4)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - now (1)
 
-#### Example: Cyber war cross-fire
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980)
+#### [Example: Cyber war cross-fire](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980&t=32)** At first, it looked like NotPetya was a type of ransomware, but NotPetya was in fact a weapon of state sponsored cyber warfare whose goal was to delete all the data on the computers that it accessed.
 >
-> **[0:46](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980&t=46)** The attack was designed around a flaw in Microsoft Windows that was discovered and weaponized by the National Security Agency into an exploit called EternalBlue.
+> **[0:46](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980&t=46)** The attack was designed around a flaw in [[Microsoft]] [[Windows]] that was discovered and weaponized by the National Security Agency into an exploit called EternalBlue.
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/example-cyber-war-cross-fire?u=76281980&t=56)** The attack was released when a compromised update to a Ukrainian tax preparation program was automatically distributed to all its users.
 >
@@ -343,18 +337,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft]] (1), [[Windows]] (1), [[Security]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Windows]] (1)
 > **Env Vars:** dhl (3)
 > **Speakers:** - let (1)
 
-#### Insider threat: Cyber failure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980)
+#### [Insider threat: Cyber failure](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980&t=0)** - Online criminals and cyber warriors are hard to defend against, but here's a leading cause of cyber failure that you do have some influence over.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980&t=8)** In a recent report called the Cybersecurity Intelligence Index, IBM found that 60% of all attacks were carried out by insiders.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980&t=8)** In a recent report called the [[Cybersecurity]] Intelligence Index, IBM found that 60% of all attacks were carried out by insiders.
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/insider-threat-cyber-failure?u=76281980&t=18)** Of these attacks, three quarters involved malicious intent, and one quarter involved inadvertent actors, which are people who were either manipulated into doing something they shouldn't have done, or they made mistakes.
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), data (2), [[Security]] (1), [[Engineering]] (1), web (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Env Vars:** ibm (1), ceo (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** later in (1)
@@ -405,12 +398,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Think about cybersecurity summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
+#### [Think about cybersecurity summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980&t=0)** - In this chapter, we'll explore how to think about cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980&t=0)** - In this chapter, we'll explore how to think about [[Cybersecurity]].
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/think-about-cybersecurity-summary?u=76281980&t=4)** As you'll see, cybersecurity is the result of a lot of little decisions you make every day.
 >
@@ -430,17 +422,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Not what you buy, how you travel
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980)
+#### [Not what you buy, how you travel](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=0)** - To be a good cyber risk manager, you need to understand the nature of cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=0)** - To be a good cyber risk manager, you need to understand the nature of [[Cybersecurity]].
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=6)** So, what is cybersecurity?
 >
@@ -482,7 +473,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=125)** The problem is that habits are hard to change.
 >
-> **[2:09](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=129)** And changing habits across your entire workforce can be very hard, which is why you'll need the help of your human resources leader to do it.
+> **[2:09](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=129)** And changing habits across your entire workforce can be very hard, which is why you'll need the help of your [[Human Resources (HR)|human resources]] leader to do it.
 >
 > **[2:18](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/not-what-you-buy-how-you-travel?u=76281980&t=138)** But it is possible to change your current habits and pick up better ones.
 >
@@ -498,15 +489,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (7), business (2), data (1), [[Human Resources (HR)|Human resources]] (1), power (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (7), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** in other words (1), is called (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - to (1)
 
-#### Germ theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/germ-theory?u=76281980)
+#### [Germ theory](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/germ-theory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,8 +533,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - i (1)
 
-#### Where to get IT support
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980)
+#### [Where to get IT support](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980&t=75)** I've spent a lot of time cleaning up after this kind of cyber attack, and it was awful for the victim.
 >
-> **[1:22](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980&t=82)** Unlike IT staff, cybersecurity pros want to give people only enough permissions to do their job.
+> **[1:22](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980&t=82)** Unlike IT staff, [[Cybersecurity]] pros want to give people only enough permissions to do their job.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/where-to-get-it-support?u=76281980&t=88)** And it makes us twitchy when folks are overly permissioned.
 >
@@ -584,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), [[Cybersecurity]] (1), business (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
@@ -594,12 +583,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid phishing attacks summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
+#### [Avoid phishing attacks summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980&t=0)** - Now that we've set ourselves up with some good large-scale perspectives on cybersecurity, let's explore how phishing works and how to reduce the risk that you'll fall for this style of cyber attack.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980&t=0)** - Now that we've set ourselves up with some good large-scale perspectives on [[Cybersecurity]], let's explore how [[Phishing]] works and how to reduce the risk that you'll fall for this style of cyber attack.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-phishing-attacks-summary?u=76281980&t=12)** A phishing attack requires a lot of preparation before releasing it, but phishing often works and it's widely used.
 >
@@ -621,12 +609,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - now (1)
 
-#### What are phishing attacks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980)
+#### [What are phishing attacks?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=0)** - Phishing attacks are the most common way for a criminal to gain a foothold into your world.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=0)** - [[Phishing]] attacks are the most common way for a criminal to gain a foothold into your world.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=6)** Of course, if you haven't been patching your systems in a timely manner, there may be easier ways to get into your network, because a phishing attack requires a lot of preparation before releasing it.
 >
@@ -636,9 +623,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=24)** A single email started a chain reaction that resulted in the biggest known business email compromise of all time.
 >
-> **[0:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=31)** Facebook and Google together lost $121 million to the same phisher.
+> **[0:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=31)** Facebook and [[Google]] together lost $121 million to the same phisher.
 >
-> **[0:37](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=37)** This criminal set up a fake company named Quanta Computer, the same name as a real hardware supplier to both victims.
+> **[0:37](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=37)** This criminal set up a fake company named Quanta Computer, the same name as a real [[Hardware]] supplier to both victims.
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-are-phishing-attacks?u=76281980&t=46)** The criminal then emailed Facebook and Google very convincing looking invoices, which they paid, to banks controlled by the attackers.
 >
@@ -662,16 +649,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (8), [[Google]] (2), business (1), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Phishing]] (8), [[Google]] (2), [[Hardware]] (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - phishing (1)
 
-#### Organizational response to phishing attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-phishing-attacks?u=76281980)
+#### [Organizational response to phishing attacks](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-phishing-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-phishing-attacks?u=76281980&t=0)** - Your goal is to give everyone in your organization protection against phishing.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-phishing-attacks?u=76281980&t=0)** - Your goal is to give everyone in your organization protection against [[Phishing]].
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-phishing-attacks?u=76281980&t=6)** Start by setting expectations in the form of a concise, easy to read policy.
 >
@@ -721,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (5), data (3), management (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Phishing]] (5)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (1), set up (1)
 > **Definitions:** is a  (1)
@@ -732,8 +718,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Stop malicious code summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
+#### [Stop malicious code summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/stop-malicious-code-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,8 +740,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
-#### What is malicious code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980)
+#### [What is malicious code?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,19 +764,19 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=56)** Melissa was a fast-spreading macro virus.
 >
-> **[1:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=60)** It was distributed as an email attachment that disabled the safeguards in Microsoft Word.
+> **[1:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=60)** It was distributed as an email attachment that disabled the safeguards in [[Microsoft Word]].
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=67)** Then, the virus sent itself to the first 50 people in the victim's address book.
 >
-> **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=73)** On Friday, March 26th, 1999, Melissa caused Microsoft to shut down all incoming email across the entire company.
+> **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=73)** On Friday, March 26th, 1999, Melissa caused [[Microsoft]] to shut down all incoming email across the entire company.
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=84)** A third type of malware is called a Trojan horse which is a program that appears harmless, but is in fact malicious.
 >
-> **[1:32](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=92)** Zeus is the name of a Trojan horse malware package that runs on Microsoft Windows.
+> **[1:32](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=92)** Zeus is the name of a Trojan horse malware package that runs on Microsoft [[Windows]].
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=98)** Zeus is spread mainly through websites and phishing.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=98)** Zeus is spread mainly through websites and [[Phishing]].
 >
-> **[1:42](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=102)** It's often used to steal online banking credentials by recording all your keystrokes.
+> **[1:42](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=102)** It's often used to steal online [[Banking]] credentials by recording all your keystrokes.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-malicious-code?u=76281980&t=109)** A Trojan horse is very difficult to detect because it hides itself using stealthy techniques.
 >
@@ -818,8 +802,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - malicious (1)
 
-#### Organizational response to malicious code
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980)
+#### [Organizational response to malicious code](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -863,13 +846,13 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=137)** You never know if attackers will follow through on their promises.
 >
-> **[2:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=141)** And most payments probably support terrorist organizations or terrorist sponsoring nations like North Korea or Iran, which means you'll be breaking U.S. law if you pay anyone listed as being prohibited by the Office of Foreign Asset Control.
+> **[2:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=141)** And most payments probably support terrorist organizations or terrorist sponsoring nations like North Korea or Iran, which means you'll be breaking U.S. law if you pay anyone listed as being prohibited by the [[Microsoft Office|Office]] of Foreign Asset Control.
 >
 > **[2:39](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-malicious-code?u=76281980&t=159)** Ultimately, ransom payments are votes for more cyber attacks, which is bad for our online community.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (2), next (1), web (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
@@ -881,8 +864,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid identity theft summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
+#### [Avoid identity theft summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,15 +878,14 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980&t=27)** And we'll see how to be successful.
 >
-> **[0:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980&t=29)** Your entire organization must work together to implement your cybersecurity policies.
+> **[0:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-identity-theft-summary?u=76281980&t=29)** Your entire organization must work together to implement your [[Cybersecurity]] policies.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Cybersecurity]] (1)
 > **Speakers:** - in (1)
 
-#### What is identity theft?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980)
+#### [What is identity theft?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -960,19 +941,18 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980&t=141)** An example is when someone fraudulently opens a credit line in your company's name.
 >
-> **[2:26](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980&t=146)** Or, when phishing attacks are committed using your brand, or the identity of one of your staff members.
+> **[2:26](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980&t=146)** Or, when [[Phishing]] attacks are committed using your brand, or the identity of one of your staff members.
 >
 > **[2:33](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-identity-theft?u=76281980&t=153)** That's why the $272,000 stolen from the Denver couple was a case of organizational identity theft.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.15 (1)
 > **Speakers:** - what (1)
 
-#### Organizational response to identity theft
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980)
+#### [Organizational response to identity theft](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,9 +982,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=72)** This is called least privilege.
 >
-> **[1:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=75)** I want you to do this on file shares whether they're local or in the cloud, also in databases and in the line of business software that processes it, encrypt sensitive data everywhere you can including hard drives, removable storage, mobile devices, databases, backup tapes, during file transfers and inside email.
+> **[1:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=75)** I want you to do this on file shares whether they're local or in the cloud, also in [[Databases]] and in the line of business software that processes it, encrypt sensitive data everywhere you can including hard drives, removable storage, mobile devices, databases, backup tapes, during file transfers and inside email.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=98)** You'll want to reduce the risk of your email server being used to send phishing messages.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=98)** You'll want to reduce the risk of your email server being used to send [[Phishing]] messages.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=105)** If your organization gets blacklisted by the anti-spam community, it could take days or weeks of hard work on your part to reverse their decision.
 >
@@ -1024,7 +1004,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=184)** Here are a few more actions you can take.
 >
-> **[3:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=186)** When you're ready to dispose of records that contain personally identifiable information, I want you to hire a destruction service to come on site and securely shred paper records, shred hard disk drives and all forms of removable media.
+> **[3:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=186)** When you're ready to dispose of records that contain personally identifiable information, I want you to hire a destruction service to come on site and securely shred paper records, shred hard disk drives and all [[Forms]] of removable media.
 >
 > **[3:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-identity-theft?u=76281980&t=201)** Make sure that you get a certificate of destruction every time.
 >
@@ -1034,7 +1014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Phishing]] (3), data (2), [[Databases]] (2), management (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Databases]] (2), [[Forms]] (1)
 > **Env Vars:** spf (1), dkim (1), dmarc (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), is called (1)
@@ -1047,8 +1027,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid financial cyber theft summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
+#### [Avoid financial cyber theft summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/avoid-financial-cyber-theft-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,8 +1045,7 @@ created: 2026-05-02
 >
 > **Speakers:** - it (1)
 
-#### What is financial cyber theft?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980)
+#### [What is financial cyber theft?](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1081,7 +1059,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=14)** By stealing credit card numbers, reusing user IDs and passwords that have been stolen from less secure websites, at banks.
 >
-> **[0:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=24)** They can use malicious software to brute force guess your banking credentials, or they can try to install a banking Trojan on your computer, like Zeus, to steal your banking credentials.
+> **[0:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=24)** They can use malicious software to brute force guess your [[Banking]] credentials, or they can try to install a banking Trojan on your computer, like Zeus, to steal your banking credentials.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=37)** They can conduct a social engineering fraud like a business email compromise, or talk to a customer service rep into giving them your mobile number and then hijack your online accounts one at a time.
 >
@@ -1121,7 +1099,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=181)** While outsiders try to steal trade secrets it's often easier for insiders to do it.
 >
-> **[3:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=187)** For example, Waymo, Google's self-driving car company, recently accused Uber of conspiring with a former employee to steal trade secrets.
+> **[3:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=187)** For example, Waymo, [[Google]]'s self-driving car company, recently accused Uber of conspiring with a former employee to steal trade secrets.
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/what-is-financial-cyber-theft?u=76281980&t=197)** During the trial, Waymo presented evidence including that the defendant downloaded 14,000 files of Google data just before he left the company.
 >
@@ -1131,14 +1109,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (3), [[Engineering]] (2), data (2), [[Google]] (2), business (1)
+> **Frameworks & Libraries:** [[Banking]] (3), [[Google]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - let (1)
 
-#### Organizational response to financial cyber theft
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980)
+#### [Organizational response to financial cyber theft](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,13 +1153,13 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=119)** Also, I want you to require everyone on staff to use two-factor authentication at every website where they conduct company business.
 >
-> **[2:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=128)** When using Microsoft's Office 365 or Google's G Suite, turn on single sign-on.
+> **[2:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=128)** When using [[Microsoft]]'s [[Microsoft Office|Office]] 365 or [[Google]]'s G Suite, turn on single sign-on.
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=135)** This will reduce the password burden and speed up the creation and deletion of user accounts.
 >
 > **[2:22](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=142)** If you're able to afford it, I also want you to consider using a cloud access security broker.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=149)** This is a product that allows your organization to extend your security policies into your cloud services.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=149)** This is a product that allows your organization to extend your security policies into your [[Cloud Services]].
 >
 > **[2:36](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/organizational-response-to-financial-cyber-theft?u=76281980&t=156)** This will give you centralized control of settings, such as the use of data encryption, and it lets you rapidly remove accounts when someone stops working for you.
 >
@@ -1200,7 +1177,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), next (2), business (2), cloud (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1), [[Cloud Services]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -1213,22 +1190,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Special topics summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
+#### [Special topics summary](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=0)** - In this chapter, we'll explore some cybersecurity emerging threats that you'll probably encounter in the future, if you haven't already.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=0)** - In this chapter, we'll explore some [[Cybersecurity]] emerging threats that you'll probably encounter in the future, if you haven't already.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=8)** I'll start by explaining how to deal with artificial intelligence as a workforce tool and as a weapon used to steal your organization's money.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=8)** I'll start by explaining how to deal with [[Artificial Intelligence (AI)|artificial intelligence]] as a workforce tool and as a weapon used to steal your organization's money.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=19)** Then I'll explain why your organization needs to practice reasonable cybersecurity and why you may want to do that under attorney-client privilege.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=29)** Next, because the impact of a cyber attack could overwhelm your finances and your ability to respond effectively, you'll see why it's a good idea to transfer some of the risk to an insurance company.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=43)** Vendor marketing materials appear to make the case that migrating to the cloud will solve all your cybersecurity problems, but you have responsibilities in the cloud too, and I'll tell you the rest of that story.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=43)** Vendor marketing materials appear to make the case that migrating to the cloud will solve all your cybersecurity problems, but you have responsibilities in the cloud too, and I'll tell you the [[Representational State Transfer (REST)|rest]] of that story.
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=57)** Next, internet of things devices are amazing and they usually arrive with very little built in security, which makes them incredibly useful to cyber attackers if they can compromise them.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=57)** Next, [[IoT|internet of things]] devices are amazing and they usually arrive with very little built in security, which makes them incredibly useful to cyber attackers if they can compromise them.
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/special-topics-summary-24394613?u=76281980&t=71)** We'll explain what you can do about that risk.
 >
@@ -1246,20 +1222,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), next (3), cloud (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[IoT|Internet of things]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980)
+#### [Artificial intelligence](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=0)** - Generative AI is rapidly changing how we work.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=0)** - [[Generative AI]] is rapidly changing how we work.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=4)** Companies are struggling to control its use by employees.
 >
-> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=8)** New AI features pop up daily in common tools like Microsoft Office.
+> **[0:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=8)** New AI features pop up daily in common tools like [[Microsoft Office]].
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=13)** This makes it hard for organizations to govern AI use effectively.
 >
@@ -1277,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=50)** A use case combines three key elements: the business goal, the type of data involved, and the AI tool that's being used.
 >
-> **[1:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=60)** For example, a use case might be using chat GPT to draft marketing emails with public data or using Microsoft Copilot to analyze internal sales data.
+> **[1:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=60)** For example, a use case might be using chat GPT to draft marketing emails with public data or using [[Microsoft Copilot]] to analyze internal sales data.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/artificial-intelligence?u=76281980&t=73)** By defining these use cases, you can better control how AI is used in your organization.
 >
@@ -1311,13 +1286,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), data (5), next (2), business (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Microsoft Office]] (1), [[Microsoft Copilot]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - generative (1)
 
-#### Deep fakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980)
+#### [Deep fakes](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,7 +1303,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=14)** Let's take a brief look at a real case and learn how to protect ourselves.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=19)** In early 2024, the British engineering firm Arup lost $25 million through its Hong Kong office.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=19)** In early 2024, the British engineering firm Arup lost $25 million through its Hong Kong [[Microsoft Office|office]].
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=28)** Arup is the company behind world famous buildings, such as the Sydney Opera House.
 >
@@ -1337,13 +1311,13 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=37)** Scammers used AI to fake video and audio of the company's CFO, along with a few other employees.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=45)** They set up a Zoom call with an accounts payable specialist.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=45)** They set up a [[Zoom]] call with an accounts payable specialist.
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=50)** The fake CFO ordered in an urgent and secret money transfer.
 >
 > **[0:55](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=55)** The accounts payable specialist fooled by the lifelike Zoom call, approved the transfer.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=61)** The specialist had initially suspected he had received a phishing email after all the email requested that normal security checks were to be bypassed due to the emergency.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=61)** The specialist had initially suspected he had received a [[Phishing]] email after all the email requested that normal security checks were to be bypassed due to the emergency.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=73)** However, the specialist put aside his doubts after the video call because everyone in attendance had looked and sounded just like colleagues he recognized.
 >
@@ -1359,7 +1333,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=111)** Use strong authentication.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=113)** Set up a monthly code word for high level approvals.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=113)** Set up a monthly code [[Microsoft Word|word]] for high level approvals.
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/deep-fakes?u=76281980&t=117)** This code should change regularly.
 >
@@ -1387,15 +1361,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Security]] (2), [[Engineering]] (1), [[Microsoft Office|Office]] (1), ai (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft Office|Office]] (1), [[Phishing]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (1), just like (1), for example (1)
 > **Env Vars:** cfo (2)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - deep (1)
 
-#### Reasonable cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980)
+#### [Reasonable cybersecurity](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1403,13 +1376,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=6)** Now, recognizing this new normal, the US government said that, "Putting the majority of our resources into prevention isn't a viable strategy anymore.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=16)** Instead, we need to practice reasonable cybersecurity."
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=16)** Instead, we need to practice reasonable [[Cybersecurity]]."
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=21)** The Federal Trade Commission says "An organization must practice reasonable security measures as compared to an entity of a similar size and sophistication, and given the type, amount, and methods of data collected."
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=36)** Now, following this definition, the FTC won't compare the cybersecurity of a small pizza joint to a bank but to other restaurants of its size.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=47)** To further define reasonable, the FTC points to the NIST Cybersecurity Framework, which, at a high level, says that you need to identify your digital assets and cyber risks, protect your digital assets from incidents, detect incidents promptly, quickly respond to incidents, and effectively recover from incidents.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=47)** To further define reasonable, the FTC points to the [[NIST]] Cybersecurity Framework, which, at a high level, says that you need to identify your digital assets and cyber risks, protect your digital assets from incidents, detect incidents promptly, quickly respond to incidents, and effectively recover from incidents.
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=71)** Now, let's take a look at two examples where the FTC charged organizations with having unreasonable cybersecurity.
 >
@@ -1417,7 +1390,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=84)** Twitter had given almost all of its employees administrative control over its core system, and the FTC charged that by providing administrative access to so many employees, Twitter increased the risk that a compromise of any one of its employees credentials could result in a serious breach.
 >
-> **[1:44](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=104)** In its case against Wyndham Worldwide Corporation, the FTC said the company failed to follow proper incident response procedures.
+> **[1:44](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=104)** In its case against Wyndham Worldwide Corporation, the FTC said the company failed to follow proper [[Incident Response]] procedures.
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/reasonable-cybersecurity?u=76281980&t=113)** As a result, intruders were able to gain access to the company's computer network on three separate occasions over a 21-month period.
 >
@@ -1429,12 +1402,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[NIST]] (2), [[Security]] (1), data (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8), [[NIST]] (2), [[Incident Response]] (1)
 > **Env Vars:** ftc (6), nist (2)
 > **Speakers:** - as (1)
 
-#### Cyber insurance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980)
+#### [Cyber insurance](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1462,9 +1434,9 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=68)** Compared to just a few years ago, it's harder to get cyber insurance at any price.
 >
-> **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=73)** If you can get a policy, make sure you have enough coverage and learn how to use the incident response features.
+> **[1:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=73)** If you can get a policy, make sure you have enough coverage and learn how to use the [[Incident Response]] features.
 >
-> **[1:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=81)** Insurance companies often provide digital forensics, crisis communications, legal defense, and data breach notification, all on demand.
+> **[1:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=81)** Insurance companies often provide [[Digital Forensics]], [[Crisis Communications]], legal defense, and data breach notification, all on demand.
 >
 > **[1:33](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=93)** You'll also get a data breach coach, usually an experienced lawyer.
 >
@@ -1500,19 +1472,18 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=166)** And one more thing, filling out the application is tricky because the questions can be confusing.
 >
-> **[2:52](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=172)** If you need help, check out my course, Cyber Insurance for IT Professionals, right here in the LinkedIn Learning Library.
+> **[2:52](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cyber-insurance-24398621?u=76281980&t=172)** If you need help, check out my course, Cyber Insurance for IT Professionals, right here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1), management (1), [[Incident Response]] (1), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[Digital Forensics]] (1), [[Crisis Communications]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Versions:** 1.4 (1)
 > **Warnings:** watch out (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - cyber (1)
 
-#### Cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980)
+#### [Cloud computing](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1524,17 +1495,17 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=18)** Putting your data into the cloud really means just putting your data on someone else's computer, but how does cyber security really work in the cloud?
 >
-> **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=27)** Here's how Amazon Web Services describes it.
+> **[0:27](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=27)** Here's how [[Amazon Web Services (AWS)|Amazon Web Services]] describes it.
 >
 > **[0:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=31)** While AWS manages security of the cloud, security in the cloud is the responsibility of the customer.
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=39)** So cloud works on a shared responsibility model.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=43)** This means that when you use AWS or Azure or Google Cloud, you inherit their controls, which is great.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=43)** This means that when you use AWS or [[Microsoft Azure|Azure]] or [[Google Cloud Platform (GCP)|Google Cloud]], you inherit their controls, which is great.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=51)** And then you build on top of AWS's controls.
 >
-> **[0:56](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=56)** So security of the cloud means you automatically get good things like data center access control, cooling and humidity control for hardware, and all-around protection from threats, vulnerabilities, abuse, and fraud, for the infrastructure of the service you are buying.
+> **[0:56](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=56)** So security of the cloud means you automatically get good things like data center access control, cooling and humidity control for [[Hardware]], and all-around protection from threats, vulnerabilities, abuse, and fraud, for the infrastructure of the service you are buying.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=75)** But, security in the cloud means you're responsible for turning on, properly configuring, and then managing the security functions that you'll use to achieve reasonable cyber security.
 >
@@ -1558,7 +1529,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=158)** So, in order for you to answer the question how do I secure my data on someone else's computer?
 >
-> **[2:44](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=164)** You need to know which cloud services you are using, and how the controls are configured.
+> **[2:44](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=164)** You need to know which [[Cloud Services]] you are using, and how the controls are configured.
 >
 > **[2:51](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cloud-computing?u=76281980&t=171)** Heavy users of cloud services should consider adding a Cloud Access Security Broker, or CASB.
 >
@@ -1568,7 +1539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), [[Security]] (11), data (11), aws (3), management (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Hardware]] (1)
 > **Env Vars:** aws (3), casb (2)
 > **CLI Commands:** aws (3), make (1)
 > **Definitions:** means that (1), in other words (1)
@@ -1576,16 +1547,15 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - cloud (1)
 
-#### Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980)
+#### [Internet of Things](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=0)** - Internet of things devices are amazing and usually arrive with few built-in security features, which lets cyber attackers use them to cause trouble for you and our online community.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=0)** - [[IoT|Internet of things]] devices are amazing and usually arrive with few built-in security features, which lets cyber attackers use them to cause trouble for you and our online community.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=13)** The total number of IoT devices is about 31 billion worldwide right now, and in just five years, that number will grow to over 75 billion devices.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=13)** The total number of [[IoT]] devices is about 31 billion worldwide right now, and in just five years, that number will grow to over 75 billion devices.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=25)** On the inside of most IoT devices, like a network attached video surveillance camera, is just a Linux computer.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=25)** On the inside of most IoT devices, like a network attached video surveillance camera, is just a [[Linux]] computer.
 >
 > **[0:34](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=34)** So, to a cyber attacker, it's just like the servers in a data center.
 >
@@ -1613,23 +1583,22 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=151)** So where does that leave you?
 >
-> **[2:33](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=153)** For your company's benefit, only buy IoT products that support secure configuration and centralized management from makers that release regular security updates.
+> **[2:33](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=153)** For your company's benefit, only buy IoT [[Microsoft Products|products]] that support secure configuration and centralized management from makers that release regular security updates.
 >
 > **[2:46](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/internet-of-things?u=76281980&t=166)** And be prepared to cheerfully spend a little bit more to get the IoT security you deserve.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (9), [[Security]] (4), data (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[IoT]] (9), [[IoT|Internet of things]] (1), [[Linux]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** just like (1), such as (1)
 > **Speakers:** - internet (1)
 
-#### Contractual firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980)
+#### [Contractual firewalls](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=0)** - Most every organization makes use of vendors to deliver products and services to their customers.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=0)** - Most every organization makes use of vendors to deliver [[Microsoft Products|products]] and services to their customers.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=6)** A credit card processor is a common example.
 >
@@ -1645,7 +1614,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=54)** You want to cover two important points.
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=57)** First, that you both will share responsibility for data security and second, that there will be an indemnification provision that describes who's financially responsible in the case of a data breach and the limits of that responsibility.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=57)** First, that you both will share responsibility for [[Data Security]] and second, that there will be an indemnification provision that describes who's financially responsible in the case of a data breach and the limits of that responsibility.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=76)** Here are the main points to cover when describing shared responsibility for data security.
 >
@@ -1663,7 +1632,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=141)** Next, I want you to describe what is considered to be authorized accessed by the vendor to your data and systems.
 >
-> **[2:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=149)** Make it clear that the vendor's access to your networks and databases is for them to perform the contracted work and won't be used for any other purpose.
+> **[2:29](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=149)** Make it clear that the vendor's access to your networks and [[Databases]] is for them to perform the contracted work and won't be used for any other purpose.
 >
 > **[2:41](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/contractual-firewalls?u=76281980&t=161)** Require your vendor to make sure that its staff do not attempt to break any security systems or attempt to obtain access to any programs or data that's beyond the scope of the agreement.
 >
@@ -1679,13 +1648,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Security]] (11), next (2), [[Microsoft Products|Products]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (6), [[Microsoft Products|Products]] (1), [[Databases]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - most (1)
 
-#### Third-party cyber risk management
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980)
+#### [Third-party cyber risk management](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,7 +1669,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=54)** So in addition to contractual firewalls, which I covered in a previous video, you would be wise to also use active cyber risk management with outside service providers.
 >
-> **[1:05](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=65)** You want to make sure the service organization can meet your particular requirements, such as your cyber security policy, federal data protection, regulations, state and regulatory data breach notifications and your right to audit their cybersecurity controls.
+> **[1:05](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=65)** You want to make sure the service organization can meet your particular requirements, such as your cyber security policy, federal data protection, regulations, state and regulatory data breach notifications and your right to audit their [[Cybersecurity]] controls.
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=86)** Beyond the contractual warranties, you should also request a copy of the vendor's service organization control or SOC report.
 >
@@ -1719,7 +1687,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=136)** They often don't have enough resources to respond to your questions with the quality and thoroughness that you need.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=142)** And outside service providers who use cloud services should provide you with the SOC reports for Rackspace, AWS, or whoever they use.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=142)** And outside service providers who use [[Cloud Services]] should provide you with the SOC reports for Rackspace, AWS, or whoever they use.
 >
 > **[2:32](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/third-party-cyber-risk-management?u=76281980&t=152)** Remember cloud services operate on a shared responsibility model.
 >
@@ -1733,7 +1701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (2), cloud (2), next (1), management (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** soc (3), aws (1)
 > **CLI Commands:** make (1), aws (1)
 > **Warnings:** watch out (1), be careful (1)
@@ -1742,8 +1710,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - when (1)
 
-#### Cybersecurity-related sales objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980)
+#### [Cybersecurity-related sales objectives](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1767,7 +1734,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=57)** Then, there are follow-up questions.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=59)** And after that, there are more time-consuming activities, like a vulnerability assessment on your product or your data network.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=59)** And after that, there are more time-consuming activities, like a [[Vulnerability Assessment]] on your product or your data network.
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=67)** And that's often followed by a round or two of questions about the results of the testing.
 >
@@ -1785,7 +1752,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=113)** For example, a $500 per month subscription to software.
 >
-> **[1:58](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=118)** And small firms are often struggling with substantial market risks that make cybersecurity seem tame by comparison.
+> **[1:58](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=118)** And small firms are often struggling with substantial market risks that make [[Cybersecurity]] seem tame by comparison.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=126)** If you're overwhelmed when selling to firms larger than yours, here are some tips.
 >
@@ -1797,7 +1764,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=156)** Another time-saving tactic is to provide potential buyers with a standard description of your cybersecurity.
 >
-> **[2:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=163)** You can base it on the NIST cybersecurity framework, ISO 27001, or a SIG questionnaire.
+> **[2:43](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=163)** You can base it on the [[NIST]] cybersecurity framework, ISO 27001, or a SIG questionnaire.
 >
 > **[2:50](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/cybersecurity-related-sales-objectives?u=76281980&t=170)** A final note on sharing the results of vulnerability testing.
 >
@@ -1809,14 +1776,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (3), data (2), express (1), management (1), [[Vulnerability Assessment]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Vulnerability Assessment]] (1), [[NIST]] (1)
 > **Env Vars:** nist (1), iso (1), sig (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - buyers (1)
 
-#### Active defense
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980)
+#### [Active defense](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,7 +1806,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=71)** That's why cyber defenders are now exploring and debating something called active defense.
 >
-> **[1:17](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=77)** Active defense is a term that refers to a spectrum of proactive cybersecurity measures that fall between traditional passive defense and full offense.
+> **[1:17](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=77)** Active defense is a term that refers to a spectrum of proactive [[Cybersecurity]] measures that fall between traditional passive defense and full offense.
 >
 > **[1:28](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=88)** Such measures could provide a powerful tool for addressing cyber threats to the private sector.
 >
@@ -1852,7 +1818,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=123)** Medium risk active defenses, like threat hunting, notification beacons, and information beacons are not yet in common usage, but are being experimented with.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=134)** And higher risk actions, like botnet takedowns, you remember Mirai from IoT video?
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=134)** And higher risk actions, like botnet takedowns, you remember Mirai from [[IoT]] video?
 >
 > **[2:20](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/active-defense?u=76281980&t=140)** And data rescue missions require close coordination with government.
 >
@@ -1870,7 +1836,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (1), [[Cybersecurity]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[IoT]] (1)
 > **Definitions:** is a  (2), refers to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - by (1)
@@ -1880,8 +1846,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1899,7 +1864,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=38)** If you don't already have a cyber security working group, you should make one.
 >
-> **[0:42](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=42)** But keep it small, just a senior decision maker, whoever's in charge of IT and the human resources leader is enough to start.
+> **[0:42](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=42)** But keep it small, just a senior decision maker, whoever's in charge of IT and the [[Human Resources (HR)|human resources]] leader is enough to start.
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=51)** Next, ask them to watch this course.
 >
@@ -1907,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=58)** If you want to go deeper, I'm the cohost of "The Cyber Risk Management Podcast."
 >
-> **[1:03](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=63)** What you'll hear in each episode is me and cybersecurity and privacy attorney Jake Bernstein of K&L Gates break down an important topic using ordinary business language.
+> **[1:03](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=63)** What you'll hear in each episode is me and [[Cybersecurity]] and [[Privacy]] attorney Jake Bernstein of K&L Gates break down an important topic using ordinary business language.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-for-executives-15086426/next-steps?u=76281980&t=75)** We release a new episode every other week, so check it out.
 >
@@ -1917,7 +1882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), next (2), [[Security]] (1), [[Human Resources (HR)|Human resources]] (1), management (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[Cybersecurity]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1)
 > **Speakers:** - you (1)

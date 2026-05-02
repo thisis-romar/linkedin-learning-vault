@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reducing your digital footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
+#### [Reducing your digital footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/reducing-your-digital-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), management (1)
 > **Speakers:** - are (1)
 
 
@@ -105,26 +103,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact and sustainability of digital transformation on the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
+#### [The impact and sustainability of digital transformation on the environment](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=1)** - Digital transformation is revolutionizing the world at an incredible rate.
+> **[0:01](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=1)** - [[Digital Transformation]] is revolutionizing the world at an incredible rate.
 >
-> **[0:05](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=5)** It's allowing businesses to become more efficient and productive while allowing customers to enjoy higher quality products, services, and experiences.
+> **[0:05](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=5)** It's allowing businesses to become more efficient and productive while allowing customers to enjoy higher quality [[Microsoft Products|products]], services, and experiences.
 >
 > **[0:16](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=16)** It is changing the way businesses communicate sell, develop, and deliver.
 >
 > **[0:22](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=22)** It is transforming the way people work and live and it's influencing the way data is gathered processed and managed to make better decisions.
 >
-> **[0:32](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=32)** When I'm talking about digital transformation I'm not just talking about the devices we use every day, I'm also talking about more advanced technologies like cloud computing big data and analytics, artificial intelligence and the internet of things, blockchain, social networking, realtime monitoring, and cyber security.
+> **[0:32](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=32)** When I'm talking about digital transformation I'm not just talking about the devices we use every day, I'm also talking about more advanced technologies like [[Cloud Computing]] [[Big Data]] and analytics, [[Artificial Intelligence (AI)|artificial intelligence]] and the [[IoT|internet of things]], [[Blockchain]], social networking, realtime monitoring, and cyber security.
 >
 > **[0:55](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=55)** All of these technologies require energy and resources from the environment to operate and be used.
 >
 > **[1:02](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=62)** It is essential that we recognize the importance of transitioning to a greener digital world and using technology in a more friendly way for the environment.
 >
-> **[1:13](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=73)** Sustainability of the planet means meeting the needs of today without compromising the ability of future generations to do the same.
+> **[1:13](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=73)** [[Sustainability]] of the planet means meeting the needs of today without compromising the ability of future generations to do the same.
 >
 > **[1:22](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-and-sustainability-of-digital-transformation-on-the-environment?u=76281980&t=82)** We can do this by preserving and protecting natural resources while still taking advantage of technology.
 >
@@ -132,12 +129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (1), data (1), cloud (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Microsoft Products|Products]] (1), [[Cloud Computing]] (1), [[Big Data]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - digital (1)
 
-#### Responsible use of digital assets to reduce carbon footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/responsible-use-of-digital-assets-to-reduce-carbon-footprint?u=76281980)
+#### [Responsible use of digital assets to reduce carbon footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/responsible-use-of-digital-assets-to-reduce-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -163,7 +159,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -173,12 +168,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the carbon footprint?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
+#### [What is the carbon footprint?](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980&t=0)** - Greenhouse gases are released through the burning of fossil fuels to generate electricity, heat buildings and transport people, products and services.
+> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980&t=0)** - Greenhouse gases are released through the burning of fossil fuels to generate electricity, heat buildings and transport people, [[Microsoft Products|products]] and services.
 >
 > **[0:10](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-the-carbon-footprint?u=76281980&t=10)** They are emitted through agricultural practices, the use of fertilizers, the composition of waste and aerosol use, as well as through the use of technology.
 >
@@ -208,13 +202,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - greenhouse (1)
 
-#### What is digital or invisible waste?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980)
+#### [What is digital or invisible waste?](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980&t=84)** While the energy required for a single search on the internet or to send an email is small, the amount of activities we carry out online increases year after year, and because so many people are doing the same at the same time, the collective impact is massive.
 >
-> **[1:44](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980&t=104)** First, because any digital files need processors and servers or cloud storage to be carried out and saved, also because to be carried out, we need physical devices such as cell phones, computers, and screens, which also consume energy.
+> **[1:44](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980&t=104)** First, because any digital files need processors and servers or [[Cloud Storage]] to be carried out and saved, also because to be carried out, we need physical devices such as cell phones, computers, and screens, which also consume energy.
 >
 > **[2:03](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/what-is-digital-or-invisible-waste?u=76281980&t=123)** And then, because when we discard those digital devices, we generate a significant amount of physical electronic waste, which again generates our carbon footprint.
 >
@@ -244,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - have (1)
@@ -254,8 +247,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The impact of device use on the carbon footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
+#### [The impact of device use on the carbon footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-device-use-on-the-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -283,12 +275,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (2)
 > **Warnings:** be aware (1)
 > **Speakers:** - using (1)
 
-#### The impact on the carbon footprint of devices on standby
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980)
+#### [The impact on the carbon footprint of devices on standby](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980&t=31)** But equipment on standby still uses energy.
 >
-> **[0:36](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980&t=36)** This result an increased energy cost and contributes to climate change by increasing carbon dioxide emissions.
+> **[0:36](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980&t=36)** This result an increased energy cost and contributes to [[Climate Change]] by increasing carbon dioxide emissions.
 >
 > **[0:45](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-on-the-carbon-footprint-of-devices-on-standby?u=76281980&t=45)** Equipment on standby can also be a source of unnecessary noise, especially if there is a lot of equipment plug into the same power socket.
 >
@@ -330,14 +320,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), game (1), [[Climate Change]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - have (1)
 
-#### The impact of energy consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-energy-consumption?u=76281980)
+#### [The impact of energy consumption](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-energy-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,11 +366,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), feature (1), data (1)
 > **Speakers:** - think (1)
 
-#### The impact of digital assets on the carbon footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980)
+#### [The impact of digital assets on the carbon footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980&t=59)** Delete photos and document that are no longer used on your devices or share spaces on the cloud.
 >
-> **[1:06](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980&t=66)** Unsubscribe from all emails or newsletters that no longer interest you.
+> **[1:06](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980&t=66)** Unsubscribe from all emails or [[Newsletters]] that no longer interest you.
 >
 > **[1:11](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-digital-assets-on-the-carbon-footprint?u=76281980&t=71)** Save your favorite webpages that you visit regularly so you don't have to look for them every time.
 >
@@ -419,16 +406,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1)
 > **Env Vars:** sms (1)
 > **Speakers:** - sending (1)
 
-#### Technological waste: Marketing and planned obsolescence vs. real needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980)
+#### [Technological waste: Marketing and planned obsolescence vs. real needs](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=1)** - Planned obsolescence is a business strategy in which manufacturers design products with a limited lifespan that forces us to replace digital devices at a rate that is not necessarily driven by our needs, but by the sale needs of companies.
+> **[0:01](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=1)** - Planned obsolescence is a business strategy in which manufacturers design [[Microsoft Products|products]] with a limited lifespan that forces us to replace digital devices at a rate that is not necessarily driven by our needs, but by the sale needs of companies.
 >
 > **[0:20](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=20)** This strategy is commonly seen in products such as household appliances, mobile phones, and electronic equipment.
 >
@@ -442,7 +428,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=50)** Ask yourself, "Do I really need that new equipment?"
 >
-> **[0:53](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=53)** It is also important to buy used and refurbished devices, and purchase equipment from manufacturers that are committed to sustainability and efficient recycling.
+> **[0:53](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=53)** It is also important to buy used and refurbished devices, and purchase equipment from manufacturers that are committed to [[Sustainability]] and efficient recycling.
 >
 > **[1:04](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/technological-waste-marketing-and-planned-obsolescence-vs-real-needs?u=76281980&t=64)** In case you want to check, companies normally share information about their carbon footprint and the activities they are implementing to reduce it in their sustainability reports.
 >
@@ -454,14 +440,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - planned (1)
 
-#### The impact of teleworking
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-teleworking?u=76281980)
+#### [The impact of teleworking](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-teleworking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,16 +478,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), data (1)
 > **Analogies:** such as (1)
 > **Speakers:** - remote (1)
 
-#### The impact of ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980)
+#### [The impact of ecommerce](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=0)** - E-commerce has a major impact on the environment as products purchase online require transportation leading to an increase in the use of fossil fuels.
+> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=0)** - [[E-Commerce]] has a major impact on the environment as [[Microsoft Products|products]] purchase online require transportation leading to an increase in the use of fossil fuels.
 >
 > **[0:11](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=11)** This is in addition to the impact of the devices, digital applications and servers needed to make transactions happen.
 >
@@ -510,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=24)** Use e-commerce sites that are transparent and provide clear reporting on the environmental considerations they take into account in their digital activities from the servers they use to the shipping services they offer to the packaging.
 >
-> **[0:39](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=39)** Avoid opening too many browser's windows or tabs while searching or selecting products or services as it requires more cloud resources and energy.
+> **[0:39](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=39)** Avoid opening too many browser's [[Windows]] or tabs while searching or selecting products or services as it requires more cloud resources and energy.
 >
 > **[0:50](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/the-impact-of-ecommerce?u=76281980&t=50)** Utilize price comparison sites to make the process faster and simpler.
 >
@@ -546,7 +529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (8), [[Search]] (5), [[Microsoft Products|Products]] (3), [[Windows]] (2), product (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (8), [[Microsoft Products|Products]] (3), [[Windows]] (2)
 > **CLI Commands:** make (5), find (3)
 > **Best Practices:** make sure to (2)
 > **Analogies:** such as (1)
@@ -557,8 +540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Awareness of our own digital impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
+#### [Awareness of our own digital impact](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/awareness-of-our-own-digital-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -609,12 +591,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - in (1)
 
-#### How to measure the time of use of digital services
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980)
+#### [How to measure the time of use of digital services](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=0)** - Are you aware of how many hours you spend in front of your mobile phone or computer when using Google, YouTube, social media, Spotify, and how much carbon dioxide you generate by doing so?
+> **[0:00](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=0)** - Are you aware of how many hours you spend in front of your mobile phone or computer when using [[Google]], YouTube, social media, Spotify, and how much carbon dioxide you generate by doing so?
 >
 > **[0:14](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=14)** If you don't know yet, you can do this.
 >
@@ -628,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=34)** How much productive time which you can further divide into time working or generating income and time helping someone or making a positive impact on society?
 >
-> **[0:46](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=46)** You can time your activities and also use tools and apps such as Screen Time for iOS, Quality Time for Android, and Rescue Time for desktop computers.
+> **[0:46](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=46)** You can time your activities and also use tools and apps such as Screen Time for iOS, Quality Time for [[Android]], and Rescue Time for desktop computers.
 >
 > **[0:58](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/how-to-measure-the-time-of-use-of-digital-services?u=76281980&t=58)** Once you have all the information analyze: Which device do you use the most?
 >
@@ -652,7 +633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Android]] (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Android]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Code Identifiers:** ios (1)
 > **Exercise Files:** exercise file (1)
@@ -663,8 +644,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goals and objectives to reduce your digital carbon footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
+#### [Goals and objectives to reduce your digital carbon footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/goals-and-objectives-to-reduce-your-digital-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,13 +672,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), cloud (1), next (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - during (1)
 
-#### Implement your digital impact reduction plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/implement-your-digital-impact-reduction-plan?u=76281980)
+#### [Implement your digital impact reduction plan](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/implement-your-digital-impact-reduction-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,8 +706,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - once (1)
 
-#### Modify your behavior to reduce your carbon footprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980)
+#### [Modify your behavior to reduce your carbon footprint](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980&t=39)** If you need more help with this than just a digital diary, you can use the alarm clock on your mobile phone to set reminders for yourself or when you need to do certain activities, or use a timer if you already know how much time you want to spend on something.
 >
-> **[0:55](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980&t=55)** You can use apps such as OneNote or Google Keep to have all the information and activities of your plan in one place, and then set reminders to implement those activities regularly.
+> **[0:55](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980&t=55)** You can use apps such as [[OneNote]] or [[Google]] Keep to have all the information and activities of your plan in one place, and then set reminders to implement those activities regularly.
 >
 > **[1:07](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/modify-your-behavior-to-reduce-your-carbon-footprint?u=76281980&t=67)** If you have any tips or best practices for implementing the changes you want to make, please share them in the Q&A section of this course.
 
@@ -757,8 +734,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - with (1)
 
-#### Measure your digital carbon footprint reduction results
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/measure-your-digital-carbon-footprint-reduction-results?u=76281980)
+#### [Measure your digital carbon footprint reduction results](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/measure-your-digital-carbon-footprint-reduction-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -792,7 +768,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
@@ -803,8 +778,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make changes in your workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)
+#### [Make changes in your workplace](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,7 +796,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980&t=38)** Mention the importance of getting the whole organization on board.
 >
-> **[0:43](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980&t=43)** Agree with your leader to share the idea with the technology, sustainability and human resources teams to spread it across the organization.
+> **[0:43](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980&t=43)** Agree with your leader to share the idea with the technology, [[Sustainability]] and [[Human Resources (HR)|human resources]] teams to spread it across the organization.
 >
 > **[0:52](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/make-changes-in-your-workplace?u=76281980&t=52)** Many organizations, especially larger ones, have sustainability or social responsibility reports which include the organization's impact on its carbon footprint.
 >
@@ -842,11 +816,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (2), [[Human Resources (HR)|Human resources]] (1), teams (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Human Resources (HR)|Human resources]] (1)
 > **Speakers:** - your (1)
 
-#### Influence others by sharing your results and best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980)
+#### [Influence others by sharing your results and best practices](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980&t=37)** Remember, it is only through the collective action of thousand of people that we can make a significant reduction in digital carbon footprint and have a positive impact on the planet.
 >
-> **[0:48](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980&t=48)** Think now about how you can spread the word about reducing our digital carbon footprint.
+> **[0:48](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980&t=48)** Think now about how you can spread the [[Microsoft Word|word]] about reducing our digital carbon footprint.
 >
 > **[0:55](https://www.linkedin.com/learning/digital-sustainability-how-to-reduce-your-digital-footprint/influence-others-by-sharing-your-results-and-best-practices?u=76281980&t=55)** Maybe a social media post or meeting with your friends.
 >
@@ -868,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - once (1)
 

@@ -83,14 +83,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980&t=0)** - [Scott] Storage is a critical component of systems.
 >
-> **[0:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980&t=3)** Documents, photos, music, databases, logs and code all need to live somewhere.
+> **[0:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980&t=3)** Documents, photos, music, [[Databases]], logs and code all need to live somewhere.
 >
 > **[0:09](https://www.linkedin.com/learning/ubuntu-linux-storage-management/welcome?u=76281980&t=9)** And depending on how large or how important this data is, you have different approaches and strategies for configuring and managing your storage.
 >
@@ -110,13 +109,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)
 
-#### Understanding storage terminology
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980)
+#### [Understanding storage terminology](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=65)** It's also much less expensive per unit of capacity.
 >
-> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=68)** If memory is a desk surface in an office, storage is the filing cabinet, where information that isn't currently being worked on is kept.
+> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=68)** If memory is a desk surface in an [[Microsoft Office|office]], storage is the filing cabinet, where information that isn't currently being worked on is kept.
 >
 > **[1:16](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=76)** The information is accessible to the system, in case it's needed, but it's not stored in memory all the time.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=147)** Character devices track information in bytes, interpreted as characters.
 >
-> **[2:32](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=152)** A parallel port for a printer, or a serial port, like you might use for communicating with a micro controller, or programming some sort of network hardware, is a character device.
+> **[2:32](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=152)** A parallel port for a printer, or a serial port, like you might use for communicating with a micro controller, or programming some sort of network [[Hardware]], is a character device.
 >
 > **[2:42](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=162)** The pieces of information sent back and forth are read as individual characters.
 >
@@ -208,9 +206,9 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=317)** A more recent type of partition management is called GPT, for GUID partition table, where GUID stands for Globally Unique Identifier, and it doesn't suffer from the same limitation on the number of partitions.
 >
-> **[5:29](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=329)** Most modern computers, especially Windows systems and Macs, use this partition type.
+> **[5:29](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=329)** Most modern computers, especially [[Windows]] systems and Macs, use this partition type.
 >
-> **[5:34](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=334)** Linux can use it as well, of course, and you'll probably use it if you want to dual-boot Linux on a fairly recent system, but it's still considered space in terms of partitions.
+> **[5:34](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=334)** [[Linux]] can use it as well, of course, and you'll probably use it if you want to dual-boot Linux on a fairly recent system, but it's still considered space in terms of partitions.
 >
 > **[5:45](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=345)** Once we have partitions, we can make filesystems on top of them, as we'll see later on, or we can go one step further, with a tool called LVM, which is an additional layer of management on top of standard partitions.
 >
@@ -230,7 +228,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=420)** The filesystem is the most user-facing part of the storage that we see.
 >
-> **[7:04](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=424)** It's the data structure that keeps track of bits, and shows them to us as files, in folders with various information, or metadata about their size, creation and modification dates, permissions, and so on.
+> **[7:04](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=424)** It's the data structure that keeps track of bits, and shows them to us as files, in folders with various information, or [[Metadata]] about their size, creation and modification dates, permissions, and so on.
 >
 > **[7:16](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-storage-terminology?u=76281980&t=436)** There are a number of different filesystems, with features like snapshots and journaling, and we'll get into those ideas a little bit more in detail later on.
 >
@@ -266,7 +264,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Hardware]] (4), management (4), parallel (3), power (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Linux]] (2), [[Metadata]] (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **Env Vars:** usb (4), lvm (3), ata (2), gpt (2), guid (2)
 > **Definitions:** is a  (3), is called (3), means that (2), refers to (1), stands for (1)
 > **CLI Commands:** make (4), find (2)
@@ -274,18 +272,17 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lab setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980)
+#### [Lab setup](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=0)** - [Instructor] In this course I'll be using VirtualBox and Ubuntu.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=0)** - [Instructor] In this course I'll be using VirtualBox and [[Ubuntu]].
 >
 > **[0:04](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=4)** I've already set up an Ubuntu virtual machine and if you haven't done that already, take a moment to download an installation .ISO and set up a VM to work in.
 >
-> **[0:13](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=13)** If you need help with that, check out our other courses on installing Linux in a VM.
+> **[0:13](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=13)** If you need help with that, check out our other courses on installing [[Linux]] in a VM.
 >
-> **[0:17](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=17)** I'll also be using some USB drives that are attached to my system for the storage management tasks that I'll be showing you throughout the course.
+> **[0:17](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=17)** I'll also be using some USB drives that are attached to my system for the [[Storage Management]] tasks that I'll be showing you throughout the course.
 >
 > **[0:24](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=24)** In my case, I have two 128 gigabyte disks attached, but the size doesn't matter too much.
 >
@@ -303,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=59)** A virtual machine is a great choice for practicing with storage because at the very worst, you may damage an imaginary computer rather than your real one.
 >
-> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=68)** As with many things in the Linux world, the hardware and naming that you see here may be different from yours, and you'll need to be able to follow along with the idea behind what's happening and apply it to your system, rather than just type what I show.
+> **[1:08](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=68)** As with many things in the Linux world, the [[Hardware]] and naming that you see here may be different from yours, and you'll need to be able to follow along with the idea behind what's happening and apply it to your system, rather than just type what I show.
 >
 > **[1:20](https://www.linkedin.com/learning/ubuntu-linux-storage-management/lab-setup?u=76281980&t=80)** That's especially the case when we get to partition and device names.
 >
@@ -311,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), data (3), [[Ubuntu]] (2), [[Storage Management]] (1), management (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (2), [[Storage Management]] (1), [[Hardware]] (1)
 > **Prerequisites:** set up (2), you'll need (1)
 > **Env Vars:** iso (1), usb (1)
 > **Warnings:** be careful (2)
@@ -324,8 +321,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore and identify block devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
+#### [Explore and identify block devices](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=90)** This one here is swap, for example, which is designed to act as system swap, and this one here is ext2 The internal disk here is ext4.
 >
-> **[1:41](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=101)** We'll dig into what these types are really about later on, but both of these are common file system types for general data storage on Linux systems.
+> **[1:41](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=101)** We'll dig into what these types are really about later on, but both of these are common file system types for general [[Data Storage]] on [[Linux]] systems.
 >
 > **[1:49](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=109)** You may also see vfat or lvm member depending on how your system is set up.
 >
@@ -427,7 +423,7 @@ created: 2026-05-02
 >
 > **[5:34](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=334)** Within here they're organized in various ways such as by path and by UUID.
 >
-> **[5:47](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=347)** And of you want to take a look at all kinds of information about your disk or volume, here in Ubuntu you can use the udevadm command with the info argument along with a path to a disk.
+> **[5:47](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=347)** And of you want to take a look at all kinds of information about your disk or volume, here in [[Ubuntu]] you can use the udevadm command with the info argument along with a path to a disk.
 >
 > **[6:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/explore-and-identify-block-devices?u=76281980&t=363)** This shows the device path, the various ways that it can be accessed, and other information the system can read from the device.
 >
@@ -435,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Linux]] (1), next (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Linux]] (1), [[Ubuntu]] (1)
 > **Env Vars:** uuid (6)
 > **CLI Commands:** find (2), ls (2), rm (1)
 > **Analogies:** for example (2), such as (1)
@@ -444,8 +440,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - one (1)
 
-#### Create and modify partitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980)
+#### [Create and modify partitions](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -493,7 +488,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=130)** In the table, I can see that this partition is sda1, and it's mounted at slash, so it's the root file system.
 >
-> **[2:18](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=138)** This extended partition is sda2, and it contains a Linux swap file system.
+> **[2:18](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=138)** This extended partition is sda2, and it contains a [[Linux]] swap file system.
 >
 > **[2:23](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=143)** That's a special kind of file system that the system uses to store things that it swaps out of memory if the memory starts to run low.
 >
@@ -501,7 +496,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=158)** I'll switch to one of my external drives now with the selector in the upper right.
 >
-> **[2:43](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=163)** This one, sdb, is a USB disk, and it's formatted to be compatible with Linux, Windows, and Mac.
+> **[2:43](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=163)** This one, sdb, is a USB disk, and it's formatted to be compatible with Linux, [[Windows]], and Mac.
 >
 > **[2:50](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=170)** It's fat32, which you can see here represented in green.
 >
@@ -591,7 +586,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=411)** Let's make this first partition 10 gigabytes.
 >
-> **[6:54](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=414)** Great, now let's make a second partition with mkpart, a name of p2, ext2 file system, starting at 10 gigabytes, and then I'll use 100% to tell parted to fill up the rest of the disk with this partition.
+> **[6:54](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=414)** Great, now let's make a second partition with mkpart, a name of p2, ext2 file system, starting at 10 gigabytes, and then I'll use 100% to tell parted to fill up the [[Representational State Transfer (REST)|rest]] of the disk with this partition.
 >
 > **[7:11](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=431)** Let's have a look at that with print.
 >
@@ -657,7 +652,7 @@ created: 2026-05-02
 >
 > **[10:02](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=602)** Here's the Linux file system one that we're already using, number 20.
 >
-> **[10:07](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=607)** We could change it to, say, Microsoft basic data, number 11.
+> **[10:07](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=607)** We could change it to, say, [[Microsoft]] basic data, number 11.
 >
 > **[10:12](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=612)** So I'll scroll back down and type 11.
 >
@@ -731,7 +726,7 @@ created: 2026-05-02
 >
 > **[13:32](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=812)** To do that, I'll move over here to write and press enter.
 >
-> **[13:37](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=817)** I'm asked to confirm, and I need to type out the word yes in order to make the change.
+> **[13:37](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=817)** I'm asked to confirm, and I need to type out the [[Microsoft Word|word]] yes in order to make the change.
 >
 > **[13:42](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-modify-partitions?u=76281980&t=822)** Just typing the letter Y won't do it.
 >
@@ -745,7 +740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (5), hit (2), [[Microsoft]] (2), data (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (5), [[Microsoft]] (2), [[Windows]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (17), apt (1), find (1), rm (1)
 > **Env Vars:** mbr (4), gpt (1), usb (1), tui (1)
 > **Tools:** command line (5)
@@ -754,8 +749,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2), before we start (1), set up (1)
 > **Analogies:** just like (1)
 
-#### Create, modify, and mount filesystems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980)
+#### [Create, modify, and mount filesystems](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -765,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=15)** It also provides a system for keeping files organized, or rather, presenting the lists of files that it knows about in a way that makes sense to us.
 >
-> **[0:24](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=24)** There are many different kinds of filesystems, most of which Linux supports natively.
+> **[0:24](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=24)** There are many different kinds of filesystems, most of which [[Linux]] supports natively.
 >
 > **[0:28](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=28)** But support for others can be added as well.
 >
@@ -795,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=118)** If you're interested in how different filesystems work under the hood, definitely check it out.
 >
-> **[2:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=123)** Linux also supports formats that work well across platforms, notably the FAT32 format which works on Windows and Mac.
+> **[2:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=123)** Linux also supports formats that work well across platforms, notably the FAT32 format which works on [[Windows]] and Mac.
 >
 > **[2:10](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=130)** But it's an older format, and it has some limitations like a four gigabyte cap on the size of individual files.
 >
@@ -845,7 +839,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=285)** The process of creating this filesystem takes a little while.
 >
-> **[4:48](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=288)** And we can see here that the program is making blocks that are four K in size and that there are backups of the superblock which stores metadata that defines the filesystem at specific block addresses in case anything happens to the original one.
+> **[4:48](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=288)** And we can see here that the program is making blocks that are four K in size and that there are backups of the superblock which stores [[Metadata]] that defines the filesystem at specific block addresses in case anything happens to the original one.
 >
 > **[5:03](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-modify-and-mount-filesystems?u=76281980&t=303)** And it's writing some of the other structures that the filesystem needs.
 >
@@ -919,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Linux]] (7), [[Windows]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Windows]] (2), [[Metadata]] (1)
 > **CLI Commands:** make (7), find (2), ls (1), mkdir (1)
 > **Definitions:** means that (5), is a  (3)
 > **Env Vars:** fat32 (4), xfs (2), fat (1)
@@ -928,12 +922,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and mount an encrypted partition
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980)
+#### [Create and mount an encrypted partition](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=0)** On a Linux system, we can encrypt whole partitions of disks in order to protect them from unauthorized access.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=0)** On a [[Linux]] system, we can encrypt whole partitions of disks in order to protect them from unauthorized access.
 >
 > **[0:07](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=7)** There's no such thing as perfect security, but protecting data with encryption and a password is certainly better than nothing if you have sensitive information to safeguard.
 >
@@ -989,7 +982,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=191)** So all we need to do is to create a file system of whatever type we need.
 >
-> **[3:16](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=196)** We could put a FAT32 file system in there if we wanted, and read it with LibreCrypt on Windows.
+> **[3:16](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=196)** We could put a FAT32 file system in there if we wanted, and read it with LibreCrypt on [[Windows]].
 >
 > **[3:21](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-and-mount-an-encrypted-partition?u=76281980&t=201)** But we'll just make a regular ext4 file system here.
 >
@@ -1033,15 +1026,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linux]] (2), [[Security]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1)
 > **Env Vars:** luks (2), stc2 (1), yes (1), lvm (1), fat32 (1)
 > **Prerequisites:** install (3), setup (1)
 > **CLI Commands:** make (2), mkdir (1)
 > **Code Identifiers:** luksformat (1), luksdump (1)
 > **Warnings:** be careful (1)
 
-#### Configure disk mounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/configure-disk-mounting?u=76281980)
+#### [Configure disk mounting](https://www.linkedin.com/learning/ubuntu-linux-storage-management/configure-disk-mounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1137,7 +1129,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **Env Vars:** uuid (7)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is an  (2)
@@ -1146,8 +1137,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mount volumes on demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/mount-volumes-on-demand?u=76281980)
+#### [Mount volumes on demand](https://www.linkedin.com/learning/ubuntu-linux-storage-management/mount-volumes-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,7 +1211,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cd (1)
 > **CLI Commands:** make (2), apt (1), systemctl (1), cd (1)
 > **Env Vars:** nfs (2), cifs (1)
 > **Prerequisites:** install (2)
@@ -1229,8 +1218,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reconfigure swap space
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/reconfigure-swap-space?u=76281980)
+#### [Reconfigure swap space](https://www.linkedin.com/learning/ubuntu-linux-storage-management/reconfigure-swap-space?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1350,7 +1338,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **Env Vars:** ram (11), etc (1)
 > **CLI Commands:** make (5), chmod (1), cat (1)
 > **Best Practices:** rule of thumb (1), it's best to (1)
@@ -1358,8 +1345,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create redundant storage with RAID
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980)
+#### [Create redundant storage with RAID](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980&t=168)** RAID doesn't care what your data is.
 >
-> **[2:51](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980&t=171)** On Linux, you can use the MDADM tool to create and manage RAID arrays.
+> **[2:51](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980&t=171)** On [[Linux]], you can use the MDADM tool to create and manage RAID arrays.
 >
 > **[2:56](https://www.linkedin.com/learning/ubuntu-linux-storage-management/create-redundant-storage-with-raid?u=76281980&t=176)** MD on Linux stands for multiple device, and MDADM, or the multiple device administration tool, can take raw disks, or partitions, and assemble them into various RAID configurations.
 >
@@ -1545,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Linux]] (2), management (1)
+> **Frameworks & Libraries:** [[Linux]] (2)
 > **Env Vars:** raid (37), mdadm (11), sdb (1), sdb1 (1)
 > **CLI Commands:** make (4), apt (2), mkdir (1), ls (1)
 > **Prerequisites:** install (4), setup (2), configure (1), set up (1)
@@ -1558,8 +1544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding LVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
+#### [Understanding LVM](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,11 +1568,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=74)** This volume group gives us the resources to create one or more logical volumes within it, and these logical volumes can hold file systems.
 >
-> **[1:22](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=82)** The physical and logical volumes are divided into units that are called extents, or chunks of blocks that we can use for data storage.
+> **[1:22](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=82)** The physical and logical volumes are divided into units that are called extents, or chunks of blocks that we can use for [[Data Storage]].
 >
 > **[1:30](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=90)** Because the logical volume manager is handling where the data is stored and how, using these extents that map to extents on physical volumes, we can move space around independently of how it's divided on our actual physical disks.
 >
-> **[1:44](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=104)** We can span a volume across many hard disks or configure the volumes so they act like RAID and provide some redundancy in the case of some kind of failure in our physical hardware.
+> **[1:44](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=104)** We can span a volume across many hard disks or configure the volumes so they act like RAID and provide some redundancy in the case of some kind of failure in our physical [[Hardware]].
 >
 > **[1:54](https://www.linkedin.com/learning/ubuntu-linux-storage-management/understanding-lvm?u=76281980&t=114)** We can also use LVM to extend a volume to a new hard drive and even shrink it back to remove an old hard drive from the system without having to back up and restore data.
 >
@@ -1627,7 +1612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), management (4), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Hardware]] (1)
 > **Env Vars:** lvm (7), raid (1), lvm2 (1)
 > **Prerequisites:** configure (2), install (1), make sure you have (1)
 > **CLI Commands:** make (2), apt (1)
@@ -1636,8 +1621,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - lvm (1)
 
-#### Creating a physical volume, volume group, and logical volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/creating-a-physical-volume-volume-group-and-logical-volume?u=76281980)
+#### [Creating a physical volume, volume group, and logical volume](https://www.linkedin.com/learning/ubuntu-linux-storage-management/creating-a-physical-volume-volume-group-and-logical-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1775,7 +1759,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), data (1)
 > **Env Vars:** lvm (7), gpt (2), free (2), ext (1), uuid (1)
 > **CLI Commands:** make (7), find (1), mkdir (1)
 > **Analogies:** for example (2)
@@ -1783,8 +1766,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Best Practices:** recommended (1)
 
-#### Extending a volume group and logical volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/extending-a-volume-group-and-logical-volume?u=76281980)
+#### [Extending a volume group and logical volume](https://www.linkedin.com/learning/ubuntu-linux-storage-management/extending-a-volume-group-and-logical-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1864,8 +1846,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Speakers:** - [instructor] (1)
 
-#### Migrating and replace a physical volume
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/migrating-and-replace-a-physical-volume?u=76281980)
+#### [Migrating and replace a physical volume](https://www.linkedin.com/learning/ubuntu-linux-storage-management/migrating-and-replace-a-physical-volume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1901,7 +1882,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **Env Vars:** lvm (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1912,12 +1892,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Access control lists (ACLs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
+#### [Access control lists (ACLs)](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980&t=0)** - [Instructor] Standard Linux permissions can be extended with ACLs or access control lists.
+> **[0:00](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980&t=0)** - [Instructor] Standard [[Linux]] permissions can be extended with ACLs or access control lists.
 >
 > **[0:05](https://www.linkedin.com/learning/ubuntu-linux-storage-management/access-control-lists-acls?u=76281980&t=5)** ACLs let us specify access to a file for individual users and groups, outside of the regular owner, group, others approach.
 >
@@ -1983,7 +1962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Env Vars:** acl (3)
 > **CLI Commands:** ls (1), make (1)
 > **Code Identifiers:** a_file (2)
@@ -1992,8 +1971,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Warnings:** warning (1)
 
-#### Exploring disk quotas
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/exploring-disk-quotas?u=76281980)
+#### [Exploring disk quotas](https://www.linkedin.com/learning/ubuntu-linux-storage-management/exploring-disk-quotas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2153,7 +2131,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), next (2), express (1)
 > **Prerequisites:** install (3), set up (1), setup (1), you'll need (1)
 > **CLI Commands:** make (2), apt (1), chmod (1)
 > **Code Identifiers:** inotes (3)
@@ -2161,9 +2138,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** just like (1)
 > **Warnings:** warning (1)
+> **Speakers:** - [narrator] (1)
 
-#### Diagnosing file access issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/diagnosing-file-access-issues?u=76281980)
+#### [Diagnosing file access issues](https://www.linkedin.com/learning/ubuntu-linux-storage-management/diagnosing-file-access-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2201,14 +2178,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), data (1)
 > **Env Vars:** acl (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backing up data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980)
+#### [Backing up data](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2218,7 +2193,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=14)** What's most important to keep in mind is the strategy and philosophy of backing up information.
 >
-> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=20)** We want information to be safe from loss and that loss can be physical rather than just digital so it's critical to keep a copy of important information in a separate physical location than the original data in case something terrible happens to your office or data center and damages all of the hardware.
+> **[0:20](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=20)** We want information to be safe from loss and that loss can be physical rather than just digital so it's critical to keep a copy of important information in a separate physical location than the original data in case something terrible happens to your [[Microsoft Office|office]] or data center and damages all of the [[Hardware]].
 >
 > **[0:36](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=36)** It's no good to only have a backup in the same bag as the laptop if the bag gets stolen.
 >
@@ -2274,7 +2249,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=198)** You should also consider how to back up servers.
 >
-> **[3:20](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=200)** You may need to consider the state of databases and caches in your backups, but that will be determined by what the servers are doing.
+> **[3:20](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=200)** You may need to consider the state of [[Databases]] and caches in your backups, but that will be determined by what the servers are doing.
 >
 > **[3:27](https://www.linkedin.com/learning/ubuntu-linux-storage-management/backing-up-data?u=76281980&t=207)** File system snapshots and things like that can help us keep data stable enough to back up periodically.
 >
@@ -2286,7 +2261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Office|Office]] (1), [[Hardware]] (1), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Hardware]] (1), [[Databases]] (1)
 > **CLI Commands:** make (6), tar (1)
 > **Prerequisites:** configure (2), install (1)
 > **Best Practices:** remember to (1)
@@ -2298,8 +2273,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2309,7 +2283,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980&t=11)** There are off course many more things in this space to explore.
 >
-> **[0:14](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980&t=14)** For a look at some of them, check out our Linux Storage Systems course.
+> **[0:14](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980&t=14)** For a look at some of them, check out our [[Linux]] Storage Systems course.
 >
 > **[0:19](https://www.linkedin.com/learning/ubuntu-linux-storage-management/next-steps?u=76281980&t=19)** As you continue learning and implementing storage systems, don't forget your passwords and remember to test your backups.
 >
@@ -2317,7 +2291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Linux]] (1)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [scott] (1)

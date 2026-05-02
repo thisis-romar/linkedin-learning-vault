@@ -81,22 +81,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=1)** - [Instructor] Hi, welcome to this course on Beginning Test Driven Development in C++.
 >
-> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=7)** My name is Rich Wells and I'm a software engineer with over 20 years of experience in software development, much of that using C++.
+> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=7)** My name is Rich Wells and I'm a software engineer with over 20 years of experience in [[Software Development]], much of that using C++.
 >
-> **[0:15](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=15)** I'm passionate about writing quality software and test-driven development is a key discipline every software developer should practice to ensure the quality of their code.
+> **[0:15](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=15)** I'm passionate about writing quality software and [[Test-Driven Development]] is a key discipline every software developer should practice to ensure the quality of their code.
 >
 > **[0:24](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=24)** I'm excited to show you how to use this discipline in your everyday coding process to help ensure the quality of your code base.
 >
-> **[0:33](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=33)** In this course, we'll go over what is unit testing and test-driven development and how will they help you?
+> **[0:33](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=33)** In this course, we'll go over what is [[Unit Testing]] and test-driven development and how will they help you?
 >
-> **[0:39](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=39)** What is Google Test and how is it used with test-driven development?
+> **[0:39](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=39)** What is [[Google]] Test and how is it used with test-driven development?
 >
 > **[0:43](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=43)** How to set up some common C++ development environments to use Google Test.
 >
@@ -108,11 +107,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=65)** The examples in this course are fairly simple but some C++ knowledge is necessary.
 >
-> **[1:10](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=70)** You should have a Windows, Linux, or Mac PC, as these operating systems support all the tools necessary for compiling and executing C++ programs with Google Test.
+> **[1:10](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=70)** You should have a [[Windows]], [[Linux]], or Mac PC, as these operating systems support all the tools necessary for compiling and executing C++ programs with Google Test.
 >
 > **[1:22](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=82)** Most of the examples in this course are performed using the Eclipse CDT IDE with the GNU C++ Compiler which is available for Windows, Linux, and Mac.
 >
-> **[1:32](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=92)** I also provide examples of how to set up Google Test with the Clion IDE which is also available for Windows, Linux, and Mac, and with Visual Studio in Windows, and the Xcode IDE on Mac.
+> **[1:32](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=92)** I also provide examples of how to set up Google Test with the Clion IDE which is also available for Windows, Linux, and Mac, and with Visual Studio in Windows, and the [[Xcode]] IDE on Mac.
 >
 > **[1:46](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/welcome?u=76281980&t=106)** So let's get started learning test-driven development for your C++ projects today.
 
@@ -130,20 +129,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is unit testing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980)
+#### [What is unit testing?](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=1)** - [Instructor] In this lecture, we're going to start the course on test-driven development by defining what unit testing actually is.
+> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=1)** - [Instructor] In this lecture, we're going to start the course on [[Test-Driven Development]] by defining what [[Unit Testing]] actually is.
 >
-> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=7)** We'll go over some of the common types of software testing, look more closely at the specifics of unit testing, and review a simple example.
+> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=7)** We'll go over some of the common types of [[Software Testing]], look more closely at the specifics of unit testing, and review a simple example.
 >
 > **[0:17](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=17)** So why do we go through the effort of writing and running unit tests?
 >
 > **[0:21](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=21)** 'Cause software bugs can hurt the business.
 >
-> **[0:23](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=23)** We don't want any bugs making it out to the field for our customers to see, as that can hurt our reputation and cause customers to look at using other products.
+> **[0:23](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=23)** We don't want any bugs making it out to the field for our customers to see, as that can hurt our reputation and cause customers to look at using other [[Microsoft Products|products]].
 >
 > **[0:33](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=33)** Software testing attempts to address this problem by catching any bugs in the software before they get to the field.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=162)** Unit test is a single positive test case that verifies a length of one is returned for a string with one character in it.
 >
-> **[2:50](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=170)** The test call is a Google Test macro for specifying that a function is a test, and it's passed in the name of the test cases and the actual test name.
+> **[2:50](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=170)** The test call is a [[Google]] Test macro for specifying that a function is a test, and it's passed in the name of the test cases and the actual test name.
 >
 > **[3:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-unit-testing?u=76281980&t=180)** A unit test performs three steps.
 >
@@ -215,7 +213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Test-Driven Development]] (2), [[Software Testing]] (2), next (2), business (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (5), [[Test-Driven Development]] (2), [[Software Testing]] (2), [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Definitions:** is a  (5)
 > **Env Vars:** cpu (1)
 > **Cross-References:** in the next (1)
@@ -223,12 +221,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is test-driven development?
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980)
+#### [What is test-driven development?](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=0)** - [Instructor] In this lecture, we're going to talk about what test-driven development is and how it helps to ensure you're writing high-quality and bug-free code.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=0)** - [Instructor] In this lecture, we're going to talk about what [[Test-Driven Development]] is and how it helps to ensure you're writing high-quality and bug-free code.
 >
 > **[0:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=9)** So what is test-driven development, or TDD?
 >
@@ -264,9 +261,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=112)** TDD was created by Kent Beck in the mid-1990s as part of his work for the Chrysler Corporation, where he also created Extreme Programming, of which TDD is just a part.
 >
-> **[2:03](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=123)** He then went on to create one of the first unit testing frameworks for TDD in Smalltalk, called SUnit.
+> **[2:03](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=123)** He then went on to create one of the first [[Unit Testing]] frameworks for TDD in Smalltalk, called SUnit.
 >
-> **[2:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=129)** Then he collaborated with Erich Gamma to implement the first Java unit testing framework, CALLED JUnit.
+> **[2:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=129)** Then he collaborated with Erich Gamma to implement the first [[Java]] unit testing framework, CALLED [[JUnit]].
 >
 > **[2:16](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=136)** JUnit has since been the basis for many other xUnit testing frameworks implemented for other languages.
 >
@@ -282,7 +279,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=179)** Then you repeat the process for all the functionality you need to implement and all the positive and negative test cases.
 >
-> **[3:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=187)** Robert Martin, a.k.a Uncle Bob, created the following laws of TDD in his book Clean Code: A Handbook of [[Agile Software Development]].
+> **[3:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=187)** Robert Martin, a.k.a Uncle Bob, created the following laws of TDD in his book Clean Code: A Handbook of [[[[Agile Software Development]]]].
 >
 > **[3:15](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=195)** These laws help ensure you're following the TDD process.
 >
@@ -304,13 +301,13 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=270)** Kent Beck's book Test-Driven Development: By Example is a great book from the creator of test-driven development, with a detailed case study on using TDD.
 >
-> **[4:41](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=281)** Robert Martin's Clean Code: A Handbook of Agile Software Craftsmanship provides the three laws of TDD, as well of a lot of other expert guidance on writing clean and maintainable code.
+> **[4:41](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=281)** Robert Martin's Clean Code: A Handbook of [[Agile Development|Agile]] Software Craftsmanship provides the three laws of TDD, as well of a lot of other expert guidance on writing clean and maintainable code.
 >
 > **[4:53](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/what-is-test-driven-development?u=76281980&t=293)** In the next lecture, we'll go through a working example to see TDD in action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (5), next (5), [[Unit Testing]] (2), [[JUnit]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (5), [[Unit Testing]] (2), [[JUnit]] (2), [[Java]] (1), [[Agile Software Development]] (1)
 > **Env Vars:** tdd (14), called (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (3)
@@ -319,12 +316,11 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example: TDD session, the FizzBuzz kata
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980)
+#### [Example: TDD session, the FizzBuzz kata](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=0)** - [Instructor] In this lecture, we're going to walk through an actual test-driven development coding session.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=0)** - [Instructor] In this lecture, we're going to walk through an actual [[Test-Driven Development]] coding session.
 >
 > **[0:05](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=5)** For the example, we'll be using the fizzBuzz code kata.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=47)** But the TDD process should apply regardless of the IDE you're using.
 >
-> **[0:51](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=51)** In some of the future lectures, I'll show you how to build and use Google tests and some of the other common IDEs as well.
+> **[0:51](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=51)** In some of the future lectures, I'll show you how to build and use [[Google]] tests and some of the other common IDEs as well.
 >
 > **[0:57](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/example-tdd-session-the-fizzbuzz-kata?u=76281980&t=57)** Okay, so let's get started.
 >
@@ -716,7 +712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Google]] (5), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (27)
 > **Code Identifiers:** fizzbuzz (20), ismultiple (3), xunit (1), checkfizzbuzz (1)
 > **Env Vars:** tdd (5), ide (2)
@@ -730,16 +726,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Set up Google Test with Eclipse
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980)
+#### [Set up Google Test with Eclipse](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through downloading and compiling Google Test C++ unit testing framework.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through downloading and compiling [[Google]] Test C++ [[Unit Testing]] framework.
 >
 > **[0:06](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=6)** And then getting it set up to run in the Eclipse CDT C++ IDE.
 >
-> **[0:12](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=12)** The framework is patterned on the typical X unit type testing frameworks and compiles on Linux, Windows, and Mac environments.
+> **[0:12](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=12)** The framework is patterned on the typical X unit type testing frameworks and compiles on [[Linux]], [[Windows]], and Mac environments.
 >
 > **[0:20](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=20)** To follow along with this lecture, you'll need to have a recent version of the Eclipse CDT IDE installed.
 >
@@ -757,9 +752,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=54)** For the lecture, I'm gonna be working in Mac OS 10 but the set of steps to build Google Test and integrate it with Eclipse CDT should be essentially the same in Linux or Cygwin on Windows.
 >
-> **[1:08](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=68)** The Google Test library's stored on GitHub.
+> **[1:08](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=68)** The Google Test library's stored on [[GitHub]].
 >
-> **[1:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=71)** So the first step is I'm going to get the latest source code for the Google Test library by cloning the Git Repo from the command line.
+> **[1:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=71)** So the first step is I'm going to get the latest source code for the Google Test library by cloning the [[Git]] Repo from the command line.
 >
 > **[1:19](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-eclipse?u=76281980&t=79)** So, let's go ahead and do that now.
 >
@@ -949,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (30), [[Unit Testing]] (7), [[Windows]] (4), next (4), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Google]] (30), [[Unit Testing]] (7), [[Windows]] (4), [[Linux]] (3), [[Git]] (2)
 > **Env Vars:** cdt (5), ide (4), url (2)
 > **Prerequisites:** set up (4), install (4), you'll need (2)
 > **CLI Commands:** make (6), git (2), cd (1)
@@ -958,20 +953,19 @@ created: 2026-05-02
 > **Code Identifiers:** libgtest_main (2), gtest_main (1)
 > **Exercise Files:** source code (2), clone the repo (1)
 
-#### Set up Google Test with Visual Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980)
+#### [Set up Google Test with Visual Studio](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=0)** - [Instructor] In this lecture, I'm gonna walk through downloading the Google Test C++ unit testing framework, and then building it and getting it set up with a test runner in Windows with Microsoft Visual Studio.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=0)** - [Instructor] In this lecture, I'm gonna walk through downloading the [[Google]] Test C++ [[Unit Testing]] framework, and then building it and getting it set up with a test runner in [[Windows]] with [[Microsoft]] Visual Studio.
 >
-> **[0:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=11)** The framework is patterned on the typical X-unit type testing frameworks and compiles on Linux, Windows, and Mac environments.
+> **[0:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=11)** The framework is patterned on the typical X-unit type testing frameworks and compiles on [[Linux]], Windows, and Mac environments.
 >
 > **[0:19](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=19)** For you to follow along with this lecture, you'll need to have a recent version of Visual Studio installed.
 >
-> **[0:25](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=25)** The first step is to download the Google Test Library, which is stored here on GitHub.
+> **[0:25](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=25)** The first step is to download the Google Test Library, which is stored here on [[GitHub]].
 >
-> **[0:31](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=31)** I'll be using the Windows Git client to clone the Google Test repo.
+> **[0:31](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=31)** I'll be using the Windows [[Git]] client to clone the Google Test repo.
 >
 > **[0:36](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-visual-studio?u=76281980&t=36)** This requires that you have the Windows GitClient installed, but you can also download the latest source code from GitHub as a zip file instead.
 >
@@ -1092,12 +1086,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), you'll need (1), install (1)
 > **Cross-References:** in the next (1), go back to (1)
 
-#### Set up Google Test with CLion
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980)
+#### [Set up Google Test with CLion](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through getting Google Test set up to run in the JetBrain CLion C++ IDE.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through getting [[Google]] Test set up to run in the JetBrain CLion C++ IDE.
 >
 > **[0:08](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=8)** To follow along with this lecture, you'll need to have a recent version of the CLion IDE installed and set up to use your C++ compiler of choice.
 >
@@ -1105,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=22)** Please refer to the video for compiling and running Google Test in Eclipse for instructions on downloading and compiling Google Test.
 >
-> **[0:30](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=30)** For the lecture, I'm going to be working in Linux, but the set of steps to set up and use Google Test in CLion should be essentially the same on MAC OS or Cygwin on Windows.
+> **[0:30](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=30)** For the lecture, I'm going to be working in [[Linux]], but the set of steps to set up and use Google Test in CLion should be essentially the same on MAC OS or Cygwin on [[Windows]].
 >
 > **[0:41](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-clion?u=76281980&t=41)** So, first I'm going to create a new test project called googletest_test, and I'll make sure it compiles and executes.
 >
@@ -1162,12 +1155,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up Google Test with Xcode
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980)
+#### [Set up Google Test with Xcode](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through getting Google Tests set up to run in the Apple Xcode IDE.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=0)** - [Instructor] In this lecture, I'm going to walk through getting [[Google]] Tests set up to run in the Apple [[Xcode]] IDE.
 >
 > **[0:06](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=6)** To follow along with this lecture, you'll need to have a recent version of the Xcode IDE installed.
 >
@@ -1209,13 +1201,13 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=251)** I'll first need to download an open source wrapper that I can add to a unit test target build that will translate the Google Test output to what the Xcode test runner expects.
 >
-> **[4:22](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=262)** This code is on Github at [https://github.com/mattstevens/xcode-googletest](https://github.com/mattstevens/xcode-googletest).
+> **[4:22](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=262)** This code is on [[GitHub]] at [https://github.com/mattstevens/xcode-googletest](https://github.com/mattstevens/xcode-googletest).
 >
 > **[4:34](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=274)** I'll go ahead and clone that repo to get it on my system.
 >
-> **[5:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=311)** Next I'll need to create a new unit testing bundle target in my project.
+> **[5:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=311)** Next I'll need to create a new [[Unit Testing]] bundle target in my project.
 >
-> **[5:32](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=332)** Xcode only lets me select Swift or Objective-C for the languages.
+> **[5:32](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=332)** Xcode only lets me select [[Swift (Programming Language)|Swift]] or Objective-C for the languages.
 >
 > **[5:36](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/set-up-google-test-with-xcode?u=76281980&t=336)** I'll need to select Objective-C, as that's what the Google Test wrapper is written in.
 >
@@ -1239,7 +1231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (12), [[Xcode]] (10), [[Search]] (3), next (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Google]] (12), [[Xcode]] (10), [[GitHub]] (2), [[Unit Testing]] (1), [[Swift (Programming Language)|Swift]] (1)
 > **Code Identifiers:** gtest_main (3), googletest_test (2)
 > **Prerequisites:** set up (2), you'll need (1)
 > **CLI Commands:** make (1), find (1)
@@ -1253,18 +1245,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Google Test
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980)
+#### [Google Test](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=0)** - [Instructor] In this lecture, I'm gonna give you an overview of Google Test.
+> **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=0)** - [Instructor] In this lecture, I'm gonna give you an overview of [[Google]] Test.
 >
 > **[0:04](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=4)** I'll explain exactly what it is and go over its major features.
 >
 > **[0:08](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=8)** So what is Google Test?
 >
-> **[0:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=11)** Google Test is an open source C++ unit testing framework from Google, styled after common NUnit type frameworks.
+> **[0:11](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=11)** Google Test is an open source C++ [[Unit Testing]] framework from Google, styled after common NUnit type frameworks.
 >
 > **[0:19](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-test?u=76281980&t=19)** It provides the ability to create tests, test cases, and test suites, which it calls text fixtures.
 >
@@ -1408,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (17), next (2), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Google]] (17), [[Unit Testing]] (1)
 > **Env Vars:** test (2), expect (2), test_f (1), assert (1), tdd (1)
 > **Prerequisites:** setup (3), initialization (1)
 > **Code Identifiers:** gtest_filter (1), gtest_repeat (1), gtest_shuffle (1)
@@ -1422,8 +1413,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview, setup, and the first test case
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980)
+#### [Overview, setup, and the first test case](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1441,7 +1431,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980&t=79)** Now I'm going to go ahead and set up a new eclipse CDT C++ project for this kata.
 >
-> **[1:25](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980&t=85)** Then I'll verify I have Google Test setup properly and implement the first test case.
+> **[1:25](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980&t=85)** Then I'll verify I have [[Google]] Test setup properly and implement the first test case.
 >
 > **[1:30](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/overview-setup-and-the-first-test-case?u=76281980&t=90)** So I've created a new C++ project for this kata and verified that it builds and executes.
 >
@@ -1535,7 +1525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), next (4)
+> **Frameworks & Libraries:** [[Google]] (9)
 > **Env Vars:** tdd (3), cdt (1), gnu (1), test (1), assert_true (1)
 > **UI Navigation:** click on (2), go to (2)
 > **Prerequisites:** set up (2), setup (1)
@@ -1544,8 +1534,7 @@ created: 2026-05-02
 > **Code Identifiers:** gtest_main (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add items, add item prices, and calculate the current total
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-items-add-item-prices-and-calculate-the-current-total?u=76281980)
+#### [Add items, add item prices, and calculate the current total](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-items-add-item-prices-and-calculate-the-current-total?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1707,15 +1696,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4)
 > **CLI Commands:** make (6)
 > **Env Vars:** tdd (1), ccp (1), cpp (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add multiple items and calculate the total
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-multiple-items-and-calculate-the-total?u=76281980)
+#### [Add multiple items and calculate the total](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-multiple-items-and-calculate-the-total?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1797,7 +1784,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** checkout (5), additem (3), additemprice (2), calculatetotal (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** assert_eq (1)
@@ -1805,8 +1791,7 @@ created: 2026-05-02
 > **Prerequisites:** initialization (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and apply discounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-and-apply-discounts?u=76281980)
+#### [Add and apply discounts](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/add-and-apply-discounts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2124,7 +2109,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Search]] (5), data (3)
 > **Non-Speech:** (keyboard sounds) (8)
 > **Definitions:** is a  (5), is called (1), known as (1)
 > **CLI Commands:** make (4), find (1)
@@ -2133,8 +2117,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Throw an exception when adding an item with no price
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980)
+#### [Throw an exception when adding an item with no price](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2127,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=8)** I'm in the red phase, so I'm going to start by writing a failing unit test.
 >
-> **[0:12](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=12)** I'll use the Google Test, cert throw macro which is past the function to call, and an expected exception that will be thrown by that function.
+> **[0:12](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=12)** I'll use the [[Google]] Test, cert throw macro which is past the function to call, and an expected exception that will be thrown by that function.
 >
 > **[0:21](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=21)** I'm gonna do that now.
 >
@@ -2186,11 +2169,11 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=167)** This ends the hands-on TDD session with the Checkout Kata.
 >
-> **[2:51](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=171)** In the next lecture, I'll start going over keeping the code you're testing isolated from the rest of the system using fakes, stubs, spies, and locks.
+> **[2:51](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/throw-an-exception-when-adding-an-item-with-no-price?u=76281980&t=171)** In the next lecture, I'll start going over keeping the code you're testing isolated from the [[Representational State Transfer (REST)|rest]] of the system using fakes, stubs, spies, and locks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Search]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** cpp (1), tdd (1)
 > **UI Navigation:** go to (2)
@@ -2202,8 +2185,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test doubles overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980)
+#### [Test doubles overview](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2213,7 +2195,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=14)** Almost all code that gets implemented will depend on another piece of code in the system.
 >
-> **[0:20](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=20)** Those other pieces of code are oftentimes trying to do things or communicate with things that are not available in a unit testing environment or are so slow that they would make our unit tests extremely slow.
+> **[0:20](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=20)** Those other pieces of code are oftentimes trying to do things or communicate with things that are not available in a [[Unit Testing]] environment or are so slow that they would make our unit tests extremely slow.
 >
 > **[0:32](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=32)** Test doubles are the answer to that problem.
 >
@@ -2271,7 +2253,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=178)** They can be much more efficient than implementing your own custom mock objects, as creating your own custom mock objects can be time-consuming, tedious, and error-prone.
 >
-> **[3:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=189)** Google Mock is a C++ Mocking Framework from Google.
+> **[3:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=189)** [[Google]] Mock is a C++ Mocking Framework from Google.
 >
 > **[3:13](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-doubles-overview?u=76281980&t=193)** It comes bundled with Google Test and works well in the Google Test Framework.
 >
@@ -2281,18 +2263,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (5), [[Unit Testing]] (2), database (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Unit Testing]] (2)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Mock overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-overview?u=76281980)
+#### [Google Mock overview](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-overview?u=76281980&t=1)** In this lecture I'm going to give a short overview of how Google Mock works.
+> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-overview?u=76281980&t=1)** In this lecture I'm going to give a short overview of how [[Google]] Mock works.
 >
 > **[0:06](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-overview?u=76281980&t=6)** A Google Mock Workflow is pretty straightforward.
 >
@@ -2378,7 +2359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (9), data (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (9)
 > **Code Identifiers:** getdata (8), setdata (2)
 > **Env Vars:** expect_call (5), mock_method (1)
 > **Cross-References:** in the next (1), in the last (1)
@@ -2386,14 +2367,13 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Prerequisites:** set up (1)
 
-#### Google Mock example
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980)
+#### [Google Mock example](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980&t=0)** - [Instructor] Now I'm going to go over a very simple working example.
 >
-> **[0:03](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980&t=3)** In this example, I'm going to use TDD with Google Test and Google Mock to implement a class that holds data.
+> **[0:03](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980&t=3)** In this example, I'm going to use TDD with [[Google]] Test and Google Mock to implement a class that holds data.
 >
 > **[0:09](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/google-mock-example?u=76281980&t=9)** First I'm going to create an interface class for a queue that can enqueue and dequeue data.
 >
@@ -2631,7 +2611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (18), data (14), next (4)
+> **Frameworks & Libraries:** [[Google]] (18)
 > **Env Vars:** tdd (4), ide (4), expect_call (3), test (2), gnu (1)
 > **Code Identifiers:** adddata (7), mymockobj (5), getdata (4), setdata (1)
 > **CLI Commands:** make (5)
@@ -2645,12 +2625,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test-driven development best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980)
+#### [Test-driven development best practices](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=1)** - [Instructor] There are a lot of things you can do to help with your practice of unit testing and test-driven development.
+> **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=1)** - [Instructor] There are a lot of things you can do to help with your practice of [[Unit Testing]] and [[Test-Driven Development]].
 >
 > **[0:05](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=5)** In this lecture, I'll go over some of the best practices that I have found are essential to making test-driven development productive.
 >
@@ -2706,11 +2685,11 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=148)** Running your tests in random order ensures that your tests don't have dependencies between each other.
 >
-> **[2:34](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=154)** You can use the gtest_repeat and gtest_shuffle command line parameters with your Google test-based unit test executables to do this.
+> **[2:34](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/test-driven-development-best-practices?u=76281980&t=154)** You can use the gtest_repeat and gtest_shuffle command line parameters with your [[Google]] test-based unit test executables to do this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Unit Testing]] (1), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Unit Testing]] (1), [[Google]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Code Identifiers:** gtest_repeat (1), gtest_shuffle (1)
 > **Env Vars:** tdd (2)
@@ -2722,14 +2701,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980&t=1)** - [Instructor] In this lecture, I'm going to quickly review what we went over in the course and where to go from here.
 >
-> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980&t=7)** Going through the course, we went over what Unit Testing and Test-Driven Development are and had a quick hands-on example, and we had an overview of Google Test, the C++ Unit Testing Framework from Google, then we had another more complex hands on example of TDD in the supermarket checkout Kata, then we reviewed the types of Test Doubles and how they help us test our code in isolation and we worked through an example using Googlemock, and lastly we went over some essential best practices of Unit Testing and Test-Driven Development.
+> **[0:07](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980&t=7)** Going through the course, we went over what [[Unit Testing]] and [[Test-Driven Development]] are and had a quick hands-on example, and we had an overview of [[Google]] Test, the C++ Unit Testing Framework from Google, then we had another more complex hands on example of TDD in the supermarket checkout Kata, then we reviewed the types of Test Doubles and how they help us test our code in isolation and we worked through an example using Googlemock, and lastly we went over some essential best practices of Unit Testing and Test-Driven Development.
 >
 > **[0:44](https://www.linkedin.com/learning/test-driven-development-in-c-plus-plus/next-steps?u=76281980&t=44)** So that completes this course on Beginning Test-Driven Development in C++.
 >
@@ -2741,7 +2719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unit Testing]] (4), [[Test-Driven Development]] (3), [[Google]] (2), test-driven (1)
+> **Frameworks & Libraries:** [[Unit Testing]] (4), [[Test-Driven Development]] (3), [[Google]] (2)
 > **Env Vars:** tdd (1)
 > **Speakers:** - [instructor] (1)
 

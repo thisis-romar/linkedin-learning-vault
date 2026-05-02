@@ -87,18 +87,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make beautiful stack overflow errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980)
+#### [Make beautiful stack overflow errors](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=0)** - [Maaike] Have you ever had performance issues and needed to restart an application, and do you know why this happens?
 >
-> **[0:07](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=7)** This has to do with poor memory management.
+> **[0:07](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=7)** This has to do with poor [[Memory Management]].
 >
 > **[0:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=9)** Understanding how the memory works, can avoid these sort of problems.
 >
-> **[0:13](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=13)** And actually understanding how the Java Memory works can upgrade your coding skills by a lot.
+> **[0:13](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=13)** And actually understanding how the [[Java]] Memory works can upgrade your coding skills by a lot.
 >
 > **[0:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=19)** This course helps you to truly understand coding Java and what's going on under the hood.
 >
@@ -110,22 +109,21 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=39)** This is the course I'd wish I could have taken, when I started with Java over a decade ago, it would have helped me so much.
 >
-> **[0:46](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=46)** Come and join me in his LinkedIn learning course and create some beautiful stack overflow errors with me.
+> **[0:46](https://www.linkedin.com/learning/java-memory-management-values-and-references/make-beautiful-stack-overflow-errors?u=76281980&t=46)** Come and join me in his [[LinkedIn]] learning course and create some beautiful stack overflow errors with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), application (1), [[Memory Management]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Memory Management]] (1), [[LinkedIn]] (1)
 > **Documentation:** stack overflow (1)
 > **Speakers:** - [maaike] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started with memory management right away, let's make sure this is the right course for you right now.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started with [[Memory Management]] right away, let's make sure this is the right course for you right now.
 >
-> **[0:06](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980&t=6)** In order to be able to follow along, you'll have to be familiar with using IDEs and basic Java.
+> **[0:06](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980&t=6)** In order to be able to follow along, you'll have to be familiar with using IDEs and basic [[Java]].
 >
 > **[0:12](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-you-should-know?u=76281980&t=12)** If you're not familiar with basic Java yet, these courses can really help you fix that: Learning Java, the Java 11+ Essential Training and Java Essential Training for Students.
 >
@@ -140,16 +138,14 @@ created: 2026-05-02
 > **Versions:** java 11 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Explore the code challenge environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/explore-the-code-challenge-enviornment?u=76281980)
+#### [Explore the code challenge environment](https://www.linkedin.com/learning/java-memory-management-values-and-references/explore-the-code-challenge-enviornment?u=76281980)
 
 
 ### 1. Java Memory Explained
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Java memory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980)
+#### [What is Java memory?](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,7 +161,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=20)** And if your OS is managing this RAM well, then there is enough RAM memory available, you'll enjoy the performance of the application.
 >
-> **[0:28](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=28)** Examples of the RAM memory in action are the loading of applications such as when you're opening your browser, it needs to load first, and the same goes when you want to go ahead, and edit a Word document, you have to open Word first.
+> **[0:28](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=28)** Examples of the RAM memory in action are the loading of applications such as when you're opening your browser, it needs to load first, and the same goes when you want to go ahead, and edit a [[Microsoft Word|Word]] document, you have to open Word first.
 >
 > **[0:41](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=41)** And the first time you open something, it often takes a bit long, but when you close it and you open it again, it will be faster, and this is because it's still load in the RAM memory.
 >
@@ -179,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=60)** I'm telling you this because this is something you could probably easily relate to in a way that your computer memory works, and the OS is managing this computer memory.
 >
-> **[1:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=69)** It's actually very similar to the way that Java memory works as well.
+> **[1:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=69)** It's actually very similar to the way that [[Java]] memory works as well.
 >
 > **[1:13](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=73)** Java memory is responsible for storing the data the Java application needs in order to run.
 >
@@ -189,7 +185,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=87)** Constance, Java memory.
 >
-> **[1:28](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=88)** Fields and metadata, methods codes, native methods, the order in which methods are called, and the memory necessary to run an Info methods, you may have guessed it, but this is all in the Java memory.
+> **[1:28](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=88)** Fields and [[Metadata]], methods codes, native methods, the order in which methods are called, and the memory necessary to run an Info methods, you may have guessed it, but this is all in the Java memory.
 >
 > **[1:41](https://www.linkedin.com/learning/java-memory-management-values-and-references/what-is-java-memory?u=76281980&t=101)** The Java memory is managed by the JVM, and you'll learn more about this later.
 >
@@ -197,19 +193,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (9), application (3), data (2), [[Microsoft Word|Word]] (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Java]] (9), [[Microsoft Word|Word]] (2), [[Metadata]] (1)
 > **Env Vars:** ram (7), jvm (1)
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The importance of understanding Java memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980)
+#### [The importance of understanding Java memory](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=0)** - [Instructor] Understanding how the Java memory works comes with a lot of advantages for your Java coding.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=0)** - [Instructor] Understanding how the [[Java]] memory works comes with a lot of advantages for your Java coding.
 >
 > **[0:06](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=6)** It's easier to visualize what's going on with object composition.
 >
@@ -243,24 +238,23 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=104)** At this point, you might be wondering what I'm still waiting for and you are dying to get started.
 >
-> **[1:49](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=109)** And you're right, we'll be discussing the basics of memory management, the stack, and the heap memory in more detail in this chapter.
+> **[1:49](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=109)** And you're right, we'll be discussing the basics of [[Memory Management]], the stack, and the heap memory in more detail in this chapter.
 >
 > **[1:56](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-importance-of-understanding-java-memory?u=76281980&t=116)** Let's start with the basics of how the JVM deals with the memory management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), data (2), [[Memory Management]] (2)
+> **Frameworks & Libraries:** [[Java]] (8), [[Memory Management]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** jvm (1)
 > **Speakers:** - [instructor] (1)
 
-#### JVM and memory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980)
+#### [JVM and memory management](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=0)** - [Instructor] The JVM is managing the Java memory.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=0)** - [Instructor] The JVM is managing the [[Java]] memory.
 >
 > **[0:03](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=3)** Without a management of memory, objects couldn't be stored because there would be no memory allocated for these objects.
 >
@@ -270,7 +264,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=20)** Without it, the code can't run, or if it's only allocated, it will get full and the program will run out of memory.
 >
-> **[0:27](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=27)** Long story short, memory management is important.
+> **[0:27](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=27)** Long story short, [[Memory Management]] is important.
 >
 > **[0:30](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-and-memory-management?u=76281980&t=30)** It's one of the very important tasks of the JVM.
 >
@@ -310,14 +304,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (12), application (2), management (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Java]] (12), [[Memory Management]] (1)
 > **Env Vars:** jvm (12), ram (1)
 > **Definitions:** stands for (1), is called (1), is a  (1)
 > **Analogies:** compare this to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/stack-memory?u=76281980)
+#### [Stack memory](https://www.linkedin.com/learning/java-memory-management-values-and-references/stack-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,8 +365,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Heap memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-memory?u=76281980)
+#### [Heap memory](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,12 +425,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3)
 > **Definitions:** is a  (2), we call this (1), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Heap vs. stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980)
+#### [Heap vs. stack](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -446,7 +436,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=3)** Stack only contains references and primitive values, and Heap contains Objects.
 >
-> **[0:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=8)** While we're talking about accessibility, we can say that Stack can only be accessed on a last and first out base, meaning we can only touch the top of the step, the metadata we're in.
+> **[0:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=8)** While we're talking about accessibility, we can say that Stack can only be accessed on a last and first out base, meaning we can only touch the top of the step, the [[Metadata]] we're in.
 >
 > **[0:18](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=18)** Heap is accessible whenever you have the address of the object on Heap.
 >
@@ -472,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=100)** So here's the person class, it just has a bunch of properties.
 >
-> **[1:42](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=102)** That's the name, year of birth, whether or not it loves Java, and it has a Object address.
+> **[1:42](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=102)** That's the name, year of birth, whether or not it loves [[Java]], and it has a Object address.
 >
 > **[1:48](https://www.linkedin.com/learning/java-memory-management-values-and-references/heap-vs-stack?u=76281980&t=108)** And I've also made an address object containing some entrance properties such as street name, numbers, zip code, city, country.
 >
@@ -574,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (6), [[Metadata]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Metadata]] (1)
 > **Analogies:** for example (1), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** setcity (1), setaddress (1)
@@ -588,8 +578,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Primitives
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980)
+#### [Primitives](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,7 +656,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980&t=173)** So when performance is important, and many values needs to be accessed, it might just be better to use primitives instead of the wrapper classes.
 >
-> **[3:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980&t=180)** But in Java, primitives can not be used for collections.
+> **[3:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980&t=180)** But in [[Java]], primitives can not be used for collections.
 >
 > **[3:03](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives?u=76281980&t=183)** So whenever you need to work with collections, you'll have to use the wrapper classes.
 >
@@ -677,15 +666,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Warnings:** be careful (1), keep in mind (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** short for (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980)
+#### [Objects](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980&t=18)** Primitive values are stored on it directly, and other objects are referenced with an object reference.
 >
-> **[0:24](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980&t=24)** There are very many built-in Java objects that we can use such as ArrayList and all the other objects in the collection framework, all the wrapper classes for primitives, such as the integer and double.
+> **[0:24](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980&t=24)** There are very many built-in [[Java]] objects that we can use such as ArrayList and all the other objects in the collection framework, all the wrapper classes for primitives, such as the integer and double.
 >
 > **[0:35](https://www.linkedin.com/learning/java-memory-management-values-and-references/objects?u=76281980&t=35)** We have string, thread, and so many more, but we could also create our own objects, and these objects will also get stored on the heap.
 >
@@ -791,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (1), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (3), is an  (1), is called (1)
 > **Code Identifiers:** setyearofbirth (3)
 > **Analogies:** such as (2), for example (1)
@@ -800,8 +788,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Warnings:** keep in mind (1)
 
-#### Final classes and immutable objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980)
+#### [Final classes and immutable objects](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980&t=150)** So it is not being able to change that actually has some benefits in terms of security.
 >
-> **[2:35](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980&t=155)** Since the object cannot be changed, it cannot be changed from outside in order to manipulate the way the Java code is running, and we'll see more about this in the next chapter.
+> **[2:35](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980&t=155)** Since the object cannot be changed, it cannot be changed from outside in order to manipulate the way the [[Java]] code is running, and we'll see more about this in the next chapter.
 >
 > **[2:44](https://www.linkedin.com/learning/java-memory-management-values-and-references/final-classes-and-immutable-objects?u=76281980&t=164)** Some of our built-in objects are immutable, such as the wrapper classes for all the primitives, and also the string class is immutable, and this is very different from final variables because you can actually change the value of the variable containing the string or wrapper class primitive, but this will create a whole new object on the stack, and this can get quite heavy on the heap if you do this too often.
 >
@@ -861,7 +848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Security]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** means that (2), is an  (2)
 > **Cross-References:** in the next (1), as we saw (1), next video (1)
 > **Analogies:** for example (1), just like (1), such as (1)
@@ -869,14 +856,13 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Strings in memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980)
+#### [Strings in memory](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980&t=0)** - [Instructor] Strings are the odd one out in terms of objects in memory management.
+> **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980&t=0)** - [Instructor] Strings are the odd one out in terms of objects in [[Memory Management]].
 >
-> **[0:04](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980&t=4)** Since strings are used a lot in Java, there's a mechanism to improve the performance of strings and to avoid having to create a new object for every string.
+> **[0:04](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980&t=4)** Since strings are used a lot in [[Java]], there's a mechanism to improve the performance of strings and to avoid having to create a new object for every string.
 >
 > **[0:12](https://www.linkedin.com/learning/java-memory-management-values-and-references/strings-in-memory?u=76281980&t=12)** So Java tries to deal with strings extra efficiently, and when the string is exactly the same as a different one, it will be assigned the same reference as the other one.
 >
@@ -955,8 +941,7 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Primitives and objects in memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980)
+#### [Primitives and objects in memory](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -968,7 +953,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980&t=18)** So this is our starting point.
 >
-> **[0:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980&t=19)** This is Java memory, and we see our stack memory on the left and our heap memory on the right.
+> **[0:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980&t=19)** This is [[Java]] memory, and we see our stack memory on the left and our heap memory on the right.
 >
 > **[0:25](https://www.linkedin.com/learning/java-memory-management-values-and-references/primitives-and-objects-in-memory?u=76281980&t=25)** Our heap memory contains the string pool, and our stack memory shows that the main method was already started.
 >
@@ -1020,7 +1005,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** lovesjava (2)
 > **Analogies:** for example (1), picture (1)
@@ -1028,16 +1013,14 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Making an object immutable
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-making-an-object-immutable?u=76281980)
+#### [Solution: Making an object immutable](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-making-an-object-immutable?u=76281980)
 
 
 ### 3. Careful: Escaping References
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The problem of escaping references
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980)
+#### [The problem of escaping references](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,13 +1046,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=42)** Sending an object reference unintentionally with possible negative side effects.
 >
-> **[0:47](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=47)** Even though this might be not too surprising to you, security breaches that this behavior of Java can cause, they might be a surprise.
+> **[0:47](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=47)** Even though this might be not too surprising to you, security breaches that this behavior of [[Java]] can cause, they might be a surprise.
 >
 > **[0:54](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=54)** Let's move over to IntelliJ and have a look.
 >
 > **[0:57](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=57)** So here we have an order object.
 >
-> **[1:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=60)** And our order object is holding some sort of date, a list of products and a user.
+> **[1:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=60)** And our order object is holding some sort of date, a list of [[Microsoft Products|products]] and a user.
 >
 > **[1:05](https://www.linkedin.com/learning/java-memory-management-values-and-references/the-problem-of-escaping-references?u=76281980&t=65)** It's just an order.
 >
@@ -1097,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Security]] (1), [[Java]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Microsoft Products|Products]] (1)
 > **Tools:** intellij (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** we call this (1)
@@ -1105,8 +1088,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collections and escaping references
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980)
+#### [Collections and escaping references](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=86)** Actually, I wouldn't need a method for this, I could also have done this below.
 >
-> **[1:29](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=89)** But I say createOrder, and I'm sending in these references, I'm sending in the reference to the user, as you just saw, and to the products, and then I use the local date now to create a date for our order.
+> **[1:29](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=89)** But I say createOrder, and I'm sending in these references, I'm sending in the reference to the user, as you just saw, and to the [[Microsoft Products|products]], and then I use the local date now to create a date for our order.
 >
 > **[1:41](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=101)** And then we have the order.
 >
@@ -1294,7 +1276,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=409)** And to have a product, I need to have a name.
 >
-> **[6:51](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=411)** So let's go ahead and create a, well, let's just go ahead to say Java book.
+> **[6:51](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=411)** So let's go ahead and create a, well, let's just go ahead to say [[Java]] book.
 >
 > **[6:57](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=417)** It's a book for smart Java developers, something like this.
 >
@@ -1360,7 +1342,7 @@ created: 2026-05-02
 >
 > **[8:43](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=523)** And I'm going to do something else, I'm going to say, this is not Java, but it is something totally different.
 >
-> **[8:48](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=528)** JavaScript book, like this.
+> **[8:48](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=528)** [[JavaScript]] book, like this.
 >
 > **[8:52](https://www.linkedin.com/learning/java-memory-management-values-and-references/collections-and-escaping-references?u=76281980&t=532)** Oh well, then the description won't match anymore, but let's not make life too complicated.
 >
@@ -1398,7 +1380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (23), product (17), generic (3), [[Java]] (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (23), [[Java]] (3), [[JavaScript]] (2)
 > **CLI Commands:** make (10)
 > **Code Identifiers:** createorder (3), processproducts (3), getproducts (2), setname (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -1407,8 +1389,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 
-#### Avoiding escaping collection references
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980)
+#### [Avoiding escaping collection references](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1420,7 +1401,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=9)** This way we are using a special method, actually, one of the special methods, to create a collection that can not be altered.
 >
-> **[0:18](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=18)** This will solve the problem for collections with immutable objects as a build in Java solution.
+> **[0:18](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=18)** This will solve the problem for collections with immutable objects as a build in [[Java]] solution.
 >
 > **[0:23](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=23)** This way the collections can not be modified.
 >
@@ -1452,7 +1433,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=68)** And let me just write this beneath there.
 >
-> **[1:11](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=71)** And that is by saying return collections, unmodifiable list, and then insert products here, just like that.
+> **[1:11](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=71)** And that is by saying return collections, unmodifiable list, and then insert [[Microsoft Products|products]] here, just like that.
 >
 > **[1:21](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=81)** So, if I were to do either one of these two ways I have an immutable collection.
 >
@@ -1568,7 +1549,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=307)** And then it's fine.
 >
-> **[5:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=309)** So, if I'm going to be running this again, we should not get a JavaScript book.
+> **[5:09](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=309)** So, if I'm going to be running this again, we should not get a [[JavaScript]] book.
 >
 > **[5:15](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-collection-references?u=76281980&t=315)** And right now we still have some compilation issues.
 >
@@ -1606,7 +1587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (8), [[JavaScript]] (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[JavaScript]] (3), [[Java]] (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** copyof (1)
 > **Tools:** intellij (1)
@@ -1614,8 +1595,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example custom objects: References on the loose
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980)
+#### [Example custom objects: References on the loose](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1645,7 +1625,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980&t=68)** It looks perfectly fine.
 >
-> **[1:10](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980&t=70)** This is sending ordered prints a date, prints old products, but then it actually also changed as the sensitive object, which is clearly where things do, but we're sending our objects around.
+> **[1:10](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980&t=70)** This is sending ordered prints a date, prints old [[Microsoft Products|products]], but then it actually also changed as the sensitive object, which is clearly where things do, but we're sending our objects around.
 >
 > **[1:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/example-custom-objects-references-on-the-loose?u=76281980&t=79)** And in this case, it's in the same class, but we're not sure where we're sending it to.
 >
@@ -1671,14 +1651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Cross-References:** in the next (1)
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding escaping references
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-references?u=76281980)
+#### [Avoiding escaping references](https://www.linkedin.com/learning/java-memory-management-values-and-references/avoiding-escaping-references?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1750,21 +1729,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Fixing an escaping reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fixing-an-escaping-reference?u=76281980)
+#### [Solution: Fixing an escaping reference](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fixing-an-escaping-reference?u=76281980)
 
 
 ### 4. Quick Peek at Next Steps
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Garbage collection
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/garbage-collection?u=76281980)
+#### [Garbage collection](https://www.linkedin.com/learning/java-memory-management-values-and-references/garbage-collection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1880,8 +1856,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### JVM tuning
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980)
+#### [JVM tuning](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1889,7 +1864,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=5)** This requires specifying how the JVM should start.
 >
-> **[0:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=8)** When starting a Java application, the JVM can be given certain options and parameters to do so.
+> **[0:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=8)** When starting a [[Java]] application, the JVM can be given certain options and parameters to do so.
 >
 > **[0:14](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=14)** It can optimize garbage collection, change heap memory.
 >
@@ -1897,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=22)** This is actually where all the static variables and static methods are being stored.
 >
-> **[0:26](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=26)** This is special reserved bit of the memory, which you'll see in more detail with more advanced Java memory management topics.
+> **[0:26](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=26)** This is special reserved bit of the memory, which you'll see in more detail with more advanced Java [[Memory Management]] topics.
 >
 > **[0:33](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=33)** And with JVM tuning, you can also dump the heap memory on the OutOfMemoryError.
 >
@@ -1911,7 +1886,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=57)** Well, whenever the performance of the JVM needs to be increased.
 >
-> **[1:01](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=61)** Sometimes it's easier and more useful to improve the hardware.
+> **[1:01](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=61)** Sometimes it's easier and more useful to improve the [[Hardware]].
 >
 > **[1:05](https://www.linkedin.com/learning/java-memory-management-values-and-references/jvm-tuning?u=76281980&t=65)** And when performance can not be done with better programming, JVM tuning might come in as a good fix.
 >
@@ -1921,14 +1896,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Java]] (2), [[Memory Management]] (1), [[Hardware]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Memory Management]] (1), [[Hardware]] (1)
 > **Env Vars:** jvm (10), jvn (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spotting and avoiding memory leaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980)
+#### [Spotting and avoiding memory leaks](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1968,7 +1942,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=128)** For example, you can need to restart the app every few days or weeks because the memory is getting full slowly, and if nothing happens, so if you wouldn't restart, the application would crash what an out of memory error.
 >
-> **[2:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=139)** The good news is that we have tooling to detect memory leaks, and there are different tools out there that can do this, and for example, we have Java VisualVM, we have g:Profiler, YourKit, and many more.
+> **[2:19](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=139)** The good news is that we have tooling to detect memory leaks, and there are different tools out there that can do this, and for example, we have [[Java]] VisualVM, we have g:Profiler, YourKit, and many more.
 >
 > **[2:30](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=150)** I'm going to show you VisualVM, but before I do so, I am going to show you this code sample again.
 >
@@ -2026,11 +2000,11 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=327)** They're a very, very interesting topic, and as you can hear, I'm quite enthusiastic about them, but more on memory leaks for a later time.
 >
-> **[5:33](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=333)** Right now, these are more than enough to grasp the basic concepts of Java memory management, the values and the references.
+> **[5:33](https://www.linkedin.com/learning/java-memory-management-values-and-references/spotting-and-avoiding-memory-leaks?u=76281980&t=333)** Right now, these are more than enough to grasp the basic concepts of Java [[Memory Management]], the values and the references.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (13), [[Java]] (2), management (1), database (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Memory Management]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** gpm (1), cpu (1)
@@ -2038,22 +2012,20 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Fix the memory leak
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fix-the-memory-leak?u=76281980)
+#### [Solution: Fix the memory leak](https://www.linkedin.com/learning/java-memory-management-values-and-references/solution-fix-the-memory-leak?u=76281980)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Java memory management
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980)
+#### [Next steps with Java memory management](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=0)** - [Maaike] All right, you've done it.
 >
-> **[0:01](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=1)** You've got the basics of memory management down.
+> **[0:01](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=1)** You've got the basics of [[Memory Management]] down.
 >
 > **[0:04](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=4)** Let's have a look at some potential next topics for you.
 >
@@ -2061,21 +2033,21 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=14)** Also very interesting is monitoring and testing.
 >
-> **[0:16](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=16)** And of course, other advanced Java topics, such as designed patterns and concurrency.
+> **[0:16](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=16)** And of course, other advanced [[Java]] topics, such as designed patterns and concurrency.
 >
 > **[0:21](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=21)** Here are some great follow-up courses I've selected for you.
 >
-> **[0:24](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=24)** First of all, more in Java Memory Management, but also very interesting Parallel and Concurrent Programming with Java 1, Advanced Java Programming, and also the Programming Foundations, dealing with design patterns.
+> **[0:24](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=24)** First of all, more in Java Memory Management, but also very interesting Parallel and [[Concurrent Programming]] with Java 1, Advanced Java Programming, and also the [[Programming Foundations]], dealing with [[Design Patterns]].
 >
 > **[0:37](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=37)** Thank you so much for taking this course.
 >
-> **[0:39](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=39)** Let's connect on LinkedIn. Here you can find my profile.
+> **[0:39](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=39)** Let's connect on [[LinkedIn]]. Here you can find my profile.
 >
 > **[0:43](https://www.linkedin.com/learning/java-memory-management-values-and-references/next-steps-with-java-memory-management?u=76281980&t=43)** Good luck on your Java journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (5), [[Memory Management]] (2), next (1), parallel (1), [[Concurrent Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Memory Management]] (2), [[Concurrent Programming]] (1), [[Programming Foundations]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** jvm (1)
 > **Versions:** java 1 (1)

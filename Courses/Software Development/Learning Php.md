@@ -127,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Should you learn PHP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
+#### [Should you learn PHP?](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=0)** - [Joe] One of the most popular languages for creating dynamic websites is PHP, but with the popularization of JavaScript tools, like React and Angular, is it worth investing your time in learning PHP?
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=0)** - [Joe] One of the most popular languages for creating dynamic websites is [[PHP]], but with the popularization of [[JavaScript]] tools, like [[React.js|React]] and [[Angular]], is it worth investing your time in learning PHP?
 >
 > **[0:14](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=14)** The answer unequivocally is yes.
 >
@@ -140,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=23)** Front end tools like React can not talk to a database or provide a backend infrastructure like PHP can.
 >
-> **[0:30](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=30)** Further, popular content management systems like WordPress and Drupal and websites like Facebook, Wikipedia, and Yahoo, all use PHP.
+> **[0:30](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=30)** Further, popular [[Content Management Systems (CMS)|content management systems]] like [[WordPress]] and [[Drupal]] and websites like Facebook, Wikipedia, and Yahoo, all use PHP.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=40)** In fact, 80% of all websites use at least some PHP.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=53)** Hi, I'm Joe Casabona, a front end developer and educator who's been using PHP since 2003 and WordPress since 2004.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=63)** So join me in my LinkedIn Learning course, which will show you everything you need to know to start using PHP.
+> **[1:03](https://www.linkedin.com/learning/learning-php-4/should-you-learn-php?u=76281980&t=63)** So join me in my [[LinkedIn]] Learning course, which will show you everything you need to know to start using PHP.
 
 > [!info]- Semantic Content
 >
@@ -157,15 +156,13 @@ created: 2026-05-02
 > **Env Vars:** php (9)
 > **Speakers:** - [joe] (1)
 
-#### A note on PHP 8.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/a-note-on-php-8-0?u=76281980)
+#### [A note on PHP 8.0](https://www.linkedin.com/learning/learning-php-4/a-note-on-php-8-0?u=76281980)
 
-#### Developing locally
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980)
+#### [Developing locally](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=0)** - [Instructor] While you will run PHP applications on a web server most of the time, setting a server up right now is not necessary.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=0)** - [Instructor] While you will run [[PHP]] applications on a web server most of the time, setting a server up right now is not necessary.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=8)** Instead, we can start with local development.
 >
@@ -179,11 +176,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=36)** Depending on if you're on a Mac or PC, you can use MAMP or WAMP, respectively.
 >
-> **[0:48](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=48)** Both of these applications will set up an Apache MySQL and PHP, or AMP, server right on your computer.
+> **[0:48](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=48)** Both of these applications will set up an Apache [[MySQL]] and PHP, or AMP, server right on your computer.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=57)** You'll be able to manage files and view your web applications in the browser.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=62)** Now, there's a lot to know about AMP servers, and while you can install one of them now and quickly be up and running, if you want to learn more, you can check out the Apache MySQL and PHP courses in the LinkedIn Learning library.
+> **[1:02](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=62)** Now, there's a lot to know about AMP servers, and while you can install one of them now and quickly be up and running, if you want to learn more, you can check out the Apache MySQL and PHP courses in the [[LinkedIn]] Learning library.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-php-4/developing-locally?u=76281980&t=76)** These will give you more depth of knowledge on exactly what's happening on your computer.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), web (3), [[MySQL]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[MySQL]] (2), [[LinkedIn]] (1)
 > **Env Vars:** php (8), mamp (2), amp (2), wamp (1), ide (1)
 > **CLI Commands:** php (8), apache (2), mysql (2)
 > **Prerequisites:** install (3), set up (1)
@@ -221,16 +218,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How PHP works
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
+#### [How PHP works](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=0)** - [Joe] PHP stands for PHP Hypertext Processor, it's a recursive acronym.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=0)** - [Joe] [[PHP]] stands for PHP Hypertext Processor, it's a recursive acronym.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=7)** But basically it's a programming language that allows you to add dynamic and backend functionality to your website.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=15)** It's often used for tasks that a markup language like HTML can perform; processing forms, talking to a database, creating secure areas, reading from a text file and more.
+> **[0:15](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=15)** It's often used for tasks that a markup language like [[HTML]] can perform; processing [[Forms]], talking to a database, creating secure areas, reading from a text file and more.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=30)** PHP is a server-side language, meaning our server or remote computer does all of the work and then sends the end results to our browsers.
 >
@@ -242,7 +238,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=58)** HTML strictly structures the data on a page.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=63)** HTML, CSS and JavaScript are also client-side languages, meaning our computers, specifically a web browser, does all of the processing, and we can see all the code.
+> **[1:03](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=63)** HTML, CSS and [[JavaScript]] are also client-side languages, meaning our computers, specifically a web browser, does all of the processing, and we can see all the code.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=76)** That's not the case for PHP.
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=117)** That code will be between opening PHP tags and closing PHP tags.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=124)** The rest will be treated as plain text or HTML.
+> **[2:04](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=124)** The [[Representational State Transfer (REST)|rest]] will be treated as plain text or HTML.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-php-4/how-php-works?u=76281980&t=128)** Because of this, you will see HTML and PHP commingling in the same files a lot.
 >
@@ -270,19 +266,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (16), [[HTML]] (9), data (3), [[Programming]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[PHP]] (16), [[HTML]] (9), [[Forms]] (1), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** php (16), html (9), css (1)
 > **CLI Commands:** php (16)
 > **Definitions:** stands for (1), is a  (1), in other words (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [joe] (1)
 
-#### Printing on the screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980)
+#### [Printing on the screen](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=0)** - [Instructor] The most common task you'll perform in php is printing stuff on the screen.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=0)** - [Instructor] The most common task you'll perform in [[PHP]] is printing stuff on the screen.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=5)** After all, your main goal is to create dynamic websites.
 >
@@ -292,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=27)** Then I'll close my php tags.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=31)** Echo tells php print out whatever follows this word.
+> **[0:31](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=31)** Echo tells php print out whatever follows this [[Microsoft Word|word]].
 >
 > **[0:37](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=37)** You can also see that there are single quotes around hello world.
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=131)** Later, you'll learn how to produce your own line breaks and other special characters.
 >
-> **[2:17](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=137)** php code and html markup can also reside together in a single file on your server.
+> **[2:17](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=137)** php code and [[HTML]] markup can also reside together in a single file on your server.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-php-4/printing-on-the-screen?u=76281980&t=143)** For example, here is a plain html file.
 >
@@ -354,8 +349,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980)
+#### [Using variables](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,11 +363,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=23)** Variables can be used to store numbers, names, or other important data.
 >
-> **[0:29](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=29)** In PHP variables must start with a dollar sign, followed by a letter or an underscore, then an alphanumeric character string.
+> **[0:29](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=29)** In [[PHP]] variables must start with a dollar sign, followed by a letter or an underscore, then an alphanumeric character string.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=39)** Here's an example.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=41)** You see that we have our opening PHP tags, a dollar sign followed by the word age, and then an equal sign, and some value, in this case 34, and we have our semi-colon.
+> **[0:41](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=41)** You see that we have our opening PHP tags, a dollar sign followed by the [[Microsoft Word|word]] age, and then an equal sign, and some value, in this case 34, and we have our semi-colon.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-php-4/using-variables?u=76281980&t=53)** Age is a placeholder for the number that we have stored in it, which is 34.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), data (4), [[Microsoft Word|Word]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[Microsoft Word|Word]] (4)
 > **CLI Commands:** php (10), make (2)
 > **Env Vars:** php (10)
 > **Analogies:** for example (4), such as (1)
@@ -491,8 +485,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single vs. double quotes
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980)
+#### [Single vs. double quotes](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=6)** Let's take a look.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=7)** The main difference between single and double quotes is any string in double quotes will be processed by PHP before it's outputted.
+> **[0:07](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=7)** The main difference between single and double quotes is any string in double quotes will be processed by [[PHP]] before it's outputted.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=16)** That means, for example, any variables in strings with double quotes will become their literal value.
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=202)** So with our single quote here, we can write a backslash.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=206)** You can see the backslash is bright red and the rest of our string is now that maroon color again.
+> **[3:26](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=206)** You can see the backslash is bright red and the [[Representational State Transfer (REST)|rest]] of our string is now that maroon color again.
 >
 > **[3:33](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=213)** If I refresh, we have no error and we have the statement.
 >
@@ -596,7 +589,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=313)** So now if we save this file, and refresh the browser, all right, so you'll see a space was added here and these are still on the same line.
 >
-> **[5:21](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=321)** That's because we are rendering his code in the browser so it's subject to the way HTML is interpreted.
+> **[5:21](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=321)** That's because we are rendering his code in the browser so it's subject to the way [[HTML]] is interpreted.
 >
 > **[5:28](https://www.linkedin.com/learning/learning-php-4/single-vs-double-quotes?u=76281980&t=328)** If we view the page source though, you will see this information gets printed on to two lines.
 >
@@ -634,7 +627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **CLI Commands:** php (9), make (1), find (1)
 > **Env Vars:** php (7), html (1)
 > **URLs:** [php.net](https://php.net) (1)
@@ -642,12 +635,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are arrays and how do they work?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980)
+#### [What are arrays and how do they work?](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=0)** - [Instructor] Arrays are a bit different from the rest of our variables.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=0)** - [Instructor] Arrays are a bit different from the [[Representational State Transfer (REST)|rest]] of our variables.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=4)** Arrays act as key-value pairs that essentially function as a set of variables, so this allows us to make a list of related items that we can reference as one big variable.
 >
@@ -659,7 +651,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=46)** There are two types of arrays you should know about, indexable arrays, which use numbered keys, and associative arrays, which use strings as keys.
 >
-> **[0:58](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=58)** You'll learn how to define each of those in PHP later but for now, let's learn a little bit about how they work as a concept.
+> **[0:58](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=58)** You'll learn how to define each of those in [[PHP]] later but for now, let's learn a little bit about how they work as a concept.
 >
 > **[1:05](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=65)** Indexable arrays are basically numbered lists.
 >
@@ -709,7 +701,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=208)** That includes arrays.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=211)** An array of arrays is called a multidimensional array, and these are especially common when working with databases.
+> **[3:31](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=211)** An array of arrays is called a multidimensional array, and these are especially common when working with [[Databases]].
 >
 > **[3:41](https://www.linkedin.com/learning/learning-php-4/what-are-arrays-and-how-do-they-work?u=76281980&t=221)** You can have an entire table of data returned as an array where each row in the table is also in array, but we're getting ahead of ourselves.
 >
@@ -717,19 +709,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Databases]] (1)
 > **Definitions:** is an  (3), known as (1), is called (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** php (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980)
+#### [Defining arrays](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=0)** - [Instructor] Now that you know what arrays are, let's look at how to use them in PHP, starting with indexable arrays.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=0)** - [Instructor] Now that you know what arrays are, let's look at how to use them in [[PHP]], starting with indexable arrays.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=8)** I'll write my opening php tags.
 >
@@ -757,9 +748,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=84)** So if we wanted to print blue, we would say echo colors, square bracket one, close square bracket.
 >
-> **[1:33](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=93)** Now if we go back out, and refresh, you could see the word blue shows up here.
+> **[1:33](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=93)** Now if we go back out, and refresh, you could see the [[Microsoft Word|word]] blue shows up here.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=100)** And if we wanted to have it on its own line, we can add some HTML, so I will add single quotes.
+> **[1:40](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=100)** And if we wanted to have it on its own line, we can add some [[HTML]], so I will add single quotes.
 >
 > **[1:48](https://www.linkedin.com/learning/learning-php-4/defining-arrays?u=76281980&t=108)** I'll say echo, single quote, paragraph tag, close single quote, use our concatenation period and then after colors, I'll do the same thing.
 >
@@ -883,7 +874,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (2), [[HTML]] (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (2), [[HTML]] (1)
 > **CLI Commands:** php (5), make (3), find (1)
 > **Definitions:** is a  (4), means that (2), is an  (1)
 > **Env Vars:** php (4), html (1)
@@ -892,8 +883,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Display basic information on an HTML page
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-display-basic-information-on-an-html-page?u=76281980)
+#### [Challenge: Display basic information on an HTML page](https://www.linkedin.com/learning/learning-php-4/challenge-display-basic-information-on-an-html-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,14 +897,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Display basic information on an HTML page
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980)
+#### [Solution: Display basic information on an HTML page](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980&t=24)** So, let's take a look.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980&t=26)** So, first of all I have opted to print out all of the HTML with PHP.
+> **[0:26](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980&t=26)** So, first of all I have opted to print out all of the [[HTML]] with [[PHP]].
 >
 > **[0:32](https://www.linkedin.com/learning/learning-php-4/solution-display-basic-information-on-an-html-page?u=76281980&t=32)** Another way we could have done it was to end our PHP tags, and then write the HTML, echoing the variables as needed.
 >
@@ -983,11 +971,9 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boolean operators and the truth (update for PHP 8.0)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
+#### [Boolean operators and the truth (update for PHP 8.0)](https://www.linkedin.com/learning/learning-php-4/boolean-operators-and-the-truth-update-for-php-8-0-11628174?u=76281980)
 
-#### Logical operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980)
+#### [Logical operators](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1037,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=117)** So let's look at a couple of examples in code.
 >
-> **[2:02](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=122)** Alright, my opening PHP statement.
+> **[2:02](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=122)** Alright, my opening [[PHP]] statement.
 >
 > **[2:04](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=124)** And then I'll create a couple of variables.
 >
@@ -1097,7 +1083,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=294)** So C is evaluating to true here even though C evaluates to false when we use the double ampersand.
 >
-> **[5:03](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=303)** That's because the double ampersand takes precedence over the assignment operator, but the word and does not.
+> **[5:03](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=303)** That's because the double ampersand takes precedence over the assignment operator, but the [[Microsoft Word|word]] and does not.
 >
 > **[5:14](https://www.linkedin.com/learning/learning-php-4/logical-operators?u=76281980&t=314)** So what's happening here is C is getting assigned to A, and this statement, C gets A and B is being evaluated.
 >
@@ -1136,8 +1122,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating if/else statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980)
+#### [Creating if/else statements](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,7 +1180,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=153)** A single "if" will always go first.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=156)** The first condition to evaluate as true will be the only one that runs and the rest will be ignored.
+> **[2:36](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=156)** The first condition to evaluate as true will be the only one that runs and the [[Representational State Transfer (REST)|rest]] will be ignored.
 >
 > **[2:44](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=164)** And the else statement always goes last.
 >
@@ -1249,13 +1234,13 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=316)** You can see here that we have "if" the parentheses and the condition to check, but then we have a colon instead of a curly brace.
 >
-> **[5:26](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=326)** And then when we have our elseif, it's worth pointing out here that elseif is one word.
+> **[5:26](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=326)** And then when we have our elseif, it's worth pointing out here that elseif is one [[Microsoft Word|word]].
 >
 > **[5:33](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=333)** There's no space.
 >
 > **[5:34](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=334)** A different condition followed by colon, else followed by a colon and then the words elseif.
 >
-> **[5:42](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=342)** This alternative syntax is great, if you are printing out a lot of HTML, where you have to exit and enter the PHP tags a lot.
+> **[5:42](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=342)** This alternative syntax is great, if you are printing out a lot of [[HTML]], where you have to exit and enter the [[PHP]] tags a lot.
 >
 > **[5:52](https://www.linkedin.com/learning/learning-php-4/creating-if-else-statements?u=76281980&t=352)** So in this example, we have if home_page, we'll say we have a variable called home_page, colon and then we close our PHP tags.
 >
@@ -1309,8 +1294,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ternary operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980)
+#### [Ternary operations](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,7 +1398,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980&t=281)** What we could say instead is we'll delete this entire statement and we'll say name gets name ?: Joe.
 >
-> **[4:53](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980&t=293)** So this shorthand tells PHP if name is null, then use this other backup value.
+> **[4:53](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980&t=293)** So this shorthand tells [[PHP]] if name is null, then use this other backup value.
 >
 > **[5:00](https://www.linkedin.com/learning/learning-php-4/ternary-operations?u=76281980&t=300)** And it's called the Elvis operator because it kind of looks like Elvis.
 >
@@ -1437,8 +1421,7 @@ created: 2026-05-02
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Switch statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980)
+#### [Switch statements](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1514,7 +1497,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980&t=186)** We'll save this, refresh.
 >
-> **[3:08](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980&t=188)** So total is one and then it prints total is two, and then we have the break statement, so the rest don't print, but if we don't have any of these, because one of the cases evaluated to true, we're going to have all of the values or all of the code execute.
+> **[3:08](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980&t=188)** So total is one and then it prints total is two, and then we have the break statement, so the [[Representational State Transfer (REST)|rest]] don't print, but if we don't have any of these, because one of the cases evaluated to true, we're going to have all of the values or all of the code execute.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-php-4/switch-statements?u=76281980&t=207)** So again, these break statements are crucial.
 >
@@ -1591,11 +1574,9 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Match expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/match-expression?u=76281980)
+#### [Match expression](https://www.linkedin.com/learning/learning-php-4/match-expression?u=76281980)
 
-#### Challenge: Display content based on status
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-display-content-based-on-status?u=76281980)
+#### [Challenge: Display content based on status](https://www.linkedin.com/learning/learning-php-4/challenge-display-content-based-on-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,8 +1605,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Display content based on status
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980)
+#### [Solution: Display content based on status](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,7 +1621,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980&t=27)** And you were provided with two ways to assign num to a value.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980&t=32)** Just a static way, which was manually assign one, or use the random function built into PHP.
+> **[0:32](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980&t=32)** Just a static way, which was manually assign one, or use the random function built into [[PHP]].
 >
 > **[0:41](https://www.linkedin.com/learning/learning-php-4/solution-display-content-based-on-status?u=76281980&t=41)** Now, I included both so that you could easily test your code with a number where you knew the guessed value so you could create test cases based on that, and then when you were confident, you could uncomment this line and use the random value.
 >
@@ -1739,7 +1719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), game (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** make (4), php (2)
 > **Env Vars:** php (2)
 > **Definitions:** is a  (1), means that (1)
@@ -1753,8 +1733,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Arithmetic operators
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
+#### [Arithmetic operators](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,7 +1741,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980&t=5)** It could be as simple as incrementing and detrimenting or you can do some pretty advanced calculations.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980&t=11)** Heck, some gaming engines are made partially with PHP.
+> **[0:11](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980&t=11)** Heck, some gaming engines are made partially with [[PHP]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-php-4/arithmetic-operators?u=76281980&t=16)** So to start, you can perform the four traditional arithmetic operations.
 >
@@ -1829,12 +1808,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Figuring out even/odd with modulus
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/figuring-out-even-odd-with-modulus?u=76281980)
+#### [Figuring out even/odd with modulus](https://www.linkedin.com/learning/learning-php-4/figuring-out-even-odd-with-modulus?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/figuring-out-even-odd-with-modulus?u=76281980&t=0)** - [Instructor] There's one more arithmetic operation that's a little different from the rest because it doesn't give the actual results, it gives the remainder of dividing two numbers and it's called modulus or modulo.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/figuring-out-even-odd-with-modulus?u=76281980&t=0)** - [Instructor] There's one more arithmetic operation that's a little different from the [[Representational State Transfer (REST)|rest]] because it doesn't give the actual results, it gives the remainder of dividing two numbers and it's called modulus or modulo.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-php-4/figuring-out-even-odd-with-modulus?u=76281980&t=14)** It's represented by a present sign and it gives you the remainder of dividing two numbers.
 >
@@ -1890,15 +1868,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** css (3)
 > **CLI Commands:** find (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incrementing and decrementing variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980)
+#### [Incrementing and decrementing variables](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,7 +1919,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980&t=93)** A is five and then we say the value of a is a++.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980&t=99)** This is going to still be five because PHP is processing a and then processing the ++.
+> **[1:39](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980&t=99)** This is going to still be five because [[PHP]] is processing a and then processing the ++.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-php-4/incrementing-and-decrementing-variables?u=76281980&t=107)** And then a will be six.
 >
@@ -2004,14 +1981,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (1)
 > **Definitions:** is a  (3), means that (1)
 > **Env Vars:** php (3)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Implementing a complicated calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980)
+#### [Challenge: Implementing a complicated calculation](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2019,7 +1995,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980&t=5)** - [Instructor] All right, it's time for another challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980&t=8)** To make sure you grasp the basics of PHP, in this challenge, you will perform a set of mathematical operations and store them in variables.
+> **[0:08](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980&t=8)** To make sure you grasp the basics of [[PHP]], in this challenge, you will perform a set of mathematical operations and store them in variables.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-php-4/challenge-implementing-a-complicated-calculation?u=76281980&t=18)** Store each of the following equations or the results of each equation in an array called results.
 >
@@ -2042,8 +2018,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Implementing a complicated calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980)
+#### [Solution: Implementing a complicated calculation](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,7 +2042,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=68)** So there's our first results.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=71)** We can do the same thing for the rest of the results as far as assignments go.
+> **[1:11](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=71)** We can do the same thing for the [[Representational State Transfer (REST)|rest]] of the results as far as assignments go.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=76)** That's the beauty of using an array and so, now we have 18 times three divided by six minus nine, in parentheses, times 10.
 >
@@ -2097,7 +2072,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=198)** You may have done things a different way with different parentheses.
 >
-> **[3:22](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=202)** One of the important things to take away from this challenge is that depending on the version of PHP you're using, you may run into some problems and so making the parentheses as explicit as possible will always help with your operations.
+> **[3:22](https://www.linkedin.com/learning/learning-php-4/solution-implementing-a-complicated-calculation?u=76281980&t=202)** One of the important things to take away from this challenge is that depending on the version of [[PHP]] you're using, you may run into some problems and so making the parentheses as explicit as possible will always help with your operations.
 
 > [!info]- Semantic Content
 >
@@ -2115,8 +2090,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are loops?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
+#### [What are loops?](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,11 +2118,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980&t=105)** These are loops that never terminate and they will crash your website or your application, but luckily, there are a few loops with safeguards to make sure that doesn't happen.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980&t=116)** So let's take a look at three types of loops in PHP, while loops, for loops and foreach loops.
+> **[1:56](https://www.linkedin.com/learning/learning-php-4/what-are-loops?u=76281980&t=116)** So let's take a look at three types of loops in [[PHP]], while loops, for loops and foreach loops.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), application (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** make (1), php (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** php (1)
@@ -2156,8 +2130,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do/while loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980)
+#### [Do/while loops](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,7 +2144,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980&t=16)** The first uses the keyword "do."
 >
-> **[0:19](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980&t=19)** So we'll add our php tags.
+> **[0:19](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980&t=19)** So we'll add our [[PHP]] tags.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-php-4/do-while-loops?u=76281980&t=22)** Let's create some condition here.
 >
@@ -2223,14 +2196,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **CLI Commands:** php (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### For loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980)
+#### [For loops](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2256,7 +2228,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=53)** We have our condition, I is less than 10, and then we have our incrementer.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=60)** Now it's important to note here that even though the incrementer is included in the loop definition, it's not enforced by the PHP compiler.
+> **[1:00](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=60)** Now it's important to note here that even though the incrementer is included in the loop definition, it's not enforced by the [[PHP]] compiler.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=71)** So you can leave it off and still have a valid for loop.
 >
@@ -2338,7 +2310,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=327)** Now you will probably traverse through a lot of arrays.
 >
-> **[5:31](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=331)** That's how a lot of data is sent back, especially when you start working with files or databases.
+> **[5:31](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=331)** That's how a lot of data is sent back, especially when you start working with files or [[Databases]].
 >
 > **[5:36](https://www.linkedin.com/learning/learning-php-4/for-loops?u=76281980&t=336)** And luckily when it comes to arrays, you don't need to do most of this because PHP has a loop specifically for arrays.
 >
@@ -2346,7 +2318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (1), data (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Databases]] (1)
 > **CLI Commands:** php (3), make (1)
 > **Env Vars:** php (3)
 > **Cross-References:** as you saw (1)
@@ -2355,8 +2327,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working through arrays with foreach loops
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980)
+#### [Working through arrays with foreach loops](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,7 +2357,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=76)** We don't need to worry about indexes, array sizes, or anything like that.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=82)** PHP takes care of it all for us.
+> **[1:22](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=82)** [[PHP]] takes care of it all for us.
 >
 > **[1:26](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=86)** This also works with associative arrays.
 >
@@ -2412,7 +2383,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=134)** We don't need to figure out how to do this with a while loop or a for loop, especially when it comes to big complex arrays like the brothers array we saw earlier.
 >
-> **[2:25](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=145)** This will come in handy, especially when you're working with files and databases.
+> **[2:25](https://www.linkedin.com/learning/learning-php-4/working-through-arrays-with-foreach-loops?u=76281980&t=145)** This will come in handy, especially when you're working with files and [[Databases]].
 
 > [!info]- Semantic Content
 >
@@ -2423,8 +2394,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculating the Fibonacci sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-calculating-the-fibonacci-sequence?u=76281980)
+#### [Challenge: Calculating the Fibonacci sequence](https://www.linkedin.com/learning/learning-php-4/challenge-calculating-the-fibonacci-sequence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2440,11 +2410,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-php-4/challenge-calculating-the-fibonacci-sequence?u=76281980&t=34)** There's no starter file for this one.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-php-4/challenge-calculating-the-fibonacci-sequence?u=76281980&t=36)** You'll just be starting with a blank PHP file.
+> **[0:36](https://www.linkedin.com/learning/learning-php-4/challenge-calculating-the-fibonacci-sequence?u=76281980&t=36)** You'll just be starting with a blank [[PHP]] file.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
@@ -2452,8 +2422,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Calculating the Fibonacci sequence
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980)
+#### [Solution: Calculating the Fibonacci sequence](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2501,7 +2470,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980&t=196)** So with that, what we can do is a few fancy things on sequence once we exit the loop.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980&t=204)** The first thing we can do is trim all white space so there is a built in function called trim in PHP that will remove white space from the beginning and end of a string.
+> **[3:24](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980&t=204)** The first thing we can do is trim all white space so there is a built in function called trim in [[PHP]] that will remove white space from the beginning and end of a string.
 >
 > **[3:38](https://www.linkedin.com/learning/learning-php-4/solution-calculating-the-fibonacci-sequence?u=76281980&t=218)** So that will take care of the last space.
 >
@@ -2527,7 +2496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[PHP]] (2)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Definitions:** is a  (3)
 > **CLI Commands:** php (2)
 > **Env Vars:** php (2)
@@ -2540,8 +2509,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are functions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
+#### [What are functions?](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2567,7 +2535,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=78)** In this case, our function is printing out Hello World, and you could see it in use below.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=85)** So we have our paragraph tag and then our opening PHP tags.
+> **[1:25](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=85)** So we have our paragraph tag and then our opening [[PHP]] tags.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=90)** We have the function name, Hello World with the parentheses and a semi-colon, our closing PHP tag, and then our closing paragraph tag.
 >
@@ -2577,7 +2545,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=105)** So again, we have our keyword function, the name of the function, Hello World, with the parentheses, the curly braces.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=113)** And the only difference is that instead of the word echo, we have the keyword return, which basically says treat whatever you are sending back from this function as a variable.
+> **[1:53](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=113)** And the only difference is that instead of the [[Microsoft Word|word]] echo, we have the keyword return, which basically says treat whatever you are sending back from this function as a variable.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-php-4/what-are-functions?u=76281980&t=128)** So in this case, we are using the word echo.
 >
@@ -2639,12 +2607,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using built-in functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980)
+#### [Using built-in functions](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=0)** - PHP has an extensive library of functions to help us complete certain actions more efficiently.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=0)** - [[PHP]] has an extensive library of functions to help us complete certain actions more efficiently.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=6)** You saw it with the size of function earlier, without that function, we'd have to write our own much more resource, heavy way to get the number of elements in an array.
 >
@@ -2676,7 +2643,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=100)** All of that being said, the PHP documentation does have a way for you to search through the documentation with the function reference.
 >
-> **[1:48](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=108)** If we scroll down, we have variable and type related extensions, or we can do a page search for the word string, and then we can look at the results there.
+> **[1:48](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=108)** If we scroll down, we have variable and type related extensions, or we can do a page search for the [[Microsoft Word|word]] string, and then we can look at the results there.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-php-4/using-built-in-functions?u=76281980&t=119)** So under text processing, there's an entire section for strings.
 >
@@ -2720,7 +2687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Search]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (6), find (3)
 > **Env Vars:** php (5), ide (1), str (1)
 > **Definitions:** is an  (2), is a  (2)
@@ -2729,8 +2696,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### Writing custom functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980)
+#### [Writing custom functions](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2738,7 +2704,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980&t=9)** We're going to use one of my favorite examples from when I was in school and that is detecting if a string is a palindrome, that is a string that reads the same backwards and forwards.
 >
-> **[0:22](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980&t=22)** This will allow us to accomplish a few objectives, create a Boolean function, pass an argument to that function and use built in PHP functions.
+> **[0:22](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980&t=22)** This will allow us to accomplish a few objectives, create a Boolean function, pass an argument to that function and use built in [[PHP]] functions.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-php-4/writing-custom-functions?u=76281980&t=31)** Let's get started.
 >
@@ -2853,14 +2819,11 @@ created: 2026-05-02
 > **Code Identifiers:** str_replace (1)
 > **URLs:** [php.net](https://php.net) (1)
 
-#### Union typing variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/union-typing-variables?u=76281980)
+#### [Union typing variables](https://www.linkedin.com/learning/learning-php-4/union-typing-variables?u=76281980)
 
-#### Optional or named arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/optional-or-named-arguments?u=76281980)
+#### [Optional or named arguments](https://www.linkedin.com/learning/learning-php-4/optional-or-named-arguments?u=76281980)
 
-#### Anonymous functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980)
+#### [Anonymous functions](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2872,7 +2835,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980&t=16)** These are also called closures or callback functions.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980&t=20)** The latter because sometimes functions in PHP require a different function as the second argument.
+> **[0:20](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980&t=20)** The latter because sometimes functions in [[PHP]] require a different function as the second argument.
 >
 > **[0:28](https://www.linkedin.com/learning/learning-php-4/anonymous-functions?u=76281980&t=28)** PHP is basically saying, we will do some of the work, but you need to tell us how to do it.
 >
@@ -2947,8 +2910,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are objects and classes?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980)
+#### [What are objects and classes?](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2966,7 +2928,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980&t=27)** And the benefit is that you can have a single set of variables and functions and based on the object, reference them.
 >
-> **[0:36](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980&t=36)** PHP has many built-in functions but we can also write our own.
+> **[0:36](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980&t=36)** [[PHP]] has many built-in functions but we can also write our own.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-php-4/what-are-objects-and-classes?u=76281980&t=41)** So if you have a Person class, you can use it to create two Person objects, Alice and Bob.
 >
@@ -3032,14 +2994,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining a simple person class (update for PHP 8.0)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/defining-a-simple-person-class-update-for-php-8-0?u=76281980)
+#### [Defining a simple person class (update for PHP 8.0)](https://www.linkedin.com/learning/learning-php-4/defining-a-simple-person-class-update-for-php-8-0?u=76281980)
 
-#### Using the person class
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/using-the-person-class-8393866?u=76281980)
+#### [Using the person class](https://www.linkedin.com/learning/learning-php-4/using-the-person-class-8393866?u=76281980)
 
-#### Challenge: Sort an array of objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-sort-an-array-of-objects?u=76281980)
+#### [Challenge: Sort an array of objects](https://www.linkedin.com/learning/learning-php-4/challenge-sort-an-array-of-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3062,8 +3021,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sort an array of objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980)
+#### [Solution: Sort an array of objects](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3081,7 +3039,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=42)** So we could say something like a get last name and then the spaceship operator b get last name
 >
-> **[1:03](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=63)** and if we do this and then print out the results of the sort pre and then we'll add our php tags again
+> **[1:03](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=63)** and if we do this and then print out the results of the sort pre and then we'll add our [[PHP]] tags again
 >
 > **[1:19](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=79)** and pre and then refresh the page.
 >
@@ -3107,7 +3065,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=165)** So what this is saying is use the spaceship operator to first compare last names or the first element in the array and then compare the first name or the second element in the array.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=181)** Now if I save this, reduce the window size again and refresh, now the Casabonas are sorted properly and the rest of the array is, too.
+> **[3:01](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=181)** Now if I save this, reduce the window size again and refresh, now the Casabonas are sorted properly and the [[Representational State Transfer (REST)|rest]] of the array is, too.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-php-4/solution-sort-an-array-of-objects?u=76281980&t=196)** So that's how you can use an anonymous function within the built-in usort function to sort an array of person objects.
 
@@ -3124,8 +3082,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
+#### [Organizing your code](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3133,13 +3090,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=7)** There is a better way. External files.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=11)** PHP offers a few ways for you to include files inside your code but they are all referred to as server side includes.
+> **[0:11](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=11)** [[PHP]] offers a few ways for you to include files inside your code but they are all referred to as server side includes.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=20)** This, as the name suggests, includes all of the files in a single package that it sends to the browser.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=27)** That means there's only one HTTP request.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=31)** Unlike HTML, CSS, and JavaScript, which generally require one HTTP request per file, PHP does all of the processing, including the files on the server, and sends them as one.
+> **[0:31](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=31)** Unlike [[HTML]], CSS, and [[JavaScript]], which generally require one HTTP request per file, PHP does all of the processing, including the files on the server, and sends them as one.
 >
 > **[0:45](https://www.linkedin.com/learning/learning-php-4/organizing-your-code?u=76281980&t=45)** There are several benefits to using server side includes in your applications.
 >
@@ -3181,19 +3138,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (3), css (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (3), [[JavaScript]] (1)
 > **Env Vars:** php (6), html (3), http (2), css (1)
 > **CLI Commands:** php (6)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using include and require
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980)
+#### [Using include and require](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=0)** - [Instructor] There are two ways to include external files in PHP.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=0)** - [Instructor] There are two ways to include external files in [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=4)** They are with the built-in directives or functions, Include and Require.
 >
@@ -3215,7 +3171,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=80)** So we don't want to cause an error, Require variables dot PHP.
 >
-> **[1:27](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=87)** Now, if we open this in the browser, we see our HTML is printed out with our variables.
+> **[1:27](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=87)** Now, if we open this in the browser, we see our [[HTML]] is printed out with our variables.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-php-4/using-include-and-require?u=76281980&t=94)** And if we view the source, you'll see at the HTML, no traces of PHP here.
 >
@@ -3285,8 +3241,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### include_once and require_once
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980)
+#### [include_once and require_once](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3294,7 +3249,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980&t=7)** These files work exactly the same as include and require, except that if the file in question has already been included, these functions return the value true and the file isn't included again.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980&t=19)** This is great if you want to make sure you're not including a set of functions or a class more than once, because PHP throws an error if you try to redefine these functions or classes.
+> **[0:19](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980&t=19)** This is great if you want to make sure you're not including a set of functions or a class more than once, because [[PHP]] throws an error if you try to redefine these functions or classes.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-php-4/include-once-and-require-once?u=76281980&t=32)** So let's take a look at a quick example.
 >
@@ -3345,18 +3300,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Namespacing
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980)
+#### [Namespacing](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=0)** - [Illustrator] When you declare a variable, you can reassign values to it over and over again, even within the same scope.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=7)** But when it comes to functions and classes, PHP isn't so open to that, and for good reason.
+> **[0:07](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=7)** But when it comes to functions and classes, [[PHP]] isn't so open to that, and for good reason.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=14)** Changing how a function works in the middle of a program would be like replacing your car engine with a bike pedals in the middle of the Daytona 500.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=23)** That also means you need to be mindful of the code already written, especially if you're working within a larger framework with lots of contributing developers, something like WordPress or Laravel.
+> **[0:23](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=23)** That also means you need to be mindful of the code already written, especially if you're working within a larger framework with lots of contributing developers, something like [[WordPress]] or [[Laravel]].
 >
 > **[0:35](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=35)** You might not know all of the code that's written or could be written, and if your class or function names are not specific enough, you could unknowingly cause a site breaking errors.
 >
@@ -3388,7 +3342,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=120)** The first thing that we want to do to create the namespace is actually define it.
 >
-> **[2:04](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=124)** So we'll add our PHP tag and then the next line will be the word namespace, and then whatever we want the namespace to be.
+> **[2:04](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=124)** So we'll add our PHP tag and then the next line will be the [[Microsoft Word|word]] namespace, and then whatever we want the namespace to be.
 >
 > **[2:14](https://www.linkedin.com/learning/learning-php-4/namespacing?u=76281980&t=134)** We'll call this learning PHP.
 >
@@ -3410,7 +3364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (1), [[Laravel]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[WordPress]] (1), [[Laravel]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (8)
 > **Code Identifiers:** learningphp (3)
@@ -3419,14 +3373,13 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Challenge: Build a simple templating system for the provided markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980)
+#### [Challenge: Build a simple templating system for the provided markup](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=5)** - [Instructor] Complex websites are significantly easier to manage when using PHP because you have the opportunity to templatize sections, which you can then change in one place and know they'll change everywhere.
+> **[0:05](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=5)** - [Instructor] Complex websites are significantly easier to manage when using [[PHP]] because you have the opportunity to templatize sections, which you can then change in one place and know they'll change everywhere.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-php-4/challenge-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=18)** For this challenge, take the Exercise Files, the provided markup, and turn it into a set of templates.
 >
@@ -3441,16 +3394,15 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Build a simple templating system for the provided markup
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980)
+#### [Solution: Build a simple templating system for the provided markup](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=0)** - [Instructor] All right, let's take a look at the solution for our website template challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=11)** Here's the resulting HTML.
+> **[0:11](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=11)** Here's the resulting [[HTML]].
 >
-> **[0:13](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=13)** And if we go back to our directory, you can see that we have a single index.PHP file that we want to convert into templates.
+> **[0:13](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=13)** And if we go back to our directory, you can see that we have a single index.[[PHP]] file that we want to convert into templates.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/solution-build-a-simple-templating-system-for-the-provided-markup?u=76281980&t=23)** So I'm going to go ahead and create two directories here.
 >
@@ -3568,7 +3520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (13), [[HTML]] (5), next (2)
+> **Frameworks & Libraries:** [[PHP]] (13), [[HTML]] (5)
 > **Env Vars:** php (13), html (5)
 > **CLI Commands:** php (13), make (2)
 > **File Paths:** header.php (3), footer.php (2), index.php (1), a.php (1), about.php (1)
@@ -3582,8 +3534,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common debugging tools in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
+#### [Common debugging tools in PHP](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3613,7 +3564,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=80)** How you turn on errors will vary from environment to environment.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=84)** You can turn on debugging in certain tools, or you can modify what's called your PHP INI file.
+> **[1:24](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=84)** You can turn on debugging in certain tools, or you can modify what's called your [[PHP]] INI file.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=93)** We haven't talked much about the PHP INI file so far, but it's basically a settings or configuration file for your server.
 >
@@ -3641,7 +3592,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=172)** We'll go to our browser, refresh, and there's nothing on the page.
 >
-> **[2:56](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=176)** It's completely blank, and there is no HTML outputted either.
+> **[2:56](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=176)** It's completely blank, and there is no [[HTML]] outputted either.
 >
 > **[3:01](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=181)** If we change error reporting to E_ALL which is a constant saying report all errors, we'll learn why the page is blank.
 >
@@ -3671,11 +3622,11 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=290)** There are also tons of advanced debugging tools and tricks you can set up on your computer, like Xdebug.
 >
-> **[4:57](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=297)** To learn more about those, check out the PHP debugging course in the LinkedIn learning library.
+> **[4:57](https://www.linkedin.com/learning/learning-php-4/common-debugging-tools-in-php?u=76281980&t=297)** To learn more about those, check out the PHP debugging course in the [[LinkedIn]] learning library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Debugging]] (3), data (3), [[Troubleshooting]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[HTML]] (1), [[LinkedIn]] (1)
 > **Env Vars:** php (8), ini (4), ide (1), html (1), e_all (1)
 > **CLI Commands:** php (8), find (1), make (1)
 > **Code Identifiers:** var_dump (5), error_reporting (1)
@@ -3684,12 +3635,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Types of PHP errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980)
+#### [Types of PHP errors](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=0)** - [Instructor] There are several different types of errors in PHP, and they will behave differently based on their severity.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=0)** - [Instructor] There are several different types of errors in [[PHP]], and they will behave differently based on their severity.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=7)** Syntax or parse errors are generally typos or misused characters in your code.
 >
@@ -3707,7 +3657,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=72)** I know that there is a missing escape here.
 >
-> **[1:17](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=77)** And so once I do that, the underline goes away and the rest of my syntax highlighting is looking good.
+> **[1:17](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=77)** And so once I do that, the underline goes away and the [[Representational State Transfer (REST)|rest]] of my syntax highlighting is looking good.
 >
 > **[1:25](https://www.linkedin.com/learning/learning-php-4/types-of-php-errors?u=76281980&t=85)** Warnings are errors that will not terminate your code, but will tell you of a situation that might cause bigger problems down the line.
 >
@@ -3771,7 +3721,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is an  (1)
 > **CLI Commands:** php (5), make (1)
 > **Env Vars:** php (4)
@@ -3780,8 +3730,7 @@ created: 2026-05-02
 > **File Paths:** variables.php (1)
 > **Analogies:** imagine (1)
 
-#### Why is my page blank?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980)
+#### [Why is my page blank?](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3791,7 +3740,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980&t=24)** Outside of a completely blank page, you might have an error where you have some output but at some point it just stops.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980&t=34)** And in any of these cases, this will happen if you have error reporting turned off in PHP.
+> **[0:34](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980&t=34)** And in any of these cases, this will happen if you have error reporting turned off in [[PHP]].
 >
 > **[0:41](https://www.linkedin.com/learning/learning-php-4/why-is-my-page-blank?u=76281980&t=41)** This will be most common with syntax errors because they completely stop the code from compiling.
 >
@@ -3811,14 +3760,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **Env Vars:** php (3), ini (2)
 > **CLI Commands:** php (3), make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common parse errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980)
+#### [Common parse errors](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3838,7 +3786,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=43)** That's something to keep in mind.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=45)** Usually when you see the word unexpected, you could be missing a semi-colon.
+> **[0:45](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=45)** Usually when you see the [[Microsoft Word|word]] unexpected, you could be missing a semi-colon.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=50)** Incomplete quotes is a another error that you might come across and this could cause two different types of errors that might cause some confusion.
 >
@@ -3854,7 +3802,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=97)** Now we see the actual error, which is a warning.
 >
-> **[1:40](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=100)** Undefined constant hello, assumed and then hello in quotes, this will throw an error in a future version of PHP.
+> **[1:40](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=100)** Undefined constant hello, assumed and then hello in quotes, this will throw an error in a future version of [[PHP]].
 >
 > **[1:49](https://www.linkedin.com/learning/learning-php-4/common-parse-errors?u=76281980&t=109)** So technically, if we had errors turned off, we would see nothing here, we would just see what we expected.
 >
@@ -3894,15 +3842,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[PHP]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **CLI Commands:** php (2), make (1)
 > **Warnings:** warning (2), keep in mind (1)
 > **Env Vars:** php (2)
 > **Speakers:** - [instructor] (1)
 
-#### Common PHP errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980)
+#### [Common PHP errors](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3922,7 +3869,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=31)** Warning, cannot modify header information, headers are already sent.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=37)** This one is actually less common because recent versions of PHP offer a buffer, but it's a bit of a head scratcher.
+> **[0:37](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=37)** This one is actually less common because recent versions of [[PHP]] offer a buffer, but it's a bit of a head scratcher.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=44)** Basically the header directive or function allows you to send headers about the file.
 >
@@ -3954,7 +3901,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=128)** It's to prevent errors like that.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=132)** When you don't need to close the PHP tag to allow for HTML output, you should leave it out.
+> **[2:12](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=132)** When you don't need to close the PHP tag to allow for [[HTML]] output, you should leave it out.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-php-4/common-php-errors?u=76281980&t=140)** Now, if we refresh, we do redirect, but there is no index.php page for this folder, so we get a not found error.
 >
@@ -3982,27 +3929,24 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### Try/catch statements (update for PHP 8.0)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/try-catch-statements-update-for-php-8-0?u=76281980)
+#### [Try/catch statements (update for PHP 8.0)](https://www.linkedin.com/learning/learning-php-4/try-catch-statements-update-for-php-8-0?u=76281980)
 
-#### Breaking changes moving from 7.x to 8.0
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/breaking-changes-moving-from-7-x-to-8-0?u=76281980)
+#### [Breaking changes moving from 7.x to 8.0](https://www.linkedin.com/learning/learning-php-4/breaking-changes-moving-from-7-x-to-8-0?u=76281980)
 
 
 ### 8. Processing Forms
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GET vs. POST
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
+#### [GET vs. POST](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=0)** - [Instructor] Processing forms is one of the most common things you'll probably do on your website in PHP.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=0)** - [Instructor] Processing [[Forms]] is one of the most common things you'll probably do on your website in [[PHP]].
 >
 > **[0:06](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=6)** But before we get into actually processing the forms, there are two methods for processing that you should know about, GET and POST.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=15)** This is associated with the method attribute in HTML, which determines how the form data should be sent.
+> **[0:15](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=15)** This is associated with the method attribute in [[HTML]], which determines how the form data should be sent.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/get-vs-post?u=76281980&t=23)** GET is the default option, this method transmits data from one page to another as part of the URL.
 >
@@ -4048,7 +3992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forms]] (3), [[PHP]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[PHP]] (2), [[HTML]] (1)
 > **Env Vars:** post (7), url (4), php (2), html (1)
 > **API Endpoints:** get  (4), post
  (3), post  (2)
@@ -4057,8 +4001,7 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling basic form elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980)
+#### [Handling basic form elements](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4082,7 +4025,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980&t=52)** The action attribute is the page that should process the form.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980&t=56)** And I've created a new file called process.php here to make the form processing a little clearer.
+> **[0:56](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980&t=56)** And I've created a new file called process.[[PHP]] here to make the form processing a little clearer.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-php-4/handling-basic-form-elements?u=76281980&t=64)** In order to process the basic form elements, we can just treat the post array as any other associative array.
 >
@@ -4146,8 +4089,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handing multiple-choice elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980)
+#### [Handing multiple-choice elements](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4171,7 +4113,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980&t=58)** So we'll go ahead and fill this out.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980&t=63)** I'll select PHP and WordPress, and then I'll select Star Wars IV and V, and I liked VII.
+> **[1:03](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980&t=63)** I'll select [[PHP]] and [[WordPress]], and then I'll select Star Wars IV and V, and I liked VII.
 >
 > **[1:15](https://www.linkedin.com/learning/learning-php-4/handing-multiple-choice-elements?u=76281980&t=75)** And then I'll add the message, "Hello There!"
 >
@@ -4237,7 +4179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[WordPress]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[WordPress]] (1)
 > **Env Vars:** php (6), vii (1)
 > **CLI Commands:** php (6)
 > **Cross-References:** go back to (2)
@@ -4246,12 +4188,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - each (1)
 
-#### Form validation: Making sure required fields are filled in
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980)
+#### [Form validation: Making sure required fields are filled in](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=0)** - [Instructor] Form validation is mostly handled with HTML and JavaScript these days.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=0)** - [Instructor] Form validation is mostly handled with [[HTML]] and [[JavaScript]] these days.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=5)** But it's still important to make sure you're getting proper data on the backend because people could have JavaScript turned off or they could be using an older browser or the browser validation might not validate the same way you want to validate.
 >
@@ -4261,7 +4202,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=54)** So it's going to take a little bit of trickery to make sure that we are getting test data that we can make sure is valid.
 >
-> **[1:04](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=64)** So the first thing I'm going to do here is right above the label for the first form element that's required, which is the name, I'm going to write some in-line PHP here and I'm going to say if isset, POST name
+> **[1:04](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=64)** So the first thing I'm going to do here is right above the label for the first form element that's required, which is the name, I'm going to write some in-line [[PHP]] here and I'm going to say if isset, POST name
 >
 > **[1:25](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=85)** and we will add a parentheses here just to make sure everything is being processed properly.
 >
@@ -4351,7 +4292,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=353)** We'll fill this out with two spaces.
 >
-> **[5:57](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=357)** We'll fill out the rest of the form.
+> **[5:57](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=357)** We'll fill out the [[Representational State Transfer (REST)|rest]] of the form.
 >
 > **[6:01](https://www.linkedin.com/learning/learning-php-4/form-validation-making-sure-required-fields-are-filled-in?u=76281980&t=361)** Then we'll click Submit.
 >
@@ -4383,7 +4324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), data (4), [[HTML]] (2), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[HTML]] (2), [[JavaScript]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (10), php (5)
 > **Code Identifiers:** form_complete (9)
 > **Env Vars:** php (4), html (2), post (2), html5 (1)
@@ -4392,8 +4333,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **File Paths:** process.php (1)
 
-#### Form validation: Appropriate input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980)
+#### [Form validation: Appropriate input](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4453,7 +4393,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=189)** Okay, so I'm going to try to enter an invalid email.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=198)** And the HTML field is telling us we need an at symbol.
+> **[3:18](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=198)** And the [[HTML]] field is telling us we need an at symbol.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=202)** So I'll just try joe@casabona and submit.
 >
@@ -4471,22 +4411,20 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=243)** So it's good to have that other check.
 >
-> **[4:05](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=245)** If you want to learn more about regular expressions, check out the learning regular expressions course in the LinkedIn Learning library.
+> **[4:05](https://www.linkedin.com/learning/learning-php-4/form-validation-appropriate-input?u=76281980&t=245)** If you want to learn more about regular expressions, check out the learning regular expressions course in the [[LinkedIn]] Learning library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1), [[HTML]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
 > **Speakers:** - [instructor] (1)
 
-#### Form validation: Sanitizing input
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/form-validation-sanitizing-input-8400185?u=76281980)
+#### [Form validation: Sanitizing input](https://www.linkedin.com/learning/learning-php-4/form-validation-sanitizing-input-8400185?u=76281980)
 
-#### Sending the form data in an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980)
+#### [Sending the form data in an email](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4496,7 +4434,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=8)** Let's take a look at how to do that now.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=11)** For simplicity's sake, again, we're going to use a blank process.PHP file, and we're going to assume all of our data has been validated and sanitized.
+> **[0:11](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=11)** For simplicity's sake, again, we're going to use a blank process.[[PHP]] file, and we're going to assume all of our data has been validated and sanitized.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=23)** We want to focus on using the mail function in PHP right now.
 >
@@ -4520,11 +4458,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=88)** So we'll say message.gets.
 >
-> **[1:31](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=91)** And let's remove the HTML from this message, because certain mailers don't necessarily handle HTML very well.
+> **[1:31](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=91)** And let's remove the [[HTML]] from this message, because certain mailers don't necessarily handle HTML very well.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=102)** Instead, we will add our line breaks in escape characters.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=112)** So now we've put together our message, let's go ahead and actually put together the rest of the email.
+> **[1:52](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=112)** So now we've put together our message, let's go ahead and actually put together the [[Representational State Transfer (REST)|rest]] of the email.
 >
 > **[2:00](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=120)** We know that our to field is going to be pretty static, it's going to go to us.
 >
@@ -4556,7 +4494,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=225)** I'll use different contact information here.
 >
-> **[3:49](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=229)** We'll say Question, PHP and WordPress, Star Wars, and Hello There.
+> **[3:49](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=229)** We'll say Question, PHP and [[WordPress]], Star Wars, and Hello There.
 >
 > **[3:56](https://www.linkedin.com/learning/learning-php-4/sending-the-form-data-in-an-email?u=76281980&t=236)** Then we'll click Submit.
 >
@@ -4624,7 +4562,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), data (2), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[HTML]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1)
 > **CLI Commands:** php (7), make (5), find (1)
 > **Env Vars:** php (7), post (3), html (2)
 > **API Endpoints:** post  (3)
@@ -4633,8 +4571,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Exercise Files:** exercise files (1)
 
-#### Challenge: Process a simple form and send the email
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/challenge-process-a-simple-form-and-send-the-email?u=76281980)
+#### [Challenge: Process a simple form and send the email](https://www.linkedin.com/learning/learning-php-4/challenge-process-a-simple-form-and-send-the-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4650,7 +4587,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/learning-php-4/challenge-process-a-simple-form-and-send-the-email?u=76281980&t=27)** Make sure the required fields are filled out and the email is in a valid format and email it to yourself.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-php-4/challenge-process-a-simple-form-and-send-the-email?u=76281980&t=35)** You can definitely use the HTML form elements to help you, but be sure to validate on the server, too.
+> **[0:35](https://www.linkedin.com/learning/learning-php-4/challenge-process-a-simple-form-and-send-the-email?u=76281980&t=35)** You can definitely use the [[HTML]] form elements to help you, but be sure to validate on the server, too.
 
 > [!info]- Semantic Content
 >
@@ -4660,8 +4597,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Process a simple form and send the email
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980)
+#### [Solution: Process a simple form and send the email](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4717,7 +4653,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=152)** If it is null, then we have a fully valid form and we'll set it to true and once we do that, we can send the message.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=161)** Now I'm not using the null coalescing operator here or the Elvis operator because I am on a slightly older version of php on my local environment and those two operators are four later versions of php, so I want to make sure that this was fully working no matter what version of php you happen to be using.
+> **[2:41](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=161)** Now I'm not using the null coalescing operator here or the Elvis operator because I am on a slightly older version of [[PHP]] on my local environment and those two operators are four later versions of php, so I want to make sure that this was fully working no matter what version of php you happen to be using.
 >
 > **[3:03](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=183)** Now let's go back to the send mail function.
 >
@@ -4733,7 +4669,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=216)** We don't need to sanitize reason because it is a select box.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=222)** Technically we probably should because if somebody tampers with the html before the information is sent, they could insert malicious scripts, but we don't here.
+> **[3:42](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=222)** Technically we probably should because if somebody tampers with the [[HTML]] before the information is sent, they could insert malicious scripts, but we don't here.
 >
 > **[3:52](https://www.linkedin.com/learning/learning-php-4/solution-process-a-simple-form-and-send-the-email?u=76281980&t=232)** We set our subject.
 >
@@ -4749,7 +4685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[PHP]] (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[HTML]] (1)
 > **CLI Commands:** make (4), php (3), find (1)
 > **Exercise Files:** exercise files (2)
 > **Definitions:** is a  (2)
@@ -4762,14 +4698,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reading files in PHP
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
+#### [Reading files in PHP](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=0)** - One of the ways to store and access data though it should absolutely be non-secure data, is by reading and writing to files.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=9)** PHP allows you to read the contents of a file and if you have access to it, write to it as well.
+> **[0:09](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=9)** [[PHP]] allows you to read the contents of a file and if you have access to it, write to it as well.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=15)** So first let's look at a couple of examples of reading files.
 >
@@ -4825,9 +4760,9 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=180)** We'll call my homepage.
 >
-> **[3:05](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=185)** Then if we var_dump casabona, you can see we've retrieved the entirety of the HTML from my homepage.
+> **[3:05](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=185)** Then if we var_dump casabona, you can see we've retrieved the entirety of the [[HTML]] from my homepage.
 >
-> **[3:20](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=200)** Now, this could be useful if I want to see if a site for example is using WordPress, I could say if and then use a string search function called strpos for string position.
+> **[3:20](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=200)** Now, this could be useful if I want to see if a site for example is using [[WordPress]], I could say if and then use a string search function called strpos for string position.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-php-4/reading-files-in-php?u=76281980&t=214)** And then I could search the text casabona for the text wp-content, which is an indicator that WordPress is being run and then I can echo, this website is using WordPress.
 >
@@ -4841,7 +4776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), data (2), web (2), [[Search]] (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (1), [[HTML]] (1)
 > **Code Identifiers:** var_dump (3), file_get_contents (2)
 > **File Paths:** treasure-island.txt (2)
 > **CLI Commands:** php (1), make (1)
@@ -4850,8 +4785,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Writing files
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980)
+#### [Writing files](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4897,7 +4831,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980&t=109)** But the function could also append with the file append flag.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980&t=113)** So if I add FILE APPEND to the end of this function, then we are telling PHP to just add the text to the bottom of the document.
+> **[1:53](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980&t=113)** So if I add FILE APPEND to the end of this function, then we are telling [[PHP]] to just add the text to the bottom of the document.
 >
 > **[2:06](https://www.linkedin.com/learning/learning-php-4/writing-files?u=76281980&t=126)** So now ti copy should be twice as long.
 >
@@ -5001,7 +4935,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PHP]] (4), database (1), [[Programming]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** make (6), php (4)
 > **Env Vars:** file (3), append (3), php (2)
 > **File Paths:** mailing.php (2), copy.txt (1), mailing-list.txt (1), sub-list.txt (1)
@@ -5010,12 +4944,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Maintaining state with cookies
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-cookies?u=76281980)
+#### [Maintaining state with cookies](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-cookies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-cookies?u=76281980&t=0)** - [Instructor] Cookies are a great way for PHP to remember the state of a user's browser.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-cookies?u=76281980&t=0)** - [Instructor] Cookies are a great way for [[PHP]] to remember the state of a user's browser.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-cookies?u=76281980&t=5)** This can be anything for any information like their name or if they're logged in.
 >
@@ -5089,8 +5022,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining state with sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980)
+#### [Maintaining state with sessions](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5112,7 +5044,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=59)** That way, if people who have signed up visit the page, they won't be able to sign up again.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=65)** So the first thing we'll do in our mailing.php file, which you can get in the exercise files, is at the very top of the page, we're going to write session start.
+> **[1:05](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=65)** So the first thing we'll do in our mailing.[[PHP]] file, which you can get in the exercise files, is at the very top of the page, we're going to write session start.
 >
 > **[1:18](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=78)** This is going to tell php that we're starting a new session for this browser and to store information where you can.
 >
@@ -5132,7 +5064,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=154)** So and if it's set and it's not true, we're going to show the form.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=162)** Again, we're going to use alternative syntax for this because we are writing a large block of HTML.
+> **[2:42](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=162)** Again, we're going to use alternative syntax for this because we are writing a large block of [[HTML]].
 >
 > **[2:51](https://www.linkedin.com/learning/learning-php-4/maintaining-state-with-sessions?u=76281980&t=171)** Okay, so this says if is set session signed up and not session signed up, which means it's not true, then show the form.
 >
@@ -5160,7 +5092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[PHP]] (2), [[HTML]] (1), database (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[HTML]] (1)
 > **CLI Commands:** php (2), make (1)
 > **File Paths:** mailing.php (1)
 > **Env Vars:** html (1)
@@ -5174,18 +5106,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=0)** - [Joe] Congratulations, you've gotten a good look at PHP and how it works along with some nifty tricks.
+> **[0:00](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=0)** - [Joe] Congratulations, you've gotten a good look at [[PHP]] and how it works along with some nifty tricks.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=6)** [Php.net](https://Php.net) will serve as a great resource for you as you continue learning PHP.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=13)** Speaking of, if you want to continue your PHP journey, you should check out the "Become a PHP Developer" learning path.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=21)** If you want to try your newly found PHP skills on a very popular CMS, you can check out the WordPress 5 Essentials Training.
+> **[0:21](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=21)** If you want to try your newly found PHP skills on a very popular CMS, you can check out the [[WordPress]] 5 Essentials Training.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-php-4/next-steps?u=76281980&t=31)** Finally, I'd love to hear from you about how you're using PHP.
 >
@@ -5197,7 +5128,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), cms (1), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[WordPress]] (1)
 > **CLI Commands:** php (7), find (1)
 > **Env Vars:** php (6), cms (1)
 > **URLs:** [php.net](https://php.net) (1)

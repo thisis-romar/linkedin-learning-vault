@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The truth about your career and personal branding
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/the-truth-about-your-career-and-personal-branding?u=76281980)
+#### [The truth about your career and personal branding](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/the-truth-about-your-career-and-personal-branding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,7 +93,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), leadership (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -103,8 +101,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your advantage with personal branding
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980)
+#### [Securing your advantage with personal branding](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=22)** It tells a story.
 >
-> **[0:24](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=24)** And when we talk about personal branding, it's about your story.
+> **[0:24](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=24)** And when we talk about [[Personal Branding]], it's about your story.
 >
 > **[0:28](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=28)** This story that you tell that others remember about you, this is your reputation and it includes your expertise, your skills, your personality, your tone of voice, how you present yourself, and even the language that you use.
 >
@@ -130,11 +127,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=51)** It lies at the intersection between who you are authentically and what you want to be known for.
 >
-> **[0:57](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=57)** In my 10 years of experience in law and banking, and now running a global leadership and performance consultancy, I've come across the full gamut of personal brands.
+> **[0:57](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=57)** In my 10 years of experience in law and [[Banking]], and now running a global leadership and performance consultancy, I've come across the full gamut of personal brands.
 >
 > **[1:05](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=65)** One of my colleagues at a Fortune 500, Terry, stood out for consistently delivering exceptional results while still being one of the most caring people you'd come across in the organization.
 >
-> **[1:15](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=75)** People noticed, and the word spread.
+> **[1:15](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=75)** People noticed, and the [[Microsoft Word|word]] spread.
 >
 > **[1:17](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/securing-your-advantage-with-personal-branding?u=76281980&t=77)** She became highly sought after and this opened a lot of doors.
 >
@@ -162,12 +159,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Personal Branding]] (1), [[Banking]] (1), leadership (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1), [[Banking]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Making your brand authentically you
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/making-your-brand-authentically-you?u=76281980)
+#### [Making your brand authentically you](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/making-your-brand-authentically-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,12 +241,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (5), career (2), leadership (1), management (1), next (1)
 > **Analogies:** for example (2)
 > **Speakers:** - as (1)
 
-#### Crafting a sticky personal brand story
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980)
+#### [Crafting a sticky personal brand story](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +260,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=24)** So when thinking about your own career story, you want to reclaim your role as the author.
 >
-> **[0:28](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=28)** Take full ownership and accountability and write it in a coherent and compelling way.
+> **[0:28](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=28)** Take full ownership and [[Accountability]] and write it in a coherent and compelling way.
 >
 > **[0:33](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=33)** You're in control of the narrative.
 >
@@ -344,20 +338,19 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=186)** It's not a one size fits all thing.
 >
-> **[3:07](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=187)** Personal branding is personal.
+> **[3:07](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=187)** [[Personal Branding]] is personal.
 >
 > **[3:09](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-a-sticky-personal-brand-story?u=76281980&t=189)** So craft something that really reflects how you got to where you are now and show some personality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), [[Accountability]] (1), management (1), [[Personal Branding]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Personal Branding]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** exercise file (2), download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### Creating an unforgettable brand statement
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980)
+#### [Creating an unforgettable brand statement](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980&t=50)** How about if Jonah said, "I get to come up with ways to battle the most pressing environmental challenges the world is facing, using my passion to drive change.
 >
-> **[1:00](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980&t=60)** My team and I won't rest until we've transformed the world and our future."
+> **[1:00](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980&t=60)** My team and I won't [[Representational State Transfer (REST)|rest]] until we've transformed the world and our future."
 >
 > **[1:05](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/creating-an-unforgettable-brand-statement?u=76281980&t=65)** Now you have a chance to see Jonah's real passion, dedication, and capability.
 >
@@ -405,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), strengths (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** abc (1)
@@ -417,8 +410,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting your brand into action
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-into-action?u=76281980)
+#### [Putting your brand into action](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-into-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -482,15 +474,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), career (2), leadership (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Warnings:** caution (1)
 > **Speakers:** - have (1)
 
-#### Putting your brand on management's radar
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980)
+#### [Putting your brand on management's radar](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +518,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=105)** "Is that something we can work towards "and include in my development plan?"
 >
-> **[1:49](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=109)** Now, one word of caution here.
+> **[1:49](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=109)** Now, one [[Microsoft Word|word]] of caution here.
 >
 > **[1:50](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=110)** Don't limit yourself to jobs and opportunities that align with your current brand.
 >
@@ -536,7 +526,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=123)** Otherwise, it can hold you back.
 >
-> **[2:05](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=125)** My brand today is different from what it was when I worked in commercial law or banking to strategy consulting or even when I first left corporate.
+> **[2:05](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=125)** My brand today is different from what it was when I worked in commercial law or [[Banking]] to strategy consulting or even when I first left corporate.
 >
 > **[2:13](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/putting-your-brand-on-management-s-radar?u=76281980&t=133)** And it's changed today given the work I currently do.
 >
@@ -558,15 +548,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), business (3), management (2), teams (1), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Banking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** fomo (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - many (1)
 
-#### Reinforcing your brand in every meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980)
+#### [Reinforcing your brand in every meeting](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +609,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980&t=120)** Let's say you want your brand to be associated with innovation.
 >
-> **[2:03](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980&t=123)** You could offer to run a short session at the next meeting and incorporate design thinking activities using Post-its and brainstorming on whiteboards.
+> **[2:03](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980&t=123)** You could offer to run a short session at the next meeting and incorporate [[Design Thinking]] activities using Post-its and brainstorming on whiteboards.
 >
 > **[2:11](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/reinforcing-your-brand-in-every-meeting?u=76281980&t=131)** Or if you want to be known as the best researcher in the business, volunteer to complete a small research project to present at the following meeting to support the group's discussions.
 >
@@ -628,15 +617,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), business (2), [[Design Thinking]] (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - every (1)
 
-#### Recognizing others to reinforce your brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/recognizing-others-to-reinforce-your-brand?u=76281980)
+#### [Recognizing others to reinforce your brand](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/recognizing-others-to-reinforce-your-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,13 +680,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Energizing others for a magnetic brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980)
+#### [Energizing others for a magnetic brand](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +740,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980&t=135)** Stand for something greater than yourself.
 >
-> **[2:18](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980&t=138)** For example, when it comes to personal branding, you want your why to be more than just self-serving.
+> **[2:18](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980&t=138)** For example, when it comes to [[Personal Branding]], you want your why to be more than just self-serving.
 >
 > **[2:24](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/energizing-others-for-a-magnetic-brand?u=76281980&t=144)** To build a strong personal brand or to advance in my career.
 >
@@ -802,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), teams (1), [[Personal Branding]] (1), career (1)
+> **Frameworks & Libraries:** [[Personal Branding]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** mit (1), coa (1)
 > **Exercise Files:** exercise files (1)
@@ -814,8 +800,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Crafting an intentional online brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980)
+#### [Crafting an intentional online brand](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -859,7 +844,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980&t=86)** So take the time now to reflect on and answer these questions.
 >
-> **[1:29](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980&t=89)** Write responses in the LinkedIn Learning Notebook or a journal.
+> **[1:29](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980&t=89)** Write responses in the [[LinkedIn]] Learning Notebook or a journal.
 >
 > **[1:33](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/crafting-an-intentional-online-brand?u=76281980&t=93)** The guidance I always share is that you don't need to be the ultimate expert on something before you feel confident to be known for it.
 >
@@ -869,15 +854,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - what (1)
 
-#### Boosting your personal brand with LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980)
+#### [Boosting your personal brand with LinkedIn](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=0)** - When I first started on LinkedIn, I had no idea what it was, how to use it or why it mattered and I know there might be some of you thinking the same thing.
+> **[0:00](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=0)** - When I first started on [[LinkedIn]], I had no idea what it was, how to use it or why it mattered and I know there might be some of you thinking the same thing.
 >
 > **[0:08](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=8)** So if you're starting out or you want to make sure you have the groundwork set up for your profile, keep watching.
 >
@@ -913,7 +897,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=100)** The fact is there are likely tens of thousands of others with exactly the same job title so you won't differentiate yourself if you leave it as it is.
 >
-> **[1:48](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=108)** You can include a passion, awards, performance metrics, specializations.
+> **[1:48](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=108)** You can include a passion, awards, [[Performance Metrics]], specializations.
 >
 > **[1:53](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=113)** There are so many options so add some personality.
 >
@@ -925,7 +909,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=127)** "Data analyst who loves numbers.
 >
-> **[2:09](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=129)** Self-confessed Excel geek."
+> **[2:09](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=129)** Self-confessed [[Microsoft Excel|Excel]] geek."
 >
 > **[2:11](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/boosting-your-personal-brand-with-linkedin?u=76281980&t=131)** "Senior digital marketing manager, digital marketing CRM, lover of all things digital and marketing."
 >
@@ -957,7 +941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), hit (1), [[Performance Metrics]] (1), data (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Performance Metrics]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), picture (1)
 > **Env Vars:** crm (1), ceo (1)
@@ -965,8 +949,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Scaling your personal brand online
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980)
+#### [Scaling your personal brand online](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=19)** Content is the currency.
 >
-> **[0:21](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=21)** Here are five recommendations to communicate your brand online through LinkedIn.
+> **[0:21](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=21)** Here are five recommendations to communicate your brand online through [[LinkedIn]].
 >
 > **[0:26](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=26)** First, foster meaningful connections.
 >
@@ -1000,7 +983,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=54)** Second, share existing content with your own commentary that highlights your brand.
 >
-> **[0:59](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=59)** If your brand is about advocating for environmental sustainability, put your spin on why it's relevant from a sustainability perspective.
+> **[0:59](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=59)** If your brand is about advocating for [[Environmental Sustainability]], put your spin on why it's relevant from a [[Sustainability]] perspective.
 >
 > **[1:07](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=67)** For example, in my experience or from what I've seen.
 >
@@ -1044,7 +1027,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=154)** You can share an image.
 >
-> **[2:35](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=155)** Use a program like Canva to create a simple quote, checklist or something of value and share it with accompanying text to offer detail or context.
+> **[2:35](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=155)** Use a program like [[Canva]] to create a simple quote, checklist or something of value and share it with accompanying text to offer detail or context.
 >
 > **[2:44](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=164)** Text-only post.
 >
@@ -1068,7 +1051,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=206)** Video can feel daunting, so you can work your way up to that if you're interested, but it's a fantastic medium because people get to marry your name, face, voice tone, and overall way of being and it offers an unparalleled opportunity to connect and powerfully reinforce your personal brand.
 >
-> **[3:43](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=223)** These are all valuable ways to start to build thought leadership and reinforce the areas you want associated with your reputation.
+> **[3:43](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=223)** These are all valuable ways to start to build [[Thought Leadership]] and reinforce the areas you want associated with your reputation.
 >
 > **[3:50](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/scaling-your-personal-brand-online?u=76281980&t=230)** Once you start to make this a habit, I encourage you to take things further and seek opportunities to increase your exposure by reaching out to industry bodies or organizers of upcoming conferences, panels, or forums, and pitch an idea for an upcoming panel event or speaker session.
 >
@@ -1092,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[LinkedIn]] (1), [[Environmental Sustainability]] (1), [[Sustainability]] (1), [[Canva]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Environmental Sustainability]] (1), [[Sustainability]] (1), [[Canva]] (1), [[Thought Leadership]] (1)
 > **CLI Commands:** make (5), find (1)
 > **Analogies:** for example (3), picture (1)
 > **Env Vars:** ceo (2)
@@ -1106,8 +1089,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking the first step for your brand
-> [LinkedIn Learning](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980)
+#### [Taking the first step for your brand](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1135,7 +1117,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=76)** And of course, please connect with me across platforms.
 >
-> **[1:19](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=79)** I share personal and professional development content on LinkedIn, Instagram, YouTube, and TikTok.
+> **[1:19](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=79)** I share personal and professional development content on [[LinkedIn]], Instagram, YouTube, and TikTok.
 >
 > **[1:25](https://www.linkedin.com/learning/accelerating-your-career-with-personal-branding/taking-the-first-step-for-your-brand?u=76281980&t=85)** The best part is that your personal brand is yours and yours alone.
 >
@@ -1153,7 +1135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1), [[LinkedIn]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 

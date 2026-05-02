@@ -63,22 +63,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI is revolutionizing healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
+#### [Generative AI is revolutionizing healthcare](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=0)** - Generative AI workflows are revolutionizing countless industries, including the crucial and complex healthcare sector, which is all about keeping people healthy and saving lives.
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=0)** - [[Generative AI]] workflows are revolutionizing countless industries, including the crucial and complex healthcare sector, which is all about keeping people healthy and saving lives.
 >
-> **[0:11](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=11)** In this interview course, I'm so excited to chat with Dr. Matthew Lungren, the Chief Data Science Officer at Microsoft.
+> **[0:11](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=11)** In this interview course, I'm so excited to chat with Dr. Matthew Lungren, the Chief [[Data Science]] Officer at [[Microsoft]].
 >
 > **[0:17](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=17)** We delve into the myriad ways AI is improving the quality of patient care, shaping the relationships between healthcare providers and their patients, and enhancing access to treatments and clinical trials.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=30)** Dr. Lungren explores how AI improves workflow efficiency in different healthcare systems, reduces physician burnout, and offers unprecedented healthcare access to underrepresented populations.
 >
-> **[0:42](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=42)** We're also going to get into the ethics of this multifaceted topic.
+> **[0:42](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=42)** We're also going to get into the [[Ethics]] of this multifaceted topic.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=46)** Everything from biases in AI algorithms to issues of informed consent.
+> **[0:46](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=46)** Everything from biases in AI [[Algorithms]] to issues of informed consent.
 >
 > **[0:51](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/generative-ai-is-revolutionizing-healthcare?u=76281980&t=51)** There is so much to dig into here.
 >
@@ -90,11 +89,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (1), data (1), [[Microsoft]] (1), [[Ethics]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Data Science]] (1), [[Microsoft]] (1), [[Ethics]] (1), [[Algorithms]] (1)
 > **Speakers:** - generative (1)
 
-#### Meet Dr. Matthew Lungren
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980)
+#### [Meet Dr. Matthew Lungren](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980&t=9)** - Absolutely, yeah, so great to be here.
 >
-> **[0:12](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980&t=12)** So I'm Matt Lungren, I'm the Chief Data Science Officer at Microsoft Health and Life Sciences.
+> **[0:12](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980&t=12)** So I'm Matt Lungren, I'm the Chief [[Data Science]] Officer at [[Microsoft]] Health and Life Sciences.
 >
 > **[0:16](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/meet-dr-matthew-lungren?u=76281980&t=16)** I'm also an associate professor in interventional radiology at UCSF and an adjunct professor at Stanford where I still do some research and teach a course on health AI there.
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (1), [[Microsoft]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Microsoft]] (1)
 > **Speakers:** - dr (1), - absolutely (1)
 > **Env Vars:** ucsf (1)
 
@@ -123,14 +121,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How does AI affect the patient experience?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
+#### [How does AI affect the patient experience?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=0)** - I would love to start with patient care.
 >
-> **[0:02](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=2)** Everyone watching this course is a patient, we all have relationships with the healthcare industry and so I'm interested for you to sort of start here and talk about some of these ways that generative AI is enhancing the quality and the accuracy of diagnoses and treatments in healthcare.
+> **[0:02](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=2)** Everyone watching this course is a patient, we all have relationships with the [[Healthcare Industry]] and so I'm interested for you to sort of start here and talk about some of these ways that [[Generative AI]] is enhancing the quality and the accuracy of diagnoses and treatments in healthcare.
 >
 > **[0:23](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=23)** - Yeah, and this is usually the first thing that comes to mind.
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=36)** But as I spend more time thinking about how do I take a patient first approach as opposed to a technology first approach?
 >
-> **[0:45](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=45)** I think about all the different things that these models can do that can take away some of the, what we would call the undifferentiated heavy lifting that goes on around the patient experience, filling out forms, translating forms into different languages or different education levels.
+> **[0:45](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=45)** I think about all the different things that these models can do that can take away some of the, what we would call the undifferentiated heavy lifting that goes on around the patient experience, filling out [[Forms]], translating forms into different languages or different education levels.
 >
 > **[1:02](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=62)** Basically, anytime you see the potential for information asymmetry outside of just the diagnostic task, there's a ton of opportunity.
 >
@@ -146,7 +143,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=81)** Last time I had an imaging examination, I had to figure out, okay, why did I get this $10 copay or whatever it was?
 >
-> **[1:28](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=88)** Well, I don't want to read through a 50 page document to try to decipher that, so is there a copilot that can help work with that document to explain to me why?
+> **[1:28](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=88)** Well, I don't want to read through a 50 page document to try to decipher that, so is there a [[Microsoft Copilot|copilot]] that can help work with that document to explain to me why?
 >
 > **[1:37](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-affect-the-patient-experience?u=76281980&t=97)** So just little micro tasks like this, helping with understanding my discharge instructions as a patient.
 >
@@ -162,19 +159,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (3), [[Healthcare Industry]] (1), [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1), hit (1)
+> **Frameworks & Libraries:** [[Forms]] (3), [[Healthcare Industry]] (1), [[Generative AI]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - i (1), - yeah (1)
 > **Definitions:** is a  (1)
 
-#### How do AI workflows improve patient-doctor relationships?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980)
+#### [How do AI workflows improve patient-doctor relationships?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=0)** - Let's talk about just relationships.
 >
-> **[0:03](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=3)** How can generative AI actually shape or improve relationships between patients and their doctors or healthcare professionals?
+> **[0:03](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=3)** How can [[Generative AI]] actually shape or improve relationships between patients and their doctors or healthcare professionals?
 >
 > **[0:14](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=14)** - Yeah, this is a critical point.
 >
@@ -186,7 +182,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=44)** And again, this has been another surprise, just like the surprise in sort of what the technology can do right off the bat.
 >
-> **[0:52](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=52)** But then now in this idea of empathy, which I talk a lot about, because as these models were trained with this human reinforcement learning, it was able to sort of begin to infer context.
+> **[0:52](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=52)** But then now in this idea of empathy, which I talk a lot about, because as these models were trained with this human [[Reinforcement Learning]], it was able to sort of begin to infer context.
 >
 > **[1:05](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-do-ai-workflows-improve-patient-doctor-relationships?u=76281980&t=65)** That's why we like using them.
 >
@@ -256,18 +252,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), ai (3), [[Reinforcement Learning]] (1), game (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Reinforcement Learning]] (1)
 > **Speakers:** - yeah (3), - let (1), - i (1), - but (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** just like (2), similar to (1)
 > **Definitions:** is a  (2)
 
-#### How can AI reduce burnout and limited access to care?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980)
+#### [How can AI reduce burnout and limited access to care?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=0)** - How can generative AI assist in problems related to overworked clinicians and treatment delays and limited access to care and that sort of thing?
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=0)** - How can [[Generative AI]] assist in problems related to overworked clinicians and treatment delays and limited access to care and that sort of thing?
 >
 > **[0:10](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=10)** - Yeah, no, this is critical.
 >
@@ -317,7 +312,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=138)** And again, it goes to access, it certainly goes to advancing medicine in general.
 >
-> **[2:22](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=142)** So we, there was actually recently a study that looked at the ability for a, for a model like GPT-4 to essentially read the inclusion exclusion criteria, which can be complicated.
+> **[2:22](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=142)** So we, there was actually recently a study that looked at the ability for a, for a model like [[GPT-4]] to essentially read the inclusion exclusion criteria, which can be complicated.
 >
 > **[2:33](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-reduce-burnout-and-limited-access-to-care?u=76281980&t=153)** And then comb through thousands of patients charts to find patients that might qualify.
 >
@@ -362,8 +357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What bottlenecks can AI solve in healthcare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
+#### [What bottlenecks can AI solve in healthcare?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-bottlenecks-can-ai-can-solve-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,16 +421,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), game (1)
 > **Speakers:** - you (1), - absolutely (1)
 > **CLI Commands:** make (1)
 
-#### What data management and security considerations are there?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980)
+#### [What data management and security considerations are there?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=0)** - Can you talk about, first, how generative AI helps in managing this vast amount of healthcare data, but also what measures need to be in place to ensure the security and privacy of patient data when using the systems?
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=0)** - Can you talk about, first, how [[Generative AI]] helps in managing this vast amount of healthcare data, but also what measures need to be in place to ensure the security and [[Privacy]] of patient data when using the systems?
 >
 > **[0:14](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=14)** - Yeah, obviously this is job one for anyone in healthcare, protecting patient privacy, protecting data.
 >
@@ -454,11 +446,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=57)** There is going to be some changes.
 >
-> **[1:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=60)** So for example, if I wanted to work with a model, and some of that data might be private or sensitive data, there has to be additional checks and balances and controls to make sure that, again, all of the systems that you're used to using that are quote unquote vanilla software are also applied to any sort of pipelines and workflows in generative AI.
+> **[1:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=60)** So for example, if I wanted to work with a model, and some of that data might be private or sensitive data, there has to be additional checks and balances and controls to make sure that, again, all of the systems that you're used to using that are quote unquote [[Vanilla]] software are also applied to any sort of pipelines and workflows in generative AI.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=81)** And we have seen examples, so one of the most recent examples is at UCSF where I work.
 >
-> **[1:28](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=88)** Inside the UCSF firewall, they created a system called Versa, which is essentially like ChatGPT, but inside a compliance firewall inside the health system.
+> **[1:28](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=88)** Inside the UCSF firewall, they created a system called Versa, which is essentially like [[ChatGPT]], but inside a compliance firewall inside the health system.
 >
 > **[1:39](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-data-management-and-security-considerations-are-there?u=76281980&t=99)** So what they did in several other institutions, NYU's another one, and Dana Farber actually maybe is the best example, but each one has found a way to implement a ChatGPT-like experience working with these models in sort of a interactive way, but again, inside the firewall of the health system.
 >
@@ -480,14 +472,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Generative AI]] (4), [[Security]] (2), [[Privacy]] (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Privacy]] (2), [[ChatGPT]] (2), [[Vanilla]] (1)
 > **Env Vars:** ucsf (2), nyu (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - can (1), - yeah (1)
 
-#### Why design proprietary AI healthcare systems?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/why-design-proprietary-ai-healthcare-systems?u=76281980)
+#### [Why design proprietary AI healthcare systems?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/why-design-proprietary-ai-healthcare-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +500,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Speakers:** - building (1), - yeah (1)
 > **Env Vars:** gpt (1)
 
@@ -518,12 +508,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are the ethical concerns of AI in healthcare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
+#### [What are the ethical concerns of AI in healthcare?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=0)** - Let's talk about ethics.
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=0)** - Let's talk about [[Ethics]].
 >
 > **[0:03](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=3)** What do you think are the primary ethical concerns associated with the use of AI in healthcare?
 >
@@ -533,7 +522,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=21)** But a lot of us have seen some of the pitfalls, you know, in the past, you know, we've been sort of working with AI and healthcare for a really long time.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=29)** And some of those pitfalls are not specific to generative AI, right?
+> **[0:29](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=29)** And some of those pitfalls are not specific to [[Generative AI]], right?
 >
 > **[0:32](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-the-ethical-concerns-of-ai-in-healthcare?u=76281980&t=32)** The idea that, you know, there's people that could potentially lose out and not have access.
 >
@@ -613,22 +602,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Ethics]] (2), [[Automation]] (2), [[Generative AI]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[Generative AI]] (1)
 > **Speakers:** - let (1), - there (1), - thank (1), - right (1), - iterating (1)
 > **CLI Commands:** make (3), snap (1)
 > **Analogies:** just like (1), it's like (1)
 > **Definitions:** is an  (1)
 
-#### What does AI bias in healthcare look like?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980)
+#### [What does AI bias in healthcare look like?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=0)** - Can you please talk about what biases in training data and algorithms is, and also how we can address potential biases in AI algorithms that might affect patient care?
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=0)** - Can you please talk about what biases in training data and [[Algorithms]] is, and also how we can address potential biases in AI algorithms that might affect patient care?
 >
 > **[0:14](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=14)** - Absolutely, and you know, it's something that's just inherent to the way that these models are built.
 >
-> **[0:19](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=19)** So if you think back, these models initially are trained to be next word predictors.
+> **[0:19](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=19)** So if you think back, these models initially are trained to be next [[Microsoft Word|word]] predictors.
 >
 > **[0:25](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=25)** And the words that they're trained on to learn how to predict the next word is essentially all of the internet.
 >
@@ -658,7 +646,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=116)** This is a challenge across industries and it's also one that we're finding lots and lots and lots of approaches to make sure that this can be addressed in a very transparent way.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=126)** The best example that anyone can check out, like right now is to use the Bing Browser, the Bing Copilot.
+> **[2:06](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=126)** The best example that anyone can check out, like right now is to use the Bing Browser, the Bing [[Microsoft Copilot|Copilot]].
 >
 > **[2:14](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-does-ai-bias-in-healthcare-look-like?u=76281980&t=134)** And if you click it on Precise Mode, literally every answer it provides you, there's a link to the source.
 >
@@ -676,17 +664,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), next (2), [[Microsoft Word|Word]] (2), data (1), ai (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Copilot|Copilot]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Speakers:** - can (1), - absolutely (1)
 > **Definitions:** is a  (1)
 
-#### How does AI-driven healthcare affect informed consent?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980)
+#### [How does AI-driven healthcare affect informed consent?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=0)** - How do you think the use of generative AI in healthcare affects informed consent?
+> **[0:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=0)** - How do you think the use of [[Generative AI]] in healthcare affects informed consent?
 >
 > **[0:07](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=7)** And and do you think that patients can ever truly understand what it means to have AI involved in their care?
 >
@@ -698,7 +685,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=34)** It doesn't feel like we had this firsthand as a just a general public, a firsthand experience in these tools.
 >
-> **[0:41](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=41)** And now as you're sort of seeing this kind of what I like to call the copilot era, right, where, like in your day-to-day applications, you'll have this kind of copilot, your web browser, your email, your word documents, et cetera.
+> **[0:41](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=41)** And now as you're sort of seeing this kind of what I like to call the [[Microsoft Copilot|copilot]] era, right, where, like in your day-to-day applications, you'll have this kind of copilot, your web browser, your email, your [[Microsoft Word|word]] documents, et cetera.
 >
 > **[0:55](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=55)** You'll be able to sort of have this intuition about how these models can make your life better and no matter what you're doing.
 >
@@ -734,7 +721,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=156)** And I think that again, that can be become normalized over time as it starts to happen more and more just from a patient's perspective.
 >
-> **[2:43](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=163)** - No, and totally, and I don't know if you've ever had to do a consent form me for procedure, but as you know, in my work, like we hand these sort of complicated forms, you know, to patients to say, hey, this is the consent form for your colonoscopy or for your, you know, procedure or whatever.
+> **[2:43](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=163)** - No, and totally, and I don't know if you've ever had to do a consent form me for procedure, but as you know, in my work, like we hand these sort of complicated [[Forms]], you know, to patients to say, hey, this is the consent form for your colonoscopy or for your, you know, procedure or whatever.
 >
 > **[2:59](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-does-ai-driven-healthcare-affect-informed-consent?u=76281980&t=179)** And, you know, again, some folks try to read it.
 >
@@ -762,15 +749,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (3), [[Microsoft Copilot|Copilot]] (2), power (1), web (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Code Identifiers:** iphone (4)
 > **Speakers:** - how (1), - i (1), - absolutely (1), - no (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** just like (1), kind of like (1)
 > **CLI Commands:** make (1)
 
-#### How can AI-driven healthcare become accessible to all?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980)
+#### [How can AI-driven healthcare become accessible to all?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -788,7 +774,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980&t=60)** One of the most, again, it was the fastest adopted-consumer application in the world.
 >
-> **[1:06](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980&t=66)** And again, there's no ads or no manipulative algorithms to make you want to use ChatGPT, it's just a chatbot, you know, with a really powerful model.
+> **[1:06](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980&t=66)** And again, there's no ads or no manipulative [[Algorithms]] to make you want to use [[ChatGPT]], it's just a chatbot, you know, with a really powerful model.
 >
 > **[1:14](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-can-ai-driven-healthcare-become-accessible-to-all?u=76281980&t=74)** So we're already seeing how this is being broadly adopted and capturing the sort of imaginations of every background.
 >
@@ -832,14 +818,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), application (1), [[Algorithms]] (1), [[ChatGPT]] (1), chatbot (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Speakers:** - how (1), - yeah (1), - you (1), - absolutely (1)
 > **Analogies:** imagine (2)
 > **Warnings:** caution (1)
 
-#### How should healthcare systems set clear standards for AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980)
+#### [How should healthcare systems set clear standards for AI?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +870,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980&t=135)** Really, really interesting phenomenon where organizations, let's just say for example, who don't have this sort of transparent, compliant ability for their workforce to use a generative model, chances are they're probably using it anyway.
 >
-> **[2:31](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980&t=151)** And so there was actually a great survey that was done by Oliver Wyman, another one done by Salesforce, tens of thousands of folks across the economy, and they sort of asked the question, "Have you ever used, you know, ChatGPT and not told anybody that you use it?"
+> **[2:31](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980&t=151)** And so there was actually a great survey that was done by Oliver Wyman, another one done by Salesforce, tens of thousands of folks across the economy, and they sort of asked the question, "Have you ever used, you know, [[ChatGPT]] and not told anybody that you use it?"
 >
 > **[2:47](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-systems-set-clear-standards-for-ai?u=76281980&t=167)** And then the, it was overwhelmingly, the majority had said, "Yes, I've done that."
 >
@@ -905,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Security]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - as (1), - yeah (1)
 > **Env Vars:** chai (1)
@@ -917,8 +902,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the future of AI in healthcare?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)
+#### [What is the future of AI in healthcare?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=48)** In general, the vast majority of data for most health health systems is not all in text.
 >
-> **[0:55](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=55)** And as you've seen with the commercial version of GPT-4, you can take a picture of, I don't know, your broken bike and say, "Hey, my bike's not working.
+> **[0:55](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=55)** And as you've seen with the commercial version of [[GPT-4]], you can take a picture of, I don't know, your broken bike and say, "Hey, my bike's not working.
 >
 > **[1:06](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=66)** Maybe my seat doesn't raise or lower, whatever it is.
 >
@@ -954,7 +938,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=150)** Just having simple conversations with your own data, what a powerful idea that is.
 >
-> **[2:34](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=154)** And I think that that's where this generative AI technology, again, kind of opens up some doors that, again, we would never have thought possible before.
+> **[2:34](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=154)** And I think that that's where this [[Generative AI]] technology, again, kind of opens up some doors that, again, we would never have thought possible before.
 >
 > **[2:42](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/what-is-the-future-of-ai-in-healthcare?u=76281980&t=162)** So where I see the future going is certainly, number one, building competencies for these models in medical data that's not just text, and I think that we're on a really great trajectory for that as a field.
 >
@@ -972,14 +956,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), ai (1), [[GPT-4]] (1), [[Generative AI]] (1), next (1)
+> **Frameworks & Libraries:** [[GPT-4]] (1), [[Generative AI]] (1)
 > **Speakers:** - i (1), - yeah (1), - what (1), - right (1), - no (1)
 > **Analogies:** picture (2), it's like (1), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** gpt (1), mri (1)
 
-#### How should healthcare providers & patients learn and use AI?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-providers-patients-learn-and-use-ai?u=76281980)
+#### [How should healthcare providers & patients learn and use AI?](https://www.linkedin.com/learning/ai-applications-in-healthcare-a-conversation-with-dr-matthew-lungren/how-should-healthcare-providers-patients-learn-and-use-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,7 +1044,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - what (1), - yeah (1), - thank (1), - i (1)
 > **Cross-References:** go back to (1)

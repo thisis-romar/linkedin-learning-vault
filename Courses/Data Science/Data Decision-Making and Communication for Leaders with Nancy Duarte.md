@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become a data-driven leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980)
+#### [Become a data-driven leader](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,16 +82,15 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980&t=38)** By the end of this course, you will have the confidence and strategies to communicate data in ways that inspires others.
 >
-> **[0:46](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980&t=46)** So let's unlock your data storytelling skills.
+> **[0:46](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/introduction-to-data-decision-making?u=76281980&t=46)** So let's unlock your [[Data Storytelling]] skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), career (1), [[Data Storytelling]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - how (1)
 
-#### Lead and inspire action through data storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980)
+#### [Lead and inspire action through data storytelling](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -114,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980&t=55)** So leading through data is what drives an organization's performance.
 >
-> **[0:59](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980&t=59)** That's why you need to be able to communicate data using storytelling to help the organization reach its goals.
+> **[0:59](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980&t=59)** That's why you need to be able to communicate data using [[Storytelling]] to help the organization reach its goals.
 >
 > **[1:05](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/lead-and-inspire-action-through-data-storytelling?u=76281980&t=65)** Now, I'm going to cover three ways of moving from analyzing data to clearly communicating its insights.
 >
@@ -182,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (2), hit (2), career (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** imagine (2), picture (1)
 > **Cross-References:** in the next (1)
@@ -190,8 +188,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - if (1)
 
-#### Applying the Duarte Method to data storytelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980)
+#### [Applying the Duarte Method to data storytelling](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=25)** So let's break down the five elements of the Duarte method, their empathy, strategy, story, visuals, and delivery.
 >
-> **[0:34](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=34)** So we're going to jump in and see how you can elevate your data storytelling.
+> **[0:34](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=34)** So we're going to jump in and see how you can elevate your [[Data Storytelling]].
 >
 > **[0:39](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=39)** So at the core of communication is empathy, and that means that you begin with your audience in mind, and empathy is at the core of the Duarte method.
 >
@@ -221,7 +218,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=63)** For example, if you are presenting to a skeptical CFO, empathize with their need for precision in what you say and precision in what you show.
 >
-> **[1:12](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=72)** Build trust by showing your prowess in financial data that speaks directly to their priorities.
+> **[1:12](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=72)** Build trust by showing your prowess in [[Financial Data]] that speaks directly to their priorities.
 >
 > **[1:18](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/applying-the-duarte-method-to-data-storytelling?u=76281980&t=78)** Empathy ensures your story aligns with what your audience values most.
 >
@@ -273,14 +270,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (2), [[Data Storytelling]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Data Storytelling]] (1), [[Financial Data]] (1)
 > **Env Vars:** ceo (2), cfo (1), roi (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **Speakers:** - imagine (1)
 
-#### Three levels of data-driven decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980)
+#### [Three levels of data-driven decision-making](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=30)** There are discrete decisions, which use a single piece of data.
 >
-> **[0:34](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=34)** Operational decisions use dashboards with data over time.
+> **[0:34](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=34)** Operational decisions use [[Dashboards]] with data over time.
 >
 > **[0:39](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=39)** And strategic decisions require deep and rich contextual data.
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=109)** With discrete decisions, you can make quick adjustments in response to a piece of data in real time and keep moving quickly.
 >
-> **[1:56](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=116)** These types of decision-making prevent bottlenecks in day-to-day decisions.
+> **[1:56](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=116)** These types of [[Decision-Making]] prevent bottlenecks in day-to-day decisions.
 >
 > **[2:01](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=121)** Second are operational decisions.
 >
@@ -358,7 +354,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=202)** That's it.
 >
-> **[3:22](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=202)** Making decisions from performance data ensures real-time adjustments, keeping all your operations on track.
+> **[3:22](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=202)** Making decisions from performance data ensures [[Real-Time]] adjustments, keeping all your operations on track.
 >
 > **[3:30](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/three-levels-of-data-driven-decision-making?u=76281980&t=210)** So lastly, let's look at strategic decisions.
 >
@@ -398,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), business (2), [[Dashboards]] (2), product (2), next (2)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[Decision-Making]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (2)
 > **Definitions:** is a  (1)
@@ -410,8 +406,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Customize your message to the audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980)
+#### [Customize your message to the audience](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -469,7 +464,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980&t=165)** And then always let them know why they need to do this.
 >
-> **[2:49](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980&t=169)** Those statements usually start with the word because.
+> **[2:49](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980&t=169)** Those statements usually start with the [[Microsoft Word|word]] because.
 >
 > **[2:53](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/customize-your-message-to-the-audience?u=76281980&t=173)** "Because resolving these at-risk customers could protect more than $250,000 of revenue this quarter."
 >
@@ -485,15 +480,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), data (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Analogies:** think of it as (1), such as (1)
 > **Env Vars:** nps (1)
 > **Speakers:** - what (1)
 
-#### Make charts work harder to clarify decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980)
+#### [Make charts work harder to clarify decisions](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980&t=177)** Now, my team knows that annotations and highlights help me stay focused.
 >
-> **[3:01](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980&t=181)** Sometimes, they'll put a chart in front of me and it's got like maybe multiple statistics.
+> **[3:01](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980&t=181)** Sometimes, they'll put a chart in front of me and it's got like maybe multiple [[Statistics]].
 >
 > **[3:05](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/make-charts-work-harder-to-clarify-decisions?u=76281980&t=185)** It's comparing multiple years over time.
 >
@@ -575,14 +569,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 > **Speakers:** - you (1)
 
-#### Craft clear recommendations from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980)
+#### [Craft clear recommendations from data](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -618,7 +611,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980&t=71)** Now that you've shared the insight in a really clear way, you're going to propose a clear, actionable step and you're going to make it concise and very straightforward.
 >
-> **[1:20](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980&t=80)** Now usually using the word, therefore, that is a great transition word, and it'll help you suss out what the action is that you need in your recommendation.
+> **[1:20](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980&t=80)** Now usually using the [[Microsoft Word|word]], therefore, that is a great transition word, and it'll help you suss out what the action is that you need in your recommendation.
 >
 > **[1:28](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/craft-clear-recommendations-from-data?u=76281980&t=88)** So you would say, therefore, we should, or therefore IT needs to, or therefore users must.
 >
@@ -666,7 +659,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Word|Word]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** set up (1)
@@ -677,8 +670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What’s a Slidedoc?
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980)
+#### [What’s a Slidedoc?](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/what-s-a-slidedoc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -752,7 +744,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), data (2), hit (2), strengths (1), business (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [slidedocs.com](https://slidedocs.com) (1)
 > **Cross-References:** in the last (1)
@@ -760,8 +751,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - have (1)
 
-#### Using Slidedocs for proposals and updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980)
+#### [Using Slidedocs for proposals and updates](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +777,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=64)** Your slidedoc might include a sales trend chart with an annotation showing the opportunity in a way that really grabs attention.
 >
-> **[1:12](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=72)** You can have a simple table showing forecasted revenue gains instead of a complex spreadsheet with pivot tables, and a bold, colorful headline that says, "We recommend allocating $50,000 to fund incentives, which is going to boost sales by 25%."
+> **[1:12](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=72)** You can have a simple table showing forecasted revenue gains instead of a complex spreadsheet with [[Pivot Tables]], and a bold, colorful headline that says, "We recommend allocating $50,000 to fund incentives, which is going to boost sales by 25%."
 >
 > **[1:29](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=89)** That's amazing.
 >
@@ -799,7 +789,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=107)** They are about recurring metrics and ongoing progress.
 >
-> **[1:50](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=110)** And these types of updates rely on familiar charts like dashboards, charts, or tables that stakeholders are already working on all the time, and they understand them and they probably use the same charts often.
+> **[1:50](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=110)** And these types of updates rely on familiar charts like [[Dashboards]], charts, or tables that stakeholders are already working on all the time, and they understand them and they probably use the same charts often.
 >
 > **[2:03](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/using-slidedocs-for-proposals-and-updates?u=76281980&t=123)** So for instance, a status update slidedoc might highlight KPIs, it might flag risks, and outline the next steps.
 >
@@ -825,13 +815,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), power (1), [[Pivot Tables]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Dashboards]] (1)
 > **Analogies:** for example (1), imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - what (1)
 
-#### Distributing a Slidedoc effectively
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980)
+#### [Distributing a Slidedoc effectively](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980&t=117)** Don't make it longer than that.
 >
-> **[2:00](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980&t=120)** That way the rest of the meeting is used to discuss the insights in this visual document.
+> **[2:00](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980&t=120)** That way the [[Representational State Transfer (REST)|rest]] of the meeting is used to discuss the insights in this visual document.
 >
 > **[2:06](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/distributing-a-slidedoc-effectively?u=76281980&t=126)** If you distribute a slide doc after a meeting, use it to provide supplementary details or to reinforce key points.
 >
@@ -895,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** ceo (1), pdf (1)
 > **Best Practices:** best practice (1), make sure to (1)
@@ -907,8 +896,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use AI to critique a chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980)
+#### [Use AI to critique a chart](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -962,7 +950,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980&t=138)** And AI can check for issues around the chart's anatomy, and that'll assure that your chart aligns with your message and builds credibility with your audience.
 >
-> **[2:27](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980&t=147)** Third, AI can evaluate emphasis, highlighting the key insights critical for decision-making, and AI might suggest bold colors, annotations, or even resizing elements to direct the attention of your audience to what matters most.
+> **[2:27](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980&t=147)** Third, AI can evaluate emphasis, highlighting the key insights critical for [[Decision-Making]], and AI might suggest bold colors, annotations, or even resizing elements to direct the attention of your audience to what matters most.
 >
 > **[2:43](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-critique-a-chart?u=76281980&t=163)** So, this ensures that your audience doesn't miss the point.
 >
@@ -986,7 +974,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), prompt (5), data (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** pdf (2), gpt (1)
 > **Exercise Files:** download the (1), exercise files (1)
@@ -995,8 +983,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - ask (1)
 
-#### Use AI to remove bias in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-remove-bias-in-data?u=76281980)
+#### [Use AI to remove bias in data](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/use-ai-to-remove-bias-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1065,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (10), next (3), prompt (1), hit (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -1089,8 +1075,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of communicating data well
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980)
+#### [The power of communicating data well](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1106,7 +1091,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=27)** So your ability to frame insights clearly sets the trajectory for your career and positions you as a trusted advisor.
 >
-> **[0:35](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=35)** Second, storytelling inspires action.
+> **[0:35](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=35)** Second, [[Storytelling]] inspires action.
 >
 > **[0:38](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=38)** People don't connect to spreadsheets, they connect to stories.
 >
@@ -1124,7 +1109,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=82)** And we have a course that's called Data Story, and this dives deeper into the concept.
 >
-> **[1:27](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=87)** So feel free to reach out at contact@[duarte.com](https://duarte.com) or follow me on LinkedIn.
+> **[1:27](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=87)** So feel free to reach out at contact@[duarte.com](https://duarte.com) or follow me on [[LinkedIn]].
 >
 > **[1:33](https://www.linkedin.com/learning/data-decision-making-and-communication-for-leaders-with-nancy-duarte/the-power-of-communicating-data-well?u=76281980&t=93)** I would really enjoy hearing how these skills are transforming your work.
 >
@@ -1136,7 +1121,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), career (1), [[Storytelling]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [duarte.com](https://duarte.com) (2)
 > **Definitions:** is an  (1)

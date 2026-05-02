@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate processes as you PM
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
+#### [Integrate processes as you PM](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980&t=6)** Integration management is vital to project management success.
 >
-> **[0:10](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980&t=10)** In my LinkedIn course, you'll learn some key terms, along with best practices, to accelerate your project performance.
+> **[0:10](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980&t=10)** In my [[LinkedIn]] course, you'll learn some key terms, along with best practices, to accelerate your project performance.
 >
 > **[0:16](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-processes-as-you-pm?u=76281980&t=16)** Also, you'll become knowledgeable about the emerging trends impacting the project management profession.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **Speakers:** - if (1)
 
 
@@ -113,8 +112,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define integration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
+#### [Define integration management](https://www.linkedin.com/learning/project-management-foundations-integration-2/define-integration-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,12 +164,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (12)
 > **Analogies:** imagine (1)
 > **Speakers:** - project (1)
 
-#### Importance of integration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/importance-of-integration-management?u=76281980)
+#### [Importance of integration management](https://www.linkedin.com/learning/project-management-foundations-integration-2/importance-of-integration-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -241,15 +237,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), hit (1)
 > **Analogies:** imagine (2), picture (2), for example (1)
 > **Env Vars:** aka (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - think (1)
 
-#### Key integration management concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980)
+#### [Key integration management concepts](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -263,7 +257,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980&t=16)** But what does this have to do with integration management?
 >
-> **[0:19](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980&t=19)** In one word, everything.
+> **[0:19](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980&t=19)** In one [[Microsoft Word|word]], everything.
 >
 > **[0:22](https://www.linkedin.com/learning/project-management-foundations-integration-2/key-integration-management-concepts?u=76281980&t=22)** Just like hugging a bear isn't easy, neither is wrapping your head around integration management.
 >
@@ -303,14 +297,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - have (1)
 
-#### Understanding process flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/understanding-process-flows?u=76281980)
+#### [Understanding process flows](https://www.linkedin.com/learning/project-management-foundations-integration-2/understanding-process-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -374,7 +367,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4)
 > **Definitions:** is an  (1), known as (1)
 > **Analogies:** for example (1), such as (1)
 > **Best Practices:** the key is (1), it's best to (1)
@@ -386,8 +378,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop Project Charter
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
+#### [Develop Project Charter](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-charter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,14 +446,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (1)
 > **Env Vars:** aka (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - do (1)
 
-#### Develop Project Management Plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980)
+#### [Develop Project Management Plan](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +477,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980&t=59)** To develop your project management plan, you'll need to include the following inputs.
 >
-> **[1:03](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980&t=63)** These include a project charter, baselines, for example, scope, schedule and cost baselines, subsidiary plans, for example, resource, risk, and stakeholder engagement plans, enterprise environmental factors, for example, external influences, and organizational process assets, for example, historical information.
+> **[1:03](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980&t=63)** These include a project charter, baselines, for example, scope, schedule and cost baselines, subsidiary plans, for example, resource, risk, and [[Stakeholder Engagement]] plans, enterprise environmental factors, for example, external influences, and organizational process assets, for example, historical information.
 >
 > **[1:28](https://www.linkedin.com/learning/project-management-foundations-integration-2/develop-project-management-plan?u=76281980&t=88)** The project management plans brings together all of the subsidiary plans and baselines and other information necessary to manage the project.
 >
@@ -524,14 +513,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Stakeholder Engagement]] (1)
+> **Frameworks & Libraries:** [[Stakeholder Engagement]] (1)
 > **Analogies:** for example (4), imagine (1)
 > **Env Vars:** gps (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - there (1)
 
-#### Direct and Manage Project Work
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980)
+#### [Direct and Manage Project Work](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +567,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980&t=95)** Managing all aspects of your project efficiently requires you to think in an integrative way.
 >
-> **[1:41](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980&t=101)** Depending on the nature of the work, you might have to oscillate between higher level strategic thinking and lower level tactical thinking.
+> **[1:41](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980&t=101)** Depending on the nature of the work, you might have to oscillate between higher level [[Strategic Thinking]] and lower level tactical thinking.
 >
 > **[1:49](https://www.linkedin.com/learning/project-management-foundations-integration-2/direct-and-manage-project-work?u=76281980&t=109)** Strategic thinking entails reviewing the project management plan, seeing how it's being impacted by the execution of the work, and taking steps to keep everything on track.
 >
@@ -591,7 +579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (2), [[Strategic Thinking]] (2), next (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (2)
 > **Definitions:** known as (1), is a  (1)
 > **Env Vars:** aka (1)
 > **Analogies:** for example (1)
@@ -599,8 +587,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - plans (1)
 
-#### Manage Project Knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/manage-project-knowledge?u=76281980)
+#### [Manage Project Knowledge](https://www.linkedin.com/learning/project-management-foundations-integration-2/manage-project-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -659,8 +646,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - those (1)
 
-#### Monitor and Control Project Work
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/monitor-and-control-project-work?u=76281980)
+#### [Monitor and Control Project Work](https://www.linkedin.com/learning/project-management-foundations-integration-2/monitor-and-control-project-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,14 +718,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Best Practices:** you should always (1), it's best to (1)
 > **Env Vars:** eva (1)
 > **Speakers:** - imagine (1)
 
-#### Perform Integrated Change Control
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/perform-integrated-change-control?u=76281980)
+#### [Perform Integrated Change Control](https://www.linkedin.com/learning/project-management-foundations-integration-2/perform-integrated-change-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -807,14 +791,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** ccb (1)
 > **Speakers:** - if (1)
 
-#### Close Project or Phase
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980)
+#### [Close Project or Phase](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +820,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980&t=33)** Contractual obligations have been completed.
 >
-> **[0:37](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980&t=37)** Products, services, or results are transferred to the appropriate parties.
+> **[0:37](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980&t=37)** [[Microsoft Products|Products]], services, or results are transferred to the appropriate parties.
 >
 > **[0:41](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-or-phase?u=76281980&t=41)** Lessons learned are documented and archived.
 >
@@ -875,8 +857,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tailor integration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
+#### [Tailor integration management](https://www.linkedin.com/learning/project-management-foundations-integration-2/tailor-integration-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +907,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** aka (1)
 > **Analogies:** such as (1)
@@ -934,8 +914,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Manage project constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/manage-project-constraints?u=76281980)
+#### [Manage project constraints](https://www.linkedin.com/learning/project-management-foundations-integration-2/manage-project-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -999,14 +978,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), hit (2), next (1)
 > **Analogies:** such as (1)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - do (1)
 
-#### Facilitate project interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/facilitate-project-interactions?u=76281980)
+#### [Facilitate project interactions](https://www.linkedin.com/learning/project-management-foundations-integration-2/facilitate-project-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,14 +1049,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), management (1), [[Engineering]] (1), leadership (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1), you need to have (1)
 > **Analogies:** picture (1)
 > **Speakers:** - do (1)
 
-#### Close project deliverables
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-deliverables?u=76281980)
+#### [Close project deliverables](https://www.linkedin.com/learning/project-management-foundations-integration-2/close-project-deliverables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1136,8 +1111,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - all (1)
 
-#### Document lessons learned
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980)
+#### [Document lessons learned](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1149,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980&t=12)** You see, they produce information that can be recorded, organized and archived for use on future projects.
 >
-> **[0:20](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980&t=20)** If you find yourself working on similar projects, as in the case of a company that builds commercial office shelf products or designs websites, you can benefit from documenting what you learn.
+> **[0:20](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980&t=20)** If you find yourself working on similar projects, as in the case of a company that builds commercial [[Microsoft Office|office]] shelf [[Microsoft Products|products]] or designs websites, you can benefit from documenting what you learn.
 >
 > **[0:30](https://www.linkedin.com/learning/project-management-foundations-integration-2/document-lessons-learned?u=76281980&t=30)** This will enable you to improve your project management processes.
 >
@@ -1181,7 +1155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - have (1)
 
@@ -1190,8 +1164,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrate self-directed teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
+#### [Integrate self-directed teams](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,7 +1188,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980&t=56)** This encourages members to take personal ownership of their work and commit to the team's overall success.
 >
-> **[1:01](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980&t=61)** What makes these teams attractive is their ability to develop their own roles, responsibilities, quality standards, and decision-making criteria.
+> **[1:01](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980&t=61)** What makes these teams attractive is their ability to develop their own roles, responsibilities, quality standards, and [[Decision-Making]] criteria.
 >
 > **[1:10](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-self-directed-teams?u=76281980&t=70)** In this environment, project managers act in more of a facilitative fashion rather than traditional managers.
 >
@@ -1263,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (14), [[Decision-Making]] (2), management (2), leadership (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -1271,8 +1244,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - modern (1)
 
-#### Integrate hybrid methodologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980)
+#### [Integrate hybrid methodologies](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,7 +1266,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=42)** So let's not throw the baby out with the bath water.
 >
-> **[0:46](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=46)** Predictive forms of project management can be combined with adaptive approaches to create hybrid solutions.
+> **[0:46](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=46)** Predictive [[Forms]] of project management can be combined with adaptive approaches to create hybrid solutions.
 >
 > **[0:53](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=53)** This is especially suited for organizations that are rooted in the traditional project management environment, but want to incorporate some adaptive and lean practices.
 >
@@ -1314,7 +1286,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=100)** It lays a strong foundation and framework to scale projects over time.
 >
-> **[1:45](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=105)** On the other hand, adaptive approaches provide a way to generate faster products, services, or results.
+> **[1:45](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=105)** On the other hand, adaptive approaches provide a way to generate faster [[Microsoft Products|products]], services, or results.
 >
 > **[1:52](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=112)** If teams work in a collaborative environment where constant change and rapid execution is needed, methodologies such as Kanban might be useful.
 >
@@ -1334,22 +1306,21 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=168)** A hybrid approach provides the structure needed to predictably scale projects, share the knowledge gained with future teams, and sustain the overall organization.
 >
-> **[2:58](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=178)** In other words, it marries long-term strategic thinking with short-term tactical execution.
+> **[2:58](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-hybrid-methodologies?u=76281980&t=178)** In other words, it marries long-term [[Strategic Thinking]] with short-term tactical execution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), management (5), [[Forms]] (1), [[Microsoft Products|Products]] (1), functional (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Strategic Thinking]] (1)
 > **Env Vars:** pmbok (3), ibm (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - growth (1)
 
-#### Integrate artificial intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-artificial-intelligence?u=76281980)
+#### [Integrate artificial intelligence](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-artificial-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-artificial-intelligence?u=76281980&t=0)** - Artificial Intelligence, aka AI, is a game changer.
+> **[0:00](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-artificial-intelligence?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial Intelligence]], aka AI, is a game changer.
 >
 > **[0:04](https://www.linkedin.com/learning/project-management-foundations-integration-2/integrate-artificial-intelligence?u=76281980&t=4)** Imagine, one day humans will be working side by side with AI powered robots.
 >
@@ -1391,7 +1362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), management (2), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), game (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **Env Vars:** pmi (1)
 > **Definitions:** is a  (1)
@@ -1402,8 +1373,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/project-management-foundations-integration-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,7 +1393,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), career (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
 

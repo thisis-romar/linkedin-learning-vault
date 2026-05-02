@@ -8,7 +8,7 @@ linkedin_topics:
   - Data Science
   - Software Development
   - Web Development
-louvain_cluster: 14
+louvain_cluster: 12
 tags:
   - learning-path
   - topic/data-science

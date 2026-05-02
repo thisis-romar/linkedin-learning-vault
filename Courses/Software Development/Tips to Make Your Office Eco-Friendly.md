@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Greening your workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
+#### [Greening your workplace](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,11 +82,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=11)** Believe me, I've been there.
 >
-> **[0:13](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=13)** I'm Ashlee Piper, a sustainability expert and author with two decades of experience helping companies and individuals save the planet while also saving time, money, and their sanity.
+> **[0:13](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=13)** I'm Ashlee Piper, a [[Sustainability]] expert and author with two decades of experience helping companies and individuals save the planet while also saving time, money, and their sanity.
 >
 > **[0:25](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=25)** Throughout this course we'll be exploring sustainable steps that work at work.
 >
-> **[0:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=30)** I'm going to show you why what you do matters and how your individual habits at the office and in life can make a big difference for the planet, your wallet, and even your wellbeing.
+> **[0:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=30)** I'm going to show you why what you do matters and how your individual habits at the [[Microsoft Office|office]] and in life can make a big difference for the planet, your wallet, and even your wellbeing.
 >
 > **[0:42](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/greening-your-workplace?u=76281980&t=42)** And there will definitely be a restored energy of heck yeah what I do matters because, well, it does.
 >
@@ -105,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bring your own reusables
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
+#### [Bring your own reusables](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=6)** Even if you're not the big boss, which most of us aren't, you can institute sustainable personal habits at your workplace that positively impact the planet and can even inspire those around you.
 >
-> **[0:18](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=18)** You know, all those plastic cups and cutlery, paper plates and disposable napkins you likely have in your office break room?
+> **[0:18](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=18)** You know, all those plastic cups and cutlery, paper plates and disposable napkins you likely have in your [[Microsoft Office|office]] break room?
 >
 > **[0:25](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=25)** Well, cue the sad music, say your goodbyes, because you won't be needing their services any longer.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=205)** And remember, there is no desk deputy who's going to scold you for the style of your sustainable stuff.
 >
-> **[3:31](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=211)** But there is a sustainability expert who will commend you for giving this the old college try.
+> **[3:31](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=211)** But there is a [[Sustainability]] expert who will commend you for giving this the old college try.
 >
 > **[3:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/bring-your-own-reusables?u=76281980&t=217)** And it's me.
 >
@@ -211,8 +209,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - so (1)
 
-#### Pack your lunch
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980)
+#### [Pack your lunch](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=40)** And that's just food waste.
 >
-> **[0:43](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=43)** When you think of the copious amounts of packaging that happen when we have lunch delivered, cater office functions, or grab something from the deli around the corner, the trash really piles up, so to speak.
+> **[0:43](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=43)** When you think of the copious amounts of packaging that happen when we have lunch delivered, cater [[Microsoft Office|office]] functions, or grab something from the deli around the corner, the trash really piles up, so to speak.
 >
 > **[0:55](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=55)** To put this in perspective, let's look at lunchtime at schools.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=83)** Bringing your lunch allows you to cut down on the trash you create, both in packaging, because if you've mastered the tips from the last video, you're already a BYOR renegade, and in food waste, because you're bringing just what you plan to eat.
 >
-> **[1:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=98)** And you can always bring the rest home at the end of the day to finish or to compost.
+> **[1:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=98)** And you can always bring the [[Representational State Transfer (REST)|rest]] home at the end of the day to finish or to compost.
 >
 > **[1:43](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/pack-your-lunch?u=76281980&t=103)** And because we're big fans of triple wins around here, packing your lunch doesn't just make the planet get all emoji with heart eyes.
 >
@@ -296,8 +293,7 @@ created: 2026-05-02
 > **Versions:** 4.9 (1)
 > **Speakers:** - there (1)
 
-#### Commute responsibly
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980)
+#### [Commute responsibly](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,13 +365,13 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=211)** But carpooling saves money and emissions and actually provides science backed emotional benefits like reducing stress and improving workplace morale.
 >
-> **[3:41](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=221)** Carpooling also provides an extra layer of accountability to show up on time because if you forget to say, pick up a coworker, whoops, everybody at the water cooler is going to hear about it.
+> **[3:41](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=221)** Carpooling also provides an extra layer of [[Accountability]] to show up on time because if you forget to say, pick up a coworker, whoops, everybody at the water cooler is going to hear about it.
 >
 > **[3:52](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=232)** In some states, you may be able to take advantage of tax breaks provided by the Clean Air Act or your employer, and perhaps most enticingly, you can finally take the HOV lane legally so you can put that mannequin back in the trunk.
 >
-> **[4:05](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=245)** And if you've no other choice but to do a solo sojourn to the office in a vehicle, here's some quick homework for you.
+> **[4:05](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=245)** And if you've no other choice but to do a solo sojourn to the [[Microsoft Office|office]] in a vehicle, here's some quick homework for you.
 >
-> **[4:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=252)** Use Google Maps to find the most fuel efficient route.
+> **[4:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=252)** Use [[Google]] Maps to find the most fuel efficient route.
 >
 > **[4:15](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/commute-responsibly?u=76281980&t=255)** You may be surprised that your old standby is guzzling way more gas than you thought.
 >
@@ -385,14 +381,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), hit (1), career (1), [[Accountability]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Accountability]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** co2 (2), hov (1)
 > **Definitions:** is a  (3)
 > **Speakers:** - ralph (1)
 
-#### Be a changemaker in your office
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980)
+#### [Be a changemaker in your office](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -400,9 +395,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=6)** While I usually heard this when I wanted to challenge myself to eat 40 gumballs in one go like Robert down the street, it's a reminder that social influence is a pretty powerful thing.
 >
-> **[0:17](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=17)** Yep, you, just by doing your eco thing, are extremely influential at the office and in life, especially if you wield that precious influence the right way.
+> **[0:17](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=17)** Yep, you, just by doing your eco thing, are extremely influential at the [[Microsoft Office|office]] and in life, especially if you wield that precious influence the right way.
 >
-> **[0:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=27)** You see, when I first got into sustainability decades ago, I was really excited about it.
+> **[0:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=27)** You see, when I first got into [[Sustainability]] decades ago, I was really excited about it.
 >
 > **[0:34](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/be-a-changemaker-in-your-office?u=76281980&t=34)** I was also extremely judgy and obnoxious when folks didn't share my enthusiasm.
 >
@@ -476,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conduct an energy audit at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
+#### [Conduct an energy audit at work](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -485,17 +479,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=4)** Whew, say that three times fast, the ones that require a little more company buy-in to make.
 >
-> **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=9)** So if you're the big boss or just the boss of your own one person office, this chapter is for you.
+> **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=9)** So if you're the big boss or just the boss of your own one person [[Microsoft Office|office]], this chapter is for you.
 >
 > **[0:15](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=15)** Or if you want to call your bosses over and force them to watch this, that also works.
 >
-> **[0:21](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=21)** Most people in the United States hear the word "audit" and begin rummaging through old tax documents, sweating bullets.
+> **[0:21](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=21)** Most people in the United States hear the [[Microsoft Word|word]] "audit" and begin rummaging through old tax documents, sweating bullets.
 >
 > **[0:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=27)** Well, this is not that kind of audit.
 >
 > **[0:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=30)** You see, I'm talking about an energy audit because we can't know where your workplace can go if we don't know where you currently are.
 >
-> **[0:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=37)** An energy audit looks at a variety of factors from the kinds of power you're supplied and electronics you use, to the amount and methods by which your workforce travels.
+> **[0:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=37)** An energy audit looks at a variety of factors from the kinds of power you're supplied and [[Electronics]] you use, to the amount and methods by which your workforce travels.
 >
 > **[0:47](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=47)** Usually large companies will hire consultants or organizations to conduct a more formal and thorough energy audit, but if you're not in that position, the U.S. Department of Energy has a good guide for conducting a DIY audit of your home that you can adapt to your office assessment.
 >
@@ -511,7 +505,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=81)** If there are desks in your office that have you feeling a polar vortex draft or you have a toilet that runs 24/7, the answer is probably yes.
 >
-> **[1:29](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=89)** And there are simple low-cost fixes for this like draft blockers and caulk, and more expensive improvements like getting better windows.
+> **[1:29](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=89)** And there are simple low-cost fixes for this like draft blockers and caulk, and more expensive improvements like getting better [[Windows]].
 >
 > **[1:37](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=97)** If you rent your space, talk with your property manager about potentially addressing these as they can lower everyone's costs and make folks generally more comfortable.
 >
@@ -545,7 +539,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=191)** And when you order office supplies, are you looking for items secondhand or that can be reused like secondhand furnishings and refillable pens?
 >
-> **[3:19](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=199)** Sustainability as a company priority.
+> **[3:19](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=199)** [[Sustainability]] as a company priority.
 >
 > **[3:23](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/conduct-an-energy-audit-at-work?u=76281980&t=203)** Perhaps less tangible, but has your company incorporated sustainability goals and stewardship into its annual plan via ESG or environmental social and governance targets?
 >
@@ -563,7 +557,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Electronics]] (3), power (2), [[Sustainability]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Electronics]] (3), [[Sustainability]] (2), [[Microsoft Word|Word]] (1), [[Windows]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** diy (1), esg (1)
 > **Definitions:** is a  (2)
@@ -571,14 +565,13 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - now (1)
 
-#### Embrace natural and eco-friendly lighting
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980)
+#### [Embrace natural and eco-friendly lighting](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=0)** - If the rise of Instagram influencers and reality television stars has taught us anything, it is that good lighting can work miracles.
 >
-> **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=9)** And while you're probably not looking to stage your office for the perfect selfie, eco-friendly lighting can not only beautify your space and save big bucks, it can also boost morale.
+> **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=9)** And while you're probably not looking to stage your [[Microsoft Office|office]] for the perfect selfie, eco-friendly lighting can not only beautify your space and save big bucks, it can also boost morale.
 >
 > **[0:20](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=20)** Lighting accounts for 17% of all energy consumed in commercial buildings across the US.
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=38)** If you're blessed with an office space that has good natural light, exploit the heck out of it.
 >
-> **[0:43](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=43)** Situate workspaces near windows and skylights, and use sheer curtains and even mirrors to let the sunshine flow in.
+> **[0:43](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=43)** Situate workspaces near [[Windows]] and skylights, and use sheer curtains and even mirrors to let the sunshine flow in.
 >
 > **[0:51](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/embrace-natural-and-eco-friendly-lighting?u=76281980&t=51)** Bonus, this can make your space look even larger.
 >
@@ -658,14 +651,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Windows]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (7), [[Windows]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** led (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - if (1)
 
-#### Opt for laptops
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980)
+#### [Opt for laptops](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -673,7 +665,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=3)** And for anyone who knows me and has seen how long it takes me to figure out how to record a show on my television, well look away because we're talking computers.
 >
-> **[0:14](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=14)** Computers and monitors account for 40 to 60% of the energy use by office equipment.
+> **[0:14](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=14)** Computers and monitors account for 40 to 60% of the energy use by [[Microsoft Office|office]] equipment.
 >
 > **[0:19](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=19)** Second only to office lighting, which we just covered in energy consumption.
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=42)** On average laptops can use 80% less electricity than desktops, pulling 15 to 60 kilowatts to a desktop's 60 to 250 kilowatts.
 >
-> **[0:54](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=54)** Plus, laptops get an extra sustainability star for being portable and better meeting the needs of an increasingly mobile workforce.
+> **[0:54](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=54)** Plus, laptops get an extra [[Sustainability]] star for being portable and better meeting the needs of an increasingly mobile workforce.
 >
 > **[1:02](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=62)** And whether you're already a laptop forward workplace or you can't do much about the endless desktops and monitors lining the halls, there are some steps any workplace can take to lessen the energy drain of these devices.
 >
@@ -699,7 +691,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=106)** Two, plug devices into a smart strip.
 >
-> **[1:50](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=110)** These can be used to turn electronics off and on in mass and also automatically minimize energy consumption.
+> **[1:50](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=110)** These can be used to turn [[Electronics]] off and on in mass and also automatically minimize energy consumption.
 >
 > **[1:58](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/opt-for-laptops?u=76281980&t=118)** Three, disconnect external devices.
 >
@@ -731,21 +723,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), power (3), [[Sustainability]] (1), [[Electronics]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Sustainability]] (1), [[Electronics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - we (1)
 
-#### Adopt a digital-first policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980)
+#### [Adopt a digital-first policy](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=0)** - Things have changed from the days when your boss would holler, "Print me 70 copies of the Lundberg file," from his corner office, and everybody would race to the behemoth copy machine, praying it wouldn't jam.
+> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=0)** - Things have changed from the days when your boss would holler, "Print me 70 copies of the Lundberg file," from his corner [[Microsoft Office|office]], and everybody would race to the behemoth copy machine, praying it wouldn't jam.
 >
 > **[0:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=12)** These days, workplaces can operate successfully with little to no printing, and this digital nimbleness doesn't just save you from commuting with an enormous Dragnet-esque briefcase, stuffed with papers, it also helps the planet.
 >
-> **[0:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=27)** Now, you may think that our reliance on paper has gone flat, but statistics tell a very different story.
+> **[0:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=27)** Now, you may think that our reliance on paper has gone flat, but [[Statistics]] tell a very different story.
 >
 > **[0:33](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=33)** Worldwide consumption of paper has risen by 400% in the last 40 years, with 35% of harvested trees being used for paper manufacturing.
 >
@@ -797,7 +788,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=180)** Three, embrace digital-first marketing.
 >
-> **[3:03](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=183)** While there is still value to paper-based marketing, like newspaper and magazine ads, and even flyers and circulars, you can leverage the benefits more effectively by ensuring you have a complementary digital marketing strategy.
+> **[3:03](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=183)** While there is still value to paper-based marketing, like newspaper and magazine ads, and even flyers and circulars, you can leverage the benefits more effectively by ensuring you have a complementary digital [[Marketing Strategy]].
 >
 > **[3:16](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/adopt-a-digital-first-policy?u=76281980&t=196)** For instance, instead of putting multi-page menus, or a manifesto at people's doors, try a single recyclable flyer with a QR code, or digital call to action, driving potential consumers to your site where you can really capture their attention.
 >
@@ -825,7 +816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Statistics]] (1), cloud (1), [[Security]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Statistics]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1), picture (1)
 > **Env Vars:** bpa (1)
@@ -833,8 +824,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - things (1)
 
-#### Beware of energy vampires
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980)
+#### [Beware of energy vampires](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,11 +838,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=9)** I think they come alive at night, just generally not my thing.
 >
-> **[0:13](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=13)** And if you're running an office, chances are, there's something very scary lurking undetected in the background.
+> **[0:13](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=13)** And if you're running an [[Microsoft Office|office]], chances are, there's something very scary lurking undetected in the background.
 >
 > **[0:20](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=20)** That's right, we're talking about energy vampires.
 >
-> **[0:24](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=24)** Those resource suckers never sleep and instead feast on the residual power of all those electronics and appliances you keep perpetually plugged in.
+> **[0:24](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=24)** Those resource suckers never sleep and instead feast on the residual power of all those [[Electronics]] and appliances you keep perpetually plugged in.
 >
 > **[0:33](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/beware-energy-vampires?u=76281980&t=33)** You know, the coffee pot in the break room, the phone chargers that aren't charging anything, the printer on standby all night, the television in the conference room glowing a screensaver to no one.
 >
@@ -890,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), [[Microsoft Office|Office]] (3), [[Electronics]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Electronics]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - by (1)
@@ -900,12 +890,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Secondhand-first at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
+#### [Secondhand-first at work](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=0)** - So often when we think of a company making it, we have visions of a large flashy office decked out with brand new furnishings and sleek equipment, but this is a farce.
+> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=0)** - So often when we think of a company making it, we have visions of a large flashy [[Microsoft Office|office]] decked out with brand new furnishings and sleek equipment, but this is a farce.
 >
 > **[0:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=12)** With more than 26% of us working remotely these days, a number that's estimated to grow astronomically in the coming years, a tricked out office isn't necessarily where we should be putting our resources.
 >
@@ -925,7 +914,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=81)** With so many offices closing due to the pandemic, the market for secondhand and refurbished office furnishings and structures like cubicles is booming.
 >
-> **[1:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=90)** Take a minute to do a quick Google search for secondhand office furniture.
+> **[1:30](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=90)** Take a minute to do a quick [[Google]] search for secondhand office furniture.
 >
 > **[1:34](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=94)** How many options popped up?
 >
@@ -939,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=134)** We touched a little on planned obsolescence in this series, but we often don't think about repairing our items, even if all they need is a slight tweak to work well for years to come.
 >
-> **[2:25](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=145)** Thankfully, there are so many companies that offer warrantied refurbished electronics like computers, televisions, copiers, and phone systems, along with repair programs that will extend the life of these devices.
+> **[2:25](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=145)** Thankfully, there are so many companies that offer warrantied refurbished [[Electronics]] like computers, televisions, copiers, and phone systems, along with repair programs that will extend the life of these devices.
 >
 > **[2:38](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/secondhand-first-at-work?u=76281980&t=158)** And if you're into having a less single-use kitchen setup, getting an Energy Star rated dishwasher, fridge, and microwave secondhand can cut down on the waste generated by disposables.
 >
@@ -979,14 +968,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (10), functional (2), [[Google]] (1), [[Search]] (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (10), [[Google]] (1), [[Electronics]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), cat (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - so (1)
 
-#### Ditch the swag
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980)
+#### [Ditch the swag](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1008,7 +996,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980&t=55)** I promise there is a shirt from a 5K you ran in 2016 back there.
 >
-> **[1:01](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980&t=61)** The promotional products industry in the United States is worth $24 billion.
+> **[1:01](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980&t=61)** The promotional [[Microsoft Products|products]] industry in the United States is worth $24 billion.
 >
 > **[1:06](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/ditch-the-swag?u=76281980&t=66)** That is a lot of swag, and it's not just that having branded items is an affront to your reputation as an individual.
 >
@@ -1074,8 +1062,7 @@ created: 2026-05-02
 > **Env Vars:** usb (1)
 > **Speakers:** - don (1)
 
-#### Institute in-office composting
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980)
+#### [Institute in-office composting](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980&t=9)** And while that might just be me and my delightful quirks, we cannot underestimate the morale and energy boosting power of food in the workplace.
 >
-> **[0:19](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980&t=19)** But what about the food your office doesn't consume?
+> **[0:19](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980&t=19)** But what about the food your [[Microsoft Office|office]] doesn't consume?
 >
 > **[0:22](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/institute-in-office-composting?u=76281980&t=22)** What happens to the platters of sandwiches and cookies and fruit so commonly found on conference tables?
 >
@@ -1157,17 +1144,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), next (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - i (1)
 
-#### Encourage meat-free days or challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980)
+#### [Encourage meat-free days or challenges](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=0)** - I'd be remiss if I did a course on sustainability and didn't mention the single most impactful thing we as individuals can do to help the planet; eat less meat.
+> **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=0)** - I'd be remiss if I did a course on [[Sustainability]] and didn't mention the single most impactful thing we as individuals can do to help the planet; eat less meat.
 >
 > **[0:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=12)** Now, before you come at me with the fury of a thousand cookouts, this is not a matter of my opinion.
 >
@@ -1185,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=99)** Going meatless, even just for a single snack, is scientifically proven to be helpful, even essential for the planet, for human health, and for your wallet.
 >
-> **[1:48](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=108)** And your office can get in on all the fun with these sacrifice-free strategies.
+> **[1:48](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=108)** And your [[Microsoft Office|office]] can get in on all the fun with these sacrifice-free strategies.
 >
 > **[1:54](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=114)** One, enact meatless Mondays or meatless May, or meat-free Fridays.
 >
@@ -1193,7 +1179,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=121)** Whatever gets your team excited and exploring the plethora of plant-based options.
 >
-> **[2:06](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=126)** Best of all, these challenges are free and can reap wellness benefits similar to very expensive programs.
+> **[2:06](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=126)** Best of all, these challenges are free and can reap [[Wellness]] benefits similar to very expensive programs.
 >
 > **[2:13](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/encourage-meat-free-days-or-challenges?u=76281980&t=133)** Two, order with intention.
 >
@@ -1231,8 +1217,7 @@ created: 2026-05-02
 > **Env Vars:** osha (1)
 > **Speakers:** - i (1)
 
-#### Revisit work-from-home and travel policies to reduce carbon
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980)
+#### [Revisit work-from-home and travel policies to reduce carbon](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=64)** And it's estimated that collectively, working from home for just half a week could reduce emissions by 54 million tons every year.
 >
-> **[1:14](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=74)** And with the advanced digitization of work from home, just one remote worker can remove nearly 15 pounds of carbon dioxide from the air by just using less paper than they do at the office.
+> **[1:14](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=74)** And with the advanced digitization of work from home, just one remote worker can remove nearly 15 pounds of carbon dioxide from the air by just using less paper than they do at the [[Microsoft Office|office]].
 >
 > **[1:26](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=86)** But can having more remote friendly policies help your companies bottom line?
 >
@@ -1292,13 +1277,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=187)** And when you've arrived at your destination, consider making hybrid or electric vehicle rental or public transit, the reimbursable standard.
 >
-> **[3:15](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=195)** And because sustainability is as much about people as it is the planet, opt for local businesses when booking accommodations, meals and venues so you're supporting your destination's economy.
+> **[3:15](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=195)** And because [[Sustainability]] is as much about people as it is the planet, opt for local businesses when booking accommodations, meals and venues so you're supporting your destination's economy.
 >
 > **[3:27](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/revisit-work-from-home-and-travel-policies-to-reduce-carbon?u=76281980&t=207)** So whether you're an all hands on deck kind of workplace or a lean and remote company, there are tips here you can take to make your attendance and travel policies more wallet, planet and people friendly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Office|Office]] (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Sustainability]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
@@ -1307,14 +1292,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### You are part of the solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)
+#### [You are part of the solution](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=0)** - Thank you so much for taking the time to learn how you can make your workplace a more sustainable space.
 >
-> **[0:07](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=7)** And remember, sustainability is about progress, not perfection.
+> **[0:07](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=7)** And remember, [[Sustainability]] is about progress, not perfection.
 >
 > **[0:12](https://www.linkedin.com/learning/tips-to-make-your-office-eco-friendly/you-are-part-of-the-solution?u=76281980&t=12)** So treat these tips like items from a menu, implementing what you can, when you can, in a way that works for you, your organization, and its employees.
 >
@@ -1330,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **CLI Commands:** make (3), find (1)
 > **URLs:** [ashleepiper.com](https://ashleepiper.com) (1)
 > **Definitions:** is an  (1)

@@ -92,20 +92,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Microsoft Cloud for Sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
+#### [Introduction to Microsoft Cloud for Sustainability](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=0)** - The World Economic Forum estimates 1.2 billion people could be displaced by climate change by the year 2050.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=0)** - The World Economic Forum estimates 1.2 billion people could be displaced by [[Climate Change]] by the year 2050.
 >
-> **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=9)** This is one of the key reasons why governments and regulators around the world are forcing organizations to think about their businesses from a sustainability lens.
+> **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=9)** This is one of the key reasons why governments and regulators around the world are forcing organizations to think about their businesses from a [[Sustainability]] lens.
 >
 > **[0:18](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=18)** Working on sustainability is no longer just a nice to have, but a critical business imperative.
 >
 > **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=24)** My name is Fawad Qureshi, and I have been working in the cloud data analytics space for over two decades.
 >
-> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=30)** In this course, we'll discuss how to conduct a sustainability audit using Microsoft Cloud for Sustainability Solution.
+> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=30)** In this course, we'll discuss how to conduct a sustainability audit using [[Microsoft]] Cloud for Sustainability Solution.
 >
 > **[0:38](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-microsoft-cloud-for-sustainability?u=76281980&t=38)** I'll walk you through how to use the Microsoft Cloud for Sustainability Solution Stack using a live demo to help you build your own sustainability journey for your enterprise.
 >
@@ -115,22 +114,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), cloud (3), [[Climate Change]] (2), [[Microsoft]] (2), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Climate Change]] (2), [[Microsoft]] (2)
 > **Versions:** 1.2 (1)
 > **Speakers:** - the (1)
 
-#### The five Rs in Microsoft Cloud for Sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980)
+#### [The five Rs in Microsoft Cloud for Sustainability](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980&t=1)** - Let's do a quick recap of Microsoft Cloud 2 for sustainability solution areas. 3 Microsoft Cloud for sustainability is an overarching term 4 for a growing set of ESG, environmental, social, 5 and governance capabilities from Microsoft 6 and their ecosystem of partners. 7 These services will help organization 8 accelerate their sustainability progress 9 and business growth. 10 The offering is split into two broad categories, 11 green slash sustainability technologies, 12 which help an organization 13 build a sustainable IT infrastructure 14 and sustainable technologies, which help their organization 15 optimize their supply chain. 16 These solutions aim to solve the problem in multiple steps. 17 Number one, record. 18 This involves capturing the data about the tools 19 and processes of the organization in a systematic way. 20
+> **[0:01](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980&t=1)** - Let's do a quick recap of [[Microsoft]] Cloud 2 for [[Sustainability]] solution areas. 3 Microsoft Cloud for sustainability is an overarching term 4 for a growing set of ESG, environmental, social, 5 and governance capabilities from Microsoft 6 and their ecosystem of partners. 7 These services will help organization 8 accelerate their sustainability progress 9 and business growth. 10 The offering is split into two broad categories, 11 green slash sustainability technologies, 12 which help an organization 13 build a sustainable IT infrastructure 14 and sustainable technologies, which help their organization 15 optimize their supply chain. 16 These solutions aim to solve the problem in multiple steps. 17 Number one, record. 18 This involves capturing the data about the tools 19 and processes of the organization in a systematic way. 20
 >
-> **[0:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980&t=52)** Number two, report. 21 This feature helps build analytical reports 22 and dashboards on the data collected 23 for informed decision making and then reduce and replace. 24 This allows companies to set their organization's goal 25 and track the progress. 26 This helps them optimize their IT infrastructure 27 through the impact emissions dashboard. 28 And lastly, remove. 29 Supports the organization's efforts in removing carbon 30 and trading carbon credits 31 through carbon credits marketplaces. 32 These set of tools can be used together 33 or individually, depending upon the need 34 of different customers. 35 Now that you know at a high level 36 about Microsoft Cloud for sustainability, 37 let's discuss a case study 38 which brings all of these concepts together.
+> **[0:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/the-5-r-s-in-microsoft-cloud-for-sustainability?u=76281980&t=52)** Number two, report. 21 This feature helps build analytical reports 22 and [[Dashboards]] on the data collected 23 for informed decision making and then reduce and replace. 24 This allows companies to set their organization's goal 25 and track the progress. 26 This helps them optimize their IT infrastructure 27 through the impact emissions dashboard. 28 And lastly, remove. 29 Supports the organization's efforts in removing carbon 30 and trading carbon credits 31 through carbon credits marketplaces. 32 These set of tools can be used together 33 or individually, depending upon the need 34 of different customers. 35 Now that you know at a high level 36 about Microsoft Cloud for sustainability, 37 let's discuss a case study 38 which brings all of these concepts together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (4), cloud (3), data (2), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (4), [[Dashboards]] (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - let (1)
@@ -140,14 +138,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Case study overview: Global supply chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
+#### [Case study overview: Global supply chain](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=0)** - [Instructor] Red30 is a global brand operating in more than 30 countries.
 >
-> **[0:05](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=5)** Their products are marketed under the Contoso brand.
+> **[0:05](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=5)** Their [[Microsoft Products|products]] are marketed under the Contoso brand.
 >
 > **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=9)** They have multiple offerings in retail, manufacturing, electronic gadgets, and software solutions.
 >
@@ -159,11 +156,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=39)** Their goals include becoming carbon neutral by 2030, shifting to hundred percent renewable sources, adopting circular economy practices, and ensuring that they have ethical sourcing and an overall green supply chain.
 >
-> **[0:53](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=53)** In the rest of the course, we will use the different Microsoft Cloud for Sustainability Solutions to their supply chain, optimizing their business processes, and help them in achieving their sustainability goals.
+> **[0:53](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/cast-study-overview-global-supply-chain?u=76281980&t=53)** In the [[Representational State Transfer (REST)|rest]] of the course, we will use the different [[Microsoft]] Cloud for [[Sustainability]] Solutions to their supply chain, optimizing their business processes, and help them in achieving their sustainability goals.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Sustainability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -172,24 +169,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building and operating sustainability solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
+#### [Building and operating sustainability solutions](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=0)** - [Instructor] Before you start your sustainability journey, it is important that you have a proper plan to follow.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=0)** - [Instructor] Before you start your [[Sustainability]] journey, it is important that you have a proper plan to follow.
 >
-> **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=6)** To guide you in the journey, Microsoft offers you the well-architected framework.
+> **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=6)** To guide you in the journey, [[Microsoft]] offers you the well-architected framework.
 >
 > **[0:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=11)** Well-architected for industry is a set of guiding principles that you can use to improve the quality of your industry cloud workloads.
 >
-> **[0:18](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=18)** It applies the existing Microsoft Azure well-architected framework principles to Microsoft Cloud for industry solutions, which consist of the following five pillars of architecture excellence.
+> **[0:18](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=18)** It applies the existing [[Microsoft Azure]] well-architected framework principles to Microsoft Cloud for industry solutions, which consist of the following five pillars of architecture excellence.
 >
 > **[0:29](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=29)** Number one, reliability.
 >
 > **[0:31](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=31)** Number two, security.
 >
-> **[0:33](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=33)** Number three, cost optimization, operational excellence, and finally, performance efficiency.
+> **[0:33](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=33)** Number three, cost optimization, [[Operational Excellence]], and finally, performance efficiency.
 >
 > **[0:40](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=40)** Using these principles helps you create better, more reliable, and more efficient industry cloud architecture.
 >
@@ -203,22 +199,21 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=70)** Number four, checklist or self-assessment tools to assess industry cloud, workload design, deployment, and operations.
 >
-> **[1:19](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=79)** Number five, technical documentation, references and technical assets to reuse in implementation.
+> **[1:19](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=79)** Number five, [[Technical Documentation]], references and technical assets to reuse in implementation.
 >
 > **[1:26](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/building-and-operating-sustainability-solutions?u=76281980&t=86)** Number six, documentation on integrated third party solutions, technical guidance, and related support and service offers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[Microsoft]] (4), [[Sustainability]] (1), [[Microsoft Azure]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Sustainability]] (1), [[Microsoft Azure]] (1), [[Operational Excellence]] (1), [[Technical Documentation]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Sustainability Manager: Well-architected assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/5982111?u=76281980)
+#### [Microsoft Sustainability Manager: Well-architected assessment](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/5982111?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/5982111?u=76281980&t=0)** - [Instructor] Microsoft offers a comprehensive self-service assessment for your Microsoft Sustainability Manager.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/5982111?u=76281980&t=0)** - [Instructor] [[Microsoft]] offers a comprehensive self-service assessment for your Microsoft [[Sustainability]] Manager.
 >
 > **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/5982111?u=76281980&t=6)** It assesses your Microsoft Sustainability Manager application at different stages of the implementation process, examining various categories to guide a well-structured deployment.
 >
@@ -232,21 +227,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Sustainability]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Sustainability]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Design principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980)
+#### [Design principles](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=0)** - [Instructor] As sustainability continues to become a top priority for organizations, there's a growing need to integrate sustainable practices into all aspects of business operations, including technology infrastructure.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=0)** - [Instructor] As [[Sustainability]] continues to become a top priority for organizations, there's a growing need to integrate sustainable practices into all aspects of [[Business Operations]], including technology infrastructure.
 >
-> **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=12)** Microsoft Cloud for Sustainability solves this challenge by enabling organizations to manage and track their sustainability performance across operations, products, and supply chains.
+> **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=12)** [[Microsoft]] Cloud for Sustainability solves this challenge by enabling organizations to manage and track their sustainability performance across operations, [[Microsoft Products|products]], and supply chains.
 >
 > **[0:22](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=22)** To ensure that the solution meets the highest standards of sustainability, Microsoft has developed a set of design principles for Microsoft Cloud for Sustainability.
 >
-> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=30)** These design principles build on the five pillars of architectural excellence in Azure Well-Architected Framework and provide guidance for building sustainable and scalable solutions.
+> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=30)** These design principles build on the five pillars of architectural excellence in [[Microsoft Azure|Azure]] Well-Architected Framework and provide guidance for building sustainable and scalable solutions.
 >
 > **[0:41](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=41)** Number one, build for the needs of business.
 >
@@ -254,7 +248,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=49)** Next, unify data intelligence.
 >
-> **[0:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=52)** Gain the visibility you require to effectively drive sustainability reporting, sustainability efforts, and business transformation.
+> **[0:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=52)** Gain the visibility you require to effectively drive sustainability reporting, sustainability efforts, and [[Business Transformation]].
 >
 > **[1:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=60)** Assign least privilege.
 >
@@ -270,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=99)** Use native connectors instead of building custom connectors.
 >
-> **[1:42](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=102)** Use one of the native Power Query connectors for data ingestion, along with the transformation capability of Power Query, instead of building a custom connector.
+> **[1:42](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=102)** Use one of the native [[Microsoft Power Query|Power Query]] connectors for [[Data Ingestion]], along with the transformation capability of Power Query, instead of building a custom connector.
 >
 > **[1:51](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=111)** Set your emissions calculation strategy.
 >
@@ -282,11 +276,11 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=132)** Standardize and centralize the logging and auditing of each solution component.
 >
-> **[2:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=137)** Use Application Insights and Log Analytics to collect on-premises, hybrid cloud, platform as a service, and Power Platform logs.
+> **[2:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=137)** Use Application Insights and Log Analytics to collect on-premises, [[Hybrid Cloud]], [[PaaS|platform as a service]], and Power Platform logs.
 >
 > **[2:27](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=147)** Monitor the health of the entire solution.
 >
-> **[2:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=150)** Know about the scalability and resilience of the infrastructure, application, and dependent services.
+> **[2:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=150)** Know about the [[Scalability]] and resilience of the infrastructure, application, and dependent services.
 >
 > **[2:36](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/design-principles?u=76281980&t=156)** Gather and review key performance counters regularly.
 >
@@ -302,21 +296,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Sustainability]] (9), business (4), [[Microsoft]] (4), application (3)
+> **Frameworks & Libraries:** [[Sustainability]] (9), [[Microsoft]] (4), [[Microsoft Power Query|Power query]] (2), [[Business Operations]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** etl (2)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Sustainability Manager journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980)
+#### [Microsoft Sustainability Manager journey](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=0)** - [Instructor] Journey is the right word to describe implementing sustainability in a large organization.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=0)** - [Instructor] Journey is the right [[Microsoft Word|word]] to describe implementing [[Sustainability]] in a large organization.
 >
 > **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=6)** Often it may mean transforming longstanding existing business processes.
 >
-> **[0:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=11)** As organizations look to meet their sustainability goals by configuring and deploying Microsoft Sustainability Manager, it's important to comprehend the data-centric journey.
+> **[0:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=11)** As organizations look to meet their sustainability goals by configuring and deploying [[Microsoft]] Sustainability Manager, it's important to comprehend the data-centric journey.
 >
 > **[0:21](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=21)** During the journey of enabling carbon emission accounting and water and Waste Management, organization typically starts with the following task.
 >
@@ -328,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=48)** This crucial step sets up the organization to report, track, and collaborate with stakeholders.
 >
-> **[0:55](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=55)** Organizations can accomplish data transformation any port using built-in capabilities such as the Excel templates and power query guided experience.
+> **[0:55](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=55)** Organizations can accomplish [[Data Transformation]] any port using built-in capabilities such as the [[Microsoft Excel|Excel]] templates and [[Microsoft Power Query|power query]] guided experience.
 >
 > **[1:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=66)** In addition, organization can choose to bring data from other solutions using the catalog of available partner solution connectors.
 >
@@ -344,23 +337,22 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=114)** These requirements could include adding new fields, tables, creating or customizing calculation models, or adding flows.
 >
-> **[2:01](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=121)** Keep in mind that the implementation project will be more agile rather than waterfall in nature.
+> **[2:01](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=121)** Keep in mind that the implementation project will be more [[Agile Development|agile]] rather than waterfall in nature.
 >
 > **[2:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-sustainability-manager-journey?u=76281980&t=127)** You would be building the process in a cyclical and incremental design.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Sustainability]] (5), [[Microsoft]] (3), management (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (3), [[Microsoft Word|Word]] (1), [[Data Transformation]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** such as (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980)
+#### [Types of data](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=0)** - [Instructor] In Microsoft Sustainability Manager, you can categorize data into three broad groups: configuration, activity, and analytical data.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=0)** - [Instructor] In [[Microsoft]] [[Sustainability]] Manager, you can categorize data into three broad groups: configuration, activity, and analytical data.
 >
 > **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=9)** To achieve efficient results during the implementation, it's crucial to understand these groups of data and adhere to the data import sequence to ensure error-free imports, avoiding any issues related to dependencies.
 >
@@ -388,21 +380,20 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=89)** The analytical data is stored in a managed data lake and isn't accessible to end users.
 >
-> **[1:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=94)** Now that we have discussed the type of data, let's discuss different data management best practices.
+> **[1:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/types-of-data?u=76281980&t=94)** Now that we have discussed the type of data, let's discuss different [[Data Management]] best practices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Sustainability]] (2), management (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft]] (1), [[Data Management]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data management considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980)
+#### [Data management considerations](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=0)** - [Narrator] Some of the most important architecture and design decision during the Microsoft Sustainability Manager implementation journey are related to the data management aspects.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=0)** - [Narrator] Some of the most important architecture and design decision during the [[Microsoft]] [[Sustainability]] Manager implementation journey are related to the [[Data Management]] aspects.
 >
 > **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=9)** These questions will help you in planning your data strategy in your Microsoft Sustainability Manager implementation.
 >
@@ -410,11 +401,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=18)** Which data should be ingested first, and what is the sequence to import subsequent data types?
 >
-> **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=24)** What should be the considerations to handle data transformation and ingestion of different formats and different volumes of data?
+> **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=24)** What should be the considerations to handle [[Data Transformation]] and ingestion of different formats and different volumes of data?
 >
 > **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=30)** What should be the design for continuous refresh of data?
 >
-> **[0:33](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=33)** How to ensure the uniqueness of imported records and how to manage the velocity of the data for scenarios such as IoT.
+> **[0:33](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=33)** How to ensure the uniqueness of imported records and how to manage the velocity of the data for scenarios such as [[IoT]].
 >
 > **[0:41](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=41)** How to securely access remote data sources that are hosted in the cloud or on premises locations.
 >
@@ -422,7 +413,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=50)** What options do organizations have to export their calculated data to other systems for downstream processing?
 >
-> **[0:57](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=57)** Number three, data security.
+> **[0:57](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=57)** Number three, [[Data Security]].
 >
 > **[0:59](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/data-management-considerations?u=76281980&t=59)** What consideration should be in place to prevent data from unauthorized access and modification?
 >
@@ -438,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Sustainability]] (5), [[Microsoft]] (3), management (2), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (3), [[Data Management]] (1), [[Data Transformation]] (1), [[IoT]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
@@ -447,18 +438,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Acquiring licenses
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
+#### [Acquiring licenses](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=0)** - [Instructor] In order to deploy the solution, you need Microsoft System Manager license, Power BI, as well as Power Pages license.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=0)** - [Instructor] In order to deploy the solution, you need [[Microsoft]] System Manager license, [[Microsoft Power BI|Power BI]], as well as Power Pages license.
 >
 > **[0:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=7)** For learning purposes, there are trial licenses available for all of them.
 >
 > **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=12)** For your organization production licenses, you would need to work with your IT department procurement processes as each organization will have different license acquisition processes.
 >
-> **[0:23](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=23)** Here is my admin portal and you can see that I have Microsoft Sustainability Manager Premium License as well as Microsoft Fabric and Power Pages License available.
+> **[0:23](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=23)** Here is my admin portal and you can see that I have Microsoft [[Sustainability]] Manager Premium License as well as Microsoft Fabric and Power Pages License available.
 >
 > **[0:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/acquiring-licenses?u=76281980&t=34)** Power Pages is required for the ESG value chain solution while the Microsoft Fabric entitles me to Power BI licenses through which I can view different reports and dashboard.
 >
@@ -466,24 +456,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), power (5), bi (2), [[Sustainability]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Power BI|Power bi]] (2), [[Sustainability]] (2)
 > **Env Vars:** esg (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Cloud Solution Center
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980)
+#### [Microsoft Cloud Solution Center](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=0)** - Next, we are going to deploy the solution via the Microsoft Solution Center.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=0)** - Next, we are going to deploy the solution via the [[Microsoft]] Solution Center.
 >
 > **[0:05](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=5)** You can navigate to the Microsoft Solution Center by going to solutions.[microsoft.com](https://microsoft.com), and log in via your credentials.
 >
-> **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=12)** If you scroll down, you'll see various different solutions for different industries, including sustainability.
+> **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=12)** If you scroll down, you'll see various different solutions for different industries, including [[Sustainability]].
 >
 > **[0:20](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=20)** Please click on the sustainability option on the left hand side, and you'll see various different options available from Microsoft, as well as different partners.
 >
-> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=30)** You'll see different trainings options from Microsoft, as well as from LinkedIn, and what we need to do here is go all the way down and add the Microsoft Sustainability Manager premium option and click next to add.
+> **[0:30](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=30)** You'll see different trainings options from Microsoft, as well as from [[LinkedIn]], and what we need to do here is go all the way down and add the Microsoft Sustainability Manager premium option and click next to add.
 >
 > **[0:46](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/microsoft-cloud-solution-center?u=76281980&t=46)** We'll also add Cloud for Sustainability data model, including water and waste.
 >
@@ -531,7 +520,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (13), [[Sustainability]] (8), next (6), data (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (13), [[Sustainability]] (8), [[LinkedIn]] (1)
 > **UI Navigation:** click on (8), navigate to (1), scroll down (1)
 > **Env Vars:** epa (1), esg (1)
 > **Analogies:** such as (2)
@@ -543,18 +532,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Walkthrough of MSM
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
+#### [Walkthrough of MSM](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=0)** - [Instructor] Now that our deployment is complete, you can click on Microsoft Sustainability Manager in the Deployment manager of Microsoft Solution Center under your deployment name.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=0)** - [Instructor] Now that our deployment is complete, you can click on [[Microsoft]] [[Sustainability]] Manager in the Deployment manager of Microsoft Solution Center under your deployment name.
 >
 > **[0:10](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=10)** Let's do a quick walkthrough of the MSM.
 >
 > **[0:13](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=13)** We have five key tabs on the left-hand side.
 >
-> **[0:16](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=16)** We have the Analytics tab, which has all the dashboards and the reports.
+> **[0:16](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=16)** We have the Analytics tab, which has all the [[Dashboards]] and the reports.
 >
 > **[0:22](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/walkthrough-of-msm?u=76281980&t=22)** We have the Data tab through which you can import and export different data and create different data approval processes.
 >
@@ -592,7 +580,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft]] (3), [[Sustainability]] (3), [[Analytics]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Sustainability]] (3), [[Dashboards]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** msm (1)
 > **UI Navigation:** click on (1)
@@ -600,8 +588,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remove sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/remove-sample-data?u=76281980)
+#### [Remove sample data](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/remove-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,12 +606,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (1), [[Analytics]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980)
+#### [Define your organization](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +631,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980&t=42)** Define your organizational regions.
 >
-> **[0:44](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980&t=44)** Create the organizational regions that are in scope for tracking your company's sustainability journey.
+> **[0:44](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980&t=44)** Create the organizational regions that are in scope for tracking your company's [[Sustainability]] journey.
 >
 > **[0:50](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-your-organization?u=76281980&t=50)** Set up the organizational hierarchy.
 >
@@ -674,20 +659,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Sustainability]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Prerequisites:** set up (2), configure (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980)
+#### [Value chain](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=0)** - [Instructor] Now that you have set up your organization, you can start to think about how to get your scope 3 emissions data from the companies you work with.
 >
-> **[0:08](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=8)** The integrated ESG Value Chain Solution available in Sustainability Manager Premium allows you to gather data directly from your value chain partners and use that data to calculate your scope 3 emissions.
+> **[0:08](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=8)** The integrated ESG Value Chain Solution available in [[Sustainability]] Manager Premium allows you to gather data directly from your value chain partners and use that data to calculate your scope 3 emissions.
 >
 > **[0:20](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=20)** How do we do that?
 >
@@ -699,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=40)** This will allow you to import your ESG data directly from your value chain partners.
 >
-> **[0:47](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=47)** You can install the Power Pages value chain template through the Microsoft Solution Center.
+> **[0:47](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=47)** You can install the Power Pages value chain template through the [[Microsoft]] Solution Center.
 >
 > **[0:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/value-chain?u=76281980&t=52)** Then you need to add your partners.
 >
@@ -715,14 +699,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (3), [[Sustainability]] (2), application (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft]] (1)
 > **Prerequisites:** install (3), configure (3), set up (2)
 > **Env Vars:** esg (4)
 > **Exercise Files:** template (4)
 > **Speakers:** - [instructor] (1)
 
-#### Set up reference data
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980)
+#### [Set up reference data](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,11 +801,11 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=254)** You can add facilities if necessary.
 >
-> **[4:16](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=256)** You can add individual facilities by selecting new, or you can add multiple facilities by choosing import from Excel.
+> **[4:16](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=256)** You can add individual facilities by selecting new, or you can add multiple facilities by choosing import from [[Microsoft Excel|Excel]].
 >
 > **[4:23](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=263)** Similar to facilities, your company's org structure is also type of reference data.
 >
-> **[4:28](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=268)** This means that you can add the organizational units that are in scope for tracking your company's sustainability journey in company profile, or you can do it here in the reference data.
+> **[4:28](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=268)** This means that you can add the organizational units that are in scope for tracking your company's [[Sustainability]] journey in company profile, or you can do it here in the reference data.
 >
 > **[4:39](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=279)** In the same way, in the data menu group, select reference data, find organizational units, click on view and add the organizational units if necessary, or you can add multiple units by choosing import from Excel.
 >
@@ -888,7 +871,7 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=479)** Please review the different reference data options that are available inside the reference data section and add and configure them appropriate to your organization.
 >
-> **[8:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=489)** Lastly, if your organization is using the premium version of Microsoft Sustainability Manager, you can gather Scope three missions data directly from your value chain partners.
+> **[8:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=489)** Lastly, if your organization is using the premium version of [[Microsoft]] Sustainability Manager, you can gather Scope three missions data directly from your value chain partners.
 >
 > **[8:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-reference-data?u=76281980&t=497)** Each partner is created an account.
 >
@@ -902,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (60), [[Microsoft Excel|Excel]] (4), next (2), [[Sustainability]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Sustainability]] (2), [[Microsoft]] (1)
 > **UI Navigation:** click on (9), go to (5), scroll down (1), in the tab (1)
 > **CLI Commands:** find (11), make (1)
 > **Prerequisites:** set up (8), you'll need (1), configure (1)
@@ -910,8 +893,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980)
+#### [Set up calculations](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=18)** There's an emission factor for every emission source or category and an estimation factor for every water calculation.
 >
-> **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=24)** If the standard factors that come in sustainability manager don't work for your calculations, you can create a custom factor library.
+> **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=24)** If the standard factors that come in [[Sustainability]] manager don't work for your calculations, you can create a custom factor library.
 >
 > **[0:31](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=31)** This is often useful for industrial processes and renewable energy.
 >
@@ -971,7 +953,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=172)** A calculation model is the definition of a carbon emissions or water usage equation.
 >
-> **[2:56](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=176)** Several calculation models are included in Microsoft Sustainability Manager.
+> **[2:56](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=176)** Several calculation models are included in [[Microsoft]] Sustainability Manager.
 >
 > **[3:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-calculations?u=76281980&t=180)** In this step, you'll review those standard models and learn how to create your own.
 >
@@ -987,7 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Sustainability]] (2), [[Microsoft]] (1), node (1), next (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft]] (1)
 > **UI Navigation:** select the (4), open the (1)
 > **CLI Commands:** find (1), make (1), node (1)
 > **Analogies:** for example (1), such as (1)
@@ -996,14 +978,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Import data
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980)
+#### [Import data](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=0)** - [Instructor] Data collection is one of the most important steps in the process of defining your carbon and water footprint.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=0)** - [Instructor] [[Data Collection]] is one of the most important steps in the process of defining your carbon and water footprint.
 >
-> **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=6)** Microsoft Sustainability Manager provides a streamlined data collection process to import the required activity data, pre-calculate emissions data, water data, and reference data.
+> **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=6)** [[Microsoft]] [[Sustainability]] Manager provides a streamlined data collection process to import the required activity data, pre-calculate emissions data, water data, and reference data.
 >
 > **[0:15](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=15)** Importing your data is a critical step, and it's worth it to slow down and be thorough.
 >
@@ -1011,7 +992,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=27)** Before you begin, consider whether you are gathering historical data or defining an ongoing data import stream.
 >
-> **[0:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=34)** Either way, you'll be able to use connectors such as Excel files, business application databases, utility connectors, and more to get your data across all sources.
+> **[0:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=34)** Either way, you'll be able to use connectors such as [[Microsoft Excel|Excel]] files, business application [[Databases]], utility connectors, and more to get your data across all sources.
 >
 > **[0:44](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=44)** You'll use the step by step wizard to set up connections, but I want to call out a few specific parts of it here to help you get started.
 >
@@ -1021,11 +1002,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=61)** You can use Excel templates to help make sure your spreadsheets are formatted correctly, reducing import error.
 >
-> **[1:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=67)** You can also choose to use Power Query to transform and then map your data to the data model.
+> **[1:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=67)** You can also choose to use [[Microsoft Power Query|Power Query]] to transform and then map your data to the data model.
 >
 > **[1:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=72)** And finally, you can choose to connect directly to one of the data providers in the system.
 >
-> **[1:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=77)** You can decide what type of file or connector makes the most sense for your data you're importing, complete the rest of the steps, including username, password credential, field mapping, and scheduling data refresh for ongoing and streaming imports.
+> **[1:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=77)** You can decide what type of file or connector makes the most sense for your data you're importing, complete the [[Representational State Transfer (REST)|rest]] of the steps, including username, password credential, field mapping, and scheduling data refresh for ongoing and streaming imports.
 >
 > **[1:31](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/import-data?u=76281980&t=91)** Pull data from invoices.
 >
@@ -1045,7 +1026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), [[Sustainability]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft]] (1), [[Sustainability]] (1), [[Databases]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **Prerequisites:** before you begin (1), set up (1)
 > **CLI Commands:** make (1)
@@ -1053,8 +1034,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run a calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/run-a-calculation?u=76281980)
+#### [Run a calculation](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/run-a-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1082,14 +1062,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[Analytics]] (1)
 > **UI Navigation:** select the (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate analytics and set reports
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980)
+#### [Validate analytics and set reports](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1119,7 +1097,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980&t=96)** Now that you have analyzed your data, you can export it using predefined set of attributes.
 >
-> **[1:42](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980&t=102)** Try generating a report and downloading it in an Excel format so you can see the latest data.
+> **[1:42](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980&t=102)** Try generating a report and downloading it in an [[Microsoft Excel|Excel]] format so you can see the latest data.
 >
 > **[1:47](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/validate-analytics-and-set-reports?u=76281980&t=107)** In the Analytics menu group, select Reporting.
 >
@@ -1137,17 +1115,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Analytics]] (9), ai (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define sustainability goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-sustainability-goals?u=76281980)
+#### [Define sustainability goals](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-sustainability-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-sustainability-goals?u=76281980&t=0)** - [Instructor] Scorecards and goals can help you curate sustainability metrics and track them against your company's key objectives.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-sustainability-goals?u=76281980&t=0)** - [Instructor] Scorecards and goals can help you curate [[Sustainability]] metrics and track them against your company's key objectives.
 >
 > **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/define-sustainability-goals?u=76281980&t=6)** Once you create a scorecard with some goals, you can check in periodically to see how it's progressing and make any adjustments necessary.
 >
@@ -1179,18 +1156,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Sustainability]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (1)
 > **Prerequisites:** set up (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set up Teams collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980)
+#### [Set up Teams collaboration](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=0)** - [Instructor] Given there will probably be times when you want to share and discuss data, reports, analytics, or goals with other people in your organization, to help make those conversation contextual and collaborative, you can integrate Microsoft Teams Chat directly within Sustainability Manager.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=0)** - [Instructor] Given there will probably be times when you want to share and discuss data, reports, analytics, or goals with other people in your organization, to help make those conversation contextual and collaborative, you can integrate [[Microsoft Teams]] Chat directly within [[Sustainability]] Manager.
 >
 > **[0:15](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=15)** How to set up Teams Chat, in the settings menu group, select Teams Chat, turn on the features and options you need.
 >
@@ -1198,13 +1174,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=29)** Now that the Teams Chat feature has been enabled, you can use it to collaborate with your team in the context of your data.
 >
-> **[0:35](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=35)** This concludes our journey of setting up Microsoft Sustainability Manager end to end, if you want to review back the steps, you can always go back to the home screen and click on the configuration guide step by step to review these steps that we have just performed.
+> **[0:35](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=35)** This concludes our journey of setting up [[Microsoft]] Sustainability Manager end to end, if you want to review back the steps, you can always go back to the home screen and click on the configuration guide step by step to review these steps that we have just performed.
 >
 > **[0:53](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/set-up-teams-collaboration?u=76281980&t=53)** Next, we are going to discuss the ESG data models in Microsoft Dataverse to extend it in the context of your organization.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), teams (3), [[Sustainability]] (2), [[Microsoft]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (2), [[Microsoft]] (2), [[Microsoft Teams]] (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
@@ -1216,8 +1192,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing Dataverse
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
+#### [Introducing Dataverse](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,24 +1206,23 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980&t=24)** Each column in the table is designed to store a certain type of data, for example, name, age, salary, and so on.
 >
-> **[0:32](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980&t=32)** Dataverse includes a base set of standard tables that cover typical scenarios, but you can also create custom tables specific to your organization and populate them with data using Power Query.
+> **[0:32](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980&t=32)** Dataverse includes a base set of standard tables that cover typical scenarios, but you can also create custom tables specific to your organization and populate them with data using [[Microsoft Power Query|Power Query]].
 >
 > **[0:43](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introducing-dataverse?u=76281980&t=43)** App makers can then use power apps to build rich applications that use this data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1), [[Microsoft Power Query|Power query]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (1)
 > **Env Vars:** esg (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Introduction to the ESG data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-the-esg-data-model?u=76281980)
+#### [Introduction to the ESG data model](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-the-esg-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-the-esg-data-model?u=76281980&t=0)** - [Instructor] The Microsoft Cloud for Sustainability Data Model helps you to align your sustainability data to optimize the extraction, transformation and loading pipeline into Microsoft Dataverse.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-the-esg-data-model?u=76281980&t=0)** - [Instructor] The [[Microsoft]] Cloud for [[Sustainability]] Data Model helps you to align your sustainability data to optimize the extraction, transformation and loading pipeline into Microsoft Dataverse.
 >
 > **[0:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/introduction-to-the-esg-data-model?u=76281980&t=11)** The imported data is ready for consumption by Microsoft Sustainability Manager, which further processes the data and produces actionable output such as emission reduction opportunities and other analysis.
 >
@@ -1264,23 +1238,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Sustainability]] (6), [[Microsoft]] (4), cloud (2)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (4)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending the ESG data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980)
+#### [Extending the ESG data model](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=0)** - [Instructor] Microsoft Sustainability Manager is built on top of Dataverse as a model-driven Power App.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Sustainability]] Manager is built on top of Dataverse as a model-driven Power App.
 >
 > **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=6)** Users can use the native Dataverse capabilities to extend the data model and use it in carbon calculations and custom reporting.
 >
 > **[0:14](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=14)** You can add an attribute to any Microsoft Sustainability Manager table in Dataverse, refer to it in calculation using Power Fx.
 >
-> **[0:22](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=22)** Power FX is a free and open source low-code general purpose programming language for expressing logic across the Microsoft Power platform and added to grid views and edit forms.
+> **[0:22](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=22)** Power FX is a free and open source low-code general purpose programming language for expressing logic across the Microsoft Power platform and added to grid views and edit [[Forms]].
 >
 > **[0:33](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=33)** Examples of when you might want to extend the cloud for sustainability data model include the following scenarios.
 >
@@ -1294,7 +1267,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=66)** Click on tables and you would be able to see the tables contained within the data model.
 >
-> **[1:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=72)** You can create new tables from scratch or you can import them from Excel or SharePoint lists.
+> **[1:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=72)** You can create new tables from scratch or you can import them from [[Microsoft Excel|Excel]] or [[SharePoint]] lists.
 >
 > **[1:22](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/extending-the-esg-data-model?u=76281980&t=82)** You can then link them in your environment.
 >
@@ -1306,7 +1279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), data (6), [[Sustainability]] (5), power (5), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Sustainability]] (5), [[Forms]] (1), [[Microsoft Excel|Excel]] (1), [[SharePoint]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** esg (1)
@@ -1320,8 +1293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the ESG value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
+#### [Understanding the ESG value chain](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1329,7 +1301,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980&t=8)** The ESG value chain solution consists of two main components that you can use together to gather your value chain data.
 >
-> **[0:15](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980&t=15)** A value chain data hub within Microsoft's facility manager, where you can initiate invitations and surveys for your suppliers and view the data that you receive from them.
+> **[0:15](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980&t=15)** A value chain data hub within [[Microsoft]]'s facility manager, where you can initiate invitations and surveys for your suppliers and view the data that you receive from them.
 >
 > **[0:24](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/understanding-the-esg-value-chain?u=76281980&t=24)** A Power Pages portal template that you can use to request data directly from your suppliers.
 >
@@ -1341,14 +1313,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Env Vars:** esg (2)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setting up value chain surveys
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980)
+#### [Setting up value chain surveys](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,25 +1327,25 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=7)** You can use existing templates or you can create your own.
 >
-> **[0:13](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=13)** You can also use Copilot to generate the site.
+> **[0:13](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=13)** You can also use [[Microsoft Copilot|Copilot]] to generate the site.
 >
 > **[0:17](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=17)** I have created my site, Supply Chain Hub, which I'm going to use in my surveys.
 >
 > **[0:23](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=23)** Once the site is created, you can create a survey and send it to the contacts you have.
 >
-> **[0:28](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=28)** You can view the surveys in the Value Chain tab inside Microsoft Sustainability Manager in the Survey setup option.
+> **[0:28](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=28)** You can view the surveys in the Value Chain tab inside [[Microsoft]] [[Sustainability]] Manager in the Survey setup option.
 >
 > **[0:36](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=36)** I've created a "Value Chain Survey" where I'm using the Supply Chain Hub website that I created in Power Platform, and I'm sending it to Margie's Travel, and I'm sending them a template email.
 >
 > **[0:49](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=49)** And then you can send out this email, and your partner can upload the data into your Power Pages website.
 >
-> **[0:57](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=57)** Once it is loaded, it can be integrated as part of your Microsoft Sustainability Manager data storage.
+> **[0:57](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=57)** Once it is loaded, it can be integrated as part of your Microsoft Sustainability Manager [[Data Storage]].
 >
-> **[1:03](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=63)** Next, we will talk about how can we measure carbon emissions of technology through Emissions Impact Dashboards.
+> **[1:03](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/setting-up-value-chain-surveys?u=76281980&t=63)** Next, we will talk about how can we measure carbon emissions of technology through Emissions Impact [[Dashboards]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), [[Microsoft]] (2), [[Sustainability]] (2), data (2), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Sustainability]] (2), [[Microsoft Copilot|Copilot]] (1), [[Data Storage]] (1), [[Dashboards]] (1)
 > **Exercise Files:** template (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
@@ -1384,8 +1355,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring the carbon footprint of your IT infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
+#### [Measuring the carbon footprint of your IT infrastructure](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,19 +1365,18 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980&t=13)** For a number of organizations who still have a lot of brick and mortar as part of their business, the IT carbon emission may not be the largest item in carbon reporting, but it is something to keep an eye on.
 >
-> **[0:26](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980&t=26)** There are a couple of dashboards you can leverage inside Power BI to measure your carbon emissions.
+> **[0:26](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/measuring-the-carbon-footprint-of-your-it-infrastructure?u=76281980&t=26)** There are a couple of [[Dashboards]] you can leverage inside [[Microsoft Power BI|Power BI]] to measure your carbon emissions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Dashboards]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using Impact Emissions Dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/using-impact-emissions-dashboards?u=76281980)
+#### [Using Impact Emissions Dashboards](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/using-impact-emissions-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/using-impact-emissions-dashboards?u=76281980&t=0)** - [Narrator] You can install Emissions Impact Dashboard for Azure, as well as Microsoft 365 as a Power BI app, and use them to monitor your carbon emissions from your Azure infrastructure, as well as Microsoft 365 account.
+> **[0:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/using-impact-emissions-dashboards?u=76281980&t=0)** - [Narrator] You can install Emissions Impact Dashboard for [[Microsoft Azure|Azure]], as well as [[Microsoft 365]] as a [[Microsoft Power BI|Power BI]] app, and use them to monitor your carbon emissions from your Azure infrastructure, as well as Microsoft 365 account.
 >
 > **[0:15](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/using-impact-emissions-dashboards?u=76281980&t=15)** Once installed, those apps are available inside your Power BI environment, and then you can see the carbon emission that is generated by the Azure environment inside your organization.
 >
@@ -1417,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft 365]] (3), power (2), bi (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft 365]] (3), [[Microsoft Power BI|Power bi]] (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
@@ -1426,8 +1395,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preview features not covered in the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
+#### [Preview features not covered in the course](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,13 +1405,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=9)** Environmental Credit Service is a multi-sided marketplace which allows you to gain transparency into the provenance and quality of carbon credits and other environmental assets.
 >
-> **[0:20](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=20)** The new CSRD, Corporate Sustainability Reporting Directive template in Microsoft Purview Compliance Manager will help you get CSRD ready by documenting and reporting evidence aligned to preliminary European Sustainability Reporting Standards, ESRS.
+> **[0:20](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=20)** The new CSRD, [[Corporate Sustainability]] Reporting Directive template in [[Microsoft]] Purview Compliance Manager will help you get CSRD ready by documenting and reporting evidence aligned to preliminary European [[Sustainability]] Reporting Standards, ESRS.
 >
-> **[0:38](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=38)** Cloud for sustainability Energy Data Model enables you to unify, standardize, and streamline energy data collection and storage, encompassing generated energy, renewable energy, and purchase energy from different sources, along with associated consumption patterns across multiple sites and geographic components within a unified data model.
+> **[0:38](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=38)** Cloud for sustainability Energy Data Model enables you to unify, standardize, and streamline energy [[Data Collection]] and storage, encompassing generated energy, renewable energy, and purchase energy from different sources, along with associated consumption patterns across multiple sites and geographic components within a unified data model.
 >
 > **[1:00](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=60)** Microsoft Cloud for Sustainability API makes it easy to access and use your Microsoft emissions data.
 >
-> **[1:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=67)** Use the APIs to gain transparency into the carbon impact of your usage of Azure and Microsoft 365 services.
+> **[1:07](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=67)** Use the APIs to gain transparency into the carbon impact of your usage of [[Microsoft Azure|Azure]] and [[Microsoft 365]] services.
 >
 > **[1:16](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=76)** Analyze data by scope type, region, time horizon, and more.
 >
@@ -1451,13 +1419,13 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=85)** Sustainability Data Solutions in Microsoft Fabric improves the efficiency and value of your environmental, social, and governance data.
 >
-> **[1:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=94)** This powerful set of capabilities allows you to ingest ESG data in any format and standardize it into sustainability data models for innovative AI insights, analytics, and reporting, compute ESG metrics using pre-built data pipelines that leverage the standard ESG data.
+> **[1:34](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=94)** This powerful set of capabilities allows you to ingest ESG data in any format and standardize it into sustainability data models for innovative AI insights, analytics, and reporting, compute ESG metrics using pre-built [[Data Pipelines]] that leverage the standard ESG data.
 >
 > **[1:52](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/preview-features-not-covered-in-the-course?u=76281980&t=112)** Project ESG Reporting is a collaborative end-to-end ESG reporting solution that reduces the complexities of preparing and managing disclosure reports of multiple standards and frameworks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Sustainability]] (5), [[Microsoft]] (4), cloud (2), feature (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Microsoft]] (4), [[Corporate Sustainability]] (1), [[Data Collection]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** esg (5), csrd (2), esrs (1), api (1)
 > **Definitions:** is a  (3)
 > **Exercise Files:** template (1)
@@ -1468,8 +1436,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,7 +1444,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=6)** Let's look at what we learned today.
 >
-> **[0:08](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=8)** We looked at the five ways Microsoft Sustainability Solutions can help you.
+> **[0:08](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=8)** We looked at the five ways [[Microsoft]] [[Sustainability]] Solutions can help you.
 >
 > **[0:12](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=12)** Don't forget, record, report, reduce, replace, and remove.
 >
@@ -1493,11 +1460,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=45)** You can start with scope one and scope two emissions, and then move to scope three, or you can start with a single data source and build an end-to-end data pipeline for that source.
 >
-> **[0:56](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=56)** Remember, sustainability requires an agile and incremental approach rather than a waterfall project management approach.
+> **[0:56](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=56)** Remember, sustainability requires an [[Agile Development|agile]] and incremental approach rather than a waterfall project management approach.
 >
 > **[1:04](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=64)** I hope this course provided you a framework on how to approach your sustainability project at your organization.
 >
-> **[1:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=71)** Feel free to follow me on LinkedIn and or subscribe to my LinkedIn newsletter, "FAQ on Data", where I post weekly on different topics related to data and AI.
+> **[1:11](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=71)** Feel free to follow me on [[LinkedIn]] and or subscribe to my LinkedIn newsletter, "FAQ on Data", where I post weekly on different topics related to data and AI.
 >
 > **[1:21](https://www.linkedin.com/learning/performing-a-sustainability-audit-with-microsoft-sustainability-manager/where-to-go-from-here?u=76281980&t=81)** I hope this course provided you a framework on how to approach your sustainability project at your organization.
 >
@@ -1505,7 +1472,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), data (5), [[Microsoft]] (2), [[LinkedIn]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft]] (2), [[LinkedIn]] (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** faq (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** don't forget (1)

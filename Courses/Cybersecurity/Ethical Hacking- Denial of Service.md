@@ -90,14 +90,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding and defeating denial-of-service attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
+#### [Understanding and defeating denial-of-service attacks](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=1)** - [Instructor] In the digital world, cyber attack has unfortunately become an everyday occurrence.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=6)** One of the common forms of attack is Denial of Service, which may be a state sponsored attack against critical infrastructure, criminal extortion against a business or just vandalism by hacktivists or amateur hackers.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=6)** One of the common [[Forms]] of attack is Denial of Service, which may be a state sponsored attack against critical infrastructure, criminal extortion against a business or just vandalism by hacktivists or amateur hackers.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=20)** As we go through the course, I'll explain what to Denial of Service is, demonstrate some of the more popular attack tools and then look at how ransomware works.
 >
@@ -105,17 +104,16 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=36)** I'm Malcolm Shore and I've spent a career helping governments and businesses protect their systems against cyber attacks.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=43)** I'd like to invite you to take this LinkedIn learning course and learn how to avoid becoming a victim of Denial of Service attacks.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=43)** I'd like to invite you to take this [[LinkedIn]] learning course and learn how to avoid becoming a victim of Denial of Service attacks.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-and-defeating-denial-of-service-attacks?u=76281980&t=51)** Now let's get started with Denial of Service.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), business (1), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -123,27 +121,26 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=2)** It introduces a number of tools which are used to test systems.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=6)** During this course, I'll be using a virtualized computing environment called VirtualBox and I'll be using the Kali Linux testing framework.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=6)** During this course, I'll be using a virtualized computing environment called VirtualBox and I'll be using the [[Kali Linux]] testing framework.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=15)** If you're not familiar with virtualization or you haven't used Kali before, you should watch my introduction to Kali Linux course which will show you how to install and use VirtualBox and Kali.
 >
-> **[0:27](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=27)** In addition, I'll be assuming some basic computer and networking concepts, familiarity with Windows, and a knowledge of basic Linux commands.
+> **[0:27](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/what-you-should-know?u=76281980&t=27)** In addition, I'll be assuming some basic computer and networking concepts, familiarity with [[Windows]], and a knowledge of basic [[Linux]] commands.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Virtualization]] (1), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (2), [[Windows]] (1), [[Linux]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980&t=0)** - [Instructor] This course uses a range of third party testing tools.
 >
-> **[0:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980&t=4)** Some are commercial products, and some are open source.
+> **[0:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980&t=4)** Some are commercial [[Microsoft Products|products]], and some are open source.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/disclaimer?u=76281980&t=9)** The download and installation instructions for all tools used in this course is available as a PDF in the associated course material.
 >
@@ -168,8 +165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
+#### [Understanding denial of service](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +197,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=94)** An attack might be from one source, in which case it's called simply a denial of service.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=99)** Typically it starts with a phishing attack on an employee to gain access to the enterprise.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=99)** Typically it starts with a [[Phishing]] attack on an employee to gain access to the enterprise.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=105)** This kind of an attack requires the use of an attack workstation, and a tool but no additional infrastructure.
 >
@@ -223,7 +219,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=171)** Typically the reflected volume of data is much larger than the request data, and so the reflection also amplifies the effect of the attack.
 >
-> **[3:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=180)** Because of this, these attacks are sometimes called amplification attacks, the domain name service and the network time service have both been used to run these forms of attack.
+> **[3:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=180)** Because of this, these attacks are sometimes called amplification attacks, the domain name service and the network time service have both been used to run these [[Forms]] of attack.
 >
 > **[3:12](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=192)** An interesting variation on each of these classes of attack known as intermittent or pulsing flooding can be used to navigate through anti DoS defenses.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=313)** ARP flooding, the ARP protocol is used in local area networks to identify the association between MAC addresses and IP addresses.
 >
-> **[5:22](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=322)** So that ethernet routing can be done using MAC addresses.
+> **[5:22](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=322)** So that ethernet [[Routing]] can be done using MAC addresses.
 >
 > **[5:25](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=325)** By corrupting the ARP caches, in individual network hosts these hosts can be isolated from the network, thus denying resources.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[6:53](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=413)** Which exploit vulnerabilities in the operating and application code on the target host.
 >
-> **[6:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=418)** This class of attack can exploit certain algorithms, memory structures, implementation specifics and so on.
+> **[6:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=418)** This class of attack can exploit certain [[Algorithms]], memory structures, implementation specifics and so on.
 >
 > **[7:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-denial-of-service?u=76281980&t=424)** Each of these attacks is typically system and version specific, one of the key application level attacks is a HTTP flooding to create a denial of service.
 >
@@ -301,7 +297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (4), application (4), [[Routing]] (3), dns (3)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Phishing]] (2), [[Forms]] (1), [[Algorithms]] (1)
 > **Env Vars:** icmp (5), udp (3), arp (3), dns (3), http (3)
 > **Definitions:** is a  (4), known as (4)
 > **Analogies:** such as (1), similar to (1)
@@ -309,12 +305,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Python to test denial of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980)
+#### [Using Python to test denial of service](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=1)** - [Instructor] Torshammer is a denial of service testing tool written in Python.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=1)** - [Instructor] Torshammer is a denial of service testing tool written in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=5)** It's a little old now and it doesn't scale to quite the level of contemporary distributed denial of service attacks.
 >
@@ -322,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=15)** Now that this tool may cause a virus alert when you extract the files.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=19)** Microsoft Defender will report it as a Python Dakkatoni tool with potentially unwanted behavior.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=19)** [[Microsoft Defender]] will report it as a Python Dakkatoni tool with potentially unwanted behavior.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-python-to-test-denial-of-service?u=76281980&t=26)** I've extracted the main Torshammer Python file so let's take a look at it.
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Defender]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Defender]] (1)
 > **Env Vars:** http (7)
 > **CLI Commands:** python (3), apache (1), make (1)
 > **Ports:** port 80 (1), port 90 (1)
@@ -390,14 +385,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TCP SYN flooding using hping3
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
+#### [TCP SYN flooding using hping3](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=0)** - [Instructor] The most common technique used in denial of service attacks is the TCP SYN flood.
 >
-> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=6)** We can test resilience to flooding by using the hping3 tool which comes in Kali Linux.
+> **[0:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=6)** We can test resilience to flooding by using the hping3 tool which comes in [[Kali Linux]].
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=11)** This is very simple to use.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=104)** Okay, let's get into hping3.
 >
-> **[1:46](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=106)** I'll do a straightforward ICMP ping to my Windows 10 system on 192.168.1.8 using hping3.
+> **[1:46](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=106)** I'll do a straightforward ICMP ping to my [[Windows 10]] system on 192.168.1.8 using hping3.
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=114)** I'll use the -1 option for an ICMP packet.
 >
@@ -455,7 +449,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=176)** Here we go.
 >
-> **[3:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=182)** Back in Windows, we can see the CPU utilization spiked up and is now continuously running round about 45%.
+> **[3:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=182)** Back in [[Windows]], we can see the CPU utilization spiked up and is now continuously running round about 45%.
 >
 > **[3:11](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=191)** This is a significant workload.
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=247)** Hping3 is a useful tool to test the target system's resilience to the TCP SYN attack.
 >
-> **[4:13](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=253)** A variation of the TCP SYN attack is the local area network denial attack, which uses the TCP SYN attack on an open port, with the source and destination IP addresses and ports the same.
+> **[4:13](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=253)** A variation of the TCP SYN attack is the [[Local Area Network (LAN)|local area network]] denial attack, which uses the TCP SYN attack on an open port, with the source and destination IP addresses and ports the same.
 >
 > **[4:25](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/tcp-syn-flooding-using-hping3?u=76281980&t=265)** When it was first discovered, this caused a vulnerable target to lock up continuously trying to make connections to itself.
 >
@@ -489,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), data (3), [[Kali Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (3), [[Kali Linux]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** syn (14), tcp (13), ack (4), icmp (3), cpu (3)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -498,8 +492,7 @@ created: 2026-05-02
 > **Versions:** 192.168.1 (1)
 > **Tools:** terminal (1)
 
-#### Using Hyena to run a reflection attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980)
+#### [Using Hyena to run a reflection attack](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=138)** I've already downloaded and installed it, so let's go run it.
 >
-> **[2:25](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=145)** For this demonstration, I'll use Windows 10 to source the attack, use my Ubuntu system as the reflector, and I'll target my Kali system.
+> **[2:25](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=145)** For this demonstration, I'll use [[Windows 10]] to source the attack, use my [[Ubuntu]] system as the reflector, and I'll target my Kali system.
 >
 > **[2:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=156)** Hyenae comes as a command line tool or we can run it through the graphical interface.
 >
@@ -587,7 +580,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=290)** I'll leave the TTL and the packet payload as default.
 >
-> **[4:54](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=294)** Wireshark is up and running on Kali, so we'll be able to check what packets arrive there.
+> **[4:54](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=294)** [[Wireshark]] is up and running on Kali, so we'll be able to check what packets arrive there.
 >
 > **[4:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-hyena-to-run-a-reflection-attack?u=76281980&t=298)** So let's end this attack on its way.
 >
@@ -619,7 +612,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Wireshark]] (2), data (1), [[Windows 10]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (4), [[Wireshark]] (2), [[Windows 10]] (1)
 > **Env Vars:** mac (10), icmp (5), arp (2), ipv4 (1), ttl (1)
 > **Versions:** 10.0.2 (3)
 > **UI Navigation:** select the (3)
@@ -628,8 +621,7 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **CLI Commands:** go run (1)
 
-#### UDP flooding with LOIC
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980)
+#### [UDP flooding with LOIC](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -667,11 +659,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=92)** This is usually a false alarm, triggered by the tool itself.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=96)** I've got this loaded already on my Windows 7 system, so let's start it.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=96)** I've got this loaded already on my [[Windows]] 7 system, so let's start it.
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=102)** LOIC has a very simple interface.
 >
-> **[1:44](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=104)** To use it, we'll enter the IP address of my external Windows 10 system.
+> **[1:44](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=104)** To use it, we'll enter the IP address of my external [[Windows 10]] system.
 >
 > **[1:52](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/udp-flooding-with-loic?u=76281980&t=112)** And press the associated Lock On button.
 >
@@ -711,14 +703,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Windows 10]] (3), application (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Windows]] (1)
 > **Env Vars:** loic (9), udp (4), vnc (3), tcp (2), http (1)
 > **Exercise Files:** zip file (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### ARP poisoning with Ettercap
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980)
+#### [ARP poisoning with Ettercap](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,7 +765,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=185)** Okay, the attack's started.
 >
-> **[3:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=186)** Let's go back to Windows.
+> **[3:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=186)** Let's go back to [[Windows]].
 >
 > **[3:09](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=189)** Okay. Let's now try refreshing the page.
 >
@@ -786,7 +777,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=217)** Now let's poison the Target's ARP cache.
 >
-> **[3:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=219)** I've got a browser open on Ubuntu and can access Metasploitable.
+> **[3:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=219)** I've got a browser open on [[Ubuntu]] and can access Metasploitable.
 >
 > **[3:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/arp-poisoning-with-ettercap-2?u=76281980&t=227)** I'll use the Ettercap graphical interface for this.
 >
@@ -818,7 +809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ubuntu]] (3), traffic (2), feature (1), web (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (3), [[Windows]] (1)
 > **Env Vars:** dos (3), arp (3), udp (2), syn (1), mac (1)
 > **Versions:** 10.0.2 (5)
 > **Cross-References:** go back to (2)
@@ -827,8 +818,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
 
-#### Using NTP to amplify attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980)
+#### [Using NTP to amplify attacks](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=30)** Let's have a look at the basics of an NTP attack.
 >
-> **[0:33](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=33)** I'll start by looking at the Ubuntu server, which I have on the virtual network running the NTP service.
+> **[0:33](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=33)** I'll start by looking at the [[Ubuntu]] server, which I have on the virtual network running the NTP service.
 >
 > **[0:40](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=40)** I can check what services are running in Ubuntu by entering the command service --status-all more.
 >
@@ -872,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=119)** Okay, we're able to see the server.
 >
-> **[2:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=120)** We can use Nmap to check the services there.
+> **[2:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=120)** We can use [[Nmap]] to check the services there.
 >
 > **[2:08](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=128)** We can see the UDP port, 123 is open running NTP.
 >
@@ -884,7 +874,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=151)** The request used in the amplification attack is called the monlist, which sends back the list of servers that the NTP services used and this can be substantially bigger.
 >
-> **[2:41](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=161)** I'll set up Wireshark from the sniffing menu, and put in a filter for capturing everything to and from the NTP server.
+> **[2:41](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=161)** I'll set up [[Wireshark]] from the sniffing menu, and put in a filter for capturing everything to and from the NTP server.
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=177)** I'll now send the NTP monlist command.
 >
@@ -900,7 +890,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=214)** The last thing to do is spoof the source address.
 >
-> **[3:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=216)** Vpnguy has a github depository which demonstrates this using python, and I've created a short version of this to demonstrate.
+> **[3:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=216)** Vpnguy has a [[GitHub]] depository which demonstrates this using [[Python (Programming Language)|python]], and I've created a short version of this to demonstrate.
 >
 > **[3:45](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=225)** Let's look at the code.
 >
@@ -938,7 +928,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=315)** Okay, now I'll run the python script.
 >
-> **[5:22](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=322)** I've set Wireshark up on the windows 10 server and filtered it only to display the packets that are coming to the UDP port 48947.
+> **[5:22](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=322)** I've set Wireshark up on the [[Windows 10]] server and filtered it only to display the packets that are coming to the UDP port 48947.
 >
 > **[5:30](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/using-ntp-to-amplify-attacks?u=76281980&t=330)** Let's start it.
 >
@@ -950,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Ubuntu]] (2), [[Wireshark]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Ubuntu]] (2), [[Nmap]] (2), [[Wireshark]] (2), [[Python (Programming Language)|Python]] (2), [[GitHub]] (1)
 > **Env Vars:** ntp (25), udp (3), mac (1)
 > **Definitions:** is a  (3), is called (1)
 > **CLI Commands:** python (2), make (1)
@@ -959,8 +949,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **URLs:** [ntp.com](https://ntp.com) (1)
 
-#### NEW: Amplification using memcached
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980)
+#### [NEW: Amplification using memcached](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -970,11 +959,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=21)** And then retrieve those objects quickly.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=24)** Its used to speed up dynamic web applications and its management features can be accessed using TCP or UDP on port 11211 Let's have a look at an example of a Memcached exchange using Netcat I'll use Netcat to make a simple connection to port 11211 on a Memcached server and I'll issue the stats command We get a response from the server of about 2000 characters Which provides a respectable amplification factor of about 400 Of course using a TCP connection is quite safe and can't be used to support a denial of service attack But if the command were to be sent via UDP With no session set up and with a spoofed source address
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=24)** Its used to speed up dynamic web applications and its management features can be accessed using TCP or UDP on port 11211 Let's have a look at an example of a Memcached exchange using [[Netcat]] I'll use Netcat to make a simple connection to port 11211 on a Memcached server and I'll issue the stats command We get a response from the server of about 2000 characters Which provides a respectable amplification factor of about 400 Of course using a TCP connection is quite safe and can't be used to support a denial of service attack But if the command were to be sent via UDP With no session set up and with a spoofed source address
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=75)** then this can be used to create a denial of service We can check whether a UDP Memcached service exists by sending a constructed UDP package with Netcat I'll use the echo command and pipe it to Netcat using the stats command once again This query returns only 840 bites So the amplification factor is lower.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=102)** But an attacker could use Memcached to store a larger data element and then recover it as part of the denial of service A memcached amplification attack is exactly what happened to GitHub on February the 28th 2018 When it was hit with a massive distributor denial of service attack.
+> **[1:42](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=102)** But an attacker could use Memcached to store a larger data element and then recover it as part of the denial of service A memcached amplification attack is exactly what happened to [[GitHub]] on February the 28th 2018 When it was hit with a massive distributor denial of service attack.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-amplification-using-memcached?u=76281980&t=124)** The attack achieved 1.35 terabits per second.
 >
@@ -984,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), data (2), web (1), management (1), hit (1)
+> **Frameworks & Libraries:** [[Netcat]] (4), [[GitHub]] (3)
 > **Env Vars:** udp (5), tcp (2), ddos (2), ntp (1)
 > **Tools:** github (3)
 > **CLI Commands:** make (2)
@@ -993,8 +982,7 @@ created: 2026-05-02
 > **Versions:** 1.35 (1)
 > **Analogies:** such as (1)
 
-#### NEW: When is a DDoS not a DDoS?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980)
+#### [NEW: When is a DDoS not a DDoS?](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=7)** However, when a service goes down due to being flooded by incoming traffic, it isn't necessarily a cyber attack.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=16)** In 2015, the FCC passed what became known as the net neutrality legislation, which forced internet service providers to enable access to all content and applications, regardless of the source, and without favoring or blocking particular products or websites.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=16)** In 2015, the FCC passed what became known as the net neutrality legislation, which forced internet service providers to enable access to all content and applications, regardless of the source, and without favoring or blocking particular [[Microsoft Products|products]] or websites.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=34)** In 2018, the FCC decided to repeal the legislation, and to challenge individual states that passed their own net neutrality regulations.
 >
@@ -1016,7 +1004,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=81)** I claim to have evidence that it was a deliberate attack.
 >
-> **[1:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=86)** However, the FCC's office of the inspector general carried out an investigation, and determined that the claims were misleading.
+> **[1:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=86)** However, the FCC's [[Microsoft Office|office]] of the inspector general carried out an investigation, and determined that the claims were misleading.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/new-when-is-a-ddos-not-a-ddos?u=76281980&t=95)** The investigation concluded that at best, the published reports by the FCC were the results of a rash judgment and a failure to conduct adequate analysis to identify the true cause of the disruption to system availability.
 >
@@ -1032,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Products|Products]] (1), next (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** fcc (12)
 > **Definitions:** known as (1)
 > **Speakers:** - [narrator] (1)
@@ -1042,8 +1030,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deauthenticating a wireless host
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
+#### [Deauthenticating a wireless host](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1063,13 +1050,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=43)** This display shows me the networks at the top and the clients at the bottom.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=47)** In the top part the BSSID is the hardware address of the access point.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=47)** In the top part the BSSID is the [[Hardware]] address of the access point.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=51)** And the service set identification or ESSID is an alphanumeric key up to 32 characters long which identifies the wireless local area network.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=51)** And the service set identification or ESSID is an alphanumeric key up to 32 characters long which identifies the wireless [[Local Area Network (LAN)|local area network]].
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=61)** In the bottom part the station is the MAC address of the client.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=66)** I've got a remote connection open to my Windows 10 system and I'm running the performance monitor to generate some traffic across the air.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=66)** I've got a remote connection open to my [[Windows 10]] system and I'm running the performance monitor to generate some traffic across the air.
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/deauthenticating-a-wireless-host?u=76281980&t=74)** I'll open a command shell and look at the detailed network interface information.
 >
@@ -1101,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), traffic (2), business (1), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** bssid (2), essid (1), mac (1), tpg (1)
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
@@ -1113,8 +1100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flooding HTTP using GoldenEye
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
+#### [Flooding HTTP using GoldenEye](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=20)** Golden Eye doesn't come with Carly, but we can download it easily enough.
 >
-> **[0:24](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=24)** I'm in Carly and I'm at the Golden Eye Github page.
+> **[0:24](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=24)** I'm in Carly and I'm at the Golden Eye [[GitHub]] page.
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=28)** And on the right, we can see the button to download it.
 >
@@ -1174,11 +1160,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=86)** Okay, we're now set.
 >
-> **[1:29](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=89)** I've setup Windows 10, with the performance money to shown in one window.
+> **[1:29](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=89)** I've setup [[Windows 10]], with the performance money to shown in one window.
 >
 > **[1:33](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=93)** And I've opened a command window, so that we can use the next up command, when we're ready to go.
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=99)** I'll go into Windows 7 and connect to the Windows web 10 server.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=99)** I'll go into [[Windows]] 7 and connect to the Windows web 10 server.
 >
 > **[1:45](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-http-using-goldeneye?u=76281980&t=105)** Okay, the service is running just fine.
 >
@@ -1214,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), web (2), concurrent (2), [[GitHub]] (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[GitHub]] (1), [[Windows 10]] (1)
 > **Env Vars:** output (1), tcp (1), drop (1), cpu (1)
 > **File Paths:** goldeneye.py (2)
 > **Versions:** 192.168.1 (2)
@@ -1223,12 +1209,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **URLs:** [http://192.168.1.8](http://192.168.1.8) (1)
 
-#### Testing webapps using OWASP SwitchBlade
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980)
+#### [Testing webapps using OWASP SwitchBlade](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=1)** - [Instructor] OWASP, the open web application security project is an initiative which identifies ranks and provides material to support testing of web vulnerabilities.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=1)** - [Instructor] [[OWASP]], the open [[Web Application Security]] project is an initiative which identifies ranks and provides material to support testing of web vulnerabilities.
 >
 > **[0:12](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=12)** It's free to become part of the OWASP community and its material is free to use.
 >
@@ -1242,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=43)** The tool was originally written as an education tool for the OWASP community and has been made available into the creative commons license.
 >
-> **[0:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=51)** It runs as a windows application and can be downloaded as a ready to run zip file.
+> **[0:51](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=51)** It runs as a [[Windows]] application and can be downloaded as a ready to run zip file.
 >
 > **[0:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/testing-webapps-using-owasp-switchblade?u=76281980&t=58)** I've already downloaded and extracted switchblade into the switchblade subdirectory.
 >
@@ -1300,7 +1285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (6), web (3), application (2), web application (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (6), [[Web Application Security]] (1), [[Windows]] (1)
 > **Env Vars:** owasp (6), post (3), ssl (3), http (2), owtf (1)
 > **API Endpoints:** post  (3)
 > **Analogies:** such as (2), similar to (1)
@@ -1309,8 +1294,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Definitions:** is an  (1)
 
-#### Understanding BlackEnergy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980)
+#### [Understanding BlackEnergy](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1328,7 +1312,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=43)** BlackEnergy is a sophisticated botnet, which consists of a command-and-control server and an implant.
 >
-> **[0:49](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=49)** It has a number of interesting features: It actively hides from anti-malware products using encryption; it operates by injecting code into system processes; and it can target more than one IP address on a host name, which makes it especially useful for multi-homed servers.
+> **[0:49](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=49)** It has a number of interesting features: It actively hides from anti-malware [[Microsoft Products|products]] using encryption; it operates by injecting code into system processes; and it can target more than one IP address on a host name, which makes it especially useful for multi-homed servers.
 >
 > **[1:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=65)** Once the implant is launched on the target computer, it allocates virtual memory, copies it decryptor code to the memory and then passes control to it.
 >
@@ -1364,7 +1348,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=238)** It's not readily available from the internet but comes from Russian-language hacker forums and costs around $40.
 >
-> **[4:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=245)** The command-and-control server is built using PHP and MySQL, typically running on Linux, and has a simple PHP GUI interface.
+> **[4:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=245)** The command-and-control server is built using [[PHP]] and [[MySQL]], typically running on [[Linux]], and has a simple PHP GUI interface.
 >
 > **[4:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=255)** It maintains a table called opt, which contains the parameters of the DDoS attack, and the table called stat to track the size of the botnet.
 >
@@ -1376,7 +1360,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=293)** In this event, the payload called KillDisk was used to destroy target systems.
 >
-> **[4:57](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=297)** The attack was accompanied by a flood of telephone calls to the technical support numbers of the power companies.
+> **[4:57](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=297)** The attack was accompanied by a flood of telephone calls to the [[Technical Support]] numbers of the power companies.
 >
 > **[5:03](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=303)** Researchers have designated the attackers as the Sandworm Crew.
 >
@@ -1386,7 +1370,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=323)** This spate of attacks was not the first time the Sandworm group had targeted Ukraine.
 >
-> **[5:27](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=327)** An earlier incident took place in 2014, just prior to the NATO summit in Wales, using spear phishing and a malicious attachment purporting to be about Russian terrorists.
+> **[5:27](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=327)** An earlier incident took place in 2014, just prior to the NATO summit in Wales, using spear [[Phishing]] and a malicious attachment purporting to be about Russian terrorists.
 >
 > **[5:39](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-blackenergy?u=76281980&t=339)** The Ukrainian CERT also commented on media attacks, which took place in October.
 >
@@ -1398,7 +1382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Microsoft Products|Products]] (2), [[PHP]] (2), web (1), traffic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[PHP]] (2), [[MySQL]] (1), [[Linux]] (1), [[Technical Support]] (1)
 > **Env Vars:** http (3), dll (2), php (2), rc4 (1), xml (1)
 > **CLI Commands:** php (2), mysql (1)
 > **Definitions:** is a  (2), known as (1)
@@ -1406,8 +1390,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Killing the FTP service
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980)
+#### [Killing the FTP service](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980&t=5)** Other services, such as the File Transfer Protocol, FTP, are internet-facing, and so also at risk of being attacked.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980&t=13)** I'll use my Windows 10 machine, it's IP address 10.0.2.15, as the target for this attack.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980&t=13)** I'll use my [[Windows 10]] machine, it's IP address 10.0.2.15, as the target for this attack.
 >
 > **[0:20](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/killing-the-ftp-service?u=76281980&t=20)** I've installed a small FTP server, version 0.99.
 >
@@ -1449,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (1), application (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1)
 > **Env Vars:** ftp (6)
 > **Versions:** 10.0.2 (2), version 0 (1)
 > **Definitions:** is a  (2)
@@ -1457,8 +1440,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### RangeAmp attacks on the CDN
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/rangeamp-attacks-on-the-cdn?u=76281980)
+#### [RangeAmp attacks on the CDN](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/rangeamp-attacks-on-the-cdn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,12 +1464,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), web (1), traffic (1)
 > **Env Vars:** cdn (3), http (2)
 > **Speakers:** - [instructor] (1)
 
-#### Profiling Killnet
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/profiling-killnet?u=76281980)
+#### [Profiling Killnet](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/profiling-killnet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1545,7 +1525,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **API Endpoints:** get  (1), post  (1)
 > **Env Vars:** syn (1), post (1)
 > **Cross-References:** later in (1)
@@ -1558,8 +1537,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flooding a SIP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
+#### [Flooding a SIP server](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1577,7 +1555,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=47)** This can be downloaded pre-configured for between 20 and 500 users.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=52)** I've selected the 20 user version for my Windows 10 system as the host.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=52)** I've selected the 20 user version for my [[Windows 10]] system as the host.
 >
 > **[0:56](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=56)** This is a simple download and installs seamlessly.
 >
@@ -1593,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=89)** If I press file, SIP account, I can see its basic setup details.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=96)** I've also installed a SIP phone on my Windows 7 system with the username 100.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=96)** I've also installed a SIP phone on my [[Windows]] 7 system with the username 100.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=103)** I can make a call to 101 and we can hear the hold music.
 >
@@ -1679,7 +1657,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=342)** Xiapu Luo from the Hong Kong Polytechnic University in Kalune has researched the issue of pulsing attacks with a view to detecting and defeating them with a technology called Vanguard.
 >
-> **[5:53](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=353)** This technology uses the standard snort intrusion detection system.
+> **[5:53](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=353)** This technology uses the standard snort [[Intrusion Detection]] system.
 >
 > **[5:57](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/flooding-a-sip-server?u=76281980&t=357)** Supported by a Vanguard module which analyzes network traffic and in particular, the rate change points.
 >
@@ -1687,7 +1665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Windows]] (2), traffic (2), [[Windows 10]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1), [[Intrusion Detection]] (1)
 > **Env Vars:** sip (15), voip (8), rtp (1)
 > **Prerequisites:** setup (2), set up (1), install (1)
 > **CLI Commands:** make (2)
@@ -1701,8 +1679,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining ransomware
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
+#### [Explaining ransomware](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1722,7 +1699,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=47)** It's easy to create a ransomware payload, and it's a popular way of monetizing a network of compromised computers.
 >
-> **[0:55](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=55)** The basic concept used in ransomware is cryptography, the science of making an intelligible message into something that isn't understandable, but can, with special knowledge, be turned back into the original, intelligible form.
+> **[0:55](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=55)** The basic concept used in ransomware is [[Cryptography]], the science of making an intelligible message into something that isn't understandable, but can, with special knowledge, be turned back into the original, intelligible form.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=70)** The criminal uses a cyber attack to get access to a victim's files, and encrypts them.
 >
@@ -1734,7 +1711,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=96)** Usually delivered via the cutwail spambot, using the UPATrial ZeuS botnets.
 >
-> **[1:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=103)** This typically enter a system by means of a phishing attack.
+> **[1:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=103)** This typically enter a system by means of a [[Phishing]] attack.
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/explaining-ransomware?u=76281980&t=106)** The original emergence of ransomware used symmetric cryptography to encrypt files and stored the key somewhere hidden on the target disc.
 >
@@ -1770,13 +1747,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cryptography]] (4), [[Phishing]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (4), [[Phishing]] (1)
 > **Env Vars:** aids (2)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 
-#### Understanding Cryptolocker
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980)
+#### [Understanding Cryptolocker](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1804,7 +1780,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=59)** Cryptolocker then selects the files that it wants to encrypt.
 >
-> **[1:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=62)** These include JPGs, DOCs, spreadsheets, PowerPoint files, and a lot more.
+> **[1:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=62)** These include JPGs, DOCs, spreadsheets, [[Microsoft PowerPoint|PowerPoint]] files, and a lot more.
 >
 > **[1:08](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=68)** A symmetric key is generated for each file to be encrypted, and the file is encrypted using AES.
 >
@@ -1832,7 +1808,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=137)** Where a number of systems in a target network have infected, that's typically because it's been infiltrated through a botnet, which owns all of the target systems.
 >
-> **[2:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=146)** However, a recent variant of Cryptolocker has the ability to spread between removable drives using activation keys for tools such as Adobe Photoshop and Microsoft Office as its vector.
+> **[2:26](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=146)** However, a recent variant of Cryptolocker has the ability to spread between removable drives using activation keys for tools such as [[Adobe Photoshop]] and [[Microsoft Office]] as its vector.
 >
 > **[2:38](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-cryptolocker?u=76281980&t=158)** This makes it much more dangerous once it gets a foothold in a network.
 
@@ -1844,14 +1820,13 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Petya
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980)
+#### [Understanding Petya](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=0)** - Petya is an example of ransomeware.
 >
-> **[0:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=2)** Released in March 2016 but is different to earlier ransomware in that it encrypts the master file table on a victim's Windows system.
+> **[0:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=2)** Released in March 2016 but is different to earlier ransomware in that it encrypts the master file table on a victim's [[Windows]] system.
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=11)** The result of this is that the victim cannot access any of their files.
 >
@@ -1869,7 +1844,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=59)** When Petya first starts, it changes the master boot record to disable booting in safe mode and boot to the malware.
 >
-> **[1:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=66)** Once this is done, it executes the malware which displays a screen that looks like the Microsoft disk checking function.
+> **[1:06](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=66)** Once this is done, it executes the malware which displays a screen that looks like the [[Microsoft]] disk checking function.
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/understanding-petya?u=76281980&t=74)** However, it isn't checking the disk.
 >
@@ -1897,7 +1872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), data (1), hr (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft]] (1)
 > **Exercise Files:** download the (2)
 > **Env Vars:** jpeg (1)
 > **Versions:** 400.00 (1)
@@ -1909,8 +1884,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defeating denial-of-service attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
+#### [Defeating denial-of-service attacks](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1924,7 +1898,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=38)** Priority-based servicing of traffic can be achieved by ensuring network traffic is marked with a priority attribute, and network queues are managed by priority.
 >
-> **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=47)** This is a common voice call service offered by telecommunications companies to support responders under emergency conditions.
+> **[0:47](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=47)** This is a common voice call service offered by [[Telecommunications]] companies to support responders under emergency conditions.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=55)** Under normal conditions, all traffic gets processed.
 >
@@ -1970,7 +1944,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=215)** And if we can identify a source address as spoofed, we can drop the packet with certainty that it's an attack.
 >
-> **[3:41](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=221)** However, real-time source address verification is not a trivial issue to solve.
+> **[3:41](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=221)** However, [[Real-Time]] source address verification is not a trivial issue to solve.
 >
 > **[3:46](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=226)** One approach is to have a traceback mechanism, whereby there's evidence to show the route the packet followed on its way to our network.
 >
@@ -1986,7 +1960,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=275)** The proxy server deployment is known as valve.
 >
-> **[4:38](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=278)** It can be installed on the Debian platform as a service.
+> **[4:38](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=278)** It can be installed on the Debian [[PaaS|platform as a service]].
 >
 > **[4:41](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=281)** Repose can be configured using XML scripts to limit how many requests per time units are allowed to be made.
 >
@@ -1996,7 +1970,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=298)** Commercial equipment, such as a Cisco Catalyst, also provide DoS protection through configuring rate limiting on the quality of service, to limit the amount of a particular type of traffic that will be accepted.
 >
-> **[5:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=310)** In some devices, the rate limiting can be set in hardware registers to minimize latency.
+> **[5:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=310)** In some devices, the rate limiting can be set in [[Hardware]] registers to minimize latency.
 >
 > **[5:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/defeating-denial-of-service-attacks?u=76281980&t=315)** ACLs can also be used to stop denial of service attacks.
 >
@@ -2024,7 +1998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (13), data (2), business (2), [[Real-Time]] (2), [[Telecommunications]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Telecommunications]] (1), [[PaaS|Platform as a service]] (1), [[Hardware]] (1)
 > **Env Vars:** icmp (3), acc (2), tcp (2), syn (1), darpa (1)
 > **Definitions:** is a  (4), is an  (3), known as (1)
 > **Analogies:** such as (4), for example (1)
@@ -2032,8 +2006,7 @@ created: 2026-05-02
 > **Code Identifiers:** itrace (1)
 > **Speakers:** - [instructor] (1)
 
-#### Commercial anti-DOS services
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980)
+#### [Commercial anti-DOS services](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2055,26 +2028,25 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=57)** It consists of 6 data scrubbing centers around the world, with network capacities distributed among multiple tier 1 carriers, and can protect against all known types of DDoS attacks, at the network, transport and application layers.
 >
-> **[1:12](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=72)** Google has launched Project Shield, a free service for websites which host news feeds.
+> **[1:12](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=72)** [[Google]] has launched Project Shield, a free service for websites which host news feeds.
 >
 > **[1:18](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=78)** This service provides Anti-DDos protection through a reverse proxy.
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=82)** This receives traffic from the internet, checks it, and filters out bad traffic using Google's propriety methods, and sends safe traffic through to it's destination.
 >
-> **[1:33](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=93)** Project Shield also acts as a web server cache, enabling web pages to be served directly from Google's Cloud infrastructure, rather than requiring delivery directly from it's source.
+> **[1:33](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=93)** Project Shield also acts as a web server cache, enabling web pages to be served directly from Google's [[Cloud Infrastructure]], rather than requiring delivery directly from it's source.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/commercial-anti-dos-services?u=76281980&t=103)** This takes a significant load off a web server, whether that server is under attack, or not.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Google]] (3), web (3), cloud (2), application (2)
+> **Frameworks & Libraries:** [[Google]] (3), [[Cloud Infrastructure]] (1)
 > **Env Vars:** sin (1), udp (1), icmp (1)
 > **Versions:** 2.8 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting P2P attacks with PeerShark
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980)
+#### [Detecting P2P attacks with PeerShark](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2084,7 +2056,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=15)** One of the most significant P2P networks is Skype.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=19)** The number of P2P networks fluctuates, but with the rapid emergence of the internet of things, there's a new role for P2P to play at the IoT device level.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=19)** The number of P2P networks fluctuates, but with the rapid emergence of the [[IoT|internet of things]], there's a new role for P2P to play at the [[IoT]] device level.
 >
 > **[0:29](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=29)** This is already being seen in traffic lights systems which use node to node communications at the end points.
 >
@@ -2112,7 +2084,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=112)** For example, the duration of the conversation, the end to arrival time of packets, the amount of data exchanged, and the number of packets exchanged.
 >
-> **[2:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=121)** Conversation monitoring is becoming a much more powerful approach as big data analytics are being applied to security monitoring.
+> **[2:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=121)** Conversation monitoring is becoming a much more powerful approach as [[Big Data Analytics]] are being applied to security monitoring.
 >
 > **[2:09](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=129)** The ability to monitor conversations for slow and low activity, such as B connect, enables detection of the more stealthy botnets.
 >
@@ -2132,7 +2104,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=175)** This can take conversations that are spread by hours or days and bring them together into a single view of the P2P conversation characteristics.
 >
-> **[3:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=184)** The final module is the classification module, which uses supervised machine learning algorithms for training its model and classifying the information coming from the earlier modules.
+> **[3:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=184)** The final module is the classification module, which uses supervised machine learning [[Algorithms]] for training its model and classifying the information coming from the earlier modules.
 >
 > **[3:17](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/detecting-p2p-attacks-with-peershark?u=76281980&t=197)** PeerShark was evaluated using network trace data sets obtained from the University of Georgia.
 >
@@ -2152,7 +2124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), data (5), node (2), application (2), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (1), [[IoT]] (1), [[Big Data Analytics]] (1), [[Algorithms]] (1)
 > **Env Vars:** p2p (15)
 > **CLI Commands:** node (2)
 > **Code Identifiers:** emule (1), utorrent (1)
@@ -2161,12 +2133,11 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### NIST guidance on mitigating DDOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980)
+#### [NIST guidance on mitigating DDOS](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=1)** - [Instructor] NIST in December, 2019 issued the special publication, 800-189, Resilient Interdomain Traffic Exchange: BGP Security and DDoS Mitigation.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=1)** - [Instructor] [[NIST]] in December, 2019 issued the special publication, 800-189, Resilient Interdomain Traffic Exchange: BGP Security and DDoS Mitigation.
 >
 > **[0:14](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=14)** This publication is written for enterprises and internet service providers.
 >
@@ -2192,7 +2163,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=74)** Here we can see an example of a hijack record in Artemis.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=80)** Border gateway protocol updates occur regularly and include an AS path which is used to show the autonomous systems in the proceeding path and is used to implement routing policies.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=80)** Border gateway protocol updates occur regularly and include an AS path which is used to show the autonomous systems in the proceeding path and is used to implement [[Routing]] policies.
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/nist-guidance-on-mitigating-ddos?u=76281980&t=91)** A malicious AS could modify or remove entries in the AS path.
 >
@@ -2218,23 +2189,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[NIST]] (2), [[Security]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Routing]] (1)
 > **Env Vars:** bgp (3), nist (2)
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Considering IoT denial
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980)
+#### [Considering IoT denial](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=1)** - [Instructor] There are many different things that come under the umbrella of Internet of Things.
+> **[0:01](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=1)** - [Instructor] There are many different things that come under the umbrella of [[IoT|Internet of Things]].
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=5)** These range from sub-dollar low-power sensors to cars and drones.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=10)** Each type has its own characteristics which make security difficult, including its level of vulnerability to denial of service.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=18)** IoT environments have a broad spectrum of vulnerabilities.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=18)** [[IoT]] environments have a broad spectrum of vulnerabilities.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=21)** They use a wide range of communications protocols and often operate with mobility, making a common protective mechanism problematic.
 >
@@ -2260,9 +2230,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=118)** This approach doesn't prevent the environment being isolated, however.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=122)** Cryptography is used to secure communications between IoT devices, setting up an end-to-end protection mechanism.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=122)** [[Cryptography]] is used to secure communications between IoT devices, setting up an end-to-end protection mechanism.
 >
-> **[2:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=130)** Some techniques for intrusion detection have been proposed.
+> **[2:10](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=130)** Some techniques for [[Intrusion Detection]] have been proposed.
 >
 > **[2:14](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/considering-iot-denial?u=76281980&t=134)** Several proposals for detecting denial of service attacks have been proposed.
 >
@@ -2276,7 +2246,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (5), [[Intrusion Detection]] (2), [[Internet of Things (IoT)|Internet of things]] (1), power (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Intrusion Detection]] (2), [[IoT|Internet of things]] (1), [[Cryptography]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** http (1)
 > **Analogies:** such as (1)
@@ -2287,8 +2257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2296,15 +2265,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=4)** I hope you enjoyed this foray into denial of service testing.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=8)** There's always something new to learn about in cyber security, and if you're interested, then check out the other courses in the cybersecurity segment of the library where new security testing courses are added regularly.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=8)** There's always something new to learn about in cyber security, and if you're interested, then check out the other courses in the [[Cybersecurity]] segment of the library where new [[Security Testing]] courses are added regularly.
 >
 > **[0:21](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=21)** I'd like to invite you to go to my author page where you can find some additional courses on cybersecurity.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=28)** If you want to get hands on with some of the common tools, then do take a look at practical cyber security and introduction to Kali Linux.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=28)** If you want to get hands on with some of the common tools, then do take a look at practical cyber security and introduction to [[Kali Linux]].
 >
-> **[0:37](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=37)** If you're wanting to learn about security for the cloud, then Cybersecurity for Cloud Computing is for you.
+> **[0:37](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=37)** If you're wanting to learn about security for the cloud, then Cybersecurity for [[Cloud Computing]] is for you.
 >
-> **[0:44](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=44)** I'd also like to invite you to go take a look at Lisa Bock's author page where you'll find more courses in the ethical hacking series.
+> **[0:44](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=44)** I'd also like to invite you to go take a look at Lisa Bock's author page where you'll find more courses in the [[Ethical Hacking]] series.
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-denial-of-service-2/summary?u=76281980&t=52)** Lisa also has some great information security courses that you can take.
 >
@@ -2312,7 +2281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (3), cloud (2), [[Kali Linux]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Security Testing]] (1), [[Kali Linux]] (1), [[Cloud Computing]] (1), [[Ethical Hacking]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)

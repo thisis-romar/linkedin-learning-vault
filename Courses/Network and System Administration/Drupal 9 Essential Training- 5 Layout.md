@@ -76,12 +76,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980&t=2)** - Hi and welcome to the Drupal 9 Essential Training.
+> **[0:02](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980&t=2)** - Hi and welcome to the [[Drupal]] 9 Essential Training.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/introduction-to-the-course?u=76281980&t=5)** My name's Rod Martin.
 >
@@ -145,7 +144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (8), management (1), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (8)
 > **Speakers:** - hi (1)
 
 
@@ -153,8 +152,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Layout explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
+#### [Layout explained](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,8 +193,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing displays
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980)
+#### [Managing displays](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980&t=21)** Head over to Structure, Content Types, Article, and Manage display.
 >
-> **[0:28](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980&t=28)** In Drupal, we have the default display, an RSS feed, and a teaser in the article content type.
+> **[0:28](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980&t=28)** In [[Drupal]], we have the default display, an RSS feed, and a teaser in the article content type.
 >
 > **[0:35](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-displays?u=76281980&t=35)** The teaser is nothing more than just the image and the body and the links with everything else disabled.
 >
@@ -292,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), [[Drupal]] (3), node (3)
+> **Frameworks & Libraries:** [[Drupal]] (3)
 > **CLI Commands:** node (3), make (1)
 > **UI Navigation:** click on (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -301,8 +298,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Blocks explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980)
+#### [Blocks explained](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980&t=106)** So it's fair to say that this entire page is just a set of blocks.
 >
-> **[1:50](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980&t=110)** Blocks are absolutely critical to Drupal 9's layout.
+> **[1:50](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980&t=110)** Blocks are absolutely critical to [[Drupal]] 9's layout.
 >
 > **[1:56](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/blocks-explained?u=76281980&t=116)** So when we created the Welcome to Drupalville block, we created a custom block in the basic block type.
 >
@@ -442,15 +438,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (5), [[Search]] (2), feature (1)
+> **Frameworks & Libraries:** [[Drupal]] (5)
 > **Definitions:** is a  (5), is an  (1)
 > **UI Navigation:** scroll down (3), click on (2)
 > **Cross-References:** go back to (2), we talked about (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom block type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980)
+#### [Creating a custom block type](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -470,7 +465,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980&t=42)** Put a checkmark in create new revision.
 >
-> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980&t=44)** This way we can keep version control on our block, and click save.
+> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980&t=44)** This way we can keep [[Version Control]] on our block, and click save.
 >
 > **[0:50](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type?u=76281980&t=50)** All right, click manage fields.
 >
@@ -576,7 +571,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), business (2), [[Version Control]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1)
 > **Env Vars:** pdf (9), url (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** click on (3), go to (2)
@@ -585,8 +580,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a custom block type: Media
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type-media?u=76281980)
+#### [Creating a custom block type: Media](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-custom-block-type-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,19 +616,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** pdf (1), css (1)
 > **Cross-References:** later in (1), go back to (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Layout builder explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980)
+#### [Layout builder explained](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=3)** - One of the best new features in Drupal 9 is Layout Builder.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=3)** - One of the best new features in [[Drupal]] 9 is Layout Builder.
 >
 > **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=7)** I can't tell you how excited I am about this.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=48)** The most important sections to read probably are the overview, layout defaults, and additional modules.
 >
-> **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=57)** The rest of it I'm going to pretty much cover.
+> **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=57)** The [[Representational State Transfer (REST)|rest]] of it I'm going to pretty much cover.
 >
 > **[0:59](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/layout-builder-explained?u=76281980&t=59)** Layout Builder is a visual design tool allowing you to create multiple columns, brick layouts and then add blocks and fields from your content types into those layouts.
 >
@@ -713,8 +705,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - one (1)
 
-#### Managing the layout for the article content type
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-article-content-type?u=76281980)
+#### [Managing the layout for the article content type](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-article-content-type?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -846,7 +837,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), next (2)
 > **UI Navigation:** click on (10), scroll down (1), scroll up (1)
 > **CLI Commands:** node (4), make (2), find (1)
 > **Env Vars:** pdf (3), rss (2)
@@ -854,8 +844,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Managing the layout for the business directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980)
+#### [Managing the layout for the business directory](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=62)** In this layout, I want to put the business logo on the left, the address, website, phone and category on the right.
 >
-> **[1:10](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=70)** Then I want to put the description in the rest of the fields.
+> **[1:10](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=70)** Then I want to put the description in the [[Representational State Transfer (REST)|rest]] of the fields.
 >
 > **[1:15](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=75)** So, once again, click add section, and let's again choose a two column layout.
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=132)** We'll hide the label.
 >
-> **[2:15](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=135)** And we'll make a Google map out of it.
+> **[2:15](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=135)** And we'll make a [[Google]] map out of it.
 >
 > **[2:19](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=139)** Once again, all of the settings we had for the simple G map module are now here.
 >
@@ -961,7 +950,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=260)** Structure, content types, business directory and manage display.
 >
-> **[4:25](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=265)** Now the other way to handle this is of course have two browser windows open, and you can go back and forth.
+> **[4:25](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=265)** Now the other way to handle this is of course have two browser [[Windows]] open, and you can go back and forth.
 >
 > **[4:30](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/managing-the-layout-for-the-business-directory?u=76281980&t=270)** So I'm going to click on full content, and manage layout.
 >
@@ -1039,7 +1028,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (23), [[Google]] (3), node (2), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (3), open the (2), go to (1), scroll down (1)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Cross-References:** go back to (3)
@@ -1048,8 +1037,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a custom block in the layout builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-a-custom-block-in-the-layout-builder?u=76281980)
+#### [Adding a custom block in the layout builder](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-a-custom-block-in-the-layout-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1107,7 +1095,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), node (2), next (1)
 > **CLI Commands:** node (2), make (1)
 > **Cross-References:** previous video (1), go back to (1), in the next (1)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1115,12 +1102,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1), download the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating landing pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-landing-pages?u=76281980)
+#### [Creating landing pages](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-landing-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-landing-pages?u=76281980&t=3)** - [Instructor] In this video, I want to show you how to make really custom landing pages in your Drupal website using layout builder.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-landing-pages?u=76281980&t=3)** - [Instructor] In this video, I want to show you how to make really custom landing pages in your [[Drupal]] website using layout builder.
 >
 > **[0:11](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-landing-pages?u=76281980&t=11)** Let's create a landing page content type, go to structure, content types and add content type.
 >
@@ -1284,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[Drupal]] (2), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **Env Vars:** css (4), url (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
@@ -1297,12 +1283,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Views explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
+#### [Views explained](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980&t=3)** - One of the most essential tools you have in Drupal.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980&t=3)** - One of the most essential tools you have in [[Drupal]].
 >
 > **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/views-explained?u=76281980&t=7)** Once you have your content in, is the ability to create multiple displays and get your content out unless a node has a menu connected to it.
 >
@@ -1360,7 +1345,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), node (2), [[Drupal]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (1)
 > **CLI Commands:** node (2), find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -1368,8 +1353,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)
 
-#### Adding the business directory view
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-business-directory-view?u=76281980)
+#### [Adding the business directory view](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-business-directory-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1505,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (17), css (3)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** css (3)
@@ -1530,12 +1513,11 @@ created: 2026-05-02
 > **Code Identifiers:** drupalville (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding the news and press release view
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980)
+#### [Adding the news and press release view](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=3)** - [Instructor] The next view we want to add is a listing of all of the most recent news in our Drupal website.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=3)** - [Instructor] The next view we want to add is a listing of all of the most recent news in our [[Drupal]] website.
 >
 > **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=10)** So, head over to Structure, Views and Add View and let's call this, Latest News.
 >
@@ -1613,7 +1595,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=170)** Let's go ahead and put the image under the title.
 >
-> **[2:54](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=174)** Next to the word format, click on the word settings for the table and let's put the business logo in the content column and that's going to automatically insert the image below the title.
+> **[2:54](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=174)** Next to the [[Microsoft Word|word]] format, click on the word settings for the table and let's put the business logo in the content column and that's going to automatically insert the image below the title.
 >
 > **[3:09](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-the-news-and-press-release-view?u=76281980&t=189)** Click Apply, take a look and there we go.
 >
@@ -1629,7 +1611,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Drupal]] (3), business (2), [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), [[Microsoft Word|Word]] (2)
 > **UI Navigation:** click on (3), scroll down (2)
 > **Definitions:** is a  (3)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1637,8 +1619,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exposing filters for visitor interaction
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980)
+#### [Exposing filters for visitor interaction](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1660,11 +1641,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=30)** And let's take care of the title first.
 >
-> **[0:33](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=33)** Click on the word content:title.
+> **[0:33](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=33)** Click on the [[Microsoft Word|word]] content:title.
 >
 > **[0:35](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=35)** Now with views, there's a little bit to learn here.
 >
-> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=38)** If I click on style settings and customize the field HTML.
+> **[0:38](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=38)** If I click on style settings and customize the field [[HTML]].
 >
 > **[0:42](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=42)** You would think that changing this to an H3, would work and typically it does, but it doesn't in this particular theme.
 >
@@ -1710,7 +1691,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=144)** We want to expose this filter, to visitors to allow them to change it.
 >
-> **[2:28](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=148)** And as soon as I put a check mark in there, Drupal shows me a whole bunch more.
+> **[2:28](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=148)** And as soon as I put a check mark in there, [[Drupal]] shows me a whole bunch more.
 >
 > **[2:33](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/exposing-filters-for-visitor-interaction?u=76281980&t=153)** And all I need to do right now is update the label.
 >
@@ -1744,8 +1725,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Adding an events calendar view
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980)
+#### [Adding an events calendar view](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1757,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=20)** And this happens all the time.
 >
-> **[0:22](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=22)** You'll come across a requirement for your site and you'll go, "Hmm, can Drupal to that?"
+> **[0:22](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=22)** You'll come across a requirement for your site and you'll go, "Hmm, can [[Drupal]] to that?"
 >
 > **[0:27](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=27)** And the answer usually is, "Well, yes, Drupal can do that, and there's a module for that."
 >
@@ -1771,7 +1751,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=52)** Now, the good news is it works in Drupal 9.
 >
-> **[0:55](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=55)** The other good news is you can download all of the JavaScript libraries to your own site, but if you don't want to, well, it works off of a CDN.
+> **[0:55](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=55)** The other good news is you can download all of the [[JavaScript]] libraries to your own site, but if you don't want to, well, it works off of a CDN.
 >
 > **[1:04](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=64)** So all you actually need is the module itself.
 >
@@ -1821,11 +1801,11 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=211)** We need at least two more fields, we need the date field and we need the body field.
 >
-> **[3:36](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=216)** Click add next to the word fields and type the word date.
+> **[3:36](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=216)** Click add next to the [[Microsoft Word|word]] fields and type the word date.
 >
 > **[3:42](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=222)** We want to get event date, put check mark in there and click add and configure fields.
 >
-> **[3:51](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=231)** Go ahead and change it just to an HTML date, it really doesn't matter at this point because it's going to be in the calendar display anyway.
+> **[3:51](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=231)** Go ahead and change it just to an [[HTML]] date, it really doesn't matter at this point because it's going to be in the calendar display anyway.
 >
 > **[3:58](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/adding-an-events-calendar-view?u=76281980&t=238)** Click apply, click add, type body, add fields, and do the trimmed at 100 characters and click apply.
 >
@@ -1869,7 +1849,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (5), next (2), [[Microsoft Word|Word]] (2), node (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Microsoft Word|Word]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **UI Navigation:** click on (7), scroll down (2), go to (1), scroll up (1)
 > **CLI Commands:** find (2), make (2), node (2), composer (1)
 > **Prerequisites:** install (3), configure (1)
@@ -1877,8 +1857,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a related content view
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980)
+#### [Creating a related content view](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1912,7 +1891,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=81)** Now you'll note we've got unsaved changes, we now have two displays.
 >
-> **[1:26](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=86)** On the title, let's click on the word business directory, and change for all displays to this block override.
+> **[1:26](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=86)** On the title, let's click on the [[Microsoft Word|word]] business directory, and change for all displays to this block override.
 >
 > **[1:37](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=97)** And the title is going to be alternate businesses.
 >
@@ -1966,7 +1945,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=226)** That's the node ID.
 >
-> **[3:48](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=228)** But once Drupal understands the URL, it knows everything about that particular node.
+> **[3:48](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=228)** But once [[Drupal]] understands the URL, it knows everything about that particular node.
 >
 > **[3:54](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-related-content-view?u=76281980&t=234)** So go ahead and choose taxonomy term from URL, and then uncheck the top one and check the second one, load filter from node page that's good for related taxonomy blocks, which is what we're creating.
 >
@@ -2070,7 +2049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (15), node (4), [[Drupal]] (2), [[Microsoft Word|Word]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (9), scroll down (3), go to (1)
 > **CLI Commands:** node (4), make (3), find (1)
 > **Env Vars:** url (6)
@@ -2079,8 +2058,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Image styles explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980)
+#### [Image styles explained](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2120,7 +2098,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980&t=122)** well that's not great.
 >
-> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980&t=124)** Image styles will create a version of every single image on your site to this specific size requirements that you want and so if I want to show a nice little thumbnail that say 100 by 100 pixels, Drupal will actually create a version of every image on my site at 100 by 100 pixels and so people like me at in the rural US or anywhere else in the world for that matter, can now view your site much more quickly because your images are optimized.
+> **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980&t=124)** Image styles will create a version of every single image on your site to this specific size requirements that you want and so if I want to show a nice little thumbnail that say 100 by 100 pixels, [[Drupal]] will actually create a version of every image on my site at 100 by 100 pixels and so people like me at in the rural US or anywhere else in the world for that matter, can now view your site much more quickly because your images are optimized.
 >
 > **[2:38](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-explained?u=76281980&t=158)** So how do we do that?
 >
@@ -2168,7 +2146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Drupal]] (2), hit (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **UI Navigation:** click on (10), scroll down (3), go to (2)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** make (2), find (1)
@@ -2177,8 +2155,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** configure (1)
 
-#### Image styles for media
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980)
+#### [Image styles for media](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/image-styles-for-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2262,7 +2239,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1)
 > **UI Navigation:** click on (3), scroll down (2), go to (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Cross-References:** go back to (3)
@@ -2270,20 +2246,20 @@ created: 2026-05-02
 > **Prerequisites:** configure (2), you'll need (1)
 > **Env Vars:** lte (1)
 > **Versions:** 2.7 (1)
+> **Definitions:** is a  (1)
 
 
 ### 3. Menus Explained
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modify the main menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)
+#### [Modify the main menu](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=3)** - [Instructor] In this video, I want to talk about menus and menu structure.
 >
-> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=7)** One of the great things with Drupal is you have complete control over your menus.
+> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=7)** One of the great things with [[Drupal]] is you have complete control over your menus.
 >
 > **[0:11](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=11)** Head over to Structure, Menus and Main navigation.
 >
@@ -2363,7 +2339,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=207)** Now my Contact form is right here in my main menu.
 >
-> **[3:32](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=212)** Now you'll remember, Contact forms are also entities, and this can be fielded.
+> **[3:32](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=212)** Now you'll remember, Contact [[Forms]] are also entities, and this can be fielded.
 >
 > **[3:37](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/modify-the-main-menu?u=76281980&t=217)** You can add as many fields as you need to your Website Feedback form.
 >
@@ -2371,7 +2347,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), business (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), [[Forms]] (1)
 > **UI Navigation:** dropdown (4), scroll down (2), go to (1), click on (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
@@ -2379,12 +2355,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a new menu
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980)
+#### [Creating a new menu](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=3)** - [Instructor] Adding your own Menus to your Drupal site is just as easy hover over Structure, Menus and Add Menu.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=3)** - [Instructor] Adding your own Menus to your [[Drupal]] site is just as easy hover over Structure, Menus and Add Menu.
 >
 > **[0:10](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=10)** We're just going to add a new menu and create a couple of links.
 >
@@ -2396,7 +2371,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=49)** All right so we have an internal link let's add an external link.
 >
-> **[0:52](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=52)** Click Add link, and we'll just make a link to Google.
+> **[0:52](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=52)** Click Add link, and we'll just make a link to [[Google]].
 >
 > **[0:59](https://www.linkedin.com/learning/drupal-9-essential-training-5-layout/creating-a-new-menu?u=76281980&t=59)** You'll note as soon as I start typing the external link Drupal just ignores the internal links, it's enabled, we don't need to show as expanded because this is not going to an expanded Menu but what you're not seeing of course is the ability to open an external link in a new Tab or Window.
 >
@@ -2420,7 +2395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), node (2), [[Google]] (2), business (1)
+> **Frameworks & Libraries:** [[Drupal]] (3), [[Google]] (2)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Env Vars:** url (1), cool (1), menu (1), items (1)
 > **Cross-References:** go back to (1)

@@ -81,14 +81,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980&t=1)** - [Alex] Welcome to Advanced Node.js I'm Alex Banks.
+> **[0:01](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980&t=1)** - [Alex] Welcome to Advanced [[Node.js]] I'm Alex Banks.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980&t=5)** Node.js is a run time environment for Javascript.
+> **[0:05](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980&t=5)** Node.js is a run time environment for [[JavaScript]].
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-node-js/welcome?u=76281980&t=8)** It has become wildly popular.
 >
@@ -118,22 +117,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), web (2), [[JavaScript]] (1), parallel (1), data (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[JavaScript]] (1)
 > **CLI Commands:** node (4), make (2)
 > **File Paths:** node.js (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [alex] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced Node.js class.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=0)** - [Instructor] This is an advanced [[Node.js]] class.
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=3)** It doesn't mean that what we're learning here is gonna be super hard.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=5)** It just means that I've designed this course with the expectation that you're already familiar with Node.js, Javascript, and how to build Node applications and web servers.
+> **[0:05](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=5)** It just means that I've designed this course with the expectation that you're already familiar with Node.js, [[JavaScript]], and how to build Node applications and [[Web Servers]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-node-js/what-you-should-know?u=76281980&t=14)** I want to take the knowledge that you already have and expand it to include different techniques.
 >
@@ -167,15 +165,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (5), node (2), web (2)
+> **Frameworks & Libraries:** [[Node.js]] (12), [[JavaScript]] (5), [[Web Servers]] (2)
 > **CLI Commands:** node (14), make (1)
 > **File Paths:** node.js (12)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** es6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980&t=45)** However, you can follow along in any text editor or development IDE of your choice.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980&t=49)** Additionally, you might want to consider upgrading Node.js.
+> **[0:49](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980&t=49)** Additionally, you might want to consider upgrading [[Node.js]].
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-node-js/using-the-exercise-files?u=76281980&t=53)** By running node-v command in the terminal, you can see what your current version of Node.js is.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (4)
 > **CLI Commands:** node (5), find (1)
 > **File Paths:** node.js (4)
 > **Tools:** atom (2), terminal (1)
@@ -227,12 +224,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Callback pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
+#### [Callback pattern](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=0)** - [Instructor] The think about node.js is it's asynchronous, there's only one thread and how effective our applications are at sharing the single thread across multiple processes is up to us.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=0)** - [Instructor] The think about [[Node.js]] is it's asynchronous, there's only one thread and how effective our applications are at sharing the single thread across multiple processes is up to us.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=10)** In this next section, we will review essential techniques and patterns for working with asynchronous code, the first and most basic technique that is core to node.js is the callback pattern.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=118)** Returning the result of a function like this is referred to as direct style.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=121)** Whenever we return a value from a JavaScript function we are working with code synchronously using direct style.
+> **[2:01](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=121)** Whenever we return a value from a [[JavaScript]] function we are working with code synchronously using direct style.
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=127)** So I'll go ahead and just add one more line console dot log and so we know when our program has ended and again I'll go ahead and run this over here in the start folder by typing node dot and we can see that we see the Xs before we see the end being logged to the console.
 >
@@ -300,7 +296,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=273)** Let's go ahead and go over here to the terminal window and run our code.
 >
-> **[4:36](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=276)** And now you can see the word end shows up before the Xs and that's because all of our code is executed and then we're actually passing the results back in the next tick or the next loop.
+> **[4:36](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=276)** And now you can see the [[Microsoft Word|word]] end shows up before the Xs and that's because all of our code is executed and then we're actually passing the results back in the next tick or the next loop.
 >
 > **[4:48](https://www.linkedin.com/learning/advanced-node-js/callback-pattern?u=76281980&t=288)** So our hidden string is being logged in the next tick or the next loop after our end string has been logged.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (13), [[Node.js]] (5), node (2), [[JavaScript]] (2), application (1)
+> **Frameworks & Libraries:** [[Node.js]] (5), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Tools:** terminal (10), atom (3)
 > **CLI Commands:** node (7)
 > **File Paths:** node.js (5), index.js (1)
@@ -363,8 +359,7 @@ created: 2026-05-02
 > **Env Vars:** cps (1)
 > **UI Navigation:** toggle (1)
 
-#### Resolving promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/resolving-promises?u=76281980)
+#### [Resolving promises](https://www.linkedin.com/learning/advanced-node-js/resolving-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -494,7 +489,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), next (2), data (2)
 > **Code Identifiers:** settimeout (5)
 > **Tools:** terminal (4)
 > **Definitions:** is a  (3), is an  (1)
@@ -502,9 +496,9 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 > **Analogies:** just like (1)
+> **Best Practices:** remember to (1)
 
-#### Rejecting promises
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/rejecting-promises?u=76281980)
+#### [Rejecting promises](https://www.linkedin.com/learning/advanced-node-js/rejecting-promises?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,12 +552,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The promisify function
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/the-promisify-function?u=76281980)
+#### [The promisify function](https://www.linkedin.com/learning/advanced-node-js/the-promisify-function?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js/the-promisify-function?u=76281980&t=0)** - [Instructor] Both promises and callbacks can be used to handle asynchronicity within JavaScript.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js/the-promisify-function?u=76281980&t=0)** - [Instructor] Both promises and callbacks can be used to handle asynchronicity within [[JavaScript]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-node-js/the-promisify-function?u=76281980&t=5)** Promises make the code a little bit nicer, so Node JS comes with a way to quickly convert callback functions into promises.
 >
@@ -643,7 +636,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** node (10), make (3), find (1), ls (1)
 > **Definitions:** is a  (4), is called (1), means that (1)
 > **Tools:** terminal (3), atom (1)
@@ -652,8 +645,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequential execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980)
+#### [Sequential execution](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -781,7 +773,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980&t=296)** And we'll write file.txt and then go ahead and say it's a Sample File.
 >
-> **[5:04](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980&t=304)** So we will wait for node.js to write the file before invoking the next then.
+> **[5:04](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980&t=304)** So we will wait for [[Node.js]] to write the file before invoking the next then.
 >
 > **[5:09](https://www.linkedin.com/learning/advanced-node-js/sequential-execution?u=76281980&t=309)** So in this case, we'll go ahead and just add the beep.
 >
@@ -829,7 +821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), node (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1)
 > **Code Identifiers:** writefile (5), dostuffsequentially (2), xo7 (1), settimeout (1)
 > **File Paths:** file.txt (4), index.js (1), node.js (1)
 > **CLI Commands:** node (3), make (1)
@@ -838,14 +830,13 @@ created: 2026-05-02
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** just like (2)
 
-#### Sequential execution with async/await
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980)
+#### [Sequential execution with async/await](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=0)** - [Instructor] Promises give us a nice way to organize what happens by chaining together .then handlers.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=5)** We use this technique to compose promise chains that can execute sequentially.
+> **[0:05](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=5)** We use this technique to [[Jetpack Compose|compose]] promise chains that can execute sequentially.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=10)** But what if you don't want to compose functions in a chain?
 >
@@ -857,7 +848,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=23)** The answer is no.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=25)** JavaScript provides us a way to work with promises using code that appears synchronous, but is in fact asynchronous.
+> **[0:25](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=25)** [[JavaScript]] provides us a way to work with promises using code that appears synchronous, but is in fact asynchronous.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=31)** The solution is async functions.
 >
@@ -881,7 +872,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=84)** Seems to be the first thing that we have.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=86)** And now, inside of an async function, I can use the await key word, with a promise.
+> **[1:26](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=86)** And now, inside of an async function, I can use the await key [[Microsoft Word|word]], with a promise.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-node-js/sequential-execution-with-async-await?u=76281980&t=92)** So this await will await a delay of one second.
 >
@@ -1007,7 +998,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Jetpack Compose|Compose]] (2), node (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[JavaScript]] (1), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** dostuffsequentially (5), writefile (3), trycatch (2)
 > **CLI Commands:** make (2), node (2)
 > **File Paths:** file.txt (3)
@@ -1016,8 +1007,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Parallel execution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980)
+#### [Parallel execution](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1053,7 +1043,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980&t=79)** And let's go ahead and write a third file and actually let me make sure I spell writeFile correctly across all three of these.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980&t=85)** And the third file will be a readme.json, and we'll just go ahead and put in a hello world as json in this file.
+> **[1:25](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980&t=85)** And the third file will be a readme.[[JSON]], and we'll just go ahead and put in a hello world as json in this file.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-node-js/parallel-execution?u=76281980&t=96)** Great.
 >
@@ -1119,7 +1109,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), [[JSON]] (3), node (3)
+> **Frameworks & Libraries:** [[JSON]] (3)
 > **File Paths:** readme.md (2), readme.txt (2), readme.json (2)
 > **CLI Commands:** node (3), make (2)
 > **Code Identifiers:** writefile (3)
@@ -1127,8 +1117,7 @@ created: 2026-05-02
 > **Tools:** terminal (3)
 > **Speakers:** - [narrator] (1)
 
-#### Concurrent tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980)
+#### [Concurrent tasks](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1150,7 +1139,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=51)** So here we have a list of tasks and we're using the delay function because we're acting like some of these tasks take really long, like on line 13 we're gonna delay for 10 seconds, a few of them are only three seconds, some of them are four seconds.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=63)** We can use delays or read files, write files, fetch, any promise would be able to go inside of this task list.
+> **[1:03](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=63)** We can use delays or read files, write files, [[Fetch]], any promise would be able to go inside of this task list.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=71)** So what we need to do is we need to make a concurrent task queue.
 >
@@ -1164,7 +1153,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=100)** And then we would tell our delay queue to run.
 >
-> **[1:44](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=104)** Now you're probably wondering where our delay queue is, whether or not we need to install an NPM, no, we're actually gonna build this promise queue.
+> **[1:44](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=104)** Now you're probably wondering where our delay queue is, whether or not we need to install an [[npm]], no, we're actually gonna build this promise queue.
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-node-js/concurrent-tasks?u=76281980&t=111)** So I'm gonna come up here and just create a new class and we'll call it the promise queue.
 >
@@ -1246,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** concurrent (5), parallel (2), next (2), [[Fetch]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1), [[npm]] (1)
 > **CLI Commands:** make (5), npm (1), find (1)
 > **Env Vars:** npm (1)
 > **Cross-References:** in the next (1)
@@ -1255,8 +1244,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logging concurrent tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980)
+#### [Logging concurrent tasks](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1264,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980&t=3)** Let's set up a way to visualize this queue in the console.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980&t=7)** What I wanna do is install an NPM called log update.
+> **[0:07](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980&t=7)** What I wanna do is install an [[npm]] called log update.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-node-js/logging-concurrent-tasks?u=76281980&t=10)** So I'm gonna come over here to the terminal and type NPM install log update.
 >
@@ -1340,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), node (2)
+> **Frameworks & Libraries:** [[npm]] (2)
 > **CLI Commands:** npm (2), make (2), node (2)
 > **Tools:** terminal (3)
 > **Prerequisites:** install (2), set up (1)
@@ -1354,12 +1342,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why streams?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
+#### [Why streams?](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980&t=0)** - [Instructor] Streams are very important to Node.js and as an Node.js developer, you're going to want to know your way around the stream interface.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980&t=0)** - [Instructor] Streams are very important to [[Node.js]] and as an Node.js developer, you're going to want to know your way around the stream interface.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-node-js/why-streams?u=76281980&t=7)** To exemplify how streams work in Node.js, we're going to use an analogy.
 >
@@ -1513,7 +1500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (5), [[Node.js]] (4), business (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (4)
 > **CLI Commands:** node (11), make (4), find (1)
 > **File Paths:** node.js (4), buffer.js (3), stream.js (2)
 > **Ports:** :3000 (3), port 3000 (1)
@@ -1522,8 +1509,7 @@ created: 2026-05-02
 > **Tools:** terminal (3)
 > **Definitions:** is a  (2), stands for (1)
 
-#### Readable streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980)
+#### [Readable streams](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1629,7 +1615,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=305)** So we can pass binary data through a read stream, we can also pass string data by sending the encoding type, and I can also specify whether the object mode of our readable stream is on.
 >
-> **[5:17](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=317)** So, when the stream is in object mode, it can actually pass any type of JavaScript object.
+> **[5:17](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=317)** So, when the stream is in object mode, it can actually pass any type of [[JavaScript]] object.
 >
 > **[5:22](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=322)** So what I'm going to do is I'm gonna actually make the chunk a JavaScript object.
 >
@@ -1639,7 +1625,7 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=348)** Let's go over here to our terminal, and I will clear this, and type node .
 >
-> **[5:53](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=353)** Whoops, looks like I'm missing something, I accidentally put semicolons here inside of my JSON, silly me, let me go ahead and add commas, there, and then let's try this again, so from the terminal, I'll type clear, and then node ., and now you can see that each bit of our stream, each bit of our array, is being read and then passed into the object.
+> **[5:53](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=353)** Whoops, looks like I'm missing something, I accidentally put semicolons here inside of my [[JSON]], silly me, let me go ahead and add commas, there, and then let's try this again, so from the terminal, I'll type clear, and then node ., and now you can see that each bit of our stream, each bit of our array, is being read and then passed into the object.
 >
 > **[6:14](https://www.linkedin.com/learning/advanced-node-js/readable-streams?u=76281980&t=374)** Now, when our object stream is over, notice that that's handled just a little but differently, pushing null does end the object event, but it also does send us one more object, so just bear that in mind.
 >
@@ -1647,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), node (3), [[JavaScript]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[JSON]] (1)
 > **CLI Commands:** make (4), node (3), find (1)
 > **Env Vars:** utf (2), json (1)
 > **Tools:** terminal (3)
@@ -1656,8 +1642,7 @@ created: 2026-05-02
 > **File Paths:** index.js (1)
 > **Analogies:** for instance (1)
 
-#### Using readable streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980)
+#### [Using readable streams](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1825,7 +1810,7 @@ created: 2026-05-02
 >
 > **[6:06](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=366)** And what we're going to do is, we're going to listen inside a process stdin.
 >
-> **[6:11](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=371)** Encase the text and we'll go ahead and call this chunk dot toString dot trim is equal to the word finish.
+> **[6:11](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=371)** Encase the text and we'll go ahead and call this chunk dot toString dot trim is equal to the [[Microsoft Word|word]] finish.
 >
 > **[6:24](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=384)** Then we can actually enter any stream back into flowing mode by typing readStream of the name of the stream resume.
 >
@@ -1839,7 +1824,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=401)** So every time I hit enter, I'm reading one small chunk of the video.
 >
-> **[6:44](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=404)** But, if I type finish and hit enter, the stream enters back into flowing mode and begins to push the rest of the chunks of the video automatically.
+> **[6:44](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=404)** But, if I type finish and hit enter, the stream enters back into flowing mode and begins to push the [[Representational State Transfer (REST)|rest]] of the chunks of the video automatically.
 >
 > **[6:54](https://www.linkedin.com/learning/advanced-node-js/using-readable-streams?u=76281980&t=414)** Readable streams are everywhere.
 >
@@ -1847,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (8), hit (4), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** readstream (14), tostring (2), createreadstream (1)
 > **CLI Commands:** node (8), find (1)
 > **Tools:** terminal (5)
@@ -1856,8 +1841,7 @@ created: 2026-05-02
 > **Env Vars:** tcp (1)
 > **Cross-References:** in the last (1)
 
-#### Writable streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/writable-streams?u=76281980)
+#### [Writable streams](https://www.linkedin.com/learning/advanced-node-js/writable-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1943,7 +1927,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), node (1)
 > **CLI Commands:** make (2), node (1), ls (1)
 > **Code Identifiers:** writestream (3)
 > **Analogies:** just like (2), similar to (1)
@@ -1951,9 +1934,9 @@ created: 2026-05-02
 > **File Paths:** index.js (1)
 > **Env Vars:** http (1)
 > **Tools:** terminal (1)
+> **Prerequisites:** setup (1)
 
-#### Backpressure
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/backpressure?u=76281980)
+#### [Backpressure](https://www.linkedin.com/learning/advanced-node-js/backpressure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2041,7 +2024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), node (2), application (1)
 > **CLI Commands:** node (2), make (1)
 > **Cross-References:** in the last (2)
 > **Tools:** terminal (2)
@@ -2050,8 +2032,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Piping streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/piping-streams?u=76281980)
+#### [Piping streams](https://www.linkedin.com/learning/advanced-node-js/piping-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2127,7 +2108,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (3)
 > **File Paths:** file.txt (3), sample.txt (2), index.js (1)
 > **CLI Commands:** node (3), ls (1), cat (1)
 > **Code Identifiers:** readstream (1), writestream (1)
@@ -2135,8 +2115,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Duplex streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980)
+#### [Duplex streams](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2196,7 +2175,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980&t=167)** We've still copied the file, but the, woops, but the pass through has provided some reporting.
 >
-> **[2:54](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980&t=174)** So duplex streams help us compose streams into pipelines.
+> **[2:54](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980&t=174)** So duplex streams help us [[Jetpack Compose|compose]] streams into pipelines.
 >
 > **[2:59](https://www.linkedin.com/learning/advanced-node-js/duplex-streams?u=76281980&t=179)** Let's say we actually want to slow this whole thing down.
 >
@@ -2260,7 +2239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), node (3), [[Jetpack Compose|Compose]] (2), next (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2)
 > **Definitions:** is a  (3), means that (3)
 > **CLI Commands:** node (3), make (1)
 > **Tools:** terminal (3)
@@ -2268,8 +2247,7 @@ created: 2026-05-02
 > **Code Identifiers:** settimeout (1)
 > **Speakers:** - a (1)
 
-#### Transform streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980)
+#### [Transform streams](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2355,17 +2333,17 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=309)** And we can see that happening here.
 >
-> **[5:12](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=312)** Transform streams are the last stream type available on Node.js that we've covered.
+> **[5:12](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=312)** Transform streams are the last stream type available on [[Node.js]] that we've covered.
 >
 > **[5:16](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=316)** Now there are a lot of transform streams out there, Node.js comes with a zlib package, that's a transform stream that can be used to zip incoming data from the read stream, and send compressed data to the write stream.
 >
-> **[5:29](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=329)** Crypto is an NPM package that has transform streams that can encrypt data chunk by chunk, and then pass encrypted data to the write stream, or decrypt data from a read stream, and pass the decrypted data to the write stream.
+> **[5:29](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=329)** Crypto is an [[npm]] package that has transform streams that can encrypt data chunk by chunk, and then pass encrypted data to the write stream, or decrypt data from a read stream, and pass the decrypted data to the write stream.
 >
 > **[5:41](https://www.linkedin.com/learning/advanced-node-js/transform-streams?u=76281980&t=341)** So transform streams are an essential part of the stream family.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), node (2), [[Node.js]] (2), [[npm]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1)
 > **CLI Commands:** node (4), make (1), npm (1)
 > **Code Identifiers:** xstream (4)
 > **File Paths:** node.js (2), index.js (1)
@@ -2379,8 +2357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Streaming to the browser
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
+#### [Streaming to the browser](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2506,7 +2483,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980&t=301)** There we go, we see our video.
 >
-> **[5:03](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980&t=303)** Now we're displaying this using the HTML five video component.
+> **[5:03](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980&t=303)** Now we're displaying this using the [[HTML]] five video component.
 >
 > **[5:07](https://www.linkedin.com/learning/advanced-node-js/streaming-to-the-browser?u=76281980&t=307)** The browser knows to use that because any requests to local host 3000 returns an MP4 video.
 >
@@ -2524,7 +2501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), node (3), next (2), hit (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **CLI Commands:** make (5), node (3)
 > **Env Vars:** mp4 (5), http (2), html (1)
 > **Tools:** terminal (3), safari (2)
@@ -2533,8 +2510,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Handling range requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980)
+#### [Handling range requests](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2646,7 +2622,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980&t=229)** And then we're gonna take our end value.
 >
-> **[3:51](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980&t=231)** Now, the end value isn't necessarily always gonna be present because as we make range requests, we're actually making a request from a starting position through the rest of the video, so it might not always be there.
+> **[3:51](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980&t=231)** Now, the end value isn't necessarily always gonna be present because as we make range requests, we're actually making a request from a starting position through the [[Representational State Transfer (REST)|rest]] of the video, so it might not always be there.
 >
 > **[4:02](https://www.linkedin.com/learning/advanced-node-js/handling-range-requests?u=76281980&t=242)** So what I wanna do is search for the end value.
 >
@@ -2746,7 +2722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (8), node (2), find (1)
 > **Tools:** safari (5), terminal (3), firefox (1)
 > **Code Identifiers:** writehead (3), filename (2), parseint (1)
@@ -2755,8 +2731,7 @@ created: 2026-05-02
 > **Ports:** :3000 (3)
 > **Env Vars:** http (1), mp4 (1), html5 (1)
 
-#### Forking and uploading streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980)
+#### [Forking and uploading streams](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2784,7 +2759,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980&t=87)** So I'm going to send a response where I write a head and our header will be a 200.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980&t=93)** And this form is gonna be in HTML so our content type is HTML, text HTML.
+> **[1:33](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980&t=93)** And this form is gonna be in [[HTML]] so our content type is HTML, text HTML.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-node-js/forking-and-uploading-streams?u=76281980&t=105)** And for brevity we should serve an HTML file with a full HTML/HTML and doc type.
 >
@@ -2934,7 +2909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (7), data (6), node (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (7)
 > **Env Vars:** html (7), http (2), url (2), mpm (1)
 > **Code Identifiers:** respondwithvideo (3), createserver (1), createwritestream (1), writestreams (1)
 > **CLI Commands:** make (2), node (2), find (1)
@@ -2943,8 +2918,7 @@ created: 2026-05-02
 > **File Paths:** sample.txt (1)
 > **Cross-References:** in the next (1)
 
-#### Parsing multipart/form-data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980)
+#### [Parsing multipart/form-data](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2952,13 +2926,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=6)** And we took our upload request stream and we piped it to several different writable streams.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=11)** So, in this lesson, we're actually gonna handle parsing the multi-part form data and we're gonna use an npm to do that.
+> **[0:11](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=11)** So, in this lesson, we're actually gonna handle parsing the multi-part form data and we're gonna use an [[npm]] to do that.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=18)** The work to parse multi-part requests has been done many times over and it's been published to many different npms, so there's a lot of options when it comes to parsing a multi-part form data request.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=28)** Since we're streaming experts, I've decided to use an npm that also supports streams.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=34)** All right, so I'm gonna come over to my terminal, and before I install multi-party I just want to npm init to create a package.json and I can send it a dash-y just to answer all the questions as yes and then I get a package.json file in my root.
+> **[0:34](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=34)** All right, so I'm gonna come over to my terminal, and before I install multi-party I just want to npm init to create a package.[[JSON]] and I can send it a dash-y just to answer all the questions as yes and then I get a package.json file in my root.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=46)** It's always a good idea to have a package.json file once you start installing things with nmp, so I'm gonna go ahead and do an nmp install multiparty.
 >
@@ -3018,7 +2992,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=206)** So when the part closes we'll just go ahead and let our users know that the file upload was successful.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=212)** So we'll write ahead with a 200 and we will let them know that the content type for this message is going to be text, html text.
+> **[3:32](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=212)** So we'll write ahead with a 200 and we will let them know that the content type for this message is going to be text, [[HTML]] text.
 >
 > **[3:44](https://www.linkedin.com/learning/advanced-node-js/parsing-multipart-form-data?u=76281980&t=224)** And then we will just end the response by sending a heading one.
 >
@@ -3062,7 +3036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[npm]] (4), [[JSON]] (3), [[HTML]] (2), application (1)
+> **Frameworks & Libraries:** [[npm]] (4), [[JSON]] (3), [[HTML]] (2)
 > **CLI Commands:** npm (4), make (3), find (3), node (1)
 > **File Paths:** package.json (3)
 > **Tools:** terminal (3)
@@ -3076,20 +3050,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=0)** - [Alex] Thank you for joining me for Advanced Node.js.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=0)** - [Alex] Thank you for joining me for Advanced [[Node.js]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=3)** I hope you can use this knowledge to build Node.js applications that work more efficiently, and I also hope that you stream everything everywhere you can from here on out.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=12)** If you're looking for more opportunities to improve your Node skills, I've created a course on design patterns in Node.js.
+> **[0:12](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=12)** If you're looking for more opportunities to improve your Node skills, I've created a course on [[Design Patterns]] in Node.js.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=18)** Design patterns are proven techniques for implementing highly reusable code.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=22)** They are foundational to most NPM libraries.
+> **[0:22](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=22)** They are foundational to most [[npm]] libraries.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-node-js/next-steps?u=76281980&t=24)** If you're interested in learning how to implement popular design patterns with Node.js, I'd recommend this course.
 >
@@ -3101,7 +3074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (5), [[Design Patterns]] (4), node (1), [[npm]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (5), [[Design Patterns]] (4), [[npm]] (1)
 > **CLI Commands:** node (6), npm (1)
 > **File Paths:** node.js (5)
 > **Env Vars:** npm (1)

@@ -76,36 +76,34 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Increase your productivity with Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980)
+#### [Increase your productivity with Microsoft 365](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=0)** - [Instructor] The ability to work from anywhere at any time is important to many, whether for convenience or to maintain a competitive advantage in this ever-evolving technological world.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=11)** With Microsoft 365, you can access your email, your contacts, your calendar, and work with all your important Office documents from virtually anywhere on any connected device.
+> **[0:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=11)** With [[Microsoft 365]], you can access your email, your contacts, your calendar, and work with all your important [[Microsoft Office|Office]] documents from virtually anywhere on any connected device.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=23)** Welcome to Learning Microsoft 365.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=26)** I'm David Rivers, and this course is designed to get you introduced to the many features and functions of this subscription-based service from Microsoft, and to help you decide if this way of accessing the Office suite is right for you.
+> **[0:26](https://www.linkedin.com/learning/learning-microsoft-365-24042203/increase-your-productivity-with-microsoft-365?u=76281980&t=26)** I'm David Rivers, and this course is designed to get you introduced to the many features and functions of this subscription-based service from [[Microsoft]], and to help you decide if this way of accessing the Office suite is right for you.
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Microsoft 365]] (2), [[Microsoft Office|Office]] (2), [[Microsoft]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to know before starting this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980)
+#### [What to know before starting this course](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=0)** - [Presenter] Here's what you need to know to follow along with me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=3)** Firstly, the course is tailored to those who are or will be end users of Microsoft 365, logging into their accounts to work with various apps available to them in their organization.
+> **[0:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=3)** Firstly, the course is tailored to those who are or will be end users of [[Microsoft 365]], logging into their accounts to work with various apps available to them in their organization.
 >
 > **[0:15](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=15)** So we won't be getting into any of the functions an administrator might use to deploy Microsoft 365 in an organization.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=23)** Check the LinkedIn library for courses tailored to Microsoft 365 administration, if that's of interest to you.
+> **[0:23](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=23)** Check the [[LinkedIn]] library for courses tailored to Microsoft 365 administration, if that's of interest to you.
 >
 > **[0:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-to-know-before-starting-this-course?u=76281980&t=30)** There are many different Microsoft 365 subscription models to choose from, which we'll get into a little bit later on.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[LinkedIn]] (1), business (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[LinkedIn]] (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [presenter] (1)
@@ -145,22 +143,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Microsoft 365?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980)
+#### [What is Microsoft 365?](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=0)** - [Instructor] Before we log in and start working with Microsoft 365, which we will do in a moment, you might be wondering what exactly is Microsoft 365?
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=0)** - [Instructor] Before we log in and start working with [[Microsoft 365]], which we will do in a moment, you might be wondering what exactly is Microsoft 365?
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=9)** And more importantly, what's the difference between Microsoft 365 and the Microsoft Office Suite?
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=9)** And more importantly, what's the difference between Microsoft 365 and the [[Microsoft Office]] Suite?
 >
 > **[0:16](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=16)** Well, a simple definition of Microsoft 365 might be a hosted collaboration and productivity suite.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=25)** Hosted, meaning everything you need is online and accessible from virtually anywhere because it's not necessarily installed locally on your computer, like a standalone version of Microsoft Office out at the box would be.
 >
-> **[0:39](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=39)** And the collaboration and productivity part means you get anywhere access to your emails, your contacts, calendar, and web-based versions of the Office Suite apps like Word, Excel, PowerPoint, Outlook, and OneNote.
+> **[0:39](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=39)** And the collaboration and productivity part means you get anywhere access to your emails, your contacts, calendar, and web-based versions of the [[Microsoft Office|Office]] Suite apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and [[OneNote]].
 >
-> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=53)** And because Microsoft 365 includes OneDrive and SharePoint connectivity, sharing and collaborating on the files you create with these web apps has never been easier.
+> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=53)** And because Microsoft 365 includes [[Microsoft OneDrive|OneDrive]] and [[SharePoint]] connectivity, sharing and collaborating on the files you create with these web apps has never been easier.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-microsoft-365-24042203/what-is-microsoft-365?u=76281980&t=64)** So let's switch over now to Microsoft 365.
 >
@@ -204,21 +201,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (11), web (3), [[Microsoft Office|Office]] (3), [[Microsoft Office]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Microsoft Office|Office]] (3), [[Microsoft Office]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Excel|Excel]] (2)
 > **Prerequisites:** install (4)
 > **Analogies:** for example (1), picture (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choose the right plan
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980)
+#### [Choose the right plan](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=0)** - [Instructor] Depending on your own personal or business scenario, there are a number of different Microsoft 365 plans to choose from with different services you can subscribe to each with their own pricing structures.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=0)** - [Instructor] Depending on your own personal or business scenario, there are a number of different [[Microsoft 365]] plans to choose from with different services you can subscribe to each with their own pricing structures.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=13)** You can even choose a plan that allows you to purchase Microsoft's AI functionality called Copilot as an add-on.
+> **[0:13](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=13)** You can even choose a plan that allows you to purchase [[Microsoft]]'s AI functionality called [[Microsoft Copilot|Copilot]] as an add-on.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=20)** Now, the pricing we see at the time of this recording is, of course, always subject to change.
 >
@@ -226,7 +222,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=29)** We'll begin looking at the different home options.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=32)** You can see here when we go to Microsoft 365, products, plans, and pricing, we have two options for home and for business.
+> **[0:32](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=32)** You can see here when we go to Microsoft 365, [[Microsoft Products|products]], plans, and pricing, we have two options for home and for business.
 >
 > **[0:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=42)** And we're going to begin with a couple of home options.
 >
@@ -254,13 +250,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=90)** And as you scroll down, you'll see what you get.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=94)** So plenty including cloud services and web and mobile apps only.
+> **[1:34](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=94)** So plenty including [[Cloud Services]] and web and mobile apps only.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=101)** Now, when we scroll back up to the top and go to the next one over Microsoft 365 Business Standard, you can see the price per user per month goes up, but we do have that ability to add on Copilot for Microsoft 365.
 >
-> **[1:55](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=115)** That's artificial intelligence built right into the apps like Word, PowerPoint, Excel.
+> **[1:55](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=115)** That's [[Artificial Intelligence (AI)|artificial intelligence]] built right into the apps like [[Microsoft Word|Word]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]].
 >
-> **[2:01](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=121)** And as we scroll down, you can see we get everything that comes with the basic plan plus desktop versions of Word, Excel, PowerPoint, and Outlook.
+> **[2:01](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=121)** And as we scroll down, you can see we get everything that comes with the basic plan plus desktop versions of Word, Excel, PowerPoint, and [[Microsoft Outlook|Outlook]].
 >
 > **[2:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=130)** And as we scroll a little further down, there's Copilot mentioned again, you'll see desktop web, and mobile apps, and secure cloud services.
 >
@@ -278,33 +274,32 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=179)** We do get the desktop versions of Word, Excel, PowerPoint, and Outlook.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=183)** You do get cloud storage, and anytime phone, and web support.
+> **[3:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=183)** You do get [[Cloud Storage]], and anytime phone, and web support.
 >
 > **[3:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=188)** So of course this is going to be much more affordable per person or per user per month, but it does give you an option for business when you might be working, for example, as a sole proprietor or very small business.
 >
 > **[3:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=204)** Now, once you've decided which plan is best for you or your business, you'll want to make sure you're equipped to run the service properly.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=211)** In the next movie, we'll explore the system requirements for running Microsoft 365 either from a Windows PC or from a Mac.
+> **[3:31](https://www.linkedin.com/learning/learning-microsoft-365-24042203/choose-the-right-plan?u=76281980&t=211)** In the next movie, we'll explore the system requirements for running Microsoft 365 either from a [[Windows]] PC or from a Mac.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (11), [[Microsoft 365]] (6), [[Microsoft Copilot|Copilot]] (4), cloud (3), web (3)
+> **Frameworks & Libraries:** [[Microsoft 365]] (6), [[Microsoft Copilot|Copilot]] (4), [[Microsoft Word|Word]] (3), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** scroll down (3), go to (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### System requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980)
+#### [System requirements](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=0)** - [Instructor] Before getting started with Microsoft 365 and subscribing to the plan that best suits our needs, we'll want to be sure our computer or computers are going to meet the system requirements to run the subscription service properly.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=0)** - [Instructor] Before getting started with [[Microsoft 365]] and subscribing to the plan that best suits our needs, we'll want to be sure our computer or computers are going to meet the system requirements to run the subscription service properly.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=14)** For Microsoft 365 Business Basic, that's the plan that offers core cloud services and only the online or web versions of the office suite of apps, the focus will be on your browser requirements.
+> **[0:14](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=14)** For Microsoft 365 Business Basic, that's the plan that offers core [[Cloud Services]] and only the online or web versions of the [[Microsoft Office|office]] suite of apps, the focus will be on your browser requirements.
 >
-> **[0:27](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=27)** Microsoft 365 is designed to work with the latest version of Microsoft Edge, but if you use Firefox, for example, you'll want to be using the most recent version or immediately previous version of that.
+> **[0:27](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=27)** Microsoft 365 is designed to work with the latest version of [[Microsoft]] Edge, but if you use Firefox, for example, you'll want to be using the most recent version or immediately previous version of that.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=41)** It's best to simply keep these up to date when updates are available.
 >
@@ -316,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=64)** Now if you decide to go with one of the plans that offer full installations of the Office Suite, your requirements change.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=71)** We'll begin with installing Microsoft 365 on a Windows computer.
+> **[1:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=71)** We'll begin with installing Microsoft 365 on a [[Windows]] computer.
 >
 > **[1:16](https://www.linkedin.com/learning/learning-microsoft-365-24042203/system-requirements?u=76281980&t=76)** You'll need Windows 8.1,10 or even better, version 11.
 >
@@ -348,7 +343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft Office|Office]] (4), [[Windows]] (3), business (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (8), [[Microsoft Office|Office]] (4), [[Windows]] (3), [[Microsoft]] (2), [[Cloud Services]] (1)
 > **Env Vars:** ram (2), x86 (1), sse2 (1)
 > **Prerequisites:** you'll need (3), getting started (1)
 > **Analogies:** for example (2), just like (1)
@@ -362,16 +357,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign in to Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980)
+#### [Sign in to Microsoft 365](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=0)** - [Instructor] Well, it's time to get your Microsoft 365 account, if you don't have one already, and get signed in.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=0)** - [Instructor] Well, it's time to get your [[Microsoft 365]] account, if you don't have one already, and get signed in.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=6)** That's what we're going to do in this movie.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=9)** I'm on a Windows PC here with my browser open to [office.com](https://office.com).
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=9)** I'm on a [[Windows]] PC here with my browser open to [[[Microsoft Office|office]].com](https://office.com).
 >
 > **[0:15](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=15)** You can do the same thing.
 >
@@ -437,11 +431,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=180)** And this'll give us quick access to files we've worked with.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=183)** Notice, because we're in Microsoft 365, those files could be Excel files.
+> **[3:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=183)** Notice, because we're in Microsoft 365, those files could be [[Microsoft Excel|Excel]] files.
 >
-> **[3:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=188)** I have a OneNote, Visio, Word files.
+> **[3:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=188)** I have a [[OneNote]], Visio, [[Microsoft Word|Word]] files.
 >
-> **[3:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=190)** There's PowerPoint down below.
+> **[3:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=190)** There's [[Microsoft PowerPoint|PowerPoint]] down below.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-microsoft-365-24042203/sign-in-to-microsoft-365?u=76281980&t=192)** So if you need to go back to something you've worked on previously, you can access it directly from here.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Office|Office]] (4), next (3), [[Microsoft Excel|Excel]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (7), [[Microsoft Office|Office]] (4), [[Microsoft Excel|Excel]] (2), [[Windows]] (1), [[OneNote]] (1)
 > **URLs:** [office.com](https://office.com) (4), [red30tech.com](https://red30tech.com) (1)
 > **Cross-References:** go back to (3), we talked about (2)
 > **Prerequisites:** install (3)
@@ -472,12 +466,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Set up your profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980)
+#### [Set up your profile](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=0)** - [David] Because Microsoft 365 is Cloud-based, it's ideal for working with others online, perhaps sharing files or collaborating on a project.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=0)** - [David] Because [[Microsoft 365]] is Cloud-based, it's ideal for working with others online, perhaps sharing files or collaborating on a project.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=10)** If that's the case for you, you'll want to be easy to find, and that means always having your profile up to date with as much information about you as possible.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=123)** So let's start there.
 >
-> **[2:05](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=125)** From here you'll see a link to upload a new photo, and this allows you to go browsing to all the areas of your computer or things that you might be connected to, like OneDrive for example.
+> **[2:05](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=125)** From here you'll see a link to upload a new photo, and this allows you to go browsing to all the areas of your computer or things that you might be connected to, like [[Microsoft OneDrive|OneDrive]] for example.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=137)** I'm on a Mac, so I see access to iCloud.
 >
@@ -537,7 +530,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=166)** Notice there is a slider for zooming in.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=169)** So if you wanted to change the view here, you can zoom in or out.
+> **[2:49](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=169)** So if you wanted to change the view here, you can [[Zoom]] in or out.
 >
 > **[2:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/set-up-your-profile?u=76281980&t=173)** Because this is a small photo, I don't have that option.
 >
@@ -645,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Microsoft OneDrive|Onedrive]] (3), cloud (1), application (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (11), [[Microsoft OneDrive|Onedrive]] (3), [[Zoom]] (1)
 > **Analogies:** picture (5), for example (3)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Definitions:** is a  (3), is called (1)
@@ -654,12 +647,11 @@ created: 2026-05-02
 > **Code Identifiers:** icloud (1)
 > **Cross-References:** go back to (1)
 
-#### Install the client apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980)
+#### [Install the client apps](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=0)** - [Instructor] As you now know, Microsoft 365 offers a number of different subscription plans.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=0)** - [Instructor] As you now know, [[Microsoft 365]] offers a number of different subscription plans.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=6)** Some of them allow you to download the desktop versions of the apps that come with your subscription.
 >
@@ -671,9 +663,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=33)** I'm working with a business professional subscription, so I see things like Visio, for example, that many wouldn't see.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=41)** You can always click explore all your apps to open up a tab that will show all of the apps you have access to with your subscription, but you can select apps from here, such as Microsoft Word.
+> **[0:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=41)** You can always click explore all your apps to open up a tab that will show all of the apps you have access to with your subscription, but you can select apps from here, such as [[Microsoft Word]].
 >
-> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=53)** So as a demo, we'll click Word, which opens up a separate tab up here and opens up the online version of Word where we can create new documents based on templates, access existing documents that we may have worked on recently under the recommended area.
+> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=53)** So as a demo, we'll click [[Microsoft Word|Word]], which opens up a separate tab up here and opens up the online version of Word where we can create new documents based on templates, access existing documents that we may have worked on recently under the recommended area.
 >
 > **[1:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=70)** And if we do that, we'll see another tab open up with the online version of Microsoft Word.
 >
@@ -697,7 +689,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=144)** It could take a moment to show you the options you have available to you through your subscription plan.
 >
-> **[2:32](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=152)** Eventually, you'll see the options for the apps and devices you can install; including, for me, Office.
+> **[2:32](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=152)** Eventually, you'll see the options for the apps and devices you can install; including, for me, [[Microsoft Office|Office]].
 >
 > **[2:39](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=159)** And you can see an install Office button right here.
 >
@@ -705,13 +697,13 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=166)** In my case, I'm working with a Mac.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=169)** You could be on a Windows PC as well and have access to those versions of the desktop apps.
+> **[2:49](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=169)** You could be on a [[Windows]] PC as well and have access to those versions of the desktop apps.
 >
 > **[2:55](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=175)** You can also see that in my case, using a Mac, that it is supported on the three most recent versions of Mac operating system.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=184)** And if I'm using an older one, there's a link to download older versions that will work on an older Mac.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=191)** So you can go through the process of installing Office by clicking the button and you'll be prompted to install Microsoft Office locally on your own computer.
+> **[3:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=191)** So you can go through the process of installing Office by clicking the button and you'll be prompted to install [[Microsoft Office]] locally on your own computer.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=202)** Now once that's done, we can close this up.
 >
@@ -741,25 +733,24 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=296)** Now you'll notice that because I've launched it from Microsoft 365, Auto Save is turned on.
 >
-> **[5:02](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=302)** It's automatically being saved to my OneDrive in the cloud, and I am logged in to Microsoft Word, even though I'm using the desktop version in my Microsoft 365 account; which means I can close up Word or I can use, on my Mac, command tab to switch over and close up this message, continue working on it here as well.
+> **[5:02](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=302)** It's automatically being saved to my [[Microsoft OneDrive|OneDrive]] in the cloud, and I am logged in to Microsoft Word, even though I'm using the desktop version in my Microsoft 365 account; which means I can close up Word or I can use, on my Mac, command tab to switch over and close up this message, continue working on it here as well.
 >
 > **[5:26](https://www.linkedin.com/learning/learning-microsoft-365-24042203/install-the-client-apps?u=76281980&t=326)** Or, close it up from here if I wanted to by closing the tab in my browser, knowing that I'm working on that file on the desktop version I was able to download through the install and more button here on Microsoft 365, because I have the appropriate subscription plan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (7), [[Microsoft Word|Word]] (7), [[Microsoft 365]] (6), [[Microsoft Office|Office]] (3), web (2)
+> **Frameworks & Libraries:** [[Microsoft Word]] (7), [[Microsoft Word|Word]] (7), [[Microsoft 365]] (6), [[Microsoft Office|Office]] (3), [[Windows]] (1)
 > **Prerequisites:** install (7)
 > **UI Navigation:** go to (4), dropdown (2)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **Best Practices:** recommended (2)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate from app to app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980)
+#### [Navigate from app to app](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=0)** - [Instructor] When you subscribe to Microsoft 365, you get access to the online version of the Microsoft 365 apps.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=0)** - [Instructor] When you subscribe to [[Microsoft 365]], you get access to the online version of the Microsoft 365 apps.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=7)** And depending on the plan you choose, the apps you have access to will vary.
 >
@@ -781,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=48)** But you also have a link to explore all of the apps you have access to with your plan.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=53)** And if you wanted to start an Excel file, you simply choose the Excel icon.
+> **[0:53](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=53)** And if you wanted to start an [[Microsoft Excel|Excel]] file, you simply choose the Excel icon.
 >
 > **[0:57](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=57)** One click opens up a new tab in your browser, and we're going to arrive at the Excel home screen.
 >
@@ -795,7 +786,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=84)** But if you're following along with me, click Blank Workbook, and you'll see a new tab open up.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=89)** And we're working with the online version of Microsoft Excel.
+> **[1:29](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=89)** And we're working with the online version of [[Microsoft Excel]].
 >
 > **[1:33](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=93)** If you want to have another Excel file open at the same time, you can go right back to this tab at the top and start a new one, perhaps using a template or access an existing one.
 >
@@ -803,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=112)** So now we have our home screen open and our Excel file.
 >
-> **[1:56](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=116)** If we wanted to start working on a Word document simultaneously, maybe one that's related to what we're doing in Excel, you don't have to go back to your home screen and find the Word icon and launch it from there.
+> **[1:56](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=116)** If we wanted to start working on a [[Microsoft Word|Word]] document simultaneously, maybe one that's related to what we're doing in Excel, you don't have to go back to your home screen and find the Word icon and launch it from there.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/navigate-from-app-to-app?u=76281980&t=129)** You can actually do it right from within Excel.
 >
@@ -841,25 +832,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Microsoft Word|Word]] (8), [[Microsoft 365]] (4), [[Microsoft Excel]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Microsoft Word|Word]] (8), [[Microsoft 365]] (4), [[Microsoft Excel]] (1)
 > **Cross-References:** go back to (2)
 > **Exercise Files:** template (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Storing files with OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980)
+#### [Storing files with OneDrive](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=0)** - [Instructor] We now know that Microsoft 365 is cloud-based and comes with online versions of the Microsoft apps, some of which we might be able to download as desktop versions.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=0)** - [Instructor] We now know that [[Microsoft 365]] is cloud-based and comes with online versions of the [[Microsoft]] apps, some of which we might be able to download as desktop versions.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=11)** And when connected to the cloud and signed into our account, our files will be stored in the cloud as well.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=20)** But where exactly and how do we find them?
 >
-> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=22)** That's what we're going to explore in this movie as we look at OneDrive.
+> **[0:22](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=22)** That's what we're going to explore in this movie as we look at [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=27)** You can be at the home screen here in Microsoft 365 like me and go to the app launcher to find OneDrive.
 >
@@ -869,13 +859,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=46)** If you're like me who works for an organization, Red30 Tech, that subscribes to a business version of Microsoft 365, you get OneDrive for business.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=57)** You might want to write that one down if you're taking notes and remember it for down the road because OneDrive for Business gives us cloud storage as well, but the ability to share and collaborate with others.
+> **[0:57](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=57)** You might want to write that one down if you're taking notes and remember it for down the road because OneDrive for Business gives us [[Cloud Storage]] as well, but the ability to share and collaborate with others.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=69)** So with OneDrive opened up, we're next going to go to My Files.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=73)** With Home selected, we see access to files we may have worked on recently, but with My Files selected, we're going to be able to go in and look at our file structure.
 >
-> **[1:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=84)** This would be like going into File Explorer in a Windows PC or Finder on a Mac computer.
+> **[1:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=84)** This would be like going into File Explorer in a [[Windows]] PC or Finder on a Mac computer.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=90)** Here, we're working in the cloud though, so you'll see your own folders.
 >
@@ -901,7 +891,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=144)** So let's go to the app launcher right here in OneDrive.
 >
-> **[2:26](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=146)** We don't have to go back to our home screen, just click it from here and click Word.
+> **[2:26](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=146)** We don't have to go back to our home screen, just click it from here and click [[Microsoft Word|Word]].
 >
 > **[2:31](https://www.linkedin.com/learning/learning-microsoft-365-24042203/storing-files-with-onedrive?u=76281980&t=151)** It's going to open up a new tab here, which will take us to the home screen with Word selected, and we'll create a blank document.
 >
@@ -971,7 +961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), cloud (9), [[Microsoft Word|Word]] (5), [[Microsoft 365]] (4), business (4)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), [[Microsoft Word|Word]] (5), [[Microsoft 365]] (4), [[Windows]] (2), [[Microsoft]] (1)
 > **UI Navigation:** go to (4), dropdown (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (1), later in (1)
@@ -984,14 +974,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add and share files on OneDrive
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980)
+#### [Add and share files on OneDrive](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=0)** - [Instructor] Microsoft 365 is cloud-based, and every account comes with cloud storage.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=0)** - [Instructor] [[Microsoft 365]] is cloud-based, and every account comes with [[Cloud Storage]].
 >
-> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=6)** For example, Home and Personal users or subscribers of Microsoft 365 get their own personal OneDrive.
+> **[0:06](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=6)** For example, Home and Personal users or subscribers of Microsoft 365 get their own personal [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:13](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=13)** If you run out of space, you can always pay for more.
 >
@@ -1043,7 +1032,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=150)** I can go right to the share button, over here to the right, opens up a dialogue where it can add names of people in the organization using OneDrive for Business, or type in emails of people who aren't contacts.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=162)** For example, if I wanted to share it with Laura Davis in my organization, I just start typing the name and she appears on the list, but I'm only going to share it with one person outside the organization, KarenrLeslie@[outlook.com](https://outlook.com).
+> **[2:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=162)** For example, if I wanted to share it with Laura Davis in my organization, I just start typing the name and she appears on the list, but I'm only going to share it with one person outside the organization, KarenrLeslie@[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[2:58](https://www.linkedin.com/learning/learning-microsoft-365-24042203/add-and-share-files-on-onedrive?u=76281980&t=178)** Once her name appears, I can select it to lock her in.
 >
@@ -1109,7 +1098,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), cloud (8), [[Microsoft 365]] (6), business (4), [[Microsoft Outlook|Outlook]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft 365]] (6), [[Cloud Storage]] (3), [[Microsoft Outlook|Outlook]] (2)
 > **Env Vars:** jpeg (4)
 > **UI Navigation:** go to (2), navigate to (1), select the (1)
 > **Analogies:** for example (3), it's like (1)
@@ -1118,14 +1107,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SharePoint to share information
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980)
+#### [Use SharePoint to share information](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=0)** - [Instructor] We now know that OneDrive is an excellent tool for uploading files to the cloud and then if you want to share those files with others.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=0)** - [Instructor] We now know that [[Microsoft OneDrive|OneDrive]] is an excellent tool for uploading files to the cloud and then if you want to share those files with others.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=9)** Another option to those who subscribe to Microsoft 365 with one of the business subscription models is SharePoint.
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=9)** Another option to those who subscribe to [[Microsoft 365]] with one of the business subscription models is [[SharePoint]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=17)** SharePoint will allow you to create an entire site that you can then share with others.
 >
@@ -1167,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=123)** You can share resources and even collaborate or co-author content.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=129)** All site owners and members of this site, once you create it and share it with people, will be able to publish site content and connect to other Microsoft 365 products.
+> **[2:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=129)** All site owners and members of this site, once you create it and share it with people, will be able to publish site content and connect to other Microsoft 365 [[Microsoft Products|products]].
 >
 > **[2:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=140)** On the other hand, you might just want to communicate with people, and a Communication site, when you create one of those, allows you to share information with a broad audience.
 >
@@ -1183,7 +1171,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=170)** You can do the same if you want.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=172)** Now, there are templates you can choose from Microsoft or others from your own organization.
+> **[2:52](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=172)** Now, there are templates you can choose from [[Microsoft]] or others from your own organization.
 >
 > **[2:57](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=177)** For example, if you have a color scheme that you use in your organization, you would select from your organization to access those.
 >
@@ -1213,7 +1201,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=247)** And of course, this site will get its own web address.
 >
-> **[4:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=251)** So, when we click Next, we get to choose from privacy settings.
+> **[4:11](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=251)** So, when we click Next, we get to choose from [[Privacy]] settings.
 >
 > **[4:16](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=256)** Only members can access this site.
 >
@@ -1245,13 +1233,13 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=315)** But your new site will appear in this same tab where you started creating it.
 >
-> **[5:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=320)** And once you have your site, it's just a matter now of going through the different categories we see on the left hand side to start conversations, upload documents, create OneNote notebooks that people can access, or pages.
+> **[5:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=320)** And once you have your site, it's just a matter now of going through the different categories we see on the left hand side to start conversations, upload documents, create [[OneNote]] notebooks that people can access, or pages.
 >
 > **[5:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=337)** And you can see all the way down to Edit where we go to edit the site.
 >
 > **[5:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=342)** This is where we could go to change the members, for example, the template, the look and feel of our site.
 >
-> **[5:48](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=348)** Now, there's plenty of training on LinkedIn Learning that covers SharePoint and all the things you can do with it.
+> **[5:48](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=348)** Now, there's plenty of training on [[LinkedIn]] Learning that covers SharePoint and all the things you can do with it.
 >
 > **[5:54](https://www.linkedin.com/learning/learning-microsoft-365-24042203/use-sharepoint-to-share-information?u=76281980&t=354)** We don't have time to get into everything, but at least we've created our site.
 >
@@ -1263,7 +1251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (2), cloud (2), business (2)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft 365]] (6), [[Microsoft OneDrive|Onedrive]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (6), similar to (1)
 > **UI Navigation:** go to (3), scroll down (1), dropdown (1)
 > **Exercise Files:** template (3)
@@ -1272,14 +1260,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborate with desktop apps in Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980)
+#### [Collaborate with desktop apps in Microsoft 365](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=0)** - [Narrator] If you've been following along, you know that some Microsoft 365 subscriptions give you access to the desktop version of the Microsoft apps.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=0)** - [Narrator] If you've been following along, you know that some [[Microsoft 365]] subscriptions give you access to the desktop version of the [[Microsoft]] apps.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=9)** So you can download Word, Excel, PowerPoint, Outlook, and more and use them on your computer, getting full functionality that you might not get in the online versions of those apps.
+> **[0:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=9)** So you can download [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and more and use them on your computer, getting full functionality that you might not get in the online versions of those apps.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=20)** But that doesn't mean you don't have access to all of the cloud-based functionality as well.
 >
@@ -1291,7 +1278,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=43)** They'll launch automatically in the appropriate app.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=46)** For example, this document I edited recently, clicking it launches a new tab in the browser, gives me the online version of Microsoft Word where I can start working with this document.
+> **[0:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=46)** For example, this document I edited recently, clicking it launches a new tab in the browser, gives me the online version of [[Microsoft Word]] where I can start working with this document.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=58)** I'm just going to double click the year.
 >
@@ -1301,13 +1288,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=74)** So I might want to launch this in the desktop version.
 >
-> **[1:18](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=78)** I don't have to leave here, find the Word app, launch it, and then go through the routine of navigating to the location of this file somewhere on my OneDrive and opening it.
+> **[1:18](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=78)** I don't have to leave here, find the Word app, launch it, and then go through the routine of navigating to the location of this file somewhere on my [[Microsoft OneDrive|OneDrive]] and opening it.
 >
 > **[1:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=90)** I can do it all from right in here in the online version of Microsoft Word by going up to the Editing dropdown up here in the top right and selecting Open in Desktop App.
 >
 > **[1:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=102)** It's going to launch Microsoft Word, the desktop version, here on my Mac.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=107)** If you're on a Windows computer, you'll see the Windows version.
+> **[1:47](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=107)** If you're on a [[Windows]] computer, you'll see the Windows version.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-microsoft-365-24042203/collaborate-with-desktop-apps-in-microsoft-365?u=76281980&t=110)** And you'll notice the change appears up here, and we are connected to OneDrive.
 >
@@ -1373,23 +1360,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (4), cloud (4), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (4), [[Microsoft Word|Word]] (3), [[Microsoft Word]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (1), we talked about (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [narrator] (1)
 
-#### Consider Copilot for Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980)
+#### [Consider Copilot for Microsoft 365](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=0)** - [Instructor] One thing worth mentioning when it comes to your Microsoft 365 subscription is functionality that's relatively new to Microsoft.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=0)** - [Instructor] One thing worth mentioning when it comes to your [[Microsoft 365]] subscription is functionality that's relatively new to [[Microsoft]].
 >
-> **[0:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=8)** It's called Copilot.
+> **[0:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=8)** It's called [[Microsoft Copilot|Copilot]].
 >
-> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=10)** Now, Copilot is an optional add-on for business subscription plans that will give you access to artificial intelligence built right into some of the Microsoft apps when you use them.
+> **[0:10](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=10)** Now, Copilot is an optional add-on for business subscription plans that will give you access to [[Artificial Intelligence (AI)|artificial intelligence]] built right into some of the Microsoft apps when you use them.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=20)** It's like having your own AI assistant at your side.
 >
@@ -1399,7 +1385,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=36)** Clicking this will take us right to Copilot.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=40)** Now, Copilot is accessible in apps like Teams, Word, Outlook, PowerPoint, Excel, and other apps as well.
+> **[0:40](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=40)** Now, Copilot is accessible in apps like Teams, [[Microsoft Word|Word]], [[Microsoft Outlook|Outlook]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Excel|Excel]], and other apps as well.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=47)** And we can use it to do all kinds of cool things like make a request in Outlook to have Copilot summarize a long email, or summarize a long conversation in teams, transform ideas into brilliant slides in PowerPoint, get expert analysis and insights on your data in Excel, or do things in Word like summarize documents or create drafts.
 >
@@ -1455,15 +1441,15 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=189)** Knowing that Copilot is going to save you a lot of time and a lot of effort if you decide it's something you want to add on to your subscription.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=199)** Now, if it sounds interesting to you and you'd like to see it in action, LinkedIn Learning has you covered.
+> **[3:19](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=199)** Now, if it sounds interesting to you and you'd like to see it in action, [[LinkedIn]] Learning has you covered.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=204)** The best place to start learning about Copilot is a learning path called "Get Started with Microsoft Copilot."
+> **[3:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=204)** The best place to start learning about Copilot is a learning path called "Get Started with [[Microsoft Copilot]]."
 >
 > **[3:32](https://www.linkedin.com/learning/learning-microsoft-365-24042203/consider-copilot-for-microsoft-365?u=76281980&t=212)** Not only will the courses in this path introduce you to Copilot, but also show you how you can use it in the various Microsoft apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft]] (3), [[Microsoft Word|Word]] (3), [[Microsoft 365]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft]] (3), [[Microsoft Word|Word]] (3), [[Microsoft 365]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (2), is a  (2)
 > **Analogies:** it's like (1), for example (1)
@@ -1475,16 +1461,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Join or create a team in Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980)
+#### [Join or create a team in Microsoft Teams](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=0)** - [Narrator] For those using Microsoft 365 in a business environment and subscribing to one of the business plans, communication and maybe even collaboration with other members of your organization may become important, and that's why Teams is included with those subscriptions to Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=0)** - [Narrator] For those using [[Microsoft 365]] in a business environment and subscribing to one of the business plans, communication and maybe even collaboration with other members of your organization may become important, and that's why Teams is included with those subscriptions to Microsoft 365.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=19)** That's what we're going to explore in this chapter, beginning with how you find Teams, join them and even create your own.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=25)** You can see I'm still logged in here as someone from the Globe Bank and someone who has Copilot and also on this bar, you'll find Teams if you have one of the business subscription plans.
+> **[0:25](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=25)** You can see I'm still logged in here as someone from the Globe Bank and someone who has [[Microsoft Copilot|Copilot]] and also on this bar, you'll find Teams if you have one of the business subscription plans.
 >
 > **[0:39](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=39)** If you don't see Teams here and you do subscribe to one of the business plans, click the app launcher.
 >
@@ -1532,7 +1517,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=154)** You can search for others.
 >
-> **[2:35](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=155)** I know that there's a Shanghai office that I would like to be a part of.
+> **[2:35](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=155)** I know that there's a Shanghai [[Microsoft Office|office]] that I would like to be a part of.
 >
 > **[2:39](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=159)** Start typing that in.
 >
@@ -1584,7 +1569,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=270)** Once we have our teams, we can start adding posts, sharing files, creating notes, and a whole lot more.
 >
-> **[4:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=277)** On LinkedIn Learning, you can get full-blown courses on how to use Teams.
+> **[4:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=277)** On [[LinkedIn]] Learning, you can get full-blown courses on how to use Teams.
 >
 > **[4:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/join-or-create-a-team-in-microsoft-teams?u=76281980&t=282)** So what we do here in this chapter is going to be a nice introduction and of course, communication's important.
 >
@@ -1592,7 +1577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (17), business (4), [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft 365]] (2), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
@@ -1601,14 +1586,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Schedule a meeting with team members
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980)
+#### [Schedule a meeting with team members](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=0)** - [Instructor] When you become a member of a team in any environment, the odds are you're going to have meetings with other team members.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=8)** Well, here in Teams as part of Microsoft 365, we can have meetings, schedule them in a calendar, or even host them online.
+> **[0:08](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=8)** Well, here in Teams as part of [[Microsoft 365]], we can have meetings, schedule them in a calendar, or even host them online.
 >
 > **[0:16](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=16)** So as part of communication with team members, meetings are important.
 >
@@ -1724,11 +1708,11 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=294)** This is just the tip of the iceberg of the things you can do with Teams and scheduling meetings.
 >
-> **[5:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=300)** Keep in mind that LinkedIn Learning has all of the information and courses that will help you dig deeper into the features and functionality of scheduling meetings here in Teams.
+> **[5:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/schedule-a-meeting-with-team-members?u=76281980&t=300)** Keep in mind that [[LinkedIn]] Learning has all of the information and courses that will help you dig deeper into the features and functionality of scheduling meetings here in Teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[Microsoft 365]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** dropdown (2), go to (1)
 > **Analogies:** such as (2), for example (1)
 > **Ports:** :30 (1), :00 (1)
@@ -1737,12 +1721,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Env Vars:** rsvp (1)
 
-#### Share files with team members
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980)
+#### [Share files with team members](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=0)** - [Instructor] Teams can be created here in Microsoft 365 for any number of scenarios.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=0)** - [Instructor] Teams can be created here in [[Microsoft 365]] for any number of scenarios.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=5)** You could be working on a committee.
 >
@@ -1780,7 +1763,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=91)** Clicking the Open button, it's going to upload it into this location, so the folder will no longer be empty.
 >
-> **[1:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=97)** You can see it shows up here on the list, and simply clicking it is going to launch Excel Online here on Microsoft 365, so we can take a look at it.
+> **[1:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=97)** You can see it shows up here on the list, and simply clicking it is going to launch [[Microsoft Excel|Excel]] Online here on Microsoft 365, so we can take a look at it.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/share-files-with-team-members?u=76281980&t=106)** You can see some other options, including a Share button.
 >
@@ -1814,18 +1797,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), [[Microsoft 365]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** dropdown (1), go to (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chat with team members
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980)
+#### [Chat with team members](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=0)** - [Instructor] When working with team members in a team here in Microsoft 365, there may be times when you need to share information instantaneously or hold a private conversation immediately.
+> **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=0)** - [Instructor] When working with team members in a team here in [[Microsoft 365]], there may be times when you need to share information instantaneously or hold a private conversation immediately.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=12)** These are things we're going to cover in this movie.
 >
@@ -1859,7 +1841,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=95)** But really, all we want to do is go over here to the left hand side where we'll see existing chats, if any have been started already and I don't have any, but clicking this icon to start a new chat.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=106)** Alt + N on a Windows PC, Option + N on a Mac computer.
+> **[1:46](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=106)** Alt + N on a [[Windows]] PC, Option + N on a Mac computer.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=111)** We'll open up a brand new chat.
 >
@@ -1913,17 +1895,17 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=256)** You'll need to confirm by clicking Delete again and it disappears from your list of chats.
 >
-> **[4:22](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=262)** So when you need to communicate either publicly or privately with people on the team, you have a couple of options here in Microsoft Teams.
+> **[4:22](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=262)** So when you need to communicate either publicly or privately with people on the team, you have a couple of options here in [[Microsoft Teams]].
 >
 > **[4:30](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=270)** We can add posts, which are public announcements, or use Chat to have private conversations.
 >
 > **[4:37](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=277)** Again, we can go much deeper with these features here in Microsoft Teams.
 >
-> **[4:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=281)** And there are many courses available to you on LinkedIn Learning specific to Teams.
+> **[4:41](https://www.linkedin.com/learning/learning-microsoft-365-24042203/chat-with-team-members?u=76281980&t=281)** And there are many courses available to you on [[LinkedIn]] Learning specific to Teams.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Windows]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Microsoft Teams]] (2), [[Microsoft 365]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1935,18 +1917,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to learn more
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980)
+#### [Where to learn more](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=0)** - [David] Well, congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=1)** You've reached the end of learning Microsoft 365.
+> **[0:01](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=1)** You've reached the end of learning [[Microsoft 365]].
 >
 > **[0:04](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=4)** You should now have a good understanding of what Microsoft 365 is all about and feel ready to make a decision on whether it's right for you.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=12)** If you do decide to go the route of subscribing to Microsoft 365 as opposed to buying and installing Office software, your next step will be to decide on an appropriate plan.
+> **[0:12](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=12)** If you do decide to go the route of subscribing to Microsoft 365 as opposed to buying and installing [[Microsoft Office|Office]] software, your next step will be to decide on an appropriate plan.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=24)** Home users have their different plan options while business users have a number of plans to choose from as well.
 >
@@ -1956,11 +1937,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=42)** No need for installing and configuring any of the Office software.
 >
-> **[0:47](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=47)** Next, you might want to consider whether Copilot would be a good option to add onto your subscription.
+> **[0:47](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=47)** Next, you might want to consider whether [[Microsoft Copilot|Copilot]] would be a good option to add onto your subscription.
 >
 > **[0:52](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=52)** Remember, not every user gets it, just those who are willing to pay an extra $30 a month, at least at the time of this recording.
 >
-> **[1:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=60)** And of course, you can check out LinkedIn Learning for more in-depth training on many of the components and individual applications of Microsoft 365, including Copilot, to take your learning to the next level.
+> **[1:00](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=60)** And of course, you can check out [[LinkedIn]] Learning for more in-depth training on many of the components and individual applications of Microsoft 365, including Copilot, to take your learning to the next level.
 >
 > **[1:13](https://www.linkedin.com/learning/learning-microsoft-365-24042203/where-to-learn-more?u=76281980&t=73)** This is David Rivers saying thanks for watching.
 >
@@ -1968,7 +1949,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (5), next (4), [[Microsoft Office|Office]] (2), [[Microsoft Copilot|Copilot]] (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft 365]] (5), [[Microsoft Office|Office]] (2), [[Microsoft Copilot|Copilot]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Best Practices:** don't forget (1)

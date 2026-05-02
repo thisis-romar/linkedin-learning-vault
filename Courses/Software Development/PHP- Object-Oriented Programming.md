@@ -104,12 +104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PHP: OOP techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
+#### [PHP: OOP techniques](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=0)** - [Kevin] Welcome to PHP Object-Oriented Programming.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=0)** - [Kevin] Welcome to [[PHP]] [[Object-Oriented Programming (OOP)|Object-Oriented Programming]].
 >
 > **[0:03](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=3)** My name is Kevin Skoglund.
 >
@@ -129,26 +128,25 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=43)** This is an intermediate course, which will assume that you already know the basics of PHP.
 >
-> **[0:48](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=48)** If you need to review your skills, [[PHP Essential Training]] and PHP with MySQL Essential Training Parts One and Two will prepare you with everything you need to know for this course.
+> **[0:48](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=48)** If you need to review your skills, [[PHP Essential Training]] and PHP with [[MySQL]] Essential Training Parts One and Two will prepare you with everything you need to know for this course.
 >
 > **[0:58](https://www.linkedin.com/learning/php-object-oriented-programming-2017/php-oop-techniques?u=76281980&t=58)** Once you're ready, let's get started learning PHP Object-Oriented Programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), oop (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[MySQL]] (1)
 > **CLI Commands:** php (6), mysql (1)
 > **Env Vars:** php (6), oop (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [kevin] (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980&t=0)** - [Instructor] This course includes exercise files.
 >
-> **[0:03](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980&t=3)** In order to make use of these exercise files, you want to first make sure that you have PHP installed and working.
+> **[0:03](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980&t=3)** In order to make use of these exercise files, you want to first make sure that you have [[PHP]] installed and working.
 >
 > **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/how-to-use-the-exercise-files-14621610?u=76281980&t=9)** You can find the exercise files that correspond to the movie that you're watching by first looking for the chapter number and then the movie number.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Exercise Files:** exercise files (8)
 > **CLI Commands:** make (4), php (1), find (1)
 > **Env Vars:** php (1)
@@ -186,18 +184,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is OOP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
+#### [What is OOP?](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=0)** - [Instructor] Let's begin by talking about what is OOP.
 >
-> **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=4)** OOP is an abbreviation for object-oriented programming.
+> **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=4)** OOP is an abbreviation for [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=9)** Object-oriented programming is a type of programming where we define data structures, those are the objects, which can hold both values and functions.
+> **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=9)** Object-oriented programming is a type of programming where we define [[Data Structures]], those are the objects, which can hold both values and functions.
 >
-> **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=18)** PHP is a scripting language or a procedural language.
+> **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=18)** [[PHP]] is a scripting language or a procedural language.
 >
 > **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=21)** If you've been using PHP already, then you've been setting variables and you've been defining functions.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=103)** Well, in the simplest sense, objects are simply grouping code together by a common theme.
 >
-> **[1:48](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=108)** So if you think back to some of the work we've done in the past where we were working with forms that people are submitting, we write functions that relate to those forms.
+> **[1:48](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=108)** So if you think back to some of the work we've done in the past where we were working with [[Forms]] that people are submitting, we write functions that relate to those forms.
 >
 > **[1:56](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=116)** We could take all of those functions and roll them up into a form object, and then our code would be grouped together by a common theme.
 >
@@ -249,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=132)** And this is probably a more common use than just grouping them together by some basic theme.
 >
-> **[2:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=138)** If we have a website that's selling products, then we would probably have a customer object and that would be an abstraction for the real world customer object.
+> **[2:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=138)** If we have a website that's selling [[Microsoft Products|products]], then we would probably have a customer object and that would be an abstraction for the real world customer object.
 >
 > **[2:28](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=148)** We would probably also have a product object that we're selling the customer, a shopping cart object, a credit card object, and so on.
 >
@@ -305,7 +302,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=286)** And they also allow us to emphasize the data over the procedure.
 >
-> **[4:51](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=291)** The objects have certain characteristics, and they react a certain way based on those characteristics.
+> **[4:51](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=291)** The objects have certain characteristics, and they [[React.js|react]] a certain way based on those characteristics.
 >
 > **[4:57](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-oop-14626500?u=76281980&t=297)** And objects allow us to have modular, reusable code.
 >
@@ -317,7 +314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), product (4), oop (3), data (3)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (7), [[Data Structures]] (2), [[Forms]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** php (9), oop (3)
 > **CLI Commands:** php (9), find (1), make (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
@@ -326,8 +323,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Project set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980)
+#### [Project set up](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -337,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=10)** That's the default directory that your web server will use to serve up documents to the browser.
 >
-> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=15)** If you've been working in PHP, chances are you know where that is right away.
+> **[0:15](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=15)** If you've been working in [[PHP]], chances are you know where that is right away.
 >
 > **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=19)** That's the place we're going to be locating our files.
 >
@@ -373,7 +369,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=110)** And then in Adam, I'll be able to look at it in a project view.
 >
-> **[1:53](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=113)** You'll see that I've got this basic .html file which is just a simple HTML template that we can grab and reuse as needed.
+> **[1:53](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=113)** You'll see that I've got this basic .[[HTML]] file which is just a simple HTML template that we can grab and reuse as needed.
 >
 > **[1:59](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-set-up?u=76281980&t=119)** I frequently have those in my projects as well.
 >
@@ -405,7 +401,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), web (5), [[Programming]] (2), [[HTML]] (2)
+> **Frameworks & Libraries:** [[PHP]] (9), [[HTML]] (2)
 > **CLI Commands:** php (9), make (3), find (1)
 > **Env Vars:** php (7), html (1)
 > **Code Identifiers:** oop_sandbox (3), php_test (2)
@@ -419,12 +415,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define a class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
+#### [Define a class](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=0)** - [Instructor] In this movie, we will learn how to define a class in PHP.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=0)** - [Instructor] In this movie, we will learn how to define a class in [[PHP]].
 >
 > **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=4)** A class provides the definition of an object.
 >
@@ -492,7 +487,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=155)** I'm going to use Student.
 >
-> **[2:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=157)** So, again, remember you want to use singular nouns, and if you have something that's sort of a hyphenated or multi-word noun, like StudentProfile or StudentSchedule, you want to make sure that you use capitals for the second word as well.
+> **[2:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=157)** So, again, remember you want to use singular nouns, and if you have something that's sort of a hyphenated or multi-[[Microsoft Word|word]] noun, like StudentProfile or StudentSchedule, you want to make sure that you use capitals for the second word as well.
 >
 > **[2:53](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-class-14625471?u=76281980&t=173)** I'm just going to use Student for this one.
 >
@@ -580,7 +575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), [[Microsoft Word|Word]] (2), product (2), oop (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** php (9), make (4)
 > **Code Identifiers:** class_exists (3), class_name (3), get_declared_classes (2), class_example (2), class_names (2)
 > **Env Vars:** php (7), oop (1)
@@ -589,16 +584,15 @@ created: 2026-05-02
 > **Best Practices:** best practice (2)
 > **Cross-References:** in the next (1)
 
-#### Instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980)
+#### [Instances](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=0)** - [Instructor] In this movie, we'll learn how to use our class definition to create an instance.
 >
-> **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=5)** Let's begin with the definition for this word instance in general use an instance is a single occurrence of something.
+> **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=5)** Let's begin with the definition for this [[Microsoft Word|word]] instance in general use an instance is a single occurrence of something.
 >
-> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=13)** When we're talking about object-oriented programming that single occurrence of something is a single object created from a class definition.
+> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=13)** When we're talking about [[Object-Oriented Programming (OOP)|object-oriented programming]] that single occurrence of something is a single object created from a class definition.
 >
 > **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=21)** So we're going to be using this word instance a lot and you'll hear the terms object and instance used interchangeably.
 >
@@ -616,7 +610,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=56)** That means to create an instance, note that the class name here is not string once a class has been declared.
 >
-> **[1:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=64)** We can call it by its name in PHP.
+> **[1:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=64)** We can call it by its name in [[PHP]].
 >
 > **[1:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/instances-14621603?u=76281980&t=67)** Creating a new object is almost always done while also assigning that object to a variable here we're assigning it to the variable person one.
 >
@@ -742,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3), product (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Microsoft Word|Word]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
 > **Definitions:** is a  (7), is called (1)
 > **CLI Commands:** php (5), make (2)
 > **Env Vars:** php (3), oop (1)
@@ -751,8 +745,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1)
 > **Tools:** firefox (1)
 
-#### Class properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980)
+#### [Class properties](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=18)** They mean the same thing.
 >
-> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=19)** They're even used interchangeably inside the PHP documentation.
+> **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=19)** They're even used interchangeably inside the [[PHP]] documentation.
 >
 > **[0:23](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=23)** So don't be confused if you see it called properties one place and attributes somewhere else.
 >
@@ -828,7 +821,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=169)** And when we read it back, it'll return the new value.
 >
-> **[2:52](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=172)** Properties is where object-oriented programming gets its power because now, each of our instances that we create can be different and unique.
+> **[2:52](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=172)** Properties is where [[Object-Oriented Programming (OOP)|object-oriented programming]] gets its power because now, each of our instances that we create can be different and unique.
 >
 > **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=180)** We can have a thousand instances of the person object and every single one of them can have a different first name and a last name, and therefore behave differently because of it.
 >
@@ -940,7 +933,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=432)** So print_r's going to let us really inspect that array and a nice pretty format.
 >
-> **[7:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=437)** I'll just copy this line and make this an ending HTML tag.
+> **[7:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=437)** I'll just copy this line and make this an ending [[HTML]] tag.
 >
 > **[7:22](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-properties-14621605?u=76281980&t=442)** Pre tags will help preserve the formatting that print_r puts out so we can see that nicely.
 >
@@ -1014,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), power (1), oop (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[HTML]] (1)
 > **Code Identifiers:** first_name (7), property_exists (4), last_name (4), get_class_vars (3), object_vars (3)
 > **CLI Commands:** make (4), php (3)
 > **Env Vars:** php (1), oop (1), pre (1), html (1)
@@ -1023,8 +1016,7 @@ created: 2026-05-02
 > **Analogies:** just like (2)
 > **Tools:** firefox (1)
 
-#### Class methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980)
+#### [Class methods](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1028,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980&t=14)** When they're inside a class they're correctly called methods.
 >
-> **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980&t=18)** Now you're going to see those two terms used interchangeably all time, even in the PHP documentation.
+> **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980&t=18)** Now you're going to see those two terms used interchangeably all time, even in the [[PHP]] documentation.
 >
 > **[0:23](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-methods-14621607?u=76281980&t=23)** So don't get too hung up on it.
 >
@@ -1168,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **Code Identifiers:** get_class_methods (1), method_exists (1), class_methods (1), say_hello (1)
 > **CLI Commands:** php (2), make (1)
 > **Definitions:** is a  (2), we call this (1)
@@ -1177,8 +1169,7 @@ created: 2026-05-02
 > **File Paths:** class_methods.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Refer to an instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980)
+#### [Refer to an instance](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1191,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980&t=49)** Instead we get back a notice about undefined variables for first name and last name.
 >
-> **[0:54](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980&t=54)** What's going on is that first name and last name are just simple variable names in PHP and PHP doesn't know that it's looking for an object and the properties of the object.
+> **[0:54](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980&t=54)** What's going on is that first name and last name are just simple variable names in [[PHP]] and PHP doesn't know that it's looking for an object and the properties of the object.
 >
 > **[1:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-an-instance-14621608?u=76281980&t=64)** It's treating them like simple variables.
 >
@@ -1277,8 +1268,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Properties and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980)
+#### [Challenge: Properties and methods](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1290,7 +1280,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980&t=12)** Defining classes, adding properties, and adding methods.
 >
-> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980&t=17)** To do that, I want you to create a new file inside your Sandbox, which is going to be called challenge_01.php.
+> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980&t=17)** To do that, I want you to create a new file inside your Sandbox, which is going to be called challenge_01.[[PHP]].
 >
 > **[0:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-properties-and-methods-14627441?u=76281980&t=26)** Inside that file, you'll define a new class for a bicycle.
 >
@@ -1340,7 +1330,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** weight_kg (2), weight_lbs (2), set_weight_lbs (2)
 > **CLI Commands:** find (3), php (1), make (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -1349,8 +1339,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Properties and methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980)
+#### [Solution: Properties and methods](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1360,7 +1349,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=9)** If not, follow along with me as I show you the solution that I came up with.
 >
-> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=13)** So the first thing that I did was I created a new file inside our OOP sandbox directory called challenge_01.php.
+> **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=13)** So the first thing that I did was I created a new file inside our OOP sandbox directory called challenge_01.[[PHP]].
 >
 > **[0:22](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=22)** And I opened up some PHP tags and I started defining a class.
 >
@@ -1372,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=37)** That's the way we want to name our classes, singular nouns with capital letters.
 >
-> **[0:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=41)** If we have more than one word together, we do camel case.
+> **[0:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=41)** If we have more than one [[Microsoft Word|word]] together, we do camel case.
 >
 > **[0:45](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-properties-and-methods-14623523?u=76281980&t=45)** Then I've got my curly braces and then I've got a list of the different properties that I want to declare.
 >
@@ -1528,7 +1517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), oop (1), [[Microsoft Word|Word]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (6), short for (3)
 > **CLI Commands:** php (3), make (1), cd (1)
 > **Code Identifiers:** weight_lbs (2), set_weight_lbs (2), weight_kg (1)
@@ -1542,8 +1531,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is inheritance?
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
+#### [What is inheritance?](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1617,7 +1605,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980&t=158)** Document would be called the parent class, and ProductBrochure and WarrantyDocument would be the subclasses.
 >
-> **[2:44](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980&t=164)** Parent can also be called superclass, but in PHP we're going to stick with the term parent, because we're actually going to us that name later in our code.
+> **[2:44](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980&t=164)** Parent can also be called superclass, but in [[PHP]] we're going to stick with the term parent, because we're actually going to us that name later in our code.
 >
 > **[2:52](https://www.linkedin.com/learning/php-object-oriented-programming-2017/what-is-inheritance-14622580?u=76281980&t=172)** Both ProductBrochure and WarrantyDocument will inherit the same properties and methods from Document.
 >
@@ -1642,12 +1630,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Define a subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-subclass-14621609?u=76281980)
+#### [Define a subclass](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-subclass-14621609?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-subclass-14621609?u=76281980&t=0)** - [Instructor] Now that we have an overview of how class inheritance works and why we want to use it, let's learn to actually implement it in PHP by defining a subclass.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-subclass-14621609?u=76281980&t=0)** - [Instructor] Now that we have an overview of how class inheritance works and why we want to use it, let's learn to actually implement it in [[PHP]] by defining a subclass.
 >
 > **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/define-a-subclass-14621609?u=76281980&t=9)** The way that you define a subclass in PHP is by first defining the parent class, just like you normally would and then you define the subclass in the same way, except that you add another keyword after the class name, which is extends and then the name of the parent class that you want to inherit it from.
 >
@@ -1787,7 +1774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), next (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **CLI Commands:** php (7), make (6), find (1)
 > **Env Vars:** php (6)
 > **Code Identifiers:** is_subclass_of (1), get_parent_class (1), is_sub_class_of (1), class_inheritance (1)
@@ -1796,8 +1783,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** firefox (1)
 
-#### Extend and override
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980)
+#### [Extend and override](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1829,7 +1815,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980&t=92)** When I was designing this, I decided that that was a property that was applicable to the Car class, but not to vehicles generally, and certainly not to motorcycles.
 >
-> **[1:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980&t=101)** This is an example of how we can not only inherent values from a parent class, but we can extend the behavior by adding more code into the subclass, and that's part of why we use that word extends as a keyword when we're creating subclasses.
+> **[1:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980&t=101)** This is an example of how we can not only inherent values from a parent class, but we can extend the behavior by adding more code into the subclass, and that's part of why we use that [[Microsoft Word|word]] extends as a keyword when we're creating subclasses.
 >
 > **[1:54](https://www.linkedin.com/learning/php-object-oriented-programming-2017/extend-and-override-14620652?u=76281980&t=114)** We're extending the behaviors by either overriding them or adding new things, and the same is true for methods as well.
 >
@@ -1911,21 +1897,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** is_admin (4), full_name (3), is_good_for (1), oop_sandbox (1), admin_user (1)
 > **Definitions:** is a  (3), means that (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980)
+#### [Challenge: Inheritance](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980&t=0)** - [Narrator] It's time for another Challenge assignment.
 >
-> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980&t=8)** For this Challenge, I want you to try creating PHP classes which use inheritance.
+> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980&t=8)** For this Challenge, I want you to try creating [[PHP]] classes which use inheritance.
 >
 > **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-inheritance-14623519?u=76281980&t=13)** I'm not going to give you a set of classes for you to work with.
 >
@@ -2014,8 +1999,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Inheritance
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980)
+#### [Solution: Inheritance](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2057,7 +2041,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=122)** Once I had an idea of the hierarchy that I wanted to use and I had a sense of the attributes that would be shared between the different classes, then I set out to write the code for it.
 >
-> **[2:11](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=131)** The first thing that I did was I created a new file inside the sandbox called challenge_02.php, and I set out to write my Furniture class, so I gave it a width, a depth, and a height property, and I gave it methods for area and volume.
+> **[2:11](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=131)** The first thing that I did was I created a new file inside the sandbox called challenge_02.[[PHP]], and I set out to write my Furniture class, so I gave it a width, a depth, and a height property, and I gave it methods for area and volume.
 >
 > **[2:27](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=147)** Then I also added properties for is_seating and is_sleeper, which default to false.
 >
@@ -2119,7 +2103,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=312)** So even though its definition is quite simple, there's lots and lots of complexity there, and if in the future I come back and I add more methods or properties to Furniture, while they're automatically going to appear in all of these different sub classes.
 >
-> **[5:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=326)** That's one of the advantages to using inheritance in object-oriented programming.
+> **[5:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=326)** That's one of the advantages to using inheritance in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
 > **[5:30](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-inheritance-14625470?u=76281980&t=330)** I can show you an example of that.
 >
@@ -2177,7 +2161,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **Code Identifiers:** is_sleeper (5), is_seating (3), is_upholstered (3), depth_opened (3), inspect_class (2)
 > **Definitions:** is a  (4), means that (1)
 > **CLI Commands:** php (2), find (1), make (1)
@@ -2191,12 +2175,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visibility modifiers
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
+#### [Visibility modifiers](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=0)** - [Instructor] In this chapter, we will learn about PHP's visibility modifiers.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=0)** - [Instructor] In this chapter, we will learn about [[PHP]]'s visibility modifiers.
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=5)** Visibility modifiers are used to control access to objects, properties, and methods.
 >
@@ -2224,7 +2207,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=79)** Instead, I declare it with this visibility modifier, public, protected, or private.
 >
-> **[1:25](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=85)** Now, if we use var, it's the same thing as being public by default, but it's a better practice to actually use the word public than to use var.
+> **[1:25](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=85)** Now, if we use var, it's the same thing as being public by default, but it's a better practice to actually use the [[Microsoft Word|word]] public than to use var.
 >
 > **[1:33](https://www.linkedin.com/learning/php-object-oriented-programming-2017/visibility-modifiers-14623521?u=76281980&t=93)** We've been using var so far only because we didn't know about visibility modifiers yet.
 >
@@ -2478,7 +2461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (2), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (6), php (4), find (1)
 > **Env Vars:** php (4), oop (1)
 > **Definitions:** means that (1), is an  (1), is a  (1)
@@ -2487,12 +2470,11 @@ created: 2026-05-02
 > **Code Identifiers:** hello_world (1)
 > **UI Navigation:** click on (1)
 
-#### Beware of overloading
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/beware-of-overloading-14621612?u=76281980)
+#### [Beware of overloading](https://www.linkedin.com/learning/php-object-oriented-programming-2017/beware-of-overloading-14621612?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/beware-of-overloading-14621612?u=76281980&t=0)** - [Instructor] In this movie, we'll talk about a feature of PHP called overloading and we're going to learn why overloading can make it confusing when you want to control visibility.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/beware-of-overloading-14621612?u=76281980&t=0)** - [Instructor] In this movie, we'll talk about a feature of [[PHP]] called overloading and we're going to learn why overloading can make it confusing when you want to control visibility.
 >
 > **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/beware-of-overloading-14621612?u=76281980&t=9)** First, let me demonstrate the issue.
 >
@@ -2632,7 +2614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), feature (2), [[Programming]] (2), product (2)
+> **Frameworks & Libraries:** [[PHP]] (5)
 > **CLI Commands:** php (5), make (1), find (1)
 > **Env Vars:** php (4), fmt (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -2641,12 +2623,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is a  (1)
 
-#### Setter and getter methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/setter-and-getter-methods-14623520?u=76281980)
+#### [Setter and getter methods](https://www.linkedin.com/learning/php-object-oriented-programming-2017/setter-and-getter-methods-14623520?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/setter-and-getter-methods-14623520?u=76281980&t=0)** - [Instructor] In this movie, we're going to talk about another concept in PHP called setter and getter methods.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/setter-and-getter-methods-14623520?u=76281980&t=0)** - [Instructor] In this movie, we're going to talk about another concept in [[PHP]] called setter and getter methods.
 >
 > **[0:06](https://www.linkedin.com/learning/php-object-oriented-programming-2017/setter-and-getter-methods-14623520?u=76281980&t=6)** This folds right in with what we've been talking about, about visibility.
 >
@@ -2756,15 +2737,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[PHP]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** php (1), make (1)
 > **Code Identifiers:** set_name (1), get_name (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-access-control-14620653?u=76281980)
+#### [Challenge: Access control](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-access-control-14620653?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2818,7 +2798,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** weight_kg (2), wheel_details (1), weight_lbs (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -2826,9 +2805,9 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (techno music) (1)
 
-#### Solution: Access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980)
+#### [Solution: Access control](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2836,7 +2815,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980&t=9)** Let me show you my solution.
 >
-> **[0:11](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980&t=11)** The first part of the challenge was simply to copy the class definition for Bicycle that we had created in challenge_01.php.
+> **[0:11](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980&t=11)** The first part of the challenge was simply to copy the class definition for Bicycle that we had created in challenge_01.[[PHP]].
 >
 > **[0:19](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-access-control-14627440?u=76281980&t=19)** So I created a new file called challenge_03.php, I went to challenge_01.php, and I just grabbed that class definition, pasted it over here.
 >
@@ -3042,7 +3021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), next (2), parallel (1)
+> **Frameworks & Libraries:** [[PHP]] (7)
 > **Code Identifiers:** weight_kg (7), bug_test (3), wheel_string (2), wheel_details (1), weight_lbs (1)
 > **CLI Commands:** php (7), make (4)
 > **File Paths:** challenge_01.php (2), challenge_03.php (2)
@@ -3056,8 +3035,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The static modifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
+#### [The static modifier](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3075,7 +3053,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=31)** So for example, if I have a student class I can have a static property for grades by putting the static keyword in front of it, in the same place where we put our visibility modifiers in the last chapter.
 >
-> **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=42)** And then I can have a static method called motto by putting static in front of the word function.
+> **[0:42](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=42)** And then I can have a static method called motto by putting static in front of the [[Microsoft Word|word]] function.
 >
 > **[0:48](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=48)** The idea is the grades property is holding data that is related to the class as a whole.
 >
@@ -3151,7 +3129,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=244)** If we did instantiate an object of this class it's important to realize that we cannot access the static properties from that instance.
 >
-> **[4:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=252)** The static methods are accessible from an instance but it's a quirk of PHP and you shouldn't do it.
+> **[4:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=252)** The static methods are accessible from an instance but it's a quirk of [[PHP]] and you shouldn't do it.
 >
 > **[4:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/the-static-modifier-14620655?u=76281980&t=258)** It's considered a bad practice.
 >
@@ -3235,7 +3213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (1), data (1), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (7), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (7), make (4)
 > **Env Vars:** php (5), oop (1)
 > **File Paths:** static_modifiers.php (2)
@@ -3244,8 +3222,7 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Cross-References:** in the last (1)
 
-#### Inherited static behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980)
+#### [Inherited static behaviors](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3287,7 +3264,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980&t=103)** Changes that I made to the sub class also happened on the parent class because it's a shared variable.
 >
-> **[1:50](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980&t=110)** This is important to understand because I think it trips up every single PHP developer at some point.
+> **[1:50](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980&t=110)** This is important to understand because I think it trips up every single [[PHP]] developer at some point.
 >
 > **[1:56](https://www.linkedin.com/learning/php-object-oriented-programming-2017/inherited-static-behaviors-14625469?u=76281980&t=116)** For example, here's another common use case.
 >
@@ -3393,7 +3370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (2)
 > **Env Vars:** php (3), oop (1)
 > **Definitions:** defined as (1), means that (1)
@@ -3402,14 +3379,13 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
 
-#### Class constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980)
+#### [Class constants](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn about class constants.
 >
-> **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980&t=4)** You've probably been using constants before in PHP.
+> **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980&t=4)** You've probably been using constants before in [[PHP]].
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/class-constants-14621613?u=76281980&t=7)** They're used for values which don't change.
 >
@@ -3544,8 +3520,7 @@ created: 2026-05-02
 > **File Paths:** class_constants.php (1)
 > **Code Identifiers:** class_constants (1)
 
-#### Refer to the parent class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980)
+#### [Refer to the parent class](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3649,7 +3624,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=323)** Let's try these examples in our sandbox just so we can see them.
 >
-> **[5:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=326)** I've already included a modified version of the code that we just looked at inside the file, parent.PHP, which is in the exercise files.
+> **[5:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=326)** I've already included a modified version of the code that we just looked at inside the file, parent.[[PHP]], which is in the exercise files.
 >
 > **[5:35](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=335)** So, you can see, I have my Chef class, I have my make dinner method, I've also added just a BR tag at the end here, just so we'll get a new line.
 >
@@ -3701,11 +3676,11 @@ created: 2026-05-02
 >
 > **[7:03](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=423)** And, this time the parent is handling it instead of the child.
 >
-> **[7:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=427)** The idea of calling the parent class and especially these two design patterns, the idea of either extending a method, or falling back to a method, are important to have in your PHP toolbox.
+> **[7:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/refer-to-the-parent-class-14624483?u=76281980&t=427)** The idea of calling the parent class and especially these two [[Design Patterns]], the idea of either extending a method, or falling back to a method, are important to have in your PHP toolbox.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), feature (1), business (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Design Patterns]] (1)
 > **CLI Commands:** make (10), php (3)
 > **Env Vars:** php (3)
 > **Analogies:** just like (2), for example (1)
@@ -3714,8 +3689,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (2)
 > **Cross-References:** we talked about (1)
 
-#### Late static bindings
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980)
+#### [Late static bindings](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3755,7 +3729,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=87)** Why is it still telling us that there's two wheels instead of one?
 >
-> **[1:31](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=91)** The reason why is because PHP by default uses something called static bindings.
+> **[1:31](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=91)** The reason why is because [[PHP]] by default uses something called static bindings.
 >
 > **[1:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=97)** With static bindings, static references are resolved using the class in which the method was defined.
 >
@@ -3765,7 +3739,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=117)** But the downside is that it prevents inheriting those static references because no matter what we do, self has already been predetermined to refer to the Bicycle class.
 >
-> **[2:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=127)** Even though Unicycle inherits it, PHP uses the word self and it thinks Bicycle.
+> **[2:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=127)** Even though Unicycle inherits it, PHP uses the [[Microsoft Word|word]] self and it thinks Bicycle.
 >
 > **[2:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/late-static-bindings-14621606?u=76281980&t=133)** The solution to this is something called late static bindings.
 >
@@ -3881,7 +3855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (1), hr (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** wheel_details (6), get_class (6), get_called_class (4), identity_test (3), late_static_bindings (1)
 > **CLI Commands:** php (8), make (2)
 > **Env Vars:** php (7)
@@ -3890,8 +3864,7 @@ created: 2026-05-02
 > **File Paths:** late_static_bindings.php (1)
 > **Versions:** php 5 (1)
 
-#### Challenge: Static references
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980)
+#### [Challenge: Static references](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3903,7 +3876,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=14)** In order to do this challenge we're going to be reusing the bicycle and the unicycle classes that we created in the last challenge.
 >
-> **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=21)** So the very first thing you want to do is create a new file called challenge_ 04.php, then you'll go and open up challenge_ 03.php and copy those classes for bicycle and unicycle into the new file then you'll be ready for the challenge.
+> **[0:21](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=21)** So the very first thing you want to do is create a new file called challenge_ 04.[[PHP]], then you'll go and open up challenge_ 03.php and copy those classes for bicycle and unicycle into the new file then you'll be ready for the challenge.
 >
 > **[0:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=37)** There are a couple of different parts to this challenge.
 >
@@ -3963,7 +3936,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=192)** Get creative.
 >
-> **[3:14](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=194)** The point is to try and implement these two design patterns.
+> **[3:14](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=194)** The point is to try and implement these two [[Design Patterns]].
 >
 > **[3:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-static-references-14624480?u=76281980&t=197)** If you need help, you can go back to the movie on referring to the parent class to get some ideas.
 >
@@ -3973,7 +3946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Design Patterns]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Design Patterns]] (1)
 > **CLI Commands:** make (6), php (4)
 > **Env Vars:** php (2), bmx (1)
 > **Cross-References:** in the last (1), go back to (1), in the next (1)
@@ -3982,8 +3955,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Solution: Static references
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980)
+#### [Solution: Static references](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3993,7 +3965,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980&t=10)** Now, let me show you the solution that I came up with.
 >
-> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980&t=12)** The first thing I did was set up for the challenge which meant going into challenge_03.php and grabbing both the Bicycle class and the Unicycle class and putting those into a new file called challenge_04.php.
+> **[0:12](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980&t=12)** The first thing I did was set up for the challenge which meant going into challenge_03.[[PHP]] and grabbing both the Bicycle class and the Unicycle class and putting those into a new file called challenge_04.php.
 >
 > **[0:26](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-static-references-14627442?u=76281980&t=26)** Then I could start the different parts of the challenge.
 >
@@ -4207,12 +4179,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Constructor method
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
+#### [Constructor method](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980&t=0)** - [Instructor] In this chapter, we're going to be talking about a number of different magic methods that are built into PHP.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980&t=0)** - [Instructor] In this chapter, we're going to be talking about a number of different magic methods that are built into [[PHP]].
 >
 > **[0:06](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-method-14622579?u=76281980&t=6)** We'll begin by talking about what's probably the most important and most commonly used, which is the constructor method.
 >
@@ -4340,7 +4311,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), product (1)
+> **Frameworks & Libraries:** [[PHP]] (6)
 > **CLI Commands:** php (6), find (1), make (1)
 > **Env Vars:** php (4)
 > **File Paths:** constructors.php (1)
@@ -4349,8 +4320,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Constructor arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980)
+#### [Constructor arguments](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4358,7 +4328,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980&t=5)** Constructor methods are just methods and methods are really just functions inside an object.
 >
-> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980&t=10)** So it makes sense that we are also able to pass in arguments to them just like we could to any PHP function.
+> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980&t=10)** So it makes sense that we are also able to pass in arguments to them just like we could to any [[PHP]] function.
 >
 > **[0:16](https://www.linkedin.com/learning/php-object-oriented-programming-2017/constructor-arguments-14626496?u=76281980&t=16)** You can see here after the construct method name I have parentheses and I have two arguments, one for name and one for color.
 >
@@ -4556,7 +4526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), data (3), product (1)
+> **Frameworks & Libraries:** [[PHP]] (4)
 > **CLI Commands:** php (4), make (4)
 > **Env Vars:** php (4)
 > **Analogies:** just like (1), for example (1)
@@ -4565,8 +4535,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Destructor method
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980)
+#### [Destructor method](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4586,7 +4555,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=37)** It can be used together with construct as a set of set up and tear down methods, although in truth, you're going to use construct much more frequently than you will destruct.
 >
-> **[0:46](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=46)** And the reason why is just the nature of how we use objects in PHP.
+> **[0:46](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=46)** And the reason why is just the nature of how we use objects in [[PHP]].
 >
 > **[0:50](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=50)** Most of the time we instantiate a new object, we work with it throughout the script and then at the end we return the result back to the user and we don't worry about what happens to those objects.
 >
@@ -4644,7 +4613,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=172)** All right, so that's all it's going to do.
 >
-> **[2:54](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=174)** Whenever an instance is destroyed, we should see the word bye.
+> **[2:54](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=174)** Whenever an instance is destroyed, we should see the [[Microsoft Word|word]] bye.
 >
 > **[2:57](https://www.linkedin.com/learning/php-object-oriented-programming-2017/destructor-method-14620650?u=76281980&t=177)** So let's go back over to our page and let's load it up and let's hit reload.
 >
@@ -4704,7 +4673,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (9), product (2), hit (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[PHP]] (9), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** php (9), make (1), find (1)
 > **Env Vars:** php (9)
 > **Definitions:** refers to (2), is a  (1)
@@ -4713,8 +4682,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** set up (1)
 
-#### Clone method
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980)
+#### [Clone method](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4794,7 +4762,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980&t=173)** And let's do that by creating a new file.
 >
-> **[2:56](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980&t=176)** And I'm going to call this cloning.php.
+> **[2:56](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980&t=176)** And I'm going to call this cloning.[[PHP]].
 >
 > **[3:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/clone-method-14620651?u=76281980&t=180)** And in here, inside our PHP tags, I'm going to make a new class for beverage.
 >
@@ -4904,7 +4872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), hr (2), product (1), parallel (1)
+> **Frameworks & Libraries:** [[PHP]] (2)
 > **CLI Commands:** make (5), php (2)
 > **Definitions:** is called (3), is a  (1)
 > **File Paths:** cloning.php (1)
@@ -4912,14 +4880,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [tutor] (1)
 
-#### Assignment by reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980)
+#### [Assignment by reference](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980&t=0)** - [Instructor] Now that we've learned about cloning, we should pause and take a moment to talk about assignment by reference and a key difference that exists in object-oriented programming.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980&t=0)** - [Instructor] Now that we've learned about cloning, we should pause and take a moment to talk about assignment by reference and a key difference that exists in [[Object-Oriented Programming (OOP)|object-oriented programming]].
 >
-> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980&t=8)** Normally in PHP, values are copied whenever we make an assignment.
+> **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980&t=8)** Normally in [[PHP]], values are copied whenever we make an assignment.
 >
 > **[0:13](https://www.linkedin.com/learning/php-object-oriented-programming-2017/assignment-by-reference-14626498?u=76281980&t=13)** So we have a variable a, we set it equal to one, and we have another variable b, we set it equal to a.
 >
@@ -5023,7 +4990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), product (1), hr (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2)
 > **CLI Commands:** php (8), make (5)
 > **Env Vars:** php (7)
 > **File Paths:** cloning.php (1)
@@ -5031,12 +4998,11 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Compare objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/compare-objects-14626503?u=76281980)
+#### [Compare objects](https://www.linkedin.com/learning/php-object-oriented-programming-2017/compare-objects-14626503?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/php-object-oriented-programming-2017/compare-objects-14626503?u=76281980&t=1)** - [Instructor] In this movie, we'll learn how PHP compares objects.
+> **[0:01](https://www.linkedin.com/learning/php-object-oriented-programming-2017/compare-objects-14626503?u=76281980&t=1)** - [Instructor] In this movie, we'll learn how [[PHP]] compares objects.
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/compare-objects-14626503?u=76281980&t=5)** There are two ways that we can perform comparisons.
 >
@@ -5144,7 +5110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (3), next (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (3)
 > **Code Identifiers:** box_reference (2), box_clone (2), compare_objects (1), box_modified (1)
 > **Env Vars:** php (2)
@@ -5152,12 +5118,11 @@ created: 2026-05-02
 > **File Paths:** compare_objects.php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Autoload undefined classes
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980)
+#### [Autoload undefined classes](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=1)** - [Instructor] In this movie we'll learn how to get PHP to automatically load classes which are undefined.
+> **[0:01](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=1)** - [Instructor] In this movie we'll learn how to get [[PHP]] to automatically load classes which are undefined.
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=7)** The way we're going to do that with another magic method called autoload, __autoload.
 >
@@ -5207,7 +5172,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=208)** The line that's right above that include with preg_match in it, that's just checking to make sure the class name only contains legal characters, we don't want to accidentally end up with something malicious in that string, so this is a good security check.
 >
-> **[3:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=221)** We're basically saying check the string from start to finish and make sure it only contains word characters, capital letters A to Z, lowercase letters a to z, 0 through 9 or underscore.
+> **[3:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=221)** We're basically saying check the string from start to finish and make sure it only contains [[Microsoft Word|word]] characters, capital letters A to Z, lowercase letters a to z, 0 through 9 or underscore.
 >
 > **[3:53](https://www.linkedin.com/learning/php-object-oriented-programming-2017/autoload-undefined-classes-14627438?u=76281980&t=233)** If it only contains those, then it's legit and we can try and look for it in the file system.
 >
@@ -5313,7 +5278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (19), [[Microsoft Word|Word]] (3), [[Security]] (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (19), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** php (19), find (5), make (2)
 > **Env Vars:** php (12), spl (1)
 > **Code Identifiers:** my_autoload (4), spl_autoload_register (2), preg_match (2)
@@ -5327,12 +5292,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
+#### [Project introduction](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=0)** - [Instructor] In this chapter, we're going to apply all of the concepts we've learned about object oriented programming in PHP to a real world project.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=0)** - [Instructor] In this chapter, we're going to apply all of the concepts we've learned about object oriented programming in [[PHP]] to a real world project.
 >
 > **[0:07](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=7)** You'll still have your OOP Sandbox files as reference if you need to review something, but we're going to be starting work in a new directory.
 >
@@ -5356,7 +5320,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=57)** CSV stands for comma separated values and it's a very simple file format where each of the values are separated by commas.
 >
-> **[1:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=64)** And then we're going to use PHP to parse that file and read it in and use object oriented programming to convert that data into HTML that we can put on the website.
+> **[1:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=64)** And then we're going to use PHP to parse that file and read it in and use object oriented programming to convert that data into [[HTML]] that we can put on the website.
 >
 > **[1:15](https://www.linkedin.com/learning/php-object-oriented-programming-2017/project-introduction-14621604?u=76281980&t=75)** Then when they want to update their bikes, they just update the CSV file and the website will update automatically.
 >
@@ -5484,7 +5448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (20), data (4), [[Programming]] (3), [[HTML]] (3), oop (1)
+> **Frameworks & Libraries:** [[PHP]] (20), [[HTML]] (3)
 > **Env Vars:** php (20), csv (7), html (3), oop (1), url (1)
 > **CLI Commands:** php (20), make (2), find (2)
 > **File Paths:** bicycles.php (4), initialize.php (3), about.php (1), index.php (1), functions.php (1)
@@ -5493,8 +5457,7 @@ created: 2026-05-02
 > **Code Identifiers:** chain_gang (1), www_root (1)
 > **Tools:** atom (1)
 
-#### Challenge: The bicycle class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-the-bicycle-class-14622583?u=76281980)
+#### [Challenge: The bicycle class](https://www.linkedin.com/learning/php-object-oriented-programming-2017/challenge-the-bicycle-class-14622583?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5562,7 +5525,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** oop (1), next (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** oop (1), bmx (1)
 > **Code Identifiers:** condition_id (1)
@@ -5571,8 +5533,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: The bicycle class
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980)
+#### [Solution: The bicycle class](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5580,7 +5541,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980&t=11)** Even if you feel confident that you got the right answer, follow along with me to make sure that your solution matches mine.
 >
-> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980&t=17)** The first thing that I did was I created a new file inside this classes directory called bicycle.class.php.
+> **[0:17](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980&t=17)** The first thing that I did was I created a new file inside this classes directory called bicycle.class.[[PHP]].
 >
 > **[0:24](https://www.linkedin.com/learning/php-object-oriented-programming-2017/solution-the-bicycle-class-14625473?u=76281980&t=24)** That's a common standard to name it singular, just like the class name, and to put .class.php, then inside that file, I put my PHP tags, and I defined a class for Bicycle, capital B, singular, then inside of there, I put in my properties.
 >
@@ -5724,7 +5685,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (11), next (2)
+> **Frameworks & Libraries:** [[PHP]] (11)
 > **CLI Commands:** php (11), make (3)
 > **Definitions:** is a  (5), is an  (1), means that (1)
 > **File Paths:** class.php (2), bicycle.class.php (1), initialize.php (1), bicycles.php (1), initialized.php (1)
@@ -5733,14 +5694,13 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), in the next (1)
 > **Best Practices:** the key is (1), good practice (1)
 
-#### From instances to HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980)
+#### [From instances to HTML](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn to create instances of our newly created Bicycle class and to output their properties to the HTML page.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn to create instances of our newly created Bicycle class and to output their properties to the [[HTML]] page.
 >
-> **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980&t=9)** So if as a starting point, we go and we look at the current HTML page that we have, so that's chain_gang/public/bicycles.php.
+> **[0:09](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980&t=9)** So if as a starting point, we go and we look at the current HTML page that we have, so that's chain_gang/public/bicycles.[[PHP]].
 >
 > **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-instances-to-html-14623516?u=76281980&t=18)** Right, you have to make sure you use public, 'cause that's where this is located.
 >
@@ -5948,7 +5908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (8), data (2), next (2), web (1)
+> **Frameworks & Libraries:** [[PHP]] (10), [[HTML]] (8)
 > **CLI Commands:** make (16), php (10)
 > **Env Vars:** html (8), csv (3)
 > **Code Identifiers:** money_format (2), chain_gang (1)
@@ -5957,12 +5917,11 @@ created: 2026-05-02
 > **Tools:** firefox (2)
 > **URLs:** [chaingang.com](https://chaingang.com) (1)
 
-#### Read from a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/read-from-a-csv-file-14622578?u=76281980)
+#### [Read from a CSV file](https://www.linkedin.com/learning/php-object-oriented-programming-2017/read-from-a-csv-file-14622578?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/read-from-a-csv-file-14622578?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how to read from a CSV file using PHP.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/read-from-a-csv-file-14622578?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how to read from a CSV file using [[PHP]].
 >
 > **[0:05](https://www.linkedin.com/learning/php-object-oriented-programming-2017/read-from-a-csv-file-14622578?u=76281980&t=5)** The way that we read from a CSV file is using a built-in PHP function called fgetcsv.
 >
@@ -6182,7 +6141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[PHP]] (8), business (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (8)
 > **CLI Commands:** php (8), make (5), find (1)
 > **Env Vars:** php (5), csv (3)
 > **File Paths:** used_bicycles.csv (2), parsecsv.class.php (1), bicycles.php (1), initialize.php (1)
@@ -6191,8 +6150,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (2), set up (1)
 > **Cross-References:** go back to (1)
 
-#### Improve ParseCSV
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980)
+#### [Improve ParseCSV](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6318,7 +6276,7 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980&t=289)** So we'll just echo back.
 >
-> **[4:51](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980&t=291)** Echo, file not set and return false long as we return, it'll make sure it doesn't keep going with the rest of the parse.
+> **[4:51](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980&t=291)** Echo, file not set and return false long as we return, it'll make sure it doesn't keep going with the [[Representational State Transfer (REST)|rest]] of the parse.
 >
 > **[5:01](https://www.linkedin.com/learning/php-object-oriented-programming-2017/improve-parsecsv-14624482?u=76281980&t=301)** And the one final improvement I want to make is let's just drop down here, right after the row count.
 >
@@ -6346,18 +6304,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (10)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### From a CSV file to instances
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980)
+#### [From a CSV file to instances](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how we take the data that we extracted from a CSV file and turn it into instances that we can then output as HTML.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=0)** - [Instructor] In this movie, we're going to learn how we take the data that we extracted from a CSV file and turn it into instances that we can then output as [[HTML]].
 >
 > **[0:08](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=8)** Now that we've parsed our CSV file, we're actually really close to having a solution.
 >
@@ -6373,7 +6330,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=41)** We essentially need to loop through the bike array.
 >
-> **[0:44](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=44)** So we're going to loop through that bike array by creating a new loop here, PHP.
+> **[0:44](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=44)** So we're going to loop through that bike array by creating a new loop here, [[PHP]].
 >
 > **[0:50](https://www.linkedin.com/learning/php-object-oriented-programming-2017/from-a-csv-file-to-instances-14626502?u=76281980&t=50)** It's going to be a for each loop for each set of items in the bike array.
 >
@@ -6423,7 +6380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), data (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[HTML]] (1)
 > **Env Vars:** csv (6), php (4), html (1)
 > **CLI Commands:** php (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -6435,16 +6392,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Happy Coding
-> [LinkedIn Learning](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)
+#### [Happy Coding](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=0)** - [Kevin] I would like to thank you for taking PHP: Object-Oriented Programming with me.
+> **[0:00](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=0)** - [Kevin] I would like to thank you for taking [[PHP]]: [[Object-Oriented Programming (OOP)|Object-Oriented Programming]] with me.
 >
 > **[0:04](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=4)** We've learned all of the techniques you need to define and use objects in your PHP code.
 >
-> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=10)** Once you have a feel for the basics, the next step is to learn to use PHP and object-oriented programming techniques to interact with databases.
+> **[0:10](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=10)** Once you have a feel for the basics, the next step is to learn to use PHP and object-oriented programming techniques to interact with [[Databases]].
 >
 > **[0:18](https://www.linkedin.com/learning/php-object-oriented-programming-2017/happy-coding?u=76281980&t=18)** Objects can help you to find database data, define complex behaviors for the data that you retrieve and control the kind of data that gets saved in the database.
 >
@@ -6456,7 +6412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), data (3), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), database (2), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (2), [[Databases]] (1)
 > **CLI Commands:** php (4), find (1)
 > **Env Vars:** php (4), oop (1)
 > **Definitions:** is a  (1)

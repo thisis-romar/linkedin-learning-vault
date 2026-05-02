@@ -73,14 +73,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to generative AI in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
+#### [Introduction to generative AI in healthcare](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=0)** - Imagine if every medical decision, diagnosis, and treatment could be enhanced with intelligence that evolves by the minute.
 >
-> **[0:07](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=7)** That's the promise of generative AI in healthcare.
+> **[0:07](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=7)** That's the promise of [[Generative AI]] in healthcare.
 >
 > **[0:09](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=9)** And it's not just a futuristic dream, it's unfolding right now.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=22)** I'm here to bring my experience directly to you and share the most important concepts and principles of Gen AI in healthcare.
 >
-> **[0:28](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=28)** I'll address issues like, will ChatGPT replace healthcare jobs, and discuss ways to implement AI tools responsibly.
+> **[0:28](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=28)** I'll address issues like, will [[ChatGPT]] replace healthcare jobs, and discuss ways to implement AI tools responsibly.
 >
 > **[0:35](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/introduction-to-generative-ai-in-healthcare?u=76281980&t=35)** So whether you're in healthcare or technology, we're all patients, so really this topic impacts each of us.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), teams (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[ChatGPT]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 > **Non-Speech:** (gentle bright music) (1)
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### GPT passes medical exams: Breakthrough or hype?
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
+#### [GPT passes medical exams: Breakthrough or hype?](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,15 +117,15 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=5)** You know the ones I'm thinking of, right?
 >
-> **[0:06](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=6)** Stories like GPT-4 passes medical exams or GPT-4 is more empathetic than doctors.
+> **[0:06](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=6)** Stories like [[GPT-4]] passes medical exams or GPT-4 is more empathetic than doctors.
 >
 > **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=13)** This kind of news stirs up a mix of excitement and some skepticism.
 >
 > **[0:17](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=17)** So let's break down the stories behind the headlines to separate hype from reality.
 >
-> **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=22)** To level set, GPT models are sophisticated generative AI trained in essence to predict the next word given a sequence of words.
+> **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=22)** To level set, GPT models are sophisticated [[Generative AI]] trained in essence to predict the next [[Microsoft Word|word]] given a sequence of words.
 >
-> **[0:31](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=31)** The ChatGPT version was further trained with reinforcement learning from human feedback to teach the model how to output human-like text responses.
+> **[0:31](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=31)** The [[ChatGPT]] version was further trained with [[Reinforcement Learning]] from human feedback to teach the model how to output human-like text responses.
 >
 > **[0:41](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=41)** The training data for GPT included massive amounts of content from the web, and it was a breakthrough to discover that these very, very large AI models with massive amounts of computational power led to extremely diverse capabilities, including many that it was not specifically designed to do.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=85)** You see, these tests are not reflective of the real practice of medicine.
 >
-> **[1:29](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=89)** In fact, in my 20 years, I've yet to see a patient show up in my office with a multiple choice list of what might be wrong.
+> **[1:29](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=89)** In fact, in my 20 years, I've yet to see a patient show up in my [[Microsoft Office|office]] with a multiple choice list of what might be wrong.
 >
 > **[1:35](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/gpt-passes-medical-exams-breakthrough-or-hype?u=76281980&t=95)** But nonetheless, GPT-4's learned representations of real healthcare concepts are extremely useful and they can make healthcare more efficient, accurate, and ultimately more accessible.
 >
@@ -183,14 +181,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GPT-4]] (9), ai (3), [[Generative AI]] (2), [[ChatGPT]] (2), next (1)
+> **Frameworks & Libraries:** [[GPT-4]] (9), [[Generative AI]] (2), [[ChatGPT]] (2), [[Microsoft Word|Word]] (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** gpt (11)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - recently (1)
 
-#### Hello world: Generative AI’s role in clinical documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980)
+#### [Hello world: Generative AI’s role in clinical documentation](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=117)** Sound familiar?
 >
-> **[1:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=119)** Before GPT-4, traditional AI tools struggled to parse the complexities of medical dialogue, often missing the subtleties of human speech, medical terminology, and task specific content.
+> **[1:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=119)** Before [[GPT-4]], [[Traditional AI]] tools struggled to parse the complexities of medical dialogue, often missing the subtleties of human speech, medical terminology, and task specific content.
 >
 > **[2:12](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=132)** But now we have found that systems like GPT-4 can discern the medical facts from a conversational transcript, and then draft a note that encapsulates only the relevant information, correcting the format and even suggesting next steps.
 >
@@ -244,9 +241,9 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=157)** It's actually being deployed now today in healthcare settings around the world, and it's reshaping the landscape of patient care.
 >
-> **[2:45](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=165)** A recent study found that doctors using these solutions saved between 30 and 40% of their time writing notes using the generative AI based ambient clinical notes solution called DAX Copilot.
+> **[2:45](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=165)** A recent study found that doctors using these solutions saved between 30 and 40% of their time writing notes using the [[Generative AI]] based ambient clinical notes solution called [[DAX]] [[Microsoft Copilot|Copilot]].
 >
-> **[2:55](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=175)** This is offered by Microsoft and Nuance Communication, and is powered by OpenAI technology.
+> **[2:55](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=175)** This is offered by [[Microsoft]] and Nuance Communication, and is powered by OpenAI technology.
 >
 > **[3:01](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/hello-world-generative-ai-s-role-in-clinical-documentation?u=76281980&t=181)** It even integrates directly into the Epic electronic medical record system.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[GPT-4]] (2), [[Traditional AI]] (1), next (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (2), [[Traditional AI]] (1), [[Generative AI]] (1), [[DAX]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** gpt (2), dax (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -266,8 +263,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implementing generative AI: Bottom-up or top-down?
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
+#### [Implementing generative AI: Bottom-up or top-down?](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,15 +277,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=32)** So how do we get started?
 >
-> **[0:34](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=34)** Well, first, it's important to recognize that generative AI technology is different than just another software solution.
+> **[0:34](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=34)** Well, first, it's important to recognize that [[Generative AI]] technology is different than just another software solution.
 >
-> **[0:40](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=40)** In fact, it's really a multipurpose tool, kind of like word processing or the internet.
+> **[0:40](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=40)** In fact, it's really a multipurpose tool, kind of like [[Microsoft Word|word]] processing or the internet.
 >
 > **[0:45](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=45)** But in this case, it's more like having a digital intern that can do a wide variety of tasks.
 >
-> **[0:50](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=50)** Thanks to commercially available models like ChatGPT, pretty much everyone is getting more and more familiar with how to work with these highly capable models.
+> **[0:50](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=50)** Thanks to commercially available models like [[ChatGPT]], pretty much everyone is getting more and more familiar with how to work with these highly capable models.
 >
-> **[0:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=59)** As regular use of generative AI tools becomes second nature, this will favor a bottom up adoption, where it will be used in daily tasks across a wide variety of different roles.
+> **[0:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=59)** As regular use of [[Generative AI Tools]] becomes second nature, this will favor a bottom up adoption, where it will be used in daily tasks across a wide variety of different roles.
 >
 > **[1:11](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=71)** This has become a challenge for organizations, though they want to encourage their workforce to take advantage of these tools, but they must remain compliant operating within regulatory and ethical guidelines.
 >
@@ -297,11 +293,11 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=87)** Top down here refers to providing access to secure compliant platforms, dedicated training, governance, monitoring, and guardrails.
 >
-> **[1:36](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=96)** For example, NYU recently announced that they had launched the nation's first privately managed, secure and HIPAA compliant GPT-4 ecosystem, all within their healthcare organization.
+> **[1:36](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=96)** For example, NYU recently announced that they had launched the nation's first privately managed, secure and HIPAA compliant [[GPT-4]] ecosystem, all within their healthcare organization.
 >
-> **[1:47](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=107)** This enables everyone to take advantage of generative AI in their day-to-day work without concerns about privacy or compliance.
+> **[1:47](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=107)** This enables everyone to take advantage of generative AI in their day-to-day work without concerns about [[Privacy]] or compliance.
 >
-> **[1:54](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=114)** And to compliment this top down investment, they hosted an organization-wide prompt-a-thon event with Microsoft to encourage a bottom up adoption and to empower and educate their workforce on the benefits of generative AI.
+> **[1:54](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=114)** And to compliment this top down investment, they hosted an organization-wide prompt-a-thon event with [[Microsoft]] to encourage a bottom up adoption and to empower and educate their workforce on the benefits of generative AI.
 >
 > **[2:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/implementing-generative-ai-bottom-up-or-top-down?u=76281980&t=128)** Over 200 doctors, nurses, administrators, and educators participated, and this led to more than 100 project proposals.
 >
@@ -342,12 +338,11 @@ created: 2026-05-02
 > **Versions:** 5.6 (1)
 > **Speakers:** - highly (1)
 
-#### AI workforce: Redefining roles in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980)
+#### [AI workforce: Redefining roles in healthcare](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=0)** - As we embrace the era of generative AI in healthcare, it's not just a technological upgrade, it's a paradigm shift, but a common knee-jerk response is often, "Will it take away jobs?"
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=0)** - As we embrace the era of [[Generative AI]] in healthcare, it's not just a technological upgrade, it's a paradigm shift, but a common knee-jerk response is often, "Will it take away jobs?"
 >
 > **[0:11](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=11)** And while it's true that the first generation of generative AI in healthcare will redefine some roles more than others, this wave will most likely focus on automating repetitive and data intensive nonclinical tasks, but let me offer some reassurance.
 >
@@ -357,7 +352,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=38)** So how do we prepare for these new roles?
 >
-> **[0:41](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=41)** There will be plenty of opportunities to access generative AI as it's rolled out in many of the software platforms we all use, like ChatGPT, or as Copilots in Microsoft Word or Excel, but dedicated pre-skilling will be needed to get the workforce ready for a future with generative AI tools.
+> **[0:41](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=41)** There will be plenty of opportunities to access generative AI as it's rolled out in many of the software platforms we all use, like [[ChatGPT]], or as Copilots in [[Microsoft Word]] or [[Microsoft Excel|Excel]], but dedicated pre-skilling will be needed to get the workforce ready for a future with [[Generative AI Tools]].
 >
 > **[0:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=59)** This is learning and experimenting, staying informed and adaptable, all while actively identifying areas to incorporate these tools into your daily life, but one of the most important pre-skills is something known as metacognition.
 >
@@ -389,9 +384,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=159)** Experiment with different models, and continuously refine your understanding of these systems.
 >
-> **[2:44](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=164)** If you're thinking about experimenting with a healthcare related use case, be sure to check that the platform you're using is compliant with institutional policies on data privacy.
+> **[2:44](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=164)** If you're thinking about experimenting with a healthcare related use case, be sure to check that the platform you're using is compliant with institutional policies on [[Data Privacy]].
 >
-> **[2:54](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=174)** To stay up-to-date on developments in generative AI follow reliable sources such as Microsoft, Stanford, LinkedIn, or [deeplearning.ai](https://deeplearning.ai) among others.
+> **[2:54](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=174)** To stay up-to-date on developments in generative AI follow reliable sources such as [[Microsoft]], Stanford, [[LinkedIn]], or [deeplearning.ai](https://deeplearning.ai) among others.
 >
 > **[3:03](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/ai-workforce-redefining-roles-in-healthcare?u=76281980&t=183)** Engaging in webinars, online courses or workshops is also a great way to learn from others and expand your knowledge and network.
 >
@@ -401,7 +396,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (8), ai (6), data (2), [[ChatGPT]] (2), [[Microsoft Word]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (8), [[ChatGPT]] (2), [[Microsoft Word]] (1), [[Microsoft Excel|Excel]] (1), [[Generative AI Tools]] (1)
 > **Analogies:** similar to (1), such as (1)
 > **CLI Commands:** make (1)
 > **URLs:** [deeplearning.ai](https://deeplearning.ai) (1)
@@ -414,8 +409,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Generative AI: The key to unlocking medical knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
+#### [Generative AI: The key to unlocking medical knowledge](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +417,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=1)** Knowledge isn't just stuck in files and books anymore.
 >
-> **[0:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=5)** With generative AI as a reasoning engine to interact with vast amounts of complex data, those insights are now just a simple conversation away.
+> **[0:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=5)** With [[Generative AI]] as a reasoning engine to interact with vast amounts of complex data, those insights are now just a simple conversation away.
 >
 > **[0:14](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=14)** And this couldn't come at a better time for healthcare.
 >
@@ -447,7 +441,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=60)** But now there's hope.
 >
-> **[1:02](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=62)** Models like GPT-4 have shown that they can engage in dialogue on medical data, and it can draw from vast data sources, including scientific literature, clinical, and even pharmacologic data.
+> **[1:02](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=62)** Models like [[GPT-4]] have shown that they can engage in dialogue on medical data, and it can draw from vast data sources, including scientific literature, clinical, and even pharmacologic data.
 >
 > **[1:14](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=74)** But there's a catch.
 >
@@ -469,13 +463,13 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=125)** One of the most common techniques is known as grounding.
 >
-> **[2:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=128)** So grounding is the term for chatting with your documents and the technology that underlies this is called retrieval-augmented generation.
+> **[2:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=128)** So grounding is the term for chatting with your documents and the technology that underlies this is called [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]].
 >
 > **[2:17](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=137)** This allows the model to retrieve information that is relevant to a task or a question and then only use that information when responding.
 >
 > **[2:26](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=146)** And so this process effectively grounds the responses in very specific, relevant information and even can cite the source or the location in the document to back up the response.
 >
-> **[2:38](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=158)** In fact, you may already be using this capability with consumer models like Copilot or ChatGPT, that allow you to upload documents and ask questions about them.
+> **[2:38](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=158)** In fact, you may already be using this capability with consumer models like [[Microsoft Copilot|Copilot]] or [[ChatGPT]], that allow you to upload documents and ask questions about them.
 >
 > **[2:49](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=169)** And because these models are general reasoners with competencies in biomedical concepts and principles, you can have insightful conversations about scientific literature, clinical trials, conference papers, or even specialized analysis reports.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=198)** And going a step further, these models can also enable non-technical medical researchers to perform advanced analytics and modeling of data using chat-based interactions.
 >
-> **[3:29](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=209)** These are tasks that typically require graduate degrees in data science to do.
+> **[3:29](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=209)** These are tasks that typically require graduate degrees in [[Data Science]] to do.
 >
 > **[3:34](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/generative-ai-the-key-to-unlocking-medical-knowledge?u=76281980&t=214)** For example, the code interpreter model from OpenAI can write and execute code for data analysis via natural language interaction, even using your own data.
 >
@@ -501,15 +495,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Generative AI]] (3), [[GPT-4]] (3), ai (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[GPT-4]] (3), [[Data Science]] (2), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Env Vars:** gpt (3)
 > **Definitions:** known as (1), is called (1)
 > **Analogies:** for example (1), kind of like (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - breaking (1)
 
-#### Precision health with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980)
+#### [Precision health with generative AI](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -527,11 +520,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=37)** And at the same time, clinical trial researchers struggle to find participants often because it requires a deep analysis of candidates medical data just to determine if they qualify.
 >
-> **[0:47](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=47)** So what if we apply generative AI to this problem?
+> **[0:47](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=47)** So what if we apply [[Generative AI]] to this problem?
 >
-> **[0:50](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=50)** After all, because models like GPT-4 can understand medical concepts and they can reason over vast amounts of data, they might be the perfect tool to find potential matches.
+> **[0:50](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=50)** After all, because models like [[GPT-4]] can understand medical concepts and they can reason over vast amounts of data, they might be the perfect tool to find potential matches.
 >
-> **[1:01](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=61)** Recently, AI scientists from Microsoft teamed up with Providence Health System to try this approach.
+> **[1:01](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=61)** Recently, AI scientists from [[Microsoft]] teamed up with Providence Health System to try this approach.
 >
 > **[1:07](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=67)** They created a generative AI-powered platform that can sift through open clinical trials and compare those criteria to real clinical data from over 20 million patients.
 >
@@ -541,7 +534,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=93)** But that's just the beginning of where these capabilities could have impact in healthcare.
 >
-> **[1:37](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=97)** Recent studies have shown that GPT-4 has medical reasoning capabilities beyond just clinical data processing.
+> **[1:37](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=97)** Recent studies have shown that GPT-4 has medical reasoning capabilities beyond just clinical [[Data Processing]].
 >
 > **[1:43](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=103)** For example, one study evaluated how GPT-4 could help in diagnostic tasks for hospitalized patients whose care was delayed because doctors were struggling to make a diagnosis.
 >
@@ -549,7 +542,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=128)** As these powerful systems continue to advance, we can start to envision an integrated world where every clinical decision could be backed up by comprehensive, up-to-date clinical evidence, and continually evaluated for clinical trial matching.
 >
-> **[2:23](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=143)** One way this could work is via practice-based evidence, adhering to the patients-like-mine clinical decision-making approach.
+> **[2:23](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=143)** One way this could work is via practice-based evidence, adhering to the patients-like-mine clinical [[Decision-Making]] approach.
 >
 > **[2:31](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/precision-health-with-generative-ai?u=76281980&t=151)** In this scenario, models like GPT-4 can analyze real-world clinical data from millions of patients in order to identify patterns and outcomes that best match with a specific patient.
 >
@@ -571,15 +564,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[GPT-4]] (5), [[Generative AI]] (3), ai (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[GPT-4]] (5), [[Generative AI]] (3), [[Microsoft]] (1), [[Data Processing]] (1), [[Decision-Making]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Env Vars:** gpt (5)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - did (1)
 
-#### How generative AI enhances drug development
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980)
+#### [How generative AI enhances drug development](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -587,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=4)** Don't worry, this is strictly educational, I promise.
 >
-> **[0:07](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=7)** Hallucination in the context of generative AI refers to outputs from generative models that are inaccurate or misleading, such as false statements or non-existent references.
+> **[0:07](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=7)** Hallucination in the context of [[Generative AI]] refers to outputs from generative models that are inaccurate or misleading, such as false statements or non-existent references.
 >
 > **[0:17](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=17)** So hallucination is a pretty good term, right, to describe this phenomenon.
 >
@@ -619,7 +611,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=93)** The easiest application is in hypothesis generation for identifying potential targets in scientific literature.
 >
-> **[1:40](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=100)** As we've gone over, GPT-4's reasoning and biomedical conceptual knowledge can serve as a conversational portal.
+> **[1:40](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=100)** As we've gone over, [[GPT-4]]'s reasoning and biomedical conceptual knowledge can serve as a conversational portal.
 >
 > **[1:46](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=106)** This surfaces insights from and interacts with large quantities of scientific data.
 >
@@ -627,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=116)** This is important to later identify drug candidate molecules that can interact with them in 3D space.
 >
-> **[2:02](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=122)** AlphaFold, an AI software developed by DeepMind and Google, has made significant contributions in this area.
+> **[2:02](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=122)** AlphaFold, an AI software developed by DeepMind and [[Google]], has made significant contributions in this area.
 >
 > **[2:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=128)** It accurately predicts protein structures from their amino acid sequences.
 >
@@ -671,7 +663,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=259)** As we have covered in a previous video, generative AI can also accelerate this process too.
 >
-> **[4:24](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=264)** It can help design protocols, search for candidate patients who would qualify for a clinical trial, and even write patient friendly consent forms.
+> **[4:24](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=264)** It can help design protocols, search for candidate patients who would qualify for a clinical trial, and even write patient friendly consent [[Forms]].
 >
 > **[4:32](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/how-generative-ai-enhances-drug-development?u=76281980&t=272)** Analysts have suggested that these AI advancements across the drug discovery lifecycle have the potential to reduce drug development costs by up to 40%.
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (6), ai (6), application (2), feature (1), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[GPT-4]] (1), [[Google]] (1), [[Forms]] (1)
 > **Definitions:** is a  (4), refers to (1)
 > **Analogies:** such as (1), similar to (1), just like (1)
 > **CLI Commands:** find (2)
@@ -699,12 +691,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bias in generative AI for healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
+#### [Bias in generative AI for healthcare](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=0)** - So with all the potential surrounding generative AI in healthcare, could this innovative technology become a double-edged sword?
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=0)** - So with all the potential surrounding [[Generative AI]] in healthcare, could this innovative technology become a double-edged sword?
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=8)** The transformative potential of generative AI in healthcare is undeniable, but this revolution carries a pretty important caveat.
 >
@@ -720,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=58)** But similar issues have surfaced in new generative AI models as well.
 >
-> **[1:03](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=63)** A study in the Lancet found that GPT-4 generated stereotypical diagnoses along race, ethnicity, and gender categories, and in close to half of the cases they studied, the biased diagnoses negatively impacted the accuracy of the model for these groups, even with the same clinical evidence.
+> **[1:03](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=63)** A study in the Lancet found that [[GPT-4]] generated stereotypical diagnoses along race, ethnicity, and gender categories, and in close to half of the cases they studied, the biased diagnoses negatively impacted the accuracy of the model for these groups, even with the same clinical evidence.
 >
 > **[1:20](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=80)** So why are these biases present?
 >
@@ -750,9 +741,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=169)** They carry significant ethical implications for the deployment of AI in healthcare settings where trust, equity, and patient outcomes are at stake.
 >
-> **[2:57](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=177)** So to identify and mitigate these issues, healthcare organizations using AI should have a set of responsible AI principles.
+> **[2:57](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=177)** So to identify and mitigate these issues, healthcare organizations using AI should have a set of [[Responsible AI]] principles.
 >
-> **[3:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=185)** These principles should include fairness, transparency, and accountability, but should also detail enforceable guidelines that allow for the innovation and benefits of AI, while being mindful of its potential to replicate or even amplify biases.
+> **[3:05](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=185)** These principles should include fairness, transparency, and [[Accountability]], but should also detail enforceable guidelines that allow for the innovation and benefits of AI, while being mindful of its potential to replicate or even amplify biases.
 >
 > **[3:18](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/bias-in-generative-ai-for-healthcare?u=76281980&t=198)** An example of a broad effort towards responsible AI principles in healthcare is the Coalition for Health AI, who've published a blueprint for trustworthy AI implementation guide with specific recommendations that include principles, standards, and even tools for implementing AI responsibly in healthcare.
 >
@@ -762,19 +753,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Generative AI]] (7), data (6), [[Responsible AI]] (3), [[GPT-4]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (7), [[Responsible AI]] (3), [[GPT-4]] (1), [[Accountability]] (1)
 > **Analogies:** such as (2), just like (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** gpt (1)
 > **Warnings:** caveat (1)
 > **Speakers:** - so (1)
 
-#### Balancing technology and human judgment
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980)
+#### [Balancing technology and human judgment](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=0)** - We've covered the challenges of model bias in a previous video, but there's another source of bias when using generative AI models in healthcare.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=0)** - We've covered the challenges of model bias in a previous video, but there's another source of bias when using [[Generative AI]] models in healthcare.
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=8)** It's you, the human user.
 >
@@ -786,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=35)** And this is all worsened when the user is technically less literate.
 >
-> **[0:39](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=39)** In a Nature journal study about medical decision-making, it was found that clinicians with low AI literacy were seven times more likely to accept AI medical recommendations.
+> **[0:39](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=39)** In a Nature journal study about medical [[Decision-Making]], it was found that clinicians with low [[AI Literacy]] were seven times more likely to accept AI medical recommendations.
 >
 > **[0:49](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/balancing-technology-and-human-judgment?u=76281980&t=49)** To get ahead of these challenges, we must understand when AI is being used in our healthcare systems and how generative AI comes to its conclusions and even what data it was trained on.
 >
@@ -822,22 +812,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Generative AI]] (5), [[Automation]] (2), [[Decision-Making]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Decision-Making]] (1), [[AI Literacy]] (1)
 > **Cross-References:** previous video (1)
 > **UI Navigation:** double-click (1)
 > **Definitions:** is called (1)
 > **Speakers:** - we (1)
 
-#### Top two considerations for using generative AI in healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980)
+#### [Top two considerations for using generative AI in healthcare](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=0)** - If I was forced to choose only two concepts to focus on for successful, safe use of generative AI in healthcare, they would be data privacy and human oversight of AI systems.
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=0)** - If I was forced to choose only two concepts to focus on for successful, safe use of [[Generative AI]] in healthcare, they would be [[Data Privacy]] and human oversight of AI systems.
 >
 > **[0:11](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=11)** Let's break each of these down.
 >
-> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=13)** Starting with security and privacy.
+> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=13)** Starting with security and [[Privacy]].
 >
 > **[0:15](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=15)** This one's pretty obvious and it still causes challenges for health systems.
 >
@@ -849,7 +838,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=42)** Identifiable patient data should never be entered into open, commercially available models on the internet, ever.
 >
-> **[0:48](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=48)** To protect against this, will require enhanced compliance monitoring to detect any data breaches, strict access controls to data and algorithms and comprehensive training for personnel and vendors on data use and security obligations.
+> **[0:48](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=48)** To protect against this, will require enhanced compliance monitoring to detect any data breaches, strict access controls to data and [[Algorithms]] and comprehensive training for personnel and vendors on data use and security obligations.
 >
 > **[1:03](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/top-two-considerations-for-using-generative-ai-in-healthcare?u=76281980&t=63)** But concerns about data privacy is much more than just security.
 >
@@ -911,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), ai (10), [[Security]] (5), [[Privacy]] (4), [[Generative AI]] (3)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Data Privacy]] (3), [[Algorithms]] (2), [[Privacy]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -922,12 +911,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The next wave: Multimodal AI in patient care
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
+#### [The next wave: Multimodal AI in patient care](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=0)** - Did you know that more than 97% of all healthcare data is not text, and that non-textual data in an average size healthcare system is much larger than the data that was used to train the biggest generative AI models like GPT?
+> **[0:00](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=0)** - Did you know that more than 97% of all healthcare data is not text, and that non-textual data in an average size healthcare system is much larger than the data that was used to train the biggest [[Generative AI]] models like GPT?
 >
 > **[0:14](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=14)** So as we explore what the next frontier of generative AI in healthcare will be, it is clear that it'll have to learn to process more than text data.
 >
@@ -963,11 +951,11 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=106)** Luckily, there is a solution and it relates to the concept of tokenization.
 >
-> **[1:51](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=111)** Powerful models like GPT-4 learn and process information via tokenization.
+> **[1:51](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=111)** Powerful models like [[GPT-4]] learn and process information via tokenization.
 >
 > **[1:56](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=116)** In other words, breaking data down into smaller units.
 >
-> **[1:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=119)** For example, text is broken down into small word chunks for the model to learn, but any data can be tokenized.
+> **[1:59](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=119)** For example, text is broken down into small [[Microsoft Word|word]] chunks for the model to learn, but any data can be tokenized.
 >
 > **[2:06](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=126)** Images and sound recordings can be tokenized into pixels and waveforms, respectively.
 >
@@ -981,7 +969,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=166)** Whether it involves interpreting images, creating visuals from text or voice inputs.
 >
-> **[2:52](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=172)** You can test out these multimodal capabilities for yourself now with non-healthcare data using GPT-4 or Microsoft Copilot, which can already process it and generate images, voice and more.
+> **[2:52](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=172)** You can test out these multimodal capabilities for yourself now with non-healthcare data using GPT-4 or [[Microsoft Copilot]], which can already process it and generate images, voice and more.
 >
 > **[3:03](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-next-wave-multimodal-ai-in-patient-care?u=76281980&t=183)** And you notice I said non-healthcare data, right?
 >
@@ -1001,15 +989,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Generative AI]] (4), ai (4), next (3), [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[GPT-4]] (2), [[Microsoft Word|Word]] (1), [[Microsoft Copilot]] (1)
 > **Env Vars:** gpt (5), ekg (1)
 > **Definitions:** in other words (2), is a  (2), refers to (1), known as (1)
 > **Analogies:** for example (2)
 > **Cross-References:** next video (1)
 > **Speakers:** - did (1)
 
-#### The rise of general medical AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980)
+#### [The rise of general medical AI](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=43)** This includes reasoning across different modalities, such as interpreting medical images, surgical videos, electronic health records, genomic and proteomic data, and much, much more.
 >
-> **[0:53](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=53)** But how does this differ from multimodal generative AI that we've already covered?
+> **[0:53](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=53)** But how does this differ from multimodal [[Generative AI]] that we've already covered?
 >
 > **[0:57](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=57)** Well, multimodal medical AI is focused on the integration of data for specific tasks or groups of tasks.
 >
@@ -1045,7 +1032,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=90)** Software 2.0 is characterized by machine learning models that learn from data.
 >
-> **[1:35](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=95)** The code for these models is not a set of instructions, but the data itself, and alongside, a structure of neural networks that process these data.
+> **[1:35](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=95)** The code for these models is not a set of instructions, but the data itself, and alongside, a structure of [[Neural Networks]] that process these data.
 >
 > **[1:44](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/the-rise-of-general-medical-ai?u=76281980&t=104)** These models can not only perform the tasks based on the data they were trained on, but also adapt and retrain themselves with new data, effectively writing their own code in the form of updated model parameters.
 >
@@ -1079,15 +1066,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), ai (7), [[Generative AI]] (2), management (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Neural Networks]] (1)
 > **Analogies:** for example (2), imagine (1), such as (1)
 > **Versions:** 2.0 (2)
 > **Definitions:** is a  (1), refers to (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - ah (1)
 
-#### Everyone is a specialist: Health AI on the edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980)
+#### [Everyone is a specialist: Health AI on the edge](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1095,7 +1081,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=8)** All of this adds up to over a billion health related searches every single day.
 >
-> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=13)** The need for accurate, accessible medical knowledge is more crucial than ever, and generative AI is poised to have a huge impact in how patients will learn about their health conditions.
+> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=13)** The need for accurate, accessible medical knowledge is more crucial than ever, and [[Generative AI]] is poised to have a huge impact in how patients will learn about their health conditions.
 >
 > **[0:22](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=22)** Let's consider a real life example.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=201)** The theory of embodiment research goes a step further to give AI systems a physical form to interact with their environment, which will lead to better understanding and representations of the natural world.
 >
-> **[3:31](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=211)** There is a lot of work underway towards this effort and new generative AI powered robotics can now move around and engage with their environments using sensors to collate multimodal data and physical forms to execute tasks.
+> **[3:31](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=211)** There is a lot of work underway towards this effort and new generative AI powered robotics can now move around and engage with their environments using sensors to collate multimodal data and physical [[Forms]] to execute tasks.
 >
 > **[3:45](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/everyone-is-a-specialist-health-ai-on-the-edge?u=76281980&t=225)** This approach leads to significant opportunities for the development of more adaptable, autonomous and effective AI systems more broadly, but has implications for healthcare as well.
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Generative AI]] (4), data (4), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Forms]] (1)
 > **Definitions:** in other words (2), is a  (2)
 > **Analogies:** imagine (2), for example (1)
 > **Env Vars:** gpt (1), agi (1)
@@ -1179,8 +1165,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing the AI healthcare journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)
+#### [Continuing the AI healthcare journey](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1190,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=11)** I also want to encourage you to stay connected.
 >
-> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=13)** Join me on LinkedIn or the X platform where we can continue this conversation and stay up to date together in this fast moving field.
+> **[0:13](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=13)** Join me on [[LinkedIn]] or the X platform where we can continue this conversation and stay up to date together in this fast moving field.
 >
 > **[0:21](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=21)** One final message for you.
 >
@@ -1204,11 +1189,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=33)** The technology is impressive, but it's also exponentially improving, and there's a great saying about exponential change.
 >
-> **[0:39](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=39)** You can either react too early or too late.
+> **[0:39](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=39)** You can either [[React.js|react]] too early or too late.
 >
 > **[0:42](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=42)** Today's models, they're not perfect and they have their limits, but the AI you see today is the worst it'll ever be.
 >
-> **[0:49](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=49)** And given the exponential growth, if it seems a bit early to start using generative AI, well, at least you won't be too late.
+> **[0:49](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=49)** And given the exponential growth, if it seems a bit early to start using [[Generative AI]], well, at least you won't be too late.
 >
 > **[0:56](https://www.linkedin.com/learning/an-introduction-to-how-generative-ai-will-transform-healthcare/continuing-the-ai-healthcare-journey?u=76281980&t=56)** We've been given an extraordinary opportunity to make a real lasting difference.
 >
@@ -1218,7 +1203,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), [[React.js|React]] (1), ai (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[React.js|React]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** we covered (1)
 > **Speakers:** - congratulations (1)

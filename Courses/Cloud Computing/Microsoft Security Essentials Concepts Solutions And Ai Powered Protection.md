@@ -127,20 +127,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Microsoft Security Essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980)
+#### [Learning Microsoft Security Essentials](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=0)** - Ready to boost your cybersecurity knowledge and skills.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=0)** - Ready to boost your [[Cybersecurity]] knowledge and skills.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=4)** Let's get started with Microsoft Security Essentials.
+> **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=4)** Let's get started with [[Microsoft Security]] Essentials.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=8)** In this course, you will learn the fundamental concepts of security, identity, governance, risk, compliance and privacy.
+> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=8)** In this course, you will learn the fundamental concepts of security, identity, governance, risk, compliance and [[Privacy]].
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=18)** Then we will cover the capabilities of Microsoft security solutions, including Microsoft Entra, Defender XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva and Azure Security services.
+> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=18)** Then we will cover the capabilities of Microsoft security solutions, including [[Microsoft]] [[Microsoft Entra ID|Entra]], [[Microsoft Defender|Defender]] XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva and [[Microsoft Azure|Azure]] Security services.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=33)** And lastly, we'll discover the AI-powered protection provided by [[Microsoft Security Copilot]].
+> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=33)** And lastly, we'll discover the AI-powered protection provided by [[Microsoft Security [[Microsoft Copilot|Copilot]]]].
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/learning-microsoft-security-essentials?u=76281980&t=41)** I'm Bryan and I worked in IT and cyber security for many years.
 >
@@ -150,36 +149,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Security]] (3), [[Cybersecurity]] (2), [[Microsoft]] (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Cybersecurity]] (2), [[Microsoft]] (2), [[Microsoft Defender|Defender]] (2), [[Privacy]] (1)
 > **Env Vars:** xdr (1)
 > **Speakers:** - ready (1)
 
-#### Microsoft security solutions overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980)
+#### [Microsoft security solutions overview](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=0)** - [Instructor] Let's take a quick overview of Microsoft Security Solutions and their key capabilities.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=0)** - [Instructor] Let's take a quick overview of [[Microsoft Security]] Solutions and their key capabilities.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=7)** Security is a broad field.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=10)** To meet the business needs of today's organizations, we should expand this umbrella term into multiple areas, including security, identity, governance, risk, compliance, and privacy.
+> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=10)** To meet the business needs of today's organizations, we should expand this umbrella term into multiple areas, including security, identity, governance, risk, compliance, and [[Privacy]].
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=27)** To help organizations better manage these areas, the industry has introduced a variance of solutions, such as identity and access management or IAM, threat protection, cloud security, Cloud Native Application Protection Platform, or CNAPP, endpoint management, and security.
+> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=27)** To help organizations better manage these areas, the industry has introduced a variance of solutions, such as identity and access management or IAM, threat protection, [[Cloud Security]], Cloud Native Application Protection Platform, or CNAPP, endpoint management, and security.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=53)** Security information and event management, or SIEM, and security orchestration, automation, and response, or SOAR.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=62)** Risk and compliance management, data governance and security, privacy protection, and AI-powered protection.
+> **[1:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=62)** Risk and [[Compliance Management]], [[Data Governance]] and security, [[Privacy Protection]], and AI-powered protection.
 >
-> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=73)** In this course, we will look into key Microsoft security solutions in each of these categories, such as Microsoft Entra for Identity and Access Management, Microsoft Defender XDR for threat protection, Azure Security Services for cloud security, Microsoft Defender for Cloud for Cloud Native Application Protection Platform, Microsoft Intune for endpoint management and security, Microsoft Sentinel for SIEM and SOAR, Microsoft Purview for risk and compliance management, Microsoft Purview for data governance and security, Microsoft Priva for privacy protection, and [[Microsoft Security Copilot]] for AI-powered protection.
+> **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=73)** In this course, we will look into key Microsoft security solutions in each of these categories, such as [[Microsoft]] [[Microsoft Entra ID|Entra]] for Identity and Access Management, [[Microsoft Defender]] XDR for threat protection, [[Microsoft Azure|Azure]] Security Services for cloud security, Microsoft Defender for Cloud for Cloud Native Application Protection Platform, Microsoft Intune for endpoint management and security, Microsoft Sentinel for SIEM and SOAR, Microsoft Purview for risk and compliance management, Microsoft Purview for data governance and security, Microsoft Priva for privacy protection, and [[Microsoft Security [[Microsoft Copilot|Copilot]]]] for AI-powered protection.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=128)** As you can see, Microsoft offers end-to-end AI-powered security products.
+> **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=128)** As you can see, Microsoft offers end-to-end AI-powered security [[Microsoft Products|products]].
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-solutions-overview?u=76281980&t=134)** Through this course, you'll have the opportunity to learn essential security concepts and solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[Microsoft]] (7), management (5), cloud (5), [[Microsoft Security]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Security]] (3), [[Cloud Security]] (2), [[Compliance Management]] (2), [[Data Governance]] (2)
 > **Env Vars:** siem (2), soar (2), iam (1), cnapp (1), xdr (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
@@ -190,8 +188,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980)
+#### [Security principles](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=53)** Availability is about ensuring access privileges.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=57)** For example, when you log into your online banking account, you don't want to get an error message saying the service is down.
+> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=57)** For example, when you log into your online [[Banking]] account, you don't want to get an error message saying the service is down.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=66)** What do you get when you achieve all three objectives, confidentiality, integrity, and availability?
 >
@@ -227,9 +224,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=84)** If you have done anything to protect confidentiality, integrity, or availability, then yes, you have done a security job.
 >
-> **[1:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=94)** In fact, security is such a broad field that you can add the word security after almost anything.
+> **[1:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=94)** In fact, security is such a broad field that you can add the [[Microsoft Word|word]] security after almost anything.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=102)** For example, network security, system security, data security, application security, cloud security, IOT security, blockchain security, or AI security.
+> **[1:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=102)** For example, [[Network Security]], system security, [[Data Security]], [[Application Security]], [[Cloud Security]], [[IoT]] security, [[Blockchain]] security, or [[AI Security]].
 >
 > **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-principles?u=76281980&t=115)** The same security principles apply to all these areas.
 >
@@ -239,27 +236,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), data (2), [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Network Security]] (1), [[Data Security]] (1), [[Application Security]] (1)
 > **Env Vars:** cia (3), iot (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (1), stands for (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Security threats
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980)
+#### [Security threats](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=0)** - [Instructor] You probably hear the term security threats very often, but what does it really mean?
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=8)** Simply put, threats in cybersecurity are potential dangers that can compromise your assets.
+> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=8)** Simply put, threats in [[Cybersecurity]] are potential dangers that can compromise your assets.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=16)** The typical assets in an organization include devices, for example, laptops, workstations, servers, virtual machines, and the mobile phones.
+> **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=16)** The typical assets in an organization include devices, for example, laptops, workstations, servers, [[Virtual Machines]], and the mobile phones.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=27)** Networks for connecting internal and external resources, such as internet, wifi, local networks and cloud networks.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=37)** Applications, for example, operating systems like Windows, Linux, Mac OS, iOS, and Android, or business applications like Microsoft 365, corporate websites and customer relationship management, CRM software.
+> **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=37)** Applications, for example, operating systems like [[Windows]], [[Linux]], Mac OS, iOS, and [[Android]], or business applications like [[Microsoft 365]], corporate websites and customer relationship management, CRM software.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=55)** Data, for example, database records, source code, files, pictures, and videos.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=129)** Hackers can use it to encrypt data and lock systems that demand victims pay money or ransom to restore their data and services.
 >
-> **[2:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=140)** Phishing, hackers send crafted emails to trick people into clicking links or opening attachments.
+> **[2:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=140)** [[Phishing]], hackers send crafted emails to trick people into clicking links or opening attachments.
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=148)** Phishing is a popular method for stealing confidential information.
 >
@@ -299,13 +295,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=181)** Attackers try to bring down networks and applications preventing companies from running operations and serving customers.
 >
-> **[3:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=190)** SQL Injection, hackers inject harmful SQL commands into web application inputs to control database operations.
+> **[3:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=190)** [[SQL]] Injection, hackers inject harmful SQL commands into web application inputs to control database operations.
 >
 > **[3:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/security-threats?u=76281980&t=200)** Insider threat, it refers to compromises caused by internal people such as employees, contractors, or suppliers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (4), database (3), web application (2), [[Phishing]] (2)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[SQL]] (2), [[Cybersecurity]] (1), [[Virtual Machines]] (1), [[Windows]] (1)
 > **Analogies:** for example (4), such as (3)
 > **Definitions:** refers to (2), is a  (2), is an  (1)
 > **Env Vars:** sql (2), crm (1)
@@ -313,8 +309,7 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Governance, risk, and compliance (GRC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980)
+#### [Governance, risk, and compliance (GRC)](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=51)** Risk management is about to reducing the impact and the likelihood of potential threats.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=57)** The process typically includes the key steps, such as identify risks within your defined environments; analyze and prioritize the discovered risks; control the risks by taking suitable response actions; and track the risks through continuous monitoring and review.
+> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=57)** The process typically includes the key steps, such as identify risks within your defined environments; analyze and prioritize the discovered risks; control the risks by taking suitable response actions; and track the risks through [[Continuous Monitoring]] and review.
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=79)** Compliance is to ensure an organization follows laws made by relevant governments and the regulations created by government agencies or regulatory bodies.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=128)** Now let's bring all these elements together.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=131)** Here's a diagram from Microsoft that illustrates a framework for managing GRC.
+> **[2:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=131)** Here's a diagram from [[Microsoft]] that illustrates a framework for managing GRC.
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/governance-risk-and-compliance-grc?u=76281980&t=138)** It combines governance, risk, and compliance with their key activities like strategies, policies, controls, and the laws.
 >
@@ -354,25 +349,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), management (1), [[Continuous Monitoring]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1), [[Microsoft]] (1)
 > **Env Vars:** grc (6)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Shared responsibility model
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980)
+#### [Shared responsibility model](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=0)** - [Instructor] The shared responsibility model is an important concept in cloud computing and security.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=0)** - [Instructor] The shared responsibility model is an important concept in [[Cloud Computing]] and security.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=6)** In the past, organizations ran all their systems and applications on premises, so they were 100% responsible for everything.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=17)** However, with the wide adoption of the cloud, many corporate workloads have moved to the cloud, like a Microsoft Azure.
+> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=17)** However, with the wide adoption of the cloud, many corporate workloads have moved to the cloud, like a [[Microsoft Azure]].
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=24)** Now, the question is, who is responsible for doing which security tasks?
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=30)** For example, when it comes to installing a security patch for an operating system like Windows or Linux, is this the responsibility of the customer or the cloud provider?
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=30)** For example, when it comes to installing a security patch for an operating system like [[Windows]] or [[Linux]], is this the responsibility of the customer or the cloud provider?
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=44)** The answer is, it depends.
 >
@@ -380,27 +374,27 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=51)** There are three common cloud service types.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=54)** IaaS, Infrastructure as a Service.
+> **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=54)** [[IaaS]], [[IaaS|Infrastructure as a Service]].
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=58)** It requires the customer to manage most workloads, except for the physical components in the cloud, like computers, networks, and data centers.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=68)** For example, you created a virtual machine in Azure.
+> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=68)** For example, you created a virtual machine in [[Microsoft Azure|Azure]].
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=72)** That's Infrastructure as a Service, PaaS, Platform as a Service.
+> **[1:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=72)** That's Infrastructure as a Service, [[PaaS]], [[PaaS|Platform as a Service]].
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=79)** In this model, the customer focuses on applications, while the cloud provider manages the underlying operating systems and infrastructure.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=89)** For example, Azure App Service is a managed platform for developing web applications.
 >
-> **[1:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=96)** And SaaS, SaaS, Software as a Service.
+> **[1:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=96)** And [[SaaS]], SaaS, [[SaaS|Software as a Service]].
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=101)** This model requires the least management from the customer.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=105)** For example, Microsoft 365 is a SaaS product.
+> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=105)** For example, [[Microsoft 365]] is a SaaS product.
 >
-> **[1:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=109)** The customer subscribes to its services and uses apps like Word, Excel, and Teams, they don't need to worry about software development, the operating system, and underlying infrastructure.
+> **[1:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=109)** The customer subscribes to its services and uses apps like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and Teams, they don't need to worry about [[Software Development]], the operating system, and underlying infrastructure.
 >
-> **[2:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=125)** Here's a diagram from Microsoft that illustrates the shared responsibility model across different cloud service types.
+> **[2:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=125)** Here's a diagram from [[Microsoft]] that illustrates the shared responsibility model across different cloud service types.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/shared-responsibility-model?u=76281980&t=134)** As you can see, for on-premises hosting, the customer is responsible for everything, while moving from IAS to PAS and then to SAAS, the customer's responsibilities decrease, while the cloud provider, like Microsoft, handles more of tasks.
 >
@@ -420,18 +414,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[SaaS]] (6), [[PaaS]] (5), [[Security]] (3), [[IaaS]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (6), [[PaaS]] (5), [[IaaS]] (3), [[IaaS|Infrastructure as a service]] (2), [[Microsoft Azure|Azure]] (2)
 > **Analogies:** for example (4)
 > **Env Vars:** ias (1), pas (1), saas (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defense in depth
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980)
+#### [Defense in depth](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=0)** - Defense in Depth has been a classic security strategy for a long time, and it continues to play an important role in designing effective cybersecurity controls.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=0)** - Defense in Depth has been a classic security strategy for a long time, and it continues to play an important role in designing effective [[Cybersecurity]] controls.
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=13)** Defense in Depth is a term borrowed from the military.
 >
@@ -439,7 +432,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=21)** You would set up multiple lines of defense.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=25)** Even if attackers break through some of these lines, they still won't reach the final target In information security, we apply this strategy by first identifying our most valuable assets, such as web servers and business databases, often known as our crown tools.
+> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=25)** Even if attackers break through some of these lines, they still won't reach the final target In information security, we apply this strategy by first identifying our most valuable assets, such as [[Web Servers]] and business [[Databases]], often known as our crown tools.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=46)** We then deploy multiple layers of security around these critical assets, like the layers of an onion.
 >
@@ -451,9 +444,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=70)** For example, only allowing authorized administrators to access server rooms.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=76)** Identity and access management, such as enabling multi-factor authentication and applying role-based access control for cloud resources, perimeter security, for example, using a VPN Gateway or Azure distributed denial of service, DDoS protection, to filter the traffic to our business network.
+> **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=76)** Identity and access management, such as enabling [[Multi-factor Authentication]] and applying role-based access control for cloud resources, perimeter security, for example, using a VPN Gateway or [[Microsoft Azure|Azure]] distributed denial of service, DDoS protection, to filter the traffic to our business network.
 >
-> **[1:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=100)** Network security, such as segmenting virtual networks with subnets and network security groups.
+> **[1:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=100)** [[Network Security]], such as segmenting virtual networks with subnets and network security groups.
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=108)** Compute layer security, for example, installing anti-malware software and the closing unnecessary service ports, application layer security such as applying security patches and updates to mitigate application vulnerabilities and data layer security.
 >
@@ -461,7 +454,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=138)** Please note that Defense in Depth doesn't mean simply adding numerous security controls.
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=144)** Instead, it involves strategically design-based controls using different technologies and expertise, such as identity and access management, network segmentation, application security, and data governance.
+> **[2:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=144)** Instead, it involves strategically design-based controls using different technologies and expertise, such as identity and access management, network segmentation, [[Application Security]], and [[Data Governance]].
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/defense-in-depth?u=76281980&t=159)** So for hackers to breach all these layers, they must possess a broad range of knowledge and skills.
 >
@@ -469,7 +462,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), data (4), application (3), business (2), management (2)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Cybersecurity]] (1), [[Web Servers]] (1), [[Databases]] (1), [[Multi-factor Authentication]] (1)
 > **Analogies:** such as (5), for example (4), imagine (1)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** vpn (1)
@@ -477,8 +470,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - defense (1)
 
-#### Zero Trust model
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980)
+#### [Zero Trust model](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=48)** With the migration to the cloud, the perimeter of the corporate network has shifted from network-based to identity-based.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=57)** Firewalls and office buildings alone are now insufficient to protect our assets.
+> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=57)** Firewalls and [[Microsoft Office|office]] buildings alone are now insufficient to protect our assets.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=63)** Also, hacking tactics and techniques continuously evolve.
 >
@@ -534,7 +526,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=173)** Applications should be managed for access, security, and performance.
 >
-> **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=179)** Data should be governed and secured using methods like data classification, encryption, and the lifecycle management.
+> **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=179)** Data should be governed and secured using methods like [[Data Classification]], encryption, and the lifecycle management.
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/zero-trust-model?u=76281980&t=188)** Infrastructure should be configured, secured, and monitored throughout the organization's environment, whether on premises or in the cloud.
 >
@@ -554,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (4), cloud (2), [[Microsoft Office|Office]] (1), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Data Classification]] (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -564,8 +556,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identity and access security with Microsoft Entra
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980)
+#### [Identity and access security with Microsoft Entra](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -585,11 +576,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=85)** In addition, we need an accounting process to track who did what, where, and when.
 >
-> **[1:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=93)** Microsoft Entra is a product family from Microsoft designed to secure identity and access.
+> **[1:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=93)** [[Microsoft]] [[Microsoft Entra ID|Entra]] is a product family from Microsoft designed to secure identity and access.
 >
 > **[1:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=101)** Microsoft Entra enables organizations to establish zero trust through robust identity and access management, secure workforce access using identity governance, identity protection, and a unified access control, secure customer and partner access with external identities, and secure access across multi-cloud environments.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=129)** Microsoft Entra includes various products to implement these capabilities, such as Microsoft Entra ID, formerly Azure Active Directory, this is a cloud-based identity and access management solution; and Microsoft Entra Identity Governance provides functions such as entitlement management, access reviews, and privileged identity management.
+> **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=129)** Microsoft Entra includes various [[Microsoft Products|products]] to implement these capabilities, such as [[Microsoft Entra ID]], formerly [[Microsoft Entra ID|Azure Active Directory]], this is a cloud-based identity and access management solution; and Microsoft Entra Identity Governance provides functions such as entitlement management, access reviews, and privileged identity management.
 >
 > **[2:35](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/identity-and-access-security-with-microsoft-entra?u=76281980&t=155)** Now let's take a quick tour of Microsoft Entra.
 >
@@ -605,37 +596,36 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Microsoft]] (7), [[Microsoft Entra ID|Entra]] (6), [[Security]] (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Products|Products]] (1), [[Microsoft Entra ID]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** iam (2), aaa (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Prerequisites:** set up (1), configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID: Identity management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980)
+#### [Microsoft Entra ID: Identity management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=0)** - [Instructor] Let's look at identity management in Microsoft Entra ID.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=0)** - [Instructor] Let's look at identity management in [[Microsoft Entra ID]].
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=6)** Microsoft Entra ID, formerly Azure Active Directory, is a cloud-based identity and access management service.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=6)** Microsoft Entra ID, formerly [[Microsoft Entra ID|Azure Active Directory]], is a cloud-based identity and access management service.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=14)** Here's a diagram from Microsoft that shows the role of Microsoft Entra ID.
+> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=14)** Here's a diagram from [[Microsoft]] that shows the role of Microsoft Entra ID.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=20)** We can see Microsoft Entra ID acts as a control center.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=24)** It provides identities for users, devices, and the workloads, and it connects services like Azure, Microsoft 365, and the numerous apps in the cloud or on-premises.
+> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=24)** It provides identities for users, devices, and the workloads, and it connects services like [[Microsoft Azure|Azure]], [[Microsoft 365]], and the numerous apps in the cloud or on-premises.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=39)** What types of identities can you manage in Microsoft Entra?
+> **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=39)** What types of identities can you manage in Microsoft [[Microsoft Entra ID|Entra]]?
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=43)** Basically, there are identities for people and identities for machines.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=49)** Within human identities, we have identities for internal users who are the employees of your organization and identities for external users, such as customers, consultants, and suppliers.
 >
-> **[1:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=65)** Within machine identities, we have identities for devices such as laptops, mobile phones, and IOT devices.
+> **[1:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=65)** Within machine identities, we have identities for devices such as laptops, mobile phones, and [[IoT]] devices.
 >
-> **[1:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=74)** And identities for workloads such as virtual machines, applications, and services.
+> **[1:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=74)** And identities for workloads such as [[Virtual Machines]], applications, and services.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=81)** Groups help us manage identities more efficiently.
 >
@@ -653,7 +643,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=122)** This group type can only have users and members.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=126)** It provides access to a shared mailbox, cutting the files, and the SharePoint signs.
+> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=126)** It provides access to a shared mailbox, cutting the files, and the [[SharePoint]] signs.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-identity-management?u=76281980&t=134)** Now, let's do a quick demo of identity management in Microsoft Entra ID.
 >
@@ -707,14 +697,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Microsoft]] (4), management (3), [[Microsoft Entra ID|Entra]] (3), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (6), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (3), [[Microsoft 365]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Analogies:** for example (4), such as (3)
 > **Env Vars:** iot (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID: Hybrid identities
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980)
+#### [Microsoft Entra ID: Hybrid identities](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,9 +713,9 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=14)** We need to use hybrid identities.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=18)** Traditionally, organizations manage their identities locally for accessing on-premises resources, such as shared drives, servers, and databases.
+> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=18)** Traditionally, organizations manage their identities locally for accessing on-premises resources, such as shared drives, servers, and [[Databases]].
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=30)** With the migration to the cloud, organizations create cloud-based identities for accessing cloud services, such as virtual machines, containers, and storage.
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=30)** With the migration to the cloud, organizations create cloud-based identities for accessing [[Cloud Services]], such as [[Virtual Machines]], containers, and storage.
 >
 > **[0:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=42)** However, these are two separate identity management systems.
 >
@@ -734,13 +723,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=54)** This is where hybrid identities come into play.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=59)** When using Microsoft identity management solutions, companies typically manage on-premises identities with one or more active directories, while cloud-based identities are managed with Microsoft Entra ID.
+> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=59)** When using [[Microsoft]] identity management solutions, companies typically manage on-premises identities with one or more active directories, while cloud-based identities are managed with [[Microsoft Entra ID]].
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=75)** To enable hybrid identities, we need to implement provisioning and synchronization between on-premises and cloud-based identity systems.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=86)** Provisioning means creating identities across different directory systems, and synchronization ensures identity information remains consistent.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=97)** We can use a Microsoft Entra cloud sync to implement hybrid identities.
+> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=97)** We can use a Microsoft [[Microsoft Entra ID|Entra]] cloud sync to implement hybrid identities.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-hybrid-identities?u=76281980&t=104)** By downloading and installing a lightweight agent in their on-premises environment, organizations can use a Microsoft Entra cloud sync to manage identity provisioning and synchronization.
 >
@@ -756,16 +745,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (5), management (3), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (5), [[Databases]] (1), [[Cloud Services]] (1), [[Virtual Machines]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - although (1)
 
-#### Microsoft Entra ID: Authentication methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980)
+#### [Microsoft Entra ID: Authentication methods](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=0)** - [Instructor] Microsoft Entra ID offers various authentication methods.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=0)** - [Instructor] [[Microsoft Entra ID]] offers various authentication methods.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=4)** Before we get into them, let's revisit the fundamental concept of authentication.
 >
@@ -783,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=54)** This is because simple passwords like a 123456 or password1 are very easy for hackers to crack.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=63)** Additionally, people often reuse the same password for multiple services like banking, social media, or work accounts.
+> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=63)** Additionally, people often reuse the same password for multiple services like [[Banking]], social media, or work accounts.
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=71)** If hackers breach one service, they can use the compromised passwords to access many other systems.
 >
@@ -793,17 +781,17 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=97)** In the early implementation, the good methods are SMS, like getting a text message on your mobile phone, voice, like a receiving a phone call.
 >
-> **[1:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=111)** But now, we have some better ways like Authenticator app to receive a push notification, OATH Software Tokens that can be installed on your mobile phone, OATH Hardware Tokens that refresh codes every 30 or 60 seconds.
+> **[1:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=111)** But now, we have some better ways like Authenticator app to receive a push notification, OATH Software [[Tokens]] that can be installed on your mobile phone, OATH [[Hardware]] Tokens that refresh codes every 30 or 60 seconds.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=130)** The best solution to password problems is not using password at all.
 >
 > **[2:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=135)** This is called passwordless.
 >
-> **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=138)** We can use the authentication methods like Authenticator app to enable phone signing; Windows Hello, the building authentication methods on Windows devices using biometrics like facial detection and a fingerprints; FIDO2 security key, it's like a USB key protected by fingerprints or pins; and a certificate-based authentication.
+> **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=138)** We can use the authentication methods like Authenticator app to enable phone signing; [[Windows]] Hello, the building authentication methods on Windows devices using biometrics like facial detection and a fingerprints; FIDO2 security key, it's like a USB key protected by fingerprints or pins; and a certificate-based authentication.
 >
 > **[2:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=168)** So to sum up the evolution of authentication methods: using a password alone is bad, the good or better approach is to use a password plus something else, and the best way is to go passwordless.
 >
-> **[3:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=184)** Now let's look at authentication methods in the Microsoft Entra admin center.
+> **[3:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=184)** Now let's look at authentication methods in the [[Microsoft]] [[Microsoft Entra ID|Entra]] admin center.
 >
 > **[3:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-authentication-methods?u=76281980&t=191)** You'll see a list of available authentication methods such as FIDO2 pass key, Microsoft Authenticator, SMS, voice call, and a certificate-based authentication.
 >
@@ -819,7 +807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID]] (2), [[Tokens]] (2), [[Windows]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID]] (2), [[Tokens]] (2), [[Windows]] (2), [[Banking]] (1)
 > **Env Vars:** sms (2), oath (2), fido2 (2), usb (1)
 > **Analogies:** it's like (1), such as (1), for example (1)
 > **Prerequisites:** configure (2)
@@ -827,24 +815,23 @@ created: 2026-05-02
 > **Best Practices:** bad practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID: Password management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980)
+#### [Microsoft Entra ID: Password management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=0)** - [Instructor] Passwords are still the most common form of authentication, so it's important to manage passwords properly.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=9)** Microsoft Entra ID provides several ways to protect passwords.
+> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=9)** [[Microsoft Entra ID]] provides several ways to protect passwords.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=14)** Its building password policy enforces the password requirements, such as the minimum password length, the password complexity by using the mix of uppercase characters, lowercase characters, numbers, and symbols, and the password expiration duration.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=34)** The password lockout to handle multiple unsuccessful sign-in attempts, the banned password list to block the usage of weak passwords and their variations such as password1.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=49)** Microsoft maintains a global banned password list.
+> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=49)** [[Microsoft]] maintains a global banned password list.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=53)** Organizations can also set up their custom banned password list.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=58)** And in the hybrid environment that includes both cloud and on-premises, Microsoft Entra password protection can be integrated with an on-premises active directory.
+> **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=58)** And in the hybrid environment that includes both cloud and on-premises, Microsoft [[Microsoft Entra ID|Entra]] password protection can be integrated with an on-premises [[Active Directory]].
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=71)** Microsoft Entra ID also supports a self-service password reset or SSPR, so users can change their passwords without involving the help desk.
 >
@@ -866,7 +853,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=124)** I can enter here.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=127)** I can also enable password protection for Windows Server Active Directory.
+> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=127)** I can also enable password protection for [[Windows Server]] Active Directory.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-password-management?u=76281980&t=133)** Next, let's look at self-service password reset.
 >
@@ -884,15 +871,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID]] (2), [[Microsoft Entra ID|Entra]] (2), [[Active Directory]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID]] (2), [[Microsoft Entra ID|Entra]] (2), [[Active Directory]] (2), [[Windows Server]] (1)
 > **Analogies:** for example (4), such as (2)
 > **Prerequisites:** set up (3), configure (2)
 > **Env Vars:** sspr (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID: Multifactor authentication (MFA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980)
+#### [Microsoft Entra ID: Multifactor authentication (MFA)](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -906,7 +892,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=21)** Something you know, like your password, pin, or security questions.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=26)** Something you have, like your mobile phone, email, or hardware tokens.
+> **[0:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=26)** Something you have, like your mobile phone, email, or [[Hardware]] [[Tokens]].
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=32)** And something you are, your biometrics, like a fingerprints, voice, or face scan.
 >
@@ -918,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=57)** But using password plus security questions doesn't meet the requirement of MFA because they belong to the same factor type, something you know.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=68)** To set up MFA in Microsoft Entra ID, you can choose from several verification options, including receiving an SMS text message on your mobile phone, receiving a voice call, using Microsoft Authenticator to receive a push notification or a verification code, and use OATH software or hardware tokens to get a verification code.
+> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=68)** To set up MFA in [[Microsoft Entra ID]], you can choose from several verification options, including receiving an SMS text message on your mobile phone, receiving a voice call, using [[Microsoft]] Authenticator to receive a push notification or a verification code, and use OATH software or hardware tokens to get a verification code.
 >
 > **[1:35](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=95)** In Microsoft Entra ID, there are two common ways to enforce multifactor authentication.
 >
@@ -930,7 +916,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=117)** If you have a Microsoft Entra ID premium license, you can create conditional access policies to meet more complex security requirements.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=127)** Now let's look at multifactor authentication in the Microsoft Entra admin center.
+> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=127)** Now let's look at multifactor authentication in the Microsoft [[Microsoft Entra ID|Entra]] admin center.
 >
 > **[2:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=133)** Here I can configure the settings of multifactor authentication, such as account lockout, block or unblock users, and fraud alert.
 >
@@ -948,11 +934,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=195)** In the left menu, under Protection, click Conditional Access.
 >
-> **[3:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=200)** Here you can create a policy that requires a multi-factor authentication for a specific scenario.
+> **[3:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-id-multifactor-authentication-mfa?u=76281980&t=200)** Here you can create a policy that requires a [[Multi-factor Authentication]] for a specific scenario.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[Microsoft Entra ID]] (4), [[Microsoft]] (3), [[Hardware]] (2), [[Tokens]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID]] (4), [[Microsoft]] (3), [[Hardware]] (2), [[Tokens]] (2), [[Microsoft Entra ID|Entra]] (1)
 > **Env Vars:** mfa (8), sms (2), oath (1)
 > **Prerequisites:** set up (2), configure (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -960,16 +946,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft Entra Conditional Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980)
+#### [Microsoft Entra Conditional Access](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=0)** - [Instructor] Conditional Access in Microsoft Entra ID helps you effectively manage resource access to meet your business and security needs.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=0)** - [Instructor] Conditional Access in [[Microsoft Entra ID]] helps you effectively manage resource access to meet your business and security needs.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=9)** For example, you can use Conditional Access in these scenarios: require MFA for all users, require password changes for high-risk users, block access to an app from unsupported device platforms.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=28)** Microsoft Entra Conditional Access provides three key functions, analyzing signals from various sources, making decisions on resource access, and enforcing organizational policies.
+> **[0:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=28)** [[Microsoft]] [[Microsoft Entra ID|Entra]] Conditional Access provides three key functions, analyzing signals from various sources, making decisions on resource access, and enforcing organizational policies.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=44)** Here's a diagram from Microsoft, which describes the process of Conditional Access.
 >
@@ -999,7 +984,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=177)** Click Policies.
 >
-> **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=179)** Let's select a policy, for example, require MFA to access Azure DevOps.
+> **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=179)** Let's select a policy, for example, require MFA to access [[Microsoft Azure|Azure]] [[DevOps]].
 >
 > **[3:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-conditional-access?u=76281980&t=188)** Under Assignments for Users, this policy includes all users.
 >
@@ -1023,12 +1008,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra roles and role-based access control (RBAC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980)
+#### [Microsoft Entra roles and role-based access control (RBAC)](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=0)** - [Instructor] Microsoft Entra uses roles and role-based access control, RBAC, to manage resource access.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] uses roles and role-based access control, RBAC, to manage resource access.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=8)** Before we look at them, let's revisit the concept of authorization.
 >
@@ -1048,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=39)** A role is a collection of permissions.
 >
-> **[0:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=41)** For example, in Microsoft Entra, the global administrator role can manage all aspects of Microsoft Entra ID and the Microsoft services that use Microsoft Entra ID.
+> **[0:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=41)** For example, in Microsoft Entra, the global administrator role can manage all aspects of [[Microsoft Entra ID]] and the Microsoft services that use Microsoft Entra ID.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=53)** The global reader role can read everything that a global administrator can, but can't make any changes.
 >
@@ -1070,7 +1054,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=129)** You can also create custom roles by selecting permissions according to your specific needs.
 >
-> **[2:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=136)** Microsoft Entra roles can manage access to various Microsoft 365 services such as Microsoft Entra ID, Microsoft Defender Exchange, Intune, and Teams.
+> **[2:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=136)** Microsoft Entra roles can manage access to various [[Microsoft 365]] services such as Microsoft Entra ID, [[Microsoft Defender]] Exchange, Intune, and Teams.
 >
 > **[2:29](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=149)** We can categorize Microsoft Entra roles based on the services they cover.
 >
@@ -1088,7 +1072,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=202)** For example, Microsoft Entra RBAC that we discussed controls access to Microsoft Entra resources.
 >
-> **[3:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=211)** Azure RBAC manages access to resources on the Microsoft Azure Cloud, such as virtual machines, databases, or storage.
+> **[3:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=211)** [[Microsoft Azure|Azure]] RBAC manages access to resources on the [[Microsoft Azure]] Cloud, such as [[Virtual Machines]], [[Databases]], or storage.
 >
 > **[3:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-roles-and-role-based-access-control-rbac?u=76281980&t=222)** Now let's look at roles in the Microsoft Entra Admin center.
 >
@@ -1104,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (11), [[Security]] (5), application (5), [[Microsoft Entra ID]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (11), [[Microsoft Entra ID]] (3), [[Microsoft 365]] (2), [[Microsoft Defender]] (1)
 > **Analogies:** such as (4), for example (3)
 > **Env Vars:** rbac (4)
 > **CLI Commands:** make (1)
@@ -1112,12 +1096,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID Governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980)
+#### [Microsoft Entra ID Governance](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=0)** - [Instructor] Microsoft Entra Identity Governance helps organizations ensure the right people have the right access to the right resources at the right time.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] Identity Governance helps organizations ensure the right people have the right access to the right resources at the right time.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=10)** Identity governance is important to organizations because it addresses some key governance questions.
 >
@@ -1133,7 +1116,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=49)** The identity lifecycle refers to the process of managing a user's identity.
 >
-> **[0:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=55)** It typically follows a human resources workflow.
+> **[0:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=55)** It typically follows a [[Human Resources (HR)|human resources]] workflow.
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-governance?u=76281980&t=59)** It starts with a no access status.
 >
@@ -1179,17 +1162,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), management (2), [[Human Resources (HR)|Human resources]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** refers to (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra access reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980)
+#### [Microsoft Entra access reviews](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=0)** - [Instructor] Microsoft Entra access reviews help organizations ensure that only the right people maintain access to important resources, reducing security risks by regularly checking permissions as users change roles or responsibilities.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] access reviews help organizations ensure that only the right people maintain access to important resources, reducing security risks by regularly checking permissions as users change roles or responsibilities.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=18)** We can use access reviews in many use cases.
 >
@@ -1219,7 +1201,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=117)** We can select what to review.
 >
-> **[2:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=120)** For example, select an application, for example, Slack.
+> **[2:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=120)** For example, select an application, for example, [[Slack]].
 >
 > **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-access-reviews?u=76281980&t=127)** Then select the scope as all users.
 >
@@ -1249,19 +1231,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), business (2), [[Security]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Entra ID|Entra]] (3), [[Slack]] (1)
 > **Analogies:** for example (6), such as (1)
 > **Tools:** slack (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra Privileged Identity Management (PIM)
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980)
+#### [Microsoft Entra Privileged Identity Management (PIM)](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=0)** - [Instructor] Microsoft Entra Privileged Identity Management or PIM helps organizations reduce the risk of excessive or misused access to critical resources.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] Privileged Identity Management or PIM helps organizations reduce the risk of excessive or misused access to critical resources.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=12)** Privileged roles like admin and owner have high-level access permissions to important resources in your organization.
 >
@@ -1271,7 +1252,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=34)** That's where Privileged Identity Management comes into play.
 >
-> **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=39)** Microsoft Entra Privileged Identity Management can manage roles in Microsoft Entra like global administrator, user administrator, or billing administrator, roles in Azure, like owner, contributor, and user access administrator, and also make groups eligible for role assignments.
+> **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=39)** Microsoft Entra Privileged Identity Management can manage roles in Microsoft Entra like global administrator, user administrator, or billing administrator, roles in [[Microsoft Azure|Azure]], like owner, contributor, and user access administrator, and also make groups eligible for role assignments.
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-privileged-identity-management-pim?u=76281980&t=63)** Microsoft Entra Privileged Identity Management or PIM offers some key capabilities, such as just in time or JIT access.
 >
@@ -1331,21 +1312,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (6), management (6), application (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Entra ID|Entra]] (6), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (3), such as (1)
 > **Env Vars:** pim (2), jit (1)
 > **Definitions:** refers to (1), known as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra ID Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980)
+#### [Microsoft Entra ID Protection](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=0)** - [Instructor] Identity plays a critical role in today's digital world.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=4)** Microsoft Entra Identity Protection enables organizations to effectively manage identity based risks.
+> **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=4)** [[Microsoft]] [[Microsoft Entra ID|Entra]] Identity Protection enables organizations to effectively manage identity based risks.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=12)** There are some common types of identity based risks.
 >
@@ -1365,7 +1345,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=54)** Microsoft Entra Identity Protection provides several key capabilities, including detect risks.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=62)** Microsoft leverages its big data and threat intelligence to detect identity based risks.
+> **[1:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=62)** Microsoft leverages its [[Big Data]] and threat intelligence to detect identity based risks.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-identity-protection?u=76281980&t=69)** Investigate risks by providing reports for detected risky users, risky signings, and risky workload identities.
 >
@@ -1393,20 +1373,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (3), [[Security]] (2), web (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Microsoft Entra ID|Entra]] (3), [[Big Data]] (1)
 > **Analogies:** for example (3), such as (2)
 > **Env Vars:** mfa (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra Permissions Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980)
+#### [Microsoft Entra Permissions Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=0)** - [Instructor] Microsoft Entra Permissions Management helps organizations essentially control permissions for all identities across a multi-cloud environment.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] Permissions Management helps organizations essentially control permissions for all identities across a multi-cloud environment.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=11)** Many companies run their workloads, and services in multiple clouds, such as Microsoft Azure, AWS and the Google Cloud.
+> **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=11)** Many companies run their workloads, and services in multiple clouds, such as [[Microsoft Azure]], AWS and the [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=20)** However, working with different cloud platforms simultaneously significantly increase the complexity.
 >
@@ -1440,7 +1419,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=129)** Click settings.
 >
-> **[2:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=133)** Here you can configure the connections to multiple cloud platforms, including AWS, Azure and the GCP.
+> **[2:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=133)** Here you can configure the connections to multiple cloud platforms, including AWS, [[Microsoft Azure|Azure]] and the GCP.
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-permissions-management?u=76281980&t=142)** On the dashboard page, it shows the Permission Creep Index or PCI.
 >
@@ -1458,7 +1437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), management (5), [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), aws (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Entra ID|Entra]] (4), [[Microsoft Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (2), gcp (1), pci (1)
 > **CLI Commands:** aws (2), find (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -1466,22 +1445,21 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Entra Global Secure Access
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980)
+#### [Microsoft Entra Global Secure Access](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=0)** - [Instructor] Microsoft Entra Global Secure Access helps organizations manage controlled access to software as service, SaaS applications, and private corporate resources.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=0)** - [Instructor] [[Microsoft]] [[Microsoft Entra ID|Entra]] Global Secure Access helps organizations manage controlled access to software as service, [[SaaS]] applications, and private corporate resources.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=12)** From a security point of view, it delivers the key capabilities of a security service edge solution.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=19)** What is security service edge, or SSE?
+> **[0:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=19)** What is security service edge, or [[Server-Sent Events|SSE]]?
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=23)** It's a cloud-based service that ensures safe access to the internet, cloud services, and private resources from anywhere.
+> **[0:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=23)** It's a cloud-based service that ensures safe access to the internet, [[Cloud Services]], and private resources from anywhere.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=32)** Security service edge includes several key services, Cloud Access Security Broker, CASB, or CASB, for securing cloud applications and data, Secure Web Gateway, SWG, for filtering internet traffic, blocking harmful websites, and enforcing corporate policies, and Zero Trust and Network Access, or ZTNA, for allowing remote users to access internal resources based on zero trust principles.
 >
-> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=68)** While mapping these SSE services to Microsoft products, the matching solutions are Microsoft Defender for Cloud Apps, Microsoft Entra Internet Access, and a Microsoft Entra Private Access.
+> **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=68)** While mapping these SSE services to [[Microsoft Products]], the matching solutions are [[Microsoft Defender]] for Cloud Apps, Microsoft Entra Internet Access, and a Microsoft Entra Private Access.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=86)** Also, Microsoft Entra Global Secure Access is the unifying term that includes both Microsoft Entra internet access and private access.
 >
@@ -1491,7 +1469,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=111)** It's built on zero trust principles.
 >
-> **[1:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=114)** It works with identities, endpoints, and remote networks to route network traffic and provide secure access to various environments such as Microsoft 365 internet and private places.
+> **[1:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=114)** It works with identities, endpoints, and remote networks to route network traffic and provide secure access to various environments such as [[Microsoft 365]] internet and private places.
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-entra-global-secure-access?u=76281980&t=129)** You can replace traditional VPNs with Microsoft Entra private access to securely connect to your corporate network from anywhere.
 >
@@ -1541,7 +1519,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (10), traffic (8), [[Security]] (5), cloud (5)
+> **Frameworks & Libraries:** [[Microsoft]] (12), [[Microsoft Entra ID|Entra]] (10), [[Server-Sent Events|Sse]] (2), [[SaaS]] (1), [[Cloud Services]] (1)
 > **Env Vars:** sse (2), casb (2), swg (1), ztna (1), fqdn (1)
 > **Analogies:** such as (2), for example (2)
 > **Definitions:** is called (2)
@@ -1555,12 +1533,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SIEM and SOAR with Microsoft Sentinel
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980)
+#### [SIEM and SOAR with Microsoft Sentinel](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=0)** - Microsoft Sentinel is a cloud native SIEM and a SOAR solution.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=0)** - [[Microsoft]] Sentinel is a cloud native SIEM and a SOAR solution.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=5)** First, let's talk about what SIEM and SOAR mean.
 >
@@ -1568,7 +1545,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=13)** SOAR stands for security orchestration, automation, and response.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=18)** These are two popular technologies used in modern security operations.
+> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=18)** These are two popular technologies used in modern [[Security Operations]].
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=24)** Here's the general workflow of SIEM.
 >
@@ -1580,7 +1557,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=49)** If any cyber threats are detected, alerts are raised and sent to the incident management process.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=57)** SOAR focuses on incident response process.
+> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=57)** SOAR focuses on [[Incident Response]] process.
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=61)** It empowers you to achieve your security objectives through orchestration, which integrates various solutions and tools to perform security tasks.
 >
@@ -1598,11 +1575,11 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=140)** Let's take a quick tour of Microsoft Sentinel.
 >
-> **[2:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=143)** On the Overview page, we can see the dashboard for incidence information, data collection information, and analytics rules.
+> **[2:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=143)** On the Overview page, we can see the dashboard for incidence information, [[Data Collection]] information, and analytics rules.
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=153)** Under Threat Management, you can manage incidents, create workbooks, hunt threats, analyze threat intelligence, and leverage the Mitre Attack framework.
 >
-> **[2:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=174)** Under Content Management, you can explore the Content Hub.
+> **[2:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=174)** Under [[Content Management]], you can explore the Content Hub.
 >
 > **[3:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/siem-and-soar-with-microsoft-sentinel?u=76281980&t=181)** You can find pre-configured solutions, connectors, workbooks, analytic rules, playbooks, and hunting queries.
 >
@@ -1610,7 +1587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), data (8), management (4), [[Automation]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Security Operations]] (2), [[Incident Response]] (2), [[Data Collection]] (1), [[Content Management]] (1)
 > **Env Vars:** siem (8), soar (7)
 > **Definitions:** is a  (2), stands for (2)
 > **CLI Commands:** find (1)
@@ -1618,18 +1595,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - microsoft (1)
 
-#### Microsoft Sentinel: Incident detection and response
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980)
+#### [Microsoft Sentinel: Incident detection and response](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=0)** - [Announcer] Microsoft Sentinel is a powerful security information and a event management scene, and a security orchestration, automation, and response source solution.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=0)** - [Announcer] [[Microsoft]] Sentinel is a powerful security information and a event management scene, and a security orchestration, automation, and response source solution.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=11)** It enables end-to-end security operations for threat detection and incident response.
+> **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=11)** It enables end-to-end [[Security Operations]] for threat detection and [[Incident Response]].
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=18)** Let's look at some key capabilities that Microsoft Sentinel provides at each stage of the process.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=26)** For data collection, you can use data connectors to gather data from many Microsoft services and third-party solutions.
+> **[0:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=26)** For [[Data Collection]], you can use data connectors to gather data from many Microsoft services and third-party solutions.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=34)** For threat detection, you can use analytics to identify threats and to group alerts into incidents.
 >
@@ -1657,7 +1633,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=119)** For data connection, you can use data connectors.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=123)** You can import data from numerous sources like Azure, Microsoft 365, Microsoft Defender, Microsoft Entra ID, and a third-party solutions.
+> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=123)** You can import data from numerous sources like [[Microsoft Azure|Azure]], [[Microsoft 365]], [[Microsoft Defender]], [[Microsoft Entra ID]], and a third-party solutions.
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-sentinel-incident-detection-and-response?u=76281980&t=138)** For threat detection, you can enable analytics rules to generate alerts and incidents.
 >
@@ -1671,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft]] (4), [[Security]] (3), [[Automation]] (3), [[Incident Response]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Incident Response]] (3), [[Security Operations]] (1), [[Data Collection]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** mitre (2), att (2), vip (1)
 > **Tools:** jupyter (2)
 > **Definitions:** is a  (2)
@@ -1683,12 +1659,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Threat protection with Microsoft Defender XDR
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980)
+#### [Threat protection with Microsoft Defender XDR](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=0)** - [Instructor] Microsoft Defender XDR is a unified threat protection solution.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] XDR is a unified threat protection solution.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=5)** You may ask, "What is XDR?"
 >
@@ -1696,13 +1671,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=13)** It's a type of security solution that collects data from various sources, like endpoint devices, emails, and cloud applications within your organization's environment, analyzes and detects threats and enables rapid response to those threats.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=33)** Microsoft Defender XDR is a suite of products that includes Microsoft Defender for Identity, which detects and investigates threats using active directory signals; Microsoft Defender for Endpoint, which offers protection, detection and incident response for endpoint devices; Microsoft Defender Vulnerability Management, which provides asset visibility, risk assessments, and a remediation for vulnerabilities and misconfigurations; Microsoft Defender for Office 365, which protects against threats from emails, links, and collaboration tools; and Microsoft Defender for Cloud Apps, which secures software-as-a-service, SaaS, applications
+> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=33)** Microsoft Defender XDR is a suite of [[Microsoft Products|products]] that includes Microsoft Defender for Identity, which detects and investigates threats using [[Active Directory]] signals; Microsoft Defender for Endpoint, which offers protection, detection and [[Incident Response]] for endpoint devices; Microsoft Defender Vulnerability Management, which provides asset visibility, risk assessments, and a remediation for vulnerabilities and misconfigurations; Microsoft Defender for [[Microsoft Office|Office]] 365, which protects against threats from emails, links, and collaboration tools; and Microsoft Defender for Cloud Apps, which secures software-as-a-service, [[SaaS]], applications
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=85)** with visibility, data controls, and threat protection.
 >
 > **[1:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=90)** You can access Microsoft Defender XDR through its unified portal.
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=97)** In addition, Microsoft Defender XDR is integrated with [[Microsoft Security Copilot]], an AI-powered security analysis solution.
+> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=97)** In addition, Microsoft Defender XDR is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered security analysis solution.
 >
 > **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=107)** With Security Copilot, you can use prompts to perform common tasks, such as summarizing an incident or generating a guided response.
 >
@@ -1710,7 +1685,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=123)** Here's a Microsoft Defender portal.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=126)** On the homepage, you can see a dashboard with various widgets, such as device compliance, Microsoft Secure Score and active incidents.
+> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=126)** On the homepage, you can see a dashboard with various widgets, such as device compliance, [[Microsoft]] Secure Score and active incidents.
 >
 > **[2:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=144)** Under investigation and response, you can manage incidents, review alerts and perform advanced hunting.
 >
@@ -1718,23 +1693,22 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=164)** Through the Microsoft Defender unified portal, you can access various Microsoft security products, including Microsoft Defender for Identity, Microsoft Defender for Endpoint, Microsoft Defender Vulnerability Management, Microsoft Defender for Office 365 and Microsoft Defender for Cloud Apps.
 >
-> **[3:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=192)** You can also access Microsoft Sentinel capabilities from this portal, which brings you unified security operations platform between XDR and SIEM solutions.
+> **[3:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/threat-protection-with-microsoft-defender-xdr?u=76281980&t=192)** You can also access Microsoft Sentinel capabilities from this portal, which brings you unified [[Security Operations]] platform between XDR and SIEM solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender]] (17), [[Security]] (4), cloud (3), data (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (17), [[Microsoft Products|Products]] (2), [[Microsoft Office|Office]] (2), [[Microsoft Security]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **Env Vars:** xdr (8), siem (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender investigation and response
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980)
+#### [Microsoft Defender investigation and response](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=0)** - [Instructor] Let's look at the threat investigation and response capabilities in Microsoft Defender.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=0)** - [Instructor] Let's look at the threat investigation and response capabilities in [[Microsoft Defender]].
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=7)** Here's the Microsoft Defender portal.
 >
@@ -1744,7 +1718,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=18)** Let's select an incident.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=22)** Copilot in Defender, the AI-powered security analysis tool, summarizes the incident and it generates a guided response.
+> **[0:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=22)** [[Microsoft Copilot|Copilot]] in [[Microsoft Defender|Defender]], the AI-powered security analysis tool, summarizes the incident and it generates a guided response.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-investigation-and-response?u=76281980&t=40)** The incident graph shows the entities involved in this incident such as devices, accounts, IP addresses, files, and the processes.
 >
@@ -1762,17 +1736,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender]] (2), [[Microsoft Copilot|Copilot]] (1), [[Microsoft Defender|Defender]] (1), ai (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (2), [[Microsoft Copilot|Copilot]] (1), [[Microsoft Defender|Defender]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender Threat Intelligence
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980)
+#### [Microsoft Defender Threat Intelligence](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=0)** - [Instructor] Let's look at the Threat Intelligence capabilities in Microsoft Defender.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=0)** - [Instructor] Let's look at the Threat Intelligence capabilities in [[Microsoft Defender]].
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=6)** What is threat intelligence?
 >
@@ -1780,7 +1753,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=16)** It helps us investigate the profiles of threat actors who conduct cyber attacks, identify their attack tactics, which are their goals or strategies, such as initial access, privilege escalation, or lateral movement.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=33)** Techniques, their methods to execute the tactics, such as phishing, process injection, or remote services.
+> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=33)** Techniques, their methods to execute the tactics, such as [[Phishing]], process injection, or remote services.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=43)** And the procedures, the step-by-step actions to apply the techniques.
 >
@@ -1798,13 +1771,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=124)** You will see a list of reports.
 >
-> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=127)** You can also use Copilot in Defender to summarize or prioritize the threats.
+> **[2:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=127)** You can also use [[Microsoft Copilot|Copilot]] in [[Microsoft Defender|Defender]] to summarize or prioritize the threats.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=136)** Threat analytics also categorizes threats into latest threats that are most recent threat reports, high-impact threats that relate to organization's active or closed alerts, and the highest exposure threats that target the vulnerabilities in the organization's assets, such as desktops or applications.
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=164)** Select Intel profiles.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=167)** You can access Microsoft's shareable knowledge on threat actors, malicious tools, and vulnerabilities.
+> **[2:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=167)** You can access [[Microsoft]]'s shareable knowledge on threat actors, malicious tools, and vulnerabilities.
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-threat-intelligence?u=76281980&t=180)** Click Intel explorer.
 >
@@ -1820,31 +1793,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender]] (5), [[Analytics]] (3), [[Search]] (3), data (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (5), [[Phishing]] (1), [[Microsoft Copilot|Copilot]] (1), [[Microsoft Defender|Defender]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Env Vars:** cve (3), ioc (1)
 > **CLI Commands:** find (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender for Endpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980)
+#### [Microsoft Defender for Endpoint](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=0)** - [Instructor] So let's look at Microsoft Defender for Endpoint.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=0)** - [Instructor] So let's look at [[Microsoft Defender]] for Endpoint.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=4)** What is an endpoint?
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=6)** It can be any device that communicates with a computer network, such as a laptop, desktop, server, virtual machine, phone, tablet, or internet of things, IoT device, like a security camera and a smart speaker.
+> **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=6)** It can be any device that communicates with a computer network, such as a laptop, desktop, server, virtual machine, phone, tablet, or [[IoT|internet of things]], [[IoT]] device, like a security camera and a smart speaker.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=24)** It's critical for organizations to secure their endpoints, because hackers can use a compromised device to penetrate the network and launch further attacks.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=36)** Microsoft Defender for Endpoint is a comprehensive solution that helps organizations protect their endpoints.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=44)** It offers various capabilities including Core Defender Vulnerability Management, which uses a risk-driven approach to manage endpoint vulnerabilities and misconfigurations; attack surface reduction, which verifies configuration settings and applies security controls like network protection and web protection; next-generation protection, which enhances antivirus functions by using techniques like behavior analysis, cloud-delivered protection, and a near-instant detection; endpoint detection and response, which helps security analysts better analyze and mitigate threats; automated investigation and remediation, or A-I-R, AIR,
+> **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=44)** It offers various capabilities including Core [[Microsoft Defender|Defender]] Vulnerability Management, which uses a risk-driven approach to manage endpoint vulnerabilities and misconfigurations; attack surface reduction, which verifies configuration settings and applies security controls like network protection and web protection; next-generation protection, which enhances antivirus functions by using techniques like behavior analysis, cloud-delivered protection, and a near-instant detection; endpoint detection and response, which helps security analysts better analyze and mitigate threats; automated investigation and remediation, or A-I-R, AIR,
 >
-> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=97)** which automatically investigates alerts and performs remediation actions; Microsoft Secure Score for Devices, which helps you assess the current state, identify gaps, and take recommended actions; Microsoft Threat Experts, which offers a managed threat-hunting service; and management and APIs, which provides various APIs to share data and actions.
+> **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=97)** which automatically investigates alerts and performs remediation actions; [[Microsoft]] Secure Score for Devices, which helps you assess the current state, identify gaps, and take recommended actions; Microsoft Threat Experts, which offers a managed threat-hunting service; and management and APIs, which provides various APIs to share data and actions.
 >
 > **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=128)** You can access Microsoft Defender for Endpoint through the unified Microsoft Defender portal.
 >
@@ -1860,25 +1832,24 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=163)** You can use API Explorer to test the Microsoft Defender for Endpoint capabilities.
 >
-> **[2:50](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=170)** Expand the Configuration management.
+> **[2:50](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=170)** Expand the [[Configuration Management]].
 >
-> **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=173)** You can access the Dashboard and manage Endpoint security policies.
+> **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-endpoint?u=76281980&t=173)** You can access the Dashboard and manage [[Endpoint Security]] policies.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender]] (6), [[Security]] (3), management (3), [[Microsoft]] (2), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (6), [[Microsoft]] (2), [[IoT|Internet of things]] (1), [[IoT]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** air (1), api (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender Vulnerability Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980)
+#### [Microsoft Defender Vulnerability Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=0)** - [Narrator] Let's look at Microsoft Defender Vulnerability Management.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=0)** - [Narrator] Let's look at [[Microsoft Defender]] Vulnerability Management.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=5)** What is a vulnerability?
 >
@@ -1892,7 +1863,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=37)** CVE stands for Common Vulnerabilities and Exposures.
 >
-> **[0:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=42)** It's an industry standardized system for tracking publicly-known cybersecurity vulnerabilities.
+> **[0:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=42)** It's an industry standardized system for tracking publicly-known [[Cybersecurity]] vulnerabilities.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=49)** Each CVE has a unique number.
 >
@@ -1902,11 +1873,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=67)** Continuous asset discovery and monitoring.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=70)** It provides the inventories of software, hardware, firmware, browser extensions, and digital certificates, so you can have a real-time view of your organization's assets.
+> **[1:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=70)** It provides the inventories of software, [[Hardware]], firmware, browser extensions, and digital certificates, so you can have a [[Real-Time]] view of your organization's assets.
 >
 > **[1:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=84)** Risk-based intelligent prioritization.
 >
-> **[1:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=87)** It leverages Microsoft's threat intelligence, risk predictions, and device assessments to prioritize your organization's vulnerabilities, so you can focus on the most critical tasks.
+> **[1:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=87)** It leverages [[Microsoft]]'s threat intelligence, risk predictions, and device assessments to prioritize your organization's vulnerabilities, so you can focus on the most critical tasks.
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-vulnerability-management?u=76281980&t=102)** Remediation and tracking.
 >
@@ -1952,23 +1923,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (5), [[Microsoft Defender]] (4), [[Security]] (4), [[Hardware]] (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (4), [[Hardware]] (2), [[Real-Time]] (2), [[Microsoft]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** cve (5)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft Defender for Office 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980)
+#### [Microsoft Defender for Office 365](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=0)** - [Instructor] Office 365 is a popular suite of productivity and collaboration tools, which includes applications like Word, Excel, PowerPoint, Outlook, and Teams.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=0)** - [Instructor] [[Microsoft Office|Office]] 365 is a popular suite of productivity and collaboration tools, which includes applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[Microsoft Outlook|Outlook]], and Teams.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=13)** Microsoft Defender for Office 365 integrates with Office 365 subscriptions and helps organizations protect against cyber threats.
+> **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=13)** [[Microsoft Defender]] for Office 365 integrates with Office 365 subscriptions and helps organizations protect against cyber threats.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=24)** There are some common attack techniques targeting Office 365, such as phishing.
+> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=24)** There are some common attack techniques targeting Office 365, such as [[Phishing]].
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=31)** Hackers send crafted emails to trick users into disclosing confidential information or taking unintended actions.
 >
@@ -1980,7 +1950,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=58)** Microsoft Defender for Office 365 protects organizations from cyber attacks with three key capabilities.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=67)** Prevent and detect email and collaboration-based threats, using features such as anti-malware policies, filtering for spam in connections, safe attachments, alerts, attack simulation training, and integration with security information and event management, or SIEM solution.
+> **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=67)** Prevent and detect email and collaboration-based threats, using features such as anti-malware policies, filtering for spam in connections, safe attachments, alerts, attack [[Simulation]] training, and integration with security information and event management, or SIEM solution.
 >
 > **[1:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=91)** Investigate threats with features such as threat exposure review, campaigns, threat tracker, and exchange message trace.
 >
@@ -2010,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=191)** Click Attack simulation training.
 >
-> **[3:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=195)** You can build various attack simulations for security awareness training in your organization.
+> **[3:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=195)** You can build various attack simulations for [[Security Awareness]] training in your organization.
 >
 > **[3:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-office-365?u=76281980&t=204)** Policies and rules.
 >
@@ -2018,27 +1988,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Defender]] (4), [[Security]] (3), [[Phishing]] (2), [[Simulation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Defender]] (4), [[Phishing]] (2), [[Simulation]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** url (2), siem (2), zap (1), air (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** install (1), set up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender for Identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980)
+#### [Microsoft Defender for Identity](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=0)** - [Instructor] Microsoft Defender for Identity is a cloud-based security solution that helps organizations protect identities across their environments.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Identity is a cloud-based security solution that helps organizations protect identities across their environments.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=11)** Many companies operate in hybrid environments, combining on-premises and cloud systems.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=18)** How does Microsoft Defender for Identity collect user signals from your on-premises infrastructure?
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=25)** Here's a diagram from Microsoft that describes the high level workflow.
+> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=25)** Here's a diagram from [[Microsoft]] that describes the high level workflow.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=30)** First, you need to install software based sensors on your on-premises identity servers, such as domain controllers or servers running active directory federated services.
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=30)** First, you need to install software based sensors on your on-premises identity servers, such as domain controllers or servers running [[Active Directory]] federated services.
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=44)** Then these sensors collect signals and send parsed the data to Microsoft Defender for Identity to perform identity threat detection and response.
 >
@@ -2048,7 +2017,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=87)** Detect threats by monitoring user behavior, detecting suspicious activities, and identify advanced threats throughout each stage of the attack process.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=99)** Investigate alerts and user activities using a simple real-time attack timeline and remediate attacks by taking actions, such as disabling compromised users in the on-premises network or resetting user passwords.
+> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=99)** Investigate alerts and user activities using a simple [[Real-Time]] attack timeline and remediate attacks by taking actions, such as disabling compromised users in the on-premises network or resetting user passwords.
 >
 > **[1:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=119)** Now let's do a quick demo of Microsoft Defender for Identity.
 >
@@ -2062,15 +2031,15 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=164)** Click Health Issues.
 >
-> **[2:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=166)** You can check the health status of your Defender for Identity instance and sensors.
+> **[2:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=166)** You can check the health status of your [[Microsoft Defender|Defender]] for Identity instance and sensors.
 >
 > **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=173)** Click Tools.
 >
-> **[2:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=175)** You can find the resources to help manage your Microsoft Defender for Identity environment, including documentation, sizing tool, readiness script, and a PowerShell module for configuring and validating your environment.
+> **[2:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-identity?u=76281980&t=175)** You can find the resources to help manage your Microsoft Defender for Identity environment, including documentation, sizing tool, readiness script, and a [[Powershell]] module for configuring and validating your environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Defender]] (9), cloud (3), [[Security]] (3), [[Microsoft]] (2), data (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (9), [[Microsoft]] (2), [[Active Directory]] (1), [[Real-Time]] (1), [[Microsoft Defender|Defender]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** itdr (2)
 > **Definitions:** is a  (1), stands for (1)
@@ -2079,16 +2048,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender for Cloud Apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980)
+#### [Microsoft Defender for Cloud Apps](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=0)** - [Narrator] Software as service, SaaS applications, are widely used today.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=0)** - [Narrator] Software as service, [[SaaS]] applications, are widely used today.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=5)** However, they create significant challenges for corporations in securing variance SaaS apps into their data.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=14)** Microsoft Defender for cloud apps enables organizations to deploy comprehensive protection for their SaaS applications.
+> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=14)** [[Microsoft Defender]] for cloud apps enables organizations to deploy comprehensive protection for their SaaS applications.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=23)** For example, it delivers the key capabilities of a CASB solution.
 >
@@ -2096,7 +2064,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=33)** It access a gatekeeper for managed access to cloud resources, defend against the threats, discover SaaS app usage, protect data, and ensure compliance.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=47)** In addition, Microsoft Defender for cloud apps offers SaaS security posture management, SSPM, by identifying misconfigurations and recommending improvement to actions based on industry standards and the best practices, and integrating with Microsoft Secure Score.
+> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=47)** In addition, Microsoft Defender for cloud apps offers SaaS security posture management, SSPM, by identifying misconfigurations and recommending improvement to actions based on industry standards and the best practices, and integrating with [[Microsoft]] Secure Score.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-apps?u=76281980&t=68)** Advanced threat protection by providing building adaptive access control, performing user and entity behavior analysis, and integrating with Microsoft Defender, XDR.
 >
@@ -2140,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[SaaS]] (5), [[Microsoft Defender]] (5), data (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[SaaS]] (5), [[Microsoft Defender]] (5), [[Microsoft]] (1)
 > **Env Vars:** casb (2), sspm (1), xdr (1), oath (1)
 > **Definitions:** stands for (1), is an  (1)
 > **CLI Commands:** find (1)
@@ -2152,8 +2120,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Virtual Network
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980)
+#### [Azure Virtual Network](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,11 +2128,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=4)** Before migrating your workloads from an on-premises environment to the cloud, it's critical to properly design your cloud network.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=15)** Azure Virtual Network or VNet, enables organizations to build and manage their private network environment in the Microsoft Azure Cloud.
+> **[0:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=15)** [[Microsoft Azure|Azure]] Virtual Network or VNet, enables organizations to build and manage their private network environment in the [[Microsoft Azure]] Cloud.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=25)** It offers additional benefits such as scalability and availability.
+> **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=25)** It offers additional benefits such as [[Scalability]] and availability.
 >
-> **[0:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=31)** Network segmentation is a key concept in network security design.
+> **[0:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=31)** Network segmentation is a key concept in [[Network Security]] design.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-virtual-network?u=76281980&t=36)** Basically, it means dividing a single large network into smaller parts.
 >
@@ -2221,19 +2188,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Security]] (4), cloud (3), [[Microsoft Azure]] (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Azure]] (1), [[Scalability]] (1), [[Network Security]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Tools:** azure portal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure network security group
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980)
+#### [Azure network security group](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=0)** - [Narrator] A Network Security Group is an Azure service that filters network layer traffic within your virtual networks.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=0)** - [Narrator] A [[Network Security]] Group is an [[Microsoft Azure|Azure]] service that filters network layer traffic within your virtual networks.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=8)** After creating a network security group, or NSG, you can associate it with multiple subnets or network interfaces.
 >
@@ -2259,7 +2225,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=76)** Network traffic source and a destination.
 >
-> **[1:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=80)** This can be an IP address, a range of IP addresses, a service tag, or application security groups.
+> **[1:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=80)** This can be an IP address, a range of IP addresses, a service tag, or [[Application Security]] groups.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-network-security-group?u=76281980&t=89)** And finally, action.
 >
@@ -2297,7 +2263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Security]] (7), [[Network Security]] (6), [[Microsoft Azure|Azure]] (3), application (1)
+> **Frameworks & Libraries:** [[Network Security]] (6), [[Microsoft Azure|Azure]] (3), [[Application Security]] (1)
 > **Env Vars:** nsg (3), tcp (1), udp (1)
 > **Tools:** azure portal (1)
 > **Definitions:** is an  (1)
@@ -2305,12 +2271,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980)
+#### [Azure Firewall](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=0)** - [Instructor] Azure Firewall is a managed cloud-based network security service provided by Microsoft Azure.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Firewall is a managed cloud-based [[Network Security]] service provided by [[Microsoft Azure]].
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=8)** Firewalls are classic security controls.
 >
@@ -2318,7 +2283,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=19)** Firewalls monitor and filter inbound and outbound network traffic based on predefined security policies or rules.
 >
-> **[0:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=28)** However, as organizations migrate their workloads to the cloud, traditional firewalls face challenges in meeting the demands of hybrid environments, spanning both on-premises and a cloud infrastructure.
+> **[0:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=28)** However, as organizations migrate their workloads to the cloud, traditional firewalls face challenges in meeting the demands of hybrid environments, spanning both on-premises and a [[Cloud Infrastructure]].
 >
 > **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=44)** This is where Azure Firewall comes into play.
 >
@@ -2330,9 +2295,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=67)** It also provides additional capabilities, such as monitoring both network and application network traffic, including protocols like HTTPS, building high availability to ensure continuous operations, tracking states of active connections to make decisions based on traffic context, supporting source and destination Network Address Translation, or NAT, to manage and secure traffic between the internet and your private resources, and integration with many other Azure services, like Azure Virtual Networks, Azure Policy, and Azure Monitor.
 >
-> **[1:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=113)** Moreover, Azure Firewall is integrated with [[Microsoft Security Copilot]], an AI-powered assistant for security analysts.
+> **[1:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=113)** Moreover, Azure Firewall is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered assistant for security analysts.
 >
-> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=123)** By enabling the Azure Firewall plugin, you can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as searching across firewalls for intrusion detection and prevention signatures, or asking Copilot to generate recommendations to secure your environment using Azure Firewall.
+> **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=123)** By enabling the Azure Firewall plugin, you can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as searching across firewalls for [[Intrusion Detection]] and prevention signatures, or asking Copilot to generate recommendations to secure your environment using Azure Firewall.
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=147)** When speaking of network security services in Azure, you may wonder, "What's the difference between an Azure Firewall and an Azure Network Security Group or NSG?"
 >
@@ -2346,27 +2311,26 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=187)** Network Security Groups filter network-layer traffic.
 >
-> **[3:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=192)** You can combine Azure Firewalls and Network Security Groups in your cloud security architecture to implement a defense-in-depth strategy.
+> **[3:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-firewall?u=76281980&t=192)** You can combine Azure Firewalls and Network Security Groups in your [[Cloud Security]] architecture to implement a defense-in-depth strategy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), traffic (8), [[Network Security]] (7), [[Security]] (4), cloud (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Network Security]] (7), [[Microsoft Copilot|Copilot]] (3), [[Microsoft Security]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** https (1), nat (1), nsg (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Web Application Firewall
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980)
+#### [Azure Web Application Firewall](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=0)** - [Narrator] Let's look at Azure Web Application Firewall.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=0)** - [Narrator] Let's look at [[Microsoft Azure|Azure]] Web Application Firewall.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=4)** Web applications are widely used today, however, they have all kinds of vulnerabilities that attackers can exploit.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=13)** For example, the Open Web Application Security Project, OWASP, is an international non-profit organization that works to improve application security.
+> **[0:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=13)** For example, the Open [[Web Application Security]] Project, [[OWASP]], is an international non-profit organization that works to improve [[Application Security]].
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=24)** OWASP list top 10 security risks for web applications, such as broken access control injection and insecure design.
 >
@@ -2388,24 +2352,23 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=106)** Azure WAF also helps defend against distributed denial of service, DDoS, attacks targeting applications.
 >
-> **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=115)** Moreover, Azure Web Application Firewall is integrated with [[Microsoft Security Copilot]], an AI-powered assistant for security analysts.
+> **[1:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=115)** Moreover, Azure Web Application Firewall is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered assistant for security analysts.
 >
-> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=126)** You can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as getting details of SQL injection or cross-site script attacks blocked by Azure Web Application Firewall.
+> **[2:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-web-application-firewall?u=76281980&t=126)** You can use prompts to access its capabilities in [[Microsoft Security Copilot]], such as getting details of [[SQL]] injection or cross-site script attacks blocked by Azure Web Application Firewall.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), web application (7), web (7), application (5), [[Security]] (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[OWASP]] (2), [[Microsoft Security]] (2), [[Microsoft Copilot|Copilot]] (2), [[Web Application Security]] (1)
 > **Env Vars:** waf (5), owasp (2), cdn (1), sql (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Azure DDoS Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980)
+#### [Azure DDoS Protection](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=0)** - [Instructor] Let's talk about Azure DDoS Protection.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=0)** - [Instructor] Let's talk about [[Microsoft Azure|Azure]] DDoS Protection.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=4)** First of all, what is DDoS?
 >
@@ -2413,9 +2376,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=12)** It's a common type of cyber attack that aims to take down your services.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=18)** The word distributed indicates that attacks come from multiple sources.
+> **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=18)** The [[Microsoft Word|word]] distributed indicates that attacks come from multiple sources.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=24)** For example, in a well-known DDoS attack, hackers used millions of compromised IoT devices to simultaneously send a request to an online service, eventually causing it to shut down.
+> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=24)** For example, in a well-known DDoS attack, hackers used millions of compromised [[IoT]] devices to simultaneously send a request to an online service, eventually causing it to shut down.
 >
 > **[0:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=39)** There are some common types of DDoS attacks, including volume-based attacks that send numerous requests to overwhelm network bandwidth, blocking the traffic for legitimate requests.
 >
@@ -2425,11 +2388,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=68)** And the resource or application attacks that target the application layer to exhaust the available resources.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=76)** For example, HTTP flood or SQL injection.
+> **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=76)** For example, HTTP flood or [[SQL]] injection.
 >
 > **[1:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=81)** Azure DDoS Protection specifically addresses the first two types of DDoS attacks at the network and the transport layers.
 >
-> **[1:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=92)** This is a diagram from Microsoft that illustrates the role of Azure DDoS Protection.
+> **[1:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=92)** This is a diagram from [[Microsoft]] that illustrates the role of Azure DDoS Protection.
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-ddos-protection?u=76281980&t=99)** It helps organizations protect their services by continuously monitoring network traffic, intelligently tuning the traffic profiling, blocking detected DDoS attacks, and generating alerts.
 >
@@ -2437,19 +2400,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), traffic (3), application (3), [[Microsoft Word|Word]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Microsoft Word|Word]] (1), [[IoT]] (1), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** icmp (1), http (1), sql (1), waf (1)
 > **Analogies:** for example (3)
 > **Definitions:** stands for (1), is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Bastion
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980)
+#### [Azure Bastion](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=0)** - [Instructor] Azure Bastion provides secure access to virtual machines directly from the Azure portal.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Bastion provides secure access to [[Virtual Machines]] directly from the Azure portal.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=7)** For example, suppose your organization has virtual machines running in a virtual network within the Azure Cloud.
 >
@@ -2461,13 +2423,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=34)** However, it brings two immediate concerns.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=37)** You need to allocate many public IPs and you need to loosen your network security rules to allow RDP or SSH access from the internet.
+> **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=37)** You need to allocate many public IPs and you need to loosen your [[Network Security]] rules to allow RDP or SSH access from the internet.
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=50)** This approach would expand the attack surface and increase your workload.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=56)** This is where Azure Bastion can help.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=59)** Here's a diagram from Microsoft that illustrates the role of Azure Bastion.
+> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=59)** Here's a diagram from [[Microsoft]] that illustrates the role of Azure Bastion.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-bastion?u=76281980&t=66)** Instead of directly connecting to a virtual machine through its public IP, you can first log into the Azure portal, then access Azure Bastion in your virtual network.
 >
@@ -2495,7 +2457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Virtual Machines]] (5), cloud (1), [[Network Security]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Virtual Machines]] (5), [[Network Security]] (1), [[Microsoft]] (1)
 > **Env Vars:** rdp (2), ssh (2)
 > **Tools:** azure portal (3)
 > **CLI Commands:** ssh (2)
@@ -2503,12 +2465,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Key Vault
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980)
+#### [Azure Key Vault](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=0)** - [Instructor] Azure Key Vault is a cloud service for securely storing and accessing secrets.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=0)** - [Instructor] [[Microsoft Azure|Azure]] Key Vault is a cloud service for securely storing and accessing secrets.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=7)** Why do you need a secrets management solution?
 >
@@ -2526,7 +2487,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=53)** It controls access using various policies, it monitors access activities and performance, and it allows a soft delete to recover from accidental or malicious deletion.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=69)** You can use Azure Key Vault to store three types of content, keys, such as encryption keys used to encrypt and decrypt your data, secrets, such as passwords, pings, tokens, and any other confidential information, and the certificates, such as SSL TLS certificates to secure website communication, email encryption certificates, and your self-signed certificates for internal systems and applications.
+> **[1:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=69)** You can use Azure Key Vault to store three types of content, keys, such as encryption keys used to encrypt and decrypt your data, secrets, such as passwords, pings, [[Tokens]], and any other confidential information, and the certificates, such as SSL TLS certificates to secure website communication, email encryption certificates, and your self-signed certificates for internal systems and applications.
 >
 > **[1:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/azure-key-vault?u=76281980&t=103)** Now let's do a quick demo of Azure Key Vault.
 >
@@ -2548,7 +2509,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), data (2), cloud (1), management (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[Tokens]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** api (1), ssl (1), tls (1)
 > **Tools:** azure portal (1)
@@ -2560,16 +2521,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CNAPP with Microsoft Defender for Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980)
+#### [CNAPP with Microsoft Defender for Cloud](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] Cloud computing empowers modern businesses with scalable, agile, and cost effective services.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] empowers modern businesses with scalable, [[Agile Development|agile]], and cost effective services.
 >
-> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=8)** As small companies move their infrastructure, applications and the data to the cloud, cloud security has become a top concern.
+> **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=8)** As small companies move their infrastructure, applications and the data to the cloud, [[Cloud Security]] has become a top concern.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=17)** Microsoft Defender for Cloud helps organizations improve their overall cloud security posture through its CNAPP capabilities.
+> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=17)** [[Microsoft Defender]] for Cloud helps organizations improve their overall cloud security posture through its CNAPP capabilities.
 >
 > **[0:28](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=28)** What is CNAP?
 >
@@ -2577,7 +2537,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=38)** It's a unified solution that integrates security and compliance to prevent, detect, and respond to threats across multi-cloud environments.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=49)** It also enables a security throughout the application development lifecycle, and protects cloud workloads.
+> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=49)** It also enables a security throughout the [[Application Development]] lifecycle, and protects cloud workloads.
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=58)** Microsoft Defender for Cloud provides a CNAPP solution through three key capabilities.
 >
@@ -2589,37 +2549,36 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=85)** Cloud workload protection platform, CWPP.
 >
-> **[1:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=90)** It protects cloud workloads such as servers, app service, storage, databases and containers.
+> **[1:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=90)** It protects cloud workloads such as servers, app service, storage, [[Databases]] and containers.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=99)** Development security operations, DevSecOps.
+> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=99)** Development [[Security Operations]], [[DevSecOps]].
 >
-> **[1:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=104)** DevOps is a modern security approach, which combines development and operations to enable a continuous integration and continuous delivery CI/CD pipeline.
+> **[1:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=104)** [[DevOps]] is a modern security approach, which combines development and operations to enable a [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] CI/CD pipeline.
 >
 > **[1:56](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=116)** DevSecOps extends DevOps by embedding security practice into every stage of the process.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=124)** In addition, Microsoft Defender for Cloud integrates with Microsoft Defender XDR, and extended detection and a response suite of products to provide enhanced protection against advanced attacks.
+> **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=124)** In addition, Microsoft Defender for Cloud integrates with Microsoft Defender XDR, and extended detection and a response suite of [[Microsoft Products|products]] to provide enhanced protection against advanced attacks.
 >
 > **[2:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=141)** Let's take a quick tour of Microsoft Defender for Cloud.
 >
-> **[2:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=145)** On the overview page, you'll see a dashboard with information such as security posture, regulatory compliance, workload protections, and inventory.
+> **[2:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=145)** On the overview page, you'll see a dashboard with information such as security posture, [[Regulatory Compliance]], workload protections, and inventory.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/cnapp-with-microsoft-defender-for-cloud?u=76281980&t=163)** Under cloud security, you can manage security posture across multi-cloud environments, manage regulatory compliance, and the view recommendations based on industry security benchmarks, apply workload protections, and implement DevOps security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Security]] (15), [[Microsoft Defender]] (5), [[DevOps]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (5), [[Cloud Security]] (4), [[DevOps]] (3), [[DevSecOps]] (2), [[Regulatory Compliance]] (2)
 > **Env Vars:** cnapp (3), cnap (1), cspm (1), cwpp (1), xdr (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender for Cloud: Security posture management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980)
+#### [Microsoft Defender for Cloud: Security posture management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=0)** - [Instructor] Microsoft Defender for Cloud provides a Cloud Security Posture Management, CSPM capability.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Cloud provides a [[Cloud Security]] Posture Management, CSPM capability.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=9)** What is Cloud Security Posture Management.
 >
@@ -2627,17 +2586,17 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=23)** First, you need to select your cloud environments.
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=27)** You can enable Microsoft Defender for Cloud in multiple cloud environments such as Azure, AWS, and GCP.
+> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=27)** You can enable Microsoft Defender for Cloud in multiple cloud environments such as [[Microsoft Azure|Azure]], AWS, and GCP.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=36)** Then you will create a security initiative that is a collection of policies or rules.
 >
 > **[0:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=43)** Each policy defines a specific security condition you want to control.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=47)** For example, all virtual machines need to use encrypted discs.
+> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=47)** For example, all [[Virtual Machines]] need to use encrypted discs.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=53)** You can create custom security initiatives or use a prebuilt compliance standards.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=59)** For example, Microsoft Cloud Security Benchmark is a default initiative applied by Microsoft Defender for Cloud.
+> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=59)** For example, [[Microsoft]] Cloud Security Benchmark is a default initiative applied by Microsoft Defender for Cloud.
 >
 > **[1:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=69)** Based on the deployed security initiatives and policies, Microsoft Defender for Cloud provides the visibility into the current security posture of your cloud environments.
 >
@@ -2655,7 +2614,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=123)** PCI DSS, a standard for securing payment card data.
 >
-> **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=129)** NIST SP 800-53, a framework for security and privacy controls in federal systems.
+> **[2:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=129)** [[NIST]] SP 800-53, a framework for security and [[Privacy]] controls in federal systems.
 >
 > **[2:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=138)** NIST SP 800-171, a standard for protecting controlled unclassified information, or SOC Type 2, a standard for securely managing customer data.
 >
@@ -2665,13 +2624,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=167)** Under Management, click Environment Settings.
 >
-> **[2:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=171)** Here you can configure your multi-cloud environments, for example, at AWS, GCP, or GitHub environments.
+> **[2:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=171)** Here you can configure your multi-cloud environments, for example, at AWS, GCP, or [[GitHub]] environments.
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=183)** Select the environment, for example, Azure Tenant Route Management Group.
 >
 > **[3:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=189)** You can enable a security standard in your environment or create a custom standard.
 >
-> **[3:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=198)** In Microsoft Defender For Cloud, on the Cloud Security, click Regulatory Compliance.
+> **[3:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=198)** In Microsoft Defender For Cloud, on the Cloud Security, click [[Regulatory Compliance]].
 >
 > **[3:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=205)** Here you can view the compliance dashboard.
 >
@@ -2689,11 +2648,11 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=240)** You can view the detailed information and take action to mitigate the threat.
 >
-> **[4:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=246)** If your organization has [[Microsoft Security Copilot]] enabled, you can use the AI assistant to summarize this recommendation.
+> **[4:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-security-posture-management?u=76281980&t=246)** If your organization has [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] enabled, you can use the AI assistant to summarize this recommendation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (20), [[Security]] (20), [[Microsoft Defender]] (7), management (5), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (7), [[Cloud Security]] (7), [[Microsoft]] (3), [[Microsoft Azure|Azure]] (2), [[NIST]] (2)
 > **Env Vars:** aws (2), gcp (2), nist (2), cspm (1), iso (1)
 > **Analogies:** for example (6), such as (1)
 > **Definitions:** is a  (2), refers to (1)
@@ -2702,18 +2661,17 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Best Practices:** recommended (1)
 
-#### Microsoft Defender for Cloud: Workload protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980)
+#### [Microsoft Defender for Cloud: Workload protection](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=0)** - [Instructor] Microsoft Defender for Cloud provides a Cloud Workload Protection, CWP capability.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Cloud provides a Cloud Workload Protection, CWP capability.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=8)** Cloud workloads refer to services, applications, or functions running in the cloud.
 >
-> **[0:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=15)** They're hosted using cloud resources, such as servers, app service, databases, storage, containers, key vault, resource manager, and APIs.
+> **[0:15](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=15)** They're hosted using cloud resources, such as servers, app service, [[Databases]], storage, containers, key vault, resource manager, and APIs.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=30)** Microsoft Defender for Cloud offers a variance of Defender plans for specific resource types.
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=30)** Microsoft Defender for Cloud offers a variance of [[Microsoft Defender|Defender]] plans for specific resource types.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=37)** For example, Microsoft Defender for Servers, and Microsoft Defender for App Service.
 >
@@ -2731,35 +2689,34 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=89)** You can enable various Defender plans for your workloads, such as servers, app service, or databases.
 >
-> **[1:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=101)** Under Cloud Security, click Workload Protections.
+> **[1:41](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=101)** Under [[Cloud Security]], click Workload Protections.
 >
 > **[1:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-workload-protection?u=76281980&t=106)** Here, you can view the coverage of your Defender for Cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), [[Microsoft Defender]] (6), [[Microsoft Defender|Defender]] (4), [[Security]] (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Defender]] (6), [[Microsoft Defender|Defender]] (4), [[Databases]] (2), [[Cloud Security]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** cwp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Defender for Cloud: DevOps security
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980)
+#### [Microsoft Defender for Cloud: DevOps security](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=0)** - [Instructor] Microsoft Defender for Cloud provides a DevOps security capability.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=0)** - [Instructor] [[Microsoft Defender]] for Cloud provides a [[DevOps]] security capability.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=6)** You may ask, what is DevOps?
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=9)** In the traditional software development lifecycle, development and operations are two separate processes.
+> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=9)** In the traditional [[Software Development]] lifecycle, development and operations are two separate processes.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=17)** Typically, developers write the code, testers verify the changes, and finally, operators deploy the release packages to the production environment.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=30)** DevOps is a set of philosophies, tools, and practices that combines the development and operations workflows.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=40)** It enables a continuous integration and a continuous delivery, CI/CD pipeline.
+> **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=40)** It enables a [[Continuous Integration (CI)|continuous integration]] and a [[Continuous Delivery (CD)|continuous delivery]], CI/CD pipeline.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=47)** Here's a diagram from Microsoft that illustrates the continuous DevOps process.
+> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=47)** Here's a diagram from [[Microsoft]] that illustrates the continuous DevOps process.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=54)** It integrates planning, development, delivery, and operations to improve efficiency, collaboration, and the quality of software development.
 >
@@ -2771,7 +2728,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=102)** Let's do a quick demo of DevOps security in Microsoft Defender for Cloud.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=107)** Under Cloud Security, click DevOps security.
+> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=107)** Under [[Cloud Security]], click DevOps security.
 >
 > **[1:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-defender-for-cloud-devops-security?u=76281980&t=113)** Here you will have a unified view of security posture across multiple DevOps environments.
 >
@@ -2791,7 +2748,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (13), [[Security]] (10), cloud (5), [[Microsoft Defender]] (3), [[Software Development]] (2)
+> **Frameworks & Libraries:** [[DevOps]] (13), [[Microsoft Defender]] (3), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** cd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2801,18 +2758,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Endpoint management and security with Microsoft Intune
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980)
+#### [Endpoint management and security with Microsoft Intune](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=0)** - [Instructor] Let's look at the Endpoint Management and Security Capabilities Provided by Microsoft Intune.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=0)** - [Instructor] Let's look at the Endpoint Management and Security Capabilities Provided by [[Microsoft]] Intune.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=7)** You may ask, what is an endpoint?
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=11)** From a security perspective, endpoints are devices that are used as entry points to an organization's on-premises and cloud environments.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=21)** For example, laptops, desktops, virtual machines, mobile devices like smartphones and tablets.
+> **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=21)** For example, laptops, desktops, [[Virtual Machines]], mobile devices like smartphones and tablets.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=30)** Why is endpoint management and security so important?
 >
@@ -2822,7 +2778,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=51)** Once compromised, they can be used as entry points for attackers to penetrate corporate networks.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=58)** We have discussed the shared responsibility model in cloud computing.
+> **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=58)** We have discussed the shared responsibility model in [[Cloud Computing]].
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=63)** It's important to note that customers are always responsible for their own devices when accessing the cloud.
 >
@@ -2830,9 +2786,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=79)** This is where Microsoft Intune comes into play.
 >
-> **[1:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=83)** It's a cloud-based endpoint management and security solution that provides the capabilities such as device management, app management, endpoint security, and endpoint analytics.
+> **[1:23](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=83)** It's a cloud-based endpoint management and security solution that provides the capabilities such as device management, app management, [[Endpoint Security]], and endpoint analytics.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=99)** In addition, Microsoft Intune is integrated with [[Microsoft Security Copilot]], an AI-powered security analysis solution.
+> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=99)** In addition, Microsoft Intune is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], an AI-powered security analysis solution.
 >
 > **[1:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=108)** With Security Copilot, you can use prompts to perform common tasks such as getting device details or summarizing a device policy.
 >
@@ -2840,7 +2796,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=124)** Here's the Microsoft Intune Admin Center.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=128)** Under Devices, you can essentially manage your organization's devices across various platforms, including Windows, iOS, macOS, Android, and Linux.
+> **[2:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=128)** Under Devices, you can essentially manage your organization's devices across various platforms, including [[Windows]], iOS, macOS, [[Android]], and [[Linux]].
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=142)** Click all devices.
 >
@@ -2850,7 +2806,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=152)** You can explore with Copilot to summarize this device, analyze an error code, or compare this device with another device.
 >
-> **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=164)** You can monitor hardware, discover the apps, device configuration, and many more.
+> **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=164)** You can monitor [[Hardware]], discover the apps, device configuration, and many more.
 >
 > **[2:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/endpoint-management-and-security-with-microsoft-intune?u=76281980&t=178)** Under Apps, you can deploy, update, and protect applications on your devices.
 >
@@ -2874,7 +2830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[Microsoft]] (6), management (5), cloud (4), [[Microsoft Copilot|Copilot]] (3)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Microsoft Copilot|Copilot]] (3), [[Endpoint Security]] (2), [[Virtual Machines]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Code Identifiers:** ios (1), macos (1)
 > **Definitions:** is an  (1)
@@ -2888,12 +2844,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Risk and compliance management with Microsoft Purview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980)
+#### [Risk and compliance management with Microsoft Purview](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=0)** - [Instructor] Let's look at the risk and compliance management capabilities provided by Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=0)** - [Instructor] Let's look at the risk and [[Compliance Management]] capabilities provided by [[Microsoft]] Purview.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=7)** In today's business world, data is often considered the most valuable asset.
 >
@@ -2903,15 +2858,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=21)** How do you reduce data risk and comply with applicable regulatory standards?
 >
-> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=27)** Data security, how do you identify sensitive data, detect suspicious activities, and prevent data loss?
+> **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=27)** [[Data Security]], how do you identify sensitive data, detect suspicious activities, and prevent data loss?
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=36)** Data governance, how do you discover data across your organization, build a data catalog, and apply data governance policies?
+> **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=36)** [[Data Governance]], how do you discover data across your organization, build a data catalog, and apply data governance policies?
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=47)** This is where Microsoft Purview comes into play.
 >
 > **[0:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=51)** It's a unified platform that offers a comprehensive set of solutions for risk and compliance management, data security, and data governance.
 >
-> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=63)** In addition, Microsoft Purview is integrated with [[Microsoft Security Copilot]], and an AI powered security analysis solution.
+> **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=63)** In addition, Microsoft Purview is integrated with [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]], and an AI powered security analysis solution.
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/risk-and-compliance-management-with-microsoft-purview?u=76281980&t=73)** With Security Copilot, you can use prompts to perform common tasks such as summarizing e-discovery documents or summarizing messages in communication compliance.
 >
@@ -2929,18 +2884,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft]] (5), [[Security]] (5), business (3), [[Compliance Management]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Data Governance]] (4), [[Data Security]] (3), [[Compliance Management]] (2), [[Microsoft Copilot|Copilot]] (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980)
+#### [Microsoft Purview Audit](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=0)** - [Narrator] Audit is a core capability in Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=0)** - [Narrator] Audit is a core capability in [[Microsoft]] Purview.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=4)** It helps organizations gain visibility into activities across their environments.
 >
@@ -2952,7 +2906,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=27)** 'What' refers to activities performed, such as deleted file, updated policy, or reset password.
 >
-> **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=36)** 'Where' refers to locations or services, such as Microsoft Teams, Exchange, or SharePoint.
+> **[0:36](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=36)** 'Where' refers to locations or services, such as [[Microsoft Teams]], Exchange, or [[SharePoint]].
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-audit?u=76281980&t=45)** 'When' refers to the exact time of an activity happened.
 >
@@ -2992,18 +2946,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[Microsoft]] (4), data (1), [[Security]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft Teams]] (1), [[SharePoint]] (1)
 > **Definitions:** refers to (4), is a  (1)
 > **Analogies:** such as (2), for example (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft Purview eDiscovery
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980)
+#### [Microsoft Purview eDiscovery](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=0)** - [Instructor] As part of its data compliance capabilities, Microsoft Purview enables organizations to perform eDiscovery.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=0)** - [Instructor] As part of its data compliance capabilities, [[Microsoft]] Purview enables organizations to perform eDiscovery.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=9)** You may ask, "What is eDiscovery?"
 >
@@ -3045,7 +2998,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=109)** Let's choose the eDiscovery solution.
 >
-> **[1:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=118)** On the Overview page, you can get started by creating a case, searching content, creating a hold, and viewing search statistics.
+> **[1:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=118)** On the Overview page, you can get started by creating a case, searching content, creating a hold, and viewing search [[Statistics]].
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=130)** Click Cases.
 >
@@ -3065,11 +3018,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=179)** You can tag the file.
 >
-> **[3:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=185)** If your organization has [[Microsoft Security Copilot]] enabled in Microsoft Purview, you can ask this AI assistant to summarize the file and help with your reviews.
+> **[3:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-ediscovery?u=76281980&t=185)** If your organization has [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] enabled in Microsoft Purview, you can ask this AI assistant to summarize the file and help with your reviews.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (5), [[Search]] (3), data (1), [[Analytics]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Statistics]] (1), [[Microsoft Security]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Code Identifiers:** ediscovery (7)
 > **Definitions:** is a  (1), stands for (1)
 > **Analogies:** for example (1), such as (1)
@@ -3077,16 +3030,15 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Compliance Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980)
+#### [Microsoft Purview Compliance Manager](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=0)** - [Instructor] Let's look at the Compliance Manager solution provided by Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=0)** - [Instructor] Let's look at the Compliance Manager solution provided by [[Microsoft]] Purview.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=5)** Why is compliance management important?
+> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=5)** Why is [[Compliance Management]] important?
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=9)** Because organizations today face increasing regulatory requirements, which may include global standards, such as ISO/IEC 27001 standard on information security management systems, regional regulations, such as the European Union's General Data Protection Regulation or GDPR, laws and the regulations established by various governments and states, and the industry standards, such as PCI DSS, Payment Card Industry Data Security Standard.
+> **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=9)** Because organizations today face increasing regulatory requirements, which may include global standards, such as ISO/IEC 27001 standard on [[Information Security Management]] systems, regional regulations, such as the European Union's General Data Protection Regulation or GDPR, laws and the regulations established by various governments and states, and the industry standards, such as PCI DSS, Payment Card Industry [[Data Security]] Standard.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-compliance-manager?u=76281980&t=49)** How can you effectively manage and assess compliance across your enterprise environment?
 >
@@ -3140,24 +3092,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), data (3), [[Compliance Management]] (1), [[Information Security Management]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Compliance Management]] (1), [[Information Security Management]] (1), [[Data Security]] (1)
 > **Env Vars:** iso (2), iec (2), gdpr (1), pci (1), dss (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Communication Compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980)
+#### [Microsoft Purview Communication Compliance](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=0)** - [Instructor] Microsoft Purview Communication Compliance helps detect, review and respond to inappropriate messages within your organization.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=0)** - [Instructor] [[Microsoft]] Purview Communication Compliance helps detect, review and respond to inappropriate messages within your organization.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=10)** Why is communication compliance important?
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=14)** Because every day, numerous messages are exchanged through emails and collaboration apps within the organization.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=22)** If confidential information or harmful content is included in some of these messages, it may violate corporate policies such as attaching inappropriate images in a team's chat, increased security risks such as including account passwords or credit card numbers in emails, and a compromised regulatory compliance, such as facilitating insider trading by disclosing the company's financial information before it's made public.
+> **[0:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=22)** If confidential information or harmful content is included in some of these messages, it may violate corporate policies such as attaching inappropriate images in a team's chat, increased security risks such as including account passwords or credit card numbers in emails, and a compromised [[Regulatory Compliance]], such as facilitating insider trading by disclosing the company's financial information before it's made public.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=57)** Microsoft Purview provides the communication compliance solution to address these concerns.
 >
@@ -3189,23 +3140,22 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=164)** Select a detected message to view its content.
 >
-> **[2:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=171)** If your organization has Copilot and Microsoft Purview enabled, you can ask the AI assistant to summarize the content.
+> **[2:51](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=171)** If your organization has [[Microsoft Copilot|Copilot]] and Microsoft Purview enabled, you can ask the AI assistant to summarize the content.
 >
 > **[3:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-communication-compliance?u=76281980&t=184)** After the review, you can take various actions such as resolve the item, notify the message sender, tag the item, escalate for investigation or automate response tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (4), [[Security]] (2), [[Regulatory Compliance]] (1), teams (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Regulatory Compliance]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Analogies:** such as (4)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Data Lifecycle Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980)
+#### [Microsoft Purview Data Lifecycle Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=0)** - [Instructor] Let's look at the data lifecycle management solution provided by Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=0)** - [Instructor] Let's look at the data lifecycle management solution provided by [[Microsoft]] Purview.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=6)** You may wonder, what is data lifecycle management?
 >
@@ -3233,7 +3183,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=78)** You can combine these methods in your data lifecycle management.
 >
-> **[1:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=82)** For example, you can create a retention policy for a SharePoint site to retain all content for 7 years, while assigning a retention label to specific files on the SharePoint site to keep them for 10 years.
+> **[1:22](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=82)** For example, you can create a retention policy for a [[SharePoint]] site to retain all content for 7 years, while assigning a retention label to specific files on the SharePoint site to keep them for 10 years.
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-lifecycle-management?u=76281980&t=97)** You may ask, what happens if I edit or delete a file within the retention period?
 >
@@ -3265,16 +3215,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), management (7), [[Microsoft]] (3), [[SharePoint]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[SharePoint]] (3)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Records Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980)
+#### [Microsoft Purview Records Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=0)** - [Instructor] Microsoft Purview provides a records management solution that enhances data lifecycle management with advanced content controls.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=0)** - [Instructor] [[Microsoft]] Purview provides a records management solution that enhances data lifecycle management with advanced content controls.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=10)** You may ask, what is a record?
 >
@@ -3286,7 +3235,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=32)** Activities on the content are logged, and a proof of disposition is generated when the content is deleted at the end of its retention period.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=44)** Records management enables organizations to tighten control over business critical records and meet various regulatory compliance requirements.
+> **[0:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=44)** Records management enables organizations to tighten control over business critical records and meet various [[Regulatory Compliance]] requirements.
 >
 > **[0:55](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-records-management?u=76281980&t=55)** How can you mark items as a record in Microsoft Purview?
 >
@@ -3332,7 +3281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), next (6), [[Microsoft]] (4), data (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Regulatory Compliance]] (1)
 > **Analogies:** for example (2), such as (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
@@ -3343,14 +3292,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data security and governance with Microsoft Purview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980)
+#### [Data security and governance with Microsoft Purview](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=0)** - [Instructor] Data plays a critical role in the success of businesses today.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=5)** Let's look at the data security and the data governance capabilities provided by Microsoft Purview.
+> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=5)** Let's look at the [[Data Security]] and the [[Data Governance]] capabilities provided by [[Microsoft]] Purview.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=12)** Data security focuses on protecting sensitive information and reducing security risks.
 >
@@ -3360,7 +3308,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=61)** Microsoft Purview enables organizations to federate their data governance, distributing data ownership to business units and empowering them to discover the data that they need for the business, have the right data access, ensure data is usable and secure through data curation, which refers to organizing, annotating, and publishing data, ensure data health to have high-quality data, and enhance data understanding by adding helpful descriptors.
 >
-> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=99)** Microsoft Purview also helps organizations assign clear data roles and responsibilities such as: data owner, who is responsible for specific data assets, data steward, who ensures data quality, consistency, and compliance, data custodian, who manages the technical environment and the data infrastructure, data consumer, who accesses and uses data, and central data office, who sets governance policies and standards.
+> **[1:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=99)** Microsoft Purview also helps organizations assign clear data roles and responsibilities such as: data owner, who is responsible for specific data assets, data steward, who ensures [[Data Quality]], consistency, and compliance, data custodian, who manages the technical environment and the data infrastructure, data consumer, who accesses and uses data, and central data [[Microsoft Office|office]], who sets governance policies and standards.
 >
 > **[2:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=134)** Now let's take a quick tour of Microsoft Purview data security and governance solutions.
 >
@@ -3368,35 +3316,34 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=145)** Let's explore its solutions.
 >
-> **[2:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=150)** For data governance, it offers solutions like a data catalog for discovering data across your organization and organizing data products into governance domains.
+> **[2:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=150)** For data governance, it offers solutions like a data catalog for discovering data across your organization and organizing data [[Microsoft Products|products]] into governance domains.
 >
 > **[2:43](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/data-security-and-governance-with-microsoft-purview?u=76281980&t=163)** For data security, it offers solutions like data loss prevention for preventing unauthorized disclosure of sensitive content, information protection for discovering, classifying, and protecting sensitive and business critical information, and insider risk management for detecting risky user activity and then responding to insider threats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Security]] (6), [[Microsoft]] (6), business (4), management (2)
+> **Frameworks & Libraries:** [[Microsoft]] (6), [[Data Security]] (5), [[Data Governance]] (4), [[Data Quality]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Information Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980)
+#### [Microsoft Purview Information Protection](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=0)** - [Instructor] Protecting sensitive and business-critical information is essential for maintaining data security.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=0)** - [Instructor] Protecting sensitive and business-critical information is essential for maintaining [[Data Security]].
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=7)** Let's look at the Information Protection solution provided by Microsoft Purview.
+> **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=7)** Let's look at the Information Protection solution provided by [[Microsoft]] Purview.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=12)** To protect your data, you must first understand it in order to identify important information.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=21)** This process is commonly known as data classification.
+> **[0:21](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=21)** This process is commonly known as [[Data Classification]].
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=25)** Microsoft Purview offers several types of classifiers to identify data.
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=31)** Trainable classifiers.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=33)** These use artificial intelligence to classify your data.
+> **[0:33](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=33)** These use [[Artificial Intelligence (AI)|artificial intelligence]] to classify your data.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-information-protection?u=76281980&t=37)** Microsoft provides many pre-trained classifiers, such as bank statement, credit report, and invoice.
 >
@@ -3452,24 +3399,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft]] (7), business (3), [[Security]] (2), [[Data Classification]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Data Security]] (1), [[Data Classification]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Env Vars:** edm (2)
 > **Definitions:** known as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Data Loss Prevention
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980)
+#### [Microsoft Purview Data Loss Prevention](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=0)** - [Instructor] Let's look at the Data Loss Prevention or DLP solution provided by Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=0)** - [Instructor] Let's look at the Data Loss Prevention or DLP solution provided by [[Microsoft]] Purview.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=7)** DLP helps organizations protect sensitive information as it's used or shared across their environments.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=14)** The general workflow of Data Loss Prevention includes three stages.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=19)** Identify sensitive information, such as financial data and a personal identifiable information, or PII.
+> **[0:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=19)** Identify sensitive information, such as [[Financial Data]] and a personal identifiable information, or PII.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=29)** Monitor the usage of sensitive content and detect suspicious behaviors, and protect sensitive data by taking variance actions, such as notifying users or blocking email messages.
 >
@@ -3481,7 +3427,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=61)** It selects admin units, including users and groups, to apply the policy.
 >
-> **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=67)** It chooses the data locations, such as Exchange email, SharePoint sites, or OneDrive accounts.
+> **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=67)** It chooses the data locations, such as Exchange email, [[SharePoint]] sites, or [[Microsoft OneDrive|OneDrive]] accounts.
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=76)** Then it uses data users and the locations information as input to build conditions.
 >
@@ -3489,7 +3435,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=97)** Microsoft Purview provides many DLP policy templates, so you don't need to start from scratch.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=105)** These policy templates are organized by countries or regions, covering areas like financial, health, and privacy, for example, US Health Insurance Act, or Canada Personal Information Protection Act.
+> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=105)** These policy templates are organized by countries or regions, covering areas like financial, health, and [[Privacy]], for example, US Health Insurance Act, or Canada Personal Information Protection Act.
 >
 > **[2:02](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=122)** Now let's do a quick demo of Microsoft Purview Data Loss Prevention.
 >
@@ -3511,7 +3457,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=167)** Name your policy, then click Next.
 >
-> **[2:52](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=172)** You can assign admin units, for example, Canada Office.
+> **[2:52](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=172)** You can assign admin units, for example, Canada [[Microsoft Office|Office]].
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-loss-prevention-dlp?u=76281980&t=179)** Click Next.
 >
@@ -3523,18 +3469,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft]] (4), [[Financial Data]] (4), next (3), [[Microsoft OneDrive|Onedrive]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Financial Data]] (4), [[Microsoft OneDrive|Onedrive]] (2), [[SharePoint]] (1), [[Privacy]] (1)
 > **Analogies:** such as (6), for example (5)
 > **Env Vars:** dlp (7), pii (1)
 > **Exercise Files:** template (3)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Insider Risk Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-insider-risk-management?u=76281980)
+#### [Microsoft Purview Insider Risk Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-insider-risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-insider-risk-management?u=76281980&t=0)** - [Instructor] Let's look at the Insider Risk Management Solution provided by Microsoft Purview.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-insider-risk-management?u=76281980&t=0)** - [Instructor] Let's look at the Insider Risk Management Solution provided by [[Microsoft]] Purview.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-insider-risk-management?u=76281980&t=6)** First of all, what is the insider risk?
 >
@@ -3588,29 +3533,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (7), [[Microsoft]] (5), data (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5)
 > **Analogies:** for example (2), such as (1)
 > **Exercise Files:** template (2)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Purview Data Catalog
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980)
+#### [Microsoft Purview Data Catalog](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=0)** - [Narrator] Data governance is not only about controlling data, but also about generating business value.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=0)** - [Narrator] [[Data Governance]] is not only about controlling data, but also about generating business value.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=6)** To do that, organizations need a solution to discover, organize, and curate data across their environments.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=14)** This is where Microsoft Purview Unified catalog comes into play.
+> **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=14)** This is where [[Microsoft]] Purview Unified catalog comes into play.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=20)** Unified Catalog provides three key capabilities, catalog management for organizing data based on business concepts and needs, while adding business context to your data assets, health management for monitoring, evaluating and improving data quality, security and compliance, and the data discovery for browsing, searching, and discovering available data across your organization.
+> **[0:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=20)** Unified Catalog provides three key capabilities, catalog management for organizing data based on business concepts and needs, while adding business context to your data assets, health management for monitoring, evaluating and improving [[Data Quality]], security and compliance, and the data discovery for browsing, searching, and discovering available data across your organization.
 >
 > **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=49)** This is how you organize data assets in Unified Catalog.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=53)** First, you create governance domains.
 >
-> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=57)** Think of a governance domain as a container for selected data products along with their data ownership, governance policies, and business purposes.
+> **[0:57](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=57)** Think of a governance domain as a container for selected data [[Microsoft Products|products]] along with their data ownership, governance policies, and business purposes.
 >
 > **[1:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-purview-data-catalog?u=76281980&t=67)** For example, you can create governance domains based on business functions such as marketing, sales, and finance.
 >
@@ -3656,7 +3600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), business (10), [[Microsoft Products|Products]] (6), [[Microsoft]] (3), management (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Microsoft]] (3), [[Data Governance]] (1), [[Data Quality]] (1)
 > **Analogies:** for example (3), such as (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
@@ -3666,18 +3610,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Privacy protection with Microsoft Priva
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980)
+#### [Privacy protection with Microsoft Priva](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=0)** - [Instructor] Privacy has become a major concern in today's business world.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=0)** - [Instructor] [[Privacy]] has become a major concern in today's business world.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=5)** It goes beyond meeting regulatory requirements.
 >
 > **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=7)** It's essential for building organizational trust.
 >
-> **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=12)** Now let's look at the privacy protection capabilities provided by Microsoft Priva.
+> **[0:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=12)** Now let's look at the [[Privacy Protection]] capabilities provided by [[Microsoft]] Priva.
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=18)** The core of a privacy protection is processing personal data lawfully, fairly and transparently.
 >
@@ -3697,7 +3640,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=63)** You must limit access to sensitive personal information and prevent unauthorized disclosure.
 >
-> **[1:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=70)** Data sharing.
+> **[1:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=70)** [[Data Sharing]].
 >
 > **[1:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=72)** You must obtain agreements from individuals before sharing their personal data with third parties.
 >
@@ -3751,7 +3694,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=225)** Subject Rights Requests.
 >
-> **[3:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=228)** You can create a Microsoft 365 request.
+> **[3:48](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=228)** You can create a [[Microsoft 365]] request.
 >
 > **[3:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/privacy-protection-with-microsoft-priva?u=76281980&t=238)** And Tracker Scanning.
 >
@@ -3759,7 +3702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (12), [[Microsoft]] (5), management (5), [[Privacy Protection]] (4)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Microsoft]] (5), [[Privacy Protection]] (4), [[Data Sharing]] (1), [[Microsoft 365]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (2)
 > **Env Vars:** gdpr (1)
@@ -3768,12 +3711,11 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Priva Privacy Risk Management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980)
+#### [Microsoft Priva Privacy Risk Management](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=0)** - [Narrator] Let's look at the privacy risk management solution provided by Microsoft Priva.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=0)** - [Narrator] Let's look at the [[Privacy]] risk management solution provided by [[Microsoft]] Priva.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=6)** Privacy risk management helps organizations identify, assess, and remediate privacy risks.
 >
@@ -3787,7 +3729,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=74)** Here's a typical structure of a privacy risk management policy.
 >
-> **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=79)** It specifies the data sources, like SharePoint sites, OneDrive accounts, or Azure Storage.
+> **[1:19](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=79)** It specifies the data sources, like [[SharePoint]] sites, [[Microsoft OneDrive|OneDrive]] accounts, or [[Microsoft Azure|Azure]] Storage.
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-privacy-risk-management?u=76281980&t=86)** It selects the types of personal data that need to be monitored.
 >
@@ -3833,25 +3775,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Privacy]] (9), management (6), [[Microsoft]] (4), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Microsoft]] (4), [[SharePoint]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Azure|Azure]] (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Microsoft Priva Subject Rights Requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980)
+#### [Microsoft Priva Subject Rights Requests](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=0)** - [Narrator] Let's look at the subject rights request solution provided by Microsoft Priva.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=0)** - [Narrator] Let's look at the subject rights request solution provided by [[Microsoft]] Priva.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=6)** You may ask, what are subject rights?
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=9)** A data subject is anyone whose personal data is collected, stored, or processed by an organization.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=17)** From a privacy standpoint, data subjects have a set of rights to access and control their personal data.
+> **[0:17](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=17)** From a [[Privacy]] standpoint, data subjects have a set of rights to access and control their personal data.
 >
 > **[0:25](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=25)** For example, the European Union's General Data Protection Regulation, GDPR, defines several data subject rights such as the right to be informed, the right of access, the right to a rectification, or the right to a request of corrections, the right to erasure, or the right to be forgotten and more.
 >
@@ -3859,7 +3800,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=65)** Microsoft Priva addresses this challenge by offering the subject rights request solution.
 >
-> **[1:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=72)** It handles a request for data within Microsoft 365 and beyond the Microsoft 365.
+> **[1:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=72)** It handles a request for data within [[Microsoft 365]] and beyond the Microsoft 365.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-priva-subject-rights-requests?u=76281980&t=80)** You can get started by using its building request templates for data access, data export, data deletion, and the data tagged for future actions.
 >
@@ -3881,7 +3822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft]] (4), [[Microsoft 365]] (4), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft 365]] (4), [[Privacy]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gdpr (1)
@@ -3894,26 +3835,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI-powered protection with Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980)
+#### [AI-powered protection with Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is an AI powered security analysis solution.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is an AI powered security analysis solution.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=6)** You might be wondering, what can AI do with security.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=10)** To understand this, let's look at some of the top challenges in the security industry.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=16)** Many organizations agree that we are facing too many security threats due to evolving hacking tactics and techniques, too few professionals with experience in security operations, and a lack of visibility into security, governance, risk, and compliance.
+> **[0:16](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=16)** Many organizations agree that we are facing too many security threats due to evolving hacking tactics and techniques, too few professionals with experience in [[Security Operations]], and a lack of visibility into security, governance, risk, and compliance.
 >
 > **[0:35](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=35)** Moreover, we are working at a human speed to deal with all these security challenges, but is it possible for us to work at machine speed and scale?
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=47)** A potential answer is the use of artificial intelligence, or AI.
+> **[0:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=47)** A potential answer is the use of [[Artificial Intelligence (AI)|artificial intelligence]], or AI.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=53)** Specifically the rise of generative AI is transforming how we work and learn today.
+> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=53)** Specifically the rise of [[Generative AI]] is transforming how we work and learn today.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=59)** This is why Microsoft introduced Copilot, an AI powered virtual companion to improve work productivity.
+> **[0:59](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=59)** This is why [[Microsoft]] introduced Copilot, an AI powered virtual companion to improve work productivity.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=68)** Built on Copilot architecture, [[Microsoft Security Copilot]] helps organizations protect, detect, and respond to security threats faster and more effectively.
 >
@@ -3921,7 +3861,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=94)** First, at the AI model layer, [[Microsoft Security Copilot]] combines OpenAI's generative AI models with Microsoft security data sources.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=105)** Security Copilot operates on Microsoft's hyperscale AI and the cloud infrastructure.
+> **[1:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=105)** Security Copilot operates on Microsoft's hyperscale AI and the [[Cloud Infrastructure]].
 >
 > **[1:52](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=112)** It orchestrates security processes and tools seamlessly.
 >
@@ -3937,7 +3877,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=159)** You can access its portal and enter your prompts.
 >
-> **[2:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=162)** This is called a standalone experience, or you can use copilot within Microsoft security solutions, such as Microsoft Defender XDR, Microsoft Entra, and Microsoft Purview.
+> **[2:42](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=162)** This is called a standalone experience, or you can use copilot within Microsoft security solutions, such as [[Microsoft Defender]] XDR, Microsoft [[Microsoft Entra ID|Entra]], and Microsoft Purview.
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/ai-powered-protection-with-microsoft-security-copilot?u=76281980&t=174)** This is called an embedded experience.
 >
@@ -3979,31 +3919,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Security]] (15), [[Microsoft Security]] (13), [[Microsoft]] (10), ai (7)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (15), [[Microsoft Security]] (13), [[Microsoft]] (10), [[Microsoft Entra ID|Entra]] (3), [[Generative AI]] (2)
 > **Definitions:** is called (2), is an  (1), is a  (1)
 > **Env Vars:** xdr (2), soc (1)
 > **Analogies:** such as (2), for example (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microsoft Security Copilot process flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980)
+#### [Microsoft Security Copilot process flow](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=0)** - [Instructor] Let's look at the general process flow of [[Microsoft Security Copilot]].
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=0)** - [Instructor] Let's look at the general process flow of [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=5)** [[Microsoft Security Copilot]] uses orchestrator to work with user interfaces, plugins, and AI.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=14)** First, a user prompt submitted from the standalone portal or embedded panel is sent to Security Copilot's orchestrator.
 >
-> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=24)** Next, Copilot selects the right plugin to pre-process the prompt, so it can retrieve the specific context from the selected service, such as Microsoft Security Products, third-party tools, or custom services.
+> **[0:24](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=24)** Next, Copilot selects the right plugin to pre-process the prompt, so it can retrieve the specific context from the selected service, such as Microsoft Security [[Microsoft Products|Products]], third-party tools, or custom services.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=40)** Then the modified prompt is sent to the Large Language Model, or LLM.
 >
 > **[0:46](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=46)** Next, the AI model generates results.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=49)** After the responsible AI check, the AI response is sent to Copilot.
+> **[0:49](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=49)** After the [[Responsible AI]] check, the AI response is sent to Copilot.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=54)** Then Copilot chooses the plugin for post-processing.
 >
@@ -4031,7 +3970,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=110)** Plug-ins allow Copilot to integrate with various services and data.
 >
-> **[1:56](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=116)** A specific service, such as Microsoft Defender XDR, provides a set of capabilities through its plug-in.
+> **[1:56](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=116)** A specific service, such as [[Microsoft Defender]] XDR, provides a set of capabilities through its plug-in.
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=124)** A capability is like a functional skill to perform a task.
 >
@@ -4053,7 +3992,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=167)** To see how the Copilot processed this request, we can expand the process log.
 >
-> **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=173)** First, based on this prompt, Copilot chose the plug-in Microsoft Entra.
+> **[2:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=173)** First, based on this prompt, Copilot chose the plug-in [[Microsoft]] [[Microsoft Entra ID|Entra]].
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/microsoft-security-copilot-process-flow?u=76281980&t=180)** Then, it looked up the user information and sent it to the large language model for processing.
 >
@@ -4071,19 +4010,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), prompt (8), [[Microsoft Security]] (7), ai (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[Microsoft Security]] (7), [[Microsoft Products|Products]] (1), [[Responsible AI]] (1), [[Microsoft Defender]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (2), in other words (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** llm (1), xdr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effective prompts in Microsoft Security Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980)
+#### [Effective prompts in Microsoft Security Copilot](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is powered by generative AI.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is powered by [[Generative AI]].
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=5)** Prompting is how you interact with Security Copilot.
 >
@@ -4097,7 +4035,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=27)** For example, let's compare two prompts.
 >
-> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=30)** "List incidents," versus, "Can you list the incidents from Microsoft Defender XDR within the last 30 days?
+> **[0:30](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=30)** "List incidents," versus, "Can you list the incidents from [[Microsoft Defender]] XDR within the last 30 days?
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=38)** This is for my security status update with management.
 >
@@ -4135,7 +4073,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=120)** Be specific about what you want Copilot to do.
 >
-> **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=124)** For example, "List the high-severity incidents owned by John," instead of "List incidents."
+> **[2:04](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=124)** For example, "List the high-severity incidents owned by [[John the Ripper|John]]," instead of "List incidents."
 >
 > **[2:12](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/effective-prompts-in-microsoft-security-copilot?u=76281980&t=132)** Be iterative.
 >
@@ -4159,25 +4097,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Security]] (4), prompt (4), ai (3), [[Microsoft Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (11), [[Microsoft Security]] (2), [[Microsoft Defender]] (2), [[Generative AI]] (1), [[John the Ripper|John]] (1)
 > **Analogies:** for example (8)
 > **Definitions:** refers to (4), is a  (1)
 > **Env Vars:** xdr (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Copilot integration with Microsoft security solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980)
+#### [Copilot integration with Microsoft security solutions](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=0)** - [Instructor] [[Microsoft Security Copilot]] is integrated with the variants of Microsoft security solutions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=0)** - [Instructor] [[[[Microsoft Security]] [[Microsoft Copilot|Copilot]]]] is integrated with the variants of Microsoft security solutions.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=7)** For example, Microsoft Defender XDR for threat protection, Microsoft Defender Threat Intelligence, Microsoft Defender for Cloud, Microsoft Entra for identity and access management, Microsoft Intune for endpoint management and security, Microsoft Purview for data governance, security and compliance, Microsoft Sentinel for security information and event management, and Azure Security services such as Azure Firewall and Azure Web application firewall.
+> **[0:07](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=7)** For example, [[Microsoft Defender]] XDR for threat protection, Microsoft Defender Threat Intelligence, Microsoft Defender for Cloud, [[Microsoft]] [[Microsoft Entra ID|Entra]] for identity and access management, Microsoft Intune for endpoint management and security, Microsoft Purview for [[Data Governance]], security and compliance, Microsoft Sentinel for security information and event management, and [[Microsoft Azure|Azure]] Security services such as Azure Firewall and Azure Web application firewall.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=45)** [[Microsoft Security Copilot]] provides two ways for you to access the capabilities, provided by Microsoft Security Solutions.
 >
-> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=53)** You can use the standalone Copilot portal, or you can use the embedded Copilot within many of Microsoft security products.
+> **[0:53](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=53)** You can use the standalone Copilot portal, or you can use the embedded Copilot within many of Microsoft security [[Microsoft Products|products]].
 >
 > **[1:03](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=63)** This is convenient because you don't need to leave the product page to access Copilot.
 >
@@ -4193,7 +4130,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=104)** Expand the Microsoft plugins page.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=107)** You can see the plugins for Microsoft products such as Azure Firewall, Azure Web Application Firewall, Microsoft Defender XDR, Microsoft Entra, Intune, Purview, Sentinel, and Threat Intelligence.
+> **[1:47](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=107)** You can see the plugins for [[Microsoft Products]] such as Azure Firewall, Azure Web Application Firewall, Microsoft Defender XDR, Microsoft Entra, Intune, Purview, Sentinel, and Threat Intelligence.
 >
 > **[2:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/copilot-integration-with-microsoft-security-solutions?u=76281980&t=130)** To use a plugin, you need to enable it first.
 >
@@ -4332,8 +4269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning Microsoft security essentials
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980)
+#### [Continue learning Microsoft security essentials](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4341,9 +4277,9 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=1)** Congratulations on completing this course.
 >
-> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=5)** Now, you have a comprehensive understanding of Microsoft Security Essentials.
+> **[0:05](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=5)** Now, you have a comprehensive understanding of [[Microsoft Security]] Essentials.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=10)** As a quick summary, we covered the fundamental concepts of security, identity, governance, risk, compliance, and privacy, the capabilities of Microsoft security solutions including Microsoft Entra, Defender XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva, and Azure Security Services, and the AI-powered protection provided by [[Microsoft Security Copilot]].
+> **[0:10](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=10)** As a quick summary, we covered the fundamental concepts of security, identity, governance, risk, compliance, and [[Privacy]], the capabilities of Microsoft security solutions including [[Microsoft]] [[Microsoft Entra ID|Entra]], [[Microsoft Defender|Defender]] XDR, Defender for Cloud, Sentinel, Intune, Purview, Priva, and [[Microsoft Azure|Azure]] Security Services, and the AI-powered protection provided by [[Microsoft Security [[Microsoft Copilot|Copilot]]]].
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=40)** So, what's next?
 >
@@ -4353,13 +4289,13 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=52)** Finally, let's stay connected.
 >
-> **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=54)** You are welcome to connect with me on LinkedIn.
+> **[0:54](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=54)** You are welcome to connect with me on [[LinkedIn]].
 >
 > **[0:58](https://www.linkedin.com/learning/microsoft-security-essentials-concepts-solutions-and-ai-powered-protection/continue-learning-microsoft-security-essentials?u=76281980&t=58)** I look forward to collaborating with you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Security]] (2), [[Microsoft Defender|Defender]] (2), [[Privacy]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Security]] (4), [[Microsoft Defender|Defender]] (2), [[Privacy]] (1), [[Microsoft]] (1), [[Microsoft Entra ID|Entra]] (1)
 > **Env Vars:** xdr (1)
 > **Cross-References:** we covered (1)
 > **Speakers:** - you (1)

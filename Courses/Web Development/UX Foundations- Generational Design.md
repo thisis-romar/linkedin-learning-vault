@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing for different generations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980)
+#### [Designing for different generations](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,15 +103,15 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=44)** That session was really the turning point.
 >
-> **[0:46](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=46)** The patterns that emerged changed everything related to how we design and market products today.
+> **[0:46](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=46)** The patterns that emerged changed everything related to how we design and market [[Microsoft Products|products]] today.
 >
 > **[0:53](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=53)** From Gen Alpha and Gen Z, all the way to Baby Boomers, different generations have a range of needs when it comes to user-centered design.
 >
-> **[1:01](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=61)** Design patterns that work with one generation may not work for others.
+> **[1:01](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=61)** [[Design Patterns]] that work with one generation may not work for others.
 >
 > **[1:05](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=65)** On top of that, how different generations interact with technology is shifting every day.
 >
-> **[1:11](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=71)** In this LinkedIn Learning course, you'll learn what drives Gen Alpha, Gen Z, Millennials, Gen X, and Boomers, and how you translate that into product design.
+> **[1:11](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=71)** In this [[LinkedIn]] Learning course, you'll learn what drives Gen Alpha, Gen Z, Millennials, Gen X, and Boomers, and how you translate that into [[Product Design]].
 >
 > **[1:23](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-for-different-generations?u=76281980&t=83)** I'm Sarah Weise, market researcher and author of "InstaBrain."
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Search]] (1), data (1), [[Microsoft Products|Products]] (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Products|Products]] (1), [[Design Patterns]] (1), [[Product Design]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
@@ -129,8 +128,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Baby Boomers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980)
+#### [Understanding Baby Boomers](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -166,15 +164,15 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=81)** They're also nuts about finding reviews and weighing the opinions of others, both online and from friends and family through text and FaceTime.
 >
-> **[1:30](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=90)** The second value is wellness.
+> **[1:30](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=90)** The second value is [[Wellness]].
 >
-> **[1:33](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=93)** Boomers are looking for products and services that empower them to live long, purposeful lives.
+> **[1:33](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=93)** Boomers are looking for [[Microsoft Products|products]] and services that empower them to live long, purposeful lives.
 >
 > **[1:39](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=99)** It's not surprising then, that wellness is a key focus for this generation, especially in terms of how to proactively prevent illness.
 >
 > **[1:48](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=108)** Because this generation is not frightened by tech, we are increasingly seeing wellness products that rely on technology to help boomers with their wellness goals.
 >
-> **[1:57](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=117)** This includes everything from virtual office visits to geriatric robots that dispense pills at certain times.
+> **[1:57](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=117)** This includes everything from virtual [[Microsoft Office|office]] visits to geriatric robots that dispense pills at certain times.
 >
 > **[2:04](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-baby-boomers?u=76281980&t=124)** We're seeing medical services reposition themselves to focus on healthy lifestyles in a way that feels more like retail than healthcare.
 >
@@ -209,8 +207,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### Understanding Gen X
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980)
+#### [Understanding Gen X](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=65)** To build authentic experiences for this audience, offer more information than you normally would.
 >
-> **[1:12](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=72)** Companies like Apple, who design for multiple generations, including Gen X, show minimal details, then hide the rest on another page called tech specs.
+> **[1:12](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=72)** Companies like Apple, who design for multiple generations, including Gen X, show minimal details, then hide the [[Representational State Transfer (REST)|rest]] on another page called tech specs.
 >
 > **[1:22](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=82)** More than any other generation, Gen X likes to know every detail about what they're getting.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=148)** More than any other living generation, Gen X is delighted by personalized touches that speak to them as unique individuals.
 >
-> **[2:36](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=156)** For example, email marketing that tells them what they've left in their cart, or little cookies that follow them all over the internet, telling them that they really should revisit that product they checked out a few hours ago.
+> **[2:36](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=156)** For example, [[Email Marketing]] that tells them what they've left in their cart, or little cookies that follow them all over the internet, telling them that they really should revisit that product they checked out a few hours ago.
 >
 > **[2:48](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=168)** They appreciate logic-based experiences that ask them a series of questions and then show them what they need to know based on their answers.
 >
@@ -270,7 +267,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=188)** Like boomers before them, Gen X gets a lot out of talking to real live person in customer service.
 >
-> **[3:14](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=194)** They see store associates as people who can relate to them on a personal level, people who have more experience with the products and can recommend the best options for their unique situation.
+> **[3:14](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=194)** They see store associates as people who can relate to them on a personal level, people who have more experience with the [[Microsoft Products|products]] and can recommend the best options for their unique situation.
 >
 > **[3:27](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-x?u=76281980&t=207)** All in all, Gen X is more brand loyal than any other living generation.
 >
@@ -280,14 +277,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), power (1), [[Representational State Transfer (REST)|Rest]] (1), [[Security]] (1), [[Email Marketing]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Email Marketing]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - with (1)
 
-#### Defining the Oregon Trail generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980)
+#### [Defining the Oregon Trail generation](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -345,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980&t=175)** You might think I'm joking here, but I assure you I'm not.
 >
-> **[2:59](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980&t=179)** In our recruiting screeners from market research studies, these two questions have proven time and again to be reliable in understanding if someone in this age group behaves closer to millennials or skews older.
+> **[2:59](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980&t=179)** In our recruiting screeners from [[Market Research]] studies, these two questions have proven time and again to be reliable in understanding if someone in this age group behaves closer to millennials or skews older.
 >
 > **[3:13](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-the-oregon-trail-generation?u=76281980&t=193)** The takeaway here is that a generation is not just a number.
 >
@@ -353,21 +349,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[Market Research]] (1)
 > **Speakers:** - did (1)
 
-#### Defining Millennials
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980)
+#### [Defining Millennials](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=0)** - What is it that millennials want from a user experience?
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=0)** - What is it that millennials want from a [[User Experience (UX)|user experience]]?
 >
 > **[0:03](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=3)** Avocado toast, of course.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=5)** But what else helps to engage this audience born between 1983 and 1994?
 >
-> **[0:11](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=11)** Today, we'll talk about three things you should do if you're building an experience or a marketing strategy for millennials.
+> **[0:11](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=11)** Today, we'll talk about three things you should do if you're building an experience or a [[Marketing Strategy]] for millennials.
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=18)** First up, it has to be fast and convenient.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=112)** Second, be prepared for the fact that they'll likely never see your homepage.
 >
-> **[1:57](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=117)** Because millennials are usually referred to your site from social media or from a Google index, they will likely drop right into a product page.
+> **[1:57](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=117)** Because millennials are usually referred to your site from social media or from a [[Google]] index, they will likely drop right into a product page.
 >
 > **[2:06](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=126)** To get them to continue to explore your website once they've entered somewhere, add related items and show them from every page that there's more to see or do.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=144)** They expect businesses to tailor content for them and provide them with follow-up.
 >
-> **[2:30](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=150)** Delivering content and products that are curated to them sends a message that your brand cares about them and their unique perspective on the world.
+> **[2:30](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=150)** Delivering content and [[Microsoft Products|products]] that are curated to them sends a message that your brand cares about them and their unique perspective on the world.
 >
 > **[2:39](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-millennials?u=76281980&t=159)** Offer an experience that is genuinely for them, and makes them feel good about themselves.
 >
@@ -431,14 +426,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Marketing Strategy]] (1), [[Google]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Marketing Strategy]] (1), [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - what (1)
 
-#### Understanding Gen Z
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980)
+#### [Understanding Gen Z](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=158)** When millennials, or Gen X, want to know something, they ask themselves, what do I want to know?
 >
-> **[2:44](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=164)** And then they turn to Google and they do research digging into articles and videos.
+> **[2:44](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=164)** And then they turn to [[Google]] and they do research digging into articles and videos.
 >
 > **[2:48](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=168)** However, for Gen Z, instead of asking what do I want to know, they're asking, what should I want to know?
 >
@@ -498,19 +492,18 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=183)** This is why you see them bored scrolling for hours on end waiting for inspiration to strike.
 >
-> **[3:10](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=190)** It's because they understand algorithms and expect personalized recommendations based on what they've clicked, and what they've watched, and who they follow to generate future content that's right for them.
+> **[3:10](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=190)** It's because they understand [[Algorithms]] and expect personalized recommendations based on what they've clicked, and what they've watched, and who they follow to generate future content that's right for them.
 >
 > **[3:22](https://www.linkedin.com/learning/ux-foundations-generational-design/understanding-gen-z?u=76281980&t=202)** This curated digital lifestyle is the hallmark of Generation Z.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), [[Search]] (1), career (1), data (1), product (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
-#### Defining Gen Alpha
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980)
+#### [Defining Gen Alpha](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=119)** Today's modern family is more democratized than ever.
 >
-> **[2:03](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=123)** Families are engaging, discussing, buying, and consuming products together.
+> **[2:03](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=123)** Families are engaging, discussing, buying, and consuming [[Microsoft Products|products]] together.
 >
 > **[2:09](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=129)** Kids are influencing their parent's purchases, and not just small purchases.
 >
@@ -554,7 +547,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=148)** Choosing voice over fingers.
 >
-> **[2:30](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=150)** While teens associate voice with old people and wouldn't be caught dead talking to their phone, Gen Alpha feels empowered by devices like Alexa and Google Home.
+> **[2:30](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=150)** While teens associate voice with old people and wouldn't be caught dead talking to their phone, Gen Alpha feels empowered by devices like Alexa and [[Google]] Home.
 >
 > **[2:40](https://www.linkedin.com/learning/ux-foundations-generational-design/defining-gen-alpha?u=76281980&t=160)** Since many of them are too young to have a phone and even too young to read and type, this is their lifeline to a world of information they can't wait to get their hands on.
 >
@@ -568,7 +561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), hit (1), [[Microsoft Products|Products]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
@@ -578,8 +571,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Qualitative research techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980)
+#### [Qualitative research techniques](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -649,20 +641,19 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=187)** Boomers tend to be talkative during the interviews, and take winding tangents that may not be helpful for your research, so you may need to gently refocus the conversation.
 >
-> **[3:19](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=199)** To learn more about qualitative research techniques, check out my LinkedIn learning course, [[Market Research Foundations]].
+> **[3:19](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=199)** To learn more about qualitative research techniques, check out my [[LinkedIn]] learning course, [[[[Market Research]] Foundations]].
 >
 > **[3:25](https://www.linkedin.com/learning/ux-foundations-generational-design/qualitative-research-techniques?u=76281980&t=205)** If I could leave you with a parting thought, it's that qualitative research makes the biggest impact on your overall design process because you get to know your customers on a deeper level.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (1), [[Analytics]] (1), power (1), game (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Market Research]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - want (1)
 
-#### Quantitative research techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/quantitative-research-techniques?u=76281980)
+#### [Quantitative research techniques](https://www.linkedin.com/learning/ux-foundations-generational-design/quantitative-research-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,14 +711,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), game (1), product (1), ai (1)
 > **Code Identifiers:** iphones (1), dscout (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - today (1)
 
-#### Usability testing for different generations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980)
+#### [Usability testing for different generations](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980&t=23)** Never before have we seen behavioral changes from young generations ripple through all other generations with such speed.
 >
-> **[0:32](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980&t=32)** As we build and enhance products and services for this new type of consumer, we often turn to usability testing, to find out if our designs work as we expect, and if people can and will use them.
+> **[0:32](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980&t=32)** As we build and enhance [[Microsoft Products|products]] and services for this new type of consumer, we often turn to [[Usability Testing]], to find out if our designs work as we expect, and if people can and will use them.
 >
 > **[0:47](https://www.linkedin.com/learning/ux-foundations-generational-design/usability-testing-for-different-generations?u=76281980&t=47)** Let's look at the most effective ways to plan your usability studies with audiences of different ages who all view and value technology a little differently.
 >
@@ -805,14 +794,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Products|Products]] (2), [[Usability Testing]] (2), game (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Usability Testing]] (2)
 > **CLI Commands:** find (1)
 > **Best Practices:** pro tip (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - answer (1)
 
-#### Using video studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980)
+#### [Using video studies](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +830,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=70)** Video gives you answers to questions about how their physical space is organized.
 >
-> **[1:15](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=75)** Do they study at a desk or on a couch or a bed, and what paper-based products they use versus tech?
+> **[1:15](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=75)** Do they study at a desk or on a couch or a bed, and what paper-based [[Microsoft Products|products]] they use versus tech?
 >
 > **[1:22](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=82)** All of this information matters to you as you design your product to best fit into their existing lives and processes.
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=118)** You'll need to send some quick instructions on how to turn it on in Settings, but after that it's on their phone, ready to use.
 >
-> **[2:05](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=125)** For Android users, all this takes is downloading an app.
+> **[2:05](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=125)** For [[Android]] users, all this takes is downloading an app.
 >
 > **[2:08](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=128)** Again, just a few simple instructions at the start of your study and they've got it.
 >
@@ -868,23 +856,22 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=151)** We learned about different fitness apps and why they felt they needed multiple apps, because not one had everything they loved.
 >
-> **[2:39](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=159)** Learning about your customer's experience in their own environment and on their own phones will help you make clear, confident decisions about your product design and your marketing strategy.
+> **[2:39](https://www.linkedin.com/learning/ux-foundations-generational-design/using-video-studies?u=76281980&t=159)** Learning about your customer's experience in their own environment and on their own phones will help you make clear, confident decisions about your [[Product Design]] and your [[Marketing Strategy]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1), [[Android]] (1), [[Marketing Strategy]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Android]] (1), [[Product Design]] (1), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (2)
 > **Code Identifiers:** iphone (1)
 > **Analogies:** for example (1)
 > **Speakers:** - pop (1)
 
-#### Mobile diary studies
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/mobile-diary-studies?u=76281980)
+#### [Mobile diary studies](https://www.linkedin.com/learning/ux-foundations-generational-design/mobile-diary-studies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/mobile-diary-studies?u=76281980&t=0)** - What if I told you there's a new way to get real-time insights from your customers as they use products in their own homes?
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/mobile-diary-studies?u=76281980&t=0)** - What if I told you there's a new way to get [[Real-Time]] insights from your customers as they use [[Microsoft Products|products]] in their own homes?
 >
 > **[0:08](https://www.linkedin.com/learning/ux-foundations-generational-design/mobile-diary-studies?u=76281980&t=8)** Diary studies have been around for years.
 >
@@ -952,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Real-Time]] (2), next (2), game (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Real-Time]] (2)
 > **Speakers:** - what (1), - hi (1), - you (1), - all (1), - videos (1)
 > **CLI Commands:** find (1), brew (1), make (1)
 > **Analogies:** similar to (1), for example (1)
@@ -963,8 +950,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recruiting tips for different audiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980)
+#### [Recruiting tips for different audiences](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=42)** The quickest and easiest way to recruit is to turn to a professional recruitment service.
 >
-> **[0:47](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=47)** Recruiting companies have large databases called panels and they can find niche participants for your study quicker than you ever thought possible.
+> **[0:47](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=47)** Recruiting companies have large [[Databases]] called panels and they can find niche participants for your study quicker than you ever thought possible.
 >
 > **[0:56](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=56)** Recruiting companies can have different areas of focus or specialization too.
 >
@@ -1012,7 +998,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=135)** For example, if you're trying to reach a Gen Z audience, run ads on Instagram, YouTube and maybe even TikTok.
 >
-> **[2:23](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=143)** Try Facebook and LinkedIn if you're trying to reach older Millennials or Gen X.
+> **[2:23](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=143)** Try Facebook and [[LinkedIn]] if you're trying to reach older Millennials or Gen X.
 >
 > **[2:28](https://www.linkedin.com/learning/ux-foundations-generational-design/recruiting-tips-for-different-audiences?u=76281980&t=148)** For targeting Boomers, Facebook is key.
 >
@@ -1032,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Databases]] (1), database (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4), make (2)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** diy (1)
@@ -1040,8 +1026,7 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - i (1)
 
-#### Question writing for different audiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980)
+#### [Question writing for different audiences](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=34)** She got super defensive and shot back, I wasn't triggered.
 >
-> **[0:38](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=38)** It was only then that I realized that for her the word triggered had a negative connotation.
+> **[0:38](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=38)** It was only then that I realized that for her the [[Microsoft Word|word]] triggered had a negative connotation.
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=43)** She didn't realize that for people who were slightly older the question, what triggered that, was synonymous with, what prompted that.
 >
@@ -1095,7 +1080,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=145)** As researchers we need to be speaking the same language as our target demographic because when a high school student says the word snack, we need to know whether she's talking about a granola bar or her date for Friday night.
 >
-> **[2:39](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=159)** In interview questions, usability testing scenarios, and orientation scripts, the words we use matter.
+> **[2:39](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=159)** In interview questions, [[Usability Testing]] scenarios, and orientation scripts, the words we use matter.
 >
 > **[2:46](https://www.linkedin.com/learning/ux-foundations-generational-design/question-writing-for-different-audiences?u=76281980&t=166)** We should be writing questions that are easy for different generations to understand.
 >
@@ -1103,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Microsoft Word|Word]] (2), data (1), [[Usability Testing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Usability Testing]] (1)
 > **CLI Commands:** make (3)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - in (1)
@@ -1113,20 +1098,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Translating research to design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980)
+#### [Translating research to design](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=0)** - Think for a moment of the last truly great product you bought.
 >
-> **[0:05](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=5)** All great products have one thing in common, they meet the real needs of real people.
+> **[0:05](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=5)** All great [[Microsoft Products|products]] have one thing in common, they meet the real needs of real people.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=11)** Even if you have mounds of customer research, if it doesn't translate into a better experience for your customers, it's almost like that research didn't happen at all.
 >
 > **[0:21](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=21)** The goal of any research study is actionable results, yet many teams struggle to convert their customer insights into real change that moves the needle.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=31)** What I've learned after a career of presenting UX and market research results is that charts won't impress anyone who really needs to know what to do next.
+> **[0:31](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=31)** What I've learned after a career of presenting UX and [[Market Research]] results is that charts won't impress anyone who really needs to know what to do next.
 >
 > **[0:41](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=41)** The trick is to translate research into design.
 >
@@ -1134,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=51)** First, you'll want a set of signature stories from your research.
 >
-> **[0:56](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=56)** Storytelling is the secret weapon that brings your research to life.
+> **[0:56](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=56)** [[Storytelling]] is the secret weapon that brings your research to life.
 >
 > **[1:00](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=60)** A good set of signature stories is far more compelling and repeatable than any deck you can create.
 >
@@ -1144,7 +1128,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=84)** Check out my storytelling course for more.
 >
-> **[1:27](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=87)** When I was conducting research for Google News, we ran a study with people that used two very different Google products to try to get news.
+> **[1:27](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=87)** When I was conducting research for [[Google]] News, we ran a study with people that used two very different Google products to try to get news.
 >
 > **[1:35](https://www.linkedin.com/learning/ux-foundations-generational-design/translating-research-to-design?u=76281980&t=95)** We were trying to figure out when they used one versus the other.
 >
@@ -1188,12 +1172,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (4), teams (2), [[Storytelling]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Storytelling]] (2), [[Google]] (2), [[Market Research]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Speakers:** - think (1)
 
-#### Design patterns for Baby Boomers
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980)
+#### [Design patterns for Baby Boomers](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1213,9 +1196,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=43)** Feelings of frustration and anger can arise due to these natural declines, and if you're in a business that caters to boomers, you have a social responsibility to mitigate these feelings through thoughtful design choices.
 >
-> **[0:58](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=58)** To help you, here are a handful of design patterns to consider.
+> **[0:58](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=58)** To help you, here are a handful of [[Design Patterns]] to consider.
 >
-> **[1:03](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=63)** First, to help with eyesight, any digital products should have text that's larger than average.
+> **[1:03](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=63)** First, to help with eyesight, any digital [[Microsoft Products|products]] should have text that's larger than average.
 >
 > **[1:09](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-baby-boomers?u=76281980&t=69)** Pay attention to contrast and colors, too.
 >
@@ -1263,14 +1246,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), business (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - contrary (1)
 
-#### Design patterns for Gen X
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980)
+#### [Design patterns for Gen X](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=23)** Weary of empty promises, they want to know what you can offer them clearly and succinctly.
 >
-> **[0:30](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=30)** This group has often been called the forgotten middle child, and their cynical pragmatic outlook on the world impacts how they discover, learn, shop, buy and advocate for products.
+> **[0:30](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=30)** This group has often been called the forgotten middle child, and their cynical pragmatic [[Microsoft Outlook|outlook]] on the world impacts how they discover, learn, shop, buy and advocate for [[Microsoft Products|products]].
 >
 > **[0:45](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=45)** The best way to reach this crowd is through clear straightforward content and design that solves key pain points.
 >
@@ -1294,7 +1276,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=58)** This is no design design.
 >
-> **[1:01](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=61)** In today's age of dazzling graphics and high end video, it might sound strange to advocate for a fairly boring user experience, but this is just what a task driven generation needs.
+> **[1:01](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=61)** In today's age of dazzling graphics and high end video, it might sound strange to advocate for a fairly boring [[User Experience (UX)|user experience]], but this is just what a task driven generation needs.
 >
 > **[1:14](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=74)** And if you've ever tried to connect to hotel WiFi or renew your driver's license online, you get the benefit of straightforward simplicity.
 >
@@ -1314,7 +1296,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=128)** When designing for this generation, don't shy away from providing details and charts, comparison tables, long form articles, but don't show it right away.
 >
-> **[2:18](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=138)** For example, companies like Apple who designed for multiple generations, including Gen X, show a minimum number of details and then hide the rest on another page called Tech Specs.
+> **[2:18](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=138)** For example, companies like Apple who designed for multiple generations, including Gen X, show a minimum number of details and then hide the [[Representational State Transfer (REST)|rest]] on another page called Tech Specs.
 >
 > **[2:29](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-x?u=76281980&t=149)** In this way, they're satisfying the need for more information.
 >
@@ -1324,13 +1306,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - on (1)
 
-#### Design patterns for Millennials
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980)
+#### [Design patterns for Millennials](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1346,7 +1327,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=49)** They remember when Facebook was just for college students and were the first generation to engage in meaningful communities and causes online.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=59)** Let's talk through four design patterns that will capture the attention of millennials and keep them coming back.
+> **[0:59](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=59)** Let's talk through four [[Design Patterns]] that will capture the attention of millennials and keep them coming back.
 >
 > **[1:06](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=66)** First, make it fast.
 >
@@ -1354,7 +1335,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=76)** Any lag time at all and you've lost them.
 >
-> **[1:19](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=79)** Products designed for millennials must load instantly and effortlessly.
+> **[1:19](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=79)** [[Microsoft Products|Products]] designed for millennials must load instantly and effortlessly.
 >
 > **[1:24](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-millennials?u=76281980&t=84)** Shifting between channels and touchpoints, phone, desktop, watch, retail should be seamless.
 >
@@ -1400,13 +1381,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), next (2), product (2), business (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Design Patterns]] (1)
 > **CLI Commands:** make (3)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - i (1)
 
-#### Design patterns for Gen Z
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980)
+#### [Design patterns for Gen Z](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-gen-z?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,14 +1466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), game (1), next (1), power (1)
 > **CLI Commands:** make (4), find (1), snap (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - at (1)
 
-#### Design patterns for today's Gen Alpha children
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980)
+#### [Design patterns for today's Gen Alpha children](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1501,7 +1479,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=3)** Gen Alpha, born in 2007 or later, have been using tech their whole lives, from teething on mom's phone to figuring out that smart TV interface you've never quite been able to master.
 >
-> **[0:15](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=15)** As a result, today's children require different design patterns than other generations, and it's much harder for designers because they have to forget many of the patterns they know in order to relearn how kids interact with screens.
+> **[0:15](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=15)** As a result, today's children require different [[Design Patterns]] than other generations, and it's much harder for designers because they have to forget many of the patterns they know in order to relearn how kids interact with screens.
 >
 > **[0:30](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=30)** As adults, designers and product owners are filled with adult life experiences, adult technology preferences, and loads of adult bias about what they liked when they were growing up.
 >
@@ -1531,13 +1509,13 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=128)** Differences in the play dynamics may exist when two girls are playing versus two boys versus a boy/girl pair.
 >
-> **[2:16](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=136)** Participatory design is an ideal strategy for designing children's products.
+> **[2:16](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=136)** Participatory design is an ideal strategy for designing children's [[Microsoft Products|products]].
 >
 > **[2:21](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=141)** It's a co-design method that involves craft supplies, paper cutouts, collages, storyboards, often on the backdrop of an iPad template.
 >
 > **[2:30](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=150)** While final design solutions are rarely taken directly from children's ideas, this exercise helps teams empathize with the children they're designing for.
 >
-> **[2:40](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=160)** Designers should also take into consideration the ethics of paid add-ons in children's apps.
+> **[2:40](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=160)** Designers should also take into consideration the [[Ethics]] of paid add-ons in children's apps.
 >
 > **[2:46](https://www.linkedin.com/learning/ux-foundations-generational-design/design-patterns-for-today-s-gen-alpha-children?u=76281980&t=166)** Children don't often have a good concept of money and don't always know when they're buying things online.
 >
@@ -1557,7 +1535,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), business (1), [[Design Patterns]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (1), [[Microsoft Products|Products]] (1), [[Ethics]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Code Identifiers:** ipad (1)
 > **Exercise Files:** template (1)
@@ -1565,12 +1543,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - designing (1)
 
-#### Designing across generations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980)
+#### [Designing across generations](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=0)** - Designing your products for an audience ranging in age can certainly be a challenge.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=0)** - Designing your [[Microsoft Products|products]] for an audience ranging in age can certainly be a challenge.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=5)** Few companies have mastered it.
 >
@@ -1604,7 +1581,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=83)** Additionally, the design of the search results and filter area make it easy to scroll, browse, and compare products for young digital natives, and older, less tech savvy consumers alike.
 >
-> **[1:36](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=96)** Amazon's user experience succeeds because every generation knows how to perform a tech search.
+> **[1:36](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=96)** Amazon's [[User Experience (UX)|user experience]] succeeds because every generation knows how to perform a tech search.
 >
 > **[1:43](https://www.linkedin.com/learning/ux-foundations-generational-design/designing-across-generations?u=76281980&t=103)** And Amazon makes it fast and easy to get great search results.
 >
@@ -1654,7 +1631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Search]] (5), product (4), feature (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (5), find (3)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 > **Speakers:** - designing (1)
@@ -1664,8 +1641,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1651,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=12)** There's so much more to learn and I encourage you to explore more courses in UX foundations.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=18)** Also, check out my course [[Market Research Foundations]].
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=18)** Also, check out my course [[[[Market Research]] Foundations]].
 >
 > **[0:22](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=22)** I've worked with hundreds of companies to understand what makes their customers tick.
 >
@@ -1695,11 +1671,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=65)** Way to go!
 >
-> **[1:07](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=67)** You're on your way to designing targeted, high converting products for the people who matter most to your business, your customers.
+> **[1:07](https://www.linkedin.com/learning/ux-foundations-generational-design/next-steps?u=76281980&t=67)** You're on your way to designing targeted, high converting [[Microsoft Products|products]] for the people who matter most to your business, your customers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[Market Research]] (1), data (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Market Research]] (1), [[Microsoft Products|Products]] (1)
 > **URLs:** [sarahweise.com](https://sarahweise.com) (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)

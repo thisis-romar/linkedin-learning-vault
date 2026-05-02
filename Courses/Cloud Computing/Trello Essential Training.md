@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Trello?
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
+#### [What is Trello?](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980&t=0)** - [Zach] Wouldn't it be amazing amongst the endless options for productivity apps to have a program that's as simple as sticking index cards to a whiteboard, but one that is also powerful enough to organize complex projects as well as coordinate remote teams distributed across the globe?
 >
-> **[0:15](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980&t=15)** Well, that program is Trello, my favorite web-based productivity app.
+> **[0:15](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980&t=15)** Well, that program is [[Trello]], my favorite web-based productivity app.
 >
 > **[0:20](https://www.linkedin.com/learning/trello-essential-training-22650139/what-is-trello?u=76281980&t=20)** My name is Zach Arnold.
 >
@@ -113,15 +112,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (3), teams (1), web (1), management (1), career (1)
+> **Frameworks & Libraries:** [[Trello]] (3)
 > **Speakers:** - [zach] (1)
 
-#### Navigating Trello’s free vs. paid options
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980)
+#### [Navigating Trello’s free vs. paid options](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=0)** - [Instructor] Before learning about all of the amazing features that Trello offers when it comes to both task and project management, I first want to address a very common question.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=0)** - [Instructor] Before learning about all of the amazing features that [[Trello]] offers when it comes to both task and project management, I first want to address a very common question.
 >
 > **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=8)** Is Trello really free?
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=57)** And speaking of frequently asked questions, one that you might be wondering, especially if you are a Trello OG, what about Trello Gold?
 >
-> **[1:04](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=64)** Since Trello was acquired by Atlassian, they have since retired the Trello Gold option.
+> **[1:04](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=64)** Since Trello was acquired by [[Atlassian]], they have since retired the Trello Gold option.
 >
 > **[1:09](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-trello-s-free-vs-paid-options?u=76281980&t=69)** So if you're a Trello OG like I am, you either currently have the Trello Gold subscription or you're wondering where are the feature sets.
 >
@@ -153,7 +151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (13), management (1), [[Atlassian]] (1), feature (1)
+> **Frameworks & Libraries:** [[Trello]] (13), [[Atlassian]] (1)
 > **CLI Commands:** make (1), find (1)
 > **URLs:** [trello.com](https://trello.com) (2)
 > **Definitions:** is a  (1)
@@ -164,12 +162,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigating the home page and creating your first board
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
+#### [Navigating the home page and creating your first board](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=0)** - [Instructor] Welcome to the beginning of your Trello journey.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=0)** - [Instructor] Welcome to the beginning of your [[Trello]] journey.
 >
 > **[0:02](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=2)** If you're unfamiliar with Trello, but you're ready to give it a try, I want to quickly remind you that Trello is a free web-based application and the only requirement to using it is a working internet connection.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=132)** You can make it visible to anybody in the workspace, whether or not they have been assigned to a board, or you can also make your Trello boards public.
 >
-> **[2:19](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=139)** And I very much want to caution you against doing this unless you understand that anybody on the internet can see this board, including anybody that has access to Google and searches.
+> **[2:19](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=139)** And I very much want to caution you against doing this unless you understand that anybody on the internet can see this board, including anybody that has access to [[Google]] and searches.
 >
 > **[2:29](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-the-home-page-and-creating-your-first-board?u=76281980&t=149)** So, for now, we're going to make this workspace visible and we are going to create our very first Trello board.
 >
@@ -223,7 +220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (15), web (2), application (1), [[Google]] (1), hit (1)
+> **Frameworks & Libraries:** [[Trello]] (15), [[Google]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** safari (1), firefox (1)
@@ -232,12 +229,11 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Prerequisites:** set up (1)
 
-#### Navigating boards, lists, and cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-boards-lists-and-cards?u=76281980)
+#### [Navigating boards, lists, and cards](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-boards-lists-and-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-boards-lists-and-cards?u=76281980&t=0)** - [Instructor] Assuming that you have at least one new Trello board ready to go, it's time to learn how to navigate your board and add lists and cards.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-boards-lists-and-cards?u=76281980&t=0)** - [Instructor] Assuming that you have at least one new [[Trello]] board ready to go, it's time to learn how to navigate your board and add lists and cards.
 >
 > **[0:07](https://www.linkedin.com/learning/trello-essential-training-22650139/navigating-boards-lists-and-cards?u=76281980&t=7)** Because if you can create a board, a list and a card, the sky is the limit with what you can accomplish with Trello.
 >
@@ -305,17 +301,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (10), prompt (4), [[Search]] (3), hit (2), next (2)
+> **Frameworks & Libraries:** [[Trello]] (10)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing board settings and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-board-settings-and-permissions?u=76281980)
+#### [Managing board settings and permissions](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-board-settings-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-board-settings-and-permissions?u=76281980&t=0)** - [Instructor] Whether you decide to work with a single Trello board or many of them across many teams and many workspaces, you're going to want to better understand how to navigate the various board settings so that you can customize each board to suit you and or your team's most important needs.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-board-settings-and-permissions?u=76281980&t=0)** - [Instructor] Whether you decide to work with a single [[Trello]] board or many of them across many teams and many workspaces, you're going to want to better understand how to navigate the various board settings so that you can customize each board to suit you and or your team's most important needs.
 >
 > **[0:15](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-board-settings-and-permissions?u=76281980&t=15)** So all of your individual board settings are going to be contained over here in the three dot menu.
 >
@@ -371,17 +366,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (6), feature (3), teams (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Trello]] (6)
 > **UI Navigation:** click on (3), dropdown (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing members, labels, and checklists
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-members-labels-and-checklists?u=76281980)
+#### [Managing members, labels, and checklists](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-members-labels-and-checklists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-members-labels-and-checklists?u=76281980&t=0)** - [Instructor] All right, it's finally time to dig into the many different options and customizations that are available inside any individual Trello board and Trello card.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-members-labels-and-checklists?u=76281980&t=0)** - [Instructor] All right, it's finally time to dig into the many different options and customizations that are available inside any individual [[Trello]] board and Trello card.
 >
 > **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-members-labels-and-checklists?u=76281980&t=8)** There are so many different features available that it would be impossible to cover all of them in a single lesson.
 >
@@ -495,18 +489,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (10), feature (4), [[Search]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Trello]] (10)
 > **UI Navigation:** go to (4), click on (3), scroll down (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding due dates, attachments, and card covers
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980)
+#### [Adding due dates, attachments, and card covers](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=0)** - [Instructor] Let's dig into a few more of the key features that are available inside individual Trello cards that I believe are vital to keeping your board and your cards organized, due dates, attachments, and card covers.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=0)** - [Instructor] Let's dig into a few more of the key features that are available inside individual [[Trello]] cards that I believe are vital to keeping your board and your cards organized, due dates, attachments, and card covers.
 >
 > **[0:12](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=12)** So as we go back into our first sample card here, you'll notice that in the right side bar we also have the ability beyond members, labels, and checklists to add due dates, attach items, and add card covers, as well as custom fields which as I've mentioned previously, is now a paid feature in Trello and no longer available in the free version.
 >
@@ -556,7 +549,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=164)** I'm going to go ahead and I'm going to remove this for now.
 >
-> **[2:47](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=167)** I can also attach via various cloud services like Google Drive, Dropbox, Box, and OneDrive or I can attach a hyperlink which is a great way for me to be able to save bookmarks.
+> **[2:47](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=167)** I can also attach via various [[Cloud Services]] like [[Google Drive]], Dropbox, Box, and [[Microsoft OneDrive|OneDrive]] or I can attach a hyperlink which is a great way for me to be able to save bookmarks.
 >
 > **[2:58](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=178)** So for example, if I wanted to remember what are my different pricing options in Trello, I can put that link.
 >
@@ -566,7 +559,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=191)** So I can always find the Trello pricing.
 >
-> **[3:13](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=193)** So one question I always get about attachments, specifically with cloud services, whether it's Google, Dropbox, or other, if I attach an item to a card, is it editable?
+> **[3:13](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=193)** So one question I always get about attachments, specifically with cloud services, whether it's [[Google]], Dropbox, or other, if I attach an item to a card, is it editable?
 >
 > **[3:23](https://www.linkedin.com/learning/trello-essential-training-22650139/adding-due-dates-attachments-and-card-covers?u=76281980&t=203)** Is it something where I can take that attachment and I can change it in Google Docs or Google Sheets or whatever the the cloud-based service is?
 >
@@ -606,7 +599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (7), feature (3), power (3), cloud (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[Trello]] (7), [[Google]] (3), [[Cloud Services]] (2), [[Google Drive]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** click on (4), go to (1)
 > **Analogies:** for example (4)
@@ -615,12 +608,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and formatting card descriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980)
+#### [Creating and formatting card descriptions](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=0)** - [Instructor] An important yet powerful feature that is often overlooked inside every individual Trello card is the Description field.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=0)** - [Instructor] An important yet powerful feature that is often overlooked inside every individual [[Trello]] card is the Description field.
 >
 > **[0:07](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=7)** Now, at first glance, when we go into the Description field, it might just seem like it's a simple text box, but when we dig a little bit deeper, you're going to discover there are a lot of options to better organize, format, and communicate information inside each individual card, either for just yourself or for your other team members.
 >
@@ -628,7 +620,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=32)** Well, they have made this way, way easier for those of us that are not interested in learning any coding whatsoever.
 >
-> **[0:38](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=38)** So you'll see that what I have the ability to do, if I were to just types some information here, let's say that we want to create a headline, you no longer have to know Markdown, you can choose various different formatting options, very similar to if you were working with WordPress, for example.
+> **[0:38](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=38)** So you'll see that what I have the ability to do, if I were to just types some information here, let's say that we want to create a headline, you no longer have to know Markdown, you can choose various different formatting options, very similar to if you were working with [[WordPress]], for example.
 >
 > **[0:52](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-formatting-card-descriptions?u=76281980&t=52)** So let's say that I wanted to add a heading here, and now I have a text description of a paragraph, but then I wanted to do bullet points.
 >
@@ -662,18 +654,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (4), [[WordPress]] (2), feature (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[WordPress]] (2)
 > **Analogies:** for example (3), similar to (2)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving and copying cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/moving-and-copying-cards?u=76281980)
+#### [Moving and copying cards](https://www.linkedin.com/learning/trello-essential-training-22650139/moving-and-copying-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/moving-and-copying-cards?u=76281980&t=0)** - In order for you to be truly effective using Trello it's important to understand how to organize, move and copy your various cards either inside a board or between boards.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/moving-and-copying-cards?u=76281980&t=0)** - In order for you to be truly effective using [[Trello]] it's important to understand how to organize, move and copy your various cards either inside a board or between boards.
 >
 > **[0:10](https://www.linkedin.com/learning/trello-essential-training-22650139/moving-and-copying-cards?u=76281980&t=10)** Luckily, this process in Trello is incredibly simple.
 >
@@ -769,21 +760,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (15), next (1), data (1)
+> **Frameworks & Libraries:** [[Trello]] (15)
 > **UI Navigation:** go to (9), drag and drop (1)
 > **Analogies:** for example (4), just like (1)
 > **Cross-References:** go back to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Communication, notifications, and watching
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980)
+#### [Communication, notifications, and watching](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=0)** - [Instructor] In this lesson, I'll briefly demonstrate the basics of communicating with your team members, managing your notifications, and understanding how the watch feature works for your lists, your cards, and your boards so you and your team members never miss an important update.
 >
-> **[0:14](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=14)** If we go first into our individual cards, you'll notice that below all of the label information, the due dates and the description, the attachments, the checklist at the bottom, you'll see activity, and this essentially is going to work just like any other conversation, whether it's via Twitter or Slack, Discord or whatever your communication medium is of choice.
+> **[0:14](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=14)** If we go first into our individual cards, you'll notice that below all of the label information, the due dates and the description, the attachments, the checklist at the bottom, you'll see activity, and this essentially is going to work just like any other conversation, whether it's via Twitter or [[Slack]], Discord or whatever your communication medium is of choice.
 >
 > **[0:34](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=34)** So what I can do here, and you'll notice that I also have the ability to format these as necessary, that I can either leave a comment, so, "I have a thought about this card," and I hit save, and you can see that this is left here as a comment, or I can also have conversations using the @ notification function.
 >
@@ -803,7 +793,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=122)** You can review some of these other notification preferences.
 >
-> **[2:06](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=126)** I essentially do my best to not do any of my communications in Trello itself.
+> **[2:06](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=126)** I essentially do my best to not do any of my communications in [[Trello]] itself.
 >
 > **[2:11](https://www.linkedin.com/learning/trello-essential-training-22650139/communication-notifications-and-watching?u=76281980&t=131)** I do my best to either communicate via Slack or, if necessary, via email, but I'll be perfectly honest.
 >
@@ -857,7 +847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (6), [[Slack]] (3), feature (2), hit (1)
+> **Frameworks & Libraries:** [[Trello]] (6), [[Slack]] (3)
 > **Tools:** slack (3), discord (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** just like (2), for example (1)
@@ -866,14 +856,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Archiving cards, lists, and boards
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980)
+#### [Archiving cards, lists, and boards](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980&t=0)** - [Instructor] Inevitably, you'll get to a point where you have a lot of completed tasks that are creating clutter amongst your cards, and you're going to want to clean up your boards.
 >
-> **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980&t=8)** Trello offers a very useful and simple feature that's called archiving.
+> **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980&t=8)** [[Trello]] offers a very useful and simple feature that's called archiving.
 >
 > **[0:12](https://www.linkedin.com/learning/trello-essential-training-22650139/archiving-cards-lists-and-boards?u=76281980&t=12)** In addition to archiving individual cards, you can also archive lists, as well as close entire boards once you're done with them.
 >
@@ -961,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Trello]] (3), feature (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Trello]] (3)
 > **UI Navigation:** go to (3), scroll down (1), select the (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (2)
@@ -969,12 +958,11 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trello card-sharing options
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980)
+#### [Trello card-sharing options](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=0)** - [Instructor] A cool, lesser known feature inside Trello Cards that is incredibly useful when communicating and sharing information between team members, or even with outside collaborators, is the Share function.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=0)** - [Instructor] A cool, lesser known feature inside [[Trello]] Cards that is incredibly useful when communicating and sharing information between team members, or even with outside collaborators, is the Share function.
 >
 > **[0:11](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=11)** Very briefly, here's what you can do with it and how it works.
 >
@@ -988,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=39)** Again, I don't really see the use for it, but I want to make sure if you see that it's useful, you know how to do it.
 >
-> **[0:44](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=44)** You also have the option to export JSON.
+> **[0:44](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=44)** You also have the option to export [[JSON]].
 >
 > **[0:47](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=47)** More importantly, this is the one that I really want you to pay attention to, it's the ability to link directly to this card.
 >
@@ -996,7 +984,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=56)** If I were to copy this, by choosing Command + C, if I were to open a brand new tab, and I Command paste, Command + V, you'll notice that it will send me directly to this card.
 >
-> **[1:09](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=69)** So that way I can link anywhere outside of my Trello boards, whether it's in Team documents, whether it's via Trello, whether it's via Slack, it doesn't matter.
+> **[1:09](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=69)** So that way I can link anywhere outside of my Trello boards, whether it's in Team documents, whether it's via Trello, whether it's via [[Slack]], it doesn't matter.
 >
 > **[1:17](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=77)** You have an external hyperlink that will take people directly to this card.
 >
@@ -1004,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=92)** So if you're going to be sharing hyperlinks to people outside your team, you want to make sure that your board is set to public.
 >
-> **[1:38](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=98)** If we go back into the card and back into the share settings, you'll see you also have the ability to either have a QR code, which is essentially the same way as sharing a link to the card, but just with an image instead, you can also embed this actual card using HTML code in any websites, and you have an email link for which you can email any information from your inbox to your Trello boards.
+> **[1:38](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=98)** If we go back into the card and back into the share settings, you'll see you also have the ability to either have a QR code, which is essentially the same way as sharing a link to the card, but just with an image instead, you can also embed this actual card using [[HTML]] code in any websites, and you have an email link for which you can email any information from your inbox to your Trello boards.
 >
 > **[2:02](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-card-sharing-options?u=76281980&t=122)** I'm not going to go over this feature specifically in this lesson, but it is a very useful one.
 >
@@ -1034,7 +1022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (8), feature (2), [[JSON]] (1), [[Slack]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Trello]] (8), [[JSON]] (1), [[Slack]] (1), [[HTML]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), html (1)
@@ -1048,12 +1036,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing workspaces, members, and creating collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
+#### [Managing workspaces, members, and creating collections](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=0)** - [Instructor] Beyond all of the amazing features the Trello offers individuals, there is a whole world of opportunity available to further organize, collaborate and get things done more effectively using workspaces and members.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=0)** - [Instructor] Beyond all of the amazing features the [[Trello]] offers individuals, there is a whole world of opportunity available to further organize, collaborate and get things done more effectively using workspaces and members.
 >
 > **[0:12](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=12)** Many of the features are not going to be available to those that are using the free option, meaning you're probably going to need to upgrade to get the most out of the workspaces feature.
 >
@@ -1087,7 +1074,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=90)** You are not paying on the account level.
 >
-> **[1:32](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=92)** This is a big shift in change the Trello made after they were acquired by Atlassian.
+> **[1:32](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=92)** This is a big shift in change the Trello made after they were acquired by [[Atlassian]].
 >
 > **[1:37](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=97)** So be very, very cautious thinking that when I pay I am paying for all of my workspaces.
 >
@@ -1139,7 +1126,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=261)** But again, you can have as many workspaces as you want for free.
 >
-> **[4:25](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=265)** So ultimately what that means, if we go back to the homepage, if you're looking at this from a free perspective and you're not trying to manage an entire team, just think of workspaces as a really fancy word for folders or for bins for each of your groups of 10 Trello boards or less.
+> **[4:25](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=265)** So ultimately what that means, if we go back to the homepage, if you're looking at this from a free perspective and you're not trying to manage an entire team, just think of workspaces as a really fancy [[Microsoft Word|word]] for folders or for bins for each of your groups of 10 Trello boards or less.
 >
 > **[4:41](https://www.linkedin.com/learning/trello-essential-training-22650139/managing-workspaces-members-and-creating-collections?u=76281980&t=281)** So now you should at least have a basic understanding of how to get started using workspaces for your specific individual or team needs.
 >
@@ -1147,7 +1134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (17), feature (1), hit (1), [[Atlassian]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Trello]] (17), [[Atlassian]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (3), means that (1)
 > **UI Navigation:** go to (3)
@@ -1155,12 +1142,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and using Trello card templates
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-using-trello-card-templates?u=76281980)
+#### [Creating and using Trello card templates](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-using-trello-card-templates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-using-trello-card-templates?u=76281980&t=0)** - [Instructor] Trello is a fantastic tool for managing cards, boards, lists, checklists, members and so much more.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-using-trello-card-templates?u=76281980&t=0)** - [Instructor] [[Trello]] is a fantastic tool for managing cards, boards, lists, checklists, members and so much more.
 >
 > **[0:07](https://www.linkedin.com/learning/trello-essential-training-22650139/creating-and-using-trello-card-templates?u=76281980&t=7)** But where Trello becomes really fun, fascinating and powerful, if you're a productivity nerd like me, is the ability to create complex processes and systems that you can repeat over and over.
 >
@@ -1256,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (8), feature (1), power (1)
+> **Frameworks & Libraries:** [[Trello]] (8)
 > **Exercise Files:** template (13)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1), click on (1)
@@ -1265,8 +1251,7 @@ created: 2026-05-02
 > **Env Vars:** pdf (1)
 > **Cross-References:** go back to (1)
 
-#### Linking Trello cards and boards together
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980)
+#### [Linking Trello cards and boards together](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1276,7 +1261,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=31)** So for the sake of this demonstration what I'm going to do to show you how linking works is we're going to create a very simple index.
 >
-> **[0:38](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=38)** So I'm going to create a new Trello card that is going to be called board and card index.
+> **[0:38](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=38)** So I'm going to create a new [[Trello]] card that is going to be called board and card index.
 >
 > **[0:45](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=45)** 'Cause it's an index I'm just going to keep it here at the very top.
 >
@@ -1306,7 +1291,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=113)** So I'm going to show you a little bit quicker way to do this.
 >
-> **[1:56](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=116)** For the rest of our cards and I'm just going to do it for the first few, rather than going in, clicking, scrolling down, clicking share, copy paste.
+> **[1:56](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=116)** For the [[Representational State Transfer (REST)|rest]] of our cards and I'm just going to do it for the first few, rather than going in, clicking, scrolling down, clicking share, copy paste.
 >
 > **[2:05](https://www.linkedin.com/learning/trello-essential-training-22650139/linking-trello-cards-and-boards-together?u=76281980&t=125)** Here's a faster way.
 >
@@ -1374,7 +1359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (9), feature (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Trello]] (9), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1)
@@ -1382,12 +1367,11 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Searching and filtering boards and cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/searching-and-filtering-boards-and-cards?u=76281980)
+#### [Searching and filtering boards and cards](https://www.linkedin.com/learning/trello-essential-training-22650139/searching-and-filtering-boards-and-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/searching-and-filtering-boards-and-cards?u=76281980&t=0)** - [Speaker] If there is one function to commit to memory that's going to give you the most bang for your buck and Trello, it's filtering.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/searching-and-filtering-boards-and-cards?u=76281980&t=0)** - [Speaker] If there is one function to commit to memory that's going to give you the most bang for your buck and [[Trello]], it's filtering.
 >
 > **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/searching-and-filtering-boards-and-cards?u=76281980&t=6)** In this lesson, I'm going to show you how powerful the filtering function can be in a project management setting.
 >
@@ -1469,7 +1453,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (7), [[Search]] (3), management (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Trello]] (7)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1478,12 +1462,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** remember to (1)
 
-#### Forwarding messages to boards and creating cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/forwarding-messages-to-boards-and-creating-cards?u=76281980)
+#### [Forwarding messages to boards and creating cards](https://www.linkedin.com/learning/trello-essential-training-22650139/forwarding-messages-to-boards-and-creating-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/forwarding-messages-to-boards-and-creating-cards?u=76281980&t=0)** - [Instructor] One of the great things about Trello is its ability to help you avoid your dreaded email inbox.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/forwarding-messages-to-boards-and-creating-cards?u=76281980&t=0)** - [Instructor] One of the great things about [[Trello]] is its ability to help you avoid your dreaded email inbox.
 >
 > **[0:05](https://www.linkedin.com/learning/trello-essential-training-22650139/forwarding-messages-to-boards-and-creating-cards?u=76281980&t=5)** Inevitably, you are going to work with outside clients, vendors and other collaborators who have no interest in adopting your Trello workflows.
 >
@@ -1565,7 +1548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (14), feature (2), next (1)
+> **Frameworks & Libraries:** [[Trello]] (14)
 > **UI Navigation:** go to (3), click on (1)
 > **Exercise Files:** template (3)
 > **CLI Commands:** make (1), find (1)
@@ -1573,12 +1556,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Board background images and collections (paid feature)
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/board-background-images-and-collections-paid-feature?u=76281980)
+#### [Board background images and collections (paid feature)](https://www.linkedin.com/learning/trello-essential-training-22650139/board-background-images-and-collections-paid-feature?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/board-background-images-and-collections-paid-feature?u=76281980&t=0)** - [Presenter] While changing the background image of a Trello board may seem like a trivial and maybe even a cosmetic feature, I find this feature incredibly useful to organize your boards and your teams.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/board-background-images-and-collections-paid-feature?u=76281980&t=0)** - [Presenter] While changing the background image of a [[Trello]] board may seem like a trivial and maybe even a cosmetic feature, I find this feature incredibly useful to organize your boards and your teams.
 >
 > **[0:10](https://www.linkedin.com/learning/trello-essential-training-22650139/board-background-images-and-collections-paid-feature?u=76281980&t=10)** And in addition to background images, the collections feature, which by the way, is only available to premium users, allows a lot more freedom and flexibility with organizing your boards.
 >
@@ -1634,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (7), [[Trello]] (4), teams (1), next (1)
+> **Frameworks & Libraries:** [[Trello]] (4)
 > **Analogies:** for example (6)
 > **UI Navigation:** go to (3), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -1643,12 +1625,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Trello keyboard shortcuts
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-keyboard-shortcuts?u=76281980)
+#### [Trello keyboard shortcuts](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-keyboard-shortcuts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-keyboard-shortcuts?u=76281980&t=0)** - If you're interested in becoming even more efficient with your use of Trello, there is no quicker way to make that happen than to memorize and master Trello keyboard shortcuts.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-keyboard-shortcuts?u=76281980&t=0)** - If you're interested in becoming even more efficient with your use of [[Trello]], there is no quicker way to make that happen than to memorize and master Trello keyboard shortcuts.
 >
 > **[0:09](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-keyboard-shortcuts?u=76281980&t=9)** But before walking you through some of the most common keyboard shortcuts that I recommend and the ones that I use all day long, I'd first like to direct you to the shortcut glossary.
 >
@@ -1752,7 +1733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Trello]] (7), [[Search]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Trello]] (7)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** click on (2), select the (1), toggle (1)
 > **URLs:** [trello.com](https://trello.com) (1)
@@ -1760,12 +1741,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - if (1)
 
-#### Tables, timelines, and other views (paid features only)
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980)
+#### [Tables, timelines, and other views (paid features only)](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=0)** - [Instructor] I hope it's already evident, the power and versatility that Trello offers by simply using boards, lists, and cards to organize your projects, your team, and your entire life.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=0)** - [Instructor] I hope it's already evident, the power and versatility that [[Trello]] offers by simply using boards, lists, and cards to organize your projects, your team, and your entire life.
 >
 > **[0:10](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=10)** But beyond Board view, there are several other views that are available to take your project management to a whole new level.
 >
@@ -1819,7 +1799,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=169)** I'm going to go ahead and return this back to where it was for now.
 >
-> **[2:53](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=173)** We look at the Dashboard view, and this is going to give you statistics about your cards.
+> **[2:53](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=173)** We look at the Dashboard view, and this is going to give you [[Statistics]] about your cards.
 >
 > **[2:57](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=177)** You have cards per list, cards per due date, cards per member, cards per label, and you also have the option to add this and create either a bar graph, a pie chart, or a line chart.
 >
@@ -1839,7 +1819,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=226)** How I created this was I have two cards in my Trello board that have locations assigned.
 >
-> **[3:52](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=232)** So I have one with the headquarters for LinkedIn Learning right here.
+> **[3:52](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=232)** So I have one with the headquarters for [[LinkedIn]] Learning right here.
 >
 > **[3:57](https://www.linkedin.com/learning/trello-essential-training-22650139/tables-timelines-and-other-views-paid-features-only?u=76281980&t=237)** So if I go to our LinkedIn Learning Headquarter card, you'll see all I have to do is go into Location and I add the location here.
 >
@@ -1859,7 +1839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (3), data (2), [[LinkedIn]] (2), power (1), management (1)
+> **Frameworks & Libraries:** [[Trello]] (3), [[LinkedIn]] (2), [[Statistics]] (1)
 > **Cross-References:** go back to (3)
 > **UI Navigation:** go to (2)
 > **Analogies:** similar to (2)
@@ -1873,12 +1853,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Trello Power-Ups
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
+#### [Introduction to Trello Power-Ups](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980&t=0)** - [Instructor] Well, Trello certainly has an amazing standard set of features.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980&t=0)** - [Instructor] Well, [[Trello]] certainly has an amazing standard set of features.
 >
 > **[0:03](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-power-ups?u=76281980&t=3)** If you're ready to take your use to a completely new level, it's time to become familiar with Power-ups, which are essentially a giant collection of extensions and plugins that have been developed both by Trello as well as third-party developers for a variety of uses.
 >
@@ -1940,19 +1919,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (15), [[Trello]] (6), [[Search]] (5), next (1), management (1)
+> **Frameworks & Libraries:** [[Trello]] (6)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** click on (2)
 > **Analogies:** for example (2)
 > **Warnings:** warning (2)
 > **Speakers:** - [instructor] (1)
 
-#### The Trello Calendar Power-Up (with calendar integration)
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980)
+#### [The Trello Calendar Power-Up (with calendar integration)](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=0)** - [Instructor] In my opinion, one of the most basic, but also useful Trello Power-Ups is the Calendar Power-Up.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=0)** - [Instructor] In my opinion, one of the most basic, but also useful [[Trello]] Power-Ups is the Calendar Power-Up.
 >
 > **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=6)** Due dates on Trello cards can be helpful, but wouldn't they be a lot more useful if you could visualize those dates on a calendar?
 >
@@ -1992,7 +1970,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=129)** So again, I can just go back, I can return them where they were, and I have a visual representation of the due dates on my calendar.
 >
-> **[2:16](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=136)** Now you might be wondering how do I get this out to my external calendars, whether it's Google, Mac, BusyCal, or other?
+> **[2:16](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=136)** Now you might be wondering how do I get this out to my external calendars, whether it's [[Google]], Mac, BusyCal, or other?
 >
 > **[2:23](https://www.linkedin.com/learning/trello-essential-training-22650139/the-trello-calendar-power-up-with-calendar-integration?u=76281980&t=143)** There is a way to do that, and that is by going to the settings wheel in the upper right and you have an iCalendar feed that you simply just need to copy here and then paste as a calendar subscription into any of your programs.
 >
@@ -2010,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), [[Trello]] (9), [[Google]] (2), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Trello]] (9), [[Google]] (2)
 > **Definitions:** is a  (2), is called (1)
 > **Code Identifiers:** icalendar (1), imac (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -2019,12 +1997,11 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Planyway Calendar Power-Up
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/the-planyway-calendar-power-up?u=76281980)
+#### [The Planyway Calendar Power-Up](https://www.linkedin.com/learning/trello-essential-training-22650139/the-planyway-calendar-power-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-planyway-calendar-power-up?u=76281980&t=0)** - [Instructor] In this lesson, I want to demonstrate the number one most vital Power-Up to my Trello workflow, which is the Planyway Calendar Power-Up.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-planyway-calendar-power-up?u=76281980&t=0)** - [Instructor] In this lesson, I want to demonstrate the number one most vital Power-Up to my [[Trello]] workflow, which is the Planyway Calendar Power-Up.
 >
 > **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/the-planyway-calendar-power-up?u=76281980&t=8)** If you're just getting started with time and calendar management, the default calendar Power-Up, it's a good start.
 >
@@ -2102,7 +2079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (14), [[Trello]] (9), next (3), management (2), feature (1)
+> **Frameworks & Libraries:** [[Trello]] (9)
 > **Analogies:** similar to (2), for example (2), kind of like (1)
 > **Cross-References:** go back to (2)
 > **Definitions:** is a  (2)
@@ -2111,12 +2088,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Prerequisites:** getting started (1)
 
-#### Syncing Planyway to Google Calendar
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980)
+#### [Syncing Planyway to Google Calendar](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=0)** - [Instructor] The Planyway Calendar Power-Up is my number one tool that I have in my arsenal that allows me to synchronize all of my Trello cards with my calendar so that I can transform my calendar into my to-do list.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=0)** - [Instructor] The Planyway Calendar Power-Up is my number one tool that I have in my arsenal that allows me to synchronize all of my [[Trello]] cards with my calendar so that I can transform my calendar into my to-do list.
 >
 > **[0:11](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=11)** And using Planyway on any individual Trello board is a fantastic start.
 >
@@ -2130,7 +2106,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=49)** And you'll see that you have the option to visualize not only one Trello board, but multiple Trello boards in a single Planyway calendar, which is great, but I'm also not going to demonstrate in this lesson.
 >
-> **[0:59](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=59)** What I want to point you to is the two-way sync with Google.
+> **[0:59](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=59)** What I want to point you to is the two-way sync with [[Google]].
 >
 > **[1:02](https://www.linkedin.com/learning/trello-essential-training-22650139/syncing-planyway-to-google-calendar?u=76281980&t=62)** So I'm going to click on sync with Google and you'll see that now I have the option to sync my Google calendar with our first Trello board.
 >
@@ -2218,18 +2194,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (14), [[Google]] (6), power (3), hit (1)
+> **Frameworks & Libraries:** [[Trello]] (14), [[Google]] (6)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is a  (2), means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Card Repeater Power-Up for recurring tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/the-card-repeater-power-up-for-recurring-tasks?u=76281980)
+#### [The Card Repeater Power-Up for recurring tasks](https://www.linkedin.com/learning/trello-essential-training-22650139/the-card-repeater-power-up-for-recurring-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-card-repeater-power-up-for-recurring-tasks?u=76281980&t=0)** - [Instructor] A question that I'm often asked by both Trello enthusiasts as well as members of my optimizer coaching community is what if I want to create a Trello card for recurring tasks or to establish a habit?
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/the-card-repeater-power-up-for-recurring-tasks?u=76281980&t=0)** - [Instructor] A question that I'm often asked by both [[Trello]] enthusiasts as well as members of my optimizer coaching community is what if I want to create a Trello card for recurring tasks or to establish a habit?
 >
 > **[0:11](https://www.linkedin.com/learning/trello-essential-training-22650139/the-card-repeater-power-up-for-recurring-tasks?u=76281980&t=11)** Where do I do that?
 >
@@ -2311,7 +2286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (9), power (9), next (4), feature (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Trello]] (9)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2320,14 +2295,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (clicking) (1)
 
-#### Integrating cloud services: Google Drive, Dropbox, and more
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980)
+#### [Integrating cloud services: Google Drive, Dropbox, and more](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980&t=0)** - [Instructor] When it comes to file management via the cloud, Trello offers quite a few Power-Up integrations.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980&t=0)** - [Instructor] When it comes to file management via the cloud, [[Trello]] offers quite a few Power-Up integrations.
 >
-> **[0:05](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980&t=5)** In this lesson, I will demonstrate how to enable the most common ones being OneDrive, Box, and Google Drive.
+> **[0:05](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980&t=5)** In this lesson, I will demonstrate how to enable the most common ones being [[Microsoft OneDrive|OneDrive]], Box, and [[Google Drive]].
 >
 > **[0:11](https://www.linkedin.com/learning/trello-essential-training-22650139/integrating-cloud-services-google-drive-dropbox-and-more?u=76281980&t=11)** I also want to help you better understand the difference between attaching documents to your Trello cards versus linking them via Power-Ups as there is a very important distinction.
 >
@@ -2393,7 +2367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (8), [[Google Drive]] (8), [[Trello]] (7), [[Microsoft OneDrive|Onedrive]] (6), management (4)
+> **Frameworks & Libraries:** [[Google Drive]] (8), [[Trello]] (7), [[Microsoft OneDrive|Onedrive]] (6)
 > **Definitions:** is a  (5), means that (1)
 > **Env Vars:** pdf (5)
 > **UI Navigation:** go to (2), select the (1)
@@ -2407,12 +2381,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Trello automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
+#### [Introduction to Trello automation](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980&t=0)** - [Instructor] Trello has an amazing standard set of features, but if you're ready to take your use of Trello to another dimension, well it's time to become familiar with automations which for those that are longtime Trello power users was formally known as Butler.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980&t=0)** - [Instructor] [[Trello]] has an amazing standard set of features, but if you're ready to take your use of Trello to another dimension, well it's time to become familiar with automations which for those that are longtime Trello power users was formally known as Butler.
 >
 > **[0:14](https://www.linkedin.com/learning/trello-essential-training-22650139/introduction-to-trello-automation?u=76281980&t=14)** There's so many different ways to integrate automations that it would take an entire learning course just to show you how all of them work.
 >
@@ -2460,19 +2433,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (4), power (4), [[Automation]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Trello]] (4)
 > **Analogies:** for example (5), kind of like (1)
 > **Ports:** :55 (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a Trello automation rule
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-trello-automation-rule?u=76281980)
+#### [How to create a Trello automation rule](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-trello-automation-rule?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-trello-automation-rule?u=76281980&t=0)** - [Instructor] Automations in Trello can be either very simple or very complex, with nearly infinite options.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-trello-automation-rule?u=76281980&t=0)** - [Instructor] Automations in [[Trello]] can be either very simple or very complex, with nearly infinite options.
 >
 > **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-trello-automation-rule?u=76281980&t=6)** One of the many automation options are rules.
 >
@@ -2574,7 +2546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), [[Trello]] (2), power (2)
+> **Frameworks & Libraries:** [[Trello]] (2)
 > **Definitions:** means that (1), is a  (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll up (1)
@@ -2583,12 +2555,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a custom Trello card button
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-card-button?u=76281980)
+#### [How to create a custom Trello card button](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-card-button?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-card-button?u=76281980&t=0)** - [Instructor] Card buttons are one of the many Trello automation options that provides you the ability to customize your workflow far beyond the default tool set.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-card-button?u=76281980&t=0)** - [Instructor] Card buttons are one of the many [[Trello]] automation options that provides you the ability to customize your workflow far beyond the default tool set.
 >
 > **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-card-button?u=76281980&t=8)** Here I'll briefly demonstrate where to create a customized card button and then I'm going to show you an example of how you can use a card button to add a recurring checklist.
 >
@@ -2668,7 +2639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (3), [[Automation]] (3), hit (1)
+> **Frameworks & Libraries:** [[Trello]] (3)
 > **Exercise Files:** template (4)
 > **Env Vars:** pdf (2)
 > **Cross-References:** go back to (2)
@@ -2677,12 +2648,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create a custom Trello board button
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-board-button?u=76281980)
+#### [How to create a custom Trello board button](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-board-button?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-board-button?u=76281980&t=0)** - [Presenter] Another powerful way to customize and streamline your Trello workflows, specifically to keep things organized, is to create board buttons that apply to all of your lists and cards.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-board-button?u=76281980&t=0)** - [Presenter] Another powerful way to customize and streamline your [[Trello]] workflows, specifically to keep things organized, is to create board buttons that apply to all of your lists and cards.
 >
 > **[0:10](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-a-custom-trello-board-button?u=76281980&t=10)** In this lesson, I'll demonstrate how to create your first board button, where it will archive any cards that are in a specific list.
 >
@@ -2738,19 +2708,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Trello]] (2), hit (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Trello]] (2)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### How to create Trello list automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980)
+#### [How to create Trello list automation](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=0)** - [Instructor] One of the many automation options in Trello that allows you to better maintain and organize your cards are automations for your individual Trello lists.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=0)** - [Instructor] One of the many automation options in [[Trello]] that allows you to better maintain and organize your cards are automations for your individual Trello lists.
 >
 > **[0:08](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=8)** I'd like to briefly demonstrate how you can create a list automation to keep your cards sorted, organized, and/or archived at any given board.
 >
@@ -2770,7 +2739,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=66)** What I'm first going to show you is how to use the sort option.
 >
-> **[1:09](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=69)** So, what I've done, thanks to our friend at ChatGPT, is I've created a randomized list of all 26 letters of the alphabet.
+> **[1:09](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=69)** So, what I've done, thanks to our friend at [[ChatGPT]], is I've created a randomized list of all 26 letters of the alphabet.
 >
 > **[1:16](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-list-automation?u=76281980&t=76)** And I'm going to go ahead and I'm going to paste that in here.
 >
@@ -2844,19 +2813,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (8), [[Trello]] (4), [[ChatGPT]] (1), power (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[ChatGPT]] (1)
 > **UI Navigation:** go to (3), open the (1)
 > **Analogies:** such as (1), similar to (1), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create Trello custom fields (paid upgrade)
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-custom-fields-paid-upgrade?u=76281980)
+#### [How to create Trello custom fields (paid upgrade)](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-custom-fields-paid-upgrade?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-custom-fields-paid-upgrade?u=76281980&t=0)** - [Instructor] Trello makes it super easy to assign due dates to your cards, either via the cards themselves or using your calendar or even using the Plan UA power up.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-custom-fields-paid-upgrade?u=76281980&t=0)** - [Instructor] [[Trello]] makes it super easy to assign due dates to your cards, either via the cards themselves or using your calendar or even using the Plan UA power up.
 >
 > **[0:09](https://www.linkedin.com/learning/trello-essential-training-22650139/how-to-create-trello-custom-fields-paid-upgrade?u=76281980&t=9)** But what if you want to assign multiple due dates to a single card, or you want to add custom information that's unique to your workflow or your team's way of assigning projects?
 >
@@ -2978,7 +2946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (4), feature (3), power (2)
+> **Frameworks & Libraries:** [[Trello]] (4)
 > **UI Navigation:** dropdown (5), checkbox (4), click on (1), open the (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (2)
@@ -2991,14 +2959,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Trello and the Kanban method
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
+#### [Trello and the Kanban method](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=0)** - Of all the productivity systems available today, Trello is the perfect tool for the kanban method.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=0)** - Of all the productivity systems available today, [[Trello]] is the perfect tool for the kanban method.
 >
-> **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=6)** If you do a brief search via LinkedIn Learning, you'll see they already have a variety of resources to learn more about the kanban method in depth.
+> **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=6)** If you do a brief search via [[LinkedIn]] Learning, you'll see they already have a variety of resources to learn more about the kanban method in depth.
 >
 > **[0:13](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=13)** The reason that this specific system is so successful is because it limits your focus to only the most important and urgent tasks, and it improves the flow of your work.
 >
@@ -3016,7 +2983,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=54)** We're going to create this board.
 >
-> **[0:57](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=57)** And you'll see that it essentially is going from left to right like any good kanban board should, from the backlog to the design phase, to do, doing, code review, testing, and done.
+> **[0:57](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=57)** And you'll see that it essentially is going from left to right like any good kanban board should, from the backlog to the design phase, to do, doing, [[Code Review]], testing, and done.
 >
 > **[1:11](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=71)** Now, the reason that I don't like this template is because it's very industry-specific.
 >
@@ -3084,13 +3051,13 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=250)** This is my preferred system for tracking all projects from start to finish.
 >
-> **[4:14](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=254)** But if you prefer other methods such as scrum, agile, or Gantt, Trello is versatile enough to handle almost any workflow or project management style.
+> **[4:14](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=254)** But if you prefer other methods such as [[Scrum]], [[Agile Development|agile]], or Gantt, Trello is versatile enough to handle almost any workflow or project management style.
 >
 > **[4:23](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-the-kanban-method?u=76281980&t=263)** Alright, join me in the next few videos to learn all about how Trello pairs with the GTD, or Getting Things Done method devised by productivity guru David Allen.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Trello]] (7), next (4), [[Code Review]] (2), management (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Trello]] (7), [[Code Review]] (2), [[LinkedIn]] (1), [[Scrum]] (1), [[Agile Development|Agile]] (1)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), go back to (1)
@@ -3099,8 +3066,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - of (1)
 
-#### Trello and GTD: Board setup and capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980)
+#### [Trello and GTD: Board setup and capture](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3110,11 +3076,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=21)** So if you'd like to go deeper into this system, the GTD system is designed to help you eliminate, overwhelm, and clarify your next actions.
 >
-> **[0:29](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=29)** And by the way, David has an entire LinkedIn Learning course where he demonstrates his five-step process.
+> **[0:29](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=29)** And by the way, David has an entire [[LinkedIn]] Learning course where he demonstrates his five-step process.
 >
 > **[0:34](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=34)** And I also demonstrate my use of the GTD system in my other LinkedIn Learning course "Post-production Productivity."
 >
-> **[0:41](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=41)** But for the sake of the next lessons, I'm going to assume that you already have basic knowledge of how GTD works, and I'll just be applying it specifically to Trello.
+> **[0:41](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=41)** But for the sake of the next lessons, I'm going to assume that you already have basic knowledge of how GTD works, and I'll just be applying it specifically to [[Trello]].
 >
 > **[0:50](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=50)** And in this lesson, I'm going to cover the first step, capture, as well as how I organize and set up my Trello boards.
 >
@@ -3178,7 +3144,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=232)** Now that we have our three boards set up, now it's time for the GTD capture process which is essentially brain dumping everything out of your head because as David Allen famously states, "Your mind is for having ideas not holding them."
 >
-> **[4:06](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=246)** So for the sake of brevity, I have asked our robot overlords at ChatGPT to generate a bunch of random tasks and projects.
+> **[4:06](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=246)** So for the sake of brevity, I have asked our robot overlords at [[ChatGPT]] to generate a bunch of random tasks and projects.
 >
 > **[4:14](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-board-setup-and-capture?u=76281980&t=254)** So I'm going to go ahead and I'm going to copy 10 of those random ideas and add them to a card.
 >
@@ -3196,7 +3162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Trello]] (4), [[LinkedIn]] (2), management (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[LinkedIn]] (2), [[ChatGPT]] (1)
 > **Env Vars:** gtd (15)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** just like (2)
@@ -3205,12 +3171,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trello and GTD: Clarify and organize
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980)
+#### [Trello and GTD: Clarify and organize](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=0)** - [Instructor] In my previous lesson regarding Trello for GTD I helped you set up the basic structure of your three foundational boards and your various lists.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=0)** - [Instructor] In my previous lesson regarding [[Trello]] for GTD I helped you set up the basic structure of your three foundational boards and your various lists.
 >
 > **[0:09](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=9)** And we also started to capture some tasks which is the first stage of GTD capture.
 >
@@ -3220,7 +3185,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=30)** We've also captured a series of project related tasks in the inbox on our projects board and on our Someday board, we don't have anything yet but I have a feeling that a few things might end up here.
 >
-> **[0:40](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=40)** And once again, as a reminder, all of these very generic and bland tasks were generated by our robot over loads from ChatGPT.
+> **[0:40](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=40)** And once again, as a reminder, all of these very generic and bland tasks were generated by our robot over loads from [[ChatGPT]].
 >
 > **[0:48](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=48)** So I'm going to go ahead and first focus on the things that are on the Getting Things Done board.
 >
@@ -3258,7 +3223,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=102)** And frankly, replying to a short email or message sometimes it could take hours to reply to a message.
 >
-> **[1:48](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=108)** So for now, we're going to put that on the backlog and scanning through the rest of these checking and responding to notifications on social media.
+> **[1:48](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=108)** So for now, we're going to put that on the backlog and scanning through the [[Representational State Transfer (REST)|rest]] of these checking and responding to notifications on social media.
 >
 > **[1:55](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-clarify-and-organize?u=76281980&t=115)** Yeah, I can do that in a few minutes.
 >
@@ -3358,7 +3323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Trello]] (2), [[ChatGPT]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Trello]] (2), [[ChatGPT]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gtd (10), gtv (1), pdf (1)
 > **Cross-References:** in the next (5), go back to (1)
 > **UI Navigation:** go to (2), click on (1)
@@ -3366,12 +3331,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Trello and GTD: Contexts, reflect, and engage
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980)
+#### [Trello and GTD: Contexts, reflect, and engage](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=0)** - [Presenter] In the previous two parts of this GTD with Trello tutorial, I demonstrated first how you can create all three of your basic foundational boards to use Trello with a GTD process with the Sunday board, the Projects board, and your active Getting Things Done board.
+> **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=0)** - [Presenter] In the previous two parts of this GTD with [[Trello]] tutorial, I demonstrated first how you can create all three of your basic foundational boards to use Trello with a GTD process with the Sunday board, the Projects board, and your active Getting Things Done board.
 >
 > **[0:16](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=16)** And we talked about how to both capture your ideas and get them out of your mind onto the page, so to speak, and also how to clarify and organize.
 >
@@ -3405,7 +3369,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=120)** Hmm, I don't know. I guess I'd be doing that via email.
 >
-> **[2:02](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=122)** I could do it via Slack.
+> **[2:02](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=122)** I could do it via [[Slack]].
 >
 > **[2:03](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=123)** Maybe that needs to be a context, but for now, I'm going to share it via Email.
 >
@@ -3453,7 +3417,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=201)** Obviously that goes under Social Media.
 >
-> **[3:23](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=203)** And picking up office supplies at Staples.
+> **[3:23](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=203)** And picking up [[Microsoft Office|office]] supplies at Staples.
 >
 > **[3:26](https://www.linkedin.com/learning/trello-essential-training-22650139/trello-and-gtd-contexts-reflect-and-engage?u=76281980&t=206)** Well, gee whiz, that's an errand.
 >
@@ -3523,7 +3487,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), management (7), [[Trello]] (4), [[Microsoft Office|Office]] (3), power (1)
+> **Frameworks & Libraries:** [[Trello]] (4), [[Microsoft Office|Office]] (3), [[Slack]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** gtd (5)
 > **Cross-References:** we talked about (1), go back to (1)
@@ -3537,20 +3501,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=1)** You have completed this course and you can now consider yourself a Trello ninja.
+> **[0:01](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=1)** You have completed this course and you can now consider yourself a [[Trello]] ninja.
 >
 > **[0:06](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=6)** I hope that you've enjoyed these lessons and you are excited about building more efficient workflows that help you work smarter and not harder and ultimately save your sanity in the process.
 >
 > **[0:16](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=16)** I know I've said it already in the course, but there are so many different ways to use Trello in any workflow that the possibilities are virtually endless.
 >
-> **[0:24](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=24)** If you're interested in applying these techniques specifically in the field of film and video post-production, I have not one, but two additional LinkedIn learning courses where I teach you how to apply these techniques in a more practical setting, "Trello for Video Post-Production" and "Post-Production Productivity."
+> **[0:24](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=24)** If you're interested in applying these techniques specifically in the field of film and video post-production, I have not one, but two additional [[LinkedIn]] learning courses where I teach you how to apply these techniques in a more practical setting, "Trello for Video Post-Production" and "Post-Production Productivity."
 >
 > **[0:41](https://www.linkedin.com/learning/trello-essential-training-22650139/where-to-go-from-here?u=76281980&t=41)** And if you'd like to reach out and connect with me directly, you can feel free to connect with me on LinkedIn or Facebook.
 >

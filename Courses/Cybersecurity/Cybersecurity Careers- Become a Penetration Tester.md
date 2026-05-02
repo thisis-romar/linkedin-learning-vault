@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do I get into pentesting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
+#### [How do I get into pentesting?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,13 +88,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980&t=5)** It's about being able to find vulnerabilities in a system, a network, or device, and express how those vulnerabilities impact the business.
 >
-> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980&t=12)** In my LinkedIn learning course, we'll talk about what it means to be a pen tester, what types of skills and foundation level knowledge you need, and how you can get started without paying a lot of money.
+> **[0:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980&t=12)** In my [[LinkedIn]] learning course, we'll talk about what it means to be a pen tester, what types of skills and foundation level knowledge you need, and how you can get started without paying a lot of money.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/how-do-i-get-into-pentesting?u=76281980&t=21)** So, join me, Tennisha Martin, in my course about getting started as a pen tester.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [tennisha] (1)
@@ -105,18 +104,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is pentesting?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
+#### [What is pentesting?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=0)** - [Instructor] So you've decided on a career in cybersecurity and think you want to be a pen tester.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=0)** - [Instructor] So you've decided on a career in [[Cybersecurity]] and think you want to be a pen tester.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=5)** Or, maybe you're already in cybersecurity and looking to make a transition.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=9)** Either way, you're going to need to know what it is and how do you get into it.
 >
-> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=14)** Pen testing, short for penetration testing, is defined by the National Institute of Standards and Technology as a method of testing where testers target individual components or the application as a whole to determine whether or not vulnerabilities can be exploited to compromise the application, its data, or its environmental resources.
+> **[0:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=14)** Pen testing, short for [[Penetration Testing]], is defined by the National Institute of Standards and Technology as a method of testing where testers target individual components or the application as a whole to determine whether or not vulnerabilities can be exploited to compromise the application, its data, or its environmental resources.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=35)** Now, that may sound like a lot, but we're going to break it down later on.
 >
@@ -128,15 +126,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=53)** Then they try to hack it.
 >
-> **[0:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=55)** There are about six other working definitions from various standards that are produced by NIST, but I can tell you the common theme amongst them all.
+> **[0:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=55)** There are about six other working definitions from various standards that are produced by [[NIST]], but I can tell you the common theme amongst them all.
 >
 > **[1:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=62)** They are that pen testers are a type of tester with a focus on security.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=66)** If you've ever searched for a pen testing job, you might have seen a slightly more detailed definition.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=72)** Job descriptions on LinkedIn Learning job search describe a pen tester as someone who performs vulnerability assessments and penetration testing following the customer's prescribed scope statement, and someone who provides black box penetration testing utilizing tools and techniques to conduct cybersecurity evaluations, and conduct security reviews, technical research, and provides reporting to increase security defense mechanisms.
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=72)** Job descriptions on [[LinkedIn]] Learning job search describe a pen tester as someone who performs vulnerability assessments and penetration testing following the customer's prescribed scope statement, and someone who provides black box penetration testing utilizing tools and techniques to conduct cybersecurity evaluations, and conduct security reviews, technical research, and provides reporting to increase security defense mechanisms.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=95)** And another one, which is manually exploit and compromise operating systems, web applications, and databases.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=95)** And another one, which is manually exploit and compromise operating systems, web applications, and [[Databases]].
 >
 > **[1:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=102)** This may sound like a lot of cybersecurity jobs in one, but a penetration tester needs to have a wide variety of skills necessary to identify and exploit vulnerabilities.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=145)** As you can see from the job descriptions we've glanced over, employers expect you to have a lot of different skills to work as a pen tester.
 >
-> **[2:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=152)** They expect you to have general knowledge and experience with operating systems, web applications, databases, knowledge of tools and methodologies of testing, and security testing.
+> **[2:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=152)** They expect you to have general knowledge and experience with operating systems, web applications, databases, knowledge of tools and methodologies of testing, and [[Security Testing]].
 >
 > **[2:42](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-is-pentesting?u=76281980&t=162)** Unless you're working for a specific sub-sector of pen testing, such as mobile or web application pen testing specifically, a breadth of knowledge within cybersecurity is all that's expected of you.
 >
@@ -168,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Security]] (6), [[Penetration Testing]] (3), application (2), web (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Penetration Testing]] (3), [[Databases]] (2), [[NIST]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Cross-References:** in the next (1)
@@ -176,8 +174,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interaction skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980)
+#### [Interaction skills](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,7 +188,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980&t=19)** As a penetration tester, of course, you have to have the skills necessary to find vulnerabilities and break into systems.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980&t=25)** But more important than these skills are the soft skills, or the human interaction skills.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980&t=25)** But more important than these skills are the [[Soft Skills]], or the human interaction skills.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/interaction-skills?u=76281980&t=30)** Are you good at problem solving?
 >
@@ -245,13 +242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), [[Soft Skills]] (2), career (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** cve (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980)
+#### [Technical skills](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=175)** A vulnerability is a flaw or weakness in a computer system, its security procedures, internal controls, or design and implementation that can be exploited to violate the system security policy.
 >
-> **[3:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=187)** What you should know about this, if you're a web application pen tester, you should know about insecure coding practices, misconfigurations, or things such as the OWASP Top 10.
+> **[3:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=187)** What you should know about this, if you're a web application pen tester, you should know about insecure [[Coding Practices]], misconfigurations, or things such as the [[OWASP]] Top 10.
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=197)** If you're a mobile penetration tester, it's important to know how mobile applications are compiled, how they can be reverse engineered, decompiled, and then recompiled.
 >
@@ -335,7 +331,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=213)** Our goal as pen testers is to identify vulnerabilities before the malicious actors do, so the vulnerabilities can be fixed and remediated.
 >
-> **[3:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=221)** You remember in the videos on soft skills that I said that pen testers are really consultants who hack.
+> **[3:41](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=221)** You remember in the videos on [[Soft Skills]] that I said that pen testers are really consultants who hack.
 >
 > **[3:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/technical-skills?u=76281980&t=226)** All the vulnerabilities and all the technical skills in the world won't matter if you can't communicate how those things impact the business.
 >
@@ -357,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (3), next (2), web application (2), data (1)
+> **Frameworks & Libraries:** [[Coding Practices]] (1), [[OWASP]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** tcp (1), udp (1), owasp (1)
 > **Cross-References:** we mentioned (1), next video (1)
@@ -371,8 +367,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OS fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
+#### [OS fundamentals](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,15 +383,15 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=23)** All operating systems are not created equal.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=26)** If we look at the market share for desktop operating systems at any time we'd see that Windows has about 75% of the market share.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=26)** If we look at the market share for desktop operating systems at any time we'd see that [[Windows]] has about 75% of the market share.
 >
-> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=34)** This is followed by Apple's OSX at around 15% and Linux taking up about 2.5%.
+> **[0:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=34)** This is followed by Apple's OSX at around 15% and [[Linux]] taking up about 2.5%.
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=40)** A large part of the market is dominated by Windows operating systems.
 >
-> **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=44)** Let's contrast that with the mobile operating system space where 72% of the market is Android, followed by 27% iOS.
+> **[0:44](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=44)** Let's contrast that with the mobile operating system space where 72% of the market is [[Android]], followed by 27% iOS.
 >
-> **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=52)** If we look further into the web application penetration testing space, however we see that Linux represents about 48% of the market and Windows represents about 20%.
+> **[0:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=52)** If we look further into the web application [[Penetration Testing]] space, however we see that Linux represents about 48% of the market and Windows represents about 20%.
 >
 > **[1:01](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/os-fundamentals?u=76281980&t=61)** Why do you think that matters?
 >
@@ -438,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (9), [[Windows]] (6), career (3), [[Android]] (2), web application (2)
+> **Frameworks & Libraries:** [[Linux]] (9), [[Windows]] (6), [[Android]] (2), [[Penetration Testing]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** osx (1), dos (1)
 > **Prerequisites:** configure (1), you'll need (1)
@@ -447,8 +442,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - instructor] (1)
 
-#### Risk fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980)
+#### [Risk fundamentals](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +462,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=40)** Let's see if we can break that down a little further, and take a look at what weakness and threats mean.
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=45)** NIST defines a weakness as a deficiency that may result in security and/or privacy risks.
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=45)** [[NIST]] defines a weakness as a deficiency that may result in security and/or [[Privacy]] risks.
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=50)** NIST defines threats as any circumstance or event with a potential to adversely impact organizational operations.
 >
@@ -476,7 +470,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=59)** It means that according to NIST, our goal as a pen tester is to outline anything that could potentially cause a negative impact to organizational operations.
 >
-> **[1:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=68)** This looks like not being able to sell your items if you're an e-commerce company, or not being able to search of your data company.
+> **[1:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=68)** This looks like not being able to sell your items if you're an [[E-Commerce]] company, or not being able to search of your data company.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/risk-fundamentals?u=76281980&t=75)** Impacts to the business that pays you is definitely a problem.
 >
@@ -540,14 +534,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), data (4), [[Security]] (3), [[NIST]] (3), application (1)
+> **Frameworks & Libraries:** [[NIST]] (3), [[Privacy]] (1), [[E-Commerce]] (1)
 > **Env Vars:** nist (3), ciso (1)
 > **Definitions:** is a  (2), means that (1), defined as (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Web and network fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980)
+#### [Web and network fundamentals](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=7)** Having been a software tester for many years, I'm very familiar with developers telling me that the system works as designed.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=13)** With a software testing hat on, you might let that slide.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=13)** With a [[Software Testing]] hat on, you might let that slide.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=15)** But as a pen tester, where there smoke, there's fire.
 >
@@ -593,7 +586,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=103)** The next thing I'm going to do when I'm starting a pen test is take a look at the page source.
 >
-> **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=107)** To do that, you can either right click and select View Page Source, or if you're on a Windows machine, type Ctrl + U.
+> **[1:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=107)** To do that, you can either right click and select View Page Source, or if you're on a [[Windows]] machine, type Ctrl + U.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=112)** From the page source, we can find out a lot of useful information.
 >
@@ -605,27 +598,27 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=131)** Make sure you take notes so you don't forget any interesting findings.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=134)** I usually check the comments or search for the word password in the page source to see if the developers left me a present when they published.
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=134)** I usually check the comments or search for the [[Microsoft Word|word]] password in the page source to see if the developers left me a present when they published.
 >
 > **[2:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=141)** I'll tell you that I'm typically more successful with that and capture the flags and I am in real life, but you should get in the habit of checking.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=147)** I'd also check to see where web forms are being submitted, where images are being accessed, and if there's any hidden fields on the site.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=147)** I'd also check to see where web [[Forms]] are being submitted, where images are being accessed, and if there's any hidden fields on the site.
 >
 > **[2:34](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=154)** After that, I check the developer tools, shortcut Ctrl + Shift + I, and check out the Application tab to see if there's any interesting information being stored with the cookies.
 >
 > **[2:43](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=163)** You should be able to make the connection that information found out about how a website stores its files can provide useful information about the surrounding network.
 >
-> **[2:50](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=170)** Path of directory traversal has been a part of the OWASP top 10 for the past decade for a reason, and checking for these low hanging fruit don't take much time.
+> **[2:50](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=170)** Path of directory traversal has been a part of the [[OWASP]] top 10 for the past decade for a reason, and checking for these low hanging fruit don't take much time.
 >
 > **[2:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=179)** You don't need to be a web developer to be a penetration tester.
 >
 > **[3:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=182)** You just have to be able to ask yourself how the developer intended the site to be used, and then consider what they didn't.
 >
-> **[3:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=188)** We'll get into more about how to do that in the next few chapters about ethical hacking techniques.
+> **[3:08](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/web-and-network-fundamentals?u=76281980&t=188)** We'll get into more about how to do that in the next few chapters about [[Ethical Hacking]] techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Search]] (3), web application (2), next (2), [[Software Testing]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Windows]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1), [[OWASP]] (1)
 > **File Paths:** robots.txt (3)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
@@ -639,12 +632,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Penetration testing stages
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
+#### [Penetration testing stages](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=0)** - [Instructor] Let's get into the stages of penetration testing.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=0)** - [Instructor] Let's get into the stages of [[Penetration Testing]].
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=4)** Penetration testing is, for the most part, a step-by-step process.
 >
@@ -652,7 +644,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=16)** But let me first address the elephant in the room.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=19)** You may be asking yourself, what's the difference between penetration testing and ethical hacking?
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=19)** You may be asking yourself, what's the difference between penetration testing and [[Ethical Hacking]]?
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/penetration-testing-stages?u=76281980&t=24)** Well let's get into it.
 >
@@ -706,17 +698,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (7), [[Ethical Hacking]] (5), [[Security]] (4), next (2), business (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (7), [[Ethical Hacking]] (5)
 > **Definitions:** is called (3), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linux command-line fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980)
+#### [Linux command-line fundamentals](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=0)** - [Instructor] If you watched the OS Fundamentals video, one of the biggest takeaways should have been that you need Linux command line skills.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=0)** - [Instructor] If you watched the OS Fundamentals video, one of the biggest takeaways should have been that you need [[Linux]] command line skills.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=7)** While operating systems, like Kali and Parrot, have a lot of GUI or Graphical User Interface capabilities, to really get anything done, you're going to need to know how to use the command line.
 >
@@ -728,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=32)** ls shows you the contents of the chosen directory.
 >
-> **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=35)** This is the equivalent of dir when you used on a Windows machine.
+> **[0:35](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=35)** This is the equivalent of dir when you used on a [[Windows]] machine.
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=38)** ls-l, this is a lowercase l, allows you to see things such as the permissions, the owner of the file, the timestamp, and the size of the file.
 >
@@ -744,7 +735,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=65)** For example, if we wanted to find all of the failed transactions, we could do the following.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=70)** This would go through the transaction log and find all of the word "failed" within that log.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=70)** This would go through the transaction log and find all of the [[Microsoft Word|word]] "failed" within that log.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/linux-command-line-fundamentals?u=76281980&t=75)** Next we have su or sudo.
 >
@@ -822,7 +813,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (9), [[Linux]] (2), cd (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (9), make (6), sudo (4), cat (4), ls (3)
 > **Tools:** command line (4), terminal (1)
 > **UI Navigation:** click on (1), go to (1)
@@ -831,8 +822,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), be careful (1)
 > **Env Vars:** gui (1)
 
-#### Tools of the trade required for pentesting
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980)
+#### [Tools of the trade required for pentesting](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -842,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=9)** What you'll see in this discussion of the tools of the trade is that there's no one right way to perform a penetration test.
 >
-> **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=15)** For many pentesters, the tools that they use stay the same from pentest to pentest, but for some, penetration testing is an art form.
+> **[0:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=15)** For many pentesters, the tools that they use stay the same from pentest to pentest, but for some, [[Penetration Testing]] is an art form.
 >
 > **[0:22](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=22)** We're sure you can draw a great picture with pencils, but you could also get it done with paint.
 >
@@ -850,7 +840,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=32)** If you were to get a bunch of pentesters in a room and ask them what their favorite pentest tool is, you'd probably get a bunch of the same answers depending on what their focus is.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=39)** Web application pentesters might say Burp Suite is their favorite, while network penetration testers might say Kali or Nmap.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=39)** Web application pentesters might say [[Burp Suite]] is their favorite, while network penetration testers might say Kali or [[Nmap]].
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=46)** Yes, Kali is technically an operating system, but I'd describe it as a Swiss Army knife of pentesting tools.
 >
@@ -870,9 +860,9 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=87)** Nmap is synonymous for many people with scanning, but it's only one of many scanning tools that can be used.
 >
-> **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=93)** Others that can be used include Nikto, Zenmap, and Threader3000.
+> **[1:33](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=93)** Others that can be used include [[Nikto]], Zenmap, and Threader3000.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=98)** Others still include Angry IP and NetCat.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=98)** Others still include Angry IP and [[Netcat]].
 >
 > **[1:40](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=100)** There are probably hundreds of tools that can be used for scanning, so you should definitely learn how to use Nmap, but check out some of the others as well.
 >
@@ -886,11 +876,11 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=133)** Other tools for vulnerability analysis include Nessus, OpenVAS, and even Nmap.
 >
-> **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=138)** The next phase of penetration testing stages is the exploitation or the attack stage, and you'll definitely want a tool like Metasploit in your arsenal.
+> **[2:18](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=138)** The next phase of penetration testing stages is the exploitation or the attack stage, and you'll definitely want a tool like [[Metasploit]] in your arsenal.
 >
 > **[2:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=145)** Metasploit automates a lot of the attack payloads and is a great tool for determining if the system is susceptible to a specific exploit.
 >
-> **[2:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=152)** Other tools used to attack and exploit include John the Ripper, Hashcat, Hydra, and Wireshark.
+> **[2:32](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=152)** Other tools used to attack and exploit include [[John the Ripper]], [[Hashcat]], [[Hydra]], and [[Wireshark]].
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/tools-of-the-trade-required-for-pentesting?u=76281980&t=158)** John The Ripper, Hydra, and Hashcat are all used to crack username and passwords, and Wireshark is a packet and network protocol analyzer that is useful for understanding communication protocols.
 >
@@ -902,7 +892,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Burp Suite]] (4), [[Penetration Testing]] (3), web application (3), [[Wireshark]] (2), web (1)
+> **Frameworks & Libraries:** [[Nmap]] (5), [[Burp Suite]] (4), [[Penetration Testing]] (3), [[Metasploit]] (2), [[John the Ripper]] (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
@@ -914,8 +904,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
+#### [Hands-on experience](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,11 +912,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=2)** I'm not going to get on a soapbox, but in my humble opinion one of the most lacking areas of cyber education is hands on experience.
 >
-> **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=9)** Having earned degrees in cyber security and digital forensics, I can tell you that your career in penetration testing is more hands on than it is in theory.
+> **[0:09](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=9)** Having earned degrees in cyber security and [[Digital Forensics]], I can tell you that your career in [[Penetration Testing]] is more hands on than it is in theory.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=17)** There are a lot of very expensive ways to get hands on experience, but I'm going to share some of the low to no cost options to help get you started.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=25)** In the last chapter, we talked about Linux command line fundamentals.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=25)** In the last chapter, we talked about [[Linux]] command line fundamentals.
 >
 > **[0:29](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=29)** Sure, there are cheat sheets out there that can help you learn the basics, but if you're anything like me, you learn better by doing than being told it could be done.
 >
@@ -957,13 +946,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=116)** Another platform I recommended people who are new to penetration testing is Try Hack Me.
 >
-> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=120)** Try Hack Me is a free online platform for learning cybersecurity using hands on exercises and labs.
+> **[2:00](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=120)** Try Hack Me is a free online platform for learning [[Cybersecurity]] using hands on exercises and labs.
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=126)** They also have paid options, but it's quite possible to use Try Hack Me's free functionalities to build a solid knowledge set in penetration testing.
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=132)** They've got a junior penetration testing path and offensive pen testing path, as well as certification specific path.
 >
-> **[2:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=139)** They've also got past specific to operating systems and tools you'll use every day, like Linux, Burp Suite, Metasploit and Nmap.
+> **[2:19](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=139)** They've also got past specific to operating systems and tools you'll use every day, like Linux, [[Burp Suite]], [[Metasploit]] and [[Nmap]].
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=147)** For people who are at the beginner to intermediate level I recommend Hack the Box.
 >
@@ -975,7 +964,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=167)** The last platform I'd recommend for gaining hands on experience is PortSwigger Academy.
 >
-> **[2:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=172)** PortSwigger Web Security Academy is a free online training center for web application security, and much of it is taught using Burb Suite.
+> **[2:52](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=172)** PortSwigger Web Security Academy is a free online training center for [[Web Application Security]], and much of it is taught using Burb Suite.
 >
 > **[2:59](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=179)** This is one of those tools I really wish I had known about when I started my journey.
 >
@@ -983,11 +972,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=195)** Your experience using these tools can be a key part of your interest and interview questions and they can even be included on your resume.
 >
-> **[3:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=201)** And the next video, we'll take a look at how you can set up a home lab and how you can use your experience in these learning platforms and your home lab on your resume and LinkedIn profiles to get your next job with pen testing.
+> **[3:21](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/hands-on-experience?u=76281980&t=201)** And the next video, we'll take a look at how you can set up a home lab and how you can use your experience in these learning platforms and your home lab on your resume and [[LinkedIn]] profiles to get your next job with pen testing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Penetration Testing]] (6), [[Security]] (5), [[Linux]] (5), next (3), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (6), [[Linux]] (5), [[Digital Forensics]] (1), [[Cybersecurity]] (1), [[Burp Suite]] (1)
 > **Definitions:** is a  (3), is called (1), is an  (1)
 > **Cross-References:** in the last (1), we talked about (1), next video (1)
 > **Prerequisites:** set up (3)
@@ -996,8 +985,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** for example (1)
 
-#### Showing home lab as experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980)
+#### [Showing home lab as experience](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1029,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=50)** And a Victim Box, like Damn Vulnerable web app or Broken web app.
 >
-> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=54)** What this does is it provides you with a network that you can do network penetration testing, a web app that you can do web application testing, and a sandbox that you can learn about Linux and networking all in one place.
+> **[0:54](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=54)** What this does is it provides you with a network that you can do network [[Penetration Testing]], a web app that you can do web application testing, and a sandbox that you can learn about [[Linux]] and networking all in one place.
 >
 > **[1:05](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=65)** There's a walkthrough of how to do this on my nonprofit BlackGirlsHack website.
 >
@@ -1065,13 +1053,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=126)** How to identify them, exploit them, and then get information necessary for reporting.
 >
-> **[2:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=130)** Your home lab and skills that you learn in TryHackMe, PortWorker and Hack the Box, all will make great conversations with your interviewers about how you're leveling up your skills and penetration testing.
+> **[2:10](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=130)** Your home lab and skills that you learn in [[TryHackMe]], PortWorker and Hack the Box, all will make great conversations with your interviewers about how you're leveling up your skills and penetration testing.
 >
 > **[2:20](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/showing-home-lab-as-experience?u=76281980&t=140)** Try it out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (3), web (3), [[Penetration Testing]] (2), [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), [[Linux]] (2), [[TryHackMe]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** install (1), set up (1)
 > **Env Vars:** star (1)
@@ -1083,8 +1071,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are you waiting for?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)
+#### [What are you waiting for?](https://www.linkedin.com/learning/cybersecurity-careers-become-a-penetration-tester/what-are-you-waiting-for?u=76281980)
 
 > [!transcript]- Transcript
 >

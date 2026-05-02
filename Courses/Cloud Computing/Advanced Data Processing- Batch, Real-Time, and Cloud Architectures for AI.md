@@ -99,8 +99,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Processing data for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
+#### [Processing data for AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980&t=11)** I will take you through an overview of building scalable architectures for machine learning.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980&t=17)** We will discuss the unique considerations and constraints for batch and real-time AI and build architectures for such use cases.
+> **[0:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980&t=17)** We will discuss the unique considerations and constraints for batch and [[Real-Time]] AI and build architectures for such use cases.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/processing-data-for-ai?u=76281980&t=27)** We will also discuss the enterprise, cloud, and hybrid deployment modes and how to architect AI systems for these deployments.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (1), [[Real-Time]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The ML life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
+#### [The ML life cycle](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,15 +141,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=30)** The ML lifecycle is an iterative process where the sequence of tasks are repeated from time to time to improve the models, it has three key flows.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=42)** They are feature engineering, model training, and model inference.
+> **[0:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=42)** They are [[Feature Engineering]], model training, and model inference.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=48)** We will discuss these three flows in the next few videos.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=53)** While the ML lifecycle focuses on the model, it also integrates into application development, deployment, and operations.
+> **[0:53](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=53)** While the ML lifecycle focuses on the model, it also integrates into [[Application Development]], deployment, and operations.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=62)** Together, they manage the lifecycle of the application.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=66)** The lifecycle provides a template based on which architectures can be created for artificial intelligence applications.
+> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=66)** The lifecycle provides a template based on which architectures can be created for [[Artificial Intelligence (AI)|artificial intelligence]] applications.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/the-ml-life-cycle?u=76281980&t=76)** Let's walk through the sequence of steps in a machine learning lifecycle.
 >
@@ -179,18 +177,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Feature Engineering]] (2), next (1), [[Application Development]] (1), application (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (2), [[Application Development]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Definitions:** is an  (2)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980)
+#### [Feature engineering](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=0)** - [Instructor] Let's dive deeper into feature engineering functions in LM in this video.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=0)** - [Instructor] Let's dive deeper into [[Feature Engineering]] functions in LM in this video.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=6)** What is feature engineering?
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=123)** Feature selection is used to select attributes that have good correlation to the target variables.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=130)** Descriptive statistics are used to extract summary information about data if this is needed for model training.
+> **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=130)** Descriptive [[Statistics]] are used to extract summary information about data if this is needed for model training.
 >
 > **[2:19](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=139)** Principle component analysis is another technique that is used to select features when the list of features are large in number.
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=166)** Then comes encoding features.
 >
-> **[2:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=169)** Categorical features can be encoded into numerical features so that they can be consumed by ML algorithms.
+> **[2:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=169)** Categorical features can be encoded into numerical features so that they can be consumed by ML [[Algorithms]].
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=178)** Embedding are used to convert text or images into numerical representations.
 >
@@ -260,7 +257,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=230)** Executing the same task on the same dataset should yield the same result each time.
 >
-> **[3:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=237)** Data security and privacy should be ensured during the feature engineering process to protect information as they move through the feature engineering pipeline.
+> **[3:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=237)** [[Data Security]] and [[Privacy]] should be ensured during the feature engineering process to protect information as they move through the feature engineering pipeline.
 >
 > **[4:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/feature-engineering?u=76281980&t=248)** AutoML is a key consideration too.
 >
@@ -268,18 +265,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Feature Engineering]] (8), feature (3), [[Statistics]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (8), [[Statistics]] (1), [[Algorithms]] (1), [[Data Security]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980)
+#### [Model training](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=0)** - [Instructor] The next stage in ML after feature engineering is model training.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=0)** - [Instructor] The next stage in ML after [[Feature Engineering]] is model training.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=6)** Machine learning models have evolved over time from classical ML to deep learning to generative AI.
+> **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=6)** Machine learning models have evolved over time from classical ML to [[Deep Learning]] to [[Generative AI]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=14)** These model architectures are significantly different from one another, and so are the training processes and requirements for them.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=37)** Let's begin with classical machine learning.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=40)** In classical ML, we typically build supervised learning models like classification models or regression models, using techniques like Naive Bayes, decision trees, or random forests.
+> **[0:40](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=40)** In classical ML, we typically build [[Supervised Learning]] models like classification models or regression models, using techniques like Naive Bayes, [[Decision Trees]], or random forests.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=55)** We also do unsupervised learning like clustering.
 >
@@ -301,21 +297,21 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=75)** These models require relatively small data sets, and they also have smaller resource requirements compared to generative AI.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=85)** The next type of models are neural networks.
+> **[1:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=85)** The next type of models are [[Neural Networks]].
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=88)** Neural networks are more complex models.
 >
-> **[1:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=92)** They are typically used for natural language processing and understanding.
+> **[1:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=92)** They are typically used for [[Natural Language Processing (NLP)|natural language processing]] and understanding.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=97)** They can be used for speech recognition and synthesis.
+> **[1:37](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=97)** They can be used for [[Speech Recognition]] and synthesis.
 >
 > **[1:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=101)** Recurrent neural network classes of models are used for this purpose.
 >
-> **[1:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=105)** For image and vision, we use convolutional neural networks.
+> **[1:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=105)** For image and vision, we use [[Convolutional Neural Networks (CNN)|convolutional neural networks]].
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=110)** These models use specialized metrics like BLEU and inception scores.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=115)** These models typically require larger data sets, mostly unstructured data.
+> **[1:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=115)** These models typically require larger data sets, mostly [[Unstructured Data]].
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=122)** They also need significant resources to train and serve.
 >
@@ -327,31 +323,31 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=141)** Examples of such models include the GPT class of models and T5.
 >
-> **[2:26](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=146)** Diffusion models like DALL-E and Stable Diffusion are also used.
+> **[2:26](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=146)** Diffusion models like [[DALL-E]] and [[Stable Diffusion]] are also used.
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=152)** In generative AI, models are not created from scratch for each use case.
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=158)** Rather, general purpose foundation models are created during the pre-training phase using general purpose data sets.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=166)** These are then customized to use cases using instruction tuning, fine tuning, or transfer learning.
+> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=166)** These are then customized to use cases using instruction tuning, [[Fine Tuning]], or transfer learning.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=173)** These models require massive data sets.
 >
-> **[2:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=177)** They also require massive forms of compute resources to train a model.
+> **[2:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=177)** They also require massive [[Forms]] of compute resources to train a model.
 >
 > **[3:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=182)** In general, out of the box generative AI models are used to build use cases rather than training from scratch.
 >
-> **[3:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=189)** The ML system architecture will need to adapt to the type of model being built and served.
+> **[3:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=189)** The ML [[System Architecture]] will need to adapt to the type of model being built and served.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=197)** What are the key architecture considerations for model training?
 >
-> **[3:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=201)** It starts with choosing the right type of programming language or toolkit like Python or C++.
+> **[3:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=201)** It starts with choosing the right type of programming language or toolkit like [[Python (Programming Language)|Python]] or C++.
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=208)** Training may need GPUs, and the architecture should be able to bring in such compute power into the pipeline.
 >
 > **[3:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=216)** Training frameworks also play a key role.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=219)** These include scikit-learn, PyTorch and TensorFlow.
+> **[3:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=219)** These include scikit-learn, [[PyTorch]] and [[TensorFlow]].
 >
 > **[3:44](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/model-training?u=76281980&t=224)** Distributor training may be required based on where the data sets are available and the types of resources that are available.
 >
@@ -363,17 +359,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), data (5), next (2), [[Neural Networks]] (2), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[Neural Networks]] (2), [[Feature Engineering]] (1), [[Deep Learning]] (1), [[Supervised Learning]] (1)
 > **Env Vars:** rmse (1), bleu (1), gpt (1), dall (1)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### ML inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980)
+#### [ML inference](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=0)** - [Instructor] Having discussed feature engineering and model training, let's discuss ML inference in this video.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=0)** - [Instructor] Having discussed [[Feature Engineering]] and model training, let's discuss ML inference in this video.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=8)** Inference happens in production settings.
 >
@@ -409,15 +404,15 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=124)** The incoming data volume or velocity needs to be estimated.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=129)** This drives scalability needs and data mines the architecture patterns and technologies that will be used.
+> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=129)** This drives [[Scalability]] needs and data mines the architecture patterns and technologies that will be used.
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=137)** Feature engineering is a critical piece in inference also, and that needs to be executed reliably within latency constraints.
 >
-> **[2:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=147)** A good data engineering pipeline is needed here.
+> **[2:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=147)** A good [[Data Engineering]] pipeline is needed here.
 >
 > **[2:31](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=151)** Latency requirements for model prediction or generation plays a key role in determining the compute resources needed.
 >
-> **[2:40](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=160)** Error recovery and resiliency should be considered when creating the architecture.
+> **[2:40](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=160)** Error recovery and [[Resiliency]] should be considered when creating the architecture.
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ml-inference?u=76281980&t=166)** The system should continue to process incoming requests even if there is a failure within a single request.
 >
@@ -429,13 +424,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Feature Engineering]] (3), [[Security]] (1), application (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Scalability]] (1), [[Data Engineering]] (1), [[Resiliency]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** apa (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scale and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980)
+#### [Scale and performance](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -451,7 +445,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=33)** We will discuss more about them in the later chapters.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=37)** Feature engineering requires data processing pipelines that can handle the incoming data volumes within expected latency thresholds.
+> **[0:37](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=37)** [[Feature Engineering]] requires [[Data Processing]] pipelines that can handle the incoming data volumes within expected latency thresholds.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=47)** Feature engineering plays a key role in both model training and inference, so ensuring that these pipelines can scale is a critical responsibility for an AI architect.
 >
@@ -465,7 +459,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=81)** In systems where the model needs to be continuously refined because of changing environments, auto ML becomes a key enabler.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=90)** The capacity to do feature engineering, model training and deployment in an automated fashion helps in iterating fast, without the need for expensive human resources.
+> **[1:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=90)** The capacity to do feature engineering, model training and deployment in an automated fashion helps in iterating fast, without the need for expensive [[Human Resources (HR)|human resources]].
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scale-and-performance?u=76281980&t=102)** Model serving infrastructure determines the processing volumes, concurrency and auto-scaling that can be supported for ML.
 >
@@ -483,12 +477,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Feature Engineering]] (4), data (3), business (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Data Processing]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Architectures for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980)
+#### [Architectures for AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,13 +493,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=23)** It can be considered as the time elapsed between when raw data is available for training or inference, and when the training or inference is successfully completed.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=35)** This involves the entire ML pipeline, including feature engineering, multiple iterations of training and inference.
+> **[0:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=35)** This involves the entire ML pipeline, including [[Feature Engineering]], multiple iterations of training and inference.
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=44)** Training and inference can have different latency requirements.
 >
-> **[0:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=49)** This brings us to two modes of ML, namely batch and real-time.
+> **[0:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=49)** This brings us to two modes of ML, namely batch and [[Real-Time]].
 >
-> **[0:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=55)** Batch processing involves processing data in batches.
+> **[0:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=55)** [[Batch Processing]] involves processing data in batches.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architectures-for-ai?u=76281980&t=60)** Typically, this can take a long time, greater than an hour.
 >
@@ -552,7 +545,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (5), cloud (5), data (3), ai (2), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (5), [[Feature Engineering]] (1), [[Batch Processing]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -560,18 +553,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of batch AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
+#### [Characteristics of batch AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=0)** - [Instructor] In this chapter, we will explore Batch AI.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=4)** We will discuss how to architect machine learning pipelines for Batch processing.
+> **[0:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=4)** We will discuss how to architect machine learning pipelines for [[Batch Processing]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=11)** Model training is inherently an iterative process.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=15)** Even for inference, Batch systems are easier to build and manage than real-time systems.
+> **[0:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=15)** Even for inference, Batch systems are easier to build and manage than [[Real-Time]] systems.
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=22)** So it's recommended to build Batch architectures by default, unless the use case demands real-time architectures.
 >
@@ -581,9 +573,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=39)** These jobs can be scheduled to run at fixed intervals, or they can be invoked when required.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=47)** Data is processed in bulk as batches for both feature engineering and model training.
+> **[0:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=47)** Data is processed in bulk as batches for both [[Feature Engineering]] and model training.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=54)** Big data batch-processing techniques are typically used.
+> **[0:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=54)** [[Big Data]] batch-processing techniques are typically used.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-batch-ai?u=76281980&t=58)** Model training is done offline.
 >
@@ -623,26 +615,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (5), [[Batch Processing]] (2), [[Real-Time]] (2), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Batch Processing]] (2), [[Real-Time]] (2), [[Feature Engineering]] (2), [[Big Data]] (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980)
+#### [Batch feature engineering](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=0)** - [Instructor] In this video, we will discuss architectures for feature engineering in batch AI.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=0)** - [Instructor] In this video, we will discuss architectures for [[Feature Engineering]] in batch AI.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=7)** Let's walk through a reference template pipeline for batch feature engineering.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=12)** Typically, feature engineering may require data from multiple sources.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=18)** These data sources could be files, databases, or cloud services.
+> **[0:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=18)** These data sources could be files, [[Databases]], or [[Cloud Services]].
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=24)** Typically, each data source will have a data extractor or a transfer job.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=30)** These jobs run periodically, connect to data sources, and fetch batches of records.
+> **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=30)** These jobs run periodically, connect to data sources, and [[Fetch]] batches of records.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=36)** Data acquired from data sources are saved in a data lake in its raw form.
 >
@@ -654,7 +645,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=61)** Outputs of these jobs can be stored in temporary data stores.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=66)** Another set of feature transformation jobs can run to transform the data to forms that can be consumed by machine learning.
+> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=66)** Another set of feature transformation jobs can run to transform the data to [[Forms]] that can be consumed by machine learning.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=75)** This processed and transform data is typically stored in a feature store.
 >
@@ -688,21 +679,21 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=150)** What are the technologies that are typically used in batch feature engineering?
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=155)** For job manager, we can use tools like Apache Airflow, and Apache Oozie.
+> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=155)** For job manager, we can use tools like [[Apache Airflow]], and Apache Oozie.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=161)** For data processors, we can build them as plain Python services.
+> **[2:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=161)** For data processors, we can build them as plain [[Python (Programming Language)|Python]] services.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=166)** For scale, we can use Apache Spark or Apache Flink.
+> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=166)** For scale, we can use [[Apache Spark]] or Apache Flink.
 >
-> **[2:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=171)** Data transfer can be done using FTP, REST, or SQL, depending on the interface that the data source supports.
+> **[2:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=171)** Data transfer can be done using FTP, [[Representational State Transfer (REST)|REST]], or [[SQL]], depending on the interface that the data source supports.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=180)** Data storage can be done with a variety of options.
+> **[3:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=180)** [[Data Storage]] can be done with a variety of options.
 >
-> **[3:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=184)** File systems like distributed file systems, RDBMS, and NoSQL databases are popular in batch processing.
+> **[3:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-feature-engineering?u=76281980&t=184)** File systems like distributed file systems, RDBMS, and [[NoSQL]] databases are popular in [[Batch Processing]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Feature Engineering]] (4), [[Databases]] (2), feature (2), ai (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (4), [[Databases]] (2), [[Cloud Services]] (1), [[Fetch]] (1), [[Forms]] (1)
 > **CLI Commands:** apache (4), python (1)
 > **Env Vars:** ftp (1), rest (1), sql (1), rdbms (1)
 > **Exercise Files:** template (2)
@@ -710,8 +701,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980)
+#### [Batch model training](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +709,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=8)** What does the batch training pipeline architecture look like?
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=12)** The pipeline starts where the feature engineering pipeline ends.
+> **[0:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=12)** The pipeline starts where the [[Feature Engineering]] pipeline ends.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=16)** The feature store has the data ready for machine learning.
 >
@@ -767,30 +757,29 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=128)** What kind of technologies are typically used for batch model training?
 >
-> **[2:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=133)** For job managers, we will again use Apache Airflow or Apache Oozie.
+> **[2:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=133)** For job managers, we will again use [[Apache Airflow]] or Apache Oozie.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=138)** If Apache Spark is used, it'll have its own job manager.
+> **[2:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=138)** If [[Apache Spark]] is used, it'll have its own job manager.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=143)** For job executors, model training code is typically built in Python, Apache Spark, or Apache Flink can also be used to train models at scale.
+> **[2:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=143)** For job executors, model training code is typically built in [[Python (Programming Language)|Python]], Apache Spark, or Apache Flink can also be used to train models at scale.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=155)** For training frameworks, scikit-learn, PyTorch or TensorFlow can be used based on the type of model that is being built.
+> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=155)** For training frameworks, scikit-learn, [[PyTorch]] or [[TensorFlow]] can be used based on the type of model that is being built.
 >
-> **[2:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=165)** Training platforms like MLflow, Kubeflow, or Databricks can also be used.
+> **[2:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=165)** Training platforms like [[MLflow]], Kubeflow, or Databricks can also be used.
 >
 > **[2:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-model-training?u=76281980&t=170)** These platforms provide model repositories, experiment tracking, as well as job management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Apache Spark]] (2), ai (1), [[Feature Engineering]] (1), feature (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Feature Engineering]] (1), [[Apache Airflow]] (1), [[Python (Programming Language)|Python]] (1), [[PyTorch]] (1)
 > **CLI Commands:** apache (5), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch Inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980)
+#### [Batch Inference](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=0)** - [Instructor] Having discussed the feature engineering and training architectures for Batch AI, let's discuss the inference part in this video.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=0)** - [Instructor] Having discussed the [[Feature Engineering]] and training architectures for Batch AI, let's discuss the inference part in this video.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=10)** To begin with, model inference would need the same feature engineering pipeline as used in training.
 >
@@ -810,7 +799,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=56)** It applies the model and produces the outputs.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=60)** The outputs may optionally go through a post-processing job to transform them into consumable forms.
+> **[1:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=60)** The outputs may optionally go through a post-processing job to transform them into consumable [[Forms]].
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=67)** These outputs are then stored in a persistent store like a file or a database.
 >
@@ -824,17 +813,17 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=98)** What kind of technologies are needed for batch inference?
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=102)** For job managers, we could again use Apache Airflow or Apache Oozie.
+> **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=102)** For job managers, we could again use [[Apache Airflow]] or Apache Oozie.
 >
-> **[1:48](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=108)** For job executors, we can build the job in plain Python or use Apache Spark or Apache Flink as the processing engines.
+> **[1:48](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=108)** For job executors, we can build the job in plain [[Python (Programming Language)|Python]] or use [[Apache Spark]] or Apache Flink as the processing engines.
 >
-> **[1:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=117)** For inference frameworks, we can use scikit-learn, PyTorch, or TensorFlow.
+> **[1:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=117)** For inference frameworks, we can use scikit-learn, [[PyTorch]], or [[TensorFlow]].
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=123)** Typically, the same inference framework that was used for training the model is used in production also.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=130)** For telemetry pipeline, we can use Kubernetes Mlflow, or Kibana.
+> **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=130)** For telemetry pipeline, we can use [[Kubernetes]] [[MLflow]], or Kibana.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=136)** For data stores, we can use file systems, or RDBMS databases to store the results.
+> **[2:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=136)** For data stores, we can use file systems, or RDBMS [[Databases]] to store the results.
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-inference?u=76281980&t=142)** We can also use Logstash for the telemetry pipeline.
 >
@@ -844,14 +833,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Feature Engineering]] (3), data (3), feature (2), database (2), ai (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (3), [[Forms]] (1), [[Apache Airflow]] (1), [[Python (Programming Language)|Python]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (4), python (1)
 > **Env Vars:** rdbms (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling batch AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980)
+#### [Scaling batch AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,11 +853,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=28)** What are some of the levers that can be used to scale a batch AI architecture?
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=35)** We begin with scaling feature engineering.
+> **[0:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=35)** We begin with scaling [[Feature Engineering]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=38)** Concurrent reads from data sources using multiple connections can read more records in less amount of time.
 >
-> **[0:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=46)** Using big data processing patterns, like MapReduce, can increase horizontal scalability of the pipeline.
+> **[0:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=46)** Using [[Big Data]] processing patterns, like MapReduce, can increase horizontal [[Scalability]] of the pipeline.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=54)** Using N + 1 deployments for the jobs can provide parallel processing of records.
 >
@@ -885,17 +873,17 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=91)** Distributed training can be used to concurrently train parts of the model on different compute clusters.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=99)** Hardware acceleration helps speed up model training.
+> **[1:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=99)** [[Hardware]] acceleration helps speed up model training.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=103)** Checkpointing and resume techniques can be used to continue training from where it left off in case of a pause or error.
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=112)** Building parallelism into the model can help a single model process multiple inputs at the same time.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=121)** Batch sizes are important, especially in deep learning models.
+> **[2:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=121)** Batch sizes are important, especially in [[Deep Learning]] models.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=126)** How about scaling model inference?
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=129)** To scale model inference, one technique is to reduce the size of the model, especially in deep learning and generative AI.
+> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=129)** To scale model inference, one technique is to reduce the size of the model, especially in deep learning and [[Generative AI]].
 >
 > **[2:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-batch-ai?u=76281980&t=138)** Quantization, model pruning, and model distillation are techniques that can be used for that.
 >
@@ -925,11 +913,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (5), parallel (3), concurrent (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Deep Learning]] (2), [[Feature Engineering]] (1), [[Big Data]] (1), [[Scalability]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch AI architecture example: Problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-problem?u=76281980)
+#### [Batch AI architecture example: Problem](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -959,31 +946,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (2), ai (1), business (1), cloud (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch AI architecture example: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980)
+#### [Batch AI architecture example: Solution](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=0)** - [Instructor] Let's now implement the customer segmentation architecture with Batch AI.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=7)** We begin with feature engineering.
+> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=7)** We begin with [[Feature Engineering]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=10)** We have three sources of data, namely the Salesforce Marketing Cloud, the enterprise sales database, and the contact center history files.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=20)** We add an Apache Spark job to fetch marketing responses data periodically using REST APIs from the Salesforce Marketing Cloud.
+> **[0:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=20)** We add an [[Apache Spark]] job to [[Fetch]] marketing responses data periodically using [[Representational State Transfer (REST)|REST]] APIs from the Salesforce Marketing Cloud.
 >
-> **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=30)** We add another Apache Spark job to read the sales data from the enterprise sales database using SQL.
+> **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=30)** We add another Apache Spark job to read the sales data from the enterprise sales database using [[SQL]].
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=39)** We also have an Apache Spark job that reads contact center history files using FTP.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=46)** All the three jobs will write the acquired data into a data lake.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=51)** We could build a data lake using MongoDB as it provides a flexible document format to dump any kind of data.
+> **[0:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=51)** We could build a data lake using [[MongoDB]] as it provides a flexible document format to dump any kind of data.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=60)** Then we have an Apache Spark job to merge the three data sets.
 >
@@ -1007,7 +992,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=114)** The first job here will split the data into training and test data sets.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=119)** The job is built in Python, and the training and test data sets can be stored as files, assuming that they are of manageable sizes.
+> **[1:59](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=119)** The job is built in [[Python (Programming Language)|Python]], and the training and test data sets can be stored as files, assuming that they are of manageable sizes.
 >
 > **[2:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=128)** A model training job is built in Python to use the training data and build the model.
 >
@@ -1019,11 +1004,11 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=150)** The training and test jobs iterate until satisfactory results are obtained.
 >
-> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=155)** The model is then stored and managed in a model repository like MLflow.
+> **[2:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=155)** The model is then stored and managed in a model repository like [[MLflow]].
 >
 > **[2:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=161)** MLflow can again be used for tracking the training experiments.
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=166)** Apache Airflow can be used as the job manager to manage all the Python jobs for training.
+> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=166)** [[Apache Airflow]] can be used as the job manager to manage all the Python jobs for training.
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/batch-ai-architecture-example-solution?u=76281980&t=173)** We now move to model inference for customer segmentation.
 >
@@ -1047,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[MongoDB]] (7), database (6), [[Apache Spark]] (6), [[Python (Programming Language)|Python]] (6)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Apache Spark]] (6), [[Python (Programming Language)|Python]] (6), [[MLflow]] (5), [[Feature Engineering]] (2)
 > **CLI Commands:** apache (8), python (6), docker (1)
 > **Env Vars:** rest (1), sql (1), ftp (1)
 > **Definitions:** is a  (1)
@@ -1058,12 +1043,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Characteristics of real-time AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
+#### [Characteristics of real-time AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=0)** - [Instructor] Having discussed batch AI in the previous chapter, let's talk about real-time AI architectures in this chapter.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=0)** - [Instructor] Having discussed batch AI in the previous chapter, let's talk about [[Real-Time]] AI architectures in this chapter.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=9)** When it comes to real-time AI, real-time inference is popular for a number of use cases that require on-demand predictions.
 >
@@ -1075,11 +1059,11 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=42)** These could be real-time user inputs or business events.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=47)** To do low-latency data processing, we need to use stream processing techniques that deal with one event at a time.
+> **[0:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=47)** To do low-latency [[Data Processing]], we need to use stream processing techniques that deal with one event at a time.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=56)** If we are doing real-time training, then that requires continuous model updates, including testing and validation, and then promoting these models to production.
 >
-> **[1:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=68)** Instead of batch jobs, inference services are deployed as either API-based microservices or as queue consumers.
+> **[1:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=68)** Instead of batch jobs, inference services are deployed as either API-based [[Microservices]] or as queue consumers.
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=78)** This enables them to respond to events immediately and at scale.
 >
@@ -1089,11 +1073,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=104)** What are the key architecture focus areas for real-time AI?
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=110)** The first focus area is data processing for feature engineering.
+> **[1:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=110)** The first focus area is data processing for [[Feature Engineering]].
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=114)** Data streaming and stream processing at scale are required to handle events in real time, especially for inference.
+> **[1:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=114)** [[Data Streaming]] and stream processing at scale are required to handle events in real time, especially for inference.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=124)** When databases are accessed, records should be read at low latency.
+> **[2:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=124)** When [[Databases]] are accessed, records should be read at low latency.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/characteristics-of-realtime-ai?u=76281980&t=130)** Similarly, updates should be done in low latency.
 >
@@ -1115,17 +1099,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (13), ai (7), data (3), api (2), business (1)
+> **Frameworks & Libraries:** [[Real-Time]] (13), [[Data Processing]] (2), [[Microservices]] (1), [[Feature Engineering]] (1), [[Data Streaming]] (1)
 > **Env Vars:** api (2)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time feature engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980)
+#### [Real-time feature engineering](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=0)** - [Instructor] Let's now dive deeper into real-time feature engineering architectures.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=0)** - [Instructor] Let's now dive deeper into [[Real-Time]] [[Feature Engineering]] architectures.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=7)** When it comes to feature engineering architectures, we can build it either as a synchronous pipeline or as an asynchronous pipeline.
 >
@@ -1185,19 +1168,19 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=199)** What technologies are available for real-time processing?
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=204)** For data queues, we can use queuing technologies, like Apache Kafka and Apache Pulsar.
+> **[3:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=204)** For data queues, we can use queuing technologies, like [[Apache Kafka]] and Apache Pulsar.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=212)** For data processors, we can use Python or Java Services to build API-based microservices.
+> **[3:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=212)** For data processors, we can use [[Python (Programming Language)|Python]] or [[Java]] Services to build API-based [[Microservices]].
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=219)** We can also use Apache Spark or Apache Flink when processing of queues is required at scale.
+> **[3:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=219)** We can also use [[Apache Spark]] or Apache Flink when processing of queues is required at scale.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=227)** For data transfer between services, REST, gRPC, and queues can be used.
+> **[3:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=227)** For data transfer between services, [[Representational State Transfer (REST)|REST]], gRPC, and queues can be used.
 >
-> **[3:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=234)** When databases are needed, It's recommended to use low-latency databases, like RDBMS, or data caches, like Redis.
+> **[3:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-feature-engineering?u=76281980&t=234)** When [[Databases]] are needed, It's recommended to use low-latency databases, like RDBMS, or data caches, like [[Redis]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Feature Engineering]] (14), [[Real-Time]] (4), api (3), database (3)
+> **Frameworks & Libraries:** [[Feature Engineering]] (14), [[Real-Time]] (4), [[Databases]] (2), [[Apache Kafka]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** apache (4), python (1)
 > **Env Vars:** api (3), rest (1), rdbms (1)
 > **Best Practices:** recommended (3)
@@ -1205,8 +1188,7 @@ created: 2026-05-02
 > **Code Identifiers:** grpc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time model training
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980)
+#### [Real-time model training](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1214,7 +1196,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=4)** What are the architectural considerations?
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=8)** Let's understand the constraints and considerations for real-time model training.
+> **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=8)** Let's understand the constraints and considerations for [[Real-Time]] model training.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=14)** Model training cannot be done one record at a time.
 >
@@ -1236,7 +1218,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=87)** The pipeline looks similar to the batch training pipeline as we are still doing batch training at smaller intervals.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=95)** The input features may either come from a feature engineering service, a feature store, or a feature queue, depending on the use case.
+> **[1:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=95)** The input features may either come from a [[Feature Engineering]] service, a feature store, or a feature queue, depending on the use case.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=104)** The dataset split job will consume features in micro-batches.
 >
@@ -1246,31 +1228,30 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=123)** What are some of the real-time training technologies to use for the real-time AI architecture?
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=129)** For data sources, we use low latency sources like caches, message queues, and low latency databases.
+> **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=129)** For data sources, we use low latency sources like caches, message queues, and low latency [[Databases]].
 >
-> **[2:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=137)** For job managers, we may still use Apache Airflow and Apache Oozie.
+> **[2:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=137)** For job managers, we may still use [[Apache Airflow]] and Apache Oozie.
 >
-> **[2:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=143)** If Apache Spark or Apache Flink is used for job execution, then they will provide the job manager also.
+> **[2:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=143)** If [[Apache Spark]] or Apache Flink is used for job execution, then they will provide the job manager also.
 >
-> **[2:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=152)** For job executors, Python microservices, Apache Spark, and Apache Flink can provide low latency processing.
+> **[2:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=152)** For job executors, [[Python (Programming Language)|Python]] [[Microservices]], Apache Spark, and Apache Flink can provide low latency processing.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=161)** Training frameworks like scikit-learn, PyTorch, or TensorFlow can be used.
+> **[2:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=161)** Training frameworks like scikit-learn, [[PyTorch]], or [[TensorFlow]] can be used.
 >
-> **[2:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=167)** For training platforms, we can use MLflow, Kubeflow, or Databricks similar to Batch AI.
+> **[2:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-model-training?u=76281980&t=167)** For training platforms, we can use [[MLflow]], Kubeflow, or Databricks similar to Batch AI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Real-Time]] (4), feature (2), ai (2), [[Apache Spark]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Apache Spark]] (2), [[Feature Engineering]] (1), [[Databases]] (1), [[Apache Airflow]] (1)
 > **CLI Commands:** apache (6), python (1)
 > **Analogies:** similar to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time inference architectures
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980)
+#### [Real-time inference architectures](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=0)** - [Instructor] Having discussed real-time feature engineering and model training, let's now discuss how model inference works in the real-time mode.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=0)** - [Instructor] Having discussed [[Real-Time]] [[Feature Engineering]] and model training, let's now discuss how model inference works in the real-time mode.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=10)** For inference too, we can either do it synchronously or asynchronously.
 >
@@ -1326,29 +1307,28 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=171)** What technologies are typically used for real time inference?
 >
-> **[2:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=175)** For cues, we can use Apache Kafka and Apache Pulsar.
+> **[2:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=175)** For cues, we can use [[Apache Kafka]] and Apache Pulsar.
 >
-> **[3:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=180)** For job executors, for inference service, it can be built in Python.
+> **[3:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=180)** For job executors, for inference service, it can be built in [[Python (Programming Language)|Python]].
 >
-> **[3:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=185)** For streaming jobs, we can use Apache Spark or Apache Flink.
+> **[3:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=185)** For streaming jobs, we can use [[Apache Spark]] or Apache Flink.
 >
-> **[3:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=190)** For inference frameworks, we can use scikit-learn, PyTorch or TensorFlow.
+> **[3:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=190)** For inference frameworks, we can use scikit-learn, [[PyTorch]] or [[TensorFlow]].
 >
-> **[3:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=195)** For telemetry frameworks, we can leverage Kubernetes, MLflow or Kibana.
+> **[3:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-inference-architectures?u=76281980&t=195)** For telemetry frameworks, we can leverage [[Kubernetes]], [[MLflow]] or Kibana.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (3), [[Feature Engineering]] (3), api (2), data (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Feature Engineering]] (3), [[Apache Kafka]] (1), [[Python (Programming Language)|Python]] (1), [[Apache Spark]] (1)
 > **CLI Commands:** apache (4), python (1)
 > **Env Vars:** api (2)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling real-time AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980)
+#### [Scaling real-time AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=0)** - [Instructor] What kinds of scaling levers are available with real-time AI?
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=0)** - [Instructor] What kinds of scaling levers are available with [[Real-Time]] AI?
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=5)** Real-time AI's scaling requirements have some that are common with batch and some that are unique to streaming.
 >
@@ -1356,29 +1336,29 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=24)** Let's enumerate the scaling levers in real-time AI.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=29)** First, let's look at feature engineering in real-time AI.
+> **[0:29](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=29)** First, let's look at [[Feature Engineering]] in real-time AI.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=33)** Scalable queuing systems like Apache Kafka are critical to handle high volumes of data at low latencies.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=33)** Scalable queuing systems like [[Apache Kafka]] are critical to handle high volumes of data at low latencies.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=42)** Big data streaming patterns like windowing, stream joints and stream splits are needed to process data from multiple streams.
+> **[0:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=42)** [[Big Data]] streaming patterns like windowing, stream joints and stream splits are needed to process data from multiple streams.
 >
 > **[0:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=51)** For all services, N + 1 deployment models need to be used so they can scale horizontally.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=59)** Writes need to be performed concurrently from processing nodes to databases without blocking each other.
+> **[0:59](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=59)** Writes need to be performed concurrently from processing nodes to [[Databases]] without blocking each other.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=67)** Next, let's look at model training in real time AI.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=72)** Data formats need to be efficient to minimize footprint, so processing of data can be performed at low latencies.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=80)** Algorithms chosen should also favor low latency, so the training process can be completed in less time.
+> **[1:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=80)** [[Algorithms]] chosen should also favor low latency, so the training process can be completed in less time.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=88)** Hardware acceleration and model parallelization when available will help with speeding up training.
+> **[1:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=88)** [[Hardware]] acceleration and model parallelization when available will help with speeding up training.
 >
 > **[1:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=96)** Batch sizers should be kept as small as possible while maintaining critical signals so the training process can run in less time.
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=105)** Finally, let's look at model inference.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=109)** Scaling of inference microservices using N + 1 clusters is critical for scaling the inference process.
+> **[1:49](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=109)** Scaling of inference [[Microservices]] using N + 1 clusters is critical for scaling the inference process.
 >
 > **[1:58](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/scaling-realtime-ai?u=76281980&t=118)** Queues used should, again, be low latency, so consuming and publishing activities can be performed in real time.
 >
@@ -1400,20 +1380,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Real-Time]] (5), data (5), [[Feature Engineering]] (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Real-Time]] (5), [[Feature Engineering]] (2), [[Hardware]] (2), [[Apache Kafka]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time AI architecture example: Problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980)
+#### [Real-time AI architecture example: Problem](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=0)** - [Instructor] Having discussed the key considerations for real-time AI architectures, let's now build an architecture for a real-time use case.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=0)** - [Instructor] Having discussed the key considerations for [[Real-Time]] AI architectures, let's now build an architecture for a real-time use case.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=9)** The use case is called Dynamic Discounts.
 >
-> **[0:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=12)** Imagine an online store that sells various products to customers.
+> **[0:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=12)** Imagine an online store that sells various [[Microsoft Products|products]] to customers.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-problem?u=76281980&t=18)** The store wants to offer discounts to help sell products.
 >
@@ -1447,21 +1426,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (4), [[Microsoft Products|Products]] (4), product (4), ai (1), data (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Microsoft Products|Products]] (4)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** imagine (1), for example (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time AI architecture example: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980)
+#### [Real-time AI architecture example: Solution](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=0)** - [Instructor] Let's now proceed to implement the dynamic discounts architecture.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=6)** We will begin with the feature engineering pipeline.
+> **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=6)** We will begin with the [[Feature Engineering]] pipeline.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=9)** The feature engineering pipeline we will discuss here is an asynchronous pipeline.
 >
@@ -1487,9 +1465,9 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=72)** An Apache Flink job then consumes this product updates queue.
 >
-> **[1:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=77)** It will summarize the data into small five-minute windows for each product.
+> **[1:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=77)** It will summarize the data into small five-minute [[Windows]] for each product.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=82)** This summary is then published to the feature queue on Apache Kafka.
+> **[1:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=82)** This summary is then published to the feature queue on [[Apache Kafka]].
 >
 > **[1:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=88)** We will now move to the model training pipeline for dynamic discounts.
 >
@@ -1503,7 +1481,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=116)** It is assumed that, in the case of training, the feature queue also has the target or ground truth populated.
 >
-> **[2:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=125)** For faster access, the training dataset is cached in Redis.
+> **[2:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=125)** For faster access, the training dataset is cached in [[Redis]].
 >
 > **[2:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=129)** Similarly, the test dataset is also cached in Redis.
 >
@@ -1511,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=137)** It gets the next batch of the training dataset and starts to build the model.
 >
-> **[2:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=142)** It will build one model for each product in the catalog, so the output is going to be a set of models for products that occurred in this batch of data.
+> **[2:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=142)** It will build one model for each product in the catalog, so the output is going to be a set of models for [[Microsoft Products|products]] that occurred in this batch of data.
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=153)** Not all products will be updated in a given batch.
 >
@@ -1521,9 +1499,9 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=167)** The models are then updated in the model repository for each product.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=172)** MLFlow will be used for experiment tracking.
+> **[2:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=172)** [[MLflow]] will be used for experiment tracking.
 >
-> **[2:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=177)** We now move to real-time inference.
+> **[2:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=177)** We now move to [[Real-Time]] inference.
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/realtime-ai-architecture-example-solution?u=76281980&t=180)** We will start with the set of models available in the model repository.
 >
@@ -1551,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), feature (5), data (4), [[Redis]] (3), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Redis]] (3), [[Feature Engineering]] (2), [[Apache Kafka]] (2), [[Microsoft Products|Products]] (2), [[MLflow]] (2)
 > **CLI Commands:** apache (7)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** rdbms (1)
@@ -1562,20 +1540,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud and serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
+#### [Cloud and serverless computing](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=0)** - [Instructor] So far, we have dealt with building architectures for batch and real time AI using enterprise computing resources.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=8)** Now let's focus on cloud and serverless computing in this chapter.
+> **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=8)** Now let's focus on cloud and [[Serverless Computing]] in this chapter.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=14)** What is cloud computing?
+> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=14)** What is [[Cloud Computing]]?
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=16)** Cloud computing is the use of resources available through the internet for enterprise computing requirements.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=24)** Here, cloud service providers sell resources through the internet for servers, storage, databases, networking, software, analytics, and AI.
+> **[0:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=24)** Here, cloud service providers sell resources through the internet for servers, storage, [[Databases]], networking, software, analytics, and AI.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=36)** Using such services allow for faster innovation, flexible resources, and economics of scale.
 >
@@ -1583,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=48)** First, we get on demand access to resources without going through the hassle of purchasing, shipping, deploying and onboarding them.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=57)** Cloud gives on-demand scalability.
+> **[0:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=57)** Cloud gives on-demand [[Scalability]].
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=60)** We can always add additional resources when needed and release them when not needed.
 >
@@ -1595,7 +1572,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=86)** Cloud resources can be accessed from anywhere in the world, so they can be provisioned near the clients as desired.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=94)** Cloud services also provide virtual private cloud options so customers can create their own private intranet within the cloud.
+> **[1:34](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=94)** [[Cloud Services]] also provide virtual private cloud options so customers can create their own private intranet within the cloud.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=104)** Next comes serverless computing.
 >
@@ -1605,7 +1582,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=127)** What are the key characteristics of serverless computing?
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=131)** Customers use only the service like software as a service, without bothering about actual installation and maintenance of software.
+> **[2:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=131)** Customers use only the service like [[SaaS|software as a service]], without bothering about actual installation and maintenance of software.
 >
 > **[2:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=140)** There is no infrastructure management needed.
 >
@@ -1619,31 +1596,30 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=162)** What kind of cloud service providers are available today?
 >
-> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=166)** Infrastructure as a service providers sell physical servers, networking and storage.
+> **[2:46](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=166)** [[IaaS|Infrastructure as a service]] providers sell physical servers, networking and storage.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=172)** Platform as a service provider provide pre-installed platform components like operating systems, databases and tools.
+> **[2:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=172)** [[PaaS|Platform as a service]] provider provide pre-installed platform components like operating systems, databases and tools.
 >
 > **[3:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=181)** Software as a service provider sells software applications that are fully set up and running.
 >
-> **[3:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=188)** Some popular cloud service providers include Amazon Web Services or AWS, Microsoft Azure, Google Cloud platform, or GCP, Salesforce and OpenAI.
+> **[3:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-and-serverless-computing?u=76281980&t=188)** Some popular cloud service providers include [[Amazon Web Services (AWS)|Amazon Web Services]] or AWS, [[Microsoft Azure]], [[Google Cloud Platform (GCP)|Google Cloud platform]], or GCP, Salesforce and OpenAI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Serverless Computing]] (4), ai (2), [[Databases]] (2), management (2)
+> **Frameworks & Libraries:** [[Serverless Computing]] (4), [[Cloud Computing]] (4), [[Databases]] (2), [[SaaS|Software as a service]] (2), [[Scalability]] (1)
 > **Env Vars:** aws (1), gcp (1)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecting for the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980)
+#### [Architecting for the cloud](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=0)** - [Instructor] What is different between creating architectures for local deployments and for the cloud?
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=7)** We have so far discussed the architecture principles for batch and real-time AI in enterprise deployments.
+> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=7)** We have so far discussed the architecture principles for batch and [[Real-Time]] AI in enterprise deployments.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=15)** These principles still hold good for cloud environments.
 >
@@ -1651,13 +1627,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=23)** If it is not managed, cost can overshoot the budget.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=27)** So cloud architectures need to balance cost, performance, and scalability, such that the desired performance can be achieved while keeping costs in control.
+> **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=27)** So cloud architectures need to balance cost, performance, and [[Scalability]], such that the desired performance can be achieved while keeping costs in control.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=39)** What are the key cloud architecture considerations?
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=43)** First comes scalability.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=45)** Even if cloud services are horizontally scalable, scale should be controlled so that the deployment does not overshoot the budget.
+> **[0:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=45)** Even if [[Cloud Services]] are horizontally scalable, scale should be controlled so that the deployment does not overshoot the budget.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=54)** Cost optimization is critical.
 >
@@ -1669,17 +1645,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=75)** Because cloud services run in their own data centers, which may be geographically distant from the clients, latency may become an issue.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=85)** Deployment planning needs to take into account physical distances between the data center and the clients.
+> **[1:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=85)** [[Deployment Planning]] needs to take into account physical distances between the data center and the clients.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=92)** High availability across regions need to be provisioned so that the services are not impacted when the cloud provider data center goes down.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=102)** Choosing the right cloud provider is critical, ensuring that the right provider is chosen for the given use case.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=110)** DevOps takes a different dimension when deploying applications to cloud platforms.
+> **[1:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=110)** [[DevOps]] takes a different dimension when deploying applications to cloud platforms.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=116)** Integration with cloud platforms' deployment services need to be factored in.
 >
-> **[2:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=121)** Monitoring and observability of applications deployed on cloud infrastructure also need to be considered when architecting applications.
+> **[2:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=121)** Monitoring and observability of applications deployed on [[Cloud Infrastructure]] also need to be considered when architecting applications.
 >
 > **[2:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/architecting-for-the-cloud?u=76281980&t=131)** Data stored on cloud platforms need to be protected from unauthorized access.
 >
@@ -1691,11 +1667,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), data (6), [[Scalability]] (2), [[Real-Time]] (1), ai (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Cloud Services]] (2), [[Real-Time]] (1), [[Deployment Planning]] (1), [[DevOps]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980)
+#### [AI in the cloud](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,13 +1680,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=9)** It is ideal for building and serving large-scale AI/ML applications and workloads.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=16)** Cloud provides scalability, speed, and ease of deployment for machine learning that would otherwise be highly involved when done standalone.
+> **[0:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=16)** Cloud provides [[Scalability]], speed, and ease of deployment for machine learning that would otherwise be highly involved when done standalone.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=25)** Let's discuss some advantages of using the Cloud for AI.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=30)** First, we get on-demand compute resources, so if ML needs more horsepower, it can be acquired instantaneously.
 >
-> **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=39)** Cloud platforms provide a suite of products, like low-code, no-code builders, tools, CI/CD pipelines, serving platforms, and observability pipelines.
+> **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=39)** Cloud platforms provide a suite of [[Microsoft Products|products]], like low-code, no-code builders, tools, CI/CD pipelines, serving platforms, and observability pipelines.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=50)** They are already pre-wired, so it's easy to build, deploy, and manage ML services on the cloud.
 >
@@ -1723,7 +1698,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=75)** It's also possible to deploy services in regions that are closer to the clients.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=81)** Such services provide excellent integration with the rest of the products from the same provider, so it's possible to build end-to-end application stacks, including ML, on the same platform easily.
+> **[1:21](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=81)** Such services provide excellent integration with the [[Representational State Transfer (REST)|rest]] of the products from the same provider, so it's possible to build end-to-end application stacks, including ML, on the same platform easily.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=95)** What are some of the shortcomings of using the Cloud for AI?
 >
@@ -1733,7 +1708,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=111)** Enterprises do not have full control on these cloud deployments, and that may be an issue for some industries who require deep oversight into such deployments.
 >
-> **[2:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=122)** Data privacy and security is a concern.
+> **[2:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=122)** [[Data Privacy]] and security is a concern.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=125)** While cloud platforms provide a number of levers to protect data, not using them correctly can lead to data leaks.
 >
@@ -1741,17 +1716,16 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=144)** There is the risk of locking in into a single vendor that may create future issues with technology flexibility and cost control.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=154)** There is limited customization potential for these cloud services if such customization is needed for the use case.
+> **[2:34](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-in-the-cloud?u=76281980&t=154)** There is limited customization potential for these [[Cloud Services]] if such customization is needed for the use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (12), ai (5), data (4), [[Security]] (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Scalability]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Privacy]] (1), [[Cloud Services]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** cd (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud platforms for AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980)
+#### [Cloud platforms for AI](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,35 +1735,34 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=14)** They provide an array of tools and platforms to support all phases of machine learning.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=20)** This is a comparison chart for the Big Three providers, namely AWS, GCP, and Azure in terms of their support for feature engineering.
+> **[0:20](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=20)** This is a comparison chart for the Big Three providers, namely AWS, GCP, and [[Microsoft Azure|Azure]] in terms of their support for [[Feature Engineering]].
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=31)** Each of them provide support for file systems, databases, data processors, queues, and caches.
+> **[0:31](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=31)** Each of them provide support for file systems, [[Databases]], data processors, queues, and caches.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=38)** Some of them are hosted open-source products while others are native serverless products.
+> **[0:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=38)** Some of them are hosted open-source [[Microsoft Products|products]] while others are native serverless products.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=45)** For example, for data processors in AWS, EMR is hosted Apache Spark, while Lambda is a native serverless data processing platform.
+> **[0:45](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=45)** For example, for data processors in AWS, EMR is hosted [[Apache Spark]], while Lambda is a native serverless [[Data Processing]] platform.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=55)** Similarly, when we compare capabilities for model training and serving, each of the three provide a comprehensive list of tools for model training, model hosting, monitoring, and logging.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=69)** In addition to the Big Three, there are few other popular cloud providers.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=74)** Generative AI providers like OpenAI and Anthropic provide hosted models and services for generative AI models and chat bots.
+> **[1:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=74)** [[Generative AI]] providers like OpenAI and Anthropic provide hosted models and services for generative AI models and chat bots.
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=84)** IBM Watson and Alibaba Cloud also provide several hosted machine learning capabilities.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=90)** Hugging Face is a hosted platform for open source models and data sets.
+> **[1:30](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-platforms-for-ai?u=76281980&t=90)** [[Hugging Face]] is a hosted platform for open source models and data sets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), data (4), aws (2), [[Microsoft Products|Products]] (2), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Generative AI]] (2), [[Microsoft Azure|Azure]] (1), [[Feature Engineering]] (1), [[Databases]] (1)
 > **Env Vars:** aws (2), gcp (1), emr (1), ibm (1)
 > **CLI Commands:** aws (2), apache (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud AI architecture example: Problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-problem?u=76281980)
+#### [Cloud AI architecture example: Problem](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1821,21 +1794,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), ai (2), next (2), aws (1), data (1)
 > **Env Vars:** aws (1), bert (1), api (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud AI architecture example: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980)
+#### [Cloud AI architecture example: Solution](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=0)** - [Presenter] Let's now build an architecture for document classification using Cloud AI.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=7)** We begin with the feature engineering pipeline.
+> **[0:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=7)** We begin with the [[Feature Engineering]] pipeline.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=10)** The training raw documents are available in an S3 bucket, along with their labels for categories.
 >
@@ -1851,7 +1822,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=52)** This studio also has the integrations to the model repository and experiment tracking tools in SageMaker.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=61)** First, a Python script runs for splitting the data set into training and test data sets.
+> **[1:01](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=61)** First, a [[Python (Programming Language)|Python]] script runs for splitting the data set into training and test data sets.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/cloud-ai-architecture-example-solution?u=76281980&t=67)** S3 can be used to store the training and test data sets.
 >
@@ -1885,7 +1856,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), data (3), api (3), cloud (2), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Feature Engineering]] (1)
 > **Env Vars:** aws (4), api (3), bert (2)
 > **CLI Commands:** aws (4), python (2)
 > **Definitions:** is a  (1)
@@ -1896,8 +1867,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
+#### [Hybrid computing](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1907,7 +1877,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=11)** What is hybrid computing?
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=13)** It is about combining different types of computing environments, like on-premise infrastructure, cloud computing, and edge devices to create a single end-to-end application.
+> **[0:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=13)** It is about combining different types of computing environments, like on-premise infrastructure, [[Cloud Computing]], and edge devices to create a single end-to-end application.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=27)** It's one logical application leveraging multiple environments.
 >
@@ -1919,13 +1889,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=55)** Legacy applications running on on-premise infrastructure may integrate to newer applications running in the cloud.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=64)** In cases where data privacy is needed, parts of the application accessing sensitive data runs on-premise while the rest of the application stack may run in the cloud.
+> **[1:04](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=64)** In cases where [[Data Privacy]] is needed, parts of the application accessing sensitive data runs on-premise while the [[Representational State Transfer (REST)|rest]] of the application stack may run in the cloud.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=76)** Generative AI is another great use case where locally deployed applications can use generative AI models in the cloud.
+> **[1:16](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=76)** [[Generative AI]] is another great use case where locally deployed applications can use generative AI models in the cloud.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=86)** What are some key considerations for hybrid computing?
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=89)** Data storage and processing becomes a challenge as this function needs to be spread out over multiple environments, each with their own capacity and security constraints.
+> **[1:29](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=89)** [[Data Storage]] and processing becomes a challenge as this function needs to be spread out over multiple environments, each with their own capacity and security constraints.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-computing?u=76281980&t=102)** Ensuring security and compliance of the application stack across multiple computing environments is a challenge as credentials need to be managed across the stack for authorization and access.
 >
@@ -1939,12 +1909,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), application (5), data (3), [[Generative AI]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Cloud Computing]] (1), [[Data Privacy]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI using hybrid computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980)
+#### [AI using hybrid computing](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1954,9 +1923,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=15)** Such architectures should be built to ensure reliability and efficiency.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=22)** How does feature engineering work in a hybrid setup?
+> **[0:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=22)** How does [[Feature Engineering]] work in a hybrid setup?
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=27)** Feature engineering may use a distributed set of data sources, and these data sources can be from devices, on-premise databases, or cloud services.
+> **[0:27](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=27)** Feature engineering may use a distributed set of data sources, and these data sources can be from devices, on-premise [[Databases]], or [[Cloud Services]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=38)** Feature engineering can itself be distributed.
 >
@@ -1964,7 +1933,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=52)** A central server can aggregate data from multiple devices and environments to create the feature store When processing data in multiple environments, it is important to ensure that the data is protected during processing, storage, and transfer.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=71)** Data privacy should be ensured at all stages of feature engineering, especially during transfer and merging into the central database.
+> **[1:11](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=71)** [[Data Privacy]] should be ensured at all stages of feature engineering, especially during transfer and merging into the central database.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-using-hybrid-computing?u=76281980&t=82)** Bandwidth limitations need to be also considered when planning of data transfers.
 >
@@ -2006,13 +1975,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Feature Engineering]] (5), cloud (4), [[Privacy]] (2), ai (1)
+> **Frameworks & Libraries:** [[Feature Engineering]] (5), [[Data Privacy]] (2), [[Databases]] (1), [[Cloud Services]] (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI architectures for hybrid computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980)
+#### [AI architectures for hybrid computing](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2020,7 +1988,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=6)** When it comes to AI, there are three key building blocks, the model, data and the application itself.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=14)** These three building blocks can be distributed across different environments based on the application, resource or privacy requirements.
+> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=14)** These three building blocks can be distributed across different environments based on the application, resource or [[Privacy]] requirements.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=23)** Let's discuss some popular AI patterns in hybrid computing.
 >
@@ -2038,7 +2006,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=57)** However, it'll incur additional costs for managing them.
 >
-> **[1:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=62)** Generative AI applications are a good example of this pattern.
+> **[1:02](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=62)** [[Generative AI]] applications are a good example of this pattern.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=66)** Next, we discuss mode two.
 >
@@ -2048,11 +2016,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=79)** Data is physically segregated from other customers.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=83)** This ensures full data privacy and applications demanding such privacy will use this pattern.
+> **[1:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=83)** This ensures full [[Data Privacy]] and applications demanding such privacy will use this pattern.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=91)** Enterprise has lower levels of control as the application is in the cloud.
 >
-> **[1:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=96)** A good example of this pattern is when enterprises use SaaS AI products.
+> **[1:36](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=96)** A good example of this pattern is when enterprises use [[SaaS]] AI [[Microsoft Products|products]].
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/ai-architectures-for-hybrid-computing?u=76281980&t=102)** Here, the SaaS service provider provides a VPC capability to segregate data.
 >
@@ -2068,24 +2036,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), application (7), cloud (6), ai (4), [[Privacy]] (4)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[SaaS]] (2), [[Generative AI]] (1), [[Data Privacy]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** vpc (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid AI architecture example: Problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980)
+#### [Hybrid AI architecture example: Problem](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=0)** - [Instructor] Let's now build an architecture for a hybrid AI problem.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=5)** This is a customer support chatbot that can answer questions posted by customers based on an enterprise knowledge base.
+> **[0:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=5)** This is a [[Customer Support]] chatbot that can answer questions posted by customers based on an enterprise knowledge base.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=14)** The goal for this customer support Q1-day problem is to build an AI system that can answer customer questions about a company's products and policies.
+> **[0:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=14)** The goal for this customer support Q1-day problem is to build an AI system that can answer customer questions about a company's [[Microsoft Products|products]] and policies.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=25)** The architecture should build a knowledge base and leverage it to generate summaries to respond to customers.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=33)** This is a generative AI use case that leverages the retrieval-augmented generation, or RAG, pattern.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=33)** This is a [[Generative AI]] use case that leverages the [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], or RAG, pattern.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=41)** For knowledge base, the source document would be product documentation and frequently asked questions available in the company.
 >
@@ -2093,7 +2060,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=57)** A question-and-answer dataset is available with answers in the expected tone, using which the model needs to be trained.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=66)** For the knowledge base, a vector database in Pinecone Cloud needs to be created.
+> **[1:06](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=66)** For the knowledge base, a vector database in [[Pinecone]] Cloud needs to be created.
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-problem?u=76281980&t=73)** For the model, we will use a large language model from OpenAI and fine-tune it for the specific tone.
 >
@@ -2103,32 +2070,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Customer Support]] (2), chatbot (1), [[Microsoft Products|Products]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (2), [[Microsoft Products|Products]] (1), [[Generative AI]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Pinecone]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** rag (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hybrid AI architecture example: Solution
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980)
+#### [Hybrid AI architecture example: Solution](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=0)** - [Instructor] Let's now implement the customer support Q&A chatbot.
+> **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=0)** - [Instructor] Let's now implement the [[Customer Support]] Q&A chatbot.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=5)** We begin with feature engineering for the chatbot.
+> **[0:05](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=5)** We begin with [[Feature Engineering]] for the chatbot.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=8)** We have two environments, namely the enterprise data center and the cloud.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=13)** First, the product documentation and FAQs are available in files.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=19)** These documents are then processed through a Python job.
+> **[0:19](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=19)** These documents are then processed through a [[Python (Programming Language)|Python]] job.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=23)** The job will read the documents, chunk and create embeddings.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=28)** These embeddings are then saved in a vector database on Pinecone cloud.
+> **[0:28](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=28)** These embeddings are then saved in a vector database on [[Pinecone]] cloud.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=33)** Pinecone cloud is a cloud service provider for vector databases.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=33)** Pinecone cloud is a cloud service provider for [[Vector Databases]].
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=39)** Next, we need to fine-tune the LLM on OpenAI.
 >
@@ -2162,7 +2128,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=130)** The question first goes to a retriever module in Python.
 >
-> **[2:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=134)** The retriever will perform semantic search using the vector database and return the best document matches back to the chatbot.
+> **[2:14](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=134)** The retriever will perform [[Semantic Search]] using the vector database and return the best document matches back to the chatbot.
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/hybrid-ai-architecture-example-solution?u=76281980&t=143)** The document matches are then sent to the model service.
 >
@@ -2176,7 +2142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), llm (7), [[Python (Programming Language)|Python]] (6), chatbot (5), database (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Pinecone]] (3), [[Customer Support]] (2), [[Feature Engineering]] (1), [[Vector Databases]] (1)
 > **Env Vars:** llm (7)
 > **CLI Commands:** python (6)
 > **Definitions:** is a  (1)
@@ -2187,14 +2153,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing with AI data processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)
+#### [Continuing with AI data processing](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=0)** - [Instructor] We have reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=3)** By now, you have an understanding of how to build architectures for batch and real-time AI using multiple deployment modes.
+> **[0:03](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=3)** By now, you have an understanding of how to build architectures for batch and [[Real-Time]] AI using multiple deployment modes.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=13)** You can take this learning even further.
 >
@@ -2202,7 +2167,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=26)** Implement the same pipeline using one of the cloud platforms using native tools and technologies.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=33)** Explore building hybrid architectures for generative AI for a use case in your organization.
+> **[0:33](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=33)** Explore building hybrid architectures for [[Generative AI]] for a use case in your organization.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-data-processing-batch-real-time-and-cloud-architectures-for-ai/continuing-on-with-ai-data-processing?u=76281980&t=41)** AI always intrigues me.
 >
@@ -2210,7 +2175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Real-Time]] (1), cloud (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Generative AI]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 

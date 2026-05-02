@@ -86,28 +86,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a REST API with Django and Django REST framework
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
+#### [Create a REST API with Django and Django REST framework](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=0)** - [Rudolf] REST APIs are everywhere.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=0)** - [Rudolf] [[Representational State Transfer (REST)|REST]] APIs are everywhere.
 >
 > **[0:02](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=2)** They are used ever day by front-end web apps and smart phone mobile apps.
 >
-> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=6)** Have you ever wanted to create your own REST API that can power an Android, iPhone, and web app, such as an e-commerce store?
+> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=6)** Have you ever wanted to create your own REST API that can power an [[Android]], iPhone, and web app, such as an [[E-Commerce]] store?
 >
-> **[0:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=13)** With Django REST framework, we can create that REST API backend.
+> **[0:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=13)** With [[Django]] REST framework, we can create that REST API backend.
 >
-> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=17)** Django REST framework enables rapid prototyping, so you will get up and running quickly, with model serialization, validation, searching and filtering of data, and unit testing.
+> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=17)** Django REST framework enables rapid [[Prototyping]], so you will get up and running quickly, with model serialization, validation, searching and filtering of data, and [[Unit Testing]].
 >
-> **[0:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=28)** Hi, I'm Rudolf Olah, I've been working with Python projects for over 10 years and have been using Django since version 0.96.
+> **[0:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=28)** Hi, I'm Rudolf Olah, I've been working with [[Python (Programming Language)|Python]] projects for over 10 years and have been using Django since version 0.96.
 >
 > **[0:36](https://www.linkedin.com/learning/building-restful-web-apis-with-django/create-a-rest-api-with-django-and-django-rest-framework?u=76281980&t=36)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Django]] (3), web (2), api (2), front-end (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Django]] (3), [[Android]] (1), [[E-Commerce]] (1), [[Prototyping]] (1)
 > **Env Vars:** rest (5), api (2)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** iphone (1)
@@ -115,18 +114,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [rudolf] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=0)** - [Instructor] Before getting started with Django REST API, here's what you should know.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=0)** - [Instructor] Before getting started with [[Django]] [[Representational State Transfer (REST)|REST]] API, here's what you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=4)** If you know how to write Python code you should already know how to write a basic Python program and how to install and import Python libraries and modules.
+> **[0:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=4)** If you know how to write [[Python (Programming Language)|Python]] code you should already know how to write a basic Python program and how to install and import Python libraries and modules.
 >
 > **[0:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=13)** But what if you don't know Python?
 >
-> **[0:15](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=15)** Well, if you know how to write code for Node.js, or JavaScript, or another programming language checkout these courses and start from there.
+> **[0:15](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=15)** Well, if you know how to write code for [[Node.js]], or [[JavaScript]], or another programming language checkout these courses and start from there.
 >
 > **[0:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/what-you-should-know?u=76281980&t=23)** Another resource would be the book Learn Python the Hard Way, which is available online for free and is a great introduction to Python.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Node.js]] (1), [[JavaScript]] (1)
 > **CLI Commands:** python (7), node (1)
 > **Env Vars:** rest (1), api (1), url (1)
 > **Prerequisites:** getting started (1), install (1)
@@ -142,20 +140,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo project overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980)
+#### [Demo project overview](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=0)** - [Instructor] We are going to be building an e-commerce store with a few products that can display more details about each product and has a shopping cart for users to add items to.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=0)** - [Instructor] We are going to be building an [[E-Commerce]] store with a few [[Microsoft Products|products]] that can display more details about each product and has a shopping cart for users to add items to.
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=14)** In this project the following modules are installed.
 >
-> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=17)** Django, Django REST framework Django-filter, Mock and Pillow.
+> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=17)** [[Django]], Django [[Representational State Transfer (REST)|REST]] framework Django-filter, Mock and Pillow.
 >
 > **[0:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=23)** In the project we already have models for products ShoppingCarts, and ShoppingCartItems.
 >
-> **[0:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=28)** We also have database migrations for creating the models and loading some sample product data into the SQL-like database.
+> **[0:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=28)** We also have database migrations for creating the models and loading some sample product data into the [[SQL]]-like database.
 >
 > **[0:36](https://www.linkedin.com/learning/building-restful-web-apis-with-django/demo-project-overview?u=76281980&t=36)** This way we will have some data ready for the REST API to return.
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Django]] (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (4), [[Django]] (3), [[E-Commerce]] (1), [[SQL]] (1)
 > **Env Vars:** rest (4), api (3), sql (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
@@ -179,18 +176,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a Django Rest framework serializer to serialize a model
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
+#### [Creating a Django Rest framework serializer to serialize a model](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=0)** - [Instructor] Let's get started by writing a serializer to serialize a model.
 >
-> **[0:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=4)** In general, serializing means to convert an object into format like JSON, YAML, or XML.
+> **[0:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=4)** In general, serializing means to convert an object into format like [[JSON]], YAML, or XML.
 >
-> **[0:11](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=11)** Specifically, we want to take the product model in this project and serialize it to a JSON format that is served through Our REST API.
+> **[0:11](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=11)** Specifically, we want to take the product model in this project and serialize it to a JSON format that is served through Our [[Representational State Transfer (REST)|REST]] API.
 >
-> **[0:20](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=20)** This class will mock the fields from a Django model into the serialization format.
+> **[0:20](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=20)** This class will mock the fields from a [[Django]] model into the serialization format.
 >
 > **[0:25](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=25)** We're going to serialize the id, name, price, and product sales dates.
 >
@@ -228,13 +224,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=234)** So as you can see, we serialized the product and then it became JSON with a JSONRenderer.
 >
-> **[3:59](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=239)** The Django shell is a very important tool for rapid prototyping and testing.
+> **[3:59](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=239)** The Django shell is a very important tool for rapid [[Prototyping]] and testing.
 >
 > **[4:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-django-rest-framework-serializer-to-serialize-a-model?u=76281980&t=244)** In production environments, it's common to use the Django shell for debugging problems as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Django]] (6), [[JSON]] (4), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Django]] (6), [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Prototyping]] (1)
 > **Env Vars:** json (4), yaml (1), xml (1), rest (1), api (1)
 > **Code Identifiers:** to_representation (3), rest_framework (1), is_on_sale (1), current_price (1)
 > **Tools:** terminal (1)
@@ -242,20 +238,19 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a ListAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980)
+#### [Creating a ListAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=0)** - [Instructor] We have a Serializer for products.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=0)** - [Instructor] We have a Serializer for [[Microsoft Products|products]].
 >
 > **[0:02](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=2)** Now let's create a List API View to use the Product Serializer.
 >
-> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=6)** The API is going to return the list of products and render them into JSON.
+> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=6)** The API is going to return the list of products and render them into [[JSON]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=12)** A ListAPIView is a generic class-based view.
 >
-> **[0:16](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=16)** Django REST Framework provides a number of generic API Views and mixins that can help speed up development.
+> **[0:16](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=16)** [[Django]] [[Representational State Transfer (REST)|REST]] Framework provides a number of generic API Views and mixins that can help speed up development.
 >
 > **[0:24](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-listapiview-subclass?u=76281980&t=24)** We create the API View's file.
 >
@@ -281,14 +276,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), generic (5), [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2), [[Django]] (2)
 > **Env Vars:** api (8), rest (3), json (2)
 > **Code Identifiers:** rest_framework (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting an APIView to a route
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980)
+#### [Connecting an APIView to a route](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -304,7 +298,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=41)** That's all there is to it.
 >
-> **[0:42](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=42)** This will let us send a GET request to the API V1 product's URL, and get back a JSON response that shows a list of products.
+> **[0:42](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=42)** This will let us send a GET request to the API V1 product's URL, and get back a [[JSON]] response that shows a list of [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=51)** To run the server, you have to be in the top level directory.
 >
@@ -312,9 +306,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=70)** Now here's a cool way of testing to make sure the product's List API view is working.
 >
-> **[1:16](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=76)** We switch to the browser, and we can actually try out the REST API, from the browser.
+> **[1:16](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=76)** We switch to the browser, and we can actually try out the [[Representational State Transfer (REST)|REST]] API, from the browser.
 >
-> **[1:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=88)** This is what makes Django REST framework different from all other REST API frameworks.
+> **[1:28](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=88)** This is what makes [[Django]] REST framework different from all other REST API frameworks.
 >
 > **[1:34](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-apiview-to-a-route?u=76281980&t=94)** If you add a docstring to your API view subclass, it will actually show up in the web browser as documentation for the API.
 >
@@ -322,7 +316,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), product (5), [[Representational State Transfer (REST)|Rest]] (3), web (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (2), [[JSON]] (1), [[Django]] (1)
 > **Env Vars:** api (9), url (3), rest (3), json (1)
 > **Code Identifiers:** api_views (2), as_view (1)
 > **CLI Commands:** make (1)
@@ -330,16 +324,15 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter back ends with URL query parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980)
+#### [Filter back ends with URL query parameters](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=0)** - [Instructor] Now that we have a REST API that lists products, we can add product filtering using URL query parameters.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=0)** - [Instructor] Now that we have a [[Representational State Transfer (REST)|REST]] API that lists [[Microsoft Products|products]], we can add product filtering using URL query parameters.
 >
 > **[0:07](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=7)** In particular, we are going to be filtering products by whether they match a specific product ID, or whether they are on sale or not.
 >
-> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=17)** We import Django-filters, rest framework, filter backend,
+> **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=17)** We import [[Django]]-filters, rest framework, filter backend,
 >
 > **[0:26](https://www.linkedin.com/learning/building-restful-web-apis-with-django/filter-back-ends-with-url-query-parameters?u=76281980&t=26)** and then we add it to the product list.
 >
@@ -385,20 +378,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (6), [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (2), api (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** url (4), rest (1), api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling full-text search filter back end
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980)
+#### [Enabling full-text search filter back end](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=0)** - [Instructor] We have a list of products that can be filtered by ID, or whether they're on sale or not.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=0)** - [Instructor] We have a list of [[Microsoft Products|products]] that can be filtered by ID, or whether they're on sale or not.
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=6)** Now let's enable full text search so we can search through product names and descriptions.
 >
-> **[0:11](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=11)** We are going to use the SearchFilter, which is a filter back end built into Django REST framework.
+> **[0:11](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=11)** We are going to use the SearchFilter, which is a filter back end built into [[Django]] [[Representational State Transfer (REST)|REST]] framework.
 >
 > **[0:18](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=18)** We use it in the same way as the Django filter back end, by adding it to the product list's filter back ends list.
 >
@@ -416,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=79)** Let's clear the search and try another option.
 >
-> **[1:24](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=84)** And now we want to search for another word in the product description, "foo," as in food.
+> **[1:24](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=84)** And now we want to search for another [[Microsoft Word|word]] in the product description, "foo," as in food.
 >
 > **[1:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-full-text-search-filter-back-end?u=76281980&t=91)** Click filters, search, type in "foo" and you see that the product appears, and is filtered out. Through the search fields variable we can also control how the search for matching text is conducted.
 >
@@ -426,7 +418,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), [[Microsoft Word|Word]] (6), product (5), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Django]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** rest (2), url (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -434,14 +426,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Enabling pagination of querysets in API responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980)
+#### [Enabling pagination of querysets in API responses](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=0)** - [Instructor] Sometimes we may have a lot of results to return from the query set in our API response.
 >
-> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=6)** Django REST framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by Cursor.
+> **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=6)** [[Django]] [[Representational State Transfer (REST)|REST]] framework provides three ways to paginate results: by PageNumber, by Limit OffSet, and by Cursor.
 >
 > **[0:14](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=14)** The PageNumber pagination defaults to using Django's built-in paginator class and let's API consumers pass in a page number to get a page of results.
 >
@@ -465,7 +456,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=98)** Now we can use this custom pagination class for the product list API view.
 >
-> **[1:50](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=110)** This will add support for the Limit and OffSet URL query parameters which we can adjust in order to show fewer or more products.
+> **[1:50](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=110)** This will add support for the Limit and OffSet URL query parameters which we can adjust in order to show fewer or more [[Microsoft Products|products]].
 >
 > **[2:01](https://www.linkedin.com/learning/building-restful-web-apis-with-django/enabling-pagination-of-querysets-in-api-responses?u=76281980&t=121)** With the server already running, we can try this out in the browser.
 >
@@ -487,7 +478,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (3), product (3), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Django]] (3), [[Representational State Transfer (REST)|Rest]] (3), [[Microsoft Products|Products]] (3)
 > **Env Vars:** api (7), rest (3), url (2)
 > **Speakers:** - [instructor] (1)
 
@@ -496,16 +487,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a CreateAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
+#### [Creating a CreateAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=0)** - [Instructor] Now we want the ability to create new products through the API.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=0)** - [Instructor] Now we want the ability to create new [[Microsoft Products|products]] through the API.
 >
 > **[0:04](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=4)** In the API views we will create the product creation API view.
 >
-> **[0:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=10)** From REST framework we're going to import the exceptions that we need, and import the create API view.
+> **[0:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=10)** From [[Representational State Transfer (REST)|REST]] framework we're going to import the exceptions that we need, and import the create API view.
 >
 > **[0:24](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=24)** The bottom of the file we're going to create our new product creation, API view.
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=133)** Instead of creating models through the admin interface, we can use the API to build new interfaces that are very specific to certain scenarios.
 >
-> **[2:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=143)** Once scenario that I have encountered many times in real world projects, has been importing products from an Excel spreadsheet.
+> **[2:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=143)** Once scenario that I have encountered many times in real world projects, has been importing products from an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[2:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-createapiview-subclass?u=76281980&t=151)** It's possible to load product data from each row in a spreadsheet and simply use the REST API to create the product.
 >
@@ -543,13 +533,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (8), [[Representational State Transfer (REST)|Rest]] (6), product (5), [[Microsoft Products|Products]] (2), data (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[Microsoft Products|Products]] (2), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** api (8), rest (6)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting a CreateAPIView to the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980)
+#### [Connecting a CreateAPIView to the router](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -569,29 +558,28 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=72)** As you can see we get a response from the API indicating that the product was created.
 >
-> **[1:18](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=78)** This is something I do very often when I work with Rust APIs.
+> **[1:18](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=78)** This is something I do very often when I work with [[Rust (Programming Language)|Rust]] APIs.
 >
 > **[1:22](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=82)** The development team shares the curl scripts with each other so we can quickly create new models and test APIs to make sure they are working correctly.
 >
 > **[1:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=91)** Now, let's see how this looks in the browser.
 >
-> **[1:33](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=93)** Django REST Framework provides a nice interface that makes it easy for us to test creating new products.
+> **[1:33](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=93)** [[Django]] [[Representational State Transfer (REST)|REST]] Framework provides a nice interface that makes it easy for us to test creating new [[Microsoft Products|products]].
 >
 > **[1:43](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-createapiview-to-the-router?u=76281980&t=103)** So you can see we have a nice form with multiple fields for the product model that we can enter and then create another product.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), api (4), [[Rust (Programming Language)|Rust]] (1), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Rust (Programming Language)|Rust]] (1), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (4), url (3), rest (1)
 > **CLI Commands:** curl (2), make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Creating a DestroyAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980)
+#### [Creating a DestroyAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=0)** - We can list products, and create them, but what about if we want to delete products from the database?
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=0)** - We can list [[Microsoft Products|products]], and create them, but what about if we want to delete products from the database?
 >
 > **[0:07](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=7)** We can use the generic view DestroyAPIView to create an API for that.
 >
@@ -617,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=95)** and if the product was deleted successfully,
 >
-> **[1:44](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=104)** we're going to import the django.cache and delete the product_data from the cache.
+> **[1:44](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=104)** we're going to import the [[Django]].cache and delete the product_data from the cache.
 >
 > **[2:05](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-a-destroyapiview-subclass?u=76281980&t=125)** Then we just return to response, as per usual, and that's it.
 >
@@ -625,13 +613,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), api (2), database (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Django]] (1)
 > **Code Identifiers:** lookup_field (1), product_id (1), product_data (1)
 > **Env Vars:** api (2)
 > **Speakers:** - we (1)
 
-#### Connecting a DestroyAPIView to the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980)
+#### [Connecting a DestroyAPIView to the router](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,7 +634,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=49)** We click the destroy button and confirm the action.
 >
-> **[0:54](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=54)** We can also delete products through a curl command on the command line.
+> **[0:54](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=54)** We can also delete [[Microsoft Products|products]] through a curl command on the command line.
 >
 > **[0:59](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=59)** Let's create a new product and then delete it.
 >
@@ -659,23 +646,22 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=114)** And then hit enter, and it looks like the product is deleted now.
 >
-> **[2:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=120)** And that's how we delete a product through the browser, and through the command line using the REST API.
+> **[2:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-a-destroyapiview-to-the-router?u=76281980&t=120)** And that's how we delete a product through the browser, and through the command line using the [[Representational State Transfer (REST)|REST]] API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), api (4), [[Microsoft Products|Products]] (1), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (4), url (3), post (1), delete (1), rest (1)
 > **CLI Commands:** find (1), curl (1)
 > **API Endpoints:** post  (1), delete  (1)
 > **Tools:** command line (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an UpdateAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980)
+#### [Creating an UpdateAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=0)** - [Narrator] Right now we can delete individual products.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=0)** - [Narrator] Right now we can delete individual [[Microsoft Products|products]].
 >
 > **[0:03](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=3)** That happens through the DestroyAPIView, but what if we wanted to retrieve an individual product's data?
 >
@@ -685,7 +671,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=25)** We would again have to create another APIView this time using UpdateAPIView.
 >
-> **[0:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=31)** But why do all of that when we can just use Django rest frameworks generic view that combines all of those.
+> **[0:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=31)** But why do all of that when we can just use [[Django]] [[Representational State Transfer (REST)|rest]] frameworks generic view that combines all of those.
 >
 > **[0:38](https://www.linkedin.com/learning/building-restful-web-apis-with-django/creating-an-updateapiview-subclass?u=76281980&t=38)** With the RetrieveUpdateDestroyAPIView we cam reuse code and configuration.
 >
@@ -717,15 +703,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), data (3), [[Microsoft Products|Products]] (2), generic (2), [[Django]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Django]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Non-Speech:** (typing) (12)
 > **Env Vars:** http (2), url (1)
 > **Code Identifiers:** serialiszer_class (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connecting an UpdateAPIView to the router
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-updateapiview-to-the-router?u=76281980)
+#### [Connecting an UpdateAPIView to the router](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-updateapiview-to-the-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -747,11 +732,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-updateapiview-to-the-router?u=76281980&t=62)** And now let's delete this product.
 >
-> **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-updateapiview-to-the-router?u=76281980&t=70)** As you can see, we use Django REST framework's built in views, to make implementing common REST API operations very quick and easy to do.
+> **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/connecting-an-updateapiview-to-the-router?u=76281980&t=70)** As you can see, we use [[Django]] [[Representational State Transfer (REST)|REST]] framework's built in views, to make implementing common REST API operations very quick and easy to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), product (3), [[Representational State Transfer (REST)|Rest]] (2), data (1), [[Django]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Django]] (1)
 > **Env Vars:** api (4), url (3), rest (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -762,8 +747,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Serializer with only selected fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
+#### [Serializer with only selected fields](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,7 +771,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980&t=80)** This can be used if you want to rename a field.
 >
-> **[1:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980&t=83)** For instance, if you want the rest API to return a field called 'product name' rather than just 'name'.
+> **[1:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980&t=83)** For instance, if you want the [[Representational State Transfer (REST)|rest]] API to return a field called 'product name' rather than just 'name'.
 >
 > **[1:31](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-only-selected-fields?u=76281980&t=91)** Back to the code, we can add a description field that overrides the serializer field for description with a char field.
 >
@@ -801,18 +785,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), data (1), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - in (1)
 
-#### Serializer that shows model relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980)
+#### [Serializer that shows model relationships](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=0)** - [Man] For each user shopping on our e-commerce site they will be putting products into shopping carts.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=0)** - [Man] For each user shopping on our [[E-Commerce]] site they will be putting [[Microsoft Products|products]] into shopping carts.
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=6)** But from a developer perspective, we have multiple shopping carts to look at.
 >
@@ -850,9 +833,9 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=131)** In the Get cart item's method, the Many parameter is used to control whether one cart item is serialized or whether a list serializer is automatically created to serialize a collection of cart items.
 >
-> **[2:25](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=145)** Now let's try this out in the Django shell.
+> **[2:25](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=145)** Now let's try this out in the [[Django]] shell.
 >
-> **[2:30](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=150)** We import Json, we import our Models, and we import our Serializers.
+> **[2:30](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=150)** We import [[JSON]], we import our Models, and we import our Serializers.
 >
 > **[2:40](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-that-shows-model-relationships?u=76281980&t=160)** We're going to use the first Product.
 >
@@ -876,14 +859,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[JSON]] (2), data (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Django]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [man] (1)
 
-#### Number fields with serializers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980)
+#### [Number fields with serializers](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,11 +875,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=17)** We're going to ensure that only between one and 100 items of a particular type can be added to the shopping cart.
 >
-> **[0:30](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=30)** And now for products, we want to ensure that whenever we create or update them through the API, that the minimum price is set to at least $1 and the maximum price is never more than $100,000.
+> **[0:30](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=30)** And now for [[Microsoft Products|products]], we want to ensure that whenever we create or update them through the API, that the minimum price is set to at least $1 and the maximum price is never more than $100,000.
 >
 > **[0:44](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=44)** We can do this through the FloatField Configuration keyword arguments, min_value and max_value.
 >
-> **[0:53](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=53)** For example, most e-commerce sites will only allow free items through 100% off coupons and discount codes, such as the Bungie store website for the Destiny game which uses a very large price for products that require a discount code.
+> **[0:53](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=53)** For example, most [[E-Commerce]] sites will only allow free items through 100% off coupons and discount codes, such as the Bungie store website for the Destiny game which uses a very large price for products that require a discount code.
 >
 > **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/number-fields-with-serializers?u=76281980&t=70)** Now let's implement the FloatField for the product price.
 >
@@ -923,19 +905,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), api (1), [[E-Commerce]] (1), game (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[E-Commerce]] (1)
 > **Code Identifiers:** min_value (2), max_value (2), max_digits (1), decimal_places (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** api (1)
 > **Versions:** 299.999 (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Date and time fields with serializers
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980)
+#### [Date and time fields with serializers](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=0)** - [Narrator] Now we want to be able to set the sales dates for our product through the REST API.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=0)** - [Narrator] Now we want to be able to set the sales dates for our product through the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=6)** We are going to use the DateTime field to set the start and end dates of a sale.
 >
@@ -955,7 +936,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=104)** The output format is set to none, so that the sale start date and end date are always DateTime objects.
 >
-> **[1:53](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=113)** The input formats list can contain any custom format that is accepted by Python's string to time conversion function.
+> **[1:53](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=113)** The input formats list can contain any custom format that is accepted by [[Python (Programming Language)|Python]]'s string to time conversion function.
 >
 > **[2:02](https://www.linkedin.com/learning/building-restful-web-apis-with-django/date-and-time-fields-with-serializers?u=76281980&t=122)** The default is iso-8601, but we are using a custom format that accepts the hour, minute, whether it's the AM or PM for the hour, and then the day, month, and year, in that order.
 >
@@ -967,15 +948,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[Representational State Transfer (REST)|Rest]] (1), api (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Ports:** :01 (1), :59 (1)
 > **Env Vars:** rest (1), api (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Lists, dicts, and JSON objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980)
+#### [Lists, dicts, and JSON objects](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1011,7 +991,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980&t=111)** The serializer class is the ProductStatSerializer.
 >
-> **[1:59](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980&t=119)** And the queryset is all products.
+> **[1:59](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980&t=119)** And the queryset is all [[Microsoft Products|products]].
 >
 > **[2:05](https://www.linkedin.com/learning/building-restful-web-apis-with-django/lists-dicts-and-json-objects?u=76281980&t=125)** We override the get method.
 >
@@ -1047,19 +1027,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (7), api (2), next (1), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** rest_framework_response (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serializer with ImageField and FileField
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-imagefield-and-filefield?u=76281980)
+#### [Serializer with ImageField and FileField](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-imagefield-and-filefield?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-imagefield-and-filefield?u=76281980&t=0)** - [Narrator] Through the REST API we should be able to update existing product images or upload new product photos.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-imagefield-and-filefield?u=76281980&t=0)** - [Narrator] Through the [[Representational State Transfer (REST)|REST]] API we should be able to update existing product images or upload new product photos.
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/serializer-with-imagefield-and-filefield?u=76281980&t=6)** So, let's add the photo field.
 >
@@ -1107,7 +1086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (3), [[Representational State Transfer (REST)|Rest]] (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rest (1), api (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -1120,12 +1099,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test case for a CreateAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
+#### [Test case for a CreateAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=0)** - [Instructor] Testing Django REST framework API views is a bit different compared to testing Django views.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=0)** - [Instructor] Testing [[Django]] [[Representational State Transfer (REST)|REST]] framework API views is a bit different compared to testing Django views.
 >
 > **[0:06](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=6)** Django REST framework provides test case classes.
 >
@@ -1147,7 +1125,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=108)** If for whatever reason we couldn't create a new product, we're going to print out whatever response we got, so that we can see if there's an invalid field or any other information.
 >
-> **[2:05](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=125)** We're going to make sure a new product was created, by checking the count of all products, against initial product count, and then we're going to be checking the values that were set for the product,
+> **[2:05](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=125)** We're going to make sure a new product was created, by checking the count of all [[Microsoft Products|products]], against initial product count, and then we're going to be checking the values that were set for the product,
 >
 > **[2:36](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-createapiview-subclass?u=76281980&t=156)** and making sure they're set exactly right.
 >
@@ -1181,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Django]] (7), api (7), [[Representational State Transfer (REST)|Rest]] (5), data (3)
+> **Frameworks & Libraries:** [[Django]] (7), [[Representational State Transfer (REST)|Rest]] (5), [[Microsoft Products|Products]] (1)
 > **Env Vars:** api (7), rest (5), http (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
@@ -1189,12 +1167,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test case for a DestroyAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-destroyapiview-subclass?u=76281980)
+#### [Test case for a DestroyAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-destroyapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-destroyapiview-subclass?u=76281980&t=0)** - [Narrator] We tested creating products through the API, so let's test destroying and deleting products through the API.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-destroyapiview-subclass?u=76281980&t=0)** - [Narrator] We tested creating [[Microsoft Products|products]] through the API, so let's test destroying and deleting products through the API.
 >
 > **[0:09](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-destroyapiview-subclass?u=76281980&t=9)** We write a new test case for ProductDestroy.
 >
@@ -1212,18 +1189,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), api (2), database (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Non-Speech:** (typing) (8)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
 > **Speakers:** - [narrator] (1)
 
-#### Test case for a ListAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-listapiview-subclass?u=76281980)
+#### [Test case for a ListAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-listapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-listapiview-subclass?u=76281980&t=0)** - [Instructor] Let's write a test case for the list of products from the API.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-listapiview-subclass?u=76281980&t=0)** - [Instructor] Let's write a test case for the list of [[Microsoft Products|products]] from the API.
 >
 > **[0:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/test-case-for-a-listapiview-subclass?u=76281980&t=10)** ProductListTestCase is the name and it also uses the APITestCase.
 >
@@ -1243,12 +1219,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), api (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unit test for an UpdateAPIView subclass
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980)
+#### [Unit test for an UpdateAPIView subclass](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1262,7 +1237,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980&t=51)** We're going to be updating the name to new product, updating the description, and then updating the price.
 >
-> **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980&t=70)** Format of the request is JSON, and then we retrieve the updated product
+> **[1:10](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980&t=70)** Format of the request is [[JSON]], and then we retrieve the updated product
 >
 > **[1:25](https://www.linkedin.com/learning/building-restful-web-apis-with-django/unit-test-for-an-updateapiview-subclass?u=76281980&t=85)** from the database, and we're going to make sure that the name has actually updated.
 >
@@ -1282,15 +1257,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), api (2), data (2), [[JSON]] (1), database (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (2), patch (2), url (1), json (1), updi (1)
 > **API Endpoints:** patch  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Handling image uploads in a unit test
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980)
+#### [Handling image uploads in a unit test](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1272,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=7)** We begin by importing OS.Path, since we are dealing with files and images.
 >
-> **[0:15](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=15)** And we're going to import Django settings.
+> **[0:15](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=15)** And we're going to import [[Django]] settings.
 >
 > **[0:23](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=23)** And then we go to the product update Test Case, and we add a New Test Case to it, for Upload Product Photo.
 >
@@ -1312,7 +1286,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=77)** going to to store that photo data, and use it to update the product photo.
 >
-> **[1:46](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=106)** And the format is not Json, but it is Multipart because it is an upload.
+> **[1:46](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=106)** And the format is not [[JSON]], but it is Multipart because it is an upload.
 >
 > **[1:53](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=113)** And immediately after that, we're going to be checking to ensure that the Response Status Code was a 200 and okay.
 >
@@ -1330,11 +1304,11 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=212)** As you can see, it works.
 >
-> **[3:34](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=214)** For your own projects, it's very important to check file and image uploads are working because failed uploads are very noticeable and can cause a bad user experience.
+> **[3:34](https://www.linkedin.com/learning/building-restful-web-apis-with-django/handling-image-uploads-in-a-unit-test?u=76281980&t=214)** For your own projects, it's very important to check file and image uploads are working because failed uploads are very noticeable and can cause a bad [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), database (2), [[Django]] (1), data (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Django]] (1), [[JSON]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
@@ -1345,20 +1319,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for joining me on this journey to create REST APIs with Django REST framework.
+> **[0:00](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=0)** - [Rudolf] Thanks for joining me on this journey to create [[Representational State Transfer (REST)|REST]] APIs with [[Django]] REST framework.
 >
 > **[0:05](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=5)** From here you can learn how to design RESTful APIs.
 >
-> **[0:08](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=8)** Then you can learn to optimize your environment with Advanced Web Development with Django.
+> **[0:08](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=8)** Then you can learn to optimize your environment with Advanced [[Web Development]] with Django.
 >
-> **[0:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=13)** And then you can learn out to create front-end code for consuming the REST API using React.
+> **[0:13](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=13)** And then you can learn out to create front-end code for consuming the REST API using [[React.js|React]].
 >
-> **[0:19](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=19)** You can connect with me on LinkedIn or on my website, [neverfriday.com](https://neverfriday.com).
+> **[0:19](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=19)** You can connect with me on [[LinkedIn]] or on my website, [neverfriday.com](https://neverfriday.com).
 >
 > **[0:24](https://www.linkedin.com/learning/building-restful-web-apis-with-django/next-steps?u=76281980&t=24)** Thanks for watching.
 >
@@ -1366,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[Web Development]] (1), front-end (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Django]] (2), [[Web Development]] (1), [[React.js|React]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rest (3), api (1)
 > **URLs:** [neverfriday.com](https://neverfriday.com) (1)
 > **Speakers:** - [rudolf] (1)

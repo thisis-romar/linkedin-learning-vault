@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### React components, context, and accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
+#### [React components, context, and accessibility](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980&t=0)** - Once you get beyond the React basics, it's time to explore ways to handle state management and accessibility with more precision.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980&t=0)** - Once you get beyond the [[React.js|React]] basics, it's time to explore ways to handle state management and accessibility with more precision.
 >
 > **[0:08](https://www.linkedin.com/learning/react-components-context-and-accessibility/react-components-context-and-accessibility?u=76281980&t=8)** Hi, I'm Eve Porcello.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), management (1), api (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - once (1)
 
@@ -113,20 +112,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rendering arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
+#### [Rendering arrays](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=0)** - [Instructor] To get started, let's take a look at our exercise files.
 >
-> **[0:03](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=3)** In chapter one lesson two, you'll find the HTML file set up and ready to go.
+> **[0:03](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=3)** In chapter one lesson two, you'll find the [[HTML]] file set up and ready to go.
 >
-> **[0:08](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=8)** We're going to be writing most of our code here not to get bogged down in JavaScript tooling, but to instead focus on these important concepts.
+> **[0:08](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=8)** We're going to be writing most of our code here not to get bogged down in [[JavaScript]] tooling, but to instead focus on these important concepts.
 >
 > **[0:17](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=17)** The file is set up with Babel to compile ES.Next syntax and JSX into JavaScript that the browser can read.
 >
-> **[0:25](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=25)** We're also going to include React and React dom.
+> **[0:25](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=25)** We're also going to include [[React.js|React]] and React dom.
 >
 > **[0:28](https://www.linkedin.com/learning/react-components-context-and-accessibility/rendering-arrays?u=76281980&t=28)** All of our code will be written here in this script tag where we've indicated that we're going to transpile, or compile everything that's inside of this script tag.
 >
@@ -212,7 +210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[React.js|React]] (6), [[JavaScript]] (2), next (2), dom (2)
+> **Frameworks & Libraries:** [[React.js|React]] (6), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** html (1), jsx (1)
 > **Definitions:** in other words (1), is a  (1)
 > **Prerequisites:** set up (2)
@@ -221,8 +219,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### setState() changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/setstate-changes?u=76281980)
+#### [setState() changes](https://www.linkedin.com/learning/react-components-context-and-accessibility/setstate-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +313,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), application (1), functional (1)
 > **Env Vars:** jsx (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** in the menu (1)
@@ -324,8 +320,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### How to use CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980)
+#### [How to use CoderPad](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -335,9 +330,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=16)** These challenges are hosted by CoderPad and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:24](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with these code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:24](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=24)** We recommend using a desktop browser for the best experience with these code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
-> **[0:34](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=34)** The code challenge has four areas: instructions up here on the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used down here in this test code panel, and then a console for output as well as the render because this challenge is using React.
+> **[0:34](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=34)** The code challenge has four areas: instructions up here on the top left, a code editor for your answer in the top right, another code editor where you can see how your code is used down here in this test code panel, and then a console for output as well as the render because this challenge is using [[React.js|React]].
 >
 > **[0:54](https://www.linkedin.com/learning/react-components-context-and-accessibility/how-to-use-coderpad?u=76281980&t=54)** You can use these drag handles to allocate space as you'd like.
 >
@@ -371,14 +366,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implementing array-based state updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-array-based-state-updates?u=76281980)
+#### [Solution: Implementing array-based state updates](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-array-based-state-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +416,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** newtask (2), handleaddtask (1), setstate (1), prevstate (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
@@ -434,8 +427,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compound components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
+#### [Compound components](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +437,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980&t=14)** The display component is going to display something based on a truthy or falsy variable, so let's do this, we're gonna say if truthy is true, we'll set that default argument there, and then finally we will pass in children.
 >
-> **[0:33](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980&t=33)** The next step is we're going to use another one of those in line if else, we're gonna check to see if truthy is true, now if it is, then we're going to call this function react.children.only so what this is gonna do is it's going to make sure that children only has one child and then it's going to return it, the other option is just to return null, so if there are no children then we'll return null.
+> **[0:33](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980&t=33)** The next step is we're going to use another one of those in line if else, we're gonna check to see if truthy is true, now if it is, then we're going to call this function [[React.js|react]].children.only so what this is gonna do is it's going to make sure that children only has one child and then it's going to return it, the other option is just to return null, so if there are no children then we'll return null.
 >
 > **[1:04](https://www.linkedin.com/learning/react-components-context-and-accessibility/compound-components-2?u=76281980&t=64)** We'll also setup here a value for h, let's go ahead and set that to 18, and we're also going to use if truthy, we're gonna pass down this property so we'll say, age is greater than or equal to, 18, so our display component we're gonna want to render some sort of a child here, so let's go ahead and render an h1, this h1 should say you can vote, that's US rules there, now if this is true, if this evaluates as true, we're gonna go ahead
 >
@@ -465,15 +457,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5)
 > **CLI Commands:** make (1)
 > **Documentation:** the docs (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uncontrolled components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980)
+#### [Uncontrolled components](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -483,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=9)** And then to capture input values we'll use refs.
 >
-> **[0:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=12)** So let's first get rid of this display stuff from before instead we're going to render a component called encouragement form, this is gonna encourage us to keep programming, and, we'll say encouragement form extends react component, of course this is gonna render something we will render a form.
+> **[0:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=12)** So let's first get rid of this display stuff from before instead we're going to render a component called encouragement form, this is gonna encourage us to keep programming, and, we'll say encouragement form extends [[React.js|react]] component, of course this is gonna render something we will render a form.
 >
 > **[0:49](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=49)** Now the form should have a label and inside of that label we will add the label text so we'll say send an encouraging message
 >
@@ -501,17 +492,16 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=173)** So once I give that a save and refresh, and I send another encouraging message like, you're doing great, this should alert me that I'm doing great and that this value has been captured.
 >
-> **[3:11](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=191)** So this is one way that we can handle creating forms with react, in the next lesson we're gonna look at how we can do this with components instead of working with the dom directly.
+> **[3:11](https://www.linkedin.com/learning/react-components-context-and-accessibility/uncontrolled-components?u=76281980&t=191)** So this is one way that we can handle creating [[Forms]] with react, in the next lesson we're gonna look at how we can do this with components instead of working with the dom directly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2), [[React.js|React]] (2), [[Programming]] (1), [[Forms]] (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (2), [[Forms]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlled components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/controlled-components-2?u=76281980)
+#### [Controlled components](https://www.linkedin.com/learning/react-components-context-and-accessibility/controlled-components-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,14 +555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), prompt (1), next (1)
 > **Code Identifiers:** handlechange (5), handlesubmit (2)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Solution: Creating a compound component system
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980)
+#### [Solution: Creating a compound component system](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -598,7 +586,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980&t=77)** Now let's replace everything that's in this little expression here.
 >
-> **[1:25](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980&t=85)** And we're going to say react.children.map.
+> **[1:25](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980&t=85)** And we're going to say [[React.js|react]].children.map.
 >
 > **[1:32](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-creating-a-compound-component-system?u=76281980&t=92)** This.props.children, and then we'll take in a callback function here.
 >
@@ -648,12 +636,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
+#### [Working with fragments](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980&t=0)** - [Instructor] When we're working on a React project, it's really common to use a component to return multiple elements.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980&t=0)** - [Instructor] When we're working on a [[React.js|React]] project, it's really common to use a component to return multiple elements.
 >
 > **[0:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-fragments?u=76281980&t=6)** Maybe you're returning a collection of list items, or maybe some rows for a table, but with some of the rendering rules surrounding React, this may mean adding a ton of additional nodes to the DOM.
 >
@@ -745,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (10), dom (4), css (3), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (10)
 > **Env Vars:** dom (4), css (3), jsx (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** getelementbyid (1)
@@ -754,8 +741,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using keyed fragments
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980)
+#### [Using keyed fragments](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -771,7 +757,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=29)** Then we'll put together our component.
 >
-> **[0:32](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=32)** We're going to create a description list, a description list is an HTML tag that describes a list of terms.
+> **[0:32](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=32)** We're going to create a description list, a description list is an [[HTML]] tag that describes a list of terms.
 >
 > **[0:37](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=37)** So let's go ahead and adjust our app component, we'll no longer be rendering this header, but instead we're going to take in props and we're going to return the following, so let's get rid of these tags.
 >
@@ -783,7 +769,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=110)** So here's another place where fragments come in handy.
 >
-> **[1:54](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=114)** Instead of returning these DT and DD items we'll just return a fragment, and you can use react.fragment or that shortened syntax like I'm using here.
+> **[1:54](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=114)** Instead of returning these DT and DD items we'll just return a fragment, and you can use [[React.js|react]].fragment or that shortened syntax like I'm using here.
 >
 > **[2:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-keyed-fragments?u=76281980&t=126)** And as simple as that we should be able to see that this is working, awesome.
 >
@@ -799,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), data (3), [[HTML]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[HTML]] (1)
 > **Code Identifiers:** skidictionary (3)
 > **Warnings:** warning (3)
 > **Env Vars:** html (1), jsx (1)
@@ -808,12 +794,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### New component lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/new-component-lifecycle?u=76281980)
+#### [New component lifecycle](https://www.linkedin.com/learning/react-components-context-and-accessibility/new-component-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/new-component-lifecycle?u=76281980&t=0)** - [Instructor] Whenever you create a React component, there are several life cycle methods that you can use to execute code at particular moments in the life span of a component.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/new-component-lifecycle?u=76281980&t=0)** - [Instructor] Whenever you create a [[React.js|React]] component, there are several life cycle methods that you can use to execute code at particular moments in the life span of a component.
 >
 > **[0:09](https://www.linkedin.com/learning/react-components-context-and-accessibility/new-component-lifecycle?u=76281980&t=9)** Now if you have the life cycle methods that we have used in the past will be deprecated in React 17.
 >
@@ -859,7 +844,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), data (2), dom (2), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **Code Identifiers:** getderivedstatefromprops (2), componentdidupdate (2), shouldcomponentupdate (1), getsnapshotbeforeupdate (1), componentwillunmount (1)
 > **Definitions:** is called (4), is a  (2)
 > **CLI Commands:** make (2)
@@ -867,8 +852,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Implementing a fragment-based layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980)
+#### [Solution: Implementing a fragment-based layout](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -930,7 +914,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980&t=213)** So let's test the code again, and it looks like everything is passing.
 >
-> **[3:40](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980&t=220)** Now if you want to avoid the div here, you can remove that and instead use the shorthand for our React fragment here.
+> **[3:40](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980&t=220)** Now if you want to avoid the div here, you can remove that and instead use the shorthand for our [[React.js|React]] fragment here.
 >
 > **[3:54](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-implementing-a-fragment-based-layout?u=76281980&t=234)** And it looks like all of our tests are now passing.
 >
@@ -942,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dom (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** setstate (3), componentdidmount (2), prevstate (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -953,12 +937,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the context API
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
+#### [Understanding the context API](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980&t=0)** - [Instructor] In React applications we create nested component trees to compose our user interfaces.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980&t=0)** - [Instructor] In [[React.js|React]] applications we create nested component trees to [[Jetpack Compose|compose]] our user interfaces.
 >
 > **[0:05](https://www.linkedin.com/learning/react-components-context-and-accessibility/understanding-the-context-api?u=76281980&t=5)** In early React apps sometimes you'd see state everywhere.
 >
@@ -1042,20 +1025,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), data (4), next (2), [[Jetpack Compose|Compose]] (1), management (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[Jetpack Compose|Compose]] (1)
 > **Env Vars:** api (1)
 > **Versions:** react 16 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using context
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980)
+#### [Using context](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980&t=0)** - [Instructor] Let's take a closer look at how we can use context to pass data down to our child components.
 >
-> **[0:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980&t=6)** The first step is we're going to create a context value, which will be called Context, and this is going to use a function called createContext from the react package.
+> **[0:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980&t=6)** The first step is we're going to create a context value, which will be called Context, and this is going to use a function called createContext from the [[React.js|react]] package.
 >
 > **[0:19](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-context?u=76281980&t=19)** Next, we're gonna create a provider.
 >
@@ -1131,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[React.js|React]] (2)
+> **Frameworks & Libraries:** [[React.js|React]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** createcontext (1)
@@ -1139,8 +1121,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Referencing context in stateless functional components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/referencing-context-in-stateless-functional-components?u=76281980)
+#### [Referencing context in stateless functional components](https://www.linkedin.com/learning/react-components-context-and-accessibility/referencing-context-in-stateless-functional-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1192,15 +1173,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), data (1), next (1), hit (1)
 > **Env Vars:** api (2), open (2), closed (2)
 > **Code Identifiers:** onclick (2), changestatus (2), setstate (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working with higher-order components
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980)
+#### [Working with higher-order components](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1250,7 +1229,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=132)** We're nesting a component inside of another one.
 >
-> **[2:15](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=135)** So we're returning a DataComponent, which will extend React.Component.
+> **[2:15](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=135)** So we're returning a DataComponent, which will extend [[React.js|React]].Component.
 >
 > **[2:23](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=143)** Now let's take us through a few steps here, so step one is we're gonna create a constructor.
 >
@@ -1310,13 +1289,13 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=294)** We're gonna set the loading to true.
 >
-> **[4:59](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=299)** We then are gonna use fetch.
+> **[4:59](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=299)** We then are gonna use [[Fetch]].
 >
 > **[5:01](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=301)** So fetch is a way that we can make a request for some data.
 >
 > **[5:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=306)** So fetch is a promise.
 >
-> **[5:07](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=307)** We will use .then and we'll take the response and we'll convert it to JSON.
+> **[5:07](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=307)** We will use .then and we'll take the response and we'll convert it to [[JSON]].
 >
 > **[5:15](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-higher-order-components?u=76281980&t=315)** And then finally we want to use another then method to take this data and use it to set state.
 >
@@ -1376,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[React.js|React]] (3), [[Fetch]] (3), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Fetch]] (3), [[JSON]] (1)
 > **Env Vars:** url (6), json (1)
 > **Definitions:** is a  (4), means that (2)
 > **Code Identifiers:** componentdidmount (3), setstate (2)
@@ -1385,12 +1364,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with render props
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-render-props?u=76281980)
+#### [Working with render props](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-render-props?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-render-props?u=76281980&t=0)** - [Narrator] A popular technique when rendering React components is to use a pattern called render props.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-render-props?u=76281980&t=0)** - [Narrator] A popular technique when rendering [[React.js|React]] components is to use a pattern called render props.
 >
 > **[0:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/working-with-render-props?u=76281980&t=6)** Now we got a little sneak preview of this when we were looking at the context API.
 >
@@ -1456,22 +1434,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), data (2), api (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (1), jsx (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Render props in the wild: React Apollo
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980)
+#### [Render props in the wild: React Apollo](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=0)** - [Announcer] As we saw in the last video render props are a great way to load dynamic data into React applications.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=0)** - [Announcer] As we saw in the last video render props are a great way to load dynamic data into [[React.js|React]] applications.
 >
 > **[0:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=6)** Not only can you use render props in your own apps, but you'll probably encounter then when working with popular libraries in the eco-system.
 >
-> **[0:14](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=14)** For example Apollo Client an amazing tool for working with GraphQL, has something called React Apollo which provides bindings between your GraphQL service and your React components.
+> **[0:14](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=14)** For example Apollo Client an amazing tool for working with [[GraphQL]], has something called React Apollo which provides bindings between your GraphQL service and your React components.
 >
 > **[0:26](https://www.linkedin.com/learning/react-components-context-and-accessibility/render-props-in-the-wild-react-apollo?u=76281980&t=26)** You'll notice that we use the query component to display the result of the rates query and map the results to React elements.
 >
@@ -1481,13 +1458,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (5), [[GraphQL]] (2), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (5), [[GraphQL]] (2)
 > **Cross-References:** as we saw (1), in the last (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [announcer] (1)
 
-#### Solution: Building a context-based theme system
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980)
+#### [Solution: Building a context-based theme system](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980&t=13)** So we can set light mode and dark mode for our project here.
 >
-> **[0:20](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980&t=20)** We start by creating the theme context with react.createcontext.
+> **[0:20](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980&t=20)** We start by creating the theme context with [[React.js|react]].createcontext.
 >
 > **[0:24](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-a-context-based-theme-system?u=76281980&t=24)** Then we're creating a class which is going to help us to provide that data to anything that lives inside of it.
 >
@@ -1537,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), data (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **UI Navigation:** toggle (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
@@ -1548,8 +1524,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web accessibility overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
+#### [Web accessibility overview](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1583,7 +1558,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980&t=73)** And then, finally, learning impairments, which include memory loss, comprehension, and attention.
 >
-> **[1:21](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980&t=81)** One of the great things about the React team is that they really care about making React apps accessibly to wide audiences.
+> **[1:21](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980&t=81)** One of the great things about the [[React.js|React]] team is that they really care about making React apps accessibly to wide audiences.
 >
 > **[1:28](https://www.linkedin.com/learning/react-components-context-and-accessibility/web-accessibility-overview?u=76281980&t=88)** I encourage you to check out the documentation to learn more about their approach.
 >
@@ -1591,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), web application (1), web (1), next (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1600,12 +1575,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Viewing React accessibility warnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980)
+#### [Viewing React accessibility warnings](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=0)** - [Narrator] Create React App is an amazing tool for building React applications.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=0)** - [Narrator] Create [[React.js|React]] App is an amazing tool for building React applications.
 >
 > **[0:04](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=4)** With a simple command, you can generate an entire React project.
 >
@@ -1613,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=15)** To get started with this, let's make sure that we're in Chapter Five, 05_02, start, and we're going to install Create React App.
 >
-> **[0:26](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=26)** So, I'm going to run sudo npm install -g create-react-app.
+> **[0:26](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=26)** So, I'm going to run sudo [[npm]] install -g create-react-app.
 >
 > **[0:32](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=32)** I'll enter my password.
 >
@@ -1653,7 +1627,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=186)** So, as soon as I do that, we're going to see that all of the warnings have been removed.
 >
-> **[3:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=192)** So, we're seeing this because Create React App is configured with a fantastic tool called ESLint-plugin-jsx-a11y.
+> **[3:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=192)** So, we're seeing this because Create React App is configured with a fantastic tool called [[ESLint]]-plugin-jsx-a11y.
 >
 > **[3:21](https://www.linkedin.com/learning/react-components-context-and-accessibility/viewing-react-accessibility-warnings?u=76281980&t=201)** This linting tool will watch for and report on any accessibility issues with your code.
 >
@@ -1665,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (2), next (2), prompt (1), cd (1)
+> **Frameworks & Libraries:** [[React.js|React]] (7), [[npm]] (2), [[ESLint]] (1)
 > **CLI Commands:** make (3), find (2), npm (2), sudo (1), cd (1)
 > **Prerequisites:** install (2)
 > **File Paths:** app.js (1)
@@ -1674,8 +1648,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** warning (1)
 
-#### Using semantic HTML
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980)
+#### [Using semantic HTML](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1701,7 +1674,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=73)** Of course you can still use divs, but if you're using a div for a tag that might fit into one these semantic categories, it's usually smart to use a semantic tag instead.
 >
-> **[1:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=82)** And the reason for that is because semantic markup makes it easier to select elements with CSS or JavaScript.
+> **[1:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=82)** And the reason for that is because [[Semantic Markup]] makes it easier to select elements with CSS or [[JavaScript]].
 >
 > **[1:30](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=90)** There are more descriptive meanings for these tags.
 >
@@ -1715,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=117)** You can always replace these tags and these can wrap around elements to describe this stuff in more detail.
 >
-> **[2:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=126)** So there's no limitation when it comes to react with how you can use these semantic tags.
+> **[2:06](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=126)** So there's no limitation when it comes to [[React.js|react]] with how you can use these semantic tags.
 >
 > **[2:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-semantic-html?u=76281980&t=132)** I'll encourage you to use them as much as you can, and this will provide more meaning to devices like screen readers and even to search engines.
 >
@@ -1725,24 +1698,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), dom (1), generic (1), [[Semantic Markup]] (1), css (1)
+> **Frameworks & Libraries:** [[Semantic Markup]] (1), [[JavaScript]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** html5 (1), css (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### WAI-ARIA roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980)
+#### [WAI-ARIA roles](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=0)** - [Narrator] The W3C provides a list of accessible rich internet application standards that we can use to make web content usable by people with disabilities.
 >
-> **[0:11](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=11)** It also provides a list of attributes that can be used to enhance web accessibility.
+> **[0:11](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=11)** It also provides a list of attributes that can be used to enhance [[Web Accessibility]].
 >
 > **[0:16](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=16)** These are typically grouped into three categories: roles, properties, and states.
 >
-> **[0:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=22)** All of these can be seamlessly used in React components using jsx.
+> **[0:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=22)** All of these can be seamlessly used in [[React.js|React]] components using jsx.
 >
 > **[0:27](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=27)** Let's take a look at our app component.
 >
@@ -1770,7 +1742,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=116)** So, at this point, we can go to our terminal.
 >
-> **[2:01](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=121)** So, at this point, we will open our terminal and run npm start.
+> **[2:01](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=121)** So, at this point, we will open our terminal and run [[npm]] start.
 >
 > **[2:10](https://www.linkedin.com/learning/react-components-context-and-accessibility/wai-aria-roles?u=76281980&t=130)** And it looks like we're getting an error there, that's an easy one to fix.
 >
@@ -1796,7 +1768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), application (1), web (1), [[Web Accessibility]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Web Accessibility]] (1), [[React.js|React]] (1), [[npm]] (1)
 > **CLI Commands:** make (1), find (1), npm (1)
 > **Tools:** terminal (2), atom (1)
 > **Env Vars:** w3c (2)
@@ -1805,12 +1777,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** kind of like (1)
 
-#### Accessibility testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/accessibility-testing?u=76281980)
+#### [Accessibility testing](https://www.linkedin.com/learning/react-components-context-and-accessibility/accessibility-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/accessibility-testing?u=76281980&t=0)** - [Narrator] Even though this tool is not specifically for React applications, you can use it literally for anything, I wanted to point out this very, very useful Chrome extension that I would encourage you all to install.
+> **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/accessibility-testing?u=76281980&t=0)** - [Narrator] Even though this tool is not specifically for [[React.js|React]] applications, you can use it literally for anything, I wanted to point out this very, very useful Chrome extension that I would encourage you all to install.
 >
 > **[0:12](https://www.linkedin.com/learning/react-components-context-and-accessibility/accessibility-testing?u=76281980&t=12)** It's called aXe and it's from Deque Systems, and if you add this to Chrome, then you can run an accessibility check on any website in Chrome to check for any violations.
 >
@@ -1846,7 +1817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (1), node (1), dom (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Code Identifiers:** axe (6)
 > **CLI Commands:** node (1), make (1)
 > **UI Navigation:** click on (2)
@@ -1855,8 +1826,7 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Prerequisites:** install (1)
 
-#### Solution: Building an accessible navigation system
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-an-accessible-navigation-system?u=76281980)
+#### [Solution: Building an accessible navigation system](https://www.linkedin.com/learning/react-components-context-and-accessibility/solution-building-an-accessible-navigation-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1916,22 +1886,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=0)** - [Eve] Thank you so much for taking this course.
 >
-> **[0:03](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=3)** From here, there are many different directions that you can head in with your study of React and related tools.
+> **[0:03](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=3)** From here, there are many different directions that you can head in with your study of [[React.js|React]] and related tools.
 >
 > **[0:09](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=9)** If you're interesting in testing, I'd check out Jest.
 >
 > **[0:13](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=13)** If you want to learn more about how to manage your styles in React, I'd definitely recommend the library Styled Components.
 >
-> **[0:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=22)** If you want to learn more about how to use your React skills to build native apps, I'd definitely look at React Native, it's really cool.
+> **[0:22](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=22)** If you want to learn more about how to use your React skills to build native apps, I'd definitely look at [[React Native]], it's really cool.
 >
-> **[0:29](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=29)** And then finally, if you want to learn more about declarative data fetching, I would check out GraphQL.
+> **[0:29](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=29)** And then finally, if you want to learn more about declarative data fetching, I would check out [[GraphQL]].
 >
 > **[0:36](https://www.linkedin.com/learning/react-components-context-and-accessibility/next-steps?u=76281980&t=36)** Now, you don't need any of these things to work with React, of course, but these are some pretty cool related libraries and packages.
 >
@@ -1941,7 +1910,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), data (1), [[GraphQL]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (4), [[React Native]] (1), [[GraphQL]] (1)
 > **Speakers:** - [eve] (1)
 
 
@@ -1949,8 +1918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/react-components-context-and-accessibility/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >

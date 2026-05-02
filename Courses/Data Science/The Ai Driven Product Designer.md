@@ -69,14 +69,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How AI is transforming product design
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
+#### [How AI is transforming product design](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980&t=0)** - [Drew] Without a doubt, AI is changing how we design our software products.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980&t=0)** - [Drew] Without a doubt, AI is changing how we design our software [[Microsoft Products|products]].
 >
-> **[0:04](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980&t=4)** New tools are advancing product strategy, product management, UX research design, and how we code our apps.
+> **[0:04](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980&t=4)** New tools are advancing [[Product Strategy]], product management, [[UX Research]] design, and how we code our apps.
 >
 > **[0:11](https://www.linkedin.com/learning/the-ai-driven-product-designer/how-ai-is-transforming-product-design?u=76281980&t=11)** In this course, I'm going to cover a bunch of tips that can help anyone working on product designs, from founders to product managers to UX designers to adapt and use AI in ways that will help you make better products faster.
 >
@@ -86,7 +85,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), ai (2), [[Microsoft Products|Products]] (2), ux (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Strategy]] (1), [[UX Research]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [drew] (1)
 
@@ -95,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating mood boards using AI image tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
+#### [Creating mood boards using AI image tools](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=0)** - [Speaker] An easy way to start integrating AI into your product design workflow is to use it to get alignment on design direction.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=0)** - [Speaker] An easy way to start integrating AI into your [[Product Design]] workflow is to use it to get alignment on design direction.
 >
 > **[0:07](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=7)** Collaborating cross-functionally can be a challenge.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=115)** Keywords that express your idea can be helpful, innovative, fun, engaging.
 >
-> **[2:01](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=121)** These are all good descriptors that ChatGPT or other tools can use to generate images.
+> **[2:01](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=121)** These are all good descriptors that [[ChatGPT]] or other tools can use to generate images.
 >
 > **[2:07](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=127)** And finally, anything visual you can add will really help in the generation of the moodboard.
 >
@@ -216,7 +214,7 @@ created: 2026-05-02
 >
 > **[6:36](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=396)** And then you'll have a nice set of samples that you can show and determine what your team likes and doesn't like.
 >
-> **[6:44](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=404)** When you go to present this to your team, I recommend taking copious notes or using a no-taker tool like Otter in your Zoom call.
+> **[6:44](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=404)** When you go to present this to your team, I recommend taking copious notes or using a no-taker tool like Otter in your [[Zoom]] call.
 >
 > **[6:52](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=412)** And then you can actually feed those notes directly into ChatGPT and use ChatGPT to do the refinements and that will give you a final moodboard you can run from.
 >
@@ -246,11 +244,11 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=503)** You can feed directly into ChatGPT to make it easier to come up with your next iterations.
 >
-> **[8:28](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=508)** And then, of course, look deeper into typography, look at examples and share that with your team.
+> **[8:28](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-moodboards-using-ai-image-tools?u=76281980&t=508)** And then, of course, look deeper into [[Typography]], look at examples and share that with your team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (12), ai (5), product (5), functional (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (12), [[Product Design]] (2), [[Zoom]] (1), [[Typography]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** we talked about (1)
 > **Tools:** notion (1)
@@ -259,8 +257,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Warnings:** keep in mind (1)
 
-#### Using Uizard to make fast prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980)
+#### [Using Uizard to make fast prototypes](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -346,7 +343,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=231)** Alright, so when it's done, you'll see your prototype and then you can edit it directly.
 >
-> **[3:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=236)** So you can see, I zoom in, came up with this little graphic.
+> **[3:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=236)** So you can see, I [[Zoom]] in, came up with this little graphic.
 >
 > **[3:59](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=239)** That's actually kind of a cool graphic.
 >
@@ -362,7 +359,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=278)** I didn't talk anything about a profile.
 >
-> **[4:41](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=281)** So it's pretty cool, and then notice that you can go in and you can edit each piece of this, just like you would in a tool like Figma or something.
+> **[4:41](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=281)** So it's pretty cool, and then notice that you can go in and you can edit each piece of this, just like you would in a tool like [[Figma (Software)|Figma]] or something.
 >
 > **[4:49](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-uizard-to-make-fast-prototypes?u=76281980&t=289)** So I can change this.
 >
@@ -528,7 +525,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (5), product (4), functional (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (2), [[Zoom]] (1)
 > **UI Navigation:** go to (4), click on (2), toggle (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (3), find (1)
@@ -537,8 +534,7 @@ created: 2026-05-02
 > **Tools:** figma (2)
 > **Warnings:** keep in mind (1), note that (1)
 
-#### Screenshot or sketch to prototype using Uizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980)
+#### [Screenshot or sketch to prototype using Uizard](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -640,7 +636,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=213)** And while it's uploading, let's go ahead and have a look at the sketches.
 >
-> **[3:40](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=220)** So Uizard has a sketching guide here at app.[uizard.io/sketching-guide](https://uizard.io/sketching-guide).
+> **[3:40](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=220)** So Uizard has a [[Sketching]] guide here at app.[uizard.io/sketching-guide](https://uizard.io/sketching-guide).
 >
 > **[3:47](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=227)** And this will kind of give you some basic info you need, 'cause you want to make sure that you get your sketch just right.
 >
@@ -678,7 +674,7 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=300)** So I said I was going to use it in the design and I created it.
 >
-> **[5:04](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=304)** And if you zoom in, again, notice how everything is editable.
+> **[5:04](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=304)** And if you [[Zoom]] in, again, notice how everything is editable.
 >
 > **[5:07](https://www.linkedin.com/learning/the-ai-driven-product-designer/screenshot-or-sketch-to-prototype-using-uizard?u=76281980&t=307)** It even put our logo up here to sort of match how the website was, which I got to love, our company name.
 >
@@ -724,7 +720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), [[Sketching]] (2), ai (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (2), [[Zoom]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** picture (4), imagine (1)
 > **UI Navigation:** go to (2)
@@ -732,8 +728,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Strella to validate prototypes
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980)
+#### [Use Strella to validate prototypes](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,7 +762,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=81)** We played around with this when we were doing Wizard.
 >
-> **[1:23](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=83)** I actually have a Figma prototype that I'm going to use for this.
+> **[1:23](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=83)** I actually have a [[Figma (Software)|Figma]] prototype that I'm going to use for this.
 >
 > **[1:26](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=86)** So in our project we're going to define what our goals are, okay?
 >
@@ -933,7 +928,7 @@ created: 2026-05-02
 >
 > **[7:49](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=469)** But now I'm going to go ahead, I can close this and I'm going to head on in.
 >
-> **[7:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=476)** All right, so we put our name in John Doe.
+> **[7:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=476)** All right, so we put our name in [[John the Ripper|John]] Doe.
 >
 > **[8:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-strella-to-validate-prototypes?u=76281980&t=480)** I'm doing this as if I'm a customer.
 >
@@ -1149,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[Figma (Software)|Figma]] (3), data (2), prompt (2), ux (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (3), [[John the Ripper|John]] (1)
 > **Speakers:** - [ai] (10), - [instructor] (8), - i (2), - user (1), - mostly (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** make (4), find (2)
@@ -1158,12 +1153,11 @@ created: 2026-05-02
 > **Tools:** figma (3)
 > **Warnings:** keep in mind (1), note that (1), be aware (1)
 
-#### Use Figma’s AI tools to speed up design
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980)
+#### [Use Figma’s AI tools to speed up design](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=0)** - [Drew] Figma has become the defacto standard for designing user interfaces.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=0)** - [Drew] [[Figma (Software)|Figma]] has become the defacto standard for designing user interfaces.
 >
 > **[0:04](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=4)** The combination of powerful and flexible tools with an easy-to-use interface and access to plug-ins, templates, and components makes it one of the best ways to design prototypes and apps.
 >
@@ -1181,7 +1175,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=43)** For the purposes of this course, I'm going to assume that you have a basic understanding on how to use Figma.
 >
-> **[0:49](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=49)** I'm not going to get into detail about these, but there are a lot of great courses that cover this here in the LinkedIn Learning Library.
+> **[0:49](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=49)** I'm not going to get into detail about these, but there are a lot of great courses that cover this here in the [[LinkedIn]] Learning Library.
 >
 > **[0:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=56)** So if you have a look down at the bottom right of the toolbar, you see this little magic symbol.
 >
@@ -1215,7 +1209,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=145)** Now the AI will do the magic for us.
 >
-> **[2:28](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=148)** Now the idea is this will create, they've optimized this to make simple UIs that follow common design patterns for web or mobile apps, right?
+> **[2:28](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=148)** Now the idea is this will create, they've optimized this to make simple UIs that follow common [[Design Patterns]] for web or mobile apps, right?
 >
 > **[2:37](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-s-ai-tools-to-speed-up-design?u=76281980&t=157)** So it's not going to be flashy typically.
 >
@@ -1329,7 +1323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Figma (Software)|Figma]] (10), [[LinkedIn]] (1), hit (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (10), [[LinkedIn]] (1), [[Design Patterns]] (1)
 > **CLI Commands:** make (9), find (3)
 > **Tools:** figma (10)
 > **UI Navigation:** go to (2)
@@ -1338,12 +1332,11 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [drew] (1)
 
-#### Use Figma design-to-code tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980)
+#### [Use Figma design-to-code tools](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=0)** - [Instructor] Figma has become the main tool for creating UX designs, but one of the biggest challenges for Figma designers is handing their designs off to devs.
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=0)** - [Instructor] [[Figma (Software)|Figma]] has become the main tool for creating UX designs, but one of the biggest challenges for Figma designers is handing their designs off to devs.
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=9)** The advent of AI tools has given designers and developers a new and excitingly fast way to do this.
 >
@@ -1407,7 +1400,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=173)** Honestly, I love Lovable, but for now, we're just going to view the code in [Builder.io](https://Builder.io).
 >
-> **[2:58](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=178)** All right, so I'm going to sign in. I use my Google account.
+> **[2:58](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=178)** All right, so I'm going to sign in. I use my [[Google]] account.
 >
 > **[3:03](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=183)** All right, so here we are. You can see it's editable, right?
 >
@@ -1471,13 +1464,13 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=323)** Lovable integrates with Supabase.
 >
-> **[5:26](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=326)** Supabase is a realtime database, kind of like Google's Firebase, only Firebase is no SQL database.
+> **[5:26](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=326)** Supabase is a realtime database, kind of like Google's [[Firebase]], only Firebase is no [[SQL]] database.
 >
 > **[5:35](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=335)** This is a SQL database.
 >
 > **[5:36](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=336)** So it's normalized like that would be in terms of having relationships and all that stuff.
 >
-> **[5:41](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=341)** Then you can also link to GitHub.
+> **[5:41](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=341)** Then you can also link to [[GitHub]].
 >
 > **[5:43](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=343)** I can connect this as well, and I can push this all to my repo and use that for deployment and stuff.
 >
@@ -1527,11 +1520,11 @@ created: 2026-05-02
 >
 > **[7:21](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=441)** And then if you want to keep the code, you just sync it to GitHub.
 >
-> **[7:24](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=444)** And if you want to learn more, I recommend checking out my "Design-to-Code: Using AI to Build" course, here in the LinkedIn Learning Library.
+> **[7:24](https://www.linkedin.com/learning/the-ai-driven-product-designer/use-figma-design-to-code-tools?u=76281980&t=444)** And if you want to learn more, I recommend checking out my "Design-to-Code: Using AI to Build" course, here in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Figma (Software)|Figma]] (5), web (4), [[GitHub]] (4), database (3)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[GitHub]] (4), [[Google]] (2), [[Firebase]] (2), [[SQL]] (2)
 > **Tools:** figma (5), github (4)
 > **URLs:** [builder.io](https://builder.io) (8)
 > **Definitions:** is a  (3), is an  (1)
@@ -1540,8 +1533,7 @@ created: 2026-05-02
 > **Env Vars:** sql (2)
 > **Analogies:** for example (1), kind of like (1)
 
-#### Getting insights and opportunities from CX data
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980)
+#### [Getting insights and opportunities from CX data](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1669,7 +1661,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=316)** If you do feel that any are mistagged, you can move them around.
 >
-> **[5:19](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=319)** Additionally, you can connect Slack and you can have this app auto update these sources for new info and then post stuff to Slack to let you know.
+> **[5:19](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=319)** Additionally, you can connect [[Slack]] and you can have this app auto update these sources for new info and then post stuff to Slack to let you know.
 >
 > **[5:29](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=329)** So to utilize this data best, what you want to do is you want to create a new project.
 >
@@ -1701,7 +1693,7 @@ created: 2026-05-02
 >
 > **[6:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=411)** That's pretty good.
 >
-> **[6:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=411)** Now if you want to, you can actually export to Linear or Jira directly.
+> **[6:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=411)** Now if you want to, you can actually export to Linear or [[Jira]] directly.
 >
 > **[6:56](https://www.linkedin.com/learning/the-ai-driven-product-designer/getting-insights-and-opportunities-from-cx-data?u=76281980&t=416)** You can also create PRDs here.
 >
@@ -1737,7 +1729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), product (9), ai (4), feature (3), business (2)
+> **Frameworks & Libraries:** [[Slack]] (2), [[Jira]] (1)
 > **Env Vars:** prd (3), b2b (2)
 > **Tools:** slack (2), discord (1), safari (1), jira (1)
 > **CLI Commands:** find (3), make (1)
@@ -1746,8 +1738,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Code Identifiers:** ios (1)
 
-#### Generate sitemaps and content in Relume
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980)
+#### [Generate sitemaps and content in Relume](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,7 +1862,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=295)** So I can export this to Webflow.
 >
-> **[4:57](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=297)** You can export this also to Figma as well, or even React or straight HTML.
+> **[4:57](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=297)** You can export this also to [[Figma (Software)|Figma]] as well, or even [[React.js|React]] or straight [[HTML]].
 >
 > **[5:03](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=303)** So when you get everything all done, you can just pull it into Figma or Webflow or React or HTML.
 >
@@ -1885,7 +1876,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=324)** Now you have to upgrade in order to do that, but you can go directly to code.
 >
-> **[5:29](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=329)** Another thing that can be helpful is if you're a consultant, you can choose this CSV or an Excel, and it'll actually export the spreadsheet.
+> **[5:29](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=329)** Another thing that can be helpful is if you're a consultant, you can choose this CSV or an [[Microsoft Excel|Excel]], and it'll actually export the spreadsheet.
 >
 > **[5:42](https://www.linkedin.com/learning/the-ai-driven-product-designer/generate-sitemaps-and-content-in-relume?u=76281980&t=342)** So once you've exported the spreadsheet, you can go ahead and open it up, and then have a look at the spreadsheet.
 >
@@ -1917,7 +1908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), ai (4), prompt (4), application (3), [[React.js|React]] (3)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (5), [[React.js|React]] (3), [[HTML]] (3), [[Microsoft Excel|Excel]] (1)
 > **Tools:** figma (5)
 > **Env Vars:** html (3), csv (1)
 > **Definitions:** is a  (3)
@@ -1926,12 +1917,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 
-#### Creating a custom agent for research insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980)
+#### [Creating a custom agent for research insights](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=0)** - [Instructor] While we can learn a lot by asking ChatGPT and other LLM tools questions, what if we could train a model on our own data?
+> **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=0)** - [Instructor] While we can learn a lot by asking [[ChatGPT]] and other LLM tools questions, what if we could train a model on our own data?
 >
 > **[0:09](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=9)** What if we could have our own agent that exists of the data only that we want to search?
 >
@@ -1939,11 +1929,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=18)** We could train it on our knowledge base and look for gaps and ways to improve, we can train it on blog articles and have it generate ideas for future blog articles.
 >
-> **[0:27](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=27)** But in this video, we're going to look at how to use research data in our own agent using Google's NotebookLM.
+> **[0:27](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=27)** But in this video, we're going to look at how to use research data in our own agent using [[Google]]'s NotebookLM.
 >
 > **[0:35](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=35)** Now, in order for NotebookLM to work, we have to first make sure you have it turned on in your Google Admin.
 >
-> **[0:42](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=42)** So, if you go in this dot dot dot, there's an Admin menu, and under that, there's a Generative AI section, and you should have NotebookLM.
+> **[0:42](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=42)** So, if you go in this dot dot dot, there's an Admin menu, and under that, there's a [[Generative AI]] section, and you should have NotebookLM.
 >
 > **[0:49](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=49)** And just make sure it's on for everyone in order for it to work.
 >
@@ -1965,7 +1955,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=90)** With user research, I typically use a tool like Otter or Fathom.
 >
-> **[1:35](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=95)** These tools will not only record the video of my user interviews, but they'll also transcribe them.
+> **[1:35](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=95)** These tools will not only record the video of my [[User Interviews]], but they'll also transcribe them.
 >
 > **[1:41](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=101)** So, that way, I can have that transcript and I can upload it and make it searchable here.
 >
@@ -2091,7 +2081,7 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=392)** We looked at how we can import data.
 >
-> **[6:34](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=394)** In this case, we did it from Google Drive, but you can import it from websites or files or user research transcripts or even YouTube.
+> **[6:34](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=394)** In this case, we did it from [[Google Drive]], but you can import it from websites or files or user research transcripts or even YouTube.
 >
 > **[6:42](https://www.linkedin.com/learning/the-ai-driven-product-designer/creating-a-custom-agent-for-research-insights?u=76281980&t=402)** I can query insights like user needs, problem areas, product ideas.
 >
@@ -2115,7 +2105,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[ChatGPT]] (3), [[Google]] (3), product (3), llm (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Google]] (3), [[Generative AI]] (1), [[User Interviews]] (1), [[Google Drive]] (1)
 > **Env Vars:** prd (4), llm (2), dao (1), png (1)
 > **CLI Commands:** make (3), find (1)
 > **Tools:** discord (3)
@@ -2124,14 +2114,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** make sure you have (1)
 
-#### Using AI ethically and securely
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980)
+#### [Using AI ethically and securely](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=0)** - [Instructor] While the advent of AI gives us a lot of ways to do our jobs better and faster, it's important to take into consideration the ethical and security issues that could possibly arise using this technology.
 >
-> **[0:11](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=11)** Let's go over some of the security and ethical concerns when it comes to AI in product design.
+> **[0:11](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=11)** Let's go over some of the security and ethical concerns when it comes to AI in [[Product Design]].
 >
 > **[0:17](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=17)** The first and most important thing that you want to make sure you're doing is protecting sensitive data and intellectual property.
 >
@@ -2139,7 +2128,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=32)** Remember that anything you share will likely be added to the data pool.
 >
-> **[0:36](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=36)** It's even possible that some humans may see it, as conditions in some LLMs, like Google's Gemini, say that occasionally humans will view data and responses.
+> **[0:36](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=36)** It's even possible that some humans may see it, as conditions in some LLMs, like [[Google]]'s [[Gemini]], say that occasionally humans will view data and responses.
 >
 > **[0:46](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=46)** It's also important to check with the data retention and usage policies of any AI design tools.
 >
@@ -2165,7 +2154,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=103)** This means that if you're working on a top-secret, stealth mode, new app, you probably should subscribe so that not just anyone can see it and use it.
 >
-> **[1:53](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=113)** Here are a few things to consider when it comes to using generated content from some of the AI tools we use, like Relume, Wizard, and Figma.
+> **[1:53](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=113)** Here are a few things to consider when it comes to using generated content from some of the AI tools we use, like Relume, Wizard, and [[Figma (Software)|Figma]].
 >
 > **[2:02](https://www.linkedin.com/learning/the-ai-driven-product-designer/using-ai-ethically-and-securely?u=76281980&t=122)** When using AI images, you may want to flag that they're AI-generated in the alt or in captions if there's any reason that there might be confusion or concern about misrepresentation.
 >
@@ -2215,7 +2204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (12), [[Security]] (2), [[Google]] (2), product (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Product Design]] (1), [[Gemini]] (1), [[Figma (Software)|Figma]] (1)
 > **CLI Commands:** make (6)
 > **Best Practices:** it's best to (1), good practice (1), best practice (1)
 > **Warnings:** be careful (2), keep in mind (1)
@@ -2224,8 +2213,7 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Analogies:** for example (1)
 
-#### The future of product design with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980)
+#### [The future of product design with AI](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2233,7 +2221,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=7)** It's likely that AI will bring about massive shifts in how we work.
 >
-> **[0:11](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=11)** Let's take a look at how AI might change the way we worked in product design.
+> **[0:11](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=11)** Let's take a look at how AI might change the way we worked in [[Product Design]].
 >
 > **[0:16](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=16)** To start, AI will continue to bring us better data faster.
 >
@@ -2243,9 +2231,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=36)** Additionally, product analytics will become more powerful, making it easier to identify the needles in the haystack, the root causes for KPI shifts, finding trends as soon as they start, and even predict outcomes for implementing changes.
 >
-> **[0:52](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=52)** When you have those things all in combination, you can see how product strategy will become less trial and error supported by user research and desk research, and much more calculated.
+> **[0:52](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=52)** When you have those things all in combination, you can see how [[Product Strategy]] will become less trial and error supported by user research and desk research, and much more calculated.
 >
-> **[1:05](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=65)** Tools like Uizard, Relume, and Figma AI will continue to shorten design times.
+> **[1:05](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=65)** Tools like Uizard, Relume, and [[Figma (Software)|Figma]] AI will continue to shorten design times.
 >
 > **[1:10](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=70)** You'll be able to design prototypes at the speed of thought, and the more you design in these tools, the more you'll train them to output designs in the style and manner that you prefer.
 >
@@ -2257,7 +2245,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=105)** This could be a great boon for product designers, in some instances, allowing them to become the entire product team.
 >
-> **[1:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=111)** For early products, it will be very common to have only a designer who can use tools like [Builder.io](https://Builder.io) and Lovable to ship the product.
+> **[1:51](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=111)** For early [[Microsoft Products|products]], it will be very common to have only a designer who can use tools like [Builder.io](https://Builder.io) and Lovable to ship the product.
 >
 > **[1:59](https://www.linkedin.com/learning/the-ai-driven-product-designer/the-future-of-product-design-with-ai?u=76281980&t=119)** This will democratize app development by enabling people to make apps for themselves or for a specific purpose, whether they're internally or externally facing.
 >
@@ -2279,7 +2267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), ai (6), data (3), application (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Product Strategy]] (1), [[Figma (Software)|Figma]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** kpi (1), llm (1)
 > **URLs:** [builder.io](https://builder.io) (1)

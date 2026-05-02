@@ -75,12 +75,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling applications with Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
+#### [Scaling applications with Node.js](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=0)** - [Alex] Hello, welcome to Advanced Node.js: Scaling Applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=0)** - [Alex] Hello, welcome to Advanced [[Node.js]]: Scaling Applications.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=4)** I'm Alex Banks.
 >
@@ -106,9 +105,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=63)** Next we'll take a look at how data layers can be scaled.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=66)** Specifically, we'll discuss how to split data between databases using a technique called Horizontal Partitioning.
+> **[1:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=66)** Specifically, we'll discuss how to split data between [[Databases]] using a technique called Horizontal Partitioning.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=72)** Finally, we'll learn how to decompose our applications into even smaller applications, microservices.
+> **[1:12](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=72)** Finally, we'll learn how to decompose our applications into even smaller applications, [[Microservices]].
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-applications-with-node-js?u=76281980&t=79)** Microservices are tiny services that are designed to only work on part of the business features.
 >
@@ -126,26 +125,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), data (4), node (3), traffic (2), application (2)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[Microservices]] (2), [[Databases]] (1)
 > **CLI Commands:** node (10)
 > **File Paths:** node.js (7)
 > **Analogies:** just like (1)
 > **Speakers:** - [alex] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=0)** - [Instructor] This course focuses on what it takes to build and scale Node.js applications.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=0)** - [Instructor] This course focuses on what it takes to build and scale [[Node.js]] applications.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=5)** To be best prepared for this course, you may want to consider having some foundational knowledge in place.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=10)** First and foremost, any Node.js class is a JavaScript class, so make sure you're familiar with the latest JavaScript syntax.
+> **[0:10](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=10)** First and foremost, any Node.js class is a [[JavaScript]] class, so make sure you're familiar with the latest JavaScript syntax.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=17)** Specifically, we'll use arrow functions, destructuring for objects and arrays, and we'll be using the let and const declarations.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=25)** This course also assumes some knowledge of core Node.js modules like HTTP, NPM, and Express.
+> **[0:25](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=25)** This course also assumes some knowledge of core Node.js modules like HTTP, [[npm]], and Express.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/what-you-should-know-24004526?u=76281980&t=32)** It also assumes that you already have Node.js installed.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (6), [[JavaScript]] (2), [[npm]] (1), express (1)
+> **Frameworks & Libraries:** [[Node.js]] (6), [[JavaScript]] (2), [[npm]] (1)
 > **CLI Commands:** node (6), make (1), npm (1)
 > **File Paths:** node.js (6)
 > **Env Vars:** http (1), npm (1)
@@ -164,8 +162,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,11 +178,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=26)** When the video begins, I'll start with the files in the start folder, and when the video ends, I'll end with the files found in the finished folder.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=33)** Sometimes, you will find a packaged JSON in the start folder.
+> **[0:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=33)** Sometimes, you will find a packaged [[JSON]] in the start folder.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=37)** This means that in order to run the sample, some dependencies must be installed.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=41)** For these samples, simply follow along with me and run npm install to install the dependencies when I do.
+> **[0:41](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=41)** For these samples, simply follow along with me and run [[npm]] install to install the dependencies when I do.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=47)** Throughout, I'll be using Atom as my code editor.
 >
@@ -195,11 +192,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=56)** Now, using Atom is not required.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=58)** You can actually use any code editor or IDE that you can edit Javascript files with.
+> **[0:58](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=58)** You can actually use any code editor or IDE that you can edit [[JavaScript]] files with.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=62)** Well, that's all we should need for setup.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=64)** Let's go ahead and begin scaling Node.js applications.
+> **[1:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-the-exercise-files?u=76281980&t=64)** Let's go ahead and begin scaling [[Node.js]] applications.
 
 > [!info]- Semantic Content
 >
@@ -217,8 +214,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The scale cube
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
+#### [The scale cube](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +224,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=9)** The scale cube is a diagram that is a good tool for visually understanding all the ways in which our applications can be scaled.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=15)** It was originally introduced in the book, The Art of Scalability, by Martin Abbott and Michael Fisher.
+> **[0:15](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=15)** It was originally introduced in the book, The Art of [[Scalability]], by Martin Abbott and Michael Fisher.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=21)** The bottom left corner of the cube represents the least scaled application possible, a single instance monolith.
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=33)** As we scale our applications we move closer to the top right hand corner of the scale cube.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=37)** Applications on this side of the diagram could represent multi-instance applications that have been distributed into microservices and contain partitioned database clusters.
+> **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=37)** Applications on this side of the diagram could represent multi-instance applications that have been distributed into [[Microservices]] and contain partitioned database clusters.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=46)** Applications that are closer to the top right hand corner of the cube should be able to handle massive amounts of traffic.
 >
@@ -262,9 +258,9 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=104)** Along the Y axis we break monolithic applications up into microservices.
 >
-> **[1:49](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=109)** This means dividing the application into services that are designed to focus on a single feature and work together with other services to compose the functionality of our entire application.
+> **[1:49](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=109)** This means dividing the application into services that are designed to focus on a single feature and work together with other services to [[Jetpack Compose|compose]] the functionality of our entire application.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=119)** In this course we're gonna examine what it means to scale a Node.js application on every axis of this cube.
+> **[1:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=119)** In this course we're gonna examine what it means to scale a [[Node.js]] application on every axis of this cube.
 >
 > **[2:05](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/the-scale-cube?u=76281980&t=125)** Each chapter we will examine a different axis and demonstrate techniques for scaling along that axis.
 >
@@ -272,15 +268,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (10), database (4), traffic (3), data (3), [[Microservices]] (2)
+> **Frameworks & Libraries:** [[Microservices]] (2), [[Node.js]] (2), [[Scalability]] (1), [[Jetpack Compose|Compose]] (1)
 > **File Paths:** node.js (2)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling the x-axis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980)
+#### [Scaling the x-axis](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980&t=10)** For example, let's say you have a business or a server that provides advice to clients.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980&t=15)** As word gets out about your business, you'll be providing a lot of advice.
+> **[0:15](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980&t=15)** As [[Microsoft Word|word]] gets out about your business, you'll be providing a lot of advice.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-x-axis?u=76281980&t=19)** This could lead to long lines and long wait times among your clients.
 >
@@ -316,18 +311,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), application (5), business (2), node (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forking processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/forking-processes?u=76281980)
+#### [Forking processes](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/forking-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/forking-processes?u=76281980&t=0)** - [Instructor] Because Node.js is single threaded, we've run into the need to scale our applications much sooner that we would if we were using another programming language.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/forking-processes?u=76281980&t=0)** - [Instructor] Because [[Node.js]] is single threaded, we've run into the need to scale our applications much sooner that we would if we were using another programming language.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/forking-processes?u=76281980&t=7)** It's not a problem.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), application (5), [[Node.js]] (2), hit (2), next (2)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** node (7)
 > **File Paths:** node.js (2), app.js (2), index.js (2)
 > **Code Identifiers:** processid (2), child_process (2)
@@ -444,14 +438,13 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** is called (1), is a  (1)
 
-#### Using a cluster module
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980)
+#### [Using a cluster module](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=0)** - [Instructor] In Node.js, a single application instance only uses one processor because Node.js is single threaded.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=0)** - [Instructor] In [[Node.js]], a single application instance only uses one processor because Node.js is single threaded.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=6)** Forking your application into multiple instances is required to take full advantage of your hardware.
+> **[0:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=6)** Forking your application into multiple instances is required to take full advantage of your [[Hardware]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=11)** A cluster is a group of node instances that all work together.
 >
@@ -545,9 +538,9 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=270)** Now, what you'll notice is is every time I hit the browser, I am hitting worker process 8016.
 >
-> **[4:35](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=275)** That's because we're not getting enough traffic to really use the rest of the processes.
+> **[4:35](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=275)** That's because we're not getting enough traffic to really use the [[Representational State Transfer (REST)|rest]] of the processes.
 >
-> **[4:39](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=279)** So from within the terminal, I'm gonna go ahead and install an NPM that will allow us to run a node test.
+> **[4:39](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=279)** So from within the terminal, I'm gonna go ahead and install an [[npm]] that will allow us to run a node test.
 >
 > **[4:45](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/using-a-cluster-module?u=76281980&t=285)** So you can type sudo npm install loadtest -g because we want to install this package globally.
 >
@@ -571,7 +564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), hit (4), application (3), traffic (3), [[Node.js]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (2), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (10), make (3), npm (2), find (1), sudo (1)
 > **Tools:** terminal (7)
 > **Env Vars:** pid (3), cpu (1), http (1), npm (1)
@@ -580,8 +573,7 @@ created: 2026-05-02
 > **Ports:** :3000 (2), port 3000 (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1), [http://localhost:3000](http://localhost:3000) (1)
 
-#### Architecting zero downtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980)
+#### [Architecting zero downtime](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +653,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980&t=332)** So now I'm sending a kill route and now I'm being handled by 8388, so you can see that process number 8387 has died.
 >
-> **[5:42](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980&t=342)** So we only have seven remaining, how here's the cool thing, we killed one of our web servers but as long as I come and request localhost 3000, I'm still being handled by another worker process.
+> **[5:42](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980&t=342)** So we only have seven remaining, how here's the cool thing, we killed one of our [[Web Servers]] but as long as I come and request localhost 3000, I'm still being handled by another worker process.
 >
 > **[5:53](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/architecting-zero-downtime?u=76281980&t=353)** This time it's 8389, but I can go ahead and kill this process too, so now what I've done is I've killed two processes and you can see that we only have six remaining.
 >
@@ -699,15 +691,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), traffic (2), web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1)
 > **CLI Commands:** node (3), make (1)
 > **Tools:** terminal (4)
 > **Definitions:** is called (2), is a  (1)
 > **Exercise Files:** exercise files (2)
 > **Speakers:** - [instructor] (1)
 
-#### Working with clusters with PM2
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980)
+#### [Working with clusters with PM2](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=18)** So, I'm in the terminal, in the exercise files, under chapter one.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=21)** Chapter one, lesson six and I'm gonna go ahead and run a sudo npm install dash g PM2.
+> **[0:21](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=21)** Chapter one, lesson six and I'm gonna go ahead and run a sudo [[npm]] install dash g PM2.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=33)** And while PM2 in installing, let's go ahead and take a look at our files within the start folder.
 >
@@ -833,13 +824,13 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=298)** There are already great tools out there that we can use.
 >
-> **[5:01](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=301)** Also, cloud services like AWS or Roku, Cloudflair, or Azure have tools that manager clusters baked into their environments.
+> **[5:01](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=301)** Also, [[Cloud Services]] like AWS or Roku, Cloudflair, or [[Microsoft Azure|Azure]] have tools that manager clusters baked into their environments.
 >
 > **[5:10](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-clusters-with-pm2?u=76281980&t=310)** It's important to know that sheer no JS websites at API will run in production on many instances and they never have to go down.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), hit (3), [[npm]] (1), web (1), node (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[Cloud Services]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** pm2 (22), cpu (1), aws (1), api (1)
 > **CLI Commands:** sudo (1), npm (1), node (1), make (1), aws (1)
 > **Definitions:** is called (2), is a  (2)
@@ -853,12 +844,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
+#### [Working with databases](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=0)** - [Instructor] When scaling Node.js applications across instances, the need for a database arises.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=0)** - [Instructor] When scaling [[Node.js]] applications across instances, the need for a database arises.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=5)** When we have multiple instances of the same process cloned, they need to act on the same data, but the memory used by each instance is not shared.
 >
@@ -872,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=33)** I do not recommend building your own database.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=35)** There are a lot of databases out there that you can implement.
+> **[0:35](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=35)** There are a lot of [[Databases]] out there that you can implement.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/working-with-databases?u=76281980&t=39)** The choices range from reliable open-source projects to large enterprise databases that have been around for decades.
 >
@@ -898,14 +888,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), data (11), [[Node.js]] (2), [[Databases]] (2), application (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Databases]] (2)
 > **CLI Commands:** node (2), make (1)
 > **File Paths:** node.js (2)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incorporating a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980)
+#### [Incorporating a database](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,7 +960,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980&t=116)** A file database called node local storage.
 >
-> **[1:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980&t=119)** So let's go ahead and npm install node local storage.
+> **[1:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980&t=119)** So let's go ahead and [[npm]] install node local storage.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/incorporating-a-database?u=76281980&t=126)** And now that we have a database installed let's go back to our file and save the request variables in the database.
 >
@@ -1043,7 +1032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), data (7), node (4), hit (2), application (2)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** node (4), make (3), npm (1)
 > **Tools:** terminal (4)
 > **File Paths:** app.js (2)
@@ -1052,8 +1041,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Scaling the z-axis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-z-axis?u=76281980)
+#### [Scaling the z-axis](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-z-axis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,20 +1103,19 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-z-axis?u=76281980&t=117)** So, if you're hosting your own database, you'll want to use their tools and patterns for implementing horizontal partitioning.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-z-axis?u=76281980&t=123)** Each of a popular databases have a built-in or associated solution to handle creating shards.
+> **[2:03](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-z-axis?u=76281980&t=123)** Each of a popular [[Databases]] have a built-in or associated solution to handle creating shards.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (7), traffic (1), application (1), business (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Definitions:** is called (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up horizontal partitioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980)
+#### [Setting up horizontal partitioning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=0)** - [Instructor] Let's take a look at how we can modify the node local storage database to partition data between two databases.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=0)** - [Instructor] Let's take a look at how we can modify the node local storage database to partition data between two [[Databases]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=6)** I'm looking at the exercise files in chapter two, chapter two lesson four and within the start folder I'm currently looking at the index.
 >
@@ -1146,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=48)** So let's go to the terminal and run this.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=50)** Let's run an npm install to install the dependencies, specifically the node local storage database and now let's go ahead and run our app by typing node dot.
+> **[0:50](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=50)** Let's run an [[npm]] install to install the dependencies, specifically the node local storage database and now let's go ahead and run our app by typing node dot.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/setting-up-horizontal-partitioning?u=76281980&t=60)** So you can see here that we are returning Biscuit and we are in fact returning an array of orange cats.
 >
@@ -1284,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (32), data (15), node (4), [[Databases]] (3), [[npm]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[npm]] (1)
 > **CLI Commands:** cat (21), find (10), node (4), make (4), npm (1)
 > **Code Identifiers:** dbb (7), dba (6)
 > **Definitions:** is a  (3), means that (1)
@@ -1298,14 +1285,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scaling the y-axis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
+#### [Scaling the y-axis](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=0)** - [Instructor] The last axis of the scale cube to cover is the y axis.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=4)** Scaling along this axis means decomposing your app into microservices.
+> **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=4)** Scaling along this axis means decomposing your app into [[Microservices]].
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=8)** Consider our advice booth, remember, we're kinda good at advice so this booth is gonna be very popular, it has a lot of traffic.
 >
@@ -1315,7 +1301,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=23)** In this scenario, each booth specializes in providing advice on a specific topic.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=28)** One booth is dedicated to finance advice, another booth is dedicated to love advice, and the third booth is dedicated to wellness advice.
+> **[0:28](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=28)** One booth is dedicated to finance advice, another booth is dedicated to love advice, and the third booth is dedicated to [[Wellness]] advice.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=35)** The traffic splits itself based upon its needs.
 >
@@ -1375,7 +1361,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=184)** There are many other third party services that you can consider incorporating in your applications.
 >
-> **[3:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=189)** There's everything from geo mapping, to messaging, continuous integration, database services.
+> **[3:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=189)** There's everything from geo mapping, to messaging, [[Continuous Integration (CI)|continuous integration]], database services.
 >
 > **[3:14](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/scaling-the-y-axis?u=76281980&t=194)** In this chapter, we're gonna examine how we can decompose our applications into services.
 >
@@ -1383,14 +1369,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), application (6), [[Microservices]] (4), teams (2), database (2)
+> **Frameworks & Libraries:** [[Microservices]] (4), [[Wellness]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** for instance (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decomposing services
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980)
+#### [Decomposing services](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1402,7 +1387,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=21)** It's an Express API that handles reservations and reserving seats for shows with two different data points.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=27)** So I'm gonna go into the start folder and run an npm install just to install Express and the other dependencies needed for the ticket system.
+> **[0:27](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=27)** So I'm gonna go into the start folder and run an [[npm]] install just to install Express and the other dependencies needed for the ticket system.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=34)** And then we'll go ahead and start it with pm2.
 >
@@ -1412,7 +1397,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=47)** And then I'm gonna go ahead and make a request for the ticket system using curl.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=51)** So we'll do curl [http://localhost:3000](http://localhost:3000) and we will notice that we are getting some JSON data back from the ticket system.
+> **[0:51](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=51)** So we'll do curl [http://localhost:3000](http://localhost:3000) and we will notice that we are getting some [[JSON]] data back from the ticket system.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=60)** So we have two different data types here.
 >
@@ -1442,7 +1427,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=121)** So what we want to do is we actually want to split this into two services, one service to focus on shows, and another service to focus on reservations.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=129)** So the first thing I'm gonna do is come in here and split the data, microservices can operate and should operate their own databases.
+> **[2:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=129)** So the first thing I'm gonna do is come in here and split the data, [[Microservices]] can operate and should operate their own [[Databases]].
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/decomposing-services?u=76281980&t=136)** So I'm gonna go ahead and add a new folder for data-shows.
 >
@@ -1606,7 +1591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), express (6), api (3), hit (3), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Databases]] (2), [[npm]] (1), [[Microservices]] (1)
 > **CLI Commands:** curl (7), make (5), find (1), npm (1), node (1)
 > **File Paths:** ticket-system.js (4), show.js (3), reservations.js (2)
 > **Ports:** :3001 (4), :3000 (1), port 3002 (1), :3002 (1)
@@ -1615,12 +1600,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2)
 
-#### Service orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/service-orchestration?u=76281980)
+#### [Service orchestration](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/service-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/service-orchestration?u=76281980&t=0)** - [Instructor] When we decompose our applications into microservices, we have to consider how they will work together.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/service-orchestration?u=76281980&t=0)** - [Instructor] When we decompose our applications into [[Microservices]], we have to consider how they will work together.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/service-orchestration?u=76281980&t=6)** Sometimes a single action performed by a client will need to work across several services to complete that action.
 >
@@ -1666,7 +1650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Microservices]] (5), [[Orchestration]] (4), front-end (1), application (1)
+> **Frameworks & Libraries:** [[Microservices]] (5)
 > **Env Vars:** api (6), tcp (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
@@ -1674,14 +1658,13 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980)
+#### [Create an orchestration](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=0)** - [Instructor] Let's take a look at how we can create an API orchestration layer.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=4)** To orchestrate the process of making a reservation, so far we have two separate microservices.
+> **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=4)** To orchestrate the process of making a reservation, so far we have two separate [[Microservices]].
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=9)** One for handling shows and another for handling reservations inside of the exercise files, within the start folder under chapter three, chapter three lesson four and looking at the show service we know that in order to make a reservation we have to make sure that the show has available seats and then we need to end a put request to this service to hold those seats.
 >
@@ -1705,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=75)** On lines one through four, we have the packages that we're gonna need to use.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=79)** That includes express, bodyParser, cors and node fetch.
+> **[1:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=79)** That includes express, bodyParser, cors and node [[Fetch]].
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=83)** The next couple of lines are little helper functions that we can use to send the HTTP request to either the show or reservation service.
 >
@@ -1735,7 +1718,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=190)** Simply by invoking getAllShows.
 >
-> **[3:14](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=194)** Now remember getAllShows returns a promise, so I'm using the Async and await in order to wait for that promise to resolve to the shows and then I'm gonna go head and respond with some JSON just the list of shows.
+> **[3:14](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=194)** Now remember getAllShows returns a promise, so I'm using the Async and await in order to wait for that promise to resolve to the shows and then I'm gonna go head and respond with some [[JSON]] just the list of shows.
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/create-an-orchestration?u=76281980&t=208)** So now our API will actually get the information from the show service and return the list of available shows for the public to consume.
 >
@@ -1781,7 +1764,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[Orchestration]] (4), next (4), [[Fetch]] (3), application (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JSON]] (2), [[Microservices]] (1)
 > **Env Vars:** api (13), http (3), json (2)
 > **CLI Commands:** make (10), node (1), find (1)
 > **Code Identifiers:** getshow (3), getallshows (2), showid (2), bodyparser (1), housesize (1)
@@ -1790,16 +1773,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 
-#### Test the orchestration layer
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980)
+#### [Test the orchestration layer](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=0)** - [Instructor] So let's go ahead and start up our new set of microservices.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=0)** - [Instructor] So let's go ahead and start up our new set of [[Microservices]].
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=4)** So the first thing I wanna do is make sure that I get the dependencies for this sample that we have here within our exercise files, under the start folder for chapter three, chapter three, lesson two.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=13)** So I'm gonna run NPM install, just to make sure we get all of our dependencies.
+> **[0:13](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=13)** So I'm gonna run [[npm]] install, just to make sure we get all of our dependencies.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=18)** And now I can start these services.
 >
@@ -1827,7 +1809,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=100)** And in doing so, you can see that I'm receiving just the list of shows.
 >
-> **[1:43](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=103)** So this little json blob, is in an array, it has all of the shows that I need.
+> **[1:43](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=103)** So this little [[JSON]] blob, is in an array, it has all of the shows that I need.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/test-the-orchestration-layer?u=76281980&t=107)** So you see that we're able to get that information.
 >
@@ -1871,7 +1853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[Orchestration]] (4), [[Microservices]] (3), [[JSON]] (2), data (2)
+> **Frameworks & Libraries:** [[Microservices]] (3), [[JSON]] (2), [[npm]] (1)
 > **CLI Commands:** curl (4), make (3), npm (1), find (1)
 > **File Paths:** api.js (2), show.js (1), reservations.js (1), app.js (1)
 > **Tools:** terminal (3)
@@ -1885,18 +1867,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=0)** - [Instructor] Thank you for joining me for Advanced Node.js.
+> **[0:00](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=0)** - [Instructor] Thank you for joining me for Advanced [[Node.js]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=3)** I hope you can use this knowledge to understand the main techniques that are involved when scaling Node.js applications.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=9)** As you can see, scaling is conceptual.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=11)** Cloning, horizontal partitioning, and microservices are all architectural patterns that apply to computer science at large, not just Node.js.
+> **[0:11](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=11)** Cloning, horizontal partitioning, and [[Microservices]] are all architectural patterns that apply to computer science at large, not just Node.js.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=19)** This course contained code examples of these concepts, but in production there is no need to reinvent the wheel.
 >
@@ -1904,19 +1885,19 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=30)** First, you'll want to find a good database.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=32)** The course [[Databases for Node.js Developers]] by Daniel Khan is a great place to start.
+> **[0:32](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=32)** The course [[[[Databases]] for Node.js Developers]] by Daniel Khan is a great place to start.
 >
-> **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=37)** This course introduces MongoDB, Redis, and MySQL.
+> **[0:37](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=37)** This course introduces [[MongoDB]], [[Redis]], and [[MySQL]].
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=41)** Once you've found your favorite database you can dive into that database more deeply with other LinkedIn courses on that topic.
+> **[0:41](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=41)** Once you've found your favorite database you can dive into that database more deeply with other [[LinkedIn]] courses on that topic.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=48)** In this course I briefly introduce the architecture for message queues.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=51)** But, I didn't show a JavaScript sample because they're really involved.
+> **[0:51](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=51)** But, I didn't show a [[JavaScript]] sample because they're really involved.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=55)** If you're gonna be working with microservice architectures you'll want to know more about messaging queues.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=59)** I would recommend looking into RabbitMQ or Apache Kafka.
+> **[0:59](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=59)** I would recommend looking into RabbitMQ or [[Apache Kafka]].
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=63)** These are popular messaging queues that can be used to integrate your services.
 >
@@ -1926,7 +1907,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=79)** When it comes to scaling you don't have to build everything yourself.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=82)** Cloud service providers like Azure or Amazon Web Services or Cloudflare all have solutions for cloning your Node.js applications and services into instances that are hosted worldwide.
+> **[1:22](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=82)** Cloud service providers like [[Microsoft Azure|Azure]] or [[Amazon Web Services (AWS)|Amazon Web Services]] or Cloudflare all have solutions for cloning your Node.js applications and services into instances that are hosted worldwide.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-node-js-scaling-applications/next-steps?u=76281980&t=93)** Before you stand up your own server with PM2 I would look into the features that are available with a cloud service provider like Azure.
 >
@@ -1938,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (5), database (3), [[Redis]] (3), [[Microsoft Azure|Azure]] (3), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (5), [[Redis]] (3), [[Microsoft Azure|Azure]] (3), [[LinkedIn]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2)
 > **CLI Commands:** node (5), find (1), mysql (1), apache (1)
 > **File Paths:** node.js (5)
 > **Definitions:** is a  (2)

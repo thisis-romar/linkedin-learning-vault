@@ -106,12 +106,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improve your Java applications with effective algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980)
+#### [Improve your Java applications with effective algorithms](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=0)** - [Kathryn] Algorithms are one of the fundamental pillars in every software application.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=0)** - [Kathryn] [[Algorithms]] are one of the fundamental pillars in every software application.
 >
 > **[0:05](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=5)** They give programs a set of instructions to perform a task.
 >
@@ -129,25 +128,24 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=52)** In this course, we'll look at how to create more efficient programs by exploring different types of algorithms.
 >
-> **[0:59](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=59)** Many of these algorithms are built right into the Java language and they can be a great choice.
+> **[0:59](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=59)** Many of these algorithms are built right into the [[Java]] language and they can be a great choice.
 >
 > **[1:05](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=65)** However, most of the time, you'll need to create a custom algorithm in order to work with your data in exactly the way you want.
 >
 > **[1:13](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=73)** In this course, we'll explore what makes a given algorithm effective as well as how to make informed assumptions about your datum in order to speed up that processing time.
 >
-> **[1:24](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=84)** We'll also discover how to leverage different data structures to make your algorithms more efficient.
+> **[1:24](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=84)** We'll also discover how to leverage different [[Data Structures]] to make your algorithms more efficient.
 >
 > **[1:30](https://www.linkedin.com/learning/java-algorithms/improve-your-java-applications-with-effective-algorithms?u=76281980&t=90)** Without any further delay, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), application (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Java]] (1), [[Data Structures]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [kathryn] (1)
 
-#### Introducing CoderPad challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980)
+#### [Introducing CoderPad challenges](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +159,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980&t=26)** We recommend using a desktop browser for the best experience.
 >
-> **[0:30](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980&t=30)** But you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:30](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980&t=30)** But you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:35](https://www.linkedin.com/learning/java-algorithms/introducing-coderpad-challenges?u=76281980&t=35)** The code challenge has four main areas.
 >
@@ -205,13 +203,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is an algorithm?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980)
+#### [What is an algorithm?](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980&t=42)** However, a computer is different, every step must be laid out in order to complete a software-based task.
 >
-> **[0:51](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980&t=51)** Given this, in Java, almost everything you create is part of some algorithm.
+> **[0:51](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980&t=51)** Given this, in [[Java]], almost everything you create is part of some algorithm.
 >
 > **[0:57](https://www.linkedin.com/learning/java-algorithms/what-is-an-algorithm?u=76281980&t=57)** Every line of code you write is an instruction that's a step in achieving some task.
 >
@@ -245,20 +242,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to optimize an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980)
+#### [How to optimize an algorithm](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980&t=0)** - [Instructor] There are many different ways to complete a given task.
 >
-> **[0:03](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980&t=3)** This means there are also many different algorithms to solve a problem.
+> **[0:03](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980&t=3)** This means there are also many different [[Algorithms]] to solve a problem.
 >
 > **[0:09](https://www.linkedin.com/learning/java-algorithms/how-to-optimize-an-algorithm?u=76281980&t=9)** Some algorithms are more efficient and others are less efficient.
 >
@@ -290,20 +286,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (4), data (4)
+> **Frameworks & Libraries:** [[Algorithms]] (4)
 > **CLI Commands:** make (6)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimize an algorithm in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980)
+#### [Optimize an algorithm in Java](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=0)** - [Instructor] While studying algorithmic theory is important, it's vital to apply theory to practice.
 >
-> **[0:06](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=6)** Let's modify a Java algorithm and make it more efficient.
+> **[0:06](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=6)** Let's modify a [[Java]] algorithm and make it more efficient.
 >
 > **[0:10](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=10)** I've opened up this sample code in IntelliJ, a Java IDE, but feel free to use the IDE of your choice.
 >
@@ -349,7 +344,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=132)** This is exactly what we're looking for so we'll return it from the function.
 >
-> **[2:16](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=136)** Let's use the new algorithms implementation.
+> **[2:16](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=136)** Let's use the new [[Algorithms]] implementation.
 >
 > **[2:25](https://www.linkedin.com/learning/java-algorithms/optimize-an-algorithm-in-java?u=76281980&t=145)** To run it, I'll click the Play button.
 >
@@ -375,12 +370,11 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to describe the time complexity of an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980)
+#### [How to describe the time complexity of an algorithm](https://www.linkedin.com/learning/java-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=0)** - [Instructor] Some algorithms are more efficient than others.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=0)** - [Instructor] Some [[Algorithms]] are more efficient than others.
 >
 > **[0:03](https://www.linkedin.com/learning/java-algorithms/how-to-describe-the-time-complexity-of-an-algorithm?u=76281980&t=3)** And we often describe an algorithm's efficiency using Big-O notation.
 >
@@ -442,7 +436,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (6), [[Search]] (4), data (1), generic (1)
+> **Frameworks & Libraries:** [[Algorithms]] (6)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -451,8 +445,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Validate Strings in Java: All-or-nothing properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980)
+#### [Validate Strings in Java: All-or-nothing properties](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +461,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980&t=35)** The string either has the given properties or it does not.
 >
-> **[0:39](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980&t=39)** Let's try creating some validation algorithms in Java.
+> **[0:39](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980&t=39)** Let's try creating some validation [[Algorithms]] in [[Java]].
 >
 > **[0:44](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-all-or-nothing-properties?u=76281980&t=44)** The first validation algorithm we'll create is a function that checks whether a string has all uppercase letters.
 >
@@ -544,15 +537,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Java]] (2), api (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Java]] (2)
 > **Code Identifiers:** isuppercase (4), allmatch (3), islowercase (1), nonematch (1), isletter (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** api (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Validate strings in Java: Specific properties
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-specific-properties?u=76281980)
+#### [Validate strings in Java: Specific properties](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-specific-properties?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,17 +596,16 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-specific-properties?u=76281980&t=163)** Only the first input returns true, which is what we expect.
 >
-> **[2:48](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-specific-properties?u=76281980&t=168)** Validation algorithms like these can be very useful because once they're run, certain properties can be guaranteed about your input data.
+> **[2:48](https://www.linkedin.com/learning/java-algorithms/validate-strings-in-java-specific-properties?u=76281980&t=168)** Validation [[Algorithms]] like these can be very useful because once they're run, certain properties can be guaranteed about your input data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Normalize strings in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980)
+#### [Normalize strings in Java](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -628,7 +619,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=31)** With this approach, you could search for the letter in the lowercase form and only have to search for one form of the letter.
 >
-> **[0:39](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=39)** With two forms, you're still iterating through the string twice, but if the number of forms the letter can appear increases, the amount you have to search stays the same.
+> **[0:39](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=39)** With two [[Forms]], you're still iterating through the string twice, but if the number of forms the letter can appear increases, the amount you have to search stays the same.
 >
 > **[0:50](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=50)** It also makes your code less complex by searching for one form of the data.
 >
@@ -638,11 +629,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=73)** For example, your processing algorithm would only take in strings with all lowercase letters and it could use a validation algorithm to deny any other type of input.
 >
-> **[1:25](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=85)** However, we want our algorithms to be flexible so we can reuse them for strings with many different contents.
+> **[1:25](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=85)** However, we want our [[Algorithms]] to be flexible so we can reuse them for strings with many different contents.
 >
 > **[1:33](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=93)** Normalizing your input to a common form can help you accomplish this.
 >
-> **[1:38](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=98)** Let's take a look at how we can normalize our data in Java.
+> **[1:38](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=98)** Let's take a look at how we can normalize our data in [[Java]].
 >
 > **[1:43](https://www.linkedin.com/learning/java-algorithms/normalize-strings-in-java?u=76281980&t=103)** To start, we'll create a function called normalized string.
 >
@@ -696,13 +687,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (4), [[Algorithms]] (3), [[Forms]] (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Forms]] (2), [[Java]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic parsing and searching strings in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980)
+#### [Basic parsing and searching strings in Java](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980&t=34)** In all of these cases, you need to parse the data within the string in order to find the character or substring you're looking for.
 >
-> **[0:43](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980&t=43)** Let's take a look at how to do that in Java.
+> **[0:43](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980&t=43)** Let's take a look at how to do that in [[Java]].
 >
 > **[0:47](https://www.linkedin.com/learning/java-algorithms/basic-parsing-and-searching-strings-in-java?u=76281980&t=47)** The least complex and least efficient way to search for a subset of characters within a string is to use the built-in contains method.
 >
@@ -768,13 +758,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Search]] (3), [[Programming]] (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Code Identifiers:** foreach (1), charat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply custom parsing to search algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/apply-custom-parsing-to-search-algorithms?u=76281980)
+#### [Apply custom parsing to search algorithms](https://www.linkedin.com/learning/java-algorithms/apply-custom-parsing-to-search-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -836,15 +825,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Search]] (1)
 > **Code Identifiers:** charat (2)
 > **Definitions:** is an  (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create algorithm-driven strings in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980)
+#### [Create algorithm-driven strings in Java](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980&t=142)** That's where the ii equals zero.
 >
-> **[2:26](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980&t=146)** Using a for loop will allow us to iterate through the string backwards, which can be a good strategy for many algorithms, including this one.
+> **[2:26](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980&t=146)** Using a for loop will allow us to iterate through the string backwards, which can be a good strategy for many [[Algorithms]], including this one.
 >
 > **[2:36](https://www.linkedin.com/learning/java-algorithms/create-algorithm-driven-strings-in-java?u=76281980&t=156)** Since we're going through the string backwards, all we have to do is append the character we're at to the StringBuilder.
 >
@@ -922,17 +909,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Programming]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** tolowercase (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage built-in tools to generate custom data
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980)
+#### [Leverage built-in tools to generate custom data](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=0)** - [Instructor] Reversing a string is a pretty common operation in programming and there are several ways to do it in Java.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=0)** - [Instructor] Reversing a string is a pretty common operation in programming and there are several ways to do it in [[Java]].
 >
 > **[0:07](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=7)** With the previous algorithm, we did it with a more bare bones approach where we iterated through each character and built our new string one character at a time.
 >
@@ -948,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=46)** Now we can convert the string builder back into a string and return it from the function.
 >
-> **[0:53](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=53)** When starting your software development journey, sometimes it can feel like you're cheating by using the functions built into the language or into the standard library.
+> **[0:53](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=53)** When starting your [[Software Development]] journey, sometimes it can feel like you're cheating by using the functions built into the language or into the standard library.
 >
 > **[1:03](https://www.linkedin.com/learning/java-algorithms/leverage-built-in-tools-to-generate-custom-data?u=76281980&t=63)** This is not cheating.
 >
@@ -982,19 +968,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), data (2), [[Java]] (1), [[Software Development]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Reverse each word
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-reverse-each-word-19873070?u=76281980)
+#### [Solution: Reverse each word](https://www.linkedin.com/learning/java-algorithms/solution-reverse-each-word-19873070?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/solution-reverse-each-word-19873070?u=76281980&t=0)** - [Instructor] Let's create an algorithm that reverses each word in a sentence.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/solution-reverse-each-word-19873070?u=76281980&t=0)** - [Instructor] Let's create an algorithm that reverses each [[Microsoft Word|word]] in a sentence.
 >
 > **[0:04](https://www.linkedin.com/learning/java-algorithms/solution-reverse-each-word-19873070?u=76281980&t=4)** The first step is to check if the input falls into a base case category.
 >
@@ -1068,7 +1053,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), data (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10)
 > **Code Identifiers:** trimtosize (1), tostring (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -1078,12 +1063,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear search arrays in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980)
+#### [Linear search arrays in Java](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to search through data structures using algorithms in order to retrieve relevant data.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to search through [[Data Structures]] using [[Algorithms]] in order to retrieve relevant data.
 >
 > **[0:08](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-in-java?u=76281980&t=8)** With a search algorithm, you often need to input the data you need to search and the item you're trying to find.
 >
@@ -1133,18 +1117,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Search]] (7), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Structures]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear search arrays with Java streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-with-java-streams?u=76281980)
+#### [Linear search arrays with Java streams](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-with-java-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-with-java-streams?u=76281980&t=0)** - [Instructor] While we can search for data in arrays, using for loops, we can simplify our implementation quite a bit using Java streams.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-with-java-streams?u=76281980&t=0)** - [Instructor] While we can search for data in arrays, using for loops, we can simplify our implementation quite a bit using [[Java]] streams.
 >
 > **[0:09](https://www.linkedin.com/learning/java-algorithms/linear-search-arrays-with-java-streams?u=76281980&t=9)** We can turn the array into a stream and filter out data based on a condition to find the data we're searching for.
 >
@@ -1196,17 +1179,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), data (3), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **CLI Commands:** find (3)
 > **Definitions:** we call this (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary search arrays in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980)
+#### [Binary search arrays in Java](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=0)** - [Instructor] Searching data is a common task in software development.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=0)** - [Instructor] Searching data is a common task in [[Software Development]].
 >
 > **[0:04](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=4)** In order to optimize a search algorithm, you'll need to make assumptions about your data.
 >
@@ -1240,7 +1222,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=107)** If it was not sorted, then this algorithm would not work as expected.
 >
-> **[1:53](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=113)** Let's try implementing binary search in Java.
+> **[1:53](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=113)** Let's try implementing binary search in [[Java]].
 >
 > **[1:56](https://www.linkedin.com/learning/java-algorithms/binary-search-arrays-in-java?u=76281980&t=116)** We'll have this algorithm input an array and the item we're searching for.
 >
@@ -1326,7 +1308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (17), data (8), [[Java]] (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Software Development]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1334,8 +1316,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aggregate and filter arrays in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980)
+#### [Aggregate and filter arrays in Java](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1357,11 +1338,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=51)** However, sorting wouldn't help much here since the even items could be very large or very small.
 >
-> **[0:58](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=58)** Given this, each of these algorithms will have different time complexities.
+> **[0:58](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=58)** Given this, each of these [[Algorithms]] will have different time complexities.
 >
 > **[1:03](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=63)** To keep things simple, we're going to take the second approach where we check each item before adding it to the new array.
 >
-> **[1:11](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=71)** Let's try it in Java.
+> **[1:11](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=71)** Let's try it in [[Java]].
 >
 > **[1:14](https://www.linkedin.com/learning/java-algorithms/aggregate-and-filter-arrays-in-java?u=76281980&t=74)** Here, we have a function that takes in two arrays and returns a new array with the even numbers.
 >
@@ -1433,14 +1414,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Java]] (4), [[Algorithms]] (2), [[Programming]] (1), api (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Reverse an array in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980)
+#### [Reverse an array in Java](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,7 +1428,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=7)** For example, you may need to swap elements or reverse your dataset entirely.
 >
-> **[0:13](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=13)** Let's look at how to reverse an array in Java.
+> **[0:13](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=13)** Let's look at how to reverse an array in [[Java]].
 >
 > **[0:18](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=18)** One way is to copy all the contents into a new array but in reverse order.
 >
@@ -1528,19 +1508,18 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=273)** That's exactly what we get in the console.
 >
-> **[4:36](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=276)** Understanding how to work with data in place and move it around in memory using variables is essential to creating efficient algorithms.
+> **[4:36](https://www.linkedin.com/learning/java-algorithms/reverse-an-array-in-java?u=76281980&t=276)** Understanding how to work with data in place and move it around in memory using variables is essential to creating efficient [[Algorithms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Java]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Algorithms]] (1)
 > **Code Identifiers:** reverseinplace (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Rotate an array
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-rotate-an-array-19867360?u=76281980)
+#### [Solution: Rotate an array](https://www.linkedin.com/learning/java-algorithms/solution-rotate-an-array-19867360?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1588,7 +1567,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1596,8 +1574,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a linked list?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980)
+#### [What is a linked list?](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1641,24 +1618,23 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980&t=112)** This would unlink the back half of the dataset, removing it from the list.
 >
-> **[1:57](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980&t=117)** In other languages, there might be more memory cleanup required, but in Java, we have a garbage collector and this memory manager will handle it for us.
+> **[1:57](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980&t=117)** In other languages, there might be more memory cleanup required, but in [[Java]], we have a garbage collector and this memory manager will handle it for us.
 >
-> **[2:07](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980&t=127)** Operations like these, where major data modifications can be made with just a few lines of code, make linked lists a useful tool when creating algorithms that manipulate your data.
+> **[2:07](https://www.linkedin.com/learning/java-algorithms/what-is-a-linked-list?u=76281980&t=127)** Operations like these, where major data modifications can be made with just a few lines of code, make linked lists a useful tool when creating [[Algorithms]] that manipulate your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (8), next (6), [[Java]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Algorithms]] (1)
 > **CLI Commands:** node (8), find (1), make (1)
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the built-in linked list data structure in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980)
+#### [Using the built-in linked list data structure in Java](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=0)** - [Instructor] With an understanding of the LinkedList data structure, we can begin to work with LinkedLists in Java.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=0)** - [Instructor] With an understanding of the LinkedList data structure, we can begin to work with LinkedLists in [[Java]].
 >
 > **[0:06](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=6)** In fact, we can use the built-in LinkedList type defined in the util package.
 >
@@ -1726,7 +1702,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=191)** If we click into that, we can see the use of next pointers.
 >
-> **[3:17](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=197)** Understanding the implementation of built-in Java data structures can help you make better choices about what tools you use in your algorithms.
+> **[3:17](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=197)** Understanding the implementation of built-in Java [[Data Structures]] can help you make better choices about what tools you use in your [[Algorithms]].
 >
 > **[3:26](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=206)** That's why we've briefly explored it here.
 >
@@ -1740,11 +1716,11 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=241)** Simplifying complex operations through interfaces is a great principle to follow when creating data structures and developing algorithms.
 >
-> **[4:11](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=251)** It also what makes the LinkedList a great addition to your software development toolkit.
+> **[4:11](https://www.linkedin.com/learning/java-algorithms/using-the-built-in-linked-list-data-structure-in-java?u=76281980&t=251)** It also what makes the LinkedList a great addition to your [[Software Development]] toolkit.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Java]] (6), next (3), [[Algorithms]] (2), generic (1)
+> **Frameworks & Libraries:** [[Java]] (6), [[Data Structures]] (2), [[Algorithms]] (2), [[Software Development]] (1)
 > **Code Identifiers:** addfirst (1), addlast (1), foreach (1), linklast (1)
 > **Cross-References:** we talked about (1), in the next (1)
 > **CLI Commands:** make (1)
@@ -1753,14 +1729,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a custom data structure for linked list algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980)
+#### [Create a custom data structure for linked list algorithms](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=0)** - [Instructor] Although there's a linked list data structure available in Java, not every algorithm you'll ever need will be built into the standard library.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=0)** - [Instructor] Although there's a linked list data structure available in [[Java]], not every algorithm you'll ever need will be built into the standard library.
 >
-> **[0:09](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=9)** Instead, you may need to create your own data structure with your own algorithms to manipulate your data more effectively.
+> **[0:09](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=9)** Instead, you may need to create your own data structure with your own [[Algorithms]] to manipulate your data more effectively.
 >
 > **[0:17](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=17)** In fact, we can create our own linked list in Java using classes, specifically a LinkedList class and a node class.
 >
@@ -1782,7 +1757,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=81)** We'll access the list, .head and we'll give it the firstNode.
 >
-> **[1:29](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=89)** To add the rest of the nodes, we'll need to link the next pointers.
+> **[1:29](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=89)** To add the [[Representational State Transfer (REST)|rest]] of the nodes, we'll need to link the next pointers.
 >
 > **[1:34](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=94)** We'll set the firstNode's next reference equal to the SecondNode.
 >
@@ -1820,21 +1795,20 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=204)** And there's our data.
 >
-> **[3:26](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=206)** By using classes, we can create custom data structures with more flexible algorithms.
+> **[3:26](https://www.linkedin.com/learning/java-algorithms/create-a-custom-data-structure-for-linked-list-algorithms?u=76281980&t=206)** By using classes, we can create custom [[Data Structures]] with more flexible algorithms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (12), data (9), next (8), [[Java]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Java]] (2), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1)
 > **CLI Commands:** node (12)
 > **Code Identifiers:** firstnode (4), secondnode (1), thirdnode (1), fourthnode (1), linkedlist (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linked list algorithms: Delete back half of a linked list
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/linked-list-algorithms-delete-back-half-of-a-linked-list?u=76281980)
+#### [Linked list algorithms: Delete back half of a linked list](https://www.linkedin.com/learning/java-algorithms/linked-list-algorithms-delete-back-half-of-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/linked-list-algorithms-delete-back-half-of-a-linked-list?u=76281980&t=0)** - [Instructor] With data structures built from scratch, we can create more complex algorithms.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/linked-list-algorithms-delete-back-half-of-a-linked-list?u=76281980&t=0)** - [Instructor] With [[Data Structures]] built from scratch, we can create more complex [[Algorithms]].
 >
 > **[0:07](https://www.linkedin.com/learning/java-algorithms/linked-list-algorithms-delete-back-half-of-a-linked-list?u=76281980&t=7)** With data structures built from scratch, we can create more complicated algorithms that manipulate how our data is stored.
 >
@@ -1910,13 +1884,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), next (9), data (7), [[Algorithms]] (4), hit (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Data Structures]] (3)
 > **CLI Commands:** node (13), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sum contents of a linked list
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-sum-contents-of-a-linked-list?u=76281980)
+#### [Solution: Sum contents of a linked list](https://www.linkedin.com/learning/java-algorithms/solution-sum-contents-of-a-linked-list?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1956,7 +1929,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
@@ -1966,12 +1938,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a queue?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980)
+#### [What is a queue?](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980&t=0)** - [Instructor] The queue is another data structure that can be particularly useful in algorithms where you need to process data in order.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980&t=0)** - [Instructor] The queue is another data structure that can be particularly useful in [[Algorithms]] where you need to process data in order.
 >
 > **[0:08](https://www.linkedin.com/learning/java-algorithms/what-is-a-queue?u=76281980&t=8)** Like an array or list, a queue represents a series of objects, but the way we access, add and remove items is slightly different.
 >
@@ -2011,17 +1982,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), data (2)
+> **Frameworks & Libraries:** [[Algorithms]] (3)
 > **Env Vars:** fifo (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standard queue operations in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980)
+#### [Standard queue operations in Java](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=0)** - [Instructor] To use queues in Java, we have the java.util.Queue interface.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=0)** - [Instructor] To use queues in [[Java]], we have the java.util.Queue interface.
 >
 > **[0:07](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=7)** We'll import it at the top.
 >
@@ -2089,24 +2059,23 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=198)** The output is as expected.
 >
-> **[3:20](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=200)** If you need to process your data in the order it's received, the queue data structure is a great tool to add to your algorithms.
+> **[3:20](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=200)** If you need to process your data in the order it's received, the queue data structure is a great tool to add to your [[Algorithms]].
 >
 > **[3:29](https://www.linkedin.com/learning/java-algorithms/standard-queue-operations-in-java?u=76281980&t=209)** Queues reduce complexity by removing the index and applying the constraint of first in, first out, making your data easy to work with.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (4), data (3), next (2), generic (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (4), [[Algorithms]] (1)
 > **Code Identifiers:** removeditem (1), isempty (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** fifo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Queue algorithms: Generate binary numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980)
+#### [Queue algorithms: Generate binary numbers](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=0)** - [Instructor] While the Java standard library has a built-in queue data structure with a few basic operations, you'll need to know how to leverage this functionality in order to work with your data efficiently.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=0)** - [Instructor] While the [[Java]] standard library has a built-in queue data structure with a few basic operations, you'll need to know how to leverage this functionality in order to work with your data efficiently.
 >
 > **[0:13](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=13)** Let's say we want to create an algorithm that takes in a number N and prints out the first N binary numbers in numerical order.
 >
@@ -2136,7 +2105,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=81)** After the items associated with the first item have been printed, we print the second item with the zero and then a one.
 >
-> **[1:30](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=90)** We process the first item and then the second item in a FIFO fashion, and this pattern follows for the rest of the binary numbers.
+> **[1:30](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=90)** We process the first item and then the second item in a FIFO fashion, and this pattern follows for the [[Representational State Transfer (REST)|rest]] of the binary numbers.
 >
 > **[1:40](https://www.linkedin.com/learning/java-algorithms/queue-algorithms-generate-binary-numbers?u=76281980&t=100)** We can leverage this pattern with the queue data structure to create an efficient algorithm that generates binary numbers.
 >
@@ -2208,18 +2177,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** fifo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a stack?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-stack?u=76281980)
+#### [What is a stack?](https://www.linkedin.com/learning/java-algorithms/what-is-a-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/what-is-a-stack?u=76281980&t=0)** - [Instructor] The stack data structure can be useful for algorithms where you need to keep track of state.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/what-is-a-stack?u=76281980&t=0)** - [Instructor] The stack data structure can be useful for [[Algorithms]] where you need to keep track of state.
 >
 > **[0:06](https://www.linkedin.com/learning/java-algorithms/what-is-a-stack?u=76281980&t=6)** A stack is an ordered series of objects, just like a list, but like a queue, the way we access, add, and remove items is a little different.
 >
@@ -2255,24 +2223,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is an  (1), is a  (1), is called (1)
 > **Env Vars:** lifo (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic stack operations in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980)
+#### [Basic stack operations in Java](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=0)** - [Instructor] Java has a built-in stack data structure that we can use in our custom algorithms.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=0)** - [Instructor] [[Java]] has a built-in stack data structure that we can use in our custom [[Algorithms]].
 >
 > **[0:06](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=6)** It lives in the java.util package.
 >
 > **[0:11](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=11)** We can create a stack using the constructor.
 >
-> **[0:18](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=18)** Like the other data structures, it's generic and this stack will hold strings.
+> **[0:18](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=18)** Like the other [[Data Structures]], it's generic and this stack will hold strings.
 >
 > **[0:24](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=24)** To add items to the stack, we'll use the push method.
 >
@@ -2294,7 +2261,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=87)** Each pop statement returns the item on the top of the stack.
 >
-> **[1:31](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=91)** So let's print those values with the word end to help visualize our mini run time stack.
+> **[1:31](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=91)** So let's print those values with the [[Microsoft Word|word]] end to help visualize our mini run time stack.
 >
 > **[1:39](https://www.linkedin.com/learning/java-algorithms/basic-stack-operations-in-java?u=76281980&t=99)** Put system.out.println , end with whatever function is ending its execution.
 >
@@ -2326,17 +2293,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Java]] (2), [[Algorithms]] (1), generic (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Algorithms]] (1), [[Data Structures]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Theorizing an algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980)
+#### [Stack algorithms: Theorizing an algorithm](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to know how to leverage the built-in stack functionality when working with algorithms that keep track of state.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=0)** - [Instructor] As a software engineer, you'll need to know how to leverage the built-in stack functionality when working with [[Algorithms]] that keep track of state.
 >
 > **[0:09](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-theorizing-an-algorithm?u=76281980&t=9)** In this lesson, we'll look at how we can use the stack data structure to solve software problems.
 >
@@ -2438,19 +2404,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (26), data (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Next greater element
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980)
+#### [Stack algorithms: Next greater element](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=0)** - [Instructor] Let's translate the next greater element algorithm into Java code.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=0)** - [Instructor] Let's translate the next greater element algorithm into [[Java]] code.
 >
 > **[0:05](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=5)** The first step is to create a function.
 >
@@ -2508,17 +2473,16 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=216)** If we got to the end of the array, and had some items where we did not find the match, we were able to retrieve those and give them the next greater element of -1.
 >
-> **[3:47](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=227)** Understanding how to leverage stacks in algorithms where you need to keep track of state is key to creating efficient solutions.
+> **[3:47](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-next-greater-element?u=76281980&t=227)** Understanding how to leverage stacks in [[Algorithms]] where you need to keep track of state is key to creating efficient solutions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (22), [[Java]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stack algorithms: Matching parentheses
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980)
+#### [Stack algorithms: Matching parentheses](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2576,7 +2540,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=170)** The output is as expected.
 >
-> **[2:53](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=173)** The first four are true and the rest are false.
+> **[2:53](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=173)** The first four are true and the [[Representational State Transfer (REST)|rest]] are false.
 >
 > **[2:57](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=177)** Now, since we're only dealing with symbol type, parentheses, we can keep track of whether we've seen an opening or not by just using an integer.
 >
@@ -2608,18 +2572,17 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=271)** This modified algorithm is also less complex and easier to read, because it uses simpler tools to achieve the same output.
 >
-> **[4:41](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=281)** While adding data structures can often help make your algorithms more efficient, they're not always the solution to every problem.
+> **[4:41](https://www.linkedin.com/learning/java-algorithms/stack-algorithms-matching-parentheses?u=76281980&t=281)** While adding [[Data Structures]] can often help make your [[Algorithms]] more efficient, they're not always the solution to every problem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Data Structures]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** matchingsymboltracker (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Evaluate reverse polish notation
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980)
+#### [Solution: Evaluate reverse polish notation](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2653,7 +2616,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980&t=76)** We also know that each operand and operator is separated by spaces.
 >
-> **[1:21](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980&t=81)** Given this, we can split the string into tokens, using the split method.
+> **[1:21](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980&t=81)** Given this, we can split the string into [[Tokens]], using the split method.
 >
 > **[1:29](https://www.linkedin.com/learning/java-algorithms/solution-evaluate-reverse-polish-notation?u=76281980&t=89)** Our delimiter will be a space.
 >
@@ -2707,7 +2670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (1)
 > **Code Identifiers:** isnumber (1), isoperator (1), performoperation (1), evaluaterpn (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** rpn (1)
@@ -2718,14 +2681,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hash-based structures in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980)
+#### [Hash-based structures in Java](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=0)** - [Instructor] Hash structures are great tools when working with collections, sets, and data formatted as key-value pairs.
 >
-> **[0:08](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=8)** In Java, there are a few different options we can use.
+> **[0:08](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=8)** In [[Java]], there are a few different options we can use.
 >
 > **[0:11](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=11)** Their differences lie in synchronization, usages of null, and whether or not duplicate values are allowed.
 >
@@ -2749,7 +2711,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=72)** You can store each employee value using the ID as the key and quickly look up employee data by their ID in constant time.
 >
-> **[1:22](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=82)** If there's an identifier you can use to navigate your data, like an ID or a code, the HashMap type proves to be a very helpful tool in creating your algorithms.
+> **[1:22](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=82)** If there's an identifier you can use to navigate your data, like an ID or a code, the HashMap type proves to be a very helpful tool in creating your [[Algorithms]].
 >
 > **[1:35](https://www.linkedin.com/learning/java-algorithms/hash-based-structures-in-java?u=76281980&t=95)** There is also the Hashtable type.
 >
@@ -2763,18 +2725,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Java]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[Algorithms]] (1)
 > **Analogies:** for example (1), similar to (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### HashMap and HashSet operations in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980)
+#### [HashMap and HashSet operations in Java](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=0)** - [Instructor] Let's take a look at how to use hash structures so we can build algorithms that work with key value pairs.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=0)** - [Instructor] Let's take a look at how to use hash structures so we can build [[Algorithms]] that work with key value pairs.
 >
 > **[0:07](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=7)** We start off with an employee class.
 >
@@ -2810,7 +2771,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=86)** It will take in two entries.
 >
-> **[1:29](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=89)** First, the key, which is the employee ID, and a value, which is the rest of the employee data.
+> **[1:29](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=89)** First, the key, which is the employee ID, and a value, which is the [[Representational State Transfer (REST)|rest]] of the employee data.
 >
 > **[1:37](https://www.linkedin.com/learning/java-algorithms/hashmap-and-hashset-operations-in-java?u=76281980&t=97)** Here, we insert the first employee into the HashMap.
 >
@@ -2886,7 +2847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), product (4), [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (3), is a  (2)
 > **Code Identifiers:** containskey (1), containsvalue (1)
 > **CLI Commands:** make (1)
@@ -2894,12 +2855,11 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage the HashSet type in Java algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/leverage-the-hashset-type-in-java-algorithms?u=76281980)
+#### [Leverage the HashSet type in Java algorithms](https://www.linkedin.com/learning/java-algorithms/leverage-the-hashset-type-in-java-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/leverage-the-hashset-type-in-java-algorithms?u=76281980&t=0)** - [Instructor] The Java standard library provides a few data types for working with unique items, but you'll need to leverage these types in order to manipulate data in exactly the way you want.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/leverage-the-hashset-type-in-java-algorithms?u=76281980&t=0)** - [Instructor] The [[Java]] standard library provides a few data types for working with unique items, but you'll need to leverage these types in order to manipulate data in exactly the way you want.
 >
 > **[0:11](https://www.linkedin.com/learning/java-algorithms/leverage-the-hashset-type-in-java-algorithms?u=76281980&t=11)** For example, let's say we have two arrays, and we want to find what elements are present in the first array, but not the second, given both arrays are unsorted.
 >
@@ -2955,7 +2915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Java]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Java]] (1)
 > **Code Identifiers:** hashset (6)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
@@ -2963,12 +2923,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the HashMap type in Java algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/use-the-hashmap-type-in-java-algorithms?u=76281980)
+#### [Use the HashMap type in Java algorithms](https://www.linkedin.com/learning/java-algorithms/use-the-hashmap-type-in-java-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/use-the-hashmap-type-in-java-algorithms?u=76281980&t=0)** - [Instructor] We can also leverage the hash map type in our algorithms.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/use-the-hashmap-type-in-java-algorithms?u=76281980&t=0)** - [Instructor] We can also leverage the hash map type in our [[Algorithms]].
 >
 > **[0:04](https://www.linkedin.com/learning/java-algorithms/use-the-hashmap-type-in-java-algorithms?u=76281980&t=4)** For example, let's say we want to display the count of each element in an unsorted array.
 >
@@ -3034,15 +2993,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Code Identifiers:** displayfrequencyofeachelement (1), containskey (1), foreach (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Detect a cylic linkedlist
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-detect-a-cylic-linkedlist?u=76281980)
+#### [Solution: Detect a cylic linkedlist](https://www.linkedin.com/learning/java-algorithms/solution-detect-a-cylic-linkedlist?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3098,7 +3056,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), next (4), data (1)
 > **CLI Commands:** node (11), make (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -3108,8 +3065,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a tree?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980)
+#### [What is a tree?](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3193,23 +3149,22 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980&t=244)** Although the worst-case is still O of n, since all the elements might be on one side of the tree.
 >
-> **[4:11](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980&t=251)** By adding constraints to basic data structure ideas, we can create tools that help make our algorithms more efficient.
+> **[4:11](https://www.linkedin.com/learning/java-algorithms/what-is-a-tree?u=76281980&t=251)** By adding constraints to basic data structure ideas, we can create tools that help make our [[Algorithms]] more efficient.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (16), data (13), [[Search]] (7), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** node (16), make (2), find (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** we talked about (2)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary trees in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980)
+#### [Binary trees in Java](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=0)** - [Instructor] In Java, we can use nodes in a binary search tree manner to work with our non-linear data efficiently.
+> **[0:00](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=0)** - [Instructor] In [[Java]], we can use nodes in a binary search tree manner to work with our non-linear data efficiently.
 >
 > **[0:08](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=8)** The fundamental components of a binary search tree are very similar to a linked list.
 >
@@ -3227,7 +3182,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=45)** Now this node class itself is a tree.
 >
-> **[0:48](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=48)** It contains left and right trees, as well as a piece of data, it only becomes a binary search tree when we use algorithms to constrain how we insert, remove and manipulate our data.
+> **[0:48](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=48)** It contains left and right trees, as well as a piece of data, it only becomes a binary search tree when we use [[Algorithms]] to constrain how we insert, remove and manipulate our data.
 >
 > **[1:02](https://www.linkedin.com/learning/java-algorithms/binary-trees-in-java?u=76281980&t=62)** This means we'll create another class called binary search tree.
 >
@@ -3315,15 +3270,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (18), data (9), [[Search]] (8), next (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Java]] (1)
 > **CLI Commands:** node (18), find (2), make (1)
 > **Definitions:** is a  (1), is called (1), means that (1)
 > **Analogies:** similar to (2), for example (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are tree traversals?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/what-are-tree-traversals?u=76281980)
+#### [What are tree traversals?](https://www.linkedin.com/learning/java-algorithms/what-are-tree-traversals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3405,15 +3359,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), data (6), next (5), [[Search]] (2)
 > **CLI Commands:** node (9), find (1)
 > **Definitions:** we call this (2), is a  (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement tree traversals in Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980)
+#### [Implement tree traversals in Java](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3429,7 +3381,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=30)** The concept of recursion can become a very useful tool in this type of algorithm because we're doing the same operation with slight modifications to the inputs.
 >
-> **[0:41](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=41)** Let's look at how we can apply it to tree traversal algorithms.
+> **[0:41](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=41)** Let's look at how we can apply it to tree traversal [[Algorithms]].
 >
 > **[0:47](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=47)** We have some sample code here that we've carried over from previous videos with a few modifications.
 >
@@ -3511,7 +3463,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=247)** So we'll continue on to the right subtree with the root five.
 >
-> **[4:21](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=261)** And we continue on until the rest of the tree is printed.
+> **[4:21](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=261)** And we continue on until the [[Representational State Transfer (REST)|rest]] of the tree is printed.
 >
 > **[4:27](https://www.linkedin.com/learning/java-algorithms/implement-tree-traversals-in-java?u=76281980&t=267)** In the console, we see the full pre-order output.
 >
@@ -3549,13 +3501,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (5), hit (3), [[Algorithms]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (7)
 > **Exercise Files:** sample code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find height of binary tree
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/solution-find-height-of-binary-tree?u=76281980)
+#### [Solution: Find height of binary tree](https://www.linkedin.com/learning/java-algorithms/solution-find-height-of-binary-tree?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3607,7 +3558,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2)
 > **CLI Commands:** node (2)
 > **Code Identifiers:** findheight (1)
 > **Speakers:** - [instructor] (1)
@@ -3617,26 +3567,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue optimizing algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980)
+#### [Continue optimizing algorithms](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=0)** - [Kathryn] Congrats on finishing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=2)** Now you know how to create more efficient programs in Java by optimizing your algorithms.
+> **[0:02](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=2)** Now you know how to create more efficient programs in [[Java]] by optimizing your [[Algorithms]].
 >
 > **[0:09](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=9)** As a part of this course, we discovered what makes a given algorithm effective and how to make informed assumptions to speed up that processing time.
 >
 > **[0:19](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=19)** We also learned how to describe algorithms using big O notation to compare one algorithm to another, independent of input size.
 >
-> **[0:28](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=28)** Java has many built-in tools to work with your data, and we discovered how to leverage different data structures to make our algorithms more efficient.
+> **[0:28](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=28)** Java has many built-in tools to work with your data, and we discovered how to leverage different [[Data Structures]] to make our algorithms more efficient.
 >
 > **[0:38](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=38)** Creating more efficient algorithms is all about understanding the assumptions you can make about your data and leveraging the tools in your toolkit.
 >
 > **[0:47](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=47)** To continue optimizing your programs in Java, I encourage you to learn more about what Java has to offer in terms of built-in tools.
 >
-> **[0:56](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=56)** The more specific LinkedIn Learning courses, such as "Functional Programming in Java", are great for building your knowledge of a specific set of tools in Java.
+> **[0:56](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=56)** The more specific [[LinkedIn]] Learning courses, such as "[[Functional Programming]] in Java", are great for building your knowledge of a specific set of tools in Java.
 >
 > **[1:06](https://www.linkedin.com/learning/java-algorithms/continue-optimizing-algorithms?u=76281980&t=66)** Then, using the knowledge we've built here, you can decide whether a given tool fits your needs for a particular algorithm.
 >
@@ -3652,7 +3601,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (8), [[Algorithms]] (5), data (5), [[LinkedIn]] (1), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (8), [[Algorithms]] (5), [[Data Structures]] (2), [[LinkedIn]] (1), [[Functional Programming]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (1)
 > **Speakers:** - [kathryn] (1)

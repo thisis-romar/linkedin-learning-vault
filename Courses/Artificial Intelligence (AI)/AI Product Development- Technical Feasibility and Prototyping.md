@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -103,7 +102,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980&t=6)** It's not about the quality of the design, but rather when the product doesn't meet the business needs.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980&t=13)** AI managers will be in a very high demand to manage the process of visibility and prototyping.
+> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980&t=13)** AI managers will be in a very high demand to manage the process of visibility and [[Prototyping]].
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/introduction?u=76281980&t=21)** In this course, you'll learn how to add super power to your product and make it feasible, and with prototyping, make sure your users will love it.
 >
@@ -115,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), product (3), [[Prototyping]] (2), business (1), power (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - in (1)
 
@@ -124,8 +123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The goal: Feasibility and prototyping
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
+#### [The goal: Feasibility and prototyping](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,15 +211,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (4), chatbot (1), data (1), next (1)
 > **Analogies:** imagine (1), for example (1), just like (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - imagine (1)
 
-#### Building options
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980)
+#### [Building options](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=71)** If you want to know more about these steps, check out my course on [[AI Product Ideation- Principles and Practical Applications]].
 >
-> **[1:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=81)** Once we've narrowed the list down significantly, we move to the third and most critical moment, feasibility analysis and prototyping.
+> **[1:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=81)** Once we've narrowed the list down significantly, we move to the third and most critical moment, feasibility analysis and [[Prototyping]].
 >
 > **[1:32](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=92)** At this stage, we've already decided that the project makes sense from a business perspective.
 >
@@ -271,13 +267,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=184)** Instead of validating the concept before starting, the company moves forward knowing that they will implement the AI project no matter what.
 >
-> **[3:14](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=194)** However, they fine-tune the concept as they go, usually through a series of prototypes, making adjustments in real-time based on feedback, technical challenges, and evolving business needs.
+> **[3:14](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=194)** However, they fine-tune the concept as they go, usually through a series of prototypes, making adjustments in [[Real-Time]] based on feedback, technical challenges, and evolving business needs.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=208)** This can be a highly effective method, especially in fast moving industries where speed is critical.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=215)** However, it requires an experienced team skilled in agile AI development.
+> **[3:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=215)** However, it requires an experienced team skilled in [[Agile Development|agile]] AI development.
 >
-> **[3:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=222)** Without strong technical leadership, gorilla development can easily turn into chaos, so don't assume it's the best option simply because it's the fastest one.
+> **[3:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=222)** Without strong [[Technical Leadership]], gorilla development can easily turn into chaos, so don't assume it's the best option simply because it's the fastest one.
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/building-options?u=76281980&t=233)** Okay, so what happens after feasibility?
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), business (5), [[Prototyping]] (4), data (2), product (2)
+> **Frameworks & Libraries:** [[Prototyping]] (4), [[Real-Time]] (1), [[Agile Development|Agile]] (1), [[Technical Leadership]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
@@ -297,8 +293,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### "Must knows" for feasibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
+#### ["Must knows" for feasibility](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -314,7 +309,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=34)** These concepts will help you benefit more from the next chapter, so I strongly encourage you to go through them and dig deeper.
 >
-> **[0:43](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=43)** If any of the presented concepts are new to you, I cover them in my other LinkedIn Learning course, The new AI Tech Stack: AI Literacy for Tech Leaders, so feel free to check it out.
+> **[0:43](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=43)** If any of the presented concepts are new to you, I cover them in my other [[LinkedIn]] Learning course, The new AI Tech Stack: [[AI Literacy]] for Tech Leaders, so feel free to check it out.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=57)** Now let's start with options for AI implementation.
 >
@@ -324,17 +319,17 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=78)** While for the build, you will be assessing the computational power and storage.
 >
-> **[1:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=86)** The option for implementation is usually selected during the first or second evaluation, but it can change at the feasibility and prototyping phase as well.
+> **[1:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=86)** The option for implementation is usually selected during the first or second evaluation, but it can change at the feasibility and [[Prototyping]] phase as well.
 >
-> **[1:38](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=98)** Let's start with the first option, buying prebuilt AI solutions.
+> **[1:38](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=98)** Let's start with the first option, buying prebuilt [[AI Solutions]].
 >
 > **[1:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=105)** If you want a fast and simple way to integrate AI, buying an off the shelf solution is the easiest option.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=113)** These are AI tools designed for specific tasks like customer service, marketing automation, or data analytics.
 >
-> **[2:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=123)** Examples include ChatGPT, Claude, or Gemini for answering customer questions, ElevenLabs for voice automation, or Tableau for data visualization.
+> **[2:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=123)** Examples include [[ChatGPT]], Claude, or [[Gemini]] for answering customer questions, ElevenLabs for voice automation, or [[Tableau]] for data visualization.
 >
-> **[2:16](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=136)** These solutions can be SaaS, PaaS, or even on-premise, depending on your needs.
+> **[2:16](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=136)** These solutions can be [[SaaS]], [[PaaS]], or even on-premise, depending on your needs.
 >
 > **[2:25](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=145)** The biggest advantage is that it usually works right away.
 >
@@ -350,7 +345,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=189)** Some companies start with prebuilt solutions first, then move to custom AI once they understand what they really need.
 >
-> **[3:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=200)** If you want something customized but don't want to start from scratch, fine tuning might be the best approach.
+> **[3:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=200)** If you want something customized but don't want to start from scratch, [[Fine Tuning]] might be the best approach.
 >
 > **[3:28](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=208)** For example, you could fine tune a large language model to respond to customer emails in your brand's voice or add company-specific data like product catalogs or pricing.
 >
@@ -358,13 +353,13 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=233)** Sometimes the best approach isn't one AI tool, but a combination of several working together.
 >
-> **[4:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=240)** This is where AI agents come in, automated systems that connect different AI models to perform complex tasks automatically.
+> **[4:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=240)** This is where [[AI Agents]] come in, automated systems that connect different AI models to perform complex tasks automatically.
 >
 > **[4:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=252)** For example, a customer service AI agent might integrate a chatbot, a CRM system, and an analytics tool to provide a seamless support experience.
 >
 > **[4:24](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=264)** And the last option is to use AI services available on the cloud.
 >
-> **[4:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=270)** Platforms like AWS, Google Cloud, and Microsoft Azure offer ready-made AI tools for tasks like speech recognition, image processing, predictive analytics, and more.
+> **[4:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=270)** Platforms like AWS, [[Google Cloud Platform (GCP)|Google Cloud]], and [[Microsoft Azure]] offer ready-made AI tools for tasks like [[Speech Recognition]], [[Image Processing]], [[Predictive Analytics]], and more.
 >
 > **[4:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=285)** They also allow you to easily fine tune models.
 >
@@ -372,7 +367,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=294)** It's all managed in the cloud.
 >
-> **[4:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=296)** However, it's rather a costly option and data security should be considered.
+> **[4:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=296)** However, it's rather a costly option and [[Data Security]] should be considered.
 >
 > **[5:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/must-knows-for-feasibility-25734183?u=76281980&t=303)** Now that you know the implementation options, what's next?
 >
@@ -382,7 +377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (5), next (2), [[Automation]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Fine Tuning]] (2), [[LinkedIn]] (1), [[AI Literacy]] (1), [[Prototyping]] (1), [[AI Solutions]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** crm (1), aws (1)
 > **Definitions:** is a  (2)
@@ -391,16 +386,15 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - before (1)
 
-#### Proof of concept, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980)
+#### [Proof of concept, part 1](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=0)** - [Instructor] Imagine a company wants to build an AI powered prediction mechanism to reduce long tails and predict which product should they sell in their e-commerce.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=0)** - [Instructor] Imagine a company wants to build an AI powered prediction mechanism to reduce long tails and predict which product should they sell in their [[E-Commerce]].
 >
 > **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=13)** The leadership team is excited, the budget is approved, and developers start working on a complex AI model.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=22)** Months go by, the team struggles with data quality issues because data is scars and poor quality, the model isn't performing as expected and integrating it into existing systems turns out to be much harder than they thought.
+> **[0:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=22)** Months go by, the team struggles with [[Data Quality]] issues because data is scars and poor quality, the model isn't performing as expected and integrating it into existing systems turns out to be much harder than they thought.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=41)** Eventually, after spending thousands of hours and resources, they realize the AI system doesn't actually solve the problem and they will never use it.
 >
@@ -408,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=58)** The issue isn't a lack of ambition, it's a lack of early validation.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=64)** In AI projects, before we look into data and test the first algorithms, it is very hard to say if the predictions will be at the satisfactory level.
+> **[1:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=64)** In AI projects, before we look into data and test the first [[Algorithms]], it is very hard to say if the predictions will be at the satisfactory level.
 >
 > **[1:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-1?u=76281980&t=75)** This is when proof of concept enters the scene.
 >
@@ -446,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (6), product (1), [[E-Commerce]] (1), leadership (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Data Quality]] (1), [[Algorithms]] (1)
 > **Env Vars:** poc (7)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), for example (1)
@@ -454,16 +448,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Proof of concept, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980)
+#### [Proof of concept, part 2](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=0)** - [Instructor] POC is like a standard project, but significantly smaller.
 >
-> **[0:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=4)** You need to do business analysis and data preparation.
+> **[0:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=4)** You need to do business analysis and [[Data Preparation]].
 >
-> **[0:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=9)** Obviously, first you need to collect the data, clean it, and move on with testing some algorithms.
+> **[0:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=9)** Obviously, first you need to collect the data, clean it, and move on with testing some [[Algorithms]].
 >
 > **[0:16](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/proof-of-concept-part-2?u=76281980&t=16)** For the sake of POC, you can use just part of the data and then estimate what the accuracy could be if you use the complete data set.
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), ai (3), business (1), [[Algorithms]] (1), power (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (1), [[Algorithms]] (1)
 > **Env Vars:** poc (4)
 > **CLI Commands:** find (1)
 > **Cross-References:** next video (1)
@@ -518,16 +511,15 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core AI architecture concepts, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980)
+#### [Core AI architecture concepts, part 1](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=0)** - [Instructor] Let's explore some of the most exciting parts of artificial intelligence that you will use as a foundation for our deeper tech dives later.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=0)** - [Instructor] Let's explore some of the most exciting parts of [[Artificial Intelligence (AI)|artificial intelligence]] that you will use as a foundation for our deeper tech dives later.
 >
 > **[0:11](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=11)** Think of this as both a great introduction and a cool refresher if you are already familiar with these ideas.
 >
-> **[0:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=20)** First, you need to know that in most cases, you need hardware to use ai except when you plan to go the buy option in the form of SaaS, software as a service where the solution is on someone else's server.
+> **[0:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=20)** First, you need to know that in most cases, you need [[Hardware]] to use ai except when you plan to go the buy option in the form of [[SaaS]], [[SaaS|software as a service]] where the solution is on someone else's server.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=39)** A tech stack is the mix of hardware and software that runs your AI project.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=115)** And the second point, you need to understand the difference between building an AI model and building an AI system.
 >
-> **[2:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=125)** Building a model focuses on creating the smart algorithms that make predictions or decisions, but on its own, it's not yet a working system.
+> **[2:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=125)** Building a model focuses on creating the smart [[Algorithms]] that make predictions or decisions, but on its own, it's not yet a working system.
 >
 > **[2:17](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=137)** You can either connect the model with an existing system through API in your architecture, or you can build it from scratch.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=189)** You'll need them to connect AI model with any system and also to bind several AI into a process.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=198)** The fourth element is MLOps.
+> **[3:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=198)** The fourth element is [[MLOps]].
 >
 > **[3:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-1?u=76281980&t=202)** MLOps is all about putting machine learning into practice after the deployment.
 >
@@ -591,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (10), [[Hardware]] (2), power (2), api (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[MLOps]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[SaaS]] (1), [[SaaS|Software as a service]] (1)
 > **Env Vars:** api (2), gpu (1), erp (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Prerequisites:** you'll need (2)
@@ -599,8 +591,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Core AI architecture concepts, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980)
+#### [Core AI architecture concepts, part 2](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=9)** We left off on the fifth.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=13)** The sixth one is the device you design for, like a smartphone, computer, smartwatch, IoT gadget, or a robot.
+> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=13)** The sixth one is the device you design for, like a smartphone, computer, smartwatch, [[IoT]] gadget, or a robot.
 >
 > **[0:24](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=24)** It greatly influences your development choices.
 >
@@ -630,21 +621,21 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=95)** You can either scrape them, download from an open data source, or buy them.
 >
-> **[1:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=102)** Scraping brings some risks and challenges, especially around data privacy and ownership and buying, you know, costs.
+> **[1:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=102)** Scraping brings some risks and challenges, especially around [[Data Privacy]] and ownership and buying, you know, costs.
 >
 > **[1:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=113)** Then the eighth element.
 >
 > **[1:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=115)** You need to know what RAG is.
 >
-> **[1:58](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=118)** RAG, or retrieval-augmented generation, is the most popular fine-tuning strategy, a method that helps AI models fetch extra information before generating a response.
+> **[1:58](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=118)** RAG, or [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], is the most popular fine-tuning strategy, a method that helps AI models [[Fetch]] extra information before generating a response.
 >
 > **[2:14](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=134)** This makes the answers more accurate and tailored to what you need, with less risk of hallucinations.
 >
 > **[2:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=142)** However, sometimes you might want to do standard fine-tuning that takes longer and is less flexible, but it's more coherent, especially if you want to sell the product to someone.
 >
-> **[2:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=155)** Then the ninth element, AI security, is all about protecting your data, models, and systems from unauthorized access and attacks.
+> **[2:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=155)** Then the ninth element, [[AI Security]], is all about protecting your data, models, and systems from unauthorized access and attacks.
 >
-> **[2:48](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=168)** It involves measures like encryption, secure coding practices, and continuous monitoring to keep everything safe.
+> **[2:48](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=168)** It involves measures like encryption, [[Secure Coding]] practices, and [[Continuous Monitoring]] to keep everything safe.
 >
 > **[2:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/core-ai-architecture-concepts-part-2?u=76281980&t=176)** And obviously the more prone to attacks the project is, the more costly and potentially less feasible it will be.
 >
@@ -660,13 +651,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), power (2), rag (2), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1), [[Data Privacy]] (1), [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1), [[Fetch]] (1), [[AI Security]] (1)
 > **Env Vars:** rag (2)
 > **Prerequisites:** you'll need (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to do tech feasibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/how-to-do-tech-feasibility?u=76281980)
+#### [How to do tech feasibility](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/how-to-do-tech-feasibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +756,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), next (2), data (2), cloud (1), ai (1)
 > **CLI Commands:** make (5), find (1)
 > **Exercise Files:** template (3), exercise file (1)
 > **Prerequisites:** required to (2)
@@ -774,9 +763,9 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
+> **Warnings:** note that (1)
 
-#### Questions for different implementation options
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980)
+#### [Questions for different implementation options](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -794,7 +783,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980&t=31)** With buy, we would be focusing mainly on the installation, security, data, maintenance and retraining because all the other points are being taken care of by the vendor.
 >
-> **[0:46](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980&t=46)** However, we would be adding additional questions like, what is the stage of product development?
+> **[0:46](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980&t=46)** However, we would be adding additional questions like, what is the stage of [[Product Development]]?
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/different-questions-for-different-implementation-options?u=76281980&t=53)** Is it alpha, beta?
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), cloud (4), ai (2), [[Security]] (2), product (2)
+> **Frameworks & Libraries:** [[Product Development]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sla (1)
 > **Cross-References:** in the next (1)
@@ -861,8 +850,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Who can help you out? Storage and computing power
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980)
+#### [Who can help you out? Storage and computing power](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=153)** Okay, to summarize.
 >
-> **[2:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=155)** First, you go to data scientist for the estimate and then to the hardware experts to check if this is possible.
+> **[2:35](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=155)** First, you go to data scientist for the estimate and then to the [[Hardware]] experts to check if this is possible.
 >
 > **[2:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=165)** Or in reverse, check what is available and calculate the time of the project.
 >
@@ -914,15 +902,15 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=195)** And it should be estimated over time because the data will only get larger.
 >
-> **[3:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=201)** To do some savings, remember, you don't always need the high-quality pictures for training computer vision models.
+> **[3:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=201)** To do some savings, remember, you don't always need the high-quality pictures for training [[Computer Vision]] models.
 >
 > **[3:29](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=209)** Consider if lower quality is enough.
 >
-> **[3:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=213)** The good news is that storage can be shared within one company and that there are several options, including data warehouse, data lakes, and more.
+> **[3:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=213)** The good news is that storage can be shared within one company and that there are several options, including data warehouse, [[Data Lakes]], and more.
 >
 > **[3:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=225)** Adding additional storage sounds easy, but it usually takes time, so we are often stuck with what the company has.
 >
-> **[3:54](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=234)** This is not the case when the company uses the cloud for data storage.
+> **[3:54](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=234)** This is not the case when the company uses the cloud for [[Data Storage]].
 >
 > **[3:58](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=238)** In that case, you can scale up in minutes, assuming you have budget, to cover additional demand.
 >
@@ -932,11 +920,11 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=258)** The raw text data might not take up a lot of space, but once you start creating multiple versions of your model and saving intermediate training results, the storage requirement increases dramatically.
 >
-> **[4:32](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=272)** In such cases, using a combination of local and cloud storage might be the best approach.
+> **[4:32](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/who-can-help-you-out-storage-and-computing-power?u=76281980&t=272)** In such cases, using a combination of local and [[Cloud Storage]] might be the best approach.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), cloud (3), ai (2), power (2), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Computer Vision]] (1), [[Data Lakes]] (1), [[Data Storage]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** gpu (5), nvidia (1)
 > **Analogies:** for example (3)
 > **UI Navigation:** select the (1), go to (1)
@@ -944,8 +932,7 @@ created: 2026-05-02
 > **Prerequisites:** assuming you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Architecture, latency, standalone vs. connected
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980)
+#### [Architecture, latency, standalone vs. connected](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -971,9 +958,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=114)** For this, I like drawing the simple structure and then analyzing connections, the inputs and outputs.
 >
-> **[2:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=124)** You also need to decide whether you want to use batch processing or a real time model.
+> **[2:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=124)** You also need to decide whether you want to use [[Batch Processing]] or a real time model.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=132)** Real-time AI applications are much more demanding and usually more expensive to build and maintain.
+> **[2:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=132)** [[Real-Time]] AI applications are much more demanding and usually more expensive to build and maintain.
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=140)** For example, for applications requiring fast responses, like real-time fraud detection or online recommendation systems, low latency is crucial.
 >
@@ -1005,13 +992,13 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=252)** I also add stress tests into the project's schedule and budget because at this time, they are just assumptions.
 >
-> **[4:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=262)** Now let's continue with security, ethics, and compliance.
+> **[4:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=262)** Now let's continue with security, [[Ethics]], and compliance.
 >
 > **[4:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/architecture-latency-standalone-vs-connected?u=76281980&t=266)** See you in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (4), rag (3), next (2), application (2)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Batch Processing]] (1), [[Ethics]] (1)
 > **Env Vars:** rag (3), cag (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -1020,8 +1007,7 @@ created: 2026-05-02
 > **Warnings:** common mistake (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security, ethics, and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980)
+#### [Security, ethics, and compliance](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1017,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=9)** The first point is about regulations.
 >
-> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=13)** Is your AI solution compliant with laws and guidelines that apply to AI solutions?
+> **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=13)** Is your AI solution compliant with laws and guidelines that apply to [[AI Solutions]]?
 >
 > **[0:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=20)** Think of it as making sure your project follows all the rules of the road for technology.
 >
@@ -1045,17 +1031,17 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=57)** Additionally, you should check out the specific regulations for industries.
 >
-> **[1:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=63)** Usually healthcare is quite demanding because of the personal health data, but also utilities and banking, which are traditionally rather tightly regulated.
+> **[1:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=63)** Usually healthcare is quite demanding because of the personal health data, but also utilities and [[Banking]], which are traditionally rather tightly regulated.
 >
 > **[1:16](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=76)** Let's say you are building an AI health diagnosis tool.
 >
 > **[1:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=81)** It must protect patient data through encryption, limit access to sensitive information, and follow healthcare regulations.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=90)** So it will affect the whole project from privacy-oriented architecture to additional time and budget for data preparation and anonymization.
+> **[1:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=90)** So it will affect the whole project from [[Privacy]]-oriented architecture to additional time and budget for [[Data Preparation]] and anonymization.
 >
 > **[1:41](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=101)** The second element is security.
 >
-> **[1:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=105)** You need to verify with cybersecurity experts if your concept is vulnerable at any level.
+> **[1:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=105)** You need to verify with [[Cybersecurity]] experts if your concept is vulnerable at any level.
 >
 > **[1:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=112)** The security team should also help you in adding certain steps to your schedule during the project that will help in securing the development, for example, security tests.
 >
@@ -1079,9 +1065,9 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=176)** For example, does your system unintentionally discriminate or does it operate in any way that isn't fair?
 >
-> **[3:06](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=186)** Ethical risks also include concerns about transparency and accountability.
+> **[3:06](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=186)** Ethical risks also include concerns about transparency and [[Accountability]].
 >
-> **[3:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=192)** Ethical analysis at this point should be done by an AI ethics expert, but if there is none, make sure you engaged as many people as possible.
+> **[3:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=192)** Ethical analysis at this point should be done by an AI [[Ethics]] expert, but if there is none, make sure you engaged as many people as possible.
 >
 > **[3:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/security-ethics-and-compliance?u=76281980&t=202)** A super important rule is you should never make ethical decisions alone because whether we want it to be or not, we are all biased.
 >
@@ -1109,7 +1095,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (6), [[Security]] (5), [[Ethics]] (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Ethics]] (2), [[AI Solutions]] (1), [[Banking]] (1), [[Privacy]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** gdpr (1), usa (1), hipaa (1), pipeda (1)
 > **Analogies:** for example (3), think of it as (1)
@@ -1118,8 +1104,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 
-#### Endpoints and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980)
+#### [Endpoints and data](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1133,7 +1118,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980&t=12)** Typically, people don't remember that when you design an AI application, you need to decide about the type of devices that will be using it.
 >
-> **[0:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980&t=22)** The design requirements for a mobile app, a desktop application, a robot, or an embedded system like IoT devices are very different.
+> **[0:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980&t=22)** The design requirements for a mobile app, a desktop application, a robot, or an embedded system like [[IoT]] devices are very different.
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/endpoints-and-data?u=76281980&t=33)** For each device, you typically use different codes because you use different operational systems.
 >
@@ -1197,7 +1182,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), power (4), ai (2), application (2), next (2)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
@@ -1205,8 +1190,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [speaker] (1)
 
-#### Talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980)
+#### [Talent](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1232,7 +1216,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=89)** AI has grown in the huge field with so many technologies under the AI umbrella.
 >
-> **[1:36](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=96)** They usually require different technologies, different set of scales, different software, and sometimes even hardware.
+> **[1:36](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=96)** They usually require different technologies, different set of scales, different software, and sometimes even [[Hardware]].
 >
 > **[1:44](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=104)** This means that you should engage people who are experienced in the particular technology you want to use in your project.
 >
@@ -1240,7 +1224,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=129)** And now, pro tip from my projects.
 >
-> **[2:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=132)** I engage one super expert and the rest follow this person's lead.
+> **[2:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=132)** I engage one super expert and the [[Representational State Transfer (REST)|rest]] follow this person's lead.
 >
 > **[2:19](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/talent?u=76281980&t=139)** Many people forget that one of the crucial talents necessary for AI project success is the skilled AI manager or AI product manager.
 >
@@ -1252,7 +1236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (3), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** previous video (1), we covered (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -1261,8 +1245,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintenance and retraining
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980)
+#### [Maintenance and retraining](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,13 +1297,13 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=124)** Like the industry.
 >
-> **[2:06](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=126)** E-commerce typically changes faster than finance.
+> **[2:06](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=126)** [[E-Commerce]] typically changes faster than finance.
 >
 > **[2:10](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=130)** The importance of the model and how fast the data changes.
 >
 > **[2:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=135)** You can learn more about retraining from my course, the new AI tech stack.
 >
-> **[2:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=141)** AI literacy for tech leaders.
+> **[2:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=141)** [[AI Literacy]] for tech leaders.
 >
 > **[2:23](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/maintenance-and-retraining?u=76281980&t=143)** Typically, it's done every six months or so, but not later than a year.
 >
@@ -1350,15 +1333,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), data (6), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[AI Literacy]] (1)
 > **Definitions:** is an  (2), in other words (1), means that (1), is a  (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling and testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980)
+#### [Scaling and testing](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1376,7 +1358,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980&t=53)** Why should you bother at this stage?
 >
-> **[0:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980&t=56)** Because how you plan the project now will affect the ease of scalability.
+> **[0:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980&t=56)** Because how you plan the project now will affect the ease of [[Scalability]].
 >
 > **[1:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/scaling-and-testing?u=76281980&t=63)** The potential for larger volumes must be planned into your architecture.
 >
@@ -1428,12 +1410,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), chatbot (2), ux (2), application (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics and time and budget updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980)
+#### [Metrics and time and budget updates](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1445,7 +1426,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=16)** Because you'll plan your project differently knowing that the decision makers expect 70% of accuracy versus a situation with 99% accuracy.
 >
-> **[0:29](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=29)** These would be completely different systems in terms of time, budget, talent, level of testing, amount of data security, and computing power.
+> **[0:29](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=29)** These would be completely different systems in terms of time, budget, talent, level of testing, amount of [[Data Security]], and computing power.
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=42)** As we set the metrics, the system design should follow.
 >
@@ -1459,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=68)** For example, error rate or time to achieve goal.
 >
-> **[1:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=72)** And the third one, the data science metrics related to how good the predictions are.
+> **[1:12](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=72)** And the third one, the [[Data Science]] metrics related to how good the predictions are.
 >
 > **[1:19](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/the-metrics-and-the-time-and-budget-updates?u=76281980&t=79)** For example, 90% of accuracy.
 >
@@ -1507,15 +1488,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), [[Security]] (1), power (1), product (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Data Science]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [narrator] (1)
 
-#### Best practices of working with vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980)
+#### [Best practices of working with vendors](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,13 +1521,13 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=64)** It should be explained in the documentation, but you need to ask these questions to make sure that the model will stay relevant.
 >
-> **[1:14](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=74)** Then data security.
+> **[1:14](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=74)** Then [[Data Security]].
 >
-> **[1:17](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=77)** You must know where your data is going if the solution is based on SaaS approach.
+> **[1:17](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=77)** You must know where your data is going if the solution is based on [[SaaS]] approach.
 >
 > **[1:23](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=83)** You should also make sure that your data will not be used to train the model without your consent.
 >
-> **[1:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=90)** Then performance metrics.
+> **[1:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=90)** Then [[Performance Metrics]].
 >
 > **[1:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=93)** You need to know how accurate the model will be and if the company guarantees that it'll stay at that accuracy level.
 >
@@ -1593,11 +1573,11 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=245)** Super interesting stuff ahead of us.
 >
-> **[4:07](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=247)** You'll learn a lot about prototyping.
+> **[4:07](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-of-working-with-vendors?u=76281980&t=247)** You'll learn a lot about [[Prototyping]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (2), product (2), [[Security]] (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[SaaS]] (1), [[Performance Metrics]] (1), [[Prototyping]] (1)
 > **CLI Commands:** make (9)
 > **Best Practices:** make sure to (3)
 > **Definitions:** is a  (2)
@@ -1611,12 +1591,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals of prototyping and prototyping timeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
+#### [Fundamentals of prototyping and prototyping timeline](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=0)** - [Instructor] In this chapter, we'll dive into fundamentals of prototyping AI products.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=0)** - [Instructor] In this chapter, we'll dive into fundamentals of [[Prototyping]] AI [[Microsoft Products|products]].
 >
 > **[0:07](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=7)** Prototyping is the process of creating an early, simplified version of an AI solution.
 >
@@ -1660,7 +1639,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=170)** Let's have a look at the prototyping steps and timeline.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=175)** I assume, at this point, you know system architecture, system functionalities, and the desired outcome.
+> **[2:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=175)** I assume, at this point, you know [[System Architecture]], system functionalities, and the desired outcome.
 >
 > **[3:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/fundamentals-of-prototyping-and-prototyping-timeline?u=76281980&t=185)** First, start with deciding what functionalities you want to prototype and what strategy to select.
 >
@@ -1690,7 +1669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (13), ai (6), product (5), next (3), application (2)
+> **Frameworks & Libraries:** [[Prototyping]] (13), [[Microsoft Products|Products]] (1), [[System Architecture]] (1)
 > **Env Vars:** mvp (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** think of it as (1), for example (1)
@@ -1699,12 +1678,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototyping roles, personas and expected outcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980)
+#### [Prototyping roles, personas and expected outcome](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=0)** - [Narrator] You are probably curious who is engaged in prototyping.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=0)** - [Narrator] You are probably curious who is engaged in [[Prototyping]].
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=5)** Prototyping is a team effort, where project or product managers coordinate the process.
 >
@@ -1746,7 +1724,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=151)** These scenarios are usually a list of activities that the testers should conduct on their own.
 >
-> **[2:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=159)** The expected outcome of the prototyping process is a processed feedback from the testers in a form of list of changes and new functionalities that needs to be applied to the product design.
+> **[2:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=159)** The expected outcome of the prototyping process is a processed feedback from the testers in a form of list of changes and new functionalities that needs to be applied to the [[Product Design]].
 >
 > **[2:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-roles-personas-and-expected-outcome?u=76281980&t=175)** Their changes should be prioritized and grouped into three categories: Must-have changes, nice-to-have changes, and changes we consciously don't want to implement.
 >
@@ -1756,15 +1734,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (6), ai (4), product (2), data (2), ux (1)
+> **Frameworks & Libraries:** [[Prototyping]] (6), [[Product Design]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [narrator] (1)
 
-#### Minimum viable product (MVP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980)
+#### [Minimum viable product (MVP)](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,7 +1753,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=21)** The product doesn't exist at this stage.
 >
-> **[0:25](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=25)** With prototyping, we want to learn if it makes sense to build it.
+> **[0:25](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=25)** With [[Prototyping]], we want to learn if it makes sense to build it.
 >
 > **[0:30](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=30)** In contrast, an MVP, which stands for minimum viable product, it's an actual product.
 >
@@ -1828,11 +1805,11 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=218)** Let's say you want to build an AI chatbot.
 >
-> **[3:43](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=223)** Your MVP could be a chatbot that can answer a limited set of frequently asked questions and provide basic customer support, and the full product would be a sophisticated chatbot that can handle complex inquiries, can integrate with various customer service platforms, that sentiment analysis, and has a voice mode.
+> **[3:43](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=223)** Your MVP could be a chatbot that can answer a limited set of frequently asked questions and provide basic [[Customer Support]], and the full product would be a sophisticated chatbot that can handle complex inquiries, can integrate with various customer service platforms, that sentiment analysis, and has a voice mode.
 >
-> **[4:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=249)** In summary, the MVP is a strategic tool in product development, and I strongly recommend applying it to all AI products, simply because the AI world is fast these days.
+> **[4:09](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=249)** In summary, the MVP is a strategic tool in [[Product Development]], and I strongly recommend applying it to all AI [[Microsoft Products|products]], simply because the AI world is fast these days.
 >
-> **[4:25](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=265)** You have probably noticed that many popular AI solutions are being released to the market at a crazy pace, even with minor bugs and deficiencies.
+> **[4:25](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=265)** You have probably noticed that many popular [[AI Solutions]] are being released to the market at a crazy pace, even with minor bugs and deficiencies.
 >
 > **[4:34](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/mvp?u=76281980&t=274)** All clear?
 >
@@ -1842,15 +1819,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), ai (5), [[Prototyping]] (3), chatbot (3), next (2)
+> **Frameworks & Libraries:** [[Prototyping]] (3), [[Customer Support]] (1), [[Product Development]] (1), [[Microsoft Products|Products]] (1), [[AI Solutions]] (1)
 > **Env Vars:** mvp (10)
 > **Definitions:** is a  (4), stands for (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [narrator] (1)
 
-#### Six strategies for building prototypes, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980)
+#### [Six strategies for building prototypes, part 1](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1896,7 +1872,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=140)** Because it's widely used in large organizations, and it's very quick to build.
 >
-> **[2:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=146)** Slide decks can be built with any presentation tool, but you can use also tools, such as Canva, that give you access to design templates for computers, laptops, and smartphones.
+> **[2:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=146)** Slide decks can be built with any presentation tool, but you can use also tools, such as [[Canva]], that give you access to design templates for computers, laptops, and smartphones.
 >
 > **[2:40](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=160)** It is a simple drag-and-drop solution.
 >
@@ -1908,7 +1884,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=183)** They are usually used by UX and UI designers and usually require some level of fluency to use them, but they are no-code tools, and they are available to everyone.
 >
-> **[3:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=198)** The most popular tools are Figma, Sketch, Adobe XD, Envision, Azure, UXPin, Miro, and Canva.
+> **[3:18](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=198)** The most popular tools are [[Figma (Software)|Figma]], Sketch, [[Adobe XD]], Envision, [[Microsoft Azure|Azure]], UXPin, Miro, and Canva.
 >
 > **[3:29](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=209)** You can easily create clickable mockups that simulate how the AI solution would look and feel.
 >
@@ -1916,7 +1892,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=227)** All of them have hundreds of good tutorials available on YouTube.
 >
-> **[3:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=233)** I like using this type of prototyping because it looks almost like a real-life application you can send to testers just by sharing the link, and it allows them to comment on elements that are unnecessary or too complicated.
+> **[3:53](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=233)** I like using this type of [[Prototyping]] because it looks almost like a real-life application you can send to testers just by sharing the link, and it allows them to comment on elements that are unnecessary or too complicated.
 >
 > **[4:10](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-1?u=76281980&t=250)** Okay, there are three more strategies ahead of us.
 >
@@ -1924,7 +1900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Canva]] (3), product (2), ux (1), [[Figma (Software)|Figma]] (1)
+> **Frameworks & Libraries:** [[Canva]] (3), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1), [[Microsoft Azure|Azure]] (1), [[Prototyping]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
@@ -1933,8 +1909,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Six strategies for building prototypes, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980)
+#### [Six strategies for building prototypes, part 2](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1944,7 +1919,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=5)** There are three more for us to explore.
 >
-> **[0:08](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=8)** The first strategy for prototyping is an application-based prototype.
+> **[0:08](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=8)** The first strategy for [[Prototyping]] is an application-based prototype.
 >
 > **[0:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=15)** These are online tools that allow you to design a website or an application in a very simple way, just like you are doing it with designer tools, but instead of dummy elements, you create an actual interface.
 >
@@ -1954,7 +1929,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=52)** Interestingly, there are some preset connections between the UI-based prototyping tools and application-based ones.
 >
-> **[1:01](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=61)** For example, you can create a prototype in Figma and easily export it to Webflow to create a real working website.
+> **[1:01](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=61)** For example, you can create a prototype in [[Figma (Software)|Figma]] and easily export it to Webflow to create a real working website.
 >
 > **[1:10](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=70)** Check these connections now and then, because there are more and more of them, and they make our life so much easier.
 >
@@ -1982,7 +1957,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=170)** In other words, you build a simplified version of an actual application.
 >
-> **[2:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=175)** With AI coding tools like Cursor, GitHub Copilot, Claude, DeepSeek, Grok, Gemini, or ChatGPT, coding becomes super easy, because in some of these tools, you immediately see the outcome of automatically-generated code.
+> **[2:55](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=175)** With AI coding tools like Cursor, [[GitHub Copilot]], Claude, DeepSeek, Grok, [[Gemini]], or [[ChatGPT]], coding becomes super easy, because in some of these tools, you immediately see the outcome of automatically-generated code.
 >
 > **[3:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/six-strategies-for-building-prototypes-part-2?u=76281980&t=195)** However, you still need to have basic coding skills to change the code, if needed.
 >
@@ -2020,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), application (4), [[Prototyping]] (2), [[Figma (Software)|Figma]] (1), product (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Figma (Software)|Figma]] (1), [[GitHub Copilot]] (1), [[Gemini]] (1), [[ChatGPT]] (1)
 > **Tools:** figma (1), discord (1), github (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** llm (1), vzero (1)
@@ -2029,8 +2004,7 @@ created: 2026-05-02
 > **Best Practices:** pro tip (1), make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prototyping best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980)
+#### [Prototyping best practices](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2048,7 +2022,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980&t=33)** Second, time allocation.
 >
-> **[0:36](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980&t=36)** Prototyping, especially the testing part, tends to take longer than expected.
+> **[0:36](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980&t=36)** [[Prototyping]], especially the testing part, tends to take longer than expected.
 >
 > **[0:41](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/prototyping-best-practices?u=76281980&t=41)** After all, you're dealing with people that have their own lives and responsibilities.
 >
@@ -2122,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Prototyping]] (6), ai (3), next (1), feature (1), data (1)
+> **Frameworks & Libraries:** [[Prototyping]] (6)
 > **Cross-References:** next video (1), go back to (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kiss (1)
@@ -2131,8 +2105,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### The process of gathering feedback from users
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980)
+#### [The process of gathering feedback from users](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2170,7 +2143,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=105)** Such sessions are usually recorded.
 >
-> **[1:49](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=109)** And third, using a prototyping tool like Maze, UserTesting or Lookback.
+> **[1:49](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=109)** And third, using a [[Prototyping]] tool like Maze, UserTesting or Lookback.
 >
 > **[1:56](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=116)** They allow you to conduct the tests online and track user behavior through, for example, heat maps.
 >
@@ -2192,7 +2165,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=193)** So once we meet, I start with introducing myself the goal, and explain how the test would be conducted.
 >
-> **[3:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=202)** Then I remind testers that the meeting will be recorded, but will use the recording only for product development.
+> **[3:22](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=202)** Then I remind testers that the meeting will be recorded, but will use the recording only for [[Product Development]].
 >
 > **[3:31](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/gathering-feedback-from-users-the-process?u=76281980&t=211)** Then I give a list of tasks to the tester and ask is everything is clear.
 >
@@ -2220,15 +2193,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Product Development]] (2), ai (1), [[Prototyping]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Prototyping]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - so (1)
 
-#### Best practices for gathering feedback from users
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980)
+#### [Best practices for gathering feedback from users](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2258,9 +2230,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=71)** Allow users to express difficulties on their own to get genuine feedback.
 >
-> **[1:17](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=77)** Even if the testers get stuck, it tells you something about the product design, right?
+> **[1:17](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=77)** Even if the testers get stuck, it tells you something about the [[Product Design]], right?
 >
-> **[1:23](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=83)** A wise person once told me that there are no human mistakes, just poorly designed products.
+> **[1:23](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=83)** A wise person once told me that there are no human mistakes, just poorly designed [[Microsoft Products|products]].
 >
 > **[1:31](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/best-practices-for-gathering-feedback-from-users?u=76281980&t=91)** The sixth one, sometimes, especially with more advanced products, I like to ask testers to think out loud and verbalize their thoughts as they use the prototype.
 >
@@ -2310,7 +2282,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Microsoft Products|Products]] (2), next (2), express (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Product Design]] (1)
 > **Analogies:** for example (2)
 > **Prerequisites:** you'll need (2)
 > **Ports:** :15 (1)
@@ -2318,12 +2290,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drawing conclusions after the feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980)
+#### [Drawing conclusions after the feedback](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=0)** - [Instructor] After an AI prototyping session, the work is far from over.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=0)** - [Instructor] After an AI [[Prototyping]] session, the work is far from over.
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=5)** It's time to process, sort, and act on the valuable feedback you have gathered.
 >
@@ -2335,7 +2306,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=39)** Step two is to sort all the feedback into manageable snippets, then sort them into categories.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=49)** You can use a simple spreadsheet, Post-it notes, or project management tool like Trello or Asana.
+> **[0:49](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=49)** You can use a simple spreadsheet, Post-it notes, or project management tool like [[Trello]] or Asana.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/drawing-conclusions-after-the-feedback?u=76281980&t=57)** For this task, Trello is my personal favorite.
 >
@@ -2405,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Prototyping]] (2), feature (2), [[Trello]] (2), llm (2)
+> **Frameworks & Libraries:** [[Prototyping]] (2), [[Trello]] (2)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **Env Vars:** llm (2)
 > **CLI Commands:** make (1)
@@ -2414,12 +2385,11 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/demo?u=76281980)
+#### [Demo](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/demo?u=76281980&t=0)** - [Instructor] Hello and welcome to the video where I would be showing you how you do prototyping with one of the AI tools.
+> **[0:00](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/demo?u=76281980&t=0)** - [Instructor] Hello and welcome to the video where I would be showing you how you do [[Prototyping]] with one of the AI tools.
 >
 > **[0:13](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/demo?u=76281980&t=13)** You know the power of AI, you know the power of LMS and you know that if you put any prompt, the system should return what you want.
 >
@@ -2699,7 +2669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Prototyping]] (2), power (2), next (2), prompt (1)
+> **Frameworks & Libraries:** [[Prototyping]] (2)
 > **Env Vars:** lms (1), crm (1), api (1)
 > **UI Navigation:** click on (2)
 > **Exercise Files:** exercise files (2)
@@ -2712,8 +2682,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2721,13 +2690,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=5)** By now, you know how to successfully check the feasibility for selecting the most valuable AI ideas that clients will love.
 >
-> **[0:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=15)** You have also learned how to use prototyping to gain valuable client feedback to make the next superstar AI product.
+> **[0:15](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=15)** You have also learned how to use [[Prototyping]] to gain valuable client feedback to make the next superstar AI product.
 >
 > **[0:26](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=26)** With great power comes great responsibility, and as you gain so much powerful knowledge, be sure to use it responsibly.
 >
 > **[0:36](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=36)** I hope we will stay in touch.
 >
-> **[0:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=39)** I'd love to connect with you on LinkedIn.
+> **[0:39](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=39)** I'd love to connect with you on [[LinkedIn]].
 >
 > **[0:42](https://www.linkedin.com/learning/ai-product-development-technical-feasibility-and-prototyping/next-steps?u=76281980&t=42)** I'll be happy to answer questions, as well as to hear about your personal stories and AI successes.
 >
@@ -2739,7 +2708,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), next (2), product (2), [[Prototyping]] (1), power (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - congratulations (1)
 

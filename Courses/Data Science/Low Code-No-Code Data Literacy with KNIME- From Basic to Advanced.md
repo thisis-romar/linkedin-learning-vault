@@ -104,14 +104,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is KNIME Analytics Platform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980)
+#### [What is KNIME Analytics Platform?](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=0)** (mellow music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=5)** - Hi, in this video, you'll learn what KNIME Analytics Platform is, so let's get started.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=5)** - Hi, in this video, you'll learn what [[Knime]] Analytics Platform is, so let's get started.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=10)** KNIME Analytics Platform is a free and open source tool that enables you to access, blend, analyze and visualize data.
 >
@@ -119,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=32)** Running your workflow of nodes now applies your step-by-step instructions to the selected data.
 >
-> **[0:38](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=38)** KNIME Analytics Platform supports multiple use cases that span in analytic depth from automating spreadsheets, simple data preparation, visualizing data, to training and applying machine learning algorithms.
+> **[0:38](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=38)** KNIME Analytics Platform supports multiple use cases that span in analytic depth from automating spreadsheets, simple [[Data Preparation]], visualizing data, to training and applying machine learning [[Algorithms]].
 >
 > **[0:52](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-knime-analytics-platform?u=76281980&t=52)** Access KNIME Community Hub to browse and learn from thousands of working examples, and you can connect with peers to get your questions answered on the KNIME forum.
 >
@@ -131,18 +130,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (8), data (5), [[Analytics]] (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Knime]] (8), [[Data Preparation]] (1), [[Algorithms]] (1)
 > **Env Vars:** knime (8)
 > **Non-Speech:** (mellow music) (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - hi (1)
 
-#### What is a node? What is a workflow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980)
+#### [What is a node? What is a workflow?](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=0)** - In this video, you'll learn what nodes and workflows are in Knime Analytics Platform.
+> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=0)** - In this video, you'll learn what nodes and workflows are in [[Knime]] Analytics Platform.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=10)** Let's jump in.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=17)** They're the smallest possible unit in Knime, and they've been created to perform all sorts of tasks, including reading and writing data, transforming it, training models, creating visualizations, and so on.
 >
-> **[0:31](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=31)** For example, an Excel reader node imports an Excel file, and a row filter node filters the rows.
+> **[0:31](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=31)** For example, an [[Microsoft Excel|Excel]] reader node imports an Excel file, and a row filter node filters the rows.
 >
 > **[0:38](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-node-what-is-a-workflow?u=76281980&t=38)** A sequence of nodes creates a workflow.
 >
@@ -188,21 +186,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), data (5), [[Knime]] (4), [[Analytics]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** node (13)
 > **Analogies:** for example (2)
 > **Non-Speech:** (upbeat music) (2)
 > **Definitions:** means that (1)
 > **Speakers:** - in (1)
 
-#### How to install KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980)
+#### [How to install KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=5)** - In this video, you'll learn how to install KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=5)** - In this video, you'll learn how to install [[Knime]] Analytics Platform.
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=9)** Let's get going.
 >
@@ -212,7 +209,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=24)** Now accept the terms and conditions and click Download.
 >
-> **[0:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=28)** Select your operating system, Windows, Linux, or Mac, and the type of installer you want to download.
+> **[0:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=28)** Select your operating system, [[Windows]], [[Linux]], or Mac, and the type of installer you want to download.
 >
 > **[0:35](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-analytics-platform?u=76281980&t=35)** Now, click Download.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (11), [[Analytics]] (3), [[Windows]] (2), [[Linux]] (2), next (1)
+> **Frameworks & Libraries:** [[Knime]] (11), [[Windows]] (2), [[Linux]] (2)
 > **Env Vars:** knime (11)
 > **Prerequisites:** install (5), getting started (1)
 > **UI Navigation:** select the (2), go to (1)
@@ -262,14 +259,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Tour of the user interface of KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980)
+#### [Tour of the user interface of KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=0)** (gentle upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=5)** - In this video, you'll learn how to get around Knime Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=5)** - In this video, you'll learn how to get around [[Knime]] Analytics Platform.
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=9)** Let's jump into it.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=134)** Speaking of adding nodes, it's important to note, that when opening Knime's Analytics Platform versions five and up for the first time, you'll see by default, the starter perspective.
 >
-> **[2:24](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=144)** This means you'll find a targeted set of nodes for commonly performed data manipulation tasks, especially for beginners and spreadsheet users.
+> **[2:24](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=144)** This means you'll find a targeted set of nodes for commonly performed [[Data Manipulation]] tasks, especially for beginners and spreadsheet users.
 >
 > **[2:31](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/tour-of-the-user-interface-of-knime-analytics-platform?u=76281980&t=151)** If a node that you're looking for doesn't show up, click, more advanced nodes to see the full list.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (15), [[Knime]] (6), [[Analytics]] (5), next (2), application (1)
+> **Frameworks & Libraries:** [[Knime]] (6), [[Data Manipulation]] (1)
 > **CLI Commands:** node (15), find (3)
 > **UI Navigation:** drag and drop (2), click on (1), open the (1)
 > **Non-Speech:** (gentle upbeat music) (2)
@@ -352,8 +348,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** configure (1)
 
-#### Build your first workflow with KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980)
+#### [Build your first workflow with KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,7 +370,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=36)** Drag and drop the file Rooms into the empty workflow editor.
 >
-> **[0:41](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=41)** You will see an Excel Reader node appear in the workflow editor, already configured to read the Excel file.
+> **[0:41](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=41)** You will see an [[Microsoft Excel|Excel]] Reader node appear in the workflow editor, already configured to read the Excel file.
 >
 > **[0:47](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=47)** Execute the node, and inspect its output in the node monitor.
 >
@@ -389,7 +384,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=71)** Hover over the bar chart, and click the magnifier icon to execute the node and open the node view.
 >
-> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=77)** Have a look at your first data visualization with KNIME Analytics Platform.
+> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=77)** Have a look at your first data visualization with [[Knime]] Analytics Platform.
 >
 > **[1:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-your-first-workflow-with-knime-analytics-platform?u=76281980&t=83)** In this video, you've learned how to build your first workflow.
 >
@@ -399,19 +394,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (3), [[Microsoft Excel|Excel]] (3), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Knime]] (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** navigate to (2), open the (2), drag and drop (2), go to (1)
 > **Non-Speech:** (bright music) (2), (bright music fades) (1)
 > **Env Vars:** knime (1)
 > **Speakers:** - in (1)
 
-#### How to import and export KNIME workflows
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-import-and-export-knime-workflows?u=76281980)
+#### [How to import and export KNIME workflows](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-import-and-export-knime-workflows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-import-and-export-knime-workflows?u=76281980&t=5)** - In this video, you'll learn how to import and export workflows with Knime Analytics platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-import-and-export-knime-workflows?u=76281980&t=5)** - In this video, you'll learn how to import and export workflows with [[Knime]] Analytics platform.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-import-and-export-knime-workflows?u=76281980&t=10)** Let's go.
 >
@@ -477,21 +471,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (15), [[Analytics]] (4), data (3), business (3)
+> **Frameworks & Libraries:** [[Knime]] (15)
 > **UI Navigation:** select the (4), navigate to (1), open the (1), drag and drop (1), click on (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** knwf (1), knar (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - in (1)
 
-#### The KNIME Community Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980)
+#### [The KNIME Community Hub](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980&t=5)** - [Instructor] Welcome to KNIME Community Hub, a central place for the global community of KNIME users to browse and access 20,000 plus working examples, share ideas and extensions, and collaborate.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980&t=5)** - [Instructor] Welcome to [[Knime]] Community Hub, a central place for the global community of KNIME users to browse and access 20,000 plus working examples, share ideas and extensions, and collaborate.
 >
 > **[0:16](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/the-knime-community-hub?u=76281980&t=16)** In this video, you'll learn how to get started saving and versioning KNIME Workflows, which are freely available after creating a user account.
 >
@@ -519,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (12), [[Analytics]] (3), feature (1), data (1)
+> **Frameworks & Libraries:** [[Knime]] (12)
 > **Env Vars:** knime (12)
 > **CLI Commands:** make (2), find (1)
 > **Non-Speech:** (gentle music) (1), (upbeat music) (1)
@@ -527,12 +520,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaboration and execution on KNIME Community Hub
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980)
+#### [Collaboration and execution on KNIME Community Hub](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=0)** - [Instructor] In this video, we'll cover the major features included in a paid Teams plan on KNIME Community Hub, including private team collaboration and workflow execution.
+> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=0)** - [Instructor] In this video, we'll cover the major features included in a paid Teams plan on [[Knime]] Community Hub, including private [[Team Collaboration]] and workflow execution.
 >
 > **[0:15](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=15)** Purchase your team by clicking on Pricing then Team Plan.
 >
@@ -558,13 +550,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=79)** Automate your workflow to run as often as you like, and customize advanced settings which allow you, for example, to control how long jobs should run at a maximum and much more.
 >
-> **[1:32](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=92)** The Team's plan allows you to start scaling your data science efforts by sharing your work with your team, and beginning to automate and operationalize your workflows.
+> **[1:32](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=92)** The Team's plan allows you to start scaling your [[Data Science]] efforts by sharing your work with your team, and beginning to automate and operationalize your workflows.
 >
 > **[1:42](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/collaboration-and-execution-on-knime-community-hub?u=76281980&t=102)** Subscribe now and get started right away.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), teams (1), [[Knime]] (1), [[Team Collaboration]] (1), hit (1)
+> **Frameworks & Libraries:** [[Knime]] (1), [[Team Collaboration]] (1)
 > **Non-Speech:** (upbeat music) (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** knime (1)
@@ -572,14 +564,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to install KNIME extensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980)
+#### [How to install KNIME extensions](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=5)** - [Instructor] In this video, you'll learn how to install extensions in KNIME Analytics Platform to get additional nodes and functionalities.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=5)** - [Instructor] In this video, you'll learn how to install extensions in [[Knime]] Analytics Platform to get additional nodes and functionalities.
 >
 > **[0:12](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=12)** Let's have a look.
 >
@@ -595,15 +586,15 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=35)** The KNIME community extensions are developed and maintained by community developers.
 >
-> **[0:40](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=40)** They're categorized according to subject, bioinformatics, chem informatics, image processing, and more.
+> **[0:40](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=40)** They're categorized according to subject, bioinformatics, chem informatics, [[Image Processing]], and more.
 >
-> **[0:48](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=48)** The KNIME hub and server extensions provide nodes to be used in combination with our commercial products.
+> **[0:48](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=48)** The KNIME hub and server extensions provide nodes to be used in combination with our commercial [[Microsoft Products|products]].
 >
 > **[0:54](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=54)** KNIME Labs extensions contain cutting edge technology nodes, which are still in active development.
 >
 > **[1:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=60)** Even though they have passed our rigorous testing procedure, they might be susceptible to changes in the future.
 >
-> **[1:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=66)** The KNIME nodes development tools are for Java developers.
+> **[1:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=66)** The KNIME nodes development tools are for [[Java]] developers.
 >
 > **[1:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-install-knime-extensions?u=76281980&t=70)** Finally, the KNIME partner extensions provide additional capabilities offered and maintained by our partners.
 >
@@ -635,7 +626,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (17), [[Analytics]] (4), next (2), [[Image Processing]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Knime]] (17), [[Image Processing]] (1), [[Microsoft Products|Products]] (1), [[Java]] (1)
 > **Env Vars:** knime (17)
 > **Prerequisites:** install (5)
 > **UI Navigation:** select the (2), drag and drop (1)
@@ -649,8 +640,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data access with KNIME: Reading files
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980)
+#### [Data access with KNIME: Reading files](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +648,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=5)** - In this video, you will learn how to access a file in a analytics platform.
 >
-> **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=9)** Different file types such as Excel files, CSV files, and other text-based files all have dedicated reader nodes that shares a similar configuration window.
+> **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=9)** Different file types such as [[Microsoft Excel|Excel]] files, CSV files, and other text-based files all have dedicated reader nodes that shares a similar configuration window.
 >
 > **[0:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=19)** With those nodes, you can access files both locally and from remote locations.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=42)** In the read from section, you select the file system type and, if it's required, the specifier.
 >
-> **[0:49](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=49)** In the first dropdown menu, you have four options for the path type, Local File System, MountPoint, Relative To and Custom KNIME URL.
+> **[0:49](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=49)** In the first dropdown menu, you have four options for the path type, Local File System, MountPoint, Relative To and Custom [[Knime]] URL.
 >
 > **[0:58](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=58)** First, let's select the Local File System.
 >
@@ -746,7 +736,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=280)** Once you have selected a file, the file path includes only the path within the remote location.
 >
-> **[4:46](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=286)** Therefore, if you switch the input connection to another remote file system, for example, to Google Cloud, the node will still execute if the path to the file remains the same.
+> **[4:46](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=286)** Therefore, if you switch the input connection to another remote file system, for example, to [[Google Cloud Platform (GCP)|Google Cloud]], the node will still execute if the path to the file remains the same.
 >
 > **[4:56](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-reading-files?u=76281980&t=296)** In this video, you learned how to read files in analytics platform, how to configure the reader nodes with the different file path types, how to read multiple files with a single reader node, and finally, how to configure the path within remote file systems.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (8), node (6), data (6), [[Microsoft Excel|Excel]] (3), business (3)
+> **Frameworks & Libraries:** [[Knime]] (8), [[Microsoft Excel|Excel]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** knime (8), csv (3), url (3), local (2), pmml (1)
 > **UI Navigation:** select the (8), dropdown (2), in the menu (1), open the (1)
 > **CLI Commands:** node (6), find (1)
@@ -763,28 +753,27 @@ created: 2026-05-02
 > **Non-Speech:** (gentle jazz music) (2)
 > **Speakers:** - in (1)
 
-#### Data access with KNIME: Accessing databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980)
+#### [Data access with KNIME: Accessing databases](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=0)** - In this video, you will learn how to access databases in KNIME Analytics Platform.
+> **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=0)** - In this video, you will learn how to access [[Databases]] in [[Knime]] Analytics Platform.
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=9)** Let's jump into it.
 >
 > **[0:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=11)** To connect to a database, you need a connector node that creates the connection to the database.
 >
-> **[0:15](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=15)** Here it's JDBC driver.
+> **[0:15](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=15)** Here it's [[Java Database Connectivity (JDBC)|JDBC]] driver.
 >
 > **[0:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=17)** KNIME Analytics Platform provides a set of nodes for connecting to all JDBC compliant databases.
 >
-> **[0:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=23)** Many file-based and server-based databases such as SQLite, MySQL, or PostgreSQL have dedicated connector nodes.
+> **[0:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=23)** Many file-based and server-based databases such as SQLite, [[MySQL]], or [[PostgreSQL]] have dedicated connector nodes.
 >
 > **[0:32](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=32)** These connector nodes already contain the necessary JDBC drivers and provide configuration options that are tailored to the specific database.
 >
 > **[0:39](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=39)** The nodes are part of the KNIME Analytics Platform installation, so no additional installation is necessary.
 >
-> **[0:45](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=45)** Dedicated connector nodes for big data platforms such as Apache Hive or Impala, can be obtained by installing the KNIME Big Data Extension, which is also open source.
+> **[0:45](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=45)** Dedicated connector nodes for [[Big Data]] platforms such as Apache Hive or Impala, can be obtained by installing the KNIME Big Data Extension, which is also open source.
 >
 > **[0:55](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-access-with-knime-accessing-databases?u=76281980&t=55)** If no dedicated connector node exists for your database, you can use the generic DB connector node.
 >
@@ -870,7 +859,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), node (14), [[Java Database Connectivity (JDBC)|Jdbc]] (13), [[Knime]] (11), [[MySQL]] (7)
+> **Frameworks & Libraries:** [[Java Database Connectivity (JDBC)|Jdbc]] (13), [[Knime]] (11), [[MySQL]] (7), [[Databases]] (6), [[Big Data]] (2)
 > **Env Vars:** jdbc (13), knime (11), sap (4), hana (4), url (2)
 > **CLI Commands:** node (14), mysql (7), apache (1)
 > **UI Navigation:** select the (3), dropdown (2), go to (1), in the menu (1), open the (1)
@@ -884,14 +873,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data cleaning with KNIME: How to filter rows
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980)
+#### [Data cleaning with KNIME: How to filter rows](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=0)** (mellow music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=5)** - In this video, you will learn how to filter rows from a table in KNIME Analytics Platform using various criteria.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=5)** - In this video, you will learn how to filter rows from a table in [[Knime]] Analytics Platform using various criteria.
 >
 > **[0:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=11)** Let's jump into it.
 >
@@ -923,7 +911,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=90)** Now, let's filter rows based on their values into the integer columns.
 >
-> **[1:34](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=94)** For example, you want to extract sales records according to their quantity, which is the number of sold products.
+> **[1:34](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=94)** For example, you want to extract sales records according to their quantity, which is the number of sold [[Microsoft Products|products]].
 >
 > **[1:41](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-rows?u=76281980&t=101)** Change the column to test to quantity and use the range checking criteria to specify a lower bound.
 >
@@ -965,7 +953,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (3), [[Analytics]] (2), [[Knime]] (1), product (1)
+> **Frameworks & Libraries:** [[Knime]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (7)
 > **UI Navigation:** select the (3), open the (1)
 > **CLI Commands:** node (3)
@@ -974,8 +962,7 @@ created: 2026-05-02
 > **Env Vars:** knime (1)
 > **Speakers:** - in (1)
 
-#### Data cleaning with KNIME: How to filter columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980)
+#### [Data cleaning with KNIME: How to filter columns](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1007,7 +994,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980&t=68)** Here you can specify a pattern to include a group of columns based on their names.
 >
-> **[1:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980&t=73)** For example, write pro* to include all the columns of the products.
+> **[1:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980&t=73)** For example, write pro* to include all the columns of the [[Microsoft Products|products]].
 >
 > **[1:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-filter-columns?u=76281980&t=78)** In this way, even if more product columns are added in the future, they will be included in the output table.
 >
@@ -1029,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (2), product (2), node (2), data (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (2), make (1)
 > **UI Navigation:** toggle (1), select the (1)
 > **Non-Speech:** (casual music) (2)
@@ -1037,14 +1024,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - in (1)
 
-#### Data cleaning with KNIME: How to handle missing values
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980)
+#### [Data cleaning with KNIME: How to handle missing values](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=0)** (mellow music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=5)** - In this video, you will learn how to handle missing values from a table in KNIME analytics platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=5)** - In this video, you will learn how to handle missing values from a table in [[Knime]] analytics platform.
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=9)** Let's get started.
 >
@@ -1076,7 +1062,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=73)** Let's handle the missing values of the column age, which is an integer column.
 >
-> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=77)** In this case, you can choose to replace missing value with the statistics computed over the values of the column, such as the maximum, the mean, the most frequent value, and so on.
+> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=77)** In this case, you can choose to replace missing value with the [[Statistics]] computed over the values of the column, such as the maximum, the mean, the most frequent value, and so on.
 >
 > **[1:27](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-cleaning-with-knime-how-to-handle-missing-values?u=76281980&t=87)** Once you define a strategy to handle missing values, you can apply to the new data using the missing value apply node.
 >
@@ -1110,7 +1096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Knime]] (3), [[Analytics]] (3), data (3), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Knime]] (3), [[Statistics]] (2)
 > **Analogies:** for example (5), such as (2)
 > **CLI Commands:** node (5)
 > **Env Vars:** knime (3)
@@ -1124,8 +1110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data transformation with KNIME: Numbers, strings, and rules
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-numbers-strings-and-rules?u=76281980)
+#### [Data transformation with KNIME: Numbers, strings, and rules](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-numbers-strings-and-rules?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1241,21 +1226,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (9), data (5), [[Analytics]] (1), [[Search]] (1), next (1)
 > **CLI Commands:** node (9), find (2)
 > **Definitions:** is a  (2), means that (1)
 > **Non-Speech:** (upbeat music) (1), (uplifting music) (1)
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Data transformation with KNIME: How to split cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980)
+#### [Data transformation with KNIME: How to split cells](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980&t=5)** - In this video, you will learn how to split the content of a table into multiple columns or into a collection column using KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980&t=5)** - In this video, you will learn how to split the content of a table into multiple columns or into a collection column using [[Knime]] Analytics Platform.
 >
 > **[0:12](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-transformation-with-knime-how-to-split-cells?u=76281980&t=12)** Let's get started.
 >
@@ -1313,7 +1296,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (6), [[Knime]] (2), [[Analytics]] (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Knime]] (2)
 > **CLI Commands:** node (6), make (1)
 > **UI Navigation:** select the (3), checkbox (1)
 > **Analogies:** for example (2), such as (1)
@@ -1327,8 +1310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to keep workflows tidy and documented
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980)
+#### [How to keep workflows tidy and documented](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1362,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=103)** For example, these three nodes perform some sort of cleaning.
 >
-> **[1:47](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=107)** Select them and put them inside a metanode, which you can name Data Cleaning.
+> **[1:47](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=107)** Select them and put them inside a metanode, which you can name [[Data Cleaning]].
 >
 > **[1:54](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=114)** Now the workflow looks tidier because it shows fewer node, but it's still possible to understand what is going on at a glance.
 >
@@ -1394,7 +1376,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=139)** Finally, each workflow has its own description to be edited.
 >
-> **[2:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=143)** Move to the description tab and click the pencil to edit the workflow metadata, write a meaningful description, add relevant external resources, and set the related text.
+> **[2:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=143)** Move to the description tab and click the pencil to edit the workflow [[Metadata]], write a meaningful description, add relevant external resources, and set the related text.
 >
 > **[2:33](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/how-to-keep-workflows-tidy-and-documented?u=76281980&t=153)** Note that if you upload the workflow to the Community Hub, the information given here will appear in the workflow page.
 >
@@ -1404,7 +1386,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), node (4), [[Analytics]] (2), [[Programming]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[Metadata]] (1)
 > **CLI Commands:** node (4)
 > **Analogies:** for example (2), imagine (1)
 > **Warnings:** note that (2)
@@ -1417,14 +1399,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data merging with KNIME: How to concatenate tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980)
+#### [Data merging with KNIME: How to concatenate tables](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980&t=5)** - In this video, you will learn how to concatenate tables in KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980&t=5)** - In this video, you will learn how to concatenate tables in [[Knime]] Analytics Platform.
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-concatenate-tables?u=76281980&t=9)** Let's have a look.
 >
@@ -1496,15 +1477,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Knime]] (3), [[Analytics]] (3), data (2)
+> **Frameworks & Libraries:** [[Knime]] (3)
 > **CLI Commands:** node (5)
 > **Env Vars:** knime (3)
 > **Non-Speech:** (lively music) (2)
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Data merging with KNIME: Value lookup
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-value-lookup?u=76281980)
+#### [Data merging with KNIME: Value lookup](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-value-lookup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,7 +1534,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (5), [[Analytics]] (3), next (1)
 > **CLI Commands:** node (5)
 > **Definitions:** is an  (2)
 > **Warnings:** note that (2)
@@ -1563,14 +1542,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Data merging with KNIME: How to join two tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980)
+#### [Data merging with KNIME: How to join two tables](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980&t=0)** (lively music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980&t=5)** - In this video, you will learn how to join two tables in KNIME Analytics Platform, how to configure the joiner node for the different join modes, and finally, the differences between the value lookup and the joiner node.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980&t=5)** - In this video, you will learn how to join two tables in [[Knime]] Analytics Platform, how to configure the joiner node for the different join modes, and finally, the differences between the value lookup and the joiner node.
 >
 > **[0:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-merging-with-knime-how-to-join-two-tables?u=76281980&t=17)** Let's have a look.
 >
@@ -1656,7 +1634,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), [[Knime]] (2), [[Analytics]] (2), next (1), data (1)
+> **Frameworks & Libraries:** [[Knime]] (2)
 > **CLI Commands:** node (11)
 > **Definitions:** is a  (2), in other words (1)
 > **Env Vars:** knime (2)
@@ -1670,20 +1648,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data aggregation with KNIME: Simple aggregations
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980)
+#### [Data aggregation with KNIME: Simple aggregations](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=0)** (soft upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=5)** - In this video, you will learn what data aggregation is and how to perform basic data aggregation in KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=5)** - In this video, you will learn what data aggregation is and how to perform basic data aggregation in [[Knime]] Analytics Platform.
 >
 > **[0:12](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=12)** Let's jump into it.
 >
 > **[0:14](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=14)** Performing data aggregation means creating a summarized version of the data.
 >
-> **[0:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=18)** In this table, each product, indicated by its product ID, is associated with a category, Clothing, Home, and Electronics, and a number of ordered items.
+> **[0:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=18)** In this table, each product, indicated by its product ID, is associated with a category, Clothing, Home, and [[Electronics]], and a number of ordered items.
 >
 > **[0:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=28)** You can create an aggregated version of this table by, for example, listing all the unique categories and summing the order items for each of those categories.
 >
@@ -1715,7 +1692,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=102)** You can also select the Weight column when performing the aggregation.
 >
-> **[1:46](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=106)** In this example, the total value of an order is given by the price of the products multiplied by the quantity.
+> **[1:46](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=106)** In this example, the total value of an order is given by the price of the [[Microsoft Products|products]] multiplied by the quantity.
 >
 > **[1:52](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-simple-aggregations?u=76281980&t=112)** Configure the Row Aggregator to perform this additional operation.
 >
@@ -1735,7 +1712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (7), product (3), [[Knime]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Knime]] (2), [[Electronics]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** select the (3), drag and drop (1)
 > **Env Vars:** knime (2)
@@ -1744,14 +1721,13 @@ created: 2026-05-02
 > **Non-Speech:** (soft upbeat music) (2)
 > **Warnings:** note that (1)
 
-#### Data aggregation with KNIME: The GroupBy node
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980)
+#### [Data aggregation with KNIME: The GroupBy node](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=0)** - In this video, you will learn how to perform advanced data aggregations using the group by node in Analytics Platform, let's have a look.
 >
-> **[0:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=13)** The most straightforward way to perform data aggregation in KNIME is using the raw aggregator.
+> **[0:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=13)** The most straightforward way to perform data aggregation in [[Knime]] is using the raw aggregator.
 >
 > **[0:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=19)** Sometimes, however, you need to perform more complex aggregations grouping by multiple columns, for example, or using multiple aggregation methods.
 >
@@ -1759,7 +1735,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=32)** You have a data table, sorting customer transaction data.
 >
-> **[0:35](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=35)** Each order number is repeated multiple times, one for each of the products it contains, together with the unit price of the product and the quantity.
+> **[0:35](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=35)** Each order number is repeated multiple times, one for each of the [[Microsoft Products|products]] it contains, together with the unit price of the product and the quantity.
 >
 > **[0:44](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-the-groupby-node?u=76281980&t=44)** You want to aggregate the table in order to obtain the number of times that a certain customer bought a product.
 >
@@ -1795,7 +1771,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (7), data (6), product (5), [[Analytics]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Knime]] (1)
 > **CLI Commands:** node (7)
 > **Warnings:** note that (2)
 > **Non-Speech:** (upbeat music) (2)
@@ -1804,8 +1780,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Data aggregation with KNIME: Pivoting
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-pivoting?u=76281980)
+#### [Data aggregation with KNIME: Pivoting](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-aggregation-with-knime-pivoting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1913,7 +1888,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), node (7), [[Analytics]] (4), data (1), next (1)
 > **CLI Commands:** node (7), find (1)
 > **UI Navigation:** open the (1), select the (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -1927,8 +1901,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data export with KNIME: Write to a CSV file
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980)
+#### [Data export with KNIME: Write to a CSV file](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1936,7 +1909,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=5)** - In this video, you will learn how to save data to a CSV formatted file and how to write files directly to a remote file system.
 >
-> **[0:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=13)** Note that we'll be using CSV files, but data export works pretty much the same for the many other file types such as Excel files, JSON files, and so on.
+> **[0:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=13)** Note that we'll be using CSV files, but data export works pretty much the same for the many other file types such as [[Microsoft Excel|Excel]] files, [[JSON]] files, and so on.
 >
 > **[0:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=23)** Let's have a look.
 >
@@ -1994,7 +1967,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=192)** Execute the CSV writer node to write the data to the CSV file in the specified location on Amazon S3.
 >
-> **[3:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=199)** You can do the same for the many other cloud remote and distribute file systems supported, such as Google Cloud Storage, Microsoft SharePoint, Azure Drop Storage, Databricks, and more.
+> **[3:19](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=199)** You can do the same for the many other cloud remote and distribute file systems supported, such as [[Google Cloud Platform (GCP)|Google Cloud]] Storage, [[Microsoft]] [[SharePoint]], [[Microsoft Azure|Azure]] Drop Storage, Databricks, and more.
 >
 > **[3:30](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-export-with-knime-write-to-a-csv-file?u=76281980&t=210)** In this video, you have learned how to save data to a CSV formatted file and how to write files directly to our remote file system.
 >
@@ -2002,7 +1975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), node (8), [[Microsoft Excel|Excel]] (1), [[JSON]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[JSON]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft]] (1), [[SharePoint]] (1)
 > **Env Vars:** csv (14), json (1), url (1)
 > **CLI Commands:** node (8)
 > **Analogies:** such as (2), for example (2)
@@ -2011,8 +1984,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 
-#### Data visualization with KNIME: How to create a scatter plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980)
+#### [Data visualization with KNIME: How to create a scatter plot](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2052,7 +2024,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=87)** The plot is fully interactive.
 >
-> **[1:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=88)** You can zoom in and out, pan, select points, and show their values.
+> **[1:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=88)** You can [[Zoom]] in and out, pan, select points, and show their values.
 >
 > **[1:33](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=93)** In the top right corner, you can find the buttons to download the plot as an image, control the zooming, and select multiple points at once.
 >
@@ -2088,13 +2060,13 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=170)** In this video, you have learned how to create a scatter plot and how to encode one more dimension using the Color Manager node.
 >
-> **[2:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=177)** In Analytics Platform, there are several built-in nodes to create visualizations, and soon you will learn that you can also combine them into a single interactive view to create powerful dashboards.
+> **[2:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=177)** In Analytics Platform, there are several built-in nodes to create visualizations, and soon you will learn that you can also combine them into a single interactive view to create powerful [[Dashboards]].
 >
 > **[3:08](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/data-visualization-with-knime-how-to-create-a-scatter-plot?u=76281980&t=188)** (chill lofi music)
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (8), data (4), [[Analytics]] (2), [[Zoom]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Dashboards]] (1)
 > **CLI Commands:** node (8), find (1)
 > **UI Navigation:** select the (5), scroll down (1)
 > **Warnings:** note that (2)
@@ -2103,8 +2075,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Three steps to build an interactive dashboard with KNIME
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980)
+#### [Three steps to build an interactive dashboard with KNIME](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2126,7 +2097,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=43)** At the bottom, a table view shows the rows of the data behind the dashboard, possibly selected from the histogram and the bar chart above.
 >
-> **[0:52](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=52)** Let's see how to build this kind of a dashboard in KNIME Analytics Platform in three easy steps.
+> **[0:52](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=52)** Let's see how to build this kind of a dashboard in [[Knime]] Analytics Platform in three easy steps.
 >
 > **[0:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=57)** The KNIME workflow behind the dashboard is pretty simple.
 >
@@ -2170,7 +2141,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=164)** You can further customize the layout by adding a title to the page using the Text Output Widget node.
 >
-> **[2:50](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=170)** It supports plain and HTML Text.
+> **[2:50](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=170)** It supports plain and [[HTML]] Text.
 >
 > **[2:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/3-steps-to-build-an-interactive-dashboard-with-knime?u=76281980&t=177)** Open again the layout editor and place the title at the top of the page.
 >
@@ -2196,7 +2167,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Knime]] (4), [[Analytics]] (2), node (2), business (2)
+> **Frameworks & Libraries:** [[Knime]] (4), [[HTML]] (1)
 > **Env Vars:** knime (4), csv (1), html (1), khime (1)
 > **UI Navigation:** right-click (2), open the (2), select the (1), in the toolbar (1), drag and drop (1)
 > **CLI Commands:** node (2), make (1)
@@ -2210,8 +2181,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Flow variables in KNIME Analytics Platform: Concept and application
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980)
+#### [Flow variables in KNIME Analytics Platform: Concept and application](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2231,7 +2201,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980&t=46)** This is exactly where you need flow variables.
 >
-> **[0:49](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980&t=49)** A flow variable is a parameter in a KNIME workflow to overwrite a node's configuration settings.
+> **[0:49](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980&t=49)** A flow variable is a parameter in a [[Knime]] workflow to overwrite a node's configuration settings.
 >
 > **[0:55](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/flow-variables-in-knime-analytics-platform-concept-and-application?u=76281980&t=55)** In our example, you can control a node's settings configuring the country with a parameter, flow variable, to execute the workflow for different countries without manually changing the settings.
 >
@@ -2325,7 +2295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (22), data (2), [[Knime]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Knime]] (2)
 > **CLI Commands:** node (22), find (1)
 > **Env Vars:** usa (4), knime (2)
 > **UI Navigation:** select the (2), checkbox (1), dropdown (1), right-click (1)
@@ -2339,14 +2309,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a component in KNIME Analytics Platform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980)
+#### [What is a component in KNIME Analytics Platform?](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=5)** - [Instructor] In this video, we explain what Components are in KNIME.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=5)** - [Instructor] In this video, we explain what Components are in [[Knime]].
 >
 > **[0:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=9)** Let's jump into it.
 >
@@ -2360,7 +2329,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=50)** You can find these nodes in the Node Repository on the Workflow Abstraction.
 >
-> **[0:55](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=55)** These nodes are important as they're used to explicitly model what parameters can be adjusted when using a component inside your own workflow and which visualizations are used to compose the Components view.
+> **[0:55](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=55)** These nodes are important as they're used to explicitly model what parameters can be adjusted when using a component inside your own workflow and which visualizations are used to [[Jetpack Compose|compose]] the Components view.
 >
 > **[1:07](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=67)** Adding configuration nodes to the workflow inside the component allows you to configure the component from the outside.
 >
@@ -2384,7 +2353,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=150)** Let's next have a more detailed look at one of the key features of Components, reusing and sharing.
 >
-> **[2:36](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=156)** Data science projects often involve repeated tasks, entering credentials for a database, optimizing the parameters of a machine learning model, or calculating some KPIs, to name a few.
+> **[2:36](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=156)** [[Data Science]] projects often involve repeated tasks, entering credentials for a database, optimizing the parameters of a machine learning model, or calculating some KPIs, to name a few.
 >
 > **[2:48](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-component-in-knime-analytics-platform?u=76281980&t=168)** These kinds of tasks can be bundled up into Components.
 >
@@ -2414,7 +2383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Knime]] (15), data (8), business (5), node (3), [[Jetpack Compose|Compose]] (2)
+> **Frameworks & Libraries:** [[Knime]] (15), [[Jetpack Compose|Compose]] (2), [[Data Science]] (1)
 > **Env Vars:** knime (15)
 > **CLI Commands:** node (3), find (2), make (2)
 > **Analogies:** for example (4), similar to (1)
@@ -2423,8 +2392,7 @@ created: 2026-05-02
 > **Non-Speech:** (gentle music) (1), (gentle upbeat music) (1)
 > **Prerequisites:** configure (1)
 
-#### Create, modify, and configure a component in KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980)
+#### [Create, modify, and configure a component in KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2448,7 +2416,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980&t=39)** The selected nodes get wrapped into a component, and you can directly give it a name, for example, Filter Sales Data.
 >
-> **[0:48](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980&t=48)** If you right-click on the component and select Component, you can see possible actions, such as Open, Rename, change the layout, Expand, or Share a component locally or on KNIME Community or Business Hub.
+> **[0:48](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980&t=48)** If you right-click on the component and select Component, you can see possible actions, such as Open, Rename, change the layout, Expand, or Share a component locally or on [[Knime]] Community or Business Hub.
 >
 > **[1:03](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/create-modify-and-configure-a-component-in-knime-analytics-platform?u=76281980&t=63)** You can quickly open the component by pressing Control and double-clicking on it.
 >
@@ -2532,7 +2500,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), node (6), [[Knime]] (4), business (3), next (2)
+> **Frameworks & Libraries:** [[Knime]] (4)
 > **UI Navigation:** open the (4), right-click (2), select the (2), navigate to (1), drag and drop (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** knime (4)
@@ -2546,8 +2514,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a loop?
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980)
+#### [What is a loop?](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2557,7 +2524,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=16)** Imagine the following use case.
 >
-> **[0:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=18)** You have a list of orders from different countries, and you want to write the orders for each country into a separate sheet, in this example, in Excel sheet.
+> **[0:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=18)** You have a list of orders from different countries, and you want to write the orders for each country into a separate sheet, in this example, in [[Microsoft Excel|Excel]] sheet.
 >
 > **[0:26](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=26)** What you can do of course, is to check which countries are there in the table, select the first one, filter its orders, write it to a separate sheet, and then repeat the process for the next country until you go through all of them.
 >
@@ -2575,7 +2542,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=69)** A loop can iterate over a workflow segment and repeat its execution automatically for different inputs, but changes for each iteration can be a parameter value, a dataset, a subgroup of the same dataset, a single column, or a single row as flow variables.
 >
-> **[1:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=88)** A loop in KNIME begins with a loop start node, contains the loop body, and ends with a loop end node.
+> **[1:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=88)** A loop in [[Knime]] begins with a loop start node, contains the loop body, and ends with a loop end node.
 >
 > **[1:34](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=94)** Generally, the loop start node increases the iteration counter, and sends the data to the loop body.
 >
@@ -2631,7 +2598,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=256)** A loop end column append does the same but column wise, by joining the tables from different iterations.
 >
-> **[4:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=263)** A variable loop end node that you saw in the example provides a way to close the loop that doesn't produce any data, for example, when all the data processing ends and the data gets exported in the loop body.
+> **[4:23](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=263)** A variable loop end node that you saw in the example provides a way to close the loop that doesn't produce any data, for example, when all the [[Data Processing]] ends and the data gets exported in the loop body.
 >
 > **[4:36](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/what-is-a-loop?u=76281980&t=276)** You can see that there are many other loop start and end nodes available in KNIME Analytics Platform.
 >
@@ -2641,7 +2608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (20), data (13), [[Analytics]] (4), [[Knime]] (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Knime]] (4), [[Microsoft Excel|Excel]] (2), [[Data Processing]] (1)
 > **CLI Commands:** node (20)
 > **Env Vars:** knime (4)
 > **Analogies:** for example (3), imagine (1)
@@ -2650,14 +2617,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - in (1)
 
-#### Build, execute, and debug a loop in KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980)
+#### [Build, execute, and debug a loop in KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980&t=0)** (gentle music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to build, execute, and debug loops in KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to build, execute, and debug loops in [[Knime]] Analytics Platform.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/build-execute-and-debug-a-loop-in-knime-analytics-platform?u=76281980&t=10)** Ready? Let's go.
 >
@@ -2743,7 +2709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (15), [[Knime]] (2), [[Analytics]] (2), next (2), data (2)
+> **Frameworks & Libraries:** [[Knime]] (2)
 > **CLI Commands:** node (15)
 > **Env Vars:** knime (2)
 > **UI Navigation:** go to (1), click on (1)
@@ -2752,14 +2718,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Switch workflow branch execution in KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980)
+#### [Switch workflow branch execution in KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980&t=0)** (mellow instrumental music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980&t=5)** - In this video you will learn how to switch between different workflow branches in KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980&t=5)** - In this video you will learn how to switch between different workflow branches in [[Knime]] Analytics Platform.
 >
 > **[0:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/switch-workflow-branch-execution-in-knime-analytics-platform?u=76281980&t=11)** Let's look into it.
 >
@@ -2869,7 +2834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (21), data (13), [[Knime]] (3), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Knime]] (3)
 > **CLI Commands:** node (21), make (1)
 > **Env Vars:** case (9), knime (3)
 > **UI Navigation:** drag and drop (1), dropdown (1)
@@ -2883,20 +2848,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Error handling with try-catch in KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980)
+#### [Error handling with try-catch in KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=0)** (lively music)
 >
-> **[0:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=6)** - In this video, you will learn how to handle errors in KNIME workflows with try and catch block.
+> **[0:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=6)** - In this video, you will learn how to handle errors in [[Knime]] workflows with try and catch block.
 >
 > **[0:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=11)** Let's jump into it.
 >
 > **[0:13](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=13)** Let's have a look at the following workflow.
 >
-> **[0:15](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=15)** Here a table with new contracts is read from a remote data source, Google Sheets in this case, and is appended to a table with all the contracts.
+> **[0:15](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=15)** Here a table with new contracts is read from a remote data source, [[Google]] Sheets in this case, and is appended to a table with all the contracts.
 >
 > **[0:24](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=24)** If we want new contracts to be added automatically on a regular basis, this workflow should run smoothly or get fixed as soon as possible in case of errors.
 >
@@ -2944,7 +2908,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=142)** The alternative branch can differ depending on your workflow design.
 >
-> **[2:27](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=147)** In this example, we use an empty table of the correct structure with which the rest of the workflow can execute.
+> **[2:27](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=147)** In this example, we use an empty table of the correct structure with which the [[Representational State Transfer (REST)|rest]] of the workflow can execute.
 >
 > **[2:33](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/error-handling-with-try-catch-in-knime-analytics-platform?u=76281980&t=153)** Let's see the configuration of the catch errors data ports node.
 >
@@ -2992,7 +2956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (19), data (13), [[Google]] (4), [[Knime]] (2), next (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Knime]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (19)
 > **Analogies:** for example (5), imagine (1)
 > **Env Vars:** knime (2)
@@ -3005,8 +2969,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Handling date and time data with KNIME: Convert strings, extract date, and time fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-convert-strings-and-extract-date-and-time-fields?u=76281980)
+#### [Handling date and time data with KNIME: Convert strings, extract date, and time fields](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-convert-strings-and-extract-date-and-time-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3090,7 +3053,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), node (6), next (4)
 > **CLI Commands:** node (6)
 > **UI Navigation:** select the (2), dropdown (2), in the menu (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -3099,8 +3061,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
 
-#### Handling date and time data with KNIME: Modify and filter date and time data
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-modify-and-filter-date-and-time-data?u=76281980)
+#### [Handling date and time data with KNIME: Modify and filter date and time data](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/handling-date-and-time-data-with-knime-modify-and-filter-date-and-time-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3194,7 +3155,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), node (7), next (3), bi (1)
 > **CLI Commands:** node (7)
 > **UI Navigation:** select the (4), checkbox (1), dropdown (1)
 > **Analogies:** similar to (1)
@@ -3205,14 +3165,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying databases from KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980)
+#### [Querying databases from KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=0)** (relaxing jazz music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to query data on databases in a KNIME workflow.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to query data on [[Databases]] in a [[Knime]] workflow.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=10)** Let's get into it.
 >
@@ -3232,9 +3191,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=57)** The database extension provides multiple nodes for querying database data, such as DB GroupBy, DB Row Filter, DB Joiner nodes to name a few.
 >
-> **[1:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=66)** Good news is that most of the time these node configurations resemble their data transformation counterparts, so in most cases, you don't need to learn any new configurations.
+> **[1:06](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=66)** Good news is that most of the time these node configurations resemble their [[Data Transformation]] counterparts, so in most cases, you don't need to learn any new configurations.
 >
-> **[1:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=78)** In the background, a database query node automatically builds an SQL query according to its configuration.
+> **[1:18](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=78)** In the background, a database query node automatically builds an [[SQL]] query according to its configuration.
 >
 > **[1:25](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=85)** Besides, each query node wraps the incoming SQL query into a subquery.
 >
@@ -3248,7 +3207,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=123)** Let's have a look at an example workflow.
 >
-> **[2:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=125)** Here, the products and contracts data are stored in the H2 database tables.
+> **[2:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=125)** Here, the [[Microsoft Products|products]] and contracts data are stored in the H2 database tables.
 >
 > **[2:11](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=131)** We want to get the information about the products with more than 10,000 contracts from the database.
 >
@@ -3292,7 +3251,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=231)** But you don't really have to understand the details about the generated SQL queries.
 >
-> **[3:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=237)** You can fetch the first 100 rows and preview the data generated by the query in the node.
+> **[3:57](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=237)** You can [[Fetch]] the first 100 rows and preview the data generated by the query in the node.
 >
 > **[4:03](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/querying-databases-from-knime-analytics-platform?u=76281980&t=243)** You can see that all products except the two have at least 10,000 contracts.
 >
@@ -3340,7 +3299,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), node (20), data (14), [[Knime]] (13), [[Microsoft Products|Products]] (11)
+> **Frameworks & Libraries:** [[Knime]] (13), [[Microsoft Products|Products]] (11), [[SQL]] (9), [[Fetch]] (2), [[Databases]] (1)
 > **Env Vars:** knime (13), sql (9)
 > **CLI Commands:** node (20)
 > **UI Navigation:** select the (3), dropdown (1)
@@ -3349,14 +3308,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Modify database tables from KNIME Analytics Platform
-> [LinkedIn Learning](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980)
+#### [Modify database tables from KNIME Analytics Platform](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=0)** (gentle jazz music)
 >
-> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to modify database tables from KNIME Analytics Platform.
+> **[0:05](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=5)** - In this video, you will learn how to modify database tables from [[Knime]] Analytics Platform.
 >
 > **[0:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=10)** Let's jump into it.
 >
@@ -3372,7 +3330,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=38)** Alternatively, you can check and remove the table with a DB Table Remover node.
 >
-> **[0:44](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=44)** For some databases, this node also allows the cascade option to remove all the dependent tables and views.
+> **[0:44](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=44)** For some [[Databases]], this node also allows the cascade option to remove all the dependent tables and views.
 >
 > **[0:51](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=51)** But let's get back to the DB Table Creator.
 >
@@ -3382,7 +3340,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=70)** In the Dynamic Type Settings tab, you can change the type mapping between KNIME data table and the database table.
 >
-> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=77)** For example, if you want all integer columns in KNIME to be written as double columns in the database, in the KNIME Based SQL Type Mapping tab, click Add.
+> **[1:17](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=77)** For example, if you want all integer columns in KNIME to be written as double columns in the database, in the KNIME Based [[SQL]] Type Mapping tab, click Add.
 >
 > **[1:28](https://www.linkedin.com/learning/low-code-no-code-data-literacy-with-knime-from-basic-to-advanced/modify-database-tables-from-knime-analytics-platform?u=76281980&t=88)** In the menu under KNIME Type, select Integer.
 >
@@ -3436,7 +3394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), [[Knime]] (13), data (11), node (10), [[SQL]] (3)
+> **Frameworks & Libraries:** [[Knime]] (13), [[SQL]] (3), [[Databases]] (1)
 > **Env Vars:** knime (13), sql (3)
 > **CLI Commands:** node (10)
 > **Analogies:** for example (7)

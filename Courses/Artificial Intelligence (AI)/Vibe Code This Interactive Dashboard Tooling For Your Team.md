@@ -56,14 +56,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using chatbots to deliver results
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
+#### [Using chatbots to deliver results](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980&t=0)** - AI learning is a fire hose, and now more than ever, it's crucial that we don't just listen to the noise, but learn how to build useful AI skills.
 >
-> **[0:08](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980&t=8)** So I created a new type of challenge I'm calling Vibe Code This to create tools using different platforms like ChatGPT and Google Gemini, showing you best practices and techniques to help you master the process.
+> **[0:08](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980&t=8)** So I created a new type of challenge I'm calling Vibe Code This to create tools using different platforms like [[ChatGPT]] and [[Google Gemini]], showing you best practices and techniques to help you master the process.
 >
 > **[0:22](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/using-chatbots-to-deliver-results?u=76281980&t=22)** This week, we'll start with the fundamentals, how to collaborate with AI, create product requirement document, and what to do when things go haywire.
 >
@@ -73,7 +72,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[ChatGPT]] (1), [[Google Gemini]] (1), product (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Google Gemini]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
@@ -82,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Brainstorming with the chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)
+#### [Brainstorming with the chatbot](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -101,7 +99,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=36)** Can you help me choose fields that show early risk signals, the cost of delays, and simple sentiment or confidence levels that reflect clarity or requirements?
 >
-> **[0:46](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=46)** Now, sometimes ChatGPT will give you way too much information.
+> **[0:46](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=46)** Now, sometimes [[ChatGPT]] will give you way too much information.
 >
 > **[0:50](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=50)** In this case, it gave me a list of 15 items.
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=60)** For something foundational like this list of items, you want to finesse the output to make it better.
 >
-> **[1:06](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=66)** Don't just take ChatGPT's word for granted.
+> **[1:06](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=66)** Don't just take ChatGPT's [[Microsoft Word|word]] for granted.
 >
 > **[1:09](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=69)** Now, sometimes, ChatGPT will also give you an idea of where it might be going.
 >
@@ -163,7 +161,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=204)** It's very creative and can brainstorm really varied datasets.
 >
-> **[3:30](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=210)** The second one though is the code interpreter or the Python developer mode, sometimes called the advanced data analysis tool.
+> **[3:30](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=210)** The second one though is the code interpreter or the [[Python (Programming Language)|Python]] developer mode, sometimes called the advanced data analysis tool.
 >
 > **[3:39](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/brainstorming-with-the-chatbot?u=76281980&t=219)** In that mode, it's a good programmer, but it's not using the same sort of brain it has when it's being creative.
 >
@@ -207,7 +205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (10), data (5), prompt (3), ai (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (10), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (7), python (1)
 > **Env Vars:** csv (2)
 > **UI Navigation:** click on (1)
@@ -215,8 +213,7 @@ created: 2026-05-02
 > **Best Practices:** it's best to (1)
 > **Speakers:** - let (1)
 
-#### Defining success criteria with a PRD
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980)
+#### [Defining success criteria with a PRD](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=33)** Keep the roles specific and realistic.
 >
-> **[0:38](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=38)** Although we could begin with a clean conversation in ChatGPT and upload our final CSV from before, it's actually better to leave the previous conversation so that it understands things that you liked, things that you didn't like and any feedback you've given the tool.
+> **[0:38](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=38)** Although we could begin with a clean conversation in [[ChatGPT]] and upload our final CSV from before, it's actually better to leave the previous conversation so that it understands things that you liked, things that you didn't like and any feedback you've given the tool.
 >
 > **[0:58](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=58)** It gave me some suggestions here.
 >
@@ -310,19 +307,18 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=266)** Instead of trying to design everything in your head or just giving the tool some data and telling it to be completely creative, you need to go through your thinking, exposing assumptions and create a requirements document that it can actually act upon.
 >
-> **[4:43](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=283)** And this is really the heart of vibe coding, smartly thinking with the model instead of thinking alone.
+> **[4:43](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/defining-success-criteria-with-a-prd?u=76281980&t=283)** And this is really the heart of [[Vibe Coding]], smartly thinking with the model instead of thinking alone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (3), [[ChatGPT]] (3), next (2), hit (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Vibe Coding]] (1)
 > **Env Vars:** prd (6), csv (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### From PRD to interactive dashboard with AI tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980)
+#### [From PRD to interactive dashboard with AI tools](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,11 +340,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=66)** When I did that, it's gonna show me some of the data here.
 >
-> **[1:09](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=69)** The code interpreter will sometimes try to generate a Python solution using its visualizer to show you some simple charts here.
+> **[1:09](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=69)** The code interpreter will sometimes try to generate a [[Python (Programming Language)|Python]] solution using its visualizer to show you some simple charts here.
 >
 > **[1:18](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=78)** Sometimes, you wanna be more specific about what the dashboard output should be.
 >
-> **[1:23](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=83)** I'm gonna do a couple of things here because I want it to be more of an HTML report.
+> **[1:23](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=83)** I'm gonna do a couple of things here because I want it to be more of an [[HTML]] report.
 >
 > **[1:28](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=88)** I'm gonna do two things to help it, make sure that it gives me the right kind of output.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=94)** Canvas mode is going to be a helper for either writing or programming, and it's gonna let me preview things like an HTML dashboard.
 >
-> **[1:42](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=102)** If you want the dashboard to be really interactive, you can ask it to use React.
+> **[1:42](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=102)** If you want the dashboard to be really interactive, you can ask it to use [[React.js|React]].
 >
 > **[1:48](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=108)** Let's go ahead and send this.
 >
@@ -376,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=145)** Now you can see that it's giving you some feedback as to what it's doing.
 >
-> **[2:29](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=149)** It made a suggestion to update this to a CSV to JSON file.
+> **[2:29](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=149)** It made a suggestion to update this to a CSV to [[JSON]] file.
 >
 > **[2:34](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=154)** I don't really want it to do that.
 >
@@ -388,13 +384,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=164)** Here is the original and I'll hit send.
 >
-> **[2:47](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=167)** It's making some suggestions thinking about some of the code, and it's really not doing what I need it to do, and so I want to switch to a different tool, ChatGPT is not going to do this part of the project.
+> **[2:47](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=167)** It's making some suggestions thinking about some of the code, and it's really not doing what I need it to do, and so I want to switch to a different tool, [[ChatGPT]] is not going to do this part of the project.
 >
 > **[3:00](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=180)** The best could just be the current version of the model, and sometimes, it's just a session that you're in.
 >
 > **[3:07](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=187)** Even restarting with the same tool at different time is going to generate the results that you want.
 >
-> **[3:14](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=194)** So in this case, I'm going to switch over to Google Gemini.
+> **[3:14](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=194)** So in this case, I'm going to switch over to [[Google Gemini]].
 >
 > **[3:17](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=197)** I'll show you how.
 >
@@ -406,7 +402,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=228)** Once again, I'm going to specify canvas.
 >
-> **[3:50](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=230)** I'm gonna hit submit, and you could see that the canvas mode in Gemini is very similar to ChatGPT.
+> **[3:50](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=230)** I'm gonna hit submit, and you could see that the canvas mode in [[Gemini]] is very similar to ChatGPT.
 >
 > **[3:56](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=236)** All right, it looks like it's done.
 >
@@ -420,7 +416,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=249)** It even added an upload, a new document option for me that I can use to bring in some new data.
 >
-> **[4:16](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=256)** Another nice thing about the chatbots is that the dashboards aren't just available to individuals.
+> **[4:16](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=256)** Another nice thing about the chatbots is that the [[Dashboards]] aren't just available to individuals.
 >
 > **[4:21](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=261)** They're also shareable by clicking on this share button and you can copy this link to send it to someone else to take a look at the same dashboard.
 >
@@ -434,7 +430,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=299)** Starting out with a simple conversation, we moved on to a PRD and finally ended up with a working dashboard.
 >
-> **[5:06](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=306)** We had to make a lot of adjustments along the way, and that's the way Vibe coding works.
+> **[5:06](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=306)** We had to make a lot of adjustments along the way, and that's the way [[Vibe Coding]] works.
 >
 > **[5:12](https://www.linkedin.com/learning/vibe-code-this-interactive-dashboard-tooling-for-your-team/from-prd-to-interactive-dashboard-with-ai-tools?u=76281980&t=312)** You don't start with all of the documentation.
 >
@@ -446,7 +442,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), hit (6), [[HTML]] (2), [[Programming]] (2), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[ChatGPT]] (2), [[Google Gemini]] (2), [[Gemini]] (2), [[Vibe Coding]] (2)
 > **Env Vars:** prd (7), csv (6), html (2), json (1), csvi (1)
 > **CLI Commands:** make (6), python (1)
 > **UI Navigation:** switch to (1), go to (1)

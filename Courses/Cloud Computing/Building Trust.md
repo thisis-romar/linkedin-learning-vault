@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why trust matters more than ever
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
+#### [Why trust matters more than ever](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,15 +94,14 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980&t=60)** When it's present, nobody really notices, but when it's absent, everybody notices."
 >
-> **[1:07](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980&t=67)** So, clear away your distractions, settle in, and join me in this course on building trust.
+> **[1:07](https://www.linkedin.com/learning/building-trust-14841538/why-trust-matters-more-than-ever?u=76281980&t=67)** So, clear away your distractions, settle in, and join me in this course on [[Building Trust]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), hit (2), business (2), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Speakers:** - trust (1)
 
-#### Trust drivers: Competency, empathy, and authenticity
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980)
+#### [Trust drivers: Competency, empathy, and authenticity](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -173,13 +171,13 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980&t=256)** If I'm introducing myself to someone at a casual gathering, empathy or authenticity are important.
 >
-> **[4:24](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980&t=264)** But if I've been called to the Dean's office to explain some mistake I've made, hmm, competency is more important driver of trust.
+> **[4:24](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980&t=264)** But if I've been called to the Dean's [[Microsoft Office|office]] to explain some mistake I've made, hmm, competency is more important driver of trust.
 >
 > **[4:33](https://www.linkedin.com/learning/building-trust-14841538/trust-drivers-competency-empathy-and-authenticity?u=76281980&t=273)** Prioritizing will help you focus, but your aim is to be able to communicate all three trust drivers: your competency, empathy and your authenticity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), business (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - trust (1)
@@ -189,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be results focused
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
+#### [Be results focused](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=102)** The results goal is to hire qualified candidates.
 >
-> **[1:46](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=106)** Milestones along the way might include publicizing the open position in 20 sources, eliciting 10 resumes, interviewing five candidates.
+> **[1:46](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=106)** Milestones along the way might include publicizing the open position in 20 sources, eliciting 10 resumes, [[Interviewing]] five candidates.
 >
 > **[1:54](https://www.linkedin.com/learning/building-trust-14841538/be-results-focused?u=76281980&t=114)** If you've agreed on clear outcomes, managers aren't concerned if you're walking the dog at 10:00 AM instead of sitting at your computer.
 >
@@ -310,7 +307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), business (1), [[Interviewing]] (1), next (1), generic (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **CLI Commands:** make (4)
 > **Ports:** :00 (1)
 > **Analogies:** for example (1)
@@ -321,8 +318,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Convey your warmth and concern
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
+#### [Convey your warmth and concern](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980&t=55)** But empathy cues, answer the question, are your intentions toward me good?
 >
-> **[1:01](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980&t=61)** We must prove our positive intent, our care when building trust.
+> **[1:01](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980&t=61)** We must prove our positive intent, our care when [[Building Trust]].
 >
 > **[1:08](https://www.linkedin.com/learning/building-trust-14841538/convey-your-warmth-and-concern?u=76281980&t=68)** Consider some situations or relationships where others might doubt your concern for them.
 >
@@ -410,19 +406,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), teams (1), [[Building Trust]] (1), business (1), express (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1)
 > **Speakers:** - oh (2), - jason (1), - use (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 
-#### Listen and empathize
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980)
+#### [Listen and empathize](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980&t=0)** - [Brenda] Being a great listener enhances all three trust drivers, empathy, competency, and authenticity.
 >
-> **[0:08](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980&t=8)** My colleague, Tatiana, and I have an entire course on listening in the LinkedIn Library.
+> **[0:08](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980&t=8)** My colleague, Tatiana, and I have an entire course on listening in the [[LinkedIn]] Library.
 >
 > **[0:13](https://www.linkedin.com/learning/building-trust-14841538/listen-and-empathize?u=76281980&t=13)** I encourage you to watch that, but here are some listening tips that will help you earn trust.
 >
@@ -486,14 +481,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [brenda] (1)
 
-#### Be intentional about touching base
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980)
+#### [Be intentional about touching base](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980&t=19)** Arrive early and chit-chat as people arrive.
 >
-> **[0:23](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980&t=23)** A LinkedIn learner shared with me that her morning routine when her team worked in the office included filling up her coffee cup and then walking a lap around the office to say good morning to her colleagues.
+> **[0:23](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980&t=23)** A [[LinkedIn]] learner shared with me that her morning routine when her team worked in the [[Microsoft Office|office]] included filling up her coffee cup and then walking a lap around the office to say good morning to her colleagues.
 >
 > **[0:35](https://www.linkedin.com/learning/building-trust-14841538/be-intentional-about-touching-base?u=76281980&t=35)** She said, without fail, just seeing people would trigger some sort of, hey how's this project coming along, or, oh I meant to ask you about- She and her team felt connected.
 >
@@ -539,13 +533,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (2), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - one (1)
 
-#### Assume positive intent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980)
+#### [Assume positive intent](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,7 +634,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980&t=218)** Act on positive intent anyway.
 >
-> **[3:41](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980&t=221)** John had missed two consecutive meetings with his project team.
+> **[3:41](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980&t=221)** [[John the Ripper|John]] had missed two consecutive meetings with his project team.
 >
 > **[3:45](https://www.linkedin.com/learning/building-trust-14841538/assume-positive-intent?u=76281980&t=225)** One teammate angry about John's absences sent a hostile email to the entire team and CC'd the manager.
 >
@@ -659,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
@@ -670,18 +663,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make sure your actions match your words
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
+#### [Make sure your actions match your words](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=1)** - Dana barely slept last night.
 >
-> **[0:03](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=3)** She's suffering from Zoom fatigue and she's now in her fourth meeting of the day.
+> **[0:03](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=3)** She's suffering from [[Zoom]] fatigue and she's now in her fourth meeting of the day.
 >
 > **[0:08](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=8)** She wants to be supportive of an idea her colleague is sharing with the team, but on the Zoom call, she looks something like this.
 >
-> **[0:17](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=17)** Dana barely utters a word during the call, and when she does, her tone is flat.
+> **[0:17](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=17)** Dana barely utters a [[Microsoft Word|word]] during the call, and when she does, her tone is flat.
 >
 > **[0:23](https://www.linkedin.com/learning/building-trust-14841538/make-sure-your-actions-match-your-words?u=76281980&t=23)** After the meeting, her colleague confronts Dana about her perceived lack of support.
 >
@@ -736,8 +728,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), cat (1), make (1)
 > **Definitions:** is a  (1)
 
-#### Self disclose to build trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980)
+#### [Self disclose to build trust](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,7 +748,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980&t=28)** Self-disclosure or talking about yourself and your feelings demonstrates your authenticity, and authenticity builds trust.
 >
-> **[0:38](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980&t=38)** Self-disclosure comes in many forms.
+> **[0:38](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980&t=38)** Self-disclosure comes in many [[Forms]].
 >
 > **[0:42](https://www.linkedin.com/learning/building-trust-14841538/self-disclose-to-build-trust?u=76281980&t=42)** Like my friend, you might share more of your non-work life stories to demonstrate your authenticity.
 >
@@ -834,8 +825,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Avoid bias while detecting trustworthiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/avoid-bias-while-detecting-trustworthiness?u=76281980)
+#### [Avoid bias while detecting trustworthiness](https://www.linkedin.com/learning/building-trust-14841538/avoid-bias-while-detecting-trustworthiness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -928,8 +918,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build team trust by extending trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
+#### [Build team trust by extending trust](https://www.linkedin.com/learning/building-trust-14841538/build-team-trust-by-extending-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,14 +966,13 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - my (1)
 
-#### Prepare for inclusive hybrid team meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980)
+#### [Prepare for inclusive hybrid team meetings](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980&t=0)** - When my team first went remote, we, like many of you, scrambled those first few weeks, but we eventually figured out remote meetings.
 >
-> **[0:09](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980&t=9)** Then some people, but not all, started working in the office.
+> **[0:09](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980&t=9)** Then some people, but not all, started working in the [[Microsoft Office|office]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-trust-14841538/prepare-for-inclusive-hybrid-team-meetings?u=76281980&t=13)** And we didn't give our first hybrid meeting all that much thought.
 >
@@ -1046,15 +1034,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Structure hybrid meetings to build trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980)
+#### [Structure hybrid meetings to build trust](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1064,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=10)** First, socialize in virtual meetings.
 >
-> **[0:13](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=13)** We may lack hallways and water coolers on virtual teams, but we still need time for socializing.
+> **[0:13](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=13)** We may lack hallways and water coolers on [[Virtual Teams]], but we still need time for socializing.
 >
 > **[0:20](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=20)** Get to your meetings a few minutes early so you can chit chat with people as they arrive.
 >
@@ -1108,7 +1095,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=124)** Make sure you are on time for meetings and you follow through on what you say you will do.
 >
-> **[2:09](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=129)** Virtually, your word is all you have.
+> **[2:09](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=129)** Virtually, your [[Microsoft Word|word]] is all you have.
 >
 > **[2:13](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=133)** Watch as Paul and his team use these tips in their meeting.
 >
@@ -1150,7 +1137,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=180)** - Sure, thanks, Paul.
 >
-> **[3:02](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=182)** Hey, Reggie, I got your email with the inventory numbers and I plugged them into an Excel sheet called Inventory, so we just need to decide on when we are going to follow-up with this project and maybe give Paul a call back.
+> **[3:02](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=182)** Hey, Reggie, I got your email with the inventory numbers and I plugged them into an [[Microsoft Excel|Excel]] sheet called Inventory, so we just need to decide on when we are going to follow-up with this project and maybe give Paul a call back.
 >
 > **[3:15](https://www.linkedin.com/learning/building-trust-14841538/structure-hybrid-meetings-to-build-trust?u=76281980&t=195)** Okay, guys, that was the last item on the agenda, so just let me make sure I wrote down who is going to do what by when.
 >
@@ -1160,7 +1147,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Teams]] (3), power (2), teams (1), [[Microsoft Word|Word]] (1), next (1)
+> **Frameworks & Libraries:** [[Virtual Teams]] (3), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - team (1), - hey (1), - we (1), - i (1), - sorry (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (2)
@@ -1171,8 +1158,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to manage a betrayal
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
+#### [How to manage a betrayal](https://www.linkedin.com/learning/building-trust-14841538/how-to-manage-a-betrayal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,13 +1242,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Apologize and make it right
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/apologize-and-make-it-right?u=76281980)
+#### [Apologize and make it right](https://www.linkedin.com/learning/building-trust-14841538/apologize-and-make-it-right?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1336,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** make (4)
 > **Speakers:** - thanks (2), - your (1), - finally (1)
 > **Best Practices:** recommended (1), don't forget (1)
@@ -1364,8 +1347,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evolve with the shifting workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)
+#### [Evolve with the shifting workplace](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1373,7 +1355,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980&t=8)** But what trends may affect trust in the future?
 >
-> **[0:11](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980&t=11)** There is already research showing that we trust artificial intelligence over people to make some recommendations.
+> **[0:11](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980&t=11)** There is already research showing that we trust [[Artificial Intelligence (AI)|artificial intelligence]] over people to make some recommendations.
 >
 > **[0:19](https://www.linkedin.com/learning/building-trust-14841538/evolve-with-the-shifting-workplace?u=76281980&t=19)** Now that affects what sources we use when trying to influence and how do we demonstrate our trustworthiness when an AI screening device is used to evaluate us?
 >
@@ -1387,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 

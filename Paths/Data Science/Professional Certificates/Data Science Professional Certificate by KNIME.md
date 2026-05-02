@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/data-science-professional-certifica
 course_count: 6
 linkedin_topics:
   - Data Science
-louvain_cluster: 1
+louvain_cluster: 2
 tags:
   - professional-certificate
   - topic/data-science

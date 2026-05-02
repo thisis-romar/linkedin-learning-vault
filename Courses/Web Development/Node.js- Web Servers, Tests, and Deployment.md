@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going beyond the basics in Node
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980)
+#### [Going beyond the basics in Node](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=0)** - [Eve] When you started to work with Node.js you probably learned how to install it and how to perform some simple tasks like logging, processing arguments from the command line, and working with the file system.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=0)** - [Eve] When you started to work with [[Node.js]] you probably learned how to install it and how to perform some simple tasks like logging, processing arguments from the command line, and working with the file system.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=11)** Once you understand those features though, you might be asking yourself, what's next with Node.js?
 >
@@ -104,11 +103,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=18)** We'll go beyond the basics to talk about some of the most essential features of Node.js.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=23)** We'll create servers, we'll use NPM, we'll handle testing, and we'll work with web sockets.
+> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=23)** We'll create servers, we'll use [[npm]], we'll handle testing, and we'll work with web sockets.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=29)** Everything you need to work with Node.js in the real world.
 >
-> **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=33)** My name is Eve Porcello and I've been a JavaScript developer and instructor for over a decade.
+> **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=33)** My name is Eve Porcello and I've been a [[JavaScript]] developer and instructor for over a decade.
 >
 > **[0:38](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/going-beyond-the-basics-in-node?u=76281980&t=38)** When I started teaching JavaScript, it was mostly thought of as this language to use for hovers and button clicks, today, it's more powerful than ever.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (6), next (2), [[JavaScript]] (2), [[npm]] (1), web (1)
+> **Frameworks & Libraries:** [[Node.js]] (6), [[JavaScript]] (2), [[npm]] (1)
 > **CLI Commands:** node (6), find (1), npm (1)
 > **File Paths:** node.js (6)
 > **Env Vars:** npm (1)
@@ -132,8 +131,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [eve] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980&t=13)** So if this says anything above version 17 or 18, you should be okay, you don't really need to download anything new.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980&t=23)** If you want to get the latest version, or if you type this in and you see an error, you want to grab the latest version from the Node.js website.
+> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980&t=23)** If you want to get the latest version, or if you type this in and you see an error, you want to grab the latest version from the [[Node.js]] website.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/what-you-should-know?u=76281980&t=33)** So here on the website, they just pushed a new version of this site.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), node (2), [[Node.js]] (2), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (2)
 > **CLI Commands:** node (4), make (2)
 > **Tools:** terminal (2), command prompt (2)
 > **File Paths:** node.js (2)
@@ -184,8 +182,7 @@ created: 2026-05-02
 > **Versions:** version 17 (1)
 > **Prerequisites:** install (1)
 
-#### Working with VS Code
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980)
+#### [Working with VS Code](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -197,7 +194,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980&t=15)** This will identify what type of machine you're using to access this.
 >
-> **[0:19](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980&t=19)** And then you can just go ahead and download this, kind of like we did with Node.js before.
+> **[0:19](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980&t=19)** And then you can just go ahead and download this, kind of like we did with [[Node.js]] before.
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/working-with-vs-code?u=76281980&t=26)** We are going to show this in our Finder and then this should download this to our computer.
 >
@@ -233,14 +230,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making a request with the request method
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980)
+#### [Making a request with the request method](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=0)** - [Instructor] We may need to make HTTP requests in order to upload and download files and information from HTTP servers.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=6)** Node.js has two modules for this, the http module.
+> **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=6)** [[Node.js]] has two modules for this, the http module.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=10)** This is the one used for a request to sites without a security certificate, and the https module, which is going to make a request to a site with a security certificate.
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=242)** So we'll say fs.writeFile.
 >
-> **[4:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=245)** We'll call the file cher.html.
+> **[4:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=245)** We'll call the file cher.[[HTML]].
 >
 > **[4:09](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-request-method?u=76281980&t=249)** We'll pass responseBody as the second argument, which is going to take that data and populate it into our HTML page, and then let's go ahead and add an error in case something goes wrong.
 >
@@ -350,7 +346,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[HTML]] (4), node (3), [[Security]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Node.js]] (1)
 > **CLI Commands:** make (8), node (4), find (1), cd (1)
 > **Code Identifiers:** responsebody (4), setencoding (2), writefile (1)
 > **Env Vars:** http (2), html (2), https (1), utf (1)
@@ -359,8 +355,7 @@ created: 2026-05-02
 > **Tools:** terminal (1), vs code (1)
 > **URLs:** [wikipedia.org](https://wikipedia.org) (1)
 
-#### Making a request with the GET method
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980)
+#### [Making a request with the GET method](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -394,7 +389,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980&t=65)** And we'll pass in the name of the file that we want to write to.
 >
-> **[1:08](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980&t=68)** So we'll say cher.html.
+> **[1:08](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980&t=68)** So we'll say cher.[[HTML]].
 >
 > **[1:11](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/making-a-request-with-the-get-method?u=76281980&t=71)** Then we'll console.log Response started.
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), data (1), node (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (5), node (1)
 > **Env Vars:** https (1), html (1)
 > **File Paths:** cher.html (1)
@@ -435,12 +430,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Definitions:** is a  (1)
 
-#### Building a web server
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980)
+#### [Building a web server](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=0)** - [Instructor] One of the coolest things that you can do with Node.js is build web servers.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=0)** - [Instructor] One of the coolest things that you can do with [[Node.js]] is build [[Web Servers]].
 >
 > **[0:04](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=4)** So let's create a simple text server.
 >
@@ -486,7 +480,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=93)** All you need to do here so go to localhost:3000 and we'll serve up our text.
 >
-> **[1:39](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=99)** We can also use our server to serve HTML.
+> **[1:39](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=99)** We can also use our server to serve [[HTML]].
 >
 > **[1:42](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/building-a-web-server?u=76281980&t=102)** So to do that, we'll start by changing the Content-Type to html.
 >
@@ -540,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (8), web (4), [[Node.js]] (2), node (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (8), [[Node.js]] (2), [[Web Servers]] (2)
 > **CLI Commands:** node (3), make (2)
 > **Env Vars:** html (4), doctype (1)
 > **Code Identifiers:** createserver (2), writehead (1)
@@ -549,12 +543,11 @@ created: 2026-05-02
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 > **API Endpoints:** get  (1)
 
-#### Creating a file server
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980)
+#### [Creating a file server](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=0)** - [Instructor] Now that we understand the basics of creating web servers, let's put those skills to work.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=0)** - [Instructor] Now that we understand the basics of creating [[Web Servers]], let's put those skills to work.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=5)** We're going to build a little website here using these starter files.
 >
@@ -564,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=32)** We're going to use createServer, we're going to use the request and the response, and here we're going to use the switch statement.
 >
-> **[0:42](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=42)** So given the request URL, if I go to the slash route we want to do something, now what we actually want to do is we want to serve up our HTML file that's in that folder but a nice way to kind of wrap this functionality would be to create a function that takes in the response object, the status, the type of file, and the file name itself and we're going to use all of that data to write some headers and to stream the file.
+> **[0:42](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=42)** So given the request URL, if I go to the slash route we want to do something, now what we actually want to do is we want to serve up our [[HTML]] file that's in that folder but a nice way to kind of wrap this functionality would be to create a function that takes in the response object, the status, the type of file, and the file name itself and we're going to use all of that data to write some headers and to stream the file.
 >
 > **[1:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-file-server?u=76281980&t=78)** So we'll say res.writeHead will write the status, we will plug in a dynamic content type, is it a CSS file?
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (10), css (6), web (3), data (1), node (1)
+> **Frameworks & Libraries:** [[HTML]] (10), [[Web Servers]] (1)
 > **Env Vars:** html (4), css (4), http (1), url (1), jpg (1)
 > **File Paths:** styles.css (2), 404.html (2), home-page.html (1), homepage.html (1)
 > **Code Identifiers:** createreadstream (2), sendfile (2), createserver (1), writehead (1)
@@ -635,12 +628,11 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Exercise Files:** starter files (1)
 
-#### Serving JSON data
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980)
+#### [Serving JSON data](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=0)** - [Instructor] We can also use the HTTP module to create an HTTP API or a server that's primary purpose is to serve up JSON.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=0)** - [Instructor] We can also use the HTTP module to create an HTTP API or a server that's primary purpose is to serve up [[JSON]].
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=9)** APIs are used to serve data to client applications.
 >
@@ -680,11 +672,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=85)** We're serving up our JSON.
 >
-> **[1:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=86)** Now, we can also use this to set up some simple routing.
+> **[1:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=86)** Now, we can also use this to set up some simple [[Routing]].
 >
 > **[1:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=90)** So what we'll do inside of our createServer function is we're going to say if request.url.toLowerCase equals /biscuit, then we'll say let biscuit equal data.filter.
 >
-> **[1:47](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=107)** We're using a JavaScript function here to take a look at each one of these cats to see if the cat.name equals Biscuit.
+> **[1:47](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=107)** We're using a [[JavaScript]] function here to take a look at each one of these cats to see if the cat.name equals Biscuit.
 >
 > **[1:57](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/serving-json-data?u=76281980&t=117)** Then we'll say response.end JSON.stringify biscuit.
 >
@@ -734,7 +726,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), data (9), node (2), [[JavaScript]] (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (9), [[JavaScript]] (2), [[Routing]] (1)
 > **Env Vars:** json (7), http (2), api (1)
 > **CLI Commands:** cat (4), node (2), make (1)
 > **Code Identifiers:** createserver (3), tolowercase (2)
@@ -748,12 +740,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The package.json file
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980)
+#### [The package.json file](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=0)** - So far we've used core modules, the modules that are installed when you install Node.js.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=0)** - So far we've used core modules, the modules that are installed when you install [[Node.js]].
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=6)** So these include things like HTTP, like fs, like exec, util, all sorts of things like this.
 >
@@ -765,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=22)** But there are other modules out there, community modules created by open source developers, and we can install and use those modules too.
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=30)** Node.js community modules are hosted and shared for free with npm.
+> **[0:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=30)** Node.js community modules are hosted and shared for free with [[npm]].
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=35)** You can come here to find different Node modules and even publish your own.
 >
@@ -777,7 +768,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=49)** So if I go to npm -v, this is going to let me know what my current version is.
 >
-> **[0:55](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=55)** So before we can start to use some of these npm packages, we have to create a package JSON file.
+> **[0:55](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=55)** So before we can start to use some of these npm packages, we have to create a package [[JSON]] file.
 >
 > **[1:01](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=61)** So what I'm going to do here is I'm going to run npm init.
 >
@@ -793,11 +784,11 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=81)** So I'll just say version, and we'll say description: A countdown clock.
 >
-> **[1:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=87)** We will define an entry point, which is our main JavaScript file.
+> **[1:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=87)** We will define an entry point, which is our main [[JavaScript]] file.
 >
 > **[1:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=90)** We'll hit enter to skip the test command.
 >
-> **[1:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=93)** We'll hit enter to skip the git repo.
+> **[1:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=93)** We'll hit enter to skip the [[Git]] repo.
 >
 > **[1:36](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/the-package-json-file?u=76281980&t=96)** We'll say node, javascript, timers.
 >
@@ -819,7 +810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (5), node (4), [[Node.js]] (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[npm]] (8), [[JSON]] (5), [[Node.js]] (2), [[JavaScript]] (2), [[Git]] (1)
 > **CLI Commands:** npm (8), node (6), find (1), git (1)
 > **Env Vars:** json (5), http (1), mit (1)
 > **Prerequisites:** install (4)
@@ -828,12 +819,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - so (1)
 
-#### Using import statements
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980)
+#### [Using import statements](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=0)** - [Instructor] So far when we've been working with Node.js we have imported items using the require statement, and then once they are imported we can start to log some of these things.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=0)** - [Instructor] So far when we've been working with [[Node.js]] we have imported items using the require statement, and then once they are imported we can start to log some of these things.
 >
 > **[0:12](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=12)** So let's go ahead and try to run this.
 >
@@ -841,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=22)** Now this will give me a little bit of information about our file system module.
 >
-> **[0:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=27)** Whenever we have imported these modules in the past, whether they come from NPM or whether they just come from Node.js itself, we have used the require statement using a pattern called CommonJS to import these modules.
+> **[0:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=27)** Whenever we have imported these modules in the past, whether they come from [[npm]] or whether they just come from Node.js itself, we have used the require statement using a pattern called CommonJS to import these modules.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=43)** Now you may have seen a different syntax used which looks a little something like this, import fs from fs.
 >
@@ -851,7 +841,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=60)** But the import statements were something that never used to work in Node.js.
 >
-> **[1:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=66)** Now that we have later versions of node though, we can always make one little switch to our package.json so that we can use these imports.
+> **[1:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=66)** Now that we have later versions of node though, we can always make one little switch to our package.[[JSON]] so that we can use these imports.
 >
 > **[1:16](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-import-statements?u=76281980&t=76)** So all we need to do to our package.json is we're going to add a key called type, and then a value called module, and now we should be able to use that import statement.
 >
@@ -867,21 +857,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (4), node (2), [[npm]] (2), [[JSON]] (2), hit (1)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[npm]] (2), [[JSON]] (2)
 > **CLI Commands:** node (6), make (3), npm (2)
 > **File Paths:** node.js (4), package.json (2)
 > **Env Vars:** npm (2)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using minimist
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980)
+#### [Using minimist](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=0)** - [Instructor] Now that we have our project set up, we're ready to start coding.
 >
-> **[0:03](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=3)** I'm over here at the npm JS registry.
+> **[0:03](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=3)** I'm over here at the [[npm]] JS registry.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=6)** And I'm going to search for a package that helps us use argv.
 >
@@ -891,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=18)** We're going to open up the correct folder.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=22)** We're going to make sure that we're navigated to the start folder where we have the package.json and we're going to npm install minimist, M-I-N-I-M-I-S-T.
+> **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=22)** We're going to make sure that we're navigated to the start folder where we have the package.[[JSON]] and we're going to npm install minimist, M-I-N-I-M-I-S-T.
 >
 > **[0:34](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-minimist?u=76281980&t=34)** This is going to install this in our project inside of this folder called node_modules.
 >
@@ -955,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (3), next (2), node (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (3)
 > **CLI Commands:** npm (6), node (2), make (1)
 > **Prerequisites:** install (6), set up (1)
 > **Code Identifiers:** node_modules (3), parseargs (2), parseint (1)
@@ -964,8 +953,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using tiny-timer
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980)
+#### [Using tiny-timer](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980&t=9)** Looks like we are and then we'll run node index.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980&t=12)** Now, if you ever see this error, cannot find package, it's just because you have to run an npm install again inside of this folder.
+> **[0:12](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980&t=12)** Now, if you ever see this error, cannot find package, it's just because you have to run an [[npm]] install again inside of this folder.
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-tiny-timer?u=76281980&t=20)** The next thing we'll do is run it again and we should see that this is running.
 >
@@ -1057,7 +1045,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (4), next (2), node (1)
+> **Frameworks & Libraries:** [[npm]] (4)
 > **CLI Commands:** npm (4), make (1), node (1), find (1)
 > **Prerequisites:** install (2)
 > **File Paths:** index.js (1)
@@ -1066,16 +1054,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980)
+#### [Managing packages](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=0)** - So far, we've created a little countdown module that's dependent on a few other Node.js packages in order to make this work.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=0)** - So far, we've created a little countdown module that's dependent on a few other [[Node.js]] packages in order to make this work.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=8)** So if you ever see a folder that doesn't have the dependencies installed, all you need to do of course is run NPM install and you'll get that node modules folder.
+> **[0:08](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=8)** So if you ever see a folder that doesn't have the dependencies installed, all you need to do of course is run [[npm]] install and you'll get that node modules folder.
 >
-> **[0:17](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=17)** The other thing that's really nice about this package JSON file is something we haven't talked about yet.
+> **[0:17](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=17)** The other thing that's really nice about this package [[JSON]] file is something we haven't talked about yet.
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/managing-packages?u=76281980&t=22)** We have this script's key here and the script's key has a test command with no test specified.
 >
@@ -1123,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (10), node (3), [[JSON]] (3), [[Node.js]] (1), power (1)
+> **Frameworks & Libraries:** [[npm]] (10), [[JSON]] (3), [[Node.js]] (1)
 > **CLI Commands:** npm (10), node (4), make (2), ls (1)
 > **Env Vars:** npm (10), json (3)
 > **Prerequisites:** install (2)
@@ -1135,8 +1122,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File servers with serve
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980)
+#### [File servers with serve](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1134,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980&t=19)** We know how to do it.
 >
-> **[0:20](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980&t=20)** However, when it comes time to get your work done, we can rely on the NPM community.
+> **[0:20](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980&t=20)** However, when it comes time to get your work done, we can rely on the [[npm]] community.
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/file-servers-with-serve?u=76281980&t=26)** There are a number of file servers that can serve static files over HTTP.
 >
@@ -1174,7 +1160,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[npm]] (1), web application (1), node (1), application (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **Env Vars:** http (7), npm (1), npx (1)
 > **CLI Commands:** npm (1), npx (1), node (1), make (1)
 > **Cross-References:** earlier in (1)
@@ -1182,8 +1168,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intro to Express
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980)
+#### [Intro to Express](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1191,13 +1176,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=5)** In order to complete the task of building the ski dictionary web application, we're going to need some more control.
 >
-> **[0:11](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=11)** We will use express to help us build and customize a web-app that serves files and handles definitions over our rest API.
+> **[0:11](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=11)** We will use express to help us build and customize a web-app that serves files and handles definitions over our [[Representational State Transfer (REST)|rest]] API.
 >
 > **[0:20](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=20)** So what we want to do first, aside from making sure we're in the right folder, is our project doesn't have.
 >
-> **[0:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=26)** It has this client folder, but we also need a package JSON.
+> **[0:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=26)** It has this client folder, but we also need a package [[JSON]].
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=30)** If we don't care too much about configuring these options, we can run an npm knit -y.
+> **[0:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=30)** If we don't care too much about configuring these options, we can run an [[npm]] knit -y.
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/intro-to-express?u=76281980&t=35)** This is going to initialize our project with all of the defaults.
 >
@@ -1287,7 +1272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (11), [[JSON]] (7), next (6), web (3), [[npm]] (3)
+> **Frameworks & Libraries:** [[JSON]] (7), [[npm]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (3), make (3), node (2)
 > **Env Vars:** json (4), api (2), npm (1)
 > **File Paths:** server.js (2), ski-terms.json (1), response.json (1)
@@ -1296,20 +1281,19 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Code Identifiers:** skiterms (1)
 
-#### Handling POST requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980)
+#### [Handling POST requests](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=0)** - [Instructor] So if we fill out this form and click add term, we're going to notice that there is another error.
 >
-> **[0:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=5)** So it's saying that it failed to load a resource and that we are failing to fetch.
+> **[0:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=5)** So it's saying that it failed to load a resource and that we are failing to [[Fetch]].
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=10)** So let's take a look at the request with the Chrome browser tools here.
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=13)** If we go to the network tab, we're seeing that we're failing to load a resource.
 >
-> **[0:17](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=17)** Remember that these HTTP requests are readable stream, so instead of handling the data ourselves, we can use an NPM called the body parser here to do the heavy lifting.
+> **[0:17](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=17)** Remember that these HTTP requests are readable stream, so instead of handling the data ourselves, we can use an [[npm]] called the body parser here to do the heavy lifting.
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=28)** So let's install body parser and we're going to add a post route to our application.
 >
@@ -1319,7 +1303,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=60)** And here, we're going to use, as the second argument to post, body parser.
 >
-> **[1:07](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=67)** There's a function called .json that's going to parse this as json and then we need to add a callback function to say what we want to do.
+> **[1:07](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=67)** There's a function called .[[JSON]] that's going to parse this as json and then we need to add a callback function to say what we want to do.
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-post-requests?u=76281980&t=75)** So we're going to say request and response, skiTerms.push.
 >
@@ -1385,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[JSON]] (5), [[Fetch]] (1), [[npm]] (1), application (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Fetch]] (1), [[npm]] (1)
 > **Env Vars:** http (2), npm (1), json (1)
 > **Code Identifiers:** skiterms (2), writefile (1)
 > **CLI Commands:** npm (1), make (1)
@@ -1394,8 +1378,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Prerequisites:** install (1)
 
-#### Handling DELETE requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980)
+#### [Handling DELETE requests](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1413,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=26)** So no problem.
 >
-> **[0:28](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=28)** Express automatically handles routing parameters for us, which makes it easier to capture and use this data.
+> **[0:28](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=28)** Express automatically handles [[Routing]] parameters for us, which makes it easier to capture and use this data.
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=35)** So let's go ahead and add a delete route to our API.
 >
@@ -1435,7 +1418,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=85)** In other words what we're saying here is if the term isn't being deleted, let's keep it in the list.
 >
-> **[1:32](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=92)** We will call the save function again and then we'll call response.json and use the status.
+> **[1:32](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=92)** We will call the save function again and then we'll call response.[[JSON]] and use the status.
 >
 > **[1:44](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/handling-delete-requests?u=76281980&t=104)** We'll say removed is whatever the request.params.term is and then finally, we'll set a newLength, which is whatever the length of the new array is after that term has been removed.
 >
@@ -1483,7 +1466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (1), express (1), [[Routing]] (1), data (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[JSON]] (1)
 > **Code Identifiers:** skiterms (4), newlength (1)
 > **CLI Commands:** make (3), node (1)
 > **Env Vars:** api (2), delete (1)
@@ -1492,8 +1475,7 @@ created: 2026-05-02
 > **File Paths:** response.json (1)
 > **API Endpoints:** delete  (1)
 
-#### Using Express middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-express-middleware?u=76281980)
+#### [Using Express middleware](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-express-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1509,7 +1491,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (1)
 > **CLI Commands:** make (1)
 
 
@@ -1517,12 +1498,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a WebSocket
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980)
+#### [Creating a WebSocket](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=0)** - [Instructor] WebSockets allow for a true two-way connection between the client and the server.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=0)** - [Instructor] [[WebSocket|WebSockets]] allow for a true two-way connection between the client and the server.
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=5)** Clients connect to a socket server, and the connection remains open until a client disconnects.
 >
@@ -1540,13 +1520,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=41)** It's going to run this on port 5000, and if we go back to our browser, localhost 5000, it should bring up our chat application.
 >
-> **[0:52](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=52)** So if we take a look at our browser console, it's saying WebSocket connection to ws localhost 3000 has failed.
+> **[0:52](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=52)** So if we take a look at our browser console, it's saying [[WebSocket]] connection to ws localhost 3000 has failed.
 >
 > **[0:59](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=59)** So it's trying to connect to this WebSocket, but that's not available.
 >
 > **[1:04](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=64)** So we're going to install a package that's going to help us construct a simple WebSocket.
 >
-> **[1:10](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=70)** We'll run npm i ws.
+> **[1:10](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=70)** We'll run [[npm]] i ws.
 >
 > **[1:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket?u=76281980&t=73)** This is going to install that for us.
 >
@@ -1610,7 +1590,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WebSocket]] (5), [[WebSocket|Websockets]] (2), data (2), application (2), next (2)
+> **Frameworks & Libraries:** [[WebSocket]] (5), [[WebSocket|Websockets]] (2), [[npm]] (1)
 > **CLI Commands:** make (2), npm (1), npx (1), node (1)
 > **Ports:** port 5000 (3), port 3000 (1), :3000 (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -1619,8 +1599,7 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 
-#### Broadcasting messages with a WebSocket
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980)
+#### [Broadcasting messages with a WebSocket](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1648,7 +1627,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=55)** So what we want to do next is we want to create a new array of messages that we can populate.
 >
-> **[1:01](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=61)** And we're also going to react to this on method every time there's a new message.
+> **[1:01](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=61)** And we're also going to [[React.js|react]] to this on method every time there's a new message.
 >
 > **[1:08](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=68)** So we'll say message.
 >
@@ -1666,7 +1645,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=100)** We'll call wss.clients.forEach.
 >
-> **[1:45](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=105)** So this is going to iterate through all of the clients that are connected, all the browser windows that are connected, and we're going to send that message to each one.
+> **[1:45](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=105)** So this is going to iterate through all of the clients that are connected, all the browser [[Windows]] that are connected, and we're going to send that message to each one.
 >
 > **[1:54](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/broadcasting-messages-with-a-websocket?u=76281980&t=114)** So we'll say message.toString.
 >
@@ -1714,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), hit (2), next (2), node (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Windows]] (1)
 > **Code Identifiers:** tostring (5), foreach (2)
 > **CLI Commands:** npx (2), make (2), node (1)
 > **Cross-References:** in the last (1), as we saw (1), go back to (1), in the next (1)
@@ -1723,8 +1702,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Prerequisites:** set up (1)
 
-#### Creating a WebSocket client with Socket.IO
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980)
+#### [Creating a WebSocket client with Socket.IO](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1798,7 +1776,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980&t=193)** Any type of client can connect to a web socket to send and receive data.
 >
-> **[3:19](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980&t=199)** So instead of our browser app, we're going to build a little CLI, a command line interface application that will allow us to communicate with our socket server via the terminal.
+> **[3:19](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980&t=199)** So instead of our browser app, we're going to build a little [[CLI]], a command line interface application that will allow us to communicate with our socket server via the terminal.
 >
 > **[3:30](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-a-websocket-client-with-socket-io?u=76281980&t=210)** So let's go ahead and install a separate package called [socket.io](https://socket.io)-client.
 >
@@ -1830,7 +1808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), data (3), application (3), next (2), node (2)
+> **Frameworks & Libraries:** [[CLI]] (1)
 > **URLs:** [socket.io](https://socket.io) (7)
 > **Env Vars:** http (4), cli (1)
 > **Tools:** terminal (2), command line (1)
@@ -1839,8 +1817,7 @@ created: 2026-05-02
 > **CLI Commands:** node (2)
 > **Cross-References:** in the last (1)
 
-#### Emitting Socket.IO events
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/emitting-socket-io-events?u=76281980)
+#### [Emitting Socket.IO events](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/emitting-socket-io-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1882,11 +1859,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/emitting-socket-io-events?u=76281980&t=114)** This is only a brief introduction to all of the things that are possible with web sockets.
 >
-> **[1:59](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/emitting-socket-io-events?u=76281980&t=119)** Real-time applications are the future of the internet and no JS of course supports them.
+> **[1:59](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/emitting-socket-io-events?u=76281980&t=119)** [[Real-Time]] applications are the future of the internet and no JS of course supports them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), web (2), node (2), next (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **CLI Commands:** node (2)
 > **Tools:** terminal (2)
 > **Definitions:** means that (1), in other words (1)
@@ -1900,14 +1877,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating modular projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980)
+#### [Creating modular projects](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980&t=0)** - [Instructor] One of the principles of Node.js is small modules.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980&t=0)** - [Instructor] One of the principles of [[Node.js]] is small modules.
 >
-> **[0:03](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980&t=3)** This means that, as JavaScript developers, we should take advantage of modularity by breaking code up into bite size modules that are focused on a specific task.
+> **[0:03](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980&t=3)** This means that, as [[JavaScript]] developers, we should take advantage of modularity by breaking code up into bite size modules that are focused on a specific task.
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/creating-modular-projects?u=76281980&t=13)** So we've brought back the ski dictionary website and the API that we built back in chapter three.
 >
@@ -1951,27 +1927,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (3), data (2), [[Node.js]] (1), [[JavaScript]] (1), api (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[JavaScript]] (1)
 > **File Paths:** app.js (3), index.js (2), node.js (1)
 > **CLI Commands:** node (2)
 > **Definitions:** means that (1), stands for (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring Babel with Jest
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980)
+#### [Configuring Babel with Jest](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=0)** - [Instructor] In order to write some tests for our application, we actually need to do some configuration with a tool called Babel.
 >
-> **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=6)** Babel is a JavaScript compiler that you can use to make all sorts of transformations with your code.
+> **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=6)** Babel is a [[JavaScript]] compiler that you can use to make all sorts of transformations with your code.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=11)** We see this a lot used with the newest versions of JavaScript that aren't compatible in every single browser.
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=18)** We run it through the process of working with Babel, and then we're able to use those new features right away.
 >
-> **[0:24](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=24)** We also see it used and React with JSX, so we can compile all of those JSX tags to JavaScript syntax that runs in the browser.
+> **[0:24](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=24)** We also see it used and [[React.js|React]] with JSX, so we can compile all of those JSX tags to JavaScript syntax that runs in the browser.
 >
 > **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=33)** The reason we'll be doing this is for two reasons, really.
 >
@@ -1995,7 +1970,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=105)** So it's going to keep our project lighter-weight, and then it's going to relegate all of these development dependencies to a single location.
 >
-> **[1:53](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=113)** Great, so now that I've done this, I should be able to see this in our package.json.
+> **[1:53](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=113)** Great, so now that I've done this, I should be able to see this in our package.[[JSON]].
 >
 > **[1:59](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=119)** We should be able to scroll down and see that all of these have been added here, nice.
 >
@@ -2015,7 +1990,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=182)** Now, the babel, preset-env that we installed before, Think of this as just being a transformer for Babel based on whatever environment we're using.
 >
-> **[3:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=193)** So in this case, we're using Node.js.
+> **[3:13](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=193)** So in this case, we're using [[Node.js]].
 >
 > **[3:15](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/configuring-babel-with-jest?u=76281980&t=195)** It's going to perform transformations based on that environment.
 >
@@ -2041,7 +2016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (8), [[JSON]] (3), next (2), application (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (8), [[JSON]] (3), [[React.js|React]] (1), [[Node.js]] (1)
 > **Env Vars:** jsx (4), json (1), repl (1)
 > **Prerequisites:** install (3), setup (1), set up (1)
 > **File Paths:** package.json (1), babel.config.json (1), node.js (1)
@@ -2050,8 +2025,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 
-#### Writing a test
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980)
+#### [Writing a test](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2067,7 +2041,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=27)** We're going to use a module called supertest, which makes it easier for us to test different routes.
 >
-> **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=33)** We're going to npm i Jest in supertest and install them with capital D and install them with - capital D to install them in our dev dependencies.
+> **[0:33](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=33)** We're going to [[npm]] i Jest in supertest and install them with capital D and install them with - capital D to install them in our dev dependencies.
 >
 > **[0:43](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=43)** So once we've done that, we can move over to our folder, and we've done such an excellent job (chuckles) of breaking things down into smaller files.
 >
@@ -2105,11 +2079,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=136)** So then what we'll do is we'll say, expect, the body.length.
 >
-> **[2:21](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=141)** So we'll expect all of the data that's coming back from that route to equal three, and that's because we have, in our data folder, skiTerms.json.
+> **[2:21](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=141)** So we'll expect all of the data that's coming back from that route to equal three, and that's because we have, in our data folder, skiTerms.[[JSON]].
 >
 > **[2:32](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=152)** There are three items inside of that array.
 >
-> **[2:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=155)** So now what I can do is open up our terminal again, and we're going to try to run this with the Node.js executable, which we find in our node_modules folder.
+> **[2:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=155)** So now what I can do is open up our terminal again, and we're going to try to run this with the [[Node.js]] executable, which we find in our node_modules folder.
 >
 > **[2:46](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/writing-a-test?u=76281980&t=166)** What I mean by that is this is how we would dig into that node_modules folder, where we installed Jest and run those tests.
 >
@@ -2153,7 +2127,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (6), data (4), [[JSON]] (2), api (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[npm]] (6), [[JSON]] (2), [[Node.js]] (1)
 > **CLI Commands:** npm (6), find (2), make (2), node (1)
 > **Prerequisites:** install (4), set up (1)
 > **File Paths:** app.test.js (1), skiterms.json (1), node.js (1), package.json (1)
@@ -2162,8 +2136,7 @@ created: 2026-05-02
 > **Env Vars:** api (1), node_options (1)
 > **Tools:** terminal (1)
 
-#### Using code coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980)
+#### [Using code coverage](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2175,7 +2148,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980&t=10)** So what I'm going to do is add another key here to our scripts, and we'll say all of this stuff, but then we'll send the --coverage flag.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980&t=23)** Now, if I run npm run coverage here, all of our statements, our functions, our lines have been tested.
+> **[0:23](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980&t=23)** Now, if I run [[npm]] run coverage here, all of our statements, our functions, our lines have been tested.
 >
 > **[0:32](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/using-code-coverage?u=76281980&t=32)** So we have some tests for our app, but it looks like we have a little bit more work to do on our other files.
 >
@@ -2205,18 +2178,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=0)** - Now that you've finished this course, you're in a great place to really work with Node.js on real projects.
+> **[0:00](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=0)** - Now that you've finished this course, you're in a great place to really work with [[Node.js]] on real projects.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=6)** If you want to take your learning to the next level, we have a whole series of Node.js courses that you can explore.
 >
-> **[0:12](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=12)** Node.js Design Patterns will teach you about the essential patterns that can be used to solve common coding challenges.
+> **[0:12](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=12)** Node.js [[Design Patterns]] will teach you about the essential patterns that can be used to solve common coding challenges.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=18)** Advanced Node.js will teach you techniques about asynchronous programming and data streaming with Node.js, and then Advanced Node.js Scaling Applications shows techniques for scaling Node projects with approaches like database optimization, creating microservices, and cloning.
+> **[0:18](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=18)** Advanced Node.js will teach you techniques about asynchronous programming and [[Data Streaming]] with Node.js, and then Advanced Node.js Scaling Applications shows techniques for scaling Node projects with approaches like database optimization, creating [[Microservices]], and cloning.
 >
 > **[0:35](https://www.linkedin.com/learning/node-js-web-servers-tests-and-deployment/next-steps?u=76281980&t=35)** Thank you so much for going on this journey with me.
 >
@@ -2224,7 +2196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (7), next (1), [[Design Patterns]] (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Node.js]] (7), [[Design Patterns]] (1), [[Data Streaming]] (1), [[Microservices]] (1)
 > **CLI Commands:** node (8)
 > **File Paths:** node.js (7)
 > **Speakers:** - now (1)

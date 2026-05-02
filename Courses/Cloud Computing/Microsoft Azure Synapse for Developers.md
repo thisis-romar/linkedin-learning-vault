@@ -89,18 +89,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data warehouses in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980)
+#### [Data warehouses in the cloud](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=0)** - In today's world, businesses are relying more and more on big data for their daily operations.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=0)** - In today's world, businesses are relying more and more on [[Big Data]] for their daily operations.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=6)** Whether you already have an in-house solution for your data, or you're trying to move to a more flexible one, Azure Synapse Analytics can help you quickly get up and running in a matter of minutes without any upfront costs.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=6)** Whether you already have an in-house solution for your data, or you're trying to move to a more flexible one, [[Microsoft Azure|Azure]] Synapse Analytics can help you quickly get up and running in a matter of minutes without any upfront costs.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=20)** You'll learn how to get up and running with Synapse analytics as your data warehouse in the cloud.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=26)** First, you'll learn how to provision your dedicated SQL pool and what the different options are.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=26)** First, you'll learn how to provision your dedicated [[SQL]] pool and what the different options are.
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-warehouses-in-the-cloud?u=76281980&t=33)** Next, we'll go to different data loading methods with hands-on demonstrations.
 >
@@ -114,23 +113,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Analytics]] (2), cloud (2), [[SQL]] (2), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Big Data]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - in (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started, There are a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=4)** First, you should be familiar with SQL and writing SQL and T-SQL statements.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=4)** First, you should be familiar with [[SQL]] and writing SQL and T-SQL statements.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=10)** If you are not already familiar, then you can take the course, Microsoft SQL Server 2019 Essential Training.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=10)** If you are not already familiar, then you can take the course, [[Microsoft SQL Server]] 2019 Essential Training.
 >
-> **[0:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=19)** We are going to make use of Azure storage for data loading, so you should be familiar with using Azure storage to upload and share files.
+> **[0:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=19)** We are going to make use of [[Microsoft Azure|Azure]] storage for data loading, so you should be familiar with using Azure storage to upload and share files.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/what-you-should-know?u=76281980&t=27)** You do not need to be an expert, but you should at least know the basics.
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft SQL Server]] (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Azure|Azure]] (3), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (5)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
@@ -156,18 +154,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Synapse Analytics overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980)
+#### [Azure Synapse Analytics overview](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=0)** - Azure Synapse Analytics is a limitless analytics service that simplifies data discovery for big data and reduces the time to insights.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=0)** - [[Microsoft Azure|Azure]] Synapse Analytics is a limitless analytics service that simplifies data discovery for [[Big Data]] and reduces the time to insights.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=10)** It's designed as an all-in-one platform that combines data warehousing and big data analytics.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=10)** It's designed as an all-in-one platform that combines [[Data Warehousing]] and [[Big Data Analytics]].
 >
 > **[0:18](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=18)** Synapse Analytics breaks down its analytic resources into three pools.
 >
-> **[0:23](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=23)** We have serverless pools, dedicated SQL pools and Apache spark pools.
+> **[0:23](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=23)** We have serverless pools, dedicated [[SQL]] pools and [[Apache Spark]] pools.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=30)** Dedicated SQL pools, despite the name change, are Azure SQL data warehouses, which are data warehouses in the cloud.
 >
@@ -191,9 +188,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=99)** This way, we can see what types of data we have so we can transform it and load it into our reports.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=107)** It also integrates with other services like Azure Purview, which is a service for data governance to help organizations understand their data across their entire ecosystem.
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=107)** It also integrates with other services like Azure Purview, which is a service for [[Data Governance]] to help organizations understand their data across their entire ecosystem.
 >
-> **[1:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=119)** It integrates with power BI for visualizing the data in different meaningful reports for making data driven business decisions.
+> **[1:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=119)** It integrates with [[Microsoft Power BI|power BI]] for visualizing the data in different meaningful reports for making data driven business decisions.
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/azure-synapse-analytics-overview?u=76281980&t=129)** Machine learning is quickly becoming widely used by many organizations.
 >
@@ -205,18 +202,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft Azure|Azure]] (8), [[Analytics]] (7), [[SQL]] (5), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[SQL]] (5), [[Big Data]] (1), [[Data Warehousing]] (1), [[Big Data Analytics]] (1)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** apache (1)
 > **Speakers:** - azure (1)
 
-#### Creating Azure Synapse Analytics workspaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980)
+#### [Creating Azure Synapse Analytics workspaces](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=0)** - [Instructor] Working with cloud services can get messy at times.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=0)** - [Instructor] Working with [[Cloud Services]] can get messy at times.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=4)** We need different services integrated together to perform certain tasks.
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=21)** Let's get started creating our first workspace.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=25)** From our Azure portal, we can quickly find Synapse Analytics by searching for it.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=25)** From our [[Microsoft Azure|Azure]] portal, we can quickly find Synapse Analytics by searching for it.
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=30)** Here, let's go ahead and type in synapse.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=140)** This will be just like a container in Blob storage.
 >
-> **[2:24](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=144)** Microsoft went ahead and named it file system name, but it's a little confusing.
+> **[2:24](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=144)** [[Microsoft]] went ahead and named it file system name, but it's a little confusing.
 >
 > **[2:28](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=148)** So think of this as the container name.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=193)** Make sure you remember the password that you enter here.
 >
-> **[3:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=199)** And we are going to leave the rest of the settings as default and hit the Review and Create button.
+> **[3:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=199)** And we are going to leave the [[Representational State Transfer (REST)|rest]] of the settings as default and hit the Review and Create button.
 >
 > **[3:28](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-azure-synapse-analytics-workspaces?u=76281980&t=208)** Looks like the validation has passed.
 >
@@ -316,7 +312,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Analytics]] (4), next (3), [[Microsoft Azure|Azure]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Cloud Services]] (1), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** url (1)
 > **Tools:** azure portal (1)
@@ -324,22 +320,21 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing the architecture of dedicated SQL pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980)
+#### [Analyzing the architecture of dedicated SQL pools](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=0)** - [Instructor] Before we continue with our Azure Synnex workspace.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=0)** - [Instructor] Before we continue with our [[Microsoft Azure|Azure]] Synnex workspace.
 >
-> **[0:03](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=3)** First, let's talk a little bit about Dedicated SQL pools.
+> **[0:03](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=3)** First, let's talk a little bit about Dedicated [[SQL]] pools.
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=8)** These are what replaced our traditional Data Warehouse, which was also formerly known as Azure SQL Data Warehouse.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=16)** Dedicated SQL pools represent the collection of analytic resources, the size of which is determined when we provision it.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=25)** Once we have provisioned the Dedicated Pool, then we can import big data from different aspects of our business, transform it into an appropriate format for querying, and then run analytic queries that are very high performance.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=25)** Once we have provisioned the Dedicated Pool, then we can import [[Big Data]] from different aspects of our business, transform it into an appropriate format for querying, and then run analytic queries that are very high performance.
 >
-> **[0:40](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=40)** Our Dedicated Pool will look just like any other SQL database with relational tables where we can store our data for later consumption for Business Intelligence.
+> **[0:40](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=40)** Our Dedicated Pool will look just like any other SQL database with relational tables where we can store our data for later consumption for [[Business Intelligence (BI)|Business Intelligence]].
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-the-architecture-of-dedicated-sql-pools?u=76281980&t=50)** Now let's take a look at the architecture of our Dedicated SQL pool.
 >
@@ -383,19 +378,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (11), data (9), [[SQL]] (8), power (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft Azure|Azure]] (3), [[Big Data]] (1), [[Business Intelligence (BI)|Business intelligence]] (1)
 > **CLI Commands:** node (11)
 > **Env Vars:** sql (8)
 > **Definitions:** known as (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Provisioning dedicated Synapse Analytics pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/provisioning-dedicated-synapse-analytics-pools?u=76281980)
+#### [Provisioning dedicated Synapse Analytics pools](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/provisioning-dedicated-synapse-analytics-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/provisioning-dedicated-synapse-analytics-pools?u=76281980&t=0)** - [Instructor] In this demo, we are going to create a dedicated SQL pool.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/provisioning-dedicated-synapse-analytics-pools?u=76281980&t=0)** - [Instructor] In this demo, we are going to create a dedicated [[SQL]] pool.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/provisioning-dedicated-synapse-analytics-pools?u=76281980&t=5)** This is going to serve as our data warehouse in the cloud.
 >
@@ -477,14 +471,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), node (8), [[SQL]] (4), next (2), parallel (2)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **CLI Commands:** node (8)
 > **Env Vars:** sql (4), dw100 (1)
 > **UI Navigation:** navigate to (2), click on (1), open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a Synapse Analytics workspace with a dedicated pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980)
+#### [Challenge: Create a Synapse Analytics workspace with a dedicated pool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -492,24 +485,23 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=5)** - [Instructor] In this challenge, I would like you to create a new Synapse Analytics workspace.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=10)** Once the workspace is created, inside, create a new dedicated SQL pools which has three compute nodes.
+> **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=10)** Once the workspace is created, inside, create a new dedicated [[SQL]] pools which has three compute nodes.
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=17)** Once you're done, join me in the next scape to go over the solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Create a Synapse Analytics workspace with a dedicated pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980)
+#### [Solution: Create a Synapse Analytics workspace with a dedicated pool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=0)** - [Instructor] To solve this challenge, first, I navigated to Azure Synapse Analytics.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=0)** - [Instructor] To solve this challenge, first, I navigated to [[Microsoft Azure|Azure]] Synapse Analytics.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=11)** In here, I proceeded to create a new resource using the Create button.
 >
@@ -527,7 +519,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=62)** Next, I moved to the Security tab.
 >
-> **[1:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=66)** In here, I provided the SQL Administrator Credentials.
+> **[1:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=66)** In here, I provided the [[SQL]] Administrator Credentials.
 >
 > **[1:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-create-a-synapse-analytics-workspace-with-a-dedicated-pool?u=76281980&t=70)** I changed the SQL Admin user to Challenge user and provided my password.
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (5), [[Microsoft Azure|Azure]] (2), [[Analytics]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (5), [[Microsoft Azure|Azure]] (2)
 > **Env Vars:** sql (5)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
@@ -570,8 +562,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data loading in Azure Data Warehouse
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980)
+#### [Data loading in Azure Data Warehouse](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,7 +570,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=9)** The process allows us to gather data from our sources, transform it into a format that is most useful to us, and then load it into the data warehouse.
 >
-> **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=20)** While this works well for traditional data warehouse, it's not the case in cloud data warehouses or, more exactly, in Azure Synapse Analytics dedicated pools.
+> **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=20)** While this works well for traditional data warehouse, it's not the case in cloud data warehouses or, more exactly, in [[Microsoft Azure|Azure]] Synapse Analytics dedicated pools.
 >
 > **[0:32](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=32)** Due to the massive filing processing nature which separates compute and storage, we can use a process called ELT which stands for Extract, Load, and then Transform.
 >
@@ -587,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=50)** The data is extracted from the source, and it's loaded into the dedicated pool, after which it's transformed.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=58)** This way, we take advantage of the massive filing processing power of dedicated SQL pools, which eliminates the need for data transformation, which in turn eliminates the need for all the processing power required to transform the data prior to loading it.
+> **[0:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=58)** This way, we take advantage of the massive filing processing power of dedicated [[SQL]] pools, which eliminates the need for [[Data Transformation]], which in turn eliminates the need for all the processing power required to transform the data prior to loading it.
 >
 > **[1:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-loading-in-azure-data-warehouse?u=76281980&t=77)** Due to the scaled-out nature of dedicated pools, data is saved on something called a distributed table.
 >
@@ -669,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), power (2), [[SQL]] (2), node (2), hit (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Azure|Azure]] (1), [[Data Transformation]] (1)
 > **Env Vars:** elt (2), sql (2), where (2), etl (1), group (1)
 > **Definitions:** stands for (2), is a  (2)
 > **Analogies:** for example (3)
@@ -678,8 +669,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Prerequisites:** required to (1)
 
-#### Preparing your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980)
+#### [Preparing your data](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -697,7 +687,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=41)** First, we need to open command prompt on this folder.
 >
-> **[0:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=47)** The first thing that you need to do is install the Node packages, so you need to run npm install.
+> **[0:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=47)** The first thing that you need to do is install the Node packages, so you need to run [[npm]] install.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=57)** Once the packages are installed, and you need to run npm run generate.
 >
@@ -729,7 +719,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=129)** If you have trouble running the Synapse Data Generator, then I have already included for you sales data pre-generated so you can use those.
 >
-> **[2:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=139)** Before we can load the data into our date warehouse, first, we need to upload it to Azure Storage.
+> **[2:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=139)** Before we can load the data into our date warehouse, first, we need to upload it to [[Microsoft Azure|Azure]] Storage.
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=145)** Let's go ahead and copy the path to this folder, and now let's navigate to the Azure portal.
 >
@@ -745,7 +735,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=183)** And it looks like the name is available.
 >
-> **[3:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=186)** We are going to leave the rest of the settings as they are and hit Review and Create.
+> **[3:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=186)** We are going to leave the [[Representational State Transfer (REST)|rest]] of the settings as they are and hit Review and Create.
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/preparing-your-data?u=76281980&t=192)** And finally, let's create the storage account.
 >
@@ -777,7 +767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), node (2), [[npm]] (2), [[Microsoft Azure|Azure]] (2), next (2)
+> **Frameworks & Libraries:** [[npm]] (2), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), node (2), npm (2), make (1)
 > **UI Navigation:** navigate to (4), open the (1), select the (1), click on (1)
 > **Tools:** command prompt (1), azure portal (1)
@@ -786,12 +776,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Exploring Azure Synapse Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980)
+#### [Exploring Azure Synapse Studio](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=0)** - Now that you have a workspace graded, you have a dedicated SQL pool.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=0)** - Now that you have a workspace graded, you have a dedicated [[SQL]] pool.
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=4)** Also our files have been uploaded.
 >
@@ -809,7 +798,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=45)** We can ingest data, explore and analyze, and visualize data.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=50)** For example, as navigating databases, or data.
+> **[0:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=50)** For example, as navigating [[Databases]], or data.
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/exploring-azure-synapse-studio?u=76281980&t=54)** And in here, we should see our database, which is our sales data warehouse, which is a dedicated SQL pool.
 >
@@ -879,7 +868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[SQL]] (7), database (3), next (3), application (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (1)
 > **Env Vars:** sql (7)
 > **Analogies:** for example (4), just like (1)
 > **Definitions:** is a  (4)
@@ -888,8 +877,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - now (1)
 
-#### Loading data using the copy tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980)
+#### [Loading data using the copy tool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -915,7 +903,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=59)** First, we need to choose the source type.
 >
-> **[1:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=62)** In our case, it's Azure Blob Storage.
+> **[1:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=62)** In our case, it's [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=65)** Depending on your storage type, you need to choose appropriate type here.
 >
@@ -983,7 +971,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=253)** Now, in here we need to choose a target type.
 >
-> **[4:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=256)** For our case, we are loading data into a dedicated SQL pool.
+> **[4:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=256)** For our case, we are loading data into a dedicated [[SQL]] pool.
 >
 > **[4:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/loading-data-using-the-copy-tool?u=76281980&t=262)** So for our target, we need to choose Azure Synapse dedicated SQL pool.
 >
@@ -1061,7 +1049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (7), [[Microsoft Azure|Azure]] (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (2)
 > **Env Vars:** copy (4), sql (2), url (1), sas (1), uri (1)
 > **UI Navigation:** click on (4), navigate to (3), select the (1), open the (1)
 > **Analogies:** for example (4)
@@ -1069,14 +1057,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Load data using the COPY command
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980)
+#### [Load data using the COPY command](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980&t=0)** - [Instructor] In this demo, we are going to learn how to use a Copy Command directly without using the UI that Azure Synapse Studio provides.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980&t=0)** - [Instructor] In this demo, we are going to learn how to use a Copy Command directly without using the UI that [[Microsoft Azure|Azure]] Synapse Studio provides.
 >
-> **[0:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980&t=11)** We are going to get the data from our sales folder inside here, and we are going to load it into a table into our dedicated SQL pool.
+> **[0:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980&t=11)** We are going to get the data from our sales folder inside here, and we are going to load it into a table into our dedicated [[SQL]] pool.
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-using-the-copy-command?u=76281980&t=20)** To make it simple, I'm going to create a new table.
 >
@@ -1228,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** csv (4), url (3), sql (2), secret (2), copy (1)
 > **UI Navigation:** navigate to (5), select the (1)
 > **CLI Commands:** make (5)
@@ -1237,16 +1224,15 @@ created: 2026-05-02
 > **SQL:** create table (1), select (1)
 > **Definitions:** is a  (2)
 
-#### Load data with PolyBase
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980)
+#### [Load data with PolyBase](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=0)** - [Instructor] In this demo, we are going to load data into our data warehouse using PolyBase.
 >
-> **[0:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=6)** PolyBase enables us to query data directly using T-SQL from multiple sources.
+> **[0:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=6)** PolyBase enables us to query data directly using T-[[SQL]] from multiple sources.
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=13)** We could query data from Oracle, Teradata, MongoDB, Hadoop clusters, Cosmos DB, et cetera, without installing any external client software.
+> **[0:13](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=13)** We could query data from Oracle, Teradata, [[MongoDB]], [[Hadoop]] clusters, Cosmos DB, et cetera, without installing any external client software.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=23)** It enables us to define external tables that we can query later on without having to know the structure, as we can define the structure for a data using external tables.
 >
@@ -1266,7 +1252,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=75)** These are database scoped credentials that we are going to use to access our storage.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=81)** This could be Azure storage or any other location.
+> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=81)** This could be [[Microsoft Azure|Azure]] storage or any other location.
 >
 > **[1:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=85)** This way, when you query your data, you don't have to define the credentials always.
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=182)** This is going to be our protocol.
 >
-> **[3:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=184)** It stands for Windows Azure Storage Blob, and it's a protocol for accessing data on the Hadoop distributed file system.
+> **[3:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=184)** It stands for [[Windows]] Azure Storage Blob, and it's a protocol for accessing data on the Hadoop distributed file system.
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/load-data-with-polybase?u=76281980&t=192)** Next, we need to specify our container name and then the at sign and then the storage account name.
 >
@@ -1444,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), next (7), [[Hadoop]] (5), [[SQL]] (3), hit (2)
+> **Frameworks & Libraries:** [[Hadoop]] (5), [[SQL]] (3), [[Microsoft Azure|Azure]] (2), [[Windows]] (2), [[MongoDB]] (1)
 > **Env Vars:** location (4), sql (3), external (2), distribution (2), create (1)
 > **UI Navigation:** navigate to (2), select the (1), go to (1)
 > **CLI Commands:** make (3)
@@ -1453,8 +1439,7 @@ created: 2026-05-02
 > **URLs:** [windows.net](https://windows.net) (1)
 > **Analogies:** just like (1)
 
-#### Transform data using data flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980)
+#### [Transform data using data flows](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1468,7 +1453,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=20)** And we're going to upload the file, which you will find in the exercise files.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=26)** Here on the exercise files, we'll find the file name stores.json.
+> **[0:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=26)** Here on the exercise files, we'll find the file name stores.[[JSON]].
 >
 > **[0:31](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=31)** The stores are not a CSV format.
 >
@@ -1502,7 +1487,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=97)** We are going to use an ingestion data set, and we're going to create a new data set.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=107)** Our files are on Azure Blob Storage.
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=107)** Our files are on [[Microsoft Azure|Azure]] Blob Storage.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=109)** So we need to choose Azure Blob Storage.
 >
@@ -1668,9 +1653,9 @@ created: 2026-05-02
 >
 > **[8:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=500)** And here let's go ahead and specify authentication.
 >
-> **[8:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=502)** For our demo we are going to use SQL authentication.
+> **[8:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=502)** For our demo we are going to use [[SQL]] authentication.
 >
-> **[8:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=506)** The username was SQL server admin.
+> **[8:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=506)** The username was [[Microsoft SQL Server|SQL server]] admin.
 >
 > **[8:32](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=512)** And the password is the one that you typed in, when you created the workspace.
 >
@@ -1772,7 +1757,7 @@ created: 2026-05-02
 >
 > **[12:35](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=755)** So our data was joined successfully.
 >
-> **[12:38](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=758)** As you can see, using pipelines is very easy to create data transformation.
+> **[12:38](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=758)** As you can see, using pipelines is very easy to create [[Data Transformation]].
 >
 > **[12:43](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transform-data-using-data-flows?u=76281980&t=763)** We can add as many steps as we want.
 >
@@ -1780,7 +1765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), next (6), [[Microsoft Azure|Azure]] (6), [[JSON]] (4), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[JSON]] (4), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Data Transformation]] (1)
 > **UI Navigation:** select the (6), navigate to (5), click on (5), open the (2), drag and drop (1)
 > **Env Vars:** csv (2), json (2), sql (2)
 > **Definitions:** is a  (4), is an  (1), is called (1)
@@ -1789,12 +1774,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Analogies:** just like (1)
 
-#### Challenge: Loading data using the copy tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-loading-data-using-the-copy-tool?u=76281980)
+#### [Challenge: Loading data using the copy tool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-loading-data-using-the-copy-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-loading-data-using-the-copy-tool?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to load data into the dedicated SQL pool that we have created earlier using the built-in copy tool.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-loading-data-using-the-copy-tool?u=76281980&t=0)** - [Instructor] In this challenge, I would like you to load data into the dedicated [[SQL]] pool that we have created earlier using the built-in copy tool.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-loading-data-using-the-copy-tool?u=76281980&t=15)** First, create a new table called DemoSales, and then load all the sales data in the Exercise Files into the DemoSales table.
 >
@@ -1802,15 +1786,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Loading data using the copy tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980)
+#### [Solution: Loading data using the copy tool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1840,7 +1823,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=99)** I chose the "Built-in copy task" for the task type and then proceeded to create a new source.
 >
-> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=107)** The source type was "Azure Blob storage".
+> **[1:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=107)** The source type was "[[Microsoft Azure|Azure]] Blob storage".
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=110)** And for the connection I created a new connection.
 >
@@ -1856,7 +1839,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=169)** And then move on to the Target configuration.
 >
-> **[2:53](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=173)** For the target, I chose "Azure's Synapse analytics dedicated SQL pool".
+> **[2:53](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=173)** For the target, I chose "Azure's Synapse analytics dedicated [[SQL]] pool".
 >
 > **[3:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-loading-data-using-the-copy-tool?u=76281980&t=180)** And for the "Connection", I use the "salesdw".
 >
@@ -1902,7 +1885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (4), database (2), [[Microsoft Azure|Azure]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[SQL]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** navigate to (1), click on (1)
 > **Env Vars:** sql (1)
@@ -1915,12 +1898,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data streaming scenarios
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980)
+#### [Data streaming scenarios](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980&t=0)** - Now that we have set up our data warehouse or the dedicated SQL pool and learn how to load data into it from our data lake, we are going to look at how to stream data in real time from various sources into our data warehouse.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980&t=0)** - Now that we have set up our data warehouse or the dedicated [[SQL]] pool and learn how to load data into it from our data lake, we are going to look at how to stream data in real time from various sources into our data warehouse.
 >
 > **[0:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/data-streaming-scenarios?u=76281980&t=15)** The first question that might come to mind when you think of streaming events directly into your data warehouse is why would we want such a scenario?
 >
@@ -1954,14 +1936,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Creating a Stream Analytics job
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980)
+#### [Creating a Stream Analytics job](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1997,7 +1978,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=74)** As you can see, we are leaving most of the settings unchanged as we are not focusing on the event part of things.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=81)** We're just going to focus on how to get events and then send them to Azure Synapse Analytics.
+> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=81)** We're just going to focus on how to get events and then send them to [[Microsoft Azure|Azure]] Synapse Analytics.
 >
 > **[1:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=87)** Now that we ave our Event Hub, we need to create a stream analytics job.
 >
@@ -2015,7 +1996,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=124)** And let's use the my workspace group.
 >
-> **[2:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=128)** And we're going to leave the rest of the settings as default.
+> **[2:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=128)** And we're going to leave the [[Representational State Transfer (REST)|rest]] of the settings as default.
 >
 > **[2:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=136)** Now that the deployment is complete, let's go ahead and navigate to the resource.
 >
@@ -2037,7 +2018,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=190)** And we are going to tell it to create a new one automatically with the required permissions.
 >
-> **[3:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=195)** The serialization format for our data is going to be JSON.
+> **[3:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=195)** The serialization format for our data is going to be [[JSON]].
 >
 > **[3:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=200)** And finally, let's go ahead and save it.
 >
@@ -2049,7 +2030,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=217)** Let's name it Synapse.
 >
-> **[3:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=221)** And then the database is going to be SQL data warehouse and authentication mode is going to be connection string.
+> **[3:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=221)** And then the database is going to be [[SQL]] data warehouse and authentication mode is going to be connection string.
 >
 > **[3:50](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-a-stream-analytics-job?u=76281980&t=230)** The username is sqladminuser, and the password is the password that we set when we created our workspace.
 >
@@ -2129,7 +2110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Analytics]] (5), [[SQL]] (4), [[Microsoft Azure|Azure]] (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1)
 > **UI Navigation:** navigate to (7), select the (1), go to (1)
 > **Env Vars:** sql (4), json (1), select (1), into (1)
 > **CLI Commands:** find (4), make (1)
@@ -2138,8 +2119,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Prerequisites:** set up (1)
 
-#### Testing data streaming using sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980)
+#### [Testing data streaming using sample data](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2147,11 +2127,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=8)** In the exercise files, inside the folder C naps Event Generator, you'll find an application.
 >
-> **[0:14](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=14)** Open the folder and then open the Windows Terminal inside this folder.
+> **[0:14](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=14)** Open the folder and then open the [[Windows]] Terminal inside this folder.
 >
 > **[0:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=19)** You can do that by using right click and then 'Open in Terminal' or on the Navigation bar you can type CMD and it will open the Terminal inside this folder.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=33)** The first thing that you need to do is run NPM install as this is a node JS application.
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=33)** The first thing that you need to do is run [[npm]] install as this is a node JS application.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/testing-data-streaming-using-sample-data?u=76281980&t=41)** This application will send test data to our Event stream So the data can be processed and moved into our Data Warehouse in order for us to test the process.
 >
@@ -2225,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), application (5), [[npm]] (2), [[Analytics]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Windows]] (1)
 > **UI Navigation:** open the (4), navigate to (3), click on (1), select the (1)
 > **CLI Commands:** npm (2), find (1), node (1), make (1)
 > **Env Vars:** npm (2), cmd (1)
@@ -2239,8 +2219,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding serverless pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980)
+#### [Understanding serverless pools](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2248,7 +2227,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=11)** In this clip, we are going to see what it is and how we can use it.
 >
-> **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=17)** Unlike dedicated as SQL pools, serverless pools don't have an infrastructure that we have to provision.
+> **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=17)** Unlike dedicated as [[SQL]] pools, serverless pools don't have an infrastructure that we have to provision.
 >
 > **[0:24](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=24)** With a dedicated SQL pool, we had to tell it how much compute power we needed, while with serverless pools, it will figure out by itself and query the data.
 >
@@ -2286,33 +2265,32 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=145)** Next, we can create a logical data warehouse.
 >
-> **[2:29](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=149)** Serverless pools have the ability to store object metadata.
+> **[2:29](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=149)** Serverless pools have the ability to store object [[Metadata]].
 >
 > **[2:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=153)** So, we can create a logical data warehouse where the data is only in storage.
 >
 > **[2:39](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=159)** This way we can create views that we can query directly, so we don't have to know about the data structure all the time.
 >
-> **[2:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=167)** We can just query the views and since it will update statistics, the queries will be relatively fast.
+> **[2:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=167)** We can just query the views and since it will update [[Statistics]], the queries will be relatively fast.
 >
 > **[2:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=174)** And finally, another use case is to transform data.
 >
-> **[2:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=178)** These will be some basic data transformation that we can do, for example.
+> **[2:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=178)** These will be some basic [[Data Transformation]] that we can do, for example.
 >
-> **[3:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=182)** We can get data from storage, parse it, and then store it somewhere else, or send it to Power BI for visualization dashboards, et cetera.
+> **[3:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=182)** We can get data from storage, parse it, and then store it somewhere else, or send it to [[Microsoft Power BI|Power BI]] for visualization [[Dashboards]], et cetera.
 >
 > **[3:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/understanding-serverless-pools?u=76281980&t=191)** We're going to look at how are we can use serverless SQL pools to query data directly from storage in our next clip.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[SQL]] (6), node (3), power (2), next (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Metadata]] (1), [[Statistics]] (1), [[Data Transformation]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (6), dqp (1)
 > **CLI Commands:** node (3)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying and discovering data using serverless pools
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980)
+#### [Querying and discovering data using serverless pools](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2324,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=20)** You'll only have one which is going to be the built-in one.
 >
-> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=25)** To query the data, we are going to use the open role set functionality and the query will be just like any other SQL query.
+> **[0:25](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=25)** To query the data, we are going to use the open role set functionality and the query will be just like any other [[SQL]] query.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=34)** Only thing that changes is the from part.
 >
@@ -2346,7 +2324,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=76)** If you don't specify, it will use a older version.
 >
-> **[1:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=79)** And with the newer version, Microsoft has made changes so it has a boosting performance while processing CSV files.
+> **[1:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=79)** And with the newer version, [[Microsoft]] has made changes so it has a boosting performance while processing CSV files.
 >
 > **[1:29](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-and-discovering-data-using-serverless-pools?u=76281980&t=89)** Next, you specify the format as CSV.
 >
@@ -2400,7 +2378,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[SQL]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft]] (1)
 > **Env Vars:** csv (3), sql (2), url (1)
 > **Analogies:** just like (2)
 > **CLI Commands:** make (1)
@@ -2408,8 +2386,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using file metadata in queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980)
+#### [Using file metadata in queries](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,7 +2400,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980&t=29)** We are going to use a file name and convert it into the date.
 >
-> **[0:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980&t=33)** This way, when we query our data, the server that SQL pools knows whether to look inside the file or not.
+> **[0:33](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980&t=33)** This way, when we query our data, the server that [[SQL]] pools knows whether to look inside the file or not.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/using-file-metadata-in-queries?u=76281980&t=41)** So, it's only looking at the file name without looking inside, which will make our queries faster.
 >
@@ -2583,7 +2560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[SQL]] (2), feature (1), [[Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** csv (5), sql (2), mpm (1), url (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** navigate to (3), open the (2)
@@ -2592,8 +2569,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Versions:** 2.0 (1)
 
-#### Building a logical data warehouse, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980)
+#### [Building a logical data warehouse, part 1](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2625,7 +2601,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=74)** SalesLogicalDataWarehouse.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=77)** You can also see it by navigating to databases, and here we go.
+> **[1:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=77)** You can also see it by navigating to [[Databases]], and here we go.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=82)** In here, you should see external tables, resources, views, schemas, security, et cetera.
 >
@@ -2659,7 +2635,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=191)** And for location, we are just going to point to our storage account.
 >
-> **[3:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=195)** We are going to place in the rest when we create the data.
+> **[3:15](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=195)** We are going to place in the [[Representational State Transfer (REST)|rest]] when we create the data.
 >
 > **[3:18](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=198)** This way, we have access to all the storage account, and all the containers inside it.
 >
@@ -2671,7 +2647,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=229)** And now finally, we can create our view.
 >
-> **[3:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=234)** We can do it just like in any SQL query, create view, and then the schema and the name of the view.
+> **[3:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=234)** We can do it just like in any [[SQL]] query, create view, and then the schema and the name of the view.
 >
 > **[4:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-1?u=76281980&t=240)** I'm going to name is DailySalesView.
 >
@@ -2725,7 +2701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), database (10), next (3), [[Databases]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[SQL]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** just like (5)
 > **Env Vars:** url (1), utf (1), sas (1), sql (1)
@@ -2734,8 +2710,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (2)
 > **Definitions:** is a  (1)
 
-#### Building a logical data warehouse, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-2?u=76281980)
+#### [Building a logical data warehouse, part 2](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/building-a-logical-data-warehouse-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2805,7 +2780,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
 > **File Paths:** stores.csv (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** csv (2)
@@ -2813,15 +2787,15 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
+> **Analogies:** just like (1)
 
-#### Manage statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980)
+#### [Manage statistics](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980&t=0)** - [Instructor] In this demo, we are going to talk about statistics.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980&t=0)** - [Instructor] In this demo, we are going to talk about [[Statistics]].
 >
-> **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980&t=4)** Statistics are what both serverless and dedicated SQL pools use to optimize their queries.
+> **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980&t=4)** Statistics are what both serverless and dedicated [[SQL]] pools use to optimize their queries.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/manage-statistics?u=76281980&t=11)** We are going to talk about statistics for dedicated SQL pools later on.
 >
@@ -2881,7 +2855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (11), data (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (11), [[SQL]] (2)
 > **Env Vars:** sql (2), csv (2), bulk (1), data_source (1), where (1)
 > **Code Identifiers:** create_openrowset_statistics (1), sp_create_openrowset_statistics (1), parser_version (1), drop_openrowset_statistic (1)
 > **CLI Commands:** apache (1), make (1), find (1)
@@ -2890,12 +2864,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Best Practices:** good practice (1)
 
-#### Cost management
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/cost-management?u=76281980)
+#### [Cost management](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/cost-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/cost-management?u=76281980&t=0)** - [Instructor] Since serverless SQL pools do not need any provisioning, they'll automatically provision all the necessary resources in order to query the data.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/cost-management?u=76281980&t=0)** - [Instructor] Since serverless [[SQL]] pools do not need any provisioning, they'll automatically provision all the necessary resources in order to query the data.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/cost-management?u=76281980&t=10)** But what if we have a lot of data, and by mistake we run a query and we let it run all night?
 >
@@ -2949,14 +2922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (4), cloud (1)
+> **Frameworks & Libraries:** [[SQL]] (4)
 > **Env Vars:** sql (4)
 > **UI Navigation:** navigate to (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Query partitioned data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980)
+#### [Challenge: Query partitioned data](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2968,21 +2940,20 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980&t=40)** You'll find all this data in the exercise files.
 >
-> **[0:44](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980&t=44)** You are tasked to load this data in Azure Blob storage and extract the year, month and day as columns using the built-in serverless pool and the file-pack function.
+> **[0:44](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980&t=44)** You are tasked to load this data in [[Microsoft Azure|Azure]] Blob storage and extract the year, month and day as columns using the built-in serverless pool and the file-pack function.
 >
 > **[0:57](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/challenge-query-partitioned-data?u=76281980&t=57)** Once you're done, join me in the next clip to go over the solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Azure|Azure]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Query partitioned data
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980)
+#### [Solution: Query partitioned data](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3002,11 +2973,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=40)** Now, what we want to do is parse the year, then parse the month, and then parse the date.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=46)** So you need to get all these three properties into columns in our SQL statement.
+> **[0:46](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=46)** So you need to get all these three properties into columns in our [[SQL]] statement.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=53)** Since the data is in multiple subfolders and folders, we cannot upload using the web portal.
 >
-> **[1:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=60)** And for uploading the data, I'm going to use a Microsoft Azure Storage Explorer.
+> **[1:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=60)** And for uploading the data, I'm going to use a [[Microsoft Azure]] Storage Explorer.
 >
 > **[1:05](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/solution-query-partitioned-data?u=76281980&t=65)** It's a great app that lets you manage storage.
 >
@@ -3076,7 +3047,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), web (2), [[SQL]] (1), [[Microsoft Azure]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** navigate to (4), drag and drop (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (1), openrowset (1)
@@ -3090,8 +3061,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Querying, labeling, and tracking data warehouse performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980)
+#### [Querying, labeling, and tracking data warehouse performance](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3101,7 +3071,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=17)** To monitor the queries, we can do that in the Monitoring tab.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=22)** Here we can either navigate to an SQL pool, for example, sales data warehouse, and we are going to see a list of running requests, queued requests, and failed requests, as well as the data warehouse unit limit.
+> **[0:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=22)** Here we can either navigate to an [[SQL]] pool, for example, sales data warehouse, and we are going to see a list of running requests, queued requests, and failed requests, as well as the data warehouse unit limit.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=36)** When we created it, we set it to 100.
 >
@@ -3149,7 +3119,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=207)** For our purpose here, we have a small query select from DailySales.
 >
-> **[3:31](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=211)** But imagine in dashboards and other reports, you might have very complicated queries spanning multiple pages, hundreds of lines of code maybe.
+> **[3:31](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=211)** But imagine in [[Dashboards]] and other reports, you might have very complicated queries spanning multiple pages, hundreds of lines of code maybe.
 >
 > **[3:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/querying-labeling-and-tracking-data-warehouse-performance?u=76281980&t=221)** To provide additional context for a query, we can use a label.
 >
@@ -3209,7 +3179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (6), application (2), power (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Dashboards]] (1)
 > **Env Vars:** sql (6), label (1)
 > **CLI Commands:** make (3), find (3)
 > **UI Navigation:** navigate to (4), click on (1)
@@ -3218,14 +3188,13 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transactions in dedicated SQL pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980)
+#### [Transactions in dedicated SQL pool](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=0)** - [Instructor] As you might expect in SQL databases, dedicated SQL pools also support transactions.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=0)** - [Instructor] As you might expect in [[SQL]] [[Databases]], dedicated SQL pools also support transactions.
 >
-> **[0:07](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=7)** However, since the data warehouse is maintained at scale to ensure high-performance, some features are limited when compared to an SQL server.
+> **[0:07](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=7)** However, since the data warehouse is maintained at scale to ensure high-performance, some features are limited when compared to an [[Microsoft SQL Server|SQL server]].
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=17)** Dedicated pools implement ACID transactions.
 >
@@ -3273,7 +3242,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=179)** This will result in distributions with more data to have bigger transaction size, and if the transaction size in one of these distribution exceeds the limit, then the entire transaction will fail.
 >
-> **[3:12](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=192)** Here, for example, distribution 44 has a much bigger chance of reaching the limit than the rest of the others.
+> **[3:12](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=192)** Here, for example, distribution 44 has a much bigger chance of reaching the limit than the [[Representational State Transfer (REST)|rest]] of the others.
 >
 > **[3:19](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/transactions-in-dedicated-sql-pool?u=76281980&t=199)** Because it has a lot of data, depending how the data is distributed, the transaction size can get very high for this one.
 >
@@ -3283,7 +3252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), node (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (6), read (4), committed (3), snapshot (3), isolation (3)
 > **Analogies:** for example (3), it's like (1)
 > **CLI Commands:** make (2), node (1)
@@ -3292,8 +3261,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimizing queries with materialized views
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980)
+#### [Optimizing queries with materialized views](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3301,7 +3269,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=4)** This way, you can encapsulate the logic inside the view for later use.
 >
-> **[0:09](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=9)** To improve query performance, dedicated SQL pools support materialized views.
+> **[0:09](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=9)** To improve query performance, dedicated [[SQL]] pools support materialized views.
 >
 > **[0:14](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=14)** A materialized view pre-computes, stores, and maintains its data in a dedicated SQL pools just like a table.
 >
@@ -3327,7 +3295,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=73)** You can upload this information from the exercise files that we had before.
 >
-> **[1:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=77)** We had the file called stores.json or a file stores.csv.
+> **[1:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=77)** We had the file called stores.[[JSON]] or a file stores.csv.
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=82)** I will include both these files in the exercise files.
 >
@@ -3359,7 +3327,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=142)** As is required when using the max and mean aggregations.
 >
-> **[2:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=147)** The rest is going to be the same.
+> **[2:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=147)** The [[Representational State Transfer (REST)|rest]] is going to be the same.
 >
 > **[2:30](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=150)** Now this view might take longer to create as it's getting the data as well.
 >
@@ -3395,13 +3363,13 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=244)** So that's the trade-off between having faster queries in a materialized view and paying more for storage.
 >
-> **[4:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=251)** And depending how much data you have in a big data scenario, these views can get huge.
+> **[4:11](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=251)** And depending how much data you have in a [[Big Data]] scenario, these views can get huge.
 >
 > **[4:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/optimizing-queries-with-materialized-views?u=76281980&t=257)** So the storage you are paying for increases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[SQL]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Big Data]] (1)
 > **Definitions:** is a  (3)
 > **File Paths:** stores.json (1), stores.csv (1)
 > **Env Vars:** sql (2)
@@ -3410,8 +3378,7 @@ created: 2026-05-02
 > **Code Identifiers:** for_append (1)
 > **Warnings:** be aware (1)
 
-#### Connecting using external clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980)
+#### [Connecting using external clients](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3421,11 +3388,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=17)** Let's go ahead and navigate the 'Manage' tab.
 >
-> **[0:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=21)** First, let's go ahead and connect to our dedicated SQL pool.
+> **[0:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=21)** First, let's go ahead and connect to our dedicated [[SQL]] pool.
 >
 > **[0:27](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=27)** If you click on a name and you get to Connection string, Here we have four dot net SQL authentication.
 >
-> **[0:35](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=35)** We also have JDBC ODBC, PHP, etc.
+> **[0:35](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=35)** We also have [[Java Database Connectivity (JDBC)|JDBC]] ODBC, [[PHP]], etc.
 >
 > **[0:40](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=40)** To demonstrate I'm going to connect using SQL Management Studio.
 >
@@ -3435,13 +3402,13 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=54)** And here from a Server name, we need to provide a Server name.
 >
-> **[0:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=58)** Authentication is going to be 'SQL Server Authentication'.
+> **[0:58](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=58)** Authentication is going to be '[[Microsoft SQL Server|SQL Server]] Authentication'.
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=62)** Username is going to be 'SQL Admin user' By default, this is the user.
 >
 > **[1:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=68)** If you changed it during the creation of your Workspace, then you need to enter that one and alternate to provide the password that you entered when you created the Workspace.
 >
-> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=81)** As you can see, now, I can see my Databases.
+> **[1:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=81)** As you can see, now, I can see my [[Databases]].
 >
 > **[1:26](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=86)** Since this is a dedicated SQL pool, I only get to see this one, then the tables and let's go ahead and query stores.
 >
@@ -3467,11 +3434,11 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=161)** Let's go ahead and create.
 >
-> **[2:46](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=166)** And just like that using SQL Management Studio, we queried data directly from our Azure Blob storage.
+> **[2:46](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/connecting-using-external-clients?u=76281980&t=166)** And just like that using SQL Management Studio, we queried data directly from our [[Microsoft Azure|Azure]] Blob storage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (5), management (3), [[Databases]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Databases]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[PHP]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (8), jdbc (1), odbc (1), php (1), url (1)
 > **UI Navigation:** open the (2), click on (1), navigate to (1)
 > **Analogies:** just like (3)
@@ -3479,16 +3446,15 @@ created: 2026-05-02
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor (1)
 
-#### Creating and updating statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980)
+#### [Creating and updating statistics](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=0)** - [Instructor] Once we have loaded data into our data warehouse, it's very important that we collect statistics, So in the query optimizer behind the dedicated pool can optimize our queries.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=0)** - [Instructor] Once we have loaded data into our data warehouse, it's very important that we collect [[Statistics]], So in the query optimizer behind the dedicated pool can optimize our queries.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=12)** The more it knows about our data, the better queries it can make.
 >
-> **[0:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=16)** Dedicated SQL pulls can be configured to automatically detect and create statistics.
+> **[0:16](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=16)** Dedicated [[SQL]] pulls can be configured to automatically detect and create statistics.
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=21)** Statistics that are created in our columns will heavily depend on how the query plan is generated.
 >
@@ -3500,7 +3466,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=47)** So it can make better queries.
 >
-> **[0:49](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=49)** This is also recommended by Azure.
+> **[0:49](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=49)** This is also recommended by [[Microsoft Azure|Azure]].
 >
 > **[0:52](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/creating-and-updating-statistics?u=76281980&t=52)** The only catch is that the automatic creation is a synchronous process.
 >
@@ -3564,7 +3530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (13), data (9), [[SQL]] (1), database (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (13), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** sql (1), alter (1), database (1), auto_create_statistics (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** exercise files (1)
@@ -3572,8 +3538,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing data distribution
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980)
+#### [Analyzing data distribution](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3641,7 +3606,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980&t=234)** You need to use a command create table as, as this has high performance with minimal logging.
 >
-> **[4:01](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980&t=241)** In the Exercise Files, you'll find the script for this as well as a view that is documented by Microsoft.
+> **[4:01](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980&t=241)** In the Exercise Files, you'll find the script for this as well as a view that is documented by [[Microsoft]].
 >
 > **[4:08](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/analyzing-data-distribution?u=76281980&t=248)** This is a view that gives us information about the distribution and the tables for our entire data warehouse.
 >
@@ -3667,7 +3632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Env Vars:** round_robin (4), rows (2), distribution_id (2), showspaceused (1), reserved_space (1)
 > **CLI Commands:** make (3), find (3)
 > **Exercise Files:** exercise files (2)
@@ -3681,12 +3646,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps with Synapse Analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980)
+#### [Next steps with Synapse Analytics](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=0)** - [Instructor] Thank you for going on the journey with me to learn about Azure synapse analytics.
+> **[0:00](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=0)** - [Instructor] Thank you for going on the journey with me to learn about [[Microsoft Azure|Azure]] synapse analytics.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=6)** Hopefully you now feel confident to start building your first data warehouse on the cloud.
 >
@@ -3694,17 +3658,17 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=21)** It will help you better comprehend the processing power of the data warehouse and how to properly distribute data between compute nodes as well as improve your skills on how to query data serverlessly and build a logical data warehouse.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=37)** Also, if you'd like more about synapse analytics and dedicated SQL pools, look for my new course "Synapse Analytics Scaling and Configuration," which will be released shortly, where you'll learn how to scale and configure your dedicated SQL pools.
+> **[0:37](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=37)** Also, if you'd like more about synapse analytics and dedicated [[SQL]] pools, look for my new course "Synapse Analytics Scaling and Configuration," which will be released shortly, where you'll learn how to scale and configure your dedicated SQL pools.
 >
 > **[0:56](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=56)** Also I'd love if you'd connect with me.
 >
-> **[0:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=59)** You can find me on LinkedIn.
+> **[0:59](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=59)** You can find me on [[LinkedIn]].
 >
 > **[1:02](https://www.linkedin.com/learning/microsoft-azure-synapse-for-developers-14246261/next-steps-with-synapse-analytics?u=76281980&t=62)** Thank you for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Analytics]] (3), [[SQL]] (2), [[Microsoft Azure|Azure]] (1), cloud (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft Azure|Azure]] (1), [[LinkedIn]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Prerequisites:** configure (1)

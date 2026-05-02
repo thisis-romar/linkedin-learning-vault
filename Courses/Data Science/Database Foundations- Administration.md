@@ -95,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Administer a database server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
+#### [Administer a database server](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,13 +103,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=8)** In a world filled with hostile threats, this is an extremely important job that cannot be overlooked.
 >
-> **[0:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=14)** You should consider that your database will eventually encounter hardware failures, or even sophisticated intrusion attempts by unauthorized hackers.
+> **[0:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=14)** You should consider that your database will eventually encounter [[Hardware]] failures, or even sophisticated intrusion attempts by unauthorized hackers.
 >
 > **[0:24](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=24)** The time and effort spent securing your systems will eventually pay off.
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=29)** Hi, my name is Adam Wilbert.
 >
-> **[0:31](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=31)** I'm a LinkedIn Learning instructor that's introduced people all over the world to relational databases.
+> **[0:31](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=31)** I'm a [[LinkedIn]] Learning instructor that's introduced people all over the world to [[Relational Databases]].
 >
 > **[0:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/administer-a-database-server?u=76281980&t=37)** In the fourth course in my database foundation series, we're going to explore the administration topics that'll help you secure and protect your data.
 >
@@ -122,12 +121,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Hardware]] (2), [[LinkedIn]] (1), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[LinkedIn]] (1), [[Relational Databases]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [adam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,18 +133,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980&t=8)** I assume that you feel comfortable with the structure of a relational database and know how tables, views, and queries work.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980&t=16)** You should be able to read and write SQL statements and know how to execute them on the server.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980&t=16)** You should be able to read and write [[SQL]] statements and know how to execute them on the server.
 >
-> **[0:21](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980&t=21)** This series is intended to be taken in order, so if you haven't done so yet, I recommend starting with the Intro to Databases course, then Data Structures, and Management, before continuing here in this course.
+> **[0:21](https://www.linkedin.com/learning/database-foundations-administration-8375189/what-you-should-know?u=76281980&t=21)** This series is intended to be taken in order, so if you haven't done so yet, I recommend starting with the Intro to [[Databases]] course, then [[Data Structures]], and Management, before continuing here in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[SQL]] (1), [[Databases]] (1), data (1), management (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[Databases]] (1), [[Data Structures]] (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to work with the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980)
+#### [How to work with the exercise files](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -156,13 +153,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=12)** And then inside of each of these chapter folders, are the individual files that we'll work with.
 >
-> **[0:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=16)** Now, throughout this database foundation series, we've been using a couple of database servers running inside of Docker containers, and we connected them with a program called Azure data studio.
+> **[0:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=16)** Now, throughout this database foundation series, we've been using a couple of database servers running inside of Docker containers, and we connected them with a program called [[Microsoft Azure|Azure]] data studio.
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=27)** We're going to continue with this setup for this course.
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=30)** So I assume that you probably have a working environment that looks something like what I have here on the screen right now.
 >
-> **[0:36](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=36)** In the connection sidebar over on the left side of the screen, I'm connected with both the RDBMS server for SQL server as well as our PostgreSQL database.
+> **[0:36](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=36)** In the connection sidebar over on the left side of the screen, I'm connected with both the RDBMS server for [[Microsoft SQL Server|SQL server]] as well as our [[PostgreSQL]] database.
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=45)** Now, if you're already at this point, then fantastic.
 >
@@ -170,11 +167,11 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=58)** This file will describe all the software that you need and the commands to create and start these two servers.
 >
-> **[1:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=64)** For a video walkthrough, check through the first course in the series database foundations, intro to databases.
+> **[1:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=64)** For a video walkthrough, check through the first course in the series database foundations, intro to [[Databases]].
 >
 > **[1:11](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=71)** The movies in chapter two, will set up a database playground which we'll show you the entire process step by step.
 >
-> **[1:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=78)** Now for this course, we're going to continue working with the data for a company called Two Trees that manufactures a line of olive oil products.
+> **[1:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=78)** Now for this course, we're going to continue working with the data for a company called Two Trees that manufactures a line of olive oil [[Microsoft Products|products]].
 >
 > **[1:26](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=86)** I want to make sure that everyone gets the same results as I do when we're working with the data.
 >
@@ -266,11 +263,11 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=318)** Now, if you run into any errors with these commands, especially with the PostgreSQL server, you might need to stop the Docker container and then restart it before deleting the database.
 >
-> **[5:28](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=328)** So now we have a fully fleshed out database that we can use to explore some relational database administration concepts.
+> **[5:28](https://www.linkedin.com/learning/database-foundations-administration-8375189/how-to-work-with-the-exercise-files?u=76281980&t=328)** So now we have a fully fleshed out database that we can use to explore some relational [[Database Administration]] concepts.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), data (7), [[PostgreSQL]] (7), [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (6)
+> **Frameworks & Libraries:** [[PostgreSQL]] (7), [[Databases]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft Azure|Azure]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (6), find (3), docker (2)
 > **Env Vars:** sql (6), rdbms (1), dbs4 (1), dbf (1)
 > **UI Navigation:** click on (4), scroll up (1), scroll down (1)
@@ -284,12 +281,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Backup plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
+#### [Backup plans](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=0)** - [Instructor] Computer hardware is prone to failures and accidents can happen at any point.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=0)** - [Instructor] Computer [[Hardware]] is prone to failures and accidents can happen at any point.
 >
 > **[0:05](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=5)** To assume otherwise is setting yourself up for a disaster.
 >
@@ -303,7 +299,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=37)** Now, while the idea of a backup of a database is straightforward, actually implementing a backup strategy involves making a number of decisions based on how you use the database and weighing some costs against potential benefits.
 >
-> **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=52)** The problem is that many databases change very quickly.
+> **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=52)** The problem is that many [[Databases]] change very quickly.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=56)** Sometimes many thousands of edits are made every second.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=134)** Now let's consider a different business.
 >
-> **[2:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=136)** This one uses a smaller database that stores the work product of individuals in a small office.
+> **[2:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=136)** This one uses a smaller database that stores the work product of individuals in a small [[Microsoft Office|office]].
 >
 > **[2:23](https://www.linkedin.com/learning/database-foundations-administration-8375189/backup-plans?u=76281980&t=143)** They have a much higher tolerance for data loss and could get by with a much more relaxed backup strategy.
 >
@@ -365,20 +361,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (7), [[Databases]] (4), business (3), [[Hardware]] (2)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Hardware]] (2), [[Microsoft Office|Office]] (2)
 > **Definitions:** means that (1), is an  (1), is a  (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** rdbms (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create a PostgreSQL backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980)
+#### [Create a PostgreSQL backup](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=0)** - [Instructor] The PostgreSQL platform uses a program called PG dump, for creating a database backup.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=0)** - [Instructor] The [[PostgreSQL]] platform uses a program called PG dump, for creating a database backup.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=7)** It's usually executed on the command line, but graphical user interfaces, such as Azure Data Studio, often provide a workflow that'll help you through some of the many configuration options that PG dump supports.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=7)** It's usually executed on the command line, but graphical user interfaces, such as [[Microsoft Azure|Azure]] Data Studio, often provide a workflow that'll help you through some of the many configuration options that PG dump supports.
 >
 > **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=22)** To get there, let's right click on the two trees database that's inside of the PostgreSQL server, and choose manage.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=46)** The backup type has a few different options.
 >
-> **[0:48](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=48)** The SQL file will create a plain text file that's easy to read, so I'm going to stick with that option.
+> **[0:48](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=48)** The [[SQL]] file will create a plain text file that's easy to read, so I'm going to stick with that option.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=56)** The alpha path defines where the file is going to be saved.
 >
@@ -400,13 +395,13 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=68)** The output path here is relative to the server, so it's also inside of the container.
 >
-> **[1:15](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=75)** In other words, this output path refers to the Linux file system that exists inside of the Docker containers self-contained bubble.
+> **[1:15](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=75)** In other words, this output path refers to the [[Linux]] file system that exists inside of the Docker containers self-contained bubble.
 >
 > **[1:23](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=83)** It's not the file system that your desktop or laptop computer is using.
 >
 > **[1:28](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=88)** Let's export our backup to the root of the container, and I'll just call it, first backup at SQL.
 >
-> **[1:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=97)** The rest of these options give you access to fine tune the specific configuration of your backup file.
+> **[1:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=97)** The [[Representational State Transfer (REST)|rest]] of these options give you access to fine tune the specific configuration of your backup file.
 >
 > **[1:44](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=104)** For instance, the data only option, will allow you to export just the data, but not the table structures and relationships.
 >
@@ -422,7 +417,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=149)** Now at the time of this recording, there is a compatibility issue that I need to mention for the most recent version of PostgreSQL.
 >
-> **[2:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=158)** If you get an error when generating the backup, it's most likely that Azure Data Studio hasn't yet been updated to support Postgres version 13, and the error message will indicate the incompatibility with the PG dump application.
+> **[2:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=158)** If you get an error when generating the backup, it's most likely that Azure Data Studio hasn't yet been updated to support [[PostgreSQL|Postgres]] version 13, and the error message will indicate the incompatibility with the PG dump application.
 >
 > **[2:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-postgresql-backup?u=76281980&t=174)** To verify what version of Postgres that you're using, go ahead and right click on the two trees database and choose new query.
 >
@@ -438,7 +433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PostgreSQL]] (5), database (5), data (4), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[PostgreSQL]] (5), [[PostgreSQL|Postgres]] (3), [[Microsoft Azure|Azure]] (2), [[SQL]] (2), [[Linux]] (1)
 > **CLI Commands:** docker (3)
 > **Versions:** version 13 (2), 12.4 (1)
 > **UI Navigation:** click on (3)
@@ -447,8 +442,7 @@ created: 2026-05-02
 > **Tools:** command line (2)
 > **Analogies:** such as (1), for instance (1)
 
-#### Use pg_dump in the Postgres container
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980)
+#### [Use pg_dump in the Postgres container](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,11 +452,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=13)** Because of this, it's important to get comfortable with the native command line tools.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=17)** Instead of using the Azure Data Studio graphical user interface for creating a PostgreSQL database backup, we can send our instructions directly to the server using a text interface.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=17)** Instead of using the [[Microsoft Azure|Azure]] Data Studio graphical user interface for creating a [[PostgreSQL]] database backup, we can send our instructions directly to the server using a text interface.
 >
-> **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=30)** If you're on Mac OS or Linux, you can use the terminal application.
+> **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=30)** If you're on Mac OS or [[Linux]], you can use the terminal application.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=34)** If you're on windows, you can use the PowerShell application.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=34)** If you're on [[Windows]], you can use the [[Powershell]] application.
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=38)** These are the same applications that we use to initially set up our Docker containers.
 >
@@ -508,7 +502,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=155)** Then some options, dash capital U will specify the user account that we want to use for logging into our PostgreSQL database server.
 >
-> **[2:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=163)** The user account is simply postgres.
+> **[2:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=163)** The user account is simply [[PostgreSQL|postgres]].
 >
 > **[2:48](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=168)** Then we need the name of the database that we want to make the backup of.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=192)** Then another forward slash and the name of the output file.
 >
-> **[3:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=196)** Let's call this two trees backup dot SQL I'll press enter and the PG dump application creates a database backup and exports it to the file that we just specified.
+> **[3:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=196)** Let's call this two trees backup dot [[SQL]] I'll press enter and the PG dump application creates a database backup and exports it to the file that we just specified.
 >
 > **[3:31](https://www.linkedin.com/learning/database-foundations-administration-8375189/use-pg-dump-in-the-postgres-container?u=76281980&t=211)** Now, PG dump has a lot of configuration options.
 >
@@ -582,7 +576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[PostgreSQL]] (5), [[Microsoft Azure|Azure]] (4), data (4), [[Linux]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (5), [[Microsoft Azure|Azure]] (4), [[Linux]] (3), [[SQL]] (3), [[Windows]] (2)
 > **CLI Commands:** docker (9), make (3), cp (2), cd (1)
 > **Tools:** terminal (4), command line (3), powershell (1), command prompt (1), bash (1)
 > **Env Vars:** dir (4), sql (3), dbf (1)
@@ -591,8 +585,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Definitions:** is called (1)
 
-#### Restore a Postgres database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980)
+#### [Restore a Postgres database](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -608,13 +601,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=27)** The entire business is now shut down and losing money, and we need to get the two trees database back up and running on a brand new server as fast as possible.
 >
-> **[0:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=37)** On the PostgreSQL platform, this means turning once again to the command line for moving files into place and restoring them to the server.
+> **[0:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=37)** On the [[PostgreSQL]] platform, this means turning once again to the command line for moving files into place and restoring them to the server.
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=45)** There's a bunch of commands that we need to execute, and I've written all of them out for you in the Restore_ PostgreSQL.txt file that you'll find in the course exercise files.
 >
 > **[0:56](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=56)** I encourage you to pull that file up and follow along as we move through the process, one step at a time.
 >
-> **[1:02](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=62)** Now you can use the terminal application that's built into your OS, for instance, terminal or PowerShell here on Windows, or you can use the terminal window inside of Azure Data Studio.
+> **[1:02](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=62)** Now you can use the terminal application that's built into your OS, for instance, terminal or [[Powershell]] here on [[Windows]], or you can use the terminal window inside of [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[1:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=72)** It doesn't really matter which one you choose.
 >
@@ -640,7 +633,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=135)** You can feel free to choose any password that you prefer.
 >
-> **[2:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=138)** Finally, I need a -d followed by the keywords Postgres:latest.
+> **[2:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=138)** Finally, I need a -d followed by the keywords [[PostgreSQL|Postgres]]:latest.
 >
 > **[2:25](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=145)** This will use the Postgres image to create the new container.
 >
@@ -660,7 +653,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=193)** The default user account is just Postgres, I'll press Enter and that moves me inside of the RDBMS and my command prompt changes once again.
 >
-> **[3:23](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=203)** Now I can type in SQL commands.
+> **[3:23](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=203)** Now I can type in [[SQL]] commands.
 >
 > **[3:25](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=205)** We want to create a new database.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=312)** You'll have to customize this path to whatever matches your path on your system.
 >
-> **[5:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=317)** If you're on macOS or Linux, you can use Tilda/Desktop/two_trees_backup.sql to get to the same relative location on your desktop.
+> **[5:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=317)** If you're on macOS or [[Linux]], you can use Tilda/Desktop/two_trees_backup.sql to get to the same relative location on your desktop.
 >
 > **[5:28](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=328)** So this is the file path to the current file of where it is right now.
 >
@@ -780,7 +773,7 @@ created: 2026-05-02
 >
 > **[8:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=534)** I'll press the OK button down here at the bottom and then press the Connect button to connect into that new server and there it is here at the top.
 >
-> **[9:01](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=541)** If I expand the databases folder, you'll see the Two_trees_db that was restored, I can expand that and find all the tables and I can right click on one of the tables and choose, Select Top 1000 to verify that it actually contains our data.
+> **[9:01](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=541)** If I expand the [[Databases]] folder, you'll see the Two_trees_db that was restored, I can expand that and find all the tables and I can right click on one of the tables and choose, Select Top 1000 to verify that it actually contains our data.
 >
 > **[9:15](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-postgres-database?u=76281980&t=555)** So there is our new Two Trees Phoenix database restored from the backup that we took in the previous movie.
 >
@@ -800,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (18), [[PostgreSQL]] (7), [[SQL]] (6), [[Windows]] (5), next (5)
+> **Frameworks & Libraries:** [[PostgreSQL]] (7), [[SQL]] (6), [[Windows]] (5), [[PostgreSQL|Postgres]] (5), [[Powershell]] (3)
 > **CLI Commands:** docker (8), make (4), find (2), psql (2), mkdir (1)
 > **Code Identifiers:** two_trees_phoenix (5), two_trees_backup (4), two_trees_db (1), cd_backups (1), macos (1)
 > **Tools:** terminal (4), powershell (3), bash (3), command prompt (2), command line (1)
@@ -809,14 +802,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2)
 > **Analogies:** for instance (1), just like (1)
 
-#### Create a full SQL Server backup
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980)
+#### [Create a full SQL Server backup](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=0)** - [Instructor] Microsoft's SQL server takes a slightly different approach to making database backups and restoring them.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=0)** - [Instructor] [[Microsoft]]'s [[Microsoft SQL Server|SQL server]] takes a slightly different approach to making database backups and restoring them.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=7)** Unlike PostgreSQL, which relies on external command line tools, SQL server uses SQL commands that you can execute right inside of the RDBMS, just like any other query that you might want to run.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=7)** Unlike [[PostgreSQL]], which relies on external command line tools, SQL server uses [[SQL]] commands that you can execute right inside of the RDBMS, just like any other query that you might want to run.
 >
 > **[0:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=20)** However, the main concepts are exactly the same.
 >
@@ -826,7 +818,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=40)** This allows you to move it to a protected offsite location for safekeeping, and use it to recover from, should you ever need it.
 >
-> **[0:49](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=49)** Let's take a look at this process here in Azure Data Studio.
+> **[0:49](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=49)** Let's take a look at this process here in [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=52)** First, I'm going to right-click on the two trees database that's in the SQL server instance and choose Manage.
 >
@@ -856,9 +848,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=114)** This is not the local file system of our personal computer.
 >
-> **[1:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=118)** So this folder path, VAR/OPT/MSSQL/data exists on the Linux file system that's inside of our docker container.
+> **[1:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=118)** So this folder path, VAR/OPT/MSSQL/data exists on the [[Linux]] file system that's inside of our docker container.
 >
-> **[2:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=128)** The rest of the options below will allow us to fine tune the backup.
+> **[2:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=128)** The [[Representational State Transfer (REST)|rest]] of the options below will allow us to fine tune the backup.
 >
 > **[2:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=132)** You can apply encryption if you have the appropriate keys available, for example, or include the backup in something that SQL server calls a backup media set.
 >
@@ -908,7 +900,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=273)** That'll go through the process of creating our backup and you can see that it finished with a backup being created on the file system.
 >
-> **[4:40](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=280)** Now we can use the terminal window to fetch that file and pull it out of the container and store it on our local file system.
+> **[4:40](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=280)** Now we can use the terminal window to [[Fetch]] that file and pull it out of the container and store it on our local file system.
 >
 > **[4:47](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=287)** If you don't have the terminal tab opened up here, you can go up to the view menu and choose terminal here to open it.
 >
@@ -922,7 +914,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=331)** Followed by a space, then we list out the local file system path where we want to copy the file to.
 >
-> **[5:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=337)** On my Windows computer, that's going to be C:\users, backslash my username \desktop and backslash and the file name: two_trees_sql_server.bak.
+> **[5:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=337)** On my [[Windows]] computer, that's going to be C:\users, backslash my username \desktop and backslash and the file name: two_trees_sql_server.bak.
 >
 > **[5:55](https://www.linkedin.com/learning/database-foundations-administration-8375189/create-a-full-sql-server-backup?u=76281980&t=355)** As always, you'll want to modify this file path to match a location on your computer.
 >
@@ -942,7 +934,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (8), data (6), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[PostgreSQL]] (3), [[Microsoft Azure|Azure]] (3), [[SQL]] (2), [[Microsoft]] (1)
 > **Env Vars:** sql (10), rdbms (5), var (1), opt (1), mssql (1)
 > **CLI Commands:** docker (4), cp (3), make (2)
 > **Analogies:** just like (6), for example (1), picture (1), for instance (1)
@@ -951,16 +943,15 @@ created: 2026-05-02
 > **UI Navigation:** right-click (2), go to (1)
 > **Definitions:** is a  (1)
 
-#### Restore a SQL Server database
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980)
+#### [Restore a SQL Server database](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=0)** - Restoring a database on SQL server requires a similar procedure as making the initial backup.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=0)** - Restoring a database on [[Microsoft SQL Server|SQL server]] requires a similar procedure as making the initial backup.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=7)** You use an SQL command to read the backup file and recreate the database.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=7)** You use an [[SQL]] command to read the backup file and recreate the database.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=13)** One of the major differences between SQL server and PostgreSQL in this area is that PostgreSQL needs an empty database to restore into whereas SQL server creates the database as part of the restoration process.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=13)** One of the major differences between SQL server and [[PostgreSQL]] in this area is that PostgreSQL needs an empty database to restore into whereas SQL server creates the database as part of the restoration process.
 >
 > **[0:28](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=28)** Now, instead of creating yet another Docker container, I'm just going to demonstrate with the SQL server instance that we already have.
 >
@@ -1000,7 +991,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=167)** Press the Run button and your database is recreated exactly as it was when the backup was made.
 >
-> **[2:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=174)** If I go back over to the SQL server instance and refresh it, you'll see that the Databases folder now contains our Two Trees database back where it was originally.
+> **[2:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=174)** If I go back over to the SQL server instance and refresh it, you'll see that the [[Databases]] folder now contains our Two Trees database back where it was originally.
 >
 > **[3:05](https://www.linkedin.com/learning/database-foundations-administration-8375189/restore-a-sql-server-database?u=76281980&t=185)** And that's what a basic database restoration looks like on SQL server.
 >
@@ -1012,7 +1003,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (2), [[Databases]] (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[PostgreSQL]] (2), [[Databases]] (2), [[SQL]] (1)
 > **Env Vars:** sql (8), rdbms (1)
 > **CLI Commands:** docker (2), make (2)
 > **UI Navigation:** click on (2)
@@ -1020,8 +1011,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - restoring (1)
 
-#### Incremental and differential backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980)
+#### [Incremental and differential backups](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1075,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980&t=201)** First, restore the full database backup, then apply each incremental backup in the proper sequence.
 >
-> **[3:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980&t=209)** If you make one full backup on January 1st and then and only make incremental backups every day for the rest of the year, you would potentially have hundreds of incremental backup files that need to be kept track of.
+> **[3:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980&t=209)** If you make one full backup on January 1st and then and only make incremental backups every day for the [[Representational State Transfer (REST)|rest]] of the year, you would potentially have hundreds of incremental backup files that need to be kept track of.
 >
 > **[3:41](https://www.linkedin.com/learning/database-foundations-administration-8375189/incremental-and-differential-backups?u=76281980&t=221)** Restoring from hundreds of incremental backups will increase the length of time required to recover the database, and if any one of the incremental backup files goes missing, or gets corrupted, then the entire restoration process will fail and you'll be left with nothing.
 >
@@ -1099,7 +1089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (5), next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (11), find (1)
 > **Env Vars:** rdbms (2)
 > **Definitions:** is a  (1)
@@ -1107,8 +1097,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Point-in-time restores
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980)
+#### [Point-in-time restores](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,7 +1107,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=16)** Well, the more advanced RDBMS platforms have a solution for this situation as well.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=22)** The first thing we need to understand is that our relational databases are made up of two separate kinds of files on our discs.
+> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=22)** The first thing we need to understand is that our [[Relational Databases]] are made up of two separate kinds of files on our discs.
 >
 > **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=30)** The data file stores the current state of your database.
 >
@@ -1144,9 +1133,9 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=89)** But if all you have is the cake, then it's difficult to work backwards and figure out what the recipe was that made it.
 >
-> **[1:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=97)** Sequel server has a function that will allow us to take a peek at the transaction log for our databases.
+> **[1:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=97)** Sequel server has a function that will allow us to take a peek at the transaction log for our [[Databases]].
 >
-> **[1:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=103)** Let's right click on the two trees database in the SQL Server instance and choose New Query and then we can issue the following command.
+> **[1:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=103)** Let's right click on the two trees database in the [[Microsoft SQL Server|SQL Server]] instance and choose New Query and then we can issue the following command.
 >
 > **[1:51](https://www.linkedin.com/learning/database-foundations-administration-8375189/point-in-time-restores?u=76281980&t=111)** SELECT*FROM fn_dblog, and then inside of parentheses NULL, NULL.
 >
@@ -1200,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (5), [[Databases]] (3), next (2), [[Relational Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Relational Databases]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** rdbms (2), null (2), sql (1), select (1), lsn (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is called (1), is a  (1), stands for (1)
@@ -1214,8 +1203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Principals and securables
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
+#### [Principals and securables](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,7 +1211,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=14)** The security of the server's contents is maintained through access permissions and user accounts.
 >
-> **[0:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=20)** It should be no surprise that databases often store sensitive information.
+> **[0:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=20)** It should be no surprise that [[Databases]] often store sensitive information.
 >
 > **[0:25](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=25)** They might be trade secrets or personal information about users or anything else that should not be made available to the general public.
 >
@@ -1233,11 +1221,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=45)** Just like in the real world, database users will have specific areas of responsibility.
 >
-> **[0:50](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=50)** A human resources manager probably shouldn't be able to edit product inventory quantities, and a customer service agent probably shouldn't be able to adjust employee salaries.
+> **[0:50](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=50)** A [[Human Resources (HR)|human resources]] manager probably shouldn't be able to edit product inventory quantities, and a customer service agent probably shouldn't be able to adjust employee salaries.
 >
 > **[1:01](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=61)** By compartmentalizing the contents of the database and assigning permissions to different users, you can secure the information that it contains and ensure that only the appropriate people have access.
 >
-> **[1:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=74)** Microsoft uses two terms in the documentation for SQL server that I think are really useful, principals and securables.
+> **[1:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=74)** [[Microsoft]] uses two terms in the documentation for [[Microsoft SQL Server|SQL server]] that I think are really useful, principals and securables.
 >
 > **[1:23](https://www.linkedin.com/learning/database-foundations-administration-8375189/principals-and-securables?u=76281980&t=83)** Though other RDBMS platforms don't use these terms specifically, the general concepts still apply, and I think they're helpful in understanding how a database is protected from unauthorized access.
 >
@@ -1275,7 +1263,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Security]] (1), [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1), product (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Human Resources (HR)|Human resources]] (1), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Analogies:** such as (2), just like (1)
 > **Env Vars:** sql (1), rdbms (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1284,14 +1272,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server authentication and login accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980)
+#### [Server authentication and login accounts](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=0)** - [Instructor] The first step in securing the contents of a database is to be able to identify different users so that you know exactly who they are.
 >
-> **[0:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=10)** This will allow the relational database management system to assign the proper permissions.
+> **[0:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=10)** This will allow the relational [[Database Management]] system to assign the proper permissions.
 >
 > **[0:15](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=15)** The simplest way to verify that a principal user is who they say they are is with a username and password.
 >
@@ -1301,9 +1288,9 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=38)** When we created our database servers in Docker, we created a default administrator login account with this method.
 >
-> **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=45)** In SQL server, that user has the name sa, which stands for system administrator.
+> **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=45)** In [[Microsoft SQL Server|SQL server]], that user has the name sa, which stands for system administrator.
 >
-> **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=52)** PostgreSQL uses the default name postgres for its administrator account.
+> **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=52)** [[PostgreSQL]] uses the default name [[PostgreSQL|postgres]] for its administrator account.
 >
 > **[0:57](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=57)** These are the two accounts that we've been using all along and since they have full administrator privileges, they can perform any task on the server.
 >
@@ -1321,13 +1308,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=111)** Because of this, the more advanced RDBMS platforms also support alternative authentication protocols.
 >
-> **[1:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=118)** Large organizations may use Microsoft's Active Directory domain services to identify users or a protocol named Kerberos.
+> **[1:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=118)** Large organizations may use [[Microsoft]]'s [[Active Directory]] domain services to identify users or a protocol named Kerberos.
 >
 > **[2:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=127)** These systems allow organizations to efficiently manage very large workforces and use cryptographic keys and certificates to ensure the correct access permissions are applied to each individual user as they access resources across the entire organization.
 >
 > **[2:24](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=144)** And there's a benefit to end users, as well.
 >
-> **[2:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=147)** Domain authentication protocols create single sign-on experiences that provide access to their computer operating system, their email account, and their databases all at once.
+> **[2:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=147)** Domain authentication protocols create single sign-on experiences that provide access to their computer operating system, their email account, and their [[Databases]] all at once.
 >
 > **[2:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-authentication-and-login-accounts?u=76281980&t=158)** Further, the incorporation of biometric authentication, such as facial recognition or fingerprint scanners, or physical security badges can be used to create an environment that is much more difficult to hack than a simple password.
 >
@@ -1339,7 +1326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), management (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[Database Management]] (1), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft]] (1)
 > **Env Vars:** rdbms (2), sql (1)
 > **CLI Commands:** docker (1)
 > **Definitions:** stands for (1)
@@ -1347,8 +1334,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Granting and revoking permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980)
+#### [Granting and revoking permissions](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1362,7 +1348,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980&t=29)** The same granular level of control applies with database permissions and securables.
 >
-> **[0:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980&t=35)** Just like with creating a new table object within the database, you can add users and define permissions using SQL commands and keywords.
+> **[0:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980&t=35)** Just like with creating a new table object within the database, you can add users and define permissions using [[SQL]] commands and keywords.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/granting-and-revoking-permissions?u=76281980&t=43)** The grant command is used to give a specific permission to a specific principal user or group account.
 >
@@ -1422,7 +1408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2)
 > **Env Vars:** table (6), grant (5), select (4), insert (3), rdbms (2)
 > **SQL:** select (4), update (1)
 > **CLI Commands:** make (3)
@@ -1432,24 +1418,23 @@ created: 2026-05-02
  (1)
 > **Speakers:** - [instructor] (1)
 
-#### PostgreSQL role permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980)
+#### [PostgreSQL role permissions](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=0)** - [Instructor] We've talked a lot about some of the concepts around managing database security through principal user accounts.
 >
-> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=7)** Let's put that into practice in the PostgreSQL database.
+> **[0:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=7)** Let's put that into practice in the [[PostgreSQL]] database.
 >
 > **[0:11](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=11)** The first thing that we need to know is that PostgreSQL doesn't make a distinction between individual users and user groups.
 >
 > **[0:19](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=19)** Every principal account is considered a role, and every role can have several members.
 >
-> **[0:26](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=26)** If you take a look at the connection sidebar in the PostgreSQL server, below the Databases folders, you'll find a folder for the roles.
+> **[0:26](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=26)** If you take a look at the connection sidebar in the PostgreSQL server, below the [[Databases]] folders, you'll find a folder for the roles.
 >
 > **[0:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=35)** Inside are a number of different roles that come pre-configured on the server.
 >
-> **[0:39](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=39)** One of them at the very bottom is the postgres role.
+> **[0:39](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=39)** One of them at the very bottom is the [[PostgreSQL|postgres]] role.
 >
 > **[0:43](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=43)** This is the administrator account that we've been using since the very beginning to log into the server and execute commands.
 >
@@ -1463,7 +1448,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=71)** Inside the parentheses, it says postgres.
 >
-> **[1:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=73)** So any SQL commands that we run in this tab will execute with the permissions given to the postgres account.
+> **[1:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=73)** So any [[SQL]] commands that we run in this tab will execute with the permissions given to the postgres account.
 >
 > **[1:21](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=81)** So now let's create a new user.
 >
@@ -1591,7 +1576,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=430)** If I go back over here on the left and expand the Roles folder, underneath my PostgreSQL database... Actually, if I right click and choose Refresh, and you'll see that she's been removed.
 >
-> **[7:19](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=439)** Now that Samantha no longer has a login account, we can remove her connection from the Azure Data Studio sidebar.
+> **[7:19](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=439)** Now that Samantha no longer has a login account, we can remove her connection from the [[Microsoft Azure|Azure]] Data Studio sidebar.
 >
 > **[7:25](https://www.linkedin.com/learning/database-foundations-administration-8375189/postgresql-role-permissions?u=76281980&t=445)** Just right click on Samantha's login and choose Delete Connection.
 >
@@ -1601,7 +1586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[PostgreSQL]] (8), data (5), [[PostgreSQL|Postgres]] (4), [[Databases]] (3)
+> **Frameworks & Libraries:** [[PostgreSQL]] (8), [[PostgreSQL|Postgres]] (4), [[Databases]] (3), [[SQL]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** select (4), schema (4), role (2), revoke (2), drop (2)
 > **SQL:** select (4), update (1)
 > **CLI Commands:** make (2), find (1)
@@ -1611,12 +1596,11 @@ created: 2026-05-02
  (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQL Server user permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980)
+#### [SQL Server user permissions](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=0)** - [Instructor] Creating user accounts and assigning permissions in SQL server is similar to PostgreSQL, but there's a few minor differences.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=0)** - [Instructor] Creating user accounts and assigning permissions in [[Microsoft SQL Server|SQL server]] is similar to [[PostgreSQL]], but there's a few minor differences.
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=9)** The first difference is that SQL server treats individual users and groups separately.
 >
@@ -1640,7 +1624,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=69)** The other thing that's different here in SQL server is that server logins are treated separately from database users.
 >
-> **[1:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=77)** It's entirely possible to be able to log into a server, but not have access to any databases.
+> **[1:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=77)** It's entirely possible to be able to log into a server, but not have access to any [[Databases]].
 >
 > **[1:24](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=84)** This allows people to have permissions to perform server maintenance without being able to actually access any data that may be stored on the server.
 >
@@ -1670,11 +1654,11 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=171)** Let's come up to the top of the server connection sidebar and click the New Connection button.
 >
-> **[2:56](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=176)** We're going to connect to a Microsoft SQL Server instance.
+> **[2:56](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=176)** We're going to connect to a [[Microsoft SQL Server]] instance.
 >
 > **[2:59](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=179)** It's going to be the localhost server.
 >
-> **[3:03](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=183)** We'll use the SQL Login authentication, the user name Bradley, the password Brad with a capital B, one, two, three, four, and I'll choose to remember the password.
+> **[3:03](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=183)** We'll use the [[SQL]] Login authentication, the user name Bradley, the password Brad with a capital B, one, two, three, four, and I'll choose to remember the password.
 >
 > **[3:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/sql-server-user-permissions?u=76281980&t=196)** Let's put this in the SQL Server group just so that they stay connected over here in the left-hand sidebar and we'll name this Bradley's Login.
 >
@@ -1820,7 +1804,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), [[Microsoft SQL Server|Sql server]] (14), [[Security]] (7), [[Databases]] (6), [[PostgreSQL]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (14), [[Databases]] (6), [[PostgreSQL]] (3), [[Microsoft SQL Server]] (1), [[SQL]] (1)
 > **Env Vars:** sql (16), login (3), create (2), user (2), select (2)
 > **UI Navigation:** click on (8), in the sidebar (1), right-click (1), select the (1)
 > **CLI Commands:** find (5), make (1)
@@ -1833,8 +1817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### View permissions on PostgreSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
+#### [View permissions on PostgreSQL](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1850,7 +1833,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=41)** But as you'll see, the overarching concepts are exactly the same.
 >
-> **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=45)** Let's start by taking a look at the PostgreSQL server.
+> **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=45)** Let's start by taking a look at the [[PostgreSQL]] server.
 >
 > **[0:48](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=48)** I'll expand the database's folder here and right-click on the two trees database to start up a new query.
 >
@@ -1876,9 +1859,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=123)** Now, while this shows the names, it's not a reliable way of getting any details about the role.
 >
-> **[2:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=128)** Different GUI applications may provide pop-up windows when you click on them.
+> **[2:08](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=128)** Different GUI applications may provide pop-up [[Windows]] when you click on them.
 >
-> **[2:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=133)** But here in Azure Data Studio, we don't get any help.
+> **[2:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=133)** But here in [[Microsoft Azure|Azure]] Data Studio, we don't get any help.
 >
 > **[2:16](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=136)** If you right-click on it, you'll see you don't get any options here either.
 >
@@ -1898,9 +1881,9 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=186)** This means that these roles don't have login passwords; they're predefined group roles that you can assign other users to, but you can't actually login to the server directly with these user roles.
 >
-> **[3:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=198)** So right now my server just has two login accounts: The Postgres administrator, or what's known as a super user by looking at this value here where it says True in the usesuper column, and then we also have Amir's account that we just created.
+> **[3:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=198)** So right now my server just has two login accounts: The [[PostgreSQL|Postgres]] administrator, or what's known as a super user by looking at this value here where it says True in the usesuper column, and then we also have Amir's account that we just created.
 >
-> **[3:33](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=213)** So this is a good start for reviewing who has access to the server using a SQL select command.
+> **[3:33](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=213)** So this is a good start for reviewing who has access to the server using a [[SQL]] select command.
 >
 > **[3:39](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=219)** Now let's dive into Amir's account and see what privileges he's been granted.
 >
@@ -1934,7 +1917,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=306)** This time, we just get a single row for each table.
 >
-> **[5:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=309)** So here we have the inventory.categories table, or the inventory.products table.
+> **[5:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=309)** So here we have the inventory.categories table, or the inventory.[[Microsoft Products|products]] table.
 >
 > **[5:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-postgresql?u=76281980&t=314)** Each of the privileges is then listed out as a comma-separated list.
 >
@@ -1946,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[PostgreSQL]] (4), [[PostgreSQL|Postgres]] (2), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[PostgreSQL]] (4), [[PostgreSQL|Postgres]] (2), [[Windows]] (1), [[Microsoft Azure|Azure]] (1), [[SQL]] (1)
 > **Definitions:** is a  (3), is an  (1), in other words (1), means that (1), known as (1)
 > **UI Navigation:** right-click (3), click on (1), in the sidebar (1)
 > **Code Identifiers:** role_table_grants (2), pg_user (1), information_schema (1)
@@ -1955,12 +1938,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for instance (1)
 
-#### View permissions on SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-sql-server?u=76281980)
+#### [View permissions on SQL Server](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-sql-server?u=76281980&t=0)** - [Instructor] Like in PostgreSQL, finding information about your user accounts in SQL Server requires a couple of queries to the system catalog views.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-sql-server?u=76281980&t=0)** - [Instructor] Like in [[PostgreSQL]], finding information about your user accounts in [[Microsoft SQL Server|SQL Server]] requires a couple of queries to the system catalog views.
 >
 > **[0:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/view-permissions-on-sql-server?u=76281980&t=10)** I'm going to go into the Two Trees database, up here in the SQL Server instance, and right-click on it and choose New Query.
 >
@@ -2044,7 +2026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (6), data (3), [[PostgreSQL]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[PostgreSQL]] (2)
 > **Env Vars:** sql (6), login (2), create (1), user (1), without (1)
 > **CLI Commands:** find (1), make (1)
 > **File Paths:** permissions.sqlserver.txt (1)
@@ -2052,8 +2034,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column-level permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980)
+#### [Column-level permissions](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2069,7 +2050,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=27)** I've got the Column_Permissions text file open in a new query.
 >
-> **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=30)** It's attached to my SQL server database.
+> **[0:30](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=30)** It's attached to my [[Microsoft SQL Server|SQL server]] database.
 >
 > **[0:34](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=34)** Let's first create a new user with the name Yusef.
 >
@@ -2081,7 +2062,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=58)** Let me go ahead and run my number 7.
 >
-> **[1:02](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=62)** Now the PostgreSQL RDBMS supports column level permissions as well.
+> **[1:02](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=62)** Now the [[PostgreSQL]] RDBMS supports column level permissions as well.
 >
 > **[1:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/column-level-permissions?u=76281980&t=67)** The command on that platform places the column name first.
 >
@@ -2147,15 +2128,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (2)
 > **Env Vars:** select (8), sql (4), rdbms (2), current_user (2), grant (1)
 > **SQL:** select (8), update (1)
 > **Analogies:** such as (2)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Group permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980)
+#### [Group permissions](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2189,15 +2169,15 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=108)** You can then attach their user account as a member of a different department's group as needed.
 >
-> **[1:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=114)** In SQL Server you create a single user account, say for an employee named Tabitha, then you create a group role account for the department, such as the human resources department.
+> **[1:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=114)** In [[Microsoft SQL Server|SQL Server]] you create a single user account, say for an employee named Tabitha, then you create a group role account for the department, such as the [[Human Resources (HR)|human resources]] department.
 >
 > **[2:06](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=126)** To assign Tabitha to the human_resources role, you would alter the role and add her as a member.
 >
 > **[2:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=133)** In this way, Tabitha would automatically obtain all of the permissions given to the human_resources role.
 >
-> **[2:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=140)** The PostgreSQL platform throws a slight curve ball into the process, since it treats individual users and group accounts as exactly the same thing.
+> **[2:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=140)** The [[PostgreSQL]] platform throws a slight curve ball into the process, since it treats individual users and group accounts as exactly the same thing.
 >
-> **[2:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=149)** Everything is a role in Postgres regardless of whether it's intended to be used by a single person or by a group of people.
+> **[2:29](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=149)** Everything is a role in [[PostgreSQL|Postgres]] regardless of whether it's intended to be used by a single person or by a group of people.
 >
 > **[2:37](https://www.linkedin.com/learning/database-foundations-administration-8375189/group-permissions?u=76281980&t=157)** So you would create a role for Tabitha and a role for the human resources department.
 >
@@ -2213,7 +2193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), data (3), database (2), [[Human Resources (HR)|Human resources]] (2), next (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (2), [[Microsoft SQL Server|Sql server]] (1), [[PostgreSQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Code Identifiers:** human_resources (3)
 > **Env Vars:** rdbms (2), sql (1)
 > **Analogies:** just like (1), for example (1), such as (1)
@@ -2225,8 +2205,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing server uptime
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
+#### [Managing server uptime](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2234,7 +2213,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980&t=9)** Database administrators must plan ahead to ensure that their database is available as often as possible.
 >
-> **[0:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980&t=17)** Servers become unavailable for a wide variety of reasons, a hardware or a software failure, natural disaster, or a malicious attack can take your system down, making it inaccessible by your users or customers.
+> **[0:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980&t=17)** Servers become unavailable for a wide variety of reasons, a [[Hardware]] or a software failure, natural disaster, or a malicious attack can take your system down, making it inaccessible by your users or customers.
 >
 > **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/managing-server-uptime?u=76281980&t=32)** The cost of a server outage can range from a mere inconvenience up to significant financial losses from missed business opportunities.
 >
@@ -2258,20 +2237,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (1), [[Hardware]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Versions:** 99.9 (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standby servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980)
+#### [Standby servers](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980&t=0)** - [Narrator] The most common technique for ensuring databases are highly available is to create a duplicate server called a standby.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980&t=0)** - [Narrator] The most common technique for ensuring [[Databases]] are highly available is to create a duplicate server called a standby.
 >
-> **[0:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980&t=9)** A standby server duplicates the hardware of your primary database server.
+> **[0:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980&t=9)** A standby server duplicates the [[Hardware]] of your primary database server.
 >
 > **[0:14](https://www.linkedin.com/learning/database-foundations-administration-8375189/standby-servers?u=76281980&t=14)** If the primary server fails and goes down, the standby server gets promoted to the role of the primary server.
 >
@@ -2351,15 +2329,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), [[Databases]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Hardware]] (1)
 > **Env Vars:** rdbms (3), eta (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** think of it as (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Synchronize servers with log shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980)
+#### [Synchronize servers with log shipping](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2393,7 +2370,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980&t=96)** You can configure the database servers to schedule automatic backup, ship, and restore procedures.
 >
-> **[1:42](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980&t=102)** Once everything is configured the automation systems manage the transfers and keeps the two databases synchronized.
+> **[1:42](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980&t=102)** Once everything is configured the automation systems manage the transfers and keeps the two [[Databases]] synchronized.
 >
 > **[1:50](https://www.linkedin.com/learning/database-foundations-administration-8375189/synchronize-servers-with-log-shipping?u=76281980&t=110)** One of the more interesting uses of log shipping is that you can intentionally build in a delay into the process.
 >
@@ -2413,7 +2390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), next (2), [[Automation]] (1), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** rdbms (1)
 > **Cross-References:** we discussed (1)
@@ -2422,8 +2399,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Server failover clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980)
+#### [Server failover clusters](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2471,9 +2447,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=144)** Configuring the communication between each node, setting up the heartbeat monitoring and establishing the conditions where responsibility is passed between nodes is all handled at the OS level.
 >
-> **[2:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=155)** Ubuntu Linux, Red Hat Enterprise Linux, SUSE Linux Enterprise Server and Windows Server all support the creation of failover clusters.
+> **[2:35](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=155)** [[Ubuntu]] [[Linux]], Red Hat Enterprise Linux, SUSE Linux Enterprise Server and [[Windows Server]] all support the creation of failover clusters.
 >
-> **[2:46](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=166)** It's also possible to create a failover cluster using virtualized hardware with tools such as VMware, vSphere, vMotion technologies.
+> **[2:46](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=166)** It's also possible to create a failover cluster using virtualized [[Hardware]] with tools such as VMware, vSphere, vMotion technologies.
 >
 > **[2:55](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-failover-clusters?u=76281980&t=175)** A failover cluster made up of two or three nodes can provide a significant level of server uptime.
 >
@@ -2481,7 +2457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (10), [[Linux]] (3), database (2), data (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Ubuntu]] (1), [[Windows Server]] (1), [[Hardware]] (1)
 > **CLI Commands:** node (10)
 > **Code Identifiers:** vsphere (1), vmotion (1)
 > **Env Vars:** rdbms (1), suse (1)
@@ -2494,8 +2470,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Server maintenance tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
+#### [Server maintenance tasks](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2515,11 +2490,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=45)** It's like trying to change the oil filter on an electric car; it might look like your old combustion engine vehicle on the outside, but they're fundamentally different under the hood.
 >
-> **[0:55](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=55)** With that said, let's jump into our two trees databases to take a look at a couple of maintenance commands that you can use on each platform.
+> **[0:55](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=55)** With that said, let's jump into our two trees [[Databases]] to take a look at a couple of maintenance commands that you can use on each platform.
 >
-> **[1:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=64)** Let's start with a new query window on the PostgreSQL version of the two trees database.
+> **[1:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=64)** Let's start with a new query window on the [[PostgreSQL]] version of the two trees database.
 >
-> **[1:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=69)** In Postgres, when you update or delete rows of data from a table, the old information isn't immediately removed from your system's discs.
+> **[1:09](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=69)** In [[PostgreSQL|Postgres]], when you update or delete rows of data from a table, the old information isn't immediately removed from your system's discs.
 >
 > **[1:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=78)** The old versions are still present.
 >
@@ -2531,7 +2506,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=104)** Now there's actually two different modes that you can run the vacuum command in.
 >
-> **[1:49](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=109)** The default mode is literally just the word vacuum.
+> **[1:49](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=109)** The default mode is literally just the [[Microsoft Word|word]] vacuum.
 >
 > **[1:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=112)** It takes a light-handed approach to the cleanup process.
 >
@@ -2569,7 +2544,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=226)** On an active database, you'll see much more interesting details down here.
 >
-> **[3:51](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=231)** Now in SQL server, things are a little bit different.
+> **[3:51](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=231)** Now in [[Microsoft SQL Server|SQL server]], things are a little bit different.
 >
 > **[3:54](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=234)** Manually shrinking tables on that platform can actually be detrimental to system performance.
 >
@@ -2595,13 +2570,13 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=318)** If any errors are reported, this will give you a good starting point for tracking down the issue and repairing the database.
 >
-> **[5:26](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=326)** So those are a couple of routine maintenance tasks that you can run on your relational databases.
+> **[5:26](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=326)** So those are a couple of routine maintenance tasks that you can run on your [[Relational Databases]].
 >
 > **[5:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/server-maintenance-tasks?u=76281980&t=332)** Different RDBMS platforms will have different tools available, but they'll all help you keep your system in tip-top condition.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (5), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (2), [[Microsoft Word|Word]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL|Postgres]] (2), [[Microsoft Word|Word]] (2), [[Databases]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (4), dbcc (3), checkdb (3), rdbms (2)
 > **Definitions:** is an  (1), stands for (1)
 > **Analogies:** it's like (1), for instance (1)
@@ -2610,8 +2585,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Closing user sessions
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980)
+#### [Closing user sessions](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2621,7 +2595,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=12)** You can periodically review and close unneeded connections as part of a routine maintenance activity.
 >
-> **[0:19](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=19)** In PostgreSQL, we can go ahead and open up a new query, and then we can review connection details by pulling information from the PG stat activity catalog view.
+> **[0:19](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=19)** In [[PostgreSQL]], we can go ahead and open up a new query, and then we can review connection details by pulling information from the PG stat activity catalog view.
 >
 > **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=32)** This shows me connections to each database on the server in the dat name column.
 >
@@ -2653,7 +2627,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=162)** The connection has been closed from the server.
 >
-> **[2:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=165)** Now similar operations exist on SQL server, so let's take a look at that.
+> **[2:45](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=165)** Now similar operations exist on [[Microsoft SQL Server|SQL server]], so let's take a look at that.
 >
 > **[2:49](https://www.linkedin.com/learning/database-foundations-administration-8375189/closing-user-sessions?u=76281980&t=169)** I'm going to right-click and open up a new query on the SQL server database.
 >
@@ -2687,20 +2661,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[PostgreSQL]] (1)
 > **Env Vars:** pid (3), sql (3), spid (3), dbf4 (2)
 > **CLI Commands:** find (5), docker (1)
 > **UI Navigation:** right-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reviewing system statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980)
+#### [Reviewing system statistics](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=0)** - [Instructor] Whenever a query request is sent to a database, the RDBMS creates an execution plan that determines how the system will fetch the requested values.
+> **[0:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=0)** - [Instructor] Whenever a query request is sent to a database, the RDBMS creates an execution plan that determines how the system will [[Fetch]] the requested values.
 >
-> **[0:11](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=11)** The quality of the generated plan relies on having up-to-date statistics about each table.
+> **[0:11](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=11)** The quality of the generated plan relies on having up-to-date [[Statistics]] about each table.
 >
 > **[0:17](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=17)** I discussed the execution plans in the third course of this series, but what we didn't touch on is how the system estimates the number of rows that'll be returned for each step in the plan.
 >
@@ -2730,7 +2703,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=120)** The problem of outdated statistics can be fixed with a couple of maintenance commands.
 >
-> **[2:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=124)** Let's take a look at PostgreSQL first.
+> **[2:04](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=124)** Let's take a look at [[PostgreSQL]] first.
 >
 > **[2:07](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=127)** The analyze command will take a random sampling of your data from each table and update the statistics used by the query planner.
 >
@@ -2740,9 +2713,9 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=151)** You'll see a number of lines that tell you how many rows were scanned or how many pages were scanned and what their contents were.
 >
-> **[2:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=158)** It's recommended to analyze active databases once per day, as part of a nightly maintenance routine.
+> **[2:38](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=158)** It's recommended to analyze active [[Databases]] once per day, as part of a nightly maintenance routine.
 >
-> **[2:44](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=164)** SQL server has a similar command though it needs to be run on specific tables and columns.
+> **[2:44](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=164)** [[Microsoft SQL Server|SQL server]] has a similar command though it needs to be run on specific tables and columns.
 >
 > **[2:50](https://www.linkedin.com/learning/database-foundations-administration-8375189/reviewing-system-statistics?u=76281980&t=170)** Let's take a look at that by opening up a new query window over there.
 >
@@ -2760,7 +2733,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (11), [[Microsoft SQL Server|Sql server]] (4), data (3), database (2), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (11), [[Microsoft SQL Server|Sql server]] (4), [[PostgreSQL]] (2), [[Fetch]] (1), [[Databases]] (1)
 > **Env Vars:** sql (4), rdbms (3)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), for instance (1)
@@ -2768,8 +2741,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reading system logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980)
+#### [Reading system logs](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2779,17 +2751,17 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=12)** It can be helpful to periodically review the logs for status updates and for troubleshooting errors.
 >
-> **[0:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=18)** Since the logs are kept outside of the relational database management system, the procedure for reviewing them will be different on each operating system.
+> **[0:18](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=18)** Since the logs are kept outside of the relational [[Database Management]] system, the procedure for reviewing them will be different on each operating system.
 >
-> **[0:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=27)** Since our two databases run inside of Docker containers, we can use the Docker Logs command to review them.
+> **[0:27](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=27)** Since our two [[Databases]] run inside of Docker containers, we can use the Docker Logs command to review them.
 >
-> **[0:34](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=34)** To do this, you'll want to return to your terminal or PowerShell window that you've used previously for working with Docker or you can use the terminal that's built into Azure Data Studio.
+> **[0:34](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=34)** To do this, you'll want to return to your terminal or [[Powershell]] window that you've used previously for working with Docker or you can use the terminal that's built into [[Microsoft Azure|Azure]] Data Studio.
 >
 > **[0:46](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=46)** Now, if yours isn't open on the screen right now, you can go up to the View menu and turn it on here.
 >
 > **[0:52](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=52)** To review the log's contents, all you need is the command Docker Logs followed by the name of the container.
 >
-> **[1:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=60)** Let's take a look at the PostgreSQL container first.
+> **[1:00](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=60)** Let's take a look at the [[PostgreSQL]] container first.
 >
 > **[1:06](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=66)** When I press Enter, it returns a lot of information.
 >
@@ -2817,7 +2789,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=122)** And here is an error that I received when I mistakenly mistyped the name of the PG stat activity procedure.
 >
-> **[2:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=130)** To review the SQL server logs, all we need to do is switch the name of the Docker container that we're looking at.
+> **[2:10](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=130)** To review the [[Microsoft SQL Server|SQL server]] logs, all we need to do is switch the name of the Docker container that we're looking at.
 >
 > **[2:20](https://www.linkedin.com/learning/database-foundations-administration-8375189/reading-system-logs?u=76281980&t=140)** This time, I'll review Docker logs, SQL Server 2019, dash-dash-tail, 10.
 >
@@ -2833,7 +2805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[Microsoft SQL Server|Sql server]] (3), [[Troubleshooting]] (2), [[Databases]] (2), [[PostgreSQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3), [[Databases]] (2), [[PostgreSQL]] (2), [[Powershell]] (1), [[Microsoft Azure|Azure]] (1)
 > **CLI Commands:** docker (10)
 > **Env Vars:** sql (3), rdbms (1)
 > **Tools:** terminal (2), powershell (1)
@@ -2846,8 +2818,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2855,11 +2826,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=6)** Now, this is the part where I like to give you some ideas about additional content that'll expand your learning journey.
 >
-> **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=13)** We talked a bit about operating systems in this course and there's a very strong connection between relational databases and the operating systems that host them.
+> **[0:13](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=13)** We talked a bit about operating systems in this course and there's a very strong connection between [[Relational Databases]] and the operating systems that host them.
 >
-> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=22)** If you wanted to learn more about the command line interface used inside of our docker containers, then take a look at the course [[[[Learning Linux Command Line]] (2023)]].
+> **[0:22](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=22)** If you wanted to learn more about the command line interface used inside of our docker containers, then take a look at the course [[[[Learning [[Linux]] Command Line]] (2023)]].
 >
-> **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=32)** And for more information on the high availability technologies supported by different operating systems, head on over to Linux Foundation Cert Prep: System Design and Deployment or Windows Server 2019: High Availability.
+> **[0:32](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=32)** And for more information on the high availability technologies supported by different operating systems, head on over to Linux Foundation Cert Prep: System Design and Deployment or [[Windows Server]] 2019: High Availability.
 >
 > **[0:47](https://www.linkedin.com/learning/database-foundations-administration-8375189/next-steps?u=76281980&t=47)** As always, I've been Adam Wilbert.
 >
@@ -2867,7 +2838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (2), database (1), [[Relational Databases]] (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Relational Databases]] (1), [[Windows Server]] (1)
 > **Tools:** command line (2)
 > **CLI Commands:** docker (1)
 > **Speakers:** - [instructor] (1)

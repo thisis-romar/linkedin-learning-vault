@@ -67,16 +67,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustainability and transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
+#### [Sustainability and transformation](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=0)** - When we hear the word sustainability, we often think of balance.
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=0)** - When we hear the [[Microsoft Word|word]] [[Sustainability]], we often think of balance.
 >
 > **[0:05](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=5)** Yet, as you will soon learn, sustainability is dynamic and ever evolving.
 >
-> **[0:10](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=10)** I am Amy Luers, the Global Director for Sustainability Science at Microsoft.
+> **[0:10](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=10)** I am Amy Luers, the Global Director for Sustainability Science at [[Microsoft]].
 >
 > **[0:15](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-and-transformation?u=76281980&t=15)** For 25 years, I have worked on sustainability at the intersection where science meets technology, business, and policy.
 >
@@ -90,7 +89,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (1), [[Microsoft]] (1), business (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (1), [[Microsoft]] (1)
 > **Speakers:** - when (1)
 
 
@@ -98,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Definition of sustainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
+#### [Definition of sustainability](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980&t=0)** - We hear and use the term sustainability all the time.
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980&t=0)** - We hear and use the term [[Sustainability]] all the time.
 >
 > **[0:03](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/definition-of-sustainability?u=76281980&t=3)** It's become a buzzword.
 >
@@ -185,18 +183,17 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1), for instance (1)
 > **Speakers:** - we (1)
 
-#### The Sustainable Development Goals (SDGs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980)
+#### [The Sustainable Development Goals (SDGs)](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=1)** - In the last video, I set the foundation for this course by introducing the three interconnected dimensions of sustainability: the environment, the economy, and society.
+> **[0:01](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=1)** - In the last video, I set the foundation for this course by introducing the three interconnected dimensions of [[Sustainability]]: the environment, the economy, and society.
 >
 > **[0:10](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=10)** Now, we will explore how these elements are related to the world's sustainable development goals or what are known as the SDGs.
 >
 > **[0:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=19)** In 2015, over 190 countries committed to the 2030 agenda for sustainable development and agreed to and I quote, "Take the bold and transformative steps which are urgently needed to shift the world onto a sustainable and resilient path."
 >
-> **[0:37](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=37)** This landmark agreement is underpinned by 17 sustainable development goals or SDGs, which cover everything from ending poverty, eliminating hunger, reducing inequalities, tracking climate change, and protecting ecosystems.
+> **[0:37](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=37)** This landmark agreement is underpinned by 17 sustainable development goals or SDGs, which cover everything from ending poverty, eliminating hunger, reducing inequalities, tracking [[Climate Change]], and protecting ecosystems.
 >
 > **[0:52](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=52)** The 17 SDGs were identified by national leaders as "critical to achieve a better and more sustainable future for all".
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=230)** It's an intricate ecosystem that provides life supporting services for people and animals across the globe.
 >
-> **[3:56](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=236)** The biodiversity within the Amazon aids in pest control, pollination, soil health, directly influencing global food production ensuring we have a variety of crops, and harbors the potential for discovering new medicines that could lead to groundbreaking cures for human diseases.
+> **[3:56](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=236)** The [[Biodiversity]] within the Amazon aids in pest control, pollination, soil health, directly influencing global food production ensuring we have a variety of crops, and harbors the potential for discovering new medicines that could lead to groundbreaking cures for human diseases.
 >
 > **[4:13](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/the-sustainable-development-goals-sdgs?u=76281980&t=253)** So it holds a key to good health and wellbeing, SDG 3.
 >
@@ -274,25 +271,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (5), [[Climate Change]] (3), next (2), [[Biodiversity]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (5), [[Climate Change]] (3), [[Biodiversity]] (1)
 > **Env Vars:** sdg (20), sgd (1)
 > **Cross-References:** in the last (1), previous video (1), in the next (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Sustainability is a global and local issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980)
+#### [Sustainability is a global and local issue](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=0)** - Have you ever heard the term glocal?
 >
-> **[0:03](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=3)** It sounds like a fun made up word, right?
+> **[0:03](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=3)** It sounds like a fun made up [[Microsoft Word|word]], right?
 >
 > **[0:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=6)** But it's a real word that blends global and local.
 >
-> **[0:09](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=9)** Glocal is shorthand for a key sustainability concept.
+> **[0:09](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=9)** Glocal is shorthand for a key [[Sustainability]] concept.
 >
 > **[0:14](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=14)** Think about what happens when you drop a stone in a pond.
 >
@@ -314,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=71)** A change anywhere can lead to reactions everywhere.
 >
-> **[1:15](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=75)** Take, for example, climate change.
+> **[1:15](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=75)** Take, for example, [[Climate Change]].
 >
 > **[1:17](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=77)** When we burn fossil fuels, we release gases that warm our planet.
 >
@@ -322,7 +318,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=90)** But it works the other way too.
 >
-> **[1:33](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=93)** Choosing to power your home or office with renewable energy, like solar or wind, might seem like a small act, but it helps address the global climate crisis.
+> **[1:33](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=93)** Choosing to power your home or [[Microsoft Office|office]] with renewable energy, like solar or wind, might seem like a small act, but it helps address the global climate crisis.
 >
 > **[1:43](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=103)** Now, let's consider deforestation.
 >
@@ -362,11 +358,11 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=201)** So the next time you're deciding to do something, think glocal.
 >
-> **[3:25](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=205)** Ask yourself, "How does my choice here at home ripple out into the rest of the world?"
+> **[3:25](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/sustainability-is-a-global-and-local-issue?u=76281980&t=205)** Ask yourself, "How does my choice here at home ripple out into the [[Representational State Transfer (REST)|rest]] of the world?"
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (2), [[Climate Change]] (2), power (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (6), [[Microsoft Word|Word]] (2), [[Climate Change]] (2), [[Microsoft Office|Office]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** for example (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - have (1)
@@ -376,12 +372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Circular model of production and consumption
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
+#### [Circular model of production and consumption](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=0)** - In the first three videos of this course I introduced the different dimensions of sustainability and highlighted how they're all connected.
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=0)** - In the first three videos of this course I introduced the different dimensions of [[Sustainability]] and highlighted how they're all connected.
 >
 > **[0:07](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=7)** In the next three videos, I will talk about how we transform to a sustainable future.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=74)** The first principle is to eliminate waste and pollution.
 >
-> **[1:18](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=78)** This needs to be done at the initial stage of designing new products and services.
+> **[1:18](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=78)** This needs to be done at the initial stage of designing new [[Microsoft Products|products]] and services.
 >
 > **[1:23](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/circular-model-of-production-and-consumption?u=76281980&t=83)** In other words, we need to start designing out waste, and pollution by using renewable or recycled materials, minimizing harmful substances and extending products lifespans.
 >
@@ -445,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Sustainability]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Sustainability]] (2)
 > **Analogies:** for example (2), think of it like (1)
 > **Definitions:** in other words (1), means that (1)
 > **CLI Commands:** make (1)
@@ -453,8 +448,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Move to dynamic thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980)
+#### [Move to dynamic thinking](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -464,7 +458,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=14)** In this video, I will discuss the need to evolve from static thinking, rooted in past experiences to a dynamic future-focused mindset.
 >
-> **[0:23](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=23)** Let's explore transformation in the way we think when it comes to sustainability.
+> **[0:23](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=23)** Let's explore transformation in the way we think when it comes to [[Sustainability]].
 >
 > **[0:28](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=28)** Imagine you're looking at a photograph of a river.
 >
@@ -480,7 +474,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=66)** In the world of sustainability we need that video perspective.
 >
-> **[1:10](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=70)** Our planet is constantly evolving, challenges like climate change, population growth, technological innovations aren't static, they shift and change over time.
+> **[1:10](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=70)** Our planet is constantly evolving, challenges like [[Climate Change]], population growth, technological innovations aren't static, they shift and change over time.
 >
 > **[1:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/move-to-dynamic-thinking?u=76281980&t=79)** And to address them effectively we must anticipate and adapt to those changes.
 >
@@ -524,22 +518,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (3), [[Climate Change]] (2), next (1), power (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Climate Change]] (2)
 > **Analogies:** imagine (2), for example (1)
 > **Speakers:** - humanity (1)
 
-#### Systems approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980)
+#### [Systems approach](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=0)** - Ever tried to solve a jigsaw puzzle by examining just one piece at a time without looking at the bigger picture?
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=0)** - Ever tried to solve a [[Jigsaw]] puzzle by examining just one piece at a time without looking at the bigger picture?
 >
 > **[0:07](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=7)** It's a challenging task, right?
 >
 > **[0:09](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=9)** Often people take a similar approach to understanding the world around them, looking at individual pieces without fully understanding their place in the larger puzzle.
 >
-> **[0:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=19)** This is known as reductionist thinking, but to address the complexity of today's sustainability challenges, we need a different approach, systems thinking.
+> **[0:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=19)** This is known as reductionist thinking, but to address the complexity of today's [[Sustainability]] challenges, we need a different approach, systems thinking.
 >
 > **[0:29](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=29)** Reductionist thinking has been a dominant method in science and problem solving for centuries.
 >
@@ -547,7 +540,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=42)** For instance, by isolating and studying individual chemical reactions, we've made advances in medicine that have saved millions of lives.
 >
-> **[0:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=50)** However, reductionist thinking has its limitations, especially when applied to complex, interconnected issues like climate change, global economics, and social inequities.
+> **[0:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=50)** However, reductionist thinking has its limitations, especially when applied to complex, interconnected issues like [[Climate Change]], global economics, and social inequities.
 >
 > **[1:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/systems-approach?u=76281980&t=60)** Systems thinking, on the other hand, is about understanding how parts of a system interact and influence each other.
 >
@@ -573,17 +566,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (3), [[Jigsaw]] (1), [[Climate Change]] (1), web (1)
+> **Frameworks & Libraries:** [[Sustainability]] (3), [[Jigsaw]] (1), [[Climate Change]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - ever (1)
 
-#### Unpacking the systems approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/unpacking-the-systems-approach?u=76281980)
+#### [Unpacking the systems approach](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/unpacking-the-systems-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/unpacking-the-systems-approach?u=76281980&t=0)** - In the last video, I introduced the concept of systems and the importance of systems thinking when it comes to sustainability.
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/unpacking-the-systems-approach?u=76281980&t=0)** - In the last video, I introduced the concept of systems and the importance of systems thinking when it comes to [[Sustainability]].
 >
 > **[0:08](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/unpacking-the-systems-approach?u=76281980&t=8)** As I explained previously, systems thinking is about focusing on looking beyond the individual components of a system to understand key characteristics, which are fundamental to its sustainability.
 >
@@ -685,7 +677,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (7), cloud (2), web (1)
+> **Frameworks & Libraries:** [[Sustainability]] (7)
 > **Definitions:** is called (1), is a  (1), in other words (1), means that (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** for example (1)
@@ -696,18 +688,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Net zero
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
+#### [Net zero](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=1)** - In the next few sections of this course, I will go deeper on the environmental dimensions of sustainability.
+> **[0:01](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=1)** - In the next few sections of this course, I will go deeper on the environmental dimensions of [[Sustainability]].
 >
 > **[0:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=6)** To achieve sustainability we need to build a world that is net zero, climate resilient and nature positive.
 >
 > **[0:13](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=13)** In this section, I want to introduce you to the concept of net zero, what it means and what we need to do to get there.
 >
-> **[0:20](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=20)** You may have heard of the phrase net zero in the context of corporate climate commitments or global climate pledges but why is it being held up as such a critical part of tackling climate change?
+> **[0:20](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=20)** You may have heard of the phrase net zero in the context of corporate climate commitments or global climate pledges but why is it being held up as such a critical part of tackling [[Climate Change]]?
 >
 > **[0:33](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=33)** Let's dive in.
 >
@@ -725,7 +716,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=83)** Let's pause for a moment and think about this statement of a 50% chance.
 >
-> **[1:29](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=89)** That's not a very big probability that we will stay within that warming limit.
+> **[1:29](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=89)** That's not a very big [[Probability]] that we will stay within that warming limit.
 >
 > **[1:33](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=93)** Some say it would be reckless.
 >
@@ -783,7 +774,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=264)** For the best shot at removing as much carbon dioxide as possible, we need a blend of nature's power and technological innovation.
 >
-> **[4:32](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=272)** We've been talking here about carbon removal but there's another term out there in the net zero lexicon, the word is carbon offset.
+> **[4:32](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=272)** We've been talking here about carbon removal but there's another term out there in the net zero lexicon, the [[Microsoft Word|word]] is carbon offset.
 >
 > **[4:41](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=281)** The language between carbon offsets and carbon removal can be quite confusing.
 >
@@ -791,7 +782,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=295)** So for example a company can pay to protect a forest from being cleared as an offset for emissions that result from their own operations.
 >
-> **[5:03](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=303)** Protecting the forest that was planned to be cut down effectively does reduce emissions and can result in many other benefits, such as protecting biodiversity, water cycling, pollination service, and so much more.
+> **[5:03](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=303)** Protecting the forest that was planned to be cut down effectively does reduce emissions and can result in many other benefits, such as protecting [[Biodiversity]], water cycling, pollination service, and so much more.
 >
 > **[5:15](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/net-zero?u=76281980&t=315)** But protecting a forest does not remove additional carbon dioxide from the atmosphere, so it cannot be counted in the final net zero equation where human emissions must be equal to human removals.
 >
@@ -817,7 +808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (5), [[Sustainability]] (2), next (1), [[Probability]] (1), power (1)
+> **Frameworks & Libraries:** [[Climate Change]] (5), [[Sustainability]] (2), [[Probability]] (1), [[Microsoft Word|Word]] (1), [[Biodiversity]] (1)
 > **Env Vars:** co2 (5), dacs (4)
 > **Analogies:** such as (4), for example (2), it's like (1)
 > **CLI Commands:** make (2)
@@ -826,12 +817,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - in (1)
 
-#### Nature positive
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980)
+#### [Nature positive](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=0)** - In the previous video, you learned about the significance of achieving net-zero emissions in our battle against climate change.
+> **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=0)** - In the previous video, you learned about the significance of achieving net-zero emissions in our battle against [[Climate Change]].
 >
 > **[0:07](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=7)** In this video, I introduced to you a related concept, nature positive.
 >
@@ -855,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=71)** Healthy ecosystems can usually bounce back from the natural disturbances, such as fires and pests.
 >
-> **[1:16](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=76)** However, human activities such as the reduction of biodiversity, exploitation of natural resources, pollution, land use change and climate change are all adversely affecting the resilience of our ecosystems.
+> **[1:16](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=76)** However, human activities such as the reduction of [[Biodiversity]], exploitation of natural resources, pollution, land use change and climate change are all adversely affecting the resilience of our ecosystems.
 >
 > **[1:28](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=88)** And here's a sobering thought.
 >
@@ -883,7 +873,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=165)** This requires transforming industrial practices, reimagining agricultural systems, innovating urban planning and driving policy changes at the highest levels of governance.
 >
-> **[2:56](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=176)** In sum, nature positive is a renewed commitment to sustainability, a testament to our evolving understanding of the intertwined fate of humanity and the natural world.
+> **[2:56](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=176)** In sum, nature positive is a renewed commitment to [[Sustainability]], a testament to our evolving understanding of the intertwined fate of humanity and the natural world.
 >
 > **[3:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/nature-positive?u=76281980&t=186)** It's our shared vision for a harmonious future where both nature and humanity thrive side by side.
 
@@ -895,8 +885,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - in (1)
 
-#### Environmental resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980)
+#### [Environmental resilience](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -904,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=6)** Their strength and adaptability is a form of resilience, an ability to face challenges and recover stronger.
 >
-> **[0:12](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=12)** In sustainability, resilient is about designing communities and building ecosystems and societies that can cope with the uncertainties of a changing climate and adapt and rebound.
+> **[0:12](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=12)** In [[Sustainability]], resilient is about designing communities and building ecosystems and societies that can cope with the uncertainties of a changing climate and adapt and rebound.
 >
 > **[0:25](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=25)** Take a forest as an example.
 >
@@ -916,7 +905,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=44)** Natural ecosystems have learned over thousands of years how to adapt to natural disturbance.
 >
-> **[0:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=50)** But now these natural systems are confronting unnatural disturbances, that is, disturbances that human society is imposing, such as climate change, the widespread clearing of ecosystems, and the widespread introduction of synthetic chemicals.
+> **[0:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=50)** But now these natural systems are confronting unnatural disturbances, that is, disturbances that human society is imposing, such as [[Climate Change]], the widespread clearing of ecosystems, and the widespread introduction of synthetic chemicals.
 >
 > **[1:05](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/environmental-resilience?u=76281980&t=65)** Processes such as these are undermining the resilience of natural ecosystems and, as a result, undermining communities that depend on these ecosystems for their own resilience to disturbances such as hurricanes, wildfires, and droughts.
 >
@@ -977,8 +966,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Carbon and environmental accounting
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
+#### [Carbon and environmental accounting](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -986,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=8)** The obvious next question is, how are we doing?
 >
-> **[0:11](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=11)** What progress have we made towards achieving these sustainability goals?
+> **[0:11](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=11)** What progress have we made towards achieving these [[Sustainability]] goals?
 >
 > **[0:15](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=15)** This is a hard question to answer, but it is critical to explore, because as the saying goes, you cannot manage what you can't measure.
 >
@@ -1002,7 +990,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=52)** Understanding the full impact of our purchasing and business decisions can be difficult, but it's critical to driving a transition to sustainability.
 >
-> **[1:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=60)** Measuring the environmental costs of each stage of a product's development throughout its supply chain can help businesses target actions to reduce its impact on the environment and build more sustainable products, and disclosing environment impacts of different products and services can help investors and consumers make environmentally sound choices about their purchases.
+> **[1:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=60)** Measuring the environmental costs of each stage of a product's development throughout its supply chain can help businesses target actions to reduce its impact on the environment and build more sustainable [[Microsoft Products|products]], and disclosing environment impacts of different products and services can help investors and consumers make environmentally sound choices about their purchases.
 >
 > **[1:23](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=83)** Companies are increasingly being asked to account for and disclose their impacts and dependencies on climate, water, and ecosystems.
 >
@@ -1012,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=111)** Remember back in the last chapter I introduced the concept of net zero, which is the state where the greenhouse gas emissions resulting from human activities are balanced by human activities that remove greenhouse gases from the atmosphere.
 >
-> **[2:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=126)** To avoid the worst impacts of climate change, the world needs to achieve net zero emissions by mid-century, and many companies have made similar commitments or even more aggressive targets.
+> **[2:06](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=126)** To avoid the worst impacts of [[Climate Change]], the world needs to achieve net zero emissions by mid-century, and many companies have made similar commitments or even more aggressive targets.
 >
 > **[2:18](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/carbon-and-environmental-accounting?u=76281980&t=138)** So how does a company do this carbon accounting?
 >
@@ -1060,25 +1048,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (3), data (3), [[Sustainability]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Sustainability]] (2), [[Climate Change]] (1)
 > **Definitions:** is a  (2), known as (2)
 > **Analogies:** for example (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - we (1)
 
-#### Climate risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980)
+#### [Climate risk](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=0)** - In the last video, we talked about carbon accounting, which is a tool for helping to drive the world towards net zero.
 >
-> **[0:07](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=7)** A closely connected sustainability concept is how do we drive the world towards being more resilient.
+> **[0:07](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=7)** A closely connected [[Sustainability]] concept is how do we drive the world towards being more resilient.
 >
 > **[0:14](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=14)** Well, in the case of climate resilience, the starting point is understanding your risks.
 >
-> **[0:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=19)** If carbon accounting is about understanding how much a company is impacting the climate, climate risk assessments are about understanding how much climate change could impact those same companies.
+> **[0:19](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=19)** If carbon accounting is about understanding how much a company is impacting the climate, climate risk assessments are about understanding how much [[Climate Change]] could impact those same companies.
 >
 > **[0:32](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=32)** A popular saying from the financial sector is that climate risk is investment risk, and this recognition is driving investors to demand that companies understand and disclose the risks that climate change might pose to their investments.
 >
@@ -1112,7 +1099,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=145)** As the world rapidly changes its policies and regulations to drive the transition to a net zero economy, there could be profound implications across a company's entire supply chain.
 >
-> **[2:37](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=157)** As a simple example, consider the impacts that a carbon tax could have on a company that was dependent upon the products manufactured in parts of the world with high carbon intensity grids.
+> **[2:37](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=157)** As a simple example, consider the impacts that a carbon tax could have on a company that was dependent upon the [[Microsoft Products|products]] manufactured in parts of the world with high carbon intensity grids.
 >
 > **[2:50](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/climate-risk?u=76281980&t=170)** The price of these components could go up dramatically with ripple effects throughout the company's entire supply chain.
 >
@@ -1142,7 +1129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Climate Change]] (4), [[Sustainability]] (1), semiconductor (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Climate Change]] (4), [[Sustainability]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** tcfd (2)
 > **Cross-References:** in the last (1), we talked about (1)
@@ -1155,14 +1142,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three transformations for a sustainable world
-> [LinkedIn Learning](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)
+#### [Three transformations for a sustainable world](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980&t=0)** - You've made it now to the end of this course, but this is just the beginning.
 >
-> **[0:05](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980&t=5)** I can't stress enough the importance of transformation as the key to sustainability.
+> **[0:05](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980&t=5)** I can't stress enough the importance of transformation as the key to [[Sustainability]].
 >
 > **[0:11](https://www.linkedin.com/learning/sustainability-foundations-core-concepts/three-transformations-for-a-sustainable-world?u=76281980&t=11)** In the beginning of this course, I emphasize that although the term sustainability might suggest a static equilibrium, it's intrinsically about dynamic adaptation and evolution, ensuring our environment, economy and society thrive today and in the future.
 >
@@ -1186,7 +1172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (4), web (1)
+> **Frameworks & Libraries:** [[Sustainability]] (4)
 > **Speakers:** - you (1)
 
 

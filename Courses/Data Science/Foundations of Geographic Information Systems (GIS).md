@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking spatially
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
+#### [Thinking spatially](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/thinking-spatially?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -104,7 +103,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (5), data (3)
 > **Env Vars:** gis (5)
 > **CLI Commands:** find (1), make (1)
 
@@ -113,8 +111,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solving spatial problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
+#### [Solving spatial problems](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -134,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980&t=22)** Now, suppose that you could collect all that information that you observe and put it into a database for engineers, planners, designers, and other citizens like yourself to use to make better decisions.
 >
-> **[0:36](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980&t=36)** You could put that information in lists, stored in spreadsheets or databases, like a list of all the shops on your route to work.
+> **[0:36](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980&t=36)** You could put that information in lists, stored in spreadsheets or [[Databases]], like a list of all the shops on your route to work.
 >
 > **[0:45](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/solving-spatial-problems?u=76281980&t=45)** But think about how much more powerful that data would be if it was on a map so that everyone could see exactly where each of these things occur and how they interact with each other.
 >
@@ -164,14 +161,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), gis (5), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** gis (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Finding and accessing GIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980)
+#### [Finding and accessing GIS](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,11 +185,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=56)** A desktop GIS software is much more powerful, allowing for the management of huge data sets for machine-intensive spatial analysis.
 >
-> **[1:05](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=65)** The Esri desktop software is called ArcGIS Pro.
+> **[1:05](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=65)** The Esri desktop software is called [[ArcGIS Pro]].
 >
 > **[1:09](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=69)** ArcGIS Pro is usually installed as part of an enterprise GIS.
 >
-> **[1:14](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=74)** There are many software companies helping users create web maps such as Esri, Google, and Microsoft.
+> **[1:14](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=74)** There are many software companies helping users create web maps such as Esri, [[Google]], and [[Microsoft]].
 >
 > **[1:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/finding-and-accessing-gis?u=76281980&t=81)** You can get a public account for Esri's ArcGIS Online web mapping platform at [arcgis.com](https://arcgis.com) and try your hand at making a GIS-based map an app.
 >
@@ -201,15 +197,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (8), data (5), web (4), [[ArcGIS Pro]] (2), management (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (2), [[Google]] (1), [[Microsoft]] (1)
 > **Env Vars:** gis (8)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** set up (1)
 
-#### Recreating the world on a map
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/recreating-the-world-on-a-map?u=76281980)
+#### [Recreating the world on a map](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/recreating-the-world-on-a-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -265,18 +260,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (10), feature (4), web (3), data (3), database (1)
 > **Env Vars:** gis (10)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** is called (1)
 
-#### Specifying location
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980)
+#### [Specifying location](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=0)** The magic behind geographic information systems, the thing that makes it is that every point, line, and polygon put into a GIS is tied to a real-world location on the Earth.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=0)** The magic behind [[Geographic Information Systems (GIS)|geographic information systems]], the thing that makes it is that every point, line, and polygon put into a GIS is tied to a real-world location on the Earth.
 >
 > **[0:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=12)** Some things sit on top of the Earth like a cell tower.
 >
@@ -316,7 +309,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=139)** If the data is 3D-enabled, you'll find a third coordinate elevation, which is the height above sea level.
 >
-> **[2:27](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=147)** Now for lines, every line is simply a series of points called vertices, and each vertex knows its latitude and longitude.
+> **[2:27](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=147)** Now for lines, every line is simply a series of points called vertices, and each [[Vertex]] knows its latitude and longitude.
 >
 > **[2:36](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=156)** A polygon is a line that encloses an area.
 >
@@ -334,13 +327,13 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=191)** Now that you understand a little about the coordinates behind a GIS map, why don't you see if you can find the latitude and longitude coordinates of where you are right now?
 >
-> **[3:20](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=200)** Just open a browser and go to [google.com/maps](https://google.com/maps).
+> **[3:20](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=200)** Just open a browser and go to [[[Google]].com/maps](https://google.com/maps).
 >
 > **[3:25](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/specifying-location?u=76281980&t=205)** Type in your address, right-click on the map, and you'll know exactly where you are.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (5), data (3), [[Geographic Information Systems (GIS)|Geographic information systems]] (1), [[Vertex]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Geographic Information Systems (GIS)|Geographic information systems]] (1), [[Vertex]] (1), [[Google]] (1)
 > **Env Vars:** gis (5), dms (1), gps (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (2)
@@ -348,8 +341,7 @@ created: 2026-05-02
 > **URLs:** [google.com](https://google.com) (1)
 > **Prerequisites:** you'll need (1)
 
-#### Essential map comprehension
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/essential-map-comprehension?u=76281980)
+#### [Essential map comprehension](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/essential-map-comprehension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,7 +393,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (2), next (2)
 > **Env Vars:** gis (2)
 > **CLI Commands:** make (1)
 
@@ -410,8 +401,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### More than digital maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
+#### [More than digital maps](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -433,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980&t=60)** I mean, you can look at the map, click on the coffee shop, and see all the annual reports: the tax documents, the leasing agreements, any documents related to the store.
 >
-> **[1:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980&t=72)** You don't have to go figure out where they are on your network or in SharePoint.
+> **[1:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980&t=72)** You don't have to go figure out where they are on your network or in [[SharePoint]].
 >
 > **[1:16](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/more-than-digital-maps?u=76281980&t=76)** Finally, I want to highlight spatial analysis.
 >
@@ -457,13 +447,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (12), data (8), management (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1)
 > **Env Vars:** gis (12)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** click on (1)
 
-#### Identifying GIS layer components
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980)
+#### [Identifying GIS layer components](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,7 +460,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980&t=3)** Layers allow a single GIS dataset, like a set of polygons representing buildings to be displayed many different ways.
 >
-> **[0:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980&t=12)** I can show the office buildings in my city color-coded by the number of square feet available to rent and the property appraisers can display the buildings color-coded by the value, and the fire department can color-code them based on whether or not they have sprinkler systems.
+> **[0:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980&t=12)** I can show the [[Microsoft Office|office]] buildings in my city color-coded by the number of square feet available to rent and the property appraisers can display the buildings color-coded by the value, and the fire department can color-code them based on whether or not they have sprinkler systems.
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-layer-components?u=76281980&t=27)** When a new building is added, everyone just opens their map and the new building is there, using each person's chosen color scheme.
 >
@@ -525,14 +514,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (13), data (8), feature (7), [[Microsoft Office|Office]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Env Vars:** gis (13)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 
-#### Describing attribute tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980)
+#### [Describing attribute tables](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=71)** I'll search for the Lin County Courthouse.
 >
-> **[1:15](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=75)** Once it's typed in, the map will zoom into the courthouse right here on this little island.
+> **[1:15](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=75)** Once it's typed in, the map will [[Zoom]] into the courthouse right here on this little island.
 >
 > **[1:20](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=80)** When you click on the courthouse polygon, you get to see the attributes of this piece of land.
 >
@@ -586,7 +574,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=130)** It's filtered right now to only show data for the area that it's zoomed to.
 >
-> **[2:15](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=135)** Suppose I'm a lawyer and I want to open a new office near the courthouse.
+> **[2:15](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=135)** Suppose I'm a lawyer and I want to open a new [[Microsoft Office|office]] near the courthouse.
 >
 > **[2:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/describing-attribute-tables?u=76281980&t=141)** Let me see if there are any properties that I could get for less than $100,000 in this area.
 >
@@ -602,13 +590,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (7), [[Search]] (4), data (3), database (1), feature (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** gis (7)
 > **UI Navigation:** click on (2), open the (1), scroll down (1)
 > **Definitions:** is a  (3)
 
-#### Using raster datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980)
+#### [Using raster datasets](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -620,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=19)** A lot of this data can be added directly into a GIS.
 >
-> **[0:23](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=23)** In addition to satellites, government agencies and private companies are flying airplanes and drones with data collection devices attached.
+> **[0:23](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=23)** In addition to satellites, government agencies and private companies are flying airplanes and drones with [[Data Collection]] devices attached.
 >
 > **[0:32](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=32)** These vehicles fly much closer to the ground and collect very detailed pictures.
 >
@@ -630,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=49)** Many remotely sensed data sets are stored as raster data.
 >
-> **[0:53](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=53)** Raster data sets are made up of a bunch of pixels, just like you see when you zoom in really close on a picture you've taken with your camera.
+> **[0:53](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=53)** Raster data sets are made up of a bunch of pixels, just like you see when you [[Zoom]] in really close on a picture you've taken with your camera.
 >
 > **[1:01](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/using-raster-datasets?u=76281980&t=61)** The remotely sensed imagery can be used as a base map in your GIS, so you can see where houses, roads, and forests are.
 >
@@ -684,14 +671,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), gis (2), power (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (1), [[Zoom]] (1)
 > **Env Vars:** gis (2), nasa (1)
 > **Analogies:** just like (1), picture (1), for example (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** find (1)
 
-#### Creating 3D models with LiDAR
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980)
+#### [Creating 3D models with LiDAR](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=21)** Here's a 3D map of a village in Southern Belize.
 >
-> **[0:24](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=24)** I'll show it to you in ArcGIS Pro, a desktop GIS software.
+> **[0:24](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=24)** I'll show it to you in [[ArcGIS Pro]], a desktop GIS software.
 >
 > **[0:29](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=29)** We could use this 3D data to figure out which areas are flat enough and have enough sun exposure for successful agriculture.
 >
@@ -713,7 +699,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=68)** Bring this data into a GIS and you can get a complete 3D model of the area.
 >
-> **[1:14](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=74)** Interestingly, these data collection devices can be put on the top of a car to map a neighborhood or even attached to a tripod and set inside a building to map the interior of the building.
+> **[1:14](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=74)** Interestingly, these [[Data Collection]] devices can be put on the top of a car to map a neighborhood or even attached to a tripod and set inside a building to map the interior of the building.
 >
 > **[1:26](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-3d-models-with-lidar?u=76281980&t=86)** One of the exciting uses of this Lidar technology right now is flying over dense forests to discover hidden secrets underneath.
 >
@@ -731,7 +717,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), gis (3), power (2), [[ArcGIS Pro]] (1), hit (1)
+> **Frameworks & Libraries:** [[ArcGIS Pro]] (1), [[Data Collection]] (1)
 > **Env Vars:** gis (3)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -741,8 +727,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asking a map questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
+#### [Asking a map questions](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -754,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980&t=10)** A GIS lets you pick through huge stacks of data to quickly answer complex questions. You ask a map a question by running a query.
 >
-> **[0:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980&t=21)** GIS software supports database queries using the structured query language or SQL: a standard language that's been used for decades.
+> **[0:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980&t=21)** GIS software supports [[Database Queries]] using the structured query language or [[SQL]]: a standard language that's been used for decades.
 >
 > **[0:30](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/asking-a-map-questions?u=76281980&t=30)** When you query a standard database, you get a list of records returned.
 >
@@ -794,13 +779,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (4), database (3), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Database Queries]] (1), [[SQL]] (1)
 > **Env Vars:** gis (4), sql (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 
-#### Evaluating spatial relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980)
+#### [Evaluating spatial relationships](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980&t=58)** It's got fire district polygons on it.
 >
-> **[1:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980&t=60)** And when you zoom in, you can see there are address points.
+> **[1:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980&t=60)** And when you [[Zoom]] in, you can see there are address points.
 >
 > **[1:04](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/evaluating-spatial-relationships?u=76281980&t=64)** Suppose the fire chief wants to know how many homes and businesses the department is responsible for protecting.
 >
@@ -850,15 +834,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (7), data (4), database (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** gis (7)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** open the (1)
 > **Analogies:** such as (1)
 
-#### Analysis with imagery and surfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/analysis-with-imagery-and-surfaces?u=76281980)
+#### [Analysis with imagery and surfaces](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/analysis-with-imagery-and-surfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -902,7 +885,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), gis (8)
 > **Env Vars:** gis (8)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
@@ -913,8 +895,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying GIS data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
+#### [Identifying GIS data sources](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/identifying-gis-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -976,14 +957,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), gis (14), [[Search]] (3)
 > **Env Vars:** gis (14), url (1), noaa (1), gps (1), cad (1)
 > **CLI Commands:** find (3), make (1)
 > **URLs:** [geoplatform.gov](https://geoplatform.gov) (1)
 > **Exercise Files:** download the (1)
 
-#### Creating your own GIS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980)
+#### [Creating your own GIS data](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=7)** Well, most GIS software comes with a built-in base map of aerial imagery.
 >
-> **[0:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=12)** So when you open your GIS for the first time, you just turn on the base map, you search for your facilities address, and zoom in until you can see it.
+> **[0:12](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=12)** So when you open your GIS for the first time, you just turn on the base map, you search for your facilities address, and [[Zoom]] in until you can see it.
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=21)** Now the imagery that comes with the software might be a few years old, so if you've had many recent changes at your facility, you might hire a drone pilot or an aerial photo company to acquire newer imagery.
 >
@@ -1001,7 +980,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=42)** You could trace these off aerial photos if they existed when the photo was taken.
 >
-> **[0:47](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=47)** Or if you have original plans or blueprints of these structures in a CAD format, that's Computer-Aided Design software like AutoCAD or MicroStation, then you could import these files.
+> **[0:47](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=47)** Or if you have original plans or blueprints of these structures in a CAD format, that's Computer-Aided Design software like [[AutoCAD]] or MicroStation, then you could import these files.
 >
 > **[1:00](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/creating-your-own-gis-data?u=76281980&t=60)** If all you have are paper versions of these blueprints, that's okay too.
 >
@@ -1027,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (9), data (5), [[Search]] (1), [[Zoom]] (1), [[AutoCAD]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[AutoCAD]] (1)
 > **Env Vars:** gis (9), gps (4), cad (1)
 
 
@@ -1035,8 +1014,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Enterprise-level GIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
+#### [Enterprise-level GIS](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,7 +1032,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980&t=39)** The way this works is that the city staff use desktop software to create, manage, and analyze the GIS data, which is stored in an enterprise geodatabase.
 >
-> **[0:50](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980&t=50)** GIS staff then published that data through the server as web services stored in a web portal. Management, field crews, and anyone who needs to access the GIS data through a mobile phone or a tablet accesses these web services. Some of that data can also be shared out to the public through web and mobile apps like dashboards and story maps.
+> **[0:50](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980&t=50)** GIS staff then published that data through the server as web services stored in a web portal. Management, field crews, and anyone who needs to access the GIS data through a mobile phone or a tablet accesses these web services. Some of that data can also be shared out to the public through web and mobile apps like [[Dashboards]] and story maps.
 >
 > **[1:15](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/enterprise-level-gis?u=76281980&t=75)** Engineers and planners can look at maps in powerful desktop software.
 >
@@ -1068,12 +1046,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), gis (7), web (4), management (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **Env Vars:** gis (7)
 > **Definitions:** is called (1)
 
-#### Mobile and web GIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980)
+#### [Mobile and web GIS](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980&t=21)** Let me show you a few examples.
 >
-> **[0:23](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980&t=23)** GIS dashboards are web apps that have a map or two at their center, and a series of charts and statistics around the map that give details about what's going on in the area.
+> **[0:23](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980&t=23)** GIS [[Dashboards]] are web apps that have a map or two at their center, and a series of charts and [[Statistics]] around the map that give details about what's going on in the area.
 >
 > **[0:35](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/mobile-and-web-gis?u=76281980&t=35)** This dashboard shows the pavement quality compared to traffic volumes in Tallahassee, Florida.
 >
@@ -1115,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (7), data (6), web (6), traffic (3), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Statistics]] (1)
 > **Env Vars:** gis (7)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
@@ -1125,8 +1102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting it to practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)
+#### [Putting it to practice](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1148,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980&t=53)** It's available for a small annual fee.
 >
-> **[0:56](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980&t=56)** And I hope you'll connect with me on LinkedIn and follow the TeachMeGIS site.
+> **[0:56](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980&t=56)** And I hope you'll connect with me on [[LinkedIn]] and follow the TeachMeGIS site.
 >
 > **[1:01](https://www.linkedin.com/learning/foundations-of-geographic-information-systems-gis-25669115/putting-it-to-practice?u=76281980&t=61)** Also, check out the TeachMeGIS YouTube site for GIS tips and tricks.
 >
@@ -1156,7 +1132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (7), data (2), strengths (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** gis (7)
 > **URLs:** [arcgis.com](https://arcgis.com) (1)
 > **UI Navigation:** go to (1)

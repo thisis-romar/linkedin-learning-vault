@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing your Node.js projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
+#### [Securing your Node.js projects](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980&t=0)** - [Instructor] Statistics show that close to 80% of online web applications aren't secured or are easily hackable.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980&t=0)** - [Instructor] [[Statistics]] show that close to 80% of online web applications aren't secured or are easily hackable.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980&t=8)** Therefore, security is always a concern for everyone building applications with Node.js.
+> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980&t=8)** Therefore, security is always a concern for everyone building applications with [[Node.js]].
 >
 > **[0:13](https://www.linkedin.com/learning/node-js-security-24512656/securing-your-nodejs-projects?u=76281980&t=13)** Following a set of best practices becomes crucial when you work with this library, and this is exactly what we'll explore in this course.
 >
@@ -106,25 +105,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Security]] (2), [[Node.js]] (2), [[Statistics]] (1), node (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Statistics]] (1)
 > **CLI Commands:** node (3)
 > **File Paths:** node.js (2)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course explores advanced subjects around Node.js, a basic understanding of its tools and syntax is a must.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=0)** - [Instructor] As this course explores advanced subjects around [[Node.js]], a basic understanding of its tools and syntax is a must.
 >
-> **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=10)** You also need to have Node.js and npm installed.
+> **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=10)** You also need to have Node.js and [[npm]] installed.
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=14)** If you feel lost in this course, I suggest you take a basic course on Node and our library is full of introductory courses on the subject.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=23)** The same goes for JavaScript, especially the latest syntax, as it is essential for this course.
+> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=23)** The same goes for [[JavaScript]], especially the latest syntax, as it is essential for this course.
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=30)** In this course, I'll be using a Mac, but you can follow along on a Windows PC or a Linux as the tools work essentially the same on all these platforms.
+> **[0:30](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=30)** In this course, I'll be using a Mac, but you can follow along on a [[Windows]] PC or a [[Linux]] as the tools work essentially the same on all these platforms.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-security-24512656/what-you-should-know?u=76281980&t=42)** Also, I'm using Visual Studio Code as my co-editor.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), node (1), [[JavaScript]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), [[JavaScript]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** node (3), npm (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (2)
@@ -146,20 +144,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OWASP and other sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
+#### [Introduction to OWASP and other sources](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=0)** - [Instructor] As this course explores advanced subjects around Node.js, a basic understanding of its tools and syntax is a must.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=0)** - [Instructor] As this course explores advanced subjects around [[Node.js]], a basic understanding of its tools and syntax is a must.
 >
-> **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=10)** You also need to have Node.js and NPM installed.
+> **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=10)** You also need to have Node.js and [[npm]] installed.
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=14)** If you feel lost in this course, I suggest you take a basic course on Node, and our library is full of introductory courses on the subject.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=23)** The same goes for JavaScript, especially the latest syntax, as it is essential for this course.
+> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=23)** The same goes for [[JavaScript]], especially the latest syntax, as it is essential for this course.
 >
-> **[0:30](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=30)** In this course, I'll be using a Mac, but you can follow along on a Windows PC or a Linux as the tools work essentially the same on all these platforms.
+> **[0:30](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=30)** In this course, I'll be using a Mac, but you can follow along on a [[Windows]] PC or a [[Linux]] as the tools work essentially the same on all these platforms.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-and-other-sources?u=76281980&t=42)** Also, I'm using Visual Studio Code as my code editor.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), node (1), [[JavaScript]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[npm]] (1), [[JavaScript]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** node (3), npm (1)
 > **Tools:** terminal (2), visual studio (1)
 > **File Paths:** node.js (2)
@@ -176,12 +173,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP Top 10 in Node.js
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980)
+#### [OWASP Top 10 in Node.js](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=0)** - [Instructor] Okay, so let's continue our exploration of OWASP with the list of the top 10 threats on the web, and also we'll explore what is related to APIs and therefore node.js as well.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=0)** - [Instructor] Okay, so let's continue our exploration of [[OWASP]] with the list of the top 10 threats on the web, and also we'll explore what is related to APIs and therefore [[Node.js]] as well.
 >
 > **[0:11](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=11)** So let's go first to [owasp.org](https://owasp.org).
 >
@@ -219,7 +215,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=99)** And you can actually go further and find on the web more examples of these attacks.
 >
-> **[1:45](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=105)** So again, it's always very important to take a look at these because it keeps you, first of all, in a loop and aware of how you can apply this to your specific case or your specific application, and then make sure that you are not in trouble with your application, especially SaaS applications.
+> **[1:45](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=105)** So again, it's always very important to take a look at these because it keeps you, first of all, in a loop and aware of how you can apply this to your specific case or your specific application, and then make sure that you are not in trouble with your application, especially [[SaaS]] applications.
 >
 > **[2:04](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=124)** Okay, so now for Node.js specifically, or APIs, which is usually what people use Node.js for, you can go into browse all projects and then scroll down to two areas that would actually help you.
 >
@@ -243,7 +239,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=210)** So there's a whole bunch of applications that can actually help you.
 >
-> **[3:34](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=214)** NPM as an audit that can actually do a full report of what are the dependencies that are in trouble in your application, but using something like SNIc actually gets deeper into that dependency-check and allows you to even have proactive patches suggested to you.
+> **[3:34](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=214)** [[npm]] as an audit that can actually do a full report of what are the dependencies that are in trouble in your application, but using something like SNIc actually gets deeper into that dependency-check and allows you to even have proactive patches suggested to you.
 >
 > **[3:53](https://www.linkedin.com/learning/node-js-security-24512656/owasp-top-10-in-nodejs?u=76281980&t=233)** I would always be careful by applying the patches automatically.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Node.js]] (6), application (6), [[OWASP]] (4), web (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (6), [[OWASP]] (4), [[SaaS]] (1), [[npm]] (1)
 > **CLI Commands:** node (6), make (5), find (1), npm (1)
 > **File Paths:** node.js (6)
 > **UI Navigation:** scroll down (4), open the (1), click on (1)
@@ -282,8 +278,7 @@ created: 2026-05-02
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Warnings:** be careful (1)
 
-#### Overview of broken access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980)
+#### [Overview of broken access control](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980&t=109)** So see what we're doing here, we're actually making sure that there's a check that the user is logged in first, and then when we're here, we're checking if the user's logged in.
 >
-> **[2:01](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980&t=121)** Then you can reply with the JSON return data, and that's extremely important.
+> **[2:01](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980&t=121)** Then you can reply with the [[JSON]] return data, and that's extremely important.
 >
 > **[2:06](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-broken-access-control?u=76281980&t=126)** So if the logged in user, Alice, can access the profile one, it's because it matches her ID here when she's logged in.
 >
@@ -323,7 +318,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), api (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** idor (1), api (1), url (1), json (1)
 > **CLI Commands:** make (1)
 > **Tools:** visual studio (1)
@@ -331,18 +326,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of cryptographic failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980)
+#### [Overview of cryptographic failures](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=0)** - [Instructor] Okay, so let's go back to [OWASP.org](https://OWASP.org), and we're going to be talking about cryptographic failures.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=0)** - [Instructor] Okay, so let's go back to [[[OWASP]].org](https://OWASP.org), and we're going to be talking about cryptographic failures.
 >
 > **[0:06](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=6)** So you can find this in the OWASP Top Ten from the Projects, and then scroll down all the way to here, and then this is the page on this particular threat.
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=19)** So cryptographic failures occur when applications improperly implement or manage cryptographic processes, leading to vulnerabilities that can expose sensitive data to unauthorized access.
 >
-> **[0:31](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=31)** Common issues include using outdated or weak encryption algorithms, improper key management is a big one, and transmitting data without encryption.
+> **[0:31](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=31)** Common issues include using outdated or weak encryption [[Algorithms]], improper key management is a big one, and transmitting data without encryption.
 >
 > **[0:41](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=41)** These failures can result in data breaches, identity theft, and other security incidents.
 >
@@ -394,9 +388,9 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=163)** It also uses a proper key management and a real world scenario you want to securely store and manage keys using the appropriate key management system.
 >
-> **[2:51](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=171)** So for example, in most cases, you want to use, for example, on a Mac, Keychain, or something similar in Windows.
+> **[2:51](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=171)** So for example, in most cases, you want to use, for example, on a Mac, Keychain, or something similar in [[Windows]].
 >
-> **[2:59](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=179)** You also want to consider things that are even more secure, like the TPN security enclave, or even a hardware module, which is a HSM in the industry.
+> **[2:59](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=179)** You also want to consider things that are even more secure, like the TPN security enclave, or even a [[Hardware]] module, which is a HSM in the industry.
 >
 > **[3:11](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=191)** So you want to use something external that you can actually remove from your computer and have your keys stored in there to make sure the key is not left in the open for the hacker to find it.
 >
@@ -404,15 +398,15 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=215)** So why do I say this is a better cryptographic approach as opposed to a stronger one, or the best one?
 >
-> **[3:42](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=222)** While it is secure today, we must acknowledge that it could become vulnerable in the future, especially with the event of quantum computing.
+> **[3:42](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=222)** While it is secure today, we must acknowledge that it could become vulnerable in the future, especially with the event of [[Quantum Computing]].
 >
 > **[3:51](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=231)** Quantum technologies have the potential to make decrypting current encryption standards much easier.
 >
-> **[3:57](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=237)** This is why I strongly recommend staying informed and updated in cryptography and monitoring how advancements in computing and power, particularly in quantum computing, may impact the security of these ciphers.
+> **[3:57](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-cryptographic-failures?u=76281980&t=237)** This is why I strongly recommend staying informed and updated in [[Cryptography]] and monitoring how advancements in computing and power, particularly in quantum computing, may impact the security of these ciphers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (4), management (3), [[OWASP]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Algorithms]] (2), [[Quantum Computing]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** owasp (2), aes (2), des (1), cbc (1), tpn (1)
 > **Definitions:** is a  (5), is an  (1)
 > **CLI Commands:** find (2), make (2)
@@ -421,8 +415,7 @@ created: 2026-05-02
 > **URLs:** [owasp.org](https://owasp.org) (1)
 > **Cross-References:** go back to (1)
 
-#### Overview of injections
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980)
+#### [Overview of injections](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -430,25 +423,25 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=14)** So let's explore that one a little bit.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=16)** So let's go back to OWASP top 10, and let's scroll down to injection.
+> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=16)** So let's go back to [[OWASP]] top 10, and let's scroll down to injection.
 >
-> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=23)** These threats exploit weak input validation and improper handling of user data, posing risk to data integrity, confidentiality, and system functionality.
+> **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=23)** These threats exploit weak input validation and improper handling of user data, posing risk to [[Data Integrity]], confidentiality, and system functionality.
 >
-> **[0:35](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=35)** The most popular type of injection threat is SQL injection, and I'm going to show you an example shortly, where attackers manipulate database queries to access or alter sensitive information.
+> **[0:35](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=35)** The most popular type of injection threat is [[SQL]] injection, and I'm going to show you an example shortly, where attackers manipulate [[Database Queries]] to access or alter sensitive information.
 >
 > **[0:47](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=47)** Other common injection threats include cross-site scripting, which was on the previous version of this course, command injections, and LDAP injections, each targeting different systems and technologies.
 >
-> **[0:59](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=59)** Addressing these vulnerabilities require robust input validation and adherence to secure coding practices.
+> **[0:59](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=59)** Addressing these vulnerabilities require robust input validation and adherence to [[Secure Coding]] practices.
 >
 > **[1:06](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=66)** So cross-site scripting very quickly needs to be on top of your list.
 >
 > **[1:10](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=70)** This particular attack is when a malicious script is injected into a trusted site.
 >
-> **[1:15](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=75)** For example, add JavaScript code into an unsuspecting input in a form.
+> **[1:15](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=75)** For example, add [[JavaScript]] code into an unsuspecting input in a form.
 >
-> **[1:20](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=80)** So for example, if we went to any websites, for example, let's go to Google, and Google is pretty much secure, but I could, if not secure, input a script in here and basically do all kinds of no goods in a Google query.
+> **[1:20](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=80)** So for example, if we went to any websites, for example, let's go to [[Google]], and Google is pretty much secure, but I could, if not secure, input a script in here and basically do all kinds of no goods in a Google query.
 >
-> **[1:37](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=97)** So some example of these attacks have been pulling data from cookies, session tokens, and all kinds of sensitive information.
+> **[1:37](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=97)** So some example of these attacks have been pulling data from cookies, session [[Tokens]], and all kinds of sensitive information.
 >
 > **[1:45](https://www.linkedin.com/learning/node-js-security-24512656/overview-of-injections?u=76281980&t=105)** But let me demonstrate a SQL injection attack.
 >
@@ -504,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (8), data (6), database (3), [[Scripting]] (3), [[Google]] (3)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Google]] (3), [[OWASP]] (2), [[Data Integrity]] (1), [[Database Queries]] (1)
 > **Env Vars:** sql (8), owasp (2), ldap (2), http (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
@@ -518,8 +511,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hands-on base template overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
+#### [Hands-on base template overview](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,9 +541,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=70)** So I'm going to go into this project here and first make sure that everything runs properly.
 >
-> **[1:16](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=76)** What you need to have installed prior to run the project is MongoDB inside of your computer.
+> **[1:16](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=76)** What you need to have installed prior to run the project is [[MongoDB]] inside of your computer.
 >
-> **[1:22](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=82)** Whether it's on Windows or Mac or Linux, you need to install MongoDB.
+> **[1:22](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=82)** Whether it's on [[Windows]] or Mac or [[Linux]], you need to install MongoDB.
 >
 > **[1:28](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=88)** So what you need to do is go to MongoDB and find the community download, the community version, and then install that version.
 >
@@ -571,7 +563,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=143)** And then cd CRM.
 >
-> **[2:27](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=147)** And then what I'm going to do is first of all, an npm i to make sure that I install all the dependencies that are part of this project.
+> **[2:27](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=147)** And then what I'm going to do is first of all, an [[npm]] i to make sure that I install all the dependencies that are part of this project.
 >
 > **[2:38](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=158)** And as you can see already, we can see that there's a lot of stuff that's deprecated in this project.
 >
@@ -617,7 +609,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=262)** And then we have the controllers, basically the functions that are returning whatever we need from the database as we add new elements to the API.
 >
-> **[4:31](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=271)** So the get command basically gets the contacts and then returns through the Mongo server and finds all the contacts and then responds with a JSON file and so on, so forth.
+> **[4:31](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=271)** So the get command basically gets the contacts and then returns through the Mongo server and finds all the contacts and then responds with a [[JSON]] file and so on, so forth.
 >
 > **[4:44](https://www.linkedin.com/learning/node-js-security-24512656/hands-on-base-template-overview?u=76281980&t=284)** So this is the main functions that we have.
 >
@@ -629,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (9), database (4), [[Security]] (2), cd (2), [[npm]] (2)
+> **Frameworks & Libraries:** [[MongoDB]] (9), [[npm]] (2), [[Windows]] (1), [[Linux]] (1), [[JSON]] (1)
 > **CLI Commands:** make (3), cd (2), npm (2), find (1), ls (1)
 > **Env Vars:** crm (7), fyi (1), api (1), json (1)
 > **Tools:** vs code (3), terminal (2)
@@ -638,14 +630,13 @@ created: 2026-05-02
 > **Ports:** port 3000 (2)
 > **Exercise Files:** exercise files (2)
 
-#### Maintain package dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980)
+#### [Maintain package dependencies](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=0)** - [Instructor] Let's explore what commands are available to maintain our dependencies, therefore making our application more secure.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=8)** This is one of the biggest items you need to constantly work on in order to properly secure applications built with Node.js.
+> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=8)** This is one of the biggest items you need to constantly work on in order to properly secure applications built with [[Node.js]].
 >
 > **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=16)** There are reasons why dependencies are updated, and sometimes the cause of their update is due to recently found vulnerabilities in their code.
 >
@@ -659,7 +650,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=49)** Once you've done that, there's a command that will give you a really good report on what is updated in your current project.
 >
-> **[0:58](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=58)** So it's called npm adit.
+> **[0:58](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=58)** So it's called [[npm]] adit.
 >
 > **[1:02](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=62)** Okay, so let's scroll up and take a look at the report that we just got.
 >
@@ -711,7 +702,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=235)** Now I've used npm update and npm install on and off in between the two, and sometimes the update doesn't work the way it's supposed to.
 >
-> **[4:06](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=246)** So what I usually do, instead of doing the update, I use the install and use the exact same thing for the rest.
+> **[4:06](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=246)** So what I usually do, instead of doing the update, I use the install and use the exact same thing for the [[Representational State Transfer (REST)|rest]].
 >
 > **[4:13](https://www.linkedin.com/learning/node-js-security-24512656/maintain-package-dependencies?u=76281980&t=253)** So nodemon and at 3.1.7, and FYI, i is short for install.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[npm]] (7), [[Node.js]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[npm]] (7), [[Node.js]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** npm (7), make (6), node (1), find (1)
 > **Versions:** 3.1.7 (3), 8.83 (1), 3.1 (1)
 > **Prerequisites:** install (4)
@@ -742,12 +733,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **File Paths:** node.js (1)
 
-#### Add 2-factor and read-only tokens with NPM
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980)
+#### [Add 2-factor and read-only tokens with NPM](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=0)** - [Narrator] Protecting your account and access to your package is crucial, especially if you publish packages to npm and want to restrict access to them.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=0)** - [Narrator] Protecting your account and access to your package is crucial, especially if you publish packages to [[npm]] and want to restrict access to them.
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=9)** So let me demonstrate how this works.
 >
@@ -773,7 +763,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=88)** The next thing you need to do, once you have that, your profile or your account is secure.
 >
-> **[1:33](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=93)** The next thing you need to do is basically click to access tokens.
+> **[1:33](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=93)** The next thing you need to do is basically click to access [[Tokens]].
 >
 > **[1:38](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=98)** And this is how the applications that you're going to use are going to access your npm packages.
 >
@@ -793,7 +783,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=130)** So is it read your npm packages only?
 >
-> **[2:13](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=133)** Is it to publish to your npm accounts or is it automation?
+> **[2:13](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=133)** Is it to publish to your npm accounts or is [[IT Automation]]?
 >
 > **[2:19](https://www.linkedin.com/learning/node-js-security-24512656/add-2-factor-and-read-only-tokens-with-npm?u=76281980&t=139)** So for example, in CI/CD for Travis, that would work, but I'm going to basically call this automation because this is for Travis.
 >
@@ -815,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (9), next (2), [[Security]] (1), [[Tokens]] (1), [[IT Automation]] (1)
+> **Frameworks & Libraries:** [[npm]] (9), [[Tokens]] (1), [[IT Automation]] (1)
 > **CLI Commands:** npm (9), make (2), cd (1)
 > **UI Navigation:** go to (3)
 > **Analogies:** for example (3)
@@ -829,8 +819,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data handling with type and validation
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
+#### [Data handling with type and validation](https://www.linkedin.com/learning/node-js-security-24512656/data-handling-with-type-and-validation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -920,7 +909,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), next (1), database (1), api (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (3), similar to (1)
 > **File Paths:** validator.js (3)
@@ -928,9 +916,9 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
+> **Prerequisites:** set up (1)
 
-#### Use prepared statements for SQL and NoSQL
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980)
+#### [Use prepared statements for SQL and NoSQL](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -938,9 +926,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=8)** And then as the command is executed, the empty values are replaced with the data needed to fulfill the query.
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=16)** The beauty of most of today's tools for querying databases is that they already include them.
+> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=16)** The beauty of most of today's tools for querying [[Databases]] is that they already include them.
 >
-> **[0:21](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=21)** So if you are using Mongoose for MongoDB or Sequelize to query SQL databases, you've got this area covered already.
+> **[0:21](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=21)** So if you are using Mongoose for [[MongoDB]] or Sequelize to query [[SQL]] databases, you've got this area covered already.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-security-24512656/use-prepared-statements-for-sql-nosql?u=76281980&t=29)** So the general guideline here is to use those tools, like we're doing in our application.
 >
@@ -956,7 +944,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), database (2), data (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (2), [[MongoDB]] (1)
 > **CLI Commands:** find (2), make (1), mongo (1)
 > **URLs:** [mongoosejs.com](https://mongoosejs.com) (1), [sequelize.com](https://sequelize.com) (1)
 > **Env Vars:** sql (2)
@@ -965,18 +953,17 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 
-#### Set proper HTTP headers with Helmet
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980)
+#### [Set proper HTTP headers with Helmet](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=0)** - [Instructor] Headers are key value pairs sent between a client, the browser, and the server in an HTTP request or response, carrying metadata such as content type, caching rules and security instructions.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=0)** - [Instructor] Headers are key value pairs sent between a client, the browser, and the server in an HTTP request or response, carrying [[Metadata]] such as content type, caching rules and security instructions.
 >
 > **[0:15](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=15)** They play a crucial role in web communication, but can introduce vulnerabilities if not properly configured.
 >
 > **[0:21](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=21)** To secure headers, it's essential to set rules that prevent exploits like cross-site scripting, clickjacking, and information leaks.
 >
-> **[0:31](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=31)** Helmet.js, which is a Node.js middleware, simplifies header security by automatically configuring critical HTTP headers, and enforces best practices such as enabling content security policy, X frame options to prevent clickjacking and strict transport security for HTTPS-only communication, it makes the web applications significantly more secure with minimal efforts.
+> **[0:31](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=31)** Helmet.js, which is a [[Node.js]] middleware, simplifies header security by automatically configuring critical HTTP headers, and enforces best practices such as enabling content security policy, X frame options to prevent clickjacking and strict transport security for HTTPS-only communication, it makes the web applications significantly more secure with minimal efforts.
 >
 > **[0:58](https://www.linkedin.com/learning/node-js-security-24512656/set-proper-http-headers-with-helmet?u=76281980&t=58)** So the way it works is basically you import Helmet into your express project and then you can set all the headers that are right here.
 >
@@ -990,7 +977,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), web (2), [[Scripting]] (2), [[Metadata]] (1), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Node.js]] (1)
 > **Env Vars:** http (2), https (1)
 > **Analogies:** such as (2), for example (1)
 > **File Paths:** helmet.js (1), node.js (1)
@@ -999,12 +986,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encrypt user data and session management
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980)
+#### [Encrypt user data and session management](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=0)** - [Instructor] Another strong recommendation for properly securing your Node.js application is to encrypt your user data across all communication channels.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=0)** - [Instructor] Another strong recommendation for properly securing your [[Node.js]] application is to encrypt your user data across all communication channels.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=10)** So when your server and client are exchanging data, use Node.js package like crypto.
 >
@@ -1016,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=40)** So let's say for example, you want to encrypt the data, you would go and use the class Cipher.
 >
-> **[0:47](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=47)** So in the Cipher you would select the algorithms.
+> **[0:47](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=47)** So in the Cipher you would select the [[Algorithms]].
 >
 > **[0:50](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=50)** So in this case, this the aes-192-cbc.
 >
@@ -1028,7 +1014,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=65)** And this should be both on your client and on your server side.
 >
-> **[1:09](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=69)** And then you would create through the actual Cipher the new word, and set the encoding.
+> **[1:09](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=69)** And then you would create through the actual Cipher the new [[Microsoft Word|word]], and set the encoding.
 >
 > **[1:15](https://www.linkedin.com/learning/node-js-security-24512656/encrypt-user-data-session-management?u=76281980&t=75)** And let's say for example, you want to cipher or encrypt some clear text data, that's what it would happen and would encrypt the data.
 >
@@ -1076,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), application (3), database (3), [[Node.js]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[Algorithms]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), node (2)
 > **Code Identifiers:** localstorage (5), sessionstorage (2)
 > **Analogies:** for example (6)
@@ -1090,8 +1076,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use secure HTTPS protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
+#### [Use secure HTTPS protocol](https://www.linkedin.com/learning/node-js-security-24512656/use-secure-https-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1106,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), web (2), cloud (1)
 > **Env Vars:** https (3), ssl (2), isp (1)
 > **Prerequisites:** install (3)
 > **CLI Commands:** make (1)
@@ -1129,8 +1113,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rate limiting against DoS attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980)
+#### [Rate limiting against DoS attacks](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1123,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=17)** And this can be prevented from an express middleware called Express rate-limit.
 >
-> **[0:22](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=22)** There is also a module called Rate limiter, but it has a Redis dependency.
+> **[0:22](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=22)** There is also a module called Rate limiter, but it has a [[Redis]] dependency.
 >
 > **[0:27](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=27)** So if you're not a fan of adding extra packages when not needed, then use the express one.
 >
@@ -1154,7 +1137,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=55)** Okay, so now we're going to install Express-rate-limit, and I'm going to also install L Map because I want to set it up as well in this video.
 >
-> **[1:03](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=63)** So I'm going to do pseudo NPM, and I need to do pseudo on this one.
+> **[1:03](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=63)** So I'm going to do pseudo [[npm]], and I need to do pseudo on this one.
 >
 > **[1:10](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=70)** Express-rate-limit, and helmet, like so.
 >
@@ -1186,7 +1169,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=178)** And that's basically what it is.
 >
-> **[3:01](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=181)** So I'm going to do Windows MS and we're going to do it 15 times.
+> **[3:01](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=181)** So I'm going to do [[Windows]] MS and we're going to do it 15 times.
 >
 > **[3:09](https://www.linkedin.com/learning/node-js-security-24512656/rate-limiting-against-dos-attacks?u=76281980&t=189)** And as you can clearly see, there's a lot of suggestions that happens in the background here.
 >
@@ -1212,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (8), [[Redis]] (2), application (2), [[npm]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Redis]] (2), [[npm]] (1), [[Windows]] (1)
 > **Prerequisites:** set up (5), install (2), setup (1)
 > **Env Vars:** mpm (1), crm (1), npm (1), dos (1)
 > **Cross-References:** go back to (2)
@@ -1221,20 +1204,19 @@ created: 2026-05-02
 > **CLI Commands:** npm (1)
 > **Documentation:** the documentation (1)
 
-#### Use a library to prevent CSRF attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980)
+#### [Use a library to prevent CSRF attacks](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=0)** - [Instructor] In the modern web landscape, cross-site request forgery continues to be a significant security threat.
 >
-> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=8)** Despite an advancements in security tools and practices, the risk associated with CSRF attacks remain high, particularly for applications where users frequently interact with forms, or APIs while authenticated.
+> **[0:08](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=8)** Despite an advancements in security tools and practices, the risk associated with CSRF attacks remain high, particularly for applications where users frequently interact with [[Forms]], or APIs while authenticated.
 >
 > **[0:22](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=22)** CSRF attacks exploit the trust a web application has in a user's browser.
 >
 > **[0:28](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=28)** They occur when malicious actors trick authenticated users into unknowingly executing unwanted actions on the web application.
 >
-> **[0:38](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=38)** So how it works, a user logs into a trusted website and establishes a session via cookies or tokens, and then the attackers lures the user into clicking a malicious link or loading a harmful resource on another site.
+> **[0:38](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=38)** So how it works, a user logs into a trusted website and establishes a session via cookies or [[Tokens]], and then the attackers lures the user into clicking a malicious link or loading a harmful resource on another site.
 >
 > **[0:53](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=53)** Then, without the user knowledge, this link initiates actions, like, for example, in transferring money or changing account settings on the trusted website, leveraging the user's authenticated session.
 >
@@ -1244,7 +1226,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=76)** So basically, this is what we're looking at, double CSRF.
 >
-> **[1:21](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=81)** So one of the best way to mitigate CSRF risk and Node.js is to adopt robust and modern protection mechanisms.
+> **[1:21](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=81)** So one of the best way to mitigate CSRF risk and [[Node.js]] is to adopt robust and modern protection mechanisms.
 >
 > **[1:29](https://www.linkedin.com/learning/node-js-security-24512656/use-a-library-to-prevent-crsf-attacks?u=76281980&t=89)** And this is where csrf-csrf library comes in.
 >
@@ -1268,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (4), [[Security]] (3), web application (3), web (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (4), [[Forms]] (1), [[Node.js]] (1)
 > **Env Vars:** csrf (5), post (1), put (1), delete (1)
 > **File Paths:** node.js (1)
 > **CLI Commands:** node (1)
@@ -1277,8 +1259,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use cookie attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980)
+#### [Use cookie attributes](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=9)** For example, the secure attribute ensures that a cookie is only sent over HTTPS, safeguarding its transmission.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=18)** The HTTPOnly attribute prevents the cookie from being accessed by JavaScript, offering protection against cross site scripting attacks, and so on so forth.
+> **[0:18](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=18)** The HTTPOnly attribute prevents the cookie from being accessed by [[JavaScript]], offering protection against cross site scripting attacks, and so on so forth.
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=29)** The SameSite attribute restricts cookies from being sent with cross site requests, offering options such as restrict to block all cross origin requests, lags for limited cross origin navigation, and non-fulfill cross site functionality, which requires the secure attribute.
 >
@@ -1300,7 +1281,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=80)** The first one is cookie.
 >
-> **[1:22](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=82)** Cookie is a basic HTTP cookie parser and serializer for node.js.
+> **[1:22](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=82)** Cookie is a basic HTTP cookie parser and serializer for [[Node.js]].
 >
 > **[1:27](https://www.linkedin.com/learning/node-js-security-24512656/use-cookie-attributes?u=76281980&t=87)** It allows parsing of the cookie header and serialization of set cookie headers enabling manual control over cookie attributes like Secure, HTTPOnly, domain, path, and expires.
 >
@@ -1316,7 +1297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), express (2), [[JavaScript]] (1), [[Scripting]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1), [[Node.js]] (1)
 > **Env Vars:** http (2), https (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (2)
@@ -1329,22 +1310,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to OWASP dependency check
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
+#### [Introduction to OWASP dependency check](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=0)** - [Narrator] OWASP Dependency-Check is a tool that analyzes your project's dependencies and checks for known issues.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=0)** - [Narrator] [[OWASP]] Dependency-Check is a tool that analyzes your project's dependencies and checks for known issues.
 >
 > **[0:07](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=7)** So the way it works, go to [owasp.org/www-project-dependency-check](https://owasp.org/www-project-dependency-check).
 >
-> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=16)** Once you get there, you can search it on Google.
+> **[0:16](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=16)** Once you get there, you can search it on [[Google]].
 >
 > **[0:19](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=19)** So once you get there, scroll down, and it explains basically what it is.
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=23)** But in short, it checks for all your dependencies for these issues here, the CPEs and the CVEs.
 >
-> **[0:32](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=32)** So Common Vulnerability and Exposure and Common Platform Enumeration, which are basically things that are going just a tap further than a NPM audit.
+> **[0:32](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=32)** So Common Vulnerability and Exposure and Common Platform Enumeration, which are basically things that are going just a tap further than a [[npm]] audit.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-security-24512656/introduction-to-owasp-dependency-check?u=76281980&t=42)** It's really, really detailed.
 >
@@ -1374,7 +1354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), [[Search]] (1), [[Google]] (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Google]] (1), [[npm]] (1)
 > **CLI Commands:** npm (1), brew (1), make (1)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Env Vars:** owasp (1), npm (1)
@@ -1383,8 +1363,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
 
-#### Find vulnerabilities with Snyk
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980)
+#### [Find vulnerabilities with Snyk](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,7 +1375,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=18)** So the way you work with Snyk is, well, first of all, I have an account and I'm using it personally and we're using it professionally with my company.
 >
-> **[0:28](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=28)** So basically what you do is log in first and you would log in usually with your GitHub account if you have all your repos on your GitHub account.
+> **[0:28](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=28)** So basically what you do is log in first and you would log in usually with your [[GitHub]] account if you have all your repos on your GitHub account.
 >
 > **[0:42](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=42)** So once you're logged in, you need to basically authorize Snyk to go into your GitHub account.
 >
@@ -1406,9 +1385,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=65)** So what it would do is basically give you the very critical issues, the high level issues, moderate, and then low.
 >
-> **[1:14](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=74)** So if we look at that package.json, it would give you what are the issues.
+> **[1:14](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=74)** So if we look at that package.[[JSON]], it would give you what are the issues.
 >
-> **[1:20](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=80)** So for example, on this one here, for React Script, you have Regular Expression Denial of Service, that could be an issue.
+> **[1:20](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=80)** So for example, on this one here, for [[React.js|React]] Script, you have Regular Expression Denial of Service, that could be an issue.
 >
 > **[1:28](https://www.linkedin.com/learning/node-js-security-24512656/find-vulnerabilities-with-snyk?u=76281980&t=88)** And then you have Incomplete List of Disallowed with this react script and so on, so forth.
 >
@@ -1432,7 +1411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (2), application (2), [[JSON]] (1), feature (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[React.js|React]] (2), [[JSON]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
@@ -1440,8 +1419,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penetration testing with Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980)
+#### [Penetration testing with Burp Suite](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1451,7 +1429,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980&t=29)** Once set up, Burp's automated scans can save you a lot of time of researching or going through reports since you've specified exactly what you wanted to scan.
 >
-> **[0:39](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980&t=39)** Although the paid version is a bit hefty, if you're looking for this type of granularity, Burp can be a strong tool in your shed, but if you're looking for more automated reports and are already a heavy user of GitHub repos, then Snyk might make more sense to you.
+> **[0:39](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980&t=39)** Although the paid version is a bit hefty, if you're looking for this type of granularity, Burp can be a strong tool in your shed, but if you're looking for more automated reports and are already a heavy user of [[GitHub]] repos, then Snyk might make more sense to you.
 >
 > **[0:55](https://www.linkedin.com/learning/node-js-security-24512656/penetration-testing-with-burp?u=76281980&t=55)** Take a look at all these tools that we've explored in this course, and you have a really good set of tools that you can use to evaluate your projects, your dependencies, and so on, so forth.
 
@@ -1471,18 +1449,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=0)** - [Instructor] This course was an exploration of security best practices with Node.js.
+> **[0:00](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=0)** - [Instructor] This course was an exploration of security best practices with [[Node.js]].
 >
 > **[0:05](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=5)** Needless to say, this is a much deeper subject and no one course could give it justice.
 >
 > **[0:10](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=10)** Always go back to the tools and explore to analyze your code and look for new threats and how they impact your code.
 >
-> **[0:18](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=18)** Make sure you explore them in OWASP and see how it impacts your application.
+> **[0:18](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=18)** Make sure you explore them in [[OWASP]] and see how it impacts your application.
 >
 > **[0:23](https://www.linkedin.com/learning/node-js-security-24512656/next-steps?u=76281980&t=23)** OWASP should always be your first place to go for that type of information.
 >
@@ -1500,7 +1477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Node.js]] (2), [[OWASP]] (2), application (1), api (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[OWASP]] (2)
 > **CLI Commands:** node (2), make (2), find (1)
 > **Env Vars:** owasp (2), api (1)
 > **File Paths:** node.js (2)

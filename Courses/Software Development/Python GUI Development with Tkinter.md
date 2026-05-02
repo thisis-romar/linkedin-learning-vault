@@ -110,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a GUI for your Python desktop application
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980)
+#### [Create a GUI for your Python desktop application](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=0)** - Hi, I'm Barron Stone and welcome to Python GUI Development with Tkinter.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=0)** - Hi, I'm Barron Stone and welcome to [[Python (Programming Language)|Python]] GUI Development with [[Tkinter]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=6)** In this course, you'll see how to build a functional and professional looking graphical user interface for your Python applications.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=42)** I'll show you the three different ways to manage the placement of those widgets on your GUI, and understand when it's appropriate to use each of those methods.
 >
-> **[0:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=50)** And finally, a graphical user interface isn't very useful if it doesn't react to a user's actions.
+> **[0:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=50)** And finally, a graphical user interface isn't very useful if it doesn't [[React.js|react]] to a user's actions.
 >
 > **[0:56](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/create-a-gui-for-your-python-desktop-application?u=76281980&t=56)** So, we'll take a look at how to use event driven programming in Tk to execute the appropriate code when user actions or events occur.
 >
@@ -137,22 +136,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Tkinter]] (4), functional (1), [[React.js|React]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Tkinter]] (4), [[React.js|React]] (1)
 > **CLI Commands:** python (6)
 > **Env Vars:** gui (6)
 > **Prerequisites:** configure (1)
 > **Speakers:** - hi (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=0)** - [Barron] Before you begin this course you should already have a basic, working knowledge of Python and be comfortable writing and executing your own Python programs.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=0)** - [Barron] Before you begin this course you should already have a basic, working knowledge of [[Python (Programming Language)|Python]] and be comfortable writing and executing your own Python programs.
 >
 > **[0:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=8)** If you're not already familiar with Python then I highly recommend taking one of the other beginner courses that are available on [Lynda.com](https://Lynda.com) first.
 >
-> **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=16)** Once you're comfortable with the material in those courses you'll be ready to tackle Python GUI Development with Tkinter.
+> **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=16)** Once you're comfortable with the material in those courses you'll be ready to tackle Python GUI Development with [[Tkinter]].
 >
 > **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/what-you-should-know?u=76281980&t=22)** This course assumes you already have Python installed on your machine and have it configured for the development environment of your choice.
 >
@@ -185,8 +183,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Warnings:** keep in mind (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,35 +193,33 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980&t=15)** For video segments in which I'll use IDLE as the interactive shell to demonstrate creating and configuring widgets the example files will contain the series of commands that I enter into IDLE for you to use as a reference.
 >
-> **[0:28](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980&t=28)** I'll also add some additional code around those commands such as print statements so that the example file can be run as a stand-alone Python program and give you similar outputs to the console.
+> **[0:28](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980&t=28)** I'll also add some additional code around those commands such as print statements so that the example file can be run as a stand-alone [[Python (Programming Language)|Python]] program and give you similar outputs to the console.
 >
 > **[0:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-exercise-files?u=76281980&t=39)** For other video segments where I use IDLE to write short programs as a text editor I'll include the starting template file so you can use it to follow along and practice programming as well as the final resulting files created in the video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** idle (3)
 > **Exercise Files:** exercise files (1), template (1)
 > **CLI Commands:** python (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [barron] (1)
 
-#### 2023 Update
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/2023-update?u=76281980)
+#### [2023 Update](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/2023-update?u=76281980)
 
 
 ### 1. Getting Started with Python and Tkinter
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Python 3 and Tcl/Tk for Windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980)
+#### [Installing Python 3 and Tcl/Tk for Windows](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980&t=0)** - [Instructor] If you're a Windows user, you're in luck.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980&t=0)** - [Instructor] If you're a [[Windows]] user, you're in luck.
 >
-> **[0:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980&t=2)** Because the standard Python Windows installer includes both Tcl/TK and the Tkinter Python module.
+> **[0:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980&t=2)** Because the standard [[Python (Programming Language)|Python]] Windows installer includes both Tcl/TK and the [[Tkinter]] Python module.
 >
 > **[0:09](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-windows?u=76281980&t=9)** This makes the installation process very simple.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (18), [[Python (Programming Language)|Python]] (16), [[Windows]] (6), next (3), feature (2)
+> **Frameworks & Libraries:** [[Tkinter]] (18), [[Python (Programming Language)|Python]] (16), [[Windows]] (6)
 > **CLI Commands:** python (16)
 > **Env Vars:** idle (10), gui (1)
 > **Versions:** python 3 (2), 4.1 (1)
@@ -309,14 +304,13 @@ created: 2026-05-02
 > **Code Identifiers:** import_tkinter (1)
 > **URLs:** [python.org](https://python.org) (1)
 
-#### Installing Python 3 and Tcl/Tk for Mac
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980)
+#### [Installing Python 3 and Tcl/Tk for Mac](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980&t=0)** - [Instructor] The Mac operating system comes pre-installed with Python.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980&t=0)** - [Instructor] The Mac operating system comes pre-installed with [[Python (Programming Language)|Python]].
 >
-> **[0:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980&t=3)** However, the default Mac Python installation may not include the correct version of Tcl/Tk to use Tkinter.
+> **[0:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980&t=3)** However, the default Mac Python installation may not include the correct version of Tcl/Tk to use [[Tkinter]].
 >
 > **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/installing-python-3-and-tcl-tk-for-mac?u=76281980&t=10)** Also, the Mac OS typically includes Python 2, whereas this course is oriented around using Python 3.
 >
@@ -436,7 +430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (27), [[Tkinter]] (15), prompt (3), next (2), hit (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (27), [[Tkinter]] (15)
 > **CLI Commands:** python (27), find (2)
 > **Versions:** python 3 (10), 8.5 (2), 8.5.15 (2), python 2 (1), 10.6 (1)
 > **UI Navigation:** click on (6), go to (3), scroll down (2), select the (2), navigate to (2)
@@ -445,14 +439,13 @@ created: 2026-05-02
 > **Tools:** command prompt (1), terminal (1)
 > **Definitions:** means that (2)
 
-#### Saying hello to Tkinter
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980)
+#### [Saying hello to Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980&t=0)** - [Instructor] Now that we verified that Tcl/Tk and the Tk intermodule are installed and working correctly on our machine, let's run our first Python program with a simple GUI window.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980&t=0)** - [Instructor] Now that we verified that Tcl/Tk and the Tk intermodule are installed and working correctly on our machine, let's run our first [[Python (Programming Language)|Python]] program with a simple GUI window.
 >
-> **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980&t=10)** And in sticking with programming tradition, let's say hello to Tkinter.
+> **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980&t=10)** And in sticking with programming tradition, let's say hello to [[Tkinter]].
 >
 > **[0:14](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/saying-hello-to-tkinter?u=76281980&t=14)** If you navigate to the exercise files, and go into the chapter one directory, you'll find a file called hello_tkinter.
 >
@@ -492,7 +485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (7), [[Python (Programming Language)|Python]] (6), [[Programming]] (1), management (1)
+> **Frameworks & Libraries:** [[Tkinter]] (7), [[Python (Programming Language)|Python]] (6)
 > **CLI Commands:** python (6), find (1), make (1)
 > **Versions:** python 2 (3), python 3 (2)
 > **Env Vars:** idle (2), gui (1)
@@ -506,22 +499,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tk and Tkinter background
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980)
+#### [Tk and Tkinter background](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=0)** - Before we dive into learning about Python and Tkinter let's talk a little bit about what Tk is first.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=0)** - Before we dive into learning about [[Python (Programming Language)|Python]] and [[Tkinter]] let's talk a little bit about what Tk is first.
 >
 > **[0:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=6)** Tk is an open source toolkit used to develop graphical user interfaces.
 >
 > **[0:11](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=11)** It provides a library of interactive widgets which are GUI elements, commonly used in desktop applications.
 >
-> **[0:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=18)** These are things like buttons, menus, windows and text entry fields.
+> **[0:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=18)** These are things like buttons, menus, [[Windows]] and text entry fields.
 >
 > **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=22)** Tk was developed back in the early '90s as an extension for a scripting language called Tool Command Language, which is abbreviated as Tcl and often pronounced tickle.
 >
-> **[0:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=33)** It was designed to be platform independent and has since been ported to run on most versions of Windows, Mac OS, Unix or Linux.
+> **[0:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=33)** It was designed to be platform independent and has since been ported to run on most versions of Windows, Mac OS, Unix or [[Linux]].
 >
 > **[0:40](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/tk-and-tkinter-background?u=76281980&t=40)** This means that if you develop the GUI for your application using Tk, it'll be able to run on most common operating systems.
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Tkinter]] (5), [[Windows]] (4), application (2), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Tkinter]] (5), [[Windows]] (4), [[Linux]] (1)
 > **CLI Commands:** python (7), make (1)
 > **Env Vars:** gui (4)
 > **Versions:** version 8 (1), python 3 (1)
@@ -555,8 +547,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - before (1)
 
-#### Creating and configuring widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980)
+#### [Creating and configuring widgets](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,9 +559,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=16)** Widgets can also be used to display information to the user, ranging from a simple text label to a complex graphic on a canvas.
 >
-> **[0:24](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=24)** Each of these different types of widgets is defined as a class, within the Tkinter package.
+> **[0:24](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=24)** Each of these different types of widgets is defined as a class, within the [[Tkinter]] package.
 >
-> **[0:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=29)** When you add a widget to your program with Tkinter you're creating an instance of that class, a Python object.
+> **[0:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=29)** When you add a widget to your program with Tkinter you're creating an instance of that class, a [[Python (Programming Language)|Python]] object.
 >
 > **[0:36](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=36)** That object will store all of the configuration settings for that specific instance.
 >
@@ -580,7 +571,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=55)** You can make this hierarchy as deep as necessary for your program.
 >
-> **[0:59](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=59)** You can put controls inside of a frame, which is inside of another frame, inside of frames or windows and on and on and on, to organize your interface.
+> **[0:59](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=59)** You can put controls inside of a frame, which is inside of another frame, inside of frames or [[Windows]] and on and on and on, to organize your interface.
 >
 > **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-and-configuring-widgets?u=76281980&t=67)** The parent widget will act as the geometry manager to control how all of its child widgets are displayed.
 >
@@ -716,7 +707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (16), [[Python (Programming Language)|Python]] (5), [[Windows]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Tkinter]] (16), [[Python (Programming Language)|Python]] (5), [[Windows]] (2)
 > **CLI Commands:** python (5), make (4), find (1)
 > **Env Vars:** gui (1), idle (1), str (1), pack (1)
 > **Cross-References:** later in (2)
@@ -725,12 +716,11 @@ created: 2026-05-02
 > **File Paths:** button.config (1)
 > **UI Navigation:** click on (1)
 
-#### Managing widget placement
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980)
+#### [Managing widget placement](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=0)** - [Instructor] As you may have noticed in the previous video, just the act of creating a Tkinter widget did not make it visible.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=0)** - [Instructor] As you may have noticed in the previous video, just the act of creating a [[Tkinter]] widget did not make it visible.
 >
 > **[0:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=7)** For a widget to be displayed on screen, Tkinter needs to know exactly where to draw that widget.
 >
@@ -744,7 +734,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=34)** That master widget will use a Geometry Manager to control the placement of its slave widget.
 >
-> **[0:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=39)** Master widgets will typically be organizational containers like top-level windows or frames.
+> **[0:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=39)** Master widgets will typically be organizational containers like top-level [[Windows]] or frames.
 >
 > **[0:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=44)** Determining where exactly to place the slave widget is not always a simple problem.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=62)** What should it do with that extra space?
 >
-> **[1:04](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=64)** The Tk Geometry Manager considers size information about the master and its slaves along with instructions from the program to feed its internal algorithms.
+> **[1:04](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=64)** The Tk Geometry Manager considers size information about the master and its slaves along with instructions from the program to feed its internal [[Algorithms]].
 >
 > **[1:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/managing-widget-placement?u=76281980&t=73)** There are three geometry managers available in Tk each of which provides a different way for the program to describe widget locations.
 >
@@ -786,15 +776,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (2), application (2), management (1), [[Windows]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Windows]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** previous video (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling user events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980)
+#### [Handling user events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980&t=10)** A user interface that doesn't respond to user's actions wouldn't be very exciting.
 >
-> **[0:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980&t=15)** Tkinter uses a process called Event Handling to execute specific functions when certain inputs are received from the mouse, keyboard, and other sources.
+> **[0:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980&t=15)** [[Tkinter]] uses a process called Event Handling to execute specific functions when certain inputs are received from the mouse, keyboard, and other sources.
 >
 > **[0:25](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/handling-user-events?u=76281980&t=25)** In your Tkinter program you'll configure the specific events your program will listen for and respond to.
 >
@@ -854,7 +843,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (5), application (1), next (1)
+> **Frameworks & Libraries:** [[Tkinter]] (5)
 > **Analogies:** for example (4)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** find (1)
@@ -863,18 +852,17 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
 
-#### Revisiting Hello, Tkinter!
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980)
+#### [Revisiting Hello, Tkinter!](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=0)** - [Developer] We just finished a brief overview of widgets, geometry management and event handling in Tkinter.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=0)** - [Developer] We just finished a brief overview of widgets, geometry management and event handling in [[Tkinter]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=6)** Now, let's look at a more advanced version of the Hello Tkinter program from earlier written using object-oriented design, and our newly learned Tkinter concepts.
 >
 > **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=16)** I'm going to open up the exercise files that are included with this course and navigate to the Chapter Two directory.
 >
-> **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=22)** Inside there you'll find a Python file called hello_local and if you right click on that file, you can chose to open it with IDLE.
+> **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=22)** Inside there you'll find a [[Python (Programming Language)|Python]] file called hello_local and if you right click on that file, you can chose to open it with IDLE.
 >
 > **[0:31](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=31)** This is the IDLE text editor and from here, I can run the application by going to the Run dropdown menu, and selecting Run Module.
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=111)** Inside of this main function, we use the Tk constructor method to create a top-level Tk window named root, and we pass that to the helloApp constructor method to use as the master window.
 >
-> **[2:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=122)** Finally, we call the main loop method on that top-level window to enter into the Tk event loop where it will sit and wait to react to the button presses.
+> **[2:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=122)** Finally, we call the main loop method on that top-level window to enter into the Tk event loop where it will sit and wait to [[React.js|react]] to the button presses.
 >
 > **[2:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/revisiting-hello-tkinter?u=76281980&t=132)** By writing the script this way, we can also import this file as a module to be used by another Python program.
 >
@@ -930,7 +918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (12), [[Python (Programming Language)|Python]] (3), application (2), management (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (12), [[Python (Programming Language)|Python]] (3), [[React.js|React]] (1)
 > **Code Identifiers:** helloapp (3), texas_hello (2), hello_local (1), hawaii_hello (1)
 > **Env Vars:** gui (4), idle (2)
 > **Definitions:** is a  (5), is called (1)
@@ -944,8 +932,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Displaying text and images with labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980)
+#### [Displaying text and images with labels](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,9 +940,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=8)** Labels are typically used to identify controls or provide visual feedback to the user.
 >
-> **[0:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=12)** You've already seen the label widget used earlier for text, in the Hello Tkinter example, so let's go into detail about creating and configuring a label now.
+> **[0:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=12)** You've already seen the label widget used earlier for text, in the Hello [[Tkinter]] example, so let's go into detail about creating and configuring a label now.
 >
-> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=21)** In this video, I'm going to use the Python Shell as an interactive interpreter so you can see the results of each command as I execute them.
+> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=21)** In this video, I'm going to use the [[Python (Programming Language)|Python]] Shell as an interactive interpreter so you can see the results of each command as I execute them.
 >
 > **[0:28](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/displaying-text-and-images-with-labels?u=76281980&t=28)** As with all Tkinter programs, the first thing we need to do is import the Tkinter packager by typing from tkinter import asterisk, and then with the label, it exists within the themed Tk module, or .ttk module, so we'll need to import that, as well.
 >
@@ -1123,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (14), [[Python (Programming Language)|Python]] (7), next (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (14), [[Python (Programming Language)|Python]] (7)
 > **CLI Commands:** python (7), make (3)
 > **Prerequisites:** configure (10)
 > **Env Vars:** gui (2), left (1), right (1), center (1), gif (1)
@@ -1132,8 +1119,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), gotcha (1)
 > **Cross-References:** go back to (1)
 
-#### Capturing input with buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980)
+#### [Capturing input with buttons](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1131,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=13)** That means, in addition to defining the look and feel of a button, our program will also need to define the action it will perform when pressed.
 >
-> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=21)** I'll begin by importing the tkinter package by calling from tkinter import asterisk.
+> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=21)** I'll begin by importing the [[Tkinter]] package by calling from tkinter import asterisk.
 >
 > **[0:27](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=27)** And I'll also import the themed ttk module from tkinter import ttk.
 >
@@ -1163,7 +1149,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=59)** Now that I've created my button, I also need to use a geometry manager to add it to my window, so I'll call button.pack.
 >
-> **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=67)** You'll notice that this button is themed to look like the standard buttons in Windows 8, and that's because I used a ttk themed version of the button.
+> **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=67)** You'll notice that this button is themed to look like the standard buttons in [[Windows]] 8, and that's because I used a ttk themed version of the button.
 >
 > **[1:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/capturing-input-with-buttons?u=76281980&t=75)** If I had just used the button constructor without the ttk in front of it, it would use the original tk constructor to give the older style of button.
 >
@@ -1279,7 +1265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (4), [[Windows]] (1), functional (1)
+> **Frameworks & Libraries:** [[Tkinter]] (4), [[Windows]] (1)
 > **Analogies:** for example (2), such as (1), similar to (1)
 > **Prerequisites:** configure (4)
 > **UI Navigation:** click on (3)
@@ -1288,8 +1274,7 @@ created: 2026-05-02
 > **Code Identifiers:** python_logo (1)
 > **Cross-References:** as we saw (1)
 
-#### Presenting choices with check buttons and radio buttons
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980)
+#### [Presenting choices with check buttons and radio buttons](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1311,7 +1296,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=39)** For example, selecting your meal choice for a banquet.
 >
-> **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=42)** I've already imported the Tkinter package as well as the themed TK module and created my top level root window using the TK constructor method.
+> **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=42)** I've already imported the [[Tkinter]] package as well as the themed TK module and created my top level root window using the TK constructor method.
 >
 > **[0:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=50)** So let's jump straight in to creating a check button.
 >
@@ -1345,7 +1330,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=132)** TK programs written using Tcl, allow the system to let you know when a certain variable has changed so that any widget referencing it can be updated.
 >
-> **[2:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=141)** Python doesn't have a similar method for tracking changes to a variable, so that TK inter module has included several classes for variable types which are wrappers to provide that change tracking functionality.
+> **[2:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=141)** [[Python (Programming Language)|Python]] doesn't have a similar method for tracking changes to a variable, so that TK inter module has included several classes for variable types which are wrappers to provide that change tracking functionality.
 >
 > **[2:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/presenting-choices-with-check-buttons-and-radio-buttons?u=76281980&t=153)** The four variable classes that are available in Tkinter are BooleanVar, DoubleVar, IntVar and StringVar.
 >
@@ -1453,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (2), management (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** spam (19), ttk (2)
 > **CLI Commands:** make (7), python (1)
 > **Analogies:** for example (2), similar to (1), just like (1), such as (1)
@@ -1462,8 +1447,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1), previous video (1)
 > **UI Navigation:** toggle (1), select the (1)
 
-#### Entering single-line text with the Entry widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980)
+#### [Entering single-line text with the Entry widget](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1473,7 +1457,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980&t=12)** However, it is limited to only one line, so if you need the user to enter multiple lines of text then you'll need to use the text widget which is covered in later video segments.
 >
-> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980&t=21)** I've already imported the tkinter package as well as the tkinter module, and created a top level root window here, so let's go ahead and create an entry widget.
+> **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980&t=21)** I've already imported the [[Tkinter]] package as well as the tkinter module, and created a top level root window here, so let's go ahead and create an entry widget.
 >
 > **[0:31](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-single-line-text-with-the-entry-widget?u=76281980&t=31)** We do so by calling the ttk module and then the entry constructor method.
 >
@@ -1565,15 +1549,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (4), application (1)
+> **Frameworks & Libraries:** [[Tkinter]] (4)
 > **Prerequisites:** configure (3), you'll need (2)
 > **Env Vars:** gui (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making selections with the Combobox and Spinbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980)
+#### [Making selections with the Combobox and Spinbox](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1601,7 +1584,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980&t=57)** For example, a range of numbers.
 >
-> **[1:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980&t=60)** In the python shell, I've already imported my Tk enter package as well as ttk module and have created my top level root window using the tk constructor method.
+> **[1:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980&t=60)** In the [[Python (Programming Language)|python]] shell, I've already imported my Tk enter package as well as ttk module and have created my top level root window using the tk constructor method.
 >
 > **[1:09](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/making-selections-with-the-combobox-and-spinbox?u=76281980&t=69)** Before I create a Combobox I first need to create a variable which will store the value from that Combobox.
 >
@@ -1687,8 +1670,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Inputting values and displaying status with the Scale and Progressbar
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980)
+#### [Inputting values and displaying status with the Scale and Progressbar](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1708,7 +1690,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=47)** That's why I decided to include them both in the same video.
 >
-> **[0:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=50)** The progress bar and the scale are both available as theme tk widgets so I've imported both the tkinter package as well as the theme tk module and I've created my top level root window.
+> **[0:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=50)** The progress bar and the scale are both available as theme tk widgets so I've imported both the [[Tkinter]] package as well as the theme tk module and I've created my top level root window.
 >
 > **[1:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=62)** To create a progress bar I'm going to call the ttk progress bar constructor method.
 >
@@ -1820,7 +1802,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=374)** And for the to property I'm going to set that to 11.0.
 >
-> **[6:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=378)** You notice that the from property here has an underscore after from and that's because from is a keyword in Python that we used up here and so we have to differentiate the property from by using an underscore.
+> **[6:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=378)** You notice that the from property here has an underscore after from and that's because from is a keyword in [[Python (Programming Language)|Python]] that we used up here and so we have to differentiate the property from by using an underscore.
 >
 > **[6:30](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/inputting-values-and-displaying-status-with-the-scale-and-progressbar?u=76281980&t=390)** So once I've created that I can add the scale to my window by using the pack geometry manager.
 >
@@ -1846,7 +1828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1), application (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** configure (8)
 > **Versions:** 4.2 (2), 8.0 (1), 0.0 (1), 11.0 (1)
 > **CLI Commands:** make (1), python (1), find (1)
@@ -1860,12 +1842,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Organizing widgets with frames
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980)
+#### [Organizing widgets with frames](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980&t=0)** - [Instructor] Frames are one of the fundamental widgets you'll use when organizing a Tkinter GUI.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980&t=0)** - [Instructor] Frames are one of the fundamental widgets you'll use when organizing a [[Tkinter]] GUI.
 >
 > **[0:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/organizing-widgets-with-frames?u=76281980&t=5)** The frame is simply a rectangular region on the screen, and by itself that's not very exciting, what makes frames useful is that they can act as the parent and geometry manager to hold and organize other widgets.
 >
@@ -1947,7 +1928,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (4), management (1)
+> **Frameworks & Libraries:** [[Tkinter]] (4)
 > **Env Vars:** gui (5)
 > **CLI Commands:** make (4)
 > **Prerequisites:** configure (4)
@@ -1956,20 +1937,19 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating additional top-level windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980)
+#### [Creating additional top-level windows](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=0)** - [Instructor] We've already seen that when we call the Tk constructor method, it automatically creates a new window for us to begin adding widgets to.
 >
-> **[0:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=8)** If we want to add additional windows to our program, we can do so with the top-level window widget.
+> **[0:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=8)** If we want to add additional [[Windows]] to our program, we can do so with the top-level window widget.
 >
 > **[0:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=13)** Each top-level window we create is it's own Tk widget object, which we can use as the parent and geometry manager for other widgets.
 >
 > **[0:21](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=21)** You can use new top-level windows to create entire new GUI sections for your program, or even just display a simple pop-up message for the user.
 >
-> **[0:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=29)** I'll begin by importing the tkinter module using the from tkinter package command, but I'm not going to import the themed ttk module, because top-level windows are not part of the themed widget set.
+> **[0:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=29)** I'll begin by importing the [[Tkinter]] module using the from tkinter package command, but I'm not going to import the themed ttk module, because top-level windows are not part of the themed widget set.
 >
 > **[0:41](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-additional-top-level-windows?u=76281980&t=41)** I'm then going to use the Tk constructor method to create my root top-level window here.
 >
@@ -2127,12 +2107,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Separating widgets within paned windows
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980)
+#### [Separating widgets within paned windows](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=0)** - [Instructor] So far, we've learned how to create new top-level windows, and how we can use frames to organize and divide up the widgets within the window.
+> **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=0)** - [Instructor] So far, we've learned how to create new top-level [[Windows]], and how we can use frames to organize and divide up the widgets within the window.
 >
 > **[0:09](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=9)** In this video, we'll learn about a new type of widget, which can be used to split up sections of the user interface, the paned window.
 >
@@ -2142,7 +2121,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=32)** Although any type of widget can be added to the pane window, it's commonly used to hold several frames next to each other to allow the user to easily re-size them.
 >
-> **[0:41](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=41)** I've already imported the Tkinter module, as well as the themed TTK module and created my root top-level window.
+> **[0:41](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=41)** I've already imported the [[Tkinter]] module, as well as the themed TTK module and created my root top-level window.
 >
 > **[0:47](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/separating-widgets-within-paned-windows?u=76281980&t=47)** To create a new paned window, I'm going to use the paned window constructor method, found in the TTK themed module.
 >
@@ -2246,7 +2225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Windows]] (3), management (1), [[Tkinter]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Tkinter]] (1)
 > **Env Vars:** ttk (2), gui (1)
 > **UI Navigation:** select the (3)
 > **Prerequisites:** configure (2), set up (1)
@@ -2254,8 +2233,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouping widgeting within a tabbed notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980)
+#### [Grouping widgeting within a tabbed notebook](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2267,7 +2245,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980&t=16)** You can add multiple frames, as the pages of a notebook and then switch between which of the those pages is displayed by selecting from the corresponding tabs.
 >
-> **[0:26](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980&t=26)** I've already imported the tkinter package and the ttk module as well as created a top level root window using the tk constructor.
+> **[0:26](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980&t=26)** I've already imported the [[Tkinter]] package and the ttk module as well as created a top level root window using the tk constructor.
 >
 > **[0:34](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/grouping-widgeting-within-a-tabbed-notebook?u=76281980&t=34)** To create a notebook, I'm going to use the Notebook constructor, which is found inside the ttk module.
 >
@@ -2399,7 +2377,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Tkinter]] (1), next (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), similar to (1)
 > **Prerequisites:** configure (1)
@@ -2410,8 +2388,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Entering and displaying multiple lines with the Text widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980)
+#### [Entering and displaying multiple lines with the Text widget](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2427,7 +2404,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=44)** If you're interested in learning about all of the of the rich set of features available for the text widget, then I highly recommend reading through the Tk documentation page for it.
 >
-> **[0:53](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=53)** The first thing I'm going to do, is import the Tkinter package, however, I'm not going to import the themed TTk module, because the text widget is not a themed widget.
+> **[0:53](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=53)** The first thing I'm going to do, is import the [[Tkinter]] package, however, I'm not going to import the themed TTk module, because the text widget is not a themed widget.
 >
 > **[1:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=65)** I also need to create a top level window using Tk constructor method.
 >
@@ -2445,7 +2422,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=126)** And if I typed a message down here near the bottom which ran onto another line, "This message hits the bottom of the text box, "it will run off the screen," you notice that the text box shifted down and continued adding the text below it, but the text above still exists there.
 >
-> **[2:25](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=145)** By default, the text box wraps text exactly at the end of each line, which can give you effect of it wrapping in the middle of words, such as here, where it wrapped in the middle of the word text, and up here where it wrapped in the middle of the word which.
+> **[2:25](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=145)** By default, the text box wraps text exactly at the end of each line, which can give you effect of it wrapping in the middle of words, such as here, where it wrapped in the middle of the [[Microsoft Word|word]] text, and up here where it wrapped in the middle of the word which.
 >
 > **[2:38](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/entering-and-displaying-multiple-lines-with-the-text-widget?u=76281980&t=158)** We can control where the text box will wrap by configuring the wrap property.
 >
@@ -2575,7 +2552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), next (1), [[Tkinter]] (1), [[Programming]] (1), express (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Tkinter]] (1)
 > **Versions:** 1.0 (9), 4.2 (1)
 > **Analogies:** such as (2), for example (2), similar to (1)
 > **Definitions:** is a  (2), refers to (2)
@@ -2584,8 +2561,7 @@ created: 2026-05-02
 > **File Paths:** text.config (1)
 > **CLI Commands:** make (1)
 
-#### Adding tags, marks, images, and widgets to the Text widget
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980)
+#### [Adding tags, marks, images, and widgets to the Text widget](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2603,7 +2579,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=43)** The first parameter is the name of the tag we want to create as a string, so I'm going to call this tag my tag, and then we give it a start and end for that tag to span.
 >
-> **[0:54](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=54)** So I want my tag to span starting with the first character within my text widget, and I want it to go all the way to the end of the first word that that first character is in.
+> **[0:54](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=54)** So I want my tag to span starting with the first character within my text widget, and I want it to go all the way to the end of the first [[Microsoft Word|word]] that that first character is in.
 >
 > **[1:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=65)** My mistake, it's not the add tag method, it's the tag underscore add method.
 >
@@ -2735,7 +2711,7 @@ created: 2026-05-02
 >
 > **[8:20](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=500)** To add an image to the text widget, I first need to create the image in TK enter using the photo image constructor method.
 >
-> **[8:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=509)** We learned about this earlier with the label and button videos, I pass in the path to my python underscore logo.gif file, and I've created this photo image object and stored it in a variable called image.
+> **[8:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=509)** We learned about this earlier with the label and button videos, I pass in the path to my [[Python (Programming Language)|python]] underscore logo.gif file, and I've created this photo image object and stored it in a variable called image.
 >
 > **[8:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-tags-marks-images-and-widgets-to-the-text-widget?u=76281980&t=522)** Now to add it to my text box, I'll call text.image underscore create, I'll pass in the index of where I want to insert that image, so I'm going to use the insert mark here, and then I set the image property to that image I'm going to be inserting.
 >
@@ -2768,8 +2744,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** previous video (1)
 
-#### Building a hierarchical treeview
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980)
+#### [Building a hierarchical treeview](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2777,7 +2752,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=7)** Those items can be presented on a single level or as part of a multi-tiered hierarchy.
 >
-> **[0:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=13)** To begin, I've already imported my tkinter package, as well as the themed Tk module.
+> **[0:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=13)** To begin, I've already imported my [[Tkinter]] package, as well as the themed Tk module.
 >
 > **[0:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=18)** And I've created a root window using the Tk constructor method.
 >
@@ -2843,7 +2818,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=172)** That we've learned about previously.
 >
-> **[2:54](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=174)** Pass in the path to my python logo.gif and since that python logo.gif file is so large I'm going to use the subsample method that we previously saw to shrink it down by a tenth of it's size in the X and Y direction.
+> **[2:54](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=174)** Pass in the path to my [[Python (Programming Language)|python]] logo.gif and since that python logo.gif file is so large I'm going to use the subsample method that we previously saw to shrink it down by a tenth of it's size in the X and Y direction.
 >
 > **[3:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-a-hierarchical-treeview?u=76281980&t=188)** So now that I have created my logo, I'm going to insert a new item into my treeview.
 >
@@ -2951,14 +2926,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), [[Python (Programming Language)|Python]] (5), [[Tkinter]] (3), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Tkinter]] (3)
 > **CLI Commands:** node (13), python (5), make (1)
 > **Prerequisites:** configure (2)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding columns and selecting items in the Treeview
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980)
+#### [Adding columns and selecting items in the Treeview](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3004,7 +2978,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980&t=131)** So treeview.set, the first parameter is the item on the hierarchy to which we're going to be referencing.
 >
-> **[2:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980&t=139)** So I want to reference that python item in my hierarchy.
+> **[2:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980&t=139)** So I want to reference that [[Python (Programming Language)|python]] item in my hierarchy.
 >
 > **[2:23](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/adding-columns-and-selecting-items-in-the-treeview?u=76281980&t=143)** I'm going to be placing contents into the version column and the contents I want to place in there will be 3.4.1.
 >
@@ -3101,8 +3075,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Analogies:** similar to (1)
 
-#### Building cascading menus
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980)
+#### [Building cascading menus](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3118,7 +3091,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=34)** In general, though, it's good to avoid letting menus grow too long or become too deeply nested, and always let other users test drive your GUI before releasing it to the wild.
 >
-> **[0:43](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=43)** Menus are not part of the theme Tk GUI set, so I only need to import the tkinter package.
+> **[0:43](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=43)** Menus are not part of the theme Tk GUI set, so I only need to import the [[Tkinter]] package.
 >
 > **[0:49](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=49)** Next I'm going to create my top level root window, with the Tk constructor.
 >
@@ -3154,7 +3127,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=147)** And the last one I'm going to call help.
 >
-> **[2:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=149)** And I'm going to have to put help with an underscore, because help without the underscore is a keyword in Python that will cause problems.
+> **[2:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=149)** And I'm going to have to put help with an underscore, because help without the underscore is a keyword in [[Python (Programming Language)|Python]] that will cause problems.
 >
 > **[2:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=157)** And again, I'll pass it menubar as the parent.
 >
@@ -3266,7 +3239,7 @@ created: 2026-05-02
 >
 > **[7:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=428)** In addition to just adding commands to a menu, we can also add other menus effectively creating sub-menus.
 >
-> **[7:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=435)** For example, instead of just having one Save option here, I could create a Save sub-menu containing commands for different forms of Save, such as Save As and Save All.
+> **[7:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=435)** For example, instead of just having one Save option here, I could create a Save sub-menu containing commands for different [[Forms]] of Save, such as Save As and Save All.
 >
 > **[7:26](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/building-cascading-menus?u=76281980&t=446)** First, I'm going to delete the current Save command entry.
 >
@@ -3342,7 +3315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Python (Programming Language)|Python]] (2), application (1), [[Tkinter]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Tkinter]] (1), [[Forms]] (1)
 > **Code Identifiers:** tearoff (3), add_cascade (2), add_command (2), option_add (1), add_separator (1)
 > **Prerequisites:** configure (5), set up (1)
 > **UI Navigation:** right-click (3), select the (1)
@@ -3351,8 +3324,7 @@ created: 2026-05-02
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** gui (2)
 
-#### Drawing a basic line on the Canvas
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980)
+#### [Drawing a basic line on the Canvas](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3362,7 +3334,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980&t=18)** In this video and then next one, I'll go through the process of creating a canvas and using some of the common methods for drawing lines and shapes to the canvas as well as adding images and other widgets.
 >
-> **[0:30](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980&t=30)** Since the canvas is not one of the themed Tk widgets, we'll only need to import the Tkinter package.
+> **[0:30](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980&t=30)** Since the canvas is not one of the themed Tk widgets, we'll only need to import the [[Tkinter]] package.
 >
 > **[0:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-a-basic-line-on-the-canvas?u=76281980&t=37)** Now, I'll create my top-level Tk window using the constructor method, and to create a canvas I'll use the canvas constructor method.
 >
@@ -3444,7 +3416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), power (1), [[Tkinter]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1)
 > **Prerequisites:** configure (4)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** create_line (1)
@@ -3452,8 +3424,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Drawing complex shapes on the Canvas
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980)
+#### [Drawing complex shapes on the Canvas](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3549,7 +3520,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980&t=273)** Next you can define the text to put there by using the text property.
 >
-> **[4:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980&t=277)** So I'm going to display the word Python at the coordinates 320 by 240 which should put it at the center of my canvas.
+> **[4:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980&t=277)** So I'm going to display the [[Microsoft Word|word]] [[Python (Programming Language)|Python]] at the coordinates 320 by 240 which should put it at the center of my canvas.
 >
 > **[4:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/drawing-complex-shapes-on-the-canvas?u=76281980&t=284)** And I'm also going to specify the font property to write Python using a Courier font.
 >
@@ -3657,7 +3628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** create_text (2), create_image (2), create_rectangle (1), create_oval (1), create_arc (1)
 > **CLI Commands:** python (3), make (2)
 > **Analogies:** for example (2), similar to (1), such as (1), just like (1)
@@ -3665,8 +3636,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Attaching a scroll bar to widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980)
+#### [Attaching a scroll bar to widgets](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3680,9 +3650,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=27)** The scroll bar lets the widget being scrolled know its current position, and the widget that's being scrolled lets the scroll bar know what percentage of the entire area is currently visible.
 >
-> **[0:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=37)** For this example, I've already imported the Tkinter package and Ttk module, as well as created my root top level window.
+> **[0:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=37)** For this example, I've already imported the [[Tkinter]] package and Ttk module, as well as created my root top level window.
 >
-> **[0:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=44)** I've also gone ahead and created a new text widget, which is a size of 40 in width, 10 lines in height, with the word wrap property, and I've placed it in that main top level window using the grid manager to place it at row zero, column zero.
+> **[0:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=44)** I've also gone ahead and created a new text widget, which is a size of 40 in width, 10 lines in height, with the [[Microsoft Word|word]] wrap property, and I've placed it in that main top level window using the grid manager to place it at row zero, column zero.
 >
 > **[0:59](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/attaching-a-scroll-bar-to-widgets?u=76281980&t=59)** I've populated by text widget with dummy text that's long enough that it necessitates scrolling.
 >
@@ -3754,7 +3724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[Tkinter]] (1), [[Microsoft Word|Word]] (1), management (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1), [[Microsoft Word|Word]] (1)
 > **Prerequisites:** configure (6)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** create_oval (1)
@@ -3763,8 +3733,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring widget styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980)
+#### [Configuring widget styles](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3786,7 +3755,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=65)** In this video I'll teach you how to change the overall theme of your application, as well as, how to create and use your own custom widget styles.
 >
-> **[1:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=73)** I've gone ahead and imported both the regular tkinter package, as well as, the themed ttk module, created my top level window and also created two themed buttons, named button one and button two and given them the text button one and button two, so we can differentiate them.
+> **[1:13](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=73)** I've gone ahead and imported both the regular [[Tkinter]] package, as well as, the themed ttk module, created my top level window and also created two themed buttons, named button one and button two and given them the text button one and button two, so we can differentiate them.
 >
 > **[1:30](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=90)** Now, to create a style, we first need to create a style object, and I'm going to do that using the ttk style constructor method, and I'm going to store that style object into a variable called style.
 >
@@ -3802,7 +3771,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=143)** So, let's change it to use the classic theme and watch what happens to the buttons over here when I execute that.
 >
-> **[2:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=149)** You see these buttons now changed from our vista themed, the standard common windows theme, to the old fashioned classic themed buttons.
+> **[2:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=149)** You see these buttons now changed from our vista themed, the standard common [[Windows]] theme, to the old fashioned classic themed buttons.
 >
 > **[2:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=157)** These classical themes buttons have a very boxy look to them, so let's return back to that vista theme.
 >
@@ -3882,7 +3851,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=457)** Each tk style is composed of one or more elements.
 >
-> **[7:40](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=460)** To see what those elements are that compose a specific style you can use the layout method.
+> **[7:40](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=460)** To see what those elements are that [[Jetpack Compose|compose]] a specific style you can use the layout method.
 >
 > **[7:45](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-widget-styles?u=76281980&t=465)** If I call style dot layout and pass it the name of a style, so I'll use the Tbutton we've been working with.
 >
@@ -3920,7 +3889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), application (1), [[Tkinter]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Jetpack Compose|Compose]] (2), [[Tkinter]] (1), [[Windows]] (1)
 > **Prerequisites:** configure (10)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is called (1), means that (1)
@@ -3929,8 +3898,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prompting users with the Messagebox and dialogs
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980)
+#### [Prompting users with the Messagebox and dialogs](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3946,7 +3914,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980&t=31)** These dialogs and message boxes are not regular Tk widgets.
 >
-> **[0:35](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980&t=35)** We don't need to create a root widget to assign as their parent, or even import the whole Tkinter package.
+> **[0:35](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980&t=35)** We don't need to create a root widget to assign as their parent, or even import the whole [[Tkinter]] package.
 >
 > **[0:41](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/prompting-users-with-the-messagebox-and-dialogs?u=76281980&t=41)** To use the message box, we only need to import the message box module from the Tkinter package.
 >
@@ -4050,7 +4018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (7), hit (2), prompt (1)
+> **Frameworks & Libraries:** [[Tkinter]] (7)
 > **Env Vars:** idle (2), spam (1), ffffff (1), rgb (1)
 > **Definitions:** is a  (2), is called (1), means that (1)
 > **Warnings:** warning (1), keep in mind (1), note that (1)
@@ -4064,8 +4032,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Pack geometry manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980)
+#### [Using the Pack geometry manager](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4085,13 +4052,13 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=67)** Unlike in the previous videos on widgets, where I used IDLE as an interactive shell, in these videos on geometry managers, I'm going to use IDLE as a code editor so I can easily make changes to the code to demonstrate different effects.
 >
-> **[1:20](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=80)** I'm going to navigate to the Exercise Files and in the Chapter 06 folder, I'm going to make a copy of the template python file.
+> **[1:20](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=80)** I'm going to navigate to the Exercise Files and in the Chapter 06 folder, I'm going to make a copy of the template [[Python (Programming Language)|python]] file.
 >
 > **[1:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=89)** I'll rename that copy to 01_pack because we're in the first video of the geometry manager section.
 >
 > **[1:37](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=97)** And then I'll right-click on that file and choose to edit it with IDLE.
 >
-> **[1:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=102)** You'll see that this file is a basic template which imports the standard Tkinter package as well as the ttk module.
+> **[1:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=102)** You'll see that this file is a basic template which imports the standard [[Tkinter]] package as well as the ttk module.
 >
 > **[1:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-pack-geometry-manager?u=76281980&t=110)** It creates my root top-level window and down at the bottom, it calls the root.mainloop method to enter the event loop.
 >
@@ -4299,7 +4266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (3), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Tkinter]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** idle (3), both (3), gui (3), left (2), top (1)
 > **Code Identifiers:** pack_slaves (3), pack_configure (2), pack_info (2), pack_forget (2), grid_forget (1)
 > **CLI Commands:** make (6), python (1), find (1)
@@ -4308,8 +4275,7 @@ created: 2026-05-02
 > **Exercise Files:** template (3), exercise files (1)
 > **Analogies:** for example (2), such as (1)
 
-#### Using the Grid geometry manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980)
+#### [Using the Grid geometry manager](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4333,7 +4299,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980&t=70)** This is the same template file we used in the previous video with the Pack geometry manager.
 >
-> **[1:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980&t=75)** It imports the top level tkinter package and ttk module, creates my root window, and calls the root.mainloop method down below.
+> **[1:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980&t=75)** It imports the top level [[Tkinter]] package and ttk module, creates my root window, and calls the root.mainloop method down below.
 >
 > **[1:23](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-grid-geometry-manager?u=76281980&t=83)** I'm going to start my code by creating a series of labels.
 >
@@ -4536,8 +4502,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** previous video (2)
 
-#### Using the Place geometry manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980)
+#### [Using the Place geometry manager](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4557,7 +4522,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=67)** The downside to using the place manager, is that it can become difficult to ensure that multiple widgets maintain the proper size and location relative to each other, if the parent window or frame is resized.
 >
-> **[1:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=79)** For these reasons, my personal recommendation is to use the place manager when you need to craft a very specialized piece of the GUI, and to do that inside of a frame, which you prevent from changing in size if the rest of the GUI is resized.
+> **[1:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=79)** For these reasons, my personal recommendation is to use the place manager when you need to craft a very specialized piece of the GUI, and to do that inside of a frame, which you prevent from changing in size if the [[Representational State Transfer (REST)|rest]] of the GUI is resized.
 >
 > **[1:34](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=94)** For this demonstration, I'm going to navigate to the exercise file's folder, in the chapter six folder, and then I'mma create a copy of the template file.
 >
@@ -4567,7 +4532,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=118)** Now one thing we'll do differently in this video, is I'm going to configure the main menu to be 640 by 480 pixels.
 >
-> **[2:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=125)** And I'll do that by using the geometry method, which we learned about in the previous video on top level windows.
+> **[2:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=125)** And I'll do that by using the geometry method, which we learned about in the previous video on top level [[Windows]].
 >
 > **[2:12](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/using-the-place-geometry-manager?u=76281980&t=132)** To configure it to be 640 by 480 pixels, I pass in a string of 640 by 480, and then I provide the x, y-coordinates at which to place the window on the screen.
 >
@@ -4691,7 +4656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Windows]] (1)
 > **Prerequisites:** configure (7)
 > **Versions:** 0.5 (6)
 > **CLI Commands:** make (2), find (1)
@@ -4705,8 +4670,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Configuring command callbacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980)
+#### [Configuring command callbacks](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4728,7 +4692,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980&t=57)** I'll rename that copy to '01_Callback', and then I'll right-click on it, and choose to edit with IDLE.
 >
-> **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980&t=67)** This template imports the Tkinter package as well as the Tk module, creates my top level root window, and down below it calls the "root.mainloop" method to start the event loop.
+> **[1:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980&t=67)** This template imports the [[Tkinter]] package as well as the Tk module, creates my top level root window, and down below it calls the "root.mainloop" method to start the event loop.
 >
 > **[1:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/configuring-command-callbacks?u=76281980&t=79)** To enter my code, I'm going to start by creating a new button, it'll be a child of the root window, and the button will simply say, 'Click Me', a message we've seen several times throughout this course.
 >
@@ -4809,8 +4773,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Analogies:** for example (2)
 
-#### Binding to keyboard events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980)
+#### [Binding to keyboard events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4822,7 +4785,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=16)** There may be times when we want to trigger events based on other user actions with the mouse or keyboard.
 >
-> **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=22)** To do that in Tkinter, we can bind our program to different types of events, and specify the handler function or method to be executed when that event occurs.
+> **[0:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=22)** To do that in [[Tkinter]], we can bind our program to different types of events, and specify the handler function or method to be executed when that event occurs.
 >
 > **[0:32](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=32)** There's a wide variety of event types that you can bind your program to with Tkinter.
 >
@@ -4846,7 +4809,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=111)** Unlike with the command callbacks, which typically did not take any input parameters, when we create the callback function for the bind method, we need to give it one input parameter, which the event handler will use to pass an object containing information about the keyboard event.
 >
-> **[2:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=127)** The keyboard event handler is expecting this single input parameter, so if you forget it or add extra parameters, then Python will throw an exception.
+> **[2:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=127)** The keyboard event handler is expecting this single input parameter, so if you forget it or add extra parameters, then [[Python (Programming Language)|Python]] will throw an exception.
 >
 > **[2:15](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=135)** So to create my key_press callback, I'll create that one input parameter called event, you can name it whatever you want to, and then in my callback method, I'm just going to break out the different information that's available in event, and I'll print those to the console.
 >
@@ -4870,7 +4833,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=234)** Now if the Python shell here has a scope, and I press keys, you'll notice they're just typed into the shell, they're not captured by my top-level window.
 >
-> **[4:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=243)** So let me go back to that window... Let's see what happens if I press shift and three, whoops, you'll notice there, if you hold down a key, it'll trigger multiple events just like in a text editor, so you can capture those as well, but if I hold shift-three, you'll notice down here at the bottom, that triggers a type two key event in that main window, the character that shift-three creates is the pound sign, the keysym for that is the word numbersign, and it's got a keycode of 51.
+> **[4:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=243)** So let me go back to that window... Let's see what happens if I press shift and three, whoops, you'll notice there, if you hold down a key, it'll trigger multiple events just like in a text editor, so you can capture those as well, but if I hold shift-three, you'll notice down here at the bottom, that triggers a type two key event in that main window, the character that shift-three creates is the pound sign, the keysym for that is the [[Microsoft Word|word]] numbersign, and it's got a keycode of 51.
 >
 > **[4:32](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-keyboard-events?u=76281980&t=272)** Also demonstrate here, if I press the F1 key, you'll notice that there's not a character associated with the F1 key, because it's a special type of key, but it does have a keysym and a keycode associated with it as well.
 >
@@ -4946,7 +4909,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Microsoft Word|Word]] (3), [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2)
 > **Cross-References:** previous video (2), in the next (2), go back to (1)
 > **Definitions:** refers to (2), is a  (1), is an  (1)
 > **Analogies:** for example (2), just like (1), such as (1)
@@ -4955,8 +4918,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1), template (1)
 > **Env Vars:** idle (1)
 
-#### Binding to mouse events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980)
+#### [Binding to mouse events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4968,7 +4930,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980&t=26)** In this video, I'll demonstrate this by binding mouse events to a canvas widget to create a simple drawing program.
 >
-> **[0:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980&t=33)** I'm going to start by opening the exercise files, Chapter Seven folder, and creating a copy of our template Python file.
+> **[0:33](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980&t=33)** I'm going to start by opening the exercise files, Chapter Seven folder, and creating a copy of our template [[Python (Programming Language)|Python]] file.
 >
 > **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-mouse-events?u=76281980&t=42)** I'll rename this copy to 03_mouse, because we'll be covering mouse events.
 >
@@ -5103,8 +5065,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binding to virtual events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980)
+#### [Binding to virtual events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5118,7 +5079,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=38)** I'll also teach you how to create and manage your own custom virtual events.
 >
-> **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=42)** I'll start by going to the exercise files folder, in the Chapter 7 directory, and making a copy of the template Python file.
+> **[0:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=42)** I'll start by going to the exercise files folder, in the Chapter 7 directory, and making a copy of the template [[Python (Programming Language)|Python]] file.
 >
 > **[0:52](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=52)** I'll rename that copy to 04 underscore Virtual and then I'll right-click on it to edit it with IDLE.
 >
@@ -5212,13 +5173,13 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=394)** So that syntax there would delete OddNumber and it'll no longer exist as a virtual event.
 >
-> **[6:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=399)** This covers the basics of creating and using virtual events in Tkinter.
+> **[6:39](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=399)** This covers the basics of creating and using virtual events in [[Tkinter]].
 >
 > **[6:43](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-virtual-events?u=76281980&t=403)** To find out what virtual events are available for a specific widget, refer to the Tcl/Tk documentaion page for that widget.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), next (1), hit (1), [[Tkinter]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Tkinter]] (1)
 > **CLI Commands:** python (1), find (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -5227,16 +5188,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Binding to multiple events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980)
+#### [Binding to multiple events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=0)** - [Instructor] Thus far, we've only used the bind method to configure event handlers for single instances of widgets.
 >
-> **[0:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=7)** In this video, I'm going to teach you about how widgets react if they're bound to multiple similar events, and how you can create a single event binding which is tied to multiple widgets within the program.
+> **[0:07](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=7)** In this video, I'm going to teach you about how widgets [[React.js|react]] if they're bound to multiple similar events, and how you can create a single event binding which is tied to multiple widgets within the program.
 >
-> **[0:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=19)** I'll start by accessing the exercise files, in the chapter seven directory, and creating a copy of the template Python file.
+> **[0:19](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=19)** I'll start by accessing the exercise files, in the chapter seven directory, and creating a copy of the template [[Python (Programming Language)|Python]] file.
 >
 > **[0:29](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=29)** I'll rename that copy to 05_multiple, and then right-click on it and choose edit with idle.
 >
@@ -5302,7 +5262,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=275)** This avoids the conflict we saw earlier when we used the bind method on both the root and the label to bind to the mouse click event.
 >
-> **[4:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=282)** The final thing I want to show you is that if we have multiple top-level windows in our program, we can create an event binding that will apply to all of them by using the bind-all method.
+> **[4:42](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=282)** The final thing I want to show you is that if we have multiple top-level [[Windows]] in our program, we can create an event binding that will apply to all of them by using the bind-all method.
 >
 > **[4:53](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-multiple-events?u=76281980&t=293)** So I could call root dot bind all, and then pass in my event binding.
 >
@@ -5314,7 +5274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[React.js|React]] (1), [[Python (Programming Language)|Python]] (1), generic (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[React.js|React]] (1), [[Python (Programming Language)|Python]] (1)
 > **UI Navigation:** click on (6), right-click (3)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Exercise Files:** exercise files (1), template (1)
@@ -5328,14 +5288,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining project requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980)
+#### [Defining project requirements](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=0)** (electronic swishes)
 >
-> **[0:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=3)** - For the last section of this course, I'm going to present you with a programming challenge to create a Tkinter GUI of your own.
+> **[0:03](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=3)** - For the last section of this course, I'm going to present you with a programming challenge to create a [[Tkinter]] GUI of your own.
 >
 > **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=10)** In this video, I'll give you the basic requirements for the user interface, then in the follow on videos, I'll walk you through the development process I used to build my solution to meet those requirements from start to finish.
 >
@@ -5363,7 +5322,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=126)** I'm going to right click on that and open it with IDLE.
 >
-> **[2:09](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=129)** The template is organized using a common structure for coding Python GUI applications.
+> **[2:09](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=129)** The template is organized using a common structure for coding [[Python (Programming Language)|Python]] GUI applications.
 >
 > **[2:14](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/defining-project-requirements?u=76281980&t=134)** The feedback form is implemented as a class, which you will need to complete by filling in the init method, and creating any other helper methods you require.
 >
@@ -5383,7 +5342,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Python (Programming Language)|Python]] (2)
 > **Env Vars:** gui (4), gif (1), idle (1)
 > **Exercise Files:** exercise files (2), template (1)
 > **CLI Commands:** python (2)
@@ -5392,8 +5351,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 
-#### Planning the design
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980)
+#### [Planning the design](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5423,7 +5381,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980&t=76)** The GUI looks pretty good, and should meet all of the requirements for the feedback form, but there's one more thing I want to add.
 >
-> **[1:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980&t=82)** To help organize the widgets and make laying them out easier, I'm going to include two frames, one to contain the top header region and the second to hold the rest of the contents.
+> **[1:22](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980&t=82)** To help organize the widgets and make laying them out easier, I'm going to include two frames, one to contain the top header region and the second to hold the [[Representational State Transfer (REST)|rest]] of the contents.
 >
 > **[1:32](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/planning-the-design?u=76281980&t=92)** By dividing the GUI up into smaller sub-regions, we'll be able to easily tweak the placement of widgets within each sub-region without affecting the GUI as a whole.
 >
@@ -5437,14 +5395,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980)
+#### [Creating the widgets](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=0)** - [Instructor] Now that I've sketched out the design for what I want my GUI to look like, I'm ready to start building it.
 >
-> **[0:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=5)** The first thing to do when writing a new Tkinter program is create widgets.
+> **[0:05](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=5)** The first thing to do when writing a new [[Tkinter]] program is create widgets.
 >
 > **[0:10](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=10)** And to determine what widgets I need to create, I'll refer back to my design drawing.
 >
@@ -5506,7 +5463,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=179)** Again, it's a child of the header frame.
 >
-> **[3:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=182)** And the text for that label will be, well, this is going to be a long text, so I'll use a little Python trick here.
+> **[3:02](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=182)** And the text for that label will be, well, this is going to be a long text, so I'll use a little [[Python (Programming Language)|Python]] trick here.
 >
 > **[3:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=188)** If I want to write a string spanning multiple lines, I can actually put it in a list.
 >
@@ -5542,7 +5499,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=290)** Again, these are labels that aren't going to be changed, so I don't need to keep a variable reference to those label objects.
 >
-> **[4:57](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=297)** Now, to create my entry and text fields, since I will need to be accessing those later, using the Git methods, I'll need to store references to those objects into class variables.
+> **[4:57](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=297)** Now, to create my entry and text fields, since I will need to be accessing those later, using the [[Git]] methods, I'll need to store references to those objects into class variables.
 >
 > **[5:08](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/creating-the-widgets?u=76281980&t=308)** I'll create a class variable for the entry name, self.entry_name.
 >
@@ -5582,7 +5539,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Tkinter]] (1), [[Python (Programming Language)|Python]] (1), [[Git]] (1)
 > **Code Identifiers:** frame_content (2), tour_logo (1), entry_name (1)
 > **CLI Commands:** python (1), git (1)
 > **Env Vars:** gui (2)
@@ -5591,8 +5548,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Laying out of the widgets
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/laying-out-of-the-widgets?u=76281980)
+#### [Laying out of the widgets](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/laying-out-of-the-widgets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5740,7 +5696,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** frame_header (1), frame_content (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5748,9 +5703,9 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** note that (1)
+> **Prerequisites:** configure (1)
 
-#### Binding to events
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980)
+#### [Binding to events](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5804,7 +5759,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=164)** Then we'll do it one more time for the comments.
 >
-> **[2:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=171)** That's a text widget and the git command for the text widget takes two parameters.
+> **[2:51](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=171)** That's a text widget and the [[Git]] command for the text widget takes two parameters.
 >
 > **[2:57](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=177)** You have to provide it with a range of text to retrieve and so I want to get everything out of that comments field so I'll provide the beginning and end indices.
 >
@@ -5814,7 +5769,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=212)** And then finally I need to notify the user that their comments were successfully received and a popup window would be a good way to do that.
 >
-> **[3:40](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=220)** So to use a popup window I'm going to import the tkinter message box module.
+> **[3:40](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=220)** So to use a popup window I'm going to import the [[Tkinter]] message box module.
 >
 > **[3:45](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/binding-to-events?u=76281980&t=225)** I call from tkinter, import messagebox, and we learned about this in the video on file dialogues.
 >
@@ -5866,7 +5821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tkinter]] (2), [[Git]] (1), application (1), database (1), hit (1)
+> **Frameworks & Libraries:** [[Tkinter]] (2), [[Git]] (1)
 > **CLI Commands:** make (1), git (1)
 > **Code Identifiers:** entry_name (1)
 > **URLs:** [example.com](https://example.com) (1)
@@ -5874,8 +5829,7 @@ created: 2026-05-02
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finishing the GUI with style
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980)
+#### [Finishing the GUI with style](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5973,7 +5927,7 @@ created: 2026-05-02
 >
 > **[5:04](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980&t=304)** However, there's currently a bug which prevents the font configured for the t-entry style from properly displaying in the entry widget.
 >
-> **[5:11](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980&t=311)** I submitted a bug report to the Python community about this issue, and it appears the problem exists somewhere within the Tk framework.
+> **[5:11](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980&t=311)** I submitted a bug report to the [[Python (Programming Language)|Python]] community about this issue, and it appears the problem exists somewhere within the Tk framework.
 >
 > **[5:18](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/finishing-the-gui-with-style?u=76281980&t=318)** Hopefully that'll be resolved soon, but at the time of this recording the problem still exists so I'll have to work around it by configuring the fonts individually for each of the two entry widgets.
 >
@@ -5991,7 +5945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1), next (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** configure (15)
 > **CLI Commands:** make (1), python (1)
 > **Env Vars:** gui (2)
@@ -6002,14 +5956,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980&t=0)** - [Barron] Congratulations!
 >
-> **[0:01](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980&t=1)** You've reached the end of this course on Python GUI Development with Tkinter.
+> **[0:01](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980&t=1)** You've reached the end of this course on [[Python (Programming Language)|Python]] GUI Development with [[Tkinter]].
 >
 > **[0:06](https://www.linkedin.com/learning/python-gui-development-with-tkinter-2/next-steps?u=76281980&t=6)** In this course, we've learned how to create and configure some of the most commonly used Tk widgets, how to display and organize them with the various geometry managers, and how to tie user actions and events back to execute program code.
 >
@@ -6027,7 +5980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Tkinter]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Tkinter]] (2)
 > **CLI Commands:** python (4)
 > **Env Vars:** gui (1)
 > **Prerequisites:** configure (1)

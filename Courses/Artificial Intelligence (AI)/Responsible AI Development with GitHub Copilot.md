@@ -79,12 +79,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI validation: Why it matters for production code
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980)
+#### [Introduction to AI validation: Why it matters for production code](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=0)** - [Narrator] AI coding tools like GitHub Copilot are incredibly powerful.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=0)** - [Narrator] AI coding tools like [[GitHub Copilot]] are incredibly powerful.
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=5)** They can write code faster than you can type.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=40)** But good looking and being good are two different things.
 >
-> **[0:45](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=45)** For example, if you're about to ask Copilot to create a function to validate user passwords, maybe it'll generate something simple like, "Return password length &gt;= 8."
+> **[0:45](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=45)** For example, if you're about to ask [[Microsoft Copilot|Copilot]] to create a function to validate user passwords, maybe it'll generate something simple like, "Return password length &gt;= 8."
 >
 > **[0:58](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=58)** But is this really secure? Not really.
 >
@@ -122,7 +121,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=97)** Review it, test it, and audit it.
 >
-> **[1:40](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=100)** Models like ChatGPT and Claude are trained on millions of examples of code from GitHub, Stack Overflow, documentation, everywhere.
+> **[1:40](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=100)** Models like [[ChatGPT]] and Claude are trained on millions of examples of code from [[GitHub]], Stack Overflow, documentation, everywhere.
 >
 > **[1:50](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=110)** They learn patterns from that training data, but they may not understand what the code actually does.
 >
@@ -148,7 +147,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=185)** We'll look into identifying common security issues that show up in AI generated code.
 >
-> **[3:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=192)** We'll look at things like SQL injection, cross site scripting, and secure authentication.
+> **[3:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=192)** We'll look at things like [[SQL]] injection, cross site scripting, and [[Secure Authentication]].
 >
 > **[3:18](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/introduction-to-ai-validation-why-it-matters-for-production-code?u=76281980&t=198)** You'll learn how to spot these issues and fix them.
 >
@@ -160,7 +159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Security]] (5), prompt (2), [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1), [[Microsoft Copilot|Copilot]] (1), [[ChatGPT]] (1), [[GitHub]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** github (2)
 > **Analogies:** for example (1), such as (1)
@@ -173,8 +172,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Techniques for verifying AI code: Manual and automated approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/techniques-for-verifying-ai-code-manual-and-automated-approaches?u=76281980)
+#### [Techniques for verifying AI code: Manual and automated approaches](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/techniques-for-verifying-ai-code-manual-and-automated-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,14 +242,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6)
 > **CLI Commands:** make (3), find (2)
 > **Best Practices:** best practice (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Identifying security vulnerabilities in AI-generated code
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980)
+#### [Identifying security vulnerabilities in AI-generated code](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -259,7 +255,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=5)** AI models have been drained on massive amounts of code from the internet, including code with security flaws.
 >
-> **[0:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=12)** They can produce code with SQL injection risks or hard coded credentials without realizing the security implications.
+> **[0:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=12)** They can produce code with [[SQL]] injection risks or hard coded credentials without realizing the security implications.
 >
 > **[0:20](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=20)** These aren't just quality issues, but rather are vulnerabilities that attackers can and will exploits.
 >
@@ -289,7 +285,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=140)** Says the most common ones that an AI model might call a password such as password API key secret token.
 >
-> **[2:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=149)** When these variables are assigned string values directly in code, that's a security risk.
+> **[2:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=149)** When these variables are assigned string values directly in code, that's a [[Security Risk]].
 >
 > **[2:35](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/identifying-security-vulnerabilities-in-ai-generated-code?u=76281980&t=155)** Credentials should come from environment variables or secure vaults rather than being hard coded.
 >
@@ -327,14 +323,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (13), [[Security]] (12), ai (7), data (2), api (1)
+> **Frameworks & Libraries:** [[SQL]] (13), [[Security Risk]] (1)
 > **Env Vars:** sql (13), api (1)
 > **CLI Commands:** make (4)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting logical flaws and hallucinations in AI outputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980)
+#### [Detecting logical flaws and hallucinations in AI outputs](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +347,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980&t=69)** Here, we have a whitelist of the imports that we want allowed.
 >
-> **[1:13](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980&t=73)** Here, we have the Deno Standard Library, and a CDN for JavaScript modules, as well as our relative imports within our own project files, meaning that anything else outside of this whitelist is going to get flagged as forbidden.
+> **[1:13](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980&t=73)** Here, we have the Deno Standard Library, and a CDN for [[JavaScript]] modules, as well as our relative imports within our own project files, meaning that anything else outside of this whitelist is going to get flagged as forbidden.
 >
 > **[1:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/detecting-logical-flaws-and-hallucinations-in-ai-outputs?u=76281980&t=89)** And this import pattern uses regex to match import statements, so that we're detecting if this import is actually allowed or not.
 >
@@ -390,15 +385,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Env Vars:** cdn (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Security audit AI-generated code
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980)
+#### [Challenge: Security audit AI-generated code](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980&t=31)** These secrets can be discovered by attackers who scan public repositories looking for exposed credentials.
 >
-> **[0:37](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980&t=37)** There are people and bots that scrape GitHub 24/7, specifically looking for AWS keys, API tokens and database passwords.
+> **[0:37](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980&t=37)** There are people and bots that scrape [[GitHub]] 24/7, specifically looking for AWS keys, API [[Tokens]] and database passwords.
 >
 > **[0:48](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-security-audit-ai-generated-code?u=76281980&t=48)** And once these are found, these credentials can be used to access your systems, steal data or rack up huge bills on your account.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), aws (9), api (4), [[GitHub]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[Tokens]] (1)
 > **CLI Commands:** aws (9), make (5), find (2)
 > **Env Vars:** aws (9), api (4), akia (1)
 > **Cross-References:** in the next (1)
@@ -475,14 +469,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Security audit AI-generated code with best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980)
+#### [Solution: Security audit AI-generated code with best practices](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=0)** - [Instructor] Now, let's walk through the solution to our secret_scanner.
 >
-> **[0:04](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=4)** This scanner will detect hard-coded AWS and OpenAI API keys, using regex pattern matching and static analysis.
+> **[0:04](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=4)** This scanner will detect hard-coded AWS and [[OpenAI API]] keys, using regex pattern matching and static analysis.
 >
 > **[0:13](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=13)** It demonstrates the techniques that are essential for validating AI-generated code and preventing breaches.
 >
@@ -524,7 +517,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=170)** For each code file, we call scanFile and collect all of our results.
 >
-> **[2:55](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=175)** So at the CLI level, if secrets are found, then we're going to print an error message with the count and the amount of secrets, where we're going to loop through each violation and print the type and its location.
+> **[2:55](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=175)** So at the [[CLI]] level, if secrets are found, then we're going to print an error message with the count and the amount of secrets, where we're going to loop through each violation and print the type and its location.
 >
 > **[3:11](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-security-audit-ai-generated-code-with-best-practices?u=76281980&t=191)** Then, we exit with code one, as the build should fail if all the secrets are found.
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[OpenAI API]] (1), ai (1), data (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (1), [[CLI]] (1)
 > **CLI Commands:** make (6), aws (5)
 > **Env Vars:** aws (5), api (2), akia (1), openai_key_pattern (1), cli (1)
 > **Code Identifiers:** scanfile (2), secret_scanner (1), readtextfile (1), foreach (1), matchall (1)
@@ -549,14 +542,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using copilot-instructions.md for project-specific guidance
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980)
+#### [Using copilot-instructions.md for project-specific guidance](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=1)** - [Host] One of the most powerful features of GitHub Copilot is the ability to give it custom instructions for your project.
+> **[0:01](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=1)** - [Host] One of the most powerful features of [[GitHub Copilot]] is the ability to give it custom instructions for your project.
 >
-> **[0:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=8)** And the way you do this is through a file called copilot-instructions.md.
+> **[0:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=8)** And the way you do this is through a file called [[Microsoft Copilot|copilot]]-instructions.md.
 >
 > **[0:14](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=14)** This file lives in your repository and tells Copilot about your coding standards, your project conventions, and how things should be structured.
 >
@@ -568,7 +560,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=36)** And it's important because it has to be in a specific place for Copilot to recognize it.
 >
-> **[0:41](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=41)** Here I am in VS Code with my projects open and at the root of my repository, I need to create a .github folder.
+> **[0:41](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=41)** Here I am in VS Code with my projects open and at the root of my repository, I need to create a .[[GitHub]] folder.
 >
 > **[0:48](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=48)** If you already have this folder, maybe through GitHub Actions workflow, you can skip the step, but if you don't have it, just create a new folder called .github.
 >
@@ -612,7 +604,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=151)** And we're going to call it api-client.ts.
 >
-> **[2:35](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=155)** We're just going to create something, something simple to create a function to fetch user data from an API.
+> **[2:35](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=155)** We're just going to create something, something simple to create a function to [[Fetch]] user data from an API.
 >
 > **[2:48](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=168)** And I'll hit enter and let Copilot generate the code.
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=190)** And this is the power of custom instructions.
 >
-> **[3:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=192)** Without that file, Copilot may have generated this in a, significantly, different way, such as maybe plain JavaScript, used .then instead of async and wait.
+> **[3:12](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=192)** Without that file, Copilot may have generated this in a, significantly, different way, such as maybe plain [[JavaScript]], used .then instead of async and wait.
 >
 > **[3:23](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/using-copilot-instructions-md-for-project-specific-guidance?u=76281980&t=203)** It might not have included all of the error handling, but because we told it our standards, it follows them automatically.
 >
@@ -664,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[GitHub]] (6), api (2), [[GitHub Copilot]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[GitHub]] (6), [[GitHub Copilot]] (1), [[Fetch]] (1), [[JavaScript]] (1)
 > **Tools:** github (7), vs code (1)
 > **File Paths:** copilot-instructions.md (3), api-client.ts (1)
 > **Env Vars:** api (1)
@@ -672,12 +664,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [host] (1)
 
-#### Enforcing team coding standards with custom configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980)
+#### [Enforcing team coding standards with custom configurations](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=0)** - Previously we set up basic custom instruction for copilot, but in a real team environment, you need more than just basic rules.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=0)** - Previously we set up basic custom instruction for [[Microsoft Copilot|copilot]], but in a real team environment, you need more than just basic rules.
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=8)** You need comprehensive coding standards that cover style, naming conventions, error handling, and documentation.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=187)** And we can test this with something more complex too, with every single one of our standards being ensured that's being followed.
 >
-> **[3:15](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=195)** So we can create a user service class with a method to fetch user data.
+> **[3:15](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=195)** So we can create a user service class with a method to [[Fetch]] user data.
 >
 > **[3:27](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/enforcing-team-coding-standards-with-custom-configurations?u=76281980&t=207)** And when we do this following our Pascal case, making sure that it includes very detailed comments, ensuring that there semicolon is always at the end of it, once again with our syntax.
 >
@@ -757,18 +748,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Debugging]] (1), product (1), [[Fetch]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - previously (1)
 
-#### Challenge: Enforce a custom rule in your codebase
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-enforce-a-custom-rule-in-your-codebase?u=76281980)
+#### [Challenge: Enforce a custom rule in your codebase](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-enforce-a-custom-rule-in-your-codebase?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-enforce-a-custom-rule-in-your-codebase?u=76281980&t=0)** - [Instructor] Being able to efficiently write instructions to your Copilot instruction file can help enforce good specific coding habits.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-enforce-a-custom-rule-in-your-codebase?u=76281980&t=0)** - [Instructor] Being able to efficiently write instructions to your [[Microsoft Copilot|Copilot]] instruction file can help enforce good specific coding habits.
 >
 > **[0:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/challenge-enforce-a-custom-rule-in-your-codebase?u=76281980&t=7)** And here you're going to start writing instructions on your own to try and enforce a specific code pattern that a lot of teams might prefer.
 >
@@ -794,13 +784,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6)
 > **File Paths:** copilot-instructions.md (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Enforce a custom rule with Copilot configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-enforce-a-custom-rule-with-copilot-configuration?u=76281980)
+#### [Solution: Enforce a custom rule with Copilot configuration](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/solution-enforce-a-custom-rule-with-copilot-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -843,12 +832,11 @@ created: 2026-05-02
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Testing custom configurations: Validation and effectiveness
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980)
+#### [Testing custom configurations: Validation and effectiveness](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=0)** - [Instructor] So you've created your Copilot instructions file and added all of your team's coding standards.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=0)** - [Instructor] So you've created your [[Microsoft Copilot|Copilot]] instructions file and added all of your team's coding standards.
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=5)** And everything looks good, but how do you know it's actually working consistently every time?
 >
@@ -856,7 +844,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=13)** Not just with one example, but systematically, across different scenarios.
 >
-> **[0:17](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=17)** Because what works for one type of function may not work for another, and what works in JavaScript might not translate to Python or Go.
+> **[0:17](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=17)** Because what works for one type of function may not work for another, and what works in [[JavaScript]] might not translate to [[Python (Programming Language)|Python]] or Go.
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=25)** So here, we're going to show a practical approach to testing your custom configurations and making sure that they work the way you expect.
 >
@@ -874,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=80)** We can also try different types of functions and see if the rule still applies.
 >
-> **[1:24](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=84)** Let's say we want to do data processing instead of validation.
+> **[1:24](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=84)** Let's say we want to do [[Data Processing]] instead of validation.
 >
 > **[1:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/esting-custom-configurations-validation-and-effectiveness?u=76281980&t=89)** We're going to create a function to process payment that checks account balance and transaction limits.
 >
@@ -918,7 +906,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), data (3), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (6), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Data Processing]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Code Identifiers:** processorder (1)
 > **Env Vars:** gpt (1)
@@ -931,22 +919,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing the right LLM for your development needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980)
+#### [Choosing the right LLM for your development needs](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=0)** - [Instructor] Choosing the right LLM is extremely important for the task that you're trying to accomplish.
 >
-> **[0:06](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=6)** GitHub Copilot supports multiple AI models from different providers, including OpenAI, Anthropic, Google, and xAI.
+> **[0:06](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=6)** [[GitHub Copilot]] supports multiple AI models from different providers, including OpenAI, Anthropic, [[Google]], and xAI.
 >
-> **[0:16](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=16)** If you open up your Copilot settings, you'll see this list of models available to you.
+> **[0:16](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=16)** If you open up your [[Microsoft Copilot|Copilot]] settings, you'll see this list of models available to you.
 >
 > **[0:22](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=22)** But the natural question is, which one should you actually use?
 >
 > **[0:26](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=26)** And it really depends on what you're trying to accomplish.
 >
-> **[0:30](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=30)** And GitHub has actually done a very good job of categorizing these models by task area.
+> **[0:30](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=30)** And [[GitHub]] has actually done a very good job of categorizing these models by task area.
 >
 > **[0:36](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=36)** So let's see how we should think about model selection.
 >
@@ -954,7 +941,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=43)** We have general purpose coding and writing, your everyday coding work, writing functions, generating boiler plates, creating documentations, et cetera.
 >
-> **[0:53](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=53)** For this, it's recommended by GitHub to use models like GPT-4.1, your GPT-5, GPT-5 Mini, or Grok Code Fast 1.
+> **[0:53](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=53)** For this, it's recommended by GitHub to use models like [[GPT-4]].1, your GPT-5, GPT-5 Mini, or Grok Code Fast 1.
 >
 > **[1:04](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=64)** What's nice about these models is that they're fast, still accurate, and work well across different languages and frameworks.
 >
@@ -972,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=140)** Sonnet provides performance and practicality.
 >
-> **[2:24](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=144)** Claude Opus and Gemini Pro may be better for advanced reasoning across long contexts.
+> **[2:24](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=144)** Claude Opus and [[Gemini]] Pro may be better for advanced reasoning across long contexts.
 >
 > **[2:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/choosing-the-right-llm-for-your-development-needs?u=76281980&t=151)** If you're working with visuals, diagrams, screenshots, UI components, and want models with multimodal support, this is where you rely on GPT-5 Mini, Claude Sonnet, or Gemini.
 >
@@ -988,7 +975,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Debugging]] (3), [[Microsoft Copilot|Copilot]] (2), [[Gemini]] (2), llm (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Microsoft Copilot|Copilot]] (2), [[Gemini]] (2), [[GitHub Copilot]] (1), [[Google]] (1)
 > **Env Vars:** gpt (9), llm (1)
 > **Tools:** github (4)
 > **Versions:** 4.1 (2), 4.5 (1)
@@ -997,8 +984,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing model performance: Benchmarking and quality metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980)
+#### [Comparing model performance: Benchmarking and quality metrics](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1010,19 +996,19 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=18)** We can look at metrics like speed, context window size, and pricing, as well as being able to do our own practical tests to see how they perform on real-coding tasks.
 >
-> **[0:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=31)** Starting off with benchmarks, if we pull up some examples, we can see the performance metrics for all of these different AI models.
+> **[0:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=31)** Starting off with benchmarks, if we pull up some examples, we can see the [[Performance Metrics]] for all of these different AI models.
 >
 > **[0:40](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=40)** Firstly, looking at intelligence scores, which is a metric that combines several different benchmarks.
 >
-> **[0:46](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=46)** GPT-five scores the highest while models like Claude Sonnet comes in at a second, Gemini Pro follows closely behind and Grok Code trailing furthermore, so you might assume, okay, I should just use GPT-five for everything since it has the highest score.
+> **[0:46](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=46)** GPT-five scores the highest while models like Claude Sonnet comes in at a second, [[Gemini]] Pro follows closely behind and Grok Code trailing furthermore, so you might assume, okay, I should just use GPT-five for everything since it has the highest score.
 >
 > **[1:06](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=66)** But intelligence score is just one dimension.
 >
 > **[1:10](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=70)** There's many other factors to consider when choosing the right model.
 >
-> **[1:15](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=75)** For example, context window size, Claude sonnet 4.5 and Gemini 2.5 Pro both have million token context windows, meaning that they can look at your entire code base at once.
+> **[1:15](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=75)** For example, context window size, Claude sonnet 4.5 and Gemini 2.5 Pro both have million token context [[Windows]], meaning that they can look at your entire code base at once.
 >
-> **[1:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=89)** GPT-five models have about 400,000 tokens, which is still very good and Grok with 256,000 tokens.
+> **[1:29](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=89)** GPT-five models have about 400,000 [[Tokens]], which is still very good and Grok with 256,000 tokens.
 >
 > **[1:39](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/comparing-model-performance-benchmarking-and-quality-metrics?u=76281980&t=99)** Why does this matter?
 >
@@ -1052,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2), [[Performance Metrics]] (1), ai (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (2), [[Tokens]] (2), [[Performance Metrics]] (1), [[Windows]] (1)
 > **Env Vars:** gpt (4)
 > **Versions:** 4.5 (1), 2.5 (1)
 > **Definitions:** is a  (1)
@@ -1060,16 +1046,15 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [speaker] (1)
 
-#### Cost-benefit analysis of models: ROI and budget planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980)
+#### [Cost-benefit analysis of models: ROI and budget planning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=0)** - [Instructor] Understanding how GitHub Copilot charges you is critical to using it effectively and staying within your budget.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=0)** - [Instructor] Understanding how [[GitHub Copilot]] charges you is critical to using it effectively and staying within your budget.
 >
-> **[0:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=8)** You might think it works like OpenAI's API or Anthropic's API, where you pay per token, input tokens, output tokens, adding them up and paying for what you use.
+> **[0:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=8)** You might think it works like OpenAI's API or Anthropic's API, where you pay per token, input [[Tokens]], output tokens, adding them up and paying for what you use.
 >
-> **[0:21](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=21)** But Copilot doesn't exactly work the same.
+> **[0:21](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=21)** But [[Microsoft Copilot|Copilot]] doesn't exactly work the same.
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=25)** Copilot uses a system of premium requests with model multipliers, and making sure you understand the system is important so that you don't blow through your budget without realizing it.
 >
@@ -1077,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=47)** Copilot Free costs nothing.
 >
-> **[0:50](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=50)** You get about 50 premium requests per month and you have access to a limited set of models, GPT-4.1, 5 Mini, and Sonnet 3.5.
+> **[0:50](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=50)** You get about 50 premium requests per month and you have access to a limited set of models, [[GPT-4]].1, 5 Mini, and Sonnet 3.5.
 >
 > **[1:03](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=63)** This is great if you're just trying out Copilot and want to get ahold of it.
 >
@@ -1109,7 +1094,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=165)** Grok Code has a 0.25 multiplier, meaning that it costs about 1/4 of a request.
 >
-> **[2:54](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=174)** Models like Sonnet 4, Sonnet 3.5, GPT-5, and Gemini Pro all have a 1x multiplier, meaning that each interaction costs one premium request.
+> **[2:54](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=174)** Models like Sonnet 4, Sonnet 3.5, GPT-5, and [[Gemini]] Pro all have a 1x multiplier, meaning that each interaction costs one premium request.
 >
 > **[3:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=187)** And models like Opus 4.1 have a 10x multiplier, meaning that each interaction would cost 10 requests.
 >
@@ -1129,7 +1114,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=271)** So, if you use 100 million tokens in a month, that's about $15 to $60 a month in API costs.
 >
-> **[4:39](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=279)** Copilot Pro is able to give you this essentially unlimited usage for $10 a month integrated within VS Code, GitHub, and all of your development tools, and affordable other models at a much lower cost than if you were using the API, meaning that it's more cheap and cost effective to use Copilot than the API directly.
+> **[4:39](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=279)** Copilot Pro is able to give you this essentially unlimited usage for $10 a month integrated within VS Code, [[GitHub]], and all of your development tools, and affordable other models at a much lower cost than if you were using the API, meaning that it's more cheap and cost effective to use Copilot than the API directly.
 >
 > **[5:04](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/cost-benefit-analysis-of-models-roi-and-budget-planning?u=76281980&t=304)** But being careful about each model and its cost implications is extremely important to be aware of as you're developing, making sure that you're able to choose the model that best suits your tasks.
 >
@@ -1137,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), api (7), [[Tokens]] (4), business (3), [[GPT-4]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (8), [[Tokens]] (4), [[GPT-4]] (2), [[GitHub Copilot]] (1), [[Gemini]] (1)
 > **Versions:** 4.1 (3), 3.5 (2), 0.04 (2), 4.5 (1), 0.33 (1)
 > **Env Vars:** api (7), gpt (4)
 > **Tools:** github (2), vs code (1)
@@ -1145,18 +1130,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps and continuous learning: Advanced topics and expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980)
+#### [Next steps and continuous learning: Advanced topics and expertise](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=0)** - [Instructor] Now, we've discussed a lot how to choose models, compare their performance, understand their costs, and how to work with Copilot and stay up to date in the AI space.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=0)** - [Instructor] Now, we've discussed a lot how to choose models, compare their performance, understand their costs, and how to work with [[Microsoft Copilot|Copilot]] and stay up to date in the AI space.
 >
 > **[0:13](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=13)** But the question is, what do you do with this knowledge and how do you take what you've learned and best apply it to your own work?
 >
 > **[0:22](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=22)** The best way to take in what you've learned is to experiment in your actual projects.
 >
-> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=28)** Understanding this in your real workflow is extremely important to help continue developing your knowledge and continuously learning more about responsible AI development and how it can significantly boost your workflow.
+> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=28)** Understanding this in your real workflow is extremely important to help continue developing your knowledge and continuously learning more about [[Responsible AI]] development and how it can significantly boost your workflow.
 >
 > **[0:44](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=44)** Experimenting with different models, seeing which one truly fits best for the work that you're doing, noticing their differences in how they handle work, how they handle styles, being able to use instructions to your benefit to fine-tune all of these models to create exactly what you want to.
 >
@@ -1170,7 +1154,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=119)** And also, just continuing to look at what's coming next in AI tooling, as AI is always continuously improving.
 >
-> **[2:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=128)** Diving deep into other areas of AI, such as AI agents with Copilot, like the Copilot coding agent that can work more autonomously, which is powerful, but also needs supervision.
+> **[2:08](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=128)** Diving deep into other areas of AI, such as [[AI Agents]] with Copilot, like the Copilot coding agent that can work more autonomously, which is powerful, but also needs supervision.
 >
 > **[2:20](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/next-steps-and-continuous-learning-advanced-topics-and-expertise?u=76281980&t=140)** And also, thinking about how to roll all of these tools out if you're part of a team, how you train your team and establish standards.
 >
@@ -1188,13 +1172,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Microsoft Copilot|Copilot]] (5), business (2), next (2), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Responsible AI]] (1), [[AI Agents]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Community resources and support: Documentation, forums, and contributions
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980)
+#### [Community resources and support: Documentation, forums, and contributions](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,7 +1193,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=27)** It saves a lot of time.
 >
-> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=28)** As for GitHub Copilot, you just go to docs.[github.com/copilot](https://github.com/copilot), and you'll be able to read extremely comprehensive documentation from troubleshooting guides, feature references, model comparisons, and countless other things.
+> **[0:28](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=28)** As for [[GitHub Copilot]], you just go to docs.[[[GitHub]].com/[[Microsoft Copilot|copilot]]](https://github.com/copilot), and you'll be able to read extremely comprehensive documentation from troubleshooting guides, feature references, model comparisons, and countless other things.
 >
 > **[0:45](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=45)** When you hit an issue, you can search through the docs.
 >
@@ -1218,7 +1201,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=55)** If you are using cloud models, anthropic has documentation.
 >
-> **[0:59](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=59)** Gemini has Googled AI's documentation, which are all also listed in Copilots documentation within.
+> **[0:59](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=59)** [[Gemini]] has Googled AI's documentation, which are all also listed in Copilots documentation within.
 >
 > **[1:07](https://www.linkedin.com/learning/responsible-ai-development-with-github-copilot/community-resources-and-support-documentation-forums-and-contributions?u=76281980&t=67)** You can also go to GitHub's community discussion at [github.com/community](https://github.com/community) where there's Copilot sections where you can ask questions and report issues.
 >
@@ -1258,7 +1241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[Search]] (3), hit (2), [[Microsoft Copilot|Copilot]] (2), ai (2)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[Microsoft Copilot|Copilot]] (2), [[GitHub Copilot]] (1), [[Gemini]] (1)
 > **Tools:** github (5), discord (2)
 > **Documentation:** stack overflow (2), the docs (1)
 > **Analogies:** such as (3)

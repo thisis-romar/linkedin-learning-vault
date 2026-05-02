@@ -70,12 +70,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI is transforming every industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
+#### [AI is transforming every industry](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980&t=1)** - Artificial intelligence is the most powerful technology ever invented by man, and AI has already begun to transform every industry in every function, including the one you are in right now.
+> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980&t=1)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is the most powerful technology ever invented by man, and AI has already begun to transform every industry in every function, including the one you are in right now.
 >
 > **[0:16](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/ai-is-transforming-every-industry?u=76281980&t=16)** - In this course, we share case studies on AI's transformational impact across a range of industries, spanning agriculture, retail, finance, tech, and more.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), power (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Speakers:** - artificial (1), - in (1), - hi (1), - and (1), - join (1)
 
 
@@ -97,8 +96,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Aquaculture: How Aquabyte applies machine learning to fish farming
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
+#### [Aquaculture: How Aquabyte applies machine learning to fish farming](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=67)** And as a result, more profitably and sustainably.
 >
-> **[1:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=72)** Similar to the technology in drones and autonomous cars, Aquabyte's AI relies primarily on computer vision and edge computing.
+> **[1:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=72)** Similar to the technology in drones and autonomous cars, Aquabyte's AI relies primarily on [[Computer Vision]] and edge computing.
 >
 > **[1:24](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=84)** Aquabyte has trained its AI models in close collaboration with marine biologists.
 >
@@ -176,18 +174,17 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=274)** Using a machine learning method called transfer learning, Aquabyte is also leveraging the AI models trained for salmon to carry out similar tasks for other types of fish, such as rainbow trout.
 >
-> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=288)** Clearly, AI is playing an expanding role in food sustainability.
+> **[4:48](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/aquaculture-how-aquabyte-applies-machine-learning-to-fish-farming?u=76281980&t=288)** Clearly, AI is playing an expanding role in food [[Sustainability]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (3), power (1), [[Computer Vision]] (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Sustainability]] (1)
 > **Analogies:** such as (3), similar to (1)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - healthy (1)
 
-#### Agriculture: How John Deere embeds AI into farm machines
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980)
+#### [Agriculture: How John Deere embeds AI into farm machines](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=27)** Weeds are interspersed with crops, and often look very similar to crops, even to the human eye.
 >
-> **[0:34](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=34)** The world's largest agricultural machinery company, John Deere, has turned to artificial intelligence to invent a solution.
+> **[0:34](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=34)** The world's largest agricultural machinery company, [[John the Ripper|John]] Deere, has turned to [[Artificial Intelligence (AI)|artificial intelligence]] to invent a solution.
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=42)** Deere, founded in 1837, has pioneered the adoption of new technologies since day one.
 >
@@ -229,7 +226,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=145)** As the machine moves over a ripe grain field, it cuts the plant, extracts the grain, and ejects the stalks, leaves, and cobs from the rear of the harvester.
 >
-> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=157)** Deere's computer vision system monitors the size and shape of grains as they're extracted to check if they're damaged, an important factor in determining the market value of the grain.
+> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=157)** Deere's [[Computer Vision]] system monitors the size and shape of grains as they're extracted to check if they're damaged, an important factor in determining the market value of the grain.
 >
 > **[2:51](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=171)** If the AI detects damage to the grain, it alerts the operator to stop the harvester and make necessary adjustments.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=208)** Trained AI models can detect any obstacles and help the tractor steer around them.
 >
-> **[3:35](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=215)** Given a route and coordinates, the machine can navigate the field, plow the soil, or sow seeds on its own without needing real-time instructions.
+> **[3:35](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=215)** Given a route and coordinates, the machine can navigate the field, plow the soil, or sow seeds on its own without needing [[Real-Time]] instructions.
 >
 > **[3:46](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/agriculture-how-john-deere-embeds-ai-into-farm-machines?u=76281980&t=226)** When needed, the farmer can use a smartphone app to give the machine new orders.
 >
@@ -253,15 +250,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Computer Vision]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - herbicides (1)
 
-#### Food products: How McCormick uses generative AI to develop new flavors
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980)
+#### [Food products: How McCormick uses generative AI to develop new flavors](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,11 +297,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=123)** Could they develop an intelligent platform to create product formulas, one that learns and gets better with feedback?
 >
-> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=132)** In 2019, McCormick signed a formal collaboration with IBM to explore the use of AI for new product development.
+> **[2:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=132)** In 2019, McCormick signed a formal collaboration with IBM to explore the use of AI for new [[Product Development]].
 >
-> **[2:23](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=143)** The collaboration has proved highly successful and the company now has 250 new products in the market conceived entirely by AI.
+> **[2:23](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=143)** The collaboration has proved highly successful and the company now has 250 new [[Microsoft Products|products]] in the market conceived entirely by AI.
 >
-> **[2:34](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=154)** McCormick started by training the AI algorithms on historical data about recipes and their ingredients.
+> **[2:34](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=154)** McCormick started by training the AI [[Algorithms]] on historical data about recipes and their ingredients.
 >
 > **[2:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=162)** The company's database included over 400,000 formulations prepared from over 14,000 ingredients, many in different languages and spread across countries.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=220)** What defines success?
 >
-> **[3:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=223)** What suggestion has the highest probability of success?
+> **[3:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=223)** What suggestion has the highest [[Probability]] of success?
 >
 > **[3:48](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/food-products-how-mccormick-uses-generative-ai-to-develop-new-flavors?u=76281980&t=228)** In actual operation, to develop a new flavor for a particular application, the AI models still start with a seed formula, but now that formula is based on a vast database and the AI models are able to generate several formulations with a high probability of success.
 >
@@ -345,14 +341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), product (6), data (3), database (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Algorithms]] (2), [[Probability]] (2), [[Product Development]] (1)
 > **Definitions:** is a  (2), is an  (1), known as (1), means that (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - have (1)
 
-#### At home: The SNOO Smart Sleeper, where your baby meets AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/at-home-the-snoo-smart-sleeper-where-your-baby-meets-ai?u=76281980)
+#### [At home: The SNOO Smart Sleeper, where your baby meets AI](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/at-home-the-snoo-smart-sleeper-where-your-baby-meets-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,15 +391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2)
 > **Env Vars:** snoo (9), mit (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.2 (1)
 > **Speakers:** - for (1)
 
-#### Tech: How Pinterest uses machine learning to deepen user engagement
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980)
+#### [Tech: How Pinterest uses machine learning to deepen user engagement](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -436,7 +429,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980&t=129)** As a result, the recommender system must be very fast, very responsive, and very scalable.
 >
-> **[2:17](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980&t=137)** Since Pinterest is a visual discovery engine, computer vision is a starting point for the software to interpret each image.
+> **[2:17](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980&t=137)** Since Pinterest is a visual discovery engine, [[Computer Vision]] is a starting point for the software to interpret each image.
 >
 > **[2:27](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/tech-how-pinterest-uses-machine-learning-to-deepen-user-engagement?u=76281980&t=147)** But the goal is to understand not only whether the image is that of a cookie, a shirt, or a floor tile, but also its semantics.
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), ai (2), [[Computer Vision]] (1), next (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), snap (1)
 > **URLs:** [pinterest.com](https://pinterest.com) (1)
@@ -478,8 +471,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - pinterest (1)
 
-#### Retail: How AiFi is pioneering autonomous shopping
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980)
+#### [Retail: How AiFi is pioneering autonomous shopping](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,11 +507,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=111)** And AiFi enabled store relies heavily on a slew of ceiling cameras to track each shopper what they put into the cart or put it back on the shelf if they change their mind.
 >
-> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=126)** Computer vision systems analyze this data to keep a running tally.
+> **[2:06](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=126)** [[Computer Vision]] systems analyze this data to keep a running tally.
 >
 > **[2:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=132)** There are no blind spots and real time processing of images from multiple cameras ensures accuracy.
 >
-> **[2:22](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=142)** Now you might be thinking, what about privacy?
+> **[2:22](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=142)** Now you might be thinking, what about [[Privacy]]?
 >
 > **[2:26](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=146)** In order to comply with privacy laws such as Europe's GDPR, AiFi cameras do not collect facial recognition or biometric data.
 >
@@ -533,13 +525,13 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=187)** AiFi builds a digital replica of the physical store.
 >
-> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=192)** Using its simulation platform, the company is then able to train AI model for that particular store on millions of different shoppers, different levels of shopper density, and different types of shopping behavior.
+> **[3:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=192)** Using its [[Simulation]] platform, the company is then able to train AI model for that particular store on millions of different shoppers, different levels of shopper density, and different types of shopping behavior.
 >
 > **[3:28](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=208)** These simulations enable AiFi to design the optimal configuration of cameras for the particular store and also deploy the technology in as short as one week.
 >
 > **[3:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=222)** At a macro level, AiFi's solution is modular.
 >
-> **[3:46](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=226)** The hardware such as the cameras are industry standard.
+> **[3:46](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=226)** The [[Hardware]] such as the cameras are industry standard.
 >
 > **[3:50](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=230)** The only thing customized to each location is the configuration of the cameras and the AI system.
 >
@@ -553,20 +545,19 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=278)** For the retailer, the benefits include being able to open more stores including nano stores in food deserts, keeping them open 24/7, generating more traffic, and real time visibility into the inventory in each store.
 >
-> **[4:58](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=298)** They also get vast amounts of data on shopper's behaviors to optimize the store layout and the mix of products and brands, not to mention lower labor costs AiFi's goal is to bring autonomy to physical retail and in the process transform it completely.
+> **[4:58](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=298)** They also get vast amounts of data on shopper's behaviors to optimize the store layout and the mix of [[Microsoft Products|products]] and brands, not to mention lower labor costs AiFi's goal is to bring autonomy to physical retail and in the process transform it completely.
 >
 > **[5:23](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/retail-how-aifi-is-pioneering-autonomous-shopping?u=76281980&t=323)** The founder's favorite maxim, the best way to predict the future is to create it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (4), [[Privacy]] (2), [[Computer Vision]] (1), [[Simulation]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Computer Vision]] (1), [[Simulation]] (1), [[Hardware]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** picture (3), such as (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - picture (1)
 
-#### Healthcare: How AI is transforming healthcare
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980)
+#### [Healthcare: How AI is transforming healthcare](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=7)** For much of human history, medical decisions were based entirely on the basis of the knowledge and experience residing in a doctor's or other caregivers head.
 >
-> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=18)** With the advent of big data and AI, this is changing rapidly.
+> **[0:18](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=18)** With the advent of [[Big Data]] and AI, this is changing rapidly.
 >
 > **[0:24](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=24)** Doctors, nurses, testing labs and hospitals can now benefit from the collective expertise of the entire world embedded in AI models.
 >
@@ -588,7 +579,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=67)** AI is also helping diagnose more complex diseases.
 >
-> **[1:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=72)** Computer vision models can already match the accuracy of top radiologists at detecting cancer in lung MRI images.
+> **[1:12](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=72)** [[Computer Vision]] models can already match the accuracy of top radiologists at detecting cancer in lung MRI images.
 >
 > **[1:22](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=82)** They're now starting to be developed and tested for other diseases as well.
 >
@@ -606,7 +597,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=153)** AI is lending a helping hand in several ways.
 >
-> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=157)** For a targeted disease, large language models such as those behind ChatGPT, can crawl through the entire medical literature to find promising new drugs that may otherwise have remained obscure.
+> **[2:37](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=157)** For a targeted disease, [[Large Language Models (LLM)|large language models]] such as those behind [[ChatGPT]], can crawl through the entire medical literature to find promising new drugs that may otherwise have remained obscure.
 >
 > **[2:52](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/healthcare-how-ai-is-transforming-healthcare?u=76281980&t=172)** This task would be impossible for human scientists.
 >
@@ -636,15 +627,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (2), [[Big Data]] (1), [[Computer Vision]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Big Data]] (1), [[Computer Vision]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** such as (2)
 > **Env Vars:** mri (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - along (1)
 
-#### Hollywood: Using generative AI to reinvent live-action movies
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980)
+#### [Hollywood: Using generative AI to reinvent live-action movies](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +678,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980&t=191)** As you can imagine, all of these possibilities are the result of the rapid advances in deep fake technology.
 >
-> **[3:20](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980&t=200)** And with the growing availability of large language models, or LLMs, such as ChatGPT, generative AI is now starting to be used also for script creation.
+> **[3:20](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980&t=200)** And with the growing availability of [[Large Language Models (LLM)|large language models]], or LLMs, such as [[ChatGPT]], [[Generative AI]] is now starting to be used also for script creation.
 >
 > **[3:35](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/hollywood-using-generative-ai-to-reinvent-live-action-movies?u=76281980&t=215)** Using a few prompts, you can have the LLM generate entirely new scripts and create detailed characters, a practice that is rapidly becoming common for creating ads.
 >
@@ -702,13 +692,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), llm (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Generative AI]] (1)
 > **Analogies:** imagine (2), similar to (1), such as (1)
 > **Env Vars:** llm (2)
 > **Speakers:** - have (1)
 
-#### Legal: Generative AI in law firms
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980)
+#### [Legal: Generative AI in law firms](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -722,7 +711,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=30)** In short, over 95% of lawyers' time is spent doing legal research and reviewing and writing documents.
 >
-> **[0:40](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=40)** Generative AI has started transforming all of this work.
+> **[0:40](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=40)** [[Generative AI]] has started transforming all of this work.
 >
 > **[0:45](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=45)** In November, 2022, concurrently with open AI's release of ChatGBT the Open AI Startup Fund led a $5 million investment in Harvey, a Silicon Valley based legal AI startup.
 >
@@ -738,7 +727,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=98)** AI can help draft contracts, agreements, wills and other legal documents by providing templates or generating clauses based on the client's needs and specific legal requirements.
 >
-> **[1:53](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=113)** AI can quickly search through large databases of legal materials, such as case law, legislation and academic articles to find relevant precedents, rules or arguments.
+> **[1:53](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=113)** AI can quickly search through large [[Databases]] of legal materials, such as case law, legislation and academic articles to find relevant precedents, rules or arguments.
 >
 > **[2:08](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/legal-generative-ai-in-law-firms?u=76281980&t=128)** This can speed up the research process and ensure comprehensiveness.
 >
@@ -770,28 +759,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), [[Generative AI]] (3), chatbot (1), [[Search]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Databases]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** pwc (1)
 > **Speakers:** - notwithstanding (1)
 
-#### Finance: AI at your bank
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980)
+#### [Finance: AI at your bank](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=0)** - Using cash to pay for something is rapidly becoming as ancient as using typewriters to create a document.
 >
-> **[0:10](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=10)** In much of the world, the reality today is credit cards or mobile payment systems such as Apple Pay and Google Pay.
+> **[0:10](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=10)** In much of the world, the reality today is credit cards or mobile payment systems such as Apple Pay and [[Google]] Pay.
 >
 > **[0:19](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=19)** As a result, paying for something has become little more than movement of data and change of numbers in various accounts.
 >
-> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=29)** Given this near-complete digitization, banks have been among their early users of artificial intelligence.
+> **[0:29](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=29)** Given this near-complete digitization, banks have been among their early users of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:38](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=38)** Consider the detection and prevention of fraud.
 >
-> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=43)** AI algorithms can analyze large volumes of data across billions of transactions every day, and identify unusual patterns or behavior, such as unauthorized transactions, identity theft or credit card fraud.
+> **[0:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=43)** AI [[Algorithms]] can analyze large volumes of data across billions of transactions every day, and identify unusual patterns or behavior, such as unauthorized transactions, identity theft or credit card fraud.
 >
 > **[1:02](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=62)** As a result, AI can reduce the need for manual intervention, allowing banks to respond more quickly to potential threats and minimize financial losses.
 >
@@ -803,13 +791,13 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=108)** It can do a similar analysis when you or I apply for a car or a home loan.
 >
-> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=115)** AI is also helping banks offer personalized, round-the-clock customer support.
+> **[1:55](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=115)** AI is also helping banks offer personalized, round-the-clock [[Customer Support]].
 >
 > **[2:03](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=123)** AI-powered chatbots can handle a wide range of customer queries, providing quick and efficient support to customers 24/7.
 >
 > **[2:14](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=134)** They can handle account balance inquiries, transaction history requests, and even more complex issues such as loan applications.
 >
-> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=146)** The payoff, happier customers and a more efficient banking operation.
+> **[2:26](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=146)** The payoff, happier customers and a more efficient [[Banking]] operation.
 >
 > **[2:33](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/finance-ai-at-your-bank?u=76281980&t=153)** More recently, AI-driven robo-advisors have emerged as a popular alternative to traditional financial advisors.
 >
@@ -831,17 +819,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Banking]] (3), data (2), management (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Banking]] (3), [[Google]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Algorithms]] (1), [[Customer Support]] (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - using (1)
 
-#### Data: How Google uses AI to cool its data centers
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980)
+#### [Data: How Google uses AI to cool its data centers](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=1)** - Thanks to hyperconnectivity, online shopping, remote work, virtual meetings and cloud computing, we have seen exponential growth in data usage and high demand for data centers.
+> **[0:01](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=1)** - Thanks to hyperconnectivity, online shopping, remote work, virtual meetings and [[Cloud Computing]], we have seen exponential growth in data usage and high demand for data centers.
 >
 > **[0:14](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=14)** But here is something you may not have considered.
 >
@@ -849,7 +836,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=21)** Cooling millions of them can account for nearly a third of the power usage by data centers.
 >
-> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=28)** And while traditional best practices such as the use of computational fluid dynamics, hot air containment, reducing water usage and extensive monitoring help, Google and others wondered whether machine learning could help further cool data centers and reduce energy consumption.
+> **[0:28](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=28)** And while traditional best practices such as the use of computational fluid dynamics, hot air containment, reducing water usage and extensive monitoring help, [[Google]] and others wondered whether machine learning could help further cool data centers and reduce energy consumption.
 >
 > **[0:51](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=51)** According to Google, a data center has chillers, cooling towers, water pumps, heat exchangers and control systems, each with its own settings and all interacting in intricate, nonlinear and often counterintuitive ways.
 >
@@ -863,7 +850,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=105)** Ambient weather conditions and equipment controls also impact the resulting data center efficiencies.
 >
-> **[1:53](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=113)** Using standard formulas for predictive modeling often produces large errors because they fail to capture such complex interdependencies.
+> **[1:53](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=113)** Using standard formulas for [[Predictive Modeling]] often produces large errors because they fail to capture such complex interdependencies.
 >
 > **[2:04](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/data-how-google-uses-ai-to-cool-its-data-centers?u=76281980&t=124)** The sheer number of possible equipment combinations and their set point values makes it difficult to determine where the optimal efficiencies lie.
 >
@@ -899,13 +886,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Google]] (5), ai (4), power (2), application (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Cloud Computing]] (1), [[Predictive Modeling]] (1)
 > **Analogies:** such as (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - thanks (1)
 
-#### Energy: Use of AI in the power sector
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980)
+#### [Energy: Use of AI in the power sector](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -921,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=42)** In order to ensure reliable supply, utilities need to predict how much output they can expect from these renewable sources.
 >
-> **[0:52](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=52)** AI algorithms can combine enormous amounts of meteorological data with the capacity of the solar and wind farms to predict the likely output several hours in advance.
+> **[0:52](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=52)** AI [[Algorithms]] can combine enormous amounts of meteorological data with the capacity of the solar and wind farms to predict the likely output several hours in advance.
 >
 > **[1:07](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=67)** AI is also helping utilities to optimize power generation even in seemingly stable contexts.
 >
@@ -933,7 +919,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=97)** AI is also being deployed for fault prediction in equipment.
 >
-> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=103)** IoT or Internet of Things, sensors embedded in every piece of equipment generate a constant stream of data.
+> **[1:43](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=103)** [[IoT]] or [[IoT|Internet of Things]], sensors embedded in every piece of equipment generate a constant stream of data.
 >
 > **[1:53](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=113)** Algorithms analyze this data to predict the risk of failure in advance and how any failure would cascade through the entire system.
 >
@@ -943,7 +929,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=147)** UK's national grid utilizes drones equipped with higher resolution still and infrared cameras to take images of wires and pylons.
 >
-> **[2:39](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=159)** Computer vision algorithms analyze these images to predict the need for preventive maintenance ahead of potential breakdowns.
+> **[2:39](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=159)** [[Computer Vision]] algorithms analyze these images to predict the need for preventive maintenance ahead of potential breakdowns.
 >
 > **[2:49](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=169)** The advantage of drones lies in the ability to cover vast areas and difficult terrain quickly and inexpensively.
 >
@@ -967,11 +953,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=246)** Summing up, the role of AI in the power sector is to help optimize an extremely complex network with ongoing variability at every node and every link.
 >
-> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=261)** This technology is becoming a major contributor to the stability and sustainability of power supply.
+> **[4:21](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/energy-use-of-ai-in-the-power-sector?u=76281980&t=261)** This technology is becoming a major contributor to the stability and [[Sustainability]] of power supply.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), ai (6), [[Algorithms]] (5), data (4), [[IoT]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[IoT]] (2), [[IoT|Internet of things]] (1), [[Computer Vision]] (1), [[Sustainability]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** node (1)
 > **Definitions:** is a  (1)
@@ -982,8 +968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating AI into your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)
+#### [Integrating AI into your business](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,15 +978,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=24)** - You may like to go back and re-watch the case study that most resonated with you.
 >
-> **[0:31](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=31)** - If you want to dig deeper and learn more about the conceptual side of AI and machine learning, you may watch other courses on this topic on LinkedIn Learning.
+> **[0:31](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=31)** - If you want to dig deeper and learn more about the conceptual side of AI and machine learning, you may watch other courses on this topic on [[LinkedIn]] Learning.
 >
-> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=42)** - Some options to consider, our course on [[Artificial Intelligence and Business Strategy]] and our new favorite [[Generative AI for Business Leaders]] by Tomer Cohen.
+> **[0:42](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=42)** - Some options to consider, our course on [[[[Artificial Intelligence (AI)|Artificial Intelligence]] and Business Strategy]] and our new favorite [[[[Generative AI]] for Business Leaders]] by Tomer Cohen.
 >
-> **[0:55](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=55)** - Consider also the book, "The Age of AI and Our Human Future" co-authored by Henry Kissinger and Eric Schmidt, the former Chairman and CEO of Google.
+> **[0:55](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=55)** - Consider also the book, "The Age of AI and Our Human Future" co-authored by Henry Kissinger and Eric Schmidt, the former Chairman and CEO of [[Google]].
 >
 > **[1:08](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=68)** - Beyond any course, the best way to learn more about something is to really play with it.
 >
-> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=75)** Go to ChatGPT or it's more capable cousin, GPT-4 and see how you can generate useful ideas from interesting prompts whether about fishing, farming, law, banking, or marketing.
+> **[1:15](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=75)** Go to [[ChatGPT]] or it's more capable cousin, [[GPT-4]] and see how you can generate useful ideas from interesting prompts whether about fishing, farming, law, [[Banking]], or marketing.
 >
 > **[1:31](https://www.linkedin.com/learning/artificial-intelligence-case-studies-in-different-business-industries/integrating-ai-into-your-business?u=76281980&t=91)** As you go down the learning curve, you will find yourself swimming in a sea of ideas.
 >
@@ -1009,7 +994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), business (2), [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Generative AI]] (1), [[Google]] (1), [[ChatGPT]] (1)
 > **Speakers:** - ai (1), - the (1), - you (1), - if (1), - some (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** ceo (1), gpt (1)

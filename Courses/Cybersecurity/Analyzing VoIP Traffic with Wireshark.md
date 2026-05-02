@@ -82,16 +82,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand and troubleshoot VoIP
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980)
+#### [Understand and troubleshoot VoIP](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=0)** - [Lisa] Voiceover internet protocol, or IP telephony, uses the IP network to send voice data in packets.
 >
-> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=8)** Join me as I share my knowledge of voiceover IP and video conferencing along with protocols that include TCP/IP, real-time protocols, and Skinny so that you can better troubleshoot your VoIP calls or review network operations, quality of service, and directory integration.
+> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=8)** Join me as I share my knowledge of voiceover IP and video conferencing along with protocols that include TCP/IP, [[Real-Time]] protocols, and Skinny so that you can better troubleshoot your VoIP calls or review network operations, quality of service, and directory integration.
 >
-> **[0:30](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=30)** We'll then finish with a deep dive into Wireshark Statistics to help dissect a VoIP call, analyze RTP traffic, and recognize jitter.
+> **[0:30](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=30)** We'll then finish with a deep dive into [[Wireshark]] [[Statistics]] to help dissect a VoIP call, analyze RTP traffic, and recognize jitter.
 >
 > **[0:41](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understand-and-troubleshoot-voip-27990966?u=76281980&t=41)** Hello, my name is Lisa Bock.
 >
@@ -99,17 +98,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Real-Time]] (1), [[Wireshark]] (1), [[Statistics]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Wireshark]] (1), [[Statistics]] (1)
 > **Env Vars:** tcp (1), rtp (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [lisa] (1)
 
-#### Getting the most out of this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/getting-the-most-out-of-this-course?u=76281980)
+#### [Getting the most out of this course](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/getting-the-most-out-of-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Narrator] This course is an intermediate course intended for network administrators, students, teachers, or anyone with an interest in learning more about voiceover IP and ways you can troubleshoot using Wireshark.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/getting-the-most-out-of-this-course?u=76281980&t=0)** - [Narrator] This course is an intermediate course intended for network administrators, students, teachers, or anyone with an interest in learning more about voiceover IP and ways you can troubleshoot using [[Wireshark]].
 >
 > **[0:16](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/getting-the-most-out-of-this-course?u=76281980&t=16)** Throughout the course we're going to examine pre recaptured packets that are mainly from online repositories.
 >
@@ -142,8 +140,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Voice over IP (VoIP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980)
+#### [Voice over IP (VoIP)](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=34)** VoIP can use both proprietary and open standards.
 >
-> **[0:38](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=38)** Examples include Skype, Google Hangouts, and others.
+> **[0:38](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=38)** Examples include Skype, [[Google]] Hangouts, and others.
 >
 > **[0:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=43)** In addition, there's a number of VoIP apps available for tablets, laptops, or phones.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=126)** Over half the businesses in the US are using VoIP with the other half starting to follow.
 >
-> **[2:13](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=133)** The internet is constantly being optimized to support voice traffic, and products and services are available to combine data and voice networks.
+> **[2:13](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=133)** The internet is constantly being optimized to support voice traffic, and [[Microsoft Products|products]] and services are available to combine data and voice networks.
 >
 > **[2:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voice-over-ip-voip?u=76281980&t=144)** Eventually the internet and the telephone network will be one and the same.
 >
@@ -189,15 +186,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Google]] (1), web (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** isp (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### VoIP and Unified Communications (UC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980)
+#### [VoIP and Unified Communications (UC)](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -215,13 +211,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=42)** It's posted and then picked up at another time.
 >
-> **[0:47](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=47)** Unified communications are tools that rely on a VOIP foundation and combines different forms of communication.
+> **[0:47](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=47)** Unified communications are tools that rely on a VOIP foundation and combines different [[Forms]] of communication.
 >
-> **[0:56](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=56)** Unified communications provides a framework for consistent user interface across multiple devices and improves business communications.
+> **[0:56](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=56)** Unified communications provides a framework for consistent user interface across multiple devices and improves [[Business Communications]].
 >
 > **[1:06](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=66)** Unified communications leverages the IP network.
 >
-> **[1:11](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=71)** We can combine communications across a wide range of platforms, including commercial off-the-shelf tools, such as Outlook and customer relations management and mobile apps.
+> **[1:11](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=71)** We can combine communications across a wide range of platforms, including commercial off-the-shelf tools, such as [[Microsoft Outlook|Outlook]] and [[Customer Relations]] management and mobile apps.
 >
 > **[1:25](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-and-unified-communications-uc?u=76281980&t=85)** Features can include voice, voicemail, fax, chat, email and video conferencing.
 >
@@ -235,13 +231,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (1), [[Business Communications]] (1), [[Microsoft Outlook|Outlook]] (1), [[Customer Relations]] (1), management (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Business Communications]] (1), [[Microsoft Outlook|Outlook]] (1), [[Customer Relations]] (1)
 > **Env Vars:** voip (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Digitizing a signal
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/digitizing-a-signal?u=76281980)
+#### [Digitizing a signal](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/digitizing-a-signal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,14 +282,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), traffic (1)
 > **Definitions:** is a  (1), is called (1), is an  (1)
 > **Versions:** 3.5 (1), 4.2 (1)
 > **Env Vars:** mos (1)
 > **Speakers:** - [instructor] (1)
 
-#### VoIP components
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980)
+#### [VoIP components](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,15 +323,15 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=123)** Routers, switches and voice gateways carry data, voice, and video between all network devices and applications.
 >
-> **[2:12](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=132)** The infrastructure must provide high availability, management, quality of service and network security.
+> **[2:12](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=132)** The infrastructure must provide high availability, management, quality of service and [[Network Security]].
 >
 > **[2:21](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=141)** A voice over IP system has many different components.
 >
-> **[2:25](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=145)** All of which play an important role in providing exceptional quality and ensuring an optimal user experience.
+> **[2:25](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/voip-components?u=76281980&t=145)** All of which play an important role in providing exceptional quality and ensuring an optimal [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), management (1), [[Network Security]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** isdn (1), rtp (1), sip (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** you'll need (1), setup (1)
@@ -352,8 +345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Protocols overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980)
+#### [Protocols overview](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -367,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=29)** Dynamic Host Configuration Protocol supplies network hosts with an IP address and other configuration information such as the subnet mask and default gateway.
 >
-> **[0:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=43)** Real-Time Transport Protocol transports audio and video.
+> **[0:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=43)** [[Real-Time]] Transport Protocol transports audio and video.
 >
 > **[0:48](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=48)** Real-Time Control Protocol carries control information for each RTP session.
 >
@@ -375,7 +367,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=65)** Session Initiation Protocol establishes, maintains, and terminates sessions between parties over the internet, private network, and cell systems.
 >
-> **[1:17](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=77)** Skinny Call Control Protocol is a Cisco proprietary signaling protocol used to register endpoints, provide addressing, return call messages, and control phone display.
+> **[1:17](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=77)** Skinny [[Call Control]] Protocol is a Cisco proprietary signaling protocol used to register endpoints, provide addressing, return call messages, and control phone display.
 >
 > **[1:31](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/protocols-overview?u=76281980&t=91)** H.323 establishes properties such as audio codecs and logical controls for the media transfer.
 >
@@ -385,15 +377,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Real-Time]] (3), [[Call Control]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (3), [[Call Control]] (1)
 > **Env Vars:** tcp (1), rtp (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** setup (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### TCP/IP
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980)
+#### [TCP/IP](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -405,7 +396,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=25)** Other protocols will ride on top of the TCP/IP suite, such as HTTP, FTP, and SMTP.
 >
-> **[0:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=36)** The network layer deals with routing the packets from the source to its destination.
+> **[0:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=36)** The network layer deals with [[Routing]] the packets from the source to its destination.
 >
 > **[0:41](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/tcp-ip?u=76281980&t=41)** The main players in the network layer are IP and ICMP.
 >
@@ -433,18 +424,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Routing]] (2), dns (1)
+> **Frameworks & Libraries:** [[Routing]] (2)
 > **Env Vars:** tcp (8), icmp (2), udp (2), http (1), ftp (1)
 > **Definitions:** is a  (5)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980)
+#### [DHCP](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=0)** - [Instructor] Dynamic Host Configuration Protocol dynamically assigns IP addresses on a local area network.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=0)** - [Instructor] Dynamic Host Configuration Protocol dynamically assigns IP addresses on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dhcp?u=76281980&t=8)** A Cisco IP phone needs the DHCP server to provide an IP address.
 >
@@ -482,18 +472,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Local Area Network (LAN)|Local area network]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (8), vlan (2)
 > **Prerequisites:** you'll need (1), set up (1), configure (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-Time Transport Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980)
+#### [Real-Time Transport Protocol](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=0)** - [Instructor] Real-time Transport Protocol is a transport protocol for media with real time characteristics.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=0)** - [Instructor] [[Real-Time]] Transport Protocol is a transport protocol for media with real time characteristics.
 >
 > **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=8)** It's multicast friendly and has many encoding possibilities.
 >
@@ -503,7 +492,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=35)** So here is an RTP header.
 >
-> **[0:37](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=37)** And we're going to go through those field values in Wireshark.
+> **[0:37](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=37)** And we're going to go through those field values in [[Wireshark]].
 >
 > **[0:42](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=42)** Now I'm at this website which is CloudShark, and I've opened up a packet capture here, you can see, and I filtered it on RTP.
 >
@@ -511,7 +500,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=62)** So once you get into Wireshark and then I filtered it by RTP, Now we can just see the RTP traffic.
 >
-> **[1:12](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=72)** All right, now what I wanted to do was kind of take look, we'll go to Statistics and Flowgraph, and limit it to Display Filter, and bring in the flowgraph.
+> **[1:12](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=72)** All right, now what I wanted to do was kind of take look, we'll go to [[Statistics]] and Flowgraph, and limit it to Display Filter, and bring in the flowgraph.
 >
 > **[1:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=84)** And here you can see RTP between the two end points.
 >
@@ -539,7 +528,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=135)** The next one, it's a P, which is for padding.
 >
-> **[2:19](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=139)** Now padding is sometimes necessary in any of the headers, as you know, but this may be needed by some encryption algorithms with fixed block sizes for carrying several RTP packets in a lower layer protocol data unit.
+> **[2:19](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=139)** Now padding is sometimes necessary in any of the headers, as you know, but this may be needed by some encryption [[Algorithms]] with fixed block sizes for carrying several RTP packets in a lower layer protocol data unit.
 >
 > **[2:35](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-transport-protocol?u=76281980&t=155)** As you see, there is no padding here.
 >
@@ -599,7 +588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (4), [[Wireshark]] (4), traffic (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Wireshark]] (4), [[Statistics]] (1), [[Algorithms]] (1)
 > **Env Vars:** rtp (13), udp (3), tcp (2)
 > **UI Navigation:** go to (2), scroll up (2), scroll down (1)
 > **Definitions:** is a  (4), is an  (1)
@@ -607,16 +596,15 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Real-Time Control Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980)
+#### [Real-Time Control Protocol](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=0)** - [Instructor] We know that Real-Time Transport Protocol is a protocol for media with real-time characteristics.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=0)** - [Instructor] We know that [[Real-Time]] Transport Protocol is a protocol for media with real-time characteristics.
 >
 > **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=8)** However, we also need something to report on the status of the streams.
 >
-> **[0:14](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=14)** Real-Time Control Protocol is a sister protocol to Real-Time Transport Protocol, that provides control information and statistics for an RTP flow.
+> **[0:14](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=14)** Real-Time Control Protocol is a sister protocol to Real-Time Transport Protocol, that provides control information and [[Statistics]] for an RTP flow.
 >
 > **[0:27](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=27)** Now, RTP creates a session for each media stream.
 >
@@ -668,7 +656,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=208)** But it does give us a good example of Real-Time Control Protocol.
 >
-> **[3:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=213)** Now what I did was I went to Export, Download the file and I opened it up in WireShark.
+> **[3:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=213)** Now what I did was I went to Export, Download the file and I opened it up in [[Wireshark]].
 >
 > **[3:39](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/real-time-control-protocol?u=76281980&t=219)** Or you can take a look at it right here in CloudShark.
 >
@@ -712,7 +700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Real-Time]] (15), [[Statistics]] (5), data (2), application (2), management (1)
+> **Frameworks & Libraries:** [[Real-Time]] (15), [[Statistics]] (5), [[Wireshark]] (1)
 > **Env Vars:** rtp (10), udp (1), cname (1), bye (1), sip (1)
 > **Definitions:** is a  (7)
 > **UI Navigation:** go to (1), scroll up (1), scroll down (1)
@@ -721,8 +709,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Exercise Files:** download the (1)
 
-#### Skinny Client Control Protocol (SCCP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980)
+#### [Skinny Client Control Protocol (SCCP)](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -732,7 +719,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=24)** We'll see that Skinny starts out and uses port 2000, and then the connection then moves to RTP.
 >
-> **[0:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=33)** We're going to take this into Wireshark.
+> **[0:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=33)** We're going to take this into [[Wireshark]].
 >
 > **[0:37](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=37)** I have a packet capture that was done in a lab, so here we can see some of the conversation over here on the right-hand side.
 >
@@ -742,7 +729,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=71)** When we take a look at this, we'll see that we know that RTP is being used, but it doesn't quite decode it as RTP.
 >
-> **[1:20](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=80)** Let's go to statistics in Flow Graph.
+> **[1:20](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=80)** Let's go to [[Statistics]] in Flow Graph.
 >
 > **[1:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/skinny-client-control-protocol-sccp?u=76281980&t=84)** In the beginning, we see some just basic information about some commands that are sent.
 >
@@ -810,7 +797,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (6), data (2), [[Statistics]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (6), [[Statistics]] (1)
 > **Env Vars:** rtp (18), udp (3)
 > **UI Navigation:** go to (7), scroll down (1)
 > **CLI Commands:** make (2), find (1)
@@ -824,8 +811,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Gateways and gatekeepers
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/gateways-and-gatekeepers?u=76281980)
+#### [Gateways and gatekeepers](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/gateways-and-gatekeepers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -865,7 +851,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), management (1), application (1)
 > **Env Vars:** rtp (1), sip (1), sigtran (1), ss7 (1)
 > **Definitions:** is a  (2), known as (1), is an  (1)
 > **Analogies:** such as (2)
@@ -873,8 +858,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding MGCP and Megaco (H.248)
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980)
+#### [Understanding MGCP and Megaco (H.248)](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +866,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=12)** In this segment, we'll discover how MGCP Megaco controls the way Media Gateways set up multimedia transmissions.
 >
-> **[0:21](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=21)** We'll also dissect a transaction and Wireshark to see how media gateway control protocol interacts with a Cisco call manager.
+> **[0:21](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=21)** We'll also dissect a transaction and [[Wireshark]] to see how media gateway control protocol interacts with a Cisco call manager.
 >
 > **[0:31](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=31)** First, let's talk about some of the devices involved.
 >
@@ -932,7 +916,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=210)** And here we see 30 packets.
 >
-> **[3:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=213)** So let's go to statistics and flow graph and a limit to display filter.
+> **[3:33](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=213)** So let's go to [[Statistics]] and flow graph and a limit to display filter.
 >
 > **[3:39](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=219)** And here you can see the exchange.
 >
@@ -942,7 +926,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=232)** And here we can see all the commands and how the Media Gateway Control Protocol interacts with the Cisco call manager.
 >
-> **[4:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=240)** But let me bring that into PowerPoint to show us a little bit easier those different commands.
+> **[4:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=240)** But let me bring that into [[Microsoft PowerPoint|PowerPoint]] to show us a little bit easier those different commands.
 >
 > **[4:06](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/understanding-mgcp-and-megaco-h-248?u=76281980&t=246)** So here we see the commands and one of those would be a restart in progress.
 >
@@ -968,15 +952,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (1), management (1), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** mgcp (2), sip (1), udp (1)
 > **Definitions:** is a  (2), known as (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Session Initiation Protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980)
+#### [Session Initiation Protocol](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -984,7 +967,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=19)** SIP is the most common signaling protocol used in VoIP today.
 >
-> **[0:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=24)** As a result, manufacturers are incorporating SIP into various products, such as phones, proxies, gateways, and servers.
+> **[0:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=24)** As a result, manufacturers are incorporating SIP into various [[Microsoft Products|products]], such as phones, proxies, gateways, and servers.
 >
 > **[0:34](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=34)** SIP sessions may involve one or more media streams such as voice and video and includes videoconferencing, IM, gaming, and shared multimedia.
 >
@@ -1020,13 +1003,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=171)** What we're going to get is MagicJack in a short test call right here.
 >
-> **[2:56](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=176)** And then you'll want to open it up in Wireshark.
+> **[2:56](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=176)** And then you'll want to open it up in [[Wireshark]].
 >
 > **[2:59](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=179)** Now, once it's open, we're going to filter.
 >
 > **[3:03](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=183)** Okay, we'll go up here and we're going to say SIP or RTP.
 >
-> **[3:15](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=195)** All right, so now we just have those two protocols and what we can do is go to statistics and flow graph.
+> **[3:15](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=195)** All right, so now we just have those two protocols and what we can do is go to [[Statistics]] and flow graph.
 >
 > **[3:25](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/session-initiation-protocol?u=76281980&t=205)** And I'll bring this over and we'll say limit to display filter so we just have that SIP and then subsequent RTP, the conversation.
 >
@@ -1060,7 +1043,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Microsoft Products|Products]] (1), [[Wireshark]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Wireshark]] (1), [[Statistics]] (1)
 > **Env Vars:** sip (13), rtp (4)
 > **UI Navigation:** go to (4)
 > **Analogies:** such as (4)
@@ -1069,8 +1052,7 @@ created: 2026-05-02
 > **URLs:** [patra.net](https://patra.net) (1)
 > **Versions:** version 2 (1)
 
-#### H.323 family
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/h-323-family?u=76281980)
+#### [H.323 family](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/h-323-family?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1118,8 +1100,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Establishing an H.323 connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980)
+#### [Establishing an H.323 connection](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1189,7 +1170,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=270)** I'm here at this site on H.323 endpoint aliasing and down below it talks about H.323.
 >
-> **[4:40](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=280)** The ID is a string based alias assigned to the endpoint such as conference room 222 or John Smith.
+> **[4:40](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=280)** The ID is a string based alias assigned to the endpoint such as conference room 222 or [[John the Ripper|John]] Smith.
 >
 > **[4:48](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=288)** And these are useful only locally.
 >
@@ -1197,7 +1178,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=299)** So now we'll do one more thing.
 >
-> **[5:01](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=301)** We'll bring this up and we'll go into telephony and we'll look at some of the statistics, one being H.225.
+> **[5:01](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=301)** We'll bring this up and we'll go into telephony and we'll look at some of the [[Statistics]], one being H.225.
 >
 > **[5:09](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/establishing-an-h-323-connection?u=76281980&t=309)** And when we're take a look at this, you can see that there's setup and then down below you see call progress and connect.
 >
@@ -1221,7 +1202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Troubleshooting]] (1), [[Statistics]] (1), traffic (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Statistics]] (1)
 > **Env Vars:** tcp (4), tpkt (2), isdn (2), rtp (1), pcap (1)
 > **Prerequisites:** setup (7), set up (1)
 > **UI Navigation:** go to (2), scroll down (1)
@@ -1230,8 +1211,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** rtp_example (1)
 
-#### Evaluating H.323
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980)
+#### [Evaluating H.323](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1245,7 +1225,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=42)** Then once the call is set up, the properties can begin exchanging data using RTP.
 >
-> **[0:50](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=50)** Let's see how this works in Wireshark.
+> **[0:50](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=50)** Let's see how this works in [[Wireshark]].
 >
 > **[0:53](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=53)** For this example, we'll use the RTP example file.
 >
@@ -1255,7 +1235,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=71)** Now within the frames, I want you to take note that this process uses TCP as we see here.
 >
-> **[1:18](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=78)** So to view the transaction, we'll go to Statistics and then Flow Graph.
+> **[1:18](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=78)** So to view the transaction, we'll go to [[Statistics]] and then Flow Graph.
 >
 > **[1:24](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=84)** And then once there we'll select Limit to display filter.
 >
@@ -1271,7 +1251,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=125)** And then below we see the opening of logical channels and here we see the codec G.711 along with some acknowledgements.
 >
-> **[2:16](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=136)** And now we'll close that and we'll remove the filter and then we can see the rest of the capture.
+> **[2:16](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=136)** And now we'll close that and we'll remove the filter and then we can see the [[Representational State Transfer (REST)|rest]] of the capture.
 >
 > **[2:23](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-h-323?u=76281980&t=143)** Now, once the flow is established the process moves to RTP using UDP.
 >
@@ -1291,7 +1271,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), data (2), [[Wireshark]] (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Statistics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rtp (3), udp (2), tcp (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Code Identifiers:** terminalcapabilityset (1)
@@ -1304,8 +1284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Performance overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980)
+#### [Performance overview](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1328,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980&t=155)** On an IP network, quality of service makes sure that voice data is prioritized when traveling through the network.
 >
-> **[2:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980&t=163)** When you implement quality of service, realtime traffic is delivered first before everything else such as Word documents and email.
+> **[2:43](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980&t=163)** When you implement quality of service, realtime traffic is delivered first before everything else such as [[Microsoft Word|Word]] documents and email.
 >
 > **[2:54](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/performance-overview?u=76281980&t=174)** In addition to configuring the devices to monitor and prioritize time-sensitive traffic, if you outsource voiceover IP, make sure to identify and discuss quality of service issues on the VoIP contract.
 >
@@ -1359,15 +1338,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), web (1), data (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (2), for example (1), it's like (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** make sure to (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quality of service
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980)
+#### [Quality of service](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1353,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=10)** Quality of service makes sure that voice data is prioritized when traveling through an IP network.
 >
-> **[0:17](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=17)** Now, when you implement quality of service, real-time traffic is delivered first, before everything else, such as Word documents or email.
+> **[0:17](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=17)** Now, when you implement quality of service, [[Real-Time]] traffic is delivered first, before everything else, such as [[Microsoft Word|Word]] documents or email.
 >
 > **[0:28](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=28)** Quality of service is also called type of service, quality of service, or in some cases, differential services.
 >
@@ -1397,7 +1375,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=94)** And then you see network control.
 >
-> **[1:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=96)** And those are protocols that deal with routing protocols, or getting the data through to deal with network issues, Internet Key Exchange, EIGRP, Open Shortest Path First.
+> **[1:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=96)** And those are protocols that deal with [[Routing Protocols]], or getting the data through to deal with network issues, Internet Key Exchange, EIGRP, Open Shortest Path First.
 >
 > **[1:51](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=111)** And here we see signaling.
 >
@@ -1425,7 +1403,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=188)** So here you can see, that's a class selector six, and that has to deal with network control.
 >
-> **[3:14](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=194)** So in our image here, we can see that that has to do with EIGRP, Open Shortest Path First, but that's bumping that priority up pretty high so that it really pushes out that traffic so that the routers are aware that other routers are available to provide routing to their traffic.
+> **[3:14](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=194)** So in our image here, we can see that that has to do with EIGRP, Open Shortest Path First, but that's bumping that priority up pretty high so that it really pushes out that traffic so that the routers are aware that other routers are available to provide [[Routing]] to their traffic.
 >
 > **[3:34](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/quality-of-service?u=76281980&t=214)** And here I have Skinny.
 >
@@ -1453,7 +1431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), data (3), [[Real-Time]] (2), [[Microsoft Word|Word]] (1), [[Routing Protocols]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (2), [[Microsoft Word|Word]] (1), [[Routing Protocols]] (1), [[Routing]] (1)
 > **Env Vars:** eigrp (3), rfc (2)
 > **Documentation:** rfc (2)
 > **Definitions:** is a  (2)
@@ -1461,14 +1439,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Domain Name System
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980)
+#### [Domain Name System](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980&t=0)** - [Instructor] Every device that's connected to the internet, such as a web or email server, a VoIP phone, or other end device, has an IP address.
 >
-> **[0:13](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980&t=13)** Domain name system, or DNS, maps a host name to an IP address and works like the internet's phone book.
+> **[0:13](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980&t=13)** [[Domain Name System (DNS)|Domain name system]], or DNS, maps a host name to an IP address and works like the internet's phone book.
 >
 > **[0:21](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/domain-name-system?u=76281980&t=21)** This enables devices to connect with one another.
 >
@@ -1504,19 +1481,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), web (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** sip (6), dns (5), http (1), ldap (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Directory integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/directory-integration?u=76281980)
+#### [Directory integration](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/directory-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/directory-integration?u=76281980&t=0)** - [Instructor] Directories are databases that allow a company to centralize all user information and permissions into a central location that is available to many different applications, and might be required in order to ensure voice over IP functionality.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/directory-integration?u=76281980&t=0)** - [Instructor] Directories are [[Databases]] that allow a company to centralize all user information and permissions into a central location that is available to many different applications, and might be required in order to ensure voice over IP functionality.
 >
 > **[0:21](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/directory-integration?u=76281980&t=21)** LDAP or Lightweight Directory Access Protocol provides applications with a method to access and modify the information in the directory.
 >
@@ -1538,12 +1514,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (1), application (1), [[Search]] (1), web (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 > **Env Vars:** ldap (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using STIR/SHAKEN to reduce robocalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/using-stir-shaken-to-reduce-robocalls?u=76281980)
+#### [Using STIR/SHAKEN to reduce robocalls](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/using-stir-shaken-to-reduce-robocalls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,12 +1593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dissecting a VoIP call
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980)
+#### [Dissecting a VoIP call](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=0)** - [Instructor] When examining a voice-over-IP call, WireShark does a great job of dissecting a number of the common protocols.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=0)** - [Instructor] When examining a voice-over-IP call, [[Wireshark]] does a great job of dissecting a number of the common protocols.
 >
 > **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=8)** Those include SIP and H.323, along with MGCP/Megaco.
 >
@@ -1655,7 +1629,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=108)** Now, once you open the file, you can save it locally and we'll take a look at the Telephony menu choice.
 >
-> **[1:54](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=114)** And within that you can see that there are a number of different statistics.
+> **[1:54](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=114)** And within that you can see that there are a number of different [[Statistics]].
 >
 > **[2:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/dissecting-a-voip-call?u=76281980&t=120)** Now, it really would depend what's included in your capture, the ones you can use, but in this case, we're going to select VoIP calls.
 >
@@ -1697,7 +1671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (7), [[Statistics]] (2), [[Troubleshooting]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (7), [[Statistics]] (2)
 > **Env Vars:** call (4), rejected (3), sip (2), setup (2), ringing (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** such as (1), for example (1)
@@ -1705,14 +1679,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating call quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980)
+#### [Evaluating call quality](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=0)** - [Instructor] When troubleshooting a call, you can view the protocols and evaluate the corresponding real-time protocol streams.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=0)** - [Instructor] When troubleshooting a call, you can view the protocols and evaluate the corresponding [[Real-Time]] protocol streams.
 >
-> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=8)** In this segment, we'll go into the VoIP call statistics and then the play streams feature and then examine some of the choices.
+> **[0:08](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=8)** In this segment, we'll go into the VoIP call [[Statistics]] and then the play streams feature and then examine some of the choices.
 >
 > **[0:17](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=17)** For this segment, we'll use the file sip.pcap next generation.
 >
@@ -1738,7 +1711,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=83)** Well, what if you just wanted to isolate one side?
 >
-> **[1:26](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=86)** I can right click and then I could go to audio routing and then say mute, and that'll keep it quiet while you evaluate the other part of the call.
+> **[1:26](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=86)** I can right click and then I could go to audio [[Routing]] and then say mute, and that'll keep it quiet while you evaluate the other part of the call.
 >
 > **[1:37](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/evaluating-call-quality?u=76281980&t=97)** I'm going to uncheck that and now we'll go unmute.
 >
@@ -1760,17 +1733,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Real-Time]] (1), [[Statistics]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[Statistics]] (1), [[Routing]] (1)
 > **UI Navigation:** click on (1), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing an RTP stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980)
+#### [Analyzing an RTP stream](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=0)** - [Instructor] When evaluating an RTP stream in Wireshark, there are several ways to view the data.
+> **[0:00](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=0)** - [Instructor] When evaluating an RTP stream in [[Wireshark]], there are several ways to view the data.
 >
 > **[0:07](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=7)** In this segment, we'll isolate and analyze the RTP streams.
 >
@@ -1828,7 +1800,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=142)** Now it gives us a nice snapshot of that stream and we can see the source address, port, destination address and port, and here we see the synchronizing source.
 >
-> **[2:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=156)** We can see the RTP packets, duration and some other statistics.
+> **[2:36](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=156)** We can see the RTP packets, duration and some other [[Statistics]].
 >
 > **[2:44](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/analyzing-an-rtp-stream?u=76281980&t=164)** Now let's see, what else can we see?
 >
@@ -1858,14 +1830,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), data (2), [[Statistics]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Statistics]] (2)
 > **Env Vars:** rtp (16)
 > **UI Navigation:** select the (2), go to (1)
 > **Ports:** port 4800 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognizing jitter
-> [LinkedIn Learning](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980)
+#### [Recognizing jitter](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1850,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980&t=28)** But first, let's do a little housekeeping.
 >
-> **[0:31](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980&t=31)** Every once in a while a student will say that Wireshark's unable to see the RTP streams.
+> **[0:31](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980&t=31)** Every once in a while a student will say that [[Wireshark]]'s unable to see the RTP streams.
 >
 > **[0:37](https://www.linkedin.com/learning/analyzing-voip-traffic-with-wireshark/recognizing-jitter?u=76281980&t=37)** Now they know it's in there, but Wireshark's unable to decode it.
 >
@@ -1947,7 +1918,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (4), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4)
 > **Env Vars:** rtp (9), udp (2), pcap (1)
 > **Versions:** 0.83 (3), 12.83 (2)
 > **UI Navigation:** go to (5)

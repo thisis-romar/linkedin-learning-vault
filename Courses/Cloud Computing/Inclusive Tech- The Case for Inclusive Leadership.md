@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusive leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
+#### [Inclusive leadership](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -99,27 +98,26 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=4)** Inclusion efforts, look at how to make the technology industry more meaningfully accessible to people from a wide range of different backgrounds, including people from backgrounds that are currently underrepresented and currently marginalized in tech.
 >
-> **[0:18](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=18)** Building and sustaining inclusive teams has been meaningfully linked to more robust products and to better performing teams.
+> **[0:18](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=18)** Building and sustaining inclusive teams has been meaningfully linked to more robust [[Microsoft Products|products]] and to better performing teams.
 >
 > **[0:26](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=26)** There are concrete actions and approaches that you can take in building, managing and supporting your team as a leader.
 >
 > **[0:35](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=35)** I'm Jessica Rose, a long time advocate for educational and employment access in technology.
 >
-> **[0:41](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=41)** I'm so excited to be speaking to learners interested in learning inclusive leadership and technology.
+> **[0:41](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=41)** I'm so excited to be speaking to learners interested in learning [[Inclusive Leadership]] and technology.
 >
-> **[0:48](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=48)** Join me for my course on LinkedIn learning, where we'll explore not only these concrete actions you can take, but also some of the more abstract aspects of inclusion, such as the ongoing processes of winning over your stakeholders.
+> **[0:48](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=48)** Join me for my course on [[LinkedIn]] learning, where we'll explore not only these concrete actions you can take, but also some of the more abstract aspects of inclusion, such as the ongoing processes of winning over your stakeholders.
 >
 > **[1:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership?u=76281980&t=61)** Let's get started together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Microsoft Products|Products]] (1), [[Inclusive Leadership]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Inclusive Leadership]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Does inclusion really change the game in tech?
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980)
+#### [Does inclusion really change the game in tech?](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -133,7 +131,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=31)** Focusing on just one aspect of diversity inclusion means that equitable support isn't being applied to the current and potential tech talent that might need it.
 >
-> **[0:42](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=42)** It also means that valuable viewpoints aren't making it into our teams and products.
+> **[0:42](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=42)** It also means that valuable viewpoints aren't making it into our teams and [[Microsoft Products|products]].
 >
 > **[0:48](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=48)** Leaders in technology may decide to engage with inclusion efforts for a range of different reasons.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=103)** Building and meaningfully sustaining inclusive teams has been linked to more robust products and to better-performing teams.
 >
-> **[1:53](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=113)** These benefits can sometimes be easily seen, such as when a linguistically diverse team is able to point out that the name of a new product sounds like a rude word in another language.
+> **[1:53](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=113)** These benefits can sometimes be easily seen, such as when a linguistically diverse team is able to point out that the name of a new product sounds like a rude [[Microsoft Word|word]] in another language.
 >
 > **[2:05](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/does-inclusion-really-change-the-game-in-tech?u=76281980&t=125)** But much of the value of your inclusive teams can be harder to passively capture.
 >
@@ -157,14 +155,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), [[Microsoft Products|Products]] (2), [[Security]] (1), product (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** means that (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Making the case for inclusion at work
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980)
+#### [Making the case for inclusion at work](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980&t=170)** If stakeholders aren't receptive to a broader conversation about inclusion, starting with your well-defined goals can be a good jumping off point.
 >
-> **[2:59](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980&t=179)** Many of us are interested in inclusive leadership because it's the ethical way to approach business.
+> **[2:59](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980&t=179)** Many of us are interested in [[Inclusive Leadership]] because it's the ethical way to approach business.
 >
 > **[3:04](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/making-the-case-for-inclusion-at-work?u=76281980&t=184)** It can sometimes feel disingenuous to lead with business cases before the ethical arguments, but leading with the business case for inclusion can often help make inclusivity goals a priority in your company.
 >
@@ -232,7 +229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), business (6), leadership (1), next (1), [[Inclusive Leadership]] (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
@@ -243,8 +240,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building and leading a new team from inclusive foundations
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
+#### [Building and leading a new team from inclusive foundations](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -274,7 +270,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=83)** And how will you track their output?
 >
-> **[1:26](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=86)** Perhaps you'll use Slack, and you'll have daily standup calls, and maybe you'll use Jira to track issues.
+> **[1:26](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=86)** Perhaps you'll use [[Slack]], and you'll have daily standup calls, and maybe you'll use [[Jira]] to track issues.
 >
 > **[1:36](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=96)** Are there going to be barriers to accessibility or inclusion linked to these choices?
 >
@@ -286,7 +282,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=121)** When thinking about the rules and guidelines for your team look critically at how you want to enforce and track these issues at work.
 >
-> **[2:10](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=130)** Some of the most common and most insidious forms of bias in the workplace, stem from uneven application of rules that disproportionately punish marginalized team members.
+> **[2:10](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=130)** Some of the most common and most insidious [[Forms]] of bias in the workplace, stem from uneven application of rules that disproportionately punish marginalized team members.
 >
 > **[2:23](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/building-and-leading-a-new-team-from-inclusive-foundations?u=76281980&t=143)** Questions around how will we communicate acceptable behavior?
 >
@@ -304,14 +300,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Slack]] (1), [[Jira]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Jira]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** slack (1), jira (1)
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inclusive hiring
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980)
+#### [Inclusive hiring](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980&t=9)** Building a thoughtful and inclusive hiring process helps minimize the biases that would limit the pool of talent you can hire from and it helps the hiring process become more equitable for those who may wish to work with you.
 >
-> **[0:25](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980&t=25)** In looking to build more inclusive hiring processes, we're going to be focusing on inclusive outreach in sharing your job advertisements and on working towards use conscious or unconscious bias in screening, interviewing and in hiring.
+> **[0:25](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980&t=25)** In looking to build more inclusive hiring processes, we're going to be focusing on inclusive outreach in sharing your job advertisements and on working towards use conscious or unconscious bias in screening, [[Interviewing]] and in hiring.
 >
 > **[0:42](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-hiring?u=76281980&t=42)** First, let's look at how you present your job opportunities to potential applicants.
 >
@@ -381,15 +376,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Interviewing]] (1), job description (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Interviewing]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting expectations for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980)
+#### [Setting expectations for your team](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980&t=26)** This sounds easy, but creating and fostering these expectations can take a lot of work, and being sure that you're applying these expectations fairly to your team can often be more difficult than it sounds.
 >
-> **[0:40](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980&t=40)** While we like to think of ourselves as unbiased, our decision-making is driven by countless unconscious biases.
+> **[0:40](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980&t=40)** While we like to think of ourselves as unbiased, our [[Decision-Making]] is driven by countless unconscious biases.
 >
 > **[0:48](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/setting-expectations-for-your-team?u=76281980&t=48)** This often acts as a barrier for marginalized talent who finds their behavior more closely policed in the workplace.
 >
@@ -449,19 +443,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maintaining inclusive practices as your team matures
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980)
+#### [Maintaining inclusive practices as your team matures](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=0)** - [Instructor] One of the most exciting things about leading a newly-built tech team is the sense of freshness.
 >
-> **[0:07](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=7)** Everything is so new and you have so many opportunities to build your vision for both your products and your team, but all teams mature.
+> **[0:07](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=7)** Everything is so new and you have so many opportunities to build your vision for both your [[Microsoft Products|products]] and your team, but all teams mature.
 >
 > **[0:17](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=17)** Let's explore some of the ways you can remain focused on inclusion as your new team begins to mature around you.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=128)** This seemed worth looking into.
 >
-> **[2:10](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=130)** After auditing past interview processes, we found that in several years of interviewing and in interviewing for dozens of positions of varying seniority, that this one team member had never given a female applicant a passing score on their interviews.
+> **[2:10](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=130)** After auditing past interview processes, we found that in several years of [[Interviewing]] and in interviewing for dozens of positions of varying seniority, that this one team member had never given a female applicant a passing score on their interviews.
 >
 > **[2:29](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=149)** Without further investigations into their hiring processes, this team would have kept using an interviewer whose active or unconscious biases actively worked against the team goals of building a more representative team.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=292)** And look at the turnover rate for different demographics for your staff.
 >
-> **[4:56](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=296)** Are people from specific groups leaving teams at a higher rate than the rest of the tech industry?
+> **[4:56](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=296)** Are people from specific groups leaving teams at a higher rate than the [[Representational State Transfer (REST)|rest]] of the tech industry?
 >
 > **[5:02](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/maintaining-inclusive-practices-as-your-team-matures?u=76281980&t=302)** Did you have an uptick in turnover that coincided with another hire, a promotion within your team, or perhaps a new policy?
 >
@@ -533,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Interviewing]] (2), [[Microsoft Products|Products]] (1), management (1), application (1)
+> **Frameworks & Libraries:** [[Interviewing]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (5)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -541,8 +534,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Inclusion on new teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-inclusion-on-new-teams?u=76281980)
+#### [Challenge: Inclusion on new teams](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-inclusion-on-new-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -558,7 +550,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **Exercise Files:** exercise files (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [narrator] (1)
@@ -569,8 +560,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading existing teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
+#### [Leading existing teams](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leading-existing-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,12 +638,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5)
 > **CLI Commands:** find (4), make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Identifying barriers to inclusivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980)
+#### [Identifying barriers to inclusivity](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,7 +669,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980&t=106)** Check workloads for your team members, redistribute these tasks within the team as needed.
 >
-> **[1:52](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980&t=112)** Can we reward their hard work with some extra time off to rest and recover?
+> **[1:52](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980&t=112)** Can we reward their hard work with some extra time off to [[Representational State Transfer (REST)|rest]] and recover?
 >
 > **[1:57](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/identifying-barriers-to-inclusivity?u=76281980&t=117)** Are there efforts being supported throughout the company, or do they feel like they're struggling against the larger culture?
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Analogies:** for example (3)
 > **Ports:** :00 (2)
@@ -747,8 +735,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with established stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/working-with-established-stakeholders?u=76281980)
+#### [Working with established stakeholders](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/working-with-established-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -834,15 +821,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** make sure you have (1), you'll need (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Inclusivity in toxic settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusivity-in-toxic-settings?u=76281980)
+#### [Inclusivity in toxic settings](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusivity-in-toxic-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -956,15 +941,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), leadership (1), career (1)
 > **CLI Commands:** find (4), make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Challenge: Leading established teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-leading-established-teams?u=76281980)
+#### [Challenge: Leading established teams](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-leading-established-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -993,8 +976,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusive leadership as a marathon
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
+#### [Inclusive leadership as a marathon](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-leadership-as-a-marathon?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,18 +1034,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), data (2)
 > **CLI Commands:** make (3), find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Balancing time
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980)
+#### [Balancing time](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=1)** - [Instructor] As a leader, you're likely already comfortable managing your own time in demanding situations.
 >
-> **[0:06](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=6)** We're going to be looking at time management and prioritization as it specifically relates to diversity and inclusion work.
+> **[0:06](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=6)** We're going to be looking at time management and prioritization as it specifically relates to [[Diversity and Inclusion]] work.
 >
 > **[0:14](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=14)** If you're going to be making inclusion work a priority for your team, making sure that this work is taken into account in your team schedules will be vital.
 >
@@ -1075,7 +1055,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=46)** Make sure that your inclusion goals are budgeted for in planning, in roadmapping, and in your delivery estimates.
 >
-> **[0:53](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=53)** If you're working in an agile environment, make sure to include work towards these goals in individual sprints.
+> **[0:53](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=53)** If you're working in an [[Agile Development|agile]] environment, make sure to include work towards these goals in individual sprints.
 >
 > **[1:00](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/balancing-time?u=76281980&t=60)** While you may already have clear ideas of how long these different activities will take, be sure to include your team in the planning process.
 >
@@ -1111,14 +1091,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), management (1), business (1), [[Agile Development|Agile]] (1), teams (1)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), [[Agile Development|Agile]] (1)
 > **CLI Commands:** make (8)
 > **Documentation:** the documentation (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Knowing when your voice isn't needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980)
+#### [Knowing when your voice isn't needed](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,7 +1105,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=10)** This isn't always appropriate to do in the inclusion space.
 >
-> **[0:14](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=14)** Part of effective, inclusive leadership is knowing when your energy is better spent supporting other voices, instead of making yourself heard.
+> **[0:14](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=14)** Part of effective, [[Inclusive Leadership]] is knowing when your energy is better spent supporting other voices, instead of making yourself heard.
 >
 > **[0:24](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=24)** As a very rough general guideline, I advise people not to speak on the behalf of groups or identities that they aren't a part of.
 >
@@ -1172,21 +1151,20 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=232)** But when and if you do blunder, being prepared for this eventuality will help you more promptly recognize your mistake, work to take responsibility and then continue to grow.
 >
-> **[4:04](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=244)** If you make serious or repeated mistakes, others may not be willing to move past this, but you still need to take real accountability and continue to work to improve, as you continue with your work in technology and in leadership.
+> **[4:04](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=244)** If you make serious or repeated mistakes, others may not be willing to move past this, but you still need to take real [[Accountability]] and continue to work to improve, as you continue with your work in technology and in leadership.
 >
 > **[4:24](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/knowing-when-your-voice-isn-t-needed?u=76281980&t=264)** Part of continuous improvement in the inclusion space is continually trying to be a better version of yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), [[Accountability]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sre (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Balancing time
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-balancing-time?u=76281980)
+#### [Challenge: Balancing time](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-balancing-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1210,12 +1188,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusive culture change throughout your company
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
+#### [Inclusive culture change throughout your company](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980&t=1)** - [Instructor] Throughout this course, we've looked at ways you can plan for inclusive leadership, focusing on your own team or your own department.
+> **[0:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980&t=1)** - [Instructor] Throughout this course, we've looked at ways you can plan for [[Inclusive Leadership]], focusing on your own team or your own department.
 >
 > **[0:09](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/inclusive-culture-change-throughout-your-company?u=76281980&t=9)** Let's take a moment to look more widely at how you can influence your company's approaches to inclusion work.
 >
@@ -1259,14 +1236,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), teams (1), next (1), leadership (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leadership in the tech industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leadership-in-the-tech-industry?u=76281980)
+#### [Leadership in the tech industry](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/leadership-in-the-tech-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1326,12 +1302,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), open-source (1)
 > **CLI Commands:** find (3), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Beyond your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-beyond-your-team?u=76281980)
+#### [Challenge: Beyond your team](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/challenge-beyond-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1356,12 +1330,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=1)** - [Jessica] We're almost finished with your course on inclusive leadership in tech.
+> **[0:01](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=1)** - [Jessica] We're almost finished with your course on [[Inclusive Leadership]] in tech.
 >
 > **[0:05](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=5)** We've looked at stakeholder management for inclusion work, planning, time management, and so much more.
 >
@@ -1385,9 +1358,9 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=75)** If you're feeling especially motivated right now, pause this video and let's search online for a community that's dedicated diversity inclusion in the area of tech you're most interested in.
 >
-> **[1:28](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=88)** For example, if you're a fan of open source, signing up for the CHAOSS Diversity and Inclusion Working Group might be a great fit.
+> **[1:28](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=88)** For example, if you're a fan of open source, signing up for the CHAOSS [[Diversity and Inclusion]] Working Group might be a great fit.
 >
-> **[1:35](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=95)** Connecting to communities can help give you a place to discuss and react to the reading and learning on inclusion that you're going to need to continue to do.
+> **[1:35](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=95)** Connecting to communities can help give you a place to discuss and [[React.js|react]] to the reading and learning on inclusion that you're going to need to continue to do.
 >
 > **[1:45](https://www.linkedin.com/learning/inclusive-tech-the-case-for-inclusive-leadership/next-steps?u=76281980&t=105)** It can also help provide you with the resources that you may want to add to your reading list.
 >
@@ -1399,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Inclusive Leadership]] (1), [[Programming]] (1), [[Search]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Inclusive Leadership]] (1), [[React.js|React]] (1)
 > **Prerequisites:** you'll need (3)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** chaoss (1)

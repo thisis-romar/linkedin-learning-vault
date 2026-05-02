@@ -97,28 +97,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn advanced troubleshooting in Windows 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
+#### [Learn advanced troubleshooting in Windows 10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=0)** - [Brien] Windows 10 is easily one of the most stable and reliable versions of Windows ever created.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=0)** - [Brien] [[Windows 10]] is easily one of the most stable and reliable versions of [[Windows]] ever created.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=5)** Even so, things can and sometimes do go wrong.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=7)** When that happens, it's important to know how to troubleshoot the problem, and that's what this course is all about.
 >
-> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=13)** In this LinkedIn Learning course, I'll show you some Windows 10 troubleshooting techniques that go beyond the basics.
+> **[0:13](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=13)** In this [[LinkedIn]] Learning course, I'll show you some Windows 10 troubleshooting techniques that go beyond the basics.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=18)** In fact, the techniques that I'm going to be showing you are the same ones that I use in real life and are based on my experiences that I've gained over my last 30 years in IT.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=27)** I'm Brien Posey, a 21 time Microsoft MVP, author, and commercial astronaut candidate, and I'll be your instructor for this course.
+> **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=27)** I'm Brien Posey, a 21 time [[Microsoft]] MVP, author, and commercial astronaut candidate, and I'll be your instructor for this course.
 >
 > **[0:34](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/learn-advanced-troubleshooting-in-windows-10?u=76281980&t=34)** So if you're ready to learn how to troubleshoot Windows, then I welcome you to join me in this LinkedIn Learning course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), [[LinkedIn]] (2), [[Troubleshooting]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), [[LinkedIn]] (2), [[Microsoft]] (1)
 > **Warnings:** troubleshoot (2)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [brien] (1)
@@ -128,12 +127,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Checking for stopped services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
+#### [Checking for stopped services](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980&t=0)** - [Instructor] The Windows operating system makes use of a number of system services that run behind the scenes.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980&t=0)** - [Instructor] The [[Windows]] operating system makes use of a number of system services that run behind the scenes.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/checking-for-stopped-services?u=76281980&t=5)** These services handle all sorts of different tasks that are fundamental to the operating system.
 >
@@ -227,15 +225,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), dns (1)
+> **Frameworks & Libraries:** [[Windows]] (6)
 > **UI Navigation:** double-click (2), right-click (1), go to (1)
 > **Analogies:** for example (3)
 > **Env Vars:** dns (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common causes of service failure
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980)
+#### [Common causes of service failure](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=25)** And I'm just picking this service at random.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=27)** It's part of the Windows operating system.
+> **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=27)** It's part of the [[Windows]] operating system.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=30)** So here you can see the property sheet for the network location awareness service and this particular service is currently running.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=69)** So if a service is a part of the Windows operating system, then typically you'll never have to mess with the account or the password.
 >
-> **[1:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=76)** Microsoft handles all of that for you.
+> **[1:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=76)** [[Microsoft]] handles all of that for you.
 >
 > **[1:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=78)** So why am I showing you this?
 >
@@ -347,11 +344,11 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=274)** So there is a complex relationship of interdependencies among some services.
 >
-> **[4:38](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=278)** So that's something to be aware of as you try to troubleshoot service startup problems in Windows 10.
+> **[4:38](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-causes-of-service-failure?u=76281980&t=278)** So that's something to be aware of as you try to troubleshoot service startup problems in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), application (4), [[Microsoft]] (2), next (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Microsoft]] (2), [[Windows 10]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** dhcp (3), tcp (1)
 > **Analogies:** for example (2), just like (1)
@@ -360,20 +357,19 @@ created: 2026-05-02
 > **Warnings:** be aware (1), troubleshoot (1)
 > **Prerequisites:** install (1), configure (1)
 
-#### Using PowerShell to start failed services
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980)
+#### [Using PowerShell to start failed services](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=0)** - [Instructor] In one of the previous videos I mentioned that any system services that are configured to start automatically, as a general rule, should be running in order for Windows 10 to function properly.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=0)** - [Instructor] In one of the previous videos I mentioned that any system services that are configured to start automatically, as a general rule, should be running in order for [[Windows 10]] to function properly.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=10)** But as you saw in that video, the service control manager list a huge number of services and it can be really tedious to go through that entire list and figure out which services need to be running.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=20)** Fortunately, there's a shortcut, you can use PowerShell to simplify the process.
+> **[0:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=20)** Fortunately, there's a shortcut, you can use [[Powershell]] to simplify the process.
 >
 > **[0:24](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=24)** So let's take a look at how this might work.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=26)** I'm going to go ahead and click on the start button and then I'll go to all apps, and then I'll go to the W section, and I'll click on Windows PowerShell, and then I'm going to right click on Windows PowerShell and go to More and then run as administrator.
+> **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=26)** I'm going to go ahead and click on the start button and then I'll go to all apps, and then I'll go to the W section, and I'll click on [[Windows]] PowerShell, and then I'm going to right click on Windows PowerShell and go to More and then run as administrator.
 >
 > **[0:43](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-start-failed-services?u=76281980&t=43)** And this is going to open an elevated PowerShell session.
 >
@@ -476,18 +472,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** general rule (1)
 
-#### Using Device Manager to find failed devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980)
+#### [Using Device Manager to find failed devices](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=0)** - [Instructor] If you're having trouble getting Windows 10 to work with a particular piece of hardware, there can be any number of underlying causes.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=0)** - [Instructor] If you're having trouble getting [[Windows 10]] to work with a particular piece of [[Hardware]], there can be any number of underlying causes.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=6)** It could be that the hardware itself is bad and needs to be replaced, or it could be a problem with the device driver that Windows 10 uses to communicate with the hardware.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=15)** So, what do you do in a situation like that?
 >
-> **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=18)** Well, Microsoft provides the Device Manager as a way of managing device drivers and helping to identify problems with those device drivers.
+> **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=18)** Well, [[Microsoft]] provides the Device Manager as a way of managing device drivers and helping to identify problems with those device drivers.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-device-manager-to-find-failed-devices?u=76281980&t=26)** So, let's take a look.
 >
@@ -527,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Hardware]] (7), [[Windows 10]] (3), [[Microsoft]] (2), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (7), [[Windows 10]] (3), [[Microsoft]] (2)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1)
@@ -535,14 +530,13 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disabling failed devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980)
+#### [Disabling failed devices](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980&t=0)** - [Narrator] If you find that a particular device is causing problems with Windows 10, then you may occasionally decide to disable that device.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980&t=0)** - [Narrator] If you find that a particular device is causing problems with [[Windows 10]], then you may occasionally decide to disable that device.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980&t=7)** Maybe it's a device that isn't fully supported for use with Windows 10, and disabling that device is the only way of making the problem go away, and helping Windows to be more stable.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980&t=7)** Maybe it's a device that isn't fully supported for use with Windows 10, and disabling that device is the only way of making the problem go away, and helping [[Windows]] to be more stable.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/disabling-failed-devices?u=76281980&t=16)** Or maybe it's a device that just isn't needed anymore, but can't be physically removed.
 >
@@ -591,12 +585,11 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Updating device drivers
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980)
+#### [Updating device drivers](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=0)** - [Instructor] Normally, Windows Update will keep your device drivers up to date.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=0)** - [Instructor] Normally, [[Windows]] Update will keep your device drivers up to date.
 >
 > **[0:03](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=3)** However, if you're using third party device drivers, you may occasionally find that there's a need to manually update a device driver, particularly if you're having problems with a device, and the vendor that made the device has a new driver available.
 >
@@ -628,7 +621,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=93)** In this case, the camera's built in to the laptop.
 >
-> **[1:35](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=95)** It's provided by Microsoft.
+> **[1:35](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=95)** It's provided by [[Microsoft]].
 >
 > **[1:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=96)** I don't have a third party driver for it, so I'm just going to tell Windows to search automatically for the drivers to see if a newer driver is available.
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=138)** And you can see that there are a number of updates to be installed.
 >
-> **[2:21](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=141)** So we have some Windows updates and we have a display driver update right here, we have some firmware updates, and there are some other hardware updates, as well.
+> **[2:21](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=141)** So we have some Windows updates and we have a display driver update right here, we have some firmware updates, and there are some other [[Hardware]] updates, as well.
 >
 > **[2:30](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=150)** For example, down here by my mouse pointer, we have a driver for Bluetooth.
 >
@@ -652,11 +645,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=156)** So there are lots and lots of updates that are available for this machine, and some of those updates are device drivers.
 >
-> **[2:42](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=162)** So that's how you would go about updating the device driver for a hardware component in Windows 10, using the Device Manager.
+> **[2:42](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/updating-device-drivers?u=76281980&t=162)** So that's how you would go about updating the device driver for a hardware component in [[Windows 10]], using the Device Manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Search]] (6), [[Hardware]] (2), prompt (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Hardware]] (2), [[Microsoft]] (1), [[Windows 10]] (1)
 > **UI Navigation:** right-click (2), click on (2), double-click (1), go to (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** msi (1)
@@ -668,12 +661,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Verifying IP address assignments
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
+#### [Verifying IP address assignments](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=0)** - [Instructor] If you're having networking problems with a Windows 10 machine, one of the first things that you should do is to check the machine's IP address assignment.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=0)** - [Instructor] If you're having networking problems with a [[Windows 10]] machine, one of the first things that you should do is to check the machine's IP address assignment.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=8)** So let's take a look at how to do that.
 >
@@ -707,7 +699,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=80)** So the next thing that I want to do is open a command prompt window and to do that, I'm going to click on the Start button and I'll go to the W section.
 >
-> **[1:32](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=92)** And then I'm going to expand Windows System and click on Command Prompt, and this opens up a Command Prompt window.
+> **[1:32](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=92)** And then I'm going to expand [[Windows]] System and click on Command Prompt, and this opens up a Command Prompt window.
 >
 > **[1:39](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=99)** So the command that we use to find out the machine's IP address assignment is ipconfig.
 >
@@ -715,7 +707,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=108)** And when I do, you can see that the machine's IPV4 address is 172.30.214.171 and it has a gateway of 172.30.208.1 So that's great, the machine is getting an IP address, but what about a DNS assignment?
 >
-> **[2:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=125)** Well, the way that we find out what the machine is using as a DNS server is to repeat the ipconfig command, but this time we add a space and then slash and then the word all.
+> **[2:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=125)** Well, the way that we find out what the machine is using as a DNS server is to repeat the ipconfig command, but this time we add a space and then slash and then the [[Microsoft Word|word]] all.
 >
 > **[2:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verifying-ip-address-assignments?u=76281980&t=138)** Now when I press Enter, I get information that is a lot more detailed.
 >
@@ -731,7 +723,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), prompt (4), [[Windows 10]] (2), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (5), dhcp (2), ipv4 (1), ipv6 (1)
 > **UI Navigation:** go to (3), right-click (2), click on (2), open the (1)
 > **Tools:** command prompt (4)
@@ -740,18 +732,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### The ping test
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980)
+#### [The ping test](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=0)** - [Instructor] One of the easiest ways that you can test network connectivity in Windows 10 is to use the ping command, so let's take a look at how that might work.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=0)** - [Instructor] One of the easiest ways that you can test network connectivity in [[Windows 10]] is to use the ping command, so let's take a look at how that might work.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=8)** I'm going to begin by opening a command prompt window.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=10)** So I'll click on the Start button, and then from there I'll go to all apps.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=16)** Next, I'll go to the W section, I'll expand Windows System, and I'll click on Command Prompt, and this opens a command prompt window.
+> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=16)** Next, I'll go to the W section, I'll expand [[Windows]] System, and I'll click on Command Prompt, and this opens a command prompt window.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=26)** Now, the way that the ping command works is that you type ping followed by the IP address of the system that you're wanting to test connectivity to.
 >
@@ -787,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=125)** I'll type control and click OK.
 >
-> **[2:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=128)** And from there, I'm going to go to System and Security, and then I'll click on Windows Defender Firewall, and then I'll click on turn Windows Defender Firewall on or off.
+> **[2:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=128)** And from there, I'm going to go to System and Security, and then I'll click on Windows [[Microsoft Defender|Defender]] Firewall, and then I'll click on turn Windows Defender Firewall on or off.
 >
 > **[2:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-ping-test?u=76281980&t=140)** And I'll go ahead and turn off the firewall.
 >
@@ -831,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[Windows]] (4), [[Windows 10]] (2), next (2), [[Microsoft Defender|Defender]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (2), [[Microsoft Defender|Defender]] (2)
 > **UI Navigation:** click on (4), go to (4), right-click (1)
 > **Versions:** 147.100.100 (4)
 > **Tools:** command prompt (4)
@@ -840,8 +831,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 
-#### Testing DNS name resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980)
+#### [Testing DNS name resolution](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,7 +841,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980&t=16)** I'll go to the W section of the Start menu.
 >
-> **[0:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980&t=20)** I'll expand Windows System.
+> **[0:20](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980&t=20)** I'll expand [[Windows]] System.
 >
 > **[0:22](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/testing-dns-name-resolution?u=76281980&t=22)** And I'll click on Command Prompt to open a command prompt window.
 >
@@ -895,7 +885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), [[Windows]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **Env Vars:** dns (5)
 > **URLs:** [poseylab.com](https://poseylab.com) (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -904,8 +894,7 @@ created: 2026-05-02
 > **Tools:** command prompt (2)
 > **Definitions:** is a  (1)
 
-#### Fixing common DNS issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980)
+#### [Fixing common DNS issues](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=45)** Well, that type of activity would put a huge load on your DNS server, and it would also slow down every system on your network just because of all the extra overhead associated with contacting the DNS server over every little thing.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=57)** So thankfully, that's not the way that Windows works.
+> **[0:57](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=57)** So thankfully, that's not the way that [[Windows]] works.
 >
 > **[1:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=60)** When you resolve a computer name, that resolved name is written to something called the DNS resolver cache so that the next time you have to communicate with that computer, Windows doesn't have to perform yet another DNS name resolution instead it can just look to the cash and find the entry for that computer and do the name resolution that way.
 >
@@ -943,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=142)** And this is going to open an elevated command prompt window when I click yes.
 >
-> **[2:28](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=148)** So you can see that we're in a command prompt window and the Word administrator up here indicates that we're in an elevated command prompt window so we have administrative permissions and what we need to do is clear out the DNS resolver cache.
+> **[2:28](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=148)** So you can see that we're in a command prompt window and the [[Microsoft Word|Word]] administrator up here indicates that we're in an elevated command prompt window so we have administrative permissions and what we need to do is clear out the DNS resolver cache.
 >
 > **[2:39](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-common-dns-issues?u=76281980&t=159)** And the way that we do that is by using the IP config command and if this sounds familiar, it's because the IP config command is the command that's used to verify your IP address.
 >
@@ -963,7 +952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (21), [[Windows]] (4), prompt (4), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft Word|Word]] (1)
 > **Env Vars:** dns (20)
 > **UI Navigation:** go to (3), click on (2)
 > **Tools:** command prompt (4)
@@ -972,12 +961,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the network troubleshooter
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980)
+#### [Using the network troubleshooter](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=0)** - [Instructor] If you're experiencing network problems with a Windows 10 machine and you've thus far been unable to resolve the problems, then one option is to run the network troubleshooter.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=0)** - [Instructor] If you're experiencing network problems with a [[Windows 10]] machine and you've thus far been unable to resolve the problems, then one option is to run the network troubleshooter.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=9)** The network troubleshooter is a mechanism that's built into Windows 10 and it diagnosis common network problems and automatically resolves them.
 >
@@ -987,7 +975,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=27)** (keyboard clicks) And so now I'm ta into the legacy control panel.
 >
-> **[0:32](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=32)** And next I'm going to click on the control panel search box and I'm going to type the word troubleshooting.
+> **[0:32](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=32)** And next I'm going to click on the control panel search box and I'm going to type the [[Microsoft Word|word]] troubleshooting.
 >
 > **[0:40](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=40)** And you can see that I have a result right here.
 >
@@ -1013,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=81)** I'll click next.
 >
-> **[1:23](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=83)** And Windows begins trying to detect any problems that may exist.
+> **[1:23](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=83)** And [[Windows]] begins trying to detect any problems that may exist.
 >
 > **[1:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-network-troubleshooter?u=76281980&t=87)** So now I see a dialogue box and it says Please select the issue Windows should troubleshoot, and I'm going to tell Windows to troubleshoot my connection to the internet.
 >
@@ -1027,23 +1015,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (4), [[Windows]] (4), [[Windows 10]] (2), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Windows 10]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (5), go to (1), select the (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fixing Wi-Fi connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980)
+#### [Fixing Wi-Fi connectivity](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=0)** - [Instructor] If your Windows 10 machine is having trouble with Wi-Fi, then there are several things that you can do to troubleshoot the problem.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=0)** - [Instructor] If your [[Windows 10]] machine is having trouble with Wi-Fi, then there are several things that you can do to troubleshoot the problem.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=7)** One of the first things that I recommend doing is just opening up the task bar and then right-clicking on the network icon, and then we have a troubleshoot problems link right here.
 >
-> **[0:15](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=15)** If I open that, then Windows begins detecting problems with the network adapter, and you can pick and choose which adapter you want to troubleshoot.
+> **[0:15](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=15)** If I open that, then [[Windows]] begins detecting problems with the network adapter, and you can pick and choose which adapter you want to troubleshoot.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-wi-fi-connectivity?u=76281980&t=23)** Now, I'm not actually going to complete this wizard because I'll lose my connection to this machine if I do that, and it will run the video.
 >
@@ -1115,7 +1102,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2), next (1), [[Troubleshooting]] (1), dns (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2), [[Windows]] (2)
 > **UI Navigation:** go to (5), open the (1), click on (1), right-click (1)
 > **Warnings:** troubleshoot (4)
 > **CLI Commands:** make (3)
@@ -1124,12 +1111,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network troubleshooting when Hyper-V is installed
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980)
+#### [Network troubleshooting when Hyper-V is installed](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=0)** - [Instructor] The professional edition of Windows 10 comes with Hyper-V which allows you to run virtual machines on a Windows 10 desktop.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=0)** - [Instructor] The professional edition of [[Windows 10]] comes with Hyper-V which allows you to run [[Virtual Machines]] on a Windows 10 desktop.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=7)** Now, from a troubleshooting standpoint the thing that you need to know is that when Hyper-V is enabled it changes the way that the Windows 10 network stack works.
 >
@@ -1147,7 +1133,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=46)** So as you can see, I've got one network adapter.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=49)** Now if you look at the name of the network adapter, Microsoft Hyper-V Network Adapter, the reason for this name is that you're actually looking at a virtual machine right now.
+> **[0:49](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=49)** Now if you look at the name of the network adapter, [[Microsoft]] Hyper-V Network Adapter, the reason for this name is that you're actually looking at a virtual machine right now.
 >
 > **[0:57](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=57)** So I don't have a physical network adapter, I've only got a virtual network adapter, but Hyper-V is not installed inside of this virtual machine.
 >
@@ -1167,7 +1153,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=114)** And now I want to install Hyper-V so I'm going to drop back to the root of the control panel and then I'm going to go to programs.
 >
-> **[2:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=126)** And then I'll go to turn Windows feature on or off.
+> **[2:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=126)** And then I'll go to turn [[Windows]] feature on or off.
 >
 > **[2:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/network-troubleshooting-when-hyper-v-is-installed?u=76281980&t=130)** And this brings up a list of the various features that are available in Windows 10.
 >
@@ -1261,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (6), [[Microsoft]] (6), [[Troubleshooting]] (3), [[Windows]] (3), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (6), [[Microsoft]] (6), [[Windows]] (3), [[Virtual Machines]] (1)
 > **UI Navigation:** go to (7), click on (6), open the (1), right-click (1), scroll down (1)
 > **Env Vars:** tcp (4), lldp (2), ipv4 (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
@@ -1270,12 +1256,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** install (1)
 
-#### Hyper-V virtual machine connectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/hyper-v-virtual-machine-connectivity?u=76281980)
+#### [Hyper-V virtual machine connectivity](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/hyper-v-virtual-machine-connectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/hyper-v-virtual-machine-connectivity?u=76281980&t=0)** - [Instructor] If you've installed HyperV on Windows 10 and you're having problems with your virtual machines being able to access the network then the problem is almost certainly related to your virtual switch.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/hyper-v-virtual-machine-connectivity?u=76281980&t=0)** - [Instructor] If you've installed HyperV on [[Windows 10]] and you're having problems with your [[Virtual Machines]] being able to access the network then the problem is almost certainly related to your virtual switch.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/hyper-v-virtual-machine-connectivity?u=76281980&t=10)** So let's take a look at why this happens.
 >
@@ -1365,7 +1350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Virtual Machines]] (4), [[Windows 10]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (4), [[Windows 10]] (2)
 > **UI Navigation:** click on (4), go to (3), switch to (1)
 > **Prerequisites:** configure (3), install (1)
 > **Env Vars:** vm1 (1)
@@ -1378,16 +1363,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fixing a computer account
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
+#### [Fixing a computer account](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=0)** - [Instructor] Occasionally, you may find that problems with a computer account can prevent a Windows 10 machine from being able to connect to an active-directory domain.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=0)** - [Instructor] Occasionally, you may find that problems with a computer account can prevent a [[Windows 10]] machine from being able to connect to an active-directory domain.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=8)** Let me show you what I mean.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=10)** What you can see right here is that I'm connected to a Windows server running Hyper-V, and I've got a couple of virtual machines up as evidenced by the RDP session icon, which you can see right here.
+> **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=10)** What you can see right here is that I'm connected to a [[Windows Server]] running Hyper-V, and I've got a couple of [[Virtual Machines]] up as evidenced by the RDP session icon, which you can see right here.
 >
 > **[0:19](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=19)** So right now, I'm looking at a Windows 10 desktop running in this virtual machine that is domain joined.
 >
@@ -1405,7 +1389,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=74)** Because, as I'm sure you're aware, user accounts have passwords associated with them.
 >
-> **[1:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=78)** What a lot of people don't realize, though, is that computer accounts also have a password associated with them, and that computer-account password is something that's maintained by Windows.
+> **[1:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=78)** What a lot of people don't realize, though, is that computer accounts also have a password associated with them, and that computer-account password is something that's maintained by [[Windows]].
 >
 > **[1:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=87)** As an administrator, you never have to touch it.
 >
@@ -1439,7 +1423,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=181)** So let me switch over to my other virtual machine.
 >
-> **[3:03](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=183)** This virtual machine is my active directory domain controller.
+> **[3:03](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=183)** This virtual machine is my [[Active Directory]] domain controller.
 >
 > **[3:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/fixing-a-computer-account?u=76281980&t=186)** And as you can see, I've got the Active Directory Users and Computers console open, and I've got the Computers container selected.
 >
@@ -1480,12 +1464,11 @@ created: 2026-05-02
 > **Env Vars:** rdp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common domain membership problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-domain-membership-problems?u=76281980)
+#### [Common domain membership problems](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-domain-membership-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-domain-membership-problems?u=76281980&t=0)** - [Instructor] If you're having trouble joining a Windows 10 machine to an active directory domain, there are two main things that you should check.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-domain-membership-problems?u=76281980&t=0)** - [Instructor] If you're having trouble joining a [[Windows 10]] machine to an [[Active Directory]] domain, there are two main things that you should check.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/common-domain-membership-problems?u=76281980&t=6)** First of all, you need to verify that a network path exists to a domain controller.
 >
@@ -1559,7 +1542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (7), [[Windows 10]] (3), [[Active Directory]] (3), prompt (3), next (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Active Directory]] (3)
 > **UI Navigation:** go to (6), click on (6)
 > **Env Vars:** dns (7)
 > **Versions:** 147.100.100 (3)
@@ -1568,14 +1551,13 @@ created: 2026-05-02
 > **URLs:** [poseylab.com](https://poseylab.com) (2)
 > **Warnings:** troubleshoot (1)
 
-#### Solving time sync issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980)
+#### [Solving time sync issues](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=0)** - [Instructor] You may have noticed on your Windows 10 PCs that sometimes the clocks tend to drift a little bit.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=0)** - [Instructor] You may have noticed on your [[Windows 10]] PCs that sometimes the clocks tend to drift a little bit.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=5)** Now this might not necessarily be a problem for you, but if the PC is connected to an active directory domain then clock drift can cause major problems, because Windows uses the Kerberos protocol for authentication, and Kerberos is time sensitive.
+> **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=5)** Now this might not necessarily be a problem for you, but if the PC is connected to an [[Active Directory]] domain then clock drift can cause major problems, because [[Windows]] uses the Kerberos protocol for authentication, and Kerberos is time sensitive.
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=18)** So if clocks become out of sync by more than a few minutes, you can have any number of problems that occur.
 >
@@ -1645,7 +1627,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=221)** So now Windows is aware of the most recent changes to the security policy.
 >
-> **[3:45](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=225)** The other thing that we need to do is to restart the Windows Time Service, and we need to do this through PowerShell.
+> **[3:45](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=225)** The other thing that we need to do is to restart the Windows Time Service, and we need to do this through [[Powershell]].
 >
 > **[3:51](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/solving-time-sync-issues?u=76281980&t=231)** So I'm going to click on the start button.
 >
@@ -1679,7 +1661,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (16), prompt (4), [[Powershell]] (4), [[Windows 10]] (3), [[Active Directory]] (3)
+> **Frameworks & Libraries:** [[Windows]] (16), [[Powershell]] (4), [[Windows 10]] (3), [[Active Directory]] (3)
 > **UI Navigation:** go to (7), click on (6)
 > **Env Vars:** ntp (9), nt5ds (1)
 > **Tools:** command prompt (4), powershell (4)
@@ -1693,16 +1675,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running CHKDSK
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
+#### [Running CHKDSK](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=0)** - [Instructor] Sometimes when Windows experiences a problem that problem may be attributed to storage corruption.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=0)** - [Instructor] Sometimes when [[Windows]] experiences a problem that problem may be attributed to storage corruption.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=5)** If the disk becomes corrupt, then some of the Windows system files might also be corrupt and when that happens, Windows can malfunction and exhibit any number of different problems.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=16)** So fortunately, Microsoft has included a tool with Windows that you can use to check for disk corruption and to repair that corruption if it exists.
+> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=16)** So fortunately, [[Microsoft]] has included a tool with Windows that you can use to check for disk corruption and to repair that corruption if it exists.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=23)** The tool is called check disk.
 >
@@ -1786,11 +1767,11 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=276)** Now, one last thing that I do want to quickly mention is that if CHKDSK does find errors and you correct those errors, it's a good idea to keep running CHKDSK with the /f parameter until no more errors are reported because sometimes CHKDSK does need to be run more than once in order to successfully resolve everything.
 >
-> **[4:52](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=292)** So that's how you use CHKDSK to troubleshoot storage problems in Windows 10.
+> **[4:52](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-chkdsk?u=76281980&t=292)** So that's how you use CHKDSK to troubleshoot storage problems in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (12), prompt (7), [[Microsoft]] (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Windows]] (12), [[Microsoft]] (2), [[Windows 10]] (1)
 > **Env Vars:** chkdsk (14), dos (1)
 > **Tools:** command prompt (6), command line (1)
 > **UI Navigation:** click on (2), go to (2)
@@ -1799,12 +1780,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
 
-#### Using the System File Checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-system-file-checker?u=76281980)
+#### [Using the System File Checker](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-system-file-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-system-file-checker?u=76281980&t=0)** - [Instructor] Sometimes when Windows experiences problems, it can be because there's a problem with one of the Windows system files.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-system-file-checker?u=76281980&t=0)** - [Instructor] Sometimes when [[Windows]] experiences problems, it can be because there's a problem with one of the Windows system files.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-system-file-checker?u=76281980&t=6)** The file might be corrupt, or it might be an outdated version.
 >
@@ -1842,7 +1822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (5), prompt (2)
+> **Frameworks & Libraries:** [[Windows]] (5)
 > **Env Vars:** sfc (3)
 > **UI Navigation:** click on (1), right-click (1), go to (1)
 > **Tools:** command prompt (2)
@@ -1850,12 +1830,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restoring a system's health
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980)
+#### [Restoring a system's health](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=0)** - [Instructor] The Windows operating system contains a built-in tool called the Deployment Image Servicing and Management Tool, or DISM, as it's more commonly referred to.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=0)** - [Instructor] The [[Windows]] operating system contains a built-in tool called the Deployment Image Servicing and Management Tool, or DISM, as it's more commonly referred to.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=9)** This tool is typically used for imaging a system.
 >
@@ -1885,23 +1864,22 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=106)** Now, in this case, the entire process took far less than the half an hour that I estimated, and that's probably because this is a lab machine running on a fast computer with nothing really on it, but in a real-world environment, it is common for this process to take a long time.
 >
-> **[2:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=121)** At any rate, that's how you use the DISM tool to restore the health of a Windows 10 PC.
+> **[2:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/restoring-a-system-s-health?u=76281980&t=121)** At any rate, that's how you use the DISM tool to restore the health of a [[Windows 10]] PC.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), prompt (2), management (1), next (1), [[Windows 10]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows 10]] (1)
 > **Env Vars:** dism (5)
 > **UI Navigation:** go to (2), click on (1), right-click (1)
 > **Tools:** command prompt (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verify your Windows build number
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980)
+#### [Verify your Windows build number](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=0)** - [Narrator] Occasionally, you may find that a problem is specific to a certain version of Windows, so it's helpful to be able to know what version of Windows you're actually running, particularly if you're trying to find help online and you find a description of a problem or a fix that pertains to one specific version or one specific build number.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=0)** - [Narrator] Occasionally, you may find that a problem is specific to a certain version of [[Windows]], so it's helpful to be able to know what version of Windows you're actually running, particularly if you're trying to find help online and you find a description of a problem or a fix that pertains to one specific version or one specific build number.
 >
 > **[0:17](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=17)** So let's take a look at how to find your Windows version and build number.
 >
@@ -1913,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=47)** And here, you can see the edition.
 >
-> **[0:49](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=49)** We're running Windows 10 Pro, in this case.
+> **[0:49](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=49)** We're running [[Windows 10]] Pro, in this case.
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/verify-your-windows-build-number?u=76281980&t=51)** The version 21H1, in this case, when that version was installed, followed by the OS build number and the experience.
 >
@@ -1928,14 +1906,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Running Windows Update
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980)
+#### [Running Windows Update](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980&t=0)** - [Instructor] When you experience problems with Windows 10, one of the simplest yet most effective things that you can do is to update Windows.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980&t=0)** - [Instructor] When you experience problems with [[Windows 10]], one of the simplest yet most effective things that you can do is to update [[Windows]].
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980&t=7)** Oftentimes, the updates that Microsoft releases contain bug fixes.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980&t=7)** Oftentimes, the updates that [[Microsoft]] releases contain bug fixes.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-windows-update?u=76281980&t=11)** Now, I'll be the first to admit that even though this is an advanced course, updating Windows is not exactly an advanced topic.
 >
@@ -1975,18 +1952,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Security]] (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows 10]] (3), [[Microsoft]] (1)
 > **UI Navigation:** click on (4), go to (2)
 > **Prerequisites:** install (5)
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Windows Update Troubleshooter
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980)
+#### [Using the Windows Update Troubleshooter](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=0)** - [Instructor] If you're having problems getting Windows Update to work properly, then the very first thing that you should do is check to make sure that you've got internet connectivity.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=0)** - [Instructor] If you're having problems getting [[Windows]] Update to work properly, then the very first thing that you should do is check to make sure that you've got internet connectivity.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=7)** If internet connectivity is working, then the next thing that you should do is run the Windows Update Troubleshooter.
 >
@@ -2006,7 +1982,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=55)** (keyboard clicks) And this is going to bring up the legacy control panel.
 >
-> **[0:59](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=59)** So from there I'm going to type the word troubleshooting into the search box.
+> **[0:59](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=59)** So from there I'm going to type the [[Microsoft Word|word]] troubleshooting into the search box.
 >
 > **[1:09](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-windows-update-troubleshooter?u=76281980&t=69)** And you can see that we have a troubleshooting option, I'll go ahead and click on that now.
 >
@@ -2052,19 +2028,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (9), [[Troubleshooting]] (3), next (2), [[Security]] (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Windows]] (9), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), go to (2), open the (1)
 > **Env Vars:** bits (5)
 > **CLI Commands:** make (2), find (2)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resolving common update errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980)
+#### [Resolving common update errors](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=0)** - [Narrator] If you're having problems with Windows Update, and you haven't been able to use the troubleshooter to resolve those problems, there are a few other things that you can do.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=0)** - [Narrator] If you're having problems with [[Windows]] Update, and you haven't been able to use the troubleshooter to resolve those problems, there are a few other things that you can do.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=8)** The first thing that I recommend doing is unplugging any peripherals from your PC.
 >
@@ -2084,7 +2059,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=30)** The next thing that I recommend trying is just making sure that you've got plenty of free disc space.
 >
-> **[0:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=36)** Now, this is less of an issue with newer Windows builds, because Microsoft actually reserves some space to be used by Windows Update.
+> **[0:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=36)** Now, this is less of an issue with newer Windows builds, because [[Microsoft]] actually reserves some space to be used by Windows Update.
 >
 > **[0:42](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/resolving-common-update-errors?u=76281980&t=42)** But, even with that being the case, low disk space can cause problems.
 >
@@ -2160,7 +2135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (14), next (3), [[Microsoft]] (1), power (1)
+> **Frameworks & Libraries:** [[Windows]] (14), [[Microsoft]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Versions:** 99.7 (1)
 > **Warnings:** troubleshoot (1)
@@ -2172,12 +2147,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Task Manager for performance assessments
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
+#### [Using the Task Manager for performance assessments](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980&t=0)** - [Instructor] If Windows 10 is experiencing performance problems, then one of the simplest tools that you can use to figure out what's going on is the Task Manager.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980&t=0)** - [Instructor] If [[Windows 10]] is experiencing performance problems, then one of the simplest tools that you can use to figure out what's going on is the Task Manager.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-task-manager-for-performance-assessments?u=76281980&t=8)** Let me show you how this works.
 >
@@ -2219,7 +2193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (2), power (1)
+> **Frameworks & Libraries:** [[Windows 10]] (2)
 > **Env Vars:** cpu (6)
 > **UI Navigation:** click on (5), go to (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2227,8 +2201,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with the Resource Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/working-with-the-resource-monitor?u=76281980)
+#### [Working with the Resource Monitor](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/working-with-the-resource-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2308,7 +2281,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/working-with-the-resource-monitor?u=76281980&t=225)** And then, I'll click on the network tab, and the network tab works in essentially the same way as the other tabs that you've seen, in that it shows us the various processes that are running on the machine, and we can see which processes are using the network and how much network bandwidth those processes are consuming.
 >
-> **[4:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/working-with-the-resource-monitor?u=76281980&t=241)** So, that's how you use the Resource Monitor to evaluate a Windows 10 systems performance.
+> **[4:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/working-with-the-resource-monitor?u=76281980&t=241)** So, that's how you use the Resource Monitor to evaluate a [[Windows 10]] systems performance.
 
 > [!info]- Semantic Content
 >
@@ -2318,12 +2291,11 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Performance Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980)
+#### [Using the Performance Monitor](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=0)** - [Instructor] Windows 10's main tool for assessing system performance is called the Performance Monitor.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=0)** - [Instructor] [[Windows 10]]'s main tool for assessing system performance is called the Performance Monitor.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=5)** Now, the Performance Monitor works a little bit differently from the Resource Monitor and the Task Manager because the Resource Monitor and the Task Manager are focused on showing you the individual processes and what types of resources those processes are consuming, things like the amount of memory that each process is using and the amount of CPU time that a process is using.
 >
@@ -2387,13 +2359,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=182)** Values within a certain threshold indicate normal conditions and values that exceed that threshold indicate that there's some sort of issue going on.
 >
-> **[3:11](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=191)** So a lot of times when you're troubleshooting a problem with Windows 10 and you go onto the internet and you find a Microsoft article talking about that problem, they'll tell you to load the Performance Monitor and to look at a specific counter and see if its value falls outside of a certain range, and if the value does fall outside of that range, then Microsoft will tell you what might be going on and what you need to do to solve that problem.
+> **[3:11](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=191)** So a lot of times when you're troubleshooting a problem with Windows 10 and you go onto the internet and you find a [[Microsoft]] article talking about that problem, they'll tell you to load the Performance Monitor and to look at a specific counter and see if its value falls outside of a certain range, and if the value does fall outside of that range, then Microsoft will tell you what might be going on and what you need to do to solve that problem.
 >
 > **[3:34](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-the-performance-monitor?u=76281980&t=214)** So that's how the Performance Monitor works in Windows 10.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows 10]] (3), [[Microsoft]] (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (3), [[Microsoft]] (2)
 > **Env Vars:** cpu (9), ras (1)
 > **Definitions:** is a  (4), is called (1)
 > **UI Navigation:** right-click (1), go to (1), click on (1), select the (1)
@@ -2401,16 +2373,15 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using PowerShell to track resource usage
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980)
+#### [Using PowerShell to track resource usage](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=0)** - [Instructor] Just as you can use the Task Manager and the Resource Monitor to find out what system resources each process is consuming, you can also get that information through PowerShell.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=0)** - [Instructor] Just as you can use the Task Manager and the Resource Monitor to find out what system resources each process is consuming, you can also get that information through [[Powershell]].
 >
 > **[0:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=10)** So let's take a look at how this works.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=11)** I'm going to begin by clicking on the Start button, and then I'm going to go to the W section, I'll go to Windows PowerShell, and then I'm going to right-click on Windows PowerShell, and go to More, and Run as administrator, and that's going to open an elevated PowerShell session.
+> **[0:11](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=11)** I'm going to begin by clicking on the Start button, and then I'm going to go to the W section, I'll go to [[Windows]] PowerShell, and then I'm going to right-click on Windows PowerShell, and go to More, and Run as administrator, and that's going to open an elevated PowerShell session.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/using-powershell-to-track-resource-usage?u=76281980&t=30)** I'll click Yes,
 >
@@ -2503,8 +2474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a blue screen error on demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
+#### [Creating a blue screen error on demand](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2524,7 +2494,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980&t=27)** So what I'm going to do is I'm going to click on the start button and then I'm going to go to the W section.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980&t=38)** I'll expand Windows System, and then I'm going to right-click on Command Prompt, and I'll go to More and Run as administrator.
+> **[0:38](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980&t=38)** I'll expand [[Windows]] System, and then I'm going to right-click on Command Prompt, and I'll go to More and Run as administrator.
 >
 > **[0:46](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/creating-a-blue-screen-error-on-demand?u=76281980&t=46)** And this is going to open an elevated command prompt window.
 >
@@ -2562,13 +2532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), prompt (2)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **UI Navigation:** go to (2), click on (1), right-click (1)
 > **Tools:** command prompt (2)
 > **Speakers:** - [instructor] (1)
 
-#### The anatomy of a blue screen
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980)
+#### [The anatomy of a blue screen](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2582,7 +2551,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980&t=18)** Below that, you're typically going to see a counter that shows what percentage is complete and that percentage reflects the memory dump process.
 >
-> **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980&t=26)** So if you've configured Windows to perform a memory dump when a blue screen error occurs, then this counter is going to show you what percentage of the memory dump is complete.
+> **[0:26](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980&t=26)** So if you've configured [[Windows]] to perform a memory dump when a blue screen error occurs, then this counter is going to show you what percentage of the memory dump is complete.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/the-anatomy-of-a-blue-screen?u=76281980&t=36)** So then, if you go down a little bit further, there are a couple of other things that are going on.
 >
@@ -2602,12 +2571,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), generic (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **URLs:** [windows.com](https://windows.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic troubleshooting steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980)
+#### [Basic troubleshooting steps](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2623,7 +2591,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=51)** And it isn't just applications that can cause blue screen errors.
 >
-> **[0:54](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=54)** If you've recently installed a Windows update or an update to a device driver or even a new device driver or a new piece of hardware, those too can be contributors to the blue screen error.
+> **[0:54](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=54)** If you've recently installed a [[Windows]] update or an update to a device driver or even a new device driver or a new piece of [[Hardware]], those too can be contributors to the blue screen error.
 >
 > **[1:04](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=64)** So whenever you see an error like this, just think about what's changed on your system most recently, because whatever it is that was the most recent change, that's probably what's causing your error.
 >
@@ -2673,7 +2641,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=241)** And then one last stop code that you need to be aware of is DPC watchdog violation.
 >
-> **[4:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=246)** Now, this is one of those stop codes that was really common when Windows 10 first came out, but you don't see it very much anymore.
+> **[4:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=246)** Now, this is one of those stop codes that was really common when [[Windows 10]] first came out, but you don't see it very much anymore.
 >
 > **[4:12](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/basic-troubleshooting-steps?u=76281980&t=252)** Typically it's caused when an SSD, that's a solid state drive, driver is found to be incompatible with Windows.
 >
@@ -2683,7 +2651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), application (5), [[Windows 10]] (2), [[Hardware]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows 10]] (2), [[Hardware]] (1)
 > **Env Vars:** tdr (2), gpu (2), usb (1), irql (1), dpc (1)
 > **Analogies:** for example (2)
 > **Warnings:** troubleshoot (1), be aware (1)
@@ -2691,18 +2659,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running the Reliability Monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980)
+#### [Running the Reliability Monitor](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=0)** - [Instructor] When you experience a blue screen error in Windows 10, it's important to find out if the error is just a one-off situation that happened as a total fluke.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=0)** - [Instructor] When you experience a blue screen error in [[Windows 10]], it's important to find out if the error is just a one-off situation that happened as a total fluke.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=8)** Or if the system has been consistently experiencing blue screen errors.
 >
 > **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=12)** Knowing the answer to this question can help you know how to deal with the error.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=16)** So the best tool that Windows offers for finding out if blue screen errors are happening consistently or not is the reliability monitor.
+> **[0:16](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=16)** So the best tool that [[Windows]] offers for finding out if blue screen errors are happening consistently or not is the reliability monitor.
 >
 > **[0:23](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/running-the-reliability-monitor?u=76281980&t=23)** So let's take a look at how to access and use this tool.
 >
@@ -2776,18 +2743,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), [[Security]] (3), [[Windows 10]] (1), next (1), application (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Windows 10]] (1)
 > **UI Navigation:** click on (3), go to (2), open the (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure a crash dump
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/configure-a-crash-dump?u=76281980)
+#### [Configure a crash dump](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/configure-a-crash-dump?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/configure-a-crash-dump?u=76281980&t=0)** - [Instructor] If you're having problems with blue screen errors, then it's a good idea to configure Windows to create a crash dump file.
+> **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/configure-a-crash-dump?u=76281980&t=0)** - [Instructor] If you're having problems with blue screen errors, then it's a good idea to configure [[Windows]] to create a crash dump file.
 >
 > **[0:06](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/configure-a-crash-dump?u=76281980&t=6)** A crash dump file is essentially a copy of the machine's memory, and you can go through this file a little bit later on and then figure out what it was that caused the blue screen error to occur in the first place.
 >
@@ -2849,15 +2815,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2)
 > **UI Navigation:** go to (1), click on (1), select the (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** configure (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Analyzing a crash dump
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980)
+#### [Analyzing a crash dump](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2921,13 +2886,13 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=127)** What I'm going to do is select the dump file.
 >
-> **[2:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=130)** And then I'm going to go to 'file', and you'll notice that we have all of these Google search options.
+> **[2:10](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=130)** And then I'm going to go to 'file', and you'll notice that we have all of these [[Google]] search options.
 >
 > **[2:14](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=134)** So we can just say Google search bug check.
 >
 > **[2:17](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=137)** I'll go ahead and click that.
 >
-> **[2:19](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=139)** And so what happens is Windows opens up my web browser, and it automatically performs a Google search on the stop code that was generated as a result of the blue screen error.
+> **[2:19](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=139)** And so what happens is [[Windows]] opens up my web browser, and it automatically performs a Google search on the stop code that was generated as a result of the blue screen error.
 >
 > **[2:29](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=149)** And so the very first result is how to fix 'CRITICAL_PROCESS_DIED' errors in Windows.
 >
@@ -2941,11 +2906,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=176)** And again, this is a free utility.
 >
-> **[2:58](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=178)** So that's how you analyze a crash dump file in Windows 10.
+> **[2:58](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/analyzing-a-crash-dump?u=76281980&t=178)** So that's how you analyze a crash dump file in [[Windows 10]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (3), [[Windows]] (2), product (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Windows]] (2), [[Windows 10]] (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** critical_process_died (1)
@@ -2959,24 +2924,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=0)** - [Brien] Thank you for watching my course.
 >
-> **[0:02](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=2)** I truly hope that you enjoyed learning about Windows troubleshooting as much as I enjoyed creating this course for you.
+> **[0:02](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=2)** I truly hope that you enjoyed learning about [[Windows]] troubleshooting as much as I enjoyed creating this course for you.
 >
-> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=7)** If you'd like to learn more about Windows then I would encourage you to check out my other LinkedIn Learning courses.
+> **[0:07](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=7)** If you'd like to learn more about Windows then I would encourage you to check out my other [[LinkedIn]] Learning courses.
 >
-> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=12)** I've created several other Windows courses and I've also developed courses on key topics such as cloud computing in Azure and AWS and Microsoft 365.
+> **[0:12](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=12)** I've created several other Windows courses and I've also developed courses on key topics such as [[Cloud Computing]] in [[Microsoft Azure|Azure]] and AWS and [[Microsoft 365]].
 >
 > **[0:21](https://www.linkedin.com/learning/windows-10-for-it-support-advanced-troubleshooting/next-steps?u=76281980&t=21)** I'm Brien Posey, thanks again for watching.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1), cloud (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[LinkedIn]] (1), [[Cloud Computing]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** aws (1)
 > **Env Vars:** aws (1)
 > **Analogies:** such as (1)

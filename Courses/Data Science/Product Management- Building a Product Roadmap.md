@@ -74,8 +74,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started in building your product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
+#### [Getting started in building your product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980&t=23)** - [Ted] In this course, we'll help you to build a product roadmap for your organization.
 >
-> **[0:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980&t=27)** - [Eldad] One that you'll feel proud of because it supports your organization's business objectives and product strategy, and one that your product stakeholders fully support and feel ownership of because they helped to create it.
+> **[0:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980&t=27)** - [Eldad] One that you'll feel proud of because it supports your organization's business objectives and [[Product Strategy]], and one that your product stakeholders fully support and feel ownership of because they helped to create it.
 >
 > **[0:40](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/getting-started-in-building-your-product-roadmap?u=76281980&t=40)** We take you all the way from inception to implementation with down-to-earth insights based on real-world experience.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), business (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (1)
 > **Speakers:** - if (2), - hi (1), - and (1), - [ted] (1), - [eldad] (1)
 
 
@@ -107,14 +106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Product roadmap definition and purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
+#### [Product roadmap definition and purpose](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=1)** - You might be asking yourself why you need a product roadmap at all.
 >
-> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=5)** After all, if you work on an Agile Product Development Team where you plan one Sprint at a time, what's the point of making a long-term plan?
+> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=5)** After all, if you work on an [[Agile Development|Agile]] [[Product Development]] Team where you plan one Sprint at a time, what's the point of making a long-term plan?
 >
 > **[0:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=12)** And is it even possible to create a roadmap in a dynamic market environment?
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=87)** If you serve large enterprise customers, they often want to see your product roadmap to help them make purchasing and implementation decisions, especially if the industry is new and changing quickly.
 >
-> **[1:38](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=98)** Second are the customer-facing groups in your organization, like sales and marketing and customer support, they may use a product roadmap to develop their materials, such as documentation and training, all of which require some lead-time.
+> **[1:38](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=98)** Second are the customer-facing groups in your organization, like sales and marketing and [[Customer Support]], they may use a product roadmap to develop their materials, such as documentation and training, all of which require some lead-time.
 >
 > **[1:53](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=113)** Third are your investors, your board or executive sponsors who may use a product roadmap to estimate future revenues and costs and decide what level of resources to allocate to your group, including financial investments and a hiring plan.
 >
@@ -148,7 +146,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=140)** Without a longer term plan in place, design can become piecemeal and create unforeseen problems, and there can be many others.
 >
-> **[2:30](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=150)** Consider your human resources team who might need to change hiring plans, or your legal team who might need to develop contracts, and so on.
+> **[2:30](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=150)** Consider your [[Human Resources (HR)|human resources]] team who might need to change hiring plans, or your legal team who might need to develop contracts, and so on.
 >
 > **[2:39](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-definition-and-purpose?u=76281980&t=159)** There's another critical but less obvious function that a product roadmap can provide.
 >
@@ -160,13 +158,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[Product Development]] (6), business (4), [[Agile Development|Agile]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (6), [[Agile Development|Agile]] (1), [[Customer Support]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - you (1)
 
-#### Product roadmap template
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980)
+#### [Product roadmap template](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,11 +173,11 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=10)** First, there is no one format that will work perfectly for every organization.
 >
-> **[0:15](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=15)** Different organizations have a variety of development processes, sales cycles, and decision-making processes.
+> **[0:15](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=15)** Different organizations have a variety of development processes, sales cycles, and [[Decision-Making]] processes.
 >
 > **[0:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=22)** For instance, on a small team with an early-stage product, a whiteboard photo of a prioritized list of future initiatives might serve as an adequate product roadmap.
 >
-> **[0:33](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=33)** While in a large organization with a mature product, you might need a long slide deck with the detailed product strategy and feature breakdowns of each project.
+> **[0:33](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=33)** While in a large organization with a mature product, you might need a long slide deck with the detailed [[Product Strategy]] and feature breakdowns of each project.
 >
 > **[0:42](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=42)** Second, and this is extremely important, the format of the document is far less important than the support of key stakeholders.
 >
@@ -192,9 +189,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=71)** You can download it from the exercise files.
 >
-> **[1:14](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=74)** As you can see, this roadmap uses a graphical layout that can be easily drawn on a slide using software like PowerPoint.
+> **[1:14](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=74)** As you can see, this roadmap uses a graphical layout that can be easily drawn on a slide using software like [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[1:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=82)** The roadmap shows the future time periods along the X-axis at the bottom and the different products along the Y-axis on the left, and then plots the upcoming milestones for each product across the grid.
+> **[1:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=82)** The roadmap shows the future time periods along the X-axis at the bottom and the different [[Microsoft Products|products]] along the Y-axis on the left, and then plots the upcoming milestones for each product across the grid.
 >
 > **[1:36](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=96)** The milestones are typically shown just as text boxes that are positioned at their release date, or they could be long horizontal bars corresponding to the time period when the dev team will be working on them.
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=166)** Now let's talk about the milestones on the grid.
 >
-> **[2:49](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=169)** Remember, the purpose of this document is to allow each of your product stakeholders, including key customers, to coordinate their planning around this product development plan.
+> **[2:49](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=169)** Remember, the purpose of this document is to allow each of your product stakeholders, including key customers, to coordinate their planning around this [[Product Development]] plan.
 >
 > **[3:00](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/product-roadmap-template-14488582?u=76281980&t=180)** So each milestone should be a meaningful bundle of new functionality that will have significant impact on your business.
 >
@@ -228,18 +225,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (3), [[Decision-Making]] (1), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Product Strategy]] (2), [[Decision-Making]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Product Development]] (1)
 > **Analogies:** such as (2), for instance (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - now (1)
 
-#### Roadmaps in agile organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-in-agile-organizations-14490504?u=76281980)
+#### [Roadmaps in agile organizations](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-in-agile-organizations-14490504?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-in-agile-organizations-14490504?u=76281980&t=0)** - If you work with an agile product development team, you probably have a product backlog.
+> **[0:00](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-in-agile-organizations-14490504?u=76281980&t=0)** - If you work with an [[Agile Development|agile]] [[Product Development]] team, you probably have a product backlog.
 >
 > **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-in-agile-organizations-14490504?u=76281980&t=6)** For those of you who aren't familiar with it, the backlog is a prioritized queue of the next most important product development tasks.
 >
@@ -283,14 +279,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), [[Product Development]] (4), [[Agile Development|Agile]] (1), next (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (4), [[Agile Development|Agile]] (1)
 > **Analogies:** such as (2), just like (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)
 
-#### Roadmaps for early-stage products
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980)
+#### [Roadmaps for early-stage products](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,13 +293,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=6)** When you're developing a very early stage product, when you're exploring a new market, a new customer and product, it would be foolish to try to plan out what you're going to develop far into the future.
 >
-> **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=17)** In the very early stages of the product, the team doesn't have a product strategy.
+> **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=17)** In the very early stages of the product, the team doesn't have a [[Product Strategy]].
 >
 > **[0:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=22)** They don't know enough about the market to form a coherent, well-founded strategy.
 >
 > **[0:28](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=28)** Instead, they probably have ideas about some unmet customer needs and a possible way to meet those needs to create business value.
 >
-> **[0:36](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=36)** In this case, the purpose of product development isn't to support the product strategy.
+> **[0:36](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=36)** In this case, the purpose of [[Product Development]] isn't to support the product strategy.
 >
 > **[0:41](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/roadmaps-for-early-stage-products-14489543?u=76281980&t=41)** It's to learn about the market and the customers and validate the hypotheses that will later form the basis of the product strategy.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), business (1), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (4), [[Product Development]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - there (1)
 
@@ -335,8 +330,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of process when developing a product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
+#### [The importance of process when developing a product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,11 +364,11 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=86)** It was never going to work.
 >
-> **[1:28](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=88)** So the reason you need to get key stakeholders aligned around your product roadmap is that product development doesn't happen in a vacuum.
+> **[1:28](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=88)** So the reason you need to get key stakeholders aligned around your product roadmap is that [[Product Development]] doesn't happen in a vacuum.
 >
 > **[1:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=95)** The purpose of product development is to serve the business, to support the company's overall strategy, usually by winning customer adoption, loyalty, and ultimately revenue.
 >
-> **[1:45](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=105)** And that almost always requires that all of the different functional groups in your company work together, including sales, marketing, customer support, and so on.
+> **[1:45](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=105)** And that almost always requires that all of the different functional groups in your company work together, including sales, marketing, [[Customer Support]], and so on.
 >
 > **[1:54](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-importance-of-process-when-developing-a-product-roadmap?u=76281980&t=114)** If any of them aren't on board and doing their part, it's going to present a major barrier to the success of the product plan achieving its intended objectives.
 >
@@ -390,19 +384,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), hit (2), [[Product Development]] (2), [[Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Product Development]] (2), [[Customer Support]] (1)
 > **Env Vars:** ceo (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
-#### Why product roadmaps fail
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980)
+#### [Why product roadmaps fail](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=1)** - In order for a product roadmap to be successful, it needs three things.
 >
-> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=5)** It must be based on a sound product strategy.
+> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=5)** It must be based on a sound [[Product Strategy]].
 >
 > **[0:08](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=8)** It must be realistic.
 >
@@ -428,11 +421,11 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=84)** There are several good reasons to prevent this.
 >
-> **[1:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=87)** First, their intuition can be faulty, and there is information from the rest of the stakeholders that the leader doesn't have or isn't taking into consideration.
+> **[1:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=87)** First, their intuition can be faulty, and there is information from the [[Representational State Transfer (REST)|rest]] of the stakeholders that the leader doesn't have or isn't taking into consideration.
 >
 > **[1:36](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=96)** You can end up with a roadmap that is based on flawed assumptions about the market, or which is just plain unrealistic.
 >
-> **[1:43](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=103)** Second, when other company leaders and stakeholders aren't part of the decision-making process, you can end up with a lack of alignment, meaning that some people will not be supporting it or worse, actively trying to undermine it.
+> **[1:43](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=103)** Second, when other company leaders and stakeholders aren't part of the [[Decision-Making]] process, you can end up with a lack of alignment, meaning that some people will not be supporting it or worse, actively trying to undermine it.
 >
 > **[1:57](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/why-product-roadmaps-fail?u=76281980&t=117)** Here's the best way to handle this situation.
 >
@@ -456,14 +449,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Representational State Transfer (REST)|Rest]] (2), business (1), next (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Product Strategy]] (1), [[Decision-Making]] (1)
 > **Env Vars:** ceo (1), cto (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Select your stakeholders in developing your roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980)
+#### [Select your stakeholders in developing your roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980&t=18)** Your most important stakeholder, as well as your partner in building the roadmap, will be your business leader, usually a CEO or general manager of your business unit.
 >
-> **[0:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980&t=27)** Ideally, this should be someone who leads the business functions other than product development, including sales, marketing, and customer support.
+> **[0:27](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980&t=27)** Ideally, this should be someone who leads the business functions other than [[Product Development]], including sales, marketing, and [[Customer Support]].
 >
 > **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/select-your-stakeholders-in-developing-your-roadmap?u=76281980&t=35)** You'll need this business leader to allocate the resources, especially the headcount, and you'll need them to remind each of the stakeholders to prioritize the tasks necessary for roadmap success.
 >
@@ -517,15 +509,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Product Development]] (4), product (4), hit (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Product Development]] (4), [[Customer Support]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (2)
 > **Prerequisites:** you'll need (2)
 > **Analogies:** for example (1)
 > **Speakers:** - choosing (1)
 
-#### Customer research to inform your product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980)
+#### [Customer research to inform your product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -533,7 +524,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=5)** The answer is simple.
 >
-> **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=7)** The more you know about your customer and your market, the more you can speak with authority about the impact of specific product development options.
+> **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=7)** The more you know about your customer and your market, the more you can speak with authority about the impact of specific [[Product Development]] options.
 >
 > **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=17)** Customer knowledge is the primary currency of a product manager.
 >
@@ -595,21 +586,20 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=153)** Well, you know you've talked to enough of them when you start to be able to predict how they're going to answer your questions.
 >
-> **[2:39](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=159)** Amazingly, in practice, for many products, it seems like five customer conversations is often enough.
+> **[2:39](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=159)** Amazingly, in practice, for many [[Microsoft Products|products]], it seems like five customer conversations is often enough.
 >
 > **[2:47](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=167)** After even the first few conversations, you are sure to bring home lots of insights about what they need, how they make decisions, and what the product needs to do differently in order to achieve your business goals.
 >
-> **[2:57](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=177)** When you bring these insights back to the rest of your team, you'll be able to speak with authority and you're sure to earn their respect.
+> **[2:57](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/customer-research-to-inform-your-product-roadmap?u=76281980&t=177)** When you bring these insights back to the [[Representational State Transfer (REST)|rest]] of your team, you'll be able to speak with authority and you're sure to earn their respect.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), business (2), [[Product Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Product Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - people (1)
 
-#### Start with product strategy when building your roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980)
+#### [Start with product strategy when building your roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -619,7 +609,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=17)** So what kinds of things would you want to know?
 >
-> **[0:20](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=20)** Well, who my customers are and what their needs are, what features our product currently has and how well the product is meeting the needs of our customers today and finally, what are the competing products in the market and what functionality do they have?
+> **[0:20](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=20)** Well, who my customers are and what their needs are, what features our product currently has and how well the product is meeting the needs of our customers today and finally, what are the competing [[Microsoft Products|products]] in the market and what functionality do they have?
 >
 > **[0:36](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=36)** You might also realize that you can't be sure of what my business objectives even are.
 >
@@ -631,7 +621,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=54)** The point here, is that you can't really evaluate the quality of my product roadmap without knowing something about my company's strategy.
 >
-> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=62)** So, the first step in roadmap development is to clearly articulate your product strategy.
+> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=62)** So, the first step in roadmap development is to clearly articulate your [[Product Strategy]].
 >
 > **[1:10](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/start-with-product-strategy-when-building-your-roadmap?u=76281980&t=70)** A product strategy is a description of the way your company or business unit intends to achieve its business goals with its product.
 >
@@ -675,7 +665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (18), business (8), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (6), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), in other words (1)
 > **Best Practices:** make sure to (1), it's best to (1)
@@ -687,14 +677,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify key milestones for high-impact product roadmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
+#### [Identify key milestones for high-impact product roadmaps](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=1)** - This next step may well be the most creative part of building your product roadmap.
 >
-> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=5)** Let's say you've assembled your team of product stakeholders and together have aligned around a specific product strategy.
+> **[0:05](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=5)** Let's say you've assembled your team of product stakeholders and together have aligned around a specific [[Product Strategy]].
 >
 > **[0:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=12)** Now it's time to identify the sequence of product milestones that best implement that product strategy.
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=66)** Remember that milestones can be impactful in different ways.
 >
-> **[1:09](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=69)** Some may just address pain points of existing customers increasing their usage or reducing their churn, and other milestones may allow your customers to use your product in new ways and reduce some of the appeal of competing products.
+> **[1:09](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=69)** Some may just address pain points of existing customers increasing their usage or reducing their churn, and other milestones may allow your customers to use your product in new ways and reduce some of the appeal of competing [[Microsoft Products|products]].
 >
 > **[1:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/identify-key-milestones-for-high-impact-product-roadmaps?u=76281980&t=82)** Some might be intended to open up new markets for an existing product or even launch a new product that has strategic value to the business, and sometimes the milestones won't directly benefit your customer, but would benefit some other strategic objective, like opening up a new distribution channel or lowering your cost structure.
 >
@@ -748,14 +737,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (19), next (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (5), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), for instance (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - this (1)
 
-#### Estimate levels of effort in your product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980)
+#### [Estimate levels of effort in your product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980&t=7)** This will help you put dates on the roadmap that are as realistic as possible.
 >
-> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980&t=11)** You'll need to work with your product development leader on this.
+> **[0:11](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980&t=11)** You'll need to work with your [[Product Development]] leader on this.
 >
 > **[0:15](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/estimate-levels-of-effort-in-your-product-roadmap?u=76281980&t=15)** To start, you'll need a realistic estimate of the development capacity of your team.
 >
@@ -805,14 +793,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Product Development]] (5), product (4), [[Engineering]] (2), next (1), business (1)
+> **Frameworks & Libraries:** [[Product Development]] (5)
 > **Prerequisites:** you'll need (3)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - now (1)
 
-#### The first draft of your product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980)
+#### [The first draft of your product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -820,9 +807,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=6)** I call this version a straw man because it's just a rough first draft, and it's likely to change a bit before it gets approved by the team.
 >
-> **[0:13](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=13)** It's a good idea to produce a straw man before meeting with your team because you're more likely to have a productive discussion when you start with something concrete for people to react to.
+> **[0:13](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=13)** It's a good idea to produce a straw man before meeting with your team because you're more likely to have a productive discussion when you start with something concrete for people to [[React.js|react]] to.
 >
-> **[0:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=22)** Your first step is to roughly sequence your milestones in terms of their value in supporting your product strategy.
+> **[0:22](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=22)** Your first step is to roughly sequence your milestones in terms of their value in supporting your [[Product Strategy]].
 >
 > **[0:29](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=29)** Go through them one at a time and remind yourself of the rationale for each one and prioritize them.
 >
@@ -832,7 +819,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=42)** Look at your first highest priority milestone.
 >
-> **[0:46](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=46)** Use the effort estimate provided by your product development leader, as well as the development capacity of the team to figure out when on the calendar you could expect it to be delivered.
+> **[0:46](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=46)** Use the effort estimate provided by your [[Product Development]] leader, as well as the development capacity of the team to figure out when on the calendar you could expect it to be delivered.
 >
 > **[0:57](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=57)** For instance, if the milestone requires 20 developer weeks and your team has five developer weeks of capacity for new feature development every week, then you can assume for now that the milestone will be released in four weeks, assuming the team can get started now.
 >
@@ -852,7 +839,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=126)** In larger product development organizations, you'll probably have multiple development teams working in parallel.
 >
-> **[2:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=132)** If the teams are organized around distinct products or customers like publisher tools and advertiser tools, you probably have separate milestones for each of them and should schedule them separately.
+> **[2:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=132)** If the teams are organized around distinct [[Microsoft Products|products]] or customers like publisher tools and advertiser tools, you probably have separate milestones for each of them and should schedule them separately.
 >
 > **[2:24](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-first-draft-of-your-product-roadmap?u=76281980&t=144)** You can then draw them on your roadmap diagram like this as separate rows of releases set on the same horizontal time access one above the other.
 >
@@ -876,13 +863,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (4), teams (4), [[Product Development]] (2), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (3), [[Product Development]] (2), [[React.js|React]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - finally (1)
 
-#### The product roadmap meeting: Getting input and alignment
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980)
+#### [The product roadmap meeting: Getting input and alignment](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=40)** At the start of the meeting, explain the goal, to emerge with a shared product roadmap that all stakeholders fully support and can use in their own planning.
 >
-> **[0:49](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=49)** The first item on the agenda should be a quick review of your product strategy.
+> **[0:49](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=49)** The first item on the agenda should be a quick review of your [[Product Strategy]].
 >
 > **[0:53](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=53)** Explain that it's the foundation and that the roadmap must be designed to implement the strategy.
 >
@@ -906,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=68)** The second item on the agenda is to review the development capacity of your team.
 >
-> **[1:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=72)** Have your development leader present the team's capacity and explain how their time will be spent on things other than new product development, such as bug fixing and engineering-driven projects.
+> **[1:12](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=72)** Have your development leader present the team's capacity and explain how their time will be spent on things other than new [[Product Development]], such as bug fixing and engineering-driven projects.
 >
 > **[1:23](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=83)** Next on the agenda should be a walkthrough of your product roadmap straw man.
 >
@@ -942,7 +928,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=174)** Of course, it's not always possible to get the whole team to agree fully with the roadmap, but you do need to make sure that the whole team is aligned with the decision.
 >
-> **[3:03](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=183)** In this case, it's your business leader's job to make the final decision and check for alignment with the rest of the team.
+> **[3:03](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=183)** In this case, it's your business leader's job to make the final decision and check for alignment with the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[3:10](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/the-product-roadmap-meeting-getting-input-and-alignment?u=76281980&t=190)** If you haven't gotten to this point by the time the meeting's over, schedule a follow-up session to resume the process.
 >
@@ -956,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), business (4), next (2), [[Product Development]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (1), [[Product Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for instance (1)
 > **Best Practices:** it's best to (2)
@@ -969,8 +955,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Evangelize the product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
+#### [Evangelize the product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -982,7 +967,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=26)** The first step is to create a short presentation that simply presents the key elements and decisions of the product roadmap, as well as the rationale behind them.
 >
-> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=35)** It's often good to start with a slide or two that reminds every one of your product strategy.
+> **[0:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=35)** It's often good to start with a slide or two that reminds every one of your [[Product Strategy]].
 >
 > **[0:39](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=39)** What are the top level business objectives, who are your target customers, and how you plan to win them over to your product from the competition?
 >
@@ -996,7 +981,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=84)** The next step is to schedule a series of one-on-one meetings where you present the new roadmap to any product stakeholders who will be impacted by it, but who did not participate in the roadmap development process.
 >
-> **[1:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=95)** These could be leaders of operations, customer service, technical support, finance, legal, and so on.
+> **[1:35](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=95)** These could be leaders of operations, customer service, [[Technical Support]], finance, legal, and so on.
 >
 > **[1:44](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=104)** In these meetings, explain the decisions made by the team and the thinking behind it.
 >
@@ -1026,19 +1011,18 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=183)** Once these meetings are over, your work is done.
 >
-> **[3:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=187)** Your whole organization and its customers and partners can now operate in close coordination with your product development plan.
+> **[3:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/evangelize-the-product-roadmap?u=76281980&t=187)** Your whole organization and its customers and partners can now operate in close coordination with your [[Product Development]] plan.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), business (2), next (1), [[Technical Support]] (1), teams (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (1), [[Technical Support]] (1), [[Product Development]] (1)
 > **Best Practices:** it's best to (1), best practice (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - once (1)
 
-#### Maintain the product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980)
+#### [Maintain the product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1066,7 +1050,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980&t=48)** Say you've just read a major announcement from one of your competitors, which makes them more of a threat than you thought.
 >
-> **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980&t=54)** And third, you might've learned something new about the time or cost of product development.
+> **[0:54](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980&t=54)** And third, you might've learned something new about the time or cost of [[Product Development]].
 >
 > **[0:59](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/maintain-the-product-roadmap?u=76281980&t=59)** The projects that you prioritize on your roadmap might be taking much longer than anticipated to complete.
 >
@@ -1096,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Product Development]] (1), business (1)
+> **Frameworks & Libraries:** [[Product Development]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
@@ -1107,8 +1091,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three steps for building your product roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)
+#### [Three steps for building your product roadmap](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=4)** You should be well-prepared to build your first product roadmap.
 >
-> **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=7)** You now know how to articulate your strategy and milestones, estimate scope, and ultimately, schedule them into a roadmap that implements your product strategy.
+> **[0:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=7)** You now know how to articulate your strategy and milestones, estimate scope, and ultimately, schedule them into a roadmap that implements your [[Product Strategy]].
 >
 > **[0:16](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=16)** So, what's next?
 >
@@ -1132,11 +1115,11 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=41)** - Next, using the process described in chapter three, build your first roadmap and share it with your company.
 >
-> **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=48)** Identify the product milestones that will best implement your strategy, and scope them with your product development leader and put them into a realistic schedule.
+> **[0:48](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=48)** Identify the product milestones that will best implement your strategy, and scope them with your [[Product Development]] leader and put them into a realistic schedule.
 >
 > **[0:56](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=56)** Get your stakeholders together again to review, modify, and ultimately, approve your product roadmap.
 >
-> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=62)** Then share it out with the rest of your company and, if appropriate, your customers and partners.
+> **[1:02](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=62)** Then share it out with the [[Representational State Transfer (REST)|rest]] of your company and, if appropriate, your customers and partners.
 >
 > **[1:07](https://www.linkedin.com/learning/product-management-building-a-product-roadmap/three-steps-for-building-your-product-roadmap?u=76281980&t=67)** - Finally, remember that the product roadmap is a living document.
 >
@@ -1150,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), next (2), [[Product Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (2), [[Product Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - congratulations (1), - first (1), - next (1), - finally (1), - in (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)

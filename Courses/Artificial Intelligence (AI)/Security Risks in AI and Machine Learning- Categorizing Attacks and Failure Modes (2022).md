@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Machine learning security concerns
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980)
+#### [Machine learning security concerns](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980&t=0)** - Machine learning and artificial intelligence are here.
+> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980&t=0)** - Machine learning and [[Artificial Intelligence (AI)|artificial intelligence]] are here.
 >
 > **[0:05](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/machine-learning-security-concerns?u=76281980&t=5)** We use them in so many parts of our lives, everything from predicting the weather to managing our retirement investments.
 >
@@ -116,26 +115,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - machine (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980&t=0)** - [Instructor] This class was built for executives and security practitioners that want to know where and how AI and ML can fail.
 >
-> **[0:08](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980&t=8)** You don't need a deep technical background in AI or ML, or even cybersecurity, but a working knowledge of what AI and ML are will help you.
+> **[0:08](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980&t=8)** You don't need a deep technical background in AI or ML, or even [[Cybersecurity]], but a working knowledge of what AI and ML are will help you.
 >
 > **[0:19](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/what-you-should-know?u=76281980&t=19)** Also, we will use common cybersecurity terms, like risk and impact.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Cybersecurity]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -143,12 +141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How systems can fail and how to protect them
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980)
+#### [How systems can fail and how to protect them](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980&t=0)** - Artificial intelligence, AI, and machine learning, ML, are transforming our worlds.
+> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]], AI, and machine learning, ML, are transforming our worlds.
 >
 > **[0:06](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/how-systems-can-fail-and-how-to-protect-them?u=76281980&t=6)** They're involved in so many things we do, everything from helping to keep our crops watered properly to ensuring that our food supply chain is working as expected so that food can get to our tables.
 >
@@ -190,12 +187,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Security]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - artificial (1)
 
-#### Why does ML security matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980)
+#### [Why does ML security matter](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +203,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=27)** So it's up to us as builders to analyze where and how things can go wrong within AI and ML systems and to build in resilience and protections.
 >
-> **[0:38](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=38)** An important first step to understanding how AI and ML can fail is via threat modeling and risk assessments.
+> **[0:38](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=38)** An important first step to understanding how AI and ML can fail is via [[Threat Modeling]] and risk assessments.
 >
 > **[0:45](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=45)** As security professionals, you probably already know how to perform threat modeling, but it may look a little different with AI and ML due to emergent properties related to the way the systems work.
 >
@@ -229,7 +225,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=127)** And as our trust in these systems in the AI and ML used to make those decisions increases, the responsibility to ensure they operate as expected, with integrity, also goes up.
 >
-> **[2:20](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=140)** Another extremely important aspect of security and privacy in AI and ML is the need for training data.
+> **[2:20](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=140)** Another extremely important aspect of security and [[Privacy]] in AI and ML is the need for training data.
 >
 > **[2:28](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/why-does-ml-security-matter?u=76281980&t=148)** If you've heard the phrase, data is the new oil.
 >
@@ -269,14 +265,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), [[Security]] (9), data (8), [[Threat Modeling]] (4), application (2)
+> **Frameworks & Libraries:** [[Threat Modeling]] (4), [[Privacy]] (1)
 > **Definitions:** is a  (2), means that (2), defined as (1)
 > **Analogies:** for example (2), such as (1), imagine (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - science (1)
 
-#### Attacks vs. unintentional failure modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980)
+#### [Attacks vs. unintentional failure modes](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -286,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=15)** The reality is that apps and systems can fail for both intentional and unintentional reasons.
 >
-> **[0:21](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=21)** A group of experts at Microsoft and Harvard University published a taxonomy of failure modes in machine learning that describes both types of failures.
+> **[0:21](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=21)** A group of experts at [[Microsoft]] and Harvard University published a taxonomy of failure modes in machine learning that describes both types of failures.
 >
 > **[0:31](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=31)** And I use their research frequently as a reference point when preparing this class.
 >
@@ -318,7 +313,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=124)** Common corruption, the introduction of natural perturbations or noise, is an example of unintentional failure in AI and ML.
 >
-> **[2:13](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=133)** This unintentional failure could be dangerous for passengers in self-driving cars that use computer vision to read road signs.
+> **[2:13](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=133)** This unintentional failure could be dangerous for passengers in self-driving cars that use [[Computer Vision]] to read road signs.
 >
 > **[2:22](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/attacks-vs-unintentional-failure-modes?u=76281980&t=142)** Stop signs have been designed to be easily recognizable by humans in varying lighting and weather conditions.
 >
@@ -330,14 +325,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Computer Vision]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is an  (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security goals for ML: CIA
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980)
+#### [Security goals for ML: CIA](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980&t=76)** When an attacker is able to learn sensitive information about individuals by querying that machine learning API, application programming interface, is one example of this.
 >
-> **[1:28](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980&t=88)** For organizations that must meet strict privacy regulations, the confidentiality security goal will be high priority.
+> **[1:28](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980&t=88)** For organizations that must meet strict [[Privacy]] regulations, the confidentiality security goal will be high priority.
 >
 > **[1:38](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/security-goals-for-ml-cia?u=76281980&t=98)** Failures that result in unreliable or inaccurate model outputs impact system integrity.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), ai (2), data (2), api (1), application (1)
+> **Frameworks & Libraries:** [[Privacy]] (1)
 > **Env Vars:** cia (4), api (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -393,8 +387,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Perturbation attacks and AUPs
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980)
+#### [Perturbation attacks and AUPs](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,7 +405,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=74)** Going upstream in the process to when the model is being trained, an adversary might train the model with perturbed images to ensure that all or most of the classifications fail to be accurate.
 >
-> **[1:28](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=88)** Let's see this in action using some research from Google.
+> **[1:28](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=88)** Let's see this in action using some research from [[Google]].
 >
 > **[1:31](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=91)** Here's a photo of a panda that looks to a human like a panda.
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=171)** Malware systems that leverage machine learning are often advertised as superior to solutions that use older technologies such as pattern matching and regular expressions.
 >
-> **[3:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=180)** However, an adversary that can successfully use UAPs against an ML-based malware detection model may be able to evade detection entirely.
+> **[3:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=180)** However, an adversary that can successfully use UAPs against an ML-based [[Malware Detection]] model may be able to evade detection entirely.
 >
 > **[3:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/perturbation-attacks-and-aups?u=76281980&t=190)** To test this ideas, researchers injected specially crafted UAP code into malicious binaries and submitted them to the malware classifiers.
 >
@@ -444,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Google]] (1), [[Malware Detection]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Malware Detection]] (1)
 > **CLI Commands:** make (2)
 > **Versions:** 57.7 (1), 99.3 (1)
 > **Definitions:** known as (1), is a  (1)
@@ -452,8 +445,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - if (1)
 
-#### Poisoning attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980)
+#### [Poisoning attacks](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -475,7 +467,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980&t=65)** This can also lead to unintended consequences or failure.
 >
-> **[1:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980&t=70)** In March, 2016, Microsoft researchers launched an AI bot on Twitter that they named Tay.
+> **[1:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980&t=70)** In March, 2016, [[Microsoft]] researchers launched an AI bot on Twitter that they named Tay.
 >
 > **[1:17](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/poisoning-attacks?u=76281980&t=77)** Tay was meant to learn from interactions on Twitter how to acquire more natural language.
 >
@@ -511,7 +503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (2)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Versions:** 1.7 (1)
@@ -519,12 +511,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reprogramming neural nets
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reprogramming-neural-nets?u=76281980)
+#### [Reprogramming neural nets](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reprogramming-neural-nets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reprogramming-neural-nets?u=76281980&t=0)** - [Instructor] Neural nets and deep learning systems are subsets of machine learning.
+> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reprogramming-neural-nets?u=76281980&t=0)** - [Instructor] Neural nets and [[Deep Learning]] systems are subsets of machine learning.
 >
 > **[0:05](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reprogramming-neural-nets?u=76281980&t=5)** Another way to attack these systems is to use a perturbation to reprogram the system to perform a task that it wasn't intended to.
 >
@@ -548,14 +539,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (1), traffic (1), ai (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (1)
 > **Env Vars:** captcha (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Physical domain (3D adversarial objects)
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980)
+#### [Physical domain (3D adversarial objects)](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,13 +561,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=58)** So to test the viability of using 3D adversarial objects, researchers designed and printed a 3D object that looked to human viewers just like a turtle.
 >
-> **[1:09](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=69)** But to Google's Inception v3 image classifier, it looked like a rifle at every angle.
+> **[1:09](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=69)** But to [[Google]]'s Inception v3 image classifier, it looked like a rifle at every angle.
 >
 > **[1:16](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=76)** The researchers were also successful in tricking the same system into classifying a baseball as an espresso.
 >
-> **[1:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=85)** Computer vision perception is a cornerstone of autonomous driving.
+> **[1:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=85)** [[Computer Vision]] perception is a cornerstone of autonomous driving.
 >
-> **[1:30](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=90)** The system running the vehicle must be able to recognize and react to common objects found on the road, including traffic signs, lane indicators, and pedestrians.
+> **[1:30](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=90)** The system running the vehicle must be able to recognize and [[React.js|react]] to common objects found on the road, including traffic signs, lane indicators, and pedestrians.
 >
 > **[1:41](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/physical-domain-3d-adversarial-objects?u=76281980&t=101)** One way to cause a self-driving car to fail would be to paint new lines on the road to steer the car in the wrong direction.
 >
@@ -593,14 +583,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), [[Computer Vision]] (1), [[React.js|React]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Computer Vision]] (1), [[React.js|React]] (1)
 > **Versions:** 84.8 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - think (1)
 
-#### Supply chain attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980)
+#### [Supply chain attacks](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -634,7 +623,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980&t=99)** Model Zoos are a really valuable way for developers to incorporate ML in their solutions and leverage the work of others without having to reinvent the ML wheel.
 >
-> **[1:48](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980&t=108)** GitHub also hosts the list of CoreML models that are available for use by scientists and developers.
+> **[1:48](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980&t=108)** [[GitHub]] also hosts the list of CoreML models that are available for use by scientists and developers.
 >
 > **[1:56](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/supply-chain-attacks?u=76281980&t=116)** So Model Zoos and pretrained models are a fantastic resource, but like any component in the software lifecycle, they must be used wisely.
 >
@@ -646,15 +635,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (3), [[GitHub]] (1), application (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **Env Vars:** gpt (5), onnx (3), covid (1)
 > **Tools:** github (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model inversion
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980)
+#### [Model inversion](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -674,7 +662,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=50)** If the training data is public, access to it would not be a big concern.
 >
-> **[0:55](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=55)** But many machine learning algorithms are used for privacy sensitive purposes, such as facial recognition and medical diagnosis.
+> **[0:55](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=55)** But many machine learning [[Algorithms]] are used for [[Privacy]] sensitive purposes, such as facial recognition and medical diagnosis.
 >
 > **[1:04](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=64)** And that often means that they've been trained with sensitive personal data.
 >
@@ -684,7 +672,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=80)** Model inversion can also leak secrets about how the system was trained.
 >
-> **[1:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=85)** Like allowing a competitor to determine which accents an ML based speech recognition app was trained on.
+> **[1:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=85)** Like allowing a competitor to determine which accents an ML based [[Speech Recognition]] app was trained on.
 >
 > **[1:33](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=93)** Using facial recognition models and the confidence scores output by the system, an attacker was able to recover a recognizable facial image of a test data subject, using only the person's name.
 >
@@ -700,20 +688,19 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=158)** Attackers gain access to models by querying the APIs of popular ML as a service, machine learning as a service.
 >
-> **[2:47](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=167)** Providers like Google, Google prediction API, Amazon, Amazon ML and Microsoft Azure ML.
+> **[2:47](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=167)** Providers like [[Google]], Google prediction API, Amazon, Amazon ML and [[Microsoft Azure]] ML.
 >
 > **[2:55](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/model-inversion?u=76281980&t=175)** Machine learning as a service is very popular, because it allows developers to incorporate ML into their systems without a lot of startup time, but they must be used with data protection in mind, to prevent an inadvertent exposure of private information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Google]] (2), [[Algorithms]] (1), [[Privacy]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Algorithms]] (1), [[Privacy]] (1), [[Speech Recognition]] (1), [[Microsoft Azure]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### System manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/system-manipulation?u=76281980)
+#### [System manipulation](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/system-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -751,12 +738,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - if (1)
 
-#### Membership inference and model stealing
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980)
+#### [Membership inference and model stealing](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -766,7 +751,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980&t=14)** Also, there isn't a single one size fits all ML model that can be adapted to infinite myriad uses based on the training data.
 >
-> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980&t=23)** Organizations develop specific algorithms and models for different use cases and then train and tune them to specific needs.
+> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980&t=23)** Organizations develop specific [[Algorithms]] and models for different use cases and then train and tune them to specific needs.
 >
 > **[0:32](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/membership-inference-and-model-stealing?u=76281980&t=32)** Companies that spend time and resources to develop ML to support their business, have some of their corporate IP, intellectual property, embedded in these systems.
 >
@@ -786,13 +771,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), business (1), application (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Env Vars:** usenix (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backdoors and existing exploits
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980)
+#### [Backdoors and existing exploits](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -816,7 +800,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980&t=96)** So with the right pattern trigger, images of bees, birds and flowers would all be classified as trees.
 >
-> **[1:44](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980&t=104)** Attackers can also attack AI and ML by going after the underlying operating systems and hardware which have their own sets of vulnerabilities and exposure points.
+> **[1:44](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980&t=104)** Attackers can also attack AI and ML by going after the underlying operating systems and [[Hardware]] which have their own sets of vulnerabilities and exposure points.
 >
 > **[1:57](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/backdoors-and-existing-exploits?u=76281980&t=117)** Rather than exploiting the models directly, the attacker goes after a vulnerability in the OS, like forcing a buffer overflow that causes the ML model to fail or to provide inaccurate outputs.
 >
@@ -824,7 +808,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), power (1), feature (1), ai (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -833,8 +817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reward hacking
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980)
+#### [Reward hacking](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -850,7 +833,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=39)** Well, it turns out that the dog had started pushing the children into the water so it could save them and get the reward.
 >
-> **[0:49](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=49)** Today, we would say that dog was reward hacking, and that's something that machines can do, too, especially in reinforcement learning, RL, systems.
+> **[0:49](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=49)** Today, we would say that dog was reward hacking, and that's something that machines can do, too, especially in [[Reinforcement Learning]], RL, systems.
 >
 > **[1:03](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=63)** Consider a floor-cleaning robot that is rewarded every time a mess is cleaned up.
 >
@@ -860,7 +843,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=84)** Systems don't always have to create a problem to solve, though.
 >
-> **[1:27](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=87)** Reward hacking can also show up in unexpected ways as the system pursues the reward, like an AI human simulation game, where the avatars or players require energy to function.
+> **[1:27](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=87)** Reward hacking can also show up in unexpected ways as the system pursues the reward, like an AI human [[Simulation]] game, where the avatars or players require energy to function.
 >
 > **[1:41](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/reward-hacking?u=76281980&t=101)** Designers assign energy points to food, but if they don't carefully limit what qualifies as food, it's possible to have digital sims eating their electronic pets to stay powered up.
 >
@@ -870,11 +853,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), ai (1), [[Simulation]] (1), game (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Simulation]] (1)
 > **Speakers:** - many (1)
 
-#### Side effects in reinforcement learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980)
+#### [Side effects in reinforcement learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,11 +864,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=3)** People use it when they're trying to explain that the straight path is faster than the actual path.
 >
-> **[0:09](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=9)** Getting from your office to your house may be only four miles as the Crow flies, but it could be 10 miles of road and 30 minutes of sitting in traffic in reality.
+> **[0:09](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=9)** Getting from your [[Microsoft Office|office]] to your house may be only four miles as the Crow flies, but it could be 10 miles of road and 30 minutes of sitting in traffic in reality.
 >
 > **[0:20](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=20)** If you could eliminate the road and traffic obstacles, you could get home much faster.
 >
-> **[0:27](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=27)** Without careful design practices in place, machine learning systems that use reinforcement learning and rewards could have unintended and unwanted side effects in operation by trying to operate as directly as the Crow flies.
+> **[0:27](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=27)** Without careful design practices in place, machine learning systems that use [[Reinforcement Learning]] and rewards could have unintended and unwanted side effects in operation by trying to operate as directly as the Crow flies.
 >
 > **[0:42](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=42)** As the system looks for an optimal path to a solution, it may not take other factors into consideration.
 >
@@ -894,7 +876,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=54)** Consider a floor cleaning robot that is rewarded for cleaning up a liquid when it's spilled on the floor.
 >
-> **[1:02](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=62)** The smart bot uses computer vision to monitor for spills and then is rewarded for mopping that spill up as quickly as possible.
+> **[1:02](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=62)** The smart bot uses [[Computer Vision]] to monitor for spills and then is rewarded for mopping that spill up as quickly as possible.
 >
 > **[1:11](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=71)** If the robotic systems begin to prioritize speed over other factors, it could begin malfunctioning in destructive ways.
 >
@@ -906,20 +888,19 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=112)** A cyberdefense response tool that is designed to stop attacks quickly must also be programmed with rules regarding acceptable response actions.
 >
-> **[2:02](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=122)** Although, shutting down all the ports on a firewall and other critical services, such as email and web servers, may be the, quote, shortest path to stopping an attack.
+> **[2:02](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=122)** Although, shutting down all the ports on a firewall and other critical services, such as email and [[Web Servers]], may be the, quote, shortest path to stopping an attack.
 >
-> **[2:12](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=132)** It would also stop business operations, putting the financial success of the company at risk.
+> **[2:12](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=132)** It would also stop [[Business Operations]], putting the financial success of the company at risk.
 >
 > **[2:19](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/side-effects-in-reinforcement-learning?u=76281980&t=139)** If AI and ML creators don't consider and design for side effects before launching systems into production, the results could cause real harm.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Microsoft Office|Office]] (1), [[Reinforcement Learning]] (1), [[Computer Vision]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Reinforcement Learning]] (1), [[Computer Vision]] (1), [[Web Servers]] (1), [[Business Operations]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Distributional shifts and incomplete testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980)
+#### [Distributional shifts and incomplete testing](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -937,7 +918,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980&t=50)** When distributional shifts become too wide, the performance and accuracy of the ML system goes down.
 >
-> **[0:58](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980&t=58)** A cleaning robot that was trained in a carpeted office environment that is empty at night could trip workers and cause injury if deployed in a busy uncarpeted manufacturing shop floor.
+> **[0:58](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980&t=58)** A cleaning robot that was trained in a carpeted [[Microsoft Office|office]] environment that is empty at night could trip workers and cause injury if deployed in a busy uncarpeted manufacturing shop floor.
 >
 > **[1:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/distributional-shifts-and-incomplete-testing?u=76281980&t=70)** An AI agent used to automatically rebalance power in one city's electrical grid may assume the same distributions will work on every city, potentially causing overload and outages.
 >
@@ -965,12 +946,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), data (2), power (2), product (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Overfitting/underfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980)
+#### [Overfitting/underfitting](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -988,7 +968,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980&t=24)** If they are not fit properly, they are unsuitable for the intended task.
 >
-> **[0:29](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980&t=29)** In statistics and data science parlance, the not right models are considered to be under fit or overfit.
+> **[0:29](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980&t=29)** In [[Statistics]] and [[Data Science]] parlance, the not right models are considered to be under fit or overfit.
 >
 > **[0:37](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/overfitting-underfitting?u=76281980&t=37)** Overfiting can appear to be perfectly fit because the model was so well trained on the training data it has memorized or extracted the noise.
 >
@@ -1020,13 +1000,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Data Science]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data bias considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980)
+#### [Data bias considerations](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1069,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980&t=226)** This occurs when a model associates things that may not be truly representative.
 >
-> **[3:51](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980&t=231)** The ImageNet project is a huge database of over 14 million images that are available for use by researchers working on computer vision and data classification.
+> **[3:51](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980&t=231)** The ImageNet project is a huge database of over 14 million images that are available for use by researchers working on [[Computer Vision]] and [[Data Classification]].
 >
 > **[4:03](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/data-bias-considerations?u=76281980&t=243)** Researchers did a deep dive into ImageNet and discovered that the model was making erroneous associations.
 >
@@ -1106,7 +1085,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (5), hit (1), [[Analytics]] (1), database (1)
+> **Frameworks & Libraries:** [[Computer Vision]] (1), [[Data Classification]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), imagine (1)
@@ -1118,14 +1097,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Effective techniques for building resilience in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980)
+#### [Effective techniques for building resilience in ML](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980&t=0)** - In technology, there's no such thing as a perfectly secure system.
 >
-> **[0:07](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980&t=7)** Software degrades, hardware fails over time and attackers will continue to hammer on systems until they can find a vulnerability to exploit.
+> **[0:07](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980&t=7)** Software degrades, [[Hardware]] fails over time and attackers will continue to hammer on systems until they can find a vulnerability to exploit.
 >
 > **[0:19](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/effective-techniques-for-building-resilience-in-ml?u=76281980&t=19)** Not being able to be perfect doesn't mean that you shouldn't try.
 >
@@ -1165,16 +1143,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Hardware]] (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 
-#### ML dataset hygiene
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980)
+#### [ML dataset hygiene](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=0)** - [Instructor] If you've ever accidentally taught your autocorrect system that a typo is an actual word, and then had to spend months correcting that typo every time your system tried to insert it, you know how frustrating it can be when machines learn the wrong thing.
+> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=0)** - [Instructor] If you've ever accidentally taught your autocorrect system that a typo is an actual [[Microsoft Word|word]], and then had to spend months correcting that typo every time your system tried to insert it, you know how frustrating it can be when machines learn the wrong thing.
 >
 > **[0:17](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=17)** If the data ML and AI systems are trained on isn't good or accurate, the outcome from the model won't be good either.
 >
@@ -1184,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=38)** But bias isn't always obvious or intentional.
 >
-> **[0:42](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=42)** Consider an automated faucet that is programed to turn on when the computer vision recognizes human hands in front of the faucet.
+> **[0:42](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=42)** Consider an automated faucet that is programed to turn on when the [[Computer Vision]] recognizes human hands in front of the faucet.
 >
 > **[0:50](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=50)** If the system is trained only with light-skinned adult hands, it may not turn on if darker-skinned or small hands are in front of the sensor.
 >
@@ -1194,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=70)** Traditionally, many technical fields, like computer programming, have been staffed predominantly by male workers.
 >
-> **[1:18](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=78)** The statistics are changing as more women enter technical fields but if an ML-based CV or resume analysis system is trained on the older biased data, it could learn that male candidates are desirable.
+> **[1:18](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=78)** The [[Statistics]] are changing as more women enter technical fields but if an ML-based CV or resume analysis system is trained on the older biased data, it could learn that male candidates are desirable.
 >
 > **[1:36](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=96)** To get ahead of bias in systems, training sets and technique should be carefully vetted by a wide number of experts.
 >
@@ -1208,9 +1185,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=139)** Using the principle in practice means that only those that need access to something are granted access.
 >
-> **[2:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=145)** It is often used in conjunction with data classification programs, which help to identify an organization's most important and sensitive information.
+> **[2:25](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=145)** It is often used in conjunction with [[Data Classification]] programs, which help to identify an organization's most important and sensitive information.
 >
-> **[2:36](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=156)** For organizations that have not yet started on the data protection journey, this is an opportunity to address overall data security while also defending and protecting AI and ML systems.
+> **[2:36](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=156)** For organizations that have not yet started on the data protection journey, this is an opportunity to address overall [[Data Security]] while also defending and protecting AI and ML systems.
 >
 > **[2:48](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-dataset-hygiene?u=76281980&t=168)** Existing data classification and privilege management programs should be extended to include AI and ML training data.
 >
@@ -1244,13 +1221,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), ai (6), [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (2), [[Microsoft Word|Word]] (1), [[Computer Vision]] (1), [[Statistics]] (1), [[Data Security]] (1)
 > **Definitions:** is an  (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### ML adversarial training
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980)
+#### [ML adversarial training](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1266,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980&t=39)** Adversarial training in AI and ML works a little like getting a person ready for space.
 >
-> **[0:45](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980&t=45)** The negative impacts or unusual challenges are defined often through threat modeling.
+> **[0:45](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980&t=45)** The negative impacts or unusual challenges are defined often through [[Threat Modeling]].
 >
 > **[0:51](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-adversarial-training?u=76281980&t=51)** Then the system is trained for resilience using defensive techniques.
 >
@@ -1318,22 +1294,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), ai (2), [[Threat Modeling]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Env Vars:** nasa (1)
 > **Speakers:** - [narrator] (1)
 
-#### ML access control to APIs
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980)
+#### [ML access control to APIs](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=0)** - [Instructor] Many ML and AI solutions are accessed to via API, application programming interfaces.
+> **[0:00](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=0)** - [Instructor] Many ML and [[AI Solutions]] are accessed to via API, [[Application Programming Interfaces (API)|application programming interfaces]].
 >
 > **[0:08](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=8)** Chatty or verbose models that return a lot of information can result in data leakage of sensitive data.
 >
 > **[0:15](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=15)** They can also expose ways the model operates making it easier for adversaries to generate effective attacks.
 >
-> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=23)** Data leakage of sensitive information is of high concern for regulated organizations that must comply with protections for healthcare data, financial data and personally identifiable data.
+> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=23)** Data leakage of sensitive information is of high concern for regulated organizations that must comply with protections for healthcare data, [[Financial Data]] and personally identifiable data.
 >
 > **[0:36](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/ml-access-control-to-apis?u=76281980&t=36)** In order to work well, most ML models need a lot of data.
 >
@@ -1373,7 +1348,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), api (9), ai (5), [[Security]] (2), [[Application Programming Interfaces (API)|Application programming interfaces]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (1), [[Application Programming Interfaces (API)|Application programming interfaces]] (1), [[Financial Data]] (1)
 > **Env Vars:** api (9), mfa (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -1383,8 +1358,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1368,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980&t=10)** If you manage or work on a team that's building AI and ML solutions ask if they have thought about failure modes and protecting against intentional and unintentional failure.
 >
-> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980&t=23)** Has the team done threat modeling and are you building in controls and other mitigations to ensure proper operation of the systems?
+> **[0:23](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980&t=23)** Has the team done [[Threat Modeling]] and are you building in controls and other mitigations to ensure proper operation of the systems?
 >
 > **[0:34](https://www.linkedin.com/learning/security-risks-in-ai-and-machine-learning-categorizing-attacks-and-failure-modes-2022/next-steps?u=76281980&t=34)** If you're considering purchasing AI and ML, ask the vendor about their processes.
 >
@@ -1416,7 +1390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (2), [[Threat Modeling]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Threat Modeling]] (1)
 > **Speakers:** - thanks (1)
 
 

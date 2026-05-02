@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The manager's role in responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
+#### [The manager's role in responsible AI](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -71,7 +70,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980&t=6)** Yet despite this training, a significant knowledge gap persists for most leaders between understanding the theory and actually applying responsible principles in their daily management practices.
 >
-> **[0:17](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980&t=17)** This quick course is designed to fill that gap by equipping you with practical examples, and guidance in navigating the intersections of responsible AI and employee experience and performance.
+> **[0:17](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980&t=17)** This quick course is designed to fill that gap by equipping you with practical examples, and guidance in navigating the intersections of [[Responsible AI]] and employee experience and performance.
 >
 > **[0:28](https://www.linkedin.com/learning/responsible-ai-for-managers/the-manager-s-role-in-responsible-ai?u=76281980&t=28)** Hello, I'm Dr. Terri Horton, a work futurist who helps organizations navigate the intersections of AI in the evolution of work.
 >
@@ -79,7 +78,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), management (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1)
 > **Speakers:** - many (1)
 
 
@@ -87,22 +86,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Ethical AI principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
+#### [Ethical AI principles](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=0)** - Ethical AI principles are the foundation of responsible AI principles and practices.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=0)** - Ethical AI principles are the foundation of [[Responsible AI]] principles and practices.
 >
 > **[0:05](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=5)** Leaders must understand these foundational principles to be better equipped to navigate the complexities of AI implementation in organizations.
 >
-> **[0:13](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=13)** In today's rapidly-evolving technological landscape, leaders face the daily challenge of integrating AI into their team management and people operations, such as using AI-driven tools for hiring, performance reviews, employee engagement strategies, and process improvement.
+> **[0:13](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=13)** In today's rapidly-evolving technological landscape, leaders face the daily challenge of integrating AI into their [[Team Management]] and people operations, such as using AI-driven tools for hiring, performance reviews, employee engagement strategies, and process improvement.
 >
 > **[0:29](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=29)** Yet, many lack of fundamental understanding of ethical AI principles.
 >
 > **[0:34](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=34)** So, what are these principles?
 >
-> **[0:36](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=36)** The Harvard Data Science Review provides a framework for ethical AI principles in society that are understandable and relatable.
+> **[0:36](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=36)** The Harvard [[Data Science]] Review provides a framework for ethical AI principles in society that are understandable and relatable.
 >
 > **[0:43](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=43)** These principles focus on fundamental moral values and human rights.
 >
@@ -118,26 +116,25 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=78)** And explicably involves making AI systems understandable and transparent to users and stakeholders.
 >
-> **[1:26](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=86)** Leaders who understand and apply ethical principles are better equipped to ensure that AI systems are used ethically and responsibly to mitigate risks, and thoughtfully engage with their employees in ways that align with these moral and value-based principles, organizational culture, and that drive engagement and retention.
+> **[1:26](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=86)** Leaders who understand and apply ethical principles are better equipped to ensure that AI systems are used ethically and responsibly to mitigate risks, and thoughtfully engage with their employees in ways that align with these moral and value-based principles, [[Organizational Culture]], and that drive engagement and retention.
 >
 > **[1:44](https://www.linkedin.com/learning/responsible-ai-for-managers/ethical-ai-principles?u=76281980&t=104)** In the following video, you'll learn about ethical AI's role in developing responsible AI principles and practices.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Responsible AI]] (2), [[Team Management]] (1), data (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[Team Management]] (1), [[Data Science]] (1), [[Organizational Culture]] (1)
 > **Definitions:** means that (3)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - ethical (1)
 
-#### Responsible AI principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980)
+#### [Responsible AI principles](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=0)** - One of the top priorities for CEOs is implementing AI to drive efficiency, process improvement, productivity, and sustainable growth.
 >
-> **[0:08](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=8)** Yet, according to a recent Workday study, four and five employees say their company has yet to share guidelines on responsible AI use.
+> **[0:08](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=8)** Yet, according to a recent Workday study, four and five employees say their company has yet to share guidelines on [[Responsible AI]] use.
 >
 > **[0:16](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=16)** Leaders must balance this priority with responsible AI principles and practices to harness the power of AI, and deliver the strategic advantage that organizations need to succeed in the AI era.
 >
@@ -151,13 +148,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=40)** Responsible AI principles play a crucial role in ensuring that AI systems are developed and deployed in organizations in a manner that is not only fair, transparent, and accountable, but also safe and compliant with laws and regulations.
 >
-> **[0:54](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=54)** Companies like KPMG, EY IBM, Microsoft, Google, and SHRM have embedded responsible AI principles as pillars in driving business practices.
+> **[0:54](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=54)** Companies like KPMG, EY IBM, [[Microsoft]], [[Google]], and SHRM have embedded responsible AI principles as pillars in driving business practices.
 >
-> **[1:04](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=64)** Although companies tailor responsible principles to organizational culture universally, the responsible principles include accountability.
+> **[1:04](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=64)** Although companies tailor responsible principles to [[Organizational Culture]] universally, the responsible principles include [[Accountability]].
 >
 > **[1:12](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=72)** This means ensuring that developers and organizations are responsible for AI systems actions, decisions, outcomes, and impacts.
 >
-> **[1:20](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=80)** Accountability can mitigate risks to organizations, employees, and other stakeholders, and enable the development of clear guidelines and standards for AI governance.
+> **[1:20](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=80)** Accountability can mitigate risks to organizations, employees, and other stakeholders, and enable the development of clear guidelines and standards for [[AI Governance]].
 >
 > **[1:29](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=89)** Transparency means making sure that the ways in which AI systems make decisions are clear, accessible, understandable, and explainable to stakeholders.
 >
@@ -173,9 +170,9 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=136)** Engaging in reliable and safe practices can mitigate unintended consequences, failures and risks to users and stakeholders, and can foster operational efficiency, trust, and confidence.
 >
-> **[2:29](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=149)** Privacy and security involve protecting individuals' personal data and ensuring that AI systems comply with data protection laws.
+> **[2:29](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=149)** [[Privacy]] and security involve protecting individuals' personal data and ensuring that AI systems comply with data protection laws.
 >
-> **[2:37](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=157)** This includes transparency in data collection practices, safeguarding data, and maintaining confidentiality.
+> **[2:37](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=157)** This includes transparency in [[Data Collection]] practices, safeguarding data, and maintaining confidentiality.
 >
 > **[2:44](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-principles?u=76281980&t=164)** Engaging in these practices can ensure that organizations avoid legal penalties and reputational damage, and demonstrates a commitment to ethical principles.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Responsible AI]] (6), data (4), [[Accountability]] (2), power (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (6), [[Accountability]] (2), [[Microsoft]] (1), [[Google]] (1), [[Organizational Culture]] (1)
 > **Env Vars:** kpmg (1), ibm (1), shrm (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - one (1)
@@ -193,12 +190,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data privacy and safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
+#### [Data privacy and safety](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=0)** - Employee concerns about the rapid increase of AI systems in the workplace are wide ranging, but top concerns center on data privacy, safety, and misuse.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=0)** - Employee concerns about the rapid increase of AI systems in the workplace are wide ranging, but top concerns center on [[Data Privacy]], safety, and misuse.
 >
 > **[0:10](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=10)** According to Forrester, 72% of employees globally do not want their personal data used in workforce analytics without their consent.
 >
@@ -228,15 +224,15 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=132)** As leaders, they do not expect you to simply regurgitate company policies.
 >
-> **[2:18](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=138)** They expect you to be well-versed in how the systems work and align with company policies and their privacy and safety rights.
+> **[2:18](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=138)** They expect you to be well-versed in how the systems work and align with company policies and their [[Privacy]] and safety rights.
 >
-> **[2:26](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=146)** So to foster an environment of trust and transparency with your employees, be clear on your organization's responsible AI practices and policies, and communicate them clearly and frequently to employees.
+> **[2:26](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=146)** So to foster an environment of trust and transparency with your employees, be clear on your organization's [[Responsible AI]] practices and policies, and communicate them clearly and frequently to employees.
 >
 > **[2:38](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=158)** It's essential to be transparent about why data is collected in relation to their role, storage timelines, access, and the potential for use outside of intended purposes.
 >
 > **[2:49](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=169)** You also must understand their rights to opt-out, access, correct or delete personal data.
 >
-> **[2:55](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=175)** This clear communication is a cornerstone in building trust and transparency with your employees.
+> **[2:55](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=175)** This clear communication is a cornerstone in [[Building Trust]] and transparency with your employees.
 >
 > **[3:01](https://www.linkedin.com/learning/responsible-ai-for-managers/data-privacy-and-safety?u=76281980&t=181)** It is your responsibility to be well-informed about the basics of how the systems work and how the decisions of these systems impact your employees.
 >
@@ -246,20 +242,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Privacy]] (5), ai (3), [[Analytics]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (4), [[Privacy]] (1), [[Responsible AI]] (1), [[Building Trust]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** crm (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - employee (1)
 
-#### Mitigating bias and risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980)
+#### [Mitigating bias and risk](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980&t=0)** - HR and legal teams must thoroughly assess, evaluate, and audit workforce management tools to ensure they do not perpetuate or amplify bias or increase organizational risk.
 >
-> **[0:10](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980&t=10)** But accountability doesn't stop with the senior team.
+> **[0:10](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980&t=10)** But [[Accountability]] doesn't stop with the senior team.
 >
 > **[0:13](https://www.linkedin.com/learning/responsible-ai-for-managers/mitigating-bias-and-risk?u=76281980&t=13)** As a manager, how you lead your teams in real time every day can significantly be influenced by the decisions of AI systems.
 >
@@ -313,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (3), hr (2), teams (2), management (2)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - hr (1)
@@ -323,12 +318,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI  and decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
+#### [AI  and decision-making](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=0)** - According to a recent IBM Institute for Business Value Study, 43% of CEOs use generative AI to inform strategic decisions.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=0)** - According to a recent IBM Institute for Business Value Study, 43% of CEOs use [[Generative AI]] to inform strategic decisions.
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=8)** Leveraging AI for decision making is not just an advantage, it's crucial for organizations to define how they navigate and thrive in an increasingly data-driven future.
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=149)** The outcome demanded human intervention and judgment to correct what could have resulted in a misalignment of course offerings and enrollment declines.
 >
-> **[2:38](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=158)** As AI evolves, it will become even more integral to strategic leadership.
+> **[2:38](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=158)** As AI evolves, it will become even more integral to [[Strategic Leadership]].
 >
 > **[2:43](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=163)** So what does this mean for you as a leader?
 >
@@ -378,7 +372,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=167)** First, invest in yourself by building AI fluency and data analysis skills and be solid in domain knowledge so that you understand both the capabilities and limitations of AI specific to your function.
 >
-> **[3:01](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=181)** Second, in your role, ensure data quality and relevance to the extent possible to reduce bias and risk.
+> **[3:01](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=181)** Second, in your role, ensure [[Data Quality]] and relevance to the extent possible to reduce bias and risk.
 >
 > **[3:09](https://www.linkedin.com/learning/responsible-ai-for-managers/ai-and-decision-making?u=76281980&t=189)** Third, ensure your team knows how AI tools are used in your department, the specific tasks AI is responsible for, and the decision making process it supports.
 >
@@ -388,21 +382,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (9), business (3), [[Generative AI]] (1), teams (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Strategic Leadership]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (3)
 > **Ports:** :00 (1)
 > **Env Vars:** ibm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - according (1)
 
-#### Prioritizing employee engagement and impact
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980)
+#### [Prioritizing employee engagement and impact](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=0)** - As we discussed in chapter one, a grounding ethical principle is non malfeasance; which means that AI systems should do no harm to individuals or society.
 >
-> **[0:10](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=10)** As organizations accelerate the deployment of AI systems, it's important for leaders to engage in responsible AI practices like accountability, transparency, and fairness to ensure the psychological safety and engagement of employees is prioritized.
+> **[0:10](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=10)** As organizations accelerate the deployment of AI systems, it's important for leaders to engage in [[Responsible AI]] practices like [[Accountability]], transparency, and fairness to ensure the psychological safety and engagement of employees is prioritized.
 >
 > **[0:25](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=25)** According to a recent study by the American Psychological Association, 56% of workers who experienced this type of monitoring feel tense and stressed out at work.
 >
@@ -418,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=73)** Her productivity, distractions, performance, happiness, and engagement are continuously assessed.
 >
-> **[1:18](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=78)** And her manager, armed with this data, uses it to micromanage instead of empowering her to excel.
+> **[1:18](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=78)** And her manager, armed with this data, uses it to micromanage instead of empowering her to [[Microsoft Excel|excel]].
 >
 > **[1:26](https://www.linkedin.com/learning/responsible-ai-for-managers/prioritizing-employee-engagement-and-impact?u=76281980&t=86)** she feels more like a cog in a machine than a valued employee.
 >
@@ -444,7 +437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (2), [[Responsible AI]] (1), [[Accountability]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (1), [[Accountability]] (1), [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** we discussed (1), next video (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
@@ -456,20 +449,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)
+#### [Responsible AI in action](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=0)** - According to the Global Digital Ethics Survey, 77% of executives agree that safer and more responsible AI practices are among their top priorities.
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=0)** - According to the Global Digital [[Ethics]] Survey, 77% of executives agree that safer and more [[Responsible AI]] practices are among their top priorities.
 >
 > **[0:09](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=9)** This year, although you may not be directly involved in policy development, you should evaluate best practices on responsible AI.
 >
 > **[0:18](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=18)** Understanding how other companies successfully implement responsible AI can provide valuable insights that you can adopt to foster a culture of responsible use with your employees, and that aligns with broader organizational goals.
 >
-> **[0:31](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=31)** There are many examples of organizations that have successfully developed and deployed responsible AI across business strategies and practices for clients, products and services.
+> **[0:31](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=31)** There are many examples of organizations that have successfully developed and deployed responsible AI across business strategies and practices for clients, [[Microsoft Products|products]] and services.
 >
-> **[0:40](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=40)** Some examples include Accenture, KPMG, Microsoft, EY, and IBM.
+> **[0:40](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=40)** Some examples include Accenture, KPMG, [[Microsoft]], EY, and IBM.
 >
 > **[0:45](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=45)** In this video, I want to share one example of an organization operationalizing responsible AI, not just for clients, but also for employees.
 >
@@ -477,33 +469,32 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=63)** Mastercard views AI as a partner in driving employee experiences.
 >
-> **[1:07](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=67)** The company is committed to nurturing conversations with employees about the latest trends, technologies, and ensuring employees are clear on the organization's AI strategy and use case applications that drive value across the organization.
+> **[1:07](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=67)** The company is committed to nurturing conversations with employees about the latest trends, technologies, and ensuring employees are clear on the organization's [[AI Strategy]] and use case applications that drive value across the organization.
 >
-> **[1:21](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=81)** Mastercard prioritizes AI proficiency by providing self-paced and customized learning based on role and embeds bias, data privacy, and responsible principles in training.
+> **[1:21](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=81)** Mastercard prioritizes AI proficiency by providing self-paced and customized learning based on role and embeds bias, [[Data Privacy]], and responsible principles in training.
 >
 > **[1:33](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=93)** The next example is the Data and Trust Alliance, which is composed of some of the world's leading organizations from a variety of industries such as American Express, Nike, Walmart, Deloitte, and Meta.
 >
 > **[1:45](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=105)** It was formed to advance responsible AI and algorithmic safety and workplace decisions that impact recruiting, compensation, and employee development.
 >
-> **[1:54](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=114)** They do this by developing criteria to vet suppliers of HR systems for AI ethics and on criteria including algorithmic bias, training data and model design, bias testing methods and remediation, and transparency and accountability.
+> **[1:54](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=114)** They do this by developing criteria to vet suppliers of HR systems for AI ethics and on criteria including algorithmic bias, training data and model design, bias testing methods and remediation, and transparency and [[Accountability]].
 >
 > **[2:10](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=130)** Again, these are just two examples.
 >
-> **[2:12](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=132)** I encourage you to investigate and surface examples of how leading organizations implement responsible AI principles to drive accountability, transparency, fairness, reliability and safety, and privacy and security.
+> **[2:12](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-in-action?u=76281980&t=132)** I encourage you to investigate and surface examples of how leading organizations implement responsible AI principles to drive accountability, transparency, fairness, reliability and safety, and [[Privacy]] and security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (8), ai (4), data (3), [[Ethics]] (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (8), [[Ethics]] (2), [[Accountability]] (2), [[Microsoft Products|Products]] (1), [[Microsoft]] (1)
 > **Env Vars:** kpmg (1), ibm (1)
 > **Analogies:** such as (1)
 > **Speakers:** - according (1)
 
-#### Responsible AI resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980)
+#### [Responsible AI resources](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=0)** - Quote from a recent Microsoft AI transparency report is "There is no finish line for responsible AI."
+> **[0:00](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=0)** - Quote from a recent [[Microsoft]] AI transparency report is "There is no finish line for [[Responsible AI]]."
 >
 > **[0:08](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=8)** In fact, Gartner predicts that by 2026, 50% of governments worldwide will enforce the use of responsible AI in development and deployment through regulations and policies.
 >
@@ -519,11 +510,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=52)** We covered a lot, but we are at the beginning of the age of AI and there is more to learn and do.
 >
-> **[0:58](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=58)** I'm a future of work expert who provides leaders with strategies and insights aligned at the intersections of AI, the future of work culture, employee experience, and leadership development.
+> **[0:58](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=58)** I'm a future of work expert who provides leaders with strategies and insights aligned at the intersections of AI, the future of work culture, employee experience, and [[Leadership Development]].
 >
 > **[1:08](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=68)** Please connect with me as a partner in moving your organization into the future.
 >
-> **[1:12](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=72)** I also encourage you to check out my other courses in the LinkedIn Learning Library.
+> **[1:12](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=72)** I also encourage you to check out my other courses in the [[LinkedIn]] Learning Library.
 >
 > **[1:17](https://www.linkedin.com/learning/responsible-ai-for-managers/responsible-ai-resources?u=76281980&t=77)** I wish you the best and a future full of possibilities.
 >
@@ -531,7 +522,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Responsible AI]] (3), [[Microsoft]] (1), [[Leadership Development]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (3), [[Microsoft]] (1), [[Leadership Development]] (1), [[LinkedIn]] (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)

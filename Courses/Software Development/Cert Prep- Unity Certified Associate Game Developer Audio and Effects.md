@@ -82,12 +82,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating audio and effects for your games
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980)
+#### [Creating audio and effects for your games](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980&t=0)** - [Instructor] Greetings and welcome to this Unity certified associate course on audio and effects, presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980&t=0)** - [Instructor] Greetings and welcome to this [[Unity]] certified associate course on audio and effects, presented by [[LinkedIn]] Learning.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-audio-and-effects-for-your-games?u=76281980&t=9)** In this course, you'll see how to create believable soundscapes for immersive worlds, and then how to add extra glamor, polish, and interest through particle systems, creating snow, rain, fog, explosions, and a multitude of other effects.
 >
@@ -105,18 +104,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[LinkedIn]] (1)
 > **Env Vars:** wav (1), vfx (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/excercise-files?u=76281980)
+#### [Excercise files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/excercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/excercise-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files, then you can follow along with each video, opening up those files inside Unity, following along step by step.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/excercise-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files, then you can follow along with each video, opening up those files inside [[Unity]], following along step by step.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/excercise-files?u=76281980&t=11)** Now, each video is going to signpost a specific file to open inside Unity from the exercise files.
 >
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Audio files: Music and SFX
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980)
+#### [Audio files: Music and SFX](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=0)** - [Instructor] In this chapter of the course, we'll be looking at the fundamentals of audio, sound effects and music here inside the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=0)** - [Instructor] In this chapter of the course, we'll be looking at the fundamentals of audio, sound effects and music here inside the [[Unity]] engine.
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=9)** It's a really important topic.
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=30)** To demonstrate this feature set, I'm going to be using this haunted house project.
 >
-> **[0:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=35)** This is part of the John Lemon tutorial that is available completely free of charge from the Unity asset store.
+> **[0:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=35)** This is part of the [[John the Ripper|John]] Lemon tutorial that is available completely free of charge from the Unity asset store.
 >
 > **[0:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=43)** You don't need to download it from there because it's also included inside the course exercise files.
 >
@@ -163,7 +160,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=54)** You can easily go to the Unity asset store, search for 3D beginner tutorial resource, and you can add that to your assets, importing that into your project.
 >
-> **[1:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=65)** The details on how to download and import assets from the asset store is covered in an earlier module of the Unity certification courses here at LinkedIn Learning.
+> **[1:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=65)** The details on how to download and import assets from the asset store is covered in an earlier module of the Unity certification courses here at [[LinkedIn]] Learning.
 >
 > **[1:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-files-music-and-sfx?u=76281980&t=77)** I'm going to go back to Unity here and check out the project that I have put together using those assets and what you included inside the exercise files.
 >
@@ -273,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (14), [[Search]] (6), game (3), feature (2), web (2)
+> **Frameworks & Libraries:** [[Unity]] (14), [[John the Ripper|John]] (1), [[LinkedIn]] (1)
 > **UI Navigation:** go to (2), click on (2), drag and drop (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Exercise Files:** exercise files (2)
@@ -282,8 +279,7 @@ created: 2026-05-02
 > **URLs:** [unity3d.com](https://unity3d.com) (1)
 > **Versions:** 5.8 (1)
 
-#### Configuring audio files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980)
+#### [Configuring audio files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +337,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980&t=232)** This will ensure that the entirety of this track is not loaded all at once.
 >
-> **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980&t=237)** What Unity is going to do is to load this track into segments, play that particular segment, and while that's being played, it's going to be loading the next segment in chunks.
+> **[3:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980&t=237)** What [[Unity]] is going to do is to load this track into segments, play that particular segment, and while that's being played, it's going to be loading the next segment in chunks.
 >
 > **[4:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-audio-files?u=76281980&t=249)** This is really great when you have long audio files that are pretty large.
 >
@@ -357,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** sfx (3)
 > **Analogies:** for example (1), just like (1)
@@ -366,8 +362,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [trainer] (1)
 
-#### Audio listeners and sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980)
+#### [Audio listeners and sources](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980&t=115)** Or alternatively, I can drag and drop it into the scene view port.
 >
-> **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980&t=118)** And Unity will create the necessary objects to set that up for me.
+> **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980&t=118)** And [[Unity]] will create the necessary objects to set that up for me.
 >
 > **[2:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-listeners-and-sources?u=76281980&t=123)** But I like to be a bit more precise about it to get a bit more control.
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), next (2), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** select the (2), drag and drop (2), checkbox (1), switch to (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), means that (1), is an  (1)
@@ -500,8 +495,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating mixers and groups
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980)
+#### [Creating mixers and groups](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -535,7 +529,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=99)** You can see we have this master channel.
 >
-> **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=101)** This refers to the overall volume of our simulation or our game, the overall volume levels.
+> **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=101)** This refers to the overall volume of our [[Simulation]] or our game, the overall volume levels.
 >
 > **[1:49](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=109)** When I hit play on the tool bar, we're going to be able to hear the audio inside the scene but let's check out what happens inside the master channel.
 >
@@ -555,7 +549,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=181)** If I switched to the audio mixer, you can see that we have the master channel in here.
 >
-> **[3:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=186)** Unity calls this a group.
+> **[3:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=186)** [[Unity]] calls this a group.
 >
 > **[3:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-mixers-and-groups?u=76281980&t=188)** So I can click on the swatch and select the master group.
 >
@@ -653,7 +647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Simulation]] (1), game (1), [[Unity]] (1), next (1)
+> **Frameworks & Libraries:** [[Simulation]] (1), [[Unity]] (1)
 > **UI Navigation:** click on (4), select the (4)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1), in the next (1)
@@ -662,8 +656,7 @@ created: 2026-05-02
 > **Env Vars:** sfx (1)
 > **Analogies:** for example (1)
 
-#### 2D vs. 3D sound
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980)
+#### [2D vs. 3D sound](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -745,7 +738,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980&t=234)** Now, since the volume of this sound should change in relation to the position of the player, I'm going to need to select the camera, because this has the audio listener at the moment, and we don't want that.
 >
-> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980&t=247)** So, I'm going to deactivate the audio listener for the camera, select the player character, the John Lemon character, click on add component, and choose audio listener from the list.
+> **[4:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980&t=247)** So, I'm going to deactivate the audio listener for the camera, select the player character, the [[John the Ripper|John]] Lemon character, click on add component, and choose audio listener from the list.
 >
 > **[4:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/2d-vs-3d-sound?u=76281980&t=262)** It's the player that's going to have the listener here.
 >
@@ -825,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), game (2), next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **UI Navigation:** click on (3), select the (3), switch to (2), scroll down (2)
 > **CLI Commands:** make (3)
 > **Definitions:** refers to (2)
@@ -839,12 +832,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coding with audiomixers
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980)
+#### [Coding with audiomixers](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980&t=0)** - [Instructor] In this chapter, we're going to look at different ways that we can code alongside the unity audio system.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980&t=0)** - [Instructor] In this chapter, we're going to look at different ways that we can code alongside the [[Unity]] audio system.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/coding-with-audiomixers?u=76281980&t=8)** And we'll start by looking at a practical example of some code that will gradually fade in the volume of an audio source so that over time as we play back a scene the volume will fade in.
 >
@@ -912,7 +904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), next (3), game (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **UI Navigation:** right-click (3), select the (2), click on (1), dropdown (1), drag and drop (1)
 > **Cross-References:** go back to (2), previous chapter (1), in the next (1)
 > **Prerequisites:** set up (3)
@@ -920,8 +912,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create a volume fade-in
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980)
+#### [Create a volume fade-in](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,7 +930,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=42)** The next thing that I want to do is to create a completely separate function that is going to convert between a linear and a decibel scale.
 >
-> **[0:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=51)** In Unity, we need to specify the volume in decibels, but that is not always intuitive to think about volume in that way.
+> **[0:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=51)** In [[Unity]], we need to specify the volume in decibels, but that is not always intuitive to think about volume in that way.
 >
 > **[0:59](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=59)** Often, we'll want to think about volume in terms of zero and one, zero being silence and one being full volume, so we're going to convert between that linear scale to decibels.
 >
@@ -971,7 +962,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=177)** While the normal volume is less than or equal to one, while we haven't ramped up to the maximum, we're going to be grabbing our AudioMixer and setting the floating point parameter.
 >
-> **[3:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=190)** You all remember previously that we created a floating point parameter for the volume and we used the word Volume with capital V here.
+> **[3:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=190)** You all remember previously that we created a floating point parameter for the volume and we used the [[Microsoft Word|word]] Volume with capital V here.
 >
 > **[3:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-volume-fade-in?u=76281980&t=200)** So I'm going to choose Volume and then provide the next value.
 >
@@ -1015,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Unity]] (4), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Microsoft Word|Word]] (1)
 > **Cross-References:** in the next (2)
 > **UI Navigation:** select the (1), switch to (1)
 > **Definitions:** is a  (2)
@@ -1024,8 +1015,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (soft terrifying ambiance music) (1)
 
-#### Characters and footsteps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980)
+#### [Characters and footsteps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,7 +1023,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=12)** In this movie I wanted demonstrate how we can code, with specific audio source components on specific objects.
 >
-> **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=20)** To demonstrate this we're going to be working with the John Lemon character inside the haunted house.
+> **[0:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=20)** To demonstrate this we're going to be working with the [[John the Ripper|John]] Lemon character inside the haunted house.
 >
 > **[0:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=26)** When we click on different locations on the floor, he walks to those locations.
 >
@@ -1121,7 +1111,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=275)** File, save.
 >
-> **[4:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=277)** Go back to Unity here.
+> **[4:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=277)** Go back to [[Unity]] here.
 >
 > **[4:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/characters-and-footsteps?u=76281980&t=281)** I'm going to deactivate the mute audio so that I can hear the sound as it's being played, and make sure here that our code is compiled and that the floor here at the bottom has the charmer script attached and also has the audio source component configured. Great.
 >
@@ -1143,7 +1133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (1), [[Unity]] (1), hit (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Unity]] (1)
 > **UI Navigation:** click on (2), select the (2), scroll down (1), switch to (1)
 > **Prerequisites:** set up (2), configure (1)
 > **CLI Commands:** make (2)
@@ -1152,8 +1142,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting audio completion
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980)
+#### [Detecting audio completion](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1167,7 +1156,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980&t=24)** The char sounds project included in the course exercise files.
 >
-> **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980&t=30)** I've opened up the main scene which contains a ground plane, a character here based on the unity standard assets and also an empty audio source object.
+> **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980&t=30)** I've opened up the main scene which contains a ground plane, a character here based on the [[Unity]] standard assets and also an empty audio source object.
 >
 > **[0:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/detecting-audio-completion?u=76281980&t=40)** This object has already been configured with an audio source component containing an audio clip with a jump sound.
 >
@@ -1271,7 +1260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (2), game (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Tools:** visual studio (3)
 > **Code Identifiers:** isplaying (2)
 > **UI Navigation:** drag and drop (1), switch to (1)
@@ -1280,8 +1269,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - when (1)
 
-#### Audio events
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980)
+#### [Audio events](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,7 +1297,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980&t=83)** To find the animation for the character first of all, I'm going to move to the standard assets folder.
 >
-> **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980&t=90)** This mesh is based on the unity standard assets package that can be downloaded for free from the asset store and is already included in the exercise files.
+> **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980&t=90)** This [[Mesh]] is based on the [[Unity]] standard assets package that can be downloaded for free from the asset store and is already included in the exercise files.
 >
 > **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/audio-events?u=76281980&t=99)** There, you will find a folder called characters third person character.
 >
@@ -1417,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Unity]] (2), [[Mesh]] (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[Mesh]] (1)
 > **CLI Commands:** find (5), make (3)
 > **UI Navigation:** select the (3), scroll down (1), click on (1), go to (1)
 > **Tools:** visual studio (2)
@@ -1431,12 +1419,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a VFX graph asset
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980)
+#### [Create a VFX graph asset](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980&t=0)** - [Instructor] Unity now has two different Particle Systems for creating interesting effects like fire, fog, rain, smoke, fiery dust, traffic, birds, bees and all kinds of other stuff.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980&t=0)** - [Instructor] [[Unity]] now has two different Particle Systems for creating interesting effects like fire, fog, rain, smoke, fiery dust, traffic, birds, bees and all kinds of other stuff.
 >
 > **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/create-a-vfx-graph-asset?u=76281980&t=14)** In this chapter, we're going to be looking at the first of those two systems, the VFX Graph, which is available at least for the moment, only in the HD Render Pipeline.
 >
@@ -1518,7 +1505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), traffic (1), next (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **UI Navigation:** double-click (2), right-click (1), drag and drop (1), click on (1), dropdown (1)
 > **Env Vars:** vfx (5)
 > **CLI Commands:** make (3)
@@ -1526,8 +1513,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a VFX renderer
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980)
+#### [Creating a VFX renderer](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1533,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980&t=51)** Right at the top the particles have spawned, they go through to the initialize module where they get assigned some initial settings, they go through the update particles section.
 >
-> **[1:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980&t=62)** And this kind of corresponds to Unity's update function that allows particles to change over time.
+> **[1:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980&t=62)** And this kind of corresponds to [[Unity]]'s update function that allows particles to change over time.
 >
 > **[1:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/creating-a-vfx-renderer?u=76281980&t=69)** And then finally, it connects to the output particle quad, which define how the particles appear.
 >
@@ -1657,7 +1643,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Unity]] (4), node (1)
+> **Frameworks & Libraries:** [[Unity]] (4)
 > **Env Vars:** vfx (5)
 > **UI Navigation:** click on (3), drag and drop (1), go to (1)
 > **Cross-References:** in the next (2)
@@ -1666,8 +1652,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Working with sprites
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/working-with-sprites?u=76281980)
+#### [Working with sprites](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/working-with-sprites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1781,7 +1766,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), next (1)
 > **Env Vars:** vfx (2)
 > **Cross-References:** in the next (1)
 > **Definitions:** means that (1)
@@ -1789,8 +1773,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controls size, color, and motion
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980)
+#### [Controls size, color, and motion](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1910,13 +1893,13 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980&t=309)** Now, these are just a few of the basic settings that VFX graph allows us to have by connecting together many different modules in many different arrangements to create substantially different effects.
 >
-> **[5:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980&t=323)** The VFX graph is incredibly powerful and a pretty new feature in Unity too.
+> **[5:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980&t=323)** The VFX graph is incredibly powerful and a pretty new feature in [[Unity]] too.
 >
 > **[5:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controls-size-color-and-motion?u=76281980&t=330)** It's not the only particle system in town however, Unity has a legacy particle system called Shuriken and we're going to see how that works in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Unity]] (2), feature (1)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Env Vars:** vfx (3)
 > **UI Navigation:** select the (2), click on (1)
 > **CLI Commands:** make (1)
@@ -1930,12 +1913,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding particle systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980)
+#### [Understanding particle systems](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980&t=0)** - [Instructor] In the previous movie, we explored Unity's particle system VFX graph, which is available in both the HD render pipeline and the universal render pipeline under some conditions.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980&t=0)** - [Instructor] In the previous movie, we explored [[Unity]]'s particle system VFX graph, which is available in both the HD render pipeline and the universal render pipeline under some conditions.
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/understanding-particle-systems?u=76281980&t=12)** But if you're using the standard Unity pipeline or a 2D workflow, or some additional and alternative pipeline that isn't part of the main pipeline system, then you'll need to use Unity's standard particle system known as Shuriken.
 >
@@ -2001,7 +1983,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (10), functional (1), web (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (10)
 > **Cross-References:** go back to (2), in the next (1)
 > **UI Navigation:** navigate to (1), drag and drop (1)
 > **Definitions:** known as (1), is a  (1)
@@ -2010,8 +1992,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 
-#### Exploring the particles package
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980)
+#### [Exploring the particles package](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2037,7 +2018,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980&t=70)** This is actually a prefab rather than an asset specifically.
 >
-> **[1:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980&t=75)** It's not an original asset like a mesh or a texture, it's a composite.
+> **[1:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980&t=75)** It's not an original asset like a [[Mesh]] or a texture, it's a composite.
 >
 > **[1:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/exploring-the-particles-package?u=76281980&t=80)** So I'm going to grab the energy explosion and drag and drop into the scene and pretty much straight away.
 >
@@ -2123,7 +2104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Mesh]] (1)
 > **UI Navigation:** select the (5), click on (2), drag and drop (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** find (1), make (1)
@@ -2132,14 +2113,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [narrator] (1)
 
-#### Building a particle system
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980)
+#### [Building a particle system](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=0)** - [Instructor] In this movie we're going to carry on from the previous where we took a look at some existing particle systems.
 >
-> **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=7)** And now we're going to build our very own particle system from scratch using the standard unity particle system object.
+> **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=7)** And now we're going to build our very own particle system from scratch using the standard [[Unity]] particle system object.
 >
 > **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=15)** I'm continuing with the same exercise files but I've created a completely new scene just by choosing File, New Scene and it's completely empty, ready for us to begin creating a new system.
 >
@@ -2209,7 +2189,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=234)** In this case, I want the asteroids to be actual 3D objects and we can do that using this particle system.
 >
-> **[4:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=240)** To do that, I'm going to change the render mode from Billboard to Mesh and by selecting that I can now choose what kind of Mesh I want to use for our asteroids.
+> **[4:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=240)** To do that, I'm going to change the render mode from Billboard to [[Mesh]] and by selecting that I can now choose what kind of Mesh I want to use for our asteroids.
 >
 > **[4:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/building-a-particle-system?u=76281980&t=252)** I'm going to click on the selection field here to find a Mesh inside the scene.
 >
@@ -2253,7 +2233,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Mesh]] (4), next (3), [[Unity]] (1), hit (1), game (1)
+> **Frameworks & Libraries:** [[Mesh]] (4), [[Unity]] (1)
 > **CLI Commands:** make (2), find (2)
 > **UI Navigation:** click on (2), scroll up (1), dropdown (1)
 > **Env Vars:** vfx (1)
@@ -2262,8 +2242,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Controlling particle color and appearance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980)
+#### [Controlling particle color and appearance](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2275,7 +2254,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=15)** I'm going to move to the Inspector, scroll down to the very bottom here to the Render a Component, that's the bottom module.
 >
-> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=24)** And you'll see that, in addition to the mesh, we also have the material slot, the default particle system material, which is the default material that is assigned right now to each of these particles.
+> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=24)** And you'll see that, in addition to the [[Mesh]], we also have the material slot, the default particle system material, which is the default material that is assigned right now to each of these particles.
 >
 > **[0:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=36)** I'm going to change this just by clicking on the swatch to bring up the material selection, and I can choose a completely new material.
 >
@@ -2299,7 +2278,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=93)** I will enable that to expand this so that we can change the course of an object's rotation over the particle's lifetime.
 >
-> **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=101)** Right now, it allows to specify the angular velocity and it's set to 45, meaning that all of the particles are going to be rotating 45 degrees over time.
+> **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=101)** Right now, it allows to specify the [[Angular]] velocity and it's set to 45, meaning that all of the particles are going to be rotating 45 degrees over time.
 >
 > **[1:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/controlling-particle-color-and-appearance?u=76281980&t=112)** I don't want that.
 >
@@ -2349,14 +2328,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Mesh]] (1), [[Angular]] (1), data (1), game (1)
+> **Frameworks & Libraries:** [[Mesh]] (1), [[Angular]] (1)
 > **UI Navigation:** select the (3), scroll down (1), scroll up (1), click on (1), dropdown (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring particle collisions: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980)
+#### [Configuring particle collisions: Part 1](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2438,7 +2416,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980&t=240)** So I'm going to choose game object, and then save this code with file save.
 >
-> **[4:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980&t=246)** And then I'll go back to unity here, and our script will compile on the change.
+> **[4:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980&t=246)** And then I'll go back to [[Unity]] here, and our script will compile on the change.
 >
 > **[4:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-1?u=76281980&t=252)** If I select the player character, we can see here, we also have our health value and that's looking great.
 >
@@ -2460,7 +2438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), game (3), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **UI Navigation:** select the (3), scroll down (2), drag and drop (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Tools:** visual studio (2)
@@ -2469,8 +2447,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring particle collisions: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980)
+#### [Configuring particle collisions: Part 2](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2508,7 +2485,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980&t=78)** We can easily change this value inside the object inspector if we need to.
 >
-> **[1:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980&t=83)** Then I'm going to create a special function, a unity event called On Particle Collision.
+> **[1:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980&t=83)** Then I'm going to create a special function, a [[Unity]] event called On Particle Collision.
 >
 > **[1:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/configuring-particle-collisions-part-2?u=76281980&t=90)** So it's going to be private, void, on particle collision.
 >
@@ -2598,7 +2575,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), next (3), [[Unity]] (3), game (1), hit (1)
+> **Frameworks & Libraries:** [[Unity]] (3)
 > **UI Navigation:** switch to (3), select the (2), go to (1), drag and drop (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **CLI Commands:** make (2)
@@ -2610,14 +2587,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980&t=2)** You have reached the end of this course on Unity Certified Associate Audio and Effects presented by LinkedIn Learning.
+> **[0:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980&t=2)** You have reached the end of this course on [[Unity]] Certified Associate Audio and Effects presented by [[LinkedIn]] Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-audio-and-effects/next-steps?u=76281980&t=10)** In reaching this stage of the course, you've seen a ton of stuff spanning both audio and effects through particle systems.
 >
@@ -2645,7 +2621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (5), [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (5), [[LinkedIn]] (1)
 > **Env Vars:** wav (1), vfx (1)
 > **Prerequisites:** configure (1), set up (1)
 > **Analogies:** such as (1)

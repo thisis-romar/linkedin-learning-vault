@@ -93,12 +93,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measure, detect, and respond
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980)
+#### [Measure, detect, and respond](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=0)** - [Ibukun] As we innovate and evolve, there is still a fundamental need to understand and measure the reliability and performance of our infrastructure and products.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=0)** - [Ibukun] As we innovate and evolve, there is still a fundamental need to understand and measure the reliability and performance of our infrastructure and [[Microsoft Products|products]].
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=10)** This is how we're able to innovate while maintaining high standards of performance and stay efficient as we grow.
 >
@@ -108,15 +107,14 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=36)** And with this course, I'm here to help you do that as well.
 >
-> **[0:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=40)** If you're ready to learn more, then join me in my LinkedIn course.
+> **[0:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measure-detect-and-respond?u=76281980&t=40)** If you're ready to learn more, then join me in my [[LinkedIn]] course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Engineering]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [ibukun] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980&t=12)** While observability is usually owned by specific teams, different teams have a part to play as well as a huge gain if they invest in it.
 >
-> **[0:21](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980&t=21)** For this reason, I recommend this course for software engineers, DevOps/SRE or observability engineers who want to understand the foundations of observability.
+> **[0:21](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980&t=21)** For this reason, I recommend this course for software engineers, [[DevOps]]/SRE or observability engineers who want to understand the foundations of observability.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/what-you-need-to-know?u=76281980&t=33)** Because product managers are also invested in metrics and KPIs, understanding the potential use cases and outcomes of observability could improve how they approach implementing these.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), [[DevOps]] (2), product (2), cloud (2), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2)
 > **Env Vars:** sre (1)
 > **Speakers:** - [instructor] (1)
 
@@ -151,8 +149,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of monitoring and observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980)
+#### [Overview of monitoring and observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,25 +181,24 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=86)** Having coverage of these pillars gives high visibility into system performance.
 >
-> **[1:34](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=94)** Monitoring uses these signals to paint a picture of what is happening within our services, either using dashboards or visualizations or alerting.
+> **[1:34](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=94)** Monitoring uses these signals to paint a picture of what is happening within our services, either using [[Dashboards]] or visualizations or alerting.
 >
 > **[1:45](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=105)** There are several monitoring techniques depending on which aspects of a service is being monitored.
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=111)** Usually having more than one of these techniques in place gives a full picture of service performance.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=118)** For example, having application monitoring alone for your backend services doesn't quite provide insight into your frontend performance, which is equally an important part of your user experience.
+> **[1:58](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=118)** For example, having application monitoring alone for your backend services doesn't quite provide insight into your frontend performance, which is equally an important part of your [[User Experience (UX)|user experience]].
 >
 > **[2:12](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/overview-of-monitoring-and-observability?u=76281980&t=132)** We'll explore these and a few others as we progress in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Dashboards]] (1), application (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[User Experience (UX)|User experience]] (1)
 > **Analogies:** picture (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of observability in building applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980)
+#### [Importance of observability in building applications](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -216,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=18)** While we briefly touched on the pillars of observability, I'd like us to take a step back to understand why observability is important in the first place.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=28)** Observability powers other aspects of platform engineering, such as monitoring, testing, and incident response.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=28)** Observability powers other aspects of platform engineering, such as monitoring, testing, and [[Incident Response]].
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=36)** We can make informed decisions about how the changes we introduce to our system impact performance.
 >
@@ -230,18 +226,17 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=76)** All this boils down to being customer-focused.
 >
-> **[1:20](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=80)** Our ability to understand and react to issues in our system leads to overall improved experiences for the users we're building for.
+> **[1:20](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/importance-of-observability-in-building-applications?u=76281980&t=80)** Our ability to understand and [[React.js|react]] to issues in our system leads to overall improved experiences for the users we're building for.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), [[Engineering]] (1), [[Incident Response]] (1), data (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pillars of observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980)
+#### [Pillars of observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -269,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980&t=65)** Traces show the lifecycle of a request as it passes through your services and infrastructure.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980&t=71)** Because systems are not built in isolation, but are in constant communication with other infrastructure, whether as monoliths or microservices, it is important to understand the path through which your requests flow so that you're able to understand individual requests and also pinpoint problem areas within your infrastructure.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980&t=71)** Because systems are not built in isolation, but are in constant communication with other infrastructure, whether as monoliths or [[Microservices]], it is important to understand the path through which your requests flow so that you're able to understand individual requests and also pinpoint problem areas within your infrastructure.
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/pillars-of-observability?u=76281980&t=89)** Traces are the pictorial representation of this and are very instrumental in building distributed services.
 >
@@ -287,14 +282,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), data (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Env Vars:** cpu (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Observability architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980)
+#### [Observability architecture](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -316,7 +310,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=62)** I might also perform some processing on them.
 >
-> **[1:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=65)** The export layer is where these signals are then sent to your observability tool or backend, and the visualization layer is usually where you can interact with your signals in a meaningful way, either on dashboards or by being able to query the signals your service or infrastructure has exposed.
+> **[1:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=65)** The export layer is where these signals are then sent to your observability tool or backend, and the visualization layer is usually where you can interact with your signals in a meaningful way, either on [[Dashboards]] or by being able to query the signals your service or infrastructure has exposed.
 >
 > **[1:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=83)** These layers might not always be this distinct depending on how you implement your observability, but we'll see that as we explore.
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=161)** In recent times, however, new frameworks have come up to standardize how observability is implemented, and so OpenTelemetry has gained a lot of popularity.
 >
-> **[2:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=171)** OpenTelemetry is an open source observability framework that provides standard protocols and tools for instrumenting, collecting and routing telemetry data.
+> **[2:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=171)** OpenTelemetry is an open source observability framework that provides standard protocols and tools for instrumenting, collecting and [[Routing]] telemetry data.
 >
 > **[3:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=183)** OpenTelemetry has its own instrumentation libraries which help to gather, process and export data.
 >
@@ -364,7 +358,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=233)** The collector in itself has the ability to send to several vendors or backends, meaning that things which used to be complicated like changing your observability vendor can easily be done using OpenTelemetry.
 >
-> **[4:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=246)** The OpenTelemetry collector is made up of the receiver, which receives the observability signals, the processor, which prepares the data for exporting and performs actions like batching or data manipulation, and the exporter, which is where the collector then sends the data to the desired backend or vendor.
+> **[4:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=246)** The OpenTelemetry collector is made up of the receiver, which receives the observability signals, the processor, which prepares the data for exporting and performs actions like batching or [[Data Manipulation]], and the exporter, which is where the collector then sends the data to the desired backend or vendor.
 >
 > **[4:25](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=265)** These three aspects of the OpenTelemetry collector are mandatory when setting up your config.
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=393)** This then serves as the layer where data is received, processed, and exported.
 >
-> **[6:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=399)** In this course, I'll be working with a sample Node.js application to show you some of the demos.
+> **[6:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=399)** In this course, I'll be working with a sample [[Node.js]] application to show you some of the demos.
 >
 > **[6:45](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/observability-architecture?u=76281980&t=405)** We'll be instrumenting our Node.js service using some Node.js libraries, as well as OpenTelemetry libraries.
 >
@@ -418,7 +412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Node.js]] (3), [[Dashboards]] (1), [[Routing]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (3), [[Dashboards]] (1), [[Routing]] (1), [[Data Manipulation]] (1)
 > **Definitions:** is a  (2), is an  (2), means that (1)
 > **CLI Commands:** node (3), make (1)
 > **File Paths:** node.js (3)
@@ -430,8 +424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Metric types
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980)
+#### [Metric types](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -461,7 +454,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=94)** Consider a database server.
 >
-> **[1:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=96)** Monitoring the gauge metric for memory usage allows us to understand the current memory consumption and whether there's need to optimize memory management.
+> **[1:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=96)** Monitoring the gauge metric for memory usage allows us to understand the current memory consumption and whether there's need to optimize [[Memory Management]].
 >
 > **[1:46](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=106)** You can use gauges when you want to record a value that can go up or down or you don't need to query its rates.
 >
@@ -477,25 +470,24 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=156)** For performance optimization, gauges help identify bottlenecks and performance issues in real time.
 >
-> **[2:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=162)** By analyzing these metrics, you can pinpoint areas that require optimization such as memory-hungry processes or slow database queries.
+> **[2:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=162)** By analyzing these metrics, you can pinpoint areas that require optimization such as memory-hungry processes or slow [[Database Queries]].
 >
-> **[2:53](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=173)** For capacity planning, counters aid in predicting resource requirements.
+> **[2:53](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=173)** For [[Capacity Planning]], counters aid in predicting resource requirements.
 >
 > **[2:58](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=178)** They help determine when your systems are approaching capacity limits, allowing you to scale resources proactively.
 >
-> **[3:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=186)** While for user experience enhancements, understanding the distribution of user interactions through histograms helps optimize user experience.
+> **[3:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=186)** While for [[User Experience (UX)|user experience]] enhancements, understanding the distribution of user interactions through histograms helps optimize user experience.
 >
 > **[3:15](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metric-types?u=76281980&t=195)** By focusing on improving metrics related to user interactions, you can create a smoother and more responsive system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[User Experience (UX)|User experience]] (2), data (1), business (1), api (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2), [[Memory Management]] (1), [[Database Queries]] (1), [[Capacity Planning]] (1)
 > **Env Vars:** api (1), cpu (1), http (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [ibukun] (1)
 
-#### Analyzing metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/analyzing-metrics?u=76281980)
+#### [Analyzing metrics](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/analyzing-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,14 +541,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), web (3), traffic (1), next (1)
 > **Env Vars:** p50 (2), p99 (2), p90 (1), p95 (1)
 > **Analogies:** for example (3), for instance (1)
 > **Definitions:** means that (3)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right metric
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980)
+#### [Choosing the right metric](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,7 +558,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=18)** There are several schools of thought when it comes to choosing what metrics are the most important for an application.
 >
-> **[0:24](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=24)** One of the most popular ones is Google's Four Golden Signals.
+> **[0:24](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=24)** One of the most popular ones is [[Google]]'s Four Golden Signals.
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=28)** According to the Google SRE book, having the Four Golden Signals allows you a decent insight into your system's performance.
 >
@@ -642,7 +632,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=237)** Finally, we have reporting metrics.
 >
-> **[4:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=240)** These are best suited for dashboards rather than alerting.
+> **[4:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=240)** These are best suited for [[Dashboards]] rather than alerting.
 >
 > **[4:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=243)** For example, the number of signups to your product could be a reporting metric, which you view over periods of time to understand how your users are interacting with your service.
 >
@@ -690,19 +680,18 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=394)** Adding meaningful tags to your metrics can help you isolate issues and areas of interest.
 >
-> **[6:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=399)** For example, an e-commerce company could tag their metrics by country, meaning that they can analyze their sales or views by the countries that they're coming from.
+> **[6:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-the-right-metric?u=76281980&t=399)** For example, an [[E-Commerce]] company could tag their metrics by country, meaning that they can analyze their sales or views by the countries that they're coming from.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), next (3), [[Engineering]] (3), application (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Dashboards]] (1), [[E-Commerce]] (1)
 > **Env Vars:** cpu (4), sre (1), http (1)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics in action using Mimir and Grafana Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980)
+#### [Metrics in action using Mimir and Grafana Cloud](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -714,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=19)** Again, this depends on the language in which your application is built and how you collect metrics and where you send them.
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=25)** In the example on the screen, you can see how with instruments, a Node.js application to send metrics to Prometheus.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=25)** In the example on the screen, you can see how with instruments, a [[Node.js]] application to send metrics to Prometheus.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=33)** By following the documentation, you'll be able to instrument your own application accordingly as long as your observability metrics stack supports it.
 >
@@ -770,7 +759,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=213)** However, if we search for the metrics we created, we can see that they're available in the metrics endpoint.
 >
-> **[3:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=220)** You can see that product views has the labels that we've set on it of the products id, product name and price, as well as the value as each product is called, and same for the category.
+> **[3:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=220)** You can see that product views has the labels that we've set on it of the [[Microsoft Products|products]] id, product name and price, as well as the value as each product is called, and same for the category.
 >
 > **[3:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/metrics-in-action-using-mimir-and-grafana-cloud?u=76281980&t=231)** Finally, when we go into Grafana, we can navigate to the explore tab using the side menu.
 >
@@ -816,7 +805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), application (5), [[Node.js]] (4), [[Search]] (2), [[Analytics]] (2)
+> **Frameworks & Libraries:** [[Node.js]] (4), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), node (4), make (1), docker (1)
 > **Definitions:** is called (2), means that (1), is a  (1), is an  (1)
 > **File Paths:** node.js (4)
@@ -830,8 +819,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concepts of tracing and distributed systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980)
+#### [Concepts of tracing and distributed systems](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -853,7 +841,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980&t=69)** While metrics give you an aggregated view of performance and can indicate where there's an issue, drilling down from a metric to the traces that occurred within the same timeframe unlocks the ability to deeper understand what contributes to the metric behavior.
 >
-> **[1:25](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980&t=85)** Because metrics can be tagged with more context, they're a good driver for generating business metrics.
+> **[1:25](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980&t=85)** Because metrics can be tagged with more context, they're a good driver for generating [[Business Metrics]].
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-tracing-and-distributed-systems?u=76281980&t=92)** With the right tooling, you should be able to search and analyze traces based on the tags you've set.
 >
@@ -883,13 +871,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), business (2), data (2), database (1), product (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracing in action using Tempo and Grafana Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980)
+#### [Tracing in action using Tempo and Grafana Cloud](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -925,7 +912,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=99)** But once again, let's take a look at some of the instrumentation that we've done to make this possible.
 >
-> **[1:46](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=106)** Using my Node.js service, I'm making use of the OpenTelemetry instrumentation to send my traces to Grafana Cloud.
+> **[1:46](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=106)** Using my [[Node.js]] service, I'm making use of the OpenTelemetry instrumentation to send my traces to Grafana Cloud.
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=114)** I'm making use of automatic instrumentation libraries like the getNodeAutoInstrumentation to capture all the node actions going on in my service, HTTPInstrumentation and ExpressInstrumentation to capture my HTTP traces as well.
 >
@@ -1025,13 +1012,13 @@ created: 2026-05-02
 >
 > **[8:14](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=494)** Finally, metrics generated from trace's can be treated just like any metric.
 >
-> **[8:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=499)** You can add them on dashboards or even alerts on them as you would a regular metric.
+> **[8:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=499)** You can add them on [[Dashboards]] or even alerts on them as you would a regular metric.
 >
 > **[8:24](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/tracing-in-action-using-tempo-and-grafana-cloud?u=76281980&t=504)** This just shows you how the observability signals would work together to give you more insights into your service performance.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), application (3), data (3), [[Search]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[Dashboards]] (1)
 > **CLI Commands:** find (3), make (2), node (2)
 > **Analogies:** such as (2), just like (2), similar to (1), for example (1)
 > **Code Identifiers:** getnodeautoinstrumentation (1), requesthook (1), status_code (1), span_name (1)
@@ -1045,8 +1032,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Concepts of logging and log management
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980)
+#### [Concepts of logging and log management](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1068,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980&t=54)** This makes it easier to extract useful information about your service or infrastructure.
 >
-> **[1:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980&t=60)** JSON is the most common format for structured logs.
+> **[1:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980&t=60)** [[JSON]] is the most common format for structured logs.
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/concepts-of-logging-and-log-management?u=76281980&t=63)** With JSON, you can define common fields you're interested in which achieves a few things.
 >
@@ -1082,14 +1068,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), power (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **Env Vars:** json (4)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980)
+#### [Best practices for logging](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1121,7 +1106,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=79)** The purpose of your logs should be the driver for the tooling you choose.
 >
-> **[1:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=83)** Some tools are more suited for real-time logging, while others are better suited for analytics.
+> **[1:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=83)** Some tools are more suited for [[Real-Time]] logging, while others are better suited for analytics.
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=89)** The use case for your logs is also a driver for cost.
 >
@@ -1137,7 +1122,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=123)** For example, the IP address of the instance your service is running on to data about your product.
 >
-> **[2:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=129)** For example, customer IDs for an e-commerce website.
+> **[2:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=129)** For example, customer IDs for an [[E-Commerce]] website.
 >
 > **[2:14](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/best-practices-for-logging?u=76281980&t=134)** Define the log levels.
 >
@@ -1161,7 +1146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Analytics]] (2), application (1), [[Real-Time]] (1), product (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1), [[E-Commerce]] (1)
 > **Definitions:** known as (1), is an  (1), is a  (1)
 > **Analogies:** for example (2)
 > **Env Vars:** pii (1)
@@ -1169,8 +1154,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log collection and application
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-collection-and-application?u=76281980)
+#### [Log collection and application](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-collection-and-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1216,14 +1200,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), business (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - [instructor] (1)
 
-#### Log monitoring in action using Loki and Grafana Cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980)
+#### [Log monitoring in action using Loki and Grafana Cloud](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1231,7 +1213,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=6)** As usual, we'll take a look at the instrumentation to see how we're making this possible.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=11)** In my node.js service, I'm making use of the Winston Library to collect my logs.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=11)** In my [[Node.js]] service, I'm making use of the Winston Library to collect my logs.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=18)** In my Winston config, I'm instantiating a file log on line seven, which is sending my logs to a file name combined.log.
 >
@@ -1267,7 +1249,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=129)** In this case, because I'm sending them through the exporter, the parent label is the exporter with value of OTLP.
 >
-> **[2:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=136)** As you can see, Grafana already detects that my logs are in JSON and so it would ask me to add a JSON parser.
+> **[2:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=136)** As you can see, Grafana already detects that my logs are in [[JSON]] and so it would ask me to add a JSON parser.
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/log-monitoring-in-action-using-loki-and-grafana-cloud?u=76281980&t=143)** This is what we talked about when we mentioned that having your logs in JSON helps you take advantage of some of the processing that your observability tooling might offer.
 >
@@ -1301,7 +1283,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), cloud (3), data (2), [[Node.js]] (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Node.js]] (1)
 > **Env Vars:** json (4), otlphttp (2), otlp (2)
 > **CLI Commands:** make (3), node (1)
 > **Cross-References:** we talked about (1), we mentioned (1), go back to (1)
@@ -1315,8 +1297,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collecting system events
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/collecting-system-events?u=76281980)
+#### [Collecting system events](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/collecting-system-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1342,8 +1323,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Event analysis and correlation
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980)
+#### [Event analysis and correlation](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1339,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980&t=26)** If I go into the menu and scroll down to connections in the infrastructure tab, you'll be able to add new integrations.
 >
-> **[0:35](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980&t=35)** If, for example, you wanted to add an integration with your CI/CD pipeline, Grafana has a plugin for Jenkins, which you could use if Jenkins is your CI/CD tool.
+> **[0:35](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980&t=35)** If, for example, you wanted to add an integration with your CI/CD pipeline, Grafana has a plugin for [[Jenkins]], which you could use if Jenkins is your CI/CD tool.
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/event-analysis-and-correlation?u=76281980&t=46)** Here, you can leverage some of the metrics found, for example, with the Jenkins run success total, every time a pipeline is successfully run and a deployments is done, you could use this metric to correlate your deployment with changes within your system.
 >
@@ -1375,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (3), cloud (2), ci (2), cd (2), next (1)
+> **Frameworks & Libraries:** [[Jenkins]] (3)
 > **Analogies:** for example (3), such as (1)
 > **CLI Commands:** cd (2), docker (1)
 > **Cross-References:** next chapter (1)
@@ -1388,8 +1368,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application performance monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980)
+#### [Application performance monitoring](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1455,7 +1434,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=233)** You may be wondering why APM or app observability, since so far in the course, we've actually interacted with our observability signals individually and even in some cases, we've been able to link them together.
 >
-> **[4:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=245)** First of all, you have improved user experience.
+> **[4:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=245)** First of all, you have improved [[User Experience (UX)|user experience]].
 >
 > **[4:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=249)** In the case of Grafana Cloud, app observability removes the need to switch between data sources, but instead, presents the service performance as a whole to a user, which is a more intuitive way for engineers to interact with their signals.
 >
@@ -1477,11 +1456,11 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=323)** When implementing these, however, you should be mindful of the cost.
 >
-> **[5:27](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=327)** If you're particularly interested in Datadog, you should check out my course, Monitoring and Observability with Datadog, here on LinkedIn Learning.
+> **[5:27](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/application-performance-monitoring?u=76281980&t=327)** If you're particularly interested in Datadog, you should check out my course, Monitoring and Observability with Datadog, here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), cloud (4), data (3), api (1), power (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **Env Vars:** apm (16), api (1)
 > **Definitions:** known as (2), is a  (1)
 > **UI Navigation:** open the (1), navigate to (1)
@@ -1489,14 +1468,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [ibukun] (1)
 
-#### Synthetics monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980)
+#### [Synthetics monitoring](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=0)** - [Instructor] Synthetic monitoring serves as a form of black box monitoring, where you're checking that when your API endpoint receives a specific input, it emits unexpected output.
 >
-> **[0:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=11)** The conditions you could be checking for are a specific status code, for example, a 200 HTTP response, a specific message, which could be a text or a JSON payload, or the completion time of your request, such as saying it should be completed in less than five milliseconds.
+> **[0:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=11)** The conditions you could be checking for are a specific status code, for example, a 200 HTTP response, a specific message, which could be a text or a [[JSON]] payload, or the completion time of your request, such as saying it should be completed in less than five milliseconds.
 >
 > **[0:29](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=29)** Synthetic monitoring is often used to check that an endpoint is responding as expected and is often used to measure uptime with the assumption that whenever the output isn't as expected, the system is also not functioning properly.
 >
@@ -1510,7 +1488,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=67)** I already created one for this demo, so I'm going to view the existing checks.
 >
-> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=71)** As you can see, I have a synthetics demo, which is pinging the [google.com](https://google.com) website.
+> **[1:11](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=71)** As you can see, I have a synthetics demo, which is pinging the [[[Google]].com](https://google.com) website.
 >
 > **[1:17](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/synthetics-monitoring?u=76281980&t=77)** Let's edit this to see how we've set this up.
 >
@@ -1574,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (2), next (2), api (1), [[JSON]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Google]] (1)
 > **Env Vars:** http (3), api (1), json (1), aws (1), put (1)
 > **Analogies:** for example (3), such as (2)
 > **Prerequisites:** set up (3)
@@ -1583,12 +1561,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **URLs:** [google.com](https://google.com) (1)
 
-#### Infrastructure monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980)
+#### [Infrastructure monitoring](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=0)** - [Instructor] Infrastructure monitoring is one of the most popular forms of monitoring.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=0)** - [Instructor] Infrastructure monitoring is one of the most popular [[Forms]] of monitoring.
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=4)** This is because before the advent of APM and other forms of monitoring, there were established ways of monitoring infrastructure such as VMs or instances, which have been around for a while.
 >
@@ -1604,7 +1581,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=51)** For example, we can measure metrics such as CPU, disc, and memory for a database.
 >
-> **[0:57](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=57)** However, databases have other metrics specific to them that also measure performance.
+> **[0:57](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=57)** However, [[Databases]] have other metrics specific to them that also measure performance.
 >
 > **[1:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=63)** When it comes to infrastructure metrics, you need to understand what default metrics come with the infrastructure you're using and decide which of them is critical for your service and measure them.
 >
@@ -1634,7 +1611,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=150)** This is one way that you can monitor your infrastructure.
 >
-> **[2:32](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=152)** However, observability tools usually come with integrations that you can enable, which give you a ready set of metrics and sometimes even dashboards that you can monitor.
+> **[2:32](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=152)** However, observability tools usually come with integrations that you can enable, which give you a ready set of metrics and sometimes even [[Dashboards]] that you can monitor.
 >
 > **[2:44](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/infrastructure-monitoring?u=76281980&t=164)** If we go into the menu again and go to Connections, we can find the infrastructure tab.
 >
@@ -1662,7 +1639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), [[Dashboards]] (3), [[Forms]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Dashboards]] (3), [[Forms]] (2), [[Databases]] (1)
 > **CLI Commands:** docker (13), find (1)
 > **UI Navigation:** click on (5), go to (2), navigate to (1)
 > **Env Vars:** cpu (3), apm (1)
@@ -1671,8 +1648,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (2)
 > **Ports:** port 9323 (1)
 
-#### Product monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980)
+#### [Product monitoring](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1680,7 +1656,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980&t=6)** Product monitoring leverages custom metrics, logs and traces to measure things that are important or peculiar to your product.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980&t=16)** For example, an e-commerce store owner could care about the number of sales they make in a day, or a FinTech could be interested in monitoring the reliability of its partners when processing payment transactions.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980&t=16)** For example, an [[E-Commerce]] store owner could care about the number of sales they make in a day, or a FinTech could be interested in monitoring the reliability of its partners when processing payment transactions.
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/product-monitoring?u=76281980&t=31)** These sort of data are usually custom to the product that's been built, and so we require you to customize your observability signals.
 >
@@ -1698,15 +1674,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), data (3), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other monitoring techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980)
+#### [Other monitoring techniques](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1724,9 +1699,9 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=60)** This involves tracking various metrics such as CPU and memory usage, response times and resource utilization to create a detailed profile of how the application or system behaves under different conditions.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=74)** Observability profiling helps identify performance bottlenecks, resource inefficiencies, and areas for optimization, enabling developers and operators to enhance the reliability, efficiency, and scalability of their software.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=74)** Observability profiling helps identify performance bottlenecks, resource inefficiencies, and areas for optimization, enabling developers and operators to enhance the reliability, efficiency, and [[Scalability]] of their software.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=90)** It is particularly valuable for troubleshooting issues, improving system performance, and ensuring the smooth operation of complex distributed applications in environments like cloud computing and microservice architectures.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=90)** It is particularly valuable for troubleshooting issues, improving system performance, and ensuring the smooth operation of complex distributed applications in environments like [[Cloud Computing]] and microservice architectures.
 >
 > **[1:45](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=105)** Techniques like APM and profiling are suited for backend services.
 >
@@ -1736,13 +1711,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=121)** This serves as a way to measure your user's experience as you're able to get information like the pages they visit, the location they use your application from, and the devices they use.
 >
-> **[2:13](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=133)** Apart from getting metadata about your users, frontend metrics are also collected to measure your frontend performance and drive improvements.
+> **[2:13](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=133)** Apart from getting [[Metadata]] about your users, frontend metrics are also collected to measure your frontend performance and drive improvements.
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=143)** Next, we have network monitoring, which is the ongoing process of observing and analyzing a computer's network performance, availability, and security.
 >
 > **[2:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=153)** It involves tracking metrics like bandwidth utilization, latency and packet loss, ensuring devices and services are operational, and detecting and responding to security threats.
 >
-> **[2:45](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=165)** Network monitoring tools generate alerts, provide historical data analysis, and often integrates with other IT systems.
+> **[2:45](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=165)** [[Network Monitoring Tools]] generate alerts, provide historical data analysis, and often integrates with other IT systems.
 >
 > **[2:54](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=174)** This practice helps maintain a stable and efficient network infrastructure, reducing downtime, optimizing resource utilization, and it's particularly helpful for debugging beyond application performance, but also how distributed systems will interact over the network.
 >
@@ -1754,17 +1729,17 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=217)** Security monitoring is essential for protecting sensitive data and ensuring compliance with security policies and regulations and preventing or mitigating security breaches.
 >
-> **[3:49](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=229)** Its use cases include real-time threat detection, incident response and forensic analysis to identify the root causes of security incidents and improve overall cybersecurity posture.
+> **[3:49](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=229)** Its use cases include [[Real-Time]] threat detection, [[Incident Response]] and forensic analysis to identify the root causes of security incidents and improve overall [[Cybersecurity]] posture.
 >
 > **[4:02](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=242)** There are also others like database performance monitoring, cloud monitoring, compliance monitoring and so on.
 >
-> **[4:08](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=248)** As I mentioned, the principles remain the same, and you can adopt them as needed for your service or products.
+> **[4:08](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=248)** As I mentioned, the principles remain the same, and you can adopt them as needed for your service or [[Microsoft Products|products]].
 >
 > **[4:15](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/other-monitoring-techniques?u=76281980&t=255)** Just be sure to refer to the documentation for the observability tool that you're using.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), data (4), application (4), cloud (2), power (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[Cloud Computing]] (1), [[Metadata]] (1), [[Network Monitoring Tools]] (1), [[Real-Time]] (1)
 > **Env Vars:** cpu (1), apm (1), rum (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** refers to (1)
@@ -1776,12 +1751,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dashboards and visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980)
+#### [Dashboards and visualization](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980&t=0)** - [Instructor] Dashboards are a common way to group and view different observability signals.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980&t=0)** - [Instructor] [[Dashboards]] are a common way to group and view different observability signals.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/dashboards-and-visualization?u=76281980&t=5)** Creating meaningful dashboards can make a difference in a team's strategizing process.
 >
@@ -1859,21 +1833,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Dashboards]] (9), application (5), product (3), cloud (2)
+> **Frameworks & Libraries:** [[Dashboards]] (9)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), picture (1)
 > **Warnings:** keep in mind (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring and alerting
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980)
+#### [Monitoring and alerting](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=0)** - [Instructor] The observability signals we've been discussing throughout this course can be rendered irrelevant if we cannot proactively act on them.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=8)** Alerting is one of the ways we can rely on the signals we collect without being attached to dashboards 24/7.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=8)** Alerting is one of the ways we can rely on the signals we collect without being attached to [[Dashboards]] 24/7.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=15)** While dashboards are great, we need to be able to step away from our computers knowing that our systems will alert us when there's an issue.
 >
@@ -1883,7 +1856,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=39)** Observability platforms will often come with the ability to create alerts, and the default method of propagating these alerts are emails.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=47)** There are also integrations that exist, like Slack or Microsoft Teams, so that your teams are alerted where they primarily work.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=47)** There are also integrations that exist, like [[Slack]] or [[Microsoft Teams]], so that your teams are alerted where they primarily work.
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=56)** Now, let's go into Grafana Cloud to see how alerting works.
 >
@@ -1901,7 +1874,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=93)** You should give this a name that's easily understandable to anyone who reads it.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=98)** So here, I have Trace Latency Get Products because I'm alerting on the latency of my traces for the Get Products endpoints.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=98)** So here, I have Trace Latency Get [[Microsoft Products|Products]] because I'm alerting on the latency of my traces for the Get Products endpoints.
 >
 > **[1:47](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=107)** Next, you need to define your query and alert condition.
 >
@@ -1921,7 +1894,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=160)** When I scroll down, I can also set a threshold for this metric, so here, if my input is above three milliseconds, my alert should trigger.
 >
-> **[2:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=171)** As we continue to scroll down, I can set other parameters for this alert, like what folder it should be in or how it should react if there is no data or if there's an execution error.
+> **[2:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=171)** As we continue to scroll down, I can set other parameters for this alert, like what folder it should be in or how it should [[React.js|react]] if there is no data or if there's an execution error.
 >
 > **[3:04](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=184)** I can also add annotations, like the summary or description, which are optional, and then I can add a Runbook URL, which is a URL that contains instructions on what to do or how to resolve this alert when it triggers.
 >
@@ -1937,7 +1910,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=232)** Finally, we can configure notifications, which is where alerts differ from dashboards, as you'll be alerted when something happens rather than babysitting and watching a dashboard 24/7.
 >
-> **[4:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=243)** If I click on Preview routing, it shows me where these alerts will be sent to.
+> **[4:03](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=243)** If I click on Preview [[Routing]], it shows me where these alerts will be sent to.
 >
 > **[4:08](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/monitoring-and-alerting?u=76281980&t=248)** In this case, it's using my default policy, which is delivered to this Grafana default email contact points.
 >
@@ -1957,7 +1930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Dashboards]] (4), cloud (3), application (3), [[Slack]] (2)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Slack]] (2), [[Microsoft Products|Products]] (2), [[Microsoft Teams]] (1), [[React.js|React]] (1)
 > **UI Navigation:** click on (8), scroll down (2), navigate to (1), dropdown (1)
 > **Prerequisites:** configure (2), set up (2)
 > **Env Vars:** url (3)
@@ -1966,8 +1939,7 @@ created: 2026-05-02
 > **Tools:** slack (2)
 > **Definitions:** is a  (2)
 
-#### SLIs, SLOs, SLAs
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980)
+#### [SLIs, SLOs, SLAs](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,7 +1947,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=9)** SLIs, SLOs and SLAs are based on default software metrics, custom metrics or even metrics generated from other signals like traces or logs.
 >
-> **[0:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=19)** Generally, they help you capture, and react to the most user impacting events that occur within your system so as to maintain a high level of user experience.
+> **[0:19](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=19)** Generally, they help you capture, and [[React.js|react]] to the most user impacting events that occur within your system so as to maintain a high level of [[User Experience (UX)|user experience]].
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=28)** Service level indicators or SLI are key metrics that measure system performance.
 >
@@ -2017,7 +1989,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=180)** This means that a service within 90% SLO must not breach its set SLAs for more than this alerted error budget.
 >
-> **[3:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=189)** The benefits of having SLOs, SLAs, and error budgets is that, you can quantitatively measure your user's experience, and streamline incident response to incidents that impact user experience.
+> **[3:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=189)** The benefits of having SLOs, SLAs, and error budgets is that, you can quantitatively measure your user's experience, and streamline [[Incident Response]] to incidents that impact user experience.
 >
 > **[3:21](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=201)** This can be a relief for engineering teams who are traditionally alerted for every single metric rather than only for actionable metrics.
 >
@@ -2029,7 +2001,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=228)** Overall, your services and users are better for it when SLIs, SLOs, and error budgets are well-defined, and are adhere to.
 >
-> **[3:58](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=238)** Some observability vendors have SLO products.
+> **[3:58](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=238)** Some observability vendors have SLO [[Microsoft Products|products]].
 >
 > **[4:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/slis-slos-slas?u=76281980&t=240)** However, you can also create them yourself, and alert on them.
 >
@@ -2117,7 +2089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), aws (2), [[Engineering]] (2), teams (2), cloud (2)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (3), [[React.js|React]] (1), [[Incident Response]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** slo (21), sli (4), http (3), aws (2), sle (2)
 > **Prerequisites:** set up (5)
 > **CLI Commands:** aws (2), find (1), make (1)
@@ -2126,12 +2098,11 @@ created: 2026-05-02
 > **UI Navigation:** click on (2)
 > **Definitions:** means that (1), is a  (1)
 
-#### Incident management
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980)
+#### [Incident management](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=0)** - [Ibukun] Incident response is often where observability carries the biggest weight.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=0)** - [Ibukun] [[Incident Response]] is often where observability carries the biggest weight.
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=5)** The idea behind understanding both the knowns and unknowns about your system becomes even more critical when things are going wrong.
 >
@@ -2179,7 +2150,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=143)** The detection to resolution phases leverage most of the things that we've talked about in this chapter.
 >
-> **[2:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=148)** Alerting for being notified about incidents, SLIs and SLOs for narrowing down incidents to the most critical ones, and dashboards for drilling down and understanding incidents.
+> **[2:28](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=148)** Alerting for being notified about incidents, SLIs and SLOs for narrowing down incidents to the most critical ones, and [[Dashboards]] for drilling down and understanding incidents.
 >
 > **[2:40](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=160)** To make your incident response phases go smoothly, your team roles and responsibilities and tooling should work hand in hand.
 >
@@ -2205,7 +2176,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=227)** Some of these tools are PagerDuty, Splunk On-Call, Datadog Incident Management, and much more.
 >
-> **[3:55](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=235)** If you're particularly interested in PagerDuty, you should check out my course, Incident Response with PagerDuty, here on LinkedIn Learning.
+> **[3:55](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=235)** If you're particularly interested in PagerDuty, you should check out my course, Incident Response with PagerDuty, here on [[LinkedIn]] Learning.
 >
 > **[4:02](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=242)** I also cover in depth how to design and implement your incident response process, so regardless of whether you use PagerDuty or not, if you're interested in incident response, this will be useful for you.
 >
@@ -2273,7 +2244,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=420)** In this case, we want to start the default notification schedule and we've selected the Observability Primary Schedule, which is the one I created originally.
 >
-> **[7:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=429)** We've also mentioned that this should notify a Slack channel and also repeats five times.
+> **[7:09](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=429)** We've also mentioned that this should notify a [[Slack]] channel and also repeats five times.
 >
 > **[7:14](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=434)** As I mentioned earlier, your oncall schedule helps you to know who to notify, where to notify them, and how often to notify them as well.
 >
@@ -2301,7 +2272,7 @@ created: 2026-05-02
 >
 > **[8:44](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=524)** The first is a safe investigation, which is Grafana's way of using machine learning to suggest possible root causes for an incident.
 >
-> **[8:52](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=532)** At the moment, this is only limited to Kubernetes applications, so we're going to skip that for now.
+> **[8:52](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=532)** At the moment, this is only limited to [[Kubernetes]] applications, so we're going to skip that for now.
 >
 > **[8:57](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=537)** The next thing is that it creates a Slack channel, which is where your team can communicate.
 >
@@ -2335,7 +2306,7 @@ created: 2026-05-02
 >
 > **[10:36](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=636)** I can add this as a task, and as it's completed, I can mark it as Done.
 >
-> **[10:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=642)** All of this would happen while you're using your observability tools and signals to try Azure Incidents.
+> **[10:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=642)** All of this would happen while you're using your observability tools and signals to try [[Microsoft Azure|Azure]] Incidents.
 >
 > **[10:48](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/incident-management?u=76281980&t=648)** And hopefully you're able to come to a resolution soon and you can mark your incident as resolved.
 >
@@ -2373,7 +2344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (22), next (4), [[Dashboards]] (4), management (3), data (2)
+> **Frameworks & Libraries:** [[Incident Response]] (22), [[Dashboards]] (4), [[Slack]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1)
 > **UI Navigation:** click on (5), scroll down (2), go to (1), select the (1)
 > **Env Vars:** sms (3), irm (1), mttr (1)
 > **Analogies:** for example (5)
@@ -2382,8 +2353,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **Tools:** slack (2)
 
-#### Machine learning and observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980)
+#### [Machine learning and observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2397,7 +2367,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=39)** Next, you have root cause analysis.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=42)** Incident response tools and observability tools can suggest root causes for incidents based on the trend of incidents that are usually triggered around the same time.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=42)** [[Incident Response]] tools and observability tools can suggest root causes for incidents based on the trend of incidents that are usually triggered around the same time.
 >
 > **[0:51](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=51)** If you send multiple signals like your metrics, logs, and traces to the same tool, they can also correlates errors in all the signals to suggest a root cause.
 >
@@ -2447,15 +2417,15 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=212)** This helps in incident management by suggesting things that could potentially be a root cause for your incident.
 >
-> **[3:38](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=218)** This is, at the moment, very specific to Kubernetes applications and is currently in preview, and I believe that Grafana Cloud will continue to improve on this as time goes on.
+> **[3:38](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=218)** This is, at the moment, very specific to [[Kubernetes]] applications and is currently in preview, and I believe that Grafana Cloud will continue to improve on this as time goes on.
 >
-> **[3:48](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=228)** In summary, machine learning just takes your observability to the next level by helping you to respond to anomalies you may not catch with your usual alerting, enabling proactive capacity planning and improving incident response by understanding your system and suggesting root causes, as well as other things that would help you to solve incidents faster.
+> **[3:48](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=228)** In summary, machine learning just takes your observability to the next level by helping you to respond to anomalies you may not catch with your usual alerting, enabling proactive [[Capacity Planning]] and improving incident response by understanding your system and suggesting root causes, as well as other things that would help you to solve incidents faster.
 >
 > **[4:07](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/machine-learning-and-observability?u=76281980&t=247)** Different observability tools leverage machine learning in different ways, so be sure to check the documentation for whatever tool you're using, so that you can make the best use of it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), ai (3), next (2), [[Incident Response]] (2), data (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2), [[Kubernetes]] (1), [[Capacity Planning]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2469,8 +2439,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing your observability stack
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-your-observability-stack?u=76281980)
+#### [Choosing your observability stack](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/choosing-your-observability-stack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2516,13 +2485,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Engineering]] (3), cloud (2), next (2), open-source (2)
 > **Definitions:** is an  (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Measuring the success of your observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980)
+#### [Measuring the success of your observability](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2548,7 +2515,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980&t=76)** These SLIs can then be used to calculate SLUs as we'll see in the chapter, exploring SLIs, SLUs and SLAs.
 >
-> **[1:24](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980&t=84)** Another way to measure observability is also the impact it has on incident response.
+> **[1:24](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980&t=84)** Another way to measure observability is also the impact it has on [[Incident Response]].
 >
 > **[1:29](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/measuring-the-success-of-your-observability?u=76281980&t=89)** These are the most common observability metrics you'll come across, and they are mean time to detect.
 >
@@ -2566,14 +2533,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), teams (1), [[Incident Response]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Incident Response]] (1)
 > **Env Vars:** nps (2), hetp (1), mtcd (1), mttd (1), mttr (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing observability in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/implementing-observability-in-your-organization?u=76281980)
+#### [Implementing observability in your organization](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/implementing-observability-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2611,11 +2577,11 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/implementing-observability-in-your-organization?u=76281980&t=104)** Thank you for joining me on this amazing journey, and I look forward to connecting with you as well.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/implementing-observability-in-your-organization?u=76281980&t=109)** You can reach out to me on LinkedIn at Ibukun Itimi.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-monitoring-and-observability-20223247/implementing-observability-in-your-organization?u=76281980&t=109)** You can reach out to me on [[LinkedIn]] at Ibukun Itimi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), cloud (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [ibukun] (1)

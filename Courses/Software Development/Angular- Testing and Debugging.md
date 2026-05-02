@@ -112,14 +112,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Angular: Testing and debugging
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
+#### [Angular: Testing and debugging](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=0)** - [Derek] Angular has come a long way since Google first released the framework back in 2010.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=0)** - [Derek] [[Angular]] has come a long way since [[Google]] first released the framework back in 2010.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=5)** Since then, it's grown into a mature and stable platform with lots of built-in support for testing and debugging code.
+> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=5)** Since then, it's grown into a mature and stable platform with lots of built-in support for testing and [[Debugging Code]].
 >
 > **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=12)** My name is Derek Peruo and I've worked with web technologies for over 12 years.
 >
@@ -131,28 +130,27 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=39)** We'll also take a look at code linting and how Angular's command line tool can speed up your development workflow.
 >
-> **[0:45](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=45)** There are a lot of JavaScript frameworks out there and Angular is one of my favorites, so let's get started.
+> **[0:45](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-testing-and-debugging?u=76281980&t=45)** There are a lot of [[JavaScript]] frameworks out there and Angular is one of my favorites, so let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[Debugging]] (3), [[Google]] (1), [[Debugging Code]] (1), web (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Google]] (1), [[Debugging Code]] (1), [[JavaScript]] (1)
 > **Versions:** version 1 (1)
 > **Tools:** command line (1)
 > **Warnings:** common error (1)
 > **Speakers:** - [derek] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=0)** - [Instructor] We write angular code using TypeScript and you should have a good idea of how TypeScript works before starting this course.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=0)** - [Instructor] We write [[Angular]] code using TypeScript and you should have a good idea of how TypeScript works before starting this course.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=6)** You should also be familiar with the angular framework in general.
 >
 > **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=9)** Check out TypeScript essential training and [[Angular Essential Training]] here in our library for an in-depth look at TypeScript and the angular framework.
 >
-> **[0:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=17)** We use npm to install the angular command line tool.
+> **[0:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=17)** We use [[npm]] to install the angular command line tool.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=20)** So make sure you have node and npm installed on your machine before we begin.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=40)** I'm going to use visual studio code as my text editor.
 >
-> **[0:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=43)** vs code is a free and open source code editor available on windows, Mac and Linux.
+> **[0:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=43)** vs code is a free and open source code editor available on [[Windows]], Mac and [[Linux]].
 >
 > **[0:48](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=48)** You can download the latest stable release from the official website.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=61)** But you can use any code editor you like.
 >
-> **[1:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=64)** I'll also use Google Chrome as my web browser to preview our app.
+> **[1:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=64)** I'll also use [[Google]] Chrome as my web browser to preview our app.
 >
 > **[1:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/what-you-should-know?u=76281980&t=68)** This is a personal preference and you can use any web browser that works best for you.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[npm]] (3), node (3), web (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[npm]] (3), [[Windows]] (1), [[Linux]] (1), [[Google]] (1)
 > **CLI Commands:** npm (3), node (3), make (1)
 > **Tools:** vs code (2), command line (1), visual studio (1)
 > **Versions:** version 14 (1), 15.5 (1), version 1 (1)
@@ -195,14 +193,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1), make sure you have (1)
 > **Env Vars:** lts (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=0)** - [Tutor] Follow along with this course using the included exercise files.
 >
-> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=4)** We host all the course files on GitHub, at this URL.
+> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=4)** We host all the course files on [[GitHub]], at this URL.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=7)** You can work with the course files in a few ways.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=52)** You'll need to download each branch individually if you choose the download zip option.
 >
-> **[0:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=57)** One quick note, angular uses NPM to manage project dependencies.
+> **[0:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=57)** One quick note, [[Angular]] uses [[npm]] to manage project dependencies.
 >
 > **[1:01](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/exercise-files?u=76281980&t=61)** So be sure to run NPM install on the main branch if you clone the repo or whenever you download the zip file for a specific branch.
 >
@@ -242,12 +239,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Application overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
+#### [Application overview](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=0)** - [Instructor] Testing and debugging is a big part of building Angular apps.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=0)** - [Instructor] Testing and debugging is a big part of building [[Angular]] apps.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=4)** The faster you can find the problems the faster you can fix your application and the faster you can get it back up and running.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=31)** Let's take a look at the code.
 >
-> **[0:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=33)** This is the HTML template for our user list.
+> **[0:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=33)** This is the [[HTML]] template for our user list.
 >
 > **[0:36](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/application-overview?u=76281980&t=36)** At the top here is the input group for our search field and the clear button.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[Search]] (5), data (4), [[HTML]] (3), dom (3)
+> **Frameworks & Libraries:** [[Angular]] (6), [[HTML]] (3)
 > **Env Vars:** html (3), dom (3), api (2)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (4)
@@ -336,12 +332,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing project dependencies
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980)
+#### [Installing project dependencies](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=0)** - [Instructor] Angular projects use npm to manage dependencies.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=0)** - [Instructor] [[Angular]] projects use [[npm]] to manage dependencies.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=4)** We need to install these dependencies, sometimes called packages, to write our code and compile our app.
 >
@@ -401,13 +396,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=98)** This ensures that you have all the packages available when you change branches during the course.
 >
-> **[1:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=103)** A quick note about npm, let me close out of this terminal, all the packages are stored in the package.json file in the root of the project.
+> **[1:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=103)** A quick note about npm, let me close out of this terminal, all the packages are stored in the package.[[JSON]] file in the root of the project.
 >
 > **[1:51](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=111)** And these dependencies are stable and current as of this recording.
 >
 > **[1:55](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=115)** Some packages may get updated after the course is published.
 >
-> **[1:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=119)** If this happens, GitHub will tell you if there are packages that need to be updated.
+> **[1:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=119)** If this happens, [[GitHub]] will tell you if there are packages that need to be updated.
 >
 > **[2:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-project-dependencies?u=76281980&t=123)** I encourage you to update the packages as needed, but sometimes in rare cases package updates can cause breaking changes.
 >
@@ -415,7 +410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (12), hit (2), [[Angular]] (1), [[JSON]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[npm]] (12), [[Angular]] (1), [[JSON]] (1), [[GitHub]] (1)
 > **CLI Commands:** npm (12), make (2)
 > **Tools:** terminal (4), vs code (2), visual studio (1), github (1)
 > **Prerequisites:** install (7)
@@ -424,22 +419,21 @@ created: 2026-05-02
 > **File Paths:** package.json (1)
 > **Cross-References:** earlier in (1)
 
-#### Installing Angular CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980)
+#### [Installing Angular CLI](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=0)** - [Instructor] Angular's command-line tool is the best way to work with files in an Angular project.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=0)** - [Instructor] [[Angular]]'s command-line tool is the best way to work with files in an Angular project.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=5)** It lets you scaffold new components, update app settings and run local builds.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=10)** It is a very powerful tool and I recommend you read the official documentation to learn all the things you can do with it.
 >
-> **[0:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=16)** We install Angular CLI using NPM.
+> **[0:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=16)** We install [[Angular CLI]] using [[npm]].
 >
 > **[0:18](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=18)** I confirmed earlier in this course that I have NPM installed on my machine, so we can get right to the install process for Angular CLI.
 >
-> **[0:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=26)** In Visual Studio Code, I'll go up to the Terminal menu, click on New Terminal and I'll use the NPM install command to install the package, I'll type npm install -g @angular/cli.
+> **[0:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=26)** In Visual Studio Code, I'll go up to the Terminal menu, click on New Terminal and I'll use the NPM install command to install the package, I'll type npm install -g @angular/[[CLI]].
 >
 > **[0:39](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-angular-cli?u=76281980&t=39)** The g flag here means we're installing the tool globally and can use it from any directory on our machine.
 >
@@ -463,7 +457,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (5), [[Angular]] (4), [[Angular CLI]] (4), hit (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[npm]] (5), [[Angular]] (4), [[Angular CLI]] (4), [[CLI]] (1)
 > **Env Vars:** cli (4), npm (4)
 > **CLI Commands:** npm (5)
 > **Prerequisites:** install (5)
@@ -477,12 +471,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Error handling in Angular
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
+#### [Error handling in Angular](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980&t=0)** - [Instructor] In Angular, all errors pass through the ErrorHandler class.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980&t=0)** - [Instructor] In [[Angular]], all errors pass through the ErrorHandler class.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/error-handling-in-angular?u=76281980&t=4)** This class is part of the angular/core module and its job is to essentially write errors to the console.
 >
@@ -502,18 +495,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), data (2), next (1)
+> **Frameworks & Libraries:** [[Angular]] (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding zones in Angular apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980)
+#### [Understanding zones in Angular apps](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=0)** - [Instructor] Angular executes all code inside of Zones.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=0)** - [Instructor] [[Angular]] executes all code inside of Zones.
 >
 > **[0:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=3)** It does this using Zone.js which is now part of the angular core library.
 >
@@ -551,23 +543,22 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=90)** Error messages trace the Zone back to its origin not just the execution stack.
 >
-> **[1:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=94)** You can use Zones at all stages of application development.
+> **[1:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=94)** You can use Zones at all stages of [[Application Development]].
 >
 > **[1:37](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-zones-in-angular-apps?u=76281980&t=97)** And I encourage you to take a look at the official documentation for an even deeper look at how Zones can improve your development life cycle and your production application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), business (1), [[Application Development]] (1), application (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Application Development]] (1)
 > **File Paths:** zone.js (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Angular without ZoneJS (Zoneless)
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-without-zonejs-zoneless-26050371?u=76281980)
+#### [Angular without ZoneJS (Zoneless)](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-without-zonejs-zoneless-26050371?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-without-zonejs-zoneless-26050371?u=76281980&t=0)** - [Trainer] Starting in Angular version 18, you can opt-in for a new Zoneless architecture.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-without-zonejs-zoneless-26050371?u=76281980&t=0)** - [Trainer] Starting in [[Angular]] version 18, you can opt-in for a new Zoneless architecture.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/angular-without-zonejs-zoneless-26050371?u=76281980&t=6)** This is a huge change because Angular's been using ZoneJS since version 2.0.
 >
@@ -583,21 +574,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), api (2), [[Debugging]] (1), feature (1)
+> **Frameworks & Libraries:** [[Angular]] (5)
 > **Env Vars:** api (2)
 > **Versions:** version 18 (1), version 2 (1)
 > **Definitions:** is a  (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [trainer] (1)
 
-#### Add a new file using Angular CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980)
+#### [Add a new file using Angular CLI](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=0)** - [Instructor] Let's make a custom service that adds metadata to error messages before sending them to the console.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=0)** - [Instructor] Let's make a custom service that adds [[Metadata]] to error messages before sending them to the console.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=5)** There's a few ways we could add a new file, but I find the best way is to use Angular CLI tool.
+> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=5)** There's a few ways we could add a new file, but I find the best way is to use [[Angular CLI]] tool.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=11)** Angular CLI knows what type of file we want and automatically adds the correct imports and exports for that type of file.
 >
@@ -605,7 +595,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=20)** So I'll go up to the Terminal menu, click on New Terminal and I'll type NG generate service and hit Enter.
 >
-> **[0:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=27)** Angular will ask us what we want to name the file.
+> **[0:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=27)** [[Angular]] will ask us what we want to name the file.
 >
 > **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/add-a-new-file-using-angular-cli?u=76281980&t=30)** Here's some things to keep in mind, Angular puts all new files in the app folder in the source directory, right here.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (4), [[Metadata]] (3), [[Angular CLI]] (2), hit (2), next (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[Metadata]] (3), [[Angular CLI]] (2)
 > **Tools:** terminal (3)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cli (2)
@@ -642,16 +632,15 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Analogies:** for example (1)
 
-#### Writing a custom error handler class
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980)
+#### [Writing a custom error handler class](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=0)** - [Instructor] In the last video we added a new file using Angular CLI tool.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=0)** - [Instructor] In the last video we added a new file using [[Angular CLI]] tool.
 >
-> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=4)** Let's update this file to add metadata to error messages before sending them to the console.
+> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=4)** Let's update this file to add [[Metadata]] to error messages before sending them to the console.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=9)** I have our new file open here in VS code and the first thing we need to do is import Angular's ErrorHandler class.
+> **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=9)** I have our new file open here in VS code and the first thing we need to do is import [[Angular]]'s ErrorHandler class.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=15)** I do that by going to the import statement for the Angular core module at the top of the file and adding the ErrorHandler class to the list of imports.
 >
@@ -725,7 +714,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=203)** We'll need to compile our code and launch a local dev server to check our work.
 >
-> **[3:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=207)** We use the NPM start command to do that.
+> **[3:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=207)** We use the [[npm]] start command to do that.
 >
 > **[3:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/writing-a-custom-error-handler-class?u=76281980&t=210)** I'll go up to the Terminal menu, click on New Terminal and type npm start and hit enter.
 >
@@ -803,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), [[npm]] (5), [[Metadata]] (3), [[Angular CLI]] (2), hit (2)
+> **Frameworks & Libraries:** [[Angular]] (7), [[npm]] (5), [[Metadata]] (3), [[Angular CLI]] (2)
 > **CLI Commands:** make (9), npm (5), find (1)
 > **UI Navigation:** click on (4), go to (2), scroll down (2), in the sidebar (1)
 > **Tools:** terminal (5), vs code (3)
@@ -812,12 +801,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (2), in the last (1)
 > **File Paths:** app.module.ts (1)
 
-#### Changes for Angular v16
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v16?u=76281980)
+#### [Changes for Angular v16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v16?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v16?u=76281980&t=0)** For newer versions of Angular like versions 15 and 16, the Angular team recommends using plain classes for custom error handlers instead of injecting them through Angular's dependency injection.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v16?u=76281980&t=0)** For newer versions of [[Angular]] like versions 15 and 16, the Angular team recommends using plain classes for custom error handlers instead of injecting them through Angular's [[Dependency Injection]].
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v16?u=76281980&t=13)** For our ErrorMetadataService, this means we can get rid of the injectable decorator and just export the class as written.
 >
@@ -835,8 +823,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding a local storage service
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
+#### [Adding a local storage service](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -844,21 +831,21 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=4)** There are many ways we could do this but to keep things simple, I'm going to use local storage.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=8)** Local storage is one of several client side data storage options available on all modern browsers and it's an excellent choice for our use case here.
+> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=8)** Local storage is one of several client side [[Data Storage]] options available on all modern browsers and it's an excellent choice for our use case here.
 >
 > **[0:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=16)** In local storage, data is stored as simple key value pairs and the data persists between browsing sessions until it's deleted by the user or some trigger in our app code.
 >
 > **[0:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=26)** This means we can restore the filter on page load even after the user closes the browser window.
 >
-> **[0:31](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=31)** Check out the course managing data in Angular two applications here in our library for an in-depth look at all your data storage options for Angular.
+> **[0:31](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=31)** Check out the course managing data in [[Angular]] two applications here in our library for an in-depth look at all your data storage options for Angular.
 >
-> **[0:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=40)** I'm in VSA code here and I already installed the NPM packages and launched a local dev server.
+> **[0:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=40)** I'm in VSA code here and I already installed the [[npm]] packages and launched a local dev server.
 >
-> **[0:46](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=46)** I'm going to make a new file now using the Angular CLI tool.
+> **[0:46](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=46)** I'm going to make a new file now using the [[Angular CLI]] tool.
 >
 > **[0:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=49)** I'll need a new terminal window, so I'll go to this plus sign here click on it to open a new instance and I'll type NG, generate a service and hit enter.
 >
-> **[0:58](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=58)** A couple of things here, you may get a warning about your global CLI version being greater than your local CLI version, that's okay just follow along with it set the configuration if you want to, doesn't change anything that we're doing here.
+> **[0:58](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=58)** A couple of things here, you may get a warning about your global [[CLI]] version being greater than your local CLI version, that's okay just follow along with it set the configuration if you want to, doesn't change anything that we're doing here.
 >
 > **[1:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=72)** The second thing is Angular is going to ask us what we want to name the file and where we want to store it.
 >
@@ -872,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=103)** Nice, it looks good.
 >
-> **[1:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=104)** There are many design patterns we could use to write the service, and I really encourage you to experiment with different architectures to find one that works best for your use case.
+> **[1:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=104)** There are many [[Design Patterns]] we could use to write the service, and I really encourage you to experiment with different architectures to find one that works best for your use case.
 >
 > **[1:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-local-storage-service?u=76281980&t=114)** Today I'm just going to write simple get and set methods to get and set data from local storage.
 >
@@ -928,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Angular]] (3), web (3), [[Angular CLI]] (2), hit (2)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Data Storage]] (2), [[Angular CLI]] (2), [[CLI]] (2), [[npm]] (1)
 > **Env Vars:** cli (4), vsa (1), npm (1)
 > **CLI Commands:** make (3), npm (1), find (1)
 > **UI Navigation:** go to (2), click on (2)
@@ -937,14 +924,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 
-#### Fixing dependency injection errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980)
+#### [Fixing dependency injection errors](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=0)** - Dependency injection errors are usually related to un-exported modules or import statement typos.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=0)** - [[Dependency Injection]] errors are usually related to un-exported modules or import statement typos.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=7)** These issues can be difficult to catch because Angular emits errors to the browser console on execution and not on the import or export of a file.
+> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=7)** These issues can be difficult to catch because [[Angular]] emits errors to the browser console on execution and not on the import or export of a file.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=15)** Angular's error messages can also be mysterious and usually traced back to an undefined variable in one of your files.
 >
@@ -958,7 +944,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=55)** At the top of the file, I'll make a new line, type import and between the brackets I'll type a web storage service and we'll import that from ../services/web-storage.service.
 >
-> **[1:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=71)** If you use the Angular CLI tool to generate the files for your web storage service, then at this point there's nothing wrong with the code.
+> **[1:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=71)** If you use the [[Angular CLI]] tool to generate the files for your web storage service, then at this point there's nothing wrong with the code.
 >
 > **[1:18](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-dependency-injection-errors?u=76281980&t=78)** This is because Angular CLI already added the export keyword in your service class.
 >
@@ -1014,7 +1000,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[Angular]] (3), [[Angular CLI]] (2), [[Dependency Injection]] (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Angular CLI]] (2), [[Dependency Injection]] (1)
 > **Tools:** visual studio (5), vs code (3), terminal (1)
 > **UI Navigation:** click on (2), go to (1), open the (1)
 > **CLI Commands:** find (2), make (1)
@@ -1023,8 +1009,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), similar to (1)
 > **File Paths:** list.component.ts (1)
 
-#### Getting and setting data in local storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980)
+#### [Getting and setting data in local storage](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980&t=50)** There's a couple of ways we can transform this array into a string.
 >
-> **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980&t=52)** I think the easiest here is to just use JSON stringify I'm going to highlight our property, cut type JSON stringify pass that property into the string of fine method.
+> **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980&t=52)** I think the easiest here is to just use [[JSON]] stringify I'm going to highlight our property, cut type JSON stringify pass that property into the string of fine method.
 >
 > **[1:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-and-setting-data-in-local-storage?u=76281980&t=65)** Let's go to the browser and check our work.
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[JSON]] (4), next (1), application (1), data (1)
+> **Frameworks & Libraries:** [[JSON]] (4)
 > **UI Navigation:** go to (2), click on (2), scroll down (1), navigate to (1)
 > **Env Vars:** json (4), dav (1)
 > **CLI Commands:** make (3), find (1)
@@ -1120,12 +1105,11 @@ created: 2026-05-02
 > **Tools:** vs code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a custom Angular pipe
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980)
+#### [Adding a custom Angular pipe](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=0)** - [Instructor] Pipes let you change how Angular displays data in your app.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=0)** - [Instructor] Pipes let you change how [[Angular]] displays data in your app.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=4)** They're great for things like making text uppercase and turning decimals into percents.
 >
@@ -1151,7 +1135,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=50)** I do that by typing pipes/highlight-text and hitting Enter.
 >
-> **[0:55](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=55)** Check out my video earlier in this course for details on how to use the Angular CLI tool.
+> **[0:55](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=55)** Check out my video earlier in this course for details on how to use the [[Angular CLI]] tool.
 >
 > **[1:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=60)** Let's take a look at our new file.
 >
@@ -1197,7 +1181,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=142)** The transform method takes two arguments.
 >
-> **[2:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=145)** The first is the value piped in from the HTML template.
+> **[2:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=145)** The first is the value piped in from the [[HTML]] template.
 >
 > **[2:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=149)** And the second is any number of optional parameters also passed in through the template.
 >
@@ -1223,7 +1207,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=196)** I'll type the pipe character followed by uppercase which is the name of the uppercase pipe followed by another pipe character and then the slice pipe.
 >
-> **[3:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=206)** The slice pipe works just like the array.slice method in JavaScript.
+> **[3:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=206)** The slice pipe works just like the array.slice method in [[JavaScript]].
 >
 > **[3:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/adding-a-custom-angular-pipe?u=76281980&t=210)** So I'll need to pass in at least one parameter for the start index.
 >
@@ -1277,7 +1261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (7), [[Angular CLI]] (3), feature (2), data (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Angular CLI]] (3), [[HTML]] (1), [[JavaScript]] (1)
 > **UI Navigation:** click on (2), go to (2), scroll down (1)
 > **Exercise Files:** template (5)
 > **CLI Commands:** find (3), make (1)
@@ -1286,12 +1270,11 @@ created: 2026-05-02
 > **Best Practices:** good practice (3)
 > **Cross-References:** earlier in (1), in the next (1)
 
-#### Using regular expressions to find content
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980)
+#### [Using regular expressions to find content](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=0)** - [Instructor] In the last video, we added a new custom pipe using the Angular CLI tool.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=0)** - [Instructor] In the last video, we added a new custom pipe using the [[Angular CLI]] tool.
 >
 > **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=5)** Now we're going to update the transform method in that pipe to find usernames based on our filter string.
 >
@@ -1315,7 +1298,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=62)** We do this using the replace method.
 >
-> **[1:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=64)** Here, right after the word value on line 13, I'll type .replace().
+> **[1:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=64)** Here, right after the [[Microsoft Word|word]] value on line 13, I'll type .replace().
 >
 > **[1:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=73)** Replace expects two arguments.
 >
@@ -1333,7 +1316,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=100)** And this is because our filter string, as entered, is lowercase.
 >
-> **[1:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=104)** But if we inspect the HTML itself, I'll right-click on Cooper, click inspect, we can see that in the HTML markup, Cooper has an uppercase C.
+> **[1:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=104)** But if we inspect the [[HTML]] itself, I'll right-click on Cooper, click inspect, we can see that in the HTML markup, Cooper has an uppercase C.
 >
 > **[1:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-regular-expressions-to-find-content?u=76281980&t=114)** if I clear the filter and search for Cooper with an uppercase C, then the pipe replaces the search text with an x as expected.
 >
@@ -1399,7 +1382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), next (2), [[HTML]] (2), [[Angular CLI]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Angular CLI]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** html (2), cli (1)
 > **Definitions:** stands for (2), is a  (1)
@@ -1408,14 +1391,13 @@ created: 2026-05-02
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a pipe to change HTML content
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980)
+#### [Using a pipe to change HTML content](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=0)** - In the last video, we used a regular expression to search for usernames.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=5)** In this video, we'll add code that modifies HTML content, so we can highlight the filter string found in each name in our list of users.
+> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=5)** In this video, we'll add code that modifies [[HTML]] content, so we can highlight the filter string found in each name in our list of users.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=13)** There are many ways we could do this, but I find the cleanest way is to wrap the matched text in a span element and modify its styles using CSS.
 >
@@ -1425,7 +1407,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=28)** And second, it avoids cross site scripting issues.
 >
-> **[0:32](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=32)** Angular has built in protection against many common attacks, including cross site scripting.
+> **[0:32](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=32)** [[Angular]] has built in protection against many common attacks, including cross site scripting.
 >
 > **[0:37](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=37)** And we would need to bypass angular security to style the content directly in our pipe.
 >
@@ -1455,7 +1437,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=89)** I'll add a return keyword and two backticks.
 >
-> **[1:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=93)** This is how we declare a template literal in JavaScript.
+> **[1:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=93)** This is how we declare a template literal in [[JavaScript]].
 >
 > **[1:36](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/using-a-pipe-to-change-html-content?u=76281980&t=96)** Inside the backticks, I'll type the opening and closing span elements, just like I would in HTML.
 >
@@ -1521,7 +1503,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (11), css (10), [[Search]] (7), [[Security]] (4)
+> **Frameworks & Libraries:** [[Angular]] (12), [[HTML]] (11), [[JavaScript]] (2)
 > **Env Vars:** html (11), css (10), haro (1)
 > **Exercise Files:** template (7)
 > **CLI Commands:** make (4), find (1)
@@ -1530,8 +1512,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **Definitions:** is an  (1)
 
-#### Common pipe errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980)
+#### [Common pipe errors](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,9 +1522,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=9)** You must add your pipe to the declarations ray in the Ng Module decorator.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=14)** If you don't, the compiler will fail and you'll get an error message saying "Angular can't find your pipe."
+> **[0:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=14)** If you don't, the compiler will fail and you'll get an error message saying "[[Angular]] can't find your pipe."
 >
-> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=19)** The Angular CLI tool does this for you so there's nothing to worry about when you generate new pipes using Angular CLI.
+> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=19)** The [[Angular CLI]] tool does this for you so there's nothing to worry about when you generate new pipes using Angular CLI.
 >
 > **[0:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=25)** Pipes are pure by default.
 >
@@ -1555,7 +1536,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=51)** If you change data in an object or an array, you must replace the reference to that object or array to trigger the pipe.
 >
-> **[0:58](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=58)** You can do that using JavaScript's spread syntax or the Object.assign method.
+> **[0:58](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=58)** You can do that using [[JavaScript]]'s spread syntax or the Object.assign method.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/common-pipe-errors?u=76281980&t=63)** There are some other techniques, but these two are the most common.
 >
@@ -1575,14 +1556,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), data (3), [[Angular CLI]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Angular]] (6), [[Angular CLI]] (2), [[JavaScript]] (1)
 > **Warnings:** be aware (2), pitfall (1)
 > **Env Vars:** cli (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding Angular decorators
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980)
+#### [Understanding Angular decorators](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1590,9 +1570,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=3)** That simple.
 >
-> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=4)** But in Angular, they supply metadata about a particular class or property or value.
+> **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=4)** But in [[Angular]], they supply [[Metadata]] about a particular class or property or value.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=10)** And they also help with dependency injection across the entire app.
+> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=10)** And they also help with [[Dependency Injection]] across the entire app.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=13)** They are built in from the ground up as part of the Angular framework.
 >
@@ -1614,7 +1594,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=88)** In newer versions of Angular we get a lot more helpful feedback from the compiler and this makes diagnosing those issues much, much easier.
 >
-> **[1:38](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=98)** You can use the NG build and NG serve commands that come with the Angular CLI tool to take advantage of this error reporting.
+> **[1:38](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=98)** You can use the NG build and NG serve commands that come with the [[Angular CLI]] tool to take advantage of this error reporting.
 >
 > **[1:46](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/understanding-angular-decorators?u=76281980&t=106)** NG build compiles your code and halts if there are errors.
 >
@@ -1624,13 +1604,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), [[Metadata]] (1), [[Dependency Injection]] (1), dom (1), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[Metadata]] (1), [[Dependency Injection]] (1), [[Angular CLI]] (1)
 > **Env Vars:** dom (1), cli (1)
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Filter the array of users by locationId
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-filter-the-array-of-users-by-locationid?u=76281980)
+#### [Challenge: Filter the array of users by locationId](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-filter-the-array-of-users-by-locationid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1650,8 +1629,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Filter the array of users by locationId
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980)
+#### [Solution: Filter the array of users by locationId](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1665,7 +1643,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=25)** If the array is null or there's no IDs passed in, just return the value.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=30)** Otherwise I filter the array using JavaScript's array dot filter method.
+> **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=30)** Otherwise I filter the array using [[JavaScript]]'s array dot filter method.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=34)** For each user in the array I compare that user's location ID against all the IDs passed into the pipe.
 >
@@ -1679,7 +1657,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=54)** Finally, I return a new filter to array of users.
 >
-> **[0:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=57)** Let me show you the HTML template.
+> **[0:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=57)** Let me show you the [[HTML]] template.
 >
 > **[0:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-filter-the-array-of-users-by-locationid?u=76281980&t=59)** Here's where I send the user's array into my new pipe and here's where I pass in the location IDs.
 >
@@ -1704,18 +1682,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting data using REST requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
+#### [Getting data using REST requests](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=0)** - [Instructor] Let's add a feature to our web storage service that lets users get the current filter state from a remote database using REST requests.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=0)** - [Instructor] Let's add a feature to our web storage service that lets users get the current filter state from a remote database using [[Representational State Transfer (REST)|REST]] requests.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=8)** REST stands for representational state transfer.
+> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=8)** REST stands for [[Representational State Transfer (REST)|representational state transfer]].
 >
-> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=12)** It's a set of web standards that define how software sends and receives data using the HTTP protocol.
+> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=12)** It's a set of [[Web Standards]] that define how software sends and receives data using the HTTP protocol.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=19)** Angular comes with full support for REST requests, so we should take advantage of it.
+> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=19)** [[Angular]] comes with full support for REST requests, so we should take advantage of it.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/getting-data-using-rest-requests?u=76281980&t=23)** First, I'll open up our web storage service file, source, app, services, web-storage.service, and I'll import Angular's HttpClient class into this file.
 >
@@ -1855,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Angular]] (7), web (5), [[Representational State Transfer (REST)|Rest]] (4), next (4)
+> **Frameworks & Libraries:** [[Angular]] (7), [[Representational State Transfer (REST)|Rest]] (4), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Web Standards]] (1)
 > **Env Vars:** http (17), url (11), rest (4), put (3), mock_api_filter (2)
 > **Code Identifiers:** getremote (3), getfilter (3), setfilter (1)
 > **CLI Commands:** make (5)
@@ -1864,8 +1841,7 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Tools:** vs code (1)
 
-#### Updating data using REST requests
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980)
+#### [Updating data using REST requests](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1881,7 +1857,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=25)** Very clever, I know.
 >
-> **[0:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=26)** It's going to be of type string because this payload represents the filter string passed in from our HTML template.
+> **[0:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=26)** It's going to be of type string because this payload represents the filter string passed in from our [[HTML]] template.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=34)** This is a very simple payload, but payloads can be of any size or shape.
 >
@@ -1917,11 +1893,11 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=123)** I'll just copy the return type from get remote, and I'll set the generic type on put as a string.
 >
-> **[2:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=130)** Now we can go update our UserList component and take advantage of these new REST request methods.
+> **[2:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/updating-data-using-rest-requests?u=76281980&t=130)** Now we can go update our UserList component and take advantage of these new [[Representational State Transfer (REST)|REST]] request methods.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), generic (2), web (1), next (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (4), url (4), put (2), html (1), rest (1)
 > **API Endpoints:** get  (3), put  (2)
 > **Code Identifiers:** setremote (2), getremote (1)
@@ -1930,8 +1906,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 
-#### Working with observables
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980)
+#### [Working with observables](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1959,13 +1934,13 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=53)** We now have two options for refactoring the code.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=56)** The first option is to use JavaScript's async await syntax to resolve the promise before assigning it to the user's property.
+> **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=56)** The first option is to use [[JavaScript]]'s async await syntax to resolve the promise before assigning it to the user's property.
 >
 > **[1:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=63)** Async await gives us full control of the data in our component before we assign it to a template variable.
 >
-> **[1:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=69)** We can do whatever we want with it before sending it into the HTML template.
+> **[1:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=69)** We can do whatever we want with it before sending it into the [[HTML]] template.
 >
-> **[1:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=73)** The other option is to pass the promise directly into the HTML template and use Angular's async pipe to resolve the promise for us.
+> **[1:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=73)** The other option is to pass the promise directly into the HTML template and use [[Angular]]'s async pipe to resolve the promise for us.
 >
 > **[1:22](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=82)** Angular's async pipe takes care of resolving and rejecting promises.
 >
@@ -2011,13 +1986,13 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=184)** This is an important distinction.
 >
-> **[3:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=187)** Modules use the NG module decorator and services use the injectable decorator and Angular looks for the NG module decorators to manage dependency injection.
+> **[3:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=187)** Modules use the NG module decorator and services use the injectable decorator and Angular looks for the NG module decorators to manage [[Dependency Injection]].
 >
 > **[3:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=197)** You'll get a compiler error if you import a service file instead of a module.
 >
 > **[3:21](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=201)** Your error will say something like your file could not be resolved to an NG module class.
 >
-> **[3:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=206)** Let me show you what that looks like instead of importing the module I'll import HTTP client, add it to our list of imports and then I'll make a new terminal and type NPM run build.
+> **[3:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=206)** Let me show you what that looks like instead of importing the module I'll import HTTP client, add it to our list of imports and then I'll make a new terminal and type [[npm]] run build.
 >
 > **[3:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/working-with-observables?u=76281980&t=220)** And here's that error I was talking about right here.
 >
@@ -2085,7 +2060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (9), web (5), [[HTML]] (4), data (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Angular]] (9), [[HTML]] (4), [[JavaScript]] (1), [[Dependency Injection]] (1), [[npm]] (1)
 > **Env Vars:** http (10), html (4), npm (1), api (1)
 > **Exercise Files:** template (6)
 > **UI Navigation:** go to (2), scroll down (1), click on (1)
@@ -2094,18 +2069,17 @@ created: 2026-05-02
 > **Cross-References:** go back to (1), earlier in (1)
 > **Tools:** terminal (2)
 
-#### Catching errors from an observable
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980)
+#### [Catching errors from an observable](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=0)** - [Instructor] Misspelled resource locators are a common error when working with asynchronous server requests.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=6)** To mimic this issue, let's intentionally add a typo to the end of the URL in the Git Remote method in our web storage service.
+> **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=6)** To mimic this issue, let's intentionally add a typo to the end of the URL in the [[Git]] Remote method in our web storage service.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=13)** So, instead of requesting data from /mock/api/filter we're going to request it from /mock/api/filter/foo Back in the browser, we see a console message telling us that the git request for the specified URL returns a 404 Not Found error.
 >
-> **[0:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=29)** There's also this generic error object returned from Angular's ErrorHandler that has more information about our server request.
+> **[0:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=29)** There's also this generic error object returned from [[Angular]]'s ErrorHandler that has more information about our server request.
 >
 > **[0:36](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=36)** It's good practice to always catch server errors and there are many ways to do so at both the component level and the service level.
 >
@@ -2115,7 +2089,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=56)** The callback takes a single argument, the error response, which we can then work with like any other response object.
 >
-> **[1:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=62)** So, I'll go to line 23 type a comma between the curly brace and the parentheses, I'll type error followed by the arrow syntax fat arrow syntax for callbacks in JavaScript.
+> **[1:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=62)** So, I'll go to line 23 type a comma between the curly brace and the parentheses, I'll type error followed by the arrow syntax fat arrow syntax for callbacks in [[JavaScript]].
 >
 > **[1:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/catching-errors-from-an-observable?u=76281980&t=74)** In the body of this callback, we can do whatever we want with this error object.
 >
@@ -2137,7 +2111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Git]] (2), api (2), generic (2), data (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Angular]] (1), [[JavaScript]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** git (2)
 > **Code Identifiers:** ngoniniterror (2)
@@ -2151,14 +2125,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
+#### [Testing overview](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=0)** - [Instructor] Testing your application ensures that any changes or additions you make will have the desired effect without introducing new errors.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=7)** The two types of tests you'll see most often during development of an Angular application are unit tests and end-to-end tests.
+> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=7)** The two types of tests you'll see most often during development of an [[Angular]] application are unit tests and end-to-end tests.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=13)** Unit tests reduce regression errors at the object or function level.
 >
@@ -2190,13 +2163,13 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=121)** So you might elect to run only a subset of tests during development and a larger, more robust test suite when you push to production.
 >
-> **[2:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=129)** Angular includes the Jasmine test framework with the Karma test runner for unit testing and Protractor for end-to-end tests when you start new projects using the CLI tool.
+> **[2:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=129)** Angular includes the Jasmine test framework with the Karma test runner for [[Unit Testing]] and Protractor for end-to-end tests when you start new projects using the [[CLI]] tool.
 >
 > **[2:20](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-overview?u=76281980&t=140)** These are fantastic options, but you can use any setup that works well for your specific need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Angular]] (3), data (1), [[Unit Testing]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[Unit Testing]] (1), [[CLI]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** cli (1)
 > **Definitions:** is a  (1)
@@ -2205,8 +2178,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic Karma configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980)
+#### [Basic Karma configuration](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2214,7 +2186,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=5)** These tests run in a browser instance and results are piped to an output of your choice.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=10)** Angular includes Karma by default and configures most of the settings for you, so you can start testing your code right away.
+> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=10)** [[Angular]] includes Karma by default and configures most of the settings for you, so you can start testing your code right away.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=17)** This is Karma's config file for our project.
 >
@@ -2254,7 +2226,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=86)** The client property defines how Karma works with test results.
 >
-> **[1:31](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=91)** The most common outputs are HTML in the browser and text in the terminal.
+> **[1:31](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=91)** The most common outputs are [[HTML]] in the browser and text in the terminal.
 >
 > **[1:35](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=95)** You also use this property to set framework-specific configuration for Jasmine.
 >
@@ -2262,7 +2234,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=108)** The coverageReporter property is how you configure the output of the karma-coverage plugin.
 >
-> **[1:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=113)** You can learn more about the karma-jasmine-html-reporter and the karma-coverage plugins on the npm website.
+> **[1:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=113)** You can learn more about the karma-jasmine-html-reporter and the karma-coverage plugins on the [[npm]] website.
 >
 > **[2:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=120)** The reporters property lets you configure which output you want to use to show test results.
 >
@@ -2284,7 +2256,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=163)** Remember to add the correct plugin for each browser you want to use.
 >
-> **[2:47](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=167)** Set the singleRun property to true if you're using Karma as part of a continuous integration service, a CI service.
+> **[2:47](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=167)** Set the singleRun property to true if you're using Karma as part of a [[Continuous Integration (CI)|continuous integration]] service, a CI service.
 >
 > **[2:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=174)** When true, Karma will run all the tests and report back a zero if all tests pass and a one if any tests fail.
 >
@@ -2296,11 +2268,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=205)** Karma needs this file to load all the test files and their dependencies.
 >
-> **[3:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=209)** I don't recommend changing this file, because it's tightly coupled with Angular, the Angular CLI tool and Karma.
+> **[3:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-karma-configuration?u=76281980&t=209)** I don't recommend changing this file, because it's tightly coupled with Angular, the [[Angular CLI]] tool and Karma.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), [[HTML]] (4), [[npm]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), ci (1)
+> **Frameworks & Libraries:** [[Angular]] (5), [[HTML]] (4), [[npm]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Angular CLI]] (1)
 > **Code Identifiers:** basepath (1), jasminehtmlreporter (1), coveragereporter (1), loglevel (1), autowatch (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** karma.conf.js (1), test.ts (1)
@@ -2309,18 +2281,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (2)
 > **CLI Commands:** npm (1)
 
-#### Testing services
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980)
+#### [Testing services](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=0)** - Let's add a basic unit test called a spec for our user list service to confirm that it returns an array of 16 users.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=8)** The Angular CLI tool created a spec file for us.
+> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=8)** The [[Angular CLI]] tool created a spec file for us.
 >
 > **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=10)** When we generated the UserListService.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=13)** Angular wants to make our lives easier.
+> **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=13)** [[Angular]] wants to make our lives easier.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=15)** So it already imported TestBed and our UserListService class.
 >
@@ -2400,7 +2371,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=172)** By default, Jasmine waits five seconds for asynchronous tests to finish.
 >
-> **[2:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=177)** If a test doesn't finish in time, it's marked as failed, and Jasmine continues with the rest of the test suite.
+> **[2:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=177)** If a test doesn't finish in time, it's marked as failed, and Jasmine continues with the [[Representational State Transfer (REST)|rest]] of the test suite.
 >
 > **[3:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=183)** You can pass in an optional third argument to the it function to set a timeout value to something other than five seconds.
 >
@@ -2438,13 +2409,13 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=269)** We use the Angular CLI tool to run our unit tests.
 >
-> **[4:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=273)** I'll open a new terminal window here in VS Code and type npm run test.
+> **[4:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=273)** I'll open a new terminal window here in VS Code and type [[npm]] run test.
 >
 > **[4:39](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=279)** I could call the ng test command directly, but I like using the npm script to make sure I'm using the locally installed version of ng.
 >
 > **[4:47](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=287)** Instead of the globally installed version on my machine.
 >
-> **[4:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=289)** When I hit the enter key, Angular will compile our code, launch an instance of Google Chrome, and run our tests.
+> **[4:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=289)** When I hit the enter key, Angular will compile our code, launch an instance of [[Google]] Chrome, and run our tests.
 >
 > **[4:55](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-services?u=76281980&t=295)** Let's do that now.
 >
@@ -2460,7 +2431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (5), [[Angular CLI]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (5), [[Angular CLI]] (2), [[npm]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **CLI Commands:** make (6), npm (2)
 > **Code Identifiers:** tobe (3), getall (2), beforeeach (1)
 > **Definitions:** is a  (6)
@@ -2469,12 +2440,11 @@ created: 2026-05-02
 > **Tools:** terminal (1), vs code (1)
 > **Prerequisites:** setup (2)
 
-#### Fixing injection dependency errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980)
+#### [Fixing injection dependency errors](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=0)** - [Instructor] In the last video we use the NPM run test command to run our suite of unit tests, and we got two errors, one for the web storage service and the other in user list component.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=0)** - [Instructor] In the last video we use the [[npm]] run test command to run our suite of unit tests, and we got two errors, one for the web storage service and the other in user list component.
 >
 > **[0:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=11)** These tests failed because of a no injection error.
 >
@@ -2492,7 +2462,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=52)** I'm in the spec file for our web storage service.
 >
-> **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=56)** Angular imported the testbed class when we generated the file, it also called the static method configure testing module in our before each block.
+> **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=56)** [[Angular]] imported the testbed class when we generated the file, it also called the static method configure testing module in our before each block.
 >
 > **[1:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-injection-dependency-errors?u=76281980&t=65)** Test bed is a versatile class that allows us to initialize services and components in our tests the same way we would by using decorators.
 >
@@ -2600,7 +2570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), [[Angular]] (4), [[npm]] (3), hit (2), next (1)
+> **Frameworks & Libraries:** [[Angular]] (4), [[npm]] (3)
 > **Env Vars:** http (11), npm (3)
 > **CLI Commands:** make (8), npm (3)
 > **Documentation:** spec (7)
@@ -2609,8 +2579,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1), go back to (1)
 > **Tools:** terminal (2)
 
-#### Testing pipes
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980)
+#### [Testing pipes](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2620,7 +2589,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=10)** I'm in a spec file for highlight text pipe.
 >
-> **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=13)** I used the Angular CLI tool to generate the pipe and Angular already populated the spec file with a simple test.
+> **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=13)** I used the [[Angular CLI]] tool to generate the pipe and [[Angular]] already populated the spec file with a simple test.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=20)** Notice that there's no before each block here.
 >
@@ -2664,7 +2633,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=133)** Let's check our work.
 >
-> **[2:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=134)** I'll go to the terminal menu and open a new terminal and I'll type npm run a test and hit Enter.
+> **[2:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=134)** I'll go to the terminal menu and open a new terminal and I'll type [[npm]] run a test and hit Enter.
 >
 > **[2:24](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=144)** All right, there they are.
 >
@@ -2718,7 +2687,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=250)** We could add more tests, but the more tests we add, the longer the tests we takes to run.
 >
-> **[4:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=255)** For me, the important thing about unit testing is developer confidence.
+> **[4:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=255)** For me, the important thing about [[Unit Testing]] is developer confidence.
 >
 > **[4:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-pipes?u=76281980&t=259)** I want to test my code just enough that I'm confident who does what it's supposed to do even after I change something.
 >
@@ -2726,7 +2695,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Angular CLI]] (1), [[Angular]] (1), data (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[Angular CLI]] (1), [[Angular]] (1), [[npm]] (1), [[Unit Testing]] (1)
 > **Env Vars:** foo (6), bar (3), foobar (2), cli (1)
 > **CLI Commands:** make (2), npm (1)
 > **Code Identifiers:** tobe (3)
@@ -2735,16 +2704,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Testing components
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980)
+#### [Testing components](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=0)** - [Instructor] Let's create a unit test for our app component to confirm that it loads the correct title.
 >
-> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=5)** The Angular CLI tool created a spec file for us when we created the project.
+> **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=5)** The [[Angular CLI]] tool created a spec file for us when we created the project.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=10)** Angular wants to make our lives easier, so it already imported TestBed and the AppComponent.
+> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=10)** [[Angular]] wants to make our lives easier, so it already imported TestBed and the AppComponent.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=15)** It also made a few simple passing tests.
 >
@@ -2816,15 +2784,15 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=214)** I'll add the AppComponent to the array of declarations and then I'll change the compileComponents method onto the configure testing module method like this.
 >
-> **[3:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=224)** We need to call this method to get the HTML template for our component.
+> **[3:44](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=224)** We need to call this method to get the [[HTML]] template for our component.
 >
 > **[3:48](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=228)** This method returns a promise so we'll need to wait for that before doing any more work in the beforeEach block.
 >
-> **[3:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=233)** I'll use JavaScript async await syntax here because it's a clean solution, no nested then calls.
+> **[3:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=233)** I'll use [[JavaScript]] async await syntax here because it's a clean solution, no nested then calls.
 >
 > **[3:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=239)** The wavy red line under the await keyword is VSCode telling us there's an error.
 >
-> **[4:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=244)** I can hover over that word to find out more.
+> **[4:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=244)** I can hover over that [[Microsoft Word|word]] to find out more.
 >
 > **[4:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=247)** In this case, the editor is telling us we can only use the await keyword in asynchronous functions.
 >
@@ -2872,7 +2840,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=352)** Let's check our work.
 >
-> **[5:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=354)** I'll go to the Terminal menu, click on New Terminal, type npm run test, and hit Enter.
+> **[5:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=354)** I'll go to the Terminal menu, click on New Terminal, type [[npm]] run test, and hit Enter.
 >
 > **[6:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=362)** Looks like all the tests pass.
 >
@@ -2880,7 +2848,7 @@ created: 2026-05-02
 >
 > **[6:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=369)** I know that was a lot of code to test such a small string but keep in mind that this is one of many testing patterns you can use for testing components.
 >
-> **[6:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=377)** I highly recommend you check out the official angular documentation for a breakdown of all the available options, and properties and methods you can use for unit testing components.
+> **[6:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/testing-components?u=76281980&t=377)** I highly recommend you check out the official angular documentation for a breakdown of all the available options, and properties and methods you can use for [[Unit Testing]] components.
 
 > [!info]- Semantic Content
 >
@@ -2893,8 +2861,7 @@ created: 2026-05-02
 > **Documentation:** spec (2)
 > **Tools:** terminal (2)
 
-#### Challenge: Custom test bed wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980)
+#### [Challenge: Custom test bed wrapper](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2902,7 +2869,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980&t=5)** - [Instructor] Here's the challenge for you.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980&t=7)** Make a custom wrapper for Angular's TestBed class so you can inject common dependencies, like our web storage service, into all your tests very quickly.
+> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980&t=7)** Make a custom wrapper for [[Angular]]'s TestBed class so you can inject common dependencies, like our web storage service, into all your tests very quickly.
 >
 > **[0:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-custom-test-bed-wrapper?u=76281980&t=15)** The idea here is that this new class can act as a drop-in replacement for Angular's default TestBed.
 >
@@ -2910,13 +2877,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (2), web (1)
+> **Frameworks & Libraries:** [[Angular]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (pleasant electronic music) (1)
 
-#### Solution: Custom test bed wrapper
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980)
+#### [Solution: Custom test bed wrapper](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2928,7 +2894,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=13)** I made a class called CustomTestBed using the same ng generate commands we've used in previous videos.
 >
-> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=19)** This class implements Angular's TestBed has a partial.
+> **[0:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=19)** This class implements [[Angular]]'s TestBed has a partial.
 >
 > **[0:23](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=23)** Partial is a utility type introduced in recent versions of TypeScript.
 >
@@ -2958,13 +2924,13 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=95)** I still call compileComponents here and createComponent here as normal.
 >
-> **[1:42](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=102)** And when we run the test suite, I'll make a new terminal, type npm run test, hit enter.
+> **[1:42](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=102)** And when we run the test suite, I'll make a new terminal, type [[npm]] run test, hit enter.
 >
 > **[1:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-custom-test-bed-wrapper?u=76281980&t=109)** And when we run the test suite, everything works as expected.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (3), next (1), data (1), [[npm]] (1), hit (1)
+> **Frameworks & Libraries:** [[Angular]] (3), [[npm]] (1)
 > **Code Identifiers:** configuretestingmodule (2), compilecomponents (2), createcomponent (2), beforeeach (1)
 > **CLI Commands:** make (1), npm (1)
 > **Documentation:** spec (1)
@@ -2978,22 +2944,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic Protractor configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
+#### [Basic Protractor configuration](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=0)** - [Instructor] Protractor is Angular's official end-to-end testing framework.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=0)** - [Instructor] Protractor is [[Angular]]'s official [[End-to-end Testing]] framework.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=4)** The Angular team made Protractor specifically for Angular apps, with full support for how Angular compiles these apps and generates DOM structures.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=12)** Angular includes Protractor by default when you generate new projects using the CLI tool and it configures most of the settings for you so you can start testing your code right away.
+> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=12)** Angular includes Protractor by default when you generate new projects using the [[CLI]] tool and it configures most of the settings for you so you can start testing your code right away.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=21)** This is Protractor's config file.
 >
 > **[0:24](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=24)** It's located in the top level e-to-e folder under the name protractor.comf.js.
 >
-> **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=30)** We're going to take a quick look at the default configuration, but I recommend you dive into Angular's GitHub repo for a full breakdown of all your configuration options.
+> **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=30)** We're going to take a quick look at the default configuration, but I recommend you dive into Angular's [[GitHub]] repo for a full breakdown of all your configuration options.
 >
 > **[0:39](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=39)** Just click the link at the top of the config file.
 >
@@ -3031,7 +2996,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=120)** This property works for only Chrome and Firefox.
 >
-> **[2:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=124)** The Selenium Promise Manager property changes how Protractor manages control flow for web driver JS.
+> **[2:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=124)** The [[Selenium]] Promise Manager property changes how Protractor manages [[Control Flow]] for web driver JS.
 >
 > **[2:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-protractor-configuration?u=76281980&t=132)** Protractor is asynchronous by design.
 >
@@ -3065,7 +3030,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (8), [[End-to-end Testing]] (1), dom (1), [[CLI]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Angular]] (8), [[End-to-end Testing]] (1), [[CLI]] (1), [[GitHub]] (1), [[Selenium]] (1)
 > **Env Vars:** dom (1), cli (1), url (1)
 > **Tools:** github (1), firefox (1), terminal (1)
 > **Prerequisites:** configure (1), you'll need (1), setup (1)
@@ -3074,16 +3039,15 @@ created: 2026-05-02
 > **File Paths:** protractor.comf.js (1)
 > **Code Identifiers:** onprepare (1)
 
-#### End-to-end testing without page objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980)
+#### [End-to-end testing without page objects](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=0)** - [Instructor] Let's add an integration test, also called an e2e test, or end-to-end test in our application, to confirm that the app loads as expected.
 >
-> **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=9)** The Angular CLI tool created this spec file here for us when we generated the project.
+> **[0:09](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=9)** The [[Angular CLI]] tool created this spec file here for us when we generated the project.
 >
-> **[0:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=14)** And Angular wants to make our lives easy, so it already imported some useful tools, to aid in writing the tests.
+> **[0:14](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=14)** And [[Angular]] wants to make our lives easy, so it already imported some useful tools, to aid in writing the tests.
 >
 > **[0:21](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=21)** This is a great starting point for real-world projects.
 >
@@ -3137,7 +3101,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=116)** This is where we put all our test logic.
 >
-> **[1:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=119)** If we look at the main HTML template for our app, we see an h2 tag with the text Active Users at the top.
+> **[1:59](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=119)** If we look at the main [[HTML]] template for our app, we see an h2 tag with the text Active Users at the top.
 >
 > **[2:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=126)** We need to target this element in our test.
 >
@@ -3145,7 +3109,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=135)** I'll call this property header and the value will equal by.css.
 >
-> **[2:21](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=141)** The CSS method here targets elements the same way JavaScript's native query selector does.
+> **[2:21](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=141)** The CSS method here targets elements the same way [[JavaScript]]'s native query selector does.
 >
 > **[2:25](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=145)** And this means we can pass in the h2 tag as a string.
 >
@@ -3205,7 +3169,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=257)** Let's run our test suite to see how we did.
 >
-> **[4:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=259)** I'll open a new terminal window and type npm run e2e and hit Enter.
+> **[4:19](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=259)** I'll open a new terminal window and type [[npm]] run e2e and hit Enter.
 >
 > **[4:26](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-without-page-objects?u=76281980&t=266)** Protractor will compile our app, run our tests, and show the results in the terminal.
 >
@@ -3271,7 +3235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (5), dom (4), [[HTML]] (3), [[Angular]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Angular]] (2), [[JavaScript]] (2), [[npm]] (2), [[Angular CLI]] (1)
 > **CLI Commands:** make (8), find (3), npm (2)
 > **Env Vars:** dom (4), html (3), css (2), cli (1)
 > **Code Identifiers:** beforeeach (2), gettext (2), tobe (2)
@@ -3280,8 +3244,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (2), navigate to (1)
 > **Definitions:** is a  (3)
 
-#### End-to-end testing with page objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980)
+#### [End-to-end testing with page objects](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3289,7 +3252,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=6)** Page objects make these tasks much easier by creating an interface for your tests.
 >
-> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=12)** Angular makes a page object for us when we generate the project using Angular CLI.
+> **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=12)** [[Angular]] makes a page object for us when we generate the project using [[Angular CLI]].
 >
 > **[0:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=17)** But for this video, let's pretend we're starting from scratch without Angular's help.
 >
@@ -3331,7 +3294,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=114)** I'll make another public method called Get Header Text.
 >
-> **[1:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=117)** This method targets the H2 tag in our main HTML template, just like we did in the last video.
+> **[1:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=117)** This method targets the H2 tag in our main [[HTML]] template, just like we did in the last video.
 >
 > **[2:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/end-to-end-testing-with-page-objects?u=76281980&t=124)** Inside this method, I'll make a property called Header and set its value equal to by.CSS, passing in the H2 selector as a string.
 >
@@ -3391,7 +3354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), dom (2), [[Angular]] (2), next (2), [[Angular CLI]] (1)
+> **Frameworks & Libraries:** [[Angular]] (2), [[Angular CLI]] (1), [[HTML]] (1)
 > **CLI Commands:** make (10)
 > **Env Vars:** css (3), dom (2), e2e (2), cli (1), url (1)
 > **UI Navigation:** go to (2), navigate to (1), in the sidebar (1), click on (1)
@@ -3400,12 +3363,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (2)
 > **Documentation:** spec (1)
 
-#### Changes for Angular v12
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v12?u=76281980)
+#### [Changes for Angular v12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v12?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v12?u=76281980&t=0)** Starting in version 12, the Angular team deprecated Protractor as the official end-to-end testing tool for Angular projects.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v12?u=76281980&t=0)** Starting in version 12, the [[Angular]] team deprecated Protractor as the official [[End-to-end Testing]] tool for Angular projects.
 >
 > **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/changes-for-angular-v12?u=76281980&t=7)** Shortly after the release of version 16, the Angular team will no longer support Protractor at all, and they recommend all projects use an alternative.
 >
@@ -3427,8 +3389,7 @@ created: 2026-05-02
 > **Versions:** version 12 (1), version 16 (1)
 > **Tools:** command line (1)
 
-#### Challenge: Testing filter input
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980)
+#### [Challenge: Testing filter input](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3438,19 +3399,18 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980&t=7)** Make a protractor test that confirms the search box works as expected.
 >
-> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980&t=10)** When a user searches for the word Davis, they should see only two results in the list, and the word Davis should be highlighted.
+> **[0:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980&t=10)** When a user searches for the [[Microsoft Word|word]] Davis, they should see only two results in the list, and the word Davis should be highlighted.
 >
 > **[0:17](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/challenge-testing-filter-input?u=76281980&t=17)** Good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Testing filter input
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980)
+#### [Solution: Testing filter input](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3490,7 +3450,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980&t=109)** Let's run our tests and see how things look.
 >
-> **[1:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980&t=112)** I'll make a new terminal window type npm run e2e, Hit enter.
+> **[1:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980&t=112)** I'll make a new terminal window type [[npm]] run e2e, Hit enter.
 >
 > **[2:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/solution-testing-filter-input?u=76281980&t=122)** And here's our test results.
 >
@@ -3500,7 +3460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), dom (2), css (1), next (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[npm]] (1)
 > **CLI Commands:** make (1), npm (1)
 > **Env Vars:** css (1)
 > **Documentation:** spec (1)
@@ -3514,8 +3474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing and running ESLint
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
+#### [Installing and running ESLint](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3531,13 +3490,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=30)** We all have a personal style and linting the code is a great way to make sure everyone on a team is writing the code in a similar way.
 >
-> **[0:37](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=37)** This makes the code easier to read, more predictable and easier to run a diff against in version control.
+> **[0:37](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=37)** This makes the code easier to read, more predictable and easier to run a diff against in [[Version Control]].
 >
-> **[0:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=43)** As of this recording, Angular includes TSLint as part of its default packages when you generate a new project using the Angular CLI tool.
+> **[0:43](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=43)** As of this recording, [[Angular]] includes TSLint as part of its default packages when you generate a new project using the [[Angular CLI]] tool.
 >
-> **[0:51](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=51)** TSLint was a great option but its code authors deprecated the tool in 2019 and they recommend everyone use ESLint instead.
+> **[0:51](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=51)** TSLint was a great option but its code authors deprecated the tool in 2019 and they recommend everyone use [[ESLint]] instead.
 >
-> **[1:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=60)** Until Angular migrates to ESLint, we'll need to install it manually using npm.
+> **[1:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=60)** Until Angular migrates to ESLint, we'll need to install it manually using [[npm]].
 >
 > **[1:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=65)** I'll open a new terminal window and type npm install eslint
 >
@@ -3569,7 +3528,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=107)** And which framework do we use?
 >
-> **[1:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=109)** It's not React, not Vue.
+> **[1:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=109)** It's not [[React.js|React]], not [[Vue.js|Vue]].
 >
 > **[1:51](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=111)** I'll choose, none of these.
 >
@@ -3585,11 +3544,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=122)** We could use a popular guide.
 >
-> **[2:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=124)** We could inspect the JavaScript files but I'm going to answer a couple of questions.
+> **[2:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=124)** We could inspect the [[JavaScript]] files but I'm going to answer a couple of questions.
 >
 > **[2:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=128)** I want my format to be JavaScript.
 >
-> **[2:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=131)** You can have config files in JavaScript, YAML or JSON.
+> **[2:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=131)** You can have config files in JavaScript, YAML or [[JSON]].
 >
 > **[2:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-and-running-eslint?u=76281980&t=136)** I'm used to using JavaScript.
 >
@@ -3641,7 +3600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (10), [[npm]] (4), hit (4), [[JavaScript]] (4), [[Angular]] (3)
+> **Frameworks & Libraries:** [[ESLint]] (10), [[npm]] (4), [[JavaScript]] (4), [[Angular]] (3), [[Version Control]] (1)
 > **CLI Commands:** npm (4), make (1), npx (1), find (1)
 > **File Paths:** eslintrc.js (1), app.component.ts (1), source/app/app.component.ts (1)
 > **Env Vars:** cli (1), yaml (1), json (1)
@@ -3650,24 +3609,23 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 
-#### Basic ESLint configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980)
+#### [Basic ESLint configuration](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=0)** - [Narrator] In the last video we installed ESLint.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=0)** - [Narrator] In the last video we installed [[ESLint]].
 >
 > **[0:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=3)** in this video, we'll take a look at ESLint's config file.
 >
 > **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=6)** The config file lives in the root of your project.
 >
-> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=8)** You can use JavaScript, Json or Yaml for your config file syntex.
+> **[0:08](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=8)** You can use [[JavaScript]], [[JSON]] or Yaml for your config file syntex.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=13)** I'm using JavaScript here because that's what I use most often, but you can use the file format that works best for your project.
 >
 > **[0:20](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=20)** The ENV property gives you predefined global variables for things like the browser, node, and service workers.
 >
-> **[0:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=27)** For angular projects I recommend adding node, Jasmine, and Protractor to this list.
+> **[0:27](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=27)** For [[Angular]] projects I recommend adding node, Jasmine, and Protractor to this list.
 >
 > **[0:34](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=34)** - ESLint config files can inherit properties and rules from other config files.
 >
@@ -3677,7 +3635,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=49)** These plugins look for issues with import statements.
 >
-> **[0:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=53)** We'll also need to add the NPM package for the plugin.
+> **[0:53](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=53)** We'll also need to add the [[npm]] package for the plugin.
 >
 > **[0:56](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=56)** I'll make a new terminal window, type NPM install, ESLint, dash plugin, dash import, dash dash, save, dash dev and hit enter.
 >
@@ -3695,7 +3653,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=90)** This lets you set the JavaScript language options you want to support.
 >
-> **[1:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=93)** Use this property to set things like ECMAScript, Syntex, source type, and JSX support.
+> **[1:33](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=93)** Use this property to set things like [[ECMAScript]], Syntex, source type, and JSX support.
 >
 > **[1:40](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-eslint-configuration?u=76281980&t=100)** ESLint supports all kinds of third party plugins.
 >
@@ -3749,7 +3707,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (4), [[JavaScript]] (3), hit (3), node (2)
+> **Frameworks & Libraries:** [[ESLint]] (8), [[npm]] (4), [[JavaScript]] (3), [[JSON]] (1), [[Angular]] (1)
 > **CLI Commands:** npm (4), node (2), make (1), npx (1)
 > **Env Vars:** npm (4), env (1), jsx (1), npx (1)
 > **Tools:** terminal (5)
@@ -3758,12 +3716,11 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** toggle (1)
 
-#### Fixing lint errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980)
+#### [Fixing lint errors](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=0)** - [Instructor] Let's run eslint on our project files and see what kind of issues we get.
+> **[0:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=0)** - [Instructor] Let's run [[ESLint]] on our project files and see what kind of issues we get.
 >
 > **[0:04](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=4)** I'll open a new terminal window and type npx eslint source, hit Enter.
 >
@@ -3809,7 +3766,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=125)** Every code editor is unique and your editor of choice may or may not have an extension for eslint.
 >
-> **[2:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=131)** I'm using visual studio code here, which is a popular choice for many angular developers.
+> **[2:11](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=131)** I'm using visual studio code here, which is a popular choice for many [[Angular]] developers.
 >
 > **[2:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=136)** It does have an extension for eslint, so let's install that now.
 >
@@ -3829,7 +3786,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=180)** Right now we have no lint issues so let's open a file where we know there's some issues we need to fix.
 >
-> **[3:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=186)** I'll go back to the terminal and it looks like the error metadata service that could use some work, so I'll open that now.
+> **[3:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=186)** I'll go back to the terminal and it looks like the error [[Metadata]] service that could use some work, so I'll open that now.
 >
 > **[3:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/fixing-lint-errors?u=76281980&t=193)** I can not go back to the problems tab and see a list of all the issues in my open files.
 >
@@ -3859,7 +3816,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ESLint]] (15), hit (1), next (1), [[Angular]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[ESLint]] (15), [[Angular]] (1), [[Metadata]] (1)
 > **UI Navigation:** click on (4), open the (1), go to (1)
 > **Tools:** terminal (2), command line (1), visual studio (1), vs code (1)
 > **Prerequisites:** install (4)
@@ -3868,8 +3825,7 @@ created: 2026-05-02
 > **CLI Commands:** npx (1)
 > **Warnings:** warning (1)
 
-#### Installing EditorConfig
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980)
+#### [Installing EditorConfig](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3897,7 +3853,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=48)** This means you can use one EditorConfig file for all your projects.
 >
-> **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=52)** In practice, I find most projects have their own EditorConfig file managed under version control.
+> **[0:52](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=52)** In practice, I find most projects have their own EditorConfig file managed under [[Version Control]].
 >
 > **[0:57](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=57)** This makes it easy to share the configuration with new team members.
 >
@@ -3905,7 +3861,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=66)** Check the official website for EditorConfig to see the status of your editor of choice.
 >
-> **[1:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=70)** I like using visual studio code for writing angular apps and I'll need to install an extension to use EditorConfig.
+> **[1:10](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=70)** I like using visual studio code for writing [[Angular]] apps and I'll need to install an extension to use EditorConfig.
 >
 > **[1:16](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/installing-editorconfig?u=76281980&t=76)** I do that by going to the view menu and clicking on extensions, and in the sidebar here, I'll search for EditorConfig.
 >
@@ -3919,7 +3875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Version Control]] (1), [[Angular]] (1), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Version Control]] (1), [[Angular]] (1)
 > **Tools:** terminal (1), visual studio (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** find (1)
@@ -3928,8 +3884,7 @@ created: 2026-05-02
 > **UI Navigation:** in the sidebar (1)
 > **Exercise Files:** source code (1)
 
-#### Basic EditorConfig configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980)
+#### [Basic EditorConfig configuration](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3937,7 +3892,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=5)** Now let's take a look at the config file itself.
 >
-> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=7)** This is the default config file that Angular includes when we generate a new project using the CLI tool.
+> **[0:07](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=7)** This is the default config file that [[Angular]] includes when we generate a new project using the [[CLI]] tool.
 >
 > **[0:13](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=13)** It lives in the root of the project and the file name is .editorconfig right here.
 >
@@ -3975,7 +3930,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=102)** I can also target multiple types of files using curly braces and commas.
 >
-> **[1:46](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=106)** Say I wanted to target all the TypeScript files, JavaScript files and JSX files in the source directory, I would surround the Ts extension with curly braces and then type ,js,jsx.
+> **[1:46](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=106)** Say I wanted to target all the TypeScript files, [[JavaScript]] files and JSX files in the source directory, I would surround the Ts extension with curly braces and then type ,js,jsx.
 >
 > **[2:00](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/basic-editorconfig-configuration?u=76281980&t=120)** I can do the same thing with file paths.
 >
@@ -4011,8 +3966,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4020,7 +3974,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980&t=3)** And I encourage you to experiment with all your testing and debugging options.
 >
-> **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980&t=6)** While the API for Angular is mature and stable, the framework and its dependencies are always making improvements.
+> **[0:06](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980&t=6)** While the API for [[Angular]] is mature and stable, the framework and its dependencies are always making improvements.
 >
 > **[0:12](https://www.linkedin.com/learning/angular-testing-and-debugging-10201318/next-steps?u=76281980&t=12)** This is why I strongly recommend you regularly check out Angular's official documentation to stay up to date on all the latest changes, additions and updates.
 >
@@ -4036,7 +3990,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Angular]] (6), [[Debugging]] (1), api (1)
+> **Frameworks & Libraries:** [[Angular]] (6)
 > **Env Vars:** api (1)
 > **Speakers:** - we (1)
 

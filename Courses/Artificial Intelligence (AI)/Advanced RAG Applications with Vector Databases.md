@@ -106,14 +106,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RAG with vector databases: Advanced strategies for AI optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
+#### [RAG with vector databases: Advanced strategies for AI optimization](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980&t=0)** - [Yujian] Before you know it, every developer will be working with some sort of AI product.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980&t=5)** Get ahead of the curve by understanding not just how to work with an AI product, but understanding how to build AI products.
+> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980&t=5)** Get ahead of the curve by understanding not just how to work with an AI product, but understanding how to build AI [[Microsoft Products|products]].
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/rag-with-vector-databases-advanced-strategies-for-ai-optimization?u=76281980&t=13)** I've built hundreds of RAG applications and I'm distilling what I've learned about optimizing RAG apps and passing that knowledge onto you.
 >
@@ -125,36 +124,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), rag (3), product (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** rag (3)
 > **Speakers:** - [yujian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=0)** - [Instructror] This course assumes you have a conceptual understanding of vector databases, embedding models, and large language models.
+> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=0)** - [Instructror] This course assumes you have a conceptual understanding of [[Vector Databases]], embedding models, and [[Large Language Models (LLM)|large language models]].
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=7)** I also assume you understand the fundamentals of how to write Python code.
+> **[0:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=7)** I also assume you understand the fundamentals of how to write [[Python (Programming Language)|Python]] code.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=12)** Before we dive into the course, let's review some of these topics and how they're related to what we're about to learn here.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=21)** We'll start with vector databases.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=23)** A vector database is a tool that helps you work with unstructured data in the form of vectors.
+> **[0:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=23)** A vector database is a tool that helps you work with [[Unstructured Data]] in the form of vectors.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=30)** Fun fact, the name vector database is actually a misnomer.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=34)** Vector databases are not real databases, but rather compute engines for vector data.
+> **[0:34](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=34)** Vector databases are not real [[Databases]], but rather compute engines for vector data.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=41)** Vector data is often referred to as a vector embedding in the context of Generative AI.
+> **[0:41](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=41)** Vector data is often referred to as a vector embedding in the context of [[Generative AI]].
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=46)** And for the purpose of retrieval augmented generation, we will refer to vectors and embeddings as the same thing.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=54)** These vectors are long series of numbers, typically hundreds or thousands of numbers.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=59)** The reason we call them vector embeddings is because they're generated by deep neural networks.
+> **[0:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=59)** The reason we call them vector embeddings is because they're generated by deep [[Neural Networks]].
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=64)** They come from the second to last layer of the neural network.
 >
@@ -180,9 +178,9 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=130)** In the context of RAG, LLMs are the interface for interacting with your data.
 >
-> **[2:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=136)** Most LLMs, including GPT-4 are based off of the transformer model.
+> **[2:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=136)** Most LLMs, including [[GPT-4]] are based off of the transformer model.
 >
-> **[2:21](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=141)** They predict what the most likely next token is, given the current set of tokens.
+> **[2:21](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=141)** They predict what the most likely next token is, given the current set of [[Tokens]].
 >
 > **[2:28](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/what-you-should-know?u=76281980&t=148)** Publicly available LLMs are trained on large data sets of publicly available data.
 >
@@ -204,7 +202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), database (4), rag (4), [[Vector Databases]] (3), llm (3)
+> **Frameworks & Libraries:** [[Vector Databases]] (3), [[Large Language Models (LLM)|Large language models]] (2), [[Python (Programming Language)|Python]] (2), [[Neural Networks]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** rag (4), llm (3), gpt (1), lms (1), ide (1)
 > **CLI Commands:** python (2)
 > **Versions:** python 3 (1)
@@ -213,18 +211,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructror] (1)
 
-#### Setting up your exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980)
+#### [Setting up your exercise files](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=0)** - [Instructor] Let's quickly cover how to set up your environment for the exercises in this course.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=6)** Once you're on the GitHub repo, click Code, and you'll see multiple options here to clone this repo.
+> **[0:06](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=6)** Once you're on the [[GitHub]] repo, click Code, and you'll see multiple options here to clone this repo.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=13)** Click Copy url to clipboard, and go to your IDE where you can git clone the repo.
+> **[0:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=13)** Click Copy url to clipboard, and go to your IDE where you can [[Git]] clone the repo.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=24)** Once you clone the repo, you can also ensure that you're using the right version of Python, and you should be using Python 3.11.
+> **[0:24](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=24)** Once you clone the repo, you can also ensure that you're using the right version of [[Python (Programming Language)|Python]], and you should be using Python 3.11.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/setting-up-your-exercise-files?u=76281980&t=33)** You'll see here that we have multiple chapters, and in each chapter, there is a file here that corresponds to the video and the challenge in that chapter.
 >
@@ -252,14 +249,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to preprocessing for RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
+#### [Introduction to preprocessing for RAG](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=0)** - [Instructor] Before we can get into building a RAG app, we have to pre-process the data.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=5)** In this section, we'll cover three critical components in data, pre-processing for retrieval augmented generation, chunking, embeddings, and metadata.
+> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=5)** In this section, we'll cover three critical components in data, pre-processing for retrieval augmented generation, chunking, embeddings, and [[Metadata]].
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=17)** Chunking is the process of breaking down big blocks of text into smaller blocks.
 >
@@ -267,7 +263,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=27)** They represent the semantic meaning of some input data in a quantifiable fashion.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=33)** Metadata is data that gets stored along with embeddings in vector databases.
+> **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=33)** Metadata is data that gets stored along with embeddings in [[Vector Databases]].
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=38)** It is critical to building customizable RAG applications.
 >
@@ -285,9 +281,9 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=77)** When working with LLMs you may have heard of something called the context window.
 >
-> **[1:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=83)** The context window of an LLM is the maximum number of tokens, which you can think of, like words that an LLM can work with at once.
+> **[1:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=83)** The context window of an LLM is the maximum number of [[Tokens]], which you can think of, like words that an LLM can work with at once.
 >
-> **[1:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=93)** When an LLM has a context window of say, 128,000, like GPT-4 Turbo, you can think to yourself this LLM can hold roughly 128,000 words in short-term memory.
+> **[1:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=93)** When an LLM has a context window of say, 128,000, like [[GPT-4]] Turbo, you can think to yourself this LLM can hold roughly 128,000 words in short-term memory.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=109)** The context window is really just a cap.
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=188)** A good rule of thumb is that when more than half of the values in your vector embeddings are zeros, you have a sparse embedding.
 >
-> **[3:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=196)** Sparse embeddings are mostly created by algorithms.
+> **[3:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=196)** Sparse embeddings are mostly created by [[Algorithms]].
 >
 > **[3:20](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-preprocessing-for-rag?u=76281980&t=200)** For the purpose of RAG, we'll mostly work with dense embeddings.
 >
@@ -345,21 +341,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Metadata]] (14), rag (8), llm (5), application (3)
+> **Frameworks & Libraries:** [[Metadata]] (14), [[Vector Databases]] (2), [[Tokens]] (2), [[GPT-4]] (1), [[Algorithms]] (1)
 > **Env Vars:** rag (8), llm (5), gpt (1), dna (1)
 > **Cross-References:** we talked about (1)
 > **Definitions:** in other words (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chunking considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980)
+#### [Chunking considerations](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=0)** - [Instructor] The first pre-processing step to discuss is chunking.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=4)** Chunking is how we make documents consumable for generative AI use cases like RAG.
+> **[0:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=4)** Chunking is how we make documents consumable for [[Generative AI]] use cases like RAG.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=11)** Chunking is the process of splitting up documents into smaller chunks of text.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=36)** On top of that, at least three of these chunks must fit into the context window of your chosen LLM.
 >
-> **[0:43](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=43)** The number of these chunks that have to fit into your LLM context window is dependent on the top K you've chosen for your vector database retrieval, which we'll touch more on embedding models as well as top K for retrievals and vector databases later.
+> **[0:43](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=43)** The number of these chunks that have to fit into your LLM context window is dependent on the top K you've chosen for your vector database retrieval, which we'll touch more on embedding models as well as top K for retrievals and [[Vector Databases]] later.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=59)** From a common sense perspective.
 >
@@ -383,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=74)** If you read the chunk of text and it makes you go, "Huh," that is not a coherent chunk of text.
 >
-> **[1:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=82)** From a technical perspective, you want to ensure that your chunks don't start and stop in the middle of a word, clause, or sentence.
+> **[1:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=82)** From a technical perspective, you want to ensure that your chunks don't start and stop in the middle of a [[Microsoft Word|word]], clause, or sentence.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-considerations?u=76281980&t=91)** From a common sense perspective, you want your chunks of text to be sets of complete thoughts.
 >
@@ -449,15 +444,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), llm (2), [[Generative AI]] (1), rag (1), database (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Vector Databases]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (5), refers to (1)
 > **CLI Commands:** cat (3), make (1)
 > **Env Vars:** llm (2), rag (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Chunking examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980)
+#### [Chunking examples](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,7 +475,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=46)** Let's start with document style data.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=50)** Document data is probably the most widely used form of data for information retrieval.
+> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=50)** Document data is probably the most widely used form of data for [[Information Retrieval]].
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=55)** This style of data includes things like papers, reports, and documentation.
 >
@@ -515,11 +509,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=185)** Usually, the answer doesn't make sense without linking to the question.
 >
-> **[3:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=191)** This lends itself to two styles that are actually more important to metadata than chunking that we'll touch on later, but the basic idea is that you can store metadata of different chunks to remind the program that they're linked.
+> **[3:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=191)** This lends itself to two styles that are actually more important to [[Metadata]] than chunking that we'll touch on later, but the basic idea is that you can store metadata of different chunks to remind the program that they're linked.
 >
-> **[3:24](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=204)** Examples of chat transcripts include customer support, texts and DMs.
+> **[3:24](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=204)** Examples of chat transcripts include [[Customer Support]], texts and DMs.
 >
-> **[3:32](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=212)** You may get these transcripts from things like your phone call or instant messaging with text support for your cell phone coverage provider, texts between you and a friend or group chat, and DMs on LinkedIn.
+> **[3:32](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=212)** You may get these transcripts from things like your phone call or instant messaging with text support for your cell phone coverage provider, texts between you and a friend or group chat, and DMs on [[LinkedIn]].
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=225)** The defining feature of chat transcripts is irregularly sized chunks and unpredictable linking.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=239)** Sometimes you have the same person sending multiple messages in a row, and these messages are rarely the same size.
 >
-> **[4:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=247)** Unlike document data, you can't rely on regularly sized data, and sometimes messages are a sentence, sometimes a word, sometimes a paragraph.
+> **[4:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=247)** Unlike document data, you can't rely on regularly sized data, and sometimes messages are a sentence, sometimes a [[Microsoft Word|word]], sometimes a paragraph.
 >
 > **[4:18](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/chunking-examples?u=76281980&t=258)** In chat transcripts, special characters are especially important.
 >
@@ -537,24 +531,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Metadata]] (3), [[Information Retrieval]] (1), [[Engineering]] (1), api (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Information Retrieval]] (1), [[Customer Support]] (1), [[LinkedIn]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Env Vars:** ama (1), api (1), oss (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980)
+#### [Introduction to embeddings](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=0)** - [Instructor] Now that we've wrapped up chunking, let's cover embeddings.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=5)** Before vector embeddings, we didn't have a way to compare unstructured data.
+> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=5)** Before vector embeddings, we didn't have a way to compare [[Unstructured Data]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=10)** With embedding models, we do.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=14)** Embedding models are machine learning models, almost always deep neural networks, that turn your text, images, videos, audio, whatever kind of data you have into vectors or vector embeddings.
+> **[0:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=14)** Embedding models are machine learning models, almost always deep [[Neural Networks]], that turn your text, images, videos, audio, whatever kind of data you have into vectors or vector embeddings.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=29)** Vectors are the tools we use to quantitatively compare unstructured data.
 >
@@ -566,11 +559,11 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=57)** In this context, we are primarily concerned with embedding text.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=63)** The rise in popularity of large language models late in 2022 and all of 2023 showed us that text is one of the most important mediums for AI to work with.
+> **[1:03](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=63)** The rise in popularity of [[Large Language Models (LLM)|large language models]] late in 2022 and all of 2023 showed us that text is one of the most important mediums for AI to work with.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=74)** As such, there are now hundreds of embedding models specifically for text.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=81)** You can find a list of these models on the Hugging Face MTEB Massive Text Embedding Benchmark's leaderboard.
+> **[1:21](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=81)** You can find a list of these models on the [[Hugging Face]] MTEB Massive Text Embedding Benchmark's leaderboard.
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=89)** That's MTEB, M-T-E-B.
 >
@@ -584,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=115)** In regular text, commas are used to signal a pause in thought or to separate phrases, clauses, or positives.
 >
-> **[2:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=125)** When it comes to embedding your text for later use, there are many things to think about, but if you take care of these three, the rest often fall into line.
+> **[2:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=125)** When it comes to embedding your text for later use, there are many things to think about, but if you take care of these three, the [[Representational State Transfer (REST)|rest]] often fall into line.
 >
 > **[2:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=134)** The three critical considerations in embedding your data is the embedding model itself, what you want to embed, and how to compare your embeddings.
 >
@@ -642,7 +635,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=292)** These are a special case and these are not neural nets.
 >
-> **[4:56](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=296)** These are algorithms and typically produce a different type of embedding.
+> **[4:56](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=296)** These are [[Algorithms]] and typically produce a different type of embedding.
 >
 > **[5:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=300)** Examples can include TF-IDF, term frequency inverse document frequency, SPLADE, sparse lexical and expansion models, and BM25, where BM stands for best matching.
 >
@@ -660,7 +653,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=358)** Once again, because we are working with programmatic methods, these techniques are there to enhance your chunking methods.
 >
-> **[6:06](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=366)** Large to small refers to a technique where you embed large paragraphs, but store individual senses as the metadata.
+> **[6:06](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=366)** Large to small refers to a technique where you embed large paragraphs, but store individual senses as the [[Metadata]].
 >
 > **[6:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-embeddings?u=76281980&t=373)** And small to large refers to a technique where you embed individual sentences but store the large paragraph in the metadata.
 >
@@ -720,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), product (10), [[Unstructured Data]] (2), power (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (2), [[Algorithms]] (2), [[Metadata]] (2), [[Neural Networks]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** mteb (4), csv (1), idf (1), splade (1), bm25 (1)
 > **Analogies:** for example (3), imagine (3)
 > **Definitions:** refers to (3), stands for (1), is a  (1)
@@ -729,8 +722,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embedding examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980)
+#### [Embedding examples](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -746,7 +738,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980&t=31)** However, when it comes to advanced RAG use cases and putting things into production, you're going to need something a little more involved.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980&t=42)** Small to big is a term coined by former LlamaIndex head of TypeScript and Partnerships, Yi Ding, and he coined it at one of my first events in San Francisco.
+> **[0:42](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980&t=42)** Small to big is a term coined by former [[LlamaIndex]] head of TypeScript and Partnerships, Yi Ding, and he coined it at one of my first events in San Francisco.
 >
 > **[0:54](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/embedding-examples?u=76281980&t=54)** The idea behind small to big is that you embed a sentence, but you store the whole paragraph as text.
 >
@@ -786,7 +778,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), llm (2), rag (1), [[LlamaIndex]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[LlamaIndex]] (1)
 > **Env Vars:** llm (2), rag (1), gpt (1), mteb (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** make (1)
@@ -795,12 +787,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 
-#### Metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980)
+#### [Metadata](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=0)** - [Instructor] Metadata is the final piece of what makes vector databases useful.
+> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=0)** - [Instructor] [[Metadata]] is the final piece of what makes [[Vector Databases]] useful.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=6)** Without storing metadata, we would just be comparing a bunch of numbers.
 >
@@ -818,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=42)** It's the data that isn't the embeddings that you store in your vector database.
 >
-> **[0:47](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=47)** A lot of this data falls into the category of data that gets stored in traditional databases, and we'll cover more examples later in this video.
+> **[0:47](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=47)** A lot of this data falls into the category of data that gets stored in traditional [[Databases]], and we'll cover more examples later in this video.
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/metadata?u=76281980&t=56)** You also need to remember that metadata is critical for RAG.
 >
@@ -862,14 +853,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (31), data (6), rag (3), database (2), [[Vector Databases]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (31), [[Vector Databases]] (1), [[Databases]] (1)
 > **Env Vars:** rag (3)
 > **Cross-References:** later in (1), in the last (1), we mentioned (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Chunking
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980)
+#### [Demo: Chunking](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,9 +871,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=16)** The document object, the character text splitter object, and the OS library.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=23)** The document object is LangChain's native way to store objects.
+> **[0:23](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=23)** The document object is [[LangChain]]'s native way to store objects.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=27)** We use this to add metadata to our text and prepare it for the vector store.
+> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=27)** We use this to add [[Metadata]] to our text and prepare it for the vector store.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-chunking?u=76281980&t=32)** The character text splitter object is a LangChain object that can split strings up based on some preset parameters.
 >
@@ -921,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[LangChain]] (2), next (2), rag (1), application (1)
+> **Frameworks & Libraries:** [[LangChain]] (2), [[Metadata]] (1)
 > **Code Identifiers:** split_text (1), page_content (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** rag (1)
@@ -930,12 +920,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-metadata?u=76281980)
+#### [Demo: Metadata](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-metadata?u=76281980&t=0)** - [Instructor] This section is about storing metadata with our chunk data.
+> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-metadata?u=76281980&t=0)** - [Instructor] This section is about storing [[Metadata]] with our chunk data.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-metadata?u=76281980&t=4)** We'll start from the exact same place we left off in the last video.
 >
@@ -971,25 +960,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (9), data (1)
+> **Frameworks & Libraries:** [[Metadata]] (9)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Embed and store
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980)
+#### [Demo: Embed and store](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=0)** - [Instructor] With our data chunked and some metadata saved along in each of the chunked objects, we are ready to embed the data and store it into a vector database.
+> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=0)** - [Instructor] With our data chunked and some [[Metadata]] saved along in each of the chunked objects, we are ready to embed the data and store it into a vector database.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=11)** We're working with two new imports here, FAISS and HuggingFaceEmbeddings.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=17)** FAISS stands for Facebook AI Similarity Search.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=22)** This is the library that most popular AI native vector databases are built on, and you'll see that we're importing HuggingFaceEmbeddings from langchain_community.
+> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=22)** This is the library that most popular AI native [[Vector Databases]] are built on, and you'll see that we're importing HuggingFaceEmbeddings from langchain_community.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=33)** Early on, the LangChain team built hundreds of integrations for their library, but over time, as LangChain became more popular, this became impossible for their team to maintain, and most of these spun out into the Lang Chain community library, including the HuggingFaceEmbeddings.
+> **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=33)** Early on, the [[LangChain]] team built hundreds of integrations for their library, but over time, as LangChain became more popular, this became impossible for their team to maintain, and most of these spun out into the Lang Chain community library, including the HuggingFaceEmbeddings.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embed-and-store?u=76281980&t=52)** Picking up from where we left off in the last video, we started by importing the face library from LangChain and the HuggingFaceEmbeddings from the community module.
 >
@@ -1009,15 +997,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), [[LangChain]] (3), next (3), data (2), [[Metadata]] (2)
+> **Frameworks & Libraries:** [[LangChain]] (3), [[Metadata]] (2), [[Vector Databases]] (1)
 > **Env Vars:** faiss (2), llm (1), rag (1)
 > **Cross-References:** in the next (2), in the last (1)
 > **Code Identifiers:** langchain_community (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Querying
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980)
+#### [Demo: Querying](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980&t=22)** When we query a vector database, we get some top_k results back.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980&t=27)** For langchain FAISS, the default k is 4, as shown here.
+> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980&t=27)** For [[LangChain]] FAISS, the default k is 4, as shown here.
 >
 > **[0:33](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-querying?u=76281980&t=33)** The first step to perform a vector_store query in langchain is to take our vector_store and call the as_retriever function on it.
 >
@@ -1043,13 +1030,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), rag (2), llm (2), [[LangChain]] (2), application (1)
+> **Frameworks & Libraries:** [[LangChain]] (2)
 > **Code Identifiers:** vector_store (5), as_retriever (1)
 > **Env Vars:** rag (2), llm (2), faiss (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Adding the LLM
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980)
+#### [Demo: Adding the LLM](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1061,9 +1047,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=18)** Alternatively, you can run your own LLM locally.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=22)** This course assumes that you are using an OpenAI API key.
+> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=22)** This course assumes that you are using an [[OpenAI API]] key.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=27)** We kick off our LLM access by importing our environment variables and loading them using Python-dotenv's load_dotenv method.
+> **[0:27](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=27)** We kick off our LLM access by importing our environment variables and loading them using [[Python (Programming Language)|Python]]-dotenv's load_dotenv method.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=36)** Then, we import OpenAI from langchain_openai, and initialize this as our LLM.
 >
@@ -1071,7 +1057,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=47)** The main thing to pay attention to in the prompt creation is that we use it to pass the question and the context via brackets, just like we would with an f-stringing in Python.
 >
-> **[0:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=59)** Once we create a prompt string, we can use the ChatPromptTemplate object from langchain to create a prompt template.
+> **[0:59](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=59)** Once we create a prompt string, we can use the ChatPromptTemplate object from [[LangChain]] to create a prompt template.
 >
 > **[1:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-adding-the-llm?u=76281980&t=67)** We need two more imports to create our chain.
 >
@@ -1091,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), prompt (6), [[Python (Programming Language)|Python]] (2), rag (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[OpenAI API]] (1), [[LangChain]] (1)
 > **Env Vars:** llm (8), api (2), rag (1)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** load_dotenv (1), langchain_openai (1)
@@ -1100,8 +1086,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Cite your document sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980)
+#### [Challenge: Cite your document sources](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1113,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=16)** The first challenge from our customizable RAG application is to find a way to cite our sources.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=22)** Remember when we stored the name of the document as part of the metadata in the vector store?
+> **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=22)** Remember when we stored the name of the document as part of the [[Metadata]] in the vector store?
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=29)** This challenge is where that becomes useful.
 >
@@ -1121,21 +1106,20 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=37)** Here's a hint.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=38)** You can do that with prompt engineering.
+> **[0:38](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=38)** You can do that with [[Prompt Engineering]].
 >
 > **[0:42](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-cite-your-document-sources?u=76281980&t=42)** Good luck and join me in the next video to see how I solve this challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (3), application (1), [[Metadata]] (1), [[Prompt Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** rag (3)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Cite your document sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980)
+#### [Solution: Cite your document sources](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,11 +1129,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=7)** Let's take a look at how we can solve this challenge.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=11)** As we mentioned earlier, the names of the documents are all stored in the vector store via document metadata.
+> **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=11)** As we mentioned earlier, the names of the documents are all stored in the vector store via document [[Metadata]].
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=19)** This means that we can access this information when we retrieve objects from the vector store.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=25)** We can get our sources via prompt engineering by adding a simple sentence to our prompt.
+> **[0:25](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=25)** We can get our sources via [[Prompt Engineering]] by adding a simple sentence to our prompt.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-cite-your-document-sources?u=76281980&t=31)** All we have to do to solve this challenge is to tell the llm to cite its sources.
 >
@@ -1165,14 +1149,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Metadata]] (1), [[Prompt Engineering]] (1), prompt (1), llm (1)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Prompt Engineering]] (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Challenge: Change the chunk size
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-change-the-chunk-size?u=76281980)
+#### [Challenge: Change the chunk size](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-change-the-chunk-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1195,8 +1178,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Change the chunk size
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-change-the-chunk-size?u=76281980)
+#### [Solution: Change the chunk size](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-change-the-chunk-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,12 +1207,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to vector embeddings for images
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
+#### [Introduction to vector embeddings for images](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=0)** - [Instructor] Images are one of the classic unstructured data types.
+> **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=0)** - [Instructor] Images are one of the classic [[Unstructured Data]] types.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=4)** And vector embeddings are the core of what makes it possible to compare images.
 >
@@ -1248,7 +1229,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=43)** These encode what the image literally looks like.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=48)** Semantic embeddings are derived from deep learning models.
+> **[0:48](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=48)** Semantic embeddings are derived from [[Deep Learning]] models.
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=53)** In any deep learning model, the image data gets passed from the input layer, through a series of hidden layers, and then to an output layer.
 >
@@ -1266,7 +1247,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=103)** They are also a long list of numbers.
 >
-> **[1:47](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=107)** And if you're familiar with how image models are trained in PyTorch, you'll remember the images are compressed into a vector as the input to the model.
+> **[1:47](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=107)** And if you're familiar with how image models are trained in [[PyTorch]], you'll remember the images are compressed into a vector as the input to the model.
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-vector-embeddings-for-images?u=76281980&t=116)** And that's what these visual or pixel vectors are.
 >
@@ -1276,11 +1257,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Deep Learning]] (2), rag (2), [[Unstructured Data]] (1), data (1), [[PyTorch]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Unstructured Data]] (1), [[PyTorch]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vision models 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980)
+#### [Vision models 101](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1288,7 +1268,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=8)** Remember that vision models are just a type of deep neural network.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=13)** They are deep neural networks that are trained for computer vision tasks, such as classification of images, segmentation, or object detection.
+> **[0:13](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=13)** They are deep [[Neural Networks]] that are trained for [[Computer Vision]] tasks, such as classification of images, segmentation, or object detection.
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=24)** Let's go back in time a bit.
 >
@@ -1306,13 +1286,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=71)** This was the most common type of vision model for nearly 30 years.
 >
-> **[1:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=76)** Then in 2019, 1 year after the original transformers paper, a paper that was on how to use transformer models for language, a new paper on vision transformers came out.
+> **[1:16](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=76)** Then in 2019, 1 year after the original transformers paper, a paper that was on how to use [[Transformer Models]] for language, a new paper on vision transformers came out.
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=90)** Vision transformers took the attention mechanism introduced in the original transformers paper and applied it to computer vision.
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=98)** So what is a convolutional neural network?
 >
-> **[1:41](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=101)** The defining architecture of convolutional neural networks is the combination of a convolutional layer and a pooling layer.
+> **[1:41](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=101)** The defining architecture of [[Convolutional Neural Networks (CNN)|convolutional neural networks]] is the combination of a convolutional layer and a pooling layer.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/image-models-101?u=76281980&t=109)** These two layers help us get context from different places in the image and combine all these local contexts to make sense of the image.
 >
@@ -1364,7 +1344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Computer Vision]] (3), data (2), [[Transformer Models]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (4), [[Computer Vision]] (3), [[Transformer Models]] (1), [[Convolutional Neural Networks (CNN)|Convolutional neural networks]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), imagine (1), picture (1)
 > **CLI Commands:** make (2)
@@ -1372,8 +1352,7 @@ created: 2026-05-02
 > **Cross-References:** we talked about (1), earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Getting semantic vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-getting-semantic-vectors?u=76281980)
+#### [Demo: Getting semantic vectors](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-getting-semantic-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,17 +1374,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Storing image vectors
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980)
+#### [Demo: Storing image vectors](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=0)** - [Instructor] The start of this video should be reminiscent of what we did in our text RAG chapter.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=5)** We have three imports from langchain to cover, Document, FAISS, and OpenCLIPembeddings.
+> **[0:05](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=5)** We have three imports from [[LangChain]] to cover, Document, FAISS, and OpenCLIPembeddings.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=12)** The other two imports that we have are glob for dealing with multiple file paths, and base64 so we can convert our image into a base64 string for our LLM later.
 >
@@ -1417,18 +1394,17 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=49)** Then we loop through each of the paths to the images and create a document from each of the images.
 >
-> **[0:54](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=54)** The document contains the encoded image and the metadata for the document contains the image path.
+> **[0:54](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=54)** The document contains the encoded image and the [[Metadata]] for the document contains the image path.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-storing-image-vectors?u=76281980&t=62)** To wrap things up, we store that into a FAISS vector database using the OpenCLIPembeddings as our embedding function.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (1), [[LangChain]] (1), llm (1), next (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (1), [[Metadata]] (1)
 > **Env Vars:** faiss (2), rag (1), llm (1), utf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Comparing images semantically
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-comparing-images-semantically?u=76281980)
+#### [Demo: Comparing images semantically](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-comparing-images-semantically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,14 +1428,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), database (1)
 > **CLI Commands:** cat (3), find (1)
 > **Cross-References:** in the last (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find the dog most similar to a cat
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-find-the-dog-most-similar-to-a-cat?u=76281980)
+#### [Challenge: Find the dog most similar to a cat](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-find-the-dog-most-similar-to-a-cat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,8 +1456,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright upbeat music) (1)
 
-#### Solution: Find the dog most similar to a cat
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980)
+#### [Solution: Find the dog most similar to a cat](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1497,7 +1470,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980&t=38)** So, for each of those dog paths, we retrieve the top four images based on the Base64 encoding of that dog image, and then we set this cats_retrieved image to zero, and we loop through this enumerated list of all of the return documents.
 >
-> **[1:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980&t=60)** And if the word cat is in the source returned, then we know that that's a cat image.
+> **[1:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980&t=60)** And if the [[Microsoft Word|word]] cat is in the source returned, then we know that that's a cat image.
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-the-dog-most-similar-to-a-cat?u=76281980&t=68)** We add 4 minus I, which is the inverse weight of that image based on where it appears in your top four results to the number of cats retrieved.
 >
@@ -1519,8 +1492,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the types of multimodality
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
+#### [Introduction to the types of multimodality](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,7 +1504,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980&t=22)** Let's take a look from the bottom up.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980&t=25)** The word multimodal comes from multi and modal.
+> **[0:25](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980&t=25)** The [[Microsoft Word|word]] multimodal comes from multi and modal.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-types-of-multimodality?u=76281980&t=30)** Multi meaning many and modal meaning types.
 >
@@ -1570,11 +1542,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (5), [[Microsoft Word|Word]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ways to do multimodal RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980)
+#### [Ways to do multimodal RAG](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1618,7 +1589,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980&t=120)** For example, CLIP will have image and text options.
 >
-> **[2:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980&t=124)** However, if you use a framework like LangChain or LlamaIndex, they will typically handle that for you.
+> **[2:04](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980&t=124)** However, if you use a framework like [[LangChain]] or [[LlamaIndex]], they will typically handle that for you.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/ways-to-do-multimodal-rag?u=76281980&t=132)** The other way to build multimodal RAG applications is to use multiple models.
 >
@@ -1654,7 +1625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), rag (12), [[Search]] (1), application (1), [[LangChain]] (1)
+> **Frameworks & Libraries:** [[LangChain]] (1), [[LlamaIndex]] (1)
 > **Env Vars:** rag (12), clip (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1663,8 +1634,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to multimodal embedding models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980)
+#### [Introduction to multimodal embedding models](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1686,7 +1656,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=44)** Images plus text is the most common pairing of data to train these types of models on.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=50)** Some examples of multimodal embedding models include CLIP from OpenAI, large language models themselves that have evolved to become multimodal, such as GPT-4o, also from OpenAI, and LLaVa, a state-of-the-art end-to-end large transformer model that combines an image encoder in Vicuna, an LLM.
+> **[0:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=50)** Some examples of multimodal embedding models include CLIP from OpenAI, [[Large Language Models (LLM)|large language models]] themselves that have evolved to become multimodal, such as GPT-4o, also from OpenAI, and LLaVa, a state-of-the-art end-to-end large transformer model that combines an image encoder in Vicuna, an LLM.
 >
 > **[1:15](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=75)** This model is not from OpenAI.
 >
@@ -1696,7 +1666,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=92)** The CLIP model has two encoders, one for encoding images and one for encoding language or text.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=99)** Since this is an open source model, publicly available on Hugging Face and is also state of the art, this model is the most popular multimodal embedding model to date.
+> **[1:39](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=99)** Since this is an open source model, publicly available on [[Hugging Face]] and is also state of the art, this model is the most popular multimodal embedding model to date.
 >
 > **[1:50](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/introduction-to-multimodal-embedding-models?u=76281980&t=110)** Let's briefly understand how CLIP works and what the letters mean.
 >
@@ -1724,15 +1694,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Large Language Models (LLM)|Large language models]] (1), llm (1), [[Hugging Face]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Hugging Face]] (1)
 > **Env Vars:** clip (7), gpt (2), llm (1)
 > **Definitions:** is a  (1), stands for (1), is an  (1)
 > **Cross-References:** we talked about (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Embedding and storing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980)
+#### [Demo: Embedding and storing data](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1742,18 +1711,17 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980&t=11)** Let's briefly review.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980&t=14)** We're using langchain to get our OpenCLIPEmbeddings and storing all of our vectors into FAISS.
+> **[0:14](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980&t=14)** We're using [[LangChain]] to get our OpenCLIPEmbeddings and storing all of our vectors into FAISS.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-embedding-and-storing-data?u=76281980&t=19)** What we're doing here is we're grabbing all of these images, encoding them into a Base64 encoding for the LLM, creating documents from all of these images, and then using the OpenCLIPEmbeddings along with all the documents to store into the FAISS vector database.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LangChain]] (1), llm (1), database (1)
+> **Frameworks & Libraries:** [[LangChain]] (1)
 > **Env Vars:** faiss (2), llm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Query images with text
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980)
+#### [Demo: Query images with text](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/demo-query-images-with-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1803,15 +1771,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (6), llm (2), prompt (1), rag (1)
 > **Env Vars:** llm (2), rag (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Find anomalies in your embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-find-anomalies-in-your-embeddings?u=76281980)
+#### [Challenge: Find anomalies in your embeddings](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/challenge-find-anomalies-in-your-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1837,15 +1803,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), rag (2), database (2), application (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** rag (2)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively music) (1)
 
-#### Solution: Find anomalies in your embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980)
+#### [Solution: Find anomalies in your embeddings](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1859,7 +1823,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980&t=26)** So let's look at four examples.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980&t=28)** Two that show good data quality and two that show an anomaly.
+> **[0:28](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980&t=28)** Two that show good [[Data Quality]] and two that show an anomaly.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/solution-find-anomalies-in-your-embeddings?u=76281980&t=34)** So we have this example from before where we saw the Rottweiler, which is dog number five.
 >
@@ -1893,7 +1857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), llm (1), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (1)
 > **CLI Commands:** cat (4), find (1)
 > **Env Vars:** llm (1)
 > **Analogies:** just like (1)
@@ -1905,8 +1869,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,13 +1877,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980&t=3)** You've now put yourself ahead of all of the developers who aren't building rag applications and most of the developers that are.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980&t=11)** You can find more resources on my GitHub @ytang07 as well as connecting with me on LinkedIn.
+> **[0:11](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980&t=11)** You can find more resources on my [[GitHub]] @ytang07 as well as connecting with me on [[LinkedIn]].
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-rag-applications-with-vector-databases/next-steps?u=76281980&t=19)** I hope to see all the cool projects you make, and I'll be happy to share the projects you send my way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (1), [[GitHub]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Tools:** github (1)
 > **Speakers:** - [yujian] (1)

@@ -73,20 +73,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Small steps to great things
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
+#### [Small steps to great things](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=0)** - Software development is a complex endeavor and developers often find that as their products grow in size and complexity making changes becomes more difficult and error prone.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=0)** - [[Software Development]] is a complex endeavor and developers often find that as their [[Microsoft Products|products]] grow in size and complexity making changes becomes more difficult and error prone.
 >
 > **[0:13](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=13)** One reason is that conventional methodologies position testing as the last activity in the software development life cycle.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=22)** Test driven development or TDD addresses this issue by bringing test cases in front and center of the rest of the design and development activities.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=22)** Test driven development or TDD addresses this issue by bringing test cases in front and center of the [[Representational State Transfer (REST)|rest]] of the design and development activities.
 >
 > **[0:32](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=32)** It makes development more engaging and rewarding because it provides instant feedback on the quality of code being developed.
 >
-> **[0:41](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=41)** Many organizations have adopted TDD to improve their product quality and make their delivery more agile.
+> **[0:41](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=41)** Many organizations have adopted TDD to improve their product quality and make their delivery more [[Agile Development|agile]].
 >
 > **[0:49](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/small-steps-to-great-things?u=76281980&t=49)** It makes sure that the software functionality stays aligned with the customer requirements.
 >
@@ -98,22 +97,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), product (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** tdd (4)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - software (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course you should have basic programming skills in Java or a similar language and some familiarity with any IDE, such as Eclipse or IntelliJ.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=0)** - [Instructor] For this course you should have basic programming skills in [[Java]] or a similar language and some familiarity with any IDE, such as Eclipse or IntelliJ.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=12)** In terms of the tools that we will use in this course, you can get Java from [oracle.com](https://oracle.com) and I have used Java 11.
 >
-> **[0:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=22)** JUnit 5, which you can download from here, junit.O-R-G.
+> **[0:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=22)** [[JUnit]] 5, which you can download from here, junit.O-R-G.
 >
 > **[0:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-you-should-know?u=76281980&t=27)** I am using Eclipse IDE 2019-03, but any version which is a recent version may also work.
 >
@@ -121,7 +119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (3), [[JUnit]] (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[JUnit]] (2)
 > **Env Vars:** ide (2)
 > **URLs:** [oracle.com](https://oracle.com) (1)
 > **Versions:** java 11 (1)
@@ -130,8 +128,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is test-driven development (TDD)?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980)
+#### [What is test-driven development (TDD)?](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,17 +188,17 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=102)** This is the test last development approach.
 >
-> **[1:46](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=106)** In a test-driven approach, given some requirements, you come up with test cases that will drive the rest of the development.
+> **[1:46](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=106)** In a test-driven approach, given some requirements, you come up with test cases that will drive the [[Representational State Transfer (REST)|rest]] of the development.
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=113)** The design emerges from the test cases.
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=117)** This is the pure TDD approach.
 >
-> **[2:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=120)** Note that the testing in TDD is only unit testing.
+> **[2:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=120)** Note that the testing in TDD is only [[Unit Testing]].
 >
 > **[2:04](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=124)** That is, testing your code at the smallest unit level.
 >
-> **[2:08](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=128)** Other types of testing, such as system testing, integration testing, or functional testing, test your application at a higher level and therefore not part of TDD's scope.
+> **[2:08](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=128)** Other types of testing, such as system testing, [[Integration Testing]], or functional testing, test your application at a higher level and therefore not part of TDD's scope.
 >
 > **[2:17](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=137)** But, to be able to write unit test cases, there are often high-level ambiguities, especially in large and complex projects, that need to be ironed out before you can think about unit test cases.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=230)** - Really good, really good.
 >
-> **[3:52](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=232)** - Well, so, for the project that we're on, I'm looking for an app that has word games.
+> **[3:52](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=232)** - Well, so, for the project that we're on, I'm looking for an app that has [[Microsoft Word|word]] games.
 >
 > **[3:56](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=236)** It has hangman, crosswords, and anagrams.
 >
@@ -307,7 +304,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=325)** - So these are all word games.
 >
-> **[5:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=327)** They all need words, I'm thinking our first functionality that we can implement would be to fetch a word from somewhere.
+> **[5:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=327)** They all need words, I'm thinking our first functionality that we can implement would be to [[Fetch]] a word from somewhere.
 >
 > **[5:34](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=334)** - Well that seems like a good place to start, but, where are you getting the words from?
 >
@@ -331,11 +328,11 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=386)** The key idea here, is that before you write a single line of code, you first write a test case for it.
 >
-> **[6:31](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=391)** And that is the golden rule of test-driven development.
+> **[6:31](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/what-is-test-driven-development-tdd?u=76281980&t=391)** And that is the golden rule of [[Test-Driven Development]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), test-driven (3), game (3), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Fetch]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Unit Testing]] (1), [[Integration Testing]] (1)
 > **Speakers:** - okay (5), - yeah (4), - well (4), - that (3), - all (3)
 > **CLI Commands:** make (7)
 > **Env Vars:** tdd (5)
@@ -343,16 +340,15 @@ created: 2026-05-02
 > **Analogies:** picture (1), such as (1)
 > **Warnings:** note that (1)
 
-#### xUnit and JUnit
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980)
+#### [xUnit and JUnit](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=0)** - [Instructor] Most popular unit testing frameworks for various programming languages are modeled on what is called xUnit Framework.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=0)** - [Instructor] Most popular [[Unit Testing]] frameworks for various programming languages are modeled on what is called xUnit Framework.
 >
 > **[0:08](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=8)** The core of xUnit was designed by Ken Beck and Eric Gamma for small talk named as sUnit.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=16)** This was later ported for Java and named as JUnit.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=16)** This was later ported for [[Java]] and named as [[JUnit]].
 >
 > **[0:20](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=20)** JUnit's popularity and wide acceptance led other languages to follow suit and create their own unit testing frameworks based on the xUnit architecture.
 >
@@ -372,7 +368,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=91)** Developers had to take care of basic considerations.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=94)** For example, to write a test case they had to extend the library class test case and name their test methods starting with the word test.
+> **[1:34](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=94)** For example, to write a test case they had to extend the library class test case and name their test methods starting with the [[Microsoft Word|word]] test.
 >
 > **[1:44](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/xunit-and-junit?u=76281980&t=104)** Then came Junit 4 that was developed for JUnit 8, offering the use of annotations and thereby removing many of JUnit 3 restrictions.
 >
@@ -398,7 +394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (13), [[Java]] (3), [[Unit Testing]] (2), [[Programming]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (13), [[Java]] (3), [[Unit Testing]] (2), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** xunit (10), sunit (1)
 > **Analogies:** such as (2), for example (1)
 > **Versions:** java 5 (2)
@@ -407,8 +403,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Writing test cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980)
+#### [Writing test cases](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -416,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=6)** Let us look at some of these to write a simple test case.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=9)** Let us say our requirement is to find how many times an alphabet appears in a word.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=9)** Let us say our requirement is to find how many times an alphabet appears in a [[Microsoft Word|word]].
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=14)** So if the word is pizza, Z appears twice whereas X appears zero times.
 >
@@ -432,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=39)** When you ship your code in the final --, you don't want your test files to accidentally get tagged along.
 >
-> **[0:44](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=44)** Next, I will create my first test case by right clicking and choosing JUnit Test Case option.
+> **[0:44](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=44)** Next, I will create my first test case by right clicking and choosing [[JUnit]] Test Case option.
 >
 > **[0:51](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/writing-test-cases?u=76281980&t=51)** And I name this as "TestHangman".
 >
@@ -532,7 +527,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[JUnit]] (4), [[Programming]] (2), next (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[JUnit]] (4)
 > **CLI Commands:** make (5), find (1)
 > **Code Identifiers:** alphabetcountinaword (1), countalphabet (1), assertequals (1), tochararray (1)
 > **Cross-References:** go back to (1), later in (1)
@@ -546,14 +541,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TDD and agile
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
+#### [TDD and agile](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=0)** - Test-driven development makes one think that it is all about testing and coding, but it is also test-driven design, because while you start with a test case, your goal is to design and develop your software in parallel.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=0)** - [[Test-Driven Development]] makes one think that it is all about testing and coding, but it is also test-driven design, because while you start with a test case, your goal is to design and develop your software in parallel.
 >
-> **[0:16](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=16)** This aligns very well with the incremental upload of agile methodologies.
+> **[0:16](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=16)** This aligns very well with the incremental upload of [[Agile Development|agile]] methodologies.
 >
 > **[0:21](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=21)** But once you have identified your user story or use case, where do you start?
 >
@@ -567,7 +561,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=43)** We went over the basic rules of the game, and here they are.
 >
-> **[0:48](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=48)** So when the word has X letters, the clue shows X dashes, and the player has 10 attempts to guess those letters.
+> **[0:48](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=48)** So when the [[Microsoft Word|word]] has X letters, the clue shows X dashes, and the player has 10 attempts to guess those letters.
 >
 > **[1:06](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=66)** So I think it's time that we write our first failing test case to grab a word from the text file of length, let's say five.
 >
@@ -583,7 +577,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=117)** And the test case throws a null pointer exception.
 >
-> **[2:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=120)** Not really an assertion failure, but we know that the fetch word is returning a null, which we need to fix.
+> **[2:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=120)** Not really an assertion failure, but we know that the [[Fetch]] word is returning a null, which we need to fix.
 >
 > **[2:07](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-and-agile?u=76281980&t=127)** - [Brunette Woman] So now I'll just make the test case pass.
 >
@@ -675,7 +669,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), game (4), [[Agile Development|Agile]] (2), [[Fetch]] (2), [[Test-Driven Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (14), [[Agile Development|Agile]] (2), [[Fetch]] (2), [[Test-Driven Development]] (1)
 > **Speakers:** - well (3), - test (1), - hey (1), - so (1), - here (1)
 > **Code Identifiers:** fetchword (4), asserttrue (2), requestedlength (1)
 > **Cross-References:** go back to (2)
@@ -683,12 +677,11 @@ created: 2026-05-02
 > **Env Vars:** tdd (1)
 > **Definitions:** is called (1)
 
-#### Where to start?
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980)
+#### [Where to start?](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=0)** - TDD is about starting the incremental cycle of software development with a failing test case.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=0)** - TDD is about starting the incremental cycle of [[Software Development]] with a failing test case.
 >
 > **[0:06](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=6)** But the question is, failing test of what?
 >
@@ -712,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=60)** When we start a new round, the game saves a previous score if any, initializes its current score to zero and the remaining trials to say 10.
 >
-> **[1:11](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=71)** It fetches the next word for next round.
+> **[1:11](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=71)** It fetches the next [[Microsoft Word|word]] for next round.
 >
 > **[1:15](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=75)** Let us say the game fetches the word pizza.
 >
@@ -734,7 +727,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=138)** Let's look at the input side which is word uniqueness.
 >
-> **[2:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=142)** - So fetch word should return a unique word every time.
+> **[2:22](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=142)** - So [[Fetch]] word should return a unique word every time.
 >
 > **[2:28](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/where-to-start?u=76281980&t=148)** - That means we need to store previous words somewhere in out test file to compare with.
 >
@@ -798,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), game (6), next (6), [[Fetch]] (3), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (21), [[Fetch]] (3), [[Software Development]] (1)
 > **Speakers:** - so (2), - tdd (1), - that (1), - but (1), - actually (1)
 > **File Paths:** wordsource.txt (1)
 > **CLI Commands:** make (1)
@@ -807,8 +800,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Refactor to improve the design
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980)
+#### [Refactor to improve the design](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,7 +810,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=36)** Let us see how our hangman team goes about it.
 >
-> **[0:40](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=40)** - So it seems to me that our code is not very efficient when it comes to fetching the word.
+> **[0:40](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=40)** - So it seems to me that our code is not very efficient when it comes to fetching the [[Microsoft Word|word]].
 >
 > **[0:44](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=44)** - Why?
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=91)** - Well, the next change is a little tricky.
 >
-> **[1:34](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=94)** Our fetchWord method is doing two things, loading data from the file and then finding the word to fetch.
+> **[1:34](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=94)** Our fetchWord method is doing two things, loading data from the file and then finding the word to [[Fetch]].
 >
 > **[1:40](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/the-iterative-red-green-refactor-cycle?u=76281980&t=100)** So first, create an ArrayList wordsList in hangman,
 >
@@ -894,15 +886,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), data (2), next (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Fetch]] (1)
 > **Code Identifiers:** fetchword (9), loadwords (4), wordslist (1), usedwordsset (1)
 > **Speakers:** - well (2), - yeah (2), - after (1), - so (1), - why (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** tdd (1)
 > **Definitions:** is a  (1)
 
-#### The iterative red-green-refactor cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980)
+#### [The iterative red-green-refactor cycle](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +923,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=72)** One way to develop this stink detection skill is to look at each method and think about a difference between its intention that is what it is supposed to do versus its implementation that is what it is actually doing.
 >
-> **[1:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=87)** For example, in hangman, our fetchWord method was opening the file and reading each word till it find what it was looking for.
+> **[1:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=87)** For example, in hangman, our fetchWord method was opening the file and reading each [[Microsoft Word|word]] till it find what it was looking for.
 >
 > **[1:36](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=96)** It then close the file and then return the word.
 >
@@ -942,7 +933,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=106)** So while the intention of this method is to just find a word, its implementation includes file handling.
 >
-> **[1:54](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=114)** The hangman game needs to fetch a word in every round so this file IO activity will be done every time.
+> **[1:54](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=114)** The hangman game needs to [[Fetch]] a word in every round so this file IO activity will be done every time.
 >
 > **[2:01](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/refactor-to-improve-the-design?u=76281980&t=121)** It smells bad right?
 >
@@ -990,7 +981,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Fetch]] (6), game (1), data (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (9), [[Fetch]] (6)
 > **CLI Commands:** find (6), make (4)
 > **Definitions:** is a  (2), is an  (1), is called (1), means that (1)
 > **Code Identifiers:** loadwords (2), fetchword (1)
@@ -999,14 +990,13 @@ created: 2026-05-02
 > **URLs:** [refactoring.com](https://refactoring.com) (1)
 > **Tools:** intellij (1)
 
-#### ✓ Challenge: Functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980)
+#### [✓ Challenge: Functionality](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980&t=0)** (upbeat playful music)
 >
-> **[0:05](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980&t=5)** - So now that we have a method to fetch the word, the next step in the requirement is to get a clue to be shown to the player.
+> **[0:05](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980&t=5)** - So now that we have a method to [[Fetch]] the [[Microsoft Word|word]], the next step in the requirement is to get a clue to be shown to the player.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915490?u=76281980&t=12)** - Right, so let's write a test case that tests the method fetch clue that returns all characters of the word replaced by dashes when the player starts the game.
 >
@@ -1036,21 +1026,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (4), [[Microsoft Word|Word]] (3), next (1), game (1)
+> **Frameworks & Libraries:** [[Fetch]] (4), [[Microsoft Word|Word]] (3)
 > **Speakers:** - so (3), - right (2), - and (1), - that (1)
 > **Analogies:** for example (1)
 > **Non-Speech:** (upbeat playful music) (1)
 
-#### ✓ Solution: Functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980)
+#### [✓ Solution: Functionality](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=0)** - [Narrator] In this challenge you had to write test cases for the fetch clue functionality for three scenarios, before any guess is entered, after a correct guess is entered and after an incorrect guess is entered.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=0)** - [Narrator] In this challenge you had to write test cases for the [[Fetch]] clue functionality for three scenarios, before any guess is entered, after a correct guess is entered and after an incorrect guess is entered.
 >
-> **[0:19](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=19)** So I'm in test hangman.java and I will write my next test case for the first requirement as test fetchClueBeforeAnyGuess.
+> **[0:19](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=19)** So I'm in test hangman.[[Java]] and I will write my next test case for the first requirement as test fetchClueBeforeAnyGuess.
 >
-> **[0:36](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=36)** As usual I'll first create a Hangman instance and invoke the new method which I will have to create as fetchClue to which I will pass the word for which the clue has to be created.
+> **[0:36](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=36)** As usual I'll first create a Hangman instance and invoke the new method which I will have to create as fetchClue to which I will pass the [[Microsoft Word|word]] for which the clue has to be created.
 >
 > **[0:54](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915491?u=76281980&t=54)** And this I will store and let's say a string variable.
 >
@@ -1136,7 +1125,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Fetch]] (4), next (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (7), [[Fetch]] (4), [[Java]] (1)
 > **Code Identifiers:** fetchclue (4), newclue (2), charat (2), fetchcluebeforeanyguess (1), stingbuilder (1)
 > **CLI Commands:** make (3)
 > **File Paths:** hangman.java (1)
@@ -1149,8 +1138,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Test structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
+#### [Test structure](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,7 +1164,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=64)** Think in terms of the requirements you are trying to test.
 >
-> **[1:07](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=67)** If your requirement for scoring tightly depends on the rest of Hangman functionality, than you may want to keep their scoring logic tested along with rest of the Hangman functionality.
+> **[1:07](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=67)** If your requirement for scoring tightly depends on the [[Representational State Transfer (REST)|rest]] of Hangman functionality, than you may want to keep their scoring logic tested along with rest of the Hangman functionality.
 >
 > **[1:18](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=78)** That was about the external structure of test cases.
 >
@@ -1210,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=171)** You set up the fixture in a method, annotated with @BeforeEach, then tear down with a method annotated with @AfterEach.
 >
-> **[3:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=180)** Junit 4 has similar annotation as @Before and @After.
+> **[3:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=180)** [[JUnit]] 4 has similar annotation as @Before and @After.
 >
 > **[3:05](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=185)** So in Hangman, we can move the repeating lines of code into a method annotated with @BeforeEach, and give it a name, such as, setupTest().
 >
@@ -1218,13 +1206,13 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=200)** The tear down method is annotated with @AfterEach, and is often useful when you want to destroy the older objects and reinitialize any other variables modified in the previous tests.
 >
-> **[3:32](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=212)** This might be useful when you want to optimize memory management to make your test cases run faster.
+> **[3:32](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=212)** This might be useful when you want to optimize [[Memory Management]] to make your test cases run faster.
 >
-> **[3:38](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=218)** In this example, the tear down method is not really required because we are creating new objects in the setup method, and in Java, the automatic garbage collection cleans up all the old objects that are no longer in use.
+> **[3:38](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=218)** In this example, the tear down method is not really required because we are creating new objects in the setup method, and in [[Java]], the automatic garbage collection cleans up all the old objects that are no longer in use.
 >
 > **[3:53](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=233)** While the Set Up, Test, Tear Down pattern is repeated for each test case, there may be a few things that you may want your test cases to do just once before and once after, all test cases.
 >
-> **[4:06](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=246)** For example, in our Hangman game, we want the words from word source to be loaded into the word list, just once.
+> **[4:06](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=246)** For example, in our Hangman game, we want the words from [[Microsoft Word|word]] source to be loaded into the word list, just once.
 >
 > **[4:14](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-structure?u=76281980&t=254)** Since word list is never modified by any of the test cases, there is no reason why it should be recreated every time for each test case.
 >
@@ -1246,7 +1234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), game (2), [[Representational State Transfer (REST)|Rest]] (2), [[JUnit]] (1), [[Memory Management]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[JUnit]] (1), [[Memory Management]] (1), [[Java]] (1)
 > **Prerequisites:** set up (4), required to (1), setup (1)
 > **Analogies:** for example (2), such as (2)
 > **Code Identifiers:** loadwords (1), setuptest (1)
@@ -1254,8 +1242,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980)
+#### [Assertions](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=11)** If the condition is not true, the program will throw an assertion error.
 >
-> **[0:15](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=15)** In Java these assertions are by default disabled, and can be enabled by passing a parameter to the JVM at the time of executing the program.
+> **[0:15](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=15)** In [[Java]] these assertions are by default disabled, and can be enabled by passing a parameter to the JVM at the time of executing the program.
 >
 > **[0:24](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=24)** For example in this class Assertor, I'm invoking a method named assertSomething on an instance of Assertor.
 >
@@ -1281,7 +1268,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=70)** the xUnit frameworks uses a similar idea, but they have their own assertion API, to make those assertions.
 >
-> **[1:18](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=78)** JUnit five support these assertions statements, that are static methods in the assertions class, in the Jupiter API.
+> **[1:18](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=78)** [[JUnit]] five support these assertions statements, that are static methods in the assertions class, in the Jupiter API.
 >
 > **[1:26](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertions?u=76281980&t=86)** Many of these assertions are also supported in JUnit four; however, there is one assertion statement assertThat, that was part of JUnit four, but now has been deprecated in JUnit five.
 >
@@ -1327,7 +1314,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (7), data (3), [[Programming]] (2), api (2), [[Java]] (1)
+> **Frameworks & Libraries:** [[JUnit]] (7), [[Java]] (1)
 > **Code Identifiers:** assertequals (9), assertsame (4), assertthat (2), assertsomething (1), xunit (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Env Vars:** jvm (2), api (2)
@@ -1336,14 +1323,13 @@ created: 2026-05-02
 > **Versions:** 5.4 (1)
 > **Cross-References:** later in (1)
 
-#### Testing exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980)
+#### [Testing exceptions](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=0)** - [Instructor] If you have a method that should throw an exception under certain conditions, then you need to test whether it does so when those conditions arise.
 >
-> **[0:09](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=9)** This requires designing your test cases a little differently, this feature is available in JUnit 4 as well, but the approach is a little different between the two.
+> **[0:09](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=9)** This requires designing your test cases a little differently, this feature is available in [[JUnit]] 4 as well, but the approach is a little different between the two.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=19)** Let us first see JUnit 4 approach.
 >
@@ -1365,7 +1351,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=85)** This is the character is the guess input by the player.
 >
-> **[1:29](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=89)** The fetchClue method is supposed to check if the character belongs to the word and if yes, then return the new clue with character substituted in it.
+> **[1:29](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=89)** The fetchClue method is supposed to check if the character belongs to the [[Microsoft Word|word]] and if yes, then return the new clue with character substituted in it.
 >
 > **[1:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/testing-exceptions?u=76281980&t=97)** But, what if the player enters some invalid character?
 >
@@ -1419,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JUnit]] (4), [[Microsoft Word|Word]] (2), feature (1), next (1)
+> **Frameworks & Libraries:** [[JUnit]] (4), [[Microsoft Word|Word]] (2)
 > **Code Identifiers:** fetchclue (3), assertthrows (2), wheninvalidguessthenfetchcluethrowsexceptionwithmessage (1), assertequals (1), getmessage (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -1427,12 +1413,11 @@ created: 2026-05-02
 > **Env Vars:** ascii (1)
 > **Speakers:** - [instructor] (1)
 
-#### ✓ Challenge: Performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915493?u=76281980)
+#### [✓ Challenge: Performance](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915493?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915493?u=76281980&t=0)** - So we figured out how to fetch a word from the word source and how to get the next clue based on the player's input.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915493?u=76281980&t=0)** - So we figured out how to [[Fetch]] a [[Microsoft Word|word]] from the word source and how to get the next clue based on the player's input.
 >
 > **[0:12](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915493?u=76281980&t=12)** - Well now we need to think about updating the number of remaining trials in each round and calculating the score after each input.
 >
@@ -1468,19 +1453,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Fetch]] (1)
 > **Speakers:** - so (3), - i (2), - well (1), - and (1), - this (1)
 > **Definitions:** means that (1), is a  (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### ✓ Solution: Performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980)
+#### [✓ Solution: Performance](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=0)** - [Instructor] In this challenge, we are testing two variables, remaining trials and the score.
 >
-> **[0:11](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=11)** When a new round is started, that is a new word is fetched, then the remaining trial count is set to a constant, say max trials.
+> **[0:11](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=11)** When a new round is started, that is a new [[Microsoft Word|word]] is fetched, then the remaining trial count is set to a constant, say max trials.
 >
 > **[0:19](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=19)** And after one guess made by the player, it should be reduced by one.
 >
@@ -1492,7 +1476,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=37)** Here I will write my next test case, as void test, remaining trials, before any guess.
 >
-> **[0:52](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=52)** At this point I would use hangman and fetch a word.
+> **[0:52](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=52)** At this point I would use hangman and [[Fetch]] a word.
 >
 > **[0:58](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2915494?u=76281980&t=58)** And this the indication that I am just starting a new round.
 >
@@ -1638,7 +1622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Fetch]] (8), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Fetch]] (8)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (4)
 > **Cross-References:** go back to (1)
@@ -1652,12 +1636,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TDD tools and frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
+#### [TDD tools and frameworks](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=0)** - [Instructor] Test-Driven Development is carried out within an ecosystem that comprises a variety of tools and frameworks.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=0)** - [Instructor] [[Test-Driven Development]] is carried out within an ecosystem that comprises a variety of tools and frameworks.
 >
 > **[0:07](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=7)** TDD focuses on unit test cases that test the most granular components of the system under test.
 >
@@ -1671,11 +1654,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=40)** All mainstream IDEs such as Eclipse and IntelliJ now support xUnit framework integration.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=47)** Large-scale systems are built using build frameworks such as Maven and Gradle and therefore TDD needs to be situated within these build frameworks as per the guidelines provided by them.
+> **[0:47](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=47)** Large-scale systems are built using build frameworks such as Maven and [[Gradle]] and therefore TDD needs to be situated within these build frameworks as per the guidelines provided by them.
 >
 > **[1:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=60)** For a richer set of testing functionalities, and to make the test cases more readable, third party assertion frameworks such as Hamcrest and Assertj extend core xUnit libraries.
 >
-> **[1:13](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=73)** And finally, the system under test may have external dependencies on databases, API's, products and services.
+> **[1:13](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=73)** And finally, the system under test may have external dependencies on [[Databases]], API's, [[Microsoft Products|products]] and services.
 >
 > **[1:23](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/tdd-tools-and-frameworks?u=76281980&t=83)** These external dependencies may not be directly accessible, or may not even be ready at the time of testing.
 >
@@ -1687,7 +1670,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Gradle]] (1), [[Databases]] (1), api (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Gradle]] (1), [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** tdd (5), api (1)
 > **Code Identifiers:** xunit (3)
 > **Analogies:** such as (3)
@@ -1696,12 +1679,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 
-#### Assertion frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980)
+#### [Assertion frameworks](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=0)** - [Instructor] While the assertions provided by JUnit are enough to write most of the test case scenarios, they can become somewhat tedious, hard to read, and sometimes lacking in functionalities for complex test cases.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=0)** - [Instructor] While the assertions provided by [[JUnit]] are enough to write most of the test case scenarios, they can become somewhat tedious, hard to read, and sometimes lacking in functionalities for complex test cases.
 >
 > **[0:14](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=14)** To overcome this limitation, JUnit recommends the use of third-party libraries, such as AssertJ, Hamcrest, and Truth.
 >
@@ -1727,7 +1709,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=101)** Let us now look at some examples of using this assertThat method.
 >
-> **[1:46](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=106)** This example is from the hangman game where there is a word, a clue, and a guess.
+> **[1:46](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=106)** This example is from the hangman game where there is a [[Microsoft Word|word]], a clue, and a guess.
 >
 > **[1:53](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=113)** The score is zero to start with.
 >
@@ -1749,7 +1731,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=203)** The AssertJ library is fairly extensive in its depth and breadth of functionality, and you can find all about it at the URL shown here.
 >
-> **[3:33](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=213)** The second assertion framework that has a wide adoption is Hamcrest that was born in Java, but has now been adopted by many other languages, such as Python and Objective-C.
+> **[3:33](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=213)** The second assertion framework that has a wide adoption is Hamcrest that was born in [[Java]], but has now been adopted by many other languages, such as [[Python (Programming Language)|Python]] and Objective-C.
 >
 > **[3:44](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/assertion-frameworks?u=76281980&t=224)** It also integrates with other testing frameworks, such as TestNG, and mocking frameworks, such as JMock and EasyMock.
 >
@@ -1787,7 +1769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JUnit]] (4), data (4), api (2), strengths (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[JUnit]] (4), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** assertthat (7), startswith (4), newclue (2), containsstring (2), objectundertest (1)
 > **Analogies:** such as (6), for example (3)
 > **Env Vars:** api (2), url (1)
@@ -1796,12 +1778,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Test doubles
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980)
+#### [Test doubles](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=0)** - [Instructor] The system or the object on the test may have external dependencies such as databases, web services or other systems but you may not have access to these external dependencies all the time or they may not even be ready at the time of testing.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=0)** - [Instructor] The system or the object on the test may have external dependencies such as [[Databases]], web services or other systems but you may not have access to these external dependencies all the time or they may not even be ready at the time of testing.
 >
 > **[0:16](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=16)** So the option is to create proxies for these external dependencies or what are formally called as Test Doubles.
 >
@@ -1815,7 +1796,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=42)** Let's say there is a requirement to save the game score once the player completes a round.
 >
-> **[0:47](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=47)** It is also required to keep track of which word is associated with a score.
+> **[0:47](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=47)** It is also required to keep track of which [[Microsoft Word|word]] is associated with a score.
 >
 > **[0:53](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=53)** So I have a new method in hangman called saveScore that takes and instance of type WordScore.
 >
@@ -1837,7 +1818,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=107)** But save where?
 >
-> **[1:49](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=109)** We may want to store this in an XML file, a JSON file, a relational DB or maybe just a text file.
+> **[1:49](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=109)** We may want to store this in an XML file, a [[JSON]] file, a relational DB or maybe just a text file.
 >
 > **[1:57](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=117)** That is a design decision which is yet to be taken.
 >
@@ -1901,11 +1882,11 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=329)** Create a WordScore and pass it to saveScore and then assert that writeScoreDBCalled has now turned true.
 >
-> **[5:39](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=339)** Rest of the two classes, WordScore and hangman stay the same as before.
+> **[5:39](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/test-doubles?u=76281980&t=339)** [[Representational State Transfer (REST)|Rest]] of the two classes, WordScore and hangman stay the same as before.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), game (2), [[Databases]] (1), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Databases]] (1), [[JSON]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** writescoredb (12), savescore (11), writescoredbcalled (3), readscoredb (1)
 > **Definitions:** is a  (4), is called (1)
 > **CLI Commands:** make (2)
@@ -1914,8 +1895,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mocking
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980)
+#### [Mocking](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1969,7 +1949,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=152)** J unit is extended by mocking frameworks such as jMock, EasyMock and Mockito.
 >
-> **[2:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=157)** Python's unit test has unittest.mock.
+> **[2:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=157)** [[Python (Programming Language)|Python]]'s unit test has unittest.mock.
 >
 > **[2:41](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=161)** .NET has JustMock, and so on.
 >
@@ -1977,7 +1957,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=173)** Let us take the same example as before and change it using mocking approach.
 >
-> **[2:58](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=178)** We will use Mockito API as it is the most popular framework among Java developers.
+> **[2:58](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=178)** We will use Mockito API as it is the most popular framework among [[Java]] developers.
 >
 > **[3:05](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=185)** The first change will be the way you define the mock.
 >
@@ -1993,7 +1973,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=223)** Next create an instance of object under test and pass this mock object to it.
 >
-> **[3:49](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=229)** This is called ask dependency injection.
+> **[3:49](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=229)** This is called ask [[Dependency Injection]].
 >
 > **[3:52](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/mocking?u=76281980&t=232)** Now you define the behavior of the mock object using the when then statement where you say that when mock objects get value method is past the string ABC, then it should return nine.
 >
@@ -2015,7 +1995,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), next (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[Dependency Injection]] (1)
 > **Env Vars:** abc (2), def (2), api (2), tdd (1), net (1)
 > **Definitions:** is a  (2), is called (2)
 > **CLI Commands:** make (2), python (1)
@@ -2024,8 +2004,7 @@ created: 2026-05-02
 > **Documentation:** specification (1)
 > **Analogies:** such as (1)
 
-#### ✓ Challenge: Database
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980)
+#### [✓ Challenge: Database](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,7 +2026,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980&t=35)** Here's what I think should be done.
 >
-> **[0:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980&t=37)** So save word plus score and return true.
+> **[0:37](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980&t=37)** So save [[Microsoft Word|word]] plus score and return true.
 >
 > **[0:45](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2917605?u=76281980&t=45)** So when a word and a score for that word is passed to the database it saves it and then it returns true.
 >
@@ -2063,17 +2042,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[Microsoft Word|Word]] (5)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **Speakers:** - i (2), - we (1), - but (1), - yeah (1), - how (1)
 > **CLI Commands:** make (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### ✓ Solution: Database
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980)
+#### [✓ Solution: Database](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=0)** - [Instructor] In challenge three you were to create a Mock Score DB that mocks the behavior of saving the word and the score in the DB, and return true.
+> **[0:00](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=0)** - [Instructor] In challenge three you were to create a Mock Score DB that mocks the behavior of saving the [[Microsoft Word|word]] and the score in the DB, and return true.
 >
 > **[0:15](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=15)** And get a word score which returns a score.
 >
@@ -2101,7 +2079,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=84)** Maven organizes all your files nicely in different folders for the main files, the resources files, and the test files.
 >
-> **[1:35](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=95)** The next step is to make sure that your Java version is aligned with what you're working with.
+> **[1:35](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=95)** The next step is to make sure that your [[Java]] version is aligned with what you're working with.
 >
 > **[1:43](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=103)** Maven by default goes to 1.5, and we want to change that.
 >
@@ -2123,7 +2101,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=147)** Next step, I need to set up the TDDs.
 >
-> **[2:30](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=150)** So for that I will include the JUnit library.
+> **[2:30](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=150)** So for that I will include the [[JUnit]] library.
 >
 > **[2:36](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/2916558?u=76281980&t=156)** And we are all setup at this point.
 >
@@ -2241,7 +2219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (4), [[Java]] (2), [[JUnit]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Java]] (2), [[JUnit]] (1)
 > **CLI Commands:** make (10)
 > **Code Identifiers:** writescoredb (2), mockscoredb (2), savewordscore (2), asserttrue (1)
 > **Env Vars:** pom (2), xml (2), jdk (1)
@@ -2260,8 +2238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/programming-foundations-test-driven-development-3/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >

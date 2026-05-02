@@ -96,18 +96,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize data pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980)
+#### [Optimize data pipelines](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=0)** - [Lynn] Have you been working with data that's growing in volume and complexity and wondering how you're going to compute against this data?
 >
-> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=8)** We'll be taking a look at managed Apache Spark clusters on Databricks Azure.
+> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=8)** We'll be taking a look at managed [[Apache Spark]] clusters on Databricks [[Microsoft Azure|Azure]].
 >
 > **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=14)** We'll look at cluster set-up, different types of notebooks and a number of data workflows.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=19)** These notebooks will include data processing with common scenarios such as Spark SQL, visualization and machine-learning scenarios with Spark ML, third-party libraries such as TensorFlow and Scikit-learn.
+> **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=19)** These notebooks will include [[Data Processing]] with common scenarios such as Spark [[SQL]], visualization and machine-learning scenarios with Spark ML, third-party libraries such as [[TensorFlow]] and Scikit-learn.
 >
 > **[0:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines?u=76281980&t=34)** We'll also look at a data pipelining and architectural patterns.
 >
@@ -117,24 +116,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Apache Spark]] (1), [[Microsoft Azure|Azure]] (1), [[SQL]] (1), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[Microsoft Azure|Azure]] (1), [[Data Processing]] (1), [[SQL]] (1), [[TensorFlow]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** apache (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [lynn] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=0)** - [Instructor] In order to get the most out of this course, there are some concepts that you should have some familiarity with.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=6)** These include Core Azure concepts, such as an understand of Azure Storage, such as Blob Storage, Azure Compute, such as working with Virtual Machines, and Azure Security.
+> **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=6)** These include Core [[Microsoft Azure|Azure]] concepts, such as an understand of Azure Storage, such as Blob Storage, Azure Compute, such as working with [[Virtual Machines]], and Azure Security.
 >
-> **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=19)** In addition, it will be helpful if you have an understand of Core Database concepts, in particular, working with the SQL Query Language, and some familiarity with Database Storage.
+> **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=19)** In addition, it will be helpful if you have an understand of Core Database concepts, in particular, working with the [[SQL]] Query Language, and some familiarity with Database Storage.
 >
-> **[0:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=31)** Additionally, we will be working with programming and scripting languages, particularly Python, as well as some other languages, such as R and Scala.
+> **[0:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=31)** Additionally, we will be working with programming and scripting languages, particularly [[Python (Programming Language)|Python]], as well as some other languages, such as R and [[Scala]].
 >
 > **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/what-you-should-know?u=76281980&t=40)** We're not going deep into the languages, however, if you have some familiarity, you'll get more out of this course.
 >
@@ -142,28 +140,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), database (2), [[SQL]] (2), [[Virtual Machines]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (6), [[SQL]] (2), [[Virtual Machines]] (1), [[Python (Programming Language)|Python]] (1), [[Scala]] (1)
 > **Analogies:** such as (4)
 > **Env Vars:** sql (2)
 > **CLI Commands:** python (1)
 > **Speakers:** - [instructor] (1)
 
-#### About using cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980)
+#### [About using cloud services](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=0)** - [Instructor] In this course we're going to be working with cloud services.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=0)** - [Instructor] In this course we're going to be working with [[Cloud Services]].
 >
-> **[0:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=4)** Although you can start with an Azure trial account and that's always a good way to get started.
+> **[0:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=4)** Although you can start with an [[Microsoft Azure|Azure]] trial account and that's always a good way to get started.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=10)** Some of the features that we're going to be looking at do require a premium Azure Databricks account and I'll call those out as we go through this course.
+> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=10)** Some of the features that we're going to be looking at do require a premium [[Azure Databricks]] account and I'll call those out as we go through this course.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/about-using-cloud-services?u=76281980&t=19)** Also when you're done studying be sure to turn off and delete unused services so that you're not getting unexpected charges on your Azure bill.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), cloud (1), [[Azure Databricks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Cloud Services]] (1), [[Azure Databricks]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -171,12 +168,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet Databricks Apache Spark clusters
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980)
+#### [Meet Databricks Apache Spark clusters](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=0)** - [Instructor] To get us started working with Azure Databricks let's consider this quote from one of the Databricks company founders, Matei Zaharia.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=0)** - [Instructor] To get us started working with [[Azure Databricks]] let's consider this quote from one of the Databricks company founders, Matei Zaharia.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=8)** He said, I think that by 2020 most data will be in either public clouds or cloud-like private environments.
 >
@@ -186,13 +182,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=27)** Whether it's informational data from our phones or genetic data from our bodily fluids we are having more and more data that is interesting and we need to process.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=39)** So Matei vision started actually when he was a student back at UC Berkeley in California, and he envisioned distributed computing that could help us to process these volumes of data, and that's called Apache Spark.
+> **[0:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=39)** So Matei vision started actually when he was a student back at UC Berkeley in California, and he envisioned distributed computing that could help us to process these volumes of data, and that's called [[Apache Spark]].
 >
-> **[0:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=53)** So when we're thinking about this new world of data we go beyond the typical relational databases and we think in terms of streaming systems, data lakes and data warehouses.
+> **[0:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=53)** So when we're thinking about this new world of data we go beyond the typical [[Relational Databases]] and we think in terms of streaming systems, [[Data Lakes]] and data warehouses.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=63)** And as we'll see in this course Azure Databricks allows us to account for these new types of data needs all across the spectrum.
 >
-> **[1:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=72)** Databricks itself is built on top of the open source Apache Spark Core, and it includes in this implementation integration with Microsoft Azure, auto scaling, multi-language notebooks, built-in machine learning frameworks and integrated security.
+> **[1:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=72)** Databricks itself is built on top of the open source Apache Spark Core, and it includes in this implementation integration with [[Microsoft Azure]], auto scaling, multi-language notebooks, built-in machine learning frameworks and integrated security.
 >
 > **[1:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=92)** Now as we start to work with this system of course this is built on the open source Apache Spark distributed compute framework.
 >
@@ -202,24 +198,23 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=113)** Spark itself is an ever growing ecosystem.
 >
-> **[1:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=116)** As of this recording the Spark Core API includes integration with the following programming languages, R, SQL, Python, Scala, and Java.
+> **[1:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=116)** As of this recording the Spark Core API includes integration with the following programming languages, R, [[SQL]], [[Python (Programming Language)|Python]], [[Scala]], and [[Java]].
 >
 > **[2:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/meet-databricks-apache-spark-clusters?u=76281980&t=128)** Sitting on top of that are higher level frameworks where we can work with Spark SQL and DataFrames, Streaming, Mllib for Machine Learning and GraphX for Graph Computation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Apache Spark]] (3), [[Azure Databricks]] (2), cloud (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Apache Spark]] (3), [[Azure Databricks]] (2), [[SQL]] (2), [[Relational Databases]] (1), [[Data Lakes]] (1)
 > **CLI Commands:** apache (3), python (1)
 > **Env Vars:** sql (2), api (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business scenarios for Spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980)
+#### [Business scenarios for Spark](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=0)** - [Instructor] So as a working cloud architect, what types of business scenarios have I found that are a best fit for Apache Spark technologies?
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=0)** - [Instructor] So as a working cloud architect, what types of business scenarios have I found that are a best fit for [[Apache Spark]] technologies?
 >
 > **[0:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=9)** In a nutshell, those are around distributed compute, and really what's driving it is the volume of data.
 >
@@ -227,28 +222,27 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=24)** The kinds of tasks that I've used Spark for in these types of workflows included data cleansing, or Extract, Transform, and Load; fast data serving pipelines; scalable complex processing; and distributed machine learning.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=40)** You can think of Azure Databricks as a set of three components.
+> **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=40)** You can think of [[Azure Databricks]] as a set of three components.
 >
 > **[0:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=45)** You have the Databricks tools, services, and optimizations that surround the core open source Apache Spark distribution, and Apache Spark itself provides the distributed computation needed for these intensive workloads, and this sits on top of some sort of file system.
 >
-> **[1:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=64)** Now natively in Databricks, you have the DBFS, or the Databricks file system, which is somewhat similar to HDFS, which is somewhat similar to HDFS, Hadoop File System, upon which Apache Spark was originally built; however, it's been many years since Hadoop was open source, and so there's a great number of enhancements.
+> **[1:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=64)** Now natively in Databricks, you have the DBFS, or the Databricks file system, which is somewhat similar to HDFS, which is somewhat similar to HDFS, [[Hadoop]] File System, upon which Apache Spark was originally built; however, it's been many years since Hadoop was open source, and so there's a great number of enhancements.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=87)** Interestingly, as an alternative to working with DBFS file systems, when integrated with Azure, there are some new ways that you can work with distributed file systems, given some of the Azure services, such as Azure storage blobs, and many more, as we'll see in this course.
+> **[1:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/business-scenarios-for-spark?u=76281980&t=87)** Interestingly, as an alternative to working with DBFS file systems, when integrated with [[Microsoft Azure|Azure]], there are some new ways that you can work with distributed file systems, given some of the Azure services, such as Azure storage blobs, and many more, as we'll see in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Apache Spark]] (4), data (3), [[Microsoft Azure|Azure]] (3), [[Hadoop]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (4), [[Microsoft Azure|Azure]] (3), [[Hadoop]] (2), [[Azure Databricks]] (1)
 > **CLI Commands:** apache (4)
 > **Env Vars:** dbfs (2), hdfs (2)
 > **Analogies:** similar to (2), for example (1), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand Spark key components
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980)
+#### [Understand Spark key components](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=0)** - Now as mentioned in the introduction to this course, if you're unfamiliar or new to working with Apache Spark, you may want to review some other courses in the library to get some foundational learning.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=0)** - Now as mentioned in the introduction to this course, if you're unfamiliar or new to working with [[Apache Spark]], you may want to review some other courses in the library to get some foundational learning.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=12)** If you have done some work with opensource Spark, you will quickly see how the integration really enhances the capability of Spark's key components, which are shown here.
 >
@@ -270,19 +264,19 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=101)** So the Spark Core is slightly different in terms of performance from the Databricks product, which builds on the Spark Core.
 >
-> **[1:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=110)** And I know, in my case, I have actually run performance testing on various vendor clouds and in this course, we're focusing on Azure, of course, with Spark Core in contrast to Databricks and I do see performance enhancements with Databricks.
+> **[1:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=110)** And I know, in my case, I have actually run performance testing on various vendor clouds and in this course, we're focusing on [[Microsoft Azure|Azure]], of course, with Spark Core in contrast to Databricks and I do see performance enhancements with Databricks.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=123)** It's interesting.
 >
 > **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=124)** So you can see that the RDDs and the DAGScheduler live in the Spark Context, which lives in the Spark application.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=132)** That interacts with the cluster manager, which then sends the scheduled jobs out to the worker nodes, which use executors and have cached data, again, Spark is designed to work in memory, to execute the various data processing tasks.
+> **[2:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=132)** That interacts with the cluster manager, which then sends the scheduled jobs out to the worker nodes, which use executors and have cached data, again, Spark is designed to work in memory, to execute the various [[Data Processing]] tasks.
 >
 > **[2:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-key-components?u=76281980&t=149)** So it is a rather complex environment and, as we work through some of the examples in this course, it will be beneficial if you get a little bit of background with key Spark operations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Apache Spark]] (2), database (1), product (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (2), [[Microsoft Azure|Azure]] (1), [[Data Processing]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** apache (2)
 > **Env Vars:** rdd (1), dag (1)
@@ -290,12 +284,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Azure Databricks concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980)
+#### [Azure Databricks concepts](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=0)** - [Instructor] So the Databricks offering around Apache Spark has three component areas, as I mentioned previously.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=0)** - [Instructor] So the Databricks offering around [[Apache Spark]] has three component areas, as I mentioned previously.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=6)** So let's dive a little bit deeper into them.
 >
@@ -311,17 +304,17 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=59)** And surrounding that is Databricks Enterprise Security, which is more and more an absolute requirement for many of my customers.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=66)** Now in this course, we're going to look at Databricks running on Azure.
+> **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=66)** Now in this course, we're going to look at Databricks running on [[Microsoft Azure|Azure]].
 >
 > **[1:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=70)** Databricks is optimized for AWS, or Azure at the time of this recording.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=76)** So, the Azure implementation provides you with managed, scalable Apache Spark servers, integrated tooling and examples, and as I mentioned, is optimized to run in the Azure cloud.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=88)** So understanding a bit more about what this type of solution provides for you, Databricks Azure integration gives you fully managed Spark clusters hosted on Azure, Databricks workspaces for collaboration, with the Databricks notebooks, enterprise security including very important Active Directory integration if needed.
+> **[1:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=88)** So understanding a bit more about what this type of solution provides for you, Databricks Azure integration gives you fully managed Spark clusters hosted on Azure, Databricks workspaces for collaboration, with the Databricks notebooks, enterprise security including very important [[Active Directory]] integration if needed.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=112)** And also, very key in this implementation is integration with Azure services such as SQL Data Warehouse, Cosmos DB, Azure Blob Storage, Power BI, and others.
+> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=112)** And also, very key in this implementation is integration with Azure services such as [[SQL]] Data Warehouse, Cosmos DB, Azure Blob Storage, [[Microsoft Power BI|Power BI]], and others.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=124)** And if we look at this architectural diagram, it gives us kind of an all up view of what the Azure Databricks offering looks like.
+> **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=124)** And if we look at this architectural diagram, it gives us kind of an all up view of what the [[Azure Databricks]] offering looks like.
 >
 > **[2:11](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=131)** So you can see, kind of like the core Databricks offering, it has a layer around integration for working with people, and applications.
 >
@@ -333,7 +326,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=161)** Our target applications in the Azure ecosystem.
 >
-> **[2:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=164)** Those are applications such as Deep Learning/ML, streaming, data warehousing, Power BI, and others.
+> **[2:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=164)** Those are applications such as [[Deep Learning]]/ML, streaming, [[Data Warehousing]], Power BI, and others.
 >
 > **[2:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=170)** And notice at the bottom layer, we have several different file storage options.
 >
@@ -343,17 +336,17 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=178)** Now we can go beyond just a single storage choice.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=182)** And this really can impact performance, cost, scalability.
+> **[3:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=182)** And this really can impact performance, cost, [[Scalability]].
 >
-> **[3:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=187)** You can see this is designed to work with Azure Blob Store, Azure Data Lake Store, Azure SQL Data Warehouse, Apache Kafka, and Hadoop.
+> **[3:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=187)** You can see this is designed to work with Azure Blob Store, Azure Data Lake Store, Azure SQL Data Warehouse, [[Apache Kafka]], and [[Hadoop]].
 >
 > **[3:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=196)** So given the fact that Apache Spark is open-source, why would it be a good choice for a customer to select managed Apache Spark and cloud-based, so Azure Databricks in this case.
 >
 > **[3:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=209)** Well I see it, from my architect standpoint, as faster time to value.
 >
-> **[3:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=214)** It's a much quicker setup for prototyping experiments, as you'll see when we do some examples in this course.
+> **[3:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=214)** It's a much quicker setup for [[Prototyping]] experiments, as you'll see when we do some examples in this course.
 >
-> **[3:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=220)** The included Jupyter-style notebooks really provide a lot of value in terms of not only getting your data scientists up and going, but actually translating their work into usable dataflows that can be deployed by your DevOps people.
+> **[3:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=220)** The included Jupyter-style notebooks really provide a lot of value in terms of not only getting your data scientists up and going, but actually translating their work into usable dataflows that can be deployed by your [[DevOps]] people.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=236)** Intuitive and integrated console, very easy to use, and the Apache Spark core committers work for Databricks, as I mentioned earlier, which results in a very performant implementation.
 >
@@ -367,7 +360,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=268)** You will be managing your VMs, you'll be setting up the operating systems, you be patching them, it's quite a lot more work.
 >
-> **[4:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=274)** In terms of the environment, if you use Azure Databricks, you'll use Azure managed virtual machines or containers.
+> **[4:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=274)** In terms of the environment, if you use Azure Databricks, you'll use Azure managed [[Virtual Machines]] or containers.
 >
 > **[4:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=280)** So they'll be patched, they'll be optimized.
 >
@@ -377,13 +370,13 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=305)** For regular Apache Spark implementations you would have to set this up yourself again.
 >
-> **[5:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=309)** The command-line interface Databricks includes CLI, or command-line interface.
+> **[5:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=309)** The command-line interface Databricks includes [[CLI]], or command-line interface.
 >
 > **[5:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-concepts?u=76281980&t=314)** Of course Spark has its own Spark-submit CLI, but Databricks CLI allows you to automate some of the enterprise applications such as management of security.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Apache Spark]] (9), data (6), [[Security]] (5), cloud (4)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Apache Spark]] (9), [[Azure Databricks]] (4), [[CLI]] (3), [[SQL]] (2)
 > **CLI Commands:** apache (10), aws (1), docker (1)
 > **Env Vars:** cli (3), sql (2), ive (1), aws (1)
 > **Analogies:** such as (3), think of it as (1), kind of like (1)
@@ -392,8 +385,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1), set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quick start: Use a notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980)
+#### [Quick start: Use a notebook](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -401,9 +393,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=3)** Now I've done a number of steps to get us set up, which I'll cover in subsequent parts of this course, but I think it's really interesting to see sort of what the end result is.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=14)** Here I am in the Microsoft Azure portal for Databricks, and I've already created a cluster of Apache Spark on Databricks.
+> **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=14)** Here I am in the [[Microsoft Azure]] portal for Databricks, and I've already created a cluster of [[Apache Spark]] on Databricks.
 >
-> **[0:23](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=23)** So I've set that up already by just clicking the blue "Create Cluster" button and you can see here is the version, which is 4.3 Includes Spark 2.3.1, and Scala 2.11 Python Version 2.
+> **[0:23](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=23)** So I've set that up already by just clicking the blue "Create Cluster" button and you can see here is the version, which is 4.3 Includes Spark 2.3.1, and [[Scala]] 2.11 [[Python (Programming Language)|Python]] Version 2.
 >
 > **[0:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=36)** And you can see that I have a driver of a standard DS3_v2 with 14 gigs of memory, four cores, and I have a number of workers that can go from two to eight.
 >
@@ -419,7 +411,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=105)** And again, you can see this is marked down, that just renders, and you can see there's a little plus here if I wanted to add a new cell.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=113)** What I'm going to do is, I'm going to interact with my cluster, and the first thing I'm going to do, this is a SQL runtime notebook, you can see SQL up at the top here.
+> **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=113)** What I'm going to do is, I'm going to interact with my cluster, and the first thing I'm going to do, this is a [[SQL]] runtime notebook, you can see SQL up at the top here.
 >
 > **[2:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=122)** I'm going to scroll down, and I'm going to use Spark SQL to create a table from a Databricks dataset.
 >
@@ -475,7 +467,7 @@ created: 2026-05-02
 >
 > **[5:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=358)** Here we're using Python again, so similar to what we did with SQL.
 >
-> **[6:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=362)** We're just calling a display on PySpark functions, and we're selecting the color and price, grouping by the color, and aggregating the average price.
+> **[6:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=362)** We're just calling a display on [[PySpark]] functions, and we're selecting the color and price, grouping by the color, and aggregating the average price.
 >
 > **[6:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=372)** You can see that we run that there, and running Spark Jobs, and again we get the numerical output, which we can quickly change to a graphical output as well.
 >
@@ -485,13 +477,13 @@ created: 2026-05-02
 >
 > **[6:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=392)** You also can have comments associated and this is great for collaborative work, and over here if you make revisions, and let me just make some kind of revision in here, it'll show up and then some more.
 >
-> **[6:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=408)** Then we can click here and you can see here is the revision history, so you basically have an undo, and these notebooks can be checked into GitHub, or whatever source control you're using.
+> **[6:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=408)** Then we can click here and you can see here is the revision history, so you basically have an undo, and these notebooks can be checked into [[GitHub]], or whatever source control you're using.
 >
 > **[6:57](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/quick-start-use-a-notebook?u=76281980&t=417)** This is a really useful and performant interface to working with your Databricks Spark clusters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), data (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Azure]] (1), [[Apache Spark]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (4), [[Microsoft Azure]] (1), [[Apache Spark]] (1), [[Scala]] (1)
 > **Env Vars:** sql (7), ide (1), csv (1), rdd (1), dag (1)
 > **CLI Commands:** python (4), make (2), apache (1)
 > **Versions:** 4.3 (1), 2.3.1 (1), 2.11 (1), version 2 (1), 0.3 (1)
@@ -500,8 +492,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (2), go to (1)
 > **Analogies:** such as (1), similar to (1)
 
-#### Set up Databricks AI Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980)
+#### [Set up Databricks AI Playground](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -511,11 +502,11 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=14)** So from the Databricks documentation, if I scroll down, you can see that for the requirements for this feature, your workspace has to be in a region on a cloud provider that supports one or more of the following features, Foundation Model API, pay-per-token, foundation model APIs provision throughput, and external models.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=35)** I'm going to navigate over to the Mosaic AI gateway page for Databricks and it's a little bit unintuitive, so I'm going to kind of give you a high level through this because the features don't match one-to-one on the list of generative AI features from the previous page, but you can see that if you look at the Mosaic AI gateway, that first of all, you can't use a standard edition on the plan, you have to use a premium or enterprise.
+> **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=35)** I'm going to navigate over to the Mosaic AI gateway page for Databricks and it's a little bit unintuitive, so I'm going to kind of give you a high level through this because the features don't match one-to-one on the list of [[Generative AI]] features from the previous page, but you can see that if you look at the Mosaic AI gateway, that first of all, you can't use a standard edition on the plan, you have to use a premium or enterprise.
 >
-> **[1:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=62)** And notice now I have AWS selected, if I select Azure, then you have to use premium.
+> **[1:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=62)** And notice now I have AWS selected, if I select [[Microsoft Azure|Azure]], then you have to use premium.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=68)** Notice Google Cloud is grayed out, so from a high level, if you're going to test this feature, you need to either deploy on Azure or AWS, first of all, secondly, you need to just generally use the premium, I'm not going to use the enterprise for testing, you can't use the standard, and then you have to be cognizant of the region, I'm recording in US, and it is available in US regions.
+> **[1:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=68)** Notice [[Google Cloud Platform (GCP)|Google Cloud]] is grayed out, so from a high level, if you're going to test this feature, you need to either deploy on Azure or AWS, first of all, secondly, you need to just generally use the premium, I'm not going to use the enterprise for testing, you can't use the standard, and then you have to be cognizant of the region, I'm recording in US, and it is available in US regions.
 >
 > **[1:30](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/setup-databricks-machine-learning-playground?u=76281980&t=90)** So you do have to check and make sure that your test deployment includes these features, otherwise, what will happen when you try to use this feature, the AI Playground, it will not be available in your workspace.
 >
@@ -523,25 +514,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), feature (4), aws (2), [[Microsoft Azure|Azure]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Generative AI]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **CLI Commands:** aws (2), make (1)
 > **Env Vars:** aws (2), api (1)
 > **UI Navigation:** scroll down (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use Databricks AI Playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980)
+#### [Use Databricks AI Playground](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=0)** - [Instructor] In the Databricks environment, I have opened the Machine Learning Playground.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=4)** Here, you can test various foundational generative AI models using prompts and other tools.
+> **[0:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=4)** Here, you can test various foundational [[Generative AI]] models using prompts and other tools.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=10)** Now to start, if I select the default model, which is, at this recording, Meta Llama 3.3 70B Instruct, and I click the dropdown.
+> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=10)** Now to start, if I select the default model, which is, at this recording, Meta [[LLaMA]] 3.3 70B Instruct, and I click the dropdown.
 >
-> **[0:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=20)** You can see that I have by default two versions of Meta Llama, one version of databases, one foundational generative AI model, DBRX, and also Mixtral.
+> **[0:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=20)** You can see that I have by default two versions of Meta Llama, one version of [[Databases]], one foundational generative AI model, DBRX, and also Mixtral.
 >
 > **[0:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=31)** Now, you can extend this as well with other types of endpoints.
 >
@@ -585,7 +575,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=158)** I didn't have that before.
 >
-> **[2:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=159)** And then if I scroll down, it gives me information about the tokens, because, of course, in some cases on the Databricks side, this is proprietary, so after you run through your free tokens, there will be a charge for it, whereas in the open source, you're discounting tokens from a performance standpoint.
+> **[2:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=159)** And then if I scroll down, it gives me information about the [[Tokens]], because, of course, in some cases on the Databricks side, this is proprietary, so after you run through your free tokens, there will be a charge for it, whereas in the open source, you're discounting tokens from a performance standpoint.
 >
 > **[2:57](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-machine-learning-playground?u=76281980&t=177)** Here's the new AI Judge, and then here's AI on AI suggested common questions.
 >
@@ -597,7 +587,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LLaMA]] (5), ai (4), [[Tokens]] (3), [[Generative AI]] (2), prompt (2)
+> **Frameworks & Libraries:** [[LLaMA]] (5), [[Tokens]] (3), [[Generative AI]] (2), [[Databases]] (1)
 > **Env Vars:** dbrx (6)
 > **UI Navigation:** select the (1), dropdown (1), open the (1), scroll up (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -610,14 +600,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Review Databricks Azure cluster setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980)
+#### [Review Databricks Azure cluster setup](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=0)** - [Instructor] In this section, we're going to work with an active cluster and you're reminded that there are three parts to this process.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=8)** We have Databricks, which manages the Spark's distributed compute and then we have Azure, which hosts and controls the compute and the storage.
+> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=8)** We have Databricks, which manages the Spark's distributed compute and then we have [[Microsoft Azure|Azure]], which hosts and controls the compute and the storage.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=18)** The account setup has a number of steps and I've done most of these in advance so we'll review the setup, getting to the point where we set up an actual cluster.
 >
@@ -625,15 +614,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=34)** I have set up an premium Databricks account.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=38)** It's important to note that to use a demo account to explore your own Azure Databricks cluster, before creating your cluster, you're going to need to go to your Azure profile and change your subscription to pay-as-you-go.
+> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=38)** It's important to note that to use a demo account to explore your own [[Azure Databricks]] cluster, before creating your cluster, you're going to need to go to your Azure profile and change your subscription to pay-as-you-go.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=51)** If we think a little bit more about the Databricks Azure architecture, we'll see the control planes represented in this diagram.
 >
 > **[0:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=58)** You can see that that Azure uses the Resource Manager to host storage, compute, and network resources.
 >
-> **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=66)** There is a Microsoft Databricks layer that interacts with the Databricks Workspace.
+> **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=66)** There is a [[Microsoft]] Databricks layer that interacts with the Databricks Workspace.
 >
-> **[1:13](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=73)** Of course, underlying, there are optimized virtual machines and Blob storage for your data files.
+> **[1:13](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=73)** Of course, underlying, there are optimized [[Virtual Machines]] and Blob storage for your data files.
 >
 > **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/review-databricks-azure-cluster-setup?u=76281980&t=80)** Now we'll be working a little bit in the Azure portal but for most of this course, we'll be working in a Databricks control plane and we saw that earlier in the course in the user interface with the Databricks notebook.
 >
@@ -679,7 +668,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), data (3), business (1), [[Azure Databricks]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (12), [[Azure Databricks]] (1), [[Microsoft]] (1), [[Virtual Machines]] (1)
 > **Prerequisites:** set up (5), setup (4)
 > **Tools:** azure portal (2)
 > **UI Navigation:** go to (1), select the (1)
@@ -688,16 +677,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a Python notebook with dashboards
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980)
+#### [Use a Python notebook with dashboards](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=0)** - [Instructor] After you've created your cluster, you'll use the Databricks console, primarily the GUI interface and notebooks to interact with it.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=8)** If you have the premium edition, you can also use the Databricks CLI.
+> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=8)** If you have the premium edition, you can also use the Databricks [[CLI]].
 >
-> **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=12)** You're going to want to use the Databricks as your console to interact with the Databricks Spark clusters, rather than the core Azure console.
+> **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=12)** You're going to want to use the Databricks as your console to interact with the Databricks Spark clusters, rather than the core [[Microsoft Azure|Azure]] console.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=20)** That's really just used primarily in the set up stage.
 >
@@ -705,11 +693,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=28)** So you might be wondering, what data sources are supported?
 >
-> **[0:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=32)** One of the reasons for using Azure Databricks, is the high number of integratable data sources, and you can see them listed here.
+> **[0:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=32)** One of the reasons for using [[Azure Databricks]], is the high number of integratable data sources, and you can see them listed here.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=41)** Now this is constantly being enhanced and added to, so this is what's available at the time of this recording.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=47)** Notably, you have things like Azure Blob Storage, you have Azure Data Lakes, Cosmos DB, Azure SQL Data Warehouse, and many other opensource databases, such as MongoDB, and Neo4j, a lot of different types of integrations.
+> **[0:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=47)** Notably, you have things like Azure Blob Storage, you have Azure [[Data Lakes]], Cosmos DB, Azure [[SQL]] Data Warehouse, and many other opensource [[Databases]], such as [[MongoDB]], and [[Neo4j]], a lot of different types of integrations.
 >
 > **[1:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=62)** We're going to start just using files, because that's the simplest way to get started.
 >
@@ -717,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=74)** So after we consider what type of data we're going to process in our cluster, we want to think about how we're going to process that.
 >
-> **[1:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=81)** Now most commonly in my work as a big data and clutter architect, I'm working usually with Python, but I have had some clients that wanted to work with Scala, I've had some R clients, we also we're going to take a look at Spark SQL, we can use Bash shells, so Bash commands as well, that's usually to install libraries, so there's a number of supported languages.
+> **[1:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=81)** Now most commonly in my work as a [[Big Data]] and clutter architect, I'm working usually with [[Python (Programming Language)|Python]], but I have had some clients that wanted to work with [[Scala]], I've had some R clients, we also we're going to take a look at Spark SQL, we can use Bash shells, so Bash commands as well, that's usually to install libraries, so there's a number of supported languages.
 >
 > **[1:43](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=103)** And again, one of the great aspects of using Databricks Notebooks, is you could actually mix languages in a workflow.
 >
@@ -725,13 +713,13 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=116)** Now talking about notebooks, one of the great aspects of working with Databricks is the support for so many different notebook file types.
 >
-> **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=124)** And again, where I've gotten great usability in this product is by using it to run samples that I've seen out in the opensource world or many built by some data science teams, at some of my customers, or maybe even built by some student teams.
+> **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=124)** And again, where I've gotten great usability in this product is by using it to run samples that I've seen out in the opensource world or many built by some [[Data Science]] teams, at some of my customers, or maybe even built by some student teams.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=141)** So the import supports a code in Scala, Python, SQL, or R.
 >
 > **[2:26](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=146)** Or notebook formats of IPython notebooks, R Markdown, or Databricks notebooks, that's DBC.
 >
-> **[2:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=154)** Also pure HTML.
+> **[2:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=154)** Also pure [[HTML]].
 >
 > **[2:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=156)** You can export when you are done with working with a notebook depending on the run time.
 >
@@ -759,7 +747,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=233)** If you import from the file system, you can then import any of the notebook formats.
 >
-> **[4:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=240)** So I've done that already, and I've got a dashboards.html, notebook that's in Python, and I'm going to go ahead and attach it.
+> **[4:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=240)** So I've done that already, and I've got a [[Dashboards]].html, notebook that's in Python, and I'm going to go ahead and attach it.
 >
 > **[4:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-python-notebook-with-dashboards?u=76281980&t=250)** And what this does is this is showing us some of the visualization capabilities, and I'm just going to run all, and this is going to run all of my active cells, and you can see here they're running.
 >
@@ -793,7 +781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), teams (4), [[HTML]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Microsoft Azure|Azure]] (5), [[HTML]] (4), [[SQL]] (3), [[Scala]] (3)
 > **Env Vars:** sql (3), dbc (3), html (3), gui (1), cli (1)
 > **CLI Commands:** python (6)
 > **UI Navigation:** scroll down (2), click on (2), go to (1)
@@ -802,8 +790,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), install (1)
 > **File Paths:** dashboards.html (1)
 
-#### Use an R notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980)
+#### [Use an R notebook](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=40)** So I actually ran it already and what I'm showing you here is working with a different set of libraries.
 >
-> **[0:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=48)** So really common in the data science world do you have people that have an R background statistical programming language, and we're using sparklyr in this databricks R notebook.
+> **[0:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=48)** So really common in the [[Data Science]] world do you have people that have an R background statistical programming language, and we're using sparklyr in this databricks R notebook.
 >
 > **[0:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=59)** So what we've done here is in the first section, we're installing packages from CRAN, which is an R repository.
 >
@@ -879,7 +866,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=194)** And then we're going to use ggplot, which is a really common library to plot this out.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=199)** So again this is really just designed to show that a common R workload can be easily supported in an azure databricks cluster.
+> **[3:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=199)** So again this is really just designed to show that a common R workload can be easily supported in an [[Azure Databricks]] cluster.
 >
 > **[3:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=208)** And you can see here is a nice visualization of the sepal length and the sepal width.
 >
@@ -887,11 +874,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=215)** And you can see the information on how long this took.
 >
-> **[3:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=218)** So the idea is that no matter, really almost whichever data science method you use, whether you use python livros, whether you use R, whether use skola, you can run all these different processes in this environment and it really does get you to business value faster because you can leverage whatever skills your particular team has.
+> **[3:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-r-notebook?u=76281980&t=218)** So the idea is that no matter, really almost whichever data science method you use, whether you use [[Python (Programming Language)|python]] livros, whether you use R, whether use skola, you can run all these different processes in this environment and it really does get you to business value faster because you can leverage whatever skills your particular team has.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1), teams (1), api (1), [[Azure Databricks]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Azure Databricks]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Prerequisites:** install (2), set up (1)
 > **Env Vars:** cran (1), api (1)
@@ -899,22 +886,21 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - so (1)
 
-#### Use a Scala notebook for visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980)
+#### [Use a Scala notebook for visualization](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=0)** - [Instructor] So next I'm going to show charting and graph types with Scala.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=0)** - [Instructor] So next I'm going to show charting and graph types with [[Scala]].
 >
 > **[0:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=3)** And this comes out of the Databricks documentation.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=6)** You might say, gosh, you know Lynn why are you showing all this visualization?
 >
-> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=10)** Isn't this about data processing?
+> **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=10)** Isn't this about [[Data Processing]]?
 >
 > **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=12)** And yes we are going to cover that in subsequent movies, but the reason I'm showing so much visualization is this is becoming a key aspect of more and more data workflows, and not just at the end.
 >
-> **[0:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=24)** Because data is lots of data, complex data, messy data, I see using visualizations at various points from the beginning to get a sense of what the data looks like, the middle to see if the processing is producing meaningful results, and the end to presenting the results to being integral to the work of data science.
+> **[0:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=24)** Because data is lots of data, complex data, messy data, I see using visualizations at various points from the beginning to get a sense of what the data looks like, the middle to see if the processing is producing meaningful results, and the end to presenting the results to being integral to the work of [[Data Science]].
 >
 > **[0:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=44)** So I see that it's really key.
 >
@@ -1024,11 +1010,11 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=381)** So I just think this is a great reference notebook as you are getting ready to build your data experiments.
 >
-> **[6:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=389)** Making proper use of visualizations is an important technique that is well supported in Databricks Azure.
+> **[6:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-scala-notebook-for-visualization?u=76281980&t=389)** Making proper use of visualizations is an important technique that is well supported in Databricks [[Microsoft Azure|Azure]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Scala]] (4), next (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Scala]] (4), [[Data Science]] (4), [[Data Processing]] (1), [[Microsoft Azure|Azure]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Env Vars:** dbc (2), loess (1)
 > **UI Navigation:** go to (1), scroll down (1)
@@ -1037,12 +1023,11 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Documentation:** the documentation (1)
 
-#### Use a notebook with scikit-learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980)
+#### [Use a notebook with scikit-learn](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=0)** - [Instructor] Now up until this point, we've been looking at a lot of the mechanics of how to get started with Azure Databricks.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=0)** - [Instructor] Now up until this point, we've been looking at a lot of the mechanics of how to get started with [[Azure Databricks]].
 >
 > **[0:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=7)** So we've set up the cluster, we've set up the environment, we brought in notebooks, we've looked at how notebooks work, what are the mechanics of working with them, how we attach to a cluster.
 >
@@ -1052,15 +1037,15 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=34)** It can be used in standard analytics, so such as just aggregates, grouping, I call it business reporting, basically.
 >
-> **[0:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=41)** However, more and more, we're seeing that these types of workloads include machine learning, and although there are machine learning libraries that are built native for Spark, what I'm finding in my work as a cloud architect, is a lot of the data's science teams come from what I call traditional data science background.
+> **[0:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=41)** However, more and more, we're seeing that these types of workloads include machine learning, and although there are machine learning libraries that are built native for Spark, what I'm finding in my work as a cloud architect, is a lot of the data's science teams come from what I call traditional [[Data Science]] background.
 >
-> **[1:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=60)** They've, you know, studied statistics or math in university, a lot of them are recent graduates, and what is being taught most commonly is a Python library called scikit-learn, so I see a lot of experiments on people's desktops in scikit-learn, and I think that Databricks sees this too, because they created this really great sample notebook that we're going to take a look at now.
+> **[1:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=60)** They've, you know, studied [[Statistics]] or math in university, a lot of them are recent graduates, and what is being taught most commonly is a [[Python (Programming Language)|Python]] library called scikit-learn, so I see a lot of experiments on people's desktops in scikit-learn, and I think that Databricks sees this too, because they created this really great sample notebook that we're going to take a look at now.
 >
 > **[1:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=84)** It's a Python notebook and it uses the scikit-learn library to run machine learning on a workload, and then what they've done, is they have said now you can take this workload and start to parallelize it, which is the point of running a larger workload up on Databricks, so I think it's a fantastic example.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=104)** As I've done with other workbooks, what I've done here is I've imported this.
 >
-> **[1:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=108)** So if I just go into my demo area, and I import, and it's right over here, and I go to this section, it's this workbook right here, and you notice that this is an HTML file, which is supported here.
+> **[1:48](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=108)** So if I just go into my demo area, and I import, and it's right over here, and I go to this section, it's this workbook right here, and you notice that this is an [[HTML]] file, which is supported here.
 >
 > **[2:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=123)** So I've done that already, and then you'll probably remember how we need to set this up to interact with our running cluster, which is just by clicking on this button and attaching it to our environment.
 >
@@ -1084,7 +1069,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=221)** But again, we're just starting with emulating what's on a laptop.
 >
-> **[3:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=225)** So what we're going to do is load the data into Pandas, which is part of the library, explore it, transform it, hold out a random test dataset, learn an initial model, and evaluate the model.
+> **[3:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=225)** So what we're going to do is load the data into [[Pandas (Software)|Pandas]], which is part of the library, explore it, transform it, hold out a random test dataset, learn an initial model, and evaluate the model.
 >
 > **[3:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=236)** So we're going to load the diamonds dataset from the ggplot2 package, and this, Databricks hosts this dataset, it's a commonly available public dataset.
 >
@@ -1128,7 +1113,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=401)** Then we're going to hold out a random test set, so that we can evaluate the effectiveness of our machine learning model, again, standard in this kind of workload.
 >
-> **[6:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=409)** So we're holding out in command 19, 30 percent of the data for testing, and we'll use the rest for training, so we're splitting.
+> **[6:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=409)** So we're holding out in command 19, 30 percent of the data for testing, and we'll use the [[Representational State Transfer (REST)|rest]] for training, so we're splitting.
 >
 > **[6:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-notebook-with-scikit-learn?u=76281980&t=415)** Then we're going to go into our model, so we're going to train a model with fixed hyperparamaters, and print out the intercept and coefficients, so here on line two, we're using scikit-learn, we're using a linear model, and we're then just printing out the results.
 >
@@ -1188,7 +1173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (5), product (3), node (3), parallel (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Science]] (3), [[Pandas (Software)|Pandas]] (2), [[Azure Databricks]] (1), [[Statistics]] (1)
 > **CLI Commands:** python (5), node (3), make (2), find (1)
 > **Definitions:** is a  (5), is an  (1)
 > **Prerequisites:** set up (3)
@@ -1197,8 +1182,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Warnings:** be careful (1)
 
-#### Use a Spark Streaming notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980)
+#### [Use a Spark Streaming notebook](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1190,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=8)** The first method is batched, or regular input, and in the second method, we're going to take a look at the new structured streaming API.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=17)** This is available for Python DataFrames.
+> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=17)** This is available for [[Python (Programming Language)|Python]] DataFrames.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=20)** So as we did in previous examples, what I've done is I've just imported this.
 >
@@ -1216,7 +1200,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=37)** So this is a relatively new API, and it's been very popular with my customers.
 >
-> **[0:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=42)** The idea is that you can do complex distributed data processing in your cluster on both batch and streaming data.
+> **[0:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=42)** The idea is that you can do complex distributed [[Data Processing]] in your cluster on both batch and streaming data.
 >
 > **[0:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=51)** It does require, as it says here in command one, that you attach it to a Spark 2.x or greater cluster, as we've done.
 >
@@ -1228,7 +1212,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=67)** Now, you'll notice that we are in a Python runtime notebook by this Python designator up here, but we're going to use a file system command, and this is in command three, and we're using the percent sign because this is a Bash shell command, and so you can just natively use Bash shell commands if you use the percent sign, it's the magic command.
 >
-> **[1:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=88)** And we're going to switch to this directory, or list the contents of this directory, and you can see that we have some JSON files inside of this directory.
+> **[1:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=88)** And we're going to switch to this directory, or list the contents of this directory, and you can see that we have some [[JSON]] files inside of this directory.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=99)** It's a public directory so that we can build this application.
 >
@@ -1236,13 +1220,13 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=111)** A time, resource number, an action, open close or whatever is happening with a particular event.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=119)** So first, what we can do is we can work with batch processing.
+> **[1:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=119)** So first, what we can do is we can work with [[Batch Processing]].
 >
 > **[2:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=123)** So we can just interactively query this data.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=126)** So we can define a static DataFrame on the file and give it a table name.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=130)** And here we're working in Python, because we don't have any magic percent signs, we're in a Python notebook, so we're using PySpark, and we're setting the input path in line three, and then we're working with JSON, so of course PySpark natively works with JSON, so you can see in six we're setting up the schema, and we're doing this because it's going to speed up processing for our queries.
+> **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=130)** And here we're working in Python, because we don't have any magic percent signs, we're in a Python notebook, so we're using [[PySpark]], and we're setting the input path in line three, and then we're working with JSON, so of course PySpark natively works with JSON, so you can see in six we're setting up the schema, and we're doing this because it's going to speed up processing for our queries.
 >
 > **[2:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=154)** And then in lines eight through 14, we're going to set up our static input DataFrame.
 >
@@ -1252,13 +1236,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=173)** And, again, we've got the icon where we can verify that the format is correct, so we've got these two fields with these data types, and we can see a sample of our data.
 >
-> **[3:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=184)** And now we can compute the number of open and close actions with one hour windows.
+> **[3:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=184)** And now we can compute the number of open and close actions with one hour [[Windows]].
 >
 > **[3:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=189)** We're going to group by the Action column, and the one hour windows over at the Time column, so again, we're using PySpark, we're using windowing functions, and you can see this in lines three through nine, particularly in line seven, our windowing function is a one hour window and we're going to count them and then we're going to cache them by calling cache in line 10, and then we're going to register the DataFrame as static counts.
 >
-> **[3:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=218)** Now in command 11, we can use Spark SQL to query the table, and notice we're doing %sql, because we just want to use our standard SQL.
+> **[3:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=218)** Now in command 11, we can use Spark [[SQL]] to query the table, and notice we're doing %sql, because we just want to use our standard SQL.
 >
-> **[3:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=225)** Again, this is great for productivity, because so many people on data science teams and on devops teams are familiar with SQL, this just allows more of your team to be able to explore your data using the tools they already are familiar with.
+> **[3:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=225)** Again, this is great for productivity, because so many people on [[Data Science]] teams and on [[DevOps]] teams are familiar with SQL, this just allows more of your team to be able to explore your data using the tools they already are familiar with.
 >
 > **[3:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-a-spark-streaming-notebook?u=76281980&t=239)** And you can see that this is presented in the default visualization of the bar chart, and we could of course see the data if we wanted to, but it's easier to see here.
 >
@@ -1348,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[PySpark]] (4)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Python (Programming Language)|Python]] (5), [[JSON]] (4), [[PySpark]] (4), [[Windows]] (2)
 > **Env Vars:** sql (6), json (4), api (2)
 > **CLI Commands:** python (5), find (1)
 > **Definitions:** is a  (5)
@@ -1357,8 +1341,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use an external Scala library: variant-spark
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980)
+#### [Use an external Scala library: variant-spark](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,11 +1367,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=64)** So I'm going to show you how that process works for this particular case.
 >
-> **[1:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=68)** Now you notice that this notebook is written with Scala as the default runtime.
+> **[1:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=68)** Now you notice that this notebook is written with [[Scala]] as the default runtime.
 >
 > **[1:13](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=73)** So the description here talks about VariantSpark and what is the Bioinformatics use case.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=80)** And rather than analyzing a real disease condition, 'cause this is medical data, and so there's privacy around it, what the team did kind of humorously to show researchers how this algorithm can be used, is they created what they call a synthetic phenotype.
+> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=80)** And rather than analyzing a real disease condition, 'cause this is medical data, and so there's [[Privacy]] around it, what the team did kind of humorously to show researchers how this algorithm can be used, is they created what they call a synthetic phenotype.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=97)** Now in English that means a fake disease.
 >
@@ -1430,11 +1413,11 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=213)** And then you have a number of places that you can get your library files from depending on the source programing language they're written in.
 >
-> **[3:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=221)** So you can see you can upload JAR files, Python Eggs, or Python Wheel files into DBFS, or the file system you can again retrieve these types of libraries that are stored on the location in the file system.
+> **[3:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=221)** So you can see you can upload JAR files, [[Python (Programming Language)|Python]] Eggs, or Python Wheel files into DBFS, or the file system you can again retrieve these types of libraries that are stored on the location in the file system.
 >
 > **[3:54](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=234)** You can use PyPi package repository to get Python files.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=239)** In our case we used the Maven repository because that's where you would have JAR or Java and Scala files.
+> **[3:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=239)** In our case we used the Maven repository because that's where you would have JAR or [[Java]] and Scala files.
 >
 > **[4:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=246)** And CRAN of course is for R.
 >
@@ -1518,7 +1501,7 @@ created: 2026-05-02
 >
 > **[7:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=448)** Or if any other way that you want to graph it that is meaningful.
 >
-> **[7:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=452)** And this tells a little bit of detail about the algorithm itself, and then we're showcasing in this notebook using some of the other visualization methods, so you might remember this from some of the earlier videos, but here we're actually implementing this in a production use case where we're using SQL and we're loading this information into a SQL table and then we can easily visualize that with the built-in visualization tools.
+> **[7:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=452)** And this tells a little bit of detail about the algorithm itself, and then we're showcasing in this notebook using some of the other visualization methods, so you might remember this from some of the earlier videos, but here we're actually implementing this in a production use case where we're using [[SQL]] and we're loading this information into a SQL table and then we can easily visualize that with the built-in visualization tools.
 >
 > **[7:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=478)** Now if we want to use custom tools as some of the people on the team did, some people were more comfortable with matplotlib, so they were using Python here, and basically taking a similar type of a plot, these are the different characteristics that define someone as a hipster, and here they're plotting them.
 >
@@ -1540,7 +1523,7 @@ created: 2026-05-02
 >
 > **[9:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=554)** Then, as is commonly done in a lot of machine learning experiments, the team wanted to compare their results of VariantSpark, or wide random forest, with another popular tool that was specific to their domain, and that's Hail.
 >
-> **[9:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=571)** And Hail does logistic regression.
+> **[9:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=571)** And Hail does [[Logistic Regression]].
 >
 > **[9:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-an-external-scala-library-variant-spark?u=76281980&t=573)** So the method of doing machine learning analysis is different here.
 >
@@ -1564,7 +1547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (6), [[Scala]] (3), feature (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Scala]] (3), [[SQL]] (2), [[Privacy]] (1), [[Java]] (1)
 > **Env Vars:** jar (3), csiro (2), sql (2), dbfs (1), cran (1)
 > **CLI Commands:** python (6), find (1)
 > **Definitions:** is a  (4), is an  (2), in other words (1)
@@ -1578,14 +1561,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand data engineering workload steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980)
+#### [Understand data engineering workload steps](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=0)** - [Instructor] In this section I'm going to share some of the work that I've been doing in production working with scaling Apache Spark workloads.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=0)** - [Instructor] In this section I'm going to share some of the work that I've been doing in production working with scaling [[Apache Spark]] workloads.
 >
-> **[0:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=9)** So to get context for that, let's review a typical data engineering pipeline.
+> **[0:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=9)** So to get context for that, let's review a typical [[Data Engineering]] pipeline.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=14)** You can see that the steps are represented here.
 >
@@ -1627,7 +1609,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=193)** There's no shortcut to working with these increasingly large scales of data.
 >
-> **[3:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=199)** I do find frequently in my production work as an Enterprise Cloud Architect and Big Data Consultant that customers have difficulty in understanding going from, say a really tiny experiment, to full production workload.
+> **[3:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=199)** I do find frequently in my production work as an Enterprise Cloud Architect and [[Big Data]] Consultant that customers have difficulty in understanding going from, say a really tiny experiment, to full production workload.
 >
 > **[3:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-data-engineering-workload-steps?u=76281980&t=213)** They want to go directly and they want to go fast, which makes sense but again, real world experience is important here.
 >
@@ -1637,19 +1619,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Apache Spark]] (1), [[Data Engineering]] (1), [[Engineering]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Apache Spark]] (1), [[Data Engineering]] (1), [[Big Data]] (1)
 > **CLI Commands:** apache (1), find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand cluster configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980)
+#### [Understand cluster configurations](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=0)** - We're going to start looking at sizing workloads digging in a little bit more to the Cluster Configuration.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=6)** Now as we're working with Azure Databricks for our Apache Spark implementation, this is really a layer sitting around Spark.
+> **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=6)** Now as we're working with [[Azure Databricks]] for our [[Apache Spark]] implementation, this is really a layer sitting around Spark.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=14)** Spark itself, of course, is distributed, compute and it works with a driver and then end number of nodes.
 >
@@ -1657,7 +1638,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=35)** And then we'll be able to execute end number of tasks.
 >
-> **[0:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=39)** So we're going to go ahead and take a look at the Cluster Interface for Databricks Azure.
+> **[0:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=39)** So we're going to go ahead and take a look at the Cluster Interface for Databricks [[Microsoft Azure|Azure]].
 >
 > **[0:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=45)** So here we are inside of the Databricks Azure portal and I've clicked the Clusters button.
 >
@@ -1679,9 +1660,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=110)** Notice by default I can work with Standard.
 >
-> **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=113)** This is single-use clusters, SQL, R, and Scala but there's a new type, High Concurrency.
+> **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=113)** This is single-use clusters, [[SQL]], R, and [[Scala]] but there's a new type, High Concurrency.
 >
-> **[1:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=119)** This is designed to run concurrent SQL, Python and R, it doesn't at the time of this reporting, support Scala and this was called Serverless, previously.
+> **[1:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=119)** This is designed to run concurrent SQL, [[Python (Programming Language)|Python]] and R, it doesn't at the time of this reporting, support Scala and this was called Serverless, previously.
 >
 > **[2:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=129)** So, in the run time version, this is where I select the run time of Spark and Scala.
 >
@@ -1711,7 +1692,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=255)** This account may not have enough CPU cores to satisfy this request and then you'd have to get more CPU quota.
 >
-> **[4:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=262)** This will come up when you're running multiple workloads either on multiple Clusters or you have both batch and streaming workloads running, so again, this is a first level of tuning, because if you have scalability you have to be able to have the appropriate resources available in your Azure account to be able to scale.
+> **[4:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=262)** This will come up when you're running multiple workloads either on multiple Clusters or you have both batch and streaming workloads running, so again, this is a first level of tuning, because if you have [[Scalability]] you have to be able to have the appropriate resources available in your Azure account to be able to scale.
 >
 > **[4:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-cluster-configurations?u=76281980&t=282)** So once you've set your Clusters up, then you can see them over here, so for example, here's my High Concurrency and you can see that I have no notebooks, no libraries so on, so forth.
 >
@@ -1736,12 +1717,11 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Analogies:** for example (1)
 
-#### Understand Spark job execution overhead
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-job-execution-overhead?u=76281980)
+#### [Understand Spark job execution overhead](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-job-execution-overhead?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-job-execution-overhead?u=76281980&t=0)** - [Tutor] As we take a look at the overhead related to jobs, we need to understand how jobs are defined in Databricks Azure.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-job-execution-overhead?u=76281980&t=0)** - [Tutor] As we take a look at the overhead related to jobs, we need to understand how jobs are defined in Databricks [[Microsoft Azure|Azure]].
 >
 > **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-spark-job-execution-overhead?u=76281980&t=8)** Spark itself defines jobs as one or more tasks that's run on node in a distributed compute cluster.
 >
@@ -1851,7 +1831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Azure|Azure]] (2), node (1), api (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2)
 > **UI Navigation:** click on (4), go to (3), scroll down (2), scroll up (1)
 > **Env Vars:** dag (2), api (1), rdd (1), vcf (1)
 > **Definitions:** is a  (3), is called (1)
@@ -1860,8 +1840,7 @@ created: 2026-05-02
 > **Versions:** 3.71 (1)
 > **Cross-References:** later in (1)
 
-#### Explore optimization control planes
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980)
+#### [Explore optimization control planes](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,9 +1910,9 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=256)** The first is Compute, and of course as your Databricks provides you with managed, distributed, compute via Manage Apachespark.
 >
-> **[4:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=264)** Now Optimizations that I've worked with with my customers are to add memory to the cluster because of course you want all the data to be cached into memory and in the previous movie I showed you how to actually verify that through the logs on a job run to add CPUs to increase the number of nodes and depending on the type of workload being run, potentially some of the machine learning workloads will benefit from adding GPUs, in particular those that are using TensorFlow for example.
+> **[4:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=264)** Now Optimizations that I've worked with with my customers are to add memory to the cluster because of course you want all the data to be cached into memory and in the previous movie I showed you how to actually verify that through the logs on a job run to add CPUs to increase the number of nodes and depending on the type of workload being run, potentially some of the machine learning workloads will benefit from adding GPUs, in particular those that are using [[TensorFlow]] for example.
 >
-> **[4:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=290)** In terms of storage, by default you're working with the Databricks file system, and the Azure implementation, we have the ability to work with this new Databricks Delta which we'll be covering in subsequent movies and also as your Data Lake.
+> **[4:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=290)** In terms of storage, by default you're working with the Databricks file system, and the [[Microsoft Azure|Azure]] implementation, we have the ability to work with this new Databricks Delta which we'll be covering in subsequent movies and also as your Data Lake.
 >
 > **[5:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/explore-optimization-control-planes?u=76281980&t=303)** The Notebook interface itself we work with the Databricks notebook, we would have the ability to scale that as well if we were working in a distributed environment.
 >
@@ -1945,7 +1924,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (2), [[TensorFlow]] (1), [[Microsoft Azure|Azure]] (1), node (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** csv (1), csiro (1), cpu (1), gpu (1)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is an  (1), is called (1)
@@ -1953,8 +1932,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Optimize a cluster and job
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980)
+#### [Optimize a cluster and job](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2000,7 +1978,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980&t=192)** This has completed, and it took 2.74 minutes.
 >
-> **[3:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980&t=196)** From a high level, you want your algorithm to complete in a timely manner, so as quickly as you need, with the amount of resource spend, the amount of nodes, the amount of underlying virtual machines that cost x amount per execution, and of course you want correct results.
+> **[3:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980&t=196)** From a high level, you want your algorithm to complete in a timely manner, so as quickly as you need, with the amount of resource spend, the amount of nodes, the amount of underlying [[Virtual Machines]] that cost x amount per execution, and of course you want correct results.
 >
 > **[3:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-a-cluster-and-job?u=76281980&t=214)** This is just a quick way to get a sense of do the results appear to be accurate or correct.
 >
@@ -2016,7 +1994,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (2), hit (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Virtual Machines]] (1)
 > **CLI Commands:** find (2), make (2)
 > **UI Navigation:** click on (2)
 > **Versions:** 2.74 (1)
@@ -2024,8 +2002,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run a production-size job
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980)
+#### [Run a production-size job](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2115,7 +2092,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980&t=267)** And again, lots and lots of control here.
 >
-> **[4:30](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980&t=270)** If you are running Spark SQL, then you would see Spark SQL output here.
+> **[4:30](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980&t=270)** If you are running Spark [[SQL]], then you would see Spark SQL output here.
 >
 > **[4:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/run-a-production-size-job?u=76281980&t=274)** And you can take a look, for example, at the detail around the Spark SQL and you can see how that's being executed, again, all the way down to the logical plan.
 >
@@ -2185,7 +2162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[SQL]] (3), next (1), traffic (1), database (1)
+> **Frameworks & Libraries:** [[SQL]] (3)
 > **Env Vars:** sql (3), csi (1), dag (1)
 > **CLI Commands:** make (2), find (1), node (1)
 > **Analogies:** for example (3)
@@ -2199,16 +2176,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Databricks jobs and role-based control
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980)
+#### [Use Databricks jobs and role-based control](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=0)** - [Instructor] In this section, we're going to take a look at some of the advanced features of Azure Databricks, and I'm starting with their pricing page here.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=0)** - [Instructor] In this section, we're going to take a look at some of the advanced features of [[Azure Databricks]], and I'm starting with their pricing page here.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=8)** So if I scroll down, we are working with the databricks for data analytics workloads, and we have been looking at the standard features.
 >
-> **[0:18](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=18)** Now we're going to look at features available in the premium plan, so you'll notice that those are role based access control for notebooks, clusters, jobs and tables, JDBC, ODBC endpoint authentication, R studio integration, Delta public preview, and audit logs which are marked as of this recording as coming soon.
+> **[0:18](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=18)** Now we're going to look at features available in the premium plan, so you'll notice that those are role based access control for notebooks, clusters, jobs and tables, [[Java Database Connectivity (JDBC)|JDBC]], ODBC endpoint authentication, R studio integration, Delta public preview, and audit logs which are marked as of this recording as coming soon.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=38)** So we're first going to take a look at jobs, now you'll notice that regular jobs are in the standard edition, but role based access control is in the premium edition, so let's jump over to our cluster.
 >
@@ -2234,7 +2210,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=130)** I can edit the schedules, this is set to run hourly, and importantly, regarding the permissions, they're available if enabled for the account in this section here.
 >
-> **[2:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=142)** So I click edit, and you can see that I have the ability to set permissions on this object, so, is owner, can view, can manage or run, and of course, this could be integrated with active directory for an azure subscription as well.
+> **[2:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=142)** So I click edit, and you can see that I have the ability to set permissions on this object, so, is owner, can view, can manage or run, and of course, this could be integrated with [[Active Directory]] for an [[Microsoft Azure|azure]] subscription as well.
 >
 > **[2:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-jobs-and-role-based-control?u=76281980&t=155)** So I'll say cancel, and here we can view the runs if we want to, so again, this is similar to what we were doing in the previous section, looking at the performance, but this is as we're moving to more of a production situation.
 >
@@ -2260,7 +2236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), api (2), [[Azure Databricks]] (1), data (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Azure Databricks]] (1), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Active Directory]] (1)
 > **Prerequisites:** set up (4), configure (1)
 > **Env Vars:** api (2), jdbc (1), odbc (1)
 > **UI Navigation:** click on (3), scroll down (1)
@@ -2269,8 +2245,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Databricks Runtime ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980)
+#### [Use Databricks Runtime ML](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2286,13 +2261,13 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=36)** So we're going to dive a little bit deeper into very complex machine learning workloads.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=43)** So as of this recording, Databricks offers the Databricks runtime for machine learning as a cluster type, and what this is is an environment for machine learning and data science.
+> **[0:43](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=43)** So as of this recording, Databricks offers the Databricks runtime for machine learning as a cluster type, and what this is is an environment for machine learning and [[Data Science]].
 >
-> **[0:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=55)** And I would add the word advanced.
+> **[0:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=55)** And I would add the [[Microsoft Word|word]] advanced.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=56)** Now this is an area of active development on the platform and what I'm going to be showing you here is in beta, so it may have some feature changes when you actually watch it, so make sure to check the documentation.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=69)** Some of the key libraries that are included with the Databricks runtime for ML are TensorFlow, Keras, and XGBoost.
+> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=69)** Some of the key libraries that are included with the Databricks runtime for ML are [[TensorFlow]], Keras, and XGBoost.
 >
 > **[1:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=76)** And also, a library that was developed at Uber called Horovod, which is open source and it's for distributed TensorFlow training.
 >
@@ -2300,7 +2275,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=93)** So you create the cluster and in the cluster name, we'll just call it demo-ml, and then, it's a standard cluster.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=100)** And then you'll see here that the one I'm using for this recording is a version 5.0 ML beta, which includes Spark 2.4 and Scala 2.1.1.
+> **[1:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=100)** And then you'll see here that the one I'm using for this recording is a version 5.0 ML beta, which includes Spark 2.4 and [[Scala]] 2.1.1.
 >
 > **[1:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=111)** There are also a couple other betas here.
 >
@@ -2310,7 +2285,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=140)** So in any case, let's look at my cluster.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=144)** So you can see there it is, Python version three.
+> **[2:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=144)** So you can see there it is, [[Python (Programming Language)|Python]] version three.
 >
 > **[2:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-runtime-ml?u=76281980&t=147)** And here's our driver type and our workers and again, we're set to auto scaling, auto termination, and you'll notice, in the Spark config, we have Spark Databricks delta preview enabled, true.
 >
@@ -2322,7 +2297,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (2), data (1), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Microsoft Word|Word]] (1), [[Scala]] (1)
 > **Versions:** 4.1 (2), version 5 (1), 2.4 (1), 2.1.1 (1), 5.0 (1)
 > **CLI Commands:** python (2), make (1)
 > **Env Vars:** gpu (3)
@@ -2331,8 +2306,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Best Practices:** make sure to (1)
 
-#### Understand ML Pipelines API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980)
+#### [Understand ML Pipelines API](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2342,9 +2316,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=10)** So Spark has what are called MLlib, that's an API, to simply machine learning on Spark.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=17)** So it contains algorithms and pipelines as you see below, so MLlib algorithms called ML algorithms and those are algorithms for classification, regression, typical machine learning problems.
+> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=17)** So it contains [[Algorithms]] and pipelines as you see below, so MLlib algorithms called ML algorithms and those are algorithms for classification, regression, typical machine learning problems.
 >
-> **[0:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=29)** So they would be something like decision trees for example.
+> **[0:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=29)** So they would be something like [[Decision Trees]] for example.
 >
 > **[0:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=32)** Spark MLlib pipelines, which we're going to be exploring next, is an API to create and tune models and it supports hyper-parameter optimization and many other features to work with machine learning models.
 >
@@ -2352,7 +2326,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=52)** In the Databricks world, we have the Databricks runtime ML which we just saw in the previous movie.
 >
-> **[0:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=58)** That is a cluster type which supports third-party machine learning libraries, so non-Spark, so TensorFlow and some of the other things.
+> **[0:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=58)** That is a cluster type which supports third-party machine learning libraries, so non-Spark, so [[TensorFlow]] and some of the other things.
 >
 > **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-ml-pipelines-api?u=76281980&t=66)** So we're going to be working with a Databricks runtime ML cluster.
 >
@@ -2410,7 +2384,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (8), api (3), next (3), [[Decision Trees]] (2), [[TensorFlow]] (2)
+> **Frameworks & Libraries:** [[Algorithms]] (8), [[Decision Trees]] (2), [[TensorFlow]] (2)
 > **Definitions:** is an  (5), is a  (5)
 > **Env Vars:** api (3)
 > **Analogies:** for example (2), such as (1)
@@ -2418,8 +2392,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), the docs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use ML Pipelines API
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980)
+#### [Use ML Pipelines API](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2437,11 +2410,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=36)** So this is their dataset here.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=38)** So we're going to load the data into the file system and then we're going to create a table using SQL, so it just has lots of features and it has headers.
+> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=38)** So we're going to load the data into the file system and then we're going to create a table using [[SQL]], so it just has lots of features and it has headers.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=49)** So here, we'll see that in command eight, we can just take a look at what are the columns, so that's the schema and we can display it.
 >
-> **[0:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=59)** So we're going to try out different algorithms.
+> **[0:59](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=59)** So we're going to try out different [[Algorithms]].
 >
 > **[1:02](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=62)** So we're going to need to pre-process data, so that we can compute against it because not all the data is numeric, so we're going to have to convert the categorical variables and the dataset into numerical variables.
 >
@@ -2497,7 +2470,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=190)** So we can see on line two, we've got our pipeline calling the stages.
 >
-> **[3:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=195)** And then notice the comments there on three, four, and five where fit computes the feature statistics and transform transforms the features.
+> **[3:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=195)** And then notice the comments there on three, four, and five where fit computes the feature [[Statistics]] and transform transforms the features.
 >
 > **[3:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=204)** So we're calling fit on six and we are transforming on seven.
 >
@@ -2507,7 +2480,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=218)** We're going to try out some of the binary classification algorithms available on the Pipelines API.
 >
-> **[3:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=224)** So we're going to take a look at decision trees and random forests.
+> **[3:44](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=224)** So we're going to take a look at [[Decision Trees]] and random forests.
 >
 > **[3:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=229)** So typically, you're going to create a model with the training set and then you're going to tune the parameters with a ParamGrid and five-fold cross validation.
 >
@@ -2515,7 +2488,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=247)** So we're going to use the binary classification evaluator to evaluate the models and the area under the ROC as the default metric or the area under the curve.
 >
-> **[4:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=256)** So here's logistic regression.
+> **[4:16](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=256)** So here's [[Logistic Regression]].
 >
 > **[4:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-ml-pipelines-api?u=76281980&t=259)** And we are in command 21, calling fit on the training data on line seven.
 >
@@ -2623,7 +2596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), api (4), [[Decision Trees]] (4), [[SQL]] (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Decision Trees]] (4), [[SQL]] (2), [[Algorithms]] (2), [[Statistics]] (1), [[Logistic Regression]] (1)
 > **Env Vars:** api (4), roc (3), sql (2), uci (1)
 > **Code Identifiers:** bestmodel (2), explainparams (1)
 > **CLI Commands:** make (2)
@@ -2632,12 +2605,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use distributed ML training
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980)
+#### [Use distributed ML training](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=0)** - [Instructor] We've been looking at relatively common use cases on ML pipelines for Spark with manual pipelines and Spark ML pipelines, and I think it's fun to look at what for most of us will be the future, and this is around distributed TensorFlow, which is a deep neural network, the most popular library, open sourced by Google, with a new library called Horovod and this is open sourced from Uber.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=0)** - [Instructor] We've been looking at relatively common use cases on ML pipelines for Spark with manual pipelines and Spark ML pipelines, and I think it's fun to look at what for most of us will be the future, and this is around distributed [[TensorFlow]], which is a deep neural network, the most popular library, open sourced by [[Google]], with a new library called Horovod and this is open sourced from Uber.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=25)** So, to understand the class of problems that this is designed to solve you really want to put your future hat on.
 >
@@ -2655,7 +2627,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=70)** So, let's start with that.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=74)** So, here is the Azure Databricks documentation about the HorovodEstimator, Distributed Deep Learning with Horovod and Spark, and there is a notebook that we're going to look at.
+> **[1:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=74)** So, here is the [[Azure Databricks]] documentation about the HorovodEstimator, Distributed [[Deep Learning]] with Horovod and Spark, and there is a notebook that we're going to look at.
 >
 > **[1:23](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=83)** But I do want to call out the note here.
 >
@@ -2675,19 +2647,19 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=130)** So, you can see that the notebook performs distributed fitting of a fully connected deep neural network on the MNIST, which is the handwritten digits zero to nine in a Spark DataFrame.
 >
-> **[2:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=140)** The model training example is adapted from Uber's TensorFlow MNIST estimator example script which is on GitHub.
+> **[2:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=140)** The model training example is adapted from Uber's TensorFlow MNIST estimator example script which is on [[GitHub]].
 >
 > **[2:26](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=146)** The notebook runs without code changes on CPU or GPU enabled Spark clusters of two or more machines and supports multi-GPU training, and that is really typical with TensorFlow and distributed TensorFlow.
 >
 > **[2:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=159)** Again, that's why I ran this in advance, 'cause you will remember that our cluster does not have GPUs and you'll have to use the Databricks Runtime ML, which we are using.
 >
-> **[2:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=167)** So, it's a Python notebook.
+> **[2:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=167)** So, it's a [[Python (Programming Language)|Python]] notebook.
 >
 > **[2:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=169)** So, we start and do our imports in command two here, and you'll notice that on line four we're working with Horovod for TensorFlow.
 >
 > **[2:58](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=178)** In line nine, we're working with the HorovodEstimator, and again, this is an extension really of what we looked at in the previous movie which is the pipeline's API, and you'll remember that there is estimator concept in the pipeline's API.
 >
-> **[3:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=192)** This is just a massively distributed estimator that can run on optimized hardware such as GPUs.
+> **[3:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=192)** This is just a massively distributed estimator that can run on optimized [[Hardware]] such as GPUs.
 >
 > **[3:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=199)** You can see that command three describes command four, load a DataFrame containing MNIST.
 >
@@ -2725,7 +2697,7 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=338)** So, on line 13 we're just grabbing out MNIST from TensorFlow and then here we have documentation 14 through 20.
 >
-> **[5:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=347)** It's telling us that the estimator from Horovod takes the scalar Spark SQL types to the model FN as tensors or shape none and an array of Spark SQL types including a vector user defined type as tensors of shape none, none, variable sized batch of dense variable length arrays.
+> **[5:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=347)** It's telling us that the estimator from Horovod takes the scalar Spark [[SQL]] types to the model FN as tensors or shape none and an array of Spark SQL types including a vector user defined type as tensors of shape none, none, variable sized batch of dense variable length arrays.
 >
 > **[6:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=366)** And then image data is fed from an array type and for example a float tensor with shape none, none, we know that each float array is a length of 784.
 >
@@ -2793,13 +2765,13 @@ created: 2026-05-02
 >
 > **[9:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=582)** So we can copy the model checkpoints to the Databricks file system.
 >
-> **[9:46](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=586)** And then we can copy the directory to the local machine using the Databricks CLI.
+> **[9:46](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=586)** And then we can copy the directory to the local machine using the Databricks [[CLI]].
 >
-> **[9:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=591)** So again, looking into the future here, deep neural networks using distributed training with Horovod on Spark.
+> **[9:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-distributed-ml-training?u=76281980&t=591)** So again, looking into the future here, deep [[Neural Networks]] using distributed training with Horovod on Spark.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (8), data (8), api (3), [[Google]] (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[TensorFlow]] (8), [[Google]] (2), [[Deep Learning]] (2), [[Python (Programming Language)|Python]] (2), [[SQL]] (2)
 > **Env Vars:** mnist (5), gpu (4), api (3), sql (2), cpu (1)
 > **Definitions:** is a  (3), is an  (3)
 > **Analogies:** such as (3), for example (1)
@@ -2808,8 +2780,7 @@ created: 2026-05-02
 > **Code Identifiers:** modeldir (1)
 > **Versions:** 0.9 (1)
 
-#### Understand Databricks Delta
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980)
+#### [Understand Databricks Delta](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2833,9 +2804,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=33)** And again, traditionally, you have set up those optimizations, which requires more work to set up the pipeline.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=40)** Now as we start thinking about taking our workflows and putting them into pipelines, we of course are working with Azure Databricks.
+> **[0:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=40)** Now as we start thinking about taking our workflows and putting them into pipelines, we of course are working with [[Azure Databricks]].
 >
-> **[0:46](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=46)** So let's consider the Azure data ecosystem.
+> **[0:46](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=46)** So let's consider the [[Microsoft Azure|Azure]] data ecosystem.
 >
 > **[0:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=49)** The ingest capability for data can be handled by services such as Azure Data Factory.
 >
@@ -2845,9 +2816,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=67)** And then model and serve goes into some sort of destination.
 >
-> **[1:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=70)** One example could be the one shown here, which is a Azure SQL Data Warehouse.
+> **[1:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=70)** One example could be the one shown here, which is a Azure [[SQL]] Data Warehouse.
 >
-> **[1:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=74)** And then some sort of analytical dashboard, maybe using Power BI.
+> **[1:14](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=74)** And then some sort of analytical dashboard, maybe using [[Microsoft Power BI|Power BI]].
 >
 > **[1:18](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-databricks-delta?u=76281980&t=78)** Now as we're looking at the entire pipeline, we're going to focus and really broaden beyond Azure Databricks and look at this storage and ingest layer.
 >
@@ -2887,7 +2858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (5), [[Azure Databricks]] (4), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Azure Databricks]] (4), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (1), acid (1), crud (1), etl (1)
 > **Definitions:** is a  (4)
 > **Analogies:** such as (3)
@@ -2895,8 +2866,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Databricks Delta
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980)
+#### [Use Databricks Delta](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2922,17 +2892,17 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=66)** So what I did to prepare this already is in the data section here I went ahead, and you can see it sitting here, and clicked add data, and you can upload data from the file system from DBFS or from other data sources.
 >
-> **[1:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=82)** So I browsed out to it and I went to, after I had stripped the header file off, and I did that by just opening it in Excel and deleting that file.
+> **[1:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=82)** So I browsed out to it and I went to, after I had stripped the header file off, and I did that by just opening it in [[Microsoft Excel|Excel]] and deleting that file.
 >
 > **[1:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=94)** And then I can create a table with UI.
 >
 > **[1:37](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=97)** I need to select a cluster to preview the table, and this is the only running one I have.
 >
-> **[1:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=102)** Notice you have an option to create table in Notebook, which would generate python script for this.
+> **[1:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=102)** Notice you have an option to create table in Notebook, which would generate [[Python (Programming Language)|python]] script for this.
 >
 > **[1:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=107)** And because we have this table name already I'll just give it a new table name right here.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=112)** And then you can see that I'm going to create in the default database, it's a CSV file, its spark CSV, JSON and Avro, it's a column deliminator, first row is a header, and I'm going to infer the schema and that will create this as a table.
+> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=112)** And then you can see that I'm going to create in the default database, it's a CSV file, its spark CSV, [[JSON]] and Avro, it's a column deliminator, first row is a header, and I'm going to infer the schema and that will create this as a table.
 >
 > **[2:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=126)** Now if I wanted to create this in a notebook, I would just click Create in Notebook and it would do the same that's being done in the GUI interface in this notebook.
 >
@@ -2942,9 +2912,9 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=144)** This is about Databreaks Delta.
 >
-> **[2:26](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=146)** It's an optimization layer on top of blob storage for performance, reliability and low latency of streaming and batch for data pipelines.
+> **[2:26](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=146)** It's an optimization layer on top of blob storage for performance, reliability and low latency of streaming and batch for [[Data Pipelines]].
 >
-> **[2:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=153)** It's open-source Parquet columnar file format and it helps with indexing and partitioning and has ACID compliance for reliability, ANSI SQL update, delete, and merge and schema validation and low latency auto-compaction for real-time streaming ingest.
+> **[2:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=153)** It's open-source Parquet columnar file format and it helps with indexing and partitioning and has ACID compliance for reliability, ANSI [[SQL]] update, delete, and merge and schema validation and low latency auto-compaction for [[Real-Time]] streaming ingest.
 >
 > **[2:49](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=169)** So a lot of those, they call them heavy lifting or extract transform and load steps that you commonly have to do as you're getting data ready for work on a spark cluster.
 >
@@ -2964,11 +2934,11 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=266)** So we then run a count, and it's a little bit faster already it's four seconds verus nine, but now we're going to run the magic optimize in command 19 and now this gives us fewer pieces so they're slightly larger sized and now we're going to run a count and it takes less than one second, point eight six seconds.
 >
-> **[4:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=290)** So, this is, like I said, a preview feature so when you are working with this and watching this recording, make sure you check the documentation which is referenced here because I'm sure they'll add even more features to it but really addresses a common use case in terms of data preparation and a great set of functionality and as your Databricks.
+> **[4:50](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-databricks-delta?u=76281980&t=290)** So, this is, like I said, a preview feature so when you are working with this and watching this recording, make sure you check the documentation which is referenced here because I'm sure they'll add even more features to it but really addresses a common use case in terms of [[Data Preparation]] and a great set of functionality and as your Databricks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), database (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Python (Programming Language)|Python]] (1), [[JSON]] (1), [[Data Pipelines]] (1), [[SQL]] (1)
 > **Env Vars:** csv (2), dbfs (1), json (1), gui (1), acid (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** python (1), make (1)
@@ -2977,8 +2947,7 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use Azure Blob storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980)
+#### [Use Azure Blob storage](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2990,9 +2959,9 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=24)** So you can see here is the table that we just made, for example.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=28)** And because we are running on Azure, we have integrations in the Other Data Source area with some common Azure services.
+> **[0:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=28)** And because we are running on [[Microsoft Azure|Azure]], we have integrations in the Other Data Source area with some common Azure services.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=35)** So, Azure Blob Store, Azure Data Lake Store, we also have JDBC, Cassandra, Kafka, Redis, and Elasticsearch.
+> **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=35)** So, Azure Blob Store, Azure Data Lake Store, we also have [[Java Database Connectivity (JDBC)|JDBC]], Cassandra, Kafka, [[Redis]], and [[Elasticsearch]].
 >
 > **[0:43](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=43)** Now you'll notice if I select Azure Blob Storage or Azure Data Lake Store, I get this convenient button to Create Table in a Notebook.
 >
@@ -3004,13 +2973,13 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=69)** So you're going to need your account key and shared access signature, and then you are going to set your file location and type.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=80)** Setup your Spark configuration in command five, then you've made your connection in command six, you're going to read the data, so you're going to create a DataFrame in Python, you see this is a Python notebook, so in line one here you're going to read and infer the schema, and load from the location, and then in command nine, you're just going to validate it by displaying it.
+> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=80)** Setup your Spark configuration in command five, then you've made your connection in command six, you're going to read the data, so you're going to create a DataFrame in [[Python (Programming Language)|Python]], you see this is a Python notebook, so in line one here you're going to read and infer the schema, and load from the location, and then in command nine, you're just going to validate it by displaying it.
 >
 > **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=105)** And then in 11, if you want to query the data as a table, you need to register it as a view or a table.
 >
 > **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=112)** So that's the command in line one of command 11, the df.createOrReplaceTempView, that's going to create that view.
 >
-> **[2:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=121)** And now you can work with Spark SQL and use your standard sort of SQL queries, as shown in 13 here.
+> **[2:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=121)** And now you can work with Spark [[SQL]] and use your standard sort of SQL queries, as shown in 13 here.
 >
 > **[2:07](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=127)** You can use, you know, your aggregates, such as sum, and then your standard SQL commands, such as select from and group by here.
 >
@@ -3022,11 +2991,11 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=152)** And then you'll have a table.
 >
-> **[2:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=153)** So these are some really useful examples for integration into common Azure data storage formats.
+> **[2:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/use-azure-blob-storage?u=76281980&t=153)** So these are some really useful examples for integration into common Azure [[Data Storage]] formats.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Azure|Azure]] (8), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[SQL]] (3), [[Python (Programming Language)|Python]] (2), [[Java Database Connectivity (JDBC)|Jdbc]] (1), [[Redis]] (1)
 > **Env Vars:** sql (3), dbfs (1), jdbc (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** python (2)
@@ -3035,26 +3004,25 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 
-#### Understand MLflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980)
+#### [Understand MLflow](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=0)** - [Instructor] So the complexity of these pipelines is really one of the biggest hindrances from taking machine learning models and complex computation into value for the business.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=12)** So a typical Azure-hosted complex pipeline will look something like this.
+> **[0:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=12)** So a typical [[Microsoft Azure|Azure]]-hosted complex pipeline will look something like this.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=17)** On the left side you'll see the incoming data, business apps, custom apps, sensors and devices, then the models in the center, and on the right is the intelligence, so the predictive apps, the operational reports, and the analytical dashboards.
+> **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=17)** On the left side you'll see the incoming data, business apps, custom apps, sensors and devices, then the models in the center, and on the right is the intelligence, so the predictive apps, the operational reports, and the analytical [[Dashboards]].
 >
 > **[0:29](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=29)** So the key phases are in Ingest, Store, Prep and Train, Model and Serve.
 >
 > **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=35)** So Databricks, you can see, is in the Prep and Train phase in this particular high-level reference architecture, but it often is part of the Model and Serve phases as well, in my experience.
 >
-> **[0:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=47)** So in Ingest, we have a hot pipeline here with Kafka, or the Azure Event Hub or IoT Hub bringing in data in a streaming fashion.
+> **[0:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=47)** So in Ingest, we have a hot pipeline here with Kafka, or the Azure Event Hub or [[IoT]] Hub bringing in data in a streaming fashion.
 >
 > **[0:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=56)** And then for storage, this pipeline is showing Blobs on the Data Lake.
 >
-> **[1:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=61)** Prep and Train is Databricks using Machine Learning, and Model and Serve is using a combination of Cosmos DB, SQL Database, SQL Data Warehouse, and Analysis Services.
+> **[1:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=61)** Prep and Train is Databricks using Machine Learning, and Model and Serve is using a combination of Cosmos DB, [[SQL]] Database, SQL Data Warehouse, and Analysis Services.
 >
 > **[1:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=72)** So again, these components are all optional and they really are selected based on the particular use case.
 >
@@ -3062,7 +3030,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=83)** I usually see a subset of components in Model and Serve, for example.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=87)** Now if we think just about the data ingest and the data preparation and modeling for machine learning, we want to explode that section and we want to think about these various capacities.
+> **[1:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=87)** Now if we think just about the data ingest and the [[Data Preparation]] and modeling for machine learning, we want to explode that section and we want to think about these various capacities.
 >
 > **[1:39](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=99)** This drawing is from a paper called Hidden Technical Debt in Machine Learning Systems.
 >
@@ -3070,7 +3038,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=111)** When I'm called in as an architect to work on machine learning solutions, the thinking is that the ML code is going to be a huge part, and this diagram really reflects the reality of what I see.
 >
-> **[2:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=123)** You've got configuration, data collection, feature extraction, data verification, machine resource management, analysis tools, process management, serving infrastructure, and monitoring.
+> **[2:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=123)** You've got configuration, [[Data Collection]], feature extraction, data verification, machine resource management, analysis tools, process management, serving infrastructure, and monitoring.
 >
 > **[2:13](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=133)** That's all just in the in-side of the pipeline.
 >
@@ -3090,7 +3058,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=181)** It's tricky to build the models with the correct hyper-parameters and the correctly sized clusters and it's tricky to do the deployment onto some sort of scalable deployment mechanism.
 >
-> **[3:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=192)** About six months ago, at the annual Databricks conference, Databricks announced a new work around an opensource platform called MLflow, and it really looks to address providing resources to address some of these challenges around data prep.
+> **[3:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=192)** About six months ago, at the annual Databricks conference, Databricks announced a new work around an opensource platform called [[MLflow]], and it really looks to address providing resources to address some of these challenges around data prep.
 >
 > **[3:28](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=208)** So Delta is something that we just saw, feeding data to models, enriching data in experiments; deploying the model, MLflow serving, integrate with multiple clouds, manage and monitor models; and build the model, track experiments, and really importantly, create reproducible experiments.
 >
@@ -3114,7 +3082,7 @@ created: 2026-05-02
 >
 > **[5:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=317)** So the idea is, in this particular experiment, you can see it's pretty self-explanatory by looking at it, that it logs all of the runs.
 >
-> **[5:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=327)** And you might remember back earlier in this course, when we were performance tuning for the VariantSpark workloads, how we were opening the Spark logs and looking at various values.
+> **[5:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=327)** And you might remember back earlier in this course, when we were [[Performance Tuning]] for the VariantSpark workloads, how we were opening the Spark logs and looking at various values.
 >
 > **[5:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/understand-mlflow?u=76281980&t=336)** So basically, this comes out of the desire to automate some of that performance tuning, and it's setup capabilities that I know I'm welcoming as it's being developed.
 >
@@ -3146,7 +3114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[MLflow]] (9), business (2), [[Microsoft Azure|Azure]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MLflow]] (9), [[Microsoft Azure|Azure]] (2), [[SQL]] (2), [[Performance Tuning]] (2), [[Dashboards]] (1)
 > **Env Vars:** sql (2), gif (2)
 > **Analogies:** for example (4)
 > **Definitions:** is an  (1), is a  (1)
@@ -3160,12 +3128,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Azure Databricks pipeline considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980)
+#### [Azure Databricks pipeline considerations](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=0)** - [Instructor] In this section, we're going to take a look at Databricks Azure in architectural pipelines, and we've talked about pipelines in several different contexts, and what I'm really going for here is end-to-end from when you receive the data to when you present the data and to show you some examples in terms of reference architectures of how this is best presented.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=0)** - [Instructor] In this section, we're going to take a look at Databricks [[Microsoft Azure|Azure]] in architectural pipelines, and we've talked about pipelines in several different contexts, and what I'm really going for here is end-to-end from when you receive the data to when you present the data and to show you some examples in terms of reference architectures of how this is best presented.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=22)** So the pipelines will cover both cleansing and processing.
 >
@@ -3183,17 +3150,17 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=63)** Also the review of the data to look for outliers and data that's unexpected or of poor quality.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=69)** The next phase is what I call standard compute, and this is often SQL-type queries that perform counts, sums, grouping, so on and so forth.
+> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=69)** The next phase is what I call standard compute, and this is often [[SQL]]-type queries that perform counts, sums, grouping, so on and so forth.
 >
-> **[1:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=79)** This is also called business analytics.
+> **[1:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=79)** This is also called [[Business Analytics]].
 >
 > **[1:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=81)** Complex compute I define as machine learning, so performing some sort of inference, creating a model, training a model, looking at the quality of a model, oftentimes, tuning hyper-parameters, and can be exponentially more complex and require more resources than standard compute.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=102)** And then of course we need to serve the result, store and present it.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=105)** So to get us started with working with Azure Databricks in a end-to-end pipeline, here's a reference example.
+> **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=105)** So to get us started with working with [[Azure Databricks]] in a end-to-end pipeline, here's a reference example.
 >
-> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=112)** So if we were to look at the data coming in, we would generally consider logs, files, and media, which could be unstructured data.
+> **[1:52](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=112)** So if we were to look at the data coming in, we would generally consider logs, files, and media, which could be [[Unstructured Data]].
 >
 > **[2:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=121)** We also would be often dealing with business data from custom apps, that would be structured.
 >
@@ -3203,23 +3170,22 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=139)** Azure Storage is typically used at some phase for storing the data.
 >
-> **[2:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=144)** Now in this particular case, we're going to be working with Azure Databricks, and there, the prep and train is going to happen for the data, considering we'd be using machine learning for the word train.
+> **[2:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=144)** Now in this particular case, we're going to be working with Azure Databricks, and there, the prep and train is going to happen for the data, considering we'd be using machine learning for the [[Microsoft Word|word]] train.
 >
 > **[2:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=154)** In some cases, we're not using machine learning, so we'll just be prepping it.
 >
-> **[2:37](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=157)** Model and serve in this particular reference architecture is on Azure SQL Data Warehouse, and intelligence is presented in Analytical dashboards, more and more I find using power VI.
+> **[2:37](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-pipeline-considerations?u=76281980&t=157)** Model and serve in this particular reference architecture is on Azure SQL Data Warehouse, and intelligence is presented in Analytical [[Dashboards]], more and more I find using power VI.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (8), power (2), next (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[SQL]] (2), [[Azure Databricks]] (2), [[Business Analytics]] (1), [[Unstructured Data]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** sql (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Databricks for data warehousing
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980)
+#### [Azure Databricks for data warehousing](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3235,36 +3201,35 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=35)** Of course there's other components that we could be using.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=38)** The role of Azure Databricks in this scenerio would be to perform the extract transform and load or ETL for the incoming data and of course Databricks is running on Spark which is very, very easy to parallelize and runs in memory so any sort of data cleaning, transforming, aggregating, that sort of activity can be done much, much more rapidly given the volume of data that you may be working with.
+> **[0:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=38)** The role of [[Azure Databricks]] in this scenerio would be to perform the extract transform and load or ETL for the incoming data and of course Databricks is running on Spark which is very, very easy to parallelize and runs in memory so any sort of [[Data Cleaning]], transforming, aggregating, that sort of activity can be done much, much more rapidly given the volume of data that you may be working with.
 >
-> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=69)** And then the data can be shipped from Azure Databricks into a presentation location such as SQL Data Warehouse.
+> **[1:09](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=69)** And then the data can be shipped from Azure Databricks into a presentation location such as [[SQL]] Data Warehouse.
 >
 > **[1:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=77)** Another scenario in this realm is a data warehouse migration.
 >
 > **[1:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=81)** So on the left we have our variety of incoming data, structured, unstructured, and files, media log, so on and so forth.
 >
-> **[1:30](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=90)** In this case we might be moving from a third party vendor such as Informatica and we might use as our storage both Azure Blob Storage and Azure SQL Data Warehouse.
+> **[1:30](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=90)** In this case we might be moving from a third party vendor such as Informatica and we might use as our storage both [[Microsoft Azure|Azure]] Blob Storage and Azure SQL Data Warehouse.
 >
 > **[1:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=102)** However because the information is coming from a number of different ingest sources, the two separate Informatica data warehouses and then the underlying different data sources we are using Azure Databricks with Distributed Spark here.
 >
 > **[1:57](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=117)** Again, to be able to do the extract, transform, and load at the scale that we need to quickly process this information so that we can do our migration in a more cost-effective and time-effective manner.
 >
-> **[2:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=132)** Now you can see on the Model and Serve section here we can serve directly from the Azure Sql Data Warehouse into business and custom apps or we can apply additional analysis with Azure Analysis Services and we can alternately serve with Power BI.
+> **[2:12](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-data-warehousing?u=76281980&t=132)** Now you can see on the Model and Serve section here we can serve directly from the Azure Sql Data Warehouse into business and custom apps or we can apply additional analysis with Azure Analysis Services and we can alternately serve with [[Microsoft Power BI|Power BI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Microsoft Azure|Azure]] (4), [[Azure Databricks]] (3), [[SQL]] (3), etl (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure Databricks]] (3), [[SQL]] (3), [[Data Cleaning]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Env Vars:** sql (2), etl (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Databricks and machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980)
+#### [Azure Databricks and machine learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=0)** - [Instructor] Another pattern in pipelining is Azure Machine Learning and Databricks.
+> **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=0)** - [Instructor] Another pattern in pipelining is [[Microsoft Azure|Azure]] Machine Learning and Databricks.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=6)** Now Databricks as we've seen in the earlier patterns in this section is used for preprocessing, so cleaning up data if you were on a massive scale.
 >
@@ -3296,15 +3261,15 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=124)** Now again this could come in as batch or more and more I'm seeing this come in as streaming, so near real time in terms, for example, the flight delays.
 >
-> **[2:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=135)** This could handled initially by the Azure Data Factory which would copy the data to blob storage and then it's going to be available, as you may remember from an earlier movie, once you integrate it, into Azure Databricks as a table.
+> **[2:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=135)** This could handled initially by the Azure Data Factory which would copy the data to blob storage and then it's going to be available, as you may remember from an earlier movie, once you integrate it, into [[Azure Databricks]] as a table.
 >
 > **[2:31](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=151)** So integration is really nicely built in.
 >
 > **[2:34](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=154)** You can even move the the information from blob storage to Azure via the UI.
 >
-> **[2:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=160)** So once the information is available on Azure Databricks then you can perform basic operations on it using Spark SQL, and as it's shown here over to the right, you could visualize a delay of predictions on a map using something like Power BI.
+> **[2:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=160)** So once the information is available on Azure Databricks then you can perform basic operations on it using Spark [[SQL]], and as it's shown here over to the right, you could visualize a delay of predictions on a map using something like [[Microsoft Power BI|Power BI]].
 >
-> **[2:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=175)** Now if you wanted to do additional processing and this dotted lines you can see that you could take the information that you have in Azure Databricks and you could create, train, and export an ML model which could then be consumed by an Azure service such as Azure Machine Learning Services where your data science team could store and operationalize the trained ML model and then could pass it off to your DevOps team to operationalize that ML model.
+> **[2:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=175)** Now if you wanted to do additional processing and this dotted lines you can see that you could take the information that you have in Azure Databricks and you could create, train, and export an ML model which could then be consumed by an Azure service such as Azure Machine Learning Services where your [[Data Science]] team could store and operationalize the trained ML model and then could pass it off to your [[DevOps]] team to operationalize that ML model.
 >
 > **[3:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-and-machine-learning?u=76281980&t=207)** And you can see that's represented by the containerized AI Services.
 >
@@ -3316,26 +3281,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), data (9), [[Azure Databricks]] (4), business (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (9), [[Azure Databricks]] (4), [[SQL]] (1), [[Microsoft Power BI|Power bi]] (1), [[Data Science]] (1)
 > **Env Vars:** csv (1), sql (1), api (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Databricks for churn analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980)
+#### [Azure Databricks for churn analysis](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=0)** - [Instructor] Now, let's apply our Pipelining to a business scenario, Churn Analysis.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=5)** You might have data scientists working with multiple Machine Learning algorithms, because they're going to evaluate and tune them, both for efficiency effectiveness, but also for performance overhead.
+> **[0:05](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=5)** You might have data scientists working with multiple Machine Learning [[Algorithms]], because they're going to evaluate and tune them, both for efficiency effectiveness, but also for performance overhead.
 >
 > **[0:17](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=17)** You'll be working with visualizations.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=19)** You'll probably have Streaming data, Meta data, and Historical data.
 >
-> **[0:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=22)** So, what might that look like with Databricks Azure in a Pipeline?
+> **[0:22](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=22)** So, what might that look like with Databricks [[Microsoft Azure|Azure]] in a Pipeline?
 >
 > **[0:27](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=27)** Here's one possible case.
 >
@@ -3351,13 +3315,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=66)** So, the Producer Notebook is acting on the data, doing some quick analysis visualization, looking for outliers, and possibly aggregating the data or doing some sort of pre-processing.
 >
-> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=80)** Passing that data to the Event Hub, which is then making that data available for the Consumer Notebook, which then forwards it to the Publisher Notebook, which can be consumed by Power BI for visualizations.
+> **[1:20](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=80)** Passing that data to the Event Hub, which is then making that data available for the Consumer Notebook, which then forwards it to the Publisher Notebook, which can be consumed by [[Microsoft Power BI|Power BI]] for visualizations.
 >
 > **[1:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=93)** However, the Publisher Notebook also does additional processing, passing it to the Datastore Notebook, which interacts with Cosmos DB.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=101)** And there's one additional component in this architecture.
 >
-> **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=105)** At the level of the Consumer Notebook there is some Machine Learning being performed by the Microsoft Stack with the Text Analytics API.
+> **[1:45](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=105)** At the level of the Consumer Notebook there is some Machine Learning being performed by the [[Microsoft]] Stack with the Text Analytics API.
 >
 > **[1:54](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-churn-analysis?u=76281980&t=114)** And the result of that is being passed back to the Consumer Notebook, which is added before it's sent to the Publisher Notebook.
 >
@@ -3365,21 +3329,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Azure|Azure]] (3), [[Analytics]] (3), power (2), bi (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (3), [[Microsoft Power BI|Power bi]] (2), [[Algorithms]] (1), [[Microsoft]] (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Azure Databricks for intrusion detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980)
+#### [Azure Databricks for intrusion detection](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=1)** - So, in this scenario we're going to take a look at how you build for intrusion detection.
+> **[0:01](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=1)** - So, in this scenario we're going to take a look at how you build for [[Intrusion Detection]].
 >
 > **[0:05](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=5)** You're going to have very similar components to the last one.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=8)** So, data scientists, multiple machine learning algorithms, evaluating, tuning, visualizations, streaming data, metadata, historical data.
+> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=8)** So, data scientists, multiple machine learning [[Algorithms]], evaluating, tuning, visualizations, streaming data, [[Metadata]], historical data.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=15)** The streaming data is going to be events in this case.
 >
@@ -3397,7 +3360,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=55)** That's the capture phase.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=56)** Then, in the curate phase, preparing and analyze, in this particular scenario, notice the information from the event hub goes all the way to the consume phase into the time series insights, which is an Azure service.
+> **[0:56](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=56)** Then, in the curate phase, preparing and analyze, in this particular scenario, notice the information from the event hub goes all the way to the consume phase into the time series insights, which is an [[Microsoft Azure|Azure]] service.
 >
 > **[1:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=70)** And, it goes alternatively in the prepare and analyze and publish phases to Azure data bricks, then to cognitive services, which is an Azure machine learning API, and then back to event hubs to stream out.
 >
@@ -3407,29 +3370,29 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=96)** So, I would call it the hot data and the very warm data.
 >
-> **[1:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=100)** And a scenario for this particular case, is where you need to get near real-time results and have some sort of visualization and understanding of those, and that's what time series insights is doing.
+> **[1:40](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=100)** And a scenario for this particular case, is where you need to get near [[Real-Time]] results and have some sort of visualization and understanding of those, and that's what time series insights is doing.
 >
 > **[1:53](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=113)** However, you might want to apply rules, and that's what's happening in the curate phase, and learn from past situations and then present a secondary view, and that's what's happening in the publish phase for the event hubs that would then be added to the times series, so that's one type of architecture.
 >
-> **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=130)** As an alternative, if we look at this architecture, we're bring in the variety of data that we typically see and in particular I want to call out the sensor and IoT unstructured data at the top.
+> **[2:10](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=130)** As an alternative, if we look at this architecture, we're bring in the variety of data that we typically see and in particular I want to call out the sensor and [[IoT]] [[Unstructured Data]] at the top.
 >
 > **[2:21](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=141)** Notice in the ingest we have two different vehicles here.
 >
-> **[2:25](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=145)** We have Apache Kafka, which is a streaming capability, and then we have the Data Factory.
+> **[2:25](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=145)** We have [[Apache Kafka]], which is a streaming capability, and then we have the Data Factory.
 >
 > **[2:32](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=152)** For storing, we can store either directly from Kafka as structured streaming into Databricks.
 >
 > **[2:38](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=158)** Or, for Data Factory we're going into Azure Blob Storage.
 >
-> **[2:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=162)** So, Azure Databricks is doing all the prep and all the training in this particular case.
+> **[2:42](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=162)** So, [[Azure Databricks]] is doing all the prep and all the training in this particular case.
 >
 > **[2:47](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=167)** We're not using any Azure cognitive services or Azure AI.
 >
-> **[2:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=171)** So we are doing the data preparation, we're doing machine learning at the Databricks layer and we're passing our data out then to other Azure services for modeling and serving, such as Cosmos DB, or Azure SQL Data Warehouse and Power BI.
+> **[2:51](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/azure-databricks-for-intrusion-detection?u=76281980&t=171)** So we are doing the [[Data Preparation]], we're doing machine learning at the Databricks layer and we're passing our data out then to other Azure services for modeling and serving, such as Cosmos DB, or Azure [[SQL]] Data Warehouse and [[Microsoft Power BI|Power BI]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Microsoft Azure|Azure]] (8), [[Intrusion Detection]] (1), [[Algorithms]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (8), [[Intrusion Detection]] (1), [[Algorithms]] (1), [[Metadata]] (1), [[Real-Time]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), apache (1)
 > **Env Vars:** api (1), sql (1)
@@ -3441,8 +3404,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3450,11 +3412,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=4)** So I have some resources for you to continue your learning.
 >
-> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=8)** At the core, Azure Databricks is based on Apache Spark, so there are a number of courses in the library that cover Spark, Spark internals, and as you are building with and on Spark, I really encourage you to dive deep into the Spark internals.
+> **[0:08](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=8)** At the core, [[Azure Databricks]] is based on [[Apache Spark]], so there are a number of courses in the library that cover Spark, Spark internals, and as you are building with and on Spark, I really encourage you to dive deep into the Spark internals.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=24)** To that end, you'll notice that I have a link here to an article on Spark internals that can give you an idea of how to get started.
 >
-> **[0:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=33)** In addition to that, Microsoft has made the Azure Databricks documentation available on GitHub, and I've provided a link.
+> **[0:33](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=33)** In addition to that, [[Microsoft]] has made the Azure Databricks documentation available on [[GitHub]], and I've provided a link.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/next-steps?u=76281980&t=41)** This is the documentation that is living.
 >

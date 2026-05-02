@@ -17,7 +17,7 @@ tags:
   - topic/software-development
   - topic/network-and-system-administration
   - topic/web-development
-course_count: 68
+course_count: 69
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # OWASP
 
-> **Type:** Standard | **Courses:** 68 | **Topics:** [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Network and System Administration]], [[Web Development]]
+> **Type:** Standard | **Courses:** 69 | **Topics:** [[Cybersecurity]], [[Artificial Intelligence (AI)]], [[Software Development]], [[Network and System Administration]], [[Web Development]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Security Testing Essential Training (2022)]] — 17 mentions
 10. [[OWASP Top 10- -3 Injection and -4 Insecure Design]] — 14 mentions
 
-> [!note]- See all 68 courses
+> [!note]- See all 69 courses
 > 11. [[Threat Modeling for AI-ML Systems]] — 13 mentions
 > 12. [[Node Js Security]] — 12 mentions
 > 13. [[Ethical Hacking- Mobile Devices and Platforms]] — 10 mentions
@@ -94,11 +94,12 @@ created: 2026-05-02
 > 61. [[Introduction to Pen Testing for Cybersecurity Professionals]] — 1 mentions
 > 62. [[Stealth Penetration Testing with Advanced Enumeration]] — 1 mentions
 > 63. [[Devops Foundations Devsecops]] — 1 mentions
-> 64. [[Cisco Network Security Core Security Concepts]] — 1 mentions
-> 65. [[Continuous Delivery for Cloud Native Java Apps]] — 1 mentions
-> 66. [[PHP with MySQL Essential Training- 1 The Basics]] — 1 mentions
-> 67. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
-> 68. [[Programming Foundations- Web Security]] — 1 mentions
+> 64. [[Aws Essential Training For Developers]] — 1 mentions
+> 65. [[Cisco Network Security Core Security Concepts]] — 1 mentions
+> 66. [[Continuous Delivery for Cloud Native Java Apps]] — 1 mentions
+> 67. [[PHP with MySQL Essential Training- 1 The Basics]] — 1 mentions
+> 68. [[PHP with MySQL Essential Training- 2 Build a CMS]] — 1 mentions
+> 69. [[Programming Foundations- Web Security]] — 1 mentions
 
 ## Learning Paths
 

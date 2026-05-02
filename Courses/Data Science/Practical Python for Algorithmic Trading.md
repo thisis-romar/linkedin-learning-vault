@@ -89,14 +89,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Algorithmic trading using machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
+#### [Algorithmic trading using machine learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980&t=0)** - [Instructor] Algorithmic trading using machine learning techniques enables you to make data-driven trading decisions.
+> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980&t=0)** - [Instructor] [[Algorithmic Trading]] using machine learning techniques enables you to make data-driven trading decisions.
 >
-> **[0:07](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980&t=7)** Learn all about data, pre-processing, feature engineering and how to use powerful machine learning models.
+> **[0:07](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980&t=7)** Learn all about data, pre-processing, [[Feature Engineering]] and how to use powerful machine learning models.
 >
 > **[0:14](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/algorithmic-trading-using-machine-learning?u=76281980&t=14)** I'm going to walk you through hands-on exercises and give you practical insights that will enhance your trading strategies.
 >
@@ -108,22 +107,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithmic Trading]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (1), [[Feature Engineering]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maximize your learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980)
+#### [Maximize your learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=0)** - [Instructor] Thank you for choosing this learning journey with us.
 >
-> **[0:03](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=3)** To maximize your learning experience and truly immerse yourself in this rich world of Python and finance here are some key steps you can take.
+> **[0:03](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=3)** To maximize your learning experience and truly immerse yourself in this rich world of [[Python (Programming Language)|Python]] and finance here are some key steps you can take.
 >
 > **[0:13](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=13)** Firstly, to access the materials needed for this course you open this link.
 >
-> **[0:20](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=20)** You get into the GitHub repo to access the materials and over the green button, create a new code space which is the preferred platform and is optimized for your learning experience.
+> **[0:20](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=20)** You get into the [[GitHub]] repo to access the materials and over the green button, create a new code space which is the preferred platform and is optimized for your learning experience.
 >
 > **[0:36](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/maximize-your-learning?u=76281980&t=36)** It may take a while, so be patient and wait for the code space to be ready.
 >
@@ -175,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[GitHub]] (1)
 > **CLI Commands:** python (3), find (3)
 > **Tools:** github (1)
 > **UI Navigation:** go to (1)
@@ -189,14 +187,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Download and export data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
+#### [Download and export data](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=0)** - [Instructor] In this tutorial, I will show you how to download and export data tables with Python.
+> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=0)** - [Instructor] In this tutorial, I will show you how to download and export data tables with [[Python (Programming Language)|Python]].
 >
-> **[0:06](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=6)** You may observe the Microsoft daily stock prices which we download by using the Yahoo Finance Library.
+> **[0:06](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=6)** You may observe the [[Microsoft]] daily stock prices which we download by using the Yahoo Finance Library.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=15)** So we import YFinance, we abbreviated as YF, and we access the function download.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=185)** The same process would apply for the Bitcoin that we can execute and see the variation of the stock over time.
 >
-> **[3:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=195)** Now, what if you would like to export the data into a CSV file or an Excel?
+> **[3:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=195)** Now, what if you would like to export the data into a CSV file or an [[Microsoft Excel|Excel]]?
 >
 > **[3:21](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/download-and-export-data?u=76281980&t=201)** We can create a new folder.
 >
@@ -292,7 +289,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Microsoft Excel|Excel]] (11), [[Microsoft]] (7), [[Python (Programming Language)|Python]] (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Microsoft]] (7), [[Python (Programming Language)|Python]] (4)
 > **Env Vars:** csv (8), msft (3), btc_usd (2)
 > **CLI Commands:** python (4), make (1), find (1)
 > **Code Identifiers:** df_msft (2)
@@ -301,8 +298,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter rows and create columns for trading strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980)
+#### [Filter rows and create columns for trading strategies](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -312,13 +308,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=19)** Where do we start in this tutorial?
 >
-> **[0:21](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=21)** With the Microsoft daily stock price since 1986.
+> **[0:21](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=21)** With the [[Microsoft]] daily stock price since 1986.
 >
 > **[0:27](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=27)** We have the usual columns that we can expect from a stock data and we need to write the lines of codes that will take us to have this column.
 >
 > **[0:38](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=38)** In the next chapter, we will create a machine learning model that will be able to predict this column based on these features.
 >
-> **[0:47](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=47)** To make a case study more practical, we will focus on when Microsoft acquired LinkedIn.
+> **[0:47](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=47)** To make a case study more practical, we will focus on when Microsoft acquired [[LinkedIn]].
 >
 > **[0:55](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=55)** That was on December 8th, 2016 for $26.2 billion.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=82)** And in the rows, we start from 2016, December 8th.
 >
-> **[1:30](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=90)** And the rest of the rows, we place a colon again.
+> **[1:30](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=90)** And the [[Representational State Transfer (REST)|rest]] of the rows, we place a colon again.
 >
 > **[1:34](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=94)** Now we execute, and we can see our data frame is starting from 2016.
 >
@@ -394,7 +390,7 @@ created: 2026-05-02
 >
 > **[5:31](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=331)** In the next tutorial, we will work with this data frame to create a machine learning model that will calculate the change_tomorrow_direction based on these features.
 >
-> **[5:43](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=343)** Therefore, we need to save this file into an Excel, and we will save it into the folder, data, and we will call it Microsoft_LinkedIn_Processed.
+> **[5:43](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=343)** Therefore, we need to save this file into an [[Microsoft Excel|Excel]], and we will save it into the folder, data, and we will call it Microsoft_LinkedIn_Processed.
 >
 > **[6:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/filter-rows-and-create-columns-for-trading-strategies?u=76281980&t=360)** We execute, here, we can see the new file.
 >
@@ -402,7 +398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), next (3), [[Microsoft]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Excel|Excel]] (1)
 > **Code Identifiers:** change_tomorrow (3), df_microsoft_linkedin (2), pct_change (2), change_tomorrow_direction (2), df_microsoft_linkedn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), in the last (1)
@@ -416,8 +412,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compute machine learning classification model
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
+#### [Compute machine learning classification model](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -441,7 +436,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=72)** Those are going to be open, highest, lowest, closed, and volume.
 >
-> **[1:16](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=76)** So we can drop these two and take the rest.
+> **[1:16](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=76)** So we can drop these two and take the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:20](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=80)** Drop columns.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=94)** Now it's time to compute the machine learning model.
 >
-> **[1:38](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=98)** Where can we find the code of the machine learning algorithms within the SK Learn library?
+> **[1:38](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=98)** Where can we find the code of the machine learning [[Algorithms]] within the SK Learn library?
 >
 > **[1:46](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-classification-model?u=76281980&t=106)** We can see many options in this library, because there are many machine learning models, but we want the three models, concretely the decision tree.
 >
@@ -565,7 +560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Documentation:** the documentation (2)
 > **UI Navigation:** go to (2)
@@ -573,8 +568,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - in (1)
 
-#### First configurations of the strategy class
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980)
+#### [First configurations of the strategy class](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980&t=42)** We save the model in a variable model_dt and when we execute the variable, we can see the decision tree classifier we computed before.
 >
-> **[0:53](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980&t=53)** Now we load the dataset of the Microsoft stock and we need to think about how to implement the investment strategy.
+> **[0:53](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980&t=53)** Now we load the dataset of the [[Microsoft]] stock and we need to think about how to implement the investment strategy.
 >
 > **[1:04](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/first-configurations-of-the-strategy-class?u=76281980&t=64)** We will use the back testing later and the object that we will do the back testing report is backtest.
 >
@@ -646,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Code Identifiers:** model_dt (3), df_explanatory (2), classificationup (1), explanatory_today (1)
 > **CLI Commands:** find (2)
 > **Documentation:** the documentation (1)
@@ -654,8 +648,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simulate the investment strategy step by step
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980)
+#### [Simulate the investment strategy step by step](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -721,18 +714,17 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980&t=254)** The following day it also goes down.
 >
-> **[4:17](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980&t=257)** But as we haven't bought this stock, we cannot sell and the same conditions will apply for the rest of the days.
+> **[4:17](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980&t=257)** But as we haven't bought this stock, we cannot sell and the same conditions will apply for the [[Representational State Transfer (REST)|rest]] of the days.
 >
 > **[4:27](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/simulate-the-investment-strategy-step-by-step?u=76281980&t=267)** Now let's move on to the following tutorial where we will adapt these lines of code to the class that we created before.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** already_bought (4), buy_sell (1), buy_sell_track (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run the backtest on the strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980)
+#### [Run the backtest on the strategy](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +776,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980&t=216)** We observed that the return is quite good, is over 300000%.
 >
-> **[3:42](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980&t=222)** The return is so high because the model already knew what happened with the Microsoft stock from 2017 until nowadays.
+> **[3:42](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980&t=222)** The return is so high because the model already knew what happened with the [[Microsoft]] stock from 2017 until nowadays.
 >
 > **[3:52](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/run-the-backtest-on-the-strategy?u=76281980&t=232)** And we are backtesting the strategy on the same period of time.
 >
@@ -796,7 +788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1)
 > **Code Identifiers:** df_explanatory (3), tomorrow_direction (1)
 > **Cross-References:** later in (1)
 > **Documentation:** the documentation (1)
@@ -805,8 +797,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Backtest with other tickers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980)
+#### [Challenge: Backtest with other tickers](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -838,7 +829,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=91)** We save it into a variable, "df."
 >
-> **[1:34](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=94)** And apply the same thinking process for the rest of the exercises.
+> **[1:34](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=94)** And apply the same thinking process for the [[Representational State Transfer (REST)|rest]] of the exercises.
 >
 > **[1:39](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=99)** If I tell you here percentage change, you get inside the data frame, you look for change, and there you have the name of the function.
 >
@@ -860,7 +851,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=164)** So file name equals backtest report, for example.
 >
-> **[2:50](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=170)** Remember to put HTML, because that's the format of the report.
+> **[2:50](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=170)** Remember to put [[HTML]], because that's the format of the report.
 >
 > **[2:55](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-backtest-with-other-tickers?u=76281980&t=175)** And then if you go down, you have the file, backtest report, you open with live server.
 >
@@ -876,7 +867,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[HTML]] (1)
 > **Documentation:** the documentation (2)
 > **Analogies:** for example (2)
 > **Env Vars:** html (1)
@@ -890,8 +881,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compute machine learning regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
+#### [Compute machine learning regression model](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/compute-machine-learning-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -939,13 +929,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** change_tomorrow (1), y_pred (1), model_dt (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to evaluate regression models
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-evaluate-regression-models?u=76281980)
+#### [How to evaluate regression models](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-evaluate-regression-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1015,7 +1003,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Versions:** 1.2 (4), 2.4 (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** model_dt_regression (1)
@@ -1023,8 +1010,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configure and run the backtest with the regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/configure-and-run-the-backtest-with-the-regression-model?u=76281980)
+#### [Configure and run the backtest with the regression model](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/configure-and-run-the-backtest-with-the-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1067,20 +1053,19 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to interpret the backtesting dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980)
+#### [How to interpret the backtesting dashboard](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=0)** - [Instructor] How has our investment strategy performed over time?
 >
-> **[0:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=5)** We can see this dashboard from December 16 when Microsoft acquired LinkedIn, until nowadays, 14th of March.
+> **[0:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=5)** We can see this dashboard from December 16 when [[Microsoft]] acquired [[LinkedIn]], until nowadays, 14th of March.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=15)** We have four charts, the equity, the profit and loss, the trades and the volume.
 >
 > **[0:24](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=24)** The strategy made 17 trades, operations or transactions, as you may understand it better.
 >
-> **[0:32](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=32)** To understand the details of the operations, let's click on the zoom button and go to this first periods.
+> **[0:32](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=32)** To understand the details of the operations, let's click on the [[Zoom]] button and go to this first periods.
 >
 > **[0:42](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=42)** In the profit loss chart, we have these two markers and the first one tells us size 153 trades, with an increase of 58% from the date that they were bought around mid June.
 >
@@ -1112,7 +1097,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=224)** If we would like to show the dashboard of the classification based strategy, we can go to the notebook and drag all of the lines of codes.
 >
-> **[4:02](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=242)** Until we create the back testing reports that we will call classification.html and we will save it on the folder report back testing.
+> **[4:02](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=242)** Until we create the back testing reports that we will call classification.[[HTML]] and we will save it on the folder report back testing.
 >
 > **[4:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-interpret-the-backtesting-dashboard?u=76281980&t=255)** We open the live server, and we may observe how we had more activity based on the classification machine learning model than the regression model.
 >
@@ -1132,7 +1117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft]] (1), [[LinkedIn]] (1), next (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (2), [[Microsoft]] (1), [[LinkedIn]] (1), [[HTML]] (1)
 > **UI Navigation:** go to (2), click on (1), open the (1)
 > **Versions:** 1.5 (1), 31.3 (1)
 > **Definitions:** in other words (1), is a  (1)
@@ -1144,8 +1129,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimizing strategy parameters
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
+#### [Optimizing strategy parameters](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1217,7 +1201,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980&t=241)** Now that the computer have finished, after three minutes, let's find out about the results that we have gotten.
 >
-> **[4:07](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980&t=247)** If we bring them here, we observe that Python returns many objects.
+> **[4:07](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980&t=247)** If we bring them here, we observe that [[Python (Programming Language)|Python]] returns many objects.
 >
 > **[4:14](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/optimizing-strategy-parameters?u=76281980&t=254)** Because we see a parenthesis here, which is an object that contains many others inside.
 >
@@ -1229,14 +1213,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), python (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pandas reporting with heatmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/pandas-reporting-with-heatmaps?u=76281980)
+#### [Pandas reporting with heatmaps](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/pandas-reporting-with-heatmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1270,14 +1253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Programming]] (1)
 > **Code Identifiers:** reset_index (1), background_gradient (1)
 > **Env Vars:** dff (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Smart optimization to save computing time
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/smart-optimization-to-save-computing-time?u=76281980)
+#### [Smart optimization to save computing time](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/smart-optimization-to-save-computing-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1327,15 +1308,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), data (3)
 > **Documentation:** the documentation (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Optimization with other datasets
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980)
+#### [Challenge: Optimization with other datasets](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1343,7 +1322,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980&t=13)** We'll download the data from Yahoo Finance.
 >
-> **[0:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980&t=15)** In this case, I propose the Zoom stock, but you're free to use whichever you want.
+> **[0:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980&t=15)** In this case, I propose the [[Zoom]] stock, but you're free to use whichever you want.
 >
 > **[0:24](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-optimization-with-other-datasets?u=76281980&t=24)** At the end of this challenge, you should have optimized your strategy to learn which are the best parameters on limit sell and limit buy so that you get the best results, as in this case, is zero limit buy and zero limit sell.
 >
@@ -1395,7 +1374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we covered (1)
 > **Exercise Files:** download the (1)
@@ -1406,14 +1385,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why machine learning models overfit the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
+#### [Why machine learning models overfit the data](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=0)** - [Instructor] Imagine that today is the 20th of May, 2021.
 >
-> **[0:06](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=6)** We know what happened with the stock of Microsoft when it acquired LinkedIn in 2016 until today.
+> **[0:06](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=6)** We know what happened with the stock of [[Microsoft]] when it acquired [[LinkedIn]] in 2016 until today.
 >
 > **[0:15](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=15)** We already know how the investment strategy performs, which gives us a return of over 500%.
 >
@@ -1433,7 +1411,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=73)** In conclusion, every time that you are evaluating, your investment strategy needs to be with data out of the sample where the machine learning model was trained.
 >
-> **[1:25](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=85)** To learn the procedure, let me explain it to you with the Python code.
+> **[1:25](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=85)** To learn the procedure, let me explain it to you with the [[Python (Programming Language)|Python]] code.
 >
 > **[1:29](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=89)** First, we load the dataset between 2016 and 2023.
 >
@@ -1443,7 +1421,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=115)** With these lines of code, we tell that within the explanatory variable we want to get until the number of days split; the 70%, 1103 days.
 >
-> **[2:09](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=129)** And in the test set, we will go from that day until the rest of the rows.
+> **[2:09](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=129)** And in the test set, we will go from that day until the [[Representational State Transfer (REST)|rest]] of the rows.
 >
 > **[2:17](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/why-machine-learning-models-overfit-the-data?u=76281980&t=137)** So we execute.
 >
@@ -1483,7 +1461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** y_pred (4), mean_squared_error (2), y_true (1), x_text (1)
 > **CLI Commands:** python (1)
 > **Versions:** 0.73 (1)
@@ -1491,8 +1469,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to train models within the backtest
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-train-models-within-the-backtest?u=76281980)
+#### [How to train models within the backtest](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/how-to-train-models-within-the-backtest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1532,13 +1509,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Train test with other tickers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980)
+#### [Challenge: Train test with other tickers](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,7 +1531,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980&t=54)** And by the time we want to train, test and split the data.
 >
-> **[0:58](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980&t=58)** We should think that all of the machine learning algorithms are within sklearn.
+> **[0:58](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980&t=58)** We should think that all of the machine learning [[Algorithms]] are within sklearn.
 >
 > **[1:04](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-train-test-with-other-tickers?u=76281980&t=64)** So from sklearn. and because this is an algorithm to select the best possible model this is within the model_selection.
 >
@@ -1586,7 +1561,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **UI Navigation:** select the (2), in the sidebar (1)
 > **Code Identifiers:** model_selection (1), train_test_split (1)
 > **Env Vars:** meta (1)
@@ -1595,12 +1570,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Walk forward validation in machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980)
+#### [Walk forward validation in machine learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=0)** - [Instructor] Let's imagine for a second that we have a data set whose rows start at the beginning of 2016 and they finish at the end of 2022, which are the different algorithms that we can use to evaluate our investment strategy?
+> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=0)** - [Instructor] Let's imagine for a second that we have a data set whose rows start at the beginning of 2016 and they finish at the end of 2022, which are the different [[Algorithms]] that we can use to evaluate our investment strategy?
 >
 > **[0:17](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=17)** In previous tutorials we covered the train test split where we choose a splitting point to separate the data between the training set, the blue area, and the test set, the yellow area, based on all the time range.
 >
@@ -1616,11 +1590,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=78)** It is validating your strategy across different time ranges instead of just splitting the data at one particular time with only one split.
 >
-> **[1:28](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=88)** Also, at other years, such as 2021 and 2022, the walk-forward validation performs better than the rest.
+> **[1:28](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=88)** Also, at other years, such as 2021 and 2022, the walk-forward validation performs better than the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:38](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=98)** We could make more adjustment to the investment strategy to control for the years where the model doesn't perform quite as well.
 >
-> **[1:45](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=105)** But in this tutorial I want to show you a new approach to validate your investment strategy, so let's focus on uncovering the lines of Python code that we need to develop both the anchored walk-forward validation and the unanchored walk-forward validation.
+> **[1:45](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=105)** But in this tutorial I want to show you a new approach to validate your investment strategy, so let's focus on uncovering the lines of [[Python (Programming Language)|Python]] code that we need to develop both the anchored walk-forward validation and the unanchored walk-forward validation.
 >
 > **[2:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/walk-forward-validation-in-machine-learning?u=76281980&t=120)** Once we have the data set loaded with these lines of code how can we divide these rows into five splits?
 >
@@ -1718,7 +1692,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Python (Programming Language)|Python]] (6), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Versions:** 9.4 (1), 5.3 (1), 13.38 (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1727,8 +1701,7 @@ created: 2026-05-02
 > **Cross-References:** we covered (1)
 > **Documentation:** the documentation (1)
 
-#### Anchored walk forward validation in backtesting
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980)
+#### [Anchored walk forward validation in backtesting](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1778,7 +1751,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=163)** In other words, for the 800th, the 1000, and so on.
 >
-> **[2:48](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=168)** The rest of the days, we'll call the next function from the super class, which is the one that will inherited the regression.
+> **[2:48](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=168)** The [[Representational State Transfer (REST)|rest]] of the days, we'll call the next function from the super class, which is the one that will inherited the regression.
 >
 > **[2:56](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=176)** And we will proceed with the same logic we have uncovered in previous tutorials.
 >
@@ -1806,7 +1779,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=245)** One last change we need to do in the code is that the data that we select for the explanatory today is taking all of the columns of the data frame that we pass initially, but with the work forward, we need to add all of the columns including the target variable, which is a new concept that we haven't covered in the tutorial so far.
 >
-> **[4:29](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=269)** So we need to change the code here, and tell it to go until the last column and tell Python to take all of the columns but the last one.
+> **[4:29](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=269)** So we need to change the code here, and tell it to go until the last column and tell [[Python (Programming Language)|Python]] to take all of the columns but the last one.
 >
 > **[4:41](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/anchored-walk-forward-validation-in-backtesting?u=76281980&t=281)** Now we execute the sales of codes and we execute the optimization on the walk forward anchored approach to see which are the best coefficients for limit buy and limit sell such that the return is optimized.
 >
@@ -1818,14 +1791,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **Definitions:** means that (1), in other words (1), is a  (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create library for backtesting strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/create-library-for-backtesting-strategies?u=76281980)
+#### [Create library for backtesting strategies](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/create-library-for-backtesting-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1871,14 +1843,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Analogies:** for example (1), such as (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret reports from walk forward validation approaches
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/interpret-reports-from-walk-forward-validation-approaches?u=76281980)
+#### [Interpret reports from walk forward validation approaches](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/interpret-reports-from-walk-forward-validation-approaches?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1890,7 +1860,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/interpret-reports-from-walk-forward-validation-approaches?u=76281980&t=41)** But the unachored walk forward validation starts taking decisions from May, 2019, and since the stock went up during this time, the investment strategy is very successful.
 >
-> **[0:56](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/interpret-reports-from-walk-forward-validation-approaches?u=76281980&t=56)** Now that we have interpreted both walk forward validation algorithms, it is time for you to put in the practice and we have prepared a challenge where in the following video I will show you the mental models to master the knowledge required to solve this challenge.
+> **[0:56](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/interpret-reports-from-walk-forward-validation-approaches?u=76281980&t=56)** Now that we have interpreted both walk forward validation [[Algorithms]], it is time for you to put in the practice and we have prepared a challenge where in the following video I will show you the mental models to master the knowledge required to solve this challenge.
 
 > [!info]- Semantic Content
 >
@@ -1899,8 +1869,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Walk forward with other tickers
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-walk-forward-with-other-tickers?u=76281980)
+#### [Challenge: Walk forward with other tickers](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/challenge-walk-forward-with-other-tickers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1951,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2)
 > **Env Vars:** mse (3)
 > **Code Identifiers:** y_true (1), y_pred (1)
 > **Documentation:** the documentation (2)
@@ -1990,14 +1958,14 @@ created: 2026-05-02
 > **Tools:** jupyter (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** is a  (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### Conclusion
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2009,9 +1977,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=13)** For example, if we want a table where every row represents one day and the columns, the prices for a particular stock, we go to Yahoo Finance and identify the ticker for the company.
 >
-> **[0:26](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=26)** In this case: Microsoft Corporation, the ticker, MSFT.
+> **[0:26](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=26)** In this case: [[Microsoft]] Corporation, the ticker, MSFT.
 >
-> **[0:31](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=31)** We put it into the Python codes and we downloaded it with the library, Yahoo Finance, to finally get this data frame.
+> **[0:31](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=31)** We put it into the [[Python (Programming Language)|Python]] codes and we downloaded it with the library, Yahoo Finance, to finally get this data frame.
 >
 > **[0:40](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=40)** The same mental model would apply for any ticker that you want to download in the stock market.
 >
@@ -2031,11 +1999,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=92)** If you want to calculate the best possible model, don't think that you will need to learn all of the mathematical equations because in Python code, we always follow the same steps.
 >
-> **[1:43](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=103)** In this case, we will compute a linear regression decision tree and random forest to predict the change of tomorrow based on these columns.
+> **[1:43](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=103)** In this case, we will compute a [[Linear Regression]] decision tree and random forest to predict the change of tomorrow based on these columns.
 >
 > **[1:52](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=112)** The first thing we do is separate the data between the target, the Y, and the explanatory, the X, and then for any of the three models, we apply the same procedure: fit, predict, and score.
 >
-> **[2:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=125)** The only thing that changes is how do we import any of the algorithms.
+> **[2:05](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=125)** The only thing that changes is how do we import any of the [[Algorithms]].
 >
 > **[2:10](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=130)** Once we know, we execute and we are ready to get this data frame.
 >
@@ -2101,11 +2069,11 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=417)** And that's how we create the validation algorithms in Python.
 >
-> **[7:03](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=423)** Follow me to the next video where I will tell you some advices to optimize your learning journey in algorithmic trading.
+> **[7:03](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/course-summary?u=76281980&t=423)** Follow me to the next video where I will tell you some advices to optimize your learning journey in [[Algorithmic Trading]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (5), [[Python (Programming Language)|Python]] (4), next (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Python (Programming Language)|Python]] (4), [[Microsoft]] (1), [[Linear Regression]] (1), [[Algorithmic Trading]] (1)
 > **CLI Commands:** python (4)
 > **Analogies:** for example (2), such as (1)
 > **File Paths:** backtesting.py (1), strategies.py (1)
@@ -2114,16 +2082,15 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=0)** - [Instructor] Thank you all for embarking on this enlightening journey through the realms of Python and Finance.
+> **[0:00](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=0)** - [Instructor] Thank you all for embarking on this enlightening journey through the realms of [[Python (Programming Language)|Python]] and Finance.
 >
 > **[0:06](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=6)** But remember, our adventure doesn't have to end here.
 >
-> **[0:11](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=11)** I warmly invite you to stay connected with me on LinkedIn where I share updates, industry insights and more exciting opportunities to broaden your horizons.
+> **[0:11](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=11)** I warmly invite you to stay connected with me on [[LinkedIn]] where I share updates, industry insights and more exciting opportunities to broaden your horizons.
 >
 > **[0:21](https://www.linkedin.com/learning/practical-python-for-algorithmic-trading/what-s-next?u=76281980&t=21)** For those eager to apply their newfound knowledge.
 >

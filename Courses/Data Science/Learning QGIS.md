@@ -105,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Exploring the powerful world of QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980)
+#### [Exploring the powerful world of QGIS](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,11 +119,11 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980&t=25)** Jump right into mapping using opensource GIS.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980&t=28)** So join me in my LinkedIn Learning course Learning QGIS.
+> **[0:28](https://www.linkedin.com/learning/learning-qgis-2/exploring-the-powerful-world-of-qgis?u=76281980&t=28)** So join me in my [[LinkedIn]] Learning course Learning QGIS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** gis (5), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** gis (5), qgis (2), cad (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -134,14 +133,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980)
+#### [Installing QGIS](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=0)** - [Instructor] In this video, we will download the QGIS installer and ensure we install the appropriate components to run QGIS on our computer.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=7)** In this case, we're going to install the Windows edition.
+> **[0:07](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=7)** In this case, we're going to install the [[Windows]] edition.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=10)** So simply go to the download site for QGIS, again it's 3.8.3 Zanzibar edition.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=18)** Most computers nowadays are 64 bit, but if you have an older computer you can still run the 32 bit edition.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=24)** Again, there's older versions as version 3.4 or if you're running a macOS you can download it from here or Linux and so on.
+> **[0:24](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=24)** Again, there's older versions as version 3.4 or if you're running a macOS you can download it from here or [[Linux]] and so on.
 >
 > **[0:32](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=32)** In this case we're going to install version 3.8 64 bit.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=94)** You scroll down to Q and there's QGIS 3.8 and we can pick on, oh there's two, so let's pick on that one.
 >
-> **[1:42](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=102)** It should just install the QGIS 3.8, not all the other products.
+> **[1:42](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=102)** It should just install the QGIS 3.8, not all the other [[Microsoft Products|products]].
 >
 > **[1:46](https://www.linkedin.com/learning/learning-qgis-2/installing-qgis-2?u=76281980&t=106)** And there we are.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[Linux]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** qgis (12), gis (1)
 > **Prerequisites:** install (10), set up (1)
 > **Versions:** 3.8 (4), version 3 (2), 3.8.3 (1)
@@ -202,8 +200,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding the types of QGIS installs
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980)
+#### [Understanding the types of QGIS installs](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=14)** So, if we go to the download page for QGIS, and at the time we've recorded this, we're using the QGIS 3.8.3 Zanzibar release.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=23)** Now, some of the installation downloads we have, we have a download for Windows.
+> **[0:23](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=23)** Now, some of the installation downloads we have, we have a download for [[Windows]].
 >
 > **[0:27](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=27)** You'll see that there's the OSGeo4W Network installer, both 64-bit and 32-bit, as well as the stand-alone versions.
 >
@@ -221,9 +218,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=56)** But in this case, I installed the Standalone Install Version 3.8 64-bit on a Windows box.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=63)** Now we also have some more stable versions such as the 3.4 version, we have downloads for Mac, downloads for Linux and BSD.
+> **[1:03](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=63)** Now we also have some more stable versions such as the 3.4 version, we have downloads for Mac, downloads for [[Linux]] and BSD.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=72)** There's even a download for Android.
+> **[1:12](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=72)** There's even a download for [[Android]].
 >
 > **[1:13](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=73)** If you download any of these, you can always come back and reinstall.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=109)** The Linux versions were great as well.
 >
-> **[1:51](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=111)** I've had it installed on my Ubuntu for a while, it works really well.
+> **[1:51](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=111)** I've had it installed on my [[Ubuntu]] for a while, it works really well.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-qgis-2/understanding-the-types-of-qgis-installs?u=76281980&t=115)** I haven't tried BSD and the Android is really neat that way you can actually open up QGS projects on your Android device.
 >
@@ -257,7 +254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), [[Windows]] (3), [[Linux]] (2), [[Ubuntu]] (1), product (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Windows]] (3), [[Linux]] (2), [[Ubuntu]] (1)
 > **Env Vars:** qgis (8), bsd (2), saga (1), grass (1), ogr (1)
 > **Prerequisites:** install (8)
 > **Versions:** 3.8.3 (1), version 3 (1), 3.4 (1)
@@ -266,14 +263,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Overview of QGIS features, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980)
+#### [Overview of QGIS features, part 1](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=0)** - [Instructor] Understanding the components of QGIS Help to guide you through the install process and use of the product.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=6)** We will explore all of the components of QGIS for data collection, analysis, mapping and sharing in data.
+> **[0:06](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=6)** We will explore all of the components of QGIS for [[Data Collection]], analysis, mapping and sharing in data.
 >
 > **[0:12](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=12)** Let's do a quick overview of what QGIS has to offer now.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=55)** If I right click on Bike Routes and click Layer Properties, you will see three tabs.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=61)** The first one is metadata.
+> **[1:01](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=61)** The first one is [[Metadata]].
 >
 > **[1:03](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=63)** Metadata is basically information about data.
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=116)** If you don't have a PRJ file, you will have to manually tell the shapefile when you add it to your QGIS project what it is.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=123)** And if you wanted to preview it, you can click on preview and zoom in and out, have a look.
+> **[2:03](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=123)** And if you wanted to preview it, you can click on preview and [[Zoom]] in and out, have a look.
 >
 > **[2:07](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=127)** Also you can look at the attributes.
 >
@@ -349,7 +345,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=169)** You can actually create those in QGIS.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=172)** A spatial-like database, a postGIS database, MSSQL, that's actually Microsoft SQL server, spatial data and the Oracle one, again, is that Oracle spacial data.
+> **[2:52](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=172)** A spatial-like database, a postGIS database, MSSQL, that's actually [[Microsoft SQL Server]], spatial data and the Oracle one, again, is that Oracle spacial data.
 >
 > **[3:04](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-1-2?u=76281980&t=184)** In fact even if you store spacial data in another GIS such as esraGIS, you can actually connect to that special data directly using MSSQL or Oracle.
 >
@@ -391,7 +387,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Metadata]] (3), database (2), product (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Data Collection]] (1), [[Zoom]] (1), [[Microsoft SQL Server]] (1)
 > **Env Vars:** qgis (8), prj (4), wms (4), mssql (2), url (2)
 > **Analogies:** such as (3), for example (1)
 > **UI Navigation:** click on (2), go to (1)
@@ -400,8 +396,7 @@ created: 2026-05-02
 > **URLs:** [theopenstreetmap.org](https://theopenstreetmap.org) (1)
 > **Prerequisites:** install (1)
 
-#### Overview of QGIS features, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980)
+#### [Overview of QGIS features, part 2](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -421,7 +416,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=52)** Oh, let's put the buildings above parcels, because parcels were obscuring the buildings.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=56)** So if I zoom in, I'm just using my mouse, there's a wheel on my mouse as I roll in and roll out.
+> **[0:56](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=56)** So if I [[Zoom]] in, I'm just using my mouse, there's a wheel on my mouse as I roll in and roll out.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=63)** You can also use the zoom tools at the top, so you can hit zoom in and make a window.
 >
@@ -495,7 +490,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=265)** And this could be any kind of data.
 >
-> **[4:27](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=267)** It could be SQL Server, it could be Oracle, and so on; in this case, we're using shape files.
+> **[4:27](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=267)** It could be [[Microsoft SQL Server|SQL Server]], it could be Oracle, and so on; in this case, we're using shape files.
 >
 > **[4:31](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=271)** So let's look at some other things we can do.
 >
@@ -523,7 +518,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=363)** We have so many things at our disposal, such as all the data we can connect to, all the editing tools we have, all the live services we can connect to, and even a 3D maps.
 >
-> **[6:14](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=374)** There's all sorts of other things, such as RASTER analysis we can do, as well as databases we can connect to.
+> **[6:14](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=374)** There's all sorts of other things, such as RASTER analysis we can do, as well as [[Databases]] we can connect to.
 >
 > **[6:20](https://www.linkedin.com/learning/learning-qgis-2/overview-of-qgis-features-part-2?u=76281980&t=380)** It just gives us a whole plethora of things we can do with QGIS.
 >
@@ -531,7 +526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), hit (7), [[Zoom]] (6), node (1), prompt (1)
+> **Frameworks & Libraries:** [[Zoom]] (6), [[Microsoft SQL Server|Sql server]] (1), [[Databases]] (1)
 > **Env Vars:** utm (3), epsg (2), raster (2), pdf (2), qgis (2)
 > **UI Navigation:** toggle (5), drag and drop (2), click on (2)
 > **CLI Commands:** make (5), find (1), node (1)
@@ -545,8 +540,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of vector data in QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980)
+#### [Types of vector data in QGIS](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -560,21 +554,21 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=21)** File, we can browse to any file we want.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=24)** So some of the files we can choose are things like ZIP files from GDAL, arch info coverage, that's an old one, DNA, again, another old one, DXF files exported from AutoCAT, comma separated value CSVs which you can open in Excel, all the shape files, personal geo database, we can look at other types of shape files, two types here, because on is an open search version, we have all sorts of geo JSON files, geo packages, GORSS, even KML which is from Google, map info, all sorts of files all the way down to topple JSON and so on.
+> **[0:24](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=24)** So some of the files we can choose are things like ZIP files from GDAL, arch info coverage, that's an old one, DNA, again, another old one, DXF files exported from AutoCAT, comma separated value CSVs which you can open in [[Microsoft Excel|Excel]], all the shape files, personal geo database, we can look at other types of shape files, two types here, because on is an open search version, we have all sorts of geo [[JSON]] files, geo packages, GORSS, even KML which is from [[Google]], map info, all sorts of files all the way down to topple JSON and so on.
 >
 > **[1:04](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=64)** We can even grab a KML, for example, I can add a KML at any time I want.
 >
 > **[1:09](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=69)** Now for directory, we have different types.
 >
-> **[1:11](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=71)** We have open file geo database, which is more of a directory control, so file geo databases are basically directories, they're not single files like a shape file.
+> **[1:11](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=71)** We have open file geo database, which is more of a directory control, so file geo [[Databases]] are basically directories, they're not single files like a shape file.
 >
 > **[1:21](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=81)** US Census, binary coverages, the old binary coverages we can pick on that directory.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=86)** Now the database, this is very powerful because what we can do is we can connect directly to Oracle Spatial, or points from ODBC, or an ESRI personal geo database, MS SQL, so that's Microsoft's SQL server is there's a column in there with geography and geometry data types, postgres SQL, we can go in there, again, if there's geometry data types, as well as my SQL.
+> **[1:26](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=86)** Now the database, this is very powerful because what we can do is we can connect directly to Oracle Spatial, or points from ODBC, or an ESRI personal geo database, MS [[SQL]], so that's [[Microsoft]]'s [[Microsoft SQL Server|SQL server]] is there's a column in there with geography and geometry data types, [[PostgreSQL|postgres]] SQL, we can go in there, again, if there's geometry data types, as well as my SQL.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=107)** If any of those databases, anything from Oracle to my SQL has spatial data as a column type, we can use that to pull it into our QGIS project.
 >
-> **[1:57](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=117)** Finally, there's a protocol where we can go to a URL to pull in data, so you can use the HTTP, Google Cloud Storage, or whatever point or particular file, or go directly to a geo JSON.
+> **[1:57](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=117)** Finally, there's a protocol where we can go to a URL to pull in data, so you can use the HTTP, [[Google Cloud Platform (GCP)|Google Cloud]] Storage, or whatever point or particular file, or go directly to a geo JSON.
 >
 > **[2:08](https://www.linkedin.com/learning/learning-qgis-2/types-of-vector-data-in-qgis?u=76281980&t=128)** So a geo JSON file, basically is text file that's structured in such a way that we can bring in data.
 >
@@ -596,15 +590,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[JSON]] (9), database (7), [[SQL]] (5), [[Databases]] (2)
+> **Frameworks & Libraries:** [[JSON]] (9), [[SQL]] (5), [[Databases]] (2), [[Microsoft Excel|Excel]] (1), [[Google]] (1)
 > **Env Vars:** json (9), sql (6), qgis (4), kml (3), url (2)
 > **UI Navigation:** go to (3), drag and drop (2)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add shapefiles to QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980)
+#### [Add shapefiles to QGIS](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +605,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=3)** It was created way back in 1994, by Esri, to be used with a product called Arcview.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=9)** It is still used very extensively, even though it's being phased out eventually, but it's still being used by most GISs including the Esri suite of products.
+> **[0:09](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=9)** It is still used very extensively, even though it's being phased out eventually, but it's still being used by most GISs including the Esri suite of [[Microsoft Products|products]].
 >
 > **[0:18](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=18)** And it's used here, inside of QGIS.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=190)** There's also a DBF file, which is a D based file, which you can actually open up in DB reader.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=196)** Excel used to be able to look at this directly, actually.
+> **[3:16](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=196)** [[Microsoft Excel|Excel]] used to be able to look at this directly, actually.
 >
 > **[3:19](https://www.linkedin.com/learning/learning-qgis-2/add-shapefiles-to-qgis?u=76281980&t=199)** And then there's the PRJ file, which actually keeps track of the coordinate system.
 >
@@ -756,7 +749,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), gis (1), product (1), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** qgis (5), utm (2), gis (1), shx (1), dbf (1)
 > **Analogies:** for example (4), such as (1)
 > **UI Navigation:** drag and drop (3)
@@ -765,8 +758,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add WFS data to QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980)
+#### [Add WFS data to QGIS](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +772,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980&t=17)** Under your XYZ tiles, you should be able to just drag and drop your open street map in.
 >
-> **[0:23](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980&t=23)** Now the area we're interested in is Hawaii, so we're going to zoom in and just center on Hawaii in your map.
+> **[0:23](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980&t=23)** Now the area we're interested in is Hawaii, so we're going to [[Zoom]] in and just center on Hawaii in your map.
 >
 > **[0:31](https://www.linkedin.com/learning/learning-qgis-2/add-wfs-data-to-qgis?u=76281980&t=31)** Now we're going to open up a browser and go to the Hawaii government site.
 >
@@ -846,7 +838,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Zoom]] (4), [[Search]] (2), hit (2), web (1)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **Env Vars:** wfs (11), url (3), qgis (3), wms (2), xyz (1)
 > **UI Navigation:** click on (3), drag and drop (2), go to (2)
 > **URLs:** [hawaii.gov](https://hawaii.gov) (1)
@@ -860,8 +852,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of raster data in QGIS
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980)
+#### [Types of raster data in QGIS](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -881,7 +872,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=33)** Here, you can browse through a file and there's a lot of files we can choose from.
 >
-> **[0:38](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=38)** Everything from ASCI and ARC, ARC info, binary, and export files, autoCAD driver... Oh, just a note on the autoCAD driver, the DWG has to be pretty old, it had to be 2000 version or older.
+> **[0:38](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=38)** Everything from ASCI and ARC, ARC info, binary, and export files, [[AutoCAD]] driver... Oh, just a note on the autoCAD driver, the DWG has to be pretty old, it had to be 2000 version or older.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=50)** It's kind of an older version.
 >
@@ -891,7 +882,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=59)** It's just basically an image in the background.
 >
-> **[1:02](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=62)** We also have all sorts of things like elevations, ERDAS compressed wavelets.
+> **[1:02](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=62)** We also have all sorts of things like elevations, ERDAS compressed [[Wavelets]].
 >
 > **[1:07](https://www.linkedin.com/learning/learning-qgis-2/types-of-raster-data-in-qgis?u=76281980&t=67)** That's ECW, that's what we're going to be using later.
 >
@@ -937,15 +928,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[AutoCAD]] (3), [[Wavelets]] (1)
+> **Frameworks & Libraries:** [[AutoCAD]] (3), [[Wavelets]] (1)
 > **Env Vars:** ecw (3), qgis (2), arc (2), dem (2), asci (1)
 > **Code Identifiers:** autocad (3)
 > **Analogies:** for example (2)
 > **UI Navigation:** drag and drop (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add ECW data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980)
+#### [Add ECW data](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,7 +967,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980&t=76)** Now I know for a fact all four of these images are actually in UTM zone 10.
 >
-> **[1:23](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980&t=83)** So let's zoom into the layer and we should see all these layers, they're all put together, but it may not know what coordinate system it is.
+> **[1:23](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980&t=83)** So let's [[Zoom]] into the layer and we should see all these layers, they're all put together, but it may not know what coordinate system it is.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-qgis-2/add-ecw-data?u=76281980&t=93)** So what I'm going to do is, I'm going to right-click each one and I'm going to go into Properties, and click on Source.
 >
@@ -1087,7 +1077,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Zoom]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **Env Vars:** epsg (9), ecw (8), utm (5), tif (4), jpeg (3)
 > **UI Navigation:** drag and drop (2), go to (2), right-click (1), click on (1)
 > **Analogies:** such as (3)
@@ -1096,8 +1086,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Warnings:** be careful (1)
 
-#### Add WMS data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980)
+#### [Add WMS data](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980&t=107)** So, you'll see everything from ferry segments all the way down to expressways and highways.
 >
-> **[1:53](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980&t=113)** Now, I can zoom right in and have a look.
+> **[1:53](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980&t=113)** Now, I can [[Zoom]] right in and have a look.
 >
 > **[1:55](https://www.linkedin.com/learning/learning-qgis-2/add-wms-data?u=76281980&t=115)** And, as you see is, as I zoom, the maps are being rendered on the server even though it's originally vector, their coming back as raster.
 >
@@ -1187,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), web (2), [[Zoom]] (2), power (1)
+> **Frameworks & Libraries:** [[Zoom]] (2)
 > **Env Vars:** wms (6), qgis (4), url (4), png (1), jpeg (1)
 > **Definitions:** is a  (2), stands for (1)
 > **UI Navigation:** drag and drop (2)
@@ -1196,8 +1185,7 @@ created: 2026-05-02
 > **Code Identifiers:** toporama_en (1)
 > **Cross-References:** go back to (1)
 
-#### Add DEM data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980)
+#### [Add DEM data](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1273,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980&t=147)** And then you can bring them into a product like this.
 >
-> **[2:29](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980&t=149)** Or some products can actually generate DEM files from the ortho imagery, so you don't even need liDAR.
+> **[2:29](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980&t=149)** Or some [[Microsoft Products|products]] can actually generate DEM files from the ortho imagery, so you don't even need liDAR.
 >
 > **[2:36](https://www.linkedin.com/learning/learning-qgis-2/add-dem-data?u=76281980&t=156)** You can get really high accuracy DEM imagery rendered from a 3D image.
 >
@@ -1305,15 +1293,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), product (1), [[Microsoft Products|Products]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** dem (15), las (1)
 > **Code Identifiers:** lidar (3)
 > **UI Navigation:** drag and drop (1), double-click (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating contour lines from DEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980)
+#### [Creating contour lines from DEM](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=213)** It would be better when creating contours, that we merge them into one big shapefile.
 >
-> **[3:38](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=218)** So to do that, we can go to Vector, Data Management Tools, Merge Vector Layers.
+> **[3:38](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=218)** So to do that, we can go to Vector, [[Data Management]] Tools, Merge Vector Layers.
 >
 > **[3:45](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=225)** So let's browse.
 >
@@ -1449,7 +1436,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=262)** I'll turn off the other two.
 >
-> **[4:24](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=264)** We'll zoom in.
+> **[4:24](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=264)** We'll [[Zoom]] in.
 >
 > **[4:27](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=267)** Use the Info tool and you can see that we now have a shapefile with an elevation and an ID and what layer it comes from and even the original path of where it came from 'cause it shows that we have the path merged from the first one.
 >
@@ -1457,7 +1444,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=284)** So, we now have contour lines from two DEM files that we added to our QGIS project.
 >
-> **[4:49](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=289)** Although, we only created the shapefile in this video, we could've chosen any kind of vector files: KML, DXF, JSON.
+> **[4:49](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=289)** Although, we only created the shapefile in this video, we could've chosen any kind of vector files: KML, DXF, [[JSON]].
 >
 > **[4:57](https://www.linkedin.com/learning/learning-qgis-2/creating-contour-lines-from-dem?u=76281980&t=297)** But some formats do not support attributes such as elevation field, so be careful what format you choose.
 >
@@ -1467,7 +1454,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), data (3), management (1), [[Zoom]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[Data Management]] (1), [[Zoom]] (1), [[JSON]] (1)
 > **Env Vars:** dem (4), qgis (3), shp (1), epsg (1), kml (1)
 > **Code Identifiers:** contours_west (2), gdal_contour (2), contours_east (2)
 > **CLI Commands:** make (2)
@@ -1481,8 +1468,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating 3D maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980)
+#### [Creating 3D maps](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,7 +1498,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980&t=59)** And as you can see it's the exact same map in 2 dimensions.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980&t=63)** But we can do things like change the extent, so first of all it's the button we have to zoom full so we can zoom to the extent of the 2 dimensional map still, we're in 2 dimensions.
+> **[1:03](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980&t=63)** But we can do things like change the extent, so first of all it's the button we have to [[Zoom]] full so we can zoom to the extent of the 2 dimensional map still, we're in 2 dimensions.
 >
 > **[1:12](https://www.linkedin.com/learning/learning-qgis-2/creating-3d-maps?u=76281980&t=72)** We have the identify tool, it's the same exact identify tool in the 2D map and we have animations we can toggle on and off.
 >
@@ -1608,15 +1594,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Zoom]] (4), data (4)
+> **Frameworks & Libraries:** [[Zoom]] (4)
 > **CLI Commands:** make (7)
 > **UI Navigation:** click on (5), drag and drop (1), toggle (1)
 > **Env Vars:** qgis (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### 3D configuration and elevation
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980)
+#### [3D configuration and elevation](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1746,7 +1731,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980&t=261)** It's like, you're in the Himalayas.
 >
-> **[4:23](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980&t=263)** And we'll just zoom out a little just to really show how much exaggeration there is.
+> **[4:23](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980&t=263)** And we'll just [[Zoom]] out a little just to really show how much exaggeration there is.
 >
 > **[4:29](https://www.linkedin.com/learning/learning-qgis-2/3d-configuration-and-elevation?u=76281980&t=269)** That's amazing.
 >
@@ -1830,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), data (4), [[Zoom]] (3), web (1)
+> **Frameworks & Libraries:** [[Zoom]] (3)
 > **Env Vars:** dem (9), road_centerlines (6), bike_routes (5), buildings (4), raster (1)
 > **CLI Commands:** make (7)
 > **UI Navigation:** right-click (1), go to (1), in the menu (1), in the toolbar (1)
@@ -1839,8 +1824,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Prerequisites:** configure (1)
 
-#### 3D animations
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980)
+#### [3D animations](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1856,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980&t=84)** So, first of all, let's hit the play button.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980&t=86)** What it does is with a about three-second interval it will zoom out, actually it's five seconds, so in a five-second interval, it'll start at the beginning where we're looking at and just pan out, that's all it's doing.
+> **[1:26](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980&t=86)** What it does is with a about three-second interval it will [[Zoom]] out, actually it's five seconds, so in a five-second interval, it'll start at the beginning where we're looking at and just pan out, that's all it's doing.
 >
 > **[1:39](https://www.linkedin.com/learning/learning-qgis-2/3d-animations?u=76281980&t=99)** So that's the default from the current view and it pans out quite a bit.
 >
@@ -1932,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Zoom]] (5), product (1), open-source (1)
+> **Frameworks & Libraries:** [[Zoom]] (5)
 > **Env Vars:** qgis (4), jpg (2), avi (2), mpeg (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (3), click on (1)
@@ -1945,8 +1929,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Point layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980)
+#### [Point layers](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2028,7 +2011,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980&t=188)** So let's just click okay and there are the hydrants and they show up and they look like tiny little hydrants.
 >
-> **[3:14](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980&t=194)** So let's zoom in.
+> **[3:14](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980&t=194)** So let's [[Zoom]] in.
 >
 > **[3:15](https://www.linkedin.com/learning/learning-qgis-2/point-layers?u=76281980&t=195)** Oh, they stay tiny no matter how far I zoom, they're tiny, tiny hydrants.
 >
@@ -2106,7 +2089,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (6), hit (4), next (1)
+> **Frameworks & Libraries:** [[Zoom]] (6)
 > **UI Navigation:** click on (5), select the (2), drag and drop (1), go to (1), dropdown (1)
 > **Env Vars:** svg (5), qgis (2), epsg (1), utm (1)
 > **CLI Commands:** make (4)
@@ -2115,8 +2098,7 @@ created: 2026-05-02
 > **Ports:** :26910 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Polyline layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980)
+#### [Polyline layers](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2172,7 +2154,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980&t=131)** Quite interesting.
 >
-> **[2:12](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980&t=132)** What's hard to see even as we zoom in, they just get smaller and smaller.
+> **[2:12](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980&t=132)** What's hard to see even as we [[Zoom]] in, they just get smaller and smaller.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-qgis-2/polyline-layers?u=76281980&t=137)** Lets lock them in place to see how they would look.
 >
@@ -2278,7 +2260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Zoom]] (5)
+> **Frameworks & Libraries:** [[Zoom]] (5)
 > **UI Navigation:** click on (5), toggle (1)
 > **CLI Commands:** make (5)
 > **Versions:** 0.8 (3)
@@ -2286,8 +2268,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Polygon layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980)
+#### [Polygon layers](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2321,7 +2302,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980&t=52)** So make sure the raster's underneath parcels and buildings.
 >
-> **[0:55](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980&t=55)** And we'll zoom in and there we have it.
+> **[0:55](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980&t=55)** And we'll [[Zoom]] in and there we have it.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-qgis-2/polygon-layers?u=76281980&t=58)** We've got an image, we've got parcels, and we have buildings.
 >
@@ -2441,14 +2422,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), [[Zoom]] (1), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (1)
 > **CLI Commands:** make (11)
 > **UI Navigation:** click on (3), drag and drop (1)
 > **Env Vars:** ecw (1), utm (1)
 > **Speakers:** - polygon (1)
 
-#### Thematic layers, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/thematic-layers-part-1?u=76281980)
+#### [Thematic layers, part 1](https://www.linkedin.com/learning/learning-qgis-2/thematic-layers-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2570,7 +2550,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), data (1), next (1)
 > **Env Vars:** pipes (11), qgis (2)
 > **UI Navigation:** click on (5), drag and drop (1), toggle (1)
 > **CLI Commands:** make (3)
@@ -2579,8 +2558,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thematic layers, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/thematic-layers-part-2?u=76281980)
+#### [Thematic layers, part 2](https://www.linkedin.com/learning/learning-qgis-2/thematic-layers-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2670,14 +2648,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (5), data (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** qgis (1)
 > **UI Navigation:** double-click (1)
 > **Speakers:** - [instructor] (1)
 
-#### DEM layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980)
+#### [DEM layers](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2809,7 +2785,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980&t=234)** So maybe a blue color right about there.
 >
-> **[3:56](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980&t=236)** I could copy the html notation and get it perfect.
+> **[3:56](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980&t=236)** I could copy the [[HTML]] notation and get it perfect.
 >
 > **[4:00](https://www.linkedin.com/learning/learning-qgis-2/dem-layers?u=76281980&t=240)** Actually, that's exactly what I'm going to do.
 >
@@ -2827,7 +2803,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[HTML]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (2), go to (1)
 > **Env Vars:** qgis (1), cpt (1)
@@ -2841,8 +2817,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Label vector data, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-1?u=76281980)
+#### [Label vector data, part 1](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2970,7 +2945,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (12), parallel (2), feature (1)
 > **CLI Commands:** make (13), find (1)
 > **Env Vars:** utm (2), epsg (1), nad83 (1), housenumbe (1)
 > **UI Navigation:** go to (2), drag and drop (2), double-click (1)
@@ -2978,8 +2952,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label vector data, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980)
+#### [Label vector data, part 2](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3063,7 +3036,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=220)** So if I hit okay, hit apply, and now you can see all the labels.
 >
-> **[3:46](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=226)** Now the problem we see here is that because we're offset from the centroid, we're not sure where those addresses are for because it's quite a long word.
+> **[3:46](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=226)** Now the problem we see here is that because we're offset from the centroid, we're not sure where those addresses are for because it's quite a long [[Microsoft Word|word]].
 >
 > **[3:55](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=235)** So we may have to go back to the placement and go back inside the centroid, and we can even force it inside the polygon itself.
 >
@@ -3085,7 +3058,7 @@ created: 2026-05-02
 >
 > **[4:52](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=292)** But because we have that buffer, that halo, it's really visible here.
 >
-> **[4:57](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=297)** Now we can use techniques such as scale limits to turn off the labels when we zoom way out because as you can see, as we zoom way out, it gets very busy in some cases.
+> **[4:57](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=297)** Now we can use techniques such as scale limits to turn off the labels when we [[Zoom]] way out because as you can see, as we zoom way out, it gets very busy in some cases.
 >
 > **[5:06](https://www.linkedin.com/learning/learning-qgis-2/label-vector-data-part-2?u=76281980&t=306)** We have all these tiny little labels.
 >
@@ -3111,7 +3084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Zoom]] (7), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (7), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), double-click (1), click on (1)
 > **Analogies:** such as (2)
@@ -3124,8 +3097,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project properties, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980)
+#### [Project properties, part 1](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3175,7 +3147,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=120)** When we hit OK, the background is blue.
 >
-> **[2:03](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=123)** Now, that's okay for some of this map, because some of it is water, but the rest is land, so that doesn't make sense.
+> **[2:03](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=123)** Now, that's okay for some of this map, because some of it is water, but the [[Representational State Transfer (REST)|rest]] is land, so that doesn't make sense.
 >
 > **[2:09](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=129)** So let's go back into our properties and change it to something else or back to the default color.
 >
@@ -3221,7 +3193,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=273)** Let's go back to the project properties.
 >
-> **[4:37](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=277)** Now, the Metadata is generated, some of it automatically for example of the title and my name and the date, but you can fill all these and I actually recommend all your projects plus match Metadata as you can into it.
+> **[4:37](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=277)** Now, the [[Metadata]] is generated, some of it automatically for example of the title and my name and the date, but you can fill all these and I actually recommend all your projects plus match Metadata as you can into it.
 >
 > **[4:48](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-1?u=76281980&t=288)** Basically, list all the different keyword and so on.
 >
@@ -3237,7 +3209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), data (3), [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** qgis (4), utm (3), cad (2), grs (1), epsg (1)
 > **CLI Commands:** make (10), find (1)
 > **Cross-References:** go back to (2)
@@ -3246,8 +3218,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Project properties, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980)
+#### [Project properties, part 2](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3329,13 +3300,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=192)** But you can also look at the QGIS site and see any more project variables that are set.
 >
-> **[3:18](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=198)** And a lot of these variables are set by the metadata in the general tabs.
+> **[3:18](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=198)** And a lot of these variables are set by the [[Metadata]] in the general tabs.
 >
 > **[3:22](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=202)** They're actually stored in your variables as well.
 >
 > **[3:25](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=205)** So they're inside there.
 >
-> **[3:26](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=206)** Now for those of you who are savvy with Python, you can set up a series of macros so whenever you open up the project, whether you open it, save it, or close it, you can do all sorts of Python.
+> **[3:26](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=206)** Now for those of you who are savvy with [[Python (Programming Language)|Python]], you can set up a series of macros so whenever you open up the project, whether you open it, save it, or close it, you can do all sorts of Python.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=217)** So that's a neat thing about the macros.
 >
@@ -3343,9 +3314,9 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=222)** QGIS server is not installed with QGIS.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=225)** It is an enterprise software.
+> **[3:45](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=225)** It is an [[Enterprise Software]].
 >
-> **[3:47](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=227)** It is definitely open source, and you install it on a server and the server can be anywhere in the cloud or it could be on your Windows server.
+> **[3:47](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=227)** It is definitely open source, and you install it on a server and the server can be anywhere in the cloud or it could be on your [[Windows Server]].
 >
 > **[3:55](https://www.linkedin.com/learning/learning-qgis-2/project-properties-part-2?u=76281980&t=235)** And what it does is it allows you to publish data from your QGIS project up to the server so that everyone can see it.
 >
@@ -3361,7 +3332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (2), [[Python (Programming Language)|Python]] (2), hit (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Metadata]] (1), [[Enterprise Software]] (1), [[Windows Server]] (1)
 > **Env Vars:** qgis (13), nimo (1)
 > **CLI Commands:** make (5), python (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3375,8 +3346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980)
+#### [Adding maps](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3424,7 +3394,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980&t=85)** Now if we want to actually change the layout of this, we could actually go into the item properties here and click on the Interactively Edit Map Extend.
 >
-> **[1:35](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980&t=95)** So when I click on that, I can then go into the map and adjust it using my wheel mouse, zoom in and out, and adjust the map accordingly.
+> **[1:35](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980&t=95)** So when I click on that, I can then go into the map and adjust it using my wheel mouse, [[Zoom]] in and out, and adjust the map accordingly.
 >
 > **[1:46](https://www.linkedin.com/learning/learning-qgis-2/adding-maps?u=76281980&t=106)** So now I've got the map laid out.
 >
@@ -3470,14 +3440,13 @@ created: 2026-05-02
 > **Env Vars:** qgis (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980)
+#### [Adding elements](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=0)** - [Narrator] Inserting elements such as scale bars and legends make a print layout a powerful map making tool.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=5)** Custom elements such HTML iframes and images can also be added.
+> **[0:05](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=5)** Custom elements such [[HTML]] iframes and images can also be added.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=9)** Let's create a new print layout now.
 >
@@ -3489,7 +3458,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=22)** So let's draw the map here, it'll use the default map in the background with the same scale.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=28)** And we may want to make that a little bigger, and I can actually zoom in a little, so what we can do is in the item properties, there's a button here called interactively edit map extent.
+> **[0:28](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=28)** And we may want to make that a little bigger, and I can actually [[Zoom]] in a little, so what we can do is in the item properties, there's a button here called interactively edit map extent.
 >
 > **[0:37](https://www.linkedin.com/learning/learning-qgis-2/adding-elements?u=76281980&t=37)** And we can certainly do that.
 >
@@ -3645,7 +3614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[HTML]] (3), [[Zoom]] (2), next (2)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Zoom]] (2)
 > **CLI Commands:** make (7), find (1)
 > **Analogies:** such as (1), just like (1), picture (1)
 > **Env Vars:** html (1)
@@ -3658,8 +3627,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating new vector vata
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/creating-new-vector-vata?u=76281980)
+#### [Creating new vector vata](https://www.linkedin.com/learning/learning-qgis-2/creating-new-vector-vata?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3757,19 +3725,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (3), hit (3), feature (2), power (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** toggle (2), right-click (2), dropdown (1), go to (1)
 > **Env Vars:** qgis (2), id1 (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Exporting layers to shapefiles
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980)
+#### [Exporting layers to shapefiles](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=0)** - Since QGIS can connect to many data sources including Oracle, SQL Server, Post-GIS, and shape files, you may want to make your data more transportable.
+> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=0)** - Since QGIS can connect to many data sources including Oracle, [[Microsoft SQL Server|SQL Server]], Post-GIS, and shape files, you may want to make your data more transportable.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=9)** Exporting any vector layer to shape enables you to move that data around that may have been inside a database, such as HostGIS or SQL Server.
 >
@@ -3783,7 +3749,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=41)** Now, I really just want to get all the supply lines.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=45)** Now there's multiple that say supply, so what we can do is we can put a single quote, a percent sign, which is a wild card, so it means it can begin with anything, and put the word "supply", and then a single quote.
+> **[0:45](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=45)** Now there's multiple that say supply, so what we can do is we can put a single quote, a percent sign, which is a wild card, so it means it can begin with anything, and put the [[Microsoft Word|word]] "supply", and then a single quote.
 >
 > **[1:00](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=60)** So what this means is any word that ends with the word "supply", it doesn't matter what's in front of it, but ends in "supply" will be filtered.
 >
@@ -3803,7 +3769,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=91)** If I right-click and look at attributes, I'll only have all the supply types.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=98)** I scroll right to the bottom, you'll only see there's 849 pipes, but they're all forms of supply.
+> **[1:38](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=98)** I scroll right to the bottom, you'll only see there's 849 pipes, but they're all [[Forms]] of supply.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=105)** So let's close that.
 >
@@ -3815,7 +3781,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=125)** Now we have a lot of options.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=127)** We can export as a geo package, shape file, BNA, and so on, Geo JSON, Map Info, Spatial Light, all sorts of file formats.
+> **[2:07](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=127)** We can export as a geo package, shape file, BNA, and so on, Geo [[JSON]], Map Info, Spatial Light, all sorts of file formats.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-qgis-2/exporting-layers-to-shapefiles?u=76281980&t=137)** In this case, we're going to pick Shape File.
 >
@@ -3861,7 +3827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Word|Word]] (3), [[Microsoft SQL Server|Sql server]] (2), database (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Microsoft SQL Server|Sql server]] (2), [[Forms]] (1), [[JSON]] (1)
 > **Env Vars:** sql (2), qgis (1), gis (1), bna (1), json (1)
 > **UI Navigation:** go to (2), right-click (2), double-click (1)
 > **CLI Commands:** make (2)
@@ -3869,8 +3835,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - since (1)
 
-#### Adding data from Excel (CSV)
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980)
+#### [Adding data from Excel (CSV)](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3884,7 +3849,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980&t=18)** Here's the incidents.csv.
 >
-> **[0:20](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980&t=20)** I'll open that up in Excel.
+> **[0:20](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980&t=20)** I'll open that up in [[Microsoft Excel|Excel]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-qgis-2/adding-data-from-excel-csv?u=76281980&t=22)** Inside the file, it gives all sorts of data about the information and the incidents that happened.
 >
@@ -3956,7 +3921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (4), gis (3), hit (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** csv (6), gis (3), qgis (3), gps (2), xyz (1)
 > **File Paths:** incidents.csv (2)
 > **UI Navigation:** click on (1), open the (1)
@@ -3964,8 +3929,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Editing existing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980)
+#### [Editing existing data](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3989,7 +3953,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=40)** And I can actually modify this slightly.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=42)** So what I'm going to do is I'm going to use the modify vertex tool and I can move this around and resize this, using the vertex tool.
+> **[0:42](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=42)** So what I'm going to do is I'm going to use the modify [[Vertex]] tool and I can move this around and resize this, using the vertex tool.
 >
 > **[0:53](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=53)** So basically what I'm doing is I'm grabbing the vertices and moving them around to modify that.
 >
@@ -4127,13 +4091,13 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=379)** So just so you know, during the editing process, you want to change some of those features, how they work, and all those attributes, you have to do it in the layer definition itself.
 >
-> **[6:27](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=387)** So QGIS makes editing data very simple by giving you the ability to modify the forms.
+> **[6:27](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=387)** So QGIS makes editing data very simple by giving you the ability to modify the [[Forms]].
 >
 > **[6:33](https://www.linkedin.com/learning/learning-qgis-2/editing-existing-data?u=76281980&t=393)** Know that the way the data form is shown is based on the project, and will not behave in the same way if you add that GIS data to a new project, or even to a new layer, for that matter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), hit (4), gis (2), [[Vertex]] (2), feature (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Forms]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gis (2), qgis (2)
 > **UI Navigation:** toggle (2), scroll down (1), checkbox (1)
@@ -4145,8 +4109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overlay two vector layers
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980)
+#### [Overlay two vector layers](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4164,7 +4127,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980&t=44)** That's a different tool.
 >
-> **[0:45](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980&t=45)** Under Data Management Tools, we have a tool called Join Attributes by Location.
+> **[0:45](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980&t=45)** Under [[Data Management]] Tools, we have a tool called Join Attributes by Location.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-qgis-2/overlay-two-vector-layers?u=76281980&t=50)** So let's try that now.
 >
@@ -4236,14 +4199,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), management (2), feature (2)
+> **Frameworks & Libraries:** [[Data Management]] (2)
 > **Code Identifiers:** parcel_zoning (1)
 > **Env Vars:** qgis (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a heatmap from points
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980)
+#### [Create a heatmap from points](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4303,7 +4265,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980&t=129)** And, there we are, we've got a heat map of all the crime incidents of Nanaimo.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980&t=135)** Okay, so, if we zoom in, we can see that the heat map changes, and we can get real localized heat maps here, so you can see it's almost right downtown, you can see by the ferries, where most of the crimes are.
+> **[2:15](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980&t=135)** Okay, so, if we [[Zoom]] in, we can see that the heat map changes, and we can get real localized heat maps here, so you can see it's almost right downtown, you can see by the ferries, where most of the crimes are.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-qgis-2/create-a-heatmap-from-points?u=76281980&t=145)** If we zoom out, we see there's a North area here, where there's a bulk of crimes around this area.
 >
@@ -4359,7 +4321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (6), [[Zoom]] (5), data (1)
+> **Frameworks & Libraries:** [[Zoom]] (5)
 > **CLI Commands:** make (7)
 > **Env Vars:** csv (2), qgis (2), gqis (1), epsg (1), utm (1)
 > **UI Navigation:** click on (1), double-click (1), go to (1), right-click (1)
@@ -4368,8 +4330,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Create centroids from polygons
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980)
+#### [Create centroids from polygons](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4413,7 +4374,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=72)** And all those green dots represent the centroids.
 >
-> **[1:16](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=76)** Let's zoom in.
+> **[1:16](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=76)** Let's [[Zoom]] in.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=79)** We can see inside of every polygon, there's a dot.
 >
@@ -4465,7 +4426,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=180)** There we go.
 >
-> **[3:01](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=181)** I grabbed this centroid and moved it in the middle of Captain Morgan Park using the vertex editing tool.
+> **[3:01](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=181)** I grabbed this centroid and moved it in the middle of Captain Morgan Park using the [[Vertex]] editing tool.
 >
 > **[3:06](https://www.linkedin.com/learning/learning-qgis-2/create-centroids-from-polygons?u=76281980&t=186)** All I had to do was toggle the editing, pick on the vertex and drag it into the middle of Captain Morgan Park.
 >
@@ -4505,7 +4466,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), [[Vertex]] (2), data (2), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Vertex]] (2)
 > **UI Navigation:** toggle (3), drag and drop (1), go to (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** prc1 (1), gid (1), qgis (1)
@@ -4517,16 +4478,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding and using Street View plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980)
+#### [Adding and using Street View plugin](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=0)** Plugins for QGIS are written in Python.
+> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=0)** Plugins for QGIS are written in [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=3)** Python is an advanced programming language that is built into QGIS and is used to customize and develop QGIS plugins.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=10)** The Street View plugin enables you click anywhere in the map, and automatically open a browser window to see that Google Street View at that location you just clicked.
+> **[0:10](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=10)** The Street View plugin enables you click anywhere in the map, and automatically open a browser window to see that [[Google]] Street View at that location you just clicked.
 >
 > **[0:18](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=18)** Let's add that plugin now.
 >
@@ -4566,7 +4526,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=88)** Let's go back.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=89)** Maybe I'll zoom into where the ferry terminal is.
+> **[1:29](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=89)** Maybe I'll [[Zoom]] into where the ferry terminal is.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-street-view-plugin?u=76281980&t=93)** I'm going to pick on the Street View guy again, and pick, and I'll zoom in to the coast.
 >
@@ -4586,7 +4546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (12), api (4), [[Python (Programming Language)|Python]] (3), product (2), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Google]] (12), [[Python (Programming Language)|Python]] (3), [[Zoom]] (2)
 > **Env Vars:** qgis (6), api (4)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Prerequisites:** install (4)
@@ -4595,12 +4555,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** terminal (1)
 
-#### Adding and using qgis2web plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980)
+#### [Adding and using qgis2web plugin](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=0)** - [Instructor] Two of the most popular open source JAVA script mapping libraries are Open Layers and Leaflet JS.
+> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=0)** - [Instructor] Two of the most popular open source [[Java]] script mapping libraries are Open Layers and Leaflet JS.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=6)** Using the qgis2web plugin, we can publish our map to a webpage and leverage either one of these libraries.
 >
@@ -4654,11 +4613,11 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=94)** Let's just hit update preview to see what this map would look like in open layers.
 >
-> **[1:39](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=99)** The initial preview may take a while because it's basically taking the vector data of all these parcels and turning it into JSON, or GeoJSON.
+> **[1:39](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=99)** The initial preview may take a while because it's basically taking the vector data of all these parcels and turning it into [[JSON]], or GeoJSON.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=107)** Because when it publishes it to the web it's going to put a static JSON file on the web.
 >
-> **[1:52](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=112)** The resulting files coming from this plugin are basically HTML files and GeoJSON.
+> **[1:52](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=112)** The resulting files coming from this plugin are basically [[HTML]] files and GeoJSON.
 >
 > **[1:59](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=119)** We can bundle those up and put them on any web server we want.
 >
@@ -4710,7 +4669,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=217)** So now we are inside of a browser with all the data available to us.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=222)** We can zoom in and out.
+> **[3:42](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=222)** We can [[Zoom]] in and out.
 >
 > **[3:44](https://www.linkedin.com/learning/learning-qgis-2/adding-and-using-qgis2web-plugin?u=76281980&t=224)** Pick on a parcel.
 >
@@ -4724,7 +4683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), web (6), [[JSON]] (4), [[Search]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[JSON]] (4), [[HTML]] (2), [[Java]] (1), [[Zoom]] (1)
 > **Env Vars:** json (4), parcels (2), html (2), java (1), css (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** drag and drop (1), click on (1), go to (1)
@@ -4736,12 +4695,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Python Console
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980)
+#### [Using the Python Console](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980&t=0)** - [Instructor] Python is a powerful way to access the QGIS API.
+> **[0:00](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] is a powerful way to access the QGIS API.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-qgis-2/using-the-python-console?u=76281980&t=4)** Automating tasks, such as adding and removing layers, filtering data, or even exporting information, can be done using Python with QGIS.
 >
@@ -4793,7 +4751,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14), api (5), hit (3), data (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (14)
 > **CLI Commands:** python (14)
 > **Env Vars:** qgis (5), api (4)
 > **UI Navigation:** toggle (1), in the toolbar (1), go to (1)
@@ -4802,16 +4760,15 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **Cross-References:** go back to (1)
 
-#### Create a Python script
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980)
+#### [Create a Python script](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=0)** Scripting with QGIS is a great way to perform repeatable tasks and steps without having to manually perform them over and over again.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=8)** Using Python, we can import and export, perform an analysis, even create reports.
+> **[0:08](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=8)** Using [[Python (Programming Language)|Python]], we can import and export, perform an analysis, even create reports.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=13)** We will use Python to export a point layer into a text file, or CSV, that we can open in applications such as Excel.
+> **[0:13](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=13)** We will use Python to export a point layer into a text file, or CSV, that we can open in applications such as [[Microsoft Excel|Excel]].
 >
 > **[0:20](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=20)** Let's try that now.
 >
@@ -4887,7 +4844,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=188)** In that layer list, it's the first one, which is zero.
 >
-> **[3:11](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=191)** And finally, I'm going to get the vector writer, and write all this code out to the user profile, like that, and I'll add the rest to the bottom, so we can see this on two lines.
+> **[3:11](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=191)** And finally, I'm going to get the vector writer, and write all this code out to the user profile, like that, and I'll add the [[Representational State Transfer (REST)|rest]] to the bottom, so we can see this on two lines.
 >
 > **[3:27](https://www.linkedin.com/learning/learning-qgis-2/create-a-python-script?u=76281980&t=207)** Here we go.
 >
@@ -4921,7 +4878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (2), [[Scripting]] (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** csv (5), qgis (4), utf (2), intersection_export (2), utm (1)
 > **CLI Commands:** python (8), find (1)
 > **File Paths:** intersection_export.py (2), wkt.csv (1)
@@ -4935,16 +4892,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=0)** - [Gordon] Thank you for taking Learning QGIS.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=2)** We touched in a lot of GIS concepts, so why not search the LinkedIn Learning site for more courses on QGIS.
+> **[0:02](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=2)** We touched in a lot of GIS concepts, so why not search the [[LinkedIn]] Learning site for more courses on QGIS.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=9)** Also, if you're interested in learning more about the API for Python with QGIS, why not go to [qgis.org/api](https://qgis.org/api) for more information.
+> **[0:09](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=9)** Also, if you're interested in learning more about the API for [[Python (Programming Language)|Python]] with QGIS, why not go to [qgis.org/api](https://qgis.org/api) for more information.
 >
 > **[0:20](https://www.linkedin.com/learning/learning-qgis-2/next-steps?u=76281980&t=20)** I hope you enjoyed this course as much as I did teaching it.
 >
@@ -4952,7 +4908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), gis (1), [[Search]] (1), [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** qgis (3), gis (1), api (1)
 > **CLI Commands:** python (1)
 > **URLs:** [qgis.org](https://qgis.org) (1)

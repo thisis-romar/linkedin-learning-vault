@@ -86,12 +86,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creative collaborative digital spaces with SharePoint Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
+#### [Creative collaborative digital spaces with SharePoint Online](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980&t=0)** - [Gini] SharePoint Online is a platform used to create customizable websites where users and their teams can collaborate on documents, work on projects, and even create their own applications.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980&t=0)** - [Gini] [[SharePoint]] Online is a platform used to create customizable websites where users and their teams can collaborate on documents, work on projects, and even create their own applications.
 >
 > **[0:11](https://www.linkedin.com/learning/learning-sharepoint-online-2/creative-collaborative-digital-spaces-with-sharepoint-online?u=76281980&t=11)** For businesses, SharePoint Online provides a way that they can secure data and safely share it and manage both documents and their business processes.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (5), business (2), teams (1), data (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [gini] (1)
 
@@ -114,12 +113,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tools and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
+#### [Tools and permissions](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=0)** - [Instructor] From an organization's point of view SharePoint Online is often used to replace an existing intranet, or build the first intranet in an organization.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=0)** - [Instructor] From an organization's point of view [[SharePoint]] Online is often used to replace an existing intranet, or build the first intranet in an organization.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=9)** If your organization has an intranet and they're not using SharePoint for that reason they might bring in SharePoint Online because SharePoint is groupware and you need collaboration capabilities.
 >
@@ -127,11 +125,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=23)** Organizations use it to mange their file system.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=26)** For larger organizations SharePoint Online is the centerpiece of their Enterprise Content Management, or document management systems.
+> **[0:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=26)** For larger organizations SharePoint Online is the centerpiece of their Enterprise [[Content Management]], or document management systems.
 >
-> **[0:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=34)** For you and I as end users, one of the cool things about SharePoint Online is that it participates in the Office 365 family.
+> **[0:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=34)** For you and I as end users, one of the cool things about SharePoint Online is that it participates in the [[Microsoft Office|Office]] 365 family.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=42)** Every version of SharePoint works well with Office, whether you're talking about Word, Excel, PowerPoint, OneNote, Outlook, or some of the other tools like Visio and Project.
+> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=42)** Every version of SharePoint works well with Office, whether you're talking about [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], [[OneNote]], [[Microsoft Outlook|Outlook]], or some of the other tools like Visio and Project.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=51)** When your organization goes to this much trouble to give you tools to work with mission critical documents they also need the ability to secure those documents to know that the people who are viewing documents have permission to do so, and that the people who are modifying them also have those rights.
 >
@@ -169,9 +167,9 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=161)** You may be a site owner for one site, but only a visitor to another.
 >
-> **[2:45](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=165)** To use SharePoint Online effectively you'll want to make sure you have a browser that's on the recommended browsers list, Internet Explorer 10 or 11, Microsoft Edge, or the most recent version of Chrome, Firefox or Safari.
+> **[2:45](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=165)** To use SharePoint Online effectively you'll want to make sure you have a browser that's on the recommended browsers list, Internet Explorer 10 or 11, [[Microsoft]] Edge, or the most recent version of Chrome, Firefox or Safari.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=178)** One final thought, SharePoint Online is a cloud based product, and one of the joys and challenges of working in the cloud is that these products can be updated more frequently than anything that ever had to be put on a CD or downloaded.
+> **[2:58](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=178)** One final thought, SharePoint Online is a cloud based product, and one of the joys and challenges of working in the cloud is that these [[Microsoft Products|products]] can be updated more frequently than anything that ever had to be put on a CD or downloaded.
 >
 > **[3:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/tools-and-permissions?u=76281980&t=192)** I'm recording this course at a particular point in time, therefore there are features that will inevitably come out after this course is recorded that I don't have the ability to show you here.
 >
@@ -187,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (13), data (3), [[Microsoft Office|Office]] (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft Office|Office]] (2), [[Microsoft]] (2), [[Microsoft Products|Products]] (2), [[Content Management]] (1)
 > **CLI Commands:** make (1), cd (1)
 > **Tools:** firefox (1), safari (1)
 > **Definitions:** is a  (2)
@@ -195,12 +193,11 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Login to SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980)
+#### [Login to SharePoint](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=0)** - [Instructor] I want to log into SharePoint, and there are so many ways that I can do so.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=0)** - [Instructor] I want to log into [[SharePoint]], and there are so many ways that I can do so.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=5)** First, if I've been using SharePoint previously and I fire up the browser where I've used SharePoint, then SharePoint may well show up on my list of top sites or frequently used sites.
 >
@@ -208,15 +205,15 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=24)** And if I do, then it will be on my list of Favorites.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=28)** SharePoint is part of Microsoft Office 365.
+> **[0:28](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=28)** SharePoint is part of [[Microsoft Office]] 365.
 >
-> **[0:32](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=32)** Therefore, if I am logged into Office 365, I can fire up SharePoint from right here in the list of apps on the homepage for Office.
+> **[0:32](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=32)** Therefore, if I am logged into [[Microsoft Office|Office]] 365, I can fire up SharePoint from right here in the list of apps on the homepage for Office.
 >
 > **[0:44](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=44)** Or anywhere I see the app launcher or waffle, I can click and choose SharePoint from here.
 >
 > **[0:51](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=51)** Another possibility is that someone has sent me a document with a link to SharePoint.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=57)** Here I am in Outlook, and a few days ago I sent myself a link so I could show it to you right now.
+> **[0:57](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=57)** Here I am in [[Microsoft Outlook|Outlook]], and a few days ago I sent myself a link so I could show it to you right now.
 >
 > **[1:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=63)** This is a link to a document.
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=68)** And I will go not just to SharePoint, but directly to this document in SharePoint.
 >
-> **[1:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=75)** And here's SharePoint opening Word Online.
+> **[1:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=75)** And here's SharePoint opening [[Microsoft Word|Word]] Online.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-sharepoint-online-2/login-to-sharepoint?u=76281980&t=79)** And here I am in my document in SharePoint.
 >
@@ -261,12 +258,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use SharePoint home
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-sharepoint-home?u=76281980)
+#### [Use SharePoint home](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-sharepoint-home?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-sharepoint-home?u=76281980&t=0)** - [Instructor] This is SharePoint home.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-sharepoint-home?u=76281980&t=0)** - [Instructor] This is [[SharePoint]] home.
 >
 > **[0:02](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-sharepoint-home?u=76281980&t=2)** And in your organization perhaps when you go to your SharePoint site this is where you end up.
 >
@@ -342,19 +338,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (14), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (14)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate and search in a team site
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980)
+#### [Navigate and search in a team site](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=0)** - [Instructor] There are two types of modern SharePoint sites.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=0)** - [Instructor] There are two types of modern [[SharePoint]] sites.
 >
 > **[0:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=3)** This is a team site.
 >
@@ -398,11 +393,11 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=138)** Who touched them last, when they were last edited, when they were last viewed, and by whom.
 >
-> **[2:23](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=143)** On the right hand side, we have a part that is showing the weather in Ventura, which is where the home office is.
+> **[2:23](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=143)** On the right hand side, we have a part that is showing the weather in Ventura, which is where the home [[Microsoft Office|office]] is.
 >
 > **[2:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=149)** Below that, a library that has our documents in it.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=154)** And if I scroll down a little farther, you'll actually see something that is a very new feature in SharePoint Online, and that is we have an application that was created in Microsoft PowerApps that is tied to the Equipment Log listed in the left hand navigation.
+> **[2:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=154)** And if I scroll down a little farther, you'll actually see something that is a very new feature in SharePoint Online, and that is we have an application that was created in [[Microsoft]] PowerApps that is tied to the Equipment Log listed in the left hand navigation.
 >
 > **[2:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/navigate-and-search-in-a-team-site?u=76281980&t=170)** This Equipment Log was actually an application created with Microsoft PowerApps for the Residential Sales team and is tied to the Equipment Log list that we see on the left hand navigation.
 >
@@ -436,19 +431,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (5), application (3), [[Microsoft]] (2), next (2), web (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft]] (2), [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search in SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980)
+#### [Search in SharePoint](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=0)** - [Instructor] The easiest way to find something in SharePoint is not to browse, not to poke around and see if you see it but it's to search.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=0)** - [Instructor] The easiest way to find something in [[SharePoint]] is not to browse, not to poke around and see if you see it but it's to search.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=8)** If I want to search in a particular site, click the Search box at the top and then before I even type, I haven't touched the keyboard, note that SharePoint is bringing me recent items from News, recent items from Files because the idea is that I've I've opened a file recently, I might want to be opening it again right now.
 >
@@ -490,7 +484,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=126)** Or I can choose files and if I choose files, check out the other refiners I get.
 >
-> **[2:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=134)** I know I'm looking for a PowerPoint document.
+> **[2:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=134)** I know I'm looking for a [[Microsoft PowerPoint|PowerPoint]] document.
 >
 > **[2:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=137)** And so I can select a particular file type.
 >
@@ -514,7 +508,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=201)** Note now that not only do I have tabs for Files, Sites and News, I also have a tab for People.
 >
-> **[3:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=209)** People who work at KinetEco, for example and many, many more results including results from my OneDrive because OneDrive is part of SharePoint.
+> **[3:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=209)** People who work at KinetEco, for example and many, many more results including results from my [[Microsoft OneDrive|OneDrive]] because OneDrive is part of SharePoint.
 >
 > **[3:39](https://www.linkedin.com/learning/learning-sharepoint-online-2/search-in-sharepoint?u=76281980&t=219)** To be efficient using SharePoint, remember that as your site grows and as you have access to more sites, browsing becomes less and less efficient and search becomes more and more efficient.
 >
@@ -522,7 +516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), [[SharePoint]] (10), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft OneDrive|Onedrive]] (2), power (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft OneDrive|Onedrive]] (2)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -530,16 +524,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Office 365 Groups with SharePoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980)
+#### [Use Office 365 Groups with SharePoint](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=0)** - [Instructor] There's another piece of functionality than builds out this site, and that is an Office 365 group.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=0)** - [Instructor] There's another piece of functionality than builds out this site, and that is an [[Microsoft Office|Office]] 365 group.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=7)** If your organization has decided to enable SharePoint Online to work with Office 365 groups, then whenever you create a SharePoint site, you are automatically creating a group in Office 365.
+> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=7)** If your organization has decided to enable [[SharePoint]] Online to work with Office 365 groups, then whenever you create a SharePoint site, you are automatically creating a group in Office 365.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=21)** If I switch from here to Outlook, you'll see a residential sales group, right here.
+> **[0:21](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=21)** If I switch from here to [[Microsoft Outlook|Outlook]], you'll see a residential sales group, right here.
 >
 > **[0:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-office-365-groups-with-sharepoint?u=76281980&t=26)** And that residential sales group was created, really, by creating a SharePoint site.
 >
@@ -592,12 +585,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use a communication site
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980)
+#### [Use a communication site](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=0)** - [Instructor] Modern SharePoint makes it easy to create two different types of sites.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=0)** - [Instructor] Modern [[SharePoint]] makes it easy to create two different types of sites.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=4)** The first type of site, a team site, is used when people want to collaborate together to create things.
 >
@@ -653,7 +645,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=149)** If you scroll down the page, we're replacing the images that came with our built-in page with new images for our Wind Showcase, images from Kinetico.
 >
-> **[2:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=162)** And we've placed a video here at the bottom of the page and a report that was created in Power BI Desktop.
+> **[2:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=162)** And we've placed a video here at the bottom of the page and a report that was created in [[Microsoft Power BI|Power BI]] Desktop.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-communication-site?u=76281980&t=171)** This page, then, isn't made for collaboration.
 >
@@ -661,7 +653,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (1), power (1), bi (1)
+> **Frameworks & Libraries:** [[SharePoint]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -674,12 +666,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
+#### [Store documents](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=0)** - [Instructor] SharePoint Online provides two distinctly different types of storage for two different purposes.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=0)** - [Instructor] [[SharePoint]] Online provides two distinctly different types of storage for two different purposes.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=7)** First, we have shared storage, primarily, SharePoint document libraries, where members of the team can store documents and collaborate on those documents.
 >
@@ -695,7 +686,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=48)** We get another type of storage as well, individual storage.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=51)** Not team storage, but your storage, and that storage is in OneDrive for Business, which is also part of SharePoint.
+> **[0:51](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=51)** Not team storage, but your storage, and that storage is in [[Microsoft OneDrive|OneDrive]] for Business, which is also part of SharePoint.
 >
 > **[0:58](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=58)** Let's take a quick look at these two different types of storage, document libraries and OneDrive for Business.
 >
@@ -711,17 +702,17 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=96)** You can also upload folders.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=98)** You can quickly edit the attributes or metadata of these documents.
+> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=98)** You can quickly edit the attributes or [[Metadata]] of these documents.
 >
 > **[1:43](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=103)** There's a column here for sign-off status, and if I wanted to edit that column for each of these documents without having to open a form for them, I can use quick edit so it opens our library as a matrix.
 >
 > **[1:54](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=114)** Sync allows me to synchronize this document library with one of my devices.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=119)** I could export this list of documents to Excel, I can also create a workflow or flow for a selected document.
+> **[1:59](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=119)** I could export this list of documents to [[Microsoft Excel|Excel]], I can also create a workflow or flow for a selected document.
 >
-> **[2:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=127)** If I want to open a document, I can simply click it and that document will open in the online version of the Microsoft Office application used to open that document type.
+> **[2:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=127)** If I want to open a document, I can simply click it and that document will open in the online version of the [[Microsoft Office]] application used to open that document type.
 >
-> **[2:20](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=140)** So here I am in Word Online, looking at my KinetEco Employee Manual.
+> **[2:20](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=140)** So here I am in [[Microsoft Word|Word]] Online, looking at my KinetEco Employee Manual.
 >
 > **[2:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=145)** And if I wish, from here, I could also choose to open this in the desktop app.
 >
@@ -753,7 +744,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=230)** I can share documents that I store here with other users just like I can share the documents that I store in a SharePoint library.
 >
-> **[3:57](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=237)** The reason that I might choose to store a document here is I need to share a document with some people who aren't already on a team with me and I don't need to create an Office 365 group or a SharePoint site to be able to share documents on an ad-hoc basis.
+> **[3:57](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=237)** The reason that I might choose to store a document here is I need to share a document with some people who aren't already on a team with me and I don't need to create an [[Microsoft Office|Office]] 365 group or a SharePoint site to be able to share documents on an ad-hoc basis.
 >
 > **[4:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=252)** If you're used to storing documents that you've just created that you're not necessarily sharing with anyone else in My Documents, I'd like to make a pitch for you using OneDrive for Business instead, because this is an alternative to My Documents.
 >
@@ -769,13 +760,13 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=293)** And finally, many IT organizations back up network shares but they don't necessarily back up individual devices and individual computers.
 >
-> **[5:02](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=302)** OneDrive is backed up by Microsoft.
+> **[5:02](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=302)** OneDrive is backed up by [[Microsoft]].
 >
 > **[5:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/store-documents?u=76281980&t=304)** Whether I'm saving documents for my own use or saving documents to share with my team or with specific individuals, SharePoint Online has a storage solution that will work for me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft OneDrive|Onedrive]] (10), business (4), [[Metadata]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Microsoft OneDrive|Onedrive]] (10), [[Metadata]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Office]] (1)
 > **UI Navigation:** open the (2), go to (1), click on (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -783,8 +774,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upload and create documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980)
+#### [Upload and create documents](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -818,17 +808,17 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=62)** And a link will be sent so they can immediately get back to this document, quick and easy.
 >
-> **[1:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=68)** Another choice is to navigate to a folder and to drag and drop items here into SharePoint.
+> **[1:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=68)** Another choice is to navigate to a folder and to drag and drop items here into [[SharePoint]].
 >
 > **[1:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=74)** For example, I can resize my window.
 >
-> **[1:22](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=82)** And I'd like to take this lead generation and upload it to the library.
+> **[1:22](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=82)** And I'd like to take this [[Lead Generation]] and upload it to the library.
 >
 > **[1:31](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=91)** And I can select multiple items and add them to the library at the same time using drag and drop.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=98)** And this works exactly the same way in OneDrive.
+> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=98)** And this works exactly the same way in [[Microsoft OneDrive|OneDrive]].
 >
-> **[1:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=102)** Remember that these two items I've added, the Excel spreadsheet that's a lead generation list, and the solar panel installation JPEG, are both available to anybody who has access to this particular library, in this case these four members, although these documents can be seen by other people as well.
+> **[1:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=102)** Remember that these two items I've added, the [[Microsoft Excel|Excel]] spreadsheet that's a lead generation list, and the solar panel installation JPEG, are both available to anybody who has access to this particular library, in this case these four members, although these documents can be seen by other people as well.
 >
 > **[2:02](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=122)** And that's a significant difference between saving them in SharePoint and saving them in OneDrive.
 >
@@ -838,7 +828,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=137)** If I'm only a visitor on this site, I won't be able to upload anything to this site, nor will I be able to create new documents, which I can do right here.
 >
-> **[2:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=146)** If I click the drop-down on the New button, I can create a new Word document, Excel, PowerPoint presentation, a new OneNote notebook, a new form, a new link, and because I am a site owner, I also have the ability to edit this menu and to add other templates.
+> **[2:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=146)** If I click the drop-down on the New button, I can create a new [[Microsoft Word|Word]] document, Excel, [[Microsoft PowerPoint|PowerPoint]] presentation, a new [[OneNote]] notebook, a new form, a new link, and because I am a site owner, I also have the ability to edit this menu and to add other templates.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/upload-and-create-documents?u=76281980&t=162)** And so while this is beyond the scope of this course, I could add specific templates created in Word, in Excel, in PowerPoint, for example.
 >
@@ -857,8 +847,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open and edit a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980)
+#### [Open and edit a document](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,13 +855,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=5)** And even though I know where it lives it's so fast to search that I'm going to simply search for it and then click to open that document.
 >
-> **[0:16](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=16)** Notice that when I do that I get a new browser tab and it opens in the online version of Microsoft Word.
+> **[0:16](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=16)** Notice that when I do that I get a new browser tab and it opens in the online version of [[Microsoft Word]].
 >
 > **[0:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=24)** And it opened really quickly.
 >
 > **[0:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=25)** This isn't a small document, it's 25 pages.
 >
-> **[0:28](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=28)** One of the beauties of the online versions of Word, Excel, and PowerPoint is they optimize showing you the document.
+> **[0:28](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=28)** One of the beauties of the online versions of [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and [[Microsoft PowerPoint|PowerPoint]] is they optimize showing you the document.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=35)** So if all I need to do is get in here and look at it it's right here.
 >
@@ -888,7 +877,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=59)** If you'd like to see more you can simply click to turn that Simplified Ribbon off and you'll get some additional choices, but it will also take up more space.
 >
-> **[1:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=72)** Microsoft would love some feedback.
+> **[1:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=72)** [[Microsoft]] would love some feedback.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=74)** I'll give them some in a bit.
 >
@@ -918,7 +907,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=134)** Looks good to me.
 >
-> **[2:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=135)** However, let's go back to SharePoint and I can resume editing right back here in SharePoint Online if I prefer.
+> **[2:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=135)** However, let's go back to [[SharePoint]] and I can resume editing right back here in SharePoint Online if I prefer.
 >
 > **[2:23](https://www.linkedin.com/learning/learning-sharepoint-online-2/open-and-edit-a-document?u=76281980&t=143)** Editing here though is much like working in Microsoft Word on the desktop.
 >
@@ -958,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft Word|Word]] (7), [[Microsoft Word]] (4), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft Word|Word]] (7), [[Microsoft Word]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -967,12 +956,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save a document from Office
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980)
+#### [Save a document from Office](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=0)** - [Instructor] When I'm creating or editing a Microsoft Office document, I can save that document directly from Word, Excel, PowerPoint, even Outlook for that matter to a SharePoint library or to OneDrive.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=0)** - [Instructor] When I'm creating or editing a [[Microsoft Office]] document, I can save that document directly from [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], even [[Microsoft Outlook|Outlook]] for that matter to a [[SharePoint]] library or to [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=12)** Let me show you how this works.
 >
@@ -1038,7 +1026,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=188)** So if you forgot, made a bunch of changes to a file, and then chose to save a copy, like we would have in the old days when we were saving a document in my documents, you can go to the file, go to the versions like I just showed you and return to a prior version.
 >
-> **[3:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=204)** So in summary, I can save documents from Microsoft Word, Excel, PowerPoint, all the Office applications to any site in SharePoint that I have access to.
+> **[3:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=204)** So in summary, I can save documents from [[Microsoft Word]], Excel, PowerPoint, all the [[Microsoft Office|Office]] applications to any site in SharePoint that I have access to.
 >
 > **[3:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/save-a-document-from-office?u=76281980&t=214)** Remembering to drop in to the documents library or to my OneDrive, without ever leaving my Microsoft Office application.
 
@@ -1049,14 +1037,13 @@ created: 2026-05-02
 > **CLI Commands:** make (4)
 > **Speakers:** - [instructor] (1)
 
-#### Share a file or site
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980)
+#### [Share a file or site](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=0)** - [Instructor] This document is saved in a SharePoint library, and I'd like to be able to share this document with some folks who aren't necessarily members of my SharePoint site.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=0)** - [Instructor] This document is saved in a [[SharePoint]] library, and I'd like to be able to share this document with some folks who aren't necessarily members of my SharePoint site.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=10)** I can do that right here, there's a share button in Microsoft Word.
+> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=10)** I can do that right here, there's a share button in [[Microsoft Word]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=15)** And if I click the share button, I can share the document.
 >
@@ -1092,9 +1079,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=99)** Other choices, I can copy a link and embed a link in an email message.
 >
-> **[1:44](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=104)** I can go to Outlook to do my send.
+> **[1:44](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=104)** I can go to [[Microsoft Outlook|Outlook]] to do my send.
 >
-> **[1:47](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=107)** Or I can send them a copy as a Word document or a PDF, perhaps for someone outside of my organization, or someone who I can only send attachments to.
+> **[1:47](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=107)** Or I can send them a copy as a [[Microsoft Word|Word]] document or a PDF, perhaps for someone outside of my organization, or someone who I can only send attachments to.
 >
 > **[1:57](https://www.linkedin.com/learning/learning-sharepoint-online-2/share-a-file-or-site?u=76281980&t=117)** But when I'm all done, I simply click send, and that email then will be sent to the two people that I chose.
 >
@@ -1149,12 +1136,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add metadata to a document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980)
+#### [Add metadata to a document](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=0)** - [Instructor] The product that has evolved to become SharePoint Online was designed as an internal product, created by Microsoft to solve issues they were having managing and finding millions of files, issues that were caused by the limitations of traditional file shares in Microsoft Windows.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=0)** - [Instructor] The product that has evolved to become [[SharePoint]] Online was designed as an internal product, created by [[Microsoft]] to solve issues they were having managing and finding millions of files, issues that were caused by the limitations of traditional file shares in Microsoft [[Windows]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=16)** Specifically they wanted to make it easier to find their documents and harder to lose them.
 >
@@ -1190,7 +1176,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=126)** Let me show you how SharePoint solves this problem.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=129)** Here in my document library I have added two columns of metadata.
+> **[2:09](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=129)** Here in my document library I have added two columns of [[Metadata]].
 >
 > **[2:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=134)** So in addition to Name, Modified, Modified By, and the other information that's automatically being tracked by SharePoint in this library, I've added a column for Department and I've added a column for Review Cycle.
 >
@@ -1198,7 +1184,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=159)** If I want to change the information for one of these items I can go click on its Details, scroll down, and here's Department.
 >
-> **[2:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=170)** This is the Employee Handbook, so it's part of Human Resources.
+> **[2:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=170)** This is the Employee Handbook, so it's part of [[Human Resources (HR)|Human Resources]].
 >
 > **[2:53](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=173)** Note, I don't need to abbreviate this HR anymore, 'cause it's not taking up space in a file name.
 >
@@ -1212,7 +1198,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=198)** This looks like a job for Quick edit.
 >
-> **[3:19](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=199)** With no document selected click Quick edit and I can then go in and very quickly and easily enter these items much as I would in Excel.
+> **[3:19](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=199)** With no document selected click Quick edit and I can then go in and very quickly and easily enter these items much as I would in [[Microsoft Excel|Excel]].
 >
 > **[3:28](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=208)** As a matter of fact, just like Excel I have a fill handle here that I can use.
 >
@@ -1224,7 +1210,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=241)** Let's exit the Quick edit and I'm going to open up the SharePoint Storage Recommendations document.
 >
-> **[4:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=248)** I'm going to open this directly in Microsoft Word.
+> **[4:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=248)** I'm going to open this directly in [[Microsoft Word]].
 >
 > **[4:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=252)** Here I am in my document.
 >
@@ -1246,22 +1232,21 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=281)** And if I return to SharePoint it's in the process of writing that information back here right now.
 >
-> **[4:49](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=289)** Whether I'm working directly in Microsoft Office and go back stage to modify my metadata or modify my metadata here using Quick edit or using the details pane all of these methods allow me to enter data about my documents, so I can more effectively search, sort, and filter them in SharePoint.
+> **[4:49](https://www.linkedin.com/learning/learning-sharepoint-online-2/add-metadata-to-a-document?u=76281980&t=289)** Whether I'm working directly in [[Microsoft Office]] and go back stage to modify my metadata or modify my metadata here using Quick edit or using the details pane all of these methods allow me to enter data about my documents, so I can more effectively search, sort, and filter them in SharePoint.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (9), [[Metadata]] (6), hr (4), data (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Metadata]] (6), [[Microsoft Excel|Excel]] (3), [[Microsoft]] (2), [[Windows]] (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Coauthor an Office document
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980)
+#### [Coauthor an Office document](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=0)** - [Instructor] SharePoint is a platform for simultaneous editing, also called coauthoring.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=0)** - [Instructor] [[SharePoint]] is a platform for simultaneous editing, also called coauthoring.
 >
 > **[0:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=6)** With SharePoint, we can have more than one person open a document at the same time and edit it.
 >
@@ -1307,7 +1292,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=130)** I don't need to do anything special to save this document.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=133)** It's being saved as I work because I'm working in Word Online.
+> **[2:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=133)** It's being saved as I work because I'm working in [[Microsoft Word|Word]] Online.
 >
 > **[2:18](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=138)** Rob may be working in Word Online.
 >
@@ -1325,9 +1310,9 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=169)** Rob can continue to talk to himself or simply close the chat window.
 >
-> **[2:54](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=174)** I can coauthor not just in Word, but also in Excel, also in PowerPoint, and of course obviously OneNote is built for coauthoring.
+> **[2:54](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=174)** I can coauthor not just in Word, but also in [[Microsoft Excel|Excel]], also in [[Microsoft PowerPoint|PowerPoint]], and of course obviously [[OneNote]] is built for coauthoring.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=183)** And I can coauthor not just in a SharePoint library, but I can also coauthor in OneDrive.
+> **[3:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=183)** And I can coauthor not just in a SharePoint library, but I can also coauthor in [[Microsoft OneDrive|OneDrive]].
 >
 > **[3:09](https://www.linkedin.com/learning/learning-sharepoint-online-2/coauthor-an-office-document?u=76281980&t=189)** One more thought.
 >
@@ -1339,23 +1324,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft Word|Word]] (4), application (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (6), [[Microsoft Word|Word]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[OneNote]] (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** rm (2)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use your team's notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980)
+#### [Use your team's notebook](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=0)** - [Instructor] Most SharePoint Online team sites have a OneNote Notebook that is not part of the document library.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=0)** - [Instructor] Most [[SharePoint]] Online team sites have a [[OneNote]] Notebook that is not part of the document library.
 >
-> **[0:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=6)** It's freestanding, but attached to the team site and it's attached to the group if you have an Office 365 group sitting under your site.
+> **[0:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=6)** It's freestanding, but attached to the team site and it's attached to the group if you have an [[Microsoft Office|Office]] 365 group sitting under your site.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=15)** So it's accessible, not just from SharePoint, it's also accessible if you are working in Outlook.
+> **[0:15](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=15)** So it's accessible, not just from SharePoint, it's also accessible if you are working in [[Microsoft Outlook|Outlook]].
 >
 > **[0:22](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=22)** OneNote gives you the ability to quickly edit text, to take notes at a meeting, like the August Staff Meeting, and to tag items so that you know how to follow up on them.
 >
@@ -1373,7 +1357,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=80)** So check in with your team and find out how you all intend to use your notebook together.
 >
-> **[1:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=85)** For more information on using OneNote or OneNote Online, the version you see here, check out courses on OneNote in the LinkedIn Learning training library.
+> **[1:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-your-team-s-notebook?u=76281980&t=85)** For more information on using OneNote or OneNote Online, the version you see here, check out courses on OneNote in the [[LinkedIn]] Learning training library.
 
 > [!info]- Semantic Content
 >
@@ -1387,8 +1371,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Edit your profile
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
+#### [Edit your profile](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,13 +1379,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=4)** In your profile, it may also have included images but there's more information you might wish to add.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=10)** To access your profile, simply click in the upper right-hand corner and go to My Office profile.
+> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=10)** To access your profile, simply click in the upper right-hand corner and go to My [[Microsoft Office|Office]] profile.
 >
-> **[0:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=17)** This is going to take us from SharePoint into another application.
+> **[0:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=17)** This is going to take us from [[SharePoint]] into another application.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=22)** That application is called Delve.
 >
-> **[0:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=24)** It's built on the Microsoft Office Graph.
+> **[0:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=24)** It's built on the [[Microsoft Office]] Graph.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=27)** We're simply going to use this to modify our profile but there's a lot to know about Delve.
 >
@@ -1410,7 +1393,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=34)** It provides an interface for you to be able to organize your documents including your email attachments.
 >
-> **[0:41](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=41)** If you're interested, there's a course called, Learning Office Delve in the LinkedIn library.
+> **[0:41](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=41)** If you're interested, there's a course called, Learning Office Delve in the [[LinkedIn]] library.
 >
 > **[0:46](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=46)** I want to update my profile.
 >
@@ -1442,7 +1425,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=98)** So I've worked on the roll out of the Power Platform.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=105)** Power BI, PowerApps, Flow.
+> **[1:45](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=105)** [[Microsoft Power BI|Power BI]], PowerApps, Flow.
 >
 > **[1:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/edit-your-profile?u=76281980&t=110)** Simply add that project.
 >
@@ -1502,21 +1485,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), application (3), power (2), [[SharePoint]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[SharePoint]] (1), [[Microsoft Office]] (1), [[LinkedIn]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **Analogies:** picture (5), for example (2)
 > **UI Navigation:** go to (2), click on (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Post news for your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980)
+#### [Post news for your team](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=0)** - [Instructor] News provides an easy way to keep your team up-to-date.
 >
-> **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=4)** SharePoint mobile applications are optimized to display news as soon as it comes in, and our SharePoint Team sites feature news.
+> **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=4)** [[SharePoint]] mobile applications are optimized to display news as soon as it comes in, and our SharePoint Team sites feature news.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=13)** It's right up here at the top, this fabulous web part.
 >
@@ -1552,7 +1534,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=123)** I could add a some code snippet.
 >
-> **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=126)** I could add Facebook pages, a preview from Kindle, Microsoft forms, Power Bi diagram, something from Planner, this list continues to grow, but when you are all done, you simply have a couple of other choices left to make.
+> **[2:06](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=126)** I could add Facebook pages, a preview from Kindle, [[Microsoft]] [[Forms]], [[Microsoft Power BI|Power Bi]] diagram, something from Planner, this list continues to grow, but when you are all done, you simply have a couple of other choices left to make.
 >
 > **[2:20](https://www.linkedin.com/learning/learning-sharepoint-online-2/post-news-for-your-team?u=76281980&t=140)** One is, do you want to accept comments.
 >
@@ -1582,7 +1564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), web (3), feature (1), [[Microsoft]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Microsoft]] (1), [[Forms]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (1), picture (1)
@@ -1595,18 +1577,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
+#### [Use a list](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=0)** - [Instructor] In SharePoint lists and libraries have similar functionality.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=0)** - [Instructor] In [[SharePoint]] lists and libraries have similar functionality.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=4)** Libraries are really a specialized type of list that contains documents.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=9)** Lists on the other hand can contain rows and rows of data.
 >
-> **[0:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=12)** When you look at a list what you're normally reminded of is Microsoft Excel.
+> **[0:12](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=12)** When you look at a list what you're normally reminded of is [[Microsoft Excel]].
 >
 > **[0:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-a-list?u=76281980&t=17)** This custom list for National Inventory exists in the Residential Sales site.
 >
@@ -1656,21 +1637,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (5), data (3), [[Microsoft Excel]] (2), product (1), web (1)
+> **Frameworks & Libraries:** [[SharePoint]] (5), [[Microsoft Excel]] (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export a list to Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980)
+#### [Export a list to Excel](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=0)** - [Instructor] There's a national inventory that we track and I'd like to be able to do some analysis, create some charts.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=7)** And that's really not what SharePoint is made for.
+> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=7)** And that's really not what [[SharePoint]] is made for.
 >
-> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=10)** I have a couple of tools that will help me do that, one would be Power BI and the other is Excel.
+> **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=10)** I have a couple of tools that will help me do that, one would be [[Microsoft Power BI|Power BI]] and the other is [[Microsoft Excel|Excel]].
 >
 > **[0:16](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=16)** I want to show you how you can export this data to Excel so that you can work with it there.
 >
@@ -1720,24 +1700,23 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=167)** I haven't just exported data, I've exported the possibility of being able to get the freshest data from SharePoint into Excel for analysis anytime I want.
 >
-> **[2:58](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=178)** Using SharePoint for my data storage and tools like Excel or Power BI for my in depth data analysis gives me the best of both worlds.
+> **[2:58](https://www.linkedin.com/learning/learning-sharepoint-online-2/export-a-list-to-excel?u=76281980&t=178)** Using SharePoint for my [[Data Storage]] and tools like Excel or Power BI for my in depth data analysis gives me the best of both worlds.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[SharePoint]] (10), [[Microsoft Excel|Excel]] (9), power (2), bi (2)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[Microsoft Excel|Excel]] (9), [[Microsoft Power BI|Power bi]] (2), [[Data Storage]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort and filter in lists and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980)
+#### [Sort and filter in lists and libraries](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=0)** - [Instructor] SharePoint lists are really single table databases.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=0)** - [Instructor] [[SharePoint]] lists are really single table [[Databases]].
 >
-> **[0:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=3)** And when we think about databases, whether that's a table in Excel or SQL Server or Microsoft Access, we think about features that have to do with how we manage the data, being able to sort our data, being able to filter our data.
+> **[0:03](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=3)** And when we think about databases, whether that's a table in [[Microsoft Excel|Excel]] or [[Microsoft SQL Server|SQL Server]] or [[Microsoft]] Access, we think about features that have to do with how we manage the data, being able to sort our data, being able to filter our data.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=17)** We can do all of those things here in SharePoint as well.
 >
@@ -1757,7 +1736,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=61)** And unlike Excel where when we impose one sort the other sort remains as the secondary sort, here in SharePoint when I use this method and I choose a different column it's no longer in any way sorted by a SKU.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=73)** If we had two products with the same name there's no residual sort that's happening here.
+> **[1:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=73)** If we had two [[Microsoft Products|products]] with the same name there's no residual sort that's happening here.
 >
 > **[1:19](https://www.linkedin.com/learning/learning-sharepoint-online-2/sort-and-filter-in-lists-and-libraries?u=76281980&t=79)** I can sort by two columns, but we'll talk about that in another movie.
 >
@@ -1815,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[SharePoint]] (4), data (3), [[Databases]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Databases]] (2), [[Microsoft Excel|Excel]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (2), toggle (2), scroll down (1), checkbox (1)
 > **Env Vars:** sku (3), sql (1)
 > **Analogies:** for example (4)
@@ -1823,22 +1802,21 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create new list and library views
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980)
+#### [Create new list and library views](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=0)** - [Instructor] Every SharePoint list or library begins with at least one view that is called All Items.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=0)** - [Instructor] Every [[SharePoint]] list or library begins with at least one view that is called All Items.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=7)** All Items is everybody, and it's the view that we've been working with here.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=10)** But we can create additional views.
 >
-> **[0:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=13)** For example, if we wanted to have a view that only included some of the products that are available for domestic use, what we could do is we could filter here by our target consumer, and filter by any of the options that include domestic, and apply that.
+> **[0:13](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=13)** For example, if we wanted to have a view that only included some of the [[Microsoft Products|products]] that are available for domestic use, what we could do is we could filter here by our target consumer, and filter by any of the options that include domestic, and apply that.
 >
 > **[0:34](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=34)** Now, with domestic applied, we are leaving out items that are only for corporate, only personal.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=42)** All we have are the items that include the word domestic, as we can see here at the top.
+> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=42)** All we have are the items that include the [[Microsoft Word|word]] domestic, as we can see here at the top.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-sharepoint-online-2/create-new-list-and-library-views?u=76281980&t=48)** National inventory, domestic, domestic corporate, domestic personal, corporate, and so on.
 >
@@ -1924,7 +1902,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (2), product (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (2), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (5), open the (1), dropdown (1)
 > **Analogies:** for example (4)
 > **Definitions:** is called (1), means that (1)
@@ -1932,12 +1910,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get updates from lists and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/get-updates-from-lists-and-libraries?u=76281980)
+#### [Get updates from lists and libraries](https://www.linkedin.com/learning/learning-sharepoint-online-2/get-updates-from-lists-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/get-updates-from-lists-and-libraries?u=76281980&t=0)** - [Instructor] I spent some of my formative years as a project manager and one of the reasons that I began using SharePoint was to have a collaboration space, to have a place that I could post information so that it was available to a team that had people working in the United States and in Ireland and in India and in several time zones in a couple of those countries.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/get-updates-from-lists-and-libraries?u=76281980&t=0)** - [Instructor] I spent some of my formative years as a project manager and one of the reasons that I began using [[SharePoint]] was to have a collaboration space, to have a place that I could post information so that it was available to a team that had people working in the United States and in Ireland and in India and in several time zones in a couple of those countries.
 >
 > **[0:23](https://www.linkedin.com/learning/learning-sharepoint-online-2/get-updates-from-lists-and-libraries?u=76281980&t=23)** By creating a SharePoint site, I had a way to have people put all of the deliverables for a project in one spot.
 >
@@ -2022,16 +1999,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Request an approval with Microsoft Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980)
+#### [Request an approval with Microsoft Flow](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=0)** - [Instructor] We're going to start by looking at a built in approval process that is part of SharePoint.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=0)** - [Instructor] We're going to start by looking at a built in approval process that is part of [[SharePoint]].
 >
 > **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=7)** I'm looking at the SharePoint site for the policy review group.
 >
-> **[0:11](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=11)** They have a documents library and I'd like to view their documents and then show you how we can use Microsoft Flow to ask for a sign-off on a document.
+> **[0:11](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=11)** They have a documents library and I'd like to view their documents and then show you how we can use [[Microsoft]] Flow to ask for a sign-off on a document.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=24)** These folks are in the process of reviewing documents and so the ability to do this is frequently used.
 >
@@ -2059,7 +2035,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=77)** There's no one suggested found, but I actually need Reggie to look at the formatting so I'm going to begin entering Reggie's information.
 >
-> **[1:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=86)** Microsoft Flow checks active directory and says, "I bet that's who you want, I'm going to do that," and then I have to enter a message.
+> **[1:26](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=86)** Microsoft Flow checks [[Active Directory]] and says, "I bet that's who you want, I'm going to do that," and then I have to enter a message.
 >
 > **[1:33](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=93)** In this case, I want to enter a message and it's "Reggie, please check the handbook "text for consistency "and send any issues to Sally."
 >
@@ -2071,7 +2047,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=136)** Now, when Reggie next signs in or checks on his mobile device, he'll see that there is some work for him to do.
 >
-> **[2:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=144)** And he will review this document and then using Outlook, or using the Notifications app on his mobile phone, he can sign-off on this document and say, "I'm all done with it and I've sent anything "that needs to be sent to Sally."
+> **[2:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=144)** And he will review this document and then using [[Microsoft Outlook|Outlook]], or using the Notifications app on his mobile phone, he can sign-off on this document and say, "I'm all done with it and I've sent anything "that needs to be sent to Sally."
 >
 > **[2:40](https://www.linkedin.com/learning/learning-sharepoint-online-2/request-an-approval-with-microsoft-flow?u=76281980&t=160)** Or "I'm all done with it.
 >
@@ -2091,7 +2067,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft]] (3), next (3), [[Active Directory]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (4), [[Microsoft]] (3), [[Active Directory]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Warnings:** note that (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -2101,14 +2077,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the SharePoint mobile app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
+#### [Use the SharePoint mobile app](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=0)** - [Instructor] While we've been working in SharePoint, you might have noticed this link in the lower right hand corner, Get the mobile app.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=0)** - [Instructor] While we've been working in [[SharePoint]], you might have noticed this link in the lower right hand corner, Get the mobile app.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=7)** There are SharePoint mobile apps for Windows, SharePoint mobile apps for Android, for iOS.
+> **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=7)** There are SharePoint mobile apps for [[Windows]], SharePoint mobile apps for [[Android]], for iOS.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=14)** This is the SharePoint mobile app for iPhone.
 >
@@ -2156,9 +2131,9 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=153)** And how that preview will be displayed depends just a little bit on the applications that are on your phone.
 >
-> **[2:39](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=159)** I have a button in the upper right hand corner that will let me edit this in Microsoft Word on my mobile device.
+> **[2:39](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=159)** I have a button in the upper right hand corner that will let me edit this in [[Microsoft Word]] on my mobile device.
 >
-> **[2:47](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=167)** I know that 'cause it has a Word icon on it.
+> **[2:47](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=167)** I know that 'cause it has a [[Microsoft Word|Word]] icon on it.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-sharepoint-online-2/use-the-sharepoint-mobile-app?u=76281980&t=169)** To the right of that, I also have a button so that I could choose, for example, to share.
 >
@@ -2194,7 +2169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Word|Word]] (3), [[Search]] (2), [[Windows]] (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (11), [[Microsoft Word|Word]] (3), [[Windows]] (1), [[Android]] (1), [[Microsoft Word]] (1)
 > **CLI Commands:** find (4), make (2)
 > **UI Navigation:** go to (2), open the (1)
 > **Analogies:** for example (3)
@@ -2202,22 +2177,21 @@ created: 2026-05-02
 > **Definitions:** is a  (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### OneDrive for Business app
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980)
+#### [OneDrive for Business app](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=0)** - [Instructor] Just as there are mobile applications for SharePoint, there are mobile applications for OneDrive for Business.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=0)** - [Instructor] Just as there are mobile applications for [[SharePoint]], there are mobile applications for [[Microsoft OneDrive|OneDrive]] for Business.
 >
 > **[0:07](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=7)** When I open OneDrive for Business, I have my files, which I can see right here, all of my folders, this is the same information that we are used to seeing in OneDrive for Business.
 >
 > **[0:19](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=19)** I can view my recent files, and these are files recently used or saved in OneDrive.
 >
-> **[0:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=25)** So, one of the slick things here is, if you are routinely saving your documents from Microsoft Office into OneDrive, when you walk out of the office and go into a mobile setting, the documents that will show up here are the documents that you have most recently been working on in the office.
+> **[0:25](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=25)** So, one of the slick things here is, if you are routinely saving your documents from [[Microsoft Office]] into OneDrive, when you walk out of the [[Microsoft Office|office]] and go into a mobile setting, the documents that will show up here are the documents that you have most recently been working on in the office.
 >
 > **[0:40](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=40)** If I have a file here, I can easily open it.
 >
-> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=42)** For example, I can open Technology Use Policies, which is a PowerPoint document, and here's each of the slides.
+> **[0:42](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=42)** For example, I can open Technology Use Policies, which is a [[Microsoft PowerPoint|PowerPoint]] document, and here's each of the slides.
 >
 > **[0:50](https://www.linkedin.com/learning/learning-sharepoint-online-2/onedrive-for-business-app?u=76281980&t=50)** At the top, I have an icon that I can click so that I can, in this case, download the app, I haven't loaded the PowerPoint app, so that I could edit this document.
 >
@@ -2279,7 +2253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), business (10), [[SharePoint]] (7), [[Microsoft Office|Office]] (3), [[Microsoft PowerPoint|Powerpoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (14), [[SharePoint]] (7), [[Microsoft Office|Office]] (3), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office]] (1)
 > **Analogies:** for example (3), picture (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
@@ -2287,12 +2261,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sync SharePoint and OneDrive to a device
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980)
+#### [Sync SharePoint and OneDrive to a device](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=0)** - [Instructor] One of the features that I love about SharePoint is synchronization.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=0)** - [Instructor] One of the features that I love about [[SharePoint]] is synchronization.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=4)** Synchronizing let's me take a synchronized copy with me, which means that I make changes and when I come back and reconnect to my network my changes are synchronized with the original files.
 >
@@ -2300,7 +2273,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=18)** So if you've been using drag and drop to drag a copy of files on to a USB drive or onto another device, I strongly recommend that you take a look at synchronization instead, because it's a far better feature.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=31)** The tool that I use to synchronize documents with my local device is going to be the same whether I'm synchronizing OneDrive or I'm synchronizing my libraries from SharePoint Online.
+> **[0:31](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=31)** The tool that I use to synchronize documents with my local device is going to be the same whether I'm synchronizing [[Microsoft OneDrive|OneDrive]] or I'm synchronizing my libraries from SharePoint Online.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=41)** I begin with OneDrive even if my goal is to synchronize SharePoint, because remember, OneDrive is part of SharePoint.
 >
@@ -2324,7 +2297,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=84)** I want to take a moment and say, I can synchronize different things to different devices.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=89)** I synchronize a lot of my files to my Microsoft Surface, I only synchronize a few to my iPad, and even fewer to my phone.
+> **[1:29](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=89)** I synchronize a lot of my files to my [[Microsoft]] Surface, I only synchronize a few to my iPad, and even fewer to my phone.
 >
 > **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/sync-sharepoint-and-onedrive-to-a-device?u=76281980&t=98)** Choose Sign in.
 >
@@ -2394,7 +2367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), [[SharePoint]] (7), feature (2), [[Microsoft]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (21), [[SharePoint]] (7), [[Microsoft]] (1)
 > **Prerequisites:** set up (4), install (1), configure (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2), drag and drop (1)
@@ -2408,14 +2381,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have reached the end of this course, but this isn't the end of what you can learn about working with SharePoint Online.
+> **[0:00](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have reached the end of this course, but this isn't the end of what you can learn about working with [[SharePoint]] Online.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=8)** Before we move on, however, I want to remind you that this is a great time to post your certificate of completion on your LinkedIn Learning profile.
+> **[0:08](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=8)** Before we move on, however, I want to remind you that this is a great time to post your certificate of completion on your [[LinkedIn]] Learning profile.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=17)** There's a button that will help you do that right there.
 >
@@ -2435,7 +2407,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=90)** The work flow that we created was an approval flow and there are many more of those that you can create, not just for documents, but for entire lists and libraries.
 >
-> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=98)** And, there's also a course Microsoft PowerApps Essential Training: The Basics to get you going with PowerApps.
+> **[1:38](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=98)** And, there's also a course [[Microsoft]] PowerApps Essential Training: The Basics to get you going with PowerApps.
 >
 > **[1:44](https://www.linkedin.com/learning/learning-sharepoint-online-2/next-steps?u=76281980&t=104)** You will find all of these courses and more in the LinkedIn Learning Library.
 >
@@ -2447,7 +2419,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (10), [[LinkedIn]] (3), power (3), next (2), leadership (1)
+> **Frameworks & Libraries:** [[SharePoint]] (10), [[LinkedIn]] (3), [[Microsoft]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)

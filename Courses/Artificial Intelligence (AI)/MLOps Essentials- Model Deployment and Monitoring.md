@@ -99,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting started with MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
+#### [Getting started with MLOps](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=0)** - [Kumaran] More and more machine learning models are being deployed today, serving a variety of use cases for business and personal outcomes.
 >
-> **[0:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=9)** The focus on ML management has given rise to the world of machine learning operations, or MLOps.
+> **[0:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=9)** The focus on ML management has given rise to the world of machine learning operations, or [[MLOps]].
 >
 > **[0:17](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=17)** My name is Kumaran Ponnambalam.
 >
@@ -120,7 +119,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=45)** I will discuss the basics of model drift and how to monitor them.
 >
-> **[0:50](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=50)** Finally, I will briefly touch upon responsible AI and how it integrates into the MLOps framework.
+> **[0:50](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=50)** Finally, I will briefly touch upon [[Responsible AI]] and how it integrates into the MLOps framework.
 >
 > **[0:57](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/getting-started-with-mlops?u=76281980&t=57)** Students are expected to be familiar with general model building and deployment concepts, and are recommended to have prior experience in implementing machine learning.
 >
@@ -128,13 +127,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (4), business (1), management (1), next (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (4), [[Responsible AI]] (1)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [kumaran] (1)
 
-#### Course coverage
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980)
+#### [Course coverage](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -150,17 +148,17 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=25)** There are core machine learning activities in each of them.
 >
-> **[0:28](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=28)** Feature engineering, model training, testing and packaging are some core ML activities on the build side.
+> **[0:28](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=28)** [[Feature Engineering]], model training, testing and packaging are some core ML activities on the build side.
 >
 > **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=36)** Model deployment and inference are the core activities on the run side.
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=40)** Knowledge and experience in core ML activities is a prerequisite for this course.
 >
-> **[0:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=46)** Then, surrounding these core activities is MLOps, which again, can be split into build and run.
+> **[0:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=46)** Then, surrounding these core activities is [[MLOps]], which again, can be split into build and run.
 >
-> **[0:54](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=54)** On the build side of MLOps, we have various activities like requirements management, data and training pipelines, data governance, experiment tracking and integrations.
+> **[0:54](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=54)** On the build side of MLOps, we have various activities like requirements management, data and training pipelines, [[Data Governance]], experiment tracking and integrations.
 >
-> **[1:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=66)** On the run side of MLOps, we have infrastructure management, deployment, serving, monitoring, and responsible AI.
+> **[1:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=66)** On the run side of MLOps, we have infrastructure management, deployment, serving, monitoring, and [[Responsible AI]].
 >
 > **[1:15](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=75)** For this course, we will only focus on the run side of MLOps.
 >
@@ -194,7 +192,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=169)** That course covers the overview on MLOps, and also the development-side activities, which lead into the topics in this course.
 >
-> **[2:57](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=177)** Finally, a word about various tools and technologies discussed in this course.
+> **[2:57](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=177)** Finally, a [[Microsoft Word|word]] about various tools and technologies discussed in this course.
 >
 > **[3:02](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=182)** The MLOps tools world is a rapidly evolving ecosystem.
 >
@@ -204,13 +202,13 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=197)** So, we are recommending tools based on the status at the time of this recording, but it can change rapidly.
 >
-> **[3:24](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=204)** Also, there are MLOps tools from the three big platforms, AWS, GCP and Azure.
+> **[3:24](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=204)** Also, there are MLOps tools from the three big platforms, AWS, GCP and [[Microsoft Azure|Azure]].
 >
 > **[3:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/course-coverage?u=76281980&t=211)** We are not going to discuss them specifically in this course, but do check them out if you are already on any of these platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (13), data (3), management (2), [[Feature Engineering]] (1), [[Responsible AI]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (13), [[Feature Engineering]] (1), [[Data Governance]] (1), [[Responsible AI]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** aws (1), gcp (1)
 > **Best Practices:** recommended (2)
@@ -218,12 +216,11 @@ created: 2026-05-02
 > **CLI Commands:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Review of MLOps lifecycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980)
+#### [Review of MLOps lifecycle](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=0)** - Let's quickly review the MLOps lifecycle before jumping into the deployment and operations aspect of it.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=0)** - Let's quickly review the [[MLOps]] lifecycle before jumping into the deployment and operations aspect of it.
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=8)** MLOps is a set of practices that help manage the creation and use of ML artifacts through efficient workflows, collaboration, and tracking.
 >
@@ -233,13 +230,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=30)** What are the goals of MLOps?
 >
-> **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=32)** MLOps extends the DevOps methodology to building and serving machine learning solutions.
+> **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=32)** MLOps extends the [[DevOps]] methodology to building and serving machine learning solutions.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=38)** It integrates the activities of data engineering and model development into the software engineering and deployment life cycle.
+> **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=38)** It integrates the activities of [[Data Engineering]] and model development into the software engineering and deployment life cycle.
 >
 > **[0:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=47)** In addition to the software engineering artifacts of code and records, it manages the machine learning artifacts, data, and models.
 >
-> **[0:56](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=56)** It enables continuous model development and integration thus following an agile process to reduce time to market.
+> **[0:56](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=56)** It enables continuous model development and integration thus following an [[Agile Development|agile]] process to reduce time to market.
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=64)** MLOps deals with model deployment and serving.
 >
@@ -261,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=102)** The process starts with defining the requirements for the ML project and a corresponding design.
 >
-> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=108)** The design would include both non-ML parts like APIs, services, databases, UIs, et cetera, and ML pipelines like data engineering pipelines.
+> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=108)** The design would include both non-ML parts like APIs, services, [[Databases]], UIs, et cetera, and ML pipelines like data engineering pipelines.
 >
 > **[1:59](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/review-of-mlops-lifecycle?u=76281980&t=119)** This is then used to develop the non-ML parts of the overall solution.
 >
@@ -297,7 +294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (7), data (5), [[Data Engineering]] (4), [[DevOps]] (3), [[Engineering]] (3)
+> **Frameworks & Libraries:** [[MLOps]] (7), [[Data Engineering]] (4), [[DevOps]] (3), [[Agile Development|Agile]] (1), [[Databases]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - let (1)
@@ -307,8 +304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An ML production setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
+#### [An ML production setup](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/an-ml-production-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,14 +360,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), api (2), next (1)
 > **Env Vars:** api (2)
 > **Prerequisites:** setup (2)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-pipelines?u=76281980)
+#### [Deployment pipelines](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -425,14 +419,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2)
 > **Env Vars:** api (2)
 > **Prerequisites:** setup (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment rollout strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980)
+#### [Deployment rollout strategies](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -458,7 +450,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=62)** But this requires a service downtime, which may be acceptable in some use cases.
 >
-> **[1:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=68)** This strategy is suited for batch processing applications, where clients can be stopped from accessing the services for some time.
+> **[1:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=68)** This strategy is suited for [[Batch Processing]] applications, where clients can be stopped from accessing the services for some time.
 >
 > **[1:16](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=76)** Next comes the rolling deployment strategy.
 >
@@ -472,7 +464,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=97)** The overall service stays online during deployment, as the other nodes share the load.
 >
-> **[1:44](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=104)** This is suitable for APIs and stateless microservices.
+> **[1:44](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=104)** This is suitable for APIs and stateless [[Microservices]].
 >
 > **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-rollout-strategies?u=76281980&t=109)** The biggest concern of N+1 is ensuring backward compatibility with clients, as nodes with current and new versions are active at the same time.
 >
@@ -520,15 +512,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (4), traffic (4), next (2), application (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Microservices]] (1)
 > **CLI Commands:** node (4)
 > **Definitions:** is a  (2), is called (1)
 > **Prerequisites:** set up (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning for infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980)
+#### [Planning for infrastructure](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -552,11 +543,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=60)** Networking should be fast and reliable.
 >
-> **[1:03](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=63)** Finally, resiliency features like standbys and backups are also needed for all the infrastructure elements.
+> **[1:03](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=63)** Finally, [[Resiliency]] features like standbys and backups are also needed for all the infrastructure elements.
 >
 > **[1:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=71)** On the tools and technology side, we have operating systems.
 >
-> **[1:15](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=75)** Then there are application managers like Kubernetes.
+> **[1:15](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=75)** Then there are application managers like [[Kubernetes]].
 >
 > **[1:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=79)** Gateways are needed for security and load balancing.
 >
@@ -570,19 +561,19 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=106)** Capacity management plays a key part in provisioning the right amount of infrastructure such that operational goals are met at minimal costs.
 >
-> **[1:56](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=116)** The first step towards capacity planning is creating estimates for system and service loads.
+> **[1:56](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=116)** The first step towards [[Capacity Planning]] is creating estimates for system and service loads.
 >
 > **[2:03](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=123)** Both average and peak loads need to be estimated based on expected traffic and resources provisioned accordingly.
 >
 > **[2:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=131)** The type of rollout strategy chosen will also impact the required capacity.
 >
-> **[2:16](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=136)** Autoscaling is a great technique to ensure optimal use of resources, especially when using cloud infrastructure like AWS and GCP.
+> **[2:16](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=136)** Autoscaling is a great technique to ensure optimal use of resources, especially when using [[Cloud Infrastructure]] like AWS and GCP.
 >
 > **[2:26](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=146)** Finally, there has to be mitigation strategies when overload is detected.
 >
 > **[2:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=151)** This can be building up a request queue or throttling request in real time.
 >
-> **[2:36](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=156)** Today, more and more deployments happen in third-party infrastructure like AWS, GCP, and Azure.
+> **[2:36](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=156)** Today, more and more deployments happen in third-party infrastructure like AWS, GCP, and [[Microsoft Azure|Azure]].
 >
 > **[2:44](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/planning-for-infrastructure?u=76281980&t=164)** All of them have pay as you go systems.
 >
@@ -602,15 +593,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (2), management (2), aws (2), gcp (2)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Kubernetes]] (1), [[Capacity Planning]] (1), [[Cloud Infrastructure]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** aws (2), gcp (2)
 > **CLI Commands:** aws (2)
 > **Definitions:** is a  (2)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980)
+#### [Deployment best practices](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,7 +626,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980&t=72)** Finally, implementation of the plan should be enforced as part of the overall operational process.
 >
-> **[1:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980&t=79)** Similar to other phases of the MLOps cycle, automation plays a key role in scaling the deployments in an efficient manner.
+> **[1:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980&t=79)** Similar to other phases of the [[MLOps]] cycle, automation plays a key role in scaling the deployments in an efficient manner.
 >
 > **[1:28](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/deployment-best-practices?u=76281980&t=88)** It improves agility while reducing human effort.
 >
@@ -650,13 +640,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1)
 > **Best Practices:** recommended (3)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980)
+#### [Tools and technologies for deployment](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,19 +653,19 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=7)** Let's briefly look at the tools that are available today for deployment.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=12)** For managing applications that are deployed in a cluster, Kubernetes and OpenShift are the most popular ones.
+> **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=12)** For managing applications that are deployed in a cluster, [[Kubernetes]] and OpenShift are the most popular ones.
 >
-> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=19)** For deployment of applications, there are a variety of tools available including Docker, Spinnaker, Argo CD, and GitLab.
+> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=19)** For deployment of applications, there are a variety of tools available including Docker, Spinnaker, [[Argo CD]], and GitLab.
 >
 > **[0:28](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=28)** They have integrations with other services that make it easy to build automated pipelines.
 >
-> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=34)** For deployment automation, there are tools like Ansible, Jenkins, Terraform, and Chef that are available.
+> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=34)** For deployment automation, there are tools like [[Ansible]], [[Jenkins]], [[Terraform]], and Chef that are available.
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-deployment?u=76281980&t=42)** This space is again evolving, and we will continue to see new capabilities and integrations in this space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Argo CD]] (1), [[Automation]] (1), [[Ansible]] (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Argo CD]] (1), [[Ansible]] (1), [[Jenkins]] (1), [[Terraform]] (1)
 > **CLI Commands:** docker (1), cd (1), make (1), ansible (1), terraform (1)
 > **Tools:** gitlab (1)
 > **Speakers:** - [instructor] (1)
@@ -686,8 +675,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Model serving patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
+#### [Model serving patterns](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -717,9 +705,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=58)** This is a simple implementation that is applicable for historical use cases only.
 >
-> **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=64)** The next pattern is the inference API for real-time use.
+> **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=64)** The next pattern is the inference API for [[Real-Time]] use.
 >
-> **[1:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=69)** The API can be a REST API, served by a web server or an embedded function.
+> **[1:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=69)** The API can be a [[Representational State Transfer (REST)|REST]] API, served by a web server or an embedded function.
 >
 > **[1:14](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=74)** Clients call the API when inference is needed in real time.
 >
@@ -727,7 +715,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=87)** This pattern is useful for delivering third party ML services as packages or in the cloud.
 >
-> **[1:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=94)** It's also useful in a microservices architecture for real-time predictions.
+> **[1:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=94)** It's also useful in a [[Microservices]] architecture for real-time predictions.
 >
 > **[1:39](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/model-serving-patterns?u=76281980&t=99)** Inference APA may suffer from load issues in real time, when they have to concurrently service multiple requests.
 >
@@ -755,18 +743,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), api (4), [[Real-Time]] (4), data (1), next (1)
+> **Frameworks & Libraries:** [[Real-Time]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Microservices]] (1)
 > **Env Vars:** api (4), rest (1), apa (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scaling model serving
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980)
+#### [Scaling model serving](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=0)** - [Instructor] Scaling ML in a cost effective manner is a critical success factor for MLOps.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=0)** - [Instructor] Scaling ML in a cost effective manner is a critical success factor for [[MLOps]].
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=7)** Let's discuss some scaling options for ML in this video.
 >
@@ -780,7 +767,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=39)** The number of concurrent requests that can be processed by a given compute unit and the time the client waits to obtain the results are key measures.
 >
-> **[0:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=48)** When it comes to resource provisioning, average loads are used as the capacity benchmark for batch processing, while peak loads are used for real time inference.
+> **[0:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=48)** When it comes to resource provisioning, average loads are used as the capacity benchmark for [[Batch Processing]], while peak loads are used for real time inference.
 >
 > **[1:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/scaling-model-serving?u=76281980&t=60)** Auto scaling is used in real time to optimize resource allocation.
 >
@@ -830,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (2), parallel (2), [[MLOps]] (1), concurrent (1), [[Batch Processing]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Batch Processing]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** api (1), gpu (1)
@@ -838,12 +825,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Building resiliency in serving
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980)
+#### [Building resiliency in serving](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=0)** - [Instructor] Resiliency of software is its ability to handle issues gracefully and continue to provide the services to the end user with minimal interruptions.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=0)** - [Instructor] [[Resiliency]] of software is its ability to handle issues gracefully and continue to provide the services to the end user with minimal interruptions.
 >
 > **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=11)** Resiliency is a critical yet overlooked part of model inference.
 >
@@ -893,7 +879,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=150)** Solution resiliency deals with the overall experience of the user with the ML solution.
 >
-> **[2:37](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=157)** User experience should not be impacted when individual models or services experience issues.
+> **[2:37](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=157)** [[User Experience (UX)|User experience]] should not be impacted when individual models or services experience issues.
 >
 > **[2:44](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/building-resiliency-in-serving?u=76281980&t=164)** When issues happen, it is important to analyze its impact on end user experience and take action.
 >
@@ -909,21 +895,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Resiliency]] (10), data (5), [[User Experience (UX)|User experience]] (2), next (1), node (1)
+> **Frameworks & Libraries:** [[Resiliency]] (10), [[User Experience (UX)|User experience]] (2)
 > **CLI Commands:** make (1), node (1)
 > **Env Vars:** raid (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serving multiple models
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980)
+#### [Serving multiple models](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980&t=0)** - [Instructor] Let's look at scenarios where multiple models are used in an ML solution.
 >
-> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980&t=6)** An ML solution may use multiple related models to provide overall user experience.
+> **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980&t=6)** An ML solution may use multiple related models to provide overall [[User Experience (UX)|user experience]].
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/serving-multiple-models?u=76281980&t=13)** Solution design and deployment should consider this case and optimize across all models.
 >
@@ -995,13 +980,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[User Experience (UX)|User experience]] (2), parallel (2), chatbot (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for serving
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980)
+#### [Tools and technologies for serving](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1009,11 +993,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=6)** Cortex is a popular deployment and operations platform with a wide set of capabilities.
 >
-> **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=12)** Then TensorFlow is also a popular platform that can be used to serve applications built on TensorFlow.
+> **[0:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=12)** Then [[TensorFlow]] is also a popular platform that can be used to serve applications built on TensorFlow.
 >
-> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=19)** TorchServe similarly is a platform for PyTorch.
+> **[0:19](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=19)** TorchServe similarly is a platform for [[PyTorch]].
 >
-> **[0:23](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=23)** Kubeflow Serving is an open source platform that integrates with the rest of the Kubeflow pipeline for MLOps.
+> **[0:23](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=23)** Kubeflow Serving is an open source platform that integrates with the [[Representational State Transfer (REST)|rest]] of the Kubeflow pipeline for [[MLOps]].
 >
 > **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-serving?u=76281980&t=31)** Triton Inference Server from Nvidia is another popular commercial product for serving multiple types of models.
 >
@@ -1023,7 +1007,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[TensorFlow]] (2), [[PyTorch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1), product (1)
+> **Frameworks & Libraries:** [[TensorFlow]] (2), [[PyTorch]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[MLOps]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -1033,16 +1017,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The monitoring pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
+#### [The monitoring pipeline](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=0)** - [Instructor] We will discuss monitoring aspects of MLOps in this chapter.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=0)** - [Instructor] We will discuss monitoring aspects of [[MLOps]] in this chapter.
 >
 > **[0:05](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=5)** We will begin with a discussion around various components of a monitoring pipeline.
 >
-> **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=11)** Observability is a critical component of a DevOps system and that extends to MLOps too.
+> **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=11)** Observability is a critical component of a [[DevOps]] system and that extends to MLOps too.
 >
 > **[0:18](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=18)** An end-to-end observability strategy across system, application, and model behavior is critical to MLOps.
 >
@@ -1052,7 +1035,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=38)** This is a general architecture and the specifics of technologies used may vary based on the product choices for monitoring.
 >
-> **[0:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=47)** All services are typically installed on containers or virtual machines.
+> **[0:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=47)** All services are typically installed on containers or [[Virtual Machines]].
 >
 > **[0:53](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=53)** The ML service would itself be deployed in a similar fashion with the model cached inside.
 >
@@ -1060,7 +1043,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=64)** This agent will collect telemetry data periodically and send it over to a telemetry queue.
 >
-> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=70)** Data like resource utilization, application statistics, logs, errors and audit trails may be collected.
+> **[1:10](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=70)** Data like resource utilization, application [[Statistics]], logs, errors and audit trails may be collected.
 >
 > **[1:18](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=78)** The telemetry queue consolidates this data across multiple containers in a cluster.
 >
@@ -1090,21 +1073,20 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=163)** This data is appended to the metrics database.
 >
-> **[2:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=166)** Similarly, a drift and responsible AI analyzer will run on the same data and update the findings in the same database.
+> **[2:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=166)** Similarly, a drift and [[Responsible AI]] analyzer will run on the same data and update the findings in the same database.
 >
 > **[2:54](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=174)** The analytics and alerting services would then be used on ML-specific data also.
 >
-> **[3:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=180)** We will explore these services in detail in the rest of the chapter.
+> **[3:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/the-monitoring-pipeline?u=76281980&t=180)** We will explore these services in detail in the [[Representational State Transfer (REST)|rest]] of the chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (4), [[MLOps]] (3), [[Analytics]] (3), application (2)
+> **Frameworks & Libraries:** [[MLOps]] (3), [[DevOps]] (1), [[Virtual Machines]] (1), [[Statistics]] (1), [[Responsible AI]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Instrumentation for observability
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980)
+#### [Instrumentation for observability](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1126,7 +1108,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=46)** Network traffic information helps understand the performance of the network.
 >
-> **[0:51](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=51)** Request/response statistics are collected in API gateways to understand the incoming requests and their responses.
+> **[0:51](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=51)** Request/response [[Statistics]] are collected in API gateways to understand the incoming requests and their responses.
 >
 > **[0:59](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=59)** Error statistics at the system level will monitor any exceptions with resource access and handling.
 >
@@ -1134,7 +1116,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=71)** Tooling at the operating system level helps understand compute resources.
 >
-> **[1:16](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=76)** Runtime platforms like Docker and Kubernetes also help track system performance.
+> **[1:16](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=76)** Runtime platforms like Docker and [[Kubernetes]] also help track system performance.
 >
 > **[1:22](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/instrumentation-for-observability?u=76281980&t=82)** API gateways help in tracking information about incoming requests and the responses returned.
 >
@@ -1186,18 +1168,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), application (5), [[Statistics]] (2), api (2), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Kubernetes]] (1)
 > **Env Vars:** api (2), cpu (1)
 > **CLI Commands:** docker (1), make (1)
 > **Definitions:** refers to (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Metrics to monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980)
+#### [Metrics to monitor](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=0)** - [Instructor] What are the various types of metrics that are recommended to be monitored for MLOps?
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=0)** - [Instructor] What are the various types of metrics that are recommended to be monitored for [[MLOps]]?
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=6)** Let's review them in this video.
 >
@@ -1249,7 +1230,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=122)** These metrics are constrained by the amount and type of data available, especially if true labels are available from production.
 >
-> **[2:10](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=130)** Performance metrics for models include accuracy, F1-scores, type I and II errors, precision, recall, et cetera.
+> **[2:10](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=130)** [[Performance Metrics]] for models include accuracy, F1-scores, type I and II errors, precision, recall, et cetera.
 >
 > **[2:18](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=138)** Computation of these metrics would depend upon the availability of both predicted and actual labels.
 >
@@ -1257,21 +1238,20 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=152)** We will discuss drift in detail in the next chapter.
 >
-> **[2:35](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=155)** There are also responsible AI-related metrics, like fairness score and correlation.
+> **[2:35](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=155)** There are also [[Responsible AI]]-related metrics, like fairness score and correlation.
 >
 > **[2:42](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/metrics-to-monitor?u=76281980&t=162)** Responsible AI is discussed in one of the future chapters.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), application (2), [[Responsible AI]] (2), [[MLOps]] (1), business (1)
+> **Frameworks & Libraries:** [[Responsible AI]] (2), [[MLOps]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cpu (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### ML production data best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980)
+#### [ML production data best practices](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1285,7 +1265,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=29)** It contains the model outputs or predictions.
 >
-> **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=32)** It also has statistics about the inference, including latency, and any confidence or error measures.
+> **[0:32](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=32)** It also has [[Statistics]] about the inference, including latency, and any confidence or error measures.
 >
 > **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=40)** True labels may be available in some cases.
 >
@@ -1301,28 +1281,27 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=82)** It's recommended to cache the data locally in disk, and then use store and forward to consolidate them in the monitoring hub.
 >
-> **[1:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=91)** There are rarely any real time uses for ML production data, so batch processing is mostly sufficient.
+> **[1:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=91)** There are rarely any real time uses for ML production data, so [[Batch Processing]] is mostly sufficient.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=98)** Privacy of data is a significant risk, so it is recommended to use techniques like reduction and anonymization before the data is stored in the central hub.
+> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=98)** [[Privacy]] of data is a significant risk, so it is recommended to use techniques like reduction and anonymization before the data is stored in the central hub.
 >
-> **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=109)** It is also recommended to use independent processors for different metrics following microservices patterns.
+> **[1:49](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/ml-production-data-best-practices?u=76281980&t=109)** It is also recommended to use independent processors for different metrics following [[Microservices]] patterns.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (1), [[Batch Processing]] (1), [[Privacy]] (1), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Batch Processing]] (1), [[Privacy]] (1), [[Microservices]] (1)
 > **Best Practices:** recommended (3)
 > **Definitions:** is a  (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Alerts and thresholds for ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980)
+#### [Alerts and thresholds for ML](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980&t=0)** - [Instructor] In this video, we will focus on creating thresholds and alerts for ML-related monitoring.
 >
-> **[0:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980&t=8)** A well-designed threshold and alerting system helps in efficient continuous monitoring of ML services by requesting the right amount of attention from the ML team at the right time.
+> **[0:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980&t=8)** A well-designed threshold and alerting system helps in efficient [[Continuous Monitoring]] of ML services by requesting the right amount of attention from the ML team at the right time.
 >
 > **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/alerts-and-thresholds-for-ml?u=76281980&t=21)** Threshold and alerting systems in general should get quick attention for valid issues while eliminating false positives.
 >
@@ -1390,7 +1369,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), next (2), [[Continuous Monitoring]] (1), data (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Continuous Monitoring]] (1)
 > **Prerequisites:** set up (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
@@ -1398,8 +1377,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools and technologies for monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980)
+#### [Tools and technologies for monitoring](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1407,11 +1385,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=7)** For system and application monitoring, a number of tools are available for instrumentation and collection of telemetry data.
 >
-> **[0:15](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=15)** They include Kubernetes, Prometheus, the ELK stack, Fluentd, and Grafana.
+> **[0:15](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=15)** They include [[Kubernetes]], Prometheus, the ELK stack, Fluentd, and Grafana.
 >
 > **[0:21](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=21)** There are also other commercial providers like Datadog, New Relic, and Sensu who provide monitoring as a service.
 >
-> **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=29)** For monitoring ML models, there are products for monitoring, like Seldon Core and Fiddler.
+> **[0:29](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=29)** For monitoring ML models, there are [[Microsoft Products|products]] for monitoring, like Seldon Core and Fiddler.
 >
 > **[0:36](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/tools-and-technologies-for-monitoring?u=76281980&t=36)** ML monitoring services are also available from Arize AI, Neptune, Evidently AI, and New Relic.
 >
@@ -1419,7 +1397,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), application (1), data (1), [[Kubernetes]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** elk (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -1429,8 +1407,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to model drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
+#### [Introduction to model drift](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1480,7 +1457,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980&t=129)** x stands for a feature and y stands for the target.
 >
-> **[2:14](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980&t=134)** So the probability of x or p of x is the probability that a given feature value appears in the population.
+> **[2:14](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980&t=134)** So the [[Probability]] of x or p of x is the probability that a given feature value appears in the population.
 >
 > **[2:23](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/introduction-to-model-drift?u=76281980&t=143)** So if 40% of the patients are older than 50, then the probability of age greater than 50 would be 40%.
 >
@@ -1520,13 +1497,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (14), next (5), feature (3)
+> **Frameworks & Libraries:** [[Probability]] (14)
 > **Definitions:** stands for (2), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Concept drift basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980)
+#### [Concept drift basics](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1540,7 +1516,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980&t=27)** As a result, the model is no longer able to predict accurately and needs to be retrained.
 >
-> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980&t=34)** In the formula for conditional probability of Y given X, when the joint probability of X and Y changes, concept drift occurs.
+> **[0:34](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980&t=34)** In the formula for conditional [[Probability]] of Y given X, when the joint probability of X and Y changes, concept drift occurs.
 >
 > **[0:43](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/concept-drift-basics?u=76281980&t=43)** For example, let's say in the real world, the patient has diabetes 80% of the time when their age is greater than 50.
 >
@@ -1582,15 +1558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Probability]] (3), feature (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** a1c (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing concept drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-concept-drift?u=76281980)
+#### [Managing concept drift](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-concept-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,15 +1613,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (1), management (1), feature (1), next (1)
 > **Cross-References:** later in (1), go back to (1), coming up (1), in the next (1)
 > **Analogies:** for example (2)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Feature drift basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980)
+#### [Feature drift basics](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1656,7 +1629,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=13)** This indicates a change in the features that are different from those that were used during model training.
 >
-> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=20)** Looking at the conditional probability formula, there is a change in the probability of X for feature drift.
+> **[0:20](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=20)** Looking at the conditional [[Probability]] formula, there is a change in the probability of X for feature drift.
 >
 > **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=27)** One important question is whether the occurrence of a feature drift would mean that a concept drift is also happening.
 >
@@ -1700,7 +1673,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=138)** Some demographics may be more active in the given time period.
 >
-> **[2:21](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=141)** Some products may be sold more than expected.
+> **[2:21](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=141)** Some [[Microsoft Products|products]] may be sold more than expected.
 >
 > **[2:24](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/feature-drift-basics?u=76281980&t=144)** For example, during COVID, sales of hand sanitizers increased multifold.
 >
@@ -1716,7 +1689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (12), data (7), [[Probability]] (5), [[Microsoft Products|Products]] (1), application (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Env Vars:** covid (1)
 > **Cross-References:** in the next (1)
@@ -1724,8 +1697,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Managing feature drift
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980)
+#### [Managing feature drift](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=31)** To compute feature drift, we need datasets of features from both training and production.
 >
-> **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=38)** These can end up being very large as most techniques for feature drift involve comparing two sample sets and data mining if they belong to the same population.
+> **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=38)** These can end up being very large as most techniques for feature drift involve comparing two sample sets and [[Data Mining]] if they belong to the same population.
 >
 > **[0:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=48)** In terms of techniques, Kolmogorov-Smirnov or KS is a popular technique for measuring drift.
 >
@@ -1757,7 +1729,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=89)** When the correlation between a feature variable and a target is high, even small amounts of feature drift can cause concept drift.
 >
-> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=98)** When drift is noticed, examine changes to the data processing pipelines and application changes to identify possible causes.
+> **[1:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=98)** When drift is noticed, examine changes to the [[Data Processing]] pipelines and application changes to identify possible causes.
 >
 > **[1:46](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/managing-feature-drift?u=76281980&t=106)** Look for errors also in data processing.
 >
@@ -1767,7 +1739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (15), data (5), management (1), application (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Data Mining]] (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** recommended (1)
@@ -1778,20 +1750,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Elements of responsible AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
+#### [Elements of responsible AI](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=0)** - [Narrator] Responsible AI is an area that is gaining more importance around the world as concerns about the harmful effects of AI grow in our society.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=0)** - [Narrator] [[Responsible AI]] is an area that is gaining more importance around the world as concerns about the harmful effects of AI grow in our society.
 >
-> **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=11)** While there is excitement about the disruptive potential of AI in improving our personal lives and business, there are also ethical concerns around bias, security, privacy, and transparency of these solutions.
+> **[0:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=11)** While there is excitement about the disruptive potential of AI in improving our personal lives and business, there are also ethical concerns around bias, security, [[Privacy]], and transparency of these solutions.
 >
-> **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=27)** Responsible AI, or RAI for short, is a set of principles, processes, and practices to ensure that ML models are accepted in our society as ethical, thereby building trust in its capabilities.
+> **[0:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=27)** Responsible AI, or RAI for short, is a set of principles, processes, and practices to ensure that ML models are accepted in our society as ethical, thereby [[Building Trust]] in its capabilities.
 >
 > **[0:42](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=42)** This trust is important for the wide acceptance of AI.
 >
-> **[0:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=47)** Ensuring conformance to responsible AI principles and practices is a key area for MLOps.
+> **[0:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=47)** Ensuring conformance to responsible AI principles and practices is a key area for [[MLOps]].
 >
 > **[0:54](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=54)** What are the key elements of responsible AI?
 >
@@ -1801,7 +1772,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=69)** It helps to eliminate doubts about its sanctity.
 >
-> **[1:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=72)** Next, accountability is needed for the predictions made by models.
+> **[1:12](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=72)** Next, [[Accountability]] is needed for the predictions made by models.
 >
 > **[1:17](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=77)** Models may fail often, leading to undesirable consequences.
 >
@@ -1829,7 +1800,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=157)** Commitment and resources are needed for successful RAI.
 >
-> **[2:41](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=161)** First, an RAI owner needs to be appointed, who is accountable for ensuring that models and products conform to RAI requirements.
+> **[2:41](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=161)** First, an RAI owner needs to be appointed, who is accountable for ensuring that models and [[Microsoft Products|products]] conform to RAI requirements.
 >
 > **[2:51](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/elements-of-responsible-ai?u=76281980&t=171)** Policies and procedures need to be created to lay out how the organization will adapt and enforce RAI.
 >
@@ -1843,19 +1814,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Responsible AI]] (5), ai (4), [[Security]] (3), [[Privacy]] (2), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (5), [[Privacy]] (2), [[Accountability]] (2), [[Building Trust]] (1), [[MLOps]] (1)
 > **Env Vars:** rai (9)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** make (1)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [narrator] (1)
 
-#### Explainable AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980)
+#### [Explainable AI](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=0)** - [Instructor] The ability to interpret why a model is predicting in a certain way is becoming more and more important as AI faces challenges from governments and society about its ethics.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=0)** - [Instructor] The ability to interpret why a model is predicting in a certain way is becoming more and more important as AI faces challenges from governments and society about its [[Ethics]].
 >
 > **[0:14](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=14)** Explainable AI, or XAI for short, is a set of processes and tools that allows humans to understand model behavior by correlating the output to the input features that influenced it.
 >
@@ -1865,7 +1835,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=38)** Models are becoming black boxes.
 >
-> **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=40)** As we focus more and more on deep learning models, especially for NLP and vision applications, it's not possible to understand why a model is predicting in a certain manner.
+> **[0:40](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=40)** As we focus more and more on [[Deep Learning]] models, especially for NLP and vision applications, it's not possible to understand why a model is predicting in a certain manner.
 >
 > **[0:52](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/explainable-ai?u=76281980&t=52)** As a result, questions arise about its accuracy and fairness, and whether it is performing like a human in these situations.
 >
@@ -1891,14 +1861,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Ethics]] (1), [[Engineering]] (1), [[Deep Learning]] (1), nlp (1)
+> **Frameworks & Libraries:** [[Ethics]] (1), [[Deep Learning]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** xai (1), nlp (1), lime (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Fairness in ML
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980)
+#### [Fairness in ML](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1938,7 +1907,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980&t=120)** Quality of data is more important than quantity.
 >
-> **[2:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980&t=124)** Then comes input data validation for training and inference to make sure that there are no exceptions and skews.
+> **[2:04](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980&t=124)** Then comes input [[Data Validation]] for training and inference to make sure that there are no exceptions and skews.
 >
 > **[2:11](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/fairness-in-ml?u=76281980&t=131)** When evaluating model performance, it is important to look at performance by individual target classes.
 >
@@ -1954,17 +1923,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10)
+> **Frameworks & Libraries:** [[Data Validation]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
-#### Security of ML assets
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980)
+#### [Security of ML assets](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=0)** - [Instructor] An important area in MLOps around responsible AI is the security of ML assets like data and models.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=0)** - [Instructor] An important area in [[MLOps]] around [[Responsible AI]] is the security of ML assets like data and models.
 >
 > **[0:09](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=9)** Machine learning solutions also have threats of adversarial attacks that compromise the model as well as data used for training and inference.
 >
@@ -1980,25 +1948,24 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=104)** How do we protect the model and data from adversarial attacks?
 >
-> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=108)** There should be physical security to where these assets are stored, there should be network security that prevents unauthorized users from accessing the assets; it is recommended to encrypt models and data when they are deployed on edge devices like mobile phones and routers; during training, it's recommended to sanitize data to remove individual negative samples; a number of new techniques like RONI, TRIM , and KNHT are coming up in this space; when using AutoML, perform validations on new training data to ensure that they are not compromised; block model poisoning with training data by using gradient-shaping techniques; use model restoration techniques to remove back doors to information leakage.
+> **[1:48](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=108)** There should be physical security to where these assets are stored, there should be [[Network Security]] that prevents unauthorized users from accessing the assets; it is recommended to encrypt models and data when they are deployed on edge devices like mobile phones and routers; during training, it's recommended to sanitize data to remove individual negative samples; a number of new techniques like RONI, TRIM , and KNHT are coming up in this space; when using AutoML, perform validations on new training data to ensure that they are not compromised; block model poisoning with training data by using gradient-shaping techniques; use model restoration techniques to remove back doors to information leakage.
 >
 > **[2:36](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/security-of-ml-assets?u=76281980&t=156)** Some of these techniques may be new to you and I highly recommend further reading on these topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (3), [[MLOps]] (1), [[Responsible AI]] (1), application (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[Responsible AI]] (1), [[Network Security]] (1)
 > **Env Vars:** roni (1), trim (1), knht (1)
 > **Best Practices:** recommended (2)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy in machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980)
+#### [Privacy in machine learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=0)** - [Instructor] Similar to security, privacy is another important consideration in machine learning.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=0)** - [Instructor] Similar to security, [[Privacy]] is another important consideration in machine learning.
 >
 > **[0:06](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=6)** Sensitive information should be protected against accidental or adversary leakage when used for training or inference.
 >
@@ -2018,11 +1985,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=67)** More and more laws, regulations and standards are created like GDPR, and HIPAA.
 >
-> **[1:13](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=73)** Each country is coming up with their own laws for AI, and business verticals like healthcare and banking are also doing the same.
+> **[1:13](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=73)** Each country is coming up with their own laws for AI, and business verticals like healthcare and [[Banking]] are also doing the same.
 >
-> **[1:20](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=80)** Compliance to these is a requirement in order to sell ML products to these countries and verticals.
+> **[1:20](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=80)** Compliance to these is a requirement in order to sell ML [[Microsoft Products|products]] to these countries and verticals.
 >
-> **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=87)** What are the various techniques available for privacy protection?
+> **[1:27](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=87)** What are the various techniques available for [[Privacy Protection]]?
 >
 > **[1:31](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=91)** It begins with having access controls, specifically at an attribute level.
 >
@@ -2030,7 +1997,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=107)** Data aggregation is another technique to hide individual information.
 >
-> **[1:52](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=112)** Threat modeling and leakage analysis helps identify gaps in privacy implementation and fix them.
+> **[1:52](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=112)** [[Threat Modeling]] and leakage analysis helps identify gaps in privacy implementation and fix them.
 >
 > **[1:59](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/privacy-in-machine-learning?u=76281980&t=119)** Federated learning and inference is another area that takes the model to where the data is.
 >
@@ -2044,7 +2011,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Privacy]] (7), ai (3), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (7), [[Banking]] (1), [[Microsoft Products|Products]] (1), [[Privacy Protection]] (1), [[Threat Modeling]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **Env Vars:** gdpr (1), hipaa (1)
 > **Cross-References:** coming up (1)
@@ -2056,12 +2023,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with MLOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)
+#### [Continuing on with MLOps](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts of MLOps for deployment and monitoring, you can take your learning even further.
+> **[0:00](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980&t=0)** - [Kumaran] Now that you have learned about the concepts of [[MLOps]] for deployment and monitoring, you can take your learning even further.
 >
 > **[0:08](https://www.linkedin.com/learning/mlops-essentials-model-deployment-and-monitoring/continuing-on-with-mlops?u=76281980&t=8)** Explore specific tools and technologies discussed in this course.
 >

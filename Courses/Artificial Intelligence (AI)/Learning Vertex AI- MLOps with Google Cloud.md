@@ -85,16 +85,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning Vertex AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980)
+#### [Learning Vertex AI](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=0)** - [Archana] It is time to stop building castles in the cloud and start investing in scalable and sustainable MLOps systems.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=0)** - [Archana] It is time to stop building castles in the cloud and start investing in scalable and sustainable [[MLOps]] systems.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=9)** Join us in our exciting new course on Vertex AI, where you will learn about the entire MLOps lifecycle from development to deployment.
+> **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=9)** Join us in our exciting new course on [[Vertex]] AI, where you will learn about the entire MLOps lifecycle from development to deployment.
 >
-> **[0:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=21)** You will dive deep into feature engineering with feature store and data labeling, explore cutting edge training and hyper parameter tuning techniques with AutoML and experiments, and easily deploy your models using Vertex AI prediction and endpoints.
+> **[0:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=21)** You will dive deep into [[Feature Engineering]] with feature store and data labeling, explore cutting edge training and hyper parameter tuning techniques with AutoML and experiments, and easily deploy your models using Vertex AI prediction and endpoints.
 >
 > **[0:41](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/learning-vertex-ai?u=76281980&t=41)** You will even get an hands-on experience with a challenging project and learn how to monitor and manage your model with Vertex AI and its powerful tools.
 >
@@ -104,31 +103,30 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (4), ai (4), [[MLOps]] (3), cloud (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[MLOps]] (3), [[Feature Engineering]] (1)
 > **Speakers:** - [archana] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=0)** - [Instructor] If you're considering taking this Vertex AI course, here are some prerequisites that is good to have.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=0)** - [Instructor] If you're considering taking this [[Vertex]] AI course, here are some prerequisites that is good to have.
 >
-> **[0:07](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=7)** It is important to have a solid understanding of machine learning concepts, including supervised and unsupervised learning, feature engineering, model evaluation and deployment.
+> **[0:07](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=7)** It is important to have a solid understanding of machine learning concepts, including supervised and unsupervised learning, [[Feature Engineering]], model evaluation and deployment.
 >
-> **[0:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=19)** You should be comfortable with Python programming, including the ability to write, read, and modify code.
+> **[0:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=19)** You should be comfortable with [[Python (Programming Language)|Python]] programming, including the ability to write, read, and modify code.
 >
-> **[0:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=26)** Familiarity with libraries such as NumPy, pandas, Matplotlib, and scikit-learn will also come in handy.
+> **[0:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=26)** Familiarity with libraries such as NumPy, [[Pandas (Software)|pandas]], Matplotlib, and scikit-learn will also come in handy.
 >
-> **[0:35](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=35)** You should have a basic understanding of cloud computing concepts, such as virtual machines, containers, and cloud storage.
+> **[0:35](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=35)** You should have a basic understanding of [[Cloud Computing]] concepts, such as [[Virtual Machines]], containers, and [[Cloud Storage]].
 >
-> **[0:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=43)** While not required, experience with popular machine learning frameworks, like TensorFlow or scikit-learn, can give you a head start.
+> **[0:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=43)** While not required, experience with popular machine learning frameworks, like [[TensorFlow]] or scikit-learn, can give you a head start.
 >
-> **[0:51](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=51)** Having a solid foundation in these areas will make it easier for you to understand and apply these concepts and techniques taught in the Vertex AI MLOps course.
+> **[0:51](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-you-should-know?u=76281980&t=51)** Having a solid foundation in these areas will make it easier for you to understand and apply these concepts and techniques taught in the Vertex AI [[MLOps]] course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (2), ai (2), cloud (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Feature Engineering]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
@@ -138,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MLOps lifecycle: ML development
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980)
+#### [MLOps lifecycle: ML development](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=0)** - [Speaker] Welcome to the exciting world of MLOPs building blocks.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=0)** - [Speaker] Welcome to the exciting world of [[MLOps]] building blocks.
 >
 > **[0:04](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=4)** As a student, you may be wondering what is MLOPs and why is it important?
 >
@@ -155,7 +152,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=49)** Secondly, they help to scale ML systems to accommodate more users and data over time.
 >
-> **[0:57](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=57)** Thirdly, they establish ethics for model fairness in different teams, which means different teams can follow a single standard of what it means for the system to be fair in terms of data, model and outcomes.
+> **[0:57](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=57)** Thirdly, they establish [[Ethics]] for model fairness in different teams, which means different teams can follow a single standard of what it means for the system to be fair in terms of data, model and outcomes.
 >
 > **[1:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=74)** It also ensures shorter time to market through shorter development cycles and timely pace of different blocks of the system.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=147)** Do we need realtime data?
 >
-> **[2:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=149)** What is the vision for data collection or processing in the future?
+> **[2:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=149)** What is the vision for [[Data Collection]] or processing in the future?
 >
 > **[2:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=154)** Do you need to retrain your model?
 >
@@ -201,29 +198,28 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=192)** This is to maintain the type of models used during development.
 >
-> **[3:16](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=196)** For example, let us say a data scientist might choose an ImageNet model for computer vision task and later on choose a mobile net model instead.
+> **[3:16](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=196)** For example, let us say a data scientist might choose an ImageNet model for [[Computer Vision]] task and later on choose a mobile net model instead.
 >
 > **[3:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=206)** The registry will serve to store and record iterations of model prototypes.
 >
-> **[3:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=213)** ML metadata and artifact repository.
+> **[3:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=213)** ML [[Metadata]] and artifact repository.
 >
 > **[3:37](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=217)** This can be used to store your model evaluation metricsk hyper parameter, training and testing split used.
 >
-> **[3:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=225)** And finally, version control.
+> **[3:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=225)** And finally, [[Version Control]].
 >
 > **[3:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-ml-development?u=76281980&t=229)** This is to make sure there is a pointer to the current version being used by the system.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[MLOps]] (4), teams (2), [[Ethics]] (1), ai (1)
+> **Frameworks & Libraries:** [[MLOps]] (4), [[Ethics]] (1), [[Data Collection]] (1), [[Computer Vision]] (1), [[Metadata]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [speaker] (1)
 
-#### MLOps lifecycle: Training
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980)
+#### [MLOps lifecycle: Training](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=9)** But as you move from ever ML development to ML engineering, you face new challenges and opportunities.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=18)** MLOps for training has two core components: training operationalization, and continuous training.
+> **[0:18](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=18)** [[MLOps]] for training has two core components: training operationalization, and continuous training.
 >
 > **[0:27](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=27)** Let us dive into each of them and see what they involve.
 >
@@ -245,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=57)** What fallback options do we have to use if the testing of the model fails?
 >
-> **[1:04](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=64)** For example, imagine you are building a recommendation system for an e-commerce website.
+> **[1:04](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=64)** For example, imagine you are building a recommendation system for an [[E-Commerce]] website.
 >
 > **[1:11](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=71)** You must run the training and testing pipeline periodically to update your recommendations based on new user data.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=121)** Do we want the pipeline to be automatic?
 >
-> **[2:04](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=124)** If so, we need to implement data validation steps to check for data drift or drastic changes in the data.
+> **[2:04](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=124)** If so, we need to implement [[Data Validation]] steps to check for data drift or drastic changes in the data.
 >
 > **[2:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=134)** For example, you are building a fraud detection system for a financial institution.
 >
@@ -273,25 +269,24 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=163)** This is where the importance of tracking and logging comes in.
 >
-> **[2:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=169)** Overall, ML engineering is a fascinating and challenging field that requires deep understanding of machine learning algorithms, data pipelines, infrastructure, and software engineering.
+> **[2:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=169)** Overall, ML engineering is a fascinating and challenging field that requires deep understanding of machine learning [[Algorithms]], [[Data Pipelines]], infrastructure, and software engineering.
 >
-> **[3:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=183)** With Vertex AI, you have a powerful and easy-to-use platform that can help you build, train and deploy your models at scale.
+> **[3:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-training?u=76281980&t=183)** With [[Vertex]] AI, you have a powerful and easy-to-use platform that can help you build, train and deploy your models at scale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Engineering]] (3), [[MLOps]] (1), [[E-Commerce]] (1), traffic (1)
+> **Frameworks & Libraries:** [[MLOps]] (1), [[E-Commerce]] (1), [[Data Validation]] (1), [[Algorithms]] (1), [[Data Pipelines]] (1)
 > **Analogies:** for example (3), imagine (2), such as (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### MLOps lifecycle: Deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980)
+#### [MLOps lifecycle: Deployment](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=0)** - [Instructor] The final piece to the MLOps lifecycle is deployment.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=0)** - [Instructor] The final piece to the [[MLOps]] lifecycle is deployment.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=5)** Let us break down the different parts of this deployment.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=45)** The model registry is a central location where all versions of the model are stored.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=52)** From the registry you can fetch the registered model, run it through testing phases to ensure it's ready for deployment.
+> **[0:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=52)** From the registry you can [[Fetch]] the registered model, run it through testing phases to ensure it's ready for deployment.
 >
 > **[1:02](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=62)** Testing can be done in variety of ways depending on the organization's needs.
 >
@@ -319,7 +314,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=87)** Before deploying the model, it is important to test how it compares to the model ready in production.
 >
-> **[1:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=96)** In the Google Guide to MLOps white paper they suggest running the current model in parallel to the new model and then testing which model performs better.
+> **[1:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=96)** In the [[Google]] Guide to MLOps white paper they suggest running the current model in parallel to the new model and then testing which model performs better.
 >
 > **[1:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=107)** This is called A/B testing.
 >
@@ -335,7 +330,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=157)** This is known as prediction serving.
 >
-> **[2:41](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=161)** Imagine your model is making realtime predictions in a mobile app, predicting what music you might like or what products you want to buy.
+> **[2:41](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=161)** Imagine your model is making realtime predictions in a mobile app, predicting what music you might like or what [[Microsoft Products|products]] you want to buy.
 >
 > **[2:51](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=171)** So what will it look like?
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=180)** The model can also be in an embedded system, such as a mobile app or sensor.
 >
-> **[3:07](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=187)** Or else the model can be served through the REST API that other applications can access.
+> **[3:07](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=187)** Or else the model can be served through the [[Representational State Transfer (REST)|REST]] API that other applications can access.
 >
 > **[3:16](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=196)** When working with large ML systems with many team players it is important to ensure that the training data and the testing data are consistent.
 >
@@ -355,7 +350,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=229)** It is all thanks to the power of ML models running in the background.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=234)** Continuous monitoring is a vital aspect of ML systems.
+> **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=234)** [[Continuous Monitoring]] is a vital aspect of ML systems.
 >
 > **[3:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=239)** Contrary to popular beliefs, models are only a part of the pipeline and they need to be actively checked and tested.
 >
@@ -371,7 +366,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=280)** A sample of the request response payload is captured and stored in the serving log store.
 >
-> **[4:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=287)** The monitor engine periodically loads the latest inference log generating a schema and compute statistics for the serving data.
+> **[4:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=287)** The monitor engine periodically loads the latest inference log generating a schema and compute [[Statistics]] for the serving data.
 >
 > **[4:57](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/mlops-lifecycle-deployment?u=76281980&t=297)** The monitoring engine compares the generated schema to reference schema to identify with schema SKUs and compares the computed statistics to baseline to identify the distributed SKUs.
 >
@@ -387,7 +382,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[MLOps]] (4), [[Continuous Monitoring]] (3), teams (2), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[MLOps]] (4), [[Continuous Monitoring]] (3), [[Statistics]] (2), [[Fetch]] (1), [[Google]] (1)
 > **Definitions:** is a  (2), is called (1), is an  (1), known as (1)
 > **Analogies:** for example (2), such as (2), imagine (1)
 > **Env Vars:** rest (1), api (1)
@@ -395,12 +390,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vertex AI walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980)
+#### [Vertex AI walkthrough](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=0)** - [Instructor] Now that you know the basics of MLOps, let us take a look at Vertex AI, which is an MLOps platform by Google.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=0)** - [Instructor] Now that you know the basics of [[MLOps]], let us take a look at [[Vertex]] AI, which is an MLOps platform by [[Google]].
 >
 > **[0:10](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=10)** After opening your GCP console, you can search for Vertex AI and open it.
 >
@@ -428,11 +422,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=90)** You are given many options to choose from.
 >
-> **[1:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=94)** For this course, a simple Python three notebook instance will be enough, so click that.
+> **[1:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=94)** For this course, a simple [[Python (Programming Language)|Python]] three notebook instance will be enough, so click that.
 >
 > **[1:41](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=101)** Give it a meaningful name.
 >
-> **[1:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=105)** You can keep the rest of the options in their default value.
+> **[1:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=105)** You can keep the [[Representational State Transfer (REST)|rest]] of the options in their default value.
 >
 > **[1:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=112)** You can see the notebook will be created in an instance with four CPUs and 15 GB of memory.
 >
@@ -464,9 +458,9 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=201)** By the end of the course, you will be able to train a model on this dataset, deploy that model to an endpoint, and query the endpoint to get a prediction.
 >
-> **[3:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=214)** Another database we will be using is Google Cloud storage.
+> **[3:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=214)** Another database we will be using is [[Google Cloud Platform (GCP)|Google Cloud]] storage.
 >
-> **[3:39](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=219)** Unlike BigQuery, which can only store tabular data, in cloud storage, you can store files like images, PDF documents, and model files.
+> **[3:39](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=219)** Unlike BigQuery, which can only store tabular data, in [[Cloud Storage]], you can store files like images, PDF documents, and model files.
 >
 > **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-walkthrough?u=76281980&t=234)** Cloud storage data is divided into buckets.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (9), ai (9), data (6), [[MLOps]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (9), [[MLOps]] (2), [[Google]] (2), [[Cloud Storage]] (2), [[Python (Programming Language)|Python]] (1)
 > **Tools:** jupyter (3), gcp console (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1), python (1)
@@ -495,12 +489,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vertex AI feature store
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980)
+#### [Vertex AI feature store](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=0)** - [Narrator] The idea behind the Vertex AI Feature Store is collectively store, organize features and collaborate on these with your team members.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=0)** - [Narrator] The idea behind the [[Vertex]] AI Feature Store is collectively store, organize features and collaborate on these with your team members.
 >
 > **[0:10](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=10)** So let us start with a fundamental question.
 >
@@ -508,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=14)** Features are measurable properties of your data.
 >
-> **[0:18](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=18)** Let us take an example of a computer vision project.
+> **[0:18](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=18)** Let us take an example of a [[Computer Vision]] project.
 >
 > **[0:22](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=22)** What is the feature of the image?
 >
@@ -534,7 +527,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=79)** With the Vertex AI Feature Store, you can track when features are added and search for and monitor them over time.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=89)** Furthermore, it unifies the storage of features through different databases like BigQuery or Cloud Storage.
+> **[1:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=89)** Furthermore, it unifies the storage of features through different [[Databases]] like BigQuery or [[Cloud Storage]].
 >
 > **[1:37](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=97)** It helps to reduce training skew.
 >
@@ -562,7 +555,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=167)** You also need to specify the value of the entity.
 >
-> **[2:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=172)** We can add new features from BigQuery, a CSV file, or even app pandas data frame.
+> **[2:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=172)** We can add new features from BigQuery, a CSV file, or even app [[Pandas (Software)|pandas]] data frame.
 >
 > **[2:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=179)** Below is a code sample to add data using pandas.
 >
@@ -598,7 +591,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=282)** Here, we can see one job that added 150 values.
 >
-> **[4:50](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=290)** You can also see other metadata like the time it took to run the job and the source of the data.
+> **[4:50](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=290)** You can also see other [[Metadata]] like the time it took to run the job and the source of the data.
 >
 > **[4:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=299)** Now, there may be instances where adding a Feature Store to your team might not make sense.
 >
@@ -606,7 +599,7 @@ created: 2026-05-02
 >
 > **[5:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=313)** In this case, you can use the transform function in your model code to pre-process the data.
 >
-> **[5:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=319)** This transform is present as a clause in BigQuery or can be picked up from the TFX of TensorFlow models or let us suppose you do not need to compute your feature.
+> **[5:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=319)** This transform is present as a clause in BigQuery or can be picked up from the TFX of [[TensorFlow]] models or let us suppose you do not need to compute your feature.
 >
 > **[5:32](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-feature-store?u=76281980&t=332)** If you need to use most of your features directly, without performing any calculations or compute on it, the Feature Store will be less helpful for you.
 >
@@ -616,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (29), data (14), [[Vertex]] (5), ai (5), next (2)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[Pandas (Software)|Pandas]] (2), [[Computer Vision]] (1), [[Databases]] (1), [[Cloud Storage]] (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** csv (1), tfx (1)
 > **Analogies:** for example (2)
@@ -624,8 +617,7 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Vertex AI data labeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980)
+#### [Vertex AI data labeling](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -641,11 +633,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=39)** Feeding the model with properly labeled data is key to increasing its accuracy.
 >
-> **[0:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=46)** Imagine a large MLOps system with people labeling data sitting in the data pipeline.
+> **[0:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=46)** Imagine a large [[MLOps]] system with people labeling data sitting in the data pipeline.
 >
-> **[0:53](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=53)** Vertex AI helps you to work with people labeling data and integrate the work into your model's training.
+> **[0:53](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=53)** [[Vertex]] AI helps you to work with people labeling data and integrate the work into your model's training.
 >
-> **[1:01](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=61)** For doing so, they offer a guideline to successfully label and manage them through Google Cloud Platform.
+> **[1:01](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=61)** For doing so, they offer a guideline to successfully label and manage them through [[Google Cloud Platform (GCP)|Google Cloud Platform]].
 >
 > **[1:11](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=71)** The first step to labeling the data is to provide good quality labels.
 >
@@ -691,9 +683,9 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=227)** Next, you need to upload the instructions of your labeling tasks.
 >
-> **[3:53](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=233)** The instructions must be present in the Cloud Storage bucket.
+> **[3:53](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=233)** The instructions must be present in the [[Cloud Storage]] bucket.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=239)** In this last step, you can choose whether you want to use Google's in-house data labeling team or your own.
+> **[3:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=239)** In this last step, you can choose whether you want to use [[Google]]'s in-house data labeling team or your own.
 >
 > **[4:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-data-labeling?u=76281980&t=248)** You can choose how many people you want to label each image.
 >
@@ -737,7 +729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Vertex]] (5), ai (5), next (3), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (5), [[MLOps]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Cloud Storage]] (1), [[Google]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** pdf (1), cvat (1)
 > **Analogies:** such as (1), imagine (1)
@@ -751,14 +743,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vertex AI AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980)
+#### [Vertex AI AutoML](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=0)** - [Instructor] Now that we have covered your data needs, let us jump into the model training and selection for your project.
 >
-> **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=9)** There are two ways in which you can train your model in Vertex AI, either through AutoML or through custom training model.
+> **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=9)** There are two ways in which you can train your model in [[Vertex]] AI, either through AutoML or through custom training model.
 >
 > **[0:17](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=17)** When would you choose AutoML or the custom training model?
 >
@@ -822,7 +813,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=218)** Next, we need to upload the data to our dataset.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=222)** You can either upload from your compute or specify a cloud storage bucket.
+> **[3:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=222)** You can either upload from your compute or specify a [[Cloud Storage]] bucket.
 >
 > **[3:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=229)** Now we train our model.
 >
@@ -856,11 +847,11 @@ created: 2026-05-02
 >
 > **[5:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=345)** After this, you can shift to the DEPLOY tab to use the model.
 >
-> **[5:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=354)** You can deploy it to a rest endpoint or have the request returned to a JSON.
+> **[5:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=354)** You can deploy it to a [[Representational State Transfer (REST)|rest]] endpoint or have the request returned to a [[JSON]].
 >
 > **[6:02](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=362)** Something that stands apart in Vertex AI is that it allows you to make a simple prediction in the DEPLOY tab itself.
 >
-> **[6:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=373)** You can also deploy them directly to our applications like phones using the Python code to call the cloud-hosted model from our application.
+> **[6:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=373)** You can also deploy them directly to our applications like phones using the [[Python (Programming Language)|Python]] code to call the cloud-hosted model from our application.
 >
 > **[6:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=386)** Let us come to the final section of vendor's AutoML not make sense for your team or your project.
 >
@@ -874,9 +865,9 @@ created: 2026-05-02
 >
 > **[7:07](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=427)** Vertex AI AutoML automates much of the machine learning process which can be beneficial for some use cases, however, if you require more control over the model and its parameters, you need to build a custom solution or work with a data scientist.
 >
-> **[7:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=446)** Vertex AI AutoML uses Google Cloud platform infrastructure to train and deploy machine learning models.
+> **[7:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=446)** Vertex AI AutoML uses [[Google Cloud Platform (GCP)|Google Cloud platform]] infrastructure to train and deploy machine learning models.
 >
-> **[7:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=453)** If you have specific hardware requirements that are not supported, you may need to use a different solution.
+> **[7:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=453)** If you have specific [[Hardware]] requirements that are not supported, you may need to use a different solution.
 >
 > **[7:41](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-automl?u=76281980&t=461)** Vertex AI AutoML pricing is based on the number of training hours used for training and deploying model as well as the size of the dataset.
 >
@@ -888,15 +879,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Vertex]] (9), ai (9), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Vertex]] (9), [[Cloud Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[JSON]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** deploy (2), train (1), model (1), json (1)
 > **CLI Commands:** make (2), node (1), python (1)
 > **UI Navigation:** click on (1), navigate to (1), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vertex AI experiments
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980)
+#### [Vertex AI experiments](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -910,15 +900,15 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=28)** They might use different data for training, change the parameters of the model, or change the model architecture completely.
 >
-> **[0:37](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=37)** Experiment tracking is an essential component of MLOps that allows teams to keep track of various experiments they perform to develop and deploy machine learning models.
+> **[0:37](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=37)** Experiment tracking is an essential component of [[MLOps]] that allows teams to keep track of various experiments they perform to develop and deploy machine learning models.
 >
 > **[0:48](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=48)** The purpose of experiment tracking is to record the progress of ML experiments to make it easier for team members to collaborate, reproduce the result, share their findings, and make a decision of which model to deploy.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=63)** To do so, we will use Vertex AI experiments.
+> **[1:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=63)** To do so, we will use [[Vertex]] AI experiments.
 >
 > **[1:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=68)** But first, let's talk about why is it important to track our ML experiments.
 >
-> **[1:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=73)** Experiment tracking provides version control by keeping track of changes to the model its performance over time.
+> **[1:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=73)** Experiment tracking provides [[Version Control]] by keeping track of changes to the model its performance over time.
 >
 > **[1:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=83)** This helps to avoid errors and consistency in the model and ensures that model is continuously improving.
 >
@@ -954,7 +944,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=205)** For example, you can check MSE and RMSE score over time on the tensor board.
 >
-> **[3:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=211)** Classification metrics, for classification metrics, you can use a confusion metrics present in the metadata section.
+> **[3:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=211)** Classification metrics, for classification metrics, you can use a confusion metrics present in the [[Metadata]] section.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-experiments?u=76281980&t=220)** This is a useful visualization to see performance gaps or biases in your model.
 >
@@ -1016,7 +1006,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (7), ai (7), data (6), teams (3), application (2)
+> **Frameworks & Libraries:** [[Vertex]] (7), [[MLOps]] (2), [[Version Control]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), it's like (1), for instance (1)
@@ -1025,8 +1015,7 @@ created: 2026-05-02
 > **Code Identifiers:** end_run (1)
 > **Best Practices:** remember to (1)
 
-#### Vertex AI model registry
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980)
+#### [Vertex AI model registry](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1040,7 +1029,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=31)** How many times have you ended up in a situation where many model files are available but you don't know which points to the one currently being used or one in development or the one train or the latest subset of data?
 >
-> **[0:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=46)** Luckily, Vertex AI has re introduced a Model Registry to store models and control their versions.
+> **[0:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=46)** Luckily, [[Vertex]] AI has re introduced a Model Registry to store models and control their versions.
 >
 > **[0:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=54)** These versions can also be linked to an experiment run, which can help you track your model throughout its lifetime.
 >
@@ -1066,7 +1055,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=143)** In addition to these features, Vertex AI Model Registry integrate seamlessly with other tools in the Vertex AI suite including experiments in pipelines.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=156)** This allows you to build an end-to-end machine learning works spanning the entire MLOps pipeline including data preparation, model training, and model deployment.
+> **[2:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=156)** This allows you to build an end-to-end machine learning works spanning the entire [[MLOps]] pipeline including [[Data Preparation]], model training, and model deployment.
 >
 > **[2:49](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=169)** Overall, Vertex AI Model Registry is a tool for anyone working with machine learning models whether you are a data scientist, machine learning engineer, or a developer.
 >
@@ -1112,11 +1101,11 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=315)** You can see details of each version, like the Model ID, the job details, where the model artifacts were stored, and the configurations used to train the model.
 >
-> **[5:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=329)** Overall, the Model Registry in Vertex AI provides users with a centralized version control and collaborative environment for managing tracking their machine learning models, and you should definitely use it as part of your MLOps workflow.
+> **[5:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-registry?u=76281980&t=329)** Overall, the Model Registry in Vertex AI provides users with a centralized [[Version Control]] and collaborative environment for managing tracking their machine learning models, and you should definitely use it as part of your MLOps workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (14), ai (14), data (10), [[MLOps]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (14), [[MLOps]] (2), [[Data Preparation]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** ram (1)
 > **UI Navigation:** go to (1)
@@ -1124,12 +1113,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vertex AI training
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980)
+#### [Vertex AI training](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=0)** - [Instructor] Now that we have looked into how to train our model using AutoML, let us check out how to do custom training in Vertex AI.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=0)** - [Instructor] Now that we have looked into how to train our model using AutoML, let us check out how to do custom training in [[Vertex]] AI.
 >
 > **[0:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=9)** Let us target our usual question of why.
 >
@@ -1159,7 +1147,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=85)** Vertex AI provides many pre-built containers.
 >
-> **[1:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=89)** Here, I've used one of them that uses TensorFlow 2.8.
+> **[1:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=89)** Here, I've used one of them that uses [[TensorFlow]] 2.8.
 >
 > **[1:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=94)** If the containers has certain package missing, you can specify them in the requirements argument and Vertex AI will install them.
 >
@@ -1195,11 +1183,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=204)** To see the models you have trained, go to the Training tab.
 >
-> **[3:30](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=210)** Here, you can see the status of the models you are training, the time it took to train the model and other metadata.
+> **[3:30](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=210)** Here, you can see the status of the models you are training, the time it took to train the model and other [[Metadata]].
 >
 > **[3:39](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=219)** If you open a model, you can see more details about the model, like the type of machine and container used for training, the arguments you pass to the model, and the location where the model artifacts are saved.
 >
-> **[3:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=239)** In later lessons, we will learn how we can use MLOps standards and best practices like model registry, monitoring, pipelines to deploy a model and set up alerts when things go wrong.
+> **[3:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=239)** In later lessons, we will learn how we can use [[MLOps]] standards and best practices like model registry, monitoring, pipelines to deploy a model and set up alerts when things go wrong.
 >
 > **[4:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-training?u=76281980&t=255)** When it comes to pricing, Vertex AI offers two type of pricing for custom training: training on demand, and training with usage-based pricing.
 >
@@ -1219,7 +1207,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (11), ai (11), data (6), next (2), [[TensorFlow]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (11), [[TensorFlow]] (1), [[Metadata]] (1), [[MLOps]] (1)
 > **Env Vars:** cpu (2), gpu (2), tpu (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** install (1), set up (1)
@@ -1233,14 +1221,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vertex AI prediction
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980)
+#### [Vertex AI prediction](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=0)** - Welcome back to the exciting world of Vertex AI.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=0)** - Welcome back to the exciting world of [[Vertex]] AI.
 >
-> **[0:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=3)** In this lesson, we will dive into how to deploy your trained deep learning model to make it easy for people to use.
+> **[0:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=3)** In this lesson, we will dive into how to deploy your trained [[Deep Learning]] model to make it easy for people to use.
 >
 > **[0:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=13)** Once deployed, people can query the model and get a response, which is where Vertex AI Predictions come in.
 >
@@ -1266,7 +1253,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=113)** Similarly, if your input data is constantly updating, then batch prediction may not be the best option, since the output from the model will become outdated quickly.
 >
-> **[2:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=129)** For instance, the recommendations in an e-commerce website should change as the person views different kind of products.
+> **[2:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=129)** For instance, the recommendations in an [[E-Commerce]] website should change as the person views different kind of [[Microsoft Products|products]].
 >
 > **[2:18](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=138)** Such a system will need to generate new results quickly and is not suitable for batch prediction.
 >
@@ -1296,9 +1283,9 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=241)** Finally, you will need to store the result of your model.
 >
-> **[4:06](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=246)** This can also be done in BigQuery or cloud storage.
+> **[4:06](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=246)** This can also be done in BigQuery or [[Cloud Storage]].
 >
-> **[4:12](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=252)** To create a batch prediction, you need to specify the following details to the batch prediction API, a name for your batch prediction job, the source of the prediction to request data, this can be either BigQuery or cloud storage buckets, the destination where you want to store the result, this should also either be BigQuery or Google Cloud Storage Buckets.
+> **[4:12](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=252)** To create a batch prediction, you need to specify the following details to the batch prediction API, a name for your batch prediction job, the source of the prediction to request data, this can be either BigQuery or cloud storage buckets, the destination where you want to store the result, this should also either be BigQuery or [[Google Cloud Platform (GCP)|Google Cloud]] Storage Buckets.
 >
 > **[4:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=282)** Remember that you need to provide at least one source and destination, then the type of machine you want to use to run the prediction.
 >
@@ -1308,7 +1295,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=315)** To know if your job has been completed programmatically, you can use the wait method.
 >
-> **[5:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=321)** You can also view the batch predictions job's metadata like its name and state.
+> **[5:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=321)** You can also view the batch predictions job's [[Metadata]] like its name and state.
 >
 > **[5:30](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-prediction?u=76281980&t=330)** To view the results of your batch prediction in the console, you can navigate to the batch prediction tab.
 >
@@ -1326,7 +1313,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), application (4), [[Vertex]] (3), ai (3), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (3), [[Deep Learning]] (2), [[Cloud Storage]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[E-Commerce]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Analogies:** for instance (3)
 > **Env Vars:** api (1), gpu (1)
@@ -1334,18 +1321,17 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - welcome (1)
 
-#### Vertex AI TensorBoard
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980)
+#### [Vertex AI TensorBoard](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=0)** - [Instructor] So far, you have seen how you can train your model using Vertex AI and then deploy it using Batch prediction.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=0)** - [Instructor] So far, you have seen how you can train your model using [[Vertex]] AI and then deploy it using Batch prediction.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=8)** Now, we will see how you can visualize your trained model and analyze its metrics.
 >
-> **[0:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=15)** TensorBoard is a web-based visualization tool developed as part of TensorFlow.
+> **[0:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=15)** TensorBoard is a web-based visualization tool developed as part of [[TensorFlow]].
 >
-> **[0:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=23)** It helps you to visualize your model's architecture, track your model's training progress, and track its performance metrics.
+> **[0:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=23)** It helps you to visualize your model's architecture, track your model's training progress, and track its [[Performance Metrics]].
 >
 > **[0:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=33)** It can also be a helpful tool to debug your model.
 >
@@ -1383,7 +1369,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=212)** Unlike some of the other resources we have seen where the pricing is based on pay-per-use model, where you're charged only for the resource you use and the time you use it for, TensorBoard charges a monthly fee of $300 per unique active user.
 >
-> **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=234)** TensorBoard's features are great for real-time monitoring and visualizing your model's training.
+> **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=234)** TensorBoard's features are great for [[Real-Time]] monitoring and visualizing your model's training.
 >
 > **[4:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-tensorboard?u=76281980&t=240)** Its debugging features can also help improve the accuracy and efficiency of models which can ultimately lead to better business outcomes and cost savings.
 >
@@ -1421,7 +1407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (8), ai (8), data (4), [[Real-Time]] (2), [[Debugging]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (8), [[Real-Time]] (2), [[TensorFlow]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** aip_tensorboard_log_dir (1), open (1), tensorboard (1), graphs (1)
 > **Analogies:** for instance (3), for example (1)
 > **CLI Commands:** make (3)
@@ -1430,12 +1416,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Vertex AI endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980)
+#### [Vertex AI endpoints](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=0)** - [Instructor] Hello and welcome to our lesson on how to use Vertex AI endpoints.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=0)** - [Instructor] Hello and welcome to our lesson on how to use [[Vertex]] AI endpoints.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=5)** Are you ready to learn about how to deploy your machine learning models, and get realtime predictions?
 >
@@ -1449,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=42)** While deploying models to an endpoint is easy, it's more expensive, however, its benefit, and if applications that need quick and timely prediction responses.
 >
-> **[0:56](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=56)** For instance, you're running an e-commerce website, and want to suggest related products to users based on their viewing history.
+> **[0:56](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=56)** For instance, you're running an [[E-Commerce]] website, and want to suggest related [[Microsoft Products|products]] to users based on their viewing history.
 >
 > **[1:06](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=66)** You want to update the recommendation quickly as they navigate your site, and show the results to your users.
 >
@@ -1471,7 +1456,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=146)** Lastly, if you are making one time predictions on a large dataset, you may not need to use Vertex AI Endpoint.
 >
-> **[2:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=154)** Endpoints are designed for real-time predictions, and if you are making batch predictions, consider other deployment methods.
+> **[2:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=154)** Endpoints are designed for [[Real-Time]] predictions, and if you are making batch predictions, consider other deployment methods.
 >
 > **[2:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=162)** In summary, it's important to consider factors such as cost, resources, model size, and prediction type when deciding to use Vertex AI Endpoints.
 >
@@ -1501,7 +1486,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=269)** The wait method will wait till the endpoint is deployed, and after deployment is complete, we can use the predict method to send a request to it and get a response.
 >
-> **[4:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=283)** You can terminate and delete all the resources you created using the Vertex AI Python API tool.
+> **[4:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=283)** You can terminate and delete all the resources you created using the Vertex AI [[Python (Programming Language)|Python]] API tool.
 >
 > **[4:51](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-endpoints?u=76281980&t=291)** To delete the training job, you can call the delete method.
 >
@@ -1527,7 +1512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (10), ai (10), power (2), traffic (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Vertex]] (10), [[Python (Programming Language)|Python]] (2), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
 > **CLI Commands:** python (2), curl (1)
 > **Env Vars:** cpu (1), gpu (1), api (1)
 > **Definitions:** is a  (2)
@@ -1541,12 +1526,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vertex AI model monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980)
+#### [Vertex AI model monitoring](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=0)** - [Instructor] So far, we have seen how you can deploy a model using Vertex AI.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=0)** - [Instructor] So far, we have seen how you can deploy a model using [[Vertex]] AI.
 >
 > **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=5)** Once a model has been deployed, you'll want to monitor it to ensure it's running correctly.
 >
@@ -1560,7 +1544,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=43)** Firstly, machine learning models are heavily dependent on the quality of and distribution of data used to train them.
 >
-> **[0:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=52)** Therefore, monitoring the performance of these models requires the tracking, the quality, and the distribution of the data they are processing, in addition to traditional performance metrics.
+> **[0:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=52)** Therefore, monitoring the performance of these models requires the tracking, the quality, and the distribution of the data they are processing, in addition to traditional [[Performance Metrics]].
 >
 > **[1:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=69)** Secondly, unlike traditional software monitoring methods machine learning models can experience model drift, where the model's performance deteriorates over time, due to changes in input data.
 >
@@ -1568,9 +1552,9 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=93)** Also, machine learning model monitoring requires tracking additional performance metrics, beyond the typical technical metrics such as accuracy, precision, and recall.
 >
-> **[1:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=106)** Model monitoring may also require tracking specific business metrics, to ensure the model is achieving the desired outcomes.
+> **[1:46](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=106)** Model monitoring may also require tracking specific [[Business Metrics]], to ensure the model is achieving the desired outcomes.
 >
-> **[1:58](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=118)** Finally, in software projects, feedback is often received from users or testers.
+> **[1:58](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=118)** Finally, in [[Software Projects]], feedback is often received from users or testers.
 >
 > **[2:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-model-monitoring?u=76281980&t=125)** In machine learning, feedback is received from people who label data.
 >
@@ -1680,23 +1664,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), feature (7), [[Vertex]] (4), ai (4), application (4)
+> **Frameworks & Libraries:** [[Vertex]] (4), [[Performance Metrics]] (2), [[Business Metrics]] (1), [[Software Projects]] (1)
 > **Prerequisites:** set up (6), configure (1), setup (1)
 > **Definitions:** is called (3), is an  (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Vertex AI pipelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980)
+#### [Vertex AI pipelines](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=0)** - [Instructor] In this course, we have seen how you can use Vertex AI to perform the different steps in an MLOps pipeline.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=0)** - [Instructor] In this course, we have seen how you can use [[Vertex]] AI to perform the different steps in an [[MLOps]] pipeline.
 >
 > **[0:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=8)** To recap, the first step we need to do is prepare our training data.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=14)** The training data can be present in a database like BigQuery or cloud storage.
+> **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=14)** The training data can be present in a database like BigQuery or [[Cloud Storage]].
 >
 > **[0:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=19)** It is good practice to version your training data and features present in your data.
 >
@@ -1736,21 +1719,21 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=144)** Efficiency, ML pipelines automate the entire process of developing, training, and deploying ML models, saving time and increasing efficiency.
 >
-> **[2:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=156)** By automating repetitive tasks like data pre-processing, feature engineering and model selection, ML pipelines free up time for data scientists and machine learning engineers to focus on more strategic tasks like model optimization and experimentation.
+> **[2:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=156)** By automating repetitive tasks like data pre-processing, [[Feature Engineering]] and model selection, ML pipelines free up time for data scientists and machine learning engineers to focus on more strategic tasks like model optimization and experimentation.
 >
 > **[2:56](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=176)** Reproducibility and collaboration.
 >
-> **[3:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=180)** ML pipelines help ensure reproducibility which is essential for building trust in ML models.
+> **[3:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=180)** ML pipelines help ensure reproducibility which is essential for [[Building Trust]] in ML models.
 >
 > **[3:09](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=189)** By defining a clear and structured workflow for model deployment and development, ML pipelines allow others to reproduce your work and verify your results.
 >
-> **[3:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=203)** Scalability, ML pipelines are scalable, meaning they can handle large data sets and models.
+> **[3:23](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=203)** [[Scalability]], ML pipelines are scalable, meaning they can handle large data sets and models.
 >
 > **[3:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=211)** This is particularly important in production environments where models need to be trained and deployed quickly and effectively.
 >
 > **[3:40](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=220)** Flexibility.
 >
-> **[3:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=222)** ML pipelines are flexible, allowing data scientists and machine learning engineers to experiment with different algorithms, hyperparameter and data pre-processing techniques.
+> **[3:42](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=222)** ML pipelines are flexible, allowing data scientists and machine learning engineers to experiment with different [[Algorithms]], hyperparameter and data pre-processing techniques.
 >
 > **[3:54](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-pipelines?u=76281980&t=234)** This flexibility makes it easier to optimize models and improve performance.
 >
@@ -1784,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Vertex]] (6), ai (6), [[MLOps]] (3), next (3)
+> **Frameworks & Libraries:** [[Vertex]] (6), [[MLOps]] (3), [[Cloud Storage]] (1), [[Feature Engineering]] (1), [[Building Trust]] (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (2)
@@ -1797,8 +1780,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Deploy a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980)
+#### [Challenge: Deploy a project](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1806,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=5)** - [Instructor] Now that you've gone over the content of the course, let us look into the hands-on portion of building a project.
 >
-> **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=14)** We have a very fun challenge today of using the Penguin's data set to build a project in Vertex AI.
+> **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=14)** We have a very fun challenge today of using the Penguin's data set to build a project in [[Vertex]] AI.
 >
 > **[0:21](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=21)** There are various kinds of projects you can build.
 >
@@ -1830,17 +1812,16 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=94)** So what are you waiting for?
 >
-> **[1:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=96)** Let's get cracking on this fun and exciting project and show off your MLOps skills.
+> **[1:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/challenge-deploy-a-project?u=76281980&t=96)** Let's get cracking on this fun and exciting project and show off your [[MLOps]] skills.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (7), ai (7), data (3), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (7), [[MLOps]] (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat electronic music) (1)
 
-#### Solution: Deploy a project
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980)
+#### [Solution: Deploy a project](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1852,11 +1833,11 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=17)** How cool is it?
 >
-> **[0:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=19)** First thing's first, we need to fetch the Penguin's data from BigQuery.
+> **[0:19](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=19)** First thing's first, we need to [[Fetch]] the Penguin's data from BigQuery.
 >
 > **[0:24](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=24)** You can download it as a CSV or you can copy it to a BigQuery table in your own account.
 >
-> **[0:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=31)** Next up, let's create a data set in Vertex AI.
+> **[0:31](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=31)** Next up, let's create a data set in [[Vertex]] AI.
 >
 > **[0:35](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=35)** Not only will this help us to load the data for training our model but it also works to track our data history and version.
 >
@@ -1868,7 +1849,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=55)** Vertex AI provides a prepaid Docker container for training but you can also build your own if you're feeling adventurous.
 >
-> **[1:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=63)** Once our model is trained and ready to go, let's register it to model registry so we can keep track of all its versions and metadata.
+> **[1:03](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=63)** Once our model is trained and ready to go, let's register it to model registry so we can keep track of all its versions and [[Metadata]].
 >
 > **[1:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/solution-deploy-a-project?u=76281980&t=74)** We want to make sure you are staying organized and on top of things.
 >
@@ -1888,7 +1869,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Vertex]] (2), ai (2), [[Engineering]] (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Vertex]] (2), [[Fetch]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (3), docker (2)
 > **Env Vars:** csv (1)
 > **Best Practices:** make sure to (1)
@@ -1900,14 +1881,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vertex AI vs. other MLOps platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980)
+#### [Vertex AI vs. other MLOps platforms](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=0)** - [Speaker] Every MLOps platform offers some tools which might or might not be useful for your organization.
+> **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=0)** - [Speaker] Every [[MLOps]] platform offers some tools which might or might not be useful for your organization.
 >
-> **[0:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=8)** When we see as a whole Vertex AI has its own set of advantages and disadvantages.
+> **[0:08](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=8)** When we see as a whole [[Vertex]] AI has its own set of advantages and disadvantages.
 >
 > **[0:14](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=14)** Let us dig into that as we help you make a decision on choosing the right platform for your next project.
 >
@@ -1919,19 +1899,19 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=52)** Vertex AI provides autoML capabilities that enable users to create high quality models without needing extensive machine learning expertise.
 >
-> **[1:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=65)** AutoML can help users save time and reduce costs by automating the process of model selection, hyper parameter tuning and feature engineering.
+> **[1:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=65)** AutoML can help users save time and reduce costs by automating the process of model selection, hyper parameter tuning and [[Feature Engineering]].
 >
-> **[1:16](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=76)** Vertex AI supports a wide range of open source machine learning frameworks and tools such as TensorFlow, pythons, and scikit-learn, making it easier to use familiar tools and libraries.
+> **[1:16](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=76)** Vertex AI supports a wide range of open source machine learning frameworks and tools such as [[TensorFlow]], pythons, and scikit-learn, making it easier to use familiar tools and libraries.
 >
-> **[1:28](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=88)** And lastly, Vertex AI is built on Google's cloud secure and compliant infrastructure, which is designed to meet the higher standard of security and compliance, including HIPAA, SOC2, and ISO 27001.
+> **[1:28](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=88)** And lastly, Vertex AI is built on [[Google]]'s cloud secure and compliant infrastructure, which is designed to meet the higher standard of security and compliance, including HIPAA, SOC2, and ISO 27001.
 >
 > **[1:45](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=105)** This enables users to store and process sensitive data and model securely.
 >
 > **[1:51](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=111)** Whereas if you look at why Vertex AI may not be the best tool for you, you could look at some of its disadvantages.
 >
-> **[1:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=119)** Vertex AI is designed to work with Google Cloud platform which means there may be better choices for organizations using different cloud provider or running their own data centers.
+> **[1:59](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=119)** Vertex AI is designed to work with [[Google Cloud Platform (GCP)|Google Cloud platform]] which means there may be better choices for organizations using different cloud provider or running their own data centers.
 >
-> **[2:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=133)** In contrast, tools like Amazon SageMakers or Microsoft Azure machine learning support multi-cloud and hybrid cloud deployments.
+> **[2:13](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=133)** In contrast, tools like Amazon SageMakers or [[Microsoft Azure]] machine learning support multi-cloud and [[Hybrid Cloud]] deployments.
 >
 > **[2:22](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/vertex-ai-vs-other-mlops-platforms?u=76281980&t=142)** Vertex AI can be more expensive than other MLOPs tools, especially for large scale projects.
 >
@@ -1941,7 +1921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vertex]] (9), ai (9), [[MLOps]] (3), data (3), cloud (3)
+> **Frameworks & Libraries:** [[Vertex]] (9), [[MLOps]] (3), [[Feature Engineering]] (1), [[TensorFlow]] (1), [[Google]] (1)
 > **Env Vars:** hipaa (1), soc2 (1), iso (1)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** such as (2)
@@ -1949,16 +1929,15 @@ created: 2026-05-02
 > **Code Identifiers:** automl (1)
 > **Speakers:** - [speaker] (1)
 
-#### What next?
-> [LinkedIn Learning](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980)
+#### [What next?](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=0)** - [Trainer] Woohoo, you did it.
 >
-> **[0:02](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=2)** You've completed the MLOps course with Vertex AI.
+> **[0:02](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=2)** You've completed the [[MLOps]] course with [[Vertex]] AI.
 >
-> **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=5)** With your new found skills and knowledge, you are ready to develop, train, deploy, and manage machine learning models like a pro on Google Cloud platform.
+> **[0:05](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=5)** With your new found skills and knowledge, you are ready to develop, train, deploy, and manage machine learning models like a pro on [[Google Cloud Platform (GCP)|Google Cloud platform]].
 >
 > **[0:15](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=15)** But wait, there's more.
 >
@@ -1972,7 +1951,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=36)** Oh, and one more thing, keep learning.
 >
-> **[0:40](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=40)** We recommend you check out some LinkedIn Learning courses on MLOps to enhance your skills and knowledge further.
+> **[0:40](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=40)** We recommend you check out some [[LinkedIn]] Learning courses on MLOps to enhance your skills and knowledge further.
 >
 > **[0:47](https://www.linkedin.com/learning/learning-vertex-ai-mlops-with-google-cloud/what-next?u=76281980&t=47)** So what are you waiting for?
 >
@@ -1982,7 +1961,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MLOps]] (5), [[Vertex]] (1), ai (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[MLOps]] (5), [[Vertex]] (1), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [trainer] (1)
 
 

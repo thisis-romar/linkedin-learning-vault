@@ -81,24 +81,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accessible design with Stark
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
+#### [Accessible design with Stark](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=0)** - [Tom] Well, hello there.
 >
-> **[0:01](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=1)** My name is Tom Green, and welcome to Using Stark for Accessible Design.
+> **[0:01](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=1)** My name is Tom Green, and welcome to Using [[Stark (Accessibility Software)|Stark]] for [[Accessible Design]].
 >
-> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=6)** In what seems like the blink of an eye, Stark has become a de facto standard when it comes to [[Accessibility for Web Design]].
+> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=6)** In what seems like the blink of an eye, Stark has become a de facto standard when it comes to [[Accessibility for [[Web Design]]]].
 >
-> **[0:13](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=13)** For those of you familiar with Stark's tools for Figma, Sketch, Adobe XD, and other applications, the Stark web tools are pretty well the same.
+> **[0:13](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=13)** For those of you familiar with Stark's tools for [[Figma (Software)|Figma]], Sketch, [[Adobe XD]], and other applications, the Stark web tools are pretty well the same.
 >
 > **[0:21](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=21)** The main difference is you can do the checks in the browser.
 >
-> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=25)** For example, I will be opening sites using their URLs and showing how to check for contrast issues, typography issues, missing alt text, and so on.
+> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=25)** For example, I will be opening sites using their URLs and showing how to check for contrast issues, [[Typography]] issues, missing alt text, and so on.
 >
-> **[0:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=34)** We will also look at the WCAG audit feature designed to catch accessibility issues tied to the site and the underlying HTML that violates the WCAG standards.
+> **[0:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=34)** We will also look at the WCAG audit feature designed to catch accessibility issues tied to the site and the underlying [[HTML]] that violates the WCAG standards.
 >
 > **[0:46](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/accessible-design-with-stark?u=76281980&t=46)** In this course, I'm also going to cover the Stark Dashboard and Compliance Center that are ideal for teams and enterprises.
 >
@@ -106,20 +105,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (7), web (2), [[Accessible Design]] (1), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (7), [[Accessible Design]] (1), [[Web Design]] (1), [[Figma (Software)|Figma]] (1), [[Adobe XD]] (1)
 > **Env Vars:** wcag (2), html (1)
 > **Tools:** figma (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tom] (1)
 
-#### Software changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980)
+#### [Software changes](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=0)** - [Instructor] One of the joys of being a LinkedIn Learning author is that on occasion, we get to interact with the people behind the software.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=0)** - [Instructor] One of the joys of being a [[LinkedIn]] Learning author is that on occasion, we get to interact with the people behind the software.
 >
-> **[0:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=8)** As I was developing this course, the Stark wizards made it abundantly clear to me that Stark had no intention of adding features when they get around to it.
+> **[0:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=8)** As I was developing this course, the [[Stark (Accessibility Software)|Stark]] wizards made it abundantly clear to me that Stark had no intention of adding features when they get around to it.
 >
 > **[0:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=18)** Instead, it was made abundantly clear to me that Stark embraces change and to expect it.
 >
@@ -137,11 +135,11 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=74)** There is also a new tool, automatic monitoring, which is a pretty neat addition to the lineup, and I'll go through it in Chapter 2.
 >
-> **[1:24](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=84)** With that out of the way, let's start using Stark for accessible design projects.
+> **[1:24](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/software-changes?u=76281980&t=84)** With that out of the way, let's start using Stark for [[Accessible Design]] projects.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[LinkedIn]] (1), web (1), [[Accessible Design]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[LinkedIn]] (1), [[Accessible Design]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install the Stark browser extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
+#### [Install the Stark browser extension](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=0)** - [Narrator] To get started using Stark's accessibility toolset, you'll need to have a Stark account, which you can get at [getstark.co](https://getstark.co).
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=0)** - [Narrator] To get started using [[Stark (Accessibility Software)|Stark]]'s accessibility toolset, you'll need to have a Stark account, which you can get at [getstark.co](https://getstark.co).
 >
 > **[0:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=9)** As you can see, there are four plans available.
 >
@@ -164,9 +161,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=16)** The premium account is ideal for those who don't necessarily need to collaborate.
 >
-> **[0:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=22)** If you work with a design team, the business account is ideal, especially for those teams where members don't need access to Figma or other design tools, such as the designer to developer handoff.
+> **[0:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=22)** If you work with a design team, the business account is ideal, especially for those teams where members don't need access to [[Figma (Software)|Figma]] or other design tools, such as the designer to developer handoff.
 >
-> **[0:36](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=36)** The enterprise account, down at the bottom here, is aimed at dealing with enterprise-wide efforts to bring the entire organization into compliance alongside not just accessible software products, but with a company-wide accessibility posture and policy.
+> **[0:36](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=36)** The enterprise account, down at the bottom here, is aimed at dealing with enterprise-wide efforts to bring the entire organization into compliance alongside not just accessible software [[Microsoft Products|products]], but with a company-wide accessibility posture and policy.
 >
 > **[0:56](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=56)** I should also add, Stark is aggressively updating their tools and services on a regular basis.
 >
@@ -174,9 +171,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=70)** The reason is, this AI tool was upgraded between the time I included Sidekick in my course, [[Accessibility and Inclusion with Figma]], last year, and today.
 >
-> **[1:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=82)** As such, we here at LinkedIn Learning are committed to staying current with Stark, and we'll be regularly updating this course and the Figma course as things change.
+> **[1:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=82)** As such, we here at [[LinkedIn]] Learning are committed to staying current with Stark, and we'll be regularly updating this course and the Figma course as things change.
 >
-> **[1:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=94)** Once the account has been created, you can add the extension to Chrome, Safari, Microsoft Edge, and other browsers.
+> **[1:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=94)** Once the account has been created, you can add the extension to Chrome, Safari, [[Microsoft]] Edge, and other browsers.
 >
 > **[1:41](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/install-in-the-stark-browser-exension?u=76281980&t=101)** And you can find it in your browsers list of extensions, which is right here.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4), business (1), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Figma (Software)|Figma]] (4), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Microsoft]] (1)
 > **Tools:** figma (4), safari (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1), before we start (1)
@@ -197,18 +194,17 @@ created: 2026-05-02
 > **Env Vars:** wcag (1)
 > **Cross-References:** in the next (1)
 
-#### What are the WCAG 2.0 guidelines?
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980)
+#### [What are the WCAG 2.0 guidelines?](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=0)** - [Instructor] In this video, I want to talk about the Web Content Accessibility Guidelines, which were developed by the W3C, an organization which sets the standard for web development.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=0)** - [Instructor] In this video, I want to talk about the Web Content Accessibility Guidelines, which were developed by the W3C, an organization which sets the standard for [[Web Development]].
 >
-> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=12)** The WCAG is a volunteer group of individuals tasked with creating the guidelines followed by the industry to address accessibility when it comes to web design and coding.
+> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=12)** The WCAG is a volunteer group of individuals tasked with creating the guidelines followed by the industry to address accessibility when it comes to [[Web Design]] and coding.
 >
 > **[0:23](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=23)** The WCAG is focused on four guiding principles, Perceivable, Operable, Understandable, and Robust.
 >
-> **[0:35](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=35)** These are also the four principles around which Stark has aligned itself.
+> **[0:35](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=35)** These are also the four principles around which [[Stark (Accessibility Software)|Stark]] has aligned itself.
 >
 > **[0:41](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=41)** If you're interested in learning more about these principles, point your browser to this page and go through them.
 >
@@ -232,7 +228,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=126)** It is important to keep in mind these are suggestions.
 >
-> **[2:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=130)** As designers, you might choose different colors to achieve compliance or use your design systems colors.
+> **[2:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=130)** As designers, you might choose different colors to achieve compliance or use your [[Design Systems]] colors.
 >
 > **[2:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/what-are-the-wcag-2-guidelines?u=76281980&t=138)** The bottom line, the WCAG Standards are broad, and having an intimate knowledge of them and how to bring your work into compliance with them is difficult, at best.
 >
@@ -240,7 +236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), web (2), [[Web Development]] (1), [[Design Systems]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Web Development]] (1), [[Web Design]] (1), [[Design Systems]] (1)
 > **Env Vars:** wcag (6), aaa (3), w3c (1)
 > **Documentation:** w3c (1)
 > **Definitions:** is a  (1)
@@ -253,8 +249,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conducting a WCAG audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
+#### [Conducting a WCAG audit](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -320,7 +315,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980&t=228)** It's going to ask you where to put it.
 >
-> **[3:53](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980&t=233)** And if I open it, you can see it's an HTML document that tells you the name of the site, where it's located, when it was scanned, and all those issues are listed.
+> **[3:53](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980&t=233)** And if I open it, you can see it's an [[HTML]] document that tells you the name of the site, where it's located, when it was scanned, and all those issues are listed.
 >
 > **[4:07](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/conducting-a-wcag-audit?u=76281980&t=247)** And you get direct link to them.
 >
@@ -332,15 +327,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** wcag (7), aaa (1), html (1)
 > **Definitions:** is a  (4)
 > **Versions:** 2.2 (1), version 2 (1)
 > **Warnings:** be aware (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the contrast checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980)
+#### [Using the contrast checker](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=16)** Thankfully, that has all changed.
 >
-> **[0:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=18)** And Stark's Contrast Checker is designed to bring contrast issues up to the current WCAG standard.
+> **[0:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=18)** And [[Stark (Accessibility Software)|Stark]]'s Contrast Checker is designed to bring contrast issues up to the current WCAG standard.
 >
 > **[0:27](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=27)** So what I have open here is the Explore California site.
 >
@@ -376,7 +370,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=76)** And you can see, it fails.
 >
-> **[1:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=82)** The color chips you see below are suggestions of replacement colors for the foreground element, which would be the word Tours, and the background element, the gray behind them.
+> **[1:22](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=82)** The color chips you see below are suggestions of replacement colors for the foreground element, which would be the [[Microsoft Word|word]] Tours, and the background element, the gray behind them.
 >
 > **[1:36](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-contrast-checker?u=76281980&t=96)** And if I select this gray here and go over to the black, you can see that it's applied.
 >
@@ -438,18 +432,17 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the type checker
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980)
+#### [Using the type checker](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=0)** - [Instructor] I have spent years visiting websites, and I can tell you many of them drive me up a wall, across the ceiling, and down the other wall because of poor typography.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=0)** - [Instructor] I have spent years visiting websites, and I can tell you many of them drive me up a wall, across the ceiling, and down the other wall because of poor [[Typography]].
 >
 > **[0:11](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=11)** The issues range from font choice to leading and practically everything in between.
 >
 > **[0:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=16)** The most common issue is text blocks where the text is so small it is neither readable nor legible.
 >
-> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=25)** Stark contains a typography tool that doesn't do what the name implies, solve typography issues, but it does address a major accessibility issue.
+> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=25)** [[Stark (Accessibility Software)|Stark]] contains a typography tool that doesn't do what the name implies, solve typography issues, but it does address a major accessibility issue.
 >
 > **[0:39](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=39)** What the Typography Checker does is to highlight improper font sizes and alignment.
 >
@@ -493,7 +486,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=187)** It is Stark telling you, "Here's what the text would look like."
 >
-> **[3:11](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=191)** It does not change the HTML.
+> **[3:11](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=191)** It does not change the [[HTML]].
 >
 > **[3:14](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-type-checker?u=76281980&t=194)** To return to the original version, refresh the page.
 >
@@ -514,8 +507,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** be aware (1)
 
-#### Using the ALT text tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980)
+#### [Using the ALT text tool](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -547,7 +539,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980&t=75)** So we'll take a look at that one, nope, nope.
 >
-> **[1:19](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980&t=79)** Now, the other thing you can do is just go back into the HTML and write in the alt-text, or if it started Figma, do the alt-text there using the Stark tools.
+> **[1:19](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980&t=79)** Now, the other thing you can do is just go back into the [[HTML]] and write in the alt-text, or if it started [[Figma (Software)|Figma]], do the alt-text there using the [[Stark (Accessibility Software)|Stark]] tools.
 >
 > **[1:35](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-alt-text-tool?u=76281980&t=95)** Now, you get two choices with a suggestion.
 >
@@ -565,16 +557,15 @@ created: 2026-05-02
 > **Tools:** figma (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking touch targets
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980)
+#### [Checking touch targets](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=0)** - [Instructor] Nothing irritates me more than tapping on a button or link on my phone and nothing happens.
 >
-> **[0:07](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=7)** This inevitably requires me to zoom in on the offending element and then tap it to get where I want to go.
+> **[0:07](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=7)** This inevitably requires me to [[Zoom]] in on the offending element and then tap it to get where I want to go.
 >
-> **[0:13](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=13)** The Touch Targets tool in Stark quickly identifies the offenders and asks you to make adjustments.
+> **[0:13](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=13)** The Touch Targets tool in [[Stark (Accessibility Software)|Stark]] quickly identifies the offenders and asks you to make adjustments.
 >
 > **[0:20](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=20)** Why are touch targets important?
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=94)** For iOS, the value is 44 pixels, and here it's 32.
 >
-> **[1:40](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=100)** And for Android it is 48 pixels, here it is 32.
+> **[1:40](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=100)** And for [[Android]] it is 48 pixels, here it is 32.
 >
 > **[1:44](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=104)** If you are unsure, go with the larger Android spec.
 >
@@ -614,7 +605,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=125)** Instead, you need to head back to the design file and make the adjustments there.
 >
-> **[2:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=130)** If you are using Figma, the touch target tool in the Stark plugin will help you meet this specification.
+> **[2:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/checking-touch-targets?u=76281980&t=130)** If you are using [[Figma (Software)|Figma]], the touch target tool in the Stark plugin will help you meet this specification.
 
 > [!info]- Semantic Content
 >
@@ -627,8 +618,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting and correcting focus order
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980)
+#### [Setting and correcting focus order](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,11 +634,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=50)** If you find the focus order illogical, this tool won't let you make the changes.
 >
-> **[0:55](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=55)** Instead, you need to head back to the Figma document or other file and make the change there using the Stark plugin in Figma or write in the HTML.
+> **[0:55](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=55)** Instead, you need to head back to the [[Figma (Software)|Figma]] document or other file and make the change there using the [[Stark (Accessibility Software)|Stark]] plugin in Figma or write in the [[HTML]].
 >
 > **[1:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=66)** I am not going to review how that works.
 >
-> **[1:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=68)** I would suggest instead you head over to my Accessibility and Inclusion course on LinkedIn Learning right here where I dig into how to set the focus order using these Stark tools inside of Figma.
+> **[1:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/setting-and-correcting-focus-order?u=76281980&t=68)** I would suggest instead you head over to my Accessibility and Inclusion course on [[LinkedIn]] Learning right here where I dig into how to set the focus order using these Stark tools inside of Figma.
 
 > [!info]- Semantic Content
 >
@@ -660,8 +650,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stark Landmarks
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980)
+#### [Stark Landmarks](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +658,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=9)** What landmarks do is to annotate each section of the design with the appropriate label.
 >
-> **[0:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=16)** The benefit to adding landmarks is to make your developer's life easier because your developer is not put into the frustrating situation of guessing word landmarks and their appropriate attributes are to be placed in the HTML.
+> **[0:16](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=16)** The benefit to adding landmarks is to make your developer's life easier because your developer is not put into the frustrating situation of guessing [[Microsoft Word|word]] landmarks and their appropriate attributes are to be placed in the [[HTML]].
 >
 > **[0:33](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=33)** Even more important than the developer, landmarks permit users who use screen readers to navigate through a page or screen.
 >
@@ -677,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=52)** And if I run the Landmarks tool, you can see the page is broken into a number of landmarks.
 >
-> **[1:03](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=63)** These landmarks are labels that can be added using the Stark plugin for Figma.
+> **[1:03](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=63)** These landmarks are labels that can be added using the [[Stark (Accessibility Software)|Stark]] plugin for [[Figma (Software)|Figma]].
 >
 > **[1:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-landmarks?u=76281980&t=69)** Screen readers use landmarks to get around inside pages that are longer complex.
 >
@@ -714,8 +703,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using the Vision Simulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980)
+#### [Using the Vision Simulator](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +731,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980&t=66)** This condition affects the perception of reds and greens.
 >
-> **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980&t=70)** You can see that in the images, and if I roll over this image, notice the word "more" practically disappears.
+> **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980&t=70)** You can see that in the images, and if I roll over this image, notice the [[Microsoft Word|word]] "more" practically disappears.
 >
 > **[1:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-vision-simulator?u=76281980&t=78)** Things really change when Tritanopia is selected.
 >
@@ -782,16 +770,15 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Headings tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980)
+#### [Using the Headings tool](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=0)** - [Instructor] The final tool in the Stark web tools lineup is the Headings tool.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=0)** - [Instructor] The final tool in the [[Stark (Accessibility Software)|Stark]] web tools lineup is the Headings tool.
 >
 > **[0:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=5)** Its purpose is to show you the text hierarchy in your page, H1, H2, H3, whatever.
 >
-> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=12)** This tool scoots through the HTML, identifies the headings and shows you where they are.
+> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=12)** This tool scoots through the [[HTML]], identifies the headings and shows you where they are.
 >
 > **[0:18](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=18)** The advantage to you as a designer is to see if the headings have been applied as expected.
 >
@@ -801,7 +788,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=29)** So, I'm going to select the Headings tool, and you can see that all the headings are annotated.
 >
-> **[0:37](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=37)** And I've got the word DELICATE here, and I'm trying to figure out, well, is it this delicate or that delicate?
+> **[0:37](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=37)** And I've got the [[Microsoft Word|word]] DELICATE here, and I'm trying to figure out, well, is it this delicate or that delicate?
 >
 > **[0:42](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-headings-tools?u=76281980&t=42)** Well, you kind of know it's that, but if there's confusion, you just select it and you can see that it sort of gets bigger and is brought to your attention.
 >
@@ -817,19 +804,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Stark (Accessibility Software)|Stark]] (1), web (1), [[Microsoft Word|Word]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Stark (Accessibility Software)|Stark]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (2), delicate (1), css (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Sidekick
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-sidekick?u=76281980)
+#### [Using Sidekick](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-sidekick?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-sidekick?u=76281980&t=0)** - [Instructor] One of the slickest additions to the Stark plugin tools for Figma is an updated version of Sidekick.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-sidekick?u=76281980&t=0)** - [Instructor] One of the slickest additions to the [[Stark (Accessibility Software)|Stark]] plugin tools for [[Figma (Software)|Figma]] is an updated version of Sidekick.
 >
 > **[0:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-sidekick?u=76281980&t=9)** The wizards at Stark have added an AI capability to this plugin that, to be honest, is designed to deal with accessibility issues with a single click.
 >
@@ -949,19 +935,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), ai (4), [[Figma (Software)|Figma]] (2), feature (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), [[Figma (Software)|Figma]] (2)
 > **Definitions:** is an  (3), is a  (1)
 > **UI Navigation:** select the (3)
 > **Versions:** 4.5 (1), 2.01 (1)
 > **Tools:** figma (2)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/automatic-monitoring?u=76281980)
+#### [Automatic monitoring](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/automatic-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/automatic-monitoring?u=76281980&t=0)** - The latest addition to the Stark Web tools is automatic monitoring, and it has a really interesting purpose.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/automatic-monitoring?u=76281980&t=0)** - The latest addition to the [[Stark (Accessibility Software)|Stark]] Web tools is automatic monitoring, and it has a really interesting purpose.
 >
 > **[0:07](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/automatic-monitoring?u=76281980&t=7)** And you can see that it's new because it is just that, new.
 >
@@ -977,7 +962,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (2)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
@@ -988,12 +973,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the Stark dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
+#### [Using the Stark dashboard](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=0)** - [Presenter] In this video, we are going to look at how to set up a team project in the Stark dashboard.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=0)** - [Presenter] In this video, we are going to look at how to set up a team project in the [[Stark (Accessibility Software)|Stark]] dashboard.
 >
 > **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=6)** Before we get going, just be aware this feature is available through the Premium, Business, and Enterprise plans.
 >
@@ -1005,7 +989,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=39)** I'll just go through it here, 'cause I've already set up a team.
 >
-> **[0:43](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=43)** So it's going to ask you to install Stark and Figma, you're going to need Stark for your browser.
+> **[0:43](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=43)** So it's going to ask you to install Stark and [[Figma (Software)|Figma]], you're going to need Stark for your browser.
 >
 > **[0:49](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=49)** If you're going to be using Figma files, by the way, you're going to need to do that.
 >
@@ -1055,7 +1039,7 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=236)** I'm going to have the file open in Figma and you come over to the share link here or the share button, click it and you just copy the link to your clipboard and return back to Stark and paste it.
 >
-> **[4:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=255)** You can import a GitHub repository and I'm going to get into that in a separate video, 'cause it's a little bit more complicated, but I can also scan a URL.
+> **[4:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=255)** You can import a [[GitHub]] repository and I'm going to get into that in a separate video, 'cause it's a little bit more complicated, but I can also scan a URL.
 >
 > **[4:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=265)** So I'm going to bring in Explore California.
 >
@@ -1063,7 +1047,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=283)** So it's going to get it and it's only got one page, so I'm going to import it and it tells me there are all kinds of issues and I want to put this URL in here for the Explore California and I can scan that and it's in.
 >
-> **[5:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=308)** So what's happening here is it's scanning the HTML, looking for violations and this usually takes a little bit, but eventually what will happen is you will see there will be a number of violations, there they are, a number of potential violations and what has passed.
+> **[5:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=308)** So what's happening here is it's scanning the [[HTML]], looking for violations and this usually takes a little bit, but eventually what will happen is you will see there will be a number of violations, there they are, a number of potential violations and what has passed.
 >
 > **[5:33](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-dashboard?u=76281980&t=333)** Now the team settings is really quite interesting, because here you can connect to a ticketing system and this is only available for the Enterprise accounts and click it and you can quickly connect to one of the systems presented in your organization's system.
 >
@@ -1077,7 +1061,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), [[Figma (Software)|Figma]] (6), business (4), feature (2), web (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (8), [[Figma (Software)|Figma]] (6), [[GitHub]] (1), [[HTML]] (1)
 > **Tools:** figma (6), github (1)
 > **Env Vars:** url (3), wcag (1), csv (1), html (1)
 > **UI Navigation:** go to (3), open the (1)
@@ -1086,14 +1070,13 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Documentation:** the documentation (1)
 
-#### Connecting to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980)
+#### [Connecting to GitHub](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=0)** - [Narrator] Being able to review a Figma project or URL using the Stark Web Tools is a huge productivity boost.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=0)** - [Narrator] Being able to review a [[Figma (Software)|Figma]] project or URL using the [[Stark (Accessibility Software)|Stark]] Web Tools is a huge productivity boost.
 >
-> **[0:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=9)** You may also have noticed you can connect GitHub repositories to the dashboard.
+> **[0:09](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=9)** You may also have noticed you can connect [[GitHub]] repositories to the dashboard.
 >
 > **[0:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=15)** This recent addition to the Stark lineup is ideal for developers.
 >
@@ -1109,7 +1092,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=63)** And the first question you're going to be asked is to name your organization.
 >
-> **[1:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=68)** And I've named it LinkedIn Learning.
+> **[1:08](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=68)** And I've named it [[LinkedIn]] Learning.
 >
 > **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-github?u=76281980&t=70)** So what I'm going to do is click this button to connect to the organization, and this it will show me the link to the repository.
 >
@@ -1139,7 +1122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (10), [[GitHub]] (5), [[Figma (Software)|Figma]] (1), web (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (10), [[GitHub]] (5), [[Figma (Software)|Figma]] (1), [[LinkedIn]] (1)
 > **Tools:** github (5), figma (1)
 > **Env Vars:** wcag (2), url (1), alt (1)
 > **CLI Commands:** find (1)
@@ -1147,12 +1130,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connecting to a URL
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980)
+#### [Connecting to a URL](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=0)** - [Instructor] As you are learning, your Stark dashboard is a rather robust way of not only identifying accessibility issues, but also tracking progress as they're identified.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=0)** - [Instructor] As you are learning, your [[Stark (Accessibility Software)|Stark]] dashboard is a rather robust way of not only identifying accessibility issues, but also tracking progress as they're identified.
 >
 > **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=12)** So, what we're going to do is just sort of go through a project process with a URL.
 >
@@ -1210,7 +1192,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=161)** Stark also gives you the ability to download a report, which is especially handy if you don't have a ticketing capability.
 >
-> **[2:50](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=170)** An HTML document, as you saw earlier, is created, which can then be shared with the design or development team.
+> **[2:50](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=170)** An [[HTML]] document, as you saw earlier, is created, which can then be shared with the design or development team.
 >
 > **[2:56](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=176)** So, there you have it.
 >
@@ -1226,7 +1208,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=217)** And in this little pop down here, you can delete the project.
 >
-> **[3:42](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=222)** I should also add projects without a link to Figma, GitHub, or a URL will not be deleted.
+> **[3:42](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=222)** I should also add projects without a link to [[Figma (Software)|Figma]], [[GitHub]], or a URL will not be deleted.
 >
 > **[3:51](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-a-url?u=76281980&t=231)** So, there you have it.
 >
@@ -1236,19 +1218,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (4), [[HTML]] (2), [[Figma (Software)|Figma]] (2), feature (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (4), [[HTML]] (2), [[Figma (Software)|Figma]] (2), [[GitHub]] (1)
 > **Env Vars:** url (7), html (2), csv (1), xml (1)
 > **Tools:** figma (2), github (1)
 > **Cross-References:** as you saw (1), in the next (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to Figma
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-figma?u=76281980)
+#### [Connecting to Figma](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-figma?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-figma?u=76281980&t=0)** - [Instructor] As Figma has risen to become the standard UX prototyping application, Stark through its Figma plugin has grown with it.
+> **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-figma?u=76281980&t=0)** - [Instructor] As [[Figma (Software)|Figma]] has risen to become the standard UX [[Prototyping]] application, [[Stark (Accessibility Software)|Stark]] through its Figma plugin has grown with it.
 >
 > **[0:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/connecting-to-figma?u=76281980&t=10)** Prior to the introduction of the dashboard, the plugin could only be used in an open Figma file and the changes made within Figma.
 >
@@ -1286,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (9), [[Stark (Accessibility Software)|Stark]] (7), ux (1), [[Prototyping]] (1), application (1)
+> **Frameworks & Libraries:** [[Figma (Software)|Figma]] (9), [[Stark (Accessibility Software)|Stark]] (7), [[Prototyping]] (1)
 > **Tools:** figma (9)
 > **UI Navigation:** open the (2), select the (1)
 > **CLI Commands:** make (1)
@@ -1295,8 +1276,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 
-#### Stark Compliance Center overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980)
+#### [Stark Compliance Center overview](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1308,11 +1288,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=34)** Considering the fact close to 96% of the web is inaccessible, one can infer that clearly articulated corporate accessibility policies are at best more in the realm of statement than policy.
 >
-> **[0:50](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=50)** Ask companies to articulate their security and privacy policies and you can be confident those policies are clearly documented.
+> **[0:50](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=50)** Ask companies to articulate their security and [[Privacy]] policies and you can be confident those policies are clearly documented.
 >
 > **[0:59](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=59)** Generally, they can't articulate their accessibility policies.
 >
-> **[1:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=65)** This is where one of the more powerful tools in the Stark lineup comes into play.
+> **[1:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=65)** This is where one of the more powerful tools in the [[Stark (Accessibility Software)|Stark]] lineup comes into play.
 >
 > **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=70)** Recognizing all of these issues, the Stark Compliance Center is designed to help organizations develop an accessibility policy that is just as complete as their security and privacy policies.
 >
@@ -1326,7 +1306,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=125)** The Compliance Center will help your organization create the policy that touches on those three areas.
 >
-> **[2:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=132)** As I scroll through the Compliance Center, you will see there are eight distinct areas: policy and government, people and culture, standards and posture, training and awareness, tools and procurement, product development lifestyle, marketing, communications and content creation, and continuous monitoring.
+> **[2:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=132)** As I scroll through the Compliance Center, you will see there are eight distinct areas: policy and government, people and culture, standards and posture, training and awareness, tools and procurement, [[Product Development]] lifestyle, marketing, communications and [[Content Creation]], and [[Continuous Monitoring]].
 >
 > **[2:35](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=155)** And each one has a set of what Stark calls controls.
 >
@@ -1356,7 +1336,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=296)** It is a must-have.
 >
-> **[4:58](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=298)** By proactively and constantly managing an organization's accessibility policy, you are now able to deliver on a global basis fully accessible products and services that continually adapt to changing governmental regulation and most important of all, the needs of those who will access your products and services.
+> **[4:58](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=298)** By proactively and constantly managing an organization's accessibility policy, you are now able to deliver on a global basis fully accessible [[Microsoft Products|products]] and services that continually adapt to changing governmental regulation and most important of all, the needs of those who will access your products and services.
 >
 > **[5:21](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/stark-compliance-center-overview?u=76281980&t=321)** I don't disagree.
 >
@@ -1364,15 +1344,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Security]] (2), [[Privacy]] (2), business (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (6), [[Privacy]] (2), [[Microsoft Products|Products]] (2), [[Product Development]] (1), [[Content Creation]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the Stark Web tools through a browser's Inspect panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980)
+#### [Using the Stark Web tools through a browser's Inspect panel](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1380,7 +1359,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=5)** As you may or may not know, developers tend to open a site and inspect the code right in the browser.
 >
-> **[0:11](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=11)** Now, not only can developers inspect the code right in the browser, they can also launch Stark in the inspect panel and not only see where the issues are found in the design, but also in the code block in question.
+> **[0:11](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=11)** Now, not only can developers inspect the code right in the browser, they can also launch [[Stark (Accessibility Software)|Stark]] in the inspect panel and not only see where the issues are found in the design, but also in the code block in question.
 >
 > **[0:24](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=24)** Here's how.
 >
@@ -1394,11 +1373,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=70)** I think developers will find this to be a rather interesting little feature.
 >
-> **[1:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=75)** To move this from a nice to know feature into something developers can use to address the violations, come up here, generate a report, and what happens is, is an HTML file is created, which can then become a great reference source for use by the development team.
+> **[1:15](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/using-the-stark-web-tools-through-a-browser-s-inspect-panel?u=76281980&t=75)** To move this from a nice to know feature into something developers can use to address the violations, come up here, generate a report, and what happens is, is an [[HTML]] file is created, which can then become a great reference source for use by the development team.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), feature (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (3), [[HTML]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** click on (2)
 > **Env Vars:** html (1)
@@ -1410,18 +1389,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=0)** - Well, here we are at the end of the course and you're probably wondering where can we go from here?
 >
-> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=6)** Well, there's a lot you can learn about accessibility here at LinkedIn Learning.
+> **[0:06](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=6)** Well, there's a lot you can learn about accessibility here at [[LinkedIn]] Learning.
 >
-> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=12)** Let's start with a course I did, [[Accessibility and Inclusion with Figma]], and what it has is just a complete rundown on how to use the Stark plugins for Figma.
+> **[0:12](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=12)** Let's start with a course I did, [[Accessibility and Inclusion with [[Figma (Software)|Figma]]]], and what it has is just a complete rundown on how to use the [[Stark (Accessibility Software)|Stark]] plugins for Figma.
 >
-> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=25)** If you want to learn about [[Accessibility for Web Design]], then Derek Featherstone, who I regard as one of the world experts on the subject of accessibility, has a great course here at LinkedIn Learning, [[Accessibility for Web Design]].
+> **[0:25](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=25)** If you want to learn about [[Accessibility for [[Web Design]]]], then Derek Featherstone, who I regard as one of the world experts on the subject of accessibility, has a great course here at LinkedIn Learning, [[Accessibility for Web Design]].
 >
 > **[0:40](https://www.linkedin.com/learning/using-stark-for-accessible-design-projects/next-steps?u=76281980&t=40)** It is complete.
 >
@@ -1437,7 +1415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (5), [[Stark (Accessibility Software)|Stark]] (4), web (4), [[LinkedIn]] (2), [[Figma (Software)|Figma]] (2)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (4), [[Web Design]] (3), [[LinkedIn]] (2), [[Figma (Software)|Figma]] (2)
 > **Tools:** figma (2)
 > **Speakers:** - well (1)
 

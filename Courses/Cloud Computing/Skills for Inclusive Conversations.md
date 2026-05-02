@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The need for inclusive conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
+#### [The need for inclusive conversations](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=39)** These conversations can be difficult, because we have been mostly taught not to talk about such topics as race, religion, or politics, especially at work, so it stands to reason that we might not have the skills to do so effectively.
 >
-> **[0:55](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=55)** My name is Mary-Frances Winters, and I am President and CEO of The Winters Group, a global diversity and inclusion firm.
+> **[0:55](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=55)** My name is Mary-Frances Winters, and I am President and CEO of The Winters Group, a global [[Diversity and Inclusion]] firm.
 >
 > **[1:03](https://www.linkedin.com/learning/skills-for-inclusive-conversations/the-need-for-inclusive-conversations?u=76281980&t=63)** This course will highlight the prerequisites and steps for engaging in inclusive conversations, and provide some tools to start you on the journey.
 >
@@ -101,8 +100,7 @@ created: 2026-05-02
 > **Env Vars:** ceo (1)
 > **Speakers:** - many (1)
 
-#### Diversity topics can be polarizing
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980)
+#### [Diversity topics can be polarizing](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=97)** Now before I jump in, I want to note that these topics can be very uncomfortable, but we need to face these issues together in order to grow and understand one another.
 >
-> **[1:49](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=109)** So imagine three employees, John, Miriam, and Jennifer, they're taking a break.
+> **[1:49](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=109)** So imagine three employees, [[John the Ripper|John]], Miriam, and Jennifer, they're taking a break.
 >
 > **[1:56](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=116)** John and Jennifer are in the break room and talking about the recent attacks.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=151)** Reflect on these questions.
 >
-> **[2:33](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=153)** If Miriam does not say anything about the encounter, how might that impact her ability to do her best work for the rest of the day and even maybe beyond that?
+> **[2:33](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=153)** If Miriam does not say anything about the encounter, how might that impact her ability to do her best work for the [[Representational State Transfer (REST)|rest]] of the day and even maybe beyond that?
 >
 > **[2:43](https://www.linkedin.com/learning/skills-for-inclusive-conversations/diversity-topics-can-be-polarizing-14491030?u=76281980&t=163)** How might John's opinion change if he had more knowledge about Miriam's religion and culture?
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (8), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** lgbtq (1)
@@ -158,8 +156,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - whether (1)
 
-#### Thriving with inclusive dialogue
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980)
+#### [Thriving with inclusive dialogue](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=15)** Therefore we have not had the experience nor skills to engage in effective dialogue.
 >
-> **[0:21](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=21)** Given today's sociopolitical climate, our real-time access to news and perspectives via social media and organizations strides towards creating more inclusive environments, these topics are unavoidable.
+> **[0:21](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=21)** Given today's sociopolitical climate, our [[Real-Time]] access to news and perspectives via social media and organizations strides towards creating more inclusive environments, these topics are unavoidable.
 >
 > **[0:34](https://www.linkedin.com/learning/skills-for-inclusive-conversations/thriving-with-inclusive-dialogue-14487133?u=76281980&t=34)** They're happening in our homes, on our social media timelines, and in the workplace.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Env Vars:** lgbtq (1)
 > **Speakers:** - we (1)
 
@@ -240,8 +237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Six steps to inclusive conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
+#### [Six steps to inclusive conversations](https://www.linkedin.com/learning/skills-for-inclusive-conversations/six-steps-to-inclusive-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,13 +309,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - it (1)
 
-#### Know yourself and others
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/know-yourself-and-others-14487134?u=76281980)
+#### [Know yourself and others](https://www.linkedin.com/learning/skills-for-inclusive-conversations/know-yourself-and-others-14487134?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -395,8 +389,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - if (1)
 
-#### Inclusive conversations readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980)
+#### [Inclusive conversations readiness](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -466,7 +459,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=190)** How would you answer this one?
 >
-> **[3:12](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=192)** My organizational culture is conducive to engaging in authentic dialogue and fostering inclusion.
+> **[3:12](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=192)** My [[Organizational Culture]] is conducive to engaging in authentic dialogue and fostering inclusion.
 >
 > **[3:18](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusive-conversations-readiness-14488126?u=76281980&t=198)** What do you think?
 >
@@ -480,14 +473,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), next (1), [[Organizational Culture]] (1)
+> **Frameworks & Libraries:** [[Organizational Culture]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Prepare for the conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/prepare-for-the-conversation-14490065?u=76281980)
+#### [Prepare for the conversation](https://www.linkedin.com/learning/skills-for-inclusive-conversations/prepare-for-the-conversation-14490065?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -579,8 +571,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - benjamin (1)
 
-#### Getting to shared meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980)
+#### [Getting to shared meaning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=37)** The goal of creating shared meaning is to get to what we each agree on.
 >
-> **[0:44](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=44)** Consider this scenario, three employees, John, Miriam and Jennifer are in the break room.
+> **[0:44](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=44)** Consider this scenario, three employees, [[John the Ripper|John]], Miriam and Jennifer are in the break room.
 >
 > **[0:53](https://www.linkedin.com/learning/skills-for-inclusive-conversations/getting-to-shared-meaning-14487135?u=76281980&t=53)** John and Jennifer were sharing their seemingly innocent thoughts about an attack that just happened in Paris, unaware of how it may impact their Muslim colleague, Miriam.
 >
@@ -668,14 +659,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (4)
 > **Speakers:** - i (2), - you (1), - miriam (1), - well (1), - those (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
 > **Warnings:** pitfall (1)
 
-#### Honing skills for shared meaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980)
+#### [Honing skills for shared meaning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -693,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=59)** Let's look at a scenario where there is an attempt to get to shared meaning.
 >
-> **[1:04](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=64)** John had made an assumption about Muslims being responsible for an attack.
+> **[1:04](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=64)** [[John the Ripper|John]] had made an assumption about Muslims being responsible for an attack.
 >
 > **[1:09](https://www.linkedin.com/learning/skills-for-inclusive-conversations/honing-skills-for-shared-meaning-14486163?u=76281980&t=69)** And he and Miriam, his Muslim coworker, have agreed to meet in an attempt to get to shared meaning.
 >
@@ -767,12 +757,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
 > **Speakers:** - i (5), - sure (2), - why (1), - thank (1), - it (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Strive for reciprocal empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980)
+#### [Strive for reciprocal empathy](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -798,11 +787,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=83)** Let's see how these skills might play out in a real conversation.
 >
-> **[1:28](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=88)** Miriam and John are coworkers.
+> **[1:28](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=88)** Miriam and [[John the Ripper|John]] are coworkers.
 >
 > **[1:31](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=91)** Recently, Miriam overheard John's assumption about Muslims being responsible for a violent attack.
 >
-> **[1:37](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=97)** Miriam and John have begun to do the work around building trust and finding common ground and are at a point where they can now begin to explore their differences.
+> **[1:37](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=97)** Miriam and John have begun to do the work around [[Building Trust]] and finding common ground and are at a point where they can now begin to explore their differences.
 >
 > **[1:48](https://www.linkedin.com/learning/skills-for-inclusive-conversations/strive-for-reciprocal-empathy-14491031?u=76281980&t=108)** Listen to the dialogue and see if you observe areas where they are practicing these skills.
 >
@@ -852,7 +841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (5), [[Building Trust]] (1)
 > **Speakers:** - yeah (3), - yes (3), - i (2), - our (1), - how (1)
 > **CLI Commands:** make (1), find (1)
 
@@ -861,8 +850,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Talking about race
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
+#### [Talking about race](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +862,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=19)** The first step is to foster self and other understanding.
 >
-> **[0:24](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=24)** John is a manager and has identified an opportunity to have a conversation about race with one of his team members.
+> **[0:24](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=24)** [[John the Ripper|John]] is a manager and has identified an opportunity to have a conversation about race with one of his team members.
 >
 > **[0:31](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-race-14485159?u=76281980&t=31)** Let's connect with John to understand his situation.
 >
@@ -952,12 +940,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2)
 > **Speakers:** - yeah (2), - conversations (1), - thank (1), - hmm (1), - i (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 
-#### Talking about religion
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980)
+#### [Talking about religion](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +983,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=108)** - What do you mean? How could I assess the team's readiness?
 >
-> **[1:52](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=112)** - Well, one way that you would know is, what does the organization do around diversity and inclusion?
+> **[1:52](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=112)** - Well, one way that you would know is, what does the organization do around [[Diversity and Inclusion]]?
 >
 > **[1:57](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-religion-14490068?u=76281980&t=117)** Are there policies? Are there practices and strategies?
 >
@@ -1041,14 +1029,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2), business (2)
+> **Frameworks & Libraries:** [[Diversity and Inclusion]] (2)
 > **Speakers:** - okay (3), - religion (1), - i (1), - what (1), - well (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (2)
 > **Warnings:** be aware (1)
 
-#### Talking about gender
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-gender-14486165?u=76281980)
+#### [Talking about gender](https://www.linkedin.com/learning/skills-for-inclusive-conversations/talking-about-gender-14486165?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1142,7 +1129,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - okay (3), - so (2), - when (1), - interesting (1), - hmm (1)
 > **CLI Commands:** make (2)
 
@@ -1151,8 +1137,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Inclusivity pledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)
+#### [Inclusivity pledge](https://www.linkedin.com/learning/skills-for-inclusive-conversations/inclusivity-pledge-14485160?u=76281980)
 
 > [!transcript]- Transcript
 >

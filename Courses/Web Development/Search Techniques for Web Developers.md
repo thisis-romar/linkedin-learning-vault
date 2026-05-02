@@ -79,14 +79,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Finding what you're looking for
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
+#### [Finding what you're looking for](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=0)** - [Instructor] One of the more surprising daily challenges of working as a web developer is finding information.
 >
-> **[0:05](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=5)** Sure you can just Google it, but how do you determine whether what you find in your search is the accurate up-to-date information you actually need?
+> **[0:05](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=5)** Sure you can just [[Google]] it, but how do you determine whether what you find in your search is the accurate up-to-date information you actually need?
 >
 > **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=13)** Mastering search is an essential skill in your daily practice.
 >
@@ -94,7 +93,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=20)** So let's supercharge your searching right now and compress those years of learning into a manageable hour or so.
 >
-> **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=27)** This course has a single goal to get you knowledgeable and comfortable with doing advanced searches for developer related topics on search engines, on GitHub, in community forums and everywhere else, you might go looking for information.
+> **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=27)** This course has a single goal to get you knowledgeable and comfortable with doing advanced searches for developer related topics on search engines, on [[GitHub]], in community forums and everywhere else, you might go looking for information.
 >
 > **[0:41](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-what-you-re-looking-for?u=76281980&t=41)** We'll look at where to find authoritative and up-to-date information, how to take advantage of the advanced features built into various search engines and how to leverage community to find answers, provide your own insights and build a better web.
 >
@@ -104,7 +103,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), web (2), [[Google]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** github (1)
@@ -115,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to find reliable information
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
+#### [Where to find reliable information](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980&t=75)** For the web, we can sketch out a sort of pyramid structure to describe these relationships.
 >
-> **[1:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980&t=81)** At the top is the W3C, which defines the standard for HTML, CSS and the web platform, and TC39, which defines the standard for ECMAScript, which is implemented as JavaScript.
+> **[1:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980&t=81)** At the top is the W3C, which defines the standard for [[HTML]], CSS and the web platform, and TC39, which defines the standard for [[ECMAScript]], which is implemented as [[JavaScript]].
 >
 > **[1:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/where-to-find-reliable-information?u=76281980&t=93)** Next, come the platform resources.
 >
@@ -166,15 +164,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), functional (1), feature (1), [[HTML]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[ECMAScript]] (1), [[JavaScript]] (1)
 > **Env Vars:** w3c (1), html (1), css (1), tc39 (1)
 > **CLI Commands:** find (3)
 > **Documentation:** w3c (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Straight from the source
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980)
+#### [Straight from the source](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,11 +179,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=11)** For the web platform, that's the W3C.
 >
-> **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=13)** For JavaScript, it's the Ecma International Technical Committee 39, better known as TC39.
+> **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=13)** For [[JavaScript]], it's the Ecma International Technical Committee 39, better known as TC39.
 >
-> **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=20)** For React JS, it's the react core contributors operating under Facebook open source found at the main react JS website.
+> **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=20)** For [[React.js|React]] JS, it's the react core contributors operating under Facebook open source found at the main react JS website.
 >
-> **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=27)** For WordPress, it's the WordPress core contributors found at [wordpress.org](https://wordpress.org).
+> **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=27)** For [[WordPress]], it's the WordPress core contributors found at [wordpress.org](https://wordpress.org).
 >
 > **[0:30](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=30)** For Gatsby, it's the Gatsby core contributors, found at [gatsby.com](https://gatsby.com).
 >
@@ -206,7 +203,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=78)** Here are a couple of them.
 >
-> **[1:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=80)** First off, standards-setting bodies, like the W3C and TC39, and application development communities like React and Gatsby and WordPress, focus mainly on documenting the core functionalities and applications of their tools.
+> **[1:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=80)** First off, standards-setting bodies, like the W3C and TC39, and [[Application Development]] communities like React and Gatsby and WordPress, focus mainly on documenting the core functionalities and applications of their tools.
 >
 > **[1:32](https://www.linkedin.com/learning/search-techniques-for-web-developers/straight-from-the-source?u=76281980&t=92)** I.e. the tools themselves and how they work.
 >
@@ -252,7 +249,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (9), [[WordPress]] (6), web (3), feature (3), application (2)
+> **Frameworks & Libraries:** [[React.js|React]] (9), [[WordPress]] (6), [[JavaScript]] (1), [[Application Development]] (1)
 > **CLI Commands:** find (7), make (2)
 > **Env Vars:** w3c (3), tc39 (2)
 > **Documentation:** w3c (3)
@@ -261,8 +258,7 @@ created: 2026-05-02
 > **Definitions:** known as (1), in other words (1)
 > **Analogies:** such as (1)
 
-#### Platform resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980)
+#### [Platform resources](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980&t=63)** The best example of a platform resource is the MDN Web Docs.
 >
-> **[1:07](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980&t=67)** This website is the most up-to-date documentation for HTML, CSS, JavaScript, and other web platform features.
+> **[1:07](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980&t=67)** This website is the most up-to-date documentation for [[HTML]], CSS, [[JavaScript]], and other web platform features.
 >
 > **[1:14](https://www.linkedin.com/learning/search-techniques-for-web-developers/platform-resources?u=76281980&t=74)** And it's targeted towards the people who build websites.
 >
@@ -298,27 +294,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), [[HTML]] (2), css (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (2)
 > **Env Vars:** mdn (2), html (2), css (2), http (1)
 > **Documentation:** mdn (2), the documentation (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Status reference sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980)
+#### [Status reference sites](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=1)** - [Instructor] Alongside platform resources, there's a specialized type of resource I'll call status reference sites.
 >
-> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=6)** These are sites collecting data about the web to provide statistics about the current status of the platform as a whole.
+> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=6)** These are sites collecting data about the web to provide [[Statistics]] about the current status of the platform as a whole.
 >
 > **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=13)** Two sites exemplify this type of service; [CanIUse.com](https://CanIUse.com) and [HTTPArchive.org](https://HTTPArchive.org).
 >
 > **[0:19](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=19)** [CanIUse.com](https://CanIUse.com) might be the most aptly named service on the web.
 >
-> **[0:24](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=24)** It gives you up-to-date information about worldwide browser support for most platform features including HTML, CSS, JavaScript and beyond.
+> **[0:24](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=24)** It gives you up-to-date information about worldwide browser support for most platform features including [[HTML]], CSS, [[JavaScript]] and beyond.
 >
 > **[0:32](https://www.linkedin.com/learning/search-techniques-for-web-developers/status-reference-sites?u=76281980&t=32)** For each feature, there's a breakdown of what browser has implemented the feature, statistics on what percentage of the global web using public have access to that feature through browsers, and lots of other relevant information.
 >
@@ -350,21 +345,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), feature (5), [[Statistics]] (3), data (2), css (2)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **URLs:** [caniuse.com](https://caniuse.com) (2), [httparchive.org](httparchive.org) (1)
 > **Env Vars:** css (2), html (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** switch to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Specifications vs. implementations
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980)
+#### [Specifications vs. implementations](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980&t=1)** - [Instructor] I've used the terms specification and implementation a few times now, so it's important to understand what these terms refer to because it helps understand how the web platform works and why different resources give us different information.
 >
-> **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980&t=13)** For HTML, CSS, JavaScript, and all other web technologies, there are groups dedicated to creating standards specifications.
+> **[0:13](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980&t=13)** For [[HTML]], CSS, [[JavaScript]], and all other web technologies, there are groups dedicated to creating standards specifications.
 >
 > **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/specifications-vs-implementations?u=76281980&t=20)** These specifications are verbose and ideally unambiguous descriptions of how a feature should behave when encountered on the web.
 >
@@ -410,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (11), feature (7), [[JavaScript]] (2), [[Search]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[HTML]] (1)
 > **Documentation:** specification (7), w3c (3), mdn (1)
 > **Env Vars:** w3c (3), html (1), css (1), tc39 (1), svg (1)
 > **CLI Commands:** make (1), find (1)
@@ -419,8 +413,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Community resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980)
+#### [Community resources](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +427,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=28)** People like you and me, developers who are working with the technologies in real-world projects.
 >
-> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=33)** These resources take many different forms, from online magazines like Smashing Magazine and A List Apart and CSS-Tricks, to collaboration and knowledge-sharing platforms like Stack Overflow, to application specific websites and user forums like [wordpress.org](https://wordpress.org) and community chats like Gatsby's Discord channel or personal blogs.
+> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=33)** These resources take many different [[Forms]], from online magazines like Smashing Magazine and A List Apart and CSS-Tricks, to collaboration and knowledge-sharing platforms like Stack Overflow, to application specific websites and user forums like [[[WordPress]].org](https://wordpress.org) and community chats like Gatsby's Discord channel or personal blogs.
 >
 > **[0:52](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=52)** If you're looking for hands-on, in-depth tutorials, examples, and case studies of how to achieve a goal or use a specific feature in a real-world application, community resources are usually the best way to go.
 >
@@ -494,13 +487,13 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=228)** Finally, cross-reference and verify the information you find, no matter where you find it.
 >
-> **[3:53](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=233)** As an example, I often find JavaScript tutorials where Moment.js is used to handle time.
+> **[3:53](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=233)** As an example, I often find [[JavaScript]] tutorials where Moment.js is used to handle time.
 >
 > **[3:58](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=238)** But a quick check of the Moment website tells us Moment has been deprecated and they actually recommend using another library or just using the date object in JavaScript.
 >
 > **[4:09](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=249)** They don't recommend using Moment.
 >
-> **[4:12](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=252)** A quick search on MDN confirms that most of the features that are offered by Moment can now be achieved just using plain vanilla JavaScript.
+> **[4:12](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=252)** A quick search on MDN confirms that most of the features that are offered by Moment can now be achieved just using plain [[Vanilla]] JavaScript.
 >
 > **[4:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/community-resources?u=76281980&t=260)** So there's really no reason to use Moment, it's just, we're used to it and a lot of the old tutorials still use Moment.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), css (3), [[JavaScript]] (3), application (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Forms]] (1), [[WordPress]] (1), [[Vanilla]] (1)
 > **CLI Commands:** find (8), make (1)
 > **Env Vars:** css (3), mdn (1)
 > **Documentation:** stack overflow (2), specification (1), mdn (1)
@@ -528,8 +521,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mastering search
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
+#### [Mastering search](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -543,7 +535,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980&t=21)** The challenge with any type of internet search is there is so much information out there and everyone does everything in their power to drive you towards their information because the internet economy runs on visits and engagement.
 >
-> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980&t=33)** Search engines use advanced algorithms to try to guide you towards the most credible sources of information for what you're looking for, and they also try to make sense of your searches to give you the most relevant information.
+> **[0:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980&t=33)** Search engines use advanced [[Algorithms]] to try to guide you towards the most credible sources of information for what you're looking for, and they also try to make sense of your searches to give you the most relevant information.
 >
 > **[0:46](https://www.linkedin.com/learning/search-techniques-for-web-developers/mastering-search?u=76281980&t=46)** Even so, their search results are often not quite as accurate as you'd want them to be, and you'll need to do some more work to get the information you actually need.
 >
@@ -557,24 +549,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (12), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** previous chapter (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Google Search 101
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980)
+#### [Google Search 101](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=1)** - [Instructor] Google is by far the most used and most advanced general search engine available on the web and for our purposes, it's a good baseline tool for throwing out a wide net and capturing the information we're looking for.
+> **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=1)** - [Instructor] [[Google]] is by far the most used and most advanced general search engine available on the web and for our purposes, it's a good baseline tool for throwing out a wide net and capturing the information we're looking for.
 >
 > **[0:12](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=12)** Basic Google searches are straightforward.
 >
 > **[0:14](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=14)** Type in something to search for.
 >
-> **[0:15](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=15)** Say, how to internationalize dates in JavaScript, and you'll get some highly relevant search results.
+> **[0:15](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=15)** Say, how to internationalize dates in [[JavaScript]], and you'll get some highly relevant search results.
 >
 > **[0:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=21)** The problem is sometimes the answers are not as immediately obvious even for Google.
 >
@@ -652,7 +643,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=249)** If you want to find something similar to or mentioning a specific technology without getting results about that technology itself, you can also use the related keyword.
 >
-> **[4:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=260)** So for example, if I want information about things that are related to React JS, but I don't want React JS itself, like I want to look at alternatives to React JS, I'll say related:[reactjs.org](https://reactjs.org).
+> **[4:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=260)** So for example, if I want information about things that are related to [[React.js|React]] JS, but I don't want React JS itself, like I want to look at alternatives to React JS, I'll say related:[reactjs.org](https://reactjs.org).
 >
 > **[4:33](https://www.linkedin.com/learning/search-techniques-for-web-developers/google-search-101?u=76281980&t=273)** As you can see the result here does not contain React [JS.org](https://JS.org) itself but it has a ton of other information related to it in some way.
 >
@@ -676,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (22), [[Google]] (6), [[JavaScript]] (4), [[React.js|React]] (4), hit (3)
+> **Frameworks & Libraries:** [[Google]] (6), [[JavaScript]] (4), [[React.js|React]] (4)
 > **Env Vars:** mdn (6), url (3), css (1)
 > **Documentation:** mdn (6)
 > **Analogies:** for example (4), similar to (2)
@@ -684,8 +675,7 @@ created: 2026-05-02
 > **URLs:** [mozilla.org](https://mozilla.org) (3), [reactjs.org](https://reactjs.org) (1), [js.org](https://js.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter by publishing date
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980)
+#### [Filter by publishing date](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -699,7 +689,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=47)** So even though articles exist, you may not see them in your searches because there are other older articles that are more popular and more visited.
 >
-> **[0:55](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=55)** Say, you're looking to build a date component in React.
+> **[0:55](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=55)** Say, you're looking to build a date component in [[React.js|React]].
 >
 > **[0:59](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=59)** A search brings up a lot of results, but you'll notice these articles are all a couple of years old, 2019, 2018, 2019, 2019.
 >
@@ -751,7 +741,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=259)** That said, it's also important to check if an answer has been recently updated as is the case here.
 >
-> **[4:25](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=265)** In this search for how do I remove a property from a JavaScript object?
+> **[4:25](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=265)** In this search for how do I remove a property from a [[JavaScript]] object?
 >
 > **[4:29](https://www.linkedin.com/learning/search-techniques-for-web-developers/filter-by-publishing-date?u=76281980&t=269)** The question was asked 12 years ago and the questioned answer was active 12 days ago.
 >
@@ -763,7 +753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), web (5), [[React.js|React]] (3), feature (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[JavaScript]] (1)
 > **CLI Commands:** find (9), make (2)
 > **Documentation:** stack overflow (4)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -771,24 +761,23 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Search engines outperforming internal site search
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980)
+#### [Search engines outperforming internal site search](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=0)** - [Instructor] Search is a complex process that involves a lot more than just matching text strings from a database.
 >
-> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=6)** These complexities of search become very apparent anytime you're doing an internal search on a site and then compare that internal search to what Google and other search engines are able to provide you.
+> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=6)** These complexities of search become very apparent anytime you're doing an internal search on a site and then compare that internal search to what [[Google]] and other search engines are able to provide you.
 >
 > **[0:17](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=17)** Let me show you an example.
 >
-> **[0:19](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=19)** I need to find information about how to extend the class in JavaScript.
+> **[0:19](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=19)** I need to find information about how to extend the class in [[JavaScript]].
 >
 > **[0:22](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=22)** So I go to MDN and I search for extend class.
 >
 > **[0:27](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=27)** What I would expect to see here is some form of answer about how to extend the class, but what I get instead is information about the extend API and then the class reference in JavaScript, which is similar to what I'm looking for, but not specifically what I'm looking for.
 >
-> **[0:43](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=43)** There's also information about the HTML attribute called class and so on and so forth.
+> **[0:43](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=43)** There's also information about the [[HTML]] attribute called class and so on and so forth.
 >
 > **[0:47](https://www.linkedin.com/learning/search-techniques-for-web-developers/search-engines-outperforming-internal-site-search?u=76281980&t=47)** So scrolling down the search here, I'm not finding the information I'm looking for, even though I know it exists inside MDN web docs.
 >
@@ -836,7 +825,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (26), [[Google]] (11), [[JavaScript]] (10), database (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (11), [[JavaScript]] (10), [[HTML]] (1)
 > **Env Vars:** mdn (10), api (1), html (1), mdm (1)
 > **Documentation:** mdn (10)
 > **CLI Commands:** find (3), make (1)
@@ -845,22 +834,21 @@ created: 2026-05-02
 > **Analogies:** similar to (1), compare this to (1)
 > **Cross-References:** go back to (1)
 
-#### Searching GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980)
+#### [Searching GitHub](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=1)** - [Instructor] GitHub has become the largest repository of open source code on the web, and it's a fantastic resource for finding answers to pressing coding questions.
+> **[0:01](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=1)** - [Instructor] [[GitHub]] has become the largest repository of open source code on the web, and it's a fantastic resource for finding answers to pressing coding questions.
 >
 > **[0:08](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=8)** There are several ways you can use GitHub to find answers.
 >
-> **[0:11](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=11)** Search for repositories like npm packages that provide you with complete or partially complete solutions, search within repositories for specific code examples, or a search issues, pull requests, and discussions for things like errors and how to fix them.
+> **[0:11](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=11)** Search for repositories like [[npm]] packages that provide you with complete or partially complete solutions, search within repositories for specific code examples, or a search issues, pull requests, and discussions for things like errors and how to fix them.
 >
-> **[0:25](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=25)** When searching for repositories, start by doing a Google search for what you're looking for.
+> **[0:25](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=25)** When searching for repositories, start by doing a [[Google]] search for what you're looking for.
 >
-> **[0:31](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=31)** For example, if I want a React modal, I would search Google first to see if there is a package available.
+> **[0:31](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=31)** For example, if I want a [[React.js|React]] modal, I would search Google first to see if there is a package available.
 >
-> **[0:38](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=38)** If the search is JavaScript related, there's a good chance the top result will be an npm package, and usually directly below that answer is the GitHub repo for that same package.
+> **[0:38](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=38)** If the search is [[JavaScript]] related, there's a good chance the top result will be an npm package, and usually directly below that answer is the GitHub repo for that same package.
 >
 > **[0:49](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=49)** But if it's not, if you only see the npm package, that's fine.
 >
@@ -884,7 +872,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=145)** All of that is found under github/search/advanced.
 >
-> **[2:30](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=150)** If you want to do even more advanced searches, or you want to shortcut your search process, you can also go check out the searching code documentation, which breaks down all the advanced search algorithms that you can hook into using custom keys, and custom variables, and everything else in the search algorithm.
+> **[2:30](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=150)** If you want to do even more advanced searches, or you want to shortcut your search process, you can also go check out the searching code documentation, which breaks down all the advanced search [[Algorithms]] that you can hook into using custom keys, and custom variables, and everything else in the search algorithm.
 >
 > **[2:47](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=167)** When I run into trouble trying to implement some feature, I often use very specific searches on GitHub to find real-world examples of that feature being used in practice.
 >
@@ -894,7 +882,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=191)** To narrow down that search, I picked the most specific part of the code to identify the feature I was looking for while at the same time, not adding any of my own custom code.
 >
-> **[3:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=201)** Then, I specified what file I wanted to search in, which was gatsby-node.js, and where that file should sit in the repository in the root folder.
+> **[3:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=201)** Then, I specified what file I wanted to search in, which was gatsby-[[Node.js]], and where that file should sit in the repository in the root folder.
 >
 > **[3:31](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=211)** The resulting search string looked like this, paginate createPage Filename gatsby-node.js path:/ In return, I got a long list of instances where the feature was implemented, and I could then read through and compare my own code to these active examples of the same code to see if I had made a mistake, or if there was some sort of bug built into the system, or if I was just omitting something or just doing it wrong in some way.
 >
@@ -912,7 +900,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=290)** So I searched, PostCSS not working site [github.com](https://github.com), and the first hit I got was an issue about Tailwind.
 >
-> **[4:59](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=299)** Now, I wasn't using Tailwind or Laravel, but reading through this issue discussion, I found the answer to my problem.
+> **[4:59](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=299)** Now, I wasn't using Tailwind or [[Laravel]], but reading through this issue discussion, I found the answer to my problem.
 >
 > **[5:05](https://www.linkedin.com/learning/search-techniques-for-web-developers/searching-github?u=76281980&t=305)** I needed to PostCSS loader.
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (32), [[GitHub]] (18), feature (6), [[npm]] (5), [[Google]] (3)
+> **Frameworks & Libraries:** [[GitHub]] (18), [[npm]] (5), [[Google]] (3), [[Node.js]] (2), [[React.js|React]] (1)
 > **Tools:** github (18)
 > **CLI Commands:** find (6), npm (5), node (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -940,8 +928,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Humans, software, and community
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
+#### [Humans, software, and community](https://www.linkedin.com/learning/search-techniques-for-web-developers/humans-software-and-community?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -975,13 +962,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), application (1), web (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding your people
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980)
+#### [Finding your people](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=20)** As with search in general, start with the main source.
 >
-> **[0:23](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=23)** Say for example, you want to get started with Svelte, an alternative to React and Vue, which is based on server-side rendering.
+> **[0:23](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=23)** Say for example, you want to get started with Svelte, an alternative to [[React.js|React]] and [[Vue.js|Vue]], which is based on server-side rendering.
 >
 > **[0:30](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=30)** The first place to go is the main website.
 >
@@ -1015,7 +1000,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=98)** The best advice I can give you is to jump in, introduce yourself, and get to know the particular culture of that community.
 >
-> **[1:45](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=105)** Looking at what's being posted in documentation and in community chats, you quickly get a picture of who the community leaders are and who the resources are, and you can follow them on social media, like LinkedIn and Twitter, to see what they talk about and what types of content they share.
+> **[1:45](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=105)** Looking at what's being posted in documentation and in community chats, you quickly get a picture of who the community leaders are and who the resources are, and you can follow them on social media, like [[LinkedIn]] and Twitter, to see what they talk about and what types of content they share.
 >
 > **[2:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/finding-your-people?u=76281980&t=120)** This gives you a broader perspective of what info is available and where to find it.
 >
@@ -1033,7 +1018,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Search]] (1), [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Vue.js|Vue]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (4)
 > **Documentation:** the documentation (3)
 > **Analogies:** for example (2), picture (1)
@@ -1041,8 +1026,7 @@ created: 2026-05-02
 > **URLs:** [svelte.dev](https://svelte.dev) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ask questions and start conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980)
+#### [Ask questions and start conversations](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1080,7 +1064,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980&t=102)** One of the most effective ways of getting the answer you need is not to do a search, but to reach out to leading experts in your field on social media.
 >
-> **[1:50](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980&t=110)** As in literally ping them on LinkedIn or Twitter or somewhere else with the question.
+> **[1:50](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980&t=110)** As in literally ping them on [[LinkedIn]] or Twitter or somewhere else with the question.
 >
 > **[1:54](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-questions-and-start-conversations?u=76281980&t=114)** In many cases, they'll answer, often, immediately because it turns out famous developers are actually just people who are super interested in their subject matter and equally interested in talking about it.
 >
@@ -1106,7 +1090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), feature (1), [[Search]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Documentation:** the documentation (1)
 > **Analogies:** similar to (1)
@@ -1114,14 +1098,13 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ask for help, directly
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980)
+#### [Ask for help, directly](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=0)** - [Instructor] Building on that whole reach out to the leaders of your community with questions part, I'm going to take this one step further.
 >
-> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=6)** Remember how I said GitHub is a great place to find information.
+> **[0:06](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=6)** Remember how I said [[GitHub]] is a great place to find information.
 >
 > **[0:10](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=10)** Well, if you publish your code on GitHub, it's also a great place to get help, often directly from those same leaders of your community.
 >
@@ -1133,7 +1116,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=38)** A few years ago, I started a new project called WP Rig on GitHub.
 >
-> **[0:42](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=42)** It was an experiment to see if I could build a modern framework for WordPress themes.
+> **[0:42](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=42)** It was an experiment to see if I could build a modern framework for [[WordPress]] themes.
 >
 > **[0:46](https://www.linkedin.com/learning/search-techniques-for-web-developers/ask-for-help-directly?u=76281980&t=46)** In the beginning, it was only me writing code, but once I made it public, it didn't take long before people started noticing and contributing, and suddenly, these people I had never met who I knew nothing about were filing issues and even submitting pull requests with fixes and features and other things.
 >
@@ -1171,18 +1154,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[WordPress]] (1), feature (1), power (1)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[WordPress]] (1)
 > **Tools:** github (8)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share your knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980)
+#### [Share your knowledge](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=0)** - [Instructor] Th first time I searched for something on Google only to discover the top search result was something I had written myself was a pretty weird experience.
+> **[0:00](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=0)** - [Instructor] Th first time I searched for something on [[Google]] only to discover the top search result was something I had written myself was a pretty weird experience.
 >
 > **[0:08](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=8)** It also proved to me something I'd been saying to others for a long time.
 >
@@ -1200,7 +1182,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=69)** The best place to start is to document your journey and share what you learned along the way.
 >
-> **[1:14](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=74)** That could be in a written blog or video or live streaming or in a social media posts or pictures or whatever you like, whatever fits your work process.
+> **[1:14](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=74)** That could be in a written blog or video or [[Live Streaming]] or in a social media posts or pictures or whatever you like, whatever fits your work process.
 >
 > **[1:23](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=83)** The whole point is to write down what you learn, and then share it with the world.
 >
@@ -1226,7 +1208,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=138)** And I still do whenever I come across a new challenge.
 >
-> **[2:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=141)** The only difference is a lot of the time my format for documentation is now a LinkedIn learning course.
+> **[2:21](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=141)** The only difference is a lot of the time my format for documentation is now a [[LinkedIn]] learning course.
 >
 > **[2:26](https://www.linkedin.com/learning/search-techniques-for-web-developers/share-your-knowledge?u=76281980&t=146)** The second reason you should document what you learn is it becomes a resource for someone in the future.
 >
@@ -1250,7 +1232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[Google]] (1), [[Search]] (1), application (1), [[Live Streaming]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Live Streaming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is an  (1), is a  (1)
 > **UI Navigation:** go to (1)
@@ -1261,8 +1243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The end
-> [LinkedIn Learning](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)
+#### [The end](https://www.linkedin.com/learning/search-techniques-for-web-developers/the-end?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1292,7 +1273,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), next (1)
 > **CLI Commands:** find (4), make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)

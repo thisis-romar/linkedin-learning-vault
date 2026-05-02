@@ -90,8 +90,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make your systems better with infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
+#### [Make your systems better with infrastructure as code](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,13 +106,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=13)** What you need is
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=15)** - [Together] infrastructure as code.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=15)** - [Together] [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=17)** - Howdy, I'm Ernest Mueller.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=19)** - And I'm James Wickett.
 >
-> **[0:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=20)** - We first met while implementing DevOps at a large enterprise.
+> **[0:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=20)** - We first met while implementing [[DevOps]] at a large enterprise.
 >
 > **[0:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/make-your-systems-better-with-infrastructure-as-code?u=76281980&t=23)** - And we've been friends ever since.
 >
@@ -131,22 +130,21 @@ created: 2026-05-02
 > **Speakers:** - and (2), - if (1), - or (1), - slow (1), - well (1)
 > **Env Vars:** iac (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=0)** - This course is designed to introduce you to the basic concepts of infrastructure as code DevOps style, that means hot and sassy.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=0)** - This course is designed to introduce you to the basic concepts of [[Infrastructure as code (IaC)|infrastructure as code]] [[DevOps]] style, that means hot and sassy.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=9)** To get the most out of this course, you may want to watch the course DevOps Fundamentals here in the library for context.
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=15)** In that course, James and I discussed the foundations of DevOps and how the three major practice areas, infrastructure as code, continuous delivery, and site reliability engineering fit into it.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=15)** In that course, James and I discussed the foundations of DevOps and how the three major practice areas, infrastructure as code, [[Continuous Delivery (CD)|continuous delivery]], and site reliability engineering fit into it.
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=27)** This course drills down into infrastructure as code specifically to discuss it in depth.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=33)** To get the most from this course, you should be familiar with system admin basics, be able to use the command line and SSH, and be familiar with some sort of programming or scripting.
 >
-> **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=44)** We'll be using the Linux Command Line on the AWS Cloud and an Akaunting GitHub for our demos.
+> **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=44)** We'll be using the [[Linux]] Command Line on the AWS Cloud and an Akaunting [[GitHub]] for our demos.
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-you-need-to-know?u=76281980&t=49)** You should be able to reproduce it from your desktop client of choice.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[DevOps]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Engineering]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[DevOps]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Linux]] (1), [[GitHub]] (1)
 > **Tools:** command line (2), github (1)
 > **CLI Commands:** ssh (1), aws (1)
 > **Env Vars:** ssh (1), aws (1)
@@ -172,14 +170,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### It's all about the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
+#### [It's all about the cloud](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=0)** - Before we talk about the code part of infrastructure as code, we want to start out with this chapter talking about modern infrastructure and how it lends itself to automation.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=0)** - Before we talk about the code part of [[Infrastructure as code (IaC)|infrastructure as code]], we want to start out with this chapter talking about modern infrastructure and how it lends itself to automation.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=10)** In this video, we're going to talk about one of my favorite subjects, cloud computing.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=10)** In this video, we're going to talk about one of my favorite subjects, [[Cloud Computing]].
 >
 > **[0:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=16)** If you're familiar with using the cloud, this may just be a refresher for you, but we wanted to do some explanation for folks that haven't gotten to work with the cloud yet and may have only heard about it.
 >
@@ -191,23 +188,23 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=56)** And there are three general cloud service models.
 >
-> **[1:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=60)** Software as a service, or SaaS, is where an entire application is provided for you live from the internet.
+> **[1:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=60)** [[SaaS|Software as a service]], or [[SaaS]], is where an entire application is provided for you live from the internet.
 >
-> **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=67)** Salesforce, TurboTax, and Office 365 are examples of SaaS.
+> **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=67)** Salesforce, TurboTax, and [[Microsoft Office|Office]] 365 are examples of SaaS.
 >
-> **[1:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=72)** Platform as a service, or PaaS, is where you can deploy custom applications to the cloud platform without managing the underlying systems yourself.
+> **[1:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=72)** [[PaaS|Platform as a service]], or [[PaaS]], is where you can deploy custom applications to the cloud platform without managing the underlying systems yourself.
 >
-> **[1:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=82)** Google App Engine, Microsoft Azure App Service, and Pivotal Web Services or examples of public PaaSes.
+> **[1:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=82)** [[Google]] App Engine, [[Microsoft Azure]] App Service, and Pivotal Web Services or examples of public PaaSes.
 >
-> **[1:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=89)** Infrastructure as a service, pronounced I-A-A-S for obvious reasons, is where you get operating system level access to discrete systems in the cloud.
+> **[1:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=89)** [[IaaS|Infrastructure as a service]], pronounced I-A-A-S for obvious reasons, is where you get operating system level access to discrete systems in the cloud.
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=99)** These are usually VMs and not bare metal.
 >
-> **[1:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=102)** Google Compute Engine, Microsoft Azure Virtual Machines, and Amazon Web Services EC2 showcase IaaS offerings.
+> **[1:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=102)** Google Compute Engine, Microsoft Azure [[Virtual Machines]], and [[Amazon Web Services (AWS)|Amazon Web Services]] [[Amazon EC2|EC2]] showcase [[IaaS]] offerings.
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=111)** Of course, in the last decade plus cloud offerings have gotten more sophisticated and are part of practically everything.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=118)** Your Nest home thermostat, cell phone, Alexa, and so on all use cloud services.
+> **[1:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=118)** Your Nest home thermostat, cell phone, Alexa, and so on all use [[Cloud Services]].
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=124)** But this mysterious force that rules your life is really just servers in real world data centers.
 >
@@ -215,11 +212,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=139)** You can go sign up for an AWS account using their free tier or with a credit card, go into their EC2 Elastic Compute service, click to choose the size of the server you want, what operating system you want.
 >
-> **[2:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=151)** In about five minutes, you can have a Windows or Linux server of just about any size with as much storage as you want, even with GPUs and other high performance add-ons.
+> **[2:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=151)** In about five minutes, you can have a [[Windows]] or [[Linux]] server of just about any size with as much storage as you want, even with GPUs and other high performance add-ons.
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=161)** You can open it up to the whole internet to host a web server on, or keep it locked down for just your use.
 >
-> **[2:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=167)** But you can reach it from anywhere in the world that you can jack into cyberspace, as the kids say nowadays, The cloud providers can do this, because they have big data centers full of servers and storage around the world and they're just assigning one of them to you when you ask for it.
+> **[2:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=167)** But you can reach it from anywhere in the world that you can jack into cyberspace, as the kids say nowadays, The cloud providers can do this, because they have [[Big Data]] centers full of servers and storage around the world and they're just assigning one of them to you when you ask for it.
 >
 > **[3:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=182)** That's a big difference from the old days of fighting with a system admin team for six weeks to get three more servers into the data center.
 >
@@ -235,7 +232,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=221)** And that's the cloud in a nutshell.
 >
-> **[3:43](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=223)** Instead of buying your own hardware, waiting for it to get put into a data center and loaded up, and then depreciating it over time while you get sadder and sadder about its performance every year, you could just reach out, grab a resource of the size you want, get it right now, just pay for it while you use it.
+> **[3:43](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=223)** Instead of buying your own [[Hardware]], waiting for it to get put into a data center and loaded up, and then depreciating it over time while you get sadder and sadder about its performance every year, you could just reach out, grab a resource of the size you want, get it right now, just pay for it while you use it.
 >
 > **[4:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/it-s-all-about-the-cloud?u=76281980&t=240)** And maybe most importantly, to use the cloud, sure, you can use their UI or command line tools, but all the clouds have a fully featured API that you can integrate with your own tools or code.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), data (4), [[SaaS]] (2), [[Google]] (2), [[Microsoft Azure]] (2)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Google]] (2), [[Microsoft Azure]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** ec2 (2), aws (1), api (1)
 > **CLI Commands:** make (1), aws (1)
 > **Cross-References:** in the last (1), next video (1)
@@ -251,8 +248,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - before (1)
 
-#### Bare metal vs. cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980)
+#### [Bare metal vs. cloud](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=15)** - You can't beat the cloud's agility.
 >
-> **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=17)** Instead of waiting to buy hardware, get it put into a data center, and whatever annoying process your IT department ladles on top of that, you can get the servers you need with a click of a button, bit of typing at a command line or a brief lick of an API or whatever it is you do to an API.
+> **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=17)** Instead of waiting to buy [[Hardware]], get it put into a data center, and whatever annoying process your IT department ladles on top of that, you can get the servers you need with a click of a button, bit of typing at a command line or a brief lick of an API or whatever it is you do to an API.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=33)** - Okay, first of all, that's oddly disturbing.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=149)** I mean, you hear comedians all the time saying things like no one understands the cloud, and it's all this newfangled and scary thing.
 >
-> **[2:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=156)** - Remember, we're comparing this to on-premise system and network administration.
+> **[2:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=156)** - Remember, we're comparing this to on-premise system and [[Network Administration]].
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=161)** Pretty sure those standup comedians would be even more puzzled by InfiniBand networking.
 >
@@ -318,7 +314,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=190)** You can't get that in the cloud.
 >
-> **[3:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=192)** - Well, you'd be surprised, they have GPUs FPGAs, quantum computing, 5G edge compute and a lot of very diverse hardware in the cloud.
+> **[3:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=192)** - Well, you'd be surprised, they have GPUs FPGAs, [[Quantum Computing]], [[5G]] edge compute and a lot of very diverse hardware in the cloud.
 >
 > **[3:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/bare-metal-vs-cloud?u=76281980&t=201)** But yeah, if you have a lot of super custom hardware needs you'll still need to roll your own.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Hardware]] (6), data (4), api (2), power (2)
+> **Frameworks & Libraries:** [[Hardware]] (6), [[Network Administration]] (1), [[Quantum Computing]] (1), [[5G]] (1)
 > **Speakers:** - okay (7), - well (2), - the (1), - [announcer] (1), - you (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** api (2)
@@ -353,8 +349,7 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Analogies:** it's like (1)
 
-#### Not your mother's cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980)
+#### [Not your mother's cloud](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,23 +357,23 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=7)** Now at the dawn of cloud, that was enough but today the cloud is way more.
 >
-> **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=13)** Let's take a look at Azure's cloud offerings.
+> **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=13)** Let's take a look at [[Microsoft Azure|Azure]]'s cloud offerings.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=15)** As you can see, the choices are numerous.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=18)** Besides the basic services there's a long list of managed services.
 >
-> **[0:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=23)** You can get managed databases of any flavor from managed MySQL databases, to map reduce, to DNS, and CDNs, but it doesn't stop there.
+> **[0:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=23)** You can get managed [[Databases]] of any flavor from managed [[MySQL]] databases, to map reduce, to DNS, and CDNs, but it doesn't stop there.
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=33)** The options also include observability and security offerings.
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=37)** And this isn't limited to Microsoft.
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=37)** And this isn't limited to [[Microsoft]].
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=39)** Every major cloud provider, AWS, GCP, OCI, they all have a huge set of managed services that go beyond simple infrastructure.
 >
 > **[0:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=49)** The goal here is to provide specific functionality in a service that doesn't require the user to configure the lower level servers and other components in order to get their desire workload performed.
 >
-> **[1:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=60)** Here's a list of past services that Microsoft Azure recommends you use instead of building and configuring them manually, as you would in an on-premise data center.
+> **[1:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=60)** Here's a list of past services that [[Microsoft Azure]] recommends you use instead of building and configuring them manually, as you would in an on-premise data center.
 >
 > **[1:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=69)** And they can be used to form sophisticated systems all by themselves.
 >
@@ -386,11 +381,11 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=78)** It's completely composed of managed services.
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=81)** Azure Synapse Analytics is used to ingest the data and place it into Apache Spark pools.
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=81)** Azure Synapse Analytics is used to ingest the data and place it into [[Apache Spark]] pools.
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=88)** It enriches that data using Azure Cognitive Services Translator to translate text and Azure Maps to link data to geographical coordinates.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=98)** It stores the data in a serverless SQL pool inside Azure Synapse Analytics, and then makes it available to users via Power BI dashboards.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=98)** It stores the data in a serverless [[SQL]] pool inside Azure Synapse Analytics, and then makes it available to users via [[Microsoft Power BI|Power BI]] [[Dashboards]].
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/not-your-mother-s-cloud?u=76281980&t=108)** While this solution certainly uses servers and databases under the hood, you aren't interacting with them directly.
 >
@@ -402,15 +397,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cloud (5), [[Microsoft Azure|Azure]] (5), [[Databases]] (3), [[Analytics]] (3)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (5), [[Databases]] (3), [[Microsoft]] (2), [[MySQL]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** dns (1), aws (1), gcp (1), oci (1), sql (1)
 > **CLI Commands:** mysql (1), aws (1), apache (1)
 > **Best Practices:** you should always (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - the (1)
 
-#### Managed services vs. bare cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980)
+#### [Managed services vs. bare cloud](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -438,7 +432,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=68)** - Okay, sure, if you're one of the FAANG companies, you can worry about that, but 90% of the companies out there they don't really need that level of customization and no one really needs it for the majority of their services, just the key ones.
 >
-> **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=81)** Okay so in the case of Kubernetes would you rather run your own cluster and manage it and all the ins and outs of Kubernetes or would you rather use EKS from Amazon and get all the benefits without having to hire all the new staff Ernest?
+> **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=81)** Okay so in the case of [[Kubernetes]] would you rather run your own cluster and manage it and all the ins and outs of Kubernetes or would you rather use EKS from Amazon and get all the benefits without having to hire all the new staff Ernest?
 >
 > **[1:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=94)** - It's great if you want to use what the man wants you to use, what if they don't have the version or functionality or whatever you need?
 >
@@ -450,7 +444,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=135)** You pay for all that management they put on top of it.
 >
-> **[2:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=138)** In one shop I used MongoDB Atlas, their managed database service, and it was cool that I could upgrade versions or server sizes with the click of a button, but then they charged me out the nose for backups.
+> **[2:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=138)** In one shop I used [[MongoDB]] Atlas, their managed database service, and it was cool that I could upgrade versions or server sizes with the click of a button, but then they charged me out the nose for backups.
 >
 > **[2:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=150)** - Okay, definitely, but what could your engineering effort that you save do to accelerate the actual startup, you know and the success of it, and it's often worth money to get back all that engineering time.
 >
@@ -470,9 +464,9 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=203)** - I mean, it is, except for the harm it often does to those open source ecosystems.
 >
-> **[3:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=208)** The cloud providers have sometimes been fairly predatory in taking open source products and forking and monetizing them to the detriment of those communities health.
+> **[3:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=208)** The cloud providers have sometimes been fairly predatory in taking open source [[Microsoft Products|products]] and forking and monetizing them to the detriment of those communities health.
 >
-> **[3:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=217)** - Okay all right, out of everything you've said, you do have a point there, but as for the rest of your points about customizability and multi-cloud what percentage of the shops that you've worked at in the last 20 years, where they've really needed any of that, instead of just moving more quickly to market?
+> **[3:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=217)** - Okay all right, out of everything you've said, you do have a point there, but as for the [[Representational State Transfer (REST)|rest]] of your points about customizability and multi-cloud what percentage of the shops that you've worked at in the last 20 years, where they've really needed any of that, instead of just moving more quickly to market?
 >
 > **[3:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/managed-services-vs-bare-cloud?u=76281980&t=234)** - Well maybe 10%.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), database (6), [[Kubernetes]] (3), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[MongoDB]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - okay (8), - but (3), - well (2), - managed (1), - [narrator] (1)
 > **Env Vars:** api (1), faang (1), eks (1)
 > **Cross-References:** in the last (2)
@@ -490,8 +484,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
 
-#### Containers galore
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980)
+#### [Containers galore](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -499,23 +492,23 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=2)** Cloud is so early-2000s.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=4)** Containers are all the buzz right now, and they're a fundamental empowering technology for infrastructure as code.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=4)** Containers are all the buzz right now, and they're a fundamental empowering technology for [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=11)** So what is a container, you may ask?
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=14)** It's a lightweight, executable unit of software that packs up a system environment, application code, and dependencies such as binaries, libraries, and configuration files for easy deployment across different computing environments.
 >
-> **[0:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=29)** In other words, it's basically a way to run segmented mini systems on your Linux or Windows host system.
+> **[0:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=29)** In other words, it's basically a way to run segmented mini systems on your [[Linux]] or [[Windows]] host system.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=36)** I know, I know that sounds like a virtual machine, but containers only virtualize down to the level above the core operating system , while VMs virtualize all the way down to the hypervisor.
 >
-> **[0:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=48)** Because containers share the system's kernel, they boot fast and are more lightweight than a traditional virtual machine, but they do provide isolation so you can install packages and do system configuration restricted to the container.
+> **[0:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=48)** Because containers share the system's kernel, they boot fast and are more lightweight than a traditional virtual machine, but they do provide isolation so you can install packages and do [[System Configuration]] restricted to the container.
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=62)** In other words, they look like separate systems, for most purposes, from inside them.
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=67)** In fact, you don't need an operating system in your container.
 >
-> **[1:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=70)** Since it uses the underlying POSIX OS of the server, a container can just have, say, a Golang or Python interpreter as its base layer and be very slim.
+> **[1:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=70)** Since it uses the underlying POSIX OS of the server, a container can just have, say, a Golang or [[Python (Programming Language)|Python]] interpreter as its base layer and be very slim.
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=80)** Docker's the most popular container technology, but there are others like CoreOS rkt, containerd, and Red Hat CRI-O.
 >
@@ -525,7 +518,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=97)** Here is an example.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=98)** You just docker build this, and it starts by taking the latest Ubuntu base container off Docker Hub, which is a central Docker image repository with community contributed images.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=98)** You just docker build this, and it starts by taking the latest [[Ubuntu]] base container off Docker Hub, which is a central Docker image repository with community contributed images.
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=110)** Then it downloads, installs, and runs the NGINX web server on it and opens up port 80 to the outside network.
 >
@@ -533,19 +526,19 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=124)** You can then upload the image to a container image repository to be pulled down and used by developers and by production systems.
 >
-> **[2:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=133)** The popular open source system, Kubernetes, orchestrates containers en masse across multiple servers to form a whole networked architecture of many small services cooperating to form applications.
+> **[2:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=133)** The popular open source system, [[Kubernetes]], orchestrates containers en masse across multiple servers to form a whole networked architecture of many small services cooperating to form applications.
 >
-> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=145)** Here's an example: complex Kubernetes system with relatively small pieces of code, also called microservices, running in a variety of containers and pods across a set of nodes.
+> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=145)** Here's an example: complex Kubernetes system with relatively small pieces of code, also called [[Microservices]], running in a variety of containers and pods across a set of nodes.
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=157)** Kubernetes handles running the containers and moving them around on nodes for resilience and scaling.
 >
 > **[2:43](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=163)** And it also handles the network connectivity between services and from outside the system.
 >
-> **[2:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=169)** Because containers can be built quickly and easily from description files and carry their own environment along with them so that they can be run in development and production environments identically, they've become a popular base for application development, and they lend themselves very well to infrastructure as code.
+> **[2:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/containers-galore?u=76281980&t=169)** Because containers can be built quickly and easily from description files and carry their own environment along with them so that they can be run in development and production environments identically, they've become a popular base for [[Application Development]], and they lend themselves very well to infrastructure as code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), web (2), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Kubernetes]] (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Linux]] (1), [[Windows]] (1), [[System Configuration]] (1)
 > **CLI Commands:** docker (6), python (1), nginx (1)
 > **Definitions:** is a  (3), in other words (2), is an  (1)
 > **Env Vars:** posix (1), cri (1), nginx (1)
@@ -554,8 +547,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - now (1)
 
-#### VMs vs. containers
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980)
+#### [VMs vs. containers](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,7 +595,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=74)** Containers separate that out, so each application has just the environment it needs.
 >
-> **[1:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=79)** So you avoid version conflicts with things like Java, Python run times, and other dependencies.
+> **[1:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=79)** So you avoid version conflicts with things like [[Java]], [[Python (Programming Language)|Python]] run times, and other dependencies.
 >
 > **[1:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=84)** - Okay, but if you have a thousand containers instead of a hundred servers, isn't that just 10 times the maintenance burden?
 >
@@ -613,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=104)** You can think of them as much as thick processes than thin servers.
 >
-> **[1:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=108)** In the DevOps world, we often refer to the move to standardized servers as cattle, not pets.
+> **[1:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=108)** In the [[DevOps]] world, we often refer to the move to standardized servers as cattle, not pets.
 >
 > **[1:55](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=115)** Using that same analogy, you can think of a container as a specific packaged steak.
 >
@@ -635,13 +627,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=162)** Individual container images are immutable, and not intended to be changed, just new versions built whenever you need a patch system or application.
 >
-> **[2:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=171)** - Okay, but doesn't that expose the sanctity of my operating system configuration to the, I hate to say it, developers?
+> **[2:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=171)** - Okay, but doesn't that expose the sanctity of my operating [[System Configuration]] to the, I hate to say it, developers?
 >
 > **[2:57](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=177)** I mean, my inner sys admin says that's a bad thing.
 >
 > **[3:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=181)** - Yes, but it's really a good thing.
 >
-> **[3:03](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=183)** Traditional system administration relied on one set of people carefully configuring the systems, and another the applications.
+> **[3:03](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=183)** Traditional [[System Administration]] relied on one set of people carefully configuring the systems, and another the applications.
 >
 > **[3:11](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/vms-vs-containers?u=76281980&t=191)** 'Cause one day, somebody heard the phrase, separation of duties, skipped reading the definition, and decided that was the way to do it.
 >
@@ -671,19 +663,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), application (3), [[Security]] (2), data (1), [[Java]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Python (Programming Language)|Python]] (1), [[DevOps]] (1), [[System Configuration]] (1), [[System Administration]] (1)
 > **Speakers:** - okay (6), - well (3), - right (2), - i (1), - [speaker] (1)
 > **CLI Commands:** docker (3), python (1), snap (1), find (1)
 > **Cross-References:** later in (1), next video (1)
 
-#### Where'd my server go?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980)
+#### [Where'd my server go?](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=0)** - Let's move one layer past containers to serverless.
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=5)** Serverless computing is something you may have heard about but haven't tried out.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=5)** [[Serverless Computing]] is something you may have heard about but haven't tried out.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=10)** In this session, we're going to demystify the term serverless and dive into how it works.
 >
@@ -693,19 +684,19 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=24)** Some managed services bill themselves as serverless once they get to the level where you don't need to configure system parameters or stuff like that yourself.
 >
-> **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=33)** Some cloud databases and data pipeline services are frequently billed as serverless, but the real heart of serverless computing is functions as a service or FaaS.
+> **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=33)** Some cloud [[Databases]] and data pipeline services are frequently billed as serverless, but the real heart of serverless computing is functions as a service or FaaS.
 >
-> **[0:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=45)** Some examples of public cloud FaaS offerings are Amazon Lambda, Google Cloud Functions, and Azure Functions.
+> **[0:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=45)** Some examples of public cloud FaaS offerings are Amazon Lambda, [[Google Cloud Platform (GCP)|Google Cloud]] Functions, and [[Microsoft Azure|Azure]] Functions.
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=53)** There are also open-source serverless platforms that you have to install and do some of the server part yourself like Apache OpenWhisk, OpenFaaS, and Knative.
 >
-> **[1:03](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=63)** These usually work on top of Kubernetes or other container platforms.
+> **[1:03](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=63)** These usually work on top of [[Kubernetes]] or other container platforms.
 >
 > **[1:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=68)** Well, let's explain this with an example architecture.
 >
 > **[1:11](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=71)** On the left is a traditional web application architecture.
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=75)** A client talks literally to the web stack, and the web servers are running any number of services on them.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=75)** A client talks literally to the web stack, and the [[Web Servers]] are running any number of services on them.
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=81)** On the right is a serverless architecture.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=176)** It's based on a real insurance underwriting application that Ernest worked on that was completely serverless.
 >
-> **[3:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=182)** Web requests fired from a front end react application, and they came in through an API gateway to trigger specific functions like log in, generating new contract, viewing existing contracts and so on.
+> **[3:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=182)** Web requests fired from a front end [[React.js|react]] application, and they came in through an API gateway to trigger specific functions like log in, generating new contract, viewing existing contracts and so on.
 >
 > **[3:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-d-my-server-go?u=76281980&t=195)** Individual dedicated chunks of code, perform operations like saving information, generating a price quote, creating a pdf, and emailing the potential client.
 >
@@ -751,7 +742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), application (3), [[Serverless Computing]] (2), cloud (2), api (2)
+> **Frameworks & Libraries:** [[Serverless Computing]] (2), [[Databases]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Azure|Azure]] (1), [[Kubernetes]] (1)
 > **Env Vars:** api (2), http (1), aws (1)
 > **CLI Commands:** apache (1), find (1), aws (1)
 > **Definitions:** is a  (2), means that (1)
@@ -760,8 +751,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Serverless vs. servers
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980)
+#### [Serverless vs. servers](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -795,7 +785,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=33)** If your app isn't running, it isn't costing you anything.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=36)** Third, you're no longer dealing with package management or OS updates.
+> **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=36)** Third, you're no longer dealing with [[Package Management]] or OS updates.
 >
 > **[0:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=40)** It's really a beautiful thing.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=97)** - Well, I think you're at least partially right about the cost.
 >
-> **[1:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=100)** Unless you're running your own serverless platform like K Native on top of Kubernetes, but then you're doing all the work to running yourself.
+> **[1:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=100)** Unless you're running your own serverless platform like K Native on top of [[Kubernetes]], but then you're doing all the work to running yourself.
 >
 > **[1:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=108)** So, you know.
 >
@@ -847,7 +837,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=161)** Well, let's start with how people are using it.
 >
-> **[2:43](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=163)** In fact, in the last video, I showed how you had built out an entire application through linking a series of serverless functions and cloud services, and that was pretty cool.
+> **[2:43](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=163)** In fact, in the last video, I showed how you had built out an entire application through linking a series of serverless functions and [[Cloud Services]], and that was pretty cool.
 >
 > **[2:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=174)** - Thanks.
 >
@@ -867,7 +857,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=207)** - Okay, Ernest, here is something for you to consider.
 >
-> **[3:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=211)** When you have a server, whether it be a cloud VM or actual real hardware, or even a Kubernetes pod or node, what is it doing most of the time?
+> **[3:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=211)** When you have a server, whether it be a cloud VM or actual real [[Hardware]], or even a Kubernetes pod or node, what is it doing most of the time?
 >
 > **[3:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless-vs-servers?u=76281980&t=219)** - Well, most of the time, it's running my application, well, and a bunch of other stuff.
 >
@@ -889,7 +879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), web (3), application (3), aws (2), [[Kubernetes]] (2)
+> **Frameworks & Libraries:** [[Kubernetes]] (2), [[Package Management]] (1), [[Cloud Services]] (1), [[Hardware]] (1)
 > **Speakers:** - okay (6), - well (4), - i (2), - [speaker] (1), - oh (1)
 > **CLI Commands:** aws (2), make (1), node (1)
 > **Env Vars:** aws (2), api (1), http (1)
@@ -900,8 +890,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building the boxes and lines
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
+#### [Building the boxes and lines](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=1)** We've been talking a lot about the infrastructure itself, but you may be wondering, in the words of the great sainted Clara Peller, "Where's the beef?"
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=10)** Well, now we'll move on into the second phase of explaining infrastructure as code with infrastructure automation.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=10)** Well, now we'll move on into the second phase of explaining [[Infrastructure as code (IaC)|infrastructure as code]] with infrastructure automation.
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=17)** You can split automation frameworks into two general camps, historically: ones that configure the overall systems environment, creating networks and servers and such; and then, tools that configure the operating system on the boxes.
 >
@@ -917,7 +906,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=37)** This is why we started by going over cloud containers and serverless.
 >
-> **[0:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=41)** With traditional hardware, you pretty much need to set it all up manually.
+> **[0:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=41)** With traditional [[Hardware]], you pretty much need to set it all up manually.
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=46)** There are some tools to configure the boxes themselves and the network a bit, but the box and lines level of the system diagram is slow and physical.
 >
@@ -927,11 +916,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=76)** Each of the cloud providers has their own way to do this.
 >
-> **[1:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=79)** For example, AWS's CloudFormation is a way to describe a complete network of systems using JSON or YAML templates.
+> **[1:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=79)** For example, AWS's CloudFormation is a way to describe a complete network of systems using [[JSON]] or YAML templates.
 >
 > **[1:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=88)** You then use a command line tool or an API to feed that description into the cloud, and it makes it for you.
 >
-> **[1:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=94)** Here's an example CloudFormation file that describes creating a single EC2 virtual server, with variables for the machine image, instant size and such, and some quick commands to update the OS and start NGINX and boot.
+> **[1:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=94)** Here's an example CloudFormation file that describes creating a single [[Amazon EC2|EC2]] virtual server, with variables for the machine image, instant size and such, and some quick commands to update the OS and start NGINX and boot.
 >
 > **[1:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=109)** You just feed it in, and, bam, about five minutes later, you have a full running system in the cloud, just like you went and clicked in the EC2 console, but better because it's repeatable and you can do it 100 times simultaneously if you want.
 >
@@ -943,7 +932,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=137)** There are similar tools that try to provide a cloud agnostic solution.
 >
-> **[2:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=141)** Probably the most popular is HashiCorp's Terraform.
+> **[2:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=141)** Probably the most popular is HashiCorp's [[Terraform]].
 >
 > **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=145)** It has integration with most major cloud providers and a large library of pre-existing modules to make standard constructs like AWS EC2 instances.
 >
@@ -957,9 +946,9 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=170)** There are also plenty of code libraries you can use to build and manipulate cloud resources in various programming languages.
 >
-> **[2:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=178)** AWS provides the CDK, or Cloud Development Kit, which supports several languages.
+> **[2:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=178)** AWS provides the CDK, or [[Cloud Development]] Kit, which supports several languages.
 >
-> **[3:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=184)** A common solution here is Python's Boto library.
+> **[3:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=184)** A common solution here is [[Python (Programming Language)|Python]]'s Boto library.
 >
 > **[3:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=187)** Here's an example of the code to spin up an EC2 instance from within Python.
 >
@@ -967,13 +956,13 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=196)** You just add and change items organically from within your code.
 >
-> **[3:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=201)** In case you were wondering, yes, you can use these tools or similar ones to create the base systems environment for Kubernetes clusters and serverless architectures.
+> **[3:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=201)** In case you were wondering, yes, you can use these tools or similar ones to create the base systems environment for [[Kubernetes]] clusters and serverless architectures.
 >
 > **[3:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/building-the-boxes-and-lines?u=76281980&t=212)** We'll talk about the up and downsides of these approaches in our next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Amazon EC2|Ec2]] (4), aws (3), [[Automation]] (2), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (4), [[Python (Programming Language)|Python]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Hardware]] (1), [[JSON]] (1)
 > **Env Vars:** ec2 (4), aws (3), json (1), yaml (1), api (1)
 > **CLI Commands:** aws (3), python (2), nginx (1), terraform (1), make (1)
 > **Prerequisites:** configure (3)
@@ -982,14 +971,13 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Tools:** command line (1)
 
-#### Everything vs. Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980)
+#### [Everything vs. Terraform](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=0)** - There are many ways to create your network infrastructure from code.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=4)** - But there's only one right one, Terraform.
+> **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=4)** - But there's only one right one, [[Terraform]].
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=7)** - [Narrator] Everything versus Terraform.
 >
@@ -1007,7 +995,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=25)** - But what about the cloud provider specific solutions?
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=28)** Isn't AWS cloud formation optimized for AWS and Microsoft Arm templates optimized for Azure or at least they support all their new features?
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=28)** Isn't AWS cloud formation optimized for AWS and [[Microsoft]] Arm templates optimized for [[Microsoft Azure|Azure]] or at least they support all their new features?
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=39)** - So, not really.
 >
@@ -1045,7 +1033,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=126)** - But aren't you being all cloud-centric here?
 >
-> **[2:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=129)** What about on-prem hardware?
+> **[2:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=129)** What about on-prem [[Hardware]]?
 >
 > **[2:11](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=131)** - So that's a fair point.
 >
@@ -1085,37 +1073,36 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=196)** It has a lot of community and commercial support but I have to admit, I still miss the provisioning framework that we built together back in the day.
 >
-> **[3:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=204)** It built cloud infrastructure, but also did app deployment and rationalized runtime service dependencies.
+> **[3:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=204)** It built [[Cloud Infrastructure]], but also did app deployment and rationalized runtime service dependencies.
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=211)** - Well, I agree, and the one drawback I find in Terraform is the common flaw in all the available solutions, really.
 >
 > **[3:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=218)** There's a sharp separation between infrastructure provisioning and application deployment and runtime orchestration tools largely based on historical ops team versus dev team responsibilities.
 >
-> **[3:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=230)** And that's not very DevOps.
+> **[3:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=230)** And that's not very [[DevOps]].
 >
 > **[3:53](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-terraform?u=76281980&t=233)** - Double snap.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (16), cloud (9), aws (3), api (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Terraform]] (16), [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Hardware]] (1), [[Cloud Infrastructure]] (1)
 > **CLI Commands:** terraform (16), aws (3), snap (2), make (1), find (1)
 > **Speakers:** - but (3), - so (3), - i (3), - ah (2), - well (2)
 > **Env Vars:** aws (3), api (2), cdk (1)
 > **Analogies:** for example (1)
 > **Warnings:** gotcha (1)
 
-#### What's in the box?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980)
+#### [What's in the box?](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=0)** - Alright, let's get down into the details a bit more about what each box in our system is, how it gets created, and how it stays up to date.
 >
-> **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=9)** By box, we mean the individual running system, whether it's hardware, a virtual machine, a cloud instance, or a container.
+> **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=9)** By box, we mean the individual running system, whether it's [[Hardware]], a virtual machine, a cloud instance, or a container.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=18)** First, we'll start with defining a few key terms to help us think about our boxes and our system, and how they're configured to run both initially and over time.
 >
-> **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=27)** This process is generally known as configuration management.
+> **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=27)** This process is generally known as [[Configuration Management]].
 >
 > **[0:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=31)** Provisioning is the process of making a server or node ready for operation, including installing the OS, system services, and establishing network connectivity.
 >
@@ -1163,11 +1150,11 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=194)** The point is that the orchestration system needs to give you ability to roll out changes of any type while minimizing downtime and customer disruption.
 >
-> **[3:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=203)** Tools like Ansible and Rundeck let you construct workflows to operate on your system in an orchestrated manner.
+> **[3:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=203)** Tools like [[Ansible]] and Rundeck let you construct workflows to operate on your system in an orchestrated manner.
 >
-> **[3:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=210)** And newer tools like Kubernetes promote different models of orchestrated deployments with containers.
+> **[3:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=210)** And newer tools like [[Kubernetes]] promote different models of orchestrated deployments with containers.
 >
-> **[3:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=215)** Now these are the building blocks of configuration management using infrastructure as code.
+> **[3:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=215)** Now these are the building blocks of configuration management using [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[3:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-s-in-the-box?u=76281980&t=221)** But you may already be wondering how exactly to use them.
 >
@@ -1177,7 +1164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), [[Orchestration]] (4), cloud (3), [[Configuration Management]] (3), node (2)
+> **Frameworks & Libraries:** [[Configuration Management]] (3), [[Hardware]] (1), [[Ansible]] (1), [[Kubernetes]] (1), [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **CLI Commands:** node (2), make (1), apache (1), yum (1), ansible (1)
 > **Prerequisites:** install (3)
 > **Definitions:** known as (1), is a  (1)
@@ -1186,8 +1173,7 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Analogies:** for example (1)
 
-#### Declarative vs. imperative
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980)
+#### [Declarative vs. imperative](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1203,7 +1189,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=11)** - [Announcer] Declarative versus Imperative, fight!
 >
-> **[0:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=14)** - There are two main options for how a configuration management system works: declarative and imperative.
+> **[0:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=14)** - There are two main options for how a [[Configuration Management]] system works: declarative and imperative.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=20)** In a declarative approach, developers specify the desired state and let configuration management determine how best to achieve it.
 >
@@ -1225,7 +1211,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=67)** The imperative tools are more expressive and allow the developer to perform complex, conditional logic in the system.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=74)** Think of this as something like Ansible, Salt, Rundeck or even Shell script.
+> **[1:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=74)** Think of this as something like [[Ansible]], Salt, Rundeck or even Shell script.
 >
 > **[1:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=79)** They're a lot more explicit about the resources they manage and they give the developer full control over how the system changes are applied.
 >
@@ -1247,7 +1233,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=121)** - Well, that's the theory.
 >
-> **[2:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=122)** Declarative tools arose in the early days of DevOps to make configuration management less bespoke and more standard.
+> **[2:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=122)** Declarative tools arose in the early days of [[DevOps]] to make configuration management less bespoke and more standard.
 >
 > **[2:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=129)** And they work well in desktop or lab environments where you don't really need control, you just want all the boxes to upgrade themselves at some point.
 >
@@ -1283,7 +1269,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=225)** The good old days.
 >
-> **[3:46](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=226)** I remember our app server cluster well with 30 Java applications on it.
+> **[3:46](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=226)** I remember our app server cluster well with 30 [[Java]] applications on it.
 >
 > **[3:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=231)** - Yeah. I thought the pages would never end, but anyway, we have much less complex individual systems.
 >
@@ -1297,7 +1283,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=256)** It's so easy to lose track of things if you're just making a single imperative change.
 >
-> **[4:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=262)** - True. The good thing about cloud infrastructure is that it has a single standard A-P-I to use to control it.
+> **[4:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=262)** - True. The good thing about [[Cloud Infrastructure]] is that it has a single standard A-P-I to use to control it.
 >
 > **[4:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=268)** And then it's more of a solved problem to instantiate a declarative model.
 >
@@ -1311,7 +1297,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=296)** That's what I see people doing, too.
 >
-> **[4:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=298)** A declarative tool like Terraform is the current favorite for infrastructure provisioning and then for systems, an imperative tool like Ansible, or even just a couple lines of Shell, if it's a container, it seems to be the lead option there.
+> **[4:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=298)** A declarative tool like [[Terraform]] is the current favorite for infrastructure provisioning and then for systems, an imperative tool like Ansible, or even just a couple lines of Shell, if it's a container, it seems to be the lead option there.
 >
 > **[5:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/declarative-vs-imperative?u=76281980&t=312)** - It still seems like there could be a better solution, though.
 >
@@ -1331,14 +1317,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Ansible]] (2), [[Orchestration]] (2), [[DevOps]] (1), database (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (4), [[Ansible]] (2), [[DevOps]] (1), [[Java]] (1), [[Cloud Infrastructure]] (1)
 > **Speakers:** - ah (4), - it (3), - i (2), - okay (2), - you (2)
 > **CLI Commands:** ansible (2), make (2), find (2), terraform (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Definitions:** is a  (1)
 
-#### Everything vs. immutable
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980)
+#### [Everything vs. immutable](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1379,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=112)** If you do the install once, to immutable artifact and deploy that, you're actually doing a lot less work.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=118)** - Okay, I seem to remember a classic DevOps article by Luke Kanies, called Golden Image or Foil Ball.
+> **[1:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=118)** - Okay, I seem to remember a classic [[DevOps]] article by Luke Kanies, called Golden Image or Foil Ball.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=127)** That showed how hard it was to manage images and that you should use CM tools, though.
 >
@@ -1414,7 +1399,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=156)** And the tools to manage them exist now.
 >
-> **[2:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=159)** Furthermore, like we've been talking about, the move to microservices and modern scaling tend to putting a limited load out on each given system, so that they're very specific in their role.
+> **[2:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=159)** Furthermore, like we've been talking about, the move to [[Microservices]] and modern scaling tend to putting a limited load out on each given system, so that they're very specific in their role.
 >
 > **[2:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=171)** If you can track the compiled artifacts of your code you can track the compiled artifacts of your infrastructure.
 >
@@ -1430,7 +1415,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=190)** Plenty of people run redundant sets of database servers that you can roll.
 >
-> **[3:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=194)** MongoDB is great for this.
+> **[3:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=194)** [[MongoDB]] is great for this.
 >
 > **[3:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=196)** Or database engines in a container, that mount their storage on a separate drive.
 >
@@ -1462,7 +1447,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=257)** Most people don't immutably deploy things like their base VPC network, but do use baked system images and containers and orchestrate from there.
 >
-> **[4:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=267)** Kubernetes is kind of the poster child for this.
+> **[4:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=267)** [[Kubernetes]] is kind of the poster child for this.
 >
 > **[4:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=270)** You have a core node image and containers.
 >
@@ -1470,7 +1455,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=278)** - Okay, I see where you're coming from.
 >
-> **[4:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=280)** It's just such a big change from what we all used to do in system administration.
+> **[4:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=280)** It's just such a big change from what we all used to do in [[System Administration]].
 >
 > **[4:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/everything-vs-immutable?u=76281980&t=285)** - I feel you.
 >
@@ -1510,7 +1495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), database (3), [[DevOps]] (1), [[Microservices]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (1), [[Microservices]] (1), [[MongoDB]] (1), [[Kubernetes]] (1), [[System Administration]] (1)
 > **Speakers:** - well (5), - okay (4), - i (3), - but (3), - and (2)
 > **CLI Commands:** make (6), docker (2), apache (2), snap (1), node (1)
 > **Env Vars:** vpc (2)
@@ -1524,36 +1509,35 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Provisioning lab overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
+#### [Provisioning lab overview](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=0)** - In this chapter, we're going to walk through a lab environment built with a variety of infrastructure automation tools, working together to create a complete working environment.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=10)** This lab is not an end-to-end walkthrough of how to install and configure each of these tools and how to write Terraform code, Ansible playbooks, and so on.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=10)** This lab is not an end-to-end walkthrough of how to install and configure each of these tools and how to write [[Terraform]] code, [[Ansible]] playbooks, and so on.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=19)** There are entire courses here in the library that'll walk you through setting up and learning these tools.
 >
-> **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=25)** Instead, our goal is to illustrate the concepts we've talked about in the previous chapters and let you see what infrastructure as code looks like and how it works in practice.
+> **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=25)** Instead, our goal is to illustrate the concepts we've talked about in the previous chapters and let you see what [[Infrastructure as code (IaC)|infrastructure as code]] looks like and how it works in practice.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=35)** Now, having said that, if you want to try to follow along, we have a detailed guide on exactly how we set up our lab environment included in the class materials.
 >
-> **[0:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=45)** You'll need a Mac or Linux desktop system or a Windows system running Windows subsystem for Linux, or WSL2, installed.
+> **[0:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=45)** You'll need a Mac or [[Linux]] desktop system or a [[Windows]] system running Windows subsystem for Linux, or WSL2, installed.
 >
 > **[0:53](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=53)** But all you really need to do from your local system is generate an SSH key and SSH into a cloud server you create.
 >
-> **[1:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=61)** You'll also need an Amazon Web Services account with a credit card attached as we'll be spinning up a couple dollars an hour worth of infrastructure.
+> **[1:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=61)** You'll also need an [[Amazon Web Services (AWS)|Amazon Web Services]] account with a credit card attached as we'll be spinning up a couple dollars an hour worth of infrastructure.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=69)** We're going to use an open source project called kubespray available on GitHub to create an AWS cloud infrastructure using Terraform.
+> **[1:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=69)** We're going to use an open source project called kubespray available on [[GitHub]] to create an AWS [[Cloud Infrastructure]] using Terraform.
 >
-> **[1:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=78)** Then we'll install Kubernetes on it using Ansible, getting it ready for us to install our own application.
+> **[1:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=78)** Then we'll install [[Kubernetes]] on it using Ansible, getting it ready for us to install our own application.
 >
 > **[1:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=85)** I'll walk through the infrastructure setup and then James will walk through the application deployment options.
 >
 > **[1:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=90)** And we're not just making a play infrastructure.
 >
-> **[1:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=93)** We'll be creating a redundant infrastructure with appropriate network security in the cloud.
+> **[1:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=93)** We'll be creating a redundant infrastructure with appropriate [[Network Security]] in the cloud.
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/provisioning-lab-overview?u=76281980&t=98)** We'll take it step by step, though.
 >
@@ -1567,35 +1551,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (3), cloud (3), [[Terraform]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Linux]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Terraform]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Linux]] (2), [[Windows]] (2)
 > **CLI Commands:** ansible (3), terraform (2), ssh (2), aws (2)
 > **Prerequisites:** install (3), set up (2), configure (1), you'll need (1), setup (1)
 > **Env Vars:** ssh (2), aws (2), wsl2 (1)
 > **Tools:** github (1)
 > **Speakers:** - in (1)
 
-#### AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980)
+#### [AWS](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=0)** - [Instructor] Welcome to "The Provisioning Lab."
 >
-> **[0:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=2)** If you already know how to use Amazon Web Services, you can skip to the next video, but I wanted to make sure that everyone's following along when we make our infrastructure in Terraform and go into AWS to inspect it.
+> **[0:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=2)** If you already know how to use [[Amazon Web Services (AWS)|Amazon Web Services]], you can skip to the next video, but I wanted to make sure that everyone's following along when we make our infrastructure in [[Terraform]] and go into AWS to inspect it.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=14)** Here, we're at the Amazon Web Services homepage, aws.[amazon.com](https://amazon.com).
 >
 > **[0:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=20)** If you haven't created an AWS account yet, this orange button in the top right will offer you a "Create a new AWS account" option.
 >
-> **[0:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=28)** In my case, my Alexa's been listening to my every word and knows that I already have one, so it just tells me to log onto the console.
+> **[0:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=28)** In my case, my Alexa's been listening to my every [[Microsoft Word|word]] and knows that I already have one, so it just tells me to log onto the console.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=36)** That's just a little joke, Alexa. Please don't hurt me.
 >
 > **[0:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=39)** So now, we're in the AWS console.
 >
-> **[0:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=42)** Most things you can do in here you can also do via the AWS Command Line Interface tool or the API, but it's easier to illustrate visually here, so we'll leave the CLI and API for later.
+> **[0:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=42)** Most things you can do in here you can also do via the AWS Command Line Interface tool or the API, but it's easier to illustrate visually here, so we'll leave the [[CLI]] and API for later.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=54)** Remember, this lab isn't a full walkthrough of AWS, but if you've just signed up for an AWS account and you're logged in as the root account, you're going to want to go into Security Credentials, set up multifactor authentication on that account, create a new IAM admin account, I've made one called "emueller" that I've given administrative rights, and then log out as the root account, log in as your new IM admin account, set up multifactor authentication on that, and then you can set up the access keys that you're going to use to programmatically access your account over the course of the lab, but using the root account is the number one security risk in AWS.
+> **[0:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=54)** Remember, this lab isn't a full walkthrough of AWS, but if you've just signed up for an AWS account and you're logged in as the root account, you're going to want to go into Security Credentials, set up multifactor authentication on that account, create a new IAM admin account, I've made one called "emueller" that I've given administrative rights, and then log out as the root account, log in as your new IM admin account, set up multifactor authentication on that, and then you can set up the access keys that you're going to use to programmatically access your account over the course of the lab, but using the root account is the number one [[Security Risk]] in AWS.
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=99)** You're going to want to lock that one away in a box for a rainy day.
 >
@@ -1605,9 +1588,9 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=111)** Here's the massive list of services available in AWS.
 >
-> **[1:55](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=115)** Everything from compute and storage and online databases, to fancier things like machine learning services, game development, all sorts of things, but what we're going to go look at is under Compute.
+> **[1:55](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=115)** Everything from compute and storage and online [[Databases]], to fancier things like machine learning services, [[Game Development]], all sorts of things, but what we're going to go look at is under Compute.
 >
-> **[2:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=133)** EC2, which stands for Elastic Compute Cloud, this is where you go to run virtual servers in the cloud.
+> **[2:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=133)** [[Amazon EC2|EC2]], which stands for Elastic Compute Cloud, this is where you go to run virtual servers in the cloud.
 >
 > **[2:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=140)** So, there's only so easy that Amazon can make running a server, so you'll see here in the sidebar all sorts of options for manipulating images, storage, networking, security, and so on, but you can get started with just saying defaults.
 >
@@ -1633,11 +1616,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=209)** There are all of the common operating systems represented, thousands of community-contributed images, and you can even create your own.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=219)** I'm going to pick Ubuntu 22.04.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=219)** I'm going to pick [[Ubuntu]] 22.04.
 >
 > **[3:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=222)** Then, you pick an instance type.
 >
-> **[3:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=224)** This is essentially the hardware size of the virtual server you're going to make.
+> **[3:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=224)** This is essentially the [[Hardware]] size of the virtual server you're going to make.
 >
 > **[3:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=229)** This can be anything from a tiny micro instance on through a bunch of larger options and then all the way down to giant, bare-metal instances with 48 CPUs and 384 gigs of memory.
 >
@@ -1647,7 +1630,7 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=256)** Now, I'm cheating a little bit because you have to create this locally and then import it, but instructions for that are in the lab materials.
 >
-> **[4:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=265)** Then, you set up any other options like network security.
+> **[4:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=265)** Then, you set up any other options like [[Network Security]].
 >
 > **[4:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/aws?u=76281980&t=269)** I'm going to let us SSH in from anywhere to make it easy to connect, and then you have a bunch of other options, how much storage, advanced details, but I'm just going to take the defaults, and then we go over here and we say "Launch Instance," and it says it has started to launch it.
 >
@@ -1693,7 +1676,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (10), [[Security]] (5), next (4), cloud (4), [[Amazon Web Services (AWS)|Amazon web services]] (2)
+> **Frameworks & Libraries:** [[Amazon Web Services (AWS)|Amazon web services]] (2), [[Terraform]] (2), [[Security Risk]] (2), [[Amazon EC2|Ec2]] (2), [[Ubuntu]] (2)
 > **CLI Commands:** aws (10), make (6), ssh (3), terraform (2)
 > **Env Vars:** aws (9), ssh (3), api (2), ec2 (2), cli (1)
 > **UI Navigation:** go to (2), in the sidebar (1), switch to (1), click on (1)
@@ -1702,22 +1685,21 @@ created: 2026-05-02
 > **Cross-References:** next video (2)
 > **URLs:** [amazon.com](https://amazon.com) (1)
 
-#### Terraform
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980)
+#### [Terraform](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=0)** - [Instructor] Time for some fun using Terraform for infrastructure provisioning.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=0)** - [Instructor] Time for some fun using [[Terraform]] for infrastructure provisioning.
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=4)** First, let's look in our Amazon console.
 >
-> **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=7)** Oh, look, under EC2, I've got a bunch of running servers prepared to become part of a Kubernetes cluster.
+> **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=7)** Oh, look, under [[Amazon EC2|EC2]], I've got a bunch of running servers prepared to become part of a [[Kubernetes]] cluster.
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=13)** So, you've got some running cloud servers.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=15)** "So what?" you ask. We did that in the previous lab.
 >
-> **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=19)** Well, the spiffy thing here is that these are all generated from infrastructure as code using Terraform.
+> **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=19)** Well, the spiffy thing here is that these are all generated from [[Infrastructure as code (IaC)|infrastructure as code]] using Terraform.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=25)** Let's go look at that Terraform code.
 >
@@ -1757,7 +1739,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=175)** So every single asset that it made, it has all of the AWS details of what it did and what it believes are running.
 >
-> **[3:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=184)** You can also store this state remotely in databases or cloud storage.
+> **[3:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=184)** You can also store this state remotely in [[Databases]] or [[Cloud Storage]].
 >
 > **[3:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/terraform?u=76281980&t=188)** You always want to do that for a production system, but for this, I'm just saving it here in our code directory.
 >
@@ -1803,7 +1785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (19), [[Kubernetes]] (6), aws (6), cloud (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2)
+> **Frameworks & Libraries:** [[Terraform]] (19), [[Kubernetes]] (6), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Amazon EC2|Ec2]] (1), [[Databases]] (1)
 > **CLI Commands:** terraform (19), aws (6), make (5)
 > **Env Vars:** aws (5), vpc (2), ec2 (1)
 > **Tools:** aws console (2), command line (1)
@@ -1812,22 +1794,21 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** refers to (1)
 
-#### Ansible
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980)
+#### [Ansible](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=0)** - [Instructor] We've provisioned some infrastructure, but what about configuration management for the software?
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=0)** - [Instructor] We've provisioned some infrastructure, but what about [[Configuration Management]] for the software?
 >
-> **[0:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=5)** We made servers, but Kubernetes isn't just automatically running on them.
+> **[0:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=5)** We made servers, but [[Kubernetes]] isn't just automatically running on them.
 >
-> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=10)** So now we're going to use the other part of kube spray, the Ansible playbooks, that actually install Kubernetes.
+> **[0:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=10)** So now we're going to use the other part of kube spray, the [[Ansible]] playbooks, that actually install Kubernetes.
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=17)** Let's take a look at one of the simplest playbooks included, the one that checks the Ansible version.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=24)** As you can see this playbook, it checks the Ansible version.
 >
-> **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=27)** It does a couple other things like checking the Python and Jinja versions to make sure that, you know, it can run on this system.
+> **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=27)** It does a couple other things like checking the [[Python (Programming Language)|Python]] and Jinja versions to make sure that, you know, it can run on this system.
 >
 > **[0:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=35)** So let's run it.
 >
@@ -1867,7 +1848,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=158)** All right, so let's talk about running Ansible on remote servers.
 >
-> **[2:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=162)** So first, let's look at the inventory file that our Terraform made.
+> **[2:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=162)** So first, let's look at the inventory file that our [[Terraform]] made.
 >
 > **[2:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ansible?u=76281980&t=167)** If you'll recall, when we ran the Terraform, each time it would output this inventory file that has the host names and IP addresses of all the components.
 >
@@ -1944,8 +1925,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980)
+#### [Docker](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1963,7 +1943,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=27)** So let's leave the desktop view and head on over to the command line and make our image.
 >
-> **[0:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=32)** Now I'm in the Word-cloud generator GitHub repository which is a GitHub repo and features a Go Lang web application I wrote for the LinkedIn Learning classes.
+> **[0:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=32)** Now I'm in the [[Microsoft Word|Word]]-cloud generator [[GitHub]] repository which is a GitHub repo and features a Go Lang web application I wrote for the [[LinkedIn]] Learning classes.
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=41)** It takes text and turns it into, you guessed it, a word-cloud.
 >
@@ -1983,13 +1963,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=81)** I'm building on an M2 Mac which uses an ARM 64 architecture but most servers are Intel or AMD based, which is AMD 64.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=90)** So we can use this Docker container in Earnest Kubernetes cluster.
+> **[1:30](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=90)** So we can use this Docker container in Earnest [[Kubernetes]] cluster.
 >
 > **[1:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=93)** In the next video, we'll use the Buildx Cross Architecture build tool to build it for AMD64 as well.
 >
 > **[1:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=101)** So let's get back to the build, it first runs build before doing any Docker steps.
 >
-> **[1:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=105)** It runs for Linux, Windows, and Mac.
+> **[1:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=105)** It runs for [[Linux]], [[Windows]], and Mac.
 >
 > **[1:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/docker?u=76281980&t=110)** Once we have our artifact for the word-cloud generator app, now we have to put it inside of a container.
 >
@@ -2093,7 +2073,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), cloud (6), application (5), web application (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (6), [[Linux]] (3), [[GitHub]] (2), [[LinkedIn]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** docker (31), make (6)
 > **Tools:** docker desktop (3), command line (3), vim (3), github (2)
 > **Env Vars:** arm (2), amd (2), amd64 (1)
@@ -2102,12 +2082,11 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Exercise Files:** github repo (1)
 
-#### Helm charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980)
+#### [Helm charts](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=1)** - [Instructor] Now that James has told you about Docker containers let's get an application deployed onto our Kubernetes cluster.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=1)** - [Instructor] Now that James has told you about Docker containers let's get an application deployed onto our [[Kubernetes]] cluster.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=7)** It's sitting here empty except for all the default services.
 >
@@ -2115,11 +2094,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=13)** So we could do this by hand, but we're not animals, right?
 >
-> **[0:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=16)** This is an infrastructure as code course.
+> **[0:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=16)** This is an [[Infrastructure as code (IaC)|infrastructure as code]] course.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=18)** So we're going to use IAC to deploy our applications as well.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=22)** In the cloud native ecosystem, Helm charts are a popular way of deploying applications.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=22)** In the cloud native ecosystem, [[Helm]] charts are a popular way of deploying applications.
 >
 > **[0:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=28)** This is the Helm homepage, helm.sh.
 >
@@ -2135,7 +2114,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=62)** And as you can see, there are a lot of Helm charts in here for open source projects.
 >
-> **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=67)** Everything from Airflow and Apache, down to WordPress and Zookeeper.
+> **[1:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=67)** Everything from Airflow and Apache, down to [[WordPress]] and Zookeeper.
 >
 > **[1:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=73)** So let's download one and take a look at it.
 >
@@ -2147,7 +2126,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=100)** So now if we go into our Helm chart directory you could see a number of files.
 >
-> **[1:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=107)** So the values.yaml is very similar to the terraform.tfvars file in that this has a bunch of top-level settings to describe how you want to configure your Nginx server.
+> **[1:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=107)** So the values.yaml is very similar to the [[Terraform]].tfvars file in that this has a bunch of top-level settings to describe how you want to configure your Nginx server.
 >
 > **[2:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=127)** It has a whole bunch of them because even a simple thing like a web server, you can set a lot of different things.
 >
@@ -2165,7 +2144,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=187)** So let's forget Nginx, and let's make our own Helm chart.
 >
-> **[3:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=192)** And we'll use it to deploy James' word cloud generator application.
+> **[3:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=192)** And we'll use it to deploy James' [[Microsoft Word|word]] cloud generator application.
 >
 > **[3:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=197)** So Helm can create a stub chart for us.
 >
@@ -2257,7 +2236,7 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=452)** So now let's get fancy and try running this in a browser.
 >
-> **[7:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=461)** All right, so I'm using Google Chrome.
+> **[7:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=461)** All right, so I'm using [[Google]] Chrome.
 >
 > **[7:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=465)** We're going to put in that ELB address with port 8888.
 >
@@ -2273,13 +2252,13 @@ created: 2026-05-02
 >
 > **[8:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=494)** And we built each layer using infrastructure as code.
 >
-> **[8:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=499)** One parting note, you've seen how much the community is already created out there in GitHub, Docker Hub, the Terraform Registry of Modules, Helm repositories, all great learning resources.
+> **[8:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=499)** One parting note, you've seen how much the community is already created out there in [[GitHub]], Docker Hub, the Terraform Registry of Modules, Helm repositories, all great learning resources.
 >
 > **[8:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/helm-charts?u=76281980&t=511)** Don't just copy and use things blindly, but don't be afraid of reusing and eventually contributing to these high quality community assets.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Helm]] (23), cloud (7), application (5), [[Kubernetes]] (5), [[Microsoft Word|Word]] (5)
+> **Frameworks & Libraries:** [[Helm]] (23), [[Kubernetes]] (5), [[Microsoft Word|Word]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Terraform]] (2)
 > **CLI Commands:** nginx (7), make (7), docker (2), terraform (2), find (1)
 > **File Paths:** values.yaml (2), helm.sh (1), deployment.yaml (1)
 > **Env Vars:** iac (1), tar (1), amd (1), elb (1)
@@ -2288,8 +2267,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Exercise Files:** template (1)
 
-#### Serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980)
+#### [Serverless](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,7 +2291,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=44)** But as you can see, there are a lot of options for setting up the data stack as well.
 >
-> **[0:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=48)** All the components you need to run your application can be configured with the framework much like Ernest showed with Terraform.
+> **[0:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=48)** All the components you need to run your application can be configured with the framework much like Ernest showed with [[Terraform]].
 >
 > **[0:59](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=59)** Now let's give our Serverless app a name.
 >
@@ -2377,7 +2355,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=199)** Okay, now I'm going to switch back to the command line and let's change what our app does and give it a new message for that HTTP GET.
 >
-> **[3:26](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=206)** So I'm just going to say, "hi LinkedIn Learning!"
+> **[3:26](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=206)** So I'm just going to say, "hi [[LinkedIn]] Learning!"
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=211)** And we're going to write that.
 >
@@ -2397,7 +2375,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=246)** Big bursts of traffic can be handled this way.
 >
-> **[4:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=249)** And we did all this without creating virtual machines or Kubernetes pods or any infrastructure.
+> **[4:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=249)** And we did all this without creating [[Virtual Machines]] or [[Kubernetes]] pods or any infrastructure.
 >
 > **[4:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/serverless?u=76281980&t=254)** We tapped into our provider's services and we get usage-based billing on top.
 >
@@ -2407,7 +2385,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), aws (4), api (4), traffic (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Terraform]] (1), [[Virtual Machines]] (1), [[Kubernetes]] (1)
 > **Env Vars:** aws (4), api (3), http (3), url (2), sam (1)
 > **CLI Commands:** aws (4), node (1), terraform (1)
 > **Tools:** command line (3)
@@ -2421,14 +2399,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is infrastructure as code?
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
+#### [What is infrastructure as code?](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=0)** - By now in the course, you've seen how our ability to use infrastructure as code is influenced by the kind of systems we're automating, whether cloud or virtual machines or containers or serverless.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=0)** - By now in the course, you've seen how our ability to use [[Infrastructure as code (IaC)|infrastructure as code]] is influenced by the kind of systems we're automating, whether cloud or [[Virtual Machines]] or containers or serverless.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=12)** - We've also walked through some examples using technologies like Docker, AWS, Kubernetes, and Terraform.
+> **[0:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=12)** - We've also walked through some examples using technologies like Docker, AWS, [[Kubernetes]], and [[Terraform]].
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=19)** But we really haven't addressed the implications of infrastructure as code.
 >
@@ -2442,7 +2419,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=38)** - In the next few videos, we'll cover how treating infrastructure as code means we can do all the things that we can do for application code, but for our infrastructure.
 >
-> **[0:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=47)** - In the "Infrastructure as Code" book by Keif Morris, he defines infrastructure as code as an approach to infrastructure automation based on practices from software development.
+> **[0:47](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=47)** - In the "Infrastructure as Code" book by Keif Morris, he defines infrastructure as code as an approach to infrastructure automation based on practices from [[Software Development]].
 >
 > **[0:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=58)** The emphasis is on consistent repeatable code for provisioning and changing systems and their configuration.
 >
@@ -2450,7 +2427,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=72)** But what does it mean to be treated as code?
 >
-> **[1:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=75)** - We have a saying in DevOps, servers should be cattle, not pets.
+> **[1:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=75)** - We have a saying in [[DevOps]], servers should be cattle, not pets.
 >
 > **[1:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=80)** You don't handcraft them and cater to their unique needs.
 >
@@ -2484,11 +2461,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=156)** - Yeah, we lost at least one pager from an on-call pager rage incident for sure.
 >
-> **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=161)** - That wasn't me, you know, but so later when we formed a new team that we were building cloud-based SaaS products, we agreed that our first priority had to be the implementation of a model-driven system that we would use to create and operate our systems and applications.
+> **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=161)** - That wasn't me, you know, but so later when we formed a new team that we were building cloud-based [[SaaS]] [[Microsoft Products|products]], we agreed that our first priority had to be the implementation of a model-driven system that we would use to create and operate our systems and applications.
 >
 > **[2:57](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=177)** Even though, you know, we knew it was going to take more time to get going.
 >
-> **[3:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=181)** - We built a tool that would simply take models that devs and ops collaborated on in source control, instantiate them in the Amazon and Azure Clouds, deploy code and dynamically hook up services to each other in a pre-production environment first for testing naturally.
+> **[3:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=181)** - We built a tool that would simply take models that devs and ops collaborated on in source control, instantiate them in the Amazon and [[Microsoft Azure|Azure]] Clouds, deploy code and dynamically hook up services to each other in a pre-production environment first for testing naturally.
 >
 > **[3:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=197)** - The difference was amazing.
 >
@@ -2496,24 +2473,23 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=211)** - In treating our infrastructure like it was code was the secret sauce that made it work.
 >
-> **[3:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=216)** - Now, over the next few videos, we discuss how that works in practice as we touch on version control, artifacts, testing, using CI/CD and organizing our teams around the patterns and principles that developers use.
+> **[3:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/what-is-infrastructure-as-code?u=76281980&t=216)** - Now, over the next few videos, we discuss how that works in practice as we touch on [[Version Control]], artifacts, testing, using CI/CD and organizing our teams around the patterns and principles that developers use.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (7), cloud (2), web (2), next (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (7), [[Virtual Machines]] (1), [[Kubernetes]] (1), [[Terraform]] (1), [[Software Development]] (1)
 > **Speakers:** - we (3), - in (3), - so (3), - yeah (2), - by (1)
 > **CLI Commands:** docker (1), aws (1), terraform (1), cd (1)
 > **Env Vars:** aws (1)
 > **Cross-References:** in the next (1)
 
-#### Continuous integration for infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980)
+#### [Continuous integration for infrastructure](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=0)** - In this video, we'll talk about the pipeline you'll set up for your systems to take them from code to artifacts to running system.
 >
-> **[0:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=8)** Here's an illustration of a continuous delivery flow where code gets checked in, built, goes through successive levels of testing and finally gets released to your production environment.
+> **[0:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=8)** Here's an illustration of a [[Continuous Delivery (CD)|continuous delivery]] flow where code gets checked in, built, goes through successive levels of testing and finally gets released to your production environment.
 >
 > **[0:19](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=19)** But why do you want to do this?
 >
@@ -2533,7 +2509,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=56)** If you're not experienced with it, it's easy.
 >
-> **[0:59](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=59)** We'll use Git in this course, and there's courses in the library to show you the basics of Git.
+> **[0:59](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=59)** We'll use [[Git]] in this course, and there's courses in the library to show you the basics of Git.
 >
 > **[1:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=64)** Every time you check in code, a trigger fires and the build system goes to test and build and test it some more.
 >
@@ -2557,35 +2533,35 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=129)** They all have advantages or are necessary for different scenarios, but deciding what your artifacts are and how to manage and version them is very important.
 >
-> **[2:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=140)** Here's a reference architecture of a DevOps service delivery platform showing the flow from source repo to build and then to artifact repo, and then out into production.
+> **[2:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=140)** Here's a reference architecture of a [[DevOps]] service delivery platform showing the flow from source repo to build and then to artifact repo, and then out into production.
 >
 > **[2:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=151)** You may have multiple layers of artifacts, and that's okay.
 >
-> **[2:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=154)** For example, one team might build everything into OS packages for their Java and Python applications and leverage built-in dependency management.
+> **[2:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=154)** For example, one team might build everything into OS packages for their [[Java]] and [[Python (Programming Language)|Python]] applications and leverage built-in [[Dependency Management]].
 >
 > **[2:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=162)** Then as a second layer, they might build VM images and AMIs using Packer and build Docker images directly with Dockerfiles containing applications deployed from that first tier of artifacts.
 >
-> **[2:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=174)** And this is usually controlled through a build system like Jenkins or Bamboo or something similar.
+> **[2:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=174)** And this is usually controlled through a build system like [[Jenkins]] or Bamboo or something similar.
 >
-> **[3:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=181)** To store artifacts, it's common to use Artifactory or Nexus or a container registry but I've seen it all with some people just keeping it simple and using a cloud storage bucket.
+> **[3:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=181)** To store artifacts, it's common to use Artifactory or Nexus or a container registry but I've seen it all with some people just keeping it simple and using a [[Cloud Storage]] bucket.
 >
 > **[3:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=193)** The last step is deployment.
 >
-> **[3:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=195)** Here's an example of that previous artifact flow with a specific tooling that Ernest used over at AlienVault for their continuous integration pipeline.
+> **[3:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=195)** Here's an example of that previous artifact flow with a specific tooling that Ernest used over at AlienVault for their [[Continuous Integration (CI)|continuous integration]] pipeline.
 >
-> **[3:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=203)** AppCode and Java and Bash, infrastructure code and CloudFormation and Puppet all checked in to Bitbucket source control, and using Maven and the Bamboo CI product.
+> **[3:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=203)** AppCode and Java and Bash, infrastructure code and CloudFormation and Puppet all checked in to [[Bitbucket]] source control, and using Maven and the Bamboo CI product.
 >
 > **[3:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=215)** Artifacts such as AMIs, VMware images and Debian packages go into Artifactory.
 >
-> **[3:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=222)** And then a continuous deployment job in Bamboo runs the Rundeck orchestration system to deploy production via Puppet and Terraform.
+> **[3:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=222)** And then a continuous deployment job in Bamboo runs the Rundeck orchestration system to deploy production via Puppet and [[Terraform]].
 >
 > **[3:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=231)** All together, that formed a comprehensive app and infrastructure service delivery solution.
 >
-> **[3:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=236)** And that's the basics of continuous integration for infrastructure as code.
+> **[3:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/continuous-integration-for-infrastructure?u=76281980&t=236)** And that's the basics of continuous integration for [[Infrastructure as code (IaC)|infrastructure as code]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[Java]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), application (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[Java]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[DevOps]] (1)
 > **CLI Commands:** docker (4), make (2), git (2), python (1), terraform (1)
 > **Tools:** bash (1), bitbucket (1)
 > **Analogies:** for example (1), such as (1)
@@ -2594,14 +2570,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - in (1)
 
-#### Testing infrastructure
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980)
+#### [Testing infrastructure](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980&t=0)** You can test more of your code without having to use or make real infrastructure by using mocks, which is a testing term for code used to replicate the behavior of an external system so that you can safely run unit tests without affecting your real one.
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980&t=15)** Terraform version 1.6 introduced a standard Terraform test framework, and then version 1.7 introduced a mocking framework.
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980&t=15)** [[Terraform]] version 1.6 introduced a standard Terraform test framework, and then version 1.7 introduced a mocking framework.
 >
 > **[0:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/testing-infrastructure-28197329?u=76281980&t=24)** Using it, for example, you can ask Terraform to substitute a mock Amazon Cloud provider for the real provider.
 >
@@ -2635,7 +2610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Terraform]] (17), cloud (4), aws (3)
+> **Frameworks & Libraries:** [[Terraform]] (17)
 > **CLI Commands:** terraform (17), make (4), aws (3)
 > **Env Vars:** aws (3), iac (1)
 > **Versions:** version 1 (2), version
@@ -2643,8 +2618,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 
-#### Works on my machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980)
+#### [Works on my machine](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2690,7 +2664,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=92)** This just means you package up and version your code like every library that's out there.
 >
-> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=98)** - It can be an actual bundle like an RPM or Debian package, or even just a GIT revision.
+> **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=98)** - It can be an actual bundle like an RPM or Debian package, or even just a [[Git]] revision.
 >
 > **[1:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=104)** But the key thing is it can't ever change.
 >
@@ -2722,11 +2696,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=178)** Even the developer's desktop can get close.
 >
-> **[3:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=180)** There's a lot of tools like Vagrant, Docker, Compose and Minikube that improve alignment even before you hit an external environment.
+> **[3:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=180)** There's a lot of tools like Vagrant, Docker, [[Jetpack Compose|Compose]] and Minikube that improve alignment even before you hit an external environment.
 >
 > **[3:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=188)** - And finally, the deployment.
 >
-> **[3:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=190)** Deployment is code just like all the rest of this.
+> **[3:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=190)** Deployment is code just like all the [[Representational State Transfer (REST)|rest]] of this.
 >
 > **[3:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=194)** So however you deploy your app in production is how it should be deployed in pre-production.
 >
@@ -2734,7 +2708,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=208)** If you have stable versioned artifacts, generate your own identical environments and deploy with the same code in each place, you've gotten to a pretty darn good situation.
 >
-> **[3:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=219)** - Yeah, well, you know, back when Ernest and I were working at National Instruments, we did a lot of manual deployments of Java apps across a cluster of app servers.
+> **[3:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=219)** - Yeah, well, you know, back when Ernest and I were working at National Instruments, we did a lot of manual deployments of [[Java]] apps across a cluster of app servers.
 >
 > **[3:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/works-on-my-machine?u=76281980&t=228)** It was slow and it relied on manual instructions from developers.
 >
@@ -2754,7 +2728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), ci (1), cd (1), [[Troubleshooting]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[Git]] (1), [[Jetpack Compose|Compose]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Java]] (1)
 > **Speakers:** - and (6), - ah (3), - yeah (3), - okay (3), - well (2)
 > **CLI Commands:** make (3), docker (2), cd (1), git (1)
 > **Env Vars:** rpm (1), git (1)
@@ -2762,12 +2736,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 
-#### You write it, you run it
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980)
+#### [You write it, you run it](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=0)** - Now that we're doing our infrastructure as code, this ends up having more implications on how we work.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=0)** - Now that we're doing our [[Infrastructure as code (IaC)|infrastructure as code]], this ends up having more implications on how we work.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=6)** - That's right.
 >
@@ -2775,7 +2748,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=13)** - But what does that imply about how we support it in production?
 >
-> **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=17)** - This may not be a surprise if you've taken our DevOps foundations course or it's follow up DevOps Foundation site Reliability Engineering.
+> **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=17)** - This may not be a surprise if you've taken our [[DevOps]] foundations course or it's follow up DevOps Foundation site Reliability Engineering.
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=25)** But it's a shared responsibility.
 >
@@ -2797,7 +2770,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=70)** By handling your own production environment, you're making the most effective feedback loop possible from problem to fix.
 >
-> **[1:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=77)** Note that Google's SRE model for taking all over our operations from a product team, it's only used for apps with very large user bases that have proven themselves stable and have monitoring and tools in place sufficient for the SRE team to agree to take it on.
+> **[1:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=77)** Note that [[Google]]'s SRE model for taking all over our operations from a product team, it's only used for apps with very large user bases that have proven themselves stable and have monitoring and tools in place sufficient for the SRE team to agree to take it on.
 >
 > **[1:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=93)** Short of that, it's best practice to run it if you wrote it.
 >
@@ -2813,7 +2786,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=121)** Don't just keep putting out the fires each time they happen.
 >
-> **[2:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=125)** I mentioned that AT&T Cybersecurity SaaS product that I worked on.
+> **[2:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=125)** I mentioned that AT&T [[Cybersecurity]] [[SaaS]] product that I worked on.
 >
 > **[2:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=129)** We had a complete CICD pipeline.
 >
@@ -2851,19 +2824,18 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=198)** All right. Look, there, there.
 >
-> **[3:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=200)** Let's get you a nice nap and then we'll be back for a video on running the rest of your operations as code two.
+> **[3:20](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/you-write-it-you-run-it?u=76281980&t=200)** Let's get you a nice nap and then we'll be back for a video on running the [[Representational State Transfer (REST)|rest]] of your operations as code two.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[DevOps]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Engineering]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Google]] (1), [[Cybersecurity]] (1), [[SaaS]] (1)
 > **Speakers:** - now (2), - that (2), - but (2), - yeah (2), - this (1)
 > **Env Vars:** sre (2), cicd (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** best practice (1)
 > **Warnings:** note that (1)
 
-#### Automate all the things
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980)
+#### [Automate all the things](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2875,7 +2847,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=9)** There's your applications and your infrastructure, but people may be forgetting about some other pieces.
 >
-> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=15)** What about your monitoring, your runbooks, your documentation, your API definitions, your SaaS integrations?
+> **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=15)** What about your monitoring, your runbooks, your documentation, your API definitions, your [[SaaS]] integrations?
 >
 > **[0:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=21)** - Well, you know, I thought I'd just, you know, click around and set all that stuff up manually.
 >
@@ -2887,13 +2859,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=41)** - The application boundary isn't just the code anymore.
 >
-> **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=44)** All the benefits you get out of infrastructure as code, the testability and repeatability, you want all that in all the other pieces of your system.
+> **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=44)** All the benefits you get out of [[Infrastructure as code (IaC)|infrastructure as code]], the testability and repeatability, you want all that in all the other pieces of your system.
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=52)** - The great thing is infrastructure as code has been made possible by the rise of APIs, so you can program to them to create your infrastructure.
 >
 > **[1:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=60)** Well, the majority of your SaaS providers and tools also have APIs nowadays.
 >
-> **[1:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=65)** - [James] Yeah, for example, instead of setting up monitoring dashboards by hand, you can define them in code and then load them into tools, like Grafana or DataDog.
+> **[1:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=65)** - [James] Yeah, for example, instead of setting up monitoring [[Dashboards]] by hand, you can define them in code and then load them into tools, like Grafana or DataDog.
 >
 > **[1:14](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=74)** - [Ernest] Same with your support runbooks.
 >
@@ -2921,7 +2893,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=130)** - Many of the tools in this space have started building ways to express these extra components as code.
 >
-> **[2:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=135)** Take Terraform, for example, we have a big library of providers that let you manage, you know, Salesforce users, DataDog dashboards, Splunk logging, even passwords in 1Password, CDNs, DNS, and much more.
+> **[2:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=135)** Take [[Terraform]], for example, we have a big library of providers that let you manage, you know, Salesforce users, DataDog dashboards, Splunk logging, even passwords in 1Password, CDNs, DNS, and much more.
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/automate-all-the-things?u=76281980&t=148)** - I had a team that wrote Bash shell scripts using the Rerun framework and built them into artifacts for the Rundeck Runbook automation system to use.
 >
@@ -2933,7 +2905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), [[SaaS]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Dashboards]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Dashboards]] (2), [[Terraform]] (1)
 > **Speakers:** - well (3), - the (2), - okay (1), - have (1), - all (1)
 > **Env Vars:** api (2), dns (1), cis (1)
 > **Analogies:** for example (2)
@@ -2942,12 +2914,11 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Prerequisites:** setup (1)
 
-#### CI for my IaC
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980)
+#### [CI for my IaC](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=1)** - [Instructor] In the video on Docker, we published a Docker image to Docker Hub that Ernest then used in the Kubernetes video.
+> **[0:01](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=1)** - [Instructor] In the video on Docker, we published a Docker image to Docker Hub that Ernest then used in the [[Kubernetes]] video.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=6)** Now, that was great, but the astute observer might have realized that we skipped a little step there.
 >
@@ -2959,11 +2930,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=27)** So, let's build a Docker container and then deploy it to the container registry that we're using, Docker Hub.
 >
-> **[0:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=34)** So for this video, we're going to be using GitHub Actions.
+> **[0:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=34)** So for this video, we're going to be using [[GitHub]] Actions.
 >
 > **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=36)** And I'm at the documentation site for GitHub Actions right now.
 >
-> **[0:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=40)** GitHub Actions are really great because we can do all sorts of things, from publishing a container to a registry, like we'll do in this video, or issuing an alert to Slack, or even SSHing into a bastion box and running Terraform commands.
+> **[0:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=40)** GitHub Actions are really great because we can do all sorts of things, from publishing a container to a registry, like we'll do in this video, or issuing an alert to [[Slack]], or even SSHing into a bastion box and running [[Terraform]] commands.
 >
 > **[0:52](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=52)** Just take some time to look through the GitHub marketplace and see what you can mix and match together here.
 >
@@ -2989,7 +2960,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=98)** Nothing too special here other than I'm setting the name for my artifact.
 >
-> **[1:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=102)** Now I can reference it in my Docker build and my push job as word-cloud-generator.
+> **[1:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=102)** Now I can reference it in my Docker build and my push job as [[Microsoft Word|word]]-cloud-generator.
 >
 > **[1:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=109)** Okay, so now I'm going to do a little bit of cooking show set up here and paste in my job for build-docker.
 >
@@ -3001,7 +2972,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=128)** This is setting a dependency inside of our workflow here.
 >
-> **[2:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=132)** This next section of code fetches our binary, word-cloud-generator, and then it sets up some Docker metadata, like setting up our tags, making sure we're able to lock to whatever sha that we're using inside of GitHub.
+> **[2:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=132)** This next section of code fetches our binary, word-cloud-generator, and then it sets up some Docker [[Metadata]], like setting up our tags, making sure we're able to lock to whatever sha that we're using inside of GitHub.
 >
 > **[2:26](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=146)** And then you'll probably notice that we're dealing with secrets here.
 >
@@ -3077,11 +3048,11 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=291)** The great thing about actions is that we can now stack actions together to trigger our environment to update and use the new container, as well as alert our team that a new version has been published.
 >
-> **[5:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=302)** You know, CI is not just for applications anymore, but it's a key part to infrastructure as code.
+> **[5:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/ci-for-my-iac?u=76281980&t=302)** You know, CI is not just for applications anymore, but it's a key part to [[Infrastructure as code (IaC)|infrastructure as code]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (8), [[Microsoft Word|Word]] (3), cloud (3), ci (2), next (2)
+> **Frameworks & Libraries:** [[GitHub]] (8), [[Microsoft Word|Word]] (3), [[Metadata]] (2), [[Kubernetes]] (1), [[Slack]] (1)
 > **CLI Commands:** docker (16), make (3), terraform (1)
 > **Tools:** github (8), slack (1), command line (1)
 > **Versions:** 3.17 (2), 3.16 (1)
@@ -3090,8 +3061,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The GitOps model
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980)
+#### [The GitOps model](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3115,9 +3085,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=17)** The kids nowadays love their GitOps with their iPads and their short pants.
 >
-> **[0:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=22)** GitOps is a way to do continuous delivery, which aims to make the deployment process more reliable, faster, and developer-friendly by using Git as a single source of truth for declarative infrastructure and applications.
+> **[0:22](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=22)** GitOps is a way to do [[Continuous Delivery (CD)|continuous delivery]], which aims to make the deployment process more reliable, faster, and developer-friendly by using [[Git]] as a single source of truth for declarative infrastructure and applications.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=36)** - Absolutely, GitOps has been growing in popularity as declarative orchestration frameworks like Kubernetes have risen also in prominence.
+> **[0:36](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=36)** - Absolutely, GitOps has been growing in popularity as declarative orchestration frameworks like [[Kubernetes]] have risen also in prominence.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=44)** - OpenGitOps is a set of open source standards, best practices, and community-focused education to help organizations adopt a structured approach to implementing GitOps.
 >
@@ -3151,7 +3121,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=109)** It does illustrate some of what we've already covered in the course, and it can work really well for driving declarative frameworks, like Kubernetes, that are just waiting for a new YAML configuration file to tell them what all to load up.
 >
-> **[2:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=122)** - Right, and you know, GitOps is a great option for treating infrastructure as code, but we don't think that GitOps is the only way to achieve infrastructure as code.
+> **[2:02](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=122)** - Right, and you know, GitOps is a great option for treating [[Infrastructure as code (IaC)|infrastructure as code]], but we don't think that GitOps is the only way to achieve infrastructure as code.
 >
 > **[2:10](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=130)** - No, that's right.
 >
@@ -3163,11 +3133,11 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=155)** You could see how there could be a desired state that the system can't achieve.
 >
-> **[2:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=160)** For example, a new feature in a cloud service hasn't been added to Terraform yet, and it doesn't do any of the dependency management things that Docker, Nix or Wasm can give you.
+> **[2:40](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=160)** For example, a new feature in a cloud service hasn't been added to [[Terraform]] yet, and it doesn't do any of the [[Dependency Management]] things that Docker, Nix or Wasm can give you.
 >
 > **[2:52](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=172)** - Yeah, and lastly, let's not forget about visibility because, you know, GitOps takes desired state and then applies changes.
 >
-> **[2:59](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=179)** You need a way to have real-time visibility into the current state of the system so you can troubleshoot problems.
+> **[2:59](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=179)** You need a way to have [[Real-Time]] visibility into the current state of the system so you can troubleshoot problems.
 >
 > **[3:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=185)** - GitOps can be a powerful tool for managing the deployment of applications to production environments, but it isn't the only way to treat your infrastructure as code.
 >
@@ -3175,7 +3145,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=205)** - Yeah, that makes sense to me.
 >
-> **[3:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=207)** And GitOps is also not the only way to fit version control into your infrastructure as code implementation.
+> **[3:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=207)** And GitOps is also not the only way to fit [[Version Control]] into your infrastructure as code implementation.
 >
 > **[3:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/the-gitops-model?u=76281980&t=213)** Hm, you can map artifacts to Git revisions just using something like tagging.
 >
@@ -3185,7 +3155,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Orchestration]] (1)
+> **Frameworks & Libraries:** [[Git]] (4), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Kubernetes]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Terraform]] (1)
 > **Speakers:** - gitops (4), - yeah (3), - [james] (3), - no (2), - okay (1)
 > **CLI Commands:** git (4), make (2), terraform (1), docker (1)
 > **Definitions:** is a  (3)
@@ -3194,12 +3164,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** troubleshoot (1)
 
-#### Security and compliance as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980)
+#### [Security and compliance as code](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=0)** Infrastructure as Code changes how we build our infrastructure, but it also changes how we break things.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=0)** [[Infrastructure as code (IaC)|Infrastructure as Code]] changes how we build our infrastructure, but it also changes how we break things.
 >
 > **[0:07](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=7)** With Infrastructure as Code, a single bad pattern can spread through your infra code like wildfire.
 >
@@ -3217,7 +3186,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=46)** Infrastructure as code is where much of that context is explicitly spelled out.
 >
-> **[0:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=50)** The code itself tells us the intended environment, data classification, and exposure.
+> **[0:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=50)** The code itself tells us the intended environment, [[Data Classification]], and exposure.
 >
 > **[0:57](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=57)** Tools that understand these relationships can raise only the issues that are real problems.
 >
@@ -3229,9 +3198,9 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=91)** Here, policies can run automatically to check for risky patterns like open network ports, missing encryption, or weak identity configurations.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=101)** This early enforcement prevents problems before they even make it into version control, giving fast feedback and saving costly rework later.
+> **[1:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=101)** This early enforcement prevents problems before they even make it into [[Version Control]], giving fast feedback and saving costly rework later.
 >
-> **[1:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=109)** An example of this is a developer writing a Terraform module to deploy an S3 bucket.
+> **[1:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=109)** An example of this is a developer writing a [[Terraform]] module to deploy an S3 bucket.
 >
 > **[1:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=114)** Before the code is even committed, A check runs locally in the IDE.
 >
@@ -3239,19 +3208,19 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=124)** The developer fixes it right then and there.
 >
-> **[2:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=128)** If you're looking for tools, there are a lot of options here, just like unit testing tools.
+> **[2:08](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=128)** If you're looking for tools, there are a lot of options here, just like [[Unit Testing]] tools.
 >
 > **[2:12](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=132)** But two you're likely to run into are TFSEC and Chekov.
 >
 > **[2:17](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=137)** Catching misconfigurations at authoring time shortens the feedback loop and reduces risk before it ever hits version control.
 >
-> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=145)** The next key enforcement stage is during continuous integration.
+> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=145)** The next key enforcement stage is during [[Continuous Integration (CI)|continuous integration]].
 >
 > **[2:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=148)** At this point, policies are evaluated as part of pull requests or build pipelines.
 >
 > **[2:33](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=153)** This ensures that every change to the infrastructure is tested against organizational rules before being approved or deployed.
 >
-> **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=161)** Teams can decide whether to enforce policies as heart gates, where they are blocking a merge until violations are fixed, or as soft feedback, allowing flexibility while still promoting awareness and accountability.
+> **[2:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=161)** Teams can decide whether to enforce policies as heart gates, where they are blocking a merge until violations are fixed, or as soft feedback, allowing flexibility while still promoting awareness and [[Accountability]].
 >
 > **[2:54](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=174)** An example of integration time policy as code is detecting a Terraform rule that opens SSH to the world on a production VPC.
 >
@@ -3271,7 +3240,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=221)** The change looked innocuous enough and passed their other testing.
 >
-> **[3:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=225)** But when Dry Run analyzed in context of the rest of the code, it was identified as dangerous.
+> **[3:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=225)** But when Dry Run analyzed in context of the [[Representational State Transfer (REST)|rest]] of the code, it was identified as dangerous.
 >
 > **[3:51](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=231)** the team was able to detect the problem and get it fixed before it got sent over to production.
 >
@@ -3285,7 +3254,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=268)** If you are running a continuous policy check-in tool, then within minutes a cloud policy fires.
 >
-> **[4:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=274)** It flags the rule, auto-remediates by restoring the approved network configuration, posts about its change to the team chat, and opens a JIRA ticket with the link to the event in the logs.
+> **[4:34](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=274)** It flags the rule, auto-remediates by restoring the approved network configuration, posts about its change to the team chat, and opens a [[Jira]] ticket with the link to the event in the logs.
 >
 > **[4:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=285)** A common way to do this kind of check-in as code is with the Open Policy Agent or OPA, which lets you write all kinds of policy rules in its Rego language and will validate those rules against your current Terraform state.
 >
@@ -3295,11 +3264,11 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=316)** There are many tools that perform runtime policy enforcement and drift detection.
 >
-> **[5:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=321)** Many teams start with Cloud-native tools like AWS Config or Azure Policy because they integrate tightly with each platform and can automatically roll back risky changes.
+> **[5:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=321)** Many teams start with Cloud-native tools like AWS Config or [[Microsoft Azure|Azure]] Policy because they integrate tightly with each platform and can automatically roll back risky changes.
 >
 > **[5:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=332)** AWS Config's restricted SSH rule, for instance, can detect and fix a public SSH port within seconds.
 >
-> **[5:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=339)** In Kubernetes, Kiverno or OPA Gatekeeper enforce live cluster policies while Falco monitors for real-time activities such as unexpected SSH sessions inside pods.
+> **[5:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=339)** In [[Kubernetes]], Kiverno or OPA Gatekeeper enforce live cluster policies while Falco monitors for [[Real-Time]] activities such as unexpected SSH sessions inside pods.
 >
 > **[5:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/security-and-compliance-as-code?u=76281980&t=350)** Also, a tool like Cloud Custodian lets you express runtime policies as code and auto-remediate or open a pull request whenever drift occurs, keeping environments aligned with intended configurations.
 >
@@ -3315,7 +3284,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), teams (3), cloud (3)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (5), [[Terraform]] (4), [[Data Classification]] (1), [[Unit Testing]] (1), [[Version Control]] (1)
 > **Env Vars:** ssh (4), opa (3), iac (2), dns (2), aws (2)
 > **CLI Commands:** terraform (4), ssh (4), make (2), aws (2), find (1)
 > **Analogies:** just like (2), for example (1), for instance (1), such as (1), picture (1)
@@ -3324,12 +3293,11 @@ created: 2026-05-02
 > **Tools:** jira (1)
 > **Prerequisites:** set up (1)
 
-#### Using AI to create your IaC
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980)
+#### [Using AI to create your IaC](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=0)** AI is giving infrastructure as code a real boost.
+> **[0:00](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=0)** AI is giving [[Infrastructure as code (IaC)|infrastructure as code]] a real boost.
 >
 > **[0:04](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=4)** Instead of wrestling with providers, modules, and syntax, we can lean on tools that understand patterns, surface mistakes early, and help us spend less time fighting configuration and more time delivering actual value.
 >
@@ -3337,7 +3305,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=25)** Like we spent much of of the manual lab work earlier on in this course, but this time we're using a simple tool chain that will use AI to do most of the work for us.
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=37)** VS Code is our editor, Copilot is our AI pair programmer, Docker runs the Terraform MCP server, and Dry Run Security checks our code policies.
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=37)** VS Code is our editor, [[Microsoft Copilot|Copilot]] is our AI pair programmer, Docker runs the [[Terraform]] MCP server, and Dry Run Security checks our code policies.
 >
 > **[0:48](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=48)** Together, they create an environment where AI can understand the structure of your infrastructure's code instead of guessing.
 >
@@ -3353,7 +3321,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=99)** Security teams care about this because new APIs create fresh unvetted attack surfaces and flagging them ensures anything novel gets the extra review it needs during code reviews.
 >
-> **[1:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=110)** So issues don't slip up while you're doing rapid development or as we say, vibe coding.
+> **[1:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=110)** So issues don't slip up while you're doing rapid development or as we say, [[Vibe Coding]].
 >
 > **[1:56](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=116)** We'll see it in action in a little bit.
 >
@@ -3367,7 +3335,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=143)** So you'll get a greeting for your name.
 >
-> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=145)** And the greeting will be hello, name, from LinkedIn Learning in a JSON response object.
+> **[2:25](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=145)** And the greeting will be hello, name, from [[LinkedIn]] Learning in a [[JSON]] response object.
 >
 > **[2:32](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=152)** So we could use it for other parts of our application.
 >
@@ -3471,7 +3439,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=470)** Looks like all the checks have run and we're waiting for dry run security to do a full report here.
 >
-> **[7:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=478)** Now I'm in GitHub and I've looked at our pull request and I'm looking at the code policy results here.
+> **[7:58](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=478)** Now I'm in [[GitHub]] and I've looked at our pull request and I'm looking at the code policy results here.
 >
 > **[8:03](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/using-ai-to-create-your-iac?u=76281980&t=483)** Now, you can see our code policy flag.
 >
@@ -3513,7 +3481,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), [[Security]] (9), [[Terraform]] (7), api (6), [[Microsoft Copilot|Copilot]] (5)
+> **Frameworks & Libraries:** [[Terraform]] (7), [[Microsoft Copilot|Copilot]] (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (4), [[JSON]] (2), [[Vibe Coding]] (1)
 > **CLI Commands:** docker (11), make (9), terraform (7), aws (2)
 > **Env Vars:** readme (8), api (6), mcp (3), aws (2), json (2)
 > **Documentation:** the readme (5)
@@ -3527,8 +3495,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3536,7 +3503,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=5)** - There are plenty of tool courses here in the library but what do you do first?
 >
-> **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=9)** When I first got into DevOps and infrastructures code I came from more of a CIS admin background.
+> **[0:09](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=9)** When I first got into [[DevOps]] and infrastructures code I came from more of a CIS admin background.
 >
 > **[0:15](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=15)** - Me too.
 >
@@ -3550,7 +3517,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=27)** - Maybe you come from a dev background in which case you already understand the approach but if you come from an operations background you might consider taking some coding courses.
 >
-> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=37)** It doesn't matter what language but Python can be helpful in the DevOps world.
+> **[0:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=37)** It doesn't matter what language but [[Python (Programming Language)|Python]] can be helpful in the DevOps world.
 >
 > **[0:42](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=42)** Really just learning the process of development will help you understand how to perform infrastructure automation.
 >
@@ -3594,7 +3561,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=141)** So we identified the one piece to start with.
 >
-> **[2:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=144)** - We selected our Java application deployments like I mentioned in an earlier video.
+> **[2:24](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=144)** - We selected our [[Java]] application deployments like I mentioned in an earlier video.
 >
 > **[2:29](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=149)** We chose a tool to use, in this case was just a Perl script.
 >
@@ -3604,7 +3571,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=157)** We defined the state we wanted to create using code, tested it, and set up production monitoring and unleashed it on the developers.
 >
-> **[2:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=165)** - We now know that was right because that's what ChatGPT says to do.
+> **[2:45](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=165)** - We now know that was right because that's what [[ChatGPT]] says to do.
 >
 > **[2:49](https://www.linkedin.com/learning/devops-foundations-infrastructure-as-code-18965758/where-to-go-from-here?u=76281980&t=169)** - True story, bro.
 >
@@ -3624,7 +3591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (7), [[DevOps]] (2), [[Python (Programming Language)|Python]] (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[Python (Programming Language)|Python]] (1), [[Java]] (1), [[ChatGPT]] (1)
 > **Speakers:** - we (3), - yeah (2), - the (2), - but (2), - and (2)
 > **CLI Commands:** ruby (2), python (1), find (1)
 > **Prerequisites:** required to (1), set up (1)

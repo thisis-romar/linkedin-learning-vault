@@ -87,8 +87,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of SQL in a data-driven world
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980)
+#### [The importance of SQL in a data-driven world](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -96,11 +95,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=6)** To do that, companies need employees who can extract and manipulate data to gain insights.
 >
-> **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=11)** Whether you interact with data as an analyst, scientist, or engineer, SQL is an essential skill for any data role, and SQL isn't going anywhere.
+> **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=11)** Whether you interact with data as an analyst, scientist, or engineer, [[SQL]] is an essential skill for any data role, and SQL isn't going anywhere.
 >
 > **[0:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=19)** Knowledge of joins and basic commands can take you pretty far but these concepts aren't all-encompassing and often you'll need to build upon them with more advanced functions.
 >
-> **[0:28](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=28)** I'm Kendall Ruber, and my work has spanned across HR, cybersecurity, and operations.
+> **[0:28](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=28)** I'm Kendall Ruber, and my work has spanned across HR, [[Cybersecurity]], and operations.
 >
 > **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/the-importance-of-sql-in-a-data-driven-world?u=76281980&t=33)** And in every data role I've had, using SQL has been a constant.
 >
@@ -110,27 +109,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[SQL]] (4), next (2), [[Analytics]] (1), hr (1)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Cybersecurity]] (1)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - data (1)
 
-#### Prerequisite knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980)
+#### [Prerequisite knowledge](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=0)** - This course focuses on more advanced topics like subqueries, CTEs, and several types of Windows functions.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=0)** - This course focuses on more advanced topics like subqueries, CTEs, and several types of [[Windows]] functions.
 >
 > **[0:07](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=7)** The data sets we'll be using come from the fictitious Red30Tech Conference.
 >
 > **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=11)** A variety of data has been collected from the conference such as a list of attendees, records of product sales, and speaker and session information.
 >
-> **[0:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=19)** Because this is an advanced course, it's expected that you have a solid understanding of foundational SQL concepts like joins and basic commands like select, from, where, having and grouped by before beginning.
+> **[0:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=19)** Because this is an advanced course, it's expected that you have a solid understanding of foundational [[SQL]] concepts like joins and basic commands like select, from, where, having and grouped by before beginning.
 >
-> **[0:32](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=32)** This course uses Microsoft SQL Server, but if your primary SQL experience is in a different dialect like PostgreSQL, you'll still benefit from the course; the syntax just may be slightly different than what you're used to although the concepts are still the same.
+> **[0:32](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=32)** This course uses [[Microsoft SQL Server]], but if your primary SQL experience is in a different dialect like [[PostgreSQL]], you'll still benefit from the course; the syntax just may be slightly different than what you're used to although the concepts are still the same.
 >
 > **[0:46](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/prerequisite-knowledge?u=76281980&t=46)** If this sounds like you, you're in luck.
 >
@@ -138,18 +136,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (2), [[Windows]] (1), product (1), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Windows]] (1), [[Microsoft SQL Server]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (4)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - this (1)
 
-#### Navigating the exercise files on GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980)
+#### [Navigating the exercise files on GitHub](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=0)** - [Host] The materials for this course can be accessed using GitHub.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=0)** - [Host] The materials for this course can be accessed using [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=4)** To follow along, you can fork this repository directly from the main branch.
 >
@@ -157,7 +154,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=14)** Forking lets you create your own copy of the repository on your account, so that you can keep any changes that you've made.
 >
-> **[0:21](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=21)** This forked repository can be a place for you to store copies of your exercise files and notes for your own reference, or it can serve as a place to build a portfolio for a future employer to get an idea of your SQL skills.
+> **[0:21](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=21)** This forked repository can be a place for you to store copies of your exercise files and notes for your own reference, or it can serve as a place to build a portfolio for a future employer to get an idea of your [[SQL]] skills.
 >
 > **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=33)** Each branch corresponds to a video in the course.
 >
@@ -171,11 +168,11 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=65)** Please note that this course is designed for you to type along with me as we discuss the material, but should you get lost or want to see other examples, these files are here for your reference.
 >
-> **[1:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=76)** Now that we've set up our repository and can access the course materials, let's set up Microsoft SQL Server.
+> **[1:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/navigating-the-exercise-files-on-github?u=76281980&t=76)** Now that we've set up our repository and can access the course materials, let's set up [[Microsoft SQL Server]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), [[SQL]] (1), data (1), [[Microsoft SQL Server]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[SQL]] (1), [[Microsoft SQL Server]] (1)
 > **Prerequisites:** set up (2), setup (1), you'll need (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (2)
@@ -184,16 +181,15 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Analogies:** for example (1)
 
-#### Setting up Microsoft SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980)
+#### [Setting up Microsoft SQL Server](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=0)** - [Narrator] Next, a walkthrough how to set up the Microsoft SQL Server database that we'll be using in this course.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=0)** - [Narrator] Next, a walkthrough how to set up the [[Microsoft SQL Server]] database that we'll be using in this course.
 >
 > **[0:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=5)** This is also commonly called SSMS.
 >
-> **[0:08](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=8)** In the main branch of the GitHub repository, you'll see several Excel files starting with Red30 Tech.
+> **[0:08](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=8)** In the main branch of the [[GitHub]] repository, you'll see several [[Microsoft Excel|Excel]] files starting with Red30 Tech.
 >
 > **[0:13](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=13)** Download each of those to your computer.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=129)** All right, so the installation has completed.
 >
-> **[2:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=131)** Once you get to this window, you're going to go ahead and click on connect now in the bottom left hand corner and that's going to open up a SQL Command prompt.
+> **[2:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=131)** Once you get to this window, you're going to go ahead and click on connect now in the bottom left hand corner and that's going to open up a [[SQL]] Command prompt.
 >
 > **[2:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=139)** Now, we're not really going to do a whole lot here but what we do need from this terminal window is this information up here towards the top.
 >
@@ -251,7 +247,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=161)** You're going to want to copy all of the text here that's highlighted and now we're ready to head over to SSMS.
 >
-> **[2:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=170)** You can access the tool by going to your start bar, typing SSMS and then clicking on SQL Server Management Studio 19.
+> **[2:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=170)** You can access the tool by going to your start bar, typing SSMS and then clicking on [[Microsoft SQL Server|SQL Server]] Management Studio 19.
 >
 > **[3:01](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=181)** Copy and paste your username into the box in SQL Server Management Studio.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=273)** Here it'll take you to this pop-up window where you'll want to select next to continue.
 >
-> **[4:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=278)** For your data source, we're going to want to select Microsoft Excel, and then browse to the path where you have your Excel files from the Red30 Tech database stored on your machine.
+> **[4:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=278)** For your data source, we're going to want to select [[Microsoft Excel]], and then browse to the path where you have your Excel files from the Red30 Tech database stored on your machine.
 >
 > **[4:51](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/setting-up-microsoft-sql-server?u=76281980&t=291)** We'll collect the file that we want to upload, and then click open.
 >
@@ -309,7 +305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), next (10), data (8), [[Microsoft SQL Server|Sql server]] (4), [[Microsoft SQL Server]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Microsoft SQL Server]] (3), [[Microsoft Excel|Excel]] (3), [[SQL]] (2), [[GitHub]] (1)
 > **Env Vars:** sql (9), ssms (7), lcp4 (1), dbo (1)
 > **Prerequisites:** install (7), you'll need (3), set up (2), setup (1)
 > **UI Navigation:** click on (6), switch to (1), open the (1)
@@ -318,22 +314,21 @@ created: 2026-05-02
 > **Versions:** 11.0 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Adding primary key constraints
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980)
+#### [Adding primary key constraints](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=0)** - [Tutor] Now that you've uploaded each of your tables to the database, you'll want to confirm that all of the tables that you intended to upload are actually here in the database.
 >
-> **[0:10](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=10)** So go to Object Explorer, click databases 'Red30Tech', tables, and you should see the six tables that you uploaded from the Excel files.
+> **[0:10](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=10)** So go to Object Explorer, click [[Databases]] 'Red30Tech', tables, and you should see the six tables that you uploaded from the [[Microsoft Excel|Excel]] files.
 >
 > **[0:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=19)** If you don't see all six tables here, try exiting out completely of SSMS and going back in.
 >
-> **[0:26](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=26)** If you still don't see all six tables at that point go back to the GitHub repo and make sure that you didn't miss one of the file downloads.
+> **[0:26](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=26)** If you still don't see all six tables at that point go back to the [[GitHub]] repo and make sure that you didn't miss one of the file downloads.
 >
 > **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=33)** And so now up until this point, you may have noticed that this table doesn't have any primary key constraints.
 >
-> **[0:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=39)** And so the last step that we'll want to do is set those by running the entire SQL syntax, located in the 'environment_setup.SQL' file.
+> **[0:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=39)** And so the last step that we'll want to do is set those by running the entire [[SQL]] syntax, located in the 'environment_setup.SQL' file.
 >
 > **[0:49](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=49)** You'll paste all of the text from that file and then start at steps three and four.
 >
@@ -345,13 +340,13 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=74)** Alright, so now that you've added the primary key constraints to this table, you've finished the database set up.
 >
-> **[1:20](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=80)** If you missed a step, or you'd prefer to have written instructions, I've provided supplemental written materials with helpful screenshots and links in the how to access SSMS credentials and 'environment_setup' Word document in the main branch of the repo.
+> **[1:20](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=80)** If you missed a step, or you'd prefer to have written instructions, I've provided supplemental written materials with helpful screenshots and links in the how to access SSMS credentials and 'environment_setup' [[Microsoft Word|Word]] document in the main branch of the repo.
 >
 > **[1:34](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/adding-primary-key-constraints?u=76281980&t=94)** Now we're ready to get to the exciting part, the course content.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[SQL]] (3), [[Databases]] (1), [[Microsoft Excel|Excel]] (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Databases]] (1), [[Microsoft Excel|Excel]] (1), [[GitHub]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (3), ssms (2)
 > **Code Identifiers:** environment_setup (2)
 > **File Paths:** environment_setup.sql (1)
@@ -365,12 +360,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a subquery?
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980)
+#### [What is a subquery?](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980&t=0)** - [Presenter] The first advanced SQL function we'll learn about is the subquery.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980&t=0)** - [Presenter] The first advanced [[SQL]] function we'll learn about is the subquery.
 >
 > **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/what-is-a-subquery?u=76281980&t=4)** Often subqueries are among the first set of functions that a user begins to learn when they transition from more basic SQL commands to more advanced operations.
 >
@@ -398,8 +392,7 @@ created: 2026-05-02
 > **Env Vars:** sql (2)
 > **Speakers:** - [presenter] (1)
 
-#### Syntax of a scalar subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980)
+#### [Syntax of a scalar subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,7 +408,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980&t=33)** Let's head over to the database to set up this query for ourselves.
 >
-> **[0:37](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980&t=37)** This exercise uses the Red 30 Tech US online retail sales file where we have different information for products sold at the Red 30 Tech conference, such as the order date, order type, product names, quantities, and prices.
+> **[0:37](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980&t=37)** This exercise uses the Red 30 Tech US online retail sales file where we have different information for [[Microsoft Products|products]] sold at the Red 30 Tech conference, such as the order date, order type, product names, quantities, and prices.
 >
 > **[0:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-scalar-subquery?u=76281980&t=50)** If you need to preview this table, you can run this command here.
 >
@@ -467,15 +460,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (3), next (2), database (1), [[Microsoft Products|Products]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Syntax of a multiple-row subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-multiple-row-subquery?u=76281980)
+#### [Syntax of a multiple-row subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-a-multiple-row-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -553,15 +545,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), database (1), prompt (1)
 > **Env Vars:** where (3), exists (2), ses (1)
 > **SQL:** where (3)
 > **Analogies:** similar to (1), for example (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Uncorrelated subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980)
+#### [Uncorrelated subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,20 +571,19 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980&t=41)** In this example, if we run the subquery, we can see the three employees of Two Trees Olive Oil, Anna Rossi, Darren Seeley, and Jonathan Kim.
 >
-> **[0:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980&t=50)** Most subqueries are this type, and knowing that an uncorrelated subquery can be run separately is a huge advantage in debugging your SQL statements.
+> **[0:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980&t=50)** Most subqueries are this type, and knowing that an uncorrelated subquery can be run separately is a huge advantage in debugging your [[SQL]] statements.
 >
 > **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/uncorrelated-subquery?u=76281980&t=59)** In the next video, we'll discuss the opposite of an uncorrelated subquery, the correlated subquery.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1), [[SQL]] (1), next (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Correlated subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980)
+#### [Correlated subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,7 +603,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980&t=38)** Red 30 Tech has noticed that they have received online sales from customers from all 50 states except Rhode Island and Vermont.
 >
-> **[0:45](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980&t=45)** The conference organizers are interested in why exactly customers from those states seem uninterested in their products.
+> **[0:45](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980&t=45)** The conference organizers are interested in why exactly customers from those states seem uninterested in their [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/correlated-subquery?u=76281980&t=51)** Is their marketing being received differently?
 >
@@ -677,8 +666,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980)
+#### [Challenge: Create a subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -692,24 +680,23 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980&t=28)** If they're running low on a particular item, that might be a sign that it's time to order it again.
 >
-> **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980&t=33)** So your task will be to write a query that uses a subquery to return the ProdCategory, ProdNumber, ProdName, and In Stock of items that have less than the average amount of products left in stock to help the business know which products they're running low on.
+> **[0:33](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980&t=33)** So your task will be to write a query that uses a subquery to return the ProdCategory, ProdNumber, ProdName, and In Stock of items that have less than the average amount of [[Microsoft Products|products]] left in stock to help the business know which products they're running low on.
 >
 > **[0:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-subquery?u=76281980&t=50)** Pause the video to give yourself enough time to solve this and head to the next video when you're ready for the solution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), management (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980)
+#### [Solution: Create a subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=0)** - [Instructor] Here, the resulting data set shows only the products that have lower than average quantities in stock.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=0)** - [Instructor] Here, the resulting data set shows only the [[Microsoft Products|products]] that have lower than average quantities in stock.
 >
 > **[0:10](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=10)** You should have 47 rows in your output.
 >
@@ -721,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=52)** from the Red 30 Tech inventory table.
 >
-> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=59)** Remember that we want to only extract products that have less than the average amount left in stock, so in our subquery, we'll want to instruct SQL to select where the in-stock quantity is less than select the average in-stock quantity from the inventory table.
+> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=59)** Remember that we want to only extract products that have less than the average amount left in stock, so in our subquery, we'll want to instruct [[SQL]] to select where the in-stock quantity is less than select the average in-stock quantity from the inventory table.
 >
 > **[1:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-subquery?u=76281980&t=99)** Here, we can rerun the subquery and see that our average in stock quantity is about 362.
 >
@@ -741,7 +728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), data (1), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[SQL]] (1)
 > **Env Vars:** sql (1)
 > **Cross-References:** next chapter (1)
 > **UI Navigation:** select the (1)
@@ -753,12 +740,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Syntax of CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980)
+#### [Syntax of CTEs](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=0)** - [Instructor] Common table expressions, referred to as CTEs, are another powerful tool to use in SQL.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=0)** - [Instructor] Common table expressions, referred to as CTEs, are another powerful tool to use in [[SQL]].
 >
 > **[0:06](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=6)** CTEs are actually really similar to subqueries in terms of their uses, and many times they can be used interchangeably.
 >
@@ -776,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=53)** Let's head over to the database to write this query out and discuss more about its syntax.
 >
-> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=59)** As a reminder, this exercise uses the Red 30 Tech online retail sales table where we have different information for products sold at the Red 30 Tech Conference, such as the order date, order type, product names, quantities, and prices.
+> **[0:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=59)** As a reminder, this exercise uses the Red 30 Tech online retail sales table where we have different information for [[Microsoft Products|products]] sold at the Red 30 Tech Conference, such as the order date, order type, product names, quantities, and prices.
 >
 > **[1:13](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=73)** So, let's write out the query we had from the slides.
 >
@@ -802,7 +788,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=162)** Notice how here the CTE expression is enclosed in a set of parentheses, just like it was when we used the subquery.
 >
-> **[2:49](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=169)** Before we move on to the rest of the query, I want to point out that you can check the output of your CTE by running the CTE expression as its own standalone query, just like we did in our uncorrelated subquery example.
+> **[2:49](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=169)** Before we move on to the [[Representational State Transfer (REST)|rest]] of the query, I want to point out that you can check the output of your CTE by running the CTE expression as its own standalone query, just like we did in our uncorrelated subquery example.
 >
 > **[3:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/syntax-of-ctes?u=76281980&t=184)** Here, we get the same amount back that our average total is $1,386.
 >
@@ -830,15 +816,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), database (2), [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[SQL]] (1), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cte (15), sql (1)
 > **Analogies:** just like (2), similar to (1), such as (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recursive CTEs
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980)
+#### [Recursive CTEs](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -862,11 +847,11 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=64)** But say from the status set, we're interested in identifying how many direct reports each employee has by counting the number of employees who reports into each individual.
 >
-> **[1:13](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=73)** If you were to construct a network graph of the dataset, likely using a tool like Python or R, you would calculate a measure called the in degrees in network analysis to see that Grant Nguyen has 11 direct reports, Samuel Brooks has 10 direct reports, and so on.
+> **[1:13](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=73)** If you were to construct a network graph of the dataset, likely using a tool like [[Python (Programming Language)|Python]] or R, you would calculate a measure called the in degrees in network analysis to see that Grant Nguyen has 11 direct reports, Samuel Brooks has 10 direct reports, and so on.
 >
-> **[1:28](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=88)** And bonus material, if you're interested in seeing how I made this network graph in Python, a Jupyter Notebook is included in the GitHub repo page for this course.
+> **[1:28](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=88)** And bonus material, if you're interested in seeing how I made this network graph in Python, a Jupyter Notebook is included in the [[GitHub]] repo page for this course.
 >
-> **[1:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=98)** But wait a minute, you might be thinking, isn't this a SQL course?
+> **[1:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=98)** But wait a minute, you might be thinking, isn't this a [[SQL]] course?
 >
 > **[1:42](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=102)** How can we extract these same results using SQL?
 >
@@ -920,7 +905,7 @@ created: 2026-05-02
 >
 > **[6:22](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=382)** 11 employees report to Grant, the same number of in degrees that was calculated in Python.
 >
-> **[6:29](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=389)** Again, although this query type is less common, if you work in industries like human resources or social media that frequently deal with hierarchical relationships or network graphs, you may run into this concept more often.
+> **[6:29](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=389)** Again, although this query type is less common, if you work in industries like [[Human Resources (HR)|human resources]] or social media that frequently deal with hierarchical relationships or network graphs, you may run into this concept more often.
 >
 > **[6:41](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/recursive-ctes?u=76281980&t=401)** To summarize, remember that the recursive member builds upon the results returned by the anchor member by going through a recursive process to output the final results set.
 >
@@ -928,7 +913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (3), [[Python (Programming Language)|Python]] (3), [[SQL]] (2), business (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[SQL]] (2), [[GitHub]] (1), [[Human Resources (HR)|Human resources]] (1)
 > **Env Vars:** cte (9), union (4), sql (2), ssms (1)
 > **CLI Commands:** python (3), make (1)
 > **Definitions:** is a  (2), is called (2)
@@ -937,8 +922,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Exercise Files:** github repo (1)
 
-#### Challenge: Create a CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980)
+#### [Challenge: Create a CTE](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +934,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=21)** As a reminder, this table consists of basic inventory information, such as in stock quantities and number of units, and in terms of dollar amounts for each product the convention sells.
 >
-> **[0:31](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=31)** So your new task is to write a query that uses a CTE to return the product category, product number, product name and In Stock of items that have less than the average amount of products left in stock to help the business know which products they're running low on.
+> **[0:31](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=31)** So your new task is to write a query that uses a CTE to return the product category, product number, product name and In Stock of items that have less than the average amount of [[Microsoft Products|products]] left in stock to help the business know which products they're running low on.
 >
 > **[0:47](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-create-a-cte?u=76281980&t=47)** Pause the video and give yourself enough time to solve this and go to the next video when you're ready for the solution.
 >
@@ -960,19 +944,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Env Vars:** cte (3)
 > **Analogies:** similar to (1), such as (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a CTE
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980)
+#### [Solution: Create a CTE](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=0)** - [Instructor] Here, the resulting dataset shows only the products that have lower than average quantities in stock.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=0)** - [Instructor] Here, the resulting dataset shows only the [[Microsoft Products|products]] that have lower than average quantities in stock.
 >
 > **[0:10](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-create-a-cte?u=76281980&t=10)** Again, you should have 47 rows in your output.
 >
@@ -1010,15 +993,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1), database (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** cte (5)
 > **Cross-References:** in the last (2), in the next (1)
 > **Code Identifiers:** lowstock (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Difference between a CTE and a subquery
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980)
+#### [Difference between a CTE and a subquery](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1036,7 +1018,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=48)** Since they're older, subqueries are better supported across most database engines.
 >
-> **[0:52](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=52)** Subqueries have been around since SQL's creation in the '70s.
+> **[0:52](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=52)** Subqueries have been around since [[SQL]]'s creation in the '70s.
 >
 > **[0:55](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=55)** While CTEs have only been around since the late '90s.
 >
@@ -1054,7 +1036,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=99)** And that wraps up this chapter.
 >
-> **[1:42](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=102)** The next few chapters will take a deep dive into one of the most important concepts in advanced SQL, windows functions.
+> **[1:42](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=102)** The next few chapters will take a deep dive into one of the most important concepts in advanced SQL, [[Windows]] functions.
 >
 > **[1:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/difference-between-a-cte-and-a-subquery?u=76281980&t=108)** Because the use cases of windows functions are so vast, we've broken this concept up into multiple videos with several common functions within them.
 >
@@ -1064,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), database (2), [[SQL]] (2), [[Windows]] (2), next (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Windows]] (2)
 > **Env Vars:** sql (2), cte (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1074,14 +1056,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980)
+#### [Introduction to window functions](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980&t=0)** - [Instructor] The next types of functions we'll introduce are examples of Windows functions.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980&t=0)** - [Instructor] The next types of functions we'll introduce are examples of [[Windows]] functions.
 >
-> **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980&t=4)** Early in my SQL journey, I heard the term Windows functions thrown around a lot, yet I had no idea what they meant.
+> **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980&t=4)** Early in my [[SQL]] journey, I heard the term Windows functions thrown around a lot, yet I had no idea what they meant.
 >
 > **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-window-functions?u=76281980&t=11)** Windows functions are some of the most challenging yet most useful tools in SQL, but knowing when to use them is often half the battle.
 >
@@ -1125,15 +1106,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), next (4), [[SQL]] (4), data (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (13), [[SQL]] (4)
 > **Analogies:** for example (3), such as (1), similar to (1)
 > **Env Vars:** sql (4)
 > **Documentation:** specification (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diving into ROW_NUMBER()
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980)
+#### [Diving into ROW_NUMBER()](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1145,7 +1125,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=45)** we can see that there are customers who have numerous orders, and then there are also a lot of customers that may only have one order.
 >
-> **[0:55](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=55)** Now, let's start to craft our Windows function.
+> **[0:55](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=55)** Now, let's start to craft our [[Windows]] function.
 >
 > **[0:58](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=58)** Although we're really only interested in pulling the most recent order number for each customer, I'm going to include some other fields like product name and quantity to give us more context of what actually was in the order.
 >
@@ -1199,7 +1179,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=293)** Since row number is not immutable, that's another reason it's not suitable for a primary key.
 >
-> **[4:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=299)** Although these concepts seem similar, these examples highlight why row number is not a replacement for creating primary keys in database management.
+> **[4:59](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=299)** Although these concepts seem similar, these examples highlight why row number is not a replacement for creating primary keys in [[Database Management]].
 >
 > **[5:07](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=307)** And I wanted to mention this because it's a common point of confusion for beginners.
 >
@@ -1211,7 +1191,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=342)** So why is that?
 >
-> **[5:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=344)** It might be surprising to see that the Windows function column cannot be filtered on using the where clause, but the reason for this is that in the SQL order of operations, the where clause is actually executed before the Windows function.
+> **[5:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=344)** It might be surprising to see that the Windows function column cannot be filtered on using the where clause, but the reason for this is that in the [[SQL]] order of operations, the where clause is actually executed before the Windows function.
 >
 > **[5:57](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/diving-into-row-number?u=76281980&t=357)** So at the time where the where clause is executed, the Windows column does not yet exist, and that's why we receive this error.
 >
@@ -1253,15 +1233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (8), next (3), product (2), database (2), data (1)
+> **Frameworks & Libraries:** [[Windows]] (8), [[Database Management]] (1), [[SQL]] (1)
 > **Env Vars:** cte (5), sql (1)
 > **Code Identifiers:** row_num (2)
 > **Definitions:** is a  (2)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Calculate a ROW_NUMBER
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-calculate-a-row-number?u=76281980)
+#### [Challenge: Calculate a ROW_NUMBER](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-calculate-a-row-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1283,7 +1262,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (2), data (2)
 > **Env Vars:** row (1), number (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
@@ -1291,8 +1269,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (light music) (1)
 
-#### Solution: Calculate a ROW_NUMBER
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980)
+#### [Solution: Calculate a ROW_NUMBER](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1316,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=57)** Because the prompt asks us to provide additional context like the Order Number and Order Date, I'll include those fields here.
 >
-> **[1:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=87)** Next is where I'll construct the windows function.
+> **[1:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=87)** Next is where I'll construct the [[Windows]] function.
 >
 > **[1:29](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-calculate-a-row-number?u=76281980&t=89)** Here again, we're going to use Row_Number to number the orders for each product category according to their order totals.
 >
@@ -1378,7 +1355,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), next (7), [[Windows]] (3), prompt (1)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Env Vars:** cte (4), ssms (1), row_numbers (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** row_num (1)
@@ -1392,16 +1369,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use cases and syntax of LAG() and LEAD()
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980)
+#### [Use cases and syntax of LAG() and LEAD()](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=0)** - [Instructor] The next set of Windows functions we'll review are LAG and LEAD.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=0)** - [Instructor] The next set of [[Windows]] functions we'll review are LAG and LEAD.
 >
 > **[0:03](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=3)** Because these functions are so similar I'd like to discuss them together.
 >
-> **[0:07](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=7)** In SQL, the LEAD function is used to retrieve data from the next row, while LAG is used to retrieve data from the previous row.
+> **[0:07](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=7)** In [[SQL]], the LEAD function is used to retrieve data from the next row, while LAG is used to retrieve data from the previous row.
 >
 > **[0:15](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=15)** Concepts of LAG and LEAD constantly come up in data analytics.
 >
@@ -1425,20 +1401,19 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=61)** But what about the next session?
 >
-> **[1:02](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=62)** Well, you can see that the next session to occur in that room is managing virtual teams starting at 1400 or 2:00 PM.
+> **[1:02](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=62)** Well, you can see that the next session to occur in that room is managing [[Virtual Teams]] starting at 1400 or 2:00 PM.
 >
 > **[1:10](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/use-cases-and-syntax-of-lag-and-lead?u=76281980&t=70)** In the next video, I'll show you how to go about writing a query to get these results yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (7), data (4), [[Windows]] (1), [[SQL]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[SQL]] (1), [[Virtual Teams]] (1)
 > **Env Vars:** lag (4), lead (3), sql (1)
 > **Ports:** :30 (1), :00 (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using LAG() and LEAD() in tandem
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980)
+#### [Using LAG() and LEAD() in tandem](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1452,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=39)** To extract what the previous session was with respect to each row, we're going to use the lag function.
 >
-> **[0:45](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=45)** Because lag and lead are also Windows functions, their syntax is similar to what we just saw with row number.
+> **[0:45](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=45)** Because lag and lead are also [[Windows]] functions, their syntax is similar to what we just saw with row number.
 >
 > **[0:51](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=51)** So first, we're going to start out by naming the function we want to use which is lag, inside the parentheses.
 >
@@ -1464,7 +1439,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=85)** This value is called the offset.
 >
-> **[1:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=87)** If you don't put a specific value for the offset, SQL will default to an offset of one.
+> **[1:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=87)** If you don't put a specific value for the offset, [[SQL]] will default to an offset of one.
 >
 > **[1:31](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/using-lag-and-lead-in-tandem?u=76281980&t=91)** The next part of this query is the partition by statement.
 >
@@ -1526,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), [[Windows]] (3), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Windows]] (3), [[SQL]] (2)
 > **Definitions:** is called (2), is an  (1)
 > **Env Vars:** sql (2)
 > **Cross-References:** previous video (1), next chapter (1)
@@ -1534,11 +1509,9 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Using LAG() and LEAD() to determine most recent order quantities
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980)
+#### [Challenge: Using LAG() and LEAD() to determine most recent order quantities](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980)
 
-#### Solution: Using LAG() and LEAD() to determine most recent order quantities
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980)
+#### [Solution: Using LAG() and LEAD() to determine most recent order quantities](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1572,7 +1545,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=134)** Okay, so on to the next step.
 >
-> **[2:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=136)** Now that we have our orders by day CTE that calculates order quantities by order date, we're able to solve the rest of the challenge.
+> **[2:16](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=136)** Now that we have our orders by day CTE that calculates order quantities by order date, we're able to solve the [[Representational State Transfer (REST)|rest]] of the challenge.
 >
 > **[2:25](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=145)** Now, I want to select order date and quantity by day for the current order.
 >
@@ -1608,19 +1581,19 @@ created: 2026-05-02
 >
 > **[5:19](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=319)** Before we move on to the next chapter, I also want to highlight that these same results can be calculated in a different way using the lead function.
 >
-> **[5:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=327)** The solution for that approach is located in the branch for this video in the GitHub repo.
+> **[5:27](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=327)** The solution for that approach is located in the branch for this video in the [[GitHub]] repo.
 >
-> **[5:32](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=332)** Now that we've covered lag and lead, you have two more powerful SQL commands to add to your skillset list.
+> **[5:32](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=332)** Now that we've covered lag and lead, you have two more powerful [[SQL]] commands to add to your skillset list.
 >
 > **[5:38](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=338)** Uses of lag and lead come up frequently in my work, and I hope that you're able to apply them soon to yours.
 >
-> **[5:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=344)** In the next chapter, we'll hone our skills on two additional important Windows functions, rank and dense rank.
+> **[5:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=344)** In the next chapter, we'll hone our skills on two additional important [[Windows]] functions, rank and dense rank.
 >
 > **[5:50](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-using-lag-and-lead-to-determine-most-recent-order-quantities?u=76281980&t=350)** See you there.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), product (2), data (1), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[GitHub]] (1), [[SQL]] (1), [[Windows]] (1)
 > **Env Vars:** cte (6), sql (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** next chapter (1), in the next (1)
@@ -1634,14 +1607,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ranking window functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980)
+#### [Introduction to ranking window functions](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980&t=0)** - [Instructor] The windows functions we've discussed so far have been largely based on the next sequential order.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980&t=0)** - [Instructor] The [[Windows]] functions we've discussed so far have been largely based on the next sequential order.
 >
-> **[0:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980&t=5)** In this chapter, we'll look at ordering values in SQL in a slightly different way, through a ranking Windows function called rank and dense_rank.
+> **[0:05](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980&t=5)** In this chapter, we'll look at ordering values in [[SQL]] in a slightly different way, through a ranking Windows function called rank and dense_rank.
 >
 > **[0:13](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/introduction-to-ranking-window-functions?u=76281980&t=13)** Like lag and lead, the rank and dense_rank functions are similar enough to each other that we can discuss them both in the same chapter here.
 >
@@ -1689,18 +1661,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), next (2), [[SQL]] (1), data (1), database (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[SQL]] (1)
 > **Code Identifiers:** dense_rank (5), row_number (2)
 > **Env Vars:** sql (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demonstrating the distinction between RANK() and DENSE_RANK()
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/demonstrating-the-distinction-between-rank-and-dense-rank?u=76281980)
+#### [Demonstrating the distinction between RANK() and DENSE_RANK()](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/demonstrating-the-distinction-between-rank-and-dense-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/demonstrating-the-distinction-between-rank-and-dense-rank?u=76281980&t=0)** - [Instructor] Ranking Windows functions rank your data in order based on criteria.
+> **[0:00](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/demonstrating-the-distinction-between-rank-and-dense-rank?u=76281980&t=0)** - [Instructor] Ranking [[Windows]] functions rank your data in order based on criteria.
 >
 > **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/demonstrating-the-distinction-between-rank-and-dense-rank?u=76281980&t=4)** Determining whether you want to use the rank or dense rank command largely depends on your use case and how you want to handle tied values.
 >
@@ -1776,12 +1747,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[Windows]] (3)
 > **Analogies:** such as (2), just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: RANK() and DENSE_RANK()
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-rank-and-dense-rank?u=76281980)
+#### [Challenge: RANK() and DENSE_RANK()](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/challenge-rank-and-dense-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1799,8 +1769,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: RANK() and DENSE_RANK()
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980)
+#### [Solution: RANK() and DENSE_RANK()](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1848,7 +1817,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=164)** Dense rank is one, two or three in the where clause.
 >
-> **[2:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=168)** But remember, that as we've seen another videos you can not filter on columns created by a Windows function in the where clause without a subquery or a CTE.
+> **[2:48](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=168)** But remember, that as we've seen another videos you can not filter on columns created by a [[Windows]] function in the where clause without a subquery or a CTE.
 >
 > **[2:56](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/solution-rank-and-dense-rank?u=76281980&t=176)** And because I prefer the syntax of a CTE I'm going to wrap this query in a CTE and call it ranks.
 >
@@ -1894,7 +1863,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), prompt (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** cte (6)
 > **Speakers:** - [lecturer] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -1904,8 +1873,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrap-up
-> [LinkedIn Learning](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980)
+#### [Wrap-up](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1915,7 +1883,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=4)** To recap what all we've learned, first we started learning the intricacies of subqueries and common table expressions.
 >
-> **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=11)** Then we spring into the wonderful world of Windows functions.
+> **[0:11](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=11)** Then we spring into the wonderful world of [[Windows]] functions.
 >
 > **[0:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=14)** Before we close out, I want to remind you to commit your exercise files to your personal repository.
 >
@@ -1937,15 +1905,15 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=61)** Whether you've joined this course to learn new skills, reaffirm existing skills, or prepare for an interview I hope that the practice problems we've worked through here today can inspire you to apply these concepts in ways you may not have considered before.
 >
-> **[1:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=74)** And finally, keep sharpening your SQL skills.
+> **[1:14](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=74)** And finally, keep sharpening your [[SQL]] skills.
 >
-> **[1:17](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=77)** LinkedIn Learning has several other courses for you to keep the fun going.
+> **[1:17](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=77)** [[LinkedIn]] Learning has several other courses for you to keep the fun going.
 >
 > **[1:20](https://www.linkedin.com/learning/top-five-things-to-know-in-advanced-sql/wrap-up?u=76281980&t=80)** Thank you for learning with me.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Windows]] (1), [[SQL]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[SQL]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** sql (1)
 > **Exercise Files:** exercise files (1)

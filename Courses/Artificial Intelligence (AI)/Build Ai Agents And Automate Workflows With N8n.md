@@ -71,12 +71,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making AI agents work for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
+#### [Making AI agents work for you](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980&t=0)** - The other day, my coworker asked if it was possible to create an AI-powered Slack bot that can go into a Google Sheet and retrieve only the information they asked for, and then update information when necessary without them having to touch the spreadsheet.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980&t=0)** - The other day, my coworker asked if it was possible to create an AI-powered [[Slack]] bot that can go into a [[Google]] Sheet and retrieve only the information they asked for, and then update information when necessary without them having to touch the spreadsheet.
 >
 > **[0:15](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/making-ai-agents-work-for-you?u=76281980&t=15)** And I said, "Yes, you can, if you use an automation tool like n8n."
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (4), ai (3), [[Slack]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Google]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - the (1)
@@ -102,12 +101,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing n8n
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
+#### [Introducing n8n](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=0)** - [Instructor] N8N is an open source AI workflow automation tool or AI orchestration tool.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=0)** - [Instructor] N8N is an open source AI workflow automation tool or [[AI Orchestration]] tool.
 >
 > **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=6)** Using n8n, you set up workflows in a visual environment like the one you see here, where you start off with a trigger, then set up some sequence of actions that include AI tools, external tools, functions, whatever you desire to perform some specific output.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=39)** That n8n is open source.
 >
-> **[0:41](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=41)** You can go to GitHub, download n8n onto your computer and install it locally on your system or in the cloud.
+> **[0:41](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=41)** You can go to [[GitHub]], download n8n onto your computer and install it locally on your system or in the cloud.
 >
 > **[0:49](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=49)** This means individuals, companies, and enterprises can set up n8n in whatever secure environment they have on-prem or in the cloud in secure storage and have complete control over what happens.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=85)** If you choose this option, the recommendation is to host it somewhere in the cloud, so you have a URL you can reference anytime you are using webhooks.
 >
-> **[1:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=92)** The easiest way to do this is through a Docker installation, and if you go over to the sidebar in documentation, under server setups, you'll see you have server setups for all the major services, including Digital Ocean, Azure, Google Cloud, and Amazon Web Services.
+> **[1:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=92)** The easiest way to do this is through a Docker installation, and if you go over to the sidebar in documentation, under server setups, you'll see you have server setups for all the major services, including Digital Ocean, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]], and [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[1:47](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/introducing-n8n?u=76281980&t=107)** As I record this course, I'm using my own account on n8n Cloud, and if you want to follow along without doing any of the installation, you can sign up for your own free 14 day trial on [n8n.io](https://n8n.io).
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), ai (4), [[Automation]] (1), [[Orchestration]] (1), application (1)
+> **Frameworks & Libraries:** [[AI Orchestration]] (1), [[GitHub]] (1), [[Microsoft Azure|Azure]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Prerequisites:** set up (3), install (1)
 > **CLI Commands:** make (1), docker (1)
 > **URLs:** [n8n.io](https://n8n.io) (2)
@@ -156,8 +154,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is an  (1)
 
-#### The Plan: An AI-powered Slackbot managing a Google Sheet
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980)
+#### [The Plan: An AI-powered Slackbot managing a Google Sheet](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -165,17 +162,17 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=1)** Imagine an organization with hundreds of volunteers and managers who want to gain access to information about the volunteers as easy as possible.
 >
-> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=10)** All the volunteer information is in a spreadsheet, but there's a lot of it, and the organization uses Slack for internal communication.
+> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=10)** All the volunteer information is in a spreadsheet, but there's a lot of it, and the organization uses [[Slack]] for internal communication.
 >
 > **[0:17](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=17)** I want to build a Slack bot that takes natural language queries from the users, goes to n8n, and uses an automation process to retrieve information from the spreadsheet and also update information in the spreadsheet when necessary.
 >
-> **[0:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=32)** That is not a straightforward process, because natural language queries can take many different forms, and this is one of the places where AI excels.
+> **[0:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=32)** That is not a straightforward process, because natural language queries can take many different [[Forms]], and this is one of the places where AI excels.
 >
 > **[0:40](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=40)** Because AI can work as an interface between us humans, our language, and our data to interpret the intent of our queries and turn it into something the data system can use, and that is one of the things n8n is really good for.
 >
 > **[0:56](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=56)** We start with a message from Slack, then we analyze the intent of the request and find out, is this an info request, is it an update request, or is it out of scope?
 >
-> **[1:08](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=68)** Then based on that information, we either go to the Google Sheet and retrieve information, or go to Google Sheets and update the information, or create some sort of response saying, "Hey, I don't have this information," or, "Your question is out of scope," and send it back to Slack.
+> **[1:08](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=68)** Then based on that information, we either go to the [[Google]] Sheet and retrieve information, or go to Google Sheets and update the information, or create some sort of response saying, "Hey, I don't have this information," or, "Your question is out of scope," and send it back to Slack.
 >
 > **[1:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/the-plan-an-ai-powered-slackbot-managing-a-google-sheet?u=76281980&t=86)** Now, this workflow is intimidating.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (7), ai (4), [[Google]] (4), data (2), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Slack]] (7), [[Google]] (4), [[Forms]] (1)
 > **Tools:** slack (7)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -204,8 +201,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - okay (1)
 
-#### Creating a new n8n workflow with a trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980)
+#### [Creating a new n8n workflow with a trigger](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +229,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980&t=45)** If we click into On App Event, you see a long list of events from different services that can trigger actions.
 >
-> **[0:52](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980&t=52)** Under here, you'll find Slack, Google Workplace, Microsoft 365, and pretty much any other external service you already use.
+> **[0:52](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980&t=52)** Under here, you'll find [[Slack]], [[Google]] Workplace, [[Microsoft 365]], and pretty much any other external service you already use.
 >
 > **[0:59](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-new-n8n-workflow-with-a-trigger?u=76281980&t=59)** And anytime you do something in those services, those actions can trigger events inside N8N.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (3), [[Google]] (1), [[Microsoft 365]] (1), node (1)
+> **Frameworks & Libraries:** [[Slack]] (3), [[Google]] (1), [[Microsoft 365]] (1)
 > **Tools:** slack (3)
 > **CLI Commands:** find (1), node (1)
 > **Env Vars:** n8n (2)
@@ -274,8 +270,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding an AI agent and a chat model
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980)
+#### [Adding an AI agent and a chat model](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -309,7 +304,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=93)** So, here, I'm going to scroll to the bottom and choose OpenAI Chat Model.
 >
-> **[1:38](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=98)** This is the OpenAI API, so now I need to add in my credentials.
+> **[1:38](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=98)** This is the [[OpenAI API]], so now I need to add in my credentials.
 >
 > **[1:41](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=101)** I can do that by clicking Select Credential, Create new credential.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=146)** To get back to the agent, I'll click on the symbol up here, and now I can set up the interaction with the AI.
 >
-> **[2:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=152)** Up here at the top it says Source for Prompt Connected Chat Trigger Node, and that's what you see down here, json.chatInput.
+> **[2:32](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=152)** Up here at the top it says Source for Prompt Connected Chat Trigger Node, and that's what you see down here, [[JSON]].chatInput.
 >
 > **[2:39](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=159)** That's this node over here that says Hello, that's the message I sent in, and this is a breakdown of all the inputs that are available currently.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=203)** This is an expression, so you can call anything.
 >
-> **[3:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=206)** You can even put in JavaScript expressions if you want to.
+> **[3:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=206)** You can even put in [[JavaScript]] expressions if you want to.
 >
 > **[3:29](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=209)** Now, this is the user message.
 >
@@ -377,7 +372,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=306)** We have Memory for when you want to create an actual chat.
 >
-> **[5:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=310)** You can plug in a standard simple memory, that's the n8n database, or you can use MongoDB or Motorhead or Postgres or whatever you want.
+> **[5:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=310)** You can plug in a standard simple memory, that's the n8n database, or you can use [[MongoDB]] or Motorhead or [[PostgreSQL|Postgres]] or whatever you want.
 >
 > **[5:18](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-an-ai-agent-and-a-chat-model?u=76281980&t=318)** But for our app, we don't actually need memory, this is a one-and-done transaction, so I'm not going to plug that in, and you can also plug in Tools.
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), node (6), data (3), next (2), [[OpenAI API]] (2)
+> **Frameworks & Libraries:** [[OpenAI API]] (2), [[JSON]] (1), [[JavaScript]] (1), [[MongoDB]] (1), [[PostgreSQL|Postgres]] (1)
 > **CLI Commands:** node (6)
 > **Env Vars:** api (3), request (2)
 > **UI Navigation:** click on (2), go to (2), select the (1)
@@ -394,18 +389,17 @@ created: 2026-05-02
 > **Code Identifiers:** chatinput (1)
 > **URLs:** [openai.com](https://openai.com) (1)
 
-#### Adding a tool to the AI agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980)
+#### [Adding a tool to the AI agent](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=0)** - [Narrator] The tool feature in AI agents allow us to plug external services, custom functions, even other workflows into the AI agent for the AI model to use.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=0)** - [Narrator] The tool feature in [[AI Agents]] allow us to plug external services, custom functions, even other workflows into the AI agent for the AI model to use.
 >
 > **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=10)** And this is what makes n8n and these AI agents so powerful.
 >
 > **[0:13](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=13)** The easiest way to understand what's going on here is through a basic example.
 >
-> **[0:16](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=16)** So up here I have a Google sheet that has two sheets in it, a short sheet with nine volunteers, and a full sheet with over a hundred volunteers.
+> **[0:16](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=16)** So up here I have a [[Google]] sheet that has two sheets in it, a short sheet with nine volunteers, and a full sheet with over a hundred volunteers.
 >
 > **[0:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=26)** We're going to work with a short one for now.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=214)** The model realizes it can use the tool then calls in Google sheets.
 >
-> **[3:40](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=220)** Google sheets returns all the data from the entire sheet as JSON, so we can see it here.
+> **[3:40](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=220)** Google sheets returns all the data from the entire sheet as [[JSON]], so we can see it here.
 >
 > **[3:47](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-tool-to-the-ai-agent?u=76281980&t=227)** All that data gets passed into the model.
 >
@@ -529,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (14), ai (10), data (7), feature (2), database (1)
+> **Frameworks & Libraries:** [[Google]] (14), [[AI Agents]] (2), [[JSON]] (1)
 > **UI Navigation:** click on (2), select the (2), go to (1), dropdown (1)
 > **Prerequisites:** set up (3), setup (1)
 > **Env Vars:** api (1), json (1)
@@ -537,8 +531,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using a sub-workflow as a tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980)
+#### [Using a sub-workflow as a tool](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,9 +539,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=4)** You can see it right down here.
 >
-> **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=6)** The number of tokens being passed into the model is really high.
+> **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=6)** The number of [[Tokens]] being passed into the model is really high.
 >
-> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=12)** And that's because when we call the model, after the Google Sheets lookup, all the information from the sheet is passed back to the AI model.
+> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=12)** And that's because when we call the model, after the [[Google]] Sheets lookup, all the information from the sheet is passed back to the AI model.
 >
 > **[0:21](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=21)** That's okay when we only have 10 entries, but if I switch over to the main sheet with over 100 lines, it becomes an awful lot of data.
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=103)** Now, I could put in an expression here, but I would still need to get the AI to output the correct column name.
 >
-> **[1:50](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=110)** And no matter how much prompt engineering you do, that will never be a reliable option.
+> **[1:50](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=110)** And no matter how much [[Prompt Engineering]] you do, that will never be a reliable option.
 >
 > **[1:55](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-a-sub-workflow-as-a-tool?u=76281980&t=115)** So this is already a non-starter.
 >
@@ -638,7 +631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Google]] (5), data (5), [[Tokens]] (2), database (2)
+> **Frameworks & Libraries:** [[Google]] (5), [[Tokens]] (2), [[Prompt Engineering]] (1)
 > **Code Identifiers:** query_value (4), query_column (3)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
@@ -647,8 +640,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the filter node to modify data
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980)
+#### [Using the filter node to modify data](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -660,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=11)** I'll go into Row lookup, and right now there's nothing except the trigger, which explains why no information is coming back.
 >
-> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=18)** So let's add in the Google Sheets.
+> **[0:18](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=18)** So let's add in the [[Google]] Sheets.
 >
 > **[0:22](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=22)** And this time we're not using Google Sheets as a tool, so that means when I select Google Sheets here, I get to pick what type of action I want.
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=54)** I'll start by clicking this node button.
 >
-> **[0:57](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=57)** Under what happens next, I'll go down to Data transformation.
+> **[0:57](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=57)** Under what happens next, I'll go down to [[Data Transformation]].
 >
 > **[1:01](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=61)** Here, we have a bunch of different options, including Add or remove items.
 >
@@ -718,7 +710,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=171)** We get the correct answer here.
 >
-> **[2:54](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=174)** Let's look, 388 tokens.
+> **[2:54](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=174)** Let's look, 388 [[Tokens]].
 >
 > **[2:57](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/using-the-filter-node-to-modify-data?u=76281980&t=177)** That's a good sign.
 >
@@ -762,19 +754,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (8), node (2), next (2), [[Data Transformation]] (1), ai (1)
+> **Frameworks & Libraries:** [[Google]] (8), [[Data Transformation]] (1), [[Tokens]] (1)
 > **Cross-References:** go back to (5)
 > **CLI Commands:** node (2), make (1), find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an MCP server in n8n
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980)
+#### [Creating an MCP server in n8n](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=0)** - [Instructor] AI agents can use multiple different tools at the same time.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=0)** - [Instructor] [[AI Agents]] can use multiple different tools at the same time.
 >
 > **[0:04](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=4)** It's not immediately obvious the way things are laid out right now, but if I move this tool to the side, you can see here I can click on plus and add additional tools.
 >
@@ -788,7 +779,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=26)** I could do that right here.
 >
-> **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=28)** Click plus, go search for Google Sheets update, and just add the tool in.
+> **[0:28](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=28)** Click plus, go search for [[Google]] Sheets update, and just add the tool in.
 >
 > **[0:33](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=33)** But there's a good chance, later on, I'll want to build another workflow that is also integrating with Google Sheets, and I want to use the same setup again.
 >
@@ -880,7 +871,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=248)** We get an answer over here.
 >
-> **[4:09](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=249)** Looking at the tokens, it looks like we got only the information we needed.
+> **[4:09](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=249)** Looking at the [[Tokens]], it looks like we got only the information we needed.
 >
 > **[4:14](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-an-mcp-server-in-n8n?u=76281980&t=254)** And going in here, scrolling down, you see we only got that one entry.
 >
@@ -892,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (4), ai (3), node (2), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[AI Agents]] (1), [[Tokens]] (1)
 > **Env Vars:** mcp (21), url (8)
 > **CLI Commands:** make (3), node (2), find (1)
 > **UI Navigation:** click on (3), go to (1)
@@ -901,8 +892,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Analogies:** just like (1)
 
-#### Adding tools to the MCP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980)
+#### [Adding tools to the MCP server](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980&t=7)** So let's add in a new tool.
 >
-> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980&t=9)** I'll click Plus here, then say Google Sheets.
+> **[0:09](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980&t=9)** I'll click Plus here, then say [[Google]] Sheets.
 >
 > **[0:14](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-tools-to-the-mcp-server?u=76281980&t=14)** I wanted to Google Sheets tool.
 >
@@ -1020,14 +1010,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (3)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Env Vars:** mcp (11), url (4), false (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a Slackbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980)
+#### [Creating a Slackbot](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1035,7 +1024,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980&t=6)** That allowed me to use the chat down here and test out the AI agent as I was building it.
 >
-> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980&t=12)** And now that it's functioning the way I want to, it's time to move on to the actual integration because this AI agent isn't supposed to just work inside N8N, it's supposed to work with Slack.
+> **[0:12](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980&t=12)** And now that it's functioning the way I want to, it's time to move on to the actual integration because this AI agent isn't supposed to just work inside N8N, it's supposed to work with [[Slack]].
 >
 > **[0:24](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/creating-a-slackbot?u=76281980&t=24)** I need to add a Slack trigger at the front and then send Slack messages out at the back and this chat message received trigger will become just a backup for testing.
 >
@@ -1091,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (9), ai (2), api (1), next (1)
+> **Frameworks & Libraries:** [[Slack]] (9)
 > **Tools:** slack (9)
 > **Env Vars:** n8n (2)
 > **UI Navigation:** scroll down (2)
@@ -1100,12 +1089,11 @@ created: 2026-05-02
 > **URLs:** [slack.com](https://slack.com) (1)
 > **Cross-References:** go back to (1)
 
-#### Authenticating Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980)
+#### [Authenticating Slack](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=0)** - [Instructor] Now we need to authenticate Slack with n8n.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=0)** - [Instructor] Now we need to authenticate [[Slack]] with n8n.
 >
 > **[0:03](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=3)** Here, under OAuth & Permissions, we have an OAuth token.
 >
@@ -1167,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=129)** So I'll move it up here, grab the end, and pull it down into AI Agent.
 >
-> **[2:15](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=135)** Then I'll go into the AI Agent settings and I'll have this new Slack trigger, which has different information than the JSON chat input.
+> **[2:15](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=135)** Then I'll go into the AI Agent settings and I'll have this new Slack trigger, which has different information than the [[JSON]] chat input.
 >
 > **[2:24](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/authenticating-slack?u=76281980&t=144)** Here, I want the message, which sit all the way down here.
 >
@@ -1207,7 +1195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (13), [[JSON]] (3), ai (2), api (1), next (1)
+> **Frameworks & Libraries:** [[Slack]] (13), [[JSON]] (3)
 > **Tools:** slack (13)
 > **Env Vars:** url (5), json (3), api (1)
 > **UI Navigation:** go to (4), dropdown (1), select the (1)
@@ -1215,12 +1203,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a Slack trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-slack-trigger?u=76281980)
+#### [Adding a Slack trigger](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-slack-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-slack-trigger?u=76281980&t=0)** - [Speaker] To send messages to Slack.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-slack-trigger?u=76281980&t=0)** - [Speaker] To send messages to [[Slack]].
 >
 > **[0:02](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/adding-a-slack-trigger?u=76281980&t=2)** I'll start by adding an item to the end of the AI agent here and say Slack, send a message.
 >
@@ -1266,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (8), ai (2), api (1)
+> **Frameworks & Libraries:** [[Slack]] (8)
 > **Tools:** slack (8)
 > **Non-Speech:** (typing loudly) (2)
 > **Env Vars:** api (1)
@@ -1274,12 +1261,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [speaker] (1)
 
-#### Sending messages to Slack
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980)
+#### [Sending messages to Slack](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=0)** - [Instructor] Now that everything is working, it's time to take the workflow from inactive in testing mode to active, so I don't have to click execute workflow every time I want to send a message from Slack.
+> **[0:00](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=0)** - [Instructor] Now that everything is working, it's time to take the workflow from inactive in testing mode to active, so I don't have to click execute workflow every time I want to send a message from [[Slack]].
 >
 > **[0:11](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=11)** To do that, I first need to go into the Slack Trigger and change the webhook URL from Test URL to Production URL, copy it, then go up into Slack API find the Event Subscriptions, and here I want to change the Request URL so that we are using the Production URL.
 >
@@ -1321,7 +1307,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=111)** And here you can go in and inspect each of the executions.
 >
-> **[1:54](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=114)** So for example, here we can look at the Row lookup and see Manager, Nitin, Google Sheets.
+> **[1:54](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=114)** So for example, here we can look at the Row lookup and see Manager, Nitin, [[Google]] Sheets.
 >
 > **[2:01](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/sending-messages-to-slack?u=76281980&t=121)** We got the entire thing, all the entries, and then for the filter, it discarded 77 items and kept 33 items.
 >
@@ -1337,7 +1323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (4), api (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Slack]] (4), [[Google]] (1)
 > **Env Vars:** url (6), api (1), mcp (1)
 > **Tools:** slack (4)
 > **UI Navigation:** go to (2), toggle (1), open the (1)
@@ -1350,8 +1336,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,7 +1346,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=8)** So go try it for yourself.
 >
-> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=10)** And because I know you want to play around with what I've built, I've placed all of these workflows and the data that I used in the GitHub repository for this course.
+> **[0:10](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=10)** And because I know you want to play around with what I've built, I've placed all of these workflows and the data that I used in the [[GitHub]] repository for this course.
 >
 > **[0:20](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=20)** And that's one of the cool things about N8N I didn't show you earlier.
 >
@@ -1383,9 +1368,9 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=71)** The answer is when you start integrating services in automation like this, you also give people, and sometimes even an AI control over things that previously only you could control.
 >
-> **[1:22](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=82)** The Google sheet that I set up is my Google sheet, and only I have access to it.
+> **[1:22](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=82)** The [[Google]] sheet that I set up is my Google sheet, and only I have access to it.
 >
-> **[1:28](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=88)** But now that I've set it up to be integrated with Slack, anyone with access to that Slack channel can message lookup and make changes to my Google sheet.
+> **[1:28](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=88)** But now that I've set it up to be integrated with [[Slack]], anyone with access to that Slack channel can message lookup and make changes to my Google sheet.
 >
 > **[1:38](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=98)** This more complex workflow is probably closer to what I would build if I was actually shipping this into production, because within this workflow, I can put in stops and checks and balances to make sure the person using the workflow actually has permission to do it.
 >
@@ -1403,7 +1388,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=153)** See how they wired together, try them out for yourself and keep building on them.
 >
-> **[2:37](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=157)** And as you do so, go find me on LinkedIn and tell me about your experiences, because I love to hear what you built, what worked, what didn't, and what you learned in your own building process.
+> **[2:37](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=157)** And as you do so, go find me on [[LinkedIn]] and tell me about your experiences, because I love to hear what you built, what worked, what didn't, and what you learned in your own building process.
 >
 > **[2:49](https://www.linkedin.com/learning/build-ai-agents-and-automate-workflows-with-n8n/next-steps?u=76281980&t=169)** And finally, as always, whenever you run into issues, start by looking at the docs.
 >
@@ -1417,7 +1402,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Automation]] (3), [[Google]] (3), [[Slack]] (3), data (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Slack]] (3), [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), go build (2), find (2)
 > **Env Vars:** n8n (4)
 > **Tools:** slack (3), github (1)

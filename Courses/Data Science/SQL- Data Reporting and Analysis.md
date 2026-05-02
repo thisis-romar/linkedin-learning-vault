@@ -107,22 +107,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Don't let your reporting system hold you back
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
+#### [Don't let your reporting system hold you back](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=0)** - [Emma] If your reporting system is holding you back SQL could help.
+> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=0)** - [Emma] If your reporting system is holding you back [[SQL]] could help.
 >
 > **[0:04](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=4)** This course will teach you to access data directly from your database, merging tables and reporting exactly the data you want.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=11)** It's much quicker than downloading it and then manipulating in Excel or Access.
+> **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=11)** It's much quicker than downloading it and then manipulating in [[Microsoft Excel|Excel]] or Access.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=17)** SQL can also be used in the advanced settings of many reporting systems.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=21)** Luckily it's intuitive even for non-programmers.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=25)** My name is Emma Saunders, and I've worked with data and databases for more than 20 years.
+> **[0:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=25)** My name is Emma Saunders, and I've worked with data and [[Databases]] for more than 20 years.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/don-t-let-your-reporting-system-hold-you-back?u=76281980&t=30)** I'm going to teach you the SQL you need to build reports including grouping, filtering, and analyzing.
 >
@@ -130,12 +129,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (3), data (3), database (1), [[Microsoft Excel|Excel]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Excel|Excel]] (1), [[Databases]] (1)
 > **Env Vars:** sql (3)
 > **Speakers:** - [emma] (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -149,19 +147,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Programming]] (1), database (1), data (1)
 > **Speakers:** - [narrator] (1)
 
-#### What is SQL?
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980)
+#### [What is SQL?](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=0)** - [Instructor] SQL stands for Structured Query Language and it's used to retrieve data from databases.
+> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=0)** - [Instructor] [[SQL]] stands for Structured Query Language and it's used to retrieve data from [[Databases]].
 >
 > **[0:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=6)** You'll often hear people refer to SQL as sequel.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=9)** When we talk about databases, in this course, we mean relational databases.
+> **[0:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=9)** When we talk about databases, in this course, we mean [[Relational Databases]].
 >
 > **[0:13](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=13)** They can be thought of like a spreadsheet, in that they have tables and columns.
 >
@@ -171,9 +167,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=25)** The bad news is that there are lots of versions of SQL.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=28)** In fact, each company that makes database software, such as Oracle or Microsoft, uses a slightly different version of SQL.
+> **[0:28](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=28)** In fact, each company that makes database software, such as Oracle or [[Microsoft]], uses a slightly different version of SQL.
 >
-> **[0:36](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=36)** The good news is that they're all similar at a basic level and this course covers all the main ones, Oracle, Microsoft, PostgreSQL, and MySQL.
+> **[0:36](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=36)** The good news is that they're all similar at a basic level and this course covers all the main ones, Oracle, Microsoft, [[PostgreSQL]], and [[MySQL]].
 >
 > **[0:45](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=45)** There is an ISO standard that acts as a template for these vendors.
 >
@@ -181,7 +177,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=55)** Within each type of SQL, there are some different versions, as the language has changed over the decades.
 >
-> **[1:01](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=61)** For Microsoft, I've tested my queries against SQL server 2017.
+> **[1:01](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=61)** For Microsoft, I've tested my queries against [[Microsoft SQL Server|SQL server]] 2017.
 >
 > **[1:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=66)** For Postgre I've used 9.6.
 >
@@ -199,7 +195,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=95)** That's the name of the software, web-based software that we're going to use.
 >
-> **[1:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=100)** So a word of warning here.
+> **[1:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=100)** So a [[Microsoft Word|word]] of warning here.
 >
 > **[1:42](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=102)** Anyone across the whole world can access and alter this database, including deleting the entire thing.
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=124)** Don't consider this link to be a permanent link.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=127)** It's best that you Google for yourself in case the link address changes.
+> **[2:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=127)** It's best that you [[Google]] for yourself in case the link address changes.
 >
 > **[2:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=131)** If the entire database is unavailable, come up here where it says Current server, top left, and change to MariaDB.
 >
@@ -253,7 +249,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=230)** If none of these has worked, you could be using a database from another vendor.
 >
-> **[3:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=235)** And there's quite a handy list of relational database management systems here on Wikipedia.
+> **[3:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=235)** And there's quite a handy list of relational [[Database Management]] systems here on Wikipedia.
 >
 > **[4:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/what-is-sql?u=76281980&t=242)** As you can see, there's an awful lot of them.
 >
@@ -261,7 +257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[SQL]] (8), [[Microsoft]] (5), [[MySQL]] (4), [[Databases]] (2)
+> **Frameworks & Libraries:** [[SQL]] (8), [[Microsoft]] (5), [[MySQL]] (4), [[Databases]] (2), [[Relational Databases]] (2)
 > **Env Vars:** sql (9), iso (1)
 > **CLI Commands:** mysql (4), find (3)
 > **Versions:** 9.6 (1), version 8 (1), 8.03 (1)
@@ -275,16 +271,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get familiar with phpMyAdmin
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
+#### [Get familiar with phpMyAdmin](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=0)** - [Instructor] You already know that we are going to use a demo database online, and to find that we can Google demo Sakila database in any order, and there it is.
+> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=0)** - [Instructor] You already know that we are going to use a demo database online, and to find that we can [[Google]] demo Sakila database in any order, and there it is.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=12)** The reason I'm asking you to Google, instead of giving you a permanent link is because sometimes the link changes.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=18)** This is a free resource to help people learn and use SQL.
+> **[0:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=18)** This is a free resource to help people learn and use [[SQL]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=22)** So, here, is the demo that we are going to be using.
 >
@@ -302,9 +297,9 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=49)** Dropdown gives us two options.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=51)** They're both demo databases.
+> **[0:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=51)** They're both demo [[Databases]].
 >
-> **[0:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=53)** One says Maria DB, and the other one says MySQL, and I just want to show you something in Maria DB.
+> **[0:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=53)** One says Maria DB, and the other one says [[MySQL]], and I just want to show you something in Maria DB.
 >
 > **[1:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/get-familiar-with-phpmyadmin?u=76281980&t=60)** On the left here, are a list of all of the databases available.
 >
@@ -358,7 +353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), [[MySQL]] (5), [[SQL]] (4), data (3), [[Google]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (4), [[Google]] (2), [[Databases]] (2)
 > **CLI Commands:** mysql (5), find (2)
 > **Env Vars:** sql (4)
 > **Cross-References:** go back to (2), coming up (1)
@@ -367,8 +362,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the demo database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-the-demo-database?u=76281980)
+#### [Understand the demo database](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-the-demo-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,20 +400,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), data (4), business (1)
 > **Env Vars:** dvd (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ChatGPT to check SQL code
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980)
+#### [Using ChatGPT to check SQL code](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=0)** - [Instructor] The days of posting questions into a forum and waiting hopefully and hopelessly for a response are gone, you'll be pleased to know.
 >
-> **[0:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=9)** If you haven't got into ChatGPT yet or any other Large Language Model, it can really help you on your learning journey.
+> **[0:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=9)** If you haven't got into [[ChatGPT]] yet or any other Large Language Model, it can really help you on your learning journey.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=17)** It is the ultimate patient teacher; it never gets crossed with you, never gets frustrated.
 >
@@ -461,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=178)** I mean, how helpful is that?
 >
-> **[3:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=180)** Not to say you don't need this course, you still definitely need this course to understand the basics of SQL and why the language is structured the way it is, but this is your number one super helpful learning companion, and I urge you to get on board with ChatGPT.
+> **[3:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/using-chatgpt-to-check-sql-code?u=76281980&t=180)** Not to say you don't need this course, you still definitely need this course to understand the basics of [[SQL]] and why the language is structured the way it is, but this is your number one super helpful learning companion, and I urge you to get on board with ChatGPT.
 
 > [!info]- Semantic Content
 >
@@ -477,12 +469,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieve data with SELECT
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
+#### [Retrieve data with SELECT](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=0)** - [Instructor] When you ask a database to give you some data, you write a piece of code called a query and that's the queue in SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=0)** - [Instructor] When you ask a database to give you some data, you write a piece of code called a query and that's the queue in [[SQL]].
 >
 > **[0:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=7)** To retrieve data from a database, we use what's called the SELECT query.
 >
@@ -550,7 +541,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=180)** Now notice that the actor table is enclosed in back ticks.
 >
-> **[3:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=185)** This is an oddity of MySQL.
+> **[3:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=185)** This is an oddity of [[MySQL]].
 >
 > **[3:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=189)** Back ticks aren't the same as single quotation marks or apostrophes, by the way.
 >
@@ -558,9 +549,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=202)** They are optional here.
 >
-> **[3:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=205)** And I want to try and quote the queries in this course without back ticks in them, because that way, the queries will work across Microsoft Oracle, MySQL, and PostgreSQL.
+> **[3:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=205)** And I want to try and quote the queries in this course without back ticks in them, because that way, the queries will work across [[Microsoft]] Oracle, MySQL, and [[PostgreSQL]].
 >
-> **[3:39](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=219)** Back ticks should be used in MySQL, where the table name has a special character or a space or a carriage return, or uses a reserved word such as date in the table name, because those things would confuse the database.
+> **[3:39](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=219)** Back ticks should be used in MySQL, where the table name has a special character or a space or a carriage return, or uses a reserved [[Microsoft Word|word]] such as date in the table name, because those things would confuse the database.
 >
 > **[3:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/retrieve-data-with-select?u=76281980&t=233)** So if we had say an @ sign there, and the database maybe would get confused.
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (12), data (5), [[MySQL]] (5), [[SQL]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[SQL]] (2), [[Microsoft]] (2), [[PostgreSQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** select (9), sql (2), fields (1), kevin (1), bloom (1)
 > **SQL:** select (9)
 > **CLI Commands:** mysql (5), find (1), make (1)
@@ -609,8 +600,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **UI Navigation:** click on (1)
 
-#### Filter results with the WHERE clause
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980)
+#### [Filter results with the WHERE clause](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,17 +612,17 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=45)** Let's hit Go.
 >
-> **[0:46](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=46)** So now we've got 196 rows, which sounds about right and in all versions of SQL that this course covers, you could also use an exclamation mark, followed by an equals sign.
+> **[0:46](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=46)** So now we've got 196 rows, which sounds about right and in all versions of [[SQL]] that this course covers, you could also use an exclamation mark, followed by an equals sign.
 >
 > **[0:56](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=56)** That is also a not operator.
 >
 > **[0:59](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=59)** Now let's have a look at this query.
 >
-> **[1:01](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=61)** Notice that the word Penelope is within single quotation marks.
+> **[1:01](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=61)** Notice that the [[Microsoft Word|word]] Penelope is within single quotation marks.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=65)** Single quotes are needed to enclose text, and they're not the same as the back ticks that we saw earlier, and they're not the same as double quotation marks either.
 >
-> **[1:15](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=75)** These things all have different meanings in the world of databases.
+> **[1:15](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=75)** These things all have different meanings in the world of [[Databases]].
 >
 > **[1:19](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-results-with-the-where-clause?u=76281980&t=79)** Back ticks were optional earlier around the table name actor but leaving out the single quotation marks on the word Penelope is not an option.
 >
@@ -692,7 +682,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[SQL]] (3), data (2), [[Microsoft Word|Word]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Microsoft Word|Word]] (2), [[Databases]] (1)
 > **Env Vars:** where (4), sql (3), between (3), select (2)
 > **SQL:** where (4), select (2)
 > **Cross-References:** go back to (1), later in (1)
@@ -701,8 +691,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** good practice (1)
 
-#### Use LIKE, IN, and wildcards with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980)
+#### [Use LIKE, IN, and wildcards with WHERE](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -728,11 +717,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=63)** You can put as many values as you like in these parentheses, by the way, as long as they're separated by commas.
 >
-> **[1:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=69)** SQL will also let you use wild cards to match part of a text.
+> **[1:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=69)** [[SQL]] will also let you use wild cards to match part of a text.
 >
 > **[1:13](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=73)** So let's say we wanted any actor whose name begins J O H N.
 >
-> **[1:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=81)** Then we could say like John, and then use the percent sign.
+> **[1:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=81)** Then we could say like [[John the Ripper|John]], and then use the percent sign.
 >
 > **[1:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=87)** Now that's returned us three rows, a John and two Johnny's.
 >
@@ -774,7 +763,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=198)** Because we haven't used the like keyword, the database has actually searched for a string that is Penelope percent and of course, it hasn't found one.
 >
-> **[3:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=207)** If you're using Oracle or Microsoft, there is a function called contains that achieves this effect, combining like with in, but sadly, that's not part of MySQL.
+> **[3:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=207)** If you're using Oracle or [[Microsoft]], there is a function called contains that achieves this effect, combining like with in, but sadly, that's not part of [[MySQL]].
 >
 > **[3:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=217)** Now let's look at combining and's and or's.
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=263)** This one's got an al and another al and Dallas Manor has an al in there, which is lowercase, incidentally but still matches this setting.
 >
-> **[4:33](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=273)** So these sorts of inquiries are case insensitive but I have come across situations where they're not case insensitive, particularly with PostgreSQL and I'm not sure whether that's a setting of the database or a feature of the language, but take care.
+> **[4:33](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=273)** So these sorts of inquiries are case insensitive but I have come across situations where they're not case insensitive, particularly with [[PostgreSQL]] and I'm not sure whether that's a setting of the database or a feature of the language, but take care.
 >
 > **[4:45](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-like-in-and-wildcards-with-where?u=76281980&t=285)** If you're not using MySQL, the case might matter.
 >
@@ -824,15 +813,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[MySQL]] (2), [[SQL]] (1), [[Microsoft]] (1), [[PostgreSQL]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[MySQL]] (2), [[SQL]] (1), [[Microsoft]] (1), [[PostgreSQL]] (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** mysql (2)
 > **Env Vars:** sql (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sort SQL results with ORDER BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980)
+#### [Sort SQL results with ORDER BY](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -866,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980&t=55)** Note that we put the filtering clause where before the order by clause.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980&t=62)** SQL requires you to write your queries in a particular order.
+> **[1:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980&t=62)** [[SQL]] requires you to write your queries in a particular order.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/sort-sql-results-with-order-by?u=76281980&t=65)** It doesn't mind if you have random spaces between words like this, or you can have extra carriage returns.
 >
@@ -878,15 +866,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **Env Vars:** cgmp (1), sql (1)
 > **CLI Commands:** make (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use string functions on your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980)
+#### [Use string functions on your data](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -896,7 +883,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=6)** So a string function is a formula that you can use on text.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=11)** SQL provides lots of functions to manipulate your data, which saves you having to download it and then manipulate your data in Excel or some other package.
+> **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=11)** [[SQL]] provides lots of functions to manipulate your data, which saves you having to download it and then manipulate your data in [[Microsoft Excel|Excel]] or some other package.
 >
 > **[0:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=21)** But it's really important to know which data type you're dealing with because some of the functions will only work on numbers or dates or strings.
 >
@@ -906,7 +893,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=46)** So if we click go, we can see Penelope has eight characters, Nick has four, Ed has two, et cetera.
 >
-> **[0:52](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=52)** Notice that if you're using Microsoft the function is LEN and not LENGTH.
+> **[0:52](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=52)** Notice that if you're using [[Microsoft]] the function is LEN and not LENGTH.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=58)** So using this function has created us a whole new column.
 >
@@ -938,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=129)** But all is not lost because Oracle, Postgre and Microsoft all offer a shortcut for CONCAT.
 >
-> **[2:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=136)** Instead of using the word CONCAT, you can use special symbols to indicate that you want to join the text together.
+> **[2:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=136)** Instead of using the [[Microsoft Word|word]] CONCAT, you can use special symbols to indicate that you want to join the text together.
 >
 > **[2:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=143)** So in Oracle and Postgre it's a double pipe, and in Microsoft it's a plus sign, like so.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=230)** The different types of SQL have different string functions available by the way.
 >
-> **[3:54](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=234)** And they can vary quite wildly so if you're not using MySQL, or even if you are in fact it's a good job to Google string functions followed by your database vendor name, Oracle, Microsoft, et cetera.
+> **[3:54](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=234)** And they can vary quite wildly so if you're not using [[MySQL]], or even if you are in fact it's a good job to [[Google]] string functions followed by your database vendor name, Oracle, Microsoft, et cetera.
 >
 > **[4:08](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-string-functions-on-your-data?u=76281980&t=248)** So let's have a look at some more common string functions UPPER and LOWER, which change the case of our strings.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[SQL]] (4), [[Microsoft]] (4), [[Microsoft Word|Word]] (3), database (2)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft]] (4), [[Microsoft Word|Word]] (3), [[Microsoft Excel|Excel]] (1), [[MySQL]] (1)
 > **Env Vars:** concat (6), sql (4), left (3), length (2), lower (2)
 > **Code Identifiers:** first_name (7)
 > **Definitions:** is a  (3)
@@ -1037,8 +1024,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Analogies:** for example (1)
 
-#### More advanced string functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980)
+#### [More advanced string functions](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,7 +1034,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=11)** Here we could use substring unless you're using Oracle, in which case you need substra.
 >
-> **[0:19](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=19)** Substra works in all of the four versions except Microsoft.
+> **[0:19](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=19)** Substra works in all of the four versions except [[Microsoft]].
 >
 > **[0:22](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=22)** So none of them work across the board.
 >
@@ -1076,17 +1062,17 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=96)** We're using substring, but we've passed in fewer arguments.
 >
-> **[1:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=100)** In fact, substring can accept commands in a number of ways in most versions of SQL, but not Microsoft, from what I've found.
+> **[1:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=100)** In fact, substring can accept commands in a number of ways in most versions of [[SQL]], but not Microsoft, from what I've found.
 >
 > **[1:48](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=108)** Again, we've told the database that we want part of first name returned and the two says we want to start at position two.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=117)** The lack of a third parameter, the length, tells phpMyAdmin we want the rest of the word, however long it may be.
+> **[1:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=117)** The lack of a third parameter, the length, tells phpMyAdmin we want the [[Representational State Transfer (REST)|rest]] of the [[Microsoft Word|word]], however long it may be.
 >
 > **[2:04](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=124)** So substring has an advantage over left and right in that it doesn't need to know how long the word is.
 >
 > **[2:10](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=130)** So you don't need to couple it with the length function and you can see that's worked, 'cause it's returned us enelope and ick and d and ennifer.
 >
-> **[2:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=141)** For MySQL and Oracle, you could also use a negative number here,
+> **[2:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=141)** For [[MySQL]] and Oracle, you could also use a negative number here,
 >
 > **[2:26](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=146)** - 4, to return characters from the end of the string rather than the start.
 >
@@ -1134,7 +1120,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=270)** Notice that I'm using capitals here, by the way, for my actor name and MySQL doesn't really mind but Oracle and Postgre can be more picky.
 >
-> **[4:39](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=279)** Trim can be really useful for removing unwanted spaces where your data quality isn't great, but it's much more advanced than just shifting spaces.
+> **[4:39](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=279)** Trim can be really useful for removing unwanted spaces where your [[Data Quality]] isn't great, but it's much more advanced than just shifting spaces.
 >
 > **[4:48](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/more-advanced-string-functions?u=76281980&t=288)** Click on the film text table and look at the description column.
 >
@@ -1214,7 +1200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Word|Word]] (6), [[MySQL]] (5), database (4), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Microsoft]] (7), [[Microsoft Word|Word]] (6), [[MySQL]] (5), [[SQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** mysql (5), find (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1223,8 +1209,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Change report headings with an alias
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980)
+#### [Change report headings with an alias](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1234,7 +1219,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=16)** So if we look down here, we've got Zero Cage, with nine characters, and that's at the top, because alphabetically, it comes last.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=24)** Remember that length would be len in Microsoft, and that concat in Oracle would only accept two parameters.
+> **[0:24](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=24)** Remember that length would be len in [[Microsoft]], and that concat in Oracle would only accept two parameters.
 >
 > **[0:31](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=31)** You'd have to use the shorthand, which is the double pipe, for Oracle.
 >
@@ -1246,7 +1231,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=57)** So we can say, select concat first name, last name, as name.
 >
-> **[1:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=62)** That might be a reserved word outside of mySQL, so if it doesn't work for you, think of a different name.
+> **[1:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=62)** That might be a reserved [[Microsoft Word|word]] outside of [[MySQL]], so if it doesn't work for you, think of a different name.
 >
 > **[1:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/change-report-headings-with-an-alias?u=76281980&t=71)** As name, as len, and those aliases then pop up as our column headings, which is extremely useful, if you're trying to build a report.
 >
@@ -1268,13 +1253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1), [[MySQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Word|Word]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (1), mysql (1)
 > **Code Identifiers:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use date functions with WHERE
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980)
+#### [Use date functions with WHERE](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1312,7 +1296,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=153)** So it's worth just dwelling for a second on this date once again, we could describe this as European date format couldn't we, because it's it's year and then month and then day, which is the European way of doing things.
 >
-> **[2:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=167)** In most forms of SQL you can store timezone data as well, along with your date and time, and that's a different data type.
+> **[2:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=167)** In most [[Forms]] of [[SQL]] you can store timezone data as well, along with your date and time, and that's a different data type.
 >
 > **[2:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=175)** So it would be clear in the structure tab that you had a data type that supported timezones down here, it would have a special name.
 >
@@ -1336,7 +1320,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=278)** So at the risk of repeating myself, the parts of a date are separated by hyphens, according to the SQL standard and the parts of time are separated by colons.
 >
-> **[4:49](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=289)** Now we are dealing with a timestamp here, just a note if you're using Microsoft that the word timestamp refers to a completely different data type, and it's now been deprecated possibly because Microsoft realized it was confusing.
+> **[4:49](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=289)** Now we are dealing with a timestamp here, just a note if you're using [[Microsoft]] that the [[Microsoft Word|word]] timestamp refers to a completely different data type, and it's now been deprecated possibly because Microsoft realized it was confusing.
 >
 > **[5:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=300)** So the nearest data type in Microsoft now is called date time.
 >
@@ -1358,7 +1342,7 @@ created: 2026-05-02
 >
 > **[6:41](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=401)** So we say WHERE DATE = and here we do need single quotes again, '2006-02-15' like so, and there we've got 603, with Microsoft 2008 and later you would need to use the convert function and in Oracle you would need to use TO_DATE, in Postgre you'd use date, part, or extract.
 >
-> **[7:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=427)** Another key date function you should know about is date format which show your data in a different format and this can save you hours in Excel.
+> **[7:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=427)** Another key date function you should know about is date format which show your data in a different format and this can save you hours in [[Microsoft Excel|Excel]].
 >
 > **[7:17](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=437)** So you, for instance, if your dates are stored in a European date format and you're in the states and you want to report them in an American style date format this is how you would do this.
 >
@@ -1374,11 +1358,11 @@ created: 2026-05-02
 >
 > **[8:32](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=512)** So for Oracle and Postgre you would use TO_CHAR, just write that down so you can see what I mean, TO_CHAR, like that.
 >
-> **[8:42](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=522)** And the formatting inside might be rather different, and in Microsoft, as long as you're using SQL server 2012 or later, you can use FORMAT.
+> **[8:42](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-date-functions-with-where?u=76281980&t=522)** And the formatting inside might be rather different, and in Microsoft, as long as you're using [[Microsoft SQL Server|SQL server]] 2012 or later, you can use FORMAT.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), database (9), [[SQL]] (7), [[Microsoft]] (6), [[Forms]] (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft]] (6), [[Forms]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** sql (8), where (3), year (2), to_char (2), current_timestamp (1)
 > **Definitions:** is a  (4), is called (1)
 > **Code Identifiers:** last_update (2), phpmyadmin (1)
@@ -1387,8 +1371,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Query a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980)
+#### [Challenge: Query a table](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1406,7 +1389,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980&t=40)** If you like, you can pause the video now and try to build the query, or you can wait for a few more clues.
 >
-> **[0:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980&t=47)** So in other words, to help your customer, I want you to return all the records from the film table where the rating is either G or PG and the description field contains the word drama.
+> **[0:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980&t=47)** So in other words, to help your customer, I want you to return all the records from the film table where the rating is either G or PG and the description field contains the [[Microsoft Word|word]] drama.
 >
 > **[0:59](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-query-a-table?u=76281980&t=59)** There's more than one correct solution here.
 >
@@ -1416,7 +1399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[Search]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dvd (1)
 > **Definitions:** in other words (1)
@@ -1424,8 +1407,7 @@ created: 2026-05-02
 > **Speakers:** - as (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Query a table
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980)
+#### [Solution: Query a table](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1421,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980&t=27)** Next, we need to place a filter using the where claws.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980&t=31)** We can either use rating in brackets with the in key word or we could use the or statement, which I'm not going to show you.
+> **[0:31](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980&t=31)** We can either use rating in brackets with the in key [[Microsoft Word|word]] or we could use the or statement, which I'm not going to show you.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-query-a-table?u=76281980&t=38)** Either of these is fine, but if you use the or statement you might need parentheses around part of your where clause.
 >
@@ -1457,12 +1439,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Challenge: Convert case
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-convert-case?u=76281980)
+#### [Challenge: Convert case](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-convert-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1484,13 +1465,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), management (1), data (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Convert case
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980)
+#### [Solution: Convert case](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,7 +1487,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=48)** So just in case somebody comes along and changes it, we can put up around here, but strictly that shouldn't be necessary.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=57)** Okay, so we have the first character, now we need the rest.
+> **[0:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=57)** Okay, so we have the first character, now we need the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=60)** Now, if we were to use the string function called right here we would also need to use the length of function to work out how long the title field is in each case.
 >
@@ -1528,7 +1507,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=111)** So we need to make that lower case.
 >
-> **[1:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=115)** If you're not using MySQL by the way, some other versions of SQL have a proper function which of course makes this far easier.
+> **[1:55](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=115)** If you're not using [[MySQL]] by the way, some other versions of [[SQL]] have a proper function which of course makes this far easier.
 >
 > **[2:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-convert-case?u=76281980&t=125)** So now all that's left is to put these together and we can do that using CONCAT.
 >
@@ -1553,8 +1532,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use GROUP BY with count
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
+#### [Use GROUP BY with count](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,7 +1590,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=135)** I don't know if you can read the text in the warning message, but it says we're trying to pull both grouped and ungrouped data at the same time.
 >
-> **[2:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=143)** Earlier versions of MySQL actually let us do this but it was very misleading.
+> **[2:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=143)** Earlier versions of [[MySQL]] actually let us do this but it was very misleading.
 >
 > **[2:28](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=148)** So just click that to get rid of it.
 >
@@ -1644,7 +1622,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=226)** So we can see that the most common district is in fact Buenos Aires in the database.
 >
-> **[3:52](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=232)** So a little word on that alias here.
+> **[3:52](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=232)** So a little [[Microsoft Word|word]] on that alias here.
 >
 > **[3:54](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=234)** Note, we used an alias for count which was given the as keyword and then we referred to that further down.
 >
@@ -1656,7 +1634,7 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=258)** So we say where address ID is less than 10, and now we've returned seven rows and we can see that Alberta and QLD are the most frequent.
 >
-> **[4:32](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=272)** Our SQL statements from now on in need to follow this basic structure.
+> **[4:32](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=272)** Our [[SQL]] statements from now on in need to follow this basic structure.
 >
 > **[4:38](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-group-by-with-count?u=76281980&t=278)** SQL is quite forgiving about things like random spaces or carriage returns but they do require things to be in sequence.
 >
@@ -1676,7 +1654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), [[MySQL]] (2), next (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** qld (2), sql (2)
 > **CLI Commands:** mysql (2)
 > **Analogies:** for instance (1), such as (1)
@@ -1685,8 +1663,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter grouped results with HAVING
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980)
+#### [Filter grouped results with HAVING](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1738,7 +1715,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=123)** So the average of those values, which is between 3 and 7, 4.985 there.
 >
-> **[2:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=131)** Now, I have run an average or a standard deviation calculation once in Microsoft, and it rounded this number up, which was quite misleading.
+> **[2:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=131)** Now, I have run an average or a standard deviation calculation once in [[Microsoft]], and it rounded this number up, which was quite misleading.
 >
 > **[2:20](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=140)** So watch out for that, that could be down to data types or database settings, or just a peculiarity of the language.
 >
@@ -1782,7 +1759,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=246)** Then you might think that's suspiciously rounded, but actually it's because the last update column only contains the 15th of February, 2006, in every single row.
 >
-> **[4:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=256)** Remember that there are differences across different types of SQL, unfortunately here.
+> **[4:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=256)** Remember that there are differences across different types of [[SQL]], unfortunately here.
 >
 > **[4:20](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/filter-grouped-results-with-having?u=76281980&t=260)** So for example, in Postgre, you would need to use EXTRACT instead of YEAR.
 >
@@ -1790,7 +1767,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (3), [[Microsoft]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[SQL]] (1)
 > **Env Vars:** group (4), having (3), select (3), min (3), where (2)
 > **SQL:** group by (4), having (3), select (3), where (2), order by (1)
 > **Analogies:** for example (2), such as (1)
@@ -1799,8 +1776,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### Deduplicate with SELECT DISTINCT
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/deduplicate-with-select-distinct?u=76281980)
+#### [Deduplicate with SELECT DISTINCT](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/deduplicate-with-select-distinct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1902,7 +1878,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (1)
 > **Env Vars:** dvd (3)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (2), for instance (1)
@@ -1910,8 +1885,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge rows with GROUP BY
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980)
+#### [Merge rows with GROUP BY](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1919,7 +1893,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=12)** Postgre has string agg.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=14)** Microsoft offers this function too now, as of SQL server 2017, and Oracle has list agg.
+> **[0:14](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=14)** [[Microsoft]] offers this function too now, as of [[Microsoft SQL Server|SQL server]] 2017, and Oracle has list agg.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=19)** So let's take a look at what this one does.
 >
@@ -1941,28 +1915,27 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=69)** So 99800, blah, blah, blah, came before 93435 in the table.
 >
-> **[1:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=76)** This function can be really useful if you're trying to create a data array, for another language, such as JavaScript.
+> **[1:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=76)** This function can be really useful if you're trying to create a data array, for another language, such as [[JavaScript]].
 >
 > **[1:22](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=82)** And you can usually change the separator, so instead of a comma, you could have a pipe, or a semicolon, or something.
 >
-> **[1:30](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=90)** In my SQL you could say, select district, group concat, phone, we could say order by phone ascending, separator.
+> **[1:30](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=90)** In my [[SQL]] you could say, select district, group concat, phone, we could say order by phone ascending, separator.
 >
 > **[1:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=107)** And then because it's a string, we use single quotes, so we're asking it to separate the numbers with a semicolon instead of a comma, and order the results.
 >
 > **[1:59](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=119)** So it may be rather hard to spot, but I can tell you now that they're separated by semicolons, and where previously we began with 998, we now begin with 282, because we've organized our data.
 >
-> **[2:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=132)** In Microsoft, PostgreSQL, and Oracle, you would set the separator, or the limiter, as an optional second argument within the functions I told you previously, which were string agg, or list agg.
+> **[2:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-rows-with-group-by?u=76281980&t=132)** In Microsoft, [[PostgreSQL]], and Oracle, you would set the separator, or the limiter, as an optional second argument within the functions I told you previously, which were string agg, or list agg.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (1), [[JavaScript]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Microsoft SQL Server|Sql server]] (1), [[JavaScript]] (1), [[SQL]] (1), [[PostgreSQL]] (1)
 > **Env Vars:** sql (2)
 > **Analogies:** for instance (1), such as (1)
 > **Code Identifiers:** group_concat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Cost analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-cost-analysis?u=76281980)
+#### [Challenge: Cost analysis](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-cost-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,14 +1963,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), data (1)
 > **Analogies:** imagine (1), such as (1)
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Solution: Cost analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-cost-analysis?u=76281980)
+#### [Solution: Cost analysis](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-cost-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2033,7 +2004,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
@@ -2043,8 +2013,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make your queries faster
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
+#### [Make your queries faster](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2058,9 +2027,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=32)** But when we're dealing with millions of rows, this sort of thing can make a substantial difference.
 >
-> **[0:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=37)** The limit keyword works in MySQL and PostgreSQL, but unfortunately the keywords differ in different versions.
+> **[0:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=37)** The limit keyword works in [[MySQL]] and [[PostgreSQL]], but unfortunately the keywords differ in different versions.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=44)** So for Microsoft, the keyword is top, and you use it like this.
+> **[0:44](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=44)** So for [[Microsoft]], the keyword is top, and you use it like this.
 >
 > **[0:48](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/make-your-queries-faster?u=76281980&t=48)** You'd say select top 25, field name, whatever that field name may be from the payment table.
 >
@@ -2086,7 +2055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (2), database (2), [[PostgreSQL]] (1), [[Microsoft]] (1), data (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[PostgreSQL]] (1), [[Microsoft]] (1)
 > **CLI Commands:** mysql (2), make (1)
 > **Env Vars:** rownum (2)
 > **Versions:** 0.0009 (1), 0.007 (1)
@@ -2094,8 +2063,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand SQL indexes and keys
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980)
+#### [Understand SQL indexes and keys](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2161,7 +2129,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=176)** So if we were to insert a new row into this table, the database would automatically populate this field with a number one higher than the current maximum value.
 >
-> **[3:08](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=188)** And this preserves data integrity, which is why primary keys are so good for joining tables together on.
+> **[3:08](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=188)** And this preserves [[Data Integrity]], which is why primary keys are so good for joining tables together on.
 >
 > **[3:14](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=194)** Then we have store_id and address_id.
 >
@@ -2181,7 +2149,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=248)** But creating indexes takes memory, so we don't want to make every field an index.
 >
-> **[4:14](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=254)** In MySQL, when you make a field into a primary key the database automatically creates an index for you, but that's not true of all types of SQL.
+> **[4:14](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=254)** In [[MySQL]], when you make a field into a primary key the database automatically creates an index for you, but that's not true of all types of [[SQL]].
 >
 > **[4:24](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-indexes-and-keys?u=76281980&t=264)** So why do we have indexes on these three fields then?
 >
@@ -2237,7 +2205,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (12), [[Search]] (2), [[MySQL]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[MySQL]] (1), [[SQL]] (1)
 > **Code Identifiers:** store_id (5), address_id (4), last_name (4), customer_id (2), first_name (1)
 > **Definitions:** is a  (5), stands for (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1)
@@ -2246,8 +2214,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **Analogies:** it's like (1)
 
-#### EDIT: Visualize your database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980)
+#### [EDIT: Visualize your database](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,7 +2280,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=228)** Why not just stick the city and the country_ids into the address table?
 >
-> **[3:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=233)** Basically it's down to data integrity, the way this would show this data, the city data would show up in the front end is probably in a dropdown.
+> **[3:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=233)** Basically it's down to [[Data Integrity]], the way this would show this data, the city data would show up in the front end is probably in a dropdown.
 >
 > **[4:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=243)** So staff, when they're entering a customer_id, would select the city and the country from two different dropdowns, meaning that they haven't got to type the values in and potentially get them wrong, and it's also quicker for them.
 >
@@ -2357,7 +2324,7 @@ created: 2026-05-02
 >
 > **[6:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=385)** Now the film table contains one row per film, and you might wonder why film category and film actor are needed, because couldn't this information go straight into the film table and save us a bit of bother?
 >
-> **[6:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=397)** I suspect that this was done to solve a common problem in database design, what I think of as the one to many problem.
+> **[6:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=397)** I suspect that this was done to solve a common problem in [[Database Design]], what I think of as the one to many problem.
 >
 > **[6:44](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/edit-visualize-your-database?u=76281980&t=404)** There will be multiple actors in each film, and there are probably multiple categories too.
 >
@@ -2383,7 +2350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (7), next (5), business (1)
+> **Frameworks & Libraries:** [[Data Integrity]] (2), [[Database Design]] (2)
 > **Code Identifiers:** staff_id (4), inventory_id (3), customer_id (3), rental_id (2), country_id (2)
 > **UI Navigation:** go to (2), dropdown (1), select the (1)
 > **Definitions:** is a  (4)
@@ -2392,8 +2359,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Merge data across tables with JOIN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980)
+#### [Merge data across tables with JOIN](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2435,7 +2401,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=125)** We couldn't leave those table names out because the column name is ambiguous.
 >
-> **[2:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=131)** MySQL would reach the first address ID, look it up, find two occurrences, and throw an error.
+> **[2:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=131)** [[MySQL]] would reach the first address ID, look it up, find two occurrences, and throw an error.
 >
 > **[2:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=136)** So we repeat the table name with a dot or a point.
 >
@@ -2453,7 +2419,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=173)** So the address table has six rows with IDs one to six and the customer table also has an address ID column and it has five rows.
 >
-> **[3:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=182)** When we make a join using our SQL, we are returning every row that has a record in both tables.
+> **[3:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=182)** When we make a join using our [[SQL]], we are returning every row that has a record in both tables.
 >
 > **[3:10](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-join?u=76281980&t=190)** This is a specific kind of join called an inner join.
 >
@@ -2503,15 +2469,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[MySQL]] (2), hit (1), database (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (1)
 > **CLI Commands:** mysql (2), find (2), make (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** sql (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand SQL JOINS
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980)
+#### [Understand SQL JOINS](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2547,7 +2512,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=66)** An outer join returns all rows from table A and B matched together where possible.
 >
-> **[1:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=72)** It's probably the least useful of the joins and it's not supported in MySQL.
+> **[1:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=72)** It's probably the least useful of the joins and it's not supported in [[MySQL]].
 >
 > **[1:17](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=77)** Outer joins are also called full joins and full outer joins.
 >
@@ -2615,7 +2580,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=222)** What we're saying is select the day and the person ID from our tables joined as they are joined normally where the person ID is null.
 >
-> **[3:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=231)** We would hope with data integrity being good that you wouldn't have any null values and therefore that you get a zero result set.
+> **[3:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=231)** We would hope with [[Data Integrity]] being good that you wouldn't have any null values and therefore that you get a zero result set.
 >
 > **[3:58](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/understand-sql-joins?u=76281980&t=238)** But we have one row returned here, which is Friday because there's one case in which the person ID is missing from table B.
 >
@@ -2625,15 +2590,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[MySQL]] (1), database (1)
+> **Frameworks & Libraries:** [[MySQL]] (1), [[Data Integrity]] (1)
 > **CLI Commands:** mysql (1), make (1)
 > **UI Navigation:** select the (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine rows with SQL UNION
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980)
+#### [Combine rows with SQL UNION](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2715,7 +2679,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980&t=248)** But I find it's best to include an alias column to help describe them and stop you making errors.
 >
-> **[4:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980&t=256)** You can still filter statements within union all because essentially, you have two completely separate SQL queries here with a keyword in between them.
+> **[4:16](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980&t=256)** You can still filter statements within union all because essentially, you have two completely separate [[SQL]] queries here with a keyword in between them.
 >
 > **[4:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/combine-rows-with-sql-union?u=76281980&t=265)** So if you wanted to place a filter on the actor table, you would do it here.
 >
@@ -2727,7 +2691,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1)
 > **UI Navigation:** go to (2), select the (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** sql (1)
@@ -2736,8 +2700,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Best Practices:** it's best to (1)
 
-#### Merge data across tables with IN
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-in?u=76281980)
+#### [Merge data across tables with IN](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/merge-data-across-tables-with-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2797,14 +2760,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Env Vars:** where (2), mary (1), smith (1), select (1)
 > **SQL:** where (2), select (1)
 > **Code Identifiers:** customer_id (1), field_name (1)
 > **Speakers:** - [instructor] (1)
 
-#### Select from a selection with subqueries
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980)
+#### [Select from a selection with subqueries](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2846,7 +2807,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980&t=107)** So now we're using two different kinds of alias.
 >
-> **[1:50](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980&t=110)** We're using f to refer to the results set or in MySQL terminology, a derived table, and we're using fn to return, to refer, sorry, to the field name, first_name.
+> **[1:50](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980&t=110)** We're using f to refer to the results set or in [[MySQL]] terminology, a derived table, and we're using fn to return, to refer, sorry, to the field name, first_name.
 >
 > **[2:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/select-from-a-selection-with-subqueries?u=76281980&t=123)** If we run this, it throws an error and that's because f.first_name is no longer recognized.
 >
@@ -2872,7 +2833,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (1)
 > **Code Identifiers:** first_name (8)
 > **SQL:** select (8)
 > **Env Vars:** select (8)
@@ -2880,8 +2841,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Join tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-join-tables?u=76281980)
+#### [Challenge: Join tables](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/challenge-join-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2905,13 +2865,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Code Identifiers:** film_category (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Join tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-join-tables?u=76281980)
+#### [Solution: Join tables](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/solution-join-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2999,7 +2957,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), next (1)
 > **Code Identifiers:** film_category (5), film_id (3), category_id (2)
 > **SQL:** join (2), where (2), select (1)
 > **Env Vars:** join (2), where (2), select (1)
@@ -3007,20 +2964,20 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Warnings:** warning (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 5. More Advanced SQL
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save your queries using a VIEW
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
+#### [Save your queries using a VIEW](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=0)** - [Instructor] In this section, we're going to look at views.
 >
-> **[0:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=3)** The word view has a really specific meaning in the world of databases.
+> **[0:03](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=3)** The [[Microsoft Word|word]] view has a really specific meaning in the world of [[Databases]].
 >
 > **[0:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=7)** A view is a stored query.
 >
@@ -3028,9 +2985,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=15)** And if you come to the navigation on the left and we close the table's hierarchy, you can see we have functions, procedures, and views as well as tables.
 >
-> **[0:24](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=24)** And I should say, in this chapter where we look at these three things as well as variables, what follows relates just to MySQL.
+> **[0:24](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=24)** And I should say, in this chapter where we look at these three things as well as variables, what follows relates just to [[MySQL]].
 >
-> **[0:31](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=31)** Views, functions, procedures and variables are dealt with quite differently on the different types of SQL, but the principles are the same.
+> **[0:31](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=31)** Views, functions, procedures and variables are dealt with quite differently on the different types of [[SQL]], but the principles are the same.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=38)** So, for MySQL, we're going to expand the hierarchy for views, and you can see, we have seven views stored already for us.
 >
@@ -3126,7 +3083,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=315)** It's taken two tables, one with 200 actors and another with a thousand films and joined them together in a new way.
 >
-> **[5:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=323)** This would take you a long time to do in Excel, if you just downloaded all the data and then tried to match them up.
+> **[5:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=323)** This would take you a long time to do in [[Microsoft Excel|Excel]], if you just downloaded all the data and then tried to match them up.
 >
 > **[5:29](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/save-your-queries-using-a-view?u=76281980&t=329)** So, let's look again at how the query achieves this.
 >
@@ -3194,7 +3151,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Word|Word]] (3), [[MySQL]] (3), [[Databases]] (2), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[MySQL]] (3), [[Databases]] (2), [[SQL]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** mysql (3), make (1)
 > **UI Navigation:** click on (2), scroll down (1)
 > **Tools:** atom (1), anaconda (1)
@@ -3202,8 +3159,7 @@ created: 2026-05-02
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use variables
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980)
+#### [Use variables](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3217,7 +3173,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=51)** You don't have to go sifting through your code.
 >
-> **[0:54](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=54)** So in MySQL, to declare a variable you use the SET keyword, SET, and you use the at sign, @variable1, and I've just made that up.
+> **[0:54](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=54)** So in [[MySQL]], to declare a variable you use the SET keyword, SET, and you use the at sign, @variable1, and I've just made that up.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=65)** You could call it Fred or Mary, whatever you fancy, SET @variable1 = 5; and then we put a semicolon at the end because that is the end of one query and your database needs a semicolon to tell it to sort of execute that query before moving on to the next one.
 >
@@ -3227,7 +3183,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=119)** That was just to let you know and let me know that that was MySQL way of declaring a variable because of course they're all different.
 >
-> **[2:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=126)** So the Microsoft way of doing it, and this only works in what's called procedural SQL, which is where you have different lines of SQL, different queries that run one after the other and are related to each other.
+> **[2:06](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=126)** So the [[Microsoft]] way of doing it, and this only works in what's called procedural [[SQL]], which is where you have different lines of SQL, different queries that run one after the other and are related to each other.
 >
 > **[2:20](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=140)** You have to use a sort of more complicated set of extensions to the language.
 >
@@ -3261,7 +3217,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=263)** So the first one was variables as filters and that's what we've just done.
 >
-> **[4:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=267)** And the second one was storing your results set into a variable and for that, we use SELECT INTO and SELECT INTO works across all the different forms of SQL.
+> **[4:27](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=267)** And the second one was storing your results set into a variable and for that, we use SELECT INTO and SELECT INTO works across all the different [[Forms]] of SQL.
 >
 > **[4:39](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-variables?u=76281980&t=279)** This example I'm showing you here is a MySQL version but you can use SELECT INTO across all the main versions.
 >
@@ -3273,7 +3229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[MySQL]] (5), [[Microsoft]] (4), [[SQL]] (4), database (1)
+> **Frameworks & Libraries:** [[MySQL]] (5), [[Microsoft]] (4), [[SQL]] (4), [[Forms]] (1)
 > **Env Vars:** select (9), declare (5), set (4), where (4), sql (4)
 > **SQL:** select (9), where (4)
 > **Code Identifiers:** first_name (2), actor_id (1), pgsql (1), my_table (1), field_name (1)
@@ -3281,14 +3237,13 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Speakers:** - [instructor] (1)
 
-#### Use functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980)
+#### [Use functions](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=0)** - [Instructor] Now we're going to look at functions.
 >
-> **[0:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=2)** You may be familiar with functions already from Visual Basic or JavaScript but if you've never used a programming language, you've probably used a function in Excel.
+> **[0:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=2)** You may be familiar with functions already from Visual Basic or [[JavaScript]] but if you've never used a programming language, you've probably used a function in [[Microsoft Excel|Excel]].
 >
 > **[0:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=11)** So if you've typed in something like equals sum and then you've given a range of cells and you've hit enter, you've been using a function.
 >
@@ -3316,7 +3271,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=67)** And if we scroll down, there's a definition there.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=71)** Now we could have returned this definition programmatically in MySQL by saying, show create function and then using the function name, but this is just as easy to do.
+> **[1:11](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=71)** Now we could have returned this definition programmatically in [[MySQL]] by saying, show create function and then using the function name, but this is just as easy to do.
 >
 > **[1:21](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=81)** And just a reminder that what follows is specific to MySQL.
 >
@@ -3332,7 +3287,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=113)** So what does it mean to have that in brackets after the name of the function?
 >
-> **[1:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=117)** When we use this function in SQL, we're going to use it much like this.
+> **[1:57](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=117)** When we use this function in [[SQL]], we're going to use it much like this.
 >
 > **[2:02](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=122)** Select inventory help our customer.
 >
@@ -3382,7 +3337,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=252)** And what it's saying is if the query finds no rows at all, then return a null.
 >
-> **[4:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=258)** So show on screen the word null.
+> **[4:18](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=258)** So show on screen the [[Microsoft Word|word]] null.
 >
 > **[4:22](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-functions?u=76281980&t=262)** After that we have what looks like a regular select statement except that this one has an into keyword.
 >
@@ -3472,7 +3427,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (4), data (3), database (3), [[Microsoft Excel|Excel]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Microsoft Excel|Excel]] (2), [[JavaScript]] (1), [[SQL]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** mysql (4), make (2)
 > **Env Vars:** dvd (4), sql (1)
 > **Definitions:** is a  (4)
@@ -3480,8 +3435,7 @@ created: 2026-05-02
 > **Tools:** atom (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980)
+#### [Use procedures](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3497,7 +3451,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=30)** And it has a definition section, just like the others.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=33)** And note that this what follows is specific to MySQL.
+> **[0:33](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=33)** And note that this what follows is specific to [[MySQL]].
 >
 > **[0:37](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=37)** There's also this section above called parameters, and you can see there are three parameters, two input parameters and one output parameter.
 >
@@ -3529,7 +3483,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=146)** I'm just showing an example.
 >
-> **[2:28](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=148)** Equals at count, so you could use your var, your output parameter, your variable, you could use on a second line of SQL and subsequent lines.
+> **[2:28](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=148)** Equals at count, so you could use your var, your output parameter, your variable, you could use on a second line of [[SQL]] and subsequent lines.
 >
 > **[2:38](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/use-procedures?u=76281980&t=158)** So, that's there to help you out.
 >
@@ -3569,7 +3523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (2), data (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[SQL]] (1)
 > **CLI Commands:** mysql (2), make (2)
 > **Env Vars:** sql (1), dvd (1)
 > **UI Navigation:** click on (1)
@@ -3582,12 +3536,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=0)** - [Emma Saunders] Thank you for participating in this course on SQL.
+> **[0:00](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=0)** - [Emma Saunders] Thank you for participating in this course on [[SQL]].
 >
 > **[0:04](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=4)** I hope that you are now confident to design your own queries and run reports on your database directly.
 >
@@ -3601,7 +3554,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=25)** Making sense of this more complex SQL could really help you.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=29)** If you're going to be using SQL at work, you should also work out which type of SQL it is such as Microsoft or Oracle and refine your learning now to that particular vendor.
+> **[0:29](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=29)** If you're going to be using SQL at work, you should also work out which type of SQL it is such as [[Microsoft]] or Oracle and refine your learning now to that particular vendor.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-data-reporting-and-analysis-18082247/next-steps-and-additional-resources?u=76281980&t=40)** Because once you move past the basics, the SQL language can become wildly different.
 >
@@ -3613,7 +3566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (7), database (3), [[Microsoft]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft]] (1)
 > **Env Vars:** sql (7)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)

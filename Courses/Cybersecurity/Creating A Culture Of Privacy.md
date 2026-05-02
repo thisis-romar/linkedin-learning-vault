@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,11 +84,11 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=3)** Are you thinking about how you protect it?
 >
-> **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=5)** As we head into the digital age, protecting the privacy of data is an issue every organization needs to think about.
+> **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=5)** As we head into the digital age, protecting the [[Privacy]] of data is an issue every organization needs to think about.
 >
 > **[0:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=12)** Hi, my name is Kalinda Raina and I've been working in the field of privacy for over 16 years.
 >
-> **[0:17](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=17)** When I started my career, there wasn't much interest in the word privacy, and not many people understood what I did.
+> **[0:17](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=17)** When I started my career, there wasn't much interest in the [[Microsoft Word|word]] privacy, and not many people understood what I did.
 >
 > **[0:23](https://www.linkedin.com/learning/creating-a-culture-of-privacy/welcome?u=76281980&t=23)** Throughout my career, I've seen companies struggle with understanding what privacy is, why it matters, and how to effectively manage this issue.
 >
@@ -105,16 +104,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), data (2), career (2), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - does (1)
 
-#### Introduction to building a culture of privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980)
+#### [Introduction to building a culture of privacy](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=1)** - Privacy is a word we here a lot these days.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=1)** - [[Privacy]] is a [[Microsoft Word|word]] we here a lot these days.
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=3)** I hear concerns all the time from people about how much companies, the government, and even their friends know about them.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=54)** With respect to personal data specifically, the law in Europe provides that anyone who collects or uses your personal data in anyway, must have legal justification for doing so.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=64)** In the US, data privacy is often characterized as the right to be let alone.
+> **[1:04](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=64)** In the US, [[Data Privacy]] is often characterized as the right to be let alone.
 >
 > **[1:10](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=70)** In other words, the ability to choose not to have information or data about you shared with others.
 >
@@ -164,7 +162,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=161)** That means your name, email address, phone number, even your exact location.
 >
-> **[2:46](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=166)** Information you might think of as anonymous, like your Google searches or online reading habits, can be considered personal information because they reveal who you are over time.
+> **[2:46](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=166)** Information you might think of as anonymous, like your [[Google]] searches or online reading habits, can be considered personal information because they reveal who you are over time.
 >
 > **[2:56](https://www.linkedin.com/learning/creating-a-culture-of-privacy/introduction-to-building-a-culture-of-privacy?u=76281980&t=176)** There are very few actions that we take today and that we will take in the future that do not result in some form of personal information being created.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (21), data (7), [[Microsoft Word|Word]] (1), [[Google]] (1), management (1)
+> **Frameworks & Libraries:** [[Privacy]] (19), [[Data Privacy]] (2), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Definitions:** is a  (1), means that (1), in other words (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
@@ -188,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why organizations need to think about building a culture of privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
+#### [Why organizations need to think about building a culture of privacy](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=18)** This creates an incredible opportunity for companies, but with opportunity comes responsibility.
 >
-> **[0:24](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=24)** At the beginning of the internet revolution, privacy was often not a priority for companies.
+> **[0:24](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=24)** At the beginning of the internet revolution, [[Privacy]] was often not a priority for companies.
 >
 > **[0:29](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=29)** Privacy was typically an issue relegated to the lawyers and security pros within a company, if they existed at all, and the assumption was that if you had a privacy policy and a data breach plan, you were good to go.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=54)** Fast-forward to today.
 >
-> **[0:56](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=56)** The advent of social media, smartphones, cloud computing, and big data means that companies are collecting more data than ever before.
+> **[0:56](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=56)** The advent of social media, smartphones, [[Cloud Computing]], and [[Big Data]] means that companies are collecting more data than ever before.
 >
 > **[1:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=63)** Companies need to be thoughtful about the data they collect and how they use it.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=126)** To be successful in the digital revolution, companies will need more and more data about their customers.
 >
-> **[2:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=132)** This data will drive strategic decisions around new avenues of new growth, the products that should be developed, and the type of deals that may grow the company.
+> **[2:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=132)** This data will drive strategic decisions around new avenues of new growth, the [[Microsoft Products|products]] that should be developed, and the type of deals that may grow the company.
 >
 > **[2:21](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=141)** At the initial stages of the product lifecycle, if a company fails to collect data from its customers in a way that meets certain legal requirements, that same data may be completely off-limits for use by the company.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=156)** If you collect data, but fail to do so with the right protections in place, you may not be able to use that data in the future.
 >
-> **[2:44](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=164)** Decisions like that can impact the acquisition potential of your company, future valuation, and long-term product strategy.
+> **[2:44](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=164)** Decisions like that can impact the acquisition potential of your company, future valuation, and long-term [[Product Strategy]].
 >
 > **[2:52](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-organizations-need-to-think-about-building-a-culture-of-privacy?u=76281980&t=172)** Third, the biggest privacy risk to a company is its own employees.
 >
@@ -265,19 +262,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Privacy]] (16), [[Microsoft Products|Products]] (2), product (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (16), [[Microsoft Products|Products]] (2), [[Cloud Computing]] (1), [[Big Data]] (1), [[Product Strategy]] (1)
 > **Definitions:** is an  (2), is a  (1), means that (1)
 > **Env Vars:** gps (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - every (1)
 
-#### New privacy regulations on the horizon
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980)
+#### [New privacy regulations on the horizon](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=1)** - Privacy is not a new phenomenon.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=1)** - [[Privacy]] is not a new phenomenon.
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=3)** Humans have always had an instinctual desire for privacy, but the concept of privacy as a protected right under the law has only developed in the last few hundred years.
 >
@@ -287,7 +283,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=32)** These early forays into defining privacy in the US have stuck and resulted in a patchwork of various privacy laws designed to give individuals the freedom to protect their bodies, behavior, and data from prying eyes.
 >
-> **[0:45](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=45)** The US has developed laws around government use of data, as well as regulations protecting the privacy of health data, educational data, children's data, video viewing data, and financial data.
+> **[0:45](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=45)** The US has developed laws around government use of data, as well as regulations protecting the privacy of health data, educational data, children's data, video viewing data, and [[Financial Data]].
 >
 > **[0:58](https://www.linkedin.com/learning/creating-a-culture-of-privacy/new-privacy-regulations-on-the-horizon?u=76281980&t=58)** There are also numerous state laws covering protection of consumer's data in the event of a data breech.
 >
@@ -345,7 +341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Privacy]] (19), [[Financial Data]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (19), [[Financial Data]] (1)
 > **Env Vars:** gdpr (6)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (2), known as (1)
@@ -354,12 +350,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - privacy (1)
 
-#### Consumers are taking notice of privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980)
+#### [Consumers are taking notice of privacy](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=1)** - For a long time, privacy was viewed simply as a an issue of risk mitigation.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=1)** - For a long time, [[Privacy]] was viewed simply as a an issue of risk mitigation.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=5)** How do you avoid a data breach?
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=60)** While plenty was written about the invasion of people's privacy online, we didn't see consumers shifting their behavior.
 >
-> **[1:07](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=67)** People kept posting pictures of their kids on Facebook, shopping on Amazon, and searching Google.
+> **[1:07](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=67)** People kept posting pictures of their kids on Facebook, shopping on Amazon, and searching [[Google]].
 >
 > **[1:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=72)** People did not flee these sites and yearn for the days of dial-up the way privacy advocates predicted.
 >
@@ -401,13 +396,13 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=115)** First, more and more data is created online every day, and people are becoming more aware of how much data they're putting out in the ether.
 >
-> **[2:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=123)** The development of the iPhone, growth of Facebook, refinement of artificial intelligence, rise of cloud computing, and the internet of things, have all led to massive changes in the way with live, interact, and work.
+> **[2:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=123)** The development of the iPhone, growth of Facebook, refinement of [[Artificial Intelligence (AI)|artificial intelligence]], rise of [[Cloud Computing]], and the [[IoT|internet of things]], have all led to massive changes in the way with live, interact, and work.
 >
 > **[2:16](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=136)** For many of us, this means that there is a data point created on the internet for almost everything we do in a day.
 >
 > **[2:23](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=143)** The second impetus that drove an interest in privacy was the Snowden revelations.
 >
-> **[2:28](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=148)** In 2013, Edward Snowden, a former employee of the CIA and government contractor, disclosed documents revealing numerous global surveillance programs that were gathering massive amounts of information about individual citizens, from telecommunications carriers and internet companies.
+> **[2:28](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=148)** In 2013, Edward Snowden, a former employee of the CIA and government contractor, disclosed documents revealing numerous global surveillance programs that were gathering massive amounts of information about individual citizens, from [[Telecommunications]] carriers and internet companies.
 >
 > **[2:46](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=166)** For the first time since the dawn of the internet, the global population was confronted with the knowledge of just how much information could be gleaned about them.
 >
@@ -417,15 +412,15 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=191)** And they started looking at their governments, but also companies, to answer these questions.
 >
-> **[3:17](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=197)** Companies that choose to be transparent with their customers about their data practices and strategically approach the issue of data collection will have a competitive advantage going forward.
+> **[3:17](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=197)** Companies that choose to be transparent with their customers about their data practices and strategically approach the issue of [[Data Collection]] will have a competitive advantage going forward.
 >
 > **[3:27](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=207)** By helping customers understand what data you collect and how you use it, you deepen your relationship with them, and build the trust that will keep them loyal.
 >
-> **[3:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=216)** That is the new expectation for companies in the era of big data.
+> **[3:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/consumers-are-taking-notice-of-privacy?u=76281980&t=216)** That is the new expectation for companies in the era of [[Big Data]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Privacy]] (10), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Privacy]] (10), [[Google]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** ceo (1), cia (1)
 > **Definitions:** means that (1), is a  (1)
 > **Code Identifiers:** iphone (1)
@@ -436,12 +431,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assessing your current privacy program
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
+#### [Assessing your current privacy program](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=1)** - So you want to create a culture of privacy but first you have to get the basics right.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=1)** - So you want to create a culture of [[Privacy]] but first you have to get the basics right.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=5)** So let's talk about how you do that.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=26)** But if you do not already have someone in this role it's important to find someone higher up in the organization who is able to serve as the company champion of privacy.
 >
-> **[0:34](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=34)** He or she will make sure privacy is considered when key decisions about the company strategy of products are being made.
+> **[0:34](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=34)** He or she will make sure privacy is considered when key decisions about the company strategy of [[Microsoft Products|products]] are being made.
 >
 > **[0:41](https://www.linkedin.com/learning/creating-a-culture-of-privacy/assessing-your-current-privacy-program?u=76281980&t=41)** This person may sit in legal or your compliance arm they need to be senior enough to get folks to listen.
 >
@@ -507,14 +501,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (18), data (7), [[Microsoft Products|Products]] (3), [[Security]] (1), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (18), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (4), find (2)
 > **Prerequisites:** make sure you have (1), you need to have (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - so (1)
 
-#### Why a privacy policy is not enough
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980)
+#### [Why a privacy policy is not enough](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=35)** Now I realize you likely have legal and IT departments, and you're thinking, isn't their job to think about all this?
 >
-> **[0:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=42)** Don't they have contracts and policies that make sure we're thinking about privacy?
+> **[0:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=42)** Don't they have contracts and policies that make sure we're thinking about [[Privacy]]?
 >
 > **[0:46](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=46)** Isn't that enough?
 >
@@ -558,7 +551,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=146)** Even worse is the case where a company finds it can't pursue a new business opportunity, or an avenue of potential growth, because it did not put in place the right data policies or permissions to enable that strategy.
 >
-> **[2:38](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=158)** Tackling privacy issues is not easy.
+> **[2:38](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=158)** Tackling [[Privacy Issues]] is not easy.
 >
 > **[2:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=162)** As you begin to put in place the structure of a culture of privacy, your organization is going to struggle with the trade-offs.
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=187)** And at the end of the day, one of the hardest questions, what is the right thing to do?
 >
-> **[3:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=192)** How do we create amazing new products that push boundaries without eroding privacy?
+> **[3:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=192)** How do we create amazing new [[Microsoft Products|products]] that push boundaries without eroding privacy?
 >
 > **[3:19](https://www.linkedin.com/learning/creating-a-culture-of-privacy/why-a-privacy-policy-is-not-enough?u=76281980&t=199)** The companies that are asking these questions and struggling with the answers are the ones that will get it right in the long run.
 >
@@ -580,26 +573,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Privacy]] (15), business (2), [[Security]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (15), [[Privacy Issues]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - thanks (1)
 
-#### Making privacy a brand differentiator
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980)
+#### [Making privacy a brand differentiator](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=1)** - We are living in unique times.
 >
-> **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=3)** Cloud computing, advances in artificial intelligence, and the development of the Internet of Things means that there are endless streams of data created about us and our behavior every minute of every day.
+> **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=3)** [[Cloud Computing]], advances in [[Artificial Intelligence (AI)|artificial intelligence]], and the development of the [[IoT|Internet of Things]] means that there are endless streams of data created about us and our behavior every minute of every day.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=16)** That means that you and your customers are making decisions on a daily basis as to which companies you trust with the details of your life.
 >
 > **[0:25](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=25)** You may not even realize you're doing it, but subconsciously, you're making a decision of trust each time you make an online purchase from a company, do a search, send an email, or take any action online.
 >
-> **[0:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=36)** And therein lies the opportunity that building a culture of privacy within your organization offers.
+> **[0:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=36)** And therein lies the opportunity that building a culture of [[Privacy]] within your organization offers.
 >
 > **[0:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=42)** It's a brand differentiator, a way of communicating to your customer that they can trust you.
 >
@@ -641,13 +633,13 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=165)** Be guided by the question, "What is the right thing to do," and not, "What does the law require?"
 >
-> **[2:53](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=173)** Moving forward, privacy protection should be a practice as fundamental to the business as customer service.
+> **[2:53](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=173)** Moving forward, [[Privacy Protection]] should be a practice as fundamental to the business as customer service.
 >
 > **[2:59](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=179)** Privacy is an essential element of being a good business partner.
 >
 > **[3:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=183)** The added value of privacy is intrinsic no matter where your company sits in the digital economy.
 >
-> **[3:09](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=189)** From consumer goods to healthcare services, every business will benefit from proactively tackling privacy issues.
+> **[3:09](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=189)** From consumer goods to healthcare services, every business will benefit from proactively tackling [[Privacy Issues]].
 >
 > **[3:16](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=196)** It may take time for this idea to sink in at the highest executive levels of some companies, but establishing a culture of privacy will help to rapidly advance the conversation.
 >
@@ -655,11 +647,11 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=218)** What I mean here is that when you show your customers that you value their data and the privacy of it, you build trust.
 >
-> **[3:45](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=225)** And over time, that trust will lead to a relationship where customers are comfortable sharing data that will offer you valuable insights into who they are, why they buy your products, and what they want in the future.
+> **[3:45](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-a-brand-differentiator?u=76281980&t=225)** And over time, that trust will lead to a relationship where customers are comfortable sharing data that will offer you valuable insights into who they are, why they buy your [[Microsoft Products|products]], and what they want in the future.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (13), data (6), business (4), [[Search]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Privacy]] (13), [[Cloud Computing]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[IoT|Internet of things]] (1), [[Privacy Protection]] (1)
 > **Definitions:** means that (2), is a  (2), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **UI Navigation:** go to (1)
@@ -670,12 +662,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tying privacy to your corporate mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
+#### [Tying privacy to your corporate mission](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980&t=1)** - Beyond the brief mention of privacy in the annual business conduct training, most employees in companies never hear about the issue of privacy or think they have a role in protecting it.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980&t=1)** - Beyond the brief mention of [[Privacy]] in the annual business conduct training, most employees in companies never hear about the issue of privacy or think they have a role in protecting it.
 >
 > **[0:10](https://www.linkedin.com/learning/creating-a-culture-of-privacy/tying-privacy-to-your-corporate-mission?u=76281980&t=10)** Does this sound like your company?
 >
@@ -725,17 +716,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (13), data (5), product (2), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (13)
 > **Prerequisites:** set up (1), required to (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - beyond (1)
 
-#### Selling privacy to the executive team
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980)
+#### [Selling privacy to the executive team](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=1)** - Now that you have thought about how to tie your company's mission and values to privacy, you need to take the next step and it's a hard one, getting the executive team to buy in to the connection of privacy to the company's mission and values and then evangelizing the message to the rest of the organization.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=1)** - Now that you have thought about how to tie your company's mission and values to [[Privacy]], you need to take the next step and it's a hard one, getting the executive team to buy in to the connection of privacy to the company's mission and values and then evangelizing the message to the [[Representational State Transfer (REST)|rest]] of the organization.
 >
 > **[0:18](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=18)** As we've discussed, the C-Suite often sees privacy as an issue to manage and not an opportunity.
 >
@@ -757,7 +747,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=68)** Apple is an example of a company that has chosen to have its CEO speak out on this topic in a letter directly to its customers.
 >
-> **[1:15](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=75)** Microsoft has spent a tremendous amount of resources to help fight against government access to their customers' data.
+> **[1:15](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=75)** [[Microsoft]] has spent a tremendous amount of resources to help fight against government access to their customers' data.
 >
 > **[1:21](https://www.linkedin.com/learning/creating-a-culture-of-privacy/selling-privacy-to-the-executive-team?u=76281980&t=81)** The tech sector, which has traditionally been the most data heavy, is leading the way and showing that if you're going to use customer data to fuel your business, you're going to need to talk about privacy.
 >
@@ -797,7 +787,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (15), data (6), business (2), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (15), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft]] (1)
 > **Code Identifiers:** ebay (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
@@ -811,12 +801,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making privacy relevant to every employee
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
+#### [Making privacy relevant to every employee](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=1)** - A culture of privacy is built slowly over time.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=1)** - A culture of [[Privacy]] is built slowly over time.
 >
 > **[0:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=3)** Not with a quick decision, or the wave of the CEO's hand.
 >
@@ -846,7 +835,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=86)** This helps highlight how vulnerable security systems can be, and why your company needs more than just a simple password to protect it's most sensitive customer data.
 >
-> **[1:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=96)** Second, make your company's approach to data privacy easy to understand.
+> **[1:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=96)** Second, make your company's approach to [[Data Privacy]] easy to understand.
 >
 > **[1:40](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=100)** You can't expect every employee in your company to read your privacy policy.
 >
@@ -856,7 +845,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=114)** One way to do this, is to create a simple message around your company's approach to privacy that everyone can follow.
 >
-> **[2:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=121)** For example, LinkedIn uses the concept of the three C's, Clarity, Consistency, and Control.
+> **[2:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=121)** For example, [[LinkedIn]] uses the concept of the three C's, Clarity, Consistency, and Control.
 >
 > **[2:08](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-relevant-to-every-employee?u=76281980&t=128)** These are three words everyone in the company is familiar with and understands what they stand for.
 >
@@ -886,19 +875,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (17), data (7), business (1), [[Security]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (15), [[Data Privacy]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** ceo (2)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - a (1)
 
-#### Building a team of privacy champions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980)
+#### [Building a team of privacy champions](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=0)** - Let's say you have the fundamentals of a privacy program down.
+> **[0:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=0)** - Let's say you have the fundamentals of a [[Privacy]] program down.
 >
 > **[0:04](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=4)** A clear sense of how privacy ties into your company's value and mission.
 >
@@ -916,7 +904,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=28)** It's not possible to be everywhere in the company, raising the red flag whenever there is a privacy issue.
 >
-> **[0:33](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=33)** How do you successfully get the word out and begin to scale?
+> **[0:33](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=33)** How do you successfully get the [[Microsoft Word|word]] out and begin to scale?
 >
 > **[0:36](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=36)** Well first, identify teams in your organization who have a shared interest in the privacy program succeeding.
 >
@@ -924,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=48)** Next, create a privacy champion program.
 >
-> **[0:51](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=51)** Offer something beyond the annual privacy compliance training that inspires your employees.
+> **[0:51](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=51)** Offer something beyond the annual [[Privacy Compliance]] training that inspires your employees.
 >
 > **[0:56](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=56)** The goal of a program like this is to create a diverse group of employees from every part of your organization who are knowledgeable about the basics of privacy and your company's policies and procedures.
 >
@@ -958,7 +946,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=148)** I suggest creating a three to six month long course, that covers the issue of privacy generally, and then walks through your company's privacy policies, procedures, and philosophy.
 >
-> **[2:39](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=159)** Provide reading materials and host meetings, where the participants can discuss and debate real privacy issues occurring in your company.
+> **[2:39](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=159)** Provide reading materials and host meetings, where the participants can discuss and debate real [[Privacy Issues]] occurring in your company.
 >
 > **[2:47](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-a-team-of-privacy-champions?u=76281980&t=167)** You may even want to add a component of the course that requires the students to spot a privacy issue in their organization and work with the member of the privacy team to develop a solution.
 >
@@ -978,18 +966,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (18), teams (4), [[Privacy Issues]] (3), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (18), [[Privacy Issues]] (3), [[Microsoft Word|Word]] (1), [[Privacy Compliance]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Making privacy everyone's job
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-everyone-s-job?u=76281980)
+#### [Making privacy everyone's job](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-everyone-s-job?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-everyone-s-job?u=76281980&t=0)** - Privacy is often thought of as something the legal or compliance folks should handle.
+> **[0:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-everyone-s-job?u=76281980&t=0)** - [[Privacy]] is often thought of as something the legal or compliance folks should handle.
 >
 > **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/making-privacy-everyone-s-job?u=76281980&t=5)** So often, you have companies with great privacy policies and strong privacy teams, but when you ask a random employee about privacy their response is more often then not, I don't touch any crucial data.
 >
@@ -1039,7 +1026,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (16), data (14), teams (2), next (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (16)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** keep in mind (1)
@@ -1050,12 +1037,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a set of privacy guidelines for the business
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
+#### [Creating a set of privacy guidelines for the business](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=1)** - As important as it is to connect privacy to your company values and evangelize the issue to your employees, to truly build a culture of privacy, you need to operationalize it.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=1)** - As important as it is to connect [[Privacy]] to your company values and evangelize the issue to your employees, to truly build a culture of privacy, you need to operationalize it.
 >
 > **[0:11](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=11)** You can do this by developing documentation that guides key decisions and finding leaders throughout the organization who will support those decisions.
 >
@@ -1079,7 +1065,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=57)** This project is going to revolutionize the industry.
 >
-> **[1:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=60)** Once people get used to it, they won't worry about the privacy issues.
+> **[1:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=60)** Once people get used to it, they won't worry about the [[Privacy Issues]].
 >
 > **[1:04](https://www.linkedin.com/learning/creating-a-culture-of-privacy/creating-a-set-of-privacy-guidelines-for-the-business?u=76281980&t=64)** Or my favorite, our competitors are doing this, how will we stay relevant if we can't do it too?
 >
@@ -1127,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (22), data (4), leadership (3), teams (3), [[Privacy Issues]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (22), [[Privacy Issues]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** ceo (1)
 > **Documentation:** the documentation (1)
@@ -1135,18 +1121,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - as (1)
 
-#### Building privacy into your products
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980)
+#### [Building privacy into your products](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=1)** - In addition to building documentation and an escalation path, another key component of operationalizing a culture of privacy is building privacy into the product development cycle and carefully thinking through the choices you want to provide your customers around their data.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=1)** - In addition to building documentation and an escalation path, another key component of operationalizing a culture of [[Privacy]] is building privacy into the [[Product Development]] cycle and carefully thinking through the choices you want to provide your customers around their data.
 >
 > **[0:16](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=16)** This is the concept of privacy by design.
 >
-> **[0:19](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=19)** Let me assure you that privacy by design is much easier said than done and it takes a team of committed legal, engineering, design, and security folks, but it's an essential part of operationalizing privacy and ensuring that your products stand up to the privacy commitments you've made to your customers.
+> **[0:19](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=19)** Let me assure you that privacy by design is much easier said than done and it takes a team of committed legal, engineering, design, and security folks, but it's an essential part of operationalizing privacy and ensuring that your [[Microsoft Products|products]] stand up to the privacy commitments you've made to your customers.
 >
-> **[0:38](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=38)** If a product is delayed because of privacy issues that's a clear sign the company doesn't have a culture of privacy.
+> **[0:38](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=38)** If a product is delayed because of [[Privacy Issues]] that's a clear sign the company doesn't have a culture of privacy.
 >
 > **[0:44](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=44)** It shows that privacy was an afterthought, rather than a key component of a product's design.
 >
@@ -1184,7 +1169,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=170)** These rules will help guide teams on some of the privacy decisions when you may not have enough resources to devote a team member to walk through every step of the development cycle.
 >
-> **[3:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=180)** Fourth, get the teams to think through the user experience.
+> **[3:00](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=180)** Fourth, get the teams to think through the [[User Experience (UX)|user experience]].
 >
 > **[3:03](https://www.linkedin.com/learning/creating-a-culture-of-privacy/building-privacy-into-your-products?u=76281980&t=183)** Is this a product that should offer customers an opt out?
 >
@@ -1208,7 +1193,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (33), product (17), data (4), teams (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (33), [[Product Development]] (1), [[Microsoft Products|Products]] (1), [[Privacy Issues]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - in (1)
@@ -1218,12 +1203,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sustaining a culture of privacy
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
+#### [Sustaining a culture of privacy](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=1)** - The first step in ensuring an enduring culture of privacy is measuring it on a regular basis.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=1)** - The first step in ensuring an enduring culture of [[Privacy]] is measuring it on a regular basis.
 >
 > **[0:06](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=6)** As you build out your privacy program, think about the metrics by which you want to measure it.
 >
@@ -1243,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=59)** Keep records of all employees who attend the training, and work with HR to find consequences for those who don't complete the training by the deadline.
 >
-> **[1:08](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=68)** Third, keep your finger on the pulse of what your customers think about how your company handles privacy issues.
+> **[1:08](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=68)** Third, keep your finger on the pulse of what your customers think about how your company handles [[Privacy Issues]].
 >
 > **[1:14](https://www.linkedin.com/learning/creating-a-culture-of-privacy/sustaining-a-culture-of-privacy?u=76281980&t=74)** Reach out to your customer service department and ask them to forward on to you any customer inquiries or complaints they receive regarding privacy.
 >
@@ -1269,7 +1253,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (14), data (2), hr (2), [[Privacy Issues]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (14), [[Privacy Issues]] (2)
 > **CLI Commands:** find (3)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
@@ -1279,14 +1263,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=1)** - Thank you for joining me in this discussion about data privacy in the digital age.
+> **[0:01](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=1)** - Thank you for joining me in this discussion about [[Data Privacy]] in the digital age.
 >
-> **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=5)** I hope this course helps you on your journey towards building a culture of privacy in your organization.
+> **[0:05](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=5)** I hope this course helps you on your journey towards building a culture of [[Privacy]] in your organization.
 >
 > **[0:12](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=12)** Remember as you set about this work to always tie privacy back to your corporate mission, to work on building support across your organization and to make privacy a consideration from the very beginning of your product lifecycle.
 >
@@ -1294,13 +1277,13 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=29)** You are part of a community of people helping organizations set frameworks for how all of our data will be collected, how it will be used and how it will be protected now and in the years to come.
 >
-> **[0:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=42)** As you go forward, if you have any questions about building a culture of privacy, you can always reach out to me on LinkedIn and if you would like to learn more about data privacy, a great resource is the International Association of Privacy Professionals or IAPP.
+> **[0:42](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=42)** As you go forward, if you have any questions about building a culture of privacy, you can always reach out to me on [[LinkedIn]] and if you would like to learn more about data privacy, a great resource is the International Association of Privacy Professionals or IAPP.
 >
 > **[0:58](https://www.linkedin.com/learning/creating-a-culture-of-privacy/next-steps?u=76281980&t=58)** Best of luck to you and your organization on the road ahead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (7), data (3), product (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Privacy]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iapp (1)
 > **Speakers:** - thank (1)

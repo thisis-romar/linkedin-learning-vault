@@ -30,7 +30,7 @@ created: 2026-05-02
 ## Courses
 
 1. [[Python in Excel for Financial Professionals]] — 21 mentions
-2. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 19 mentions
+2. [[Advanced Python in Excel for Finance- A Hands-On Approach]] — 20 mentions
 3. [[SQL for Finance Professionals]] — 11 mentions
 4. [[Excel and PowerPoint- Creating High-Impact Financial Presentations]] — 6 mentions
 5. [[Leveraging Generative AI in Finance and Accounting]] — 4 mentions
@@ -120,7 +120,7 @@ created: 2026-05-02
 
 ## Learning Paths
 
-1. [[Python for Data Professionals in Finance]] — 46 total mentions
+1. [[Python for Data Professionals in Finance]] — 47 total mentions
 2. [[CFI Financial Analysis and Modeling Professional Certificate]] — 23 total mentions
 3. [[SQL for Data Professionals in Finance]] — 15 total mentions
 4. [[Explore a Career as a Financial Analyst]] — 7 total mentions

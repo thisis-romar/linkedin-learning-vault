@@ -62,8 +62,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anyone can do business analysis to solve problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/anyone-can-do-business-analysis-to-solve-problems?u=76281980)
+#### [Anyone can do business analysis to solve problems](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/anyone-can-do-business-analysis-to-solve-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4)
 > **CLI Commands:** find (1)
 > **Speakers:** - trust (1)
 
@@ -104,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start with the business requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980)
+#### [Start with the business requirements](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -121,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=46)** Try to think like a new employee.
 >
-> **[0:49](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=49)** When you knew you have a fresh outlook on the organization's processes, there are no emotional ties to old projects or old ways of working.
+> **[0:49](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=49)** When you knew you have a fresh [[Microsoft Outlook|outlook]] on the organization's processes, there are no emotional ties to old projects or old ways of working.
 >
 > **[1:00](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=60)** This is the state of mind you want to be in because this is how you become aware of opportunities for improvement.
 >
@@ -145,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=116)** Now, Brian has two weeks to get an external candidate.
 >
-> **[2:01](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=121)** That's advertising, shortlisting, interviewing, office, and all of those elements need approvals.
+> **[2:01](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=121)** That's advertising, shortlisting, [[Interviewing]], [[Microsoft Office|office]], and all of those elements need approvals.
 >
 > **[2:11](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/start-with-the-business-requirements?u=76281980&t=131)** What do you do?
 >
@@ -181,15 +178,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Microsoft Outlook|Outlook]] (1), hr (1), next (1), [[Interviewing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Interviewing]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** picture (1)
 > **Speakers:** - business (1)
 
-#### Align with strategic planning and direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980)
+#### [Align with strategic planning and direction](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,11 +231,11 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=154)** Have a look at 3M's 2020 financial report page two for example.
 >
-> **[2:39](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=159)** Here, you see a clear section on their strategies for the future, including relevance to customers, growing profitable market share, investing in innovation, and focusing on operational excellence.
+> **[2:39](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=159)** Here, you see a clear section on their strategies for the future, including relevance to customers, growing profitable market share, investing in innovation, and focusing on [[Operational Excellence]].
 >
 > **[2:54](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=174)** Number three: Understand the current project portfolio.
 >
-> **[2:59](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=179)** Your project management office or change management team can help.
+> **[2:59](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=179)** Your project management [[Microsoft Office|office]] or change management team can help.
 >
 > **[3:03](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/align-with-strategic-planning-and-direction?u=76281980&t=183)** If you, however, are struggling to get to this information, I suggest speaking to your peers and manager, find a friend in your project management office, or even ask corporate communications if they have articles and resources on the subject.
 >
@@ -255,13 +251,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), management (3), [[Microsoft Office|Office]] (2), [[Operational Excellence]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Operational Excellence]] (1)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - a (1)
 
-#### Business change opportunity
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980)
+#### [Business change opportunity](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980&t=108)** The use of freelancers or contractors when it comes to needing a candidate on a short timeframe and for a short-term project.
 >
-> **[1:58](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980&t=118)** Having proactive discussions with the marketing leadership team about their upcoming needs, project and potential staff turnover.
+> **[1:58](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980&t=118)** Having proactive discussions with the [[Marketing Leadership]] team about their upcoming needs, project and potential staff turnover.
 >
 > **[2:07](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/business-change-opportunity?u=76281980&t=127)** So we have a lot of information here, but let's hang on a minute, we need to focus.
 >
@@ -327,7 +322,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (2), business (1), [[Search]] (1), [[Marketing Leadership]] (1)
+> **Frameworks & Libraries:** [[Marketing Leadership]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** is a  (1)
@@ -339,8 +334,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Options for reaching the desired future state
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980)
+#### [Options for reaching the desired future state](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980&t=61)** A great web based tool to use interactively with your team is Miro.
 >
-> **[1:07](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980&t=67)** You can use it for collaborative mind mapping, brainstorming, diagramming, and lots more.
+> **[1:07](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980&t=67)** You can use it for collaborative mind mapping, brainstorming, [[Diagramming]], and lots more.
 >
 > **[1:13](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/options-for-reaching-the-desired-future-state?u=76281980&t=73)** Now, quick note on brainstorming.
 >
@@ -430,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[Diagramming]] (1), data (1), hr (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **Exercise Files:** template (1), exercise file (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -439,8 +433,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - have (1)
 
-#### Prioritize and validate solutions
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980)
+#### [Prioritize and validate solutions](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -500,7 +493,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980&t=152)** Something that is considered strong, effective, and of good quality.
 >
-> **[2:37](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980&t=157)** Weaknesses are, well exactly that, the weak aspects of the solution or hypothesis compared to the rest.
+> **[2:37](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980&t=157)** Weaknesses are, well exactly that, the weak aspects of the solution or hypothesis compared to the [[Representational State Transfer (REST)|rest]].
 >
 > **[2:46](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/prioritize-and-validate-solutions?u=76281980&t=166)** Think about what makes this particular argument unable to meet a set criteria.
 >
@@ -522,7 +515,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (2), hr (1), teams (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Exercise Files:** template (1)
 > **Definitions:** stands for (1)
@@ -530,8 +523,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - so (1)
 
-#### Assess capability gaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980)
+#### [Assess capability gaps](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980&t=71)** Are they drastic changes or small and subtle?
 >
-> **[1:16](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980&t=76)** Next, think about the organizational culture and if people or teams are normally open to trying new things.
+> **[1:16](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980&t=76)** Next, think about the [[Organizational Culture]] and if people or teams are normally open to trying new things.
 >
 > **[1:24](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/assess-capability-gaps?u=76281980&t=84)** This will determine how open to change your stakeholders really are.
 >
@@ -615,7 +607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), business (3), [[Organizational Culture]] (3), teams (3), hr (1)
+> **Frameworks & Libraries:** [[Organizational Culture]] (3)
 > **Env Vars:** swot (3)
 > **Analogies:** picture (1), just like (1)
 > **CLI Commands:** find (1)
@@ -627,8 +619,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze a value proposition
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980)
+#### [Analyze a value proposition](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -646,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980&t=33)** And a third option could be that you need to renovate the whole bathroom layout.
 >
-> **[0:38](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980&t=38)** Fixing the existing leaking pipe would fix only half of your problem, because perhaps the issue is with how the pipe is positioned and connected to the rest, and the problem may still come up in a few months.
+> **[0:38](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980&t=38)** Fixing the existing leaking pipe would fix only half of your problem, because perhaps the issue is with how the pipe is positioned and connected to the [[Representational State Transfer (REST)|rest]], and the problem may still come up in a few months.
 >
 > **[0:52](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-a-value-proposition?u=76281980&t=52)** So you're thinking to yourself, should I renovate the whole layout and remove the problem completely?
 >
@@ -696,14 +687,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Representational State Transfer (REST)|Rest]] (2), hr (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** think of it as (1), for example (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - why (1)
 
-#### Set the change strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980)
+#### [Set the change strategy](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +701,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980&t=7)** Now it's time to formulate your change strategy.
 >
-> **[0:11](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980&t=11)** If you throw in a bit by the word strategy, please don't be, this is really just the high level change intent at this stage, it doesn't have to be a 25 page document.
+> **[0:11](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980&t=11)** If you throw in a bit by the [[Microsoft Word|word]] strategy, please don't be, this is really just the high level change intent at this stage, it doesn't have to be a 25 page document.
 >
 > **[0:23](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/set-the-change-strategy?u=76281980&t=23)** You can really build your change strategy on one page only.
 >
@@ -775,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (3), business (2), product (2), [[Microsoft Word|Word]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Exercise Files:** template (2), exercise files (1)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (2)
@@ -787,8 +777,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Analyze your risk, cost, and benefits
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980)
+#### [Analyze your risk, cost, and benefits](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -812,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980&t=58)** Articulating those clearly in a succinct but thorough way, will ensure your opportunity is well thought through and decision-makers are equipped with the information ready to cast a vote.
 >
-> **[1:12](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980&t=72)** This type of analysis is very similar to the rest of the approaches we've discussed in this course.
+> **[1:12](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980&t=72)** This type of analysis is very similar to the [[Representational State Transfer (REST)|rest]] of the approaches we've discussed in this course.
 >
 > **[1:18](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/analyze-your-risk-cost-and-benefits?u=76281980&t=78)** The intent is to decompose the problem into smaller parts and assess how they perform.
 >
@@ -864,13 +853,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), hr (1), leadership (1), teams (1), product (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - my (1)
 
-#### Bring your stakeholders on board
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980)
+#### [Bring your stakeholders on board](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -900,7 +888,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980&t=68)** It is incredible how much people are willing to change once they feel involved and part of the solution, rather than just being told what to do.
 >
-> **[1:20](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980&t=80)** This type of decision-making takes time and can be challenging for the leadership where their formal roles of decision-making authority are under scrutiny.
+> **[1:20](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980&t=80)** This type of [[Decision-Making]] takes time and can be challenging for the leadership where their formal roles of decision-making authority are under scrutiny.
 >
 > **[1:31](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/bring-your-stakeholders-on-board?u=76281980&t=91)** Also that type of process may not be appropriate for all problem solving projects where a timely and compliance or regulatory change may be required.
 >
@@ -938,7 +926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision-Making]] (2), leadership (2), data (1), next (1), hr (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2)
 > **Definitions:** is a  (2)
 > **Cross-References:** coming up (1)
 > **Best Practices:** recommended (1)
@@ -949,8 +937,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three tips on turning your solution into action
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980)
+#### [Three tips on turning your solution into action](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +999,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980&t=168)** You can even check out some of my other courses here on the platform.
 >
-> **[2:53](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980&t=173)** The LinkedIn Learning Library has a number of other brilliant courses on problem solving and business analysis.
+> **[2:53](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980&t=173)** The [[LinkedIn]] Learning Library has a number of other brilliant courses on problem solving and business analysis.
 >
 > **[3:00](https://www.linkedin.com/learning/business-analysis-for-busy-professionals/three-tips-on-turning-your-solution-into-action?u=76281980&t=180)** Make sure you check them out.
 >
@@ -1028,7 +1015,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[LinkedIn]] (2), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (3), find (2)
 > **URLs:** [beyondbuzz.co](https://beyondbuzz.co) (1)
 > **Best Practices:** make sure to (1)

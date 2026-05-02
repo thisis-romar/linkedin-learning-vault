@@ -63,14 +63,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### From Physical to Digital with AI, IoT, and Digital Twins
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
+#### [From Physical to Digital with AI, IoT, and Digital Twins](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=0)** - [Bruce] What if physical products and operations could think, learn, and adapt?
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=0)** - [Bruce] What if physical [[Microsoft Products|products]] and operations could think, learn, and adapt?
 >
-> **[0:04](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=4)** That's the promise of digital transformation, and we're already starting to see it all around us.
+> **[0:04](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=4)** That's the promise of [[Digital Transformation]], and we're already starting to see it all around us.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=9)** From smartwatches to self-driving cars to smart factories, people just like you are innovating their products and businesses with the latest high technologies.
 >
@@ -80,11 +79,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=30)** I'm the founder and managing partner of AI Operating Partners.
 >
-> **[0:34](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=34)** Join me and be part of the smart megatrend by learning how to transform the physical into the digital by using AI, the digital twin, the Internet of Things, augmented reality, and blockchain.
+> **[0:34](https://www.linkedin.com/learning/digital-transformation-foundations/physical-digital-ai-6097045?u=76281980&t=34)** Join me and be part of the smart megatrend by learning how to transform the physical into the digital by using AI, the digital twin, the [[IoT|Internet of Things]], augmented reality, and [[Blockchain]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Digital Transformation]] (2), ai (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Digital Transformation]] (2), [[IoT|Internet of things]] (1), [[Blockchain]] (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [bruce] (1)
 
@@ -93,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is digital transformation?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
+#### [What is digital transformation?](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=0)** - [Instructor] Since digital transformation is such an overloaded term, we need to define what it means before learning about it.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=0)** - [Instructor] Since [[Digital Transformation]] is such an overloaded term, we need to define what it means before learning about it.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=7)** Digital equals technology, but what types of technologies are used?
 >
@@ -108,15 +106,15 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=22)** Mid-stage companies will digitally transform to automate.
 >
-> **[0:26](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=26)** And mature companies will digitally transform their products and their internal operations, this is called a smart digital transformation.
+> **[0:26](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=26)** And mature companies will digitally transform their [[Microsoft Products|products]] and their internal operations, this is called a smart digital transformation.
 >
 > **[0:36](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=36)** Tech can be sorted into system, automation, and smart layers.
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=40)** The systems layer, this includes IT, and business systems, such as BI, CRM, PLM, and CAD.
 >
-> **[0:48](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=48)** The automation layer consists of automation, such as robots, RPA, which is robotic process automation, that's quickly being replaced by AI agents, digital marketing and E-commerce.
+> **[0:48](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=48)** The automation layer consists of automation, such as robots, RPA, which is [[Robotic Process Automation (RPA)|robotic process automation]], that's quickly being replaced by [[AI Agents]], digital marketing and [[E-Commerce]].
 >
-> **[1:00](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=60)** The smart layer consists of the internet of things, AI, the digital twin, blockchain, and augmented reality.
+> **[1:00](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=60)** The smart layer consists of the [[IoT|internet of things]], AI, the digital twin, [[Blockchain]], and augmented reality.
 >
 > **[1:08](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=68)** This is what we'd consider high technologies.
 >
@@ -132,7 +130,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=96)** External changes refer to changing physical products sold to customers, but within a B2B or a B2C environment.
 >
-> **[1:44](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=104)** And when we mention products, for the rest of this course, we really mean products and services.
+> **[1:44](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=104)** And when we mention products, for the [[Representational State Transfer (REST)|rest]] of this course, we really mean products and services.
 >
 > **[1:50](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=110)** Now, once these products are changed or digitally transformed, they are commonly referred to as smart products, for example, a smartwatch or a smart lock.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=198)** This is the nuts and bolts that we'll discuss in the next chapter.
 >
-> **[3:21](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=201)** There are many forms of digital transformation, but as discussed, we won't consider the systems or automation layers here, instead, we'll focus on how to use high technologies such as the digital twin, the internet of things, and machine learning, to create extraordinary value for our customers and our businesses.
+> **[3:21](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=201)** There are many [[Forms]] of digital transformation, but as discussed, we won't consider the systems or automation layers here, instead, we'll focus on how to use high technologies such as the digital twin, the internet of things, and machine learning, to create extraordinary value for our customers and our businesses.
 >
 > **[3:39](https://www.linkedin.com/learning/digital-transformation-foundations/what-is-digital-transformation-26046334?u=76281980&t=219)** But before we get into the tech, we need to get the why right, or put another way, we need to digitally transform for the right reasons.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Digital Transformation]] (5), [[Automation]] (4), data (4), [[Internet of Things (IoT)|Internet of things]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Digital Transformation]] (5), [[IoT|Internet of things]] (3), [[Robotic Process Automation (RPA)|Robotic process automation]] (1), [[AI Agents]] (1)
 > **Env Vars:** crm (1), plm (1), cad (1), rpa (1), b2b (1)
 > **Analogies:** such as (3), for example (2)
 > **CLI Commands:** make (3)
@@ -175,12 +173,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
 
-#### Why digitally transform?
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980)
+#### [Why digitally transform?](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=0)** - The right and only reason to perform a digital transformation is to create value.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=0)** - The right and only reason to perform a [[Digital Transformation]] is to create value.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=5)** Business value or consumer value.
 >
@@ -188,15 +185,15 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=25)** This leads us to value creation.
 >
-> **[0:27](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=27)** Value that is created by digitally transforming a traditional product into a smart product, or a value that is created by digitally transforming traditional business operations into smart business operations.
+> **[0:27](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=27)** Value that is created by digitally transforming a traditional product into a smart product, or a value that is created by digitally transforming traditional [[Business Operations]] into smart business operations.
 >
-> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=39)** Let's start with smart products.
+> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=39)** Let's start with smart [[Microsoft Products|products]].
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=40)** Smart products are used to create value for both businesses and consumers.
 >
 > **[0:45](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=45)** Being software defined and data driven enables physical products to have the same advantages as big tech software.
 >
-> **[0:52](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=52)** Antitrust and competitive issues for big tech companies, such as Facebook, Google, and Microsoft originate from these companies using customer data as a proprietary source of innovation and invention, resulting in insurmountable competitiveness.
+> **[0:52](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=52)** Antitrust and competitive issues for big tech companies, such as Facebook, [[Google]], and [[Microsoft]] originate from these companies using customer data as a proprietary source of innovation and invention, resulting in insurmountable competitiveness.
 >
 > **[1:07](https://www.linkedin.com/learning/digital-transformation-foundations/why-digitally-transform?u=76281980&t=67)** So why digitally transform traditional products into smart products?
 >
@@ -232,16 +229,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), data (5), business (4), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Business Operations]] (2), [[Digital Transformation]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - the (1)
 
-#### The smart macro trends
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980)
+#### [The smart macro trends](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=0)** - [Instructor] Many of us have smart products at home or drive a smart car or work where parts of our company's operations have been digitized to be made smarter.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=0)** - [Instructor] Many of us have smart [[Microsoft Products|products]] at home or drive a smart car or work where parts of our company's operations have been digitized to be made smarter.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=9)** However, there's no denying it.
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=77)** This is the smart macrotrend, and it's one of the biggest opportunities of our careers.
 >
-> **[1:23](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=83)** Smart digital transformation yields smart products such as smart doorbells for consumers or smart tractors for farmers.
+> **[1:23](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=83)** Smart [[Digital Transformation]] yields smart products such as smart doorbells for consumers or smart tractors for farmers.
 >
 > **[1:31](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=91)** It yields smart operations, generally for business, such as smart manufacturing lines or smartly equipped support engineers for let's say, oil rigs.
 >
@@ -279,7 +275,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=107)** And lastly, it can also produce smart business models.
 >
-> **[1:50](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=110)** I don't cover it that much in this course, but if you want to get into more details on smart business models, I cover it in my IOT Foundations Monetization course.
+> **[1:50](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=110)** I don't cover it that much in this course, but if you want to get into more details on smart business models, I cover it in my [[IoT]] Foundations Monetization course.
 >
 > **[2:01](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=121)** Where is this all going to happen?
 >
@@ -291,7 +287,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=146)** But why is this happening?
 >
-> **[2:27](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=147)** Blame it on the outside success of big tech companies such as Facebook, Google, and Amazon, who have used their data-driven software to transform industries such as news, advertising, and book buying respectively.
+> **[2:27](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=147)** Blame it on the outside success of big tech companies such as Facebook, [[Google]], and Amazon, who have used their data-driven software to transform industries such as news, advertising, and book buying respectively.
 >
 > **[2:40](https://www.linkedin.com/learning/digital-transformation-foundations/the-smart-macro-trends-26046335?u=76281980&t=160)** Smart digital transformation gives all companies the advantages of these big tech companies, the original smart companies.
 >
@@ -313,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), data (6), [[Digital Transformation]] (5), business (5), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Digital Transformation]] (5), [[IoT]] (1), [[Google]] (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** iot (1)
@@ -324,12 +320,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tech overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
+#### [Tech overview](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=0)** - [Narrator] Technically speaking, a digital transformation is the summation of a series of digital initiatives.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=0)** - [Narrator] Technically speaking, a [[Digital Transformation]] is the summation of a series of digital initiatives.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=7)** Each two realize a feature.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=57)** In the center, there is the software-defined product.
 >
-> **[1:00](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=60)** Then gathering data from internal sensors is the hardware-defined product.
+> **[1:00](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=60)** Then gathering data from internal sensors is the [[Hardware]]-defined product.
 >
 > **[1:05](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=65)** This is also interfaced to external systems to gather other data, and all connected by the networking fabric.
 >
@@ -357,15 +352,15 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=91)** All incremental value from a digital transformation comes from transforming its data into useful information.
 >
-> **[1:37](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=97)** Internal data comes from IoT sensors and external data from external systems found online.
+> **[1:37](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=97)** Internal data comes from [[IoT]] sensors and external data from external systems found online.
 >
 > **[1:44](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=104)** Both sources of data are transformed by the digital twin and data analytics, software-defined and data-driven.
 >
-> **[1:52](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=112)** This is what big tech has been doing for years in their pure software products.
+> **[1:52](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=112)** This is what big tech has been doing for years in their pure software [[Microsoft Products|products]].
 >
 > **[1:56](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=116)** And now this is what we can do with physical products and physical operations.
 >
-> **[2:01](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=121)** The core high techs of the smart product or smart operations is the digital twin, IoT or the internet of things, AI, as well as extended reality and blockchain.
+> **[2:01](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=121)** The core high techs of the smart product or smart operations is the digital twin, IoT or the [[IoT|internet of things]], AI, as well as extended reality and [[Blockchain]].
 >
 > **[2:13](https://www.linkedin.com/learning/digital-transformation-foundations/tech-overview-26048334?u=76281980&t=133)** These are the tools we use to implement each digital initiative that makes up the digital transformation.
 >
@@ -377,16 +372,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Digital Transformation]] (7), product (4), [[IoT]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (7), [[IoT]] (2), [[Microsoft Products|Products]] (2), [[Hardware]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** picture (2), think of it as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Digital twin
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980)
+#### [Digital twin](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=0)** - [Presenter] All digital transformation technologies are deployed to support the digital twin.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=0)** - [Presenter] All [[Digital Transformation]] technologies are deployed to support the digital twin.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=5)** It provides a structure for the application software and AI models, and is the engine that technically produces the value.
 >
@@ -398,7 +392,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=34)** It is these kinds of capabilities that can unlock major innovation.
 >
-> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=39)** The best way to think about the digital twin is as a simulation made from a federation of AI models, their data structures, and application code that transforms the data into useful information.
+> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=39)** The best way to think about the digital twin is as a [[Simulation]] made from a federation of AI models, their [[Data Structures]], and application code that transforms the data into useful information.
 >
 > **[0:52](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=52)** Let's start with the models.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=78)** Value creation is the purpose of every digital transformation.
 >
-> **[1:22](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=82)** These AI models represent how value is created with statistics.
+> **[1:22](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=82)** These AI models represent how value is created with [[Statistics]].
 >
 > **[1:26](https://www.linkedin.com/learning/digital-transformation-foundations/digital-twin-26042377?u=76281980&t=86)** Since the real world is far too complex to be represented with deterministic equations, the digital twin model is alive, and part of a closed feedback loop, incorporating continuously flowing real world data from the physical product sensors and external systems.
 >
@@ -452,18 +446,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), data (8), product (6), game (5), [[Digital Transformation]] (4)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4), [[Simulation]] (2), [[Data Structures]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980)
+#### [Internet of Things](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=0)** - [Instructor] All successful smart digital transformations are data-driven to create value.
 >
-> **[0:05](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=5)** The Internet of Things is the primary collector of that data, so the installation of a properly designed IoT network fabric spanning the mist, fog, and cloud is key.
+> **[0:05](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=5)** The [[IoT|Internet of Things]] is the primary collector of that data, so the installation of a properly designed [[IoT]] network fabric spanning the mist, fog, and cloud is key.
 >
 > **[0:16](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=16)** Let's see what all this means.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=25)** It runs from the embedded system in the product, called the end point in networking, to the IoT cloud or IoT platform.
 >
-> **[0:33](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=33)** IoT is the nervous system of all smart products and operations.
+> **[0:33](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=33)** IoT is the nervous system of all smart [[Microsoft Products|products]] and operations.
 >
 > **[0:37](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=37)** From consumer smartwatches, smart appliances, and smart homes to business smart machines, smart factories, and smart cities, IoT tech is always present.
 >
@@ -497,7 +490,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=123)** Generally it is stored in a data lake or fed into models being built in the cloud or used by the application to produce useful information for the user or the operator.
 >
-> **[2:14](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=134)** The Internet of Things is deployed using networking hardware and middleware in the mist, fog, and cloud.
+> **[2:14](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=134)** The Internet of Things is deployed using networking [[Hardware]] and middleware in the mist, fog, and cloud.
 >
 > **[2:21](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=141)** The data starts its journey in the smart product or operation.
 >
@@ -521,9 +514,9 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=204)** For most network architectures, a recommended alternative to an IoT cloud is to use an IoT platform, which is specialized middleware that integrates the cloud and the fog and sometimes the mist.
 >
-> **[3:36](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=216)** The IoT platform is sold as a service and often comes with runtime analytics and an application development environment built in.
+> **[3:36](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=216)** The IoT platform is sold as a service and often comes with runtime analytics and an [[Application Development]] environment built in.
 >
-> **[3:43](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=223)** A successful digital transformation isn't about networking.
+> **[3:43](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=223)** A successful [[Digital Transformation]] isn't about networking.
 >
 > **[3:47](https://www.linkedin.com/learning/digital-transformation-foundations/internet-of-things?u=76281980&t=227)** Networking is plumbing, at least from a value perspective.
 >
@@ -531,35 +524,34 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[IoT]] (13), cloud (11), product (5), application (5)
+> **Frameworks & Libraries:** [[IoT]] (13), [[Microsoft Products|Products]] (4), [[IoT|Internet of things]] (2), [[Hardware]] (1), [[Application Development]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **Env Vars:** erp (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning and generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980)
+#### [Machine learning and generative AI](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=0)** - [Instructor] All incremental value from a digital transformation comes from transforming its data into useful information.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=0)** - [Instructor] All incremental value from a [[Digital Transformation]] comes from transforming its data into useful information.
 >
-> **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=7)** We've discussed collecting internal data with IOT and external data with external systems APIs.
+> **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=7)** We've discussed collecting internal data with [[IoT]] and external data with external systems APIs.
 >
 > **[0:13](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=13)** We've discussed the digital twin and how it's made up of the AI model and application.
 >
 > **[0:19](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=19)** Now, let's get into the transforming part by zooming into the AI model.
 >
-> **[0:24](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=24)** There are lots of types of AI models, but the most relevant for us are machine learning and neural networks.
+> **[0:24](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=24)** There are lots of types of AI models, but the most relevant for us are machine learning and [[Neural Networks]].
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=30)** Let's start with machine learning.
 >
 > **[0:32](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=32)** Machine learning, or ML, combines age-old statistic techniques with learning software.
 >
-> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=39)** Most of us know what statistics is.
+> **[0:39](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=39)** Most of us know what [[Statistics]] is.
 >
-> **[0:41](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=41)** For example, we can use a linear regression in Excel to find a line through our data points in the form of y = mX + b, but linear regression is also considered a supervised machine learning algorithm.
+> **[0:41](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=41)** For example, we can use a [[Linear Regression]] in [[Microsoft Excel|Excel]] to find a line through our data points in the form of y = mX + b, but linear regression is also considered a supervised machine learning algorithm.
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=56)** What gives? Well, it's both.
 >
@@ -613,25 +605,25 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=242)** This adjustment can be made in a few ways and these ways are used to classify machine learning.
 >
-> **[4:08](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=248)** Learning software is classified as supervised learning, unsupervised learning or reinforcement learning algorithms.
+> **[4:08](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=248)** Learning software is classified as [[Supervised Learning]], unsupervised learning or [[Reinforcement Learning]] [[Algorithms]].
 >
 > **[4:18](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=258)** Let's go through them one at a time.
 >
-> **[4:20](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=260)** Supervised learning is used to identify things as used in speech recognition, and to predict things as used in GE engine predictive maintenance.
+> **[4:20](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=260)** Supervised learning is used to identify things as used in [[Speech Recognition]], and to predict things as used in GE engine predictive maintenance.
 >
 > **[4:29](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=269)** It's called supervised learning because the data must be labeled.
 >
 > **[4:32](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=272)** For example, in our tire, each mile driven slash time pressure data point is labeled as involved in a blowout, colored red, or not, colored black.
 >
-> **[4:43](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=283)** Unsupervised learning is used to group or associate unlabeled things together as used in recommender systems by Netflix and Amazon, or for customer segmentation in large-scale advertising systems like LinkedIn ads.
+> **[4:43](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=283)** Unsupervised learning is used to group or associate unlabeled things together as used in recommender systems by Netflix and Amazon, or for customer segmentation in large-scale advertising systems like [[LinkedIn]] ads.
 >
 > **[4:58](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=298)** Reinforcement learning is used to improve decision making as used in EA Sports game AI and for Roomba robot navigation.
 >
-> **[5:07](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=307)** You may have heard these names: linear regression, decision trees, support vector machines, naive Bayes; these are what I would call traditional machine learning algorithms.
+> **[5:07](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=307)** You may have heard these names: linear regression, [[Decision Trees]], support vector machines, naive Bayes; these are what I would call traditional machine learning algorithms.
 >
 > **[5:20](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=320)** Now let's discuss a different class of algorithms that can be used in the digital twin, the ones getting most of the attention these days, and those are neural networks.
 >
-> **[5:30](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=330)** Neural networks include, well, neural networks, deep neural networks, and generative AI, or gen AI.
+> **[5:30](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=330)** Neural networks include, well, neural networks, deep neural networks, and [[Generative AI]], or gen AI.
 >
 > **[5:37](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=337)** These are a different newer class of AI algorithms.
 >
@@ -679,7 +671,7 @@ created: 2026-05-02
 >
 > **[7:51](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=471)** It can do pretty much anything traditional machine learning algorithms can do, but it comes at a cost, and in many cases it's way overkill.
 >
-> **[7:59](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=479)** When you hear that the latest large models from OpenAI, Microsoft, or Google cost hundreds of millions of dollars or even billions of dollars to train, it comes back to the very same concepts we discuss for linear regression.
+> **[7:59](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=479)** When you hear that the latest large models from OpenAI, [[Microsoft]], or [[Google]] cost hundreds of millions of dollars or even billions of dollars to train, it comes back to the very same concepts we discuss for linear regression.
 >
 > **[8:14](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=494)** To train a line to better fit the data, we make modifications to the single parameter m, but to train a model with billions of parameters means you are going up and down, iterating on billions of ms until you get a good fit.
 >
@@ -689,7 +681,7 @@ created: 2026-05-02
 >
 > **[8:49](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=529)** So the next time you're talking to your favorite gen AI chatbot or using it to generate a picture, movie, poetry, or computer code, know that the way it works, it's just like the lowly line in linear regression.
 >
-> **[9:03](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=543)** AI from ML to gen AI is deployed by a data scientist or a team by using AI software libraries usually accessed through Python and linked into the smart product or operation software.
+> **[9:03](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=543)** AI from ML to gen AI is deployed by a data scientist or a team by using AI software libraries usually accessed through [[Python (Programming Language)|Python]] and linked into the smart product or operation software.
 >
 > **[9:17](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=557)** And as we've seen, it's essential to value creation and smart digital transformations.
 >
@@ -697,13 +689,13 @@ created: 2026-05-02
 >
 > **[9:29](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=569)** These are the core texts used in pretty much every smart digital transformation.
 >
-> **[9:34](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=574)** However, there are a couple other technologies worth discussing because of their high impact potential; these are extended reality and blockchain.
+> **[9:34](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=574)** However, there are a couple other technologies worth discussing because of their high impact potential; these are extended reality and [[Blockchain]].
 >
 > **[9:43](https://www.linkedin.com/learning/digital-transformation-foundations/machine-learning-and-generative-ai?u=76281980&t=583)** Let's start by extending our reality.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), ai (19), [[Neural Networks]] (14), [[Linear Regression]] (6), [[Algorithms]] (6)
+> **Frameworks & Libraries:** [[Neural Networks]] (14), [[Linear Regression]] (6), [[Algorithms]] (6), [[Statistics]] (5), [[Supervised Learning]] (3)
 > **CLI Commands:** make (3), find (2), python (1)
 > **Code Identifiers:** mx (4)
 > **Analogies:** for example (2), picture (1), just like (1)
@@ -712,8 +704,7 @@ created: 2026-05-02
 > **Warnings:** warning (2)
 > **Definitions:** is an  (1)
 
-#### Extended reality
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980)
+#### [Extended reality](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -743,7 +734,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=85)** Assisted reality displays 2D virtual information in the 3D physical world.
 >
-> **[1:31](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=91)** Examples include a heads up display in your car, or smart glasses like Google Glass.
+> **[1:31](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=91)** Examples include a heads up display in your car, or smart glasses like [[Google]] Glass.
 >
 > **[1:36](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=96)** Augmented reality displays 2.5D virtual information into the 3D physical world.
 >
@@ -783,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=223)** Examples of virtual haptic content include, amplifying the vibrations of a part for a specialist to feel, providing navigation feedback to help perform a task properly, and notifying users with alerts and vibrations.
 >
-> **[3:59](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=239)** XR is deployed as hardware worn or held by the user of the smart product or smart operations.
+> **[3:59](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=239)** XR is deployed as [[Hardware]] worn or held by the user of the smart product or smart operations.
 >
 > **[4:05](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=245)** This hardware, whether it's a screen or a wearable such as a visual headset, earphones, or a stick-shift, is controlled by the smart application by interfacing with the sensory hardware through a specific API that enables the transfer of the information to the sensory device for rendering.
 >
@@ -791,11 +782,11 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=272)** Next, we'll shift from seeing to believing.
 >
-> **[4:35](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=275)** The last tech we'll examine is Blockchain, which codifies trust between people and machines.
+> **[4:35](https://www.linkedin.com/learning/digital-transformation-foundations/extended-reality?u=76281980&t=275)** The last tech we'll examine is [[Blockchain]], which codifies trust between people and machines.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Hardware]] (3), application (2), [[Analytics]] (1), hr (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Google]] (1), [[Blockchain]] (1)
 > **Analogies:** for example (1), such as (1)
 > **CLI Commands:** snap (1)
 > **Env Vars:** api (1)
@@ -804,12 +795,11 @@ created: 2026-05-02
 > **Warnings:** heads up (1)
 > **Speakers:** - sometimes (1)
 
-#### Blockchain
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980)
+#### [Blockchain](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=0)** - [Instructor] Most of us have heard bits and pieces about blockchain but still don't have a complete picture of what it is and what it can do.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=0)** - [Instructor] Most of us have heard bits and pieces about [[Blockchain]] but still don't have a complete picture of what it is and what it can do.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=7)** At a high level, blockchain establishes trust algorithmically.
 >
@@ -821,7 +811,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=21)** Blockchain is a peer-to-peer tech or database that encodes the history of transactions or events between parties in a tamper-proof way.
 >
-> **[0:31](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=31)** In addition to data, a blockchain can also encode and execute smart contracts, which is just software that runs when predetermined conditions are met.
+> **[0:31](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=31)** In addition to data, a blockchain can also encode and execute [[Smart Contracts]], which is just software that runs when predetermined conditions are met.
 >
 > **[0:41](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=41)** Bitcoin is the most common use of blockchain.
 >
@@ -905,13 +895,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=288)** In either case, these networks are accessed by the digital twin through a blockchain API.
 >
-> **[4:54](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=294)** Blockchain is still in the early adopter phase and as such unless trust is central to your smart products or your smart operations value proposition, it may be better to wait until available solutions are more mature and scalable.
+> **[4:54](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=294)** Blockchain is still in the early adopter phase and as such unless trust is central to your smart [[Microsoft Products|products]] or your smart operations value proposition, it may be better to wait until available solutions are more mature and scalable.
 >
-> **[5:09](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=309)** Now that we know how smart digital transformation technology works, let's see how we can use it to design smart products and architect smart operations next.
+> **[5:09](https://www.linkedin.com/learning/digital-transformation-foundations/blockchain?u=76281980&t=309)** Now that we know how smart [[Digital Transformation]] technology works, let's see how we can use it to design smart products and architect smart operations next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Blockchain]] (22), business (7), data (7), database (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Blockchain]] (22), [[Microsoft Products|Products]] (2), [[Smart Contracts]] (1), [[Digital Transformation]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
@@ -923,14 +913,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identifying value
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
+#### [Identifying value](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=0)** - [Instructor] All smart product designs and smart operations architectures begin here, identifying value.
 >
-> **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=7)** This is the first and most important step in a digital transformation because if a smart product or operation doesn't produce enough value for a reasonable price, it'll fail, fail to secure funding to get to commercialization or fail to be accepted internally into company operations.
+> **[0:07](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=7)** This is the first and most important step in a [[Digital Transformation]] because if a smart product or operation doesn't produce enough value for a reasonable price, it'll fail, fail to secure funding to get to commercialization or fail to be accepted internally into company operations.
 >
 > **[0:26](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=26)** All incremental value from a digital transformation comes from transforming its data into useful information.
 >
@@ -938,7 +927,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=35)** It depends if it's business value or consumer value we're searching for.
 >
-> **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=40)** In business, the value we create with smart products or operations must be measured on the financials.
+> **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=40)** In business, the value we create with smart [[Microsoft Products|products]] or operations must be measured on the financials.
 >
 > **[0:46](https://www.linkedin.com/learning/digital-transformation-foundations/identifying-value-26050247?u=76281980&t=46)** So the P&L is a great place to start.
 >
@@ -990,7 +979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (13), [[Microsoft Products|Products]] (6), product (5), [[Digital Transformation]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Digital Transformation]] (3)
 > **Env Vars:** opex (1), cogs (1), capex (1), oem (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1), such as (1)
@@ -998,8 +987,7 @@ created: 2026-05-02
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980)
+#### [Design](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1017,7 +1005,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=40)** We decide what technology do we need to deliver that data, to deliver that information in order to realize our value proposition.
 >
-> **[0:49](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=49)** The purpose of all digital transformation tech is to collect data or transform it into useful information.
+> **[0:49](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=49)** The purpose of all [[Digital Transformation]] tech is to collect data or transform it into useful information.
 >
 > **[0:55](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=55)** Let's look at a smart tire example.
 >
@@ -1027,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=66)** The data we need is the air pressure threshold for when these types of tires blow.
 >
-> **[1:11](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=71)** And the technology required will be IoT to measure the tire pressure and machine learning to make the blowout model.
+> **[1:11](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=71)** And the technology required will be [[IoT]] to measure the tire pressure and machine learning to make the blowout model.
 >
 > **[1:18](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=78)** So IoT and AI will deliver the blowout threshold model.
 >
@@ -1055,7 +1043,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=169)** For example, perhaps we can use our data and models to invent the tire that never blows out.
 >
-> **[2:54](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=174)** Like the Tesla, even if we don't implement all the features immediately, by thinking ahead and adding relatively low cost hardware, we can roll out new features after the product has been purchased, applying the smart design framework yields and engineering requirements document.
+> **[2:54](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=174)** Like the Tesla, even if we don't implement all the features immediately, by thinking ahead and adding relatively low cost [[Hardware]], we can roll out new features after the product has been purchased, applying the smart design framework yields and engineering requirements document.
 >
 > **[3:10](https://www.linkedin.com/learning/digital-transformation-foundations/design-26044293?u=76281980&t=190)** But not only that, this same info can be repackaged into a sales document to be presented to external or internal customers for validation.
 >
@@ -1063,18 +1051,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), ai (4), product (3), application (2), [[IoT]] (2)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Digital Transformation]] (1), [[Hardware]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sell
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980)
+#### [Sell](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=0)** - Smart Products and Smart Operations are new to both the buyer and the seller.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=0)** - Smart [[Microsoft Products|Products]] and Smart Operations are new to both the buyer and the seller.
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=5)** Therefore, to mitigate the higher risk of failure, we must get buy-in from the customer earlier than normal in the sales cycle.
 >
@@ -1088,7 +1075,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=54)** This is an iterative process, not a linear one.
 >
-> **[0:57](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=57)** One that better fits an agile development structure then a waterfall development structure.
+> **[0:57](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=57)** One that better fits an [[Agile Development|agile]] development structure then a waterfall development structure.
 >
 > **[1:02](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=62)** At each logical step during the development process, we go to potential customers or internal stakeholders, to get feedback.
 >
@@ -1096,7 +1083,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=79)** The importance of validating a Smart Products features before developing them, can't be overstated.
 >
-> **[1:25](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=85)** In my experience, all digital transformation projects, pivot after consulting with the customer.
+> **[1:25](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=85)** In my experience, all [[Digital Transformation]] projects, pivot after consulting with the customer.
 >
 > **[1:31](https://www.linkedin.com/learning/digital-transformation-foundations/sell?u=76281980&t=91)** And I don't mean a minor pivot, I mean, there will always be significant changes.
 >
@@ -1106,19 +1093,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (3), product (3), [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Agile Development|Agile]] (1), [[Digital Transformation]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - smart (1)
 
-#### Build
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980)
+#### [Build](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=0)** - [Instructor] This step turns the requirements and the features.
 >
-> **[0:03](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=3)** And to do this properly, it means the technology and development decision should be prioritized and executed in a specific order to increase the probability of the smart project success.
+> **[0:03](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=3)** And to do this properly, it means the technology and development decision should be prioritized and executed in a specific order to increase the [[Probability]] of the smart project success.
 >
 > **[0:14](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=14)** This is done by relentlessly focusing on delivering the identified value, which in turn means focusing on collecting the right data and transforming it into the right information.
 >
@@ -1134,7 +1120,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=47)** And finally, we get to the tech and determine what tech is required to create that data, to create that information, to create the ultimate value.
 >
-> **[0:56](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=56)** The agile development process iteratively follows the requirement doc with the smart product or operations getting more and more flushed out over time.
+> **[0:56](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=56)** The [[Agile Development|agile]] development process iteratively follows the requirement doc with the smart product or operations getting more and more flushed out over time.
 >
 > **[1:06](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=66)** Once we've defined the value, the information, and the data that we require, we can then look at the technology and at the top of the tech stack is the digital twin.
 >
@@ -1144,13 +1130,13 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=90)** It too is dependent on the digital twin design.
 >
-> **[1:34](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=94)** What's the application development requirements?
+> **[1:34](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=94)** What's the [[Application Development]] requirements?
 >
 > **[1:37](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=97)** What type of libraries do we need to hook into?
 >
 > **[1:39](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=99)** This is all defined by the digital twin.
 >
-> **[1:42](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=102)** Notice I haven't spoken yet about the IoT platform or the IoT product cloud, and that's because these are chosen at the very end.
+> **[1:42](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=102)** Notice I haven't spoken yet about the [[IoT]] platform or the IoT product cloud, and that's because these are chosen at the very end.
 >
 > **[1:52](https://www.linkedin.com/learning/digital-transformation-foundations/build-26047298?u=76281980&t=112)** A common mistake is to choose your IoT platform first and then fill it out.
 >
@@ -1182,7 +1168,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), data (5), product (5), ai (5), cloud (4)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Agile Development|Agile]] (2), [[Probability]] (1), [[Application Development]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** common mistake (1)
@@ -1194,12 +1180,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Main takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)
+#### [Main takeaways](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=0)** - [Instructor] Your success in understanding digital transformation, marked digital transformation, and in creating smart products or company operations will be greatly improved by applying the main concepts taught in this course.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=0)** - [Instructor] Your success in understanding [[Digital Transformation]], marked digital transformation, and in creating smart [[Microsoft Products|products]] or company operations will be greatly improved by applying the main concepts taught in this course.
 >
 > **[0:12](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=12)** Let's start by answering these six fundamental questions posed in the course's introduction, namely, what is digital transformation and smart digital transformation?
 >
@@ -1207,11 +1192,11 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=40)** What can be digitally transformed?
 >
-> **[0:42](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=42)** From a business perspective, we can digitally transform low-level company systems with low tech such as IT and business systems such as ERPs and CRMs, employee functions with mid-level automation techs, such as robotics, digital marketing, and e-commerce, and company products and operations with high tech to make smart products and smart operations through virtualization.
+> **[0:42](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=42)** From a business perspective, we can digitally transform low-level company systems with low tech such as IT and business systems such as ERPs and CRMs, employee functions with mid-level automation techs, such as robotics, digital marketing, and [[E-Commerce]], and company products and operations with high tech to make smart products and smart operations through virtualization.
 >
 > **[1:04](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=64)** Which technologies are used in digital transformations?
 >
-> **[1:07](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=67)** For smart digital transformations, we use the highest commercially viable technologies available today, and these are the digital twin, the internet of things, data analytics or machine learning, extended reality, and blockchain.
+> **[1:07](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=67)** For smart digital transformations, we use the highest commercially viable technologies available today, and these are the digital twin, the [[IoT|internet of things]], data analytics or machine learning, extended reality, and [[Blockchain]].
 >
 > **[1:20](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=80)** The purpose of these technologies is virtualization, that is to make things software-defined and data-driven.
 >
@@ -1231,7 +1216,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=126)** For consumers, this means a better customer experience.
 >
-> **[2:09](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=129)** For businesses, this means more value, value that is measured on the company's financial statements.
+> **[2:09](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=129)** For businesses, this means more value, value that is measured on the company's [[Financial Statements]].
 >
 > **[2:14](https://www.linkedin.com/learning/digital-transformation-foundations/main-takeaways?u=76281980&t=134)** Smart digital transformation increases revenue through innovation and invention, and improves margins through higher operating efficiency.
 >
@@ -1257,7 +1242,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (13), [[Microsoft Products|Products]] (10), business (3), [[Virtualization]] (3), data (3)
+> **Frameworks & Libraries:** [[Digital Transformation]] (13), [[Microsoft Products|Products]] (10), [[E-Commerce]] (1), [[IoT|Internet of things]] (1), [[Blockchain]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)

@@ -106,48 +106,45 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Orchestrating your cloud architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980)
+#### [Orchestrating your cloud architecture](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=0)** - [Lee] Once a sideline for application development, the cloud is now mainstream in almost all modern applications, built and operated by most companies, certainly almost all software-enabled companies.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=0)** - [Lee] Once a sideline for [[Application Development]], the cloud is now mainstream in almost all modern applications, built and operated by most companies, certainly almost all software-enabled companies.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=13)** In this course, we will discuss the types and structure of cloud architecture, and how to choose which model works best for your application.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=22)** We will discuss the use of service-based architectures and how they work, and in fact, are enabled by cloud-based infrastructures.
 >
-> **[0:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=30)** Then we will talk about the newest addition to modern application architecture, and that is AI or artificial intelligence services, and how these services are a growing part of your cloud infrastructure architecture strategy.
+> **[0:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=30)** Then we will talk about the newest addition to modern application architecture, and that is AI or [[Artificial Intelligence (AI)|artificial intelligence]] services, and how these services are a growing part of your [[Cloud Infrastructure]] architecture strategy.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=44)** Hi, I'm Lee Atchison, and I've been working in the cloud since the very start of cloud computing.
+> **[0:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=44)** Hi, I'm Lee Atchison, and I've been working in the cloud since the very start of [[Cloud Computing]].
 >
 > **[0:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/orchestrating-your-cloud-architecture-25351358?u=76281980&t=49)** If you are ready to take your cloud expertise to the next level, let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), application (2), [[Application Development]] (1), ai (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Application Development]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Infrastructure]] (1), [[Cloud Computing]] (1)
 > **Speakers:** - [lee] (1)
 
-#### Course audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980)
+#### [Course audience](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980&t=0)** - [Instructor] You should take this course if you are a software architect currently involved or contemplating a cloud project, a senior software developer or senior operations engineer that's interested in the architectural aspects of cloud computing or wanting to become a cloud architect, are a manager or a director of a team developing an application that will leverage the cloud.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980&t=0)** - [Instructor] You should take this course if you are a software architect currently involved or contemplating a cloud project, a senior software developer or senior operations engineer that's interested in the architectural aspects of [[Cloud Computing]] or wanting to become a cloud architect, are a manager or a director of a team developing an application that will leverage the cloud.
 >
-> **[0:25](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980&t=25)** If you're not yet an architect, but are considering becoming an architect, I would recommend first taking my LinkedIn course, Software Architecture From Developer to Architect, before taking this course.
+> **[0:25](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/course-audience-25359344?u=76281980&t=25)** If you're not yet an architect, but are considering becoming an architect, I would recommend first taking my [[LinkedIn]] course, [[Software Architecture]] From Developer to Architect, before taking this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), application (1), [[LinkedIn]] (1), [[Software Architecture]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[LinkedIn]] (1), [[Software Architecture]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intricacies of cloud architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980)
+#### [Intricacies of cloud architecture](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=0)** - [Instructor] How do cloud architectures differ from non-cloud infrastructure architectures?
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=0)** - [Instructor] How do cloud architectures differ from non-[[Cloud Infrastructure]] architectures?
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=5)** Cloud architectures benefit from easy scaling.
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=211)** If you optimize your application, or said differently, if you build your application to be cloud-centric and effectively use the capabilities of the cloud, you'll save money.
 >
-> **[3:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=225)** Understanding the intricacies of cloud architecture is critical for modern application development.
+> **[3:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=225)** Understanding the intricacies of cloud architecture is critical for modern [[Application Development]].
 >
 > **[3:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/intricacies-of-cloud-architecture-25352348?u=76281980&t=231)** Understanding when to leverage a unique cloud capability versus using generic infrastructure components, you know, such as simple servers, is a critical skill that the cloud architect of a modern application must understand.
 >
@@ -217,7 +214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), application (9), traffic (6), data (3), management (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1), [[Application Development]] (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -227,20 +224,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Public, private, and hybrid cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980)
+#### [Public, private, and hybrid cloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=0)** - [Instructor] Okay.
 >
-> **[0:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=1)** Let's start with a foundational look at the difference between the different approaches to cloud computing, Private Datacenter, Public Cloud, Private Cloud, Hybrid Cloud.
+> **[0:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=1)** Let's start with a foundational look at the difference between the different approaches to [[Cloud Computing]], Private Datacenter, Public Cloud, Private Cloud, [[Hybrid Cloud]].
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=11)** How do these variations impact your ability to leverage cloud capabilities?
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=16)** Well, let's first start with talking about a basic Private Datacenter.
 >
-> **[0:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=20)** A basic Private Datacenter consists of standalone servers, standalone databases, and standalone networking, and networking configuration.
+> **[0:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=20)** A basic Private Datacenter consists of standalone servers, standalone [[Databases]], and standalone networking, and networking configuration.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=31)** All the services implemented on these servers and databases, and any third party services used need to be set up, and run on these servers and databases.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=71)** Often the virtualization layers though don't even exist.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=74)** You run your application straight on top of the server's operating system, the base operating system, bare metal hardware.
+> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=74)** You run your application straight on top of the server's operating system, the base operating system, bare metal [[Hardware]].
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=82)** Next, let's talk about the Public Cloud.
 >
@@ -262,7 +258,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=92)** You have standalone databases, but often these databases are part of a managed service provider that's provided by the cloud provider.
 >
-> **[1:41](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=101)** You have various levels of cloud services that are available to be consumed by your application.
+> **[1:41](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=101)** You have various levels of [[Cloud Services]] that are available to be consumed by your application.
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=108)** These are things like caching, messaging, all the way up to AI, machine learning, and even business services such as email, and calendar management.
 >
@@ -270,7 +266,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=121)** In a public cloud setting, the issues that you are responsible for are very different than they are in your own Datacenter.
 >
-> **[2:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=126)** You are responsible for all server setup, and server configuration.
+> **[2:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=126)** You are responsible for all server setup, and [[Server Configuration]].
 >
 > **[2:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/public-private-and-hybrid-cloud-25352350?u=76281980&t=131)** You are responsible for all data and data maintenance, but you're often assisted by the cloud providers.
 >
@@ -348,7 +344,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (36), application (9), [[Databases]] (5), management (4), [[Hybrid Cloud]] (3)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Hybrid Cloud]] (3), [[Hardware]] (2), [[Cloud Services]] (2), [[Cloud Computing]] (1)
 > **Prerequisites:** set up (2), setup (2)
 > **Env Vars:** api (3)
 > **Analogies:** such as (1), for example (1)
@@ -356,8 +352,7 @@ created: 2026-05-02
 > **Definitions:** basically means (1)
 > **Speakers:** - [instructor] (1)
 
-#### Multicloud and polycloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980)
+#### [Multicloud and polycloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=14)** Multicloud is when a single company system or application makes use of more than one Cloud provider.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=22)** For example, if you use the capabilities of both AWS and Google Cloud platform, GCP, for your application, you are using multicloud.
+> **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=22)** For example, if you use the capabilities of both AWS and [[Google Cloud Platform (GCP)|Google Cloud platform]], GCP, for your application, you are using multicloud.
 >
 > **[0:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=33)** Additional Cloud providers can also be added in, resulting in several Cloud providers being used at once.
 >
@@ -379,7 +374,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=56)** A generic multicloud is when your application makes use of multiple Cloud providers.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=62)** Some of your application runs on servers in AWS and some of your application runs on servers in GCP and/or Azure.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=62)** Some of your application runs on servers in AWS and some of your application runs on servers in GCP and/or [[Microsoft Azure|Azure]].
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=71)** Some of your application runs in your own data center.
 >
@@ -399,9 +394,9 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=143)** But more often than not, multicloud happens because you need the specialized capabilities of different Cloud providers.
 >
-> **[2:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=153)** You may want your main application running on AWS because they provide great general purpose computing, yet you have some Microsoft Windows workloads, so you decide you want to run those workloads on the Microsoft Azure Cloud.
+> **[2:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=153)** You may want your main application running on AWS because they provide great general purpose computing, yet you have some [[Microsoft]] [[Windows]] workloads, so you decide you want to run those workloads on the [[Microsoft Azure]] Cloud.
 >
-> **[2:50](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=170)** But you also might be in need of specialized services that are only available through Google, perhaps a specific AI service or a geolocation service using Google's massive business database.
+> **[2:50](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=170)** But you also might be in need of specialized services that are only available through [[Google]], perhaps a specific AI service or a geolocation service using Google's massive business database.
 >
 > **[3:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/multicloud-and-polycloud-25354417?u=76281980&t=184)** So you run the parts of your application that need those specialized capabilities in GCP.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), application (11), aws (3), gcp (3), data (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Google Cloud Platform (GCP)|Google cloud platform]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **Env Vars:** aws (3), gcp (3)
 > **CLI Commands:** aws (3), make (1)
 > **Analogies:** for example (2)
@@ -421,8 +416,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Selecting the right cloud type
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980)
+#### [Selecting the right cloud type](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,7 +428,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980&t=29)** Should you run on a private cloud in your own data center?
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980&t=33)** Should I run entirely in a public cloud or should I use a hybrid cloud environment?
+> **[0:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980&t=33)** Should I run entirely in a public cloud or should I use a [[Hybrid Cloud]] environment?
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-cloud-type-25354421?u=76281980&t=40)** Should I utilize one or more than one public cloud provider?
 >
@@ -516,7 +510,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (26), application (6), generic (5), api (4), data (2)
+> **Frameworks & Libraries:** [[Hybrid Cloud]] (1)
 > **Env Vars:** api (4)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -528,12 +522,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980)
+#### [Understanding microservices](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=0)** - [Instructor] Understanding microservices.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=0)** - [Instructor] Understanding [[Microservices]].
 >
 > **[0:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=2)** Modern applications require modern architectures to thrive and prosper.
 >
@@ -553,7 +546,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=64)** It can be independently built, tested, deployed, operated from all the other services in the application.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=74)** This allows a great level of scalability in your application construction by dividing responsibility in the smaller segments, so each team can work as independently as possible on the entire application as a whole.
+> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=74)** This allows a great level of [[Scalability]] in your application construction by dividing responsibility in the smaller segments, so each team can work as independently as possible on the entire application as a whole.
 >
 > **[1:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-microservices-25351357?u=76281980&t=87)** Communication between services creates a network that builds larger applications and larger services.
 >
@@ -561,11 +554,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), teams (2), business (2), [[Microservices]] (1), data (1)
+> **Frameworks & Libraries:** [[Microservices]] (1), [[Scalability]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why use microservices?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980)
+#### [Why use microservices?](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980&t=4)** Well, in a traditional monolithic application, all developers share the same development space.
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980&t=10)** This limits scalability on many aspects.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980&t=10)** This limits [[Scalability]] on many aspects.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-use-microservices-25357341?u=76281980&t=13)** It limits the number of developers who can work in this single application, it limits the number of concurrent projects and activities that can go on.
 >
@@ -603,16 +595,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), business (2), teams (2), [[Scalability]] (1), concurrent (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980)
+#### [Types of services](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=0)** - [Announcer] The word "service" is overused.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=0)** - [Announcer] The [[Microsoft Word|word]] "service" is overused.
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=3)** This is because there are many types of services.
 >
@@ -634,11 +625,11 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=60)** Often these capabilities could have been built as an application service by a single customer, but now are generic enough that a cloud provider creates the service and makes it available to a larger number of customers.
 >
-> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=74)** To some example of cloud services include Amazon S3, Amazon RDS, which is a a MySQL or Postgres database, Amazon Elastic Beanstalk, Amazon Simple Queue Service and AWS ElastiCache.
+> **[1:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=74)** To some example of [[Cloud Services]] include Amazon S3, Amazon RDS, which is a a [[MySQL]] or [[PostgreSQL|Postgres]] database, Amazon Elastic Beanstalk, Amazon Simple Queue Service and AWS ElastiCache.
 >
 > **[1:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=89)** ElastiCache happens to be a service that implements an open source version of the rightest database.
 >
-> **[1:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=95)** Examples of a third party service are another version of Redis called Redis Enterprise that is provided on AWS, but by a third party, in this case, Redis Incorporated.
+> **[1:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=95)** Examples of a third party service are another version of [[Redis]] called Redis Enterprise that is provided on AWS, but by a third party, in this case, Redis Incorporated.
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/types-of-services-25357342?u=76281980&t=106)** So a cloud service can be provided by the cloud provider or by a third party.
 >
@@ -646,19 +637,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (11), application (5), [[Redis]] (3), database (2), aws (2)
+> **Frameworks & Libraries:** [[Cloud Services]] (3), [[Redis]] (3), [[Microsoft Word|Word]] (1), [[MySQL]] (1), [[PostgreSQL|Postgres]] (1)
 > **Env Vars:** aws (2), api (1), rds (1)
 > **CLI Commands:** aws (2), mysql (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [announcer] (1)
 
-#### Running microservices in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980)
+#### [Running microservices in the cloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=0)** - [Instructor] We will focus on application services for the rest of the videos in this section, specifically on microservice architectures.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=0)** - [Instructor] We will focus on application services for the [[Representational State Transfer (REST)|rest]] of the videos in this section, specifically on microservice architectures.
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=8)** Microservice architectures benefit from team ownership and management.
 >
@@ -676,7 +666,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=44)** They can just create one in the cloud for their own purposes.
 >
-> **[0:48](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=48)** Teams can use the underlying cloud infrastructure as a kind of base and do not have to build expertise in those areas.
+> **[0:48](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=48)** Teams can use the underlying [[Cloud Infrastructure]] as a kind of base and do not have to build expertise in those areas.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/running-microservices-in-the-cloud-25351362?u=76281980&t=56)** They don't have to worry about things like power and physical plan, networking, server management, and similar low level requirements.
 >
@@ -690,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), application (3), teams (3), management (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Infrastructure]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
@@ -699,8 +689,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data storage in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980)
+#### [Data storage in the cloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -726,7 +715,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=43)** Different access patterns require different database technologies.
 >
-> **[0:47](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=47)** The result of all this is a large variation in the types of data management services that are available for you in the cloud.
+> **[0:47](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=47)** The result of all this is a large variation in the types of [[Data Management]] services that are available for you in the cloud.
 >
 > **[0:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=56)** Let's look at the major ones.
 >
@@ -746,9 +735,9 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=84)** Highly reliable, high availability, and extremely high durability.
 >
-> **[1:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=90)** The second data type is unstructured NoSQL databases.
+> **[1:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=90)** The second data type is unstructured [[NoSQL]] [[Databases]].
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=94)** These are key-value data stores, such as Redis or MongoDB.
+> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=94)** These are key-value data stores, such as [[Redis]] or [[MongoDB]].
 >
 > **[1:38](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=98)** This stores typically smaller amounts of data, and the individual data value is accessed in random access ways using simple procedural calls.
 >
@@ -770,13 +759,13 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=167)** Failure to create a quality schema can result in extremely poor performance.
 >
-> **[2:52](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=172)** Structured data can be further broken down into SQL and NoSQL structured databases.
+> **[2:52](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=172)** Structured data can be further broken down into [[SQL]] and NoSQL structured databases.
 >
 > **[2:58](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=178)** Structured SQL databases tend to be more flexible, while structured NoSQL databases tend to be more scalable.
 >
 > **[3:07](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=187)** The schema determines the performance for structured SQL, while the schema tends to determine the API, and therefore, what types of operations are even allowed, for structured NoSQL.
 >
-> **[3:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=200)** Examples of structured SQL are MySQL, Postgres, and the cloud-based Amazon Aurora database.
+> **[3:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=200)** Examples of structured SQL are [[MySQL]], [[PostgreSQL|Postgres]], and the cloud-based Amazon Aurora database.
 >
 > **[3:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-storage-in-the-cloud-25355362?u=76281980&t=209)** Examples of NoSQL are Amazon's DynamoDB.
 >
@@ -796,7 +785,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Databases]] (8), [[SQL]] (7), database (5), [[NoSQL]] (5)
+> **Frameworks & Libraries:** [[Databases]] (8), [[SQL]] (7), [[NoSQL]] (5), [[MySQL]] (4), [[Data Management]] (1)
 > **Env Vars:** sql (7), aws (1), api (1)
 > **CLI Commands:** mysql (4), aws (1), make (1)
 > **Analogies:** such as (3), for instance (1)
@@ -805,8 +794,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data across services
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980)
+#### [Data across services](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,7 +812,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=34)** In this model, your data is global to the application, and each service that needs access to a particular piece of data can access the data it needs from the shared data store.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=45)** Most data is stored in a single type of data store, but you might use more than one type for different types of data, such as putting most of your data in an SQL database.
+> **[0:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=45)** Most data is stored in a single type of data store, but you might use more than one type for different types of data, such as putting most of your data in an [[SQL]] database.
 >
 > **[0:55](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=55)** But videos and something like S3, you can still do that.
 >
@@ -836,7 +824,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=69)** Any schema change has to be understood immediately by multiple services, and those services may require simultaneous and sometimes synchronous deployments in order to make that happen.
 >
-> **[1:21](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=81)** This limits the usefulness of some types of databases.
+> **[1:21](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=81)** This limits the usefulness of some types of [[Databases]].
 >
 > **[1:25](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=85)** In particular, SQL databases may have a problem with resource requirements when you have multiple entities accessing the data simultaneously.
 >
@@ -854,7 +842,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=124)** And anyone who wants to use that data needs to send a request to the owning service in order to get the data that it needs.
 >
-> **[2:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=131)** Individual services can decide what storage model makes sense for the data they manage, whether it's DynamoDB, Postgres, Redis, S3, whatever, varies service by service and the service itself decides when and how schema changes occur and that one service is solely responsible for doing those schema changes.
+> **[2:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=131)** Individual services can decide what storage model makes sense for the data they manage, whether it's DynamoDB, [[PostgreSQL|Postgres]], [[Redis]], S3, whatever, varies service by service and the service itself decides when and how schema changes occur and that one service is solely responsible for doing those schema changes.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=154)** The advantages of this model is it enables better scaling options than the global model.
 >
@@ -862,7 +850,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=168)** And schema management isn't limited to the owning service.
 >
-> **[2:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=171)** Inner service API management is used to change the shape of the data that is communicated between services, but this does not require simultaneous schema changes.
+> **[2:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=171)** Inner service [[API Management]] is used to change the shape of the data that is communicated between services, but this does not require simultaneous schema changes.
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/data-across-services-25356373?u=76281980&t=182)** So given all of this, my recommendation in almost all cases, modern cloud applications should use the service model for data ownership rather than the global model.
 >
@@ -880,15 +868,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), application (7), management (6), cloud (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Databases]] (2), [[PostgreSQL|Postgres]] (1), [[Redis]] (1), [[API Management]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** sql (2), api (1)
 > **Cross-References:** we talked about (1), previous chapter (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the right data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980)
+#### [Selecting the right data model](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,7 +885,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=8)** In most cloud providers, there are services that manage each of these types of data.
 >
-> **[0:12](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=12)** Let's look at some data use cases, specific examples, and what cloud services might make sense for that type of data.
+> **[0:12](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=12)** Let's look at some data use cases, specific examples, and what [[Cloud Services]] might make sense for that type of data.
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=20)** First, let's look at an example of an application that uses large video assets.
 >
@@ -922,7 +909,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=71)** This is information you want to keep for long periods of time, but rapid reading is important, but so is writing and updating, but probably at a slower rate.
 >
-> **[1:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=82)** This is perfect for a key value store such as Redis or AWS ElastiCache, which can persist data permanently and act like a real permanent database.
+> **[1:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=82)** This is perfect for a key value store such as [[Redis]] or AWS ElastiCache, which can persist data permanently and act like a real permanent database.
 >
 > **[1:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=93)** But rapid reading on some of the data may suggest you might also want to use a a memory-based data cache in the front end, and Redis can work for this as well, or something like Memcached might also work.
 >
@@ -944,7 +931,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=156)** Flat files work just fine for this sort of model, and in long-term these can be stored in Amazon S3.
 >
-> **[2:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=164)** But so does a structured table from a NoSQL data store like DynamoDB.
+> **[2:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=164)** But so does a structured table from a [[NoSQL]] data store like DynamoDB.
 >
 > **[2:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=169)** That also works for storing log files.
 >
@@ -962,9 +949,9 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=205)** You don't want to process the order unless the payment goes through, and you don't want to send a payment through if you can't process the order, that that sort of thing.
 >
-> **[3:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=213)** For this structured SQL databases may be in order.
+> **[3:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=213)** For this structured [[SQL]] [[Databases]] may be in order.
 >
-> **[3:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=216)** They're very good at doing asset compliance, very good at related data, relational data, so databases like MySQL, Postgres, et cetera, and in the cloud, RDS and Aurora are great examples.
+> **[3:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=216)** They're very good at doing asset compliance, very good at related data, relational data, so databases like [[MySQL]], [[PostgreSQL|Postgres]], et cetera, and in the cloud, RDS and Aurora are great examples.
 >
 > **[3:47](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=227)** For the next example, let's look at photographs, an application that stores and processes or stores and displays, photographs.
 >
@@ -974,7 +961,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=253)** Again, this is perfect for an object store such as Amazon S3.
 >
-> **[4:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=257)** But let's expand this example and talk about also wanting to store metadata for the photographs.
+> **[4:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=257)** But let's expand this example and talk about also wanting to store [[Metadata]] for the photographs.
 >
 > **[4:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/selecting-the-right-data-model-25355363?u=76281980&t=264)** Well, in this case, the metadata probably is stored separately from the photographs because that data is structured data, and you probably store that in a related relational database.
 >
@@ -986,7 +973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Redis]] (4), cloud (3), application (3), database (3)
+> **Frameworks & Libraries:** [[Redis]] (4), [[SQL]] (2), [[Databases]] (2), [[Metadata]] (2), [[Cloud Services]] (1)
 > **Env Vars:** sql (2), aws (1), rds (1)
 > **CLI Commands:** make (1), aws (1), mysql (1)
 > **Analogies:** such as (3)
@@ -997,8 +984,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advantages of serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980)
+#### [Advantages of serverless computing](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1002,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=29)** What about a process at a time or even a procedure at a time?
 >
-> **[0:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=33)** This is where serverless computing comes to play.
+> **[0:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=33)** This is where [[Serverless Computing]] comes to play.
 >
 > **[0:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=35)** Serverless computing is allocating computation resources when needed at the process or procedure level without needing to allocate full servers.
 >
@@ -1036,9 +1022,9 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=100)** In AWS, there is Lambda.
 >
-> **[1:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=103)** In Azure, there are Azure functions.
+> **[1:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=103)** In [[Microsoft Azure|Azure]], there are Azure functions.
 >
-> **[1:46](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=106)** In Google, there are cloud functions.
+> **[1:46](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=106)** In [[Google]], there are cloud functions.
 >
 > **[1:48](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/advantages-of-serverless-computing-25351361?u=76281980&t=108)** There are differences, and they're not compatible with each other, but they all act and run very similarly.
 >
@@ -1106,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), cloud (5), [[Serverless Computing]] (5), application (2), aws (2)
+> **Frameworks & Libraries:** [[Serverless Computing]] (5), [[Microsoft Azure|Azure]] (2), [[Google]] (1)
 > **Env Vars:** rds (4), aws (2), sqs (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** aws (2)
@@ -1114,12 +1100,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disadvantages of serverless computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/disadvantages-of-serverless-computing-25353361?u=76281980)
+#### [Disadvantages of serverless computing](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/disadvantages-of-serverless-computing-25353361?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/disadvantages-of-serverless-computing-25353361?u=76281980&t=0)** - [Instructor] Let's stay focused on serverless computing for now.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/disadvantages-of-serverless-computing-25353361?u=76281980&t=0)** - [Instructor] Let's stay focused on [[Serverless Computing]] for now.
 >
 > **[0:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/disadvantages-of-serverless-computing-25353361?u=76281980&t=3)** In the previous video, we talked about the advantages of serverless computing.
 >
@@ -1197,15 +1182,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), [[Serverless Computing]] (4), aws (1), cloud (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (4)
 > **CLI Commands:** make (2), aws (1)
 > **Cross-References:** previous video (1), we talked about (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Serverless computing and your applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980)
+#### [Serverless computing and your applications](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1225,7 +1209,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980&t=54)** It's not good for this sort of a use case.
 >
-> **[0:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980&t=56)** When performing tasks that require heavy computation, data processing, real time or not, serverless works for this, but it often is not cost effective to use serverless computation.
+> **[0:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980&t=56)** When performing tasks that require heavy computation, [[Data Processing]], real time or not, serverless works for this, but it often is not cost effective to use serverless computation.
 >
 > **[1:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/serverless-computing-and-your-applications-25355361?u=76281980&t=69)** What about the front end of a website?
 >
@@ -1251,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), web (1)
+> **Frameworks & Libraries:** [[Data Processing]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** ift (1)
 > **Analogies:** for example (1)
@@ -1262,8 +1246,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud vs. on-premises security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980)
+#### [Cloud vs. on-premises security](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1271,7 +1254,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980&t=6)** This is a strongly held view in certain industries and even in certain parts of the world.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980&t=11)** Certain industries, such as private banking, and in certain parts of the world, such as in parts of Europe, including Switzerland, the cloud has reduced penetration into those markets and those locales in strong part due to concerns about security.
+> **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980&t=11)** Certain industries, such as private [[Banking]], and in certain parts of the world, such as in parts of Europe, including Switzerland, the cloud has reduced penetration into those markets and those locales in strong part due to concerns about security.
 >
 > **[0:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-vs-on-premises-security-25351363?u=76281980&t=27)** Some of the most common reasons I hear for why a company can't move to the cloud have to do with security.
 >
@@ -1305,19 +1288,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Security]] (8), data (4), [[Banking]] (1), aws (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **CLI Commands:** make (3), aws (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** such as (2)
 > **Env Vars:** aws (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leveraging cloud provider expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980)
+#### [Leveraging cloud provider expertise](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=0)** - [Instructor] Keeping your application secure in the cloud infrastructure is actually a joint responsibility.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=0)** - [Instructor] Keeping your application secure in the [[Cloud Infrastructure]] is actually a joint responsibility.
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=5)** Both the cloud provider and you have a role in keeping your application safe.
 >
@@ -1343,9 +1325,9 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=79)** Each service and each cloud provider may have a different model for implementing the shared responsibility principle.
 >
-> **[1:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=87)** As a simple example, in the world of AWS, the EC2 service has a specific shared responsibility model.
+> **[1:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=87)** As a simple example, in the world of AWS, the [[Amazon EC2|EC2]] service has a specific shared responsibility model.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=94)** In the AWS EC2 shared responsibility model, AWS is responsible for the physical security of the facilities that house the cloud hardware.
+> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=94)** In the AWS EC2 shared responsibility model, AWS is responsible for the physical security of the facilities that house the cloud [[Hardware]].
 >
 > **[1:46](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=106)** This is the AWS data centers, appropriate for the specific region and availability zones that you are using.
 >
@@ -1355,9 +1337,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=123)** And you are responsible for the security of the operating system running on that server.
 >
-> **[2:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=129)** The security of all the software running on your servers, whether that's third-party software, daemons, monitors, et cetera, and the security of all the applications that you have built that you're running on the servers; the security for all data that you store on the server, or transfer on and off the servers, and the responsibility for securing all of the credentials that you use to access all of the cloud resources, cloud services, and software.
+> **[2:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=129)** The security of all the software running on your servers, whether that's third-party software, daemons, monitors, et cetera, and the security of all the applications that you have built that you're running on the servers; the security for all data that you store on the server, or transfer on and off the servers, and the responsibility for securing all of the credentials that you use to access all of the cloud resources, [[Cloud Services]], and software.
 >
-> **[2:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=157)** Finally, you are responsible for all policies you need to enforce, standardized system configuration, and other system constraints and requirements.
+> **[2:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=157)** Finally, you are responsible for all policies you need to enforce, standardized [[System Configuration]], and other system constraints and requirements.
 >
 > **[2:46](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/leveraging-cloud-provider-expertise-25357344?u=76281980&t=166)** Now, every service has a similar model, and every cloud provider may provide a different dividing line between your responsibility and their responsibility.
 >
@@ -1367,14 +1349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), [[Security]] (11), application (5), aws (5), [[Cloud Infrastructure]] (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (2), [[Amazon EC2|Ec2]] (2), [[Hardware]] (2), [[Cloud Services]] (2), [[System Configuration]] (1)
 > **Env Vars:** aws (5), ec2 (2)
 > **CLI Commands:** aws (5)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security zones
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980)
+#### [Security zones](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1396,11 +1377,11 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=61)** All communications between the public and private zone go through services in the DMZ and the primary purpose of services in the DMZ is to provide high levels of protection for the private zone from services in the more vulnerable public zone.
 >
-> **[1:18](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=78)** In the cloud, these zones are normally constructed using multiple Virtual Private Clouds or VPCs to implement each of these zones.
+> **[1:18](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=78)** In the cloud, these zones are normally constructed using multiple Virtual [[Private Clouds]] or VPCs to implement each of these zones.
 >
 > **[1:26](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=86)** Sometimes there are multiple versions of each zones with an instance of each zone in each geographic region where the application is actually operating.
 >
-> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=94)** The VPCs use various networking and application level security provisions, such as network access controls, security groups, and software and hardware firewalls to limit traffic and increase security.
+> **[1:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=94)** The VPCs use various networking and application level security provisions, such as network access controls, security groups, and software and [[Hardware]] firewalls to limit traffic and increase security.
 >
 > **[1:47](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/security-zones-25358322?u=76281980&t=107)** Often the cloud providers give you tools to manage these security settings and properly set up and manage the necessary permissions to secure your application.
 >
@@ -1410,7 +1391,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), application (8), cloud (3), traffic (2), data (1)
+> **Frameworks & Libraries:** [[Private Clouds]] (1), [[Hardware]] (1)
 > **Env Vars:** dmz (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -1418,14 +1399,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [announcer] (1)
 
-#### Identity and permissions in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980)
+#### [Identity and permissions in the cloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980&t=0)** - [Instructor] Another critical principle in maintaining a safe and secure application running in the cloud is to understand the principle of least privilege.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980&t=9)** This principle is not really a cloud specific principle, but it applies to cloud infrastructures and it is a critical best practice for building a safe and secure cloud infrastructure.
+> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980&t=9)** This principle is not really a cloud specific principle, but it applies to cloud infrastructures and it is a critical best practice for building a safe and secure [[Cloud Infrastructure]].
 >
 > **[0:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/identity-and-permissions-in-the-cloud-25354419?u=76281980&t=20)** The principle of lease privilege is an industry standard, an important security principle.
 >
@@ -1485,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (23), cloud (4), [[Security]] (3), data (3), [[Cloud Infrastructure]] (1)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (1)
 > **Definitions:** is a  (3), is an  (1), known as (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -1495,8 +1475,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dynamic infrastructures
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/dynamic-infrastructures-25354418?u=76281980)
+#### [Dynamic infrastructures](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/dynamic-infrastructures-25354418?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,13 +1513,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), traffic (3), power (1), business (1)
 > **Env Vars:** cfo (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Infrastructures brick by brick
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980)
+#### [Infrastructures brick by brick](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,7 +1525,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=4)** Applications are constructed as a network of components all working together.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=9)** One advantage of the cloud is that you can leverage components that you build as well as components that are built by the cloud provider or other companies like SaaS software in order to build your application.
+> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=9)** One advantage of the cloud is that you can leverage components that you build as well as components that are built by the cloud provider or other companies like [[SaaS]] software in order to build your application.
 >
 > **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=22)** Let's take a look at a simple example.
 >
@@ -1572,7 +1549,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=81)** Feed it to a SaaS service provider for processing, alerting, or diagnostics.
 >
-> **[1:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=87)** So this simple app has code that you wrote, developed for the application specifically, components that you are operating that you got fully assembled like Nginx in the container, cloud services that you're leveraging like your database as a service, or Amazon S3, and third-party services that you've linked in and used within your application.
+> **[1:27](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=87)** So this simple app has code that you wrote, developed for the application specifically, components that you are operating that you got fully assembled like Nginx in the container, [[Cloud Services]] that you're leveraging like your database as a service, or Amazon S3, and third-party services that you've linked in and used within your application.
 >
 > **[1:52](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructures-brick-by-brick-25352349?u=76281980&t=112)** All of these modules, working together, create a full application satisfying the needs of the user and the business.
 >
@@ -1580,14 +1557,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), application (7), database (4), [[SaaS]] (2), web (1)
+> **Frameworks & Libraries:** [[SaaS]] (2), [[Cloud Services]] (1)
 > **CLI Commands:** nginx (2)
 > **Env Vars:** cdn (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980)
+#### [Infrastructure as code](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1609,7 +1585,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=36)** How it might impact the site and correlate problems with those changes becomes difficult.
 >
-> **[0:42](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=42)** Rather than hand assemble the infrastructure using the console of the cloud provider, creating and allocating their necessary components, instead, leverage the fact that the cloud providers and most SaaS and infrastructure as a service companies have APIs that allow configuration of their services.
+> **[0:42](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=42)** Rather than hand assemble the infrastructure using the console of the cloud provider, creating and allocating their necessary components, instead, leverage the fact that the cloud providers and most [[SaaS]] and [[IaaS|infrastructure as a service]] companies have APIs that allow configuration of their services.
 >
 > **[1:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=61)** You want to leverage tools that will piece together all of the infrastructure components, calling the APIs as necessary to build the infrastructure.
 >
@@ -1617,13 +1593,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=75)** This written description can be updated and the tools will automatically update the real infrastructure to match the description.
 >
-> **[1:23](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=83)** This model is often called infrastructure as code, and there are many different tools that can help with this capability.
+> **[1:23](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=83)** This model is often called [[Infrastructure as code (IaC)|infrastructure as code]], and there are many different tools that can help with this capability.
 >
 > **[1:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=91)** Some of these tools are provided by the cloud providers themselves, such as AWS CloudFormation.
 >
 > **[1:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=97)** Some are third-party tools.
 >
-> **[1:39](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=99)** The most popular, and arguably best of these, is Terraform.
+> **[1:39](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=99)** The most popular, and arguably best of these, is [[Terraform]].
 >
 > **[1:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=104)** But there are many others, including Chef, Puppet, and others.
 >
@@ -1637,7 +1613,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=130)** They provide a written description that is used to construct your infrastructure.
 >
-> **[2:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=134)** Now, that written description itself can be treated as if it was code, meaning it can be stored in a revision control system, such as Git, which allows you to track changes and implement review and approval process models just like you do for code.
+> **[2:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=134)** Now, that written description itself can be treated as if it was code, meaning it can be stored in a revision control system, such as [[Git]], which allows you to track changes and implement review and approval process models just like you do for code.
 >
 > **[2:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/infrastructure-as-code-25358325?u=76281980&t=152)** This using a code-like model for describing infrastructure is why the term infrastructure as code is used.
 >
@@ -1657,7 +1633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), application (1), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[SaaS]] (1), [[IaaS|Infrastructure as a service]] (1), [[Terraform]] (1), [[Git]] (1)
 > **CLI Commands:** make (1), aws (1), terraform (1), git (1)
 > **Analogies:** such as (2), just like (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -1669,8 +1645,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Single Team Oriented Service Architecture (STOSA) organizations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/single-team-oriented-service-architecture-stosa-organizations-25358324?u=76281980)
+#### [Single Team Oriented Service Architecture (STOSA) organizations](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/single-team-oriented-service-architecture-stosa-organizations-25358324?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1772,20 +1747,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), teams (9), data (5), cloud (1)
 > **Env Vars:** stosa (16)
 > **Definitions:** is an  (2), is a  (1)
 > **URLs:** [stosa.org](https://stosa.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effective devops in the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980)
+#### [Effective devops in the cloud](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=0)** - [Narrator] DevOps is a set of practices that emphasize communications and collaboration between software developers and IT operations.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=0)** - [Narrator] [[DevOps]] is a set of practices that emphasize communications and collaboration between software developers and IT operations.
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=8)** By using DevOps in your cloud practices, you can create a more efficient environment for software development and infrastructure management.
+> **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=8)** By using DevOps in your cloud practices, you can create a more efficient environment for [[Software Development]] and infrastructure management.
 >
 > **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=16)** I won't go into the benefits of DevOps per se, but I will talk about how the cloud can make implementing DevOps easier and best practices for implementing DevOps for cloud applications.
 >
@@ -1809,20 +1782,19 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=84)** DevOps is designed to bring developers and operations closer together to make seamless processes between them.
 >
-> **[1:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=91)** Cloud computing is designed to automate many standard operation tasks, allowing you to adjust infrastructures quickly and dynamically.
+> **[1:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=91)** [[Cloud Computing]] is designed to automate many standard operation tasks, allowing you to adjust infrastructures quickly and dynamically.
 >
 > **[1:40](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/effective-devops-in-the-cloud-25359343?u=76281980&t=100)** When you use both of them, they bring developers, operations, and infrastructure together and enable standardized and unified processes and systems, making modern applications more advanced and more achievable.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (10), cloud (10), [[Software Development]] (1), management (1), application (1)
+> **Frameworks & Libraries:** [[DevOps]] (10), [[Software Development]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Understanding automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980)
+#### [Understanding automation](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1846,13 +1818,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=66)** Additionally, cloud providers themselves provide their own monitoring and analytics solutions.
 >
-> **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=71)** AWS has CloudWatch and Microsoft has Azure Monitor.
+> **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=71)** AWS has CloudWatch and [[Microsoft]] has [[Microsoft Azure|Azure]] Monitor.
 >
 > **[1:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=76)** These are designed to give you operational information into how the cloud components that you are using are performing.
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=82)** These tools can run standalone or can be integrated with application monitoring or other infrastructure monitoring tools to create a complete and comprehensive set of information.
 >
-> **[1:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=92)** Often this data is collected and kept in the cloud so that AI and machine learning algorithms can be applied to it to identify trends and determine courses of action.
+> **[1:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=92)** Often this data is collected and kept in the cloud so that AI and machine learning [[Algorithms]] can be applied to it to identify trends and determine courses of action.
 >
 > **[1:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/understanding-automation-25356371?u=76281980&t=103)** In these ways, monitoring and analytic tools take advantage of the scale and resource availability in the cloud to provide advanced and comprehensive monitoring.
 >
@@ -1860,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), application (8), data (6), [[Analytics]] (5), business (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Microsoft Azure|Azure]] (1), [[Algorithms]] (1)
 > **CLI Commands:** find (1), aws (1)
 > **Definitions:** refers to (2)
 > **Analogies:** such as (2)
@@ -1872,12 +1844,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundations of AI in cloud computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980)
+#### [Foundations of AI in cloud computing](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=0)** - [Instructor] Next, we're diving into a topic that's transforming how we think about cloud architecture, and that is artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=0)** - [Instructor] Next, we're diving into a topic that's transforming how we think about cloud architecture, and that is [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=9)** You know, when I was working at Amazon and later advising clients, and finally as the CTO of an AI-focused startup, I watched AI evolve from a specialized tool to a fundamental component of cloud architecture.
 >
@@ -1887,11 +1858,11 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=38)** They provide a broad set of services to help you build AI-enabled applications.
 >
-> **[0:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=44)** Microsoft, especially before their involvement with OpenAI, took an approach of integrating AI with existing Microsoft tools.
+> **[0:44](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=44)** [[Microsoft]], especially before their involvement with OpenAI, took an approach of integrating AI with existing Microsoft tools.
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=54)** But more recently, they've used their open AI leadership to extend their offerings beyond just Microsoft tooling.
 >
-> **[1:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=62)** Google, on the other hand, has a very strong research background, and they take a more theoretical approach to their AI offerings, with a focus on innovation and on the technology itself.
+> **[1:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=62)** [[Google]], on the other hand, has a very strong research background, and they take a more theoretical approach to their AI offerings, with a focus on innovation and on the technology itself.
 >
 > **[1:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=77)** But where they're all the same is this.
 >
@@ -1927,7 +1898,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=218)** Whatever approach or approaches that you decide to take, make sure to select a method that matches your business needs, your available corporate skill sets and talent, and of course, your budget.
 >
-> **[3:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=231)** Making a wrong architectural direction decision in this first step can make or break the success of your entire AI strategy.
+> **[3:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=231)** Making a wrong architectural direction decision in this first step can make or break the success of your entire [[AI Strategy]].
 >
 > **[4:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=243)** All three of these approaches requires a concentrated thought process about how you plan on using AI in your architectural strategy and how much that strategy will cost.
 >
@@ -1939,7 +1910,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=298)** These are not normal cloud expense vectors.
 >
-> **[5:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=301)** Complexity of a task is not something you are usually directly charged for in a cloud computing environment.
+> **[5:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=301)** Complexity of a task is not something you are usually directly charged for in a [[Cloud Computing]] environment.
 >
 > **[5:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/foundations-of-ai-in-cloud-computing-25351360?u=76281980&t=309)** Instead, you're usually charged for the basics, computation, networking, and storage.
 >
@@ -1953,23 +1924,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), business (7), cloud (6), [[Microsoft]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Google]] (1), [[AI Strategy]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** make (3), aws (1)
 > **Env Vars:** cto (1), aws (1), api (1)
 > **Analogies:** for example (1), picture (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI integration patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980)
+#### [AI integration patterns](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=0)** - [Instructor] In this video, we'll explore the different ways generative AI can be integrated into cloud applications and the trade-offs of each approach.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=0)** - [Instructor] In this video, we'll explore the different ways [[Generative AI]] can be integrated into cloud applications and the trade-offs of each approach.
 >
 > **[0:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=10)** The three main integration patterns are, direct integration with AI providers.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=16)** This is using preexisting cloud services that are available in cloud providers and custom AI providers.
+> **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=16)** This is using preexisting [[Cloud Services]] that are available in cloud providers and custom AI providers.
 >
 > **[0:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=24)** The second is a self-hosted open-source model.
 >
@@ -1979,13 +1949,13 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=40)** Let's look at each of these three in a bit more detail.
 >
-> **[0:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=45)** The direct integration model involves using existing, known AI providers such as OpenAI, Anthropic, or using the AI services that are offered by major cloud providers such as AWS, Google, or Microsoft to provide the AI capabilities that your application requires.
+> **[0:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=45)** The direct integration model involves using existing, known AI providers such as OpenAI, Anthropic, or using the AI services that are offered by major cloud providers such as AWS, [[Google]], or [[Microsoft]] to provide the AI capabilities that your application requires.
 >
-> **[1:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=64)** This is the typical SaaS model of integrating third-party service software into your application.
+> **[1:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=64)** This is the typical [[SaaS]] model of integrating third-party service software into your application.
 >
 > **[1:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=71)** You must select an AI provider, select the specific capabilities you want to use, create an integration with that provider, and create and manage the GLUE necessary to integrate the existing AI service into your application.
 >
-> **[1:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=89)** Typically, AI providers have either a language-specific API or REST API that allows you to integrate with their services, just like any other SaaS service you might use.
+> **[1:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=89)** Typically, AI providers have either a language-specific API or [[Representational State Transfer (REST)|REST]] API that allows you to integrate with their services, just like any other SaaS service you might use.
 >
 > **[1:42](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=102)** You pay for the AI capabilities that you consume and you provide payment to the AI provider you selected.
 >
@@ -2015,21 +1985,21 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=208)** In a fast-evolving technology such as AI, this may stifle your innovation.
 >
-> **[3:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=216)** Additionally, you're limited by the privacy, security, and availability limitations that the single vendor provides, which may limit your ability to utilize certain capabilities for your business needs.
+> **[3:36](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=216)** Additionally, you're limited by the [[Privacy]], security, and availability limitations that the single vendor provides, which may limit your ability to utilize certain capabilities for your business needs.
 >
 > **[3:53](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=233)** The second approach is to directly self-host AI models on your own computation resources.
 >
 > **[4:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=240)** There are many open-source AI models available that you can start with, and expanding these models is not very difficult.
 >
-> **[4:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=249)** This approach requires you to operate your own AI infrastructure, though, which you can typically easily do on a cloud infrastructure by a major cloud provider.
+> **[4:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=249)** This approach requires you to operate your own AI infrastructure, though, which you can typically easily do on a [[Cloud Infrastructure]] by a major cloud provider.
 >
 > **[4:20](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=260)** This approach gives you increased flexibility and often reduced overall costs, but the initial set of costs and effort can be quite a bit higher.
 >
-> **[4:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=272)** You get full control over how the models work for your application usage, and you have complete control over your data privacy and other dependencies.
+> **[4:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=272)** You get full control over how the models work for your application usage, and you have complete control over your [[Data Privacy]] and other dependencies.
 >
 > **[4:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=283)** However, getting such an AI infrastructure up and running can require a significant investment in time and resources, and it requires a much higher level of cloud expertise and AI expertise than the typical SaaS model requires.
 >
-> **[5:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=300)** The result, more control and better cost management in the long run, but with additional cost, effort and complexity and expertise requirements in the short run.
+> **[5:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=300)** The result, more control and better [[Cost Management]] in the long run, but with additional cost, effort and complexity and expertise requirements in the short run.
 >
 > **[5:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-integration-patterns-25359345?u=76281980&t=313)** The third approach is the hybrid approach.
 >
@@ -2043,7 +2013,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), cloud (7), [[SaaS]] (6), application (5), open-source (3)
+> **Frameworks & Libraries:** [[SaaS]] (6), [[Generative AI]] (1), [[Cloud Services]] (1), [[Google]] (1), [[Microsoft]] (1)
 > **Analogies:** such as (5), just like (3)
 > **Env Vars:** aws (2), api (2), glue (1), rest (1)
 > **CLI Commands:** aws (2)
@@ -2051,14 +2021,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resource and cost considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980)
+#### [Resource and cost considerations](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=0)** - [Instructor] We talked earlier about the resource and cost implications of using AI, but let's go into that in a bit more detail in this video.
 >
-> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=9)** Generative AI, in particular, brings new resource considerations that differ significantly from traditional, cloud-based application architectures.
+> **[0:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=9)** [[Generative AI]], in particular, brings new resource considerations that differ significantly from traditional, cloud-based application architectures.
 >
 > **[0:19](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=19)** For example, computational resources.
 >
@@ -2068,11 +2037,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=43)** Additionally, GPU memory often becomes a critical resource constraint.
 >
-> **[0:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=49)** Large language models require significant quantities of memory to operate effectively.
+> **[0:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=49)** [[Large Language Models (LLM)|Large language models]] require significant quantities of memory to operate effectively.
 >
 > **[0:54](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=54)** Some models can require multiple gigabytes of RAM just to function.
 >
-> **[0:59](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=59)** While you can often balance available memory across multiple AI requests, especially during batch processing, often AI requests are time sensitive, human-level discussions that require a more immediate response.
+> **[0:59](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=59)** While you can often balance available memory across multiple AI requests, especially during [[Batch Processing]], often AI requests are time sensitive, human-level discussions that require a more immediate response.
 >
 > **[1:15](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=75)** Hence, expensive memory is required even to do simple AI tasks.
 >
@@ -2084,7 +2053,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=118)** These models assign a price based on the amount of input given to a model.
 >
-> **[2:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=122)** The more text or images or audio or video you give a model in a request, the more tokens it consumes, and the amount of output that the model produces in its response.
+> **[2:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=122)** The more text or images or audio or video you give a model in a request, the more [[Tokens]] it consumes, and the amount of output that the model produces in its response.
 >
 > **[2:15](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/resource-and-cost-considerations-25351359?u=76281980&t=135)** The greater the quantity of output text, audio, video, et cetera, the more tokens are consumed.
 >
@@ -2160,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), cloud (5), application (5), [[Tokens]] (5), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (5), [[Generative AI]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Batch Processing]] (1)
 > **Env Vars:** gpu (4), cpu (3), ram (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), such as (1)
@@ -2169,14 +2138,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-assisted cloud operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980)
+#### [AI-assisted cloud operations](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=0)** - [Instructor] In the previous videos, we talked about using AI within your application itself.
 >
-> **[0:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=6)** But AI can also be used in building and operating your cloud infrastructure as well.
+> **[0:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=6)** But AI can also be used in building and operating your [[Cloud Infrastructure]] as well.
 >
 > **[0:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=13)** In this video, let's explore how AI can help optimize your cloud infrastructure, predict resource needs, and manage costs effectively across your entire application stack.
 >
@@ -2204,7 +2172,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=125)** Also, since AI is extremely good at looking at large quantities of disparate data and deduce patterns from that data, AI can take useful, nonoperational data into account to determine when resource needs might change.
 >
-> **[2:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=142)** For example, an AI infrastructure management solution can take a defined marketing strategy into account to make assumptions on when resource spikes may naturally occur and create operational plans for dealing with those spikes.
+> **[2:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=142)** For example, an AI infrastructure management solution can take a defined [[Marketing Strategy]] into account to make assumptions on when resource spikes may naturally occur and create operational plans for dealing with those spikes.
 >
 > **[2:40](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-cloud-operations-25357345?u=76281980&t=160)** Essentially, when a large quantity of data needs to be analyzed to create a response, AI-powered tools can be quite effective in helping.
 >
@@ -2222,18 +2190,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (7), management (5), [[Cloud Infrastructure]] (3), application (2)
+> **Frameworks & Libraries:** [[Cloud Infrastructure]] (3), [[Marketing Strategy]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-assisted security and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980)
+#### [AI-assisted security and governance](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=0)** - [Instructor] Just like in IT operations management, AI can be useful in helping architect your application security and governance requirements, policies, procedures, and operational monitoring.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=0)** - [Instructor] Just like in IT operations management, AI can be useful in helping architect your [[Application Security]] and governance requirements, policies, procedures, and operational monitoring.
 >
 > **[0:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=14)** Traditional security and governance processes often struggle to keep up with the pace and scale of modern threats and attacks.
 >
@@ -2285,7 +2252,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=253)** AI can be useful in governance as well.
 >
-> **[4:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=256)** They can interpret and enforce policy and provide continuous compliance monitoring with automatic policy violation detection, and real-time adjustment in order to speed recovery.
+> **[4:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=256)** They can interpret and enforce policy and provide continuous compliance monitoring with automatic policy violation detection, and [[Real-Time]] adjustment in order to speed recovery.
 >
 > **[4:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=271)** AI can also make intelligent policy recommendations that can improve your overall compliance by analyzing how your IT operation systems actually work as opposed to how you think they should be working.
 >
@@ -2293,17 +2260,16 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=294)** This not only will improve your overall compliance, but reduce the cost of validating and the cost of auditing your compliance.
 >
-> **[5:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=304)** The actual strategies for effectively using AI for security and compliance are well beyond the scope of this course, but many AI enabled tools and systems are on the market now, and more products and capabilities are being created daily.
+> **[5:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/ai-assisted-security-and-governance-25356372?u=76281980&t=304)** The actual strategies for effectively using AI for security and compliance are well beyond the scope of this course, but many AI enabled tools and systems are on the market now, and more [[Microsoft Products|products]] and capabilities are being created daily.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Security]] (11), cloud (2), data (2), management (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** just like (1), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why use the cloud for AI/ML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980)
+#### [Why use the cloud for AI/ML?](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,11 +2279,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=11)** But AI isn't a cloud technology.
 >
-> **[0:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=14)** You don't need the cloud to implement an AI strategy.
+> **[0:14](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=14)** You don't need the cloud to implement an [[AI Strategy]].
 >
 > **[0:18](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=18)** So why is AI so important in a cloud architecture course?
 >
-> **[0:23](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=23)** Well, while you can use AI and have an AI strategy without ever touching or using any cloud resources, the cloud is a natural avenue to implement your AI-enabled product strategy.
+> **[0:23](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=23)** Well, while you can use AI and have an AI strategy without ever touching or using any cloud resources, the cloud is a natural avenue to implement your AI-enabled [[Product Strategy]].
 >
 > **[0:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=37)** It turns out, the needs for AI match very effectively the capabilities of cloud providers.
 >
@@ -2341,17 +2307,17 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=118)** There are tons of AI services available on all of the major cloud providers, making integration using cloud technology a natural fit for AI-intensive workloads.
 >
-> **[2:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=130)** Additionally, the cloud's natural predisposition towards DevOps and infrastructure as a service workflows and the natural extension to AI-automated infrastructures, as we talked about in a previous video, this makes the use of cloud infrastructures a much easier decision.
+> **[2:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=130)** Additionally, the cloud's natural predisposition towards [[DevOps]] and [[IaaS|infrastructure as a service]] workflows and the natural extension to AI-automated infrastructures, as we talked about in a previous video, this makes the use of cloud infrastructures a much easier decision.
 >
 > **[2:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=150)** Third, data.
 >
 > **[2:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=152)** Many, if not most, AI workloads are also data-heavy endeavors.
 >
-> **[2:38](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=158)** The availability of massive and relatively inexpensive data storage in cloud environments means it's a natural fit to run the AI workloads in the same cloud environments.
+> **[2:38](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=158)** The availability of massive and relatively inexpensive [[Data Storage]] in cloud environments means it's a natural fit to run the AI workloads in the same cloud environments.
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=171)** There are, however, some disadvantages of using AI in a cloud environment.
 >
-> **[2:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=176)** First, cost structures for cloud computing can become an issue.
+> **[2:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=176)** First, cost structures for [[Cloud Computing]] can become an issue.
 >
 > **[3:02](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=182)** If you do not keep a close handle on your cloud spending, your spending can easily grow out of hand when you put AI into the picture.
 >
@@ -2363,7 +2329,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=217)** This again is not unique to AI capabilities, but the ready availability of sophisticated, cloud-specific AI tools make it easy to become locked into single-vendor cloud solutions because of their specific AI capabilities that they offer.
 >
-> **[3:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=236)** Third is privacy and compliance.
+> **[3:56](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=236)** Third is [[Privacy]] and compliance.
 >
 > **[3:58](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=238)** AI has enabled a new need to focus on privacy and compliance issues, which also has been a concern historically with basic cloud infrastructures.
 >
@@ -2371,13 +2337,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=259)** Disadvantages notwithstanding, the cloud and AI are very closely entangled.
 >
-> **[4:26](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=266)** And the need for applications to leverage AI technology will only increase the push to have a broad and effective cloud strategy in place as well.
+> **[4:26](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=266)** And the need for applications to leverage AI technology will only increase the push to have a broad and effective [[Cloud Strategy]] in place as well.
 >
 > **[4:37](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-us-the-cloud-for-ai-ml-25353360?u=76281980&t=277)** The cloud and AI are nearly inseparably linked.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (33), cloud (32), data (3), [[Privacy]] (3), product (2)
+> **Frameworks & Libraries:** [[AI Strategy]] (3), [[Privacy]] (3), [[Product Strategy]] (1), [[DevOps]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1), previous video (1)
@@ -2389,8 +2355,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980)
+#### [The Internet of Things](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2398,9 +2363,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=4)** But what happens when you want the cloud to become physical and real?
 >
-> **[0:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=10)** The internet of things is where the virtual cloud touches the physical world.
+> **[0:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=10)** The [[IoT|internet of things]] is where the virtual cloud touches the physical world.
 >
-> **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=16)** The internet of things, or IoT, are physical devices that are distributed across the physical world that perform actions used by the cloud to perform analysis or control in the physical world.
+> **[0:16](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=16)** The internet of things, or [[IoT]], are physical devices that are distributed across the physical world that perform actions used by the cloud to perform analysis or control in the physical world.
 >
 > **[0:31](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=31)** By far, the simplest example of IoT devices are your basic smart home devices, your smart thermostat, your Wi-Fi enabled light bulbs, doorbell cameras, and Amazon Alexa enabled assistants are all examples of IoT devices.
 >
@@ -2436,7 +2401,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=188)** IoT requires a massive network of highly secured network connections among millions or billions of devices, all controlled and managed from centralized applications.
 >
-> **[3:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=202)** This scale creates a unique architectural challenge in data management, network utilization, and system architecture.
+> **[3:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=202)** This scale creates a unique architectural challenge in [[Data Management]], network utilization, and [[System Architecture]].
 >
 > **[3:33](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=213)** This is the heart of edge computing, and edge computing is one of the fastest moving growth areas of the cloud.
 >
@@ -2502,7 +2467,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=420)** Next is the cloud layer.
 >
-> **[7:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=421)** This is where centralized core processing and data storage is maintained.
+> **[7:01](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=421)** This is where centralized core processing and [[Data Storage]] is maintained.
 >
 > **[7:09](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=429)** And finally, the application layer.
 >
@@ -2518,29 +2483,28 @@ created: 2026-05-02
 >
 > **[8:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=486)** IoT is causing traditional, rephrase.
 >
-> **[8:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=490)** IoT is causing traditional, centralized cloud computing models to shift into a more distributed architecture, dramatically increasing the complexity involved.
+> **[8:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=490)** IoT is causing traditional, centralized [[Cloud Computing]] models to shift into a more distributed architecture, dramatically increasing the complexity involved.
 >
 > **[8:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-internet-of-things-25351356?u=76281980&t=502)** This is the heart of edge computing.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (19), cloud (17), data (14), [[Security]] (6), application (5)
+> **Frameworks & Libraries:** [[IoT]] (19), [[IoT|Internet of things]] (3), [[Data Management]] (2), [[System Architecture]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extending the cloud to the edge
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980)
+#### [Extending the cloud to the edge](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=0)** - [Instructor] While cloud computing continues to grow, where the cloud is growing is shifting.
+> **[0:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=0)** - [Instructor] While [[Cloud Computing]] continues to grow, where the cloud is growing is shifting.
 >
 > **[0:06](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=6)** Centralized computing, while still important in the core of cloud computing, is being outpaced by the massive growth in edge computing.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=17)** Edge computing represents a fundamental evolution in cloud architecture.
 >
-> **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=22)** Leading much of this growth in edge computing is the Internet of Things, as discussed in the previous video, but edge computing is more than just monitoring sensors and controlling relays.
+> **[0:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=22)** Leading much of this growth in edge computing is the [[IoT|Internet of Things]], as discussed in the previous video, but edge computing is more than just monitoring sensors and controlling relays.
 >
 > **[0:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=34)** Edge computing is much more than that.
 >
@@ -2556,7 +2520,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=82)** But cloud computation is much more sophisticated in modern cars than just this.
 >
-> **[1:28](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=88)** Safety features such as crash detection and automatic calling of emergency first responders are becoming more commonplace, as is data collection in order to make sophisticated determinations on the health of the automobile itself, and when a service or an update might be required.
+> **[1:28](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=88)** Safety features such as crash detection and automatic calling of emergency first responders are becoming more commonplace, as is [[Data Collection]] in order to make sophisticated determinations on the health of the automobile itself, and when a service or an update might be required.
 >
 > **[1:49](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=109)** Modern automobiles use and coordinate hundreds of on-car sensors, processing the data locally, and making decisions locally, ultimately communicating to centralized cloud resources.
 >
@@ -2594,13 +2558,13 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=261)** Sophisticated AI systems run in your car and process all of that data to make whatever decisions are necessary and perform all of the necessary actions, all locally.
 >
-> **[4:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=275)** Then, summary data, and summary data only, is sent to the centralized cloud for further non-real time data processing.
+> **[4:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=275)** Then, summary data, and summary data only, is sent to the centralized cloud for further non-real time [[Data Processing]].
 >
 > **[4:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=285)** That way if an internet connection goes bad on a self-driving car, you might not be able to see what traffic is like in the miles ahead, but you could keep the car driving safely all the time.
 >
 > **[5:00](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=300)** This is just one example of edge computing.
 >
-> **[5:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=303)** Other uses of edge computing include factory floor process monitoring, security system monitoring, and other complex processes and system management tasks.
+> **[5:03](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=303)** Other uses of edge computing include factory floor process monitoring, security [[System Monitoring]], and other complex processes and system management tasks.
 >
 > **[5:15](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=315)** Edge computing represents a fundamental shift in cloud computing away from a centralized cloud to a distributed cloud.
 >
@@ -2668,7 +2632,7 @@ created: 2026-05-02
 >
 > **[8:30](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=510)** Well, quite frankly, they're embracing it at full speed.
 >
-> **[8:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=515)** Services like AWS Outposts and Azure Local are designed to bring cloud capabilities to edge locations and help cloud architects design and build distributed cloud systems and applications.
+> **[8:35](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=515)** Services like AWS Outposts and [[Microsoft Azure|Azure]] Local are designed to bring cloud capabilities to edge locations and help cloud architects design and build distributed cloud systems and applications.
 >
 > **[8:52](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/extending-the-cloud-to-the-edge-25354420?u=76281980&t=532)** Keeping on top of security, reliability, and availability is critical for all cloud systems, but even moreso for distributed cloud applications.
 >
@@ -2690,7 +2654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (40), data (10), ai (5), [[Security]] (3), node (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (4), [[IoT|Internet of things]] (1), [[Data Collection]] (1), [[Data Processing]] (1), [[System Monitoring]] (1)
 > **CLI Commands:** make (3), node (3), aws (1)
 > **Analogies:** such as (2), for example (2)
 > **Env Vars:** gps (1), ift (1), aws (1)
@@ -2702,8 +2666,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The environmental cost of computing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980)
+#### [The environmental cost of computing](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2711,7 +2674,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980&t=5)** Computing, all types of computing, pose a significant cost to our environment.
 >
-> **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980&t=11)** This is no less true for desktop computation as it is for cloud computing.
+> **[0:11](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980&t=11)** This is no less true for desktop computation as it is for [[Cloud Computing]].
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/the-environmental-cost-of-computing-25358323?u=76281980&t=17)** Let's look at an example.
 >
@@ -2795,14 +2758,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), power (5), cloud (2), management (1), next (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Why the cloud is greener than on-premises
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980)
+#### [Why the cloud is greener than on-premises](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2810,7 +2772,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=5)** Why is that a true statement?
 >
-> **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=8)** Because the model of cloud computing offers significant environmental advantages over the traditional on-premise computing model.
+> **[0:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=8)** Because the model of [[Cloud Computing]] offers significant environmental advantages over the traditional on-premise computing model.
 >
 > **[0:17](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=17)** This is driven by the fundamental differences in how cloud resources are utilized compared to traditional on-premise resources.
 >
@@ -2862,15 +2824,15 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=261)** This technology would not have even been contemplated without the centralization of data centers within major cloud providers.
 >
-> **[4:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=269)** Finally, operational excellence.
+> **[4:29](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=269)** Finally, [[Operational Excellence]].
 >
 > **[4:32](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=272)** For most companies operating a data center is not their core business, but it's something they just have to do for their business.
 >
 > **[4:39](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=279)** But the cloud service providers operating data centers is their core business.
 >
-> **[4:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=285)** This leads to optimized maintenance procedures, continuous monitoring and improvement, regular upgrades to more efficient equipment, and an overall organizational desire to optimize all aspects of data center resource consumption.
+> **[4:45](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=285)** This leads to optimized maintenance procedures, [[Continuous Monitoring]] and improvement, regular upgrades to more efficient equipment, and an overall organizational desire to optimize all aspects of data center resource consumption.
 >
-> **[5:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=305)** Renewable energy is the key to sustainability and data center operations.
+> **[5:05](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=305)** Renewable energy is the key to [[Sustainability]] and data center operations.
 >
 > **[5:10](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/why-the-cloud-is-greener-than-on-premise-25357343?u=76281980&t=310)** Through strategic data center placement, improved operational efficiency, and efficiency of scale, and investment in renewable energy innovations cloud providers are able to make moving your application from a typical on-premise data center to a modern cloud-based system, an environmentally green activity.
 >
@@ -2878,7 +2840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), cloud (15), power (5), application (4), business (3)
+> **Frameworks & Libraries:** [[Cloud Computing]] (2), [[Operational Excellence]] (1), [[Continuous Monitoring]] (1), [[Sustainability]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -2889,8 +2851,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cloud Center of Excellence (CoE)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980)
+#### [Cloud Center of Excellence (CoE)](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2926,7 +2887,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=139)** Ambassadors from the CCOE are embedded in every other team in the organization.
 >
-> **[2:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=144)** These ambassadors act as a conduit between the CCOE and the rest of the organization, providing information and support to teams as needed.
+> **[2:24](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=144)** These ambassadors act as a conduit between the CCOE and the [[Representational State Transfer (REST)|rest]] of the organization, providing information and support to teams as needed.
 >
 > **[2:34](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=154)** The CCOE provides a conduit for the development teams and the operations.
 >
@@ -2934,13 +2895,13 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=171)** The CCOE also provides a resource for subject matter experts for the marketing organization to leverage, to create public facing material, and for the sales organization to develop sales training material and to provide support for face-to-face meeting with customers.
 >
-> **[3:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=188)** It is important that everyone is aware of the cloud transformation that is occurring in the organization, and they are educated in how to utilize the cloud services provided.
+> **[3:08](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=188)** It is important that everyone is aware of the cloud transformation that is occurring in the organization, and they are educated in how to utilize the [[Cloud Services]] provided.
 >
 > **[3:19](https://www.linkedin.com/learning/cloud-architecture-advanced-concepts-25626673/cloud-center-of-excellence-coe-25359346?u=76281980&t=199)** The CCOE helps make this organizational communication transformation possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (24), teams (5), application (2), management (2), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cloud Services]] (1)
 > **Env Vars:** ccoe (13)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)

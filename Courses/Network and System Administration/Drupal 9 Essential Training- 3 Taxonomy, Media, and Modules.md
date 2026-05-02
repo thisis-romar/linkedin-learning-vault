@@ -73,12 +73,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980)
+#### [Introduction to the course](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the Drupal 9 Essential Training.
+> **[0:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980&t=0)** - Hi, and welcome to the [[Drupal]] 9 Essential Training.
 >
 > **[0:05](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/introduction-to-the-course?u=76281980&t=5)** My name's Rod Martin, I'm the instructor for this series, and in this course, we're going to cover taxonomy, media, and modules.
 >
@@ -102,7 +101,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (6), management (1), feature (1)
+> **Frameworks & Libraries:** [[Drupal]] (6)
 > **Speakers:** - hi (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -111,12 +110,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taxonomy explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980)
+#### [Taxonomy explained](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980&t=3)** - [Instructor] I've been using Drupal since Drupal 5.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980&t=3)** - [Instructor] I've been using [[Drupal]] since Drupal 5.
 >
 > **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/taxonomy-explained?u=76281980&t=6)** Though I skipped Drupal 6 'cause I wasn't much of a fan, Drupal 7 came along in January 2011, and I was hooked again.
 >
@@ -188,15 +186,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (8), business (1)
+> **Frameworks & Libraries:** [[Drupal]] (8)
 > **CLI Commands:** make (1)
 > **Env Vars:** rss (1)
 > **UI Navigation:** dropdown (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding vocabularies and terms, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980)
+#### [Adding vocabularies and terms, part 1](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=161)** And that's going to bring us straight back to the Add term page, again, a really helpful feature.
 >
-> **[2:47](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=167)** We might have news or press releases about Drupal Releases.
+> **[2:47](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=167)** We might have news or press releases about [[Drupal]] Releases.
 >
 > **[2:54](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=174)** And let's just add some text here in the body.
 >
@@ -332,7 +329,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=347)** Click on Taxonomy in your shortcuts again or up in the breadcrumbs and so far, we've added article keywords, article type and business categories.
 >
-> **[5:56](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=356)** In the next video, we'll continue and add the rest of the vocabularies and the terms that we'll need to properly categorize and filter our content and content lists.
+> **[5:56](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=356)** In the next video, we'll continue and add the [[Representational State Transfer (REST)|rest]] of the vocabularies and the terms that we'll need to properly categorize and filter our content and content lists.
 >
 > **[7:01](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-1?u=76281980&t=421)** All right, now that we understand what taxonomy is and what it does and what it can do, let's go ahead and add the taxonomies we need for all of our content types.
 >
@@ -470,15 +467,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), business (8), [[Security]] (4), node (2), feature (2)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[Representational State Transfer (REST)|Rest]] (2)
 > **UI Navigation:** click on (6), checkbox (2)
 > **CLI Commands:** node (2)
 > **Cross-References:** in the next (2)
 > **Prerequisites:** set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Adding vocabularies and terms, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980)
+#### [Adding vocabularies and terms, part 2](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -530,7 +526,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980&t=158)** There are DrupalCamps all over the world.
 >
-> **[2:40](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980&t=160)** These are smaller regional meetings and learning opportunities for Drupal.
+> **[2:40](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980&t=160)** These are smaller regional meetings and learning opportunities for [[Drupal]].
 >
 > **[2:45](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-vocabularies-and-terms-part-2?u=76281980&t=165)** Click save.
 >
@@ -550,13 +546,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (3), next (1)
+> **Frameworks & Libraries:** [[Drupal]] (3)
 > **UI Navigation:** click on (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding taxonomy fields
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980)
+#### [Adding taxonomy fields](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +575,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980&t=52)** Click Save field settings and choose the Article Type vocabulary.
 >
-> **[0:58](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980&t=58)** Now, one word of caution here.
+> **[0:58](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980&t=58)** Now, one [[Microsoft Word|word]] of caution here.
 >
 > **[1:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-taxonomy-fields?u=76281980&t=60)** We're not going to check referenced entities if they don't already exists simply because that provides the tagging widget capabilities and that's specifically what we're trying to avoid.
 >
@@ -726,14 +721,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), node (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), scroll down (1), select the (1), dropdown (1)
 > **CLI Commands:** node (2), make (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating your content
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980)
+#### [Updating your content](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -755,7 +749,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980&t=51)** Back to Content.
 >
-> **[0:53](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980&t=53)** Let's click on Events, the Drupal Course 101.
+> **[0:53](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980&t=53)** Let's click on Events, the [[Drupal]] Course 101.
 >
 > **[0:57](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-your-content?u=76281980&t=57)** Scroll down and click on the Event Category and choose Training again as the Event Category and you'll see that this is a taxonomy but it's now a select list instead of an autocomplete widget.
 >
@@ -795,7 +789,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), business (2), [[Drupal]] (2), hit (1)
+> **Frameworks & Libraries:** [[Drupal]] (2)
 > **UI Navigation:** click on (6), scroll down (3), checkbox (1)
 > **CLI Commands:** node (3)
 > **Definitions:** is a  (2), is an  (1)
@@ -808,12 +802,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Drupal media manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980)
+#### [The Drupal media manager](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980&t=3)** - [Instructor] One of the greatest advances for Drupal 9 is the media module.
+> **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980&t=3)** - [Instructor] One of the greatest advances for [[Drupal]] 9 is the media module.
 >
 > **[0:08](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/the-drupal-media-manager?u=76281980&t=8)** Now media, as I mentioned earlier in the introduction, is an entity just like content, taxonomy, blocks, and more.
 >
@@ -839,15 +832,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (5), management (2)
+> **Frameworks & Libraries:** [[Drupal]] (5)
 > **Cross-References:** earlier in (2), later in (1)
 > **Definitions:** is an  (2)
 > **Env Vars:** url (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding media fields to content types
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980)
+#### [Adding media fields to content types](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,7 +887,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=94)** Let's change this to three, then click Save field settings.
 >
-> **[1:40](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=100)** Choose document this time, so PDF, document, docx, PowerPoint, Keynote, you get the idea.
+> **[1:40](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=100)** Choose document this time, so PDF, document, docx, [[Microsoft PowerPoint|PowerPoint]], Keynote, you get the idea.
 >
 > **[1:48](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=108)** And you'll note we have three remaining.
 >
@@ -977,7 +969,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=272)** Now, there's a reason we're duplicating these fields and the reason is that many, many times, you'll want a video field and some file download fields on any number of given content types and that's what we're doing here.
 >
-> **[4:47](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=287)** I'm seeing this on a top of the enterprise sites that I've been training on in the last six months as people have moved from Drupal 7 to 8 and now Drupal 9.
+> **[4:47](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=287)** I'm seeing this on a top of the enterprise sites that I've been training on in the last six months as people have moved from [[Drupal]] 7 to 8 and now Drupal 9.
 >
 > **[5:01](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-media-fields-to-content-types?u=76281980&t=301)** Click Add field.
 >
@@ -995,14 +987,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Drupal]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
+> **Frameworks & Libraries:** [[Drupal]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **UI Navigation:** click on (2), select the (1), scroll down (1), go to (1)
 > **Cross-References:** in the last (2), we discussed (1)
 > **Env Vars:** pdf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Updating content with media
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980)
+#### [Updating content with media](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1016,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=16)** Click Save.
 >
-> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=19)** As we know, Drupal's going to run out, grab the thumbnail and the title.
+> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=19)** As we know, [[Drupal]]'s going to run out, grab the thumbnail and the title.
 >
 > **[0:23](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=23)** This is one of my favorite videos to just sit and code to.
 >
@@ -1038,7 +1029,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=60)** And update any document from your hard drive.
 >
-> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=62)** This can be a txt file, rtf, doc, docx, PowerPoint, PowerPoint x, Excel spreadsheets, pdf, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, a keynote, numbers or pages file.
+> **[1:02](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=62)** This can be a txt file, rtf, doc, docx, [[Microsoft PowerPoint|PowerPoint]], PowerPoint x, [[Microsoft Excel|Excel]] spreadsheets, pdf, odf, odg, odp, ods, odt, fodt, fods, fodp, fodg, a keynote, numbers or pages file.
 >
 > **[1:21](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/updating-content-with-media?u=76281980&t=81)** So the nice thing with Drupal, they pretty much give you every option.
 >
@@ -1168,7 +1159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (4), node (3), [[Microsoft PowerPoint|Powerpoint]] (2), css (2), business (2)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** click on (4), scroll down (4)
 > **Env Vars:** pdf (3), css (2), url (1)
 > **CLI Commands:** node (3), find (2)
@@ -1182,14 +1173,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modules explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980)
+#### [Modules explained](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=3)** - [Instructor] In this video, I want to talk to you about modules.
 >
-> **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=6)** Modules in Drupal add features.
+> **[0:06](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=6)** Modules in [[Drupal]] add features.
 >
 > **[0:09](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=9)** If you want your Drupal site to do X, well then, there's probably a module for that.
 >
@@ -1215,7 +1205,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=76)** Modules in Drupal are free.
 >
-> **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=79)** That's right, unlike other content management systems, you never pay for a module that you download from [drupal.org](https://drupal.org).
+> **[1:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=79)** That's right, unlike other [[Content Management Systems (CMS)|content management systems]], you never pay for a module that you download from [drupal.org](https://drupal.org).
 >
 > **[1:26](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=86)** And this is one of the great things about Drupal.
 >
@@ -1227,7 +1217,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=109)** So when I click on Works with, Any, well, Drupal 10, 9, 8, 7, 6, 5, yes, even Drupal 4 still, and I select Drupal 9.
 >
-> **[2:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=120)** I'll leave all of the rest of these at the defaults.
+> **[2:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=120)** I'll leave all of the [[Representational State Transfer (REST)|rest]] of these at the defaults.
 >
 > **[2:04](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=124)** And you'll note it's going to be sorted by most installed or most popular modules.
 >
@@ -1325,7 +1315,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=376)** I promise to tell you how I find great modules.
 >
-> **[6:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=379)** Honestly, Google is your friend.
+> **[6:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=379)** Honestly, [[Google]] is your friend.
 >
 > **[6:22](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/modules-explained?u=76281980&t=382)** So when I want to find a module that's going to schedule node publication, I just type Drupal schedule nodes.
 >
@@ -1353,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (36), [[Content Management Systems (CMS)|Content management systems]] (2), [[Security]] (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (36), [[Content Management Systems (CMS)|Content management systems]] (2), [[Google]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (6), make (1), tar (1), node (1)
 > **URLs:** [drupal.org](https://drupal.org) (7)
 > **UI Navigation:** scroll down (2), click on (1), go to (1), select the (1), dropdown (1)
@@ -1362,14 +1352,13 @@ created: 2026-05-02
 > **Env Vars:** cms (1)
 > **Versions:** 8.8 (1)
 
-#### Scheduling content
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980)
+#### [Scheduling content](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=3)** - [Instructor] In this video we're going to start exploring, installing different modules.
 >
-> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=7)** Now, you remember from our modules explain video that you always need to make sure that your module works with the version of Drupal you're working with.
+> **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=7)** Now, you remember from our modules explain video that you always need to make sure that your module works with the version of [[Drupal]] you're working with.
 >
 > **[0:17](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=17)** So whenever you're searching here at [Drupal.org](https://Drupal.org), you want to make sure that you change that to Drupal 9.
 >
@@ -1437,7 +1426,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=216)** Head over to structure, content types and let's manage the article content type.
 >
-> **[3:42](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=222)** So just click on the word article.
+> **[3:42](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=222)** So just click on the [[Microsoft Word|word]] article.
 >
 > **[3:46](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=226)** And for every content type.
 >
@@ -1447,7 +1436,7 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=240)** We'll enable scheduling.
 >
-> **[4:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=243)** You'll note that it says, change the content creation time to match the scheduled publishing time.
+> **[4:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=243)** You'll note that it says, change the [[Content Creation]] time to match the scheduled publishing time.
 >
 > **[4:08](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/scheduling-content?u=76281980&t=248)** You can do that.
 >
@@ -1503,7 +1492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (10), node (4), next (2), [[Search]] (1), web (1)
+> **Frameworks & Libraries:** [[Drupal]] (10), [[Microsoft Word|Word]] (1), [[Content Creation]] (1)
 > **CLI Commands:** node (4), make (3), tar (1), find (1)
 > **UI Navigation:** click on (5), right-click (1), scroll down (1), dropdown (1), go to (1)
 > **Prerequisites:** install (6), configure (2), set up (1)
@@ -1512,8 +1501,7 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Documentation:** the documentation (1)
 
-#### Inserting a Google Map
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980)
+#### [Inserting a Google Map](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1525,13 +1513,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=18)** Some like the scheduler module we just installed affect the publication of our nodes.
 >
-> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=24)** And some of the modules are going to add complete feature sets to our Drupal site.
+> **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=24)** And some of the modules are going to add complete feature sets to our [[Drupal]] site.
 >
 > **[0:29](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=29)** Well in this video, we're going to install a module that's going to affect one of the fields that we have in our locations content type.
 >
 > **[0:37](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=37)** You'll remember we added a location address field and made it a plain text field.
 >
-> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=44)** And so we're going to grab a module that's actually going to convert this to a Google Map.
+> **[0:44](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=44)** And so we're going to grab a module that's actually going to convert this to a [[Google]] Map.
 >
 > **[0:49](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=49)** Head over to [drupal.org/project/simple_gmap](https://drupal.org/project/simple_gmap).
 >
@@ -1581,7 +1569,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=214)** We going to hide the label and click on plain text and you'll see Google Map from one line address.
 >
-> **[3:44](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=224)** And as soon as you do that there's some settings here, a dynamic map, it's an iframe, zoom level is 14, click on the gear.
+> **[3:44](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=224)** And as soon as you do that there's some settings here, a dynamic map, it's an iframe, [[Zoom]] level is 14, click on the gear.
 >
 > **[3:55](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/inserting-a-google-map?u=76281980&t=235)** You can change these settings right here.
 >
@@ -1611,7 +1599,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (7), [[Google]] (6), api (2), [[Zoom]] (2), feature (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[Google]] (6), [[Zoom]] (2)
 > **UI Navigation:** click on (5), dropdown (1), go to (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** make (1), find (1), node (1)
@@ -1620,14 +1608,13 @@ created: 2026-05-02
 > **Documentation:** the documentation (2)
 > **Exercise Files:** download the (1), zip file (1)
 
-#### Adding internal linking to the WYSIWYG editor
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980)
+#### [Adding internal linking to the WYSIWYG editor](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=3)** - [Instructor] One of the questions I get virtually every time I teach a course and I mean every time, how do I insert an internal link into the body field that and how do I open external links in a new window?
 >
-> **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=18)** Well, this is a pretty common problem and to be honest, I'm kind of surprised that Drupal hasn't put something that fixes this in core.
+> **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=18)** Well, this is a pretty common problem and to be honest, I'm kind of surprised that [[Drupal]] hasn't put something that fixes this in core.
 >
 > **[0:26](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=26)** Well, fortunately there are two modules that help us in this regard, head over to [drupal.org/project/Linkit](https://drupal.org/project/Linkit).
 >
@@ -1681,7 +1668,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=226)** However, we do need to update Ckeditor.
 >
-> **[3:49](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=229)** So configuration, content authoring, text formats and editors please and click configure for basic HTML since that's the default, we'll just do this one.
+> **[3:49](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=229)** So configuration, content authoring, text formats and editors please and click configure for basic [[HTML]] since that's the default, we'll just do this one.
 >
 > **[4:00](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=240)** Now you'll see, here a Drupal link plug-in setting, click on that and go ahead and make Linkit enabled and select the default profile.
 >
@@ -1695,7 +1682,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=274)** Now you need to do that for full HTML as well if you want this to work.
 >
-> **[4:38](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=278)** Head over to content and click on Drupal course and double click on the word Drupal and click the link icon.
+> **[4:38](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=278)** Head over to content and click on Drupal course and double click on the [[Microsoft Word|word]] Drupal and click the link icon.
 >
 > **[4:49](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/adding-internal-linking-to-the-wysiwyg-editor?u=76281980&t=289)** Now you're going to notice that this has been updated.
 >
@@ -1719,7 +1706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (12), web (2), [[HTML]] (2), node (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (12), [[HTML]] (2), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (6), scroll down (1), go to (1), select the (1)
 > **Env Vars:** url (3), ftp (2), html (2)
 > **Prerequisites:** install (4), configure (2), you'll need (1)
@@ -1728,8 +1715,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Versions:** version 8 (1), 6.0.0 (1)
 
-#### Open external links in a new tab or window
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980)
+#### [Open external links in a new tab or window](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,7 +1723,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=7)** When you click to make something into a link, it now uses either an internal or an external URL but that doesn't solve the problem that I actually mentioned earlier.
 >
-> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=19)** The fact that there's no way to open links in new tabs or new windows.
+> **[0:19](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=19)** The fact that there's no way to open links in new tabs or new [[Windows]].
 >
 > **[0:25](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=25)** And frankly, you should never allow an external link to take somebody away from your site.
 >
@@ -1751,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=46)** All right, now we have installed modules via the file upload, via the copy and paste URL and by manually uploading the project files into our modules directory.
 >
-> **[1:01](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=61)** This next way is using Composer and by far, this is the preferred way with Drupal 9.
+> **[1:01](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=61)** This next way is using Composer and by far, this is the preferred way with [[Drupal]] 9.
 >
 > **[1:10](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=70)** Composer is something you need to install on your web host and it's installed for us in Acquia Dev Desktop but it manages Drupal and all the dependencies and libraries that Drupal needs.
 >
@@ -1839,7 +1825,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=339)** Now let's see if this is working.
 >
-> **[5:42](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=342)** Head back over to your site, click on Content and go to your locations content type node and you'll now see that external link that's going to go to Google has that little icon next to it and if I click, it's going to open in a new tab or window.
+> **[5:42](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=342)** Head back over to your site, click on Content and go to your locations content type node and you'll now see that external link that's going to go to [[Google]] has that little icon next to it and if I click, it's going to open in a new tab or window.
 >
 > **[5:59](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/open-external-links-in-a-new-tab-or-window?u=76281980&t=359)** Excellent.
 >
@@ -1869,7 +1855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (14), next (3), web (3), [[Google]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (14), [[Google]] (2), [[Windows]] (1)
 > **CLI Commands:** composer (15), make (4), find (1), node (1)
 > **Prerequisites:** install (10), configure (1)
 > **UI Navigation:** click on (5), go to (2)
@@ -1878,14 +1864,13 @@ created: 2026-05-02
 > **URLs:** [drupal.org](https://drupal.org) (1), [google.com](https://google.com) (1)
 > **Tools:** terminal (2)
 
-#### Paths: Installing Pathauto, Token, and CTools
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980)
+#### [Paths: Installing Pathauto, Token, and CTools](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980&t=3)** - [Instructor] So far we've installed some modules that make changes to fields, that make changes to links, that add brand new functionality to our content types.
 >
-> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980&t=14)** As I mentioned in my modules explain video, if you have a question about whether Drupal can do something, the answer is well, yeah, probably there's a module for that.
+> **[0:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980&t=14)** As I mentioned in my modules explain video, if you have a question about whether [[Drupal]] can do something, the answer is well, yeah, probably there's a module for that.
 >
 > **[0:26](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/paths-installing-pathauto-token-and-ctools?u=76281980&t=26)** There are 10s of 1000s of Drupal modules that do whatever you need.
 >
@@ -1975,7 +1960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (9), next (2), node (1)
+> **Frameworks & Libraries:** [[Drupal]] (9)
 > **CLI Commands:** composer (5), make (2), node (1), find (1)
 > **Prerequisites:** install (6), set up (1), configure (1)
 > **UI Navigation:** click on (3), scroll down (2)
@@ -1984,16 +1969,15 @@ created: 2026-05-02
 > **Versions:** 1.8 (1), 8.8 (1)
 > **Definitions:** in other words (1), is an  (1)
 
-#### Configuring Pathauto
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980)
+#### [Configuring Pathauto](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=3)** - [Instructor] Right now that we have chaos tools pathauto and token installed, let's go ahead and set up the patterns for our human friendly URLs.
 >
-> **[0:12](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=12)** Head over to configuration search and metadata and click on URL aliases.
+> **[0:12](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=12)** Head over to configuration search and [[Metadata]] and click on URL aliases.
 >
-> **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=20)** URL aliases are generally speaking done by default in Drupal.
+> **[0:20](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=20)** URL aliases are generally speaking done by default in [[Drupal]].
 >
 > **[0:24](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=24)** And I'm going to encourage you, unless you have a really good reason, you should not change the URL aliase of a node.
 >
@@ -2011,7 +1995,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=71)** Well now, how do I know what the token is for title?
 >
-> **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=74)** Click browse available tokens and you'll remember that content are nodes.
+> **[1:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=74)** Click browse available [[Tokens]] and you'll remember that content are nodes.
 >
 > **[1:21](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/configuring-pathauto?u=76281980&t=81)** So click on notes and you're going to scroll down until you find title, node:title.
 >
@@ -2091,7 +2075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (13), [[Drupal]] (5), [[Tokens]] (3), business (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[Drupal]] (5), [[Tokens]] (3), [[Metadata]] (2)
 > **CLI Commands:** node (13), make (2), find (1)
 > **UI Navigation:** click on (9), scroll down (1)
 > **Env Vars:** url (7)
@@ -2100,8 +2084,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 
-#### Installing Devel
-> [LinkedIn Learning](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980)
+#### [Installing Devel](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2109,7 +2092,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=7)** There's one more module we need to install in order to prepare for the next section in the course.
 >
-> **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=13)** Head over to [drupal.org/project/devel](https://drupal.org/project/devel).
+> **[0:13](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=13)** Head over to [[[Drupal]].org/project/devel](https://drupal.org/project/devel).
 >
 > **[0:18](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=18)** Now you'll remember from our site building workflow that we're not going to add content until the very end, but that doesn't mean that we don't need content in order to actually work on the next set of tasks.
 >
@@ -2167,7 +2150,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=237)** All right, so let's go ahead and generate content.
 >
-> **[4:05](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=245)** Once again, if you're on a Windows-based machine and you set up a video field with the media manager, Devel will most likely fail.
+> **[4:05](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=245)** Once again, if you're on a [[Windows]]-based machine and you set up a video field with the media manager, Devel will most likely fail.
 >
 > **[4:14](https://www.linkedin.com/learning/drupal-9-essential-training-3-taxonomy-media-and-modules/installing-devel?u=76281980&t=254)** You're still able to add content manually, so go ahead and pause the video and add a few nodes.
 >
@@ -2231,7 +2214,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Drupal]] (7), business (4), next (2), web (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Drupal]] (7), [[Windows]] (1)
 > **UI Navigation:** click on (5), scroll down (4)
 > **CLI Commands:** composer (5), make (1)
 > **Prerequisites:** install (4), set up (2)

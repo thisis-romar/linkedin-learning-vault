@@ -80,16 +80,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The game industry and its components
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
+#### [The game industry and its components](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=0)** - [Alan] Greetings and welcome to this Unity Certified Associate course on Design, Production, and Industry Awareness presented by LinkedIn Learning.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=0)** - [Alan] Greetings and welcome to this [[Unity]] Certified Associate course on Design, Production, and Industry Awareness presented by [[LinkedIn]] Learning.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=11)** My name is Alan Thorn and I'll be your instructor on this course as we explore neat tips and tricks for creating game design documents, getting clear about your ideas, and for preparing yourself to enter the games or interactive entertainment industries.
 >
-> **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=31)** We'll see how to share Unity projects with members of your team, how to manage your time and workload effectively with some amazing tools available online, and how to prepare and build games for mobile devices, like Android and iOS.
+> **[0:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=31)** We'll see how to share Unity projects with members of your team, how to manage your time and workload effectively with some amazing tools available online, and how to prepare and build games for mobile devices, like [[Android]] and iOS.
 >
 > **[0:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/the-game-industry-and-its-components?u=76281980&t=50)** By the end of this course, you'll be more strongly positioned to understand the games industry and will be more aware of the roles and responsibilities available to start your career on strong ground.
 >
@@ -97,18 +96,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (2), [[LinkedIn]] (1), game (1), [[Android]] (1), career (1)
+> **Frameworks & Libraries:** [[Unity]] (2), [[LinkedIn]] (1), [[Android]] (1)
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [alan] (1)
 
-#### Companion files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980)
+#### [Companion files](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980&t=0)** - [Instructor] If you have access to the course exercise files, then you can follow along, video by video, with this course.
 >
-> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980&t=9)** This installment of the course does not really need exercise files, but there is a mobile game project covered later in this course, which you might want to open up in Unity to test out and to follow along each step with the video.
+> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980&t=9)** This installment of the course does not really need exercise files, but there is a mobile game project covered later in this course, which you might want to open up in [[Unity]] to test out and to follow along each step with the video.
 >
 > **[0:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/companion-files?u=76281980&t=25)** The relevant exercise files will be called out inside the videos when you need to use them, but most of the videos in this course you can simply follow along and digest the information without ever needing to use the exercise files.
 >
@@ -116,7 +114,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (2), [[Unity]] (2)
+> **Frameworks & Libraries:** [[Unity]] (2)
 > **Exercise Files:** exercise files (4)
 > **Cross-References:** later in (1)
 > **Definitions:** is a  (1)
@@ -127,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Game design documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
+#### [Game design documents](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -138,7 +135,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=19)** If you had to set out all of these ideas into a single unified document that you could give to somebody else to explain what that game is, you would have provided them with a game design document.
 >
-> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=34)** In summary, from the subheading here, as you can see, a game design document is a concise high-level description of a video game for any other game development professional.
+> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=34)** In summary, from the subheading here, as you can see, a game design document is a concise high-level description of a video game for any other [[Game Development]] professional.
 >
 > **[0:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=46)** Whether they're a games designer, a games programmer, they should be able to read this document and understand what your game is about.
 >
@@ -182,7 +179,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=200)** In the last case of a highly competitive market, there are likely to be many other titles out there that people need to choose from.
 >
-> **[3:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=208)** And so you'll need to explain in your design document why your design stands out from the rest.
+> **[3:28](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=208)** And so you'll need to explain in your design document why your design stands out from the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-documents?u=76281980&t=216)** In addition to the similar game analysis, you'll also want to include plenty more details on game elements.
 >
@@ -224,15 +221,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (39), [[Game Development]] (1), data (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Game Development]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (6), is an  (2)
 > **Analogies:** for example (4), it's like (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Genre, platforms, and mechanics
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980)
+#### [Genre, platforms, and mechanics](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=95)** That's what it means for the game to be first person.
 >
-> **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=99)** When you combine that with the word shooter, it then introduces the kind of thing that you're going to be doing during gameplay.
+> **[1:39](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=99)** When you combine that with the [[Microsoft Word|word]] shooter, it then introduces the kind of thing that you're going to be doing during gameplay.
 >
 > **[1:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=107)** Now, there isn't an exhaustive list of all the genres out there.
 >
@@ -284,9 +280,9 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=149)** The next term is platforms.
 >
-> **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=151)** This defines the hardware and software systems on which the game will run, or at least the systems on which you intend it to run when it's completed.
+> **[2:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=151)** This defines the [[Hardware]] and software systems on which the game will run, or at least the systems on which you intend it to run when it's completed.
 >
-> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=161)** This might include PC, mobile, Android, iOS, Xbox, Sony PlayStation, Nintendo Switch, and a ton of other platforms out there.
+> **[2:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=161)** This might include PC, mobile, [[Android]], iOS, Xbox, Sony PlayStation, Nintendo Switch, and a ton of other platforms out there.
 >
 > **[2:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=172)** Now, new platforms are continually being developed all the time.
 >
@@ -296,11 +292,11 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=189)** It contains multiple variations within.
 >
-> **[3:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=191)** For example, a PC running Windows 10 is not necessarily the same platform as a PC running Windows 8.
+> **[3:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=191)** For example, a PC running [[Windows 10]] is not necessarily the same platform as a PC running [[Windows]] 8.
 >
-> **[3:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=199)** Or a PC running Linux.
+> **[3:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=199)** Or a PC running [[Linux]].
 >
-> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=201)** There's a variety of different variations and distributions of Linux, so Linux Ubuntu is very, very different from a different kind such as Gentoo.
+> **[3:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=201)** There's a variety of different variations and distributions of Linux, so Linux [[Ubuntu]] is very, very different from a different kind such as Gentoo.
 >
 > **[3:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/genre-platforms-and-mechanics?u=76281980&t=210)** In these cases, you may be dealing with the same hardware, but have different operating systems running on that hardware, making them different platforms.
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (25), [[Hardware]] (4), [[Linux]] (3), next (2), feature (1)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[Linux]] (3), [[Microsoft Word|Word]] (1), [[Android]] (1), [[Windows 10]] (1)
 > **Analogies:** for example (4), such as (1)
 > **Warnings:** be careful (3)
 > **CLI Commands:** find (1), make (1)
@@ -348,8 +344,7 @@ created: 2026-05-02
 > **Code Identifiers:** ios (1)
 > **Speakers:** - [instructor] (1)
 
-#### Game elements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-elements?u=76281980)
+#### [Game elements](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-elements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -415,16 +410,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (17)
 > **Analogies:** for example (4)
 > **Speakers:** - [instructor] (1)
 
-#### Game design software
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980)
+#### [Game design software](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=0)** - Now you might think that creating a game design document was just about going into Microsoft office, Libra office, Google docs and creating a text-based document for other people to read in the form of a PDF or a document file.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=0)** - Now you might think that creating a game design document was just about going into [[Microsoft Office]], Libra [[Microsoft Office|office]], [[Google]] docs and creating a text-based document for other people to read in the form of a PDF or a document file.
 >
 > **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=17)** Well, that's one way you can make a game design document and many people do indeed use that method but that's not the only way.
 >
@@ -446,13 +439,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=94)** For example, I can click the integration tab to have a look at some of the game engines that I can take my designs from and import them into those engines where they can set up and structure my projects.
 >
-> **[1:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=106)** You'll see that in this case articy is compatible with Unity and Unreal and it also has a much more open export format to [JSON] and <xml/>, which potentially can be imported into nearly any engine you could imagine.
+> **[1:46](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=106)** You'll see that in this case articy is compatible with [[Unity]] and Unreal and it also has a much more open export format to [[[JSON]]] and <xml/>, which potentially can be imported into nearly any engine you could imagine.
 >
 > **[2:02](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=122)** So the articy software is an example of one application that you can sign up for to use to create game design documents.
 >
 > **[2:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=130)** Another application is hacknplan which is not just for games design.
 >
-> **[2:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=136)** It's also for games, production and team management as we'll see.
+> **[2:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=136)** It's also for games, production and [[Team Management]] as we'll see.
 >
 > **[2:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/game-design-software?u=76281980&t=142)** Moving forward I'm going to be taking a look at hacknplan, specifically I'm going to demonstrate how using hacknplan.
 >
@@ -468,7 +461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (9), application (2), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1), [[Google]] (1), [[Unity]] (1), [[JSON]] (1)
 > **Env Vars:** pdf (1), json (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** make (1)
@@ -477,8 +470,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - now (1)
 
-#### Building a game design document
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980)
+#### [Building a game design document](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +478,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980&t=4)** And when you log in for the first time you'll be presented with the personal workspace dashboard.
 >
-> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980&t=11)** It will mention your name here, you'll see that it says My Dashboards and you'll have some options on the left-hand side.
+> **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980&t=11)** It will mention your name here, you'll see that it says My [[Dashboards]] and you'll have some options on the left-hand side.
 >
 > **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/building-a-game-design-document?u=76281980&t=19)** To create a new game project inside HacknPlan, you can hit the P key on the keyboard or you can move to the Create Rollout and simply left click on Project to present the Create Project section here.
 >
@@ -586,7 +578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (24), [[Dashboards]] (1), hit (1), next (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1)
 > **UI Navigation:** click on (3), dropdown (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
@@ -595,8 +587,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Dos and don'ts on game design documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980)
+#### [Dos and don'ts on game design documents](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980&t=154)** And if adding a level of interaction is one way to do that, then certainly consider it.
 >
-> **[2:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980&t=160)** Step number four is don't mix your design document with other types of content that you might need to create, and I'm thinking of things here, like business plans, market analysis, technical documentation like API references for programmers, pitches, and feasibility studies.
+> **[2:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980&t=160)** Step number four is don't mix your design document with other types of content that you might need to create, and I'm thinking of things here, like business plans, market analysis, [[Technical Documentation]] like API references for programmers, pitches, and feasibility studies.
 >
 > **[3:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/dos-and-don-ts-on-game-design-documents?u=76281980&t=180)** All of these documents are critical and important in their own right.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (13), business (2), next (1), [[Technical Documentation]] (1), api (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1)
 > **CLI Commands:** make (7)
 > **Env Vars:** pdf (1), api (1)
 > **Warnings:** keep in mind (2)
@@ -685,14 +676,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Version control and project collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
+#### [Version control and project collaboration](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=1)** - [Instructor] In this movie, we're going to explore some of the different technologies available to you for sharing Unity projects across members of your team so that you can create a Unity project and then easily share that with other members so they can download those changes too.
+> **[0:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=1)** - [Instructor] In this movie, we're going to explore some of the different technologies available to you for sharing [[Unity]] projects across members of your team so that you can create a Unity project and then easily share that with other members so they can download those changes too.
 >
-> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=19)** You might wonder, well, what's wrong with simply sharing the project on cloud storage?
+> **[0:19](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=19)** You might wonder, well, what's wrong with simply sharing the project on [[Cloud Storage]]?
 >
 > **[0:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=25)** Well, you can do that.
 >
@@ -706,15 +696,15 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=56)** In this video, we'll explore some of them before looking more particularly at Unity Collaborate..
 >
-> **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=63)** For example, we have the GitLabs website which allows you to use the project synchronization technology called GIT, G-I-T.
+> **[1:03](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=63)** For example, we have the GitLabs website which allows you to use the project synchronization technology called [[Git]], G-I-T.
 >
 > **[1:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=73)** It's a platform for sharing changes across your work, for updating those changes, and for undoing bad changes if they happen.
 >
 > **[1:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=82)** GitLab is one service that you can sign up to, to host projects and share projects between people in the cloud.
 >
-> **[1:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=91)** Another alternative is the GitHub platform which offers free accounts as well as premium accounts for hosting GIT repositories, that is your Unity project itself, and sharing that with other users across the world.
+> **[1:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=91)** Another alternative is the [[GitHub]] platform which offers free accounts as well as premium accounts for hosting GIT repositories, that is your Unity project itself, and sharing that with other users across the world.
 >
-> **[1:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=107)** Another platform that offers the GIT technology is the platform Bitbucket, which allows you again to host files in the cloud and to share them.
+> **[1:47](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=107)** Another platform that offers the GIT technology is the platform [[Bitbucket]], which allows you again to host files in the cloud and to share them.
 >
 > **[1:57](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/version-control-and-project-collaboration?u=76281980&t=117)** But whether you are using GitLab, GitHub or Bitbucket, you'll need to use a GIT client.
 >
@@ -740,7 +730,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (13), [[Git]] (8), cloud (4), [[Bitbucket]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Unity]] (13), [[Git]] (8), [[Bitbucket]] (3), [[GitHub]] (2), [[Cloud Storage]] (1)
 > **CLI Commands:** git (8)
 > **Env Vars:** git (8)
 > **Tools:** bitbucket (3), gitlab (2), github (2)
@@ -749,12 +739,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
 
-#### Getting started with Collaborate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980)
+#### [Getting started with Collaborate](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=0)** - [Instructor] Unity Collaborate is a feature built into Unity that allows you to instantly share your Unity project with other members of your team.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=0)** - [Instructor] [[Unity]] Collaborate is a feature built into Unity that allows you to instantly share your Unity project with other members of your team.
 >
 > **[0:11](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=11)** And if you later make changes to that project, those changes can be updated and applied to the version that everybody else has.
 >
@@ -800,7 +789,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=153)** When you do this, it will probably ask you to set the project ID.
 >
-> **[2:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=158)** That is to give your project a unique identifier in Unity's cloud storage system.
+> **[2:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=158)** That is to give your project a unique identifier in Unity's [[Cloud Storage]] system.
 >
 > **[2:44](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/getting-started-with-collaborate?u=76281980&t=164)** To do that, you simply need to click the Set Project ID button.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (25), cloud (5), next (3), feature (1)
+> **Frameworks & Libraries:** [[Unity]] (25), [[Cloud Storage]] (3)
 > **UI Navigation:** click on (9), dropdown (5), select the (1)
 > **CLI Commands:** make (4)
 > **Definitions:** means that (2), is a  (1)
@@ -877,8 +866,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Collaborate
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980)
+#### [Using Collaborate](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -886,11 +874,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=12)** To do that, I'm going to move to the menu here and simply choose Edit and Project Settings to display the project settings dialogue.
 >
-> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=21)** Inside this dialogue, I'll move to the collaborate section under services here and you can see the details of unity collaborate.
+> **[0:21](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=21)** Inside this dialogue, I'll move to the collaborate section under services here and you can see the details of [[Unity]] collaborate.
 >
 > **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=30)** I want to click on the button here that says Dashboard.
 >
-> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=34)** This will open my collaborate dashboard in a web browser where I can see statistics about my project and also add other people as users to it.
+> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=34)** This will open my collaborate dashboard in a web browser where I can see [[Statistics]] about my project and also add other people as users to it.
 >
 > **[0:45](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-collaborate?u=76281980&t=45)** Let's see how to do that.
 >
@@ -970,7 +958,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (11), web (2), teams (2), next (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Unity]] (11), [[Statistics]] (1)
 > **UI Navigation:** click on (7), dropdown (1)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** download the (1)
@@ -978,12 +966,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with scenes and collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/working-with-scenes-and-collaboration?u=76281980)
+#### [Working with scenes and collaboration](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/working-with-scenes-and-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/working-with-scenes-and-collaboration?u=76281980&t=0)** - [Instructor] In the previous movie, we saw how we could add somebody to our Unity Collaborate project, and potentially, you can add any number of people to your project, so long as you have the Unity seats available within your organization.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/working-with-scenes-and-collaboration?u=76281980&t=0)** - [Instructor] In the previous movie, we saw how we could add somebody to our [[Unity]] Collaborate project, and potentially, you can add any number of people to your project, so long as you have the Unity seats available within your organization.
 >
 > **[0:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/working-with-scenes-and-collaboration?u=76281980&t=16)** To add someone to your project means that you are sharing that project with them.
 >
@@ -1029,7 +1016,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (8), cloud (3), game (2), next (1)
+> **Frameworks & Libraries:** [[Unity]] (8)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
@@ -1043,14 +1030,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Job titles and roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
+#### [Job titles and roles](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=0)** - [Instructor] If you're preparing to enter the games industry, looking for a position within the industry, then it's likely you've looked at job listings at different companies who are currently recruiting.
 >
-> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=12)** In looking at these listings, you've probably seen many different job titles and all of them can link in many different ways to use of the Unity engine.
+> **[0:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=12)** In looking at these listings, you've probably seen many different job titles and all of them can link in many different ways to use of the [[Unity]] engine.
 >
 > **[0:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=23)** Let's take a look at some of the most common titles that you will see and discuss their remit.
 >
@@ -1058,7 +1044,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=52)** The purpose of the games designer is to produce games design documents to work with other members of the team to formulate a consistent and good design for the game.
 >
-> **[1:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=64)** This isn't just something that happens at the beginning and then the rest of the time people are building the game.
+> **[1:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=64)** This isn't just something that happens at the beginning and then the [[Representational State Transfer (REST)|rest]] of the time people are building the game.
 >
 > **[1:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=70)** The game designer is constantly active in refining the game and making it better while it's being made.
 >
@@ -1080,11 +1066,11 @@ created: 2026-05-02
 >
 > **[3:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=195)** Where will buttons and menus appear, how will the interface be implemented into a world, and how might UI work effectively in a world of virtual reality, for example?
 >
-> **[3:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=206)** It also looks at usability testing and quality assurance, the idea of the experience moving from moment to moment through the game.
+> **[3:26](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=206)** It also looks at [[Usability Testing]] and [[Quality Assurance]], the idea of the experience moving from moment to moment through the game.
 >
 > **[3:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=215)** How does that feel, and does it really express the message that the designer intends?
 >
-> **[3:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=221)** Another role that's often overlooked but is critically important is the producer, and some studios may refer to this with slightly different titles, project management, team leadership, production manager.
+> **[3:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=221)** Another role that's often overlooked but is critically important is the producer, and some studios may refer to this with slightly different titles, project management, [[Team Leadership]], production manager.
 >
 > **[3:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/job-titles-and-roles?u=76281980&t=235)** The fundamental role of the producer is to fairly assess all of the resources available to a studio, all of its staff, all of its time, all of its budget, and then to factor that all together to create a schedule that's going to get the game made within that time on-budget delivered to the quality that we want it to be at.
 >
@@ -1098,14 +1084,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (12), [[Unity]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Scripting]] (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (4), [[Representational State Transfer (REST)|Rest]] (1), [[Usability Testing]] (1), [[Quality Assurance]] (1), [[Team Leadership]] (1)
 > **Analogies:** such as (2), for example (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communication and collaboration
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980)
+#### [Communication and collaboration](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1115,7 +1100,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=9)** But regardless, it's going to be a team.
 >
-> **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=13)** And maybe all of you are grouped together in the same office at the same location.
+> **[0:13](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=13)** And maybe all of you are grouped together in the same [[Microsoft Office|office]] at the same location.
 >
 > **[0:18](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=18)** Or maybe you're spread all across the world in different countries and different time zones.
 >
@@ -1139,13 +1124,13 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=91)** Right now, the tab is open at [discord.com](https://discord.com).
 >
-> **[1:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=95)** Discord is a social media platform, that's available on Windows, Linux, and Mac and a wide variety of operating systems.
+> **[1:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=95)** Discord is a social media platform, that's available on [[Windows]], [[Linux]], and Mac and a wide variety of operating systems.
 >
 > **[1:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=103)** And fundamentally, you can use it to group together different people, chat and engage in conversations.
 >
 > **[1:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=110)** It might not be the best tool for your project depending on your circumstances, but by using Discord, you can bring a lot of people together in various channels of communication, both live and messages.
 >
-> **[2:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=124)** Another tool that you have available that is widely used in many studios, is the tool of Slack.
+> **[2:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=124)** Another tool that you have available that is widely used in many studios, is the tool of [[Slack]].
 >
 > **[2:10](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=130)** Where you can bring together again a large team of people and not just communicate by chatting, but you can also post tasks and manage the workload that people are doing.
 >
@@ -1159,9 +1144,9 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=176)** Another tool that works very much like these, but is completely free is Freedcamp, which you can sign up for and try out.
 >
-> **[3:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=185)** Another completely free tool is Trello, which again, is a really great tool for managing simple tasks.
+> **[3:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=185)** Another completely free tool is [[Trello]], which again, is a really great tool for managing simple tasks.
 >
-> **[3:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=192)** And the last tool that is available is Microsoft Teams.
+> **[3:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=192)** And the last tool that is available is [[Microsoft Teams]].
 >
 > **[3:16](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/communication-and-collaboration?u=76281980&t=196)** Which is a much broader platform of tools and technologies, and also includes video conferencing.
 >
@@ -1179,7 +1164,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (2), game (1), [[Microsoft Office|Office]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Windows]] (1), [[Linux]] (1), [[Slack]] (1), [[Trello]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Tools:** discord (3), slack (1)
 > **Definitions:** is a  (3)
@@ -1188,8 +1173,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** you'll need (1)
 
-#### Project management tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/project-management-tools?u=76281980)
+#### [Project management tools](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/project-management-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1287,7 +1271,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[Programming]] (3), next (3)
 > **UI Navigation:** select the (2), dropdown (2), click on (1)
 > **Cross-References:** in the next (2), earlier in (1)
 > **CLI Commands:** make (2)
@@ -1295,8 +1278,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a kanban board
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980)
+#### [Using a kanban board](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1318,7 +1300,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980&t=52)** This board is called sprint one.
 >
-> **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980&t=54)** And the reason it's called sprint one, is because by using an agile methodology, which is simply a way of working, each idea, each iteration, each collection of tasks is known as a sprint.
+> **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980&t=54)** And the reason it's called sprint one, is because by using an [[Agile Development|agile]] methodology, which is simply a way of working, each idea, each iteration, each collection of tasks is known as a sprint.
 >
 > **[1:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-a-kanban-board?u=76281980&t=68)** The idea is that when you complete that collection of tasks, you will have completed a single sprint, and at the end of it you will have created something tangible.
 >
@@ -1382,7 +1364,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (2), [[Agile Development|Agile]] (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **UI Navigation:** click on (9), go to (1)
 > **Definitions:** is a  (3), is called (1), known as (1), means that (1)
 > **Analogies:** for example (3)
@@ -1394,22 +1376,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Mobile build platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
+#### [Mobile build platforms](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=0)** - [Instructor] In this chapter, we're going to focus on the fundamentals of mobile building and deployment using the Unity engine.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=0)** - [Instructor] In this chapter, we're going to focus on the fundamentals of mobile building and deployment using the [[Unity]] engine.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=8)** Specifically, if you're creating a mobile game or mobile product, you'll be considering at least two major mobile platforms.
 >
-> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=17)** iOS developed by Apple and the Android operating system developed by Google.
+> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=17)** iOS developed by Apple and the [[Android]] operating system developed by [[Google]].
 >
 > **[0:23](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=23)** In these cases, you'll have to create two separate mobile builds using the Unity engine.
 >
 > **[0:30](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=30)** If you want to deploy to the Apple App Store or to the Google Play Store, then you'll need to sign up for developer accounts.
 >
-> **[0:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=38)** So that's why I've gone to a web browser window here to develop a.[apple.com/program](https://apple.com/program) to show you the Apple Developer Program.
+> **[0:38](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=38)** So that's why I've gone to a web browser window here to develop a.[apple.com/program](https://apple.com/program) to show you the [[Apple Developer]] Program.
 >
 > **[0:48](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=48)** You'll need to navigate to this page, to take a look over the details and then you'll need to enroll if you want to distribute your app games onto the Apple App Store for other people to download.
 >
@@ -1433,7 +1414,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=156)** You'll find the content guidelines over here on Apple too at the App Store Review Guidelines, where you'll need to read through the entirety of this document to get a good idea about what is and is not permissible in your applications.
 >
-> **[2:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=170)** So this is the basic approach that you'll need to take to get started with mobile development.
+> **[2:50](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=170)** So this is the basic approach that you'll need to take to get started with [[Mobile Development]].
 >
 > **[2:55](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-build-platforms?u=76281980&t=175)** If you plan to distribute your mobile content you'll need developer accounts with Google and with Apple.
 >
@@ -1441,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), [[Android]] (3), [[Unity]] (2), game (1), product (1)
+> **Frameworks & Libraries:** [[Google]] (7), [[Android]] (3), [[Unity]] (2), [[Apple Developer]] (1), [[Mobile Development]] (1)
 > **Prerequisites:** you'll need (7), getting started (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ios (1)
@@ -1450,18 +1431,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Best Practices:** always make sure (1)
 
-#### Downloading mobile development tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980)
+#### [Downloading mobile development tools](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=0)** - [Instructor] In this movie and the remaining movies, we'll see how we can get set up and prepared to deploy to a mobile platform.
 >
-> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=9)** Going forwards I'm going to consider the specific case of the Android platform, but the steps for iOS are very similar.
+> **[0:09](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=9)** Going forwards I'm going to consider the specific case of the [[Android]] platform, but the steps for iOS are very similar.
 >
-> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=17)** So when you want to develop for a mobile platform, the first thing you'll need to do is to install the relevant Unity modules.
+> **[0:17](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=17)** So when you want to develop for a mobile platform, the first thing you'll need to do is to install the relevant [[Unity]] modules.
 >
-> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=24)** By default, when you install Unity through the Unity Hub, it does not install the mobile development modules, whether it's iOS or Android.
+> **[0:24](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=24)** By default, when you install Unity through the Unity Hub, it does not install the [[Mobile Development]] modules, whether it's iOS or Android.
 >
 > **[0:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/downloading-mobile-development-tools?u=76281980&t=35)** This means that if you load Unity and build your game, you will not by default be able to build for a mobile platform, but you can easily add the modules to your build here.
 >
@@ -1521,7 +1501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (12), [[Mobile Development]] (1), game (1), web (1)
+> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (12), [[Mobile Development]] (1)
 > **Prerequisites:** install (10), set up (2), you'll need (1)
 > **Code Identifiers:** ios (4)
 > **CLI Commands:** make (2)
@@ -1530,12 +1510,11 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 
-#### Preparing to make a build
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980)
+#### [Preparing to make a build](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=0)** - [Instructor] In this movie, we'll prepare a Unity project for Android deployment.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=0)** - [Instructor] In this movie, we'll prepare a [[Unity]] project for [[Android]] deployment.
 >
 > **[0:05](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=5)** The project that I've chosen to focus on is a sample mobile game that is provided by unity technologies for free on the unity asset store.
 >
@@ -1567,7 +1546,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=118)** So this is how the game fundamentally plays.
 >
-> **[2:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=121)** You'll notice from the title bar here inside the Unity editor that this game is for PC, Mac and Linux standalone.
+> **[2:01](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=121)** You'll notice from the title bar here inside the Unity editor that this game is for PC, Mac and [[Linux]] standalone.
 >
 > **[2:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/preparing-to-make-a-build?u=76281980&t=128)** And by default, these are desktop platforms.
 >
@@ -1635,7 +1614,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (10), game (9), [[Search]] (4), hit (3)
+> **Frameworks & Libraries:** [[Android]] (13), [[Unity]] (10), [[Linux]] (2)
 > **UI Navigation:** click on (2), select the (2), go to (1), checkbox (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** find (3)
@@ -1643,12 +1622,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a build
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980)
+#### [Creating a build](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=0)** - [Instructor] In this movie will create an Android build from the sample mobile game that we loaded up in the proceeding movie.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=0)** - [Instructor] In this movie will create an [[Android]] build from the sample mobile game that we loaded up in the proceeding movie.
 >
 > **[0:08](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=8)** To create your Android build, you simply need to move to the toolbar here and choose file and build settings.
 >
@@ -1698,11 +1676,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=160)** At the end of this process, you will end up with an Android package file that you can deploy to Android devices and also upload to the Android app store.
 >
-> **[2:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=171)** We'll see how we can test our products inside an Android emulator in the next video.
+> **[2:51](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/creating-a-build?u=76281980&t=171)** We'll see how we can test our [[Microsoft Products|products]] inside an Android emulator in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (9), game (5), api (2), product (1), hit (1)
+> **Frameworks & Libraries:** [[Android]] (9), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** select the (2), scroll down (2)
 > **Env Vars:** api (2)
 > **Versions:** 4.4 (1)
@@ -1711,20 +1689,19 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using an Android emulator
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980)
+#### [Using an Android emulator](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=0)** - [Instructor] When you create an Android build of your game or your visualization inside Unity, you can then take that Android package and copy it to your Android device to test it out.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=0)** - [Instructor] When you create an [[Android]] build of your game or your visualization inside [[Unity]], you can then take that Android package and copy it to your Android device to test it out.
 >
-> **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=14)** You can also upload that package to the Google Play Store where you can make it available for people to download and play.
+> **[0:14](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=14)** You can also upload that package to the [[Google]] Play Store where you can make it available for people to download and play.
 >
 > **[0:22](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=22)** However, you might want to test out your Android program on a range of different types of devices.
 >
-> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=29)** And perhaps you don't have that hardware available to you.
+> **[0:29](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=29)** And perhaps you don't have that [[Hardware]] available to you.
 >
-> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=34)** In those cases, you can test out your Android package in a software simulation of a particular Android device.
+> **[0:34](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=34)** In those cases, you can test out your Android package in a software [[Simulation]] of a particular Android device.
 >
 > **[0:42](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/using-an-android-emulator?u=76281980&t=42)** This feature set is available to you from Android Studio which got installed to your computer when you added the Android Module inside Unity, or you can also download it manually from Android Studio which we saw in an earlier movie.
 >
@@ -1796,7 +1773,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (15), next (5), [[Unity]] (2), api (2), game (1)
+> **Frameworks & Libraries:** [[Android]] (15), [[Unity]] (2), [[Google]] (1), [[Hardware]] (1), [[Simulation]] (1)
 > **Env Vars:** avd (2), api (2)
 > **UI Navigation:** click on (1), select the (1)
 > **Analogies:** for example (2)
@@ -1805,14 +1782,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Definitions:** stands for (1)
 
-#### Mobile testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980)
+#### [Mobile testing](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=0)** - [Instructor] In the previous movie we used the Android virtual device manager to create a pixel 3 virtual device.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=0)** - [Instructor] In the previous movie we used the [[Android]] virtual device manager to create a pixel 3 virtual device.
 >
-> **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=7)** We can use this to test down to our Android apps without having to have the Android hardware immediately available to us.
+> **[0:07](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=7)** We can use this to test down to our Android apps without having to have the Android [[Hardware]] immediately available to us.
 >
 > **[0:15](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=15)** Obviously, if you are developing for a particular Android device or a particular Android platform, you want to try to make sure that you have as many devices available to you because testing on an actual device is the best case scenario for knowing how your game will perform.
 >
@@ -1840,7 +1816,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=103)** For example, I can swipe upwards here by clicking and dragging my mouse to present the application launcher.
 >
-> **[1:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=112)** Now, to run and test out your game, you just need to bring in your Android build which was generated by Unity, which in my case is endlessrunner.apk.
+> **[1:52](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=112)** Now, to run and test out your game, you just need to bring in your Android build which was generated by [[Unity]], which in my case is endlessrunner.apk.
 >
 > **[2:04](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/mobile-testing?u=76281980&t=124)** And APK stands for Android package.
 >
@@ -1872,7 +1848,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (12), game (8), application (4), [[Hardware]] (2), [[Unity]] (2)
+> **Frameworks & Libraries:** [[Android]] (12), [[Hardware]] (2), [[Unity]] (2)
 > **CLI Commands:** make (2)
 > **Env Vars:** apk (2)
 > **UI Navigation:** select the (1), drag and drop (1)
@@ -1885,12 +1861,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=0)** - [Instructor] Well congratulations on reaching the end of this Unity Certified Associate course.
+> **[0:00](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=0)** - [Instructor] Well congratulations on reaching the end of this [[Unity]] Certified Associate course.
 >
 > **[0:06](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=6)** In reaching this far, you've seen a range of issues and ideas spanning design, production, and industry awareness.
 >
@@ -1904,19 +1879,19 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=54)** To achieve that, we looked at Unity Collaborate, which allows particular users to share their project with other members of the team and to synchronize all the changes they make, making it really easy for multiple people in multiple locations to work on the same project.
 >
-> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=72)** We also looked at mobile development concepts and how to create and deploy games to the Android platform, and even how we can test those games using an Android virtual device.
+> **[1:12](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=72)** We also looked at [[Mobile Development]] concepts and how to create and deploy games to the [[Android]] platform, and even how we can test those games using an Android virtual device.
 >
 > **[1:25](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=85)** In reaching this far, you've seen a ton of concepts that can help you prepare to enter the game industry and start out on a really great career.
 >
 > **[1:35](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=95)** I hope you found this course helpful.
 >
-> **[1:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=97)** This has been presented by LinkedIn Learning and I've been Alan Thorn.
+> **[1:37](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=97)** This has been presented by [[LinkedIn]] Learning and I've been Alan Thorn.
 >
 > **[1:41](https://www.linkedin.com/learning/cert-prep-unity-certified-associate-game-developer-design-production-and-industry-awareness/next-steps?u=76281980&t=101)** Thank you very much and see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (3), game (2), [[Android]] (2), express (1), management (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[Android]] (2), [[Mobile Development]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)

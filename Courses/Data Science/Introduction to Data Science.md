@@ -102,12 +102,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beginning your data science exploration
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980)
+#### [Beginning your data science exploration](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980&t=0)** In the world today, it's hard to find a hotter field than data science.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980&t=0)** In the world today, it's hard to find a hotter field than [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/beginning-your-data-science-exploration?u=76281980&t=4)** It's a fast-growing field that is reshaping the world. From self-driving cars to helping treat cancer, the applications of data science are vast and powerful, and taking time now to learn data science helps you open doors and unlock opportunities that can help advance your career.
 >
@@ -127,7 +126,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), career (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (8)
 > **CLI Commands:** find (1)
 
 
@@ -135,12 +134,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demystifying data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980)
+#### [Demystifying data science](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=0)** There are many definitions out there for data science.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=0)** There are many definitions out there for [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=4)** I like the definition given by Joseph Gonzalez, who's a professor at UC Berkeley.
 >
@@ -156,13 +154,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=50)** Data scientists work to make sure that value is extracted from data smoothly.
 >
-> **[0:55](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=55)** Data engineers optimize data flow while data scientists optimize data processing and data scientists work with data engineers as well as business people to define metrics, establish how data is collected, and ensure that data science processes work well with enterprise data systems.
+> **[0:55](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=55)** Data engineers optimize data flow while data scientists optimize [[Data Processing]] and data scientists work with data engineers as well as business people to define metrics, establish how data is collected, and ensure that data science processes work well with enterprise data systems.
 >
 > **[1:13](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=73)** And when data scientists and data engineers work together, it's important for the data scientists to write code that's reusable by the data engineers.
 >
 > **[1:21](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=81)** The next difference I want to help you understand is the difference between data scientists and statisticians.
 >
-> **[1:28](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=88)** Now, the amount of data that data scientists work with is often massive, so they spend a lot of time with tasks like large scale data collection and data cleaning.
+> **[1:28](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=88)** Now, the amount of data that data scientists work with is often massive, so they spend a lot of time with tasks like large scale [[Data Collection]] and [[Data Cleaning]].
 >
 > **[1:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=98)** Meanwhile, statisticians rely on more traditional and smaller scale methods of data collection, such as surveys, polls, and experiments.
 >
@@ -170,7 +168,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=115)** On the other hand, statisticians work on improving one simple model to best fit the data, and data scientists do more than just analyze data.
 >
-> **[2:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=124)** They also implement algorithms that process data automatically.
+> **[2:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=124)** They also implement [[Algorithms]] that process data automatically.
 >
 > **[2:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=128)** And this enables data scientists to provide automated predictions and actions. To help bring this to life, I want to give you some examples of the types of things that data scientists can automate through data analysis and algorithms, such as analyzing NASA pictures to find new planets or asteroids or automated piloting planes, cars and more.
 >
@@ -178,13 +176,13 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=156)** You can use automation and computational chemistry to simulate new molecules for cancer treatment.
 >
-> **[2:42](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=162)** And automation can help with early detection of an epidemic or estimating the value of houses in the US in real-time, like on Zillow, or matching a Google AD with a user and a web page to maximize the chances of a conversion.
+> **[2:42](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=162)** And automation can help with early detection of an epidemic or estimating the value of houses in the US in [[Real-Time]], like on Zillow, or matching a [[Google]] AD with a user and a web page to maximize the chances of a conversion.
 >
 > **[2:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=176)** Automation can help return highly relevant results to Google searches or detect credit card fraud and tax fraud and automation even helps with weather forecasts.
 >
 > **[3:06](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=186)** The next difference I want to help you understand is the difference between data scientists and business analysts.
 >
-> **[3:11](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=191)** Business analysts focus on database design and ROI assessment.
+> **[3:11](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=191)** Business analysts focus on [[Database Design]] and ROI assessment.
 >
 > **[3:16](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-science?u=76281980&t=196)** And some business analysts work on finance planning and optimization and risk management and others manage projects at a high level.
 >
@@ -200,13 +198,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (48), business (8), [[Automation]] (4), next (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Data Collection]] (2), [[Algorithms]] (2), [[Google]] (2), [[Data Processing]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** nasa (1), roi (1)
 
-#### The value of data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980)
+#### [The value of data science](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -214,13 +211,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=4)** And the good news is data sets in the right hands can help predict and shape the future.
 >
-> **[0:10](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=10)** Think about it. Companies use data to run and grow their everyday business, and data science can help companies make quicker and better decisions which can take them to the top of their market.
+> **[0:10](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=10)** Think about it. Companies use data to run and grow their everyday business, and [[Data Science]] can help companies make quicker and better decisions which can take them to the top of their market.
 >
 > **[0:21](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=21)** Also, data science affects many areas of our everyday lives.
 >
 > **[0:25](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=25)** For example, it's already used in areas such as quick and easy customer service, intelligent navigation, recommendations, and voice to text.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=35)** Data science has other uses, such as helping to improve the resolution of an image and detecting fraud by analyzing the behavior of financial institutions in real-time.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=35)** Data science has other uses, such as helping to improve the resolution of an image and detecting fraud by analyzing the behavior of financial institutions in [[Real-Time]].
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=45)** Data Science also has applications in robotics and thus has the capacity to help do things like assisting elderly people and people with disabilities.
 >
@@ -234,7 +231,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=83)** Data science also has the power to save rare species.
 >
-> **[1:27](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=87)** Complex predictive models and algorithms can create insights and help scientists analyze threats to wildlife and create a solution that can save animals.
+> **[1:27](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=87)** Complex predictive models and [[Algorithms]] can create insights and help scientists analyze threats to wildlife and create a solution that can save animals.
 >
 > **[1:37](https://www.linkedin.com/learning/introduction-to-data-science-22668235/the-value-of-data-science?u=76281980&t=97)** Data science is redefining how people and organizations solve challenging problems and understand their world.
 >
@@ -242,16 +239,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (1), [[Real-Time]] (1), power (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (8), [[Real-Time]] (1), [[Algorithms]] (1)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
 
-#### Defining the data science life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980)
+#### [Defining the data science life cycle](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980&t=0)** Data scientists follow a certain process to understand the world, and it's called the Data Science Life Cycle.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980&t=0)** Data scientists follow a certain process to understand the world, and it's called the [[Data Science]] Life Cycle.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-the-data-science-life-cycle?u=76281980&t=7)** In this course, you'll learn more about this process and what each stage of it entails.
 >
@@ -273,23 +269,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2)
 
 
 ### 2. Starting with Data Design
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reducing bias with probability sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980)
+#### [Reducing bias with probability sampling](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=0)** Data design is the process of data collection.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=0)** Data design is the process of [[Data Collection]].
 >
 > **[0:03](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=3)** When you collect a sample of data, you want to make sure that there's as little bias as possible in the way you collect the sample.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=9)** Probability sampling is a family of sampling methods that assigns precise probabilities to the appearance of each sample to reduce bias as much as possible in data design.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=9)** [[Probability]] sampling is a family of sampling methods that assigns precise probabilities to the appearance of each sample to reduce bias as much as possible in data design.
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reducing-bias-with-probability-sampling?u=76281980&t=19)** I want to help bring this to life and show you a few methods of probability sampling.
 >
@@ -363,22 +358,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (6), data (4), cd (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Data Collection]] (1)
 > **Definitions:** is a  (3), is called (3), known as (1)
 > **Env Vars:** srs (4)
 > **CLI Commands:** make (1), cd (1)
 > **Analogies:** for example (2)
 
-#### Using non-probability sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980)
+#### [Using non-probability sampling](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=0)** Sometimes, data collection can be very expensive and time-consuming, and you may not have access to all the members of a population.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=0)** Sometimes, [[Data Collection]] can be very expensive and time-consuming, and you may not have access to all the members of a population.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=8)** In that case, you would not be able to take a random sample.
 >
-> **[0:11](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=11)** Instead, you could use a different technique called non-probability sampling, which is a subjective, in other words, non-random method.
+> **[0:11](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=11)** Instead, you could use a different technique called non-[[Probability]] sampling, which is a subjective, in other words, non-random method.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=18)** With this method, there is no guarantee that every individual in the population has a chance of being included in the sample.
 >
@@ -402,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=79)** For example, if a researcher wants to learn more about the experiences of employees with disabilities, the sample could be intentionally selected to suit that goal.
 >
-> **[1:29](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=89)** Another method is quota sampling, which is one of the most common forms of non-probability sampling.
+> **[1:29](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=89)** Another method is quota sampling, which is one of the most common [[Forms]] of non-probability sampling.
 >
 > **[1:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/using-non-probability-sampling?u=76281980&t=95)** With this approach, sampling is done until a specific number of units, in other words, quotas, for various subpopulations have been selected.
 >
@@ -422,7 +416,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), data (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Data Collection]] (1), [[Forms]] (1)
 > **Definitions:** is a  (2), in other words (2)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (1)
@@ -432,12 +426,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing Python and R
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980)
+#### [Comparing Python and R](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=0)** R and Python are among the most popular languages for data science, and each has its supporters and opponents.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=0)** R and [[Python (Programming Language)|Python]] are among the most popular languages for [[Data Science]], and each has its supporters and opponents.
 >
 > **[0:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=8)** I want to help you understand the differences and provide a basic comparison between these two languages and point out the strengths of each.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=34)** Python emphasizes productivity and code readability.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=38)** In contrast, R focuses on better user-friendly data analysis statistics and graphical models.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=38)** In contrast, R focuses on better user-friendly data analysis [[Statistics]] and graphical models.
 >
 > **[0:44](https://www.linkedin.com/learning/introduction-to-data-science-22668235/comparing-python-and-r?u=76281980&t=44)** Python is used by programmers that want to delve into data analysis or apply statistical techniques and by developers that turn to data science.
 >
@@ -483,17 +476,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), data (6), strengths (2), web (1), database (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Data Science]] (2), [[Statistics]] (1)
 > **CLI Commands:** python (12), find (1)
 > **Definitions:** stands for (2)
 > **Env Vars:** cran (1)
 
-#### Setting up your Jupyter environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/setting-up-your-jupyter-environment?u=76281980)
+#### [Setting up your Jupyter environment](https://www.linkedin.com/learning/introduction-to-data-science-22668235/setting-up-your-jupyter-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/setting-up-your-jupyter-environment?u=76281980&t=0)** In data science, the Python 3 programming language is a useful computational tool, and you'll see me using Python 3 throughout this course.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/setting-up-your-jupyter-environment?u=76281980&t=0)** In [[Data Science]], the [[Python (Programming Language)|Python]] 3 programming language is a useful computational tool, and you'll see me using Python 3 throughout this course.
 >
 > **[0:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/setting-up-your-jupyter-environment?u=76281980&t=9)** To write programs, you need an environment specifically built for coding.
 >
@@ -577,7 +569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), hit (5), data (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Data Science]] (2)
 > **CLI Commands:** python (7), find (1), make (1)
 > **Versions:** python 3 (6), 3.7 (1)
 > **Tools:** jupyter (2), terminal (2), anaconda (1)
@@ -590,8 +582,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining tabular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980)
+#### [Defining tabular data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,9 +598,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=23)** One of the most common file formats for storing tabular data is Comma-Separated Values or CSV, where each record is stored as a line in the file and each file is separated by a comma.
 >
-> **[0:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=35)** If your data is stored in a CSV file, you can use the read_CSV method from a library called Pandas to quickly read the file into memory.
+> **[0:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=35)** If your data is stored in a CSV file, you can use the read_CSV method from a library called [[Pandas (Software)|Pandas]] to quickly read the file into memory.
 >
-> **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=45)** Pandas is a powerful library in Python that provides easy to use data analysis tools.
+> **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=45)** Pandas is a powerful library in [[Python (Programming Language)|Python]] that provides easy to use data analysis tools.
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-tabular-data?u=76281980&t=50)** For example, say you're working with data regarding the names of babies born in the United States and this data is stored in a CSV file called us_baby_names.csv.
 >
@@ -647,7 +638,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** csv (10)
 > **Code Identifiers:** us_baby_names (2), us_babies (2), us_baby_names_csv (1), read_csv (1)
 > **Definitions:** refers to (1), is a  (1), means that (1), is called (1)
@@ -655,12 +646,11 @@ created: 2026-05-02
 > **CLI Commands:** python (1)
 > **Analogies:** for example (1)
 
-#### Reading tabular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980)
+#### [Reading tabular data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=0)** Pandas is a powerful library in Python that provides easy-to-use data analysis tools.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=0)** [[Pandas (Software)|Pandas]] is a powerful library in [[Python (Programming Language)|Python]] that provides easy-to-use data analysis tools.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=5)** When you use pandas to read in data, you get a data frame.
 >
@@ -700,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=110)** Note that gender in this data set refers to the gender assigned to these babies at birth.
 >
-> **[1:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=116)** Now, the labels of a data frame are called the indices of the data frame, and they make data manipulation easier.
+> **[1:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=116)** Now, the labels of a data frame are called the indices of the data frame, and they make [[Data Manipulation]] easier.
 >
 > **[2:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/reading-tabular-data?u=76281980&t=122)** Notice that each row represents a distinct pair of baby name and birth year.
 >
@@ -790,7 +780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (10), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (10), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1)
 > **Code Identifiers:** us_babies (7), us_baby_names (2), read_csv (1), us_baby_names_csv (1)
 > **Definitions:** is a  (4), means that (2), is called (2), refers to (1), in other words (1)
 > **Env Vars:** csv (4)
@@ -799,8 +789,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), such as (1)
 > **Warnings:** note that (2)
 
-#### Interpreting tabular data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980)
+#### [Interpreting tabular data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -808,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980&t=5)** Notice that each row represents a distinct set of baby name, birth year, and birth state.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980&t=12)** Now, let's use pandas and the states underscore babies data set to answer the following question.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980&t=12)** Now, let's use [[Pandas (Software)|pandas]] and the states underscore babies data set to answer the following question.
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-science-22668235/interpreting-tabular-data?u=76281980&t=18)** What were the five most popular baby names in 2014 in California?
 >
@@ -850,15 +839,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Pandas (Software)|Pandas]] (2), next (2)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (2)
 > **Analogies:** imagine (1)
 
-#### Gathering insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/gathering-insights?u=76281980)
+#### [Gathering insights](https://www.linkedin.com/learning/introduction-to-data-science-22668235/gathering-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/gathering-insights?u=76281980&t=0)** Let's use pandas and the states_babies data set to answer the following question. "What were the most popular female and male baby names in California in each year?"
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/gathering-insights?u=76281980&t=0)** Let's use [[Pandas (Software)|pandas]] and the states_babies data set to answer the following question. "What were the most popular female and male baby names in California in each year?"
 >
 > **[0:11](https://www.linkedin.com/learning/introduction-to-data-science-22668235/gathering-insights?u=76281980&t=11)** Now, I'll show you how to do this using the Pandas library.
 >
@@ -970,18 +958,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Pandas (Software)|Pandas]] (8), next (4), hit (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (8)
 > **Code Identifiers:** ca_babies (3), states_babies (2), state_babies (1), sort_values (1)
 > **Definitions:** is a  (3), is called (2), means that (1), in other words (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **Warnings:** note that (1)
 
-#### Answering specific questions
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980)
+#### [Answering specific questions](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=0)** Now, let's use the Pandas Library and the us_babies dataset to answer the following question, "How frequently does your first name occur across the years in the US among baby names?"
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=0)** Now, let's use the [[Pandas (Software)|Pandas]] Library and the us_babies dataset to answer the following question, "How frequently does your first name occur across the years in the US among baby names?"
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=12)** For this question, you'd want to go back to working with the us_babies dataset, since this question does not address specific states.
 >
@@ -1027,11 +1014,11 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=151)** Now you know how to set the index of a data set according to your needs and construct a horizontal bar plot of your data.
 >
-> **[2:37](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=157)** Now that you know some of the key methods in the Pandas Library for tabular data manipulation, go ahead and try it for yourself.
+> **[2:37](https://www.linkedin.com/learning/introduction-to-data-science-22668235/answering-specific-questions?u=76281980&t=157)** Now that you know some of the key methods in the Pandas Library for tabular [[Data Manipulation]], go ahead and try it for yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Data Manipulation]] (1)
 > **Code Identifiers:** us_babies (4), us_lav (3)
 > **Cross-References:** go back to (1)
 
@@ -1040,12 +1027,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining exploratory data analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980)
+#### [Defining exploratory data analysis](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980&t=0)** Exploratory data analysis, also known as EDA, is a major stage of the data science lifecycle.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980&t=0)** Exploratory data analysis, also known as EDA, is a major stage of the [[Data Science]] lifecycle.
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-exploratory-data-analysis?u=76281980&t=6)** The goal of EDA is to deeply understand the data you have in front of you.
 >
@@ -1063,13 +1049,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **Env Vars:** eda (5)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** known as (1), is a  (1)
 
-#### Recognizing statistical data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980)
+#### [Recognizing statistical data types](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=12)** The first is nominal data, which means data that has no inherent order.
 >
-> **[0:17](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=17)** Examples of this data include political party affiliation such as Democrat, Republican, independent, et cetera, or computer operating system such as Windows, macOS, Linux, et cetera, as well as things like gender and languages spoken.
+> **[0:17](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=17)** Examples of this data include political party affiliation such as Democrat, Republican, independent, et cetera, or computer operating system such as [[Windows]], macOS, [[Linux]], et cetera, as well as things like gender and languages spoken.
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=33)** Next, is ordinal data, and this means data that falls into ordered categories.
 >
@@ -1115,7 +1100,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=146)** For example, say one person has a one, meaning a high school background, and another person has a two, meaning an undergrad background.
 >
-> **[2:34](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=154)** Well, you could say that the second person has a higher education level than the first person.
+> **[2:34](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=154)** Well, you could say that the second person has a [[Higher Education]] level than the first person.
 >
 > **[2:40](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-statistical-data-types?u=76281980&t=160)** Now, within the ID number column, computing the mean of the values is not meaningful.
 >
@@ -1131,7 +1116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Windows]] (1), [[Linux]] (1), next (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Linux]] (1)
 > **Analogies:** such as (4), for example (3)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 2.7 (2)
@@ -1139,8 +1124,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 
-#### Distinguishing properties of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/distinguishing-properties-of-data?u=76281980)
+#### [Distinguishing properties of data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/distinguishing-properties-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,7 +1232,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), next (2)
 > **Code Identifiers:** date_added (3), release_year (3)
 > **Definitions:** known as (2), refers to (2)
 > **Analogies:** for example (2), such as (1)
@@ -1261,14 +1244,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explaining data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980)
+#### [Explaining data cleaning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980&t=0)** Data cleaning is a process of combing through raw data and transforming it so that it's conducive to analysis that follows.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980&t=0)** [[Data Cleaning]] is a process of combing through raw data and transforming it so that it's conducive to analysis that follows.
 >
-> **[0:07](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980&t=7)** Data cleaning can be time-consuming, but it's a critical stage of the data science lifecycle.
+> **[0:07](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980&t=7)** Data cleaning can be time-consuming, but it's a critical stage of the [[Data Science]] lifecycle.
 >
 > **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/explaining-data-cleaning?u=76281980&t=12)** Data cleaning often addresses missing values, the formatting of values, the structure of the data overall, extracting information from complex values, unit conversion, interpretation of magnitudes, and so on.
 >
@@ -1288,17 +1270,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16)
+> **Frameworks & Libraries:** [[Data Cleaning]] (6), [[Data Science]] (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Questions to guide data cleaning
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980)
+#### [Questions to guide data cleaning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=0)** When you begin the process of data cleaning, there are a few important questions to ask about the data.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=0)** When you begin the process of [[Data Cleaning]], there are a few important questions to ask about the data.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=5)** First, are there missing values in the data set?
 >
@@ -1308,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=15)** For example, say you have data regarding shows and movies that were on Netflix from 2015-2021 globally.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=24)** In this demo, I'll start with the data loaded into a Pandas data frame.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=24)** In this demo, I'll start with the data loaded into a [[Pandas (Software)|Pandas]] data frame.
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-data-science-22668235/questions-to-guide-data-cleaning?u=76281980&t=28)** First, let's get the shape of the data frame.
 >
@@ -1380,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Pandas (Software)|Pandas]] (3), next (1), generic (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (3), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
@@ -1391,12 +1372,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Demystifying data visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980)
+#### [Demystifying data visualization](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=0)** Data visualization is an essential tool for data science.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=0)** Data visualization is an essential tool for [[Data Science]].
 >
 > **[0:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=4)** Visualization brings data to life.
 >
@@ -1404,7 +1384,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=14)** Also, data visualization can be a great way to communicate your predictions and conclusions to other people, and you'll need to use some computational tools to create data visualizations.
 >
-> **[0:25](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=25)** Two useful visualization tools that I'll be introducing in this course are Python's Matplotlib and Seaborn libraries.
+> **[0:25](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=25)** Two useful visualization tools that I'll be introducing in this course are [[Python (Programming Language)|Python]]'s Matplotlib and Seaborn libraries.
 >
 > **[0:32](https://www.linkedin.com/learning/introduction-to-data-science-22668235/demystifying-data-visualization?u=76281980&t=32)** Matplotlib is a library in Python that allows you to create two dimensional plots of your data.
 >
@@ -1418,14 +1398,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Data Science]] (1)
 > **CLI Commands:** python (4), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Documentation:** the documentation (1)
 > **Prerequisites:** you'll need (1)
 
-#### Visualizing your qualitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980)
+#### [Visualizing your qualitative data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1437,11 +1416,11 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=19)** A bar chart is one of the most commonly used charts to visualize qualitative data.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=24)** In this lesson, I will show you how to create bar charts in Python.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=24)** In this lesson, I will show you how to create bar charts in [[Python (Programming Language)|Python]].
 >
 > **[0:28](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=28)** For example, say that you have a data set on Airbnb listings in New York City, New York for 2019, last updated on August 12th, 2019.
 >
-> **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=38)** First, I'll import the Python libraries that I'll need, so I'll go ahead and start with import pandas as pd.
+> **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=38)** First, I'll import the Python libraries that I'll need, so I'll go ahead and start with import [[Pandas (Software)|pandas]] as pd.
 >
 > **[0:46](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-qualitative-data?u=76281980&t=46)** Import matplotlib.pyplot as plt.
 >
@@ -1523,7 +1502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2), ci (2), next (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (2)
 > **Code Identifiers:** neighborhood_group (3), read_csv (1)
 > **Env Vars:** csv (2), nyc (1)
 > **File Paths:** 2019.csv (1), airbnb_nyc_2019.csv (1)
@@ -1532,8 +1511,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
 
-#### Visualizing your quantitative data
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980)
+#### [Visualizing your quantitative data](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1541,11 +1519,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=6)** Note that quantitative data is another term for numerical data, which means data that consists of amounts or quantities.
 >
-> **[0:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=14)** In this lesson, I'll show you how to create these charts in Python.
+> **[0:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=14)** In this lesson, I'll show you how to create these charts in [[Python (Programming Language)|Python]].
 >
 > **[0:18](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=18)** For example, say that you have a data set on Airbnb listings in New York City for 2019, last updated on August 12th of that year.
 >
-> **[0:26](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=26)** First, I'll import the Python libraries that I'll need, so I'll start with import pandas as pd, import matplotlib.pyplot as plt, import numpy as np and I'll run the cell.
+> **[0:26](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=26)** First, I'll import the Python libraries that I'll need, so I'll start with import [[Pandas (Software)|pandas]] as pd, import matplotlib.pyplot as plt, import numpy as np and I'll run the cell.
 >
 > **[0:45](https://www.linkedin.com/learning/introduction-to-data-science-22668235/visualizing-your-quantitative-data?u=76281980&t=45)** Note that going forward, when I code in this notebook, I need to use pd to refer to pandas, plt to refer to matplotlib.pyplot and np to refer to Numpy.
 >
@@ -1667,7 +1645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), next (5), [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Pandas (Software)|Pandas]] (4)
 > **CLI Commands:** python (4), make (1)
 > **Env Vars:** csv (2), nyc (1)
 > **Definitions:** is a  (3)
@@ -1681,33 +1659,31 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining inference
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980)
+#### [Defining inference](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=0)** Data scientists use inference to quantify how certain they are the trends they see in their data will be found in new data, and they use inference to draw conclusions about a population using their data set.
 >
-> **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=12)** For example, inference is a useful process in election forecasting, predicting the test scores of students in future exams based on their test scores in past exams and more.
+> **[0:12](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=12)** For example, inference is a useful process in election [[Forecasting]], predicting the test scores of students in future exams based on their test scores in past exams and more.
 >
 > **[0:23](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=23)** A couple of methods that are essential to inference are hypothesis tests and confidence intervals, and these methods involve resampling which enables you to generalize the conclusions you draw so they are applicable not just to your data, but also to data that you have not seen before.
 >
-> **[0:39](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=39)** Now you know what inference is and why it's important in data science.
+> **[0:39](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-inference?u=76281980&t=39)** Now you know what inference is and why it's important in [[Data Science]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### Designing a hypothesis test
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980)
+#### [Designing a hypothesis test](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=0)** To help answer questions about the world, data scientists use hypothesis test to make informed conclusions based on the data that they observe.
 >
-> **[0:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=8)** Now, data collection is not always precise, so when you notice some trends in your data, you might be wondering whether those trends occur due to random fluctuations in data collection or due to some real phenomena.
+> **[0:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=8)** Now, [[Data Collection]] is not always precise, so when you notice some trends in your data, you might be wondering whether those trends occur due to random fluctuations in data collection or due to some real phenomena.
 >
 > **[0:20](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=20)** And this is where hypothesis testing comes in.
 >
@@ -1723,9 +1699,9 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=52)** Feel free to open the exercise file on your end as well to follow along.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=56)** In the first code cell, I imported all the python libraries that I'll need.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=56)** In the first code cell, I imported all the [[Python (Programming Language)|python]] libraries that I'll need.
 >
-> **[1:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=60)** Next, I loaded the avocado data set into a Pandas data frame.
+> **[1:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=60)** Next, I loaded the avocado data set into a [[Pandas (Software)|Pandas]] data frame.
 >
 > **[1:04](https://www.linkedin.com/learning/introduction-to-data-science-22668235/designing-a-hypothesis-test?u=76281980&t=64)** Save that in a variable called avocado info and display the first few rows.
 >
@@ -1807,20 +1783,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), next (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Data Collection]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Definitions:** is called (2), is an  (1), in other words (1)
 > **CLI Commands:** make (1), python (1)
 > **Exercise Files:** exercise file (2)
 > **UI Navigation:** open the (1)
 
-#### Creating a permutation
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980)
+#### [Creating a permutation](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=0)** Hypothesis testing allows data scientists to make informed conclusions based on the data that they observe.
 >
-> **[0:06](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=6)** I have a Pandas data frame that contains data on the time taken by a sample of avocado trees to grow avocado fruits and whether the trees receive fertilizer.
+> **[0:06](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=6)** I have a [[Pandas (Software)|Pandas]] data frame that contains data on the time taken by a sample of avocado trees to grow avocado fruits and whether the trees receive fertilizer.
 >
 > **[0:16](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=16)** If a tree received fertilizer, the corresponding value in the fertilizer column would be true.
 >
@@ -1854,7 +1829,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=93)** Feel free to open it on your side as well to follow along.
 >
-> **[1:36](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=96)** In the first code cell, I imported all the Python libraries that I'll need.
+> **[1:36](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=96)** In the first code cell, I imported all the [[Python (Programming Language)|Python]] libraries that I'll need.
 >
 > **[1:40](https://www.linkedin.com/learning/introduction-to-data-science-22668235/creating-a-permutation?u=76281980&t=100)** And then I loaded the avocado data set into a Pandas data frame.
 >
@@ -1912,14 +1887,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Pandas (Software)|Pandas]] (4), next (3), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** avocado_info (2), observed_test_stat (2), not_fertilized (1)
 > **Definitions:** is a  (2), in other words (1), is an  (1)
 > **CLI Commands:** make (1), python (1)
 > **Exercise Files:** exercise file (1)
 
-#### Conducting a permutation test
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980)
+#### [Conducting a permutation test](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2019,7 +1993,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980&t=260)** So my next step is to use sim_test_stat to compute the P value.
 >
-> **[4:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980&t=264)** In general, the P value represents the approximate probability that the observed value of the test statistic or a more extreme value shows up among the simulated values of the test statistic under the assumption that the null hypothesis is true.
+> **[4:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980&t=264)** In general, the P value represents the approximate [[Probability]] that the observed value of the test statistic or a more extreme value shows up among the simulated values of the test statistic under the assumption that the null hypothesis is true.
 >
 > **[4:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/conducting-a-permutation-test?u=76281980&t=278)** In this test, the P value will be the proportion of simulated values of the test statistic that were less than or equal to the observed value of the test statistic.
 >
@@ -2059,7 +2033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), next (7), generic (1), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Code Identifiers:** sim_test_stat (5), not_fertilized (1), sim_test (1), p_value (1)
 > **Definitions:** in other words (3), is an  (1), known as (1), is a  (1)
 > **Cross-References:** earlier in (1), in the next (1)
@@ -2067,8 +2041,7 @@ created: 2026-05-02
 > **Versions:** 0.0 (1)
 > **UI Navigation:** open the (1)
 
-#### Bootstrapping a confidence interval
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980)
+#### [Bootstrapping a confidence interval](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2059,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=50)** In this lesson, I'll show you how to bootstrap a confidence interval.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=54)** I have a Pandas data frame named avocado_info that contains data on a sample of avocado trees. For each avocado tree, the data set indicates the time the tree took to grow avocado fruit and whether the tree was given fertilizer.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=54)** I have a [[Pandas (Software)|Pandas]] data frame named avocado_info that contains data on a sample of avocado trees. For each avocado tree, the data set indicates the time the tree took to grow avocado fruit and whether the tree was given fertilizer.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=68)** Now, let's say that I want to estimate the following population parameter, the difference between the average growth duration of avocados that receive fertilizer and the average growth duration of avocados that did not receive fertilizer.
 >
@@ -2094,7 +2067,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=91)** Feel free to open the exercise file for this lesson to follow along.
 >
-> **[1:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=95)** I've imported all the Python libraries that I'll need, loaded the data into a data frame and displayed the first few rows of the data frame.
+> **[1:35](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=95)** I've imported all the [[Python (Programming Language)|Python]] libraries that I'll need, loaded the data into a data frame and displayed the first few rows of the data frame.
 >
 > **[1:42](https://www.linkedin.com/learning/introduction-to-data-science-22668235/bootstrapping-a-confidence-interval?u=76281980&t=102)** Now, I'll show you how to take a random sample with replacement from an existing sample.
 >
@@ -2198,7 +2171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (8), generic (3), [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** not_fertilized (3), avocado_info (1), ridge_sample (1), new_sample (1), new_mean (1)
 > **Versions:** 2.5 (1), 97.5 (1), 11.34 (1), 7.19 (1)
 > **Definitions:** is a  (3), means that (1)
@@ -2212,12 +2185,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining prediction for data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980)
+#### [Defining prediction for data science](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=0)** An important aspect of data science is discovering what data can tell us about the future.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=0)** An important aspect of [[Data Science]] is discovering what data can tell us about the future.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=5)** For example, based on a person's social media profile, which upcoming movies will likely interest them?
 >
@@ -2255,19 +2227,18 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=87)** There are many methods for regression as well.
 >
-> **[1:30](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=90)** One method is linear regression, which models a linear relationship between variables and the linear model can be used to predict the dependent variable.
+> **[1:30](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=90)** One method is [[Linear Regression]], which models a linear relationship between variables and the linear model can be used to predict the dependent variable.
 >
 > **[1:39](https://www.linkedin.com/learning/introduction-to-data-science-22668235/defining-prediction-for-data-science?u=76281980&t=99)** Now you have an overview of what prediction means in data science, as well as some key methods that you'll encounter in this area.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), database (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Linear Regression]] (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** cat (2)
 > **Definitions:** in other words (1)
 
-#### Navigating classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-classification?u=76281980)
+#### [Navigating classification](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,12 +2284,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **Definitions:** is an  (2), is a  (2), is called (2)
 > **CLI Commands:** make (4)
 
-#### Recognizing the k-NN algorithm
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-the-k-nn-algorithm?u=76281980)
+#### [Recognizing the k-NN algorithm](https://www.linkedin.com/learning/introduction-to-data-science-22668235/recognizing-the-k-nn-algorithm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2384,14 +2353,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (3)
 > **Definitions:** is a  (2), is called (1), is an  (1), known as (1), in other words (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2)
 > **Warnings:** note that (1)
 
-#### Implementing k-Nearest Neighbors
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980)
+#### [Implementing k-Nearest Neighbors](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2409,13 +2376,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=33)** Feel free to open the exercise file on your end as well to follow along.
 >
-> **[0:37](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=37)** In the first code cell, I started by importing all the python libraries that I'll need.
+> **[0:37](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=37)** In the first code cell, I started by importing all the [[Python (Programming Language)|python]] libraries that I'll need.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=41)** This includes imports from Pandas, Matplotlib, Seaborn and Sklearn.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=41)** This includes imports from [[Pandas (Software)|Pandas]], Matplotlib, Seaborn and Sklearn.
 >
-> **[0:47](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=47)** Sklearn is another powerful library for data science.
+> **[0:47](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=47)** Sklearn is another powerful library for [[Data Science]].
 >
-> **[0:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=50)** It contains many useful methods for implementing machine learning algorithms in Python.
+> **[0:50](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=50)** It contains many useful methods for implementing machine learning [[Algorithms]] in Python.
 >
 > **[0:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=56)** You can learn more about it using the link in the resource file.
 >
@@ -2459,7 +2426,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=180)** This plot shows a clear pattern.
 >
-> **[3:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=182)** Data points in the lower right tend to represent people who do not have CKD and the rest tend to be folks with CKD.
+> **[3:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=182)** Data points in the lower right tend to represent people who do not have CKD and the [[Representational State Transfer (REST)|rest]] tend to be folks with CKD.
 >
 > **[3:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-k-nearest-neighbors?u=76281980&t=189)** You could also use this plot to visually simulate how a nearest neighbor algorithm would work here.
 >
@@ -2547,7 +2514,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), next (5), [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (3), [[Python (Programming Language)|Python]] (2), [[Data Science]] (1), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** ckd (14)
 > **Code Identifiers:** x_train (2), x_test (2), y_train (1), y_test (1), preds_train (1)
 > **CLI Commands:** make (3), python (2), find (1)
@@ -2556,16 +2523,15 @@ created: 2026-05-02
 > **Analogies:** for instance (1), for example (1)
 > **Versions:** 0.25 (1)
 
-#### Navigating regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980)
+#### [Navigating regression](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=0)** In data science, regression can be used to predict the value of a continuous variable.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=0)** In [[Data Science]], regression can be used to predict the value of a continuous variable.
 >
 > **[0:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=5)** There are different types of regression techniques, each suited for a different scenario.
 >
-> **[0:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=9)** A couple of the major techniques include linear regression and polynomial regression.
+> **[0:09](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=9)** A couple of the major techniques include [[Linear Regression]] and polynomial regression.
 >
 > **[0:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=14)** Linear regression can be used to model a linear relationship between variables and use the linear model to predict the dependent variable.
 >
@@ -2577,13 +2543,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=38)** Simple linear regression is about using one independent variable, also known as feature to predict the value of the dependent variable whereas multiple linear regression is about using multiple independent variables, also known as features to predict the value of the dependent variable.
 >
-> **[0:54](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=54)** In the rest of this lesson, I'll show you how to navigate questions that can be answered through regression with a couple of example context to make it clear.
+> **[0:54](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=54)** In the [[Representational State Transfer (REST)|rest]] of this lesson, I'll show you how to navigate questions that can be answered through regression with a couple of example context to make it clear.
 >
 > **[1:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=62)** Imagine that a data professional is interested in making predictions about user engagement for a mobile app.
 >
 > **[1:08](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=68)** Here's the question they might ask, "How much does each in-app feature influence user engagement?"
 >
-> **[1:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=74)** The in-app features might include a live chat with customer support and FAQ section that updates weekly and a community space to connect with other users.
+> **[1:14](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=74)** The in-app features might include a live chat with [[Customer Support]] and FAQ section that updates weekly and a community space to connect with other users.
 >
 > **[1:23](https://www.linkedin.com/learning/introduction-to-data-science-22668235/navigating-regression?u=76281980&t=83)** The next step is to determine which variable in the data should be the outcome variable.
 >
@@ -2611,18 +2577,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (11), data (5), feature (4), [[Representational State Transfer (REST)|Rest]] (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (11), [[Data Science]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Customer Support]] (1)
 > **Definitions:** known as (2), in other words (2), is a  (1)
 > **Env Vars:** wbc (2), faq (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** make (1)
 
-#### Checking assumptions of regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/checking-assumptions-of-regression?u=76281980)
+#### [Checking assumptions of regression](https://www.linkedin.com/learning/introduction-to-data-science-22668235/checking-assumptions-of-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/checking-assumptions-of-regression?u=76281980&t=0)** When using linear regression to answer question or make predictions, it's important to be aware of the assumptions that must be met.
+> **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/checking-assumptions-of-regression?u=76281980&t=0)** When using [[Linear Regression]] to answer question or make predictions, it's important to be aware of the assumptions that must be met.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-data-science-22668235/checking-assumptions-of-regression?u=76281980&t=7)** In this lesson, I'll introduce four key assumptions of simple linear regression.
 >
@@ -2670,14 +2635,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Linear Regression]] (4), cloud (3), next (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (4)
 > **Definitions:** means that (1), known as (1), in other words (1)
 > **CLI Commands:** make (2)
 > **Warnings:** be aware (1), note that (1)
 > **Analogies:** for example (1)
 
-#### Implementing linear regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980)
+#### [Implementing linear regression](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2687,7 +2651,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=13)** You're provided a data set that includes information about marketing campaigns across TV, radio, and social media, as well as how much revenue and sales was generated from these campaigns.
 >
-> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=24)** The goal is to build a linear regression model that can predict sales based on radio promotion budget.
+> **[0:24](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=24)** The goal is to build a [[Linear Regression]] model that can predict sales based on radio promotion budget.
 >
 > **[0:30](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=30)** In this lesson, I'll demonstrate how to use linear regression to solve this problem.
 >
@@ -2695,13 +2659,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=38)** Feel free to open it up on your end as well to follow along.
 >
-> **[0:41](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=41)** Python libraries that are most commonly used for implementing linear regression include the Stats-models Library and the Escalar Library.
+> **[0:41](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=41)** [[Python (Programming Language)|Python]] libraries that are most commonly used for implementing linear regression include the Stats-models Library and the Escalar Library.
 >
 > **[0:49](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=49)** In this demo, I'll be using the Stats-models library.
 >
 > **[0:53](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=53)** I've started by importing the Python libraries that I'll need.
 >
-> **[0:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=56)** The next step is to load the marketing and sales data from the provided CSV file into a Pandas data frame and display the first few rows of the data frame.
+> **[0:56](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=56)** The next step is to load the marketing and sales data from the provided CSV file into a [[Pandas (Software)|Pandas]] data frame and display the first few rows of the data frame.
 >
 > **[1:05](https://www.linkedin.com/learning/introduction-to-data-science-22668235/implementing-linear-regression?u=76281980&t=65)** The data includes TV promotion budget, radio promotion budget, social media promotion budget, type of influencer that the promotion is in collaboration with, and sales.
 >
@@ -2799,7 +2763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Linear Regression]] (11), next (5), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (11), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2)
 > **Env Vars:** ols (7), csv (1)
 > **Versions:** 0.75 (2), 42.8594 (1), 8.4170 (1), 8.417 (1)
 > **Definitions:** known as (2), stands for (1), is a  (1)
@@ -2813,14 +2777,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980&t=0)** Congratulations on completing this course.
 >
-> **[0:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980&t=2)** There's a lot to learn about data science, but the learning definitely does not stop here.
+> **[0:02](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980&t=2)** There's a lot to learn about [[Data Science]], but the learning definitely does not stop here.
 >
 > **[0:07](https://www.linkedin.com/learning/introduction-to-data-science-22668235/next-steps?u=76281980&t=7)** While watching someone walk through examples is important to learning how things work, it's equally important to practice on your own after watching. I also recommend that you check out the following resources.
 >
@@ -2844,7 +2807,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (6)
 > **Definitions:** is a  (1)
 
 

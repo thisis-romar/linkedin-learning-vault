@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to creating a high-performance culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
+#### [Welcome to creating a high-performance culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/welcome-to-creating-a-high-performance-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -115,8 +114,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Components of high-performing cultures
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
+#### [Components of high-performing cultures](https://www.linkedin.com/learning/creating-a-high-performance-culture/components-of-high-performing-cultures-22388723?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -176,12 +174,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Creating the virtuous circle
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-the-virtuous-circle-22383776?u=76281980)
+#### [Creating the virtuous circle](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-the-virtuous-circle-22383776?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -229,14 +225,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** find (1)
 > **Definitions:** known as (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - leaders (1)
 
-#### Assessing your current culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/assessing-your-current-culture-22386704?u=76281980)
+#### [Assessing your current culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/assessing-your-current-culture-22386704?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,8 +296,7 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - an (1)
 
-#### Defining high performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980)
+#### [Defining high performance](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -313,7 +306,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=7)** How are you going to measure it?
 >
-> **[0:09](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=9)** How much of your definition hinges on hard business metrics like sales, profitability, and growth, versus on qualitative metrics like morale, engagement, and customer satisfaction?
+> **[0:09](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=9)** How much of your definition hinges on hard [[Business Metrics]] like sales, profitability, and growth, versus on qualitative metrics like morale, engagement, and customer satisfaction?
 >
 > **[0:23](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=23)** The way you define and measure performance will dictate the practices you put in place to achieve it.
 >
@@ -359,7 +352,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=142)** This organization views the financials as an outcome of those other three measures.
 >
-> **[2:27](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=147)** This organization invests heavily in leadership development, training, and coaching high performers.
+> **[2:27](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=147)** This organization invests heavily in [[Leadership Development]], training, and coaching high performers.
 >
 > **[2:34](https://www.linkedin.com/learning/creating-a-high-performance-culture/defining-high-performance-22388726?u=76281980&t=154)** They see development as key to performance because that development builds and reinforces their culture.
 >
@@ -373,7 +366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), hit (1), [[Leadership Development]] (1)
+> **Frameworks & Libraries:** [[Business Metrics]] (2), [[Leadership Development]] (1)
 > **Speakers:** - to (1)
 
 
@@ -381,8 +374,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating a compelling vision and mission
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
+#### [Creating a compelling vision and mission](https://www.linkedin.com/learning/creating-a-high-performance-culture/creating-a-compelling-vision-and-mission-22383774?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,8 +426,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - the (1)
 
-#### Linking culture to purpose
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980)
+#### [Linking culture to purpose](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -465,9 +456,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=57)** Let's look at an example of how a vision and mission tie to a culture you're trying to build.
 >
-> **[1:04](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=64)** For my firm, we're a leadership development and training firm.
+> **[1:04](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=64)** For my firm, we're a [[Leadership Development]] and training firm.
 >
-> **[1:08](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=68)** Our mission is to advance the art of business leadership through hands-on training and coaching led by dynamic business people.
+> **[1:08](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=68)** Our mission is to advance the art of [[Business Leadership]] through hands-on training and coaching led by dynamic business people.
 >
 > **[1:18](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=78)** Our vision is to be a global firm of uniquely skilled executives who teach managers around the world how to be great leaders.
 >
@@ -479,7 +470,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=103)** I'd like to build the same thing, but instead of it being management consulting, I want to do it for leadership development.
 >
-> **[1:50](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=110)** Now, there are implications for every word and every phrase in our vision and mission that tell the team how they should behave.
+> **[1:50](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=110)** Now, there are implications for every [[Microsoft Word|word]] and every phrase in our vision and mission that tell the team how they should behave.
 >
 > **[2:00](https://www.linkedin.com/learning/creating-a-high-performance-culture/linking-culture-to-purpose-22385744?u=76281980&t=120)** Let's break this down.
 >
@@ -539,13 +530,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), leadership (3), [[Leadership Development]] (2), management (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Leadership Development]] (2), [[Business Leadership]] (2), [[Microsoft Word|Word]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - one (1)
 
-#### Tying strategy to culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/tying-strategy-to-culture?u=76281980)
+#### [Tying strategy to culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/tying-strategy-to-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -611,7 +601,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), teams (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -621,8 +610,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing your communication vehicles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
+#### [Choosing your communication vehicles](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -630,7 +618,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=7)** You'll need to communicate the culture through different channels with different content.
 >
-> **[0:13](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=13)** This requires a content management strategy.
+> **[0:13](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=13)** This requires a [[Content Management]] strategy.
 >
 > **[0:17](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=17)** This isn't something you just farm out to corporate communications.
 >
@@ -638,7 +626,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=26)** They have to speak with an authentic voice.
 >
-> **[0:29](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=29)** Vehicles like town halls, blogs, newsletters, conference calls, and emails require deliberate management to ensure you're delivering the right content through the right channel.
+> **[0:29](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=29)** Vehicles like town halls, blogs, [[Newsletters]], conference calls, and emails require deliberate management to ensure you're delivering the right content through the right channel.
 >
 > **[0:44](https://www.linkedin.com/learning/creating-a-high-performance-culture/choosing-your-communication-vehicles-22384754?u=76281980&t=44)** One organization has regular town halls with their senior leaders.
 >
@@ -682,25 +670,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (2), [[Content Management]] (1), leadership (1), management (1)
+> **Frameworks & Libraries:** [[Newsletters]] (2), [[Content Management]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - culture (1)
 
-#### Using storytelling to engage employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/using-storytelling-to-engage-employees?u=76281980)
+#### [Using storytelling to engage employees](https://www.linkedin.com/learning/creating-a-high-performance-culture/using-storytelling-to-engage-employees?u=76281980)
 
-#### Making culture a conversation
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/making-culture-a-conversation-22387673?u=76281980)
+#### [Making culture a conversation](https://www.linkedin.com/learning/creating-a-high-performance-culture/making-culture-a-conversation-22387673?u=76281980)
 
 
 ### 4. Organizing to Succeed
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Designing your team for high performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
+#### [Designing your team for high performance](https://www.linkedin.com/learning/creating-a-high-performance-culture/designing-your-team-for-high-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -768,15 +753,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (8), leadership (3)
 > **CLI Commands:** make (3)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - if (1)
 
-#### Build culture into your processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980)
+#### [Build culture into your processes](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,13 +805,13 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980&t=140)** When a manager filled out an award form for a member of their team, they had to explain how that individual's performance related to and reinforced the culture they were building.
 >
-> **[2:32](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980&t=152)** When the announcements about those awards went out to the broader organization through newsletters and blogs and the company website, cultural attributes were highlighted so people knew this person behaved this way, they delivered these results, and here's the reward that they got for it.
+> **[2:32](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980&t=152)** When the announcements about those awards went out to the broader organization through [[Newsletters]] and blogs and the company website, cultural attributes were highlighted so people knew this person behaved this way, they delivered these results, and here's the reward that they got for it.
 >
 > **[2:52](https://www.linkedin.com/learning/creating-a-high-performance-culture/build-culture-into-your-processes?u=76281980&t=172)** As you're looking at your processes in terms of recruiting, onboarding, performance management, and awards, ask yourself how can you change those processes to reinforce the culture you're trying to build?
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Newsletters]] (1), management (1)
+> **Frameworks & Libraries:** [[Newsletters]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - building (1)
@@ -838,8 +821,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting goals and measuring results
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
+#### [Setting goals and measuring results](https://www.linkedin.com/learning/creating-a-high-performance-culture/setting-goals-and-measuring-results-22390017?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -885,13 +867,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Reinforce good behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980)
+#### [Reinforce good behavior](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -945,7 +925,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980&t=147)** One day, I left one for an associate I had worked with for a long time.
 >
-> **[2:32](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980&t=152)** He came over to my desk as soon as he got into the office.
+> **[2:32](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980&t=152)** He came over to my desk as soon as he got into the [[Microsoft Office|office]].
 >
 > **[2:34](https://www.linkedin.com/learning/creating-a-high-performance-culture/reinforce-good-behavior?u=76281980&t=154)** He said, "I finally got one."
 >
@@ -981,14 +961,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - people (1)
 
-#### Correcting bad behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980)
+#### [Correcting bad behavior](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +991,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=59)** They'll believe there are no consequences for misbehavior, that can lead to more misbehavior or good people who support the culture are going to leave the organization.
 >
-> **[1:10](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=70)** If you take swift action when necessary it sends a strong message and discourages more bad behavior.
+> **[1:10](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=70)** If you take [[Swift (Programming Language)|swift]] action when necessary it sends a strong message and discourages more bad behavior.
 >
 > **[1:18](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=78)** People know you're serious about culture.
 >
@@ -1020,7 +999,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=84)** In one example of a leader doing what needed to be done to fix a problem, I know a CEO who had a vision of creating a long-term business with tons of value for shareholders.
 >
-> **[1:37](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=97)** He was willing to accept short term setbacks in terms of financial performance in order to build a strong and sustainable business.
+> **[1:37](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=97)** He was willing to accept short term setbacks in terms of financial performance in order to build a strong and [[Sustainable Business]].
 >
 > **[1:47](https://www.linkedin.com/learning/creating-a-high-performance-culture/correcting-bad-behavior?u=76281980&t=107)** A member of his senior executive team had a bunch of stock options that would vest in the next 12 to 24 months.
 >
@@ -1062,7 +1041,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), management (3), leadership (1), [[Swift (Programming Language)|Swift]] (1), [[Sustainable Business]] (1)
+> **Frameworks & Libraries:** [[Swift (Programming Language)|Swift]] (1), [[Sustainable Business]] (1)
 > **Env Vars:** ceo (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - when (1)
@@ -1072,8 +1051,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Taking small actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
+#### [Taking small actions](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1097,7 +1075,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=47)** I guess I'd say I'm responsible for us living our culture every day.
 >
-> **[0:53](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=53)** We had a great conversation about culture over the rest of dinner.
+> **[0:53](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=53)** We had a great conversation about culture over the [[Representational State Transfer (REST)|rest]] of dinner.
 >
 > **[0:57](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=57)** After dinner I learned he was the Chief operating officer at PetSmart, he understood that daily operations are a reflection of the organization's culture.
 >
@@ -1143,17 +1121,16 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=196)** What small actions can you take every day to reinforce your culture?
 >
-> **[3:22](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=202)** These small actions become the culture moments you can disseminate across the organization through blogs and newsletters and award ceremonies, through town halls and Q&A sessions to help people understand this is what we're talking about with culture.
+> **[3:22](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=202)** These small actions become the culture moments you can disseminate across the organization through blogs and [[Newsletters]] and award ceremonies, through town halls and Q&A sessions to help people understand this is what we're talking about with culture.
 >
 > **[3:39](https://www.linkedin.com/learning/creating-a-high-performance-culture/taking-small-actions-22389600?u=76281980&t=219)** Show them how that small behavior drives the bigger culture you're trying to build.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Representational State Transfer (REST)|Rest]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Newsletters]] (1)
 > **Speakers:** - if (1)
 
-#### Highlighting culture moments
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/highlighting-culture-moments-22387675?u=76281980)
+#### [Highlighting culture moments](https://www.linkedin.com/learning/creating-a-high-performance-culture/highlighting-culture-moments-22387675?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,8 +1177,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - while (1)
 
-#### Providing regular feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/providing-regular-feedback-22388722?u=76281980)
+#### [Providing regular feedback](https://www.linkedin.com/learning/creating-a-high-performance-culture/providing-regular-feedback-22388722?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,7 +1275,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), teams (1), management (1)
 > **CLI Commands:** make (2)
 > **Analogies:** imagine (2)
 > **Prerequisites:** set up (2)
@@ -1311,8 +1286,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overcoming common obstacles
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)
+#### [Overcoming common obstacles](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1372,7 +1346,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980&t=190)** He created a culture, in his unit, where it was expected that the sergeants would be micromanagers too.
 >
-> **[3:17](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980&t=197)** Those sergeants saw him yelling at them, so they yelled at their privates and the rest of their soldiers.
+> **[3:17](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980&t=197)** Those sergeants saw him yelling at them, so they yelled at their privates and the [[Representational State Transfer (REST)|rest]] of their soldiers.
 >
 > **[3:24](https://www.linkedin.com/learning/creating-a-high-performance-culture/overcoming-common-obstacles-22388725?u=76281980&t=204)** It was a pretty toxic environment.
 >
@@ -1424,13 +1398,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - you (1)
 
-#### Plan for a high-performance culture
-> [LinkedIn Learning](https://www.linkedin.com/learning/creating-a-high-performance-culture/plan-for-a-high-performance-culture?u=76281980)
+#### [Plan for a high-performance culture](https://www.linkedin.com/learning/creating-a-high-performance-culture/plan-for-a-high-performance-culture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1502,7 +1475,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - if (1)

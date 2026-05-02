@@ -94,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=15)** Finally, I had something that my American friends had had all their life.
 >
-> **[0:19](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=19)** I had no idea what social security meant and its privacy implications.
+> **[0:19](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=19)** I had no idea what social security meant and its [[Privacy]] implications.
 >
 > **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=23)** I ran to the lounge in the dorm where my friends and I typically hung out and showed them the card as if it were a gold medal or a transcript with all A's.
 >
@@ -121,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=57)** Today, companies and governments collect vast amounts of sensitive data from and about you and me.
 >
-> **[1:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=63)** Engineers and other specialists then analyze that data to build products and grow revenue.
+> **[1:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=63)** Engineers and other specialists then analyze that data to build [[Microsoft Products|products]] and grow revenue.
 >
 > **[1:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=68)** They even copy all that data from one system to the other.
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=88)** In order for companies to grow and build amazing products without harming their customers, it is critical that they carefully handle the data they collect and process.
 >
-> **[1:37](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=97)** And to do that they need to build a solid data governance strategy.
+> **[1:37](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=97)** And to do that they need to build a solid [[Data Governance]] strategy.
 >
 > **[1:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/welcome?u=76281980&t=101)** My name is Nishant Bjaharia and I believe that privacy is about transparency and trust.
 >
@@ -141,22 +140,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Security]] (4), [[Privacy]] (4), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Microsoft Products|Products]] (2), [[Data Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Who this course is for
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980)
+#### [Who this course is for](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course builds on my previous course on privacy, also hosted by LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=0)** - [Instructor] This course builds on my previous course on [[Privacy]], also hosted by [[LinkedIn]].
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=4)** That course is titled Implementing a Privacy Risk and Assurance Program, and that course focuses on building a cross-functional privacy program and was fairly introductory in nature.
 >
 > **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=13)** This course is intermediate and provide a strategy, as well as techniques for execution.
 >
-> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=18)** It answers a key question, how do you enable data collection without hurting privacy?
+> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=18)** It answers a key question, how do you enable [[Data Collection]] without hurting privacy?
 >
 > **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=24)** I would recommend that users have some hands-on familiarity with privacy concepts before taking on this course.
 >
@@ -164,21 +162,20 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=43)** This course will also be extremely helpful for privacy attorneys, regulators, and policy makers so that they can understand how systems and data interact from a privacy standpoint.
 >
-> **[0:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=54)** I would also highly recommend this course to journalists who cover data security and privacy.
+> **[0:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=54)** I would also highly recommend this course to journalists who cover [[Data Security]] and privacy.
 >
 > **[0:59](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/who-this-course-is-for?u=76281980&t=59)** At the end, they will better understand what building technical systems looks like from someone on the inside, someone who's been there and done that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), data (4), [[Security]] (2), [[LinkedIn]] (1), functional (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[LinkedIn]] (1), [[Data Collection]] (1), [[Data Security]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data classification as part of data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980)
+#### [Data classification as part of data governance](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=0)** - [Instructor] You may have heard a new phrase during the rounds especially in conversations around security and privacy, data governance.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=0)** - [Instructor] You may have heard a new phrase during the rounds especially in conversations around security and [[Privacy]], [[Data Governance]].
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=6)** For someone like me who has been in this space for a decade plus, hearing the phrase data governance is like hearing organic, locally sourced, artisan.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=53)** Data governance is key for privacy since it'll allow privacy and innovation to complement rather than contradict each other.
 >
-> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=60)** Which brings us to a definition of data classification itself.
+> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=60)** Which brings us to a definition of [[Data Classification]] itself.
 >
 > **[1:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=64)** Data classification is the iterative process to identify privacy risk posed by individual data, as well as various combinations of data so as to protect them with risk appropriate tools and processes.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=134)** Now I want to make two more important points.
 >
-> **[2:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=137)** First, data classification requires an understanding of regulatory risk as well as an understanding of data processing from a technical perspective.
+> **[2:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=137)** First, data classification requires an understanding of regulatory risk as well as an understanding of [[Data Processing]] from a technical perspective.
 >
 > **[2:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance?u=76281980&t=145)** Therefore, the classification process will be most effective when stakeholders ranging from engineers, data scientists, attorneys, security, et cetera work collaboratively and continuously.
 >
@@ -230,7 +227,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Privacy]] (12), [[Data Classification]] (8), business (4), [[Security]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Data Classification]] (8), [[Data Governance]] (6), [[Data Processing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -240,12 +237,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The legal and regulatory landscape
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
+#### [The legal and regulatory landscape](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980&t=0)** - [Instructor] So you care about privacy, but find privacy laws confusing, right?
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980&t=0)** - [Instructor] So you care about [[Privacy]], but find privacy laws confusing, right?
 >
 > **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-legal-and-regulatory-landscape?u=76281980&t=4)** Well, you are not alone, but after this chapter, you will be better prepared.
 >
@@ -307,7 +303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (14), data (9), [[Security]] (2), business (1)
+> **Frameworks & Libraries:** [[Privacy]] (14)
 > **Env Vars:** ccpa (4), gdpr (3), cpra (1), wpa (1), bipa (1)
 > **CLI Commands:** find (1)
 > **Versions:** 2.0 (1)
@@ -316,12 +312,11 @@ created: 2026-05-02
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy regulations and ambiguity
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980)
+#### [Privacy regulations and ambiguity](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=0)** - [Narrator] As a consumer, I want privacy laws that protect my data from harm or inappropriate use.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=0)** - [Narrator] As a consumer, I want [[Privacy]] laws that protect my data from harm or inappropriate use.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=6)** As a tech executive, whose employers depend upon customer data for growth, I'm even more invested in strong privacy laws.
 >
@@ -329,7 +324,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=17)** For any business to succeed, they need to grow their customer base and consumer engagement.
 >
-> **[0:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=22)** This requires building trust with customers, partners, and other stakeholders across the world.
+> **[0:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=22)** This requires [[Building Trust]] with customers, partners, and other stakeholders across the world.
 >
 > **[0:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=28)** Privacy laws that are confusing and/or too theoretical are often extremely hard to implement.
 >
@@ -347,7 +342,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=71)** It makes the privacy teams look like blockers and creates a narrative that engineers and product managers do not care about privacy.
 >
-> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=78)** This is why data classification is critical, not just from an end-result perspective, but also from a process standpoint.
+> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=78)** This is why [[Data Classification]] is critical, not just from an end-result perspective, but also from a process standpoint.
 >
 > **[1:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=85)** Data classification leads to three things.
 >
@@ -367,26 +362,25 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=131)** Your engineers, and your product managers and other innovators will not need to worry about the details of privacy regulations.
 >
-> **[2:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=138)** Instead, they can focus on building amazing products while still avoiding privacy mistakes and surprises.
+> **[2:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-regulations-and-ambiguity?u=76281980&t=138)** Instead, they can focus on building amazing [[Microsoft Products|products]] while still avoiding privacy mistakes and surprises.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (16), data (5), business (2), product (2), [[Data Classification]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (16), [[Data Classification]] (2), [[Building Trust]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Privacy laws and security
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980)
+#### [Privacy laws and security](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=0)** - [Instructor] Privacy and security are often thought of as interchangeable, or the same thing, but in reality, they are two different concepts, but very closely connected.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=0)** - [Instructor] [[Privacy]] and security are often thought of as interchangeable, or the same thing, but in reality, they are two different concepts, but very closely connected.
 >
 > **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=9)** Without security, it is difficult, almost impossible, to provide privacy.
 >
 > **[0:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=14)** However, sometimes the tools and data that are critical for security can make protecting privacy even more difficult.
 >
-> **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=21)** This is yet another reason why data classification is so critical.
+> **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=21)** This is yet another reason why [[Data Classification]] is so critical.
 >
 > **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=24)** You can factor in security concerns when you classify data.
 >
@@ -394,7 +388,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=34)** Here is a specific use case to consider.
 >
-> **[0:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=36)** Let's assume you build an app where you collect phone numbers and IP addresses to customize the user experience.
+> **[0:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=36)** Let's assume you build an app where you collect phone numbers and IP addresses to customize the [[User Experience (UX)|user experience]].
 >
 > **[0:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=43)** Your engineers and product managers would probably connect those data points to other customer data, like email, home address, et cetera, to drive user engagement.
 >
@@ -412,7 +406,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=88)** That is a situation where data collected for security is then used for personalization.
 >
-> **[1:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=93)** Fourth, how will you prove to customers and external auditors that you are transparent during data collection and effective in access management?
+> **[1:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=93)** Fourth, how will you prove to customers and external auditors that you are transparent during [[Data Collection]] and effective in access management?
 >
 > **[1:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=101)** The relationship between security and privacy has gotten globally more complicated, which makes classification even more critical.
 >
@@ -444,35 +438,34 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=183)** First, data deletion would almost certainly hurt the quality of data sets.
 >
-> **[3:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=188)** For example, the permanent deletion of underlying records connected to a user's activities, even where those activities are not identifying, could prevent the type of long-term analysis of behavior that could be used to identify new potential cybersecurity threats.
+> **[3:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=188)** For example, the permanent deletion of underlying records connected to a user's activities, even where those activities are not identifying, could prevent the type of long-term analysis of behavior that could be used to identify new potential [[Cybersecurity]] threats.
 >
 > **[3:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=203)** This lack of historical data could create, or perpetuate important security vulnerabilities over long periods of time.
 >
-> **[3:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=209)** The rest of this course will teach you how to address these challenges by helping classify data, and then inventory that data, so that you can protect privacy while retaining usability.
+> **[3:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-laws-and-security?u=76281980&t=209)** The [[Representational State Transfer (REST)|rest]] of this course will teach you how to address these challenges by helping classify data, and then inventory that data, so that you can protect privacy while retaining usability.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Security]] (12), [[Privacy]] (6), [[Data Classification]] (2), product (2)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Classification]] (2), [[User Experience (UX)|User experience]] (1), [[Data Collection]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** whois (2), gdpr (2), ccpa (1), eff (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Privacy and the user
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980)
+#### [Privacy and the user](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=0)** - [Instructor] With all this talk about big data and privacy laws, it is often easy to forget about the user.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=0)** - [Instructor] With all this talk about [[Big Data]] and [[Privacy]] laws, it is often easy to forget about the user.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=6)** The user, in my opinion, is the most important player.
 >
 > **[0:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=8)** Without them, there is no data, no engagement, no monetization and no growth.
 >
-> **[0:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=14)** It is critical that we consider how implementation of privacy tools could affect the end user experience.
+> **[0:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=14)** It is critical that we consider how implementation of privacy tools could affect the end [[User Experience (UX)|user experience]].
 >
-> **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=20)** Intelligent and thoughtful data classification can help balance user experience on the one hand, and privacy protections on the other.
+> **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=20)** Intelligent and thoughtful [[Data Classification]] can help balance user experience on the one hand, and privacy protections on the other.
 >
 > **[0:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/privacy-and-the-user?u=76281980&t=28)** As an example, let's consider a streaming service.
 >
@@ -514,17 +507,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (9), data (7), [[Data Classification]] (3), [[User Experience (UX)|User experience]] (2), business (2)
+> **Frameworks & Libraries:** [[Privacy]] (9), [[Data Classification]] (3), [[User Experience (UX)|User experience]] (2), [[Big Data]] (1)
 > **Analogies:** imagine (2), for example (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Data classification scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenge-data-classification-scenario?u=76281980)
+#### [Challenge: Data classification scenario](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenge-data-classification-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenge-data-classification-scenario?u=76281980&t=0)** - [Instructor] In order to understand how data classification helps protect privacy as well as enable the business, I will now offer you a real-world scenario that we will together work through.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenge-data-classification-scenario?u=76281980&t=0)** - [Instructor] In order to understand how [[Data Classification]] helps protect [[Privacy]] as well as enable the business, I will now offer you a real-world scenario that we will together work through.
 >
 > **[0:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenge-data-classification-scenario?u=76281980&t=14)** This is not a comprehensive end-to-end example but will give you a practical flavor about how data classification requires context and collaboration.
 >
@@ -544,19 +536,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Privacy]] (3), [[Data Classification]] (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Classification]] (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Data classification scenario
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980)
+#### [Solution: Data classification scenario](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=0)** - [Instructor] Before solving the Challenge Question, let's revisit some key details.
 >
-> **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=9)** The challenge here is to classify IP address based on privacy risk along three levels, ranging from level one to level three.
+> **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=9)** The challenge here is to classify IP address based on [[Privacy]] risk along three levels, ranging from level one to level three.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=16)** Level one maps to the highest privacy risk, and level three to the lowest privacy risk.
 >
@@ -608,7 +599,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=150)** So here are the key takeaways from this exercise.
 >
-> **[2:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=153)** Privacy is contextual, and therefore, so is data classification.
+> **[2:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=153)** Privacy is contextual, and therefore, so is [[Data Classification]].
 >
 > **[2:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solution-data-classification-scenario?u=76281980&t=156)** Data classification for a specific data element could depend on other data.
 >
@@ -618,7 +609,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (11), data (8), [[Data Classification]] (2), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (11), [[Data Classification]] (2)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** isp (1)
 > **Analogies:** for example (1)
@@ -631,12 +622,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How classification reduces risk around unstructured data
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
+#### [How classification reduces risk around unstructured data](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=0)** - [Lecturer] Data classification and inventory offer critical benefits to companies like the following.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=0)** - [Lecturer] [[Data Classification]] and inventory offer critical benefits to companies like the following.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=5)** First, insight into how a distributed and democratized engineering community within the company uses data.
 >
@@ -644,9 +634,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=17)** And third, the ability to tailor data protection techniques and tools, and then inform engineering roadmaps for the company as a whole.
 >
-> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=24)** Most companies start out with no process to manage their data collection, and then identify how much risk that data poses to security and privacy.
+> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=24)** Most companies start out with no process to manage their [[Data Collection]], and then identify how much risk that data poses to security and [[Privacy]].
 >
-> **[0:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=33)** This is especially a problem for unstructured data, which forms a big portion and a growing portion of what companies store in their data warehouses for analysis purposes.
+> **[0:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=33)** This is especially a problem for [[Unstructured Data]], which [[Forms]] a big portion and a growing portion of what companies store in their data warehouses for analysis purposes.
 >
 > **[0:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=42)** According to [TechRepublic.com](https://TechRepublic.com), nearly 80% of the data companies collect tends to be unstructured.
 >
@@ -654,9 +644,9 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=57)** Today, however, we have tools that analyze unstructured data.
 >
-> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=60)** These tools are powered by AI that is artificial intelligence, and these tools were created specifically for the purposes of driving insights from this unstructured data.
+> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=60)** These tools are powered by AI that is [[Artificial Intelligence (AI)|artificial intelligence]], and these tools were created specifically for the purposes of driving insights from this unstructured data.
 >
-> **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=70)** Without data management strategies and guidance in these areas, companies run the following risks.
+> **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=70)** Without [[Data Management]] strategies and guidance in these areas, companies run the following risks.
 >
 > **[1:15](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=75)** First, not capitalizing on the unstructured data they do collect.
 >
@@ -664,7 +654,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=81)** And third, storing more unstructured data than they really need, and thereby running up the risk of security and privacy and paying extra when it comes to data center costs.
 >
-> **[1:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=90)** So besides privacy, a sound data governance strategy that includes unstructured data is critical for business competitiveness as well.
+> **[1:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=90)** So besides privacy, a sound [[Data Governance]] strategy that includes unstructured data is critical for business competitiveness as well.
 >
 > **[1:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=98)** Remember, all these challenges exist even as companies are collecting more and more unstructured data as we speak.
 >
@@ -682,7 +672,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=128)** This is where you get into execution mode.
 >
-> **[2:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=130)** And finally, enforce data privacy tools, techniques, and standards.
+> **[2:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=130)** And finally, enforce [[Data Privacy]] tools, techniques, and standards.
 >
 > **[2:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-classification-reduces-risk-around-unstructured-data?u=76281980&t=134)** This is part of what I call continued execution.
 >
@@ -692,18 +682,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Unstructured Data]] (8), [[Privacy]] (6), [[Engineering]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (8), [[Privacy]] (5), [[Data Governance]] (3), [[Data Classification]] (1), [[Data Collection]] (1)
 > **URLs:** [techrepublic.com](https://techrepublic.com) (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [lecturer] (1)
 
-#### How can data classification help you?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980)
+#### [How can data classification help you?](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=0)** - When I started one of my earliest data governance programs, I got two flavors of complaints from C-level leaders.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=0)** - When I started one of my earliest [[Data Governance]] programs, I got two flavors of complaints from C-level leaders.
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=5)** First, they would tell me, we have so much data.
 >
@@ -727,30 +716,29 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=48)** First by identifying it, quantifying it, and finally by managing that risk with controls.
 >
-> **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=53)** The goal of a privacy program is to enable ethical and risk sensitive innovation.
+> **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=53)** The goal of a [[Privacy]] program is to enable ethical and risk sensitive innovation.
 >
 > **[0:57](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=57)** As a privacy leader, your job is to figure out exactly what the company needs to do and then find a way to do that with the least amount of data possible.
 >
-> **[1:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=66)** Therefore, our data classification process that continually refreshes and updates itself is critical.
+> **[1:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=66)** Therefore, our [[Data Classification]] process that continually refreshes and updates itself is critical.
 >
 > **[1:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-data-classification-help-you?u=76281980&t=71)** That way, you can build privacy and risk management tools that reflect the business and its continual evolution.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (3), [[Data Classification]] (1), management (1), business (1)
+> **Frameworks & Libraries:** [[Data Governance]] (4), [[Privacy]] (3), [[Data Classification]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - when (1)
 
-#### Data classification as part of data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980)
+#### [Data classification as part of data governance](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=0)** - [Instructor] Data classification can help drive a much more deterministic and data-driven access management program.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=0)** - [Instructor] [[Data Classification]] can help drive a much more deterministic and data-driven access management program.
 >
-> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=5)** This is one example of building sound data governance rather than making shortsighted decisions that will produce suboptimal long-term outcomes.
+> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=5)** This is one example of building sound [[Data Governance]] rather than making shortsighted decisions that will produce suboptimal long-term outcomes.
 >
-> **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=13)** Privacy programs could take two distinct access management approaches.
+> **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=13)** [[Privacy]] programs could take two distinct access management approaches.
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=17)** The first, a lockdown model, the second, a model I call tooling, trust, and training.
 >
@@ -772,7 +760,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=73)** First, tools like encryption, multifactor authentication, deletion APIs, et cetera.
 >
-> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=78)** Second, training and third, trust where you build an overall culture of trust that will honor customer data privacy.
+> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=78)** Second, training and third, trust where you build an overall culture of trust that will honor customer [[Data Privacy]].
 >
 > **[1:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=84)** The right approach is often a combination of both the lockdown model and the three T model.
 >
@@ -798,7 +786,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=136)** We can see why authentication and authorization are critical for privacy, but how can data classification help deploy these tools more strategically, thoughtfully and selectively?
 >
-> **[2:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=145)** More and more companies are moving to a DevOps model.
+> **[2:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=145)** More and more companies are moving to a [[DevOps]] model.
 >
 > **[2:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=148)** This model has changed digital business in important ways.
 >
@@ -806,7 +794,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=156)** This has made storing data much easier and as a result, companies collect even more data.
 >
-> **[2:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=161)** Further in the DevOps model, your infrastructure is powered by code rather than purely by hardware.
+> **[2:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=161)** Further in the DevOps model, your infrastructure is powered by code rather than purely by [[Hardware]].
 >
 > **[2:46](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=166)** This enables operations teams to configure machines as code.
 >
@@ -816,9 +804,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=182)** With a data classification in place, you can deploy a hybrid strategy that might look like the following, implementing role-based access controls or RBAC for user to system and system to system permissions management.
 >
-> **[3:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=194)** Second, keeping critical access keys out of code, off of hard drives and out of code repos like GitHub and GitLab.
+> **[3:14](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=194)** Second, keeping critical access keys out of code, off of hard drives and out of code repos like [[GitHub]] and GitLab.
 >
-> **[3:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=200)** Third, generating audit reports to demonstrate regulatory compliance around access and authorization.
+> **[3:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=200)** Third, generating audit reports to demonstrate [[Regulatory Compliance]] around access and authorization.
 >
 > **[3:26](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-classification-as-part-of-data-governance-19429699?u=76281980&t=206)** Fourth, managing SSH keys and/or secrets at scale across dynamic systems.
 >
@@ -830,7 +818,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Privacy]] (5), business (4), [[Data Classification]] (3), management (3)
+> **Frameworks & Libraries:** [[Privacy]] (4), [[Data Classification]] (3), [[DevOps]] (2), [[Data Governance]] (1), [[Data Privacy]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** rbac (1), ssh (1)
 > **Tools:** github (1), gitlab (1)
@@ -839,16 +827,15 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to shape the data classification process
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980)
+#### [How to shape the data classification process](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=0)** - [Instructor] Let's discuss how to shape an end-to-end data classification process that you can deploy and adapt in your company.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=0)** - [Instructor] Let's discuss how to shape an end-to-end [[Data Classification]] process that you can deploy and adapt in your company.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=6)** In modern businesses, data classification is typically the outcome of detailed investigations and negotiations.
 >
-> **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=13)** The key players include privacy legal, privacy engineers, security, engineering, product management, data scientists, et cetera.
+> **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=13)** The key players include [[Privacy]] legal, privacy engineers, security, engineering, product management, data scientists, et cetera.
 >
 > **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=20)** Although privacy is seen widely as a legal area, it would be a huge mistake to only let the legal team drive this classification process.
 >
@@ -860,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=46)** First, I worked with privacy legal to get a sense of how they would classify data.
 >
-> **[0:51](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=51)** Concurrently, I would also be working with engineering, product management and data science to understand what they needed for legitimate operational and analysis purposes.
+> **[0:51](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=51)** Concurrently, I would also be working with engineering, product management and [[Data Science]] to understand what they needed for legitimate operational and analysis purposes.
 >
 > **[0:59](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-to-shape-the-data-classification-process?u=76281980&t=59)** Second, I would produce a very initial classification based on the legal focused input from the attorneys and real world utilization input from engineering and other stakeholders.
 >
@@ -886,21 +873,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (6), data (5), [[Engineering]] (4), [[Data Classification]] (3), management (3)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Classification]] (3), [[Data Science]] (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges of data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980)
+#### [Challenges of data classification](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=0)** (upbeat lilting music)
 >
-> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=5)** - [Instructor] Let's walk through a detailed example of how privacy teams can face challenges before they can settle on a data classification.
+> **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=5)** - [Instructor] Let's walk through a detailed example of how [[Privacy]] teams can face challenges before they can settle on a [[Data Classification]].
 >
-> **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=11)** In our use case, the company runs online retail and provides customers the ability to browse, compare, and buy products, and then ship those products to chosen addresses.
+> **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=11)** In our use case, the company runs online retail and provides customers the ability to browse, compare, and buy [[Microsoft Products|products]], and then ship those products to chosen addresses.
 >
 > **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/challenges-of-data-classification?u=76281980&t=20)** Customers can access these products via an app or the website per their preferences.
 >
@@ -948,21 +934,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (5), [[Microsoft Products|Products]] (4), [[Privacy]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Privacy]] (2), [[Data Classification]] (2)
 > **Analogies:** imagine (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** coppa (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat lilting music) (1)
 
-#### Solutions for data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980)
+#### [Solutions for data classification](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980&t=0)** - [Instructor] To solve this challenge, let's now dive deep into the privacy risks and business needs to classify data using a more practical lens.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980&t=0)** - [Instructor] To solve this challenge, let's now dive deep into the [[Privacy]] risks and business needs to classify data using a more practical lens.
 >
-> **[0:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980&t=12)** The goal here, remember, is to finalize the data classification such that we can protect privacy and also optimize for customer enablement and business success.
+> **[0:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980&t=12)** The goal here, remember, is to finalize the [[Data Classification]] such that we can protect privacy and also optimize for customer enablement and business success.
 >
 > **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/solutions-for-data-classification?u=76281980&t=21)** This is where a cross-functional approach can create a win-win situation.
 >
@@ -1000,21 +985,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), business (7), [[Privacy]] (6), database (4), [[Data Classification]] (3)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Classification]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** gps (1)
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Thought experiment: A sequential data classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980)
+#### [Thought experiment: A sequential data classification](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=0)** - [Instructor] So here's a question.
 >
-> **[0:01](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=1)** Is there a situation where you can do data classification sequentially?
+> **[0:01](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=1)** Is there a situation where you can do [[Data Classification]] sequentially?
 >
 > **[0:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=5)** So why not have the legal team classify data and then have the technical team focus on all the implementation details?
 >
@@ -1036,7 +1020,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=41)** First, the process was very inefficient and took too long.
 >
-> **[0:45](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=45)** Second, part of a privacy of our culture requires creating a common connecting tissue between teams that may operate in distant silos but need to share context for collective progress.
+> **[0:45](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=45)** Second, part of a [[Privacy]] of our culture requires creating a common connecting tissue between teams that may operate in distant silos but need to share context for collective progress.
 >
 > **[0:55](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=55)** Trying to disconnect these teams is like postponing today's headache for tomorrow's migraine.
 >
@@ -1058,7 +1042,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=101)** This process is known as data inventory.
 >
-> **[1:44](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=104)** Data inventory is a second step in data governance.
+> **[1:44](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=104)** Data inventory is a second step in [[Data Governance]].
 >
 > **[1:47](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/thought-experiment-a-sequential-data-classification?u=76281980&t=107)** This process can be a bit technical and will require an infrastructural component.
 >
@@ -1066,7 +1050,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), teams (5), next (2), [[Engineering]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Data Classification]] (1), [[Data Governance]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1075,8 +1059,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data inventory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
+#### [What is data inventory?](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1094,7 +1077,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=29)** The most effective way to meaningfully inventory data is to tag it such that you will know not only what the data is but also the risk the data carries.
 >
-> **[0:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=38)** The good news here, and this is good news, is that you can use the data classification exercise we just completed as a starting point for the data tagging process.
+> **[0:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=38)** The good news here, and this is good news, is that you can use the [[Data Classification]] exercise we just completed as a starting point for the data tagging process.
 >
 > **[0:47](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=47)** In order to use your data classification or tag data in your systems, you should establish clear criteria for how to structure these tags.
 >
@@ -1104,13 +1087,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=65)** But let me explain this a bit more given the criticality of data inventory from a regulatory standpoint.
 >
-> **[1:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=71)** Note we are living in a world of regulatory flux with new laws, new regulations coming from many different directions at the same time.
+> **[1:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=71)** Note we are living in a world of regulatory [[Flux]] with new laws, new regulations coming from many different directions at the same time.
 >
 > **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=78)** It would not be feasible to have to constantly edit your tags every single time a new law is passed.
 >
 > **[1:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=84)** As we will soon see, data inventory is expensive in terms of time and infrastructure.
 >
-> **[1:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=89)** Additionally, the inventory tags will help you identify data and apply privacy tools accordingly.
+> **[1:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=89)** Additionally, the inventory tags will help you identify data and apply [[Privacy]] tools accordingly.
 >
 > **[1:34](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=94)** So repeatedly changing the tags will be expensive and disruptive.
 >
@@ -1126,36 +1109,35 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=130)** Here are some additional considerations to apply to the tags.
 >
-> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=133)** They should be applicable to all data in all states, like data at rest, data and transit data and use, et cetera.
+> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=133)** They should be applicable to all data in all states, like data at [[Representational State Transfer (REST)|rest]], data and transit data and use, et cetera.
 >
 > **[2:19](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=139)** Tag definition should be canonical and ambiguous and machine readable.
 >
 > **[2:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=143)** And finally, they could be used either individually, example, for an individual column or API parameter, or as a group that is represented as comma separated values where applicable like for an entire dataset or a full API.
 >
-> **[2:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=156)** We will now look at data inventory as part of overall data governance.
+> **[2:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/what-is-data-inventory?u=76281980&t=156)** We will now look at data inventory as part of overall [[Data Governance]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Data Classification]] (4), [[Privacy]] (3), api (2), [[Flux]] (1)
+> **Frameworks & Libraries:** [[Data Classification]] (4), [[Privacy]] (3), [[Flux]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Governance]] (1)
 > **Env Vars:** api (2), gdpr (1), ccpa (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory and data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980)
+#### [Data inventory and data governance](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=0)** - [Instructor] As I've said earlier, data privacy and business maturity both requires sound governance.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=0)** - [Instructor] As I've said earlier, [[Data Privacy]] and business maturity both requires sound governance.
 >
-> **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=6)** Two key components of data governance are understanding risks and mitigating those risks.
+> **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=6)** Two key components of [[Data Governance]] are understanding risks and mitigating those risks.
 >
-> **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=11)** Data classification helps us understand the risk, but that is not sufficient by itself, right?
+> **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=11)** [[Data Classification]] helps us understand the risk, but that is not sufficient by itself, right?
 >
 > **[0:15](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=15)** You need to modify the data to reflect the risk, which brings me to data inventory.
 >
-> **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=20)** Data inventory is, in the end, a tool that maps the privacy risk associated with the data to control the systems that would mitigate that risk.
+> **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=20)** Data inventory is, in the end, a tool that maps the [[Privacy]] risk associated with the data to control the systems that would mitigate that risk.
 >
 > **[0:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=29)** For example, let's assume you're implementing an encryption algorithm to protect sensitive data.
 >
@@ -1197,19 +1179,18 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=143)** It'll help avoid a situation where you have to choose between data privacy and business efficiency.
 >
-> **[2:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=148)** It'll also help avoid a situation where you feel like you have to choose between data protection and business innovation.
+> **[2:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=148)** It'll also help avoid a situation where you feel like you have to choose between data protection and [[Business Innovation]].
 >
 > **[2:35](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-data-governance?u=76281980&t=155)** To understand this even further, we will now look at some key building blocks for data inventory, like creating the right templates and the right tags.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), [[Privacy]] (6), business (6), [[Data Classification]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Governance]] (5), [[Privacy]] (4), [[Data Privacy]] (2), [[Data Classification]] (1), [[Business Innovation]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How can you prep for data inventory?
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980)
+#### [How can you prep for data inventory?](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,9 +1200,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=11)** In preparing your teams to inventory their data by storage system, you will want to hand them a template that looks like this.
 >
-> **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=17)** Each storage unit should be identified by storage system like Hive, Kafka, Vertica, SQL databases, S3 bucket, et cetera.
+> **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=17)** Each storage unit should be identified by storage system like Hive, Kafka, Vertica, [[SQL]] [[Databases]], S3 bucket, et cetera.
 >
-> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=24)** Each system should then be inventoried using the following attributes: storage size which includes volume, structured versus unstructured data by percentage, data classification tier, as we discussed before.
+> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=24)** Each system should then be inventoried using the following attributes: storage size which includes volume, structured versus [[Unstructured Data]] by percentage, [[Data Classification]] tier, as we discussed before.
 >
 > **[0:35](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=35)** Note: If your storage unit has data with multiple classifications, you probably should apply the most high-risk tier, but please consult your legal team for that.
 >
@@ -1243,7 +1224,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=89)** I'm not implying that someone collecting customer data now owns it.
 >
-> **[1:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=93)** As a privacy and security leader, I believe that the true owner of the data is a user whose data it is.
+> **[1:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=93)** As a [[Privacy]] and security leader, I believe that the true owner of the data is a user whose data it is.
 >
 > **[1:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/how-can-you-prep-for-data-inventory?u=76281980&t=98)** That said, in this context, a data owner is the person or team accountable to protect the data and use it in line with the expectations of the user whose data it is.
 >
@@ -1289,7 +1270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Data Classification]] (3), business (3), teams (2), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[Data Classification]] (3), [[Privacy]] (2), [[SQL]] (1), [[Databases]] (1), [[Unstructured Data]] (1)
 > **Definitions:** refers to (3), is a  (2)
 > **Analogies:** for example (4)
 > **Exercise Files:** template (2)
@@ -1303,12 +1284,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data inventory using manual resources and automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
+#### [Data inventory using manual resources and automation](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=0)** - [Host] Applying tags to data that reflect the privacy risk is complicated given the volume of data companies collect, the distributed nature of engineering teams, and of their data storage locations.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=0)** - [Host] Applying tags to data that reflect the [[Privacy]] risk is complicated given the volume of data companies collect, the distributed nature of engineering teams, and of their [[Data Storage]] locations.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=10)** One of the biggest decisions you'll need to make in the data inventory process is how you allocate the resources and specifically the mix of manual and automation resources.
 >
@@ -1330,7 +1310,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=70)** There may be a significant overlap between those two data sets, given how engineers and product managers use data to drive innovation and engagement.
 >
-> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=78)** You can then use that baseline to automate the rest of the data set.
+> **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=78)** You can then use that baseline to automate the [[Representational State Transfer (REST)|rest]] of the data set.
 >
 > **[1:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=82)** On the other hand, if you have more engineering resources than privacy resources, you could build basic automation to categorize some data sets.
 >
@@ -1342,26 +1322,25 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=106)** It is all part of the same governance strategy.
 >
-> **[1:49](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=109)** As I just mentioned, data inventory and data classification not only build your data governance, but follow similar execution cadences as well.
+> **[1:49](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=109)** As I just mentioned, data inventory and [[Data Classification]] not only build your [[Data Governance]], but follow similar execution cadences as well.
 >
 > **[1:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-using-manual-resources-and-automation?u=76281980&t=116)** I hope you now have a clear actionable plan to start with your data inventory process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Privacy]] (5), [[Automation]] (5), [[Engineering]] (3), teams (1)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Data Storage]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Data Classification]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [host] (1)
 
-#### The technical implementation of data inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980)
+#### [The technical implementation of data inventory](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=0)** - [Instructor] It is now time to look at the technical implementation of data inventory.
 >
-> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=4)** In order for data inventory to work, you will need a backend infrastructure that does the following: crawl various known data stores, discover in the process other data stores as well especially around unstructured data, make those data sets in those data stores and the corresponding metadata available for tagging, provide extensibility to add new metadata, and finally, support the categorization of personal data, that is the privacy specific use case.
+> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=4)** In order for data inventory to work, you will need a backend infrastructure that does the following: crawl various known data stores, discover in the process other data stores as well especially around [[Unstructured Data]], make those data sets in those data stores and the corresponding [[Metadata]] available for tagging, provide extensibility to add new metadata, and finally, support the categorization of personal data, that is the [[Privacy]] specific use case.
 >
 > **[0:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=28)** Now, let's look at the architecture in smaller chunks.
 >
@@ -1373,7 +1352,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=53)** The key reason why you need tools to discover data is that engineers and data scientists may not always know what data they collect.
 >
-> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=60)** A chunk of this data could enter your system, for example, as JSON blobs, so you should avoid relying on intuition and invest in tooling.
+> **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=60)** A chunk of this data could enter your system, for example, as [[JSON]] blobs, so you should avoid relying on intuition and invest in tooling.
 >
 > **[1:07](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=67)** As you can imagine, this process can be costly, another reason why you should do inventory as early in the data lifecycle as possible.
 >
@@ -1389,28 +1368,27 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=112)** This is where having discovered your data, you will now want to apply the tags.
 >
-> **[1:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=116)** As I will explain shortly, this process requires infrastructure, automation, human judgment and possibly even artificial intelligence.
+> **[1:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=116)** As I will explain shortly, this process requires infrastructure, automation, human judgment and possibly even [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[2:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=124)** Let's look at the sequence once again with all the steps spelled out at the same time.
 >
 > **[2:08](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=128)** This data inventory process is or at least could be expensive.
 >
-> **[2:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=132)** However, steps one through four are required by data science teams anyway for improving data quality and discovery as well.
+> **[2:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/the-technical-implementation-of-data-inventory?u=76281980&t=132)** However, steps one through four are required by [[Data Science]] teams anyway for improving [[Data Quality]] and discovery as well.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Metadata]] (4), [[Unstructured Data]] (2), next (2), [[Automation]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (4), [[Unstructured Data]] (2), [[Privacy]] (1), [[JSON]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** json (1), api (1)
 > **Analogies:** for example (1), imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980)
+#### [Data inventory architecture](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=0)** - [Instructor] Let's build the back-end system architecture for data inventory.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=0)** - [Instructor] Let's build the back-end [[System Architecture]] for data inventory.
 >
 > **[0:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=3)** This diagram lays out in detail the data inventory workflow.
 >
@@ -1420,7 +1398,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=16)** As I've explained before, the data inventory service that is box number one in this diagram is where data inventory actually happens.
 >
-> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=23)** This box represents the step where you add the tags to the data in line with your data classification.
+> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=23)** This box represents the step where you add the tags to the data in line with your [[Data Classification]].
 >
 > **[0:29](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=29)** Going forward, we will call this service DIS, that is short for data inventory service.
 >
@@ -1430,11 +1408,11 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=43)** The incoming data into your system is represented via box number two on the bottom left.
 >
-> **[0:48](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=48)** Let's assume you have one main API that makes all this data ingestion possible.
+> **[0:48](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=48)** Let's assume you have one main API that makes all this [[Data Ingestion]] possible.
 >
 > **[0:52](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=52)** I know it's simplistic, but this is just for the sake of the example here.
 >
-> **[0:55](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=55)** The data inventory service can obtain all the data and related metadata via crawlers, event listeners, and other devices.
+> **[0:55](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=55)** The data inventory service can obtain all the data and related [[Metadata]] via crawlers, event listeners, and other devices.
 >
 > **[1:01](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=61)** All of this tooling is represented in box number three.
 >
@@ -1510,13 +1488,13 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=263)** Now your data is ready to use with appropriate protections embedded into the data itself.
 >
-> **[4:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=268)** As I've said before, this is the extension of privacy by design into something I like to call privacy by data.
+> **[4:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=268)** As I've said before, this is the extension of [[Privacy]] by design into something I like to call privacy by data.
 >
 > **[4:33](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-architecture?u=76281980&t=273)** So this is the end-to-end walkthrough of data classification, data inventory, and finally, applying data protection techniques tailored to the risk in the data itself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (45), database (5), [[Data Classification]] (4), [[Metadata]] (2), business (2)
+> **Frameworks & Libraries:** [[Data Classification]] (4), [[Metadata]] (2), [[Privacy]] (2), [[System Architecture]] (1), [[Data Ingestion]] (1)
 > **Env Vars:** dis (9), api (1)
 > **Definitions:** is a  (3), short for (1)
 > **CLI Commands:** make (3)
@@ -1525,14 +1503,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory metadata
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980)
+#### [Data inventory metadata](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=0)** - [Instructor] Data inventory infrastructure needs two critical attributes to be successful.
 >
-> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=4)** First, we need a way to capture as much metadata as possible so that data is classified correctly.
+> **[0:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=4)** First, we need a way to capture as much [[Metadata]] as possible so that data is classified correctly.
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=10)** And second, we need consistent metadata definitions across all sources of data.
 >
@@ -1540,13 +1517,13 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=17)** In order to produce accurate results, DIS needs to span not only datasets but all data entities.
 >
-> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=23)** It needs to capture metadata about online, offline and real-time datasets and other data artifacts, such as ML features, business metrics, dashboards, et cetera.
+> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=23)** It needs to capture metadata about online, offline and [[Real-Time]] datasets and other data artifacts, such as ML features, [[Business Metrics]], [[Dashboards]], et cetera.
 >
-> **[0:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=32)** It must also collect information from services, such as data lineage and other infrastructure components.
+> **[0:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=32)** It must also collect information from services, such as [[Data Lineage]] and other infrastructure components.
 >
 > **[0:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=38)** All of this investment reflects a singular point.
 >
-> **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=40)** Just as companies have built an infrastructure to harvest and collect data, they must now invest infrastructure resources in handling this data based on what their data is and the attendant privacy and security risks.
+> **[0:40](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=40)** Just as companies have built an infrastructure to harvest and collect data, they must now invest infrastructure resources in handling this data based on what their data is and the attendant [[Privacy]] and security risks.
 >
 > **[0:52](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=52)** So far, we've talked about discovering and tagging data.
 >
@@ -1558,7 +1535,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=64)** As you structure your backend, I would recommend that you use a taxonomy-like structure with entity and value types to define metadata.
 >
-> **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=70)** In this example, the MySQL table and relational database are defined as entity types since they're an abstraction of a physical data entity and UUID and region are defined as value types.
+> **[1:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=70)** In this example, the [[MySQL]] table and relational database are defined as entity types since they're an abstraction of a physical data entity and UUID and region are defined as value types.
 >
 > **[1:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=81)** The MySQL table is defined as a relational database and the type of its name is a UUID value by design.
 >
@@ -1576,7 +1553,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=129)** This is very critical, especially for companies starting out after a ton of data has been collected.
 >
-> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=133)** You can also use event-based listeners for near real-time metadata collection to capture time-sensitive information, such as data quality or metadata versioning.
+> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=133)** You can also use event-based listeners for near real-time metadata collection to capture time-sensitive information, such as [[Data Quality]] or metadata versioning.
 >
 > **[2:22](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-metadata?u=76281980&t=142)** This way we can notify data users in a timely manner.
 >
@@ -1594,15 +1571,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Metadata]] (15), database (3), [[Real-Time]] (2), [[MySQL]] (2)
+> **Frameworks & Libraries:** [[Metadata]] (15), [[Real-Time]] (2), [[MySQL]] (2), [[Business Metrics]] (1), [[Dashboards]] (1)
 > **CLI Commands:** make (2), mysql (2), find (1)
 > **Env Vars:** dis (2), uuid (2)
 > **Definitions:** defined as (3), is a  (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory and use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980)
+#### [Data inventory and use cases](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1604,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=60)** Once you have finished this work, you should be able to achieve three key goals.
 >
-> **[1:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=63)** First, you should be able to understand the composition of your data sources to help prioritize data governance efforts based on risk exposure.
+> **[1:03](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=63)** First, you should be able to understand the composition of your data sources to help prioritize [[Data Governance]] efforts based on risk exposure.
 >
 > **[1:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=72)** Second, you should be able to understand sources of these data so as to drive better education and data minimization efforts, which means collecting only what you need.
 >
@@ -1638,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=87)** Notice that this builds on what we just saw with level one, except we go just a bit deeper.
 >
-> **[1:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=92)** With databases and data centers, we would operate at the column level rather than just at the database instance level.
+> **[1:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=92)** With [[Databases]] and data centers, we would operate at the column level rather than just at the database instance level.
 >
 > **[1:37](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=97)** And when it comes to cloud data, we don't just tag data at the bucket level, but at the data object level The more complex your data and the faster your data size grows, the more expensive the leap will be going from level one to level two.
 >
@@ -1672,7 +1648,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=185)** First, you should be able to download customer data and second, you should be able to delete customer data.
 >
-> **[3:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=191)** Unstructured data in low latency and high availability databases has made innovation much easier and much faster.
+> **[3:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=191)** [[Unstructured Data]] in low latency and high availability databases has made innovation much easier and much faster.
 >
 > **[3:17](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=197)** This data breaks a traditional key value structure of data into several small components for analysis purposes.
 >
@@ -1682,11 +1658,11 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=215)** Now, with laws like GDPR and CCPA and CPRA you have to be able to target data individually for deletion, encryption, and portability.
 >
-> **[3:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=223)** Modern distributed systems, were not set up to do this at scale and level three inventory is a down payment necessary unless you want to keep investing in massive amounts of hardware when operations slow down to crawl.
+> **[3:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-and-use-cases?u=76281980&t=223)** Modern distributed systems, were not set up to do this at scale and level three inventory is a down payment necessary unless you want to keep investing in massive amounts of [[Hardware]] when operations slow down to crawl.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), database (3), [[Databases]] (2), next (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Data Governance]] (1), [[Unstructured Data]] (1), [[Hardware]] (1)
 > **Env Vars:** ccpa (2), cpra (2), gpdr (1), gdpr (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -1694,8 +1670,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating data inventory outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980)
+#### [Evaluating data inventory outcomes](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1705,7 +1680,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=10)** One key area that we have touched on fairly lightly so far is the machine learning driven processes that tag data based on rules agreed upon by engineers, data scientists, members of the legal team, et cetera.
 >
-> **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=21)** Remember, the data classification work itself could be a bit abstract.
+> **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=21)** Remember, the [[Data Classification]] work itself could be a bit abstract.
 >
 > **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=24)** It involves making rules, but not actually applying those rules to real data in your systems.
 >
@@ -1743,9 +1718,9 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=112)** There is a lot of learning and improvisation required here, but you should invest in it since your data protection strategy depends upon accurately and correctly and consistently tagging your data.
 >
-> **[2:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=122)** And I know this makes me sound like a broken record, but this is exactly why you should invest in inventory early on in the data collection funnel process because you do not want to be cutting corners when your data volume is too high.
+> **[2:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=122)** And I know this makes me sound like a broken record, but this is exactly why you should invest in inventory early on in the [[Data Collection]] funnel process because you do not want to be cutting corners when your data volume is too high.
 >
-> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=133)** Also, you do not want to do this in a rush after making mistakes after a privacy issue has arisen because nobody wins and all you do is create panic in the company.
+> **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=133)** Also, you do not want to do this in a rush after making mistakes after a [[Privacy]] issue has arisen because nobody wins and all you do is create panic in the company.
 >
 > **[2:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/evaluating-data-inventory-outcomes?u=76281980&t=141)** This work is extremely strategic and extremely cross-functional, and requires a lot of planning.
 >
@@ -1753,7 +1728,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), business (1), [[Data Classification]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Data Classification]] (1), [[Data Collection]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (3)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [lecturer] (1)
@@ -1763,8 +1738,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Centralized vs. decentralized
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
+#### [Centralized vs. decentralized](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1774,7 +1748,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=20)** In my opinion, these are both imperfect choices, so let's look at some tips on how to approach these choices and prepare ahead of time.
 >
-> **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=27)** Initially, your leaders both on the privacy side and elsewhere, may prefer the centralized model.
+> **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=27)** Initially, your leaders both on the [[Privacy]] side and elsewhere, may prefer the centralized model.
 >
 > **[0:32](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=32)** And of course, this model does offer several critical advantages.
 >
@@ -1796,13 +1770,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=71)** Each team can own its own chunk of the categorization problem so they can optimize for velocity and accuracy, but not have to worry about any other team's dependencies.
 >
-> **[1:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=81)** Each team can follow its own bespoke process for categorization, thereby continuing a model that serves modern agile companies very well.
+> **[1:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=81)** Each team can follow its own bespoke process for categorization, thereby continuing a model that serves modern [[Agile Development|agile]] companies very well.
 >
 > **[1:28](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=88)** But of course, that approach has its own disadvantages.
 >
 > **[1:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=90)** The siloed nature of the work could make it very hard to build a more business-wide understanding of the data and the risk.
 >
-> **[1:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=96)** Second, unlike many product features, data governance has to be enforced centrally so you can protect the user and the business end-to-end.
+> **[1:36](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=96)** Second, unlike many product features, [[Data Governance]] has to be enforced centrally so you can protect the user and the business end-to-end.
 >
 > **[1:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/centralized-vs-decentralized?u=76281980&t=103)** This is not about protecting one silo, but the entire company and the user end-to-end.
 >
@@ -1812,16 +1786,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), data (4), business (3), [[Automation]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[Agile Development|Agile]] (1), [[Data Governance]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data inventory successes
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980)
+#### [Data inventory successes](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=0)** - [Narrator] Given the volume of work and investment I've described, data governance must sound incredibly daunting.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=0)** - [Narrator] Given the volume of work and investment I've described, [[Data Governance]] must sound incredibly daunting.
 >
 > **[0:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=6)** So how do you measure the effectiveness of governance inventory?
 >
@@ -1829,7 +1802,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=13)** So what anecdotal science can you watch for and make sure that your strategy is actually working?
 >
-> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=18)** Remember, the strategic goal behind data inventory is to reduce privacy risk and protect your users and their data.
+> **[0:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=18)** Remember, the strategic goal behind data inventory is to reduce [[Privacy]] risk and protect your users and their data.
 >
 > **[0:25](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=25)** So here are some anecdotal and cultural science to look for based on my years of experience in this domain.
 >
@@ -1839,9 +1812,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=42)** Third, when is the inflection point when you stop discovering data that some ingenious engineer or scientist had tucked away someplace else?
 >
-> **[0:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=50)** Fourth, what does privacy do to help data quality?
+> **[0:50](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=50)** Fourth, what does privacy do to help [[Data Quality]]?
 >
-> **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=53)** Is there common cause to be made with data science and platform teams?
+> **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=53)** Is there common cause to be made with [[Data Science]] and platform teams?
 >
 > **[0:56](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=56)** In this list, the first two are negative where the last two are more positive.
 >
@@ -1851,7 +1824,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=66)** And second, what do you do when your ability to delete data at scale is dwarfed by your ability to collect data at scale?
 >
-> **[1:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=72)** Once you have sound governance, that should lead to more thoughtful data collection where you only collect what you know you need.
+> **[1:12](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=72)** Once you have sound governance, that should lead to more thoughtful [[Data Collection]] where you only collect what you know you need.
 >
 > **[1:18](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-successes?u=76281980&t=78)** Also, getting a better sense of how much risk you're holding onto by way of data should lead to more timely deletion of that data and also anonymization of other sensitive data.
 >
@@ -1885,12 +1858,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Privacy]] (6), teams (5), business (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (6), [[Data Governance]] (3), [[Data Science]] (3), [[Data Quality]] (2), [[Data Collection]] (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Data inventory challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980)
+#### [Data inventory challenges](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1900,7 +1872,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=21)** Well, let's see why that is.
 >
-> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=23)** First, privacy usually almost certainly lags behind growth.
+> **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=23)** First, [[Privacy]] usually almost certainly lags behind growth.
 >
 > **[0:27](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=27)** Privacy and security specialists are never early hires.
 >
@@ -1934,7 +1906,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=122)** Privacy, on the other hand, needs consistency.
 >
-> **[2:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=124)** Someone in France who uses the English version of your online service should get the same level of privacy protection as someone in France who uses the French version.
+> **[2:04](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=124)** Someone in France who uses the English version of your online service should get the same level of [[Privacy Protection]] as someone in France who uses the French version.
 >
 > **[2:13](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/data-inventory-challenges?u=76281980&t=133)** Additionally, if any of your teams face privacy challenges, your company as a whole will suffer and not just that specific team.
 >
@@ -1962,13 +1934,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (12), data (7), teams (4), [[Security]] (2), business (2)
+> **Frameworks & Libraries:** [[Privacy]] (12), [[Privacy Protection]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting executive buy-in for data inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980)
+#### [Getting executive buy-in for data inventory](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1984,9 +1955,9 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=23)** It's on your screen right now.
 >
-> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=24)** This website lists fines levied upon companies globally by regulators for inadequate data governance practices.
+> **[0:24](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=24)** This website lists fines levied upon companies globally by regulators for inadequate [[Data Governance]] practices.
 >
-> **[0:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=30)** This is the privacy version of the Hall of Shame with company names listed right beside the violation, the fine, and the regulator who levied the fine.
+> **[0:30](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=30)** This is the [[Privacy]] version of the Hall of Shame with company names listed right beside the violation, the fine, and the regulator who levied the fine.
 >
 > **[0:38](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=38)** Another possible resource could be visuals like this one which shows that even when the number of breaches go down, it is possible for bad actors to steal data and even more data as time goes on.
 >
@@ -2018,7 +1989,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=114)** Most of these systems are not equipped to process data on a per-user basis.
 >
-> **[1:59](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=119)** This is in fact the beauty of unstructured data.
+> **[1:59](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=119)** This is in fact the beauty of [[Unstructured Data]].
 >
 > **[2:02](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=122)** That is what makes low-latency systems like Cassandra so attractive.
 >
@@ -2038,7 +2009,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=163)** You cannot improvise on the spot when it comes to data inventory.
 >
-> **[2:46](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=166)** Moving this work to early in the pipeline, therefore enables you to drive decision-making better at the backend.
+> **[2:46](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=166)** Moving this work to early in the pipeline, therefore enables you to drive [[Decision-Making]] better at the backend.
 >
 > **[2:51](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/getting-executive-buy-in-for-data-inventory?u=76281980&t=171)** Let me walk you through the key points you want to consider as you have these conversations.
 >
@@ -2066,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Privacy]] (8), business (3), [[Security]] (2), teams (2)
+> **Frameworks & Libraries:** [[Privacy]] (8), [[Data Governance]] (3), [[Unstructured Data]] (1), [[Decision-Making]] (1)
 > **URLs:** [enforcementtracker.com](https://enforcementtracker.com) (1)
 > **Env Vars:** ipo (1)
 > **Exercise Files:** template (1)
@@ -2078,16 +2049,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=0)** - In this course, we have seen how data governance is becoming extremely critical for companies as they look to stay ahead of privacy regulations.
+> **[0:00](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=0)** - In this course, we have seen how [[Data Governance]] is becoming extremely critical for companies as they look to stay ahead of [[Privacy]] regulations.
 >
 > **[0:07](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=7)** But equally important are two other reasons.
 >
-> **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=9)** First, it starts giving you some control of an IT and development culture that otherwise makes any central data management very difficult.
+> **[0:09](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=9)** First, it starts giving you some control of an IT and development culture that otherwise makes any central [[Data Management]] very difficult.
 >
 > **[0:16](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=16)** Second, you will struggle to secure and protect your user's trust without data governance.
 >
@@ -2099,9 +2069,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=37)** I would recommend using the techniques we have discussed in this course and going further when possible.
 >
-> **[0:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=42)** The costs will decrease once you start and you will even have much better products to show for it.
+> **[0:42](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=42)** The costs will decrease once you start and you will even have much better [[Microsoft Products|products]] to show for it.
 >
-> **[0:47](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=47)** I also wanted to offer a heads-up for my upcoming course on building a privacy governance program for safer data sharing.
+> **[0:47](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=47)** I also wanted to offer a heads-up for my upcoming course on building a privacy governance program for safer [[Data Sharing]].
 >
 > **[0:53](https://www.linkedin.com/learning/privacy-governance-and-compliance-data-classification-and-inventory/next-steps?u=76281980&t=53)** That course will build on this one and offer hands-on training on data sharing with privacy techniques.
 >
@@ -2111,7 +2081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Privacy]] (3), business (2), management (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (3), [[Privacy]] (3), [[Data Sharing]] (3), [[Data Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - in (1)
 

@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Digital transformation and your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
+#### [Digital transformation and your business](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980&t=0)** - [Phil] Digital transformation is a huge topic in business today, but there's still some confusion over what digital transformation actually means and how it impacts businesses, not only in terms of technology, but also in terms of business practices and human behavior and interactions.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980&t=0)** - [Phil] [[Digital Transformation]] is a huge topic in business today, but there's still some confusion over what digital transformation actually means and how it impacts businesses, not only in terms of technology, but also in terms of business practices and human behavior and interactions.
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/digital-transformation-and-your-business?u=76281980&t=18)** Hi, my name is Phil Gold.
 >
@@ -112,7 +111,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), business (2)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [phil] (1)
@@ -122,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making data and systems accessible via the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
+#### [Making data and systems accessible via the cloud](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=0)** - [Narrator] One of the primary drivers of digital transformation is ensuring that your information is available in digital form.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=0)** - [Narrator] One of the primary drivers of [[Digital Transformation]] is ensuring that your information is available in digital form.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=8)** Part of this involves taking all those old filing cabinets full of paper and converting the contents into electronic formats that can be used with modern systems, but it's not just about converting data.
 >
@@ -141,7 +139,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=47)** However, as internet access became more widespread and technology advanced, people began to realize there might be a better way to handle all of this.
 >
-> **[0:57](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=57)** The term cloud might seem ubiquitous now, but it didn't really enter the mainstream until August of 2006 when Google's then CEO, Eric Schmidt announced it at an industry event.
+> **[0:57](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=57)** The term cloud might seem ubiquitous now, but it didn't really enter the mainstream until August of 2006 when [[Google]]'s then CEO, Eric Schmidt announced it at an industry event.
 >
 > **[1:11](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=71)** The initial idea was straightforward.
 >
@@ -155,23 +153,23 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=92)** You can scale your storage needs up or down at a moment's notice.
 >
-> **[1:37](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=97)** This is often referred to as infrastructure as a service or IS, but cloud computing isn't just about storage anymore.
+> **[1:37](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=97)** This is often referred to as [[IaaS|infrastructure as a service]] or IS, but [[Cloud Computing]] isn't just about storage anymore.
 >
 > **[1:46](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=106)** There's a whole suite of services that you can tap into these days.
 >
 > **[1:50](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=110)** I won't dive into too much detail here, but let's touch on a couple of key things available to you.
 >
-> **[1:57](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=117)** Software as a service, or SaaS, refers to applications that run online instead of on individual computers.
+> **[1:57](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=117)** [[SaaS|Software as a service]], or [[SaaS]], refers to applications that run online instead of on individual computers.
 >
-> **[2:05](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=125)** Tools like Microsoft 365, Google Workspace and Salesforce are popular examples.
+> **[2:05](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=125)** Tools like [[Microsoft 365]], Google Workspace and Salesforce are popular examples.
 >
 > **[2:11](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=131)** They simplify onboarding and reduce the workload for IT teams by cutting down on setup time.
 >
-> **[2:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=138)** Then there's platform as a service, or PaaS.
+> **[2:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=138)** Then there's [[PaaS|platform as a service]], or [[PaaS]].
 >
 > **[2:21](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=141)** Essentially, PaaS provides online environments and tools for developers, offering shared space to work in, collaborate, and even deliver applications from.
 >
-> **[2:31](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=151)** Think tools like Google Cloud, Microsoft Azure, or Amazon Web Services for good PaaS examples.
+> **[2:31](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=151)** Think tools like [[Google Cloud Platform (GCP)|Google Cloud]], [[Microsoft Azure]], or [[Amazon Web Services (AWS)|Amazon Web Services]] for good PaaS examples.
 >
 > **[2:40](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-data-and-systems-accessible-via-the-cloud?u=76281980&t=160)** One of the biggest benefits of cloud computing is that it allows access to data and systems from any device with an internet connection, opening up more possibilities for remote workforces.
 >
@@ -185,22 +183,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (4), [[PaaS]] (3), [[Google]] (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[PaaS]] (3), [[Google]] (2), [[Digital Transformation]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Definitions:** refers to (1), is a  (1)
 > **Env Vars:** ceo (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [narrator] (1)
 
-#### Linking elements together via the Internet of Things
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980)
+#### [Linking elements together via the Internet of Things](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=0)** - [Instructor] In today's hyperconnected world, digital transformation reaches beyond just computers.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=0)** - [Instructor] In today's hyperconnected world, [[Digital Transformation]] reaches beyond just computers.
 >
 > **[0:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=6)** These days, more devices are connected to the internet than ever before.
 >
-> **[0:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=10)** Welcome to the Internet of Things.
+> **[0:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=10)** Welcome to the [[IoT|Internet of Things]].
 >
 > **[0:14](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=14)** So what exactly is the Internet of Things?
 >
@@ -214,7 +211,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=50)** As time has passed, the number of connected devices and the number of different ways to connect has exploded, providing even more interaction with data through various devices.
 >
-> **[1:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=61)** On the consumer side, you might already be using IoT systems at home, like controlling heating, lighting, security, or entertainment from your phone, your tablet, or your computer, whether you're on the couch or halfway around the world.
+> **[1:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=61)** On the consumer side, you might already be using [[IoT]] systems at home, like controlling heating, lighting, security, or entertainment from your phone, your tablet, or your computer, whether you're on the couch or halfway around the world.
 >
 > **[1:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=77)** Businesses have also embraced IoT principles and adapted them for more complex environments.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=184)** Neglecting this has already led to some unfortunate situations where hackers gain control of systems, holding them ransom or causing chaos.
 >
-> **[3:15](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=195)** Privacy is another issue.
+> **[3:15](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=195)** [[Privacy]] is another issue.
 >
 > **[3:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/linking-elements-together-via-the-internet-of-things?u=76281980&t=197)** More connected devices mean more data is collected about you and your customers, and that data needs to be protected.
 >
@@ -258,25 +255,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[IoT]] (6), [[Internet of Things (IoT)|Internet of things]] (4), [[Security]] (3), [[Privacy]] (2)
+> **Frameworks & Libraries:** [[IoT]] (6), [[IoT|Internet of things]] (4), [[Privacy]] (2), [[Digital Transformation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** mit (1)
 > **Definitions:** known as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Big data: Mining for insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980)
+#### [Big data: Mining for insights](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=0)** - [Instructor] Here's a digital transformation reality check: Online storage is cheap, and getting cheaper by the day.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=0)** - [Instructor] Here's a [[Digital Transformation]] reality check: Online storage is cheap, and getting cheaper by the day.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=7)** The cloud offers us virtually unlimited space for data, but with this abundance comes a new challenge: How do you find what you're looking for?
 >
 > **[0:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=17)** And, sometimes, how do you even know what to look for?
 >
-> **[0:21](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=21)** If you've ever wondered what people mean by big data, well, this is it.
+> **[0:21](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=21)** If you've ever wondered what people mean by [[Big Data]], well, this is it.
 >
 > **[0:26](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=26)** The constant increase in available information creates endless opportunities to collect, analyze, and interpret data.
 >
@@ -300,13 +296,13 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=97)** Now, for the downside, more data means more responsibility to keep it secure.
 >
-> **[1:44](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=104)** We'll cover data security in detail in another video, but it's a crucial aspect to consider from the start.
+> **[1:44](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=104)** We'll cover [[Data Security]] in detail in another video, but it's a crucial aspect to consider from the start.
 >
 > **[1:51](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=111)** Given the sheer volume of information available, working with big data manually is impractical.
 >
 > **[1:58](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=118)** Thankfully, there are powerful tools that allow you to pull in data from multiple sources and analyze it side by side.
 >
-> **[2:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=126)** Tools like Microsoft Power Pivot, Power BI, and Tableau let you visualize data through graphs, charts, and dashboards, providing various ways to see and interpret your information.
+> **[2:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=126)** Tools like [[Microsoft]] Power Pivot, [[Microsoft Power BI|Power BI]], and [[Tableau]] let you visualize data through graphs, charts, and [[Dashboards]], providing various ways to see and interpret your information.
 >
 > **[2:19](https://www.linkedin.com/learning/digital-transformation-tips-24514659/big-data-mining-for-insights?u=76281980&t=139)** Even better, these tools let you adjust variables in real time, instantly updating outputs.
 >
@@ -322,32 +318,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Big Data]] (4), [[Digital Transformation]] (3), business (2), power (2)
+> **Frameworks & Libraries:** [[Big Data]] (4), [[Digital Transformation]] (3), [[Data Security]] (1), [[Microsoft]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing cloud information
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980)
+#### [Securing cloud information](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=0)** - [Instructor] As more organizations turn to cloud computing to manage data, it's crucial to address a few overlooked truths about data security.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=0)** - [Instructor] As more organizations turn to [[Cloud Computing]] to manage data, it's crucial to address a few overlooked truths about [[Data Security]].
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=9)** While state-of-the-art tech fortifies the cloud, lapses in user practices can undermine the whole structure.
 >
-> **[0:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=17)** Things like weak passwords, or unmonitored permissions, or users falling for phishing schemes.
+> **[0:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=17)** Things like weak passwords, or unmonitored permissions, or users falling for [[Phishing]] schemes.
 >
 > **[0:24](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=24)** Did you know that over 80% of data breaches stem from user behavior rather than technology failing?
 >
 > **[0:31](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=31)** So effective data security requires a layered approach, focusing on both robust technology and mitigating human error.
 >
-> **[0:42](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=42)** Encryption is a keystone of cloud security.
+> **[0:42](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=42)** Encryption is a keystone of [[Cloud Security]].
 >
 > **[0:45](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=45)** By converting data into a coded format, encryption keeps information protected during storage and transit.
 >
-> **[0:52](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=52)** This defends sensitive data from unauthorized access, whether the data is stored in databases or moving across a network.
+> **[0:52](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=52)** This defends sensitive data from unauthorized access, whether the data is stored in [[Databases]] or moving across a network.
 >
-> **[1:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=60)** A good example is Amazon Web Services Key Management Service or KMS, which enables companies to encrypt data across a range of applications.
+> **[1:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=60)** A good example is [[Amazon Web Services (AWS)|Amazon Web Services]] Key Management Service or KMS, which enables companies to encrypt data across a range of applications.
 >
 > **[1:12](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=72)** With KMS, each dataset can have its own encryption key, allowing for intricate access control.
 >
@@ -361,7 +356,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=106)** Most cloud breaches involve compromise credentials.
 >
-> **[1:50](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=110)** Multifactor authentication reduces this risk by requiring users to provide multiple forms of identification like a password and a texted code or biometric data like a fingerprint.
+> **[1:50](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=110)** Multifactor authentication reduces this risk by requiring users to provide multiple [[Forms]] of identification like a password and a texted code or biometric data like a fingerprint.
 >
 > **[2:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=123)** MFA provides its worth in situations where employees connect from unsecured devices or personal networks, a password might be easy to compromise.
 >
@@ -371,11 +366,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=149)** Zero-trust security shifts this model by assuming that every user and device is a potential threat, requiring strict verification at every access point.
 >
-> **[2:40](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=160)** Platforms like Google's BeyondCorp implement zero-trust principles by requiring every device and user, internal or external, to be continuously verified.
+> **[2:40](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=160)** Platforms like [[Google]]'s BeyondCorp implement zero-trust principles by requiring every device and user, internal or external, to be continuously verified.
 >
 > **[2:52](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=172)** Zero trust is effective not only for guarding sensitive internal information, but also in ensuring secure data exchanges.
 >
-> **[3:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=181)** By applying zero-trust principles to APIs, application programming interfaces, organizations can tightly monitor and control data that flows in and out of their cloud systems.
+> **[3:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=181)** By applying zero-trust principles to APIs, [[Application Programming Interfaces (API)|application programming interfaces]], organizations can tightly monitor and control data that flows in and out of their cloud systems.
 >
 > **[3:13](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=193)** User behavior analytics or UBA tools monitor activity to detect anomalies such as unusual login locations or large data downloads at odd hours, which could indicate malicious access.
 >
@@ -383,24 +378,23 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=216)** When suspicious activity is flagged, automated alerts allow teams to respond before a potential breach can escalate.
 >
-> **[3:44](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=224)** One more technology worth mentioning is blockchain, once highly touted as the next revolution in data security.
+> **[3:44](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=224)** One more technology worth mentioning is [[Blockchain]], once highly touted as the next revolution in data security.
 >
 > **[3:52](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=232)** In a nutshell, blockchain keeps each data block with a unique timestamp and record of participants, making it nearly impossible to alter once added.
 >
-> **[4:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=243)** Though widely used in cryptocurrency and financial services, blockchain is typically too expensive and complex for broader use in general business data security.
+> **[4:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=243)** Though widely used in [[Cryptocurrency]] and financial services, blockchain is typically too expensive and complex for broader use in general business data security.
 >
 > **[4:14](https://www.linkedin.com/learning/digital-transformation-tips-24514659/securing-cloud-information?u=76281980&t=254)** As technology evolves, so do the threats, but by pairing security technology with vigilant proactive practices, organizations can realize the full potential of the cloud, safe in the knowledge that their data is as secure as possible.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), cloud (10), [[Security]] (10), [[Blockchain]] (3), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (4), [[Blockchain]] (3), [[Cloud Computing]] (1), [[Phishing]] (1), [[Cloud Security]] (1)
 > **Env Vars:** kms (2), mfa (2), uba (1)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automating for efficiency and accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980)
+#### [Automating for efficiency and accuracy](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -420,9 +414,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=53)** By automating these, businesses not only cut down on time-consuming activities, they also reduce the chances of error or omission.
 >
-> **[1:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=62)** Power Automate is integrated throughout Microsoft 365.
+> **[1:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=62)** Power Automate is integrated throughout [[Microsoft 365]].
 >
-> **[1:07](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=67)** You can build flows using the app or directly from within SharePoint, OneDrive, or some of the other 365 apps.
+> **[1:07](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=67)** You can build flows using the app or directly from within [[SharePoint]], [[Microsoft OneDrive|OneDrive]], or some of the other 365 apps.
 >
 > **[1:15](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=75)** Power Automate even lets you integrate your automated routines with external apps like Twitter and Salesforce.
 >
@@ -436,23 +430,23 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=105)** You might also check out my course, "Power Automate: Quick Tips" for some ideas on flows that you can put together, or check out the course library online for more information.
 >
-> **[1:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=116)** Power Apps is another Microsoft tool that allows you to create customized applications without needing to code.
+> **[1:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=116)** Power Apps is another [[Microsoft]] tool that allows you to create customized applications without needing to code.
 >
 > **[2:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=123)** Think of it as a way to create apps for specific tasks like managing an inventory, collecting customer feedback, or even tracking project progress.
 >
-> **[2:12](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=132)** The apps can then be used by employees or customers, making it possible to improve data collection in organization without requiring advanced IT knowledge.
+> **[2:12](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=132)** The apps can then be used by employees or customers, making it possible to improve [[Data Collection]] in organization without requiring advanced IT knowledge.
 >
 > **[2:22](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=142)** For example, a retail team could create a simple app to track stock levels in Power Apps, allowing employees to update inventory directly from their phones.
 >
-> **[2:32](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=152)** The data for the inventory could be contained within SharePoint, Excel, or some external data source.
+> **[2:32](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=152)** The data for the inventory could be contained within SharePoint, [[Microsoft Excel|Excel]], or some external data source.
 >
-> **[2:38](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=158)** With Power Apps, you can also create customized input forms and generate reports.
+> **[2:38](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=158)** With Power Apps, you can also create customized input [[Forms]] and generate reports.
 >
 > **[2:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=163)** I've got a course "Power Apps: Building Data-Driven Apps with Excel," which will lead you through creating an application from existing data in Excel.
 >
 > **[2:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=173)** Additionally, there are, once again, a number of other courses on Power Apps in the online course library.
 >
-> **[3:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=180)** For those who may not use Microsoft products or want a more general tool, Zapier is a popular alternative that connects with thousands of apps.
+> **[3:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=180)** For those who may not use [[Microsoft Products]] or want a more general tool, Zapier is a popular alternative that connects with thousands of apps.
 >
 > **[3:09](https://www.linkedin.com/learning/digital-transformation-tips-24514659/automating-for-efficiency-and-accuracy?u=76281980&t=189)** Zapier operates similarly to Power Automate, allowing users to build Zaps, or automated workflows, between apps.
 >
@@ -466,7 +460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (13), [[Automation]] (6), data (5), [[Microsoft Excel|Excel]] (3), [[SharePoint]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[SharePoint]] (2), [[Microsoft]] (2), [[Microsoft 365]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **Analogies:** for example (2), think of it as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -478,12 +472,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build leadership buy-in for transformation success
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
+#### [Build leadership buy-in for transformation success](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980&t=0)** - [Instructor] Here's the truth, employees watch their leaders for clues on what to do, and when it comes to digital transformation, leadership buy-in isn't just a nice to have, it's essential.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980&t=0)** - [Instructor] Here's the truth, employees watch their leaders for clues on what to do, and when it comes to [[Digital Transformation]], leadership buy-in isn't just a nice to have, it's essential.
 >
 > **[0:14](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-leadership-buy-in-for-transformation-success?u=76281980&t=14)** Employees look to leaders to see how serious any new initiative is.
 >
@@ -547,19 +540,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (5), leadership (2), teams (1), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (5)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streamline transitions with clear processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/streamline-transitions-with-clear-processes?u=76281980)
+#### [Streamline transitions with clear processes](https://www.linkedin.com/learning/digital-transformation-tips-24514659/streamline-transitions-with-clear-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/streamline-transitions-with-clear-processes?u=76281980&t=0)** - [Instructor] If you're looking to make digital transformation successful in your organization, here's my advice.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/streamline-transitions-with-clear-processes?u=76281980&t=0)** - [Instructor] If you're looking to make [[Digital Transformation]] successful in your organization, here's my advice.
 >
 > **[0:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/streamline-transitions-with-clear-processes?u=76281980&t=6)** Start by making sure your current processes are well-defined.
 >
@@ -607,18 +599,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (3), teams (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (3)
 > **Env Vars:** xyz (5)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verify available time and funding for transformation readiness
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/verify-available-time-and-funding-for-transformation-readiness?u=76281980)
+#### [Verify available time and funding for transformation readiness](https://www.linkedin.com/learning/digital-transformation-tips-24514659/verify-available-time-and-funding-for-transformation-readiness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/verify-available-time-and-funding-for-transformation-readiness?u=76281980&t=0)** - [Presenter] One of the biggest risks in digital transformation is underestimating the time and money required to see it through.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/verify-available-time-and-funding-for-transformation-readiness?u=76281980&t=0)** - [Presenter] One of the biggest risks in [[Digital Transformation]] is underestimating the time and money required to see it through.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/verify-available-time-and-funding-for-transformation-readiness?u=76281980&t=8)** I think there's a real tendency for this to happen, and many companies fall into this trap, leading to partially completed transformations that leave processes in limbo, frustrate employees, and diminish credibility.
 >
@@ -670,23 +661,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), [[Digital Transformation]] (4), business (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (4)
 > **CLI Commands:** make (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Avoid transition overload that can stall adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980)
+#### [Avoid transition overload that can stall adoption](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=0)** - [Narrator] Now, here's something to keep in mind when planning your digital transformation program: How much else in your organization is in flux at the same time?
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=0)** - [Narrator] Now, here's something to keep in mind when planning your [[Digital Transformation]] program: How much else in your organization is in [[Flux]] at the same time?
 >
 > **[0:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=10)** Are there departmental reorganizations going on?
 >
 > **[0:13](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=13)** Are there new markets that are opening up?
 >
-> **[0:15](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=15)** Is your company releasing new products that are going to require time and attention?
+> **[0:15](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=15)** Is your company releasing new [[Microsoft Products|products]] that are going to require time and attention?
 >
 > **[0:20](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=20)** In short, is anything competing with your program for focus and resources?
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=123)** Then start laying out your findings in a way that helps you see the bigger picture.
 >
-> **[2:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=128)** Creating portfolio dashboards or heat maps that show where change efforts are concentrated can make it easier to grasp where things are piling up.
+> **[2:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=128)** Creating portfolio [[Dashboards]] or heat maps that show where change efforts are concentrated can make it easier to grasp where things are piling up.
 >
 > **[2:17](https://www.linkedin.com/learning/digital-transformation-tips-24514659/avoid-transition-overload-that-can-stall-adoption?u=76281980&t=137)** With this overview, you can prioritize initiatives so people aren't hit with too much change all at once.
 >
@@ -728,7 +718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2), management (2), [[Flux]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Flux]] (1), [[Microsoft Products|Products]] (1), [[Dashboards]] (1)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
@@ -739,12 +729,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know what problems you're trying to solve
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
+#### [Know what problems you're trying to solve](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980&t=0)** - [Instructor] Starting a digital transformation without a plan is a bit like setting out to walk from New York to Paris without a map.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980&t=0)** - [Instructor] Starting a [[Digital Transformation]] without a plan is a bit like setting out to walk from New York to Paris without a map.
 >
 > **[0:09](https://www.linkedin.com/learning/digital-transformation-tips-24514659/know-what-problems-you-re-trying-to-solve?u=76281980&t=9)** Sure, you might make it there eventually, but you'll take a lot of wrong turns, waste a ton of time and energy, and probably find yourself needing some essential tools along the way that will wind up being critical later, say, like, maybe a boat.
 >
@@ -786,18 +775,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Engineer transitions with the goal in mind
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/engineer-transitions-with-the-goal-in-mind?u=76281980)
+#### [Engineer transitions with the goal in mind](https://www.linkedin.com/learning/digital-transformation-tips-24514659/engineer-transitions-with-the-goal-in-mind?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/engineer-transitions-with-the-goal-in-mind?u=76281980&t=0)** - [Instructor] I've touched on this before, but it's worth making explicit without solid planning upfront your digital transformation program is unlikely to succeed.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/engineer-transitions-with-the-goal-in-mind?u=76281980&t=0)** - [Instructor] I've touched on this before, but it's worth making explicit without solid planning upfront your [[Digital Transformation]] program is unlikely to succeed.
 >
 > **[0:11](https://www.linkedin.com/learning/digital-transformation-tips-24514659/engineer-transitions-with-the-goal-in-mind?u=76281980&t=11)** Start by asking what exactly is the outcome you're working towards?
 >
@@ -845,12 +833,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), next (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Secure the right team for a smooth digital transition
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/secure-the-right-team-for-a-smooth-digital-transition?u=76281980)
+#### [Secure the right team for a smooth digital transition](https://www.linkedin.com/learning/digital-transformation-tips-24514659/secure-the-right-team-for-a-smooth-digital-transition?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -898,15 +885,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (2), make sure you have (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Close technology gaps to enable modern tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980)
+#### [Close technology gaps to enable modern tools](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -914,7 +899,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980&t=10)** One essential factor that often gets overlooked is whether your infrastructure can support the planned changes.
 >
-> **[0:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980&t=18)** Think about components like network switches, routers, and even cabling.
+> **[0:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980&t=18)** Think about components like [[Network Switches]], routers, and even cabling.
 >
 > **[0:22](https://www.linkedin.com/learning/digital-transformation-tips-24514659/close-technology-gaps-to-enable-modern-tools?u=76281980&t=22)** While virtual storage and servers offer a lot of flexibility, they don't cover every need, and they too require planning and setup.
 >
@@ -967,8 +952,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the communication needs of your participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
+#### [Understanding the communication needs of your participants](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1004,7 +988,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980&t=94)** Now, for this transition to go smoothly, they'll need training on the new system as well as support in developing routines for researching cases and communicating with others to get the information they need.
 >
-> **[1:46](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980&t=106)** And since they'll probably be interacting with customers more frequently, some customer relations training could be a smart idea too.
+> **[1:46](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980&t=106)** And since they'll probably be interacting with customers more frequently, some [[Customer Relations]] training could be a smart idea too.
 >
 > **[1:55](https://www.linkedin.com/learning/digital-transformation-tips-24514659/understanding-the-communication-needs-of-your-participants?u=76281980&t=115)** As you can see, without taking the time to think through the development of these personas, it's easy to miss key information and training needs for separate groups.
 >
@@ -1028,15 +1012,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Customer Relations]] (1), teams (1), management (1)
+> **Frameworks & Libraries:** [[Customer Relations]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build audience-centric transformation communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980)
+#### [Build audience-centric transformation communications](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1050,7 +1033,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=42)** Let's take our finance team example again.
 >
-> **[0:45](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=45)** We've already determined that they'll need training on new tools, some guidance on communication, and with influencing others for research purposes and a foundation in customer service and conflict resolution.
+> **[0:45](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=45)** We've already determined that they'll need training on new tools, some guidance on communication, and with [[Influencing Others]] for research purposes and a foundation in customer service and conflict resolution.
 >
 > **[0:58](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=58)** But when should each piece of this training happen for the best results?
 >
@@ -1070,7 +1053,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=113)** Which channels or methods will you use?
 >
-> **[1:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=116)** Will you send emails, hold in-person meetings or virtual training sessions, publish a newsletter, or perhaps use an in-house website or business social tool like Microsoft's Viva Engage, or with Slack?
+> **[1:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=116)** Will you send emails, hold in-person meetings or virtual training sessions, publish a newsletter, or perhaps use an in-house website or business social tool like [[Microsoft]]'s Viva Engage, or with [[Slack]]?
 >
 > **[2:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/build-audience-centric-transformation-communications?u=76281980&t=130)** There are a lot of options, and each one might be right for different audiences.
 >
@@ -1090,13 +1073,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Influencing Others]] (1), next (1), business (1), [[Microsoft]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Influencing Others]] (1), [[Microsoft]] (1), [[Slack]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keep employees informed and engaged with up-to-date training materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/keep-employees-informed-and-engaged-with-up-to-date-training-materials?u=76281980)
+#### [Keep employees informed and engaged with up-to-date training materials](https://www.linkedin.com/learning/digital-transformation-tips-24514659/keep-employees-informed-and-engaged-with-up-to-date-training-materials?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1152,14 +1134,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is an  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Establish feedback loops for continuous improvement
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980)
+#### [Establish feedback loops for continuous improvement](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1181,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=53)** Just make sure that you're responding consistently and in a timely manner, or you could lose credibility.
 >
-> **[1:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=61)** If your organization uses an enterprise social platform, like Viva, Exchange, or Slack, these tools are also excellent for engagement.
+> **[1:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=61)** If your organization uses an enterprise social platform, like Viva, Exchange, or [[Slack]], these tools are also excellent for engagement.
 >
 > **[1:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=70)** You can post updates, answer questions, and even host live Q&A sessions to keep everyone in the loop.
 >
@@ -1191,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=89)** Surveys remain one of the best ways to get structured feedback.
 >
-> **[1:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=93)** Microsoft Forms and SharePoint offer basic survey capabilities for those using Office 365.
+> **[1:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=93)** [[Microsoft]] [[Forms]] and [[SharePoint]] offer basic survey capabilities for those using [[Microsoft Office|Office]] 365.
 >
 > **[1:40](https://www.linkedin.com/learning/digital-transformation-tips-24514659/establish-feedback-loops-for-continuous-improvement?u=76281980&t=100)** These are very cost-effective options for many organizations.
 >
@@ -1207,7 +1187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (1), leadership (1), [[Microsoft]] (1), [[Forms]] (1), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Microsoft]] (1), [[Forms]] (1), [[SharePoint]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** slack (1)
 > **Prerequisites:** set up (1)
@@ -1218,14 +1198,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Measuring your digital transformation against metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
+#### [Measuring your digital transformation against metrics](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980&t=0)** - [Instructor] Here's something important to understand.
 >
-> **[0:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980&t=2)** Digital transformation isn't a one-time event.
+> **[0:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980&t=2)** [[Digital Transformation]] isn't a one-time event.
 >
 > **[0:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/measuring-your-digital-transformation-against-metrics?u=76281980&t=6)** It's an ongoing effort that extends well beyond the initial launch.
 >
@@ -1269,21 +1248,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Digital Transformation]] (1), business (1), leadership (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ongoing ways to advocate for your digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980)
+#### [Ongoing ways to advocate for your digital transformation](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=0)** - [Presenter] One point that I cannot stress enough.
 >
-> **[0:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=3)** Digital transformation is not a simple flip-the-switch event.
+> **[0:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=3)** [[Digital Transformation]] is not a simple flip-the-switch event.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=7)** It's a gradual, carefully timed process with both pre-launch and post-launch activities, and it's more than just introducing new technology.
 >
@@ -1299,7 +1277,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=56)** So, how can you keep advocating for your transformation effectively?
 >
-> **[1:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=60)** Well, we've already covered some communication channels to use during the transformation, like emails, newsletters, enterprise social networks, and websites.
+> **[1:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=60)** Well, we've already covered some communication channels to use during the transformation, like emails, [[Newsletters]], enterprise social networks, and websites.
 >
 > **[1:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=70)** Keep using these, but shift your messages to focus on wins and positive milestones.
 >
@@ -1311,9 +1289,9 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=95)** There are also other channels to consider.
 >
-> **[1:38](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=98)** Large group meetings are great for spreading the word, but don't underestimate the impact of smaller, informal meetings, clinics, and drop-in sessions.
+> **[1:38](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=98)** Large group meetings are great for spreading the [[Microsoft Word|word]], but don't underestimate the impact of smaller, informal meetings, clinics, and drop-in sessions.
 >
-> **[1:47](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=107)** These provide people with a comfortable space to ask questions, share concerns, and get real-time feedback.
+> **[1:47](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=107)** These provide people with a comfortable space to ask questions, share concerns, and get [[Real-Time]] feedback.
 >
 > **[1:54](https://www.linkedin.com/learning/digital-transformation-tips-24514659/ongoing-ways-to-advocate-for-your-digital-transformation?u=76281980&t=114)** And if you're receiving negative feedback, make sure you're listening.
 >
@@ -1339,8 +1317,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Foster a continuous learning culture to engage employees
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980)
+#### [Foster a continuous learning culture to engage employees](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1354,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980&t=30)** Having a continuous learning mindset supported with time and resources empowers employees to build skills, prepare for future needs, and help the company stay flexible and responsive.
 >
-> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980&t=43)** Today's resources for learning are more varied and available than ever, for instance, LinkedIn Learning offers thousands of courses on business and technical topics from data analysis to management.
+> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980&t=43)** Today's resources for learning are more varied and available than ever, for instance, [[LinkedIn]] Learning offers thousands of courses on business and technical topics from data analysis to management.
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/foster-a-continuous-learning-culture-to-engage-employees?u=76281980&t=56)** Many companies have enterprise licenses with LinkedIn, so employees can access these resources whenever needed.
 >
@@ -1382,17 +1359,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), business (1), data (1), management (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** picture (1), for instance (1)
 > **Speakers:** - [presenter] (1)
 
-#### Embrace continuous improvement in digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980)
+#### [Embrace continuous improvement in digital transformation](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=0)** - [Speaker] Not everything will go as planned in your digital transformation.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=0)** - [Speaker] Not everything will go as planned in your [[Digital Transformation]].
 >
 > **[0:05](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=5)** Even with the best preparation, it's likely that you'll encounter some surprises along the way.
 >
@@ -1404,7 +1380,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=33)** That's why large projects benefit from a continuous improvement mindset, which allows you to monitor, measure, and adjust as needed.
 >
-> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=43)** This approach aligns with lean and agile project methodologies, which use the Plan-Do-Check-Act or PDCA cycle as a framework for adaptive planning.
+> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=43)** This approach aligns with lean and [[Agile Development|agile]] project methodologies, which use the Plan-Do-Check-Act or PDCA cycle as a framework for adaptive planning.
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/embrace-continuous-improvement-in-digital-transformation?u=76281980&t=56)** PDCA originally developed by quality management, pioneer, W. Edwards Deming, consists of four phases.
 >
@@ -1434,12 +1410,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Digital Transformation]] (1), prompt (1), [[Agile Development|Agile]] (1), data (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** pdca (4)
 > **Speakers:** - [speaker] (1)
 
-#### Celebrate digital transformation success
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980)
+#### [Celebrate digital transformation success](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1479,11 +1454,11 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=97)** Let team members speak, share stories, and acknowledge key milestones and contributions.
 >
-> **[1:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=103)** Having leadership share in the celebration adds weight and signals that digital transformation is part of the organization's larger goals.
+> **[1:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=103)** Having leadership share in the celebration adds weight and signals that [[Digital Transformation]] is part of the organization's larger goals.
 >
 > **[1:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=113)** Distribute recognition.
 >
-> **[1:55](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=115)** Use awards, certificates, or even small tokens of appreciation for team members and participants.
+> **[1:55](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=115)** Use awards, certificates, or even small [[Tokens]] of appreciation for team members and participants.
 >
 > **[2:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/celebrate-digital-transformation-success?u=76281980&t=121)** These gestures don't need to be grand, but they serve as tangible reminders of their hard work.
 >
@@ -1507,7 +1482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), teams (1), leadership (1), [[Digital Transformation]] (1), [[Tokens]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1), [[Tokens]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1515,12 +1490,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Chat vs. email: Use the right tool for better communication
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
+#### [Chat vs. email: Use the right tool for better communication](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=0)** - [Presenter] In this last section of the course, I want to talk about a few practical steps you can take to support digital transformation in your organization.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=0)** - [Presenter] In this last section of the course, I want to talk about a few practical steps you can take to support [[Digital Transformation]] in your organization.
 >
 > **[0:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=8)** These actions, though seemingly small, can make a big difference and set a positive example for others in your company.
 >
@@ -1536,13 +1510,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=58)** If there's a recurring report published every Tuesday, for example, it's better to post it in a central location, like a shared folder or a dedicated project hub, instead of sending out email notifications every week, this way employees can check it on their own time without having their workflow interrupted.
 >
-> **[1:19](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=79)** Email also isn't ideal for real-time discussions, especially when multiple people are involved.
+> **[1:19](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=79)** Email also isn't ideal for [[Real-Time]] discussions, especially when multiple people are involved.
 >
 > **[1:26](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=86)** Group email threads can get confusing fast, especially if it attachments are added and people start making changes to documents.
 >
 > **[1:35](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=95)** Reading through all these emails to stay current is both inefficient and prone to error.
 >
-> **[1:41](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=101)** In my opinion, conversational exchanges are much better suited to chat or messaging tools like Slack or Microsoft Teams, these tools keep the entire conversation in one place, whether two or 20 people are involved.
+> **[1:41](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=101)** In my opinion, conversational exchanges are much better suited to chat or messaging tools like [[Slack]] or [[Microsoft Teams]], these tools keep the entire conversation in one place, whether two or 20 people are involved.
 >
 > **[1:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/chat-vs-email-use-the-right-tool-for-better-communication?u=76281980&t=116)** They allow for real time responses making it easier to bring people in as needed or remove them when their involvement ends.
 >
@@ -1556,7 +1530,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (2), business (1), [[Real-Time]] (1), [[Slack]] (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (2), [[Real-Time]] (1), [[Slack]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
@@ -1564,8 +1538,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [presenter] (1)
 
-#### Links vs. attachments: Enhance collaboration and accuracy
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980)
+#### [Links vs. attachments: Enhance collaboration and accuracy](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1593,11 +1566,11 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=93)** This not only helps maintain a single version of the document, but also allows you to manage who has access to it.
 >
-> **[1:41](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=101)** Some widely used tools for this purpose include Dropbox, Box, Google Drive, Microsoft OneDrive, and SharePoint.
+> **[1:41](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=101)** Some widely used tools for this purpose include Dropbox, Box, [[Google Drive]], [[Microsoft OneDrive]], and [[SharePoint]].
 >
-> **[1:49](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=109)** I often lean towards Microsoft tools like SharePoint and OneDrive because they integrate well with the other Office apps, but Google Drive and others are equally effective for sharing and collaboration.
+> **[1:49](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=109)** I often lean towards [[Microsoft]] tools like SharePoint and [[Microsoft OneDrive|OneDrive]] because they integrate well with the other [[Microsoft Office|Office]] apps, but Google Drive and others are equally effective for sharing and collaboration.
 >
-> **[2:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=123)** Many chat and messaging tools such as Slack and Microsoft Teams also allow for file sharing with permission controls, making it easier to keep all discussions and documents in one place.
+> **[2:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=123)** Many chat and messaging tools such as [[Slack]] and [[Microsoft Teams]] also allow for file sharing with permission controls, making it easier to keep all discussions and documents in one place.
 >
 > **[2:16](https://www.linkedin.com/learning/digital-transformation-tips-24514659/links-vs-attachments-enhance-collaboration-and-accuracy?u=76281980&t=136)** Plus, many of these tools now support co-editing, where multiple people can work on the same document simultaneously and see each other's changes in real time.
 >
@@ -1609,15 +1582,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google Drive]] (2), [[SharePoint]] (2), hit (1), data (1), [[Microsoft OneDrive]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[SharePoint]] (2), [[Microsoft OneDrive]] (1), [[Microsoft]] (1), [[Microsoft OneDrive|Onedrive]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting the most out of video conferencing
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/getting-the-most-out-of-video-conferencing?u=76281980)
+#### [Getting the most out of video conferencing](https://www.linkedin.com/learning/digital-transformation-tips-24514659/getting-the-most-out-of-video-conferencing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1677,28 +1649,27 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/digital-transformation-tips-24514659/getting-the-most-out-of-video-conferencing?u=76281980&t=173)** By following these straightforward practices, you'll help create an environment where video calls are both effective and respectful.
 >
-> **[3:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/getting-the-most-out-of-video-conferencing?u=76281980&t=182)** Embracing good habits not only makes meetings run smoothly, but also helps everyone feel more engaged and connected, an essential part of digital transformation.
+> **[3:02](https://www.linkedin.com/learning/digital-transformation-tips-24514659/getting-the-most-out-of-video-conferencing?u=76281980&t=182)** Embracing good habits not only makes meetings run smoothly, but also helps everyone feel more engaged and connected, an essential part of [[Digital Transformation]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Best Practices:** remember to (1), rule of thumb (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### The AI revolution in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980)
+#### [The AI revolution in the workplace](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=0)** - [Instructor] Artificial intelligence is everywhere in business conversations these days, and with good reason.
+> **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=0)** - [Instructor] [[Artificial Intelligence (AI)|Artificial intelligence]] is everywhere in business conversations these days, and with good reason.
 >
 > **[0:07](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=7)** AI has the potential to change how we work.
 >
 > **[0:10](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=10)** Now, no one knows exactly how much AI is going to change things.
 >
-> **[0:16](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=16)** Like blockchain before it, AI is getting a lot of attention, but will it live up to the hype?
+> **[0:16](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=16)** Like [[Blockchain]] before it, AI is getting a lot of attention, but will it live up to the hype?
 >
 > **[0:22](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=22)** Will there be a burst to the AI bubble?
 >
@@ -1706,9 +1677,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=33)** Today, AI is helping businesses make data-driven decisions and work more effectively.
 >
-> **[0:39](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=39)** One popular use of AI is predictive analytics.
+> **[0:39](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=39)** One popular use of AI is [[Predictive Analytics]].
 >
-> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=43)** By analyzing past data, businesses can make accurate forecasts about customer demand, helping retail companies plan stock levels more effectively and avoid overstocking or running out of products.
+> **[0:43](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=43)** By analyzing past data, businesses can make accurate forecasts about customer demand, helping retail companies plan stock levels more effectively and avoid overstocking or running out of [[Microsoft Products|products]].
 >
 > **[0:56](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=56)** AI is also transforming customer service.
 >
@@ -1716,9 +1687,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=66)** These bots provide instant answers, freeing up human agents for complex concerns.
 >
-> **[1:12](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=72)** Thanks to natural language processing, AI chatbots can understand and respond more accurately, making for a smoother customer experience.
+> **[1:12](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=72)** Thanks to [[Natural Language Processing (NLP)|natural language processing]], AI chatbots can understand and respond more accurately, making for a smoother customer experience.
 >
-> **[1:23](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=83)** In human resources, AI is helping with recruitment.
+> **[1:23](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=83)** In [[Human Resources (HR)|human resources]], AI is helping with recruitment.
 >
 > **[1:27](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=87)** Automated tools can scan resumes for key skills, sorting candidates based on job requirements.
 >
@@ -1738,7 +1709,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=133)** By analyzing transaction patterns, AI can spot irregularities and flag them for review, helping companies catch fraud early.
 >
-> **[2:23](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=143)** Other industries, like insurance, are using AI for robotic process automation, or RPA, where software manages repetitive rule-based tasks, such as data entry and claims processing.
+> **[2:23](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=143)** Other industries, like insurance, are using AI for [[Robotic Process Automation (RPA)|robotic process automation]], or RPA, where software manages repetitive rule-based tasks, such as data entry and claims processing.
 >
 > **[2:37](https://www.linkedin.com/learning/digital-transformation-tips-24514659/the-ai-revolution-in-the-workplace?u=76281980&t=157)** This frees employees to focus on higher-level work, cutting down on errors and improving efficiency.
 >
@@ -1756,21 +1727,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), data (4), teams (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), business (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Blockchain]] (1), [[Predictive Analytics]] (1), [[Microsoft Products|Products]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Env Vars:** rpa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing AI solutions for business success
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980)
+#### [Implementing AI solutions for business success](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=0)** - [Narrator] AI's growing presence in business is bringing innovation, but it's also raising important ethical questions.
 >
-> **[0:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=8)** While AI can boost productivity, customer service, and efficiency, its use also raises concerns about privacy, bias, and transparency.
+> **[0:08](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=8)** While AI can boost productivity, customer service, and efficiency, its use also raises concerns about [[Privacy]], bias, and transparency.
 >
 > **[0:18](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=18)** Let's look at where AI is already working well in business, then dive into some of the ethical considerations that need attention for successful, responsible implementation.
 >
@@ -1778,13 +1748,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=33)** For example, customer service bots, discussed in the previous video, respond quickly to questions and often improve the customer experience.
 >
-> **[0:42](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=42)** Predictive analytics and RPA are also creating efficiencies across departments.
+> **[0:42](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=42)** [[Predictive Analytics]] and RPA are also creating efficiencies across departments.
 >
 > **[0:48](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=48)** In HR, for instance, AI helps screen resumes faster, and in marketing, it customizes ads based on browsing history to make messaging more relevant.
 >
 > **[0:58](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=58)** But AI's effectiveness depends on how it's used and who it serves.
 >
-> **[1:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=63)** While tools like chatbots streamline customer support, they may miss the nuance of human empathy.
+> **[1:03](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=63)** While tools like chatbots streamline [[Customer Support]], they may miss the nuance of human empathy.
 >
 > **[1:11](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=71)** And although predictive analytics can help in business decisions, these forecasts are only as reliable as the data they're based on.
 >
@@ -1796,7 +1766,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=95)** Users want to know how their data is used and shared.
 >
-> **[1:39](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=99)** To protect privacy, companies should limit data collection to what's necessary, make privacy policies clear, and allow users to opt in or out.
+> **[1:39](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=99)** To protect privacy, companies should limit [[Data Collection]] to what's necessary, make privacy policies clear, and allow users to opt in or out.
 >
 > **[1:51](https://www.linkedin.com/learning/digital-transformation-tips-24514659/implementing-ai-solutions-for-business-success?u=76281980&t=111)** AI systems learn from historical data.
 >
@@ -1824,7 +1794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), data (7), [[Privacy]] (5), business (3), [[Predictive Analytics]] (2)
+> **Frameworks & Libraries:** [[Privacy]] (5), [[Predictive Analytics]] (2), [[Customer Support]] (1), [[Data Collection]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** rpa (1)
@@ -1836,8 +1806,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making your digital transformation a success
-> [LinkedIn Learning](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)
+#### [Making your digital transformation a success](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1845,7 +1814,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980&t=1)** It looks like we've made it to the end of another course.
 >
-> **[0:05](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980&t=5)** We started this course by looking at some of the aspects of digital transformation, digitizing information, and moving it to the cloud, making information findable and usable, and keeping it secure.
+> **[0:05](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980&t=5)** We started this course by looking at some of the aspects of [[Digital Transformation]], digitizing information, and moving it to the cloud, making information findable and usable, and keeping it secure.
 >
 > **[0:16](https://www.linkedin.com/learning/digital-transformation-tips-24514659/making-your-digital-transformation-a-success?u=76281980&t=16)** We then moved on to the first steps in a transformation, verifying the organization's willingness and ability to move through change until completion.
 >
@@ -1871,7 +1840,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Digital Transformation]] (1), cloud (1), ai (1)
+> **Frameworks & Libraries:** [[Digital Transformation]] (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 

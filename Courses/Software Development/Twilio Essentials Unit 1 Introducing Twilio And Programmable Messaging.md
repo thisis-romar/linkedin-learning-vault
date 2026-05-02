@@ -57,8 +57,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Twilio
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980)
+#### [Introduction to Twilio](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -68,11 +67,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=5)** I'm Craig and I'm a developer.
 >
-> **[0:07](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=7)** In this course, we're going to explore some of my favorite Twilio products, programmable messaging, and programmable voice, and along the way, we'll pick up a bunch of other handy tools to aid you in your journey.
+> **[0:07](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=7)** In this course, we're going to explore some of my favorite [[Twilio]] [[Microsoft Products|products]], programmable messaging, and programmable voice, and along the way, we'll pick up a bunch of other handy tools to aid you in your journey.
 >
 > **[0:17](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=17)** Now, when you complete this course, you'll be able to add creative and authentic customer engagement experiences to all of your applications.
 >
-> **[0:24](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=24)** You'll be surprised at how quickly you can innovate and add powerful communication functionality to your developer tool belt, even if you've never explored the telecommunications landscape ever before.
+> **[0:24](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=24)** You'll be surprised at how quickly you can innovate and add powerful communication functionality to your developer tool belt, even if you've never explored the [[Telecommunications]] landscape ever before.
 >
 > **[0:34](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=34)** Twilio's here to unlock your imagination.
 >
@@ -84,9 +83,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=55)** As far as prerequisites go, I'd love it.
 >
-> **[0:58](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=58)** If you had an understanding of web development and how the web works in general.
+> **[0:58](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=58)** If you had an understanding of [[Web Development]] and how the web works in general.
 >
-> **[1:01](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=61)** Now I'll be using the JavaScript programming language but don't let that stress you out if that's unfamiliar, I'll walk through the language differences and I'll direct you to where you can learn more in other programming languages.
+> **[1:01](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=61)** Now I'll be using the [[JavaScript]] programming language but don't let that stress you out if that's unfamiliar, I'll walk through the language differences and I'll direct you to where you can learn more in other programming languages.
 >
 > **[1:12](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-twilio?u=76281980&t=72)** Twilio provides a set of feature rich cloud-based APIs.
 >
@@ -154,7 +153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (6), application (4), web (2), [[Programming]] (2), api (2)
+> **Frameworks & Libraries:** [[Twilio]] (6), [[Microsoft Products|Products]] (1), [[Telecommunications]] (1), [[Web Development]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** api (2), pstn (1)
 > **Definitions:** is a  (1)
@@ -162,14 +161,13 @@ created: 2026-05-02
 > **Speakers:** - ahoy (1)
 > **Non-Speech:** (gentle music) (1)
 
-#### Signing up
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980)
+#### [Signing up](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=0)** - All right.
 >
-> **[0:01](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=1)** In order to get working with Twilio, we'll need to get an account all set up.
+> **[0:01](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=1)** In order to get working with [[Twilio]], we'll need to get an account all set up.
 >
 > **[0:04](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=4)** It's free and there's no credit card required.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=41)** Now I already have a Twilio account, obviously.
 >
-> **[0:44](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=44)** So I'm going to use a little trick and if you have a Google or a Gmail account, you can do this too.
+> **[0:44](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=44)** So I'm going to use a little trick and if you have a [[Google]] or a Gmail account, you can do this too.
 >
 > **[0:49](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=49)** You can put a plus and I'm going to say essentials course and it will send it to cDennis@[twilio.com](https://twilio.com) but it will have that, that sender in there.
 >
@@ -247,7 +245,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=146)** And what is your preferred coding language?
 >
-> **[2:28](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=148)** I'm going to choose JavaScript.
+> **[2:28](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=148)** I'm going to choose [[JavaScript]].
 >
 > **[2:30](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/signing-up?u=76281980&t=150)** That's what we're going to be coding in.
 >
@@ -311,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (12), next (1), [[Google]] (1), product (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Twilio]] (12), [[Google]] (1), [[JavaScript]] (1)
 > **Env Vars:** sms (4)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** cdennis (1)
@@ -320,8 +318,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **UI Navigation:** scroll down (1)
 
-#### Introduction to messaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980)
+#### [Introduction to messaging](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=4)** But before we do that, let's talk a little bit about, what even is a message?
 >
-> **[0:09](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=9)** So I've got an Android phone here.
+> **[0:09](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=9)** So I've got an [[Android]] phone here.
 >
 > **[0:11](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=11)** And on it, I've got an app called Messages, and I can use that app to send a text message to anyone in my contact book.
 >
@@ -389,7 +386,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=151)** Let's take a quick look at what it feels like in practice.
 >
-> **[2:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=155)** So these are the docs here, [Twilio.com/docs](https://Twilio.com/docs).
+> **[2:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=155)** So these are the docs here, [[[Twilio]].com/docs](https://Twilio.com/docs).
 >
 > **[2:39](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=159)** Now, reminder to check the notes for updates as these of most likely changed.
 >
@@ -407,7 +404,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=194)** You can see the different languages that happen here and you'll notice that in all of them, they feel pretty similar.
 >
-> **[3:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=201)** They all have this rest client that gets authenticated with the account SID or the string identifier and the off token, which is the password.
+> **[3:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=201)** They all have this [[Representational State Transfer (REST)|rest]] client that gets authenticated with the account SID or the string identifier and the off token, which is the password.
 >
 > **[3:27](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=207)** So we're going to authenticate the client, all of them kind of look that same sort of way.
 >
@@ -417,7 +414,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=215)** We're going to pass in the account SID and the off token.
 >
-> **[3:38](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=218)** And that's in, in node there, we do it in Python.
+> **[3:38](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=218)** And that's in, in node there, we do it in [[Python (Programming Language)|Python]].
 >
 > **[3:41](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=221)** It feels a little bit different here, but what we're doing is we're calling the create method and we're passing in the from the body and the to, just like you do on your phone.
 >
@@ -425,7 +422,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=233)** Here is the body, the text of the message feels pretty similar.
 >
-> **[3:57](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=237)** And note here that it is synchronous and Python is synchronous but if we come back to node, JavaScript's kind of more of a asynchronous language.
+> **[3:57](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=237)** And note here that it is synchronous and Python is synchronous but if we come back to node, [[JavaScript]]'s kind of more of a asynchronous language.
 >
 > **[4:04](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=244)** So you'll see here the promise method.
 >
@@ -443,7 +440,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=279)** The APIs are all rest based or restful.
 >
-> **[4:42](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=282)** Another thing that I'd love to call out is that there's a CLI or command-line interface and it's available to you.
+> **[4:42](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=282)** Another thing that I'd love to call out is that there's a [[CLI]] or command-line interface and it's available to you.
 >
 > **[4:48](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=288)** I highly recommend using one of these as you're exploring a new API.
 >
@@ -473,11 +470,11 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=337)** You'll see that there's this messages and here it is in CLI we'll get it.
 >
-> **[5:40](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=340)** And this is what happens, you'll see this is the example JSON response.
+> **[5:40](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=340)** And this is what happens, you'll see this is the example [[JSON]] response.
 >
 > **[5:44](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=344)** And you'll see that this is what comes back.
 >
-> **[5:46](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=346)** And there's a list of messages that come back with some extra metadata about the brows there and the libraries help you with paging.
+> **[5:46](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=346)** And there's a list of messages that come back with some extra [[Metadata]] about the brows there and the libraries help you with paging.
 >
 > **[5:54](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/introduction-to-messaging?u=76281980&t=354)** I should also point out that each of the helper libraries will also inflate the return values from the API into native feeling objects.
 >
@@ -507,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Python (Programming Language)|Python]] (4), node (3), [[Twilio]] (2), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Twilio]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[JavaScript]] (2), [[CLI]] (2)
 > **Env Vars:** api (9), sms (4), sid (4), mms (2), http (2)
 > **CLI Commands:** python (4), node (3), make (2), curl (1), find (1)
 > **Documentation:** the docs (2), api reference (2), the documentation (2)
@@ -516,26 +513,25 @@ created: 2026-05-02
 > **Analogies:** imagine (1), similar to (1), just like (1)
 > **Code Identifiers:** iphones (1), imessage (1)
 
-#### Send an SMS using the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980)
+#### [Send an SMS using the CLI](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=0)** - In my opinion, the best way to explore any API is by using a CLI, or a command line interface.
+> **[0:00](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=0)** - In my opinion, the best way to explore any API is by using a [[CLI]], or a command line interface.
 >
 > **[0:07](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=7)** Well, that is if they provide one.
 >
-> **[0:09](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=9)** Good news is that Twilio has a pretty awesome CLI that is wonderful for learning.
+> **[0:09](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=9)** Good news is that [[Twilio]] has a pretty awesome CLI that is wonderful for learning.
 >
 > **[0:14](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=14)** If you aren't sure what a command line is, make sure you check the notes and we'll get you all sorted out.
 >
 > **[0:18](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=18)** Let's get the Twilio CLI installed and configured, and then send a text message from the comfort of your command line.
 >
-> **[0:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=26)** So the installation instructions are a little different for Mac and Windows, and I'm on a Mac at the moment, but there are instructions here.
+> **[0:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=26)** So the installation instructions are a little different for Mac and [[Windows]], and I'm on a Mac at the moment, but there are instructions here.
 >
 > **[0:33](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=33)** If you click between, if you're on Windows, you do the Windows.
 >
-> **[0:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=35)** If you're on Linux, you do the Linux.
+> **[0:35](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=35)** If you're on [[Linux]], you do the Linux.
 >
 > **[0:37](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=37)** So I'm going to use the instructions on this macOS and the instructions are at [twil.io/cli](https://twil.io/cli).
 >
@@ -773,7 +769,7 @@ created: 2026-05-02
 >
 > **[7:13](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=433)** Cool.
 >
-> **[7:16](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=436)** And so the other thing I can do is on top of, if I wanted to get those, I could also get 'em in JSON format.
+> **[7:16](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=436)** And so the other thing I can do is on top of, if I wanted to get those, I could also get 'em in [[JSON]] format.
 >
 > **[7:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/send-an-sms-using-the-cli?u=76281980&t=441)** So if I do this -o json, you'll see that I can get back everything in the JSON format here.
 >
@@ -797,7 +793,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (12), [[CLI]] (10), api (6), [[Windows]] (3), [[JSON]] (3)
+> **Frameworks & Libraries:** [[Twilio]] (12), [[CLI]] (10), [[Windows]] (3), [[JSON]] (3), [[Linux]] (2)
 > **Env Vars:** cli (9), api (5), sid (5), sms (3), url (3)
 > **Tools:** command line (4), zsh (2), command prompt (1), terminal (1)
 > **Prerequisites:** set up (5), setup (1)
@@ -806,8 +802,7 @@ created: 2026-05-02
 > **Documentation:** the docs (1), api reference (1)
 > **UI Navigation:** go to (2)
 
-#### Receive a text
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980)
+#### [Receive a text](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -821,13 +816,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=23)** Now, the way this works in practice is that you configure your phone number with code that should run when a text message is received.
 >
-> **[0:30](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=30)** Twilio will pass the control to you via a webhook.
+> **[0:30](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=30)** [[Twilio]] will pass the control to you via a webhook.
 >
 > **[0:34](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=34)** Now, I'd love for you to think about this like the way that the web works.
 >
 > **[0:38](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=38)** When my browser makes a request for a certain web address, a server associated with that address kicks off and returns the code that helps the browser to render my application.
 >
-> **[0:49](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=49)** This code is HTML or HyperText Market Language.
+> **[0:49](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=49)** This code is [[HTML]] or HyperText Market Language.
 >
 > **[0:53](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=53)** My browser uses that response to display my application.
 >
@@ -873,7 +868,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=143)** So I'm going to choose TwiML Bin from the list here.
 >
-> **[2:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=146)** And you'll see, I could create a new one with this plus button over here, but just in case that isn't there for you, I'm going to go over here to Explore Products.
+> **[2:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=146)** And you'll see, I could create a new one with this plus button over here, but just in case that isn't there for you, I'm going to go over here to Explore [[Microsoft Products|Products]].
 >
 > **[2:34](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=154)** So I'm going to click this Explore Products button.
 >
@@ -897,7 +892,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=193)** So, okay, you know what, it's easier if I just show you.
 >
-> **[3:17](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=197)** It's something I'm always happy to spread the word about is TwilioQuest.
+> **[3:17](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=197)** It's something I'm always happy to spread the [[Microsoft Word|word]] about is TwilioQuest.
 >
 > **[3:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/receive-a-text?u=76281980&t=201)** TwilioQuest is an educational video game that will teach you how to code, and it's got a custom soundtrack and awesome 16 bit retro design.
 >
@@ -1017,7 +1012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (12), [[HTML]] (5), web (3), game (3), application (2)
+> **Frameworks & Libraries:** [[Twilio]] (12), [[HTML]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** html (5), url (2), sms (1), text (1), quest (1)
 > **UI Navigation:** scroll down (3), go to (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -1026,8 +1021,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [twilio.com](https://twilio.com) (1)
 
-#### Dynamic messaging
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980)
+#### [Dynamic messaging](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1047,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=25)** But for most uses, you'll probably want to make it more dynamic.
 >
-> **[0:30](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=30)** When your Twilio number receives an incoming message, Twilio will pass control to you, so that you can handle it appropriately.
+> **[0:30](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=30)** When your [[Twilio]] number receives an incoming message, Twilio will pass control to you, so that you can handle it appropriately.
 >
 > **[0:36](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=36)** It passes the information to you by performing an HTTP post request to a URL that you specified.
 >
@@ -1081,11 +1075,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=105)** This will help us build a more dynamic app than the, you got this one, but I would like to add, you've totally got this.
 >
-> **[1:53](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=113)** Let's write some code that will respond appropriately if someone texts our number, the word Quest, and then we'll write some code to tell them that we don't know what they're talking about if they send in anything else.
+> **[1:53](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=113)** Let's write some code that will respond appropriately if someone texts our number, the [[Microsoft Word|word]] Quest, and then we'll write some code to tell them that we don't know what they're talking about if they send in anything else.
 >
 > **[2:03](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=123)** Okay, so we definitely could spin up a new local web server and write an application to respond to the web hook request from Twilio, but since this is a green field, and it's such a quick script, why don't we take advantage of a Twilio function.
 >
-> **[2:17](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=137)** In the console, console.[twilio.com](https://twilio.com), we can click over here and explore products.
+> **[2:17](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=137)** In the console, console.[twilio.com](https://twilio.com), we can click over here and explore [[Microsoft Products|products]].
 >
 > **[2:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=141)** Now, when I answered some questions in the beginning I had answered, said that I wanted Twilio to host my code.
 >
@@ -1195,7 +1189,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=381)** So, we'll do a console dot log.
 >
-> **[6:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=386)** I'm going to use JavaScript string interpolation, and I'll say the body was, and then, we'll do event dot body, except I'm going to spell event right, event dot body.
+> **[6:26](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=386)** I'm going to use [[JavaScript]] string interpolation, and I'll say the body was, and then, we'll do event dot body, except I'm going to spell event right, event dot body.
 >
 > **[6:42](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/dynamic-messaging?u=76281980&t=402)** And now, we only want to respond if somebody types Quest, so we can use some JavaScript logic.
 >
@@ -1349,7 +1343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (13), web (8), api (4), [[Microsoft Products|Products]] (3), node (2)
+> **Frameworks & Libraries:** [[Twilio]] (13), [[Microsoft Products|Products]] (3), [[JavaScript]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** http (4), api (4), url (3), dns (1), https (1)
 > **CLI Commands:** make (8), node (2)
 > **Definitions:** is a  (7)
@@ -1358,8 +1352,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **Analogies:** just like (1), imagine (1)
 
-#### Review and practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980)
+#### [Review and practice](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,9 +1386,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=43)** And we did this using the API.
 >
-> **[0:45](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=45)** We happen to use the CLI, but there are a bunch of other helper libraries that will let you send the message from just about any environment.
+> **[0:45](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=45)** We happen to use the [[CLI]], but there are a bunch of other helper libraries that will let you send the message from just about any environment.
 >
-> **[0:52](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=52)** And remember, it's a rest based API.
+> **[0:52](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=52)** And remember, it's a [[Representational State Transfer (REST)|rest]] based API.
 >
 > **[0:54](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=54)** So any language that can send HTTP requests can play.
 >
@@ -1407,7 +1400,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=66)** And this happens via a web hook.
 >
-> **[1:08](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=68)** Twilio received the message and then posts to a URL that you define.
+> **[1:08](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=68)** [[Twilio]] received the message and then posts to a URL that you define.
 >
 > **[1:11](https://www.linkedin.com/learning/twilio-essentials-unit-1-introducing-twilio-and-programmable-messaging/review-and-practice?u=76281980&t=71)** Twilio expects that you'll return Twilio markup language, or TwiML.
 >
@@ -1471,7 +1464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Twilio]] (7), next (2), api (2), web (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Twilio]] (7), [[CLI]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** api (2), url (2), taco (1), cli (1), http (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)

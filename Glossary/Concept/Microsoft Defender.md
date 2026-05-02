@@ -37,7 +37,7 @@ created: 2026-05-02
 4. [[Azure Networking and Security for Beginners- Tools and Services]] — 35 mentions
 5. [[Windows 10- Security]] — 26 mentions
 6. [[Practical Cybersecurity for IT Professionals]] — 20 mentions
-7. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 19 mentions
+7. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 20 mentions
 8. [[Microsoft Security Copilot]] — 17 mentions
 9. [[Azure Administration Essential Training]] — 16 mentions
 10. [[Windows 10- Networking]] — 12 mentions
@@ -71,25 +71,25 @@ created: 2026-05-02
 > 36. [[Threat Modeling- Denial of Service and Expansion of Authority]] — 2 mentions
 > 37. [[Server Administration Essential Training]] — 2 mentions
 > 38. [[Microsoft Azure- Networking Concepts]] — 2 mentions
-> 39. [[SQL Server- Reporting Services]] — 2 mentions
-> 40. [[Programming Foundations- Web Security]] — 2 mentions
-> 41. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 2 mentions
-> 42. [[Dynamic Application Security Testing]] — 1 mentions
-> 43. [[Ethical Hacking- Enumeration]] — 1 mentions
-> 44. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
-> 45. [[Ethical Hacking- Denial of Service]] — 1 mentions
-> 46. [[Ethical Hacking- Hacking Web Servers and Web Applications]] — 1 mentions
-> 47. [[Ethical Hacking- Cloud Computing]] — 1 mentions
-> 48. [[IT Security Foundations- Core Concepts]] — 1 mentions
-> 49. [[Vulnerability Management with Nessus]] — 1 mentions
-> 50. [[Azure Data Lake for Developers]] — 1 mentions
-> 51. [[Powershell 7 Essential Training]] — 1 mentions
-> 52. [[PowerShell for Microsoft 365 Administration]] — 1 mentions
-> 53. [[Data Ingestion with Python]] — 1 mentions
-> 54. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
-> 55. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
-> 56. [[Windows Server 2022 Essential Training]] — 1 mentions
-> 57. [[SQL Server 2022 Administration]] — 1 mentions
+> 39. [[SQL Server 2022 Administration]] — 2 mentions
+> 40. [[SQL Server- Reporting Services]] — 2 mentions
+> 41. [[Programming Foundations- Web Security]] — 2 mentions
+> 42. [[Windows 10 for IT Support- Advanced Troubleshooting]] — 2 mentions
+> 43. [[Dynamic Application Security Testing]] — 1 mentions
+> 44. [[Ethical Hacking- Enumeration]] — 1 mentions
+> 45. [[Ethical Hacking- Vulnerability Analysis]] — 1 mentions
+> 46. [[Ethical Hacking- Denial of Service]] — 1 mentions
+> 47. [[Ethical Hacking- Hacking Web Servers and Web Applications]] — 1 mentions
+> 48. [[Ethical Hacking- Cloud Computing]] — 1 mentions
+> 49. [[IT Security Foundations- Core Concepts]] — 1 mentions
+> 50. [[Vulnerability Management with Nessus]] — 1 mentions
+> 51. [[Azure Data Lake for Developers]] — 1 mentions
+> 52. [[Powershell 7 Essential Training]] — 1 mentions
+> 53. [[PowerShell for Microsoft 365 Administration]] — 1 mentions
+> 54. [[Data Ingestion with Python]] — 1 mentions
+> 55. [[Microsoft Azure Essentials By Microsoft Press]] — 1 mentions
+> 56. [[Cisco Network Security- Content and Endpoint Security]] — 1 mentions
+> 57. [[Windows Server 2022 Essential Training]] — 1 mentions
 > 58. [[Cloud NoSQL for SQL Professionals]] — 1 mentions
 > 59. [[Microsoft 365 Teams Administrator Associate Cert Prep Ms 700 Plan Configure And Deploy]] — 1 mentions
 > 60. [[Windows Server 2022- DHCP and DNS]] — 1 mentions
@@ -99,7 +99,7 @@ created: 2026-05-02
 1. [[Optimizing Enterprise Security and Productivity Using Microsoft 365]] — 201 total mentions
 2. [[Infrastructure Management on Microsoft Azure- Top Skills for IT Professionals]] — 114 total mentions
 3. [[Microsoft Security Essentials Professional Certificate by Microsoft and LinkedIn]] — 103 total mentions
-4. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 56 total mentions
+4. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 57 total mentions
 5. [[Explore a Career in IT Support]] — 53 total mentions
 6. [[Advance Your Skills as an IT Help Desk Specialist]] — 24 total mentions
 7. [[The IT Professional's Path to Cybersecurity]] — 21 total mentions

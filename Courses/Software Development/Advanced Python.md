@@ -91,12 +91,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980&t=0)** - Python has become one of the go-to languages for developers across a wide range of application types and industries, and it's not surprising why this is the case.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980&t=0)** - [[Python (Programming Language)|Python]] has become one of the go-to languages for developers across a wide range of application types and industries, and it's not surprising why this is the case.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-23931756/welcome?u=76281980&t=9)** The Python language is flexible, customizable, and provides right out of the box the kinds of features that other languages make you go to third parties for or require that you build yourself.
 >
@@ -110,17 +109,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), application (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - python (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=0)** - [Narrator] This course is intended for Python programmers who have already attained a good understanding of the basics of the language and want to learn some of the more advanced features of Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=0)** - [Narrator] This course is intended for [[Python (Programming Language)|Python]] programmers who have already attained a good understanding of the basics of the language and want to learn some of the more advanced features of Python.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=10)** So this is not the place to start if you don't already know Python programming.
 >
@@ -134,7 +132,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=40)** For this course, I'll also be using Visual Studio Code.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=44)** It's a free tool from Microsoft, and it runs on Mac, Windows, and Linux and also online, as we'll see in a moment.
+> **[0:44](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=44)** It's a free tool from [[Microsoft]], and it runs on Mac, [[Windows]], and [[Linux]] and also online, as we'll see in a moment.
 >
 > **[0:50](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=50)** And you can download it from code.[visualstudio.com](https://visualstudio.com).
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=60)** If you'd like to learn more about Visual Studio Code, you can check out the course Visual Studio Code for Python Developers.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=67)** You can find all of the exercise code that accompanies this course at this GitHub repository, and the course content is organized into two separate folders.
+> **[1:07](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=67)** You can find all of the exercise code that accompanies this course at this [[GitHub]] repository, and the course content is organized into two separate folders.
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=78)** The Finished folder contains all of the code examples in their finished state, so that you can compare your code against them as you work through the course.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=141)** All you need to do is fork a copy of the repository into your own GitHub account, and then fire up a code space here in the code menu.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=149)** You want to click on Codespaces and you won't need to install anything.
+> **[2:29](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=149)** You want to click on [[Codespaces]] and you won't need to install anything.
 >
 > **[2:34](https://www.linkedin.com/learning/advanced-python-23931756/getting-set-up?u=76281980&t=154)** Now you can see that I've already done that.
 >
@@ -224,7 +222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[GitHub]] (4), [[Microsoft]] (2), [[Codespaces]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[GitHub]] (4), [[Microsoft]] (2), [[Codespaces]] (2), [[Windows]] (1)
 > **CLI Commands:** python (18), make (3), find (2)
 > **Tools:** visual studio (5), github (4), terminal (3)
 > **Prerequisites:** install (5), set up (1), you'll need (1), setup (1)
@@ -233,8 +231,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (3)
 > **URLs:** [visualstudio.com](https://visualstudio.com) (1)
 
-#### Using CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980)
+#### [Using CoderPad](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980&t=15)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the courses videos.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980&t=22)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-23931756/using-coderpad?u=76281980&t=30)** The code Challenge has four areas.
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **UI Navigation:** click on (4)
 > **Cross-References:** next video (1)
 > **Analogies:** such as (1)
@@ -305,12 +302,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Documentation strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
+#### [Documentation strings](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=0)** - [Instructor] In this chapter, we are going to learn about some of the language features that are specific to Python that can help you write better code.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=0)** - [Instructor] In this chapter, we are going to learn about some of the language features that are specific to [[Python (Programming Language)|Python]] that can help you write better code.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=7)** We're going to start off by learning a little bit about documentation strings.
 >
@@ -328,9 +324,9 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=37)** Alright, so what I'm going to do is fire up the Python Interpreter, and I'm going to do that by typing python3.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=44)** If you're doing this on your own computer and you're on Windows, you might just need to type py or just the word Python.
+> **[0:44](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=44)** If you're doing this on your own computer and you're on [[Windows]], you might just need to type py or just the [[Microsoft Word|word]] Python.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=50)** If you're on a Mac or Linux, you'll probably need to type python3 It depends on how you install Python.
+> **[0:50](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=50)** If you're on a Mac or [[Linux]], you'll probably need to type python3 It depends on how you install Python.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-23931756/documentation-strings?u=76281980&t=55)** Here in the codespace, I'm going to type python3 and that will open up the interactive interpreter.
 >
@@ -456,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), feature (2), [[Windows]] (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** python (9), python3 (3), make (3), find (1)
 > **Documentation:** the documentation (6)
 > **Tools:** terminal (5), vs code (1)
@@ -465,12 +461,11 @@ created: 2026-05-02
 > **File Paths:** doc_strings.py (1)
 > **Code Identifiers:** doc_strings (1)
 
-#### Special variable names
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/special-variable-names?u=76281980)
+#### [Special variable names](https://www.linkedin.com/learning/advanced-python-23931756/special-variable-names?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/special-variable-names?u=76281980&t=0)** - [Instructor] Python has several special variable names associated with the import system, which is how Python loads code in various modules and packages, and sometimes these can be useful in your own code.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/special-variable-names?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] has several special variable names associated with the import system, which is how Python loads code in various modules and packages, and sometimes these can be useful in your own code.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-23931756/special-variable-names?u=76281980&t=12)** So let's go ahead and open up specialnames.py.
 >
@@ -553,18 +548,17 @@ created: 2026-05-02
 > **File Paths:** specialnames.py (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980)
+#### [Understanding scope](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=0)** - [Instructor] One of the important concepts to understand when working with Python is that of scope.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=0)** - [Instructor] One of the important concepts to understand when working with [[Python (Programming Language)|Python]] is that of scope.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=5)** The concept of scope is what determines how your variables and other symbols and names such as functions and classes are looked up and managed within your program by Python.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=18)** Now, it's important because this is the mechanism that prevents one part of your program from interfering with another part.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=26)** Essentially, scope describes the visibility of variables and names within the rest of the code, and it's determined by where you declare that name.
+> **[0:26](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=26)** Essentially, scope describes the visibility of variables and names within the [[Representational State Transfer (REST)|rest]] of the code, and it's determined by where you declare that name.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-python-23931756/understanding-scope?u=76281980&t=36)** There are two main scopes you need to consider, global and local.
 >
@@ -708,12 +702,11 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Truth value testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/truth-value-testing?u=76281980)
+#### [Truth value testing](https://www.linkedin.com/learning/advanced-python-23931756/truth-value-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/truth-value-testing?u=76281980&t=0)** - [Instructor] In Python, any object can be tested for Boolean truth value.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/truth-value-testing?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]], any object can be tested for Boolean truth value.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-23931756/truth-value-testing?u=76281980&t=5)** So, let's take a few moments now to learn about how that works.
 >
@@ -777,19 +770,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (2)
 > **Tools:** terminal (2), vs code (1)
 > **Versions:** 0.0 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The assignment expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/the-assignment-expression?u=76281980)
+#### [The assignment expression](https://www.linkedin.com/learning/advanced-python-23931756/the-assignment-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/the-assignment-expression?u=76281980&t=0)** - [Instructor] Back in the Python 3.8 release, a new operator became available that helps simplify variable assignments that can make your code more concise and easier to understand.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/the-assignment-expression?u=76281980&t=0)** - [Instructor] Back in the [[Python (Programming Language)|Python]] 3.8 release, a new operator became available that helps simplify variable assignments that can make your code more concise and easier to understand.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-23931756/the-assignment-expression?u=76281980&t=12)** So in order to understand how this new operator makes things easier, let's take a look at how assignment statements work.
 >
@@ -915,7 +907,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3), find (3)
 > **Definitions:** is a  (2), is an  (1)
 > **Non-Speech:** (keyboard keys clicking) (2)
@@ -924,8 +916,7 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Analogies:** for example (1)
 
-#### Using print and pprint
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980)
+#### [Using print and pprint](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -965,7 +956,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=116)** And let's go ahead and print out the value at that index.
 >
-> **[2:02](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=122)** And I'm going to specify that the end is going to be a Python f string, and I'm going to have in there an expression.
+> **[2:02](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=122)** And I'm going to specify that the end is going to be a [[Python (Programming Language)|Python]] f string, and I'm going to have in there an expression.
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=132)** Well, not an expression, I'm just going to put it in square brackets.
 >
@@ -1021,7 +1012,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=315)** But for now, let's just go ahead and step through it.
 >
-> **[5:18](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=318)** So you typically use pprint for more complex data like objects and JSON and so on.
+> **[5:18](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=318)** So you typically use pprint for more complex data like objects and [[JSON]] and so on.
 >
 > **[5:24](https://www.linkedin.com/learning/advanced-python-23931756/using-print-and-pprint?u=76281980&t=324)** So here in my code, I have some objects that specify some information about a set of World Cup games and I can just pass this structure directly to the pretty-print class and it will format it the best that it can.
 >
@@ -1083,7 +1074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Python (Programming Language)|Python]] (6), [[JSON]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[JSON]] (2)
 > **CLI Commands:** python (6), find (3), make (2)
 > **File Paths:** output.txt (3)
 > **UI Navigation:** in the sidebar (1), click on (1), scroll down (1)
@@ -1097,12 +1088,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
+#### [Basic iterators](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980&t=0)** - [Instructor] The operation of looping over sequences of values is very common in Python, and there are several built-in methods and modules to help out with this.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980&t=0)** - [Instructor] The operation of looping over sequences of values is very common in [[Python (Programming Language)|Python]], and there are several built-in methods and modules to help out with this.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-23931756/basic-iterators?u=76281980&t=9)** During this chapter, we're going to investigate several different ways of processing sequences of values.
 >
@@ -1188,7 +1178,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Tools:** terminal (2)
 > **File Paths:** testfile.txt (1)
@@ -1197,8 +1187,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### More iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980)
+#### [More iterators](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1310,7 +1299,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980&t=308)** And for this particular example, before I do that, let me just comment this out.
 >
-> **[5:14](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980&t=314)** So "zip longest" is not a built-in function, it's part of the itertools module, which we'll be learning about in the rest of the chapter.
+> **[5:14](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980&t=314)** So "zip longest" is not a built-in function, it's part of the itertools module, which we'll be learning about in the [[Representational State Transfer (REST)|rest]] of the chapter.
 >
 > **[5:21](https://www.linkedin.com/learning/advanced-python-23931756/more-iterators?u=76281980&t=321)** But this will be a good introduction.
 >
@@ -1346,7 +1335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** a1x (1), dn4 (1)
 > **Definitions:** is a  (2)
@@ -1355,12 +1344,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### For-else
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/for-else?u=76281980)
+#### [For-else](https://www.linkedin.com/learning/advanced-python-23931756/for-else?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/for-else?u=76281980&t=0)** - [Instructor] One of my favorite things about Python is that it has some quirky features in it that you don't find in other languages.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/for-else?u=76281980&t=0)** - [Instructor] One of my favorite things about [[Python (Programming Language)|Python]] is that it has some quirky features in it that you don't find in other languages.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-23931756/for-else?u=76281980&t=7)** And one of those is the for/else construct.
 >
@@ -1438,7 +1426,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Search]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), find (2)
 > **Code Identifiers:** is_prime (3), for_else (1)
 > **Definitions:** is a  (3), means that (1)
@@ -1446,16 +1434,15 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Itertools: count, cycle, accumulate
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980)
+#### [Itertools: count, cycle, accumulate](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=0)** - [Instructor] The Python Standard Library includes a very useful module named itertools that addresses a wide range of common iteration scenarios.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=0)** - [Instructor] The [[Python (Programming Language)|Python]] Standard Library includes a very useful module named itertools that addresses a wide range of common iteration scenarios.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=8)** And we briefly touched on this in one of the previous videos.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=13)** For the rest of this chapter, we're going to be learning about the various functions and features of this module.
+> **[0:13](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=13)** For the [[Representational State Transfer (REST)|rest]] of this chapter, we're going to be learning about the various functions and features of this module.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-23931756/itertools-count-cycle-accumulate?u=76281980&t=18)** So I would suggest keeping this documentation link open in a tab so you have it handy to refer to, and you can try out some of your own experiments as we go along.
 >
@@ -1603,14 +1590,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Definitions:** is called (2), is a  (1)
 > **Versions:** 1.04 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Itertools: chain, chain.from_iterable, batched
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/itertools-chain-chain-from-iterable-batched?u=76281980)
+#### [Itertools: chain, chain.from_iterable, batched](https://www.linkedin.com/learning/advanced-python-23931756/itertools-chain-chain-from-iterable-batched?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1687,8 +1673,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Itertools: dropwhile, takewhile, filterfalse
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980)
+#### [Itertools: dropwhile, takewhile, filterfalse](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1736,7 +1721,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980&t=132)** So let's go ahead and run this code, and you can see that that's exactly what happens.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980&t=138)** So drop while dropped the first 10, 20, and 30 until the 40 was reached, at which point, the rest of the values are returned, even though some of them are less than 40, and that's because the predicate function just serves as the trigger point.
+> **[2:18](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980&t=138)** So drop while dropped the first 10, 20, and 30 until the 40 was reached, at which point, the [[Representational State Transfer (REST)|rest]] of the values are returned, even though some of them are less than 40, and that's because the predicate function just serves as the trigger point.
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-python-23931756/itertools-dropwhile-takewhile-filterfalse?u=76281980&t=152)** In the take while case, we can see that 10, 20 and 30 were returned until the 40 was encountered, at which point the iterator stops.
 >
@@ -1796,13 +1781,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Itertools: combinations and permutations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980)
+#### [Itertools: combinations and permutations](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1922,9 +1906,9 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=338)** You can use permutations and combinations for all kinds of practical use cases.
 >
-> **[5:43](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=343)** You can use permutations functions for cryptography or in game development.
+> **[5:43](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=343)** You can use permutations functions for [[Cryptography]] or in [[Game Development]].
 >
-> **[5:48](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=348)** The combinations function can be used to calculate probabilities in data science.
+> **[5:48](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=348)** The combinations function can be used to calculate probabilities in [[Data Science]].
 >
 > **[5:52](https://www.linkedin.com/learning/advanced-python-23931756/itertools-combinations-and-permutations?u=76281980&t=352)** For example, the likelihood that a particular combination of elements might be drawn from a list.
 >
@@ -1932,15 +1916,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), product (4), next (1), [[Cryptography]] (1), [[Game Development]] (1)
+> **Frameworks & Libraries:** [[Cryptography]] (1), [[Game Development]] (1), [[Data Science]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), imagine (1)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Using Iterators
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/solution-using-iterators?u=76281980)
+#### [Solution: Using Iterators](https://www.linkedin.com/learning/advanced-python-23931756/solution-using-iterators?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1968,7 +1951,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Env Vars:** iter (1)
 > **Speakers:** - [instructor] (1)
@@ -1978,14 +1960,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Built-in string constants
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
+#### [Built-in string constants](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980&t=0)** - [Instructor] String processing is one of the more common tasks that today's programmers have to deal with.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980&t=6)** Because of this, Python provides some great built-in features for working with strings, which we are going to learn about in more depth in this chapter.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980&t=6)** Because of this, [[Python (Programming Language)|Python]] provides some great built-in features for working with strings, which we are going to learn about in more depth in this chapter.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-23931756/built-in-string-constants?u=76281980&t=15)** So we're going to start off by looking at some of the features provided by the string module, which you can find at this link in the Python documentation.
 >
@@ -2112,14 +2093,13 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard keys clicking) (1)
 
-#### String searching
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980)
+#### [String searching](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=0)** - [Instructor] In this example, we're going to examine a variety of ways to search strings for specific content.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=6)** And as you might imagine, this is also a fairly common operation in many Python programs.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=6)** And as you might imagine, this is also a fairly common operation in many [[Python (Programming Language)|Python]] programs.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=12)** So let's open up the string_search example.
 >
@@ -2127,7 +2107,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=24)** So let's start with the find() function, which will find the index of the first occurrence of a substring.
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=31)** So let's go ahead and print out the result, and we're going to search for the first occurrence of the word the, and use sample_text, and we're going to call the find() function on it.
+> **[0:31](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=31)** So let's go ahead and print out the result, and we're going to search for the first occurrence of the [[Microsoft Word|word]] the, and use sample_text, and we're going to call the find() function on it.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-23931756/string-searching?u=76281980&t=45)** And we're going to look for the word the.
 >
@@ -2275,7 +2255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (9), [[Microsoft Word|Word]] (5), [[Python (Programming Language)|Python]] (3)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** find (9), python (3)
 > **Code Identifiers:** sample_text (7), string_search (1)
 > **Analogies:** for example (5), imagine (1), similar to (1)
@@ -2284,18 +2264,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1), is an  (1)
 > **Exercise Files:** sample code (1)
 
-#### String manipulation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980)
+#### [String manipulation](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=0)** - [Instructor] Other programming languages make developers do a lot of the heavy lifting when it comes to manipulating string content, but Python provides a lot of great built-in features for this.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=0)** - [Instructor] Other programming languages make developers do a lot of the heavy lifting when it comes to manipulating string content, but [[Python (Programming Language)|Python]] provides a lot of great built-in features for this.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=10)** In this example, we'll see how to perform some common string manipulation operations.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=15)** So here in my test code, I have defined a test string that we can use to operate on, and feel free to make your own variations of it if you want to try out your own experiments.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=25)** So first, we could easily convert a string to upper or lowercase, or what's called title case, where each word is capitalized, by using the corresponding Python function.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=25)** So first, we could easily convert a string to upper or lowercase, or what's called title case, where each [[Microsoft Word|word]] is capitalized, by using the corresponding Python function.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-23931756/string-manipulation?u=76281980&t=38)** So let's try out some of these.
 >
@@ -2381,19 +2360,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (3), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Word|Word]] (3)
 > **CLI Commands:** make (4), python (4)
 > **Tools:** terminal (1)
 > **Definitions:** basically means (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### String formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980)
+#### [String formatting](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=0)** - [Instructor] Python provides a high degree of control over string formatting.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] provides a high degree of control over string formatting.
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=4)** And there's a few different ways to accomplish this.
 >
@@ -2469,7 +2447,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=214)** And I'll let you refer to this on your own time.
 >
-> **[3:37](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=217)** For the rest of the example, I'll just go through my example code, and then you have an opportunity to try out your own experiments.
+> **[3:37](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=217)** For the [[Representational State Transfer (REST)|rest]] of the example, I'll just go through my example code, and then you have an opportunity to try out your own experiments.
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-python-23931756/string-formatting?u=76281980&t=225)** Now, this may look pretty complex at first, but after a bit of practice, it will become more clear.
 >
@@ -2663,7 +2641,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **Documentation:** specification (5), the documentation (3), spec (1)
 > **CLI Commands:** python (6), find (1), make (1)
 > **Analogies:** for example (5)
@@ -2672,8 +2650,7 @@ created: 2026-05-02
 > **Code Identifiers:** format_spec (1)
 > **Cross-References:** previous video (1)
 
-#### Solution: String processing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/solution-string-processing?u=76281980)
+#### [Solution: String processing](https://www.linkedin.com/learning/advanced-python-23931756/solution-string-processing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2725,7 +2702,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4)
 > **CLI Commands:** find (3)
 > **Speakers:** - [instructor] (1)
 
@@ -2734,14 +2710,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sequence slicing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
+#### [Sequence slicing](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980&t=0)** - [Instructor] In this chapter, we're going to take a look at working with sequences.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980&t=4)** Sequences are one of python's most basic data structures.
+> **[0:04](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980&t=4)** Sequences are one of [[Python (Programming Language)|python]]'s most basic [[Data Structures]].
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-23931756/sequence-slicing?u=76281980&t=8)** A sequence contains items arranged in order, and you can access each item using an integer index that represents its position in the sequence.
 >
@@ -2871,15 +2846,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Data Structures]] (1)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** for example (2)
 > **Best Practices:** remember to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980)
+#### [Comparing sequences](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2909,7 +2883,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980&t=74)** The second comparison is also false, and this is because the third value of sequence1 is not greater than sequence2.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980&t=85)** So Python uses the first difference to calculate which sequence is considered to be greater than the other.
+> **[1:25](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980&t=85)** So [[Python (Programming Language)|Python]] uses the first difference to calculate which sequence is considered to be greater than the other.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-python-23931756/comparing-sequences?u=76281980&t=93)** And that's why the third result is true because the 3 is less than the 5.
 >
@@ -2969,12 +2943,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/overview-of-comprehensions?u=76281980)
+#### [Overview of comprehensions](https://www.linkedin.com/learning/advanced-python-23931756/overview-of-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/overview-of-comprehensions?u=76281980&t=0)** - [Instructor] The Python language has a compact syntax for operating on sequences of values, and this particular construct is known as a comprehension.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/overview-of-comprehensions?u=76281980&t=0)** - [Instructor] The [[Python (Programming Language)|Python]] language has a compact syntax for operating on sequences of values, and this particular construct is known as a comprehension.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-23931756/overview-of-comprehensions?u=76281980&t=10)** These can be applied to lists, sets, and dictionaries.
 >
@@ -3016,14 +2989,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5), make (1)
 > **Definitions:** known as (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using list comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/using-list-comprehensions?u=76281980)
+#### [Using list comprehensions](https://www.linkedin.com/learning/advanced-python-23931756/using-list-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3119,14 +3091,13 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Working with set comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980)
+#### [Working with set comprehensions](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980&t=0)** - [Instructor] For this example, we're going to take a look at how to use comprehensions to work with sets of values.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980&t=5)** And remember, sets in Python are used to contain unique values.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980&t=5)** And remember, sets in [[Python (Programming Language)|Python]] are used to contain unique values.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-23931756/working-with-set-comprehensions?u=76281980&t=10)** So, each value in a given set can only occur one time.
 >
@@ -3215,8 +3186,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Analogies:** similar to (1)
 
-#### Using dictionary comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980)
+#### [Using dictionary comprehensions](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3242,7 +3212,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980&t=65)** So it's going to be T times 9/5 plus 32 for t in ctemps.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980&t=74)** Now if I only had one value, then Python would say, "Oh, this is a set comprehension."
+> **[1:14](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980&t=74)** Now if I only had one value, then [[Python (Programming Language)|Python]] would say, "Oh, this is a set comprehension."
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-python-23931756/using-dictionary-comprehensions?u=76281980&t=78)** But because I'm creating a key value pair, it realizes that this is a dictionary comprehension.
 >
@@ -3296,7 +3266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2), [[Python (Programming Language)|Python]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Versions:** 53.6 (2), 93.2 (1)
 > **Definitions:** is a  (2), means that (1)
@@ -3304,8 +3274,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sequences
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/solution-sequences?u=76281980)
+#### [Solution: Sequences](https://www.linkedin.com/learning/advanced-python-23931756/solution-sequences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3369,20 +3338,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are exceptions?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
+#### [What are exceptions?](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=0)** - [Instructor] Software errors and bugs are just a fact of life, and our programs need to deal with them.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=6)** In Python, like in many other modern programming languages, we use a mechanism known as exception handling to work with errors when they arise.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=6)** In [[Python (Programming Language)|Python]], like in many other modern programming languages, we use a mechanism known as exception handling to work with errors when they arise.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=15)** Exceptions can be caused by a variety of conditions.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=19)** Perhaps your code tried to access a missing file, or there was some arithmetic error in the logic, or a network operation timed out.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=28)** By using exceptions, you can group together a set of program statements and handle any problems that happen separately from the rest of your program logic.
+> **[0:28](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=28)** By using exceptions, you can group together a set of program statements and handle any problems that happen separately from the [[Representational State Transfer (REST)|rest]] of your program logic.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-23931756/what-are-exceptions?u=76281980&t=38)** In fact, exceptions can be raised and handled in completely different sections of your program's code.
 >
@@ -3418,14 +3386,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (2)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handling exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980)
+#### [Handling exceptions](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3489,7 +3456,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980&t=178)** So if an exception happens, if it doesn't happen, this code is going to execute so we'll just write out, thanks for playing.
 >
-> **[3:08](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980&t=188)** In Python you can also add an else block to the exception structure which will execute if there is no exception.
+> **[3:08](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980&t=188)** In [[Python (Programming Language)|Python]] you can also add an else block to the exception structure which will execute if there is no exception.
 >
 > **[3:17](https://www.linkedin.com/learning/advanced-python-23931756/handling-exceptions?u=76281980&t=197)** So in this case, let's print out the result.
 >
@@ -3527,19 +3494,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1)
 > **Env Vars:** abc (2)
 > **Tools:** terminal (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common exception types
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/common-exception-types?u=76281980)
+#### [Common exception types](https://www.linkedin.com/learning/advanced-python-23931756/common-exception-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/common-exception-types?u=76281980&t=0)** - [Instructor] Earlier I mentioned that there are several built-in exception types in Python that you can use.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/common-exception-types?u=76281980&t=0)** - [Instructor] Earlier I mentioned that there are several built-in exception types in [[Python (Programming Language)|Python]] that you can use.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-23931756/common-exception-types?u=76281980&t=5)** So let's take a closer look at the built-in exception classes that Python provides right out of the box.
 >
@@ -3667,7 +3633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), generic (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (3)
 > **File Paths:** myfile.txt (2), common_exceptions.py (1)
 > **Documentation:** the documentation (2)
@@ -3676,12 +3642,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** vs code (1)
 
-#### Custom exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/custom-exceptions?u=76281980)
+#### [Custom exceptions](https://www.linkedin.com/learning/advanced-python-23931756/custom-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/custom-exceptions?u=76281980&t=0)** - [Instructor] While Python provides a range of built-in exceptions, there are cases where you may want to create custom exceptions to handle specific error conditions in your code.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/custom-exceptions?u=76281980&t=0)** - [Instructor] While [[Python (Programming Language)|Python]] provides a range of built-in exceptions, there are cases where you may want to create custom exceptions to handle specific error conditions in your code.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-23931756/custom-exceptions?u=76281980&t=11)** In this example, I'll demonstrate how to create and use custom exceptions in Python.
 >
@@ -3763,14 +3728,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Code Identifiers:** custom_exceptions (1)
 > **Best Practices:** good practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980)
+#### [Challenge: Exceptions](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3792,7 +3756,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980&t=76)** So what I'm going to do is run my finished code in the terminal.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980&t=81)** So I'm going to choose run Python file in terminal.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980&t=81)** So I'm going to choose run [[Python (Programming Language)|Python]] file in terminal.
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-python-23931756/challenge-exceptions?u=76281980&t=85)** You can see that sure enough, when the new temperature is set, we get a string that says new temp is 250, and then the current temp setting is now 250.
 >
@@ -3810,15 +3774,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Tools:** terminal (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** python (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Exceptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/solution-exceptions?u=76281980)
+#### [Solution: Exceptions](https://www.linkedin.com/learning/advanced-python-23931756/solution-exceptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3854,20 +3817,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=0)** - Congratulations on completing the course.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about some of the more advanced features of Python.
+> **[0:02](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about some of the more advanced features of [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=7)** Now that you've seen what the Python language is capable of, you might want to check out some ways you can apply your newfound skills.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=14)** There are plenty of other courses here in the library to continue your Python learning journey.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=19)** Whatever you choose to do next, don't forget to keep your Python skills up to date by reading up on the [python.org](https://python.org) website and connect with me on LinkedIn to get notified of my new course releases and updates.
+> **[0:19](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=19)** Whatever you choose to do next, don't forget to keep your Python skills up to date by reading up on the [python.org](https://python.org) website and connect with me on [[LinkedIn]] to get notified of my new course releases and updates.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-23931756/next-steps?u=76281980&t=30)** I'll see you again soon in another one of my courses.
 >
@@ -3875,7 +3837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
 > **URLs:** [python.org](https://python.org) (1)
 > **Best Practices:** don't forget (1)

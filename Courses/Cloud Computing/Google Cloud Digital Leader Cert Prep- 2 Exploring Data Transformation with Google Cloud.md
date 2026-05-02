@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980)
+#### [Course introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -98,7 +97,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980&t=44)** You no longer need to be a data scientist or technical expert to perform data analysis.
 >
-> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980&t=50)** With that in mind, this course, "Exploring Data Transformation with Google Cloud", is designed to help you understand the value of data and how it affects customer experiences, learn about the different Google Cloud data management solutions that are available, and explore the ways that Google Cloud products have made data more useful and accessible to a workforce.
+> **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980&t=50)** With that in mind, this course, "Exploring [[Data Transformation]] with [[Google Cloud Platform (GCP)|Google Cloud]]", is designed to help you understand the value of data and how it affects customer experiences, learn about the different Google Cloud [[Data Management]] solutions that are available, and explore the ways that Google Cloud [[Microsoft Products|products]] have made data more useful and accessible to a workforce.
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-introduction?u=76281980&t=74)** Throughout the course, you'll be presented with graded knowledge assessments.
 >
@@ -108,7 +107,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google Cloud Platform (GCP)|Google cloud]] (3), business (2), cloud (2), teams (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (3), [[Data Transformation]] (1), [[Data Management]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -117,46 +116,44 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=0)** - [Instructor] The word data is used a lot in today's business world.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=0)** - [Instructor] The [[Microsoft Word|word]] data is used a lot in today's business world.
 >
 > **[0:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=3)** There's a good reason for that because capturing, managing, and using data is central to redefining customer experiences and creating new value in almost every industry.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=13)** In this section of the course, you'll explore how data generates business insights and drives decision-making, basic data management concepts like databases, data warehouses, and data lakes.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=13)** In this section of the course, you'll explore how data generates business insights and drives [[Decision-Making]], basic [[Data Management]] concepts like [[Databases]], data warehouses, and [[Data Lakes]].
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=26)** How organizations can create value by using their current data, collecting new data and sourcing data externally.
 >
-> **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=34)** How the cloud unlocks business value from all types of data, including structured data and previously untapped unstructured data.
+> **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=34)** How the cloud unlocks business value from all types of data, including structured data and previously untapped [[Unstructured Data]].
 >
-> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=42)** The data value chain from the initial creation of data through data activation and the importance that data governance plays in a successful data journey.
+> **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction?u=76281980&t=42)** The data value chain from the initial creation of data through data activation and the importance that [[Data Governance]] plays in a successful data journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), business (3), [[Microsoft Word|Word]] (1), [[Decision-Making]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Decision-Making]] (1), [[Data Management]] (1), [[Databases]] (1), [[Data Lakes]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How data creates value
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980)
+#### [How data creates value](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=0)** - [Instructor] Data is an essential ingredient for driving innovation and differentiation, and is the key to unlocking value from artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=0)** - [Instructor] Data is an essential ingredient for driving innovation and differentiation, and is the key to unlocking value from [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=8)** Data powers AI-driven business insights, helps companies make better real-time decisions, and is the basis for how companies build and run their applications.
+> **[0:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=8)** Data powers AI-driven business insights, helps companies make better [[Real-Time]] decisions, and is the basis for how companies build and run their applications.
 >
 > **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=18)** We're generating more data every day, and the complexity and speed of data arrival are changing the business environment.
 >
 > **[0:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=25)** However, the most valuable insights no longer come just from sales, inventory, and personnel data.
 >
-> **[0:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=32)** They are often hidden across unstructured data points from a myriad of sources and systems.
+> **[0:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=32)** They are often hidden across [[Unstructured Data]] points from a myriad of sources and systems.
 >
 > **[0:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=38)** Extracting those insights requires the right blend of tools, skills, and strategy.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=44)** Some data is easy to capture, like financial data, because it can be found in databases and spreadsheets, but other data might not be as easy.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=44)** Some data is easy to capture, like [[Financial Data]], because it can be found in [[Databases]] and spreadsheets, but other data might not be as easy.
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/how-data-creates-value?u=76281980&t=52)** For example, how your customers engage with you across social media platforms.
 >
@@ -178,18 +175,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), business (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), ai (2), [[Real-Time]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Real-Time]] (2), [[Unstructured Data]] (1), [[Financial Data]] (1), [[Databases]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unlocking business value from data
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980)
+#### [Unlocking business value from data](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=0)** - [Narrator] Unlocking the value of data is central to digital transformation.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=0)** - [Narrator] Unlocking the value of data is central to [[Digital Transformation]].
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=4)** To generate insights, you might need to combine different types of data.
 >
@@ -207,11 +203,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=36)** For example, it's common for organizations to use structured data and Customer Relationship Management tools or CRMs, as they follow customer behavior patterns and trends.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=47)** Semi-structured data falls somewhere in between structured and unstructured data.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=47)** Semi-structured data falls somewhere in between structured and [[Unstructured Data]].
 >
 > **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=52)** It's organized into a hierarchy, but without full differentiation or any particular ordering.
 >
-> **[0:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=58)** Examples include emails, HTML, JSON, and XML files.
+> **[0:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=58)** Examples include emails, [[HTML]], [[JSON]], and XML files.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=64)** Although this data type doesn't have a formal structure, it contains tags or other markers that make it easier to analyze than unstructured data.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=91)** Data files like images, audio files and videos, and infrastructure activity and performance data.
 >
-> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=98)** Like log files from servers, networks, and applications or output data from Internet of Things, IoT sensors.
+> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=98)** Like log files from servers, networks, and applications or output data from [[IoT|Internet of Things]], [[IoT]] sensors.
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=106)** Organizations can use unstructured data in many ways.
 >
@@ -241,9 +237,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=165)** But cloud technology has changed that.
 >
-> **[2:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=167)** With the right cloud tools, businesses can extract value from unstructured data by using machine learning to discover trends, or even use application programming interfaces or APIs to extract structure from the data.
+> **[2:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=167)** With the right cloud tools, businesses can extract value from unstructured data by using machine learning to discover trends, or even use [[Application Programming Interfaces (API)|application programming interfaces]] or APIs to extract structure from the data.
 >
-> **[3:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=181)** An example of an API is Google Cloud's Vision API, which uses machine learning to detect products within a picture, and can then even label the picture to describe its contents.
+> **[3:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=181)** An example of an API is [[Google Cloud Platform (GCP)|Google Cloud]]'s Vision API, which uses machine learning to detect [[Microsoft Products|products]] within a picture, and can then even label the picture to describe its contents.
 >
 > **[3:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unlocking-business-value-from-data?u=76281980&t=192)** Understanding the different types of data available can help organizations define what's possible with the data solutions they have.
 >
@@ -251,20 +247,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Unstructured Data]] (10), cloud (3), api (2), [[Digital Transformation]] (1)
+> **Frameworks & Libraries:** [[Unstructured Data]] (10), [[Digital Transformation]] (1), [[HTML]] (1), [[JSON]] (1), [[IoT|Internet of things]] (1)
 > **Env Vars:** api (2), html (1), json (1), xml (1)
 > **Analogies:** for example (2), picture (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data management concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980)
+#### [Data management concepts](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=0)** - [Presenter] Organizations need a modern approach to enterprise data to manage the vast volumes that are produced.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=6)** The list of options often includes databases, data warehouses, and data lakes.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=6)** The list of options often includes [[Databases]], data warehouses, and [[Data Lakes]].
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=12)** Let's explore each of these options starting with databases.
 >
@@ -276,13 +271,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=34)** This means storing information in tables, rows, and columns that have a clearly defined schema that represents the structure or logical configuration of the database.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=44)** A relational database can establish links or relationships between information by joining tables and structured query language or SQL can be used to query and manipulate data.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=44)** A relational database can establish links or relationships between information by joining tables and structured query language or [[SQL]] can be used to query and manipulate data.
 >
-> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=56)** Relational databases are highly consistent, reliable, and best suited for dealing with large amounts of structured data.
+> **[0:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=56)** [[Relational Databases]] are highly consistent, reliable, and best suited for dealing with large amounts of structured data.
 >
-> **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=63)** They're designed for business data processing and storing the online transactional data, needed to support the daily operations of a company.
+> **[1:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=63)** They're designed for business [[Data Processing]] and storing the online transactional data, needed to support the daily operations of a company.
 >
-> **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=71)** A non-relational database, sometimes known as a NoSQL database, is less structured in format and doesn't use a tabular format of rows and columns like relational databases.
+> **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=71)** A non-relational database, sometimes known as a [[NoSQL]] database, is less structured in format and doesn't use a tabular format of rows and columns like relational databases.
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=82)** Instead, non-relational databases follow a flexible data model, which makes them ideal for storing data that changes its organization frequently or for applications that handle diverse types of data.
 >
@@ -290,11 +285,11 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=105)** Choosing the right database depends on the use case.
 >
-> **[1:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=108)** Google Cloud relational database products include Cloud SQL and Cloud Spanner, while Bigtable is a non-relational database product.
+> **[1:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=108)** [[Google Cloud Platform (GCP)|Google Cloud]] relational database [[Microsoft Products|products]] include Cloud SQL and Cloud Spanner, while Bigtable is a non-relational database product.
 >
 > **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=116)** Look at these products in more detail later.
 >
-> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=120)** Let's explore another data management concept, the data warehouse.
+> **[2:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=120)** Let's explore another [[Data Management]] concept, the data warehouse.
 >
 > **[2:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=125)** Like a database, a data warehouse is a place to store data.
 >
@@ -308,17 +303,17 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=159)** Suited for both ad hoc analysis and custom reporting, a data warehouse can help analyze sales and identify trends because it can store both current and historical data in one place.
 >
-> **[2:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=171)** This capability can provide a long range view of data over time, which makes a data warehouse a primary component of business intelligence.
+> **[2:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=171)** This capability can provide a long range view of data over time, which makes a data warehouse a primary component of [[Business Intelligence (BI)|business intelligence]].
 >
 > **[3:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=180)** BigQuery is Google Cloud's data warehouse offering.
 >
 > **[3:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=183)** We'll explore BigQuery in more detail later.
 >
-> **[3:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=187)** Although data warehouses handled structured and semi-structured data, they're not typically the answer for how to handle large amounts of available unstructured data like images, videos, and documents.
+> **[3:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=187)** Although data warehouses handled structured and semi-structured data, they're not typically the answer for how to handle large amounts of available [[Unstructured Data]] like images, videos, and documents.
 >
 > **[3:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=199)** Unstructured data, which doesn't conform to a well-defined schema is often disregarded in traditional analytics.
 >
-> **[3:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=207)** A data lake is a repository designed to ingest, store, explore, process, and analyze any type or volume of raw data regardless of the source, like operational systems, web sources, social media, or Internet of Things, or IOT.
+> **[3:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=207)** A data lake is a repository designed to ingest, store, explore, process, and analyze any type or volume of raw data regardless of the source, like operational systems, web sources, social media, or [[IoT|Internet of Things]], or [[IoT]].
 >
 > **[3:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=225)** It can store different types of data in its original format, ignoring size limits, and without much pre-processing or adding structure.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[4:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=270)** For semi-structured data, the options include datastore and Bigtable.
 >
-> **[4:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=275)** And for storing unstructured data, cloud storage is an option.
+> **[4:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=275)** And for storing unstructured data, [[Cloud Storage]] is an option.
 >
 > **[4:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=280)** Data warehouses and data lakes should be considered complimentary instead of competing tools.
 >
@@ -350,23 +345,22 @@ created: 2026-05-02
 >
 > **[5:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=318)** These users find answers in the data, but they also find questions.
 >
-> **[5:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=323)** As enterprises are increasingly focused on data-driven decision making, data warehouses and data lakes play a critical role in an organization's data transformation journey.
+> **[5:23](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=323)** As enterprises are increasingly focused on [[Data-driven Decision Making]], data warehouses and data lakes play a critical role in an organization's [[Data Transformation]] journey.
 >
 > **[5:33](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=333)** Democratization of data lets users gain a deeper understanding of business situations because they have more context than ever before.
 >
-> **[5:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=341)** Today, organizations need a 360-degree real-time view of their businesses to gain a competitive edge.
+> **[5:41](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-management-concepts?u=76281980&t=341)** Today, organizations need a 360-degree [[Real-Time]] view of their businesses to gain a competitive edge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (62), database (11), business (7), cloud (5), [[Microsoft Products|Products]] (4)
+> **Frameworks & Libraries:** [[Data Lakes]] (4), [[Microsoft Products|Products]] (4), [[Databases]] (3), [[SQL]] (3), [[Relational Databases]] (3)
 > **Definitions:** is an  (3), is a  (3), known as (1), means that (1)
 > **Env Vars:** sql (3), iot (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### The role of data in digital transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980)
+#### [The role of data in digital transformation](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -388,7 +382,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980&t=71)** These data sets might come from government, nonprofit, or academic sources like weather or public demographic data, or from industry-specific sources like analyst reports or industry benchmarking.
 >
-> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980&t=85)** Third-party data is often shared or purchased on data marketplaces or exchanges such as the Google Cloud marketplace.
+> **[1:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980&t=85)** Third-party data is often shared or purchased on data marketplaces or exchanges such as the [[Google Cloud Platform (GCP)|Google Cloud]] marketplace.
 >
 > **[1:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-role-of-data-in-digital-transformation?u=76281980&t=92)** Using external data can greatly increase the value of data by providing new context and insights.
 >
@@ -424,16 +418,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), business (6), [[Google Cloud Platform (GCP)|Google cloud]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** such as (4), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### The data value chain
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980)
+#### [The data value chain](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=0)** - [Narrator] When you think about data processing, it's important to place it within the broader context of the data value chain.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=0)** - [Narrator] When you think about [[Data Processing]], it's important to place it within the broader context of the data value chain.
 >
 > **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=6)** Imagine data traveling along an assembly line, like a car in a factory.
 >
@@ -445,11 +438,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=27)** Data genesis is the initial creation of a unit of data.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=31)** This could be a click on a website, the swipe of a card, a sensor recording from an IoT device, or countless other examples.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=31)** This could be a click on a website, the swipe of a card, a sensor recording from an [[IoT]] device, or countless other examples.
 >
 > **[0:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=39)** It's the raw material that will eventually be turned into an insight ready for action.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=45)** Data collection brings that initial unit of data to the assembly line through ingestion.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=45)** [[Data Collection]] brings that initial unit of data to the assembly line through ingestion.
 >
 > **[0:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=50)** The basic function of ingestion is to extract data from the system in which it's hosted and bring it to a new system.
 >
@@ -463,11 +456,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=88)** In our manufacturing process analogy, this phase is where raw materials take the shape of the pre-assembly parts of a manufactured product.
 >
-> **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=97)** Data storage is where the data lands, can be found and is ready for analysis and action.
+> **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=97)** [[Data Storage]] is where the data lands, can be found and is ready for analysis and action.
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=104)** As with real world manufacturing, where storage options vary, depending on the type of product that is processed, different types of data can be stored in different ways.
 >
-> **[1:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=114)** For example, no SQL is available for fast reads and writes, data warehousing for fast access to analysis and object storage for unstructured data.
+> **[1:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=114)** For example, no [[SQL]] is available for fast reads and writes, [[Data Warehousing]] for fast access to analysis and object storage for [[Unstructured Data]].
 >
 > **[2:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=125)** There are also customized options of these standard stores.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=149)** When an analysis is produced, it needs to be pushed to the relevant business procedures and decision makers, so that action can be taken and the value chain completed.
 >
-> **[2:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=159)** The most common points of activation are applications that make automated decisions and business intelligence dashboards that guide humans toward better, more informed decisions.
+> **[2:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=159)** The most common points of activation are applications that make automated decisions and [[Business Intelligence (BI)|business intelligence]] [[Dashboards]] that guide humans toward better, more informed decisions.
 >
 > **[2:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/the-data-value-chain?u=76281980&t=169)** In our manufacturing line example, this is a step where a fully produced product is put to its intended use.
 >
@@ -495,7 +488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), product (4), business (3), [[IoT]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (3), [[IoT]] (1), [[Data Collection]] (1), [[Data Storage]] (1), [[SQL]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sql (1)
@@ -503,8 +496,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980)
+#### [Data governance](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,7 +504,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=10)** Organizations are now challenged to democratize and embed data in every decision while they also ensure that it's secure and protected from unauthorized use.
 >
-> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=20)** An effective data governance program can help implement data directives to achieve this.
+> **[0:20](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=20)** An effective [[Data Governance]] program can help implement data directives to achieve this.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=26)** But what exactly is data governance?
 >
@@ -532,7 +524,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=91)** It helps users make better, more timely decisions.
 >
-> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=94)** Through data governance, users throughout an organization get the data they need to reach and service customers, design and improve products and services, and seize opportunities for new revenues.
+> **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=94)** Through data governance, users throughout an organization get the data they need to reach and service customers, design and improve [[Microsoft Products|products]] and services, and seize opportunities for new revenues.
 >
 > **[1:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=106)** By democratizing data, organizations can embed data in all decision making.
 >
@@ -540,9 +532,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=114)** Data helps organizations manage resources and operate more efficiently.
 >
-> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=119)** Because they can eliminate data duplication caused by information silos, they don't overbuy and have to maintain expensive hardware.
+> **[1:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=119)** Because they can eliminate data duplication caused by information silos, they don't overbuy and have to maintain expensive [[Hardware]].
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=128)** It enhances regulatory compliance.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=128)** It enhances [[Regulatory Compliance]].
 >
 > **[2:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=130)** An increasingly complex regulatory climate has made it more important for organizations to establish rigorous data governance practices.
 >
@@ -562,15 +554,15 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=191)** It's possible that organizations without an effective data governance program will suffer from compliance violations.
 >
-> **[3:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=197)** This can lead to fines, poor data quality, which generates lower quality insights that impact business decisions, challenges in finding data, which results in delayed analysis and missed business opportunities, and poorly trained data models for AI, which reduces the model accuracy and benefits of using AI.
+> **[3:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=197)** This can lead to fines, poor [[Data Quality]], which generates lower quality insights that impact business decisions, challenges in finding data, which results in delayed analysis and missed business opportunities, and poorly trained data models for AI, which reduces the model accuracy and benefits of using AI.
 >
 > **[3:39](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=219)** Every organization needs data governance.
 >
-> **[3:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=222)** As businesses throughout all industries progress on their digital transformation journeys, data has quickly become the most valuable asset they possess.
+> **[3:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/data-governance?u=76281980&t=222)** As businesses throughout all industries progress on their [[Digital Transformation]] journeys, data has quickly become the most valuable asset they possess.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), business (3), ai (2), cloud (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (12), [[Microsoft Products|Products]] (1), [[Hardware]] (1), [[Regulatory Compliance]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the last (1)
 > **Speakers:** - [instructor] (1)
@@ -580,8 +572,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,25 +580,24 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980&t=4)** For this reason, it's crucial to have an effective way of storing and managing it.
 >
-> **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980&t=10)** Google Cloud offers a wide range of data management products and solutions, each applicable to different business use cases.
+> **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980&t=10)** [[Google Cloud Platform (GCP)|Google Cloud]] offers a wide range of [[Data Management]] [[Microsoft Products|products]] and solutions, each applicable to different business use cases.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980&t=18)** In this section of the course, you'll explore Google Cloud data management options and the differences between them, the different storage classes available with Cloud storage, how to choose the right storage product to meet the needs of your organization, and ways an organization can migrate and/or modernize their current database in the cloud.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228171?u=76281980&t=18)** In this section of the course, you'll explore Google Cloud data management options and the differences between them, the different storage classes available with [[Cloud Storage]], how to choose the right storage product to meet the needs of your organization, and ways an organization can migrate and/or modernize their current database in the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), management (2), cloud (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Management]] (2), [[Microsoft Products|Products]] (1), [[Cloud Storage]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Unstructured data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980)
+#### [Unstructured data storage](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=0)** - [Instructor] Every application needs to store data, like media to be streamed or even sensor data from devices and different applications and workloads require different storage solutions.
 >
-> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=11)** Google Cloud offers several core storage products.
+> **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=11)** [[Google Cloud Platform (GCP)|Google Cloud]] offers several core storage [[Microsoft Products|products]].
 >
-> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=15)** This list includes cloud storage, cloud SQL, cloud Spanner, BigQuery, Firestore, and Cloud Bigtable.
+> **[0:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=15)** This list includes [[Cloud Storage]], cloud [[SQL]], cloud Spanner, BigQuery, Firestore, and Cloud Bigtable.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=26)** Depending on your use case, you might use one or several of these services to do the job.
 >
@@ -615,9 +605,9 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=40)** But what is object storage?
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=44)** Object storage is a computer data storage architecture that manages data as objects instead of as file storage, which is a file and folder hierarchy or as block storage, which is chunks of a disc.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=44)** Object storage is a computer [[Data Storage]] architecture that manages data as objects instead of as file storage, which is a file and folder hierarchy or as block storage, which is chunks of a disc.
 >
-> **[0:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=58)** These objects are stored in a packaged format that contains the binary form of the actual data and relevant associated metadata, such as creation date, author, resource type, and permissions, and a globally unique identifier.
+> **[0:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=58)** These objects are stored in a packaged format that contains the binary form of the actual data and relevant associated [[Metadata]], such as creation date, author, resource type, and permissions, and a globally unique identifier.
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/unstructured-data-storage?u=76281980&t=74)** These unique keys are in the form of URLs, which means object storage interacts well with web technologies.
 >
@@ -667,29 +657,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), cloud (9), feature (2), application (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (6), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Microsoft Products|Products]] (1), [[SQL]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structured data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980)
+#### [Structured data storage](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=0)** - [Narrator] In the previous lesson, you saw how Cloud Storage is used to store unstructured data.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=0)** - [Narrator] In the previous lesson, you saw how [[Cloud Storage]] is used to store [[Unstructured Data]].
 >
-> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=5)** Now let's explore some Google Cloud data storage products that are suited for storing structured data.
+> **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=5)** Now let's explore some [[Google Cloud Platform (GCP)|Google Cloud]] [[Data Storage]] [[Microsoft Products|products]] that are suited for storing structured data.
 >
 > **[0:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=12)** Structured data consists of numbers and values that are organized in a predefined format that's easily searchable in a relational database.
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=22)** Earlier in the course, we mentioned that a relational database stores information in tables, rows, and columns that have a clearly defined schema that represents the structure or logical configuration of the database.
 >
-> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=35)** Cloud SQL offers fully managed relational databases, including MySQL, PostgreSQL, and SQL Server as a service.
+> **[0:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=35)** Cloud [[SQL]] offers fully managed [[Relational Databases]], including [[MySQL]], [[PostgreSQL]], and [[Microsoft SQL Server|SQL Server]] as a service.
 >
-> **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=45)** It's designed to transfer mundane but necessary and often time consuming tasks to Google like applying patches and updates, managing backups, and configuring replications so you can focus on building great applications trusted by thousands of the largest enterprises around the world.
+> **[0:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=45)** It's designed to transfer mundane but necessary and often time consuming tasks to [[Google]] like applying patches and updates, managing backups, and configuring replications so you can focus on building great applications trusted by thousands of the largest enterprises around the world.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=64)** Organizations that use Cloud SQL obtain various benefits.
 >
@@ -705,7 +694,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=104)** Battle tested by Google's own mission critical applications and services, Spanner is a service that powers Google's multi-billion dollar business.
 >
-> **[1:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=113)** Cloud Spanner is especially suited for applications that require a SQL relational database management system with joins and secondary indexes.
+> **[1:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=113)** Cloud Spanner is especially suited for applications that require a SQL relational [[Database Management]] system with joins and secondary indexes.
 >
 > **[2:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=121)** Built-in high availability, which provides data redundancy to reduce downtime when a zone or instance becomes unavailable, the goal is to prevent a single point of failure.
 >
@@ -717,7 +706,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=155)** Cloud SQL is a fully managed relational database service for MySQL, PostgreSQL and SQL Server with greater than 99.95% availability.
 >
-> **[2:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=167)** Database migration Service, DMS, makes it easy to migrate your production databases to Cloud SQL with minimal downtime.
+> **[2:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=167)** Database migration Service, DMS, makes it easy to migrate your production [[Databases]] to Cloud SQL with minimal downtime.
 >
 > **[2:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=176)** And then there's Cloud Spanner, which is a fully managed database with unlimited scale, strong consistency, and up to 99.999% availability with zero downtime for planned maintenance and schema changes.
 >
@@ -735,7 +724,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=241)** As we've already learned, a data warehouse is a large store that contains petabytes of data gathered from a wide range of sources within an organization and is used to guide management decisions.
 >
-> **[4:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=253)** Because it's fully managed, BigQuery takes care of the underlying infrastructure so users can focus on using SQL queries to answer business questions without having to worry about deployment, scalability, and security.
+> **[4:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=253)** Because it's fully managed, BigQuery takes care of the underlying infrastructure so users can focus on using SQL queries to answer business questions without having to worry about deployment, [[Scalability]], and security.
 >
 > **[4:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=267)** BigQuery provides two services in one, storage and analytics.
 >
@@ -743,17 +732,17 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=276)** For reference, one petabyte is equivalent to 11,000 movies at 4K quality.
 >
-> **[4:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=283)** BigQuery is also a place to analyze data with built-in features like machine learning, geospatial analysis, and business intelligence.
+> **[4:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=283)** BigQuery is also a place to analyze data with built-in features like machine learning, geospatial analysis, and [[Business Intelligence (BI)|business intelligence]].
 >
-> **[4:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=292)** Data in BigQuery is encrypted at rest by default without any action required from a user.
+> **[4:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=292)** Data in BigQuery is encrypted at [[Representational State Transfer (REST)|rest]] by default without any action required from a user.
 >
 > **[4:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=298)** Encryption at rest is encryption used to protect data that's stored on a disc, including solid-state drives or backup media.
 >
 > **[5:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=307)** BigQuery provides seamless integration with the existing partner ecosystem.
 >
-> **[5:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=312)** Businesses can tap into our ecosystem of system integrators and data integration partners to help enhance analytics and reporting.
+> **[5:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=312)** Businesses can tap into our ecosystem of system integrators and [[Data Integration]] partners to help enhance analytics and reporting.
 >
-> **[5:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=321)** These integrations mean that BigQuery lets organizations make the most of existing investments in business intelligence, data ingestion, and data integration tools.
+> **[5:21](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=321)** These integrations mean that BigQuery lets organizations make the most of existing investments in business intelligence, [[Data Ingestion]], and data integration tools.
 >
 > **[5:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=332)** Industry research shows that 90% of organizations have a multicloud strategy, which adds complexity to data integration, orchestration, and governance.
 >
@@ -761,11 +750,11 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=354)** BigQuery also has built-in machine learning features so that ML models can be written directly in BigQuery by using SQL.
 >
-> **[6:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=363)** And if other professional tools such as Vertex AI from Google Cloud are used to train ML models, data sets can be exported from BigQuery directly into Vertex AI for a seamless integration across the data-to-AI lifecycle.
+> **[6:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage?u=76281980&t=363)** And if other professional tools such as [[Vertex]] AI from Google Cloud are used to train ML models, data sets can be exported from BigQuery directly into Vertex AI for a seamless integration across the data-to-AI lifecycle.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), cloud (14), database (14), [[SQL]] (9), [[Google]] (4)
+> **Frameworks & Libraries:** [[SQL]] (9), [[Google]] (4), [[Data Integration]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Data Storage]] (2)
 > **Env Vars:** sql (11), dms (1), acid (1)
 > **Definitions:** is a  (7)
 > **CLI Commands:** mysql (2), make (1)
@@ -773,24 +762,23 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1), we mentioned (1)
 > **Speakers:** - [narrator] (1)
 
-#### Semi-structured data storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980)
+#### [Semi-structured data storage](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=0)** - [Instructor] Semi-structured data contains elements of both structured and unstructured data.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=0)** - [Instructor] Semi-structured data contains elements of both structured and [[Unstructured Data]].
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=5)** It does have some defining or consistent characteristics, but generally doesn't follow a structure as rigid as a relational database.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=13)** Semi-structured data is easier to organize because it usually contains some organizational properties, such as tags or metadata.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=13)** Semi-structured data is easier to organize because it usually contains some organizational properties, such as tags or [[Metadata]].
 >
 > **[0:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=22)** An example of semi-structured data is an email message.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=26)** While the actual content of the email is unstructured, it does contain structured data, such as the name and email address of the sender and recipient, the time sent, and so on.
 >
-> **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=37)** Google Cloud offers two semi-structured data storage products, Firestore, and Bigtable.
+> **[0:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=37)** [[Google Cloud Platform (GCP)|Google Cloud]] offers two semi-structured [[Data Storage]] [[Microsoft Products|products]], Firestore, and Bigtable.
 >
-> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=44)** Firestore is a flexible, horizontally scalable, NoSQL cloud database for storing and syncing data in real time.
+> **[0:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=44)** Firestore is a flexible, horizontally scalable, [[NoSQL]] cloud database for storing and syncing data in real time.
 >
 > **[0:53](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=53)** Firestore can be directly accessed by mobile and web applications.
 >
@@ -806,33 +794,32 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=90)** Offline data access ensures that applications run without interruption, even if the user gets disconnected from the internet.
 >
-> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=98)** And then there's Bigtable, Google's no NoSQL, big data database service.
+> **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=98)** And then there's Bigtable, [[Google]]'s no NoSQL, [[Big Data]] database service.
 >
 > **[1:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=103)** It's the same database that powers many core Google services, including search, analytics, maps, and Gmail.
 >
 > **[1:51](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=111)** Bigtable is designed to handle large workloads at consistent low latency, which means Bigtable responds to requests quickly, and high throughput, which means it can send and receive large amounts of data.
 >
-> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=124)** For this reason, it's a great choice for both operational and analytical applications, including internet of things, user analytics, and financial data analysis.
+> **[2:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=124)** For this reason, it's a great choice for both operational and analytical applications, including [[IoT|internet of things]], user analytics, and [[Financial Data]] analysis.
 >
-> **[2:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=135)** When deciding on a storage option, you might choose Bigtable, if you're working with more than one terabyte of semi-structured or structured data, data is fast with high throughput or it's rapidly changing, you're working with NoSQL data, data is a time series or has natural ordering, you're working with big data and running batch or real-time processing on the data, or you're running machine learning algorithms on the data.
+> **[2:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/structured-data-storage-25338217?u=76281980&t=135)** When deciding on a storage option, you might choose Bigtable, if you're working with more than one terabyte of semi-structured or structured data, data is fast with high throughput or it's rapidly changing, you're working with NoSQL data, data is a time series or has natural ordering, you're working with big data and running batch or [[Real-Time]] processing on the data, or you're running machine learning [[Algorithms]] on the data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), database (6), [[NoSQL]] (3), [[Google]] (2), [[Big Data]] (2)
+> **Frameworks & Libraries:** [[NoSQL]] (3), [[Data Storage]] (2), [[Google]] (2), [[Big Data]] (2), [[Unstructured Data]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right storage product
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980)
+#### [Choosing the right storage product](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=0)** - [Narrator] So you've learned about the different storage options that Google Cloud offers, but in what scenarios should you use each one?
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=0)** - [Narrator] So you've learned about the different storage options that [[Google Cloud Platform (GCP)|Google Cloud]] offers, but in what scenarios should you use each one?
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=7)** Ultimately, it's a combination of the data type that needs to be stored and the business need.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=13)** If data is unstructured, then Cloud Storage is the most appropriate option.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=13)** If data is unstructured, then [[Cloud Storage]] is the most appropriate option.
 >
 > **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=19)** You have to decide a storage class, standard, nearline, coldline, or archive or whether to let the auto class feature decide that for you.
 >
@@ -848,39 +835,38 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=69)** An example here would be analyzing sales history to see trends and aggregated views.
 >
-> **[1:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=75)** After you determine if the workloads are transactional or analytical, you must determine whether the data will be accessed by using SQL.
+> **[1:15](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=75)** After you determine if the workloads are transactional or analytical, you must determine whether the data will be accessed by using [[SQL]].
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=84)** So if your data is transactional and you need to access it by using SQL, then Cloud SQL and Cloud Spanner are two options.
 >
-> **[1:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=92)** Cloud SQL works best for local to regional scalability and Cloud Spanner is best to scale a database globally.
+> **[1:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=92)** Cloud SQL works best for local to regional [[Scalability]] and Cloud Spanner is best to scale a database globally.
 >
 > **[1:38](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=98)** If the transactional data will be accessed without SQL, Firestore might be the best option.
 >
-> **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=104)** The Firestore is a transactional NoSQL document-oriented database.
+> **[1:44](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=104)** The Firestore is a transactional [[NoSQL]] document-oriented database.
 >
 > **[1:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=110)** If you have analytical workloads that require SQL commands, BigQuery might be the best option.
 >
-> **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=116)** BigQuery, Google's data warehouse solution, lets you analyze petabyte scale data sets.
+> **[1:56](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=116)** BigQuery, [[Google]]'s data warehouse solution, lets you analyze petabyte scale data sets.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=122)** Alternatively, Cloud Bigtable provides a scalable NoSQL solution for analytical workloads.
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=128)** It's best for real-time, high throughput applications that require only millisecond latency.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/choosing-the-right-storage-product?u=76281980&t=128)** It's best for [[Real-Time]], high throughput applications that require only millisecond latency.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), cloud (6), [[SQL]] (6), database (2), [[NoSQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (6), [[NoSQL]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Cloud Storage]] (1), [[Scalability]] (1)
 > **Env Vars:** sql (6), oltp (1), olap (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Database migration and modernization
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980)
+#### [Database migration and modernization](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=0)** - [Instructor] Running modern applications on legacy, on-premises databases requires overcoming expensive, time-consuming challenges around latency, throughput, availability, and scaling.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=0)** - [Instructor] Running modern applications on legacy, on-premises [[Databases]] requires overcoming expensive, time-consuming challenges around latency, throughput, availability, and scaling.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=11)** With database modernization, organizations can move data from traditional databases to fully managed or modern databases with relative ease.
 >
@@ -888,11 +874,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=27)** The most straightforward method is a lift and shift platform migration.
 >
-> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=31)** This is where databases are migrated from on-premises and private cloud environments to the same type of database hosted by a public cloud provider such as Google Cloud.
+> **[0:31](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=31)** This is where databases are migrated from on-premises and private cloud environments to the same type of database hosted by a public cloud provider such as [[Google Cloud Platform (GCP)|Google Cloud]].
 >
 > **[0:42](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=42)** Although this solution makes the database more difficult to modernize, it does bring with it the benefits of minimal upheaval and having data and infrastructure managed by the cloud provider.
 >
-> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=52)** Alternatively, a managed database migration allows the migration of databases from SQL Server, MySQL, PostgreSQL, and others to a fully managed Google Cloud database.
+> **[0:52](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=52)** Alternatively, a managed database migration allows the migration of databases from [[Microsoft SQL Server|SQL Server]], [[MySQL]], [[PostgreSQL]], and others to a fully managed Google Cloud database.
 >
 > **[1:04](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=64)** Although this migration requires careful planning and might cause slight upheaval, a fully managed solution lets you focus on higher priority work that really adds value to your organization.
 >
@@ -906,19 +892,19 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=118)** So the goal was to lift and shift their workloads as quickly as possible with minimal changes, and then use cloud databases to modernize those workloads.
 >
-> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=128)** Wayfair chose Google Cloud because of the clear path for shifting workloads to the cloud by using Cloud SQL for SQL Server.
+> **[2:08](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=128)** Wayfair chose Google Cloud because of the clear path for shifting workloads to the cloud by using Cloud [[SQL]] for SQL Server.
 >
 > **[2:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=136)** Google Cloud provided the flexibility to be deliberate about which engine and product to run Wayfair systems on going forward.
 >
-> **[2:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=145)** They liked how they could run SQL Server on virtual machines, VMs, for example, but could also benefit from database offerings like Cloud SQL and Cloud Spanner.
+> **[2:25](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=145)** They liked how they could run SQL Server on [[Virtual Machines]], VMs, for example, but could also benefit from database offerings like Cloud SQL and Cloud Spanner.
 >
-> **[2:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=156)** Now that migration is complete, they also use Google Kubernetes Engine, GKE, and compute engine VMs to host the services built by the Google Cloud team.
+> **[2:36](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=156)** Now that migration is complete, they also use [[Google]] [[Kubernetes]] Engine, GKE, and compute engine VMs to host the services built by the Google Cloud team.
 >
 > **[2:46](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/database-migration-and-modernization?u=76281980&t=166)** They also use Pub/Sub and Dataflow for sending operational data to their analytical store in BigQuery.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Databases]] (8), database (8), [[Google Cloud Platform (GCP)|Google cloud]] (8), data (5)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Google Cloud Platform (GCP)|Google cloud]] (8), [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[MySQL]] (1)
 > **Env Vars:** sql (6), dms (1), gke (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** mysql (1)
@@ -930,55 +916,53 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=0)** - [Instructor] It's not always easy for organizations to make smart business decisions based on the data they've collected or produced, and too often there can be blockers in place that make analyzing it difficult for part or all of a workforce.
 >
-> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=13)** With Google Cloud, that doesn't need to be the case.
+> **[0:13](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=13)** With [[Google Cloud Platform (GCP)|Google Cloud]], that doesn't need to be the case.
 >
 > **[0:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=17)** In the final section of this course, you'll explore how Looker makes it easy for a workforce to access the data they need when they need it.
 >
 > **[0:26](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=26)** How streaming analytics in real time can make data more useful.
 >
-> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=30)** And two Google Cloud products that modernize data pipelines, Pub/Sub and Dataflow.
+> **[0:30](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/introduction-23228173?u=76281980&t=30)** And two Google Cloud [[Microsoft Products|products]] that modernize [[Data Pipelines]], Pub/Sub and Dataflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google Cloud Platform (GCP)|Google cloud]] (2), business (1), [[Analytics]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Microsoft Products|Products]] (1), [[Data Pipelines]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Business intelligence and insights using Looker
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980)
+#### [Business intelligence and insights using Looker](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=0)** - [Instructor] When data is in a database, a fair amount of effort and expertise might still be required to uncover insights.
 >
-> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=6)** This goal can be achieved by using a business intelligence solution.
+> **[0:06](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=6)** This goal can be achieved by using a [[Business Intelligence (BI)|business intelligence]] solution.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=11)** However, the challenge that organizations often face is identifying the right business intelligence solution.
 >
-> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=18)** Some solutions are too complex and not accessible by those outside the data engineering or data analysis teams.
+> **[0:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=18)** Some solutions are too complex and not accessible by those outside the [[Data Engineering]] or data analysis teams.
 >
-> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=24)** This means other teams have to put in requests and wait for answers, which defeats the purpose of gaining real-time insights.
+> **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=24)** This means other teams have to put in requests and wait for answers, which defeats the purpose of gaining [[Real-Time]] insights.
 >
 > **[0:32](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=32)** Other solutions let everyone in the business perform their own data analysis, but they can only perform their analysis with a selection of the available data.
 >
 > **[0:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=40)** This means that only a few people, or possibly no one, has a full view of the organization's business data.
 >
-> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=47)** Looker is a Google Cloud business intelligence platform designed to help individuals and teams analyze, visualize, and share data.
+> **[0:47](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=47)** Looker is a [[Google Cloud Platform (GCP)|Google Cloud]] business intelligence platform designed to help individuals and teams analyze, visualize, and share data.
 >
-> **[0:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=55)** This includes creating interactive dashboards and reports that are easy to understand and share.
+> **[0:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=55)** This includes creating interactive [[Dashboards]] and reports that are easy to understand and share.
 >
 > **[1:01](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=61)** By having a reliable authority for business data, anyone on a team can explore it, ask and answer their own questions, and create visualizations.
 >
 > **[1:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=71)** This approach empowers organizations to not just uncover insights, but also act on them.
 >
-> **[1:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=77)** Looker supports BigQuery along with more than 60 different SQL databases.
+> **[1:17](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=77)** Looker supports BigQuery along with more than 60 different [[SQL]] [[Databases]].
 >
 > **[1:22](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=82)** Together, BigQuery and Looker provide rich, interactive dashboards and reports without compromising performance, scale, security, or data freshness.
 >
@@ -990,7 +974,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=105)** Diamond Resorts, a global leader in hospitality, offers destinations, events, and experiences to help people recharge, connect, and enjoy.
 >
-> **[1:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=115)** They had previously used a mixture of complex Excel workbooks and legacy BI tools to track important metrics.
+> **[1:55](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=115)** They had previously used a mixture of complex [[Microsoft Excel|Excel]] workbooks and legacy BI tools to track important metrics.
 >
 > **[2:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=122)** Each business unit operated and ran their own siloed data initiatives.
 >
@@ -998,7 +982,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=148)** Also, infrastructure did not meet business requirements with executive reporting efforts that took months to complete, data that was duplicative across multiple business units without proper governance, multiple reporting tools and data warehouses throughout the business, an infrastructure that didn't support advanced analytics aspirations.
 >
-> **[2:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=169)** Diamond Resorts wanted to create a single, common, cloud-based architecture that was fully managed, establishing data governance and enabling the business to be more data-driven while they set the foundation for advanced analytics efforts.
+> **[2:49](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=169)** Diamond Resorts wanted to create a single, common, cloud-based architecture that was fully managed, establishing [[Data Governance]] and enabling the business to be more data-driven while they set the foundation for advanced analytics efforts.
 >
 > **[3:02](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/business-intelligence-and-insights-using-looker?u=76281980&t=182)** They migrated to the cloud and began using Looker to help improve business agility.
 >
@@ -1014,21 +998,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (10), [[Business Intelligence (BI)|Business intelligence]] (4), teams (4), [[Data Engineering]] (2)
+> **Frameworks & Libraries:** [[Business Intelligence (BI)|Business intelligence]] (4), [[Data Engineering]] (2), [[Real-Time]] (2), [[Dashboards]] (2), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Env Vars:** sql (1), covid (1)
 > **Definitions:** means that (1), is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Streaming analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980)
+#### [Streaming analytics](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=0)** - [Presenter] Data traditionally is moved in batches.
 >
-> **[0:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=3)** Batch processing often processes large volumes of data at the same time with long periods of latency.
+> **[0:03](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=3)** [[Batch Processing]] often processes large volumes of data at the same time with long periods of latency.
 >
 > **[0:10](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=10)** An example is payroll and billing systems that have to be processed on either a weekly or monthly basis.
 >
@@ -1044,9 +1027,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=59)** Companies use streaming analytics to analyze data in real time and provide insights into a wide range of activities, such as metering, server activity, geolocation of devices, or website clicks.
 >
-> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=72)** Use cases include e-commerce.
+> **[1:12](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=72)** Use cases include [[E-Commerce]].
 >
-> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=76)** User click streams can be analyzed to optimize the shopping experience with real-time pricing, promotions, and inventory management.
+> **[1:16](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=76)** User click streams can be analyzed to optimize the shopping experience with [[Real-Time]] pricing, promotions, and inventory management.
 >
 > **[1:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=84)** Financial services.
 >
@@ -1064,9 +1047,9 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=118)** Throughput across a power grid can be monitored and alerts generated or workflows initiated when established thresholds are reached.
 >
-> **[2:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=127)** Google Cloud offers two mainstreaming analytics products to ingest, process, and analyze event streams in real time, which makes data more useful and accessible from the instant it's generated.
+> **[2:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=127)** [[Google Cloud Platform (GCP)|Google Cloud]] offers two mainstreaming analytics [[Microsoft Products|products]] to ingest, process, and analyze event streams in real time, which makes data more useful and accessible from the instant it's generated.
 >
-> **[2:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=139)** Pub/Sub ingests hundreds of millions of events per second, but data flow unifies streaming and batch data analysis and builds cohesive data pipelines.
+> **[2:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=139)** Pub/Sub ingests hundreds of millions of events per second, but data flow unifies streaming and batch data analysis and builds cohesive [[Data Pipelines]].
 >
 > **[2:29](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/streaming-analytics?u=76281980&t=149)** A data pipeline represents a series of actions or stages that ingest raw data from different sources and then move that data to a destination for storage and analysis.
 >
@@ -1074,23 +1057,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Analytics]] (4), [[Microsoft Products|Products]] (2), [[Batch Processing]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Batch Processing]] (1), [[E-Commerce]] (1), [[Real-Time]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [presenter] (1)
 
-#### Pub/Sub and Dataflow
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980)
+#### [Pub/Sub and Dataflow](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=0)** - [Instructor] One of the early stages in a data pipeline is data ingestion, which is where large amounts of streaming data are received.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=0)** - [Instructor] One of the early stages in a data pipeline is [[Data Ingestion]], which is where large amounts of streaming data are received.
 >
 > **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=7)** Data, however, might not always come from a single structured database.
 >
 > **[0:11](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=11)** Instead, the data might stream from a thousand or even a million different events that are all happening asynchronously.
 >
-> **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=19)** A common example of this data is from IoT, or Internet of Things, applications.
+> **[0:19](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=19)** A common example of this data is from [[IoT]], or [[IoT|Internet of Things]], applications.
 >
 > **[0:24](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=24)** These can include sensors on taxis that send out location data every 30 seconds, or temperature sensors around a data center to help optimize heating and cooling.
 >
@@ -1108,17 +1090,17 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=74)** A popular solution for pipeline design is Apache Beam.
 >
-> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=78)** It's an open source, unified programming model to define and execute data processing pipelines, including ETL, batch, and stream processing.
+> **[1:18](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=78)** It's an open source, unified programming model to define and execute [[Data Processing]] pipelines, including ETL, batch, and stream processing.
 >
-> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=87)** Dataflow handles much of the complexity for infrastructure setup and maintenance, and is built on Google's infrastructure.
+> **[1:27](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=87)** Dataflow handles much of the complexity for infrastructure setup and maintenance, and is built on [[Google]]'s infrastructure.
 >
 > **[1:34](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=94)** This product allows for reliable auto scaling to meet data pipeline demands.
 >
 > **[1:40](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=100)** Dataflow is serverless and fully managed.
 >
-> **[1:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=103)** Serverless computing means that software developers can build and run applications without having to provision or manage the backend infrastructure.
+> **[1:43](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=103)** [[Serverless Computing]] means that software developers can build and run applications without having to provision or manage the backend infrastructure.
 >
-> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=110)** For example, Google Cloud manages infrastructure tasks on behalf of the users, like resource provisioning, performance tuning, and ensuring pipeline reliability.
+> **[1:50](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=110)** For example, [[Google Cloud Platform (GCP)|Google Cloud]] manages infrastructure tasks on behalf of the users, like resource provisioning, [[Performance Tuning]], and ensuring pipeline reliability.
 >
 > **[2:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/pub-sub-and-dataflow?u=76281980&t=120)** And a fully managed environment is one where software can be deployed, monitored, and managed without needing an operations team.
 >
@@ -1128,7 +1110,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[IoT]] (2), etl (2), database (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (2), [[Data Ingestion]] (1), [[IoT|Internet of things]] (1), [[Data Processing]] (1), [[Google]] (1)
 > **Definitions:** means that (2), is a  (1), short for (1), refers to (1)
 > **Env Vars:** etl (2)
 > **Analogies:** such as (1), for example (1)
@@ -1141,28 +1123,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980)
+#### [Course summary](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the "Exploring Data Transformation with Google Cloud" course.
+> **[0:00](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=0)** - [Instructor] This brings us to the end of the "Exploring [[Data Transformation]] with [[Google Cloud Platform (GCP)|Google Cloud]]" course.
 >
 > **[0:05](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=5)** Let's do a quick recap.
 >
-> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=7)** In the first section of the course, "The Value of Data," you learned how data generates business insights and drives decision making, basic data management concepts like databases, data warehouses, and data lakes, how organizations can create value by using their current data, collecting new data, and sourcing data externally, how the cloud unlocks business value from all types of data, including structured data and previously untapped, unstructured data, about the data value chain from the initial creation of data to data activation, and the importance that data governance plays in a successful data journey.
+> **[0:07](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=7)** In the first section of the course, "The Value of Data," you learned how data generates business insights and drives decision making, basic [[Data Management]] concepts like [[Databases]], data warehouses, and [[Data Lakes]], how organizations can create value by using their current data, collecting new data, and sourcing data externally, how the cloud unlocks business value from all types of data, including structured data and previously untapped, [[Unstructured Data]], about the data value chain from the initial creation of data to data activation, and the importance that [[Data Governance]] plays in a successful data journey.
 >
-> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=48)** In the second section of the course, "Google Cloud Data Management Solutions," you learned about Google Cloud data management options and the differences between them, about the different storage classes available with Cloud Storage, how to choose the right storage product to meet the needs of your organization, and ways an organization can migrate and/or modernize their current database in the cloud.
+> **[0:48](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=48)** In the second section of the course, "Google Cloud Data Management Solutions," you learned about Google Cloud data management options and the differences between them, about the different storage classes available with [[Cloud Storage]], how to choose the right storage product to meet the needs of your organization, and ways an organization can migrate and/or modernize their current database in the cloud.
 >
-> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=74)** Finally, in the third section of the course, "Making Data Useful and Accessible," you learned how Looker makes it easy for a workforce to access the data they need when they need it, how streaming analytics in real time can make data more useful, and about two Google Cloud products that modernize data pipelines, Pub/Sub, and Dataflow.
+> **[1:14](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=74)** Finally, in the third section of the course, "Making Data Useful and Accessible," you learned how Looker makes it easy for a workforce to access the data they need when they need it, how streaming analytics in real time can make data more useful, and about two Google Cloud [[Microsoft Products|products]] that modernize [[Data Pipelines]], Pub/Sub, and Dataflow.
 >
-> **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=97)** Now that you've had a comprehensive introduction to data transformation, move on to the next course in the series, "Innovating with Google Cloud Artificial Intelligence," where you'll learn about the fundamentals of artificial intelligence and machine learning, selecting Google Cloud AI solutions, and building and using Google Cloud AI solutions.
+> **[1:37](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=97)** Now that you've had a comprehensive introduction to data transformation, move on to the next course in the series, "Innovating with Google Cloud [[Artificial Intelligence (AI)|Artificial Intelligence]]," where you'll learn about the fundamentals of artificial intelligence and machine learning, selecting Google Cloud [[AI Solutions]], and building and using Google Cloud AI solutions.
 >
 > **[1:57](https://www.linkedin.com/learning/google-cloud-digital-leader-cert-prep-2-exploring-data-transformation-with-google-cloud/course-summary?u=76281980&t=117)** We'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Google Cloud Platform (GCP)|Google cloud]] (7), management (3), cloud (3), [[Data Transformation]] (2)
+> **Frameworks & Libraries:** [[Google Cloud Platform (GCP)|Google cloud]] (7), [[Data Management]] (3), [[Data Transformation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[AI Solutions]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 

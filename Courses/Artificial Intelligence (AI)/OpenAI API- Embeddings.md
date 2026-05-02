@@ -73,8 +73,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
+#### [Introduction to embeddings](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,17 +83,17 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=8)** Allowing machines to understand text-based content better, and identify relationships between words more easily.
 >
-> **[0:16](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=16)** Word embeddings, power recommendation systems, question answering, sentiment analysis and more.
+> **[0:16](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=16)** [[Microsoft Word|Word]] embeddings, power recommendation systems, question answering, sentiment analysis and more.
 >
 > **[0:23](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=23)** In this course, I'll show you how to generate embeddings and use them in real world applications.
 >
-> **[0:29](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=29)** If you're ready to learn the power of word embeddings, join me now in my LinkedIn learning course.
+> **[0:29](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=29)** If you're ready to learn the power of word embeddings, join me now in my [[LinkedIn]] learning course.
 >
 > **[0:36](https://www.linkedin.com/learning/openai-api-embeddings/introduction-to-embeddings?u=76281980&t=36)** I'm Kesha Williams and I've helped hundreds of thousands of people harness the power of AI tools and machine learning technologies, and I'd love to help you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), ai (2), [[Microsoft Word|Word]] (2), api (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[LinkedIn]] (1)
 > **Env Vars:** api (1)
 > **Speakers:** - [kesha] (1)
 
@@ -103,18 +102,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
+#### [Explore embeddings](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=1)** - [Instructor] Embeddings are the cornerstone of natural language processing.
+> **[0:01](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=1)** - [Instructor] Embeddings are the cornerstone of [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[0:05](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=5)** But what are they?
 >
 > **[0:06](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=6)** Let's find out.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=7)** And embedding is a numeric representation of text that enables machine learning models and algorithms to comprehend the connections and associations among concepts more easily.
+> **[0:07](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=7)** And embedding is a numeric representation of text that enables machine learning models and [[Algorithms]] to comprehend the connections and associations among concepts more easily.
 >
 > **[0:20](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=20)** From a technical perspective, and embedding is a vector, also known as a list of floating point numbers representing a text string.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=49)** This is a way to capture meanings and relationships between words and phrases, allowing machines to understand and process human language.
 >
-> **[1:01](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=61)** Think of word embeddings in natural language processing like flavor profiles in cooking.
+> **[1:01](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=61)** Think of [[Microsoft Word|word]] embeddings in natural language processing like flavor profiles in cooking.
 >
 > **[1:08](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=68)** Each word is an ingredient with a unique flavor or meaning.
 >
@@ -134,9 +132,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=94)** In essence, word embeddings work like a sophisticated blending mechanism, mixing and matching word vectors in a way that mirrors language's natural use, resulting in semantically coherent and contextually meaningful sentences.
 >
-> **[1:52](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=112)** Word embeddings have numerous practical applications, including information retrieval in search engines and recommendation systems.
+> **[1:52](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=112)** Word embeddings have numerous practical applications, including [[Information Retrieval]] in search engines and recommendation systems.
 >
-> **[2:02](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=122)** Word embeddings help fetch relevant documents or items based on the similarity of their content with the search query.
+> **[2:02](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=122)** Word embeddings help [[Fetch]] relevant documents or items based on the similarity of their content with the search query.
 >
 > **[2:11](https://www.linkedin.com/learning/openai-api-embeddings/explore-embeddings?u=76281980&t=131)** Word embeddings are used to determine the sentiment of text, such as classifying product reviews as positive, negative, or neutral.
 >
@@ -150,14 +148,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Search]] (2), [[Algorithms]] (1), [[Information Retrieval]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Natural Language Processing (NLP)|Natural language processing]] (2), [[Algorithms]] (1), [[Information Retrieval]] (1), [[Fetch]] (1)
 > **Definitions:** is a  (3), known as (1), is an  (1)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Leverage cosine similarity
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980)
+#### [Leverage cosine similarity](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -175,7 +172,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=47)** Mathematically, cosine similarity is calculated as the dot product of the two vectors divided by the product of their lengths.
 >
-> **[0:56](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=56)** The formula is where A and B are the word vectors, A dot B is the dot product of the vectors, and the norm of A and the norm of B of the vectors.
+> **[0:56](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=56)** The formula is where A and B are the [[Microsoft Word|word]] vectors, A dot B is the dot product of the vectors, and the norm of A and the norm of B of the vectors.
 >
 > **[1:09](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=69)** Cosine similarity ranges from -1 to 1.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=85)** And a -1 means the words are completely dissimilar or opposites.
 >
-> **[1:32](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=92)** In most natural language processing applications, the focus is on the range from 0 to 1.
+> **[1:32](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=92)** In most [[Natural Language Processing (NLP)|natural language processing]] applications, the focus is on the range from 0 to 1.
 >
 > **[1:40](https://www.linkedin.com/learning/openai-api-embeddings/leverage-cosine-similarity?u=76281980&t=100)** In practice, cosine similarity determines how similar two words are in terms of meaning.
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Versions:** 0.8 (1), 0.3 (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** api (1)
@@ -216,12 +213,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore the Embeddings API
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
+#### [Explore the Embeddings API](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=0)** - [Instructor] You know all about word embeddings, so let's see how you can use the Embeddings API to get an embedding.
+> **[0:00](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=0)** - [Instructor] You know all about [[Microsoft Word|word]] embeddings, so let's see how you can use the Embeddings API to get an embedding.
 >
 > **[0:08](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=8)** Start by simply sending your text string to the Embeddings API endpoint along with the ID of the embedding model you want to use.
 >
@@ -239,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=59)** The input parameter has the input text to embed, in our case, "The Embeddings API is easy to use."
 >
-> **[1:08](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=68)** The input text can be encoded as a string or array of tokens.
+> **[1:08](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=68)** The input text can be encoded as a string or array of [[Tokens]].
 >
 > **[1:12](https://www.linkedin.com/learning/openai-api-embeddings/explore-the-embeddings-api-23754245?u=76281980&t=72)** You'll want to ensure your input doesn't exceed the maximum input tokens for your chosen model.
 >
@@ -277,13 +273,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Tokens]] (3), [[Search]] (2), next (2), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Microsoft Word|Word]] (1)
 > **Env Vars:** api (5)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Estimate embeddings pricing
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980)
+#### [Estimate embeddings pricing](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -297,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980&t=20)** So let's go there.
 >
-> **[0:22](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980&t=22)** The cost of return and embedding using text embedding ada-002 is one ten thousandths of a dollar per 1000 tokens.
+> **[0:22](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980&t=22)** The cost of return and embedding using text embedding ada-002 is one ten thousandths of a dollar per 1000 [[Tokens]].
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-embeddings/estimate-embeddings-pricing?u=76281980&t=32)** The cost to turn our previous example, the Embeddings API is easy to use, into an embedding is just one ten thousandths of a dollar because it's under 1000 tokens.
 >
@@ -325,21 +320,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Tokens]] (8), api (3)
+> **Frameworks & Libraries:** [[Tokens]] (8)
 > **Env Vars:** api (3)
 > **Versions:** 99.8 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Generate embeddings for a single word
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980)
+#### [Generate embeddings for a single word](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=1)** - [Instructor] Are you ready to see the embeddings API in action?
 >
-> **[0:05](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=5)** Let's jump into our Python code example found in this Jupyter Notebook.
+> **[0:05](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=5)** Let's jump into our [[Python (Programming Language)|Python]] code example found in this Jupyter Notebook.
 >
 > **[0:09](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=9)** I've already executed all of the cells in this notebook, so the output is ready for us.
 >
@@ -357,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=58)** Next, we import here in cell 84 the os and the OpenAI modules or libraries.
 >
-> **[1:07](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=67)** The OpenAI module provides access to the OpenAI API.
+> **[1:07](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=67)** The OpenAI module provides access to the [[OpenAI API]].
 >
 > **[1:12](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=72)** The os module provides access to operating system dependent functionality.
 >
@@ -371,7 +365,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=106)** We've designed the code to be modular with reusable code defined in two helper functions.
 >
-> **[1:54](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=114)** Here, in cell 86, the get_embeddings function is used to call the embeddings API, passing in the word and the selected model, returning the response, which will be the embeddings.
+> **[1:54](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=114)** Here, in cell 86, the get_embeddings function is used to call the embeddings API, passing in the [[Microsoft Word|word]] and the selected model, returning the response, which will be the embeddings.
 >
 > **[2:08](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-a-single-word?u=76281980&t=128)** Next, in cell 87, we have this compute_cosine_similarity function, which calculates the cosine similarity for two embeddings, so we'll pass in embeddings1 and embeddings2.
 >
@@ -435,7 +429,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), api (10), [[Python (Programming Language)|Python]] (2), next (2), cloud (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (12), [[Python (Programming Language)|Python]] (2), [[OpenAI API]] (1)
 > **Code Identifiers:** sun_embeddings (4), get_embeddings (3), compute_cosine_similarity (3), moon_embeddings (3), cloud_embeddings (2)
 > **Env Vars:** api (11), sdk (1)
 > **Prerequisites:** configure (1), you'll need (1), install (1)
@@ -449,16 +443,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cluster similar words
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
+#### [Cluster similar words](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=0)** - [Instructor] Are you ready to see a common use case of word embeddings in action?
+> **[0:00](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=0)** - [Instructor] Are you ready to see a common use case of [[Microsoft Word|word]] embeddings in action?
 >
 > **[0:05](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=5)** Text clustering.
 >
-> **[0:07](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=7)** Let's jump into our Python code example found in this Jupyter notebook.
+> **[0:07](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=7)** Let's jump into our [[Python (Programming Language)|Python]] code example found in this Jupyter notebook.
 >
 > **[0:12](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=12)** I do want to call out that I have executed all of the cells in this notebook already so that they are ready for us.
 >
@@ -474,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=48)** You can use pip install scikit-learn, and it's a machine learning library for Python.
 >
-> **[0:55](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=55)** In the next section, we're authenticating to the OpenAI API, using the API key.
+> **[0:55](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=55)** In the next section, we're authenticating to the [[OpenAI API]], using the API key.
 >
 > **[1:02](https://www.linkedin.com/learning/openai-api-embeddings/cluster-similar-words?u=76281980&t=62)** And then here in cell 49, we start the process of clustering similar words using their embeddings.
 >
@@ -524,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), next (4), [[Python (Programming Language)|Python]] (2), api (2), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Python (Programming Language)|Python]] (2), [[OpenAI API]] (1)
 > **CLI Commands:** python (2), make (1), pip (1)
 > **Env Vars:** api (3)
 > **Prerequisites:** install (2), you'll need (1)
@@ -533,20 +526,19 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** jupyter (1)
 
-#### Generate embeddings for sentences
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980)
+#### [Generate embeddings for sentences](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=1)** - [Instructor] Are you ready to see a common use case of word Embeddings in action?
+> **[0:01](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=1)** - [Instructor] Are you ready to see a common use case of [[Microsoft Word|word]] Embeddings in action?
 >
 > **[0:05](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=5)** Textual Entailment.
 >
 > **[0:08](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=8)** When one statement entails another, it implies that the second statement is a logical consequence or outcome of the first.
 >
-> **[0:15](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=15)** Let's jump into our Python code example found in this Jupyter Notebook.
+> **[0:15](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=15)** Let's jump into our [[Python (Programming Language)|Python]] code example found in this Jupyter Notebook.
 >
-> **[0:21](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=21)** Textual Entailment is from natural language processing and indicates the relationship between two sentences.
+> **[0:21](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=21)** Textual Entailment is from [[Natural Language Processing (NLP)|natural language processing]] and indicates the relationship between two sentences.
 >
 > **[0:28](https://www.linkedin.com/learning/openai-api-embeddings/generate-embeddings-for-sentences?u=76281980&t=28)** The relationship can either be an entailment, a contradiction, or neutral, where the second text confirms, contradicts, or is unrelated to the original text.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), next (2), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Code Identifiers:** get_embeddings (3), compute_cosine_similarity (1)
 > **Env Vars:** api (3), ada (1)
 > **Definitions:** is a  (2)
@@ -630,8 +622,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your embeddings journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)
+#### [Your embeddings journey](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -645,9 +636,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=32)** If you haven't pulled down the code examples, I encourage you to deepen your understanding and retain your newfound knowledge through hands-on exploration.
 >
-> **[0:43](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=43)** You can also continue learning by watching my other courses, [[Building a Project with the ChatGPT API]], Artificial Intelligence Foundations, Machine Learning, and other courses in the OpenAI API series.
+> **[0:43](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=43)** You can also continue learning by watching my other courses, [[Building a Project with the [[ChatGPT]] API]], [[Artificial Intelligence Foundations]], Machine Learning, and other courses in the [[OpenAI API]] series.
 >
-> **[0:59](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=59)** I've enjoyed our time together, please follow me on LinkedIn so that we can stay connected.
+> **[0:59](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=59)** I've enjoyed our time together, please follow me on [[LinkedIn]] so that we can stay connected.
 >
 > **[1:04](https://www.linkedin.com/learning/openai-api-embeddings/your-embeddings-journey?u=76281980&t=64)** I enjoy speaking on the topic of AI and machine learning, so please consider me for your upcoming conference or event.
 >
@@ -657,7 +648,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), power (2), [[ChatGPT]] (1), [[Artificial Intelligence Foundations]] (1), [[OpenAI API]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Artificial Intelligence Foundations]] (1), [[OpenAI API]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (4)
 > **Speakers:** - [kesha] (1)
 

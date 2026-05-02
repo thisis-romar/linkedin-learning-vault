@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to have a fulfilling career in social customer care
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/how-to-have-a-fulfilling-career-in-social-customer-care?u=76281980)
+#### [How to have a fulfilling career in social customer care](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/how-to-have-a-fulfilling-career-in-social-customer-care?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,8 +110,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Respond quickly to customer inquiries on social
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980)
+#### [Respond quickly to customer inquiries on social](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-quickly-to-customer-inquiries-on-social?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,14 +180,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (1), next (1)
 > **Ports:** :28 (1), :43 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Pivot channels gracefully in social customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980)
+#### [Pivot channels gracefully in social customer service](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -211,7 +207,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=69)** Explain why you're asking them to move to a different channel.
 >
-> **[1:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=73)** For example, we need to do everything we can to prevent customers from sharing private info like account number, street address, or date of birth in a public social channel, so explain that you want to protect their privacy.
+> **[1:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=73)** For example, we need to do everything we can to prevent customers from sharing private info like account number, street address, or date of birth in a public social channel, so explain that you want to protect their [[Privacy]].
 >
 > **[1:28](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/pivot-channels-gracefully-in-social-customer-service?u=76281980&t=88)** Here's an example on Facebook.
 >
@@ -237,14 +233,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (2), product (1), generic (1), business (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2)
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** dms (1)
 > **Speakers:** - can (1)
 
-#### Answer one customer and help many more
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980)
+#### [Answer one customer and help many more](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -256,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=11)** It's social.
 >
-> **[0:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=13)** The downside is that when your products don't work so well, or your website's being glitchy, customers can gang up on you in social channels.
+> **[0:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=13)** The downside is that when your [[Microsoft Products|products]] don't work so well, or your website's being glitchy, customers can gang up on you in social channels.
 >
 > **[0:21](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/answer-one-customer-and-help-many-more?u=76281980&t=21)** The upside is that your answer to one person can help a lot more people if you include three types of information in your response.
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Analogies:** such as (1), picture (1), for example (1)
 > **Exercise Files:** download the (1)
 > **Definitions:** is a  (1)
@@ -337,8 +332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adopt an informal yet professional tone in your writing
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980)
+#### [Adopt an informal yet professional tone in your writing](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,7 +344,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980&t=12)** So, while we might greet a customer in an email with, "Dear Mr. Smith," we are not going to start a social post that way.
 >
-> **[0:20](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980&t=20)** We'll use an informal tone, something along the lines of, "Hi, John.
+> **[0:20](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980&t=20)** We'll use an informal tone, something along the lines of, "Hi, [[John the Ripper|John]].
 >
 > **[0:24](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/adopt-an-informal-yet-professional-tone-in-your-writing?u=76281980&t=24)** Hey, John.
 >
@@ -418,15 +412,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3)
 > **CLI Commands:** make (3)
 > **Exercise Files:** download the (1)
 > **Analogies:** it's like (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - there (1)
 
-#### Include emojis and GIFs in your customer service responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980)
+#### [Include emojis and GIFs in your customer service responses](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=63)** Here are four tips for using emojis and GIFs when responding to customers.
 >
-> **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=68)** Number one: never use an emoji or GIF to substitute for a word in your answer to a customer.
+> **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=68)** Number one: never use an emoji or GIF to substitute for a [[Microsoft Word|word]] in your answer to a customer.
 >
 > **[1:14](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=74)** These little images, animated or not, don't carry enough meaning to be part of your response.
 >
@@ -470,7 +463,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=83)** Tip number two: use emojis and GIFs in a way that supports your brand.
 >
-> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=89)** Your marketing department may have created brand-specific emojis and GIFs to use in social media marketing campaigns.
+> **[1:29](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=89)** Your marketing department may have created brand-specific emojis and GIFs to use in [[Social Media Marketing]] campaigns.
 >
 > **[1:36](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/include-emojis-and-gifs-in-your-customer-service-responses?u=76281980&t=96)** With your manager's permission, you may be able to use these emojis or GIFs in your responses to customers.
 >
@@ -511,8 +504,7 @@ created: 2026-05-02
 > **Env Vars:** gif (2)
 > **Speakers:** - so (1)
 
-#### Identify writing rules you can break in social media
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980)
+#### [Identify writing rules you can break in social media](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +530,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=62)** Another rule you can break is sentence structure.
 >
-> **[1:05](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=65)** You can write short two-word sentences because they're conversational and because they work well when you're trying to keep your responses brief.
+> **[1:05](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=65)** You can write short two-[[Microsoft Word|word]] sentences because they're conversational and because they work well when you're trying to keep your responses brief.
 >
 > **[1:14](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=74)** Of course, there isn't a rule that you have to write longer sentences, but in traditional customer service channels, we don't write two-word sentences.
 >
@@ -588,7 +580,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=200)** See if you can find and correct them all.
 >
-> **[3:23](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=203)** If you discover that you need to improve these writing skills, consider taking the Grammar Foundations course by Mignon Fogarty here on LinkedIn Learning.
+> **[3:23](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=203)** If you discover that you need to improve these writing skills, consider taking the Grammar Foundations course by Mignon Fogarty here on [[LinkedIn]] Learning.
 >
 > **[3:32](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/identify-writing-rules-you-can-break-in-social-media?u=76281980&t=212)** Social customer care is just a little less formal than other types of customer care, so you can take some license with a few of the rules for writing correctly.
 >
@@ -598,15 +590,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), web (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Exercise Files:** download the (1), exercise file (1)
 > **Analogies:** such as (1), just like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - yes (1)
 
-#### Demonstrate empathy in your responses to customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/demonstrate-empathy-in-your-responses-to-customers?u=76281980)
+#### [Demonstrate empathy in your responses to customers](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/demonstrate-empathy-in-your-responses-to-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,8 +676,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - writing (1)
 
-#### Personalize responses to customers with key details
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980)
+#### [Personalize responses to customers with key details](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/personalize-responses-to-customers-with-key-details?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -760,7 +750,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), power (1)
 > **CLI Commands:** brew (5), make (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - has (1)
@@ -770,8 +759,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Determine when to use templates versus customized responses
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980)
+#### [Determine when to use templates versus customized responses](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-to-use-templates-versus-customized-responses?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -851,13 +839,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), power (1)
 > **Exercise Files:** template (8)
 > **Analogies:** for example (1)
 > **Speakers:** - some (1)
 
-#### Write templates that are easy to customize
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980)
+#### [Write templates that are easy to customize](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/write-templates-that-are-easy-to-customize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,7 +915,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), product (1)
 > **Exercise Files:** template (9), download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - we (1)
@@ -939,8 +924,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defuse angry customers skillfully
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980)
+#### [Defuse angry customers skillfully](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/defuse-angry-customers-skillfully?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1024,14 +1008,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Definitions:** is a  (2)
 > **Versions:** version 427 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - when (1)
 
-#### Determine when not to engage with angry customers on social
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980)
+#### [Determine when not to engage with angry customers on social](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1047,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=116)** For example, here's Georgia's one star review of Hansel and Petal organic purple hair dye.
 >
-> **[2:03](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=123)** "Don't buy, Dangerous products.
+> **[2:03](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=123)** "Don't buy, Dangerous [[Microsoft Products|products]].
 >
 > **[2:06](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/determine-when-not-to-engage-with-angry-customers-on-social?u=76281980&t=126)** Lies about what's in the bottle.
 >
@@ -1111,14 +1093,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - when (1)
 
-#### Apologize authentically to angry customers
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980)
+#### [Apologize authentically to angry customers](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1134,7 +1115,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980&t=39)** Let me show you how to take this overused apology from empty to effective.
 >
-> **[0:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980&t=45)** First, replace the word "any" with the word "the".
+> **[0:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980&t=45)** First, replace the [[Microsoft Word|word]] "any" with the word "the".
 >
 > **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/apologize-authentically-to-angry-customers?u=76281980&t=50)** This change instantly makes you sound less skeptical.
 >
@@ -1185,8 +1166,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Respond to low ratings and poor reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980)
+#### [Respond to low ratings and poor reviews](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1194,7 +1174,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=5)** Everybody's talking dirt about someone else, and once the gossip's out there, it's hard to restore your reputation.
 >
-> **[0:12](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=12)** Ratings and review sites like Trustpilot, Yelp, Google Reviews, MouthShut and OpenTable may be the most gossipy places in all of social media.
+> **[0:12](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=12)** Ratings and review sites like Trustpilot, Yelp, [[Google]] Reviews, MouthShut and OpenTable may be the most gossipy places in all of social media.
 >
 > **[0:23](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=23)** Customers tell detailed stories about how they interacted with your company, explain why they loved or hated your product, and top it off with a star rating.
 >
@@ -1208,7 +1188,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=54)** And when you write a thoughtful response to a low rating, you can rescue the business relationship with that individual customer and with all the other customers who read the review.
 >
-> **[1:05](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=65)** Here's an example of a negative review by customer John who's unhappy with Leaf and Mortar landscape design.
+> **[1:05](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=65)** Here's an example of a negative review by customer [[John the Ripper|John]] who's unhappy with Leaf and Mortar landscape design.
 >
 > **[1:12](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/respond-to-low-ratings-and-poor-reviews?u=76281980&t=72)** He's upset because the appointment was canceled at the last minute and he feels like the business doesn't value his time.
 >
@@ -1270,14 +1250,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), business (2), [[Google]] (1), generic (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (3), [[Google]] (1)
 > **CLI Commands:** make (1)
 > **Exercise Files:** download the (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Offer solutions, share resources, and suggest products
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980)
+#### [Offer solutions, share resources, and suggest products](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1321,7 +1300,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980&t=116)** For the future, please check out our YouTube tutorials, or download our step-by-step instructions, which are more detailed than the ones that come in the box with the furniture."
 >
-> **[2:06](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980&t=126)** Finally, suggest alternative products.
+> **[2:06](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980&t=126)** Finally, suggest alternative [[Microsoft Products|products]].
 >
 > **[2:09](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/offer-solutions-share-resources-and-suggest-products?u=76281980&t=129)** I know, I know this sounds risky.
 >
@@ -1355,7 +1334,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** abc (2)
 > **Analogies:** just like (1)
@@ -1366,8 +1345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use GenAI to analyze customer posts
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980)
+#### [Use GenAI to analyze customer posts](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1391,13 +1369,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=45)** It's really hard to tell.
 >
-> **[0:47](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=47)** Enter generative AI.
+> **[0:47](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=47)** Enter [[Generative AI]].
 >
-> **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=50)** Tools like ChatGPT can help you write social media responses to customers posts, but they can also help you read and interpret posts so you can reply accurately.
+> **[0:50](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=50)** Tools like [[ChatGPT]] can help you write social media responses to customers posts, but they can also help you read and interpret posts so you can reply accurately.
 >
 > **[1:01](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=61)** Now, some of you may have used Gen AI tools before, and some of you may be brand new to them.
 >
-> **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=68)** If you need to get up to speed, here are six LinkedIn learning courses that will help you understand what generative AI is and how you may use it to respond to customers on social media.
+> **[1:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=68)** If you need to get up to speed, here are six [[LinkedIn]] learning courses that will help you understand what generative AI is and how you may use it to respond to customers on social media.
 >
 > **[1:20](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=80)** Let me show you how ChatGPT can help you understand a customer's confusing post.
 >
@@ -1445,7 +1423,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=181)** The mention of college student Christmas money hit suggests they are considering using their Christmas funds for a purchase.
 >
-> **[3:09](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=189)** The question how indicates they want details, such as when the release will happen, what products will be included, or any special promotions associated with the holiday themed drop."
+> **[3:09](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=189)** The question how indicates they want details, such as when the release will happen, what [[Microsoft Products|products]] will be included, or any special promotions associated with the holiday themed drop."
 >
 > **[3:21](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-analyze-customer-posts?u=76281980&t=201)** You can also instruct ChatGPT to do two things.
 >
@@ -1507,12 +1485,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (14), prompt (6), ai (5), [[Generative AI]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (14), [[Generative AI]] (2), [[LinkedIn]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - we (1)
 
-#### Use GenAI to refine responses to customers before posting
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980)
+#### [Use GenAI to refine responses to customers before posting](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1522,7 +1499,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=20)** If it feels like you could use a writing assistant, you're right, you could.
 >
-> **[0:24](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=24)** Here again is where generative AI tools like ChatGPT might be just the thing you need.
+> **[0:24](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=24)** Here again is where [[Generative AI Tools]] like [[ChatGPT]] might be just the thing you need.
 >
 > **[0:31](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=31)** You may not be ready to let a bot fully write your responses to customers, but here are three ways ChatGPT can serve as a super competent editor that fixes your draft responses quickly.
 >
@@ -1662,7 +1639,7 @@ created: 2026-05-02
 >
 > **[7:06](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=426)** You know customers better.
 >
-> **[7:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=428)** You know your company's products and processes better.
+> **[7:08](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=428)** You know your company's [[Microsoft Products|products]] and processes better.
 >
 > **[7:11](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/use-genai-to-refine-responses-to-customers-before-posting?u=76281980&t=431)** You are more valuable than ChatGPT.
 >
@@ -1674,7 +1651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (19), prompt (5), [[Generative AI Tools]] (1), next (1), express (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (19), [[Generative AI Tools]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **Env Vars:** tsa (3)
 > **CLI Commands:** find (1)
@@ -1686,8 +1663,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Take your social customer care skills to the next level
-> [LinkedIn Learning](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980)
+#### [Take your social customer care skills to the next level](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,15 +1673,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=13)** So, be a leader on your team.
 >
-> **[0:16](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=16)** Be the one who writes the social media templates, shows your colleagues how to use chatGPT to edit responses to customers, or replies to the one star ratings and poor reviews.
+> **[0:16](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=16)** Be the one who writes the social media templates, shows your colleagues how to use [[ChatGPT]] to edit responses to customers, or replies to the one star ratings and poor reviews.
 >
 > **[0:28](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=28)** I'm happy for you and proud of you, but I'm not ready to say goodbye to you.
 >
 > **[0:32](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=32)** Let me know how you're doing, and how you're using the writing skills you've learned.
 >
-> **[0:37](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=37)** Follow me on LinkedIn, email me, or head on over to my eWrite online website, where you can subscribe to my newsletter.
+> **[0:37](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=37)** Follow me on [[LinkedIn]], email me, or head on over to my eWrite online website, where you can subscribe to my newsletter.
 >
-> **[0:44](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=44)** And I hope you'll join me for my Fix This Writing Office Hours on LinkedIn Live, where we take a bad piece of writing and show you how to make it better.
+> **[0:44](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=44)** And I hope you'll join me for my Fix This Writing [[Microsoft Office|Office]] Hours on LinkedIn Live, where we take a bad piece of writing and show you how to make it better.
 >
 > **[0:53](https://www.linkedin.com/learning/serving-customers-using-social-media-23748575/take-your-social-customer-care-skills-to-the-next-level?u=76281980&t=53)** Keep investing in yourself, just like you did with this course.
 >
@@ -1713,7 +1689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ChatGPT]] (1), [[Microsoft Office|Office]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[ChatGPT]] (1), [[Microsoft Office|Office]] (1)
 > **Code Identifiers:** chatgpt (1), ewrite (1)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)

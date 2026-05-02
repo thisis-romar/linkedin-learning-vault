@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn to secure applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
+#### [Learn to secure applications](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -84,23 +83,22 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980&t=23)** I'm Emmanuel Chebukati and I've been securely deploying web applications to the public cloud for over a decade.
 >
-> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980&t=30)** If you're ready to learn how web applications are compromised and what to do to keep this from happening I invite you to join my LinkedIn learning course on application security.
+> **[0:30](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/learn-to-secure-applications?u=76281980&t=30)** If you're ready to learn how web applications are compromised and what to do to keep this from happening I invite you to join my [[LinkedIn]] learning course on [[Application Security]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), application (2), cloud (1), [[LinkedIn]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Application Security]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### The most reported vulnerabilities today
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980)
+#### [The most reported vulnerabilities today](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=0)** - [Instructor] There are no prerequisites for this course but it is designed for aspiring technology professionals, ranging from students to entry-level cybersecurity engineers.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=0)** - [Instructor] There are no prerequisites for this course but it is designed for aspiring technology professionals, ranging from students to entry-level [[Cybersecurity]] engineers.
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=9)** The course is based on the top 10 most reported vulnerabilities on bug bounty programs in the calendar year 2022.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=17)** Therefore, completing this course will position an aspiring application security engineer to be able to slot right into a defensive role.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=17)** Therefore, completing this course will position an aspiring [[Application Security]] engineer to be able to slot right into a defensive role.
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/the-most-reported-vulnerabilities-today?u=76281980&t=26)** Similarly, the course will educate application developers on the most common mistakes in their field and how to avoid repeating them.
 >
@@ -110,7 +108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), [[Cybersecurity]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Application Security]] (2)
 > **Speakers:** - [instructor] (1)
 
 
@@ -118,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Improper authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
+#### [Improper authentication](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -143,7 +140,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=59)** When a user navigates to the website and enters their credentials, they're able to view the social media posts from their account and from the accounts of other users.
 >
-> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=70)** Note the URL home.php.
+> **[1:10](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=70)** Note the URL home.[[PHP]].
 >
 > **[1:14](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=74)** Similarly, the user is able to navigate to the All Posts page and view all the public posts on this platform.
 >
@@ -159,7 +156,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=124)** In this next example, the user also has the option to request a four-digit one-time password, or OTP, to successfully authenticate.
 >
-> **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=134)** OTPs are becoming an increasingly common authentication flow in order to ease the user experience.
+> **[2:14](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=134)** OTPs are becoming an increasingly common authentication flow in order to ease the [[User Experience (UX)|user experience]].
 >
 > **[2:20](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=140)** The trouble is, however, this page does not implement rate limiting.
 >
@@ -185,13 +182,13 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=222)** Having proper authentication is critical to ensuring the confidentiality of data in your application.
 >
-> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=228)** As an application security engineer, it is your responsibility to regularly test your application's authentication mechanisms for authentication bypass and implement rate limiting and CAPTCHAs.
+> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=228)** As an [[Application Security]] engineer, it is your responsibility to regularly test your application's authentication mechanisms for authentication bypass and implement rate limiting and CAPTCHAs.
 >
 > **[4:02](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authentication?u=76281980&t=242)** Also consider the use of third-party authentication tools that you implement properly to ensure that you're working with the latest the market has to offer in terms of authentication protection.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), data (3), [[PHP]] (2), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[User Experience (UX)|User experience]] (1), [[Application Security]] (1)
 > **CLI Commands:** php (2), make (1)
 > **Env Vars:** url (1), otp (1), php (1)
 > **File Paths:** home.php (1)
@@ -199,8 +196,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [narrator] (1)
 
-#### Improper authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980)
+#### [Improper authorization](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=127)** In fact, when we get rid of it and refresh the page, seemingly nothing changes, and the application runs as normal.
 >
-> **[2:15](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=135)** As a curious application security engineer, however, you may be tempted to change this user variable to admin.
+> **[2:15](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=135)** As a curious [[Application Security]] engineer, however, you may be tempted to change this user variable to admin.
 >
 > **[2:24](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=144)** All of a sudden, we seem to have administrator privileges on the system and we can delete other user's comments.
 >
@@ -258,11 +254,11 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=214)** During testing, use sample accounts with varying roles to ensure that users cannot execute functions beyond their assigned scope.
 >
-> **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=222)** And finally, if building and verifying all these roles starts to become a bit cumbersome, you can always explore third-party vendors, like Azure Active Directory or Keycloak and implement them correctly to provide identity and access management services.
+> **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/improper-authorization?u=76281980&t=222)** And finally, if building and verifying all these roles starts to become a bit cumbersome, you can always explore third-party vendors, like [[Microsoft Entra ID|Azure Active Directory]] or Keycloak and implement them correctly to provide identity and access management services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Security]] (2), database (2), data (1), [[Microsoft Entra ID|Azure active directory]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** url (2), http (1)
 > **Definitions:** known as (2), is an  (1)
 > **Analogies:** such as (2), for example (1)
@@ -273,8 +269,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Insecure direct object references (IDOR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
+#### [Insecure direct object references (IDOR)](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -284,7 +279,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980&t=14)** An Insecure Direct Object Reference or IDOR vulnerability occurs when an application does not authorize the permissions of a user making a request to a function.
 >
-> **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980&t=25)** The object could be a post on a social media site and the word insecure comes from the lack of authorization checks to ensure that the actioning user can manipulate the object.
+> **[0:25](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980&t=25)** The object could be a post on a social media site and the [[Microsoft Word|word]] insecure comes from the lack of authorization checks to ensure that the actioning user can manipulate the object.
 >
 > **[0:37](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/insecure-direct-object-references-idor?u=76281980&t=37)** This vulnerability is closely related to improper authorization.
 >
@@ -340,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), web application (1), [[Microsoft Word|Word]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Env Vars:** idor (3), f12 (1)
 > **Analogies:** such as (3), for example (1)
 > **Tools:** firefox (2)
@@ -349,8 +344,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Best Practices:** make sure to (1)
 
-#### Cross-site scripting (XSS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980)
+#### [Cross-site scripting (XSS)](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +360,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=41)** When these malicious scripts are encountered by the victim's device, the browser proceeds to execute them as if they were trusted code.
 >
-> **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=49)** This trust factor means that the malicious script has access to what should have otherwise been sensitive data, like session tokens, cookies, and other sensitive information.
+> **[0:49](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=49)** This trust factor means that the malicious script has access to what should have otherwise been sensitive data, like session [[Tokens]], cookies, and other sensitive information.
 >
 > **[1:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=60)** To demonstrate this vulnerability, let's log into our sample social media application as the user, Bob.
 >
@@ -382,7 +376,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=104)** Let's submit it, and when we go back and return to the page, we can see that only Harmless post is embedded in the social feed.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=113)** The rest of the script has ran in the background.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=113)** The [[Representational State Transfer (REST)|rest]] of the script has ran in the background.
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=117)** Now simulating the attacker, Bob, I will log into the attacker's server and set it up to view live access logs.
 >
@@ -416,7 +410,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=222)** This way, they cannot be accessed on the client's side, and therefore not sent to an attacker's remote server.
 >
-> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=228)** As an application security engineer, identifying and triaging incidents of XSS will be a primary part of your role.
+> **[3:48](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=228)** As an [[Application Security]] engineer, identifying and triaging incidents of XSS will be a primary part of your role.
 >
 > **[3:55](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-scripting-xss?u=76281980&t=235)** Potential XSS vulnerabilities are typically identified quickest by running an alert script in your input fields.
 >
@@ -424,15 +418,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), next (2), web application (1), [[Scripting]] (1), data (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Application Security]] (1)
 > **Env Vars:** xss (4), http (1), url (1)
 > **UI Navigation:** click on (2), navigate to (1)
 > **Definitions:** means that (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cross-site request forgery (CSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980)
+#### [Cross-site request forgery (CSRF)](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +469,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980&t=144)** Similarly, you can implement a cross-origin resource sharing or CORS policy to ensure that the web request comes from known websites only.
 >
-> **[2:34](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980&t=154)** As an application security engineer, you need to regularly test for this vulnerability and carefully interrogate cases of exemptions.
+> **[2:34](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980&t=154)** As an [[Application Security]] engineer, you need to regularly test for this vulnerability and carefully interrogate cases of exemptions.
 >
 > **[2:42](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/cross-site-request-forgery-csrf?u=76281980&t=162)** Policy exemptions often come about when developers are looking for a quick solution to go to production.
 >
@@ -484,7 +477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (1)
 > **Env Vars:** csrf (4), cors (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
@@ -497,8 +490,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Information disclosure
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
+#### [Information disclosure](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -524,7 +516,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=68)** Bob now has access to the production database's credentials.
 >
-> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=72)** Backend code may fail to execute during a failed version of an upgrade, for example, PHP upgrade.
+> **[1:12](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=72)** Backend code may fail to execute during a failed version of an upgrade, for example, [[PHP]] upgrade.
 >
 > **[1:20](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=80)** When the error is fixed, Bob decides to create a new post.
 >
@@ -536,7 +528,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=107)** Credentials often find their way into code and code repositories because the developers were quickly testing something and forgot to remove the credentials afterwards.
 >
-> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=117)** Fortunately, however, modern day code repositories like GitHub and GitLab now offer automated scanning for credentials and secrets in code.
+> **[1:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=117)** Fortunately, however, modern day code repositories like [[GitHub]] and GitLab now offer automated scanning for credentials and secrets in code.
 >
 > **[2:07](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=127)** Let's see how to enable this on GitHub.
 >
@@ -576,11 +568,11 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=257)** While this is certainly better than committing secrets into code, environment variables are difficult to rotate, encrypt, collaborate on and scale.
 >
-> **[4:26](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=266)** The second and most preferable way is the use of a secrets management solution such as HashiCorp Vault, AWS Secrets Manager, or Azure Key Vault.
+> **[4:26](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/information-disclosure?u=76281980&t=266)** The second and most preferable way is the use of a secrets management solution such as HashiCorp Vault, AWS Secrets Manager, or [[Microsoft Azure|Azure]] Key Vault.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[GitHub]] (6), database (3), [[Security]] (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[PHP]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** github (6), gitlab (1)
 > **UI Navigation:** click on (3), scroll down (2), navigate to (1)
 > **CLI Commands:** find (2), php (1), make (1), aws (1)
@@ -589,12 +581,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open redirect
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/open-redirect?u=76281980)
+#### [Open redirect](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/open-redirect?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/open-redirect?u=76281980&t=0)** - [Instructor] Web applications often integrate redirects to transfer users from one page to another, or to external websites in order to enhance the user experience.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/open-redirect?u=76281980&t=0)** - [Instructor] Web applications often integrate redirects to transfer users from one page to another, or to external websites in order to enhance the [[User Experience (UX)|user experience]].
 >
 > **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/open-redirect?u=76281980&t=10)** When left open for all to use, an attacker can use these redirects to transfer users to their own malicious website.
 >
@@ -638,15 +629,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), web (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1)
 > **Env Vars:** url (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business logic errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/business-logic-errors?u=76281980)
+#### [Business logic errors](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/business-logic-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -696,7 +686,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), application (4), web application (1), web (1), [[Security]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** select the (1)
@@ -707,8 +696,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Web application firewall (WAF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
+#### [Web application firewall (WAF)](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -720,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=23)** It only sends HTTP traffic to the application once it has been checked and filtered.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=28)** These checks predominantly protect against input-related vulnerabilities such as cross-site scripting and SQL injection.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=28)** These checks predominantly protect against input-related vulnerabilities such as cross-site scripting and [[SQL]] injection.
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=35)** Modern WAFs can also protect against cases of insecure design like information disclosure.
 >
@@ -728,7 +716,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=50)** This input-related vulnerability allows an attacker to execute malicious scripts on a victim's browser, often leading to account takeover.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=59)** As such, when we log in as the user Bob and then post a malicious script into the input field, the XSS vulnerability triggers with the JavaScript alert XSS.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=59)** As such, when we log in as the user Bob and then post a malicious script into the input field, the XSS vulnerability triggers with the [[JavaScript]] alert XSS.
 >
 > **[1:15](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=75)** Similarly, the underlying text gets posted as well.
 >
@@ -740,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=109)** Enter the Web Application Firewall or WAF.
 >
-> **[1:53](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=113)** Every cloud vendor has their own implementation, but we'll be using Microsoft Azure's Web Application Gateway for this purpose.
+> **[1:53](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=113)** Every cloud vendor has their own implementation, but we'll be using [[Microsoft Azure]]'s Web Application Gateway for this purpose.
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=122)** Let's start by creating the application gateway.
 >
@@ -748,7 +736,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=135)** The app gateway sits between the customer and the destination server, and this is where our WAF will be deployed.
 >
-> **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=142)** Click on Application Gateway by Microsoft and then click on Create.
+> **[2:22](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=142)** Click on Application Gateway by [[Microsoft]] and then click on Create.
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=147)** Set the resource group appropriately and name the application gateway, in my case L-I-L-A-G.
 >
@@ -774,7 +762,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=242)** Next, I'll proceed to Configuration.
 >
-> **[4:05](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=245)** Here, we need to create a routing rule to route traffic from the frontend public IP of the application gateway to the backend pool that contains the virtual machine with the application.
+> **[4:05](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=245)** Here, we need to create a [[Routing]] rule to route traffic from the frontend public IP of the application gateway to the backend pool that contains the virtual machine with the application.
 >
 > **[4:18](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=258)** So I'll click on Add a routing rule and then give the routing rule a name, for example, agRoutingRule.
 >
@@ -812,19 +800,19 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=383)** With the WAF now deployed, let's log back in to our sample social media application with the user Bob.
 >
-> **[6:30](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=390)** Now, when Bob tries to submit the same malicious script into the database, he is met with a 403 Forbidden error by Microsoft-Azure-Application-Gateway/v2.
+> **[6:30](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=390)** Now, when Bob tries to submit the same malicious script into the database, he is met with a 403 Forbidden error by Microsoft-[[Microsoft Azure|Azure]]-Application-Gateway/v2.
 >
 > **[6:41](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=401)** The underlying code is still vulnerable, but the WAF is protecting the exploitation of common vulnerabilities on this application.
 >
 > **[6:51](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=411)** Web Application Firewalls can be configured in detection or prevention mode to suit your needs.
 >
-> **[6:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=417)** Learning how to configure and tweak a WAF so as to maintain security but limit false positives is definitely something an application security engineer ought to know how to do.
+> **[6:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=417)** Learning how to configure and tweak a WAF so as to maintain security but limit false positives is definitely something an [[Application Security]] engineer ought to know how to do.
 >
 > **[7:08](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/web-application-firewall-waf?u=76281980&t=428)** Whether you have one or not, continue to insist on developers writing secure code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (22), web application (8), [[Routing]] (4), [[Security]] (3), next (3)
+> **Frameworks & Libraries:** [[Routing]] (4), [[Microsoft]] (2), [[SQL]] (1), [[JavaScript]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (20), select the (2), go to (2), switch to (1)
 > **Env Vars:** waf (12), xss (3), dns (2), http (1), sql (1)
 > **Code Identifiers:** agbackendpool (2), mywafpolicy (1), agsubnet (1), agpublicip (1), agroutingrule (1)
@@ -833,18 +821,17 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980)
+#### [DevSecOps](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=0)** - [Instructor] The earlier we can catch application security issues in the development lifecycle, the better.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=0)** - [Instructor] The earlier we can catch [[Application Security]] issues in the development lifecycle, the better.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=6)** However, with changes constantly being pushed into the code repository by developers, the security team may struggle to keep up.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=14)** This could result in delayed code releases and resultant animosity between the two teams.
 >
-> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=20)** DevSecOps aims to reduce this friction by integrating security into the development lifecycle as early as possible.
+> **[0:20](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=20)** [[DevSecOps]] aims to reduce this friction by integrating security into the development lifecycle as early as possible.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=28)** This is done in an automated fashion and the process is also known as shifting left.
 >
@@ -874,7 +861,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=147)** Here's how it all looks like in action from GitLab's Demo Cloud.
 >
-> **[2:31](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=151)** First, when a developer tries to commit code into the main branch a code review like this can be enforced.
+> **[2:31](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=151)** First, when a developer tries to commit code into the main branch a [[Code Review]] like this can be enforced.
 >
 > **[2:39](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/devsecops?u=76281980&t=159)** This review should be conducted by a colleague to verify that the code being introduced into the application is safe.
 >
@@ -908,7 +895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), [[Security]] (14), teams (7), [[DevSecOps]] (3), [[Security Engineering]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (8), [[DevSecOps]] (3), [[Code Review]] (1)
 > **Env Vars:** sast (3), dast (3), iast (1), cicd (1), url (1)
 > **Tools:** gitlab (2)
 > **Definitions:** known as (2)
@@ -917,16 +904,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practice platforms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980)
+#### [Practice platforms](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=0)** - [Instructor] The only way an application security engineer can become really good at identifying, triaging, and resolving security incidents is by practicing.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=0)** - [Instructor] The only way an [[Application Security]] engineer can become really good at identifying, triaging, and resolving security incidents is by practicing.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=10)** Several practice platforms exist online, such as Hack The Box, TryHackMe, and PentesterLabs.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=10)** Several practice platforms exist online, such as Hack The Box, [[TryHackMe]], and PentesterLabs.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=19)** Hack The Box is one of the most popular ethical hacking websites.
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=19)** Hack The Box is one of the most popular [[Ethical Hacking]] websites.
 >
 > **[0:24](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=24)** They offer hacking labs, hacking challenges, and capture the flag competitions.
 >
@@ -938,11 +924,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=51)** These platforms are not entirely free, and so if you want to be fully in control of your learning experience, I recommend setting up labs locally.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=61)** Some options of vulnerable applications that you can download and run on your local machine include Damn Vulnerable Web Application, OWASP WebGoat, and OWASP Juice Shop.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=61)** Some options of vulnerable applications that you can download and run on your local machine include Damn Vulnerable Web Application, [[OWASP]] WebGoat, and OWASP Juice Shop.
 >
 > **[1:13](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=73)** Setting up these downloadable platforms today is much easier.
 >
-> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=78)** They often come packaged and pre-built as virtual machines or Docker containers, which you can run and interact with via your web browser.
+> **[1:18](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=78)** They often come packaged and pre-built as [[Virtual Machines]] or Docker containers, which you can run and interact with via your web browser.
 >
 > **[1:26](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/practice-platforms?u=76281980&t=86)** Once setup, you can now test various application level vulnerabilities, tweak the code to explore further, and learn in a safe environment.
 >
@@ -954,7 +940,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), [[Security]] (2), [[OWASP]] (2), [[Ethical Hacking]] (1), web application (1)
+> **Frameworks & Libraries:** [[TryHackMe]] (2), [[OWASP]] (2), [[Application Security]] (1), [[Ethical Hacking]] (1), [[Virtual Machines]] (1)
 > **CLI Commands:** docker (1), make (1)
 > **Env Vars:** owasp (2)
 > **Analogies:** such as (1)
@@ -967,14 +953,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=0)** - [Instructor] Application security is increasingly cementing itself as the most important facet of cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=0)** - [Instructor] [[Application Security]] is increasingly cementing itself as the most important facet of [[Cybersecurity]].
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=6)** This is because the world is moving away from infrastructure as a service deployments in favor of platform as a service deployments.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=6)** This is because the world is moving away from [[IaaS|infrastructure as a service]] deployments in favor of [[PaaS|platform as a service]] deployments.
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=13)** With this trend taking place in the cloud, the most likely way to compromise a system will no longer be at the physical or network layer, which are now professionally managed by cloud providers, but instead at the application level.
 >
@@ -986,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=51)** In this course, we also saw how improper deployment can compromise the security of an application.
 >
-> **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=57)** If you wish to learn more about how to securely deploy your applications in the cloud, then check out my LinkedIn learning course on FinTech security essentials.
+> **[0:57](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=57)** If you wish to learn more about how to securely deploy your applications in the cloud, then check out my [[LinkedIn]] learning course on FinTech security essentials.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-foundations-application-security/next-steps?u=76281980&t=66)** The application security field is changing very fast.
 >
@@ -1000,7 +985,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (6), [[Cybersecurity]] (3), cloud (3), [[Programming]] (2)
+> **Frameworks & Libraries:** [[Application Security]] (4), [[Cybersecurity]] (3), [[IaaS|Infrastructure as a service]] (1), [[PaaS|Platform as a service]] (1), [[LinkedIn]] (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 

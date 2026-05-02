@@ -141,12 +141,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=6)** Welcome to SQL Server 2022 Administration Inside Out.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=6)** Welcome to [[Microsoft SQL Server|SQL Server]] 2022 Administration Inside Out.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=10)** My name is Eric Johnson, and I'm here to help give you the knowledge and tools you need to correctly and effectively manage SQL Server in your environment.
 >
@@ -154,7 +153,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=24)** Over the years I've worked with SQL Server in many different capacities.
 >
-> **[0:28](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=28)** As a developer, I've written applications that utilize SQL Server databases.
+> **[0:28](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=28)** As a developer, I've written applications that utilize SQL Server [[Databases]].
 >
 > **[0:32](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=32)** As a database architect, I have designed databases that SQL Server hosts.
 >
@@ -166,7 +165,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=52)** We start by introducing SQL Server, its tools, its components, how to install it, and we talk about SQL Server instances, database tools, and we look at database server components, including common configuration options for the database engine, and we'll take our first look at security and high availability.
 >
-> **[1:11](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=71)** Next, we look at provisioning SQL Server and Azure SQL Databases.
+> **[1:11](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=71)** Next, we look at provisioning SQL Server and [[Microsoft Azure|Azure]] [[SQL]] Databases.
 >
 > **[1:16](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=76)** We'll give you everything you need to know about setting up and configuring your SQL Servers, plus the basics of working with setting up Azure Databases.
 >
@@ -174,7 +173,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=97)** Next, we cover designing, tuning, and optimizing SQL Server.
 >
-> **[1:41](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=101)** We'll look at database design, performance tuning, including indexes, statistics, and look a little bit at isolation levels and execution plans.
+> **[1:41](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=101)** We'll look at [[Database Design]], [[Performance Tuning]], including indexes, [[Statistics]], and look a little bit at isolation levels and execution plans.
 >
 > **[1:52](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=112)** We then move on to managing data recovery and implementing SQL Server high availability.
 >
@@ -184,7 +183,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=130)** You'll learn to manage your databases day to day and monitor activity to keep your servers performing in peak condition.
 >
-> **[2:16](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=136)** We'll also look at ways to automate SQL administration, including through the use of PowerShell.
+> **[2:16](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=136)** We'll also look at ways to automate SQL administration, including through the use of [[Powershell]].
 >
 > **[2:21](https://www.linkedin.com/learning/sql-server-2022-administration/introduction?u=76281980&t=141)** Now, I know that's a lot of ground to cover, but remember, just go at your own pace and work along with me.
 >
@@ -196,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), database (6), [[Databases]] (5), [[SQL]] (4), data (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (15), [[Databases]] (5), [[SQL]] (4), [[Microsoft Azure|Azure]] (2), [[Database Design]] (1)
 > **Env Vars:** sql (19)
 > **Tools:** powershell (1)
 > **Prerequisites:** install (1)
@@ -206,12 +205,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 1 introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980)
+#### [Module 1 introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980&t=6)** Let's take a look at SQL Server 2022 tools and components.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980&t=6)** Let's take a look at [[Microsoft SQL Server|SQL Server]] 2022 tools and components.
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/module-1-introduction?u=76281980&t=10)** You learn how to install SQL Server instances and use development tools.
 >
@@ -219,16 +217,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2)
 > **Prerequisites:** install (1)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307483?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307483?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307483?u=76281980&t=6)** Welcome to our lesson on installing and using SQL Server administration and development tools.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307483?u=76281980&t=6)** Welcome to our lesson on installing and using [[Microsoft SQL Server|SQL Server]] administration and development tools.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307483?u=76281980&t=11)** This lesson will give you information you need in order to install SQL Server and provide an overview of the various tools that come with a product.
 >
@@ -240,19 +237,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), product (1), management (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6)
 > **Env Vars:** sql (6)
 > **CLI Commands:** find (1)
 > **Prerequisites:** install (1)
 
-#### Understand the installation center
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980)
+#### [Understand the installation center](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=6)** So any time that you're going to install a new version or instance of SQL Server or change features or anything that involves adding features, function, or anything like that to a SQL Server installation, you're going to use the Installation Center.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=6)** So any time that you're going to install a new version or instance of [[Microsoft SQL Server|SQL Server]] or change features or anything that involves adding features, function, or anything like that to a SQL Server installation, you're going to use the Installation Center.
 >
-> **[0:21](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=21)** Now, if you've used previous versions of SQL, this will look very familiar to you.
+> **[0:21](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=21)** Now, if you've used previous versions of [[SQL]], this will look very familiar to you.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=25)** So here, you can see that I've downloaded the SQL Server 2022 installer.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=55)** Option Number 1, basic.
 >
-> **[0:58](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=58)** If I just click this, it'll essentially throw on a SQL Server instance with a SQL Server database and the default configuration, which is just a stripped down version, if all you need is a SQL Server to host databases.
+> **[0:58](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=58)** If I just click this, it'll essentially throw on a SQL Server instance with a SQL Server database and the default configuration, which is just a stripped down version, if all you need is a SQL Server to host [[Databases]].
 >
 > **[1:10](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=70)** I can also click "Custom."
 >
@@ -294,7 +290,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=150)** So we'll come back to that later on.
 >
-> **[2:32](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=152)** So this first page here, planning, is just that it's linked to a lot of resources that can help you play on a SQL Server: Hardware and software requirements, security documentation, release notes, migration managers and migration assistants, you name it.
+> **[2:32](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=152)** So this first page here, planning, is just that it's linked to a lot of resources that can help you play on a SQL Server: [[Hardware]] and software requirements, security documentation, release notes, migration managers and migration assistants, you name it.
 >
 > **[2:48](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=168)** This is all information that can help you if you're in the planning stage of setting up a SQL Server instance.
 >
@@ -310,11 +306,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=205)** So literally just what it says, it's maintenance to your existing instances.
 >
-> **[3:29](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=209)** Tools: This provides you a couple links. One's the System Configuration Checker, which will check your machine to see if there's anything that would prevent you from installing SQL.
+> **[3:29](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=209)** Tools: This provides you a couple links. One's the [[System Configuration]] Checker, which will check your machine to see if there's anything that would prevent you from installing SQL.
 >
 > **[3:39](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=219)** Do you have the right kind of hardware to run everything you need?
 >
-> **[3:42](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=222)** You can also run this discovery report, which essentially shows you a report of all SQL Server projects and products that are installed.
+> **[3:42](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=222)** You can also run this discovery report, which essentially shows you a report of all SQL Server projects and [[Microsoft Products|products]] that are installed.
 >
 > **[3:51](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-installation-center?u=76281980&t=231)** So it'll tell you what versions of SQL, what tools, etc.
 >
@@ -362,7 +358,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (9), [[Hardware]] (2), database (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[SQL]] (9), [[Hardware]] (2), [[Databases]] (1), [[System Configuration]] (1)
 > **Env Vars:** sql (31), map (1)
 > **Prerequisites:** install (12), set up (3), setup (1)
 > **CLI Commands:** find (2)
@@ -371,12 +367,11 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** similar to (1)
 
-#### Find the tools installed with the SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980)
+#### [Find the tools installed with the SQL Server](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=6)** So after you've set up and installed a SQL Server instance on your machine, you might be asking yourself, "How do I manage this?
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=6)** So after you've set up and installed a [[Microsoft SQL Server|SQL Server]] instance on your machine, you might be asking yourself, "How do I manage this?
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=13)** How do I configure it?
 >
@@ -384,11 +379,11 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=16)** Well, once you install the database server, that's really all you get is the database server and a few tools for configuring it.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=23)** You don't have any of the other Microsoft tools available.
+> **[0:23](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=23)** You don't have any of the other [[Microsoft]] tools available.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=26)** So I'll show you in the start menu here.
 >
-> **[0:29](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=29)** If you open this up and you scroll down to Microsoft SQL Server 2022, you'll see under this folder I have a Configuration Manager, an Error Usage and Reporting Manager, and basically, an Import Export tool and access to my Installation Center, again.
+> **[0:29](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=29)** If you open this up and you scroll down to [[Microsoft SQL Server]] 2022, you'll see under this folder I have a Configuration Manager, an Error Usage and Reporting Manager, and basically, an Import Export tool and access to my Installation Center, again.
 >
 > **[0:45](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=45)** That's it.
 >
@@ -404,7 +399,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=76)** There are multiple versions of this.
 >
-> **[1:18](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=78)** They sort of broke it away from SQL.
+> **[1:18](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=78)** They sort of broke it away from [[SQL]].
 >
 > **[1:20](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=80)** So it used to be you installed your SQL, you got your Management Studio. Now you just have to grab the latest and greatest version of Management Studio, which as of the time of this recording is version number 19.
 >
@@ -434,7 +429,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=147)** The other tools that were installed with this, the Profiler, which we'll look at in detail, allows you to track workloads and tune queries, see where things are slow, see where things might need to be improved.
 >
-> **[2:39](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=159)** Now, the other set of tools that depending on how long you've used SQL, you might have been familiar with a tool called Business Intelligence Development Studio or BIDS for short.
+> **[2:39](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=159)** Now, the other set of tools that depending on how long you've used SQL, you might have been familiar with a tool called [[Business Intelligence (BI)|Business Intelligence]] Development Studio or BIDS for short.
 >
 > **[2:49](https://www.linkedin.com/learning/sql-server-2022-administration/find-the-tools-installed-with-the-sql-server?u=76281980&t=169)** That was a tool that allowed you to write projects such as Reporting Services or Integration Services that interact with SQL Server in some way.
 >
@@ -542,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (16), database (6), [[SQL]] (6), [[Microsoft]] (5), management (5)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (16), [[SQL]] (6), [[Microsoft]] (5), [[Microsoft SQL Server]] (4), [[Business Intelligence (BI)|Business intelligence]] (2)
 > **Env Vars:** sql (26), ssms (1), bids (1)
 > **Tools:** visual studio (21)
 > **Prerequisites:** install (10), setup (2), set up (1), configure (1)
@@ -551,15 +546,13 @@ created: 2026-05-02
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** find (1)
 
-#### Use the performance and reliability monitoring tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-the-performance-and-reliability-monitoring-tools?u=76281980)
+#### [Use the performance and reliability monitoring tools](https://www.linkedin.com/learning/sql-server-2022-administration/use-the-performance-and-reliability-monitoring-tools?u=76281980)
 
-#### Understand SQL Server Management Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980)
+#### [Understand SQL Server Management Studio](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=6)** So SQL Server Management Studio is by far and away the tool you'll use the most, which is why we wanted to talk about it here.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=6)** So [[Microsoft SQL Server|SQL Server]] Management Studio is by far and away the tool you'll use the most, which is why we wanted to talk about it here.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=12)** So I refer to it as Management Studio or sometimes SSMS for short, but it's all the same thing.
 >
@@ -575,13 +568,13 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=44)** But Object Explorer is sort of what shows you all the different objects and pieces and parts of whatever you've connected to.
 >
-> **[0:51](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=51)** So here I'm connected to my local SQL Inside Out instance, which has a database.
+> **[0:51](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=51)** So here I'm connected to my local [[SQL]] Inside Out instance, which has a database.
 >
 > **[0:57](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=57)** And then if you want to configure replication or security or anything else, there's folders for all of that.
 >
 > **[1:03](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=63)** Within here, I can connect to any number of things Database Engines, Analysis Services, whatever.
 >
-> **[1:09](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=69)** I can even connect to Azure Storage or an Azure SSIS Integration Runtime Engine.
+> **[1:09](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=69)** I can even connect to [[Microsoft Azure|Azure]] Storage or an Azure SSIS Integration Runtime Engine.
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=75)** I can also connect to an Azure Database Engine, so I'll show you that real quick.
 >
@@ -593,7 +586,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=107)** So if I pick a database here, I can either right click and select "New Query," or I can just hit "New Query" in the toolbar and I will get a query window.
 >
-> **[1:56](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=116)** Now, this pops up and it allows me to run Transact-SQL against a particular database.
+> **[1:56](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=116)** Now, this pops up and it allows me to run [[Transact-SQL (T-SQL)|Transact-SQL]] against a particular database.
 >
 > **[2:02](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=122)** So you can also use the folders here to help you see what's in a database and help you design your queries.
 >
@@ -677,7 +670,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=393)** So as you're starting to write SQL queries, you want your using statements to be correct because you don't want to have to rely on who's ever running this query to go properly pick a context in a gooey or something like that.
 >
-> **[6:45](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=405)** Especially if you have a script that runs against multiple databases, you might use WideWorldImporters for a few things and then you might switch to a different database.
+> **[6:45](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=405)** Especially if you have a script that runs against multiple [[Databases]], you might use WideWorldImporters for a few things and then you might switch to a different database.
 >
 > **[6:53](https://www.linkedin.com/learning/sql-server-2022-administration/understand-sql-server-management-studio?u=76281980&t=413)** Now, you can also fully qualify these queries, which again, a little out of the scope of this, but a select statement can be pointed to a very specific database before tables, but the using statements lets you change context.
 >
@@ -703,7 +696,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (19), management (13), hit (8), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft Azure|Azure]] (6)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (6), [[Microsoft Azure|Azure]] (6), [[SQL]] (4), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[Databases]] (1)
 > **Env Vars:** sql (12), ssis (2), ssms (1)
 > **UI Navigation:** dropdown (3), drag and drop (1), switch to (1)
 > **Tools:** visual studio (2)
@@ -717,16 +710,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=6)** Welcome to the lesson on introducing database server components.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=10)** This lesson provides an overview of the major components of a SQL Server instance.
+> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=10)** This lesson provides an overview of the major components of a [[Microsoft SQL Server|SQL Server]] instance.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=14)** The concepts covered here will help you set up and maintain your SQL Servers.
+> **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=14)** The concepts covered here will help you set up and maintain your [[SQL]] Servers.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307475?u=76281980&t=19)** This lesson covers configuring server memory, setting up file storage, and how to configure the servers network settings.
 >
@@ -736,20 +728,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), database (1), [[SQL]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (1), configure (1)
 
-#### Configure server memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980)
+#### [Configure server memory](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=6)** So as you might imagine, SQL Server, since it works with data, uses a lot of memory on your system.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=6)** So as you might imagine, [[Microsoft SQL Server|SQL Server]], since it works with data, uses a lot of memory on your system.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=12)** And it's important to know how to configure that so that you can make sure that A; SQL Server gets the resources it needs to function, but also B; prevent SQL Server from stepping on other things that might be running on your machine.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=26)** So we're going to have a brief look at how to configure the memory SQL uses and, kind of, a talk about what that all entails.
+> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=26)** So we're going to have a brief look at how to configure the memory [[SQL]] uses and, kind of, a talk about what that all entails.
 >
 > **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=33)** So in Management Studio here, if you right click on a particular instance, select "Properties," you're going to get the server properties dialog and there are a lot of pages to this dialog.
 >
@@ -785,7 +776,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=153)** Another instance where this is very important and this is a little more of an advanced concept, but if you get into failover clusters where I have two instances of SQL running and a true failover cluster, I might have one SQL instance and it fails over to a second machine and fine, so it can still use all the memory.
 >
-> **[2:53](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=173)** But what if I have two instances running, so often what you'll do is you'll set up Physical Hardware 1 running a SQL instance and a physical piece of hardware Number 2, running another instance, and they're both configured to sort of failover to each other.
+> **[2:53](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=173)** But what if I have two instances running, so often what you'll do is you'll set up Physical [[Hardware]] 1 running a SQL instance and a physical piece of hardware Number 2, running another instance, and they're both configured to sort of failover to each other.
 >
 > **[3:08](https://www.linkedin.com/learning/sql-server-2022-administration/configure-server-memory?u=76281980&t=188)** And a lot of times corporations will do that because it's hard for them to swallow the cost of "I have this whole other server sitting here whose whole purpose in life is to be there in case this server fails."
 >
@@ -887,7 +878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), [[SQL]] (13), web (4), [[Hardware]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (17), [[SQL]] (13), [[Hardware]] (2)
 > **Env Vars:** sql (30)
 > **CLI Commands:** make (5), node (1)
 > **Prerequisites:** configure (2), set up (1), install (1), setup (1)
@@ -896,18 +887,17 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1)
 > **Definitions:** is a  (1)
 
-#### Setup database files
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980)
+#### [Setup database files](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=6)** So every SQL Server database you create on an instance is really just a collection of files that exist on a drive somewhere.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=6)** So every [[Microsoft SQL Server|SQL Server]] database you create on an instance is really just a collection of files that exist on a drive somewhere.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=15)** And the different files serve some different purposes, but essentially that's all it is.
 >
-> **[0:19](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=19)** And so we want to take a look at what these files are and understand how SQL Server uses them in order to create databases.
+> **[0:19](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=19)** And so we want to take a look at what these files are and understand how SQL Server uses them in order to create [[Databases]].
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=27)** So I'm just, kind of, going to flip over to this WideWorldImporters database, which, again, is a sample database you can download from Microsoft.
+> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=27)** So I'm just, kind of, going to flip over to this WideWorldImporters database, which, again, is a sample database you can download from [[Microsoft]].
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=35)** I'll right click it and I'll hit "Properties."
 >
@@ -931,7 +921,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=96)** The LOG file is where information about transactions are stored.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=103)** And this is important because a lot of times people see a LOG file and they think, oh, it's like a Windows LOG, right?
+> **[1:43](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=103)** And this is important because a lot of times people see a LOG file and they think, oh, it's like a [[Windows]] LOG, right?
 >
 > **[1:51](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=111)** So I don't need that.
 >
@@ -997,7 +987,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=281)** So performance kind of out the window, but it's really here to, kind of, show you how you can configure these things.
 >
-> **[4:47](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=287)** Now, what goes on which filegroup, that's a matter of your database design.
+> **[4:47](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=287)** Now, what goes on which filegroup, that's a matter of your [[Database Design]].
 >
 > **[4:53](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=293)** So I'm just going to close this properties window for a moment and expand our database and expand our tables.
 >
@@ -1043,7 +1033,7 @@ created: 2026-05-02
 >
 > **[7:05](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=425)** And that's this column right here, Autogrow/Maxsize.
 >
-> **[7:11](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=431)** So this is sort of a hot button topic in the world of database administration as to whether you should let your files autogrow or not.
+> **[7:11](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=431)** So this is sort of a hot button topic in the world of [[Database Administration]] as to whether you should let your files autogrow or not.
 >
 > **[7:20](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=440)** What this will do so that these two files are primarily where we have data, they both are set to autogrow.
 >
@@ -1191,11 +1181,11 @@ created: 2026-05-02
 >
 > **[15:18](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=918)** And also understanding how to manage that growth in the event of lots of SQL Server transactions and therefore, growing logs.
 >
-> **[15:24](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=924)** So hopefully, this gave you enough to, sort of, understand where these are, and there are some other lessons where we'll talk about performance tuning and backup and we'll revisit a little bit of this concept at that point.
+> **[15:24](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-files?u=76281980&t=924)** So hopefully, this gave you enough to, sort of, understand where these are, and there are some other lessons where we'll talk about [[Performance Tuning]] and backup and we'll revisit a little bit of this concept at that point.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (46), database (33), [[Microsoft SQL Server|Sql server]] (9), hit (5), [[Databases]] (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (9), [[Databases]] (3), [[Windows]] (3), [[Microsoft]] (1), [[Database Design]] (1)
 > **Env Vars:** log (16), sql (10), rows (9), userdata (7), filestream (5)
 > **Prerequisites:** set up (3), configure (2), install (1)
 > **UI Navigation:** go to (3), click on (1), dropdown (1)
@@ -1204,12 +1194,11 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Warnings:** keep in mind (1)
 
-#### Configure network settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980)
+#### [Configure network settings](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=6)** So SQL Server as a data and storage engine is more often than not accessed by other applications and programs and clients on different machines across local area networks, wider area networks, even the Internet.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=6)** So [[Microsoft SQL Server|SQL Server]] as a data and storage engine is more often than not accessed by other applications and programs and clients on different machines across local area networks, wider area networks, even the Internet.
 >
 > **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=22)** And so because of that, you have to understand how to configure it to exist on that network and what your options are for connecting to SQL Server.
 >
@@ -1231,7 +1220,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=95)** So these are all the services that run as part of a SQL Server install.
 >
-> **[1:38](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=98)** And I have several because I'm running different SQL Servers for different purposes.
+> **[1:38](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=98)** And I have several because I'm running different [[SQL]] Servers for different purposes.
 >
 > **[1:42](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=102)** But you'll see here, here's our SQL Server for this series, SQLINSIDEOUT, that's the instance. It's running -- up and running.
 >
@@ -1243,7 +1232,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=115)** But how are they listening for my clients?
 >
-> **[1:58](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=118)** And that is essentially what all the rest of this tool will show you.
+> **[1:58](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=118)** And that is essentially what all the [[Representational State Transfer (REST)|rest]] of this tool will show you.
 >
 > **[2:02](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=122)** So if I click on my "SQL Server Network Configuration," there's 32-bit here, and then you'll see the SQL Server network configuration without 32-bit.
 >
@@ -1509,11 +1498,11 @@ created: 2026-05-02
 >
 > **[15:16](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=916)** In my case, my client and my server happened to reside on the same machine.
 >
-> **[15:20](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=920)** In a typical environment, you'll do the server configuration on the networked server where the SQL Server instance lives and you'll do this client configuration down on your individual machines or your laptops or your other application servers that are going to talk to that SQL Server.
+> **[15:20](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=920)** In a typical environment, you'll do the [[Server Configuration]] on the networked server where the SQL Server instance lives and you'll do this client configuration down on your individual machines or your laptops or your other application servers that are going to talk to that SQL Server.
 >
 > **[15:39](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=939)** So you'll notice when you first set up a SQL Server, as it was when we came in here, shared memory was the only thing that's on.
 >
-> **[15:46](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=946)** And that is sort of a -- kind of a failsafe mechanism that Microsoft put in.
+> **[15:46](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=946)** And that is sort of a -- kind of a failsafe mechanism that [[Microsoft]] put in.
 >
 > **[15:52](https://www.linkedin.com/learning/sql-server-2022-administration/configure-network-settings?u=76281980&t=952)** When you install a new SQL Server, it's not up and running and listening on the network.
 >
@@ -1535,7 +1524,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (33), [[SQL]] (23), hit (6), next (3), management (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (33), [[SQL]] (23), [[Representational State Transfer (REST)|Rest]] (1), [[Server Configuration]] (1), [[Microsoft]] (1)
 > **Env Vars:** sql (56), tcp (12), insideout (7), ericjwork (5), sqlinsideout (3)
 > **Prerequisites:** configure (10), set up (6), install (2)
 > **CLI Commands:** find (4)
@@ -1544,12 +1533,11 @@ created: 2026-05-02
 > **Ports:** port 1433 (1)
 > **Analogies:** kind of like (1)
 
-#### Setup SQL Server security
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980)
+#### [Setup SQL Server security](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=6)** So any time you set up a new SQL Server instance, you need to consider how you're going to set up the security for that instance.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=6)** So any time you set up a new [[Microsoft SQL Server|SQL Server]] instance, you need to consider how you're going to set up the security for that instance.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=12)** Now, there's an entire lesson on logins and database permissions and server permissions, but we're going to look at the high level configuration of a SQL Server instance and how you configure its security.
 >
@@ -1565,7 +1553,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=46)** There are two authentication modes available.
 >
-> **[0:49](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=49)** One is Windows authentication mode, which essentially means you have to be logged in two Windows with an account that SQL Server understands, which means it could be a local account, local on that machine, or it could be a domain account in a larger Windows domain.
+> **[0:49](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=49)** One is [[Windows]] authentication mode, which essentially means you have to be logged in two Windows with an account that SQL Server understands, which means it could be a local account, local on that machine, or it could be a domain account in a larger Windows domain.
 >
 > **[1:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=66)** Okay.
 >
@@ -1579,7 +1567,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=90)** That means that all usernames and passwords are managed locally by this SQL Server instance.
 >
-> **[1:35](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=95)** So if I have SQL Servers in a Windows domain and I have, I don't know, 30 SQL Servers and I have users out there that all need access to these servers, if I set up SQL authentication, I have to give them a username on every one of my SQL Servers.
+> **[1:35](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=95)** So if I have [[SQL]] Servers in a Windows domain and I have, I don't know, 30 SQL Servers and I have users out there that all need access to these servers, if I set up SQL authentication, I have to give them a username on every one of my SQL Servers.
 >
 > **[1:51](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=111)** If I set up Windows authentication, their username and passwords managed by Windows, I just have to give them permission to talk to my SQL Server, but I would still log on with my Windows login.
 >
@@ -1591,7 +1579,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=142)** It's whether or not you also want to enable SQL Server logins.
 >
-> **[2:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=145)** Sometimes you do this if you have clients that aren't participating in the Windows domain, like Linux boxes or something like that, or you have devices that have to talk to the SQL Server and these devices can't really speak to the Windows domain.
+> **[2:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=145)** Sometimes you do this if you have clients that aren't participating in the Windows domain, like [[Linux]] boxes or something like that, or you have devices that have to talk to the SQL Server and these devices can't really speak to the Windows domain.
 >
 > **[2:38](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=158)** So then you have both, you have Windows and you have SQL Server authentication.
 >
@@ -1727,7 +1715,7 @@ created: 2026-05-02
 >
 > **[7:50](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=470)** So the top one called current is the current log.
 >
-> **[7:53](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=473)** So if I double click this, because I'm auditing logins, you'll see here my source has the word "Login" in the column.
+> **[7:53](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=473)** So if I double click this, because I'm auditing logins, you'll see here my source has the [[Microsoft Word|word]] "Login" in the column.
 >
 > **[8:02](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-security?u=76281980&t=482)** I can filter that.
 >
@@ -1841,7 +1829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[Windows]] (22), [[SQL]] (15), [[Security]] (12), database (8)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (22), [[Windows]] (22), [[SQL]] (15), [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** sql (37), insideout (1)
 > **Prerequisites:** set up (4), configure (4)
 > **Definitions:** is a  (3), means that (1), is an  (1), is called (1)
@@ -1855,31 +1843,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 2 introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980)
+#### [Module 2 introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980&t=6)** As a Database Administrator, you need to understand how to provision both SQL Server and Azure Server databases.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980&t=6)** As a Database Administrator, you need to understand how to provision both [[Microsoft SQL Server|SQL Server]] and [[Microsoft Azure|Azure]] Server [[Databases]].
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980&t=12)** Here, I'll show you both.
 >
-> **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980&t=13)** First, you'll see how to set up and configure your SQL Servers then you'll get the basics of working with and setting up Azure databases.
+> **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/module-2-introduction?u=76281980&t=13)** First, you'll see how to set up and configure your [[SQL]] Servers then you'll get the basics of working with and setting up Azure databases.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Databases]] (2), database (1), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1), [[SQL]] (1)
 > **Env Vars:** sql (2)
 > **Prerequisites:** set up (1), configure (1)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980&t=6)** Welcome to provisioning SQL Server databases.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980&t=6)** Welcome to provisioning [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
-> **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980&t=9)** In this lesson, we cover everything you need to know to provision a SQL Server from installation to server configuration and database creation.
+> **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980&t=9)** In this lesson, we cover everything you need to know to provision a SQL Server from installation to [[Server Configuration]] and database creation.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307477?u=76281980&t=16)** This lesson provides information you need to go from a new system to running SQL Server instances.
 >
@@ -1889,24 +1875,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), database (2), [[Server Configuration]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (2), [[Server Configuration]] (1)
 > **Env Vars:** sql (4)
 
-#### Install a new instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/install-a-new-instance?u=76281980)
+#### [Install a new instance](https://www.linkedin.com/learning/sql-server-2022-administration/install-a-new-instance?u=76281980)
 
-#### Make post-installation server configuration changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/make-post-installation-server-configuration-changes?u=76281980)
+#### [Make post-installation server configuration changes](https://www.linkedin.com/learning/sql-server-2022-administration/make-post-installation-server-configuration-changes?u=76281980)
 
-#### Install and configure database features
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/install-and-configure-database-features?u=76281980)
+#### [Install and configure database features](https://www.linkedin.com/learning/sql-server-2022-administration/install-and-configure-database-features?u=76281980)
 
-#### Create SQL Server databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980)
+#### [Create SQL Server databases](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=6)** Creating new databases on your SQL Server instances is a fairly straightforward process.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=6)** Creating new [[Databases]] on your [[Microsoft SQL Server|SQL Server]] instances is a fairly straightforward process.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=11)** You basically set up how big you want them to be, where the files go and set up all the options on the particular database.
 >
@@ -1972,7 +1954,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=220)** There's others depending on what you have installed, but these are sort of your primary for master the database that knows everything about your server and all the databases and all the logins.
 >
-> **[3:50](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=230)** MSDB works with the SQL Agent and contains all the jobs and things that you can schedule and run on your instance.
+> **[3:50](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=230)** MSDB works with the [[SQL]] Agent and contains all the jobs and things that you can schedule and run on your instance.
 >
 > **[3:57](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=237)** TempDB is just that it's a temp space for doing work, where you create temp tables or temp variables, data stored in TempDB.
 >
@@ -1990,7 +1972,7 @@ created: 2026-05-02
 >
 > **[4:40](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=280)** This essentially becomes my de facto default for all databases.
 >
-> **[4:47](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=287)** So say I want to auto create incremental statistics, I can change this to true and auto update statistics asynchronously.
+> **[4:47](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=287)** So say I want to auto create incremental [[Statistics]], I can change this to true and auto update statistics asynchronously.
 >
 > **[4:59](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=299)** I can change that to true, and I'll hit "Okay."
 >
@@ -2016,7 +1998,7 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=363)** And you'll note that if I go look at these properties and go to the files, right over here is the path to that file and it's the install directory path for your SQL Server.
 >
-> **[6:17](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=377)** So let me just very quickly pull up a file browser, and we'll go to C program files, Microsoft SQL Server, and we'll just drill in, MSSQL16.insideout, MSSQL data.
+> **[6:17](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=377)** So let me just very quickly pull up a file browser, and we'll go to C program files, [[Microsoft SQL Server]], and we'll just drill in, MSSQL16.insideout, MSSQL data.
 >
 > **[6:36](https://www.linkedin.com/learning/sql-server-2022-administration/create-sql-server-databases?u=76281980&t=396)** You'll notice in here there's a model mdf and then there's some backups and then there's the model log.
 >
@@ -2114,7 +2096,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (45), [[Databases]] (16), hit (9), data (8), [[Microsoft SQL Server|Sql server]] (7)
+> **Frameworks & Libraries:** [[Databases]] (16), [[Microsoft SQL Server|Sql server]] (7), [[SQL]] (4), [[Statistics]] (4), [[Microsoft SQL Server]] (1)
 > **Env Vars:** sql (12), msdb (1), mssql16 (1), mssql (1), gui (1)
 > **UI Navigation:** go to (5), dropdown (1), scroll down (1)
 > **Prerequisites:** set up (4), configure (1), install (1)
@@ -2127,41 +2109,39 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=6)** Welcome to our lesson on Provisioning Azure SQL Databases.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=6)** Welcome to our lesson on Provisioning [[Microsoft Azure|Azure]] [[SQL]] [[Databases]].
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=9)** In this lesson, we look at the basics of using Azure databases and servers.
 >
-> **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=14)** While this topic goes much deeper than we will cover with the ever expanding usage of cloud services, it's important to at least understand these basics in order to support SQL Azure in your environment.
+> **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=14)** While this topic goes much deeper than we will cover with the ever expanding usage of [[Cloud Services]], it's important to at least understand these basics in order to support SQL Azure in your environment.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=25)** This lesson covers understanding Microsoft Azure and Database as a Service concepts, how to provision a logical SQL Server, how to provision a database, and how to set up security in an Azure SQL database.
+> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=25)** This lesson covers understanding [[Microsoft Azure]] and Database as a Service concepts, how to provision a logical [[Microsoft SQL Server|SQL Server]], how to provision a database, and how to set up security in an Azure SQL database.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307478?u=76281980&t=37)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), database (3), [[Databases]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[SQL]] (3), [[Databases]] (2), [[Cloud Services]] (1), [[Microsoft Azure]] (1)
 > **Env Vars:** sql (4)
 > **Prerequisites:** set up (1)
 
-#### Understand Microsoft Azure and database-as-a-service concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980)
+#### [Understand Microsoft Azure and database-as-a-service concepts](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=6)** So with this lesson, we want to take a look at sort of an introduction to Azure.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=6)** So with this lesson, we want to take a look at sort of an introduction to [[Microsoft Azure|Azure]].
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=11)** What is Azure?
 >
-> **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=13)** It's Microsoft's service -- Software as a Service or cloud services platforms.
+> **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=13)** It's [[Microsoft]]'s service -- [[SaaS|Software as a Service]] or [[Cloud Services]] platforms.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=20)** It's sort of all those things.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=22)** It's essentially a way for you to get servers or databases or even Windows machines without having to physically purchase a Windows machine and install SQL on it and set up databases.
+> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=22)** It's essentially a way for you to get servers or [[Databases]] or even [[Windows]] machines without having to physically purchase a Windows machine and install [[SQL]] on it and set up databases.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=37)** Now, if you're not familiar with Software as a Service or cloud services, frankly, what they are, I mean, some people get their head around it and everyone says like, "Oh, your photos on your phone, they're all backed up to the cloud" and this is all the cloud.
 >
@@ -2173,7 +2153,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=60)** So it's not as though the photos on your phone are being backed up to some magical space, they're going to a server and ultimately being written to a hard drive in someone's data center.
 >
-> **[1:13](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=73)** The same thing applies when you start to talk about Azure, whether it's a SQL database or a Windows machine or a whole SQL Server, all that is, is a database or a server at Microsoft somewhere in their data center on their servers that you can connect to via the Internet.
+> **[1:13](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=73)** The same thing applies when you start to talk about Azure, whether it's a SQL database or a Windows machine or a whole [[Microsoft SQL Server|SQL Server]], all that is, is a database or a server at Microsoft somewhere in their data center on their servers that you can connect to via the Internet.
 >
 > **[1:33](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=93)** So when we talk about Azure, we're talking about shared database services.
 >
@@ -2183,7 +2163,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=108)** When I have more traffic, I can increase the demand on my servers, I can double the processors, whatever I have to do, and you're paying for these things dynamically.
 >
-> **[1:59](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=119)** So rather than spending $100,000 on hardware and selling software on it and I'm stuck with that, I pay Microsoft money every month to give me database or give me servers or give me whatever it is.
+> **[1:59](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=119)** So rather than spending $100,000 on [[Hardware]] and selling software on it and I'm stuck with that, I pay Microsoft money every month to give me database or give me servers or give me whatever it is.
 >
 > **[2:15](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=135)** And if I need more power or more servers, I can quickly instantly expand my power, my size, what have you.
 >
@@ -2193,7 +2173,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=157)** So if you look in my SQL Server Management Studio, I'm connected to my local database instance, which is installed on the physical machine sitting here in front of me.
 >
-> **[2:46](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=166)** Now, if I hit "Connect," Database Engine in this case, I can pick an Azure Server and I'll just zoom in on that so you can see, the name of that server in this case is sqlserverinsideout.database.[windows.net](https://windows.net).
+> **[2:46](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=166)** Now, if I hit "Connect," Database Engine in this case, I can pick an Azure Server and I'll just [[Zoom]] in on that so you can see, the name of that server in this case is sqlserverinsideout.database.[windows.net](https://windows.net).
 >
 > **[3:02](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=182)** So this is a fully qualified name that's going out over the Internet and connecting to this server to get me access to my database on that server.
 >
@@ -2231,7 +2211,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=288)** So briefly, I'm going to flip over to the Azure portal and we'll take a look at what I mean when I say the cloud.
 >
-> **[4:53](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=293)** So here's the Microsoft Azure dashboard.
+> **[4:53](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=293)** So here's the [[Microsoft Azure]] dashboard.
 >
 > **[4:56](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=296)** I'm logged into my account and everybody can go set up a free Azure account and you get, I think it's $200 worth of free stuff before you have to start paying.
 >
@@ -2245,7 +2225,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=337)** So this isn't just a SQL Server discussion.
 >
-> **[5:41](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=341)** There's app services, there's storage accounts, there's Active Directory, there's all kinds of stuff you can get from Microsoft and their Azure services.
+> **[5:41](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=341)** There's app services, there's storage accounts, there's [[Active Directory]], there's all kinds of stuff you can get from Microsoft and their Azure services.
 >
 > **[5:49](https://www.linkedin.com/learning/sql-server-2022-administration/understand-microsoft-azure-and-database-as-a-service-concepts?u=76281980&t=349)** I want to look at SQL databases.
 >
@@ -2299,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), [[Microsoft Azure|Azure]] (17), cloud (9), [[Databases]] (8), [[SQL]] (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (17), [[Databases]] (8), [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Microsoft]] (5)
 > **Env Vars:** sql (13)
 > **Prerequisites:** set up (5), install (1)
 > **Definitions:** is a  (4)
@@ -2308,16 +2288,15 @@ created: 2026-05-02
 > **Tools:** azure portal (1)
 > **Analogies:** just like (1)
 
-#### Provision a logical SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980)
+#### [Provision a logical SQL Server](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=6)** Managing and maintaining servers can be expensive and time-consuming, and that's where Azure services can really help you out.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=6)** Managing and maintaining servers can be expensive and time-consuming, and that's where [[Microsoft Azure|Azure]] services can really help you out.
 >
-> **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=12)** You can provision databases and servers online and use them, kind of, on demand.
+> **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=12)** You can provision [[Databases]] and servers online and use them, kind of, on demand.
 >
-> **[0:18](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=18)** And so we're going to look at how to provision a logical SQL Server in Azure as opposed to having to have physical hardware and provisioning it on something physical in your data space.
+> **[0:18](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=18)** And so we're going to look at how to provision a logical [[Microsoft SQL Server|SQL Server]] in Azure as opposed to having to have physical [[Hardware]] and provisioning it on something physical in your data space.
 >
 > **[0:28](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=28)** Okay.
 >
@@ -2325,7 +2304,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=34)** I'll paste that in.
 >
-> **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=36)** And if you don't already have a Microsoft account, you'll have to walk through the process of creating one.
+> **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=36)** And if you don't already have a [[Microsoft]] account, you'll have to walk through the process of creating one.
 >
 > **[0:40](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=40)** I'm already logged into mine, so it pops up.
 >
@@ -2357,21 +2336,21 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=115)** Here's some popular services.
 >
-> **[1:57](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=117)** I have Azure stuff, I have web stuff, the Red Hat Linux, Windows 7 Enterprise.
+> **[1:57](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=117)** I have Azure stuff, I have web stuff, the [[Red Hat Linux]], [[Windows]] 7 Enterprise.
 >
 > **[2:03](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=123)** I have all kinds of stuff that I can create.
 >
 > **[2:05](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=125)** But what I want to create is a SQL Server.
 >
-> **[2:09](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=129)** So I'm just going to type SQL space Server, hit "Enter," and this is going to go out and show me all the different things that I can provision.
+> **[2:09](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=129)** So I'm just going to type [[SQL]] space Server, hit "Enter," and this is going to go out and show me all the different things that I can provision.
 >
-> **[2:20](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=140)** Now, I can provision a SQL Server, like right here, 2019 running on Windows Server 2022.
+> **[2:20](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=140)** Now, I can provision a SQL Server, like right here, 2019 running on [[Windows Server]] 2022.
 >
 > **[2:28](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=148)** So this will literally set up a virtual machine that has SQL Server 2019 running on top of Windows Server 2022.
 >
 > **[2:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=156)** So if I create that, I then have access to go in and it's a full blown SQL Server and I can manage everything about it and there's a Windows involved with it that I can get into and there's all kinds of stuff that I can access.
 >
-> **[2:48](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=168)** It's kind of like it's my own server, but it's a virtual machine running in the Microsoft Azure Cloud.
+> **[2:48](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=168)** It's kind of like it's my own server, but it's a virtual machine running in the [[Microsoft Azure]] Cloud.
 >
 > **[2:54](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=174)** I don't need something quite that large for this.
 >
@@ -2477,7 +2456,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=390)** So we'll do that. Down here, you'll see the authentication methods.
 >
-> **[6:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=396)** I can use Azure Active Directory, but I don't have an Azure Active Directory set up, or I can use both SQL and Azure AD.
+> **[6:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=396)** I can use [[Microsoft Entra ID|Azure Active Directory]], but I don't have an Azure Active Directory set up, or I can use both SQL and [[Microsoft Entra ID|Azure AD]].
 >
 > **[6:44](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=404)** Okay.
 >
@@ -2519,7 +2498,7 @@ created: 2026-05-02
 >
 > **[7:55](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=475)** I'll click "Next" and that will take me to additional settings.
 >
-> **[7:59](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=479)** So I can -- in this case, I can add Microsoft Defender to my server for SQL and that's free trial.
+> **[7:59](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=479)** So I can -- in this case, I can add [[Microsoft Defender]] to my server for SQL and that's free trial.
 >
 > **[8:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-logical-sql-server?u=76281980&t=486)** And if I want to keep it, it's $15 a month.
 >
@@ -2645,7 +2624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), hit (11), [[Microsoft SQL Server|Sql server]] (8), database (8), [[SQL]] (8)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (18), [[Microsoft SQL Server|Sql server]] (8), [[SQL]] (8), [[Databases]] (6), [[Microsoft]] (6)
 > **Env Vars:** sql (16)
 > **Prerequisites:** set up (9), configure (1)
 > **CLI Commands:** make (3), find (1)
@@ -2654,12 +2633,11 @@ created: 2026-05-02
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (3)
 
-#### Provision a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980)
+#### [Provision a database](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=6)** In order to start fully utilizing the SQL Azure cloud, you need to set up some databases so you can actually start storing things up there on your servers.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=6)** In order to start fully utilizing the [[SQL]] [[Microsoft Azure|Azure]] cloud, you need to set up some [[Databases]] so you can actually start storing things up there on your servers.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=14)** Now, these databases are going to look and feel and act a lot like local databases, but obviously they're provisioned on the logical servers up there.
 >
@@ -2691,7 +2669,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=96)** This one starts giving me a cost estimate.
 >
-> **[1:39](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=99)** Servers -- logical SQL Server provisioning doesn't do this because you're just provisioning the server.
+> **[1:39](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=99)** Servers -- logical [[Microsoft SQL Server|SQL Server]] provisioning doesn't do this because you're just provisioning the server.
 >
 > **[1:45](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=105)** What they charge you for is DTU, which is like data units.
 >
@@ -2771,7 +2749,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=279)** So you saw when I was provisioned and I'm basically saying I want this pre allocated, not auto scaled and it's billed per hour, all of a sudden this was going to cost me $327 a month to run this server.
 >
-> **[4:52](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=292)** So it can get expensive, but depending on what you're doing, if you compare this to the cost of, you know, $100,000 of licensing and more and hardware, that seems kind of reasonable, right?
+> **[4:52](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=292)** So it can get expensive, but depending on what you're doing, if you compare this to the cost of, you know, $100,000 of licensing and more and [[Hardware]], that seems kind of reasonable, right?
 >
 > **[5:06](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=306)** So it all depends on what you're going to do and how long you're going to use it.
 >
@@ -2831,7 +2809,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=457)** So I'll just click "Next."
 >
-> **[7:38](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=458)** And here in security, you can get Microsoft Defender.
+> **[7:38](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=458)** And here in security, you can get [[Microsoft Defender]].
 >
 > **[7:41](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=461)** That's $15 a month.
 >
@@ -2911,13 +2889,13 @@ created: 2026-05-02
 >
 > **[10:39](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=639)** And the important thing to remember here is just because I'm provisioning a database, there is still a server that goes with it.
 >
-> **[10:46](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=646)** So any time you provision a database, there's a logical SQL Server that it's stored on, or if you did the full blown SQL Server install on a Windows machine, you could also have that out in the Azure cloud to where now you have a full SQL Server that you have full control over where you can deploy databases.
+> **[10:46](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=646)** So any time you provision a database, there's a logical SQL Server that it's stored on, or if you did the full blown SQL Server install on a [[Windows]] machine, you could also have that out in the Azure cloud to where now you have a full SQL Server that you have full control over where you can deploy databases.
 >
 > **[11:04](https://www.linkedin.com/learning/sql-server-2022-administration/provision-a-database?u=76281980&t=664)** But if you're going to stick to the logical stuff and stick to the basics of Azure, this is how you get a logical database deployed onto one of your logical SQL Servers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (29), [[Microsoft Azure|Azure]] (14), data (12), [[Databases]] (9), [[SQL]] (5)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (14), [[Databases]] (9), [[SQL]] (5), [[Microsoft SQL Server|Sql server]] (4), [[Hardware]] (1)
 > **Prerequisites:** set up (5), configure (5), install (1)
 > **Env Vars:** sql (9), dtu (1)
 > **UI Navigation:** go to (7)
@@ -2926,14 +2904,13 @@ created: 2026-05-02
 > **Analogies:** compare this to (1), similar to (1)
 > **CLI Commands:** cat (1)
 
-#### Setup security in Azure SQL databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980)
+#### [Setup security in Azure SQL databases](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=6)** So when working with Azure databases, you have a couple different levels where you can set security.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=6)** So when working with [[Microsoft Azure|Azure]] [[Databases]], you have a couple different levels where you can set security.
 >
-> **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=11)** It's not quite as full featured as setting up security on a local instance, but it does give you a whole lot of area where you can control who has access to what and who even has access to see your SQL Server to begin with.
+> **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=11)** It's not quite as full featured as setting up security on a local instance, but it does give you a whole lot of area where you can control who has access to what and who even has access to see your [[Microsoft SQL Server|SQL Server]] to begin with.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=25)** So the first thing I want to look at is in our Azure portal, I'm going to show you the server that I have set up here.
 >
@@ -2973,7 +2950,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=121)** And if I click "Add your client address," you'll see I get a rule that's adding just my client IP.
 >
-> **[2:07](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=127)** Now, I might be fine with that, or I might need to add an entire range, say an entire office worth of IP's, in which case I could set this at a start IP and this at an end IP and give all IP's in that range access.
+> **[2:07](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=127)** Now, I might be fine with that, or I might need to add an entire range, say an entire [[Microsoft Office|office]] worth of IP's, in which case I could set this at a start IP and this at an end IP and give all IP's in that range access.
 >
 > **[2:21](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=141)** I'll leave it alone.
 >
@@ -3025,7 +3002,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=303)** And what we're going to do is we're going to create a login, and we'll just call this login and everything between these greater than, less than these brackets is telling you what this is.
 >
-> **[5:15](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=315)** It needs a SQL login name, the type sysname, right?
+> **[5:15](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=315)** It needs a [[SQL]] login name, the type sysname, right?
 >
 > **[5:19](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=319)** And it's -- basically, it's your login name.
 >
@@ -3035,7 +3012,7 @@ created: 2026-05-02
 >
 > **[5:27](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=327)** Let's make an InsideOut user with password and then I have to give it a password.
 >
-> **[5:33](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=333)** So we'll call it Pa$$word.
+> **[5:33](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=333)** So we'll call it Pa$$[[Microsoft Word|word]].
 >
 > **[5:38](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=338)** No one will guess that.
 >
@@ -3077,7 +3054,7 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=418)** Looks a lot like the security folder I would have in a local database, and I have users.
 >
-> **[7:03](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=423)** And when I expand users, you'll see I have dbo, which is the only one available, and guest, INFORMATION SCHEMA, and sys, if I zoom in on that, you'll see have little X's because those accounts aren't enabled.
+> **[7:03](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=423)** And when I expand users, you'll see I have dbo, which is the only one available, and guest, INFORMATION SCHEMA, and sys, if I [[Zoom]] in on that, you'll see have little X's because those accounts aren't enabled.
 >
 > **[7:17](https://www.linkedin.com/learning/sql-server-2022-administration/setup-security-in-azure-sql-databases?u=76281980&t=437)** So if I want to give access, I can right click and I can hit "New User."
 >
@@ -3161,7 +3138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), [[Microsoft Azure|Azure]] (20), [[Security]] (15), [[Databases]] (13), [[Microsoft SQL Server|Sql server]] (7)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (20), [[Databases]] (13), [[Microsoft SQL Server|Sql server]] (7), [[SQL]] (4), [[Microsoft Office|Office]] (2)
 > **Env Vars:** sql (11), information (1), schema (1), ssms (1)
 > **Prerequisites:** set up (6)
 > **Code Identifiers:** db_owner (2), db_datareader (1), db_datawriter (1)
@@ -3175,12 +3152,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 3 introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980)
+#### [Module 3 introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980&t=6)** Securing SQL Server and data is absolutely critical.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980&t=6)** Securing [[Microsoft SQL Server|SQL Server]] and data is absolutely critical.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/module-3-introduction?u=76281980&t=9)** Let's look at how to implement and manage user security and permissions in SQL Server.
 >
@@ -3188,21 +3164,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=6)** Welcome to our lesson on implementing and managing SQL Server user security and permissions.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=6)** Welcome to our lesson on implementing and managing [[Microsoft SQL Server|SQL Server]] user security and permissions.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=11)** This lesson covers the basics of SQL Server security.
 >
 > **[0:14](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=14)** Security is important for many reasons.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=16)** You could have your system attacked and data be compromised, you could have a user with too many permissions accidentally delete or overwrite important data, and these days a company wide SOX audit will go over your SQL Servers with a microscope.
+> **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=16)** You could have your system attacked and data be compromised, you could have a user with too many permissions accidentally delete or overwrite important data, and these days a company wide SOX audit will go over your [[SQL]] Servers with a microscope.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22305930?u=76281980&t=29)** No matter the reason, security in SQL Server is just as important as security in all your other systems.
 >
@@ -3212,19 +3187,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Security]] (5), data (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[SQL]] (1)
 > **Env Vars:** sql (6), sox (1)
 
-#### Understand logins and users
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980)
+#### [Understand logins and users](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=6)** So one of the first things you have to do to secure a SQL Server is properly set up your logins and your users.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=6)** So one of the first things you have to do to secure a [[Microsoft SQL Server|SQL Server]] is properly set up your logins and your users.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=12)** Now, in SQL Server, those two terms aren't interchangeable.
 >
-> **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=15)** I know in a lot of systems you'll say user account or login account or whatever the case maybe, in SQL they're both very distinct and different things.
+> **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=15)** I know in a lot of systems you'll say user account or login account or whatever the case maybe, in [[SQL]] they're both very distinct and different things.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=24)** So we're going to take a look at both logins and users and help you understand what they are and how they work together.
 >
@@ -3248,7 +3222,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=89)** These are all created when you first set up your system, but we're going to create a few more.
 >
-> **[1:33](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=93)** So first step, because I don't want to do this with Windows accounts because it's just a little bulkier.
+> **[1:33](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=93)** So first step, because I don't want to do this with [[Windows]] accounts because it's just a little bulkier.
 >
 > **[1:38](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=98)** I'm going to enable SQL Server authentication on this server.
 >
@@ -3340,7 +3314,7 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=287)** And what I want to do is I'm going to just connect back to the SQL Server, the same one, this insideout2, but I'm going to use SQL authentication and I'll just type HRAdmin, password, and I'll hit "Connect." And you'll see it allowed me to connect to the SQL Server.
 >
-> **[5:02](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=302)** But if I expand databases, HR, it tells me the HR database isn't accessible. So I can see that it's there, but I can't see what's in it.
+> **[5:02](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=302)** But if I expand [[Databases]], HR, it tells me the HR database isn't accessible. So I can see that it's there, but I can't see what's in it.
 >
 > **[5:11](https://www.linkedin.com/learning/sql-server-2022-administration/understand-logins-and-users?u=76281980&t=311)** And if I look at system databases, I can't see those because I need permissions into these in order to even logon to the system.
 >
@@ -3472,7 +3446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (22), [[SQL]] (17), [[Microsoft SQL Server|Sql server]] (12), hr (11), [[Security]] (11)
+> **Frameworks & Libraries:** [[SQL]] (17), [[Microsoft SQL Server|Sql server]] (12), [[Windows]] (10), [[Databases]] (10)
 > **Env Vars:** sql (29)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is a  (2), is called (1)
@@ -3481,21 +3455,19 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Analogies:** for example (1)
 
-#### Setup permissions in SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-permissions-in-sql-server?u=76281980)
+#### [Setup permissions in SQL Server](https://www.linkedin.com/learning/sql-server-2022-administration/setup-permissions-in-sql-server?u=76281980)
 
-#### Migrate SQL Server logins and permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980)
+#### [Migrate SQL Server logins and permissions](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=6)** So when you move databases around, you move the users of those databases.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=6)** So when you move [[Databases]] around, you move the users of those databases.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=11)** But the logins, which we know are set up at the server level, are handled at a very different location and in a very different way.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=19)** So I want to walk you through a problem that's fairly common and then show you a couple of ways you can remedy it.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=25)** So on my systems here, I have two instances of SQL, and on this one down here I have an HR database. And I just want to show you in this HR database, I have a couple of users, HRAdmin, PayrollAdmin.
+> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=25)** So on my systems here, I have two instances of [[SQL]], and on this one down here I have an HR database. And I just want to show you in this HR database, I have a couple of users, HRAdmin, PayrollAdmin.
 >
 > **[0:38](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=38)** Okay.
 >
@@ -3547,7 +3519,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=133)** But here's what happens.
 >
-> **[2:15](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=135)** So remember, SQL Server security is broken into two parts.
+> **[2:15](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=135)** So remember, [[Microsoft SQL Server|SQL Server]] security is broken into two parts.
 >
 > **[2:19](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=139)** Logins get you access to the server, users get you access to the database.
 >
@@ -3567,7 +3539,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=193)** Okay.
 >
-> **[3:13](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=193)** Now, there's a couple ways that you can migrate logins, and there's an article that Microsoft has had in its support base forever and you can see it's dated 11/2/2022, but this article has been updated over and over and over and over again.
+> **[3:13](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=193)** Now, there's a couple ways that you can migrate logins, and there's an article that [[Microsoft]] has had in its support base forever and you can see it's dated 11/2/2022, but this article has been updated over and over and over and over again.
 >
 > **[3:31](https://www.linkedin.com/learning/sql-server-2022-administration/migrate-sql-server-logins-and-permissions?u=76281980&t=211)** And it's one of the ways you can transfer logins between instances of SQL Server.
 >
@@ -3769,7 +3741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), hr (9), [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), hit (5)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (6), [[Databases]] (4), [[Microsoft]] (1)
 > **Env Vars:** sql (13), sid (6), ssis (4)
 > **Code Identifiers:** sp_help_revlogin (6), sp_hexadecimal (1)
 > **CLI Commands:** make (2), find (1)
@@ -3783,12 +3755,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980&t=6)** Welcome to our lesson on securing the server and data. Beyond basic login and user security, SQL Server offers more secure ways to protect your data from potential breaches.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980&t=6)** Welcome to our lesson on securing the server and data. Beyond basic login and user security, [[Microsoft SQL Server|SQL Server]] offers more secure ways to protect your data from potential breaches.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22307476?u=76281980&t=16)** If you store sensitive data such as medical information, credit card data, or other personal information, then protecting that data is of the utmost importance.
 >
@@ -3800,17 +3771,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft SQL Server|Sql server]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (3)
 > **Env Vars:** sql (3)
 > **Prerequisites:** set up (1), configure (1)
 > **Analogies:** such as (1)
 
-#### Handle encryption in SQL Server
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980)
+#### [Handle encryption in SQL Server](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=6)** So quite often our SQL Servers are holding data that could be considered sensitive.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=6)** So quite often our [[SQL]] Servers are holding data that could be considered sensitive.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=11)** I mean, how many times have you received an email saying your logon and password or your credit card number was part of a data breach and they recommend getting a new credit card or changing your password.
 >
@@ -3876,7 +3846,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=185)** I can go ahead and use its encryption key.
 >
-> **[3:08](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=188)** Now, again, Microsoft provides little handy links up here for more information on types and keys if you want to use it.
+> **[3:08](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=188)** Now, again, [[Microsoft]] provides little handy links up here for more information on types and keys if you want to use it.
 >
 > **[3:15](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=195)** And as always, you have the help button up here to go get some more information off the web.
 >
@@ -3896,7 +3866,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=227)** Now it wants to know how I generate my column encryption key and I can select a column master key and I can auto generate one now because I don't have one otherwise.
 >
-> **[3:57](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=237)** And then I can choose to store that either in the Windows certificate store or in the Azure Key Vault, and my source can either be local machine or current user.
+> **[3:57](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=237)** And then I can choose to store that either in the [[Windows]] certificate store or in the [[Microsoft Azure|Azure]] Key Vault, and my source can either be local machine or current user.
 >
 > **[4:06](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=246)** So I'm going to stick this to current user, so it'll store it for me logged in to Windows right now.
 >
@@ -3904,9 +3874,9 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=252)** It won't be for the whole machine.
 >
-> **[4:14](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=254)** And I'll click "Next." The run setting, I can either generate a PowerShell script to run this later or I can go ahead and proceed to finish right now.
+> **[4:14](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=254)** And I'll click "Next." The run setting, I can either generate a [[Powershell]] script to run this later or I can go ahead and proceed to finish right now.
 >
-> **[4:24](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=264)** So this is, sort of, like scripting in any of the other dialogs in SQL Server, I can choose to script it out or run it now.
+> **[4:24](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=264)** So this is, sort of, like scripting in any of the other dialogs in [[Microsoft SQL Server|SQL Server]], I can choose to script it out or run it now.
 >
 > **[4:31](https://www.linkedin.com/learning/sql-server-2022-administration/handle-encryption-in-sql-server?u=76281980&t=271)** The only difference is this is a PowerShell script that it actually would generate.
 >
@@ -4042,7 +4012,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), hit (8), database (7), next (4), [[SQL]] (3)
+> **Frameworks & Libraries:** [[SQL]] (3), [[Windows]] (3), [[Microsoft Azure|Azure]] (2), [[Powershell]] (2), [[Microsoft SQL Server|Sql server]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** sql (5)
 > **UI Navigation:** go to (2), select the (1), checkbox (1)
@@ -4051,12 +4021,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1), set up (1)
 > **Warnings:** keep in mind (1)
 
-#### Setup row level security
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-row-level-security?u=76281980)
+#### [Setup row level security](https://www.linkedin.com/learning/sql-server-2022-administration/setup-row-level-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-row-level-security?u=76281980&t=6)** So SQL Server security can be pretty granular and without too much effort, I can actually block people from seeing certain columns in tables.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-row-level-security?u=76281980&t=6)** So [[Microsoft SQL Server|SQL Server]] security can be pretty granular and without too much effort, I can actually block people from seeing certain columns in tables.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/setup-row-level-security?u=76281980&t=17)** I can also block people from seeing rows in tables.
 >
@@ -4310,7 +4279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), data (10), database (6), hr (4), hit (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** select (10), user_name (4), sql (2), execute (2), grant (2)
 > **SQL:** select (10)
 > **CLI Commands:** make (3)
@@ -4319,12 +4288,11 @@ created: 2026-05-02
 > **Analogies:** for example (1), compare this to (1)
 > **Prerequisites:** set up (2)
 
-#### Understand data masking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980)
+#### [Understand data masking](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=6)** So among all the ways you can protect data in your SQL Server, one of them is data masking.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=6)** So among all the ways you can protect data in your [[Microsoft SQL Server|SQL Server]], one of them is data masking.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=12)** So I can block access to rows, I can block access to columns, I can encrypt data, but what if I need to see some portion of data but not necessarily reveal all of said data?
 >
@@ -4346,7 +4314,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=88)** So to do that, we have to apply a data mask to this table.
 >
-> **[1:32](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=92)** There's a whole article out on Microsoft MSDN called Dynamic Data Masking, and I'll just bring that up.
+> **[1:32](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=92)** There's a whole article out on [[Microsoft]] MSDN called Dynamic Data Masking, and I'll just bring that up.
 >
 > **[1:43](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=103)** And this is a great article to go look at if you want to understand all the different things that you can data mask.
 >
@@ -4376,7 +4344,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=167)** Yeah. We just paste that real quick, then I can copy.
 >
-> **[2:51](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=171)** Copy and paste is your friend when you're writing SQL queries.
+> **[2:51](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=171)** Copy and paste is your friend when you're writing [[SQL]] queries.
 >
 > **[2:55](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-masking?u=76281980&t=175)** I'm going to ALTER TABLE Application.People and I will alter the column, in this case, it's LogonName.
 >
@@ -4496,7 +4464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), database (5), application (5), hit (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft SQL Server|Sql server]] (1), [[Microsoft]] (1)
 > **Env Vars:** alter (4), table (4), sql (3), msdn (2)
 > **CLI Commands:** make (4)
 > **URLs:** [s.com](https://s.com) (2), [xxxxx.com](https://xxxxx.com) (1), [xxx.com](https://xxx.com) (1)
@@ -4505,12 +4473,11 @@ created: 2026-05-02
 > **Code Identifiers:** db_datareader (2)
 > **Warnings:** be careful (2)
 
-#### Configure SQL Server audits
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980)
+#### [Configure SQL Server audits](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=6)** So in this lesson, we're going to take a look at using audits inside SQL Server to track when something that's sensitive to your data structure has changed.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=6)** So in this lesson, we're going to take a look at using audits inside [[Microsoft SQL Server|SQL Server]] to track when something that's sensitive to your data structure has changed.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=16)** So it's a way for you to audit things that are happening inside of your system and logging those changes so that you can review them and potentially look at threats or problems that occur if something's changing that you weren't expecting.
 >
@@ -4538,7 +4505,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=68)** And we'll come back to some of these failures in a second.
 >
-> **[1:10](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=70)** I can store it in a file in the security log or in the application log in Windows.
+> **[1:10](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=70)** I can store it in a file in the security log or in the application log in [[Windows]].
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=75)** And for this demo, we're going to store it in a file and I'll just put it in our c\insideout folder on my hard drive.
 >
@@ -4648,7 +4615,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=374)** Okay. So I'm just going to hit "Okay."
 >
-> **[6:16](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=376)** Now, you'll notice there is a little red x, zoom in, on this audit here.
+> **[6:16](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=376)** Now, you'll notice there is a little red x, [[Zoom]] in, on this audit here.
 >
 > **[6:23](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=383)** There's also a little red x on the server audit here.
 >
@@ -4668,7 +4635,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=409)** And now that's in use.
 >
-> **[6:50](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=410)** So the nice thing about this is, say, I had an audit in two databases or all three of these databases: HR, WideWorldImporters, and this InsideOutDB, if I want to cease auditing for a period of time, I could just disable the server level audit by hitting "Disable audit."
+> **[6:50](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=410)** So the nice thing about this is, say, I had an audit in two [[Databases]] or all three of these databases: HR, WideWorldImporters, and this InsideOutDB, if I want to cease auditing for a period of time, I could just disable the server level audit by hitting "Disable audit."
 >
 > **[7:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-sql-server-audits?u=76281980&t=426)** Now, all three of those database audits would no longer provide information.
 >
@@ -4796,7 +4763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (15), data (8), hit (6), [[Microsoft SQL Server|Sql server]] (4), [[Security]] (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (3), [[Windows]] (1), [[Zoom]] (1)
 > **Code Identifiers:** db_owner (4), orderid (4)
 > **Env Vars:** sql (4)
 > **Documentation:** specification (3)
@@ -4810,48 +4777,45 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 4 introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980)
+#### [Module 4 introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980&t=6)** Knowing how to design, tune, and optimize SQL Server, really level up your skills as a Database Admin.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980&t=6)** Knowing how to design, tune, and optimize [[Microsoft SQL Server|SQL Server]], really level up your skills as a Database Admin.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980&t=12)** Let's look at DB design, including table design, views, and change tracking.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980&t=17)** Then look at performance tuning and optimization, including indexes and statistics as well as isolation levels and execution plans.
+> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/module-4-introduction?u=76281980&t=17)** Then look at [[Performance Tuning]] and optimization, including indexes and [[Statistics]] as well as isolation levels and execution plans.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), database (1), [[Performance Tuning]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Performance Tuning]] (1), [[Statistics]] (1)
 > **Env Vars:** sql (1)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=6)** Welcome to our lesson on understanding and designing SQL Server tables.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=6)** Welcome to our lesson on understanding and designing [[Microsoft SQL Server|SQL Server]] tables.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=10)** In order to properly manage a database, it helps to have an understanding of at least basic database design.
+> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=10)** In order to properly manage a database, it helps to have an understanding of at least basic [[Database Design]].
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=15)** This lesson will provide a foundation for database design and aims to give you an understanding of various table types and structures, as well as a glimpse into tracking changes in tables.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=25)** This lesson covers a review of table design, understanding special table types, creating views, using change data tracking and change data capture.
+> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=25)** This lesson covers a review of table design, understanding special table types, creating views, using change [[Data Tracking]] and change data capture.
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives?u=76281980&t=35)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 
-#### Review table design
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980)
+#### [Review table design](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=6)** So in this lesson, I want to talk just very briefly about database design and how data is stored in a relational database management systems such as SQL Server.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=6)** So in this lesson, I want to talk just very briefly about [[Database Design]] and how data is stored in a relational [[Database Management]] systems such as [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=15)** Now, there's hours and hours of videos and classes and pages and pages of books on SQL Server design and database design in general.
 >
@@ -4859,7 +4823,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=35)** So hopefully this information can help you in your administrative duties as well as database design duties.
 >
-> **[0:40](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=40)** So databases are made up of tables.
+> **[0:40](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=40)** So [[Databases]] are made up of tables.
 >
 > **[0:43](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=43)** And throughout many of the lessons in this series, we will have played with tables and we're using queries to get data in and out of them.
 >
@@ -4985,7 +4949,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=410)** And I don't have to duplicate this.
 >
-> **[6:52](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=412)** If I was doing this in a spreadsheet, think about using an old school Excel spreadsheet to track orders, I would type in the order number and it would ask you for my salesperson and what am I going to type?
+> **[6:52](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=412)** If I was doing this in a spreadsheet, think about using an old school [[Microsoft Excel|Excel]] spreadsheet to track orders, I would type in the order number and it would ask you for my salesperson and what am I going to type?
 >
 > **[7:01](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=421)** I'm probably going to type that person's full name.
 >
@@ -5007,7 +4971,7 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=451)** So I'll just copy that down here and then I have to tell it what to join on.
 >
-> **[7:34](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=454)** So in this case, the joint is going to be on from my Orders table and I can keep typing Sales.Orders dot whatever, or I can put in a little shortcut. And all to do that, all you do is put a space and give it a letter or some other word like order or something short.
+> **[7:34](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=454)** So in this case, the joint is going to be on from my Orders table and I can keep typing Sales.Orders dot whatever, or I can put in a little shortcut. And all to do that, all you do is put a space and give it a letter or some other [[Microsoft Word|word]] like order or something short.
 >
 > **[7:50](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=470)** I'm going to say, o, and for my people table, I'm going to do that too, and just put p. And then I can say, join this people table by looking at my Orders table o and look at the SalespersonID, right there, and find me all the records where that matches the p.PersonID record.
 >
@@ -5021,7 +4985,7 @@ created: 2026-05-02
 >
 > **[9:00](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=540)** And now if I run this, I'll only get these three columns across these two tables, and that gets me my OrderID, my OrderDate and my FullName.
 >
-> **[9:09](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=549)** Again, I'm getting into a little bit more T-SQL here, but why not?
+> **[9:09](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=549)** Again, I'm getting into a little bit more T-[[SQL]] here, but why not?
 >
 > **[9:13](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=553)** It's helpful information I think that can help you out.
 >
@@ -5085,7 +5049,7 @@ created: 2026-05-02
 >
 > **[11:54](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=714)** So that's how we're able to pull this data together.
 >
-> **[11:57](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=717)** And that's where relational databases sort of go beyond spreadsheets and go beyond any other data storage.
+> **[11:57](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=717)** And that's where [[Relational Databases]] sort of go beyond spreadsheets and go beyond any other [[Data Storage]].
 >
 > **[12:05](https://www.linkedin.com/learning/sql-server-2022-administration/review-table-design?u=76281980&t=725)** Now, again, there's many, many lessons and video series and books and you name it about database design.
 >
@@ -5099,7 +5063,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), data (17), application (7), management (2), [[Microsoft SQL Server|Sql server]] (2)
+> **Frameworks & Libraries:** [[Database Design]] (9), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (2), [[SQL]] (2), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (5), is called (1), known as (1), is an  (1)
 > **CLI Commands:** make (2), find (2)
 > **Env Vars:** sql (4)
@@ -5107,12 +5071,11 @@ created: 2026-05-02
 > **Analogies:** such as (2), just like (1)
 > **UI Navigation:** go to (2)
 
-#### Understand special table types
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980)
+#### [Understand special table types](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=6)** So in general, when you're working with SQL databases, you're mostly going to use regular old tables.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=6)** So in general, when you're working with [[SQL]] [[Databases]], you're mostly going to use regular old tables.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=13)** Now, there are a couple special table types that I want to point out.
 >
@@ -5188,7 +5151,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=248)** You also have some very specific types like ledgers and graphs that I'm not going to really dig into, but those are things that lets you set up some different kinds of data.
 >
-> **[4:18](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=258)** Graph tables essentially give you a way to model many to many relationships in SQL Server.
+> **[4:18](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=258)** Graph tables essentially give you a way to model many to many relationships in [[Microsoft SQL Server|SQL Server]].
 >
 > **[4:24](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=264)** So a node is like a table, and an edge is like a relationship and it gives you a many to many model.
 >
@@ -5208,7 +5171,7 @@ created: 2026-05-02
 >
 > **[4:57](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=297)** You also have external tables.
 >
-> **[4:59](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=299)** This is for storing data in external sources such as Azure and then file tables.
+> **[4:59](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=299)** This is for storing data in external sources such as [[Microsoft Azure|Azure]] and then file tables.
 >
 > **[5:05](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=305)** So file tables are kind of neat.
 >
@@ -5238,7 +5201,7 @@ created: 2026-05-02
 >
 > **[6:52](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=412)** So it's just another option for you.
 >
-> **[6:54](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=414)** So all those are accessible if you right click "Table" and say new and, again, I'm not going to demo all of these. Again, the purpose of this isn't to really go through database design in a heavy fashion.
+> **[6:54](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=414)** So all those are accessible if you right click "Table" and say new and, again, I'm not going to demo all of these. Again, the purpose of this isn't to really go through [[Database Design]] in a heavy fashion.
 >
 > **[7:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-special-table-types?u=76281980&t=426)** I just wanted to make sure that you are familiar with all these table types because you're going to bump into them in the sample database and you might need to use some of these specialty tables as you're starting to design your system.
 >
@@ -5246,7 +5209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), application (8), database (5), [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (4)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (1), [[Microsoft Azure|Azure]] (1), [[Database Design]] (1)
 > **Env Vars:** sql (8)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -5254,8 +5217,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (3)
 > **Cross-References:** go back to (1)
 
-#### Create views
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980)
+#### [Create views](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5335,7 +5297,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=262)** So that's where views come in.
 >
-> **[4:24](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=264)** Views in SQL Server are stored sets of Transact-SQL that return data.
+> **[4:24](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=264)** Views in [[Microsoft SQL Server|SQL Server]] are stored sets of [[Transact-SQL (T-SQL)|Transact-SQL]] that return data.
 >
 > **[4:31](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=271)** Okay.
 >
@@ -5365,7 +5327,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=339)** Okay. So a view lets me encapsulate, select data, and just rerun it over and over.
 >
-> **[5:48](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=348)** Now, the nice thing is, as far as the query engine is concerned and as far as the way you write T-SQL code, this SELECT statement still returning me data.
+> **[5:48](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=348)** Now, the nice thing is, as far as the query engine is concerned and as far as the way you write T-[[SQL]] code, this SELECT statement still returning me data.
 >
 > **[5:59](https://www.linkedin.com/learning/sql-server-2022-administration/create-views?u=76281980&t=359)** This SELECT statement could still be a table.
 >
@@ -5459,7 +5421,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), database (10), application (4), hit (3), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Transact-SQL (T-SQL)|Transact-sql]] (1), [[SQL]] (1)
 > **Env Vars:** select (6), sql (3), create (2), view (2), gui (1)
 > **SQL:** select (6)
 > **CLI Commands:** make (2)
@@ -5467,12 +5429,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Prerequisites:** set up (1)
 
-#### Use change tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980)
+#### [Use change tracking](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=6)** So this lesson I want to take a brief look at change tracking and how you can implement that on a SQL Server database to sort of get some information on changes that are occurring within that database.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=6)** So this lesson I want to take a brief look at change tracking and how you can implement that on a [[Microsoft SQL Server|SQL Server]] database to sort of get some information on changes that are occurring within that database.
 >
 > **[0:18](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=18)** So here I have this HR database on my SQL Server instance and I want to enable change tracking.
 >
@@ -5512,7 +5473,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=86)** And if you do actually want it to clean itself up, you say auto clean up true and now it'll clean this stuff up every two days.
 >
-> **[1:32](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=92)** And that's all you have to do to enable change data tracking on a database.
+> **[1:32](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=92)** And that's all you have to do to enable change [[Data Tracking]] on a database.
 >
 > **[1:35](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=95)** So I'll hit "Okay."
 >
@@ -5520,7 +5481,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=109)** So let's just start with this first select.
 >
-> **[1:53](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=113)** There's a system table called change tracking databases.
+> **[1:53](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=113)** There's a system table called change tracking [[Databases]].
 >
 > **[1:57](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=117)** And if you select from that, every database on your system that has changed tracking enabled will show up in this query.
 >
@@ -5722,7 +5683,7 @@ created: 2026-05-02
 >
 > **[10:24](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=624)** But what this is telling me, is that during this sys change Version 3, you'll see these columns were changed.
 >
-> **[10:33](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=633)** And this mask, which I'll zoom in on, this is a mask that tells you which columns got changed.
+> **[10:33](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=633)** And this mask, which I'll [[Zoom]] in on, this is a mask that tells you which columns got changed.
 >
 > **[10:42](https://www.linkedin.com/learning/sql-server-2022-administration/use-change-tracking?u=76281980&t=642)** Okay.
 >
@@ -5758,7 +5719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (13), hit (8), [[Microsoft SQL Server|Sql server]] (4), hr (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Data Tracking]] (2), [[Databases]] (2), [[Zoom]] (1)
 > **Code Identifiers:** email_list (8), email_address (1)
 > **Definitions:** is a  (4), means that (1)
 > **Env Vars:** sql (4)
@@ -5767,16 +5728,15 @@ created: 2026-05-02
 > **UI Navigation:** click on (1), go to (1), select the (1)
 > **URLs:** [yahoo.net](https://yahoo.net) (1)
 
-#### Understand change data capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980)
+#### [Understand change data capture](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=6)** So change data capture is a feature in SQL Server that allows you to capture when data changes in your database.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=6)** So change data capture is a feature in [[Microsoft SQL Server|SQL Server]] that allows you to capture when data changes in your database.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=12)** So anytime DML statements are run that cause changes, you can track and capture that information to see what's changing and how and possibly use that for recovery.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=22)** So I'm going to show you how to enable change data tracking, and we're going to do a simple example of how to look at some capture history.
+> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=22)** So I'm going to show you how to enable change [[Data Tracking]], and we're going to do a simple example of how to look at some capture history.
 >
 > **[0:29](https://www.linkedin.com/learning/sql-server-2022-administration/understand-change-data-capture?u=76281980&t=29)** So in our HR database, we have an email_list table that we're going to enable change data capture on, and we're going to see how that all lets us see what's going on with the changes.
 >
@@ -5966,7 +5926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), hit (8), database (7), [[Microsoft SQL Server|Sql server]] (2), hr (2)
+> **Frameworks & Libraries:** [[Data Tracking]] (3), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (1)
 > **Code Identifiers:** email_list (11), dbo_email_list (2), sp_cdc (1), sp_cdc_enable_db (1)
 > **Env Vars:** sql (3), dml (1), alter (1), table (1)
 > **CLI Commands:** make (4)
@@ -5980,41 +5940,38 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=6)** Welcome to our lesson on performance tuning and optimizing SQL.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=6)** Welcome to our lesson on [[Performance Tuning]] and optimizing [[SQL]].
 >
-> **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=9)** Keeping databases online and backed up is only half the battle. To be useful, databases have to be able to provide data to users and applications in a timely fashion.
+> **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=9)** Keeping [[Databases]] online and backed up is only half the battle. To be useful, databases have to be able to provide data to users and applications in a timely fashion.
 >
 > **[0:19](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=19)** This is where performance tuning plays a huge role.
 >
-> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=22)** This lesson will provide a look at the performance tools available in SQL Server.
+> **[0:22](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=22)** This lesson will provide a look at the performance tools available in [[Microsoft SQL Server|SQL Server]].
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=27)** We cover understanding isolation levels, using execution plans, configuring clustered indexes as well as non-clustered indexes, and using index statistics.
+> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=27)** We cover understanding isolation levels, using execution plans, configuring clustered indexes as well as non-clustered indexes, and using index [[Statistics]].
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22311171?u=76281980&t=37)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Tuning]] (2), [[Databases]] (2), [[SQL]] (1), data (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Performance Tuning]] (2), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1), [[Statistics]] (1)
 > **Env Vars:** sql (2)
 
-#### Understand isolation levels
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-isolation-levels?u=76281980)
+#### [Understand isolation levels](https://www.linkedin.com/learning/sql-server-2022-administration/understand-isolation-levels?u=76281980)
 
-#### Use execution plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980)
+#### [Use execution plans](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=6)** So behind SQL Server is a thing called the query optimizer.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=6)** So behind [[Microsoft SQL Server|SQL Server]] is a thing called the query optimizer.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=9)** And essentially what this is doing is every time you run a query, it's trying to figure out the best way to access the data in the database.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=17)** And it's making use of things like indexes and statistics, and it's making all these choices to try to figure out a way to execute your query efficiently.
+> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=17)** And it's making use of things like indexes and [[Statistics]], and it's making all these choices to try to figure out a way to execute your query efficiently.
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=26)** You can see the plan that it's putting together using a thing called execution plans, and that information can help you to tune your database and or your queries to get the best performance out of them.
 >
@@ -6102,7 +6059,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=290)** That would be inefficient and slow.
 >
-> **[4:53](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=293)** And that's the same thing happening in SQL.
+> **[4:53](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=293)** And that's the same thing happening in [[SQL]].
 >
 > **[4:55](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=295)** This is inefficient and this is slow.
 >
@@ -6212,27 +6169,26 @@ created: 2026-05-02
 >
 > **[10:13](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=613)** Again, scans are bad.
 >
-> **[10:14](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=614)** Look for scans, and you want to try to encourage things like parallelism and things like that where you're actually using multiple threads to go fetch data.
+> **[10:14](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=614)** Look for scans, and you want to try to encourage things like parallelism and things like that where you're actually using multiple threads to go [[Fetch]] data.
 >
 > **[10:24](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=624)** So for this lesson, go run some queries.
 >
-> **[10:26](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=626)** You can kind of mess around with it, play with some, look at the execution plans, and it kind of helps give you a sense of where you might have some performance tuning opportunities in your server.
+> **[10:26](https://www.linkedin.com/learning/sql-server-2022-administration/use-execution-plans?u=76281980&t=626)** You can kind of mess around with it, play with some, look at the execution plans, and it kind of helps give you a sense of where you might have some [[Performance Tuning]] opportunities in your server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), database (4), application (3), hit (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (1), [[Statistics]] (1), [[SQL]] (1), [[Fetch]] (1), [[Performance Tuning]] (1)
 > **CLI Commands:** find (12), go run (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** similar to (1), imagine (1), kind of like (1)
 > **Env Vars:** sql (2)
 > **Best Practices:** rule of thumb (1)
 
-#### Configure clustered indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980)
+#### [Configure clustered indexes](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=6)** In terms of finding data in a SQL Server table or a set of SQL Server tables, the query optimizer uses what are called indexes.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=6)** In terms of finding data in a [[Microsoft SQL Server|SQL Server]] table or a set of SQL Server tables, the query optimizer uses what are called indexes.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=15)** And indexes are very, very important in doing just that, indexing into tables to find things.
 >
@@ -6242,7 +6198,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=28)** Think of a clustered index as a dictionary.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=33)** All of the data in a dictionary is stored from A to Z, and if I need to find a particular word, panda, I flip to p, pa, pan, panda.
+> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=33)** All of the data in a dictionary is stored from A to Z, and if I need to find a particular [[Microsoft Word|word]], panda, I flip to p, pa, pan, panda.
 >
 > **[0:47](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=47)** And not only have I found the word I need, "panda," I found the data, the definition.
 >
@@ -6250,7 +6206,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=58)** Now, if you think of an index in a book, that's more like a non-clustered index.
 >
-> **[1:04](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=64)** So the way that works is I take, say, an encyclopedia and I want to find entries in this encyclopedia about pandas.
+> **[1:04](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=64)** So the way that works is I take, say, an encyclopedia and I want to find entries in this encyclopedia about [[Pandas (Software)|pandas]].
 >
 > **[1:12](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=72)** So I go to the back of the book and I look in what is called an index and I find panda.
 >
@@ -6580,11 +6536,11 @@ created: 2026-05-02
 >
 > **[17:19](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=1039)** So take this piece of information.
 >
-> **[17:21](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=1041)** You're going to put it together with the non-clustered index lesson, and then those two things can really allow you to start doing some performance tuning by creating indexes, by doing some query tuning, and you can really start to make your database hum.
+> **[17:21](https://www.linkedin.com/learning/sql-server-2022-administration/configure-clustered-indexes?u=76281980&t=1041)** You're going to put it together with the non-clustered index lesson, and then those two things can really allow you to start doing some [[Performance Tuning]] by creating indexes, by doing some query tuning, and you can really start to make your database hum.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[Microsoft SQL Server|Sql server]] (7), hit (7), [[Pandas (Software)|Pandas]] (4), database (4)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Pandas (Software)|Pandas]] (4), [[Microsoft Word|Word]] (3), [[Performance Tuning]] (1)
 > **CLI Commands:** find (17), make (3)
 > **Env Vars:** sql (7), gui (1)
 > **UI Navigation:** go to (5), scroll up (1), select the (1)
@@ -6593,17 +6549,15 @@ created: 2026-05-02
 > **Documentation:** specification (3)
 > **Analogies:** for example (2), analogous to (1)
 
-#### Configure non-clustered indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/configure-non-clustered-indexes?u=76281980)
+#### [Configure non-clustered indexes](https://www.linkedin.com/learning/sql-server-2022-administration/configure-non-clustered-indexes?u=76281980)
 
-#### Use index statistics
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980)
+#### [Use index statistics](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=6)** So in this lesson, we want to take a look at index statistics.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=6)** So in this lesson, we want to take a look at index [[Statistics]].
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=10)** Now indexes, clustered and non-clustered indexes, are used to help improve the performance of your queries and your SQL Servers.
+> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=10)** Now indexes, clustered and non-clustered indexes, are used to help improve the performance of your queries and your [[SQL]] Servers.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=17)** With statistics that's information that the index tracks about your tables to help it make decisions about which indexes to use and how to go about getting your data.
 >
@@ -6729,7 +6683,7 @@ created: 2026-05-02
 >
 > **[6:02](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=362)** So if I had auto update statistics turned on, periodically, it updates those things and it typically takes care of it.
 >
-> **[6:09](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=369)** But occasionally, and I've seen this in service with very large databases, we'll run update statistics throughout the day or we'll have jobs that are standing by that we can run it because you'll just get some weird behavior and it's just not updating statistics enough or it's not updating them -- yeah, it's just not updating them fast enough.
+> **[6:09](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=369)** But occasionally, and I've seen this in service with very large [[Databases]], we'll run update statistics throughout the day or we'll have jobs that are standing by that we can run it because you'll just get some weird behavior and it's just not updating statistics enough or it's not updating them -- yeah, it's just not updating them fast enough.
 >
 > **[6:27](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=387)** And so your query starts to slow down.
 >
@@ -6807,7 +6761,7 @@ created: 2026-05-02
 >
 > **[9:03](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=543)** It figures out if you're trying to grab a range of data, if you get too large of a range.
 >
-> **[9:08](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=548)** So if I were to select an entire year's worth, you know, as it gets big enough, it starts to say, "Okay, do I need to just fetch everything?
+> **[9:08](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=548)** So if I were to select an entire year's worth, you know, as it gets big enough, it starts to say, "Okay, do I need to just [[Fetch]] everything?
 >
 > **[9:15](https://www.linkedin.com/learning/sql-server-2022-administration/use-index-statistics?u=76281980&t=555)** Can I grab chunks?
 >
@@ -6829,7 +6783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (21), data (18), hit (2), [[SQL]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (21), [[SQL]] (1), [[Databases]] (1), [[Fetch]] (1)
 > **Env Vars:** dbcc (3), show_statistics (3), sql (1), ix_ (1), update (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** click on (1), select the (1), scroll down (1)
@@ -6842,12 +6796,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 5 introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980)
+#### [Module 5 introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980&t=6)** As a SQL Server administrator, you need to maintain high availability of your databases and have a plan in place for data recovery.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980&t=6)** As a [[Microsoft SQL Server|SQL Server]] administrator, you need to maintain high availability of your [[Databases]] and have a plan in place for data recovery.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/module-5-introduction?u=76281980&t=13)** Here you learn to develop, deploy, and manage data recovery solutions.
 >
@@ -6857,17 +6810,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (2), data (2), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (1)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980&t=6)** Welcome to our lesson on developing, deploying and managing data recovery.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980&t=10)** In this lesson, we look at probably the most important topic in this course, setting up a recovery plan for your databases.
+> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980&t=10)** In this lesson, we look at probably the most important topic in this course, setting up a recovery plan for your [[Databases]].
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306486?u=76281980&t=17)** If you're only going to remember one thing from this course, this is it.
 >
@@ -6879,14 +6831,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Databases]] (1), [[Security]] (1), database (1)
+> **Frameworks & Libraries:** [[Databases]] (1)
 
-#### Understand data recovery fundamentals
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980)
+#### [Understand data recovery fundamentals](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980&t=6)** SQL Server houses a lot of important data.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980&t=6)** [[Microsoft SQL Server|SQL Server]] houses a lot of important data.
 >
 > **[0:08](https://www.linkedin.com/learning/sql-server-2022-administration/understand-data-recovery-fundamentals?u=76281980&t=8)** So you need to have a plan in place for when and if something breaks and you lose your database or you lose your server.
 >
@@ -6928,19 +6879,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft SQL Server|Sql server]] (4), database (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** sql (4)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you need to have (1)
 
-#### Understand backup devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980)
+#### [Understand backup devices](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980&t=6)** So SQL Server natively supports two ways really of backing up your databases, and those two ways are tape and directly to disk.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980&t=6)** So [[Microsoft SQL Server|SQL Server]] natively supports two ways really of backing up your [[Databases]], and those two ways are tape and directly to disk.
 >
-> **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980&t=16)** Most companies that I've done administration for, worked for over the years do some sort of hybrid method, so they'll do disk backups that later get scraped off to tape or they'll use backup servers out in the cloud or NAS devices in their environment, which are basically just backup to disk as far as SQL is concerned.
+> **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980&t=16)** Most companies that I've done administration for, worked for over the years do some sort of hybrid method, so they'll do disk backups that later get scraped off to tape or they'll use backup servers out in the cloud or NAS devices in their environment, which are basically just backup to disk as far as [[SQL]] is concerned.
 >
 > **[0:37](https://www.linkedin.com/learning/sql-server-2022-administration/understand-backup-devices?u=76281980&t=37)** And there are a lot of third party tools that you can use to backup SQL Server that can do similar things.
 >
@@ -7058,7 +7008,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (4), [[SQL]] (2), [[Databases]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[SQL]] (2), [[Databases]] (1)
 > **Env Vars:** sql (6), nas (1), url (1), gui (1)
 > **Prerequisites:** set up (6)
 > **CLI Commands:** make (1)
@@ -7066,16 +7016,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 
-#### Understand different types of backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980)
+#### [Understand different types of backups](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=6)** SQL Server supports several different types of backups, and some of these are going to be somewhat analogous to types of backups you might be familiar with if you've done Windows or server backups.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=6)** [[Microsoft SQL Server|SQL Server]] supports several different types of backups, and some of these are going to be somewhat analogous to types of backups you might be familiar with if you've done [[Windows]] or server backups.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=17)** So we're going to walk through and talk about each of the types of backups you can do in SQL Server.
 >
-> **[0:23](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=23)** So you have databases and that's primarily what you're going to be backing up with a Microsoft SQL Server.
+> **[0:23](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=23)** So you have [[Databases]] and that's primarily what you're going to be backing up with a [[Microsoft SQL Server]].
 >
 > **[0:31](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=31)** And there's a couple different things you can do to back up your data.
 >
@@ -7087,7 +7036,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=59)** Okay.
 >
-> **[1:00](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=60)** What that basically means, SQL databases are broken up into different files.
+> **[1:00](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=60)** What that basically means, [[SQL]] databases are broken up into different files.
 >
 > **[1:05](https://www.linkedin.com/learning/sql-server-2022-administration/understand-different-types-of-backups?u=76281980&t=65)** Okay.
 >
@@ -7283,25 +7232,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (30), data (16), [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (4), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Databases]] (4), [[Windows]] (2), [[Microsoft SQL Server]] (1), [[SQL]] (1)
 > **Env Vars:** sql (6)
 > **UI Navigation:** go to (2)
 > **Definitions:** basically means (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** analogous to (1)
 
-#### Create and verify backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/create-and-verify-backups?u=76281980)
+#### [Create and verify backups](https://www.linkedin.com/learning/sql-server-2022-administration/create-and-verify-backups?u=76281980)
 
-#### Restore a database
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/restore-a-database?u=76281980)
+#### [Restore a database](https://www.linkedin.com/learning/sql-server-2022-administration/restore-a-database?u=76281980)
 
-#### Define a backup and recovery strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980)
+#### [Define a backup and recovery strategy](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=6)** Obviously, taking backups of all your databases is important and it's something you should do fairly regularly in case disaster strikes and you have to restore.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=6)** Obviously, taking backups of all your [[Databases]] is important and it's something you should do fairly regularly in case disaster strikes and you have to restore.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=15)** However, there's more considerations to how you design your backup strategy than just backup the databases.
 >
@@ -7309,7 +7255,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=28)** But we're going to talk about things you should consider for your backup strategy.
 >
-> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=33)** So we know there are different kinds of backups in SQL Server, and I'm just going to bring up the backup dialog so we can kind of talk through some of these.
+> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=33)** So we know there are different kinds of backups in [[Microsoft SQL Server|SQL Server]], and I'm just going to bring up the backup dialog so we can kind of talk through some of these.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=41)** You have your fulls, you have your differentials, and you have your T-logs.
 >
@@ -7365,7 +7311,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=173)** And for you, it's about volume and it's about data loss.
 >
-> **[2:58](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=178)** So if I have a smaller e-commerce site where I have seven orders a day, I probably don't need to back up every 15 minutes because I'm taking an order on average once every 4 hours.
+> **[2:58](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=178)** So if I have a smaller [[E-Commerce]] site where I have seven orders a day, I probably don't need to back up every 15 minutes because I'm taking an order on average once every 4 hours.
 >
 > **[3:11](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=191)** So I could probably say, well, I can afford to lose 4 hours of data because nothing really happens in that time.
 >
@@ -7453,7 +7399,7 @@ created: 2026-05-02
 >
 > **[8:25](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=505)** So unless you've changed model, there's no need to back it up.
 >
-> **[8:29](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=509)** So a lot of times I've been in organizations where you'll have a job set up, a SQL agent job, to backup model, and if you do change model, you kick off that job to make a backup just so you have it.
+> **[8:29](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=509)** So a lot of times I've been in organizations where you'll have a job set up, a [[SQL]] agent job, to backup model, and if you do change model, you kick off that job to make a backup just so you have it.
 >
 > **[8:39](https://www.linkedin.com/learning/sql-server-2022-administration/define-a-backup-and-recovery-strategy?u=76281980&t=519)** You don't need to back it up every day because likely what you're going to have is 365 backups at the end of the year that are all the same.
 >
@@ -7499,7 +7445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), data (9), [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (2)
+> **Frameworks & Libraries:** [[Databases]] (8), [[Microsoft SQL Server|Sql server]] (2), [[SQL]] (2), [[E-Commerce]] (1)
 > **Env Vars:** sql (4), msdb (3), oltp (1)
 > **CLI Commands:** make (6)
 > **Cross-References:** we talked about (2)
@@ -7513,12 +7459,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980&t=6)** Welcome to our lesson on Implementing SQL Server High Availability and Disaster Recovery.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980&t=6)** Welcome to our lesson on Implementing [[Microsoft SQL Server|SQL Server]] High Availability and Disaster Recovery.
 >
 > **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22310441?u=76281980&t=11)** If the unthinkable happens and you run into a major disaster, or even if you have a simple power outage, how do you keep your data available to your users?
 >
@@ -7536,16 +7481,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft SQL Server|Sql server]] (2), power (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2)
 > **Env Vars:** sql (2)
 > **Prerequisites:** set up (1)
 
-#### Review high availability and disaster recovery technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980)
+#### [Review high availability and disaster recovery technologies](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=6)** So when it comes to high availability and disaster recovery, SQL Server offers a handful of options to help keep your servers up and running.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=6)** So when it comes to high availability and disaster recovery, [[Microsoft SQL Server|SQL Server]] offers a handful of options to help keep your servers up and running.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=13)** Now, in this instance, when we say disaster recovery, we're not referring to a database that crash that we need to recover.
 >
@@ -7569,9 +7513,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=85)** So as far as they're concerned, nothing happened.
 >
-> **[1:29](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=89)** So we have several lessons that we're going to take a look at, some disaster recovery options in SQL.
+> **[1:29](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=89)** So we have several lessons that we're going to take a look at, some disaster recovery options in [[SQL]].
 >
-> **[1:34](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=94)** And in this one, we're going to sort of talk through what's available so you know, the entire suite of products that you could use to set up some of these solutions.
+> **[1:34](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=94)** And in this one, we're going to sort of talk through what's available so you know, the entire suite of [[Microsoft Products|products]] that you could use to set up some of these solutions.
 >
 > **[1:44](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=104)** So I'm just going to kind of talk through these.
 >
@@ -7581,7 +7525,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=113)** And we're going to in a couple of these lessons, set up some high availability solutions between these two.
 >
-> **[1:59](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=119)** We're going to look at using SQL Server replication as a high availability tool, not necessarily its primary purpose. Replication is all about sending data from one server to another in some fashion, sometimes it's a subset of data, sometimes it's whole databases, procedures, views, tables, the whole nine yards, and it's about getting data from point A to point B.
+> **[1:59](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=119)** We're going to look at using SQL Server replication as a high availability tool, not necessarily its primary purpose. Replication is all about sending data from one server to another in some fashion, sometimes it's a subset of data, sometimes it's whole [[Databases]], procedures, views, tables, the whole nine yards, and it's about getting data from point A to point B.
 >
 > **[2:25](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=145)** So we'll look at how to use that for high availability.
 >
@@ -7607,7 +7551,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=235)** And then beyond that, outside of the scope of necessarily SQL by itself, you can start to do clusters.
 >
-> **[4:03](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=243)** So you can set up SQL on Windows clusters, which is that example I kind of talked about a little earlier.
+> **[4:03](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=243)** So you can set up SQL on [[Windows]] clusters, which is that example I kind of talked about a little earlier.
 >
 > **[4:10](https://www.linkedin.com/learning/sql-server-2022-administration/review-high-availability-and-disaster-recovery-technologies?u=76281980&t=250)** Two servers, shared storage, one server breaks, the other server takes over, and you have this sort of seamless transition.
 >
@@ -7621,23 +7565,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), database (5), [[Databases]] (3)
+> **Frameworks & Libraries:** [[SQL]] (7), [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (3), [[Windows]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** sql (12)
 > **Prerequisites:** set up (5), configure (1)
 > **Definitions:** is an  (1), is a  (1)
 
-#### Setup SQL Server Log shipping
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-log-shipping?u=76281980)
+#### [Setup SQL Server Log shipping](https://www.linkedin.com/learning/sql-server-2022-administration/setup-sql-server-log-shipping?u=76281980)
 
-#### Replication for high availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/replication-for-high-availability?u=76281980)
+#### [Replication for high availability](https://www.linkedin.com/learning/sql-server-2022-administration/replication-for-high-availability?u=76281980)
 
-#### Read secondary database copies
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/read-secondary-database-copies?u=76281980)
+#### [Read secondary database copies](https://www.linkedin.com/learning/sql-server-2022-administration/read-secondary-database-copies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/read-secondary-database-copies?u=76281980&t=6)** So depending on which high availability solution you're using for your Microsoft SQL Server databases, there's various ways that you can read the secondary data.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/read-secondary-database-copies?u=76281980&t=6)** So depending on which high availability solution you're using for your [[Microsoft SQL Server]] [[Databases]], there's various ways that you can read the secondary data.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/read-secondary-database-copies?u=76281980&t=15)** If you're using replication and if you go look at the replication lesson, you'll know that in transactional replication I can read from my secondary copy, in fact, my secondary copies of full blown database and I can write to that database.
 >
@@ -7853,7 +7794,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (21), data (8), [[Databases]] (2), [[Microsoft SQL Server]] (1), next (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[Microsoft SQL Server]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** just like (3), for example (1), such as (1)
 > **UI Navigation:** go to (3)
@@ -7867,18 +7808,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Module 6 Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980)
+#### [Module 6 Introduction](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=6)** Managing, monitoring, and automating SQL Server are key aspects of your day to day.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=6)** Managing, monitoring, and automating [[Microsoft SQL Server|SQL Server]] are key aspects of your day to day.
 >
-> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=10)** Here, I'll show you how to manage databases and monitor activity to keep your servers performing in peak condition.
+> **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=10)** Here, I'll show you how to manage [[Databases]] and monitor activity to keep your servers performing in peak condition.
 >
 > **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=17)** Then we'll look at ways to automate certain aspects of SQL Server administration so that you understand the components you need and the tools that can help you.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=25)** Tools like PowerShell.
+> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/module-6-introduction?u=76281980&t=25)** Tools like [[Powershell]].
 
 > [!info]- Semantic Content
 >
@@ -7886,12 +7826,11 @@ created: 2026-05-02
 > **Env Vars:** sql (2)
 > **Tools:** powershell (1)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306476?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306476?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306476?u=76281980&t=6)** Welcome to our lesson on managing and monitoring SQL Server databases.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306476?u=76281980&t=6)** Welcome to our lesson on managing and monitoring [[Microsoft SQL Server|SQL Server]] [[Databases]].
 >
 > **[0:10](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22306476?u=76281980&t=10)** This lesson will help you to understand how you can monitor your environment for potential issues and use this information to make proactive decisions so things keep running smoothly.
 >
@@ -7903,17 +7842,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[SQL]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
 
-#### Schedule and monitor database backups
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980)
+#### [Schedule and monitor database backups](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=6)** In this lesson, we're going to take a look at using SQL Server Agent to set up jobs to automate your backup processes.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=6)** In this lesson, we're going to take a look at using [[Microsoft SQL Server|SQL Server]] Agent to set up jobs to automate your backup processes.
 >
 > **[0:13](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=13)** Now, you can use SQL Server Agent jobs to automate a lot of pieces of SQL Server, but we're just going to look at setting up some backups and you can use this knowledge for other things.
 >
@@ -7923,7 +7861,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=36)** So I'll just expand that and there's a jobs node, I'll expand that.
 >
-> **[0:40](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=40)** And what we want to do is set up a job to back up our user databases, and the jobs you set up and the number you set up are going to depend on your backup strategy.
+> **[0:40](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=40)** And what we want to do is set up a job to back up our user [[Databases]], and the jobs you set up and the number you set up are going to depend on your backup strategy.
 >
 > **[0:50](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=50)** If you want fulls, say, once a week and differentials throughout the week, I'll set up a basic scheme here and then you can expand this to meet your own needs.
 >
@@ -7973,13 +7911,13 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=168)** So for this job, I'm just going to go ahead and pick database maintenance because that's what a backup is, and you could type a description if you want.
 >
-> **[2:55](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=175)** Now, we're going to go over to the steps page and you'll see here it has added a step and it's a Transact-SQL step.
+> **[2:55](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=175)** Now, we're going to go over to the steps page and you'll see here it has added a step and it's a [[Transact-SQL (T-SQL)|Transact-SQL]] step.
 >
 > **[3:02](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=182)** You can see by this type.
 >
 > **[3:03](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=183)** I'm just going to go ahead and double click it and we can take a look at what it actually created for me.
 >
-> **[3:09](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=189)** So you'll see down here, it does a Transact-SQL script, a T-SQL script, and it's in the master database because that's where you do backups.
+> **[3:09](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=189)** So you'll see down here, it does a Transact-SQL script, a T-[[SQL]] script, and it's in the master database because that's where you do backups.
 >
 > **[3:16](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=196)** And it just took the script for the backup. Backup database - WideWorldImporters to this backup device.
 >
@@ -8151,7 +8089,7 @@ created: 2026-05-02
 >
 > **[10:36](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=636)** And essentially remember all this is, is two different emails, is what you're getting.
 >
-> **[10:41](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=641)** My other option here is I can write to the Windows application log when the job fails.
+> **[10:41](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=641)** My other option here is I can write to the [[Windows]] application log when the job fails.
 >
 > **[10:45](https://www.linkedin.com/learning/sql-server-2022-administration/schedule-and-monitor-database-backups?u=76281980&t=645)** So now if I were to click "Okay" on this and I will. If this job were to fail and you have everything set up and you're ready to go, when your job fails, it can shoot me an email and I can then know about it.
 >
@@ -8179,7 +8117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (24), [[Microsoft SQL Server|Sql server]] (11), [[Databases]] (6), hit (6), node (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (11), [[Databases]] (6), [[Transact-SQL (T-SQL)|Transact-sql]] (2), [[SQL]] (2), [[Windows]] (1)
 > **Env Vars:** sql (15), gui (1)
 > **Prerequisites:** set up (15), setup (1)
 > **CLI Commands:** node (3), make (2)
@@ -8188,8 +8126,7 @@ created: 2026-05-02
 > **URLs:** [contoso.com](https://contoso.com) (2)
 > **Ports:** :00 (2)
 
-#### Deal with database corruption
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980)
+#### [Deal with database corruption](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8201,9 +8138,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=21)** And the one we're going to look at today is called DBCC CHECKDB.
 >
-> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=25)** So I've got a script open here and it's literally just that, it's DBCC CHECKDB, and I don't have any databases that are in a bad state, so nothing's in recovery, nothing's having a problem.
+> **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=25)** So I've got a script open here and it's literally just that, it's DBCC CHECKDB, and I don't have any [[Databases]] that are in a bad state, so nothing's in recovery, nothing's having a problem.
 >
-> **[0:39](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=39)** But if you get bad pages in a database, they can go into like this weird offline state where SQL Server can't bring them online or you might just have errors trying to access the data.
+> **[0:39](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=39)** But if you get bad pages in a database, they can go into like this weird offline state where [[Microsoft SQL Server|SQL Server]] can't bring them online or you might just have errors trying to access the data.
 >
 > **[0:51](https://www.linkedin.com/learning/sql-server-2022-administration/deal-with-database-corruption?u=76281980&t=51)** A first level tool to show to help prevent you having to go all the way to a restore is DBCC CHECKDB.
 >
@@ -8263,14 +8200,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (16), data (4), [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (2), [[Databases]] (1)
 > **Env Vars:** dbcc (9), checkdb (9), repair_allow_data_loss (3), sql (2), repair_fast (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is called (1), is a  (1)
 > **UI Navigation:** scroll down (1)
 
-#### Setup index maintenance
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980)
+#### [Setup index maintenance](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -8298,11 +8234,11 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=85)** So here's a little script that's going to give us our index fragmentation.
 >
-> **[1:30](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=90)** Now, this looks like a pretty big hairy script, but what you really care about in this script, the meat and potatoes of this script, I'll just separate it from the rest, is this function right here.
+> **[1:30](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=90)** Now, this looks like a pretty big hairy script, but what you really care about in this script, the meat and potatoes of this script, I'll just separate it from the [[Representational State Transfer (REST)|rest]], is this function right here.
 >
-> **[1:43](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=103)** It's a system database management function called sys.dm_db_index_physical_stats.
+> **[1:43](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=103)** It's a system [[Database Management]] function called sys.dm_db_index_physical_stats.
 >
-> **[1:50](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=110)** And what this is, is a dynamic function where you can pass in parameters and it will return you statistics about your index.
+> **[1:50](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=110)** And what this is, is a dynamic function where you can pass in parameters and it will return you [[Statistics]] about your index.
 >
 > **[1:59](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=119)** So think of what this returns as just a result.
 >
@@ -8334,7 +8270,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=201)** Now, how does it know to only get this database?
 >
-> **[3:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=205)** So there's a couple functions that T-SQL provides and we're using them here where you can get the database ID of the current database or of any database.
+> **[3:25](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=205)** So there's a couple functions that T-[[SQL]] provides and we're using them here where you can get the database ID of the current database or of any database.
 >
 > **[3:35](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=215)** That function is called DB_ID, and it's right here.
 >
@@ -8354,7 +8290,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=261)** So each of these helps you narrow further the information you're returning in this function.
 >
-> **[4:28](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=268)** So if you click on this function and you can do this with anything in T-SQL and hit "F1," it's going to bring up the Windows help file from Microsoft's online -- books online database.
+> **[4:28](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=268)** So if you click on this function and you can do this with anything in T-SQL and hit "F1," it's going to bring up the [[Windows]] help file from [[Microsoft]]'s online -- books online database.
 >
 > **[4:41](https://www.linkedin.com/learning/sql-server-2022-administration/setup-index-maintenance?u=76281980&t=281)** And here's the help file for dm_db_index_physical_stats.
 >
@@ -8546,7 +8482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (23), data (9), [[SQL]] (4), [[Statistics]] (3), hit (3)
+> **Frameworks & Libraries:** [[SQL]] (4), [[Statistics]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Database Management]] (1), [[Windows]] (1)
 > **Env Vars:** sql (4), alter (3), index (3), db_id (2), reorganize (2)
 > **Definitions:** is a  (5), is called (1), means that (1), is an  (1)
 > **Code Identifiers:** dm_db_index_physical_stats (4), physical_stats (1)
@@ -8555,16 +8491,15 @@ created: 2026-05-02
 > **Versions:** 0.7825 (1), 0.78125 (1), 0.7125 (1)
 > **CLI Commands:** make (2)
 
-#### Cleanup history
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980)
+#### [Cleanup history](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=6)** So as you automate more and more of your SQL Server administration responsibilities by creating jobs in SQL Server Agent, you're going to notice that you could have an issue with your database starting to get bigger and bigger.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=6)** So as you automate more and more of your [[Microsoft SQL Server|SQL Server]] administration responsibilities by creating jobs in SQL Server Agent, you're going to notice that you could have an issue with your database starting to get bigger and bigger.
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=20)** And that's because the history of all those jobs gets logged into your MSDB database.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=26)** So just like managing your user databases, you have to take a few steps to make sure you're calling that data because let's face it, you don't care if a backup job succeeded three years ago, right?
+> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=26)** So just like managing your user [[Databases]], you have to take a few steps to make sure you're calling that data because let's face it, you don't care if a backup job succeeded three years ago, right?
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/cleanup-history?u=76281980&t=36)** You need relevant information that you can act upon.
 >
@@ -8746,7 +8681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Microsoft SQL Server|Sql server]] (5), hit (4), [[Databases]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), [[Databases]] (1)
 > **Env Vars:** msdb (9), sql (5), dta (1), dba (1)
 > **Code Identifiers:** sp_purge_jobhistory (2), purge_jobhistory (2)
 > **CLI Commands:** make (3)
@@ -8754,14 +8689,13 @@ created: 2026-05-02
 > **Analogies:** just like (1), imagine (1)
 > **Definitions:** is a  (1)
 
-#### Shrink databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980)
+#### [Shrink databases](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=6)** So the cost of disk space has come down substantially over the past few decades in IT, but part of your job as a DBA is still to manage that space.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=17)** And databases can be configured to auto grow and take up more space as they have data added to them.
+> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=17)** And [[Databases]] can be configured to auto grow and take up more space as they have data added to them.
 >
 > **[0:24](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=24)** You can configure them to auto shrink and you should at least occasionally go in and check your databases and see if you do need to shrink them.
 >
@@ -8769,7 +8703,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=42)** So let's dive right in.
 >
-> **[0:44](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=44)** Here's the WideWorldImporters database, which is the sample with SQL, and if I look at the properties of this, you'll see on options that it is set to false for auto shrink.
+> **[0:44](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=44)** Here's the WideWorldImporters database, which is the sample with [[SQL]], and if I look at the properties of this, you'll see on options that it is set to false for auto shrink.
 >
 > **[0:58](https://www.linkedin.com/learning/sql-server-2022-administration/shrink-databases?u=76281980&t=58)** This is how I recommend you treat your database.
 >
@@ -8989,7 +8923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (39), database (27), [[Databases]] (9), [[SQL]] (3), hit (2)
+> **Frameworks & Libraries:** [[Databases]] (9), [[SQL]] (3)
 > **Env Vars:** sql (3), dba (1), filestream (1), dbcc (1), shrinkfile (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** make (2), cat (1)
@@ -8998,18 +8932,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1), just like (1)
 > **Cross-References:** go back to (1)
 
-#### Monitor database activity
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980)
+#### [Monitor database activity](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=6)** If you need to get a live look at things that are going on in your SQL Server, there's a great little tool that's included in SQL Server Management Studio called the Activity Monitor.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=6)** If you need to get a live look at things that are going on in your [[Microsoft SQL Server|SQL Server]], there's a great little tool that's included in SQL Server Management Studio called the Activity Monitor.
 >
 > **[0:15](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=15)** And we're going to take a brief look at that and show you how you can use it not only to monitor activity, but to potentially solve some common user database blocking issues.
 >
 > **[0:25](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=25)** So to launch the Activity Monitor, you just right click the server that you want to look at and select "Activity monitor."
 >
-> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=33)** And up pops an Activity Monitor here that looks a lot like stuff that you've encountered in Windows over the years, the task managers in Windows.
+> **[0:33](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=33)** And up pops an Activity Monitor here that looks a lot like stuff that you've encountered in [[Windows]] over the years, the task managers in Windows.
 >
 > **[0:41](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=41)** And at the top it tells you the processor time, how many weighting tasks, your IO and your batch request per second.
 >
@@ -9039,7 +8972,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=142)** There's a lesson on SQL Server profiler if you want to go check that out, that'll help you get started with that.
 >
-> **[2:28](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=148)** But a common thing that happens in databases is occasionally, people will write queries that get blocked or they lock up or they don't do transaction management the way that they were supposed to, and it starts causing an issue for other users.
+> **[2:28](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=148)** But a common thing that happens in [[Databases]] is occasionally, people will write queries that get blocked or they lock up or they don't do transaction management the way that they were supposed to, and it starts causing an issue for other users.
 >
 > **[2:44](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-activity?u=76281980&t=164)** So I'm going to simulate that situation and show you how you can use this tool to identify it.
 >
@@ -9187,7 +9120,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), [[Microsoft SQL Server|Sql server]] (4), management (3), data (3), hit (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Windows]] (2), [[Databases]] (2), [[SQL]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** sql (5)
 > **Definitions:** is a  (2)
@@ -9195,12 +9128,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** scroll down (1)
 
-#### Use performance monitor
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-performance-monitor?u=76281980)
+#### [Use performance monitor](https://www.linkedin.com/learning/sql-server-2022-administration/use-performance-monitor?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-performance-monitor?u=76281980&t=6)** So if you've worked with Windows for a while or done any Windows Administration, you're probably familiar with the performance monitor tools that are built into the Windows system, specifically the Performance Monitor, which we're going to look at, because it can be utilized not only to watch Windows Resources, but also to look at SQL Server resources to get an idea of how things are operating inside your SQL Servers.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-performance-monitor?u=76281980&t=6)** So if you've worked with [[Windows]] for a while or done any Windows Administration, you're probably familiar with the performance monitor tools that are built into the Windows system, specifically the Performance Monitor, which we're going to look at, because it can be utilized not only to watch Windows Resources, but also to look at [[Microsoft SQL Server|SQL Server]] resources to get an idea of how things are operating inside your [[SQL]] Servers.
 >
 > **[0:30](https://www.linkedin.com/learning/sql-server-2022-administration/use-performance-monitor?u=76281980&t=30)** So for this lesson, I'm actually going to fire up perf mon, which is the Performance Monitor.
 >
@@ -9304,7 +9236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (7), hit (2), data (2)
+> **Frameworks & Libraries:** [[Windows]] (13), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (7)
 > **Env Vars:** sql (19)
 > **CLI Commands:** node (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -9312,12 +9244,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **UI Navigation:** click on (1)
 
-#### Monitor database logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-logs?u=76281980)
+#### [Monitor database logs](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-logs?u=76281980&t=6)** Database logs play a very important role in keeping your SQL Servers up and running. The log files and databases, they're not logs like a Windows log.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-logs?u=76281980&t=6)** Database logs play a very important role in keeping your [[SQL]] Servers up and running. The log files and [[Databases]], they're not logs like a [[Windows]] log.
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/monitor-database-logs?u=76281980&t=16)** They are temporary storage sort of for processing transactions.
 >
@@ -9407,14 +9338,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[SQL]] (6), [[Databases]] (2), [[Windows]] (1), hit (1)
+> **Frameworks & Libraries:** [[SQL]] (6), [[Databases]] (2), [[Windows]] (1)
 > **Env Vars:** sql (6), dbcc (4)
 > **CLI Commands:** make (2), go run (1), find (1)
 > **UI Navigation:** go to (1)
 > **Prerequisites:** set up (1)
 
-#### Use resource governor
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980)
+#### [Use resource governor](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -9422,7 +9352,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980&t=16)** So there's times where maybe I want to run maintenance and I need to limit the amount of resources that users can use or, you know, just sort of slow the server down for whatever reason.
 >
-> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980&t=27)** I mean, it's not super, super common, but SQL Server provides a way to do just that and you can govern resources using the Resource Governor.
+> **[0:27](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980&t=27)** I mean, it's not super, super common, but [[Microsoft SQL Server|SQL Server]] provides a way to do just that and you can govern resources using the Resource Governor.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/use-resource-governor?u=76281980&t=36)** So the Resource Governor is what we're going to take a look at in this lesson.
 >
@@ -9620,7 +9550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5), node (2), hit (2), management (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (5)
 > **Env Vars:** sql (5), cpu (3), msdn (2), gui (1)
 > **Ports:** :30 (4), :15 (4)
 > **CLI Commands:** make (3), node (2), find (1)
@@ -9634,12 +9564,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning objectives
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980)
+#### [Learning objectives](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=6)** Welcome to our lesson on automating SQL Server Administration.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=6)** Welcome to our lesson on automating [[Microsoft SQL Server|SQL Server]] Administration.
 >
 > **[0:09](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=9)** Some parts of SQL Server administration are pretty mundane and repetitive.
 >
@@ -9647,27 +9576,25 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=20)** Being a good administrator means looking for opportunities to automate any tasks that you can.
 >
-> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=26)** This lesson covers understanding the components of SQL Server Automated administration, setting up database maintenance plans, and using PowerShell to automate SQL Server Administration.
+> **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=26)** This lesson covers understanding the components of SQL Server Automated administration, setting up database maintenance plans, and using [[Powershell]] to automate SQL Server Administration.
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/learning-objectives-22304708?u=76281980&t=36)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), database (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), [[Powershell]] (1)
 > **Env Vars:** sql (4)
 > **Tools:** powershell (1)
 
-#### Understand the components of SQL Server automated administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-components-of-sql-server-automated-administration?u=76281980)
+#### [Understand the components of SQL Server automated administration](https://www.linkedin.com/learning/sql-server-2022-administration/understand-the-components-of-sql-server-automated-administration?u=76281980)
 
-#### Setup database maintenance plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980)
+#### [Setup database maintenance plans](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=6)** So a few of the lessons that we've gone through have looked at how to set up automation, backups, do index maintenance and all that kind of stuff.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=17)** And while you can set all this up with SQL Server agent jobs to do your routine maintenance, Microsoft provides a little tool called database maintenance plans that is actually sort of piggybacked on [[SQL Server Integration Services]] that allows you to really do some custom maintenance in a very clean way without having to write a bunch of your own scripts.
+> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=17)** And while you can set all this up with [[Microsoft SQL Server|SQL Server]] agent jobs to do your routine maintenance, [[Microsoft]] provides a little tool called database maintenance plans that is actually sort of piggybacked on [[SQL Server Integration Services]] that allows you to really do some custom maintenance in a very clean way without having to write a bunch of your own scripts.
 >
 > **[0:39](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=39)** So we're going to take a look at that because I think they're very powerful and very useful for DBAs.
 >
@@ -9695,7 +9622,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=120)** Here are the things I can do in a maintenance plan.
 >
-> **[2:03](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=123)** I can back up databases, check integrity, execute jobs or T-SQL statements, clean up history, clean up my maintenance history, notify an operator, rebuild, reorganize indexes, shrink databases, and update stats.
+> **[2:03](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=123)** I can back up [[Databases]], check integrity, execute jobs or T-[[SQL]] statements, clean up history, clean up my maintenance history, notify an operator, rebuild, reorganize indexes, shrink databases, and update stats.
 >
 > **[2:16](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=136)** Okay. So those are the things I can do, all very common administrative tasks.
 >
@@ -9735,7 +9662,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=225)** I can also say ignore databases where the state is not online and I will do that because if I have a database that's in recovering mode, I don't want it to try to do this because it could cause the whole plan to fail.
 >
-> **[3:56](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=236)** And then I won't be able to check the rest of my databases.
+> **[3:56](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=236)** And then I won't be able to check the [[Representational State Transfer (REST)|rest]] of my databases.
 >
 > **[3:59](https://www.linkedin.com/learning/sql-server-2022-administration/setup-database-maintenance-plans?u=76281980&t=239)** So I'll say, okay.
 >
@@ -9955,7 +9882,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (20), [[Databases]] (12), hit (10), [[Microsoft SQL Server|Sql server]] (9), [[SQL]] (6)
+> **Frameworks & Libraries:** [[Databases]] (12), [[Microsoft SQL Server|Sql server]] (9), [[SQL]] (6), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** sql (15), ssis (4), dbcc (3), msdb (1)
 > **Prerequisites:** set up (6), configure (2), install (1)
 > **CLI Commands:** make (4), find (1)
@@ -9964,18 +9891,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Tools:** command line (1)
 
-#### Use PowerShell to automate SQL Server administration
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980)
+#### [Use PowerShell to automate SQL Server administration](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=6)** So if you've done any sort of system administration recently, you've probably discovered PowerShell.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=6)** So if you've done any sort of [[System Administration]] recently, you've probably discovered [[Powershell]].
 >
-> **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=11)** PowerShell runs, it's a scripting language that runs on Windows and you can do just all kinds of stuff with it.
+> **[0:11](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=11)** PowerShell runs, it's a scripting language that runs on [[Windows]] and you can do just all kinds of stuff with it.
 >
-> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=17)** I mean, it's darn near a full fledged programming language and you can access components of Windows, components of SQL, and it's a great tool for helping you automate some of your administrative tasks.
+> **[0:17](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=17)** I mean, it's darn near a full fledged programming language and you can access components of Windows, components of [[SQL]], and it's a great tool for helping you automate some of your administrative tasks.
 >
-> **[0:31](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=31)** So I want to show you two quick ways that you can use PowerShell in SQL Server.
+> **[0:31](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=31)** So I want to show you two quick ways that you can use PowerShell in [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:36](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=36)** Now, this isn't a PowerShell lesson, so I'm not going to go deep into writing PowerShell code, but I'm just going to show you where you can access the areas to run PowerShell against your server.
 >
@@ -10007,7 +9933,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=135)** And you can see here that I'm connected to my SQL Server.
 >
-> **[2:19](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=139)** And then it browses, like, PowerShell uses a lot of what looks like browsing folders, but what I'm really doing is browsing resources here. So you can see I'm connected to my machine, SQL Inside Out databases WideWorldImporters.
+> **[2:19](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=139)** And then it browses, like, PowerShell uses a lot of what looks like browsing folders, but what I'm really doing is browsing resources here. So you can see I'm connected to my machine, SQL Inside Out [[Databases]] WideWorldImporters.
 >
 > **[2:32](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=152)** So I'm in that database. And now from here, I can start writing PowerShell scripts that talk to the objects in my database.
 >
@@ -10019,7 +9945,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=182)** So I could do something like select@@version, which essentially just selects the version of that SQL server.
 >
-> **[3:09](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=189)** And then I hit "Enter" and you'll see that kicked back a result with one column and told me Microsoft SQL Server 2022.
+> **[3:09](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=189)** And then I hit "Enter" and you'll see that kicked back a result with one column and told me [[Microsoft SQL Server]] 2022.
 >
 > **[3:16](https://www.linkedin.com/learning/sql-server-2022-administration/use-powershell-to-automate-sql-server-administration?u=76281980&t=196)** Likewise, I could run select statements, select star from and this is the we are inside the WideWorldImporters database so I can select star from sales.orders, that's fine.
 >
@@ -10045,7 +9971,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (30), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (10), database (5), hit (4)
+> **Frameworks & Libraries:** [[Powershell]] (30), [[Microsoft SQL Server|Sql server]] (12), [[SQL]] (10), [[Windows]] (3), [[System Administration]] (1)
 > **Tools:** powershell (30), command line (1), command prompt (1)
 > **Env Vars:** sql (23)
 > **Cross-References:** we talked about (1)
@@ -10058,12 +9984,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=6)** Thanks for following along with me through these SQL Server 2022 Administration Inside Out Lessons.
+> **[0:06](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=6)** Thanks for following along with me through these [[Microsoft SQL Server|SQL Server]] 2022 Administration Inside Out Lessons.
 >
 > **[0:12](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=12)** I hope you found this to be an educational and worthwhile experience.
 >
@@ -10073,17 +9998,17 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=26)** We looked at the various components of database servers and some common configuration options for the database engine.
 >
-> **[0:32](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=32)** We covered how to provision SQL Server databases and how to configure databases on your SQL Servers.
+> **[0:32](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=32)** We covered how to provision SQL Server [[Databases]] and how to configure databases on your [[SQL]] Servers.
 >
-> **[0:38](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=38)** We talked a bit about provisioning Azure SQL databases and servers and the basics of working with Microsoft Azure.
+> **[0:38](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=38)** We talked a bit about provisioning [[Microsoft Azure|Azure]] SQL databases and servers and the basics of working with [[Microsoft Azure]].
 >
 > **[0:45](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=45)** We covered implementing and managing SQL Server user security and permissions.
 >
 > **[0:51](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=51)** We looked at steps you can take to further secure your data and looked a little closer at Azure security.
 >
-> **[0:57](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=57)** We covered basic database design by talking about SQL Server tables and looked at some special table types.
+> **[0:57](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=57)** We covered basic [[Database Design]] by talking about SQL Server tables and looked at some special table types.
 >
-> **[1:03](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=63)** We also covered views and discussed change data capture. Performance tuning and optimization is important, so we covered indexes and statistics as well as isolation levels and execution plans.
+> **[1:03](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=63)** We also covered views and discussed change data capture. [[Performance Tuning]] and optimization is important, so we covered indexes and [[Statistics]] as well as isolation levels and execution plans.
 >
 > **[1:15](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=75)** We looked at options for developing, deploying and managing data recovery, specifically looking at how you can plan for and recover from the unexpected.
 >
@@ -10093,7 +10018,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=102)** Finally, we talked about strategies for automating SQL Server Administration.
 >
-> **[1:47](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=107)** We talked about what is available for SQL Server automation and we looked at maintenance plans and how you can use PowerShell to automate some of that administration.
+> **[1:47](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=107)** We talked about what is available for SQL Server automation and we looked at maintenance plans and how you can use [[Powershell]] to automate some of that administration.
 >
 > **[1:55](https://www.linkedin.com/learning/sql-server-2022-administration/summary?u=76281980&t=115)** Now, we've covered quite a lot of material in these lessons.
 >
@@ -10113,7 +10038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[Databases]] (4), [[SQL]] (4), database (3), data (3)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (8), [[Databases]] (4), [[SQL]] (4), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** sql (12)
 > **Cross-References:** we covered (5), we talked about (3)
 > **Prerequisites:** install (1), configure (1)

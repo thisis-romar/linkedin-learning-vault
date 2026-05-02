@@ -59,14 +59,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)
+#### [Unlock the power of templates: Create impactful ChatGPT prompts with the template pattern](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=0)** The Template Pattern is something that I've created and talked about in my very first course.
 >
-> **[0:05](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=5)** But, over the last year, when I've really been doing a lot of prompt engineering and prompting, the Template Pattern, I realized, is something that I really wish I had taken more time to explain, because it's one of the most powerful things that I use on a daily basis.
+> **[0:05](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=5)** But, over the last year, when I've really been doing a lot of [[Prompt Engineering]] and prompting, the Template Pattern, I realized, is something that I really wish I had taken more time to explain, because it's one of the most powerful things that I use on a daily basis.
 >
 > **[0:19](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=19)** In fact, it's something that when I go into demos, I always try to use the Template Pattern because it's something that usually looks like a Jedi mind trick to people.
 >
@@ -142,7 +141,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=201)** But at the end of the day you experiment and find out what works well for you.
 >
-> **[3:25](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=205)** But that's what I'm going to use and sort of standardize on throughout the rest of this.
+> **[3:25](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=205)** But that's what I'm going to use and sort of standardize on throughout the [[Representational State Transfer (REST)|rest]] of this.
 >
 > **[3:29](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=209)** So, this is my prompt: "Vanderbilt University was founded in" "<Insert Year>" "by" "<Insert Founder>".
 >
@@ -222,7 +221,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=430)** But no, I can just get it into the right format on the first pass, which is an incredibly useful thing to do.
 >
-> **[7:17](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=437)** Like, if you want to take really badly formatted information like those comments that I took out of LinkedIn and get them into a structured format like comma separated values.
+> **[7:17](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=437)** Like, if you want to take really badly formatted information like those comments that I took out of [[LinkedIn]] and get them into a structured format like comma separated values.
 >
 > **[7:28](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/unlock-the-power-of-templates-create-impactful-chatgpt-prompts-with-the-template-pattern?u=76281980&t=448)** Or, let's say you have your resume in one format and you need to move your resume into a new format.
 >
@@ -234,21 +233,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (3), prompt (3), [[Prompt Engineering]] (1), power (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Exercise Files:** template (9)
 > **Definitions:** is a  (6), is an  (1)
 > **Env Vars:** llm (3), yyy (1)
 > **CLI Commands:** find (3)
 > **Analogies:** imagine (1)
 
-#### Supercharge your prompts with Markdown: Enhance ChatGPT output like a pro
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980)
+#### [Supercharge your prompts with Markdown: Enhance ChatGPT output like a pro](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=0)** To really take control over the format that is going to give us stuff in with the template pattern, we want to understand Markdown. And, what is Markdown?
 >
-> **[0:09](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=9)** Well, let's think about what you do in a word processor, right?
+> **[0:09](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=9)** Well, let's think about what you do in a [[Microsoft Word|word]] processor, right?
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=12)** You will go in and you will write a document and you will highlight certain sections and you'll say, "this is going to be a first level heading."
 >
@@ -260,11 +258,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=37)** How do we make that happen?
 >
-> **[0:39](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=39)** Well, large language models know how to speak text.
+> **[0:39](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=39)** Well, [[Large Language Models (LLM)|large language models]] know how to speak text.
 >
 > **[0:43](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=43)** And so, what we want to do is we want to work with the large language model so that it can spit out text, that when you take that text and you put it into the right tool, it will have the formatting that we want.
 >
-> **[0:55](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=55)** Now, it turns out that most of these large language model tools, these chat interfaces, like Claude or ChatGPT, they already know a formatting language that's textual called "Markdown."
+> **[0:55](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=55)** Now, it turns out that most of these large language model tools, these chat interfaces, like Claude or [[ChatGPT]], they already know a formatting language that's textual called "Markdown."
 >
 > **[1:08](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/supercharge-your-prompts-with-markdown-enhance-chatgpt-output-like-a-pro?u=76281980&t=68)** And Markdown, then, is what we can take advantage of in order to, you know, control exactly the formatting that we get out.
 >
@@ -382,7 +380,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (2), llm (2), [[ChatGPT]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** gui (2), llm (2), url (1)
 > **Definitions:** is a  (3)
@@ -390,8 +388,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (2)
 > **Exercise Files:** template (1)
 
-#### Elevate your writing: Using Markdown for footnotes and citations in ChatGPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980)
+#### [Elevate your writing: Using Markdown for footnotes and citations in ChatGPT](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -403,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=13)** And we're going to make some amazing things happen.
 >
-> **[0:15](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=15)** And hopefully we'll open your mind to how you can go about really building more sophisticated outputs out of these large language models.
+> **[0:15](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=15)** And hopefully we'll open your mind to how you can go about really building more sophisticated outputs out of these [[Large Language Models (LLM)|large language models]].
 >
 > **[0:24](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=24)** So, we're going to start off with a big prompt, and I'm going to show you this prompt and walk you through it step by step.
 >
@@ -463,7 +460,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=127)** Now, it's a bit different how I used to use it.
 >
-> **[2:09](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=129)** And if you took my first course on prompt engineering for ChatGPT, it's not exactly how I presented it there.
+> **[2:09](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=129)** And if you took my first course on [[Prompt Engineering]] for [[ChatGPT]], it's not exactly how I presented it there.
 >
 > **[2:14](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=134)** So, this is how I use it now. My sort of way of thinking about it has evolved.
 >
@@ -489,7 +486,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=177)** But sometimes numbers and things, it just knows what you meant.
 >
-> **[3:01](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=181)** Um, and then I say "<Insert 6-9 Word Exciting Summary>" So, I want like a second level heading that has some exciting, fun fact about Vanderbilt.
+> **[3:01](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=181)** Um, and then I say "<Insert 6-9 [[Microsoft Word|Word]] Exciting Summary>" So, I want like a second level heading that has some exciting, fun fact about Vanderbilt.
 >
 > **[3:09](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/elevate-your-writing-using-markdown-for-footnotes-and-citations-in-chatgpt?u=76281980&t=189)** But I don't want it to be too long, so I want it to be 6 to 9 words.
 >
@@ -663,7 +660,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), data (1), [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[ChatGPT]] (1), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Exercise Files:** template (6)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (5)
@@ -672,8 +669,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Warnings:** note that (1)
 
-#### Advanced Markdown mastery: Perfect ChatGPT prompts for outstanding results
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980)
+#### [Advanced Markdown mastery: Perfect ChatGPT prompts for outstanding results](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -763,7 +759,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=211)** And it's going to figure out based on the meaning of the table, what to fill in to tweet, which is kind of fun.
 >
-> **[3:36](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=216)** So, and then in the first row that I'm giving it, I say, "<Insert 3 Word Title>" So, I want roughly three-word titles, <Insert Number> and then <Insert Short Tweet>.
+> **[3:36](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=216)** So, and then in the first row that I'm giving it, I say, "<Insert 3 [[Microsoft Word|Word]] Title>" So, I want roughly three-word titles, <Insert Number> and then <Insert Short Tweet>.
 >
 > **[3:47](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=227)** And so, basically, it's going to fill out this table with that format.
 >
@@ -839,23 +835,22 @@ created: 2026-05-02
 >
 > **[6:45](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=405)** We could print this off.
 >
-> **[6:47](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=407)** We could go and interactively do it and check them off within ChatGPT or within Claude or whatever it is that we want to do.
+> **[6:47](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/advanced-markdown-mastery-perfect-chatgpt-prompts-for-outstanding-results?u=76281980&t=407)** We could go and interactively do it and check them off within [[ChatGPT]] or within Claude or whatever it is that we want to do.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), prompt (3), data (2), management (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[ChatGPT]] (1)
 > **UI Navigation:** go to (1), checkbox (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** sec (1)
 > **Analogies:** imagine (1)
 > **Warnings:** be aware (1)
 
-#### Refine ChatGPT responses: Reduce hallucinations with escape valve techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques?u=76281980)
+#### [Refine ChatGPT responses: Reduce hallucinations with escape valve techniques](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques?u=76281980&t=0)** I want to show you a concept that's really, really helpful in many different ways within large language models and prompts, but it's really particularly helpful in templates to solve a particular problem that we just saw.
+> **[0:00](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques?u=76281980&t=0)** I want to show you a concept that's really, really helpful in many different ways within [[Large Language Models (LLM)|large language models]] and prompts, but it's really particularly helpful in templates to solve a particular problem that we just saw.
 >
 > **[0:12](https://www.linkedin.com/learning/chatgpt-perfecting-your-output-with-templates-in-prompts/refine-chatgpt-responses-reduce-hallucinations-with-escape-valve-techniques?u=76281980&t=12)** And that is what happens when we ask it to fit things into a template, where it's trying to put something into a hole that it doesn't fit in?
 >
@@ -947,7 +942,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2)
 > **Exercise Files:** template (6)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)

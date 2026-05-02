@@ -40,7 +40,7 @@ created: 2026-05-02
 7. [[Manage Storage in Azure]] — 12 mentions
 8. [[Introduction to Terraform on Azure (2022)]] — 10 mentions
 9. [[Devops Foundations Devsecops]] — 9 mentions
-10. [[DevOps Tips]] — 6 mentions
+10. [[DevOps Tips]] — 7 mentions
 
 > [!note]- See all 45 courses
 > 11. [[Introduction to IT Automation]] — 5 mentions
@@ -89,7 +89,7 @@ created: 2026-05-02
 6. [[Develop Your Skills as a Software Project Manager]] — 21 total mentions
 7. [[Become a Full-Stack Web Developer]] — 21 total mentions
 8. [[Build an Enterprise Cloud Architecture]] — 21 total mentions
-9. [[Starting Your Career in Tech- DevOps]] — 20 total mentions
+9. [[Starting Your Career in Tech- DevOps]] — 21 total mentions
 10. [[Cloud Strategy Professional Certificate by LinkedIn Learning]] — 19 total mentions
 
 ---

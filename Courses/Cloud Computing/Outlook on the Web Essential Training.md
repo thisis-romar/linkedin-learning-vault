@@ -107,12 +107,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage your email and calendar with Outlook on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
+#### [Manage your email and calendar with Outlook on the web](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980&t=0)** - [Gini] At its heart, Outlook on the web is an email and calendar app.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980&t=0)** - [Gini] At its heart, [[Microsoft Outlook|Outlook]] on the web is an email and calendar app.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/manage-your-email-and-calendar-with-outlook-on-the-web?u=76281980&t=4)** With Outlook on the web, you don't need to install anything.
 >
@@ -126,27 +125,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), web (4), management (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [gini] (1)
 
-#### What Outlook on the web is and isn't
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980)
+#### [What Outlook on the web is and isn't](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=0)** - [Instructor] The infrastructure for email is modeled on a postal system.
 >
-> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=5)** The Post Office uses physical post office buildings and physical mailboxes while email systems use email servers and client mailboxes.
+> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=5)** The Post [[Microsoft Office|Office]] uses physical post office buildings and physical mailboxes while email systems use email servers and client mailboxes.
 >
-> **[0:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=14)** The server, which in our case is Microsoft Exchange Server, behaves just like the Post Office.
+> **[0:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=14)** The server, which in our case is [[Microsoft]] Exchange Server, behaves just like the Post Office.
 >
 > **[0:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=20)** Exchange Server is where mail is received and sorted, where it's stored and where it's delivered from.
 >
-> **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=27)** Email clients operate like mailboxes, where you can both receive and send email, and the most popular client for Exchange Server is a program called Outlook.
+> **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=27)** Email clients operate like mailboxes, where you can both receive and send email, and the most popular client for Exchange Server is a program called [[Microsoft Outlook|Outlook]].
 >
-> **[0:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=38)** Outlook is full-featured desktop software that needs to be installed on your local Windows machine.
+> **[0:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=38)** Outlook is full-featured desktop software that needs to be installed on your local [[Windows]] machine.
 >
 > **[0:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/what-outlook-on-the-web-is-and-isn-t?u=76281980&t=43)** The desktop version of Outlook looks like something we spent money on because we did.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (22), web (8), [[Windows]] (6), [[Microsoft Office|Office]] (3), product (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (22), [[Windows]] (6), [[Microsoft Office|Office]] (3), [[Microsoft]] (2)
 > **URLs:** [outlook.com](https://outlook.com) (3), [hotmail.com](https://hotmail.com) (1), [live.com](https://live.com) (1), [msn.com](https://msn.com) (1)
 > **Definitions:** is a  (4)
 > **Analogies:** just like (2), similar to (1)
@@ -199,18 +197,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sign in to Outlook on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
+#### [Sign in to Outlook on the web](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=0)** - [Instructor] There are two easy ways to sign in to Outlook on the web.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=0)** - [Instructor] There are two easy ways to sign in to [[Microsoft Outlook|Outlook]] on the web.
 >
-> **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=4)** If you're running another application, like Microsoft Teams or SharePoint, that includes the app launcher, also called the waffle, in the upper left-hand corner, you can click the waffle and choose Outlook.
+> **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=4)** If you're running another application, like [[Microsoft Teams]] or [[SharePoint]], that includes the app launcher, also called the waffle, in the upper left-hand corner, you can click the waffle and choose Outlook.
 >
 > **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=16)** And when you do, it will automatically load Outlook on the web.
 >
-> **[0:22](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=22)** If you're not already logged in to Outlook on the web, then what you can do is open a browser and type outlook.[office.com](https://office.com) and press Enter.
+> **[0:22](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=22)** If you're not already logged in to Outlook on the web, then what you can do is open a browser and type outlook.[[[Microsoft Office|office]].com](https://office.com) and press Enter.
 >
 > **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=37)** If you don't already have an account and you're logging in for the first time, go to outlook.[office.com](https://office.com), and you'll be prompted to log in.
 >
@@ -220,15 +217,15 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=62)** So these are really your two options: use the app launcher or go to outlook.[office.com](https://office.com) and log in.
 >
-> **[1:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=73)** At this point, you may say, "I'd like to learn this, but I don't have a work or school account already connected to Microsoft Exchange Server."
+> **[1:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=73)** At this point, you may say, "I'd like to learn this, but I don't have a work or school account already connected to [[Microsoft]] Exchange Server."
 >
-> **[1:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=81)** If that's the case, then you can still follow along with me by getting a free trial of Microsoft Office.
+> **[1:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=81)** If that's the case, then you can still follow along with me by getting a free trial of [[Microsoft Office]].
 >
 > **[1:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=91)** So go to a browser, type Microsoft Office Free Trial,
 >
-> **[1:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=101)** and scroll down to the first entry from Microsoft, "Free Trial: Try Microsoft 365 for a Month."
+> **[1:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=101)** and scroll down to the first entry from Microsoft, "Free Trial: Try [[Microsoft 365]] for a Month."
 >
-> **[1:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=111)** Click here, and you can start a free one-month trial, which will include access to not just Outlook, but Word, Excel, and all of the other applications.
+> **[1:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=111)** Click here, and you can start a free one-month trial, which will include access to not just Outlook, but [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], and all of the other applications.
 >
 > **[2:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/sign-in-to-outlook-on-the-web?u=76281980&t=124)** If you need to get a free trial, this is a good time to do that.
 >
@@ -238,7 +235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), web (3), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Microsoft Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Microsoft Office]] (2), [[Microsoft Teams]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **URLs:** [office.com](https://office.com) (3)
 > **Definitions:** is a  (2)
@@ -246,14 +243,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigate in Outlook on the web
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980)
+#### [Navigate in Outlook on the web](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=0)** - [Instructor] Let's take a quick tour of Outlook on the web.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=0)** - [Instructor] Let's take a quick tour of [[Microsoft Outlook|Outlook]] on the web.
 >
-> **[0:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=3)** In the upper left hand corner, we have the Microsoft 365 app launcher or the waffle.
+> **[0:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=3)** In the upper left hand corner, we have the [[Microsoft 365]] app launcher or the waffle.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=8)** And if we drop directly below that, we have the Outlook navigation bar with the core Outlook applications listed at the top, Email, Calendar, and People.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=63)** The only two apps you can't unpin, Mail or the Calendar apps.
 >
-> **[1:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=70)** Below To Do, which operates like a task list, we have a link to OneDrive and then other apps, which allows you to go directly to apps like Excel, Word, and PowerPoint, or to add other apps to your Outlook nav bar here on the left hand side.
+> **[1:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=70)** Below To Do, which operates like a task list, we have a link to [[Microsoft OneDrive|OneDrive]] and then other apps, which allows you to go directly to apps like [[Microsoft Excel|Excel]], [[Microsoft Word|Word]], and [[Microsoft PowerPoint|PowerPoint]], or to add other apps to your Outlook nav bar here on the left hand side.
 >
 > **[1:25](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=85)** To the right of the Outlook navigation bar is the navigation pane for whatever app is being displayed.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=182)** To the right of search, there's a button that will connect you to Teams so that you can chat directly from Outlook in Teams.
 >
-> **[3:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=191)** To the right of our chat button is a connection to our OneNote feed, so you can search in OneNote and also post new items in OneNote.
+> **[3:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=191)** To the right of our chat button is a connection to our [[OneNote]] feed, so you can search in OneNote and also post new items in OneNote.
 >
 > **[3:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-outlook-on-the-web?u=76281980&t=199)** The third icon is for My Day, a combination of calendar and tasks.
 >
@@ -317,18 +313,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), [[Search]] (4), [[OneNote]] (3), web (2), [[Microsoft 365]] (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (13), [[OneNote]] (3), [[Microsoft 365]] (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (5)
 > **UI Navigation:** switch to (1), go to (1), click on (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the Outlook components
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-the-outlook-components?u=76281980)
+#### [Work with the Outlook components](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-the-outlook-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-the-outlook-components?u=76281980&t=0)** - [Instructor] To switch from one Outlook application to the next, simply click the icon for the application.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-the-outlook-components?u=76281980&t=0)** - [Instructor] To switch from one [[Microsoft Outlook|Outlook]] application to the next, simply click the icon for the application.
 >
 > **[0:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-the-outlook-components?u=76281980&t=6)** If you want it open in a separate tab, right click and choose Open in new tab.
 >
@@ -384,18 +379,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (13), [[Microsoft Outlook|Outlook]] (5), application (4), next (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change your theme and set dark mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/change-your-theme-and-set-dark-mode?u=76281980)
+#### [Change your theme and set dark mode](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/change-your-theme-and-set-dark-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/change-your-theme-and-set-dark-mode?u=76281980&t=0)** - [Instructor] This is the default appearance of Outlook on the web, but I want to show you a couple of settings that you might choose to tweak so that Outlook on the web is visually easier for you or more interesting for you.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/change-your-theme-and-set-dark-mode?u=76281980&t=0)** - [Instructor] This is the default appearance of [[Microsoft Outlook|Outlook]] on the web, but I want to show you a couple of settings that you might choose to tweak so that Outlook on the web is visually easier for you or more interesting for you.
 >
 > **[0:12](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/change-your-theme-and-set-dark-mode?u=76281980&t=12)** Click the Settings button and I'm going to choose General > Appearance.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), web (3), [[Search]] (3)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -442,12 +436,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create a new message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
+#### [Create a new message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=0)** - [Instructor] To create a new email message, make sure you are in the mail app in Outlook on the Web and click the New Mail button and a new message form will open up in the preview pane on the right.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=0)** - [Instructor] To create a new email message, make sure you are in the mail app in [[Microsoft Outlook|Outlook]] on the Web and click the New Mail button and a new message form will open up in the preview pane on the right.
 >
 > **[0:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=13)** There are three ways that I can add someone's email address and up to three places that I can put email addresses: To, Cc, and Bcc.
 >
@@ -479,7 +472,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=117)** So Charles and Griffin and Reggie will all get this email, but none of them will know that the other received it.
 >
-> **[2:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=128)** So it's really for privacy reasons because they don't see the other people's emails.
+> **[2:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=128)** So it's really for [[Privacy]] reasons because they don't see the other people's emails.
 >
 > **[2:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=133)** Another use of this is I'm sending something to Charles, but I want to make sure that Reggie, who is my administrative professional, follows up on this, but Charles doesn't need to know I'm going to have Reggie do this, so I'm going to drop Reggie in as a Bcc because Reggie will read it and being the smart person that they are will say, "Oh, okay, this is something Gini needs me to follow up on."
 >
@@ -503,7 +496,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=239)** The third way that I can add someone to this list is to type their email address in full.
 >
-> **[4:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=247)** And that's what I need to do for someone who's not in my contact list, not in any address book that is connected to Microsoft Outlook.
+> **[4:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=247)** And that's what I need to do for someone who's not in my contact list, not in any address book that is connected to [[Microsoft Outlook]].
 >
 > **[4:15](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=255)** So if I wanted to send something to someone specific who wasn't in my address book, then I would begin typing their entire email address and I would have to continue typing until I had it fully typed.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=282)** You don't want something that simply says, "Help" or "For your information," make it a subject about the content of the email.
 >
-> **[4:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=290)** So this is about the Microsoft 365 new features.
+> **[4:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=290)** So this is about the [[Microsoft 365]] new features.
 >
 > **[4:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=296)** Once I get below the subject, I can either click or I can tab down to the body of my email.
 >
@@ -529,7 +522,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=347)** And, "I'd like to meet with you."
 >
-> **[5:52](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=352)** I'm not typing the word discuss.
+> **[5:52](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=352)** I'm not typing the [[Microsoft Word|word]] discuss.
 >
 > **[5:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-new-message?u=76281980&t=354)** It's already there for me in Tab.
 >
@@ -545,14 +538,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Privacy]] (2), [[Microsoft 365]] (2), hit (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Privacy]] (2), [[Microsoft 365]] (2), [[Microsoft Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Open, edit, and send a message draft
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980)
+#### [Open, edit, and send a message draft](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -592,13 +584,13 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=86)** And the two options here are tomorrow morning at 8:00 AM or Sunday at 8:00 AM, and I can edit any of these.
 >
-> **[1:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=93)** I can customize them, because I actually know that in Charles' perfect world, he's not even in the office Thursdays until 9:00 AM.
+> **[1:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=93)** I can customize them, because I actually know that in Charles' perfect world, he's not even in the [[Microsoft Office|office]] Thursdays until 9:00 AM.
 >
 > **[1:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=101)** So I'm going to put 9:00 AM tomorrow and click the Send button.
 >
 > **[1:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=107)** So where does that message live until the time it's sent?
 >
-> **[1:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=111)** Well, Outlook on the web doesn't have an outbox.
+> **[1:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=111)** Well, [[Microsoft Outlook|Outlook]] on the web doesn't have an outbox.
 >
 > **[1:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/open-edit-and-send-a-message-draft?u=76281980&t=114)** It uses the Drafts folder for that purpose.
 >
@@ -624,21 +616,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), next (1), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Ports:** :00 (4), :08 (1)
 > **UI Navigation:** click on (1), dropdown (1), go to (1)
 > **Cross-References:** in the last (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [teacher] (1)
 
-#### Attach files to a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980)
+#### [Attach files to a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=0)** - [Instructor] There's some really nice functionality around how we send documents to other people for them to view or for them to edit.
 >
-> **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=8)** So I'd like to show you how we send links and how we send attachments in Outlook on the web.
+> **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=8)** So I'd like to show you how we send links and how we send attachments in [[Microsoft Outlook|Outlook]] on the web.
 >
 > **[0:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=13)** Let's create a new email, and you might notice in the body, it says type / to insert files and more.
 >
@@ -672,7 +663,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=143)** These are documents that I recently created or modified, but this list of suggested files does not normally include downloads.
 >
-> **[2:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=151)** But if I just drop a document in here, this is fully editable, a live link to the actual document that's stored on OneDrive or stored in SharePoint or someplace in the cloud.
+> **[2:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=151)** But if I just drop a document in here, this is fully editable, a live link to the actual document that's stored on [[Microsoft OneDrive|OneDrive]] or stored in [[SharePoint]] or someplace in the cloud.
 >
 > **[2:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/attach-files-to-a-message?u=76281980&t=165)** And if I have a document on my computer that I want to put into OneDrive and also then share it in this way, I can choose Upload and share, go navigate my way to that document, wherever it is, and it will be uploaded.
 >
@@ -698,7 +689,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), hit (2), cloud (2), [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft Outlook|Outlook]] (1), [[SharePoint]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** pdf (3)
 > **UI Navigation:** go to (2), click on (1)
@@ -707,8 +698,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 
-#### Create and use an email signature
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980)
+#### [Create and use an email signature](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +706,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=12)** Click the Settings gear, and we want to go to Email Signature.
 >
-> **[0:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=19)** And as always, I'll just start by typing S-I-G for signature, and there it is, and it is on the Compose and Reply page, which is the second page listed here.
+> **[0:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=19)** And as always, I'll just start by typing S-I-G for signature, and there it is, and it is on the [[Jetpack Compose|Compose]] and Reply page, which is the second page listed here.
 >
 > **[0:29](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=29)** This is where you create and edit email signatures.
 >
@@ -772,13 +762,13 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=181)** There's my display text, and I'm going to either enter or copy and paste from a browser the URL from my organization.
 >
-> **[3:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=194)** It's the same way you would create a URL in Microsoft Word, for example.
+> **[3:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=194)** It's the same way you would create a URL in [[Microsoft Word]], for example.
 >
 > **[3:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=198)** Click OK.
 >
 > **[3:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=200)** So now I have a hyperlink.
 >
-> **[3:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=201)** I then entered the word "Mobile" and my mobile phone.
+> **[3:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=201)** I then entered the [[Microsoft Word|word]] "Mobile" and my mobile phone.
 >
 > **[3:24](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=204)** And to put in an image, I simply click the image button on this fabulous toolbar we have, which will give you all of these different formatting options.
 >
@@ -822,7 +812,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=316)** So my new messages get the New Message Signature, replies and forwards get the Reply Signature.
 >
-> **[5:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=323)** These other choices are about how Microsoft Outlook works for you, and we'll talk about a few of them later.
+> **[5:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=323)** These other choices are about how [[Microsoft Outlook]] works for you, and we'll talk about a few of them later.
 >
 > **[5:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-an-email-signature?u=76281980&t=331)** But with my signatures in place, I can simply close this.
 >
@@ -841,14 +831,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Check spelling and grammar
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980)
+#### [Check spelling and grammar](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=0)** - [Instructor] There is basic grammar and spell check built into Outlook on the web.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=0)** - [Instructor] There is basic grammar and spell check built into [[Microsoft Outlook|Outlook]] on the web.
 >
-> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=5)** This is somewhat reliant on what capabilities are available in your browser, but if you begin typing text and you type a word incorrectly and it has an underline underneath it, then you know that you have your spell check kicking in.
+> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=5)** This is somewhat reliant on what capabilities are available in your browser, but if you begin typing text and you type a [[Microsoft Word|word]] incorrectly and it has an underline underneath it, then you know that you have your spell check kicking in.
 >
 > **[0:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=23)** If you hover over text with a squiggly red underline and you click, not right click, but click, you'll have access to be able to fix that, but you also can click here to open the Editor.
 >
@@ -888,18 +877,17 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=147)** Lots of options here for how you fine tune the Editor for the type of writing you normally do.
 >
-> **[2:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=154)** And this might be a good time for you to spend a few moments expanding each of these choices and deciding whether you would like to have them checked or not by Microsoft Editor.
+> **[2:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/check-spelling-and-grammar?u=76281980&t=154)** And this might be a good time for you to spend a few moments expanding each of these choices and deciding whether you would like to have them checked or not by [[Microsoft]] Editor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1), web (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (4), click on (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include images with a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/include-images-with-a-message?u=76281980)
+#### [Include images with a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/include-images-with-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,14 +952,13 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a loop component to a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980)
+#### [Add a loop component to a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=0)** - [Trainer] Loop components which appear on our ribbon are portable content collaboration spaces, like a smaller version of a shared document.
 >
-> **[0:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=10)** Loop components are automatically stored in your OneDrive, and you can embed a loop component in an email.
+> **[0:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=10)** Loop components are automatically stored in your [[Microsoft OneDrive|OneDrive]], and you can embed a loop component in an email.
 >
 > **[0:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=17)** You can also embed a loop component in a calendar event, like a meeting or an appointment.
 >
@@ -1027,7 +1014,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=201)** So if they wanted, for example, to say, "Oh, that's a great idea," then they could have a celebration that happens there, yay!
 >
-> **[3:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=210)** So the loop component we see here is the exact same loop component that we're using in Microsoft Teams, and it gives us a compact collaboration space.
+> **[3:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=210)** So the loop component we see here is the exact same loop component that we're using in [[Microsoft Teams]], and it gives us a compact collaboration space.
 >
 > **[3:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=220)** Now, if you had an existing loop component and you wanted to copy and paste it elsewhere, there's our copy button right here, and you copy it to the clipboard.
 >
@@ -1043,7 +1030,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=273)** So we get avatars up here at the top, much like this avatar that marks my account manager for our users and their initials.
 >
-> **[4:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=282)** If you've done co-authoring in Word documents, for example, you've seen this functionality before.
+> **[4:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=282)** If you've done co-authoring in [[Microsoft Word|Word]] documents, for example, you've seen this functionality before.
 >
 > **[4:49](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-loop-component-to-a-message?u=76281980&t=289)** And if you want to see who has access when they're not editing, you can click See who has access and you'll see here's Reggie, here's Charles, and here's me, the three people who have access to this loop component.
 >
@@ -1055,18 +1042,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), teams (1), feature (1), [[Microsoft Teams]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft Teams]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (2), open the (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Speakers:** - [trainer] (1)
 
-#### Add a poll to a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980)
+#### [Add a poll to a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=0)** - [Instructor] Older versions of Outlook had the ability to vote on one question using a feature called Voting Buttons that needed to be set up manually.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=0)** - [Instructor] Older versions of [[Microsoft Outlook|Outlook]] had the ability to vote on one question using a feature called Voting Buttons that needed to be set up manually.
 >
 > **[0:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=9)** It worked, but it was a little clunky.
 >
@@ -1076,13 +1062,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=19)** So what you do in your email message is you click on Insert on your menu and choose Polls.
 >
-> **[0:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=30)** And really quickly, you're going to get a version of a Microsoft Form embedded in your email message.
+> **[0:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=30)** And really quickly, you're going to get a version of a [[Microsoft]] Form embedded in your email message.
 >
-> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=37)** Now, if this doesn't work for you, if you try to do this and it says it can't, then talk to your Microsoft 365 administrator or your Microsoft Exchange administrator, your IT help desk, because there is a switch that has to be turned on in Microsoft 365 for this to work.
+> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=37)** Now, if this doesn't work for you, if you try to do this and it says it can't, then talk to your [[Microsoft 365]] administrator or your Microsoft Exchange administrator, your [[IT Help Desk]], because there is a switch that has to be turned on in Microsoft 365 for this to work.
 >
 > **[0:58](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=58)** But I got a poll, it's great, and it's ready for me to work with it.
 >
-> **[1:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=63)** So the first thing I do is choose a question type: a multiple choice question, a word cloud, a rating, a ranking.
+> **[1:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=63)** So the first thing I do is choose a question type: a multiple choice question, a [[Microsoft Word|word]] cloud, a rating, a ranking.
 >
 > **[1:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=69)** I'm going to do a really simple question here, which is, "Where should we meet for lunch today?"
 >
@@ -1166,11 +1152,11 @@ created: 2026-05-02
 >
 > **[4:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=287)** So if you create a poll and send it to people inside your organization and people outside, the chances are good that people outside your organization won't be able to answer the poll.
 >
-> **[4:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=297)** For a poll like that, you should take a look at the full version of Microsoft Forms.
+> **[4:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-poll-to-a-message?u=76281980&t=297)** For a poll like that, you should take a look at the full version of Microsoft [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (2), [[Microsoft Word|Word]] (2), cloud (2), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft 365]] (2), [[Microsoft Word|Word]] (2), [[Microsoft Outlook|Outlook]] (1), [[IT Help Desk]] (1)
 > **CLI Commands:** make (4)
 > **Ports:** :00 (2)
 > **Definitions:** is a  (2)
@@ -1179,8 +1165,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add a scheduling poll to a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980)
+#### [Add a scheduling poll to a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,7 +1221,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980&t=198)** So this is a slick feature.
 >
-> **[3:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980&t=200)** We used to have to use an external application to do this kind of polling, but you can quickly and easily allow your users to tell you when they are available for a particular event or a particular meeting using the built-in scheduling poll in Outlook on the Web.
+> **[3:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980&t=200)** We used to have to use an external application to do this kind of polling, but you can quickly and easily allow your users to tell you when they are available for a particular event or a particular meeting using the built-in scheduling poll in [[Microsoft Outlook|Outlook]] on the Web.
 >
 > **[3:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-a-scheduling-poll-to-a-message?u=76281980&t=221)** Scheduling polls can be used for recipients outside of your organization.
 >
@@ -1250,7 +1235,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), teams (1), feature (1), application (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Ports:** :00 (2)
 > **UI Navigation:** go to (1)
@@ -1258,8 +1243,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embed a video in a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/embed-a-video-in-a-message?u=76281980)
+#### [Embed a video in a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/embed-a-video-in-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1309,7 +1293,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1)
 > **Env Vars:** url (5), psa (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
@@ -1321,8 +1304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### View, reply to, and forward messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
+#### [View, reply to, and forward messages](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1312,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=8)** I'm actually going to send this email to myself so that you can see that happen if you haven't seen it before, right here.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=16)** And I can click that link to immediately view that message here in Outlook on the web.
+> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=16)** And I can click that link to immediately view that message here in [[Microsoft Outlook|Outlook]] on the web.
 >
 > **[0:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=26)** If I don't want to open the message right away, I can wait a couple seconds and the alert will disappear or there was an X in the alert and I could have closed it.
 >
@@ -1356,7 +1338,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=100)** And the same thing is true with Bcc.
 >
-> **[1:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=102)** If you want someone to reply, then when you compose the message, with a new message, you put them here on To, not here and not on Bcc.
+> **[1:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=102)** If you want someone to reply, then when you [[Jetpack Compose|compose]] the message, with a new message, you put them here on To, not here and not on Bcc.
 >
 > **[1:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/view-reply-to-and-forward-messages?u=76281980&t=116)** So how do you as the recipient then, reply to the message once you've decided how you should be doing this?
 >
@@ -1416,13 +1398,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Jetpack Compose|Compose]] (1)
 > **UI Navigation:** open the (1), go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Other options for incoming messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980)
+#### [Other options for incoming messages](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1466,7 +1447,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980&t=95)** I'll show you in the next chapter where flagged email messages end up in a way that allows you to work with them.
 >
-> **[1:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980&t=103)** If this message really was junk, then you can report this message as junk or report it as phishing.
+> **[1:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980&t=103)** If this message really was junk, then you can report this message as junk or report it as [[Phishing]].
 >
 > **[1:52](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/other-options-for-incoming-messages?u=76281980&t=112)** If this message is coming to you from someone who shouldn't be sending you messages, perhaps someone is sending you a lot of junk and you want to make sure you don't get that any longer, you can block, and in this case, you're not blocking the message, you're blocking the sender.
 >
@@ -1508,7 +1489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (2), just like (1)
 > **Ports:** :00 (1)
@@ -1516,8 +1497,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Work with message attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980)
+#### [Work with message attachments](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1507,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=7)** Let's see how we can work with those messages when we receive them.
 >
-> **[0:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=11)** Here's another message from Charles who has sent me an email that the press office for our organization has sent him some images to look at and he'd like me to look at them and give me his thoughts.
+> **[0:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=11)** Here's another message from Charles who has sent me an email that the press [[Microsoft Office|office]] for our organization has sent him some images to look at and he'd like me to look at them and give me his thoughts.
 >
 > **[0:25](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=25)** So, one of these images is embedded in the message.
 >
@@ -1563,11 +1543,11 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=92)** But it was really easy for me to simply open that document by using the link.
 >
-> **[1:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=98)** And it's a Microsoft Word document.
+> **[1:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=98)** And it's a [[Microsoft Word]] document.
 >
 > **[1:39](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=99)** When I viewed the image, I was seeing it in a browser window.
 >
-> **[1:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=102)** Here, what is loaded for me to be able to view this message or to edit this message is Word for the web.
+> **[1:42](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=102)** Here, what is loaded for me to be able to view this message or to edit this message is [[Microsoft Word|Word]] for the web.
 >
 > **[1:49](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/work-with-message-attachments?u=76281980&t=109)** And I can tell that because I have a ribbon and it has a Word logo on it.
 >
@@ -1583,30 +1563,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word]] (1)
 > **Definitions:** is an  (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Focused Inbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980)
+#### [Use the Focused Inbox](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=0)** - [Instructor] We've been doing a deeper dive into what we can do with individual messages, but I want to back out a bit so that we can look at the inbox as a whole.
 >
-> **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=8)** The messages that I currently see in the Information Viewer are not the only messages that I've received recently, and that's because Microsoft Outlook on the web uses a Focused inbox.
+> **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=8)** The messages that I currently see in the Information Viewer are not the only messages that I've received recently, and that's because [[Microsoft Outlook]] on the web uses a Focused inbox.
 >
 > **[0:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=18)** It separates your incoming messages onto two different tabs, Focused and Other, or another way to think about it, Important and Other.
 >
 > **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=27)** On the Focused tab, you'll see items that were sent specifically to you, items that were sent by individuals rather than organizations, messages that have been forwarded to you.
 >
-> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=37)** Wherever the message comes from, the algorithm built into Outlook believes that you might want to see them first.
+> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=37)** Wherever the message comes from, the algorithm built into [[Microsoft Outlook|Outlook]] believes that you might want to see them first.
 >
 > **[0:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=43)** And so, they are placed on the Focused tab.
 >
-> **[0:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=45)** Everything else, messages that come from organizations, messages that appear to be newsletters, messages sent to hundreds of people, those end up on the Other tab.
+> **[0:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=45)** Everything else, messages that come from organizations, messages that appear to be [[Newsletters]], messages sent to hundreds of people, those end up on the Other tab.
 >
 > **[0:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-focused-inbox?u=76281980&t=54)** For this two-tab system to work well for you, you need to adjust it.
 >
@@ -1662,18 +1641,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), [[Microsoft Outlook|Outlook]] (5), [[Microsoft Outlook]] (1), [[Newsletters]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Outlook]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** click on (2), go to (1), switch to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/print-a-message?u=76281980)
+#### [Print a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/print-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/print-a-message?u=76281980&t=0)** - [Instructor] Outlook on the web utilizes the printing capabilities that are built into your browser.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/print-a-message?u=76281980&t=0)** - [Instructor] [[Microsoft Outlook|Outlook]] on the web utilizes the printing capabilities that are built into your browser.
 >
 > **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/print-a-message?u=76281980&t=5)** So if I want to print just a message, I have two places that I can easily do that.
 >
@@ -1693,21 +1671,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pin, flag, or snooze a message
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980)
+#### [Pin, flag, or snooze a message](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=0)** - [Narrator] Your Outlook inbox has features specifically designed to help you follow up with your incoming emails.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=0)** - [Narrator] Your [[Microsoft Outlook|Outlook]] inbox has features specifically designed to help you follow up with your incoming emails.
 >
 > **[0:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=7)** The first is, if I have a message that at least for a while I want to keep at the top of my inbox, I can pin that message and that message will appear at the top regardless of what comes in.
 >
-> **[0:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=18)** So, for example, I might want to keep this message from Charles about pre-planning for the Microsoft Conference, and I have two different ways I can pin this.
+> **[0:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=18)** So, for example, I might want to keep this message from Charles about pre-planning for the [[Microsoft]] Conference, and I have two different ways I can pin this.
 >
 > **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/pin-flag-or-snooze-a-message?u=76281980&t=27)** I can right click on it and I can choose Pin, and that will put it at the top.
 >
@@ -1785,7 +1762,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft]] (1)
 > **Analogies:** just like (3), for example (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** make (1), find (1)
@@ -1793,8 +1770,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Create and manage subfolders
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980)
+#### [Create and manage subfolders](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1812,7 +1788,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=51)** And to do that, we create sub-folders in our inbox.
 >
-> **[0:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=56)** Now, in the last movie, I snoozed an item, and Outlook on the web created a folder called Snooze, 'cause it didn't exist already, and that folder just hangs out here as another folder that's available in my list.
+> **[0:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=56)** Now, in the last movie, I snoozed an item, and [[Microsoft Outlook|Outlook]] on the web created a folder called Snooze, 'cause it didn't exist already, and that folder just hangs out here as another folder that's available in my list.
 >
 > **[1:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=69)** If I create folders, I can't make them parallel to Inbox, I have to put them in the Inbox, that's why they're called sub folders.
 >
@@ -1840,7 +1816,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=135)** Now I'd like to create a specific folder for a specific project underneath Projects.
 >
-> **[2:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=141)** So I'll start by selecting Projects, right click, Create new sub folder, and I'm going to call this M365 Relaunch.
+> **[2:21](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=141)** So I'll start by selecting Projects, right click, Create new sub folder, and I'm going to call this [[Microsoft 365|M365]] Relaunch.
 >
 > **[2:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=152)** That's our project name. So you notice how this works.
 >
@@ -1866,7 +1842,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=217)** Those are on my other tab, my receipts and invoices, and if I simply go to one of my invoices, like this one, I can right click, and I can find related messages from this sender.
 >
-> **[3:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=231)** And when I do that, all of my receipt and invoices that come to me from Microsoft are all selected.
+> **[3:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=231)** And when I do that, all of my receipt and invoices that come to me from [[Microsoft]] are all selected.
 >
 > **[3:59](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=239)** So I'm going to select one item, and I get to preview it.
 >
@@ -1908,7 +1884,7 @@ created: 2026-05-02
 >
 > **[6:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=371)** My advice to you is to create folders as you need them, but with an extra question.
 >
-> **[6:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=377)** I could have easily created a Microsoft 365 Relaunch folder for just that project, but when you create a particular sub folder, you might want to ask, "Is this part of a larger category, a larger type of sub folder that I'm going to have?"
+> **[6:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=377)** I could have easily created a [[Microsoft 365]] Relaunch folder for just that project, but when you create a particular sub folder, you might want to ask, "Is this part of a larger category, a larger type of sub folder that I'm going to have?"
 >
 > **[6:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-manage-subfolders?u=76281980&t=391)** Oh, yes, it's a project.
 >
@@ -1928,7 +1904,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (14), [[Microsoft]] (4), [[Microsoft 365|M365]] (3), [[Microsoft Outlook|Outlook]] (2), web (2)
+> **Frameworks & Libraries:** [[Microsoft]] (4), [[Microsoft 365|M365]] (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft 365]] (1)
 > **UI Navigation:** click on (2), go to (2), drag and drop (2), select the (1), checkbox (1)
 > **CLI Commands:** make (5), find (3)
 > **Env Vars:** m365 (3)
@@ -1937,8 +1913,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Prerequisites:** required to (1)
 
-#### Add subfolders or people to Favorites
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-subfolders-or-people-to-favorites?u=76281980)
+#### [Add subfolders or people to Favorites](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-subfolders-or-people-to-favorites?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1995,8 +1970,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete or move multiple messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/delete-or-move-multiple-messages?u=76281980)
+#### [Delete or move multiple messages](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/delete-or-move-multiple-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2036,13 +2010,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (3), select the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Archive or sweep messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980)
+#### [Archive or sweep messages](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2060,7 +2032,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=32)** So, select and click Sweep, and you'll be asked what Sweep means to you.
 >
-> **[0:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=38)** All of these messages come to me from Microsoft Power Platform.
+> **[0:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=38)** All of these messages come to me from [[Microsoft]] Power Platform.
 >
 > **[0:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=41)** And I'm going to choose to move all of the messages in my Inbox folder and any future messages, that's the second option, and I'm going to move them to a new folder.
 >
@@ -2068,7 +2040,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=66)** So, what I'm saying is anytime a message comes in from Microsoft Power Platform, I want you to automatically move it to this folder.
 >
-> **[1:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=74)** But wait, there's two other options that make this even more useful because what I'm getting from Microsoft Power Platform typically is I'm getting an update, the monthly blog, and I like reading those, but I don't like keeping the rest of them hanging around.
+> **[1:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=74)** But wait, there's two other options that make this even more useful because what I'm getting from Microsoft Power Platform typically is I'm getting an update, the monthly blog, and I like reading those, but I don't like keeping the [[Representational State Transfer (REST)|rest]] of them hanging around.
 >
 > **[1:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=90)** So, check this out.
 >
@@ -2086,7 +2058,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=125)** And the fourth option, if it's been hanging around for 10 days or more, move it.
 >
-> **[2:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=130)** This is a way to keep your inbox lean because if I have a message that's been hanging around in my inbox for more than 10 days and I haven't read it yet, I'm probably saving it for a time that I have a little bit of slack in my work and I'm going to then go review an entire folder of messages.
+> **[2:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=130)** This is a way to keep your inbox lean because if I have a message that's been hanging around in my inbox for more than 10 days and I haven't read it yet, I'm probably saving it for a time that I have a little bit of [[Slack]] in my work and I'm going to then go review an entire folder of messages.
 >
 > **[2:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=146)** So I will say, always keep the latest message and move the rest from the inbox.
 >
@@ -2100,7 +2072,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=170)** Creating and managing rules from scratch other than with Sweep or Archive are beyond the scope of this course.
 >
-> **[2:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=176)** But take a look at Outlook Efficient Email Management in the LinkedIn Learning Library if you'd like to know more about how to work with rules.
+> **[2:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=176)** But take a look at [[Microsoft Outlook|Outlook]] Efficient Email Management in the [[LinkedIn]] Learning Library if you'd like to know more about how to work with rules.
 >
 > **[3:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/archive-or-sweep-messages?u=76281980&t=183)** So, this is one way to do this.
 >
@@ -2140,7 +2112,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (4), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), management (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[Microsoft]] (3), [[Microsoft Outlook|Outlook]] (3), [[Slack]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** set up (2), required to (1)
 > **UI Navigation:** click on (1), dropdown (1)
@@ -2149,12 +2121,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set automatic replies (out-of-office messages)
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980)
+#### [Set automatic replies (out-of-office messages)](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=0)** - [Instructor] A chapter about email isn't complete until we've talked about how automatic replies, also called out of office messages are created.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=0)** - [Instructor] A chapter about email isn't complete until we've talked about how automatic replies, also called out of [[Microsoft Office|office]] messages are created.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=8)** To access the out of office functionality, click the Settings button and you can go to Automatic replies or if you don't remember it's called that and you use the old term for out of office, it will still come up with Automatic replies at the top.
 >
@@ -2218,7 +2189,7 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=265)** And that then will make sure that your calendar shows that you are unavailable during that time.
 >
-> **[4:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=271)** So, this is Outlook offering to take another step for you, you don't have to block the calendar, it will.
+> **[4:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=271)** So, this is [[Microsoft Outlook|Outlook]] offering to take another step for you, you don't have to block the calendar, it will.
 >
 > **[4:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/set-automatic-replies-out-of-office-messages?u=76281980&t=277)** The next thing is if someone sends you an invitation to a meeting during this time, do you want to automatically turn it down?
 >
@@ -2268,7 +2239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), feature (4), [[Microsoft Outlook|Outlook]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Microsoft Outlook|Outlook]] (3)
 > **UI Navigation:** checkbox (2), go to (1), scroll up (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -2280,8 +2251,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Navigate in the Calendar app
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
+#### [Navigate in the Calendar app](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2317,7 +2287,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980&t=89)** Work Week shows you, by default, a Monday through Friday work week.
 >
-> **[1:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980&t=94)** But if you work, for example, four days a week or six days or seven days, even, you can modify that setting for what your work week schedule is in the Outlook settings.
+> **[1:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980&t=94)** But if you work, for example, four days a week or six days or seven days, even, you can modify that setting for what your work week schedule is in the [[Microsoft Outlook|Outlook]] settings.
 >
 > **[1:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/navigate-in-the-calendar-app?u=76281980&t=105)** Week is a seven-day week.
 >
@@ -2363,14 +2333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Outlook|Outlook]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create and edit an appointment or event
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980)
+#### [Create and edit an appointment or event](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2386,7 +2355,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=32)** And so I am going to travel.
 >
-> **[0:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=34)** I get a little icon that's called a calendar charm because I used the word travel.
+> **[0:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=34)** I get a little icon that's called a calendar charm because I used the [[Microsoft Word|word]] travel.
 >
 > **[0:39](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=39)** If I use fly, I'll get an airplane.
 >
@@ -2394,11 +2363,11 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=47)** And if you want to see them all, you can just click this button and choose the charm you want.
 >
-> **[0:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=51)** Most of the time I just let Outlook fill it in for me.
+> **[0:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=51)** Most of the time I just let [[Microsoft Outlook|Outlook]] fill it in for me.
 >
 > **[0:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=54)** It's fairly consistent and not a way I want to invest a lot of time.
 >
-> **[0:58](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=58)** But I'm going to travel to remote office just like that.
+> **[0:58](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=58)** But I'm going to travel to remote [[Microsoft Office|office]] just like that.
 >
 > **[1:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=68)** Note that my time's already there, 10 to 11:30.
 >
@@ -2468,7 +2437,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=238)** Working elsewhere means you are available, just like free means you're available.
 >
-> **[4:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=243)** So if you're working in a remote office, you can still have a meeting, for example, a Zoom call.
+> **[4:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=243)** So if you're working in a remote office, you can still have a meeting, for example, a [[Zoom]] call.
 >
 > **[4:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-edit-an-appointment-or-event?u=76281980&t=249)** Tentative is how you pencil something in.
 >
@@ -2516,7 +2485,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Microsoft Outlook|Outlook]] (2), [[Search]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (9), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Word|Word]] (1), [[Zoom]] (1)
 > **Analogies:** for example (3), just like (2)
 > **Ports:** :30 (3)
 > **Env Vars:** pdf (1)
@@ -2525,8 +2494,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Edit an appointment
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980)
+#### [Edit an appointment](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2534,11 +2502,11 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=11)** If I want to have access to some of those other options we saw a while ago, I can click the more options button.
 >
-> **[0:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=17)** And one of the options that I might want to change is how far in advance I'd like to be reminded that I have to leave the office at 10 o'clock.
+> **[0:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=17)** And one of the options that I might want to change is how far in advance I'd like to be reminded that I have to leave the [[Microsoft Office|office]] at 10 o'clock.
 >
 > **[0:24](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=24)** And that is this reminder.
 >
-> **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=27)** You can set your own default reminder time in settings, but the default reminder for Outlook on the Web, unless you change it, is 15 minutes before.
+> **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=27)** You can set your own default reminder time in settings, but the default reminder for [[Microsoft Outlook|Outlook]] on the Web, unless you change it, is 15 minutes before.
 >
 > **[0:36](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/edit-an-appointment?u=76281980&t=36)** So if I need more notice than that for something, I can choose a different type of notice and I can actually have Outlook on the Web email me to remind me.
 >
@@ -2558,20 +2526,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use My Day to create an appointment from an email
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980)
+#### [Use My Day to create an appointment from an email](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980&t=0)** - [Instructor] One of the types of appointments I frequently create is blocking out time that I need to do specific tasks that are going to take me an hour, two hours, half a day.
 >
-> **[0:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980&t=10)** And if you'd like to know more about how to think about time management in Microsoft Outlook, then I recommend Time Management Outlook Calendar and Tasks, which you'll find in the LinkedIn Learning library.
+> **[0:10](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980&t=10)** And if you'd like to know more about how to think about time management in [[Microsoft Outlook]], then I recommend Time Management [[Microsoft Outlook|Outlook]] Calendar and Tasks, which you'll find in the [[LinkedIn]] Learning library.
 >
 > **[0:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-my-day-to-create-an-appointment-from-an-email?u=76281980&t=23)** So I might need an hour to do some research, and if I don't put it on my calendar, then other things will compete with that.
 >
@@ -2651,19 +2618,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[LinkedIn]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook]] (1), [[Microsoft Outlook|Outlook]] (1), [[LinkedIn]] (1)
 > **Ports:** :00 (5)
 > **UI Navigation:** go to (2), click on (1), drag and drop (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a repeating appointment
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980)
+#### [Create a repeating appointment](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=0)** - [Instructor] There's another type of appointment you might want to create in Outlook, and that's an appointment for something that happens on a periodic basis.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=0)** - [Instructor] There's another type of appointment you might want to create in [[Microsoft Outlook|Outlook]], and that's an appointment for something that happens on a periodic basis.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=8)** For example, it's an appointment that you do the last day of every month or the 15th of every month, or once a quarter or once a year.
 >
@@ -2683,7 +2649,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=43)** And this is Timesheet.
 >
-> **[0:48](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=48)** And notice I had time, and if I then put sheet as a separate word, I get a nice little calendar, 9:00 to 9:30.
+> **[0:48](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=48)** And notice I had time, and if I then put sheet as a separate [[Microsoft Word|word]], I get a nice little calendar, 9:00 to 9:30.
 >
 > **[0:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=56)** And the option to repeat isn't available in the small version of the appointment form.
 >
@@ -2717,7 +2683,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=135)** If that's not a good time for you, choose another time that's the same.
 >
-> **[2:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=139)** But I know that something I'm going to do in that part of the year when there's not much to do except hold parties and everybody's out of the office, I'm going to redo my repeating appointments for the following year.
+> **[2:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=139)** But I know that something I'm going to do in that part of the year when there's not much to do except hold parties and everybody's out of the [[Microsoft Office|office]], I'm going to redo my repeating appointments for the following year.
 >
 > **[2:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-appointment?u=76281980&t=153)** When you're all done, click Save to save the repeating and then Save again.
 >
@@ -2749,7 +2715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (1), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Word|Word]] (1)
 > **Analogies:** for example (4), just like (1)
 > **CLI Commands:** make (1), snap (1)
 > **Ports:** :00 (1), :30 (1)
@@ -2757,8 +2723,7 @@ created: 2026-05-02
 > **Definitions:** is called (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use categories for visual organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980)
+#### [Use categories for visual organization](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2768,7 +2733,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=6)** The only difference being that some of them have a stripe here on the side that is for tentative, others are away, busy and so on.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=16)** In Outlook, in order to be able to visually sort things, you can apply categories, and the categories cross all of the Outlook applications.
+> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=16)** In [[Microsoft Outlook|Outlook]], in order to be able to visually sort things, you can apply categories, and the categories cross all of the Outlook applications.
 >
 > **[0:25](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=25)** We could have used categories in email, but I'm choosing to show you categories in the calendar because that's where they're the most useful to me.
 >
@@ -2794,7 +2759,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=86)** You can't assign the same name to more than one category.
 >
-> **[1:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=90)** So you'll see that I use yellow for both phone call and Zoom.
+> **[1:30](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=90)** So you'll see that I use yellow for both phone call and [[Zoom]].
 >
 > **[1:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=94)** I use green for Teams meeting, but I could use yellow for that as well.
 >
@@ -2820,7 +2785,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=148)** And I'm going to choose Travel.
 >
-> **[2:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=151)** Note now that my icons change colors, all the buttons on the form and the word "Travel" here and the categories assigned.
+> **[2:31](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=151)** Note now that my icons change colors, all the buttons on the form and the [[Microsoft Word|word]] "Travel" here and the categories assigned.
 >
 > **[2:38](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=158)** Click Save, and now in my calendar itself, I can tell because of the color that it's not the same as everything else.
 >
@@ -2836,11 +2801,11 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=204)** So if you're not a person who uses categories a lot, I'd encourage you to create two or three for specific things.
 >
-> **[3:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=212)** For example, if you're working on a project, every thing you do related to that project, create a category for it and it will help you see how you're spending your time in Microsoft Outlook's Calendar.
+> **[3:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-categories-for-visual-organization?u=76281980&t=212)** For example, if you're working on a project, every thing you do related to that project, create a category for it and it will help you see how you're spending your time in [[Microsoft Outlook]]'s Calendar.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), teams (2), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Zoom]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Outlook]] (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **UI Navigation:** click on (1)
@@ -2848,12 +2813,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Modify calendar settings
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980)
+#### [Modify calendar settings](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=0)** - [Instructor] I'd like to show you where some of the other calendar settings are in Outlook on the web.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=0)** - [Instructor] I'd like to show you where some of the other calendar settings are in [[Microsoft Outlook|Outlook]] on the web.
 >
 > **[0:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=7)** I'm in the calendar.
 >
@@ -2959,7 +2923,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=260)** This is where you set what days of the week you work and what hours you are available for work.
 >
-> **[4:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=267)** You can also choose whether you're in the office or you're working remotely.
+> **[4:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=267)** You can also choose whether you're in the [[Microsoft Office|office]] or you're working remotely.
 >
 > **[4:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/modify-calendar-settings?u=76281980&t=272)** You can also split a day into pieces.
 >
@@ -2989,15 +2953,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), web (4), [[Microsoft Office|Office]] (2), next (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (5), [[Microsoft Office|Office]] (2)
 > **Ports:** :00 (4)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share your calendar with colleagues
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980)
+#### [Share your calendar with colleagues](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3007,7 +2970,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980&t=19)** So if I'm trying to find some time with them or schedule my time prior to another meeting they're having, I can find out when that is pretty easily.
 >
-> **[0:28](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980&t=28)** It is wicked easy in Outlook on the web to share your calendar with colleagues to provide more information to some people than even your organizational policy is around the baseline of what you should share.
+> **[0:28](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980&t=28)** It is wicked easy in [[Microsoft Outlook|Outlook]] on the web to share your calendar with colleagues to provide more information to some people than even your organizational policy is around the baseline of what you should share.
 >
 > **[0:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/share-your-calendar-with-colleagues?u=76281980&t=40)** So I would like to show you how to do that.
 >
@@ -3071,7 +3034,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Prerequisites:** set up (2)
 > **Cross-References:** in the next (1)
@@ -3079,16 +3042,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add or remove a calendar
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980)
+#### [Add or remove a calendar](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=0)** - [Narrator] When you begin with Outlook on the web, you start with one calendar.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=0)** - [Narrator] When you begin with [[Microsoft Outlook|Outlook]] on the web, you start with one calendar.
 >
 > **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=4)** It is called Calendar.
 >
-> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=5)** And if you also use Microsoft Teams, this is the calendar that you see in Microsoft Teams, no other calendar.
+> **[0:05](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=5)** And if you also use [[Microsoft Teams]], this is the calendar that you see in Microsoft Teams, no other calendar.
 >
 > **[0:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=13)** And you might have noticed that I also have a Projects calendar, a Birthdays calendar.
 >
@@ -3144,7 +3106,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=156)** I'm going to go to Basketball, WNBA basketball, and I'm going to add the schedule for the Chicago Sky to my calendar, just like that.
 >
-> **[2:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=165)** That data comes from Microsoft Sports.
+> **[2:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=165)** That data comes from [[Microsoft]] Sports.
 >
 > **[2:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/add-or-remove-a-calendar?u=76281980&t=167)** Says, "Are you looking for other calendars?"
 >
@@ -3184,7 +3146,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), web (2), [[Microsoft Teams]] (2), data (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft Teams]] (2), [[Microsoft]] (1)
 > **URLs:** [outlook.com](https://outlook.com) (1), [live.com](https://live.com) (1)
 > **Env Vars:** url (1), wnba (1)
 > **UI Navigation:** switch to (1), go to (1)
@@ -3198,12 +3160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three ways to create a meeting including Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
+#### [Three ways to create a meeting including Teams](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=0)** - [Instructor] Each item that I put on my Outlook calendar is called an event, and there are really two kinds of events.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=0)** - [Instructor] Each item that I put on my [[Microsoft Outlook|Outlook]] calendar is called an event, and there are really two kinds of events.
 >
 > **[0:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=6)** One type is an appointment, and that's everything we've created so far.
 >
@@ -3221,7 +3182,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=33)** And I'm going to change the title to "Help Needed."
 >
-> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=37)** And it's set as a Microsoft Teams meeting.
+> **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=37)** And it's set as a [[Microsoft Teams]] meeting.
 >
 > **[0:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=40)** And the person I'm going to invite is Ray Nguyen.
 >
@@ -3265,7 +3226,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=123)** Here's an email for example that might say, "Can we meet?"
 >
-> **[2:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=126)** And I'm going to just open My Day and grab an email from Microsoft Viva, drag it and drop it as an event.
+> **[2:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=126)** And I'm going to just open My Day and grab an email from [[Microsoft]] Viva, drag it and drop it as an event.
 >
 > **[2:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/three-ways-to-create-a-meeting-including-teams?u=76281980&t=139)** And remember, when the form opens up, whoever that email was sent from is going to show up there.
 >
@@ -3293,7 +3254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), teams (2), [[Microsoft]] (2), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft]] (2), [[Microsoft Teams]] (1)
 > **Definitions:** is called (1), is an  (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Ports:** :00 (1)
@@ -3302,8 +3263,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Respond to a meeting invitation
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980)
+#### [Respond to a meeting invitation](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3339,9 +3299,9 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=74)** The stripe on the left, it's my free/busy information, shows me that this is actually there tentatively.
 >
-> **[1:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=79)** And let me tell you why Outlook does this, 'cause it's going to make a lot of sense to you.
+> **[1:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=79)** And let me tell you why [[Microsoft Outlook|Outlook]] does this, 'cause it's going to make a lot of sense to you.
 >
-> **[1:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=83)** Let's imagine that you're out of the office for the day and you have a lot of people trying to schedule meetings with you.
+> **[1:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=83)** Let's imagine that you're out of the [[Microsoft Office|office]] for the day and you have a lot of people trying to schedule meetings with you.
 >
 > **[1:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/respond-to-a-meeting-invitation?u=76281980&t=87)** As soon as one person asks you to do something between 10 and 11:30 this day, it's best for other people trying to meet with you not to try to dump meetings on exactly the same time.
 >
@@ -3415,7 +3375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (4), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
 > **Ports:** :30 (5), :00 (3)
 > **UI Navigation:** go to (2), scroll down (1), switch to (1)
 > **Env Vars:** rsvp (3)
@@ -3424,8 +3384,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [trainer] (1)
 
-#### Update or cancel a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980)
+#### [Update or cancel a meeting](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3443,7 +3402,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=23)** Now, in our case, I'm going to add some agenda items here at the top of the description box.
 >
-> **[0:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=32)** Perhaps paste that in from Microsoft Word or somewhere else.
+> **[0:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=32)** Perhaps paste that in from [[Microsoft Word]] or somewhere else.
 >
 > **[0:37](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=37)** And I also want to change the time and I want to add two optional attendees.
 >
@@ -3505,19 +3464,18 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=167)** You will at least get an email that says why it was gone.
 >
-> **[2:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=171)** This is how you change or cancel meetings in Outlook on the web.
+> **[2:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/update-or-cancel-a-meeting?u=76281980&t=171)** This is how you change or cancel meetings in [[Microsoft Outlook|Outlook]] on the web.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Outlook|Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Word]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Ports:** :30 (2), :00 (1)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a repeating meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980)
+#### [Create a repeating meeting](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3553,7 +3511,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980&t=106)** So it occurs every third Tuesday until December 31st, 2024.
 >
-> **[1:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980&t=110)** It's a Microsoft Teams meeting, and I'm going to send this out.
+> **[1:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980&t=110)** It's a [[Microsoft Teams]] meeting, and I'm going to send this out.
 >
 > **[1:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-repeating-meeting?u=76281980&t=117)** So if I now look at my monthly calendar, here's the third Tuesday in February, third Tuesday in March, third Tuesday in April, and so on.
 >
@@ -3583,8 +3541,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Setup a calendar in Bookings
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980)
+#### [Setup a calendar in Bookings](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3600,7 +3557,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=27)** Please book your time."
 >
-> **[0:29](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=29)** We can't do that directly in the Outlook Calendar, but we can do it with another app called Bookings.
+> **[0:29](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=29)** We can't do that directly in the [[Microsoft Outlook|Outlook]] Calendar, but we can do it with another app called Bookings.
 >
 > **[0:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=34)** And so I want you to know that this is available and a little bit about how this works.
 >
@@ -3662,7 +3619,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=136)** And then you choose the exact times you want to do this.
 >
-> **[2:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=140)** So the other folks that I've seen doing this a lot is university and college instructors who want to have office hours.
+> **[2:20](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=140)** So the other folks that I've seen doing this a lot is university and college instructors who want to have [[Microsoft Office|office]] hours.
 >
 > **[2:27](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/setup-a-calendar-in-bookings?u=76281980&t=147)** I'm going to say that I'm going to have open time on Tuesdays and Thursdays, and we're going to start at one o'clock in the afternoon.
 >
@@ -3736,7 +3693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), next (3), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** set up (4)
 > **Definitions:** is an  (1), means that (1)
@@ -3745,8 +3702,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Use Bookings to set up a meeting
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980)
+#### [Use Bookings to set up a meeting](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3782,13 +3738,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=66)** What I have is I have first an error because that account doesn't exist, but there's a new booking from Test, 30 minutes with me.
 >
-> **[1:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=74)** Microsoft Teams appointment.
+> **[1:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=74)** [[Microsoft Teams]] appointment.
 >
 > **[1:17](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=77)** When I, the person who set up Bookings look at my calendar, for Thursday, there's that meeting right there.
 >
 > **[1:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=86)** So Bookings is an easy to use app if what you need to do is set up a bunch of one-on-one meetings.
 >
-> **[1:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=92)** And if you'd like to know more about this, you will find a Microsoft Bookings essential training course that will tell you everything about Bookings in the LinkedIn Learning Library.
+> **[1:32](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-bookings-to-set-up-a-meeting?u=76281980&t=92)** And if you'd like to know more about this, you will find a [[Microsoft]] Bookings essential training course that will tell you everything about Bookings in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
@@ -3806,12 +3762,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use the People app
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
+#### [Use the People app](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980&t=0)** - [Instructor] We use the People app that you access right here to view and create our contacts and contacts lists, and to work with Microsoft 365 Groups, which we can also do from Outlook Mail.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980&t=0)** - [Instructor] We use the People app that you access right here to view and create our contacts and contacts lists, and to work with [[Microsoft 365]] Groups, which we can also do from [[Microsoft Outlook|Outlook]] Mail.
 >
 > **[0:18](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/use-the-people-app?u=76281980&t=18)** On the People page, we have a left pane and it starts with favorites at the top, which is a list that you curate, all your contacts, and then any contact lists you wish to create, which we will talk about.
 >
@@ -3844,8 +3799,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a contact
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980)
+#### [Create a contact](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3921,22 +3875,21 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=187)** Where did it get that from?
 >
-> **[3:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=189)** I think it got it from LinkedIn.
+> **[3:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=189)** I think it got it from [[LinkedIn]].
 >
 > **[3:11](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=191)** That's pretty cool too.
 >
-> **[3:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=193)** So don't be afraid to point to somebody's email address when you've received or have sent an email to them and add them to your contacts so they're easy for you to find here in Microsoft Outlook.
+> **[3:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-contact?u=76281980&t=193)** So don't be afraid to point to somebody's email address when you've received or have sent an email to them and add them to your contacts so they're easy for you to find here in [[Microsoft Outlook]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Search]] (1), [[LinkedIn]] (1), [[Microsoft Outlook]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Outlook]] (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (2), picture (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and use contact lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980)
+#### [Create and use contact lists](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3976,7 +3929,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980&t=100)** When I'm all done, I create my new list and there it is.
 >
-> **[1:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980&t=105)** Now an important thing to note is that in the moment that list was created, what Outlook did was it copied the current email for each of these people.
+> **[1:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980&t=105)** Now an important thing to note is that in the moment that list was created, what [[Microsoft Outlook|Outlook]] did was it copied the current email for each of these people.
 >
 > **[1:56](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-use-contact-lists?u=76281980&t=116)** So let's imagine that Sally Kerner's email changes.
 >
@@ -4008,15 +3961,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** dropdown (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a Microsoft 365 group
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980)
+#### [Create a Microsoft 365 group](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4026,15 +3978,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=15)** What you need is a group.
 >
-> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=16)** And groups are our next icon here on the Outlook navigation bar on the left.
+> **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=16)** And groups are our next icon here on the [[Microsoft Outlook|Outlook]] navigation bar on the left.
 >
 > **[0:24](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=24)** When you click Group, what you see is this invitation to Outlook groups.
 >
-> **[0:28](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=28)** But I want to tell you that Outlook groups are Microsoft 365 groups.
+> **[0:28](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=28)** But I want to tell you that Outlook groups are [[Microsoft 365]] groups.
 >
 > **[0:33](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=33)** They're the same thing.
 >
-> **[0:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=34)** So if you have groups that were created, for example, in SharePoint as team sites, Microsoft 365 groups.
+> **[0:34](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=34)** So if you have groups that were created, for example, in [[SharePoint]] as team sites, Microsoft 365 groups.
 >
 > **[0:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-a-microsoft-365-group?u=76281980&t=41)** On the left hand side, you have a list of all of the groups that you are either a member of or that you created.
 >
@@ -4160,21 +4112,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), next (2), [[Microsoft 365]] (2), [[SharePoint]] (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (3), [[Microsoft 365]] (2), [[SharePoint]] (2)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create, view, and complete to-do items
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980)
+#### [Create, view, and complete to-do items](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=0)** - [Instructor] Here's what made me fall in love with To Do, I can create my own lists.
 >
-> **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=4)** So if I'm just putting together a list of things that need to be done, I'm going to call this Remote office support and I want to add some tasks to this list.
+> **[0:04](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=4)** So if I'm just putting together a list of things that need to be done, I'm going to call this Remote [[Microsoft Office|office]] support and I want to add some tasks to this list.
 >
 > **[0:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=16)** So we're going to order webcam covers, press Enter, and it opens.
 >
@@ -4198,11 +4149,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=48)** I can share this list with other people.
 >
-> **[0:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=50)** So rather than create a large plan in Planner or an even larger plan in Microsoft Project, I just have a list of tasks that a group of us need to do.
+> **[0:50](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=50)** So rather than create a large plan in Planner or an even larger plan in [[Microsoft]] Project, I just have a list of tasks that a group of us need to do.
 >
 > **[0:59](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=59)** I'm going to create an invitation link.
 >
-> **[1:01](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=61)** I could copy a link and post it in Microsoft Teams in a channel, but I'm going to use Invite via email.
+> **[1:01](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=61)** I could copy a link and post it in [[Microsoft Teams]] in a channel, but I'm going to use Invite via email.
 >
 > **[1:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=68)** And the people who are going to work on this are going to be Reggie and Griffin.
 >
@@ -4252,7 +4203,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=193)** It doesn't really matter why you want to have a list.
 >
-> **[3:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=196)** You can use the To Do in Microsoft Outlook on the web to be able to efficiently manage the tasks that you want to complete.
+> **[3:16](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=196)** You can use the To Do in [[Microsoft Outlook]] on the web to be able to efficiently manage the tasks that you want to complete.
 >
 > **[3:26](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-view-and-complete-to-do-items?u=76281980&t=206)** One more thought before we leave.
 >
@@ -4270,7 +4221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Teams]] (1), [[Microsoft Outlook]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Teams]] (1), [[Microsoft Outlook]] (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
@@ -4278,12 +4229,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and share task lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980)
+#### [Create and share task lists](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=0)** - [Instructor] When you click the To Do icon in the Outlook left bar, you move into the To Do app.
+> **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=0)** - [Instructor] When you click the To Do icon in the [[Microsoft Outlook|Outlook]] left bar, you move into the To Do app.
 >
 > **[0:08](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=8)** In the past, we had an application called Tasks in Outlook.
 >
@@ -4365,7 +4315,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=220)** And I wrote back, "Yes, I'll assign it to our tech writing staff."
 >
-> **[3:44](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=224)** And the artificial intelligence in Outlook says, "You said you were going to do something but you didn't flag this."
+> **[3:44](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=224)** And the [[Artificial Intelligence (AI)|artificial intelligence]] in Outlook says, "You said you were going to do something but you didn't flag this."
 >
 > **[3:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=231)** It's like, oh yeah, okay.
 >
@@ -4393,7 +4343,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=295)** I can create my own lists.
 >
-> **[4:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=297)** So if I'm just putting together a list of things that need to be done, I'm going to call this Remote Office Support, and I want to add some tasks to this list.
+> **[4:57](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=297)** So if I'm just putting together a list of things that need to be done, I'm going to call this Remote [[Microsoft Office|Office]] Support, and I want to add some tasks to this list.
 >
 > **[5:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=309)** So we're going to order webcam covers, press Enter, and it opens, I don't have to click anywhere, I can just keep typing items, order headsets, Enter, and so on.
 >
@@ -4411,11 +4361,11 @@ created: 2026-05-02
 >
 > **[5:41](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=341)** I can share this list with other people.
 >
-> **[5:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=343)** So rather than create a large plan and planner or an even larger plan in Microsoft Project, I just have a list of tasks that a group of us need to do.
+> **[5:43](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=343)** So rather than create a large plan and planner or an even larger plan in [[Microsoft]] Project, I just have a list of tasks that a group of us need to do.
 >
 > **[5:52](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=352)** I'm going to create an invitation link.
 >
-> **[5:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=354)** I could copy a link and post it in Microsoft Teams in a channel, but I'm going to use Invite via Email and the people who are going to work on this are going to be Reggie and Griffin.
+> **[5:54](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=354)** I could copy a link and post it in [[Microsoft Teams]] in a channel, but I'm going to use Invite via Email and the people who are going to work on this are going to be Reggie and Griffin.
 >
 > **[6:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=366)** There we go.
 >
@@ -4463,7 +4413,7 @@ created: 2026-05-02
 >
 > **[8:06](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=486)** It doesn't really matter why you want to have a list.
 >
-> **[8:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=489)** You can use the To Do in Microsoft Outlook on the web to be able to efficiently manage the tasks that you want to complete.
+> **[8:09](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=489)** You can use the To Do in [[Microsoft Outlook]] on the web to be able to efficiently manage the tasks that you want to complete.
 >
 > **[8:19](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/create-and-share-task-lists?u=76281980&t=499)** One more thought before we leave.
 >
@@ -4483,7 +4433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (3), application (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (4), find (2)
 > **UI Navigation:** go to (3), click on (1)
 > **Definitions:** is a  (3)
@@ -4497,14 +4447,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=0)** - [Narrator] Congratulations, you have reached the end of the course.
 >
-> **[0:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=3)** This is a great time for you to post your certificate of completion on your LinkedIn Learning profile, so that folks who are looking to see if you have skills in Outlook on the web can easily find that information.
+> **[0:03](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=3)** This is a great time for you to post your certificate of completion on your [[LinkedIn]] Learning profile, so that folks who are looking to see if you have skills in [[Microsoft Outlook|Outlook]] on the web can easily find that information.
 >
 > **[0:14](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=14)** I have some recommendations for other courses that might be relevant and useful to you at this point.
 >
@@ -4514,7 +4463,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=45)** While both of these courses are taught in the desktop version of Outlook, all of the content is relevant to Outlook on the web.
 >
-> **[0:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=51)** If those two movies about Bookings peaked your interest, check out "Microsoft Bookings Essential Training" by David Rivers, which is a soup to nuts course on how to use Microsoft Bookings, why you would want to use it, and how to use it most efficiently for yourself or for Teams.
+> **[0:51](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=51)** If those two movies about Bookings peaked your interest, check out "[[Microsoft]] Bookings Essential Training" by David Rivers, which is a soup to nuts course on how to use Microsoft Bookings, why you would want to use it, and how to use it most efficiently for yourself or for Teams.
 >
 > **[1:07](https://www.linkedin.com/learning/outlook-on-the-web-essential-training-23727889/next-steps?u=76281980&t=67)** And finally, if you're also interested in using a desktop version of Outlook from time to time or much of the time, I highly recommend Jess Stratton's "Learning Outlook Desktop" course.
 >
@@ -4528,7 +4477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[LinkedIn]] (3), web (3), management (3), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (10), [[LinkedIn]] (3), [[Microsoft]] (2)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)

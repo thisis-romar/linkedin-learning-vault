@@ -90,12 +90,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on data versioning, lineage, and quality monitoring for artificial Intelligence.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980&t=1)** - [Instructor] Hi, and welcome to this course on data versioning, lineage, and quality monitoring for [[Artificial Intelligence (AI)|artificial Intelligence]].
 >
 > **[0:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/prerequisites?u=76281980&t=8)** Now before we get to the course contents let's take a look at the prerequisites that you need to have to make the most of your learning.
 >
@@ -113,29 +112,28 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), ai (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Course overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980)
+#### [Course overview](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=1)** - [Instructor] Here is what the course includes.
 >
-> **[0:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=2)** We'll be covering three broad topics in this course, data versioning, data lineage, and data quality.
+> **[0:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=2)** We'll be covering three broad topics in this course, data versioning, [[Data Lineage]], and [[Data Quality]].
 >
-> **[0:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=8)** Data versioning ensures that datasets, models, and code are tracked over time, enabling reproducibility, collaboration and auditing in data science and machine learning projects.
+> **[0:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=8)** Data versioning ensures that datasets, models, and code are tracked over time, enabling reproducibility, collaboration and auditing in [[Data Science]] and machine learning projects.
 >
-> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=19)** In addition to understanding the concepts behind data versioning, in our course we'll implement a simple project using DVC, data version control, that allows teams to manage evolving data efficiently.
+> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=19)** In addition to understanding the concepts behind data versioning, in our course we'll implement a simple project using DVC, data [[Version Control]], that allows teams to manage evolving data efficiently.
 >
 > **[0:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=32)** We'll then turn our attention to data lineage.
 >
 > **[0:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=34)** That provides visibility into the flow of data from its origin to its final use, helping organizations track transformations and ensure compliance and debug data issues.
 >
-> **[0:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=45)** In ours hands-on component, we'll see how Microsoft Fabric enables and implements data versioning on its platform.
+> **[0:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=45)** In ours hands-on component, we'll see how [[Microsoft]] Fabric enables and implements data versioning on its platform.
 >
 > **[0:53](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/course-overview?u=76281980&t=53)** And finally, we'll turn our attention to data quality.
 >
@@ -145,7 +143,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), [[Version Control]] (1), teams (1), [[Microsoft]] (1), ai (1)
+> **Frameworks & Libraries:** [[Data Quality]] (3), [[Data Lineage]] (2), [[Data Science]] (1), [[Version Control]] (1), [[Microsoft]] (1)
 > **Env Vars:** dvc (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
@@ -155,14 +153,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Types of version control
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980)
+#### [Types of version control](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=0)** - [Instructor] You are likely already familiar with version control for files.
+> **[0:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=0)** - [Instructor] You are likely already familiar with [[Version Control]] for files.
 >
-> **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=5)** You've likely used version control systems such as Git, Mercurial or Azure DevOps within your organization.
+> **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=5)** You've likely used version control systems such as [[Git]], Mercurial or [[Microsoft Azure|Azure]] [[DevOps]] within your organization.
 >
 > **[0:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=13)** As data becomes more important and more relevant to our projects, file version control needs to be extended to include a data version control.
 >
@@ -184,7 +181,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=73)** Version control systems make use of repositories.
 >
-> **[1:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=76)** This is just a storage location that contains all versions of a file or project, including metadata about the changes that were made.
+> **[1:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=76)** This is just a storage location that contains all versions of a file or project, including [[Metadata]] about the changes that were made.
 >
 > **[1:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/types-of-version-control?u=76281980&t=84)** Repositories can be hosted locally on your machine or on a remote server to enable collaboration.
 >
@@ -236,15 +233,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (21), data (6), [[Git]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (21), [[Git]] (1), [[Microsoft Azure|Azure]] (1), [[DevOps]] (1), [[Metadata]] (1)
 > **Definitions:** is a  (6), means that (1), is an  (1)
 > **CLI Commands:** make (2), git (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** set up (1), setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key concepts in data versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980)
+#### [Key concepts in data versioning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=53)** Data versioning facilitates collaboration by allowing data teams to work in parallel by tracking dataset modifications, merging changes, and maintaining consistency.
 >
-> **[1:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=63)** Data versioning helps in enforcing regulatory compliance by maintaining lineage and version history.
+> **[1:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=63)** Data versioning helps in enforcing [[Regulatory Compliance]] by maintaining lineage and version history.
 >
 > **[1:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=71)** And this ensures transparency in AI decision making.
 >
@@ -296,16 +292,15 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=130)** Before you bring the data together to get your final dataset.
 >
-> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=134)** Data versioning goes along with metadata management, which is responsible for storing essential details such as version history, timestamp, and user modifications, allowing you to maintain organized and structured dataset records.
+> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/key-concepts-in-data-versioning?u=76281980&t=134)** Data versioning goes along with [[Metadata]] management, which is responsible for storing essential details such as version history, timestamp, and user modifications, allowing you to maintain organized and structured dataset records.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), parallel (3), [[Debugging]] (1), teams (1), [[Regulatory Compliance]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[Metadata]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Snapshots, lineage, branching and merging, and metadata management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980)
+#### [Snapshots, lineage, branching and merging, and metadata management](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -325,15 +320,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=53)** And finally, modern snapshot implementations use incremental storage and only save the deltas or the changes to your data to minimize data redundancy and improve efficiency of storage.
 >
-> **[1:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=65)** Snapshots enable time travel, that is, going back in time to a previous version of the dataset, and this is often built into modern data storage systems.
+> **[1:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=65)** Snapshots enable time travel, that is, going back in time to a previous version of the dataset, and this is often built into modern [[Data Storage]] systems.
 >
-> **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=75)** For example, the Databricks data management platform enables time travel for data stored in delta tables.
+> **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=75)** For example, the Databricks [[Data Management]] platform enables time travel for data stored in delta tables.
 >
 > **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=83)** Time travel is enabled via the Delta Lake open storage format, and every modification that you make to the data in the table is stored as a different version of the table.
 >
-> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=94)** The Snowflake data management platform also enables time travel and zero copy cloning via data versioning.
+> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=94)** The [[Snowflake]] data management platform also enables time travel and zero copy cloning via data versioning.
 >
-> **[1:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=102)** Microsoft Fabric, Microsoft's data management platform, also makes use of the Delta Lake format to enable data versioning and time travel via snapshots.
+> **[1:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=102)** [[Microsoft]] Fabric, Microsoft's data management platform, also makes use of the Delta Lake format to enable data versioning and time travel via snapshots.
 >
 > **[1:52](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=112)** Next we'll turn to discussing lineage tracking and its importance.
 >
@@ -341,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=127)** Lineage tracking gives you a clear view of data movement across different stages in your pipeline, from raw ingestion to the final consumption of your data.
 >
-> **[2:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=137)** This also helps with impact analysis, that is, assesses how changes in upstream data affect downstream reports, dashboards and models.
+> **[2:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=137)** This also helps with impact analysis, that is, assesses how changes in upstream data affect downstream reports, [[Dashboards]] and models.
 >
 > **[2:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=147)** Lineage tracking ensures that organizations meet audit and compliance requirements by maintaining a record of data modifications and their usage.
 >
@@ -349,13 +344,13 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=164)** Modern data management platforms have built-in lineage tracking systems.
 >
-> **[2:49](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=169)** For example, Databricks has the Unity Catalog Lineage that provides end-to-end data lineage across tables, views and notebooks.
+> **[2:49](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=169)** For example, Databricks has the [[Unity]] Catalog Lineage that provides end-to-end [[Data Lineage]] across tables, views and notebooks.
 >
 > **[2:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=177)** Snowflake offers object dependencies and access history, which tracks lineage of views, tables, and role-based data access.
 >
 > **[3:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=187)** Microsoft Fabric offers Purview data lineage that integrates with Microsoft Purview to provide full lineage across all of the data that you have stored in Fabric.
 >
-> **[3:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=197)** And finally, Apache Spark offers event logs and query plans that tracks transformation steps in Spark jobs using directed acyclic graphs and structured query execution.
+> **[3:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=197)** And finally, [[Apache Spark]] offers event logs and query plans that tracks transformation steps in Spark jobs using directed acyclic graphs and structured query execution.
 >
 > **[3:28](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=208)** Apache Spark, as you know, is an open-source distributed computing platform for both batch and stream processing of data.
 >
@@ -369,7 +364,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=247)** This enables change tracking and auditing.
 >
-> **[4:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=249)** Merging ensures that changes from multiple branches are reconciled properly, maintaining data integrity and consistency.
+> **[4:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=249)** Merging ensures that changes from multiple branches are reconciled properly, maintaining [[Data Integrity]] and consistency.
 >
 > **[4:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=257)** Conflict resolution is an important part of merging to ensure that your final primary dataset is a valid one that can be used for downstream tasks.
 >
@@ -385,7 +380,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=303)** It leverages Delta Lake capabilities to support experimental dataset versions and controlled merges.
 >
-> **[5:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=310)** Data versioning involves extensive metadata management.
+> **[5:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=310)** Data versioning involves extensive [[Metadata]] management.
 >
 > **[5:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/snapshots-lineage-branching-and-merging-and-metadata-management?u=76281980&t=314)** This involves maintaining version history with timestamps, changes and contributors to ensure the reproducibility of your data.
 >
@@ -403,21 +398,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (47), management (7), [[Microsoft]] (5), [[Metadata]] (5), [[Snowflake]] (4)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Metadata]] (5), [[Data Management]] (4), [[Snowflake]] (4), [[Data Lineage]] (3)
 > **CLI Commands:** make (2), apache (2)
 > **Definitions:** is an  (2), refers to (1), is a  (1)
 > **Env Vars:** merge (1), into (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Version control for ML and AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980)
+#### [Version control for ML and AI](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=1)** - [Instructor] We'll now discuss version control in AI and ML.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=1)** - [Instructor] We'll now discuss [[Version Control]] in AI and ML.
 >
-> **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=5)** Model development, as you know, is different from software development, and the artifacts that you have to version are different.
+> **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=5)** Model development, as you know, is different from [[Software Development]], and the artifacts that you have to version are different.
 >
 > **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=12)** Let's discuss software development first because that's something that's well known to us.
 >
@@ -439,7 +433,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=87)** Comprehensive version control in AI and ML involves versioning datasets, raw, processed, and transformed datasets used for training and evaluation.
 >
-> **[1:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=97)** This can also include labels and annotations in supervised learning techniques.
+> **[1:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=97)** This can also include labels and annotations in [[Supervised Learning]] techniques.
 >
 > **[1:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=103)** Other artifacts include models, trained models, and their weights and checkpoints.
 >
@@ -447,23 +441,23 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=117)** Versioning may include code.
 >
-> **[1:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=119)** This can be training scripts and Jupyter Notebooks, feature engineering and pre-processing code, ML pipeline code, such as EPL scripts, model training, and inference workflows.
+> **[1:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=119)** This can be training scripts and Jupyter Notebooks, [[Feature Engineering]] and pre-processing code, ML pipeline code, such as EPL scripts, model training, and inference workflows.
 >
 > **[2:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=130)** Model deployment may include code for APIs and serving infrastructure.
 >
-> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=134)** Tracking experiments in ML models include hyperparameters, such as learning rate, batch size, performance metrics, maybe, accuracy loss, precision recall, model evaluation results, and any comparisons you've performed across versions.
+> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=134)** Tracking experiments in ML models include hyperparameters, such as learning rate, batch size, [[Performance Metrics]], maybe, accuracy loss, precision recall, model evaluation results, and any comparisons you've performed across versions.
 >
 > **[2:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=149)** This can include experiment logs, visualizations, and other reports.
 >
-> **[2:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=153)** You'll need to track the dependencies and environment, software dependencies like Python version, TensorFlow, or PyTorch version that you're using.
+> **[2:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=153)** You'll need to track the dependencies and environment, software dependencies like [[Python (Programming Language)|Python]] version, [[TensorFlow]], or [[PyTorch]] version that you're using.
 >
 > **[2:41](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=161)** Library versions, this is usually tracked in requirements.exe files or Conda environment YAML files.
 >
-> **[2:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=168)** You may need to track hardware configurations, such as CPU and GPU settings, or Docker containers or virtual environments to reproduce your original model.
+> **[2:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=168)** You may need to track [[Hardware]] configurations, such as CPU and GPU settings, or Docker containers or virtual environments to reproduce your original model.
 >
 > **[2:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=177)** And of course, you'll need to track the model output artifacts.
 >
-> **[3:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=181)** This may be inference results from different model versions, error logs and failure cases for debugging, or decision-making artifacts in explainable AI applications.
+> **[3:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=181)** This may be inference results from different model versions, error logs and failure cases for debugging, or [[Decision-Making]] artifacts in explainable AI applications.
 >
 > **[3:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=190)** We'll discuss some of these in more detail.
 >
@@ -561,7 +555,7 @@ created: 2026-05-02
 >
 > **[7:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=468)** AI and ML workflows might be version controlled for experiments as well.
 >
-> **[7:52](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=472)** Versioned experiments store metadata, hyperparameters, datasets, and results for each run to ensure reproducibility.
+> **[7:52](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=472)** Versioned experiments store [[Metadata]], hyperparameters, datasets, and results for each run to ensure reproducibility.
 >
 > **[8:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/version-control-for-ml-and-ai?u=76281980&t=480)** Experiments allow side-by-side analysis of different model versions to identify the best configuration, and every run is a self-contained unit that manage code, data, and parameters together.
 >
@@ -569,7 +563,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Version Control]] (10), ai (7), data (7), [[Software Development]] (4), [[Feature Engineering]] (2)
+> **Frameworks & Libraries:** [[Version Control]] (10), [[Software Development]] (4), [[Feature Engineering]] (2), [[Performance Metrics]] (2), [[Python (Programming Language)|Python]] (2)
 > **Analogies:** such as (5), similar to (1), for example (1)
 > **CLI Commands:** docker (3), python (2), find (1)
 > **Definitions:** is a  (4), refers to (1), is an  (1)
@@ -578,32 +572,31 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Prerequisites:** you'll need (2)
 
-#### File-based and checksum hash-based versioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980)
+#### [File-based and checksum hash-based versioning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=1)** - [Instructor] Now that we've discussed the versioning of different artifacts associated with the ML and AI workflow, let's turn our attention back to data versioning and discuss a few different data versioning techniques.
 >
-> **[0:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=13)** File-based versioning utilizes traditional version control systems, like Git, to manage datasets by tracking changes to individual files.
+> **[0:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=13)** File-based versioning utilizes traditional [[Version Control]] systems, like [[Git]], to manage datasets by tracking changes to individual files.
 >
 > **[0:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=21)** This is effective for small datasets.
 >
 > **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=24)** However, this approach may face performance issues with large files due to storage and speed limitations.
 >
-> **[0:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=30)** Checksum or hash-based versioning generates unique identifiers, hashes, for data blocks or files, enabling detection of changes and ensuring data integrity.
+> **[0:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=30)** Checksum or hash-based versioning generates unique identifiers, hashes, for data blocks or files, enabling detection of changes and ensuring [[Data Integrity]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=42)** This is efficient for identifying modifications, but requires robust management to handle large datasets and ensure consistency.
 >
-> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=50)** Database table versioning implements version control within databases by adding timestamp records or version numbers, allowing retrieval of historical data states.
+> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=50)** Database table versioning implements version control within [[Databases]] by adding timestamp records or version numbers, allowing retrieval of historical data states.
 >
-> **[1:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=61)** This ensures data consistency within relational databases, but can, of course, increase complexity and storage requirements for your data.
+> **[1:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=61)** This ensures data consistency within [[Relational Databases]], but can, of course, increase complexity and storage requirements for your data.
 >
 > **[1:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=68)** And finally, Delta or change tracking stores only the differences, that is the deltas, between data versions.
 >
 > **[1:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=76)** This reduces storage needs and facilitates efficient updates.
 >
-> **[1:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=80)** This is efficient storage management, but this may complicate data retrieval due to the need for reconstructing full datasets from the deltas available.
+> **[1:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=80)** This is efficient [[Storage Management]], but this may complicate data retrieval due to the need for reconstructing full datasets from the deltas available.
 >
 > **[1:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=90)** We'll discuss each of these four options in a little more detail, starting with file-based versioning.
 >
@@ -613,7 +606,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=122)** Another downside of this technique is that you do not have built-in mechanisms to capture schema changes, transformations, or dependencies, unless you explicitly log them separately.
 >
-> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=134)** This works well for quick iterations and individual experiments, but lacks the scalability for production grade AI/ML pipelines.
+> **[2:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=134)** This works well for quick iterations and individual experiments, but lacks the [[Scalability]] for production grade AI/ML pipelines.
 >
 > **[2:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=143)** In enterprise-grade systems, you'll find that file-based versioning is often not used by itself, but maybe used under the hood by other techniques that use other methods to version data.
 >
@@ -623,7 +616,7 @@ created: 2026-05-02
 >
 > **[2:52](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=172)** DVC or Data Version Control use file-based versioning to manage datasets, model artifacts and experiments, alongside Code.
 >
-> **[3:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=181)** LakeFS provides Git-like versioning for data lakes, enabling snapshots and branching for structured and unstructured data.
+> **[3:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=181)** LakeFS provides Git-like versioning for [[Data Lakes]], enabling snapshots and branching for structured and [[Unstructured Data]].
 >
 > **[3:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/file-based-and-checksum-hash-based-versioning?u=76281980&t=189)** Pachyderm implements file-based Git-like data versioning with lineage tracking for reproducibility in AI/ML workflows.
 >
@@ -657,7 +650,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Git]] (6), ai (4), [[Version Control]] (3), management (2)
+> **Frameworks & Libraries:** [[Git]] (6), [[Version Control]] (3), [[Data Integrity]] (2), [[Databases]] (1), [[Relational Databases]] (1)
 > **CLI Commands:** git (6), find (1), apache (1)
 > **Env Vars:** dvc (4), lfs (1), md5 (1), sha56 (1), crc32 (1)
 > **Analogies:** such as (2), for example (1)
@@ -665,8 +658,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Database table versioning and change tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980)
+#### [Database table versioning and change tracking](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,11 +668,11 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=12)** This allows you to retrieve previous dates of a table using features like Delta Lake Time Travel.
 >
-> **[0:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=17)** This is what Databricks supports, Snowflake time-travel, and temporal tables on SQL Server.
+> **[0:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=17)** This is what Databricks supports, [[Snowflake]] time-travel, and temporal tables on [[Microsoft SQL Server|SQL Server]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=24)** Database tables may also enable role-level versioning for change tracking, which means you can track modifications at the role-level using soft deletes, audit columns, or slowly changing dimensions.
 >
-> **[0:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=37)** Database tables often support schema evolution management, which allows controlled schema updates without breaking existing data pipelines By maintaining versioned table structures.
+> **[0:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=37)** Database tables often support schema evolution management, which allows controlled schema updates without breaking existing [[Data Pipelines]] By maintaining versioned table structures.
 >
 > **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=50)** the transaction consistency that database tables offer ensures that models are trained on consistent snapshots of tables.
 >
@@ -692,15 +684,15 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=89)** In this context, let's understand what CDC, or change data capture, means.
 >
-> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=94)** This is a technique for incremental data processing that is used to track and capture changes to your data.
+> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=94)** This is a technique for incremental [[Data Processing]] that is used to track and capture changes to your data.
 >
-> **[1:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=100)** This can be inserts, updates, or deletes databases and data lake systems often support techniques for Change Data Capture.
+> **[1:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=100)** This can be inserts, updates, or deletes [[Databases]] and data lake systems often support techniques for Change Data Capture.
 >
-> **[1:51](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=111)** For example, Databricks, a popular data management platform offers something called Change Data Feed or CDF.
+> **[1:51](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=111)** For example, Databricks, a popular [[Data Management]] platform offers something called Change Data Feed or CDF.
 >
 > **[1:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=119)** Databricks uses the open-source Delta Lake format to store data and Delta Lake's CDF feature tracks a role-level changes, inserts, updates, and deletes between versions of a Delta table.
 >
-> **[2:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=131)** This allows you to easily capture and process incremental changes for downstream applications, data warehousing and real-time analytics.
+> **[2:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=131)** This allows you to easily capture and process incremental changes for downstream applications, [[Data Warehousing]] and [[Real-Time]] analytics.
 >
 > **[2:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=140)** Delta Live tables on Databricks simplifies Change Data Capture by providing built-in functionality for propagating changes and storing results as slowly changing dimension, type one or type two tables.
 >
@@ -716,7 +708,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=187)** Snowflake's Time Travel feature allows you to access historical data, enabling you to compare current data with previous versions and identify changes that you may have made.
 >
-> **[3:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=197)** Microsoft Fabric also makes use of Delta Lake for storage, and thus it has the Change Data Feed feature that allows you to track a role-level changes made to your Delta tables.
+> **[3:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=197)** [[Microsoft]] Fabric also makes use of Delta Lake for storage, and thus it has the Change Data Feed feature that allows you to track a role-level changes made to your Delta tables.
 >
 > **[3:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/database-table-versioning-and-change-tracking?u=76281980&t=210)** Microsoft Fabric also supports Delta Live Tables, a framework for building reliable and maintainable data pipelines on Delta Lake.
 >
@@ -726,18 +718,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), database (6), [[Snowflake]] (3), feature (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Snowflake]] (3), [[Microsoft]] (3), [[Data Pipelines]] (2), [[Data Warehousing]] (2), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** cdc (2), cdf (2), sql (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data versioning best practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980)
+#### [Data versioning best practices](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=1)** - [Narrator] A quick word on some best practices you ought to follow when versioning your data.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=1)** - [Narrator] A quick [[Microsoft Word|word]] on some best practices you ought to follow when versioning your data.
 >
 > **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=5)** Make sure you implement semantic versioning.
 >
@@ -745,15 +736,15 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=21)** Automate your versioning process if possible.
 >
-> **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=24)** Utilize tools and scripts to automatically create versions at key stages of the data processing pipeline, reducing manual effort and minimizing the risk of errors.
+> **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=24)** Utilize tools and scripts to automatically create versions at key stages of the [[Data Processing]] pipeline, reducing manual effort and minimizing the risk of errors.
 >
-> **[0:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=34)** And finally, maintain detailed metadata.
+> **[0:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=34)** And finally, maintain detailed [[Metadata]].
 >
 > **[0:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-versioning-best-practices?u=76281980&t=37)** Document all of the essential information for each version, including what changes you've made, processing steps that you've applied, the transformations and the rationality behind each modification to provide context and for future reference.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Data Processing]] (1), [[Metadata]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
@@ -763,26 +754,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing DVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980)
+#### [Introducing DVC](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=0)** - [Instructor] In the hands-on demo that follows, we'll see how you can use DVC, Data Version Control, to version your data sets.
+> **[0:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=0)** - [Instructor] In the hands-on demo that follows, we'll see how you can use DVC, Data [[Version Control]], to version your data sets.
 >
 > **[0:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=8)** And in this movie, I'll give you a quick overview of how DCV works.
 >
 > **[0:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=13)** DVC is an open source tool designed to manage data sets, machine learning models, and pipelines in a version control manner.
 >
-> **[0:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=22)** It extends traditional version control systems like Git to handle large data files and machine learning assets efficiently.
+> **[0:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=22)** It extends traditional version control systems like [[Git]] to handle large data files and machine learning assets efficiently.
 >
-> **[0:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=29)** DVC is storage-agnostic in that's designed to work with various storage backends, including cloud storage, such as Amazon's S3, Azure's Block Storage, and Google Cloud Storage.
+> **[0:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=29)** DVC is storage-agnostic in that's designed to work with various storage backends, including [[Cloud Storage]], such as Amazon's S3, [[Microsoft Azure|Azure]]'s Block Storage, and [[Google Cloud Platform (GCP)|Google Cloud]] Storage.
 >
 > **[0:41](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=41)** It can work with shared local file systems and even HDFS.
 >
 > **[0:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=44)** DVC seamlessly integrates with Git, the most popular version control system for code.
 >
-> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=50)** This allows you to manage your data and model versions alongside your code in a single repository, simplifying collaboration and workflow management.
+> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=50)** This allows you to manage your data and model versions alongside your code in a single repository, simplifying collaboration and [[Workflow Management]].
 >
 > **[0:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=59)** Data changes are tied to specific code commits, making it easy to see what data was used for what particular model version.
 >
@@ -792,7 +782,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=78)** Teams can revert to previous data states or model iterations as needed.
 >
-> **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=83)** With DVC, you can define and manage complex machine learning pipelines, codifying each step from data ingestion to model deployment.
+> **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=83)** With DVC, you can define and manage complex machine learning pipelines, codifying each step from [[Data Ingestion]] to model deployment.
 >
 > **[1:31](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=91)** You can thus automate your workflows and ensure that all processes are reproducible and transparent.
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=119)** Let's see how data and model versioning works with DVC.
 >
-> **[2:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=123)** DVC leverages Git for versioning metadata about your data, and not the data itself.
+> **[2:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=123)** DVC leverages Git for versioning [[Metadata]] about your data, and not the data itself.
 >
 > **[2:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=130)** This means your Git repository is lightweight and DVC tracks changes to your data files, your large data sets, by storing their hashes and pointers to their location.
 >
@@ -826,7 +816,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=203)** Let's talk a little more about pipeline management with DVC.
 >
-> **[3:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=207)** DVC allows you to define your entire machine learning or data processing workflow as a series of stages.
+> **[3:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=207)** DVC allows you to define your entire machine learning or [[Data Processing]] workflow as a series of stages.
 >
 > **[3:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-dvc?u=76281980&t=214)** Each stage is a step in your pipeline, such as data pre-processing, model training, validation, et cetera.
 >
@@ -860,25 +850,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (40), [[Git]] (17), [[Version Control]] (5), [[Metadata]] (5), management (2)
+> **Frameworks & Libraries:** [[Git]] (17), [[Version Control]] (5), [[Metadata]] (5), [[Cloud Storage]] (1), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** dvc (26), dcv (1), hdfs (1)
 > **CLI Commands:** git (17), make (1)
 > **Analogies:** such as (2), just like (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Initialize git and DVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980)
+#### [Initialize git and DVC](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=1)** - [Instructor] In this demo, we'll see how you can version your data using DVC.
 >
-> **[0:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=4)** DVC works in tandem with Git, so you need to have Git installed before you can work with data version control.
+> **[0:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=4)** DVC works in tandem with [[Git]], so you need to have Git installed before you can work with data [[Version Control]].
 >
 > **[0:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=11)** In any project where you use DVC, you'll use Git to version your code files, and you'll use DVC to version your data files.
 >
-> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=19)** Let's take a look at the Python version I have installed.
+> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=19)** Let's take a look at the [[Python (Programming Language)|Python]] version I have installed.
 >
 > **[0:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=21)** Make sure you have a fairly recent version of Python.
 >
@@ -886,9 +875,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=27)** Next, I'm going to use the python -m command to create a virtual environment called dvc_env, and it's within this environment that I'll install and work with DVC.
 >
-> **[0:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=38)** If you're on a Mac or a Linux machine, use the source command to activate the virtual environment.
+> **[0:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=38)** If you're on a Mac or a [[Linux]] machine, use the source command to activate the virtual environment.
 >
-> **[0:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=43)** If you're on a Windows machine, you'll simply run the activate.batch file.
+> **[0:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=43)** If you're on a [[Windows]] machine, you'll simply run the activate.batch file.
 >
 > **[0:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=48)** Before you can use DVC, you need to have Git installed on your machine.
 >
@@ -910,13 +899,13 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=105)** This is going to be my current working directory.
 >
-> **[1:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=108)** The first thing I'm going to do here is initialize a Git repository, a local repository, by running the git init command, You can choose to connect up a remote repository on GitHub or anywhere else corresponding to this local repository, but I won't really be doing that.
+> **[1:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=108)** The first thing I'm going to do here is initialize a Git repository, a local repository, by running the git init command, You can choose to connect up a remote repository on [[GitHub]] or anywhere else corresponding to this local repository, but I won't really be doing that.
 >
 > **[2:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=122)** We'll focus on DVC.
 >
 > **[2:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=124)** ls -la will show me all files, including the hidden files, in my current working directory, and notice the hidden folder .git has been created.
 >
-> **[2:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=133)** This is the hidden folder that Git Version Control will use to store metadata and other detail.
+> **[2:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=133)** This is the hidden folder that Git Version Control will use to store [[Metadata]] and other detail.
 >
 > **[2:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/initialize-git-and-dvc?u=76281980&t=139)** Just like we use git init to initialize a Git repository, if you'd like to use DVC in your Git project, you'll use dvc init to initialize DVC.
 >
@@ -958,7 +947,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (24), data (9), [[Metadata]] (5), [[Python (Programming Language)|Python]] (4), [[Version Control]] (2)
+> **Frameworks & Libraries:** [[Git]] (24), [[Metadata]] (5), [[Python (Programming Language)|Python]] (4), [[Version Control]] (2), [[Linux]] (1)
 > **CLI Commands:** git (24), python (4), pip (3), find (2), make (1)
 > **Env Vars:** dvc (28)
 > **Prerequisites:** install (4), you need to have (2), make sure you have (1), configure (1)
@@ -967,8 +956,7 @@ created: 2026-05-02
 > **Code Identifiers:** dvc_env (1)
 > **Tools:** github (1)
 
-#### Tracking files using DVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980)
+#### [Tracking files using DVC](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,13 +984,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=60)** We'll stick with manual staging.
 >
-> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=62)** When you run DVC add to have DVC start tracking your data files, DVC creates two metadata files to track your data file.
+> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=62)** When you run DVC add to have DVC start tracking your data files, DVC creates two [[Metadata]] files to track your data file.
 >
 > **[1:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=71)** The first thing to observe is that there is a dot gitignore file in your current working directory.
 >
 > **[1:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=76)** This does not exist before.
 >
-> **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=78)** This dot gitignore files tells git to ignore this data file data.txt, because it's being tracked by D vvc.
+> **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=78)** This dot gitignore files tells [[Git]] to ignore this data file data.txt, because it's being tracked by D vvc.
 >
 > **[1:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=87)** Another file that has been added is the data.txt.DVC file.
 >
@@ -1022,13 +1010,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=146)** DVC works with Git because GIT is responsible for versioning your other files, your code files, and DVC's metadata files.
 >
-> **[2:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=154)** So this .gitignore and data.txt.DVC should both be added to your Git version control.
+> **[2:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=154)** So this .gitignore and data.txt.DVC should both be added to your Git [[Version Control]].
 >
 > **[2:41](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=161)** Remember, GIT is responsible for all metadata files.
 >
 > **[2:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=164)** DVC is responsible only for your data files.
 >
-> **[2:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=168)** These data tracking metadata files should be stored and versioned along with the code files that use your data so your code versions and data versions can be kept in sync.
+> **[2:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=168)** These [[Data Tracking]] metadata files should be stored and versioned along with the code files that use your data so your code versions and data versions can be kept in sync.
 >
 > **[2:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=179)** So let's go ahead and add data.txt.DVC and .gitignore to Git tracking and I'm going to commit these to my local Git repository.
 >
@@ -1042,7 +1030,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=213)** DVC supports a number of different locations that you can use as the remote store for your data.
 >
-> **[3:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=218)** You can choose to store your data on Amazon S3 or Google Cloud storage buckets, or you can store your data in a shared file system within your organization.
+> **[3:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=218)** You can choose to store your data on Amazon S3 or [[Google Cloud Platform (GCP)|Google Cloud]] storage buckets, or you can store your data in a shared file system within your organization.
 >
 > **[3:47](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=227)** You'll of course need to configure the right credentials for DVC to connect to your remote storage.
 >
@@ -1056,7 +1044,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=260)** My remote is the name of my remote storage and /temp/DVCremotestore is the path to my remote storage.
 >
-> **[4:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=269)** Just like you have a GIT remote repository on GitHub or Bitbucket, you can have a DVC remote repository on a shared file system or on the cloud somewhere.
+> **[4:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=269)** Just like you have a GIT remote repository on [[GitHub]] or [[Bitbucket]], you can have a DVC remote repository on a shared file system or on the cloud somewhere.
 >
 > **[4:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/tracking-files-using-dvc?u=76281980&t=279)** My remote is the default remote for my current DVC repository.
 >
@@ -1076,7 +1064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), [[Git]] (16), [[Metadata]] (4), [[GitHub]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Git]] (16), [[Metadata]] (4), [[GitHub]] (2), [[Version Control]] (1), [[Data Tracking]] (1)
 > **Env Vars:** dvc (38), git (3), csv (1), md5 (1)
 > **CLI Commands:** git (16), find (2)
 > **File Paths:** data.txt (12), catdata.txt (1), dvcadd.data.txt (1)
@@ -1085,8 +1073,7 @@ created: 2026-05-02
 > **Analogies:** just like (2), imagine (1)
 > **Prerequisites:** configure (3)
 
-#### Versioning data using DVC
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980)
+#### [Versioning data using DVC](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1104,7 +1091,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=38)** The content hash in the data.txt.dvc file that is checked in with our code file is what allows dvc to know the right version of data associated with a particular version of your code.
 >
-> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=50)** Let's assume you set up a new Git repository and you'd like to access the current version of data.txt.
+> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=50)** Let's assume you set up a new [[Git]] repository and you'd like to access the current version of data.txt.
 >
 > **[0:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=57)** In order to simulate that, I'm going to get rid of the data.txt file in my current working directory.
 >
@@ -1180,11 +1167,11 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=269)** So if you were to now look at the data.txt file that you have available locally in the current working directory, notice we have the old version that contains "Hello DVC."
 >
-> **[4:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=279)** And this is how you can use Git versioning in tandem with DVC versioning to get version control for your code files and your data files.
+> **[4:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/versioning-data-using-dvc?u=76281980&t=279)** And this is how you can use Git versioning in tandem with DVC versioning to get [[Version Control]] for your code files and your data files.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (41), [[Git]] (7), [[Analytics]] (1), [[Version Control]] (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[Version Control]] (1)
 > **File Paths:** data.txt (19), dvc_add_data.txt (1)
 > **CLI Commands:** git (7), find (2), ls (1), make (1)
 > **Code Identifiers:** dvc_push (2), dvc_remote (2), dvc_pull (1), dvc_add_data (1), git_status (1)
@@ -1198,12 +1185,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introducing data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980)
+#### [Introducing data lineage](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=1)** - [Presenter] After having explored and understood data versioning, let's turn our attention to data lineage.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=1)** - [Presenter] After having explored and understood data versioning, let's turn our attention to [[Data Lineage]].
 >
 > **[0:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=7)** Data lineage is the process of tracking and visualizing the origin, movement, and transformation of data throughout its lifecycle.
 >
@@ -1215,7 +1201,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=26)** The first is data origin.
 >
-> **[0:28](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=28)** This involves identifying the initial source of data such as databases, external systems, or files.
+> **[0:28](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=28)** This involves identifying the initial source of data such as [[Databases]], external systems, or files.
 >
 > **[0:35](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=35)** This is essential for identifying the authenticity of data and tracing where data comes from.
 >
@@ -1229,13 +1215,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=60)** Next, we have data flows.
 >
-> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=62)** This refers to how data is moved between different systems or locations such as through ETL pipelines, data lakes, or data warehouses.
+> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=62)** This refers to how data is moved between different systems or locations such as through ETL pipelines, [[Data Lakes]], or data warehouses.
 >
 > **[1:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=71)** Lineage tracks these movements, mapping the movement of data between systems and processes, helps identify bottlenecks, optimize workflows, and maintain secure data transfers.
 >
 > **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=83)** And finally, we have data targets.
 >
-> **[1:25](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=85)** These are the final destinations of the data such as reports, dashboards, analytical models, or other applications.
+> **[1:25](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=85)** These are the final destinations of the data such as reports, [[Dashboards]], analytical models, or other applications.
 >
 > **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/introducing-data-lineage?u=76281980&t=94)** Lineage shows where the data ultimately ends up.
 >
@@ -1243,42 +1229,41 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), next (2), [[Databases]] (1), etl (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (4), [[Databases]] (1), [[Data Lakes]] (1), [[Dashboards]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** etl (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [presenter] (1)
 
-#### Use cases and benefits of data lineage tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980)
+#### [Use cases and benefits of data lineage tracking](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=1)** - [Instructor] Let's now discuss why tracking data lineage is useful.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=1)** - [Instructor] Let's now discuss why tracking [[Data Lineage]] is useful.
 >
-> **[0:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=4)** Lineage is essential for meeting regulatory requirements and ensuring data governance.
+> **[0:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=4)** Lineage is essential for meeting regulatory requirements and ensuring [[Data Governance]].
 >
-> **[0:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=9)** Lineage provides an audit trail of data movement and transformations, demonstrating how data is used and complying with privacy regulations like GDPR or CCPA.
+> **[0:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=9)** Lineage provides an audit trail of data movement and transformations, demonstrating how data is used and complying with [[Privacy]] regulations like GDPR or CCPA.
 >
-> **[0:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=20)** GDPR stands for General Data Protection Regulation, which is a EU regulation that governs data privacy and protection for individuals within the EU.
+> **[0:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=20)** GDPR stands for General Data Protection Regulation, which is a EU regulation that governs [[Data Privacy]] and protection for individuals within the EU.
 >
 > **[0:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=29)** CCPA is the California Consumer Privacy Act, which is a US state law that provides California residents with rights over their personal data, such as the right to know, delete, and opt out of data sales.
 >
-> **[0:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=42)** Once you've enabled lineage tracking on your data, if there is a problem with your data quality or reporting, lineage will help you trace the issue back to its source.
+> **[0:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=42)** Once you've enabled lineage tracking on your data, if there is a problem with your [[Data Quality]] or reporting, lineage will help you trace the issue back to its source.
 >
-> **[0:51](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=51)** By following the data's path, you can identify where the error occurred, whether it was a data entry mistake, a faulty transformation, or a data integration issue.
+> **[0:51](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=51)** By following the data's path, you can identify where the error occurred, whether it was a data entry mistake, a faulty transformation, or a [[Data Integration]] issue.
 >
 > **[1:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=61)** Lineage helps with impact analysis as well.
 >
 > **[1:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=64)** When changes are made to data or systems, Lineage helps understand the downstream impact of those changes.
 >
-> **[1:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=71)** For example, you might modify a data source, then Lineage will tell you which reports, dashboards, or models will be affected.
+> **[1:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=71)** For example, you might modify a data source, then Lineage will tell you which reports, [[Dashboards]], or models will be affected.
 >
 > **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=78)** Lineage helps with data discovery and understanding.
 >
 > **[1:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=81)** By visualizing the data's journey, users can gain insights into its origin, transformations, and relationships with other data assets, making it easier to discover and use data effectively.
 >
-> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=94)** With lineage, you're able to track where your data errors occur, and this understanding allows for targeted data cleaning, validation, and process improvements, resulting in higher quality data.
+> **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=94)** With lineage, you're able to track where your data errors occur, and this understanding allows for targeted [[Data Cleaning]], validation, and process improvements, resulting in higher quality data.
 >
 > **[1:46](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/use-cases-and-benefits-of-data-lineage-tracking?u=76281980&t=106)** To summarize, here are some of the benefits of data lineage tracking.
 >
@@ -1294,18 +1279,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (33), [[Privacy]] (3), [[Dashboards]] (1), [[Troubleshooting]] (1), teams (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (5), [[Privacy]] (2), [[Data Quality]] (2), [[Data Governance]] (1), [[Data Privacy]] (1)
 > **Env Vars:** gdpr (2), ccpa (2)
 > **Definitions:** is a  (3), stands for (1)
 > **Analogies:** for example (2), such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lineage vs. data provenance vs. data governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980)
+#### [Data lineage vs. data provenance vs. data governance](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=1)** - [Instructor] Data lineage is closely associated with data provenance and data governance.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=1)** - [Instructor] [[Data Lineage]] is closely associated with data provenance and [[Data Governance]].
 >
 > **[0:06](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=6)** Let's take a moment to understand what exactly these terms refer to, how they're similar, how they're different, and what the overlap is.
 >
@@ -1329,23 +1313,23 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=77)** Data provenance, on the other hand, offers granular tracking of how, when, and by whom data was created, modified, or accessed.
 >
-> **[1:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=87)** The primary use cases for data lineage include impact analysis, debugging, and regulatory compliance by tracking data dependencies.
+> **[1:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=87)** The primary use cases for data lineage include impact analysis, debugging, and [[Regulatory Compliance]] by tracking data dependencies.
 >
-> **[1:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=97)** On the other hand, the primary use case for data provenance is for data trust, security, and authenticity by verifying data integrity and origins.
+> **[1:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=97)** On the other hand, the primary use case for data provenance is for data trust, security, and authenticity by verifying [[Data Integrity]] and origins.
 >
 > **[1:47](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=107)** Data lineage is often visualized using graphs or flow diagrams, showing data movement and dependencies.
 >
-> **[1:55](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=115)** Data provenance is typically detailed in metadata logs, or structured records documenting data changes.
+> **[1:55](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=115)** Data provenance is typically detailed in [[Metadata]] logs, or structured records documenting data changes.
 >
 > **[2:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=122)** Now, let's understand how data lineage compares with data governance.
 >
 > **[2:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=127)** Data lineage, as you know, tracks the flow and transformation of data from source to destination.
 >
-> **[2:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=131)** Data governance encompasses policies, standards, and controls to ensure data quality, security, and compliance.
+> **[2:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=131)** Data governance encompasses policies, standards, and controls to ensure [[Data Quality]], security, and compliance.
 >
 > **[2:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=140)** The scope of data lineage is on how data moves and changes across pipelines, systems, and processes.
 >
-> **[2:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=147)** The scope of data governance covers data ownership, access controls, security compliance, and policies for overall data management.
+> **[2:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=147)** The scope of data governance covers data ownership, access controls, security compliance, and policies for overall [[Data Management]].
 >
 > **[2:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=157)** The primary use case of data lineage, as you know, is for impact analysis, debugging, and transparency in data workflows.
 >
@@ -1355,20 +1339,19 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=179)** Data governance is enforced through frameworks, policies, role-based access controls, RBACs, and compliance audits.
 >
-> **[3:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=187)** You can say that data lineage forms one part of data governance, but data governance has a broader scope and a much broader use case.
+> **[3:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-vs-data-provenance-vs-data-governance?u=76281980&t=187)** You can say that data lineage [[Forms]] one part of data governance, but data governance has a broader scope and a much broader use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (52), [[Security]] (3), management (3), [[Debugging]] (2), [[Regulatory Compliance]] (2)
+> **Frameworks & Libraries:** [[Data Lineage]] (14), [[Data Governance]] (9), [[Regulatory Compliance]] (2), [[Data Quality]] (2), [[Data Management]] (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Techniques to track data lineage
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980)
+#### [Techniques to track data lineage](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=1)** - [Instructor] Let's a quick overview of some of the techniques that can be used to track data lineage in data management systems.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=1)** - [Instructor] Let's a quick overview of some of the techniques that can be used to track [[Data Lineage]] in [[Data Management]] systems.
 >
 > **[0:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=7)** The first is lineage tracking through data tagging.
 >
@@ -1378,7 +1361,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=27)** However, this technique becomes unreliable in open systems with multiple tools as inconsistent tagging can lead to gaps in tracing data.
 >
-> **[0:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=37)** Self-contained lineage is tracked within a closed environment where all data storage, processing, and transformation tools are managed internally.
+> **[0:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=37)** Self-contained lineage is tracked within a closed environment where all [[Data Storage]], processing, and transformation tools are managed internally.
 >
 > **[0:46](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/techniques-to-track-data-lineage?u=76281980&t=46)** This ensures comprehensive lineage within the system, but does not account for data interactions outside the organization's infrastructure.
 >
@@ -1398,22 +1381,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), management (1), cloud (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (1), [[Data Management]] (1), [[Data Storage]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Best practices for data lineage tracking
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980)
+#### [Best practices for data lineage tracking](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=1)** - [Instructor] In this movie, we'll have a quick discussion about the best practices that you should follow for data lineage tracking.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=1)** - [Instructor] In this movie, we'll have a quick discussion about the best practices that you should follow for [[Data Lineage]] tracking.
 >
 > **[0:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=8)** The first, of course, is to embrace automation and move away from manual tracking.
 >
 > **[0:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=13)** Traditionally, organizations have relied on manual data lineage tracking, but with the increasing complexity of modern systems, this approach is no longer practical.
 >
-> **[0:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=22)** Automated tools, particularly advanced data catalogs, leverage AI and ML to integrate metadata from multiple sources, creating a logical lineage flow.
+> **[0:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=22)** Automated tools, particularly advanced data catalogs, leverage AI and ML to integrate [[Metadata]] from multiple sources, creating a logical lineage flow.
 >
 > **[0:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=33)** These tools can also analyze metadata to identify patterns and generate insights, improving accuracy and efficiency.
 >
@@ -1425,7 +1407,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=68)** Make sure you include all of your metadata sources.
 >
-> **[1:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=72)** To achieve precise lineage tracking, it's essential to capture metadata from all processes involving data transformation and transfer.
+> **[1:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=72)** To achieve precise lineage tracking, it's essential to capture metadata from all processes involving [[Data Transformation]] and transfer.
 >
 > **[1:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/best-practices-for-data-lineage-tracking?u=76281980&t=80)** This metadata provides critical context, helping to reconstruct an accurate history of data movement.
 >
@@ -1439,13 +1421,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Metadata]] (7), [[Automation]] (1), ai (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (7), [[Data Lineage]] (4), [[Data Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lineage tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980)
+#### [Data lineage tools](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=5)** However, if you're looking for specific tools for the purposes of lineage tracking, those are the ones that we'll discuss in this movie.
 >
-> **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=12)** Let's first discuss the generations of data lineage platforms, which started off with basic version control.
+> **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=12)** Let's first discuss the generations of [[Data Lineage]] platforms, which started off with basic [[Version Control]].
 >
 > **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=19)** The first generation of version control systems involved manual version tracking.
 >
@@ -1473,42 +1454,41 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=66)** The third generation improved upon the shortcomings of the previous generation and allowed developers worldwide to collaborate on the same code base.
 >
-> **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=75)** It introduced improving merging mechanisms, enabling teams to integrate changes even after committing, facilitating scalability and driving the growth of open source development.
+> **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=75)** It introduced improving merging mechanisms, enabling teams to integrate changes even after committing, facilitating [[Scalability]] and driving the growth of open source development.
 >
 > **[1:25](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=85)** And it's the last generation of version control mechanisms that have data lineage integration built-in.
 >
 > **[1:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=92)** This extends version control beyond code to the entire AI and data pipeline, integrating with platforms like Pachyderm.
 >
-> **[1:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=99)** These systems track all components involved in production, including cloud infrastructure, storage, data versions and algorithms, ensuring end-to-end traceability while maintaining immutability.
+> **[1:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=99)** These systems track all components involved in production, including [[Cloud Infrastructure]], storage, data versions and [[Algorithms]], ensuring end-to-end traceability while maintaining immutability.
 >
 > **[1:51](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=111)** Here are some tools that can be used to track your data.
 >
 > **[1:55](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=115)** The Talend Data Catalog access a central hub for understanding your data's journey, automatically finding, organizing, and securing information about how your data is processed from various sources.
 >
-> **[2:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=127)** IBM Data Storage is designed for AI development, and the platform provides a comprehensive data management solution combining analytics, cloud capabilities, governance, and data ops within a containerized environment to ensure high quality data.
+> **[2:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=127)** IBM [[Data Storage]] is designed for AI development, and the platform provides a comprehensive [[Data Management]] solution combining analytics, cloud capabilities, governance, and data ops within a containerized environment to ensure high quality data.
 >
-> **[2:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=143)** The Datameer platform simplifies data pipeline creation with a visual no-code interface fostering collaboration among data teams for data discovery, modeling, and transfer while offering a strong user experience and technical support.
+> **[2:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=143)** The Datameer platform simplifies data pipeline creation with a visual no-code interface fostering collaboration among data teams for data discovery, modeling, and transfer while offering a strong [[User Experience (UX)|user experience]] and [[Technical Support]].
 >
 > **[2:37](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-tools?u=76281980&t=157)** [neptune.ai](https://neptune.ai) is an experiment tracking tool that emphasizes collaboration and scalability, enabling users to monitor extensive model training, manage large data sets, and quickly compare metrics with easy integration into existing machine learning workflows and flexible data structure definitions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Version Control]] (5), teams (5), ai (3), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Version Control]] (5), [[Data Lineage]] (2), [[Scalability]] (2), [[Cloud Infrastructure]] (1), [[Algorithms]] (1)
 > **URLs:** [neptune.ai](https://neptune.ai) (1)
 > **Env Vars:** ibm (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data lineage in Microsoft Fabric
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980)
+#### [Data lineage in Microsoft Fabric](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=1)** - [Narrator] In this demo, we'll get a quick taste of how data lineage works in Microsoft Fabric.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=1)** - [Narrator] In this demo, we'll get a quick taste of how [[Data Lineage]] works in [[Microsoft]] Fabric.
 >
 > **[0:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=5)** We'll see how Fabric tracks data as it moves through different systems, processes, and transformations.
 >
-> **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=12)** Microsoft Fabric is an all-in-one data and analytics platform that integrates various data services including data engineering, data science, realtime analytics, and business intelligence.
+> **[0:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=12)** Microsoft Fabric is an all-in-one data and analytics platform that integrates various data services including [[Data Engineering]], [[Data Science]], realtime analytics, and [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=24)** Here, I'm logged in with my Microsoft Fabric free trial account at app.fabric.[microsoft.com](https://microsoft.com).
 >
@@ -1518,9 +1498,9 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=45)** Within this workspace, I've clicked on New Item, and I'm going to create a data lakehouse.
 >
-> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=50)** A data lakehouse is a unified platform for data storage, processing, and analytics that combines the best features of data lakes and data warehouses.
+> **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=50)** A data lakehouse is a unified platform for [[Data Storage]], processing, and analytics that combines the best features of [[Data Lakes]] and data warehouses.
 >
-> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=60)** Data lakehouses can be used to store raw, structured, semi-structured, and unstructured data.
+> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=60)** Data lakehouses can be used to store raw, structured, semi-structured, and [[Unstructured Data]].
 >
 > **[1:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=67)** Here, my new lakehouse is called LooneyLineageLakehouse, and I'm going to upload some raw data in a file format to this lakehouse and then create a lakehouse table.
 >
@@ -1538,7 +1518,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=115)** Data in a lakehouse is typically stored in tables called Delta tables, and you can load the CSV data into a new table right here by clicking on the three dots.
 >
-> **[2:06](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=126)** Delta tables are a type of table in Delta Lake, which is an open-source storage layer that enhances Apache Spark and datalakes with ACID transactions.
+> **[2:06](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=126)** Delta tables are a type of table in Delta Lake, which is an open-source storage layer that enhances [[Apache Spark]] and datalakes with ACID transactions.
 >
 > **[2:17](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=137)** I load the contents of this file into a new table called car_data.
 >
@@ -1560,7 +1540,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=180)** The original data was loaded into a file and able in the lakehouse.
 >
-> **[3:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=185)** Every lakehouse in Microsoft Fabric exposes a SQL Analytics endpoint, which can be used to run SQL queries on that data.
+> **[3:05](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=185)** Every lakehouse in Microsoft Fabric exposes a [[SQL]] Analytics endpoint, which can be used to run SQL queries on that data.
 >
 > **[3:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=192)** Every lakehouse has a default semantic model.
 >
@@ -1584,7 +1564,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=246)** This code runs on the Apache Spark cluster available in Microsoft Fabric that the notebook is automatically connected to.
 >
-> **[4:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=252)** Apache Spark is an open source distributed computing framework designed for fast and scalable big data processing.
+> **[4:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=252)** Apache Spark is an open source distributed computing framework designed for fast and scalable [[Big Data]] processing.
 >
 > **[4:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=260)** This data will be loaded into df.
 >
@@ -1608,7 +1588,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=316)** If you click on the little icon on the LoonyLineageLakehouse, this will show you all of the child items that depend on or are connected to this lakehouse and all of the downstream items that will be impacted if there are changes to the data in this lakehouse.
 >
-> **[5:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=332)** I'll now head over to the LoonyLineageLakehouse, and I'm going to build a Power BI report using the data here in this lakehouse.
+> **[5:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=332)** I'll now head over to the LoonyLineageLakehouse, and I'm going to build a [[Microsoft Power BI|Power BI]] report using the data here in this lakehouse.
 >
 > **[5:41](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/data-lineage-in-microsoft-fabric?u=76281980&t=341)** For that, I'll first access the SQL analytics endpoint that allows us to query data using SQL, and here, in the reporting tab, there is an option to create a new Power BI report right here within the Microsoft Fabric portal.
 >
@@ -1636,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), [[Microsoft]] (10), [[Analytics]] (6), power (6), bi (6)
+> **Frameworks & Libraries:** [[Microsoft]] (10), [[Microsoft Power BI|Power bi]] (6), [[SQL]] (5), [[Apache Spark]] (4), [[Data Lineage]] (1)
 > **Code Identifiers:** car_data (9)
 > **Env Vars:** sql (5), csv (2), acid (1)
 > **Definitions:** is an  (4), is a  (3), is called (1)
@@ -1650,8 +1630,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Issues with data: Processing and schema management
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980)
+#### [Issues with data: Processing and schema management](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1661,7 +1640,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=16)** Now, these issues may occur in various phases or stages.
 >
-> **[0:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=21)** These issues can be due to data processing.
+> **[0:21](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=21)** These issues can be due to [[Data Processing]].
 >
 > **[0:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=24)** These issues can be due to the schema of your data.
 >
@@ -1679,7 +1658,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=61)** Gaps in collected data can be due to sensor failures, user input errors, or incomplete logs, and these impact model accuracy and require the use of data imputation strategies.
 >
-> **[1:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=74)** Data pipelines often ingest the same records multiple times, leading to duplicate and redundant records.
+> **[1:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=74)** [[Data Pipelines]] often ingest the same records multiple times, leading to duplicate and redundant records.
 >
 > **[1:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=82)** This leads to versioning inefficiencies and incorrect model training.
 >
@@ -1691,13 +1670,13 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=103)** And finally, another potential issue is data drift from source changes.
 >
-> **[1:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=108)** Shifts in data collection methods, for example, changes in the survey questions that you ask, or the new logging systems that you set up, introduce inconsistencies that affect model performance over time.
+> **[1:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=108)** Shifts in [[Data Collection]] methods, for example, changes in the survey questions that you ask, or the new logging systems that you set up, introduce inconsistencies that affect model performance over time.
 >
 > **[2:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=120)** Here are some best practices to keep in mind while processing your data.
 >
-> **[2:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=124)** Make sure you implement data cleaning techniques to identify and correct errors, inconsistencies, and missing values, and make sure your data processing operations are all automated.
+> **[2:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=124)** Make sure you implement [[Data Cleaning]] techniques to identify and correct errors, inconsistencies, and missing values, and make sure your data processing operations are all automated.
 >
-> **[2:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=136)** As you process data in a pipeline, make sure you implement data validation rules and checks during the data collection process itself to prevent errors and inconsistencies from occurring in the first place.
+> **[2:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=136)** As you process data in a pipeline, make sure you implement [[Data Validation]] rules and checks during the data collection process itself to prevent errors and inconsistencies from occurring in the first place.
 >
 > **[2:28](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=148)** This can include using input validation masks, range text, and other consistency checks that make sense.
 >
@@ -1707,7 +1686,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=167)** The data that you collect from source systems may not be sufficient for the purposes of your analysis, so make sure you augment datasets with synthetic data wherever feasible.
 >
-> **[2:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=177)** And of course, don't forget to implement a system for tracking and versioning data, including metadata about the data collection process, data sources, and any changes that you made to the data.
+> **[2:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=177)** And of course, don't forget to implement a system for tracking and versioning data, including [[Metadata]] about the data collection process, data sources, and any changes that you made to the data.
 >
 > **[3:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=188)** This can help ensure reproducibility and enable comparison of results across different versions of data.
 >
@@ -1737,13 +1716,13 @@ created: 2026-05-02
 >
 > **[4:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=251)** Use schemas to automate quality monitoring.
 >
-> **[4:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=254)** This enables a real-time validation checks to detect schema drift, unexpected values, or format mismatches.
+> **[4:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=254)** This enables a [[Real-Time]] validation checks to detect schema drift, unexpected values, or format mismatches.
 >
-> **[4:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=263)** A schema can help you enforce data governance.
+> **[4:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=263)** A schema can help you enforce [[Data Governance]].
 >
 > **[4:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=266)** It helps you track changes to the data structure and maintain a consistent definition of your data.
 >
-> **[4:31](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=271)** Schemas provide a clear framework for managing and controlling your data assets, crucial for compliance with regulations, like GDPR, and ensuring data quality over time.
+> **[4:31](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=271)** Schemas provide a clear framework for managing and controlling your data assets, crucial for compliance with regulations, like GDPR, and ensuring [[Data Quality]] over time.
 >
 > **[4:41](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-processing-and-schema-management?u=76281980&t=281)** If you mismanage your data schema definition, this can lead to a lot of issues.
 >
@@ -1767,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (51), [[Metadata]] (1), [[Real-Time]] (1), ai (1), feature (1)
+> **Frameworks & Libraries:** [[Data Processing]] (4), [[Data Collection]] (3), [[Data Validation]] (2), [[Data Pipelines]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (7)
 > **Analogies:** for example (4), such as (1)
 > **Env Vars:** gdpr (1)
@@ -1776,16 +1755,15 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issues with data: Data loss and bias
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980)
+#### [Issues with data: Data loss and bias](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=1)** - [Instructor] To continue our discussion of potential issues with data quality, let's talk about data loss.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=1)** - [Instructor] To continue our discussion of potential issues with [[Data Quality]], let's talk about data loss.
 >
 > **[0:07](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=7)** Data loss is the unintentional or accidental deletion, corruption, or unavailability of data.
 >
-> **[0:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=14)** This can include the loss of raw data, processed data, or metadata associated with data.
+> **[0:14](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=14)** This can include the loss of raw data, processed data, or [[Metadata]] associated with data.
 >
 > **[0:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=20)** Now, what are the ways in which data loss occurs?
 >
@@ -1793,15 +1771,15 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=26)** Human errors, misconfigured scripts, or unintended overrides can remove important datasets without recovery options.
 >
-> **[0:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=33)** Hardware crashes, disk failures, or cloud storage issues count here as well.
+> **[0:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=33)** [[Hardware]] crashes, disk failures, or [[Cloud Storage]] issues count here as well.
 >
-> **[0:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=38)** Errors in software used for data storage, processing, or transfer can cause data corruption or loss.
+> **[0:38](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=38)** Errors in software used for [[Data Storage]], processing, or transfer can cause data corruption or loss.
 >
 > **[0:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=44)** Cyberattacks or other malicious attacks, like ransomware or data breaches, can result in data deletion or encryption, effectively making the data lost.
 >
 > **[0:57](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=57)** If you have untracked schema changes, that's another source of data loss.
 >
-> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=62)** Dropping or modifying columns without version control can result in permanent loss of historical data or feature information.
+> **[1:02](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=62)** Dropping or modifying columns without [[Version Control]] can result in permanent loss of historical data or feature information.
 >
 > **[1:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=70)** Data loss can occur because of poor versioning and backup strategies.
 >
@@ -1815,7 +1793,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=102)** Implement robust data versioning mechanisms.
 >
-> **[1:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=105)** Use version control systems such as DVC, lakeFS, Delta Lake, or Snowflake Time Travel to track and recover dataset changes.
+> **[1:45](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=105)** Use version control systems such as DVC, lakeFS, Delta Lake, or [[Snowflake]] Time Travel to track and recover dataset changes.
 >
 > **[1:53](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=113)** Make sure you automate your data backups.
 >
@@ -1849,17 +1827,17 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=222)** For example, if a survey question is phrased in a leading manner, this can influence the responses.
 >
-> **[3:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=228)** Now, if you have human-annotated datasets, that is, where humans have attached labels to your data, this may contain subjective or inconsistent labels, introducing bias into supervised learning models, such as regression or classification.
+> **[3:48](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=228)** Now, if you have human-annotated datasets, that is, where humans have attached labels to your data, this may contain subjective or inconsistent labels, introducing bias into [[Supervised Learning]] models, such as regression or classification.
 >
 > **[4:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=244)** Bias can arise from the interaction between the model and its users.
 >
-> **[4:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=248)** For example, if a model is used to recommend products, and users from certain demographics tend to click on different types of products, the model might reinforce existing stereotypes by recommending similar products to those users in the future.
+> **[4:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=248)** For example, if a model is used to recommend [[Microsoft Products|products]], and users from certain demographics tend to click on different types of products, the model might reinforce existing stereotypes by recommending similar products to those users in the future.
 >
 > **[4:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=263)** It's also possible for your data to be unbiased but the algorithm to introduce bias in your models.
 >
 > **[4:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=270)** This can happen due to the way the algorithm is designed or the choices made in its implementation.
 >
-> **[4:35](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=275)** For example, some algorithms might be more sensitive to certain features than others.
+> **[4:35](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=275)** For example, some [[Algorithms]] might be more sensitive to certain features than others.
 >
 > **[4:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-data-data-loss-and-bias?u=76281980&t=280)** Biased data can lead to a variety of problems.
 >
@@ -1877,7 +1855,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (44), [[Microsoft Products|Products]] (3), [[Version Control]] (2), management (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Data Quality]] (2), [[Data Storage]] (2), [[Version Control]] (2), [[Metadata]] (1)
 > **Analogies:** for example (6), such as (2)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** lakefs (1)
@@ -1886,12 +1864,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issues with models
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980)
+#### [Issues with models](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=1)** - [Instructor] Just like you need data quality monitoring to track potential issues with data, you need model quality monitoring to track potential issues with models.
+> **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=1)** - [Instructor] Just like you need [[Data Quality]] monitoring to track potential issues with data, you need model quality monitoring to track potential issues with models.
 >
 > **[0:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=10)** Here are some broad categories of model issues that you may need to deal with.
 >
@@ -1899,7 +1876,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=23)** Problems may be inherent to the model's design and training process such as over-fitting, under-fitting, and interpretability; these are model-specific issues.
 >
-> **[0:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=33)** You may also encounter difficulties during the deployment and maintenance of models, and this can include scalability, monitoring, and adaptation to changing data distributions.
+> **[0:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=33)** You may also encounter difficulties during the deployment and maintenance of models, and this can include [[Scalability]], monitoring, and adaptation to changing data distributions.
 >
 > **[0:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=44)** Each of these is worth discussing in more detail.
 >
@@ -1913,9 +1890,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=76)** This can cause models to perform poorly if they're not retrained on updated data.
 >
-> **[1:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=82)** Gaps or errors in data can reduce model effectiveness, requiring imputation or data cleaning techniques.
+> **[1:22](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=82)** Gaps or errors in data can reduce model effectiveness, requiring imputation or [[Data Cleaning]] techniques.
 >
-> **[1:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=90)** You often tend to use feature engineering to improve your model's predictions, however, poorly selected or irrelevant features can limit model accuracy and generalizability.
+> **[1:30](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=90)** You often tend to use [[Feature Engineering]] to improve your model's predictions, however, poorly selected or irrelevant features can limit model accuracy and generalizability.
 >
 > **[1:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=102)** Even if your data is just fine, you may have to deal with model specific issues.
 >
@@ -1933,7 +1910,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=152)** Models tend to decay or become less effective as real world conditions evolve, requiring retraining or adaptation.
 >
-> **[2:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=160)** Very powerful models often tend to be complex, such as deep learning models, and they act as black boxes, which makes it difficult to understand how exactly the model arrived at a decision or a prediction.
+> **[2:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=160)** Very powerful models often tend to be complex, such as [[Deep Learning]] models, and they act as black boxes, which makes it difficult to understand how exactly the model arrived at a decision or a prediction.
 >
 > **[2:54](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=174)** Model performance depends heavily on tuning parameters like learning rate, regularization, and architecture choices.
 >
@@ -1947,9 +1924,9 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=209)** Models may struggle with scalability.
 >
-> **[3:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=212)** They may struggle to handle large volumes of real-time requests or growing data sets efficiently.
+> **[3:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=212)** They may struggle to handle large volumes of [[Real-Time]] requests or growing data sets efficiently.
 >
-> **[3:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=219)** Continuous monitoring of models is essential.
+> **[3:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=219)** [[Continuous Monitoring]] of models is essential.
 >
 > **[3:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=222)** This is required to detect data drift, concept drift, and the degradation of your model over time.
 >
@@ -1959,44 +1936,43 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=248)** Keeping models up to date with evolving data distributions requires automated pipelines for retraining and redeployment.
 >
-> **[4:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=256)** Models today tend to be very large and complex, and these models demand high computational power, increasing cost of cloud infrastructure and inference operations.
+> **[4:16](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=256)** Models today tend to be very large and complex, and these models demand high computational power, increasing cost of [[Cloud Infrastructure]] and inference operations.
 >
-> **[4:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=267)** Resource and cost management might become a challenge.
+> **[4:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/issues-with-models?u=76281980&t=267)** Resource and [[Cost Management]] might become a challenge.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), [[Scalability]] (2), [[Feature Engineering]] (1), [[Deep Learning]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (2), [[Scalability]] (2), [[Data Cleaning]] (1), [[Feature Engineering]] (1), [[Deep Learning]] (1)
 > **Analogies:** such as (2), just like (1), for example (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of quality monitoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980)
+#### [Importance of quality monitoring](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=1)** - [Presenter] Now that we know the potential issues that can occur with data and our models, let's talk about the importance of quality monitoring.
 >
-> **[0:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=9)** In the context of data and models, quality monitoring refers to the continuous assessment and validation of data integrity and model performance to ensure accuracy, consistency, and reliability in outputs.
+> **[0:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=9)** In the context of data and models, quality monitoring refers to the continuous assessment and validation of [[Data Integrity]] and model performance to ensure accuracy, consistency, and reliability in outputs.
 >
 > **[0:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=23)** There are various components to quality monitoring.
 >
 > **[0:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=26)** The first is data profiling, which is the process of analyzing data sources to understand their structure, content, and quality characteristics.
 >
-> **[0:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=34)** Data profiling helps you identify anomalies, inconsistencies, and patterns within the data, serving as a foundation for subsequent quality assurance measures.
+> **[0:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=34)** Data profiling helps you identify anomalies, inconsistencies, and patterns within the data, serving as a foundation for subsequent [[Quality Assurance]] measures.
 >
-> **[0:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=44)** Next, we have data validation: the practice of verifying that data meets predefined rules and constraints to ensure its accuracy and consistency.
+> **[0:44](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=44)** Next, we have [[Data Validation]]: the practice of verifying that data meets predefined rules and constraints to ensure its accuracy and consistency.
 >
 > **[0:54](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=54)** This helps ensure that data aligns with business requirements and standards preventing erroneous data from influencing analysis and decisions.
 >
-> **[1:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=64)** Continuous monitoring is the ongoing process of tracking data and model performance to detect and address quality issues in real time.
+> **[1:04](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=64)** [[Continuous Monitoring]] is the ongoing process of tracking data and model performance to detect and address quality issues in real time.
 >
 > **[1:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=73)** This maintains the reliability and relevance of both data and models by promptly identifying deviations or drifts that can impact outcomes.
 >
-> **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=83)** And finally, we have data governance, a framework of policies, procedures, and standards that oversee the management and quality of data issues.
+> **[1:23](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=83)** And finally, we have [[Data Governance]], a framework of policies, procedures, and standards that oversee the management and quality of data issues.
 >
-> **[1:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=93)** Data governance is what you use to establish accountability and ensure compliance with regulatory and organizational standards.
+> **[1:33](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=93)** Data governance is what you use to establish [[Accountability]] and ensure compliance with regulatory and organizational standards.
 >
 > **[1:42](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=102)** Data profiling is all about understanding and knowing your data.
 >
@@ -2004,7 +1980,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=109)** You'll analyze the schema, data types, and distributions to detect inconsistencies and anomalies in datasets.
 >
-> **[1:56](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=116)** Data profiling helps identify data quality issues.
+> **[1:56](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=116)** Data profiling helps identify [[Data Quality]] issues.
 >
 > **[2:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=120)** You'll use this to detect missing values, duplicate records, and outliers that could impact the performance of your model.
 >
@@ -2054,19 +2030,19 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=272)** Maintaining transparency by tracking how model inputs and outputs evolve is important in building the trust of your customers and users in the predictions of your models.
 >
-> **[4:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=283)** Monitor all kinds of details for your models, feature distributions, performance strengths, so that you can proactively address any issues before they impact decision-making.
+> **[4:43](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=283)** Monitor all kinds of details for your models, feature distributions, performance strengths, so that you can proactively address any issues before they impact [[Decision-Making]].
 >
 > **[4:54](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=294)** An important aspect of quality monitoring is data governance.
 >
 > **[4:58](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=298)** This is where you establish your data policies.
 >
-> **[5:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=300)** You'll define standards for data management, security, and usage to ensure consistency across the organization.
+> **[5:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=300)** You'll define standards for [[Data Management]], security, and usage to ensure consistency across the organization.
 >
 > **[5:08](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=308)** Make sure you implement the right access controls on your data.
 >
 > **[5:11](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=311)** This is what you'll use to regulate who can access, modify, or share data to maintain confidentiality and integrity.
 >
-> **[5:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=320)** And we've spoken about this a lot: Maintain data lineage.
+> **[5:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=320)** And we've spoken about this a lot: Maintain [[Data Lineage]].
 >
 > **[5:24](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/importance-of-quality-monitoring?u=76281980&t=324)** Track the origin transformations and movements of data to ensure traceability and accountability for your analysis.
 >
@@ -2076,15 +2052,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (54), business (2), management (2), [[Accountability]] (2), feature (2)
+> **Frameworks & Libraries:** [[Data Validation]] (3), [[Data Governance]] (3), [[Accountability]] (2), [[Data Integrity]] (1), [[Quality Assurance]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [presenter] (1)
 
-#### Metrics to track data and model quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980)
+#### [Metrics to track data and model quality](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,15 +2089,15 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=59)** And then of course, monitor system health and operational metrics.
 >
-> **[1:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=63)** Monitor resource usage, uptime of your model, and throughput to ensure model availability, scalability, and efficient system performance.
+> **[1:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=63)** Monitor resource usage, uptime of your model, and throughput to ensure model availability, [[Scalability]], and efficient system performance.
 >
 > **[1:13](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=73)** When monitoring your AI models, there are three broad categories of metrics that you should track.
 >
-> **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=78)** The first is data quality metrics.
+> **[1:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=78)** The first is [[Data Quality]] metrics.
 >
 > **[1:20](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=80)** This is what you'll use to assess the condition of data to ensure it's accurate, complete, consistent, and reliable.
 >
-> **[1:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=86)** You'll also track your model performance metrics to evaluate the effectiveness and efficiency of your predictive models.
+> **[1:26](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=86)** You'll also track your model [[Performance Metrics]] to evaluate the effectiveness and efficiency of your predictive models.
 >
 > **[1:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=94)** And finally, you'll track operational metrics to monitor the practical aspects of data and model workflows to ensure smooth and efficient operations.
 >
@@ -2134,7 +2109,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=123)** Consistency checks for uniformity of data across different data sets and systems.
 >
-> **[2:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=129)** Timeliness is especially important for real-time systems.
+> **[2:09](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=129)** Timeliness is especially important for [[Real-Time]] systems.
 >
 > **[2:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=132)** This assesses whether your data is up to date and available when needed.
 >
@@ -2158,7 +2133,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=214)** And then we have operational metrics that are common across all kinds of models.
 >
-> **[3:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=219)** Here you might want to track the data processing time, the time taken to collect, clean, and prepare your data for analysis.
+> **[3:39](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=219)** Here you might want to track the [[Data Processing]] time, the time taken to collect, clean, and prepare your data for analysis.
 >
 > **[3:47](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=227)** You have the model training time that measures the duration required to train a model on a given data set.
 >
@@ -2168,11 +2143,11 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=252)** System uptime monitors the availability and reliability of data and modeling systems.
 >
-> **[4:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=258)** And finally, incident response time evaluates the speed at which issues or anomalies are detected and resolved within the data pipeline or the modeling process.
+> **[4:18](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/metrics-to-track-data-and-model-quality?u=76281980&t=258)** And finally, [[Incident Response]] time evaluates the speed at which issues or anomalies are detected and resolved within the data pipeline or the modeling process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Scalability]] (2), api (1), feature (1), ai (1)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Data Quality]] (2), [[Performance Metrics]] (1), [[Real-Time]] (1), [[Data Processing]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** api (1), qps (1)
 > **Analogies:** such as (1)
@@ -2184,8 +2159,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary and further study
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980)
+#### [Summary and further study](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2195,17 +2169,17 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=10)** We started off by discussing the importance of data and model versioning, and we discussed tools, techniques, and use cases of versioning.
 >
-> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=19)** We also performed hands-on implementation of data versioning using DVC, or data version control.
+> **[0:19](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=19)** We also performed hands-on implementation of data versioning using DVC, or data [[Version Control]].
 >
-> **[0:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=27)** We then moved on to discussing data lineage tracking, which involved visualizing the flow or movement of data from its origin to its final destination, along with all the transformations along the way.
+> **[0:27](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=27)** We then moved on to discussing [[Data Lineage]] tracking, which involved visualizing the flow or movement of data from its origin to its final destination, along with all the transformations along the way.
 >
-> **[0:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=40)** We got some hands-on experience here viewing how Microsoft Fabric tracks data lineage.
+> **[0:40](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=40)** We got some hands-on experience here viewing how [[Microsoft]] Fabric tracks data lineage.
 >
 > **[0:46](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=46)** And, finally, we moved on to quality monitoring for data and models.
 >
 > **[0:50](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=50)** We discussed potential issues that could arise with data and models in the AI workflow, and what you should be tracking and monitoring to mitigate these issues.
 >
-> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=60)** If you're interested in AI systems and workflows, here are some other courses on LinkedIn Learning that you might find interesting, [[MLOps and Data Pipeline Orchestration for AI Systems]] and [[Secure Data Management for AI Implementation]].
+> **[1:00](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=60)** If you're interested in AI systems and workflows, here are some other courses on [[LinkedIn]] Learning that you might find interesting, [[[[MLOps]] and Data Pipeline Orchestration for AI Systems]] and [[Secure [[Data Management]] for AI Implementation]].
 >
 > **[1:15](https://www.linkedin.com/learning/data-versioning-lineage-and-quality-monitoring-for-ai/summary-and-further-study?u=76281980&t=75)** Well, that's it from me here to today.
 >
@@ -2215,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), ai (5), [[Version Control]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Data Lineage]] (2), [[Version Control]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), [[MLOps]] (1)
 > **Cross-References:** we discussed (2), we covered (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** dvc (1)

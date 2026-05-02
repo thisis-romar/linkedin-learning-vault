@@ -102,8 +102,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Boost your MPLS skill set with traffic engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980)
+#### [Boost your MPLS skill set with traffic engineering](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,7 +112,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980&t=9)** And learning this can lead to great job in tech.
 >
-> **[0:14](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980&t=14)** MPLS traffic engineering helps data move faster and safer on networks.
+> **[0:14](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980&t=14)** [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] helps data move faster and safer on networks.
 >
 > **[0:20](https://www.linkedin.com/learning/mpls-traffic-engineering/boost-your-mpls-skillset-with-traffic-engineering?u=76281980&t=20)** I will teach you how to make data move smoothly and safely through networks, getting you ready for jobs in tech, where these skills are really valuable.
 >
@@ -125,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Traffic Engineering]] (2), traffic (1), career (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (2), [[Traffic Engineering]] (2)
 > **Env Vars:** mpls (2)
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
@@ -136,12 +135,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Traffic engineering introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980)
+#### [Traffic engineering introduction](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=0)** - [Instructor] Traffic engineering is the design and execution of processes that manage and control traffic flows across a network.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=0)** - [Instructor] [[Traffic Engineering]] is the design and execution of processes that manage and control traffic flows across a network.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=11)** The goal is to ensure high performance and reliability for data transfers with minimal data loss and delay.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=73)** Ensure that high priority data like live broadcasts get the bandwidth they need, and balance the load across multiple servers to prevent any single server from becoming overwhelmed.
 >
-> **[1:28](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=88)** By using these techniques, traffic engineering ensures that data travels efficiently, reducing delays, and improving the overall user experience.
+> **[1:28](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=88)** By using these techniques, traffic engineering ensures that data travels efficiently, reducing delays, and improving the overall [[User Experience (UX)|user experience]].
 >
 > **[1:42](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=102)** In this setup with five routers, OSPF as Interior Gateway Protocol, determines that the top path, which offers 10 megabit per second of bandwidth, is the optimal route for transmitting traffic from R1 to R5.
 >
@@ -191,13 +189,13 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=264)** Efficient resource utilization by maximizes the use of available network resources, reducing the need for additional infrastructure investments.
 >
-> **[4:36](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=276)** In the next video, I will introduce MPLS Traffic Engineering and explain how it works.
+> **[4:36](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=276)** In the next video, I will introduce [[Multiprotocol Label Switching (MPLS)|MPLS]] Traffic Engineering and explain how it works.
 >
 > **[4:43](https://www.linkedin.com/learning/mpls-traffic-engineering/traffic-engineering-introduction?u=76281980&t=283)** Stay tuned.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (11), [[Traffic Engineering]] (9), data (9), [[User Experience (UX)|User experience]] (1), next (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (9), [[User Experience (UX)|User experience]] (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** ospf (5), mpls (1)
 > **Definitions:** means that (1), is an  (1)
 > **Analogies:** imagine (1), for instance (1)
@@ -206,18 +204,17 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS Traffic Engineering (TE) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980)
+#### [MPLS Traffic Engineering (TE) overview](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=0)** - [Instructor] In this video, I intend to explain how MPLS traffic engineering or TE works.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=0)** - [Instructor] In this video, I intend to explain how [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] or TE works.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=8)** Consider this scenario consisting of five routers.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=12)** This scenario uses the OSPF protocol.
 >
-> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=16)** In MPLST a link state IGP protocol which can be OSPF or IS-IS is used for routing.
+> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=16)** In MPLST a link state IGP protocol which can be OSPF or IS-IS is used for [[Routing]].
 >
 > **[0:25](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-traffic-engineering-te-overview?u=76281980&t=25)** The OSPF and IS-IS protocols use the SPF algorithm for routing.
 >
@@ -279,7 +276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Routing]] (5), [[Traffic Engineering]] (4), data (3), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Traffic Engineering]] (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (2)
 > **Env Vars:** ospf (6), lfib (4), igp (3), rsvp (3), mpls (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
@@ -289,12 +286,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Routing protocol requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980)
+#### [Routing protocol requirements](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980&t=0)** - [Instructor] In this video, we aim to explain the essential routing protocol requirements for MPLS Traffic Engineering or MPLS-TE, and provide a clear understanding of the Constrained Shortest Path First or CSPF algorithm's role in optimizing path selection.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980&t=0)** - [Instructor] In this video, we aim to explain the essential [[Routing]] protocol requirements for [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] or MPLS-TE, and provide a clear understanding of the Constrained Shortest Path First or CSPF algorithm's role in optimizing path selection.
 >
 > **[0:22](https://www.linkedin.com/learning/mpls-traffic-engineering/routing-protocol-requirement?u=76281980&t=22)** The application of MPLS Traffic Engineering or MPLS-TE with the Link State Interior Gateway Protocol like IS-IS or OSPF is essential.
 >
@@ -344,7 +340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Traffic Engineering]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), database (2), next (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Routing]] (1)
 > **Env Vars:** mpls (11), ospf (11), cspf (4), lsa (1), spf (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
@@ -352,8 +348,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resource Reservation Protocol with TE extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980)
+#### [Resource Reservation Protocol with TE extension](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,9 +368,9 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=76)** This reservation ensures that the path can support the traffic without congestion.
 >
-> **[1:22](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=82)** RSVP-TE allows explicit routing where the exact path through the network is specified.
+> **[1:22](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=82)** RSVP-TE allows explicit [[Routing]] where the exact path through the network is specified.
 >
-> **[1:30](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=90)** This capability is useful for traffic engineering, enabling network operators to optimize the utilization of network resources.
+> **[1:30](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=90)** This capability is useful for [[Traffic Engineering]], enabling network operators to optimize the utilization of network resources.
 >
 > **[1:41](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=101)** RSVP-TE works with Constrained Shortest Path First, or CSVF, to compute paths that satisfy the required constraints.
 >
@@ -395,22 +390,21 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=170)** If any change occur, such as link failures, RSVP-TE can reestablish the path or find an alternate route.
 >
-> **[3:00](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=180)** In future videos, I will cover configuring RSVP-TE for MPLS traffic engineering.
+> **[3:00](https://www.linkedin.com/learning/mpls-traffic-engineering/resource-reservation-protocol-with-te-extension?u=76281980&t=180)** In future videos, I will cover configuring RSVP-TE for [[Multiprotocol Label Switching (MPLS)|MPLS]] traffic engineering.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), [[Traffic Engineering]] (2), [[Routing]] (1), next (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
+> **Frameworks & Libraries:** [[Traffic Engineering]] (2), [[Routing]] (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
 > **Env Vars:** rsvp (11), lsr (1), csvf (1), lsp (1), mpls (1)
 > **Analogies:** such as (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### RSVP messages
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980)
+#### [RSVP messages](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=0)** - [Instructor] In this video, we will explore the essential RSVP message that play a critical role in establishing and maintaining MPLS-TE tunnels.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=0)** - [Instructor] In this video, we will explore the essential RSVP message that play a critical role in establishing and maintaining [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE tunnels.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=11)** This message include RSVP PATH, RSVP RESV, RSVP PathTear, RSVP ResvTear, RSVP PathErr, and RSVP ResvErr.
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=197)** By understanding these RSVP messages, you can effectively manage MPLS-TE tunnels, ensuring efficient resource allocation and robust error handling.
 >
-> **[3:29](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=209)** These messages are fundamental to the dynamic and resilient nature of MPLS traffic engineering.
+> **[3:29](https://www.linkedin.com/learning/mpls-traffic-engineering/rsvp-messages?u=76281980&t=209)** These messages are fundamental to the dynamic and resilient nature of MPLS [[Traffic Engineering]].
 
 > [!info]- Semantic Content
 >
@@ -466,16 +460,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPLS TE generic configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980)
+#### [MPLS TE generic configuration](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=0)** - [Instructor] In this video, we will begin with the first step of MPLS-TE configuration.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=0)** - [Instructor] In this video, we will begin with the first step of [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE configuration.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=7)** The initial step involves configuring MPLS-TE capability universally across our network and routers.
 >
-> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=16)** Moving forward, we will delve into additional steps and explore various aspects of MPLS Traffic Engineering in upcoming videos.
+> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=16)** Moving forward, we will delve into additional steps and explore various aspects of MPLS [[Traffic Engineering]] in upcoming videos.
 >
 > **[0:28](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=28)** First, we should enable MPLS Traffic Engineering globally using the mpls traffic-eng tunnels global command.
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=161)** This configures R5 to enable CEF, sets the MPLS label range from 500 to 599, and enables MPLS Traffic Engineering tunnels.
 >
-> **[2:53](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=173)** Next, we need to enable MPLS-TE capability within our routing protocol.
+> **[2:53](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=173)** Next, we need to enable MPLS-TE capability within our [[Routing]] protocol.
 >
 > **[3:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-generic-configuration?u=76281980&t=180)** This is essential for integrating traffic engineering features with our routing processes.
 >
@@ -555,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (50), [[Traffic Engineering]] (20), traffic (12), next (4), [[Routing]] (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (50), [[Traffic Engineering]] (20), [[Routing]] (3)
 > **Env Vars:** mpls (32), ospf (7), cef (6), rsvp (2), area (1)
 > **Prerequisites:** configure (2), setup (2)
 > **Cross-References:** in the next (1)
@@ -563,12 +556,11 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE explicit tunnel
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980)
+#### [MPLS TE explicit tunnel](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=0)** - [Instructor] MPLS-TE explicit tunnel allows network administrators to manually specify the path that traffic should take through the network, rather than relying solely on the IGP to determine the shortest path.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=0)** - [Instructor] [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE explicit tunnel allows network administrators to manually specify the path that traffic should take through the network, rather than relying solely on the IGP to determine the shortest path.
 >
 > **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=16)** This can be useful for optimizing network performance, managing bandwidth, and ensuring that specific traffic flows take preferred routes for various reasons, such as avoiding congestion or meeting specific service level agreements.
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=66)** We need to configure the tunnel interface on the tunnel head or R1.
 >
-> **[1:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=72)** Before configuring a tunnel interface in MPLS traffic engineering, it is essential to define the explicit path, using the IP explicit path identifier or IP explicit path name command.
+> **[1:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=72)** Before configuring a tunnel interface in MPLS [[Traffic Engineering]], it is essential to define the explicit path, using the IP explicit path identifier or IP explicit path name command.
 >
 > **[1:28](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=88)** Let's break down what each command is doing.
 >
@@ -606,7 +598,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=178)** The first command is to create the tunnel interface and then use the IP unnumbered loop back zero command.
 >
-> **[3:05](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=185)** The IP unnumbered loop back zero command allows the tunnel interface to borrow the IP address of the loop back zero interface, which helps in simplifying the IP addressing scheme and conserving IP addresses.
+> **[3:05](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=185)** The IP unnumbered loop back zero command allows the tunnel interface to borrow the IP address of the loop back zero interface, which helps in simplifying the [[IP Addressing]] scheme and conserving IP addresses.
 >
 > **[3:19](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=199)** The next command is the tunnel destination command, which specifies the destination IP address of the tunnel, the tunnel end, or artery.
 >
@@ -616,7 +608,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=228)** Tunnel MPLS traffic ENG path option one, explicit identifier 10.
 >
-> **[3:54](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=234)** This command specifies the explicit path that the MPLS tunnel will follow, ensuring precise routing through the network, based on the defined path identifier.
+> **[3:54](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=234)** This command specifies the explicit path that the MPLS tunnel will follow, ensuring precise [[Routing]] through the network, based on the defined path identifier.
 >
 > **[4:07](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-explicit-tunnel?u=76281980&t=247)** We have successfully completed the MPLS-TE, tunnel configuration on R1.
 >
@@ -664,7 +656,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), traffic (11), next (10), [[Traffic Engineering]] (5), [[IP Addressing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), [[Traffic Engineering]] (5), [[IP Addressing]] (1), [[Routing]] (1)
 > **Env Vars:** mpls (16), eng (4), r1t0 (2), igp (1), mpls_te (1)
 > **Versions:** 10.1.4 (5), 10.4.5 (5), 10.3.5 (4), 192.168.254 (3)
 > **Prerequisites:** configure (2)
@@ -673,16 +665,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steering traffic into an MPLS TE tunnel with static routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980)
+#### [Steering traffic into an MPLS TE tunnel with static routes](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=0)** - [Instructor] In the previous two videos, we configured an MPLS TE tunnel between R1 and R3.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=0)** - [Instructor] In the previous two videos, we configured an [[Multiprotocol Label Switching (MPLS)|MPLS]] TE tunnel between R1 and R3.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=7)** In this video, we will learn how to steer traffic into this T tunnel using a static route.
 >
-> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=16)** By default, MPLS TE tunnels are not injected into the routing table, which means no traffic is automatically sent into the T tunnel.
+> **[0:16](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=16)** By default, MPLS TE tunnels are not injected into the [[Routing]] table, which means no traffic is automatically sent into the T tunnel.
 >
 > **[0:27](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=27)** To steer traffic into an MPLS TE tunnel, you can use static routing to direct specific traffic flows through the tunnel.
 >
@@ -716,13 +707,13 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=155)** Additional configurations are needed for redundancy.
 >
-> **[2:41](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=161)** By using a static routing, you can effectively direct traffic into an MPLS TE tunnel, leveraging the benefits of traffic engineering to optimize your network's performance and resource utilization.
+> **[2:41](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=161)** By using a static routing, you can effectively direct traffic into an MPLS TE tunnel, leveraging the benefits of [[Traffic Engineering]] to optimize your network's performance and resource utilization.
 >
 > **[2:56](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-static-routes?u=76281980&t=176)** In the next video, I will explain how we can steer traffic into the MPLS TE tunnel using Policy-Based Routing or PBR.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), traffic (11), [[Routing]] (6), [[Traffic Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), [[Routing]] (6), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (10), network (1), mask (1), tunnel_id (1), pbr (1)
 > **Versions:** 10.3.0 (3), 255.255.255 (1)
 > **Prerequisites:** make sure you have (1), configure (1)
@@ -730,14 +721,13 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Steering traffic into an MPLS TE tunnel with PBR
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980)
+#### [Steering traffic into an MPLS TE tunnel with PBR](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980&t=0)** - [Instructor] In the previous video, we learned about steering traffic into an MPLS-TE tunnel using static routes.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980&t=0)** - [Instructor] In the previous video, we learned about steering traffic into an [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE tunnel using static routes.
 >
-> **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980&t=8)** In this video, we will explore how to achieve the same objective, but this time using policy-based routing or PBR.
+> **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980&t=8)** In this video, we will explore how to achieve the same objective, but this time using policy-based [[Routing]] or PBR.
 >
 > **[0:18](https://www.linkedin.com/learning/mpls-traffic-engineering/steering-traffic-into-an-mpls-te-tunnel-with-pbr?u=76281980&t=18)** PBR allows us to make routing decisions based on policies defined by the network administrator, offering a more flexible approach to directing traffic.
 >
@@ -775,19 +765,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (3), next (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (3)
 > **Env Vars:** pbr (9), mpls (8), acl (4), pbr_name (1)
 > **Versions:** 10.3.0 (3), 10.1.0 (2), 0.0.0 (2), 0.255 (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE dynamic tunnel
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980)
+#### [MPLS TE dynamic tunnel](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=0)** - [Instructor] In this video, we will learn how to configure an MPLS traffic engineering, or TE, dynamic tunnel.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=0)** - [Instructor] In this video, we will learn how to configure an [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]], or TE, dynamic tunnel.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=8)** MPLS-TE dynamic tunnels enable automatic path selection based on network conditions, which helps optimize traffic flow and improve overall network performance.
 >
@@ -809,7 +798,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=87)** Ip unnumbered loopback0, this command assigns the IP address of the loopback0 interface to the tunnel interface, tunnel 0.
 >
-> **[1:35](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=95)** Using the ip unnumbered command helps save IP addresses by borrowing the IP address from another interface, typically a loopback interface, which is commonly used in routing protocols because of its stability.
+> **[1:35](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=95)** Using the ip unnumbered command helps save IP addresses by borrowing the IP address from another interface, typically a loopback interface, which is commonly used in [[Routing Protocols]] because of its stability.
 >
 > **[1:52](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=112)** Tunnel mode mpls traffic-eng, this command sets the mode of the tunnel to MPLS traffic engineering.
 >
@@ -839,7 +828,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=252)** To check the status of an MPLS traffic engineering tunnel, you can use the command show mpls traffic-eng tunnels command.
 >
-> **[4:21](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=261)** This command provides detailed information about the configured MPLS-TE tunnels, including data status, configuration, and performance statistics.
+> **[4:21](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=261)** This command provides detailed information about the configured MPLS-TE tunnels, including data status, configuration, and performance [[Statistics]].
 >
 > **[4:33](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-dynamic-tunnel?u=76281980&t=273)** The administrative status of the tunnel is up, indicating that it has been enabled.
 >
@@ -897,7 +886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (23), traffic (14), [[Traffic Engineering]] (4), [[Routing Protocols]] (1), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (23), [[Traffic Engineering]] (4), [[Routing Protocols]] (1), [[Statistics]] (1)
 > **Env Vars:** mpls (14), rsvp (1)
 > **Versions:** 192.168.254 (4), 10.1.2 (1), 10.2.3 (1), 10.1.4 (1), 10.4.5 (1)
 > **Prerequisites:** configure (3), setup (1)
@@ -906,14 +895,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE semi-dynamic tunnel using exclude-address
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980)
+#### [MPLS TE semi-dynamic tunnel using exclude-address](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=0)** - [Instructor] MPLS-TE semi-dynamic tunnel using exclude addresses allows network engineers to dynamically route traffic while specifying certain addresses or nodes that must be avoided.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=0)** - [Instructor] [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE semi-dynamic tunnel using exclude addresses allows network engineers to dynamically route traffic while specifying certain addresses or nodes that must be avoided.
 >
-> **[0:15](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=15)** This combines the flexibility of dynamic routing with the control of explicit paths to optimize traffic flows and avoid known problematic areas of the network.
+> **[0:15](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=15)** This combines the flexibility of dynamic [[Routing]] with the control of explicit paths to optimize traffic flows and avoid known problematic areas of the network.
 >
 > **[0:29](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=29)** In this scenario, we have two paths between R1 and R3.
 >
@@ -941,7 +929,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=142)** Tunnel destination 192.168.254.3 sets the tunnel destination to R3.
 >
-> **[2:32](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=152)** Tunnel mode mpls traffic-eng configures the tunnel for mpls traffic engineering.
+> **[2:32](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=152)** Tunnel mode mpls traffic-eng configures the tunnel for mpls [[Traffic Engineering]].
 >
 > **[2:38](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-exclude-address?u=76281980&t=158)** Tunnel mpls traffic-eng path-option 1 explicit name NO_R2 configures the tunnel to use the explicit path NO_R2.
 >
@@ -975,7 +963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (8), [[Routing]] (1), [[Traffic Engineering]] (1), node (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), [[Routing]] (1), [[Traffic Engineering]] (1)
 > **Env Vars:** no_r2 (9), mpls (6)
 > **Versions:** 192.168.254 (6), 10.1.4 (1), 10.3.4 (1)
 > **Prerequisites:** configure (2)
@@ -983,12 +971,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE semi-dynamic tunnel using loose next hop
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-loose-next-hop?u=76281980)
+#### [MPLS TE semi-dynamic tunnel using loose next hop](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-loose-next-hop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-loose-next-hop?u=76281980&t=0)** - [Instructor] In MPLS-TE, a semi-dynamic tunnel refers to a setup where the tunnel path can be influenced or partially predefined, providing flexibility and control over traffic engineering.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-loose-next-hop?u=76281980&t=0)** - [Instructor] In [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE, a semi-dynamic tunnel refers to a setup where the tunnel path can be influenced or partially predefined, providing flexibility and control over [[Traffic Engineering]].
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-semi-dynamic-tunnel-using-loose-next-hop?u=76281980&t=15)** The loose next top technique is a specific method used within MPLS-TE to define paths with flexibility while ensuring traffic follows a general direction rather than a strict adherence to specific nodes or interfaces.
 >
@@ -1064,7 +1051,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (14), [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), traffic (8), [[Traffic Engineering]] (4), management (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (13), [[Traffic Engineering]] (4)
 > **Env Vars:** mpls (7), to_r3 (5)
 > **Versions:** 192.168.254 (6), 10.1.4 (3), 10.4.5 (1)
 > **Definitions:** refers to (1), is a  (1), means that (1)
@@ -1077,14 +1064,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPLS TE auto-bandwidth
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980)
+#### [MPLS TE auto-bandwidth](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=0)** - [Instructor] Welcome back to our MPLS series.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=0)** - [Instructor] Welcome back to our [[Multiprotocol Label Switching (MPLS)|MPLS]] series.
 >
-> **[0:03](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=3)** In this video, we will dive into MPLS Traffic Engineering's auto-bandwidth feature.
+> **[0:03](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=3)** In this video, we will dive into MPLS [[Traffic Engineering]]'s auto-bandwidth feature.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=9)** We will explore what auto-bandwidth is, how to configure it, and why it is crucial for optimizing network performance.
 >
@@ -1100,13 +1086,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=56)** The MPLS TE tunnel periodically monitors traffic patterns and adjusts the allocated bandwidth to match current needs.
 >
-> **[1:05](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=65)** It collects traffic statistics for the tunnel and compares current load against the configured bandwidth and increases or decreases bandwidth based on current demand.
+> **[1:05](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=65)** It collects traffic [[Statistics]] for the tunnel and compares current load against the configured bandwidth and increases or decreases bandwidth based on current demand.
 >
 > **[1:17](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=77)** Let's walk through the configuration of auto-bandwidth for an MPLS TE tunnel.
 >
 > **[1:23](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=83)** The Tunnel mpls traffic-eng auto-bw command enables the auto-bandwidth feature for an MPLS Traffic Engineering or TE tunnel with optional parameters to specify the minimum and maximum bandwidth limits.
 >
-> **[1:38](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=98)** This feature dynamically adjusts the tunnel's bandwidth based on real-time traffic measurements, optimizing network resource utilization.
+> **[1:38](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=98)** This feature dynamically adjusts the tunnel's bandwidth based on [[Real-Time]] traffic measurements, optimizing network resource utilization.
 >
 > **[1:48](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-auto-bandwidth?u=76281980&t=108)** Minimum bandwidth specifies the minimum bandwidth that the tunnel can adjust to.
 >
@@ -1136,19 +1122,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), traffic (15), feature (7), [[Traffic Engineering]] (5), [[Statistics]] (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), [[Traffic Engineering]] (5), [[Statistics]] (2), [[Real-Time]] (1)
 > **Env Vars:** mpls (10)
 > **Versions:** 192.168.254 (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE affinity
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-affinity?u=76281980)
+#### [MPLS TE affinity](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-affinity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-affinity?u=76281980&t=0)** - [Instructor] In this video, we are going to dive into an important aspect of MPLS traffic engineering, or MPLS-TE: affinity, also known as link coloring.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-affinity?u=76281980&t=0)** - [Instructor] In this video, we are going to dive into an important aspect of [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]], or MPLS-TE: affinity, also known as link coloring.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-affinity?u=76281980&t=12)** Affinity allows network operators to control and influence the selection of paths for TE tunnels based on specific link attributes.
 >
@@ -1260,7 +1245,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (28), traffic (18), [[Traffic Engineering]] (6), next (1), database (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (28), [[Traffic Engineering]] (6)
 > **Env Vars:** mpls (11), ios (1)
 > **Versions:** 192.168.254 (4), 10.1.2 (1), 10.2.3 (1), 10.1.4 (1), 10.3.4 (1)
 > **Prerequisites:** configure (3), setup (1)
@@ -1269,14 +1254,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE administrative weight
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980)
+#### [MPLS TE administrative weight](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980&t=0)** - [Instructor] In this video, we are diving deep into the concept of MPLS Traffic Engineering Administrative Weight, also known as TE metric, so let's get started.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980&t=0)** - [Instructor] In this video, we are diving deep into the concept of [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] Administrative Weight, also known as TE metric, so let's get started.
 >
-> **[0:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980&t=12)** Each interface in a network has an IGP metric, which is used for traditional routing decisions.
+> **[0:12](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980&t=12)** Each interface in a network has an IGP metric, which is used for traditional [[Routing]] decisions.
 >
 > **[0:20](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-administrative-weight?u=76281980&t=20)** In MPLS Traffic Engineering, or TE, each interface also has a TE metric.
 >
@@ -1336,7 +1320,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (24), traffic (11), [[Traffic Engineering]] (9), [[Routing]] (1), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (24), [[Traffic Engineering]] (9), [[Routing]] (1)
 > **Env Vars:** mpls (14), igp (11)
 > **Versions:** 192.168.254 (5), 10.1.2 (2), 10.2.3 (2), 10.1.4 (1), 10.3.4 (1)
 > **Definitions:** known as (1), refers to (1)
@@ -1344,12 +1328,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE setup and hold priority
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980)
+#### [MPLS TE setup and hold priority](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=0)** - [Instructor] In this video, we will dive into the concepts of setup and hold priority within the context of MPLS-TE.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=0)** - [Instructor] In this video, we will dive into the concepts of setup and hold priority within the context of [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=8)** Set up and hold priorities are crucial elements in MPLS-TE that help determine the precedence of TE tunnel during path computation and maintenance.
 >
@@ -1369,7 +1352,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=67)** Now let's look at how to configure setup and hold priorities in a typical MPLS TE environment.
 >
-> **[1:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=76)** We need to enter the traffic engineering mode.
+> **[1:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=76)** We need to enter the [[Traffic Engineering]] mode.
 >
 > **[1:19](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-setup-and-hold-priority?u=76281980&t=79)** Use the tunnel MPLS traffic ENG priority, setup priority, hold priority command to configure the setup and hold priorities for an LSP.
 >
@@ -1431,23 +1414,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), traffic (3), [[Traffic Engineering]] (2), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Traffic Engineering]] (2)
 > **Prerequisites:** setup (14), configure (5), set up (1)
 > **Env Vars:** mpls (7), lsp (4), eng (3)
 > **Analogies:** for example (1), just like (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE autoroute announce
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980)
+#### [MPLS TE autoroute announce](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=0)** - [Instructor] In this video, we are diving into MPLS Traffic Engineering Autoroute Announce, a crucial feature that enhances traffic engineering in MPLS networks.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=0)** - [Instructor] In this video, we are diving into [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] Autoroute Announce, a crucial feature that enhances traffic engineering in MPLS networks.
 >
 > **[0:10](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=10)** Let's get started.
 >
-> **[0:13](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=13)** Autoroute Announce simplifies the process of directing traffic through TE tunnels without the need for manual routing adjustments.
+> **[0:13](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=13)** Autoroute Announce simplifies the process of directing traffic through TE tunnels without the need for manual [[Routing]] adjustments.
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-autoroute-announce?u=76281980&t=23)** MPLS-TE Autoroute Announce is a feature in MPLS traffic engineering that automatically advertises a tunnel as a preferred path for a specific traffic.
 >
@@ -1477,19 +1459,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), traffic (13), [[Routing]] (6), [[Traffic Engineering]] (5), feature (3)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), [[Routing]] (6), [[Traffic Engineering]] (5)
 > **Env Vars:** mpls (9), igp (2), pbr (1)
 > **Versions:** 192.168.254 (2)
 > **Definitions:** is a  (1), means that (1)
 > **Prerequisites:** configure (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE forwarding adjacency
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980)
+#### [MPLS TE forwarding adjacency](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=0)** - [Instructor] In this video, we are delving into MPLS-TE forwarding adjacency, a critical concept in MPLS traffic engineering that facilitates efficient load sharing across network paths.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=0)** - [Instructor] In this video, we are delving into [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE forwarding adjacency, a critical concept in MPLS [[Traffic Engineering]] that facilitates efficient load sharing across network paths.
 >
 > **[0:13](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=13)** Let's get started.
 >
@@ -1513,7 +1494,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=76)** Then we need to enable MPLS-TE forwarding adjacency on the tunnel interface with tunnel mpls traffic-eng forwarding adjacency command.
 >
-> **[1:27](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=87)** Let's verify the routing table on R1.
+> **[1:27](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=87)** Let's verify the [[Routing]] table on R1.
 >
 > **[1:29](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-forwarding-adjacency?u=76281980&t=89)** For the 10.7.0.0/24 network, R1 uses both paths, one through R2 and the other through R4.
 >
@@ -1541,19 +1522,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (5), [[Traffic Engineering]] (2), [[Routing]] (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), [[Traffic Engineering]] (2), [[Routing]] (2)
 > **Env Vars:** mpls (9), igp (7)
 > **Prerequisites:** setup (1), configure (1)
 > **Versions:** 10.7.0 (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Class-based tunnel selection (CBTS)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980)
+#### [Class-based tunnel selection (CBTS)](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=0)** - [Instructor] In this session, we learn about Class-based Tunnel Selection or CBTS in MPLS traffic engineering or MPLSTE.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=0)** - [Instructor] In this session, we learn about Class-based Tunnel Selection or CBTS in [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] or MPLSTE.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=9)** In this guide, we will explore the concept of CBTS, its importance in network traffic management, and how to configure it in a Cisco environment.
 >
@@ -1561,7 +1541,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=36)** These tunnels must all connects the same head end and tail end routers.
 >
-> **[0:42](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=42)** When routing CoS traffic to a destination using CBTS tunnels, all traffic for that destination must be routed through these tunnels.
+> **[0:42](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=42)** When [[Routing]] CoS traffic to a destination using CBTS tunnels, all traffic for that destination must be routed through these tunnels.
 >
 > **[0:53](https://www.linkedin.com/learning/mpls-traffic-engineering/class-based-tunnel-selection-cbts?u=76281980&t=53)** Meaning no traffic can be forwarded outside of them via an LSP or as IP traffic.
 >
@@ -1701,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (24), [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Traffic Engineering]] (3), data (3), management (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Traffic Engineering]] (3), [[Routing]] (1)
 > **Env Vars:** exp (14), mpls (7), cbts (5), eng (5), mplst (4)
 > **Versions:** 192.168.254 (4)
 > **Definitions:** is a  (2)
@@ -1714,12 +1694,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPLS TE Fast Reroute for link protection: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980)
+#### [MPLS TE Fast Reroute for link protection: Part 1](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980&t=0)** - [Instructor] In this video, we will explore MPLS-TE Fast Reroute, or FRR, for link protection.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980&t=0)** - [Instructor] In this video, we will explore [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE Fast Reroute, or FRR, for link protection.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-i?u=76281980&t=8)** Let's start with a brief overview.
 >
@@ -1815,14 +1794,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (2), node (1), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** plr (7), lsp (6), nhop (5), mpls (4), frr (3)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **CLI Commands:** node (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE Fast Reroute for link protection: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980)
+#### [MPLS TE Fast Reroute for link protection: Part 2](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1836,11 +1814,11 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=23)** We configured the backup tunnel with an explicit path from the PLR to the next hop router.
 >
-> **[0:30](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=30)** On the headend router of the protected TE tunnel, you specify that the tunnel can use a backup tunnel or be Fast Rerouted with the command, tunnel mpls traffic-eng fast-reroute.
+> **[0:30](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=30)** On the headend router of the protected TE tunnel, you specify that the tunnel can use a backup tunnel or be Fast Rerouted with the command, tunnel [[Multiprotocol Label Switching (MPLS)|mpls]] traffic-eng fast-reroute.
 >
 > **[0:43](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=43)** Then specify the backup tunnel with the interface command, mpls traffic-eng backup-path on the protected link.
 >
-> **[0:52](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=52)** Normally, when the headend router receives a path error message, the tunnel goes down until the traffic engineering or TE labels to each path or LSP is rerouted.
+> **[0:52](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=52)** Normally, when the headend router receives a path error message, the tunnel goes down until the [[Traffic Engineering]] or TE labels to each path or LSP is rerouted.
 >
 > **[1:04](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-link-protection-part-ii?u=76281980&t=64)** However, in the case of Fast Reroute or FRR, this does not happen.
 >
@@ -1870,19 +1848,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), next (2), [[Traffic Engineering]] (2), database (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Traffic Engineering]] (2)
 > **Env Vars:** plr (4), frr (4), lsp (2), mpls (1)
 > **CLI Commands:** node (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE Fast Reroute for node protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-node-protection?u=76281980)
+#### [MPLS TE Fast Reroute for node protection](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-node-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-node-protection?u=76281980&t=0)** - [Instructor] MPLS-TE Fast Reroute or FRR for node protection is a feature designed to enhance the resilience of MPLS traffic engineering or TE networks by providing repeat backup paths in the event of node failures.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-node-protection?u=76281980&t=0)** - [Instructor] [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE Fast Reroute or FRR for node protection is a feature designed to enhance the resilience of MPLS [[Traffic Engineering]] or TE networks by providing repeat backup paths in the event of node failures.
 >
 > **[0:17](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-fast-reroute-for-node-protection?u=76281980&t=17)** In MPLS-TE networks, traffic is often routed through specific nodes based on predefined paths or TLSPs.
 >
@@ -1944,7 +1921,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (10), node (9), next (9), feature (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Traffic Engineering]] (1)
 > **Env Vars:** nnhop (11), frr (7), plr (7), mpls (4), lsr (2)
 > **CLI Commands:** node (9)
 > **Versions:** 192.168.254 (3), 10.1.2 (1), 10.2.3 (1), 10.3.4 (1), 10.4.5 (1)
@@ -1953,8 +1930,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Shared Risk Link Group (SRLG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980)
+#### [Shared Risk Link Group (SRLG)](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1970,7 +1946,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=49)** This means if any issue affects one link, such as a physical disruption in the shared conduit, it will likely impact all other links in the same group.
 >
-> **[1:01](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=61)** So when designing backup tunnels, it's crucial to avoid routing through links that are part of the same SRLG.
+> **[1:01](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=61)** So when designing backup tunnels, it's crucial to avoid [[Routing]] through links that are part of the same SRLG.
 >
 > **[1:09](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=69)** This strategy prevents a single point of failure from affecting both primary and backup paths simultaneously.
 >
@@ -1978,7 +1954,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=91)** To ensure robust network resilience, we begin by configuring the SRLG command on the interface of links that share the same fiber or conduit.
 >
-> **[1:41](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=101)** For each interface, use the command mpls traffic, ENGSRLG number, where number is the group identifier of the SRLG.
+> **[1:41](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=101)** For each interface, use the command [[Multiprotocol Label Switching (MPLS)|mpls]] traffic, ENGSRLG number, where number is the group identifier of the SRLG.
 >
 > **[1:52](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=112)** Next, configure tunnel 0 on router R1 with the destination set to R5.
 >
@@ -2000,7 +1976,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=189)** The backup tunnel is created across a link with the same SRLG.
 >
-> **[3:16](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=196)** After configuring the SRLG and setting up our tunnels, it's essential to verify our MPLS traffic engineering topology.
+> **[3:16](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=196)** After configuring the SRLG and setting up our tunnels, it's essential to verify our MPLS [[Traffic Engineering]] topology.
 >
 > **[3:25](https://www.linkedin.com/learning/mpls-traffic-engineering/shared-risk-link-group-srlg?u=76281980&t=205)** We can use the show mpls traffic eng topology brief command to get a quick overview.
 >
@@ -2012,7 +1988,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), traffic (4), node (2), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), [[Routing]] (1), [[Traffic Engineering]] (1)
 > **Env Vars:** srlg (20), engsrlg (1), mpls (1)
 > **Prerequisites:** configure (3)
 > **CLI Commands:** node (2)
@@ -2020,12 +1996,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE Path Protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-path-protection?u=76281980)
+#### [MPLS TE Path Protection](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-path-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-path-protection?u=76281980&t=0)** - [Instructor] In this video, we will explore the concept of path protection in MPLS traffic engineering on T networks, its importance and how to implement it.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-path-protection?u=76281980&t=0)** - [Instructor] In this video, we will explore the concept of path protection in [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] on T networks, its importance and how to implement it.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-path-protection?u=76281980&t=11)** MPLS-TE path protection is a feature that ensures network reliability by providing backup paths or protection paths for TE tunnels.
 >
@@ -2089,7 +2064,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), node (6), [[Traffic Engineering]] (4), traffic (4), feature (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Traffic Engineering]] (4)
 > **Env Vars:** mpls (7), lsp (4), plst (1), mprs (1), ios (1)
 > **Versions:** 10.1.2 (2), 192.168.254 (2), 10.2.3 (1), 10.3.4 (1), 10.2.5 (1)
 > **CLI Commands:** node (6)
@@ -2103,20 +2078,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TE tunnels default cost calculation
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980)
+#### [TE tunnels default cost calculation](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=0)** - [Instructor] In this video, we are going to explore the intriguing process of default cost calculation on MPLS TE tunnels with autoroute announce enabled.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=0)** - [Instructor] In this video, we are going to explore the intriguing process of default cost calculation on [[Multiprotocol Label Switching (MPLS)|MPLS]] TE tunnels with autoroute announce enabled.
 >
-> **[0:10](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=10)** Join us as we unveil the secrets to optimizing your network routing like never before.
+> **[0:10](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=10)** Join us as we unveil the secrets to optimizing your network [[Routing]] like never before.
 >
 > **[0:18](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=18)** This scenario shows a network of five OSPF routers within a single MPLS TE enabled area.
 >
 > **[0:25](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=25)** Initially, all links have an OSPF cost of one.
 >
-> **[0:31](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=31)** A traffic engineering or TE tunnel exists from R1 to R5.
+> **[0:31](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=31)** A [[Traffic Engineering]] or TE tunnel exists from R1 to R5.
 >
 > **[0:37](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnels-default-cost-calculation?u=76281980&t=37)** The cost of the TE tunnel is two, as shown by the command show mpls traffic-eng tunnels, which displays a path rate of two for this tunnel.
 >
@@ -2174,19 +2148,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), traffic (4), [[Traffic Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[Routing]] (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Traffic Engineering]] (1)
 > **Env Vars:** ospf (3), mpls (2), igp (2), lsr (1), cspf (1)
 > **Versions:** 192.168.254 (7)
 > **Best Practices:** general rule (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adjusting the cost calculation of TE tunnels
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980)
+#### [Adjusting the cost calculation of TE tunnels](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=0)** - [Instructor] In this video, I'm going to talk about adjusting the cost calculation in MPLS Traffic Engineering or TE with exciting insights.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=0)** - [Instructor] In this video, I'm going to talk about adjusting the cost calculation in [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] or TE with exciting insights.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=12)** In MPLS Traffic Engineering or TE, adjusting the cost calculation is essential for influencing how traffic is routed through the network.
 >
@@ -2242,24 +2215,23 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=243)** Use the absolute method when you want a consistent and predictable metric for all destinations reachable through the TE tunnel.
 >
-> **[4:12](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=252)** Use the relative method when you want the tunnel's metric to adjust dynamically in relation to existing IGP cost, allowing for more granular control over routing preferences.
+> **[4:12](https://www.linkedin.com/learning/mpls-traffic-engineering/adjusting-the-cost-calculation-of-te-tunnels?u=76281980&t=252)** Use the relative method when you want the tunnel's metric to adjust dynamically in relation to existing IGP cost, allowing for more granular control over [[Routing]] preferences.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), traffic (8), [[Traffic Engineering]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (8), [[Traffic Engineering]] (2), [[Routing]] (1)
 > **Env Vars:** igp (4), mpls (2), ospf (1)
 > **Prerequisites:** configure (4)
 > **Versions:** 192.168.254 (3)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE load balancing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980)
+#### [MPLS TE load balancing](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=0)** - [Instructor] In this video, I want to explain MPLS-TE load balancing.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=0)** - [Instructor] In this video, I want to explain [[Multiprotocol Label Switching (MPLS)|MPLS]]-TE load balancing.
 >
-> **[0:04](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=4)** We will dive into how MPLS traffic engineering can distribute traffic across multiple paths, enhancing network efficiency and reliability.
+> **[0:04](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=4)** We will dive into how MPLS [[Traffic Engineering]] can distribute traffic across multiple paths, enhancing network efficiency and reliability.
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=15)** When multiple TE tunnels have the same cost, traffic can be load-balanced across them.
 >
@@ -2267,7 +2239,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=29)** The first tunnel will take the path from R1 to R2, and then to R3, while the second tunnel will take the bottom path from R1 to R4, and then to R3.
 >
-> **[0:42](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=42)** In the routing table of R1, for the network 10.3.0.0/24, we have two interfaces, Tunnel0 and Tunnel1 because the cost of both tunnel is the same.
+> **[0:42](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=42)** In the [[Routing]] table of R1, for the network 10.3.0.0/24, we have two interfaces, Tunnel0 and Tunnel1 because the cost of both tunnel is the same.
 >
 > **[0:55](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-load-balancing?u=76281980&t=55)** Similarly for the network 192.168.254.3/32, the same condition exists, with both Tunnel0 and Tunnel1 being present due to equal costs.
 >
@@ -2287,17 +2259,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (2), [[Traffic Engineering]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (2), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (3)
 > **Versions:** 10.3.0 (1), 192.168.254 (1), 10.3.4 (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE reoptimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980)
+#### [MPLS TE reoptimization](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=0)** - [Instructor] In this video, we will delve into the concepts of MPLS traffic engineering reoptimization, the need for reoptimization, and the steps involved in reoptimizing MPLS-TE tunnels to ensure optimal network performance.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=0)** - [Instructor] In this video, we will delve into the concepts of [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] reoptimization, the need for reoptimization, and the steps involved in reoptimizing MPLS-TE tunnels to ensure optimal network performance.
 >
 > **[0:18](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=18)** A TE tunnel might find itself routed along a path in the network that is no longer the most efficient or optimal.
 >
@@ -2315,7 +2286,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=99)** This means that every hour the network evaluates the current path of TE tunnels and reroutes them if more optimal paths are available.
 >
-> **[1:49](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=109)** This default behavior helps maintain optimal routing without requiring manual intervention.
+> **[1:49](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=109)** This default behavior helps maintain optimal [[Routing]] without requiring manual intervention.
 >
 > **[1:58](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-reoptimization?u=76281980&t=118)** You can customize this reoptimization frequency using the MPLS traffic-eng reoptimize timers frequency INTERVAL command.
 >
@@ -2357,7 +2328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), traffic (6), [[Traffic Engineering]] (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (12), [[Traffic Engineering]] (2), [[Routing]] (1)
 > **Env Vars:** mpls (8), ios (3), interval (1), number (1), tunnel_number (1)
 > **Definitions:** means that (2), is a  (1), refers to (1)
 > **Analogies:** such as (2)
@@ -2365,8 +2336,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS TE link manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980)
+#### [MPLS TE link manager](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2388,17 +2358,17 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=70)** Additionally, the link manager triggers the interior gateway protocol, or IGP, to flood link state information when certain thresholds are crossed.
 >
-> **[1:21](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=81)** This ensures that all routers in the network have up-to-date information about link states, which is crucial for making informed routing decisions.
+> **[1:21](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=81)** This ensures that all routers in the network have up-to-date information about link states, which is crucial for making informed [[Routing]] decisions.
 >
 > **[1:33](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=93)** It not only helps in maintaining optimal resource utilization, but also ensures that high-priority traffic is always given precedence.
 >
-> **[1:46](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=106)** The show mpls traffic-eng link-management command provides detailed insights into the current operations of the link manager.
+> **[1:46](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=106)** The show [[Multiprotocol Label Switching (MPLS)|mpls]] traffic-eng link-management command provides detailed insights into the current operations of the link manager.
 >
 > **[1:58](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=118)** The command show MPLS traffic-eng link-management admission-control displays a status of admission control for MPLS TE links, including current and maximum bandwidth usage, and ensures resources are available before establishing new TE tunnels.
 >
 > **[2:18](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=138)** This helps prevent oversubscription, and maintains network performance.
 >
-> **[2:26](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=146)** The command show MPLS traffic-eng link-management advertisements displays information about the advertisements of MPLS TE link attributes, including available bandwidth and resource updates, ensuring optimal path computation and traffic engineering.
+> **[2:26](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=146)** The command show MPLS traffic-eng link-management advertisements displays information about the advertisements of MPLS TE link attributes, including available bandwidth and resource updates, ensuring optimal path computation and [[Traffic Engineering]].
 >
 > **[2:48](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=168)** The command show mpls traffic-eng link-management bandwidth-allocation displays information about the allocation and reservation of bandwidth for MPLS TE links, helping to manage and optimize network resources effectively.
 >
@@ -2406,17 +2376,17 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=210)** The command show mpls traffic-eng link-management interface INT_NAME displays detailed MPLS TE information for a specified interface, including bandwidth allocation, link attributes, and admission control status, helping to manage and optimize the interface's role in traffic engineering.
 >
-> **[3:53](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=233)** The command show mpls traffic-eng link-management statistics displays statistical data related to MPLS TE link management, including metrics on bandwidth usage, tunnel setup success rates, and link utilization, helping to monitor and optimize network performance.
+> **[3:53](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=233)** The command show mpls traffic-eng link-management [[Statistics]] displays statistical data related to MPLS TE link management, including metrics on bandwidth usage, tunnel setup success rates, and link utilization, helping to monitor and optimize network performance.
 >
 > **[4:16](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=256)** The command show mpls traffic-eng link-management summary provides a concise overview of MPLS TE link management, including key metrics such as total bandwidth, allocated bandwidth, and the status of TE links, facilitating quick assessments of network resource usage and performance.
 >
 > **[4:40](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=280)** For detailed troubleshooting, you can use the debug mpls traffic-eng link-management command.
 >
-> **[4:47](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=287)** This debug command provides real-time information and logs about MPLS TE link management processes, helping to identify and resolve issues related to link advertisements, bandwidth allocation, and neighbor relationships.
+> **[4:47](https://www.linkedin.com/learning/mpls-traffic-engineering/mpls-te-link-manager?u=76281980&t=287)** This debug command provides [[Real-Time]] information and logs about MPLS TE link management processes, helping to identify and resolve issues related to link advertisements, bandwidth allocation, and neighbor relationships.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), management (12), traffic (10), [[Traffic Engineering]] (3), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), [[Traffic Engineering]] (3), [[Routing]] (1), [[Statistics]] (1), [[Real-Time]] (1)
 > **Env Vars:** mpls (10), igp (2), ios (1), rsvp (1), lsp (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** setup (1)
@@ -2427,12 +2397,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### VRF-to-TE tunnel routing
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980)
+#### [VRF-to-TE tunnel routing](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=0)** - [Instructor] Welcome to this session on VRF-to-TE Tunnel Routing.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=0)** - [Instructor] Welcome to this session on VRF-to-TE Tunnel [[Routing]].
 >
 > **[0:04](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=4)** Today we will explore how VRFs interact with TE tunnels to optimize and manage network traffic effectively.
 >
@@ -2442,7 +2411,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=24)** VRFs are used to segregate traffic for different customers or applications, ensuring that data paths are isolated and secure.
 >
-> **[0:36](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=36)** MPLS traffic engineering, or TE tunnels, are used to direct traffic along predefined paths to optimize network resource usage and improve performance.
+> **[0:36](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=36)** [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]], or TE tunnels, are used to direct traffic along predefined paths to optimize network resource usage and improve performance.
 >
 > **[0:47](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=47)** TE tunnels provide better control over how traffic is routed through the network, avoiding congestion and ensuring optimal path utilization.
 >
@@ -2490,7 +2459,7 @@ created: 2026-05-02
 >
 > **[4:17](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=257)** This setup ensures balanced traffic engineering in both directions between the endpoints.
 >
-> **[4:25](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=265)** This is possible, but consider scalability.
+> **[4:25](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=265)** This is possible, but consider [[Scalability]].
 >
 > **[4:28](https://www.linkedin.com/learning/mpls-traffic-engineering/vrf-to-te-tunnel-routing?u=76281980&t=268)** Creating one pair of TE tunnels between two PE routers for every VRF is not very scalable.
 >
@@ -2504,15 +2473,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (15), [[Routing]] (8), next (4), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Traffic Engineering]] (3)
+> **Frameworks & Libraries:** [[Routing]] (8), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Traffic Engineering]] (3), [[Scalability]] (2)
 > **Env Vars:** vrf (18), mpls (3), bgp (2), vpn (1)
 > **Versions:** 192.168.254 (6)
 > **Prerequisites:** configure (1), setup (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### TE tunnel with a P router as a tailend router
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980)
+#### [TE tunnel with a P router as a tailend router](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2528,7 +2496,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980&t=59)** The simplest way to implement this is the targeted LDP session between PE and P router.
 >
-> **[1:07](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980&t=67)** The LDP targeted session must be explicitly configured on the tail-end router to the head-end router and MPLS IP must be enabled on the tunnel interface on the head-end router.
+> **[1:07](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980&t=67)** The LDP targeted session must be explicitly configured on the tail-end router to the head-end router and [[Multiprotocol Label Switching (MPLS)|MPLS]] IP must be enabled on the tunnel interface on the head-end router.
 >
 > **[1:20](https://www.linkedin.com/learning/mpls-traffic-engineering/te-tunnel-with-p-router-as-tail-end-router?u=76281980&t=80)** The result is the VPN packets have three labels.
 >
@@ -2566,18 +2534,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (6), [[Multiprotocol Label Switching (MPLS)|Mpls]] (5), next (2), traffic (2)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (5)
 > **Env Vars:** ldp (12), vpn (6), lsp (5), mpls (5), bgp (2)
 > **Analogies:** just like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### AToM tunnel selection
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/atom-tunnel-selection?u=76281980)
+#### [AToM tunnel selection](https://www.linkedin.com/learning/mpls-traffic-engineering/atom-tunnel-selection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/atom-tunnel-selection?u=76281980&t=0)** - [Instructor] In this session, we will delve into AToM or Any Transport over MPLS tunnel selection.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/atom-tunnel-selection?u=76281980&t=0)** - [Instructor] In this session, we will delve into AToM or Any Transport over [[Multiprotocol Label Switching (MPLS)|MPLS]] tunnel selection.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-traffic-engineering/atom-tunnel-selection?u=76281980&t=6)** We will discuss what AToM is, why tunnel selection is important, and how to configure and verify it in a network.
 >
@@ -2611,7 +2578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (6)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10)
 > **Env Vars:** mpls (9), igp (1)
 > **Tools:** atom (10)
 > **Prerequisites:** configure (4), set up (1)
@@ -2623,12 +2590,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing the MPLS Traffic Engineering course.
+> **[0:00](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=0)** - [Instructor] Congratulations on completing the [[Multiprotocol Label Switching (MPLS)|MPLS]] [[Traffic Engineering]] course.
 >
 > **[0:06](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=6)** You have now mastered the intricacies of optimizing network traffic with MPLS TE, enhancing efficiency and performance.
 >
@@ -2638,11 +2604,11 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=27)** Your curiosity and engagement are key to mastering these advanced technologies.
 >
-> **[0:33](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=33)** Next, I encourage you to explore segment routing or SR, a revolutionary technology reshaping network architecture.
+> **[0:33](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=33)** Next, I encourage you to explore segment [[Routing]] or SR, a revolutionary technology reshaping network architecture.
 >
-> **[0:43](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=43)** SR simplifies and enhances scalability by embedding paths into packets, offering unparalleled flexibility and control for modern networking challenges.
+> **[0:43](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=43)** SR simplifies and enhances [[Scalability]] by embedding paths into packets, offering unparalleled flexibility and control for modern networking challenges.
 >
-> **[0:56](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=56)** In a segment routing course, you will delve into SR-MPLS and SRv6, learning to build agile programmable network suitable for 5G, IoT, and cloud services.
+> **[0:56](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=56)** In a segment routing course, you will delve into SR-MPLS and SRv6, learning to build [[Agile Development|agile]] programmable network suitable for [[5G]], [[IoT]], and [[Cloud Services]].
 >
 > **[1:10](https://www.linkedin.com/learning/mpls-traffic-engineering/next-steps?u=76281980&t=70)** Whether you are improving service delivery or exploring automation, SR will equip you with essential skills for advancing your networking career.
 >
@@ -2652,7 +2618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (3), [[Traffic Engineering]] (2), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), [[Routing]] (3), [[Traffic Engineering]] (2), [[Scalability]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** mpls (4)
 > **Speakers:** - [instructor] (1)
 

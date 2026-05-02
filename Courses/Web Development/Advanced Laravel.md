@@ -94,12 +94,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Beyond the basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
+#### [Beyond the basics](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980&t=0)** - [Shruti] Laravel is one of the most popular PHP frameworks known for its simplicity, elegance, and expressive syntax.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980&t=0)** - [Shruti] [[Laravel]] is one of the most popular [[PHP]] frameworks known for its simplicity, elegance, and expressive syntax.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-laravel-22373805/beyond-the-basics?u=76281980&t=7)** In this course, we will delve deep into some of the advanced concepts and features of the framework.
 >
@@ -119,22 +118,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (1), functional (1), web application (1)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [shruti] (1)
 
-#### Prerequisites for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980)
+#### [Prerequisites for the course](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=0)** - [Instructor[ To get the most out of this course, you should have a solid understanding of Laravel basics.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=0)** - [Instructor[ To get the most out of this course, you should have a solid understanding of [[Laravel]] basics.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=5)** This includes installing and setting up Laravel, creating models, working with views and controllers, running migrations, basic Eloquent features, and writing CRUD operations for a resource.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=18)** I also assume that you have a basic understanding of PHP, and object-oriented programming, as these are essential skills for any Laravel developer.
+> **[0:18](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=18)** I also assume that you have a basic understanding of [[PHP]], and [[Object-Oriented Programming (OOP)|object-oriented programming]], as these are essential skills for any Laravel developer.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-laravel-22373805/prerequisites-for-the-course?u=76281980&t=27)** If you're new to Laravel, or haven't worked with it extensively, I suggest taking the beginner level course first.
 >
@@ -153,14 +151,13 @@ created: 2026-05-02
 > **CLI Commands:** php (1)
 > **Speakers:** - [instructor (1)
 
-#### What's new in Laravel 10?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980)
+#### [What's new in Laravel 10?](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=0)** - [Instructor] Let's dive into what's new in Laravel 10.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=0)** - [Instructor] Let's dive into what's new in [[Laravel]] 10.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=3)** Firstly, it's important to note that the minimum PHP version for Laravel 10 is now 8.1.
+> **[0:03](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=3)** Firstly, it's important to note that the minimum [[PHP]] version for Laravel 10 is now 8.1.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=10)** This means that if you're using PHP 8.0 or lower, you'll need to upgrade your PHP version before creating a Laravel 10 app.
 >
@@ -194,7 +191,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=81)** Instead, in the new version, we have the Vite configuration.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=85)** If you're migrating from an earlier version of Laravel, you'll need to upgrade your package.json file to use Vite instead of Webpack.
+> **[1:25](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=85)** If you're migrating from an earlier version of Laravel, you'll need to upgrade your package.[[JSON]] file to use Vite instead of Webpack.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=93)** And so now, you don't have to load your CSS and JS files manually.
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=168)** This is a big change, but it's backward compatible with existing applications, so you don't have to worry about it.
 >
-> **[2:56](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=176)** Another useful feature in Laravel 10 is the generator CLI prompts.
+> **[2:56](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=176)** Another useful feature in Laravel 10 is the generator [[CLI]] prompts.
 >
 > **[3:00](https://www.linkedin.com/learning/advanced-laravel-22373805/what-s-new-in-laravel-10?u=76281980&t=180)** Let me show you in the terminal.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (9), [[PHP]] (6), css (3), feature (2), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (9), [[PHP]] (6), [[JSON]] (1), [[CLI]] (1)
 > **CLI Commands:** php (6), make (4), docker (1), apache (1)
 > **Env Vars:** php (4), css (3), xampp (1), cli (1)
 > **File Paths:** webpack.mix.js (1), package.json (1), welcome.blade.php (1), kernel.php (1)
@@ -271,12 +268,11 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Tools:** terminal (2)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=0)** - [Instructor] All the code that you see me write throughout this course is available in this GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=0)** - [Instructor] All the code that you see me write throughout this course is available in this [[GitHub]] repository.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=6)** I recommend coding along with me all the way till the end so this repository will serve as a reference.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=59)** Go to the branch 04-02e.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=63)** And if you want to refer to the file within the routes directory named web.php, you can view the code right here, compare it with yours, and copy it if needed, and continue with the course once you fixed it.
+> **[1:03](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=63)** And if you want to refer to the file within the routes directory named web.[[PHP]], you can view the code right here, compare it with yours, and copy it if needed, and continue with the course once you fixed it.
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/using-the-exercise-files?u=76281980&t=78)** Since we are learning about advanced features, I might skip writing some basic code during some of the videos to save time.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (1), web (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[PHP]] (1)
 > **File Paths:** web.php (1)
 > **CLI Commands:** php (1)
 > **Env Vars:** readme (1)
@@ -326,8 +322,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand project requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
+#### [Understand project requirements](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -351,7 +346,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980&t=63)** Admins should be able to create users, deactivate membership, et cetera, but we will not be implementing any admin features in this course.
 >
-> **[1:12](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980&t=72)** To build this application, we'll use some authorization features in built-in Laravel, like custom middleware, gates and policies.
+> **[1:12](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980&t=72)** To build this application, we'll use some authorization features in built-in [[Laravel]], like custom middleware, gates and policies.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-laravel-22373805/understand-project-requirements?u=76281980&t=80)** We will use advanced eloquent features including many-to-many relationships eager loading, and scoping queries.
 >
@@ -365,15 +360,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (2), web application (1), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Set up the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980)
+#### [Set up the project](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=0)** - [Instructor] By now, you already know how to install Laravel in your local machine and use a starter kit for authentication.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=0)** - [Instructor] By now, you already know how to install [[Laravel]] in your local machine and use a starter kit for authentication.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=7)** So I'm going to quickly create a new Laravel app for mygym project, and you can do the same.
 >
@@ -397,7 +391,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=71)** Let's run the migrations now, sail artisan migrate.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=78)** And npm install.
+> **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=78)** And [[npm]] install.
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=83)** And npm run dev.
 >
@@ -419,7 +413,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=112)** Let me log out and quickly register an instructor as well.
 >
-> **[1:56](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=116)** Let's call him John, john@[example.com](https://example.com), password and password.
+> **[1:56](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=116)** Let's call him [[John the Ripper|John]], john@[example.com](https://example.com), password and password.
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=126)** And one last user, Log Out.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=145)** I use TablePlus, so let me open that.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=149)** Create a new connection, MySQL.
+> **[2:29](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=149)** Create a new connection, [[MySQL]].
 >
 > **[2:33](https://www.linkedin.com/learning/advanced-laravel-22373805/set-up-the-project?u=76281980&t=153)** Give it a name, username, password.
 >
@@ -489,7 +483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (3), database (3), css (3), [[npm]] (2), cd (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[npm]] (2), [[John the Ripper|John]] (2), [[MySQL]] (1)
 > **CLI Commands:** composer (2), npm (2), cd (1), mysql (1)
 > **Prerequisites:** install (6)
 > **Tools:** terminal (2), visual studio (1), sublime (1)
@@ -498,8 +492,7 @@ created: 2026-05-02
 > **Env Vars:** gui (1), css (1)
 > **UI Navigation:** go to (1), open the (1)
 
-#### Create the database and models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-the-database-and-models?u=76281980)
+#### [Create the database and models](https://www.linkedin.com/learning/advanced-laravel-22373805/create-the-database-and-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -669,7 +662,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), next (2), feature (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (4)
 > **Code Identifiers:** foreignid (3), date_time (1)
@@ -677,14 +669,14 @@ created: 2026-05-02
 > **UI Navigation:** open the (3)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 2. Authorization
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create user roles
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
+#### [Create user roles](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -738,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=152)** That is what we need to change first.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=154)** We need three different dashboards, one for each type of user.
+> **[2:34](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=154)** We need three different [[Dashboards]], one for each type of user.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=157)** So head over to the terminal and create a dashboard controller.
 >
@@ -776,7 +768,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=268)** By default, you can probably redirect to log in.
 >
-> **[4:35](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=275)** Now let's create these routes in the web.PHP file.
+> **[4:35](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=275)** Now let's create these routes in the web.[[PHP]] file.
 >
 > **[4:40](https://www.linkedin.com/learning/advanced-laravel-22373805/create-user-roles?u=76281980&t=280)** Copy the default dashboard route, and paste it three more times.
 >
@@ -836,7 +828,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[PHP]] (2), feature (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Dashboards]] (1)
 > **CLI Commands:** make (2), php (2)
 > **Env Vars:** php (2), url (2)
 > **UI Navigation:** go to (3)
@@ -845,12 +837,11 @@ created: 2026-05-02
 > **URLs:** [example.com](https://example.com) (1)
 > **Cross-References:** previous video (1)
 
-#### Write custom middleware
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980)
+#### [Write custom middleware](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=0)** - [Instructor] Now, our users are redirected to their respective dashboards, like our instructor here can view an instructor dashboard.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=0)** - [Instructor] Now, our users are redirected to their respective [[Dashboards]], like our instructor here can view an instructor dashboard.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=7)** But nothing is stopping this instructor from accessing the member's dashboard by directly typing in the URL, like so.
 >
@@ -870,7 +861,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=66)** In here, we have to add some checks based on the user role, but first we need to register this middleware.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=73)** We do that in app, http, kernel.php.
+> **[1:13](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=73)** We do that in app, http, kernel.[[PHP]].
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/write-custom-middleware?u=76281980&t=78)** You'll find all the http middleware registered here.
 >
@@ -918,15 +909,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Dashboards]] (1), [[Security]] (1), application (1), web (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Dashboards]] (1)
 > **CLI Commands:** php (2), make (1), find (1)
 > **File Paths:** kernel.php (1), web.php (1)
 > **Env Vars:** url (1)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Revisit CRUD basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980)
+#### [Revisit CRUD basics](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -936,7 +926,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=26)** The controller is created.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=28)** Next, let's register the resource routes in web.php.
+> **[0:28](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=28)** Next, let's register the resource routes in web.[[PHP]].
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=34)** So let's do that down here.
 >
@@ -988,7 +978,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=174)** And this part here, I'll copy it from elsewhere and paste it just to save time.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=182)** You can copy it from GitHub repository branch associated with this video.
+> **[3:02](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=182)** You can copy it from [[GitHub]] repository branch associated with this video.
 >
 > **[3:07](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=187)** Let's see what we get in the browser by directly going to instructor/schedule/create.
 >
@@ -1012,7 +1002,7 @@ created: 2026-05-02
 >
 > **[4:05](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=245)** Now back to the code.
 >
-> **[4:07](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=247)** Let's fetch all these class types and display them here as options.
+> **[4:07](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=247)** Let's [[Fetch]] all these class types and display them here as options.
 >
 > **[4:12](https://www.linkedin.com/learning/advanced-laravel-22373805/revisit-crud-basics?u=76281980&t=252)** For that, let's go to the controller and fetch in the class types.
 >
@@ -1276,7 +1266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Fetch]] (4), [[GitHub]] (3), data (3), next (2)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Fetch]] (4), [[GitHub]] (3)
 > **Code Identifiers:** date_time (11), classtype (4), classtypes (2), scheduledclasses (2), instructor_id (1)
 > **Ports:** :00 (12)
 > **CLI Commands:** php (4), make (3)
@@ -1285,8 +1275,7 @@ created: 2026-05-02
 > **Tools:** github (3)
 > **Cross-References:** go back to (2)
 
-#### Use gates
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980)
+#### [Use gates](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1330,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980&t=105)** Because this navigation blade view is common for all users.
 >
-> **[1:50](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980&t=110)** For this, we can use something called gates in Laravel.
+> **[1:50](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980&t=110)** For this, we can use something called gates in [[Laravel]].
 >
 > **[1:53](https://www.linkedin.com/learning/advanced-laravel-22373805/use-gates?u=76281980&t=113)** Gates are a way to define permissions which determine if a user is authorized to perform a given action.
 >
@@ -1382,7 +1371,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Laravel]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (1)
 > **Tools:** vs code (2)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
@@ -1390,8 +1379,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [lecturer] (1)
 
-#### Write policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-policies?u=76281980)
+#### [Write policies](https://www.linkedin.com/learning/advanced-laravel-22373805/write-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1469,7 +1457,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), next (1)
 > **Code Identifiers:** scheduledclass (2), scheduleclass (1), instructor_id (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (1)
@@ -1482,8 +1469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Seeding and factories
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
+#### [Seeding and factories](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1521,7 +1507,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=93)** This definition method is used to specify how to create the dummy data.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=97)** The other values is the PHP library fake for the same.
+> **[1:37](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=97)** The other values is the [[PHP]] library fake for the same.
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=102)** Fake can generate different types of random data for you like names, unique emails, and you know, even words, addresses and so on.
 >
@@ -1567,7 +1553,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=225)** Name is Taylor.
 >
-> **[3:47](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=227)** I'll create a fixed instructor with name John and john@[example.com](https://example.com).
+> **[3:47](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=227)** I'll create a fixed instructor with name [[John the Ripper|John]] and john@[example.com](https://example.com).
 >
 > **[3:54](https://www.linkedin.com/learning/advanced-laravel-22373805/seeding-and-factories?u=76281980&t=234)** Here I also need to specify the role as instructor.
 >
@@ -1805,7 +1791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), database (7), next (2), [[PHP]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[PHP]] (1)
 > **CLI Commands:** make (4), php (1)
 > **Code Identifiers:** class_type_id (1), date_time (1), scheduled_classes (1)
 > **URLs:** [example.com](https://example.com) (2)
@@ -1814,8 +1800,7 @@ created: 2026-05-02
 > **Warnings:** note that (2)
 > **Env Vars:** php (1)
 
-#### Many-to-many relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980)
+#### [Many-to-many relationships](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1829,7 +1814,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=20)** intermediate_table, and let me pull that here.
 >
-> **[0:28](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=28)** In Laravel, when you define a many-to-many relationship by standard convention, this table's name is a combination of both the tables ordered alphabetically.
+> **[0:28](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=28)** In [[Laravel]], when you define a many-to-many relationship by standard convention, this table's name is a combination of both the tables ordered alphabetically.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=39)** So this would be scheduled_class_user and not unscheduled classes.
 >
@@ -1919,7 +1904,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=271)** So let me just keep it as a normal controller.
 >
-> **[4:34](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=274)** Now let's register the routes in web.php.
+> **[4:34](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=274)** Now let's register the routes in web.[[PHP]].
 >
 > **[4:39](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=279)** And this would be... We have a get route to make the booking, member/book.
 >
@@ -1931,7 +1916,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=303)** Typically, why create method?
 >
-> **[5:05](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=305)** Typically create methods will have forms to make the booking.
+> **[5:05](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=305)** Typically create methods will have [[Forms]] to make the booking.
 >
 > **[5:09](https://www.linkedin.com/learning/advanced-laravel-22373805/many-to-many-relationships?u=76281980&t=309)** But in our case, we don't have a form.
 >
@@ -2001,7 +1986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), feature (1), [[Laravel]] (1), next (1), web (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[PHP]] (1), [[Forms]] (1)
 > **Code Identifiers:** belongstomany (3), scheduled_class_id (2), foreignid (2), intermediate_table (1), scheduled_class_user (1)
 > **CLI Commands:** make (9), php (1)
 > **Definitions:** is a  (3)
@@ -2009,8 +1994,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implement eager loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980)
+#### [Implement eager loading](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2032,7 +2016,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=65)** Now create the view.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=67)** Go to resources, views, member, new file, book dot blade dot php.
+> **[1:07](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=67)** Go to resources, views, member, new file, book dot blade dot [[PHP]].
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=78)** Let's copy contents from the dashboard.
 >
@@ -2096,7 +2080,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=186)** To see what's happening behind the scenes, let's install a package called telescope.
 >
-> **[3:11](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=191)** Go to the docs, [laravel.com](https://laravel.com), documentation.
+> **[3:11](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=191)** Go to the docs, [[[Laravel]].com](https://laravel.com), documentation.
 >
 > **[3:18](https://www.linkedin.com/learning/advanced-laravel-22373805/implement-eager-loading?u=76281980&t=198)** Look for telescope, Laravel Telescope, and let's install it.
 >
@@ -2204,7 +2188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (5), data (2), [[PHP]] (1), database (1), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (5), [[PHP]] (1)
 > **UI Navigation:** go to (5), scroll down (2)
 > **CLI Commands:** composer (2), php (1), make (1)
 > **Prerequisites:** install (4)
@@ -2213,8 +2197,7 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Definitions:** is a  (1)
 
-#### Attaching and detaching relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980)
+#### [Attaching and detaching relationships](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2222,7 +2205,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980&t=3)** First, we'll add the links in the navigation.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980&t=6)** Go to navigation.blade.php.
+> **[0:06](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980&t=6)** Go to navigation.blade.[[PHP]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-laravel-22373805/attaching-and-detaching-relationships?u=76281980&t=10)** And we need two links.
 >
@@ -2462,7 +2445,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[PHP]] (3), feature (2), hit (1)
+> **Frameworks & Libraries:** [[PHP]] (3)
 > **CLI Commands:** php (3), make (1)
 > **Code Identifiers:** scheduled_class_id (2), date_time (1), scheduledclasses (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1), click on (1)
@@ -2471,8 +2454,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Write complex queries and create query scopes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980)
+#### [Write complex queries and create query scopes](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2528,7 +2510,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980&t=147)** Thankfully we can use query scopes to avoid this.
 >
-> **[2:30](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980&t=150)** Since we are frequently using this where clause to fetch upcoming classes, let's first create a scope for that.
+> **[2:30](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980&t=150)** Since we are frequently using this where clause to [[Fetch]] upcoming classes, let's first create a scope for that.
 >
 > **[2:38](https://www.linkedin.com/learning/advanced-laravel-22373805/write-complex-queries-and-create-query-scopes?u=76281980&t=158)** Open schedule class model.
 >
@@ -2600,7 +2582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **UI Navigation:** go to (3)
 > **Documentation:** the documentation (2)
 > **Cross-References:** go back to (1)
@@ -2614,8 +2596,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
+#### [Write commands](https://www.linkedin.com/learning/advanced-laravel-22373805/write-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2769,13 +2750,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), database (2), hit (1)
 > **CLI Commands:** make (2)
 > **Ports:** :00 (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create events and listeners
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980)
+#### [Create events and listeners](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2795,7 +2774,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=39)** We shouldn't complicate it.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=41)** Laravel provides a way to manage this.
+> **[0:41](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=41)** [[Laravel]] provides a way to manage this.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=43)** We can create an event when an instructor cancels a class, and then in another place, we can listen to the event and perform required actions.
 >
@@ -2835,7 +2814,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=147)** Say public ScheduledClass, scheduledClass.
 >
-> **[2:34](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=154)** Now I'm using the new feature of PHP 8, Constructive Property Promotion, so we don't have to do this like we used to do before, ScheduledClass, here say public scheduledClass, and then down here, you say this scheduledClass = scheduledClass.
+> **[2:34](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=154)** Now I'm using the new feature of [[PHP]] 8, Constructive Property Promotion, so we don't have to do this like we used to do before, ScheduledClass, here say public scheduledClass, and then down here, you say this scheduledClass = scheduledClass.
 >
 > **[2:54](https://www.linkedin.com/learning/advanced-laravel-22373805/create-events-and-listeners?u=76281980&t=174)** Now this is too long. We don't have to do any of that.
 >
@@ -2873,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[Laravel]] (1), application (1), feature (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[PHP]] (1)
 > **Code Identifiers:** scheduledclass (6)
 > **CLI Commands:** make (3), php (1), find (1)
 > **Analogies:** imagine (1), just like (1)
@@ -2882,8 +2861,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make use of logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980)
+#### [Make use of logs](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2897,7 +2875,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=20)** And to make the bookings, I'll use Tinker.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=23)** If you've never used Tinker, it's a command line tool in Laravel that allows developers to interact with the application's code and data.
+> **[0:23](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=23)** If you've never used Tinker, it's a command line tool in [[Laravel]] that allows developers to interact with the application's code and data.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=32)** Let me enter the Tinker environment using sail artisan tinker.
 >
@@ -2975,7 +2953,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=238)** Right now it's empty, of course, but even if we fire the event, we won't be able to see the info logs here because by default, this records only the logs that are labeled as error.
 >
-> **[4:11](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=251)** To change that, let's go to the telescope config, open telescope.php within the config directory.
+> **[4:11](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=251)** To change that, let's go to the telescope config, open telescope.[[PHP]] within the config directory.
 >
 > **[4:19](https://www.linkedin.com/learning/advanced-laravel-22373805/make-use-of-logs?u=76281980&t=259)** And scroll down to the place where it has... Or let me search for it.
 >
@@ -3023,7 +3001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (3), feature (2), application (2), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[PHP]] (1)
 > **UI Navigation:** go to (5), scroll down (2)
 > **CLI Commands:** make (2), php (1)
 > **File Paths:** telescope.php (1)
@@ -3037,8 +3015,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Send emails
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
+#### [Send emails](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3066,13 +3043,13 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=61)** For starters, SMTP is good to go.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=64)** Once you choose and sign up for a service, you need to configure the service in app config mail.php.
+> **[1:04](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=64)** Once you choose and sign up for a service, you need to configure the service in app config mail.[[PHP]].
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=73)** Yeah, right here.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=74)** By default it's SMTP, and that's what we're going to use.
 >
-> **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=78)** For other drivers, you can refer to the Laravel documentation.
+> **[1:18](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=78)** For other drivers, you can refer to the [[Laravel]] documentation.
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-laravel-22373805/send-emails?u=76281980&t=82)** For local development, it's not necessary to send real emails.
 >
@@ -3274,7 +3251,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (2), data (2), feature (1)
+> **Frameworks & Libraries:** [[PHP]] (2), [[Laravel]] (2)
 > **Code Identifiers:** scheduledclass (4), classname (3), classcanceled (1), classcanceledmail (1), classtype (1)
 > **UI Navigation:** go to (3), open the (1), scroll down (1)
 > **Env Vars:** smtp (3), ses (1)
@@ -3283,14 +3260,13 @@ created: 2026-05-02
 > **File Paths:** mail.php (1), class-canceled.blade.php (1)
 > **URLs:** [mailtrap.io](https://mailtrap.io) (1)
 
-#### Send notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980)
+#### [Send notifications](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=0)** - [Instructor] What we sent just now is in fact a notification.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=4)** Laravel provides support for sending notifications across a variety of delivery channels, including email, SMS, and Slack as well at the same time.
+> **[0:04](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=4)** [[Laravel]] provides support for sending notifications across a variety of delivery channels, including email, SMS, and [[Slack]] as well at the same time.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=13)** You can even store the notifications in the database and display them within your app.
 >
@@ -3396,7 +3372,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=278)** And then you can add the date and time as well.
 >
-> **[4:41](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=281)** I'll leave you to fill the rest of the details.
+> **[4:41](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=281)** I'll leave you to fill the [[Representational State Transfer (REST)|rest]] of the details.
 >
 > **[4:44](https://www.linkedin.com/learning/advanced-laravel-22373805/send-notifications?u=76281980&t=284)** Now we can even get the user name from this notifiable object.
 >
@@ -3414,7 +3390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), data (2), [[Laravel]] (1), [[Slack]] (1), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (1), [[Slack]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** go to (3), open the (2), scroll down (1)
 > **Env Vars:** sms (2), url (1)
 > **CLI Commands:** make (1)
@@ -3423,8 +3399,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create jobs and queues
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980)
+#### [Create jobs and queues](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3432,19 +3407,19 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=12)** But when you use a real mail server, sending mail is too time consuming.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=17)** Once the instructor cancels a class, the page keeps loading until the mails are sent to all the members, and that's a very bad user experience.
+> **[0:17](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=17)** Once the instructor cancels a class, the page keeps loading until the mails are sent to all the members, and that's a very bad [[User Experience (UX)|user experience]].
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=27)** The instructor shouldn't have to wait.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=29)** The mailing has to happen in the background, right?
 >
-> **[0:31](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=31)** The perfect solution for that is creating jobs and queues in Laravel.
+> **[0:31](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=31)** The perfect solution for that is creating jobs and queues in [[Laravel]].
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=38)** You can use different queue backends like Amazon SQS or Redis and Laravel provides support for a variety of these.
+> **[0:38](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=38)** You can use different queue backends like Amazon SQS or [[Redis]] and Laravel provides support for a variety of these.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=46)** But in this video, we will use our own database for storing the jobs.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=51)** If you wish to use a different service you might have to edit the configuration in queue.php within the conflict directory.
+> **[0:51](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=51)** If you wish to use a different service you might have to edit the configuration in queue.[[PHP]] within the conflict directory.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-laravel-22373805/create-jobs-and-queues?u=76281980&t=60)** Whichever service you choose you need to specify the driver in the .env file .env, crawl up.
 >
@@ -3606,7 +3581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Laravel]] (3), [[User Experience (UX)|User experience]] (1), [[Redis]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[User Experience (UX)|User experience]] (1), [[Redis]] (1), [[PHP]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (2), php (1)
 > **Cross-References:** in the last (1), go back to (1)
@@ -3615,8 +3590,7 @@ created: 2026-05-02
 > **Env Vars:** sqs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Schedule tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980)
+#### [Schedule tasks](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3626,17 +3600,17 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=27)** In the past you may have used Cron Jobs for every such task that needs to be performed regularly, but it becomes a pain to manage tasks that way because you have to log into your server and schedule a task Using Cron Jobs.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=42)** Thanks to Laravel's scheduler, you can define your command schedule within your application itself.
+> **[0:42](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=42)** Thanks to [[Laravel]]'s scheduler, you can define your command schedule within your application itself.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=48)** Let me show you.
 >
-> **[0:50](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=50)** Go to Kernel.php within App\Console and you can see an example right here.
+> **[0:50](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=50)** Go to Kernel.[[PHP]] within App\Console and you can see an example right here.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=58)** If you uncomment this, the command inspire can be scheduled to run hourly.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=64)** That is this command runs every single hour.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=67)** Now let's create a command to fetch all the members who haven't booked any class and send a mail to all of them at the end of each day.
+> **[1:07](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=67)** Now let's create a command to [[Fetch]] all the members who haven't booked any class and send a mail to all of them at the end of each day.
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-laravel-22373805/schedule-tasks?u=76281980&t=76)** In this process, we not only learn task scheduling.
 >
@@ -3778,7 +3752,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[PHP]] (3), [[Laravel]] (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[PHP]] (3), [[Laravel]] (2), [[Fetch]] (2)
 > **CLI Commands:** php (3), make (2)
 > **Ports:** :00 (2), :16 (2), :15 (1)
 > **File Paths:** kernel.php (3)
@@ -3792,12 +3766,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
+#### [Get started with testing](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=0)** - [Instructor] Testing is an essential part of software development.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=0)** - [Instructor] Testing is an essential part of [[Software Development]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=3)** It allows you to ensure that your code is working as expected and that any changes you make won't break existing functionality.
 >
@@ -3805,7 +3778,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=13)** We'll be covering the basics in the next few videos.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=16)** When you install Laravel, the testing framework PHPUnit is included out of the box.
+> **[0:16](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=16)** When you install [[Laravel]], the testing framework PHPUnit is included out of the box.
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-laravel-22373805/get-started-with-testing?u=76281980&t=21)** You don't have to do any additional configuration to start testing right away.
 >
@@ -3895,7 +3868,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (4), next (3), [[Laravel]] (3), application (3), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[Software Development]] (1)
 > **Cross-References:** in the next (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** test_the_application_returns_a_successful_response (1)
@@ -3904,8 +3877,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Definitions:** is an  (1)
 
-#### Write HTTP tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980)
+#### [Write HTTP tests](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3913,7 +3885,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980&t=3)** The get method here makes a get request into the application, and the assertStatus method asserts that the return response should have the given HTTP status code.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980&t=15)** We can also make a post, put, patch, or a delete request, similarly, we can set session data, customize request headers, and use assertions to inspect the response headers, JSON structure, and more.
+> **[0:15](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980&t=15)** We can also make a post, put, patch, or a delete request, similarly, we can set session data, customize request headers, and use assertions to inspect the response headers, [[JSON]] structure, and more.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-laravel-22373805/write-http-tests?u=76281980&t=29)** Now let's test some of the instructor features of our app using HTTP tests.
 >
@@ -4077,7 +4049,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), [[JSON]] (1), hit (1), database (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Code Identifiers:** actingas (2), assertredirect (2), assertredirecttoroute (2), test_instructor_can_schedule_a_class (2), class_type_id (2)
 > **Env Vars:** url (4), http (2), json (1)
 > **CLI Commands:** make (3)
@@ -4086,14 +4058,13 @@ created: 2026-05-02
 > **Ports:** :00 (1)
 > **Cross-References:** previous video (1)
 
-#### Write database tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980)
+#### [Write database tests](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980&t=0)** - [Instructor] While writing HTTP tests, we have used some database-related utilities like model factories and seeding in our tests.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980&t=8)** In this video, we'll explore additional techniques provided by Laravel.
+> **[0:08](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980&t=8)** In this video, we'll explore additional techniques provided by [[Laravel]].
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-laravel-22373805/write-database-tests?u=76281980&t=12)** We'll use the same tests.
 >
@@ -4231,15 +4202,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[Laravel]] (3), next (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Laravel]] (3)
 > **Code Identifiers:** scheduled_classes (2), asserredirecttoroute (1), assertdatabase (1), assertdatabasecount (1), assertdatabasehas (1)
 > **Env Vars:** http (2)
 > **UI Navigation:** scroll up (1), scroll down (1)
 > **Prerequisites:** setup (1), install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test-driven development
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980)
+#### [Test-driven development](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4327,7 +4297,7 @@ created: 2026-05-02
 >
 > **[3:28](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980&t=208)** He's still able to see that cancel button.
 >
-> **[3:31](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980&t=211)** Let's go to the index view of upcoming.blade.php.
+> **[3:31](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980&t=211)** Let's go to the index view of upcoming.blade.[[PHP]].
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-laravel-22373805/test-driven-development?u=76281980&t=218)** And down here. Let's display this entire dev, only if the instructor is authorized.
 >
@@ -4387,7 +4357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), next (1), hit (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[PHP]] (1)
 > **Code Identifiers:** scheduledclass (3), assertdontseetext (2), test_cannot_cancel_class_less_than_two_hours_before (1), addhour (1), assertdatabasehas (1)
 > **UI Navigation:** go to (3), open the (1), scroll down (1)
 > **CLI Commands:** make (3), php (1)
@@ -4401,12 +4371,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Request lifecycle overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
+#### [Request lifecycle overview](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=0)** - [Instructor] When a user makes a request to a Laravel application, there are a series of steps that take place before the response is returned to the user.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=0)** - [Instructor] When a user makes a request to a [[Laravel]] application, there are a series of steps that take place before the response is returned to the user.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=9)** This is what we call a request lifecycle.
 >
@@ -4418,7 +4387,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=32)** Let's look at the code of the Laravel application.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=35)** This is the public directory, and here is the index.php file.
+> **[0:35](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=35)** This is the public directory, and here is the index.[[PHP]] file.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=41)** The first thing Laravel does is it sets the constant LARAVEL_START to the current time in milliseconds.
 >
@@ -4478,7 +4447,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=217)** This one.
 >
-> **[3:39](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=219)** This Kernel class is the one responsible for handling incoming requests, routing them to the appropriate controllers, and returning responses.
+> **[3:39](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=219)** This Kernel class is the one responsible for handling incoming requests, [[Routing]] them to the appropriate controllers, and returning responses.
 >
 > **[3:46](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=226)** And then, we are calling the handle method on the kernel.
 >
@@ -4516,7 +4485,7 @@ created: 2026-05-02
 >
 > **[5:37](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=337)** Laravel compiles the Blade code into standard PHP code that can be executed by the server.
 >
-> **[5:43](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=343)** Server then generates the HTML response that is sent back to the client, and that's what you see in the browser.
+> **[5:43](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=343)** Server then generates the [[HTML]] response that is sent back to the client, and that's what you see in the browser.
 >
 > **[5:50](https://www.linkedin.com/learning/advanced-laravel-22373805/request-lifecycle-overview?u=76281980&t=350)** That's a simplified overview of the request lifecycle.
 >
@@ -4524,7 +4493,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), [[Laravel]] (9), [[PHP]] (8), next (6), web (2)
+> **Frameworks & Libraries:** [[Laravel]] (9), [[PHP]] (8), [[Routing]] (1), [[HTML]] (1)
 > **CLI Commands:** php (8), find (3), composer (1), make (1)
 > **Env Vars:** php (2), url (1), laravel_start (1), http (1), uri (1)
 > **File Paths:** index.php (2), app.php (2), maintenance.php (1), web.php (1)
@@ -4533,14 +4502,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is a service container?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980)
+#### [What is a service container?](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=0)** - [Instructor] A while ago we saw that this application class is the heart of the entire application.
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=5)** This is a subclass of Laravel's service container.
+> **[0:05](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=5)** This is a subclass of [[Laravel]]'s service container.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=9)** This service container is responsible for managing the dependencies of an application.
 >
@@ -4570,7 +4538,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=108)** This is a super simplified version of any service container.
 >
-> **[1:52](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=112)** At the core, a service container simply is a PHP class that provides two main methods, bind and make.
+> **[1:52](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=112)** At the core, a service container simply is a [[PHP]] class that provides two main methods, bind and make.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-laravel-22373805/what-is-a-service-container?u=76281980&t=122)** The bind method takes a key and a closure function, and just stores them in this bindings area.
 >
@@ -4616,25 +4584,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Laravel]] (6), [[PHP]] (2), database (1), web (1)
+> **Frameworks & Libraries:** [[Laravel]] (6), [[PHP]] (2)
 > **CLI Commands:** make (4), php (2), find (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** php (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service providers in Laravel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980)
+#### [Service providers in Laravel](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=1)** - [Instructor] Now that we know how a service container in Laravel manages the objects and their dependencies, we can look at something called service providers.
+> **[0:01](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=1)** - [Instructor] Now that we know how a service container in [[Laravel]] manages the objects and their dependencies, we can look at something called service providers.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=10)** A service provider is a class that is responsible for registering the services or dependencies for your application.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=17)** So service provider is a place where you do the binding part of using the service container.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=24)** The core Laravel framework provides several built-in service providers that register various services for you, such as routing, database, validation, and encryption.
+> **[0:24](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=24)** The core Laravel framework provides several built-in service providers that register various services for you, such as [[Routing]], database, validation, and encryption.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=35)** Let's take a look at one of the core service providers in the Laravel.
 >
@@ -4650,7 +4617,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=65)** Similar to this ViewServiceProvider, Laravel has several of them responsible for bootstrapping the entire application by registering all of the necessary services and dependencies.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=75)** When your application starts up, Laravel automatically loads all of the service providers you can find in the config app.php.
+> **[1:15](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=75)** When your application starts up, Laravel automatically loads all of the service providers you can find in the config app.[[PHP]].
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-laravel-22373805/service-providers-in-laravel?u=76281980&t=86)** Here's all of them that it registers on boot.
 >
@@ -4658,7 +4625,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (6), application (4), [[Routing]] (1), database (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (6), [[Routing]] (1), [[PHP]] (1)
 > **CLI Commands:** find (1), php (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1), similar to (1)
@@ -4666,12 +4633,11 @@ created: 2026-05-02
 > **Code Identifiers:** registerfactory (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get to know Facades
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980)
+#### [Get to know Facades](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=0)** - [Instructor] Now, let's talk about facades and how they work with the service container in Laravel.
+> **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=0)** - [Instructor] Now, let's talk about facades and how they work with the service container in [[Laravel]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=5)** You have heard about facades and used several of them already.
 >
@@ -4697,7 +4663,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=64)** But how does Laravel know which service to instantiate when we call the hash facade?
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=69)** Remember, I mentioned that Laravel loads all of the service providers you can find in the config/app.php file.
+> **[1:09](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=69)** Remember, I mentioned that Laravel loads all of the service providers you can find in the config/app.[[PHP]] file.
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-laravel-22373805/get-to-know-facades?u=76281980&t=77)** Well, HashServiceProvider is one of them.
 >
@@ -4721,7 +4687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (6), database (1), [[PHP]] (1), [[Search]] (1), application (1)
+> **Frameworks & Libraries:** [[Laravel]] (6), [[PHP]] (1)
 > **CLI Commands:** make (4), find (1), php (1)
 > **File Paths:** config/app.php (1)
 > **UI Navigation:** scroll down (1)
@@ -4734,20 +4700,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quick summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)
+#### [Quick summary](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=0)** - [Instructor] Congratulations.
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=1)** You've not only come to an end of a huge course, you've also built a fully functional app making use of many of the advanced features of the Laravel framework.
+> **[0:01](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=1)** You've not only come to an end of a huge course, you've also built a fully functional app making use of many of the advanced features of the [[Laravel]] framework.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=10)** Let's quickly run through all that we learned in the process.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=14)** We first created a simple rule-based login and authentication system using custom middleware, gates and policies, while also revisiting CAD basics.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=24)** Then we learned how to seed our databases, making use of factories.
+> **[0:24](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=24)** Then we learned how to seed our [[Databases]], making use of factories.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-laravel-22373805/quick-summary?u=76281980&t=28)** We saw how to define many to many relationships using Eloquent.
 >
@@ -4777,7 +4742,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (7), functional (1), [[Databases]] (1), database (1), web (1)
+> **Frameworks & Libraries:** [[Laravel]] (7), [[Databases]] (1)
 > **Env Vars:** cad (1), http (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)

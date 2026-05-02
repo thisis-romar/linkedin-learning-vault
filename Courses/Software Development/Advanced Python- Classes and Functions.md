@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=0)** - [Joe] Python has quickly become one of the go-to programming languages for developers across a wide range of industries and application types from automation to data science to building complex back-end infrastructure.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=0)** - [Joe] [[Python (Programming Language)|Python]] has quickly become one of the go-to programming languages for developers across a wide range of industries and application types from automation to [[Data Science]] to building complex back-end infrastructure.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=13)** Hi, I'm Joe Marini.
 >
@@ -109,27 +108,26 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=39)** The Python language is always evolving and becoming more powerful and easier to use.
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=44)** So if you're ready to take your Python skills to the next level, then come join me in my LinkedIn Learning course, "Advanced Python: Language Features".
+> **[0:44](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction?u=76281980&t=44)** So if you're ready to take your Python skills to the next level, then come join me in my [[LinkedIn]] Learning course, "Advanced Python: Language Features".
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1), application (1), [[Automation]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Science]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
 > **Analogies:** just like (1)
 > **Speakers:** - [joe] (1)
 
-#### Getting set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980)
+#### [Getting set up](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=0)** - [Instructor] This course is intended for developers who are already familiar with Python and want to learn more about some of the advanced features of the language.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=0)** - [Instructor] This course is intended for developers who are already familiar with [[Python (Programming Language)|Python]] and want to learn more about some of the advanced features of the language.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=8)** You don't need to be a deep expert on Python but you do need to have an understanding of the basics, such as how to write functions, and use variables and so on.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=16)** Now, there's a couple of different ways you can work with the example code in this course.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=20)** I've set up a GitHub repository with the examples, and you can find it at this link you see here.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=20)** I've set up a [[GitHub]] repository with the examples, and you can find it at this link you see here.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=26)** The course content is organized into two separate folders.
 >
@@ -149,7 +147,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=82)** All you need to do is fork a copy of the repository in your own GitHub account and then fire up a codespace here in the Code menu.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=89)** Just go to the Codespaces tab and click on the little plus sign and you'll be able to work online in the Cloud.
+> **[1:29](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=89)** Just go to the [[Codespaces]] tab and click on the little plus sign and you'll be able to work online in the Cloud.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-python-classes-and-functions/getting-set-up?u=76281980&t=95)** Now you can see I've already done that.
 >
@@ -189,7 +187,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2), [[Search]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[GitHub]] (3), [[Codespaces]] (2)
 > **CLI Commands:** python (8), make (2), find (1)
 > **Tools:** github (3), terminal (3), visual studio (2)
 > **Prerequisites:** install (4), set up (3), you'll need (1)
@@ -198,8 +196,7 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Analogies:** such as (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -209,7 +206,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980&t=16)** These challenges are hosted by Coder Pad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980&t=25)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980&t=25)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-classes-and-functions/tour-of-coderpad?u=76281980&t=34)** The Code Challenge has four areas.
 >
@@ -275,7 +272,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (2)
 > **Cross-References:** next video (1)
@@ -287,8 +284,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python coding style
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980)
+#### [Python coding style](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +294,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=16)** And by adhering to a consistent programming style, you can make your job as well as the jobs of your colleagues a lot easier.
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=23)** So the The Python Foundation has a series of Python Enhancement Proposals or PEPs, which you can find on the [python.org](https://python.org) site in the developer guide.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=23)** So the The [[Python (Programming Language)|Python]] Foundation has a series of Python Enhancement Proposals or PEPs, which you can find on the [python.org](https://python.org) site in the developer guide.
 >
 > **[0:34](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=34)** We're going to take a look at some of the guidelines specified by PEP 8, which is the style guide for Python code and can be found at this link.
 >
@@ -324,7 +320,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=102)** Individual lines of code should be limited to 79 characters including indentation spaces, and for comments and docstrings limit those to 72 characters.
 >
-> **[1:54](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=114)** This makes it easy to have multiple code windows open and view them side by side, such as when you're using code difference tools to compare files.
+> **[1:54](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=114)** This makes it easy to have multiple code [[Windows]] open and view them side by side, such as when you're using code difference tools to compare files.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-coding-style?u=76281980&t=122)** Functions and classes should be separated by two blank lines.
 >
@@ -376,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (2), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Windows]] (1)
 > **CLI Commands:** python (8), make (3), find (1)
 > **Env Vars:** pep (4)
 > **Analogies:** for example (2), such as (1)
@@ -385,12 +381,11 @@ created: 2026-05-02
 > **URLs:** [python.org](https://python.org) (1)
 > **Versions:** python 3 (1)
 
-#### Understanding strings vs. bytes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/understanding-strings-vs-bytes?u=76281980)
+#### [Understanding strings vs. bytes](https://www.linkedin.com/learning/advanced-python-classes-and-functions/understanding-strings-vs-bytes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/understanding-strings-vs-bytes?u=76281980&t=0)** - [Instructor] In Python 3, there are very important differences between the notions of strings and bytes, and it's important to understand this distinction.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/understanding-strings-vs-bytes?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]] 3, there are very important differences between the notions of strings and bytes, and it's important to understand this distinction.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/understanding-strings-vs-bytes?u=76281980&t=8)** A string in Python 3 is a sequence of Unicode characters while bytes are a sequence of raw eight bit values.
 >
@@ -487,12 +482,11 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### The assignment expression
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980)
+#### [The assignment expression](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=0)** - Back in the Python 3.8 release, a new operator became available that helps simplify variable assignments that can make your code more concise and meaningful.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=0)** - Back in the [[Python (Programming Language)|Python]] 3.8 release, a new operator became available that helps simplify variable assignments that can make your code more concise and meaningful.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=10)** So in order to understand how this new operator makes things easier, let's first take a look at how assignment statements work.
 >
@@ -650,7 +644,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=387)** So now I'm getting both the result and setting aside the variables.
 >
-> **[6:31](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=391)** And then I can just simplify the rest of this by doing s / l.
+> **[6:31](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=391)** And then I can just simplify the [[Representational State Transfer (REST)|rest]] of this by doing s / l.
 >
 > **[6:37](https://www.linkedin.com/learning/advanced-python-classes-and-functions/the-assignment-expression?u=76281980&t=397)** Okay, so now I've removed the redundant function calls, and I've got my temporary variables directly in the code right where they're being used.
 >
@@ -664,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), data (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (7), make (5), find (3)
 > **Analogies:** for example (2), imagine (1)
 > **Definitions:** is a  (2)
@@ -673,12 +667,11 @@ created: 2026-05-02
 > **Versions:** python 3 (1)
 > **Speakers:** - back (1)
 
-#### Boolean types and values
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/boolean-types-and-values?u=76281980)
+#### [Boolean types and values](https://www.linkedin.com/learning/advanced-python-classes-and-functions/boolean-types-and-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/boolean-types-and-values?u=76281980&t=0)** - [Instructor] In Python, we have the basic built-in boolean type to represent true and false values.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/boolean-types-and-values?u=76281980&t=0)** - [Instructor] In [[Python (Programming Language)|Python]], we have the basic built-in boolean type to represent true and false values.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-classes-and-functions/boolean-types-and-values?u=76281980&t=6)** However, any object can be tested for boolean truth values.
 >
@@ -754,7 +747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Versions:** 0.0 (1)
 > **Cross-References:** later in (1)
@@ -763,12 +756,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Template strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/template-strings?u=76281980)
+#### [Template strings](https://www.linkedin.com/learning/advanced-python-classes-and-functions/template-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/template-strings?u=76281980&t=0)** - [Instructor] It probably comes as no surprise to you that string formatting is one of the most common things that Python programmers have to do.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/template-strings?u=76281980&t=0)** - [Instructor] It probably comes as no surprise to you that string formatting is one of the most common things that [[Python (Programming Language)|Python]] programmers have to do.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/template-strings?u=76281980&t=8)** And it might come as a surprise to you that there's no fewer than four ways to perform string formatting in Python.
 >
@@ -850,7 +842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (1), power (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **Exercise Files:** template (9)
 > **CLI Commands:** python (4), make (1)
 > **Documentation:** the documentation (1)
@@ -864,14 +856,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Documentation strings
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980)
+#### [Documentation strings](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980&t=0)** - [Narrator] It's always a good idea to write documentation for your functions and classes and modules.
 >
-> **[0:06](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980&t=6)** And we're going to do that in this video by taking advantage of a Python feature called docstrings.
+> **[0:06](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980&t=6)** And we're going to do that in this video by taking advantage of a [[Python (Programming Language)|Python]] feature called docstrings.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-classes-and-functions/documentation-strings?u=76281980&t=11)** And personally I think this is one of the great underappreciated features of Python.
 >
@@ -961,7 +952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), feature (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (4), find (1)
 > **Documentation:** the documentation (3)
 > **Tools:** terminal (2)
@@ -969,12 +960,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Variable argument lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/variable-argument-lists?u=76281980)
+#### [Variable argument lists](https://www.linkedin.com/learning/advanced-python-classes-and-functions/variable-argument-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/variable-argument-lists?u=76281980&t=0)** - [Instructor] Like other programming languages, Python functions support variable argument lists.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/variable-argument-lists?u=76281980&t=0)** - [Instructor] Like other programming languages, [[Python (Programming Language)|Python]] functions support variable argument lists.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-classes-and-functions/variable-argument-lists?u=76281980&t=5)** This makes it possible to build functions that have a high degree of flexibility by accepting different numbers of parameters.
 >
@@ -1062,7 +1052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), make (1)
 > **Analogies:** for example (2), imagine (1)
 > **Code Identifiers:** varargs_start (1)
@@ -1070,14 +1060,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lambda functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980)
+#### [Lambda functions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980&t=0)** - [Instructor] If you've done any programming in other languages, such as JavaScript or C# or Java, you've probably seen or worked with anonymous functions.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980&t=0)** - [Instructor] If you've done any programming in other languages, such as [[JavaScript]] or C# or [[Java]], you've probably seen or worked with anonymous functions.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980&t=10)** Python also supports these and they are referred to as lambda functions.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980&t=10)** [[Python (Programming Language)|Python]] also supports these and they are referred to as lambda functions.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/lambda-functions?u=76281980&t=15)** Lambda functions can be passed as arguments to other functions to perform some processing work, much like a callback function in a language like JavaScript works.
 >
@@ -1169,7 +1158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Programming]] (1), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Java]] (1), [[Python (Programming Language)|Python]] (1)
 > **Code Identifiers:** celsius_to_fahrenheit (4), fahrenheit_to_celsius (4), lambda_start (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** such as (1), for example (1)
@@ -1177,12 +1166,11 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyword-only arguments
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/keyword-only-arguments?u=76281980)
+#### [Keyword-only arguments](https://www.linkedin.com/learning/advanced-python-classes-and-functions/keyword-only-arguments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/keyword-only-arguments?u=76281980&t=0)** - [Instructor] Another similarity that Python has with some other programming languages is that it provides a way for specifying function parameters using keywords.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/keyword-only-arguments?u=76281980&t=0)** - [Instructor] Another similarity that [[Python (Programming Language)|Python]] has with some other programming languages is that it provides a way for specifying function parameters using keywords.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/keyword-only-arguments?u=76281980&t=8)** So for example, you can define a function that takes positional arguments along with keyword arguments that take optional values like this one where arg3 defaults to a specific value.
 >
@@ -1242,14 +1230,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3), find (1), make (1)
 > **Analogies:** for example (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Advanced Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980)
+#### [Solution: Advanced Functions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1267,7 +1254,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=24)** So, we have these three characters with the explanation of what the string combiner function does, followed by the closing three quotes, and that's what creates our docstring.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=34)** For the rest of the solution, remember that we had to combine all the string and integer number arguments into one result string and ignore other types, and we also had to take into account this unique parameter to see if we needed to return a string that only had unique characters in it.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=34)** For the [[Representational State Transfer (REST)|rest]] of the solution, remember that we had to combine all the string and integer number arguments into one result string and ignore other types, and we also had to take into account this unique parameter to see if we needed to return a string that only had unique characters in it.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=55)** So, you can see that the function definition has a variable argument list, and that's how the code was called.
 >
@@ -1277,7 +1264,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=71)** And what I'm doing is I'm using the isInstance function to check to see if the argument is either an integer or a string, and if so, it adds it to the result string.
 >
-> **[1:25](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=85)** And you might be wondering like why Booleans end up getting involved and included in the result, and that's because Booleans, the way they're implemented in Python, they're actually integers.
+> **[1:25](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=85)** And you might be wondering like why Booleans end up getting involved and included in the result, and that's because Booleans, the way they're implemented in [[Python (Programming Language)|Python]], they're actually integers.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-advanced-functions-24355133?u=76281980&t=95)** So, this isInstance call will return true for Booleans as well as integers, but you probably noticed that floating points got left out.
 >
@@ -1341,7 +1328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** isinstance (2)
 > **Definitions:** is a  (1)
@@ -1353,12 +1340,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980)
+#### [Introduction to comprehensions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about a Python language construct known as comprehensions, and these can be applied to lists, sets, and dictionaries.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980&t=0)** - [Instructor] In this chapter, we're going to learn about a [[Python (Programming Language)|Python]] language construct known as comprehensions, and these can be applied to lists, sets, and dictionaries.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-classes-and-functions/introduction-to-comprehensions?u=76281980&t=9)** Comprehensions give us a short, concise way to derive a new sequence of values from an existing sequence of values.
 >
@@ -1404,13 +1390,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### List comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/list-comprehensions?u=76281980)
+#### [List comprehensions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/list-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1529,8 +1514,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dictionary comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/dictionary-comprehensions?u=76281980)
+#### [Dictionary comprehensions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/dictionary-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1638,21 +1622,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (2)
 > **CLI Commands:** make (3)
 > **Analogies:** similar to (1), imagine (1)
 > **Tools:** terminal (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980)
+#### [Set comprehensions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980&t=0)** - [Narrator] All right, in this video we're going to turn our attention to look at how you can use comprehensions to work with sets of values.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980&t=8)** And recall, sets in Python are used to contain unique values.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980&t=8)** And recall, sets in [[Python (Programming Language)|Python]] are used to contain unique values.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-classes-and-functions/set-comprehensions?u=76281980&t=13)** So each value in a given set can only occur one time.
 >
@@ -1764,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), power (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Versions:** 53.6 (1)
 > **Cross-References:** go back to (1)
@@ -1773,8 +1755,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Solution: Comprehensions
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980)
+#### [Solution: Comprehensions](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1784,7 +1765,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=15)** And remember, we didn't have to return any values from the function.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=18)** All we needed to do was set the values of these global variables and the testing code did the rest.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=18)** All we needed to do was set the values of these global variables and the testing code did the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=25)** So the first piece of data we needed to calculate was the length of the string.
 >
@@ -1798,7 +1779,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=41)** So for this, I used a list comprehension, which you can see by the square brackets there.
 >
-> **[0:48](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=48)** So the list comprehension processes each character in the string and tests to see if it's a number by using the isnumeric built-in Python function.
+> **[0:48](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=48)** So the list comprehension processes each character in the string and tests to see if it's a number by using the isnumeric built-in [[Python (Programming Language)|Python]] function.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-comprehensions-24354357?u=76281980&t=59)** And then we use the length function to find the length of this list.
 >
@@ -1860,7 +1841,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (2), [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1869,12 +1850,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python classes overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980)
+#### [Python classes overview](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=0)** - [Instructor] You've probably created your own Python classes in programs you've written before.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=0)** - [Instructor] You've probably created your own [[Python (Programming Language)|Python]] classes in programs you've written before.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=5)** In this chapter, we're going to learn about some of the more advanced features of Python classes and how to customize the behavior of classes.
 >
@@ -1882,7 +1862,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=24)** This customizability is achieved by using special functions and features that are a part of every object defined in Python.
 >
-> **[0:32](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=32)** First, you can use Python classes to create enumerations which you may be familiar with from other languages like Java or C++.
+> **[0:32](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=32)** First, you can use Python classes to create enumerations which you may be familiar with from other languages like [[Java]] or C++.
 >
 > **[0:40](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=40)** Enumerations are used to make constant values easier to read and modify from one central place.
 >
@@ -1892,22 +1872,21 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=68)** You can also give your classes numeric like behavior so they can support operations like addition and subtraction.
 >
-> **[1:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=75)** In the rest of this chapter, we'll see how to use these techniques to create classes that are easy to work with and are flexible enough to solve a variety of programming challenges.
+> **[1:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/python-classes-overview?u=76281980&t=75)** In the [[Representational State Transfer (REST)|rest]] of this chapter, we'll see how to use these techniques to create classes that are easy to work with and are flexible enough to solve a variety of programming challenges.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Java]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining enumerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/defining-enumerations?u=76281980)
+#### [Defining enumerations](https://www.linkedin.com/learning/advanced-python-classes-and-functions/defining-enumerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/defining-enumerations?u=76281980&t=0)** - [Instructor] Python supports enumerations just like other popular programming languages, and they're useful in a variety of scenarios.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/defining-enumerations?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] supports enumerations just like other popular programming languages, and they're useful in a variety of scenarios.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-classes-and-functions/defining-enumerations?u=76281980&t=7)** Usually, they're used to assign easy-to-read names to constant values in a program which helps to increase the readability of your code.
 >
@@ -2031,7 +2010,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Programming]] (3), feature (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **Env Vars:** apple (11), banana (3), pear (3), red_delicious (2), orange (1)
 > **CLI Commands:** python (3), make (3)
 > **Code Identifiers:** my_fruits (3), enums_start (1)
@@ -2040,12 +2019,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special methods: string values
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980)
+#### [Special methods: string values](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=0)** - [Instructor] Another fairly common operation in Python is to obtain a string representation of a particular piece of data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=0)** - [Instructor] Another fairly common operation in [[Python (Programming Language)|Python]] is to obtain a string representation of a particular piece of data.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=7)** So consider, for example, what happens when you use the string formatting function?
 >
@@ -2211,11 +2189,11 @@ created: 2026-05-02
 >
 > **[8:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=480)** And when I run utf-32, you can see, oh these are much more complex bytes now.
 >
-> **[8:04](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=484)** So by overriding these functions, you could exert a lot of control over how your objects are represented in both string and byte forms.
+> **[8:04](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-string-values?u=76281980&t=484)** So by overriding these functions, you could exert a lot of control over how your objects are represented in both string and byte [[Forms]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), data (5), [[Debugging]] (1), next (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Forms]] (1)
 > **CLI Commands:** python (9), make (1)
 > **Definitions:** is called (2), in other words (1), is a  (1)
 > **Analogies:** such as (2), for example (1)
@@ -2224,12 +2202,11 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Cross-References:** go back to (1)
 
-#### Special methods: computed attributes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-computed-attributes?u=76281980)
+#### [Special methods: computed attributes](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-computed-attributes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-computed-attributes?u=76281980&t=0)** - [Instructor] In a previous video, we saw how to use special Python class methods to generate string representations of objects.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-computed-attributes?u=76281980&t=0)** - [Instructor] In a previous video, we saw how to use special [[Python (Programming Language)|Python]] class methods to generate string representations of objects.
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-computed-attributes?u=76281980&t=7)** In this example, we'll take the customization a step further.
 >
@@ -2399,7 +2376,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), css (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **Definitions:** is called (6)
 > **CLI Commands:** python (5)
 > **Env Vars:** rgb (2), css (1)
@@ -2408,12 +2385,11 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Warnings:** be careful (1)
 
-#### Special methods: operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-operations?u=76281980)
+#### [Special methods: operations](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-operations?u=76281980&t=0)** - [Instructor] Using special class methods you can give your classes abilities that they don't natively get from Python, but that other built-in objects have.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-operations?u=76281980&t=0)** - [Instructor] Using special class methods you can give your classes abilities that they don't natively get from [[Python (Programming Language)|Python]], but that other built-in objects have.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-operations?u=76281980&t=8)** And one of those is the ability to emulate the behavior of numeric values in order to support operations like addition and subtraction.
 >
@@ -2589,14 +2565,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3)
 > **CLI Commands:** python (3)
 > **Analogies:** such as (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Special methods: comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980)
+#### [Special methods: comparisons](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2722,7 +2697,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980&t=364)** So this is before the sort.
 >
-> **[6:06](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980&t=366)** So Doe should have come first because John's got the least seniority, right?
+> **[6:06](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980&t=366)** So Doe should have come first because [[John the Ripper|John]]'s got the least seniority, right?
 >
 > **[6:13](https://www.linkedin.com/learning/advanced-python-classes-and-functions/special-methods-comparisons?u=76281980&t=373)** So this is prior to the sort.
 >
@@ -2748,13 +2723,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Code Identifiers:** comparison_start (1)
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Special Methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-special-methods-24354356?u=76281980)
+#### [Solution: Special Methods](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-special-methods-24354356?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2826,16 +2801,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of pattern matching
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980)
+#### [Overview of pattern matching](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=0)** [Instructor] - One of the things that I've always felt was missing from Python was an elegant way of matching a value against a variety of possible conditions.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=0)** [Instructor] - One of the things that I've always felt was missing from [[Python (Programming Language)|Python]] was an elegant way of matching a value against a variety of possible conditions.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=8)** Python finally addressed this shortcoming in Version 3.10 by introducing what's known as the match case construct.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=15)** In other languages like JavaScript or Java or C:, this is called the switch statement and it looks something like this.
+> **[0:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=15)** In other languages like [[JavaScript]] or [[Java]] or C:, this is called the switch statement and it looks something like this.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-classes-and-functions/overview-of-pattern-matching?u=76281980&t=23)** You specify a value to test against and then you can list a variety of statements to execute based upon that value.
 >
@@ -2861,8 +2835,7 @@ created: 2026-05-02
 > **Versions:** version 3 (1)
 > **Analogies:** such as (1)
 
-#### Simple patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980)
+#### [Simple patterns](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2896,7 +2869,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980&t=127)** And now you can see the different output.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980&t=129)** And I'll go ahead and actually put the word Zero in there and let's run again.
+> **[2:09](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980&t=129)** And I'll go ahead and actually put the [[Microsoft Word|word]] Zero in there and let's run again.
 >
 > **[2:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/simple-patterns?u=76281980&t=136)** And now I get the zero value.
 >
@@ -2906,13 +2879,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Word|Word]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** simple_start (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Capture patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/capture-patterns?u=76281980)
+#### [Capture patterns](https://www.linkedin.com/learning/advanced-python-classes-and-functions/capture-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2970,7 +2942,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), feature (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
@@ -2978,8 +2949,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Class patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/class-patterns?u=76281980)
+#### [Class patterns](https://www.linkedin.com/learning/advanced-python-classes-and-functions/class-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3045,8 +3015,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sequence patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980)
+#### [Sequence patterns](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3070,7 +3039,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=77)** So let's do that one first.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=79)** So I'm going to look for the literal word Mul and then two numbers, num1 and num2.
+> **[1:19](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=79)** So I'm going to look for the literal [[Microsoft Word|word]] Mul and then two numbers, num1 and num2.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=87)** And then I'll just simply say result = num1 times num2.
 >
@@ -3094,7 +3063,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=157)** And then I'll just simply say, result is equal to, and I'll use the sum function to add up nums.
 >
-> **[2:43](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=163)** And sum is a built-in python function.
+> **[2:43](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=163)** And sum is a built-in [[Python (Programming Language)|python]] function.
 >
 > **[2:46](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=166)** So this will capture the literal string add followed by any number of numbers, and then we just add them all up.
 >
@@ -3128,7 +3097,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=249)** I'll just simply add num1 before the star.
 >
-> **[4:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=255)** And then change this to be num1 plus the sum of the rest of the numbers.
+> **[4:15](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=255)** And then change this to be num1 plus the sum of the [[Representational State Transfer (REST)|rest]] of the numbers.
 >
 > **[4:20](https://www.linkedin.com/learning/advanced-python-classes-and-functions/sequence-patterns?u=76281980&t=260)** So now there has to be at least one number.
 >
@@ -3140,14 +3109,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (2)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pattern guards
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980)
+#### [Pattern guards](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3211,7 +3179,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=165)** So let's bring up our terminal and let's run this.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=172)** So python guards.
+> **[2:52](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=172)** So [[Python (Programming Language)|python]] guards.
 >
 > **[2:56](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=176)** Alright, and you can see that when I run this, I've got, let's see, so yeah, so for the circle with radius of nine, we get large circle with the area as opposed to the regular circle output and then we've got regular rectangles, and then we have the square rectangle in the case where both the width and the height are the same.
 >
@@ -3221,7 +3189,7 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=222)** You can see that that large circle case no longer fires because now every circle matches the first case and that's where the matching stops, right?
 >
-> **[3:52](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=232)** The code says, oh, found my match, and it doesn't do any of the rest of them.
+> **[3:52](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=232)** The code says, oh, found my match, and it doesn't do any of the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[3:57](https://www.linkedin.com/learning/advanced-python-classes-and-functions/pattern-guards?u=76281980&t=237)** So you can actually get pretty sophisticated with pattern guards.
 >
@@ -3289,7 +3257,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Python (Programming Language)|Python]] (2), generic (1), [[Representational State Transfer (REST)|Rest]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (2), is an  (2)
 > **CLI Commands:** python (2), find (1)
 > **Analogies:** just like (1), for example (1)
@@ -3298,8 +3266,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **UI Navigation:** scroll up (1)
 
-#### Solution: Patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-patterns-24356118?u=76281980)
+#### [Solution: Patterns](https://www.linkedin.com/learning/advanced-python-classes-and-functions/solution-patterns-24356118?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,20 +3341,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=0)** - [Joe] All right, well, that brings us to the end of the course.
 >
-> **[0:02](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about some of Python's more advanced language features, and now that you've seen what the Python language is capable of, maybe you might want to check out some ways you can apply your newfound skills.
+> **[0:02](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=2)** I hope you enjoyed learning along with me about some of [[Python (Programming Language)|Python]]'s more advanced language features, and now that you've seen what the Python language is capable of, maybe you might want to check out some ways you can apply your newfound skills.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=16)** I would suggest maybe taking a look at learning Python GUI programming to see how you can build user interfaces with Python, or maybe check out [[Python Object-Oriented Programming]] to learn more about building Python programs at scale.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=16)** I would suggest maybe taking a look at learning Python GUI programming to see how you can build user interfaces with Python, or maybe check out [[Python [[Object-Oriented Programming (OOP)|Object-Oriented Programming]]]] to learn more about building Python programs at scale.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=29)** Whatever you choose to do next, don't forget to keep your Python skills up to date by reading up on the [python.org](https://python.org) website.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=35)** And feel free to connect with me on LinkedIn.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=35)** And feel free to connect with me on [[LinkedIn]].
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-classes-and-functions/next-steps?u=76281980&t=37)** I hope to see you again in another one of my courses soon.
 >
@@ -3395,7 +3361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Programming]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (8)
 > **URLs:** [python.org](https://python.org) (1)
 > **Env Vars:** gui (1)

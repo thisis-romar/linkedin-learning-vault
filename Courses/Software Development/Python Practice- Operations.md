@@ -65,12 +65,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try your Python programming skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980)
+#### [Try your Python programming skills](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980&t=0)** - [Instructor] Python is one of the most popular programming languages in the world.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980&t=0)** - [Instructor] [[Python (Programming Language)|Python]] is one of the most popular programming languages in the world.
 >
 > **[0:04](https://www.linkedin.com/learning/python-practice-operations/try-your-python-programming-skills?u=76281980&t=4)** Knowledge of Python opens the door to working with data, building applications, and solving problems, with code that can run on many types of devices.
 >
@@ -86,22 +85,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5)
 > **CLI Commands:** python (5)
 > **Speakers:** - [instructor] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with the basics of working with Python.
+> **[0:00](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=0)** - [Instructor] In this Code Challenge course, I expect you to be familiar with the basics of working with [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=5)** We'll start out working with strings, and we'll use some flow control and conditional statements too.
 >
 > **[0:10](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=10)** The challenges start out quite basic and become more involved as the course moves on.
 >
-> **[0:15](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=15)** If you need to refresh your Python knowledge, take a look at these courses in the LinkedIn Learning Library.
+> **[0:15](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=15)** If you need to refresh your Python knowledge, take a look at these courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:20](https://www.linkedin.com/learning/python-practice-operations/what-you-need-to-know?u=76281980&t=20)** To work on these challenges, you don't need to install any separate software.
 >
@@ -111,14 +109,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring the Lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980)
+#### [Exploring the Lab environment](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -128,7 +125,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=14)** These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the courses' videos.
 >
-> **[0:20](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:28](https://www.linkedin.com/learning/python-practice-operations/exploring-the-lab-environment?u=76281980&t=28)** The Code Challenge has four areas.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -181,8 +178,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Are two strings equal?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980)
+#### [Solution: Are two strings equal?](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,7 +220,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=75)** And that's led to a lot of pretty famous software bugs over the past few years.
 >
-> **[1:20](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=80)** Python can catch this mistake for us, but it's always important to keep in mind.
+> **[1:20](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=80)** [[Python (Programming Language)|Python]] can catch this mistake for us, but it's always important to keep in mind.
 >
 > **[1:24](https://www.linkedin.com/learning/python-practice-operations/solution-1-are-two-strings-equal?u=76281980&t=84)** Comparing strings and other items and returning a true or false value as the result is something we'll find ourselves doing often in Python programs.
 
@@ -237,8 +233,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: String replacement
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-2-string-replacement?u=76281980)
+#### [Solution: String replacement](https://www.linkedin.com/learning/python-practice-operations/solution-2-string-replacement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -262,8 +257,7 @@ created: 2026-05-02
 >
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Reverse a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980)
+#### [Solution: Reverse a string](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,7 +275,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=30)** We'll be seeing that later in this set of challenges.
 >
-> **[0:32](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=32)** String slicing has a third term, though, which is an interval, so we could put two or something like that and tell the Python string slicing to return every other index item.
+> **[0:32](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=32)** String slicing has a third term, though, which is an interval, so we could put two or something like that and tell the [[Python (Programming Language)|Python]] string slicing to return every other index item.
 >
 > **[0:42](https://www.linkedin.com/learning/python-practice-operations/solution-3-reverse-a-string?u=76281980&t=42)** Putting a one here is the same as leaving that term off because an interval of one is just the normal counting of items, one at a time.
 >
@@ -307,16 +301,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Format a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980)
+#### [Solution: Format a string](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=0)** - [Instructor] String formatting is important when we're outputting mixed data types or when we need to control spacing or precision in our output.
 >
-> **[0:07](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=7)** A common way of formatting strings in Python is to use f-strings to interpolate various pieces of information within a string.
+> **[0:07](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=7)** A common way of formatting strings in [[Python (Programming Language)|Python]] is to use f-strings to interpolate various pieces of information within a string.
 >
-> **[0:14](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=14)** This lets us include things like numbers in a string without having to cast them as strings and use regular string concatenation to compose our string.
+> **[0:14](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=14)** This lets us include things like numbers in a string without having to cast them as strings and use regular string concatenation to [[Jetpack Compose|compose]] our string.
 >
 > **[0:21](https://www.linkedin.com/learning/python-practice-operations/solution-4-format-a-string?u=76281980&t=21)** An f-stringing starts with the letter f and then has the regular string in either single or double quotes.
 >
@@ -340,12 +333,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), data (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Insert into a string
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-5-insert-into-a-string?u=76281980)
+#### [Solution: Insert into a string](https://www.linkedin.com/learning/python-practice-operations/solution-5-insert-into-a-string?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -379,12 +371,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Does a string contain all the letters?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-6-does-a-string-contain-all-the-letters?u=76281980)
+#### [Solution: Does a string contain all the letters?](https://www.linkedin.com/learning/python-practice-operations/solution-6-does-a-string-contain-all-the-letters?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -440,13 +430,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** ascii_lowercase (2)
 > **Definitions:** short for (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Anagram validator
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/solution-7-anagram-validator?u=76281980)
+#### [Solution: Anagram validator](https://www.linkedin.com/learning/python-practice-operations/solution-7-anagram-validator?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,22 +513,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=0)** - [Scott] If you are able to solve these challenges, congratulations.
 >
-> **[0:03](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of Python and come back and try again.
+> **[0:03](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of [[Python (Programming Language)|Python]] and come back and try again.
 >
-> **[0:08](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=8)** If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code Challenge Courses here on LinkedIn Learning.
+> **[0:08](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=8)** If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code Challenge Courses here on [[LinkedIn]] Learning.
 >
 > **[0:16](https://www.linkedin.com/learning/python-practice-operations/next-steps?u=76281980&t=16)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 

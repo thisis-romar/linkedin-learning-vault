@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing to install Windows Server 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980)
+#### [Preparing to install Windows Server 2019](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=0)** - [Scott] So you want to install a new Windows server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=0)** - [Scott] So you want to install a new [[Windows Server]].
 >
 > **[0:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=3)** Have you stopped to ask yourself why?
 >
@@ -96,9 +95,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=8)** Rather, I want to point out the importance of defining what a new server will do before you start shopping and definitely before you start running the installation process.
 >
-> **[0:19](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=19)** In this course, we will explore the planning progress as well as the necessary steps to get a new Windows 2019 server installed and productive in your environment.
+> **[0:19](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=19)** In this course, we will explore the planning progress as well as the necessary steps to get a new [[Windows]] 2019 server installed and productive in your environment.
 >
-> **[0:30](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=30)** We will use legacy administration tools on the desktop, as well as PowerShell to configure a fresh installation of Windows server with an identity, network address, storage and the necessary roles to serve your network needs.
+> **[0:30](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=30)** We will use legacy administration tools on the desktop, as well as [[Powershell]] to configure a fresh installation of Windows server with an identity, network address, storage and the necessary roles to serve your network needs.
 >
 > **[0:45](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/preparing-to-install-windows-server-2019?u=76281980&t=45)** Hi, I'm Scott Burrell, and I'm a big fab of measuring twice so we can cut only once.
 >
@@ -111,8 +110,7 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Speakers:** - [scott] (1)
 
-#### What you should already know
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980)
+#### [What you should already know](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=4)** First, this course is a beginner level course with no prerequisites.
 >
-> **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=9)** While I will use the technically accurate terms for the different pieces and capabilities of Windows Server it is not necessary that you have a lot of background in administering Windows Servers.
+> **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=9)** While I will use the technically accurate terms for the different pieces and capabilities of [[Windows Server]] it is not necessary that you have a lot of background in administering [[Windows]] Servers.
 >
 > **[0:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=20)** The installation and initial configuration of a server is an introductory task.
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=54)** I'm certain that you can follow along with much less.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=57)** Virtual machines are a great way to test out processes that are new to you without creating potential problems with your product environment.
+> **[0:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/what-you-should-already-know?u=76281980&t=57)** [[Virtual Machines]] are a great way to test out processes that are new to you without creating potential problems with your product environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (1), next (1), [[Virtualization]] (1), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (1), [[Virtual Machines]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** ram (1)
 > **Speakers:** - [lecturer] (1)
@@ -148,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning the role(s) of the server
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980)
+#### [Planning the role(s) of the server](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,15 +158,15 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=12)** Figuring out the answer may be simple or it may be somewhat involved but one thing is for certain, it will determine the answer to every other question that you need to address to install and configure the server.
 >
-> **[0:25](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=25)** Windows Serve 2019 is capable of sharing files and printers.
+> **[0:25](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=25)** [[Windows]] Serve 2019 is capable of sharing files and printers.
 >
 > **[0:30](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=30)** It's also capable of centralizing user identity and handing out IP configurations.
 >
 > **[0:36](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=36)** And all of the other things that you've come to expect from a network server.
 >
-> **[0:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=40)** It can also host entire networks of virtual machines and virtualize applications and containers, replicate storage locally, globally, and so much more.
+> **[0:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=40)** It can also host entire networks of [[Virtual Machines]] and virtualize applications and containers, replicate storage locally, globally, and so much more.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=52)** And while it's good to familiarize yourself with the range of the roles and features available in Windows Server, especially things that are new, your planning should start out with an assessment of what your organization needs a server to do.
+> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=52)** And while it's good to familiarize yourself with the range of the roles and features available in [[Windows Server]], especially things that are new, your planning should start out with an assessment of what your organization needs a server to do.
 >
 > **[1:07](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=67)** Start by making a list of server needs in a matrix somewhat like this.
 >
@@ -183,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=107)** For example, company files contain valuable, often proprietary information, they have to kept secure but they also have to be kept open and available for users to access everyday.
 >
-> **[2:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=120)** User information inside active directory often defines which users get that access as well as who can manage various servers, who can run different applications and more.
+> **[2:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=120)** User information inside [[Active Directory]] often defines which users get that access as well as who can manage various servers, who can run different applications and more.
 >
 > **[2:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=132)** It's usually a bad idea to place file shares on a server that's also acting as a domain controller.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=153)** Resource allocation is another big deal.
 >
-> **[2:36](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=156)** If you plan on installing a large database driven application like Microsoft Exchange Server, you need to know the requirements and behaviors of that application.
+> **[2:36](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=156)** If you plan on installing a large database driven application like [[Microsoft]] Exchange Server, you need to know the requirements and behaviors of that application.
 >
 > **[2:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=167)** If you plan on installing exchange on a Windows Server, don't plan on putting anything else on that machine.
 >
@@ -205,7 +202,7 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=207)** Our organization is small and we won't be bringing up a large server farm or an entire data center but there are at least three separations here.
 >
-> **[3:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=217)** The exchange server needs to be separated from the rest.
+> **[3:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=217)** The exchange server needs to be separated from the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:41](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-the-role-s-of-the-server?u=76281980&t=221)** Active directory domain services and DNS work really well together and certificate services can run on a domain controller even if in larger environments, you might want to separate them.
 >
@@ -215,23 +212,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Active Directory]] (3), [[Windows]] (2), [[Windows Server]] (2), application (2)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Windows]] (2), [[Windows Server]] (2), [[Virtual Machines]] (1), [[Microsoft]] (1)
 > **Env Vars:** dns (2)
 > **Prerequisites:** install (1), configure (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Planning server hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980)
+#### [Planning server hardware](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=0)** - [Instructor] Once you know what it is your Windows server will do for you, the next step is planning how much hardware you need.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=0)** - [Instructor] Once you know what it is your [[Windows Server]] will do for you, the next step is planning how much [[Hardware]] you need.
 >
 > **[0:07](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=7)** There are two things to consider when figuring this out.
 >
-> **[0:11](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=11)** The first is what Microsoft says is required, or recommended.
+> **[0:11](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=11)** The first is what [[Microsoft]] says is required, or recommended.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=16)** And the second is what you will actually need.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=47)** What that doesn't account for is at least three times the amount of physical RAM, plus 10 gig or more for the roles and features that you're going to want to install, including the data that they're going to need to hold their configuration.
 >
-> **[1:02](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=62)** Plus, an additional 10 gig for future Windows updates, not to mention space for event logs, traces, or anything else that your applications or roles are going to need to create or maintain.
+> **[1:02](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=62)** Plus, an additional 10 gig for future [[Windows]] updates, not to mention space for event logs, traces, or anything else that your applications or roles are going to need to create or maintain.
 >
 > **[1:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=76)** In our example, the domain controller won't be storing a lot of information, not a lot of extra files anyway.
 >
@@ -273,7 +269,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=169)** And the processor also needs to support data execution prevention.
 >
-> **[2:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=174)** These last two features provide protection for your operating system, and for virtual machines that you may run.
+> **[2:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=174)** These last two features provide protection for your operating system, and for [[Virtual Machines]] that you may run.
 >
 > **[3:01](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-server-hardware?u=76281980&t=181)** They help isolate them and protect them from each other.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), next (4), [[Hardware]] (4), [[Windows]] (4), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Hardware]] (4), [[Windows]] (4), [[Microsoft]] (3), [[Virtual Machines]] (1)
 > **Env Vars:** ram (2), pci (2), cpu (1), ept (1), npt (1)
 > **Best Practices:** rule of thumb (2), recommended (1)
 > **Prerequisites:** you need to have (1), install (1), you'll need (1)
@@ -336,12 +332,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Purchasing Windows Server 2019
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980)
+#### [Purchasing Windows Server 2019](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=0)** - [Instructor] Purchasing Windows Server can often be so complicated that we just ask our sales rep to make a recommendation and then drill them over and over to explain why they think their proposal is right.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=0)** - [Instructor] Purchasing [[Windows Server]] can often be so complicated that we just ask our sales rep to make a recommendation and then drill them over and over to explain why they think their proposal is right.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=11)** And some even like doing this, because negotiating with a salesperson can feel like a sport worthy of the global stage.
 >
@@ -365,11 +360,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=66)** If I'm going to run Windows Server 2019 on a server with two processors of 16 cores each, I need to license Windows Server 2019 for 32 core.
 >
-> **[1:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=77)** If every server you're running is on dedicated hardware, that seems like it can add up pretty quickly.
+> **[1:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=77)** If every server you're running is on dedicated [[Hardware]], that seems like it can add up pretty quickly.
 >
 > **[1:23](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=83)** But if you're taking advantage of virtualization, you'll find out that this can work in your favor.
 >
-> **[1:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=89)** For example, Windows Server 2016 Standard Edition is able to run two virtual machines.
+> **[1:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=89)** For example, Windows Server 2016 Standard Edition is able to run two [[Virtual Machines]].
 >
 > **[1:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=97)** They can even be shielded VMs, if you like.
 >
@@ -403,13 +398,13 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=224)** It means you don't have to purchase more CALs just because you scale up your datacenter.
 >
-> **[3:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=228)** But as you look at any additional Microsoft applications you plan to install locally, you're going to find out that many of them require connection access licenses of their own.
+> **[3:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=228)** But as you look at any additional [[Microsoft]] applications you plan to install locally, you're going to find out that many of them require connection access licenses of their own.
 >
 > **[3:59](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/purchasing-windows-server-2019?u=76281980&t=239)** It's worth it to add them all up and work with an authorized Microsoft reseller to see what bundles might be available for your specific needs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (10), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Hardware]] (1), [[Virtualization]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (10), [[Virtual Machines]] (2), [[Microsoft]] (2), [[Hardware]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Warnings:** keep in mind (2), be careful (1)
 > **UI Navigation:** scroll down (2)
@@ -418,12 +413,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 
-#### Virtualization and dedicated hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980)
+#### [Virtualization and dedicated hardware](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=0)** - [Instructor] I'd like to explore a little more deeply the benefits and concerns that you should address when considering the decision between virtualization and installing Windows Server 2019 on dedicated hardware.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=0)** - [Instructor] I'd like to explore a little more deeply the benefits and concerns that you should address when considering the decision between virtualization and installing [[Windows Server]] 2019 on dedicated [[Hardware]].
 >
 > **[0:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=14)** Virtual servers can help you more fully utilize robust server hardware and it can help you get the most out of your server licensing costs.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=34)** Consider this scenario in a data center.
 >
-> **[0:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=37)** Let's say I have six servers that can be run as virtual machines.
+> **[0:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=37)** Let's say I have six servers that can be run as [[Virtual Machines]].
 >
 > **[0:41](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=41)** And I have three physical boxes to run them.
 >
@@ -443,7 +437,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=77)** In the scenario that I posed in the last video, we had only one physical server hosting two virtual machines, and this did help us out with the financial side of licensing.
 >
-> **[1:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=89)** It doesn't do anything for us in terms of resiliency, however.
+> **[1:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=89)** It doesn't do anything for us in terms of [[Resiliency]], however.
 >
 > **[1:33](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=93)** One dead memory module means both of these servers are offline.
 >
@@ -459,7 +453,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=123)** And if you choose to do so, there are requirements that can become so restrictive that the Exchange Server virtual machine is the only one on that host anyway.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=133)** Database applications, like Exchange, are designed to consume all available resources or in this case, 80%, so that they can run as efficiently as possible.
+> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=133)** [[Database Applications]], like Exchange, are designed to consume all available resources or in this case, 80%, so that they can run as efficiently as possible.
 >
 > **[2:24](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=144)** You can see how that might get in the way of some of the other things that might be needed on that machine.
 >
@@ -475,7 +469,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=182)** Then the host machine started to join the domain.
 >
-> **[3:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=186)** It was able to find active directory and start the process of joining the domain, then comes the problem, the last step in joining a domain is rebooting the new member.
+> **[3:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=186)** It was able to find [[Active Directory]] and start the process of joining the domain, then comes the problem, the last step in joining a domain is rebooting the new member.
 >
 > **[3:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/virtualization-and-dedicated-hardware?u=76281980&t=197)** When the new member boots back up, it checks in with the domain controller for policies and for permissions to log in.
 >
@@ -495,7 +489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Hardware]] (4), [[Virtualization]] (3), [[Windows Server]] (2), [[Resiliency]] (2)
+> **Frameworks & Libraries:** [[Virtual Machines]] (5), [[Hardware]] (4), [[Windows Server]] (2), [[Resiliency]] (2), [[Database Applications]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Best Practices:** recommended (2)
 > **Prerequisites:** install (2)
@@ -509,12 +503,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing from disk or an ISO file
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980)
+#### [Installing from disk or an ISO file](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=0)** - [Instructor] Installing a Windows Server should be one of the easiest tasks you can take on.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=0)** - [Instructor] Installing a [[Windows Server]] should be one of the easiest tasks you can take on.
 >
 > **[0:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=5)** It only becomes complicated if you neglected steps in the planning stages.
 >
@@ -532,7 +525,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=48)** It has eight gig of memory and enough processor cores to complete.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=52)** The only other thing that I need to check, and this is the same as if I were installing on dedicated hardware, I need to change the boot sequence so that we look to this optical drive first.
+> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=52)** The only other thing that I need to check, and this is the same as if I were installing on dedicated [[Hardware]], I need to change the boot sequence so that we look to this optical drive first.
 >
 > **[1:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=65)** During the installation we're going to create a UEFI boot environment for later, so, fortunately, I don't have to remember to come back and manually fix that sequence.
 >
@@ -578,7 +571,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=218)** As we move forward, we find the License Agreement and then we will see evidence that this installation has not yet taken inventory of our machine.
 >
-> **[3:49](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=229)** It doesn't even know whether or not there is an installation of Windows to upgrade.
+> **[3:49](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=229)** It doesn't even know whether or not there is an installation of [[Windows]] to upgrade.
 >
 > **[3:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-from-disk-or-an-iso-file?u=76281980&t=234)** In our case there isn't, so I'm going to choose Custom so that it will allow us to select a physical disk and a partition space to install.
 >
@@ -600,7 +593,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (3), next (3), power (2), [[Hardware]] (2), [[Windows]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (3), [[Hardware]] (2), [[Windows]] (2)
 > **CLI Commands:** make (6), find (1)
 > **Prerequisites:** install (5), set up (1)
 > **Env Vars:** dvd (2), iso (1), uefi (1)
@@ -608,14 +601,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and upgrading
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980)
+#### [Installing and upgrading](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=0)** - [Instructor] One of the questions asked during the installation process was whether to install a fresh, also known as a custom copy of Windows Server or to upgrade an existing installation of Windows Server?
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=0)** - [Instructor] One of the questions asked during the installation process was whether to install a fresh, also known as a custom copy of [[Windows Server]] or to upgrade an existing installation of Windows Server?
 >
-> **[0:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=13)** According to Microsoft, you can upgrade to Windows Server 2019 from Windows Server 2016, or from Windows Server 2012 R2 but it has to be the same edition.
+> **[0:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=13)** According to [[Microsoft]], you can upgrade to Windows Server 2019 from Windows Server 2016, or from Windows Server 2012 R2 but it has to be the same edition.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=27)** And what I mean by that is you can upgrade from Standard Edition of Windows Server 2016 to Standard Edition of 2019.
 >
@@ -645,9 +637,9 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=121)** One example of a role that can be successfully upgraded is a file server.
 >
-> **[2:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=126)** Roles that can't be upgraded include things like Active Directory Domain Services.
+> **[2:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=126)** Roles that can't be upgraded include things like [[Active Directory]] Domain Services.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=133)** You can't simply upgrade a Windows 2012 R2 domain controller to Windows Server 2019.
+> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=133)** You can't simply upgrade a [[Windows]] 2012 R2 domain controller to Windows Server 2019.
 >
 > **[2:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=140)** There are differences that need to be resolved.
 >
@@ -657,11 +649,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=160)** And don't forget the servers that are running additional applications.
 >
-> **[2:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=164)** Maybe a Microsoft application like Exchange Server or other third-party products that rely on the libraries and roles and features of a specific version of server.
+> **[2:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=164)** Maybe a Microsoft application like Exchange Server or other third-party [[Microsoft Products|products]] that rely on the libraries and roles and features of a specific version of server.
 >
 > **[2:55](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=175)** The documentation has to be consulted before you attempt an in-place upgrade of a server running these types of environments.
 >
-> **[3:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=183)** The alternative to an in-place upgrade is to install a fresh copy of Windows Server on a separate hardware or in a new virtual machine.
+> **[3:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=183)** The alternative to an in-place upgrade is to install a fresh copy of Windows Server on a separate [[Hardware]] or in a new virtual machine.
 >
 > **[3:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-and-upgrading?u=76281980&t=193)** Then you can pack up the configuration from the old server, install the role by the same name on your new 2019 server and import that configuration.
 >
@@ -679,7 +671,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (12), [[Microsoft]] (4), [[Active Directory]] (3), [[Windows]] (1), database (1)
+> **Frameworks & Libraries:** [[Windows Server]] (12), [[Microsoft]] (4), [[Active Directory]] (3), [[Windows]] (1), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** install (3)
 > **Definitions:** known as (1), is a  (1)
 > **Best Practices:** don't forget (1), general rule (1)
@@ -688,12 +680,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Server Manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980)
+#### [Using Server Manager](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=0)** - [Instructor] In previous videos, we've talked about planning the installation of our Windows 2019 Server and we've gone through the process of installing the operating system in a virtual machine, along with discussing custom installations versus upgrades.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=0)** - [Instructor] In previous videos, we've talked about planning the installation of our [[Windows]] 2019 Server and we've gone through the process of installing the operating system in a virtual machine, along with discussing custom installations versus upgrades.
 >
 > **[0:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=16)** Once a custom installation is complete, there are three things that you need to do right away.
 >
@@ -707,7 +698,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=44)** Let me go ahead and assign this to this machine.
 >
-> **[0:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=47)** Once we go ahead and set this password, Windows Server will finalize your settings and boot up to a desktop.
+> **[0:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=47)** Once we go ahead and set this password, [[Windows Server]] will finalize your settings and boot up to a desktop.
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=56)** I'm going to go ahead and change my settings so that I'm always full screen.
 >
@@ -763,11 +754,11 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=236)** Things like setting your wallpaper or task bar preferences and possibly even setting your time zone, are secondary to getting this identifying information done quickly.
 >
-> **[4:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=246)** I mentioned that the desktop experience is not necessary to run a server, so in the next segment we'll take a look at how to do these same steps using PowerShell on a machine installed without the desktop experience.
+> **[4:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/using-server-manager?u=76281980&t=246)** I mentioned that the desktop experience is not necessary to run a server, so in the next segment we'll take a look at how to do these same steps using [[Powershell]] on a machine installed without the desktop experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (3), [[Windows]] (2), [[Windows Server]] (2), application (1), data (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Windows Server]] (2), [[Powershell]] (1)
 > **UI Navigation:** click on (3), go to (2)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** dns (3)
@@ -776,12 +767,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Tools:** powershell (1)
 
-#### Initial configuration in PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980)
+#### [Initial configuration in PowerShell](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=0)** - [Instructor] What we have here on the screen now, is a new server that's been installed with Windows Server 2019 without the desktop experience.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=0)** - [Instructor] What we have here on the screen now, is a new server that's been installed with [[Windows Server]] 2019 without the desktop experience.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=9)** The look and feel will be different because we'll have to know commands to navigate around, but the tasks are the same, so let's go through the process.
 >
@@ -801,7 +791,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=81)** That should be a bit better.
 >
-> **[1:22](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=82)** The work that we need to do is going to be done in Power Shell, and we can launch that by simply typing PowerShell at the command prompt and without even opening a new window, it will load a session of Power Shell right here for us to use.
+> **[1:22](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=82)** The work that we need to do is going to be done in Power Shell, and we can launch that by simply typing [[Powershell]] at the command prompt and without even opening a new window, it will load a session of Power Shell right here for us to use.
 >
 > **[1:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/initial-configuration-in-powershell?u=76281980&t=98)** You can always confirm you are in Power Shell by looking at the beginning of the prompt, that PS means we are ready to operate in Power Shell.
 >
@@ -871,7 +861,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (6), hit (5), prompt (3), dns (3), [[Windows Server]] (2)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Powershell]] (1)
 > **Env Vars:** dns (3), ctrl (2), tcp (1)
 > **CLI Commands:** make (3), find (1)
 > **Versions:** 192.168.0 (3), 255.255.255 (1)
@@ -880,8 +870,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring multiple interfaces per network interface controller (NIC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980)
+#### [Configuring multiple interfaces per network interface controller (NIC)](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -901,11 +890,11 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=37)** It's not uncommon to need a separate IP Address for each different website.
 >
-> **[0:42](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=42)** The web server in Windows allows you to pick an IP Address assigned to the server, not a physical NIC.
+> **[0:42](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=42)** The web server in [[Windows]] allows you to pick an IP Address assigned to the server, not a physical NIC.
 >
 > **[0:49](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=49)** So it can be done easily if you have multiple IP Addresses assigned.
 >
-> **[0:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=54)** And that can be done either using the server manager or PowerShell.
+> **[0:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=54)** And that can be done either using the server manager or [[Powershell]].
 >
 > **[0:58](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=58)** Here we are on a server that's been installed and named to be a web server.
 >
@@ -955,11 +944,11 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=242)** 240, 241, and 242, each with their respective subnet mask, and one default gateway for the whole mix.
 >
-> **[4:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=252)** Having these multiple interfaces will allow us to host multiple websites, each with their own IP Address and still take advantage of the hardware capabilities of this server.
+> **[4:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-multiple-interfaces-per-network-interface-controller-nic?u=76281980&t=252)** Having these multiple interfaces will allow us to host multiple websites, each with their own IP Address and still take advantage of the [[Hardware]] capabilities of this server.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Powershell]] (3), [[Windows]] (2), next (2), traffic (1)
+> **Frameworks & Libraries:** [[Powershell]] (3), [[Windows]] (2), [[Hardware]] (1)
 > **UI Navigation:** right-click (2), open the (1), click on (1), scroll up (1)
 > **Env Vars:** nic (2), ias (1), cls (1)
 > **Versions:** 192.168.0 (2), version 4 (1)
@@ -968,8 +957,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - in (1)
 
-#### Understanding NIC teaming
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980)
+#### [Understanding NIC teaming](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,7 +971,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=35)** This concept can be put to really good use.
 >
-> **[0:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=38)** NIC teaming is a configuration option in Windows server 2019.
+> **[0:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=38)** NIC teaming is a configuration option in [[Windows Server]] 2019.
 >
 > **[0:44](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=44)** It's been with us for a few versions of server and it allows you to tie multiple interfaces together under a single IP address to increase the number of concurrent data steams to a single server or single endpoint.
 >
@@ -1011,7 +999,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=129)** There's another mode of teaming that was created specifically for hyper-V environments.
 >
-> **[2:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=135)** You may want to use a single IP address for the host server for accessing virtual machines, but each virtual machine can use quite a bit of traffic.
+> **[2:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=135)** You may want to use a single IP address for the host server for accessing [[Virtual Machines]], but each virtual machine can use quite a bit of traffic.
 >
 > **[2:25](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=145)** Hyper-V mode allows for multiple physical interfaces to share a single IP address for management purposes and to let your VMs appear to be hitting the network through a single interface.
 >
@@ -1021,13 +1009,13 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=183)** This is often a default choice.
 >
-> **[3:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=185)** In this mode, Windows can keep an eye on the traffic and switch back and forth to use the more appropriate mode.
+> **[3:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=185)** In this mode, [[Windows]] can keep an eye on the traffic and switch back and forth to use the more appropriate mode.
 >
-> **[3:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=193)** In the next video, we're going to take a look at how to set this up and we're also going to talk about some of the hardware requirements that you may want to consider.
+> **[3:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/understanding-nic-teaming?u=76281980&t=193)** In the next video, we're going to take a look at how to set this up and we're also going to talk about some of the [[Hardware]] requirements that you may want to consider.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Windows Server]] (2), traffic (2), web (1), concurrent (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Virtual Machines]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** nic (2), mac (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
@@ -1035,12 +1023,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring NIC teaming
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980)
+#### [Configuring NIC teaming](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=0)** - [Instructor] NIC Teams also known as network, load balancing and failover teams are fairly easily created in Powershell.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=0)** - [Instructor] NIC Teams also known as network, load balancing and failover teams are fairly easily created in [[Powershell]].
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=9)** Here we are back on the file server that we've looked at previously in this course.
 >
@@ -1058,7 +1045,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=52)** For those relatively new to Powershell, you'll notice that I'm using something called Pascal Case.
 >
-> **[0:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=57)** Where when multiple words are pushed together for a single expression, you still capitalize the first letter of each individual word.
+> **[0:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=57)** Where when multiple words are pushed together for a single expression, you still capitalize the first letter of each individual [[Microsoft Word|word]].
 >
 > **[1:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=66)** That's useful when trying to troubleshoot or look for typos in a commandlet that you may have entered that didn't work.
 >
@@ -1090,27 +1077,27 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=163)** But since we're inside a virtual machine, neither of those options really make sense for us.
 >
-> **[2:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=168)** We're not going to be nesting virtual machines inside of virtual machines, so hyper v mode of load balancing doesn't make sense for us.
+> **[2:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=168)** We're not going to be nesting [[Virtual Machines]] inside of virtual machines, so hyper v mode of load balancing doesn't make sense for us.
 >
 > **[2:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=177)** Since we're never going to use that side of the equation, dynamically balancing that with other types of address hashing is similarly not going to be an environment that we're going to set-up.
 >
 > **[3:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=189)** Since we're in a virtual machine and running a file server, we need some type of address hashing.
 >
-> **[3:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=195)** Microsoft has a number of options available for that.
+> **[3:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=195)** [[Microsoft]] has a number of options available for that.
 >
 > **[3:19](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=199)** You could use transport ports, where the source and destination TCP ports will be used to identify the streams and direct them through the different adapters, Or you could identify the traffic at slightly lower levels of the OSI model.
 >
 > **[3:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=218)** The source and destination IP addresses can be used to identify these streams and sort them through the different adapters, or you could take it all the way down to the Mac addresses level.
 >
-> **[3:51](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=231)** This will allow your Windows server to keep track of the Mac addresses that it knows to identify streams of information going back and forth between other servers.
+> **[3:51](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=231)** This will allow your [[Windows Server]] to keep track of the Mac addresses that it knows to identify streams of information going back and forth between other servers.
 >
 > **[4:02](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=242)** The last parameter that we need to specify is the teaming mode.
 >
 > **[4:07](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=247)** This has to do with how you interact with physical switches on the network.
 >
-> **[4:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=252)** If you had a dedicated hardware Windows server connected to smart switches, then you could go and program or hard code the Mac addresses of your NIC teams into your switch.
+> **[4:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=252)** If you had a dedicated [[Hardware]] Windows server connected to smart switches, then you could go and program or hard code the Mac addresses of your NIC teams into your switch.
 >
-> **[4:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=266)** And then you could tell Windows to pay attention to the switch it's going to take care of that distribution for you or if you have smarter switches that are capable of supporting the 802.1AX protocol, or link aggregation control protocol, you could allow the switch to dynamically manage how that traffic is broken up and distributed.
+> **[4:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=266)** And then you could tell [[Windows]] to pay attention to the switch it's going to take care of that distribution for you or if you have smarter switches that are capable of supporting the 802.1AX protocol, or link aggregation control protocol, you could allow the switch to dynamically manage how that traffic is broken up and distributed.
 >
 > **[4:49](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-nic-teaming?u=76281980&t=289)** In our case, because we're having Windows manage the whole thing, we're going to use a teaming mode known as switch independent.
 >
@@ -1132,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), teams (3), [[Windows]] (3), next (2), [[Virtual Machines]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Windows]] (3), [[Virtual Machines]] (2), [[Windows Server]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** nic (2), tcp (1), osi (1)
 > **Tools:** powershell (4)
@@ -1146,12 +1133,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating different volume types
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980)
+#### [Creating different volume types](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=0)** - [Instructor] During the installation of Windows Server 2019, you didn't get a lot of choices regarding the configuration of local storage.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=0)** - [Instructor] During the installation of [[Windows Server]] 2019, you didn't get a lot of choices regarding the configuration of local storage.
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=8)** For that reason, it's a good idea to go back and set it up the way you want before you begin installing roles and features.
 >
@@ -1207,7 +1193,7 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=180)** Converting from basic to dynamic disc is as easy as right clicking on the disc and choosing Convert to Dynamic Disc, and even if you've only selected one, you have the option of converting all of them at one time.
 >
-> **[3:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=195)** It will verify that this is something that you actually want to do, and I'm going to go ahead and say yes, I do want to convert these, and it reminds us that if we have dual boot environments managed by a boot manager that's not Windows, this could affect our ability to continue with that configuration.
+> **[3:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=195)** It will verify that this is something that you actually want to do, and I'm going to go ahead and say yes, I do want to convert these, and it reminds us that if we have dual boot environments managed by a boot manager that's not [[Windows]], this could affect our ability to continue with that configuration.
 >
 > **[3:33](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=213)** That's not a scenario that I have and I'm concerned about, so I'm going to go ahead and say yes, I would like to convert these discs to dynamic discs.
 >
@@ -1217,7 +1203,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=233)** Now if I wanted to make a mirror of the C drive, noting that this disc, disc zero, and the destination are both dynamic, I can now right click on volume C, choose Add Mirror, now if I choose a destination to hold the replica and add it, it will go ahead and create a space of exactly the same size, and it will begin synchronizing the data between these two volumes.
 >
-> **[4:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=260)** This is a nice fault tolerance to have, especially if you don't have hardware arrays available for your machines.
+> **[4:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=260)** This is a nice fault tolerance to have, especially if you don't have [[Hardware]] arrays available for your machines.
 >
 > **[4:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-different-volume-types?u=76281980&t=266)** Now that we're on dynamic discs, there are other things that are available to us.
 >
@@ -1233,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), management (2), [[Windows]] (1), data (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Windows]] (1), [[Hardware]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** raid (2)
 > **Definitions:** is a  (2)
@@ -1241,8 +1227,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supported file systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980)
+#### [Supported file systems](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1256,7 +1241,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=24)** So take some time to figure out which one you need.
 >
-> **[0:28](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=28)** One of the oldest available options is the file allocation table, FAT or FAT 32 is the current version that you see in Windows server 2019.
+> **[0:28](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=28)** One of the oldest available options is the file allocation table, FAT or FAT 32 is the current version that you see in [[Windows Server]] 2019.
 >
 > **[0:37](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=37)** One of the long running benefits of the FAT file system is that it can be easily read locally by pretty much any platform.
 >
@@ -1286,15 +1271,15 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=127)** You could specify quotas, you could do a lot of different things with the hard drive to manage how it's used to make sure that it stays the right environment for your system.
 >
-> **[2:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=137)** There's a new file system that was introduced in Windows server 2016 that you ought to consider for any volume except the one that holds Windows.
+> **[2:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=137)** There's a new file system that was introduced in Windows server 2016 that you ought to consider for any volume except the one that holds [[Windows]].
 >
 > **[2:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=147)** Leave that one be because it's never a good idea to mess with that volume once it's created and set up.
 >
 > **[2:32](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=152)** The Resilient File System doesn't have all of the features of NTFS but it's getting there very quickly as it evolves.
 >
-> **[2:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=160)** Microsoft is finding ways to include the important features while reducing some of the overhead.
+> **[2:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=160)** [[Microsoft]] is finding ways to include the important features while reducing some of the overhead.
 >
-> **[2:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=167)** One of the features that the Resilient File System adds is it blocks out space in every volume to provide some resiliency, some fault tolerance.
+> **[2:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=167)** One of the features that the Resilient File System adds is it blocks out space in every volume to provide some [[Resiliency]], some fault tolerance.
 >
 > **[2:57](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=177)** The ability to remain active even if difficulties or problems are encountered with the drive itself.
 >
@@ -1320,7 +1305,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=255)** Back to the creation of the volume.
 >
-> **[4:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=257)** If you don't need the user management that NTFS provides, consider using REFS.
+> **[4:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=257)** If you don't need the [[User Management]] that NTFS provides, consider using REFS.
 >
 > **[4:25](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/supported-file-systems?u=76281980&t=265)** If you do need that granular level of management of how much a user is able to store and how much you can audit how it's being used in addition to the file level security, go ahead and stick with NTFS.
 >
@@ -1330,7 +1315,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (3), database (3), [[Windows Server]] (2), application (2)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Windows]] (1), [[Microsoft]] (1), [[Resiliency]] (1), [[User Management]] (1)
 > **Env Vars:** ntfs (9), fat (5), refs (2)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -1338,8 +1323,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improvements to Storage Spaces Direct
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980)
+#### [Improvements to Storage Spaces Direct](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1347,7 +1331,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=9)** Sometimes you need the third-party solutions from SmartStack or HP Enterprise or whomever.
 >
-> **[0:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=14)** There are also some solutions that are baked right into Windows Server 2019 that you might want to consider as you look at storage needs beyond what fits inside any one case.
+> **[0:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=14)** There are also some solutions that are baked right into [[Windows Server]] 2019 that you might want to consider as you look at storage needs beyond what fits inside any one case.
 >
 > **[0:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=27)** Storage Spaces Direct is the first one that I want to discuss here.
 >
@@ -1377,7 +1361,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=139)** It is only available on the Datacenter edition of these servers.
 >
-> **[2:24](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=144)** Microsoft recognized the expanding hardware capacity and the growing storage needs and has improved the maximums for Storage Spaces Direct.
+> **[2:24](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=144)** [[Microsoft]] recognized the expanding [[Hardware]] capacity and the growing storage needs and has improved the maximums for Storage Spaces Direct.
 >
 > **[2:33](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=153)** You still cap out at a maximum of 16 servers and 416 drives in a cluster, but the servers and the drives are getting bigger.
 >
@@ -1393,31 +1377,30 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=196)** Storage Spaces Direct, as many other storage solutions that Microsoft has provided, are designed looking forward to what the next level of needs are.
 >
-> **[3:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=206)** They also require membership in an Active Directory Domain so consider that as you deploy these services.
+> **[3:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/improvements-to-storage-spaces-direct?u=76281980&t=206)** They also require membership in an [[Active Directory]] Domain so consider that as you deploy these services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (2), data (2), feature (2), [[Microsoft]] (2), hit (1)
+> **Frameworks & Libraries:** [[Windows Server]] (2), [[Microsoft]] (2), [[Hardware]] (1), [[Active Directory]] (1)
 > **Env Vars:** s2d (2), ram (2), refs (1), ntfs (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** install (1), configure (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Storage Migration Service
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980)
+#### [Introducing Storage Migration Service](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=0)** - [Instructor] A lot of this course so far has focused on the creation of a new Windows network.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=0)** - [Instructor] A lot of this course so far has focused on the creation of a new [[Windows]] network.
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=6)** I want to shift things for a little bit to talk about one of the features available to help you migrate from an older version of Windows Servers, and I'm going to focus on one of the oldest uses of a Windows Server, that being sharing files.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=6)** I want to shift things for a little bit to talk about one of the features available to help you migrate from an older version of Windows Servers, and I'm going to focus on one of the oldest uses of a [[Windows Server]], that being sharing files.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=21)** We create shares for all kinds of user and company data.
 >
 > **[0:25](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=25)** We plan them out very carefully.
 >
-> **[0:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=27)** We work out their security needs, and we create Active Directory groups and assign permissions so that everybody can access what they need and can be blocked from what they don't.
+> **[0:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=27)** We work out their security needs, and we create [[Active Directory]] groups and assign permissions so that everybody can access what they need and can be blocked from what they don't.
 >
 > **[0:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=38)** And then, we configure all of our user machines so that they point to network paths or even drive mappings.
 >
@@ -1425,9 +1408,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=54)** There's a lot of effort and time that goes into creating a file server that can effectively serve your network, so it's understandable, after all that work, that migrating user files from one server to another is not something that we look forward to doing.
 >
-> **[1:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=72)** Copying the files is easy enough, but trying to transfer all of the rest of the settings, that's another issue altogether.
+> **[1:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=72)** Copying the files is easy enough, but trying to transfer all of the [[Representational State Transfer (REST)|rest]] of the settings, that's another issue altogether.
 >
-> **[1:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=80)** Storage Migration Service was introduced by Microsoft in Windows Server 2019, and it not only transfers the files, but it will take all of the configuration and all of the settings of those files, and the server that hosts them, and send those over to a new machine.
+> **[1:20](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=80)** Storage Migration Service was introduced by [[Microsoft]] in Windows Server 2019, and it not only transfers the files, but it will take all of the configuration and all of the settings of those files, and the server that hosts them, and send those over to a new machine.
 >
 > **[1:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=100)** And it will do it in a way that users don't have to know that anything changed.
 >
@@ -1445,7 +1428,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=146)** Second, you need a new Windows 2019 Server not configured with a lot of other roles and services because it's about to take on the role of your existing Windows File Server.
 >
-> **[2:39](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=159)** This target machine can be a physical machine, it can be a virtual machine, it can even be a virtual machine in an Azure space, which means this could be your path to moving portions of your network into the cloud.
+> **[2:39](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=159)** This target machine can be a physical machine, it can be a virtual machine, it can even be a virtual machine in an [[Microsoft Azure|Azure]] space, which means this could be your path to moving portions of your network into the cloud.
 >
 > **[2:51](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/introducing-storage-migration-service?u=76281980&t=171)** Third, you need a Windows 2019 Server to orchestrate the migration.
 >
@@ -1477,7 +1460,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (7), [[Windows Server]] (5), [[Active Directory]] (4), feature (4), data (3)
+> **Frameworks & Libraries:** [[Windows]] (7), [[Windows Server]] (5), [[Active Directory]] (4), [[Microsoft]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** install (2), configure (1), you need to have (1)
 > **Env Vars:** sms (3)
 > **CLI Commands:** make (1)
@@ -1489,8 +1472,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning role configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980)
+#### [Planning role configuration](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1510,7 +1492,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=41)** Other roles and features will require some selections to be made during the installation and others will require configuration immediately after the installation is done.
 >
-> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=52)** Take Active Directory Domain Services for example.
+> **[0:52](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=52)** Take [[Active Directory]] Domain Services for example.
 >
 > **[0:56](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=56)** We decided that our first server would be a domain controller.
 >
@@ -1530,7 +1512,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=100)** If you understand the question, you can just jot it down in your planning notes so that you can figure out which one that will be during the production install.
 >
-> **[1:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=107)** If you don't understand the question, the help is provided sometimes right there in the installation process or you could search Microsoft docs or TechNet and other blogs to better understand the ramifications of your choice.
+> **[1:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=107)** If you don't understand the question, the help is provided sometimes right there in the installation process or you could search [[Microsoft]] docs or TechNet and other blogs to better understand the ramifications of your choice.
 >
 > **[2:01](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=121)** Sometimes you're going to be asked questions that have default answers.
 >
@@ -1540,7 +1522,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=131)** So note these as well.
 >
-> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=133)** For example, NetBIOS names on a Windows Server are legacy identifiers for Windows machines.
+> **[2:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=133)** For example, NetBIOS names on a [[Windows Server]] are legacy identifiers for [[Windows]] machines.
 >
 > **[2:19](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/planning-role-configuration?u=76281980&t=139)** In this case, it usually is best to leave them so that they match the first part of the DNS style domain name, but Microsoft does give you the chance to rename them if needed.
 >
@@ -1558,19 +1540,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), dns (2), [[Microsoft]] (2), [[Windows Server]] (2), web (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Microsoft]] (2), [[Windows Server]] (2), [[Windows]] (1)
 > **Prerequisites:** install (7), configure (2)
 > **Env Vars:** dns (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing roles and features
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980)
+#### [Installing roles and features](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=0)** - [Instructor] Much like the installation of Windows itself, the installation and initial configuration of server roles and features is much easier when there's a complete plan to start with.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=0)** - [Instructor] Much like the installation of [[Windows]] itself, the installation and initial configuration of server roles and features is much easier when there's a complete plan to start with.
 >
 > **[0:10](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=10)** Here we are on the server that we've set aside to be our domain controller, as well as our certificate server.
 >
@@ -1578,7 +1559,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=21)** That's a lot for this server to do.
 >
-> **[0:23](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=23)** The certificate role specifically needs to wait for active directory and DNS to be complete, so we're going to put that one on hold for now.
+> **[0:23](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=23)** The certificate role specifically needs to wait for [[Active Directory]] and DNS to be complete, so we're going to put that one on hold for now.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=31)** This is the server that's already been configured with an IP address and network information, storage is all done.
 >
@@ -1586,7 +1567,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=40)** Installing roles can be done right here from the server manager.
 >
-> **[0:45](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=45)** It can also be done in powershell, it can be done in the Windows admin center.
+> **[0:45](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=45)** It can also be done in [[Powershell]], it can be done in the Windows admin center.
 >
 > **[0:48](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=48)** But I'm going to do it in the server manger because it gives a good visual that might help for those that haven't done this before.
 >
@@ -1634,7 +1615,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=192)** Active directory, there's a little more than just telling you about it.
 >
-> **[3:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=197)** They also promote azure and as you go to the next screen, you get your confirmation of everything you said you want to install.
+> **[3:17](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=197)** They also promote [[Microsoft Azure|azure]] and as you go to the next screen, you get your confirmation of everything you said you want to install.
 >
 > **[3:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/installing-roles-and-features?u=76281980&t=206)** You will have all the pieces, including all of the tools you have requested to have added at the same time and now you can go ahead and click the install button.
 >
@@ -1646,7 +1627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (5), next (5), [[Active Directory]] (4), [[Windows]] (2), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (2), [[Powershell]] (2), [[Microsoft Azure|Azure]] (1)
 > **Env Vars:** dns (5), dc01 (1)
 > **Prerequisites:** install (6)
 > **Tools:** powershell (2)
@@ -1654,14 +1635,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring a role
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980)
+#### [Configuring a role](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=0)** - In the previous video, we went through the process of adding a role to a Windows server.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=0)** - In the previous video, we went through the process of adding a role to a [[Windows Server]].
 >
-> **[0:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=6)** And here we are at the end of that successful installation of the active directory domain services and DNS server role.
+> **[0:06](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=6)** And here we are at the end of that successful installation of the [[Active Directory]] domain services and DNS server role.
 >
 > **[0:15](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=15)** And right here, you'll notice a blue link.
 >
@@ -1689,7 +1669,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=83)** There's a default, but you don't have to take the default option.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=87)** Consider the version of Windows running on other Windows servers and on Windows workstations.
+> **[1:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=87)** Consider the version of [[Windows]] running on other Windows servers and on Windows workstations.
 >
 > **[1:34](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=94)** Other compatibilities that have to do with applications in your network should also be considered.
 >
@@ -1723,7 +1703,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=189)** With those answers already known, this installation only takes a few minutes.
 >
-> **[3:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=194)** The longest part will be waiting for it to verify the prerequisites, and this may take several minutes, depending on your hardware.
+> **[3:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=194)** The longest part will be waiting for it to verify the prerequisites, and this may take several minutes, depending on your [[Hardware]].
 >
 > **[3:22](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/configuring-a-role?u=76281980&t=202)** We get some notifications here about a legacy security setting, and information about DNS, saying that it can't delegate this DNS server because there is nothing to delegate from.
 >
@@ -1735,7 +1715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (4), dns (3), [[Windows]] (3), [[Windows Server]] (1), feature (1)
+> **Frameworks & Libraries:** [[Active Directory]] (4), [[Windows]] (3), [[Windows Server]] (1), [[Hardware]] (1)
 > **Env Vars:** dns (3), sysvol (1)
 > **Prerequisites:** configure (3), install (1)
 > **CLI Commands:** make (2)
@@ -1744,18 +1724,17 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **UI Navigation:** scroll down (1)
 
-#### Managing features on demand
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980)
+#### [Managing features on demand](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=0)** - [Instructor] As you installs roles and features on a Windows Server, you'll probably notice that you're not prompted to insert Install Media most of the time.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=0)** - [Instructor] As you installs roles and features on a [[Windows Server]], you'll probably notice that you're not prompted to insert Install Media most of the time.
 >
 > **[0:09](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=9)** Once upon a time, that was required.
 >
 > **[0:11](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=11)** The folder with all of the role and feature install files was on the install disks, but not on the hard drive.
 >
-> **[0:18](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=18)** Starting in Windows Server 2008, Microsoft made it part of the installation process to copy these files to the hard drive and configure Windows to specifically look at that folder.
+> **[0:18](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=18)** Starting in Windows Server 2008, [[Microsoft]] made it part of the installation process to copy these files to the hard drive and configure [[Windows]] to specifically look at that folder.
 >
 > **[0:31](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=31)** In Windows Server 2019, you can find that folder by just browsing your hard drive and in your operating system partition, you can open the Windows folder and scroll down to the end of the list of directories inside the Windows folder.
 >
@@ -1781,7 +1760,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=107)** And maybe reclaiming six gig is worthwhile to you, so let me show you what you can do if you want to remove the install files for roles and features that you won't need.
 >
-> **[1:58](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=118)** Let me switch over here to my Windows Core installation of Server, because we're going to do this process in PowerShell.
+> **[1:58](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=118)** Let me switch over here to my Windows Core installation of Server, because we're going to do this process in [[Powershell]].
 >
 > **[2:07](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/managing-features-on-demand?u=76281980&t=127)** As we've seen before, Windows Core does boot up in DOS, not PowerShell, so I'm going to go ahead and launch PowerShell, so that we can have access to the cmdlts that we need.
 >
@@ -1831,7 +1810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (4), [[Windows Server]] (3), feature (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Powershell]] (4), [[Windows Server]] (3), [[Microsoft]] (1)
 > **Prerequisites:** install (7), configure (1)
 > **Tools:** powershell (4)
 > **CLI Commands:** find (2)
@@ -1840,14 +1819,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating migration tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980)
+#### [Creating migration tools](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=0)** - [Instructor] Microsoft has made some noteworthy advances in terms of in-place upgrades and we've compared upgrades to migration already in this course.
+> **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=0)** - [Instructor] [[Microsoft]] has made some noteworthy advances in terms of in-place upgrades and we've compared upgrades to migration already in this course.
 >
-> **[0:10](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=10)** Role migration is an option that's available to you if you're running roles that would survive an in-place upgrade, but your preference is rather than keep the same server and just upgrade the configuration, you want to introduce a new Windows Server into your environment, but still keep these roles and features running the way you're used to.
+> **[0:10](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=10)** Role migration is an option that's available to you if you're running roles that would survive an in-place upgrade, but your preference is rather than keep the same server and just upgrade the configuration, you want to introduce a new [[Windows Server]] into your environment, but still keep these roles and features running the way you're used to.
 >
 > **[0:33](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=33)** There are two servers involved in making this possible.
 >
@@ -1859,11 +1837,11 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=63)** The first step in migrating the role configuration is to create the Server Migration or SMIG tools and you have to do this from the target server.
 >
-> **[1:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=74)** The target server, the newer version of Windows, is the only one that has a chance of understanding both older architecture and newer.
+> **[1:14](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=74)** The target server, the newer version of [[Windows]], is the only one that has a chance of understanding both older architecture and newer.
 >
 > **[1:22](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=82)** And to start this process, you need to add a feature to your target server.
 >
-> **[1:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=87)** You can do this from PowerShell by running the commandlet Add-WindowsFeature and then specify that the name of the feature that you want to add is Migration.
+> **[1:27](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=87)** You can do this from [[Powershell]] by running the commandlet Add-WindowsFeature and then specify that the name of the feature that you want to add is Migration.
 >
 > **[1:38](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/creating-migration-tools?u=76281980&t=98)** Then you're going to browse to a new folder that was created by adding that feature.
 >
@@ -1899,14 +1877,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows Server]] (5), feature (3), [[Windows]] (2), [[Microsoft]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (5), [[Windows]] (2), [[Microsoft]] (1), [[Powershell]] (1)
 > **Env Vars:** smig (3), dos (1), ws12r2 (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exporting and importing with SMIG
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980)
+#### [Exporting and importing with SMIG](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1914,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=8)** There you can open the folder and run this new version of SMIGDeploy, created specifically for this process.
 >
-> **[0:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=16)** SMIGDeploy will now open a special instance of PowerShell with all of the necessary cmdlets and functions to export a role configuration.
+> **[0:16](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=16)** SMIGDeploy will now open a special instance of [[Powershell]] with all of the necessary cmdlets and functions to export a role configuration.
 >
 > **[0:26](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=26)** The export process then begins by viewing an inventory of the roles that you can port out.
 >
@@ -1954,7 +1931,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=141)** And with that role installed and the service halted, you're ready to import the configuration that you brought over from the previous machine.
 >
-> **[2:30](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=150)** This time, instead of running the SMIG deploy from the copied files, you could launch it from the server manager, in the tools menu under windows server migration tools.
+> **[2:30](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=150)** This time, instead of running the SMIG deploy from the copied files, you could launch it from the server manager, in the tools menu under [[Windows Server]] migration tools.
 >
 > **[2:41](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=161)** There, you will once again receive a customer PowerShell environment with all of the cmdlets and all of the features that you need to make this work.
 >
@@ -1978,11 +1955,11 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=235)** In fact, it's a version of this same process that's built right into the upgrade tools to facilitate that change.
 >
-> **[4:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=243)** So this is your choice, you can upgrade and use your existing hardware, or you can bring up a whole new server and migrate that role configuration on to the fresh install.
+> **[4:03](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/exporting-and-importing-with-smig?u=76281980&t=243)** So this is your choice, you can upgrade and use your existing [[Hardware]], or you can bring up a whole new server and migrate that role configuration on to the fresh install.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), feature (2), data (1), [[Windows Server]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Windows Server]] (1), [[Hardware]] (1)
 > **Env Vars:** smig (4), dhcp (3)
 > **CLI Commands:** make (3)
 > **Prerequisites:** you'll need (2), install (1)
@@ -1996,20 +1973,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=0)** - [Instructor] Now that we've come to the end of this course, it's up to you to take the next steps.
 >
-> **[0:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=5)** If you're new to Windows Servers, I recommend that you continue learning how to manage and maintain a Windows Server network.
+> **[0:05](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=5)** If you're new to [[Windows]] Servers, I recommend that you continue learning how to manage and maintain a [[Windows Server]] network.
 >
 > **[0:13](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=13)** The course library has content on managing, monitoring, and maintaining Windows Servers, with courses for the different versions.
 >
 > **[0:21](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=21)** Specifically, for Windows Server 2019, you will want to become familiar with the Windows Admin Center.
 >
-> **[0:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=29)** Create a virtual lab with two Windows Servers and a Windows workstation and create an active directory domain.
+> **[0:29](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=29)** Create a virtual lab with two Windows Servers and a Windows workstation and create an [[Active Directory]] domain.
 >
 > **[0:35](https://www.linkedin.com/learning/windows-server-2019-installation-and-configuration/next-steps?u=76281980&t=35)** Install the Admin Center on a workstation and become familiar with how it works.
 >
@@ -2025,7 +2001,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (6), [[Windows Server]] (5), next (1), [[Active Directory]] (1), business (1)
+> **Frameworks & Libraries:** [[Windows]] (6), [[Windows Server]] (5), [[Active Directory]] (1)
 > **Prerequisites:** install (2), configure (1)
 > **Speakers:** - [instructor] (1)
 

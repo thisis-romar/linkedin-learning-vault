@@ -77,14 +77,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why a strategic framework is essential for AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
+#### [Why a strategic framework is essential for AI adoption](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980&t=0)** - Generative AI is rapidly reshaping business landscapes, but you can't effectively navigate what you don't understand.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980&t=0)** - [[Generative AI]] is rapidly reshaping business landscapes, but you can't effectively navigate what you don't understand.
 >
-> **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980&t=7)** Yes, companies are over-eager to jump in and implement this powerful new technology, but without diligent planning, attempted AI solutions often fail, waste resources, or bear unanticipated risk.
+> **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980&t=7)** Yes, companies are over-eager to jump in and implement this powerful new technology, but without diligent planning, attempted [[AI Solutions]] often fail, waste resources, or bear unanticipated risk.
 >
 > **[0:20](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/why-a-strategic-framework-is-essential-for-ai-adoption?u=76281980&t=20)** Hi, my name is Chris McKay, and I'm the founder and CEO of Maginative.
 >
@@ -96,12 +95,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (2), business (2), management (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[AI Solutions]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - generative (1)
 
-#### The USAGE framework: A pragmatic approach to AI adoption
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980)
+#### [The USAGE framework: A pragmatic approach to AI adoption](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -125,7 +123,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980&t=59)** This feasibility study is essential for scoping requirements and potential barriers.
 >
-> **[1:04](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980&t=64)** Then you align your planned initiatives to measurable business goals, crafting an agile roadmap to drive both short and long-term value.
+> **[1:04](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980&t=64)** Then you align your planned initiatives to measurable business goals, crafting an [[Agile Development|agile]] roadmap to drive both short and long-term value.
 >
 > **[1:13](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-usage-framework-a-pragmatic-approach-to-ai-adoption?u=76281980&t=73)** Next, you guide your rollout through proper governance, training and an iterative approach to responsible scaling.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), next (3), business (3), teams (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Env Vars:** usage (3), roi (1)
 > **Speakers:** - adopting (1)
 
@@ -152,8 +150,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Invest in AI literacy to gain competitive advantage
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
+#### [Invest in AI literacy to gain competitive advantage](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=6)** That's why our usage framework starts with building collective understanding of AI capabilities and the fundamentals.
 >
-> **[0:13](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=13)** In this video, I'm going to walk you through how you can develop AI literacy across your organization and enable greater understanding, participation, and impact.
+> **[0:13](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=13)** In this video, I'm going to walk you through how you can develop [[AI Literacy]] across your organization and enable greater understanding, participation, and impact.
 >
 > **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=23)** To fully leverage AI's potential, organizations need more than just the technology itself.
 >
@@ -173,11 +170,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=45)** First is as a business advantage.
 >
-> **[0:47](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=47)** It goes without saying that learning and understanding AI will empower you and your teams to make more informed decisions on how to implement AI solutions, recognizing their potential impacts and managing risks effectively.
+> **[0:47](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=47)** It goes without saying that learning and understanding AI will empower you and your teams to make more informed decisions on how to implement [[AI Solutions]], recognizing their potential impacts and managing risks effectively.
 >
-> **[1:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=60)** This means you can deliver improved processes, products, and customer experiences that translate to tangible cost savings and revenue growth.
+> **[1:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=60)** This means you can deliver improved processes, [[Microsoft Products|products]], and customer experiences that translate to tangible cost savings and revenue growth.
 >
-> **[1:09](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=69)** Secondly, AI literacy is crucial for ensuring ethical and responsible use of AI, including considerations of privacy, bias, and transparency.
+> **[1:09](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=69)** Secondly, AI literacy is crucial for ensuring ethical and responsible use of AI, including considerations of [[Privacy]], bias, and transparency.
 >
 > **[1:19](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=79)** And finally, as AI continues to evolve, a workforce that is literate in AI will be better positioned to adapt and thrive in a rapidly changing technological landscape.
 >
@@ -187,7 +184,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=101)** For example, executives will need more strategic level understanding while engineers require more in-depth technical knowledge.
 >
-> **[1:49](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=109)** Also, be sure to include training on AI ethics and governance to ensure that all employees understand the importance of responsible AI use and where the company stands.
+> **[1:49](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=109)** Also, be sure to include training on AI [[Ethics]] and governance to ensure that all employees understand the importance of [[Responsible AI]] use and where the company stands.
 >
 > **[1:59](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=119)** If you don't have the expertise in-house, you'll need to partner with AI consultants that can provide workshops, executive keynotes, speaking engagements, and other structured training programs.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=146)** Make AI learning resources readily available.
 >
-> **[2:29](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=149)** This could include internal knowledge bases, such as AI policies and prompt libraries, subscriptions to AI related publications like [imaginative.com](https://imaginative.com), or access to online courses like LinkedIn Learning.
+> **[2:29](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=149)** This could include internal knowledge bases, such as AI policies and prompt libraries, subscriptions to AI related publications like [imaginative.com](https://imaginative.com), or access to online courses like [[LinkedIn]] Learning.
 >
 > **[2:40](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/invest-in-ai-literacy-to-gain-competitive-advantage?u=76281980&t=160)** It is equally important that you also allocate dedicated time for learning.
 >
@@ -229,19 +226,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (30), business (2), teams (2), [[Microsoft Products|Products]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (9), [[AI Solutions]] (1), [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[Ethics]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (1), such as (1)
 > **URLs:** [imaginative.com](https://imaginative.com) (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - as (1)
 
-#### Identify use-cases and ground AI in real business needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980)
+#### [Identify use-cases and ground AI in real business needs](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=0)** - As companies unveil evermore remarkable generative AI capabilities in the form of new products and services, it's understandable to be eager to test the innovative possibilities they present.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=0)** - As companies unveil evermore remarkable [[Generative AI]] capabilities in the form of new [[Microsoft Products|products]] and services, it's understandable to be eager to test the innovative possibilities they present.
 >
 > **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=12)** I'm the voice in the room telling you to wait.
 >
@@ -275,13 +271,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=82)** Where could automation or optimization drive dramatic improvements?
 >
-> **[1:27](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=87)** Now using your investment in AI literacy and increased understanding of generative AI capabilities and solutions, which we covered in the previous lesson, you can begin to brainstorm how AI can alleviate pain points or help you capitalize on opportunities.
+> **[1:27](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=87)** Now using your investment in [[AI Literacy]] and increased understanding of generative AI capabilities and solutions, which we covered in the previous lesson, you can begin to brainstorm how AI can alleviate pain points or help you capitalize on opportunities.
 >
 > **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=102)** For instance, if reducing response times for customer service requests is your priority, AI powered chatbots might be a helpful solution to explore.
 >
-> **[1:51](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=111)** Or perhaps you want a conversational AI assistant that can improve the closing ratios of your sales execs by 5% by providing product expertise in real-time.
+> **[1:51](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=111)** Or perhaps you want a [[Conversational AI]] assistant that can improve the closing ratios of your sales execs by 5% by providing product expertise in [[Real-Time]].
 >
-> **[2:01](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=121)** The idea is to align AI solutions to your specific business problems.
+> **[2:01](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=121)** The idea is to align [[AI Solutions]] to your specific business problems.
 >
 > **[2:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/identify-use-cases-and-ground-ai-in-real-business-needs?u=76281980&t=126)** You should screen use cases against criteria like feasibility, business impact, and effort required.
 >
@@ -305,7 +301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), business (7), [[Generative AI]] (3), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[AI Solutions]] (2), [[Microsoft Products|Products]] (1), [[AI Literacy]] (1), [[Conversational AI]] (1)
 > **Analogies:** for instance (1), for example (1), similar to (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** the key is (1)
@@ -317,20 +313,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define AI technical requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
+#### [Define AI technical requirements](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=0)** - The second phase of our framework Survey involves conducting a feasibility assessment.
 >
-> **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=6)** It's about looking closely at your business and understanding your organization's current state of AI readiness.
+> **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=6)** It's about looking closely at your business and understanding your organization's current state of [[AI Readiness]].
 >
 > **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=12)** This starts with the technical requirements of any AI solution that you plan to adopt.
 >
-> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=18)** Whether you're using SaaS-based AI products, fine tuning models on your own infrastructure, or accessing proprietary ones like Gemini, Claude, or GBT via an API, technical requirements are an essential consideration.
+> **[0:18](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=18)** Whether you're using [[SaaS]]-based AI [[Microsoft Products|products]], [[Fine Tuning]] models on your own infrastructure, or accessing proprietary ones like [[Gemini]], Claude, or GBT via an API, technical requirements are an essential consideration.
 >
-> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=32)** In this video, I'll walk you through how to draft an AI technical requirements document that outlines the technology and infrastructure needed to support your generative AI initiatives.
+> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=32)** In this video, I'll walk you through how to draft an AI technical requirements document that outlines the technology and infrastructure needed to support your [[Generative AI]] initiatives.
 >
 > **[0:42](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=42)** Your AI technical requirements document has twin objectives.
 >
@@ -344,9 +339,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=65)** If you are building a custom solution, you must decide between running your own models or using APIs.
 >
-> **[1:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=72)** Running your models on your own infrastructure may provide greater control, but demands comprehensive infrastructure management, including sophisticated hardware and skilled personnel.
+> **[1:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=72)** Running your models on your own infrastructure may provide greater control, but demands comprehensive infrastructure management, including sophisticated [[Hardware]] and skilled personnel.
 >
-> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=82)** Alternatively, using a managed service or API will provide access to more advanced models and allow you to focus on your product development.
+> **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=82)** Alternatively, using a managed service or API will provide access to more advanced models and allow you to focus on your [[Product Development]].
 >
 > **[1:29](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=89)** Your choice should align with your organization's needs and capabilities, balancing both domain expertise with cost efficiency.
 >
@@ -354,7 +349,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=104)** You'll need to catalog your data sources, quality, and security, and assess your organization's data availability, governance policies, and preparedness.
 >
-> **[1:53](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=113)** You should also consider how seamlessly your AI solution integrates with existing systems and their scalability.
+> **[1:53](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=113)** You should also consider how seamlessly your AI solution integrates with existing systems and their [[Scalability]].
 >
 > **[2:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=120)** As a foundational technology, you want your AI to evolve alongside your business.
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=145)** This should include all potential costs such as licensing fees for proprietary AI models or software, and the expenses associated with infrastructure development or upgrades.
 >
-> **[2:35](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=155)** Additionally, consider the ongoing operational costs such as technical support, data management, and any necessary staff training or hiring.
+> **[2:35](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=155)** Additionally, consider the ongoing operational costs such as [[Technical Support]], [[Data Management]], and any necessary staff training or hiring.
 >
 > **[2:44](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/define-ai-technical-requirements?u=76281980&t=164)** In summary, defining the AI technical requirements is essential for successful implementation and adoption, whether you're running models on your own infrastructure or leveraging API-based services.
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), data (6), api (3), next (3), business (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[AI Readiness]] (1), [[SaaS]] (1), [[Microsoft Products|Products]] (1), [[Fine Tuning]] (1)
 > **Env Vars:** api (3), gbt (1)
 > **Analogies:** such as (2)
 > **Prerequisites:** prerequisite (1), you'll need (1)
@@ -386,12 +381,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - the (1)
 
-#### Perform an AI skills gap analysis and talent audit
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980)
+#### [Perform an AI skills gap analysis and talent audit](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=0)** - Implementing AI solutions without capable and enthusiastic employees and supporters across your organization is a non-starter.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=0)** - Implementing [[AI Solutions]] without capable and enthusiastic employees and supporters across your organization is a non-starter.
 >
 > **[0:09](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=9)** Unfortunately, many leaders discover skill gaps too late, and this undermines initiatives after they have already made significant investment.
 >
@@ -421,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=87)** Those across technical teams that design and build AI solutions and those across business teams that apply AI in their operations.
 >
-> **[1:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=96)** Technical skill gaps often revolve around specialized AI tasks, such as fine tuning models and managing data.
+> **[1:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=96)** Technical skill gaps often revolve around specialized AI tasks, such as [[Fine Tuning]] models and managing data.
 >
 > **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=102)** Business skill gaps, on the other hand, are about understanding AI's role and capabilities within a business context.
 >
@@ -429,7 +423,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=111)** Identify AI thought leaders within your organization and empower them as AI evangelists.
 >
-> **[1:57](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=117)** Focus on retraining and upskilling existing employees, emphasizing not just technical skills, but also interpretive and cognitive abilities like creativity and strategic thinking.
+> **[1:57](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=117)** Focus on retraining and upskilling existing employees, emphasizing not just technical skills, but also interpretive and cognitive abilities like creativity and [[Strategic Thinking]].
 >
 > **[2:08](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/perform-an-ai-skills-gap-analysis-and-talent-audit?u=76281980&t=128)** Consider setting up innovation labs and internal conferences to foster an AI-centric culture and collaborative learning environment.
 >
@@ -445,13 +439,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (4), teams (2), leadership (1), [[Fine Tuning]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (2), [[Fine Tuning]] (1), [[Strategic Thinking]] (1)
 > **Cross-References:** we covered (1), previous video (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - implementing (1)
 
-#### Reduce blindspots by conducting an AI risk analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980)
+#### [Reduce blindspots by conducting an AI risk analysis](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -487,19 +480,19 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=93)** It's important to involve various stakeholders, including employees, customers, and external experts to get diverse perspectives on potential risks.
 >
-> **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=102)** I recommend that you focus on four key areas, one, data security, privacy, and permissions, two, model safety issues, such as hallucination and harmful content, three, ethical issues around bias, transparency, and intellectual property, and four, legal and regulatory compliance.
+> **[1:42](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=102)** I recommend that you focus on four key areas, one, [[Data Security]], [[Privacy]], and permissions, two, model safety issues, such as hallucination and harmful content, three, ethical issues around bias, transparency, and intellectual property, and four, legal and [[Regulatory Compliance]].
 >
 > **[2:04](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=124)** For each area, catalog existing controls and rank the likelihood and impact levels of incidents if they occur, then detail specific steps engineering, product, and legal teams must take to strengthen policies, monitoring, and responses.
 >
-> **[2:18](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=138)** You can leverage established frameworks like the National Institute of Standards and Technologies, AI Risk Management Framework, or Deloitte's Trustworthy AI Framework to guide your process.
+> **[2:18](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=138)** You can leverage established frameworks like the National Institute of Standards and Technologies, AI [[Risk Management Framework (RMF)|Risk Management Framework]], or Deloitte's Trustworthy AI Framework to guide your process.
 >
 > **[2:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=148)** These frameworks offer structured methodologies for identifying and manage risk tailored to an organization's unique needs.
 >
-> **[2:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=156)** Ultimately, recognize that continuous monitoring and adaptability will be needed.
+> **[2:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=156)** Ultimately, recognize that [[Continuous Monitoring]] and adaptability will be needed.
 >
 > **[2:41](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=161)** With AI technologies rapidly evolving and regulatory landscapes shifting, it's crucial to regularly update your risk analysis to stay ahead of new challenges.
 >
-> **[2:50](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=170)** Now that you have watched this video, I encourage you to take some time to review the NIST's AI Risk Management Framework, and then proceed to create a robust AI risk management plan.
+> **[2:50](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=170)** Now that you have watched this video, I encourage you to take some time to review the [[NIST]]'s AI Risk Management Framework, and then proceed to create a robust AI risk management plan.
 >
 > **[3:01](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/reduce-blindspots-by-conducting-an-ai-risk-analysis?u=76281980&t=181)** Remember, the goal is to proactively manage AI risk, ensuring your AI initiatives are both innovative and safe.
 >
@@ -511,7 +504,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (17), business (2), management (2), [[Risk Management Framework (RMF)|Risk management framework]] (2), data (1)
+> **Frameworks & Libraries:** [[Risk Management Framework (RMF)|Risk management framework]] (2), [[Data Security]] (1), [[Privacy]] (1), [[Regulatory Compliance]] (1), [[Continuous Monitoring]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** nist (1)
 > **Analogies:** such as (1)
@@ -523,8 +516,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Develop an AI roadmap and tie goals to business value
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
+#### [Develop an AI roadmap and tie goals to business value](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -568,9 +560,9 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=117)** Be sure to build in feedback loops with users and continue looking out for shifts in business needs or new AI capabilities that may impact roadmap priorities.
 >
-> **[2:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=126)** Being agile will be important as the technology landscape evolves.
+> **[2:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=126)** Being [[Agile Development|agile]] will be important as the technology landscape evolves.
 >
-> **[2:11](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=131)** Lastly, ensure appropriate governance is in place so that AI solutions roll out responsibly, mitigating risks you have previously identified.
+> **[2:11](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=131)** Lastly, ensure appropriate governance is in place so that [[AI Solutions]] roll out responsibly, mitigating risks you have previously identified.
 >
 > **[2:20](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/develop-an-ai-roadmap-and-tie-goals-to-business-value?u=76281980&t=140)** Appropriate governance will give leadership confidence in the realization of business value.
 >
@@ -584,12 +576,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), business (12), next (1), [[Agile Development|Agile]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[AI Solutions]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - how (1)
 
-#### The importance of structuring AI leadership and ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980)
+#### [The importance of structuring AI leadership and ownership](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,13 +588,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=6)** I get it, governance and organizational design isn't exciting, but it is utterly foundational.
 >
-> **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=12)** AI solutions live or die based on operating models wrapped around them.
+> **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=12)** [[AI Solutions]] live or die based on operating models wrapped around them.
 >
 > **[0:17](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=17)** Here's how you want to think about approaching structuring AI leadership and ownership in your business.
 >
 > **[0:22](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=22)** First, appoint a dedicated AI leader or group, ideally someone at the executive level.
 >
-> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=28)** Their main responsibilities should include informing AI strategy, facilitating governance, managing partnerships, and guide and adoption.
+> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=28)** Their main responsibilities should include informing [[AI Strategy]], facilitating governance, managing partnerships, and guide and adoption.
 >
 > **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=36)** Second, implement cross-functional AI committees with representatives from business units impacted by AI.
 >
@@ -611,7 +602,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=48)** Importantly, they act as two-way conduits, disseminating strategy down through the org and feedback up decision makers.
 >
-> **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=56)** Depending on the size of your organization, you can also consider subcommittees focused on areas like HR, IT infrastructure, finance, risk, ethics, and compliance.
+> **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=56)** Depending on the size of your organization, you can also consider subcommittees focused on areas like HR, IT infrastructure, finance, risk, [[Ethics]], and compliance.
 >
 > **[1:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=67)** The more voices represented the better.
 >
@@ -621,7 +612,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=84)** These end-to-end owners can liaise with technical AI teams on tooling, while also coordinating with change management for the business users impacted.
 >
-> **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=93)** Their ownership builds accountability.
+> **[1:33](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=93)** Their ownership builds [[Accountability]].
 >
 > **[1:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=96)** Laying this foundation of multi-tiered leadership and ownership delivers strategic oversight and direction, while still encouraging agility through decentralized decision making.
 >
@@ -629,7 +620,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=113)** Decisive organizational design reduces bottlenecks, misalignment, and a duplication of efforts that can otherwise throttle AI success and value realization.
 >
-> **[2:03](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=123)** After watching this video, take some time to reflect on your current AI governance, identify any leadership gaps or unclear ownership that you may need to address through a proposed organizational redesign.
+> **[2:03](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=123)** After watching this video, take some time to reflect on your current [[AI Governance]], identify any leadership gaps or unclear ownership that you may need to address through a proposed organizational redesign.
 >
 > **[2:14](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/the-importance-of-structuring-ai-leadership-and-ownership?u=76281980&t=134)** Remember, thoughtfully design structures empower teams, maintain alignment to strategy, and drive accountability for solution success.
 >
@@ -637,7 +628,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), business (4), leadership (4), teams (2), [[Accountability]] (2)
+> **Frameworks & Libraries:** [[AI Strategy]] (2), [[Accountability]] (2), [[AI Solutions]] (1), [[Ethics]] (1), [[AI Governance]] (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - organizing (1)
@@ -647,8 +638,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to operationalize your AI strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
+#### [How to operationalize your AI strategy](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -656,13 +646,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=3)** There's no ROI in AI unless you execute.
 >
-> **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=7)** In theory, generative AI presents tremendous opportunities for your business, but in practice, the difference between success and failure is in how effectively you can move from strategy to implementation.
+> **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=7)** In theory, [[Generative AI]] presents tremendous opportunities for your business, but in practice, the difference between success and failure is in how effectively you can move from strategy to implementation.
 >
 > **[0:19](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=19)** In this video, I'll guide you through developing an action plan to operationalize your generative AI strategy.
 >
 > **[0:24](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=24)** By the end, you'll be equipped to translate your strategic vision into specific actionable tasks that can help you succeed.
 >
-> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=32)** Turning your AI strategy into realities like navigating a new path.
+> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=32)** Turning your [[AI Strategy]] into realities like navigating a new path.
 >
 > **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=36)** It requires both a map and the agility to adapt.
 >
@@ -702,7 +692,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=112)** Let them build momentum by delivering a continual stream of small AI advances versus big bang deployments.
 >
-> **[2:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=120)** This agile approach allows you to pivot dynamically based on user data, and feedback from solution prototypes.
+> **[2:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=120)** This [[Agile Development|agile]] approach allows you to pivot dynamically based on user data, and feedback from solution prototypes.
 >
 > **[2:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/how-to-operationalize-your-ai-strategy?u=76281980&t=127)** Ensure clear communication about the role and benefits of AI.
 >
@@ -724,40 +714,39 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), teams (4), [[Generative AI]] (3), business (2), product (1)
+> **Frameworks & Libraries:** [[AI Strategy]] (4), [[Generative AI]] (3), [[Agile Development|Agile]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** roi (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Responsible AI deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980)
+#### [Responsible AI deployment](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=0)** - As they say, with great power comes great responsibility.
 >
-> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=4)** And as generative AI technologies become more capable and unlock incredible potential, we must all be thoughtful stewards and mitigate risk by integrating principled and vigilant governance.
+> **[0:04](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=4)** And as [[Generative AI]] technologies become more capable and unlock incredible potential, we must all be thoughtful stewards and mitigate risk by integrating principled and vigilant governance.
 >
-> **[0:15](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=15)** Responsible AI adoption and deployment requires continuous, conscientious effort across your teams, tools, and processes.
+> **[0:15](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=15)** [[Responsible AI]] adoption and deployment requires continuous, conscientious effort across your teams, tools, and processes.
 >
 > **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=23)** Here are six pillars that should form the foundation of your action plan.
 >
-> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=28)** First, prioritize data integrity and security.
+> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=28)** First, prioritize [[Data Integrity]] and security.
 >
-> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=32)** As we have covered in our risk analysis video, generative AI relies heavily on data, so breaches can propagate biases or privacy violations.
+> **[0:32](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=32)** As we have covered in our risk analysis video, generative AI relies heavily on data, so breaches can propagate biases or [[Privacy]] violations.
 >
-> **[0:41](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=41)** Appoint data guardians, enact access controls, mask sensitive data, and implement cybersecurity best practices.
+> **[0:41](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=41)** Appoint data guardians, enact access controls, mask sensitive data, and implement [[Cybersecurity]] best practices.
 >
-> **[0:49](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=49)** Next, build accountability through rigorous continuous monitoring of your AI systems decisions and performance.
+> **[0:49](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=49)** Next, build [[Accountability]] through rigorous [[Continuous Monitoring]] of your AI systems decisions and performance.
 >
 > **[0:56](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=56)** Watch closely for unfair biases and drops in accuracy, and maintain human oversight and understandability in AI-assisted decisions.
 >
 > **[1:05](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=65)** Be sure to update your models regularly and phase out underperforming ones responsibly.
 >
-> **[1:10](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=70)** Third, foster an organizational culture centered on responsible AI principles.
+> **[1:10](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=70)** Third, foster an [[Organizational Culture]] centered on responsible AI principles.
 >
-> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=76)** Provide interactive ethics training exploring real world dilemmas.
+> **[1:16](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=76)** Provide interactive [[Ethics]] training exploring real world dilemmas.
 >
 > **[1:20](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/responsible-ai-deployment?u=76281980&t=80)** Incentivize speaking up about risks.
 >
@@ -787,7 +776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (6), [[Responsible AI]] (4), [[Ethics]] (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Responsible AI]] (4), [[Ethics]] (3), [[Generative AI]] (2), [[Data Integrity]] (1), [[Privacy]] (1)
 > **Speakers:** - as (1)
 
 
@@ -795,16 +784,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Assess generative AI outcomes to measure ROI
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
+#### [Assess generative AI outcomes to measure ROI](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=0)** - Investing in generative AI is not just about embracing new technology, it's about driving real business value.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=0)** - Investing in [[Generative AI]] is not just about embracing new technology, it's about driving real business value.
 >
 > **[0:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=7)** But how do you measure the success of your AI initiatives?
 >
-> **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=12)** In this video, I'll provide you with a framework for accurately evaluating your AI solutions performance and return on investments, including metrics, costs, and overall business impact.
+> **[0:12](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=12)** In this video, I'll provide you with a framework for accurately evaluating your [[AI Solutions]] performance and return on investments, including metrics, costs, and overall business impact.
 >
 > **[0:23](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/assess-generative-ai-outcomes-to-measure-roi?u=76281980&t=23)** When evaluating your AI initiatives, first, revisit the key performance indicators and milestones that you would've created during the AI roadmap goal alignment section of this course.
 >
@@ -840,18 +828,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (4), data (2), [[Generative AI]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[AI Solutions]] (2), [[Generative AI]] (1)
 > **Env Vars:** roi (5)
 > **Analogies:** for example (1), such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - investing (1)
 
-#### Adapt the USAGE framework to your needs
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980)
+#### [Adapt the USAGE framework to your needs](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=0)** - Implementing generative AI in your business isn't a one size fits all journey.
+> **[0:00](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=0)** - Implementing [[Generative AI]] in your business isn't a one size fits all journey.
 >
 > **[0:05](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=5)** Each organization's path to AI adoption is unique, shaped by its specific needs, goals, and context.
 >
@@ -875,7 +862,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=71)** Your AI roadmap should reflect your specific business timeline and resources, ensuring it's both ambitious and achievable.
 >
-> **[1:19](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=79)** The guide phase is where you pilot and test AI solutions.
+> **[1:19](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=79)** The guide phase is where you pilot and test [[AI Solutions]].
 >
 > **[1:22](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=82)** Here, focus on prototypes and tests that address your unique business scenarios.
 >
@@ -889,7 +876,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=114)** It's designed to be revisited and revised as your business and the AI landscape evolves.
 >
-> **[1:59](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=119)** So stay flexible, keep learning, and continuously adapt the framework to remain at the forefront of AI-driven business transformation.
+> **[1:59](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=119)** So stay flexible, keep learning, and continuously adapt the framework to remain at the forefront of AI-driven [[Business Transformation]].
 >
 > **[2:07](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/adapt-the-usage-framework-to-your-needs?u=76281980&t=127)** So reflect on your AI aspirations, leverage the flexibility of the usage framework and embark on a journey that's uniquely yours.
 >
@@ -897,7 +884,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), business (8), [[Generative AI]] (1), [[Business Transformation]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[AI Solutions]] (1), [[Business Transformation]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - implementing (1)
 
@@ -906,8 +893,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)
+#### [Continue learning](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,17 +903,17 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=6)** I know that adopting new technology in a company can be complicated.
 >
-> **[0:10](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=10)** This is especially true with AI, given how fundamentally it changes processes and products.
+> **[0:10](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=10)** This is especially true with AI, given how fundamentally it changes processes and [[Microsoft Products|products]].
 >
 > **[0:16](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=16)** My hope is that with the usage framework, I have provided you with a mental model that you can utilize effectively to guide AI decision making and equip you with a flexible framework that you can weave into your existing business strategy.
 >
-> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=28)** Feel free to follow me on LinkedIn, and if you want to learn more about how Maginative helps companies increase AI literacy across their teams, you can visit our website.
+> **[0:28](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=28)** Feel free to follow me on [[LinkedIn]], and if you want to learn more about how Maginative helps companies increase [[AI Literacy]] across their teams, you can visit our website.
 >
 > **[0:36](https://www.linkedin.com/learning/integrating-generative-ai-into-business-strategy/continue-learning?u=76281980&t=36)** For now, take care and one love.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Products|Products]] (1), business (1), [[LinkedIn]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[AI Literacy]] (1)
 > **Speakers:** - well (1)
 
 

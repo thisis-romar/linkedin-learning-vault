@@ -34,7 +34,7 @@ created: 2026-05-02
 1. [[Cloud Computing Understanding Core Concepts]] — 40 mentions
 2. [[Google Cloud Digital Leader Cert Prep 1 Digital Transformation With Google Cloud]] — 37 mentions
 3. [[A Beginner's Guide to Public Cloud Options]] — 29 mentions
-4. [[Azure Understanding The Big Picture]] — 23 mentions
+4. [[Azure Understanding The Big Picture]] — 24 mentions
 5. [[Cybersecurity with Cloud Computing]] — 17 mentions
 6. [[Microsoft Azure Essentials By Microsoft Press]] — 16 mentions
 7. [[Azure Cloud Fundamentals- Explore Cloud Services]] — 12 mentions
@@ -65,18 +65,18 @@ created: 2026-05-02
 > 30. [[AWS Essential Training for Architects]] — 3 mentions
 > 31. [[Azure for Architects- Security and Identity Management with Microsoft Entra]] — 3 mentions
 > 32. [[Azure Essential Training for Developers]] — 3 mentions
-> 33. [[Complete Guide to AWS Software Deployment]] — 3 mentions
-> 34. [[Including Sustainability in Your Cloud Strategy (2022)]] — 3 mentions
-> 35. [[Cloud Security Concepts- Services and Compliance]] — 2 mentions
-> 36. [[Ethical Hacking- Cloud Computing]] — 2 mentions
-> 37. [[IT Security Foundations- Core Concepts]] — 2 mentions
-> 38. [[Cybersecurity Foundations- Computer Forensics]] — 2 mentions
-> 39. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
-> 40. [[Cloud Architecture- Advanced Concepts]] — 2 mentions
-> 41. [[Manage Storage in Azure]] — 2 mentions
-> 42. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 2 mentions
-> 43. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 2 mentions
-> 44. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 2 mentions
+> 33. [[Lpic 1 Exam 101 Version 5 0 Cert Prep]] — 3 mentions
+> 34. [[Complete Guide to AWS Software Deployment]] — 3 mentions
+> 35. [[Including Sustainability in Your Cloud Strategy (2022)]] — 3 mentions
+> 36. [[Cloud Security Concepts- Services and Compliance]] — 2 mentions
+> 37. [[Ethical Hacking- Cloud Computing]] — 2 mentions
+> 38. [[IT Security Foundations- Core Concepts]] — 2 mentions
+> 39. [[Cybersecurity Foundations- Computer Forensics]] — 2 mentions
+> 40. [[DevOps Foundations- Infrastructure as Code]] — 2 mentions
+> 41. [[Cloud Architecture- Advanced Concepts]] — 2 mentions
+> 42. [[Manage Storage in Azure]] — 2 mentions
+> 43. [[Google Cloud Digital Leader Cert Prep- 4 Modernize Infrastructure and Applications with Google Cloud]] — 2 mentions
+> 44. [[Putting ITIL® into Practice- DevOps for ITIL® Practitioners]] — 2 mentions
 > 45. [[Understanding Generative AI in Cloud Computing- Services and Use Cases]] — 1 mentions
 > 46. [[Introduction to IT Architecture]] — 1 mentions
 > 47. [[Cybersecurity Foundations]] — 1 mentions
@@ -101,11 +101,11 @@ created: 2026-05-02
 2. [[Essential New Skills in IT Administration]] — 73 total mentions
 3. [[Master Digital Transformation]] — 49 total mentions
 4. [[Explore a Career as a Cloud Administrator]] — 45 total mentions
-5. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 43 total mentions
+5. [[Azure Administration for Beginners- Management Tools, Services, and Security]] — 44 total mentions
 6. [[The Top 10 Most Popular Courses among IT Professionals]] — 41 total mentions
 7. [[Prepare for the Google Cloud Digital Leader Certification]] — 39 total mentions
 8. [[Cloud Strategy Professional Certificate by LinkedIn Learning]] — 30 total mentions
-9. [[Getting Started as an Azure Developer]] — 27 total mentions
+9. [[Getting Started as an Azure Developer]] — 28 total mentions
 10. [[Become an IT Security Specialist]] — 26 total mentions
 
 ---

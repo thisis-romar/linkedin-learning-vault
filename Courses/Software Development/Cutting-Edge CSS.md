@@ -72,8 +72,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cutting-edge CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
+#### [Cutting-edge CSS](https://www.linkedin.com/learning/cutting-edge-css/cutting-edge-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,15 +94,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (7), [[Programming]] (2)
 > **Env Vars:** css (7)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** imagine (1), picture (1)
 > **CLI Commands:** make (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980)
+#### [Exercise files](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -113,13 +110,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=13)** Instead I've created a list of relevant links, documenting all the features, properties, and techniques covered in each of the movies so you can dig deeper into each subject.
 >
-> **[0:22](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=22)** The list of links is available at the GitHub repository for this course, and I've split it into chapters to make it easy to navigate.
+> **[0:22](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=22)** The list of links is available at the [[GitHub]] repository for this course, and I've split it into chapters to make it easy to navigate.
 >
 > **[0:29](https://www.linkedin.com/learning/cutting-edge-css/exercise-files?u=76281980&t=29)** As you watch the course, be sure to have this list of links handy so you can click on the documentation links and learn more about what is covered.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** css (1)
 > **Documentation:** the documentation (1)
@@ -133,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are logical properties?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
+#### [What are logical properties?](https://www.linkedin.com/learning/cutting-edge-css/what-are-logical-properties-14445691?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -182,13 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **Env Vars:** css (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (energetic music) (1)
 
-#### Position explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980)
+#### [Position explained](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -212,7 +206,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=79)** Absolute positioning is a whole other story, set an element to position absolute, and it is taken out of the normal document flow and whatever space it took up, is filled with the other elements in the document.
 >
-> **[1:31](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=91)** The element is now positioned in the inline start block start corner of the closest positioned ancestor, meaning an element that is either relatively or sticky position, or if there is no position ancestor, the initial containing block, meaning the top level HTML element.
+> **[1:31](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=91)** The element is now positioned in the inline start block start corner of the closest positioned ancestor, meaning an element that is either relatively or sticky position, or if there is no position ancestor, the initial containing block, meaning the top level [[HTML]] element.
 >
 > **[1:48](https://www.linkedin.com/learning/cutting-edge-css/position-explained-14448738?u=76281980&t=108)** Once placed, the absolutely position elements stays in place relative to the other content in the document.
 >
@@ -236,8 +230,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Why margins collapse
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/why-margins-collapse?u=76281980)
+#### [Why margins collapse](https://www.linkedin.com/learning/cutting-edge-css/why-margins-collapse?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -299,7 +292,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (1)
 > **Env Vars:** rem (7), css (4), rems (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** the key is (1)
@@ -312,8 +304,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Counting with CSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
+#### [Counting with CSS](https://www.linkedin.com/learning/cutting-edge-css/counting-with-css?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,21 +400,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1), functional (1)
 > **Definitions:** is an  (1), refers to (1)
 > **Non-Speech:** (dramatic music) (2)
 > **Env Vars:** css (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Container queries
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980)
+#### [Container queries](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=0)** (energetic music)
 >
-> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=5)** - [Instructor] Media queries are a mainstay of modern web development, but for all their amazingness, they have some severe limitations.
+> **[0:05](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=5)** - [Instructor] Media queries are a mainstay of modern [[Web Development]], but for all their amazingness, they have some severe limitations.
 >
 > **[0:12](https://www.linkedin.com/learning/cutting-edge-css/container-queries?u=76281980&t=12)** Consider this example.
 >
@@ -473,14 +462,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Web Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Development]] (1)
 > **Non-Speech:** (energetic music) (2)
 > **Definitions:** in other words (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### The difference between :is and :where
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/the-difference-between-is-and-where?u=76281980)
+#### [The difference between :is and :where](https://www.linkedin.com/learning/cutting-edge-css/the-difference-between-is-and-where?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,7 +516,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** css (1)
 > **Analogies:** for example (1)
@@ -540,8 +527,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the clamp() function works
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
+#### [How the clamp() function works](https://www.linkedin.com/learning/cutting-edge-css/how-the-clamp-function-works?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,8 +550,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Beyond viewport width
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980)
+#### [Beyond viewport width](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -581,7 +566,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=28)** The width of the viewport includes the scroll bar.
 >
-> **[0:31](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=31)** And if the scroll bar is always present, as it is in Windows, that means the viewport with is wider than the actual displayed viewport.
+> **[0:31](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=31)** And if the scroll bar is always present, as it is in [[Windows]], that means the viewport with is wider than the actual displayed viewport.
 >
 > **[0:39](https://www.linkedin.com/learning/cutting-edge-css/beyond-viewport-width?u=76281980&t=39)** And as a result, an element set to 100 VW is wider than the displayed area and horizontal scrolling occurs so you can see the entire element.
 >
@@ -611,13 +596,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), css (1)
+> **Frameworks & Libraries:** [[Windows]] (1)
 > **Env Vars:** css (1), lvi (1), svi (1), dvi (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Flex vs. grid: Content out or layout in?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/flex-vs-grid-content-out-or-layout-in?u=76281980)
+#### [Flex vs. grid: Content out or layout in?](https://www.linkedin.com/learning/cutting-edge-css/flex-vs-grid-content-out-or-layout-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -665,8 +649,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat industrial music) (1)
 
-#### Making sense of grid-auto-flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980)
+#### [Making sense of grid-auto-flow](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -688,7 +671,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=62)** How does this impact the flow of the content?
 >
-> **[1:06](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=66)** If the bigger item appears in its natural auto-placement position, the rest of the items will just fill up the available space around the elements and we get an order like this, which is pretty logical.
+> **[1:06](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=66)** If the bigger item appears in its natural auto-placement position, the [[Representational State Transfer (REST)|rest]] of the items will just fill up the available space around the elements and we get an order like this, which is pretty logical.
 >
 > **[1:17](https://www.linkedin.com/learning/cutting-edge-css/making-sense-of-grid-auto-flow?u=76281980&t=77)** However, if we manually position the item one cell further along the column axis, something unexpected happens, we get a hole in the grid, an empty cell, a gap.
 >
@@ -720,8 +703,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cutting-edge-css/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +721,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), next (2), web (1)
 > **Env Vars:** css (4)
 > **Non-Speech:** (upbeat music) (1), (soft music) (1)
 > **CLI Commands:** go build (1)

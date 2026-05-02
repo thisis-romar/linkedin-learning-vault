@@ -100,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get started with the EU AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980)
+#### [Get started with the EU AI Act](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980&t=0)** - The European Union Artificial Intelligence Act is the first of its kind legislation aiming to ensure the responsible development, deployment, and use of artificial intelligence.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980&t=0)** - The European Union [[Artificial Intelligence (AI)|Artificial Intelligence]] Act is the first of its kind legislation aiming to ensure the responsible development, deployment, and use of artificial intelligence.
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-the-eu-ai-act/get-started-with-the-eu-ai-act?u=76281980&t=10)** Although the regulation was adopted to protect consumers in the EU, its impacts will be felt globally.
 >
@@ -119,21 +118,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), business (1), [[Security]] (1), ai (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2)
 > **Speakers:** - the (1)
 
-#### Not a legal advice disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980)
+#### [Not a legal advice disclaimer](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=0)** - [Narrator] The European Union's Artificial Intelligence Act is a comprehensive legal framework for developing and using AI systems.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=0)** - [Narrator] The European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act is a comprehensive legal framework for developing and using AI systems.
 >
 > **[0:07](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=7)** Our course aims to help organizations understand its components and their requirements for their business.
 >
 > **[0:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=13)** Remember that the examples and scenarios I share throughout are purely hypothetical and should not be used as legal advice.
 >
-> **[0:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=20)** When specific questions arise, please consult your organization's legal department or advisors specializing in European data privacy and integrity law.
+> **[0:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=20)** When specific questions arise, please consult your organization's legal department or advisors specializing in European [[Data Privacy]] and integrity law.
 >
 > **[0:29](https://www.linkedin.com/learning/navigating-the-eu-ai-act/not-a-legal-advice-disclaimer?u=76281980&t=29)** You should not rely on the contents of this course as legal advice.
 >
@@ -141,16 +139,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1), business (1), data (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Key terms and definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980)
+#### [Key terms and definitions](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=0)** - [Instructor] The European Union's Artificial Intelligence Act is a long and complex document.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=0)** - [Instructor] The European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act is a long and complex document.
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=5)** It contains a ton of legalese, which means that the language is often better suited for a courtroom than a boardroom.
 >
@@ -172,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=66)** Deployers are natural or legal persons who are using an AI system that a provider has given them.
 >
-> **[1:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=72)** A quick note, the European Union often refers to people like you or me as natural persons, and companies or agencies like LinkedIn Learning as legal persons.
+> **[1:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=72)** A quick note, the European Union often refers to people like you or me as natural persons, and companies or agencies like [[LinkedIn]] Learning as legal persons.
 >
 > **[1:22](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=82)** Importers are natural or legal persons located in the European Union who provide AI systems from third-party countries to EU consumers.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=122)** The phrase is important to define because many of the requirements communicated in the AI Act are enforceable the first time the system is used.
 >
-> **[2:10](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=130)** There are many, many more terms that I could introduce, but what I have shared so far will give you a good footing for the rest of the course.
+> **[2:10](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=130)** There are many, many more terms that I could introduce, but what I have shared so far will give you a good footing for the [[Representational State Transfer (REST)|rest]] of the course.
 >
 > **[2:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-terms-and-definitions?u=76281980&t=138)** As we introduce new concepts and requirements, I will leave time to define important terms and definitions.
 >
@@ -198,7 +195,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), next (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** refers to (3), is a  (1), means that (1)
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
@@ -208,16 +205,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The goals of the AI Act
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980)
+#### [The goals of the AI Act](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=0)** - [Instructor] The European Union is no novice when it comes to preparing first of its kind legislation.
 >
-> **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=5)** In 2016, the General Data Protection Regulation, GDPR, was signed into law, marking the first time unified data privacy laws would be enforced on an international scale.
+> **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=5)** In 2016, the General Data Protection Regulation, GDPR, was signed into law, marking the first time unified [[Data Privacy]] laws would be enforced on an international scale.
 >
-> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=17)** The EU is poised to be the first, again, with the Artificial Intelligence Act.
+> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=17)** The EU is poised to be the first, again, with the [[Artificial Intelligence (AI)|Artificial Intelligence]] Act.
 >
 > **[0:22](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-goals-of-the-ai-act?u=76281980&t=22)** This time, they have authored a regulation that defines a unified set of consumer protection requirements to safeguard the wellbeing and fundamental rights of users engaging with AI systems.
 >
@@ -239,20 +235,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Data Privacy]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** gdpr (2)
 > **Speakers:** - [instructor] (1)
 
-#### Geographic and sector scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980)
+#### [Geographic and sector scope](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=0)** - [Instructor] The European Union's Artificial Intelligence Act is a lengthy piece of reading.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=0)** - [Instructor] The European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act is a lengthy piece of reading.
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=5)** Whether you read the whole text or only review a summary of the requirements, you'll likely be left wondering, "Does this really apply to my business?"
 >
-> **[0:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=13)** It may surprise you to know that there may be potential impacts on your business operations even if your company operates outside of the EU.
+> **[0:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=13)** It may surprise you to know that there may be potential impacts on your [[Business Operations]] even if your company operates outside of the EU.
 >
 > **[0:21](https://www.linkedin.com/learning/navigating-the-eu-ai-act/geographic-and-sector-scope?u=76281980&t=21)** If you or your organization is discussing that question right now, I'd like to direct you back to Article 2, which provides details about the regulation scope and applicability.
 >
@@ -298,12 +293,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Business Operations]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk-based approach
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980)
+#### [Risk-based approach](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +315,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980&t=43)** These systems are prohibited due to the level of inherent risk to users.
 >
-> **[0:49](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980&t=49)** Social scoring mechanisms and real-time biometric monitoring are examples of systems that will not be allowed when the AI Act is enforced.
+> **[0:49](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980&t=49)** Social scoring mechanisms and [[Real-Time]] biometric monitoring are examples of systems that will not be allowed when the AI Act is enforced.
 >
 > **[0:57](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-based-approach?u=76281980&t=57)** Next is high risk.
 >
@@ -349,17 +343,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (2), [[Security]] (1), management (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Real-Time]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Key timelines to consider
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980)
+#### [Key timelines to consider](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=0)** - [Instructor] The impacts of the European Union's Artificial Intelligence Act will be felt before we know it.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=0)** - [Instructor] The impacts of the European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act will be felt before we know it.
 >
 > **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=5)** To help provide context, I'd like to go back in time and introduce where the AI Act came from.
 >
@@ -385,7 +378,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=72)** Nine months after publishing, a code of practice for general-purpose AI will be finalized.
 >
-> **[1:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=78)** This will define a strict set of rules for general-purpose artificial intelligence tools like large language models.
+> **[1:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=78)** This will define a strict set of rules for general-purpose artificial intelligence tools like [[Large Language Models (LLM)|large language models]].
 >
 > **[1:25](https://www.linkedin.com/learning/navigating-the-eu-ai-act/key-timelines-to-consider?u=76281980&t=85)** Then 12 months later, the rules published for GPAI will take effect.
 >
@@ -411,7 +404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), next (1), [[Large Language Models (LLM)|Large language models]] (1), data (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpai (1), iii (1)
 > **Warnings:** note that (1), keep in mind (1)
 > **Speakers:** - [instructor] (1)
@@ -421,12 +414,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prohibited artificial intelligence practices
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980)
+#### [Prohibited artificial intelligence practices](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=0)** - [Instructor] The blockbuster hit movie, "The Terminator", demonstrates that not all artificial intelligence systems prioritize safety and wellbeing, but the EU AI Act does.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=0)** - [Instructor] The blockbuster hit movie, "The Terminator", demonstrates that not all [[Artificial Intelligence (AI)|artificial intelligence]] systems prioritize safety and wellbeing, but the EU AI Act does.
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=10)** The AI Act Article 5, Prohibited Artificial Intelligence Practices, mandates the prohibition of eight AI practices from market placement in Europe.
 >
@@ -456,7 +448,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=118)** It's essential to note that there is an exception for AI systems that assess individuals for criminal activity only when the assessment relies on objective and verifiable facts.
 >
-> **[2:08](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=128)** Fifth, AI systems that scrape internet or CCTV footage to build or enhance the data within facial recognition databases are strictly prohibited.
+> **[2:08](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=128)** Fifth, AI systems that scrape internet or CCTV footage to build or enhance the data within facial recognition [[Databases]] are strictly prohibited.
 >
 > **[2:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/prohibited-artificial-intelligence-practices?u=76281980&t=138)** Sixth are AI systems that infer the emotions of individuals in work or academic settings.
 >
@@ -476,7 +468,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), hit (1), application (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Databases]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), refers to (1)
 > **Analogies:** imagine (2)
@@ -484,8 +476,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classification of high-risk AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/classification-of-high-risk-ai-systems?u=76281980)
+#### [Classification of high-risk AI systems](https://www.linkedin.com/learning/navigating-the-eu-ai-act/classification-of-high-risk-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -545,15 +536,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), product (4), traffic (1), management (1), [[Security]] (1)
 > **Env Vars:** iii (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exceptions to the high-risk classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980)
+#### [Exceptions to the high-risk classification](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -569,13 +558,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=50)** Second are tools and platforms that improve the results of a human-generated activity.
 >
-> **[0:55](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=55)** An example of a system that falls into this category may be an automated intrusion detection system.
+> **[0:55](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=55)** An example of a system that falls into this category may be an automated [[Intrusion Detection]] system.
 >
 > **[1:01](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=61)** In this scenario, the human is responsible for defining where the device should exist and what data should be collected.
 >
 > **[1:08](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=68)** Alternatively, the program is responsible for collecting and presenting that data.
 >
-> **[1:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=73)** Third, your AI system may not be considered high risk if the tool intends to detect decision-making patterns or deviations from prior decision-making patterns and will not replace or influence the human assessment.
+> **[1:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=73)** Third, your AI system may not be considered high risk if the tool intends to detect [[Decision-Making]] patterns or deviations from prior decision-making patterns and will not replace or influence the human assessment.
 >
 > **[1:26](https://www.linkedin.com/learning/navigating-the-eu-ai-act/exceptions-to-the-high-risk-classification?u=76281980&t=86)** To illustrate this, let's consider a program that helps teachers grade tests.
 >
@@ -603,20 +592,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Decision-Making]] (3), data (2), management (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (3), [[Intrusion Detection]] (1)
 > **Env Vars:** iii (3)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980)
+#### [Risk management systems](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=0)** - [Narrator] Wherever there's an engineering team within an organization working on cutting-edge technology, there's a risk and compliance team close behind working to understand, categorize, quantify, and eventually mitigate risk appropriately.
 >
-> **[0:14](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=14)** The European Union's AI Act recognizes the value of risk management to both businesses and consumers, and has defined requirements to ensure teams continue to apply a lens of professional skepticism to novel tools and products.
+> **[0:14](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=14)** The European Union's AI Act recognizes the value of risk management to both businesses and consumers, and has defined requirements to ensure teams continue to apply a lens of professional skepticism to novel tools and [[Microsoft Products|products]].
 >
 > **[0:29](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=29)** Let's take a look at Chapter 3, Article 9 of the AI Act, and review some of their requirements.
 >
@@ -624,13 +612,13 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=43)** It's important to note that while this requirement exists, there won't be a single right answer.
 >
-> **[0:48](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=48)** I'd recommend reviewing the National Institute of Standards and Technology, NIST, AI Risk Management Framework, and the International Organization of Standards 23894 publication.
+> **[0:48](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=48)** I'd recommend reviewing the National Institute of Standards and Technology, [[NIST]], AI [[Risk Management Framework (RMF)|Risk Management Framework]], and the International Organization of Standards 23894 publication.
 >
 > **[1:02](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=62)** Both documents provide initial guidance for identifying, classifying and managing AI risk.
 >
 > **[1:09](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=69)** Next, the AI Act defines minimum criteria for what the risk management system should be capable of.
 >
-> **[1:16](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=76)** On a recurring basis, the system should identify and analyze risk associated with high-risk artificial intelligence.
+> **[1:16](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=76)** On a recurring basis, the system should identify and analyze risk associated with high-risk [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[1:22](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=82)** It should be capable of estimating and evaluating the impact and likelihood of risk scenarios, and it should be built to ingest information from post-market monitoring.
 >
@@ -644,7 +632,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=120)** They recommend eliminating or reducing risk through thoughtful design and deployment methods.
 >
-> **[2:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=125)** The Cybersecurity and Infrastructure Security Agency, CISA, published a paper in April, 2023, defining their Secure by Design principles.
+> **[2:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=125)** The [[Cybersecurity]] and Infrastructure Security Agency, CISA, published a paper in April, 2023, defining their Secure by Design principles.
 >
 > **[2:15](https://www.linkedin.com/learning/navigating-the-eu-ai-act/risk-management-systems?u=76281980&t=135)** I recommend reviewing their paper to understand what practices help address this.
 >
@@ -660,15 +648,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), management (4), [[Engineering]] (1), teams (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[NIST]] (1), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (1), cisa (1)
 > **Cross-References:** earlier in (1)
 > **Warnings:** note that (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Data quality and governance
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980)
+#### [Data quality and governance](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,21 +663,21 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=8)** In the same report, the author noted that 47% of newly-created data records have at least one critical error.
 >
-> **[0:15](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=15)** It's been several years, but these statistics are more relevant than ever.
+> **[0:15](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=15)** It's been several years, but these [[Statistics]] are more relevant than ever.
 >
-> **[0:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=20)** Data is being collected at greater volumes than ever before to fuel the rapid expansion of artificial intelligence.
+> **[0:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=20)** Data is being collected at greater volumes than ever before to fuel the rapid expansion of [[Artificial Intelligence (AI)|artificial intelligence]].
 >
-> **[0:26](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=26)** However, standing in the way of safe and sustainable performance are data quality issues.
+> **[0:26](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=26)** However, standing in the way of safe and sustainable performance are [[Data Quality]] issues.
 >
 > **[0:32](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=32)** Bad data can introduce bias, cause models to hallucinate and render system useless, or at the very least, inconsistent.
 >
-> **[0:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=40)** Article 10: Data and Data Governance establishes requirements for appropriate data quality practices for high-risk AI systems.
+> **[0:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=40)** Article 10: Data and [[Data Governance]] establishes requirements for appropriate data quality practices for high-risk AI systems.
 >
 > **[0:48](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=48)** The details in the article leave a lot of room for interpretation, but there are some key themes that are important to keep in mind as you begin collecting data and using it to train and validate your systems.
 >
 > **[1:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=60)** First, let's look at data quality and management.
 >
-> **[1:03](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=63)** Your organization should have clearly-defined data governance and management policies, which should consider aspects such as data collection, cleaning and processing.
+> **[1:03](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=63)** Your organization should have clearly-defined data governance and management policies, which should consider aspects such as [[Data Collection]], cleaning and processing.
 >
 > **[1:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=73)** The data should be labeled correctly based on its sensitivity and updated as needed.
 >
@@ -708,13 +695,13 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=126)** Processing sensitive data such as PII or PHI may be permissible in cases where it's being used to detect and correct biases in datasets.
 >
-> **[2:16](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=136)** When this does occur, strict privacy and security protections are mandatory, including limitations on reuse.
+> **[2:16](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=136)** When this does occur, strict [[Privacy]] and security protections are mandatory, including limitations on reuse.
 >
 > **[2:23](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=143)** The last paragraph of the article provides a caveat regarding the application of these rules.
 >
 > **[2:28](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=148)** It states that requirements for data quality and management apply only to the testing datasets when the AI system does not involve training AI models.
 >
-> **[2:37](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=157)** A common example of this scenario is a spam filter, which separates emails in your inbox based on clearly-defined rules as opposed to decision-making supported by training data.
+> **[2:37](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=157)** A common example of this scenario is a spam filter, which separates emails in your inbox based on clearly-defined rules as opposed to [[Decision-Making]] supported by training data.
 >
 > **[2:48](https://www.linkedin.com/learning/navigating-the-eu-ai-act/data-quality-and-governance?u=76281980&t=168)** I've now shared with you the requirements for data quality defined in the AI Act.
 >
@@ -722,7 +709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), ai (7), management (5), business (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Quality]] (5), [[Data Governance]] (2), [[Statistics]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Collection]] (1)
 > **Env Vars:** pii (1), phi (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
@@ -730,8 +717,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Technical documentation and recordkeeping
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980)
+#### [Technical documentation and recordkeeping](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,9 +727,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=12)** How will the EU or your consumers know that you're following the rules?
 >
-> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=17)** How will they be made aware that you have implemented a robust risk management system or enforce data quality standards?
+> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=17)** How will they be made aware that you have implemented a robust risk management system or enforce [[Data Quality]] standards?
 >
-> **[0:23](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=23)** That's where technical documentation and record keeping come into play.
+> **[0:23](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=23)** That's where [[Technical Documentation]] and record keeping come into play.
 >
 > **[0:27](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=27)** I'll introduce technical documentation first.
 >
@@ -763,7 +749,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=93)** It should also highlight the different elements of the application or tool and relevant information about its development.
 >
-> **[1:39](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=99)** The provider must give detailed information about the monitoring of the system and evidence of the appropriateness of the performance metrics.
+> **[1:39](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=99)** The provider must give detailed information about the monitoring of the system and evidence of the appropriateness of the [[Performance Metrics]].
 >
 > **[1:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/technical-documentation-and-record-keeping?u=76281980&t=107)** Lastly, the provider should include a description of the risk management system, relevant changes made by the provider during the SDLC process, and related legislative requirements.
 >
@@ -787,19 +773,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Technical Documentation]] (4), management (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (4), [[Data Quality]] (1), [[Performance Metrics]] (1)
 > **Env Vars:** sdlc (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transparency requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980)
+#### [Transparency requirements](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=0)** - [Presenter] The Dalai Lama once said, "A lack of transparency results in distrust and a deep sense of insecurity."
 >
-> **[0:07](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=7)** Although those words were likely directed at political figures in the name of liberation, they ring true in the world of artificial intelligence as well.
+> **[0:07](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=7)** Although those words were likely directed at political figures in the name of liberation, they ring true in the world of [[Artificial Intelligence (AI)|artificial intelligence]] as well.
 >
 > **[0:14](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=14)** Transparency is a hot button issue at the moment for providers and users alike.
 >
@@ -825,11 +810,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=76)** The manual must include the contact details of the provider, the characteristics, capabilities, limitations of the system, the intended purpose of the AI, the anticipated level of accuracy, the circumstances that would cause it to provide a harmful output, the explainability metrics embedded in the system, and where applicable the specifications of the input data used to train the AI system.
 >
-> **[1:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=100)** Article 13 also mandates that transparency documentation include considerations for hardware requirements and logging mechanisms.
+> **[1:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=100)** Article 13 also mandates that transparency documentation include considerations for [[Hardware]] requirements and logging mechanisms.
 >
 > **[1:48](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=108)** Article 50 is similar and defines transparency obligations for providers and users of AI systems and general purpose AI models.
 >
-> **[1:57](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=117)** Remember that GP AI models include popular tools like Open AI's ChatGPT, and Google's Gemini.
+> **[1:57](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=117)** Remember that GP AI models include popular tools like Open AI's [[ChatGPT]], and [[Google]]'s [[Gemini]].
 >
 > **[2:04](https://www.linkedin.com/learning/navigating-the-eu-ai-act/transparency-requirements?u=76281980&t=124)** No surprise, the first two paragraphs of the article mandate that providers of high risk AI systems ensure that their human consumers are made appropriately aware that they're interacting with AI.
 >
@@ -849,13 +834,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Hardware]] (1), [[ChatGPT]] (1), [[Google]] (1), [[Gemini]] (1)
 > **Env Vars:** sdlc (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Human oversight
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980)
+#### [Human oversight](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,7 +859,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980&t=33)** This concept refers to AI that allows for an appropriate level of human oversight.
 >
-> **[0:38](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980&t=38)** That oversight can be critical to embedding accountability, safety, and ethical decision making into AI tools and programs.
+> **[0:38](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980&t=38)** That oversight can be critical to embedding [[Accountability]], safety, and ethical decision making into AI tools and programs.
 >
 > **[0:45](https://www.linkedin.com/learning/navigating-the-eu-ai-act/human-oversight?u=76281980&t=45)** First, providers must design and develop AI systems with an interface that a natural person can use to oversee operations appropriately.
 >
@@ -907,33 +891,32 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), hit (2), [[Accountability]] (1), product (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **UI Navigation:** open the (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Accuracy, robustness, and cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980)
+#### [Accuracy, robustness, and cybersecurity](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=0)** - [Instructor] Article 15 of the European Union's Artificial Intelligence Act defines rules that providers of high risk systems must follow to maintain appropriate accuracy, robustness and cybersecurity.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=0)** - [Instructor] Article 15 of the European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act defines rules that providers of high risk systems must follow to maintain appropriate accuracy, robustness and [[Cybersecurity]].
 >
 > **[0:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=12)** Let's define these terms.
 >
 > **[0:14](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=14)** Accuracy describes an AI system's ability to consistently provide correct answers.
 >
-> **[0:19](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=19)** Robustness refers to a system's resiliency regarding errors, faults, or inconsistencies that may arise in its environment and cybersecurity is the system's ability to protect itself against unauthorized use or extraction of sensitive data.
+> **[0:19](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=19)** Robustness refers to a system's [[Resiliency]] regarding errors, faults, or inconsistencies that may arise in its environment and cybersecurity is the system's ability to protect itself against unauthorized use or extraction of sensitive data.
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=36)** Providers should consider these principles throughout the design and development process.
 >
 > **[0:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=40)** Their ability to fulfill these principles will be tracked through well-defined metrics.
 >
-> **[0:45](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=45)** As the provider, you should share those metrics with the deployers as part of the distribution of technical documentation.
+> **[0:45](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=45)** As the provider, you should share those metrics with the deployers as part of the distribution of [[Technical Documentation]].
 >
 > **[0:51](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=51)** The European Commission mentions the AI Act that it plans to support the development of benchmarks and measurement methodologies, in cooperation with relevant benchmarking authorities.
 >
-> **[1:01](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=61)** If you want to get a headstart, the National Institute of Standards and Technology, NIST, Trustworthy and Responsible AI Resource Center has already published a series of methods and metrics that you can use to measure the performance and strength of your AI systems.
+> **[1:01](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=61)** If you want to get a headstart, the National Institute of Standards and Technology, [[NIST]], Trustworthy and [[Responsible AI]] Resource Center has already published a series of methods and metrics that you can use to measure the performance and strength of your AI systems.
 >
 > **[1:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/accuracy-robustness-and-cybersecurity?u=76281980&t=77)** I would like to highlight several specific scenarios regarding accuracy, robustness and cybersecurity that the AI Act includes.
 >
@@ -967,7 +950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Cybersecurity]] (6), data (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Resiliency]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Resiliency]] (1), [[Technical Documentation]] (1), [[NIST]] (1)
 > **Env Vars:** nist (1)
 > **Definitions:** refers to (1)
 > **Warnings:** be aware (1)
@@ -978,22 +961,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### High-risk AI system provider obligations
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980)
+#### [High-risk AI system provider obligations](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=0)** - [Presenter] Article 16 of the European Union's Artificial Intelligence Act defines obligations for providers of high-risk AI systems.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=0)** - [Presenter] Article 16 of the European Union's [[Artificial Intelligence (AI)|Artificial Intelligence]] Act defines obligations for providers of high-risk AI systems.
 >
 > **[0:08](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=8)** These obligations help ensure that those responsible for designing and developing AI tools and programs, are doing everything they can to protect the health and safety of European consumers.
 >
 > **[0:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=18)** The first obligation mandates that all high-risk AI systems comply with Section Two's requirements.
 >
-> **[0:25](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=25)** Section two defines requirements for demonstrating the safety of AI systems through the establishment of risk management systems, data governance, and technical documentation.
+> **[0:25](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=25)** Section two defines requirements for demonstrating the safety of AI systems through the establishment of risk management systems, [[Data Governance]], and [[Technical Documentation]].
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=36)** Next, on the packaging or technical documentation for the high-risk system, the provider must clearly display their name, registered trademark, and address where they can be contacted.
 >
-> **[0:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=47)** This helps drive accountability and traceability.
+> **[0:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=47)** This helps drive [[Accountability]] and traceability.
 >
 > **[0:50](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-provider-obligations?u=76281980&t=50)** Article 16 calls for the establishment of several compliance activities, to help ensure that providers continue to address consumer safety on an ongoing basis.
 >
@@ -1013,13 +995,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), management (3), [[Technical Documentation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Data Governance]] (1), [[Accountability]] (1)
 > **Warnings:** be aware (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [presenter] (1)
 
-#### Quality management systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980)
+#### [Quality management systems](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1033,17 +1014,17 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=28)** Ultimately, the form of your QMS is dependent on the size of your organization and the industry or customers that you serve.
 >
-> **[0:35](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=35)** At a high level, an appropriate QMS should include a strategy for regulatory compliance, which includes considerations for completing conformity assessments and procedures for managing changes to high-risk AI systems.
+> **[0:35](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=35)** At a high level, an appropriate QMS should include a strategy for [[Regulatory Compliance]], which includes considerations for completing conformity assessments and procedures for managing changes to high-risk AI systems.
 >
-> **[0:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=47)** Techniques and mechanisms need to be defined to control the design and verification of AI systems and the development of quality assurance activities.
+> **[0:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=47)** Techniques and mechanisms need to be defined to control the design and verification of AI systems and the development of [[Quality Assurance]] activities.
 >
 > **[0:56](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=56)** After high-risk AI systems are designed and developed, the quality management system should enforce examination and test procedures with well-defined quality criteria and benchmarking.
 >
-> **[1:07](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=67)** The quality management system should assist the provider with producing an appropriate level of technical documentation.
+> **[1:07](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=67)** The quality management system should assist the provider with producing an appropriate level of [[Technical Documentation]].
 >
 > **[1:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=73)** It should also highlight the standards that should be applied to the system, including those defined in other EU regulations.
 >
-> **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=80)** Finally, the system should define procedures for effective handling of communication with national authorities, recordkeeping, resource management, and maintenance of an accountability framework that defines responsibilities for management and other staff.
+> **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=80)** Finally, the system should define procedures for effective handling of communication with national authorities, recordkeeping, resource management, and maintenance of an [[Accountability]] framework that defines responsibilities for management and other staff.
 >
 > **[1:34](https://www.linkedin.com/learning/navigating-the-eu-ai-act/quality-management-systems?u=76281980&t=94)** After completing this course, talk with your organization and determine if you're already subject to quality management system requirements.
 >
@@ -1051,16 +1032,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), ai (5), [[Regulatory Compliance]] (1), [[Quality Assurance]] (1), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Regulatory Compliance]] (1), [[Quality Assurance]] (1), [[Technical Documentation]] (1), [[Accountability]] (1)
 > **Env Vars:** qms (3), iso (2), mdr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importer and distributor obligations
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980)
+#### [Importer and distributor obligations](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=0)** - [Instructor] Often, the companies responsible for designing and developing the latest and greatest applications, tools, and devices do not handle the delivery of those products to customers.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=0)** - [Instructor] Often, the companies responsible for designing and developing the latest and greatest applications, tools, and devices do not handle the delivery of those [[Microsoft Products|products]] to customers.
 >
 > **[0:10](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=10)** They rely on a network of partners to help package, handle, and deliver those products to consumers, especially when the organization is serving a global market.
 >
@@ -1078,7 +1058,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=58)** Importers and distributors must ensure that high-risk AI systems abide by the AI Act.
 >
-> **[1:04](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=64)** They can do this by confirming that the provider has completed a conformity assessment for the product being imported or distributed, validating that an appropriate level of technical documentation has been created, and ensuring that CE markings have been affixed to the product.
+> **[1:04](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=64)** They can do this by confirming that the provider has completed a conformity assessment for the product being imported or distributed, validating that an appropriate level of [[Technical Documentation]] has been created, and ensuring that CE markings have been affixed to the product.
 >
 > **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/importer-and-distributor-obligations?u=76281980&t=80)** The importer or distributor should also know and be familiar with the authorized representative.
 >
@@ -1100,12 +1080,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), [[Microsoft Products|Products]] (4), product (3), business (2), [[Technical Documentation]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Technical Documentation]] (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### High-risk AI system deployer obligations
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-deployer-obligations?u=76281980)
+#### [High-risk AI system deployer obligations](https://www.linkedin.com/learning/navigating-the-eu-ai-act/high-risk-ai-system-deployer-obligations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,7 +1134,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (3), next (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Warnings:** warning (1)
@@ -1167,20 +1145,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Define the notifying authority and bodies
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980)
+#### [Define the notifying authority and bodies](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=0)** - [Instructor] The United States government sets strict requirements for pharmaceutical drugs and dietary supplements.
 >
-> **[0:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=6)** Before a company can sell those types of products, it needs to get a stamp of approval from an informed third party.
+> **[0:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=6)** Before a company can sell those types of [[Microsoft Products|products]], it needs to get a stamp of approval from an informed third party.
 >
 > **[0:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=12)** There are way too many products for the government to track, so they rely on organizations like the FDA to assist with this process.
 >
 > **[0:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=20)** Companies submit research and peer reviewed assessments to the FDA in hopes that they deem the product safe for consumption by the American public.
 >
-> **[0:28](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=28)** The European Union Artificial Intelligence Act defines a similar set of requirements for EU member states.
+> **[0:28](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=28)** The European Union [[Artificial Intelligence (AI)|Artificial Intelligence]] Act defines a similar set of requirements for EU member states.
 >
 > **[0:34](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=34)** Articles 28 through 39 of the AI Act outline the establishment and usage of organizations that will be used to determine if high risk AI systems are safe for the EU public.
 >
@@ -1194,7 +1171,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=73)** Notified bodies are nongovernmental organizations or companies with AI and legal experts designated by the notifying authorities to conduct detailed audits of conformity assessments.
 >
-> **[1:24](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=84)** Similar to the FDA, these groups are responsible for reviewing the provider's technical documentation to determine whether they adhere to a level of safety and compliance deemed appropriate by the notifying authority.
+> **[1:24](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=84)** Similar to the FDA, these groups are responsible for reviewing the provider's [[Technical Documentation]] to determine whether they adhere to a level of safety and compliance deemed appropriate by the notifying authority.
 >
 > **[1:36](https://www.linkedin.com/learning/navigating-the-eu-ai-act/define-the-notifying-authority-and-bodies?u=76281980&t=96)** There may be multiple approved notifying bodies within a member state.
 >
@@ -1212,14 +1189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), [[Microsoft Products|Products]] (2), product (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Technical Documentation]] (1)
 > **Env Vars:** fda (3)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Notification procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980)
+#### [Notification procedures](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1233,7 +1209,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980&t=25)** However, there are a couple of general rules that apply in every scenario.
 >
-> **[0:30](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980&t=30)** Providers of high-risk AI systems are not just required to supply the notified body with technical documentation.
+> **[0:30](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980&t=30)** Providers of high-risk AI systems are not just required to supply the notified body with [[Technical Documentation]].
 >
 > **[0:36](https://www.linkedin.com/learning/navigating-the-eu-ai-act/notification-procedures?u=76281980&t=36)** It's more than a one-time task.
 >
@@ -1279,7 +1255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (3), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** means that (1)
 > **Warnings:** be aware (1)
@@ -1290,8 +1266,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conformity assessment procedures
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980)
+#### [Conformity assessment procedures](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,7 +1288,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980&t=58)** If you choose this approach, you must inform your notifying body and submit the necessary documentation for review.
 >
-> **[1:04](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980&t=64)** The documentation that providers must submit includes evidence of establishing a quality management system, creating and maintaining technical documentation, articulating the appropriateness of the design and development process, and validating the post-market monitoring requirements.
+> **[1:04](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980&t=64)** The documentation that providers must submit includes evidence of establishing a quality management system, creating and maintaining [[Technical Documentation]], articulating the appropriateness of the design and development process, and validating the post-market monitoring requirements.
 >
 > **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/conformity-assessment-procedures?u=76281980&t=80)** Once the notifying body feels that the provider has completed all of these requirements at a satisfactory level, they're ready to issue a certificate, providing a clear and comprehensive path to certification.
 >
@@ -1339,15 +1314,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), management (1), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1)
 > **Documentation:** the documentation (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Declaration of conformity and CE marking
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980)
+#### [Declaration of conformity and CE marking](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1371,7 +1345,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980&t=77)** This marking, which stands for European compliance, indicates that a product meets health, safety, and environmental requirements.
 >
-> **[1:26](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980&t=86)** If the symbol cannot be affixed physically because it is fully digital, it must be present within the technical documentation or on the packaging.
+> **[1:26](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980&t=86)** If the symbol cannot be affixed physically because it is fully digital, it must be present within the [[Technical Documentation]] or on the packaging.
 >
 > **[1:35](https://www.linkedin.com/learning/navigating-the-eu-ai-act/declaration-of-conformity-and-ce-marking?u=76281980&t=95)** As an additional validation step, the provider must include the identification number of the notifying body after every CE marking under all circumstances.
 >
@@ -1387,18 +1361,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), ai (3), [[Technical Documentation]] (2), business (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (2)
 > **Definitions:** stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI system registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980)
+#### [AI system registration](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=0)** - [Instructor] If you get to the point where you're ready to register your high risk AI systems, congratulations, you've done it.
 >
-> **[0:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=6)** You've designed and developed your system, established data governance mechanisms, written technical documentation, created a quality management system, completed the conformity assessment process with the notified body, and affixed your CE marking.
+> **[0:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=6)** You've designed and developed your system, established [[Data Governance]] mechanisms, written [[Technical Documentation]], created a quality management system, completed the conformity assessment process with the notified body, and affixed your CE marking.
 >
 > **[0:21](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=21)** You're ready to put your product in the hands of the consumer.
 >
@@ -1426,7 +1399,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=113)** Second, high risk AI systems develop to support law enforcement, migration, asylum, and border control management will be registered in a non-public section of the EU database.
 >
-> **[2:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=125)** In contrast to the rest of the database, the registration information for these systems will be hidden from public view.
+> **[2:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=125)** In contrast to the [[Representational State Transfer (REST)|rest]] of the database, the registration information for these systems will be hidden from public view.
 >
 > **[2:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-system-registration?u=76281980&t=132)** Once registration is complete, your job isn't over.
 >
@@ -1436,7 +1409,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), database (6), management (2), data (1), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Data Governance]] (1), [[Technical Documentation]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1445,8 +1418,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI regulatory sandboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980)
+#### [AI regulatory sandboxes](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1468,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980&t=98)** The European Commission would like to see the eventual flow of lessons learned across member state borders.
 >
-> **[1:45](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980&t=105)** This includes sending valuable insights to the AI office and the European AI Board.
+> **[1:45](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980&t=105)** This includes sending valuable insights to the AI [[Microsoft Office|office]] and the European AI Board.
 >
 > **[1:51](https://www.linkedin.com/learning/navigating-the-eu-ai-act/ai-regulatory-sandboxes?u=76281980&t=111)** The AI Act states that member states have 24 months, two years, to launch their sandbox, which must have staff capable of operating, maintaining, and reporting on the environment.
 >
@@ -1484,13 +1456,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (2), [[Microsoft Office|Office]] (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### The AI Office and European Artificial Intelligence Board
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980)
+#### [The AI Office and European Artificial Intelligence Board](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1500,7 +1471,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=9)** They can promote cross-collaboration with other teams or vendors, keep track of deadlines, and highlight important dependencies and assumptions.
 >
-> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=17)** Implementing compliance with the AI Act will be one big project at the end of the day, and to keep the project on track, the AI Act established both the AI Office and the European Artificial Intelligence Board.
+> **[0:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=17)** Implementing compliance with the AI Act will be one big project at the end of the day, and to keep the project on track, the AI Act established both the AI [[Microsoft Office|Office]] and the European [[Artificial Intelligence (AI)|Artificial Intelligence]] Board.
 >
 > **[0:30](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=30)** Both are expected to actively collaborate to establish best practices for safe AI development, identifying emerging risk, and promoting public awareness and understanding of AI.
 >
@@ -1528,22 +1499,21 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=143)** Although they're fundamentally different in composition and task, the end goal remains the same: to promote compliance with the AI Act across all EU member states.
 >
-> **[2:33](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=153)** As a provider or user of AI systems, I encourage you to find out who the members of these groups are, follow them on LinkedIn, and keep a lookout for helpful posts about best practices and changing requirements.
+> **[2:33](https://www.linkedin.com/learning/navigating-the-eu-ai-act/the-ai-office-and-european-artificial-intelligence-board?u=76281980&t=153)** As a provider or user of AI systems, I encourage you to find out who the members of these groups are, follow them on [[LinkedIn]], and keep a lookout for helpful posts about best practices and changing requirements.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), [[Microsoft Office|Office]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), product (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Advisory forum and the scientific panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980)
+#### [Advisory forum and the scientific panel](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=0)** - [Instructor] The world of artificial intelligence and machine learning is only getting more complex.
+> **[0:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=0)** - [Instructor] The world of [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning is only getting more complex.
 >
-> **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=5)** Every day, we automate processes that used to be manual, and we are seeing large language models grow in size and ability.
+> **[0:05](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=5)** Every day, we automate processes that used to be manual, and we are seeing [[Large Language Models (LLM)|large language models]] grow in size and ability.
 >
 > **[0:12](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=12)** We are already at a point where this technology impacts critical infrastructure, legal proceedings, and other sensitive areas.
 >
@@ -1567,7 +1537,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=74)** They're responsible for meeting twice a year and releasing an annual report on their activities.
 >
-> **[1:19](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=79)** The European Union Agency for Cybersecurity, ENISA, and other EU agencies will be full-time members of the forum.
+> **[1:19](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=79)** The European Union Agency for [[Cybersecurity]], ENISA, and other EU agencies will be full-time members of the forum.
 >
 > **[1:28](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=88)** Although they need to release one report annually, the Commission does expect them to release opinions, recommendations, and contributions regularly.
 >
@@ -1577,7 +1547,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=115)** The exact number of experts and the terms they will serve have not been defined, but they must be independent of any AI system providers or general purpose AI models.
 >
-> **[2:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=126)** The panel is expected to have a close relationship with the AI Office, and they will be relied on to answer questions about risks, classification strategies, and evaluation criteria.
+> **[2:06](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=126)** The panel is expected to have a close relationship with the AI [[Microsoft Office|Office]], and they will be relied on to answer questions about risks, classification strategies, and evaluation criteria.
 >
 > **[2:18](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=138)** The AI Office will also depend on the panel to develop tools and templates, help with market surveillance, and support carrying out safeguard procedures.
 >
@@ -1585,11 +1555,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=160)** As a provider or deployer of AI systems in the EU, watch for press releases and other publications from these groups.
 >
-> **[2:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=167)** Their thought leadership will likely impact the enforcement strategy of the AI Act.
+> **[2:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/advisory-forum-and-the-scientific-panel?u=76281980&t=167)** Their [[Thought Leadership]] will likely impact the enforcement strategy of the AI Act.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Microsoft Office|Office]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Artificial Intelligence (AI)|Artificial intelligence]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Cybersecurity]] (1), [[Thought Leadership]] (1)
 > **Env Vars:** enisa (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -1599,8 +1569,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Post-market monitoring of AI systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980)
+#### [Post-market monitoring of AI systems](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1624,7 +1593,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980&t=77)** A post-market monitoring plan is also required.
 >
-> **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980&t=80)** Providers need to document their plan and include it within the technical documentation for the high-risk AI system.
+> **[1:20](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980&t=80)** Providers need to document their plan and include it within the [[Technical Documentation]] for the high-risk AI system.
 >
 > **[1:27](https://www.linkedin.com/learning/navigating-the-eu-ai-act/post-market-monitoring-of-ai-systems?u=76281980&t=87)** The AI Act states that the European Commission is still in the process of drafting detailed templates for these plans, which will include mandatory elements.
 >
@@ -1642,13 +1611,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (2), [[Technical Documentation]] (1)
+> **Frameworks & Libraries:** [[Technical Documentation]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Incident information sharing
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/incident-information-sharing?u=76281980)
+#### [Incident information sharing](https://www.linkedin.com/learning/navigating-the-eu-ai-act/incident-information-sharing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1692,12 +1660,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Remedies
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/remedies?u=76281980)
+#### [Remedies](https://www.linkedin.com/learning/navigating-the-eu-ai-act/remedies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1741,7 +1707,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Security]] (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Warnings:** be aware (2)
 > **CLI Commands:** make (1)
@@ -1749,8 +1714,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Penalties for noncompliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/penalties-for-non-compliance?u=76281980)
+#### [Penalties for noncompliance](https://www.linkedin.com/learning/navigating-the-eu-ai-act/penalties-for-non-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1800,7 +1764,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), next (1)
 > **Versions:** 7.5 (1), 1.5 (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -1810,8 +1773,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Additional references for AI Act compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980)
+#### [Additional references for AI Act compliance](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1833,13 +1795,13 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980&t=47)** They offer easy navigation throughout the text and helpful summaries for each article.
 >
-> **[0:53](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980&t=53)** Of course, if you're ever looking for someone to chat with about requirements, feel free to contact me directly on LinkedIn.
+> **[0:53](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980&t=53)** Of course, if you're ever looking for someone to chat with about requirements, feel free to contact me directly on [[LinkedIn]].
 >
 > **[1:00](https://www.linkedin.com/learning/navigating-the-eu-ai-act/additional-references-for-ai-act-compliance?u=76281980&t=60)** Thank you again for taking this course, and good luck on your AI Act compliance journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** pdf (2)
 > **Speakers:** - throughout (1)
 

@@ -86,14 +86,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get to know JavaScript maps and sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
+#### [Get to know JavaScript maps and sets](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980&t=0)** - [Jamie] One of the beautiful things about programming is how it is constantly evolving.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980&t=5)** JavaScript is no exception.
+> **[0:05](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980&t=5)** [[JavaScript]] is no exception.
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-maps-and-sets/get-to-know-javascript-maps-and-sets?u=76281980&t=7)** Over time, JavaScript has grown and many aspects have been added including maps and sets.
 >
@@ -105,15 +104,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (4), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **Speakers:** - [jamie] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-maps-and-sets/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/what-you-should-know?u=76281980&t=0)** - [Instructor] This course provides a beginner to intermediate level overview of JavaScript maps and sets.
+> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/what-you-should-know?u=76281980&t=0)** - [Instructor] This course provides a beginner to intermediate level overview of [[JavaScript]] maps and sets.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-maps-and-sets/what-you-should-know?u=76281980&t=6)** You absolutely do not need to be an expert or senior level developer, but this course does require a basic understanding of JavaScript.
 >
@@ -151,7 +149,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[JavaScript]] (4)
+> **Frameworks & Libraries:** [[JavaScript]] (4)
 > **CLI Commands:** node (5), make (1)
 > **Tools:** terminal (3), vs code (2)
 > **Prerequisites:** you'll need (2), install (1), set up (1)
@@ -165,12 +163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Map object defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
+#### [The Map object defined](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980&t=0)** - [Instructor] Maps are an object type that was fairly recently introduced into JavaScript with ES2015.
+> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980&t=0)** - [Instructor] Maps are an object type that was fairly recently introduced into [[JavaScript]] with ES2015.
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-maps-and-sets/the-map-object-defined?u=76281980&t=6)** Object and Map are very similar, but they also have some key differences.
 >
@@ -205,8 +202,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build your Map object with the set method
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/build-your-map-object-with-the-set-method?u=76281980)
+#### [Build your Map object with the set method](https://www.linkedin.com/learning/javascript-maps-and-sets/build-your-map-object-with-the-set-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -298,7 +294,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), node (1), next (1)
 > **CLI Commands:** make (2), node (1)
 > **Tools:** terminal (2), vs code (1)
 > **Prerequisites:** set up (2), you'll need (1)
@@ -306,9 +301,9 @@ created: 2026-05-02
 > **Code Identifiers:** mapobject (1)
 > **Exercise Files:** exercise file (1)
 > **Definitions:** is a  (1)
+> **Analogies:** for example (1)
 
-#### Access a value with get
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/access-a-value-with-get?u=76281980)
+#### [Access a value with get](https://www.linkedin.com/learning/javascript-maps-and-sets/access-a-value-with-get?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -402,15 +397,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Ports:** :00 (2)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Does the map have your key?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/does-the-map-have-your-key?u=76281980)
+#### [Does the map have your key?](https://www.linkedin.com/learning/javascript-maps-and-sets/does-the-map-have-your-key?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,12 +479,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Determine map size
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980)
+#### [Determine map size](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +516,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980&t=91)** So hopefully this is something that you've learned before.
 >
-> **[1:33](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980&t=93)** If not, it's a fun little trick template literals that you can use and will use all over the place in JavaScript.
+> **[1:33](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980&t=93)** If not, it's a fun little trick template literals that you can use and will use all over the place in [[JavaScript]].
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-maps-and-sets/determine-map-size?u=76281980&t=100)** And we'll say my map contains and we'll get our size, which is a number.
 >
@@ -543,8 +534,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Remove key-value pairs with clear and delete
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/remove-key-value-pairs-with-clear-and-delete?u=76281980)
+#### [Remove key-value pairs with clear and delete](https://www.linkedin.com/learning/javascript-maps-and-sets/remove-key-value-pairs-with-clear-and-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -614,18 +604,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Cross-References:** in the next (1), we talked about (1), in the last (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map: Keys and values methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980)
+#### [Map: Keys and values methods](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980&t=0)** - [Instructor] Before we discuss our next two methods, keys and values, we're going to quickly review what an iterator is and how it relates to our Map.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980&t=9)** In JavaScript, we iterate over collections frequently using array methods like Map or for each.
+> **[0:09](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980&t=9)** In [[JavaScript]], we iterate over collections frequently using array methods like Map or for each.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-maps-and-sets/map-keys-and-values-methods?u=76281980&t=17)** An iterator is defined by the MDN documentation as an object which defines a sequence, and potentially returns a value upon its termination.
 >
@@ -709,14 +697,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (10), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** mdn (1)
 > **Documentation:** mdn (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Map contents with the entries method
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/map-contents-with-the-entries-method?u=76281980)
+#### [Map contents with the entries method](https://www.linkedin.com/learning/javascript-maps-and-sets/map-contents-with-the-entries-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,19 +751,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5)
 > **Code Identifiers:** saturdayentries (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Loop over a map with forEach
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980)
+#### [Loop over a map with forEach](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980&t=0)** - [Instructor] The last method that we will discuss is ForEach.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980&t=3)** This method should look pretty familiar to you as it is also a JavaScript array method and it operates in the same manner.
+> **[0:03](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980&t=3)** This method should look pretty familiar to you as it is also a [[JavaScript]] array method and it operates in the same manner.
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-maps-and-sets/loop-over-a-map-with-foreach?u=76281980&t=12)** The ForEach method executes a function for each key value pair in the map.
 >
@@ -837,14 +822,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group entries with groupBy
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980)
+#### [Group entries with groupBy](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980&t=0)** - [Instructor] The groupBy method is a static map method that organizes elements of an iterable into groups based on values returned by a specific callback function.
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980&t=12)** This is a really great enhancement for the map object and those of you that have been around JavaScript for a bit, you've probably seen something similar in libraries like Lodash and the Object Constructor also now utilizes groupBy as well.
+> **[0:12](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980&t=12)** This is a really great enhancement for the map object and those of you that have been around [[JavaScript]] for a bit, you've probably seen something similar in libraries like Lodash and the Object Constructor also now utilizes groupBy as well.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-maps-and-sets/group-entries-with-groupby?u=76281980&t=29)** So it's a really wonderful and powerful method that can help you organize your data the way that you need it.
 >
@@ -888,14 +872,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (1), data (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** groupby (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Maps 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-1?u=76281980)
+#### [Solution: Maps 1](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -946,8 +929,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Maps 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980)
+#### [Solution: Maps 2](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -969,7 +951,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980&t=36)** And the key that we're looking for is Brandon.
 >
-> **[0:40](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980&t=40)** I'll mention this in several different videos and lessons, but when it comes to strings in JavaScript, it's really important that the case matches.
+> **[0:40](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980&t=40)** I'll mention this in several different videos and lessons, but when it comes to strings in [[JavaScript]], it's really important that the case matches.
 >
 > **[0:51](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-maps-2?u=76281980&t=51)** So it's going to be looking for an exact match for Brandon.
 >
@@ -987,7 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** allusers (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** set up (1)
@@ -999,8 +981,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the WeakMap object?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
+#### [What is the WeakMap object?](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +993,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980&t=19)** As far as what you need to know for this course, garbage collection is a way of freeing up memory that has been allocated to objects that are no longer in use.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980&t=28)** The process of garbage collection is performed automatically in JavaScript.
+> **[0:28](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980&t=28)** The process of garbage collection is performed automatically in [[JavaScript]].
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakmap-object?u=76281980&t=33)** Now let's explore what sets WeakMap apart from Map.
 >
@@ -1038,14 +1019,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Same methods, different map
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/same-methods-different-map?u=76281980)
+#### [Same methods, different map](https://www.linkedin.com/learning/javascript-maps-and-sets/same-methods-different-map?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1083,7 +1063,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -1093,8 +1072,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Set object defined
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
+#### [The Set object defined](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1102,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980&t=7)** The key feature of Set is that it is a collection of unique values, meaning you can not have duplicates of values in the set and those values can be anything.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980&t=18)** Sets can be a really powerful tool in your JavaScript programming.
+> **[0:18](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980&t=18)** Sets can be a really powerful tool in your [[JavaScript]] programming.
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-maps-and-sets/the-set-object-defined?u=76281980&t=22)** I'm sure you can think of some everyday examples where limiting a collection to unique values would be really helpful.
 >
@@ -1120,14 +1098,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), [[JavaScript]] (1), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Env Vars:** es6 (1), es2015 (1)
 > **Definitions:** known as (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add values to your set
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980)
+#### [Add values to your set](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1155,9 +1132,9 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=59)** We take each of the emails we've been provided and add them to our set.
 >
-> **[1:04](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=64)** If we were to log it out, we would see the word set displayed with the size and the set that we created.
+> **[1:04](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=64)** If we were to log it out, we would see the [[Microsoft Word|word]] set displayed with the size and the set that we created.
 >
-> **[1:10](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=70)** Remember, sets do not allow for duplicate values, so even though we have added john@[mail.com](https://mail.com) twice, we will only have it appear in our set once.
+> **[1:10](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=70)** Remember, sets do not allow for duplicate values, so even though we have added [[John the Ripper|john]]@[mail.com](https://mail.com) twice, we will only have it appear in our set once.
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=80)** Let's head over to our code and try a new example together.
 >
@@ -1177,7 +1154,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=130)** So this saves us a little bit of typing.
 >
-> **[2:12](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=132)** So we have chocolate, vanilla, coffee.
+> **[2:12](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=132)** So we have chocolate, [[Vanilla]], coffee.
 >
 > **[2:15](https://www.linkedin.com/learning/javascript-maps-and-sets/add-values-to-your-set?u=76281980&t=135)** We have another request for coffee, and then strawberry, and then one final request for vanilla again.
 >
@@ -1191,14 +1168,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (6), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (6), [[Microsoft Word|Word]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Does Set have your value?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/does-set-have-your-value?u=76281980)
+#### [Does Set have your value?](https://www.linkedin.com/learning/javascript-maps-and-sets/does-set-have-your-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1258,13 +1234,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Code Identifiers:** hascoffee (2), hasmintchocchip (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Get your set size
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/get-your-set-size?u=76281980)
+#### [Get your set size](https://www.linkedin.com/learning/javascript-maps-and-sets/get-your-set-size?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1313,8 +1287,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Delete and clear values in your set
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980)
+#### [Delete and clear values in your set](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1352,7 +1325,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980&t=77)** Now let's take our delete and clear knowledge to our editors and try another example together.
 >
-> **[1:23](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980&t=83)** Here, we have our ongoing ice cream flavor set, and the first thing that we want to do is delete vanilla from the set.
+> **[1:23](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980&t=83)** Here, we have our ongoing ice cream flavor set, and the first thing that we want to do is delete [[Vanilla]] from the set.
 >
 > **[1:29](https://www.linkedin.com/learning/javascript-maps-and-sets/delete-and-clear-values-in-your-set?u=76281980&t=89)** We will take our ice cream set and apply to delete, passing in vanilla.
 >
@@ -1380,14 +1353,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Vanilla]] (5), next (1)
+> **Frameworks & Libraries:** [[Vanilla]] (5)
 > **CLI Commands:** make (1)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterate over values in a set
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980)
+#### [Iterate over values in a set](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1415,7 +1387,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=74)** Then to obtain our first value, we will take our new variable, invite values, and apply the next method and value property.
 >
-> **[1:22](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=82)** This will return john@[mail.com](https://mail.com).
+> **[1:22](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=82)** This will return [[John the Ripper|john]]@[mail.com](https://mail.com).
 >
 > **[1:25](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=85)** Let's head over to our editor and try another example together.
 >
@@ -1453,18 +1425,17 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=157)** And then we'll log it down here.
 >
-> **[2:40](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=160)** And we see that the second value in my set is vanilla.
+> **[2:40](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-values-in-a-set?u=76281980&t=160)** And we see that the second value in my set is [[Vanilla]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Vanilla]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1), [[Vanilla]] (1)
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterate over a set with entries
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980)
+#### [Iterate over a set with entries](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1461,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980&t=57)** Then if we want to determine the first set of entries, we apply the next method and get the value.
 >
-> **[1:03](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980&t=63)** The value that will be returned is an array with john@[mail.com](https://mail.com) twice.
+> **[1:03](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980&t=63)** The value that will be returned is an array with [[John the Ripper|john]]@[mail.com](https://mail.com) twice.
 >
 > **[1:08](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-a-set-with-entries?u=76281980&t=68)** Let's head to the code and try this on our own.
 >
@@ -1512,7 +1483,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), api (2)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **Env Vars:** api (2)
 > **Definitions:** is an  (2)
 > **Analogies:** similar to (1), just like (1)
@@ -1520,8 +1491,7 @@ created: 2026-05-02
 > **URLs:** [mail.com](https://mail.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iterate over your set with forEach
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980)
+#### [Iterate over your set with forEach](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,13 +1517,13 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=50)** And if the value starts with the letter J, we're going to log it out.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=54)** Starts with is a JavaScript string method that comes in handy in this particular example.
+> **[0:54](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=54)** Starts with is a [[JavaScript]] string method that comes in handy in this particular example.
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=59)** Now let's head to our code and try some exercises together.
 >
 > **[1:04](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=64)** For this exercise, we're going to loop through our ice cream set.
 >
-> **[1:08](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=68)** And if the value does not equal vanilla, then we're going to log it out in the console.
+> **[1:08](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=68)** And if the value does not equal [[Vanilla]], then we're going to log it out in the console.
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-maps-and-sets/iterate-over-your-set-with-foreach?u=76281980&t=73)** We'll start by taking our ice cream set and applying the ForEach method.
 >
@@ -1592,8 +1562,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Sets 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-sets-1?u=76281980)
+#### [Solution: Sets 1](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-sets-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1646,8 +1615,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sets 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-sets-2?u=76281980)
+#### [Solution: Sets 2](https://www.linkedin.com/learning/javascript-maps-and-sets/solution-sets-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1710,8 +1678,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the WeakSet object?
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
+#### [What is the WeakSet object?](https://www.linkedin.com/learning/javascript-maps-and-sets/what-is-the-weakset-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,8 +1715,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Same methods, different set
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/same-methods-different-set?u=76281980)
+#### [Same methods, different set](https://www.linkedin.com/learning/javascript-maps-and-sets/same-methods-different-set?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1785,7 +1751,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -1793,12 +1758,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=0)** - [Jamie] Thank you so much for joining me for this course on JavaScript: Maps and Sets.
+> **[0:00](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=0)** - [Jamie] Thank you so much for joining me for this course on [[JavaScript]]: Maps and Sets.
 >
 > **[0:05](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=5)** I hope that you've reinforced your understanding of maps and sets and how you can incorporate them into your code more often.
 >
@@ -1810,7 +1774,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=21)** If you're working as a developer or software engineer on the job, see if there are ways that you can incorporate maps and sets into your current projects.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=30)** Check out other LinkedIn Learning courses on JavaScript, as well as JavaScript frameworks like Angular, React and View.
+> **[0:30](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=30)** Check out other [[LinkedIn]] Learning courses on JavaScript, as well as JavaScript frameworks like [[Angular]], [[React.js|React]] and View.
 >
 > **[0:38](https://www.linkedin.com/learning/javascript-maps-and-sets/next-steps?u=76281980&t=38)** I hope that you found this course to be valuable.
 >

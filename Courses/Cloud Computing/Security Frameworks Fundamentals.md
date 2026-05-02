@@ -84,8 +84,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
+#### [Security frameworks](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,7 +94,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980&t=10)** Security framework provides security practitioners and just as importantly, their business partners with a common language and set of practices they can follow together and compare to peer organizations consistently.
 >
-> **[0:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980&t=23)** Join me in my LinkedIn Learning course, where I'll review major frameworks referenced and used by security practitioners.
+> **[0:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980&t=23)** Join me in my [[LinkedIn]] Learning course, where I'll review major frameworks referenced and used by security practitioners.
 >
 > **[0:31](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-frameworks?u=76281980&t=31)** We'll dig into the top four security frameworks, what is included within them, and how they map to one another.
 >
@@ -107,12 +106,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - security (1)
 
-#### Who uses security frameworks?
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/who-uses-security-frameworks?u=76281980)
+#### [Who uses security frameworks?](https://www.linkedin.com/learning/security-frameworks-fundamentals/who-uses-security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -140,11 +138,9 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), data (3), product (1)
 > **Speakers:** - [narrator] (1)
 
-#### Why are security frameworks important?
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980)
+#### [Why are security frameworks important?](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -184,7 +180,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980&t=109)** There are a variety of reasons why organizations choose to implement security frameworks.
 >
-> **[1:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980&t=115)** Some of the top drivers include legal compliance or public safety.
+> **[1:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980&t=115)** Some of the top drivers include [[Legal Compliance]] or public safety.
 >
 > **[1:59](https://www.linkedin.com/learning/security-frameworks-fundamentals/why-are-security-frameworks-important?u=76281980&t=119)** Many companies think about their reputation and financial security in case of a security breach, and some companies think about how security can be a differentiator for them by providing confidence to their consumers that their data is secure.
 >
@@ -214,14 +210,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), data (5), business (1), management (1), [[Legal Compliance]] (1)
+> **Frameworks & Libraries:** [[Legal Compliance]] (1)
 > **Versions:** 4.5 (1)
 > **Analogies:** it's like (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Definitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980)
+#### [Definitions](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -253,7 +248,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980&t=62)** It is a nonprofit organization that was formed with the mission of making the connected world a safer place, leveraging industry experts and collaboration to build protections against security threats.
 >
-> **[1:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980&t=77)** NIST or the National Institute of Standards, and Technology is a physical sciences laboratory, spanning science, technology, engineering, and information technology.
+> **[1:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980&t=77)** [[NIST]] or the National Institute of Standards, and Technology is a physical sciences laboratory, spanning science, technology, engineering, and information technology.
 >
 > **[1:30](https://www.linkedin.com/learning/security-frameworks-fundamentals/definitions?u=76281980&t=90)** Their mission is to supply reference materials to end users, which can be used as calibration standards and quality control.
 >
@@ -275,7 +270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (1), [[Engineering]] (1), management (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **Definitions:** is a  (4), is an  (3), stands for (1), known as (1)
 > **Env Vars:** pci (1), cis (1), nist (1), iso (1), sig (1)
 > **Analogies:** such as (1)
@@ -287,8 +282,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Major security frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
+#### [Major security frameworks](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=25)** While we aren't going to cover all of them, that would take a really long time, we will certainly touch on many.
 >
-> **[0:34](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=34)** In a recent industry survey, there were four clear leaders in terms of the most highly adopted security frameworks: PCI, the CIS security controls, ISO 27001, and the NIST 800-53 framework.
+> **[0:34](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=34)** In a recent industry survey, there were four clear leaders in terms of the most highly adopted security frameworks: PCI, the CIS security controls, ISO 27001, and the [[NIST]] 800-53 framework.
 >
 > **[0:50](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=50)** PCI is an industry-specific framework required for anyone accepting payment cards.
 >
@@ -314,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=66)** It covers security controls by grouping them into 18 critical factors to consider, using business-friendly terms.
 >
-> **[1:15](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=75)** ISO 27001, on the other hand, is a globally recognized organization with a comprehensive framework that covers all of the security controls found within an information security management system.
+> **[1:15](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=75)** ISO 27001, on the other hand, is a globally recognized organization with a comprehensive framework that covers all of the security controls found within an [[Information Security Management]] system.
 >
 > **[1:29](https://www.linkedin.com/learning/security-frameworks-fundamentals/major-security-frameworks?u=76281980&t=89)** Finally, there's NIST 800-53, a comprehensive set of controls, as you can see.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), business (4), [[NIST]] (2), [[Information Security Management]] (1), functional (1)
+> **Frameworks & Libraries:** [[NIST]] (2), [[Information Security Management]] (1)
 > **Env Vars:** pci (2), cis (2), iso (2), nist (2)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (1)
@@ -366,8 +360,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - there (1)
 
-#### Domain-specific frameworks and guidance
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980)
+#### [Domain-specific frameworks and guidance](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -375,9 +368,9 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=9)** Let's talk about four of the most common ones that can help many organizations.
 >
-> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=14)** First, there is OWASP.
+> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=14)** First, there is [[OWASP]].
 >
-> **[0:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=17)** OWASP stands for the Open Web Application Security Project.
+> **[0:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=17)** OWASP stands for the Open [[Web Application Security]] Project.
 >
 > **[0:22](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=22)** It is a nonprofit foundation that works to improve software security.
 >
@@ -391,7 +384,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=50)** I know I feel better knowing someone is trying to protect all the places I visit on the internet.
 >
-> **[0:57](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=57)** Second, the Cloud Security Alliance is a nonprofit organization committed to providing best practices within cloud computing.
+> **[0:57](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=57)** Second, the [[Cloud Security]] Alliance is a nonprofit organization committed to providing best practices within [[Cloud Computing]].
 >
 > **[1:06](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=66)** They have created a framework called the Cloud Controls Matrix, which has over 197 controls, across 17 domains, all specific to cloud technology.
 >
@@ -403,7 +396,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=107)** They are highly interconnected, and if bad people gain control of them, they can be used to do significant harm across the large network.
 >
-> **[1:56](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=116)** To prevent that from happening, NIST published a special publication, 800-82, which expressly addresses ICS security controls as they often differ for more common types of assets, like a data center server or a virtual machine.
+> **[1:56](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=116)** To prevent that from happening, [[NIST]] published a special publication, 800-82, which expressly addresses ICS security controls as they often differ for more common types of assets, like a data center server or a virtual machine.
 >
 > **[2:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/domain-specific-frameworks-and-guidance?u=76281980&t=134)** CIS also created a companion guide for ICS systems, outlining how to apply their standard security controls to those systems specifically.
 >
@@ -425,13 +418,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), cloud (6), [[OWASP]] (3), data (2), web application (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Web Application Security]] (1), [[Cloud Security]] (1), [[Cloud Computing]] (1), [[NIST]] (1)
 > **Env Vars:** owasp (3), ics (3), nist (1), cis (1), mitre (1)
 > **Definitions:** is a  (2), stands for (1)
 > **Speakers:** - [instructor] (1)
 
-#### Maturity frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980)
+#### [Maturity frameworks](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +437,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=28)** Let's discuss two fairly common models to determine how mature your program is.
 >
-> **[0:34](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=34)** The Cybersecurity Maturity Model Certification, or CMMC, is a framework that includes cyber protection standards and five levels of maturity.
+> **[0:34](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=34)** The [[Cybersecurity]] Maturity Model Certification, or CMMC, is a framework that includes cyber protection standards and five levels of maturity.
 >
 > **[0:45](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=45)** It was originally created to document standards to safeguard sensitive national security information for companies doing business with the US Department of Defense.
 >
@@ -453,7 +445,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=63)** The levels are designed to rate how well an organization is executing cybersecurity hygiene, from basic performance to documented and then managed, reviewed, and optimized or advanced.
 >
-> **[1:18](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=78)** The National Institute of Standards and Technology, or NIST, also created a framework called the Cybersecurity Framework, or NIST CSF, to help companies of all sizes organize and improve their cybersecurity programs by rating their maturity across 21 domains.
+> **[1:18](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=78)** The National Institute of Standards and Technology, or [[NIST]], also created a framework called the Cybersecurity Framework, or NIST CSF, to help companies of all sizes organize and improve their cybersecurity programs by rating their maturity across 21 domains.
 >
 > **[1:39](https://www.linkedin.com/learning/security-frameworks-fundamentals/maturity-frameworks?u=76281980&t=99)** For each of these categories, there are five elements in this framework, identify, protect, detect, respond, and recover.
 >
@@ -473,14 +465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Cybersecurity]] (4), [[NIST]] (3), business (1), strengths (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[NIST]] (3)
 > **Env Vars:** cmmc (3), nist (3), csf (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Privacy frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980)
+#### [Privacy frameworks](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -490,7 +481,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=15)** However, I don't want just any company using any information they have about me for any purpose they see fit.
 >
-> **[0:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=23)** There's a balance to how much privacy I expect, depending on the circumstances.
+> **[0:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=23)** There's a balance to how much [[Privacy]] I expect, depending on the circumstances.
 >
 > **[0:29](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=29)** As consumers, we have always expected businesses to take care of valuable information, such as credit cards and health information.
 >
@@ -508,7 +499,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=80)** However, the downside of privacy is that it can limit a company's ability to offer consumers goods and services that might be valuable to them.
 >
-> **[1:29](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=89)** Or it may limit their ability to do quality analytics on data to improve the efficiency and effectiveness in their products.
+> **[1:29](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=89)** Or it may limit their ability to do quality analytics on data to improve the efficiency and effectiveness in their [[Microsoft Products|products]].
 >
 > **[1:39](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=99)** Navigating these pros and cons can be quite a challenge, especially for global companies that have to consider privacy regulations across multiple countries, each of which have different regulations.
 >
@@ -522,13 +513,13 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=154)** A few key terms to recognize in privacy are personally identifiable information, or PII, data controllers, and data processors who are accountable and responsible for processing data.
 >
-> **[2:48](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=168)** There are several really great courses in the LinkedIn library for privacy, if you want to go in-depth there.
+> **[2:48](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=168)** There are several really great courses in the [[LinkedIn]] library for privacy, if you want to go in-depth there.
 >
 > **[2:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=175)** Fortunately, there are resources to help organizations navigate privacy.
 >
 > **[3:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=180)** Whether it is a free resource or an industry specific forum, there are several places you can seek guidance.
 >
-> **[3:07](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=187)** You might remember from our definitions video, the National Institute of Standards and Technology, or NIST, provides reference material.
+> **[3:07](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=187)** You might remember from our definitions video, the National Institute of Standards and Technology, or [[NIST]], provides reference material.
 >
 > **[3:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=197)** Privacy is no exception.
 >
@@ -544,7 +535,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=253)** ISO had previously published standards for security.
 >
-> **[4:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=257)** ISO 27,001 is guidance on how to establish and maintain an information security management system.
+> **[4:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=257)** ISO 27,001 is guidance on how to establish and maintain an [[Information Security Management]] system.
 >
 > **[4:25](https://www.linkedin.com/learning/security-frameworks-fundamentals/privacy-frameworks?u=76281980&t=265)** Following that, ISO 27,002 outlined the foundations of creating security controls, including frameworks and implementation guidance.
 >
@@ -566,19 +557,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Privacy]] (26), data (12), [[Security]] (4), [[NIST]] (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (26), [[NIST]] (3), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1), [[Information Security Management]] (1)
 > **Env Vars:** iso (7), nist (3), gdpr (1), pii (1), iec (1)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Ports:** :2019 (1)
 
-#### Regulatory frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980)
+#### [Regulatory frameworks](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=0)** - [Instructor] One of the primary driving factors for security in many organizations is the need for regulatory compliance.
+> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=0)** - [Instructor] One of the primary driving factors for security in many organizations is the need for [[Regulatory Compliance]].
 >
 > **[0:08](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=8)** There are many laws and regulations that require certain security behaviors from businesses handling certain information and assets.
 >
@@ -588,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=36)** No matter where a company is located, if they do business within or with these countries or industries, they may be required to execute on certain security practices.
 >
-> **[0:47](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=47)** In the healthcare industry, there is a regulation in the United States called HIPAA, or the Health Insurance Portability and Accountability Act of 1996.
+> **[0:47](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=47)** In the [[Healthcare Industry]], there is a regulation in the United States called HIPAA, or the Health Insurance Portability and [[Accountability]] Act of 1996.
 >
 > **[0:57](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=57)** HIPAA outlines specific controls to protect the Electronic Personal Health Information, or EPHI of healthcare patients.
 >
@@ -604,15 +594,15 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=116)** Because of these regulations, the financial industry created an industry specific consortium to reduce risk.
 >
-> **[2:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=123)** The Financial Services Information Sharing and Analysis Center, also called FS-ISAC, is an international organization that uses security information, peer information sharing, and controls to try to better mitigate cybersecurity threats to the financial industry.
+> **[2:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=123)** The Financial Services Information Sharing and Analysis Center, also called FS-ISAC, is an international organization that uses security information, peer information sharing, and controls to try to better mitigate [[Cybersecurity]] threats to the financial industry.
 >
-> **[2:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=143)** Also in the financial sector, although not a government regulation, is PCI DSS, or the Payment Card Industry Data Security Standard.
+> **[2:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=143)** Also in the financial sector, although not a government regulation, is PCI DSS, or the Payment Card Industry [[Data Security]] Standard.
 >
 > **[2:33](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=153)** This regulation is designed to protect customer credit card information and reduce fraud.
 >
 > **[2:39](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=159)** It is required to participate in credit card use with the major credit banks.
 >
-> **[2:44](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=164)** In education, there is a US federal law called FERPA, or the Family Educational Rights and Privacy Act.
+> **[2:44](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=164)** In education, there is a US federal law called FERPA, or the Family Educational Rights and [[Privacy]] Act.
 >
 > **[2:51](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=171)** This law was designed to protect the privacy of student educational records.
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=190)** While not a law, the North American Electric Reliability Corporation, or NERC, provides standards, and most organizations that work in this sector know that they must test and assess their controls once a year.
 >
-> **[3:27](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=207)** The Federal Information Security Management Act of 2002, or FISMA, recognizes security as a matter of national security.
+> **[3:27](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=207)** The Federal [[Information Security Management]] Act of 2002, or FISMA, recognizes security as a matter of national security.
 >
 > **[3:36](https://www.linkedin.com/learning/security-frameworks-fundamentals/regulatory-frameworks?u=76281980&t=216)** While it is specific to federal agencies, any business doing business with the federal government should follow these guidelines as well.
 >
@@ -634,7 +624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), business (3), [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Healthcare Industry]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Regulatory Compliance]] (1), [[Healthcare Industry]] (1), [[Accountability]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** hipaa (2), ephi (1), hitrust (1), sox (1), isac (1)
 > **Definitions:** is a  (3), is an  (2)
 > **CLI Commands:** find (1), make (1)
@@ -643,8 +633,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Risk assessment
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980)
+#### [Risk assessment](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,11 +651,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=50)** There are many options available for free as well.
 >
-> **[0:53](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=53)** The Center for Internet Security has free assessment tools, as does the NIST website.
+> **[0:53](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=53)** The Center for Internet Security has free assessment tools, as does the [[NIST]] website.
 >
 > **[0:58](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=58)** You can review your organization's needs and budget to make the best decision for your company.
 >
-> **[1:05](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=65)** This macro-enabled worksheet covers multiple risk domains including cyber security, IT, privacy, data security and business resiliency, to name a few.
+> **[1:05](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=65)** This macro-enabled worksheet covers multiple risk domains including cyber security, IT, [[Privacy]], [[Data Security]] and business [[Resiliency]], to name a few.
 >
 > **[1:17](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=77)** You can see this tool isn't just an IT tool or an information security tool.
 >
@@ -696,11 +685,11 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=175)** Another framework used to assess risk is called COBIT, which stands for Control Objectives for Information and Related Technologies.
 >
-> **[3:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=183)** COBIT focuses on regulatory compliance, ensuring companies have proper controls and processes in their organization to manage risk effectively.
+> **[3:03](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=183)** COBIT focuses on [[Regulatory Compliance]], ensuring companies have proper controls and processes in their organization to manage risk effectively.
 >
-> **[3:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=194)** COBIT is a framework created by international professional association ISACA for Information Technology Management and IT governance.
+> **[3:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=194)** COBIT is a framework created by international professional association ISACA for Information Technology Management and [[IT Governance]].
 >
-> **[3:24](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=204)** ISACA and its frameworks are focused on governance, risk, and compliance, including IT audit and risk management.
+> **[3:24](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=204)** ISACA and its frameworks are focused on governance, risk, and compliance, including [[IT Audit]] and risk management.
 >
 > **[3:33](https://www.linkedin.com/learning/security-frameworks-fundamentals/risk-assessment?u=76281980&t=213)** ISACA is a membership organization.
 >
@@ -712,7 +701,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), management (3), [[Privacy]] (2), business (2), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[NIST]] (1), [[Data Security]] (1), [[Resiliency]] (1), [[Regulatory Compliance]] (1)
 > **Env Vars:** fair (3), cobit (3), isaca (3), sig (2), nist (1)
 > **Definitions:** is a  (10), stands for (2), is called (1)
 > **CLI Commands:** make (2)
@@ -723,12 +712,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PCI DSS and credit card payments
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
+#### [PCI DSS and credit card payments](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=0)** - [Narrator] PCI DSS, or the Payment Card Industry Data Security Standard, is both a framework and a compliance standard.
+> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=0)** - [Narrator] PCI DSS, or the Payment Card Industry [[Data Security]] Standard, is both a framework and a compliance standard.
 >
 > **[0:09](https://www.linkedin.com/learning/security-frameworks-fundamentals/pci-dss-and-credit-card-payments?u=76281980&t=9)** PCI is an information security standard for any organization that transacts credit cards.
 >
@@ -782,14 +770,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (5), next (2), business (2), management (1)
+> **Frameworks & Libraries:** [[Data Security]] (1)
 > **Env Vars:** pci (5), dss (1), pos (1)
 > **Definitions:** is an  (2), is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### CIS security controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980)
+#### [CIS security controls](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -799,7 +786,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=10)** These actions are known as the Critical Security Controls.
 >
-> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=14)** The Critical Security Controls project began in 2008 when the Office of the Security of Defense asks the NSA to help prioritize the multitude of cybersecurity controls that were available.
+> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=14)** The Critical Security Controls project began in 2008 when the [[Microsoft Office|Office]] of the Security of Defense asks the NSA to help prioritize the multitude of [[Cybersecurity]] controls that were available.
 >
 > **[0:26](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=26)** A consortium of public and private industry experts worked to prioritize the controls, including representatives from CIS and the SANS Institute.
 >
@@ -819,7 +806,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=98)** The CIS Controls account for the primary areas of protection your organization will need to protect its ecosystem.
 >
-> **[1:45](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=105)** From inventory to access control, data protection and recovery, network, email and web protections, application security, training, and incident response.
+> **[1:45](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=105)** From inventory to access control, data protection and recovery, network, email and web protections, [[Application Security]], training, and [[Incident Response]].
 >
 > **[1:58](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=118)** You can confidently begin with these to know you have good security coverage, and even more good news is that it's resources are available free of charge.
 >
@@ -845,7 +832,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=211)** CIS as a framework reminds us that it isn't about checking all the boxes on a list.
 >
-> **[3:37](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=217)** It isn't a certification, nor is it compliance-focused.
+> **[3:37](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=217)** It isn't a certification, nor is [[IT Compliance]]-focused.
 >
 > **[3:41](https://www.linkedin.com/learning/security-frameworks-fundamentals/cis-security-controls?u=76281980&t=221)** It's simply used to help companies improve their security posture by considering their entire ecosystem, and implementing good security controls.
 >
@@ -853,21 +840,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), data (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1), [[Application Security]] (1), [[Incident Response]] (1), [[IT Compliance]] (1)
 > **Env Vars:** cis (7), nsa (1), sans (1), ig1 (1)
 > **Definitions:** stands for (1), known as (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### NIST 800-53: Guidance for (US) companies
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980)
+#### [NIST 800-53: Guidance for (US) companies](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=0)** - [Instructor] The NIST Special Publication 800-53 provides a catalog of security controls for all US federal information systems, except those related to national security.
+> **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=0)** - [Instructor] The [[NIST]] Special Publication 800-53 provides a catalog of security controls for all US federal information systems, except those related to national security.
 >
-> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=14)** It covers the risk management framework, which addresses risks from worst case impact analysis.
+> **[0:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=14)** It covers the [[Risk Management Framework (RMF)|risk management framework]], which addresses risks from worst case impact analysis.
 >
-> **[0:21](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=21)** NIST, or the National Institute of Standards and Technology, created this special publication to assist federal agencies in implementing the Federal Information Security Management Act of 2002, called FISMA, and to help create cost effective standardization.
+> **[0:21](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=21)** NIST, or the National Institute of Standards and Technology, created this special publication to assist federal agencies in implementing the Federal [[Information Security Management]] Act of 2002, called FISMA, and to help create cost effective standardization.
 >
 > **[0:38](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=38)** It is updated regularly to stay current as technology and risk evolve.
 >
@@ -893,7 +879,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=114)** These controls include guidance around how to configure your system, how to maintain it and ensure it's ongoing integrity, as well as training your employees.
 >
-> **[2:04](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=124)** Technical security is the protection of systems at the hardware, software or firmware levels from threats that could impact the CIA of your systems or data.
+> **[2:04](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=124)** Technical security is the protection of systems at the [[Hardware]], software or firmware levels from threats that could impact the CIA of your systems or data.
 >
 > **[2:15](https://www.linkedin.com/learning/security-frameworks-fundamentals/nist-800-53-guidance-for-us-companies?u=76281980&t=135)** These controls surround your system protections, such as access control, authentication and systems and communication protections.
 >
@@ -939,21 +925,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (13), [[NIST]] (10), management (4), business (4), data (2)
+> **Frameworks & Libraries:** [[NIST]] (10), [[Risk Management Framework (RMF)|Risk management framework]] (1), [[Security Management]] (1), [[Hardware]] (1)
 > **Env Vars:** nist (10), cia (2), fisma (1), vpn (1)
 > **Definitions:** is a  (6), is an  (1)
 > **Analogies:** such as (3)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### ISO 27001/2: A global approach with certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980)
+#### [ISO 27001/2: A global approach with certification](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=0)** - [Instructor] ISO 27001 is an information security standard that positions information security under management control and outlines specific requirements.
 >
-> **[0:12](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=12)** It specifically aims to put an information security management system, or ISMS, in place to ensure comprehensive coverage of all assets and data.
+> **[0:12](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=12)** It specifically aims to put an [[Information Security Management]] system, or ISMS, in place to ensure comprehensive coverage of all assets and data.
 >
 > **[0:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=23)** That means it's not just IT.
 >
@@ -1015,7 +1000,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=217)** These controls are categorized into four themes: organizational, people, physical and technological.
 >
-> **[3:46](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=226)** Also, the current version aligns with the industry standard of attributes for these controls: identify, protect, detect, respond, and recover, which is also used in the NIST CSF.
+> **[3:46](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=226)** Also, the current version aligns with the industry standard of attributes for these controls: identify, protect, detect, respond, and recover, which is also used in the [[NIST]] CSF.
 >
 > **[4:00](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=240)** You can review that in the Chapter 1 video on Maturity.
 >
@@ -1023,7 +1008,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=250)** Let's do an example with Global Bank.
 >
-> **[4:13](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=253)** Global Bank knows it needs to cover the full range of information security controls, such as physical security, as well as the normal technical controls involved with connected banking systems.
+> **[4:13](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=253)** Global Bank knows it needs to cover the full range of information security controls, such as physical security, as well as the normal technical controls involved with connected [[Banking]] systems.
 >
 > **[4:25](https://www.linkedin.com/learning/security-frameworks-fundamentals/iso-27001-2-a-global-approach-with-certification?u=76281980&t=265)** Further, it knows that with associates all over the world, it needs tight organizational controls to ensure consistent application of its policies.
 >
@@ -1051,7 +1036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), management (3), [[Information Security Management]] (2), data (1), generic (1)
+> **Frameworks & Libraries:** [[Information Security Management]] (2), [[NIST]] (1), [[Banking]] (1)
 > **Env Vars:** iso (15), isms (7), iec (1), nist (1), csf (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Analogies:** such as (2)
@@ -1063,8 +1048,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How the frameworks compare
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
+#### [How the frameworks compare](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1074,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980&t=56)** There is no compliance or certification with the CIS Controls.
 >
-> **[1:01](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980&t=61)** NIST 800-53 has 20 control families with over 1,000 controls, which can be broken down into baseline controls and enhanced controls.
+> **[1:01](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980&t=61)** [[NIST]] 800-53 has 20 control families with over 1,000 controls, which can be broken down into baseline controls and enhanced controls.
 >
 > **[1:12](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-the-frameworks-compare?u=76281980&t=72)** This comprehensive control set is required to be followed by federal agencies.
 >
@@ -1116,15 +1100,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[NIST]] (2), management (2), data (1), business (1)
+> **Frameworks & Libraries:** [[NIST]] (2)
 > **Env Vars:** pci (2), cis (2), nist (2), iso (2)
 > **Definitions:** is a  (4)
 > **Best Practices:** best practice (2)
 > **Cross-References:** we covered (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping the controls to one another
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980)
+#### [Mapping the controls to one another](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1115,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=11)** The ability to align controls between frameworks is most commonly done by cross-referencing the objectives to the equivalent control in another framework.
 >
-> **[0:20](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=20)** The first example we'll use is incident response.
+> **[0:20](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=20)** The first example we'll use is [[Incident Response]].
 >
 > **[0:25](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=25)** Under PCI, incident response is found under Requirement 12.
 >
@@ -1144,7 +1127,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=55)** It details in 10 different components that you should have, including an incident response procedure, assigned duties, incident reporting, and routine practice or walkthroughs.
 >
-> **[1:08](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=68)** Under NIST 800-53, incident response has its very own control family called IR.
+> **[1:08](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=68)** Under [[NIST]] 800-53, incident response has its very own control family called IR.
 >
 > **[1:15](https://www.linkedin.com/learning/security-frameworks-fundamentals/mapping-the-controls-to-one-another?u=76281980&t=75)** It details out nine controls, including to have a policy, to do training and testing, to have a documented plan covering the four phases of security incidents, to have a reporting mechanism, to have an identified team, and a prepared response or notification to work from.
 >
@@ -1186,14 +1169,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (10), [[Security]] (8), [[NIST]] (2), management (1), business (1)
+> **Frameworks & Libraries:** [[Incident Response]] (10), [[NIST]] (2)
 > **Env Vars:** pci (2), nist (2), iso (2), cis (1)
 > **Versions:** 16.1 (1), 12.2 (1)
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Resources available for mapping controls
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980)
+#### [Resources available for mapping controls](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1215,15 +1197,15 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=53)** It includes analysis from over 100 frameworks, and it allows you to build one control to address multiple requirements.
 >
-> **[1:01](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=61)** This meta framework attempts to build security and privacy by design, which means it is part of the process, not an afterthought at the end.
+> **[1:01](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=61)** This meta framework attempts to build security and [[Privacy]] by design, which means it is part of the process, not an afterthought at the end.
 >
-> **[1:11](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=71)** There is also the CIS Benchmarks mapping tool called the CIS Controls Navigator, which maps controls from the CIS Controls to other frameworks such as NIST and ISO.
+> **[1:11](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=71)** There is also the CIS Benchmarks mapping tool called the CIS Controls Navigator, which maps controls from the CIS Controls to other frameworks such as [[NIST]] and ISO.
 >
 > **[1:23](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=83)** The mapping tool allows users to select a target framework, and then it maps the CIS Controls to that defined target.
 >
 > **[1:31](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=91)** The output is a report that shows the mapping, highlighting any gaps or areas where additional controls may be needed.
 >
-> **[1:39](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=99)** NIST has a tool called the NIST Control Mapping Tool which maps controls from NIST 800-53 to NIST's cybersecurity framework, discussed in chapter one, which is a risk-based maturity model.
+> **[1:39](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=99)** NIST has a tool called the NIST Control Mapping Tool which maps controls from NIST 800-53 to NIST's [[Cybersecurity]] framework, discussed in chapter one, which is a risk-based maturity model.
 >
 > **[1:53](https://www.linkedin.com/learning/security-frameworks-fundamentals/resources-available-for-mapping-controls?u=76281980&t=113)** It is a solid tool to map the NIST functions of identify, protect, detect, respond, and recover to the different control families.
 >
@@ -1235,15 +1217,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[NIST]] (7), [[Security]] (3), [[Privacy]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[NIST]] (7), [[Privacy]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** nist (7), cis (4), iso (2), scf (1), sig (1)
 > **Definitions:** is a  (5), is called (1)
 > **Cross-References:** as we saw (1), previous chapter (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing a framework that is relevant to your business
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980)
+#### [Choosing a framework that is relevant to your business](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1277,7 +1258,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980&t=90)** There are controls for personnel background checks and acceptable use policies that HR will need to review.
 >
-> **[1:37](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980&t=97)** There are application-based controls for secure software development to run by engineering and product teams, and there are contingency planning components for disaster recovery that will need input from infrastructure and operations as well as facilities.
+> **[1:37](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980&t=97)** There are application-based controls for secure [[Software Development]] to run by engineering and product teams, and there are contingency planning components for disaster recovery that will need input from infrastructure and operations as well as facilities.
 >
 > **[1:55](https://www.linkedin.com/learning/security-frameworks-fundamentals/choosing-a-framework-that-is-relevant-to-your-business?u=76281980&t=115)** Take a look beyond the control summary to the specific control language to identify who your stakeholders may be.
 >
@@ -1295,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), management (3), business (2), next (1), hr (1)
+> **Frameworks & Libraries:** [[Software Development]] (1)
 > **Warnings:** important note (1), keep in mind (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** select the (1)
@@ -1308,8 +1289,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding control families and domains
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
+#### [Understanding control families and domains](https://www.linkedin.com/learning/security-frameworks-fundamentals/understanding-control-families-and-domains?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1349,7 +1329,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), business (2), next (1)
 > **Env Vars:** iso (2), pci (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1357,8 +1336,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - security (1)
 
-#### The measures
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-measures?u=76281980)
+#### [The measures](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-measures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1400,15 +1378,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), management (1), business (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [narrator] (1)
 
-#### The assurances
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980)
+#### [The assurances](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1420,7 +1396,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980&t=20)** It is the available body of facts indicating whether a proposition is valid.
 >
-> **[0:26](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980&t=26)** If I'm implementing configuration management, I'd need to determine how to prove I have executed on the measures I outlined for the controls.
+> **[0:26](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980&t=26)** If I'm implementing [[Configuration Management]], I'd need to determine how to prove I have executed on the measures I outlined for the controls.
 >
 > **[0:36](https://www.linkedin.com/learning/security-frameworks-fundamentals/the-assurances?u=76281980&t=36)** Evidence is a great way to provide assurance.
 >
@@ -1436,13 +1412,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Configuration Management]] (1), leadership (1)
+> **Frameworks & Libraries:** [[Configuration Management]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** cis (1)
 > **Speakers:** - [narrator] (1)
 
-#### Enabling technologies
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/enabling-technologies?u=76281980)
+#### [Enabling technologies](https://www.linkedin.com/learning/security-frameworks-fundamentals/enabling-technologies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1494,13 +1469,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), [[Security]] (2), [[Search]] (1)
 > **Env Vars:** grc (5)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security mindset
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980)
+#### [Security mindset](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,7 +1501,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980&t=70)** Find three that you can begin to build capability and reliability with.
 >
-> **[1:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980&t=74)** For example, if you choose incident response, you can create a lightweight plan to respond to security events, or you could create a mechanism such as an email distribution list to report and then do a quick lunch and learn training for your employees.
+> **[1:14](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980&t=74)** For example, if you choose [[Incident Response]], you can create a lightweight plan to respond to security events, or you could create a mechanism such as an email distribution list to report and then do a quick lunch and learn training for your employees.
 >
 > **[1:30](https://www.linkedin.com/learning/security-frameworks-fundamentals/security-mindset?u=76281980&t=90)** People love to gather, especially if you include team.
 >
@@ -1548,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), business (2), [[Incident Response]] (2), next (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for example (1), such as (1)
 > **Exercise Files:** template (1)
@@ -1560,8 +1533,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to get started
-> [LinkedIn Learning](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)
+#### [How to get started](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1575,7 +1547,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980&t=27)** We've only scratched the surface of what security frameworks can do for your organization.
 >
-> **[0:32](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980&t=32)** I encourage you to learn more about security controls by watching LinkedIn courses on privacy, OWASP, Mitre, NIST and ISO to name just a few.
+> **[0:32](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980&t=32)** I encourage you to learn more about security controls by watching [[LinkedIn]] courses on [[Privacy]], [[OWASP]], Mitre, [[NIST]] and ISO to name just a few.
 >
 > **[0:44](https://www.linkedin.com/learning/security-frameworks-fundamentals/how-to-get-started?u=76281980&t=44)** All of these courses can help you on your road to a mature security posture.
 >
@@ -1611,7 +1583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), next (3), [[Privacy]] (2), [[LinkedIn]] (1), [[OWASP]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[LinkedIn]] (1), [[OWASP]] (1), [[NIST]] (1)
 > **Env Vars:** owasp (1), nist (1), iso (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)

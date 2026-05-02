@@ -79,22 +79,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### An introduction to DevOps Tips
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
+#### [An introduction to DevOps Tips](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=1)** - [Michael] The LinkedIn Learning Library is full of courses on cutting edge technologies and how to implement them from the ground up.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=1)** - [Michael] The [[LinkedIn]] Learning Library is full of courses on cutting edge technologies and how to implement them from the ground up.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=8)** But sometimes we need advice on topics related to technology that might not be covered in a technology course.
 >
 > **[0:14](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=14)** That's where this course comes in.
 >
-> **[0:17](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=17)** Hi, I'm Michael Jenkins, a computer engineer with many years of experience using the hard and soft skills from the software development practice known as DevOps.
+> **[0:17](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=17)** Hi, I'm Michael [[Jenkins]], a computer engineer with many years of experience using the hard and [[Soft Skills]] from the [[Software Development]] practice known as [[DevOps]].
 >
 > **[0:27](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=27)** In this course, we'll start with discussing soft skills like hiring for DevOps positions, collaborating and how to avoid burnout.
 >
-> **[0:36](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=36)** We'll continue with topics on infrastructure as code, working with microservices and transitioning to serverless.
+> **[0:36](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=36)** We'll continue with topics on [[Infrastructure as code (IaC)|infrastructure as code]], working with [[Microservices]] and transitioning to serverless.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-tips/an-introduction-to-devops-tips?u=76281980&t=44)** If you're new to DevOps, you'll appreciate the discussion on getting your DevOps career started from scratch.
 >
@@ -115,18 +114,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hiring for DevOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
+#### [Hiring for DevOps](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=1)** - [Instructor] If you're hiring to add DevOps skills to your team, don't get caught up looking for experience in one particular tool or certifications in one specific cloud platform.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=1)** - [Instructor] If you're hiring to add [[DevOps]] skills to your team, don't get caught up looking for experience in one particular tool or certifications in one specific cloud platform.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=11)** Instead, focus on skills and knowledge as a whole.
 >
-> **[0:16](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=16)** Because very few people start out as true DevOps practitioners, the most appealing candidates will have a background in software development or system administration.
+> **[0:16](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=16)** Because very few people start out as true DevOps practitioners, the most appealing candidates will have a background in [[Software Development]] or [[System Administration]].
 >
-> **[0:26](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=26)** They might also come from other fields like engineering, project management, or customer support.
+> **[0:26](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=26)** They might also come from other fields like engineering, project management, or [[Customer Support]].
 >
 > **[0:32](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=32)** In any case, it will be helpful if they have experience working with code and developing solutions.
 >
@@ -134,11 +132,11 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=46)** Even at the most entry level, candidates should have some experience with using virtualization to accelerate development.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=54)** Candidates should also know how the cloud benefits modern applications by providing managed services, scalability, and potentially reducing costs.
+> **[0:54](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=54)** Candidates should also know how the cloud benefits modern applications by providing managed services, [[Scalability]], and potentially reducing costs.
 >
 > **[1:04](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=64)** Of course, cloud experience can be on any cloud.
 >
-> **[1:08](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=68)** If your team is using AWS, don't immediately discount a top candidate that has years of experience using Google Cloud or Azure.
+> **[1:08](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=68)** If your team is using AWS, don't immediately discount a top candidate that has years of experience using [[Google Cloud Platform (GCP)|Google Cloud]] or [[Microsoft Azure|Azure]].
 >
 > **[1:20](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=80)** The same thing goes for tools.
 >
@@ -146,9 +144,9 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=86)** Instead, look for tools that fall into categories, like automation, CI/CD, and orchestration.
 >
-> **[1:35](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=95)** There are dozens of tools that fall into the continuous integration and continuous deployment category.
+> **[1:35](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=95)** There are dozens of tools that fall into the [[Continuous Integration (CI)|continuous integration]] and continuous deployment category.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=101)** Just to name a few, I'll mention Jenkins, one of my personal favorites, GitLab CI and GitHub Actions.
+> **[1:41](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=101)** Just to name a few, I'll mention [[Jenkins]], one of my personal favorites, GitLab CI and [[GitHub]] Actions.
 >
 > **[1:49](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=109)** The bottom line here is that the candidates should have some experience working with applications that take code to the next step.
 >
@@ -156,9 +154,9 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=123)** Knowing how to use the tools in that part of the process is definitely a benefit.
 >
-> **[2:09](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=129)** In the automation category, look for experience using infrastructure as code tools, like Terraform and CloudFormation.
+> **[2:09](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=129)** In the automation category, look for experience using [[Infrastructure as code (IaC)|infrastructure as code]] tools, like [[Terraform]] and CloudFormation.
 >
-> **[2:18](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=138)** Also look for experience using system configuration tools, like Puppet, Chef and Ansible.
+> **[2:18](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=138)** Also look for experience using [[System Configuration]] tools, like Puppet, Chef and [[Ansible]].
 >
 > **[2:24](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=144)** Of course, these tools lend themselves more to the operations side of DevOps.
 >
@@ -168,26 +166,25 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=164)** This is where everything gets pulled together and coordinated across systems, applications, and services.
 >
-> **[2:51](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=171)** Interfacing with cloud services like AWS, Google Cloud and Microsoft Azure is where orchestration for most modern applications begins.
+> **[2:51](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=171)** Interfacing with [[Cloud Services]] like AWS, Google Cloud and [[Microsoft Azure]] is where orchestration for most modern applications begins.
 >
-> **[3:01](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=181)** The next level is using a tool like Kubernetes to orchestrate container workloads.
+> **[3:01](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=181)** The next level is using a tool like [[Kubernetes]] to orchestrate container workloads.
 >
 > **[3:07](https://www.linkedin.com/learning/devops-tips/hiring-for-devops?u=76281980&t=187)** If your team is currently working with containers in a production environment or planning to move in that direction, then definitely look for a candidate with experience using these types of tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), [[DevOps]] (3), [[Orchestration]] (3), [[Virtualization]] (2), aws (2)
+> **Frameworks & Libraries:** [[DevOps]] (3), [[Google Cloud Platform (GCP)|Google cloud]] (2), [[Software Development]] (1), [[System Administration]] (1), [[Customer Support]] (1)
 > **CLI Commands:** aws (2), cd (1), terraform (1), ansible (1)
 > **Env Vars:** aws (2)
 > **Tools:** gitlab (1), github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upskilling your team
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980)
+#### [Upskilling your team](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=1)** - [Instructor] Along with adding new talent to the team, one of the best ways for a DevOps team to step up their game is to learn new skills on the job.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=1)** - [Instructor] Along with adding new talent to the team, one of the best ways for a [[DevOps]] team to step up their game is to learn new skills on the job.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=10)** This is known as upskilling.
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=42)** Your team members are likely the best resource you have for bringing new skills to the team.
 >
-> **[0:48](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=48)** I bet that each person on your team has some specialty or advanced skill that the rest of the team could learn from.
+> **[0:48](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=48)** I bet that each person on your team has some specialty or advanced skill that the [[Representational State Transfer (REST)|rest]] of the team could learn from.
 >
 > **[0:55](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=55)** By leveraging your subject matter experts to train the rest of the team, everyone benefits.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=69)** Also, reach out to vendors that you work with regularly.
 >
-> **[1:14](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=74)** Cloud service providers and software vendors are often eager to meet with teams that want to learn more about their products.
+> **[1:14](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=74)** Cloud service providers and software vendors are often eager to meet with teams that want to learn more about their [[Microsoft Products|products]].
 >
 > **[1:22](https://www.linkedin.com/learning/devops-tips/upskilling-your-team?u=76281980&t=82)** Ask your vendors to share with your team the best practices for using their software or services.
 >
@@ -229,21 +226,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), teams (2), [[Microsoft Products|Products]] (2), [[DevOps]] (1), game (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (2), [[DevOps]] (1)
 > **Definitions:** known as (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips for working remotely
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980)
+#### [Tips for working remotely](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=0)** - [Instructor] These days, working remotely is no longer an exception.
 >
-> **[0:04](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=4)** The home office has practically become the office in our homes.
+> **[0:04](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=4)** The home [[Microsoft Office|office]] has practically become the office in our homes.
 >
-> **[0:09](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=9)** Even before we all started working off site, many of us in DevOps roles were already accustomed to working from our kitchen tables, coffee shops, or pretty much anywhere we could find strong internet.
+> **[0:09](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=9)** Even before we all started working off site, many of us in [[DevOps]] roles were already accustomed to working from our kitchen tables, coffee shops, or pretty much anywhere we could find strong internet.
 >
 > **[0:21](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=21)** So, whether you're new to working offsite or a seasoned pro, here are a few tips to being more effective while working remotely.
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=48)** Otherwise, you may feel like your work isn't visible.
 >
-> **[0:51](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=51)** You'll need to lean on real-time communications tools, like video conferencing, and yes, you might have to use your cellphone to actually talk to someone.
+> **[0:51](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=51)** You'll need to lean on [[Real-Time]] communications tools, like video conferencing, and yes, you might have to use your cellphone to actually talk to someone.
 >
 > **[1:01](https://www.linkedin.com/learning/devops-tips/tips-for-working-remotely?u=76281980&t=61)** Why talk more when you're working remotely?
 >
@@ -305,14 +301,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Real-Time]] (2), [[DevOps]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), [[Real-Time]] (2), [[DevOps]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Best Practices:** don't forget (1), remember to (1)
 > **Prerequisites:** you'll need (1), getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding burnout
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/avoiding-burnout?u=76281980)
+#### [Avoiding burnout](https://www.linkedin.com/learning/devops-tips/avoiding-burnout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -362,17 +357,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Collaborating across teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980)
+#### [Collaborating across teams](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=1)** - [Instructor] When we think of the DevOps life cycle, the familiar infinity loop comes to mind.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=1)** - [Instructor] When we think of the [[DevOps]] life cycle, the familiar infinity loop comes to mind.
 >
 > **[0:06](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=6)** The left half, plan, code, build, and test it's often owned by teams with a slant towards development.
 >
@@ -400,9 +393,9 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=101)** This is where tools can really help out.
 >
-> **[1:44](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=104)** Project boards like Jira or Trello can help communicate what's actively being worked on, what work is coming up, and what work has been completed.
+> **[1:44](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=104)** Project boards like [[Jira]] or [[Trello]] can help communicate what's actively being worked on, what work is coming up, and what work has been completed.
 >
-> **[1:54](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=114)** Chat applications like Slack or Microsoft Teams can help facilitate real-time discussions while keeping a history of the conversation.
+> **[1:54](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=114)** Chat applications like [[Slack]] or [[Microsoft Teams]] can help facilitate [[Real-Time]] discussions while keeping a history of the conversation.
 >
 > **[2:03](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=123)** Bots and services can also join the conversation by sharing alerts, notifications, and status updates.
 >
@@ -416,7 +409,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=169)** These metrics tie back into the common goals and inform teams if everything is going according to plan or if improvements need to be made.
 >
-> **[2:58](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=178)** And when it comes to metrics, dashboards are great for delivering this type of information, especially if they're accessible to all parties that need the data.
+> **[2:58](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=178)** And when it comes to metrics, [[Dashboards]] are great for delivering this type of information, especially if they're accessible to all parties that need the data.
 >
 > **[3:07](https://www.linkedin.com/learning/devops-tips/collaborating-across-teams?u=76281980&t=187)** This prevents knowledge hoarding or requests for information that can slow down one team while waiting on another team to respond.
 >
@@ -428,22 +421,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (10), product (4), application (3), [[Dashboards]] (2), [[DevOps]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (2), [[DevOps]] (1), [[Jira]] (1), [[Trello]] (1), [[Slack]] (1)
 > **CLI Commands:** make (2)
 > **Tools:** jira (1), slack (1)
 > **Cross-References:** coming up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using ChatOps for automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980)
+#### [Using ChatOps for automation](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=1)** - [Instructor] Of all the tools DevOps engineers use on a regular basis, I bet the one they're using the most often is their chat client.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=1)** - [Instructor] Of all the tools [[DevOps]] engineers use on a regular basis, I bet the one they're using the most often is their chat client.
 >
-> **[0:09](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=9)** Whether it's Slack, Microsoft Teams, or good old IRC, all parts of the business are favoring chat over other forms of communication.
+> **[0:09](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=9)** Whether it's [[Slack]], [[Microsoft Teams]], or good old IRC, all parts of the business are favoring chat over other [[Forms]] of communication.
 >
-> **[0:19](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=19)** Software and operations teams at GitHub began calling their use of chat clients as ChatOps.
+> **[0:19](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=19)** Software and operations teams at [[GitHub]] began calling their use of chat clients as ChatOps.
 >
 > **[0:27](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=27)** They use the term to describe how developers and engineers were using chat clients to centralize communications, increase transparency of the work they were doing, and also automate all kinds of tasks from deploying software to rebooting infrastructure.
 >
@@ -469,7 +461,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=123)** Or if that's a little too chatty, you can configure the repo to send notifications when branches are merged or new releases are created.
 >
-> **[2:12](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=132)** Down the pipeline, CI/CD tools like Jenkins, GitHub Actions and Travis CI can report into chats when builds or deployments start, and then update with the status when the job is complete.
+> **[2:12](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=132)** Down the pipeline, CI/CD tools like [[Jenkins]], GitHub Actions and Travis CI can report into chats when builds or deployments start, and then update with the status when the job is complete.
 >
 > **[2:25](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=145)** Other ways you can use chat to increase transparency include reporting incident assignments, communicating service status, and much more.
 >
@@ -495,13 +487,13 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=226)** Now getting to this level of ChatOps will require some knowledge to implement.
 >
-> **[3:52](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=232)** You'll also want to have some security in place so that certain commands are limited to specific team members, like delete the Kubernetes cluster, for example.
+> **[3:52](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=232)** You'll also want to have some security in place so that certain commands are limited to specific team members, like delete the [[Kubernetes]] cluster, for example.
 >
 > **[4:01](https://www.linkedin.com/learning/devops-tips/using-chatops-for-automation?u=76281980&t=241)** So when it all comes together, ChatOps can do a lot for streamlining the way your team communicates and takes action.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), teams (3), [[DevOps]] (2), ci (2), [[Slack]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[DevOps]] (2), [[Slack]] (1), [[Microsoft Teams]] (1), [[Forms]] (1)
 > **Tools:** github (4), slack (1), gitlab (1)
 > **Env Vars:** irc (1), rss (1), api (1)
 > **Analogies:** for example (2)
@@ -510,8 +502,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying DevOps to boring technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980)
+#### [Applying DevOps to boring technology](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980&t=31)** You know, it's not running the latest and greatest tech from the last year or two or maybe even 10.
 >
-> **[0:38](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980&t=38)** But even in these cases, we should still be using devops principles and practices.
+> **[0:38](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980&t=38)** But even in these cases, we should still be using [[DevOps]] principles and practices.
 >
 > **[0:44](https://www.linkedin.com/learning/devops-tips/applying-devops-to-boring-technology?u=76281980&t=44)** Let's take a look.
 >
@@ -583,7 +574,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (3), [[Security]] (2), [[DevOps]] (1), data (1), api (1)
+> **Frameworks & Libraries:** [[DevOps]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** api (1)
 > **Tools:** command line (1)
@@ -596,12 +587,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing with infrastructure as code (IaC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
+#### [Testing with infrastructure as code (IaC)](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=1)** - [Instructor] Infrastructure as code is great for creating resources like networks, servers, databases, and much more.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=1)** - [Instructor] [[Infrastructure as code (IaC)|Infrastructure as code]] is great for creating resources like networks, servers, [[Databases]], and much more.
 >
 > **[0:10](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=10)** And because you're working with code, you can use techniques like revision control, integration, and testing just like you would with any other code.
 >
@@ -617,7 +607,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=49)** Basically, many people work on the same code at the same time and then combine their work.
 >
-> **[0:56](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=56)** Common software development practices for this step include linting, checking for syntax errors, and validating the code for correctness.
+> **[0:56](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=56)** Common [[Software Development]] practices for this step include linting, checking for syntax errors, and validating the code for correctness.
 >
 > **[1:03](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=63)** These steps increase the possibility of first pass success when it comes to deploying the code.
 >
@@ -629,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=84)** Most infrastructure code allows you to do a dry run to see what would happen if the code was actually applied.
 >
-> **[1:31](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=91)** Terraform lets you do this with the Terraform plan process and CloudFormation uses change sets.
+> **[1:31](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=91)** [[Terraform]] lets you do this with the Terraform plan process and CloudFormation uses change sets.
 >
 > **[1:37](https://www.linkedin.com/learning/devops-tips/testing-with-infrastructure-as-code-iac?u=76281980&t=97)** The output from these steps can then be checked for correctness against your intentions.
 >
@@ -661,21 +651,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Terraform]] (3), web (2), [[Automation]] (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[Terraform]] (3), [[Databases]] (1), [[Software Development]] (1)
 > **CLI Commands:** terraform (3), make (1), curl (1), find (1)
 > **Analogies:** just like (1), for example (1)
 > **Env Vars:** cicd (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### An overview of microservices
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980)
+#### [An overview of microservices](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=1)** - [Instructor] Microservices have been growing in popularity since their introduction in the early 2000s.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=1)** - [Instructor] [[Microservices]] have been growing in popularity since their introduction in the early 2000s.
 >
-> **[0:06](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=6)** With the increased use of cloud computing, architects began to look at microservices as a way to solve problems resulting from the widely used architecture known as the monolith.
+> **[0:06](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=6)** With the increased use of [[Cloud Computing]], architects began to look at microservices as a way to solve problems resulting from the widely used architecture known as the monolith.
 >
 > **[0:18](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=18)** In the simplest terms, monolithic applications are built by combining all functions into a single artifact.
 >
@@ -731,7 +720,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=199)** Also, because each service uses its own data store, data changes can be localized, so other services aren't impacted.
 >
-> **[3:27](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=207)** Microservices are also designed so that if any single service fails, the rest of the application continues to operate.
+> **[3:27](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=207)** Microservices are also designed so that if any single service fails, the [[Representational State Transfer (REST)|rest]] of the application continues to operate.
 >
 > **[3:35](https://www.linkedin.com/learning/devops-tips/an-overview-of-microservices?u=76281980&t=215)** Sure, something might be missing or performance might be degraded, but the application stays up and running instead of failing completely just because one service went offline.
 >
@@ -743,7 +732,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microservices]] (10), application (9), data (5), web application (3), business (2)
+> **Frameworks & Libraries:** [[Microservices]] (10), [[Cloud Computing]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** http (1)
 > **Cross-References:** we discussed (1)
@@ -751,8 +740,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepping for on-call shifts
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980)
+#### [Prepping for on-call shifts](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,7 +768,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980&t=79)** And the last thing before going on call, make sure you have any tools that you might need, like laptops, cell phones, or hotspots for remote connectivity.
 >
-> **[1:30](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980&t=90)** And while you're at it, take a moment to get familiar with your team's incident response plan.
+> **[1:30](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980&t=90)** And while you're at it, take a moment to get familiar with your team's [[Incident Response]] plan.
 >
 > **[1:35](https://www.linkedin.com/learning/devops-tips/prepping-for-on-call-shifts?u=76281980&t=95)** It might have been a while since the last time you looked at it and it will help to stay up to date.
 >
@@ -824,7 +812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Incident Response]] (2), teams (1), business (1), next (1)
+> **Frameworks & Libraries:** [[Incident Response]] (2)
 > **CLI Commands:** make (2), ssh (1)
 > **Prerequisites:** you'll need (2), make sure you have (1)
 > **Ports:** :00 (2)
@@ -832,12 +820,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transitioning to serverless
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980)
+#### [Transitioning to serverless](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=1)** - [Instructor] Serverless computing has been a popular topic over the past few years, and to be honest with you, I believe the hype.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=1)** - [Instructor] [[Serverless Computing]] has been a popular topic over the past few years, and to be honest with you, I believe the hype.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=9)** I'm certain that serverless applications will eventually become the norm for compute-based workloads.
 >
@@ -867,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=93)** While you're at it, automate everything you can.
 >
-> **[1:37](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=97)** Focus on things that will optimize your development cycle, like continuous integration and continuous deployment.
+> **[1:37](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=97)** Focus on things that will optimize your development cycle, like [[Continuous Integration (CI)|continuous integration]] and continuous deployment.
 >
 > **[1:44](https://www.linkedin.com/learning/devops-tips/transitioning-to-serverless?u=76281980&t=104)** Fortunately, there are several popular frameworks that can help you develop, debug and deploy your serverless code in an automated fashion.
 >
@@ -883,19 +870,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[Serverless Computing]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), feature (1)
+> **Frameworks & Libraries:** [[Serverless Computing]] (2), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Practicing DevOps on databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980)
+#### [Practicing DevOps on databases](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=1)** - [Instructor] In many development workflows, the database comes as an afterthought, but the database can be one of the most critical parts of an application when it comes to reliability and performance.
 >
-> **[0:12](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=12)** Let's look at a few parts of the DevOps life cycle and see how we can give databases the attention they deserve.
+> **[0:12](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=12)** Let's look at a few parts of the [[DevOps]] life cycle and see how we can give [[Databases]] the attention they deserve.
 >
 > **[0:20](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=20)** We can start in the planning stage by including database administrators and database specialists as early as possible.
 >
@@ -905,7 +891,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=43)** That will give us the confidence we need to move ahead to the coding stage.
 >
-> **[0:49](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=49)** Just like so many other resources, database servers can be created using code with tools like Terraform, CloudFormation and others.
+> **[0:49](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=49)** Just like so many other resources, database servers can be created using code with tools like [[Terraform]], CloudFormation and others.
 >
 > **[0:57](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=57)** And once database servers are in place, any configuration they need can also be written as code.
 >
@@ -919,7 +905,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=97)** This will help make sure your tests are as realistic as possible.
 >
-> **[1:41](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=101)** You'll also want to use load testing to optimize database performance.
+> **[1:41](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=101)** You'll also want to use [[Load Testing]] to optimize database performance.
 >
 > **[1:45](https://www.linkedin.com/learning/devops-tips/practicing-devops-on-databases?u=76281980&t=105)** There's nothing worse than having what you think is a highly tuned application turn into a brick because your database can't hold up under stress.
 >
@@ -937,7 +923,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (13), [[DevOps]] (5), [[Databases]] (5), application (4), data (3)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[Databases]] (5), [[Terraform]] (1), [[Load Testing]] (1)
 > **CLI Commands:** make (2), terraform (1)
 > **Cross-References:** in the next (1), in the last (1)
 > **Env Vars:** apm (1)
@@ -950,12 +936,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Starting a DevOps career from scratch
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
+#### [Starting a DevOps career from scratch](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980&t=1)** - [Narrator] For those of us that started in software development or systems administration years ago, making the transition to DevOps has been an easy one.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980&t=1)** - [Narrator] For those of us that started in [[Software Development]] or systems administration years ago, making the transition to [[DevOps]] has been an easy one.
 >
 > **[0:11](https://www.linkedin.com/learning/devops-tips/starting-a-devops-career-from-scratch?u=76281980&t=11)** But for folks that are just getting started in their careers, getting into a DevOps role can be a challenge.
 >
@@ -1001,19 +986,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), career (2), next (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Software Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** in other words (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [narrator] (1)
 
-#### Exploring developer roadmaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/exploring-developer-roadmaps?u=76281980)
+#### [Exploring developer roadmaps](https://www.linkedin.com/learning/devops-tips/exploring-developer-roadmaps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/exploring-developer-roadmaps?u=76281980&t=1)** - [Instructor] When people ask me, "What should I study to become a software developer "or a DevOps engineer?"
+> **[0:01](https://www.linkedin.com/learning/devops-tips/exploring-developer-roadmaps?u=76281980&t=1)** - [Instructor] When people ask me, "What should I study to become a software developer "or a [[DevOps]] engineer?"
 >
 > **[0:06](https://www.linkedin.com/learning/devops-tips/exploring-developer-roadmaps?u=76281980&t=6)** One tool I share over and over again is the Developer Roadmaps website.
 >
@@ -1045,17 +1029,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (2), front-end (1)
+> **Frameworks & Libraries:** [[DevOps]] (2)
 > **File Paths:** roadmap.sh (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### A deep dive into the DevOps roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980)
+#### [A deep dive into the DevOps roadmap](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=1)** - [Narrator] The DevOps Roadmap offers an opinionated path to learning the skills needed for a career as a DevOps practitioner.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=1)** - [Narrator] The [[DevOps]] Roadmap offers an opinionated path to learning the skills needed for a career as a DevOps practitioner.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=8)** If you're following along, you can find the document at roadmap.sh/devops.
 >
@@ -1069,15 +1052,15 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=33)** The insights that come from knowing how to work with software and operating systems really come in handy when you're working with applications and the servers running those applications.
 >
-> **[0:43](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=43)** For programming Go is the recommended language, but Python, Ruby and Node.js are also good options.
+> **[0:43](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=43)** For programming Go is the recommended language, but [[Python (Programming Language)|Python]], Ruby and [[Node.js]] are also good options.
 >
-> **[0:51](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=51)** And Linux is the clear choice in server management.
+> **[0:51](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=51)** And [[Linux]] is the clear choice in server management.
 >
-> **[0:54](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=54)** With the recommended distributions being Ubuntu, CentOS, Red Hat.
+> **[0:54](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=54)** With the recommended distributions being [[Ubuntu]], CentOS, Red Hat.
 >
 > **[0:59](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=59)** This section also emphasizes learning Bash scripting, which is a great skill to have when it comes to automating processes at the system level.
 >
-> **[1:09](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=69)** As we ease on down the road, we reached the section of the path that introduces networking protocols and the services that use them like web servers, proxies and load balancers.
+> **[1:09](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=69)** As we ease on down the road, we reached the section of the path that introduces networking protocols and the services that use them like [[Web Servers]], proxies and load balancers.
 >
 > **[1:20](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=80)** With networking being such a big part of the way our world is connected, knowing HTTP, SSL and other protocols will be useful in deploying services.
 >
@@ -1087,19 +1070,19 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=100)** Coming around the bend from services, we land into the concepts and tools that are central to practicing DevOps and site reliability.
 >
-> **[1:48](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=108)** Infrastructure as code, CI/CD and Monitoring.
+> **[1:48](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=108)** [[Infrastructure as code (IaC)|Infrastructure as code]], CI/CD and Monitoring.
 >
 > **[1:53](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=113)** And of course every modern DevOps journey includes a visit to at least one Cloud provider.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=118)** Terraform is the clear leader for working with Infrastructure as code, and with containers in this category, Kubernetes and Docker are key to working with container orchestration.
+> **[1:58](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=118)** [[Terraform]] is the clear leader for working with Infrastructure as code, and with containers in this category, [[Kubernetes]] and Docker are key to working with container orchestration.
 >
-> **[2:09](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=129)** I'll be honest, CI/CD is one of my favorite places on this journey because it involves working with tools like Jenkins, GitHub Actions and GitLab CI.
+> **[2:09](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=129)** I'll be honest, CI/CD is one of my favorite places on this journey because it involves working with tools like [[Jenkins]], [[GitHub]] Actions and GitLab CI.
 >
 > **[2:19](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=139)** And when it comes to site reliability Monitoring is important, so we turn to tools like New Relic, Datadog and Prometheus.
 >
 > **[2:28](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=148)** And like I said, no DevOps journey is complete without walking in the clouds.
 >
-> **[2:33](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=153)** AWS is one of the most popular cloud services for DevOps practitioners, but Google Cloud and Microsoft Azure are both viable cloud platforms to learn as well.
+> **[2:33](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=153)** AWS is one of the most popular [[Cloud Services]] for DevOps practitioners, but [[Google Cloud Platform (GCP)|Google Cloud]] and [[Microsoft Azure]] are both viable cloud platforms to learn as well.
 >
 > **[2:45](https://www.linkedin.com/learning/devops-tips/a-deep-dive-into-the-devops-roadmap?u=76281980&t=165)** There's a lot of information on this roadmap and I promise you, your path will not follow directly from top to bottom.
 >
@@ -1117,7 +1100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (9), cloud (4), ci (3), [[Programming]] (2), management (2)
+> **Frameworks & Libraries:** [[DevOps]] (9), [[Linux]] (2), [[Web Servers]] (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (2), cd (2), python (1), ruby (1), node (1)
 > **Env Vars:** http (1), ssl (1), nginx (1), aws (1)
 > **Tools:** bash (1), github (1), gitlab (1)
@@ -1126,12 +1109,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### To certify or not to certify
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/to-certify-or-not-to-certify?u=76281980)
+#### [To certify or not to certify](https://www.linkedin.com/learning/devops-tips/to-certify-or-not-to-certify?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/to-certify-or-not-to-certify?u=76281980&t=1)** - [Narrator] As people become more engaged with DevOps tools and services, they come across certifications.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/to-certify-or-not-to-certify?u=76281980&t=1)** - [Narrator] As people become more engaged with [[DevOps Tools]] and services, they come across certifications.
 >
 > **[0:08](https://www.linkedin.com/learning/devops-tips/to-certify-or-not-to-certify?u=76281980&t=8)** These certifications are credentials that attest to a certain level of mastery or understanding.
 >
@@ -1173,18 +1155,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), [[DevOps Tools]] (1), cloud (1)
+> **Frameworks & Libraries:** [[DevOps Tools]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Keeping up with the DevOps industry
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980)
+#### [Keeping up with the DevOps industry](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=1)** - [Instructor] When it comes to getting updates on the latest devops news, email and social outlets like Facebook and Twitter are just as popular as ever.
+> **[0:01](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=1)** - [Instructor] When it comes to getting updates on the latest [[DevOps]] news, email and social outlets like Facebook and Twitter are just as popular as ever.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=9)** But I do find that these methods can lose their effect over time.
 >
@@ -1210,7 +1191,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=79)** I especially like listening to podcasts produced by cloud providers.
 >
-> **[1:24](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=84)** I like the way they share new features, product updates, and interviews with customers using their products to solve real problems.
+> **[1:24](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=84)** I like the way they share new features, product updates, and interviews with customers using their [[Microsoft Products|products]] to solve real problems.
 >
 > **[1:32](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=92)** All of the major cloud providers have their own podcasts and there are dozens of other podcasts covering the devops industry.
 >
@@ -1218,9 +1199,9 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=105)** During live streams, engineers and programmers demonstrate their skills during live coding sessions.
 >
-> **[1:52](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=112)** What's really cool is that Twitch makes these real-time sessions interactive through a chat interface.
+> **[1:52](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=112)** What's really cool is that Twitch makes these [[Real-Time]] sessions interactive through a chat interface.
 >
-> **[1:58](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=118)** One of my favorite Twitch streams is produced by Amazon Web Services.
+> **[1:58](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=118)** One of my favorite Twitch streams is produced by [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[2:02](https://www.linkedin.com/learning/devops-tips/keeping-up-with-the-devops-industry?u=76281980&t=122)** I'm really hooked on the live demonstrations showing new and innovative ways to use the AWS cloud platform.
 >
@@ -1228,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevOps]] (4), cloud (3), product (1), [[Microsoft Products|Products]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[DevOps]] (4), [[Microsoft Products|Products]] (1), [[Real-Time]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **CLI Commands:** find (2), aws (1)
 > **Env Vars:** rss (2), aws (1)
 > **Speakers:** - [instructor] (1)
@@ -1238,14 +1219,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### One last tip
-> [LinkedIn Learning](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)
+#### [One last tip](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=1)** - [Instructor] Thanks for joining me in this course.
 >
-> **[0:03](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=3)** I sincerely hope that these tips will be beneficial to you and your DevOps journey.
+> **[0:03](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=3)** I sincerely hope that these tips will be beneficial to you and your [[DevOps]] journey.
 >
 > **[0:09](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=9)** Before you go, there's one last tip I want to share.
 >
@@ -1255,7 +1235,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=22)** Use your skills as a DevOps practitioner to learn more about these options so you can lead the way for your team.
 >
-> **[0:29](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=29)** And as always, there are dozens of courses here in the LinkedIn learning library that you can use every step of the way.
+> **[0:29](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=29)** And as always, there are dozens of courses here in the [[LinkedIn]] learning library that you can use every step of the way.
 >
 > **[0:37](https://www.linkedin.com/learning/devops-tips/one-last-tip?u=76281980&t=37)** Thanks again.
 

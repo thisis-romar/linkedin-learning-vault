@@ -116,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear regression for machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980)
+#### [Linear regression for machine learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -131,7 +130,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980&t=22)** We're going to have a real focus on concepts.
 >
-> **[0:24](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980&t=24)** Even though we'll be using SPSS Statistics throughout, I hope that if you're a user of R or SaaS or some other tool, that you'll benefit greatly from a thorough review of the basics.
+> **[0:24](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980&t=24)** Even though we'll be using SPSS [[Statistics]] throughout, I hope that if you're a user of R or [[SaaS]] or some other tool, that you'll benefit greatly from a thorough review of the basics.
 >
 > **[0:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/linear-regression-for-machine-learning?u=76281980&t=36)** I hope you enjoy the course.
 
@@ -141,14 +140,13 @@ created: 2026-05-02
 > **Env Vars:** spss (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980&t=0)** - [Instructor] What should you know to get the most value out of this course?
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980&t=6)** Well, we're gonna be working inside the IBM SPSS Statistics package.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980&t=6)** Well, we're gonna be working inside the [[IBM SPSS]] [[Statistics]] package.
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-you-should-know?u=76281980&t=11)** So, you're gonna wanna make sure you have access to it.
 >
@@ -188,17 +186,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (4), data (2), [[IBM SPSS]] (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (4), [[IBM SPSS]] (1)
 > **Env Vars:** spss (3), ibm (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/using-the-exercise-files?u=76281980&t=0)** - [Narrator] Every statistical tool out there has an ability to do linear regression, but I've done all of the demonstrations in IBM SPSS Statistics.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/using-the-exercise-files?u=76281980&t=0)** - [Narrator] Every statistical tool out there has an ability to do [[Linear Regression]], but I've done all of the demonstrations in [[IBM SPSS]] [[Statistics]].
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/using-the-exercise-files?u=76281980&t=10)** So I encourage you to download the trial and work along with me.
 >
@@ -218,7 +215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (2), [[Linear Regression]] (1), [[IBM SPSS]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linear Regression]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), pdf (3), ibm (1), sas (1)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** you'll need (1)
@@ -229,18 +226,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building effective scatter plots in Chart Builder
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980)
+#### [Building effective scatter plots in Chart Builder](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=0)** - [Instructor] Okay, let's get started by talking about scatter plots.
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=3)** Our broader subject is simple linear regression, which is the prediction of one scale variable with one other variable, and there's no better way to do that than scatter plots.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=3)** Our broader subject is simple [[Linear Regression]], which is the prediction of one scale variable with one other variable, and there's no better way to do that than scatter plots.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=15)** So, in our resources folder, there is a file called Auto MPG Modified, and we can just simply double-click on that, and that's gonna launch SPSS.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=26)** And you'll notice as it's loading, that it says IBM SPSS Statistics Subscription.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=26)** And you'll notice as it's loading, that it says [[IBM SPSS]] [[Statistics]] Subscription.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/building-effective-scatter-plots-in-chart-builder?u=76281980&t=32)** IBM started offering the subscription with version 25, but everything I'm gonna be showing you would apply with any recent version.
 >
@@ -376,7 +372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (2), [[Linear Regression]] (1), [[IBM SPSS]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[IBM SPSS]] (1), [[Statistics]] (1)
 > **Env Vars:** spss (3), mpg (2), ibm (2), usa (2), uci (1)
 > **UI Navigation:** double-click (4), go to (3), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -385,8 +381,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** warning (1)
 
-#### Adding labels and spikes to a scatter plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980)
+#### [Adding labels and spikes to a scatter plot](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -406,13 +401,13 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980&t=145)** See how helpful that is visually, because now I can see that the line really fits, Honda and Chevy and Mitsubishi quite well, Volkswagen a little bit less, but look at Jaguar and Mercedes-Benz, I can really see quite easily now by eye, that it doesn't fit that as well.
 >
-> **[2:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980&t=172)** If I were a subject matter expert in these brands I may even be able to imagine some of the reasons why those, data points are somewhat off the regression line and perhaps if I was building a model that was more complicated than simple linear regression, I could start to contemplate what other variables that I could bring into my model, to better explain these data points.
+> **[2:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980&t=172)** If I were a subject matter expert in these brands I may even be able to imagine some of the reasons why those, data points are somewhat off the regression line and perhaps if I was building a model that was more complicated than simple [[Linear Regression]], I could start to contemplate what other variables that I could bring into my model, to better explain these data points.
 >
 > **[3:17](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/adding-labels-and-spikes-to-a-scatter-plot?u=76281980&t=197)** So labels and spikes can be a fantastic way to visualize your simple linear regression model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Linear Regression]] (2), feature (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2)
 > **UI Navigation:** click on (2), switch to (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -420,8 +415,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a 3D scatter plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/create-a-3d-scatter-plot-22614687?u=76281980)
+#### [Create a 3D scatter plot](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/create-a-3d-scatter-plot-22614687?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -489,13 +483,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), next (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** click on (3)
 > **Speakers:** - [instructor] (1)
 
-#### Create a bubble chart
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/create-a-bubble-chart?u=76281980)
+#### [Create a bubble chart](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/create-a-bubble-chart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -575,7 +567,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **UI Navigation:** click on (3), scroll down (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** spss (3)
@@ -583,8 +574,7 @@ created: 2026-05-02
 > **Versions:** version 29 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Residuals and R2
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980)
+#### [Residuals and R2](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -600,11 +590,11 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=52)** So there you go, this line tries to be as close to those data points as possible.
 >
-> **[0:57](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=57)** Now of course, when one is talking about multiple regression this becomes very conceptual and it's hard to picture, but when we're talking about simple linear regression as we are now you really can visualize it if you simply display it in a scatter plot.
+> **[0:57](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=57)** Now of course, when one is talking about multiple regression this becomes very conceptual and it's hard to picture, but when we're talking about simple [[Linear Regression]] as we are now you really can visualize it if you simply display it in a scatter plot.
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=74)** So I'm gonna make what I hope to be a straightforward claim.
 >
-> **[1:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=79)** The total variance in our data set, and you can think of variance the way we define it in statistics if you're familiar with that, and if you're not, I'm simply talking about variation or perhaps you'd rather think of it as noise.
+> **[1:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=79)** The total variance in our data set, and you can think of variance the way we define it in [[Statistics]] if you're familiar with that, and if you're not, I'm simply talking about variation or perhaps you'd rather think of it as noise.
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/residuals-and-r2?u=76281980&t=92)** So my claim is that the total variance in the data set is equal to the variance that we manage to explain with our regression line plus the variance that we fail to explain with our regression line, what I'm calling here the variance unexplained.
 >
@@ -646,13 +636,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Linear Regression]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Statistics]] (1)
 > **Analogies:** picture (3), think of it as (1), imagine (1)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating and interpreting regression coefficients
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980)
+#### [Calculating and interpreting regression coefficients](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -698,9 +687,9 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=102)** The R here is simply the correlation between our dependent and independent variable.
 >
-> **[1:48](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=108)** Sometimes, you'll see that labeled or discussed as a multiple R, but there's nothing multiple here because we're doing simple linear regression.
+> **[1:48](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=108)** Sometimes, you'll see that labeled or discussed as a multiple R, but there's nothing multiple here because we're doing simple [[Linear Regression]].
 >
-> **[1:57](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=117)** So that R is the same as the correlation that you may have heard of in other discussions of statistics.
+> **[1:57](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=117)** So that R is the same as the correlation that you may have heard of in other discussions of [[Statistics]].
 >
 > **[2:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/calculating-and-interpreting-regression-coefficients?u=76281980&t=125)** We're gonna focus on regression, nor correlation, but it's very foundational that you're comfortable with correlations.
 >
@@ -802,7 +791,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (2), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Linear Regression]] (1)
 > **UI Navigation:** right-click (2), double-click (1), click on (1), scroll down (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** spss (3)
@@ -816,14 +805,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenges and assumptions of multiple regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980)
+#### [Challenges and assumptions of multiple regression](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980&t=3)** - [Instructor] Okay, now we've arrived at a terribly important topic.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980&t=7)** It can come off as a bit technical, but we really wanna do this thoroughly, so we're about to talk about multiple linear regression.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980&t=7)** It can come off as a bit technical, but we really wanna do this thoroughly, so we're about to talk about multiple [[Linear Regression]].
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/challenges-and-assumptions-of-multiple-regression?u=76281980&t=17)** Quite simply, that's when you have one dependent variable, but multiple independent variables.
 >
@@ -951,7 +939,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Linear Regression]] (3)
+> **Frameworks & Libraries:** [[Linear Regression]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Env Vars:** spss (2)
@@ -960,8 +948,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 
-#### Checking assumptions visually
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-visually?u=76281980)
+#### [Checking assumptions visually](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-visually?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1151,7 +1138,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16)
 > **UI Navigation:** click on (1), go to (1), scroll up (1), scroll down (1)
 > **Analogies:** imagine (2), for instance (1)
 > **Env Vars:** spss (2)
@@ -1159,19 +1145,19 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Versions:** 3.4 (1)
 > **Exercise Files:** template (1)
+> **Definitions:** is called (1)
 
-#### Checking assumptions with Explore
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980)
+#### [Checking assumptions with Explore](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=0)** - [Instructor] Okay, we're gonna explore the waste data set through the lens of the explore procedure.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=7)** So I'm gonna go here in the menus to analyze, descriptive statistics, explore.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=7)** So I'm gonna go here in the menus to analyze, descriptive [[Statistics]], explore.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=14)** Many years ago, way back in the 70s, a famous book was written.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=20)** I don't recommend that you actually seek out the book because it's too old now, but in the late 70s there was a book written called Exploratory Data Analysis, by a very influential statistician by the name of John Tookey.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=20)** I don't recommend that you actually seek out the book because it's too old now, but in the late 70s there was a book written called Exploratory Data Analysis, by a very influential statistician by the name of [[John the Ripper|John]] Tookey.
 >
 > **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-with-explore?u=76281980&t=32)** The explore procedure literally does the kinds of things that were recommended by Tookey in that very famous book.
 >
@@ -1355,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (2), next (2), hit (2), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[John the Ripper|John]] (1)
 > **Definitions:** is a  (4), means that (2)
 > **Versions:** 0.0 (2), 70.5 (1), 3.9 (1), 2.6 (1)
 > **CLI Commands:** find (3)
@@ -1364,8 +1350,7 @@ created: 2026-05-02
 > **Env Vars:** spss (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking assumptions: Durbin-Watson
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980)
+#### [Checking assumptions: Durbin-Watson](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,13 +1366,13 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=24)** We're just gonna make waste our dependent and restaurants our independent, and we're gonna focus only on Durbin-Watson.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=32)** So if we go over to Statistics, we can check off Durbin-Watson.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=32)** So if we go over to [[Statistics]], we can check off Durbin-Watson.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=37)** But let me show you something before we continue.
 >
 > **[0:41](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=41)** If you click on the question mark here within the menu, you'll get online help that's only for this menu.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=51)** That's prevents you from having to worry about what key word should I choose to get the right help.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=51)** That's prevents you from having to worry about what key [[Microsoft Word|word]] should I choose to get the right help.
 >
 > **[0:56](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-durbin-watson?u=76281980&t=56)** And sure enough, there's a little paragraph, granted a bit brief, on what the Durbin-Watson test is all about.
 >
@@ -1415,7 +1400,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3)
 > **Env Vars:** spss (2)
 > **Definitions:** is a  (2)
@@ -1423,8 +1408,7 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [narrator] (1)
 
-#### Checking assumptions: Levine's test
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980)
+#### [Checking assumptions: Levine's test](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1436,7 +1420,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980&t=15)** It's not specific to regression by the way, there might be all kinds of reasons why you might check for normality so it's not found in the regression menu but it's very useful for this purpose.
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980&t=26)** So we're going to go to Analyze, Descriptive Statistics, Explore, but we're going to go to Plots and we're going to check normality plots with tests, that's going to give us our Lavines test.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980&t=26)** So we're going to go to Analyze, Descriptive [[Statistics]], Explore, but we're going to go to Plots and we're going to check normality plots with tests, that's going to give us our Lavines test.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-levine-s-test?u=76281980&t=43)** So we're going to click on Continue.
 >
@@ -1480,7 +1464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Definitions:** means that (2), is a  (1), is an  (1), stands for (1)
 > **UI Navigation:** go to (2), click on (2)
 > **Env Vars:** spss (2)
@@ -1489,8 +1473,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking assumptions: Correlation matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980)
+#### [Checking assumptions: Correlation matrix](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1516,7 +1499,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980&t=62)** Let's first start by looking at the column for waste.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980&t=67)** Now we really would have this information at this point, but these correlations, if we square them, is gonna give us a notion, in fact it's really quite precise, of what the R squared would be if we built these simple linear regression models one at a time.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980&t=67)** Now we really would have this information at this point, but these correlations, if we square them, is gonna give us a notion, in fact it's really quite precise, of what the R squared would be if we built these simple [[Linear Regression]] models one at a time.
 >
 > **[1:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-correlation-matrix?u=76281980&t=86)** So what do we observe?
 >
@@ -1585,8 +1568,7 @@ created: 2026-05-02
 > **Definitions:** in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking assumptions: Residuals plot
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-residuals-plot?u=76281980)
+#### [Checking assumptions: Residuals plot](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-residuals-plot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1728,7 +1710,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **Definitions:** is a  (4), means that (2), in other words (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** zresid (1), zpred (1)
@@ -1737,8 +1718,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Checking assumptions: Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980)
+#### [Checking assumptions: Summary](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1768,7 +1748,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=79)** They should show a nice, clean linear relationship.
 >
-> **[1:23](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=83)** Now we know that we're doing linear regression so that we need linear relationships.
+> **[1:23](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=83)** Now we know that we're doing [[Linear Regression]] so that we need linear relationships.
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=87)** Let me remind you what actions you can take about this.
 >
@@ -1808,7 +1788,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=204)** You're gonna find this if every row in your data is in some sequence like stock prices or economic data.
 >
-> **[3:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=212)** If you fail the Durbin-Watson test, this is an indication that maybe what you have to do is kind of do a little homework on time series forecasting, because maybe you've got a data set where time series forecasting is gonna be a better approach than linear regression.
+> **[3:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=212)** If you fail the Durbin-Watson test, this is an indication that maybe what you have to do is kind of do a little homework on time series [[Forecasting]], because maybe you've got a data set where time series forecasting is gonna be a better approach than linear regression.
 >
 > **[3:49](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/checking-assumptions-summary?u=76281980&t=229)** And there you have it.
 >
@@ -1816,7 +1796,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Linear Regression]] (2), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Forecasting]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Warnings:** caution (1), warning (1)
 > **Env Vars:** sps (1)
@@ -1828,8 +1808,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating dummy codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980)
+#### [Creating dummy codes](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1879,7 +1858,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=150)** It's arbitrary, isn't it?
 >
-> **[2:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=151)** We've got clerical, office trainee, security officer, college trainee.
+> **[2:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=151)** We've got clerical, [[Microsoft Office|office]] trainee, security officer, college trainee.
 >
 > **[2:35](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=155)** What would make us believe that the salary gap between each of these jobs in this arbitrary order is $1,700?
 >
@@ -1943,7 +1922,7 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=342)** We have to execute those commands, so I'm gonna click on something in the menu called run pending transformations.
 >
-> **[5:49](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=349)** What I could have done in the syntax window, is write the word execute, okay.
+> **[5:49](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=349)** What I could have done in the syntax window, is write the [[Microsoft Word|word]] execute, okay.
 >
 > **[5:54](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-dummy-codes?u=76281980&t=354)** I don't wanna get too deep into syntax in this video, but we had to get that to run.
 >
@@ -1993,7 +1972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Office|Office]] (2), [[Security]] (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Env Vars:** spss (5), mba (2), cio (1)
 > **UI Navigation:** go to (1), click on (1), in the menu (1)
@@ -2002,8 +1981,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dummy coding with the R extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980)
+#### [Dummy coding with the R extension](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2015,7 +1993,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980&t=22)** It's gonna send us to the internet, and what we're gonna search for is just dummy.
 >
-> **[0:28](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980&t=28)** Just the first word should be sufficient, and there it is.
+> **[0:28](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980&t=28)** Just the first [[Microsoft Word|word]] should be sufficient, and there it is.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dummy-coding-with-the-r-extension?u=76281980&t=31)** So we're gonna go ahead and click on get extension, and okay.
 >
@@ -2053,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), means that (1)
@@ -2061,8 +2039,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting variable interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-variable-interactions?u=76281980)
+#### [Detecting variable interactions](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-variable-interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2166,7 +2143,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), checkbox (1)
 > **Env Vars:** spss (2)
@@ -2174,8 +2150,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating and testing interaction terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-and-testing-interaction-terms?u=76281980)
+#### [Creating and testing interaction terms](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-and-testing-interaction-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2273,7 +2248,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), product (1), parallel (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** click on (2), go to (1)
 > **Cross-References:** go back to (2)
@@ -2287,8 +2261,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Three regression strategies and when to use them
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980)
+#### [Three regression strategies and when to use them](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2330,7 +2303,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980&t=129)** Sometimes in an academic setting, you'll be told in no uncertain terms do not do stepwise.
 >
-> **[2:16](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980&t=136)** However, in a world where data science and predictive analytics and data mining are popular, this is actually very similar to this technique.
+> **[2:16](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980&t=136)** However, in a world where [[Data Science]] and [[Predictive Analytics]] and [[Data Mining]] are popular, this is actually very similar to this technique.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/three-regression-strategies-and-when-to-use-them?u=76281980&t=145)** So stepwise, which is very widely found, it's not found only in SPSS, or things like regression trees or other things associated with predictive analysis are of a very different style.
 >
@@ -2340,15 +2313,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Predictive Analytics]] (1), [[Data Mining]] (1)
 > **Env Vars:** pdf (1), spss (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is called (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding partial correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980)
+#### [Understanding partial correlations](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2362,7 +2334,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980&t=42)** So there you go, our standard correlation, what is sometimes called the zero order correlation, of retail with waste, is about .8, a little bit less, actually, and with restaurants and waste, again, about .8, a tad more than eight.
 >
-> **[1:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980&t=60)** So try to kind of remember those numbers, it will help us put the rest in perspective.
+> **[1:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980&t=60)** So try to kind of remember those numbers, it will help us put the [[Representational State Transfer (REST)|rest]] in perspective.
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-partial-correlations?u=76281980&t=65)** Now we're gonna return to the Correlate menu, but go to Partial, and here's where it gets interesting.
 >
@@ -2424,8 +2396,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding part correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980)
+#### [Understanding part correlations](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2441,7 +2412,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980&t=48)** And we have to do that to be able to request our Delta R Squared.
 >
-> **[0:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980&t=52)** So, we're going to go into Statistics and request Part and partial correlations, as well as R squared change, very frequently called Delta R Squared.
+> **[0:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980&t=52)** So, we're going to go into [[Statistics]] and request Part and partial correlations, as well as R squared change, very frequently called Delta R Squared.
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/understanding-part-correlations?u=76281980&t=65)** We're going to click on Continue.
 >
@@ -2495,13 +2466,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **UI Navigation:** click on (4), scroll down (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualizing part and partial correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980)
+#### [Visualizing part and partial correlations](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2513,7 +2483,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980&t=26)** If I was drawing this or looking at numbers and in order to keep everything the same, I would think of R squared, partial squared, and part squared.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980&t=34)** In that spirit, let's look at some Venn diagrams together and see if we can't get comfortable with the concepts behind these statistics.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980&t=34)** In that spirit, let's look at some Venn diagrams together and see if we can't get comfortable with the concepts behind these [[Statistics]].
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/visualizing-part-and-partial-correlations?u=76281980&t=44)** In the case of R squared, this is the one of course we're probably the most familiar with.
 >
@@ -2599,8 +2569,7 @@ created: 2026-05-02
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Simultaneous regression: Setting up the analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980)
+#### [Simultaneous regression: Setting up the analysis](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2618,7 +2587,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980&t=43)** So since we are approaching this as a simultaneous regression, let's talk about what settings are appropriate for that.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980&t=50)** We're gonna click on the Statistics sub-menu.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980&t=50)** We're gonna click on the [[Statistics]] sub-menu.
 >
 > **[0:54](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-setting-up-the-analysis?u=76281980&t=54)** And we don't need R squared changed, 'cause that's really a hierarchical regression kind of thing.
 >
@@ -2666,26 +2635,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), data (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **Env Vars:** zresid (1), zpred (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Simultaneous regression: Interpreting the output
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980)
+#### [Simultaneous regression: Interpreting the output](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=0)** - [Instructor] Now let's take a look at our simultaneous regression output.
 >
-> **[0:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=5)** Okay, there's a lot of material here, let's start at the very top, and we see Descriptive Statistics.
+> **[0:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=5)** Okay, there's a lot of material here, let's start at the very top, and we see Descriptive [[Statistics]].
 >
 > **[0:11](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=11)** Now of course, we should have thoroughly explored our data before we get this long, but it can be very helpful to have these basic descriptive statistics in the output with us.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=22)** Now remember that our dependent variable is measured in tons whereas all the other variables, the independent variables, are measured in acres.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=32)** And as we scroll down we can see our Pearson Correlations, remember that another word for this is zero-order correlation, later on in the output it's gonna be referred by that name, it's the same number.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=32)** And as we scroll down we can see our Pearson Correlations, remember that another [[Microsoft Word|word]] for this is zero-order correlation, later on in the output it's gonna be referred by that name, it's the same number.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/simultaneous-regression-interpreting-the-output?u=76281980&t=47)** We go further down again and we can see Variables Entered or Removed.
 >
@@ -2793,7 +2761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Statistics]] (3), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** scroll down (4)
 > **Env Vars:** anova (2), spss (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -2802,8 +2770,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical regression: Setting up the analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980)
+#### [Hierarchical regression: Setting up the analysis](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2883,7 +2850,7 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980&t=238)** Remember, centering is an additional step we take to avoid the severe multicollinearity that might occur by having education and education sex together in the model.
 >
-> **[4:09](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980&t=249)** Now we're gonna go to Statistics and see what additional options we need.
+> **[4:09](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980&t=249)** Now we're gonna go to [[Statistics]] and see what additional options we need.
 >
 > **[4:13](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-setting-up-the-analysis?u=76281980&t=253)** Remember, we're doing hierarchical, so we're gonna request R squared change.
 >
@@ -2911,7 +2878,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (3), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **UI Navigation:** click on (5), go to (3)
 > **Code Identifiers:** ed_sex (2), clerical_yn (1), ot_yn (1), educ_cen (1)
 > **Definitions:** is called (1), means that (1), in other words (1), is an  (1)
@@ -2919,8 +2886,7 @@ created: 2026-05-02
 > **Env Vars:** zresid (1), zpred (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hierarchical regression: Interpreting the output
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-interpreting-the-output?u=76281980)
+#### [Hierarchical regression: Interpreting the output](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/hierarchical-regression-interpreting-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3058,7 +3024,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1)
 > **CLI Commands:** cat (2), make (1), find (1)
 > **Env Vars:** anova (1)
 > **Versions:** 1.9 (1)
@@ -3066,20 +3031,19 @@ created: 2026-05-02
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a train-test partition in SPSS
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980)
+#### [Creating a train-test partition in SPSS](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=0)** - [Instructor] We're going to talk about an important concept that comes from the world of predictive analytics.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=0)** - [Instructor] We're going to talk about an important concept that comes from the world of [[Predictive Analytics]].
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=6)** When you're using an exploratory technique, you really need some very strong, concrete evidence that the model that you've built is going to work on unseen data.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=17)** And the way that we do that, when we're using an exploratory technique, techniques that you might hear called data mining or, again, predictive analytics, we use a somewhat different approach than we do in regular statistics.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=17)** And the way that we do that, when we're using an exploratory technique, techniques that you might hear called [[Data Mining]] or, again, predictive analytics, we use a somewhat different approach than we do in regular [[Statistics]].
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=30)** So if you've learned statistics in an academic setting, then this concept might be new to you.
 >
-> **[0:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=36)** But if you've done machine learning or neural networks or those kinds of things, you almost certainly have encountered this.
+> **[0:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=36)** But if you've done machine learning or [[Neural Networks]] or those kinds of things, you almost certainly have encountered this.
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/creating-a-train-test-partition-in-spss?u=76281980&t=42)** So, again, it's called train test partitioning or holdout partition.
 >
@@ -3171,15 +3135,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[Statistics]] (3), [[Predictive Analytics]] (2), [[Neural Networks]] (1), database (1)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Predictive Analytics]] (2), [[Data Mining]] (1), [[Neural Networks]] (1)
 > **UI Navigation:** scroll down (2), go to (2), click on (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** spss (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stepwise regression: Setting up the analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980)
+#### [Stepwise regression: Setting up the analysis](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3211,7 +3174,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980&t=76)** That means that we're gonna build the model on just 80% of our data and check our work against the other 20%.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980&t=82)** That's a terribly important step because we're essentially doing data mining or predictive analytics, whatever term is your favorite term for this activity, we are not really testing hypothesis right now.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980&t=82)** That's a terribly important step because we're essentially doing [[Data Mining]] or [[Predictive Analytics]], whatever term is your favorite term for this activity, we are not really testing hypothesis right now.
 >
 > **[1:34](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-setting-up-the-analysis?u=76281980&t=94)** We are exploring these patterns and trying to come up with a predictive model.
 >
@@ -3245,7 +3208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (3), web (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Predictive Analytics]] (1)
 > **Cross-References:** in the next (3)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** click on (1)
@@ -3253,8 +3216,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stepwise regression: Interpreting the output
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-interpreting-the-output?u=76281980)
+#### [Stepwise regression: Interpreting the output](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/stepwise-regression-interpreting-the-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3334,7 +3296,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Env Vars:** spss (2), anova (1)
 > **Tools:** notion (1)
 > **UI Navigation:** go to (1)
@@ -3345,8 +3306,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Collinearity diagnostics
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980)
+#### [Collinearity diagnostics](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3354,7 +3314,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980&t=7)** It's time for us to formally request multicollinearity diagnostics and take a look, so I'm going to go to analyze, regression, linear, and I'm gonna declare waste tons as my dependent, and all of the variables as my independent.
 >
-> **[0:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980&t=27)** Now, I'm going to go into the statistics sub-menu, and request collinearity diagnostics as well as part and partial correlations.
+> **[0:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980&t=27)** Now, I'm going to go into the [[Statistics]] sub-menu, and request collinearity diagnostics as well as part and partial correlations.
 >
 > **[0:38](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/collinearity-diagnostics?u=76281980&t=38)** I don't need R squared change because I'm not doing hierarchical.
 >
@@ -3478,7 +3438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Statistics]] (1), web (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **Env Vars:** vif (4), spss (1)
 > **UI Navigation:** go to (2), click on (2), open the (1)
 > **Definitions:** means that (2), stands for (1), is a  (1)
@@ -3487,8 +3447,7 @@ created: 2026-05-02
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with multicollinearity: Factor analysis/PCA
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-multicollinearity-factor-analysis-pca?u=76281980)
+#### [Dealing with multicollinearity: Factor analysis/PCA](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-multicollinearity-factor-analysis-pca?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3586,15 +3545,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), strengths (1), management (1)
 > **UI Navigation:** click on (5), go to (4)
 > **Definitions:** is a  (3), is an  (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** vif (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dealing with multicollinearity: Manually combine IVs
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-multicollinearity-manually-combine-ivs?u=76281980)
+#### [Dealing with multicollinearity: Manually combine IVs](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-multicollinearity-manually-combine-ivs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3666,7 +3623,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** retail_restaurants (1)
@@ -3674,8 +3630,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diagnosing outliers and influential points
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980)
+#### [Diagnosing outliers and influential points](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3699,7 +3654,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980&t=52)** In order to not be overwhelmed by this, I want you to think of these as falling into three categories, and not everything in this sub-menu is related to residuals and influential points.
 >
-> **[1:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980&t=65)** The three areas that are are the ones labeled distances, residuals, and influence statistics.
+> **[1:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980&t=65)** The three areas that are are the ones labeled distances, residuals, and influence [[Statistics]].
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/diagnosing-outliers-and-influential-points?u=76281980&t=74)** Now, if you go into the help, you will find a sentence or two on all of these, but again, I want you to be focused on the three kinds of diagnostics, and let's talk about them one by one.
 >
@@ -3821,7 +3776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Statistics]] (2), data (1)
+> **Frameworks & Libraries:** [[Statistics]] (2)
 > **Env Vars:** spss (2), coo_1 (1), dff (1)
 > **UI Navigation:** click on (2), go to (1), right-click (1)
 > **Definitions:** is an  (1), stands for (1), is a  (1), means that (1)
@@ -3830,8 +3785,7 @@ created: 2026-05-02
 > **Versions:** 28.6 (1)
 > **Cross-References:** in the next (1)
 
-#### Dealing with outliers: Studentized deleted residuals
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980)
+#### [Dealing with outliers: Studentized deleted residuals](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3859,7 +3813,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=53)** So, the whole idea of this studentized deleted residual, in the case of this first instance which is a male employee whose beginning salary is about $32,000 we get a studentized deleted residual of just over ten.
 >
-> **[1:10](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=70)** That's actually the same value that we would get if we ran a T-test that compared this 1 case to the rest of the cases.
+> **[1:10](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=70)** That's actually the same value that we would get if we ran a T-test that compared this 1 case to the [[Representational State Transfer (REST)|rest]] of the cases.
 >
 > **[1:20](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=80)** Well gosh, why would we do such a thing?
 >
@@ -3907,7 +3861,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=206)** This number right here is the same number that was generated by the studentized deleted residual.
 >
-> **[3:33](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=213)** Now, if you've ever had to learn statistics in the kind of old-school way in which you look up the values in the special tables in the back of the book.
+> **[3:33](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=213)** Now, if you've ever had to learn [[Statistics]] in the kind of old-school way in which you look up the values in the special tables in the back of the book.
 >
 > **[3:45](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-studentized-deleted-residuals?u=76281980&t=225)** In other words, a physical book in your hands, and you're flipping through the pages and you have to look it up, if you've ever had that experience, you may have had to go into the t-tables and check to see if a value like this 10.148 is large enough to be statistically significant.
 >
@@ -3943,7 +3897,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), web (1), [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1), power (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Statistics]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Cross-References:** in the last (1), go back to (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -3952,8 +3906,7 @@ created: 2026-05-02
 > **Versions:** 10.148 (1)
 > **Speakers:** - [narrator] (1)
 
-#### Dealing with outliers: Should cases be removed?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980)
+#### [Dealing with outliers: Should cases be removed?](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4037,7 +3990,7 @@ created: 2026-05-02
 >
 > **[4:43](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980&t=283)** So let me explain how you would think through this.
 >
-> **[4:46](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980&t=286)** I was on a project once that was looking at banking data, and one member of the group and I were frustrating each other quite a bit, because we had different points of view.
+> **[4:46](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980&t=286)** I was on a project once that was looking at [[Banking]] data, and one member of the group and I were frustrating each other quite a bit, because we had different points of view.
 >
 > **[4:56](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/dealing-with-outliers-should-cases-be-removed?u=76281980&t=296)** What was happening is we were looking at the number of times that a case checked their back balance in a month.
 >
@@ -4079,7 +4032,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (2), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **Analogies:** imagine (1), for instance (1), just like (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **CLI Commands:** find (1)
@@ -4088,12 +4041,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detecting curvilinearity
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980)
+#### [Detecting curvilinearity](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=0)** - [Instructor] When you're doing multiple linear regression obviously we're told that we have to have linear relationships, but we will often come across curvilinear relationships, and you have to know how to diagnose it and what you might be able to do as a corrective action when you do encounter it.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=0)** - [Instructor] When you're doing multiple [[Linear Regression]] obviously we're told that we have to have linear relationships, but we will often come across curvilinear relationships, and you have to know how to diagnose it and what you might be able to do as a corrective action when you do encounter it.
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=20)** So let's take a look.
 >
@@ -4141,7 +4093,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=135)** Notice for instance there are some negative implications of hauling out a quadratic relationship when perhaps you don't really need one.
 >
-> **[2:25](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=145)** For instance, we are gonna be forecasting a higher salary for adult employees at the bank with eighth grade educations as opposed to adult employees of the bank with ninth grade educations.
+> **[2:25](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=145)** For instance, we are gonna be [[Forecasting]] a higher salary for adult employees at the bank with eighth grade educations as opposed to adult employees of the bank with ninth grade educations.
 >
 > **[2:39](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/detecting-curvilinearity?u=76281980&t=159)** It actually dips up on the far left hand side.
 >
@@ -4205,7 +4157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Linear Regression]] (1), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1), [[Forecasting]] (1)
 > **UI Navigation:** click on (2), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (2)
@@ -4219,12 +4171,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Regression options
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980)
+#### [Regression options](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=0)** - [Instructor] A software package like SPSS Statistics has so many options for doing so many things that it can be a bit intimidating.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=0)** - [Instructor] A software package like SPSS [[Statistics]] has so many options for doing so many things that it can be a bit intimidating.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=8)** In fact, even someone like myself, that's been using SPSS for 25 years, is always finding new menu choices and new menu options with each release.
 >
@@ -4238,7 +4189,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=49)** I'll be demonstrating it in its own video.
 >
-> **[0:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=51)** Also, decision trees is perhaps the most important topic that falls under what we normally call predictive analytics these days.
+> **[0:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=51)** Also, [[Decision Trees]] is perhaps the most important topic that falls under what we normally call [[Predictive Analytics]] these days.
 >
 > **[1:01](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=61)** Now, there's a technique called classification and regression trees.
 >
@@ -4252,7 +4203,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=91)** CART has been around for a couple of decades now and is found in pretty much every statistical package that you could do, including things like R and SAS and so on.
 >
-> **[1:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=102)** Time series forecasting is something that occasionally gets mixed up with regression.
+> **[1:42](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=102)** Time series [[Forecasting]] is something that occasionally gets mixed up with regression.
 >
 > **[1:49](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=109)** It's not that they're similar approaches, but we can sometimes apply either approach to the same data.
 >
@@ -4264,9 +4215,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=147)** I'll be showing this to you as well.
 >
-> **[2:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=150)** Neural networks are a really hot topic right now.
+> **[2:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=150)** [[Neural Networks]] are a really hot topic right now.
 >
-> **[2:33](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=153)** In particular, people are talking about deep learning.
+> **[2:33](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=153)** In particular, people are talking about [[Deep Learning]].
 >
 > **[2:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=156)** All deep learning really is is a large complex neural network.
 >
@@ -4276,7 +4227,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=178)** But SPSS has capabilities beyond what we're gonna get a chance to see in this course.
 >
-> **[3:04](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=184)** One really big but important topic is binary logistic regression, and what makes it different is the nature of the dependent variable.
+> **[3:04](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=184)** One really big but important topic is binary [[Logistic Regression]], and what makes it different is the nature of the dependent variable.
 >
 > **[3:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-options?u=76281980&t=194)** One uses binary logistic regression when the dependent variable is a zero, one variable, will get heart disease, won't get heart disease, and so on.
 >
@@ -4316,19 +4267,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (3), [[Logistic Regression]] (3), data (2), [[Neural Networks]] (2), [[Deep Learning]] (2)
+> **Frameworks & Libraries:** [[Statistics]] (3), [[Logistic Regression]] (3), [[Neural Networks]] (2), [[Deep Learning]] (2), [[Decision Trees]] (1)
 > **Env Vars:** spss (7), cart (3), sas (1)
 > **Definitions:** is a  (6)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic linear modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980)
+#### [Automatic linear modeling](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=0)** - [Instructor] Within the last few years, SPSS has added a new kind of regression to the SPSS Statistics interface.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=0)** - [Instructor] Within the last few years, SPSS has added a new kind of regression to the SPSS [[Statistics]] interface.
 >
 > **[0:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=7)** It's called automatic linear modeling.
 >
@@ -4360,7 +4310,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=119)** You can even do things that are beyond the scope of my little demo here, but called boosting and bagging that gets you into territory that's not unlike random forests, or some other things that you might have heard about in the machine learning space.
 >
-> **[2:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=134)** In fact, if you're intrigued with what boosting and bagging is, I review it in considerable detail right here in the library on advanced decision trees.
+> **[2:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=134)** In fact, if you're intrigued with what boosting and bagging is, I review it in considerable detail right here in the library on advanced [[Decision Trees]].
 >
 > **[2:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=147)** And, finally, have an option to save predicted values out to the data set, but we're gonna run this on default settings.
 >
@@ -4372,7 +4322,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=166)** You're gonna wanna double-click on that to take a look inside.
 >
-> **[2:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=171)** One of the first things that you're gonna notice is that it has done a lot during the so-called automatic data preparation step.
+> **[2:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=171)** One of the first things that you're gonna notice is that it has done a lot during the so-called automatic [[Data Preparation]] step.
 >
 > **[3:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=180)** Now, you can turn this off if you like.
 >
@@ -4394,7 +4344,7 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=259)** You see, what you wanna be thinking about here is that there's only a couple of vehicles of each make.
 >
-> **[4:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=267)** So, this is really what train and test partitions are all about in the predictive analytics and machine learning space.
+> **[4:27](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=267)** So, this is really what train and test partitions are all about in the [[Predictive Analytics]] and machine learning space.
 >
 > **[4:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/automatic-linear-modeling?u=76281980&t=276)** If we were to build a model with make on a particular data that we called our train data, and then applied it to another subset that we called our test data, we would have makes in the train data that never appeared in our test data, and vice versa.
 >
@@ -4424,7 +4374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Statistics]] (1), business (1), [[Decision Trees]] (1), application (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Decision Trees]] (1), [[Data Preparation]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Env Vars:** spss (4), phd (1)
 > **UI Navigation:** click on (2), scroll down (1), go to (1), double-click (1)
@@ -4433,8 +4383,7 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### Regression trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980)
+#### [Regression trees](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4448,7 +4397,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980&t=13)** Now for almost all of you, regression tree is gonna be a stronger algorithm than automatic linear modeling in terms of fitting your data, dealing with missing values, dealing with categorical values and so on.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980&t=31)** The potential downside is that decision trees in SPSS are in a special module.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980&t=31)** The potential downside is that [[Decision Trees]] in SPSS are in a special module.
 >
 > **[0:37](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/regression-trees?u=76281980&t=37)** So, conceivably, you have access to automatic linear modeling but do not have access to regression trees.
 >
@@ -4574,7 +4523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (5), [[Decision Trees]] (2), application (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2)
 > **CLI Commands:** make (8), node (5)
 > **Versions:** 8600.00 (1), node 22 (1), node 21 (1), node 20 (1)
 > **Env Vars:** spss (1), chaid (1), crt (1)
@@ -4583,12 +4532,11 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Time series forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980)
+#### [Time series forecasting](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=1)** - [Instructor] I wanna take a couple of moments to talk about time series forecasting.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=1)** - [Instructor] I wanna take a couple of moments to talk about time series [[Forecasting]].
 >
 > **[0:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=5)** It's similar to regression in many ways.
 >
@@ -4618,7 +4566,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=78)** They're actually generated within SPSS by the time series module.
 >
-> **[1:23](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=83)** I'm not gonna walk you through those steps, but those have actually been generated, because those will be used in the time series analysis.
+> **[1:23](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=83)** I'm not gonna walk you through those steps, but those have actually been generated, because those will be used in the [[Time Series Analysis]].
 >
 > **[1:31](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/time-series-forecasting?u=76281980&t=91)** What I wanna really draw your attention to is that note that this column, Turnover, which is just sales.
 >
@@ -4676,7 +4624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Forecasting]] (9), [[Time Series Analysis]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (9), [[Time Series Analysis]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** spss (2)
@@ -4685,8 +4633,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Categorical regression with optimal scaling
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980)
+#### [Categorical regression with optimal scaling](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4702,7 +4649,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=47)** We're going to actually include the don't know.
 >
-> **[0:50](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=50)** If we only had yes, no, we could consider something like binary logistic regression, but since we do want to include the don't know, we really have to treat our dependent as a nominal variable.
+> **[0:50](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=50)** If we only had yes, no, we could consider something like binary [[Logistic Regression]], but since we do want to include the don't know, we really have to treat our dependent as a nominal variable.
 >
 > **[1:02](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=62)** So let's take a look.
 >
@@ -4724,7 +4671,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=122)** It's a good way to get additional reinforcement on this if you think that this technique is going to be important to you.
 >
-> **[2:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=127)** The name of the book is "SPSS Statistics for Data Analysis and Visualization", and there's actually a whole chapter dedicated to regression with categorical outcome variables.
+> **[2:07](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=127)** The name of the book is "SPSS [[Statistics]] for Data Analysis and Visualization", and there's actually a whole chapter dedicated to regression with categorical outcome variables.
 >
 > **[2:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/categorical-regression-with-optimal-scaling?u=76281980&t=139)** So again, we're going to choose Recommend as our dependent, and we're going to declare it as nominal by clicking on the Define Scale button.
 >
@@ -4798,7 +4745,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), product (2), [[Logistic Regression]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Statistics]] (1)
 > **UI Navigation:** click on (3), go to (1), scroll down (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** spss (2), catreg (2)
@@ -4806,12 +4753,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing regression to Neural Nets
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/comparing-regression-to-neural-nets?u=76281980)
+#### [Comparing regression to Neural Nets](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/comparing-regression-to-neural-nets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/comparing-regression-to-neural-nets?u=76281980&t=0)** - [Instructor] Okay let's talk about neural networks, as I'm sure you know neural networks is a really big topic and could certainly deserve an entire course of its own, but our goals right now are more modest, we really just wanna compare and contrast regression with neural networks specifically I wanna give you a glimpse into how regression handles complexity and how neural networks handle complexity.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/comparing-regression-to-neural-nets?u=76281980&t=0)** - [Instructor] Okay let's talk about [[Neural Networks]], as I'm sure you know neural networks is a really big topic and could certainly deserve an entire course of its own, but our goals right now are more modest, we really just wanna compare and contrast regression with neural networks specifically I wanna give you a glimpse into how regression handles complexity and how neural networks handle complexity.
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/comparing-regression-to-neural-nets?u=76281980&t=28)** So let's take a quick look using the MWBank with Dummy Code and Interaction Terms data set.
 >
@@ -4839,18 +4785,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (8), data (3), next (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (8)
 > **UI Navigation:** scroll down (2), click on (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** spss (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980)
+#### [Logistic regression](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=0)** - [Instructor] Logistic regression is a terribly important topic, and certainly has gotten book-length treatment on numerous occasions, and there are university courses, both at the undergraduate level and at the graduate level, which dedicate an entire university semester to the topic.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=0)** - [Instructor] [[Logistic Regression]] is a terribly important topic, and certainly has gotten book-length treatment on numerous occasions, and there are university courses, both at the undergraduate level and at the graduate level, which dedicate an entire university semester to the topic.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=17)** The reason it's important for us is to understand how logistic regression is different from ordinary least squares regression.
 >
@@ -4868,7 +4813,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=79)** What we're doing now is rather than having an equation that tells us the value of Y, we have an equation that tells us the log of the odds.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=90)** It has many of the same elements, but what we're basically doing is generating a probability.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=90)** It has many of the same elements, but what we're basically doing is generating a [[Probability]].
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=96)** So what's gonna kick out of logistic regression is gonna have a minimum of zero, and a maximum of one.
 >
@@ -4886,7 +4831,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=153)** We're fitting what's called an S-curve.
 >
-> **[2:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=156)** Now the reason this happens is that you hit an asymptote, which is a word that you probably haven't heard since middle school algebra.
+> **[2:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=156)** Now the reason this happens is that you hit an asymptote, which is a [[Microsoft Word|word]] that you probably haven't heard since middle school algebra.
 >
 > **[2:44](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/logistic-regression?u=76281980&t=164)** But you have an asymptote at zero and an asymptote at one.
 >
@@ -4930,15 +4875,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Logistic Regression]] (8), application (2), [[Probability]] (1), hit (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Probability]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (4), in other words (1)
 > **Env Vars:** spss (1), b1x1 (1), b2x2 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### SEM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980)
+#### [SEM](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4978,7 +4922,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=116)** What's really interesting about path analysis and structure equation modeling, is that you can try to tackle all of this, all at once.
 >
-> **[2:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=125)** So, in the SPSS family of products, the way that you would do this is not with SPSS itself, but what's called Amos.
+> **[2:05](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=125)** So, in the SPSS family of [[Microsoft Products|products]], the way that you would do this is not with SPSS itself, but what's called Amos.
 >
 > **[2:16](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=136)** It's actually a separate standalone product that does SEM that's part of the software family that has its own interface, everything about it looks different.
 >
@@ -5004,13 +4948,13 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=223)** So if you think that SEM is a good fit, and you want to dig deeper, I want to recommend two resources.
 >
-> **[3:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=231)** One is a book, full-length book, Introduction to Structural Equation Modeling Using IBM SPSS Statistics and Amos by Niels Blunch.
+> **[3:51](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=231)** One is a book, full-length book, Introduction to Structural Equation Modeling Using [[IBM SPSS]] [[Statistics]] and Amos by Niels Blunch.
 >
 > **[4:02](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/sem?u=76281980&t=242)** If you're not quite ready for a full-length treatment, and SPSS Statistics and Data Analysis and Visualization, which is a book I was involved with, the first chapter is dedicated to comparing Amos to other multi-variant techniques, and is therefore somewhat more gentle introduction.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Statistics]] (2), web (1), [[Microsoft Products|Products]] (1), [[IBM SPSS]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Microsoft Products|Products]] (1), [[IBM SPSS]] (1)
 > **Env Vars:** spss (4), sem (3), ibm (1)
 > **Definitions:** is a  (4), basically means (1)
 > **CLI Commands:** find (1)
@@ -5022,8 +4966,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the extension hub?
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980)
+#### [What is the extension hub?](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5035,7 +4978,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980&t=24)** You want to go up to analyze, down to regression, and over to linear OLS alternatives.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980&t=34)** Now, what's new about this is that these three, ridge, lasso, and elastic net, are implemented through Python.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980&t=34)** Now, what's new about this is that these three, ridge, lasso, and elastic net, are implemented through [[Python (Programming Language)|Python]].
 >
 > **[0:45](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-is-the-extension-hub?u=76281980&t=45)** So what you're going to have to do is take advantage of what are called extensions.
 >
@@ -5077,7 +5020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), next (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2)
 > **UI Navigation:** click on (4), go to (1), scroll down (1)
 > **Env Vars:** spss (2), ols (2), lrr (1)
 > **CLI Commands:** find (2), python (2)
@@ -5086,8 +5029,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ridge regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980)
+#### [Ridge regression](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5123,7 +5065,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980&t=73)** It's running.
 >
-> **[1:15](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980&t=75)** And notice that the menus look just like SPSS even though we're running Python now basically.
+> **[1:15](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980&t=75)** And notice that the menus look just like SPSS even though we're running [[Python (Programming Language)|Python]] now basically.
 >
 > **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/ridge-regression?u=76281980&t=82)** And the output looks just like regular SPSS.
 >
@@ -5177,7 +5119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Search]] (2), data (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** ols (2), spss (2)
 > **Analogies:** just like (2), for instance (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -5186,8 +5128,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Lasso and elastic net
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/lasso-and-elastic-net?u=76281980)
+#### [Lasso and elastic net](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/lasso-and-elastic-net?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5271,11 +5212,11 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/lasso-and-elastic-net?u=76281980&t=293)** So there you have it.
 >
-> **[4:55](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/lasso-and-elastic-net?u=76281980&t=295)** There's much, much more to say about this, but now you know that there's some really powerful additional algorithms available to you powered by Python, and they look just like SPSS in the menus, in the dialogs, and in the output.
+> **[4:55](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/lasso-and-elastic-net?u=76281980&t=295)** There's much, much more to say about this, but now you know that there's some really powerful additional [[Algorithms]] available to you powered by [[Python (Programming Language)|Python]], and they look just like SPSS in the menus, in the dialogs, and in the output.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (2), [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** find (3), make (1), python (1)
 > **Env Vars:** spss (2), ols (1)
 > **Versions:** 0.1 (2), 0.9 (1)
@@ -5289,8 +5230,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's next
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980)
+#### [What's next](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5306,25 +5246,25 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=23)** First, since you have an interest in SPSS, there's an SPSS learning path.
 >
-> **[0:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=30)** Now, note, this learning path includes courses on both SPSS statistics as well as SPSS' predictive analytics and machine learning sibling, SPSS Modeler.
+> **[0:30](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=30)** Now, note, this learning path includes courses on both SPSS [[Statistics]] as well as SPSS' [[Predictive Analytics]] and machine learning sibling, SPSS Modeler.
 >
-> **[0:44](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=44)** So if you want to stay focused on algorithms within that learning path, "[[Machine Learning and AI Foundations- Classification Modeling]]" might be perfect.
+> **[0:44](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=44)** So if you want to stay focused on [[Algorithms]] within that learning path, "[[Machine Learning and AI Foundations- Classification Modeling]]" might be perfect.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=56)** Now, if you want to stay more focused on theoretical foundations, I've done a pair of courses on causal inference, and the course you've just completed would be the perfect gateway to those two courses.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=56)** Now, if you want to stay more focused on theoretical foundations, I've done a pair of courses on [[Causal Inference]], and the course you've just completed would be the perfect gateway to those two courses.
 >
 > **[1:09](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=69)** They are both in the machine learning and AI foundation series.
 >
 > **[1:14](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=74)** The first is "Prediction, Causation, and Statistical Inference," and the second is "Causal Inference and Modeling."
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=82)** Finally, if you want to build upon your new regression skills by exploring new areas like machine learning and predictive analytics, I'd recommend "[[Predictive Analytics Essential Training- Data Mining]]."
+> **[1:22](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=82)** Finally, if you want to build upon your new regression skills by exploring new areas like machine learning and predictive analytics, I'd recommend "[[Predictive Analytics Essential Training- [[Data Mining]]]]."
 >
-> **[1:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=96)** Whichever you choose, I hope you'll stay in touch by following me on LinkedIn, and signing up to watch my monthly office hours.
+> **[1:36](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=96)** Whichever you choose, I hope you'll stay in touch by following me on [[LinkedIn]], and signing up to watch my monthly [[Microsoft Office|office]] hours.
 >
 > **[1:45](https://www.linkedin.com/learning/machine-learning-ai-foundations-linear-regression/what-s-next-22620172?u=76281980&t=105)** If you see me at a conference, I hope you'll say "Hi."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (3), data (2), ai (2), [[Causal Inference]] (2), next (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Causal Inference]] (2), [[Statistics]] (1), [[Algorithms]] (1), [[Data Mining]] (1)
 > **Env Vars:** spss (5)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)

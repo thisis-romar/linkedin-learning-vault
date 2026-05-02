@@ -109,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interaction design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
+#### [Interaction design](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=2)** And we need to deal with far more than laptops, tablets and phones.
 >
-> **[0:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=6)** Today's interaction designers are helping create wearable devices, safer cars, smarter homes, guiding people through new voice and gestural interactions and tackling important issues of privacy, safety and attention management.
+> **[0:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=6)** Today's interaction designers are helping create wearable devices, safer cars, smarter homes, guiding people through new voice and gestural interactions and tackling important issues of [[Privacy]], safety and attention management.
 >
 > **[0:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=21)** Unfortunately, too many of the devices, software and tools we use complicate obstruct or delay our tasks.
 >
@@ -134,7 +133,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=55)** We'll take an approach to interaction design that starts with psychology so that we can better understand people, what they need and how they think and behave.
 >
-> **[1:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=64)** Then we'll take a deeper look at how people learn to use and interact with products.
+> **[1:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=64)** Then we'll take a deeper look at how people learn to use and interact with [[Microsoft Products|products]].
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/interaction-design?u=76281980&t=68)** And we'll delve more deeply into the topics, methods and techniques interaction designers use to craft more engaging, powerful and considerate products.
 >
@@ -144,19 +143,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Privacy]] (1), management (1), ux (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Privacy]] (1)
 > **Speakers:** - technology (1)
 
-#### What is interaction design?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980)
+#### [What is interaction design?](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=0)** - Interaction design is one of many fields that make up the larger practice of user experience, or UX design.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=0)** - Interaction design is one of many fields that make up the larger practice of [[User Experience (UX)|user experience]], or UX design.
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=6)** And interaction designers collaborate closely with other designers, researchers, content strategists, product managers, the software engineers, developers, and more.
 >
-> **[0:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=15)** It's become more complex as the types of products we design for have become more diverse and capable, but ultimately we're still focused on creating engaging experiences between people and products.
+> **[0:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=15)** It's become more complex as the types of [[Microsoft Products|products]] we design for have become more diverse and capable, but ultimately we're still focused on creating engaging experiences between people and products.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=27)** According to the Interaction Design Association, "Interaction Design," sometimes abbreviated IxD, "Defines the structure and behavior "of interactive systems."
 >
@@ -166,9 +164,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=46)** "Interaction designers strive to create meaningful "relationships between people and the products "and services that they use, from computers, "to mobile devices, and appliances, and beyond."
 >
-> **[0:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=56)** The term interaction design was created by Bill Moggridge and Bill Verplank for software design in the mid-1980s.
+> **[0:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=56)** The term interaction design was created by Bill Moggridge and Bill Verplank for [[Software Design]] in the mid-1980s.
 >
-> **[1:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=63)** It emerged from user interface design, industrial design, and software development.
+> **[1:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=63)** It emerged from [[User Interface Design]], industrial design, and [[Software Development]].
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/what-is-interaction-design-14239726?u=76281980&t=68)** Gillian Crampton Smith established the first program in interaction design at the Royal College of Art, in London, in 1989, and she says that "interaction design is not just about making us "more efficient at work, we use our devices "in all aspects of everyday life, "including play and entertainment."
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), product (2), [[User Experience (UX)|User experience]] (1), ux (1), [[Software Design]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (5), [[User Experience (UX)|User experience]] (1), [[Software Design]] (1), [[User Interface Design]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **URLs:** [interactiondesign.org](https://interactiondesign.org) (1)
 > **Speakers:** - interaction (1)
@@ -188,8 +186,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Project types and deliverables
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
+#### [Project types and deliverables](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=40)** It's about designing for the entire interconnected system, the device, the interface, the context, the environment, and the people.
 >
-> **[0:49](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=49)** In the course of our work we contribute to or create many different types of documents and design artifacts that capture and organize the information we need, the ideas we have and the descriptions of the people, products, flows, systems and services and more.
+> **[0:49](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=49)** In the course of our work we contribute to or create many different types of documents and design artifacts that capture and organize the information we need, the ideas we have and the descriptions of the people, [[Microsoft Products|products]], flows, systems and services and more.
 >
 > **[1:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=65)** We work closely with researchers to help understand people and problems.
 >
@@ -215,7 +212,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=75)** We work closely with product managers and business leaders to identify opportunities and solutions.
 >
-> **[1:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=80)** And we work closely with other designers to coordinate the different efforts into a cohesive product design.
+> **[1:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=80)** And we work closely with other designers to coordinate the different efforts into a cohesive [[Product Design]].
 >
 > **[1:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/project-types-and-deliverables-14243192?u=76281980&t=88)** An important part of your work as an interaction designer is to identify what a project needs.
 >
@@ -231,11 +228,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), web (1), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Product Design]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Technical and software skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980)
+#### [Technical and software skills](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -255,7 +251,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980&t=53)** Pen and paper sketches can capture the concept, but eventually we need to put pixels on screens.
 >
-> **[1:01](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980&t=61)** There are many design and diagramming tools available and a growing number of web-based tools may be used.
+> **[1:01](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980&t=61)** There are many design and [[Diagramming]] tools available and a growing number of web-based tools may be used.
 >
 > **[1:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/technical-and-software-skills-14239725?u=76281980&t=67)** Choose tools that allow you to work effectively and efficiently.
 >
@@ -273,11 +269,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Diagramming]] (1), web (1), product (1)
+> **Frameworks & Libraries:** [[Diagramming]] (1)
 > **Speakers:** - [narrator] (1)
 
-#### Related disciplines and fields of study
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980)
+#### [Related disciplines and fields of study](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -295,7 +290,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980&t=59)** Training and classes can help us develop the specific skills necessary to use our software tools, understand the technology for which we are designing, improve our written and verbal communication skills, work efficiently on teams and participate effectively in research.
 >
-> **[1:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980&t=77)** Our work spans such diverse and varied fields and projects that we should think about what knowledge and skills would be relevant for the products and experiences we want to create.
+> **[1:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980&t=77)** Our work spans such diverse and varied fields and projects that we should think about what knowledge and skills would be relevant for the [[Microsoft Products|products]] and experiences we want to create.
 >
 > **[1:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/related-disciplines-and-fields-of-study-14242608?u=76281980&t=87)** There is no single path to a career in interaction design.
 >
@@ -305,11 +300,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), product (1), teams (1), [[Microsoft Products|Products]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Speakers:** - [presenter] (1)
 
-#### Resources and communities
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/resources-and-communities-14235948?u=76281980)
+#### [Resources and communities](https://www.linkedin.com/learning/ux-foundations-interaction-design/resources-and-communities-14235948?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -341,7 +335,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2)
 > **CLI Commands:** find (5), make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
@@ -352,8 +345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why psychology?
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
+#### [Why psychology?](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -363,7 +355,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=9)** Understanding how people think, feel, understand information, and make decisions can help us generate better ideas and solutions, and help us craft and deliver better experiences.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=21)** There are many different models of product design and development, but at their core, they all include discovering what the product should be and do, crafting the best possible product, delivering the product to the people who need it, and improving the product based on opportunities to better meet their needs.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=21)** There are many different models of [[Product Design]] and development, but at their core, they all include discovering what the product should be and do, crafting the best possible product, delivering the product to the people who need it, and improving the product based on opportunities to better meet their needs.
 >
 > **[0:41](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=41)** This course will focus on the first half of this process, from the very beginning of a project until we work on designing the solutions.
 >
@@ -385,7 +377,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=122)** These are objective, quantitative data, often from analytics or formal lab testing.
 >
-> **[2:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=129)** We may also observe people using products or services to help us understand their behavior, expectations, and reactions.
+> **[2:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=129)** We may also observe people using [[Microsoft Products|products]] or services to help us understand their behavior, expectations, and reactions.
 >
 > **[2:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=138)** We watch how they use a product, such as holding a smartphone, and the gestures they make, and their reactions, such as facial expressions, or what they say.
 >
@@ -405,7 +397,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=210)** The physical product or interface is how design manifests as the solution to the problem.
 >
-> **[3:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=216)** Prototyping is an essential part of the process.
+> **[3:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=216)** [[Prototyping]] is an essential part of the process.
 >
 > **[3:39](https://www.linkedin.com/learning/ux-foundations-interaction-design/why-psychology-14235944?u=76281980&t=219)** We make working versions of our ideas to evaluate and test them.
 >
@@ -423,14 +415,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), data (4), [[Microsoft Products|Products]] (2), [[Prototyping]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Prototyping]] (2), [[Product Design]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing the interaction design model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980)
+#### [Introducing the interaction design model](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +433,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980&t=20)** We need to know their goals, their needs, and the desired outcomes.
 >
-> **[0:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980&t=24)** There are many reasons people engage in activities and interact with products.
+> **[0:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980&t=24)** There are many reasons people engage in activities and interact with [[Microsoft Products|products]].
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/introducing-the-interaction-design-model-14237825?u=76281980&t=29)** As we move deeper into this model, we shift from environment, circumstances, goals, and outcomes to how individuals perceive, understand, feel, and act in a situation.
 >
@@ -482,14 +473,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Definitions:** refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Context
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980)
+#### [Context](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -501,7 +491,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=18)** When and where are they?
 >
-> **[0:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=20)** And what objects, their tools, or products are they using and how are they using them?
+> **[0:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=20)** And what objects, their tools, or [[Microsoft Products|products]] are they using and how are they using them?
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=27)** In user-centered design, we start by describing the people who will use the product.
 >
@@ -533,7 +523,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=122)** But they may only discuss their options and compare flights together at home in the evening where they may be repeatedly interrupted by young children until later.
 >
-> **[2:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=132)** And they may choose to book their flights on a laptop only in the privacy of their home.
+> **[2:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=132)** And they may choose to book their flights on a laptop only in the [[Privacy]] of their home.
 >
 > **[2:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/context-14242596?u=76281980&t=137)** There are many ways we might need to describe when and where interaction with a product takes place.
 >
@@ -573,13 +563,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (4), [[Search]] (2), [[Privacy]] (1), ux (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Privacy]] (1)
 > **Analogies:** for example (4), picture (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - context (1)
 
-#### Goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980)
+#### [Goals](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -589,7 +578,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980&t=7)** We need to know their goals.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980&t=9)** There are many reasons people engage in activities and interact with products.
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980&t=9)** There are many reasons people engage in activities and interact with [[Microsoft Products|products]].
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/goals-14237824?u=76281980&t=13)** And we can think of people's activities in two categories.
 >
@@ -657,7 +646,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), game (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Analogies:** for example (4)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -668,8 +657,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sensation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
+#### [Sensation](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,7 +667,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980&t=19)** Perception is the process of becoming aware of something through the senses.
 >
-> **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980&t=23)** We see, hear and feel the products we are using.
+> **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980&t=23)** We see, hear and feel the [[Microsoft Products|products]] we are using.
 >
 > **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensation-14242595?u=76281980&t=27)** Sensation and perception are very closely connected so we'll be discussing them together and clarifying the subtle distinction between sensing and perceiving.
 >
@@ -784,8 +772,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perception
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/perception-14238693?u=76281980)
+#### [Perception](https://www.linkedin.com/learning/ux-foundations-interaction-design/perception-14238693?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -829,13 +816,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - let (1)
 
-#### Gestalt principles
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980)
+#### [Gestalt principles](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +832,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980&t=25)** And in the 1920s, Gestalt Psychology emerged.
 >
-> **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980&t=29)** The term Gestalt is a German word that means shape or form, and the Gestalt Principles and Laws, describe how we perceive the world around us as meaningful and complete objects.
+> **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980&t=29)** The term Gestalt is a German [[Microsoft Word|word]] that means shape or form, and the Gestalt Principles and Laws, describe how we perceive the world around us as meaningful and complete objects.
 >
 > **[0:40](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestalt-principles-14235952?u=76281980&t=40)** With a clear distinction between foreground and background.
 >
@@ -887,13 +872,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Affordances
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980)
+#### [Affordances](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +937,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=212)** We use visual design as a signal or cue for when, where, and how to interact.
 >
-> **[3:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=218)** Over time, people learn how to use new products, and we can reduce the number of signals in the interface.
+> **[3:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=218)** Over time, people learn how to use new [[Microsoft Products|products]], and we can reduce the number of signals in the interface.
 >
 > **[3:45](https://www.linkedin.com/learning/ux-foundations-interaction-design/affordances-14242593?u=76281980&t=225)** If you're designing an interaction that is very familiar and common, you have more flexibility and may be able to design the interface with fewer perceived affordances because people will already understand the interface and apply their past experience to it.
 >
@@ -977,14 +961,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4)
 > **Analogies:** for example (2), such as (2)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Motivation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980)
+#### [Motivation](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +979,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=25)** Understanding motivation helps us better describe the context and goals because it helps us understand the people, situation, needs, objectives, importance and urgency.
 >
-> **[0:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=38)** We'll discuss a few theories of motivation that can help us understand why people interact with products the way they do.
+> **[0:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=38)** We'll discuss a few theories of motivation that can help us understand why people interact with [[Microsoft Products|products]] the way they do.
 >
 > **[0:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=46)** Let's start with locus of control.
 >
@@ -1034,7 +1017,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=152)** These motives or needs influence our behavior and different people have different levels of each.
 >
-> **[2:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=158)** Some people are motivated more by social relationships, some by reaching difficult goals and some by persuading and influencing others.
+> **[2:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=158)** Some people are motivated more by social relationships, some by reaching difficult goals and some by persuading and [[Influencing Others]].
 >
 > **[2:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/motivation-14243194?u=76281980&t=167)** McClellan's theory is helpful for explaining why many people spend so much time on social networks.
 >
@@ -1100,15 +1083,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), [[Microsoft Products|Products]] (2), [[Influencing Others]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Influencing Others]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is a  (1)
 > **Env Vars:** erg (1)
 > **Speakers:** - motivation (1)
 
-#### Attention and memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980)
+#### [Attention and memory](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1132,7 +1114,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980&t=61)** We increasingly depend upon our devices to help us store information, and make it available when we need it.
 >
-> **[1:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980&t=67)** Our devices have become extensions of our own memory, so it's important that we design products that make it easy for people to enter, find and retrieve important information when they need to.
+> **[1:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980&t=67)** Our devices have become extensions of our own memory, so it's important that we design [[Microsoft Products|products]] that make it easy for people to enter, find and retrieve important information when they need to.
 >
 > **[1:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/attention-and-memory-14236886?u=76281980&t=79)** There are different theories of memory but the most well-known describes three stages that information passes through while it is processed for salience, structure, associations, and meaning.
 >
@@ -1256,21 +1238,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (7), find (4)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is called (2), is a  (1)
 > **UI Navigation:** select the (2)
 > **Speakers:** - [instructor] (1)
 
-#### Reasoning and logic
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980)
+#### [Reasoning and logic](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=0)** - Problem-solving involves identifying the best solution and the best path to get to it.
 >
-> **[0:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=5)** Decision-making involves selecting the best or optimal choice from a set of options.
+> **[0:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=5)** [[Decision-Making]] involves selecting the best or optimal choice from a set of options.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=11)** When faced with a problem, there are many different approaches people may take, some better or more effective than others.
 >
@@ -1304,7 +1285,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=142)** Story problems in math require a student to transform the words into an algebraic equation before they can solve it.
 >
-> **[2:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=149)** New technology products often help people do common tasks in new ways, so the design needs to help them transform their previous actions into new interactions.
+> **[2:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=149)** New technology [[Microsoft Products|products]] often help people do common tasks in new ways, so the design needs to help them transform their previous actions into new interactions.
 >
 > **[2:40](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=160)** Voice interactions are a new way to do tasks we've been doing for many years, like searching for information, playing music, or using a remote control.
 >
@@ -1316,7 +1297,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=187)** Calculating the trajectory to send a robot probe to Mars is best done with an algorithm.
 >
-> **[3:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=193)** But algorithms can be complex, tedious, and time-consuming, which makes them perfect for computers, but less appealing to distractible humans.
+> **[3:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=193)** But [[Algorithms]] can be complex, tedious, and time-consuming, which makes them perfect for computers, but less appealing to distractible humans.
 >
 > **[3:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/reasoning-and-logic-14241563?u=76281980&t=203)** Most people use heuristics to solve problems.
 >
@@ -1352,14 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Decision-Making]] (2), next (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (2), [[Microsoft Products|Products]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - problem (1)
 
-#### Mental models
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980)
+#### [Mental models](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1389,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980&t=166)** The system model is how the product actually works.
 >
-> **[2:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980&t=170)** Products and processes are often much more complicated than we realize because the part we interact with has been designed to make it easy to use and the complexity has been concealed.
+> **[2:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980&t=170)** [[Microsoft Products|Products]] and processes are often much more complicated than we realize because the part we interact with has been designed to make it easy to use and the complexity has been concealed.
 >
 > **[3:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/mental-models-14238702?u=76281980&t=182)** For example, a car chassis and internal combustion engine or electric motor is a very complex machine, but most people's mental model of driving involves only two pedals and a wheel.
 >
@@ -1423,14 +1403,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - we (1)
 
-#### Cognitive load
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980)
+#### [Cognitive load](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1448,7 +1427,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=44)** Be careful about how much your product asks people to notice, think about and remember.
 >
-> **[0:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=50)** Products should do as much of the work for people as possible.
+> **[0:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=50)** [[Microsoft Products|Products]] should do as much of the work for people as possible.
 >
 > **[0:55](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=55)** However, not all cognitive load is bad.
 >
@@ -1478,7 +1457,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=122)** When products are consistent and cohesive, we don't need to slow down and think about using them.
 >
-> **[2:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=128)** Use common mental models and accepted design patterns to reduce cognitive friction.
+> **[2:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=128)** Use common mental models and accepted [[Design Patterns]] to reduce cognitive friction.
 >
 > **[2:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=135)** However, different contexts, different problems, and even different information may require different interactions.
 >
@@ -1494,7 +1473,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=183)** We expect the interaction to happen one way, but when it differs, we need to slow down, think and take the time to understand why it was different.
 >
-> **[3:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=193)** For example, it may seem that paying bills online and making a bank transfer are basically the same thing, moving money from one account to another, but they're actually different processes using different banking systems.
+> **[3:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=193)** For example, it may seem that paying bills online and making a bank transfer are basically the same thing, moving money from one account to another, but they're actually different processes using different [[Banking]] systems.
 >
 > **[3:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/cognitive-load-14239728?u=76281980&t=207)** Our mental models tell us they may be nearly the same, but the system models are different and this can lead to different experiences that cause cognitive friction.
 >
@@ -1528,15 +1507,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (3), [[Design Patterns]] (1), [[Banking]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Design Patterns]] (1), [[Banking]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - thinking (1)
 
-#### Theories of emotion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980)
+#### [Theories of emotion](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1548,13 +1526,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=23)** What makes one person happy will not make everyone happy and a simple, efficient error-free interface is often not enough to make it desirable or likable.
 >
-> **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=34)** Despite the variable and subjective nature of emotions, we strive to create products that satisfy and delight experiences that meet people's needs and make them happy, products that people like, want to tell others about, and to use again.
+> **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=34)** Despite the variable and subjective nature of emotions, we strive to create [[Microsoft Products|products]] that satisfy and delight experiences that meet people's needs and make them happy, products that people like, want to tell others about, and to use again.
 >
 > **[0:49](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=49)** A few prominent theories explore the relationship between how our bodies respond, physiology, what we think about the situation, cognition, and how we report feeling, emotion.
 >
 > **[1:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=62)** The most important aspect of these theories for us to know is that emotions are complex with both physical and psychological experiences.
 >
-> **[1:10](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=70)** Our bodies react as much as our minds do.
+> **[1:10](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=70)** Our bodies [[React.js|react]] as much as our minds do.
 >
 > **[1:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/theories-of-emotion-14241562?u=76281980&t=74)** Other theories take a different approach to the complexity of emotions and seek to better describe and classify the many emotions we may experience.
 >
@@ -1583,12 +1561,11 @@ created: 2026-05-02
 > **Analogies:** such as (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Designing for delight
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/designing-for-delight-14243193?u=76281980)
+#### [Designing for delight](https://www.linkedin.com/learning/ux-foundations-interaction-design/designing-for-delight-14243193?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/designing-for-delight-14243193?u=76281980&t=0)** - [Instructor] We commonly identify delight as a design goal, or a principle, to guide our products.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/designing-for-delight-14243193?u=76281980&t=0)** - [Instructor] We commonly identify delight as a design goal, or a principle, to guide our [[Microsoft Products|products]].
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/designing-for-delight-14243193?u=76281980&t=6)** But we often try to accomplish this with simple solutions, such as cute illustrations, or icons, showing animations, or even unexpected moments and surprises.
 >
@@ -1658,14 +1635,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), [[Microsoft Products|Products]] (2), teams (2), next (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Empathy
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980)
+#### [Empathy](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1673,7 +1649,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980&t=5)** We must understand how people feel just as we must understand what they need, what they expect, and how they behave.
 >
-> **[0:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980&t=12)** When we are able to see from another person's perspective, to put ourselves in their shoes, we're better able to design products that meet their needs in meaningful and enjoyable ways.
+> **[0:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980&t=12)** When we are able to see from another person's perspective, to put ourselves in their shoes, we're better able to design [[Microsoft Products|products]] that meet their needs in meaningful and enjoyable ways.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/empathy-14237819?u=76281980&t=23)** We cannot assume that people will use a product and do things the same way we as designers and developers would.
 >
@@ -1703,13 +1679,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), business (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Learning behaviors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980)
+#### [Learning behaviors](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,7 +1696,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980&t=30)** Since a person's internal states can be difficult to measure, we observe their behavior to provide insights into their motivations, why are they doing this, and their emotions, how are they feeling?
 >
-> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980&t=43)** In this course, we focus on behavioral theories to explain how people learn how to use products, but there are additional theories and perspectives from cognition and neuroscience.
+> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980&t=43)** In this course, we focus on behavioral theories to explain how people learn how to use [[Microsoft Products|products]], but there are additional theories and perspectives from cognition and neuroscience.
 >
 > **[0:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/learning-behaviors-14237816?u=76281980&t=54)** These theories can effectively explain how we learn some of our behaviors, and they can provide some insights into our needs and goals.
 >
@@ -1759,12 +1734,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** is called (3), is a  (2), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classical conditioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/classical-conditioning-14241564?u=76281980)
+#### [Classical conditioning](https://www.linkedin.com/learning/ux-foundations-interaction-design/classical-conditioning-14241564?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1808,8 +1782,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Operant conditioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980)
+#### [Operant conditioning](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1845,7 +1818,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980&t=106)** Reinforcement and punishment can be more complicated than just outcomes we like and outcomes we dislike.
 >
-> **[1:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980&t=114)** First, remember that reinforcement is defined as any outcome that increases the probability of a behavior and punishment is any outcome that decreases the probability of a behavior.
+> **[1:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980&t=114)** First, remember that reinforcement is defined as any outcome that increases the [[Probability]] of a behavior and punishment is any outcome that decreases the probability of a behavior.
 >
 > **[2:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/operant-conditioning-14236893?u=76281980&t=127)** We can reinforce behavior and make it more likely by presenting something a person likes or by removing something they dislike.
 >
@@ -1901,15 +1874,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (2), next (1), product (1)
+> **Frameworks & Libraries:** [[Probability]] (2)
 > **Analogies:** such as (3), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Social learning theory
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/social-learning-theory-14235943?u=76281980)
+#### [Social learning theory](https://www.linkedin.com/learning/ux-foundations-interaction-design/social-learning-theory-14235943?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1981,15 +1953,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), data (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Env Vars:** sim (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using learned behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980)
+#### [Using learned behavior](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2031,13 +2001,13 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980&t=135)** We cannot talk about one without talking about the others.
 >
-> **[2:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980&t=139)** When you look at the interface of a website, mobile app, kiosk, or any other product, your perceptions can determine how you think and feel about it, your motivations can determine how you behave with it, and the outcomes can change your feelings, understanding, and probability of using it again.
+> **[2:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980&t=139)** When you look at the interface of a website, mobile app, kiosk, or any other product, your perceptions can determine how you think and feel about it, your motivations can determine how you behave with it, and the outcomes can change your feelings, understanding, and [[Probability]] of using it again.
 >
 > **[2:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/using-learned-behavior-14242617?u=76281980&t=158)** In the next chapter, we'll delve into exploring interaction design in terms of these basic psychological topics.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), [[Probability]] (1), next (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -2049,8 +2019,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of the IxD model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
+#### [Overview of the IxD model](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2058,7 +2027,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980&t=8)** We've also discussed many of the interconnected aspects of psychology, including perception, motivation, cognition and emotion, so that we can better understand how people learn, how they feel and what drives them.
 >
-> **[0:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980&t=22)** When we talk about behavior and product design, we are talking about how people interact with products, and that there is a cycle that describes how we learn to interact with a product.
+> **[0:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980&t=22)** When we talk about behavior and [[Product Design]], we are talking about how people interact with [[Microsoft Products|products]], and that there is a cycle that describes how we learn to interact with a product.
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/overview-of-the-ixd-model-14238700?u=76281980&t=34)** This interaction cycle can be used to help us understand how people leverage their prior experience, identify opportunities to interact, develop expectations about the product, how they make sense of what happens, and how they learn and remember, so they can become more accurate and efficient.
 >
@@ -2066,13 +2035,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Product Design]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Perceive
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980)
+#### [Perceive](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2086,7 +2054,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=29)** Perceivability is about making opportunities to interact accessible for all people, across many types of devices.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=36)** We must design for visual interfaces, physical products, screen readers, and different types of input, including mice, typing, touch and more.
+> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=36)** We must design for visual interfaces, physical [[Microsoft Products|products]], screen readers, and different types of input, including mice, typing, touch and more.
 >
 > **[0:45](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=45)** Opportunities for gestural and voice interactions can be especially difficult to communicate.
 >
@@ -2094,7 +2062,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=56)** We'll discuss more about designing for gestures and voice in the interaction design chapter.
 >
-> **[1:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=62)** Throughout this interaction design model, we will describe how the probability of interaction is affected at each step.
+> **[1:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=62)** Throughout this interaction design model, we will describe how the [[Probability]] of interaction is affected at each step.
 >
 > **[1:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=68)** Here at the beginning of the cycle, people are less likely to interact if they do not perceive the opportunity to interact, even if they need or want to interact.
 >
@@ -2126,7 +2094,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=182)** This means that people may perceive many different opportunities to interact.
 >
-> **[3:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=187)** We rely on our sensory store, the very brief memory that stores all of our incoming sensory information to quickly process all of our options and identify which are most salient and relevant based on our context and goals, then we ignore the rest.
+> **[3:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=187)** We rely on our sensory store, the very brief memory that stores all of our incoming sensory information to quickly process all of our options and identify which are most salient and relevant based on our context and goals, then we ignore the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/perceive-14239731?u=76281980&t=204)** For example, on a shopping site, you can browse featured items, search for specific items, track the status of an order and more.
 >
@@ -2150,14 +2118,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), [[Microsoft Products|Products]] (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Probability]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** such as (2), for example (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1), means that (1)
 > **Speakers:** - in (1)
 
-#### Predict
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980)
+#### [Predict](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2134,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=11)** If there are multiple viable options for interaction, they'll make a prediction for each, then choose the one they think is most relevant and most likely to help them reach their goal.
 >
-> **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=23)** The probability of interaction is influenced not only by the ability to perceive opportunities for interaction, but also by the confidence people have in their predictions.
+> **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=23)** The [[Probability]] of interaction is influenced not only by the ability to perceive opportunities for interaction, but also by the confidence people have in their predictions.
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=34)** If people perceive the opportunity to interact and are confident that the interaction will help them reach their goal, then the probability of interaction is very high, and we will observe focused and intentional interaction.
 >
@@ -2203,20 +2170,19 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=192)** The probability of interaction goes down when the predicted outcomes do not align with the person's goals, and when they have low confidence that an interaction or product is relevant and useful.
 >
-> **[3:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=202)** They may attempt to interact in a random or trial and error way just to see what happens, but they're much more likely to abandon the site or product and seek other ways to reach their goal with other products and services.
+> **[3:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/predict-14242610?u=76281980&t=202)** They may attempt to interact in a random or trial and error way just to see what happens, but they're much more likely to abandon the site or product and seek other ways to reach their goal with other [[Microsoft Products|products]] and services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Probability]] (6), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Probability]] (6), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Speakers:** - [instructor] (1)
 
-#### Feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980)
+#### [Feedback](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=0)** - [Narrator] Once we interact, it is the product's turn to react.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=0)** - [Narrator] Once we interact, it is the product's turn to [[React.js|react]].
 >
 > **[0:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=3)** Its response to what we've done is important and useful feedback.
 >
@@ -2252,7 +2218,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=125)** The third and final stage of feedback is the actual output or results of the product's response to our interaction request.
 >
-> **[2:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=134)** Final feedback takes many forms, depending on what the product does and what a person has requested.
+> **[2:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=134)** Final feedback takes many [[Forms]], depending on what the product does and what a person has requested.
 >
 > **[2:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=141)** Navigating to a new page or a screen is the output of a navigational request.
 >
@@ -2280,7 +2246,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=232)** This can help them identify and interact with the most relevant and useful options and avoid those that are unlikely to help them reach their goal.
 >
-> **[4:01](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=241)** Shopping sites often show information in the filters about how many products match that filter value.
+> **[4:01](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=241)** Shopping sites often show information in the filters about how many [[Microsoft Products|products]] match that filter value.
 >
 > **[4:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=248)** This helps us understand if there will be few or many products from which to choose.
 >
@@ -2294,7 +2260,7 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=288)** When the feedback is easy to understand, meaningful, and aligned with our expectations, matches our predictions, and relevant to meeting our goal, then we're likely to be satisfied and to find the product valuable.
 >
-> **[5:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=302)** This increases the probability that we will continue interacting with the product and may be more likely to use it again in the future.
+> **[5:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=302)** This increases the [[Probability]] that we will continue interacting with the product and may be more likely to use it again in the future.
 >
 > **[5:10](https://www.linkedin.com/learning/ux-foundations-interaction-design/feedback-14241557?u=76281980&t=310)** When the product responds to our interactions, we also have our first emotional reactions.
 >
@@ -2314,18 +2280,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (20), [[Microsoft Products|Products]] (2), [[Probability]] (2), [[React.js|React]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Probability]] (2), [[React.js|React]] (1), [[Forms]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** such as (3)
 > **Speakers:** - [narrator] (1)
 
-#### Learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980)
+#### [Learn](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=0)** - If the feedback is aligned with our predictions, if it is meaningful and valuable, and if it moves us toward our goal, then we learn that our interaction was effective and the probability of performing that interaction again in the future increases.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=0)** - If the feedback is aligned with our predictions, if it is meaningful and valuable, and if it moves us toward our goal, then we learn that our interaction was effective and the [[Probability]] of performing that interaction again in the future increases.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=15)** We learned how to interact in several ways.
 >
@@ -2369,7 +2334,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=163)** We can also read instructions and/or illustrated tutorials to learn how to use a product.
 >
-> **[2:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=170)** New products often include examples, demos, and how to videos to help people learn what to do and how to do it.
+> **[2:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=170)** New [[Microsoft Products|products]] often include examples, demos, and how to videos to help people learn what to do and how to do it.
 >
 > **[2:58](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=178)** When we say a product is intuitive, we mean that it is easy to perceive opportunities to interact, accurately predict outcomes, interact with it, learn from meaningful feedback, and remember how to use it.
 >
@@ -2383,7 +2348,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=227)** We refine and improve our interactions over time.
 >
-> **[3:51](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=231)** For example, the first time someone uses BillPay on their banking website, they have to enter payee accounts.
+> **[3:51](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=231)** For example, the first time someone uses BillPay on their [[Banking]] website, they have to enter payee accounts.
 >
 > **[3:58](https://www.linkedin.com/learning/ux-foundations-interaction-design/learn-14242609?u=76281980&t=238)** The first time they do this, the process is new and unfamiliar, but with each payee account they add, the process becomes easier.
 >
@@ -2429,21 +2394,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (17), [[Microsoft Products|Products]] (6), [[Probability]] (1), web (1), [[Banking]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), [[Probability]] (1), [[Banking]] (1)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** we discussed (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Remember
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980)
+#### [Remember](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=0)** - As we practice and learn interactions that are effective and that help us achieve our goals, we store them in our memory for future reference and use.
 >
-> **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=9)** It may be for another interaction with the same product, or we may find a similarities with new products and apply what we have learned from prior experiences elsewhere.
+> **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=9)** It may be for another interaction with the same product, or we may find a similarities with new [[Microsoft Products|products]] and apply what we have learned from prior experiences elsewhere.
 >
 > **[0:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=19)** We previously discussed the different stages of memory in the introductory psychology chapter.
 >
@@ -2491,7 +2455,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=188)** If there are any enough shared interface characteristics, and we have similar context and goals, then we will generalize our past experience and apply it to the new situation.
 >
-> **[3:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=198)** For example, if I learn how to use bill pay on one banking site, then I change to another bank, there will probably be enough similarities between the two banks that I can quickly learn how to use a new bill pay service.
+> **[3:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=198)** For example, if I learn how to use bill pay on one [[Banking]] site, then I change to another bank, there will probably be enough similarities between the two banks that I can quickly learn how to use a new bill pay service.
 >
 > **[3:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=211)** If an interface is sufficiently different and we have different context and goals, then we're able to discriminate or differentiate between what we've seen and done in the past and what we are trying to do now, so we'll interact in a different way.
 >
@@ -2503,7 +2467,7 @@ created: 2026-05-02
 >
 > **[4:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=254)** A cohesive experience is a set of recognizably related interface elements and interactions that collectively form a product or service.
 >
-> **[4:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=264)** Design patterns help ensure that a product is cohesive, internally consistent across its features, states and screens, and externally consistent across a suite of products or related experiences.
+> **[4:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=264)** [[Design Patterns]] help ensure that a product is cohesive, internally consistent across its features, states and screens, and externally consistent across a suite of products or related experiences.
 >
 > **[4:37](https://www.linkedin.com/learning/ux-foundations-interaction-design/remember-14238694?u=76281980&t=277)** We'll talk more about design patterns in the interaction design chapter.
 >
@@ -2541,7 +2505,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (15), [[Microsoft Products|Products]] (9), [[Banking]] (2), [[Design Patterns]] (2), parallel (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Banking]] (2), [[Design Patterns]] (2)
 > **CLI Commands:** make (3), find (2)
 > **Analogies:** for example (2), similar to (2)
 > **Definitions:** is a  (2)
@@ -2552,12 +2516,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dimensions of interaction design
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
+#### [Dimensions of interaction design](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=0)** - [Instructor] Our goal is to understand what people need and deliver products and services that meet those needs in usable, useful, and valuable ways.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=0)** - [Instructor] Our goal is to understand what people need and deliver [[Microsoft Products|products]] and services that meet those needs in usable, useful, and valuable ways.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=9)** There are many different ways to describe how we work.
 >
@@ -2575,7 +2538,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=59)** People interact with physical objects and they interact with them in a place or space.
 >
-> **[1:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=64)** This is the physical hardware such as keyboard, mouse, or smartphone, and the space necessary to use it effectively.
+> **[1:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=64)** This is the physical [[Hardware]] such as keyboard, mouse, or smartphone, and the space necessary to use it effectively.
 >
 > **[1:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/dimensions-of-interaction-design-14242619?u=76281980&t=72)** The time during which people interact with the product is also important.
 >
@@ -2585,16 +2548,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Microsoft Products|Products]] (2), data (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Hardware]] (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Design thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-thinking-14242602?u=76281980)
+#### [Design thinking](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-thinking-14242602?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-thinking-14242602?u=76281980&t=0)** - Design thinking is the name we give to exploratory and iterative methods, where we seek to understand people and their problems, needs and expectations, to identify and challenge our assumptions about our products and the people who use them, and to generate alternative strategies and solutions for better products and services.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-thinking-14242602?u=76281980&t=0)** - [[Design Thinking]] is the name we give to exploratory and iterative methods, where we seek to understand people and their problems, needs and expectations, to identify and challenge our assumptions about our [[Microsoft Products|products]] and the people who use them, and to generate alternative strategies and solutions for better products and services.
 >
 > **[0:20](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-thinking-14242602?u=76281980&t=20)** Design thinking is effective when we are facing problems that are vague or not yet understood.
 >
@@ -2632,12 +2594,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), product (5), [[Design Thinking]] (4), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Design Thinking]] (4)
 > **Definitions:** is a  (1)
 > **Speakers:** - design (1)
 
-#### Levels of design: Structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980)
+#### [Levels of design: Structure](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2663,7 +2624,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=85)** The scent of information refers to how well people can predict what they will find if they follow a path or flow through a product.
 >
-> **[1:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=94)** The term derives from information foraging theory, which explains how people interact with products as if they were hunting for meaningful and connected pieces of information.
+> **[1:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=94)** The term derives from information foraging theory, which explains how people interact with [[Microsoft Products|products]] as if they were hunting for meaningful and connected pieces of information.
 >
 > **[1:45](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=105)** The structure enables and supports those flows.
 >
@@ -2703,7 +2664,7 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=246)** At this state, we are not yet focused on the final appearance of these elements, we just need to identify the appropriate elements and where they should be placed on the screen relative to the other elements.
 >
-> **[4:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=258)** We create high fidelity wireframes for entire screens to specify the elements, their location, their individual structures, and their various states, if they take multiple forms.
+> **[4:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=258)** We create high fidelity wireframes for entire screens to specify the elements, their location, their individual structures, and their various states, if they take multiple [[Forms]].
 >
 > **[4:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-structure-14242615?u=76281980&t=271)** At this point in the process, we have what is essentially a product blueprint.
 >
@@ -2711,14 +2672,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (2), management (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1)
 > **Analogies:** such as (5), for example (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Levels of design: Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980)
+#### [Levels of design: Flow](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2732,7 +2692,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=25)** What are the steps through the product itself and when and how will people experience the various states of the individual components within the product?
 >
-> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=36)** Very few products exist and operate in isolation.
+> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=36)** Very few [[Microsoft Products|products]] exist and operate in isolation.
 >
 > **[0:40](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=40)** It's very common to use multiple products and interact across multiple channels to complete more complex tasks, so we need to understand how people use products and services together to complete their tasks and achieve their goals.
 >
@@ -2740,9 +2700,9 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=67)** Sometimes a product is just one part or channel in the entire system, so we need to understand when and how that product is necessary and important.
 >
-> **[1:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=78)** For example, a mobile banking app on a phone is just one possible channel for interacting with the bank to manage your finances.
+> **[1:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=78)** For example, a mobile [[Banking]] app on a phone is just one possible channel for interacting with the bank to manage your finances.
 >
-> **[1:26](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=86)** People may walk into a branch office, call a customer service telephone number, use the bank's website, use the bank's mobile app, or even use text messages to set up and confirm actions.
+> **[1:26](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=86)** People may walk into a branch [[Microsoft Office|office]], call a customer service telephone number, use the bank's website, use the bank's mobile app, or even use text messages to set up and confirm actions.
 >
 > **[1:39](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-flow-14238701?u=76281980&t=99)** The mobile app is just one part of the larger system, and people may use different channels at different times, based on their context and goals.
 >
@@ -2796,7 +2756,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Microsoft Products|Products]] (8), [[Banking]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8), [[Banking]] (1), [[Microsoft Office|Office]] (1)
 > **Analogies:** for example (4), such as (2)
 > **UI Navigation:** select the (2)
 > **Env Vars:** irs (1)
@@ -2804,8 +2764,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - once (1)
 
-#### Levels of design: Interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980)
+#### [Levels of design: Interface](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2821,9 +2780,9 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=41)** Appearance also has meaning.
 >
-> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=43)** The choice of color, typographic treatments, images, illustrations, and icons can make products easier and more enjoyable to use, but poor interface design decisions can detract from or even interfere with the product experience.
+> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=43)** The choice of color, typographic treatments, images, illustrations, and icons can make [[Microsoft Products|products]] easier and more enjoyable to use, but poor interface design decisions can detract from or even interfere with the product experience.
 >
-> **[0:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=59)** Bad typography can make it difficult to scan and read text, ambiguous or arbitrary icons can be confusing or even misleading, and poorly crafted illustrations, graphs, charts, and diagrams can make information harder to understand.
+> **[0:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=59)** Bad [[Typography]] can make it difficult to scan and read text, ambiguous or arbitrary icons can be confusing or even misleading, and poorly crafted illustrations, graphs, charts, and diagrams can make information harder to understand.
 >
 > **[1:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/levels-of-design-interface-14242616?u=76281980&t=75)** People judge the quality of a product higher and think it works better when it's attractive.
 >
@@ -2839,23 +2798,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Typography]] (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980)
+#### [Design patterns](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=0)** - [Instructor] Design patterns are recurring, re-usable, optimal solutions to common design problems.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=0)** - [Instructor] [[Design Patterns]] are recurring, re-usable, optimal solutions to common design problems.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=7)** We have design patterns for: Structure, such as the organization of product catalogs on shopping sites.
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=13)** Flow, such as the standard sequence of actions at ATMs regardless of the bank, or the steps taken to write and send an email.
 >
-> **[0:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=22)** And to interface, the components of an interface, such as buttons, selectors, dialogues, and form fields are what we usually think of as design patterns, because we frequently use the same elements across different products.
+> **[0:22](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=22)** And to interface, the components of an interface, such as buttons, selectors, dialogues, and form fields are what we usually think of as design patterns, because we frequently use the same elements across different [[Microsoft Products|products]].
 >
 > **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/design-patterns-14243189?u=76281980&t=36)** Good design patterns are familiar, recognizable, and easy to apply correctly.
 >
@@ -2889,12 +2847,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Microsoft Products|Products]] (4), product (1), application (1)
+> **Frameworks & Libraries:** [[Design Patterns]] (7), [[Microsoft Products|Products]] (4)
 > **Analogies:** such as (3)
 > **Speakers:** - [instructor] (1)
 
-#### Anti-patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980)
+#### [Anti-patterns](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2906,7 +2863,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980&t=19)** And we may be tempted to use it without taking the time to assess its quality.
 >
-> **[0:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980&t=24)** "Everybody uses it," is not a good reason to copy what other products are doing.
+> **[0:24](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980&t=24)** "Everybody uses it," is not a good reason to copy what other [[Microsoft Products|products]] are doing.
 >
 > **[0:30](https://www.linkedin.com/learning/ux-foundations-interaction-design/anti-patterns-14241566?u=76281980&t=30)** "Click here" for links and the "submit" label on buttons are anti-patterns.
 >
@@ -2948,13 +2905,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dark patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980)
+#### [Dark patterns](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2964,9 +2920,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=18)** Harry Brignull has studied and identified multiple types of dark patterns describing each, providing examples, and suggesting better solutions.
 >
-> **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=27)** Dark patterns, often place the business, advertiser, and or product owner's interests above those of the people using their products and services.
+> **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=27)** Dark patterns, often place the business, advertiser, and or product owner's interests above those of the people using their [[Microsoft Products|products]] and services.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=36)** Dark patterns erode trust because they are associated with violations of privacy, theft of money and information, and the installation of malware.
+> **[0:36](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=36)** Dark patterns erode trust because they are associated with violations of [[Privacy]], theft of money and information, and the installation of malware.
 >
 > **[0:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=46)** I strongly encourage you to learn more.
 >
@@ -2974,7 +2930,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=57)** Subscription management services, unfortunately, commonly employ dark patterns.
 >
-> **[1:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=63)** After making a purchase or registering for an account, people are automatically subscribed, sometimes to multiple newsletters and email lists.
+> **[1:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=63)** After making a purchase or registering for an account, people are automatically subscribed, sometimes to multiple [[Newsletters]] and email lists.
 >
 > **[1:12](https://www.linkedin.com/learning/ux-foundations-interaction-design/dark-patterns-14242613?u=76281980&t=72)** The process to unsubscribe is intentionally complicated and confusing.
 >
@@ -3024,15 +2980,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (4), business (2), [[Privacy]] (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Privacy]] (1), [[Newsletters]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [narrator] (1)
 
-#### Navigation structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980)
+#### [Navigation structure](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3042,7 +2997,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980&t=16)** Information architecture, a field attributed to Richard Saul Wurman is the practice of organizing and arranging the components and content of a product so they are understandable and findable.
 >
-> **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980&t=29)** Good information architecture is often considered essential for interaction design because it creates structure for connecting the sections and features of products via search and navigation.
+> **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980&t=29)** Good information architecture is often considered essential for interaction design because it creates structure for connecting the sections and features of [[Microsoft Products|products]] via search and navigation.
 >
 > **[0:41](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-structure-14241567?u=76281980&t=41)** People have mental models for how information should be organized, how to find it and the order in which it should be presented, not just how to interact with the components of an interface.
 >
@@ -3064,15 +3019,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Microsoft Products|Products]] (3), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Navigation systems
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980)
+#### [Navigation systems](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3108,11 +3062,11 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=110)** Suggested actions may be presented on cards or chips based on context or the history of interactions, such as recommended content or suggested searches or smart replies.
 >
-> **[2:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=123)** Different actions may be available based on the section of the product or the content selected, such as the different toolbars in Google docs based on the document type.
+> **[2:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=123)** Different actions may be available based on the section of the product or the content selected, such as the different toolbars in [[Google]] docs based on the document type.
 >
 > **[2:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=134)** Stream navigation is common on social networks, where there is a steady stream of new content.
 >
-> **[2:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=141)** Entries are generally presented in reverse chronological order, with the newest at the top of the screen, but there may be algorithms to promote sponsored or popular content.
+> **[2:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=141)** Entries are generally presented in reverse chronological order, with the newest at the top of the screen, but there may be [[Algorithms]] to promote sponsored or popular content.
 >
 > **[2:32](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=152)** People quickly learn to return to the top to look for new content.
 >
@@ -3150,7 +3104,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=299)** And in some sections like security and settings, there is a hierarchical structure.
 >
-> **[5:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=305)** Amazon enables both browsing and searching for products, and there are distinct sections for account management and wish lists.
+> **[5:05](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=305)** Amazon enables both browsing and searching for [[Microsoft Products|products]], and there are distinct sections for account management and wish lists.
 >
 > **[5:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/navigation-systems-14237817?u=76281980&t=315)** We often talk about the findability and discoverability of content, actions and services within a product, but there is a subtle difference between them.
 >
@@ -3166,25 +3120,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Search]] (2), [[Google]] (1), [[Algorithms]] (1), feature (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Algorithms]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (6), for example (2)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (3)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [narrator] (1)
 
-#### Content
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980)
+#### [Content](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=0)** - Content creation is an essential part of the design process.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=0)** - [[Content Creation]] is an essential part of the design process.
 >
 > **[0:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=4)** Interaction designers often work closely with content strategists and writers to get the right content in the right place at the right time and with the best structure and presentation.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=15)** Content strategy guides the creation, publication, and maintenance of meaningful, relevant content.
 >
-> **[0:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=21)** Information takes many forms.
+> **[0:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=21)** Information takes many [[Forms]].
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=23)** We most often think of content as the text, imagery, and media and a product, but even motion and auditory and haptic feedback provide information that can supplement and clarify the main content.
 >
@@ -3210,7 +3163,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=116)** White space is also effective to delineate sections and to make longer passages easier to read.
 >
-> **[2:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=123)** Present text with usable typography.
+> **[2:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=123)** Present text with usable [[Typography]].
 >
 > **[2:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=127)** Lines of text that are too long or too short are more difficult to read.
 >
@@ -3232,7 +3185,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=203)** The microcopy or interface content is also important.
 >
-> **[3:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=208)** Microcopy refers to the small pieces of text found throughout the interface that guide and assist people using the product and it is usually just a short sentence, phrase, or even a single word.
+> **[3:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=208)** Microcopy refers to the small pieces of text found throughout the interface that guide and assist people using the product and it is usually just a short sentence, phrase, or even a single [[Microsoft Word|word]].
 >
 > **[3:41](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=221)** Microcopy is crafted to be focused and relevant at that specific point or moment in the interface.
 >
@@ -3240,7 +3193,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=235)** Localization is the process of adapting a product to meet the language, cultural and the other requirements of a specific locale.
 >
-> **[4:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=244)** We need to craft products that can adjust to effectively display different languages, but we also need to carefully choose the labels, images, and content format that will convey information accurately.
+> **[4:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=244)** We need to craft [[Microsoft Products|products]] that can adjust to effectively display different languages, but we also need to carefully choose the labels, images, and content format that will convey information accurately.
 >
 > **[4:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=257)** There are entire fields of practice for localization, content strategy and UX writing.
 >
@@ -3248,15 +3201,15 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=271)** Photos, diagrams, charts, icons, and illustrations are common forms of image content.
 >
-> **[4:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=278)** Pan and zoom methods allow people to see more detail while exploring the image.
+> **[4:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=278)** Pan and [[Zoom]] methods allow people to see more detail while exploring the image.
 >
 > **[4:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=284)** Charts and diagrams often contain additional text content and that text should be created for the same level of readability and with legible usable formatting.
 >
 > **[4:55](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=295)** Photos, illustrations and graphics should have captions, descriptions and alternate texts to make them accessible to all people such as those who rely on screen readers and text to speech.
 >
-> **[5:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=307)** Do not use text in the form of imagery when standard HTML or mobile app live text can be used because text and images is often not accessible.
+> **[5:07](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=307)** Do not use text in the form of imagery when standard [[HTML]] or mobile app live text can be used because text and images is often not accessible.
 >
-> **[5:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=319)** Interactive visual elements, such as before and after photos, visualizations that enable explorations of the data such as stock price history and interactive infographics and articles such as interactive newspaper stories should follow the same guidelines we use for designing the structure, flow and interface.
+> **[5:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=319)** Interactive visual elements, such as before and after photos, visualizations that enable explorations of the data such as stock price history and interactive [[Infographics]] and articles such as interactive newspaper stories should follow the same guidelines we use for designing the structure, flow and interface.
 >
 > **[5:40](https://www.linkedin.com/learning/ux-foundations-interaction-design/content-14235951?u=76281980&t=340)** People should clearly perceive and understand how they may interact with the information and these experiences are often created to encourage exploration of the content.
 >
@@ -3278,7 +3231,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), [[Forms]] (2), ux (2), [[Content Creation]] (1), [[Typography]] (1)
+> **Frameworks & Libraries:** [[Forms]] (2), [[Content Creation]] (1), [[Typography]] (1), [[Microsoft Word|Word]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (6), for example (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** faq (1), html (1)
@@ -3287,12 +3240,11 @@ created: 2026-05-02
 > **Best Practices:** general rule (1)
 > **Speakers:** - content (1)
 
-#### Inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980)
+#### [Inputs](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=0)** - [Instructor] Interacting with products is bidirectional.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=0)** - [Instructor] Interacting with [[Microsoft Products|products]] is bidirectional.
 >
 > **[0:03](https://www.linkedin.com/learning/ux-foundations-interaction-design/inputs-14236892?u=76281980&t=3)** People add and receive information.
 >
@@ -3388,7 +3340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (2), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3)
 > **Analogies:** such as (7)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (1)
@@ -3396,12 +3348,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gestures
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980)
+#### [Gestures](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=0)** - [Illustrator] Gestures are often more complex touch interactions and come in a variety of forms.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=0)** - [Illustrator] Gestures are often more complex touch interactions and come in a variety of [[Forms]].
 >
 > **[0:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=6)** Beyond tap, double-tap, and long or hard-press, we commonly use scroll pan, drag, swipe, flick, pinch, spread, rotate, and multi-touch on touch screens.
 >
@@ -3429,7 +3380,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=104)** We'll discuss more about motion later in this chapter.
 >
-> **[1:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=108)** Another challenge with gestures is that they may be arbitrary and vary across different products.
+> **[1:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=108)** Another challenge with gestures is that they may be arbitrary and vary across different [[Microsoft Products|products]].
 >
 > **[1:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=114)** Multi-touch gestures such as taps and swipes with two, three, or even more fingers are used for a wide range of functionality from navigation to content editing, and the gesture is often unrelated to the actual function it serves.
 >
@@ -3455,11 +3406,11 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=201)** Use arbitrary and complex gestures with caution because they're difficult to discover and learn.
 >
-> **[3:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=208)** Create signals and cues to indicate the gestural interactions are available, such as motion to hint that hidden or offscreen elements may be brought into view, and leverage people's prior experience and learning from across products by using familiar design patterns and consistent gestures.
+> **[3:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/gestures-14242612?u=76281980&t=208)** Create signals and cues to indicate the gestural interactions are available, such as motion to hint that hidden or offscreen elements may be brought into view, and leverage people's prior experience and learning from across products by using familiar [[Design Patterns]] and consistent gestures.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Forms]] (1), product (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Forms]] (1), [[Design Patterns]] (1)
 > **Analogies:** such as (4), for example (1)
 > **CLI Commands:** find (1), make (1)
 > **Cross-References:** later in (1)
@@ -3468,16 +3419,15 @@ created: 2026-05-02
 > **Warnings:** caution (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Voice
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980)
+#### [Voice](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=0)** - [Narrator] Voice interactions are often portrayed in movies and speech recognition and synthesis software has been available for decades.
+> **[0:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=0)** - [Narrator] Voice interactions are often portrayed in movies and [[Speech Recognition]] and synthesis software has been available for decades.
 >
-> **[0:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=8)** While films typically show more natural conversational interactions, the early products were much more limited.
+> **[0:08](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=8)** While films typically show more natural conversational interactions, the early [[Microsoft Products|products]] were much more limited.
 >
-> **[0:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=14)** Computers could only recognize and react to a limited number of words and phrases, and they often needed to be trained to recognize an individual's voice.
+> **[0:14](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=14)** Computers could only recognize and [[React.js|react]] to a limited number of words and phrases, and they often needed to be trained to recognize an individual's voice.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=23)** Today, a person's experience with voice interface is very different from their experience with a graphical interface.
 >
@@ -3485,7 +3435,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=34)** In fact, there are very few perceivable cues other than the presence of the listening device and perhaps an LED light to indicate readiness.
 >
-> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=43)** The most common signal to speak is the optional audio feedback after the use of a trigger or a wake word such as okay Google, Alexa, hey Siri, and hey Cortana when the product indicates with a sound that it is listening for a command or query.
+> **[0:43](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=43)** The most common signal to speak is the optional audio feedback after the use of a trigger or a wake [[Microsoft Word|word]] such as okay [[Google]], Alexa, hey Siri, and hey Cortana when the product indicates with a sound that it is listening for a command or query.
 >
 > **[1:00](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=60)** For many products, people must know what to say and when and how to say it in order to get the desired results because the voice interface systems are not yet sufficiently capable of true conversational interactions with social and contextual awareness.
 >
@@ -3525,18 +3475,17 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=184)** We can guide people toward voice or physical interactions with onscreen instructions, suggestions, and other visual cues and signals such as now listening graphics and animations.
 >
-> **[3:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=197)** We also need to consider and focus on the socio-cultural implications of privacy, identity, and trust as technology becomes capable of interacting with us the same way other people would and as more shared and communal devices enter our lives.
+> **[3:17](https://www.linkedin.com/learning/ux-foundations-interaction-design/voice-14242618?u=76281980&t=197)** We also need to consider and focus on the socio-cultural implications of [[Privacy]], identity, and trust as technology becomes capable of interacting with us the same way other people would and as more shared and communal devices enter our lives.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), product (3), [[Speech Recognition]] (1), [[React.js|React]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Speech Recognition]] (1), [[React.js|React]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **Analogies:** such as (3)
 > **Env Vars:** led (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Sensors
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensors-14241559?u=76281980)
+#### [Sensors](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensors-14241559?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3552,17 +3501,16 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensors-14241559?u=76281980&t=34)** Recognize and offer information about sounds or other objects nearby, and to make device adjustments, such as modifying screen brightness and color temperature based on ambient light and time of day.
 >
-> **[0:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensors-14241559?u=76281980&t=47)** Sensors on devices may provide useful information, but this is also often personal and private information so we need to design products that are transparent about the data they collect, explain how those data are used and shared, and offer privacy and security controls to allow people to specify or limit how the data may be used.
+> **[0:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/sensors-14241559?u=76281980&t=47)** Sensors on devices may provide useful information, but this is also often personal and private information so we need to design [[Microsoft Products|products]] that are transparent about the data they collect, explain how those data are used and shared, and offer [[Privacy]] and security controls to allow people to specify or limit how the data may be used.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Products|Products]] (1), [[Privacy]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Privacy]] (1)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining microinteractions
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980)
+#### [Defining microinteractions](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3602,7 +3550,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980&t=105)** Microinteractions provide feedback.
 >
-> **[1:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980&t=107)** This verifies that the person has interacted with the product, or that the specified conditions have been met for the product to react.
+> **[1:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980&t=107)** This verifies that the person has interacted with the product, or that the specified conditions have been met for the product to [[React.js|react]].
 >
 > **[1:54](https://www.linkedin.com/learning/ux-foundations-interaction-design/defining-microinteractions-14239729?u=76281980&t=114)** For example, the icon that appears after setting an alarm and the sound and vibration of the alarm are the feedback of the microinteractions.
 >
@@ -3626,13 +3574,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), next (1), [[React.js|React]] (1), feature (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1)
 > **Analogies:** for example (3), such as (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - microinteractions (1), - smartphones (1)
 
-#### Microinteractions: Motion
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980)
+#### [Microinteractions: Motion](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3690,7 +3637,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980&t=176)** There is nearly always a transition from one form, state, or location to another.
 >
-> **[3:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980&t=182)** Digital products, which embody these real physical characteristics, can be more appealing, attractive, and enjoyable, and benefit from improved usability due to good motion design.
+> **[3:02](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-motion-14238699?u=76281980&t=182)** Digital [[Microsoft Products|products]], which embody these real physical characteristics, can be more appealing, attractive, and enjoyable, and benefit from improved usability due to good motion design.
 
 > [!info]- Semantic Content
 >
@@ -3698,8 +3645,7 @@ created: 2026-05-02
 > **Analogies:** such as (3), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Microinteractions: Sound
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980)
+#### [Microinteractions: Sound](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3711,7 +3657,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=29)** And it provides many signals; alarm clocks and seatbelt reminders.
 >
-> **[0:33](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=33)** (car beeping) Other than streaming media, our digital experiences are remarkably quiet, but sounds can be crafted to effectively enhance many products.
+> **[0:33](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=33)** (car beeping) Other than streaming media, our digital experiences are remarkably quiet, but sounds can be crafted to effectively enhance many [[Microsoft Products|products]].
 >
 > **[0:44](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=44)** We can think of sound as serving three purposes: It can attract and guide a person's attention and let them know that a task or action has been completed, something is available and ready, or that their input and interaction is necessary.
 >
@@ -3729,7 +3675,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=106)** Skype's sound system has a recognizable liquid nature.
 >
-> **[1:51](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=111)** Microsoft has had a series of recognizable startup chimes in their Windows operating system for more than 20 years.
+> **[1:51](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=111)** [[Microsoft]] has had a series of recognizable startup chimes in their [[Windows]] operating system for more than 20 years.
 >
 > **[1:59](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-sound-14238704?u=76281980&t=119)** We can also think about short sounds serving the same purpose as visual icons.
 >
@@ -3761,15 +3707,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (2), game (2), [[Microsoft]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Microsoft]] (1), [[Windows]] (1)
 > **Analogies:** such as (3), analogous to (1), for example (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (car beeping) (1)
 
-#### Microinteractions: Haptics
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980)
+#### [Microinteractions: Haptics](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3779,7 +3724,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980&t=13)** Proprioception comes from sensors inside our bodies that tell us about movement, spatial location and arrangement, rotation, and force, such as the weight of an object or if something is pushing back against us.
 >
-> **[0:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980&t=28)** Most of our digital products are not able to manipulate their weight, temperature or size, so there are currently a limited number of forms of haptic information we can provide.
+> **[0:28](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980&t=28)** Most of our digital [[Microsoft Products|products]] are not able to manipulate their weight, temperature or size, so there are currently a limited number of [[Forms]] of haptic information we can provide.
 >
 > **[0:39](https://www.linkedin.com/learning/ux-foundations-interaction-design/microinteractions-haptics-14236880?u=76281980&t=39)** Vibrations are created by small motors inside the device that spin an off-center weight.
 >
@@ -3843,14 +3788,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), power (2), product (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Forms]] (1)
 > **Analogies:** such as (4), for example (3)
 > **CLI Commands:** make (2), snap (2)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Error handling
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980)
+#### [Error handling](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3870,7 +3814,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980&t=48)** Place error messages as near the error as possible.
 >
-> **[0:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980&t=52)** Many products use two types of error message, a generic message simply stating that an error has occurred, often placed where it may be clearly seen, and a specific message near the error itself.
+> **[0:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980&t=52)** Many [[Microsoft Products|products]] use two types of error message, a generic message simply stating that an error has occurred, often placed where it may be clearly seen, and a specific message near the error itself.
 >
 > **[1:06](https://www.linkedin.com/learning/ux-foundations-interaction-design/error-handling-14235950?u=76281980&t=66)** Error messages use design characteristics intended to attract attention.
 >
@@ -3898,14 +3842,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), generic (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Definitions:** means that (2)
 > **Analogies:** such as (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mistakes
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980)
+#### [Mistakes](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3915,7 +3858,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980&t=15)** A mistake is an incorrect choice or information that does not prevent the action or process from being completed but the end result is not anticipated or desired.
 >
-> **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980&t=27)** Let's use online banking for an example.
+> **[0:27](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980&t=27)** Let's use online [[Banking]] for an example.
 >
 > **[0:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/mistakes-14239730?u=76281980&t=31)** If I have $1,000 in my savings account and I request a transfer of $1,000 to my checking account but I wanted to transfer only $100, the transfer will be processed and my savings account will be empty.
 >
@@ -3943,14 +3886,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), product (1)
+> **Frameworks & Libraries:** [[Banking]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Usability and accessibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980)
+#### [Usability and accessibility](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4018,7 +3960,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=199)** The most important thing is that you're able to define usability in a way that makes it possible for you to make better design decisions, as well as measure the quality and performance of a product.
 >
-> **[3:32](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=212)** Research and testing prototypes and products is essential to evaluating usability.
+> **[3:32](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=212)** Research and testing prototypes and [[Microsoft Products|products]] is essential to evaluating usability.
 >
 > **[3:38](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=218)** We assess usability while we are creating the product, but we also need to monitor and evaluate usability after a product has been released, because how people actually use it and what we anticipated are often not the same.
 >
@@ -4038,11 +3980,11 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=286)** Accessibility is a large and very important topic, too large, in fact, to adequately cover here.
 >
-> **[4:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=292)** For more information about accessibility, a good place to start is the [[Accessibility for Web Design]] course with Derek Featherstone.
+> **[4:52](https://www.linkedin.com/learning/ux-foundations-interaction-design/usability-and-accessibility-14236894?u=76281980&t=292)** For more information about accessibility, a good place to start is the [[Accessibility for [[Web Design]]]] course with Derek Featherstone.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (26), [[Microsoft Products|Products]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Web Design]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** iso (1)
@@ -4053,8 +3995,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A solid foundation
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)
+#### [A solid foundation](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4064,9 +4005,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=10)** There are many other relevant fields and it's almost impossible to cover every type of problem or product an interaction designer might work on.
 >
-> **[0:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=18)** But we've built a solid foundation, and we have a model to help us take a more systematic and structured approach to crafting better products that effectively meet people's needs and deliver positive experiences.
+> **[0:18](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=18)** But we've built a solid foundation, and we have a model to help us take a more systematic and structured approach to crafting better [[Microsoft Products|products]] that effectively meet people's needs and deliver positive experiences.
 >
-> **[0:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=31)** If we, as interaction designers, understand how people think, what they need and expect, how they learn and remember, what motivates them, and how they react and feel, then we can identify and deliver effective solutions and excellent products.
+> **[0:31](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=31)** If we, as interaction designers, understand how people think, what they need and expect, how they learn and remember, what motivates them, and how they [[React.js|react]] and feel, then we can identify and deliver effective solutions and excellent products.
 >
 > **[0:47](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=47)** We also need to remain current and knowledgeable about ever-changing technology and design practices, so stay connected and active in the interaction and larger UX design communities.
 >
@@ -4080,11 +4021,11 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=75)** If you want to reach out, or if you have any questions, I'd love to hear from you.
 >
-> **[1:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=79)** You can connect with me on LinkedIn or follow me on Twitter, @davehogue.
+> **[1:19](https://www.linkedin.com/learning/ux-foundations-interaction-design/a-solid-foundation?u=76281980&t=79)** You can connect with me on [[LinkedIn]] or follow me on Twitter, @davehogue.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), product (1), [[React.js|React]] (1), ux (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[React.js|React]] (1), [[LinkedIn]] (1)
 > **Speakers:** - we (1)
 
 

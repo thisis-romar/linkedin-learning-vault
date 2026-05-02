@@ -90,16 +90,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### RESTful WordPress through an API
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980)
+#### [RESTful WordPress through an API](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=0)** - [Instructor] What if I told you you can create, read, update, and delete content in your WordPress site from anywhere without ever going to the WordPress site itself?
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=0)** - [Instructor] What if I told you you can create, read, update, and delete content in your [[WordPress]] site from anywhere without ever going to the WordPress site itself?
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=8)** Sounds ridiculous, right?
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=10)** Well, it's true, thanks to the WordPress REST API.
+> **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=10)** Well, it's true, thanks to the WordPress [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-rest-api-2/restful-wordpress-through-an-api?u=76281980&t=14)** Every WordPress site on the web has a restful API we can use to request existing content, edit that content, create new content, and delete content, all without visiting the site itself.
 >
@@ -115,22 +114,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (11), api (5), [[Representational State Transfer (REST)|Rest]] (4), data (2), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (11), [[Representational State Transfer (REST)|Rest]] (4)
 > **Env Vars:** api (5), rest (4)
 > **Speakers:** - [instructor] (1)
 
-#### Prerequisites for this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980)
+#### [Prerequisites for this course](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=0)** - [Instructor] Because this course is about a REST API, it is, by default, an intermediate to advanced course.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=0)** - [Instructor] Because this course is about a [[Representational State Transfer (REST)|REST]] API, it is, by default, an intermediate to advanced course.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=6)** And to get the most out of what's covered, it's important that you have the right prerequisites in place.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=11)** First off, you need a good understanding of how to use, publish with, and configure WordPress itself, and you need some experience working with WordPress code and themes and plugins.
+> **[0:11](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=11)** First off, you need a good understanding of how to use, publish with, and configure [[WordPress]] itself, and you need some experience working with WordPress code and themes and plugins.
 >
-> **[0:21](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=21)** The code examples in this course are mostly modern JavaScript, so some experience writing JavaScript is expected, but you don't need to know anything about JavaScript libraries or modules or anything like that.
+> **[0:21](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=21)** The code examples in this course are mostly modern [[JavaScript]], so some experience writing JavaScript is expected, but you don't need to know anything about JavaScript libraries or modules or anything like that.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-rest-api-2/prerequisites-for-this-course?u=76281980&t=32)** We're just writing straight up JavaScript.
 >
@@ -140,7 +138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[JavaScript]] (4), [[WordPress]] (3), api (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[JavaScript]] (4), [[WordPress]] (3)
 > **Env Vars:** rest (4), api (2)
 > **CLI Commands:** make (1)
 > **Prerequisites:** configure (1)
@@ -151,12 +149,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is the WordPress REST API?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980)
+#### [What is the WordPress REST API?](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=0)** - [Instructor] The WordPress REST API, sometimes referred to as the WP-API, became a core feature of WordPress in version 4.7 in December 2016 and has since then become one of the core building blocks of WordPress itself.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API, sometimes referred to as the WP-API, became a core feature of WordPress in version 4.7 in December 2016 and has since then become one of the core building blocks of WordPress itself.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=13)** So what is this REST API and what can it do?
 >
@@ -166,7 +163,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=24)** It provided complete separation between the content of a site and its presentation by allowing any client to interact with the data, even outside of WordPress.
 >
-> **[0:34](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=34)** In it's most concise definition, the WordPress REST API is a RESTful API that uses simple HTTP requests to access the data of a WordPress site in JSON format.
+> **[0:34](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=34)** In it's most concise definition, the WordPress REST API is a RESTful API that uses simple HTTP requests to access the data of a WordPress site in [[JSON]] format.
 >
 > **[0:45](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=45)** That's quite a mouthful so here's the English translation.
 >
@@ -178,7 +175,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=72)** And this opens up a whole new world of opportunities.
 >
-> **[1:16](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=76)** You see, up until now, if you wanted to read a WordPress post or page, you had to use a WordPress query in PHP, typically through a WordPress theme.
+> **[1:16](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=76)** You see, up until now, if you wanted to read a WordPress post or page, you had to use a WordPress query in [[PHP]], typically through a WordPress theme.
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-rest-api-2/what-is-the-wordpress-rest-api?u=76281980&t=85)** The theme would use the WordPress templating engine and hierarchy to output the post or page or whatever other content you requested through the address bar in your browser.
 >
@@ -204,7 +201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (24), api (14), [[Representational State Transfer (REST)|Rest]] (11), data (8), database (2)
+> **Frameworks & Libraries:** [[WordPress]] (24), [[Representational State Transfer (REST)|Rest]] (11), [[PHP]] (2), [[JSON]] (1)
 > **Env Vars:** api (14), rest (11), php (2), http (1), json (1)
 > **CLI Commands:** php (2)
 > **Definitions:** is a  (2)
@@ -213,24 +210,23 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are RESTful APIs and JSON?
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980)
+#### [What are RESTful APIs and JSON?](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=0)** - [Instructor] Working with REST APIs, we use a lot of specialized terminology and acronyms, like REST, and API and JSON.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=0)** - [Instructor] Working with [[Representational State Transfer (REST)|REST]] APIs, we use a lot of specialized terminology and acronyms, like REST, and API and [[JSON]].
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=7)** And knowing what these mean and what they describe makes it easier to understand what's going on.
 >
 > **[0:11](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=11)** So, let's break some of these down right here at the top of the course.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=15)** WordPress ships with what's known as a RESTful API, and in this course, we'll explore how to work with this API to receive and send data through WordPress.
+> **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=15)** [[WordPress]] ships with what's known as a RESTful API, and in this course, we'll explore how to work with this API to receive and send data through WordPress.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=25)** But what exactly is a REST API, and what makes it RESTful?
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=30)** The term is a combination of two acronyms: REST and API.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=35)** REST stands for representational state transfer, which describes the software architecture of the web.
+> **[0:35](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=35)** REST stands for [[Representational State Transfer (REST)|representational state transfer]], which describes the [[Software Architecture]] of the web.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=41)** Anytime you visit a URL, the server or service transfers representation of the current state of whatever is at the other end of that URL.
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=83)** In other words, we interact with the REST API by sending standard URI requests, along with verbs like Get, Post, Put, Delete, and so on.
 >
-> **[1:32](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=92)** The data returned from the REST API is in JSON format, JSON being short for Java script object notation.
+> **[1:32](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=92)** The data returned from the REST API is in JSON format, JSON being short for [[Java]] script object notation.
 >
 > **[1:40](https://www.linkedin.com/learning/wordpress-rest-api-2/what-are-restful-apis-and-json?u=76281980&t=100)** JSON is a web standard and is one of the simplest and most robust formats for communicating data between different applications.
 >
@@ -262,17 +258,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (11), [[JSON]] (6), data (6), [[WordPress]] (5)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (11), [[JSON]] (6), [[WordPress]] (5), [[Representational State Transfer (REST)|Representational state transfer]] (1), [[Software Architecture]] (1)
 > **Env Vars:** api (13), rest (11), json (6), url (4), uri (1)
 > **Definitions:** is a  (4), stands for (2), known as (1), is called (1), in other words (1)
 > **Speakers:** - [instructor] (1)
 
-#### Routes and endpoints
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980)
+#### [Routes and endpoints](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=0)** - [Instructor] Interacting with a WordPress REST API is done through accessing what's known as routes and endpoints.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=0)** - [Instructor] Interacting with a [[WordPress]] [[Representational State Transfer (REST)|REST]] API is done through accessing what's known as routes and endpoints.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=5)** These are two are connected terms that are used together, so they should also be explained together.
 >
@@ -290,7 +285,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=47)** I can achieve this by using the GET endpoint at the wp/v2/posts/456 route.
 >
-> **[0:56](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=56)** This endpoint retrieves the data from the database entry with the ID 456 and returns it to me as a JSON object.
+> **[0:56](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=56)** This endpoint retrieves the data from the database entry with the ID 456 and returns it to me as a [[JSON]] object.
 >
 > **[1:04](https://www.linkedin.com/learning/wordpress-rest-api-2/routes-and-endpoints?u=76281980&t=64)** Now, if I have the correct authentication in place, meaning a username and a password and the correct privileges, this same route also has two additional endpoints, PUT, which grabs the existing data, then takes whatever I put into it and updates the data and then returns it to me, and DELETE, which goes in and deletes the data entry from the server entirely.
 >
@@ -300,19 +295,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Representational State Transfer (REST)|Rest]] (4), api (4), [[WordPress]] (3), database (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[WordPress]] (3), [[JSON]] (1)
 > **Env Vars:** rest (4), api (4), uri (3), json (1), put (1)
 > **Definitions:** is a  (2), known as (1)
 > **API Endpoints:** get  (1), /v2/posts/456 (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Communicating with the REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980)
+#### [Communicating with the REST API](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=0)** - [Instructor] The WordPress REST API and all its routes and endpoints sit at your WordPress site under a common URL, [yoursite.com/wp-json](https://yoursite.com/wp-json).
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API and all its routes and endpoints sit at your WordPress site under a common URL, [yoursite.com/wp-[[JSON]]](https://yoursite.com/wp-json).
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=10)** From here we can request any of the content or any of the information about the site.
 >
@@ -328,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=55)** Second, this compact, standardized JSON format is not so easy to read, at least not for a human being using a browser.
 >
-> **[1:03](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=63)** There's a simple reason for this, a web browser is built to parse HTML and CSS and JavaScript, not pure JSON formatted data.
+> **[1:03](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=63)** There's a simple reason for this, a web browser is built to parse [[HTML]] and CSS and [[JavaScript]], not pure JSON formatted data.
 >
 > **[1:11](https://www.linkedin.com/learning/wordpress-rest-api-2/communicating-with-the-rest-api?u=76281980&t=71)** To explore what the REST API returns to us when we send it a request, we need a client application built for that job.
 >
@@ -380,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (9), data (9), [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (7), api (3)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (7), [[HTML]] (3), [[JavaScript]] (2)
 > **Env Vars:** rest (8), json (6), api (3), html (3), css (3)
 > **API Endpoints:** get  (6), /v2/posts (2)
 > **URLs:** [mor10.com](https://mor10.com) (3), [yoursite.com](https://yoursite.com) (1), [getpostman.com](https://getpostman.com) (1)
@@ -389,12 +383,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (2)
 > **Definitions:** known as (1), is a  (1)
 
-#### Explore the REST API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980)
+#### [Explore the REST API response](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=0)** - [Instructor] Now that you've seen how to interact with the Wordpress REST API using Postman, I'm pretty sure the first question you have is how do I know what routes I can use and what endpoints are available at those routes?
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=0)** - [Instructor] Now that you've seen how to interact with the [[WordPress]] [[Representational State Transfer (REST)|REST]] API using Postman, I'm pretty sure the first question you have is how do I know what routes I can use and what endpoints are available at those routes?
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=10)** After all, you don't want to just get the post index.
 >
@@ -404,7 +397,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=29)** All you have to do is ask.
 >
-> **[0:31](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=31)** To see a list of every available route and endpoint, type in the URL of your site, so in my case [morton.com](https://morton.com), followed by WP dash JSON, WPV2.
+> **[0:31](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=31)** To see a list of every available route and endpoint, type in the URL of your site, so in my case [morton.com](https://morton.com), followed by WP dash [[JSON]], WPV2.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-rest-api-2/explore-the-rest-api-response?u=76281980&t=43)** So I'll take away the pulses here.
 >
@@ -550,7 +543,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Representational State Transfer (REST)|Rest]] (6), data (4), next (4), [[WordPress]] (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[WordPress]] (3), [[JSON]] (2)
 > **Env Vars:** api (9), rest (6), json (2), url (1), wpv2 (1)
 > **CLI Commands:** find (2)
 > **URLs:** [morton.com](https://morton.com) (1)
@@ -559,18 +552,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Useful routes: A quick reference
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980)
+#### [Useful routes: A quick reference](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=0)** - This API index provided at the /wp/v2/ route is really useful if you want to dig in and figure out what routes and end points and arguments are available on how to create custom requests for the REST API.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=0)** - This API index provided at the /wp/v2/ route is really useful if you want to dig in and figure out what routes and end points and arguments are available on how to create custom requests for the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=14)** However, if you're just looking for routes it's a bit tedious to work with because you have to scroll up and down and you can see it's a huge response with a ton of information.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=22)** You have to kind of figure out what you want to use.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=25)** To provide you with a quick reference for the basic routes in the WordPress REST API, I have created a collection of routes you can import directly in to Postman.
+> **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=25)** To provide you with a quick reference for the basic routes in the [[WordPress]] REST API, I have created a collection of routes you can import directly in to Postman.
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/useful-routes-a-quick-reference?u=76281980&t=33)** They're available in the exercise files for this course under the assets folder.
 >
@@ -662,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Representational State Transfer (REST)|Rest]] (6), [[WordPress]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (6), [[WordPress]] (2)
 > **Env Vars:** api (7), rest (5), url (2), wp_rest_api (1)
 > **CLI Commands:** make (9)
 > **Code Identifiers:** base_url (6), postman_collection (1)
@@ -671,12 +663,11 @@ created: 2026-05-02
 > **Tools:** postman (5)
 > **API Endpoints:** get  (3)
 
-#### Expanding the response with embeds
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/expanding-the-response-with-embeds?u=76281980)
+#### [Expanding the response with embeds](https://www.linkedin.com/learning/wordpress-rest-api-2/expanding-the-response-with-embeds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/expanding-the-response-with-embeds?u=76281980&t=0)** - [Morten] Now that you've seen how we use Postman to interact with the WordPress REST API, let's take a closer look at the response from the REST API and how we can expand it.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/expanding-the-response-with-embeds?u=76281980&t=0)** - [Morten] Now that you've seen how we use Postman to interact with the [[WordPress]] [[Representational State Transfer (REST)|REST]] API, let's take a closer look at the response from the REST API and how we can expand it.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-rest-api-2/expanding-the-response-with-embeds?u=76281980&t=9)** Here, I encourage you to play along using Postman and a WordPress site of your choosing.
 >
@@ -772,7 +763,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), api (6), [[WordPress]] (3)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (7), [[WordPress]] (3)
 > **Env Vars:** rest (7), api (6), uri (1)
 > **UI Navigation:** scroll down (2), select the (1)
 > **URLs:** [mor10.com](https://mor10.com) (2)
@@ -781,20 +772,19 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** wp_term (1)
 
-#### Challenge: Find posts in a category
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980)
+#### [Challenge: Find posts in a category](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=0)** (upbeat electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=5)** - [Instructor] To get the most out of what you're learning in this course and to give you that all important hands-on experience with the REST API, I've created challenges for you throughout the course.
+> **[0:05](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=5)** - [Instructor] To get the most out of what you're learning in this course and to give you that all important hands-on experience with the [[Representational State Transfer (REST)|REST]] API, I've created challenges for you throughout the course.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=14)** And here's the first one.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=15)** Just a side note, this one requires some setup which will come in handy as we move forward in the course, so do the setup now for the challenge and then you don't have to do it later.
 >
-> **[0:24](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=24)** Before you do the challenge, setup a WordPress site in a local dev environment on your computer using whatever tool you're comfortable with.
+> **[0:24](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=24)** Before you do the challenge, setup a [[WordPress]] site in a local dev environment on your computer using whatever tool you're comfortable with.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-find-posts-in-a-category?u=76281980&t=32)** I'm using Local by Flywheel and my site has the domain name restful.local.
 >
@@ -832,7 +822,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), api (4), [[WordPress]] (3), next (2), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (4), [[WordPress]] (3)
 > **Env Vars:** rest (4), api (4)
 > **Prerequisites:** setup (4), set up (2)
 > **Tools:** postman (4)
@@ -841,14 +831,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Find posts in a category
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980)
+#### [Solution: Find posts in a category](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=0)** - [Instructor] Welcome back, did you find the answer?
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=7)** This challenge forces you to think carefully about how the REST API works and what it tells you.
+> **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=7)** This challenge forces you to think carefully about how the [[Representational State Transfer (REST)|REST]] API works and what it tells you.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=13)** So if you had a bit of trouble, that's to be expected.
 >
@@ -952,7 +941,7 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=274)** And the third one down here is called edge case many categories.
 >
-> **[4:40](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=280)** So I think those are the three posts I'm looking for and I'm going to make sure by just going to WordPress itself, going to posts categories.
+> **[4:40](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=280)** So I think those are the three posts I'm looking for and I'm going to make sure by just going to [[WordPress]] itself, going to posts categories.
 >
 > **[4:48](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-find-posts-in-a-category?u=76281980&t=288)** And then remember the category we're looking for was called what?
 >
@@ -968,7 +957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (8), [[Search]] (7), [[WordPress]] (1), data (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (1)
 > **Env Vars:** api (8), rest (7)
 > **CLI Commands:** find (6), make (1)
 > **Definitions:** is called (3)
@@ -982,12 +971,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Notes on modifying a REST API response
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980)
+#### [Notes on modifying a REST API response](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980&t=0)** - [Instructor] The default response from the WordPress rest API is pretty comprehensive and with the long list of links at the bottom of each post object and the embedding feature, you're able to get most content with ease.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980&t=0)** - [Instructor] The default response from the [[WordPress]] [[Representational State Transfer (REST)|rest]] API is pretty comprehensive and with the long list of links at the bottom of each post object and the embedding feature, you're able to get most content with ease.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-rest-api-2/notes-on-modifying-a-rest-api-response?u=76281980&t=12)** Even so there will be times when you need some additional content added to the response to add a new content type or feature to the site or app your building.
 >
@@ -1023,21 +1011,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), [[WordPress]] (3), [[Representational State Transfer (REST)|Rest]] (3), data (3), feature (2)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Representational State Transfer (REST)|Rest]] (3)
 > **Env Vars:** api (10)
 > **Prerequisites:** setup (1), before we start (1)
 > **CLI Commands:** find (1)
 > **Documentation:** the documentation (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add custom post types and taxonomies
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980)
+#### [Add custom post types and taxonomies](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980&t=0)** - [Man] Custom post types and taxonomies are pretty much expected editions anytime you build an advanced WordPress site or service.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980&t=0)** - [Man] Custom post types and taxonomies are pretty much expected editions anytime you build an advanced [[WordPress]] site or service.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980&t=7)** And, now that we have the REST API, we need to make sure we're able to add these custom post types and taxonomies into the REST API response, if we need them to be there.
+> **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980&t=7)** And, now that we have the [[Representational State Transfer (REST)|REST]] API, we need to make sure we're able to add these custom post types and taxonomies into the REST API response, if we need them to be there.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-post-types-and-taxonomies?u=76281980&t=17)** REST API support for custom post types and taxonomies is enabled in the original registration of these items, and the WordPress developer handbook provides all the information we need, both on this page, Adding REST API Support For Custom Content Types, and in the documentation pages for register_post_type and register_taxonomy.
 >
@@ -1105,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (16), api (12), [[WordPress]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (16), [[WordPress]] (2)
 > **Env Vars:** rest (16), api (12), cpt (1)
 > **Code Identifiers:** show_in_rest (7), rest_base (3), register_post_type (1), register_taxonomy (1), wp_block (1)
 > **CLI Commands:** find (4), make (3)
@@ -1114,14 +1101,13 @@ created: 2026-05-02
 > **API Endpoints:** /v2/books (1), /v2/boker (1)
 > **Tools:** postman (2)
 
-#### Add custom fields to the response
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980)
+#### [Add custom fields to the response](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=0)** - Once you start using the REST API, there's a good chance you'll find yourself needing to add custom content to the REST API response either because you need to modify what's already there, or because you need to add new data.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=0)** - Once you start using the [[Representational State Transfer (REST)|REST]] API, there's a good chance you'll find yourself needing to add custom content to the REST API response either because you need to modify what's already there, or because you need to add new data.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=11)** This is done using standard PHP and WordPress functions and a plugin or child theme or full theme.
+> **[0:11](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=11)** This is done using standard [[PHP]] and [[WordPress]] functions and a plugin or child theme or full theme.
 >
 > **[0:17](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=17)** Where exactly that code resides depends on how and where that new content will be used.
 >
@@ -1169,7 +1155,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=138)** So if you have a new custom post type, like the classes custom post type I created, you could add it to that by saying classes here, then you give your new field a name.
 >
-> **[2:27](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=147)** So this will be the name that's displayed inside the REST API, the one that you call anytime you access the JSON object.
+> **[2:27](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=147)** So this will be the name that's displayed inside the REST API, the one that you call anytime you access the [[JSON]] object.
 >
 > **[2:34](https://www.linkedin.com/learning/wordpress-rest-api-2/add-custom-fields-to-the-response?u=76281980&t=154)** So in my case, I want to call this one catlinks, because what I'm doing is outputting a chain of all the links to all the categories for specific posts.
 >
@@ -1237,7 +1223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (19), api (12), [[PHP]] (3), data (2), [[WordPress]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (19), [[PHP]] (3), [[WordPress]] (2), [[JSON]] (1)
 > **Env Vars:** rest (12), api (12), php (2), rdp (1), json (1)
 > **CLI Commands:** find (6), php (3)
 > **UI Navigation:** go to (7), scroll down (1)
@@ -1246,14 +1232,13 @@ created: 2026-05-02
 > **File Paths:** restfields.php (1)
 > **Tools:** postman (1)
 
-#### Challenge: Add fields to the response
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980)
+#### [Challenge: Add fields to the response](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=0)** - [Instructor] Time for another challenge.
 >
-> **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=6)** This time I want you to take what you've learned about adding new fields to the REST API, and add some more fields.
+> **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=6)** This time I want you to take what you've learned about adding new fields to the [[Representational State Transfer (REST)|REST]] API, and add some more fields.
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=12)** Here's what I want you to do specifically.
 >
@@ -1265,7 +1250,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=31)** Getting the previous post is a common thing theme developers do all the time, and there is probably an existing function that allows you to query the previous post and get old information.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=42)** You need to get that previous post object in PHP, pull out the pieces you need, and return them to new REST API fields.
+> **[0:42](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=42)** You need to get that previous post object in [[PHP]], pull out the pieces you need, and return them to new REST API fields.
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-fields-to-the-response?u=76281980&t=50)** And you have to set up several fields here.
 >
@@ -1277,7 +1262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), api (2), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[PHP]] (1)
 > **Env Vars:** rest (2), api (2), php (1)
 > **CLI Commands:** php (1)
 > **Exercise Files:** exercise files (1)
@@ -1286,8 +1271,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Add fields to the response
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980)
+#### [Solution: Add fields to the response](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1305,7 +1289,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=24)** You'll remember, it's this one, catlinks.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=26)** So when I want to register additional fields, all I need to do is grab the entire register rest field function, copy it, and then just paste it below, give the new field a new name, so previous_post_ID, and then call a new callback function; so, in this case, RDP_get_previous_post_ID.
+> **[0:26](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=26)** So when I want to register additional fields, all I need to do is grab the entire register [[Representational State Transfer (REST)|rest]] field function, copy it, and then just paste it below, give the new field a new name, so previous_post_ID, and then call a new callback function; so, in this case, RDP_get_previous_post_ID.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=43)** Then I just did the same three times for the three new fields I want to create So we have previous_post_ID, previous_post_title, and previous_post_link.
 >
@@ -1313,7 +1297,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=54)** Then I need to create these callback functions, and I mentioned in the setup for the challenge that getting the previous post is a fairly standard thing theme developers and plug-in developers do all the time.
 >
-> **[1:05](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=65)** Well, I'm going to take advantage of that here to use existing functionality and WordPress to just pull the data I need.
+> **[1:05](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=65)** Well, I'm going to take advantage of that here to use existing functionality and [[WordPress]] to just pull the data I need.
 >
 > **[1:12](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-fields-to-the-response?u=76281980&t=72)** So for each of these three callback functions, I first get the previous post.
 >
@@ -1357,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[WordPress]] (2), next (2), data (1), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[WordPress]] (2)
 > **Code Identifiers:** get_previous_post (3), previous_post_title (2), previous_post_link (2), get_the_title (2), get_previous_post_title (1)
 > **Env Vars:** hello (2), world (2), rest (1), api (1)
 > **CLI Commands:** make (1), find (1)
@@ -1371,16 +1355,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Authentication and authorization
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980)
+#### [Authentication and authorization](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=0)** - [Instructor] Anytime you want to do something beyond accessing the public data in a WordPress site through the REST API, say access private data or create or update content or delete something, you need to submit an authenticated request and have the correct authorization to perform that action.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=0)** - [Instructor] Anytime you want to do something beyond accessing the public data in a [[WordPress]] site through the [[Representational State Transfer (REST)|REST]] API, say access private data or create or update content or delete something, you need to submit an authenticated request and have the correct authorization to perform that action.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=15)** The operative words here are authentication and authorization.
 >
-> **[0:19](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=19)** Think of an office environment.
+> **[0:19](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=19)** Think of an [[Microsoft Office|office]] environment.
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-rest-api-2/authentication-and-authorization?u=76281980&t=21)** Some rooms are open to the public, and some rooms are locked.
 >
@@ -1450,7 +1433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (22), api (11), [[Representational State Transfer (REST)|Rest]] (9), application (8), data (5)
+> **Frameworks & Libraries:** [[WordPress]] (22), [[Representational State Transfer (REST)|Rest]] (9), [[Microsoft Office|Office]] (3)
 > **Env Vars:** api (11), rest (9), crud (1)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (1)
@@ -1458,12 +1441,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic authentication (development only)
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980)
+#### [Basic authentication (development only)](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=0)** - [Instructor] Logging in on authenticating a user with WordPress itself is done through passing a username and password, and this can also be done in the REST API, but it's not recommended because it bypasses all reasonable security standards and is very insecure.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=0)** - [Instructor] Logging in on authenticating a user with [[WordPress]] itself is done through passing a username and password, and this can also be done in the [[Representational State Transfer (REST)|REST]] API, but it's not recommended because it bypasses all reasonable security standards and is very insecure.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=14)** For this reason, basic authentication should only be used in development environments when you're doing testing.
 >
@@ -1475,7 +1457,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=46)** All that said, basic authentication can be enabled through a plugin, that for obvious reasons is not available in the plugin directory.
 >
-> **[0:53](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=53)** To get the plugin, go to the WP-API GitHub account and find the Basic-Auth repository.
+> **[0:53](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=53)** To get the plugin, go to the WP-API [[GitHub]] account and find the Basic-Auth repository.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=61)** Then, you can click on the clone or download button and download the zip archive onto your computer.
 >
@@ -1501,7 +1483,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=152)** So that means adding a new POST.
 >
-> **[2:34](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=154)** Now of course my POST needs some content, so in the body tab here I'll add some raw data, format it as JSON, and put in some curly brackets, and then the POST should have a title, and it can be "A post created using the REST API," comma, probably needs some content, and finally I want the status set to publish so that I can see the POST on the front-end of the site right away, so I'll set status to publish.
+> **[2:34](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=154)** Now of course my POST needs some content, so in the body tab here I'll add some raw data, format it as [[JSON]], and put in some curly brackets, and then the POST should have a title, and it can be "A post created using the REST API," comma, probably needs some content, and finally I want the status set to publish so that I can see the POST on the front-end of the site right away, so I'll set status to publish.
 >
 > **[3:15](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-authentication-development-only?u=76281980&t=195)** Now, because I am sending an authenticator request send in the process declaring who I am, I don't need to say anything about who the author is.
 >
@@ -1567,7 +1549,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[Representational State Transfer (REST)|Rest]] (12), [[WordPress]] (3), [[Security]] (2), next (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (12), [[WordPress]] (3), [[JSON]] (2), [[GitHub]] (1)
 > **Env Vars:** post (26), api (13), rest (12), json (2), crud (1)
 > **API Endpoints:** post  (17), get  (2), post
  (1)
@@ -1577,16 +1559,15 @@ created: 2026-05-02
 > **Tools:** github (1), postman (1)
 > **Exercise Files:** download the (1)
 
-#### Cookie authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980)
+#### [Cookie authentication](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=0)** - [Speaker] The method WordPress core uses to authenticate users is called cookie authentication.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=0)** - [Speaker] The method [[WordPress]] core uses to authenticate users is called cookie authentication.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=5)** The purpose of cookie authentication is not only to authenticate the original login, but also confirm the authenticity of the visitor any time the visitor tries to do something.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=15)** We can use cookie authentication with the REST API as long as the user is working within the context of WordPress, meaning they are logged in to WordPress through regular means in the current browser.
+> **[0:15](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=15)** We can use cookie authentication with the [[Representational State Transfer (REST)|REST]] API as long as the user is working within the context of WordPress, meaning they are logged in to WordPress through regular means in the current browser.
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication?u=76281980&t=25)** When using cookie authentication with a REST API, we're really piggybacking off the existing cookie authentication managed by WordPress itself.
 >
@@ -1694,7 +1675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (22), [[Representational State Transfer (REST)|Rest]] (7), api (7), application (5), database (3)
+> **Frameworks & Libraries:** [[WordPress]] (22), [[Representational State Transfer (REST)|Rest]] (7)
 > **Env Vars:** rest (7), api (7), url (3), jwt (1), csrf (1)
 > **Definitions:** is called (2), is a  (2), known as (1)
 > **CLI Commands:** make (2)
@@ -1703,18 +1684,17 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### JWT: JSON Web Token authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980)
+#### [JWT: JSON Web Token authentication](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=0)** - [Narrator] When you build an application that uses the REST API from outside the context of WordPress, you need to deploy more advanced forms of authentication, and one such authentication method is JWT, or JSON Web Tokens.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=0)** - [Narrator] When you build an application that uses the [[Representational State Transfer (REST)|REST]] API from outside the context of [[WordPress]], you need to deploy more advanced [[Forms]] of authentication, and one such authentication method is JWT, or [[JSON]] Web [[Tokens]].
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=13)** JWT is a tool designed to securely communicate JSON data between a source and a client, which in our case would be WordPress and a third-party app.
 >
 > **[0:23](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=23)** As I explained earlier, when you build a standalone application commonly referred to as a client that lives outside the context of WordPress, you need to add some additional steps to the authentication process to ensure actions performed on the REST API are secure and that only accounts with the correct level of authorization can actually perform these acts.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=42)** In WordPress, JWT solves this through a multi-step process, and to get it all to work you first have to add JWT support using a plugin, then add a secret key to wp-config.php, and finally configure your server to allow the exchange of JWT Tokens.
+> **[0:42](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=42)** In WordPress, JWT solves this through a multi-step process, and to get it all to work you first have to add JWT support using a plugin, then add a secret key to wp-config.[[PHP]], and finally configure your server to allow the exchange of JWT Tokens.
 >
 > **[1:00](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=60)** Once all of those pieces are in place, the actual authentication process works like this.
 >
@@ -1732,7 +1712,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=118)** And second, each request from the user sent through the client to the REST API is authenticated with the JWT Token.
 >
-> **[2:06](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=126)** Combined, these two steps form a secure authentication process.
+> **[2:06](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=126)** Combined, these two steps form a [[Secure Authentication]] process.
 >
 > **[2:10](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-json-web-token-authentication?u=76281980&t=130)** One important note before we continue.
 >
@@ -1744,7 +1724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (7), [[Representational State Transfer (REST)|Rest]] (6), api (6), application (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (7), [[Representational State Transfer (REST)|Rest]] (6), [[JSON]] (2), [[Tokens]] (2), [[Forms]] (1)
 > **Env Vars:** jwt (11), rest (6), api (6), json (2), post (1)
 > **Definitions:** is a  (2), is an  (1)
 > **File Paths:** wp-config.php (1)
@@ -1753,12 +1733,11 @@ created: 2026-05-02
 > **Warnings:** important note (1)
 > **Prerequisites:** configure (1)
 
-#### Add JWT support with a plugin
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980)
+#### [Add JWT support with a plugin](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=0)** - [Instructor] JWT authentication for the Word Press Rest API is added through a plugin.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=0)** - [Instructor] JWT authentication for the [[Microsoft Word|Word]] Press [[Representational State Transfer (REST)|Rest]] API is added through a plugin.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=5)** And you can install that plugin directly from the Word Press plugin directory by going to the backend of Word Press, going to plugin and add new, then searching for JWT.
 >
@@ -1770,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=27)** And now we need to make a couple of changes to the settings in Word Press and also on our server to get everything to work.
 >
-> **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=33)** All that information is on the plugin page on [wordpress.org](https://wordpress.org).
+> **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=33)** All that information is on the plugin page on [[[WordPress]].org](https://wordpress.org).
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=37)** If you scroll down you'll see first we need to allow HTTP authorization headers and that's done in .htaccess if you have an .htaccess file.
 >
@@ -1798,7 +1777,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=115)** So this is the JWT off secret key.
 >
-> **[1:58](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=118)** This key will be used to generate the new tokens so it needs to be a randomized key that's only for your site.
+> **[1:58](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=118)** This key will be used to generate the new [[Tokens]] so it needs to be a randomized key that's only for your site.
 >
 > **[2:04](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=124)** Now an easy way of finding a randomized string of texts you can put in here is to use the link up here for salts.
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=181)** So previously we've been looking at the index, but now we have to go all the way down to the root to see these new routes and end points.
 >
-> **[3:07](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=187)** So if you do request to the API root and do a search for JWT, you'll find here we have JWT-off/v1 so this would be wp-json/jwt-off/v1.
+> **[3:07](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=187)** So if you do request to the API root and do a search for JWT, you'll find here we have JWT-off/v1 so this would be wp-[[JSON]]/jwt-off/v1.
 >
 > **[3:24](https://www.linkedin.com/learning/wordpress-rest-api-2/add-jwt-support-with-a-plugin?u=76281980&t=204)** Scrolling down further you'll see here we have the route itself.
 >
@@ -1840,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), api (4), [[Representational State Transfer (REST)|Rest]] (3), next (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), [[Representational State Transfer (REST)|Rest]] (3), [[WordPress]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** jwt (8), api (4), http (2), cors (1)
 > **CLI Commands:** make (4), find (3)
 > **Prerequisites:** install (3), set up (2), configure (1)
@@ -1849,8 +1828,7 @@ created: 2026-05-02
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test JWT authentication via REST client
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980)
+#### [Test JWT authentication via REST client](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1872,7 +1850,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=32)** Now, you remember from a previous example, that to edit the title, I send a POST request.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=38)** And then in the body, I go to raw JSON, and pass a JSON object with whatever I want to change, in my case, title.
+> **[0:38](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=38)** And then in the body, I go to raw [[JSON]], and pass a JSON object with whatever I want to change, in my case, title.
 >
 > **[0:47](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=47)** And I want to change the title to new title sent through authenticated requests.
 >
@@ -1928,7 +1906,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=216)** And then I can go back to the body, change it again, so I'll say, updated title, send, I get the new updated title in return, and that means I am now sending authenticated requests through JWT and everything is working properly.
 >
-> **[3:53](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=233)** What's happening here is every time we send a request, WordPress checks this bearer token against its files to see who is sending the request, instead of constantly asking for the username and password.
+> **[3:53](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=233)** What's happening here is every time we send a request, [[WordPress]] checks this bearer token against its files to see who is sending the request, instead of constantly asking for the username and password.
 >
 > **[4:04](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=244)** That way, the only request that's ever sent for username and password is the very first request, and it's not sent to any content, it's just sent to the token route.
 >
@@ -1940,13 +1918,13 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=276)** Every single login gets a unique token to use.
 >
-> **[4:40](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=280)** So we can authenticate each person who accesses the REST API independently.
+> **[4:40](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=280)** So we can authenticate each person who accesses the [[Representational State Transfer (REST)|REST]] API independently.
 >
 > **[4:44](https://www.linkedin.com/learning/wordpress-rest-api-2/test-jwt-authentication-via-rest-client?u=76281980&t=284)** In the next chapter, I'll show you a practical code example of how to use JWT authentication to enable editing through a third party app using the REST API just like this.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (4), api (4), [[Representational State Transfer (REST)|Rest]] (2), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (4), [[Representational State Transfer (REST)|Rest]] (2), [[WordPress]] (1)
 > **Env Vars:** jwt (5), json (4), api (4), post (2), rest (2)
 > **UI Navigation:** go to (3), open the (1), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -1960,12 +1938,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Four practical examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980)
+#### [Four practical examples](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980&t=0)** - [Narrator] Understanding how the WordPress REST API works from a theoretical perspective is one thing, getting it to work in practice is another.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980&t=0)** - [Narrator] Understanding how the [[WordPress]] [[Representational State Transfer (REST)|REST]] API works from a theoretical perspective is one thing, getting it to work in practice is another.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-rest-api-2/four-practical-examples?u=76281980&t=7)** So in this chapter I want to provide you with four practical examples of how to use the REST API in four different ways for four different purposes.
 >
@@ -1987,16 +1964,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), api (8), [[WordPress]] (4), front-end (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (4)
 > **Env Vars:** rest (8), api (8), jwt (1)
 > **Speakers:** - [narrator] (1)
 
-#### Read only: Load next post using REST API
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980)
+#### [Read only: Load next post using REST API](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=0)** - [Instructor] To give you a practical example of how the REST API can be used within the context of a theme, I've created a child theme and made it available through the exercise files for this movie.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=0)** - [Instructor] To give you a practical example of how the [[Representational State Transfer (REST)|REST]] API can be used within the context of a theme, I've created a child theme and made it available through the exercise files for this movie.
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=9)** You can go grab the folder called TT Child and place it inside the themes folder of your local site and activate the child theme.
 >
@@ -2012,11 +1988,11 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=33)** Click on this link and it loads the previous post directly below the first one.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=38)** So I've created a bit of an odd user experience but it's for a good reason.
+> **[0:38](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=38)** So I've created a bit of an odd [[User Experience (UX)|user experience]] but it's for a good reason.
 >
 > **[0:43](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=43)** This type of functionality to conditionally load something only when the user asks for it is a perfect example of where you would use the REST API because then you can do it all dynamically within the page without having to reload it.
 >
-> **[0:56](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=56)** I chose to use an entire post object just to build enough HTML and CSS in JavaScript to give you all the bones you need to build some really advanced stuff.
+> **[0:56](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=56)** I chose to use an entire post object just to build enough [[HTML]] and CSS in [[JavaScript]] to give you all the bones you need to build some really advanced stuff.
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=65)** In reality I would probably use this functionality to maybe load comments or load links to related posts.
 >
@@ -2034,7 +2010,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=91)** There's some styles at the bottom here.
 >
-> **[1:32](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=92)** Then we have functions.php which calls in the stylesheet.
+> **[1:32](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=92)** Then we have functions.[[PHP]] which calls in the stylesheet.
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=97)** There's more stuff going on, but before we get to that there's a single .php file.
 >
@@ -2120,11 +2096,11 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=328)** And that way we get the featured image, we get the categories, we get author information, and everything else bundled into the response.
 >
-> **[5:35](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=335)** When we have our full query URL, the one we're going to send to the Rest API, we send it using fetch.
+> **[5:35](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=335)** When we have our full query URL, the one we're going to send to the Rest API, we send it using [[Fetch]].
 >
 > **[5:41](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=341)** So fetch sends a request to the Rest API and then waits until the Rest API responds before it does something.
 >
-> **[5:49](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=349)** Once we get a response we set that response as JSON, so that becomes a JSON object.
+> **[5:49](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=349)** Once we get a response we set that response as [[JSON]], so that becomes a JSON object.
 >
 > **[5:53](https://www.linkedin.com/learning/wordpress-rest-api-2/read-only-load-next-post-using-rest-api?u=76281980&t=353)** And then we take that JSON object and pass it onto a new function called buildNewPost.
 >
@@ -2186,7 +2162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (12), api (11), [[JavaScript]] (9), [[JSON]] (7), [[PHP]] (6)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (12), [[JavaScript]] (9), [[JSON]] (7), [[PHP]] (6), [[HTML]] (5)
 > **Env Vars:** api (11), rest (7), json (7), html (5), php (3)
 > **Code Identifiers:** rest_url (4), buildnewpost (3), postobject (3), getfeaturedimage (3), getpreviouspost (2)
 > **CLI Commands:** php (6), make (4), find (3), node (1)
@@ -2195,12 +2171,11 @@ created: 2026-05-02
 > **File Paths:** previous.js (3), functions.php (2)
 > **Exercise Files:** template (3), exercise files (1)
 
-#### Cookie authentication: Front-end editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980)
+#### [Cookie authentication: Front-end editing](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=0)** - [Instructor] When we use the REST API within the context of WordPress, either on the back end or on the front end, we can piggyback off WordPress its own authentication system to send authenticated requests, and access the full CRUD capabilities of the API.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=0)** - [Instructor] When we use the [[Representational State Transfer (REST)|REST]] API within the context of [[WordPress]], either on the back end or on the front end, we can piggyback off WordPress its own authentication system to send authenticated requests, and access the full CRUD capabilities of the API.
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=14)** In the exercise files for this new theme, you'll find a plug-in that adds front-end editing capabilities to the 2020 theme, using cookie authentication, nonces, and the REST API.
 >
@@ -2216,11 +2191,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=79)** Let's take a look at how this works on the back-end.
 >
-> **[1:22](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=82)** The plug-in file rest edits.PHP does only one thing, it checks if we are on the front-end, and on a single post, then it checks if the user is logged in, and that the user has to correct privileges to edit both their own posts and other people's posts, and if all of these checks return true, then we on cue the style sheet for the plugin, and the JavaScript file called rest edit.js for the plugin.
+> **[1:22](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=82)** The plug-in file rest edits.[[PHP]] does only one thing, it checks if we are on the front-end, and on a single post, then it checks if the user is logged in, and that the user has to correct privileges to edit both their own posts and other people's posts, and if all of these checks return true, then we on cue the style sheet for the plugin, and the [[JavaScript]] file called rest edit.js for the plugin.
 >
 > **[1:49](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=109)** Finally, we use this function down here wp-localize-script to pass a couple of values from PHP to the JavaScript file, this is the only way we can pass values, from PHP to the JavaScript file inside WordPress.
 >
-> **[2:02](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=122)** Inside wp-localize-script,we first get the rest URL, so that's the current site name and then slash WP JSON, and we pass that over as a variable called rest URL.
+> **[2:02](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=122)** Inside wp-localize-script,we first get the rest URL, so that's the current site name and then slash WP [[JSON]], and we pass that over as a variable called rest URL.
 >
 > **[2:14](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=134)** Then we get WordPress to create a nonce for us that we'll use to authenticate our requests, and we pass that one to the JavaScript file, and finally we get the current ID for the current post and pass that on.
 >
@@ -2248,7 +2223,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=241)** That's why when you click on edit title, you'll see the title appears inside the formField.
 >
-> **[4:06](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=246)** Next we add an event listener to the editForm, and when the form is submitted, we first prevent the default behavior which would reload the page, then we build a queryURL using the restURL, and the current ID that was passed from the PHP file earlier and then we set up a fetch function, that uses this query URL to send a post request to the rest API.
+> **[4:06](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=246)** Next we add an event listener to the editForm, and when the form is submitted, we first prevent the default behavior which would reload the page, then we build a queryURL using the restURL, and the current ID that was passed from the PHP file earlier and then we set up a [[Fetch]] function, that uses this query URL to send a post request to the rest API.
 >
 > **[4:30](https://www.linkedin.com/learning/wordpress-rest-api-2/cookie-authentication-front-end-editing?u=76281980&t=270)** This post request has one element in its body that's the title, and we populate that with the form field values that's whatever was typed into the form field, and then importantly we pass the nonce, as an X WP-Nonce header.
 >
@@ -2266,7 +2241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), [[WordPress]] (9), api (8), front-end (5), [[PHP]] (5)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (15), [[WordPress]] (9), [[PHP]] (5), [[JavaScript]] (4), [[Fetch]] (3)
 > **Env Vars:** api (8), rest (6), url (6), php (5), json (2)
 > **Code Identifiers:** editform (4), formfield (2), editbutton (1), edittitle (1), entrytitle (1)
 > **CLI Commands:** php (5), find (3), make (2)
@@ -2275,20 +2250,19 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1), setup (1), set up (1)
 > **Exercise Files:** exercise files (2)
 
-#### Basic standalone app
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980)
+#### [Basic standalone app](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=0)** - [Instructor] The WordPress REST API allows third party applications to gain access to content published with WordPress.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API allows third party applications to gain access to content published with WordPress.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=6)** To demonstrate how this is done, I've created a bare bones WordPress reader application and you can find it in the exercise files for this movie.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=13)** Just grab the WP reader folder and place it anywhere on your computer.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=17)** Now, this is a third-party application, independent from WordPress, so it does not need to live inside your WordPress development environment.
+> **[0:17](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=17)** Now, this is a third-party application, independent from WordPress, so it does not need to live inside your [[Wordpress Development]] environment.
 >
-> **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=25)** However, for WP Reader to work properly, it does need to run in a web server environment, it just doesn't need an advanced development environment for WordPress, because it has no database, it has no PHP, or anything like that.
+> **[0:25](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=25)** However, for WP Reader to work properly, it does need to run in a web server environment, it just doesn't need an advanced development environment for WordPress, because it has no database, it has no [[PHP]], or anything like that.
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=37)** Any web server will do here.
 >
@@ -2328,7 +2302,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=146)** I wanted to demonstrate the bare minimum you need to make a functional third-party app.
 >
-> **[2:31](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=151)** It's written in pure HTML, CSS, and JavaScript, and uses no libraries or dependencies or frameworks or anything fancy.
+> **[2:31](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=151)** It's written in pure [[HTML]], CSS, and [[JavaScript]], and uses no libraries or dependencies or frameworks or anything fancy.
 >
 > **[2:39](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=159)** It starts with index.html, which just sets up the framework.
 >
@@ -2348,13 +2322,13 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=209)** That function sits here.
 >
-> **[3:31](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=211)** GetLatestPosts goes to the query forms, that's the form at the top of the application that gets the URL, then it grabs the URL, creates an event listener for the button in this form, so when the button is clicked, we do a bunch of stuff down here including grabbing the URL from the form.
+> **[3:31](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=211)** GetLatestPosts goes to the query [[Forms]], that's the form at the top of the application that gets the URL, then it grabs the URL, creates an event listener for the button in this form, so when the button is clicked, we do a bunch of stuff down here including grabbing the URL from the form.
 >
 > **[3:50](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=230)** Then, creating a new queryURL based on that URL, so we take the URL to the new site.
 >
-> **[3:56](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=236)** Then we append wp-json/wp/v2/posts/, so this is the request for the 10 most recent posts.
+> **[3:56](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=236)** Then we append wp-[[JSON]]/wp/v2/posts/, so this is the request for the 10 most recent posts.
 >
-> **[4:02](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=242)** And then we just fetch that queryURL.
+> **[4:02](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=242)** And then we just [[Fetch]] that queryURL.
 >
 > **[4:05](https://www.linkedin.com/learning/wordpress-rest-api-2/basic-standalone-app?u=76281980&t=245)** If the response is successful, we set it up as a JSON object, and then we call another function called getPostsList.
 >
@@ -2418,7 +2392,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), application (9), [[Representational State Transfer (REST)|Rest]] (6), api (6), [[Fetch]] (5)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Representational State Transfer (REST)|Rest]] (6), [[Fetch]] (5), [[HTML]] (4), [[JSON]] (4)
 > **Env Vars:** url (9), rest (6), api (6), html (3), json (2)
 > **Code Identifiers:** queryurl (5), postobject (3), navitem (2), rawurl (2), buildpost (2)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
@@ -2427,12 +2401,11 @@ created: 2026-05-02
 > **File Paths:** index.html (1), loadpost.js (1)
 > **API Endpoints:** /v2/posts/ (2)
 
-#### JWT authentication: Third-party editing
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980)
+#### [JWT authentication: Third-party editing](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=0)** - [Instructor] The WordPress REST API allows third party applications to edit content in the WordPress database provided the correct authentication procedures are in place.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=0)** - [Instructor] The [[WordPress]] [[Representational State Transfer (REST)|REST]] API allows third party applications to edit content in the WordPress database provided the correct authentication procedures are in place.
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=8)** In the exercise files for this movie, you'll find another stand-alone application called WP Edit.
 >
@@ -2440,7 +2413,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=21)** The WP Edit application assumes you have JWT set up and working on your WordPress site, and we covered this in the previous chapter, so if you haven't done it, you need to go follow that instruction and set up JWT to work on whatever site you want to test this with.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=35)** To use the application with that site, you also have to set up the URL for that site inside the two JavaScript files.
+> **[0:35](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=35)** To use the application with that site, you also have to set up the URL for that site inside the two [[JavaScript]] files.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=41)** So jwt.js at the very top, the restRoot needs to be set to the current site.
 >
@@ -2512,11 +2485,11 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=243)** The getToken function grabs the username and password, then creates a new restURL that points at the jwt-auth/v2/token endpoint.
 >
-> **[4:13](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=253)** Then it passes a post request to that route using fetch, and inside the post request, it passes along the username and password in the body.
+> **[4:13](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=253)** Then it passes a post request to that route using [[Fetch]], and inside the post request, it passes along the username and password in the body.
 >
 > **[4:22](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=262)** Now remember, this is how we get the token from the JWT plugin inside WordPress.
 >
-> **[4:27](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=267)** When a response comes back, we capture the response and turn it into a JSON object.
+> **[4:27](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=267)** When a response comes back, we capture the response and turn it into a [[JSON]] object.
 >
 > **[4:32](https://www.linkedin.com/learning/wordpress-rest-api-2/jwt-authentication-third-party-editing?u=76281980&t=272)** Then if the response contains a token, we grab the token and place it inside Session Storage.
 >
@@ -2558,7 +2531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (10), application (9), [[Representational State Transfer (REST)|Rest]] (5), api (5), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (10), [[Representational State Transfer (REST)|Rest]] (5), [[JavaScript]] (2), [[Fetch]] (2), [[JSON]] (2)
 > **Code Identifiers:** gettoken (3), resturl (3), postid (3), updatetitle (3), restroot (2)
 > **Env Vars:** jwt (7), rest (5), api (5), url (2), json (2)
 > **UI Navigation:** toggle (3), go to (2), scroll down (1), click on (1)
@@ -2567,8 +2540,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **File Paths:** jwt.js (2)
 
-#### Challenge: Add dynamic related posts navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980)
+#### [Challenge: Add dynamic related posts navigation](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2580,7 +2552,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=18)** Once the exercise is done, I want you to build out this child theme so that when you go to a single post and scroll down to the bottom of the post, you get this related posts section.
 >
-> **[0:29](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=29)** And when you hit this related posts section, a query is sent to the REST API to return the three most recent posts from whatever categories the current post is in, that's what makes them related, they're all in the same categories.
+> **[0:29](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=29)** And when you hit this related posts section, a query is sent to the [[Representational State Transfer (REST)|REST]] API to return the three most recent posts from whatever categories the current post is in, that's what makes them related, they're all in the same categories.
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=41)** Those three posts are displayed below, and there are links you can click on them to go to the individual posts.
 >
@@ -2608,7 +2580,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=126)** All the pieces you need for this are all ready in place in the child theme.
 >
-> **[2:11](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=131)** We look at what this JavaScript file contains.
+> **[2:11](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=131)** We look at what this [[JavaScript]] file contains.
 >
 > **[2:14](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=134)** At the very top, we have the postID for the current post, we have a new variable called catIDs, which is a comma-separated list of all the category IDs for the current post.
 >
@@ -2624,7 +2596,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=191)** And this function will output an anchor with all the information inside.
 >
-> **[3:16](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=196)** So what you need to do is figure out how to send a fetch request with the correct URL to get the three posts in return, and then use this function here to populate each of the items, should you get three distinct items.
+> **[3:16](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=196)** So what you need to do is figure out how to send a [[Fetch]] request with the correct URL to get the three posts in return, and then use this function here to populate each of the items, should you get three distinct items.
 >
 > **[3:31](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=211)** Here are some quick tips to get you started.
 >
@@ -2640,7 +2612,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=235)** And finally, use foreach to loop through the response and append each element that you create to the provided related-posts container.
 >
-> **[4:04](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=244)** So look at the HTML that's output from the plugin, figure out what you want to target and where you want to place all these items.
+> **[4:04](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=244)** So look at the [[HTML]] that's output from the plugin, figure out what you want to target and where you want to place all these items.
 >
 > **[4:11](https://www.linkedin.com/learning/wordpress-rest-api-2/challenge-add-dynamic-related-posts-navigation?u=76281980&t=251)** And if you're ever in doubt, go look at the previous examples we've covered in this chapter because everything you need has been covered previously in the chapter.
 >
@@ -2652,7 +2624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), hit (4), api (4), [[Fetch]] (3), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (5), [[Fetch]] (3), [[JavaScript]] (2), [[HTML]] (1)
 > **Env Vars:** rest (4), api (4), url (2), html (1)
 > **Code Identifiers:** sendrestquery (4), relatedchild (1), postid (1), catids (1), resturl (1)
 > **UI Navigation:** go to (3), scroll down (2), click on (1)
@@ -2661,8 +2633,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (2), template (1)
 > **File Paths:** related.js (2)
 
-#### Solution: Add dynamic related posts navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980)
+#### [Solution: Add dynamic related posts navigation](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2672,7 +2643,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=6)** If you are able to solve the challenge I gave you in the previous movie, great!
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=10)** If not, that's fine because this was a really difficult challenge and I made it so on purpose because I wanted to push you and I want to show you that there's a lot going on when we work with the REST API.
+> **[0:10](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=10)** If not, that's fine because this was a really difficult challenge and I made it so on purpose because I wanted to push you and I want to show you that there's a lot going on when we work with the [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=22)** Now, like I said all the answers to all the questions you may have had as you work through it are available in the exercise files from the previous movies, but finding them is not all that easy because you have to pull pieces out from different script files and put them in to get everything to work.
 >
@@ -2696,7 +2667,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=76)** I've created a new queryURL.
 >
-> **[1:17](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=77)** Here, I grab the restURL from the data we got from WordPress up here.
+> **[1:17](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=77)** Here, I grab the restURL from the data we got from [[WordPress]] up here.
 >
 > **[1:25](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=85)** Then I set up a query to posts because I want posts.
 >
@@ -2714,7 +2685,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=135)** Finally, I say exclude the current post, so that I don't get the current post.
 >
-> **[2:21](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=141)** I have the current postID up here because it was passed from php as well, and then I end off my query by saying & embed so that I get all the embeds like the featured image and the categories and everything else.
+> **[2:21](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=141)** I have the current postID up here because it was passed from [[PHP]] as well, and then I end off my query by saying & embed so that I get all the embeds like the featured image and the categories and everything else.
 >
 > **[2:33](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=153)** So I have a full post object to work with.
 >
@@ -2728,15 +2699,15 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=174)** So first, we send a RESTquery to the queryURL I defined above, so that's the queryURL that says three posts from the current categories excluding the current post with embeds.
 >
-> **[3:05](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=185)** Then, we get the response to run it to json then we take the data and send it off to a new function that I've called displayRelatedPosts.
+> **[3:05](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=185)** Then, we get the response to run it to [[JSON]] then we take the data and send it off to a new function that I've called displayRelatedPosts.
 >
-> **[3:13](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=193)** displayRelatedPosts sits up here, it grabs the relatedContainer, so that's the HTML container that wraps around related posts, that's the container that sits down here.
+> **[3:13](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=193)** displayRelatedPosts sits up here, it grabs the relatedContainer, so that's the [[HTML]] container that wraps around related posts, that's the container that sits down here.
 >
 > **[3:26](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=206)** Then I say, data, so that's the data that we got passed from the response for each and then we looped through each of those items and treat them as a postObject.
 >
 > **[3:36](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=216)** And then we go grab the relatedContainer we just defined and use the append method, which adds a new child to that container and then we append what comes out of the function, thePost and pass along the postObject.
 >
-> **[3:48](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=228)** The function thePost was already in the java script file and I pointed it out as I introduced the exercise.
+> **[3:48](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=228)** The function thePost was already in the [[Java]] script file and I pointed it out as I introduced the exercise.
 >
 > **[3:53](https://www.linkedin.com/learning/wordpress-rest-api-2/solution-add-dynamic-related-posts-navigation?u=76281980&t=233)** This function grabs the postObject and then it builds out HTML for each of these items.
 >
@@ -2758,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Representational State Transfer (REST)|Rest]] (2), api (2), [[HTML]] (2), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (2), [[WordPress]] (1), [[PHP]] (1), [[JSON]] (1)
 > **Code Identifiers:** postobject (8), queryurl (3), displayrelatedposts (2), relatedcontainer (2), thepost (2)
 > **Env Vars:** rest (2), api (2), html (2)
 > **CLI Commands:** php (1), make (1), find (1)
@@ -2772,12 +2743,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=0)** - [Morten] If you're still with me, you've reached the end of this course and the next step of your journey exploring the WordPress REST API.
+> **[0:00](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=0)** - [Morten] If you're still with me, you've reached the end of this course and the next step of your journey exploring the [[WordPress]] [[Representational State Transfer (REST)|REST]] API.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=6)** To get you on your way, here are some resources worth checking out.
 >
@@ -2789,19 +2759,19 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=42)** This is the official documentation for the API and it's stuffed to the brim with information, code examples, and tutorials you can use to get the most out of this API.
 >
-> **[0:52](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=52)** Finally, since there's a good chance you'll be working with JavaScript while interacting with the REST API, I recommend checking out the huge library of JavaScript courses we have on offer as well the official JavaScript documentation at [mdn.com](https://mdn.com).
+> **[0:52](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=52)** Finally, since there's a good chance you'll be working with [[JavaScript]] while interacting with the REST API, I recommend checking out the huge library of JavaScript courses we have on offer as well the official JavaScript documentation at [mdn.com](https://mdn.com).
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=67)** In particular, you should check out the documentation on the Fetch API that you've seen me use throughout the examples in this course.
+> **[1:07](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=67)** In particular, you should check out the documentation on the [[Fetch]] API that you've seen me use throughout the examples in this course.
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=74)** I love hearing from you about how you use what you've learned in my courses and I'm curious to hear what you've built with the WordPress REST API.
 >
-> **[1:22](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=82)** You can find me on Twitter @morten, 'cause that's my name, and I'm also on LinkedIn, of course, where I talk about the internet and how it shapes us.
+> **[1:22](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=82)** You can find me on Twitter @morten, 'cause that's my name, and I'm also on [[LinkedIn]], of course, where I talk about the internet and how it shapes us.
 >
 > **[1:30](https://www.linkedin.com/learning/wordpress-rest-api-2/next-steps?u=76281980&t=90)** Now all that's left for me to say is (speaking foreign language) go build some great experiences with the WordPress REST API and I'll see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (5), [[JavaScript]] (3), next (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (8), [[WordPress]] (5), [[JavaScript]] (3), [[Fetch]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (9), rest (8)
 > **CLI Commands:** find (1), go build (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1), [mdn.com](https://mdn.com) (1)

@@ -100,8 +100,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visualizing network traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
+#### [Visualizing network traffic](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +110,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980&t=18)** In this course, I'll cover concepts such as spoofing attacks, along with learning what we can glean from protocols such as ARP, DNS and DHCP.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980&t=30)** All outline how we can use Wireshark, Cloudshark and Omnipeek to gather and analyze traffic.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980&t=30)** All outline how we can use [[Wireshark]], Cloudshark and Omnipeek to gather and analyze traffic.
 >
 > **[0:37](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/visualizing-network-traffic?u=76281980&t=37)** Hello, my name is Lisa Bock and I'm a security ambassador.
 >
@@ -121,18 +120,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Security]] (2), dns (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Env Vars:** arp (1), dns (1), dhcp (1)
 > **Analogies:** such as (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [lisa] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for security professionals, network administrators, managers, students, teachers, or anyone with an interest in learning more about the sniffing phase of ethical hacking.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is a basic to intermediate course intended for security professionals, network administrators, managers, students, teachers, or anyone with an interest in learning more about the sniffing phase of [[Ethical Hacking]].
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/what-you-should-know?u=76281980&t=18)** I'll cover a lot of information, but I have provided some files for you.
 >
@@ -150,19 +148,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Ethical Hacking]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Hacking ethically
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/hacking-ethically?u=76281980)
+#### [Hacking ethically](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/hacking-ethically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the Ethical Hacking series is to help system administrators understand how to better protect the assets they manage.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/hacking-ethically?u=76281980&t=0)** - [Instructor] The goal of the [[Ethical Hacking]] series is to help system administrators understand how to better protect the assets they manage.
 >
 > **[0:10](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/hacking-ethically?u=76281980&t=10)** I'll focus on the concepts of ethical hacking in order to explain why it's essential in any organization's overall security framework.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ethical Hacking]] (3), [[Security]] (1)
+> **Frameworks & Libraries:** [[Ethical Hacking]] (3)
 > **Speakers:** - [instructor] (1)
 
 
@@ -182,8 +179,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sniffing network traffic
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
+#### [Sniffing network traffic](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -191,13 +187,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=11)** Instead of scanning an individual system, we now look at traffic that is flowing across the network.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=18)** Devices such as intrusion detection and prevention systems monitor the traffic for threats and allowable protocols.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=18)** Devices such as [[Intrusion Detection]] and prevention systems monitor the traffic for threats and allowable protocols.
 >
 > **[0:26](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=26)** However, network administrators should spend a few minutes every day and monitor the traffic.
 >
 > **[0:33](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=33)** This will give us a great deal of information on the status of the network.
 >
-> **[0:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=39)** Sniffing traffic can gather network statistics and monitor protocol use.
+> **[0:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=39)** Sniffing traffic can gather network [[Statistics]] and monitor protocol use.
 >
 > **[0:44](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=44)** Sniffing can help detect network misuse.
 >
@@ -221,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=111)** It's called EPAN.
 >
-> **[1:53](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=113)** Wireshark was Ethereal before 2006, but the main core is still the same.
+> **[1:53](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=113)** [[Wireshark]] was Ethereal before 2006, but the main core is still the same.
 >
 > **[2:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-network-traffic?u=76281980&t=120)** In this illustration, we see the Ethereal Packet Analyzer or EPAN.
 >
@@ -253,23 +249,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (12), [[Wireshark]] (3), [[Intrusion Detection]] (1), [[Statistics]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Intrusion Detection]] (1), [[Statistics]] (1)
 > **Env Vars:** epan (3), tcp (1)
 > **Analogies:** such as (3), for example (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using other sniffing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980)
+#### [Using other sniffing tools](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=0)** - [Instructor] Wireshark is a popular sniffing tool, but there are others.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=0)** - [Instructor] [[Wireshark]] is a popular sniffing tool, but there are others.
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=4)** In this segment, we'll discuss some options, along with the implications of sniffing network traffic.
 >
-> **[0:12](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=12)** Linux has a couple of commonly available sniffers.
+> **[0:12](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=12)** [[Linux]] has a couple of commonly available sniffers.
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=15)** Let's talk about a few of these.
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=39)** And Dsniff can sniff a variety of objects on a network as the package contains several tools.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=48)** Now there are also hardware protocol analyzers that are specialized devices used to monitor and analyze communication protocols at the hardware level.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=48)** Now there are also [[Hardware]] protocol analyzers that are specialized devices used to monitor and analyze communication protocols at the hardware level.
 >
 > **[1:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-other-sniffing-tools?u=76281980&t=60)** They typically connect to a computer or network using a full duplex tap, and capture data as it passes through the network.
 >
@@ -315,7 +310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), [[Hardware]] (3), [[Linux]] (2), [[Security]] (2), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (3), [[Linux]] (2), [[Wireshark]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** tcpdump (1)
 > **Tools:** command line (1)
@@ -323,14 +318,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dissecting the OSI model
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980)
+#### [Dissecting the OSI model](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=0)** - [Instructor] Sniffing or packet analysis requires a solid understanding of encapsulation along with protocols such as TCP, IP, and DNS.
 >
-> **[0:13](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=13)** The seven-layer OSI model standardizes the function of data transformation by breaking it down into layers, and in particular, outlines how the network interface card encapsulates the data as it's prepared for transport on the network.
+> **[0:13](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=13)** The seven-layer OSI model standardizes the function of [[Data Transformation]] by breaking it down into layers, and in particular, outlines how the network interface card encapsulates the data as it's prepared for transport on the network.
 >
 > **[0:32](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=32)** In this segment, I'll review each layer and describe the main function.
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=106)** Layer five is the session layer, which is responsible for setting up, maintaining, and tearing down a session.
 >
-> **[1:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=114)** Now, in order for a session to take place, though, I have to have the correct IP address, so DNS or domain name system works in this layer.
+> **[1:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=114)** Now, in order for a session to take place, though, I have to have the correct IP address, so DNS or [[Domain Name System (DNS)|domain name system]] works in this layer.
 >
 > **[2:05](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=125)** The protocol data unit at this layer is still data.
 >
@@ -370,7 +364,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=163)** For example, hypertext transport protocol or HTTP uses port 80.
 >
-> **[2:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=171)** Layer three is the network layer, which is responsible for addressing and routing.
+> **[2:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=171)** Layer three is the network layer, which is responsible for addressing and [[Routing]].
 >
 > **[2:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=177)** Now, there are three main protocols in this layer, the internet protocol, address resolution protocol, and internet control message protocol.
 >
@@ -414,7 +408,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=303)** At the end of the frame is a trailer and that includes the frame check sequence.
 >
-> **[5:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=309)** Now here we can see the OSI model in Wireshark, and this roughly translates to the OSI model, and here we can see the protocol data units, frame, packet, segment, and data.
+> **[5:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=309)** Now here we can see the OSI model in [[Wireshark]], and this roughly translates to the OSI model, and here we can see the protocol data units, frame, packet, segment, and data.
 >
 > **[5:24](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/dissecting-the-osi-model?u=76281980&t=324)** Now let's test your knowledge.
 >
@@ -426,15 +420,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), application (3), next (3), dns (2), [[Wireshark]] (2)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Data Transformation]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Routing]] (1)
 > **Env Vars:** osi (5), tcp (3), mac (3), dns (2), http (2)
 > **Definitions:** is a  (6), is called (1)
 > **Analogies:** such as (4), for example (2)
 > **Ports:** port 80 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing passive and active attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980)
+#### [Comparing passive and active attacks](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=75)** By verifying the identity of a user or a device.
 >
-> **[1:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=79)** For example, on a network we want to be able to provide authentication amongst routers when updating the routing tables.
+> **[1:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=79)** For example, on a network we want to be able to provide authentication amongst routers when updating the [[Routing]] tables.
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=88)** Now, let's compare active and passive attacks.
 >
@@ -498,7 +491,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=224)** Physical controls are the most overlooked form of security but here the controls include things such as locks and smart cards.
 >
-> **[3:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=234)** And device security, for example, use intrusion detection systems to monitor for ping sweeps and port scans along with firewalls to block malicious traffic.
+> **[3:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=234)** And device security, for example, use [[Intrusion Detection]] systems to monitor for ping sweeps and port scans along with firewalls to block malicious traffic.
 >
 > **[4:06](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/comparing-passive-and-active-attacks?u=76281980&t=246)** Now let's test your knowledge.
 >
@@ -510,18 +503,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Security]] (3), traffic (2), [[Routing]] (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Intrusion Detection]] (1)
 > **Analogies:** for example (4), such as (3)
 > **CLI Commands:** find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Wireshark
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980)
+#### [Using Wireshark](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=0)** - [Instructor] Wireshark is an open source tool with a rich graphical user interface and many built-in features.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=0)** - [Instructor] [[Wireshark]] is an open source tool with a rich graphical user interface and many built-in features.
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=7)** In this segment, we'll review key menu choices along with comparing the difference between capture and display filters.
 >
@@ -543,7 +535,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=61)** View allows you to control the appearance of the packet list and other parts of the interface.
 >
-> **[1:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=68)** And statistics, well, this menu provides access to the various statistics about the capture file.
+> **[1:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=68)** And [[Statistics]], well, this menu provides access to the various statistics about the capture file.
 >
 > **[1:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=75)** Now, you should get familiar with those menu choices 'cause that's holding all of the great features of Wireshark.
 >
@@ -609,7 +601,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=228)** Now while I'm capturing traffic I'll be able to see all the traffic that's happening, but if I filter, it just will filter on that specific filter.
 >
-> **[3:58](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=238)** But I have the rest of the capture with me and that's the power of using a display filter.
+> **[3:58](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=238)** But I have the [[Representational State Transfer (REST)|rest]] of the capture with me and that's the power of using a display filter.
 >
 > **[4:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/using-wireshark?u=76281980&t=244)** Now I'm going to close this but I want to also show you a capture filter.
 >
@@ -675,7 +667,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (13), traffic (10), [[Wireshark]] (8), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8), [[Statistics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dns (13), espn (3)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **UI Navigation:** go to (3)
@@ -684,8 +676,7 @@ created: 2026-05-02
 > **Code Identifiers:** bigflows (1)
 > **Cross-References:** go back to (1)
 
-#### Tapping into the data stream
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980)
+#### [Tapping into the data stream](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +702,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980&t=77)** However, you will most likely need a special adapter.
 >
-> **[1:22](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980&t=82)** When conducting penetration testing, an ethical hacker can use various attacks to visualize traffic on a switched network more effectively.
+> **[1:22](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980&t=82)** When conducting [[Penetration Testing]], an ethical hacker can use various attacks to visualize traffic on a switched network more effectively.
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/tapping-into-the-data-stream?u=76281980&t=91)** Let's talk about a couple of these.
 >
@@ -755,7 +746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (16), data (5), [[Penetration Testing]] (1), lan (1)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1)
 > **Env Vars:** arp (5), mac (3), cam (3), span (1), lan (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -767,14 +758,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Launching a macof attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
+#### [Launching a macof attack](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=0)** - [Instructor] One type of attack that can allow a malicious actor to visualize traffic on a switch network is called a macof attack.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=9)** In this segment, we'll see how easy it is to launch a macof attack using Kali Linux.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=9)** In this segment, we'll see how easy it is to launch a macof attack using [[Kali Linux]].
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=16)** First, let's talk about how a switch manages traffic.
 >
@@ -794,7 +784,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=81)** I'm in Kali Linux now to demonstrate a macof attack.
 >
-> **[1:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=85)** First I'll open Wireshark as I want to do a quick capture so that you can see what happens on the backend during a macof attack.
+> **[1:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=85)** First I'll open [[Wireshark]] as I want to do a quick capture so that you can see what happens on the backend during a macof attack.
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=95)** We'll go to applications, sniffing and spoofing, Wireshark.
 >
@@ -820,7 +810,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=171)** Once stopped, the timers will be reset, and then the switch will resort back to being a switch.
 >
-> **[2:59](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=179)** Now this can be a great tool for ethical hacking, but the results will depend on the switch.
+> **[2:59](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=179)** Now this can be a great tool for [[Ethical Hacking]], but the results will depend on the switch.
 >
 > **[3:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/launching-a-macof-attack?u=76281980&t=184)** It might simply behave like a hub like we'd want it to, or it might do nothing because it has protection enabled, or it might crash and reboot.
 >
@@ -832,15 +822,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Wireshark]] (4), data (3), [[Kali Linux]] (2), lan (1)
+> **Frameworks & Libraries:** [[Wireshark]] (4), [[Kali Linux]] (2), [[Ethical Hacking]] (1)
 > **Env Vars:** cam (6), mac (3), lan (1)
 > **Tools:** terminal (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploiting Layer 2 protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980)
+#### [Exploiting Layer 2 protocols](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=4)** In this segment, we'll cover vulnerable Layer 2 protocols, along with potential attacks against Spanning Tree Protocol and Cisco Discovery Protocol.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=15)** Intrusion detection and firewall protection that defend and protect the network, typically work at the network layer and higher.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=15)** [[Intrusion Detection]] and firewall protection that defend and protect the network, typically work at the network layer and higher.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=24)** Layer 2 protocols are within the confines of a LAN, under the physical control of an organization.
 >
@@ -858,7 +847,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=48)** So let's talk about a couple of Layer 2 protocols that can be attacked.
 >
-> **[0:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=54)** One is the Spanning Tree Protocol, which is used on a local area network because switches have redundant links for fault tolerance.
+> **[0:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=54)** One is the Spanning Tree Protocol, which is used on a [[Local Area Network (LAN)|local area network]] because switches have redundant links for fault tolerance.
 >
 > **[1:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=64)** Spanning Tree will change the pathways to fit the condition and maintain the state of the network to keep it operational.
 >
@@ -882,7 +871,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=160)** Let's take a look.
 >
-> **[2:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=163)** I'm in Kali Linux and I'll open a terminal.
+> **[2:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=163)** I'm in [[Kali Linux]] and I'll open a terminal.
 >
 > **[2:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploiting-layer-2-protocols?u=76281980&t=167)** I need to execute as root, so I'll type yersinia and then we'll go into the graphical user interface.
 >
@@ -908,15 +897,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** lan (3), data (3), [[Intrusion Detection]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Kali Linux]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[Local Area Network (LAN)|Local area network]] (1), [[Kali Linux]] (1)
 > **Env Vars:** lan (3), bpdu (1), cdp (1), dhcp (1), vlan (1)
 > **Tools:** terminal (1)
 > **Definitions:** is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spoofing a MAC address
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980)
+#### [Spoofing a MAC address](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -926,7 +914,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=13)** In this segment, we'll discuss a few ways that you can change your MAC address.
 >
-> **[0:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=19)** On a local area network, a host is identified by its Mac address.
+> **[0:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=19)** On a [[Local Area Network (LAN)|local area network]], a host is identified by its Mac address.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=25)** If an attacker spoofs the Mac address to be the same as the victim, the attacker can then sniff all the traffic that was designed to go to the victim.
 >
@@ -940,7 +928,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=51)** One way is to use a Mac address spoofing tool, to change the MAC address of your network interface to the target MAC address.
 >
-> **[1:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=60)** Now, there are many tools available for different operating systems, such as Macchanger for Linux as we see here at this website or Technitium for Windows.
+> **[1:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=60)** Now, there are many tools available for different operating systems, such as Macchanger for [[Linux]] as we see here at this website or Technitium for [[Windows]].
 >
 > **[1:13](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=73)** And you can learn more here.
 >
@@ -954,7 +942,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=104)** Now we're looking for the network address.
 >
-> **[1:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=108)** Now a network address has a number of different alternate naming conventions and it could go by network address, adapter address, MAC address, physical address, ethernet address, or even hardware address.
+> **[1:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=108)** Now a network address has a number of different alternate naming conventions and it could go by network address, adapter address, MAC address, physical address, ethernet address, or even [[Hardware]] address.
 >
 > **[2:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-a-mac-address?u=76281980&t=124)** They're all the same thing.
 >
@@ -990,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Local Area Network (LAN)|Local area network]] (1), [[Linux]] (1), [[Windows]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Linux]] (1), [[Windows]] (1), [[Hardware]] (1)
 > **Env Vars:** mac (12)
 > **UI Navigation:** go to (3), select the (1), scroll down (1)
 > **Analogies:** such as (2)
@@ -998,8 +986,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [narrator] (1)
 
-#### Defending against MAC attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-mac-attacks?u=76281980)
+#### [Defending against MAC attacks](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-mac-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1052,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), data (1)
 > **Env Vars:** mac (8), ssh (1), https (1), bpdu (1)
 > **CLI Commands:** ssh (1), make (1)
 > **Prerequisites:** configure (2)
@@ -1074,8 +1060,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### VLAN hopping attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980)
+#### [VLAN hopping attack](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1085,13 +1070,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=16)** But first, let's talk about VLANs.
 >
-> **[0:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=20)** A VLAN, or virtual local area network, removes the physical barrier and treats the host as if they were all part of the same subnet while logically separating networks within networks.
+> **[0:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=20)** A VLAN, or virtual [[Local Area Network (LAN)|local area network]], removes the physical barrier and treats the host as if they were all part of the same subnet while logically separating networks within networks.
 >
 > **[0:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=34)** VLANs offer several advantages over traditional LANs.
 >
 > **[0:38](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=38)** One is performance, creating smaller broadcast domains and using switches instead of routers improves efficiency.
 >
-> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=48)** VLANs also improves security as VLANs can be used to restrict access and create virtual work groups in isolation.
+> **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=48)** VLANs also improves security as VLANs can be used to restrict access and create [[Virtual Work]] groups in isolation.
 >
 > **[0:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/vlan-hopping-attack?u=76281980&t=57)** VLANs also help provide user mobility.
 >
@@ -1127,13 +1112,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Local Area Network (LAN)|Local area network]] (1), [[Security]] (1), [[Virtual Work]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1), [[Virtual Work]] (1)
 > **Env Vars:** vlan (11)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Spoofing IRDP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980)
+#### [Spoofing IRDP](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1147,7 +1131,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980&t=35)** IRDP spoofing is when a malicious actor sends false IRDP packets to a target router.
 >
-> **[0:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980&t=43)** This then poisons the routing table with incorrect information.
+> **[0:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980&t=43)** This then poisons the [[Routing]] table with incorrect information.
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/spoofing-irdp?u=76281980&t=48)** The traffic is then redirected to the malicious actor's device which allows the attacker to intercept, read, and even modify the traffic.
 >
@@ -1173,7 +1157,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1)
 > **Env Vars:** irdp (10), icmp (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
@@ -1183,16 +1167,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Investigating DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
+#### [Investigating DHCP](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=0)** - [Instructor] DHCP, or dynamic host configuration protocol, dynamically assigns an IP address.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=8)** In this video, we'll use Wireshark to review the four step DHCP process; discover, offer, request, and acknowledge.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=8)** In this video, we'll use [[Wireshark]] to review the four step DHCP process; discover, offer, request, and acknowledge.
 >
-> **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=18)** Dynamic host configuration protocol automatically assigns an IP address on a local area network.
+> **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=18)** Dynamic host configuration protocol automatically assigns an IP address on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:27](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-dhcp?u=76281980&t=27)** Because we want our IP address fast, it uses UDP for transport.
 >
@@ -1284,7 +1267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (2), [[Local Area Network (LAN)|Local area network]] (1), next (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dhcp (10), udp (3), tcp (1), dora (1), mac (1)
 > **Ports:** port 68 (1), port 67 (1)
 > **UI Navigation:** go to (2)
@@ -1293,14 +1276,13 @@ created: 2026-05-02
 > **Tools:** command line (1)
 > **Warnings:** keep in mind (1)
 
-#### Depleting the DHCP pool
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980)
+#### [Depleting the DHCP pool](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980&t=0)** - [Instructor] A malicious actor can launch a denial-of-service attack using a DHCP starvation attack.
 >
-> **[0:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980&t=9)** In this segment, we'll discuss how an attacker can use Yersinia, a tool built into Kali Linux to send hundreds of DISCOVER packets and exhaust the IP address pool.
+> **[0:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980&t=9)** In this segment, we'll discuss how an attacker can use Yersinia, a tool built into [[Kali Linux]] to send hundreds of DISCOVER packets and exhaust the IP address pool.
 >
 > **[0:24](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/depleting-the-dhcp-pool?u=76281980&t=24)** Setting up a DHCP server on a router is pretty straightforward.
 >
@@ -1356,14 +1338,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Kali Linux]] (1), next (1), dns (1)
+> **Frameworks & Libraries:** [[Kali Linux]] (1)
 > **Env Vars:** dhcp (16), discover (4), dns (1), mac (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploying a rogue DHCP server
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980)
+#### [Deploying a rogue DHCP server](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1381,11 +1362,11 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=70)** When the client has the wrong default gateway, the attacker is essentially a man in the middle and can capture and sniff any traffic destined to the gateway, such as usernames and passwords.
 >
-> **[1:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=83)** In addition, an attacker can create a rogue DNS server, and then design a phishing website, and direct the client to the bogus site in order to obtain confidential information, such as credit cards and passwords.
+> **[1:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=83)** In addition, an attacker can create a rogue DNS server, and then design a [[Phishing]] website, and direct the client to the bogus site in order to obtain confidential information, such as credit cards and passwords.
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=99)** One tool that we can use to launch an attack against DHCP is Yersinia.
 >
-> **[1:45](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=105)** I'm in Kali Linux, and I'll open a terminal.
+> **[1:45](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=105)** I'm in [[Kali Linux]], and I'll open a terminal.
 >
 > **[1:49](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=109)** I need to execute as root, so I'll type Yersinia and then we'll go into the graphical user interface.
 >
@@ -1403,7 +1384,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=151)** Press Enter and begin capturing traffic.
 >
-> **[2:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=156)** Now, we don't want a rogue DHCP server on our network but I'll show you in Wireshark evidence of a possible rogue DHCP server.
+> **[2:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=156)** Now, we don't want a rogue DHCP server on our network but I'll show you in [[Wireshark]] evidence of a possible rogue DHCP server.
 >
 > **[2:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/deploying-a-rogue-dhcp-server?u=76281980&t=166)** Now, I've opened the packet capture and it only has DHCP traffic but here we see two sets of DORA transactions.
 >
@@ -1427,15 +1408,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), traffic (3), [[Phishing]] (1), [[Kali Linux]] (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Kali Linux]] (1), [[Wireshark]] (1)
 > **Env Vars:** dhcp (13), dns (4), dora (1)
 > **Analogies:** such as (3)
 > **Tools:** terminal (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending against DHCP attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980)
+#### [Defending against DHCP attacks](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1461,7 +1441,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980&t=76)** A VLAN Access Control List provides access control on a switch.
 >
-> **[1:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980&t=83)** In a Windows environment, Active Directory authorizes DHCP servers before they can start leasing address to clients.
+> **[1:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980&t=83)** In a [[Windows]] environment, [[Active Directory]] authorizes DHCP servers before they can start leasing address to clients.
 >
 > **[1:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-dhcp-attacks?u=76281980&t=94)** And you can also use Dynamic ARP Inspection.
 >
@@ -1485,14 +1465,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (1), [[Active Directory]] (1), database (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Active Directory]] (1)
 > **Env Vars:** dhcp (10), vlan (3), arp (3), mac (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Identifying key elements in a capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980)
+#### [Challenge: Identifying key elements in a capture](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1504,7 +1483,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980&t=19)** In this challenge, we'll examine a PCAP and identify several key elements that could be evidence of an indication of compromise.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980&t=30)** Although there's a lot going on, we'll evaluate five things using Wireshark, Brim, CloudShark, and VirusTotal.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980&t=30)** Although there's a lot going on, we'll evaluate five things using [[Wireshark]], Brim, CloudShark, and VirusTotal.
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-identifying-key-elements-in-a-capture-26999128?u=76281980&t=39)** The goal of this challenge is to get an idea of what you might see when there is possible malicious activity on your network.
 >
@@ -1518,15 +1497,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Exercise Files:** download the (1), zip file (1)
 > **Prerequisites:** you'll need (2)
 > **Env Vars:** pcap (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Identifying key elements in a capture
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980)
+#### [Solution: Identifying key elements in a capture](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1538,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=99)** And next we'll take a look at the Suricata alerts.
 >
-> **[1:42](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=102)** Now, Suricata is an open source intrusion detection and prevention system.
+> **[1:42](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=102)** Now, Suricata is an open source [[Intrusion Detection]] and prevention system.
 >
 > **[1:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=108)** So here we see Suricata alerts by category, by source and destination IP address, or by subnet.
 >
@@ -1580,7 +1558,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=171)** What it does is it immediately investigates that file, and here we see that 56 security vendors and three sandboxes flagged this file as malicious.
 >
-> **[3:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=184)** Now we'll go into Wireshark and open the capture if you haven't already.
+> **[3:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=184)** Now we'll go into [[Wireshark]] and open the capture if you haven't already.
 >
 > **[3:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=189)** In Wireshark, we'll do something a little bit different.
 >
@@ -1592,7 +1570,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=215)** Now open the folder, and you want to take a look at this file, and I'll right-click, and open it with a browser.
 >
-> **[3:44](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=224)** And what we can see is that somehow someone reached a site that was a suspected phishing site, and in some cases, they may have gone further, gone to the site and downloaded some malware, which it could have been a drive-by download.
+> **[3:44](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=224)** And what we can see is that somehow someone reached a site that was a suspected [[Phishing]] site, and in some cases, they may have gone further, gone to the site and downloaded some malware, which it could have been a drive-by download.
 >
 > **[3:59](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-identifying-key-elements-in-a-capture-27110124?u=76281980&t=239)** You'd have to look a little further to see.
 >
@@ -1632,7 +1610,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (3), next (2), [[Security]] (2), [[Wireshark]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Wireshark]] (2), [[Intrusion Detection]] (1)
 > **UI Navigation:** go to (4), right-click (3), select the (2), open the (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Env Vars:** http (2), imf (1)
@@ -1646,8 +1624,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Describing ARP
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
+#### [Describing ARP](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1655,7 +1632,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=6)** In this segment, we'll review the purpose of ARP, discuss how it's not routable, and examine a normal ARP request and reply.
 >
-> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=16)** On a Local Area Network, a host is identified by its MAC address rather than the IP address.
+> **[0:16](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=16)** On a [[Local Area Network (LAN)|Local Area Network]], a host is identified by its MAC address rather than the IP address.
 >
 > **[0:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=25)** When a frame is sent out onto the LAN and the MAC address is unknown, an ARP broadcast is sent out.
 >
@@ -1667,7 +1644,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=41)** It will ask over and over until it gets a resolution.
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=46)** So that you can see the process, we'll examine a normal ARP request and reply in Wireshark.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=46)** So that you can see the process, we'll examine a normal ARP request and reply in [[Wireshark]].
 >
 > **[0:53](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=53)** To get a copy of an ARP packet capture so that you can follow along, we'll go to Cloudshark, a cloud-based analysis tool where you can analyze captures from your own device and then you can share it with your team.
 >
@@ -1693,7 +1670,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=107)** Well, there is no header called frame whatever.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=110)** That's done by Wireshark and Cloudshark to let you know the metadata about that single frame.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=110)** That's done by Wireshark and Cloudshark to let you know the [[Metadata]] about that single frame.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/describing-arp?u=76281980&t=117)** Now, after that, that's where the encapsulation begins.
 >
@@ -1735,15 +1712,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), traffic (2), [[Local Area Network (LAN)|Local area network]] (1), lan (1), cloud (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Local Area Network (LAN)|Local area network]] (1), [[Metadata]] (1)
 > **Env Vars:** arp (14), mac (10), lan (1), icmp (1)
 > **UI Navigation:** go to (3)
 > **Exercise Files:** download the (2)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring ARP spoofing tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980)
+#### [Exploring ARP spoofing tools](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1761,9 +1737,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=48)** So let's talk about a few of these tools.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=52)** Ettercap is built into Kali Linux and you can use Ettercap for a man-in-the-middle attack including ARP spoofing.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=52)** Ettercap is built into [[Kali Linux]] and you can use Ettercap for a man-in-the-middle attack including ARP spoofing.
 >
-> **[1:01](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=61)** Habu is an open source Python network attack framework and I'm at the GitHub page and I'll scroll down.
+> **[1:01](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=61)** Habu is an open source [[Python (Programming Language)|Python]] network attack framework and I'm at the [[GitHub]] page and I'll scroll down.
 >
 > **[1:10](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=70)** Habu includes tools for launching a variety of attacks such as ARP spoofing and DHCP starvation attacks as shown in this list.
 >
@@ -1771,11 +1747,11 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=88)** I'm here at the GitHub page where you can learn a little more about the app.
 >
-> **[1:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=94)** KickThemOut is a Python tool that can launch an ARP spoof against devices in a local area network.
+> **[1:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=94)** KickThemOut is a Python tool that can launch an ARP spoof against devices in a [[Local Area Network (LAN)|local area network]].
 >
 > **[1:42](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=102)** The attack will prevent those devices from accessing the internet.
 >
-> **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=107)** Now this attack could be detrimental if there were mission critical IoT devices such as medical appliances or industrial automation systems.
+> **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=107)** Now this attack could be detrimental if there were mission critical [[IoT]] devices such as medical appliances or industrial automation systems.
 >
 > **[1:58](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/exploring-arp-spoofing-tools?u=76281980&t=118)** So what I want to do is walk through some of the steps that you would take to launch an attack.
 >
@@ -1807,7 +1783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Kali Linux]] (2), [[Python (Programming Language)|Python]] (2), traffic (1), [[Local Area Network (LAN)|Local area network]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Kali Linux]] (2), [[Python (Programming Language)|Python]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[IoT]] (1)
 > **Env Vars:** arp (6), dhcp (1)
 > **Tools:** github (3), terminal (2)
 > **Definitions:** is an  (1), is called (1), is a  (1)
@@ -1816,14 +1792,13 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), go to (1)
 > **Prerequisites:** you'll need (2)
 
-#### Detecting ARP spoofing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980)
+#### [Detecting ARP spoofing](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980&t=0)** - [Instructor] An ARP spoof or cache poison is used in a man-in-the-middle attack.
 >
-> **[0:05](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980&t=5)** In this segment, we'll demonstrate in Wireshark how you can identify an ARP spoofing attack.
+> **[0:05](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980&t=5)** In this segment, we'll demonstrate in [[Wireshark]] how you can identify an ARP spoofing attack.
 >
 > **[0:13](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/detecting-arp-spoofing?u=76281980&t=13)** Address Resolution Protocol is used to resolve an IP address to a MAC address.
 >
@@ -1900,12 +1875,11 @@ created: 2026-05-02
 > **Exercise Files:** zip file (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defending against ARP attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980)
+#### [Defending against ARP attacks](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=0)** - [Instructor] On a local area network that uses ARP, all hosts are aware of the MAC and IP address pairings of all devices.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=0)** - [Instructor] On a [[Local Area Network (LAN)|local area network]] that uses ARP, all hosts are aware of the MAC and IP address pairings of all devices.
 >
 > **[0:09](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=9)** However, we know that there are potential attacks against ARP, so you should monitor and protect your network.
 >
@@ -1917,7 +1891,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=42)** I'm here at this website, [snort.org](https://snort.org).
 >
-> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=46)** Snort is a powerful intrusion detection system that you can use and, once configured, Snort will monitor for threats.
+> **[0:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=46)** Snort is a powerful [[Intrusion Detection]] system that you can use and, once configured, Snort will monitor for threats.
 >
 > **[0:55](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=55)** When using Snort, you'll want to check out the ARP spoof pre-processor that can monitor for attacks against ARP.
 >
@@ -1929,9 +1903,9 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=83)** Arpwatch is another tool that helps keep track of ethernet to IP address pairings.
 >
-> **[1:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=91)** Now, it seems that a lot of these are designed for a Linux system.
+> **[1:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=91)** Now, it seems that a lot of these are designed for a [[Linux]] system.
 >
-> **[1:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=95)** However, there is one that I found called ARP Monitor and this is designed for a Windows system.
+> **[1:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=95)** However, there is one that I found called ARP Monitor and this is designed for a [[Windows]] system.
 >
 > **[1:43](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/defending-against-arp-attacks?u=76281980&t=103)** I downloaded and installed ARP Monitor so we can watch it in action.
 >
@@ -1981,8 +1955,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarizing DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
+#### [Summarizing DNS](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1990,7 +1963,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980&t=7)** In this segment, we'll review the components of a DNS request and reply using wire shark.
 >
-> **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980&t=15)** Domain name system uses Port 53 over UDP or TCP.
+> **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980&t=15)** [[Domain Name System (DNS)|Domain name system]] uses Port 53 over UDP or TCP.
 >
 > **[0:22](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/summarizing-dns?u=76281980&t=22)** The transport protocol will depend on what we need to achieve.
 >
@@ -2106,7 +2079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (13), [[Domain Name System (DNS)|Domain name system]] (1), next (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (1)
 > **Env Vars:** dns (13), udp (3), tcp (2), aaaa (1)
 > **Definitions:** is a  (3), means that (3), is an  (2)
 > **UI Navigation:** go to (4)
@@ -2115,8 +2088,7 @@ created: 2026-05-02
 > **URLs:** [cisco.com](https://cisco.com) (2)
 > **Ports:** port 53 (1)
 
-#### Caching and forgery
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980)
+#### [Caching and forgery](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2144,7 +2116,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=79)** Let's take a look.
 >
-> **[1:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=80)** I'm at the Windows command line interface, and then once in the command line, I'll type ipconfig displaydns, and then press enter.
+> **[1:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=80)** I'm at the [[Windows]] command line interface, and then once in the command line, I'll type ipconfig displaydns, and then press enter.
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=91)** This will display the DNS records in my DNS cache.
 >
@@ -2160,7 +2132,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=132)** Now, this is really system dependent.
 >
-> **[2:14](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=134)** In buying the maximum is seven days, in a Microsoft server, it's 24 hours, but the time to live value for DNS is generally specified by the domain name owner.
+> **[2:14](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=134)** In buying the maximum is seven days, in a [[Microsoft]] server, it's 24 hours, but the time to live value for DNS is generally specified by the domain name owner.
 >
 > **[2:27](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=147)** So now let's talk about cache poisoning.
 >
@@ -2182,7 +2154,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=205)** In this attack, the attacker will send a large number of carefully crafted DNS queries to a target DNS server.
 >
-> **[3:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=214)** The queries are designed to trigger a side-channel vulnerability in the server's hardware.
+> **[3:34](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=214)** The queries are designed to trigger a side-channel vulnerability in the server's [[Hardware]].
 >
 > **[3:40](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/caching-and-forgery?u=76281980&t=220)** Allowing the attacker to infer, or guess, the random transaction ID used in the DNS query process.
 >
@@ -2208,7 +2180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (30), traffic (2), data (1), [[Windows]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows]] (1), [[Microsoft]] (1), [[Hardware]] (1)
 > **Env Vars:** dns (30), sad (3), isp (1)
 > **Analogies:** such as (2), for example (1)
 > **Tools:** command line (2)
@@ -2216,8 +2188,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Poisoning DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980)
+#### [Poisoning DNS](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2229,7 +2200,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=28)** In order to reach the resources, a resolution is made from the domain name to the IP address.
 >
-> **[0:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=36)** On a network, resources include web servers for accessing websites, mail servers for delivering email messages, or application servers for accessing software systems and databases remotely.
+> **[0:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=36)** On a network, resources include [[Web Servers]] for accessing websites, mail servers for delivering email messages, or application servers for accessing software systems and [[Databases]] remotely.
 >
 > **[0:52](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=52)** When requesting information from DNS, there are two types of servers, an authoritative server or a non-authoritative server.
 >
@@ -2247,7 +2218,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=119)** A hacker will need to gain access.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=122)** Gaining access is achieved by exploiting an unpatched vulnerability in the server's operating system, or obtain login credentials of the DNS server by a phishing or social engineering attack.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=122)** Gaining access is achieved by exploiting an unpatched vulnerability in the server's operating system, or obtain login credentials of the DNS server by a [[Phishing]] or social engineering attack.
 >
 > **[2:17](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/poisoning-dns?u=76281980&t=137)** Then once in, the hacker can modify the DNS records so that traffic is redirected to a bogus site.
 >
@@ -2265,14 +2236,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (15), data (4), traffic (2), lan (1), web (1)
+> **Frameworks & Libraries:** [[Web Servers]] (1), [[Databases]] (1), [[Phishing]] (1)
 > **Env Vars:** dns (15), lan (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Guarding against DNS attacks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980)
+#### [Guarding against DNS attacks](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2284,7 +2254,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=19)** You'll also want to disable any unnecessary services on the machine.
 >
-> **[0:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=25)** Another method that can help protect DNS servers is to enable cache locking, which is a feature on a Windows server that allows administrators to control whether or not the DNS cache can be overwritten.
+> **[0:25](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=25)** Another method that can help protect DNS servers is to enable cache locking, which is a feature on a [[Windows Server]] that allows administrators to control whether or not the DNS cache can be overwritten.
 >
 > **[0:41](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=41)** Now on a network, authoritative service publish DNS data.
 >
@@ -2298,9 +2268,9 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=82)** That way if the password is compromised, there's still another authentication factor, such as a one-time password being delivered to your mobile phone.
 >
-> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=92)** In addition, you should implement some type of verification, such as a security word.
+> **[1:32](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=92)** In addition, you should implement some type of verification, such as a security [[Microsoft Word|word]].
 >
-> **[1:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=99)** You should also consider DNS security extensions, which add robust security to the domain name system as the extensions provide authentication and data integrity to protect against attacks such as DNS cache poisoning.
+> **[1:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=99)** You should also consider DNS security extensions, which add robust security to the [[Domain Name System (DNS)|domain name system]] as the extensions provide authentication and [[Data Integrity]] to protect against attacks such as DNS cache poisoning.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-dns-attacks?u=76281980&t=117)** Finally, let's talk about protecting the DNS resolver, which is a local server that manages DNS requests for the clients on your network.
 >
@@ -2328,15 +2298,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (16), data (3), [[Security]] (3), feature (1), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Windows Server]] (1), [[Microsoft Word|Word]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Data Integrity]] (1)
 > **Env Vars:** dns (16)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** such as (3)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Investigate a DNS header
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-investigate-a-dns-header?u=76281980)
+#### [Challenge: Investigate a DNS header](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/challenge-investigate-a-dns-header?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2372,15 +2341,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), next (1)
 > **Env Vars:** dns (4)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
 
-#### Solution: Investigate a DNS header
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980)
+#### [Solution: Investigate a DNS header](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2436,7 +2403,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=106)** Now, we'll go down to answers and we'll pull this up.
 >
-> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=110)** And here we see [google.com](https://google.com), type A, which is an IPv4 address.
+> **[1:50](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=110)** And here we see [[[Google]].com](https://google.com), type A, which is an IPv4 address.
 >
 > **[1:57](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/solution-investigate-a-dns-header?u=76281980&t=117)** And here, we see the time to live.
 >
@@ -2448,7 +2415,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), [[Google]] (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Env Vars:** dns (4)
 > **Definitions:** is a  (2), is an  (1)
 > **UI Navigation:** go to (2)
@@ -2461,14 +2428,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capturing images
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
+#### [Capturing images](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980&t=0)** - [Instructor] We know that we can sniff the network to gather usernames and passwords, but we can also scoop up images.
 >
-> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980&t=8)** In this segment, we'll see how we can capture and export images using Wireshark.
+> **[0:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980&t=8)** In this segment, we'll see how we can capture and export images using [[Wireshark]].
 >
 > **[0:15](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/capturing-images?u=76281980&t=15)** When sniffing traffic, there are a few apps that can gather and extract images.
 >
@@ -2536,15 +2502,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (5), traffic (2), data (2)
+> **Frameworks & Libraries:** [[Wireshark]] (5)
 > **UI Navigation:** go to (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** tcp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Examining HTTP headers and URLs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980)
+#### [Examining HTTP headers and URLs](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2576,7 +2541,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980&t=114)** Now we can examine the headers in a couple of different ways.
 >
-> **[1:58](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980&t=118)** I've launched Wireshark and I'm going to be capturing traffic as I go to this website, [example.com](https://example.com).
+> **[1:58](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980&t=118)** I've launched [[Wireshark]] and I'm going to be capturing traffic as I go to this website, [example.com](https://example.com).
 >
 > **[2:06](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/examining-http-headers-and-urls?u=76281980&t=126)** Now this site is used for testing such as what we're doing so we'll go to [example.com](https://example.com).
 >
@@ -2626,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Wireshark]] (3), application (2), traffic (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3)
 > **Env Vars:** http (9), tcp (3)
 > **URLs:** [example.com](https://example.com) (3), [websniffer.net](https://websniffer.net) (1)
 > **UI Navigation:** go to (2), scroll down (2)
@@ -2635,12 +2600,11 @@ created: 2026-05-02
 > **Cross-References:** later in (1), as we saw (1)
 > **Ports:** port 80 (1)
 
-#### Scooping data with TShark
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/scooping-data-with-tshark?u=76281980)
+#### [Scooping data with TShark](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/scooping-data-with-tshark?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/scooping-data-with-tshark?u=76281980&t=0)** - [Instructor] Most network administrators are familiar with Wireshark.
+> **[0:00](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/scooping-data-with-tshark?u=76281980&t=0)** - [Instructor] Most network administrators are familiar with [[Wireshark]].
 >
 > **[0:04](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/scooping-data-with-tshark?u=76281980&t=4)** It has a rich, graphical interface with many built-in tools.
 >
@@ -2684,12 +2648,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (8), application (1)
+> **Frameworks & Libraries:** [[Wireshark]] (8)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sniffing tools for mobile devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980)
+#### [Sniffing tools for mobile devices](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2707,7 +2670,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980&t=46)** I'm here at this website and we can take a look at tPacketCapture.
 >
-> **[0:52](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980&t=52)** Now, tPacketCapture is an Android app that captures and analyzes network traffic on a mobile device and I'll scroll down where you can see some of the graphics and some of the instructions.
+> **[0:52](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980&t=52)** Now, tPacketCapture is an [[Android]] app that captures and analyzes network traffic on a mobile device and I'll scroll down where you can see some of the graphics and some of the instructions.
 >
 > **[1:06](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/sniffing-tools-for-mobile-devices?u=76281980&t=66)** It has similar features to Wire Shark and it works by using a local VPN, so you don't have to route the phone in order to capture and record traffic.
 >
@@ -2735,7 +2698,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), [[Android]] (2), vpn (1), cloud (1), web (1)
+> **Frameworks & Libraries:** [[Android]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Code Identifiers:** tpacketcapture (2)
 > **Env Vars:** vpn (1), pcap (1)
@@ -2744,8 +2707,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Investigating Omnipeek
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980)
+#### [Investigating Omnipeek](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2757,9 +2719,9 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=18)** Now let's take a look at Omnipeek, which is a commercial packet sniffer and protocol analysis tool.
 >
-> **[0:26](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=26)** It's available on a Windows platform and has many features.
+> **[0:26](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=26)** It's available on a [[Windows]] platform and has many features.
 >
-> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=30)** Omnipeek is like Wireshark in that it's a real-time protocol analyzer and could decode over a thousand protocols.
+> **[0:30](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=30)** Omnipeek is like [[Wireshark]] in that it's a [[Real-Time]] protocol analyzer and could decode over a thousand protocols.
 >
 > **[0:39](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=39)** Once in, you can scroll down and we can see some of the features.
 >
@@ -2779,7 +2741,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=95)** Now, once you're here, similar to Wireshark and many other applications, there are menu choices that you can use to manipulate and move around in the interface.
 >
-> **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=107)** Now, in this, I wanted to show you over on the left hand side that there are a number of different dashboards and you can see the network, some of the applications, the packets themselves... But this one I thought was interesting, especially for this packet capture, notes.
+> **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=107)** Now, in this, I wanted to show you over on the left hand side that there are a number of different [[Dashboards]] and you can see the network, some of the applications, the packets themselves... But this one I thought was interesting, especially for this packet capture, notes.
 >
 > **[2:07](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=127)** Once I select notes here, we can see the pre-shared key, "wildpackets".
 >
@@ -2803,7 +2765,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=192)** Now, of course, that is a way of visualizing what's happening between the end points.
 >
-> **[3:17](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=197)** I like this because it's like Nmap.
+> **[3:17](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=197)** I like this because it's like [[Nmap]].
 >
 > **[3:21](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/investigating-omnipeek?u=76281980&t=201)** This peer map is a feature within Omnipeek that provides a visual representation of the network topology, and this also can include relationships between devices, switches, and routers in the network.
 >
@@ -2821,15 +2783,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (3), [[Wireshark]] (2), [[Dashboards]] (2), [[Windows]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Dashboards]] (2), [[Windows]] (1), [[Real-Time]] (1), [[Nmap]] (1)
 > **Definitions:** is a  (6)
 > **UI Navigation:** go to (4), scroll down (1)
 > **Analogies:** similar to (1), it's like (1)
 > **Env Vars:** wpa (1)
 > **Speakers:** - [narrator] (1)
 
-#### Guarding against sniffing
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980)
+#### [Guarding against sniffing](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2837,7 +2798,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=5)** In this segment, we'll discuss a few ways to defend your network against sniffing.
 >
-> **[0:11](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=11)** Sniffing the network can give the network administrator a great deal of information on the status of the network, such as network statistics and protocols that are in use.
+> **[0:11](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=11)** Sniffing the network can give the network administrator a great deal of information on the status of the network, such as network [[Statistics]] and protocols that are in use.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=23)** However, unauthorized sniffing may be considered illegal unless it's part of your job or you're monitoring your own network.
 >
@@ -2861,17 +2822,17 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=91)** Now, when sniffing traffic, some sniffers do recursive DNS lookups.
 >
-> **[1:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=96)** This method monitors domain name system requests and responses on the network for unusual patterns or an increase in DNS traffic.
+> **[1:36](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=96)** This method monitors [[Domain Name System (DNS)|domain name system]] requests and responses on the network for unusual patterns or an increase in DNS traffic.
 >
 > **[1:47](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=107)** In addition, there are programs that help detect sniffing activity.
 >
 > **[1:53](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=113)** Now, some applications can be tuned to monitor for ARP spoofing, which might be an indication that someone is on the network sniffing.
 >
-> **[2:02](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=122)** Now, apps include Snort, which is an intrusion detection system that can be used to detect ARP spoofing.
+> **[2:02](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=122)** Now, apps include Snort, which is an [[Intrusion Detection]] system that can be used to detect ARP spoofing.
 >
 > **[2:11](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=131)** arpwatch will monitor MAC address and IP address pairings in the ARP cache to see if there is any duplication.
 >
-> **[2:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=140)** Another program is RITA, or Real Intelligence Threat Analytics, which monitors network traffic to detect potential malicious activity, such as malware, phishing attacks, and advanced persistent threats.
+> **[2:20](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=140)** Another program is RITA, or Real Intelligence Threat Analytics, which monitors network traffic to detect potential malicious activity, such as malware, [[Phishing]] attacks, and advanced persistent threats.
 >
 > **[2:37](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/guarding-against-sniffing?u=76281980&t=157)** Now, there are some best practices to defend against sniffing.
 >
@@ -2897,7 +2858,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), dns (3), [[Statistics]] (1), node (1), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Domain Name System (DNS)|Domain name system]] (1), [[Intrusion Detection]] (1), [[Phishing]] (1)
 > **Env Vars:** arp (4), dns (3), ram (1), mac (1), rita (1)
 > **Analogies:** such as (5)
 > **CLI Commands:** node (1)
@@ -2910,8 +2871,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2921,13 +2881,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=8)** I reviewed attacks against protocols, such as DHCP, ARP, and DNS.
 >
-> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=14)** We then investigated various sniffing tools and techniques that include Wireshark, CloudShark, and Omnipeek.
+> **[0:14](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=14)** We then investigated various sniffing tools and techniques that include [[Wireshark]], CloudShark, and Omnipeek.
 >
 > **[0:23](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=23)** And then we learned ways to defend against sniffing attacks.
 >
-> **[0:28](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=28)** If you're interested in learning more about packet analysis, please check out my Wireshark series, Improve Your Wireshark Skills, and any course in the Ethical Hacking series will be well worth your time.
+> **[0:28](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=28)** If you're interested in learning more about packet analysis, please check out my Wireshark series, Improve Your Wireshark Skills, and any course in the [[Ethical Hacking]] series will be well worth your time.
 >
-> **[0:41](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=41)** You might also want to check out the CCNA Network Security series, and also see what my colleague Malcolm Shore has for you on his homepage.
+> **[0:41](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=41)** You might also want to check out the CCNA [[Network Security]] series, and also see what my colleague Malcolm Shore has for you on his homepage.
 >
 > **[0:51](https://www.linkedin.com/learning/ethical-hacking-sniffers-18940733/next-steps?u=76281980&t=51)** Keep learning.
 >
@@ -2935,7 +2895,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Wireshark]] (3), dns (1), [[Ethical Hacking]] (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (3), [[Ethical Hacking]] (1), [[Network Security]] (1)
 > **Env Vars:** osi (1), dhcp (1), arp (1), dns (1), ccna (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [lisa] (1)

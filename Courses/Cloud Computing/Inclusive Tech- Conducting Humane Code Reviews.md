@@ -88,18 +88,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Code reviews: heated, but needed
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
+#### [Code reviews: heated, but needed](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=0)** - [Instructor] Raise your hand if there's nothing you'd change about your code review process.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=0)** - [Instructor] Raise your hand if there's nothing you'd change about your [[Code Review]] process.
 >
 > **[0:05](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=5)** Oh, you too.
 >
 > **[0:07](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=7)** Well, you're not alone.
 >
-> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=9)** Despite being one of the most important parts of the software development process, many developers dread performing one.
+> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=9)** Despite being one of the most important parts of the [[Software Development]] process, many developers dread performing one.
 >
 > **[0:16](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=16)** Why?
 >
@@ -145,11 +144,11 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=136)** So I've learned what works and what doesn't work when establishing clear team processes.
 >
-> **[2:22](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=142)** If you'd like to learn how to facilitate a fair code review process, one where substantiated mistakes and design flaws are caught, one where productive suggestions are made, and most importantly, one where you and your colleagues still like each other afterward, then join me for my course on LinkedIn Learning, where we'll learn how to conduct humane code reviews.
+> **[2:22](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/code-reviews-heated-but-needed?u=76281980&t=142)** If you'd like to learn how to facilitate a fair code review process, one where substantiated mistakes and design flaws are caught, one where productive suggestions are made, and most importantly, one where you and your colleagues still like each other afterward, then join me for my course on [[LinkedIn]] Learning, where we'll learn how to conduct humane code reviews.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (8), [[Software Development]] (1), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (8), [[Software Development]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -159,14 +158,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Goal 1: Catch design flaws
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
+#### [Goal 1: Catch design flaws](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=0)** - [Narrator] When thinking of why we do code reviews, the first and foremost reason you probably thought of is to catch design flaws, and you'd be right.
 >
-> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=9)** These are the most important types of mistakes to catch in a code review.
+> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=9)** These are the most important types of mistakes to catch in a [[Code Review]].
 >
 > **[0:14](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=14)** Design flaws could be as obvious as unused functions in code, or they could be less obvious like bugs in the overall architecture of your code.
 >
@@ -176,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=33)** You can start by asking yourself these questions as you carefully review the code changes about to be merged.
 >
-> **[0:40](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=40)** Things like does this code integrate well with the rest of your architecture?
+> **[0:40](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=40)** Things like does this code integrate well with the [[Representational State Transfer (REST)|rest]] of your architecture?
 >
 > **[0:46](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=46)** For example, if your application uses MVC architecture that you see a controller type logic in a view you'll want to point that out in the code review.
 >
@@ -196,7 +194,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=106)** Next, are there any race conditions?
 >
-> **[1:49](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=109)** When you deal with concurrent programming, keep an eye out for any potential threads or processes that may compete for the same resource.
+> **[1:49](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=109)** When you deal with [[Concurrent Programming]], keep an eye out for any potential threads or processes that may compete for the same resource.
 >
 > **[1:57](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-1-catch-design-flaws?u=76281980&t=117)** By having two threads, try to access this at the same time you can get weird, only happens in certain situations type of bugs that you don't want affecting your application.
 >
@@ -224,20 +222,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (6), application (5), [[Representational State Transfer (REST)|Rest]] (1), next (1), [[Concurrent Programming]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[Representational State Transfer (REST)|Rest]] (1), [[Concurrent Programming]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** mvc (2), aka (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [narrator] (1)
 
-#### Goal 2: Ensure code clarity and coherence
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980)
+#### [Goal 2: Ensure code clarity and coherence](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980&t=0)** - [Instructor] While a code that is designed well is of the utmost importance, the clarity of such code is just as important.
 >
-> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980&t=9)** That's why the second code review goal we strive for is to ensure code clarity and coherence.
+> **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980&t=9)** That's why the second [[Code Review]] goal we strive for is to ensure code clarity and coherence.
 >
 > **[0:15](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-2-ensure-code-clarity-and-coherence?u=76281980&t=15)** I'm sure most of you have encountered this before either with a colleague's code or maybe earlier versions of your own.
 >
@@ -259,17 +256,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (2), game (1)
+> **Frameworks & Libraries:** [[Code Review]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goal 3: Validate necessity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-3-validate-necessity?u=76281980)
+#### [Goal 3: Validate necessity](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-3-validate-necessity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-3-validate-necessity?u=76281980&t=0)** - [Instructor] One code review goal that's overlooked, mostly because it is implied in the process, is to validate it's necessity.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-3-validate-necessity?u=76281980&t=0)** - [Instructor] One [[Code Review]] goal that's overlooked, mostly because it is implied in the process, is to validate it's necessity.
 >
 > **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-3-validate-necessity?u=76281980&t=9)** When we review open poll requests, we expect that the code being analyzed is needed for something, whether that's a bug fix for that longstanding flicker issue with your dropdown, or a new API endpoint that makes it easy to retrieve all of your customer's orders.
 >
@@ -305,18 +301,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (3), api (1), teams (1), feature (1), application (1)
+> **Frameworks & Libraries:** [[Code Review]] (3)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Goal 4: Confirm functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-4-confirm-functionality?u=76281980)
+#### [Goal 4: Confirm functionality](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-4-confirm-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-4-confirm-functionality?u=76281980&t=0)** - [Instructor] With the rise of automated processes, confirming the functionality of our code should be one of the easier code review goals to fulfill.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-4-confirm-functionality?u=76281980&t=0)** - [Instructor] With the rise of automated processes, confirming the functionality of our code should be one of the easier [[Code Review]] goals to fulfill.
 >
 > **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/goal-4-confirm-functionality?u=76281980&t=9)** However, when we don't have or don't use things like automated tests, it is part of our jobs as developers to make sure things work as they should during the code review process.
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (6), application (4), feature (1), teams (1), web (1)
+> **Frameworks & Libraries:** [[Code Review]] (6)
 > **CLI Commands:** make (3)
 > **Documentation:** spec (1)
 > **Definitions:** is a  (1)
@@ -375,8 +370,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's a team working agreement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
+#### [What's a team working agreement?](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -386,7 +380,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980&t=11)** Well, a team working agreement is a flexible, enforceable and co-created document that establishes your team's development processes and the guidelines that surround it.
 >
-> **[0:23](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980&t=23)** With this purpose in mind, it makes it the best place to spell out your team's detailed code review process.
+> **[0:23](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980&t=23)** With this purpose in mind, it makes it the best place to spell out your team's detailed [[Code Review]] process.
 >
 > **[0:30](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/what-s-a-team-working-agreement?u=76281980&t=30)** Before you consider any suggestions or strategies, even the ones I share in this course, it's a good idea to first get your team on the same page.
 >
@@ -429,14 +423,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Why does my team need a team working agreement?
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980)
+#### [Why does my team need a team working agreement?](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980&t=0)** - [Narrator] The code review process itself is almost universally agreed upon among all developers.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980&t=0)** - [Narrator] The [[Code Review]] process itself is almost universally agreed upon among all developers.
 >
-> **[0:07](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980&t=7)** We all know its value and agree that it's essential to a resilient and useful software development workflow.
+> **[0:07](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980&t=7)** We all know its value and agree that it's essential to a resilient and useful [[Software Development]] workflow.
 >
 > **[0:14](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/why-does-my-team-need-a-team-working-agreement?u=76281980&t=14)** How that process is done and all the details that surround the process, however, is what's hotly contested.
 >
@@ -468,16 +461,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), [[Software Development]] (1), career (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Software Development]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Challenge: Create a team agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-create-a-team-agreement?u=76281980)
+#### [Challenge: Create a team agreement](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-create-a-team-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-create-a-team-agreement?u=76281980&t=0)** - [Instructor] How would you like to have an established set of guidelines for your code review process?
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-create-a-team-agreement?u=76281980&t=0)** - [Instructor] How would you like to have an established set of guidelines for your [[Code Review]] process?
 >
 > **[0:11](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-create-a-team-agreement?u=76281980&t=11)** How about an enforceable contract that your whole team has created and is willing to follow?
 >
@@ -497,8 +489,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Sample team agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980)
+#### [Solution: Sample team agreement](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -510,7 +501,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980&t=23)** Here's the sample team-working agreement for my company, Mango Engineering.
 >
-> **[0:28](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980&t=28)** In it, our team has established the most important parts of our code contribution and code review process guidelines.
+> **[0:28](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980&t=28)** In it, our team has established the most important parts of our code contribution and [[Code Review]] process guidelines.
 >
 > **[0:37](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-sample-team-agreement?u=76281980&t=37)** As you can see here, we've outlined our branch guidelines, commit message guidelines and have fully outlined our code review process.
 >
@@ -526,7 +517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Code Review]] (4)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (soft music) (1)
@@ -536,12 +527,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subjectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
+#### [Subjectivity](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980&t=0)** - [Tutor] Have you ever received a comment like this on your code review?
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980&t=0)** - [Tutor] Have you ever received a comment like this on your [[Code Review]]?
 >
 > **[0:05](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/subjectivity?u=76281980&t=5)** Or from the opposite perspective, have you ever left over 10 tiny comments on a colleague's code review pointing out indentation or formatting?
 >
@@ -591,12 +581,11 @@ created: 2026-05-02
 > **CLI Commands:** make (3)
 > **Speakers:** - [tutor] (1)
 
-#### Tone of voice
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tone-of-voice?u=76281980)
+#### [Tone of voice](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tone-of-voice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tone-of-voice?u=76281980&t=0)** - [Instructor] Where some code review comments can be annoying, others can be outright hurtful.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tone-of-voice?u=76281980&t=0)** - [Instructor] Where some [[Code Review]] comments can be annoying, others can be outright hurtful.
 >
 > **[0:06](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tone-of-voice?u=76281980&t=6)** This is why tone of voice matters, so much that it's one of the top pet peeves of developers when it comes to code reviews.
 >
@@ -638,17 +627,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), [[Programming]] (1), next (1)
+> **Frameworks & Libraries:** [[Code Review]] (4)
 > **Analogies:** for example (1), imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Process loopholes
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980)
+#### [Process loopholes](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=0)** - [Instructor] Often overlooked, process loopholes in the code review process are another really frustrating issue that developers can't stand.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=0)** - [Instructor] Often overlooked, process loopholes in the [[Code Review]] process are another really frustrating issue that developers can't stand.
 >
 > **[0:09](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=9)** Sometimes direct, most of the time indirect, these loopholes sow a large amount of distrust in the process altogether.
 >
@@ -662,7 +650,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=61)** And finally, you feel the frustrations of having some people skip the process altogether, simply because they are in a management role or have a more senior status.
 >
-> **[1:13](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=73)** These are all forms of bias loopholes that not only prove detrimental to your code base, but to the morale of the team.
+> **[1:13](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=73)** These are all [[Forms]] of bias loopholes that not only prove detrimental to your code base, but to the morale of the team.
 >
 > **[1:21](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/process-loopholes?u=76281980&t=81)** The next loophole is something that is not always intentional, but is still a problem nonetheless.
 >
@@ -686,7 +674,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (4), management (1), [[Forms]] (1), next (1), teams (1)
+> **Frameworks & Libraries:** [[Code Review]] (4), [[Forms]] (1)
 > **Env Vars:** mve (1), lgtm (1)
 > **Definitions:** is an  (1), stands for (1)
 > **CLI Commands:** make (1)
@@ -697,12 +685,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Objectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
+#### [Objectivity](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980&t=0)** - [Instructor] If there's one thing that code review comments need to be, that's objective.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980&t=0)** - [Instructor] If there's one thing that [[Code Review]] comments need to be, that's objective.
 >
 > **[0:05](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/objectivity?u=76281980&t=5)** Objective comments are the direct solution to and direct opposite of subjective comments, one of the top pet peeves developers have.
 >
@@ -771,12 +758,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools of objectivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980)
+#### [Tools of objectivity](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=0)** - [Instructor] Objective code review comments are easier to write if you just let the robots take over.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=0)** - [Instructor] Objective [[Code Review]] comments are easier to write if you just let the robots take over.
 >
 > **[0:06](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=6)** No, not like that.
 >
@@ -788,7 +774,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=22)** With so many plugins, add-ons and services whose sole purpose is to fix, or at least warn you of these very issues, picking and choosing a few to integrate into your development workflow is worth considering.
 >
-> **[0:37](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=37)** Robots taking over means making ESLint, a pluggable JavaScript Linter, a required dev dependency in your JavaScript projects.
+> **[0:37](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=37)** Robots taking over means making [[ESLint]], a pluggable [[JavaScript]] Linter, a required dev dependency in your JavaScript projects.
 >
 > **[0:46](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tools-of-objectivity?u=76281980&t=46)** And setting up some lint rules that your whole team agrees with.
 >
@@ -830,13 +816,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (6), [[JavaScript]] (2), [[ESLint]] (1), teams (1), next (1)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[JavaScript]] (2), [[ESLint]] (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### TL;DR Don't be a jerk!
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980)
+#### [TL;DR Don't be a jerk!](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -858,7 +843,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980&t=38)** First, suggest with facts.
 >
-> **[0:42](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980&t=42)** If you're going to make a suggestion in your code review, back it up.
+> **[0:42](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980&t=42)** If you're going to make a suggestion in your [[Code Review]], back it up.
 >
 > **[0:46](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/tl-dr-don-t-be-a-jerk?u=76281980&t=46)** Why are you making this suggestion?
 >
@@ -920,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (8), next (1)
+> **Frameworks & Libraries:** [[Code Review]] (8)
 > **CLI Commands:** make (5)
 > **Best Practices:** the key is (2)
 > **Definitions:** is a  (1)
@@ -928,12 +913,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [adrienne] (1)
 
-#### Team working agreement to the rescue!
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/team-working-agreement-to-the-rescue?u=76281980)
+#### [Team working agreement to the rescue!](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/team-working-agreement-to-the-rescue?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/team-working-agreement-to-the-rescue?u=76281980&t=0)** - [Instructor] When it comes to process loopholes in the code review process, the Team Working Agreement can be an invaluable piece to eliminating them once and for all.
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/team-working-agreement-to-the-rescue?u=76281980&t=0)** - [Instructor] When it comes to process loopholes in the [[Code Review]] process, the Team Working Agreement can be an invaluable piece to eliminating them once and for all.
 >
 > **[0:10](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/team-working-agreement-to-the-rescue?u=76281980&t=10)** To make sure your team tackles these loopholes, make sure to include the following in your Team Working Agreement, and to discuss these topics in-depth.
 >
@@ -959,17 +943,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (3), next (1)
+> **Frameworks & Libraries:** [[Code Review]] (3)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Your code review challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-your-code-review-challenge?u=76281980)
+#### [Challenge: Your code review challenge](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-your-code-review-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-your-code-review-challenge?u=76281980&t=0)** - [Announcer] Now that your team has a team working agreement, why not take some time to practice your code review comments?
+> **[0:00](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-your-code-review-challenge?u=76281980&t=0)** - [Announcer] Now that your team has a team working agreement, why not take some time to practice your [[Code Review]] comments?
 >
 > **[0:12](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/challenge-your-code-review-challenge?u=76281980&t=12)** Using the same repository for your team working agreement exercise, try conducting code reviews for any changes you'd like to make to your team working agreement.
 >
@@ -983,8 +966,7 @@ created: 2026-05-02
 > **Speakers:** - [announcer] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Your code review challenge
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980)
+#### [Solution: Your code review challenge](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -992,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980&t=8)** Are your comments productive, courteous and fair?
 >
-> **[0:12](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980&t=12)** More importantly, is your team responding well to each other's comments, and are the code review goals front and center within them?
+> **[0:12](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980&t=12)** More importantly, is your team responding well to each other's comments, and are the [[Code Review]] goals front and center within them?
 >
 > **[0:20](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/solution-your-code-review-challenge?u=76281980&t=20)** If so, great, your team has successfully put into practice some of the strategies we've discussed in this course.
 >
@@ -1009,8 +991,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Your code reviews
-> [LinkedIn Learning](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)
+#### [Your code reviews](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1018,7 +999,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=1)** Congratulations on making it to the end of this course.
 >
-> **[0:04](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=4)** We learned about the fundamental goals of a code review.
+> **[0:04](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=4)** We learned about the fundamental goals of a [[Code Review]].
 >
 > **[0:08](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=8)** Goals that motivate us to perform this essential process in the first place.
 >
@@ -1028,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=46)** With the information you've just learned, you are now well equipped to collaboratively establish and enforce a code review process your whole team can get behind.
 >
-> **[0:56](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=56)** If you have any questions about any part of this course or you just like to share how your team's code review processes have significantly improved through this course, find me on Twitter or share your story in a LinkedIn post.
+> **[0:56](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=56)** If you have any questions about any part of this course or you just like to share how your team's code review processes have significantly improved through this course, find me on Twitter or share your story in a [[LinkedIn]] post.
 >
 > **[1:11](https://www.linkedin.com/learning/inclusive-tech-conducting-humane-code-reviews/your-code-reviews?u=76281980&t=71)** I can't wait to celebrate your successes with you and your team.
 

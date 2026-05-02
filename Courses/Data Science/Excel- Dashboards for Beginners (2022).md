@@ -68,12 +68,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Transform the way you present data to leaders
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
+#### [Transform the way you present data to leaders](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=1)** - [Jordan] Excel Dashboards.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=1)** - [Jordan] [[Excel Dashboards]].
 >
 > **[0:02](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=2)** What are they?
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=14)** Maybe you've attempted to build one and you weren't sure exactly where everything should go and how to think about putting the pieces together.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=22)** But what if I could show you how to transform the way you present data to leaders easily and effectively using Microsoft Excel, all the while, advancing your Excel skills.
+> **[0:22](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=22)** But what if I could show you how to transform the way you present data to leaders easily and effectively using [[Microsoft Excel]], all the while, advancing your [[Microsoft Excel|Excel]] skills.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=34)** Now, these are crucial skills.
 >
@@ -93,36 +92,35 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=41)** Clearly there's a market and the skills presented in this course will make you more competitive.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=46)** Now, I'm going to show you exactly what dashboards are.
+> **[0:46](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=46)** Now, I'm going to show you exactly what [[Dashboards]] are.
 >
 > **[0:49](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=49)** I'm going to show you how to build them in Microsoft Excel.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=52)** And I'm going to provide you step by step instruction.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=56)** Well, hello, I am Jordan Goldmeier, Microsoft Office MVP, the author of three books, Dashboards for Excel, Advanced Excel Essentials, and my book on data science and machine learning, Becoming a Data Head.
+> **[0:56](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=56)** Well, hello, I am Jordan Goldmeier, [[Microsoft Office]] MVP, the author of three books, Dashboards for Excel, Advanced Excel Essentials, and my book on [[Data Science]] and machine learning, Becoming a Data Head.
 >
 > **[1:09](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=69)** Suffice it to say, I love data.
 >
 > **[1:11](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=71)** Well, my thinking is you probably love data, too.
 >
-> **[1:15](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=75)** And if that's you then join me in LinkedIn Learning, and get started building Excel dashboards in no time at all.
+> **[1:15](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=75)** And if that's you then join me in [[LinkedIn]] Learning, and get started building Excel dashboards in no time at all.
 >
 > **[1:22](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/transform-the-way-you-present-data-to-leaders?u=76281980&t=82)** I will see you on the inside.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (3), [[Excel Dashboards]] (2), [[Microsoft Excel]] (2), [[Dashboards]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Excel Dashboards]] (2), [[Microsoft Excel]] (2), [[Dashboards]] (2), [[Microsoft Office]] (1)
 > **Env Vars:** ibm (1), mvp (1)
 > **CLI Commands:** make (1)
 > **Versions:** 2.7 (1)
 > **Speakers:** - [jordan] (1)
 
-#### What is a dashboard?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980)
+#### [What is a dashboard?](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=1)** - [Instructor] Okay, so you might be wondering what is a dashboard and why build one in Excel?
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=1)** - [Instructor] Okay, so you might be wondering what is a dashboard and why build one in [[Microsoft Excel|Excel]]?
 >
 > **[0:07](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=7)** Now to really understand what a dashboard is, let's go back to one of the original, or at least what is commonly considered one of the original definitions.
 >
@@ -152,7 +150,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=69)** And the big thing here is the single screen because he was one of the people to pioneer that.
 >
-> **[1:14](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=74)** And as you may know, there are dashboards today that exist across multiple different screens.
+> **[1:14](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=74)** And as you may know, there are [[Dashboards]] today that exist across multiple different screens.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=81)** So when Stephen Few had actually come up with his definition it's worth just considering that he had called it a working definition.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=130)** It doesn't necessarily even have to follow exactly what Stephen Few says here, but I do want to present that to you as one of the definitions.
 >
-> **[2:18](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=138)** Rather than trying to define what I think is undefinable in the sense that defining a dashboard would necessitate we use words like insight and business intelligence and define what even those are and what analytics is and things like that.
+> **[2:18](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=138)** Rather than trying to define what I think is undefinable in the sense that defining a dashboard would necessitate we use words like insight and [[Business Intelligence (BI)|business intelligence]] and define what even those are and what analytics is and things like that.
 >
 > **[2:32](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=152)** I think we should focus, in fact, instead on what a dashboard does.
 >
@@ -186,7 +184,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=173)** But the idea is that it allows us to collapse these complicated things into a consolidated format, which means typically, right, it means a chart.
 >
-> **[3:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=181)** It means things like descriptive statistics, right?
+> **[3:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=181)** It means things like descriptive [[Statistics]], right?
 >
 > **[3:04](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=184)** So sum, min, max, average, variance, things like that.
 >
@@ -208,7 +206,7 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=234)** If we took the sum of something like this, we would take a big column and we'd basically turn it into one number.
 >
-> **[3:59](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=239)** And fundamentally, this is what pivot tables allow us to do and are designed to do.
+> **[3:59](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=239)** And fundamentally, this is what [[Pivot Tables]] allow us to do and are designed to do.
 >
 > **[4:04](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=244)** So in many ways, that's why Excel is great for doing this type of thing.
 >
@@ -230,7 +228,7 @@ created: 2026-05-02
 >
 > **[5:05](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=305)** Well, the answers are Excel is everywhere.
 >
-> **[5:08](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=308)** One of the great things about what I'm going to show you here is that it can be done in Windows or Mac.
+> **[5:08](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=308)** One of the great things about what I'm going to show you here is that it can be done in [[Windows]] or Mac.
 >
 > **[5:13](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-is-a-dashboard?u=76281980&t=313)** And soon perhaps, it will be able to easily work online.
 >
@@ -262,7 +260,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Dashboards]] (8), [[Analytics]] (4), [[Business Intelligence (BI)|Business intelligence]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Dashboards]] (8), [[Business Intelligence (BI)|Business intelligence]] (1), [[Statistics]] (1), [[Pivot Tables]] (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
 > **Cross-References:** go back to (1), coming up (1)
@@ -271,8 +269,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### What to know before starting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980)
+#### [What to know before starting](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -280,13 +277,13 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=11)** Now, these files are identified by where they reside in the course.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=16)** A few other things to take note of, I am using the most recent version of Office 365.
+> **[0:16](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=16)** A few other things to take note of, I am using the most recent version of [[Microsoft Office|Office]] 365.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=22)** Now, you may have a different version of Microsoft Excel and you may have a different operating system.
+> **[0:22](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=22)** Now, you may have a different version of [[Microsoft Excel]] and you may have a different operating system.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=29)** What I teach you is available on the Macintosh version of Microsoft Excel.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=35)** However, some of the windows and some of the dialogue boxes may look a little bit different, so make sure to pay attention to what I am clicking on.
+> **[0:35](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=35)** However, some of the [[Windows]] and some of the dialogue boxes may look a little bit different, so make sure to pay attention to what I am clicking on.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/what-to-know-before-starting?u=76281980&t=43)** Most likely, there is a readily available and easily findable counterpart to it for those on a Mac machine, and with that, let's go ahead and get started building our first dashboard.
 
@@ -303,12 +300,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Store data in Excel tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
+#### [Store data in Excel tables](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=1)** - [Instructor] Now, one of the mistakes people make when making dashboards is they don't take their data and put it into an Excel table.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=1)** - [Instructor] Now, one of the mistakes people make when making [[Dashboards]] is they don't take their data and put it into an [[Microsoft Excel|Excel]] table.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/store-data-in-excel-tables?u=76281980&t=8)** Okay, so what's an Excel table?
 >
@@ -442,7 +438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), data (4), hit (4), [[Dashboards]] (2), feature (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Dashboards]] (2)
 > **UI Navigation:** go to (3), select the (1), scroll down (1), click on (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** note that (2)
@@ -451,8 +447,7 @@ created: 2026-05-02
 > **Best Practices:** always make sure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create PivotTables for data summaries
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980)
+#### [Create PivotTables for data summaries](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -474,7 +469,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980&t=45)** So now I've inserted a new pivot table.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980&t=48)** If you've never used pivot tables before, the best way to think of a pivot table is, that it is the great flattener.
+> **[0:48](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980&t=48)** If you've never used [[Pivot Tables]] before, the best way to think of a pivot table is, that it is the great flattener.
 >
 > **[0:53](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-pivottables-for-data-summaries?u=76281980&t=53)** It always takes columns of data and squashes them down into one number.
 >
@@ -586,13 +581,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Pivot Tables]] (3), [[Analytics]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (3)
 > **UI Navigation:** select the (1), dropdown (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Visualize data with PivotCharts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980)
+#### [Visualize data with PivotCharts](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -604,7 +598,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=16)** And over here, I'm going to click PivotChart.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=18)** Now, Excel tries to be smart and figure out what kind of chart you want.
+> **[0:18](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=18)** Now, [[Microsoft Excel|Excel]] tries to be smart and figure out what kind of chart you want.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=21)** I think we're happy with this Clustered Column chart.
 >
@@ -640,7 +634,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=103)** But indeed there is actually a better way to give filters to your users, and that's through slicers and timelines, which I will talk about in another video.
 >
-> **[1:52](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=112)** In the meantime, since we're using these four dashboards, I like to give the user control, not through anything on here but rather through the interactivity like slicers and timelines, so what I need to do is remove that control from them.
+> **[1:52](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=112)** In the meantime, since we're using these four [[Dashboards]], I like to give the user control, not through anything on here but rather through the interactivity like slicers and timelines, so what I need to do is remove that control from them.
 >
 > **[2:07](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/visualize-data-with-pivotcharts?u=76281980&t=127)** So I right click on any of these gray fields here, and I'll just click on Hide All Field Buttons on Chart.
 >
@@ -648,18 +642,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Dashboards]] (1)
 > **UI Navigation:** click on (3), go to (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add interactivity with slicers and timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980)
+#### [Add interactivity with slicers and timelines](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=0)** - [Instructor] Now, to create interactivity on our dashboards, we want to use a pivot table technology called slicers, and then there's an associate one called a timeline.
+> **[0:00](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=0)** - [Instructor] Now, to create interactivity on our [[Dashboards]], we want to use a pivot table technology called slicers, and then there's an associate one called a timeline.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=12)** They're actually very similar, and I'm going to show those to you.
 >
@@ -681,7 +674,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=52)** Note that the things I clicked on were also categorical data.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=56)** So slicers do not work so well, at least in Excel with numeric data because then you're just kind of looking across a list of potential numbers.
+> **[0:56](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=56)** So slicers do not work so well, at least in [[Microsoft Excel|Excel]] with numeric data because then you're just kind of looking across a list of potential numbers.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=65)** Okay.
 >
@@ -775,13 +768,13 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=217)** One of the cool things about timelines here is I'll click months, I can also look at this in other ways for instance, quarters, years, and then finally by days.
 >
-> **[3:54](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=234)** Hopefully, you can see how pivot tables then pivot charts.
+> **[3:54](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=234)** Hopefully, you can see how [[Pivot Tables]] then pivot charts.
 >
-> **[3:59](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=239)** Slicers in timelines are all very important components of Excel dashboards.
+> **[3:59](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines-14629224?u=76281980&t=239)** Slicers in timelines are all very important components of [[Excel Dashboards]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Dashboards]] (1), [[Microsoft Excel|Excel]] (1), hit (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (1), [[Microsoft Excel|Excel]] (1), [[Pivot Tables]] (1), [[Excel Dashboards]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Warnings:** note that (3)
 > **CLI Commands:** make (2)
@@ -794,12 +787,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get familiar with the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
+#### [Get familiar with the data](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=1)** - [Instructor] Now that we finished learning about the components of a dashboard and how to build them with pivot tables, Now it's time to learn how to build a pivot table from scratch using some raw data like we have here.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=1)** - [Instructor] Now that we finished learning about the components of a dashboard and how to build them with [[Pivot Tables]], Now it's time to learn how to build a pivot table from scratch using some raw data like we have here.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=14)** Now, let me show you what the pivot table will look like eventually.
 >
@@ -817,7 +809,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=43)** Now, the steps to get there look like this.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=47)** So first, what we need to do is we need to take this all here and turn it into an Excel table.
+> **[0:47](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=47)** So first, what we need to do is we need to take this all here and turn it into an [[Microsoft Excel|Excel]] table.
 >
 > **[0:52](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/get-familiar-with-the-data?u=76281980&t=52)** Next, we're going to create a few summaries with a pivot table.
 >
@@ -851,18 +843,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a summary table
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980)
+#### [Create a summary table](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=1)** - [Instructor] Once we have become acquainted with our data, we are now ready to turn it into an Excel table.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=1)** - [Instructor] Once we have become acquainted with our data, we are now ready to turn it into an [[Microsoft Excel|Excel]] table.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=6)** I'll put my cursor anywhere within this data region.
 >
@@ -878,7 +869,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=25)** So we've turned this into an Excel table.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=27)** Recall that tables are the efficient data structures upon which we create our dashboards.
+> **[0:27](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=27)** Recall that tables are the efficient [[Data Structures]] upon which we create our [[Dashboards]].
 >
 > **[0:31](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/create-a-summary-table?u=76281980&t=31)** The next thing I'm going to do is give this Excel table a proper name.
 >
@@ -888,15 +879,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (3), hit (2), [[Dashboards]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Data Structures]] (1), [[Dashboards]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build impactful charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980)
+#### [Build impactful charts](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=1)** - [Instructor] Now that our data is inside of an Excel table, what we can do next is create a PivotTable.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=1)** - [Instructor] Now that our data is inside of an [[Microsoft Excel|Excel]] table, what we can do next is create a PivotTable.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/build-impactful-charts?u=76281980&t=6)** So we're going to actually create two PivotTables.
 >
@@ -1016,15 +1006,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), data (5), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** click on (4), dropdown (1), right-click (1)
 > **CLI Commands:** make (4)
 > **Cross-References:** go back to (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add interactivity with slicers and timelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980)
+#### [Add interactivity with slicers and timelines](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,7 +1041,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980&t=46)** So let's go ahead and fix that.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980&t=48)** Right now this slicer is only hooked up to this pivot table but we want to hook it up to all the pivot tables.
+> **[0:48](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980&t=48)** Right now this slicer is only hooked up to this pivot table but we want to hook it up to all the [[Pivot Tables]].
 >
 > **[0:55](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/add-interactivity-with-slicers-and-timelines?u=76281980&t=55)** So I'll click the slicer here and then we can go up to the Slicer tab, that's the one all the way on the right, and I'll click Report Connections.
 >
@@ -1088,23 +1077,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), data (3), next (2), [[Pivot Tables]] (2)
+> **Frameworks & Libraries:** [[Pivot Tables]] (2)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Lay it all out
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980)
+#### [Lay it all out](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=1)** - [Instructor] Many people skip this next step, but in fact, the formatting part of dashboards is very important.
+> **[0:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=1)** - [Instructor] Many people skip this next step, but in fact, the formatting part of [[Dashboards]] is very important.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=7)** A well designed and well formatted dashboard will make it easier for when your audience and users look at it.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=14)** Let me show you some of the things that I like to do, which is going to make it easier for the person looking at your work.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=20)** So, first thing is I'm going to zoom out here.
+> **[0:20](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=20)** So, first thing is I'm going to [[Zoom]] out here.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=23)** Next thing is I'm going to kind of drag all of these components over to about column O.
 >
@@ -1130,7 +1118,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=72)** Edward Tufte and Stephen Few, both data visualization gurus, would say not to use them, that we don't need them.
 >
-> **[1:20](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=80)** And then one other thing here is you'll note in Excel, the default is to put a border around what's called the chart area.
+> **[1:20](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=80)** And then one other thing here is you'll note in [[Microsoft Excel|Excel]], the default is to put a border around what's called the chart area.
 >
 > **[1:27](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=87)** I like to put a border around what's called the plot area.
 >
@@ -1196,7 +1184,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=211)** Then we'll kind of take a look at this axis right here.
 >
-> **[3:33](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=213)** I don't know if you can tell, it's still, this here is still lighter gray than the rest.
+> **[3:33](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=213)** I don't know if you can tell, it's still, this here is still lighter gray than the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:37](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/lay-it-all-out?u=76281980&t=217)** So just for my own sanity, I'm going to going to click this here and you can either select the middle gray here.
 >
@@ -1310,7 +1298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (8), [[Zoom]] (4), hit (4), data (3), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (4), [[Dashboards]] (1), [[Microsoft Excel|Excel]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (7), go to (5), select the (2)
 > **CLI Commands:** make (8)
 > **Warnings:** note that (2)
@@ -1322,8 +1310,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your Excel dashboards journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)
+#### [Continue your Excel dashboards journey](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,7 +1346,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=71)** This is really part of her analytics design template.
 >
-> **[1:15](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=75)** She looks at dashboards and really splits them up into three different components, snapshot, trends, and actions.
+> **[1:15](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=75)** She looks at [[Dashboards]] and really splits them up into three different components, snapshot, trends, and actions.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=81)** You can think of snapshot as here's what's happening right at this moment, what's trending around this process that I'm running.
 >
@@ -1421,11 +1408,11 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=229)** And so I hope that you continue your learning along with some of these resources I provided here.
 >
-> **[3:55](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=235)** My book "Dashboards for Excel."
+> **[3:55](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=235)** My book "Dashboards for [[Microsoft Excel|Excel]]."
 >
 > **[3:57](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=237)** One of the greatest books on dashboard design by Steven Few, "Information Dashboard Design."
 >
-> **[4:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=241)** And, of course, on data visualization, "Storytelling with Data" by Cole Nussbaumer Knaflic.
+> **[4:01](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=241)** And, of course, on data visualization, "[[Storytelling]] with Data" by Cole Nussbaumer Knaflic.
 >
 > **[4:07](https://www.linkedin.com/learning/excel-dashboards-for-beginners-2022/continue-your-excel-dashboards-journey?u=76281980&t=247)** With all that being said, I wish you well on your journey.
 >
@@ -1435,7 +1422,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Dashboards]] (4), data (4), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Dashboards]] (4), [[Microsoft Excel|Excel]] (1), [[Storytelling]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** refers to (1), is a  (1)
 > **Exercise Files:** template (1)

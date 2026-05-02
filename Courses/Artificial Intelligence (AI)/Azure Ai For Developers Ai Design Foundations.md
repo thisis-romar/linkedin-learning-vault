@@ -83,20 +83,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What this course is about
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
+#### [What this course is about](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=0)** - [Marco] Did you know that AI can now understand and generate human-like text, images, and more?
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=6)** This is the power of large language models and it's transforming the way we interact with technology.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=6)** This is the power of [[Large Language Models (LLM)|large language models]] and it's transforming the way we interact with technology.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=12)** But how can you harness this power effectively and responsibly?
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=16)** In this foundational course, you'll learn the basics of large language models, how they work, what they can do, and how you can use them, how to ground these models to your data, and ensure they work correctly, best practices for ensuring your AI behaves safely and responsibly, the exciting potential of multimodal models that go beyond just text, and the rise of AI agents and their impact on the future of AI.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=16)** In this foundational course, you'll learn the basics of large language models, how they work, what they can do, and how you can use them, how to ground these models to your data, and ensure they work correctly, best practices for ensuring your AI behaves safely and responsibly, the exciting potential of multimodal models that go beyond just text, and the rise of [[AI Agents]] and their impact on the future of AI.
 >
-> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=45)** I'm Marco Casalaina, VP products of Azure AI.
+> **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=45)** I'm Marco Casalaina, VP [[Microsoft Products|products]] of [[Microsoft Azure|Azure]] AI.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-this-course-is-about?u=76281980&t=48)** If you're ready to dive into the world of Azure AI, join me as we explore these fascinating topics together.
 >
@@ -104,17 +103,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), power (2), [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Azure|Azure]] (2), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Azure|Azure]] (2), [[AI Agents]] (1), [[Microsoft Products|Products]] (1)
 > **Speakers:** - [marco] (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980&t=0)** - [Instructor] Now let's talk about some prerequisites, some things you'll want to know before taking this course.
 >
-> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980&t=5)** You'll want to have some familiarity with cloud services, especially Azure, and you'll need a basic understanding of programming because we'll be looking at a little bit of code.
+> **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980&t=5)** You'll want to have some familiarity with [[Cloud Services]], especially [[Microsoft Azure|Azure]], and you'll need a basic understanding of programming because we'll be looking at a little bit of code.
 >
 > **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/pre-requisites?u=76281980&t=15)** Don't worry though, you don't need to be an expert in all this stuff.
 >
@@ -126,7 +124,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1), [[Microsoft Azure|Azure]] (1), [[Programming]] (1), ai (1)
+> **Frameworks & Libraries:** [[Cloud Services]] (1), [[Microsoft Azure|Azure]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -135,18 +133,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to large language models (LLMs)
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
+#### [Introduction to large language models (LLMs)](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=0)** - [Instructor] If you're here, you've probably heard of a large language model or an LLM.
 >
-> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=4)** They power most of the world of AI today, including ChatGPT and Microsoft Copilot.
+> **[0:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=4)** They power most of the world of AI today, including [[ChatGPT]] and [[Microsoft Copilot]].
 >
 > **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=10)** So, most people have used a large language model in some form, but very few people really understand how it works.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=17)** So, I'm going to demonstrate the fundamental principle of how large language models work by turning you into one right now.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=17)** So, I'm going to demonstrate the fundamental principle of how [[Large Language Models (LLM)|large language models]] work by turning you into one right now.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=25)** What would you do if I just didn't finish this?
 >
@@ -154,7 +151,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=31)** I intentionally cut myself off, but in your head, you probably filled in the blank there.
 >
-> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=37)** Some of you may have even said the word sentence out loud.
+> **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=37)** Some of you may have even said the [[Microsoft Word|word]] sentence out loud.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-large-language-models-llms?u=76281980&t=41)** This is fundamentally how a large language model works.
 >
@@ -180,14 +177,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (6), [[Microsoft Copilot]] (2), [[Microsoft Word|Word]] (2), next (2), llm (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (6), [[Microsoft Copilot]] (2), [[Microsoft Word|Word]] (2), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** llm (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Choosing the right model
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980)
+#### [Choosing the right model](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,13 +195,13 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=13)** One way to compare different models is using benchmarks.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=17)** You can find them here in Azure AI Foundry on this benchmarks tab right here.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=17)** You can find them here in [[Azure AI Foundry]] on this benchmarks tab right here.
 >
 > **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=25)** And in this area, you can actually add other models that you compare against each other on various different metrics like cost and latency and quality and so on.
 >
 > **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=38)** You can also find these benchmarks on various third party websites like this, the Large Language Model Leaderboard, but there's no substitute for trying the models yourself.
 >
-> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=50)** One of the fastest and easiest ways to do this now is with the GitHub model marketplace.
+> **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=50)** One of the fastest and easiest ways to do this now is with the [[GitHub]] model marketplace.
 >
 > **[0:55](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=55)** Let's have a look.
 >
@@ -231,7 +227,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=136)** You know, let's say that I'm building this multimodal application with text and vision and I would like to compare two models against each other to determine which one is going to work for me.
 >
-> **[2:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=148)** And so on the right-hand side, I'm going to change this one to be not GPT-4o mini, but instead, I'll choose lLama 11B-Vision, for example.
+> **[2:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=148)** And so on the right-hand side, I'm going to change this one to be not GPT-4o mini, but instead, I'll choose [[LLaMA]] 11B-Vision, for example.
 >
 > **[2:37](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/choosing-the-right-model?u=76281980&t=157)** And once again, I will attach my image and I'll give them both the same prompt at the same time.
 >
@@ -247,7 +243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[GitHub]] (2), application (2), [[LLaMA]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (2), [[GitHub]] (2), [[LLaMA]] (2)
 > **Env Vars:** gpt (5)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** github (2)
@@ -261,28 +257,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How data grounding works
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
+#### [How data grounding works](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=0)** - [Instructor] As I mentioned earlier, large language models don't learn.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=0)** - [Instructor] As I mentioned earlier, [[Large Language Models (LLM)|large language models]] don't learn.
 >
 > **[0:03](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=3)** To give them memory or access to current information, you have to ground them to data.
 >
 > **[0:08](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=8)** Let's take a look at how that works.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=11)** Now we're in the Azure AI Foundry portal.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=11)** Now we're in the [[Azure AI Foundry]] portal.
 >
 > **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=14)** The portal offers all kinds of tools for developers to get started with AI.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=18)** By the time you see this course, the Azure AI Foundry may look a little different because the Azure AI Foundry is constantly evolving.
 >
-> **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=25)** But rest assured, the principles I'll demonstrate here will still apply.
+> **[0:25](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=25)** But [[Representational State Transfer (REST)|rest]] assured, the principles I'll demonstrate here will still apply.
 >
 > **[0:29](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=29)** The easiest way to ground your model to data is here through the playground and we're going to make a question answering agent.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=36)** AI agents can do much more than just answer questions as we'll see later on in this course.
+> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=36)** [[AI Agents]] can do much more than just answer questions as we'll see later on in this course.
 >
 > **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=40)** But here, we're going to make one that's grounded to knowledge.
 >
@@ -300,7 +295,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=81)** There are lots of different sources of knowledge that you can ground the model to.
 >
-> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=87)** So when I drop this down here, you can see that I can ground this to an Azure AI search index that I had previously set up, or to other data in the Azure AI Studio or in a blob storage.
+> **[1:27](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=87)** So when I drop this down here, you can see that I can ground this to an [[Microsoft Azure|Azure]] AI search index that I had previously set up, or to other data in the [[Azure AI Studio]] or in a blob storage.
 >
 > **[1:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=101)** Or, here I can test this out quickly just by uploading a file.
 >
@@ -336,23 +331,22 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=194)** That's why it was able to answer the question correctly, because the answer to the question was actually right in the prompt that the large language model got, and that's how all AI works everywhere.
 >
-> **[3:30](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=210)** Here in Microsoft Copilot, when I ask it a question, it's doing the same thing, just grounding to my email and my calendar and things like that.
+> **[3:30](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=210)** Here in [[Microsoft Copilot]], when I ask it a question, it's doing the same thing, just grounding to my email and my calendar and things like that.
 >
-> **[3:39](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=219)** So it's not that the model knows when I'm recording this LinkedIn Learning course, it's that it was able to search this in my calendar and then it put this information from my calendar into the prompt for the model to respond with.
+> **[3:39](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=219)** So it's not that the model knows when I'm recording this [[LinkedIn]] Learning course, it's that it was able to search this in my calendar and then it put this information from my calendar into the prompt for the model to respond with.
 >
 > **[3:55](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/how-data-grounding-works?u=76281980&t=235)** It's taking extracts of that information and that's how it's able to respond correctly.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), ai (5), [[Azure AI Foundry]] (3), [[Search]] (3), [[Large Language Models (LLM)|Large language models]] (2)
+> **Frameworks & Libraries:** [[Azure AI Foundry]] (3), [[Large Language Models (LLM)|Large language models]] (2), [[Microsoft Azure|Azure]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[AI Agents]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** gpt (1)
 > **Definitions:** known as (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Embeddings and vector search
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980)
+#### [Embeddings and vector search](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=22)** Why?
 >
-> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=24)** Traditional keyword search is looking for word matches.
+> **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=24)** Traditional keyword search is looking for [[Microsoft Word|word]] matches.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=28)** So if I had used traditional keyword search, my search for "sieges chauffants" in French would have failed because those words are not in the English manual.
 >
@@ -382,34 +376,33 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=59)** Whether you're using different languages or just different words, vector search tends to be more likely to find the information you're looking for.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=67)** That's why we often use it with large language models.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=67)** That's why we often use it with [[Large Language Models (LLM)|large language models]].
 >
 > **[1:10](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/embeddings-and-vector-search?u=76281980&t=70)** Because AI users tend to use a wide variety of languages and vocabulary.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), data (1), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the last (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Connecting to structured data sources
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980)
+#### [Connecting to structured data sources](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=0)** - [Instructor] So we've seen how to connect large language models to unstructured data, but what about structured data like spreadsheets, databases, and lakehouses?
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=0)** - [Instructor] So we've seen how to connect [[Large Language Models (LLM)|large language models]] to [[Unstructured Data]], but what about structured data like spreadsheets, [[Databases]], and lakehouses?
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=9)** Well, that's not as easy as you might think.
 >
-> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=12)** Large language models can certainly write code in query languages like SQL and KQL, but there are lots of mistakes they can make.
+> **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=12)** Large language models can certainly write code in query languages like [[SQL]] and KQL, but there are lots of mistakes they can make.
 >
 > **[0:20](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=20)** They can make errors in the data schema.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=21)** They can sometimes emit syntax errors in the code, and sometimes they just misunderstand the user's request.
 >
-> **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=28)** One way to solve for this is through the use of AI agents.
+> **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=28)** One way to solve for this is through the use of [[AI Agents]].
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/connecting-to-structured-data-sources?u=76281980&t=33)** Agents are a framework that sit above one or more models that allow you to do complex long running tasks and agents can take action on your behalf.
 >
@@ -463,18 +456,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), data (3), [[Large Language Models (LLM)|Large language models]] (2), [[SQL]] (2), ai (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[SQL]] (2), [[AI Agents]] (2), [[Unstructured Data]] (1), [[Databases]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** sql (2), kql (1)
 > **URLs:** [little.net](https://little.net) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preventing hallucination
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980)
+#### [Preventing hallucination](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=0)** - [Presenter] One of the most common concerns with large language models is hallucination.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=0)** - [Presenter] One of the most common concerns with [[Large Language Models (LLM)|large language models]] is hallucination.
 >
 > **[0:05](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=5)** In general, we look to minimize hallucination in these models.
 >
@@ -482,7 +474,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=11)** Fundamentally, it's an ungrounded response.
 >
-> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=15)** These models are made to predict the next word in sequence.
+> **[0:15](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=15)** These models are made to predict the next [[Microsoft Word|word]] in sequence.
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=19)** They have no notion of right or wrong any more than you did when you predicted the last word of my sentence at the beginning of this course.
 >
@@ -490,7 +482,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=33)** That definitely helps quite a bit, but it's not a panacea.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=36)** For that reason, Azure AI offers a groundedness API.
+> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=36)** For that reason, [[Microsoft Azure|Azure]] AI offers a groundedness API.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=41)** Groundedness is the opposite of hallucination.
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=50)** Let's have a look at the groundedness API and how it works.
 >
-> **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=54)** To view it via the Azure AI Foundry portal, go to the Safety and security section and click the Try it out tab.
+> **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=54)** To view it via the [[Azure AI Foundry]] portal, go to the Safety and security section and click the Try it out tab.
 >
 > **[1:03](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=63)** Click on Groundedness detection.
 >
@@ -516,11 +508,11 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=139)** While it's unlikely you'll ever reduce your hallucination rate to zero, these techniques can minimize it.
 >
-> **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=146)** You can then determine the actual hallucination rate using some of the methods we'll discuss in the following chapter, Generative AI Ops.
+> **[2:26](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/preventing-hallucination?u=76281980&t=146)** You can then determine the actual hallucination rate using some of the methods we'll discuss in the following chapter, [[Generative AI]] Ops.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Word|Word]] (2), api (2), [[Large Language Models (LLM)|Large language models]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[Microsoft Azure|Azure]] (1), [[Azure AI Foundry]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** later in (1)
@@ -533,26 +525,24 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running pilots with real users
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
+#### [Running pilots with real users](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980&t=0)** - [Instructor] Generative AI ops includes a number of key parts of bringing an AI application to production.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980&t=0)** - [Instructor] [[Generative AI]] ops includes a number of key parts of bringing an AI application to production.
 >
 > **[0:07](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/running-pilots-with-real-users?u=76281980&t=7)** It includes evaluation, the bulk testing of your AI system; monitoring, which is watching it in real time; and prompt re-engineering and model optimization; two ways that you can improve the performance of your AI application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), application (2), [[Generative AI]] (1), prompt (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Evaluating your AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980)
+#### [Evaluating your AI](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=0)** - [Instructor] Let's have a look at the evaluation system that's built into the Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=0)** - [Instructor] Let's have a look at the evaluation system that's built into the [[Azure AI Foundry]].
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=6)** Here we are in the web portal.
 >
@@ -566,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=36)** This first one here is Groundedness.
 >
-> **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=40)** Now, Groundedness is actually using an adversarial GPT-4.
+> **[0:40](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=40)** Now, Groundedness is actually using an adversarial [[GPT-4]].
 >
 > **[0:45](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=45)** So, it's sending these answers to another GPT-4.
 >
@@ -638,13 +628,13 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=241)** One simple way to do that is to use AI.
 >
-> **[4:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=244)** Here, I use Microsoft Copilot in Web mode, and I tell it to generate 20 of these questions in a JSONL format, and I give it a couple of examples of the types of questions and the format that I'm looking for.
+> **[4:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=244)** Here, I use [[Microsoft Copilot]] in Web mode, and I tell it to generate 20 of these questions in a JSONL format, and I give it a couple of examples of the types of questions and the format that I'm looking for.
 >
 > **[4:18](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=258)** And lo and behold, it actually does generate that.
 >
 > **[4:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=261)** I can save that to a JSONL file and use this directly in my evaluation system.
 >
-> **[4:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=268)** Now to do this at greater scale, you can do this in code, and we have good examples of this in the Azure AI samples that are available on GitHub.
+> **[4:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=268)** Now to do this at greater scale, you can do this in code, and we have good examples of this in the [[Microsoft Azure|Azure]] AI samples that are available on [[GitHub]].
 >
 > **[4:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=276)** So for example, if I want to build a Groundedness evaluation data test set, well, we have a notebook over here.
 >
@@ -654,7 +644,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=299)** Now, this course is meant to be just a foundational course in all of these concepts.
 >
-> **[5:05](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=305)** But look for Ziggy Zulueta's courses in LinkedIn Learning.
+> **[5:05](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=305)** But look for Ziggy Zulueta's courses in [[LinkedIn]] Learning.
 >
 > **[5:09](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/evaluating-your-ai?u=76281980&t=309)** He's recently recorded some much more in-depth content about evaluation and bulk data creation.
 >
@@ -672,7 +662,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (5), [[GPT-4]] (3), [[Azure AI Foundry]] (2), web (2)
+> **Frameworks & Libraries:** [[GPT-4]] (3), [[Azure AI Foundry]] (2), [[Microsoft Copilot]] (2), [[Microsoft Azure|Azure]] (1), [[GitHub]] (1)
 > **Env Vars:** gpt (4), jsonl (3), sdk (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we mentioned (2)
@@ -681,16 +671,15 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Best Practices:** you should always (1)
 
-#### Monitoring your AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980)
+#### [Monitoring your AI](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=0)** - [Instructor] Once you've got an AI application deployed and it's in use, it's time to start monitoring it.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=6)** When monitoring the large language models in your AI applications, you want to focus on some key areas.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=6)** When monitoring the [[Large Language Models (LLM)|large language models]] in your AI applications, you want to focus on some key areas.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=11)** This includes tokens, which are units of text or other data output, like audio, as we'll see later in the multimodal section, that affect billing and performance.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=11)** This includes [[Tokens]], which are units of text or other data output, like audio, as we'll see later in the multimodal section, that affect billing and performance.
 >
 > **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=21)** Tokens are calculated based on the amount of data output and are crucial for monitoring usage.
 >
@@ -702,7 +691,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=51)** And of course, you always want to keep an eye on cost.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=56)** Let's take a look at how we can monitor an individual model deployment via the Azure AI Foundry.
+> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=56)** Let's take a look at how we can monitor an individual model deployment via the [[Azure AI Foundry]].
 >
 > **[1:02](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=62)** It starts by going to that model deployment here in the Models + Endpoints section.
 >
@@ -720,19 +709,19 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=104)** Here in this deployment, you can click on the Metrics tab to get some basic metrics about how this model is performing.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=111)** But if you really want to gain an understanding of the performance of this model within the context of your application, you'll want to do that in Azure Monitor, which you could do by clicking this Open in Azure Monitor button right here.
+> **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=111)** But if you really want to gain an understanding of the performance of this model within the context of your application, you'll want to do that in [[Microsoft Azure|Azure]] Monitor, which you could do by clicking this Open in Azure Monitor button right here.
 >
 > **[2:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=124)** Here, you have a wide variety of metrics to choose from over a set of custom timeframes.
 >
 > **[2:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=132)** And you can set alerts if metrics exceed certain thresholds that you choose.
 >
-> **[2:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=137)** You'll find a number of courses in LinkedIn Learning and also on YouTube that go deep into what you can do with Azure Monitor.
+> **[2:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=137)** You'll find a number of courses in [[LinkedIn]] Learning and also on YouTube that go deep into what you can do with Azure Monitor.
 >
 > **[2:24](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/monitoring-your-ai?u=76281980&t=144)** It's a very robust product, not just for monitoring your AI, but for monitoring your entire app as it scales.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (3), [[Tokens]] (3), traffic (3), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[Tokens]] (3), [[Microsoft Azure|Azure]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Azure AI Foundry]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** http (1)
@@ -745,14 +734,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Responsible AI concerns and their mitigations
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
+#### [Responsible AI concerns and their mitigations](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=0)** - [Instructor] Modern AI applications can be remarkably powerful, but they carry with them a number of risks, One of those risks is ungrounded outputs, as we discussed earlier in this course.
 >
-> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=11)** Others include a new class of hacks that target large language models called jailbreaks, the potential for the model to emit harmful content or code, or to infringe on someone else's intellectual property.
+> **[0:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=11)** Others include a new class of hacks that target [[Large Language Models (LLM)|large language models]] called jailbreaks, the potential for the model to emit harmful content or code, or to infringe on someone else's intellectual property.
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=24)** And finally, the ability of these models to mimic human responses can mislead and manipulate users.
 >
@@ -762,26 +750,25 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=37)** Most AI applications need a mitigation plan with four layers of technical mitigations.
 >
-> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=43)** At the user experience layer, the system message and grounding, the safety system, and the model itself.
+> **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=43)** At the [[User Experience (UX)|user experience]] layer, the system message and grounding, the safety system, and the model itself.
 >
-> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=51)** Let's take a look at how these different parts come together to create a safe and responsible AI application.
+> **[0:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/responsible-ai-concerns-and-their-mitigations?u=76281980&t=51)** Let's take a look at how these different parts come together to create a safe and [[Responsible AI]] application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[User Experience (UX)|User experience]] (1), [[Responsible AI]] (1), application (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[User Experience (UX)|User experience]] (1), [[Responsible AI]] (1)
 > **Cross-References:** we discussed (1), earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### User experience and system prompt design
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980)
+#### [User experience and system prompt design](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=0)** - [Instructor] Let's start with the user experience layer.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=0)** - [Instructor] Let's start with the [[User Experience (UX)|user experience]] layer.
 >
 > **[0:02](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=2)** You need to signal to your users that they're using an AI and that its responses may be imperfect.
 >
-> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=10)** In Microsoft Copilot, this is how we do it, with this message here that says, "AI generated content may be incorrect."
+> **[0:10](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=10)** In [[Microsoft Copilot]], this is how we do it, with this message here that says, "AI generated content may be incorrect."
 >
 > **[0:19](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=19)** But depending on how your app works and also the modalities in which it works, you may need to represent this differently.
 >
@@ -789,7 +776,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=32)** Now let's consider how the system message plays into the way that your AI responds.
 >
-> **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=38)** I'm going to put Copilot in web mode here and try something a little bit unsavory.
+> **[0:38](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=38)** I'm going to put [[Microsoft Copilot|Copilot]] in web mode here and try something a little bit unsavory.
 >
 > **[0:43](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=43)** We're going to ask it to make a joke about the president of the United States.
 >
@@ -807,7 +794,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=89)** These instructions came into play here.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=92)** In the Safety and Security section of Azure AI Foundry, you'll find extensive tools to help you create a system message that's right for your AI application.
+> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=92)** In the Safety and Security section of [[Azure AI Foundry]], you'll find extensive tools to help you create a system message that's right for your AI application.
 >
 > **[1:44](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/user-experience-and-system-prompt-design?u=76281980&t=104)** Here in the Try It Out tab, at the bottom of it, you'll find a block that says safety system message.
 >
@@ -815,19 +802,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), [[Microsoft Copilot|Copilot]] (2), application (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Copilot]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Copilot]] (1), [[Azure AI Foundry]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Content safety
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980)
+#### [Content safety](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=0)** - [Instructor] Even if you have a rigorous system message, your AI may sometimes go afoul of the rules you've set there.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=6)** So one of the key ingredients to a safe AI application is a real-time content safety system, which Azure AI automatically applies to most types of model deployments.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=6)** So one of the key ingredients to a safe AI application is a [[Real-Time]] content safety system, which [[Microsoft Azure|Azure]] AI automatically applies to most types of model deployments.
 >
 > **[0:18](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=18)** Let's look at how it works and how it's configured.
 >
@@ -835,7 +821,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=30)** They also run after the large language model, filtering out any objectionable output.
 >
-> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=36)** You can test this content safety system in the Azure AI Foundry portal.
+> **[0:36](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=36)** You can test this content safety system in the [[Azure AI Foundry]] portal.
 >
 > **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=41)** We going to navigate to the safety and security section of the portal and click Try it out.
 >
@@ -897,7 +883,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=230)** And speaking of output below the standard classifiers on output, we see there are also a couple more options here for protected material.
 >
-> **[3:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=239)** As these are generative models, they could potentially generate something like the lyrics to a Taylor Swift song.
+> **[3:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=239)** As these are generative models, they could potentially generate something like the lyrics to a Taylor [[Swift (Programming Language)|Swift]] song.
 >
 > **[4:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=246)** You may not want your AI application to generate output that's somebody else's intellectual property, and so you could turn on these protected content filters to prevent that from happening.
 >
@@ -909,13 +895,13 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=281)** You can use this system to run an evaluation in bulk to determine the overall safety of your system, and it returns metrics like these.
 >
-> **[4:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=290)** Last but not least in your quest for responsible AI is your choice of model.
+> **[4:50](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=290)** Last but not least in your quest for [[Responsible AI]] is your choice of model.
 >
 > **[4:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/content-safety?u=76281980&t=294)** Most modern models are designed to be more safe when faced with objectionable input in the Azure AI Foundry model catalog, you can find benchmarks comparing the safety attributes of various different models against each other to help you make a decision as to which model is the safest for your use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), prompt (5), [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), application (2)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (3), [[Real-Time]] (1), [[Swift (Programming Language)|Swift]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Prerequisites:** set up (1), configure (1)
@@ -929,12 +915,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to multimodal AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
+#### [Introduction to multimodal AI](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980&t=0)** - [Instructor] Nowadays, just about everybody has interacted with a system like ChatGPT, and is well aware that you can type to it and it will send you text back.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980&t=0)** - [Instructor] Nowadays, just about everybody has interacted with a system like [[ChatGPT]], and is well aware that you can type to it and it will send you text back.
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/introduction-to-multimodal-ai?u=76281980&t=9)** This is unsurprising.
 >
@@ -949,14 +934,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Allowing your AI to speak
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980)
+#### [Allowing your AI to speak](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=0)** - [Instructor] One modality that makes these models interact ever more naturally with humans is speech.
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=6)** You can layer Azure AI speech onto a large language model like I did here with this taco ordering site.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=6)** You can layer [[Microsoft Azure|Azure]] AI speech onto a large language model like I did here with this taco ordering site.
 >
 > **[0:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=12)** To do this, I layered an Azure AI speech voice on top of GPT-4o mini, a model which doesn't have any speech capabilities of its own.
 >
@@ -986,7 +970,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=59)** But now there are models that have their own speech capabilities built-in, most notably, GPT-4o Realtime.
 >
-> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=67)** There's a playground that you can try it in directly here in Azure AI Foundry.
+> **[1:07](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=67)** There's a playground that you can try it in directly here in [[Azure AI Foundry]].
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=72)** Let's have a look.
 >
@@ -1020,7 +1004,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=129)** Although with Azure AI Speech, it's pretty simple.
 >
-> **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=133)** A layered solution can be cheaper to run in part because you have a choice of a wide variety of large language models that can underlie it.
+> **[2:13](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=133)** A layered solution can be cheaper to run in part because you have a choice of a wide variety of [[Large Language Models (LLM)|large language models]] that can underlie it.
 >
 > **[2:20](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/allowing-your-ai-to-speak?u=76281980&t=140)** Whereas if you want to use a native speech model like GPT-4o Realtime, your large language model choices are limited to just a few.
 >
@@ -1034,13 +1018,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (1), application (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (4), [[Azure AI Foundry]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Speakers:** - [instructor] (5), - [speaker] (4)
 > **Env Vars:** gpt (4)
 > **Analogies:** it's like (2), for example (1)
 
-#### Enabling your AI to see
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980)
+#### [Enabling your AI to see](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1048,11 +1031,11 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=9)** This was using a multimodal model that has vision and you too can make your AI see.
 >
-> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=17)** I like to play the word game called Quartiles on my phone, where you have to put together various different tiles of letters to form complete words and find all the words you can make with a set of tiles.
+> **[0:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=17)** I like to play the [[Microsoft Word|word]] game called Quartiles on my phone, where you have to put together various different tiles of letters to form complete words and find all the words you can make with a set of tiles.
 >
 > **[0:28](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=28)** Once in a while, the game stumps me and so I decided to enlist the help of AI.
 >
-> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=35)** I set it up so that I only need to show the game to my laptop camera, and when it snaps a picture, it sends the image to GPT-4o which is one of the most robust large language models with vision capabilities.
+> **[0:35](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=35)** I set it up so that I only need to show the game to my laptop camera, and when it snaps a picture, it sends the image to GPT-4o which is one of the most robust [[Large Language Models (LLM)|large language models]] with vision capabilities.
 >
 > **[0:48](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/enabling-your-ai-to-see?u=76281980&t=48)** Here, it's figured out what the tiles are and has generated all possible words from them.
 >
@@ -1070,21 +1053,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (3), ai (2), prompt (2), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** gpt (3)
 > **Analogies:** picture (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### General purpose models vs. task-specific models
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980)
+#### [General purpose models vs. task-specific models](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=0)** - [Instructor] Up to this point in this course, we have largely been using general purpose models like GPT, but there are also a set of task-specific models that are really good at one particular use case.
 >
-> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=14)** One good way to demonstrate task-specific models is through the use of Azure AI Content Understanding.
+> **[0:14](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=14)** One good way to demonstrate task-specific models is through the use of [[Microsoft Azure|Azure]] AI Content Understanding.
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=22)** Content Understanding uses a mixture of general purpose and task specific models to accomplish its tasks.
 >
@@ -1102,11 +1084,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=72)** This is actually a real grant deed for a storage unit that I bought in San Francisco some years ago.
 >
-> **[1:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=77)** Here's the seller, SLATS Investors Three, and you can see where it's getting it from the document, The state, California and the transfer tax, $60, and the barcode will also be found in the JSON result.
+> **[1:17](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=77)** Here's the seller, SLATS Investors Three, and you can see where it's getting it from the document, The state, California and the transfer tax, $60, and the barcode will also be found in the [[JSON]] result.
 >
 > **[1:29](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=89)** This JSON is the real point of something like Content Understanding.
 >
-> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=92)** You don't really use it in this web interface, although it is a pleasant interface to test your analyzers in Azure AI Foundry.
+> **[1:32](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=92)** You don't really use it in this web interface, although it is a pleasant interface to test your analyzers in [[Azure AI Foundry]].
 >
 > **[1:39](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/general-purpose-models-vs-task-specific-models?u=76281980&t=99)** But the point of this is to generate this kind of structured JSON that your downstream process can consume.
 >
@@ -1126,7 +1108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Azure|Azure]] (2), ai (2), web (1), [[Azure AI Foundry]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1)
 > **Env Vars:** gpt (3), json (3), slats (1)
 > **CLI Commands:** find (1)
 > **Versions:** 62.40 (1)
@@ -1138,12 +1120,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an AI agent?
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
+#### [What is an AI agent?](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=0)** - [Instructor] I've alluded to AI agents at various points throughout this course, and now it's time to have a closer look at them.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=0)** - [Instructor] I've alluded to [[AI Agents]] at various points throughout this course, and now it's time to have a closer look at them.
 >
 > **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=6)** AI agents are a framework that sit above one or more models.
 >
@@ -1165,7 +1146,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=54)** Let's take a look.
 >
-> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=56)** Here I am in the agent's playground of the Azure AI Foundry, and I'm going to build myself an agent that's able to make bookings on my Outlook calendar.
+> **[0:56](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=56)** Here I am in the agent's playground of the [[Azure AI Foundry]], and I'm going to build myself an agent that's able to make bookings on my [[Microsoft Outlook|Outlook]] calendar.
 >
 > **[1:04](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=64)** To do that, I'm going to give it a system message that tells it what it is and what it does.
 >
@@ -1185,7 +1166,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=107)** There's a number of different ways that I can actually give it the power to make changes in my calendar.
 >
-> **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=111)** I could code it and put it in an Azure function.
+> **[1:51](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=111)** I could code it and put it in an [[Microsoft Azure|Azure]] function.
 >
 > **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=114)** I could run it in a local environment, I can call it via an open API spec.
 >
@@ -1205,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=178)** And with that, well, let's have it do something.
 >
-> **[3:02](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=182)** I'm going to tell it to block off Microsoft Build 2025 and we can actually run that right here in the playground.
+> **[3:02](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=182)** I'm going to tell it to block off [[Microsoft]] Build 2025 and we can actually run that right here in the playground.
 >
 > **[3:11](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/what-is-an-ai-agent?u=76281980&t=191)** Now the model by itself has no idea when Microsoft Build 2025 is.
 >
@@ -1229,7 +1210,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), power (6), [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Microsoft Outlook|Outlook]] (4), [[Microsoft]] (4), [[Microsoft Azure|Azure]] (3), [[Azure AI Foundry]] (1)
 > **CLI Commands:** make (6)
 > **Env Vars:** api (1)
 > **Documentation:** spec (1)
@@ -1238,8 +1219,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Single agent vs. multiple agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980)
+#### [Single agent vs. multiple agents](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,9 +1233,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=22)** Now, I built this questionnaire multi-agent, where I can give it a question from an RFP or a questionnaire, and it uses multiple agents to answer the question and make sure that it's correct.
 >
-> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=34)** So I set the context here to Microsoft Azure AI, and the question is, "Does your service offer video generative AI?"
+> **[0:34](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=34)** So I set the context here to [[Microsoft Azure]] AI, and the question is, "Does your service offer video [[Generative AI]]?"
 >
-> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=41)** As of this recording, the Azure AI Service does not offer video generative AI.
+> **[0:41](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=41)** As of this recording, the [[Microsoft Azure|Azure]] AI Service does not offer video generative AI.
 >
 > **[0:47](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=47)** Now, I have four different agents in this set.
 >
@@ -1281,7 +1261,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=112)** So how did I make this?
 >
-> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=114)** Well, I use the multi-agent capability that's baked into the officially supported multi-agent framework of Azure AI called Semantic Kernel.
+> **[1:54](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=114)** Well, I use the multi-agent capability that's baked into the officially supported multi-agent framework of Azure AI called [[Semantic Kernel]].
 >
 > **[2:03](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/single-agent-vs-multiple-agents?u=76281980&t=123)** I define each agent and each agent has its own prompt.
 >
@@ -1329,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), prompt (3), [[Generative AI]] (2), [[Microsoft Azure|Azure]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1), [[Semantic Kernel]] (1)
 > **CLI Commands:** make (2), rails (1)
 > **Cross-References:** in the last (1), earlier in (1), as you saw (1)
 > **Env Vars:** rfp (1), gpt (1)
@@ -1341,18 +1321,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learning more
-> [LinkedIn Learning](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)
+#### [Learning more](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=0)** - [Instructor] That concludes our look at the fundamentals of Azure AI and using the Azure AI Foundry.
+> **[0:00](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=0)** - [Instructor] That concludes our look at the fundamentals of [[Microsoft Azure|Azure]] AI and using the [[Azure AI Foundry]].
 >
-> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=6)** For more information, check out the content on learn.[microsoft.com](https://microsoft.com), which includes documentation, but also numerous code samples.
+> **[0:06](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=6)** For more information, check out the content on learn.[[[Microsoft]].com](https://microsoft.com), which includes documentation, but also numerous code samples.
 >
-> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=16)** Also, you can search other LinkedIn Learning courses for Azure OpenAI and the other AI services.
+> **[0:16](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=16)** Also, you can search other [[LinkedIn]] Learning courses for Azure OpenAI and the other AI services.
 >
-> **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=21)** Responsible AI and AI agents.
+> **[0:21](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=21)** [[Responsible AI]] and [[AI Agents]].
 >
 > **[0:24](https://www.linkedin.com/learning/azure-ai-for-developers-ai-design-foundations/learning-more?u=76281980&t=24)** New content is being added all the time.
 >
@@ -1360,7 +1339,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1), [[Microsoft]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Azure AI Foundry]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), [[Responsible AI]] (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Speakers:** - [instructor] (1)
 

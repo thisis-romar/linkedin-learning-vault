@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Great ecommerce user experiences
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980)
+#### [Great ecommerce user experiences](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,11 +77,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=7)** In some respects, the web has always been one big continuous experiment and how best to sell online.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=14)** Along that journey we've learned a lot about how to gain users trust, show products off to their best advantage, increase conversion rates, and improve customer loyalty.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=14)** Along that journey we've learned a lot about how to gain users trust, show [[Microsoft Products|products]] off to their best advantage, increase conversion rates, and improve customer loyalty.
 >
 > **[0:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=25)** I want to share some of those learnings with you in this course.
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=28)** I'll be drawing on my personal experiences as a user researcher and interaction designer, working with e-commerce sites, and on the findings from many other user research studies.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=28)** I'll be drawing on my personal experiences as a user researcher and interaction designer, working with [[E-Commerce]] sites, and on the findings from many other user research studies.
 >
 > **[0:39](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=39)** This content is applicable, whether you're creating your first small business store using an online platform, or if you're responsible for a major retail site.
 >
@@ -116,11 +115,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=142)** There's plenty of really practical advice in this course.
 >
-> **[2:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=145)** So let's start learning how you can improve your e-commerce user experience.
+> **[2:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/great-ecommerce-user-experiences?u=76281980&t=145)** So let's start learning how you can improve your e-commerce [[User Experience (UX)|user experience]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (7), business (3), product (2), web (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (7), [[Microsoft Products|Products]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - considering (1)
@@ -130,12 +129,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How people buy online
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980)
+#### [How people buy online](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=0)** - In order to really excel with an online shopping experience, it's important to know the reasons customers give for buying online and to understand their behaviors when they do.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=0)** - In order to really [[Microsoft Excel|excel]] with an online shopping experience, it's important to know the reasons customers give for buying online and to understand their behaviors when they do.
 >
 > **[0:10](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=10)** That's because what customers want is not always the same thing as what your marketing department wants.
 >
@@ -171,7 +169,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=108)** That's partly because they need to check out the quality for themselves, which is hard to do over the internet and partly because the investment in these expensive items means they have to fit perfectly, look right, and work well.
 >
-> **[2:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=124)** We can help here by offering amazing customer support throughout the process and by realizing that customers may make several visits to the site before they're confident enough to purchase.
+> **[2:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=124)** We can help here by offering amazing [[Customer Support]] throughout the process and by realizing that customers may make several visits to the site before they're confident enough to purchase.
 >
 > **[2:15](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=135)** It may also help to offer a hybrid model, where most of the transaction happens online, to be completed in person, either through a trial period with free returns or through setting up an in-store appointment.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=178)** Here, sites can do well by offering unconditional guarantees, allowing customers to add per item comments, like "only green bananas please," letting them specify substitutions, and showing the type of care that's taken in picking, packing, and delivering these delicate items.
 >
-> **[3:18](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=198)** More than half of e-commerce transactions now take place on mobile devices.
+> **[3:18](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=198)** More than half of [[E-Commerce]] transactions now take place on mobile devices.
 >
 > **[3:23](https://www.linkedin.com/learning/interaction-design-for-ecommerce/how-people-buy-online?u=76281980&t=203)** This brings an additional set of problems, like frequent interruptions, trickier interactions for selecting options and typing information, and added difficulties comparing items with so little screen real estate.
 >
@@ -213,16 +211,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Search]] (2), [[Microsoft Excel|Excel]] (1), product (1), [[Customer Support]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Microsoft Excel|Excel]] (1), [[Customer Support]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Speakers:** - in (1)
 
-#### B2B ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980)
+#### [B2B ecommerce](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=0)** - Business to business e-commerce, often just shortened to B2B, ranges from buying some new office supplies through to big ticket items with complex specifications and configuration or contracts for professional services.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=0)** - Business to business [[E-Commerce]], often just shortened to B2B, ranges from buying some new [[Microsoft Office|office]] supplies through to big ticket items with complex specifications and configuration or contracts for professional services.
 >
 > **[0:15](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=15)** Customers are looking for a long-term vendor relationship.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=162)** So, they want to find clear, high-level information written for an audience who's intelligent, but just not familiar with this space.
 >
-> **[2:50](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=170)** For instance, Caterpillar lists their products by function so customers can self-identify easily without having to know specific product names.
+> **[2:50](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=170)** For instance, Caterpillar lists their [[Microsoft Products|products]] by function so customers can self-identify easily without having to know specific product names.
 >
 > **[2:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=179)** But they also provide plenty of in-depth information and concrete specifications just a few clicks away.
 >
@@ -294,7 +291,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=255)** For some products and services, this can all happen online.
 >
-> **[4:18](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=258)** For others, this is the point where all that previous online relationship building pays off with an in-person conversation.
+> **[4:18](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=258)** For others, this is the point where all that previous online [[Relationship Building]] pays off with an in-person conversation.
 >
 > **[4:26](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=266)** Sales agents need to continue the same tone the customer's experienced on the site itself.
 >
@@ -306,7 +303,7 @@ created: 2026-05-02
 >
 > **[4:53](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=293)** Keep these phases in mind if you're developing for a B2B customer base.
 >
-> **[4:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=298)** Throughout the rest of this course, we'll discuss how to ensure you can provide complete product information with layered content from educational overviews to detail, dimensions, instructions, and case studies.
+> **[4:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=298)** Throughout the [[Representational State Transfer (REST)|rest]] of this course, we'll discuss how to ensure you can provide complete product information with layered content from educational overviews to detail, dimensions, instructions, and case studies.
 >
 > **[5:11](https://www.linkedin.com/learning/interaction-design-for-ecommerce/b2b-ecommerce?u=76281980&t=311)** We'll talk about navigation and pages categorized by user need, not unintelligible product numbers.
 >
@@ -322,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), business (4), [[Microsoft Products|Products]] (4), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[E-Commerce]] (2), [[Microsoft Office|Office]] (1), [[Relationship Building]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** b2b (8), b2c (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
@@ -330,12 +327,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - business (1)
 
-#### Omnichannel ecommerce
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980)
+#### [Omnichannel ecommerce](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=0)** - Mobile devices may account for over 50% of e-commerce sales today but the mobile experience isn't optimal.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=0)** - Mobile devices may account for over 50% of [[E-Commerce]] sales today but the mobile experience isn't optimal.
 >
 > **[0:10](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=10)** Often, people are using their phones to price check while they're in a physical store or while they're watching TV or waiting for an appointment.
 >
@@ -343,7 +339,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=26)** Small touch screens make it easier to make errors and miss options.
 >
-> **[0:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=31)** The small screen also makes it harder to see details in an item and to compare products without flipping backwards and forwards.
+> **[0:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=31)** The small screen also makes it harder to see details in an item and to compare [[Microsoft Products|products]] without flipping backwards and forwards.
 >
 > **[0:39](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=39)** As a result, customers will often start the shopping process on a device then transfer to a desktop machine later or to a physical store.
 >
@@ -361,7 +357,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=105)** What's absolutely essential to have on the screen?
 >
-> **[1:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=108)** What else is nice to have but, really, secondary to the key user experience?
+> **[1:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=108)** What else is nice to have but, really, secondary to the key [[User Experience (UX)|user experience]]?
 >
 > **[1:54](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=114)** Have you identified your key navigation elements and made sure those appear prominently in your mobile layout with secondary ones listed on a single drop down or slide out menu?
 >
@@ -377,9 +373,9 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=142)** Are your fonts large enough to be readable?
 >
-> **[2:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=145)** Have you taken advantage of standard web elements which render the right way on different platforms like apple or Android devices?
+> **[2:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=145)** Have you taken advantage of standard web elements which render the right way on different platforms like apple or [[Android]] devices?
 >
-> **[2:33](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=153)** Are product images both clickable on the desktop and pinchable on mobile to zoom?
+> **[2:33](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=153)** Are product images both clickable on the desktop and pinchable on mobile to [[Zoom]]?
 >
 > **[2:40](https://www.linkedin.com/learning/interaction-design-for-ecommerce/omnichannel-ecommerce?u=76281980&t=160)** If it's done well, a single cross platform site can look clean and inviting, removing strenuous content for every customer regardless of how they access it.
 >
@@ -407,14 +403,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Microsoft Products|Products]] (2), web (2), [[User Experience (UX)|User experience]] (2), [[Android]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Microsoft Products|Products]] (2), [[User Experience (UX)|User experience]] (2), [[Android]] (1), [[Zoom]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - mobile (1)
 
-#### Responding to a pandemic
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980)
+#### [Responding to a pandemic](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -426,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=25)** But even they weren't necessarily prepared for the volume of sales and the demand from shoppers.
 >
-> **[0:32](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=32)** The primary changes in shopper's habits are a move to online retail for more items and more classes of items in order to avoid stores, more willingness to try e-commerce for perishable goods, even if it's only click and collect, rather than full delivery.
+> **[0:32](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=32)** The primary changes in shopper's habits are a move to online retail for more items and more classes of items in order to avoid stores, more willingness to try [[E-Commerce]] for perishable goods, even if it's only click and collect, rather than full delivery.
 >
 > **[0:51](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=51)** More willingness to try e-commerce for high value and luxury goods, although there are still the same issues of trust and security.
 >
@@ -462,11 +457,11 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=174)** And there's at least as much competition for that business as before, if not more so.
 >
-> **[3:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=180)** That means there's even more reason to concentrate on providing the best possible user experience, both to retain your existing customers and to attract new ones.
+> **[3:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/responding-to-a-pandemic?u=76281980&t=180)** That means there's even more reason to concentrate on providing the best possible [[User Experience (UX)|user experience]], both to retain your existing customers and to attract new ones.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), business (3), [[Security]] (1), next (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** covid (1)
 > **Speakers:** - i (1)
@@ -476,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Helping decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980)
+#### [Helping decision-making](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -491,7 +485,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=24)** What's new, what's selling well, what's the latest fashion trend?
 >
-> **[0:28](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=28)** These three groups, buyers, deciders, and browsers are at different stages of the decision-making process.
+> **[0:28](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=28)** These three groups, buyers, deciders, and browsers are at different stages of the [[Decision-Making]] process.
 >
 > **[0:38](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=38)** Obviously, you need to make sure your search and navigation can guide buyers directly to a product page for specific items so they can get straight to the product they want.
 >
@@ -501,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=55)** But you need more than this for your deciders.
 >
-> **[0:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=58)** Category pages need to help visitors compare similar products to see which will be best for them.
+> **[0:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=58)** Category pages need to help visitors compare similar [[Microsoft Products|products]] to see which will be best for them.
 >
 > **[1:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=64)** You may also want to create buying guides, a way to compare products side by side, and an easy way to see a full list of specifications for each product.
 >
@@ -559,7 +553,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=226)** I think the answer is that we build what we can measure.
 >
-> **[3:49](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=229)** and in e-commerce, we tend to measure one big variable, conversion.
+> **[3:49](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=229)** and in [[E-Commerce]], we tend to measure one big variable, conversion.
 >
 > **[3:55](https://www.linkedin.com/learning/interaction-design-for-ecommerce/helping-decision-making?u=76281980&t=235)** But if everything on your site is aimed at meeting a conversion metric, then you've missed the point.
 >
@@ -595,21 +589,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), next (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[E-Commerce]] (2), [[Decision-Making]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - some (1)
 
-#### Persuading people to buy
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980)
+#### [Persuading people to buy](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=0)** - I've been studying persuasive designs and dark patterns for some years now.
 >
-> **[0:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=4)** I wrote a book about them and you should check out my series on "Evil by Design" courses here on LinkedIn Learning too.
+> **[0:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=4)** I wrote a book about them and you should check out my series on "Evil by Design" courses here on [[LinkedIn]] Learning too.
 >
-> **[0:12](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=12)** One thing that most researchers used to agree on was that people are susceptible to these persuasive design patterns even if they know about them.
+> **[0:12](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=12)** One thing that most researchers used to agree on was that people are susceptible to these persuasive [[Design Patterns]] even if they know about them.
 >
 > **[0:19](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=19)** But interestingly, some more recent research has suggested that at least in the shopping space customers are getting familiar enough with certain patterns that they recognize them for what they are, attempts at persuasion.
 >
@@ -625,7 +618,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=74)** But only if it's true, creating fake urgency by lying about stock quantities or having a pop-up limited time promotion that actually appears for every new user, regardless of when they visit, is deceitful.
 >
-> **[1:30](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=90)** Sometimes the dark patterns still work, I guess you really can fool all of the people some of the time and some of the people all of the time but the rest of those people are getting angry with sites that lie to them and they are choosing to use other companies instead.
+> **[1:30](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=90)** Sometimes the dark patterns still work, I guess you really can fool all of the people some of the time and some of the people all of the time but the [[Representational State Transfer (REST)|rest]] of those people are getting angry with sites that lie to them and they are choosing to use other companies instead.
 >
 > **[1:47](https://www.linkedin.com/learning/interaction-design-for-ecommerce/persuading-people-to-buy?u=76281980&t=107)** So, think and use a test carefully before you implement persuasive designs on your site.
 >
@@ -662,12 +655,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - i (1)
 
-#### Supporting the purchase process
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/supporting-the-purchase-process?u=76281980)
+#### [Supporting the purchase process](https://www.linkedin.com/learning/interaction-design-for-ecommerce/supporting-the-purchase-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/supporting-the-purchase-process?u=76281980&t=0)** - Listing a set of products to sell, is not the only part of the e-commerce process.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/supporting-the-purchase-process?u=76281980&t=0)** - Listing a set of [[Microsoft Products|products]] to sell, is not the only part of the [[E-Commerce]] process.
 >
 > **[0:04](https://www.linkedin.com/learning/interaction-design-for-ecommerce/supporting-the-purchase-process?u=76281980&t=4)** You also need ways to offer assistance and deal with returns or warranty claims and often purchases is something that you can support over time with additional consumable supplies, accessories or upgrades.
 >
@@ -747,7 +739,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[E-Commerce]] (4), [[Microsoft Products|Products]] (3), business (3), hit (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (4), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (2), think of it as (1)
 > **URLs:** [backcountry.com](https://backcountry.com) (2)
@@ -755,8 +747,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - listing (1)
 
-#### Out-of-band communications
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980)
+#### [Out-of-band communications](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +775,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=71)** Now, that's fine but the communications you have with this audience need to be tailored to the early stage of relationship they're in with you.
 >
-> **[1:20](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=80)** If you value quality over quantity for your email marketing list, you may be better off finding other ways to encourage first-time shoppers to buy from you, so that you can capture their contact details during checkout.
+> **[1:20](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=80)** If you value quality over quantity for your [[Email Marketing]] list, you may be better off finding other ways to encourage first-time shoppers to buy from you, so that you can capture their contact details during checkout.
 >
 > **[1:35](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=95)** There's much more potential value in email messages to existing customers.
 >
@@ -824,7 +815,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=194)** Make sure that you provide a way for customers to get back to the ordering process and make those changes and that you provide alternative options when the order reaches the point of no return.
 >
-> **[3:26](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=206)** And these emails are a great way of generating excitement for the products that the customer is about to receive.
+> **[3:26](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=206)** And these emails are a great way of generating excitement for the [[Microsoft Products|products]] that the customer is about to receive.
 >
 > **[3:32](https://www.linkedin.com/learning/interaction-design-for-ecommerce/out-of-band-communications?u=76281980&t=212)** It's not too late to show positive reviews left by other customers and it's not too early to point people to set up videos, product use tips or other content that will both increase their sense of anticipation and also help ensure they can use the product without any frustration.
 >
@@ -836,7 +827,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Email Marketing]] (1), feature (1), [[Microsoft Products|Products]] (1), generic (1)
+> **Frameworks & Libraries:** [[Email Marketing]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** it's like (1)
@@ -849,8 +840,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Homepage
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980)
+#### [Homepage](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -874,7 +864,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=66)** Almost by definition, your best-sellers are likely to appeal to the most people so these are typically what you'll want to display here unless you want to give focus to a specific category or product as part of a promotion.
 >
-> **[1:19](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=79)** It's tempting to jam more products into the small space by using a carousel, but I'd suggest you don't do them.
+> **[1:19](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=79)** It's tempting to jam more [[Microsoft Products|products]] into the small space by using a carousel, but I'd suggest you don't do them.
 >
 > **[1:27](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=87)** Carousels that automatically advance is seen by visitors as adverse, which in fact means they aren't seeing that area of the screen at all.
 >
@@ -884,7 +874,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=110)** Don't forget your menu or navigation system is another way to show people what you sell.
 >
-> **[1:56](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=116)** Although it obviously needs to be available from the rest of the site, the homepage is a place where some companies choose to highlight it or use a larger, more visually rich depiction of their departments or categories to help people quickly navigate to the place they want to be.
+> **[1:56](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=116)** Although it obviously needs to be available from the [[Representational State Transfer (REST)|rest]] of the site, the homepage is a place where some companies choose to highlight it or use a larger, more visually rich depiction of their departments or categories to help people quickly navigate to the place they want to be.
 >
 > **[2:12](https://www.linkedin.com/learning/interaction-design-for-ecommerce/homepage?u=76281980&t=132)** And search also needs to be visibly available from the homepage.
 >
@@ -932,7 +922,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Microsoft Products|Products]] (4), [[Search]] (2), hit (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **Best Practices:** don't forget (2)
 > **UI Navigation:** navigate to (1)
@@ -941,8 +931,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - homepages (1)
 
-#### Search and navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980)
+#### [Search and navigation](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +963,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980&t=66)** In addition is normally used for optional system items in apps, but websites are different because navigation is a key item.
 >
-> **[1:15](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980&t=75)** I doubt I'll convince you not to use it, but I'd suggest that you use the word Menu, or Shop instead, or as well.
+> **[1:15](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980&t=75)** I doubt I'll convince you not to use it, but I'd suggest that you use the [[Microsoft Word|word]] Menu, or Shop instead, or as well.
 >
 > **[1:23](https://www.linkedin.com/learning/interaction-design-for-ecommerce/search-and-navigation?u=76281980&t=83)** Other items you might want to include alongside the Menu button are a Store Locator, if you want to drive people to your physical locations.
 >
@@ -1042,7 +1031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (15), product (3), [[Microsoft Word|Word]] (1), traffic (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** d2500 (1), d3200 (1), seo (1), usa (1)
 > **UI Navigation:** in the menu (2)
@@ -1050,14 +1039,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - which (1)
 
-#### Category pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980)
+#### [Category pages](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980&t=0)** - Category pages become necessary when your product range grows to the size where it doesn't easily fit on one page.
 >
-> **[0:06](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980&t=6)** Or when your products are different enough to be grouped into separate well, categories.
+> **[0:06](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980&t=6)** Or when your [[Microsoft Products|products]] are different enough to be grouped into separate well, categories.
 >
 > **[0:12](https://www.linkedin.com/learning/interaction-design-for-ecommerce/category-pages?u=76281980&t=12)** But category pages can be much more than just a list of all the products of each type that you sell.
 >
@@ -1137,14 +1125,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (14), [[Microsoft Products|Products]] (8), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (8)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** just like (1), for instance (1)
 > **Best Practices:** remember to (1)
 > **Speakers:** - category (1)
 
-#### Product pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980)
+#### [Product pages](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1160,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=31)** It also helps to add context or lifestyle photos that show the product being used so people can see it size.
 >
-> **[0:39](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=39)** The photos should be high enough quality that when customers zoom in and yes you need a zoom function, they can see textures finishes and details.
+> **[0:39](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=39)** The photos should be high enough quality that when customers [[Zoom]] in and yes you need a zoom function, they can see textures finishes and details.
 >
 > **[0:49](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=49)** Is worth having additional close-up photos of special feature areas like controls or screen displays.
 >
@@ -1178,7 +1165,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=89)** If your pricing varies by market, if you use a distributed network, or if there are just too many configuration options to list then you need to give a clear price range for the product and link out directly to distributor sites or a configurator app.
 >
-> **[1:46](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=106)** You also need a way for people to buy either directly from the page or for complex products via contact system that's as low friction as possible asking for the minimum of customer information and carrying as much product information as possible through the process automatically.
+> **[1:46](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=106)** You also need a way for people to buy either directly from the page or for complex [[Microsoft Products|products]] via contact system that's as low friction as possible asking for the minimum of customer information and carrying as much product information as possible through the process automatically.
 >
 > **[2:03](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=123)** This sounds like a no brainer but it's not enough to put your product catalog online and expect people to just pick up the phone to order.
 >
@@ -1240,7 +1227,7 @@ created: 2026-05-02
 >
 > **[4:41](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=281)** It's unlikely that readers will fully trust them.
 >
-> **[4:44](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=284)** One important thing to remember is that especially if you've done your search engine optimization properly, people can land on any product page from a web search without ever having seen your site before.
+> **[4:44](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=284)** One important thing to remember is that especially if you've done your [[Search Engine Optimization (SEO)|search engine optimization]] properly, people can land on any product page from a web search without ever having seen your site before.
 >
 > **[4:55](https://www.linkedin.com/learning/interaction-design-for-ecommerce/product-pages?u=76281980&t=295)** That means there's a chance they'll end up looking at an almost but not quite right product without knowing what else you offer.
 >
@@ -1272,7 +1259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (24), business (4), feature (3), [[Microsoft Products|Products]] (3), [[Zoom]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Zoom]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** pdf (1)
 > **Analogies:** for instance (1)
@@ -1280,12 +1267,11 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - we (1)
 
-#### Carts
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980)
+#### [Carts](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=0)** - One of the biggest topics of conversation in e-commerce is cart abandonment.
+> **[0:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=0)** - One of the biggest topics of conversation in [[E-Commerce]] is cart abandonment.
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=5)** The Baymard Institute suggest that on average, over 70% of carts are abandoned.
 >
@@ -1301,7 +1287,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=42)** This isn't true abandonment, it's just people using the cart in a different way than you intended.
 >
-> **[0:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=48)** You can potentially reduce this figure on your site by offering features such as wishlist, easy product comparisons and the ability to bookmark or otherwise save products and a list for later.
+> **[0:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=48)** You can potentially reduce this figure on your site by offering features such as wishlist, easy product comparisons and the ability to bookmark or otherwise save [[Microsoft Products|products]] and a list for later.
 >
 > **[1:00](https://www.linkedin.com/learning/interaction-design-for-ecommerce/carts?u=76281980&t=60)** Another chunk of what you might think of as abandonment is accounted for by distractions, Around 15% of unfulfilled carts are caused by people being pulled away from their shopping task and then not coming back, at least not in that same session.
 >
@@ -1347,14 +1333,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - one (1)
 
-#### Checkout
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980)
+#### [Checkout](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1366,7 +1351,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=18)** It almost should go without saying but if you're engaging in deceptive practices by adding additional items, like insurance plans or memberships to customers' carts without their explicit permission, you can expect to see higher abandonment rates, both in checkout and overall as customers lost trust in your brand.
 >
-> **[0:37](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=37)** Some stores have opt-out secondary products already checked on product pages.
+> **[0:37](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=37)** Some stores have opt-out secondary [[Microsoft Products|products]] already checked on product pages.
 >
 > **[0:42](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=42)** Others offer savings if people sign up for memberships without disclosing the terms or costs.
 >
@@ -1384,7 +1369,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=91)** Show stock levels on product pages and again at checkout.
 >
-> **[1:35](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=95)** You can also show generic delivery times or agile ones if you know the customer's location but please, don't use that low-stock persuasive design pattern in an attempt to force panic buying.
+> **[1:35](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=95)** You can also show generic delivery times or [[Agile Development|agile]] ones if you know the customer's location but please, don't use that low-stock persuasive design pattern in an attempt to force panic buying.
 >
 > **[1:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=108)** Recent studies have shown that shoppers are getting wise to it and it leads to lower trust of the site as a whole.
 >
@@ -1406,7 +1391,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=161)** The only places people should be able to navigate are back to their cart, contacting support or back to the home page.
 >
-> **[2:49](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=169)** You can hide the rest of your navigation bar and checkout screens and replace it instead with a pagination or status bar to show people how many steps there are in the checkout process.
+> **[2:49](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=169)** You can hide the [[Representational State Transfer (REST)|rest]] of your navigation bar and checkout screens and replace it instead with a pagination or status bar to show people how many steps there are in the checkout process.
 >
 > **[2:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=179)** Removing the nav sounds evil but at this point, you're really trying to focus people on a single task.
 >
@@ -1436,7 +1421,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=249)** Some people want to limit the number of stores that have access to their credit card details and others just can't be bothered to type all that information in.
 >
-> **[4:17](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=257)** And some people prefer to pay by other methods, such as PayPal, Google Wallet or Apple Pay.
+> **[4:17](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=257)** And some people prefer to pay by other methods, such as PayPal, [[Google]] Wallet or Apple Pay.
 >
 > **[4:23](https://www.linkedin.com/learning/interaction-design-for-ecommerce/checkout?u=76281980&t=263)** Trust is a big issue, so it's also important to emphasize security through your use of logos.
 >
@@ -1452,14 +1437,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1), generic (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Products|Products]] (1), [[Agile Development|Agile]] (1), [[Google]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - abandonment (1)
 
-#### Gift finders and wish lists
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-finders-and-wish-lists?u=76281980)
+#### [Gift finders and wish lists](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-finders-and-wish-lists?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,14 +1511,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), feature (2), [[Search]] (1), generic (1)
 > **CLI Commands:** make (3), find (1)
 > **Best Practices:** remember to (1), recommended (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - although (1)
 
-#### Gift cards
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980)
+#### [Gift cards](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1560,7 +1542,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980&t=85)** For instance, e-cards don't need a shipping address, but they do need a recipient email.
 >
-> **[1:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980&t=91)** Now, e-gift certificates are often used as part of phishing scams.
+> **[1:31](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980&t=91)** Now, e-gift certificates are often used as part of [[Phishing]] scams.
 >
 > **[1:36](https://www.linkedin.com/learning/interaction-design-for-ecommerce/gift-cards?u=76281980&t=96)** That means you need to be able to differentiate your email from a lot of other similar-looking spam.
 >
@@ -1606,7 +1588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (1), product (1)
+> **Frameworks & Libraries:** [[Phishing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - of (1)
@@ -1616,8 +1598,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Forming a successful team
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980)
+#### [Forming a successful team](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1625,7 +1606,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=14)** It's a big commitment, but I've found it's essential if you want to truly innovate.
 >
-> **[0:19](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=19)** I talk more about this in my courses on design thinking.
+> **[0:19](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=19)** I talk more about this in my courses on [[Design Thinking]].
 >
 > **[0:22](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=22)** But it boils down to this: often, designers think that they should be the ones responsible for coming up with new product ideas.
 >
@@ -1639,9 +1620,9 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=48)** I think we're often the best place to be the facilitators of this type of session, keeping the focus on user data at all times, and helping the team find their creative inspiration.
 >
-> **[0:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=59)** In e-commerce, there are even more interested parties to take into account when you're doing design work.
+> **[0:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=59)** In [[E-Commerce]], there are even more interested parties to take into account when you're doing design work.
 >
-> **[1:05](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=65)** Think about who in your organization is responsible for retail infrastructure, elements of the supply chain, all the moving parts in logistics, including stocking, warehousing, and delivery, and even teams like consumer forecasting, who can help with understanding of variations in local markets.
+> **[1:05](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=65)** Think about who in your organization is responsible for retail infrastructure, elements of the supply chain, all the moving parts in logistics, including stocking, warehousing, and delivery, and even teams like consumer [[Forecasting]], who can help with understanding of variations in local markets.
 >
 > **[1:24](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=84)** What about your brick and mortar operation?
 >
@@ -1665,7 +1646,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=160)** Without their early input, it's more likely that you'll create a solution that looks great, and even tests well with users, but which causes massive and potentially unworkable change to some of these groups.
 >
-> **[2:52](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=172)** People don't like being blindsided by this type of change, and they tend to react defensively.
+> **[2:52](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=172)** People don't like being blindsided by this type of change, and they tend to [[React.js|react]] defensively.
 >
 > **[2:58](https://www.linkedin.com/learning/interaction-design-for-ecommerce/forming-a-successful-team?u=76281980&t=178)** It's possible that all the time and effort you invested would be wasted while you sort out the mess, or even worse, have to scrap the idea altogether.
 >
@@ -1673,14 +1654,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (3), product (2), [[Design Thinking]] (1), ux (1), data (1)
+> **Frameworks & Libraries:** [[Design Thinking]] (1), [[E-Commerce]] (1), [[Forecasting]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Cross-References:** coming up (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - when (1)
 
-#### Journey and service mapping
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980)
+#### [Journey and service mapping](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1688,7 +1668,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=7)** In the real world, we do that with maps.
 >
-> **[0:09](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=9)** In user experience, we do something similar by creating maps of the customer journey and the underlying service touch points.
+> **[0:09](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=9)** In [[User Experience (UX)|user experience]], we do something similar by creating maps of the customer journey and the underlying service touch points.
 >
 > **[0:17](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=17)** Those journey and service maps help us get oriented to where we are and help point us in the right direction for the improvements we want to make.
 >
@@ -1708,7 +1688,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=66)** I've found that doing user research where you actually watch people going through this process, preferably in their own environment is really eyeopening for everyone involved.
 >
-> **[1:17](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=77)** A journey map lets you plug all this research into one big visual indication along with market research, third party findings, and things like sentiment analysis and Net Promoter Scores.
+> **[1:17](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=77)** A journey map lets you plug all this research into one big visual indication along with [[Market Research]], third party findings, and things like sentiment analysis and Net Promoter Scores.
 >
 > **[1:29](https://www.linkedin.com/learning/interaction-design-for-ecommerce/journey-and-service-mapping?u=76281980&t=89)** You can also add in analytics data to show things like where the key drop off points are in the journey.
 >
@@ -1750,15 +1730,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), product (2), teams (1), [[User Experience (UX)|User experience]] (1), [[Market Research]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Market Research]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Cross-References:** we mentioned (1)
 > **Definitions:** in other words (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - once (1)
 
-#### Testing changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980)
+#### [Testing changes](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1745,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=5)** Make sure that you test your design ideas with users before, during, and after implementation.
 >
-> **[0:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=14)** Everything I've told you is based on general user behaviors on most e-commerce sites.
+> **[0:14](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=14)** Everything I've told you is based on general user behaviors on most [[E-Commerce]] sites.
 >
 > **[0:20](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=20)** These are guidelines, not rules.
 >
@@ -1782,7 +1761,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=52)** Spending a couple of days to get early user feedback can save you weeks of development effort building the wrong thing.
 >
-> **[0:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=59)** I have a short course on paper prototyping here on LinkedIn Learning.
+> **[0:59](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=59)** I have a short course on paper [[Prototyping]] here on [[LinkedIn]] Learning.
 >
 > **[1:05](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=65)** Once you're in the development process, you should run user tests with your alpha and beta code to check whether your implementation is working how users expect.
 >
@@ -1810,7 +1789,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=156)** E-commerce is never static.
 >
-> **[2:37](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=157)** There are always opportunities to improve your user experience and to adapt it as users' habits change.
+> **[2:37](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=157)** There are always opportunities to improve your [[User Experience (UX)|user experience]] and to adapt it as users' habits change.
 >
 > **[2:44](https://www.linkedin.com/learning/interaction-design-for-ecommerce/testing-changes?u=76281980&t=164)** Don't just jump on new ideas though.
 >
@@ -1826,7 +1805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Prototyping]] (1), [[LinkedIn]] (1), [[Analytics]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (3), [[Prototyping]] (1), [[LinkedIn]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Exercise Files:** template (2)
 > **Analogies:** for instance (1)

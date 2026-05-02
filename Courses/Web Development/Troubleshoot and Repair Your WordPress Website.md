@@ -91,14 +91,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The pros and cons of running a WordPress site
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980)
+#### [The pros and cons of running a WordPress site](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=0)** - [Joe] WordPress is an incredibly powerful platform that allows you to turn a simple CMS into anything you want.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=0)** - [Joe] [[WordPress]] is an incredibly powerful platform that allows you to turn a simple CMS into anything you want.
 >
-> **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=7)** From a blog to a full on E-commerce shop.
+> **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=7)** From a blog to a full on [[E-Commerce]] shop.
 >
 > **[0:11](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=11)** But owning your own platform also comes with a few drawbacks.
 >
@@ -122,25 +121,24 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=50)** It will cover the most common issues with WordPress websites and how to fix them.
 >
-> **[0:56](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=56)** Hi, I'm Joe Casabona, a front-end web developer and educator, who's been using PHP since 2003 and WordPress since 2004.
+> **[0:56](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=56)** Hi, I'm Joe Casabona, a front-end web developer and educator, who's been using [[PHP]] since 2003 and WordPress since 2004.
 >
-> **[1:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=66)** So, join me in my LinkedIn learning course, where I will show you some of the most common WordPress problems and how to fix them.
+> **[1:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-pros-and-cons-of-running-a-wordpress-site?u=76281980&t=66)** So, join me in my [[LinkedIn]] learning course, where I will show you some of the most common WordPress problems and how to fix them.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), cms (1), [[E-Commerce]] (1), front-end (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[E-Commerce]] (1), [[PHP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** cms (1), php (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** php (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [joe] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is geared towards WordPress novices who are trying to troubleshoot and fix their website.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is geared towards [[WordPress]] novices who are trying to troubleshoot and fix their website.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=6)** That said, there are a few things you should know.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=18)** You've either purchased separate hosting or you've installed it yourself.
 >
-> **[0:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=23)** Second, while we won't be writing a lot of code per se, we will be exploring PHP files and working on the server in later chapters.
+> **[0:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=23)** Second, while we won't be writing a lot of code per se, we will be exploring [[PHP]] files and working on the server in later chapters.
 >
 > **[0:32](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/what-you-should-know?u=76281980&t=32)** That means you should also be comfortable with a code editor like VS Code and familiar with FTP.
 >
@@ -172,12 +170,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### How the course works
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980)
+#### [How the course works](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=0)** - [Instructor] There are lots of possibilities when it comes to troubleshooting WordPress.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=0)** - [Instructor] There are lots of possibilities when it comes to troubleshooting [[WordPress]].
 >
 > **[0:04](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=4)** So here's a rundown of how we'll tackle the topic.
 >
@@ -193,13 +190,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=38)** For most solutions, you won't need to know code or even leave the WordPress dashboard, but for some, you may need to access the server and server files through FTP.
 >
-> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=50)** If you need to brush up on that, check out the Learning SFTP course in the LinkedIn Learning Library.
+> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=50)** If you need to brush up on that, check out the Learning SFTP course in the [[LinkedIn]] Learning Library.
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-the-course-works?u=76281980&t=57)** All right, now let's get to fixing that WordPress site.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Troubleshooting]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[LinkedIn]] (1)
 > **Env Vars:** ftp (1), sftp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -209,8 +206,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing your WordPress site for problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980)
+#### [Preparing your WordPress site for problems](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -236,7 +232,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=60)** And part of good security is automatic updates.
 >
-> **[1:03](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=63)** These days, updating your themes, plugins, and even WordPress core automatically is easier than ever.
+> **[1:03](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=63)** These days, updating your themes, plugins, and even [[WordPress]] core automatically is easier than ever.
 >
 > **[1:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=70)** And so is rolling it back if something goes wrong.
 >
@@ -250,18 +246,17 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=94)** If they do, hold off on those changes or make the fixes, then push them to production.
 >
-> **[1:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=100)** We'll cover most of this in the course, but if you're interested in a more in depth look at all of this, check out my WordPress Workflows course in the LinkedIn Learning Library.
+> **[1:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/preparing-your-wordpress-site-for-problems?u=76281980&t=100)** We'll cover most of this in the course, but if you're interested in a more in depth look at all of this, check out my WordPress Workflows course in the [[LinkedIn]] Learning Library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[WordPress]] (2), [[Troubleshooting]] (1), database (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find the right hosting
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980)
+#### [Find the right hosting](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -271,7 +266,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=25)** So what do you look for?
 >
-> **[0:27](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=27)** Well, first, you want to make sure it's WordPress compatible.
+> **[0:27](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=27)** Well, first, you want to make sure it's [[WordPress]] compatible.
 >
 > **[0:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=31)** And while that feels like a given these days, WordPress does have some requirements.
 >
@@ -279,7 +274,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=41)** And here's what they recommend.
 >
-> **[0:44](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=44)** Note that this may have changed from the time of this recording, but you should have PHP version 7.4 or greater, MySQL version 5.7 or greater, or MariaDB version 10.2 or greater, and you should have HTTPS support.
+> **[0:44](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=44)** Note that this may have changed from the time of this recording, but you should have [[PHP]] version 7.4 or greater, [[MySQL]] version 5.7 or greater, or MariaDB version 10.2 or greater, and you should have HTTPS support.
 >
 > **[1:03](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=63)** They also recommend Apache or NGINX, which is what most hosts offer.
 >
@@ -303,7 +298,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=119)** It seems like putting the cart before the horse, but the earlier you think about your site getting hit with a lot of traffic, the better.
 >
-> **[2:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=127)** Does your host offer the ability to easily grow your site or quickly switch plans in case your blog or e-commerce store makes it big?
+> **[2:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=127)** Does your host offer the ability to easily grow your site or quickly switch plans in case your blog or [[E-Commerce]] store makes it big?
 >
 > **[2:16](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=136)** Will there be automatic backups?
 >
@@ -311,7 +306,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=153)** Will they help make your site secure?
 >
-> **[2:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=156)** This can come in many forms.
+> **[2:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=156)** This can come in many [[Forms]].
 >
 > **[2:38](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/find-the-right-hosting?u=76281980&t=158)** There's site monitoring, easy and free secure sites with SSL, and even mitigating hack websites.
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[Troubleshooting]] (1), [[Security]] (1), [[PHP]] (1), [[MySQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (1), [[MySQL]] (1), [[E-Commerce]] (1), [[Forms]] (1)
 > **CLI Commands:** make (4), find (1), php (1), mysql (1), apache (1)
 > **Env Vars:** ssl (2), php (1), https (1), nginx (1)
 > **Versions:** version 7 (1), version 5 (1), version 10 (1)
@@ -340,8 +335,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Backing up your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980)
+#### [Backing up your site](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,7 +351,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=32)** Anything that comes with core can be easily replaced so this could be the WP admin or WP includes folders.
 >
-> **[0:39](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=39)** You can easily download these again from [WordPress.org](https://WordPress.org).
+> **[0:39](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=39)** You can easily download these again from [[[WordPress]].org](https://WordPress.org).
 >
 > **[0:43](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=43)** What is irreplaceable is the database, especially as more customizations live there now.
 >
@@ -379,7 +373,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=105)** One way to take backups is to do them manually.
 >
-> **[1:48](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=108)** You can use an FTP program to download your files regularly and then you can use a plugin like WP Migrate DB, which is free in the WordPress plugin repository, to download the SQL file for your database.
+> **[1:48](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=108)** You can use an FTP program to download your files regularly and then you can use a plugin like WP Migrate DB, which is free in the WordPress plugin repository, to download the [[SQL]] file for your database.
 >
 > **[2:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/backing-up-your-site?u=76281980&t=125)** And while this would certainly satisfy the criteria of multiple copies in a separate location, the backup might not be current.
 >
@@ -401,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[WordPress]] (4), [[Troubleshooting]] (1), cd (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[SQL]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **Env Vars:** ftp (1), sql (1)
 > **CLI Commands:** cd (1)
@@ -410,8 +404,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980)
+#### [Securing your site](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -419,13 +412,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=5)** Some estimate that 40% of site hacks happen to small sites because they are most often left vulnerable.
 >
-> **[0:13](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=13)** So what can we do to make our WordPress sites more secure?
+> **[0:13](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=13)** So what can we do to make our [[WordPress]] sites more secure?
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=18)** First, we should make sure our sites are up to date.
 >
 > **[0:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=21)** We'll cover automatic updates in a different video but WordPress core themes and plugins all need to stay updated.
 >
-> **[0:30](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=30)** Speaking of update, you should also make sure your host keeps PHP updated.
+> **[0:30](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=30)** Speaking of update, you should also make sure your host keeps [[PHP]] updated.
 >
 > **[0:35](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/securing-your-site?u=76281980&t=35)** Old versions can leave your site vulnerable, even if you keep WordPress up to date.
 >
@@ -453,7 +446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (1), data (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (6), [[PHP]] (1)
 > **CLI Commands:** make (6), php (1)
 > **Env Vars:** ssl (2), php (1)
 > **Code Identifiers:** ithemes (2)
@@ -462,8 +455,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Automatic updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980)
+#### [Automatic updates](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -471,13 +463,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=6)** Here's how to enable them, pitfalls, and what some hosts are doing to help you.
 >
-> **[0:11](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=11)** While WordPress usually gets automatic security and maintenance updates, unless you or your host has turned them off, since WordPress 5.6, you can automatically update major releases of Core as well.
+> **[0:11](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=11)** While [[WordPress]] usually gets automatic security and maintenance updates, unless you or your host has turned them off, since WordPress 5.6, you can automatically update major releases of Core as well.
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=25)** This is usually 5.9.6, which is a minor release versus 5.9, which is a major release.
 >
 > **[0:34](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=34)** The caveat is that there's no way to do this in Core itself without code.
 >
-> **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=40)** You'd have to open up your wp-config.php file and then add this line.
+> **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=40)** You'd have to open up your wp-config.[[PHP]] file and then add this line.
 >
 > **[0:46](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/automatic-updates?u=76281980&t=46)** Define, parenthesis, 'wp_auto_update_core', true.
 >
@@ -531,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Security]] (2), [[PHP]] (1), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[PHP]] (1)
 > **Versions:** 5.6 (1), 5.9.6 (1), 5.9 (1)
 > **UI Navigation:** go to (2), click on (1)
 > **Definitions:** is a  (3)
@@ -540,8 +532,7 @@ created: 2026-05-02
 > **CLI Commands:** php (1)
 > **Code Identifiers:** wp_auto_update_core (1)
 
-#### Testing your site with a staging server
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980)
+#### [Testing your site with a staging server](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=46)** It should be an exact environment copy of your live site.
 >
-> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=50)** You want the same version of PHP, the same version of MySQL, and any other server settings.
+> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=50)** You want the same version of [[PHP]], the same version of [[MySQL]], and any other server settings.
 >
 > **[0:57](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=57)** We want the test site to be as close to the live site as possible.
 >
@@ -583,7 +574,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=102)** So I encourage you to see what your host does.
 >
-> **[1:45](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=105)** And if you want to learn more about working professionally in WordPress, I recommend my WordPress Workflows course right here in the LinkedIn Learning Library.
+> **[1:45](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=105)** And if you want to learn more about working professionally in [[WordPress]], I recommend my WordPress Workflows course right here in the [[LinkedIn]] Learning Library.
 >
 > **[1:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-your-site-with-a-staging-server?u=76281980&t=115)** And if at any point you do need to work on the live site, you could always use a plugin like WP Maintenance Mode, which will show logged-out users a temporary landing page.
 >
@@ -602,8 +593,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Disabling plugins to find the problem
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980)
+#### [Disabling plugins to find the problem](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -627,31 +617,30 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=63)** If you need this plugin and can't fix it yourself, hang tight to see what the developer recommends.
 >
-> **[1:08](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=68)** Otherwise, you can search for a new plugin in the WordPress plugin repository.
+> **[1:08](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=68)** Otherwise, you can search for a new plugin in the [[WordPress]] plugin repository.
 >
 > **[1:15](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=75)** And one more thing, I have only seen this happen with a small number of plugins where it needs to be replaced.
 >
 > **[1:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=83)** There can be a number of reasons for it, though.
 >
-> **[1:26](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=86)** One plugin I use doesn't work with a specific managed WordPress host, and another wasn't updated for the version of PHP I was on.
+> **[1:26](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=86)** One plugin I use doesn't work with a specific managed WordPress host, and another wasn't updated for the version of [[PHP]] I was on.
 >
 > **[1:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/disabling-plugins-to-find-the-problem?u=76281980&t=96)** While usually the resolution isn't jump ship, this is a good first test to find the problem.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[Search]] (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1)
 > **CLI Commands:** find (3), make (2), php (1)
 > **Env Vars:** php (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Moving to a default theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/moving-to-a-default-theme?u=76281980)
+#### [Moving to a default theme](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/moving-to-a-default-theme?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/moving-to-a-default-theme?u=76281980&t=0)** - [Instructor] Moving to a default WordPress team is a great way to make sure your theme doesn't create conflicts with other plugins.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/moving-to-a-default-theme?u=76281980&t=0)** - [Instructor] Moving to a default [[WordPress]] team is a great way to make sure your theme doesn't create conflicts with other plugins.
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/moving-to-a-default-theme?u=76281980&t=6)** But there are a few things to watch out for, especially with full site editing.
 >
@@ -689,14 +678,13 @@ created: 2026-05-02
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to use recovery mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980)
+#### [How to use recovery mode](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980&t=0)** - [Instructor] Sometimes you'll get an error that's so bad that it actually breaks your whole site including the admin, meaning you can't log in to try to fix it.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980&t=10)** Luckily, when that happens in later versions of WordPress, it will actually send you an email to access the admin in what's called recovery mode.
+> **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980&t=10)** Luckily, when that happens in later versions of [[WordPress]], it will actually send you an email to access the admin in what's called recovery mode.
 >
 > **[0:20](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-use-recovery-mode?u=76281980&t=20)** Allowing you to log in and investigate the issue even when there is something completely broken.
 >
@@ -714,8 +702,7 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Down for everyone, or just me?
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980)
+#### [Down for everyone, or just me?](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/down-for-everyone-or-just-me?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -757,14 +744,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (1)
 > **URLs:** [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) (1), [betteruptime.com](https://betteruptime.com) (1), [updown.io](https://updown.io) (1)
 > **Env Vars:** url (1), vpn (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reverting updates with WP Rollback
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/reverting-updates-with-wp-rollback?u=76281980)
+#### [Reverting updates with WP Rollback](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/reverting-updates-with-wp-rollback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -806,7 +791,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **URLs:** [givewp.com](https://givewp.com) (1)
@@ -815,16 +799,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing with a different WordPress install or server
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980)
+#### [Testing with a different WordPress install or server](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=0)** - [Instructor] If you're working through a problem, you may want to also rule out that exact WordPress installation you're working with, including the server environment.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=0)** - [Instructor] If you're working through a problem, you may want to also rule out that exact [[WordPress]] installation you're working with, including the server environment.
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=10)** In order to do that, there are a few steps you can take with a staging or local server.
 >
-> **[0:15](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=15)** If your host allows, you can try changing the PHP version, for example.
+> **[0:15](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=15)** If your host allows, you can try changing the [[PHP]] version, for example.
 >
 > **[0:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=23)** But a better way that may or may not be less technical is to create a local copy on your computer.
 >
@@ -850,11 +833,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=119)** This will give you a better idea and better insight into where the problem lies, which is going to be important as you troubleshoot the actual a problem.
 >
-> **[2:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=129)** If you want to learn more about multiple environments and WP Migrate DB Pro, I cover both of those topics extensively in the WordPress Workflows course in the LinkedIn Learning library.
+> **[2:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/testing-with-a-different-wordpress-install-or-server?u=76281980&t=129)** If you want to learn more about multiple environments and WP Migrate DB Pro, I cover both of those topics extensively in the WordPress Workflows course in the [[LinkedIn]] Learning library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), database (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** php (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **URLs:** [localwp.com](https://localwp.com) (1)
@@ -868,12 +851,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The dreaded white screen of death
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980)
+#### [The dreaded white screen of death](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=0)** - [Instructor] One of the most frustrating errors in WordPress is the dreaded white screen of death.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=0)** - [Instructor] One of the most frustrating errors in [[WordPress]] is the dreaded white screen of death.
 >
 > **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=5)** It's a plain white screen instead of your website or admin.
 >
@@ -919,7 +901,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=153)** If you do this, save and then refresh your site and see error messages, you know where the problem is to start fixing it.
 >
-> **[2:42](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=162)** The other thing you can do is increase your PHP memory limit.
+> **[2:42](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=162)** The other thing you can do is increase your [[PHP]] memory limit.
 >
 > **[2:46](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/the-dreaded-white-screen-of-death?u=76281980&t=166)** You can do that by typing define WP memory limit and then trying something like 64M.
 >
@@ -937,7 +919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Debugging]] (2), database (1), [[Security]] (1), web (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[PHP]] (1)
 > **CLI Commands:** find (1), make (1), php (1)
 > **Env Vars:** url (1), ftp (1), php (1)
 > **Cross-References:** we covered (1), previous video (1)
@@ -945,8 +927,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stuck in maintenance mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980)
+#### [Stuck in maintenance mode](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +939,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980&t=20)** Now, usually this will resolve by itself, but if it doesn't there is a fix that is simply deleting a file if you have an FTP program.
 >
-> **[0:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980&t=31)** Using your FTP program you'll want to go to the root directory for WordPress.
+> **[0:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980&t=31)** Using your FTP program you'll want to go to the root directory for [[WordPress]].
 >
 > **[0:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/stuck-in-maintenance-mode?u=76281980&t=36)** This is the same directory that your WP config file is in.
 >
@@ -978,15 +959,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), feature (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** ftp (3)
 > **UI Navigation:** go to (2), click on (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Issues with file uploads
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980)
+#### [Issues with file uploads](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -996,7 +976,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980&t=9)** But there are often three ways to fix these errors.
 >
-> **[0:12](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980&t=12)** The first possible error is that you're trying to upload a file type that isn't allowed by WordPress.
+> **[0:12](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980&t=12)** The first possible error is that you're trying to upload a file type that isn't allowed by [[WordPress]].
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/issues-with-file-uploads?u=76281980&t=18)** You can find a list of what is accepted in the WordPress Codex.
 >
@@ -1080,8 +1060,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pretty URLs not working properly and other random 404 errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980)
+#### [Pretty URLs not working properly and other random 404 errors](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,7 +1068,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980&t=12)** Assuming these are pages that were just working and not actual 404 errors, you likely have a problem with your permalinks where you need flush the rewrite rules.
 >
-> **[0:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980&t=23)** Because WordPress is designed to work on different hosting environments, it has created its own way of adding URL rewrites, taking something like [yoursite.com/?p=123](https://yoursite.com/?p=123) and turning it into [yoursite.com/blog-post](https://yoursite.com/blog-post).
+> **[0:23](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980&t=23)** Because [[WordPress]] is designed to work on different hosting environments, it has created its own way of adding URL rewrites, taking something like [yoursite.com/?p=123](https://yoursite.com/?p=123) and turning it into [yoursite.com/blog-post](https://yoursite.com/blog-post).
 >
 > **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/pretty-urls-not-working-properly-and-other-random-404-errors?u=76281980&t=40)** To improve the performance of these rules, they're cached so that they're not constantly being regenerated but that means that when there's a change they need to be flushed.
 >
@@ -1101,7 +1080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **URLs:** [yoursite.com](https://yoursite.com) (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
@@ -1109,22 +1088,21 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a redirect plugin for actually broken links
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980)
+#### [Using a redirect plugin for actually broken links](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=0)** - [Instructor] When you actually do have a broken link, you definitely want to get it fixed.
 >
-> **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=5)** It creates a bad user experience and can hurt your SEO.
+> **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=5)** It creates a bad [[User Experience (UX)|user experience]] and can hurt your SEO.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=9)** Here are a couple of ways to mitigate broken links, or 404 errors.
 >
 > **[0:14](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=14)** The first thing you want to make sure to do is have a good 404 page.
 >
-> **[0:19](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=19)** WordPress allows you to customize this a few ways.
+> **[0:19](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=19)** [[WordPress]] allows you to customize this a few ways.
 >
-> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=22)** If you are a theme developer, you can create a 404.php template.
+> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=22)** If you are a theme developer, you can create a 404.[[PHP]] template.
 >
 > **[0:27](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=27)** If you are not, don't worry.
 >
@@ -1154,7 +1132,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=118)** Then click Continue Setup.
 >
-> **[2:01](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=121)** It'll test the rest API, and then click Finish Setup.
+> **[2:01](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=121)** It'll test the [[Representational State Transfer (REST)|rest]] API, and then click Finish Setup.
 >
 > **[2:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-a-redirect-plugin-for-actually-broken-links?u=76281980&t=126)** Once it goes through setting up Redirection, click Finished, and now you have an area for creating and viewing redirects.
 >
@@ -1166,7 +1144,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[User Experience (UX)|User experience]] (1), seo (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[User Experience (UX)|User experience]] (1), [[PHP]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** setup (4)
 > **CLI Commands:** make (1), php (1)
 > **Env Vars:** seo (1), api (1)
@@ -1175,8 +1153,7 @@ created: 2026-05-02
 > **File Paths:** 404.php (1)
 > **Versions:** 5.9 (1)
 
-#### Recovering lost changes with Revision History
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980)
+#### [Recovering lost changes with Revision History](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1184,7 +1161,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=6)** Revision history is perfect for those situations.
 >
-> **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=10)** Revision history is a way for WordPress to store older versions of posts and pages so you can easily restore them if something goes wrong.
+> **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=10)** Revision history is a way for [[WordPress]] to store older versions of posts and pages so you can easily restore them if something goes wrong.
 >
 > **[0:20](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=20)** This should be on by default.
 >
@@ -1194,7 +1171,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=36)** You can turn it on by looking in your wp-config file for the WP_POST_REVISIONS constant and changing that to either true or a specific number of revisions you want to keep.
 >
-> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=50)** Just a word here that the more revisions you keep, the more bloated your database could get, so be mindful of that, especially if you're on budget hosting.
+> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=50)** Just a [[Microsoft Word|word]] here that the more revisions you keep, the more bloated your database could get, so be mindful of that, especially if you're on budget hosting.
 >
 > **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/recovering-lost-changes-with-revision-history?u=76281980&t=60)** I'll set this to true for now, and once you do that, revisions will begin to be stored in your database.
 >
@@ -1218,15 +1195,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), [[WordPress]] (1), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** wp_post_revisions (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why do blocks keep needing to be recovered?
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/why-do-blocks-keep-needing-to-be-recovered?u=76281980)
+#### [Why do blocks keep needing to be recovered?](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/why-do-blocks-keep-needing-to-be-recovered?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1244,7 +1220,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/why-do-blocks-keep-needing-to-be-recovered?u=76281980&t=34)** If a block continues to require recovery, it's most likely a third party block and I'd recommend reaching out to the plug-in developer to get it resolved.
 >
-> **[0:44](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/why-do-blocks-keep-needing-to-be-recovered?u=76281980&t=44)** But rest assured, most of time your content will remain intact even with the errors in the Block Editor.
+> **[0:44](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/why-do-blocks-keep-needing-to-be-recovered?u=76281980&t=44)** But [[Representational State Transfer (REST)|rest]] assured, most of time your content will remain intact even with the errors in the Block Editor.
 
 > [!info]- Semantic Content
 >
@@ -1258,8 +1234,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### General web server errors: the 400s
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980)
+#### [General web server errors: the 400s](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1269,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980&t=9)** These are the ones that your visitors will see when something goes wrong from some action either they took or you took, and they are the ones that you'll likely be able to fix without a server admin.
 >
-> **[0:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980&t=21)** While there are lots of 400 class codes, here are the ones that you and your visitors are most likely to see with most websites, including WordPress.
+> **[0:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980&t=21)** While there are lots of 400 class codes, here are the ones that you and your visitors are most likely to see with most websites, including [[WordPress]].
 >
 > **[0:32](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-400s?u=76281980&t=32)** These codes and definitions come from [W3.org](https://W3.org).
 >
@@ -1303,7 +1278,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** url (3), uri (1)
 > **URLs:** [w3.org](https://w3.org) (2)
 > **CLI Commands:** find (1)
@@ -1311,8 +1286,7 @@ created: 2026-05-02
 > **Warnings:** common error (1)
 > **Speakers:** - [instructor] (1)
 
-#### General web server errors: the 500s
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980)
+#### [General web server errors: the 500s](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1344,7 +1318,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980&t=81)** The server is currently an able to handle the request due to a temporary overloading or maintenance of the server.
 >
-> **[1:28](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980&t=88)** WordPress can actually throw this error when it's updating but you can also see it if your site's getting hit with a ton of traffic.
+> **[1:28](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980&t=88)** [[WordPress]] can actually throw this error when it's updating but you can also see it if your site's getting hit with a ton of traffic.
 >
 > **[1:36](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-web-server-errors-the-500s?u=76281980&t=96)** And 504 Gateway Timeout.
 >
@@ -1358,7 +1332,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), dns (1), [[WordPress]] (1), hit (1), traffic (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Definitions:** is a  (2), in other words (1)
 > **URLs:** [w3.org](https://w3.org) (1), [downforeveryoneorjustme.com](https://downforeveryoneorjustme.com) (1)
 > **Env Vars:** dns (1)
@@ -1366,8 +1340,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to fix the "site insecure" error with an SSL certificate
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980)
+#### [How to fix the "site insecure" error with an SSL certificate](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1383,7 +1356,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=25)** In order to set up an SSL certificate, you'll need to make sure your domain is pointing to the server.
 >
-> **[0:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=31)** This is likely done if you have a working site, but there are a couple of courses in the LinkedIn Learning Library that cover this more in depth.
+> **[0:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=31)** This is likely done if you have a working site, but there are a couple of courses in the [[LinkedIn]] Learning Library that cover this more in depth.
 >
 > **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=40)** These courses will also talk about why it's important to have SSL certificates, but they will protect your data including usernames and passwords.
 >
@@ -1405,7 +1378,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=106)** But that's not the last step we need to take.
 >
-> **[1:51](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=111)** Over on your WordPress site in your dashboard, if you go to Settings General, you'll need to update the URL to include HTTPS.
+> **[1:51](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=111)** Over on your [[WordPress]] site in your dashboard, if you go to Settings General, you'll need to update the URL to include HTTPS.
 >
 > **[2:01](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-the-site-insecure-error-with-an-ssl-certificate?u=76281980&t=121)** So we want to make sure to generate the SSL certificate first and test that it's working, because if it's not and you change this setting, you will get locked out of your site.
 >
@@ -1421,7 +1394,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[WordPress]] (1)
 > **Env Vars:** ssl (11), https (2), url (1)
 > **Prerequisites:** install (3), you'll need (3), set up (1)
 > **UI Navigation:** go to (2), select the (2)
@@ -1430,8 +1403,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to fix mixed content errors
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980)
+#### [How to fix mixed content errors](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1439,7 +1411,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980&t=10)** Which means that your site's secure but you're serving up insecure content.
 >
-> **[0:15](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980&t=15)** There's a few ways to fix this in WordPress.
+> **[0:15](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980&t=15)** There's a few ways to fix this in [[WordPress]].
 >
 > **[0:18](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/how-to-fix-mixed-content-errors?u=76281980&t=18)** A very popular plugin that's recommended less days is really simple SSL.
 >
@@ -1493,7 +1465,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[WordPress]] (3), database (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3)
 > **Env Vars:** ssl (6), http (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2), means that (1)
@@ -1502,12 +1474,11 @@ created: 2026-05-02
 > **Versions:** 5.7 (1)
 > **UI Navigation:** go to (1)
 
-#### Error establishing a database connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980)
+#### [Error establishing a database connection](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=0)** - [Instructor] Everything in WordPress runs off a database, but what happens when you can't connect?
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=0)** - [Instructor] Everything in [[WordPress]] runs off a database, but what happens when you can't connect?
 >
 > **[0:06](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=6)** There's likely a common problem, but there are a couple of other solutions too.
 >
@@ -1515,7 +1486,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=17)** So, if you open that up, you can double check those credentials.
 >
-> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=22)** If you need to find them, you can go to your hosting environment and there will either be a Databases or MySQL section where you can check the name, host, username, and password.
+> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=22)** If you need to find them, you can go to your hosting environment and there will either be a [[Databases]] or [[MySQL]] section where you can check the name, host, username, and password.
 >
 > **[0:37](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=37)** Once you confirm those, you want to make sure they're all matching what you see in your hosting environment.
 >
@@ -1527,7 +1498,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=61)** Once again, in your wp-config file, you'll want to add this constant define WP_ALLOW_REPAIR, and set that to true.
 >
-> **[1:16](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=76)** Once that's set to true, you can visit your URL, /wp-admin/maint, that's M-A-I-N-T, /repair.php.
+> **[1:16](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=76)** Once that's set to true, you can visit your URL, /wp-admin/maint, that's M-A-I-N-T, /repair.[[PHP]].
 >
 > **[1:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/error-establishing-a-database-connection?u=76281980&t=91)** You'll be given two options.
 >
@@ -1545,7 +1516,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (5), [[WordPress]] (2), [[Databases]] (1), [[MySQL]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[Databases]] (1), [[MySQL]] (1), [[PHP]] (1)
 > **CLI Commands:** make (2), find (1), mysql (1), php (1)
 > **Env Vars:** wp_allow_repair (1), url (1)
 > **File Paths:** repair.php (1)
@@ -1553,12 +1524,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unable to write to a directory, or update themes/plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-write-to-a-directory-or-update-themes-plugins?u=76281980)
+#### [Unable to write to a directory, or update themes/plugins](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-write-to-a-directory-or-update-themes-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-write-to-a-directory-or-update-themes-plugins?u=76281980&t=0)** - [Instructor] Automatic updates and being able to install plugins and themes right from the WordPress Admin are great, but what happens if you get an error when you try to do that?
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-write-to-a-directory-or-update-themes-plugins?u=76281980&t=0)** - [Instructor] Automatic updates and being able to install plugins and themes right from the [[WordPress]] Admin are great, but what happens if you get an error when you try to do that?
 >
 > **[0:10](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-write-to-a-directory-or-update-themes-plugins?u=76281980&t=10)** You likely have a permissions problem.
 >
@@ -1610,18 +1580,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unable to deliver emails/emails going to spam
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980)
+#### [Unable to deliver emails/emails going to spam](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=0)** - [Instructor] A common problem that plagues WordPress sites, especially shops that rely on sending emails, is that sometimes email goes right to spam.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=0)** - [Instructor] A common problem that plagues [[WordPress]] sites, especially shops that rely on sending emails, is that sometimes email goes right to spam.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=9)** Email deliverability is a complicated fix and harder to spot if you don't know what to look for, but luckily some plugins make it easier.
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=19)** First, it's important to understand why this happens.
 >
-> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=22)** With PHP and other languages, it's really easy to send emails with a single line of code.
+> **[0:22](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=22)** With [[PHP]] and other languages, it's really easy to send emails with a single line of code.
 >
 > **[0:28](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=28)** And because of that, it's also easy to send spam.
 >
@@ -1639,11 +1608,11 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=91)** Once you install it, you can walk through the wizard.
 >
-> **[1:34](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=94)** It will ask you how you are sending email, giving you a bunch of different mailers, including Google and 365.
+> **[1:34](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=94)** It will ask you how you are sending email, giving you a bunch of different mailers, including [[Google]] and 365.
 >
 > **[1:44](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=104)** And then once you select your mailer, it will tell you how it works and then walk you through the process of verifying your domain.
 >
-> **[1:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=115)** If you are using a specific form plugin like Gravity Forms, you can likely find instructions from them as well.
+> **[1:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=115)** If you are using a specific form plugin like Gravity [[Forms]], you can likely find instructions from them as well.
 >
 > **[2:04](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/unable-to-deliver-emails-emails-going-to-spam?u=76281980&t=124)** There are also two services designed to send email for you, leveraging their servers and reputation.
 >
@@ -1659,15 +1628,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[Google]] (1), [[Forms]] (1), business (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (1), [[Google]] (1), [[Forms]] (1)
 > **CLI Commands:** make (2), php (1), find (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** php (1), smtp (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### General caching issues (types of cache)
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980)
+#### [General caching issues (types of cache)](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1691,15 +1659,15 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=45)** The user's browser will store parts of a website that are unlikely to change.
 >
-> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=50)** This could be images and other media assets, JavaScript libraries, or CSS.
+> **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=50)** This could be images and other media assets, [[JavaScript]] libraries, or CSS.
 >
 > **[0:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=55)** The user's browser handles this.
 >
 > **[0:58](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=58)** Then there's page cache.
 >
-> **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=60)** This works best for dynamic webpages like ones that you find with WordPress.
+> **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=60)** This works best for dynamic webpages like ones that you find with [[WordPress]].
 >
-> **[1:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=65)** A server will build a page once processing all of the PHP code and database queries, then store the final product on the server.
+> **[1:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=65)** A server will build a page once processing all of the [[PHP]] code and [[Database Queries]], then store the final product on the server.
 >
 > **[1:13](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/general-caching-issues-types-of-cache?u=76281980&t=73)** This usually is implemented by your hosting company or by a plugin like WP Rocket.
 >
@@ -1741,7 +1709,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (2), [[WordPress]] (2), [[PHP]] (2), database (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[PHP]] (2), [[Database Queries]] (2), [[JavaScript]] (1)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2), css (1)
 > **Versions:** 5.9.1 (1)
@@ -1749,12 +1717,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cannot modify header error
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980)
+#### [Cannot modify header error](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=0)** - [Instructor] One of the most cryptic errors to non-PHP developers is that you cannot modify header info.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=0)** - [Instructor] One of the most cryptic errors to non-[[PHP]] developers is that you cannot modify header info.
 >
 > **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=7)** If you know what you're looking for, it's not as daunting, but it might require some coding.
 >
@@ -1762,13 +1729,13 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=19)** This function needs to send its data, a raw HTTP call, before anything else.
 >
-> **[0:26](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=26)** While HTML tags or basic text is visible, one hidden way this error can be thrown is if there's any white space characters new lines or non breaking spaces, before the opening PHP tag or after the closing PHP tag as we see here.
+> **[0:26](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=26)** While [[HTML]] tags or basic text is visible, one hidden way this error can be thrown is if there's any white space characters new lines or non breaking spaces, before the opening PHP tag or after the closing PHP tag as we see here.
 >
 > **[0:43](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=43)** The good news is, as long as you're not getting a white screen of death, you should get a general idea of where the error is happening.
 >
 > **[0:50](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=50)** We usually get a file and line number with this error.
 >
-> **[0:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=55)** But the bad news is, it could be WordPress' generic plugable .PHP or some other core file where the error eventually happens.
+> **[0:55](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=55)** But the bad news is, it could be [[WordPress]]' generic plugable .PHP or some other core file where the error eventually happens.
 >
 > **[1:04](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/cannot-modify-header-error?u=76281980&t=64)** So what do you do?
 >
@@ -1788,18 +1755,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (6), data (1), [[HTML]] (1), [[WordPress]] (1), generic (1)
+> **Frameworks & Libraries:** [[PHP]] (6), [[HTML]] (1), [[WordPress]] (1)
 > **Env Vars:** php (6), http (1), html (1)
 > **CLI Commands:** php (6), make (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Site running out of memory
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980)
+#### [Site running out of memory](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=0)** - [Instructor] WordPress sites are super powerful these days, sometimes more powerful than the servers that run it.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=0)** - [Instructor] [[WordPress]] sites are super powerful these days, sometimes more powerful than the servers that run it.
 >
 > **[0:08](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=8)** Running code takes memory, and servers set a maximum amount of memory that your code can use.
 >
@@ -1807,7 +1773,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=27)** To see how much memory your site is using, if you're using WordPress 5.2 or higher, you can go to Tools, Site Health, and then to Info, and check the server.
 >
-> **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=40)** Here, you'll see the PHP memory limit, and what it's set to.
+> **[0:40](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=40)** Here, you'll see the [[PHP]] memory limit, and what it's set to.
 >
 > **[0:46](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/site-running-out-of-memory?u=76281980&t=46)** If it's low, or you're routinely seeing the running out of memory error, you will want to increase the memory.
 >
@@ -1838,14 +1804,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Execution limit exceeded
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980)
+#### [Execution limit exceeded](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=0)** - [Instructor] While you might not have memory issues, some scripts might take a long time to run.
 >
-> **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=5)** But in order to prevent one site from taking all of the resources for a long time, PHP has a runtime limit.
+> **[0:05](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=5)** But in order to prevent one site from taking all of the resources for a long time, [[PHP]] has a runtime limit.
 >
 > **[0:13](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=13)** If you hit that, there's a couple of things you can do to fix it.
 >
@@ -1873,7 +1838,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=95)** The other two solutions are server specific and may not work depending on your hosting company.
 >
-> **[1:41](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=101)** The first is to modify the htaccess file in your root WordPress directory to add this line.
+> **[1:41](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=101)** The first is to modify the htaccess file in your root [[WordPress]] directory to add this line.
 >
 > **[1:49](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/execution-limit-exceeded?u=76281980&t=109)** php_value space max_execution_time 300.
 >
@@ -1889,7 +1854,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), hit (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[WordPress]] (1)
 > **CLI Commands:** php (4), find (1)
 > **Code Identifiers:** max_execution_time (2), set_time_limit (1), php_value (1)
 > **Env Vars:** php (3), ftp (1)
@@ -1897,14 +1862,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using WP-CLI to solve your WordPress problems
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980)
+#### [Using WP-CLI to solve your WordPress problems](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=0)** - [Instructor] While not related to a specific problem, sometimes fixing WordPress is best done from outside the dashboard.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=0)** - [Instructor] While not related to a specific problem, sometimes fixing [[WordPress]] is best done from outside the dashboard.
 >
-> **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=7)** That's where WP-CLI comes in.
+> **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=7)** That's where WP-[[CLI]] comes in.
 >
 > **[0:09](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=9)** So here's how it works.
 >
@@ -1924,7 +1888,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=60)** When you are stuck outside the dashboard, it might be worth trying to use WP-CLI to solve your problems.
 >
-> **[1:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=67)** If you want to learn more, you can check out my course all about WP-CLI in the LinkedIn Learning library.
+> **[1:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/using-wp-cli-to-solve-your-wordpress-problems?u=76281980&t=67)** If you want to learn more, you can check out my course all about WP-CLI in the [[LinkedIn]] Learning library.
 
 > [!info]- Semantic Content
 >
@@ -1939,18 +1903,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=0)** - Congratulations, you've gotten a clear overview of some common WordPress issues and how to solve them.
+> **[0:00](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=0)** - Congratulations, you've gotten a clear overview of some common [[WordPress]] issues and how to solve them.
 >
 > **[0:07](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=7)** I recommend you bookmark this course and revisit it for when you experience these issues in the real world.
 >
 > **[0:14](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=14)** If you want to continue your WordPress journey you should check out the Become a WordPress Developer learning path.
 >
-> **[0:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=21)** You can all also check out the Learning PHP course to get a deeper understanding of PHP, if you'd like.
+> **[0:21](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=21)** You can all also check out the Learning [[PHP]] course to get a deeper understanding of PHP, if you'd like.
 >
 > **[0:27](https://www.linkedin.com/learning/troubleshoot-and-repair-your-wordpress-website/next-steps?u=76281980&t=27)** Finally, I'd love to hear from you about how you're using WordPress.
 >
@@ -1964,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (4), [[PHP]] (2)
 > **CLI Commands:** php (2), find (1)
 > **Env Vars:** php (2)
 > **Speakers:** - congratulations (1)

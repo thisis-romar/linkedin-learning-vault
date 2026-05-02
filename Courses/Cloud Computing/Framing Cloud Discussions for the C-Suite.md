@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding the audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
+#### [Understanding the audience](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -83,7 +82,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980&t=19)** Why can't your manager, your VP, your CEO understand why you want to use a specific cloud data store?
 >
-> **[0:26](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980&t=26)** Why can't they understand that by using a simple infrastructure as code model, you can create entirely new dynamic production data centers anywhere in the world they want them.
+> **[0:26](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980&t=26)** Why can't they understand that by using a simple [[Infrastructure as code (IaC)|infrastructure as code]] model, you can create entirely new dynamic production data centers anywhere in the world they want them.
 >
 > **[0:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-the-audience?u=76281980&t=37)** Don't they get it?
 >
@@ -105,12 +104,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (5), data (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), application (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discussing the cloud with a non-tech audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980)
+#### [Discussing the cloud with a non-tech audience](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -122,7 +120,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980&t=21)** To facilitate this understanding, let me introduce you to a company will be working with, Explore California.
 >
-> **[0:28](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980&t=28)** Explore California is a fictional e-commerce company that specializes in travel tourists within the state of California.
+> **[0:28](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980&t=28)** Explore California is a fictional [[E-Commerce]] company that specializes in travel tourists within the state of California.
 >
 > **[0:35](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-the-cloud-with-a-non-tech-audience?u=76281980&t=35)** On their website, you can look at a variety of tour options, all for sale and ready to be scheduled for your next vacation.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (8), leadership (4), [[Security]] (2), [[E-Commerce]] (1), next (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Env Vars:** ceo (1), cfo (1), cto (1), cso (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -184,8 +182,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discussing dynamic application infrastructures
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
+#### [Discussing dynamic application infrastructures](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -203,7 +200,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=49)** Traditional infrastructure designed would require statically allocating resources that remain 24 by seven and have those resources simply lying around when not needed, which is a waste of resources.
 >
-> **[1:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=62)** Second, dynamic infrastructure improves resiliency and availability.
+> **[1:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=62)** Second, dynamic infrastructure improves [[Resiliency]] and availability.
 >
 > **[1:06](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=66)** Typically static infrastructure operation centers require spare resources to be lying around that can be turned on and operated when needed.
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=87)** In dynamic infrastructures, these resources are not required at all, because additional resources can be added in seconds or minutes, rather than days or weeks.
 >
-> **[1:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=97)** Finally, dynamic infrastructure allows quick replacement of problematic pieces of infrastructure, whether it's software or hardware problems.
+> **[1:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=97)** Finally, dynamic infrastructure allows quick replacement of problematic pieces of infrastructure, whether it's software or [[Hardware]] problems.
 >
 > **[1:44](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=104)** If an application has a service instance that is starting to operate in correctly, rather than spending resources trying to fix the instance, you can simply terminate the instance and replace it with a brand new infrastructure component quickly and efficiently.
 >
@@ -245,7 +242,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=203)** They decided to do the same thing and move two important backend services to the cloud.
 >
-> **[3:28](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=208)** While even the rest of the application where it was.
+> **[3:28](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=208)** While even the [[Representational State Transfer (REST)|rest]] of the application where it was.
 >
 > **[3:31](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-dynamic-application-infrastructures?u=76281980&t=211)** They did a simple lift and shift of those two services and move them to an AWS availability zone.
 >
@@ -279,15 +276,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (19), application (9), data (4), leadership (2), aws (2)
+> **Frameworks & Libraries:** [[Resiliency]] (1), [[Hardware]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** aws (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discussing rapid innovation and change
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980)
+#### [Discussing rapid innovation and change](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -315,7 +311,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=87)** The cloud allows you to execute automated test suites while the application is deployed in a true production-like environment, increasing the value and effectiveness of those test suites.
 >
-> **[1:38](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=98)** It allows you to launch large scale test loads and environments to simulate at scale production environments easing the ability to validate theories on scaling operations via load testing.
+> **[1:38](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=98)** It allows you to launch large scale test loads and environments to simulate at scale production environments easing the ability to validate theories on scaling operations via [[Load Testing]].
 >
 > **[1:50](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=110)** It allows developers to try new ideas in an isolated production-like sandbox, gaining insights without risking production.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=135)** This improves the time to innovate and improves overall product capabilities.
 >
-> **[2:20](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=140)** It also improves overall product quality, reliability, and scalability.
+> **[2:20](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=140)** It also improves overall product quality, reliability, and [[Scalability]].
 >
 > **[2:25](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-rapid-innovation-and-change?u=76281980&t=145)** This would allow George and his team to focus on adding the new features they want to add and worry less about how to test them at scale and how to deploy them to their complex production infrastructure.
 >
@@ -333,14 +329,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (6), feature (3), application (3), product (2), api (1)
+> **Frameworks & Libraries:** [[Load Testing]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** api (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discussing COGS vs. capital
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980)
+#### [Discussing COGS vs. capital](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -368,7 +363,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=82)** The single purchase buys something that is used over and over again.
 >
-> **[1:27](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=87)** In manufacturing companies, this could be the purchase of molds, manufacturing equipment, or it could be hardware, computer equipment, or buildings.
+> **[1:27](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=87)** In manufacturing companies, this could be the purchase of molds, manufacturing equipment, or it could be [[Hardware]], computer equipment, or buildings.
 >
 > **[1:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=97)** Costs for capital expenditures like this may or may not be paid for all at once, but the impact of that expenditure is almost never put in as a single financial transaction into the month and year that the purchase was made.
 >
@@ -392,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=163)** Money is spent for a particular period of time, that time the ad is run, and that's usually a relatively short period of time.
 >
-> **[2:50](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=170)** Other examples are SaaS service fees, the monthly fees for using a SaaS service, utilities, and some types of employee salaries in this category.
+> **[2:50](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=170)** Other examples are [[SaaS]] service fees, the monthly fees for using a SaaS service, utilities, and some types of employee salaries in this category.
 >
 > **[3:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=180)** These are common expenditures that companies make.
 >
@@ -424,7 +419,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=250)** In fact, spending more on COGS is often a good thing, because that must mean you are bringing in more revenue.
 >
-> **[4:16](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=256)** You're making more product that you can sell and bringing in revenue on those products.
+> **[4:16](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=256)** You're making more product that you can sell and bringing in revenue on those [[Microsoft Products|products]].
 >
 > **[4:20](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cogs-vs-capital?u=76281980&t=260)** The thing to manage with COGS is to manage the ratio of COGS to revenue.
 >
@@ -440,19 +435,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), cloud (2), [[Hardware]] (2), [[SaaS]] (2), next (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[SaaS]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** cogs (15), cfo (1)
 > **Definitions:** is a  (5), is called (1), stands for (1), is an  (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloud finances
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980)
+#### [Cloud finances](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=0)** - [Instructor] Why does all of this matter for cloud computing?
+> **[0:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=0)** - [Instructor] Why does all of this matter for [[Cloud Computing]]?
 >
 > **[0:03](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=3)** Well, it matters because when a company builds out an on-premises data center, they're spending lots of money on capital expenditures and some more money and fixed expenses, two types of money that are harder to come by and are not tied directly to revenue.
 >
@@ -462,7 +456,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=27)** You need to build a data center whether or not revenue comes in, because you need to be ready to handle the traffic when revenue does come in.
 >
-> **[0:34](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=34)** Building a data center for a SaaS company onsite or even in a co-location center requires significant upfront capital and fixed expenditures.
+> **[0:34](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=34)** Building a data center for a [[SaaS]] company onsite or even in a co-location center requires significant upfront capital and fixed expenditures.
 >
 > **[0:45](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cloud-finances?u=76281980&t=45)** But when you build out a cloud data center, you build out the pieces dynamically when you need it.
 >
@@ -498,7 +492,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), cloud (7), traffic (5), application (2), [[SaaS]] (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[SaaS]] (1)
 > **Env Vars:** cfo (4), cogs (1)
 > **Speakers:** - [instructor] (1)
 
@@ -507,8 +501,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding what “the cloud” means to your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
+#### [Understanding what “the cloud” means to your audience](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -526,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=45)** Yeah, I know it's basic, but it is a way of explaining the cloud to someone who isn't tech savvy.
 >
-> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=52)** More than likely, the people you need to talk to about the cloud in your company, including the company [[Executive Leadership]], have a higher understanding about the cloud than this.
+> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=52)** More than likely, the people you need to talk to about the cloud in your company, including the company [[[[Executive Leadership]]]], have a higher understanding about the cloud than this.
 >
 > **[1:01](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/understanding-what-the-cloud-means-to-your-audience?u=76281980&t=61)** But you can't guarantee that.
 >
@@ -548,14 +541,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (15), [[Executive Leadership]] (2), data (1), product (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (2)
 > **Env Vars:** ceo (1), cto (1), cfo (1), cso (1)
 > **Analogies:** such as (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CFO focus: The cloud and financial management
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cfo-focus-the-cloud-and-financial-management?u=76281980)
+#### [CFO focus: The cloud and financial management](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cfo-focus-the-cloud-and-financial-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -629,19 +621,18 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cfo-focus-the-cloud-and-financial-management?u=76281980&t=198)** So in general, talk to the CFO about optimizing expenses to optimize revenue, and maintain appropriate risk reward ratio for the company.
 >
-> **[3:29](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cfo-focus-the-cloud-and-financial-management?u=76281980&t=209)** And for cloud computing specifically, this means talking to them about the benefits the cloud has in reducing financial risk, increasing return in investment, and reducing COGS.
+> **[3:29](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cfo-focus-the-cloud-and-financial-management?u=76281980&t=209)** And for [[Cloud Computing]] specifically, this means talking to them about the benefits the cloud has in reducing financial risk, increasing return in investment, and reducing COGS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), cloud (3), product (2), career (1), business (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1)
 > **Env Vars:** cfo (7), cogs (3)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (3)
 > **Cross-References:** we discussed (1)
 > **Speakers:** - [instructor] (1)
 
-#### CTO focus: Technical advantage using the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980)
+#### [CTO focus: Technical advantage using the cloud](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -679,11 +670,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=124)** All of these things are things that the cloud can help with.
 >
-> **[2:07](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=127)** A cloud conversation with Tracy is all about how the cloud allows your development organization to be more agile and innovative, gives you operation's organization flexibility and agility, reduces your overall operational risk, improves application availability and uptime, and gets her the ability to scale effectively and efficiently to meet changing customer demand.
+> **[2:07](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=127)** A cloud conversation with Tracy is all about how the cloud allows your development organization to be more [[Agile Development|agile]] and innovative, gives you operation's organization flexibility and agility, reduces your overall operational risk, improves application availability and uptime, and gets her the ability to scale effectively and efficiently to meet changing customer demand.
 >
 > **[2:33](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=153)** For Explorer California, these are critical discussions.
 >
-> **[2:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=157)** Tracy is successful when she meets the needs of the rest of the organization, whether that's sales, marketing, or finance.
+> **[2:37](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=157)** Tracy is successful when she meets the needs of the [[Representational State Transfer (REST)|rest]] of the organization, whether that's sales, marketing, or finance.
 >
 > **[2:45](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cto-focus-technical-advantage-using-the-cloud?u=76281980&t=165)** She fails if the critical applications that make up Explore California fail for some reason.
 >
@@ -695,14 +686,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (3), application (2), [[Engineering]] (2), [[Representational State Transfer (REST)|Rest]] (2), web (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Agile Development|Agile]] (1)
 > **Env Vars:** cto (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### CSO focus: The cloud is secure
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980)
+#### [CSO focus: The cloud is secure](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +714,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=51)** Now he's the CSO, chief security officer, for Explore California.
 >
-> **[0:56](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=56)** The CSO or VP of security or perhaps VP of security operations is an important person in any company that is working in the cloud.
+> **[0:56](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=56)** The CSO or VP of security or perhaps VP of [[Security Operations]] is an important person in any company that is working in the cloud.
 >
 > **[1:07](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=67)** And in their role, they can be an important ally to you in your quest to convince others of the viability of the cloud for your company.
 >
@@ -732,7 +722,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=83)** He's responsible for running a team of security experts and making sure they are able to keep up to speed on all modern detect vectors, modern security techniques, and best practices.
 >
-> **[1:36](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=96)** He's also responsible for making sure the rest of the organization behaves in the manner that keeps the company, its applications, and its data safe and secure.
+> **[1:36](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=96)** He's also responsible for making sure the [[Representational State Transfer (REST)|rest]] of the organization behaves in the manner that keeps the company, its applications, and its data safe and secure.
 >
 > **[1:46](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=106)** This means training means learning.
 >
@@ -754,7 +744,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=165)** First, making sure that the cloud offering itself is safe and secure from attacks and that all current modern best practices are implemented in order to maintain a safe environment.
 >
-> **[2:58](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=178)** And second, even more importantly to you that everyone using their cloud infrastructure have the tools and knowledge they need to leverage and utilize current modern best practices for keeping their applications safe and secure.
+> **[2:58](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=178)** And second, even more importantly to you that everyone using their [[Cloud Infrastructure]] have the tools and knowledge they need to leverage and utilize current modern best practices for keeping their applications safe and secure.
 >
 > **[3:15](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/cso-focus-the-cloud-is-secure?u=76281980&t=195)** You see, security is so important to cloud providers that they invest heavily not only in keeping their infrastructure secure, but they also invest heavily in providing the tools and training so that consumers of the cloud, companies like Explore California, know what it takes to keep themselves safe.
 >
@@ -776,14 +766,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (17), [[Security]] (15), data (8), [[Representational State Transfer (REST)|Rest]] (3), aws (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (3), [[Security Operations]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** cso (4), aws (1)
 > **Definitions:** is an  (2), is a  (1)
 > **CLI Commands:** make (1), aws (1)
 > **Speakers:** - [presenter] (1)
 
-#### CEO focus: The cloud and customer value
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980)
+#### [CEO focus: The cloud and customer value](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -791,9 +780,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=3)** The CEO is the company leader and is responsible for all aspects of the company operations, finance, customers, employees, everything.
 >
-> **[0:14](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=14)** Dustin comes from a sales background, and he is very good at persuading people to purchase complex enterprise software.
+> **[0:14](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=14)** Dustin comes from a sales background, and he is very good at persuading people to purchase complex [[Enterprise Software]].
 >
-> **[0:21](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=21)** As such, at Explore California, Dustin spends most of his energy focusing on marketing, on customer interactions, and on acquiring and promoting new products for sale.
+> **[0:21](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=21)** As such, at Explore California, Dustin spends most of his energy focusing on marketing, on customer interactions, and on acquiring and promoting new [[Microsoft Products|products]] for sale.
 >
 > **[0:32](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=32)** He mostly leaves the technical aspects of operating the website and the modern applications that the company requires to keep the company operating to his CTO and CSO, since he doesn't have the expertise in those areas.
 >
@@ -803,11 +792,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=72)** A technically-minded CEO, for instance, will need a strong CFO and sales leader.
 >
-> **[1:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=78)** A sales-focused CEO will need a strong CTO and technical leadership along with probably a strong financial leadership, as well, while a financial-focused CEO may need a strong sales leader and a strong technical leadership.
+> **[1:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=78)** A sales-focused CEO will need a strong CTO and [[Technical Leadership]] along with probably a strong financial leadership, as well, while a financial-focused CEO may need a strong sales leader and a strong technical leadership.
 >
 > **[1:32](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=92)** Each CEO is different, and depending on their expertise and the expertise of their leadership team, the CEO will have a focus in one or more areas and will provide less leadership in those other areas.
 >
-> **[1:46](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=106)** What's important about this for cloud communications is that depending on the type of CTO they are, they will either be integrally involved in the cloud requirements of the company products and the decisions involved in cloud computing, or they will leave these issues directly to their technical leadership and not be involved at all in the cloud aspects of the company.
+> **[1:46](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=106)** What's important about this for cloud communications is that depending on the type of CTO they are, they will either be integrally involved in the cloud requirements of the company products and the decisions involved in [[Cloud Computing]], or they will leave these issues directly to their technical leadership and not be involved at all in the cloud aspects of the company.
 >
 > **[2:09](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/ceo-focus-the-cloud-and-customer-value?u=76281980&t=129)** Typically, it'll be one extreme or the other.
 >
@@ -825,7 +814,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Technical Leadership]] (3), leadership (3), [[Microsoft Products|Products]] (2), [[Enterprise Software]] (1)
+> **Frameworks & Libraries:** [[Technical Leadership]] (3), [[Microsoft Products|Products]] (2), [[Enterprise Software]] (1), [[Cloud Computing]] (1)
 > **Env Vars:** ceo (14), cto (4), cso (2), cfo (1), cogs (1)
 > **Analogies:** for instance (1), such as (1)
 > **CLI Commands:** make (1)
@@ -837,8 +826,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Discussing cloud metrics and OKRs
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
+#### [Discussing cloud metrics and OKRs](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -854,7 +842,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=35)** Metrics and measurements are important to nearly all company leaders in all industries, in all fields of study.
 >
-> **[0:42](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=42)** It is nearly impossible to convince any company's [[Executive Leadership]] of the value to an investment without being able to prove the value using data.
+> **[0:42](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=42)** It is nearly impossible to convince any company's [[[[Executive Leadership]]]] of the value to an investment without being able to prove the value using data.
 >
 > **[0:53](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=53)** Certainly, Explore California's leadership team is no different.
 >
@@ -886,7 +874,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=164)** How do you use an OKR such as, "Hire 100 new salespeople in Q3?"
 >
-> **[2:50](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=170)** How do you use use that as a template for how to present your cloud infrastructure metrics that support an argument around availability risk planning?
+> **[2:50](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=170)** How do you use use that as a template for how to present your [[Cloud Infrastructure]] metrics that support an argument around availability risk planning?
 >
 > **[2:58](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-metrics-and-okrs?u=76281980&t=178)** They're just not a match, but yet you can tell that by focusing on the need to hire 100 new salespeople, your company's focused on growing top line revenue for the company.
 >
@@ -902,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (7), data (7), leadership (5), [[Executive Leadership]] (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Cloud Infrastructure]] (1)
 > **Env Vars:** ceo (1), okr (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
@@ -910,8 +898,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discussing cloud cost reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980)
+#### [Discussing cloud cost reduction](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -949,7 +936,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980&t=106)** This allows you to resize the deployment to properly scale an application, dynamically, based on need.
 >
-> **[1:53](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980&t=113)** This leads to having less idle equipment lying around because you don't need to have idle, hot standby hardware anymore.
+> **[1:53](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980&t=113)** This leads to having less idle equipment lying around because you don't need to have idle, hot standby [[Hardware]] anymore.
 >
 > **[2:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-cost-reduction?u=76281980&t=122)** You can easily bring up new infrastructure pieces, as needed, when your application needs to scale up, and you can equally well tear down infrastructure pieces when they are no longer needed.
 >
@@ -991,7 +978,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (25), application (10), data (4), management (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **CLI Commands:** find (2)
 > **Env Vars:** cfo (1)
 > **Cross-References:** we discussed (1)
@@ -999,8 +986,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discussing cloud scaling and availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980)
+#### [Discussing cloud scaling and availability](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,7 +1006,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=46)** Luckily, you're prepared to answer this question with a great explanation of one of the benefits of the cloud.
 >
-> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=52)** Specifically, dynamic cloud infrastructures can help you with two critical aspects of your application performance: availability and scalability.
+> **[0:52](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=52)** Specifically, dynamic cloud infrastructures can help you with two critical aspects of your application performance: availability and [[Scalability]].
 >
 > **[1:03](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=63)** The two important metrics of concern when you consider bringing on a huge influx of traffic, such as you'll be expecting from the social media influencers.
 >
@@ -1040,7 +1026,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=138)** From that point on, the impact of a sudden traffic demands on our website was called the Johnny Carson effect.
 >
-> **[2:24](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=144)** The dynamic cloud infrastructure helps improve scalability and that helps improves availability.
+> **[2:24](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=144)** The dynamic [[Cloud Infrastructure]] helps improve scalability and that helps improves availability.
 >
 > **[2:30](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/discussing-cloud-scaling-and-availability?u=76281980&t=150)** The worst thing to happen to you is to receive sudden interest in your website, lots of people head over to your website to take a look at it, but because the load is too high, the website goes down or it becomes unresponsive.
 >
@@ -1084,7 +1070,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), application (13), traffic (9), cloud (6), [[Scalability]] (4)
+> **Frameworks & Libraries:** [[Scalability]] (4), [[Cloud Infrastructure]] (2)
 > **Env Vars:** cfo (1), cto (1), ceo (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -1097,18 +1083,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing cloud discussions with the C-Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)
+#### [Continuing cloud discussions with the C-Suite](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=0)** - [Instructor] Your efforts have paid off.
 >
-> **[0:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=2)** You've now convinced Dustin, Jerome, Tracy, Sven, and the entire [[Executive Leadership]] team that moving the Explore California suite of applications to the cloud is a cost-effective project.
+> **[0:02](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=2)** You've now convinced Dustin, Jerome, Tracy, Sven, and the entire [[[[Executive Leadership]]]] team that moving the Explore California suite of applications to the cloud is a cost-effective project.
 >
 > **[0:15](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=15)** You've talked to the team about dynamic infrastructures.
 >
-> **[0:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=18)** You've talked to them about security and privacy.
+> **[0:18](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=18)** You've talked to them about security and [[Privacy]].
 >
 > **[0:21](https://www.linkedin.com/learning/framing-cloud-discussions-for-the-c-suite/continuing-cloud-discussions-with-the-c-suite?u=76281980&t=21)** You've talked to them about risk mitigation and management.
 >
@@ -1134,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (4), business (2), leadership (2), [[Executive Leadership]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Executive Leadership]] (1), [[Privacy]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 

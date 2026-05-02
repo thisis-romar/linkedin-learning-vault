@@ -68,16 +68,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Get clear on DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
+#### [Get clear on DevSecOps](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=0)** - DevOps can feel a bit messy and unclear to security practitioners, and security feels like the one area that always get left out of the DevOps transformation.
+> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=0)** - [[DevOps]] can feel a bit messy and unclear to security practitioners, and security feels like the one area that always get left out of the DevOps transformation.
 >
 > **[0:10](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=10)** There just seems to be this disconnect between developers and operations and security.
 >
-> **[0:16](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=16)** DevSecOps is our course correction, and it's more than just a banner to jam all the groups together, instead, it is a growing area of practice and knowledge, and that's where this course comes in.
+> **[0:16](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=16)** [[DevSecOps]] is our course correction, and it's more than just a banner to jam all the groups together, instead, it is a growing area of practice and knowledge, and that's where this course comes in.
 >
 > **[0:28](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=28)** I've gathered these practices into a collection of tips.
 >
@@ -89,11 +88,11 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=51)** I'm a Senior Security Engineer at Verica, and a longtime practitioner of DevOps and security.
 >
-> **[0:57](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=57)** Join me in my LinkedIn Learning course, where you will get advice and tips on how to make DevSecOps a success for you.
+> **[0:57](https://www.linkedin.com/learning/devsecops-tips-for-success/get-clear-on-devsecops?u=76281980&t=57)** Join me in my [[LinkedIn]] Learning course, where you will get advice and tips on how to make DevSecOps a success for you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[DevSecOps]] (5), [[DevOps]] (4), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (5), [[DevOps]] (4), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - devops (1)
@@ -103,14 +102,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Security work is just not fair
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
+#### [Security work is just not fair](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=0)** - Let's talk about why security work is often unfair to those who are doing it.
 >
-> **[0:05](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=5)** This is important for us to understand where the pain is often felt for security professionals working with DevOps or Agile organizations.
+> **[0:05](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=5)** This is important for us to understand where the pain is often felt for security professionals working with [[DevOps]] or [[Agile Development|Agile]] organizations.
 >
 > **[0:13](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=13)** First, let's talk about the breach and blame mentality that we often see in many organizations.
 >
@@ -130,7 +128,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=76)** It just wasn't granted.
 >
-> **[1:18](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=78)** Also, in many organizations, the post-breach rebuilding process will also include bringing security engineering into development teams and spreading the word that security is everyone's job in the company.
+> **[1:18](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=78)** Also, in many organizations, the post-breach rebuilding process will also include bringing [[Security Engineering]] into development teams and spreading the [[Microsoft Word|word]] that security is everyone's job in the company.
 >
 > **[1:30](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=90)** Now, this is often, too, something that security wanted as well before the breach.
 >
@@ -142,7 +140,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=109)** Well, another reason why security work can often be unfair is that security in most organizations is stuck implementing controls and policies that are geared for the waterfall development model.
 >
-> **[2:00](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=120)** Now, waterfall is that software development lifecycle, or SDLC approach, where software is designed, developed, tested and released in big batches.
+> **[2:00](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=120)** Now, waterfall is that [[Software Development]] lifecycle, or SDLC approach, where software is designed, developed, tested and released in big batches.
 >
 > **[2:10](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=130)** It slowly gains momentum over months or even years until it's finally put in front of customers.
 >
@@ -160,13 +158,13 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=177)** This misalignment causes problems and disconnects across teams when dealing with delivery cadence, testing timelines and scope of changes.
 >
-> **[3:06](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=186)** The security testing cycle has to use the correct units of work and adopt the cadence of Agile and DevOps organizations.
+> **[3:06](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=186)** The [[Security Testing]] cycle has to use the correct units of work and adopt the cadence of Agile and DevOps organizations.
 >
 > **[3:13](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=193)** The last reason why security is often unfair is that it often gets stuck managing legacy systems.
 >
-> **[3:19](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=199)** Now, while the rest of the team is doing all the innovation, security gets stuck doing patching, managing vulnerabilities, and dealing with all the old tech.
+> **[3:19](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=199)** Now, while the [[Representational State Transfer (REST)|rest]] of the team is doing all the innovation, security gets stuck doing patching, managing vulnerabilities, and dealing with all the old tech.
 >
-> **[3:28](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=208)** The SANS 2018 DevSecOps Survey captured this sentiment pretty well.
+> **[3:28](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=208)** The SANS 2018 [[DevSecOps]] Survey captured this sentiment pretty well.
 >
 > **[3:32](https://www.linkedin.com/learning/devsecops-tips-for-success/security-work-is-just-not-fair?u=76281980&t=212)** It said, "While engineering teams are busy deploying "leading-edge technologies, security teams are still focused "on fighting yesterday's battles."
 >
@@ -184,14 +182,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), teams (5), [[Agile Development|Agile]] (3), [[DevOps]] (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (3), [[DevOps]] (2), [[DevSecOps]] (2), [[Security Engineering]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** sdlc (2), sans (1)
 > **Cross-References:** later in (2)
 > **Speakers:** - let (1)
 
-#### Security is fighting a losing battle
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980)
+#### [Security is fighting a losing battle](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=34)** This isn't an isolated point of view.
 >
-> **[0:37](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=37)** In the "Agile Application Security" book the authors note that, "Many security teams work "with a worldview where their goal "is to inhibit change as much as possible."
+> **[0:37](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=37)** In the "[[Agile Development|Agile]] [[Application Security]]" book the authors note that, "Many security teams work "with a worldview where their goal "is to inhibit change as much as possible."
 >
 > **[0:48](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=48)** Security sees change as the enemy.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=141)** "We manage the risk by simply scoring them "and putting them in our work backlog "to fix in the next release or version."
 >
-> **[2:28](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=148)** Security got off track, but this is why I think DevSecOps is one of the most important things to happen to our industry.
+> **[2:28](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=148)** Security got off track, but this is why I think [[DevSecOps]] is one of the most important things to happen to our industry.
 >
 > **[2:36](https://www.linkedin.com/learning/devsecops-tips-for-success/security-is-fighting-a-losing-battle?u=76281980&t=156)** We have a chance to fix the misalignment and incentives we put in place.
 >
@@ -253,7 +250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (16), business (6), teams (2), [[Engineering]] (2), management (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Application Security]] (1), [[DevSecOps]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Warnings:** note that (1)
@@ -264,8 +261,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be a maker for DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
+#### [Be a maker for DevSecOps](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -321,7 +317,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=106)** Take part in the building and add value to the software in the systems of our organization.
 >
-> **[1:52](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=112)** We don't do this by leading the software development process, but we do it by adopting the tools and the languages of makers.
+> **[1:52](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=112)** We don't do this by leading the [[Software Development]] process, but we do it by adopting the tools and the languages of makers.
 >
 > **[1:59](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=119)** In my experience, this has three main benefits.
 >
@@ -335,9 +331,9 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=147)** We move testing and security tooling inside the pipeline and solve problems together as makers.
 >
-> **[2:33](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=153)** The second benefit of bein' a maker is a faster incident response.
+> **[2:33](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=153)** The second benefit of bein' a maker is a faster [[Incident Response]].
 >
-> **[2:38](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=158)** Now by adding security testing practices and tools inside the pipeline, everyone's more aware of what security defenses are in place.
+> **[2:38](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=158)** Now by adding [[Security Testing]] practices and tools inside the pipeline, everyone's more aware of what security defenses are in place.
 >
 > **[2:45](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=165)** And how to respond when things go wrong.
 >
@@ -347,7 +343,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=179)** The developers see the side effects and the false positives in the form of errors, but security often doesn't give them actual access to the system.
 >
-> **[3:08](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=188)** In a DevSecOps world, security makers provide an API for the WAF, and developers can in operations, they can integrate that into their ChatOps stack, or into their observability tools.
+> **[3:08](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=188)** In a [[DevSecOps]] world, security makers provide an API for the WAF, and developers can in operations, they can integrate that into their ChatOps stack, or into their observability tools.
 >
 > **[3:18](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-maker-for-devsecops?u=76281980&t=198)** So instead of guessing what state the system is in, the teams can know if they're under attack.
 >
@@ -383,26 +379,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), teams (4), [[DevSecOps]] (3), next (1), hr (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (3), [[Software Development]] (1), [[Incident Response]] (1), [[Security Testing]] (1)
 > **Env Vars:** waf (3), api (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - i (1)
 
-#### Use developer tactics for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980)
+#### [Use developer tactics for security](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=0)** - [Instructor] In this tip for DevSecOps, let's talk about the tactics developers use and how security can adopt them.
+> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=0)** - [Instructor] In this tip for [[DevSecOps]], let's talk about the tactics developers use and how security can adopt them.
 >
 > **[0:07](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=7)** Before we dive in, though, maybe you are wondering why we would even do this.
 >
-> **[0:12](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=12)** In the DevOps Foundation course here in the library, one of the key findings of the success of DevOps is that operation teams adopted development practices to be able to deliver software faster and to make huge gains.
+> **[0:12](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=12)** In the [[DevOps]] Foundation course here in the library, one of the key findings of the success of DevOps is that operation teams adopted development practices to be able to deliver software faster and to make huge gains.
 >
 > **[0:25](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=25)** Ops went from being seen as this blocker to now being a critical key for success.
 >
-> **[0:31](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=31)** We will see that security can learn from using developer tactics to solve problems and get security testing and tooling done faster, cheaper, and more effectively.
+> **[0:31](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=31)** We will see that security can learn from using developer tactics to solve problems and get [[Security Testing]] and tooling done faster, cheaper, and more effectively.
 >
 > **[0:40](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=40)** We have two main problems with adding security to DevSecOps.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=47)** We deploy every day, 10 times a day, or maybe even 100 times a day.
 >
-> **[0:52](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=52)** Using continuous delivery practices has enabled our software development to move at a pace that is really tough to keep up with.
+> **[0:52](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=52)** Using [[Continuous Delivery (CD)|continuous delivery]] practices has enabled our [[Software Development]] to move at a pace that is really tough to keep up with.
 >
 > **[0:59](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=59)** Our second problem is that bugs just can't be stopped.
 >
@@ -426,13 +421,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=83)** Well, if security vulnerabilities are just exploitable bugs, let's take a step back and see how developers deal with bugs just in regular code.
 >
-> **[1:31](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=91)** First, using testing methods like test-driven development or behavior-driven development, referred to by the shorthand of TDD and BDD.
+> **[1:31](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=91)** First, using testing methods like [[Test-Driven Development]] or behavior-driven development, referred to by the shorthand of TDD and BDD.
 >
 > **[1:40](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=100)** In BDD, before code is written, a test is.
 >
 > **[1:44](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=104)** The test describes the desired outcome or behavior of the software.
 >
-> **[1:48](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=108)** I have a course called DevSecOps Automated Security Testing in the LinkedIn Learning library, and it shows how to adopt BDD for security purposes using Gauntlet, an open source tool I helped create.
+> **[1:48](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=108)** I have a course called DevSecOps Automated Security Testing in the [[LinkedIn]] Learning library, and it shows how to adopt BDD for security purposes using Gauntlet, an open source tool I helped create.
 >
 > **[2:00](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=120)** Next, meaningful commits and comments.
 >
@@ -446,13 +441,13 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=146)** Small changes more often may seem antithetical to security, but smaller batches are easier to release into the system and for developers to reason about.
 >
-> **[2:36](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=156)** In a microservices environment or a distributed team, being able to release smaller and more frequent changes smooths out the process of testing and integration.
+> **[2:36](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=156)** In a [[Microservices]] environment or a distributed team, being able to release smaller and more frequent changes smooths out the process of testing and integration.
 >
 > **[2:46](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=166)** Now, security can also run more targeted testing focused on those pieces.
 >
-> **[2:51](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=171)** Also, we can set up hooks in our version control system to fire different types of testing for different changes.
+> **[2:51](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=171)** Also, we can set up hooks in our [[Version Control]] system to fire different types of testing for different changes.
 >
-> **[2:58](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=178)** As an example, a style or front-end change triggers web security tests, where a change to auth fires tests geared towards that end and also notifies security engineers to do a code review.
+> **[2:58](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=178)** As an example, a style or front-end change triggers web security tests, where a change to auth fires tests geared towards that end and also notifies security engineers to do a [[Code Review]].
 >
 > **[3:10](https://www.linkedin.com/learning/devsecops-tips-for-success/use-developer-tactics-for-security?u=76281980&t=190)** Next up, code smells, patterns, and refactoring sprints.
 >
@@ -500,7 +495,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (19), [[DevSecOps]] (6), next (4), [[DevOps]] (3), teams (2)
+> **Frameworks & Libraries:** [[DevSecOps]] (6), [[DevOps]] (3), [[Security Testing]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** bdd (3), tdd (1), pci (1)
 > **Analogies:** just like (2)
@@ -508,14 +503,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Focus on experiments that learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980)
+#### [Focus on experiments that learn](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=0)** - [Instructor] On my bookshelf at home and on my computer, I have lots of books and pdfs full of rules, guidance, and best practices.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=8)** These security standards, bodies of knowledge, and hardening guides come from security organizations like ISC squared and OWASP.
+> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=8)** These security standards, bodies of knowledge, and hardening guides come from security organizations like ISC squared and [[OWASP]].
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=16)** They represent what I like to call security advice.
 >
@@ -547,7 +541,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=98)** Often we're wrong, but that's okay, this is how we learn.
 >
-> **[1:43](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=103)** One of my favorite examples of this is from my friend Shannon Leets, who is the director of DevSecOps over at Intuit.
+> **[1:43](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=103)** One of my favorite examples of this is from my friend Shannon Leets, who is the director of [[DevSecOps]] over at Intuit.
 >
 > **[1:50](https://www.linkedin.com/learning/devsecops-tips-for-success/focus-on-experiments-that-learn?u=76281980&t=110)** She wanted to know how relevant the OWASP Top 10 was to her applications and her organization, and track adversaries and attackers against her system.
 >
@@ -579,7 +573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), [[OWASP]] (3), data (2), application (2), teams (1)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[DevSecOps]] (1)
 > **Env Vars:** owasp (3), isc (1), cso (1), cto (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** means that (1)
@@ -587,8 +581,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply security automation for DevSecOps joy
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980)
+#### [Apply security automation for DevSecOps joy](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -596,17 +589,17 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=4)** By the fact that you're watching this course, I bet you might be the same way.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=8)** We love automation, and it provides and enables teams to go down the DevOps and DevSecOps transformation journeys.
+> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=8)** We love automation, and it provides and enables teams to go down the [[DevOps]] and [[DevSecOps]] transformation journeys.
 >
 > **[0:16](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=16)** The trick is knowing what to automate when looking across the landscape of all the tools and projects out there.
 >
-> **[0:23](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=23)** I have a course in the LinkedIn Learning library on building a secure, continuous delivery pipeline.
+> **[0:23](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=23)** I have a course in the [[LinkedIn]] Learning library on building a secure, [[Continuous Delivery (CD)|continuous delivery]] pipeline.
 >
-> **[0:29](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=29)** That course is filled with hands-on examples of automating security tools to a CI system like Jenkins.
+> **[0:29](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=29)** That course is filled with hands-on examples of automating security tools to a CI system like [[Jenkins]].
 >
 > **[0:35](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=35)** So for this I'm not diving into the specifics but I want to give you advice on how to know what to automate and what goals you should have around automation.
 >
-> **[0:45](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=45)** In the "Agile Application Security" book, the authors have this really great quote around automation.
+> **[0:45](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=45)** In the "[[Agile Development|Agile]] [[Application Security]]" book, the authors have this really great quote around automation.
 >
 > **[0:51](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=51)** They say, "The goal should be to come up "with a set of automated tests that probe and check "security configurations and runtime system behavior "for security features that will execute "every time the system is built "and every time it is deployed."
 >
@@ -614,7 +607,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=69)** There are three classes, or buckets, of automation tests to consider.
 >
-> **[1:13](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=73)** Code quality, runtime and system configuration.
+> **[1:13](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=73)** Code quality, runtime and [[System Configuration]].
 >
 > **[1:18](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=78)** Let's talk about each one of these in turn.
 >
@@ -678,7 +671,7 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=229)** Over time, system configuration drifts.
 >
-> **[3:52](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=232)** This can be for any number of reasons, but often the infrastructure, whether you're doing Kubernetes in the cloud or Ansible in your data center or whatever, the system configuration changes can be decoupled from the continuous delivery pipeline.
+> **[3:52](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=232)** This can be for any number of reasons, but often the infrastructure, whether you're doing [[Kubernetes]] in the cloud or [[Ansible]] in your data center or whatever, the system configuration changes can be decoupled from the continuous delivery pipeline.
 >
 > **[4:05](https://www.linkedin.com/learning/devsecops-tips-for-success/apply-security-automation-for-devsecops-joy?u=76281980&t=245)** So when you're doing automating audits, think of how you can assert that the desired configuration is the actual configuration.
 >
@@ -692,14 +685,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (13), [[Security]] (13), [[System Configuration]] (4), [[DevSecOps]] (3), application (3)
+> **Frameworks & Libraries:** [[System Configuration]] (4), [[DevSecOps]] (3), [[LinkedIn]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Jenkins]] (2)
 > **CLI Commands:** find (2), make (2), ansible (1)
 > **Env Vars:** sast (1), cicd (1)
 > **Warnings:** be careful (1)
 > **Speakers:** - automation (1)
 
-#### Learn from safety experts
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980)
+#### [Learn from safety experts](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -711,7 +703,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=19)** Those approaches aren't wrong, but they are an incomplete picture.
 >
-> **[0:23](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=23)** Our systems are often left exposed or vulnerable due to errors introduced in software development or through configuration drift over time.
+> **[0:23](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=23)** Our systems are often left exposed or vulnerable due to errors introduced in [[Software Development]] or through configuration drift over time.
 >
 > **[0:32](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=32)** Some studies show that over 50% of breaches are due to issues that are more or less just due to ineffective safety practices.
 >
@@ -777,7 +769,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=227)** The three-tier web application is not the main design pattern anymore, and we are now dealing with a complex socio-technical system that we, in fact, are part of.
 >
-> **[3:57](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=237)** Once we realize that, we start thinking of failure or breaches as not if they're going to happen, but when they happen, and it informs our design patterns with the goal of adding more safety margin.
+> **[3:57](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=237)** Once we realize that, we start thinking of failure or breaches as not if they're going to happen, but when they happen, and it informs our [[Design Patterns]] with the goal of adding more safety margin.
 >
 > **[4:10](https://www.linkedin.com/learning/devsecops-tips-for-success/learn-from-safety-experts?u=76281980&t=250)** Last, we have learned in safety studies that surfacing the state of the system through telemetry and instrumentation can provide valuable feedback.
 >
@@ -785,14 +777,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Software Development]] (1), product (1), web application (1), [[Design Patterns]] (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[Design Patterns]] (1)
 > **Definitions:** is an  (2), is a  (2)
 > **Cross-References:** we talked about (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add in chaos for better security results
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980)
+#### [Add in chaos for better security results](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -804,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=18)** Well, the same results we are seeing for stability and performance, we are also seeing for security.
 >
-> **[0:25](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=25)** The practice is called Security Chaos Engineering, and it is still early in adoption, but I am seeing the practice grow, and it has a really exciting future in DevSecOps.
+> **[0:25](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=25)** The practice is called Security Chaos Engineering, and it is still early in adoption, but I am seeing the practice grow, and it has a really exciting future in [[DevSecOps]].
 >
 > **[0:35](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=35)** Let's start with what Chaos Engineering is before we get to Security Chaos Engineering.
 >
@@ -858,7 +849,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=187)** In fact, we want to know that the defenses that we have in place today are still working tomorrow.
 >
-> **[3:13](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=193)** This is part of the movement from CI to CD, and now to CV, that is continuous integration, doing testing on every commit, to continuous delivery, where you're delivering software to customers continuously.
+> **[3:13](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=193)** This is part of the movement from CI to CD, and now to CV, that is [[Continuous Integration (CI)|continuous integration]], doing testing on every commit, to [[Continuous Delivery (CD)|continuous delivery]], where you're delivering software to customers continuously.
 >
 > **[3:27](https://www.linkedin.com/learning/devsecops-tips-for-success/add-in-chaos-for-better-security-results?u=76281980&t=207)** And now, continuous verification, where you're asserting what your system defense and reliability and performance is in production.
 >
@@ -882,27 +873,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (19), [[Security]] (18), application (2), next (2), [[DevSecOps]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Definitions:** is a  (1), is called (1), is an  (1), means that (1)
 > **CLI Commands:** make (1), cd (1)
 > **URLs:** [principlesofchaos.org](https://principlesofchaos.org) (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build a sharing culture for security
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980)
+#### [Build a sharing culture for security](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=0)** - [Instructor] Security is operated as a cloak and dagger exercise in many organizations leaving developers wondering, what does security expect and what do they want?
 >
-> **[0:11](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=11)** In the most recent DevSecOps Community Survey, one out of five developers said they don't even know what security expects of them.
+> **[0:11](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=11)** In the most recent [[DevSecOps]] Community Survey, one out of five developers said they don't even know what security expects of them.
 >
-> **[0:19](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=19)** To many developers, the cyber security team is as much of an enigma to them as to why everything is prepended with the word cyber.
+> **[0:19](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=19)** To many developers, the cyber security team is as much of an enigma to them as to why everything is prepended with the [[Microsoft Word|word]] cyber.
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=28)** In this tip, let's find a way to build a sharing culture that changes how security works with the rest of the organization and get your greatest asset, your people, sharing ways to build security together.
+> **[0:28](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=28)** In this tip, let's find a way to build a sharing culture that changes how security works with the [[Representational State Transfer (REST)|rest]] of the organization and get your greatest asset, your people, sharing ways to build security together.
 >
-> **[0:40](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=40)** When Patrick DeBois started the DevOps movement, there was doubt that it would move out of startups and into the large enterprises.
+> **[0:40](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=40)** When Patrick DeBois started the [[DevOps]] movement, there was doubt that it would move out of startups and into the large enterprises.
 >
 > **[0:48](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=48)** The worry was that large enterprises had real concerns like security, and regulations, and stakeholders at a magnitude that smaller companies couldn't appreciate.
 >
@@ -952,7 +942,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=192)** And this feeds into our last area, tooling that can be placed in the runtime environment that gives dev, ops, and security a way to work together.
 >
-> **[3:20](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=200)** In the LinkedIn Learning library, there is a course on automated security testing that I wrote.
+> **[3:20](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=200)** In the [[LinkedIn]] Learning library, there is a course on automated [[Security Testing]] that I wrote.
 >
 > **[3:24](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=204)** Check that out for some ideas, but also think of some ways to leverage the tools you already have.
 >
@@ -966,23 +956,22 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=233)** Both of these modern tools offer APIs and webhooks to integrate and plug into your system.
 >
-> **[3:58](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=238)** The key is, as Rich Smith says in the "Agile Application Security" book, "A security team that embraces openness "about what it does and why, spreads understanding."
+> **[3:58](https://www.linkedin.com/learning/devsecops-tips-for-success/build-a-sharing-culture-for-security?u=76281980&t=238)** The key is, as Rich Smith says in the "[[Agile Development|Agile]] [[Application Security]]" book, "A security team that embraces openness "about what it does and why, spreads understanding."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (30), [[DevSecOps]] (3), [[DevOps]] (3), teams (3), next (3)
+> **Frameworks & Libraries:** [[DevSecOps]] (3), [[DevOps]] (3), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** rasp (1), waf (1), iast (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** the key is (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bring auditors to the DevSecOps party
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980)
+#### [Bring auditors to the DevSecOps party](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=0)** - [Instructor] Just so we don't bury the lede, DevSecOps includes governance, risk, and compliance, which I've shorthanded here just to be audit.
+> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=0)** - [Instructor] Just so we don't bury the lede, [[DevSecOps]] includes governance, risk, and compliance, which I've shorthanded here just to be audit.
 >
 > **[0:09](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=9)** Now, it's tempting to leave out audit functions from the DevSecOps journey.
 >
@@ -994,7 +983,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=27)** Separation of duties is often a control implemented to stop errors and fraud in the system.
 >
-> **[0:33](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=33)** Practices like continuous delivery and models where the developer who wrote the code is now responsible for deploying the code seems antithetical to the separation of duties model.
+> **[0:33](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=33)** Practices like [[Continuous Delivery (CD)|continuous delivery]] and models where the developer who wrote the code is now responsible for deploying the code seems antithetical to the separation of duties model.
 >
 > **[0:44](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=44)** Usually the way to deal with this is to show that developers don't deploy their own code, they use an automated system to do so.
 >
@@ -1036,17 +1025,17 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=130)** And that, "We will maintain an open channel "of discussion to demonstrate to you "how we manage risks and how we manage "our modern development practices."
 >
-> **[2:20](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=140)** Along with this commitment, we provide the DevOps Risk and Controls Matrix.
+> **[2:20](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=140)** Along with this commitment, we provide the [[DevOps]] Risk and Controls Matrix.
 >
 > **[2:24](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=144)** We even called out separation of duties as one piece of this.
 >
 > **[2:29](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=149)** Here's a direct quote from [DearAuditor.org](https://DearAuditor.org).
 >
-> **[2:31](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=151)** "For example, you have told us "that you are concerned about separation of duties "in agile and DevOps practices, and we heard you.
+> **[2:31](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=151)** "For example, you have told us "that you are concerned about separation of duties "in [[Agile Development|agile]] and DevOps practices, and we heard you.
 >
 > **[2:38](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=158)** "We think we have a better way "to manage this and risks now.
 >
-> **[2:43](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=163)** "Having everything in version control, "enforcing peer review for every change, "releasing via a secure pipeline, "restricting production access "and monitoring unauthorized changes in production systems "should address your concern."
+> **[2:43](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=163)** "Having everything in [[Version Control]], "enforcing peer review for every change, "releasing via a secure pipeline, "restricting production access "and monitoring unauthorized changes in production systems "should address your concern."
 >
 > **[2:57](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=177)** Now, there are two resources that I want to mention as you bring auditors into the DevSecOps journey.
 >
@@ -1054,21 +1043,20 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=187)** Definitely check that out.
 >
-> **[3:09](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=189)** The second is the Agile Application Security book, which Jim is an author of.
+> **[3:09](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=189)** The second is the Agile [[Application Security]] book, which Jim is an author of.
 >
 > **[3:14](https://www.linkedin.com/learning/devsecops-tips-for-success/bring-auditors-to-the-devsecops-party?u=76281980&t=194)** As we bring GRC and audit along for the journey, we continue to break down silos, deliver more value, and change the culture of our organization to move faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevSecOps]] (5), [[Security]] (2), [[DevOps]] (2), [[Agile Development|Agile]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (5), [[DevOps]] (2), [[Agile Development|Agile]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Version Control]] (1)
 > **URLs:** [dearauditor.org](https://dearauditor.org) (2)
 > **Env Vars:** grc (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Find a rugged path for software
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980)
+#### [Find a rugged path for software](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1076,13 +1064,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=5)** I read it, and something about it really clicked with me.
 >
-> **[0:09](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=9)** At the time, I was working at a publicly traded, large enterprise, and we were rolling out cloud products.
+> **[0:09](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=9)** At the time, I was working at a publicly traded, large enterprise, and we were rolling out cloud [[Microsoft Products|products]].
 >
 > **[0:15](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=15)** I ran the ops and security sides of that effort.
 >
-> **[0:18](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=18)** I had my newly minted CISSP certification, and naively I thought that cloud security would be just a rinse and repeat of what we did in our own data center.
+> **[0:18](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=18)** I had my newly minted CISSP certification, and naively I thought that [[Cloud Security]] would be just a rinse and repeat of what we did in our own data center.
 >
-> **[0:28](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=28)** But it didn't take long to realize that, as an industry, we needed a new playbook for security, for the cloud, and also for DevOps.
+> **[0:28](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=28)** But it didn't take long to realize that, as an industry, we needed a new playbook for security, for the cloud, and also for [[DevOps]].
 >
 > **[0:37](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=37)** Now, remember, this was 2010, so a lot of tools and books we use today just didn't exist.
 >
@@ -1114,7 +1102,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=119)** I encourage you to adopt this as well.
 >
-> **[2:02](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=122)** In many ways, I feel rugged was a precursor to DevSecOps.
+> **[2:02](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=122)** In many ways, I feel rugged was a precursor to [[DevSecOps]].
 >
 > **[2:06](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=126)** It addresses the same values we have in DevOps, but from an angle of more secure software, software that is meant to last, software that is safe.
 >
@@ -1166,7 +1154,7 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=231)** These may not be the first properties you would think of, but that's part of the rugged paradigm.
 >
-> **[3:56](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=236)** Rugged doesn't mean one thing for everyone, much like the "Agile Manifesto," rugged is loose so that you can take it and use it and make decisions for your software and your organization.
+> **[3:56](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=236)** Rugged doesn't mean one thing for everyone, much like the "[[Agile Development|Agile]] Manifesto," rugged is loose so that you can take it and use it and make decisions for your software and your organization.
 >
 > **[4:06](https://www.linkedin.com/learning/devsecops-tips-for-success/find-a-rugged-path-for-software?u=76281980&t=246)** Rugged can be part of the path to building a more secure system.
 >
@@ -1174,20 +1162,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), cloud (3), [[DevOps]] (2), [[DevSecOps]] (2), hit (1)
+> **Frameworks & Libraries:** [[DevOps]] (2), [[DevSecOps]] (2), [[Microsoft Products|Products]] (1), [[Cloud Security]] (1), [[Agile Development|Agile]] (1)
 > **Env Vars:** cissp (1), sbom (1), die (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), stands for (1)
 > **Speakers:** - the (1)
 
-#### The MEASURE for DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980)
+#### [The MEASURE for DevSecOps](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=0)** - [Instructor] The MEASURE of DevSecOps is an acrostic that helps provide a guide to the ways that DevSecOps is changing in the industry.
+> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=0)** - [Instructor] The MEASURE of [[DevSecOps]] is an acrostic that helps provide a guide to the ways that DevSecOps is changing in the industry.
 >
-> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=8)** It was inspired by the CAMS model for DevOps, which came from John Willis and Damon Edwards.
+> **[0:08](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=8)** It was inspired by the CAMS model for [[DevOps]], which came from [[John the Ripper|John]] Willis and Damon Edwards.
 >
 > **[0:14](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=14)** CAMS is culture, automation, measurement, and sharing.
 >
@@ -1201,7 +1188,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=41)** It is meant to find all the activities that are already taking place at leading organizations and teams.
 >
-> **[0:48](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=48)** Sort of like a roadmap for the rest of us to follow as we advance along our journey.
+> **[0:48](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=48)** Sort of like a roadmap for the [[Representational State Transfer (REST)|rest]] of us to follow as we advance along our journey.
 >
 > **[0:52](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=52)** MEASURE stands for maker-driven, experimentation, automation, safety, unrestrained sharing, ruggedization, and empathy.
 >
@@ -1211,7 +1198,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=67)** DevSecOps is driven by builders and defenders who write code to solve real problems.
 >
-> **[1:13](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=73)** Security has struggled in the past with writing code and participating in the software development process, but this is changing.
+> **[1:13](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=73)** Security has struggled in the past with writing code and participating in the [[Software Development]] process, but this is changing.
 >
 > **[1:20](https://www.linkedin.com/learning/devsecops-tips-for-success/the-measure-for-devsecops?u=76281980&t=80)** High-performing organizations are either recruiting security pros who feel comfortable writing code or they are looking for developers who want to try out security as a career.
 >
@@ -1289,7 +1276,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (18), [[DevSecOps]] (13), [[Automation]] (6), [[DevOps]] (5), next (5)
+> **Frameworks & Libraries:** [[DevSecOps]] (13), [[DevOps]] (5), [[Representational State Transfer (REST)|Rest]] (2), [[John the Ripper|John]] (1), [[Software Development]] (1)
 > **Env Vars:** measure (7), cams (3)
 > **Definitions:** is a  (3), is an  (1), stands for (1)
 > **CLI Commands:** find (3)
@@ -1301,14 +1288,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be a DevSecOps ambassador
-> [LinkedIn Learning](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)
+#### [Be a DevSecOps ambassador](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=0)** - [James] As we wrap up this course, I'd like to commission you as a DevSecOps Ambassador.
+> **[0:00](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=0)** - [James] As we wrap up this course, I'd like to commission you as a [[DevSecOps]] Ambassador.
 >
-> **[0:05](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=5)** You now have the knowledge you need to help others bridge the gap between security and DevOps.
+> **[0:05](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=5)** You now have the knowledge you need to help others bridge the gap between security and [[DevOps]].
 >
 > **[0:10](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=10)** Now this isn't an easy journey, but it's one that's worth making.
 >
@@ -1322,7 +1308,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=34)** So what's next?
 >
-> **[0:36](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=36)** As I've mentioned, there are other courses in the LinkedIn Learning Library on automated security testing and DevSecOps.
+> **[0:36](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=36)** As I've mentioned, there are other courses in the [[LinkedIn]] Learning Library on automated [[Security Testing]] and DevSecOps.
 >
 > **[0:43](https://www.linkedin.com/learning/devsecops-tips-for-success/be-a-devsecops-ambassador?u=76281980&t=43)** In addition to these, I would recommend going to the DevSecOps and DevOps learning paths.
 >
@@ -1338,7 +1324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (6), [[Security]] (2), next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[DevSecOps]] (7), [[DevOps]] (6), [[LinkedIn]] (1), [[Security Testing]] (1)
 > **Env Vars:** measure (2)
 > **Cross-References:** we discussed (1), in the last (1)
 > **CLI Commands:** find (1)

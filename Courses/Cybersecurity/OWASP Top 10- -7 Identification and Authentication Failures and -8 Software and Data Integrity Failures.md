@@ -78,8 +78,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OWASP Top 10
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980)
+#### [OWASP Top 10](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -89,11 +88,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=8)** The best way to secure web apps is to find and fix security vulnerabilities.
 >
-> **[0:14](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=14)** OWASP stands for Open Web Application Security Project and the top 10 list is a resource for any and everyone who is involved in building web applications.
+> **[0:14](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=14)** [[OWASP]] stands for Open [[Web Application Security]] Project and the top 10 list is a resource for any and everyone who is involved in building web applications.
 >
 > **[0:24](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=24)** This course covers the seventh and eighth categories in the 2021 OWASP top 10.
 >
-> **[0:31](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=31)** Identification and authentication failures and software and data integrity failures.
+> **[0:31](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=31)** Identification and authentication failures and software and [[Data Integrity]] failures.
 >
 > **[0:36](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10?u=76281980&t=36)** I'm Caroline Wong, Chief Strategy Officer at Cobalt.
 >
@@ -103,20 +102,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[Security]] (2), [[OWASP]] (2), web application (1), data (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Web Application Security]] (1), [[Data Integrity]] (1)
 > **Env Vars:** owasp (2)
 > **Definitions:** stands for (1), is a  (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - we (1)
 
-#### OWASP Top 10 series
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980)
+#### [OWASP Top 10 series](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=0)** - [Instructor] Here are a few things that may be helpful to know so that you can get the most out of this course.
 >
-> **[0:06](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=6)** First, this course covers the seventh and eighth categories in the 2021 OWASP Top 10.
+> **[0:06](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=6)** First, this course covers the seventh and eighth categories in the 2021 [[OWASP]] Top 10.
 >
 > **[0:14](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=14)** I recommend watching my previous courses that cover the first several categories.
 >
@@ -124,13 +122,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=30)** This course is designed for anyone who is involved in building web applications and wants to make them secure.
 >
-> **[0:39](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=39)** This includes software developers, architects, product and project managers, and, of course, cybersecurity professionals.
+> **[0:39](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=39)** This includes software developers, architects, product and project managers, and, of course, [[Cybersecurity]] professionals.
 >
 > **[0:48](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-series?u=76281980&t=48)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (2), web (1), product (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Cybersecurity]] (1)
 > **Env Vars:** owasp (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
@@ -140,12 +138,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are identification and authentication failures?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980)
+#### [What are identification and authentication failures?](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=0)** - [Instructor] The seventh item in the 2021 OWASP Top 10 is Identification and Authentication Failures.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=0)** - [Instructor] The seventh item in the 2021 [[OWASP]] Top 10 is Identification and Authentication Failures.
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=8)** OWASP says confirmation of the user's identity, authentication, and session management is critical to protect against authentication related attacks.
 >
@@ -159,9 +156,9 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=46)** If a web app does not require strong, complex passwords and allows weak passwords like password, password123, or admin, then user accounts are vulnerable to compromise, and bad actors can gain control of accounts that do not belong to them.
 >
-> **[1:05](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=65)** If you're watching this course and thinking to yourself, "Uh-oh, I actually use password123 for my online banking.", then now is a great time to pause this video and change your password.
+> **[1:05](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=65)** If you're watching this course and thinking to yourself, "Uh-oh, I actually use password123 for my online [[Banking]].", then now is a great time to pause this video and change your password.
 >
-> **[1:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=80)** A web application may not use or require multi-factor authentication.
+> **[1:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=80)** A web application may not use or require [[Multi-factor Authentication]].
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-identification-and-authentication-failures?u=76281980&t=88)** Multi-factor authentication, commonly referred to in practice as two factor-authentication, is an excellent security control for preventing account compromise by bad actors.
 >
@@ -185,13 +182,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (5), [[OWASP]] (3), web (2), [[Multi-factor Authentication]] (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Multi-factor Authentication]] (2), [[Banking]] (1)
 > **Env Vars:** owasp (3)
 > **Definitions:** is a  (1), is an  (1), known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 1: Pwned Passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980)
+#### [Example 1: Pwned Passwords](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,7 +231,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980&t=187)** The pwned password site also contains helpful information on password reuse and credential stuffing.
 >
-> **[3:14](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980&t=194)** It also references the National Institute of Standards and Technology or NIST guidance on checking passwords against those obtained in previous data breaches.
+> **[3:14](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980&t=194)** It also references the National Institute of Standards and Technology or [[NIST]] guidance on checking passwords against those obtained in previous data breaches.
 >
 > **[3:27](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-pwned-passwords?u=76281980&t=207)** If you want, you can even download the entire list to use it as you please.
 >
@@ -245,25 +241,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Security]] (2), feature (2), web application (1), [[NIST]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1)
 > **Definitions:** is called (1), in other words (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** nist (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 2: 2021 Verkada data breach
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980)
+#### [Example 2: 2021 Verkada data breach](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=0)** - [Instructor] Verkada is a California-based company that builds security cameras, augmented with facial recognition capabilities.
 >
-> **[0:09](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=9)** Their security cameras are used in hospitals, prisons, mental health institutions, schools, office, factories, and many other buildings.
+> **[0:09](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=9)** Their security cameras are used in hospitals, prisons, mental health institutions, schools, [[Microsoft Office|office]], factories, and many other buildings.
 >
 > **[0:19](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=19)** News reports from 2021 State that Verkada was breached, leading to the compromise of private data from approximately 150,000 customers.
 >
-> **[0:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=32)** This enormous privacy breach occurred because of identification and authentication failures.
+> **[0:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=32)** This enormous [[Privacy]] breach occurred because of identification and authentication failures.
 >
 > **[0:39](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-verkada-data-breach?u=76281980&t=39)** If someone can get a hold of your real credentials and use them to access private systems, that's an identification and authentication failure.
 >
@@ -295,14 +290,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (4), [[Microsoft Office|Office]] (1), [[Privacy]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Privacy]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Check for weak passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980)
+#### [Prevention technique: Check for weak passwords](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -344,7 +338,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=130)** The rationale behind this idea, is that if a password has been compromised, changing that password would remove the access of an unauthorized user.
 >
-> **[2:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=140)** PCI DSS, the Payment Card Industry Data Security Standard is a cybersecurity standard that applies to the use of credit cards in web applications.
+> **[2:20](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=140)** PCI DSS, the Payment Card Industry [[Data Security]] Standard is a [[Cybersecurity]] standard that applies to the use of credit cards in web applications.
 >
 > **[2:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-check-for-weak-passwords?u=76281980&t=152)** PCI, as that's commonly referred to, requires that passwords be changed every 90 days.
 >
@@ -360,18 +354,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[Security]] (2), application (1), data (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** pci (2), dss (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prevention technique: Use multi-factor authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-multi-factor-authentication?u=76281980)
+#### [Prevention technique: Use multi-factor authentication](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-multi-factor-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-multi-factor-authentication?u=76281980&t=0)** - [Instructor] Let's talk about multi-factor authentication.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-multi-factor-authentication?u=76281980&t=0)** - [Instructor] Let's talk about [[Multi-factor Authentication]].
 >
 > **[0:03](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-multi-factor-authentication?u=76281980&t=3)** MFA is literally one of my favorite security controls.
 >
@@ -411,13 +404,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), [[Multi-factor Authentication]] (1), [[Security]] (1), application (1)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1)
 > **Env Vars:** sms (3), pin (2), mfa (1)
 > **Definitions:** is a  (1), refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Log and limit repeated login attempts
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980)
+#### [Prevention technique: Log and limit repeated login attempts](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -467,7 +459,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980&t=157)** And then I'm locked out for multiple minutes.
 >
-> **[2:41](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980&t=161)** If you're interested in learning more, I recommend reading "Blocking Brute Force Attacks", an OWASP resource that can be found online.
+> **[2:41](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980&t=161)** If you're interested in learning more, I recommend reading "Blocking Brute Force Attacks", an [[OWASP]] resource that can be found online.
 >
 > **[2:50](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-log-and-limit-repeated-login-attempts?u=76281980&t=170)** Another important security activity to consider when it comes to detecting these types of attacks is logging and monitoring.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), web application (3), application (2), [[OWASP]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1)
 > **Definitions:** is called (1), known as (1)
 > **CLI Commands:** make (1)
 > **Code Identifiers:** iphone (1)
@@ -495,12 +487,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What are software and data integrity failures?
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980)
+#### [What are software and data integrity failures?](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=0)** - [Instructor] The eighth item in the 2021 OWASP Top 10 is software and data integrity failures.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=0)** - [Instructor] The eighth item in the 2021 [[OWASP]] Top 10 is software and [[Data Integrity]] failures.
 >
 > **[0:08](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=8)** OWASP says, "A new category for 2021 focuses on making assumptions related to software updates, critical data, and CI/CD pipelines without verifying integrity."
 >
@@ -508,9 +499,9 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=36)** When the software components that a web application uses come from an untrusted source, that might lead to a software and data integrity failure.
 >
-> **[0:48](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=48)** Here are a few recent statistics that illuminate the importance of this interconnectedness topic for modern web applications.
+> **[0:48](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=48)** Here are a few recent [[Statistics]] that illuminate the importance of this interconnectedness topic for modern web applications.
 >
-> **[0:58](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=58)** According to the blog post, "A (Partial) History of Software Supply Chain Attacks", by ReversingLabs, attacks on software development organizations and software supply chains are increasing at an alarming rate.
+> **[0:58](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=58)** According to the blog post, "A (Partial) History of Software Supply Chain Attacks", by ReversingLabs, attacks on [[Software Development]] organizations and software supply chains are increasing at an alarming rate.
 >
 > **[1:13](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=73)** Of the 42 attacks included in the post, half occurred in 2021 and 2022.
 >
@@ -518,7 +509,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=90)** Malicious package submissions to repositories also increased substantially over the years 2020 to 2022.
 >
-> **[1:39](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=99)** A continuous integration/continuous deployment pipeline, commonly referred to as CI/CD, is a modern way of building and releasing software quickly.
+> **[1:39](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=99)** A [[Continuous Integration (CI)|continuous integration]]/continuous deployment pipeline, commonly referred to as CI/CD, is a modern way of building and releasing software quickly.
 >
 > **[1:51](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/what-are-software-and-data-integrity-failures?u=76281980&t=111)** This methodology incorporates a lot of automation.
 >
@@ -536,27 +527,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (5), ci (5), cd (5), data (4), web (2)
+> **Frameworks & Libraries:** [[OWASP]] (5), [[Data Integrity]] (3), [[Statistics]] (1), [[Software Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **Env Vars:** owasp (5), nvd (1)
 > **CLI Commands:** cd (5)
 > **Prerequisites:** install (2), set up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Example 1: Solar Winds software supply chain attack
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980)
+#### [Example 1: Solar Winds software supply chain attack](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=0)** - [Narrator] What is a software supply chain attack?
 >
-> **[0:03](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=3)** Here's how NIST, the National Institute of Standards and Technology, describes it.
+> **[0:03](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=3)** Here's how [[NIST]], the National Institute of Standards and Technology, describes it.
 >
 > **[0:10](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=10)** A software supply chain attack occurs when a cyber threat actor infiltrates a software vendor's network and employs malicious code to compromise the software before the vendor sends it to their customers.
 >
 > **[0:25](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=25)** The compromised software then compromises the customer's data or system.
 >
-> **[0:31](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=31)** What does this have to do with software and data integrity?
+> **[0:31](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=31)** What does this have to do with software and [[Data Integrity]]?
 >
 > **[0:36](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=36)** To put it simply, software and data with integrity has not been messed with, either on purpose by a malicious actor or by accident, perhaps, when an employee made a simple mistake.
 >
@@ -572,21 +562,20 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=92)** The updates containing malware were released between March and June, 2020 and are believed to have affected 18,000 SolarWinds customers who installed Orion updates during this time.
 >
-> **[1:46](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=106)** When SolarWinds became aware of the breach, they partnered with Microsoft, FireEye and GoDaddy to release a software fix, which included an emergency off switch for the malware.
+> **[1:46](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-1-solar-winds-software-supply-chain-attack?u=76281980&t=106)** When SolarWinds became aware of the breach, they partnered with [[Microsoft]], FireEye and GoDaddy to release a software fix, which included an emergency off switch for the malware.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[NIST]] (1), management (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Data Integrity]] (1), [[Microsoft]] (1)
 > **Definitions:** is a  (2)
 > **Env Vars:** nist (1)
 > **Speakers:** - [narrator] (1)
 
-#### Example 2: 2021 Codecov bash uploader compromise
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980)
+#### [Example 2: 2021 Codecov bash uploader compromise](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=0)** - [Narrator] Codecov is a popular software testing platform with tens of thousands of enterprise customers including Google, Proctor and Gamble, IBM, and Atlassian.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=0)** - [Narrator] Codecov is a popular [[Software Testing]] platform with tens of thousands of enterprise customers including [[Google]], Proctor and Gamble, IBM, and [[Atlassian]].
 >
 > **[0:11](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=11)** It provides code coverage functionality to enable its customers to know how much of their code is covered by automated tests and how much is not.
 >
@@ -598,7 +587,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=38)** The Codecov breach of 2021 is known as a supply chain attack.
 >
-> **[0:44](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=44)** This is because the way that Codecov customers use their software is highly integrated into the way that they do software development.
+> **[0:44](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=44)** This is because the way that Codecov customers use their software is highly integrated into the way that they do [[Software Development]].
 >
 > **[0:54](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/example-2-2021-codecov-bash-uploader-compromise?u=76281980&t=54)** During the months when this component had been compromised but undetected, customers incorrectly assumed that their software environment data was being sent to Codecov, their trusted vendor.
 >
@@ -634,19 +623,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (1), [[Atlassian]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[Atlassian]] (1), [[Software Development]] (1)
 > **Tools:** bash (3)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** ibm (1)
 > **Speakers:** - [narrator] (1)
 
-#### Prevention technique: Use digital signatures
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980)
+#### [Prevention technique: Use digital signatures](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=0)** - [Instructor] The first bullet point in the How to Prevent section of the OWASP Top 10 description of the vulnerability category for Software and Data Integrity Failures says, "Use digital signatures or similar mechanisms "to verify the software or data "is from the expected source and has not been altered."
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=0)** - [Instructor] The first bullet point in the How to Prevent section of the [[OWASP]] Top 10 description of the vulnerability category for Software and [[Data Integrity]] Failures says, "Use digital signatures or similar mechanisms "to verify the software or data "is from the expected source and has not been altered."
 >
 > **[0:21](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=21)** So, what's a digital signature?
 >
@@ -670,25 +658,24 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=92)** Asymmetric encryption is fairly complicated, and I won't be going into the details of how it works here.
 >
-> **[1:40](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=100)** The important concept to understand is that when asymmetric encryption algorithms are implemented correctly, data and software can be signed using digital signatures.
+> **[1:40](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=100)** The important concept to understand is that when asymmetric encryption [[Algorithms]] are implemented correctly, data and software can be signed using digital signatures.
 >
 > **[1:51](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-use-digital-signatures?u=76281980&t=111)** When someone wants to use that data or software, they can validate that the digitally signed data or software was indeed signed by the legitimate software manufacturer, and not tampered with or changed by a malicious actor.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[OWASP]] (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[OWASP]] (1), [[Data Integrity]] (1), [[Algorithms]] (1)
 > **Definitions:** is a  (1), is called (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Ensure repositories are trustworthy
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980)
+#### [Prevention technique: Ensure repositories are trustworthy](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=0)** - [Instructor] Here's what the How to Prevent section says about repositories in use for this vulnerability category.
 >
-> **[0:08](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=8)** "Ensure libraries and dependencies, such as npm or Maven are consuming trusted repositories.
+> **[0:08](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=8)** "Ensure libraries and dependencies, such as [[npm]] or Maven are consuming trusted repositories.
 >
 > **[0:15](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=15)** If you have a higher risk profile, consider hosting an internal known-good repository that is vetted."
 >
@@ -696,7 +683,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=30)** Let's learn about some of these coding concepts together.
 >
-> **[0:35](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=35)** One of the really interesting realities about web application development is that developers are very rarely creating new applications completely from scratch.
+> **[0:35](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=35)** One of the really interesting realities about [[Web Application Development]] is that developers are very rarely creating new applications completely from scratch.
 >
 > **[0:47](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=47)** They're usually working on adding new features to an existing piece of software.
 >
@@ -710,7 +697,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=88)** It can be thought of as a collection of many assets.
 >
-> **[1:33](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=93)** GitHub is a popular cloud-based repo that is built on Git, a version and control system.
+> **[1:33](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=93)** [[GitHub]] is a popular cloud-based repo that is built on [[Git]], a version and control system.
 >
 > **[1:41](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=101)** Conceptually, a library is like a set of pre-built functions.
 >
@@ -728,7 +715,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=162)** Modern software involves a lot of dependencies on various libraries and components.
 >
-> **[2:48](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=168)** The process of building and deploying modern software is largely automated, and this automation allows for continuous delivery, which means more frequent and faster software deployments.
+> **[2:48](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=168)** The process of building and deploying modern software is largely automated, and this automation allows for [[Continuous Delivery (CD)|continuous delivery]], which means more frequent and faster software deployments.
 >
 > **[3:03](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-ensure-repositories-are-trustworthy?u=76281980&t=183)** It is as important as ever to ensure that each and every single dependency that's being used to support a web application is being assessed for risk.
 >
@@ -738,21 +725,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[npm]] (2), [[Automation]] (2), [[Security]] (2), web (2), [[Web Application Development]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[Web Application Development]] (1), [[GitHub]] (1), [[Git]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** npm (2), git (1), node (1), make (1)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prevention technique: Review code and configuration changes
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980)
+#### [Prevention technique: Review code and configuration changes](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=0)** - [Instructor] Prevention technique number three for the software and data integrity failures category of the 2021 OWASP Top 10 is to review code and configuration changes.
+> **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=0)** - [Instructor] Prevention technique number three for the software and [[Data Integrity]] failures category of the 2021 [[OWASP]] Top 10 is to review code and configuration changes.
 >
-> **[0:13](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=13)** In modern software development environments utilizing continuous integration and continuous delivery, CICD, it remains critically important to ensure that code and configuration changes are assessed with proper oversight.
+> **[0:13](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=13)** In modern [[Software Development]] environments utilizing [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]], CICD, it remains critically important to ensure that code and configuration changes are assessed with proper oversight.
 >
 > **[0:29](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=29)** The introduction of auto-updates and automation when it comes to code and configuration changes for modern software development involves trade-offs.
 >
@@ -774,13 +760,13 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=161)** Third party software dependencies that impact critical functions or systems that store or process highly sensitive or confidential information should take a more conservative approach to allowing automatic updates without a manual review.
 >
-> **[2:58](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=178)** In any case, be sure to stay informed and up to date with regards to any third-party software products that are incorporated into your web application ecosystem.
+> **[2:58](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=178)** In any case, be sure to stay informed and up to date with regards to any third-party software [[Microsoft Products|products]] that are incorporated into your web application ecosystem.
 >
 > **[3:11](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/prevention-technique-review-code-and-configuration-changes?u=76281980&t=191)** If a third party does install a malicious update, then you'll want to stay current with regards to availability of a patch to address the issue.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[OWASP]] (2), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Continuous Delivery (CD)|Continuous delivery]] (2), [[Data Integrity]] (1)
 > **Env Vars:** owasp (2), cicd (1)
 > **Prerequisites:** install (3)
 > **Definitions:** means that (1)
@@ -791,14 +777,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OWASP Top 10 keep learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980)
+#### [OWASP Top 10 keep learning](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980&t=0)** - [Instructor] And here you have it.
 >
-> **[0:02](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980&t=2)** Items number seven and eight in the OWASP Top 10.
+> **[0:02](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980&t=2)** Items number seven and eight in the [[OWASP]] Top 10.
 >
 > **[0:07](https://www.linkedin.com/learning/owasp-top-10-7-identification-and-authentication-failures-and-8-software-and-data-integrity-failures/owasp-top-10-keep-learning?u=76281980&t=7)** Identification, authentication, and integrity failures have been key information security concepts for decades now.
 >
@@ -816,7 +801,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[OWASP]] (2), data (1), web (1), next (1)
+> **Frameworks & Libraries:** [[OWASP]] (2)
 > **Env Vars:** owasp (2), ssrf (1)
 > **CLI Commands:** find (1)
 > **Analogies:** similar to (1)

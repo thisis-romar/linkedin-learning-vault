@@ -60,30 +60,28 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Write more effective prompts in Copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
+#### [Write more effective prompts in Copilot](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=0)** - In today's rapidly evolving digital landscape, the ability to communicate effectively with AI assistants, like Microsoft's Copilot, is becoming increasingly crucial.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=0)** - In today's rapidly evolving digital landscape, the ability to communicate effectively with AI assistants, like [[Microsoft]]'s [[Microsoft Copilot|Copilot]], is becoming increasingly crucial.
 >
 > **[0:10](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=10)** Now, the way we communicate with these assistants is through prompts, and regardless of the type of work you do with Copilot, improving your prompt-writing skills can enhance your productivity and broaden your creative and analytical capabilities across Microsoft's suite of applications.
 >
-> **[0:26](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=26)** Hi, I'm LinkedIn Learning senior staff instructor Garrick Chow, and in this course, we're going to take a look at the art of writing prompts for Copilot and some of the ways you can optimize your prompt-writing skills.
+> **[0:26](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=26)** Hi, I'm [[LinkedIn]] Learning senior staff instructor Garrick Chow, and in this course, we're going to take a look at the art of writing prompts for Copilot and some of the ways you can optimize your prompt-writing skills.
 >
 > **[0:36](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/write-more-effective-prompts-in-copilot?u=76281980&t=36)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), prompt (2), ai (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (2), [[LinkedIn]] (1)
 > **Speakers:** - in (1)
 
-#### Understand the Copilot subscriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980)
+#### [Understand the Copilot subscriptions](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=1)** - [Instructor] The name Copilot is used by Microsoft across several of their products and services.
+> **[0:01](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=1)** - [Instructor] The name [[Microsoft Copilot|Copilot]] is used by [[Microsoft]] across several of their [[Microsoft Products|products]] and services.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=5)** So, before we jump into this course, I want to take a moment to clarify how the name applies to this specific course.
 >
@@ -95,9 +93,9 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=33)** But, again, anyone can use this web-based version of Copilot for free without an account.
 >
-> **[0:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=38)** But the free version doesn't allow you to use Copilot in Microsoft 365 applications like Word, Excel, PowerPoint, and so on.
+> **[0:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=38)** But the free version doesn't allow you to use Copilot in [[Microsoft 365]] applications like [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], and so on.
 >
-> **[0:46](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=46)** To use Copilot through those and other M365 apps, you have to have a paid subscription to Copilot through either a personal or individual account, or an account you have through work or school, also referred to as a Business account.
+> **[0:46](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=46)** To use Copilot through those and other [[Microsoft 365|M365]] apps, you have to have a paid subscription to Copilot through either a personal or individual account, or an account you have through work or school, also referred to as a Business account.
 >
 > **[1:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=60)** If you're subscribing as an individual, you'll be subscribing to a product called Copilot Pro, which is currently $20 a month.
 >
@@ -105,7 +103,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=82)** Now, if your Microsoft account is through your work or school, that's considered a Business account, and the subscription for Business accounts is called Microsoft 365 Copilot.
 >
-> **[1:35](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=95)** And, again, you can see that one of the features of Microsoft 365 Copilot is that you can access Copilot in Word, Excel, PowerPoint, Outlook, and Teams.
+> **[1:35](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=95)** And, again, you can see that one of the features of Microsoft 365 Copilot is that you can access Copilot in Word, Excel, PowerPoint, [[Microsoft Outlook|Outlook]], and Teams.
 >
 > **[1:44](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-copilot-subscriptions?u=76281980&t=104)** In most cases, if you have your subscription through work or school, your network administrator or IT department will set up your Copilot subscription for you, and you'll see Copilot when you open your Microsoft 365 applications without having to do anything yourself.
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (27), [[Microsoft 365]] (7), [[Microsoft]] (5), web (4), business (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (27), [[Microsoft 365]] (7), [[Microsoft]] (5), [[Microsoft Products|Products]] (2), [[Microsoft Word|Word]] (2)
 > **Definitions:** is called (1), is a  (1)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** m365 (1)
@@ -133,24 +131,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the ingredients of a good prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
+#### [Understand the ingredients of a good prompt](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=0)** - Anytime you interact with an AI like Copilot, what you're typing, whether it's a question or request or an instruction, is called a prompt.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=0)** - Anytime you interact with an AI like [[Microsoft Copilot|Copilot]], what you're typing, whether it's a question or request or an instruction, is called a prompt.
 >
 > **[0:09](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=9)** You're literally prompting the AI to respond.
 >
 > **[0:12](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=12)** With almost all modern AIs, You can think about prompting like having a conversation where you can use plain language and engage in a back and forth with the AI to get the results you want.
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=22)** Some examples of basic prompts are things like, "Summarize this presentation" to get the gist of a PowerPoint presentation, or "Check this document for errors," to edit text in Word, or "Give me three ideas for a blog post," to generate new content.
+> **[0:22](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=22)** Some examples of basic prompts are things like, "Summarize this presentation" to get the gist of a [[Microsoft PowerPoint|PowerPoint]] presentation, or "Check this document for errors," to edit text in [[Microsoft Word|Word]], or "Give me three ideas for a blog post," to generate new content.
 >
 > **[0:37](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=37)** Or "Tell me what happened in this meeting," to catch you up in a recorded Teams meeting.
 >
 > **[0:41](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=41)** So these are all valid prompts and they use plain conversational language to ask for results, but the better your prompts are, the better your chances are of getting good results.
 >
-> **[0:51](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=51)** So for example, while you could chat with Copilot and Microsoft Teams and say something simple like, "Tell me what happened in this meeting," you might not get the information you're looking for and you might find yourself having a longer conversation in order to get Copilot to tell you what you really want to know.
+> **[0:51](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=51)** So for example, while you could chat with Copilot and [[Microsoft Teams]] and say something simple like, "Tell me what happened in this meeting," you might not get the information you're looking for and you might find yourself having a longer conversation in order to get Copilot to tell you what you really want to know.
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=66)** Copilot works best if you take the time to craft your prompts to focus in on the key elements of your question or request.
 >
@@ -202,7 +199,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=192)** Now, this isn't to say that you have to write your prompts with goals, context, source, and expectations every single time.
 >
-> **[3:18](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=198)** The way you compose your prompts will also vary depending on what you're asking or what you need.
+> **[3:18](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=198)** The way you [[Jetpack Compose|compose]] your prompts will also vary depending on what you're asking or what you need.
 >
 > **[3:23](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/understand-the-ingredients-of-a-good-prompt?u=76281980&t=203)** But keeping these key ingredients in mind will more often than not help you get better responses overall.
 >
@@ -226,15 +223,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), prompt (10), ai (3), next (3), [[Microsoft Teams]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (17), [[Microsoft Teams]] (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Word|Word]] (1), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (2)
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - anytime (1)
 
-#### Prompting dos and don'ts
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980)
+#### [Prompting dos and don'ts](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,7 +244,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=30)** Framing questions or requests in direct and unambiguous ways reduces the likelihood of misunderstandings and produces better results.
 >
-> **[0:37](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=37)** Next, keep things conversational, meaning use plain conversational language, but also give Copilot feedback on its responses.
+> **[0:37](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=37)** Next, keep things conversational, meaning use plain conversational language, but also give [[Microsoft Copilot|Copilot]] feedback on its responses.
 >
 > **[0:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=45)** Let it know if an answer didn't quite hit the mark or if it's on the right track.
 >
@@ -260,13 +256,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=71)** Also, when appropriate, provide examples and guidance of what you're looking for.
 >
-> **[1:16](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=76)** For instance, when asking Copilot to generate text, you might ask it to compose the content in the style of your favorite thought leader or author.
+> **[1:16](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=76)** For instance, when asking Copilot to generate text, you might ask it to [[Jetpack Compose|compose]] the content in the style of your favorite thought leader or author.
 >
 > **[1:23](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=83)** Using examples with specific keywords or phrases focuses, Copilot's attention on exactly what you're looking for and make sure that the results are more closely in line with your needs.
 >
 > **[1:33](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=93)** For instance, instead of just asking Copilot to write an email to a team of project stakeholders asking for their feedback, provide specific guidance on what you want the email to say.
 >
-> **[1:42](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=102)** For example, write a professional email to your project stakeholders requesting feedback on the recent software development project.
+> **[1:42](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=102)** For example, write a professional email to your project stakeholders requesting feedback on the recent [[Software Development]] project.
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=109)** Start with thanks for their support.
 >
@@ -338,7 +334,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=301)** Make sure it's comprehensive covering solar, wind, and hydroelectric power advancements.
 >
-> **[5:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=306)** So this allows Copilot to focus solely on providing comprehensive information without worrying about word count or brevity.
+> **[5:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=306)** So this allows Copilot to focus solely on providing comprehensive information without worrying about [[Microsoft Word|word]] count or brevity.
 >
 > **[5:14](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=314)** It can cover all the necessary details to make sure all the relevant information is included.
 >
@@ -368,11 +364,11 @@ created: 2026-05-02
 >
 > **[6:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=398)** Alright, so hopefully at this point we have a clearer understanding of how to write an effective prompt and the factories you should consider when writing them.
 >
-> **[6:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=405)** In the next chapter, we'll take a look at some specific prompt examples in Microsoft 365 apps.
+> **[6:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/prompting-dos-and-don-ts?u=76281980&t=405)** In the next chapter, we'll take a look at some specific prompt examples in [[Microsoft 365]] apps.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (25), prompt (11), next (5), [[Microsoft Word|Word]] (4), power (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (25), [[Microsoft Word|Word]] (4), [[Jetpack Compose|Compose]] (1), [[Software Development]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (3), for example (2)
 > **Cross-References:** we discussed (2), in the next (1)
@@ -386,16 +382,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
+#### [Teams](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=0)** - [Speaker] So now that we've looked at the ingredients that make up good prompts, and we've talked about do's and don'ts, in this chapter, we'll look at some practical examples of how to put good prompt writing practices into action.
 >
-> **[0:10](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=10)** And we're going to start here in Microsoft Teams.
+> **[0:10](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=10)** And we're going to start here in [[Microsoft Teams]].
 >
-> **[0:13](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=13)** Co-piloting teams can help you catch up on chats, more effectively, understand what's going on in real-time during meetings, address action items for follow-up meetings and a lot more.
+> **[0:13](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=13)** Co-piloting teams can help you catch up on chats, more effectively, understand what's going on in [[Real-Time]] during meetings, address action items for follow-up meetings and a lot more.
 >
 > **[0:23](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=23)** And, of course, the better your prompts are, the better the results you get will be.
 >
@@ -405,7 +400,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=38)** Now, I could come down here into the prompt area and type something simple like summarize this meeting for me.
 >
-> **[0:50](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=50)** And after a moment, copilot provides this summary of the meeting.
+> **[0:50](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=50)** And after a moment, [[Microsoft Copilot|copilot]] provides this summary of the meeting.
 >
 > **[0:53](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/teams?u=76281980&t=53)** And this is a good way to get sort of a broad overview of what was discussed.
 >
@@ -453,7 +448,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), teams (5), [[Microsoft Copilot|Copilot]] (5), [[Microsoft Teams]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (5), [[Microsoft Teams]] (1), [[Real-Time]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
@@ -461,12 +456,11 @@ created: 2026-05-02
 > **Speakers:** - [speaker] (1)
 > **Non-Speech:** (typing loudly) (1)
 
-#### Word
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980)
+#### [Word](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=0)** - [Instructor] Copilot in Word is a fantastic assistant to have on hand in so many scenarios.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft Word|Word]] is a fantastic assistant to have on hand in so many scenarios.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=5)** Maybe you've taken notes, and you need to convert them into coherent sentences and paragraphs to share with others.
 >
@@ -482,7 +476,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=110)** and let's start off this prompt with, "Please write a cover letter for a sales job "at Landon Hotels," so there's our goal and context: write a cover letter with Landon Hotels, and we included a please, because, as we discussed earlier, politeness in prompts can generate more positive and professional responses.
 >
-> **[2:11](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=131)** Next, I'll say, "Mention that I have been a sales manager at Microsoft "for the past seven years "with a focus on service industry customers, "and I've consistently been in the top 5% "of performers on our team, "and our team has increased overall sales by 12% "in the past two years," so there I'm providing some specific information for Copilot to use as a source to generate this letter, and now let's end this prompt with the expectation or guidance of how this letter should be written.
+> **[2:11](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=131)** Next, I'll say, "Mention that I have been a sales manager at [[Microsoft]] "for the past seven years "with a focus on service industry customers, "and I've consistently been in the top 5% "of performers on our team, "and our team has increased overall sales by 12% "in the past two years," so there I'm providing some specific information for Copilot to use as a source to generate this letter, and now let's end this prompt with the expectation or guidance of how this letter should be written.
 >
 > **[2:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=158)** I'll say, "Keep the tone friendly and professional.
 >
@@ -528,25 +522,24 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=353)** Clicking on a citation takes us to that part of the document so we can see the information in context, but with a summary, we now have a great overview of what this document contains, all from a very basic prompt, and the summary will probably give us plenty of ideas of what to ask next to figure out what's important to us here at the moment, so maybe I'm interested in learning more about what makes some of the hotel locations special or unique in relation to the neighborhoods that they're in, so let's try a prompt of, "Tell me more about the San Francisco and London locations, "focusing specifically on any unique ways "in which they fit into their surrounding neighborhoods," so again, following good prompt-writing practices, I'm providing what cities I want to know about as well as what information I specifically require.
 >
-> **[6:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=398)** We'll send that prompt, and now we have that information again with citations leading us to those points in the document where we can read the details in context, so you can imagine how we could just continue like this to familiarize ourselves and zoom in on the details of any aspect of the document, all by keeping things conversational with Copilot as we continue exploring the document.
+> **[6:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=398)** We'll send that prompt, and now we have that information again with citations leading us to those points in the document where we can read the details in context, so you can imagine how we could just continue like this to familiarize ourselves and [[Zoom]] in on the details of any aspect of the document, all by keeping things conversational with Copilot as we continue exploring the document.
 >
-> **[7:02](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=422)** For another look at using Copilot in Microsoft Word, be sure to check out my course called "[[Copilot in Word- Create and Refine Documents with AI]]."
+> **[7:02](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/word?u=76281980&t=422)** For another look at using Copilot in [[Microsoft Word]], be sure to check out my course called "[[Copilot in Word- Create and Refine Documents with AI]]."
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (20), [[Microsoft Copilot|Copilot]] (19), [[Microsoft Word|Word]] (3), next (2), generic (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (19), [[Microsoft Word|Word]] (3), [[Microsoft]] (1), [[Zoom]] (1), [[Microsoft Word]] (1)
 > **Analogies:** imagine (2), for example (2)
 > **Cross-References:** we discussed (1), we mentioned (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Powerpoint
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980)
+#### [Powerpoint](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=0)** - [Instructor] Copilot in PowerPoint is an incredibly useful tool.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft PowerPoint|PowerPoint]] is an incredibly useful tool.
 >
 > **[0:03](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=3)** to have on hand whether you need to create a new presentation or edit or add slides to an existing presentation.
 >
@@ -580,7 +573,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=92)** For example, if I select, create a presentation from a file that opens up the Copilot panel and fills in the prompt area at the bottom with the beginning of a prompt, create a presentation from.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=105)** So like we've seen in some of the other M365 apps so far, we have the prompt area at the bottom of the pane, as well as some prompt suggestions that show up near the top.
+> **[1:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=105)** So like we've seen in some of the other [[Microsoft 365|M365]] apps so far, we have the prompt area at the bottom of the pane, as well as some prompt suggestions that show up near the top.
 >
 > **[1:54](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=114)** These suggestions will change depending on if you're working with a new presentation or an existing one.
 >
@@ -646,7 +639,7 @@ created: 2026-05-02
 >
 > **[5:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=306)** And we can continue using Copilot to add to our deck.
 >
-> **[5:09](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=309)** For example, I'll open up the Copilot panel and I'll add a prompt of, (keys clacking) add a slide on using the company SharePoint to find resources for further help with self-evaluations.
+> **[5:09](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=309)** For example, I'll open up the Copilot panel and I'll add a prompt of, (keys clacking) add a slide on using the company [[SharePoint]] to find resources for further help with self-evaluations.
 >
 > **[5:34](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/powerpoint?u=76281980&t=334)** And here's our new slide directly under the one we previously had selected.
 >
@@ -656,7 +649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), prompt (11), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365|M365]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365|M365]] (1), [[SharePoint]] (1)
 > **Exercise Files:** template (6)
 > **Analogies:** for example (3)
 > **CLI Commands:** find (1)
@@ -665,18 +658,17 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980)
+#### [Excel](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=0)** - [Instructor] Copilot in Excel can help you analyze, understand, and visualize the data in your spreadsheets.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft Excel|Excel]] can help you analyze, understand, and visualize the data in your spreadsheets.
 >
 > **[0:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=6)** With a couple of prompts, you can have Copilot identify insights you might've missed, sort and highlight your data to make it more easily comprehensible, or even generate formula suggestions.
 >
 > **[0:16](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=16)** Now, we've spent some time talking about the ingredients of a good prompt, but what if you're not sure what to even ask Copilot to do?
 >
-> **[0:22](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=22)** The Copilot panel in each of the M365 applications is a great place to have a chat with Copilot and have it provide suggestions on things you can do with the content in your document, slide deck or, in the case of Excel, spreadsheet.
+> **[0:22](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=22)** The Copilot panel in each of the [[Microsoft 365|M365]] applications is a great place to have a chat with Copilot and have it provide suggestions on things you can do with the content in your document, slide deck or, in the case of Excel, spreadsheet.
 >
 > **[0:34](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/excel?u=76281980&t=34)** So here I have this data in an Excel table, and I'm trying to figure out how to engage with it to gain insight and better understand the data, but I'm not quite sure how to do that.
 >
@@ -742,7 +734,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), data (7), [[Microsoft Excel|Excel]] (5), [[Microsoft 365|M365]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (13), [[Microsoft Excel|Excel]] (5), [[Microsoft 365|M365]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2), such as (1)
 > **Env Vars:** m365 (2)
@@ -751,12 +743,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Outlook
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980)
+#### [Outlook](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=0)** - [Instructor] Copilot in Outlook can help you do anything from compose new email messages from scratch, reply to emails you receive, or review lengthy threads that have been forwarded to you for the key takeaways.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] in [[Microsoft Outlook|Outlook]] can help you do anything from [[Jetpack Compose|compose]] new email messages from scratch, reply to emails you receive, or review lengthy threads that have been forwarded to you for the key takeaways.
 >
 > **[0:11](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=11)** And as we know by now, the way you compose your prompts are important if you want the best results.
 >
@@ -788,7 +779,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=96)** So I'll write, "Let my team know that annual reviews will once again be held in July this year, and that they should have their self reviews completed and submitted by June 15th.
 >
-> **[1:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=105)** And the tools to help them write the reviews are available on our company SharePoint."
+> **[1:45](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=105)** And the tools to help them write the reviews are available on our company [[SharePoint]]."
 >
 > **[1:49](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/outlook?u=76281980&t=109)** And we'll generate that.
 >
@@ -860,7 +851,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), prompt (8), [[Jetpack Compose|Compose]] (5), [[Microsoft Outlook|Outlook]] (2), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (18), [[Jetpack Compose|Compose]] (5), [[Microsoft Outlook|Outlook]] (2), [[SharePoint]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** for example (3)
 > **UI Navigation:** go to (1)
@@ -872,16 +863,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explore Copilot Prompt Gallery
-> [LinkedIn Learning](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)
+#### [Explore Copilot Prompt Gallery](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=0)** - [Instructor] Possibly one of the toughest parts about using Copilot is just figuring out what you can do with it.
+> **[0:00](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=0)** - [Instructor] Possibly one of the toughest parts about using [[Microsoft Copilot|Copilot]] is just figuring out what you can do with it.
 >
 > **[0:05](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=5)** We know that it can do a ton of things to help you increase both your productivity and creativity, but if you're just getting started with Copilot in certain apps, you might not know what to ask it for, or you might feel that you don't have a grasp on the range of its capabilities.
 >
-> **[0:18](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=18)** Fortunately, Microsoft has an incredible free resource called Copilot Prompt Gallery, which you can find by pointing your browser at [copilot.cloud](https://copilot.cloud).microsoft/prompts.
+> **[0:18](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=18)** Fortunately, [[Microsoft]] has an incredible free resource called Copilot Prompt Gallery, which you can find by pointing your browser at [copilot.cloud](https://copilot.cloud).microsoft/prompts.
 >
 > **[0:29](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=29)** Copilot Prompt Gallery is a comprehensive learning resource where you can build your skills and knowledge of Copilot through the collection of articles, videos, and library of ready-made prompt examples you can find here.
 >
@@ -895,7 +885,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=66)** I can click see all to see all of the app icons.
 >
-> **[1:09](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=69)** And from here, if I wanted to find some inspiration for how I can use Copilot in PowerPoint, for example, I can click its icon and that takes me to the Copilot in PowerPoint page.
+> **[1:09](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=69)** And from here, if I wanted to find some inspiration for how I can use Copilot in [[Microsoft PowerPoint|PowerPoint]], for example, I can click its icon and that takes me to the Copilot in PowerPoint page.
 >
 > **[1:20](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=80)** And I can scroll through to look at some ideas.
 >
@@ -915,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=147)** If you want to narrow things down to specific apps, click the app menu, and then select the app or apps you want to see prompt examples for.
 >
-> **[2:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=158)** So here are all the Word prompt examples, and we can further narrow down the prompts by selecting something from the tasks menu, like understand, as well as the job type menu.
+> **[2:38](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=158)** So here are all the [[Microsoft Word|Word]] prompt examples, and we can further narrow down the prompts by selecting something from the tasks menu, like understand, as well as the job type menu.
 >
 > **[2:51](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=171)** So maybe I want to see both sales and marketing prompts.
 >
@@ -943,15 +933,15 @@ created: 2026-05-02
 >
 > **[4:25](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=265)** Here are the ingredients we talked about.
 >
-> **[4:33](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=273)** Now, it's also worth mentioning that you can get to the Copilot Prompt Gallery from most of the M365 applications.
+> **[4:33](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=273)** Now, it's also worth mentioning that you can get to the Copilot Prompt Gallery from most of the [[Microsoft 365|M365]] applications.
 >
-> **[4:41](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=281)** For example, in Word in the Copilot panel, you can come down here and click view prompts, and that displays several Word-related prompts you can try, or you can click see all prompts, which brings you back into the Copilot Prompt Gallery in your web browser, and from here, you can access all the curated prompts, as well as the rest of the Copilot Prompt Gallery.
+> **[4:41](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=281)** For example, in Word in the Copilot panel, you can come down here and click view prompts, and that displays several Word-related prompts you can try, or you can click see all prompts, which brings you back into the Copilot Prompt Gallery in your web browser, and from here, you can access all the curated prompts, as well as the [[Representational State Transfer (REST)|rest]] of the Copilot Prompt Gallery.
 >
 > **[5:04](https://www.linkedin.com/learning/microsoft-copilot-the-art-of-prompt-writing-24554232/explore-copilot-prompt-gallery?u=76281980&t=304)** So be sure to spend some time here to continue increasing your skills and knowledge and to boost your productivity and creativity.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (24), [[Microsoft Copilot|Copilot]] (20), [[Microsoft Word|Word]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (20), [[Microsoft Word|Word]] (4), [[Microsoft]] (3), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365|M365]] (1)
 > **CLI Commands:** find (10), make (1)
 > **Definitions:** is a  (4)
 > **Analogies:** for example (3)

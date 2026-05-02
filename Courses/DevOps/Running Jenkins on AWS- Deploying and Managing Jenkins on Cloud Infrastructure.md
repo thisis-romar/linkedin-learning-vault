@@ -86,18 +86,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### CI/CD supercharged: Jenkins meets AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980)
+#### [CI/CD supercharged: Jenkins meets AWS](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=0)** - Jenkins is a popular automation framework that you can use to manage all types of projects, including software builds, deployments, and much more.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=0)** - [[Jenkins]] is a popular automation framework that you can use to manage all types of projects, including software builds, deployments, and much more.
 >
-> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=9)** Amazon Web Services, also known as AWS, is the leading cloud services provider and is the perfect place for running build servers and web applications.
+> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=9)** [[Amazon Web Services (AWS)|Amazon Web Services]], also known as AWS, is the leading [[Cloud Services]] provider and is the perfect place for running build servers and web applications.
 >
 > **[0:19](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=19)** Let's combine these two technologies to develop a complete CI/CD pipeline.
 >
-> **[0:23](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=23)** We'll set up a web application, commit code to a GitHub repository and configure Jenkins to build, test, and deploy the app using AWS resources.
+> **[0:23](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=23)** We'll set up a web application, commit code to a [[GitHub]] repository and configure Jenkins to build, test, and deploy the app using AWS resources.
 >
 > **[0:34](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/ci-cd-supercharged-jenkins-meets-aws?u=76281980&t=34)** Hi, I'm Michael Jenkins, a computer engineer with many years of experience using AWS and Jenkins for all kinds of projects.
 >
@@ -105,7 +104,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), aws (4), [[Automation]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Services]] (1), [[GitHub]] (1)
 > **CLI Commands:** aws (4), cd (1)
 > **Env Vars:** aws (4)
 > **Definitions:** is a  (1), known as (1)
@@ -118,14 +117,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architect the Jenkins environment on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980)
+#### [Architect the Jenkins environment on AWS](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=0)** - [Instructor] Before we get started, let's discuss the resources we'll be creating and configuring to run a Jenkins server on AWS.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=0)** - [Instructor] Before we get started, let's discuss the resources we'll be creating and configuring to run a [[Jenkins]] server on AWS.
 >
-> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=9)** At the heart of the setup is an EC2 instance running the Ubuntu Linux operating system.
+> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=9)** At the heart of the setup is an [[Amazon EC2|EC2]] instance running the [[Ubuntu]] [[Linux]] operating system.
 >
 > **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=15)** This instance will be the host for our Jenkins server.
 >
@@ -135,13 +133,13 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=35)** The server will also use an Elastic IP address to support consistent web access, even if the instance is restarted.
 >
-> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=43)** We'll also install three software components: Java Development Kit, which is needed to run Jenkins, Nginx, to act as a reverse proxy, and the Long-Term Support version of Jenkins.
+> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=43)** We'll also install three software components: [[Java]] Development Kit, which is needed to run Jenkins, Nginx, to act as a reverse proxy, and the Long-Term Support version of Jenkins.
 >
-> **[0:56](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=56)** This combination of AWS infrastructure and open-source software sets the stage for the skills we'll develop in the lessons ahead.
+> **[0:56](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/architect-the-jenkins-environment-on-aws?u=76281980&t=56)** This combination of AWS infrastructure and [[Open-Source Software]] sets the stage for the skills we'll develop in the lessons ahead.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (4), aws (2), web (2), [[Amazon EC2|Ec2]] (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[Amazon EC2|Ec2]] (1), [[Ubuntu]] (1), [[Linux]] (1), [[Java]] (1)
 > **Env Vars:** aws (2), ec2 (1), http (1)
 > **CLI Commands:** aws (2), nginx (1)
 > **Prerequisites:** setup (1), install (1)
@@ -149,16 +147,15 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an IAM role
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980)
+#### [Create an IAM role](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=0)** - [Instructor] Before we set up the Jenkins server, there are a few things we need to have in place.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=0)** - [Instructor] Before we set up the [[Jenkins]] server, there are a few things we need to have in place.
 >
 > **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=5)** The first of these is an identity and access management role.
 >
-> **[0:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=10)** IAM roles allow services like EC2 to interact with other AWS services programmatically.
+> **[0:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=10)** IAM roles allow services like [[Amazon EC2|EC2]] to interact with other AWS services programmatically.
 >
 > **[0:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role?u=76281980&t=17)** Roles are made up of permissions, defined as policies.
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), aws (6), [[Jenkins]] (5), next (3), management (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (6), [[Jenkins]] (5)
 > **Env Vars:** ec2 (6), aws (6), iam (2), ssh (1), ssm (1)
 > **CLI Commands:** aws (6), ssh (1)
 > **Definitions:** is an  (1), defined as (1)
@@ -208,12 +205,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a security group
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980)
+#### [Create a security group](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=0)** - [Instructor] Before launching our Jenkins server, we need to create a security group to control the traffic that can reach the instance.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=0)** - [Instructor] Before launching our [[Jenkins]] server, we need to create a security group to control the traffic that can reach the instance.
 >
 > **[0:08](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=8)** Security groups are associated with network interfaces and act as a firewall for our instances.
 >
@@ -227,7 +223,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=38)** Let's go to the AWS console and create a security group for our Jenkins server.
 >
-> **[0:45](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=45)** I'm logged into my AWS account and I'm viewing the EC2 dashboard.
+> **[0:45](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=45)** I'm logged into my AWS account and I'm viewing the [[Amazon EC2|EC2]] dashboard.
 >
 > **[0:49](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=49)** If you're following along, you'll want to make sure you're using an account that has all the permissions needed to work with EC2 resources.
 >
@@ -249,7 +245,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=113)** We're going to be creating two rules, so I'll select add rule two times.
 >
-> **[1:58](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=118)** This opens up forms where we can specify the details for the type of traffic we want to allow.
+> **[1:58](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=118)** This opens up [[Forms]] where we can specify the details for the type of traffic we want to allow.
 >
 > **[2:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group?u=76281980&t=124)** Fortunately, the first column, the type column makes filling out this form pretty easy.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), traffic (8), [[Jenkins]] (5), [[Amazon EC2|Ec2]] (4), aws (3)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Amazon EC2|Ec2]] (4), [[Forms]] (1)
 > **Env Vars:** ec2 (4), aws (3), http (2), https (2), vpc (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **UI Navigation:** go to (1), select the (1), dropdown (1)
@@ -290,12 +286,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Best Practices:** good practice (1)
 
-#### Create the Jenkins EC2 instance
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980)
+#### [Create the Jenkins EC2 instance](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=0)** - [Instructor] With a security group and IAM role in place, we can create the EC2 instance we'll be using for our Jenkins server.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=0)** - [Instructor] With a security group and IAM role in place, we can create the [[Amazon EC2|EC2]] instance we'll be using for our [[Jenkins]] server.
 >
 > **[0:08](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=8)** On the EC2 dashboard, start by selecting Launch instance.
 >
@@ -307,7 +302,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=24)** Next, we need to select the Amazon Machine Image or AMI.
 >
-> **[0:30](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=30)** We'll be using the latest available version of Ubuntu.
+> **[0:30](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=30)** We'll be using the latest available version of [[Ubuntu]].
 >
 > **[0:33](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=33)** With the image selected, we can choose the instance type.
 >
@@ -371,11 +366,11 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=178)** Our server is in place.
 >
-> **[3:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=180)** In the next step, we'll install Java, Nginx, and Jenkins.
+> **[3:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-jenkins-ec2-instance?u=76281980&t=180)** In the next step, we'll install [[Java]], Nginx, and Jenkins.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (7), [[Amazon EC2|Ec2]] (5), [[Security]] (4), next (3), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[Amazon EC2|Ec2]] (5), [[Ubuntu]] (1), [[Java]] (1)
 > **Env Vars:** ec2 (5), iam (2), ami (1), cpu (1), aws (1)
 > **UI Navigation:** select the (3), in the menu (1)
 > **CLI Commands:** make (1), aws (1), nginx (1)
@@ -384,14 +379,13 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Prerequisites:** install (1)
 
-#### Install Java, Jenkins, and NGINX
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980)
+#### [Install Java, Jenkins, and NGINX](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=0)** - [Instructor] Now that we have an EC2 instance up and running, we need to install the software for our Jenkins server.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=0)** - [Instructor] Now that we have an [[Amazon EC2|EC2]] instance up and running, we need to install the software for our [[Jenkins]] server.
 >
-> **[0:08](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=8)** Since Jenkins is a Java-based application, we'll need to install a Java Development Kit, or JDK.
+> **[0:08](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=8)** Since Jenkins is a [[Java]]-based application, we'll need to install a Java Development Kit, or JDK.
 >
 > **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=15)** We'll also be installing NGINX to act as a proxy for connections to our Jenkins server.
 >
@@ -409,7 +403,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=47)** This opens a tab with a shell connected to the Jenkins server.
 >
-> **[0:51](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=51)** I'll increase the browser zoom just a little bit so we can see things better.
+> **[0:51](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=51)** I'll increase the browser [[Zoom]] just a little bit so we can see things better.
 >
 > **[0:56](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/install-java-jenkins-nginx?u=76281980&t=56)** Now that we're logged in, we can switch to the root user and start installing software.
 >
@@ -457,7 +451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (12), [[Java]] (5), [[Amazon EC2|Ec2]] (2), application (1), aws (1)
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[Java]] (5), [[Amazon EC2|Ec2]] (2), [[Zoom]] (1)
 > **Env Vars:** nginx (7), ec2 (2), jdk (1), aws (1), apt (1)
 > **CLI Commands:** nginx (7), find (1), aws (1), make (1), sudo (1)
 > **Prerequisites:** install (7), configure (1)
@@ -466,12 +460,11 @@ created: 2026-05-02
 > **Tools:** terminal (2), aws console (1)
 > **UI Navigation:** switch to (1), select the (1)
 
-#### Configure NGINX
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980)
+#### [Configure NGINX](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=0)** - [Instructor] We're at a point where we have our Ubuntu server in place and Jenkins and NGINX are installed.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=0)** - [Instructor] We're at a point where we have our [[Ubuntu]] server in place and [[Jenkins]] and NGINX are installed.
 >
 > **[0:06](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=6)** You might be wondering, why do we need to install NGINX if we're setting up a Jenkins server?
 >
@@ -513,7 +506,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=145)** Now that we know why we need it, let's get NGINX configured.
 >
-> **[2:29](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=149)** I'm in my AWS account on the homepage for the Jenkins server EC2 instance.
+> **[2:29](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=149)** I'm in my AWS account on the homepage for the Jenkins server [[Amazon EC2|EC2]] instance.
 >
 > **[2:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-nginx?u=76281980&t=155)** And I also have tabs open with a connection to the Jenkins server and the exercise files for this lesson.
 >
@@ -551,7 +544,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (19), [[Security]] (3), application (2), [[Ubuntu]] (1), web application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (19), [[Ubuntu]] (1), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** nginx (17), ssl (5), https (2), http (2), aws (1)
 > **CLI Commands:** nginx (17), make (6), aws (1), find (1), systemctl (1)
 > **Prerequisites:** set up (2), install (1), before we start (1)
@@ -560,12 +553,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** terminal (1)
 
-#### Configure Jenkins
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980)
+#### [Configure Jenkins](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=0)** - [Instructor] We're at the point where we have Nginx and Jenkins installed on our Ubuntu instance.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=0)** - [Instructor] We're at the point where we have Nginx and [[Jenkins]] installed on our [[Ubuntu]] instance.
 >
 > **[0:06](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=6)** Nginx is configured as a reverse proxy so we can get to Jenkins via Port 80 on the instances public DNS name.
 >
@@ -617,11 +609,11 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=119)** After all of that configuration, we're finally logged in to our new Jenkins server.
 >
-> **[2:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=125)** Now we can move on to planning out the rest of the build environment.
+> **[2:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/configure-jenkins?u=76281980&t=125)** Now we can move on to planning out the [[Representational State Transfer (REST)|rest]] of the build environment.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (11), next (2), [[Ubuntu]] (1), dns (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (11), [[Ubuntu]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (3), dns (1)
 > **CLI Commands:** nginx (2), cat (1)
 > **Tools:** terminal (2)
@@ -630,14 +622,13 @@ created: 2026-05-02
 > **Ports:** port 80 (1)
 > **Cross-References:** go back to (1)
 
-#### Solution: Set up a Jenkins server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980)
+#### [Solution: Set up a Jenkins server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=0)** (bright electronic music)
 >
-> **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=5)** - [Instructor] This challenge focus on setting up and configuring a Jenkins server using AWS resources.
+> **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=5)** - [Instructor] This challenge focus on setting up and configuring a [[Jenkins]] server using AWS resources.
 >
 > **[0:11](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=11)** Let's review what I have in place for my solution.
 >
@@ -649,15 +640,15 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=32)** The source is set to allow access from all IPv4 addresses.
 >
-> **[0:37](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=37)** I created an EC2 instance and attached the role and security group that I created previously.
+> **[0:37](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=37)** I created an [[Amazon EC2|EC2]] instance and attached the role and security group that I created previously.
 >
-> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=43)** I used a Ubuntu machine image and a t2_micro instance type.
+> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=43)** I used a [[Ubuntu]] machine image and a t2_micro instance type.
 >
 > **[0:49](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=49)** I also created an elastic IP address and associated it with the EC2 instance.
 >
 > **[0:55](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=55)** This will allow the server to keep the same IP address across reboots.
 >
-> **[1:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=60)** Using Session Manager, I connect it to the server and installed the required software, Java, nginx, and Jenkins.
+> **[1:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=60)** Using Session Manager, I connect it to the server and installed the required software, [[Java]], nginx, and Jenkins.
 >
 > **[1:13](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-jenkins-server?u=76281980&t=73)** Then, I configured nginx to act as a proxy for the Jenkins server.
 >
@@ -667,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), [[Security]] (2), [[Amazon EC2|Ec2]] (2), aws (1), [[Ubuntu]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Amazon EC2|Ec2]] (2), [[Ubuntu]] (1), [[Java]] (1)
 > **Env Vars:** ec2 (2), aws (1), iam (1), ssm (1), http (1)
 > **CLI Commands:** nginx (3), aws (1)
 > **Speakers:** - [instructor] (1)
@@ -678,14 +669,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan the build environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980)
+#### [Plan the build environment](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=0)** - [Instructor] At this point, we have our primary Jenkins server up and running.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=0)** - [Instructor] At this point, we have our primary [[Jenkins]] server up and running.
 >
-> **[0:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=4)** Let's take a moment to plan the rest of the build environment.
+> **[0:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=4)** Let's take a moment to plan the [[Representational State Transfer (REST)|rest]] of the build environment.
 >
 > **[0:08](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=8)** We'll follow best practices for a distributed Jenkins environment by removing all executors from the Jenkins server.
 >
@@ -713,31 +703,30 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=108)** Our goal will be to set up a pipeline triggered by pushes to a code repository so that changes are deployed automatically.
 >
-> **[1:55](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=115)** Essentially, we'll be building the infrastructure for a continuous integration and continuous delivery pipeline, commonly referred to as CI/CD.
+> **[1:55](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=115)** Essentially, we'll be building the infrastructure for a [[Continuous Integration (CI)|continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] pipeline, commonly referred to as CI/CD.
 >
 > **[2:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-build-environment?u=76281980&t=125)** Let's get started.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (6), aws (6), [[Representational State Transfer (REST)|Rest]] (2), [[Security]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[Continuous Integration (CI)|Continuous integration]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **CLI Commands:** aws (6), cd (1)
 > **Env Vars:** aws (6), iam (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create an IAM role for the build server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980)
+#### [Create an IAM role for the build server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=0)** - [Instructor] As we create resources for the build server, let's start with the IAM role.
 >
-> **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=5)** You may recall, from setting up the Jenkins server, that IAM roles help manage the credentials that AWS resources need when they access other AWS resources.
+> **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=5)** You may recall, from setting up the [[Jenkins]] server, that IAM roles help manage the credentials that AWS resources need when they access other AWS resources.
 >
 > **[0:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=17)** I'm already on the IAM dashboard, so I'll select create role.
 >
-> **[0:21](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=21)** I'll leave AWS service selected for the entity type, and under use case, I'll select EC2.
+> **[0:21](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=21)** I'll leave AWS service selected for the entity type, and under use case, I'll select [[Amazon EC2|EC2]].
 >
 > **[0:29](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-an-iam-role-for-the-build-server?u=76281980&t=29)** We're setting up a build environment that will interact with the AWS Lambda Service, so the permissions we assign to this role should reflect that.
 >
@@ -755,13 +744,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2)
 > **Env Vars:** aws (5), iam (3), ec2 (2)
 > **CLI Commands:** aws (5)
 > **Speakers:** - [instructor] (1)
 
-#### Create a security group and key pair for the build server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980)
+#### [Create a security group and key pair for the build server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -769,9 +757,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=7)** Let's start with the security group.
 >
-> **[0:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=10)** From the EC2 dashboard, I'll select into security groups and then select create security group.
+> **[0:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=10)** From the [[Amazon EC2|EC2]] dashboard, I'll select into security groups and then select create security group.
 >
-> **[0:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=16)** For the name, let's use build-server, and for the description, let's enter SSH from Jenkins server.
+> **[0:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=16)** For the name, let's use build-server, and for the description, let's enter SSH from [[Jenkins]] server.
 >
 > **[0:24](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=24)** Now let's add a rule.
 >
@@ -821,7 +809,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=152)** For username, we'll enter EC2-user.
 >
-> **[2:36](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=156)** This is the username that Jenkins will use when it connects with the key and it's also the name of the default user for Amazon Linux.
+> **[2:36](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=156)** This is the username that Jenkins will use when it connects with the key and it's also the name of the default user for Amazon [[Linux]].
 >
 > **[2:44](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-security-group-and-key-pair-for-the-build-server?u=76281980&t=164)** When we create the build server, we'll be using a machine image based on Amazon Linux, so we'll enter EC2-user here to match that AMI.
 >
@@ -839,22 +827,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (11), [[Security]] (6), [[Amazon EC2|Ec2]] (4), [[Linux]] (2), traffic (1)
+> **Frameworks & Libraries:** [[Jenkins]] (11), [[Amazon EC2|Ec2]] (4), [[Linux]] (2)
 > **Env Vars:** ssh (5), ec2 (4), ed25519 (1), pem (1), ami (1)
 > **CLI Commands:** ssh (5), make (1)
 > **UI Navigation:** in the sidebar (1), go to (1), select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create the build server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980)
+#### [Create the build server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=0)** - [Instructor] At this point, we have everything in place to spin up our Build server instance, a role for accessing AWS resources, a security group for managing network access, and a key pair that Jenkins can use to connect to the Build server, so let's go ahead and create this thing.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=0)** - [Instructor] At this point, we have everything in place to spin up our Build server instance, a role for accessing AWS resources, a security group for managing network access, and a key pair that [[Jenkins]] can use to connect to the Build server, so let's go ahead and create this thing.
 >
-> **[0:18](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=18)** From the EC2 dashboard I'll select launch instance, and of course, I'll name this instance Build Server.
+> **[0:18](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=18)** From the [[Amazon EC2|EC2]] dashboard I'll select launch instance, and of course, I'll name this instance Build Server.
 >
-> **[0:26](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=26)** For the AMI I'll make sure Amazon Linux is selected.
+> **[0:26](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=26)** For the AMI I'll make sure Amazon [[Linux]] is selected.
 >
 > **[0:30](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-the-build-server?u=76281980&t=30)** For the instance type, we'll stick with T2 Micro.
 >
@@ -884,7 +871,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Security]] (2), [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2), data (2)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[Amazon EC2|Ec2]] (2), [[Linux]] (1)
 > **Env Vars:** aws (2), ec2 (2), ami (1), iam (1)
 > **CLI Commands:** aws (2), make (1)
 > **UI Navigation:** select the (3)
@@ -893,14 +880,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connect Jenkins to the build server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980)
+#### [Connect Jenkins to the build server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=0)** - [Instructor] Let's connect our Jenkins server to the build server.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=0)** - [Instructor] Let's connect our [[Jenkins]] server to the build server.
 >
-> **[0:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=4)** In this tab, I'm viewing the details for the build server EC2 instance.
+> **[0:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=4)** In this tab, I'm viewing the details for the build server [[Amazon EC2|EC2]] instance.
 >
 > **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=9)** In another tab, I'm logged into the Jenkins server.
 >
@@ -938,7 +924,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=92)** For the description, let's give details on the server, specifically, the type of OS it's running.
 >
-> **[1:39](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=99)** I'll enter Amazon Linux 2023.
+> **[1:39](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=99)** I'll enter Amazon [[Linux]] 2023.
 >
 > **[1:42](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/connect-jenkins-to-the-build-server?u=76281980&t=102)** For the number of executors, I'll set it to be four.
 >
@@ -1000,7 +986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (12), node (7), [[Amazon EC2|Ec2]] (3), dns (2), traffic (2)
+> **Frameworks & Libraries:** [[Jenkins]] (12), [[Amazon EC2|Ec2]] (3), [[Linux]] (2)
 > **CLI Commands:** node (7), aws (2), ssh (2)
 > **Env Vars:** ec2 (2), dns (2), aws (2), ssh (2)
 > **UI Navigation:** select the (3), go to (1)
@@ -1009,12 +995,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** aws console (1)
 
-#### Solution: Set up a build server
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980)
+#### [Solution: Set up a build server](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=0)** - [Instructor] This challenge focused on using AWS resources to set up and configure a Jenkins build server.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=0)** - [Instructor] This challenge focused on using AWS resources to set up and configure a [[Jenkins]] build server.
 >
 > **[0:13](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=13)** Let's review what I have in place for my solution.
 >
@@ -1038,7 +1023,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=67)** I added the username that Jenkins uses to connect along with the home directory and the key material generated by AWS.
 >
-> **[1:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=76)** With everything in place, I created the build server EC2 instance, attaching the security group and IAM role and associating the SSH key for connections.
+> **[1:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=76)** With everything in place, I created the build server [[Amazon EC2|EC2]] instance, attaching the security group and IAM role and associating the SSH key for connections.
 >
 > **[1:26](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-set-up-a-build-server?u=76281980&t=86)** The exercise files included the user data needed to configure the build server without logging in.
 >
@@ -1048,7 +1033,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (9), aws (2), [[Security]] (2), dns (2), [[Amazon EC2|Ec2]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (9), [[Amazon EC2|Ec2]] (1)
 > **Env Vars:** ssh (5), aws (2), iam (2), dns (2), ec2 (1)
 > **CLI Commands:** ssh (5), aws (2), node (1)
 > **Prerequisites:** configure (2), set up (1)
@@ -1061,12 +1046,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan the CI/CD pipeline
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980)
+#### [Plan the CI/CD pipeline](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=0)** - Continuous integration and continuous delivery are two software engineering approaches that let development teams produce software efficiently.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=0)** - [[Continuous Integration (CI)|Continuous integration]] and [[Continuous Delivery (CD)|continuous delivery]] are two software engineering approaches that let development teams produce software efficiently.
 >
 > **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=9)** With continuous integration, developers work on their code in a local environment and commit their changes to a shared repository on a regular basis.
 >
@@ -1078,7 +1062,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=42)** Continuous delivery enables developers to build and release their software quickly and repeatedly.
 >
-> **[0:48](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=48)** By automating the build process, developers can trigger builds from webhooks, and using automation framework like Jenkins to build and deploy code to different environments.
+> **[0:48](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=48)** By automating the build process, developers can trigger builds from webhooks, and using automation framework like [[Jenkins]] to build and deploy code to different environments.
 >
 > **[0:58](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=58)** Let's discuss how our current build environment will fit into a basic CI/CD pipeline.
 >
@@ -1086,7 +1070,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=67)** In that case, that might be you.
 >
-> **[1:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=70)** You'll work on your code in a local environment and commit the changes to GitHub.
+> **[1:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=70)** You'll work on your code in a local environment and commit the changes to [[GitHub]].
 >
 > **[1:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=75)** GitHub will be used to track changes and trigger any upstream automation via webhooks.
 >
@@ -1102,11 +1086,11 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=121)** This process is repeated until the application is shipped to production, and even then, is still used to deploy updates and new features.
 >
-> **[2:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=130)** With this blueprint, let's build out the rest of our CI/CD pipeline.
+> **[2:10](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/plan-the-ci-cd-pipeline?u=76281980&t=130)** With this blueprint, let's build out the [[Representational State Transfer (REST)|rest]] of our CI/CD pipeline.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Jenkins]] (3), ci (3)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (3), [[Jenkins]] (3), [[GitHub]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** cd (3), aws (2), find (1)
 > **Env Vars:** aws (2)
 > **Tools:** github (2)
@@ -1114,8 +1098,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - continuous (1)
 
-#### What's a webhook?
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980)
+#### [What's a webhook?](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,9 +1114,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=27)** Once the order is ready for delivery, a courier notifies the recipient by ringing the doorbell or knocking on the door, and then delivers the package.
 >
-> **[0:37](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=37)** In our case, we'll be creating events by pushing code to a GitHub repository.
+> **[0:37](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=37)** In our case, we'll be creating events by pushing code to a [[GitHub]] repository.
 >
-> **[0:44](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=44)** GitHub will store the code and then notify Jenkins that new code has been committed to the repository and is ready to be deployed.
+> **[0:44](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=44)** GitHub will store the code and then notify [[Jenkins]] that new code has been committed to the repository and is ready to be deployed.
 >
 > **[0:52](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/what-s-a-webhook?u=76281980&t=52)** The notification gets sent via an HTTP post to the webhook endpoint that Jenkins uses to receive these notifications.
 >
@@ -1147,20 +1130,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (4), [[GitHub]] (3), web (2), data (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[GitHub]] (3)
 > **Tools:** github (3)
 > **Env Vars:** http (2)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Create and test a webhook with GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980)
+#### [Create and test a webhook with GitHub](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=0)** - [Instructor] To test our webhook, we need to have a repository where our code is stored, and a job that will be triggered when code is pushed to that repository.
 >
-> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=9)** I have two tabs open, one with GitHub and the other with Jenkins.
+> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=9)** I have two tabs open, one with [[GitHub]] and the other with [[Jenkins]].
 >
 > **[0:14](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=14)** I've created a public repo with nothing more than a README file.
 >
@@ -1178,7 +1160,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=52)** I'll enter a brief description.
 >
-> **[0:55](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=55)** Now, I'll scroll down to the Source Code Management section and select Git.
+> **[0:55](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=55)** Now, I'll scroll down to the Source Code Management section and select [[Git]].
 >
 > **[1:01](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=61)** In this section, I need to add the URL for the repo, so I'll paste it in here.
 >
@@ -1230,11 +1212,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=185)** If you run into any problems with your webhooks, check this URL setting to make sure it's configured properly.
 >
-> **[3:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=192)** For the content type, select application/json.
+> **[3:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=192)** For the content type, select application/[[JSON]].
 >
 > **[3:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=196)** This will configure GitHub to send a JSON payload along with a push to the webhook.
 >
-> **[3:22](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=202)** We'll leave the rest of the settings as is and select Add webhook.
+> **[3:22](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=202)** We'll leave the [[Representational State Transfer (REST)|rest]] of the settings as is and select Add webhook.
 >
 > **[3:27](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-a-webhook-with-github?u=76281980&t=207)** And if I refresh the page, there's a confirmation that the webhook is working as intended.
 >
@@ -1270,7 +1252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (11), [[Jenkins]] (11), next (4), [[Git]] (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[GitHub]] (11), [[Jenkins]] (11), [[Git]] (2), [[JSON]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (11), readme (5), https (1), json (1)
 > **Tools:** github (11)
 > **CLI Commands:** make (3), git (2)
@@ -1279,12 +1261,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (1), github repo (1)
 > **Prerequisites:** configure (2)
 
-#### Solution: Connect Jenkins to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980)
+#### [Solution: Connect Jenkins to GitHub](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=0)** - [Narrator] This challenge introduces us to webhooks, and how we can use a push to a Git repository to trigger jobs in Jenkins.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=0)** - [Narrator] This challenge introduces us to webhooks, and how we can use a push to a [[Git]] repository to trigger jobs in [[Jenkins]].
 >
 > **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=15)** I started with the Git repo, specifically creating a public repository containing a README file.
 >
@@ -1292,7 +1273,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=35)** With that secured, I created a freestyle job in Jenkins.
 >
-> **[0:40](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=40)** I named the job webhook-test to match the name of the GitHub repo, and I started configuring the job in Source Code Management.
+> **[0:40](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=40)** I named the job webhook-test to match the name of the [[GitHub]] repo, and I started configuring the job in Source Code Management.
 >
 > **[0:50](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=50)** I selected the Git option and added the URL for the repo.
 >
@@ -1316,7 +1297,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=107)** Just putting the Jenkins URL here won't work.
 >
-> **[1:51](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=111)** I also selected application/json as the payload type.
+> **[1:51](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=111)** I also selected application/[[JSON]] as the payload type.
 >
 > **[1:56](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-connect-jenkins-to-github?u=76281980&t=116)** With the repo in place, the job squared away, and the webhook set up, I was able to test everything out.
 >
@@ -1328,7 +1309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (5), [[Git]] (3), management (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (5), [[Git]] (3), [[JSON]] (1)
 > **Env Vars:** url (7), readme (2), https (1)
 > **Tools:** github (6)
 > **CLI Commands:** git (3)
@@ -1337,24 +1318,23 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Create and test webhooks with other services
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980)
+#### [Create and test webhooks with other services](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=0)** - [Instructor] The GitHub plugin is one of the default plugins that gets installed during the Jenkins setup process.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=0)** - [Instructor] The [[GitHub]] plugin is one of the default plugins that gets installed during the [[Jenkins]] setup process.
 >
 > **[0:07](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=7)** This plugin provides the functionality that we can tap into for creating webhooks between Jenkins and GitHub.
 >
 > **[0:14](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=14)** Even though this course focuses on using Jenkins with GitHub, Jenkins isn't limited to GitHub alone.
 >
-> **[0:22](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=22)** Other plugins allow Jenkins to integrate with additional version control services, like GitLab and Bitbucket, among others.
+> **[0:22](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=22)** Other plugins allow Jenkins to integrate with additional [[Version Control]] services, like GitLab and [[Bitbucket]], among others.
 >
 > **[0:31](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-and-test-webhooks-with-other-services?u=76281980&t=31)** Take a look at the next set of exercise files to see how specific plugins can be installed to allow webhooks from GitLab and Bitbucket, just like we've done with GitHub.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (5), [[Bitbucket]] (2), [[Version Control]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Jenkins]] (5), [[Bitbucket]] (2), [[Version Control]] (1)
 > **Tools:** github (5), gitlab (2), bitbucket (2)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** just like (1)
@@ -1366,8 +1346,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Initialize the deployment target in AWS Lambda
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980)
+#### [Initialize the deployment target in AWS Lambda](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1385,7 +1364,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=29)** And CloudFormation builds it for you.
 >
-> **[0:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=32)** In this lesson, we'll use CloudFormation to initialize the Lambda function we'll be using with GitHub and Jenkins.
+> **[0:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=32)** In this lesson, we'll use CloudFormation to initialize the Lambda function we'll be using with [[GitHub]] and [[Jenkins]].
 >
 > **[0:40](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=40)** I'm viewing the Exercise Files for this lesson, specifically the CloudFormation template that defines the Lambda function resources.
 >
@@ -1403,7 +1382,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=73)** The name for the stack has to be unique for the region it's deployed in.
 >
-> **[1:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=77)** I'll name this stack python-api.
+> **[1:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=77)** I'll name this stack [[Python (Programming Language)|python]]-api.
 >
 > **[1:20](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/initialize-the-deployment-target-in-aws-lambda?u=76281980&t=80)** This stack doesn't have any parameters, so I'll select Next.
 >
@@ -1433,7 +1412,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), next (5), [[Jenkins]] (2), ci (1), cd (1)
+> **Frameworks & Libraries:** [[Jenkins]] (2), [[GitHub]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** aws (5), url (3), iam (1)
 > **CLI Commands:** aws (5), cd (1), python (1), make (1)
 > **Exercise Files:** template (5), exercise files (1)
@@ -1442,14 +1421,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Prerequisites:** configure (1)
 
-#### Create a GitHub repository for the application code
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980)
+#### [Create a GitHub repository for the application code](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=0)** - [Instructor] I'm logged into my GitHub account, and I'm viewing [github.com/new](https://github.com/new) to create a repo for the application code.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=0)** - [Instructor] I'm logged into my [[GitHub]] account, and I'm viewing [github.com/new](https://github.com/new) to create a repo for the application code.
 >
-> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=9)** Let's call this repository python-api to match the name of our Lambda function web application.
+> **[0:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=9)** Let's call this repository [[Python (Programming Language)|python]]-api to match the name of our Lambda function web application.
 >
 > **[0:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=17)** And let's also add a simple description.
 >
@@ -1475,11 +1453,11 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=54)** Great, now that the code is in GitHub, we're one step closer to completing our pipeline.
 >
-> **[1:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=60)** Let's move on to creating the deployment job in Jenkins.
+> **[1:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-github-repository-for-the-application-code?u=76281980&t=60)** Let's move on to creating the deployment job in [[Jenkins]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), application (1), api (1), web application (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Python (Programming Language)|Python]] (2), [[Jenkins]] (1)
 > **Tools:** github (3)
 > **CLI Commands:** python (2)
 > **URLs:** [github.com](https://github.com) (1)
@@ -1487,12 +1465,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a freestyle job to deploy code from GitHub, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980)
+#### [Create a freestyle job to deploy code from GitHub, part 1](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=0)** - [Instructor] Now that we have the web app deployed in AWS Lambda and a GitHub repository with a code for the application, we need to configure a Jenkins job that deploys the application whenever a change is pushed to the repo.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=0)** - [Instructor] Now that we have the web app deployed in AWS Lambda and a [[GitHub]] repository with a code for the application, we need to configure a [[Jenkins]] job that deploys the application whenever a change is pushed to the repo.
 >
 > **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=15)** I'm starting in GitHub to get the URL for our repo, I'll select code and then HTTPS.
 >
@@ -1502,7 +1479,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=29)** In the Jenkins tab, I'll select new item.
 >
-> **[0:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=32)** For the job name let's stick with the same name we use for the application and the repo, python-api.
+> **[0:32](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=32)** For the job name let's stick with the same name we use for the application and the repo, [[Python (Programming Language)|python]]-api.
 >
 > **[0:40](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=40)** We'll be using a freestyle project, so I'll select that and then select OK.
 >
@@ -1518,7 +1495,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=72)** Now let's move on to source code management.
 >
-> **[1:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=75)** Under source code management, I'll select Git.
+> **[1:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=75)** Under source code management, I'll select [[Git]].
 >
 > **[1:18](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=78)** Fr the repository URL, I'll paste in the repo URL.
 >
@@ -1548,7 +1525,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=153)** It has to be there.
 >
-> **[2:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=155)** Now I'll select application JSON for the content type.
+> **[2:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=155)** Now I'll select application [[JSON]] for the content type.
 >
 > **[2:39](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-1?u=76281980&t=159)** And finally, I'll add this webhook and I'll refresh this page just to get the confirmation that the webhook is added correctly.
 >
@@ -1560,7 +1537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), application (5), aws (2), management (2)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), [[Python (Programming Language)|Python]] (1), [[Git]] (1), [[JSON]] (1)
 > **Env Vars:** url (7), aws (2), https (1), json (1)
 > **Tools:** github (6)
 > **CLI Commands:** aws (2), python (1), make (1), git (1)
@@ -1569,12 +1546,11 @@ created: 2026-05-02
 > **Exercise Files:** source code (2)
 > **Prerequisites:** configure (2)
 
-#### Create a freestyle job to deploy code from GitHub, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980)
+#### [Create a freestyle job to deploy code from GitHub, part 2](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=0)** - [Instructor] I'm in Jenkins, editing the Python API deployment job.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=0)** - [Instructor] I'm in [[Jenkins]], editing the [[Python (Programming Language)|Python]] API deployment job.
 >
 > **[0:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=5)** I also have browser tabs with the exercise files for this lesson and the outputs from the cloud formation stack.
 >
@@ -1636,13 +1612,13 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=162)** The API is up and ready to go.
 >
-> **[2:45](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=165)** Now let's take our deployment to the next level by pushing a change from GitHub.
+> **[2:45](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=165)** Now let's take our deployment to the next level by pushing a change from [[GitHub]].
 >
 > **[2:50](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/create-a-freestyle-job-to-deploy-code-from-github-part-2?u=76281980&t=170)** We'll do that in the next lesson.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (5), api (4), application (4), [[Python (Programming Language)|Python]] (3), cloud (3)
+> **Frameworks & Libraries:** [[Jenkins]] (5), [[Python (Programming Language)|Python]] (3), [[GitHub]] (1)
 > **CLI Commands:** python (3), make (3), aws (1), find (1)
 > **Env Vars:** api (3), url (2), aws (1)
 > **Cross-References:** in the last (1), in the next (1)
@@ -1651,16 +1627,15 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deploy to AWS Lambda from GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980)
+#### [Deploy to AWS Lambda from GitHub](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=0)** - [Instructor] This is the moment we've been working toward: making a code change that triggers a Jenkins job and seeing that change deployed to the web application running in AWS Lambda.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=0)** - [Instructor] This is the moment we've been working toward: making a code change that triggers a [[Jenkins]] job and seeing that change deployed to the web application running in AWS Lambda.
 >
 > **[0:13](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=13)** Let's review all of the resources we have in place.
 >
-> **[0:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=16)** We have a GitHub repository with our code.
+> **[0:16](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=16)** We have a [[GitHub]] repository with our code.
 >
 > **[0:20](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=20)** We have a Jenkins job that will be triggered by a webhook from GitHub, and we have our application running in AWS Lambda.
 >
@@ -1670,7 +1645,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=40)** In the repository, let's make a change that will be immediately visible so that we can quickly confirm that the change was applied.
 >
-> **[0:48](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=48)** The HTML for the homepage is a good place to start.
+> **[0:48](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=48)** The [[HTML]] for the homepage is a good place to start.
 >
 > **[0:52](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/deploy-to-aws-lambda-from-github?u=76281980&t=52)** We can edit this file in the browser by selecting the pencil icon.
 >
@@ -1708,7 +1683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (7), [[GitHub]] (4), application (4), aws (2), web application (1)
+> **Frameworks & Libraries:** [[Jenkins]] (7), [[GitHub]] (4), [[HTML]] (1)
 > **CLI Commands:** aws (2), make (2)
 > **Env Vars:** aws (2), html (1), api (1)
 > **Tools:** github (4)
@@ -1716,14 +1691,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Deploy to AWS Lambda from GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980)
+#### [Solution: Deploy to AWS Lambda from GitHub](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=0)** - [Instructor] This is the challenge that brings everything together and applies all the skills and technologies we've studied in this course.
 >
-> **[0:14](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=14)** The goal is to set up and exercise the complete CICD workflow that takes code from GitHub through Jenkins and updates a web application running in AWS Lambda.
+> **[0:14](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=14)** The goal is to set up and exercise the complete CICD workflow that takes code from [[GitHub]] through [[Jenkins]] and updates a web application running in AWS Lambda.
 >
 > **[0:25](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=25)** Let's review.
 >
@@ -1731,7 +1705,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=36)** The stack also provided the details I needed to configure the deployment scripts in Jenkins.
 >
-> **[0:42](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=42)** Then I created a GitHub repo and added the provided code for the Python API.
+> **[0:42](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=42)** Then I created a GitHub repo and added the provided code for the [[Python (Programming Language)|Python]] API.
 >
 > **[0:49](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=49)** Jenkins needs to know the URL for the repo to check out the code, so I gathered that piece of information by selecting Code, then the HTTPS tab, and then the clipboard icon.
 >
@@ -1743,7 +1717,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=77)** Next up was source code management.
 >
-> **[1:20](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=80)** I selected Git and added the URL for the repo.
+> **[1:20](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=80)** I selected [[Git]] and added the URL for the repo.
 >
 > **[1:24](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-deploy-to-aws-lambda-from-github?u=76281980&t=84)** I also had to change the branch specifier from master to main so that the correct branch was checked out by the job.
 >
@@ -1779,7 +1753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), application (5), aws (3), next (3)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Jenkins]] (6), [[Python (Programming Language)|Python]] (1), [[Git]] (1)
 > **Env Vars:** aws (3), url (3), cicd (1), api (1), https (1)
 > **CLI Commands:** aws (3), make (2), python (1), git (1)
 > **Tools:** github (6)
@@ -1793,8 +1767,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Decomission AWS resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980)
+#### [Decomission AWS resources](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1810,17 +1783,16 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980&t=27)** Then, remove the build server, its security group, SSH key, and IAM role.
 >
-> **[0:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980&t=35)** Finally, remove the Jenkins server along with its elastic IP address, security group, and IAM role.
+> **[0:35](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/decomission-aws-resources?u=76281980&t=35)** Finally, remove the [[Jenkins]] server along with its elastic IP address, security group, and IAM role.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (2), [[Security]] (2), cloud (1), [[Jenkins]] (1)
+> **Frameworks & Libraries:** [[Jenkins]] (1)
 > **Env Vars:** aws (2), iam (2), ssh (1)
 > **CLI Commands:** aws (2), ssh (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Decommission AWS resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980)
+#### [Solution: Decommission AWS resources](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1838,7 +1810,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=41)** Okay, the stack is deleted.
 >
-> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=43)** Let's move on to the EC2 instances.
+> **[0:43](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=43)** Let's move on to the [[Amazon EC2|EC2]] instances.
 >
 > **[0:47](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=47)** On the EC2 dashboard, I'll select Instances.
 >
@@ -1866,7 +1838,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=125)** On the menu, I'll select Security Groups, and then identify the security groups I want to remove.
 >
-> **[2:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=132)** One thing we need to keep in mind is the build-server security group references the jenkins-server security group to allow SSH access.
+> **[2:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=132)** One thing we need to keep in mind is the build-server security group references the [[Jenkins]]-server security group to allow SSH access.
 >
 > **[2:21](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=141)** To avoid dependency errors, we need to delete the build-server security group first.
 >
@@ -1888,7 +1860,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=189)** Under Actions, I'll select Delete.
 >
-> **[3:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=192)** This time I have to type the word Delete with a capital D to confirm the deletion, and then I'll select Delete.
+> **[3:12](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=192)** This time I have to type the [[Microsoft Word|word]] Delete with a capital D to confirm the deletion, and then I'll select Delete.
 >
 > **[3:21](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/solution-decommission-aws-resources?u=76281980&t=201)** Okay, that takes care of all the EC2 resources.
 >
@@ -1904,7 +1876,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), [[Amazon EC2|Ec2]] (5), cloud (2), [[Jenkins]] (2), aws (1)
+> **Frameworks & Libraries:** [[Amazon EC2|Ec2]] (5), [[Jenkins]] (2), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ec2 (5), iam (3), ssh (2), aws (1), ebs (1)
 > **CLI Commands:** ssh (2), aws (1), make (1)
 > **UI Navigation:** select the (1)
@@ -1917,24 +1889,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=0)** - I hope you enjoyed this course on Jenkins and Amazon Web Services.
+> **[0:00](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=0)** - I hope you enjoyed this course on [[Jenkins]] and [[Amazon Web Services (AWS)|Amazon Web Services]].
 >
 > **[0:04](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=4)** We covered a lot of ground, including setting up build servers, configuring web hooks, and automating deployments to AWS Lambda, but we've only scratched the surface.
 >
-> **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=15)** I hope you continue exploring the many ways Jenkins and cloud services like AWS can support software development and process automation.
+> **[0:15](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=15)** I hope you continue exploring the many ways Jenkins and [[Cloud Services]] like AWS can support [[Software Development]] and process automation.
 >
-> **[0:24](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=24)** And please keep learning more about software development, Jenkins and AWS, by exploring other topics in LinkedIn Learning.
+> **[0:24](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=24)** And please keep learning more about software development, Jenkins and AWS, by exploring other topics in [[LinkedIn]] Learning.
 >
 > **[0:33](https://www.linkedin.com/learning/running-jenkins-on-aws-deploying-and-managing-jenkins-on-cloud-infrastructure/next-steps?u=76281980&t=33)** I had a great time as your instructor and I can't wait to see what you create with Jenkins and AWS.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Jenkins]] (4), aws (4), [[Software Development]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), web (1)
+> **Frameworks & Libraries:** [[Jenkins]] (4), [[Software Development]] (2), [[Amazon Web Services (AWS)|Amazon web services]] (1), [[Cloud Services]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** aws (4)
 > **Env Vars:** aws (4)
 > **Cross-References:** we covered (1)

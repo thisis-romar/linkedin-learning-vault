@@ -112,16 +112,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deliver a powerful message with a powerful presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
+#### [Deliver a powerful message with a powerful presentation](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=0)** - Today's modern presentations are about conveying a message using as few words as possible, and instead using shapes, images, and impact to convey that message effectively.
 >
-> **[0:11](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=11)** PowerPoint gives you all the tools you need to convey that message without having to be a master of design or even a graphic designer, and also give you a lesson in modern design on how to call attention to the one focal point of a slide, the message.
+> **[0:11](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=11)** [[Microsoft PowerPoint|PowerPoint]] gives you all the tools you need to convey that message without having to be a master of design or even a graphic designer, and also give you a lesson in modern design on how to call attention to the one focal point of a slide, the message.
 >
-> **[0:26](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=26)** My name is Jess Stratton, and in my LinkedIn Learning course, I'll show you how to use those PowerPoint tools in detail.
+> **[0:26](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=26)** My name is Jess Stratton, and in my [[LinkedIn]] Learning course, I'll show you how to use those PowerPoint tools in detail.
 >
 > **[0:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/deliver-a-powerful-message-with-a-powerful-presentation-26204385?u=76281980&t=32)** We'll even be using old tools, like shapes, in brand new ways.
 >
@@ -137,12 +136,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Start quickly with a theme or template
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
+#### [Start quickly with a theme or template](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980&t=0)** - [Instructor] If you want to get up and running quickly, PowerPoint comes with a very large selection of templates and design themes to get you started.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980&t=0)** - [Instructor] If you want to get up and running quickly, [[Microsoft PowerPoint|PowerPoint]] comes with a very large selection of templates and design themes to get you started.
 >
 > **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/start-quickly-with-a-theme-or-template-25896388?u=76281980&t=7)** Click file on the top left hand side of the screen and select new.
 >
@@ -204,7 +202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Microsoft PowerPoint|Powerpoint]] (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3)
 > **UI Navigation:** click on (3)
 > **Exercise Files:** template (3)
 > **Analogies:** for example (3)
@@ -212,12 +210,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create and save a new presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980)
+#### [Create and save a new presentation](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=0)** - [Instructor] When you open PowerPoint with no file open, it's going to bring you to this screen.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=0)** - [Instructor] When you open [[Microsoft PowerPoint|PowerPoint]] with no file open, it's going to bring you to this screen.
 >
 > **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=5)** It's also called Backstage View.
 >
@@ -229,11 +226,11 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=28)** You can also click Account way down on the bottom left hand side of the screen.
 >
-> **[0:33](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=33)** From here, you can make sure that you've signed into Office.
+> **[0:33](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=33)** From here, you can make sure that you've signed into [[Microsoft Office|Office]].
 >
-> **[0:36](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=36)** You can also sign out or switch accounts if you've signed in to the wrong Microsoft 365 account.
+> **[0:36](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=36)** You can also sign out or switch accounts if you've signed in to the wrong [[Microsoft 365]] account.
 >
-> **[0:43](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=43)** You'll also want to make sure that you're connected to your OneDrive or SharePoint sites.
+> **[0:43](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=43)** You'll also want to make sure that you're connected to your [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] sites.
 >
 > **[0:48](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-save-a-new-presentation-25898410?u=76281980&t=48)** If there's any additional folders that you want to connect to, you can click Add a Service, hover your mouse over Storage, and then you can choose from anything that you see here, including Dropbox for Teams, OneDrive, a OneDrive for Business account, or a shared file.
 >
@@ -315,8 +312,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add, remove, and rearrange slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
+#### [Add, remove, and rearrange slides](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +336,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980&t=50)** You'll notice that these placeholder text boxes are a little bit different.
 >
-> **[0:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980&t=57)** PowerPoint will assume that the first slide is going to be the title of your presentation and the rest of them will be content.
+> **[0:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980&t=57)** [[Microsoft PowerPoint|PowerPoint]] will assume that the first slide is going to be the title of your presentation and the [[Representational State Transfer (REST)|rest]] of them will be content.
 >
 > **[1:04](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-remove-and-rearrange-slides-25898408?u=76281980&t=64)** I'll click inside of this one and call it Slide 2.
 >
@@ -406,14 +402,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), next (2), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (3)
 > **Versions:** 2.5 (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Change the slide layout
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-layout-25896391?u=76281980)
+#### [Change the slide layout](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-layout-25896391?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -481,15 +476,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), hit (4)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (2), such as (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Change the slide color or background
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980)
+#### [Change the slide color or background](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -509,7 +502,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980&t=43)** Right now it's set to a Solid fill, which is white, but I'm going to change it to a Gradient fill.
 >
-> **[0:50](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980&t=50)** You might not be using gradient all the time, but this is a good exercise to learn how this side pane works because you'll be using it a lot in PowerPoint.
+> **[0:50](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980&t=50)** You might not be using gradient all the time, but this is a good exercise to learn how this side pane works because you'll be using it a lot in [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:59](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-the-slide-color-or-background-25899368?u=76281980&t=59)** I can choose from some presets.
 >
@@ -613,15 +606,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (4)
 > **UI Navigation:** dropdown (1), select the (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Change slides at once with slide masters
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980)
+#### [Change slides at once with slide masters](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -643,7 +635,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=56)** I'm going to change the font because it's tiresome to have to change the font every time I put a new layout into my presentation.
 >
-> **[1:04](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=64)** In PowerPoint, you can either click and drag to highlight a block of text, you can click and drag to highlight everything, or you can also just click inside and select the entire text box, and it's going to change the font properties inside the entire box.
+> **[1:04](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=64)** In [[Microsoft PowerPoint|PowerPoint]], you can either click and drag to highlight a block of text, you can click and drag to highlight everything, or you can also just click inside and select the entire text box, and it's going to change the font properties inside the entire box.
 >
 > **[1:21](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=81)** So with this box selected, I'll change to the Home ribbon tab.
 >
@@ -693,7 +685,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=199)** I want my logo to appear on the top right-hand side.
 >
-> **[3:22](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=202)** I probably won't keep this for the rest of the presentation, but I want to show you that you can do this.
+> **[3:22](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=202)** I probably won't keep this for the [[Representational State Transfer (REST)|rest]] of the presentation, but I want to show you that you can do this.
 >
 > **[3:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/change-slides-at-once-with-slide-masters-25896389?u=76281980&t=208)** So, this time I'll change to the Insert ribbon tab.
 >
@@ -735,7 +727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for example (3), picture (1)
 > **UI Navigation:** select the (1)
@@ -743,8 +735,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add your own text boxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980)
+#### [Add your own text boxes](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-your-own-text-boxes-26204390?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -852,12 +843,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Designer to create professional layouts
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-designer-to-create-professional-layouts-25899372?u=76281980)
+#### [Use Designer to create professional layouts](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-designer-to-create-professional-layouts-25899372?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-designer-to-create-professional-layouts-25899372?u=76281980&t=0)** - [Instructor] A feature that's unique to PowerPoint for Microsoft 365 users is the Designer tool.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-designer-to-create-professional-layouts-25899372?u=76281980&t=0)** - [Instructor] A feature that's unique to [[Microsoft PowerPoint|PowerPoint]] for [[Microsoft 365]] users is the Designer tool.
 >
 > **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-designer-to-create-professional-layouts-25899372?u=76281980&t=6)** If you're not a graphic designer or just don't feel like you have a good eye for design, but you do have a working internet connection, you can use Designer.
 >
@@ -955,7 +945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), feature (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft 365]] (1)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** find (1), make (1)
@@ -967,8 +957,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add images
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
+#### [Add images](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1012,7 +1001,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=117)** Now I'll start with online pictures.
 >
-> **[2:02](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=122)** You can type a word in and do an online search from Bing to find just the right image for your presentation.
+> **[2:02](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=122)** You can type a [[Microsoft Word|word]] in and do an online search from Bing to find just the right image for your presentation.
 >
 > **[2:08](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=128)** You can also scroll down and click on some of these available categories to get you started.
 >
@@ -1022,7 +1011,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=143)** Going back to pictures, you can also insert stock images.
 >
-> **[2:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=148)** This is a great feature of PowerPoint because not everybody is subscribed to a stock image service that usually charges on a monthly basis, but with your Microsoft 365 subscription, you can choose from a long list of beautiful stock imagery that you can use in your presentation, and these images are constantly getting updated and rotated.
+> **[2:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=148)** This is a great feature of [[Microsoft PowerPoint|PowerPoint]] because not everybody is subscribed to a stock image service that usually charges on a monthly basis, but with your [[Microsoft 365]] subscription, you can choose from a long list of beautiful stock imagery that you can use in your presentation, and these images are constantly getting updated and rotated.
 >
 > **[2:50](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-images-25897381?u=76281980&t=170)** In fact, you can search on something specific such as a cat or a desk, but if you're not sure what type of imagery to convey your message, you can also search for concepts or ideas.
 >
@@ -1098,7 +1087,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (1), feature (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Word|Word]] (1), [[Microsoft 365]] (1)
 > **Analogies:** for example (6), such as (4), picture (4)
 > **UI Navigation:** click on (3), scroll down (2), drag and drop (1)
 > **CLI Commands:** find (2), make (1), cat (1)
@@ -1107,8 +1096,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980)
+#### [Work with shapes](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/work-with-shapes-26204387?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1218,7 +1206,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **CLI Commands:** make (7), find (1)
 > **Analogies:** picture (3), for example (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -1226,12 +1213,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format and add effects to objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980)
+#### [Format and add effects to objects](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=0)** - [Instructor] In PowerPoint, anything is an object, an image, a shape, even text, and you can format all of that.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=0)** - [Instructor] In [[Microsoft PowerPoint|PowerPoint]], anything is an object, an image, a shape, even text, and you can format all of that.
 >
 > **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=7)** Let's look at this text inside the text box.
 >
@@ -1241,7 +1227,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=18)** You can format the text box itself using tools like shape fill, outline, and you even have your presets, but you can also format the text.
 >
-> **[0:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=28)** You can add things like word art, and you can transform the text by going to the home tab and using any of these basic font properties also.
+> **[0:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=28)** You can add things like [[Microsoft Word|word]] art, and you can transform the text by going to the home tab and using any of these basic font properties also.
 >
 > **[0:38](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/format-and-add-effects-to-objects-25898404?u=76281980&t=38)** I'm going to create a new blank slide.
 >
@@ -1374,8 +1360,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Align objects using the Arrange tool
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980)
+#### [Align objects using the Arrange tool](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1387,7 +1372,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980&t=17)** It's a technique that's called chunking.
 >
-> **[0:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980&t=19)** And another reason I chose this example is to show you that these icons are built right into PowerPoint.
+> **[0:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980&t=19)** And another reason I chose this example is to show you that these icons are built right into [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:25](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/align-objects-using-the-arrange-tool-26201385?u=76281980&t=25)** You don't even need your own graphics, so I'll show you what you can do with them.
 >
@@ -1459,15 +1444,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand object layering
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/understand-object-layering-25898405?u=76281980)
+#### [Understand object layering](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/understand-object-layering-25898405?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1515,19 +1499,18 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/understand-object-layering-25898405?u=76281980&t=130)** I'll also change the outline. That looks great.
 >
-> **[2:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/understand-object-layering-25898405?u=76281980&t=135)** And again, these are all tools that come with PowerPoint.
+> **[2:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/understand-object-layering-25898405?u=76281980&t=135)** And again, these are all tools that come with [[Microsoft PowerPoint|PowerPoint]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1)
 > **Warnings:** gotcha (1)
 > **Prerequisites:** make sure you have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Group objects and use Format Painter
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980)
+#### [Group objects and use Format Painter](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1535,7 +1518,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980&t=5)** I can save some time and only change one of these, and then use a tool called Format Painter.
 >
-> **[0:10](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980&t=10)** And with that tool, I can broadcast those changes to the rest of these objects.
+> **[0:10](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980&t=10)** And with that tool, I can broadcast those changes to the [[Representational State Transfer (REST)|rest]] of these objects.
 >
 > **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-objects-and-use-format-painter-25898407?u=76281980&t=15)** I'll start by clicking on my icon and in the Graphics Format tab that appears, I can make some changes.
 >
@@ -1607,20 +1590,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (3), select the (2)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Remove the background from pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980)
+#### [Remove the background from pictures](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=0)** - [Narrator] I've inserted a fairly large picture on this slide, and while I like it, I would love to have just the person and not this busy picture frame in the background.
 >
-> **[0:09](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=9)** PowerPoint comes with a tool to allow us to remove the frame from the picture.
+> **[0:09](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=9)** [[Microsoft PowerPoint|PowerPoint]] comes with a tool to allow us to remove the frame from the picture.
 >
 > **[0:13](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=13)** It's called the Background Removal tool.
 >
@@ -1662,7 +1644,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=98)** I'll select Mark Areas to Remove.
 >
-> **[1:42](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=102)** I'll draw a line down this frame and PowerPoint can do the rest.
+> **[1:42](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=102)** I'll draw a line down this frame and PowerPoint can do the [[Representational State Transfer (REST)|rest]].
 >
 > **[1:50](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/remove-the-background-from-pictures-25896390?u=76281980&t=110)** Perfect.
 >
@@ -1687,8 +1669,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [narrator] (1)
 
-#### Group shapes together
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-shapes-together-25897382?u=76281980)
+#### [Group shapes together](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/group-shapes-together-25897382?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1754,8 +1735,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [narrator] (1)
 
-#### Crop images to shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980)
+#### [Crop images to shapes](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1813,7 +1793,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980&t=143)** Now I can click and drag from all sides on these black bars to set the image exactly how I want it.
 >
-> **[2:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980&t=152)** In fact, I can even click to expand the photo within the zoom range.
+> **[2:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980&t=152)** In fact, I can even click to expand the photo within the [[Zoom]] range.
 >
 > **[2:37](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/crop-images-to-shapes-26201380?u=76281980&t=157)** When I'm done, I'll click the crop button again and my image has been cropped.
 >
@@ -1834,14 +1814,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create and format charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
+#### [Create and format charts](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=0)** - [Narrator] If you are doing a business presentation, it's hard to get away without doing any charts, but you can create those right in PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=0)** - [Narrator] If you are doing a business presentation, it's hard to get away without doing any charts, but you can create those right in [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=7)** You can also import one that you already have from Excel.
+> **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=7)** You can also import one that you already have from [[Microsoft Excel|Excel]].
 >
 > **[0:10](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=10)** Let's do both so that you can see how they work.
 >
@@ -1907,7 +1886,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=193)** Depending on the size of the Excel file, it could vastly inflate the size of my PowerPoint.
 >
-> **[3:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=199)** It could also impose a security risk if there's confidential data in that Excel file.
+> **[3:19](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=199)** It could also impose a [[Security Risk]] if there's confidential data in that Excel file.
 >
 > **[3:24](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=204)** If I'm sharing this presentation out with other people or collaborating on it, they'll also have the contents of that Excel file, so that's something important to keep in mind.
 >
@@ -1937,7 +1916,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=284)** I'll close out of this, but I can also hold the shift key down and resize it, make it larger or smaller, or slide it around on the page, and see I still get those guides of where I want to put it.
 >
-> **[4:59](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=299)** In fact, there's even a format tab where I can use any of the effects, word styles, and font properties like I could with any other shape or text box.
+> **[4:59](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=299)** In fact, there's even a format tab where I can use any of the effects, [[Microsoft Word|word]] styles, and font properties like I could with any other shape or text box.
 >
 > **[5:09](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-and-format-charts-26203372?u=76281980&t=309)** So those are two very different ways to embed charts in PowerPoint.
 >
@@ -1947,7 +1926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), data (9), [[Microsoft PowerPoint|Powerpoint]] (8), [[Security]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Microsoft PowerPoint|Powerpoint]] (8), [[Security Risk]] (2), [[Microsoft Word|Word]] (1)
 > **Analogies:** such as (2), for example (2), picture (2), just like (1)
 > **CLI Commands:** make (3)
 > **Definitions:** means that (2)
@@ -1956,12 +1935,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use SmartArt to create diagrams
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980)
+#### [Use SmartArt to create diagrams](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=0)** - [Instructor] PowerPoint can help you create all sorts of ways to show diagrams, flow charts.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] can help you create all sorts of ways to show diagrams, flow charts.
 >
 > **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-smartart-to-create-diagrams-25899367?u=76281980&t=5)** It can even help you add a photo to a diagram.
 >
@@ -2095,8 +2073,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add and format video
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
+#### [Add and format video](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2114,7 +2091,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980&t=22)** If I click the down arrow, I could choose online video, for example, YouTube.
 >
-> **[0:27](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980&t=27)** PowerPoint now also comes with a massive amount of stock videos that you can use directly in your presentations.
+> **[0:27](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980&t=27)** [[Microsoft PowerPoint|PowerPoint]] now also comes with a massive amount of stock videos that you can use directly in your presentations.
 >
 > **[0:34](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-format-video-25899366?u=76281980&t=34)** I'm going to choose video from this device.
 >
@@ -2186,14 +2163,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), hit (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3)
 > **Analogies:** for example (4), just like (1), similar to (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add and work with audio files
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-work-with-audio-files-25899365?u=76281980)
+#### [Add and work with audio files](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-and-work-with-audio-files-25899365?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2251,18 +2227,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add animation to objects and text
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980)
+#### [Add animation to objects and text](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=0)** - [Instructor] Animation is a great way to add a storytelling and dramatic effect to your slides.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=0)** - [Instructor] Animation is a great way to add a [[Storytelling]] and dramatic effect to your slides.
 >
 > **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=5)** Remember this slide?
 >
@@ -2330,7 +2304,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=159)** I can even animate the text.
 >
-> **[2:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=161)** In fact, I can animate the text by word or by letter, which is really fun if you're looking for a typewriter effect.
+> **[2:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=161)** In fact, I can animate the text by [[Microsoft Word|word]] or by letter, which is really fun if you're looking for a typewriter effect.
 >
 > **[2:48](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=168)** In fact, by sound, there is a typewriter sound.
 >
@@ -2376,7 +2350,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=284)** To get this to appear, I have to click my mouse or move forward with the arrow key.
 >
-> **[4:51](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=291)** Now, I can start talking about eBook sales, and then I can move on to hardware and so on.
+> **[4:51](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=291)** Now, I can start talking about eBook sales, and then I can move on to [[Hardware]] and so on.
 >
 > **[4:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-animation-to-objects-and-text-25897383?u=76281980&t=297)** So this is a great way to make sure that your audience is not distracted.
 >
@@ -2388,7 +2362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (1), next (1), [[Microsoft Word|Word]] (1), [[Hardware]] (1), hit (1)
+> **Frameworks & Libraries:** [[Storytelling]] (1), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (3)
@@ -2397,8 +2371,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Warnings:** note that (1)
 
-#### Add slide transitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-slide-transitions-26204386?u=76281980)
+#### [Add slide transitions](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-slide-transitions-26204386?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2456,17 +2429,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), hit (1)
 > **Analogies:** for example (2)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Morph to create animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980)
+#### [Use Morph to create animation](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=0)** - [Instructor] PowerPoint comes with a very special transition called Morph, which is a tool that will give your transitions an animated effect, even though it's just a basic transition.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] comes with a very special transition called Morph, which is a tool that will give your transitions an animated effect, even though it's just a basic transition.
 >
 > **[0:09](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=9)** The process works by duplicating a slide, making a change, and the morph tool will animate that change for you.
 >
@@ -2478,7 +2449,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=36)** This is also the slide that we'll apply the morph transition to.
 >
-> **[0:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=41)** Because a lot of morph will involve sliding things around a slide or moving things off of it completely and bringing things back in, I like to zoom out to give myself a nice palette to work with.
+> **[0:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=41)** Because a lot of morph will involve sliding things around a slide or moving things off of it completely and bringing things back in, I like to [[Zoom]] out to give myself a nice palette to work with.
 >
 > **[0:52](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-morph-to-create-animation-26204388?u=76281980&t=52)** So on the bottom right hand side, click the minus icon a few times and we'll get some nice gray area.
 >
@@ -2552,19 +2523,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (3), next (2), hit (2), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (3), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2)
 > **Analogies:** picture (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Zoom to create animation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980)
+#### [Use Zoom to create animation](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=0)** - [Instructor] I'm going to show you how to use a neat feature called Zoom, which will let you use one slide as a canvas and click inside thumbnails of all the other slides in your presentation so that you're presenting your entire presentation from one slide as a main canvas.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=0)** - [Instructor] I'm going to show you how to use a neat feature called [[Zoom]], which will let you use one slide as a canvas and click inside thumbnails of all the other slides in your presentation so that you're presenting your entire presentation from one slide as a main canvas.
 >
 > **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=15)** Let's use this picture.
 >
@@ -2572,7 +2542,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=22)** And as you know, there's lots of stock photos that you could use if you wanted to use this same technique.
 >
-> **[0:27](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=27)** And in fact, these look an awful lot like the stock PowerPoint icons that you can use also.
+> **[0:27](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=27)** And in fact, these look an awful lot like the stock [[Microsoft PowerPoint|PowerPoint]] icons that you can use also.
 >
 > **[0:33](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=33)** To start creating thumbnails that you can click inside, change to the Insert tab.
 >
@@ -2666,13 +2636,13 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=268)** I'll click again and I'm brought back.
 >
-> **[4:31](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=271)** If you do want to go through the rest of your presentation, you can just use the arrow keys as normal to go onto the next slide.
+> **[4:31](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=271)** If you do want to go through the [[Representational State Transfer (REST)|rest]] of your presentation, you can just use the arrow keys as normal to go onto the next slide.
 >
 > **[4:38](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-zoom-to-create-animation-25900392?u=76281980&t=278)** I'll hit the Escape key, and that is how you can use the Zoom tool to add a completely new fun way to present your slides.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Zoom]] (16), next (2), feature (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Zoom]] (16), [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6)
 > **Code Identifiers:** iphone (3)
 > **UI Navigation:** click on (2)
@@ -2681,8 +2651,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Include live webcam video with Cameo
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/include-live-webcam-video-with-cameo-26201382?u=76281980)
+#### [Include live webcam video with Cameo](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/include-live-webcam-video-with-cameo-26201382?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2782,7 +2751,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (2), next (2), hit (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (2), just like (1)
 > **Cross-References:** go back to (1)
@@ -2795,16 +2763,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Features for PowerPoint users with disabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
+#### [Features for PowerPoint users with disabilities](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=0)** - [Instructor] PowerPoint, along with all of the other products in the Microsoft 365 Suite, are built to work seamlessly with screen readers and keyboards.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]], along with all of the other [[Microsoft Products|products]] in the [[Microsoft 365]] Suite, are built to work seamlessly with screen readers and keyboards.
 >
 > **[0:09](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=9)** The easiest way how you can find out how you can use it in PowerPoint is to search the web for screen reader support in PowerPoint.
 >
-> **[0:16](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=16)** From here, you'll get to the Microsoft Support site that tells you how to use it in every version of PowerPoint, whether you're using Windows, macOS, Android, even PowerPoint on the Web.
+> **[0:16](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=16)** From here, you'll get to the [[Microsoft]] Support site that tells you how to use it in every version of PowerPoint, whether you're using [[Windows]], macOS, [[Android]], even PowerPoint on the Web.
 >
 > **[0:27](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/features-for-powerpoint-users-with-disabilities-25896392?u=76281980&t=27)** It's going to give you detailed instructions on using keyboard shortcuts, navigating PowerPoint, working with images, and even how to deliver your presentation.
 >
@@ -2830,18 +2797,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Search]] (3), web (2), [[Microsoft Products|Products]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (6), [[Microsoft Products|Products]] (1), [[Microsoft 365]] (1), [[Microsoft]] (1), [[Windows]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** find (1)
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create accessible presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-accessible-presentations-25898406?u=76281980)
+#### [Create accessible presentations](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-accessible-presentations-25898406?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-accessible-presentations-25898406?u=76281980&t=0)** - [Instructor] PowerPoint has a strong commitment to make sure we build presentations that are accessible for all.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-accessible-presentations-25898406?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] has a strong commitment to make sure we build presentations that are accessible for all.
 >
 > **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/create-accessible-presentations-25898406?u=76281980&t=6)** That said, it's okay if you don't know how to do that.
 >
@@ -2919,7 +2885,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (3), picture (2)
 > **UI Navigation:** scroll up (2), click on (1)
@@ -2932,8 +2898,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Add speaker notes
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
+#### [Add speaker notes](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2959,7 +2924,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980&t=46)** I can just move around through my presentation and add notes where I see fit.
 >
-> **[0:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980&t=57)** At any time, I can click the word Notes again and the Notes area will go away, but that doesn't mean the notes are gone.
+> **[0:57](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980&t=57)** At any time, I can click the [[Microsoft Word|word]] Notes again and the Notes area will go away, but that doesn't mean the notes are gone.
 >
 > **[1:03](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/add-speaker-notes-26202393?u=76281980&t=63)** It's just a toggle, so clicking it again will bring those notes back.
 >
@@ -2975,14 +2940,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1), [[Microsoft Word|Word]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** toggle (2), navigate to (1)
 > **CLI Commands:** make (2)
 > **Non-Speech:** (keyboard clicking) (2)
 > **Speakers:** - [instructor] (1)
 
-#### Rehearse with timings and Presenter Coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980)
+#### [Rehearse with timings and Presenter Coach](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3024,7 +2988,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980&t=112)** Presenter Coach is a tool that will listen to you as you rehearse your presentation.
 >
-> **[1:56](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980&t=116)** It's powered by Microsoft Speech Services and like the designer tool, it takes your slides, and in this case, your audio also and returns statistics and suggestions.
+> **[1:56](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980&t=116)** It's powered by [[Microsoft]] Speech Services and like the designer tool, it takes your slides, and in this case, your audio also and returns [[Statistics]] and suggestions.
 >
 > **[2:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/rehearse-with-timings-and-presenter-coach-26201381?u=76281980&t=127)** It's even going to evaluate pacing, vocal inflections, filler words like ums and ahs.
 >
@@ -3056,21 +3020,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (2), [[Microsoft]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Statistics]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** just like (1)
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Share and collaborate on a presentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980)
+#### [Share and collaborate on a presentation](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980&t=0)** - [Instructor] You can share this PowerPoint presentation with coworkers and friends so that the other person can edit it and collaborate on it with you.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980&t=0)** - [Instructor] You can share this [[Microsoft PowerPoint|PowerPoint]] presentation with coworkers and friends so that the other person can edit it and collaborate on it with you.
 >
-> **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980&t=7)** A prerequisite to make that happen is that the file has to be saved on OneDrive versus locally on your PC.
+> **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980&t=7)** A prerequisite to make that happen is that the file has to be saved on [[Microsoft OneDrive|OneDrive]] versus locally on your PC.
 >
 > **[0:13](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/share-and-collaborate-on-a-presentation-25898409?u=76281980&t=13)** If it's on OneDrive, it can be shared with someone else.
 >
@@ -3138,19 +3101,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (3)
 > **UI Navigation:** click on (3), dropdown (1), go to (1)
 > **CLI Commands:** make (3)
 > **Exercise Files:** download the (1)
 > **Prerequisites:** prerequisite (1)
 > **Speakers:** - [instructor] (1)
 
-#### View previous revisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/view-previous-revisions-25899370?u=76281980)
+#### [View previous revisions](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/view-previous-revisions-25899370?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/view-previous-revisions-25899370?u=76281980&t=0)** - [Instructor] There is a few benefits to saving your file to OneDrive.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/view-previous-revisions-25899370?u=76281980&t=0)** - [Instructor] There is a few benefits to saving your file to [[Microsoft OneDrive|OneDrive]].
 >
 > **[0:03](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/view-previous-revisions-25899370?u=76281980&t=3)** In addition to being able to share the file, you can also turn auto save on or off, so that you don't ever have to worry about losing any changes and your file will also automatically be backed up, but a really great feature is the ability to look over the revision history and pull back a previous update of the file itself.
 >
@@ -3190,7 +3152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (1)
 > **UI Navigation:** click on (1), right-click (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
@@ -3201,8 +3163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Presenter View to run the show
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
+#### [Use Presenter View to run the show](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3248,7 +3209,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980&t=108)** If I click on these three dots, I get some more choices.
 >
-> **[1:51](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980&t=111)** If I hover my mouse over the word Screen and click, I can quickly blank out the screen immediately or just show a white screen.
+> **[1:51](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980&t=111)** If I hover my mouse over the [[Microsoft Word|word]] Screen and click, I can quickly blank out the screen immediately or just show a white screen.
 >
 > **[2:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-presenter-view-to-run-the-show-26201384?u=76281980&t=120)** I can also bring the taskbar up.
 >
@@ -3316,7 +3277,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Microsoft Word|Word]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** click on (5), toggle (1), go to (1)
 > **Cross-References:** coming up (2)
 > **CLI Commands:** make (1)
@@ -3324,12 +3285,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Run unattended slideshows
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980)
+#### [Run unattended slideshows](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=0)** - [Instructor] PowerPoint is great for unattended presentations.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=0)** - [Instructor] [[Microsoft PowerPoint|PowerPoint]] is great for unattended presentations.
 >
 > **[0:03](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=3)** This is also called kiosk mode.
 >
@@ -3365,7 +3325,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=101)** The reason that I'm not going to click the Apply To All button is because I have different transitions for each slide.
 >
-> **[1:47](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=107)** For example, I know a few of them use morph and the rest of them use fade.
+> **[1:47](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=107)** For example, I know a few of them use morph and the [[Representational State Transfer (REST)|rest]] of them use fade.
 >
 > **[1:52](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/run-unattended-slideshows-25899371?u=76281980&t=112)** All we did was change how it advances, not the specific transition that it used.
 >
@@ -3393,7 +3353,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft PowerPoint|Powerpoint]] (1), business (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Prerequisites:** set up (4)
 > **Cross-References:** go back to (1), coming up (1)
 > **CLI Commands:** make (1)
@@ -3405,8 +3365,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Save a custom theme
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
+#### [Save a custom theme](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-custom-theme-26203373?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3470,14 +3429,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), hit (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Save a presentation as a template
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980)
+#### [Save a presentation as a template](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3503,7 +3460,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=54)** Let's look at this title slide.
 >
-> **[0:56](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=56)** Every presentation is going to have a unified title slide like this, but they aren't all going to be called Sales Strategy.
+> **[0:56](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=56)** Every presentation is going to have a unified title slide like this, but they aren't all going to be called [[Sales Strategy]].
 >
 > **[1:02](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=62)** This is just a content placeholder, so if I delete this text by selecting it and hitting the delete key on my keyboard, as soon as I click away from the slide with my mouse, the content placeholder remains.
 >
@@ -3527,7 +3484,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=121)** Now we have a presentation that will be fresh and ready for the next person.
 >
-> **[2:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=125)** I'll choose File, Save As, and where it says PowerPoint Presentation on the right-hand side, I'm going to click that dropdown.
+> **[2:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=125)** I'll choose File, Save As, and where it says [[Microsoft PowerPoint|PowerPoint]] Presentation on the right-hand side, I'm going to click that dropdown.
 >
 > **[2:18](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=138)** This time I'm going to save it as a PowerPoint template.
 >
@@ -3543,7 +3500,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=165)** For example, I'll click File, New, and like last time, I'll go to Custom again.
 >
-> **[2:54](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=174)** As this was a template we created, I'll click Custom Office Templates, and here's my company template.
+> **[2:54](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=174)** As this was a template we created, I'll click Custom [[Microsoft Office|Office]] Templates, and here's my company template.
 >
 > **[3:01](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/save-a-presentation-as-a-template-26204389?u=76281980&t=181)** I'll double click on it.
 >
@@ -3557,15 +3514,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Microsoft PowerPoint|Powerpoint]] (2), hit (1), [[Sales Strategy]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Sales Strategy]] (1), [[Microsoft Office|Office]] (1)
 > **Exercise Files:** template (7)
 > **UI Navigation:** dropdown (1), go to (1), click on (1)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Record a presentation with the built-in teleprompter
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980)
+#### [Record a presentation with the built-in teleprompter](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3671,7 +3627,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980&t=268)** And finally, you have two options here to export your video.
 >
-> **[4:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980&t=272)** You can save it as a show, which is going to save it as a special PowerPoint file so that when somebody clicks on it, it's going to open up in slideshow view.
+> **[4:32](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980&t=272)** You can save it as a show, which is going to save it as a special [[Microsoft PowerPoint|PowerPoint]] file so that when somebody clicks on it, it's going to open up in slideshow view.
 >
 > **[4:41](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/record-a-presentation-with-the-built-in-teleprompter-26201383?u=76281980&t=281)** It will start playing your recordings, your voice, your webcam, laser pointer, everything.
 >
@@ -3693,7 +3649,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), feature (1), hit (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** previous video (1), coming up (1), go back to (1)
 > **UI Navigation:** select the (1), toggle (1), click on (1)
 > **Analogies:** similar to (2), for example (1)
@@ -3701,8 +3657,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Export as a PDF, JPEG, or animated GIF
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980)
+#### [Export as a PDF, JPEG, or animated GIF](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3710,7 +3665,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980&t=4)** One thing is send it out as a PDF file.
 >
-> **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980&t=6)** This is useful because, this way, nobody can alter the contents if they have PowerPoint.
+> **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980&t=6)** This is useful because, this way, nobody can alter the contents if they have [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[0:12](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/export-as-a-pdf-jpeg-or-animated-gif-26203371?u=76281980&t=12)** To do that, click file, export, make sure you have create PDF selected on the left, and finally click create PDF/XPS.
 >
@@ -3802,16 +3757,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use Copilot to create and summarize presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
+#### [Use Copilot to create and summarize presentations](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=0)** - [Instructor] Copilot is an AI-powered tool to help you with everyday productivity in Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] is an AI-powered tool to help you with everyday productivity in [[Microsoft 365]].
 >
 > **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=6)** Copilot is an add-on that must be purchased from your work organization, but it's free to use if you're a personal or family Microsoft 365 subscriber.
 >
-> **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=15)** You'll know you're entitled to use Copilot and you'll know you have an in PowerPoint, if you see this colorful Copilot logo within the app.
+> **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=15)** You'll know you're entitled to use Copilot and you'll know you have an in [[Microsoft PowerPoint|PowerPoint]], if you see this colorful Copilot logo within the app.
 >
 > **[0:22](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=22)** It's here on the right hand side in PowerPoint directly above the slides, and you'll also see this icon directly next to the new slide button.
 >
@@ -3847,7 +3801,7 @@ created: 2026-05-02
 >
 > **[1:48](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=108)** I can add a new topic and I can delete any topics that I don't need by using the trash can.
 >
-> **[1:53](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=113)** I can also use these thumbs up and thumbs down button to report back to Microsoft on how Copilot did with my prompt.
+> **[1:53](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=113)** I can also use these thumbs up and thumbs down button to report back to [[Microsoft]] on how Copilot did with my prompt.
 >
 > **[2:01](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=121)** I'm going to click generate slides and it takes a few moments, but Copilot has created these slides for me with titles, sections, and images.
 >
@@ -3883,7 +3837,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=214)** Now, if I just chose create a presentation the first time around, this reference of file button is always available to me and it's going to pop up the same options, so don't worry if you don't use the first option the right time around.
 >
-> **[3:47](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=227)** This time, I'm going to reference Landon Hotel Employee manual in Word, and I'm going to have it create a presentation from this file.
+> **[3:47](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=227)** This time, I'm going to reference Landon Hotel Employee manual in [[Microsoft Word|Word]], and I'm going to have it create a presentation from this file.
 >
 > **[3:59](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-and-summarize-presentations-25899369?u=76281980&t=239)** I'll click generate slides, and here they are.
 >
@@ -3917,18 +3871,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), prompt (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365]] (2), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (21), [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft 365]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use Copilot to create slides
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980)
+#### [Use Copilot to create slides](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=0)** - [Instructor] In the last video, I showed you how Copilot can create and summarize presentations.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=0)** - [Instructor] In the last video, I showed you how [[Microsoft Copilot|Copilot]] can create and summarize presentations.
 >
 > **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=5)** This time, I'm going to show you how you can use Copilot to create and work with specific slides.
 >
@@ -3972,11 +3925,11 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=131)** Add a slide with the following text... and this is where I'm including the text specifically that I want on the slide.
 >
-> **[2:17](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=137)** "If you would like to start a community outreach program, "contact human resources to get started.
+> **[2:17](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=137)** "If you would like to start a community outreach program, "contact [[Human Resources (HR)|human resources]] to get started.
 >
 > **[2:23](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=143)** "Include a photo of a smiling corporate worker."
 >
-> **[2:26](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=146)** I've told PowerPoint exactly what I want on that slide.
+> **[2:26](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=146)** I've told [[Microsoft PowerPoint|PowerPoint]] exactly what I want on that slide.
 >
 > **[2:29](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/use-copilot-to-create-slides-25896387?u=76281980&t=149)** Let's click send and see how it does.
 >
@@ -3992,7 +3945,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), prompt (5), next (1), [[Human Resources (HR)|Human resources]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Human Resources (HR)|Human resources]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -4003,14 +3956,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Challenge: Make gears turn
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
+#### [Challenge: Make gears turn](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980&t=0)** (soft music)
 >
-> **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980&t=5)** - [Instructor] Welcome to PowerPoint Challenges.
+> **[0:05](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980&t=5)** - [Instructor] Welcome to [[Microsoft PowerPoint|PowerPoint]] Challenges.
 >
 > **[0:07](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-make-gears-turn-26201378?u=76281980&t=7)** I've just opened up a blank file here.
 >
@@ -4128,7 +4080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (1), click on (1)
 > **Non-Speech:** (soft music) (1), (upbeat music) (1)
@@ -4136,20 +4088,19 @@ created: 2026-05-02
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Give text a background image
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980)
+#### [Challenge: Give text a background image](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=0)** - [Instructor] Welcome to the next PowerPoint challenge.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=0)** - [Instructor] Welcome to the next [[Microsoft PowerPoint|PowerPoint]] challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=8)** This one is going to be some fun with typography.
+> **[0:08](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=8)** This one is going to be some fun with [[Typography]].
 >
 > **[0:11](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=11)** See this text here?
 >
 > **[0:12](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=12)** It has a picture in the background and it sums up travel.
 >
-> **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=15)** So what I want you to do is on a new slide, create a word, choose a font, set a picture behind it that represents that word.
+> **[0:15](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=15)** So what I want you to do is on a new slide, create a [[Microsoft Word|word]], choose a font, set a picture behind it that represents that word.
 >
 > **[0:24](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/challenge-give-text-a-background-image-25896386?u=76281980&t=24)** Have fun with it.
 >
@@ -4229,7 +4180,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Typography]] (2), next (1), [[Microsoft PowerPoint|Powerpoint]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[Typography]] (2), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** picture (3), for example (1)
 > **Non-Speech:** (upbeat music) (2)
@@ -4240,20 +4191,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed learning about how to make modern presentations with PowerPoint.
+> **[0:00](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980&t=0)** - [Jess] My name is Jess Stratton, and I hope you enjoyed learning about how to make modern presentations with [[Microsoft PowerPoint|PowerPoint]].
 >
-> **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980&t=6)** If you enjoyed this course, I highly recommend following it up with our courses on how to use OneDrive, Microsoft's cloud storage service, which as you now know is deeply integrated with PowerPoint.
+> **[0:06](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980&t=6)** If you enjoyed this course, I highly recommend following it up with our courses on how to use [[Microsoft OneDrive|OneDrive]], [[Microsoft]]'s [[Cloud Storage]] service, which as you now know is deeply integrated with PowerPoint.
 >
 > **[0:17](https://www.linkedin.com/learning/powerpoint-essential-training-microsoft-365-26213209/next-steps-26201379?u=76281980&t=17)** I also strongly recommend you watch Heather Ackmann's fantastic course, "PowerPoint: Designing Better Slides" in which she talks about color use, design principles, even designing for accessibility.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [jess] (1)
 

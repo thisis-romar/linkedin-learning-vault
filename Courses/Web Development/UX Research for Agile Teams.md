@@ -75,20 +75,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
+#### [Welcome](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=0)** - The [[Agile Software Development]] approach continues to grow in popularity and user experience is becoming an even more integral part of organizations of all kinds.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=0)** - The [[[[Agile Software Development]]]] approach continues to grow in popularity and [[User Experience (UX)|user experience]] is becoming an even more integral part of organizations of all kinds.
 >
 > **[0:11](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=11)** The iterative, response nature of the approach can be very conducive to integrating ongoing research, but doing so successfully can be a real challenge.
 >
-> **[0:20](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=20)** Following my advice on building a solid UX research practice will ensure that your teams make informed decisions and aid team cohesion.
+> **[0:20](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=20)** Following my advice on building a solid [[UX Research]] practice will ensure that your teams make informed decisions and aid team cohesion.
 >
-> **[0:28](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=28)** In this LinkedIn Learning course, I'll share tips and recommendations on the best ways to seamlessly integrate UX research.
+> **[0:28](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=28)** In this [[LinkedIn]] Learning course, I'll share tips and recommendations on the best ways to seamlessly integrate UX research.
 >
-> **[0:36](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=36)** I'll discuss a broad overview of the agile approach and associated practices, recommended logistics for team setup and cadence, and specific tips to alter traditional research practices to best fit an agile environment.
+> **[0:36](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=36)** I'll discuss a broad overview of the [[Agile Development|agile]] approach and associated practices, recommended logistics for team setup and cadence, and specific tips to alter traditional research practices to best fit an agile environment.
 >
 > **[0:50](https://www.linkedin.com/learning/ux-research-for-agile-teams/welcome?u=76281980&t=50)** I'm Amanda Stockwell.
 >
@@ -96,26 +95,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (3), [[Agile Development|Agile]] (2), [[Agile Software Development]] (1), [[User Experience (UX)|User experience]] (1), teams (1)
+> **Frameworks & Libraries:** [[UX Research]] (3), [[Agile Development|Agile]] (2), [[Agile Software Development]] (1), [[User Experience (UX)|User experience]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - the (1)
 
-#### What to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980)
+#### [What to know](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980&t=0)** - This course is for anyone who wants to successfully incorporate UX research in an agile environment.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980&t=0)** - This course is for anyone who wants to successfully incorporate [[UX Research]] in an [[Agile Development|agile]] environment.
 >
-> **[0:06](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980&t=6)** While this course could be useful for product managers, scrum masters, developers, designers, or other team members, I'll assume basic understanding of user experience research methods and best practices.
+> **[0:06](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980&t=6)** While this course could be useful for product managers, [[Scrum]] masters, developers, designers, or other team members, I'll assume basic understanding of [[User Experience (UX)|user experience]] research methods and best practices.
 >
 > **[0:19](https://www.linkedin.com/learning/ux-research-for-agile-teams/what-to-know?u=76281980&t=19)** I won't be getting into details of choosing methods, conducting research sessions, or specific agile methodologies, so if you need more information or a refresher, you should start by checking out the following courses.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ux (1), product (1), [[Scrum]] (1), [[User Experience (UX)|User experience]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[UX Research]] (1), [[Scrum]] (1), [[User Experience (UX)|User experience]] (1)
 > **Speakers:** - this (1)
 
 
@@ -123,12 +121,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### UX research overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
+#### [UX research overview](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980&t=0)** - User experience professionals aim to craft products and services to fit the needs of the people who will interact with what's built.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980&t=0)** - [[User Experience (UX)|User experience]] professionals aim to craft [[Microsoft Products|products]] and services to fit the needs of the people who will interact with what's built.
 >
 > **[0:08](https://www.linkedin.com/learning/ux-research-for-agile-teams/ux-research-overview?u=76281980&t=8)** Research is a fundamental part of successfully doing that, as it helps teams understand who already does or will use what they build, what those people need, and how what's built will fit into their lives.
 >
@@ -138,20 +135,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - user (1)
 
-#### Agile and scrum overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980)
+#### [Agile and scrum overview](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=0)** - Before we talk too much about incorporating research into agile practices, let's take a step back and look at agile.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=0)** - Before we talk too much about incorporating research into [[Agile Development|agile]] practices, let's take a step back and look at agile.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=7)** Agile is an approach to developing software that became popular in the early 2000s.
 >
-> **[0:12](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=12)** Traditional software development practices called for an initial period of requirements gathering and design work, then a long development stage wherein requirements cannot be adapted to new learnings.
+> **[0:12](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=12)** Traditional [[Software Development]] practices called for an initial period of [[Requirements Gathering]] and design work, then a long development stage wherein requirements cannot be adapted to new learnings.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=23)** A variety of practitioners realized that this wasn't always the most effective way to build software that people really wanted and needed, and they began experimenting with methods to craft teams to work more efficiently and flexibly.
 >
@@ -165,7 +161,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=86)** In practice, agile teams use a variety of specific frameworks to guide themselves.
 >
-> **[1:31](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=91)** The most common framework is called Scrum.
+> **[1:31](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=91)** The most common framework is called [[Scrum]].
 >
 > **[1:34](https://www.linkedin.com/learning/ux-research-for-agile-teams/agile-and-scrum-overview?u=76281980&t=94)** Many of the Scrum practices have become synonymous with agile.
 >
@@ -187,16 +183,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (8), teams (8), product (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (9), [[Agile Development|Agile]] (8), [[Software Development]] (1), [[Requirements Gathering]] (1)
 > **Definitions:** is an  (1), is called (1), means that (1)
 > **Speakers:** - before (1)
 
-#### Other frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980)
+#### [Other frameworks](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=0)** - As mentioned, Scrum isn't the only framework within agile.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=0)** - As mentioned, [[Scrum]] isn't the only framework within [[Agile Development|agile]].
 >
 > **[0:04](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=4)** Other popular frameworks are Kanban, Extreme Programming, commonly known as XP, feature-driven development, and lean development, among many others.
 >
@@ -222,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=95)** There are seven core principles and several associated practices that focus on increasing efficiency and value, removing waste, and designing the system and teams in place to maximize those efforts.
 >
-> **[1:47](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=107)** Meanwhile, the lean startup approach has gained popularity as a broader business and product development strategy.
+> **[1:47](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=107)** Meanwhile, the lean startup approach has gained popularity as a broader business and [[Product Development]] strategy.
 >
 > **[1:54](https://www.linkedin.com/learning/ux-research-for-agile-teams/other-frameworks?u=76281980&t=114)** It pulls inspiration from lean manufacturing principles as well, but also emphasizes incorporating cycles of experimentation to inform decisions and decrease the risks associated with moving into new directions.
 >
@@ -238,27 +233,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), teams (5), [[Scrum]] (4), business (2), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (8), [[Scrum]] (4), [[Product Development]] (1)
 > **Definitions:** known as (1), is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - as (1)
 
-#### Why development and business process matters to UX
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980)
+#### [Why development and business process matters to UX](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=0)** - Because Agile teams value frequent release of working code, there are no distinct stages for discovery research and requirements definition, design, development, and testing like in traditional software development approaches.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=0)** - Because [[Agile Development|Agile]] teams value frequent release of working code, there are no distinct stages for discovery research and requirements definition, design, development, and testing like in traditional [[Software Development]] approaches.
 >
-> **[0:14](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=14)** For those of us in user experience, this means that we no longer have dedicated time upfront to thoroughly explore users or perform extensive discovery research, and we'll often be figuring out the specifics of the design just in time for the development to begin.
+> **[0:14](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=14)** For those of us in [[User Experience (UX)|user experience]], this means that we no longer have dedicated time upfront to thoroughly explore users or perform extensive discovery research, and we'll often be figuring out the specifics of the design just in time for the development to begin.
 >
-> **[0:29](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=29)** This means we need to adjust our traditional methods to fit into shorter timeframes and work in parallel with the rest of a crossfunctional team.
+> **[0:29](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=29)** This means we need to adjust our traditional methods to fit into shorter timeframes and work in parallel with the [[Representational State Transfer (REST)|rest]] of a crossfunctional team.
 >
 > **[0:37](https://www.linkedin.com/learning/ux-research-for-agile-teams/why-development-and-business-process-matters-to-ux?u=76281980&t=37)** That can be scary, but it also means we get the chance to respond to rapidly changing needs of users, teammates, and business stakeholders, and we can constantly uncover and act on opportunities to improve the experience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), teams (1), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Software Development]] (1), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** means that (1)
 > **Speakers:** - because (1)
 
@@ -267,12 +261,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Team makeup
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
+#### [Team makeup](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=0)** - One of the biggest open questions around incorporating UX research into Agile teams is how to structure those teams.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=0)** - One of the biggest open questions around incorporating [[UX Research]] into [[Agile Development|Agile]] teams is how to structure those teams.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=7)** There are debates about whether Agile teams should have embedded UXers, or there should be a separate team of cross-functional UX professionals.
 >
@@ -322,7 +315,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=176)** When that's not an option, I recommend that each team has a full-time designer and there is a research unit that is able to float between the teams.
 >
-> **[3:05](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=185)** Researchers can and still should collaborate with the rest of the team, but they aren't fully devoted to a single team.
+> **[3:05](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=185)** Researchers can and still should collaborate with the [[Representational State Transfer (REST)|rest]] of the team, but they aren't fully devoted to a single team.
 >
 > **[3:12](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=192)** I especially like when researchers are able to work in pairs, and divide and conquer the work across no more than three teams.
 >
@@ -340,7 +333,7 @@ created: 2026-05-02
 >
 > **[4:10](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=250)** If there is no option to hire research specialists, I recommend embedding one generalist UXer on each cross-functional team.
 >
-> **[4:18](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=258)** And then have the generalist partner up to collaborate on research efforts, especially the validation work and usability testing.
+> **[4:18](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=258)** And then have the generalist partner up to collaborate on research efforts, especially the validation work and [[Usability Testing]].
 >
 > **[4:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/team-makeup?u=76281980&t=266)** Partnering helps offset bias of designers testing their own work and affords each person to learn from teammates and utilize each other's strengths.
 >
@@ -356,18 +349,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (22), teams (10), [[Agile Development|Agile]] (5), functional (3), product (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (5), [[UX Research]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Usability Testing]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - one (1)
 
-#### Research cadence
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980)
+#### [Research cadence](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=0)** - When setting teams and structures, organizations also need to consider balancing foundational, generative UX research with the immediate investigation needs of the team.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=0)** - When setting teams and structures, organizations also need to consider balancing foundational, generative [[UX Research]] with the immediate investigation needs of the team.
 >
 > **[0:10](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=10)** Foundational research includes things like doing interviews or ethnographic studies to deeply understand your user base, their context, their evolving needs, and your opportunities to serve them.
 >
@@ -375,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=28)** In traditional development approaches, foundation of research is that only the beginning of the project to provide direction.
 >
-> **[0:35](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=35)** There is sometimes a push for this kind of research to be squeezed into a sprint zero, which is the dedicated setup time before any tangible progress is made in the Scrum process.
+> **[0:35](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=35)** There is sometimes a push for this kind of research to be squeezed into a sprint zero, which is the dedicated setup time before any tangible progress is made in the [[Scrum]] process.
 >
 > **[0:45](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=45)** I think it's useful to start research here, but condensing research activities to a single sprint zero is essentially just a shortened version of waterfall practices.
 >
@@ -391,7 +383,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=95)** That's yet another reason I recommend having a dedicated research role.
 >
-> **[1:39](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=99)** Regardless of the team structure and agile framework utilized, there are some research practices that I recommend to every agile team.
+> **[1:39](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=99)** Regardless of the team structure and [[Agile Development|agile]] framework utilized, there are some research practices that I recommend to every agile team.
 >
 > **[1:47](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=107)** The first is to set a regular, predictable, and frequent cadence for experimentation, and allot time for ongoing research as well.
 >
@@ -415,7 +407,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=182)** For instance, you could make sure that, every fourth sprint, you'll be conducting interviews, site visits, or benchmarking studies.
 >
-> **[3:09](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=189)** These types of research activities helps you better understand your user base and their problems, and influences overall product strategy.
+> **[3:09](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=189)** These types of research activities helps you better understand your user base and their problems, and influences overall [[Product Strategy]].
 >
 > **[3:17](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=197)** This is the sort of research that will help you uncover opportunities and make sure you're building things that people actually want and will use.
 >
@@ -423,7 +415,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=212)** The specific cadence that will work for your teams will vary.
 >
-> **[3:36](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=216)** If you're earlier in the product development cycle or about to embark on a redesign effort, you'll likely need to focus more time on understanding users and their needs to uncover opportunities.
+> **[3:36](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=216)** If you're earlier in the [[Product Development]] cycle or about to embark on a redesign effort, you'll likely need to focus more time on understanding users and their needs to uncover opportunities.
 >
 > **[3:47](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=227)** If you're actively redesigning a widely-used product, you'll want to ensure you're doing a lot of evaluative testing to ensure that changes are well-received.
 >
@@ -431,7 +423,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=242)** The most important thing is to remember to balance research activities.
 >
-> **[4:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=247)** Another recommendation is to ensure that researchers aren't working in isolation or too far removed from the rest of the team's schedule.
+> **[4:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=247)** Another recommendation is to ensure that researchers aren't working in isolation or too far removed from the [[Representational State Transfer (REST)|rest]] of the team's schedule.
 >
 > **[4:15](https://www.linkedin.com/learning/ux-research-for-agile-teams/research-cadence?u=76281980&t=255)** Sometimes there is a push for the UX team to work way ahead to inform design decisions before the developers get involved, but that can ultimately end up creating more work and handoff time, and perpetuate silos.
 >
@@ -443,7 +435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (4), ux (4), product (4), [[Scrum]] (2), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[UX Research]] (2), [[Scrum]] (2), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (2), [[Product Strategy]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for instance (2), such as (2)
 > **Cross-References:** earlier in (1)
@@ -451,8 +443,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - when (1)
 
-#### Logistics of securing research participants
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980)
+#### [Logistics of securing research participants](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -468,7 +459,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=41)** You can also recruit people who aren't yet customers or users.
 >
-> **[0:45](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=45)** You can find where the type of people you want to talk to already spend their time, or use tools like Google AdWords or Facebook ads to find people who have specific interests.
+> **[0:45](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=45)** You can find where the type of people you want to talk to already spend their time, or use tools like [[Google]] AdWords or Facebook ads to find people who have specific interests.
 >
 > **[0:56](https://www.linkedin.com/learning/ux-research-for-agile-teams/logistics-of-securing-research-participants?u=76281980&t=56)** For instance, let's say that you are building an application to help fitness enthusiasts find new classes.
 >
@@ -506,7 +497,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (1), application (1), cms (1), data (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for instance (1), for example (1)
 > **Env Vars:** cms (1)
@@ -519,18 +510,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Choosing research method
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
+#### [Choosing research method](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=0)** - It's crucial to successful UX research to choose the right methods at the right times, and this can be especially confusing in an agile setting.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=0)** - It's crucial to successful [[UX Research]] to choose the right methods at the right times, and this can be especially confusing in an [[Agile Development|agile]] setting.
 >
 > **[0:09](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=9)** The good news is that all the same rules of UX research considerations apply, regardless of the setting.
 >
 > **[0:15](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=15)** Once you figure out your research goal, the same methods you traditionally use will still apply.
 >
-> **[0:20](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=20)** You'll still need to consider the product development stage and identify riskiest open questions, determine whether you're looking for trends or reasons, think through whether you need to look at behaviors or attitudes, narrow down specific questions to answer and hypothesize about, consider the context you need to investigate your open question, and choose a method that will help you answer your questions appropriately and fit into the context of your work environment.
+> **[0:20](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=20)** You'll still need to consider the [[Product Development]] stage and identify riskiest open questions, determine whether you're looking for trends or reasons, think through whether you need to look at behaviors or attitudes, narrow down specific questions to answer and hypothesize about, consider the context you need to investigate your open question, and choose a method that will help you answer your questions appropriately and fit into the context of your work environment.
 >
 > **[0:48](https://www.linkedin.com/learning/ux-research-for-agile-teams/choosing-research-method?u=76281980&t=48)** My UX research fundamentals course goes over how to choose your method in detail.
 >
@@ -542,13 +532,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[Agile Development|Agile]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[UX Research]] (3), [[Agile Development|Agile]] (2), [[Product Development]] (1)
 > **Env Vars:** nng (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - it (1)
 
-#### Crafting a hypothesis
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/crafting-a-hypothesis?u=76281980)
+#### [Crafting a hypothesis](https://www.linkedin.com/learning/ux-research-for-agile-teams/crafting-a-hypothesis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +601,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (3), business (2), [[Analytics]] (1), ux (1), application (1)
 > **CLI Commands:** make (5), find (2)
 > **Analogies:** for instance (2)
 > **Env Vars:** lean (1)
@@ -620,8 +608,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Balancing rigor and speed
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980)
+#### [Balancing rigor and speed](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -651,29 +638,28 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980&t=99)** For instance, if you're going to perform interviews remotely, maybe you can do more of them.
 >
-> **[1:44](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980&t=104)** There are always trade-offs, but the beauty of performing research in an Agile setting is that you're never done.
+> **[1:44](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980&t=104)** There are always trade-offs, but the beauty of performing research in an [[Agile Development|Agile]] setting is that you're never done.
 >
 > **[1:50](https://www.linkedin.com/learning/ux-research-for-agile-teams/balancing-rigor-and-speed?u=76281980&t=110)** Every set of research should help you feel more confident in your decisions, but if you're ever unsure of next steps, you can always plan to recover open questions in your next round of research.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Analogies:** for instance (2), such as (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
-#### Performing research together
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980)
+#### [Performing research together](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=0)** - The same best practices for conducting UX research apply in any setting.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=0)** - The same best practices for conducting [[UX Research]] apply in any setting.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=5)** You want to craft plans that will answer your questions in a neutral way, you need to make sure participants feel comfortable and engaged in sessions, and you need to be sure that you inspire participants to dig deeper without leading them.
 >
 > **[0:18](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=18)** There's detailed information and tips to conduct UX research in chapter four of UX Foundations: Research.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=26)** The one key difference of conducting research in an agile setting is that you have the opportunity to include the rest of the team.
+> **[0:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=26)** The one key difference of conducting research in an [[Agile Development|agile]] setting is that you have the opportunity to include the [[Representational State Transfer (REST)|rest]] of the team.
 >
 > **[0:33](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=33)** I can't stress enough how important it is to take advantage of agile's emphasis on cross-functional, collaborative teams and get as many members of your team as possible involved in research activities.
 >
@@ -685,7 +671,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=67)** Research's main value is to help shed light on the things that can help the team move forward.
 >
-> **[1:12](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=72)** When every team member is able to get questions answered and work more effectively, they can see how research directly impacts their ability to make better products.
+> **[1:12](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=72)** When every team member is able to get questions answered and work more effectively, they can see how research directly impacts their ability to make better [[Microsoft Products|products]].
 >
 > **[1:22](https://www.linkedin.com/learning/ux-research-for-agile-teams/performing-research-together?u=76281980&t=82)** There are many ways to get the team involved in research planning.
 >
@@ -733,7 +719,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), functional (1), teams (1)
+> **Frameworks & Libraries:** [[UX Research]] (2), [[Agile Development|Agile]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** just like (1), for instance (1)
 > **Definitions:** is a  (1)
@@ -744,16 +730,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Interpreting research findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
+#### [Interpreting research findings](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=0)** - As discussed, it's ideal to have your entire Agile team involved in research sessions.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=0)** - As discussed, it's ideal to have your entire [[Agile Development|Agile]] team involved in research sessions.
 >
 > **[0:05](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=5)** Involving everyone in analyzing that data can be tricky but a group debrief can done to efficiently interpret data and move on to next steps.
 >
-> **[0:14](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=14)** Set aside at least an hour following the final session of a moderated study or a few days after data collection is complete to give everyone a chance to review.
+> **[0:14](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=14)** Set aside at least an hour following the final session of a moderated study or a few days after [[Data Collection]] is complete to give everyone a chance to review.
 >
 > **[0:23](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=23)** In this session, have everyone share their key thoughts on each hypothesis and any additional observations.
 >
@@ -767,7 +752,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=50)** Of course you want to write down what you saw about the core hypotheses, but other things might have stood out as well.
 >
-> **[0:56](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=56)** For instance, you might notice that all of the people who sold products wanted recurring invoices but each of the service providers you talk to noted that they'd never had a need to send a recurring invoice.
+> **[0:56](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=56)** For instance, you might notice that all of the people who sold [[Microsoft Products|products]] wanted recurring invoices but each of the service providers you talk to noted that they'd never had a need to send a recurring invoice.
 >
 > **[1:08](https://www.linkedin.com/learning/ux-research-for-agile-teams/interpreting-research-findings?u=76281980&t=68)** You'll want to pay special attention to common use cases and routines.
 >
@@ -835,15 +820,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (7), business (4), [[Agile Development|Agile]] (2), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Data Collection]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5)
 > **Definitions:** means that (2), is called (1)
 > **Analogies:** for instance (2), picture (1)
 > **Warnings:** note that (1), be careful (1)
 > **Speakers:** - as (1)
 
-#### Integrating results
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980)
+#### [Integrating results](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -867,7 +851,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=75)** The emails are quick and in the same format every time so people know what to look for.
 >
-> **[1:19](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=79)** If there was any sketching or other visual brainstorming from the debrief session, include photos and brief explanations.
+> **[1:19](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=79)** If there was any [[Sketching]] or other visual brainstorming from the debrief session, include photos and brief explanations.
 >
 > **[1:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=86)** They key is to keep this process brief.
 >
@@ -875,7 +859,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=94)** I also recommend adding followup work to whatever mechanism you use to keep track of future work.
 >
-> **[1:39](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=99)** Most agile methodologies use some version of a backlog, a repository of user stories that describe needed features, changes, or other work to be done.
+> **[1:39](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=99)** Most [[Agile Development|agile]] methodologies use some version of a backlog, a repository of user stories that describe needed features, changes, or other work to be done.
 >
 > **[1:49](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=109)** Rather than creating a separate UX backlog for things that improve the experience, add those stories to the overall backlog to ensure that they are visible to the whole team and get prioritized along with other types of work.
 >
@@ -885,7 +869,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=134)** Rerunning research sessions makes planning incredibly easy, helps you build confidence in your results, and helps you establish baselines so you can compare the experience over time.
 >
-> **[2:25](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=145)** If your team utilizes retrospectives, you can also use those meetings to keep UX research findings top of mind.
+> **[2:25](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=145)** If your team utilizes retrospectives, you can also use those meetings to keep [[UX Research]] findings top of mind.
 >
 > **[2:32](https://www.linkedin.com/learning/ux-research-for-agile-teams/integrating-results?u=76281980&t=152)** In a retrospective, the team needs to discuss the work that was just done and what could be done better from a process in team perspective moving forward.
 >
@@ -899,7 +883,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ux (4), next (2), [[Sketching]] (1), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Sketching]] (1), [[Agile Development|Agile]] (1), [[UX Research]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - assuming (1)
@@ -909,24 +893,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=0)** - Thanks so much for watching and learning about ways to successfully integrate UX research practices into an Agile environment.
+> **[0:00](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=0)** - Thanks so much for watching and learning about ways to successfully integrate [[UX Research]] practices into an [[Agile Development|Agile]] environment.
 >
 > **[0:07](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=7)** This course should have given you plenty of ideas about how to structure your teams and set logistics to encourage research integration, and specific tips to get you started planning, executing, and analyzing research in an Agile way.
 >
 > **[0:21](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=21)** You'll likely need to experiment to find the exact setup that works in your organization.
 >
-> **[0:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=26)** If you ever have specific questions, feel free to reach out to me directly on LinkedIn.
+> **[0:26](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=26)** If you ever have specific questions, feel free to reach out to me directly on [[LinkedIn]].
 >
 > **[0:30](https://www.linkedin.com/learning/ux-research-for-agile-teams/next-steps?u=76281980&t=30)** Thanks again, and good luck.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), ux (1), teams (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[UX Research]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - thanks (1)

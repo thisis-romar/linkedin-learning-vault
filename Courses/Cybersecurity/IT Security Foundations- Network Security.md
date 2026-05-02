@@ -97,14 +97,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Securing the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
+#### [Securing the network](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980&t=0)** - [Lisa] Managing a network today requires a proactive approach to reduce overall risk.
 >
-> **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980&t=7)** Data is either in motion or at rest.
+> **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980&t=7)** Data is either in motion or at [[Representational State Transfer (REST)|rest]].
 >
 > **[0:09](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-the-network?u=76281980&t=9)** And protection is implemented in a number of different ways.
 >
@@ -124,15 +123,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (1), [[Representational State Transfer (REST)|Rest]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Speakers:** - [lisa] (1)
 
-#### Discovering resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/discovering-resources?u=76281980)
+#### [Discovering resources](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/discovering-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/discovering-resources?u=76281980&t=0)** - [Instructor] This course is an intermediary course designed to introduce you to network security.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/discovering-resources?u=76281980&t=0)** - [Instructor] This course is an intermediary course designed to introduce you to [[Network Security]].
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/discovering-resources?u=76281980&t=7)** We'll cover concepts related to securing an organization's infrastructure.
 >
@@ -160,18 +158,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
+#### [Understanding firewalls](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=0)** - [Instructor] You're looking at a real-time cyberthreat map.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=0)** - [Instructor] You're looking at a [[Real-Time]] cyberthreat map.
 >
 > **[0:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=4)** The reality is that cyberattacks occur in significant numbers every single minute of every single day.
 >
 > **[0:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=14)** For most organizations, a firewall is used as a first line of defense.
 >
-> **[0:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=20)** A firewall is a hardware or software-based method to control incoming and outgoing traffic, and it's based on a set of rules that either permit or deny traffic on a network or host.
+> **[0:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=20)** A firewall is a [[Hardware]] or software-based method to control incoming and outgoing traffic, and it's based on a set of rules that either permit or deny traffic on a network or host.
 >
 > **[0:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=34)** With a firewall, the concept is simple.
 >
@@ -191,11 +188,11 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=100)** The firewall filters inbound and outbound traffic and alerts the user to attempted intrusions.
 >
-> **[1:49](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=109)** A good example of this is the Windows Firewall.
+> **[1:49](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=109)** A good example of this is the [[Windows]] Firewall.
 >
 > **[1:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=113)** You can gain access to this by finding it in the Control Panel.
 >
-> **[1:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=117)** Now I've opened it up, and here we can see Windows Defender Firewall with Advanced Security.
+> **[1:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=117)** Now I've opened it up, and here we can see Windows [[Microsoft Defender|Defender]] Firewall with Advanced Security.
 >
 > **[2:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/understanding-firewalls?u=76281980&t=124)** And if you click on Inbound Rules, you can see a list of applications and whether they're allowed or blocked.
 >
@@ -239,7 +236,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), [[Windows]] (2), [[Security]] (2), [[Real-Time]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[Real-Time]] (1), [[Hardware]] (1), [[Microsoft Defender|Defender]] (1)
 > **Analogies:** such as (4), imagine (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** https (1), dns (1)
@@ -247,16 +244,15 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing advanced networking devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980)
+#### [Comparing advanced networking devices](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=0)** - [Instructor] In addition to using standard devices such as firewalls to defend against threats, many networks employ advanced threat management devices.
 >
-> **[0:11](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=11)** The devices are used to proactively defend against complex threats, and include high-end hardware firewalls, unified threat management appliances, intrusion detection, intrusion prevention systems, and proxy servers.
+> **[0:11](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=11)** The devices are used to proactively defend against complex threats, and include high-end [[Hardware]] firewalls, unified threat management appliances, [[Intrusion Detection]], intrusion prevention systems, and proxy servers.
 >
-> **[0:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=29)** Advanced threat management devices have additional features, such as artificial intelligence and reputation-based monitoring.
+> **[0:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=29)** Advanced threat management devices have additional features, such as [[Artificial Intelligence (AI)|artificial intelligence]] and reputation-based monitoring.
 >
 > **[0:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-advanced-networking-devices?u=76281980&t=38)** Let's talk about a few of the devices, starting with high-end hardware firewalls.
 >
@@ -318,13 +314,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (10), management (6), [[Intrusion Detection]] (5), [[Hardware]] (2), data (2)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (5), [[Hardware]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Analogies:** such as (5), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Luring with honeypots
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980)
+#### [Luring with honeypots](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -356,7 +351,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980&t=102)** In addition, while we use a honeypot to observe behavior, keep in mind that information you obtain may not be admissible in court.
 >
-> **[1:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980&t=112)** A honeypot, many times, is part of an intrusion detection system, but keep in mind the main focus is on gathering information.
+> **[1:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980&t=112)** A honeypot, many times, is part of an [[Intrusion Detection]] system, but keep in mind the main focus is on gathering information.
 >
 > **[2:02](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/luring-with-honeypots?u=76281980&t=122)** Once an intruder breaks into a system, many times, they will come back for subsequent visits where more information can be monitored and saved.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (1), hit (1), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **Analogies:** such as (2), for example (1), imagine (1)
 > **Warnings:** keep in mind (2), warning (1), be careful (1)
 > **Prerequisites:** set up (2), required to (1)
@@ -397,8 +392,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [educator] (1)
 
-#### Examining honeypot findings
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980)
+#### [Examining honeypot findings](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -412,13 +406,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=21)** Here, I have a pre captured packet that we can use to dig down and see some of the evidence contained in the capture file.
 >
-> **[0:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=30)** I've opened it up in Wireshark, a free protocol analysis tool.
+> **[0:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=30)** I've opened it up in [[Wireshark]], a free protocol analysis tool.
 >
 > **[0:35](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=35)** Now, when you take a look at a capture file or a log file or any evidence that you get where you're concerned about an indication of compromise, the information doesn't always stand out.
 >
 > **[0:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=47)** You have to take a look and then do further analysis.
 >
-> **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=51)** For this, what I'm going to do is go to statistics and conversations.
+> **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=51)** For this, what I'm going to do is go to [[Statistics]] and conversations.
 >
 > **[0:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=57)** Now, once here, I'll go to TCP, and then I'm going to sort by port A, because what I'm looking for is specific ports that could be associated with malicious activity.
 >
@@ -444,7 +438,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=143)** And when we take a look at this, we can see there's information that's interesting contained in this capture.
 >
-> **[2:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=150)** So Virus Total scans for viruses, but it also has a built-in intrusion detection system engine in the backend.
+> **[2:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=150)** So Virus Total scans for viruses, but it also has a built-in [[Intrusion Detection]] system engine in the backend.
 >
 > **[2:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/examining-honeypot-findings?u=76281980&t=159)** And here we see one vendor's identified a worm, but nothing else.
 >
@@ -508,7 +502,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Statistics]] (2), [[Wireshark]] (1), [[Intrusion Detection]] (1), dns (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Wireshark]] (1), [[Intrusion Detection]] (1)
 > **UI Navigation:** go to (4), scroll down (4)
 > **Ports:** port 6 (2), port 8585 (2)
 > **Env Vars:** tcp (1), dns (1), http (1)
@@ -517,8 +511,7 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Exploring honeypot data
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980)
+#### [Challenge: Exploring honeypot data](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -538,7 +531,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980&t=68)** And once you download it, you'll need the password, which is infected.
 >
-> **[1:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980&t=74)** Now I downloaded the file and opened it in Wireshark, and this is completely optional, but you can do the same, and you can do a spot check to see if the capture contains malicious activity.
+> **[1:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980&t=74)** Now I downloaded the file and opened it in [[Wireshark]], and this is completely optional, but you can do the same, and you can do a spot check to see if the capture contains malicious activity.
 >
 > **[1:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-exploring-honeypot-data?u=76281980&t=86)** Now, for this challenge, complete the following: You'll Discover VirusTotal, and I want you to look for specific information on VirusTotal.
 >
@@ -554,15 +547,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (2), data (1), [[Wireshark]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Exploring honeypot data
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980)
+#### [Solution: Exploring honeypot data](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,7 +630,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980&t=242)** Now what you do is if you do find something, you want to do a little more analysis on, I start doing a query.
 >
-> **[4:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980&t=248)** I do a Google search and try to find more information.
+> **[4:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980&t=248)** I do a [[Google]] search and try to find more information.
 >
 > **[4:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-exploring-honeypot-data?u=76281980&t=252)** So we'll go here to this one right here, Hybrid Analysis.
 >
@@ -662,7 +654,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Security]] (1), next (1), dns (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **UI Navigation:** go to (6), scroll down (6)
 > **CLI Commands:** find (4)
 > **URLs:** [benme.com](https://benme.com) (1), [blockcypher.com](https://blockcypher.com) (1), [alienvault.com](https://alienvault.com) (1)
@@ -676,8 +668,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Segmenting using routers and VLANS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
+#### [Segmenting using routers and VLANS](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -687,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=11)** First, we'll talk about the differences between a switch and a router.
 >
-> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=15)** Switches are Layer 2 devices that switch traffic between computers on a local area network.
+> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=15)** Switches are Layer 2 devices that switch traffic between computers on a [[Local Area Network (LAN)|local area network]].
 >
 > **[0:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=22)** They use a MAC address to identify the hosts, and switches encapsulate frames in the proper format.
 >
@@ -733,7 +724,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=160)** This will help prevent delays in delivering voice packets and reduce latency and jitter.
 >
-> **[2:48](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=168)** We can also create virtual work groups and provide additional isolation.
+> **[2:48](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=168)** We can also create [[Virtual Work]] groups and provide additional isolation.
 >
 > **[2:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/segmenting-using-routers-and-vlans?u=76281980&t=173)** For example, to prevent the manufacturing employees from viewing YouTube videos, you can create a VLAN that doesn't allow internet access but is trunked to the main network.
 >
@@ -751,18 +742,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (8), lan (5), [[Local Area Network (LAN)|Local area network]] (2), [[Virtual Work]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Virtual Work]] (1)
 > **Env Vars:** vlan (11), lan (5), mac (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Configuring VLANS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-vlans?u=76281980)
+#### [Configuring VLANS](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-vlans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-vlans?u=76281980&t=0)** - [Tutor] VLANs are commonly used on a local area network as they have many benefits.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-vlans?u=76281980&t=0)** - [Tutor] VLANs are commonly used on a [[Local Area Network (LAN)|local area network]] as they have many benefits.
 >
 > **[0:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-vlans?u=76281980&t=6)** In this segment, we'll review the steps taken to configure a VLAN on a switch.
 >
@@ -820,15 +810,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), traffic (6), [[Local Area Network (LAN)|Local area network]] (1), management (1), database (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** vlan (21), isl (1), ieee802 (1), mac (1), vtp (1)
 > **Prerequisites:** you'll need (4), configure (3)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [tutor] (1)
 
-#### Creating server and domain isolation
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980)
+#### [Creating server and domain isolation](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -848,7 +837,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=45)** Server and domain isolation can defend against hackers, prevent malware attacks, and provide a means to encrypt data between computers, all of which can help satisfy regulatory requirements.
 >
-> **[1:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=63)** Now, key players in creating isolation include IPsec, Active Directory, and Kerberos.
+> **[1:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=63)** Now, key players in creating isolation include IPsec, [[Active Directory]], and Kerberos.
 >
 > **[1:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=72)** First, let's discuss IPsec.
 >
@@ -858,7 +847,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=96)** The encapsulating security payload is a combination encryption and authentication protocol.
 >
-> **[1:44](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=104)** The authentication header provides support for data integrity and authentication of IP packets.
+> **[1:44](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=104)** The authentication header provides support for [[Data Integrity]] and authentication of IP packets.
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=112)** And key management.
 >
@@ -868,7 +857,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=137)** So let's talk about Active Directory.
 >
-> **[2:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=140)** Active Directory is a directory service that is part of the Windows server operating system that provides authentication and authorization to systems and services on a network.
+> **[2:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=140)** Active Directory is a directory service that is part of the [[Windows Server]] operating system that provides authentication and authorization to systems and services on a network.
 >
 > **[2:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=153)** Active Directory enables the network administrator to manage permissions within the domain for objects, such as users and computers to access network resources.
 >
@@ -880,7 +869,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=188)** So let's take a look at how we can implement server and domain isolation.
 >
-> **[3:13](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=193)** I'm here in Windows Administrative Tools, and I'm going to go to Windows Defender Firewall with Advanced Security.
+> **[3:13](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=193)** I'm here in [[Windows]] Administrative Tools, and I'm going to go to Windows [[Microsoft Defender|Defender]] Firewall with Advanced Security.
 >
 > **[3:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/creating-server-and-domain-isolation?u=76281980&t=202)** Now, in this case, I'm going to go to Connection Security Rules and create a new rule.
 >
@@ -920,15 +909,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), [[Security]] (6), data (3), [[Windows]] (2), traffic (2)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Windows]] (2), [[Data Integrity]] (1), [[Windows Server]] (1), [[Microsoft Defender|Defender]] (1)
 > **Analogies:** such as (3), for example (2)
 > **Definitions:** is a  (3)
 > **UI Navigation:** go to (2)
 > **Env Vars:** ike (1)
 > **Speakers:** - [instructor] (1)
 
-#### Translating the network address
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980)
+#### [Translating the network address](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -940,7 +928,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=16)** If we think about the potential address space, it would be two to the 32nd.
 >
-> **[0:21](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=21)** Let's ask Google.
+> **[0:21](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=21)** Let's ask [[Google]].
 >
 > **[0:25](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=25)** Well, here we see a pretty large number, and in 1981, this was a large number.
 >
@@ -948,7 +936,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=38)** Efforts to conserve address space began soon after the internet became public in 1992.
 >
-> **[0:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=46)** In 1996, RFC 1918 outlines a method called private IP addressing that became a standard way to provide IP addressing for inside of a local area network.
+> **[0:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=46)** In 1996, RFC 1918 outlines a method called private [[IP Addressing]] that became a standard way to provide IP addressing for inside of a [[Local Area Network (LAN)|local area network]].
 >
 > **[1:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/translating-the-network-address-20644047?u=76281980&t=63)** RFC 1918 outlines three specific groups for private IP addressing.
 >
@@ -998,7 +986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Local Area Network (LAN)|Local area network]] (3), [[Google]] (2), lan (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[IP Addressing]] (3), [[Local Area Network (LAN)|Local area network]] (3), [[Google]] (2)
 > **Env Vars:** rfc (2), arin (1), isp (1)
 > **Documentation:** rfc (2)
 > **URLs:** [discordapp.com](https://discordapp.com) (1)
@@ -1007,8 +995,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Recognizing perimeter networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980)
+#### [Recognizing perimeter networks](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1022,7 +1009,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=25)** Isolation occurs by configuring a demilitarized zone or screened subnet.
 >
-> **[0:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=31)** Now, this is where the traffic is filtered by a firewall placed in between the outside world and the local area network.
+> **[0:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=31)** Now, this is where the traffic is filtered by a firewall placed in between the outside world and the [[Local Area Network (LAN)|local area network]].
 >
 > **[0:40](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=40)** For example, the DMZ might be used to house a mail or a web server.
 >
@@ -1050,7 +1037,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=115)** Now, I've gone to this site because I wanted to show you that there are a lot of different resources that you can use to scan your networks.
 >
-> **[2:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=123)** There's OpenVAS and this is what we're using here in Pentest Tools, and then there's Nmap.
+> **[2:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=123)** There's OpenVAS and this is what we're using here in Pentest Tools, and then there's [[Nmap]].
 >
 > **[2:09](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/recognizing-perimeter-networks-20644049?u=76281980&t=129)** So in this case, you can run a light scan for free, two per day.
 >
@@ -1088,7 +1075,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (7), web (2), [[Local Area Network (LAN)|Local area network]] (1), front-end (1), lan (1)
+> **Frameworks & Libraries:** [[Nmap]] (3), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** dmz (11), lan (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -1097,8 +1084,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Warnings:** keep in mind (1)
 
-#### Configuring NAT
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980)
+#### [Configuring NAT](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1114,7 +1100,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=36)** Dynamic NAT is similar to Static NAT, however, it uses a pool of addresses that are dynamically assigned.
 >
-> **[0:44](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=44)** NAT Overloading or port address translation forms a unique public IP address and port number combination.
+> **[0:44](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=44)** NAT Overloading or port address translation [[Forms]] a unique public IP address and port number combination.
 >
 > **[0:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=53)** Now, here we see a basic configuration for network address translation on a router.
 >
@@ -1142,7 +1128,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=130)** Well, as many organizations migrate to IPv6, this may ultimately reduce the need for NAT, as the address base for IPv6 is extensive.
 >
-> **[2:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=142)** However, many may still choose to use NAT as a method to provide privacy by concealing the IP addresses of the hosts on a LAN.
+> **[2:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=142)** However, many may still choose to use NAT as a method to provide [[Privacy]] by concealing the IP addresses of the hosts on a LAN.
 >
 > **[2:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/configuring-nat?u=76281980&t=153)** So, now let's test your knowledge.
 >
@@ -1152,7 +1138,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1), [[Forms]] (1), hit (1), [[Search]] (1), [[Privacy]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Privacy]] (1)
 > **Env Vars:** nat (14), lan (1), pat (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -1164,24 +1150,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summarize cloud concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
+#### [Summarize cloud concepts](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=0)** - [Instructor] For many organizations, the cloud is an extension of the network.
 >
-> **[0:05](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=5)** In this segment, we'll review the types of cloud services available for businesses and consumers.
+> **[0:05](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=5)** In this segment, we'll review the types of [[Cloud Services]] available for businesses and consumers.
 >
-> **[0:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=12)** Today, the concept of cloud computing is pervasive and is used by nearly everyone.
+> **[0:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=12)** Today, the concept of [[Cloud Computing]] is pervasive and is used by nearly everyone.
 >
-> **[0:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=19)** Cloud computing is accessing network resources, such as hardware and software services, from a provider on the internet.
+> **[0:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=19)** Cloud computing is accessing network resources, such as [[Hardware]] and software services, from a provider on the internet.
 >
-> **[0:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=29)** While some services and data are accessed locally, for example, a server on the local area network, many see the benefits of having access to data and services from anywhere in the world.
+> **[0:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=29)** While some services and data are accessed locally, for example, a server on the [[Local Area Network (LAN)|local area network]], many see the benefits of having access to data and services from anywhere in the world.
 >
 > **[0:42](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=42)** There are several types of cloud delivery models for businesses or consumers that are public, private or hybrid.
 >
-> **[0:50](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=50)** The three main types of cloud services are infrastructure as a service, platform as a service and software as a service.
+> **[0:50](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=50)** The three main types of cloud services are [[IaaS|infrastructure as a service]], [[PaaS|platform as a service]] and [[SaaS|software as a service]].
 >
 > **[1:01](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=61)** I'm here at this site where we can see a graphical representation of the three main services.
 >
@@ -1189,7 +1174,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=78)** Platform as a service encompasses all those things in infrastructure as a service, but gives you an ability to create an application that includes the environment, development tools and the operating systems.
 >
-> **[1:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=93)** And software as a service encompasses all those things necessary such as platform as a service and infrastructure as a service and provides the ability for you to access hosted applications, such as Microsoft Office 365.
+> **[1:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=93)** And software as a service encompasses all those things necessary such as platform as a service and infrastructure as a service and provides the ability for you to access hosted applications, such as [[Microsoft Office]] 365.
 >
 > **[1:50](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=110)** I'm here at this webpage where we can see some common software as a service examples, and there are plenty of them.
 >
@@ -1201,7 +1186,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=134)** This feature helps to keep all your Apple devices up to date.
 >
-> **[2:18](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=138)** Google Drive provides personal storage and collaboration tools and you have the ability to create documents, spreadsheets and slides.
+> **[2:18](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=138)** [[Google Drive]] provides personal storage and collaboration tools and you have the ability to create documents, spreadsheets and slides.
 >
 > **[2:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summarize-cloud-concepts?u=76281980&t=149)** Dropbox has been around since 2007 and provides the ability to synchronize and store files along with collaboration with your coworkers.
 >
@@ -1217,14 +1202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[IaaS|Infrastructure as a service]] (4), data (3), [[PaaS|Platform as a service]] (3), [[SaaS|Software as a service]] (3)
+> **Frameworks & Libraries:** [[Cloud Services]] (4), [[IaaS|Infrastructure as a service]] (4), [[PaaS|Platform as a service]] (3), [[SaaS|Software as a service]] (3), [[Cloud Computing]] (2)
 > **Analogies:** such as (4), for example (1)
 > **Definitions:** is an  (2)
 > **Code Identifiers:** icloud (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to the cloud
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980)
+#### [Connecting to the cloud](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1236,15 +1220,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=16)** Let's outline each of the components so you are aware of the complexity.
 >
-> **[0:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=22)** A local area network is a private network in a localized area that an organization or individual owns, controls and manages.
+> **[0:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=22)** A [[Local Area Network (LAN)|local area network]] is a private network in a localized area that an organization or individual owns, controls and manages.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=32)** Cloud computing is accessing network resources, such as hardware and software services, from a provider on the internet.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=32)** [[Cloud Computing]] is accessing network resources, such as [[Hardware]] and software services, from a provider on the internet.
 >
 > **[0:42](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=42)** Today, there are multiple options for cloud connectivity.
 >
-> **[0:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=46)** You can have a dedicated WAN connection along with vendor options such as Google Cloud Interconnect, or IBM Cloud Direct Link.
+> **[0:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=46)** You can have a dedicated WAN connection along with vendor options such as [[Google Cloud Platform (GCP)|Google Cloud]] Interconnect, or IBM Cloud Direct Link.
 >
-> **[0:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=57)** Businesses constantly collect data and use a good deal of the data for statistical analysis, forecasting, and data analytics.
+> **[0:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=57)** Businesses constantly collect data and use a good deal of the data for [[Statistical Analysis]], [[Forecasting]], and data analytics.
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=66)** The cloud represents opportunity, growth, and productivity.
 >
@@ -1262,7 +1246,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=147)** Fog computing is a combination of hardware and software solutions that decentralizes the cloud.
 >
-> **[2:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=154)** It monitors and analyzes real-time data from network connected things and then they take action.
+> **[2:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=154)** It monitors and analyzes [[Real-Time]] data from network connected things and then they take action.
 >
 > **[2:42](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/connecting-to-the-cloud?u=76281980&t=162)** The fog reduces data analysis time from minutes to seconds.
 >
@@ -1278,19 +1262,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (13), data (10), [[Hardware]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Local Area Network (LAN)|Local area network]] (1), [[Cloud Computing]] (1), [[Google Cloud Platform (GCP)|Google cloud]] (1), [[Statistical Analysis]] (1)
 > **Definitions:** is a  (3)
 > **Analogies:** such as (2), for example (1)
 > **Env Vars:** wan (1), ibm (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - network (1)
 
-#### Outlining virtualized technology
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980)
+#### [Outlining virtualized technology](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=0)** - [Instructor] Virtualization uses the hardware of a single device and shares the processing, memory, and storage among multiple virtual machines.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=0)** - [Instructor] Virtualization uses the [[Hardware]] of a single device and shares the processing, memory, and storage among multiple [[Virtual Machines]].
 >
 > **[0:10](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=10)** In this segment, we'll review virtualization concepts related to cloud technologies.
 >
@@ -1326,15 +1309,15 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=106)** The resources are then managed by the hypervisor.
 >
-> **[1:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=111)** Bare metal applications include VMware ESXi server, Citrix Send server, and Microsoft's Hyper-V.
+> **[1:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=111)** Bare metal applications include VMware ESXi server, Citrix Send server, and [[Microsoft]]'s Hyper-V.
 >
-> **[2:01](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=121)** One concept that is now part of the networking environment is the use of cloud storage containers.
+> **[2:01](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=121)** One concept that is now part of the networking environment is the use of [[Cloud Storage]] containers.
 >
 > **[2:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=128)** Containers provide a simplified, secure method to provision-specific infrastructure requirements and are a lightweight alternative to virtual machines.
 >
 > **[2:18](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=138)** Cloud containers are referred to as buckets or blobs that can host data objects, which are the equivalent of files in a local file system.
 >
-> **[2:28](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=148)** In addition, a container can have customizable metadata attributes.
+> **[2:28](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=148)** In addition, a container can have customizable [[Metadata]] attributes.
 >
 > **[2:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=153)** Containers also have an advantage of enforcing resource separation at the operating system level.
 >
@@ -1346,7 +1329,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=188)** It's essential to monitor security-relevant container activities that include process activity, along with communications, among containerized services, between containerized services, and with external clients and servers.
 >
-> **[3:28](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=208)** In addition, properly manage all secrets, such as API keys, tokens, and passwords, to reduce container security risks and vulnerabilities.
+> **[3:28](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=208)** In addition, properly manage all secrets, such as API keys, [[Tokens]], and passwords, to reduce container security risks and vulnerabilities.
 >
 > **[3:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/outlining-virtualized-technology?u=76281980&t=219)** Now let's test your knowledge.
 >
@@ -1356,21 +1339,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (5), [[Hardware]] (5), [[Virtual Machines]] (5), cloud (4), [[Security]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (5), [[Virtual Machines]] (5), [[Microsoft]] (1), [[Cloud Storage]] (1), [[Metadata]] (1)
 > **Env Vars:** api (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safeguarding cloud services
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980)
+#### [Safeguarding cloud services](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=0)** - [Instructor] Cloud computing has become extremely popular in the past decade as it represents a flexible and dynamic option for provisioning resources.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=0)** - [Instructor] [[Cloud Computing]] has become extremely popular in the past decade as it represents a flexible and dynamic option for provisioning resources.
 >
 > **[0:10](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=10)** With cloud computing, an organization can access and manage data and applications from any host anywhere in the world.
 >
-> **[0:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=20)** Even though cloud services are offsite, it's essential to monitor the environment.
+> **[0:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=20)** Even though [[Cloud Services]] are offsite, it's essential to monitor the environment.
 >
 > **[0:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=26)** In this segment, we'll review best practices for virtualization and container security.
 >
@@ -1382,15 +1364,15 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=54)** There is an increased attack surface.
 >
-> **[0:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=57)** Cloud computing has become popular, but this can result in cloud and virtualization sprawl where instances of virtual machines and containers become unmanageable.
+> **[0:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=57)** Cloud computing has become popular, but this can result in cloud and virtualization sprawl where instances of [[Virtual Machines]] and containers become unmanageable.
 >
-> **[1:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=72)** There is a lack of visibility because, unlike locally hosted hardware and applications, the cloud providers have full control over their infrastructure layer, which is largely hidden from the customer.
+> **[1:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=72)** There is a lack of visibility because, unlike locally hosted [[Hardware]] and applications, the cloud providers have full control over their infrastructure layer, which is largely hidden from the customer.
 >
 > **[1:27](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=87)** And secrets management.
 >
 > **[1:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=90)** Poorly managing secrets, such as passwords, certificates, and API keys, can lead to a costly breach.
 >
-> **[1:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=99)** There are several best practices for virtualization and cloud asset management, which are similar to managing assets on a local area network, and those include controlling access.
+> **[1:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=99)** There are several best practices for virtualization and cloud asset management, which are similar to managing assets on a [[Local Area Network (LAN)|local area network]], and those include controlling access.
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=112)** You need to control access only to authorized individuals using robust methods to ensure proper identification of entities.
 >
@@ -1398,19 +1380,19 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=129)** Ensure system integrity by identifying and correcting system flaws.
 >
-> **[2:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=135)** With configuration management, we need to establish and maintain a secure baseline configuration of all images.
+> **[2:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=135)** With [[Configuration Management]], we need to establish and maintain a secure baseline configuration of all images.
 >
 > **[2:25](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=145)** And with auditing activity, we define the activity to be monitored and issue alerts whenever there is a policy violation.
 >
 > **[2:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=154)** Now, some of these guidelines you might not be familiar with, but some of them are embedded in regulations, such as PCI DSS.
 >
-> **[2:43](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=163)** Now that is Payment Card Industry Data Security Standard.
+> **[2:43](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=163)** Now that is Payment Card Industry [[Data Security]] Standard.
 >
 > **[2:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=167)** There's granular references to how we secure our environments when dealing with cardholder data, and the link is included in your link document, but here it talks about requirements and testing procedures.
 >
 > **[3:01](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=181)** Now, I've drilled down and what I want to show you is Appendix A1 where additional PCI DSS requirement for multi-tenant service providers, and that would be your cloud environment.
 >
-> **[3:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=194)** And here it talks about additional requirements for that environment, such as protect and separate all customer environments and data, and facilitate logging and incident response for all customers.
+> **[3:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=194)** And here it talks about additional requirements for that environment, such as protect and separate all customer environments and data, and facilitate logging and [[Incident Response]] for all customers.
 >
 > **[3:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-cloud-services?u=76281980&t=211)** And you could read more about this, but a lot of these are good practice and things that you would do in a local area network as well.
 >
@@ -1422,7 +1404,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (9), [[Virtualization]] (6), data (4), [[Security]] (3), management (2)
+> **Frameworks & Libraries:** [[Cloud Computing]] (3), [[Cloud Services]] (2), [[Local Area Network (LAN)|Local area network]] (2), [[Virtual Machines]] (1), [[Hardware]] (1)
 > **Env Vars:** pci (2), dss (2), api (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** such as (3), similar to (1)
@@ -1434,8 +1416,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Comparing attack methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
+#### [Comparing attack methods](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1449,7 +1430,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=32)** There is a potential for attacks in every layer of the OSI model.
 >
-> **[0:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=38)** We'll take one more step and separate this and I'll show you that the first two layers, layer one and layer two, are essentially hardware attacks.
+> **[0:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=38)** We'll take one more step and separate this and I'll show you that the first two layers, layer one and layer two, are essentially [[Hardware]] attacks.
 >
 > **[0:49](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=49)** Layers three through seven are more directed at software attacks.
 >
@@ -1459,7 +1440,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=66)** Attacks can include software attacks, and these are designed to exploit some weakness in the code.
 >
-> **[1:13](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=73)** There could be phishing via email or popups, and malware such as viruses, ransomware, Trojans, and worms.
+> **[1:13](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=73)** There could be [[Phishing]] via email or popups, and malware such as viruses, ransomware, Trojans, and worms.
 >
 > **[1:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=82)** The presentation layer is where the data is presented to the application so we can view it.
 >
@@ -1493,7 +1474,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=203)** The result is that it overwhelms the server so that legitimate users are locked out.
 >
-> **[3:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=210)** The network layer is responsible for addressing and routing.
+> **[3:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=210)** The network layer is responsible for addressing and [[Routing]].
 >
 > **[3:34](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=214)** In this layer, we can see the following.
 >
@@ -1513,7 +1494,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=268)** Here we could see the following.
 >
-> **[4:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=271)** We can see network sniffing, which is simply eavesdropping, and this is common in a local area network, WPA cracking, which is done on a wireless network to decrypt the encrypted packets, and ARP cache poisoning, which is used in a man-in-the-middle attack.
+> **[4:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=271)** We can see network sniffing, which is simply eavesdropping, and this is common in a [[Local Area Network (LAN)|local area network]], WPA cracking, which is done on a wireless network to decrypt the encrypted packets, and ARP cache poisoning, which is used in a man-in-the-middle attack.
 >
 > **[4:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/comparing-attack-methods?u=76281980&t=292)** Now, the physical layer is really simply a physical attack, and that can include theft of devices, cutting cables, or a skimming attack, where someone attaches a device to an ATM or a point of sale system to gather credit card numbers.
 >
@@ -1525,14 +1506,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (3), [[Security]] (2), traffic (2), dns (2)
+> **Frameworks & Libraries:** [[Routing]] (2), [[Hardware]] (1), [[Phishing]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **Env Vars:** osi (4), dns (2), syn (2), icmp (2), url (1)
 > **Definitions:** is a  (4), known as (1)
 > **Analogies:** such as (4)
 > **Speakers:** - [presenter] (1)
 
-#### Attacking passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980)
+#### [Attacking passwords](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1552,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980&t=37)** When logging someone's keystrokes, you'll probably get a lot of information, but you might capture a username and password.
 >
-> **[0:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980&t=47)** Password sniffing is pulling the password or hash via packet analysis using an app such as Wireshark.
+> **[0:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980&t=47)** Password sniffing is pulling the password or hash via packet analysis using an app such as [[Wireshark]].
 >
 > **[0:56](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/attacking-passwords?u=76281980&t=56)** Another password attack is a brute force attack.
 >
@@ -1626,7 +1606,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (2), [[Security]] (2), [[Wireshark]] (1), data (1)
+> **Frameworks & Libraries:** [[Wireshark]] (1)
 > **Definitions:** is a  (4)
 > **UI Navigation:** go to (1), scroll down (1)
 > **URLs:** [random.org](https://random.org) (1)
@@ -1635,8 +1615,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sniffing the network
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980)
+#### [Sniffing the network](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1658,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=51)** I'm going to show you three examples of packet sniffing and how we can see the data that's not encrypted.
 >
-> **[0:58](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=58)** If you'd like to follow along, go to this website, wiki.[wireshark.org](https://wireshark.org), and we'll find three captures.
+> **[0:58](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=58)** If you'd like to follow along, go to this website, wiki.[[[Wireshark]].org](https://wireshark.org), and we'll find three captures.
 >
 > **[1:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=66)** Here, we'll select this one, mysql_complete.pcap.
 >
@@ -1704,7 +1683,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=173)** Telnet is a protocol that is used for terminal emulation.
 >
-> **[2:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=177)** It is deprecated in the Windows operating system, meaning it's off by default, but Telnet can still be used, but you should encrypt it using PuTTY or Secure Shell.
+> **[2:57](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=177)** It is deprecated in the [[Windows]] operating system, meaning it's off by default, but Telnet can still be used, but you should encrypt it using PuTTY or Secure Shell.
 >
 > **[3:08](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/sniffing-the-network?u=76281980&t=188)** Here in this Telnet transaction, it's not encrypted.
 >
@@ -1724,7 +1703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), traffic (2), [[Wireshark]] (2), database (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Wireshark]] (2), [[Windows]] (1)
 > **Env Vars:** ssid (3), tcp (2), select (1), database (1)
 > **Code Identifiers:** mysql_complete (2)
 > **UI Navigation:** go to (2)
@@ -1733,8 +1712,7 @@ created: 2026-05-02
 > **SQL:** select (1)
 > **Tools:** terminal (1)
 
-#### Spoofing protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980)
+#### [Spoofing protocols](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1748,7 +1726,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=27)** Let's talk about a few examples of protocol spoofing.
 >
-> **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=32)** Domain name system is a host name to IP address resolution.
+> **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=32)** [[Domain Name System (DNS)|Domain name system]] is a host name to IP address resolution.
 >
 > **[0:37](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=37)** It's essential to any network.
 >
@@ -1756,7 +1734,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=44)** Now, on your own system, you have a DNS cache, so you can access websites quickly.
 >
-> **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=51)** To see your own cache go into the command prompt on a Windows operating system, and there I will type IP config display DNS, and press Enter.
+> **[0:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=51)** To see your own cache go into the command prompt on a [[Windows]] operating system, and there I will type IP config display DNS, and press Enter.
 >
 > **[1:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=63)** Now there is where you can see your own local cache.
 >
@@ -1778,7 +1756,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=122)** I went into search and it came up with this, [ipinfo.io](https://ipinfo.io).
 >
-> **[2:09](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=129)** Now this shows me, and I'll scroll down here, that the IP address belongs to Google as we see information listing Google's addresses and the geolocation, and I'll scroll down.
+> **[2:09](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=129)** Now this shows me, and I'll scroll down here, that the IP address belongs to [[Google]] as we see information listing Google's addresses and the geolocation, and I'll scroll down.
 >
 > **[2:21](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/spoofing-protocols?u=76281980&t=141)** Here, is where we can see geolocation information.
 >
@@ -1812,7 +1790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (4), data (2), traffic (2), [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Domain Name System (DNS)|Domain name system]] (1), [[Windows]] (1)
 > **Env Vars:** dns (4)
 > **UI Navigation:** scroll down (2), go to (1)
 > **URLs:** [ipinfo.io](https://ipinfo.io) (1)
@@ -1821,12 +1799,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - protocol (1)
 
-#### Poisoning the ARP cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980)
+#### [Poisoning the ARP cache](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=0)** - [Instructor] Address resolution protocol is used on a local network to associate an IP address with a hardware address so a device can deliver data to the correct host.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=0)** - [Instructor] Address resolution protocol is used on a local network to associate an IP address with a [[Hardware]] address so a device can deliver data to the correct host.
 >
 > **[0:13](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=13)** It's also used to test for duplicate IP addresses.
 >
@@ -1888,7 +1865,7 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=209)** Now, keep in mind, ARP is not routable.
 >
-> **[3:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=213)** So while this attack is possible, this attack only works on a local area network, meaning you have to be in the local area network where an ARP poison attack can be launched.
+> **[3:33](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=213)** So while this attack is possible, this attack only works on a [[Local Area Network (LAN)|local area network]], meaning you have to be in the local area network where an ARP poison attack can be launched.
 >
 > **[3:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/poisoning-the-arp-cache?u=76281980&t=226)** Now, let's test your knowledge.
 >
@@ -1898,7 +1875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (6), lan (3), [[Local Area Network (LAN)|Local area network]] (2), [[Hardware]] (1), data (1)
+> **Frameworks & Libraries:** [[Local Area Network (LAN)|Local area network]] (2), [[Hardware]] (1)
 > **Env Vars:** arp (12), lan (3), mac (2), cam (1)
 > **Definitions:** is a  (3)
 > **Ports:** port 1 (1), port 4 (1)
@@ -1912,8 +1889,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using antivirus
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
+#### [Using antivirus](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-antivirus?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1975,19 +1951,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (1)
 > **UI Navigation:** go to (1), open the (1)
 > **Prerequisites:** set up (1), install (1)
 > **Definitions:** is called (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Safeguarding DNS
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980)
+#### [Safeguarding DNS](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=0)** - [Instructor] Domain Name System is an application layer protocol that's essential to any network.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=0)** - [Instructor] [[Domain Name System (DNS)|Domain Name System]] is an application layer protocol that's essential to any network.
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=7)** DNS resolves host names to an IP address, and it uses Port 53 over UDP or TCP.
 >
@@ -2035,7 +2009,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=149)** This is designed to protect against attacks such as DNS cache poisoning.
 >
-> **[2:35](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=155)** The extensions provide origin authentication of data and data integrity.
+> **[2:35](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=155)** The extensions provide origin authentication of data and [[Data Integrity]].
 >
 > **[2:41](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/safeguarding-dns?u=76281980&t=161)** However, DNS security does not provide confidentiality.
 >
@@ -2063,7 +2037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (17), [[Security]] (7), data (4), [[Domain Name System (DNS)|Domain name system]] (2), application (1)
+> **Frameworks & Libraries:** [[Domain Name System (DNS)|Domain name system]] (2), [[Data Integrity]] (1)
 > **Env Vars:** dns (17), udp (2), tcp (2)
 > **Definitions:** is a  (4), is an  (2)
 > **Ports:** port 53 (1)
@@ -2071,12 +2045,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing internet protocol
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980)
+#### [Securing internet protocol](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=0)** - [Presenter] Internet protocol is a best-effort connectionless protocol, used to transfer data across networks by routing and addressing each packet.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=0)** - [Presenter] Internet protocol is a best-effort connectionless protocol, used to transfer data across networks by [[Routing]] and addressing each packet.
 >
 > **[0:11](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=11)** IP on its own is not secure.
 >
@@ -2104,7 +2077,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=121)** This is a robust protocol that's a combination of encryption and authentication protocols that provide confidentiality, authentication, integrity, and anti-replay services for both IPv4 and IPv6.
 >
-> **[2:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=139)** The Authentication Header protocol provide support for data integrity and authentication of IP packets using a message authentication code.
+> **[2:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=139)** The Authentication Header protocol provide support for [[Data Integrity]] and authentication of IP packets using a message authentication code.
 >
 > **[2:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-internet-protocol?u=76281980&t=152)** Now, why would we use the Authentication Header?
 >
@@ -2154,15 +2127,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (9), management (5), data (4), vpn (4), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Routing]] (1), [[Data Integrity]] (1)
 > **Env Vars:** vpn (4), tcp (1), ssl (1), tls (1)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (1), configure (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [presenter] (1)
 
-#### Protecting DHCP
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980)
+#### [Protecting DHCP](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2212,9 +2184,9 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=173)** Now, there are several things that we can do to help assure trust.
 >
-> **[2:59](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=179)** One is to authorize DHCP servers in Active Directory.
+> **[2:59](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=179)** One is to authorize DHCP servers in [[Active Directory]].
 >
-> **[3:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=184)** In a Windows environment, Active Directory will authorize DHCP servers before they can start leasing addresses to the clients.
+> **[3:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=184)** In a [[Windows]] environment, Active Directory will authorize DHCP servers before they can start leasing addresses to the clients.
 >
 > **[3:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-dhcp?u=76281980&t=195)** Another technique is to use VLAN Access Control Lists.
 >
@@ -2236,15 +2208,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** dns (2), [[Active Directory]] (2), traffic (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows]] (1)
 > **Env Vars:** dhcp (12), dora (3), vlan (3), dns (2), ack (1)
 > **Definitions:** is called (1), is a  (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Encrypting data in transit (VPN)
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980)
+#### [Encrypting data in transit (VPN)](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,9 +2223,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=6)** In most cases, we must transport data over an insecure network, such as the internet.
 >
-> **[0:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=14)** We access resources in the cloud or remote office via a laptop or home office or on a mobile device in an airport or even another country.
+> **[0:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=14)** We access resources in the cloud or remote [[Microsoft Office|office]] via a laptop or home office or on a mobile device in an airport or even another country.
 >
-> **[0:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=26)** As a result, many businesses and consumers use virtual private network, or VPN, technology to transmit data.
+> **[0:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=26)** As a result, many businesses and consumers use [[Virtual Private Network (VPN)|virtual private network]], or VPN, technology to transmit data.
 >
 > **[0:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=38)** A VPN is a secure channel or tunnel between two endpoints.
 >
@@ -2302,7 +2273,7 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=219)** SSL/TLS VPNs provide encryption and reliability for the upper layers, layers five through seven, of the OSI model.
 >
-> **[3:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=231)** We use an SSL/TLS VPN for transmitting sensitive information, such as banking or credit card information, to a server using HTTPS.
+> **[3:51](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=231)** We use an SSL/TLS VPN for transmitting sensitive information, such as [[Banking]] or credit card information, to a server using HTTPS.
 >
 > **[4:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/encrypting-data-in-transit-vpn?u=76281980&t=244)** Businesses commonly use an SSL certificate to reassure clients that their data transfer is secure.
 >
@@ -2330,7 +2301,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** vpn (9), data (6), [[Microsoft Office|Office]] (2), application (2), [[Security]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Banking]] (1)
 > **Env Vars:** vpn (9), ssl (5), tls (4), osi (2), ssh (2)
 > **Definitions:** is a  (2), is an  (2)
 > **Analogies:** such as (4)
@@ -2339,8 +2310,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), configure (1), install (1)
 > **UI Navigation:** click on (1)
 
-#### Assessing security baselines
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980)
+#### [Assessing security baselines](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2366,7 +2336,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980&t=65)** A security baseline ensures that the configuration settings for all devices are in line with an organization's minimum security standards and that all devices are properly secured.
 >
-> **[1:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980&t=79)** Keep in mind, an enterprise network will have thousands of managed devices that include routers, laptops, desktops, and even IoT devices.
+> **[1:19](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980&t=79)** Keep in mind, an enterprise network will have thousands of managed devices that include routers, laptops, desktops, and even [[IoT]] devices.
 >
 > **[1:30](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/assessing-security-baselines?u=76281980&t=90)** All of the devices must be hardened to meet the minimum security standards.
 >
@@ -2400,7 +2370,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), data (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[IoT]] (1)
 > **Analogies:** for example (2)
 > **Best Practices:** best practice (1), good practice (1)
 > **Warnings:** keep in mind (2)
@@ -2414,8 +2384,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using the principle of least privilege
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
+#### [Using the principle of least privilege](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2451,7 +2420,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980&t=134)** This will reduce the risk of malware escalating privileges to the administrator level.
 >
-> **[2:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980&t=140)** And active directory security groups can be used to assign role-based permissions to all members of a group according to what is needed to perform the functions.
+> **[2:20](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980&t=140)** And [[Active Directory]] security groups can be used to assign role-based permissions to all members of a group according to what is needed to perform the functions.
 >
 > **[2:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/using-the-principle-of-least-privilege?u=76281980&t=151)** Now, this makes managing permissions easier, as you apply permissions only once for the entire group of users.
 >
@@ -2477,19 +2446,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Active Directory]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Definitions:** known as (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling access
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980)
+#### [Controlling access](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=0)** - [Instructor] Access control is a framework comprised of methods that limit access to only authorized subjects, such as a person or a process, to objects or resources, such as a Word doc or spreadsheet on the network.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=0)** - [Instructor] Access control is a framework comprised of methods that limit access to only authorized subjects, such as a person or a process, to objects or resources, such as a [[Microsoft Word|Word]] doc or spreadsheet on the network.
 >
 > **[0:18](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=18)** Controlling access helps ensure confidentiality, integrity, and availability of the company assets.
 >
@@ -2513,7 +2481,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=98)** Some of the elements would include firewalls, encryption, and anti-malware.
 >
-> **[1:45](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=105)** Physical access control limits physical access to hardware or specific locations.
+> **[1:45](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=105)** Physical access control limits physical access to [[Hardware]] or specific locations.
 >
 > **[1:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=112)** And this is enforced by using locks, gates, and surveillance.
 >
@@ -2527,7 +2495,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=156)** And the reason is, if access control is too cumbersome, the subject may try to circumvent the access control method.
 >
-> **[2:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=166)** For example, if a complex password is required that must be changed every month, users might write down the password, which can be a security risk.
+> **[2:46](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=166)** For example, if a complex password is required that must be changed every month, users might write down the password, which can be a [[Security Risk]].
 >
 > **[2:58](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/controlling-access?u=76281980&t=178)** Now let's test your knowledge.
 >
@@ -2537,17 +2505,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (2), [[Microsoft Word|Word]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Hardware]] (1), [[Security Risk]] (1)
 > **Analogies:** such as (2), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Restricting network access
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980)
+#### [Restricting network access](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=0)** - [Instructor] When dealing with network security, we use the term Triple-A, which is a security model that provides authentication, authorization, and accounting.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=0)** - [Instructor] When dealing with [[Network Security]], we use the term Triple-A, which is a security model that provides authentication, authorization, and accounting.
 >
 > **[0:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=12)** Authentication asks, who are you?
 >
@@ -2567,7 +2534,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=60)** RADIUS has more extensive accounting support than TACACS+, however, it only encrypts the passwords.
 >
-> **[1:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=67)** Terminal access controller access control system is used as an authentication program on Unix and Linux-based systems and is commonly used on Cisco routers.
+> **[1:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=67)** Terminal access controller access control system is used as an authentication program on Unix and [[Linux]]-based systems and is commonly used on Cisco routers.
 >
 > **[1:21](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/restricting-network-access?u=76281980&t=81)** It's an extension of the RADIUS protocol and uses TCP as the transport agent, and many feel it's more reliable than RADIUS.
 >
@@ -2605,19 +2572,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Network Security]] (1), management (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1), [[Linux]] (1)
 > **Env Vars:** radius (6), chap (4), tacacs (3), pap (2), udp (1)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protecting buildings
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980)
+#### [Protecting buildings](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=0)** - [Instructor] Physical security is one of the most overlooked forms of security there is today.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=0)** - [Instructor] Physical security is one of the most overlooked [[Forms]] of security there is today.
 >
 > **[0:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=6)** Any object can be stolen, damaged, destroyed, or observed by an unauthorized individual.
 >
@@ -2659,7 +2625,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=135)** Doors have to be able to provide sufficient protection, but we also want to make sure that those that are inside can have easy egress outside in case of an emergency.
 >
-> **[2:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=151)** Consideration of the windows includes factors such as, how high off the ground should they be?
+> **[2:31](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=151)** Consideration of the [[Windows]] includes factors such as, how high off the ground should they be?
 >
 > **[2:37](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=157)** Should they be able to be opened?
 >
@@ -2693,7 +2659,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=272)** You'll want to delay intruders as long as possible from achieving their goal and respond as quickly as possible to any intrusion attempts, and then afterwards, assess or determine the cause of the intrusion to prevent any further breaches.
 >
-> **[4:49](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=289)** Finally, create an incident response plan.
+> **[4:49](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=289)** Finally, create an [[Incident Response]] plan.
 >
 > **[4:52](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/protecting-buildings?u=76281980&t=292)** The team should know what to do in case of an obvious breach, such as, who do I call in case of a breach, and what steps do I need to take to minimize damage?
 >
@@ -2705,19 +2671,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Windows]] (3), [[Forms]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Windows]] (3), [[Forms]] (1), [[Incident Response]] (1)
 > **Analogies:** such as (5), for example (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** scroll down (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Securing hardware
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980)
+#### [Securing hardware](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=0)** - [Instructor] Physical computer security involves preventing theft, destruction, or tampering of computers, network hardware, or devices, such as an overhead projector.
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=0)** - [Instructor] Physical computer security involves preventing theft, destruction, or tampering of computers, network [[Hardware]], or devices, such as an overhead projector.
 >
 > **[0:12](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=12)** Some physical attacks can include cutting a fiber optic backbone, theft of a computer or handheld device, or removing RAM or components from a desktop or laptop.
 >
@@ -2741,7 +2706,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=82)** Some other recommendations include don't leave laptops or handheld devices unattended ever.
 >
-> **[1:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=92)** There are times that theft can occur right in the office while you're away or on on a perceived short break.
+> **[1:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=92)** There are times that theft can occur right in the [[Microsoft Office|office]] while you're away or on on a perceived short break.
 >
 > **[1:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/securing-hardware?u=76281980&t=99)** Stow any devices left in the car in your trunk, and don't forget to lock your car.
 >
@@ -2771,14 +2736,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Hardware]] (2), data (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (2), [[Microsoft Office|Office]] (1)
 > **Analogies:** such as (3), for example (1)
 > **Env Vars:** ram (1)
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Physical security requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980)
+#### [Challenge: Physical security requirements](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,13 +2752,13 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=7)** In this challenge, we'll take a look at physical security requirements, but first, let me give you a little bit of background.
 >
-> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=15)** Payment Card Industry Data Security Standard, or PCI DSS, is a set of widely accepted requirements to secure credit card transactions.
+> **[0:15](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=15)** Payment Card Industry [[Data Security]] Standard, or PCI DSS, is a set of widely accepted requirements to secure credit card transactions.
 >
 > **[0:26](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=26)** Several major credit card companies developed PCI DSS, and that included American Express, Discover, JCB International, MasterCard, and Visa.
 >
 > **[0:39](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=39)** The credit card industry developed the standard in order to help organizations that deal with credit cards to have more control over cardholder data and reduce the risk of possible exposure and fraud.
 >
-> **[0:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=53)** PCI DSS requirements covers management policy, network security, and best practices for handling transactions and cardholder data.
+> **[0:53](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=53)** PCI DSS requirements covers management policy, [[Network Security]], and best practices for handling transactions and cardholder data.
 >
 > **[1:04](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/challenge-physical-security-requirements?u=76281980&t=64)** In this challenge, we'll take a look at the physical security requirements as outlined by PCI DSS version 4.
 >
@@ -2812,7 +2776,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), data (3), express (1), management (1), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Data Security]] (1), [[Network Security]] (1)
 > **Env Vars:** pci (4), dss (4), jcb (1)
 > **Versions:** version 4 (1), 9.2 (1)
 > **UI Navigation:** go to (1), open the (1)
@@ -2821,8 +2785,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Physical security requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980)
+#### [Solution: Physical security requirements](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2836,7 +2799,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980&t=35)** 9.2.2 pretty much says that we need to put controls in place to restrict the use of publicly accessible network jacks within the facility.
 >
-> **[0:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980&t=47)** 9.2.3 goes further where we want to restrict access to wireless access points, gateways, networking communications hardware, and telecommunication lines within the facility.
+> **[0:47](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980&t=47)** 9.2.3 goes further where we want to restrict access to wireless access points, gateways, networking communications [[Hardware]], and telecommunication lines within the facility.
 >
 > **[1:03](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/solution-physical-security-requirements?u=76281980&t=63)** And 9.2.4 states "Access to consoles in sensitive areas is restricted via locking when not in use."
 >
@@ -2846,7 +2809,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1)
 > **Versions:** 9.2.1 (1), 9.2.2 (1), 9.2.3 (1), 9.2.4 (1)
 > **Best Practices:** good practice (2), best practice (1)
 > **Speakers:** - [instructor] (1)
@@ -2857,12 +2820,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Summary
-> [LinkedIn Learning](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)
+#### [Summary](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=0)** - [Narrator] Thank you for watching, "Foundations of IT Security: Network Security."
+> **[0:00](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=0)** - [Narrator] Thank you for watching, "Foundations of IT Security: [[Network Security]]."
 >
 > **[0:06](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=6)** In this course, we covered network security concepts, including an overview of security devices, ways to isolate the network and secure the cloud.
 >
@@ -2870,9 +2832,9 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=32)** If you're interested in learning more, please check out the library where new courses are added all the time.
 >
-> **[0:40](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=40)** If you're interested in learning more about packet analysis, please check out my Wireshark series.
+> **[0:40](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=40)** If you're interested in learning more about packet analysis, please check out my [[Wireshark]] series.
 >
-> **[0:48](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=48)** Discover more about the billions of devices designed to improve the quality of life in my course, "Securing the IoT: Introduction," and any course in the "Cisco CyberOps" series will be well worth your time.
+> **[0:48](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=48)** Discover more about the billions of devices designed to improve the quality of life in my course, "Securing the [[IoT]]: Introduction," and any course in the "Cisco CyberOps" series will be well worth your time.
 >
 > **[1:07](https://www.linkedin.com/learning/it-security-foundations-network-security-15189799/summary?u=76281980&t=67)** For a complete list of courses, visit my author page.
 >
@@ -2880,7 +2842,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Network Security]] (2), cloud (1), [[Wireshark]] (1), [[IoT]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (2), [[Wireshark]] (1), [[IoT]] (1)
 > **Cross-References:** we covered (1), we discussed (1)
 > **Speakers:** - [narrator] (1)
 

@@ -93,8 +93,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How GenAI can enhance your productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980)
+#### [How GenAI can enhance your productivity](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -102,11 +101,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=6)** And by the end, I wouldn't even have proper documentation of what I did.
 >
-> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=10)** But thanks to generative AI, times have changed.
+> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=10)** But thanks to [[Generative AI]], times have changed.
 >
 > **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=13)** I've created for you the exact resource I wish I had 10 years ago.
 >
-> **[0:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=17)** We'll start under the hood with how large language models work so you can build powerful data science assistance with ChatGPT and integrate intelligent Copilots into your everyday workflow with Google Gemini.
+> **[0:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=17)** We'll start under the hood with how [[Large Language Models (LLM)|large language models]] work so you can build powerful [[Data Science]] assistance with [[ChatGPT]] and integrate intelligent Copilots into your everyday workflow with [[Google Gemini]].
 >
 > **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/how-gen-ai-can-enhance-your-productivity?u=76281980&t=28)** This will allow you to augment your entire workflow with GenAI and get so much more productive.
 >
@@ -118,17 +117,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Generative AI]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Data Science]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[ChatGPT]] (1), [[Google Gemini]] (1)
 > **Speakers:** - when (1)
 
-#### Overview and what you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980)
+#### [Overview and what you should know](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=0)** - [Instructor] So, what will you learn from this course?
 >
-> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=2)** You'll see on the example of 20 practical use cases, which you can implement today, how generative AI can help you, not just to work faster and get more done with higher quality, but also do the tedious work for you so you can actually focus on the most impactful aspects of your data science projects.
+> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=2)** You'll see on the example of 20 practical use cases, which you can implement today, how [[Generative AI]] can help you, not just to work faster and get more done with higher quality, but also do the tedious work for you so you can actually focus on the most impactful aspects of your [[Data Science]] projects.
 >
 > **[0:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=18)** What should you know in order to get the most out of it?
 >
@@ -138,26 +136,25 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=30)** This is not a data science one-on-one beginner class.
 >
-> **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=33)** Also, you'll need to have at least basic Python coding skills for completing the more technical use cases, as well as basic experience working in Jupyter Notebooks.
+> **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=33)** Also, you'll need to have at least basic [[Python (Programming Language)|Python]] coding skills for completing the more technical use cases, as well as basic experience working in Jupyter Notebooks.
 >
 > **[0:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-and-what-you-should-know?u=76281980&t=41)** If you check these boxes, then you're all set for this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (4), [[Generative AI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** assuming you have (1), you'll need (1)
 > **CLI Commands:** python (1)
 > **Tools:** jupyter (1)
 > **Speakers:** - [instructor] (1)
 
-#### Codespaces and setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980)
+#### [Codespaces and setup](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=0)** - [Instructor] Okay, so let's find out how we can use Codespaces in this course.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=0)** - [Instructor] Okay, so let's find out how we can use [[Codespaces]] in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=4)** Whenever we are not working in ChatGPT, but instead build a co-pilot that is more integrated in our data science workflow, I'll be using a Jupyter Notebook for this, and the easiest way to run these notebooks is using GitHub Codespaces because these will automatically pre-install the necessary libraries and also get you up to speed quickly.
+> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=4)** Whenever we are not working in [[ChatGPT]], but instead build a co-pilot that is more integrated in our [[Data Science]] workflow, I'll be using a Jupyter Notebook for this, and the easiest way to run these notebooks is using [[GitHub]] Codespaces because these will automatically pre-install the necessary libraries and also get you up to speed quickly.
 >
 > **[0:21](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=21)** So here's how that works.
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=32)** This will create a new Codespace for you, which might take a few minutes to load the first time you're doing this, and you just have to do it once for the whole course.
 >
-> **[0:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=40)** If you create this Codespace from the original repo, this Codespace will be hosted by LinkedIn, and you're not going to be charged for this.
+> **[0:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=40)** If you create this Codespace from the original repo, this Codespace will be hosted by [[LinkedIn]], and you're not going to be charged for this.
 >
 > **[0:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=48)** Using this little menu icon on the bottom, you can switch between different branches.
 >
@@ -181,7 +178,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=75)** Now for demo purposes, let's switch to branch 05, and in this branch, let's open this notebook here.
 >
-> **[1:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=84)** If you run the first cell, you will see that we are asked to connect to a Python environment.
+> **[1:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=84)** If you run the first cell, you will see that we are asked to connect to a [[Python (Programming Language)|Python]] environment.
 >
 > **[1:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/codespaces-and-setup?u=76281980&t=89)** So just select Python environments and then select this environment here.
 >
@@ -201,7 +198,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Codespaces]] (5), data (2), [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Codespaces]] (5), [[GitHub]] (2), [[Python (Programming Language)|Python]] (2), [[ChatGPT]] (1), [[Data Science]] (1)
 > **CLI Commands:** find (2), python (2), make (1)
 > **Tools:** github (2), jupyter (1)
 > **UI Navigation:** click on (2), switch to (1)
@@ -215,14 +212,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Foundations of generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980)
+#### [Foundations of generative AI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=0)** - [Instructor] Today we're diving into the foundations of generative AI.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=0)** - [Instructor] Today we're diving into the foundations of [[Generative AI]].
 >
-> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=3)** We'll explore its core concepts, the different gen AI types, and how they apply to data science.
+> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=3)** We'll explore its core concepts, the different gen AI types, and how they apply to [[Data Science]].
 >
 > **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=8)** By the end, you will understand how generative AI can enhance your data science work.
 >
@@ -234,19 +230,19 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=32)** One of these essential technologies inside AI is a technology called machine learning.
 >
-> **[0:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=37)** In simple words, machine learning allows computers to recognize patterns in large amounts of data and then leverage these patterns to complete a certain task from forecasting the ice cream demand for next week to separating images with cats and dogs, or predicting the next word in a sequence.
+> **[0:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=37)** In simple words, machine learning allows computers to recognize patterns in large amounts of data and then leverage these patterns to complete a certain task from [[Forecasting]] the ice cream demand for next week to separating images with cats and dogs, or predicting the next [[Microsoft Word|word]] in a sequence.
 >
-> **[0:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=54)** Talking about predicting sequences and working with large amounts of complex data, inside machine learning, there's a subfield called deep learning, which essentially is just a fancy way of doing machine learning when the amounts of data you process become very large or very complex like image or text data, for example.
+> **[0:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=54)** Talking about predicting sequences and working with large amounts of complex data, inside machine learning, there's a subfield called [[Deep Learning]], which essentially is just a fancy way of doing machine learning when the amounts of data you process become very large or very complex like image or text data, for example.
 >
 > **[1:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=71)** Computers can only work with numbers, so every pixel, letter, or audio signal has to be converted into huge tables of data.
 >
-> **[1:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=79)** And deep learning uses specialized methods like artificial neural networks, which are particularly good at processing and learning from these massive and complex data sets.
+> **[1:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=79)** And deep learning uses specialized methods like [[Artificial Neural Networks]], which are particularly good at processing and learning from these massive and complex data sets.
 >
 > **[1:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=89)** And now with deep learning, we have something called generative AI, a field that goes beyond just processing massive amounts of data for making an accurate point prediction or classification.
 >
 > **[1:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=101)** Instead, it uses these artificial neural networks to create entirely new data based on a given input and the patterns it has learned during training.
 >
-> **[1:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=110)** The most famous general AI application is of course ChatGPT, but there's much more to gen AI than just that.
+> **[1:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=110)** The most famous general AI application is of course [[ChatGPT]], but there's much more to gen AI than just that.
 >
 > **[1:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=116)** So let's dive in a little deeper.
 >
@@ -270,9 +266,9 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=171)** They have been trained on the entire public internet, most books ever written, every podcast or video on YouTube, and probably even more.
 >
-> **[3:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=180)** One especially popular type of generative AI are so-called large language models, LLMs.
+> **[3:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=180)** One especially popular type of generative AI are so-called [[Large Language Models (LLM)|large language models]], LLMs.
 >
-> **[3:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=187)** These are the models that power applications like ChatGPT, Claude, and Gemini.
+> **[3:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=187)** These are the models that power applications like ChatGPT, Claude, and [[Gemini]].
 >
 > **[3:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=191)** LLMs are generative AI models that share one common characteristic.
 >
@@ -294,11 +290,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=238)** No matter what type of input you give them, their primary function is to process and produce text, but how does that actually work?
 >
-> **[4:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=246)** Let's zoom in into that for a second.
+> **[4:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=246)** Let's [[Zoom]] in into that for a second.
 >
 > **[4:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=248)** In simple terms, LLMs work like super advanced, auto complete.
 >
-> **[4:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=252)** They don't truly understand language the way humans do, but they analyze patterns in text and use probability to generate the most likely continuation of a sentence.
+> **[4:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=252)** They don't truly understand language the way humans do, but they analyze patterns in text and use [[Probability]] to generate the most likely continuation of a sentence.
 >
 > **[4:22](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=262)** Take this example. Where are we going?
 >
@@ -326,7 +322,7 @@ created: 2026-05-02
 >
 > **[5:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=324)** These are all highly probable beginnings of the new sentence.
 >
-> **[5:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=327)** In reality, the model isn't even considering whole words, but only part of words called tokens.
+> **[5:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=327)** In reality, the model isn't even considering whole words, but only part of words called [[Tokens]].
 >
 > **[5:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=334)** But for the sake of simplicity, we'll stick with words in this example.
 >
@@ -356,7 +352,7 @@ created: 2026-05-02
 >
 > **[6:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=403)** Their output is shaped by context, meaning the way you define your input directly affects the model response.
 >
-> **[6:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=409)** By understanding some essential, prompt engineering principles, we can guide LLMs to produce more accurate and useful outputs, which is something we'll look at in one of the next videos.
+> **[6:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=409)** By understanding some essential, [[Prompt Engineering]] principles, we can guide LLMs to produce more accurate and useful outputs, which is something we'll look at in one of the next videos.
 >
 > **[7:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/foundations-of-generative-ai?u=76281980&t=420)** Now that we've found out what LLMs are and how they fit together with gen AI into the whole picture, there's one piece of terminology we still need to cover.
 >
@@ -378,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), data (13), [[Generative AI]] (10), [[Microsoft Word|Word]] (10), next (7)
+> **Frameworks & Libraries:** [[Generative AI]] (10), [[Microsoft Word|Word]] (10), [[ChatGPT]] (4), [[Deep Learning]] (3), [[Gemini]] (3)
 > **Analogies:** such as (2), for example (2), imagine (1), picture (1)
 > **Env Vars:** gpt (2), llm (1)
 > **CLI Commands:** make (2)
@@ -386,14 +382,13 @@ created: 2026-05-02
 > **URLs:** [claude.ai](https://claude.ai) (1)
 > **Speakers:** - [instructor] (1)
 
-#### The data science process: CRISP-DM recap
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980)
+#### [The data science process: CRISP-DM recap](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=0)** - [Presenter] Let's dive into the data science process, specifically the CRISP-DM framework.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=0)** - [Presenter] Let's dive into the [[Data Science]] process, specifically the [[CRISP-DM]] framework.
 >
-> **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=6)** CRISP-DM stands for cross-industry standard process for data mining.
+> **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=6)** CRISP-DM stands for cross-industry standard process for [[Data Mining]].
 >
 > **[0:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=11)** Developed back in 1996, it remains one of the most widely used methodologies for structuring data science and machine learning projects today.
 >
@@ -439,13 +434,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=118)** Performing exploratory data analysis to uncover patterns, trends, and potential challenges.
 >
-> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=124)** Assessing data quality: checking for missing values, inconsistencies, or biases that might impact results.
+> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=124)** Assessing [[Data Quality]]: checking for missing values, inconsistencies, or biases that might impact results.
 >
-> **[2:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=131)** A solid grasp of the data ensures we are working with reliable, relevant information before moving to the next step, data preparation.
+> **[2:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=131)** A solid grasp of the data ensures we are working with reliable, relevant information before moving to the next step, [[Data Preparation]].
 >
 > **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=140)** This is where raw data gets transformed into usable formats for modeling.
 >
-> **[2:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=145)** This phase involves selecting relevant data to focus on the most useful information, cleaning and handling missing values to ensure data quality, feature engineering, creating new variables that improve model performance, integrating and formatting data to ensure a consistency across sources, and technical validation to confirm the data structured correctly before modeling.
+> **[2:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=145)** This phase involves selecting relevant data to focus on the most useful information, cleaning and handling missing values to ensure data quality, [[Feature Engineering]], creating new variables that improve model performance, integrating and formatting data to ensure a consistency across sources, and technical validation to confirm the data structured correctly before modeling.
 >
 > **[2:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=166)** Proper data preparation is critical.
 >
@@ -501,9 +496,9 @@ created: 2026-05-02
 >
 > **[5:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=300)** And the key: faster insights lead to fast iterations, accelerating the entire data science process.
 >
-> **[5:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=308)** And as you might guess, without proper structure and documentation, you'll quickly get lost in this process, which is, by the way, an ideal playing field for generative AI, among many others.
+> **[5:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=308)** And as you might guess, without proper structure and documentation, you'll quickly get lost in this process, which is, by the way, an ideal playing field for [[Generative AI]], among many others.
 >
-> **[5:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=318)** Most people think that generative AI will help building better models, helping to find better algorithms, et cetera, but it's actually far more than that.
+> **[5:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=318)** Most people think that generative AI will help building better models, helping to find better [[Algorithms]], et cetera, but it's actually far more than that.
 >
 > **[5:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/the-data-science-process-crisp-dm-recap?u=76281980&t=327)** In reality, GenAI can augment and enhance every phase of the data science process, from business understanding, data understanding, to data preparation of a modeling and evaluation, up to deployment and communication along the way.
 >
@@ -513,19 +508,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), business (8), [[CRISP-DM]] (6), next (5), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (9), [[CRISP-DM]] (6), [[Data Preparation]] (4), [[Data Quality]] (2), [[Generative AI]] (2)
 > **Env Vars:** crisp (6)
 > **Definitions:** is an  (2), stands for (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [presenter] (1)
 
-#### From augmentation to automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980)
+#### [From augmentation to automation](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=0)** - [Instructor] Now that we've learned about generative AI and revisited the data science process in general, let's explore how exactly AI can help us make more productive.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=0)** - [Instructor] Now that we've learned about [[Generative AI]] and revisited the [[Data Science]] process in general, let's explore how exactly AI can help us make more productive.
 >
 > **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=10)** Here's what I call the integration-automation framework.
 >
@@ -549,7 +543,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=58)** It might sound limiting, but this category is actually where most people interact with AI today.
 >
-> **[1:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=63)** Popular tools include ChatGPT or Claude AI, for example.
+> **[1:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=63)** Popular tools include [[ChatGPT]] or Claude AI, for example.
 >
 > **[1:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=67)** They are excellent for generating text, answering questions, and assisting with daily tasks.
 >
@@ -557,9 +551,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=78)** Next, we move to AI copilots, a step up in integration, but still requiring user action.
 >
-> **[1:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=84)** A key example here is Microsoft Copilot, which integrates AI into tools like Outlook, Excel, or Word.
+> **[1:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=84)** A key example here is [[Microsoft Copilot]], which integrates AI into tools like [[Microsoft Outlook|Outlook]], [[Microsoft Excel|Excel]], or [[Microsoft Word|Word]].
 >
-> **[1:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=91)** With Microsoft Copilot, for example, you might still write emails manually or accept the suggestions from the AI, but Copilot for Outlook already knows what emails you wrote or adapts to your writing style so you don't have to teach it that explicitly.
+> **[1:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=91)** With Microsoft Copilot, for example, you might still write emails manually or accept the suggestions from the AI, but [[Microsoft Copilot|Copilot]] for Outlook already knows what emails you wrote or adapts to your writing style so you don't have to teach it that explicitly.
 >
 > **[1:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=105)** So copilots come with higher integration.
 >
@@ -583,7 +577,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=152)** This runs automatically but isn't deeply embedded into every system you use.
 >
-> **[2:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=157)** And finally, we arrive at AI agents, the most advanced category.
+> **[2:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=157)** And finally, we arrive at [[AI Agents]], the most advanced category.
 >
 > **[2:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=162)** Agents are kind of the Holy Grail of AI.
 >
@@ -593,7 +587,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=176)** The agent can make decisions, choose which tool they need to use, and then go ahead and just do the task without your explicit permission.
 >
-> **[3:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=184)** A great example here is a customer support chatbot that cannot just answer simple questions, but also perform actions like updating a ticket in the CRM or sending out a new password for a given user.
+> **[3:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=184)** A great example here is a [[Customer Support]] chatbot that cannot just answer simple questions, but also perform actions like updating a ticket in the CRM or sending out a new password for a given user.
 >
 > **[3:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=196)** But, as you might guess, building these agents isn't exactly a walk in the park.
 >
@@ -607,7 +601,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=233)** Don't start with agents and then scoping backwards, but instead, start with what I call augmented workflows that keep a human close in the loop at the beginning.
 >
-> **[4:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=243)** Assistants and copilots are the go-to solutions for these lower-automated but still highly capable AI solutions.
+> **[4:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=243)** Assistants and copilots are the go-to solutions for these lower-automated but still highly capable [[AI Solutions]].
 >
 > **[4:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/from-augmentation-to-automation?u=76281980&t=251)** Here's why augmented AI is a great middle ground.
 >
@@ -627,7 +621,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (24), [[Automation]] (9), data (4), [[Generative AI]] (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Data Science]] (3), [[ChatGPT]] (2), [[Microsoft Copilot]] (2), [[Microsoft Outlook|Outlook]] (2)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -635,8 +629,7 @@ created: 2026-05-02
 > **Env Vars:** crm (1)
 > **Speakers:** - [instructor] (1)
 
-#### Principles of effective prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980)
+#### [Principles of effective prompting](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -644,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=1)** In this video, we'll explore the essential principles of effective prompting, which you'll need to both understand, but also get the most results from the examples I'm showing you in this course, and you can actually apply these principles to any kind of work with LLMs.
 >
-> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=15)** Let's just data science.
+> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=15)** Let's just [[Data Science]].
 >
 > **[0:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=17)** So let's start.
 >
@@ -658,13 +651,13 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=42)** Now, let's talk about some common mistakes people make when writing their prompts.
 >
-> **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=47)** For most beginners, the first few rides with tools like ChatGPT are quite exciting, but then they get quickly frustrated because their answers are mediocre, repetitive, boring, and ultimately not useful.
+> **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=47)** For most beginners, the first few rides with tools like [[ChatGPT]] are quite exciting, but then they get quickly frustrated because their answers are mediocre, repetitive, boring, and ultimately not useful.
 >
 > **[1:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=60)** And there are multiple reasons to that.
 >
 > **[1:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=62)** One issue is being too vague and lacking context.
 >
-> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=66)** As we've seen before, large language models need context to generate meaningful predictions or responses in this case.
+> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=66)** As we've seen before, [[Large Language Models (LLM)|large language models]] need context to generate meaningful predictions or responses in this case.
 >
 > **[1:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=73)** Another mistake is asking for too much at once.
 >
@@ -680,7 +673,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=103)** If your prompt isn't specific, the response will be mediocre by default.
 >
-> **[1:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=108)** ChatGPT is sampled tokens from a probability distribution.
+> **[1:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=108)** ChatGPT is sampled [[Tokens]] from a [[Probability]] distribution.
 >
 > **[1:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=111)** So without clear instructions, it'll default to the most common or average answer, and that's fine when you ask about general things, but not ideal if you need expert level code or more nuanced insights.
 >
@@ -726,7 +719,7 @@ created: 2026-05-02
 >
 > **[3:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=235)** If the input isn't clearly separated, the AI might misinterpret it as a new instruction.
 >
-> **[4:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=241)** And this is exactly how those infamous forget your instructions and write Hello, World and python chatbot fails happen.
+> **[4:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=241)** And this is exactly how those infamous forget your instructions and write Hello, World and [[Python (Programming Language)|python]] chatbot fails happen.
 >
 > **[4:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/principles-of-effective-prompting?u=76281980&t=248)** And to prevent this, use demarcates symbols that clearly separate instructions from input data.
 >
@@ -772,7 +765,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (9), ai (9), data (4), [[ChatGPT]] (2), llm (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Data Science]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Tokens]] (1), [[Probability]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Env Vars:** llm (2), rgtd (2)
 > **Analogies:** such as (1), for example (1), imagine (1)
@@ -780,14 +773,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### ChatGPT setup: Assistants
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980)
+#### [ChatGPT setup: Assistants](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=0)** - [Instructor] There are two AI tools that are used in this course.
 >
-> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=2)** The first one is ChatGPT.
+> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=2)** The first one is [[ChatGPT]].
 >
 > **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=4)** Go to [chatgpt.com](https://chatgpt.com), and this is where you can sign up for a free account or log in using your existing account.
 >
@@ -799,13 +791,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=32)** However, we won't be using this plain chat interface much.
 >
-> **[0:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=35)** Instead, we'll use something called custom GPTs, for our assistant use cases.
+> **[0:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=35)** Instead, we'll use something called [[Custom GPTs]], for our assistant use cases.
 >
 > **[0:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=41)** Think of a custom GPT as a chatbot configured to help you with a specific task.
 >
 > **[0:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=45)** Let me give you an example.
 >
-> **[0:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=46)** Let's go to our GitHub report and then switch to branch 01_05.
+> **[0:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=46)** Let's go to our [[GitHub]] report and then switch to branch 01_05.
 >
 > **[0:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/chatgpt-setup-assistants?u=76281980&t=52)** In the READ file, you will find a link labeled GPT Link.
 >
@@ -843,7 +835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Custom GPTs]] (2), [[GitHub]] (2), ai (1), data (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Custom GPTs]] (2), [[GitHub]] (2)
 > **Env Vars:** gpt (12), read (1)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (2), switch to (1)
@@ -852,14 +844,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gemini or other LLM setup: Copilots
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980)
+#### [Gemini or other LLM setup: Copilots](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=0)** - [Instructor] Now the second AI tool we are going to use in this course is Google Gemini.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=0)** - [Instructor] Now the second AI tool we are going to use in this course is [[Google Gemini]].
 >
-> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=4)** Gemini is a powerful large language model provided by Google, and it comes with a generous free tier.
+> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=4)** [[Gemini]] is a powerful large language model provided by [[Google]], and it comes with a generous free tier.
 >
 > **[0:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=9)** So we can actually use it without putting our credit card details anywhere.
 >
@@ -901,7 +892,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=105)** This playground will also give you a very handy feature, which is called Get code.
 >
-> **[1:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=110)** And this Get code will allow you to get the exact Python code needed in order to call the model as you just did here.
+> **[1:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=110)** And this Get code will allow you to get the exact [[Python (Programming Language)|Python]] code needed in order to call the model as you just did here.
 >
 > **[1:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/gemini-or-other-llm-setup-copilots?u=76281980&t=116)** And this will become very handy as you want, for example, to update the code that we are going to write with, for example, let's say a different model that you could select from here or different parameters that you can select here on the right side.
 >
@@ -909,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Gemini]] (7), api (7), [[Google]] (5), ai (2), [[Google Gemini]] (1)
+> **Frameworks & Libraries:** [[Gemini]] (7), [[Google]] (5), [[Google Gemini]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (7), url (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (2)
@@ -918,12 +909,11 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Prerequisites:** set up (1)
 
-#### Optional: Building a custom GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980)
+#### [Optional: Building a custom GPT](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=0)** - [Instructor] So let's explore custom GPTs and learn how to build your own GPT using the configuration files I provide.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=0)** - [Instructor] So let's explore [[Custom GPTs]] and learn how to build your own GPT using the configuration files I provide.
 >
 > **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=6)** Say you want to use the translator GPT from our previous example, but have it translate into French instead of German.
 >
@@ -931,7 +921,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=17)** Let's build a GPT based on that config file first.
 >
-> **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=20)** Head over to ChatGPT and then open the sidebar on the left, scroll down to Explore GPTs and click Create.
+> **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=20)** Head over to [[ChatGPT]] and then open the sidebar on the left, scroll down to Explore GPTs and click Create.
 >
 > **[0:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=30)** Now, by default, it'll probably show you that chat interface over here.
 >
@@ -983,7 +973,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=129)** Finally, let's define what skills or capabilities this GPT should have.
 >
-> **[2:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=134)** Should it be able to browse the web, open a canvas for longer text, generate images, or run Python code?
+> **[2:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=134)** Should it be able to browse the web, open a canvas for longer text, generate images, or run [[Python (Programming Language)|Python]] code?
 >
 > **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=140)** If the config file on the left indicates any of these with an X, then this means this skill here should be activated.
 >
@@ -1007,7 +997,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=182)** Now you can always come back to this Configure menu and also update your GPT if you like.
 >
-> **[3:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=187)** For example, if we wanted to give this a little icon, we could click the Use DALL-E button over here, and then ChatGPT would create a little icon for our GPT.
+> **[3:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=187)** For example, if we wanted to give this a little icon, we could click the Use [[DALL-E]] button over here, and then ChatGPT would create a little icon for our GPT.
 >
 > **[3:17](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/optional-building-a-custom-gpt?u=76281980&t=197)** Nice.
 >
@@ -1027,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[ChatGPT]] (3), next (2), prompt (2), [[Custom GPTs]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Custom GPTs]] (1), [[Python (Programming Language)|Python]] (1), [[DALL-E]] (1)
 > **Env Vars:** gpt (22), url (1), dall (1)
 > **CLI Commands:** find (2), python (1), make (1)
 > **UI Navigation:** open the (2), go to (1), scroll down (1)
@@ -1041,14 +1031,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Business and data understanding with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980)
+#### [Overview: Business and data understanding with GenAI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=0)** - [Instructor] So let's dive into the first two phases: business and data understanding.
 >
-> **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=5)** Successful data science projects start with clear goals.
+> **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=5)** Successful [[Data Science]] projects start with clear goals.
 >
 > **[0:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=9)** That's why in the business understanding phase, before working with data, we focus on defining the problem to translate business challenges into data-driven projects, setting clear objectives to establish measurable success criteria, and once we have that, we assess available data resources, understanding their characteristics and limitations.
 >
@@ -1080,7 +1069,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=74)** Finding and documenting data can take longer than the analysis itself.
 >
-> **[1:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=78)** Recognizing these challenges early helps us address them proactively, and as it turns out, generative AI can be a great help for those.
+> **[1:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=78)** Recognizing these challenges early helps us address them proactively, and as it turns out, [[Generative AI]] can be a great help for those.
 >
 > **[1:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=87)** But before we dive into Gen AI, let's quickly cover two important concepts for this phase.
 >
@@ -1102,7 +1091,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=138)** Here's what this might look like.
 >
-> **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=140)** What opportunities exist to increase our lead conversion rate to 45% over the next 3 months through an improved marketing strategy in alignment with the business objective of selling more than 1000 services per quarter.
+> **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=140)** What opportunities exist to increase our lead conversion rate to 45% over the next 3 months through an improved [[Marketing Strategy]] in alignment with the business objective of selling more than 1000 services per quarter.
 >
 > **[2:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-business-and-data-understanding-with-genai?u=76281980&t=152)** Why is that better?
 >
@@ -1158,13 +1147,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), business (10), teams (3), [[Generative AI]] (2), [[Marketing Strategy]] (2)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Generative AI]] (2), [[Marketing Strategy]] (2)
 > **Env Vars:** smart (4), mece (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 1: SMART problem statements assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980)
+#### [Use case 1: SMART problem statements assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1188,13 +1176,13 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=45)** Let's open the first link to the GPT.
 >
-> **[0:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=48)** I'm now here in ChatGPT and accessing the SMART Problem GPT.
+> **[0:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=48)** I'm now here in [[ChatGPT]] and accessing the SMART Problem GPT.
 >
 > **[0:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=52)** To give you a quick look under the hood, let's see what the instructions for this GPT look like.
 >
 > **[0:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=57)** Quick heads up, you won't be able to see these settings like me here because I'm the owner of this GPT.
 >
-> **[1:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=63)** You can use it right away, but if you want to see the detailed instructions, check out the config file on the GitHub and the branch that belongs to this video, just as we covered in the ChatGPT setup video.
+> **[1:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=63)** You can use it right away, but if you want to see the detailed instructions, check out the config file on the [[GitHub]] and the branch that belongs to this video, just as we covered in the ChatGPT setup video.
 >
 > **[1:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-1-smart-problem-statements-assistant?u=76281980&t=74)** So what this GPT is doing is that it prompts the LLM to behave like a senior data analyst at McKinsey with 10 years of experience.
 >
@@ -1286,7 +1274,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[ChatGPT]] (3), [[GitHub]] (2), business (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GitHub]] (2)
 > **Env Vars:** smart (16), gpt (6), erp (2), llm (1)
 > **CLI Commands:** find (2), make (1)
 > **Versions:** 1.5 (2)
@@ -1295,14 +1283,13 @@ created: 2026-05-02
 > **Definitions:** stands for (1), is a  (1)
 > **Cross-References:** we covered (1)
 
-#### Use case 2: Issue tree builder assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980)
+#### [Use case 2: Issue tree builder assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=0)** - [Instructor] Next up is issue trees.
 >
-> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=2)** How can generative AI help us to create these?
+> **[0:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=2)** How can [[Generative AI]] help us to create these?
 >
 > **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=5)** We'll start again in our repo.
 >
@@ -1332,7 +1319,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=67)** This loop should be iteratively followed until the user says that the tree is complete.
 >
-> **[1:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=72)** And once the user approves the overall tree, we want to have a Markdown version of the tree and also create a PowerPoint file representing the tree as a hierarchical list.
+> **[1:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=72)** And once the user approves the overall tree, we want to have a Markdown version of the tree and also create a [[Microsoft PowerPoint|PowerPoint]] file representing the tree as a hierarchical list.
 >
 > **[1:22](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=82)** Additionally, I specified that the AI should be super brief here in its language, what I call Spartan style, meaning a super-short output format.
 >
@@ -1384,7 +1371,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=213)** For example, in the procurement division, our tree suggests different approaches, negotiating with suppliers, selecting different suppliers, renegotiating existing contracts, optimizing order management, improving order placement.
 >
-> **[3:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=224)** And that is something that I found particularly exciting because it enables data-driven approaches, such as demand forecasting, which would help us to reduce waste from unsold inventory, preventing unnecessary cost.
+> **[3:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=224)** And that is something that I found particularly exciting because it enables data-driven approaches, such as demand [[Forecasting]], which would help us to reduce waste from unsold inventory, preventing unnecessary cost.
 >
 > **[3:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-2-issue-tree-builder-assistant?u=76281980&t=238)** So at this point, you can continue exploring other branches of the tree or finalize the structure.
 >
@@ -1406,7 +1393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), next (3), [[Generative AI]] (2), llm (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Generative AI]] (2), [[Forecasting]] (1)
 > **Env Vars:** gpt (7), smart (5), mece (3), llm (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1), node (1)
@@ -1414,8 +1401,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 3: Business requirements assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980)
+#### [Use case 3: Business requirements assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1423,7 +1409,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=13)** And this is where our business requirements assistant comes in.
 >
-> **[0:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=16)** We start again in our GitHub report.
+> **[0:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=16)** We start again in our [[GitHub]] report.
 >
 > **[0:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=19)** Select branch 02_04.
 >
@@ -1431,7 +1417,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=27)** Again, first, let's take a look at the prompt of what's happening here under the hood.
 >
-> **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=33)** So in this case, the business requirements assistant is primed to be a highly skilled business requirements engineer, and the goal is that given a SMART problem statement and a MECE issue tree with a particular node of interest, it should help the user to create a business requirement document, BRD, that guides the further data analysis and data science project.
+> **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=33)** So in this case, the business requirements assistant is primed to be a highly skilled business requirements engineer, and the goal is that given a SMART problem statement and a MECE issue tree with a particular node of interest, it should help the user to create a business requirement document, BRD, that guides the further data analysis and [[Data Science]] project.
 >
 > **[0:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=56)** These are the tasks here, which should be executed one by one.
 >
@@ -1461,7 +1447,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=134)** And then I was asked for the MECE issue tree, and this is where I just copied in essentially what we got as a result from the previous step.
 >
-> **[2:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=144)** Now that we have the structure, I define that I want to double down on demand forecasting.
+> **[2:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=144)** Now that we have the structure, I define that I want to double down on demand [[Forecasting]].
 >
 > **[2:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=149)** And from here, the business requirement assistant gives me some relevant project titles.
 >
@@ -1483,7 +1469,7 @@ created: 2026-05-02
 >
 > **[3:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=215)** That is what is in scope and what is out of scope of this project?
 >
-> **[3:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=219)** We can see that in scope is the data collection, building and deploying the demand forecasting model, and maybe building some dashboards for forecast visualization and actionable insights.
+> **[3:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=219)** We can see that in scope is the [[Data Collection]], building and deploying the demand forecasting model, and maybe building some [[Dashboards]] for forecast visualization and actionable insights.
 >
 > **[3:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=230)** Out of scope will be the broader operational cost reduction efforts and also non-data driven approaches to forecasting.
 >
@@ -1505,7 +1491,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=307)** Now this is really specific about what we want to do.
 >
-> **[5:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=310)** Let's wrap this up and say give this to me as a Word document.
+> **[5:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=310)** Let's wrap this up and say give this to me as a [[Microsoft Word|Word]] document.
 >
 > **[5:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-3-business-requirements-assistant?u=76281980&t=315)** You can see that the GPT goes ahead and creates this Word document for us.
 >
@@ -1521,7 +1507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), data (9), [[Forecasting]] (5), [[Microsoft Word|Word]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Forecasting]] (5), [[Microsoft Word|Word]] (3), [[GitHub]] (2), [[Data Science]] (2), [[Data Collection]] (1)
 > **Env Vars:** smart (7), gpt (6), mece (4), brd (4)
 > **Analogies:** for example (5), similar to (1)
 > **CLI Commands:** make (2), node (1), find (1)
@@ -1530,8 +1516,7 @@ created: 2026-05-02
 > **Exercise Files:** github repo (1), template (1)
 > **Versions:** 1.5 (1)
 
-#### Use case 4: Data dictionary assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980)
+#### [Use case 4: Data dictionary assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,17 +1532,17 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=33)** This is a data set that is super popular called the Northwind database.
 >
-> **[0:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=37)** It's provided by Microsoft for training purposes and essentially resembles a retailer with a lot of ERP data in it.
+> **[0:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=37)** It's provided by [[Microsoft]] for training purposes and essentially resembles a retailer with a lot of ERP data in it.
 >
 > **[0:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=44)** Now we're going to explore this data, and in our first case, get a broad understanding of what is actually in this dataset.
 >
 > **[0:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=51)** And to do this, we don't even need AI, just a few lines of code to extract this schema of the given database.
 >
-> **[0:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=57)** For all of you who are not familiar with databases, the schema describes what tables exist, what the different data types are for each table, and how the tables are connected in terms of relationships.
+> **[0:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=57)** For all of you who are not familiar with [[Databases]], the schema describes what tables exist, what the different data types are for each table, and how the tables are connected in terms of relationships.
 >
 > **[1:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=67)** Now let's open up our notebook.
 >
-> **[1:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=70)** So what I'm doing here in Python is loading the SQLite library and pandas.
+> **[1:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=70)** So what I'm doing here in [[Python (Programming Language)|Python]] is loading the SQLite library and [[Pandas (Software)|pandas]].
 >
 > **[1:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=76)** And then I wrote a little function that loops over all the tables and relationships in a given database.
 >
@@ -1571,7 +1556,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=114)** If you want to analyze it, it's hard to make sense of what's really going on in this data set.
 >
-> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=118)** And now this is where generative AI comes in.
+> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=118)** And now this is where [[Generative AI]] comes in.
 >
 > **[2:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=121)** With that in mind, let's open our Data Dictionary Assistant.
 >
@@ -1607,19 +1592,19 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=243)** And this gives us a pretty good overview of all the tables that are available in our data set.
 >
-> **[4:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=247)** And we can see information about the suppliers or even the products in our data set, where, for example, we can see that this table has a field called ProductID, which lists your unique ID for each product and also has a relationship backed to the Order Details table.
+> **[4:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=247)** And we can see information about the suppliers or even the [[Microsoft Products|products]] in our data set, where, for example, we can see that this table has a field called ProductID, which lists your unique ID for each product and also has a relationship backed to the Order Details table.
 >
 > **[4:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=263)** And also we have a supplier ID here for a particular product, which is linked to the Supplier table.
 >
 > **[4:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=269)** So this gives us a pretty good understanding of what data is available and how are the connections between the different tables, which is super useful for further exploration of this data set.
 >
-> **[4:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=279)** Now, to extract this data dictionary, we could ask ChatGPT to create a Word document or export it as a structured data format, like a JSON file, for example.
+> **[4:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=279)** Now, to extract this data dictionary, we could ask [[ChatGPT]] to create a [[Microsoft Word|Word]] document or export it as a structured data format, like a [[JSON]] file, for example.
 >
 > **[4:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=288)** But in my case, I'll just ask it right away to create a simple markdown representation of this data dictionary.
 >
 > **[4:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=297)** Now we have a nicely formatted data dictionary in Markdown format, we can just go ahead and copy this code, and if we put this into a simple text editor, you can see that the Markdown format here is preserved.
 >
-> **[5:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=310)** And if we store it in a Markdown file format, and for example, upload it to our GitHub repository, which I called here data_dictionary.md, you can see that we have this nice visual representation of our data dictionary here.
+> **[5:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=310)** And if we store it in a Markdown file format, and for example, upload it to our [[GitHub]] repository, which I called here data_dictionary.md, you can see that we have this nice visual representation of our data dictionary here.
 >
 > **[5:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-4-data-dictionary-assistant?u=76281980&t=324)** And just again, if you take a look behind, this is just the raw Markdown code of this file.
 >
@@ -1631,7 +1616,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), database (6), product (3), [[Microsoft]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft]] (1), [[Databases]] (1), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Generative AI]] (1)
 > **Env Vars:** gpt (3), erp (1), json (1)
 > **Tools:** jupyter (3), vs code (1), github (1)
 > **Analogies:** for example (5)
@@ -1640,30 +1625,29 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), open the (1)
 > **File Paths:** data_dictionary.md (1)
 
-#### Use case 5: SQL query copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980)
+#### [Use case 5: SQL query copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=0)** - [Instructor] So, now that we have access to our database and also know the table schema and their relationships, let's actually start with our first Copilot.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=0)** - [Instructor] So, now that we have access to our database and also know the table schema and their relationships, let's actually start with our first [[Microsoft Copilot|Copilot]].
 >
 > **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=7)** Remember, a Copilot is also an LM solution, but, in this case, it's more integrated into our workflow.
 >
-> **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=13)** That means, we are now not going to copy-paste stuff into ChatGPT, but, instead, we are in integrating generative AI capabilities directly into our workflow.
+> **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=13)** That means, we are now not going to copy-paste stuff into [[ChatGPT]], but, instead, we are in integrating [[Generative AI]] capabilities directly into our workflow.
 >
-> **[0:22](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=22)** What we're going to do now is to build a little SQL query assistant.
+> **[0:22](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=22)** What we're going to do now is to build a little [[SQL]] query assistant.
 >
 > **[0:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=26)** This assistant will take a natural language query from us and then return the SQL code that needs to be written to pull the required information from the database we provide.
 >
 > **[0:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=35)** Now, make sure you are in branch O2_06b.
 >
-> **[0:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=39)** If you're still in Codespaces, you can switch to branch by clicking here.
+> **[0:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=39)** If you're still in [[Codespaces]], you can switch to branch by clicking here.
 >
 > **[0:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=44)** Now, I'm going to switch over to branch O2_06e to walk you through the end result.
 >
 > **[0:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=50)** But if you are following along, feel free to stay in the O2_06b branch and just run the notebook from there.
 >
-> **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=58)** Scroll down, until you see this import Gemini code cell over here.
+> **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=58)** Scroll down, until you see this import [[Gemini]] code cell over here.
 >
 > **[1:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=64)** Click this button to make sure that you execute all of the above cells to make sure that the actual table relationships and table schemas are loaded correctly.
 >
@@ -1681,11 +1665,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=112)** More importantly, let's look at the max_output_tokens.
 >
-> **[1:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=117)** This controls the maximum number of tokens that should be generated.
+> **[1:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=117)** This controls the maximum number of [[Tokens]] that should be generated.
 >
 > **[2:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=120)** Another crucial parameter is the response type.
 >
-> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=124)** In this case, I specified the response type as application/json, so we get structured output back from the LLM.
+> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=124)** In this case, I specified the response type as application/[[JSON]], so we get structured output back from the LLM.
 >
 > **[2:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=132)** Modern LLM APIs like GPT-4o, Claude, and also Gemini support a so-called JSON mode, meaning the output will not be just raw text, but instead formatted as a JSON dictionary.
 >
@@ -1745,7 +1729,7 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=303)** And you can see thanks to the f-string, I can just pass the relationships and the schemas here as raw text.
 >
-> **[5:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=309)** Most importantly, there's no actual data shared here, only the schema and the structure, the so-called metadata about our dataset.
+> **[5:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=309)** Most importantly, there's no actual data shared here, only the schema and the structure, the so-called [[Metadata]] about our dataset.
 >
 > **[5:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-5-sql-query-copilot?u=76281980&t=319)** Now the final instruction is to return the JSON with SQL code stored in SQL elements.
 >
@@ -1795,7 +1779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SQL]] (16), [[Gemini]] (11), [[Microsoft Copilot|Copilot]] (7), database (6), [[JSON]] (5)
+> **Frameworks & Libraries:** [[SQL]] (16), [[Gemini]] (11), [[Microsoft Copilot|Copilot]] (7), [[JSON]] (5), [[Generative AI]] (2)
 > **Env Vars:** sql (16), json (4), api (3), llm (2), gpt (1)
 > **Code Identifiers:** generation_config (2), sql_query (2), max_output_tokens (1), chat_session (1), natural_language_query (1)
 > **CLI Commands:** make (4)
@@ -1804,12 +1788,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), scroll down (1)
 > **Definitions:** means that (1), is an  (1)
 
-#### Use case 6: EDA report assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980)
+#### [Use case 6: EDA report assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=0)** - [Instructor] Now we pulled some data from our database, which we are probably going to use for forecasting, the first and most important step is to understand our data a little better, and this is where exploratory data analysis comes in.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=0)** - [Instructor] Now we pulled some data from our database, which we are probably going to use for [[Forecasting]], the first and most important step is to understand our data a little better, and this is where exploratory data analysis comes in.
 >
 > **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=12)** Now, make sure to switch to Branch 02_07 in the report.
 >
@@ -1823,7 +1806,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=47)** In terms of tabular data, that is equivalent to a few thousand of rows on average.
 >
-> **[0:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=50)** So the workflow should be use a SQL query to get a certain snapshot filter or view of your data, and then you can upload that subset to a tool like Chat GPT and explore it interactively.
+> **[0:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=50)** So the workflow should be use a [[SQL]] query to get a certain snapshot filter or view of your data, and then you can upload that subset to a tool like Chat GPT and explore it interactively.
 >
 > **[1:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=62)** Now let's see what our EDA assistant here is doing.
 >
@@ -1839,7 +1822,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=91)** Again, step by step, first, ask the user to provide the dataset.
 >
-> **[1:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=95)** Then create some summary statistics for all columns in the dataset, just with a small explanation.
+> **[1:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=95)** Then create some summary [[Statistics]] for all columns in the dataset, just with a small explanation.
 >
 > **[1:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=101)** Then we wanted to visualize each distribution of every column in the dataset using an appropriate chart, and for every chart, it should write a key summary of what's going on here with a focus on outliers and other surprising findings.
 >
@@ -1863,7 +1846,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=159)** Now, I have prepared a little sample chat.
 >
-> **[2:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=162)** I won't be able to see the uploaded file here, that is totally okay, but I'm able to see the rest of this conversation.
+> **[2:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=162)** I won't be able to see the uploaded file here, that is totally okay, but I'm able to see the [[Representational State Transfer (REST)|rest]] of this conversation.
 >
 > **[2:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-6-eda-report-assistant?u=76281980&t=168)** So first of all, you can see that the GPT just reiterated all the columns that it found, which is good, so I can confirm whether it understood correctly what is in the data set or if there was any misunderstanding of those columns.
 >
@@ -1917,7 +1900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (24), [[Forecasting]] (3), next (3), [[Statistics]] (2), product (2)
+> **Frameworks & Libraries:** [[Forecasting]] (3), [[Statistics]] (2), [[SQL]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** gpt (12), sql (1), eda (1), csv (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for example (6)
@@ -1930,14 +1913,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Data preparation with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980)
+#### [Overview: Data preparation with GenAI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=0)** - [Narrator] Let's talk about the augmentation of data preparation with generative AI.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=0)** - [Narrator] Let's talk about the augmentation of [[Data Preparation]] with [[Generative AI]].
 >
-> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=4)** This is one of the most critical parts because as you know, preparing and cleaning data is the most time consuming part of a data science project.
+> **[0:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=4)** This is one of the most critical parts because as you know, preparing and cleaning data is the most time consuming part of a [[Data Science]] project.
 >
 > **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=12)** But just to quickly recap, what are the main goals of the data preparation phase?
 >
@@ -1945,7 +1927,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=20)** Very often that involves converting columns or data types to things that we can actually work with.
 >
-> **[0:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=25)** We typically also want to ensure data quality and consistency.
+> **[0:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=25)** We typically also want to ensure [[Data Quality]] and consistency.
 >
 > **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=28)** So anything that was flagged or highlighted during the exploratory data analysis phase might need to be fixed here.
 >
@@ -1963,7 +1945,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=67)** On average, we spend about 70 to 80% just cleaning and preparing data to make it a good fit for the actual model.
 >
-> **[1:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=76)** There are also very often complex feature engineering decisions involved.
+> **[1:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=76)** There are also very often complex [[Feature Engineering]] decisions involved.
 >
 > **[1:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=80)** What kind of features are we building?
 >
@@ -1979,7 +1961,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=103)** If we have text data in our data set, for example, product names or open customer feedback, and this data is messy, it very often turns into complex Regex formulas that we need to write in order to fix this data set.
 >
-> **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=115)** Maintaining data, pre-processing pipelines is also a typical challenge because data is always updating, so we need to make sure that our data cleaning and preparation pipelines are actually good enough to also handle changes in data.
+> **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=115)** Maintaining data, pre-processing pipelines is also a typical challenge because data is always updating, so we need to make sure that our [[Data Cleaning]] and preparation pipelines are actually good enough to also handle changes in data.
 >
 > **[2:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-data-preparation-with-genai?u=76281980&t=128)** And this is where GenAI can really help.
 >
@@ -1991,30 +1973,29 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), [[Generative AI]] (1), feature (1), [[Engineering]] (1), product (1)
+> **Frameworks & Libraries:** [[Data Preparation]] (4), [[Generative AI]] (1), [[Data Science]] (1), [[Data Cleaning]] (1), [[Data Quality]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use case 7: Data quality assessment copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980)
+#### [Use case 7: Data quality assessment copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=0)** - [Instructor] So let's build a data quality assessment Copilot that helps us to identify and detect areas that need our attention with regards to data quality.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=0)** - [Instructor] So let's build a [[Data Quality]] assessment [[Microsoft Copilot|Copilot]] that helps us to identify and detect areas that need our attention with regards to data quality.
 >
-> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=8)** And because this is a Copilot, we're integrating it directly into our data science workflow.
+> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=8)** And because this is a Copilot, we're integrating it directly into our [[Data Science]] workflow.
 >
 > **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=13)** So let's open up our repo and switch to branch 03_02b.
 >
 > **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=20)** And from here, we can just launch a codespace.
 >
-> **[0:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=25)** Now, in my case, I already have Codespaces open, and you can navigate to this data_preparation Jupyter Notebook over here on the left side.
+> **[0:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=25)** Now, in my case, I already have [[Codespaces]] open, and you can navigate to this data_preparation Jupyter Notebook over here on the left side.
 >
 > **[0:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=33)** Bear in mind, I'm already on the end state of that branch, but if you want to follow along, feel free to stay in the beginning branch, indicated by the b at the end.
 >
-> **[0:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=42)** So first of all, let's load our data as we did previously using the SQL query that we just got from the SQL Copilot in the previous use case.
+> **[0:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=42)** So first of all, let's load our data as we did previously using the [[SQL]] query that we just got from the SQL Copilot in the previous use case.
 >
 > **[0:53](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=53)** Next, we're going to import a library called pandas_dq.
 >
@@ -2038,11 +2019,11 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=114)** But this is obviously not true because as a date column, what we actually want is to convert this into a datetime format.
 >
-> **[2:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=121)** And this is actually now where generative AI comes in and helps us to build on top of that.
+> **[2:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=121)** And this is actually now where [[Generative AI]] comes in and helps us to build on top of that.
 >
 > **[2:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=127)** We can use the data quality report here as a baseline and feed it into an LLM that can then interpret the results and provide actionable suggestions on how to actually fix these issues.
 >
-> **[2:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=139)** So let's go ahead and bring in Gemini over here.
+> **[2:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=139)** So let's go ahead and bring in [[Gemini]] over here.
 >
 > **[2:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=143)** Update your API code with your own key.
 >
@@ -2096,7 +2077,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=291)** In the details then, we specify how the output should look like.
 >
-> **[4:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=294)** In this case, we specify that the output must be a JSON dictionary with issues and best action resolutions for each column.
+> **[4:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=294)** In this case, we specify that the output must be a [[JSON]] dictionary with issues and best action resolutions for each column.
 >
 > **[5:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=303)** And this is how the JSON should look like.
 >
@@ -2122,7 +2103,7 @@ created: 2026-05-02
 >
 > **[6:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=379)** It has a problem, the high cardinality, but instead of suggesting hash encoding, it will now suggest to convert it to a datetime format and extract relevant features, like day of the week, the month or the season.
 >
-> **[6:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=390)** So this is something we can consider using for our time series forecasting problem.
+> **[6:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=390)** So this is something we can consider using for our time series [[Forecasting]] problem.
 >
 > **[6:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-7-data-quality-assessment-copilot?u=76281980&t=396)** Now, with this dictionary, we can go ahead and actually update it if we want because if we take a look at, for example, the quantity, we can see that the best action here is that the LLM suggests to cap the outlier values at a reasonable threshold.
 >
@@ -2148,7 +2129,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), business (7), next (5), [[Microsoft Copilot|Copilot]] (4), llm (4)
+> **Frameworks & Libraries:** [[Data Quality]] (14), [[Microsoft Copilot|Copilot]] (4), [[JSON]] (3), [[SQL]] (2), [[Gemini]] (2)
 > **Code Identifiers:** pandas_dq (4), generation_config (2), data_preparation (1), dq_copilot (1), dq_report (1)
 > **Env Vars:** llm (4), json (3), sql (2), api (1)
 > **Analogies:** for example (6), just like (1), similar to (1)
@@ -2157,14 +2138,13 @@ created: 2026-05-02
 > **Warnings:** note that (1), keep in mind (1)
 > **CLI Commands:** find (1)
 
-#### Use case 8: Data cleaning copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980)
+#### [Use case 8: Data cleaning copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=0)** - [Instructor] So knowing what data quality issues exist and what to do about them is great, but what's even better is to actually perform these actions and fix the issues.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=0)** - [Instructor] So knowing what [[Data Quality]] issues exist and what to do about them is great, but what's even better is to actually perform these actions and fix the issues.
 >
-> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=8)** And this is where our data cleaning copilot comes in.
+> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=8)** And this is where our [[Data Cleaning]] [[Microsoft Copilot|copilot]] comes in.
 >
 > **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=12)** Now, I'm still in the same code space, and if you're following along, switch to the 03_03b branch of this notebook.
 >
@@ -2176,9 +2156,9 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=30)** We don't need this right now and jump into the next one, use case 8.
 >
-> **[0:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=34)** First of all, I'm loading my data here just as we did previously, and then also initializing Gemini, just as we did before.
+> **[0:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=34)** First of all, I'm loading my data here just as we did previously, and then also initializing [[Gemini]], just as we did before.
 >
-> **[0:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=42)** Now the new step is that we load in our dq_result.json that we just generated in the previous step.
+> **[0:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=42)** Now the new step is that we load in our dq_result.[[JSON]] that we just generated in the previous step.
 >
 > **[0:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=49)** And just as a quick heads up, that's how it looks like.
 >
@@ -2192,7 +2172,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=72)** The data quality json that we just saw, the name of the data frame and then our generation config, as well as the name of the Gemini model that we want to use.
 >
-> **[1:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=83)** Now, the system prompt goes as follows, we prompted to be a Pandas code generator specialized on data cleaning.
+> **[1:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=83)** Now, the system prompt goes as follows, we prompted to be a [[Pandas (Software)|Pandas]] code generator specialized on data cleaning.
 >
 > **[1:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=89)** The goal should be that given some data, it should clean the data based on the instructions and using end-to-end Pandas code.
 >
@@ -2254,13 +2234,13 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=288)** And now finally, we apply these actual functions to our data frame, and in the end, what we get is a clean data frame that looks like this.
 >
-> **[4:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=298)** So this is how you augment your data cleaning and preparation process with the help of generative AI while still keeping control of the entire process.
+> **[4:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=298)** So this is how you augment your data cleaning and preparation process with the help of [[Generative AI]] while still keeping control of the entire process.
 >
 > **[5:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-8-data-cleaning-copilot?u=76281980&t=306)** Now let's see what else we can do to our data to.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Pandas (Software)|Pandas]] (5), [[JSON]] (4), llm (4), [[Microsoft Copilot|Copilot]] (3)
+> **Frameworks & Libraries:** [[Data Cleaning]] (7), [[Pandas (Software)|Pandas]] (5), [[Data Quality]] (4), [[JSON]] (4), [[Microsoft Copilot|Copilot]] (3)
 > **Env Vars:** llm (4)
 > **Code Identifiers:** dq_result (1), pandas_script (1)
 > **Analogies:** for example (1), imagine (1)
@@ -2269,16 +2249,15 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** heads up (1)
 
-#### Use case 9: Text preprocessing copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980)
+#### [Use case 9: Text preprocessing copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=0)** - [Instructor] Remember how we excluded the text cleaning function previously and what we got from our data cleaning copilot?
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=0)** - [Instructor] Remember how we excluded the text cleaning function previously and what we got from our [[Data Cleaning]] [[Microsoft Copilot|copilot]]?
 >
 > **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=5)** Well, as it turns out, when it comes to cleaning text data, we can just leverage the power of the LLM directly instead of just having it to write the code for us.
 >
-> **[0:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=14)** And in fact, there are two main types of text processing and generative AI.
+> **[0:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=14)** And in fact, there are two main types of text processing and [[Generative AI]].
 >
 > **[0:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=18)** Now, before we dive into the first one, make sure you're on the branch 0304B.
 >
@@ -2290,7 +2269,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=37)** If you just want to see the final outputs switch to the branch on which I'm working on right here.
 >
-> **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=43)** So first of all, let's again load our data using the SQL script, nothing new here.
+> **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=43)** So first of all, let's again load our data using the [[SQL]] script, nothing new here.
 >
 > **[0:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=48)** And then we also pasted the data cleaning script from the previous exercise in here, so we get this little clean data frame out of this process.
 >
@@ -2300,13 +2279,13 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=65)** For example, let's say we want to enrich our data set with information about whether a given product here is perishable or not.
 >
-> **[1:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=73)** This is important because it might make more sense to forecast demand specifically for highly perishable products because if a product is perishable, we might need to throw it away if it's not sold in time, which creates real cost in our business.
+> **[1:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=73)** This is important because it might make more sense to forecast demand specifically for highly perishable [[Microsoft Products|products]] because if a product is perishable, we might need to throw it away if it's not sold in time, which creates real cost in our business.
 >
 > **[1:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=86)** So let's say we want to detect if a product is perishable or not given the product name.
 >
 > **[1:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=91)** That's where our first mapping copilot comes in.
 >
-> **[1:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=95)** Let's first load up Gemini as we did previously.
+> **[1:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=95)** Let's first load up [[Gemini]] as we did previously.
 >
 > **[1:37](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-9-text-preprocessing-copilot?u=76281980&t=97)** And then let's see how this mapping co-pilot is working.
 >
@@ -2472,7 +2451,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), product (15), [[Microsoft Products|Products]] (9), [[Microsoft Copilot|Copilot]] (6), llm (6)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (9), [[Microsoft Copilot|Copilot]] (6), [[Data Cleaning]] (2), [[Generative AI]] (2), [[SQL]] (1)
 > **Env Vars:** llm (6), lms (2), sql (1), fjson (1)
 > **Definitions:** is a  (7)
 > **Analogies:** for example (7)
@@ -2480,8 +2459,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 10: Feature engineering copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980)
+#### [Use case 10: Feature engineering copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2491,11 +2469,11 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=13)** If you want to follow along.
 >
-> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=15)** The goal of this video will be to have generative AI right code for us that is helping us with the actual feature engineering.
+> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=15)** The goal of this video will be to have [[Generative AI]] right code for us that is helping us with the actual [[Feature Engineering]].
 >
 > **[0:22](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=22)** But before we can actually do this, we need to prep our data a little bit further, in this case, without the help of AI.
 >
-> **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=28)** So first of all, let's load our data as we used to do it before, and then apply our data cleaning script, also nothing new here.
+> **[0:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=28)** So first of all, let's load our data as we used to do it before, and then apply our [[Data Cleaning]] script, also nothing new here.
 >
 > **[0:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=36)** Then we will map the seafood items using the dictionary that we just created previously.
 >
@@ -2511,9 +2489,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=66)** And then I sort this data frame by the weeks and the sending order and then aggregate it by calendar week.
 >
-> **[1:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=74)** And just a quick heads up here, if you write comments out like this, and if you have an AI assistant or AI co-pilot inside your IDE, like for example GitHub co-pilot, it'll just go ahead and auto complete the following code for you.
+> **[1:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=74)** And just a quick heads up here, if you write comments out like this, and if you have an AI assistant or AI co-pilot inside your IDE, like for example [[GitHub]] co-pilot, it'll just go ahead and auto complete the following code for you.
 >
-> **[1:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=87)** So that's also a good way to use generative AI inside your data science workflow.
+> **[1:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=87)** So that's also a good way to use generative AI inside your [[Data Science]] workflow.
 >
 > **[1:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=92)** In fact, this whole code here was also generated by AI just by prompting it to aggregate data by calendar week.
 >
@@ -2529,7 +2507,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=124)** And also just by putting this comment in here, the AI auto completed this whole part for me.
 >
-> **[2:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=131)** Again, this is only working if you have something like GitHub copilot or for example, Gemini included, if you use an IDE provided by Google like CoLab, for example.
+> **[2:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=131)** Again, this is only working if you have something like [[GitHub Copilot]] or for example, [[Gemini]] included, if you use an IDE provided by [[Google]] like CoLab, for example.
 >
 > **[2:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=140)** So let's see how this data set looks like.
 >
@@ -2539,11 +2517,11 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=156)** Again, the task here is to predict the amount of seafood, the quantity for the next week that's going to be sold, so we can adjust our orders for this category more effectively.
 >
-> **[2:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=166)** And this is where the feature engineering copilot comes in.
+> **[2:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=166)** And this is where the feature engineering [[Microsoft Copilot|copilot]] comes in.
 >
 > **[2:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=169)** What it does is that it accepts our data frame, and again, we are not sharing the actual data, just some information about our data, the business problem, the data frame name, and also the generation config and the actual model name.
 >
-> **[3:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=182)** So in the system prompt, we prompt our LLM to behave as a pandas code generator, specialized on building high quality features for a machine learning pipeline.
+> **[3:02](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=182)** So in the system prompt, we prompt our LLM to behave as a [[Pandas (Software)|pandas]] code generator, specialized on building high quality features for a machine learning pipeline.
 >
 > **[3:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=193)** The goal is that given a data set and a business problem, we wanted to create the code to compute relevant predictive features using pandas code.
 >
@@ -2551,7 +2529,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=220)** Now, why am I doing this here?
 >
-> **[3:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=222)** You might have heard about a thing called chain of thought or chain of thought reasoning in large language models.
+> **[3:42](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=222)** You might have heard about a thing called chain of thought or chain of thought reasoning in [[Large Language Models (LLM)|large language models]].
 >
 > **[3:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=228)** By making the model reason through the business problem and what kind of features it could generate, it gives it some more time to generate the final response before arriving at the actual feature implementation code.
 >
@@ -2567,7 +2545,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=273)** I'm just specifying that we want to make sure that the target does not leak into the features.
 >
-> **[4:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=278)** And I also provide some custom instructions here based on our forecasting tasks because let's say I want to focus on lagged features and maybe I want to use three quantity lags.
+> **[4:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=278)** And I also provide some custom instructions here based on our [[Forecasting]] tasks because let's say I want to focus on lagged features and maybe I want to use three quantity lags.
 >
 > **[4:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=288)** And of course you can just adjust that depending on your problem or depending on how you like to generate your own features, or you can just leave it away and let the LLM come up with its own suggestions.
 >
@@ -2581,7 +2559,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=333)** And also I provide the column names also to give it the necessary context of what columns are available to work with.
 >
-> **[5:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=339)** I'm also providing it with some descriptive statistics just in case that might be helpful for knowing what kind of features to generate depending on the distribution of the data.
+> **[5:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=339)** I'm also providing it with some descriptive [[Statistics]] just in case that might be helpful for knowing what kind of features to generate depending on the distribution of the data.
 >
 > **[5:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=350)** And then finally, when I initiate the message, I just pass in the business problem.
 >
@@ -2601,7 +2579,7 @@ created: 2026-05-02
 >
 > **[6:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=393)** So let's see how the result looks like.
 >
-> **[6:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=396)** If we open this features JSON, we get as a response from our LLM.
+> **[6:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=396)** If we open this features [[JSON]], we get as a response from our LLM.
 >
 > **[6:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-10-feature-engineering-copilot?u=76281980&t=400)** This is the output that we get.
 >
@@ -2645,7 +2623,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), feature (19), business (11), llm (8), ai (5)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (5), [[Feature Engineering]] (4), [[JSON]] (4), [[Generative AI]] (2), [[GitHub]] (2)
 > **Env Vars:** llm (8), json (4), ide (2), csv (1)
 > **Analogies:** for example (6)
 > **Tools:** github (3), colab (1)
@@ -2659,8 +2637,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Modeling with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980)
+#### [Overview: Modeling with GenAI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2688,7 +2665,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=38)** Now here are the typical challenges you will encounter in this phase.
 >
-> **[0:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=41)** Choosing the right algorithms, definitely a trial and error process to a certain degree.
+> **[0:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=41)** Choosing the right [[Algorithms]], definitely a trial and error process to a certain degree.
 >
 > **[0:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=45)** However, there's a big difference between testing 100 algorithms randomly versus narrowing down to maybe just 10 before high parameter tuning.
 >
@@ -2700,7 +2677,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=69)** Fast iteration cycles can lead to sloppy code, which leads to reproducibility issues.
 >
-> **[1:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=76)** Now, how can generative AI help model selection can help us narrow down the models that are actually relevant for our tasks.
+> **[1:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=76)** Now, how can [[Generative AI]] help model selection can help us narrow down the models that are actually relevant for our tasks.
 >
 > **[1:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-modeling-with-genai?u=76281980&t=83)** Code generation will help us write the code needed to train these models, and documentation support can assist in writing and organizing documentation.
 >
@@ -2708,16 +2685,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), business (1), data (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Generative AI]] (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use case 11: Model selection assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980)
+#### [Use case 11: Model selection assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=0)** - [Instructor] So the first use case in this model selection phase actually brings us back to an assistant in ChatGPT, because when we want Generative AI to be a sparing partner for us for selecting a good model, being able to have a back and forth conversation is actually much more useful.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=0)** - [Instructor] So the first use case in this model selection phase actually brings us back to an assistant in [[ChatGPT]], because when we want [[Generative AI]] to be a sparing partner for us for selecting a good model, being able to have a back and forth conversation is actually much more useful.
 >
 > **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=15)** So in our report, select branch O4O2, and then you can click the link here down at the bottom.
 >
@@ -2753,7 +2729,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=115)** And then I gave a little explanation of what I'm trying to do here.
 >
-> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=118)** In this case, forecasting weekly sales, the quantity for perishable goods, seafood.
+> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=118)** In this case, [[Forecasting]] weekly sales, the quantity for perishable goods, seafood.
 >
 > **[2:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=123)** So just give enough information that it knows what the business task is at hand for the given, in this case, forecasting problem.
 >
@@ -2761,7 +2737,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=133)** So now it asks me about some data details for my data set.
 >
-> **[2:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=136)** And the good thing is because we have actually used Generative AI before to help us document the whole process, we can just upload the features dictionary JSON from the previous use case.
+> **[2:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=136)** And the good thing is because we have actually used Generative AI before to help us document the whole process, we can just upload the features dictionary [[JSON]] from the previous use case.
 >
 > **[2:27](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-11-model-selection-assistant?u=76281980&t=147)** If you recap this JSON file you will see that it actually contains the whole reasoning process about what our data set looks like, what features might be suitable for this, and also the final decision on what features we are going to use.
 >
@@ -2805,7 +2781,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Generative AI]] (3), next (3), [[Forecasting]] (3), business (2)
+> **Frameworks & Libraries:** [[Generative AI]] (3), [[Forecasting]] (3), [[JSON]] (2), [[ChatGPT]] (1)
 > **Env Vars:** json (2), o4o2 (1), gpt (1), lgbm (1), act (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2)
@@ -2813,8 +2789,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 12: Model creation copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980)
+#### [Use case 12: Model creation copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2842,7 +2817,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=59)** Next we want to build upon the existing feature dictionary that we have and build a comprehensive feature documentation specifically for the current training data.
 >
-> **[1:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=68)** For this, we'll add some summary statistics.
+> **[1:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=68)** For this, we'll add some summary [[Statistics]].
 >
 > **[1:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=71)** For numeric data, some general descriptive statistics, and for categorical data, the unique values.
 >
@@ -2858,9 +2833,9 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=114)** Now let's move ahead to the actual model training.
 >
-> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=118)** For this, we are going to import Gemini and also again set our API key here.
+> **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=118)** For this, we are going to import [[Gemini]] and also again set our API key here.
 >
-> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=124)** We define the generation config just as before, and this is where we define our model training Copilot.
+> **[2:04](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=124)** We define the generation config just as before, and this is where we define our model training [[Microsoft Copilot|Copilot]].
 >
 > **[2:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=132)** Now there's quite a lot going on here, so let's walk through this in detail.
 >
@@ -2872,7 +2847,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=165)** We prompt the LLM to behave as a machine learning engineer specialized in training high performing machine learning models.
 >
-> **[2:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=174)** The goal is that given a feature documentation table and a machine learning model class, it should create the end-to-end python code for training the model based on the available features.
+> **[2:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=174)** The goal is that given a feature documentation table and a machine learning model class, it should create the end-to-end [[Python (Programming Language)|python]] code for training the model based on the available features.
 >
 > **[3:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=185)** Now, the tasks are to first analyze the available features carefully and then write ML expert code that works in production grade ML systems.
 >
@@ -2888,7 +2863,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=230)** And there are some details here, like the column names equal to the feature names.
 >
-> **[3:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=234)** The training data is stored as a pandas data frame, which is called as this variable.
+> **[3:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=234)** The training data is stored as a [[Pandas (Software)|pandas]] data frame, which is called as this variable.
 >
 > **[4:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=240)** And then the target variable is called like this.
 >
@@ -2900,7 +2875,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=261)** And then we prompt the whole process with the business problem at hand.
 >
-> **[4:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=265)** And speaking about business problems, this is how we could formulate it, forecast weekly sales, quantity for perishable seafood products.
+> **[4:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=265)** And speaking about business problems, this is how we could formulate it, forecast weekly sales, quantity for perishable seafood [[Microsoft Products|products]].
 >
 > **[4:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=272)** Now we could also formulate that more generically, but this is also working good here.
 >
@@ -2934,13 +2909,13 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=372)** Now, if we run this whole code cell, this will take a few minutes to actually train the model because it's trying different combinations.
 >
-> **[6:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=379)** But in the end, it'll find one model, which is called best GBR, that has the best performance metrics overall.
+> **[6:19](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=379)** But in the end, it'll find one model, which is called best GBR, that has the best [[Performance Metrics]] overall.
 >
 > **[6:25](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=385)** And this model is going to be trained on the overall training dataset.
 >
 > **[6:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=389)** So in my case, this is the evaluation metric I came out here, which is maybe good, maybe not.
 >
-> **[6:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=395)** We will find that out in the next use case where we will have generative AI help us actually interpret the result of this training and figure out if the model that we trained is actually good or not.
+> **[6:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=395)** We will find that out in the next use case where we will have [[Generative AI]] help us actually interpret the result of this training and figure out if the model that we trained is actually good or not.
 >
 > **[6:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-12-model-creation-copilot?u=76281980&t=405)** But for now, let's simply export our model using job lib and save it to our file system so we can access this model later on.
 >
@@ -2950,7 +2925,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), feature (15), [[Microsoft Copilot|Copilot]] (7), business (4), next (3)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Statistics]] (3), [[Gemini]] (3), [[Pandas (Software)|Pandas]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), find (2), python (1)
 > **Env Vars:** llm (2), csv (1), api (1), gbr (1)
 > **Definitions:** is called (3), is a  (2)
@@ -2959,16 +2934,15 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **UI Navigation:** open the (1)
 
-#### Use case 13: Model documentation copilot
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980)
+#### [Use case 13: Model documentation copilot](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=0)** - [Instructor] Now that we have trained and stored our model, the next logical thing we can do is, of course, to create a documentation about the whole training progress.
 >
-> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=8)** And since we have everything stored already as nice text files, we can just generate this documentation really easily using generative AI.
+> **[0:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=8)** And since we have everything stored already as nice text files, we can just generate this documentation really easily using [[Generative AI]].
 >
-> **[0:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=16)** And this is where I build this model documentation copilot that takes the code that was used to train the machine learning model, the feature documentation, which we have just created previously, the training data frame, and also the generation conflict, as well as the model name for making the actual call.
+> **[0:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=16)** And this is where I build this model documentation [[Microsoft Copilot|copilot]] that takes the code that was used to train the machine learning model, the feature documentation, which we have just created previously, the training data frame, and also the generation conflict, as well as the model name for making the actual call.
 >
 > **[0:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=32)** So how does the system prompt look like?
 >
@@ -2998,7 +2972,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=109)** So we don't need to create anything new.
 >
-> **[1:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=111)** We just plug in the feature documentation, the training data, some descriptive statistics, like the length of it, or the first and last observation if we want to use that, and then the model that we are going to use, followed by the actual model code that we just plug in here as raw text.
+> **[1:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=111)** We just plug in the feature documentation, the training data, some descriptive [[Statistics]], like the length of it, or the first and last observation if we want to use that, and then the model that we are going to use, followed by the actual model code that we just plug in here as raw text.
 >
 > **[2:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=130)** And now if you run this on the model code, the feature documentation, the training data frame, and our generation config, what we get is, as you can see, a Markdown report, which is pretty comprehensive.
 >
@@ -3008,7 +2982,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=155)** But we don't want the LLM to regenerate the whole code because even if we provide the code and ask the LLM to return it one by one, it might be that it misses a little tap here or a little comma there, or little quotation mark over there, and this is not really reliable.
 >
-> **[2:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=171)** So a better way is just to generate the whole report as we did right now, and then just paste the model code here as a simple Python function.
+> **[2:51](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=171)** So a better way is just to generate the whole report as we did right now, and then just paste the model code here as a simple [[Python (Programming Language)|Python]] function.
 >
 > **[2:59](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=179)** And then we are also going to add the file name over here.
 >
@@ -3018,7 +2992,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=190)** And if you run this, you can see on the left side, you see this model_documentation file, which looks really nice.
 >
-> **[3:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=196)** And if you open it in a Markdown reader, like for example here, if you open the same file on GitHub, you see that you have this nice visual representation of your model training workflow with some background information, the code that was being used, and also some information about the features that were used here.
+> **[3:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=196)** And if you open it in a Markdown reader, like for example here, if you open the same file on [[GitHub]], you see that you have this nice visual representation of your model training workflow with some background information, the code that was being used, and also some information about the features that were used here.
 >
 > **[3:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-13-model-documentation-copilot?u=76281980&t=214)** And this gives you, like, a pretty good out-of-the-box description of what you did for the training without any additional work on your end.
 >
@@ -3028,7 +3002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (5), llm (3), [[Generative AI]] (2), prompt (2)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Microsoft Copilot|Copilot]] (1), [[Statistics]] (1), [[Python (Programming Language)|Python]] (1), [[GitHub]] (1)
 > **Env Vars:** llm (3)
 > **CLI Commands:** python (1)
 > **Code Identifiers:** model_documentation (1)
@@ -3042,8 +3016,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Model evaluation with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980)
+#### [Overview: Model evaluation with GenAI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3069,33 +3042,32 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=58)** And besides that, we also need to choose a set of metrics that simplifies communication for a non-technical audience.
 >
-> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=66)** Now, how can generative AI help you?
+> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=66)** Now, how can [[Generative AI]] help you?
 >
 > **[1:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=69)** There are many ways, but in my opinion, the two most important ones are, first, performance analysis, helping you understand or write the code for evaluating how well your model predicts new data points.
 >
-> **[1:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=80)** And then second, model explainability, assisting in explaining performance metrics and the model's behavior to a non-technical audience.
+> **[1:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=80)** And then second, model explainability, assisting in explaining [[Performance Metrics]] and the model's behavior to a non-technical audience.
 >
 > **[1:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-evaluation-with-genai?u=76281980&t=88)** So, this is what we are going to do, and I'll see you in the next use case.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), [[Generative AI]] (1), [[Performance Metrics]] (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Performance Metrics]] (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 14: Model performance assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980)
+#### [Use case 14: Model performance assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=0)** - [Instructor] So we are in the first use case for the model evaluation phase.
 >
-> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=3)** Now, the actual assistant lives in ChatGPT.
+> **[0:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=3)** Now, the actual assistant lives in [[ChatGPT]].
 >
 > **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=6)** But before we get there, there's some pre-work that needs to be done.
 >
-> **[0:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=9)** So open up Codespaces and make sure you're in Branch 05 02.
+> **[0:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=9)** So open up [[Codespaces]] and make sure you're in Branch 05 02.
 >
 > **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=15)** And then open up the evaluation notebook here on the left side.
 >
@@ -3141,7 +3113,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=128)** I initiated this conversation with start, and then the GPT asks me to provide the feature dictionary.
 >
-> **[2:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=134)** In this case, I just uploaded the feature documentation .CSV file from our GitHub repository, so the GPT can actually process this and just summarize the features that we're working with.
+> **[2:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=134)** In this case, I just uploaded the feature documentation .CSV file from our [[GitHub]] repository, so the GPT can actually process this and just summarize the features that we're working with.
 >
 > **[2:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=146)** Next, it asks me to upload the model documentation, and I just uploaded the model documentation markdown file here, so the GPT can make sense of what modeling approach we chose and also how our training data looked like.
 >
@@ -3149,7 +3121,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=164)** And this is actually where I uploaded two files, both the predicted and actual values for the training set, and also the actual versus predicted values for the test set, data that was not seen during training.
 >
-> **[2:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=177)** And now, with these, the GPT will go ahead and actually compute performance metrics for me.
+> **[2:57](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=177)** And now, with these, the GPT will go ahead and actually compute [[Performance Metrics]] for me.
 >
 > **[3:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-14-model-performance-assistant?u=76281980&t=183)** So in this case, it will go ahead to calculate the mean absolute error, the mean squared error, the root mean squared error, and the R squared score.
 >
@@ -3207,7 +3179,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), feature (4), [[ChatGPT]] (3), next (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[GitHub]] (2), [[Performance Metrics]] (2), [[Codespaces]] (1)
 > **Env Vars:** gpt (10), csv (6), mae (1), mse (1), rmse (1)
 > **Versions:** 3.53 (1), 0.01 (1), 0.1 (1), 0.005 (1), 0.03 (1)
 > **CLI Commands:** make (2), find (1)
@@ -3216,14 +3188,13 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Analogies:** for example (1)
 
-#### Use case 15: Model explainability assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980)
+#### [Use case 15: Model explainability assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=0)** - [Instructor] All right, so now let's see how we can use generative AI to help us understand our machine learning models even better.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=0)** - [Instructor] All right, so now let's see how we can use [[Generative AI]] to help us understand our machine learning models even better.
 >
-> **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=6)** Make sure you're in Codespaces and in branch 05_03.
+> **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=6)** Make sure you're in [[Codespaces]] and in branch 05_03.
 >
 > **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=10)** And here open the read me file.
 >
@@ -3241,7 +3212,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=44)** And I have already prepared a little sample chat to walk you through this.
 >
-> **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=47)** So you can see I was greeted here with the same message, and then I just provided the model documentation file from our GitHub repository.
+> **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=47)** So you can see I was greeted here with the same message, and then I just provided the model documentation file from our [[GitHub]] repository.
 >
 > **[0:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=55)** And based on that, the GPT identified that we were using a Gradient Boosting Regressor.
 >
@@ -3279,7 +3250,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=160)** So now what you can do now is just copy this graphic by either clicking this button or using a right click and then saying copy.
 >
-> **[2:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=166)** And then you can just paste this one in here into ChatGPT and ask it to explain this graph.
+> **[2:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=166)** And then you can just paste this one in here into [[ChatGPT]] and ask it to explain this graph.
 >
 > **[2:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-15-model-explainability-assistant?u=76281980&t=175)** Now I did this previously here.
 >
@@ -3321,7 +3292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), feature (5), next (2), [[Generative AI]] (1), [[Codespaces]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Codespaces]] (1), [[GitHub]] (1), [[ChatGPT]] (1)
 > **Env Vars:** gpt (12), shap (6), csv (2), gbt (1)
 > **CLI Commands:** find (3), make (2)
 > **UI Navigation:** open the (1), go to (1), scroll down (1)
@@ -3335,16 +3306,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview: Model deployment with GenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980)
+#### [Overview: Model deployment with GenAI](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=0)** - [Instructor] So let's say we trained the model, the performance is good, and now it's time to bring it to life.
 >
-> **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=5)** This is called the model deployment phase, and also it's where many data science projects die because a lot of data scientists don't know how to do this.
+> **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=5)** This is called the model deployment phase, and also it's where many [[Data Science]] projects die because a lot of data scientists don't know how to do this.
 >
-> **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=12)** But thanks to generative AI, that's going to change.
+> **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=12)** But thanks to [[Generative AI]], that's going to change.
 >
 > **[0:16](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/overview-model-deployment-with-genai?u=76281980&t=16)** But first, let's quickly review the goals of this phase.
 >
@@ -3370,19 +3340,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (2)
 > **Documentation:** the documentation (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use case 16: Model deployment assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980)
+#### [Use case 16: Model deployment assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=0)** - [Instructor] Okay, so let's find out how we can use generative AI to help us deploy our machine learning model.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=0)** - [Instructor] Okay, so let's find out how we can use [[Generative AI]] to help us deploy our machine learning model.
 >
 > **[0:05](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=5)** In this case, we don't need code spaces.
 >
@@ -3400,13 +3369,13 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=38)** The deployed model must come with a user friendly guide or an API documentation.
 >
-> **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=43)** Now the tasks are first step-by-step, ask what to deploy, provide a model documentation file, then how to deploy, ask the user whether they want to deploy the model as a Streamlit app or just rest API.
+> **[0:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=43)** Now the tasks are first step-by-step, ask what to deploy, provide a model documentation file, then how to deploy, ask the user whether they want to deploy the model as a Streamlit app or just [[Representational State Transfer (REST)|rest]] API.
 >
 > **[0:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=56)** And again, feel free to just replace this one here with anything else you like.
 >
 > **[0:59](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=59)** Streamlit is a pretty good app for deploying really simple user interfaces to have other people interact with your model.
 >
-> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=66)** Then where to deploy, let users choose from these deployment options like AWS, Azure, Google Cloud, or Replit.
+> **[1:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=66)** Then where to deploy, let users choose from these deployment options like AWS, [[Microsoft Azure|Azure]], [[Google Cloud Platform (GCP)|Google Cloud]], or Replit.
 >
 > **[1:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=72)** Again, feel free to customize these here as you need, and then provide deployment instructions one at a time.
 >
@@ -3418,7 +3387,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=101)** Now when the deployment is complete, it should also create a quick user guide or a user-friendly API documentation based on the template attached.
 >
-> **[1:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=108)** We'll see that template in a minute, and it should also return the documentation as a downloadable HTML file according to the template attached, then details, avoid Docker and that's really necessary.
+> **[1:48](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=108)** We'll see that template in a minute, and it should also return the documentation as a downloadable [[HTML]] file according to the template attached, then details, avoid Docker and that's really necessary.
 >
 > **[1:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=118)** Again, feel free to update this.
 >
@@ -3458,13 +3427,13 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=204)** So first of all, I should go to [Replit.com](https://Replit.com) here and then log in or create a free account.
 >
-> **[3:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=209)** You can for example log in immediately with your GitHub account so you don't need to sign up for anything and create a new RepL, which is in this case a new project.
+> **[3:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=209)** You can for example log in immediately with your [[GitHub]] account so you don't need to sign up for anything and create a new RepL, which is in this case a new project.
 >
 > **[3:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=218)** So let me show you how that works.
 >
 > **[3:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=220)** So this is how Replit looks like once you are locked in.
 >
-> **[3:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=224)** And here on the left side you can see create app and just as our GPT told me, I'm going to use Python here as an environment, and then I'm selecting create app.
+> **[3:44](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=224)** And here on the left side you can see create app and just as our GPT told me, I'm going to use [[Python (Programming Language)|Python]] here as an environment, and then I'm selecting create app.
 >
 > **[3:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-16-model-deployment-assistant?u=76281980&t=235)** So let's see actually what the next step was.
 >
@@ -3544,7 +3513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), next (6), [[Representational State Transfer (REST)|Rest]] (2), aws (2), [[Microsoft Azure|Azure]] (2)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2), [[Microsoft Azure|Azure]] (2), [[HTML]] (2), [[Python (Programming Language)|Python]] (2), [[Generative AI]] (1)
 > **Env Vars:** gpt (12), api (6), url (3), aws (2), html (2)
 > **CLI Commands:** find (3), aws (2), python (2), make (1), docker (1)
 > **Definitions:** is a  (4), is called (2)
@@ -3553,8 +3522,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Documentation:** the readme (1), the documentation (1)
 
-#### Use case 17: API documentation assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980)
+#### [Use case 17: API documentation assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3588,11 +3556,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=80)** In my case, it was really basic, it just includes a documentation with the base URL, the available endpoints, the request example, the response example, some error handling, and then the code for calling the API.
 >
-> **[1:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=92)** It generates the API documentation as an HTML file, just as they ask it to do, and provides me with a final HTML document in the end.
+> **[1:32](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=92)** It generates the API documentation as an [[HTML]] file, just as they ask it to do, and provides me with a final HTML document in the end.
 >
 > **[1:39](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=99)** If I open this file, it'll look like this.
 >
-> **[1:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=103)** So this is the nicely formatted HTML document that I provided, and it includes my base URL, the different endpoints, what I get in the root endpoint, what I get in the predict endpoint, what features are we expecting, an example request, an example response, and also finally, the end-to-end code in Python I can use in order to make a request to this API.
+> **[1:43](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=103)** So this is the nicely formatted HTML document that I provided, and it includes my base URL, the different endpoints, what I get in the root endpoint, what I get in the predict endpoint, what features are we expecting, an example request, an example response, and also finally, the end-to-end code in [[Python (Programming Language)|Python]] I can use in order to make a request to this API.
 >
 > **[2:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-17-api-documentation-assistant?u=76281980&t=126)** This can of course be even more descriptive.
 >
@@ -3604,7 +3572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[HTML]] (3), next (1), [[Python (Programming Language)|Python]] (1), prompt (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (13), gpt (7), url (3), html (3)
 > **CLI Commands:** python (1), make (1)
 > **Exercise Files:** template (2)
@@ -3618,12 +3586,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Relevance of communication and documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980)
+#### [Relevance of communication and documentation](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=0)** - [Narrator] So last but not least, let's cover the important communication and documentation aspect as part of your data science project and how generative AI can help you with that.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=0)** - [Narrator] So last but not least, let's cover the important communication and documentation aspect as part of your [[Data Science]] project and how [[Generative AI]] can help you with that.
 >
 > **[0:09](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=9)** So this phase isn't really a phase that stands on its own, but rather something that is there all the time, effectively communicating results to stakeholders, creating a comprehensive project documentation and developing compelling data stories to share insights and transfer knowledge.
 >
@@ -3645,9 +3612,9 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=58)** First, end-to-end project documentation, which ensures complete coverage of what you did and wraps up everything into a structured, well-documented format.
 >
-> **[1:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=68)** Second, data storytelling enhancement.
+> **[1:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=68)** Second, [[Data Storytelling]] enhancement.
 >
-> **[1:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=71)** It helps you improve your presentation skills and increases the impact of your storytelling.
+> **[1:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=71)** It helps you improve your presentation skills and increases the impact of your [[Storytelling]].
 >
 > **[1:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/relevance-of-communication-and-documentation?u=76281980&t=75)** And thirdly, stakeholder communication, which translates between technical and non-technical terms and enhances message clarity and reduces misunderstandings.
 >
@@ -3655,13 +3622,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Generative AI]] (1), next (1), [[Data Storytelling]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (1), [[Generative AI]] (1), [[Data Storytelling]] (1), [[Storytelling]] (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use case 18: Comprehensive project documentation assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980)
+#### [Use case 18: Comprehensive project documentation assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3669,7 +3635,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=6)** How do we do this?
 >
-> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=7)** Go to our GitHub repository, and make sure you're in branch 07_02.
+> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=7)** Go to our [[GitHub]] repository, and make sure you're in branch 07_02.
 >
 > **[0:12](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=12)** And in this branch, you will find a couple of links.
 >
@@ -3685,11 +3651,11 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=34)** Now, the role of this project communication assistant is to behave as a highly skilled project documentation expert.
 >
-> **[0:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=40)** The goal is to help the user create a thorough, easy-to-understand end-to-end project documentation for a given data science or machine learning project.
+> **[0:40](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=40)** The goal is to help the user create a thorough, easy-to-understand end-to-end project documentation for a given [[Data Science]] or machine learning project.
 >
 > **[0:47](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=47)** And then the tasks are to be done one by one.
 >
-> **[0:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=49)** First, we request all available artifacts from the user, ask for the business requirement document, presentations, programming files, model documentation, model results, other technical communication, meeting protocols if there are, et cetera.
+> **[0:49](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=49)** First, we request all available artifacts from the user, ask for the business requirement document, presentations, programming files, model documentation, model results, other [[Technical Communication]], meeting protocols if there are, et cetera.
 >
 > **[1:03](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=63)** And this might seem quite overwhelming, but if you take a look at this, it might actually look familiar, because these are all things that we produce throughout our whole workflow.
 >
@@ -3709,13 +3675,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=98)** And then we want to have the user feedback for every section of the draft, and continue this iteratively until the whole document is completed.
 >
-> **[1:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=106)** And once it's complete, we wanted to provide the final documentation as an HTML file or Word document, and some details here.
+> **[1:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=106)** And once it's complete, we wanted to provide the final documentation as an [[HTML]] file or [[Microsoft Word|Word]] document, and some details here.
 >
 > **[1:52](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=112)** We want it to be brief and also avoid technical language unless necessary.
 >
 > **[1:56](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=116)** And more importantly, this is the template we want to use.
 >
-> **[1:59](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=119)** In this case, I'm using the CRISP-DM phases here to organize my report, and you can see how practical that framework is, because it also serves as a nice outline for such a project report.
+> **[1:59](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=119)** In this case, I'm using the [[CRISP-DM]] phases here to organize my report, and you can see how practical that framework is, because it also serves as a nice outline for such a project report.
 >
 > **[2:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=130)** Alright, now, so let's see this in action.
 >
@@ -3733,7 +3699,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=155)** So just pull these files up here, and from there, you will see that the GPT starts to draft the first section, which is the business understanding and data understanding phase.
 >
-> **[2:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=165)** And it's pulling information here from our business requirements document, and actually doing this in the so-called ChatGPT Canvas feature.
+> **[2:45](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=165)** And it's pulling information here from our business requirements document, and actually doing this in the so-called [[ChatGPT]] Canvas feature.
 >
 > **[2:54](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=174)** Now if you click here, then you will see that this brings up the document on the right side, which allows me to interact with that document in a more seamless way.
 >
@@ -3747,7 +3713,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=206)** In this case, I just said proceed.
 >
-> **[3:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=209)** Then it went ahead and created the data preparation data cleaning section for me.
+> **[3:29](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=209)** Then it went ahead and created the [[Data Preparation]] [[Data Cleaning]] section for me.
 >
 > **[3:33](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=213)** Also, I said here in this case proceed, because this is how it looks like.
 >
@@ -3781,7 +3747,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=298)** So let me show you how that looks like.
 >
-> **[5:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=301)** Now, if we open the Demand Forecasting Documentation with references HTML file, we can see that we basically have the same text, but now we can see where this information is coming from.
+> **[5:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=301)** Now, if we open the Demand [[Forecasting]] Documentation with references HTML file, we can see that we basically have the same text, but now we can see where this information is coming from.
 >
 > **[5:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-18-comprehensive-project-documentation-assistant?u=76281980&t=311)** So this one is from the business requirement document.
 >
@@ -3795,7 +3761,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (6), [[HTML]] (5), [[GitHub]] (4), [[ChatGPT]] (3)
+> **Frameworks & Libraries:** [[HTML]] (5), [[GitHub]] (4), [[ChatGPT]] (3), [[Data Science]] (1), [[Technical Communication]] (1)
 > **Env Vars:** html (5), gpt (4), crisp (1)
 > **CLI Commands:** find (4), make (2)
 > **Tools:** github (4)
@@ -3804,18 +3770,17 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **Cross-References:** go back to (1)
 
-#### Use case 19: Data storytelling assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980)
+#### [Use case 19: Data storytelling assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=0)** - [Instructor] Okay, so now that we have a cool report, let's see how we can turn this into an engaging data story, which is super important because in the end we need to communicate all the findings that we have.
 >
-> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=10)** And this is where of course, generative AI can be super helpful.
+> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=10)** And this is where of course, [[Generative AI]] can be super helpful.
 >
 > **[0:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=14)** So make sure you're in Branch 07_03, and then scroll down and open this GPT link over here.
 >
-> **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=20)** And this will bring you to the data storytelling assistant.
+> **[0:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=20)** And this will bring you to the [[Data Storytelling]] assistant.
 >
 > **[0:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=23)** So let's see what this assistant is doing.
 >
@@ -3859,9 +3824,9 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=110)** And once the pyramid is constructed, share a summary of the overall story flow and the presentation title.
 >
-> **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=115)** And finally, once the user signs off, give us the PowerPoint or in this case, Slidev file.
+> **[1:55](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=115)** And finally, once the user signs off, give us the [[Microsoft PowerPoint|PowerPoint]] or in this case, Slidev file.
 >
-> **[2:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=121)** If you're not familiar with Slidev, it's essentially a programmatic way to create presentations because ChatGPT is not really that great at creating PowerPoint presentations out of the box.
+> **[2:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=121)** If you're not familiar with Slidev, it's essentially a programmatic way to create presentations because [[ChatGPT]] is not really that great at creating PowerPoint presentations out of the box.
 >
 > **[2:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=130)** But for our purposes, it'll be good enough.
 >
@@ -3895,7 +3860,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=198)** The first one could be to say our gradient boosting model needs refinement to improve generalization and prevent overfitting.
 >
-> **[3:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=204)** The other could be to expand the training data and refine features which is critical for better demand forecasting.
+> **[3:24](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=204)** The other could be to expand the training data and refine features which is critical for better demand [[Forecasting]].
 >
 > **[3:31](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=211)** Or thirdly, simpler models might perform just as well with lower risk of overfitting.
 >
@@ -3959,7 +3924,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=368)** Slide number 3 is the key argument for the overfitting issue.
 >
-> **[6:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=371)** Slide number 4, the complexity versus data science.
+> **[6:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=371)** Slide number 4, the complexity versus [[Data Science]].
 >
 > **[6:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-19-data-storytelling-assistant?u=76281980&t=374)** Slide number 5, the simplification and model alternatives.
 >
@@ -3987,7 +3952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), business (4), [[Microsoft PowerPoint|Powerpoint]] (3), [[ChatGPT]] (3), next (3)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (3), [[ChatGPT]] (3), [[Forecasting]] (2), [[Generative AI]] (1), [[Data Storytelling]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Env Vars:** gpt (3), bcg (1), llm (1)
 > **Cross-References:** in the next (1), we discussed (1)
@@ -3996,16 +3961,15 @@ created: 2026-05-02
 > **Analogies:** for example (1), just like (1)
 > **UI Navigation:** scroll down (1)
 
-#### Use case 20: Stakeholder communication assistant
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980)
+#### [Use case 20: Stakeholder communication assistant](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=0)** - [Instructor] One key trait of data science is that you need to communicate across the whole organization from very technical to not so technical.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=0)** - [Instructor] One key trait of [[Data Science]] is that you need to communicate across the whole organization from very technical to not so technical.
 >
 > **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=7)** And this is where a custom GPT can help you that adapts the key message that you have to different type of audiences.
 >
-> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=15)** Now, open the GitHub Repo and Branch 07_04.
+> **[0:15](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=15)** Now, open the [[GitHub]] Repo and Branch 07_04.
 >
 > **[0:18](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=18)** Go to the ReadMe file and then you will find the first link here, which takes you to the Stakeholder Communication Assistant.
 >
@@ -4073,7 +4037,7 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=194)** And you can see that the GPT now extracts the original terms and then the simplified explanations of these.
 >
-> **[3:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=200)** For example, instead of talking about gradient boosting regressors, we could say that it's a complex forecasting model that may not work well with small data.
+> **[3:20](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=200)** For example, instead of talking about gradient boosting regressors, we could say that it's a complex [[Forecasting]] model that may not work well with small data.
 >
 > **[3:28](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/use-case-20-stakeholder-communication-assistant?u=76281980&t=208)** Or instead of talking about overfitting, we could tell that when a model learns a pattern it works only on past data but fails in real world scenarios.
 >
@@ -4117,7 +4081,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Forecasting]] (2), business (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Forecasting]] (2), [[GitHub]] (1)
 > **Env Vars:** gpt (6), roi (2), gbr (1)
 > **Analogies:** for example (4)
 > **UI Navigation:** open the (1), go to (1), switch to (1)
@@ -4131,16 +4095,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course recap and key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980)
+#### [Course recap and key takeaways](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=0)** - [Instructor] So let's review what we've covered in our course about enhancing our productivity as data scientists with the help of generative AI.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=0)** - [Instructor] So let's review what we've covered in our course about enhancing our productivity as data scientists with the help of [[Generative AI]].
 >
 > **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=7)** In this course, we explored five key areas.
 >
-> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=10)** We learned how GenAI fits into data science, explored the basics of prompt engineering and saw how to implement AI assistants and copilots ourselves using real world examples.
+> **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=10)** We learned how GenAI fits into [[Data Science]], explored the basics of [[Prompt Engineering]] and saw how to implement AI assistants and copilots ourselves using real world examples.
 >
 > **[0:21](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/course-recap-and-key-takeaways?u=76281980&t=21)** We also discussed balancing automation with human expertise, and how to build efficient AI-augmented workflows.
 >
@@ -4216,21 +4179,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), data (8), [[Generative AI]] (3), business (2), prompt (2)
+> **Frameworks & Libraries:** [[Data Science]] (5), [[Generative AI]] (3), [[Prompt Engineering]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** always make sure (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Future trends in AI-augmented data science
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980)
+#### [Future trends in AI-augmented data science](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=0)** - [Instructor] Finally, let's see what's next in generative AI and how it's about to transform the way we do data science in the future.
+> **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=0)** - [Instructor] Finally, let's see what's next in [[Generative AI]] and how it's about to transform the way we do [[Data Science]] in the future.
 >
-> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=7)** One of the big themes is AI agents.
+> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=7)** One of the big themes is [[AI Agents]].
 >
 > **[0:10](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=10)** As you gain experience and discover more workflows that benefit from AI augmentation, the next logical step is to increase the level of integration and automation so that you're not just building assistants and copilots, but true AI agents that can do the work for you without you lifting a finger.
 >
@@ -4238,7 +4200,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=30)** These are AI systems that can work independently in a self-directed data science workflow.
 >
-> **[0:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=36)** Imagine a computer running the CRISP-DM cycle on its own, stitching together the different steps we've done in this course, and being able to orchestrate all the different tasks involved.
+> **[0:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=36)** Imagine a computer running the [[CRISP-DM]] cycle on its own, stitching together the different steps we've done in this course, and being able to orchestrate all the different tasks involved.
 >
 > **[0:46](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=46)** Ultimately, given the data set and the business problem, these systems could iterate toward the technically best solution, continuously learning and adapting as new data comes in.
 >
@@ -4254,7 +4216,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=83)** Here's how some of these agents could look like.
 >
-> **[1:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=86)** For example, we could have a data discovery and data collection agent that automatically checks data quality and keeps information up to date based on the systems it has access to.
+> **[1:26](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=86)** For example, we could have a data discovery and [[Data Collection]] agent that automatically checks [[Data Quality]] and keeps information up to date based on the systems it has access to.
 >
 > **[1:36](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/future-trends-in-ai-augmented-data-science?u=76281980&t=96)** Equipped with the right tools, it could potentially even fix common data quality errors and update data dynamically in a dedicated database.
 >
@@ -4314,25 +4276,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (16), data (15), next (2), [[CRISP-DM]] (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (6), [[AI Agents]] (5), [[CRISP-DM]] (2), [[Data Quality]] (2), [[Generative AI]] (1)
 > **Analogies:** imagine (2), for example (1), similar to (1)
 > **Env Vars:** crisp (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Next steps in your GenAI journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980)
+#### [Next steps in your GenAI journey](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=0)** - [Tobias] Thanks for watching the course.
 >
-> **[0:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=1)** I really hope you enjoyed it, and I wish you the best of luck on your data science and generative AI journey.
+> **[0:01](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=1)** I really hope you enjoyed it, and I wish you the best of luck on your [[Data Science]] and [[Generative AI]] journey.
 >
 > **[0:06](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=6)** I'd love to get your feedback.
 >
-> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=7)** If you took this course and enjoyed it, feel free to post it on LinkedIn and tag me.
+> **[0:07](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=7)** If you took this course and enjoyed it, feel free to post it on [[LinkedIn]] and tag me.
 >
 > **[0:11](https://www.linkedin.com/learning/enhancing-your-productivity-as-a-data-scientist-with-generative-ai/next-steps-in-your-genai-journey?u=76281980&t=11)** You can reach me here on this profile and feel free to connect and there's much more in AI here at the LinkedIn Library, including more courses that I have created so you can check them out, and I wish you all the best on your generative AI learning journey.
 >
@@ -4342,7 +4303,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (2), data (1), ai (1), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[LinkedIn]] (2), [[Data Science]] (1)
 > **Speakers:** - [tobias] (1)
 
 

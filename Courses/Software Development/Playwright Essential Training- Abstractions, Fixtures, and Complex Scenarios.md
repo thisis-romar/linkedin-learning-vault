@@ -98,8 +98,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Level up your Playwright skills: Complex scenarios simplified
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/level-up-your-playwright-skills-complex-scenarios-simplified?u=76281980)
+#### [Level up your Playwright skills: Complex scenarios simplified](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/level-up-your-playwright-skills-complex-scenarios-simplified?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,12 +118,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Automation]] (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)
 > **Speakers:** - [butch] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -164,19 +161,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (5), [[Programming]] (1), hit (1)
 > **CLI Commands:** node (5), find (1), make (1)
 > **Tools:** vs code (3), terminal (1)
 > **Prerequisites:** install (3), set up (1)
 > **Env Vars:** ide (1)
 > **Speakers:** - [butch] (1)
 
-#### Using the GitHub exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980)
+#### [Using the GitHub exercise files](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=0)** - [Instructor] Throughout this course, we'll be using the GitHub repo located here.
+> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=0)** - [Instructor] Throughout this course, we'll be using the [[GitHub]] repo located here.
 >
 > **[0:06](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=6)** The main read me contains instructions on using and switching to different branches.
 >
@@ -184,7 +179,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=19)** This file includes a link to all relevant playwright documentation that we cover, direct links to different code branches and other links that we provide in the course.
 >
-> **[0:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=31)** As a part of the previous course learning playwright, we've already created the basics of a test automation framework, which we will pick up in the first branch, 01_02B.
+> **[0:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=31)** As a part of the previous course learning playwright, we've already created the basics of a [[Test Automation]] framework, which we will pick up in the first branch, 01_02B.
 >
 > **[0:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=46)** Within this repo, we'll be having checkpoints with beginning and ending branches for each lesson where the code changes.
 >
@@ -194,7 +189,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=80)** I'm going to walk through these two commands and then in the next chapter, you'll be cloning the repo and you can test out these commands.
 >
-> **[1:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=91)** If I wanted to switch to switch to say branch 01_02B, which is the first branch here, I can type in git switch 01_02B and notice all these files here.
+> **[1:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=91)** If I wanted to switch to switch to say branch 01_02B, which is the first branch here, I can type in [[Git]] switch 01_02B and notice all these files here.
 >
 > **[1:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-the-github-exercise-files?u=76281980&t=111)** A lot of 'em are going to disappear 'cause they haven't been created yet in this specific branch.
 >
@@ -206,7 +201,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1), [[Test Automation]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (2), [[GitHub]] (1), [[Test Automation]] (1)
 > **CLI Commands:** git (2), make (1)
 > **UI Navigation:** switch to (2)
 > **Exercise Files:** github repo (1), clone the repo (1)
@@ -215,8 +210,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cloning the repository and installation
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980)
+#### [Cloning the repository and installation](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,9 +218,9 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=8)** You have a few different options to clone the repo.
 >
-> **[0:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=11)** Once you're on the GitHub page, you can click this Code button and see the options.
+> **[0:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=11)** Once you're on the [[GitHub]] page, you can click this Code button and see the options.
 >
-> **[0:18](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=18)** To clone the code locally, you have an option to do that via HTTPS, SSH, GitHub CLI, or to open it with GitHub Desktop.
+> **[0:18](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=18)** To clone the code locally, you have an option to do that via HTTPS, SSH, GitHub [[CLI]], or to open it with GitHub Desktop.
 >
 > **[0:32](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=32)** If you want to use GitHub Desktop to manage the repo, you can learn more and download it from the link that's found in the resources file for this section.
 >
@@ -234,7 +228,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=55)** But I would recommend that you go ahead and set up SSH for GitHub.
 >
-> **[1:01](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=61)** This will require you to configure an SSH key, and this is one of the most popular ways to manage a remote Git repository.
+> **[1:01](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=61)** This will require you to configure an SSH key, and this is one of the most popular ways to manage a remote [[Git]] repository.
 >
 > **[1:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=71)** Once you have your method selected, let's go ahead and clone the repository to your local machine.
 >
@@ -258,7 +252,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=117)** This is going to clone all the files that are in the repo to my local machine, and it created a folder called playwright-essentials.
 >
-> **[2:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=125)** So if I do an ls, or if you're on a Windows machine, you can type dir and hit Enter, you'll see that there's a new folder, a new directory that's been downloaded.
+> **[2:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=125)** So if I do an ls, or if you're on a [[Windows]] machine, you can type dir and hit Enter, you'll see that there's a new folder, a new directory that's been downloaded.
 >
 > **[2:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/cloning-the-repository-and-installation?u=76281980&t=137)** So I'm going to go ahead and cd into that directory.
 >
@@ -310,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Windows]] (3), hit (3), cd (2)
+> **Frameworks & Libraries:** [[GitHub]] (7), [[Git]] (5), [[Windows]] (3), [[CLI]] (1)
 > **CLI Commands:** git (5), ssh (4), cd (2), npx (2), ls (1)
 > **Tools:** github (7), terminal (1)
 > **Env Vars:** ssh (4), https (1), cli (1)
@@ -319,20 +313,19 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** click on (1)
 
-#### Overview of the website under test
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980)
+#### [Overview of the website under test](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=0)** - [Instructor] As a part of this course, we'll be using a dedicated site to test against, [practicesoftwaretesting.com](https://practicesoftwaretesting.com).
 >
-> **[0:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=9)** This site was built by Roy de Kleijn and is used for practicing software testing.
+> **[0:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=9)** This site was built by Roy de Kleijn and is used for practicing [[Software Testing]].
 >
 > **[0:16](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=16)** It's always a good idea to take some time and go explore the websites that you plan to automate.
 >
 > **[0:21](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=21)** So let's do that now by following this link.
 >
-> **[0:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=26)** One thing to note is there's also the source code for the webpage that's provided on GitHub.
+> **[0:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=26)** One thing to note is there's also the source code for the webpage that's provided on [[GitHub]].
 >
 > **[0:32](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=32)** That link is also in the resource file.
 >
@@ -348,11 +341,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=71)** And let's go ahead and just refresh the page and see what network calls get made.
 >
-> **[1:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=77)** Now for my version, I've actually got all my network calls filtered down to fetch/xhr, and what this is going to do is it's only going to return back different requests that are made to an API.
+> **[1:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=77)** Now for my version, I've actually got all my network calls filtered down to [[Fetch]]/xhr, and what this is going to do is it's only going to return back different requests that are made to an API.
 >
 > **[1:34](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=94)** So for example, I can see these are all the different requests that were made from the API.
 >
-> **[1:40](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=100)** So I can look at brands and see that this brand's API call makes a call and it comes back with some different brands, Forge Flex Tools, Mighty Craft Hardware.
+> **[1:40](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=100)** So I can look at brands and see that this brand's API call makes a call and it comes back with some different brands, Forge Flex Tools, Mighty Craft [[Hardware]].
 >
 > **[1:54](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-the-website-under-test?u=76281980&t=114)** If I scroll down, I'll likely see these brands down here.
 >
@@ -418,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Software Testing]] (1), [[GitHub]] (1), [[Fetch]] (1), [[Hardware]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[GitHub]] (1), [[Fetch]] (1), [[Hardware]] (1)
 > **Env Vars:** api (4)
 > **UI Navigation:** click on (1), scroll down (1), navigate to (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (2)
@@ -432,8 +425,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Abstractions: Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980)
+#### [Abstractions: Pros and cons](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -529,7 +521,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980&t=301)** If you've ever had to do the same thing over and over in code, you found how useful it is to create a function.
 >
-> **[5:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980&t=309)** This is true with test automation suites as well.
+> **[5:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980&t=309)** This is true with [[Test Automation]] suites as well.
 >
 > **[5:12](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/abstractions-pros-and-cons?u=76281980&t=312)** If there's duplicated code snippets or helper functions throughout your automation code base, you will find yourself in a maintenance nightmare, having to keep multiple implementations up to date.
 >
@@ -537,15 +529,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), dom (1), generic (1), [[Test Automation]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Documentation:** spec (2)
 > **Env Vars:** dom (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a page object in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-page-object-in-playwright?u=76281980)
+#### [Creating a page object in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-page-object-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -675,7 +666,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3)
 > **Code Identifiers:** getbytestid (3), emailinput (2), passwordinput (2), loginbutton (1)
 > **File Paths:** off.spec.ts (1), off.setup.ts (1), login.page.ts (1)
 > **Prerequisites:** setup (3)
@@ -684,8 +674,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### Using a page object in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-a-page-object-in-playwright?u=76281980)
+#### [Using a page object in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-a-page-object-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -841,7 +830,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Code Identifiers:** loginpage (7), emailinput (2), passwordinput (2), loginbutton (2), getbytestid (1)
 > **Prerequisites:** setup (6)
 > **CLI Commands:** make (4)
@@ -849,13 +837,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **File Paths:** auth.setup.ts (1)
 > **Documentation:** spec (1)
+> **Tools:** vs code (1)
 
-#### Overview of test data management in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980)
+#### [Overview of test data management in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=0)** - [Instructor] I believe that test data management is the hardest part of test automation.
+> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=0)** - [Instructor] I believe that test [[Data Management]] is the hardest part of [[Test Automation]].
 >
 > **[0:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=5)** In this video, I'll walk you through some best practices and different approaches that you can take in order to create a maintainable automation suite.
 >
@@ -893,7 +881,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=128)** We're going to create one of those in the next lesson.
 >
-> **[2:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=131)** Or products, maybe products that we create that we want to run assertions against.
+> **[2:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=131)** Or [[Microsoft Products|products]], maybe products that we create that we want to run assertions against.
 >
 > **[2:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-test-data-management-in-playwright?u=76281980&t=137)** So, while this data may be the same type of data is dynamic in the fact that your test is creating this and you're not relying on something that's already there.
 >
@@ -925,14 +913,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (27), [[Microsoft Products|Products]] (3), [[Test Automation]] (2), next (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Test Automation]] (2), [[Data Management]] (1)
 > **Cross-References:** in the next (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a data factory for Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980)
+#### [Creating a data factory for Playwright tests](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1078,7 +1065,7 @@ created: 2026-05-02
 >
 > **[6:57](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980&t=417)** Right now, we are pasting in basically this data object.
 >
-> **[7:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980&t=422)** We're going to make this a little more JavaScript-friendly.
+> **[7:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980&t=422)** We're going to make this a little more [[JavaScript]]-friendly.
 >
 > **[7:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-data-factory-for-playwright-tests?u=76281980&t=425)** So I'm going to just remove the string off of the object and I'm just going to hit save and VS Code's going to do the magic to remove all those strings off of each of the keys for all the different values.
 >
@@ -1228,7 +1215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), [[JavaScript]] (5), api (3), next (3), hit (2)
+> **Frameworks & Libraries:** [[JavaScript]] (5)
 > **Code Identifiers:** apiurl (3), registeruser (3), requestcontext (2), tobe (2), createrequestcontext (1)
 > **CLI Commands:** make (11)
 > **Env Vars:** api (3), url (3), api_url (2)
@@ -1237,8 +1224,7 @@ created: 2026-05-02
 > **URLs:** [softwaretesting.com](https://softwaretesting.com) (1), [test.com](https://test.com) (1)
 > **Cross-References:** go back to (1), in the next (1)
 
-#### Creating helpers for Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980)
+#### [Creating helpers for Playwright tests](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1304,7 +1290,7 @@ created: 2026-05-02
 >
 > **[3:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980&t=226)** So zero, one, or two needs to be returned, but this needs to be very unique.
 >
-> **[3:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980&t=231)** And you can ChatGPT your way to a solution pretty easy nowadays with tools at our fingertips.
+> **[3:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980&t=231)** And you can [[ChatGPT]] your way to a solution pretty easy nowadays with tools at our fingertips.
 >
 > **[3:57](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-helpers-for-playwright-tests?u=76281980&t=237)** But we're just going to define a random index, and we're going to do some math to calculate this.
 >
@@ -1386,7 +1372,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), next (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1)
 > **Versions:** 0.1 (2), 0.3 (2), 0.5 (2), 0.9 (2), 0.2 (1)
 > **CLI Commands:** make (3), find (2)
 > **File Paths:** states.ts (1), arrays.ts (1)
@@ -1395,8 +1381,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **UI Navigation:** go to (1)
 
-#### Creating custom assertions for Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-custom-assertions-for-playwright-tests?u=76281980)
+#### [Creating custom assertions for Playwright tests](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-custom-assertions-for-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1519,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), generic (1), next (1)
 > **Code Identifiers:** tobenumber (4), tobe (2), stringmatching (1), stringcontaining (1), apichallenge (1)
 > **Definitions:** is a  (5)
 > **File Paths:** global.d.ts (2), playwrightconfig.js (1)
@@ -1542,9 +1526,9 @@ created: 2026-05-02
 > **CLI Commands:** make (2)
 > **Versions:** 11.14 (1)
 > **Cross-References:** go back to (1)
+> **UI Navigation:** scroll down (1)
 
-#### Managing TypeScript config
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980)
+#### [Managing TypeScript config](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1556,7 +1540,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980&t=22)** This will allow us to refactor our test and use easy syntax when importing files into our test.
 >
-> **[0:28](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980&t=28)** So let's go ahead and in our main directory, create a new file, and we're going to name it tsconfig.json.
+> **[0:28](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980&t=28)** So let's go ahead and in our main directory, create a new file, and we're going to name it tsconfig.[[JSON]].
 >
 > **[0:38](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/managing-typescript-config?u=76281980&t=38)** This is going to be a JSON file that has certain key and value pairs.
 >
@@ -1636,7 +1620,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[JSON]] (2), next (2), api (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** json (1), url (1), api (1)
 > **Documentation:** spec (2)
@@ -1644,8 +1628,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a test using data factory and helper Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980)
+#### [Challenge: Create a test using data factory and helper Functions](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1675,7 +1658,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=90)** This is a post request to this endpoint with this payload.
 >
-> **[1:39](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=99)** And this payload is basically a JSON object that includes a name, a subject, the message.
+> **[1:39](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=99)** And this payload is basically a [[JSON]] object that includes a name, a subject, the message.
 >
 > **[1:47](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=107)** And one other interesting thing that you're going to have to consider is this does have a request header that has an authorization with a bearer token.
 >
@@ -1707,15 +1690,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), application (1), traffic (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** api (2), json (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Create a test using data factory and helper functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980)
+#### [Solution: Create a test using data factory and helper functions](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1835,7 +1817,7 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=330)** I'm passing in this data with an authorization header and I'm expecting the response to be 200.
 >
-> **[5:38](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=338)** And then I'm actually returning the response to json.
+> **[5:38](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=338)** And then I'm actually returning the response to [[JSON]].
 >
 > **[5:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-create-a-test-using-data-factory-and-helper-functions?u=76281980&t=343)** So I'm actually, I don't need this piece of code, I was using this to debug.
 >
@@ -1937,7 +1919,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (3), api (2), css (2), front-end (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Definitions:** is a  (9)
 > **Code Identifiers:** messages_spec (1), loginpage (1), registeruser (1), storagestate (1), messagespage (1)
 > **UI Navigation:** dropdown (4), click on (2), go to (1)
@@ -1951,8 +1933,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of Playwright fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980)
+#### [Overview of Playwright fixtures](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2012,7 +1993,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980&t=147)** And you're free to group tests by their meaning instead.
 >
-> **[2:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980&t=151)** The big idea here is Playwright's fixture system is built-in dependency injection that automatically supplies your test with required resources, like page objects, browser contacts, or other custom helpers in ways that promote clean, maintainable test code without repetitive setup logic.
+> **[2:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980&t=151)** The big idea here is Playwright's fixture system is built-in [[Dependency Injection]] that automatically supplies your test with required resources, like page objects, browser contacts, or other custom helpers in ways that promote clean, maintainable test code without repetitive setup logic.
 >
 > **[2:52](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-playwright-fixtures?u=76281980&t=172)** In this chapter, we'll pull back the curtain and demystify Playwright's fixture system.
 >
@@ -2020,12 +2001,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), power (1), [[Dependency Injection]] (1)
+> **Frameworks & Libraries:** [[Dependency Injection]] (1)
 > **Prerequisites:** setup (2), set up (2)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a fixture in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-fixture-in-playwright?u=76281980)
+#### [Creating a fixture in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/creating-a-fixture-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2106,8 +2086,7 @@ created: 2026-05-02
 > **Documentation:** spec (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a fixture in Playwright tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-a-fixture-in-playwright-tests?u=76281980)
+#### [Using a fixture in Playwright tests](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/using-a-fixture-in-playwright-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2181,14 +2160,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Documentation:** spec (6)
 > **Prerequisites:** initialization (2), setup (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of advanced fixtures in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980)
+#### [Overview of advanced fixtures in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2196,7 +2173,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980&t=4)** That's really just the tip of the iceberg on what's possible with fixtures.
 >
-> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980&t=8)** Let's dig a little deeper and review some other examples that could be useful in your test automation framework.
+> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980&t=8)** Let's dig a little deeper and review some other examples that could be useful in your [[Test Automation]] framework.
 >
 > **[0:15](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-advanced-fixtures-in-playwright?u=76281980&t=15)** Let's first start at overwriting fixtures.
 >
@@ -2262,8 +2239,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing an advanced fixture in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980)
+#### [Implementing an advanced fixture in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2271,7 +2247,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980&t=13)** In this lesson, we're going to implement a more advanced fixture that will fail if any console error messages show up on the page.
 >
-> **[0:23](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980&t=23)** So this is what you would see if you inspect your browser, and you look at the browser console, and there's any JavaScript errors.
+> **[0:23](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980&t=23)** So this is what you would see if you inspect your browser, and you look at the browser console, and there's any [[JavaScript]] errors.
 >
 > **[0:30](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/implementing-an-advanced-fixture-in-playwright?u=76281980&t=30)** This will require us to create a new fixture file, and we're going to use a function that Playwright provides to merge these fixtures together to add another layer of abstraction.
 >
@@ -2457,7 +2433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Code Identifiers:** accountpage (5), mergetests (3), pageconsole (3), loginpage (2), mergeexpects (2)
 > **Documentation:** spec (5)
 > **CLI Commands:** find (2), make (1), npx (1)
@@ -2466,8 +2442,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Tools:** vs code (1)
 
-#### Challenge: Update message test to use fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-update-message-test-to-use-fixtures?u=76281980)
+#### [Challenge: Update message test to use fixtures](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-update-message-test-to-use-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,8 +2459,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Update message test to use fixtures
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-update-message-test-to-use-fixtures?u=76281980)
+#### [Solution: Update message test to use fixtures](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-update-message-test-to-use-fixtures?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2536,8 +2510,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview of network routing in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980)
+#### [Overview of network routing in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2553,7 +2526,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=55)** So this all happens within the page.route function that exists.
 >
-> **[1:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=62)** So in this scenario, we are passing in the API for the products, so we get a list of products back, and we're routing that through this page router.
+> **[1:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=62)** So in this scenario, we are passing in the API for the [[Microsoft Products|products]], so we get a list of products back, and we're [[Routing]] that through this page router.
 >
 > **[1:15](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=75)** We then set the response to whatever comes back from the response.
 >
@@ -2565,7 +2538,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=125)** This is very helpful.
 >
-> **[2:07](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=127)** Specifically in one situation where I've used this was to block Google ads on a certain site.
+> **[2:07](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=127)** Specifically in one situation where I've used this was to block [[Google]] ads on a certain site.
 >
 > **[2:14](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-network-routing-in-playwright?u=76281980&t=134)** There was a site that I was testing and a Google ad would always pop up over the login button, which caused problems when you're trying to create a login test, and aborting that request allowed me to not load any of the Google ads and not have any issues with the test and flickiness.
 >
@@ -2599,14 +2572,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (7), [[Microsoft Products|Products]] (4), [[Google]] (3), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[Google]] (3), [[Routing]] (1)
 > **Env Vars:** api (7), har (2)
 > **Code Identifiers:** routefromhar (1), routefromjson (1), waitfortimeout (1)
 > **Analogies:** similar to (1), it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Intercepting HTTP requests with Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980)
+#### [Intercepting HTTP requests with Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2620,9 +2592,9 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=31)** I've opened the network tab and I've actually cleared it out.
 >
-> **[0:34](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=34)** So we've got a clean slate, I'm going to refresh the page and I've actually narrowed down my network request to just fetch XHR requests.
+> **[0:34](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=34)** So we've got a clean slate, I'm going to refresh the page and I've actually narrowed down my network request to just [[Fetch]] XHR requests.
 >
-> **[0:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=46)** And I'm looking for this products API call.
+> **[0:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=46)** And I'm looking for this [[Microsoft Products|products]] API call.
 >
 > **[0:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=51)** So this is a API call here.
 >
@@ -2632,7 +2604,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=63)** And this is the data that comes back.
 >
-> **[1:06](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=66)** And we can see this is a json object and there is a data section, which it looks like has an array of objects, which should include, you know, combination pliers, pliers, bolt cutters, you know, this is the data that is rendering in the UI.
+> **[1:06](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=66)** And we can see this is a [[JSON]] object and there is a data section, which it looks like has an array of objects, which should include, you know, combination pliers, pliers, bolt cutters, you know, this is the data that is rendering in the UI.
 >
 > **[1:25](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/intercepting-http-requests-with-playwright?u=76281980&t=85)** So this is the call we want to route.
 >
@@ -2862,7 +2834,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), data (11), product (9), [[JSON]] (5), api (4)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (14), [[JSON]] (5), [[Fetch]] (3)
 > **Definitions:** is a  (10), is an  (1)
 > **Env Vars:** api (4), json (3), xhr (1), url (1)
 > **CLI Commands:** make (5), find (3)
@@ -2871,8 +2843,7 @@ created: 2026-05-02
 > **Analogies:** kind of like (2)
 > **Best Practices:** best practice (1), bad practice (1)
 
-#### Mocking HTTP responses with Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980)
+#### [Mocking HTTP responses with Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2890,15 +2861,15 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=58)** We'll paste this here.
 >
-> **[1:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=60)** So we're going to intercept, I'm actually going to say we're going to overwrite the products in point.
+> **[1:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=60)** So we're going to intercept, I'm actually going to say we're going to overwrite the [[Microsoft Products|products]] in point.
 >
 > **[1:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=69)** It's very similar context, but there's some slight differences.
 >
 > **[1:13](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=73)** So hopefully you get to see those here.
 >
-> **[1:16](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=76)** So we've got our paid route, we've got the endpoint we want to route to, we have our awaitroute.fetch.
+> **[1:16](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=76)** So we've got our paid route, we've got the endpoint we want to route to, we have our awaitroute.[[Fetch]].
 >
-> **[1:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=86)** The next thing we want to do is create a JSON variable.
+> **[1:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=86)** The next thing we want to do is create a [[JSON]] variable.
 >
 > **[1:32](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/mocking-http-responses-with-playwright?u=76281980&t=92)** I'm going to set that to awaitresponse.JSON and this is where we're going to change things up.
 >
@@ -3084,7 +3055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (13), data (6), [[JSON]] (5), api (4), next (3)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Products|Products]] (2), [[Fetch]] (1)
 > **Env Vars:** har (12), json (5), api (4), hars (2), url (2)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 1.99 (2), 123.01 (1), 14.15 (1)
@@ -3093,16 +3064,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (3)
 > **File Paths:** awaitresponse.json (1)
 
-#### Browser emulation in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980)
+#### [Browser emulation in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=0)** - [Instructor] Now that we have a grasp of how to mock and intercept request with a browser, let's zoom out a bit and look at how we can emulate different browsers with Playwright.
+> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=0)** - [Instructor] Now that we have a grasp of how to mock and intercept request with a browser, let's [[Zoom]] out a bit and look at how we can emulate different browsers with Playwright.
 >
 > **[0:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=11)** Each version of Playwright is released with different browsers that can be installed.
 >
-> **[0:16](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=16)** What's nice about Playwright is when you initialize Playwright through the npm and net Playwright@latest command, the default Playwright config has a lot of browser examples available for you to work with.
+> **[0:16](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=16)** What's nice about Playwright is when you initialize Playwright through the [[npm]] and net Playwright@latest command, the default Playwright config has a lot of browser examples available for you to work with.
 >
 > **[0:30](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/browser-emulation-in-playwright?u=76281980&t=30)** So let's take a look at our config file.
 >
@@ -3298,7 +3268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (5), data (2), [[Zoom]] (1), [[npm]] (1), hit (1)
+> **Frameworks & Libraries:** [[Zoom]] (1), [[npm]] (1)
 > **Tools:** safari (9), command line (1), terminal (1), vs code (1)
 > **UI Navigation:** click on (4), scroll down (2), go to (2), toggle (2), right-click (1)
 > **CLI Commands:** make (4), find (3), npm (1), npx (1)
@@ -3307,8 +3277,7 @@ created: 2026-05-02
 > **File Paths:** playwright.config.ts (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (1)
 
-#### Localization and geolocation in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/localization-and-geolocation-in-playwright?u=76281980)
+#### [Localization and geolocation in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/localization-and-geolocation-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3343,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), web application (1)
 > **Prerequisites:** set up (2), setup (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), go to (1)
@@ -3382,14 +3350,13 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Injecting JavaScript in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980)
+#### [Injecting JavaScript in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=0)** - [Instructor] I have found myself in certain situations where the out of the box Playwright methods weren't able to solve my problems.
 >
-> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=8)** While this doesn't happen often, the Playwright evaluate functionality allows you to inject and run any JavaScript directly on any webpage.
+> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=8)** While this doesn't happen often, the Playwright evaluate functionality allows you to inject and run any [[JavaScript]] directly on any webpage.
 >
 > **[0:19](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=19)** The page evaluating functionality is typically my last resort.
 >
@@ -3423,11 +3390,11 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=90)** I'm going to pass async.
 >
-> **[1:35](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=95)** And now we're ready to add the rest of our code.
+> **[1:35](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=95)** And now we're ready to add the [[Representational State Transfer (REST)|rest]] of our code.
 >
 > **[1:38](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=98)** Before we do that though, let's go explore the site and really understand what we are checking and how we're going to check it.
 >
-> **[1:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=105)** So let's go to our website, our practice software testing site.
+> **[1:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=105)** So let's go to our website, our practice [[Software Testing]] site.
 >
 > **[1:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/injecting-javascript-in-playwright?u=76281980&t=111)** And specifically what we're checking are inputs.
 >
@@ -3615,7 +3582,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (10), [[Search]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Software Testing]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (10), [[Representational State Transfer (REST)|Rest]] (1), [[Software Testing]] (1)
 > **UI Navigation:** go to (7), scroll down (1), scroll up (1)
 > **Code Identifiers:** brokenimages (3), inputswithoutlabels (2), tobe (2)
 > **CLI Commands:** make (4), find (1)
@@ -3624,8 +3591,7 @@ created: 2026-05-02
 > **File Paths:** home.spec.ts (1)
 > **URLs:** [practicesoftwaretesting.com](https://practicesoftwaretesting.com) (1)
 
-#### Challenge: Mocking and emulation in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-mocking-and-emulation-in-playwright?u=76281980)
+#### [Challenge: Mocking and emulation in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/challenge-mocking-and-emulation-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3651,15 +3617,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ismobile (1), waitfortimeout (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Solution: Mocking and emulation in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980)
+#### [Solution: Mocking and emulation in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3707,7 +3671,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=164)** Now I did not use the mock from har here.
 >
-> **[2:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=166)** I actually am just getting the route for the categories and then I'm just overriding some of the JSON variables.
+> **[2:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=166)** I actually am just getting the route for the categories and then I'm just overriding some of the [[JSON]] variables.
 >
 > **[2:56](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=176)** So json name, I set to mocked category.
 >
@@ -3731,7 +3695,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=243)** So the last challenge was to run all the tests and fix any that are broken.
 >
-> **[4:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=248)** So my approach to that, rather than walking through each of the code files is we're just going to walk through this commit that I've pushed up to GitHub that had my changes.
+> **[4:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=248)** So my approach to that, rather than walking through each of the code files is we're just going to walk through this commit that I've pushed up to [[GitHub]] that had my changes.
 >
 > **[4:20](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=260)** Now a few things I did here, I went a little over and above.
 >
@@ -3741,7 +3705,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=285)** By default, playwright will use the base URL if there's not one provided.
 >
-> **[4:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=291)** So I was able to remove this and only leave this and it's using the base URL and then going to the rest of the path of the URL.
+> **[4:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=291)** So I was able to remove this and only leave this and it's using the base URL and then going to the [[Representational State Transfer (REST)|rest]] of the path of the URL.
 >
 > **[5:03](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/solution-mocking-and-emulation-in-playwright?u=76281980&t=303)** So I ended up doing that for multiple files.
 >
@@ -3783,7 +3747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), data (3), product (3), [[JSON]] (3), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[GitHub]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (6), api (5), json (2), api_url (1), env (1)
 > **CLI Commands:** make (3)
 > **Code Identifiers:** ismobile (2), apiurl (1)
@@ -3797,12 +3761,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Running a webserver during a Playwright test
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980)
+#### [Running a webserver during a Playwright test](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=0)** - [Instructor] In the Learning Playwright LinkedIn Learning course, we covered the basics of updating the playwright.config.
+> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=0)** - [Instructor] In the Learning Playwright [[LinkedIn]] Learning course, we covered the basics of updating the playwright.config.
 >
 > **[0:09](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=9)** In this chapter, we're going to focus on some of the more advanced features that we can do within Playwright using the config.
 >
@@ -3810,13 +3773,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=26)** To run a web server within the playwright.config, we just need to add a web server object and provide a command.
 >
-> **[0:34](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=34)** This is a command that should be built into your package.json file, a URL that points to the server that it'll be run on.
+> **[0:34](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=34)** This is a command that should be built into your package.[[JSON]] file, a URL that points to the server that it'll be run on.
 >
 > **[0:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=43)** And as we can see here, we can also pass in a timeout.
 >
 > **[0:49](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=49)** The file command reuse existing server currently resolves to a true or false in this case.
 >
-> **[0:56](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=56)** If it's not a CI build, true, if it's running in CI like a GitHub actions pipeline, then it's set to false with this current logic.
+> **[0:56](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=56)** If it's not a CI build, true, if it's running in CI like a [[GitHub]] actions pipeline, then it's set to false with this current logic.
 >
 > **[1:07](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=67)** For our specific branch of code 04_01b, I've gone ahead and created a new local web server project that we can run to test this out.
 >
@@ -3830,7 +3793,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=105)** This should be run.
 >
-> **[1:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=106)** To run this command, it's npm run install:bagel-shop.
+> **[1:46](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=106)** To run this command, it's [[npm]] run install:bagel-shop.
 >
 > **[1:55](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=115)** This will cd into the vagal shop directory and run an npm install to ensure all the dependencies are installed.
 >
@@ -3902,7 +3865,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=343)** So this is a globalSetup and a globalTeardown.
 >
-> **[5:49](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=349)** Both of these can be really useful if you have a lot of JavaScript that you need to run before your test suite or after your test suite.
+> **[5:49](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=349)** Both of these can be really useful if you have a lot of [[JavaScript]] that you need to run before your test suite or after your test suite.
 >
 > **[5:59](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/running-a-webserver-during-a-playwright-test?u=76281980&t=359)** So to stand it up, this could be to clear out a database or set some test data or to tear down things.
 >
@@ -3912,7 +3875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[npm]] (5), database (3), [[JSON]] (2), ci (2)
+> **Frameworks & Libraries:** [[npm]] (5), [[JSON]] (2), [[LinkedIn]] (1), [[GitHub]] (1), [[JavaScript]] (1)
 > **CLI Commands:** npm (5), cd (2), npx (2), find (2)
 > **File Paths:** playwright.config (4), package.json (2)
 > **Code Identifiers:** webserver (3), reuseexistingserver (1), globalsetup (1), globalteardown (1)
@@ -3921,8 +3884,7 @@ created: 2026-05-02
 > **Tools:** github (1), terminal (1), safari (1)
 > **Documentation:** spec (1), the docs (1)
 
-#### Optimizing Playwright: Workers and sharding
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/optimizing-playwright-workers-and-sharding?u=76281980)
+#### [Optimizing Playwright: Workers and sharding](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/optimizing-playwright-workers-and-sharding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4058,11 +4020,11 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/optimizing-playwright-workers-and-sharding?u=76281980&t=479)** You can read more about this in the Playwright docs.
 >
-> **[8:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/optimizing-playwright-workers-and-sharding?u=76281980&t=482)** Knowing how workers work will help us know the strengths and limitations of using Playwright for test automation as you continue to build out your test suite.
+> **[8:02](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/optimizing-playwright-workers-and-sharding?u=76281980&t=482)** Knowing how workers work will help us know the strengths and limitations of using Playwright for [[Test Automation]] as you continue to build out your test suite.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (3), product (1), hit (1), prompt (1), parallel (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1)
 > **CLI Commands:** npx (5), find (2)
 > **Tools:** terminal (2), command prompt (1), command line (1)
 > **Definitions:** is an  (1), means that (1), is a  (1)
@@ -4071,8 +4033,7 @@ created: 2026-05-02
 > **Versions:** 12.5 (1), 3.5 (1)
 > **Documentation:** spec (2)
 
-#### Retrying tests in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/retrying-tests-in-playwright?u=76281980)
+#### [Retrying tests in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/retrying-tests-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4150,7 +4111,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), api (2), application (2), feature (1), [[Automation]] (1)
 > **CLI Commands:** make (2), npx (2)
 > **Env Vars:** api (2), npx (2)
 > **Tools:** terminal (1), safari (1)
@@ -4158,12 +4118,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - one (1)
 
-#### Overview of timeouts in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980)
+#### [Overview of timeouts in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=0)** - [Instructor] If you have ever built a test automation framework before, you're likely familiar with timeout errors in your test.
+> **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=0)** - [Instructor] If you have ever built a [[Test Automation]] framework before, you're likely familiar with timeout errors in your test.
 >
 > **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=8)** These can both be a blessing and a curse.
 >
@@ -4265,7 +4224,7 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=291)** I'll typically keep the default settings for each of these values, and only look to add or adjust the timeouts if I have a specific need.
 >
-> **[5:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=300)** With each of these timeouts, we are given a ton of flexibility in order to build and design systems that provide fast feedback to us and our teams.
+> **[5:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=300)** With each of these timeouts, we are given a ton of flexibility in order to build and [[Design Systems]] that provide fast feedback to us and our teams.
 >
 > **[5:12](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/overview-of-timeouts-in-playwright?u=76281980&t=312)** Before moving on to the next chapter, take a few minutes and implement or adjust the different timeouts discussed.
 >
@@ -4275,7 +4234,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[Test Automation]] (1), [[Design Systems]] (1), teams (1)
+> **Frameworks & Libraries:** [[Test Automation]] (1), [[Design Systems]] (1)
 > **Code Identifiers:** beforeeach (3), settimeout (2), testinfo (2)
 > **Definitions:** is an  (3), is a  (2)
 > **Documentation:** the docs (3)
@@ -4289,14 +4248,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Working with multiple windows and popups in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980)
+#### [Working with multiple windows and popups in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=0)** - [Instructor] So far throughout this course, we focused on interacting with a single browser window at a time in our tests.
 >
-> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=8)** In this video, we're going to learn how to interact with multiple browser windows and to deal with popups.
+> **[0:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=8)** In this video, we're going to learn how to interact with multiple browser [[Windows]] and to deal with popups.
 >
 > **[0:14](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=14)** For the next few videos, we'll be using the bagel shop project, which is the local web server that we set up in Chapter 4, Video 1, so let's open up our project and go ahead and run that web server.
 >
@@ -4304,7 +4262,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=36)** I'm going to start by clicking this + button.
 >
-> **[0:39](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=39)** This is going to create a new split terminal, and in this second terminal, I'm going to type in npm run start.
+> **[0:39](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=39)** This is going to create a new split terminal, and in this second terminal, I'm going to type in [[npm]] run start.
 >
 > **[0:48](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=48)** If you have not run the npm run install bagel shop command first, you will need to do that first, but running this should run the Vite server.
 >
@@ -4340,7 +4298,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=237)** We're going to set that... Oh, we need to add a const here 'cause it is a variable.
 >
-> **[4:03](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=243)** page.waitForEver, and the event we're actually waiting for is going to be a popup, so these different events are things that can happen from within JavaScript, and the next thing we need to do is we do need to figure out what are we actually going to interact with?
+> **[4:03](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=243)** page.waitForEver, and the event we're actually waiting for is going to be a popup, so these different events are things that can happen from within [[JavaScript]], and the next thing we need to do is we do need to figure out what are we actually going to interact with?
 >
 > **[4:23](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-multiple-windows-and-popups-in-playwright?u=76281980&t=263)** So let's go take a look at our website under test.
 >
@@ -4382,7 +4340,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Windows]] (2), web (2), [[npm]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Windows]] (2), [[npm]] (2), [[JavaScript]] (1)
 > **CLI Commands:** make (6), npm (2)
 > **Code Identifiers:** waitforevent (1), popupromise (1), waitforever (1), getbyrole (1), popuppromise (1)
 > **Env Vars:** url (3), b6g2 (1)
@@ -4391,8 +4349,7 @@ created: 2026-05-02
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (1), install (1)
 
-#### Working with alerts and dialogs in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980)
+#### [Working with alerts and dialogs in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4602,13 +4559,13 @@ created: 2026-05-02
 >
 > **[10:37](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980&t=637)** You saw the different alerts and everything is happy.
 >
-> **[10:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980&t=643)** So one thing I would note is working with a lot of these complex scenarios, a little shortcut that could help you is if you have access to the JavaScript that actually builds out these alerts and has the ordering, you can actually drop that in ChatGPT or any of these LLM tools and ask it to help you work out how to deal with the dialog, help you write that code.
+> **[10:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980&t=643)** So one thing I would note is working with a lot of these complex scenarios, a little shortcut that could help you is if you have access to the [[JavaScript]] that actually builds out these alerts and has the ordering, you can actually drop that in [[ChatGPT]] or any of these LLM tools and ask it to help you work out how to deal with the dialog, help you write that code.
 >
 > **[11:08](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-alerts-and-dialogs-in-playwright?u=76281980&t=668)** And typically it's pretty good at it if it's got the JavaScript source code.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), web (2), hit (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[ChatGPT]] (1)
 > **Code Identifiers:** contactpage (7), waitforevent (2), getbyrole (2), tohavevalue (2), contactpagepromise (1)
 > **URLs:** [test.com](https://test.com) (2), [localhost:5173](https://localhost:5173) (1)
 > **Env Vars:** url (1), api (1), llm (1)
@@ -4617,8 +4574,7 @@ created: 2026-05-02
 > **File Paths:** contact.spec.ts (1)
 > **CLI Commands:** make (1)
 
-#### Working with uploads and downloads in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980)
+#### [Working with uploads and downloads in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4628,7 +4584,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=15)** For this exercise, we'll use the same local website we used in the last video.
 >
-> **[0:20](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=20)** You can run that yourself using npm run start.
+> **[0:20](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=20)** You can run that yourself using [[npm]] run start.
 >
 > **[0:24](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=24)** So let's start your server, and let's go explore the order page.
 >
@@ -4720,7 +4676,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=299)** So this is the set input file that we've got set up.
 >
-> **[5:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=305)** And the next thing we need to do is go ahead and fill out the rest of our test.
+> **[5:05](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=305)** And the next thing we need to do is go ahead and fill out the [[Representational State Transfer (REST)|rest]] of our test.
 >
 > **[5:11](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=311)** So await page.locator, I think we have instructions, it says special instructions.
 >
@@ -4850,7 +4806,7 @@ created: 2026-05-02
 >
 > **[10:41](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=641)** So I'm going to start with setting the file name.
 >
-> **[10:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=645)** And this is some JavaScript that basically says set the dirname.
+> **[10:45](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=645)** And this is some [[JavaScript]] that basically says set the dirname.
 >
 > **[10:52](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-uploads-and-downloads-in-playwright?u=76281980&t=652)** We're going to use our download.
 >
@@ -4916,7 +4872,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), data (2), [[JavaScript]] (2), web (1), [[npm]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[npm]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Code Identifiers:** setinputfiles (3), getbyrole (3), designupload (2), filecontent (2), onclick (1)
 > **CLI Commands:** make (4), npm (1), find (1)
 > **Documentation:** spec (2), the docs (1), the documentation (1)
@@ -4925,8 +4881,7 @@ created: 2026-05-02
 > **Env Vars:** url (1), utf8 (1)
 > **Cross-References:** in the last (1), go back to (1)
 
-#### Working with challenging elements in Playwright
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980)
+#### [Working with challenging elements in Playwright](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4964,7 +4919,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980&t=134)** And now, we have our test, we're ready to go.
 >
-> **[2:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980&t=137)** So we're going to do an await page.goto, localhost, and we're going to pass in 5173, and I believe this is going to be menu.html.
+> **[2:17](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980&t=137)** So we're going to do an await page.goto, localhost, and we're going to pass in 5173, and I believe this is going to be menu.[[HTML]].
 >
 > **[2:29](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/working-with-challenging-elements-in-playwright?u=76281980&t=149)** Let's just validate that, menu.html, all right?
 >
@@ -5124,7 +5079,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (3), next (3), web (1)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Code Identifiers:** bageltype (9), getbyrole (8), bagelrow (2), addtocartbutton (2)
 > **CLI Commands:** find (9), make (2)
 > **Definitions:** is a  (3), is an  (1)
@@ -5138,8 +5093,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5163,17 +5117,17 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=75)** Join the playwright Discord server, connect with others, ask questions, find articles and video content, and eventually help others with their problems.
 >
-> **[1:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=86)** Check out the Playwright GitHub repository.
+> **[1:26](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=86)** Check out the Playwright [[GitHub]] repository.
 >
 > **[1:28](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=88)** There, you can subscribe to releases, report bugs, and even request features.
 >
-> **[1:35](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=95)** You can also subscribe to my newsletter at [playwrightsolutions.com](https://playwrightsolutions.com), and please, connect with me on LinkedIn.
+> **[1:35](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=95)** You can also subscribe to my newsletter at [playwrightsolutions.com](https://playwrightsolutions.com), and please, connect with me on [[LinkedIn]].
 >
 > **[1:43](https://www.linkedin.com/learning/playwright-essential-training-abstractions-fixtures-and-complex-scenarios/next-steps?u=76281980&t=103)** Stay curious, and never stop learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[GitHub]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** discord (1), github (1)
 > **URLs:** [playwrightsolutions.com](https://playwrightsolutions.com) (1)

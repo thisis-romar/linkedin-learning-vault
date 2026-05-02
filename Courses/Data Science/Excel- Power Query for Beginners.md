@@ -65,8 +65,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Power Query in Excel?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980)
+#### [What is Power Query in Excel?](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -74,35 +73,34 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=4)** You might have blank rows data that isn't sorted logically, or you might have columns that need to be split.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=10)** Well, I've got a solution for you and that's Power Query.
+> **[0:10](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=10)** Well, I've got a solution for you and that's [[Microsoft Power Query|Power Query]].
 >
 > **[0:14](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=14)** Power Query lets you import and clean data.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=18)** It can take data like this and clean it up like this.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=22)** When your data is clean, you can more easily create formulas, pivot tables, and even charts.
+> **[0:22](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=22)** When your data is clean, you can more easily create formulas, [[Pivot Tables]], and even charts.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=29)** And furthermore, you can refresh this data just in case the original data changes in the future.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=35)** So let's get started with Power Query and Excel.
+> **[0:35](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-is-power-query-in-excel?u=76281980&t=35)** So let's get started with Power Query and [[Microsoft Excel|Excel]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Power Query|Power query]] (3), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Pivot Tables]] (1), [[Microsoft Excel|Excel]] (1)
 > **Speakers:** - often (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=0)** - [Instructor] So before you continue this course, it's a good idea to know the prerequisites so that you know what you should know.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=7)** First of all, it's best if you have an intermediate knowledge of Excel.
+> **[0:07](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=7)** First of all, it's best if you have an intermediate knowledge of [[Microsoft Excel|Excel]].
 >
 > **[0:11](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=11)** In other words, you should know how to enter data inside cells, you should know how to insert rows and columns and you should also know how to delete them, and you should also know how to sort and filter.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=25)** The other thing you need to know is that this course is for Excel for Windows, and I'm using the one you get with an M365 subscription.
+> **[0:25](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=25)** The other thing you need to know is that this course is for Excel for [[Windows]], and I'm using the one you get with an [[Microsoft 365|M365]] subscription.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=34)** If you're using a Mac or Excel for the Web, the buttons and menus there are quite different, and in fact, some features aren't even available there yet.
 >
@@ -118,11 +116,11 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=73)** You can go ahead and click Close and things will work just fine.
 >
-> **[1:16](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=76)** With all that out of the way, let's proceed with the course and get going with Power Query.
+> **[1:16](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/what-you-should-know?u=76281980&t=76)** With all that out of the way, let's proceed with the course and get going with [[Microsoft Power Query|Power Query]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (1), [[Windows]] (1), [[Microsoft 365|M365]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Windows]] (1), [[Microsoft 365|M365]] (1), [[Microsoft Power Query|Power query]] (1)
 > **Warnings:** warning (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** m365 (1)
@@ -134,12 +132,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting data from another file
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980)
+#### [Getting data from another file](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=0)** - [Instructor] More often than not, you'll get data in the form of a file, and you'll want to clean it up using Power Query.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=0)** - [Instructor] More often than not, you'll get data in the form of a file, and you'll want to clean it up using [[Microsoft Power Query|Power Query]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=6)** For example, I double clicked this CSV file here from the Practice Files folder.
 >
@@ -151,7 +148,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=22)** First, I'll bring up a brand new workbook here by going to the File tab, Home, and then Blank workbook.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=30)** And I'll zoom in just a little bit here so you can see better.
+> **[0:30](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=30)** And I'll [[Zoom]] in just a little bit here so you can see better.
 >
 > **[0:34](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=34)** And now I'm going to import that CSV file into this new file, and to do that, I'll go to Data and click Get Data, From File, and then this option here, From Text/CSV, or if you don't have this option, you might see a New Query button where you can choose the CSV option.
 >
@@ -173,7 +170,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=96)** They've gone away.
 >
-> **[1:38](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=98)** Now, just one quick note about this window, while it's open, you can't really do anything here in Excel, so you got to be finished with this window first to do stuff in Excel.
+> **[1:38](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=98)** Now, just one quick note about this window, while it's open, you can't really do anything here in [[Microsoft Excel|Excel]], so you got to be finished with this window first to do stuff in Excel.
 >
 > **[1:50](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=110)** So I'm going to go ahead and click Close & Load.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=152)** Let's test it out.
 >
-> **[2:33](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=153)** I'm going to go ahead and switch over to the CSV file we had open earlier by going to the View tab, Switch Windows, and then I'll choose that file that's still open.
+> **[2:33](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=153)** I'm going to go ahead and switch over to the CSV file we had open earlier by going to the View tab, Switch [[Windows]], and then I'll choose that file that's still open.
 >
 > **[2:45](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-another-file?u=76281980&t=165)** And let's say Nancy's sales here were really 10,000.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (2), [[Zoom]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (2), [[Zoom]] (1), [[Windows]] (1)
 > **Env Vars:** csv (8)
 > **UI Navigation:** go to (3), double-click (1)
 > **Analogies:** for example (2)
@@ -220,14 +217,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting data from an open workbook
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980)
+#### [Getting data from an open workbook](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980&t=0)** - So with Power Query, you can import and clean data from an external source like a CSV file or another database, but a lot of people don't know that you can actually clean data that's already in a workbook.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980&t=0)** - So with [[Microsoft Power Query|Power Query]], you can import and clean data from an external source like a CSV file or another database, but a lot of people don't know that you can actually clean data that's already in a workbook.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980&t=13)** For example, I have this Excel file open called 01_02 SalesData, and you can see this looks very much like the CSV file we used earlier, but it's already in an Excel file.
+> **[0:13](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980&t=13)** For example, I have this [[Microsoft Excel|Excel]] file open called 01_02 SalesData, and you can see this looks very much like the CSV file we used earlier, but it's already in an Excel file.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/getting-data-from-an-open-workbook?u=76281980&t=25)** Can we clean this data up?
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (4), database (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (5), [[Microsoft Excel|Excel]] (4)
 > **Env Vars:** csv (2), j215 (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** go to (2)
@@ -297,12 +293,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Common cleaning tasks
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980)
+#### [Common cleaning tasks](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=0)** - [Instructor] Okay, let's go over some common cleaning tasks when working with Data and Power Query.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=0)** - [Instructor] Okay, let's go over some common cleaning tasks when working with Data and [[Microsoft Power Query|Power Query]].
 >
 > **[0:06](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=6)** These are the tasks that I do almost every time, and it's good to cover them right off the bat.
 >
@@ -346,7 +341,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=121)** One thing I am going to do though, is I'm going to rename the query to something a little more intuitive rather than just table one so I'm going to select that text and I'm going to just name this 2025 sales.
 >
-> **[2:14](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=134)** Great, now, to finish up and load this data into Excel, I'm going to click Close and Load, and it's going to run all those cleaning steps, and it's going to move that date column to the first position.
+> **[2:14](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=134)** Great, now, to finish up and load this data into [[Microsoft Excel|Excel]], I'm going to click Close and Load, and it's going to run all those cleaning steps, and it's going to move that date column to the first position.
 >
 > **[2:28](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/common-cleaning-tasks?u=76281980&t=148)** It's going to remove all the other columns I didn't want, and this is looking pretty good.
 >
@@ -354,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** select the (2)
 > **CLI Commands:** find (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering and sorting data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980)
+#### [Filtering and sorting data](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -373,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=17)** So how do we remove those?
 >
-> **[0:19](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=19)** We use Power Query to filter them out.
+> **[0:19](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=19)** We use [[Microsoft Power Query|Power Query]] to filter them out.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=23)** I've got the 02_02 sales data file open.
 >
@@ -431,7 +425,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=152)** We've got just the North region and we've sorted from greatest to least.
 >
-> **[2:39](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=159)** Let's go ahead and click close and load and see how it looks in Excel.
+> **[2:39](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=159)** Let's go ahead and click close and load and see how it looks in [[Microsoft Excel|Excel]].
 >
 > **[2:44](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/filtering-and-sorting-data?u=76281980&t=164)** And there we go, 2025, North, and a sort from greatest to least.
 >
@@ -443,13 +437,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980)
+#### [Splitting columns](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=12)** So what we need to do in this situation is we need to split this column into two, one column for the first name and one for the last name.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=20)** And we're going to do that with Power Query.
+> **[0:20](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=20)** And we're going to do that with [[Microsoft Power Query|Power Query]].
 >
 > **[0:22](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=22)** I've got the 02_03 file open.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=85)** Rename that to Last name.
 >
-> **[1:28](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=88)** Now that that's all done, I'll click Close and Load and we can take a look at it in Excel.
+> **[1:28](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=88)** Now that that's all done, I'll click Close and Load and we can take a look at it in [[Microsoft Excel|Excel]].
 >
 > **[1:34](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/splitting-columns?u=76281980&t=94)** And there we go, we've got that column that contained both first and last name is now in two columns, First name and Last name.
 >
@@ -497,16 +490,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (3), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** double-click (2), go to (1), select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Conditional columns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980)
+#### [Conditional columns](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=0)** - [Instructor] I have lots of rows that represent sales transactions here, and each of the products are very specific.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=0)** - [Instructor] I have lots of rows that represent sales transactions here, and each of the [[Microsoft Products|products]] are very specific.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=7)** We've got apples, we have bananas, we've got broccoli and celery, we've got coffee.
 >
@@ -518,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=32)** So let's add that column.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=33)** We'll do that by adding a conditional column in Power Query.
+> **[0:33](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=33)** We'll do that by adding a conditional column in [[Microsoft Power Query|Power Query]].
 >
 > **[0:37](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/conditional-columns?u=76281980&t=37)** I've got the 0204 sales data file open, and I'm going to remove this to give myself some more room.
 >
@@ -584,18 +576,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (10), [[Microsoft Power Query|Power query]] (4), data (4), [[Microsoft Products|Products]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (4), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Column by example
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980)
+#### [Column by example](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=0)** - [Instructor] Let's take creating columns with Power Query One Step further, let's create a new column using data from another column.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=0)** - [Instructor] Let's take creating columns with [[Microsoft Power Query|Power Query]] One Step further, let's create a new column using data from another column.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=8)** This is also known as creating a column by example.
 >
@@ -653,7 +644,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=193)** Why did we do this? Well, it's easier.
 >
-> **[3:16](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=196)** It's easier than making very complicated Excel formulas to extract, for example, the day name or to extract the range.
+> **[3:16](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=196)** It's easier than making very complicated [[Microsoft Excel|Excel]] formulas to extract, for example, the day name or to extract the range.
 >
 > **[3:25](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/column-by-example?u=76281980&t=205)** And with just a few clicks in Power Query, we've got these two new columns.
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), data (5), hit (2), product (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (6), [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (1), select the (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
@@ -673,14 +664,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=0)** - So let's review what we did in this course, and I also want to show you some fun tips for taking advantage of all the data cleaning we did.
+> **[0:00](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=0)** - So let's review what we did in this course, and I also want to show you some fun tips for taking advantage of all the [[Data Cleaning]] we did.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=8)** Furthermore, I want to give you some additional topics to learn about, because believe it or not, we really just scratched the surface of what you can do with Power Query.
+> **[0:08](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=8)** Furthermore, I want to give you some additional topics to learn about, because believe it or not, we really just scratched the surface of what you can do with [[Microsoft Power Query|Power Query]].
 >
 > **[0:18](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=18)** Okay, here's what we did.
 >
@@ -704,7 +694,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=67)** Another way to get quick insights is to select anywhere in your data and then click Analyze Data on the Home tab.
 >
-> **[1:14](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=74)** Excel will give you AI suggestions of Pivot Tables and PivotCharts that might be helpful to you.
+> **[1:14](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=74)** [[Microsoft Excel|Excel]] will give you AI suggestions of [[Pivot Tables]] and PivotCharts that might be helpful to you.
 >
 > **[1:21](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=81)** I particularly like this one that shows the sales amount by day, name, and category.
 >
@@ -720,7 +710,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=119)** There's a lot more to learn about Power Query.
 >
-> **[2:02](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=122)** Here are two topics that I highly recommend searching for on LinkedIn Learning, Power Query and data types.
+> **[2:02](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=122)** Here are two topics that I highly recommend searching for on [[LinkedIn]] Learning, Power Query and data types.
 >
 > **[2:09](https://www.linkedin.com/learning/excel-power-query-for-beginners-25101020/next-steps?u=76281980&t=129)** There are several courses on this topic, and data types are really important to understand when it comes to Power Query in Excel.
 >
@@ -734,7 +724,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (2), ai (1), [[Pivot Tables]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (8), [[Microsoft Excel|Excel]] (2), [[Data Cleaning]] (1), [[Pivot Tables]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 > **Best Practices:** recommended (1)

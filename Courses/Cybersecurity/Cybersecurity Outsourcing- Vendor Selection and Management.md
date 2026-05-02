@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outsourcing cybersecurity
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980)
+#### [Outsourcing cybersecurity](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980&t=0)** - [Kip] Senior decision makers everywhere are struggling to manage infinite cyber risks with limited budgets, and staffing their cybersecurity program is one of the great challenges.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980&t=0)** - [Kip] Senior decision makers everywhere are struggling to manage infinite cyber risks with limited budgets, and staffing their [[Cybersecurity]] program is one of the great challenges.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outsourcing-cybersecurity?u=76281980&t=12)** There are many things that need to be done, yet finding and retaining qualified people can be very difficult.
 >
@@ -124,12 +123,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Security]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Speakers:** - [kip] (1)
 
-#### 2024 update
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980)
+#### [2024 update](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -139,13 +137,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=12)** Well, it's time for me to tell you how well I did.
 >
-> **[0:16](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=16)** In 2020, the global cybersecurity market, which includes outsourced cybersecurity services, was valued at more than $197 billion, and just 10 years later, it's projected to reach $478 billion, which is an annual growth rate of 9.5%.
+> **[0:16](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=16)** In 2020, the global [[Cybersecurity]] market, which includes outsourced cybersecurity services, was valued at more than $197 billion, and just 10 years later, it's projected to reach $478 billion, which is an annual growth rate of 9.5%.
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=36)** Now, I wanted to know what was driving these big numbers, and what did it mean for the course, so I did some more digging, and here's what I found.
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=45)** Since the COVID-19 pandemic, cyber crime has increased by 600%, and companies are still struggling with a significant shortage of qualified IT security people.
 >
-> **[0:58](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=58)** The use of artificial intelligence and machine learning in cybersecurity outsourcing is another growing trend.
+> **[0:58](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=58)** The use of [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning in cybersecurity outsourcing is another growing trend.
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/2024-update?u=76281980&t=66)** These and other technologies allow more automation of cybersecurity processes, which can provide better-quality decisions, so you can protect your digital assets and enable more risk taking.
 >
@@ -155,15 +153,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Security]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Automation]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Env Vars:** covid (1)
 > **Versions:** 9.5 (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - i (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,11 +178,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-you-should-know?u=76281980&t=45)** There's no need to take all that onto your own shoulders, though.
 >
-> **[0:49](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-you-should-know?u=76281980&t=49)** I encourage you to get help from your executive sponsor, human resources department, and a lawyer or contracts manager.
+> **[0:49](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-you-should-know?u=76281980&t=49)** I encourage you to get help from your executive sponsor, [[Human Resources (HR)|human resources]] department, and a lawyer or contracts manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1), leadership (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
@@ -196,8 +193,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is outsourcing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980)
+#### [What is outsourcing?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -205,7 +201,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=3)** Let's define it now to set you up for success.
 >
-> **[0:07](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=7)** The word originally came from the phrase outside resourcing.
+> **[0:07](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=7)** The [[Microsoft Word|word]] originally came from the phrase outside resourcing.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=12)** The Investopedia definition is probably familiar to you.
 >
@@ -217,7 +213,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=32)** The Economist magazine says the idea of outsourcing has made its presence felt since the second World War.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=39)** Newer forms of outsourcing involve business processes like payroll, insurance claim settlement, and other functions like facility management and call centers.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=39)** Newer [[Forms]] of outsourcing involve business processes like payroll, insurance claim settlement, and other functions like facility management and call centers.
 >
 > **[0:49](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=49)** Outsourcing also includes the operation of public services by private companies, like trash collection and waste water treatment.
 >
@@ -229,19 +225,18 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=83)** The global market size of just business process outsourcing is expected to reach over 343 billion dollars by 2025 and Forrester Research estimates global spending for IT outsourcing at 503 billion dollars in 2017.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=105)** And revenue for the worldwide infrastructure as a service market will grow from just 717 million dollars in 2010 to 26 billion dollars by 2020.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=105)** And revenue for the worldwide [[IaaS|infrastructure as a service]] market will grow from just 717 million dollars in 2010 to 26 billion dollars by 2020.
 >
 > **[2:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-outsourcing?u=76281980&t=120)** In the next video we'll see why outsourcing is so popular.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Word|Word]] (1), [[Forms]] (1), management (1), [[IaaS|Infrastructure as a service]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Forms]] (1), [[IaaS|Infrastructure as a service]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why outsource?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980)
+#### [Why outsource?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -251,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=9)** Apple designs each model in house in California, but they outsource the assembly of the devices to other companies, like Foxconn in China.
 >
-> **[0:19](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=19)** Legendary management consultant Peter Drucker once encouraged executives to "Do what you do best "and outsource the rest."
+> **[0:19](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=19)** Legendary management consultant Peter Drucker once encouraged executives to "Do what you do best "and outsource the [[Representational State Transfer (REST)|rest]]."
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=28)** Looks like Apple believes in Drucker.
 >
@@ -291,23 +286,22 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=131)** In addition, offshore teams are sometimes plagued by high turnover, which can delay your transition.
 >
-> **[2:18](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=138)** In the next video, we'll see why despite these challenges, it still might make sense for you to outsource cybersecurity work.
+> **[2:18](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource?u=76281980&t=138)** In the next video, we'll see why despite these challenges, it still might make sense for you to outsource [[Cybersecurity]] work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), management (1), [[Representational State Transfer (REST)|Rest]] (1), parallel (1), teams (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Cybersecurity]] (1)
 > **Analogies:** for example (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Code Identifiers:** iphone (1), iphones (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Why outsource cybersecurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource-cybersecurity?u=76281980)
+#### [Why outsource cybersecurity?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource-cybersecurity?u=76281980&t=0)** - [Instructor] At first glance, outsourcing cybersecurity may seem like either a good idea or a bad idea.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource-cybersecurity?u=76281980&t=0)** - [Instructor] At first glance, outsourcing [[Cybersecurity]] may seem like either a good idea or a bad idea.
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/why-outsource-cybersecurity?u=76281980&t=7)** But no matter what you believe right now, outsourcing is a trust issue, right?
 >
@@ -341,7 +335,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (8), business (1), strengths (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (8)
 > **CLI Commands:** find (1)
 > **Versions:** 3.5 (1)
 > **Cross-References:** previous video (1)
@@ -349,8 +343,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the benefits of outsourcing?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980)
+#### [What are the benefits of outsourcing?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,17 +365,17 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=51)** Switching topics now, there are two main benefits to being more focused, also known as being more effective.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=59)** First, delegating security functions to an outside vendor can increase the quality of your decision-making.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=59)** First, delegating security functions to an outside vendor can increase the quality of your [[Decision-Making]].
 >
 > **[1:06](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=66)** This is done by tapping into the vendor's perspective and deep security expertise to solve problems.
 >
-> **[1:13](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=73)** Also, by delegating tasks to vendors, the organization's cybersecurity team may concentrate more fully on its core functions.
+> **[1:13](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=73)** Also, by delegating tasks to vendors, the organization's [[Cybersecurity]] team may concentrate more fully on its core functions.
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=83)** The highest value work for a security team are those tasks that must be done from deep within the business context, such as policy setting, architecture, design, and risk management.
 >
 > **[1:35](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=95)** The third major benefit of outsourcing is the ability to scale up or down as needed.
 >
-> **[1:42](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=102)** Like the ability to use cloud computing to quickly add more CPU and storage, outsourcing cybersecurity can allow you to quickly increase the amount of work that can be done without a lot of delay.
+> **[1:42](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=102)** Like the ability to use [[Cloud Computing]] to quickly add more CPU and storage, outsourcing cybersecurity can allow you to quickly increase the amount of work that can be done without a lot of delay.
 >
 > **[1:54](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-benefits-of-outsourcing?u=76281980&t=114)** For example, a cyber attack could suddenly and significantly increase the quantity of security events being generated and needing to be stored.
 >
@@ -392,14 +385,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Cybersecurity]] (2), [[Decision-Making]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[Decision-Making]] (1), [[Cloud Computing]] (1)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** cpu (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### How is managing outsourced work different from managing staff?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980)
+#### [How is managing outsourced work different from managing staff?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -409,7 +401,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=13)** It means managed security service provider.
 >
-> **[0:17](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=17)** You can outsource many security functions to an MSSP, such as intrusion detection system monitoring, 24 by seven security operations center, and vulnerability testing.
+> **[0:17](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=17)** You can outsource many security functions to an MSSP, such as [[Intrusion Detection]] [[System Monitoring]], 24 by seven [[Security Operations]] center, and vulnerability testing.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=30)** When you work with an MSSP, there are two common types of business arrangements, outsourcing, where the work happens at the MSSP offices, using their equipment, and co-sourcing, a combination of outsourcing and insourcing that lets the MSSP use your equipment installed in your building.
 >
@@ -417,7 +409,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=54)** This is when a service provider integrates their equipment into your infrastructure and charges you a monthly or annual subscription.
 >
-> **[1:01](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=61)** A good example is security event collection and analysis, although many security products could be sold this way.
+> **[1:01](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=61)** A good example is security event collection and analysis, although many security [[Microsoft Products|products]] could be sold this way.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=70)** Now, there are three major differences between managing work that is insourced versus outsourced.
 >
@@ -443,22 +435,21 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=117)** With insourcing, you can move people to tasks as needed.
 >
-> **[2:01](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=121)** A massive cyber attack may prompt you to move vulnerability testing team over to incident response, but when you outsource, the people doing the work cannot be redirected to other tasks.
+> **[2:01](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-is-managing-outsourced-work-different-from-managing-staff?u=76281980&t=121)** A massive cyber attack may prompt you to move vulnerability testing team over to [[Incident Response]], but when you outsource, the people doing the work cannot be redirected to other tasks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (6), [[Intrusion Detection]] (1), [[System Monitoring]] (1), business (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1), [[System Monitoring]] (1), [[Security Operations]] (1), [[Microsoft Products|Products]] (1), [[Incident Response]] (1)
 > **Env Vars:** mssp (5)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### What are the risks of outsourcing cybersecurity?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-risks-of-outsourcing-cybersecurity?u=76281980)
+#### [What are the risks of outsourcing cybersecurity?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-risks-of-outsourcing-cybersecurity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-risks-of-outsourcing-cybersecurity?u=76281980&t=0)** - [Narrator] Outsourcing cybersecurity sometimes fails.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-risks-of-outsourcing-cybersecurity?u=76281980&t=0)** - [Narrator] Outsourcing [[Cybersecurity]] sometimes fails.
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-are-the-risks-of-outsourcing-cybersecurity?u=76281980&t=4)** While there are many different reasons, there are two major risks you need to manage.
 >
@@ -502,18 +493,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Cybersecurity]] (2), business (2), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2)
 > **Env Vars:** mssp (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### The seven steps to successfully outsourcing cybersecurity work
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980)
+#### [The seven steps to successfully outsourcing cybersecurity work](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=0)** - [Instructor] When outsourcing cybersecurity tasks it can be helpful to follow a proven process.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=0)** - [Instructor] When outsourcing [[Cybersecurity]] tasks it can be helpful to follow a proven process.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=5)** In this video, I'll give you an overview of a seven step plan that will increase your chance of success.
 >
@@ -525,9 +515,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=35)** So if you need to make a business case, finish this course then ask your boss to point you in the right direction.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=43)** You should also watch, "Writing a Business Case," by Mike Figliuolo here in the LinkedIn Learning Library.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=43)** You should also watch, "Writing a Business Case," by Mike Figliuolo here in the [[LinkedIn]] Learning Library.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=50)** Now, the seven steps to successfully outsource cybersecurity, which we'll cover in detail during the rest of the videos in this course are, first, identify candidate work to outsource.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=50)** Now, the seven steps to successfully outsource cybersecurity, which we'll cover in detail during the [[Representational State Transfer (REST)|rest]] of the videos in this course are, first, identify candidate work to outsource.
 >
 > **[1:03](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/the-seven-steps-to-successfully-outsourcing-cybersecurity-work?u=76281980&t=63)** You'll learn there are three broad categories which we'll put them into.
 >
@@ -557,7 +547,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[LinkedIn]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
@@ -567,8 +557,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What should you outsource?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980)
+#### [What should you outsource?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +579,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=40)** Here are two examples of how core tasks help the business take smart cyber risks.
 >
-> **[0:47](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=47)** Chairing the Information Security Steering Committee, which makes policy decisions for the entire organization, and supporting the renewal of your annual cybersecurity insurance policy which sets the types and amounts of coverage.
+> **[0:47](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=47)** Chairing the Information Security Steering Committee, which makes policy decisions for the entire organization, and supporting the renewal of your annual [[Cybersecurity]] insurance policy which sets the types and amounts of coverage.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=64)** The second category is strategic outsource.
 >
@@ -600,7 +589,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=89)** Here are two examples of how strategic outsourced tasks help boost the productivity of the cybersecurity team.
 >
-> **[1:37](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=97)** Assessing the effectiveness of your firewalls and performing digital forensics in support of incident management.
+> **[1:37](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=97)** Assessing the effectiveness of your firewalls and performing [[Digital Forensics]] in support of incident management.
 >
 > **[1:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=105)** Finally there are commodity outsourced tasks.
 >
@@ -608,23 +597,22 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=126)** Here are two examples of commodity outsourced tasks.
 >
-> **[2:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=130)** Resetting passwords, which is risky work, but does not require specialized knowledge of your internal organization, and performing 24 by seven network security monitoring.
+> **[2:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-should-you-outsource?u=76281980&t=130)** Resetting passwords, which is risky work, but does not require specialized knowledge of your internal organization, and performing 24 by seven [[Network Security]] monitoring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Cybersecurity]] (3), [[Security]] (1), [[Digital Forensics]] (1), management (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (3), [[Digital Forensics]] (1), [[Network Security]] (1)
 > **CLI Commands:** find (1)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [presenter] (1)
 
-#### Examples of work to outsource
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980)
+#### [Examples of work to outsource](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980&t=0)** - [Narrator] In this video, I'll describe one situation where it was reasonable to outsource a cyber security task and another situation where it's not.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980&t=10)** Monitoring network security 24 hours a day seven days a week is a big challenge for all but the largest organizations.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980&t=10)** Monitoring [[Network Security]] 24 hours a day seven days a week is a big challenge for all but the largest organizations.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/examples-of-work-to-outsource?u=76281980&t=19)** The work is typically done by a team of experts in a security operation center, or SOC.
 >
@@ -664,14 +652,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), business (2), [[Network Security]] (1)
+> **Frameworks & Libraries:** [[Network Security]] (1)
 > **Env Vars:** soc (4), mssp (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case study 1: Identify candidate work to outsource
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980)
+#### [Case study 1: Identify candidate work to outsource](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -703,7 +690,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980&t=79)** Doing the assessment depended on having an in-depth understanding of how the business made money, it's culture, and so on.
 >
-> **[1:27](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980&t=87)** One of the strategic outsourcing tasks was digital forensics.
+> **[1:27](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980&t=87)** One of the strategic outsourcing tasks was [[Digital Forensics]].
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-1-identify-candidate-work-to-outsource?u=76281980&t=91)** The need was infrequent, and that made it too expensive to license the software and train someone.
 >
@@ -719,7 +706,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Security]] (1), [[Digital Forensics]] (1)
+> **Frameworks & Libraries:** [[Digital Forensics]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -727,8 +714,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980)
+#### [Outcomes](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -774,17 +760,16 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980&t=135)** Finally, if your outsourcing decision gets covered in local or national media, how will you handle public relations?
 >
-> **[2:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980&t=143)** Be sure to work closely with your human resources and public affairs teams to figure out how to manage these risks.
+> **[2:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/outcomes?u=76281980&t=143)** Be sure to work closely with your [[Human Resources (HR)|human resources]] and public affairs teams to figure out how to manage these risks.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), teams (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (2)
 > **Env Vars:** ucsf (1)
 > **Speakers:** - [instructor] (1)
 
-#### How the work gets done
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-the-work-gets-done?u=76281980)
+#### [How the work gets done](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-the-work-gets-done?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -824,13 +809,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Security]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service Level Agreements (SLA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/service-level-agreements-sla?u=76281980)
+#### [Service Level Agreements (SLA)](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/service-level-agreements-sla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -870,14 +853,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **Env Vars:** sla (5), mssp (4)
 > **Analogies:** for example (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study 2: Document requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-2-document-requirements?u=76281980)
+#### [Case study 2: Document requirements](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-2-document-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -905,7 +886,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), business (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
@@ -914,8 +894,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an MSSP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980)
+#### [What is an MSSP?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -923,11 +902,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=4)** The modern MSSP comes from the Internet Service Providers of the 1990s.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=10)** It all began when ISPs would sell their customers a hardware-based firewall.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=10)** It all began when ISPs would sell their customers a [[Hardware]]-based firewall.
 >
 > **[0:16](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=16)** It was installed in their customer's building, and because very few people knew how to do it, for an additional recurring fee, the ISP would remotely manage the firewall.
 >
-> **[0:28](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=28)** From that point, the MSSP business expanded, to include a wide variety of managed security services, such as intrusion detection systems, incident response, and vulnerability assessments.
+> **[0:28](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=28)** From that point, the MSSP business expanded, to include a wide variety of managed security services, such as [[Intrusion Detection]] systems, [[Incident Response]], and vulnerability assessments.
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/what-is-an-mssp?u=76281980&t=43)** Industry research firm Forester recently identified the most significant MSSPs in the global market in 2018.
 >
@@ -941,13 +920,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), [[Hardware]] (1), business (1), [[Intrusion Detection]] (1), [[Incident Response]] (1)
+> **Frameworks & Libraries:** [[Hardware]] (1), [[Intrusion Detection]] (1), [[Incident Response]] (1)
 > **Env Vars:** mssp (5), isp (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recognize and manage conflicting goals—profit vs. outcomes
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980)
+#### [Recognize and manage conflicting goals—profit vs. outcomes](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -955,7 +933,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=11)** But, the top priority of your MSSP is steady, profitable growth, and those two goals can be in direct conflict.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=21)** Great outcomes for you implies thorough, high-quality products and services.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=21)** Great outcomes for you implies thorough, high-quality [[Microsoft Products|products]] and services.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=28)** But, cutting corners can be a way for the vendor to boost profits while hoping you don't notice.
 >
@@ -963,7 +941,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=39)** Here's a great example where I've seen this happen more than once.
 >
-> **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=43)** Intrusion detection system monitoring.
+> **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=43)** [[Intrusion Detection]] [[System Monitoring]].
 >
 > **[0:46](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/recognize-and-manage-conflicting-goals-profit-vs-outcomes?u=76281980&t=46)** Quite simply, the MSSP can be more profitable when the number of events it responds to is low.
 >
@@ -993,15 +971,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Intrusion Detection]] (1), [[System Monitoring]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Intrusion Detection]] (1), [[System Monitoring]] (1)
 > **Env Vars:** mssp (7), ids (1)
 > **Definitions:** is a  (2)
 > **Cross-References:** previous video (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### How do I evaluate an MSSP?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980)
+#### [How do I evaluate an MSSP?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1021,7 +998,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980&t=38)** How do they provide regular reporting and can you manage their performance from the data they provide?
 >
-> **[0:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980&t=45)** What is their default availability and scalability?
+> **[0:45](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980&t=45)** What is their default availability and [[Scalability]]?
 >
 > **[0:51](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-evaluate-an-mssp?u=76281980&t=51)** What does their service cost?
 >
@@ -1053,15 +1030,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Security]] (2), next (2), data (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1)
 > **Env Vars:** mssp (4), soc2 (1)
 > **CLI Commands:** make (1)
 > **Definitions:** known as (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Case study 3: Select a vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980)
+#### [Case study 3: Select a vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1075,7 +1051,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=43)** They found out the MSSP was already doing these tasks for other customers, so they had procedures in place.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=50)** To make sure the default procedures were acceptable, they sent one team member to the MSSP's office.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=50)** To make sure the default procedures were acceptable, they sent one team member to the MSSP's [[Microsoft Office|office]].
 >
 > **[0:57](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=57)** Then, over a screenshare with the team back home they all did a walk through of the procedures.
 >
@@ -1085,13 +1061,13 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=83)** Once again, the Infosec team started to feel uneasy about delegating the work, but the MSSP had a noticeable operational discipline that came through in multiple interactions.
 >
-> **[1:38](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=98)** Plus, the vendor agreed to make procedural changes at no additional charge and the SLA required the MSSP to reimburse them for cybersecurity incidents that they caused.
+> **[1:38](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=98)** Plus, the vendor agreed to make procedural changes at no additional charge and the SLA required the MSSP to reimburse them for [[Cybersecurity]] incidents that they caused.
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-3-select-a-vendor?u=76281980&t=111)** In the end, the Infosec team felt good about continuing with the outsourcing process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (2), [[Microsoft Office|Office]] (1), management (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** mssp (8), sla (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1101,8 +1077,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How do I contract with a vendor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980)
+#### [How do I contract with a vendor?](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,9 +1091,9 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=35)** In reality, your needs and the outsourcing environment change regularly.
 >
-> **[0:41](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=41)** For example, pricing models have recently evolved as MSSP's embrace cloud computing and machine learning technologies.
+> **[0:41](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=41)** For example, pricing models have recently evolved as MSSP's embrace [[Cloud Computing]] and machine learning technologies.
 >
-> **[0:51](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=51)** The price for a managed network intrusion detection system used to be based on the amount of network traffic the IDS appliance could examine, but now the pricing is based more on the number of events processed or the data storage requirements.
+> **[0:51](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=51)** The price for a managed network [[Intrusion Detection]] system used to be based on the amount of network traffic the IDS appliance could examine, but now the pricing is based more on the number of events processed or the [[Data Storage]] requirements.
 >
 > **[1:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-do-i-contract-with-a-vendor?u=76281980&t=70)** As a result, prices have gone down by about 50% for the same or better service levels.
 >
@@ -1138,7 +1113,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), cloud (1), [[Intrusion Detection]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Cloud Computing]] (1), [[Intrusion Detection]] (1), [[Data Storage]] (1)
 > **Env Vars:** mssp (4), ids (1)
 > **Definitions:** is a  (1), in other words (1)
 > **Analogies:** for example (1), such as (1)
@@ -1146,8 +1121,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips for contracting with a vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980)
+#### [Tips for contracting with a vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1183,7 +1157,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980&t=87)** One of our customers has three outsourcing contracts for low, medium and high risk scenarios.
 >
-> **[1:35](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980&t=95)** On that note, in the NIST Cybersecurity framework, there's an activity called supply chain risk management.
+> **[1:35](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980&t=95)** On that note, in the [[NIST]] [[Cybersecurity]] framework, there's an activity called supply chain risk management.
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-contracting-with-a-vendor?u=76281980&t=103)** It says that all vendors who handle your sensitive data must be actively included in your cyber risk management activities and routinely assessed.
 >
@@ -1195,14 +1169,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (3), data (3), [[Cybersecurity]] (2), [[NIST]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (2), [[NIST]] (1)
 > **Env Vars:** mssp (7), raci (1), nist (1)
 > **CLI Commands:** make (2)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study 4: Contract with the vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-4-contract-with-the-vendor?u=76281980)
+#### [Case study 4: Contract with the vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-4-contract-with-the-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1230,7 +1203,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), next (1)
 > **Env Vars:** mssp (4)
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
@@ -1241,8 +1213,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Plan and perform transition to the vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980)
+#### [Plan and perform transition to the vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1280,20 +1251,19 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980&t=143)** Do things like submit an odd request at an odd time.
 >
-> **[2:27](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980&t=147)** Or conduct a penetration test, and see if your managed intrusion detection system notices.
+> **[2:27](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980&t=147)** Or conduct a penetration test, and see if your managed [[Intrusion Detection]] system notices.
 >
 > **[2:34](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/plan-and-perform-transition-to-the-vendor?u=76281980&t=154)** This testing will help make sure you're getting what you're paying for.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Intrusion Detection]] (1)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** mssp (5)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tips for transitioning to the vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-transitioning-to-the-vendor?u=76281980)
+#### [Tips for transitioning to the vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/tips-for-transitioning-to-the-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,13 +1303,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Env Vars:** mssp (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - in (1)
 
-#### Case study 5: Implement the agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980)
+#### [Case study 5: Implement the agreement](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1359,13 +1327,13 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980&t=94)** To make sure the information wasn't missed, they used email, internal newsletter articles, a series of three videos on their intranet, and personal visits to department meetings to do Q&A.
 >
-> **[1:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980&t=110)** Finally, they partnered with human resources to train supervisors and managers on the emotional transitions people were going through, create the most generous layoff packages possible, and to let everyone know that they were welcome to bring their questions and concerns to get them addressed.
+> **[1:50](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980&t=110)** Finally, they partnered with [[Human Resources (HR)|human resources]] to train supervisors and managers on the emotional transitions people were going through, create the most generous layoff packages possible, and to let everyone know that they were welcome to bring their questions and concerns to get them addressed.
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-5-implement-the-agreement?u=76281980&t=130)** Now it's time to turn our attention to managing the vendor to the agreement, and we'll talk about that in the next chapter.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), database (1), business (1), strengths (1), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** mssp (3)
 > **Cross-References:** in the next (1)
@@ -1377,8 +1345,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage by Service Level Agreements (SLA)
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-service-level-agreements-sla?u=76281980)
+#### [Manage by Service Level Agreements (SLA)](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-service-level-agreements-sla?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1414,15 +1381,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** sla (6), mssp (5)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** it's like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage by contractual terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980)
+#### [Manage by contractual terms](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1438,9 +1403,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=54)** But if you're spending a lot then the service credits should be greater.
 >
-> **[0:59](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=59)** Here's a simple non-cybersecurity example of how this works.
+> **[0:59](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=59)** Here's a simple non-[[Cybersecurity]] example of how this works.
 >
-> **[1:04](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=64)** This is how Amazon Web services grants service credits for less than 100% uptime for their S3, cloud based, simple storage service.
+> **[1:04](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=64)** This is how [[Amazon Web Services (AWS)|Amazon Web services]] grants service credits for less than 100% uptime for their S3, cloud based, simple storage service.
 >
 > **[1:16](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/manage-by-contractual-terms?u=76281980&t=76)** Notice the credit starts small but escalates to 25% and then all the way up to 100%.
 >
@@ -1454,12 +1419,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Cybersecurity]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1), cloud (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (1), [[Amazon Web Services (AWS)|Amazon web services]] (1)
 > **Env Vars:** mssp (4), sla (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study 6: Manage the vendor
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-6-manage-the-vendor?u=76281980)
+#### [Case study 6: Manage the vendor](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-6-manage-the-vendor?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,7 +1463,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), management (1), [[Security]] (1)
 > **Env Vars:** mssp (7), sla (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
@@ -1509,8 +1472,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to renew the agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-to-renew-the-agreement?u=76281980)
+#### [How to renew the agreement](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/how-to-renew-the-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1554,7 +1516,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), hit (1), next (1)
 > **Env Vars:** mssp (6), sla (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (1)
@@ -1562,8 +1523,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### When to not renew the agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/when-to-not-renew-the-agreement?u=76281980)
+#### [When to not renew the agreement](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/when-to-not-renew-the-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1598,8 +1558,7 @@ created: 2026-05-02
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Case study 7: Renew the agreement
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-7-renew-the-agreement?u=76281980)
+#### [Case study 7: Renew the agreement](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/case-study-7-renew-the-agreement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,7 +1582,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1)
 > **Env Vars:** mssp (4), sla (1)
 > **Speakers:** - [instructor] (1)
 
@@ -1632,8 +1590,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1651,11 +1608,11 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980&t=39)** Finally, subscribe to the Cyber Risk Management Podcast where I help you stay up to date on the latest cyber security ideas and strategies.
 >
-> **[0:48](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980&t=48)** Thanks again, and be sure to reach out to me on LinkedIn if you need any help.
+> **[0:48](https://www.linkedin.com/learning/cybersecurity-outsourcing-vendor-selection-and-management/next-steps?u=76281980&t=48)** Thanks again, and be sure to reach out to me on [[LinkedIn]] if you need any help.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (2), management (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
 

@@ -110,22 +110,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Implement service workers in JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980)
+#### [Implement service workers in JavaScript](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=0)** - [Narrator] Hello and welcome to Vanilla JavaScript Service Workers.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=0)** - [Narrator] Hello and welcome to [[Vanilla]] [[JavaScript]] Service Workers.
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=4)** My name is Maximilliano Firtman and I will be your instructor during this course on service workers.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=10)** The service workers API it's a very hot topic in web development.
+> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=10)** The service workers API it's a very hot topic in [[Web Development]].
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=15)** As it can really create good experiences on the web for progressive web apps, websites, or any kind of web content that you are currently creating for the web platform.
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=27)** Service workers are important today because they can enable new experiences such as making your content available while the user is offline, creating a good performance on any network situations, such if you are in a 2G connection, and it can also improve performance for normal online operations.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=50)** Learning the basics of service workers using just plain java script without any frame work, will let you understand the full potential of this new citizen of the web.
+> **[0:50](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=50)** Learning the basics of service workers using just plain [[Java]] script without any frame work, will let you understand the full potential of this new citizen of the web.
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=60)** Here we will cover the basics of service workers.
 >
@@ -141,13 +140,13 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=107)** Including mobile web, mobile apps, and PWA's with service workers.
 >
-> **[1:53](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=113)** So I'm glad to be here sharing my expertise with you in this Linkedin learning course.
+> **[1:53](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=113)** So I'm glad to be here sharing my expertise with you in this [[LinkedIn]] learning course.
 >
 > **[1:58](https://www.linkedin.com/learning/javascript-service-workers/implement-service-workers-in-javascript?u=76281980&t=118)** Hope to see you in the next videos so we can make the web faster and available offline for all your users.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (12), api (2), [[Vanilla]] (1), [[JavaScript]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Vanilla]] (1), [[JavaScript]] (1), [[Web Development]] (1), [[Java]] (1), [[LinkedIn]] (1)
 > **Env Vars:** api (2), pwa (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
@@ -155,16 +154,15 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is optimized for web developers, so you need to be confident with HTML, CSS, and mainly JavaScript.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=0)** - [Instructor] This course is optimized for web developers, so you need to be confident with [[HTML]], CSS, and mainly [[JavaScript]].
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=10)** We're going to use ECMAScript 6, so you need to be confident with at least arrow functions and templated strings.
+> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=10)** We're going to use [[ECMAScript]] 6, so you need to be confident with at least arrow functions and templated strings.
 >
-> **[0:17](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=17)** Service workers are using a lot of promises, so it's important for you to understand the promises design patterns and how they work on ES6 before attending this course.
+> **[0:17](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=17)** Service workers are using a lot of promises, so it's important for you to understand the promises [[Design Patterns]] and how they work on ES6 before attending this course.
 >
 > **[0:29](https://www.linkedin.com/learning/javascript-service-workers/what-you-should-know?u=76281980&t=29)** In terms of what you need to have installed in your computer to follow along the videos, you need a text editor.
 >
@@ -178,7 +176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[HTML]] (1), css (1), [[JavaScript]] (1), [[ECMAScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[JavaScript]] (1), [[ECMAScript]] (1), [[Design Patterns]] (1)
 > **Env Vars:** ojs (2), html (1), css (1), es6 (1)
 > **Prerequisites:** you need to have (1), install (1)
 > **Tools:** visual studio (1)
@@ -189,8 +187,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hello, service workers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980)
+#### [Hello, service workers](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +219,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=92)** In the past, we had some solutions for offline access.
 >
-> **[1:38](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=98)** For example, Google Gears, Application Cache, that was part of the original HTML5 spec and is now deprecated, and also Apache Cordova, or PhoneGap, that let us create offline apps for the store.
+> **[1:38](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=98)** For example, [[Google]] Gears, Application Cache, that was part of the original HTML5 spec and is now deprecated, and also Apache Cordova, or PhoneGap, that let us create offline apps for the store.
 >
 > **[1:55](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=115)** But they all their own challenges.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=149)** We have mentioned web worker, so what is a web worker?
 >
-> **[2:33](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=153)** It's a JavaScript file that is running in its own thread.
+> **[2:33](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=153)** It's a [[JavaScript]] file that is running in its own thread.
 >
 > **[2:37](https://www.linkedin.com/learning/javascript-service-workers/hello-service-workers?u=76281980&t=157)** In the case of service workers, it's not just a thread.
 >
@@ -288,7 +285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), api (2), data (1), [[Google]] (1), application (1)
+> **Frameworks & Libraries:** [[Google]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (2), lte (1), html5 (1), w3c (1), pwa (1)
 > **Analogies:** for example (5), such as (2)
 > **Documentation:** spec (4), w3c (1)
@@ -297,8 +294,7 @@ created: 2026-05-02
 > **URLs:** [https://mydomain.com](https://mydomain.com) (1), [mydomain.com](https://mydomain.com) (1)
 > **CLI Commands:** apache (1)
 
-#### Abilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980)
+#### [Abilities](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -330,7 +326,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980&t=107)** Also, some platforms it can receive payment results from a third party provider, even if the user has closed the web app.
 >
-> **[1:57](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980&t=117)** So for example, you can be using Apple Pay or you can be using Android Pay, or you can be paying by credit card on a website.
+> **[1:57](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980&t=117)** So for example, you can be using Apple Pay or you can be using [[Android]] Pay, or you can be paying by credit card on a website.
 >
 > **[2:08](https://www.linkedin.com/learning/javascript-service-workers/abilities?u=76281980&t=128)** There is an API on some browsers that will let us charge the user with credit cards without a standard API.
 >
@@ -354,7 +350,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (5), api (2), data (2), css (1), [[Android]] (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **Analogies:** for example (2), it's like (1), such as (1)
 > **Env Vars:** api (2)
 > **CLI Commands:** make (1)
@@ -363,8 +359,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### What we can do
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980)
+#### [What we can do](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -376,7 +371,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=12)** So if we want to create these kind of apps we need to create a service worker.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=18)** In this case the service worker will be responsible for installing all of the apps assets such as CSS, JavaScript, SVG files, images, videos and web phones.
+> **[0:18](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=18)** In this case the service worker will be responsible for installing all of the apps assets such as CSS, [[JavaScript]], SVG files, images, videos and web phones.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=31)** And it's also going to be responsible for serving those files from a local cache.
 >
@@ -420,7 +415,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=202)** And finally, another important use case is to convert file formats.
 >
-> **[3:27](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=207)** The service worker can fetch files from the server in an unknown format for the browser.
+> **[3:27](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=207)** The service worker can [[Fetch]] files from the server in an unknown format for the browser.
 >
 > **[3:33](https://www.linkedin.com/learning/javascript-service-workers/what-we-can-do?u=76281980&t=213)** For example, it can download web page files that's in image format on IOS.
 >
@@ -428,15 +423,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), [[JavaScript]] (2), css (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Fetch]] (1)
 > **Env Vars:** pwa (2), ios (2), css (1), svg (1), http (1)
 > **Analogies:** for example (4), such as (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 
-#### Requirements and compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980)
+#### [Requirements and compatibility](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -452,7 +446,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=28)** It's not available on Apple Watch browser, only on iPhone and iPad.
 >
-> **[0:34](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=34)** On Microsoft Edge, that's Windows 10, it's available since Windows version 17.
+> **[0:34](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=34)** On [[Microsoft]] Edge, that's [[Windows 10]], it's available since [[Windows]] version 17.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=40)** And on the mobile space, we also have Samsung Internet browser, we have UCWeb, and KaiOS, that's a feature phone.
 >
@@ -460,7 +454,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=53)** What about WebView compatibility?
 >
-> **[0:56](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=56)** Let's start with Android.
+> **[0:56](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=56)** Let's start with [[Android]].
 >
 > **[0:58](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=58)** For example, when you are browsing a website inside the Facebook mobile browsers, so you're in Facebook, you click on a link, it's being rendered inside Facebook, that website, and in that case on Android, on most Android devices, you do have support for service worker, but that service worker is completely isolated from the browser, which means if you visit the website as a user with service workers from Chrome, and then you visit that website from within Facebook, they're not going to share the cache.
 >
@@ -482,19 +476,19 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=167)** There is one exception for that, that's localhost for our development environment.
 >
-> **[2:54](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=174)** The service worker should be only one JavaScript file, and that's the entry point.
+> **[2:54](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=174)** The service worker should be only one [[JavaScript]] file, and that's the entry point.
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=180)** We can import other scripts, but only one JS file will be our service worker.
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=187)** Finally, we need a page in the scope, so in the folder inside our domain, to register our service worker.
 >
-> **[3:17](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=197)** And we need to have mind, that on some special situations, such as incognito mode or privacy mode, services workers might not work.
+> **[3:17](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=197)** And we need to have mind, that on some special situations, such as incognito mode or [[Privacy]] mode, services workers might not work.
 >
 > **[3:28](https://www.linkedin.com/learning/javascript-service-workers/requirements-and-compatibility?u=76281980&t=208)** Another example is that when users have disabled third-party cookies on iframes, sometimes, service workers won't work also on those iframes.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Android]] (4), web (3), [[Microsoft]] (1), [[Windows 10]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Android]] (4), [[Microsoft]] (1), [[Windows 10]] (1), [[Windows]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** ios (6), iphone (2), ipad (2)
 > **Tools:** safari (3), firefox (2)
 > **Analogies:** such as (3), for example (1)
@@ -503,8 +497,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Service workers in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980)
+#### [Service workers in action](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=4)** When you get to a browser, it's the first visit to a website or a PWA, you type a URL into the browser you have an empty tab and that empty tab is basically making their request to the web server.
 >
-> **[0:18](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=18)** That web server will answer with a webpage, so an HTML, and then the browser will render the content.
+> **[0:18](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=18)** That web server will answer with a webpage, so an [[HTML]], and then the browser will render the content.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=26)** There is no service worker involved here, but here comes the new part.
 >
@@ -536,7 +529,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=139)** At that point, the service worker can make some decisions.
 >
-> **[2:23](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=143)** For example, it can finally fetch those resources from the network, but it's still in the middle.
+> **[2:23](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=143)** For example, it can finally [[Fetch]] those resources from the network, but it's still in the middle.
 >
 > **[2:30](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=150)** It can also get them from a local cache, very same API known as CacheStorage available with service worker where we can store and retrieve actually be responses.
 >
@@ -556,13 +549,13 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=218)** In this case we can do this only for same-origin requests.
 >
-> **[3:42](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=222)** So we cannot fake third party resources such as JavaScript files.
+> **[3:42](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=222)** So we cannot fake third party resources such as [[JavaScript]] files.
 >
 > **[3:49](https://www.linkedin.com/learning/javascript-service-workers/service-workers-in-action?u=76281980&t=229)** And finally, there is this message in API available between the service worker and webpages, PWA's, and iframes, meaning that we can not only drop http request, but also sending and receiving messages from the webpages.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), api (2), [[HTML]] (1), [[Fetch]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Fetch]] (1), [[JavaScript]] (1)
 > **Env Vars:** pwa (2), api (2), url (1), html (1), cdn (1)
 > **Analogies:** for example (2), such as (2)
 > **Definitions:** known as (1), is an  (1)
@@ -570,8 +563,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the life cycle
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980)
+#### [Understand the life cycle](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -605,7 +597,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980&t=130)** There are a series of events that will fire a running status, which means now your service worker is executing code.
 >
-> **[2:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980&t=139)** These events are fetch, push, or message that we will cover later.
+> **[2:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980&t=139)** These events are [[Fetch]], push, or message that we will cover later.
 >
 > **[2:25](https://www.linkedin.com/learning/javascript-service-workers/understand-the-life-cycle?u=76281980&t=145)** After a while, you're not executing any code again.
 >
@@ -643,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (2), next (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2)
 > **Definitions:** known as (3), is a  (3), is an  (2), means that (2)
 > **UI Navigation:** go to (2)
 > **Warnings:** be careful (2)
@@ -652,8 +644,7 @@ created: 2026-05-02
 > **Tools:** safari (1)
 > **Prerequisites:** install (1)
 
-#### See all service worker registrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980)
+#### [See all service worker registrations](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -661,7 +652,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980&t=6)** So, how can you see all the current registered and installed service workers?
 >
-> **[0:12](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980&t=12)** If you're using Chrome on desktop or on Android, you can go to a special URL.
+> **[0:12](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980&t=12)** If you're using Chrome on desktop or on [[Android]], you can go to a special URL.
 >
 > **[0:18](https://www.linkedin.com/learning/javascript-service-workers/see-all-service-worker-registrations?u=76281980&t=18)** It's chrome://serviceworker-internals.
 >
@@ -699,7 +690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (2), [[Android]] (1), web (1)
+> **Frameworks & Libraries:** [[Android]] (1)
 > **URLs:** [nasa.gov](https://nasa.gov) (4)
 > **UI Navigation:** go to (4)
 > **Env Vars:** url (3)
@@ -707,8 +698,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Understand the scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980)
+#### [Understand the scope](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -718,7 +708,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=13)** So, the service worker will manage everything that happens, within that scope.
 >
-> **[0:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=19)** So, for example, if the scope is [https://linkedin.com](https://linkedin.com), then here we can see several examples that will be managed by the service worker.
+> **[0:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=19)** So, for example, if the scope is [https://[[LinkedIn]].com](https://linkedin.com), then here we can see several examples that will be managed by the service worker.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=31)** So, [linkedin.com](https://linkedin.com), so the home page, will be managed by the service worker, the same as /about, or /assets/static/terms.pdf, or anything inside that domain.
 >
@@ -730,7 +720,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=63)** If you define the scope as a subfolder of your domain, such as [linkedin.com/pwa](https://linkedin.com/pwa), then now, the homepage of [linkedin.com](https://linkedin.com) or /about are not part of that scope.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=77)** Only files or subfolders inside that pwa folder will be part of that scope, such as pwa/script, pwa, and many other things inside, such as other-pwa/documents/about.html.
+> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=77)** Only files or subfolders inside that pwa folder will be part of that scope, such as pwa/script, pwa, and many other things inside, such as other-pwa/documents/about.[[HTML]].
 >
 > **[1:33](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=93)** That's also part of that scope.
 >
@@ -788,7 +778,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=261)** To avoid cross-site tracking, it's using a more complex scenario only on websites with cross-origin iframes that are using service workers.
 >
-> **[4:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=271)** So, for example, your website at [linkedin.com](https://linkedin.com) can be open in a normal page, in a normal browser tab, or it can be also inside an iframe on another domain, for example, [microsoft.com](https://microsoft.com).
+> **[4:31](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=271)** So, for example, your website at [linkedin.com](https://linkedin.com) can be open in a normal page, in a normal browser tab, or it can be also inside an iframe on another domain, for example, [[[Microsoft]].com](https://microsoft.com).
 >
 > **[4:44](https://www.linkedin.com/learning/javascript-service-workers/understand-the-scope?u=76281980&t=284)** In that case, even if both [linkedin.com](https://linkedin.com) instances are pointing and registering the same service worker, Safari will create a partition on the one with an iframe.
 >
@@ -800,7 +790,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (13), [[HTML]] (9), [[Microsoft]] (2), application (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[HTML]] (9), [[Microsoft]] (2)
 > **URLs:** [linkedin.com](https://linkedin.com) (11), [https://linkedin.com](https://linkedin.com) (1), [microsoft.com](https://microsoft.com) (1)
 > **Analogies:** such as (7), for example (4)
 > **File Paths:** index.html (2), learning.html (2), other-pwa/documents/about.html (1), sw-a.js (1)
@@ -809,8 +799,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Code Identifiers:** ios (1)
 
-#### Learn vocabulary and concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980)
+#### [Learn vocabulary and concepts](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980&t=57)** We do have a service worker known as the controller.
 >
-> **[1:00](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980&t=60)** So the controller is the service worker that's currently responsible, so controlling, the current navigation page, so the current HTML.
+> **[1:00](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980&t=60)** So the controller is the service worker that's currently responsible, so controlling, the current navigation page, so the current [[HTML]].
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-service-workers/learn-vocabulary-and-concepts?u=76281980&t=69)** So every browser's tab, or every standalone Progressive Web App that you're currently using, has only one service worker that is the controller.
 >
@@ -884,7 +873,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), [[HTML]] (3)
+> **Frameworks & Libraries:** [[HTML]] (3)
 > **Analogies:** for example (6), such as (2)
 > **Env Vars:** html (3)
 > **Definitions:** known as (2), is an  (1)
@@ -896,8 +885,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Register a service worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980)
+#### [Register a service worker](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -909,7 +897,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980&t=19)** So it's pretty simple.
 >
-> **[0:21](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980&t=21)** Let's create an HTML file and call that function from it.
+> **[0:21](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980&t=21)** Let's create an [[HTML]] file and call that function from it.
 >
 > **[0:26](https://www.linkedin.com/learning/javascript-service-workers/register-a-service-worker?u=76281980&t=26)** I'm here in my editor, I will use Visual Studio Code.
 >
@@ -971,7 +959,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), next (2), web (1), api (1)
+> **Frameworks & Libraries:** [[HTML]] (6)
 > **Env Vars:** html (6), https (2), url (1), api (1), http (1)
 > **File Paths:** serviceworker.js (3), sw.js (1)
 > **Code Identifiers:** serviceworker (1)
@@ -980,8 +968,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Prerequisites:** install (1)
 
-#### Change the default scope
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980)
+#### [Change the default scope](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -991,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=13)** So, for example, if your service worker is in the root folder of your domain, then the root folder of your domain is the scope of the service worker.
 >
-> **[0:25](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=25)** Which might be a problem if you're used to insert all your JavaScript files in a sub folder.
+> **[0:25](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=25)** Which might be a problem if you're used to insert all your [[JavaScript]] files in a sub folder.
 >
 > **[0:33](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=33)** For example, it's a folder with a name of scripts.
 >
@@ -1001,7 +988,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=55)** To do that, we're going to set a second argument of the register function that we have already seen before.
 >
-> **[1:02](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=62)** In that case, we need to set an object, in this case using Json syntax with the scope.
+> **[1:02](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=62)** In that case, we need to set an object, in this case using [[JSON]] syntax with the scope.
 >
 > **[1:09](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=69)** We can define explicit scopes down.
 >
@@ -1035,7 +1022,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=162)** Now let's go to the code and analyze how to allow an explicit scope in the registration.
 >
-> **[2:49](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=169)** I'm in the index html file that you can get from the begin folder in 02_02 and here I have a register function code.
+> **[2:49](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=169)** I'm in the index [[HTML]] file that you can get from the begin folder in 02_02 and here I have a register function code.
 >
 > **[3:01](https://www.linkedin.com/learning/javascript-service-workers/change-the-default-scope?u=76281980&t=181)** I need to add a second argument so I will add a comma, in this case in a new line but you can keep it the same line, I will add a Json option.
 >
@@ -1051,7 +1038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), [[JavaScript]] (1), [[Security]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[JavaScript]] (1), [[HTML]] (1)
 > **Analogies:** for example (4)
 > **Env Vars:** http (2)
 > **CLI Commands:** make (1)
@@ -1059,8 +1046,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Handle service worker events
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980)
+#### [Handle service worker events](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,19 +1076,19 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=86)** I'm going to save the file, and now we are ready to test this on different browsers.
 >
-> **[1:33](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=93)** Remember, we can not open the index.html from the file system, so we need a web server.
+> **[1:33](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=93)** Remember, we can not open the index.[[HTML]] from the file system, so we need a web server.
 >
 > **[1:42](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=102)** To install a web server, I'm going to use the integrated terminal.
 >
 > **[1:47](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=107)** So View, Terminal.
 >
-> **[1:51](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=111)** And from here I'm going to use npm to install a web server known as SURF.
+> **[1:51](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=111)** And from here I'm going to use [[npm]] to install a web server known as SURF.
 >
 > **[1:58](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=118)** But any other web server will work.
 >
 > **[2:01](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=121)** So it's npm install -g from global, server.
 >
-> **[2:07](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=127)** Because it's a global installation, if you are in Linux or Mac OS, you need to add S, U, D, O, Sudo, before to request route permission.
+> **[2:07](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=127)** Because it's a global installation, if you are in [[Linux]] or Mac OS, you need to add S, U, D, O, Sudo, before to request route permission.
 >
 > **[2:18](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=138)** Also you can use npx to execute serve without installing.
 >
@@ -1114,11 +1100,11 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=159)** And that will open a server in localhost:5000.
 >
-> **[2:44](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=164)** Control click in Windows or Command click on Mac will open your browser.
+> **[2:44](https://www.linkedin.com/learning/javascript-service-workers/handle-service-worker-events?u=76281980&t=164)** Control click in [[Windows]] or Command click on Mac will open your browser.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), [[npm]] (3), [[HTML]] (1), [[Linux]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[npm]] (3), [[HTML]] (1), [[Linux]] (1), [[Windows]] (1)
 > **Prerequisites:** install (6)
 > **CLI Commands:** npm (3), sudo (1), npx (1)
 > **Analogies:** for example (3), similar to (1)
@@ -1127,8 +1113,7 @@ created: 2026-05-02
 > **File Paths:** serviceworker.js (1), index.html (1)
 > **Tools:** terminal (2)
 
-#### Debug with Developer Tools in Chrome
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980)
+#### [Debug with Developer Tools in Chrome](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1151,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980&t=130)** But if we are executing code here, for example if I say alert, hello, that code is being executed in the global context.
 >
-> **[2:20](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980&t=140)** Like normal JavaScript code.
+> **[2:20](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980&t=140)** Like normal [[JavaScript]] code.
 >
 > **[2:23](https://www.linkedin.com/learning/javascript-service-workers/debug-with-developer-tools-in-chrome?u=76281980&t=143)** In fact if I say this, you can see it's the window option.
 >
@@ -1240,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **UI Navigation:** go to (2), open the (2), click on (1)
 > **Analogies:** for example (4), it's like (1)
 > **Env Vars:** o2o4 (1), url (1)
@@ -1249,8 +1234,7 @@ created: 2026-05-02
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
 > **Ports:** :5000 (1)
 
-#### Debug with other browsers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980)
+#### [Debug with other browsers](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1294,7 +1278,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980&t=137)** But we have access to breakpoint, and we do have access to the console.
 >
-> **[2:22](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980&t=142)** Finally, let's jump into Windows 10 and Microsoft Edge.
+> **[2:22](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980&t=142)** Finally, let's jump into [[Windows 10]] and [[Microsoft]] Edge.
 >
 > **[2:27](https://www.linkedin.com/learning/javascript-service-workers/debug-with-other-browsers?u=76281980&t=147)** I'm running the same URL, this is Edge at least 17.
 >
@@ -1310,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), [[Search]] (1), [[Debugging]] (1), [[Windows 10]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[Microsoft]] (1)
 > **UI Navigation:** open the (2), go to (2), click on (1)
 > **Tools:** safari (2), firefox (1)
 > **Env Vars:** url (2)
@@ -1319,8 +1303,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Load external files
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/load-external-files?u=76281980)
+#### [Load external files](https://www.linkedin.com/learning/javascript-service-workers/load-external-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1370,7 +1353,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), parallel (2)
 > **Code Identifiers:** importscript (4), importscripts (1)
 > **File Paths:** events.js (3)
 > **Env Vars:** api (2)
@@ -1378,12 +1360,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Work with the registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980)
+#### [Work with the registration](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=0)** - [Instructor] I'm in 02_07 > Begin project and I'm inside the index.html.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=0)** - [Instructor] I'm in 02_07 > Begin project and I'm inside the index.[[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=7)** When we were registering the serviceWorker, we need to remember that we receive a promise.
 >
@@ -1417,7 +1398,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=152)** If not, it will be the default scope.
 >
-> **[2:35](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=155)** That registration object also has several events that are important for user experience but before seeing those events, let's see another way that we have to access that registration event, so let's say that later in the future in your HTML, you want to access that registration option, so we have a way to get it at any point using navigator.serviceWorker.getRegistration.
+> **[2:35](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=155)** That registration object also has several events that are important for [[User Experience (UX)|user experience]] but before seeing those events, let's see another way that we have to access that registration event, so let's say that later in the future in your HTML, you want to access that registration option, so we have a way to get it at any point using navigator.serviceWorker.getRegistration.
 >
 > **[3:07](https://www.linkedin.com/learning/javascript-service-workers/work-with-the-registration?u=76281980&t=187)** That will give us a promise, so we also need to do then and catch and we will get the registration argument and we need to add the catch for any kind of error trying to get the current registration.
 >
@@ -1449,7 +1430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[HTML]] (2), [[User Experience (UX)|User experience]] (2)
+> **Frameworks & Libraries:** [[HTML]] (2), [[User Experience (UX)|User experience]] (2)
 > **Code Identifiers:** serviceworker (21), scripturl (1), serviceworkers (1), getregistration (1)
 > **Analogies:** for example (4), such as (2)
 > **Env Vars:** api (3), es6 (1), html (1)
@@ -1458,8 +1439,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Exercise Files:** template (1)
 
-#### Update the service worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/update-the-service-worker?u=76281980)
+#### [Update the service worker](https://www.linkedin.com/learning/javascript-service-workers/update-the-service-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1533,11 +1513,11 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/javascript-service-workers/update-the-service-worker?u=76281980&t=312)** If we use all, that's typically the default on other browsers.
 >
-> **[5:17](https://www.linkedin.com/learning/javascript-service-workers/update-the-service-worker?u=76281980&t=317)** The cache will be used for all the files and none, it means it will never use the cache, so that means that every time it's firing the check algorithm it will always go to the network and try to fetch all the files to make a byte-by-byte comparison.
+> **[5:17](https://www.linkedin.com/learning/javascript-service-workers/update-the-service-worker?u=76281980&t=317)** The cache will be used for all the files and none, it means it will never use the cache, so that means that every time it's firing the check algorithm it will always go to the network and try to [[Fetch]] all the files to make a byte-by-byte comparison.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** http (4), api (3)
 > **Analogies:** for example (4)
 > **CLI Commands:** make (3)
@@ -1546,8 +1526,7 @@ created: 2026-05-02
 > **Versions:** version 68 (1)
 > **Cross-References:** go back to (1)
 
-#### Manage updates in your code
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980)
+#### [Manage updates in your code](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1555,7 +1534,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980&t=2)** In this case, I am loading the project at 0209 begin.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980&t=8)** I am in the index HTML.
+> **[0:08](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980&t=8)** I am in the index [[HTML]].
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-service-workers/manage-updates-in-your-code?u=76281980&t=10)** And we're going to start adding in our HTML the button that we'll call an update function that would try to force an update check.
 >
@@ -1653,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (2)
@@ -1662,8 +1641,7 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Unregister the service worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980)
+#### [Unregister the service worker](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1697,7 +1675,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=98)** So we need to unregister it manually.
 >
-> **[1:42](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=102)** So, in that future HTML, you might want to do the check that I'm going to do right now.
+> **[1:42](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=102)** So, in that future [[HTML]], you might want to do the check that I'm going to do right now.
 >
 > **[1:48](https://www.linkedin.com/learning/javascript-service-workers/unregister-the-service-worker?u=76281980&t=108)** I'm going to load this for learning purposes with a button that on click will just call unregister.
 >
@@ -1733,7 +1711,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[HTML]] (1), prompt (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Tools:** safari (2)
 > **UI Navigation:** click on (1), go to (1)
 > **Env Vars:** html (1)
@@ -1745,14 +1723,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Capture the fetch event
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980)
+#### [Capture the fetch event](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=0)** - [Instructor] We have a ServiceWorker, we know how it works, how to update it, how to install, how to listen for events, but it's not yet a network proxy, and we have mentioned that that's the most important of anything.
 >
-> **[0:14](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=14)** So, we are here in 0301 begin in the serviceworker.js file, and we're going to listen for the most important event here, that's Fetch.
+> **[0:14](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=14)** So, we are here in 0301 begin in the serviceworker.js file, and we're going to listen for the most important event here, that's [[Fetch]].
 >
 > **[0:27](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=27)** So, self, that's the ServiceWorker, addEventListener, "fetch."
 >
@@ -1812,11 +1789,11 @@ created: 2026-05-02
 >
 > **[4:36](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=276)** In this case we're going to create our response here.
 >
-> **[4:40](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=280)** Response is a new constructor in JavaScript that is basically an HTTP response, so I'm going to just take my string and use that string here.
+> **[4:40](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=280)** Response is a new constructor in [[JavaScript]] that is basically an HTTP response, so I'm going to just take my string and use that string here.
 >
 > **[4:55](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=295)** Okay, so I'm saving this and I'm going to the browser.
 >
-> **[4:59](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=299)** I'm refreshing, and look at this... Now we are seeing Fetching and the URL in the browser like an HTML, so that's currently my response from the server.
+> **[4:59](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=299)** I'm refreshing, and look at this... Now we are seeing Fetching and the URL in the browser like an [[HTML]], so that's currently my response from the server.
 >
 > **[5:12](https://www.linkedin.com/learning/javascript-service-workers/capture-the-fetch-event?u=76281980&t=312)** So, if I try anything in the URL, any URL, I'm seeing this.
 >
@@ -1842,7 +1819,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (10), css (3), [[HTML]] (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (10), [[HTML]] (2), [[JavaScript]] (1)
 > **Env Vars:** url (9), http (2), html (2), pwa (1), css (1)
 > **Definitions:** is a  (3), known as (2)
 > **File Paths:** serviceworker.js (2), styles.css (2)
@@ -1851,14 +1828,13 @@ created: 2026-05-02
 > **Code Identifiers:** addeventlistener (1), respondwith (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (2)
 
-#### Synthesize a response
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980)
+#### [Synthesize a response](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=0)** - [Instructor] I'm back in the code.
 >
-> **[0:02](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=2)** I'm in the Begin folder, in 03_02, and so far, we have been listening for the fetch event.
+> **[0:02](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=2)** I'm in the Begin folder, in 03_02, and so far, we have been listening for the [[Fetch]] event.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=9)** So we are actually seeing all the network requests that are going through our service worker, but we are not actually doing anything with that.
 >
@@ -1872,7 +1848,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=50)** So in a static response that I'm going to create right here.
 >
-> **[0:54](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=54)** And for that, I'm going to use a response constructor available in Java Script within the service worker.
+> **[0:54](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=54)** And for that, I'm going to use a response constructor available in [[Java]] Script within the service worker.
 >
 > **[1:02](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=62)** This is an actual http response that we are synthesizing from our service worker.
 >
@@ -1888,7 +1864,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=113)** So I'm going to look at host 5000, and what I'm seeing is the URL is localhost:5000.
 >
-> **[2:00](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=120)** And where is my HTML?
+> **[2:00](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=120)** And where is my [[HTML]]?
 >
 > **[2:03](https://www.linkedin.com/learning/javascript-service-workers/synthesize-a-response?u=76281980&t=123)** Where is my background color?
 >
@@ -1920,7 +1896,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (2), web (2), power (1), [[Java]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Java]] (1), [[HTML]] (1)
 > **Env Vars:** url (3), http (2), bwa (1), html (1)
 > **Definitions:** known as (1), is an  (1)
 > **Analogies:** for example (1), such as (1)
@@ -1929,8 +1905,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (1)
 > **Exercise Files:** template (1)
 
-#### The Response object in detail
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980)
+#### [The Response object in detail](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1960,7 +1935,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=54)** Header is typically an object where we can set several headers.
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=59)** For example, I can specify that now I'm going to send content-type": "text/html".
+> **[0:59](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=59)** For example, I can specify that now I'm going to send content-type": "text/[[HTML]]".
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=66)** So now instead of rendering just text, I can render HTML or I can render binary data, such as e-machines, videos, or anything that we want.
 >
@@ -1988,7 +1963,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=132)** So we can have HTML here because now we have set the header.
 >
-> **[2:19](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=139)** The response object is the one that is returned by the fetch API.
+> **[2:19](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=139)** The response object is the one that is returned by the [[Fetch]] API.
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=144)** So that means that we can respond with a static response, like this, or we can also respond with a promise.
 >
@@ -2038,7 +2013,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=252)** But that response can be accessed only once.
 >
-> **[4:17](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=257)** Meaning that if I access, for example, the text of that response or the Blub or the JSON.
+> **[4:17](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=257)** Meaning that if I access, for example, the text of that response or the Blub or the [[JSON]].
 >
 > **[4:25](https://www.linkedin.com/learning/javascript-service-workers/the-response-object-in-detail?u=76281980&t=265)** So if I take the data from that response, I cannot send that response back to the browser.
 >
@@ -2056,7 +2031,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (9), [[HTML]] (8), data (5), [[JSON]] (2), api (1)
+> **Frameworks & Libraries:** [[Fetch]] (9), [[HTML]] (8), [[JSON]] (2)
 > **Env Vars:** html (7), url (3), json (2), http (1), api (1)
 > **Analogies:** for example (11), such as (1)
 > **Definitions:** is an  (1), means that (1)
@@ -2065,12 +2040,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
 
-#### The Request object in detail
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980)
+#### [The Request object in detail](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=0)** - I'm in the serviceworker.js file and now we have a response that is basically HTML.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=0)** - I'm in the serviceworker.js file and now we have a response that is basically [[HTML]].
 >
 > **[0:07](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=7)** So now it's time to talk about the request.
 >
@@ -2120,7 +2094,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=147)** I'm going to refresh here, and here we can see that it's a no-cache situation, there are no credentials, there is an unknown destination for this particular load, and it's a GET method.
 >
-> **[2:41](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=161)** But for example, if I'm going to the console, I can try to fetch to localhost:5000 anything, for example, let's say that we have an API or something like that, and I can add method: "POST" like that and I will await for that to finish, that's a promise.
+> **[2:41](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=161)** But for example, if I'm going to the console, I can try to [[Fetch]] to localhost:5000 anything, for example, let's say that we have an API or something like that, and I can add method: "POST" like that and I will await for that to finish, that's a promise.
 >
 > **[3:00](https://www.linkedin.com/learning/javascript-service-workers/the-request-object-in-detail?u=76281980&t=180)** And we need to have the protocol, such as https.
 >
@@ -2134,7 +2108,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), data (4), api (2), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[Fetch]] (1)
 > **Env Vars:** html (3), post (3), api (2), http (1), delete (1)
 > **Analogies:** for example (8), such as (1)
 > **File Paths:** serviceworker.js (1)
@@ -2143,8 +2117,7 @@ created: 2026-05-02
 > **API Endpoints:** get  (1)
 > **Definitions:** is an  (1)
 
-#### Work with exact routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980)
+#### [Work with exact routes](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2158,7 +2131,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=31)** But sometimes, we want to do things different based on the URL.
 >
-> **[0:36](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=36)** So typically on the fetch event, on the real world project, we are going to work with routes.
+> **[0:36](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=36)** So typically on the [[Fetch]] event, on the real world project, we are going to work with routes.
 >
 > **[0:43](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=43)** So we're going to see the URL and try to make things different based on how the URL looks like.
 >
@@ -2182,11 +2155,11 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=112)** For example, we can just return.
 >
-> **[1:56](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=116)** If we do this, then the rest of the code will not be executed for the root folder.
+> **[1:56](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=116)** If we do this, then the [[Representational State Transfer (REST)|rest]] of the code will not be executed for the root folder.
 >
 > **[2:03](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=123)** Meaning that the Service Worker will not really manage the response for the homepage.
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=128)** So if we go back now to our browser, to the root folder, if I refresh, now our html is back.
+> **[2:08](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=128)** So if we go back now to our browser, to the root folder, if I refresh, now our [[HTML]] is back.
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-service-workers/work-with-exact-routes?u=76281980&t=139)** But if you pay attention here, I don't have the background color.
 >
@@ -2202,7 +2175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (4), [[HTML]] (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Fetch]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** url (9)
 > **Analogies:** for example (5)
 > **File Paths:** styles.css (2), serviceworker.js (1)
@@ -2211,8 +2184,7 @@ created: 2026-05-02
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
 > **Ports:** :5000 (1)
 
-#### Work with dynamic routes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980)
+#### [Work with dynamic routes](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2252,7 +2224,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=74)** And that regular expression will be something like this.
 >
-> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=77)** For example, if I want to check if the API word is there, and so starting with the API word, we can do something like that.
+> **[1:17](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=77)** For example, if I want to check if the API [[Microsoft Word|word]] is there, and so starting with the API word, we can do something like that.
 >
 > **[1:25](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=85)** The problem is that this is a URL, so we need to add the forward slash, so I need to add the forward slash here.
 >
@@ -2264,7 +2236,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=110)** So I can also add something like this and I need to also escape.
 >
-> **[1:55](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=115)** So in this case, if I return and go to the browser, if I refresh the HTML seems to be working without TSS and if I try a slash API, we can see we are getting a 404.
+> **[1:55](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=115)** So in this case, if I return and go to the browser, if I refresh the [[HTML]] seems to be working without TSS and if I try a slash API, we can see we are getting a 404.
 >
 > **[2:09](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=129)** So basically we are skipping the service worker.
 >
@@ -2276,7 +2248,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=144)** through the service worker.
 >
-> **[2:27](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=147)** Going back into the code, instead of just returning from the fetch event, we can also take that event and respond with another response, a JSON response for example.
+> **[2:27](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=147)** Going back into the code, instead of just returning from the [[Fetch]] event, we can also take that event and respond with another response, a [[JSON]] response for example.
 >
 > **[2:42](https://www.linkedin.com/learning/javascript-service-workers/work-with-dynamic-routes?u=76281980&t=162)** That's an option that we need to create, similar to the one that we have created here for HTML.
 >
@@ -2308,7 +2280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (19), [[JSON]] (5), [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Microsoft Word|Word]] (3), [[HTML]] (2), [[Fetch]] (2)
 > **Env Vars:** api (16), url (4), html (2), json (2), jpeg (1)
 > **Analogies:** for example (10), similar to (1)
 > **Code Identifiers:** jsonresponse (1), statustext (1)
@@ -2317,8 +2289,7 @@ created: 2026-05-02
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 
-#### Clone before reading data
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980)
+#### [Clone before reading data](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2326,9 +2297,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=3)** And, to this code, we are going to have a discussion regarding requests and responses.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=10)** So, let's say that we have, for example, in our html, at one point, we are going to add a button here that will post some data.
+> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=10)** So, let's say that we have, for example, in our [[HTML]], at one point, we are going to add a button here that will post some data.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=22)** So it will send some data to the server using fetch, or it can be also ajax like old-fashioned xml http request.
+> **[0:22](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=22)** So it will send some data to the server using [[Fetch]], or it can be also [[AJAX]] like old-fashioned xml http request.
 >
 > **[0:31](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=31)** So I'm going to post some data.
 >
@@ -2340,7 +2311,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=61)** It can also be PUT.
 >
-> **[1:03](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=63)** And the body, the actual content that we're going to send, it can be a string, it can be a json, it can be blobs or binary data, anything will work.
+> **[1:03](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=63)** And the body, the actual content that we're going to send, it can be a string, it can be a [[JSON]], it can be blobs or binary data, anything will work.
 >
 > **[1:14](https://www.linkedin.com/learning/javascript-service-workers/clone-before-reading-data?u=76281980&t=74)** So, for example, we can send some json, with some data inside, for example, an array of countries.
 >
@@ -2372,7 +2343,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Fetch]] (3), api (3), [[JSON]] (3), [[HTML]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (3), [[JSON]] (3), [[HTML]] (2), [[AJAX]] (1)
 > **Analogies:** for example (5)
 > **Env Vars:** post (2), put (1), usa (1)
 > **File Paths:** index.html (1)
@@ -2386,8 +2357,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understand the new Cache API
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980)
+#### [Understand the new Cache API](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2429,7 +2399,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=117)** Firefox, it's 10% of the available size, and Edge is the one with the more complex formula to decide the maximum.
 >
-> **[2:07](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=127)** On Edge, it's up to the volume size because Edge works on mobile devices with Windows 10, mobile duh-dish-shun, tablets, and also desktop computers.
+> **[2:07](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=127)** On Edge, it's up to the volume size because Edge works on mobile devices with [[Windows 10]], mobile duh-dish-shun, tablets, and also desktop computers.
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=139)** So in that case, if it's a mobile phone typically the volume size is less than eight gigabytes.
 >
@@ -2473,13 +2443,13 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=316)** That's like a folder where we're going to store responses.
 >
-> **[5:21](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=321)** And the API is not just available on service workers, it's also available on clients, so basically on HTML.
+> **[5:21](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=321)** And the API is not just available on service workers, it's also available on clients, so basically on [[HTML]].
 >
-> **[5:27](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=327)** In our website, normal plain JavaScript, we can also access these files stored in the cache storage API.
+> **[5:27](https://www.linkedin.com/learning/javascript-service-workers/understand-the-new-cache-api?u=76281980&t=327)** In our website, normal plain [[JavaScript]], we can also access these files stored in the cache storage API.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), data (6), web (2), [[Windows 10]] (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Windows 10]] (1), [[HTML]] (1), [[JavaScript]] (1)
 > **Env Vars:** api (9), http (3), pwa (1), html (1)
 > **Analogies:** it's like (2), such as (2), for example (1)
 > **Tools:** safari (3), firefox (1)
@@ -2488,8 +2458,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prepare the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980)
+#### [Prepare the project](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2499,7 +2468,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=16)** For that, you can open 0402 Begin from the project files.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=22)** And there you will find four HTML files, three JavaScript files, and folders for CSS, images, and videos.
+> **[0:22](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=22)** And there you will find four [[HTML]] files, three [[JavaScript]] files, and folders for CSS, images, and videos.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=32)** It's a website for some California tours.
 >
@@ -2513,7 +2482,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=61)** And the index HTML, the homepage.
 >
-> **[1:04](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=64)** In the homepage, we have some weather information that is using a current API, using the fetch API, to get the weather.
+> **[1:04](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=64)** In the homepage, we have some weather information that is using a current API, using the [[Fetch]] API, to get the weather.
 >
 > **[1:13](https://www.linkedin.com/learning/javascript-service-workers/prepare-the-project?u=76281980&t=73)** If I refresh, you can see that information is coming dynamically from an API.
 >
@@ -2579,7 +2548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[HTML]] (3), application (3), [[JavaScript]] (1), css (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[JavaScript]] (1), [[Fetch]] (1)
 > **Env Vars:** api (4), html (3), url (3), css (1)
 > **File Paths:** app.js (3), serviceworker.js (2), weather.js (1)
 > **UI Navigation:** go to (2), open the (1), scroll down (1)
@@ -2588,8 +2557,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **Definitions:** means that (1), is an  (1)
 
-#### Prefetch files on install
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980)
+#### [Prefetch files on install](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2637,7 +2605,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980&t=169)** So, it's an array of URLs that we want to cache.
 >
-> **[2:54](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980&t=174)** Let's say that we want to cache for now only the HTMLs, so it's common to go and say okay, I want to cache the index.html, I want to cache mission.html, then we have resources.html and finally tours.html.
+> **[2:54](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980&t=174)** Let's say that we want to cache for now only the HTMLs, so it's common to go and say okay, I want to cache the index.[[HTML]], I want to cache mission.html, then we have resources.html and finally tours.html.
 >
 > **[3:10](https://www.linkedin.com/learning/javascript-service-workers/prefetch-files-on-install?u=76281980&t=190)** But this is wrong mostly on index because if we go back to our browser, we don't see index.html in the URL.
 >
@@ -2665,7 +2633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), api (3), data (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **File Paths:** index.html (2), serviceworker.js (1), mission.html (1), resources.html (1), tours.html (1)
 > **Code Identifiers:** addall (2), precachelist (2), cachename (1), waituntil (1)
 > **Env Vars:** api (3), url (3)
@@ -2674,14 +2642,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Exercise Files:** download the (1)
 
-#### Visualize your cache
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980)
+#### [Visualize your cache](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=0)** - [Narrator] It's time to load the project 04_04 Begin and from there we can now see if this is working in the browser.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=10)** To see if our four html files are being saved in the cache.
+> **[0:10](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=10)** To see if our four [[HTML]] files are being saved in the cache.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=16)** So, in Chrome, we are going to reload, you need to check that Update on reload inside the Service Workers area that that tool is enabled.
 >
@@ -2699,7 +2666,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=61)** These files are currently stored in my device.
 >
-> **[1:05](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=65)** But our project also needs CSS files, java script files, and images.
+> **[1:05](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=65)** But our project also needs CSS files, [[Java]] script files, and images.
 >
 > **[1:11](https://www.linkedin.com/learning/javascript-service-workers/visualize-your-cache?u=76281980&t=71)** So we need to add that to our list.
 >
@@ -2755,7 +2722,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (3), [[Java]] (2), next (2), [[HTML]] (1), application (1)
+> **Frameworks & Libraries:** [[Java]] (2), [[HTML]] (1)
 > **CLI Commands:** find (3)
 > **Cross-References:** go back to (1), next video (1)
 > **File Paths:** assets.js (1)
@@ -2764,14 +2731,13 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [narrator] (1)
 
-#### Implement a cache-first policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980)
+#### [Implement a cache-first policy](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=0)** - [Instructor] Back in our California project we have already saved all the files in the cache, but no one is serving those files.
 >
-> **[0:08](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=8)** So we actually need to listen for the fetch event handler, the same that we did before.
+> **[0:08](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=8)** So we actually need to listen for the [[Fetch]] event handler, the same that we did before.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=17)** And we're going to do this, we are going to respond with, and we need to respond with a promise of a response or an actual response.
 >
@@ -2813,7 +2779,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=140)** We can check if that object exists.
 >
-> **[2:23](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=143)** If it's there, this is JavaScript, so we can take it as a boolean value.
+> **[2:23](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=143)** If it's there, this is [[JavaScript]], so we can take it as a boolean value.
 >
 > **[2:28](https://www.linkedin.com/learning/javascript-service-workers/implement-a-cache-first-policy?u=76281980&t=148)** If it's there, then we are going to return a response.
 >
@@ -2909,7 +2875,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (5), [[Search]] (4), api (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (5), [[JavaScript]] (1)
 > **UI Navigation:** go to (6), checkbox (1)
 > **Env Vars:** api (2), url (2)
 > **Speakers:** - [instructor] (2), - [video (1)
@@ -2918,8 +2884,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **URLs:** [localhost:5000](https://localhost:5000) (1)
 
-#### Implement a network-first policy
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980)
+#### [Implement a network-first policy](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2967,7 +2932,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980&t=155)** And only if it doesn't exist, we will move and use the cache-first policy.
 >
-> **[2:43](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980&t=163)** So, the network-first policy will respond to the event with always with a fetch.
+> **[2:43](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980&t=163)** So, the network-first policy will respond to the event with always with a [[Fetch]].
 >
 > **[2:51](https://www.linkedin.com/learning/javascript-service-workers/implement-a-network-first-policy?u=76281980&t=171)** So, it will take event request.
 >
@@ -3007,7 +2972,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** css (11), [[Fetch]] (1), application (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** css (11), url (5)
 > **UI Navigation:** go to (5), click on (2)
 > **Definitions:** is a  (3)
@@ -3016,14 +2981,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cache new elements after install
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980)
+#### [Cache new elements after install](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=0)** - [Instructor] I am back here in my project, and we know that we are caching a lot of files when the service worker is being installed.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=9)** And we are caching images, CSS files, JavaScript files and also HTMLs.
+> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=9)** And we are caching images, CSS files, [[JavaScript]] files and also HTMLs.
 >
 > **[0:16](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=16)** But we are not caching other things, for example, fonts.
 >
@@ -3047,7 +3011,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=80)** So on the second load we will have the right version of the file in the cache.
 >
-> **[1:26](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=86)** To do that we are going to look into the fetch event in the service worker js file and we're going to take the cache first policy and we're going to add some changes.
+> **[1:26](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=86)** To do that we are going to look into the [[Fetch]] event in the service worker js file and we're going to take the cache first policy and we're going to add some changes.
 >
 > **[1:39](https://www.linkedin.com/learning/javascript-service-workers/cache-new-elements-after-install?u=76281980&t=99)** When we know that the file is not in the cache, that is, in line 43, in the else log, we're going to ask if the current URL, and we do have that current URL here, so I'm can even copy line 27.
 >
@@ -3105,15 +3069,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (9), css (2), [[JavaScript]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (9), [[JavaScript]] (1)
 > **Env Vars:** url (3), css (2)
 > **Analogies:** for example (4), picture (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use stale-while-revalidate
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980)
+#### [Use stale-while-revalidate](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3135,7 +3098,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=82)** We're going to replace the network first policy that we have here with a new policy.
 >
-> **[1:27](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=87)** So, I'm going to just comment this by using Command + Slash, or Control + Slash in Windows, and I'm going to change that policy with one known as Stale while Revalidate.
+> **[1:27](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=87)** So, I'm going to just comment this by using Command + Slash, or Control + Slash in [[Windows]], and I'm going to change that policy with one known as Stale while Revalidate.
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=100)** That's the name of the policy, and we're going to apply that, in our case, only for the CSS folder.
 >
@@ -3147,7 +3110,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=120)** So, we will take the response, like that, and we're going to respond something inside here.
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=128)** So, let's first do, we are going to create a fetch.
+> **[2:08](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=128)** So, let's first do, we are going to create a [[Fetch]].
 >
 > **[2:12](https://www.linkedin.com/learning/javascript-service-workers/use-stale-while-revalidate?u=76281980&t=132)** So, we will go to the network, okay, and then we're going to return the response or the fetch.
 >
@@ -3207,7 +3170,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (9), css (5), next (3), api (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (9), [[Windows]] (1)
 > **Code Identifiers:** networkresponse (4), networkfetch (3), respondwith (1)
 > **Env Vars:** css (5), api (2)
 > **CLI Commands:** make (5)
@@ -3216,12 +3179,11 @@ created: 2026-05-02
 > **Prerequisites:** install (3)
 > **Cross-References:** as we saw (1), go back to (1)
 
-#### Deliver alternate content when offline
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980)
+#### [Deliver alternate content when offline](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=0)** - [Instructor] I'm back in my project in 04_09, and we need to remember that, besides loading font, CSS, images, and JavaScript files, we also have in the weather.js file in our project, a call to an API.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=0)** - [Instructor] I'm back in my project in 04_09, and we need to remember that, besides loading font, CSS, images, and [[JavaScript]] files, we also have in the weather.js file in our project, a call to an API.
 >
 > **[0:15](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=15)** That API is in [explorecalifornia.org](https://explorecalifornia.org), so its in a different host.
 >
@@ -3235,7 +3197,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=44)** So I want to use a different strategy here.
 >
-> **[0:46](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=46)** If you look in the root folder, I do have an offline.json file.
+> **[0:46](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=46)** If you look in the root folder, I do have an offline.[[JSON]] file.
 >
 > **[0:51](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=51)** That offline.json file is the one that I'm going to deliver when there is no connection.
 >
@@ -3281,7 +3243,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=184)** So now go into the service worker file, we need to add a new policy.
 >
-> **[3:10](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=190)** So we will look here into the fetch event handler.
+> **[3:10](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=190)** So we will look here into the [[Fetch]] event handler.
 >
 > **[3:14](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=194)** So line 27.
 >
@@ -3307,7 +3269,7 @@ created: 2026-05-02
 >
 > **[4:02](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=242)** It will be a fetch to one file offline json.
 >
-> **[4:07](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=247)** And then we need to continue the rest of the conditions with an else.
+> **[4:07](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=247)** And then we need to continue the [[Representational State Transfer (REST)|rest]] of the conditions with an else.
 >
 > **[4:12](https://www.linkedin.com/learning/javascript-service-workers/deliver-alternate-content-when-offline?u=76281980&t=252)** The problem is that that file, offline json, is not part of our pre-cached list of files, so it's not going to be available when we are offline.
 >
@@ -3363,7 +3325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (10), data (5), [[Fetch]] (5), api (4), css (1)
+> **Frameworks & Libraries:** [[JSON]] (10), [[Fetch]] (5), [[JavaScript]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **File Paths:** offline.json (6), weather.js (3)
 > **Env Vars:** api (4), css (1)
 > **CLI Commands:** make (1), find (1)
@@ -3372,14 +3334,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 
-#### Keep your storage clean
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980)
+#### [Keep your storage clean](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980&t=0)** - [Instructor] When we are working with service workers and application cache, we know that sometimes we want to change the list of files that we are caching.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980&t=9)** In the previous video, we have added, for example, offline.json.
+> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980&t=9)** In the previous video, we have added, for example, offline.[[JSON]].
 >
 > **[0:13](https://www.linkedin.com/learning/javascript-service-workers/keep-your-storage-clean?u=76281980&t=13)** What happens if the user already has the service worker and the package?
 >
@@ -3449,7 +3410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (1), [[JSON]] (1), data (1), css (1), api (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Prerequisites:** install (5)
 > **CLI Commands:** make (3), find (1)
 > **Code Identifiers:** cachename (2), indexof (1)
@@ -3458,8 +3419,7 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **File Paths:** offline.json (1), serviceworker.js (1)
 
-#### Summary of cache strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980)
+#### [Summary of cache strategies](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3501,7 +3461,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=202)** You can use your own algorithm, your own technique to do this.
 >
-> **[3:28](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=208)** There are many frameworks out there that will help you with this such as workbook JS and also react angular view HS CLIs will do this for you.
+> **[3:28](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=208)** There are many frameworks out there that will help you with this such as workbook JS and also [[React.js|react]] [[Angular]] view HS CLIs will do this for you.
 >
 > **[3:39](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=219)** If you create that manifest file, then you need to save the manifest in the local storage.
 >
@@ -3509,7 +3469,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=228)** So every once in awhile when the service worker is running, I know every time that the service worker is running again, it can check, oh let's see how long it's been since my last asset check.
 >
-> **[4:00](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=240)** Even if the service worker is trying to do something different, we can also fetch that manifest like once per day or once per five hours.
+> **[4:00](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=240)** Even if the service worker is trying to do something different, we can also [[Fetch]] that manifest like once per day or once per five hours.
 >
 > **[4:09](https://www.linkedin.com/learning/javascript-service-workers/summary-of-cache-strategies?u=76281980&t=249)** We can download that manifest, compare with the version that is in the cache and then the service worker can say oh it seems like there is a logo or an emash or an SVG file that has changed in the server so let's go and download that file now and update the cache.
 >
@@ -3517,7 +3477,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (2), css (2), next (1), [[React.js|React]] (1), [[Angular]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (1), [[Angular]] (1), [[Fetch]] (1)
 > **Env Vars:** api (2), css (2), svg (1)
 > **Analogies:** for example (2), such as (2), similar to (1)
 > **Definitions:** is a  (2)
@@ -3531,8 +3491,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What's available in the service worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/what-s-available-in-the-service-worker?u=76281980)
+#### [What's available in the service worker](https://www.linkedin.com/learning/javascript-service-workers/what-s-available-in-the-service-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3584,7 +3543,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (9), web (2), power (1), dom (1), next (1)
 > **Env Vars:** api (9), htext (1), hml (1), http (1), dom (1)
 > **Analogies:** for example (4), such as (1)
 > **Cross-References:** later in (1), in the last (1), in the next (1)
@@ -3592,20 +3550,19 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Send messages from pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980)
+#### [Send messages from pages](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=0)** - [Instructor] When we have activated serviceworker we know it's not alone.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=4)** We know we have clients such as browser's tabs, or Windows, PWAs or other items such as iFriends.
+> **[0:04](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=4)** We know we have clients such as browser's tabs, or [[Windows]], PWAs or other items such as iFriends.
 >
 > **[0:14](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=14)** So fortunately we do have a communication API that will let us send messages from pages to the serviceworker and vice versa.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=24)** So let's start sending messages to the servicworker from Windows.
 >
-> **[0:30](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=30)** And there we have an app.js file that's a (mumbles) file that is currently registering the serviceworker and that file is pointing from every HTML.
+> **[0:30](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=30)** And there we have an app.js file that's a (mumbles) file that is currently registering the serviceworker and that file is pointing from every [[HTML]].
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=41)** Remember that if we are registering again a serviceworker that is already installed nothing will happen.
 >
@@ -3631,7 +3588,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=119)** Okay so what is a message?
 >
-> **[2:01](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=121)** The post message API accepts mostly simple elements like strings, objects that can be serialized into JSON strings, numbers, arrays and also in some situations we can transfer binary data but, in that case we are entering a phase where that may not be available in every browser.
+> **[2:01](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=121)** The post message API accepts mostly simple elements like strings, objects that can be serialized into [[JSON]] strings, numbers, arrays and also in some situations we can transfer binary data but, in that case we are entering a phase where that may not be available in every browser.
 >
 > **[2:26](https://www.linkedin.com/learning/javascript-service-workers/send-messages-from-pages?u=76281980&t=146)** So it's typically a good idea to keep the message as simple as possible.
 >
@@ -3667,7 +3624,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), [[HTML]] (3), web (3), [[Windows]] (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[HTML]] (3), [[Windows]] (2), [[JSON]] (1)
 > **Env Vars:** api (3), html (3), json (1), pwa (1), css (1)
 > **Analogies:** for example (5), such as (3)
 > **Code Identifiers:** ifriends (1), serviceworker (1), postmessage (1), footerresources (1)
@@ -3675,8 +3632,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Receive messages in the service worker
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980)
+#### [Receive messages in the service worker](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3688,7 +3644,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=10)** We have a service worker that is currently activated and running.
 >
-> **[0:13](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=13)** And we have an HTML that has a button.
+> **[0:13](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=13)** And we have an [[HTML]] that has a button.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=17)** That if I click the button, it seem to be sending a message to the service worker.
 >
@@ -3696,7 +3652,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=28)** In the code, now we are going to the service worker file And we need to add a new event listener.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=35)** So we have "install," we have "activate," we have "fetch," and now we are going to add a new one.
+> **[0:35](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=35)** So we have "install," we have "activate," we have "[[Fetch]]," and now we are going to add a new one.
 >
 > **[0:41](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-in-the-service-worker?u=76281980&t=41)** So it's self.addEventListener and the event name is "message."
 >
@@ -3784,7 +3740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (1), [[Fetch]] (1), application (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Fetch]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), open the (1)
 > **Code Identifiers:** addeventlistener (1)
@@ -3793,8 +3749,7 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 
-#### Broadcast messages to clients
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980)
+#### [Broadcast messages to clients](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3868,7 +3823,7 @@ created: 2026-05-02
 >
 > **[3:18](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980&t=198)** So in this case, because we want to send messages to all the open tabs, we want window.
 >
-> **[3:24](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980&t=204)** Window will be true for tabs, stand alone PWAs, and also iframes because they are html documents.
+> **[3:24](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980&t=204)** Window will be true for tabs, stand alone PWAs, and also iframes because they are [[HTML]] documents.
 >
 > **[3:34](https://www.linkedin.com/learning/javascript-service-workers/broadcast-messages-to-clients?u=76281980&t=214)** So match all will give us a promise.
 >
@@ -3892,7 +3847,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (3), data (2), web (1), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Env Vars:** api (3), pwa (1), url (1)
 > **Analogies:** for example (4), such as (1)
 > **Definitions:** is a  (2), known as (1), means that (1)
@@ -3900,8 +3855,7 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Speakers:** - [instructor] (1)
 
-#### Receive messages from the controller
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980)
+#### [Receive messages from the controller](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3911,9 +3865,9 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=11)** We are broadcasting a message, but again, no one is receiving that message on the other side.
 >
-> **[0:16](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=16)** So I need to go in this case to app.js, that's the JavaScript that works in the client, and I need to receive the message that the Service Worker is sending to myself.
+> **[0:16](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=16)** So I need to go in this case to app.js, that's the [[JavaScript]] that works in the client, and I need to receive the message that the Service Worker is sending to myself.
 >
-> **[0:28](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=28)** Remember that if in the scope of the Service Worker there are many other html and JavaScript, in this case, all of them if they are open, will receive the message.
+> **[0:28](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=28)** Remember that if in the scope of the Service Worker there are many other [[HTML]] and JavaScript, in this case, all of them if they are open, will receive the message.
 >
 > **[0:40](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=40)** So what we can do here is that we can take navigator.serviceWorker and add an event listener for the message event.
 >
@@ -3945,7 +3899,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=132)** So now the Service Worker has four clients of type window.
 >
-> **[2:17](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=137)** So what we can do here is I click update the app, we can see that the four windows have received that alert.
+> **[2:17](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=137)** So what we can do here is I click update the app, we can see that the four [[Windows]] have received that alert.
 >
 > **[2:27](https://www.linkedin.com/learning/javascript-service-workers/receive-messages-from-the-controller?u=76281980&t=147)** All of them are receiving the message that they should reload.
 >
@@ -3973,7 +3927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), data (2), [[Windows]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Windows]] (2), [[HTML]] (1)
 > **Env Vars:** url (4)
 > **Analogies:** for example (4)
 > **File Paths:** app.js (2)
@@ -3981,14 +3935,13 @@ created: 2026-05-02
 > **Code Identifiers:** serviceworker (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sync data in the background
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980)
+#### [Sync data in the background](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=0)** - [Instructor] I am back with the project Explore California, and please now load 05_06, because there is something new.
 >
-> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=9)** When you open the Tours section, the Tours HTML, we are going to see that there are a couple of California tours here and you can vote for the tour that you like.
+> **[0:09](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=9)** When you open the Tours section, the Tours [[HTML]], we are going to see that there are a couple of California tours here and you can vote for the tour that you like.
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=21)** Let's see what's happening when I click on that button.
 >
@@ -3998,7 +3951,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=45)** Now I'm going to app.js, and here we can see the function.
 >
-> **[0:50](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=50)** It's doing a fetch to a URL, sending the Id, and when it's done it's taking the json from that response and just saying 'voted!'.
+> **[0:50](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=50)** It's doing a [[Fetch]] to a URL, sending the Id, and when it's done it's taking the [[JSON]] from that response and just saying 'voted!'.
 >
 > **[1:01](https://www.linkedin.com/learning/javascript-service-workers/sync-data-in-the-background?u=76281980&t=61)** That's all, but there is a problem here.
 >
@@ -4084,7 +4037,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (8), api (3), [[HTML]] (2), [[JSON]] (1), game (1)
+> **Frameworks & Libraries:** [[Fetch]] (8), [[HTML]] (2), [[JSON]] (1)
 > **Env Vars:** api (3), html (1), url (1)
 > **Definitions:** is a  (4), known as (1)
 > **Code Identifiers:** tourid (2), getregistration (1), waituntil (1)
@@ -4098,12 +4051,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Readable streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980)
+#### [Readable streams](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=0)** - [Instructor] When a website is making a fetch to the network, so it's making an actual HTTP request, typically, the fetch goes to the web server, the web server takes the content from a file system, and that content goes through TCP or UDP in packets through the network.
+> **[0:00](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=0)** - [Instructor] When a website is making a [[Fetch]] to the network, so it's making an actual HTTP request, typically, the fetch goes to the web server, the web server takes the content from a file system, and that content goes through TCP or UDP in packets through the network.
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=20)** So, in chunks.
 >
@@ -4151,15 +4103,15 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=163)** And the problem here is that chunks might not be valid units of information.
 >
-> **[2:47](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=167)** So for example, we can be downloading 1,000 records from a database in JSON.
+> **[2:47](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=167)** So for example, we can be downloading 1,000 records from a database in [[JSON]].
 >
 > **[2:54](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=174)** Right now, we need to wait for the thousand objects to be there in the client to start actually parsing them and rendering on the screen.
 >
-> **[3:04](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=184)** But when we receive chunks, we may be, for example, rendering the first 10, and then when we have another group of elements, we are going to render the rest.
+> **[3:04](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=184)** But when we receive chunks, we may be, for example, rendering the first 10, and then when we have another group of elements, we are going to render the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:15](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=195)** The problem is that chunks might not be fully functional units.
 >
-> **[3:19](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=199)** For example, in this case, we have a JSON with two objects, John and Jane.
+> **[3:19](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=199)** For example, in this case, we have a JSON with two objects, [[John the Ripper|John]] and Jane.
 >
 > **[3:24](https://www.linkedin.com/learning/javascript-service-workers/readable-streams?u=76281980&t=204)** But Jane is not complete, so the chunk maybe stopped after the g in age.
 >
@@ -4183,7 +4135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), web (4), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2), next (2)
+> **Frameworks & Libraries:** [[Fetch]] (6), [[Representational State Transfer (REST)|Rest]] (3), [[JSON]] (2), [[John the Ripper|John]] (2)
 > **Env Vars:** json (2), http (1), tcp (1), udp (1), api (1)
 > **Analogies:** for example (3)
 > **CLI Commands:** make (1)
@@ -4191,8 +4143,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Navigation preload
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980)
+#### [Navigation preload](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4202,13 +4153,13 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=9)** Also, instead of a browser, it can be a PWA that was installed, so the user is just double-clicking on the icon or tapping the icon on a mobile device.
 >
-> **[0:20](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=20)** Because there is a service worker that is currently owning that scope, the browser will not go to the web server to download the HTML, the document that we are requesting.
+> **[0:20](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=20)** Because there is a service worker that is currently owning that scope, the browser will not go to the web server to download the [[HTML]], the document that we are requesting.
 >
 > **[0:32](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=32)** Basically, the browser will make that service worker active and running, which means, if we need to create the process in the operating system, the thread, and then an instance of our service worker 5.
 >
-> **[0:48](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=48)** That would take a couple of milliseconds, and let's say that after that, the service worker say, "Oh, I need to go the the webserver to fetch that," for example, index attach html.
+> **[0:48](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=48)** That would take a couple of milliseconds, and let's say that after that, the service worker say, "Oh, I need to go the the webserver to [[Fetch]] that," for example, index attach html.
 >
-> **[0:59](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=59)** The problem comes that on low end devices, mostly mobile devices, phones that are really cheap, it can be for example today an Android Go device, that despite having Android 8, it's a Go version and that means, it has low CPU, low memory and not so many cores.
+> **[0:59](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=59)** The problem comes that on low end devices, mostly mobile devices, phones that are really cheap, it can be for example today an [[Android]] Go device, that despite having Android 8, it's a Go version and that means, it has low CPU, low memory and not so many cores.
 >
 > **[1:19](https://www.linkedin.com/learning/javascript-service-workers/navigation-preload?u=76281980&t=79)** So on those devices, creating a process and making that service worker available to execute the fetch event handler might take up to 200 milliseconds.
 >
@@ -4278,7 +4229,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Fetch]] (6), web (4), [[HTML]] (2), [[Android]] (2), feature (1)
+> **Frameworks & Libraries:** [[Fetch]] (6), [[HTML]] (2), [[Android]] (2)
 > **Env Vars:** abi (3), url (1), pwa (1), html (1), cpu (1)
 > **Definitions:** is a  (3), known as (1)
 > **Analogies:** for example (2), such as (1)
@@ -4287,14 +4238,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** download the (1)
 
-#### Defer service worker registration
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980)
+#### [Defer service worker registration](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980&t=0)** - [Instructor] Let's talk a little bit about the performance of registering a service worker.
 >
-> **[0:05](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980&t=5)** Typically, we register a service worker as soon as JavaScript executes, so we have a code in our page that is just calling, navigate to our service worker, register.
+> **[0:05](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980&t=5)** Typically, we register a service worker as soon as [[JavaScript]] executes, so we have a code in our page that is just calling, navigate to our service worker, register.
 >
 > **[0:17](https://www.linkedin.com/learning/javascript-service-workers/defer-service-worker-registration?u=76281980&t=17)** But on the first load, we need to remember that the window that is actually registering the service worker is not going to be controlled by that service worker.
 >
@@ -4315,8 +4265,7 @@ created: 2026-05-02
 > **Code Identifiers:** servicwworker (1)
 > **Speakers:** - [instructor] (1)
 
-#### Make your service worker useful quickly
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980)
+#### [Make your service worker useful quickly](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4354,7 +4303,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980&t=139)** We ask them to be our clients, and then, at that point, all the clients will be controlled, now, by the new service worker without any reload, so we don't need to reload the client or the page.
 >
-> **[2:33](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980&t=153)** Just be careful, because if the old service worker and the HTML, that are currently on users screens, are tied together, for example, one is relying on the other for messaging or because the service worker is synthesizing responses and the new version of the service worker, it's a different app so it has a different idea, it's not doing that. You need to remember that now you have an old HTML on the screen with a new service worker that is controlling that HTML, so, maybe some things might not work on those situations.
+> **[2:33](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980&t=153)** Just be careful, because if the old service worker and the [[HTML]], that are currently on users screens, are tied together, for example, one is relying on the other for messaging or because the service worker is synthesizing responses and the new version of the service worker, it's a different app so it has a different idea, it's not doing that. You need to remember that now you have an old HTML on the screen with a new service worker that is controlling that HTML, so, maybe some things might not work on those situations.
 >
 > **[3:12](https://www.linkedin.com/learning/javascript-service-workers/make-your-service-worker-useful-quickly?u=76281980&t=192)** If you are not tying to together the service worker with the page, then, typically, you won't have big issues.
 
@@ -4374,8 +4323,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4391,13 +4339,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=46)** So now it's time to move forward.
 >
-> **[0:47](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=47)** If you want to continue your learning with these topics, you can go and search in LinkedIn Learning for promises, web workers, web push, web performance optimization, and progressive web apps.
+> **[0:47](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=47)** If you want to continue your learning with these topics, you can go and search in [[LinkedIn]] Learning for promises, web workers, web push, web performance optimization, and progressive web apps.
 >
 > **[1:00](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=60)** Also, in terms of frameworks, for service workers, you can check workbook JS.
 >
 > **[1:06](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=66)** That framework was created by the Chrome team.
 >
-> **[1:09](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=69)** And also, if you're using angular, react, or blue JS, the latest versions of their CLIs, are supporting service workers as well.
+> **[1:09](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=69)** And also, if you're using [[Angular]], [[React.js|react]], or blue JS, the latest versions of their CLIs, are supporting service workers as well.
 >
 > **[1:18](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=78)** There are several courses at LinkedIn Learning taught by myself, and other great instructors that will help you continue with this nice journey.
 >
@@ -4407,13 +4355,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=100)** I usually publish articles, news, and information about service workers.
 >
-> **[1:45](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=105)** And more stuff around web development, PWA development, and service workers.
+> **[1:45](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=105)** And more stuff around [[Web Development]], PWA development, and service workers.
 >
 > **[1:51](https://www.linkedin.com/learning/javascript-service-workers/next-steps?u=76281980&t=111)** Thank you again, and see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (9), [[LinkedIn]] (2), [[Search]] (1), [[Angular]] (1), [[React.js|React]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Angular]] (1), [[React.js|React]] (1), [[Web Development]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (2)
 > **Env Vars:** pwa (1)

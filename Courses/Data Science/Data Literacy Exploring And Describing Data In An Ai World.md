@@ -134,28 +134,27 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Make better decisions with your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
+#### [Make better decisions with your data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=0)** - [Barton] The data revolution comes in many shapes and sizes.
 >
-> **[0:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=4)** There are the industrial-scale projects in e-commerce, social media, and AI, but there are also human-sized projects for entrepreneurs, startups, and small businesses.
+> **[0:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=4)** There are the industrial-scale projects in [[E-Commerce]], social media, and AI, but there are also human-sized projects for entrepreneurs, startups, and small businesses.
 >
 > **[0:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=15)** You can get significant insights from even basic analyses of small datasets.
 >
-> **[0:20](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=20)** And this is where the principle of data literacy comes in.
+> **[0:20](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=20)** And this is where the principle of [[Data Literacy]] comes in.
 >
 > **[0:24](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=24)** I'm Barton Poulson, and together, we'll explore the fundamental concepts of data literacy, or the ability to work with data to extract insights, define new paths of inquiry, and to get actionable ideas for next steps.
 >
-> **[0:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=37)** This is a non-technical overview, so anyone with an interest in informed decision-making can learn how data can help them to do the things that are important to them and to do them more effectively and more efficiently.
+> **[0:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=37)** This is a non-technical overview, so anyone with an interest in informed [[Decision-Making]] can learn how data can help them to do the things that are important to them and to do them more effectively and more efficiently.
 >
 > **[0:50](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/make-better-decisions-with-your-data-23443837?u=76281980&t=50)** And so let's get started with data literacy.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[E-Commerce]] (1), ai (1), next (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Data Literacy]] (3), [[E-Commerce]] (1), [[Decision-Making]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [barton] (1)
 
@@ -164,8 +163,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The meaning of data fluency
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
+#### [The meaning of data fluency](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -235,7 +233,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=168)** This is where you conduct data analysis as part of a larger, but non-data focused responsibility.
 >
-> **[2:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=176)** So for instance, you might be doing marketing analytics.
+> **[2:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=176)** So for instance, you might be doing [[Marketing Analytics]].
 >
 > **[2:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=178)** You have to work with data, but that's not your job.
 >
@@ -249,11 +247,11 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=205)** People who maybe are even using data just intuitively, people who use it as a tool, and people for whom that is what they do.
 >
-> **[3:33](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=213)** Now, I also like to think you can simplify these a little bit more into two word phrases.
+> **[3:33](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=213)** Now, I also like to think you can simplify these a little bit more into two [[Microsoft Word|word]] phrases.
 >
 > **[3:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=219)** The first one is everyday data.
 >
-> **[3:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=220)** We're talking about the ability to work with that is data literacy.
+> **[3:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=220)** We're talking about the ability to work with that is [[Data Literacy]].
 >
 > **[3:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=223)** You can read the data, you know what it means, and you can get what you need out of it.
 >
@@ -263,7 +261,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=233)** And part of that's because I'm going to be using elements of data literacy and data fluency throughout this entire course.
 >
-> **[3:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=238)** And the third step, data as a profession, maybe you call that one data science.
+> **[3:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=238)** And the third step, data as a profession, maybe you call that one [[Data Science]].
 >
 > **[4:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=243)** Again, these are my own terms, but they're a framework for thinking about the different responsibilities or different levels.
 >
@@ -273,7 +271,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=267)** There's data literacy, which I just mentioned, and data fluency.
 >
-> **[4:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=271)** There's also the terms quantitative or mathematical literacy, or maybe you're familiar with the term numeracy, which actually comes from a 1989 book by John Allen Paulos, which is called, "Innumeracy or Mathematical Illiteracy and its Consequences."
+> **[4:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=271)** There's also the terms quantitative or mathematical literacy, or maybe you're familiar with the term numeracy, which actually comes from a 1989 book by [[John the Ripper|John]] Allen Paulos, which is called, "Innumeracy or Mathematical Illiteracy and its Consequences."
 >
 > **[4:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=285)** But all of these refer basically to the ability to work with numbers, to work with data as a way of getting meaning and making decisions.
 >
@@ -285,7 +283,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=310)** This is what we are not doing.
 >
-> **[5:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=312)** We're not trying to turn you into a data professional and, unless you're spending 100% of your time in data science, you don't need to be able to write your own code for neural networks, and you don't need to be able to find cube roots in your head.
+> **[5:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=312)** We're not trying to turn you into a data professional and, unless you're spending 100% of your time in data science, you don't need to be able to write your own code for [[Neural Networks]], and you don't need to be able to find cube roots in your head.
 >
 > **[5:24](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/the-meaning-of-data-fluency?u=76281980&t=324)** Besides, despite how often that kind of mental math shows up in the movies to indicate mathematical ability, it's really a separate, unrelated skill to thinking with data as any mathematician will tell you.
 >
@@ -313,15 +311,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (38), next (2), [[Marketing Analytics]] (1), [[Microsoft Word|Word]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Data Literacy]] (5), [[Data Science]] (3), [[Marketing Analytics]] (1), [[Microsoft Word|Word]] (1), [[John the Ripper|John]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is called (2), is an  (1), means that (1), is a  (1)
 > **Env Vars:** cefr (3)
 > **Analogies:** for instance (3)
 > **Speakers:** - [instructor] (1)
 
-#### Data fluency is for everyone
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-is-for-everyone?u=76281980)
+#### [Data fluency is for everyone](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-is-for-everyone?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,7 +378,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** next video (1)
 > **UI Navigation:** go to (1)
@@ -389,8 +385,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data fluency in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980)
+#### [Data fluency in practice](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,7 +481,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980&t=286)** Each semester, I schedule about 4,500 students in about 120 sections with 16 instructors.
 >
-> **[4:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980&t=292)** It's a major organization task, and I actually use a large Excel spreadsheet that's set up like a database to help me make these decisions.
+> **[4:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980&t=292)** It's a major organization task, and I actually use a large [[Microsoft Excel|Excel]] spreadsheet that's set up like a database to help me make these decisions.
 >
 > **[4:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-fluency-in-practice?u=76281980&t=299)** Also, do student learning and student satisfaction relate directly to grades or workload?
 >
@@ -528,7 +523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), web (2), business (1), next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (4), find (1)
 > **UI Navigation:** go to (4)
 > **Prerequisites:** set up (2), you need to have (1)
@@ -536,8 +531,7 @@ created: 2026-05-02
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Making intuitive thinking explicit
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/making-intuitive-thinking-explicit?u=76281980)
+#### [Making intuitive thinking explicit](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/making-intuitive-thinking-explicit?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,14 +641,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), business (2), product (1), next (1)
 > **CLI Commands:** make (4), find (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about causes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980)
+#### [Thinking about causes](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -682,7 +674,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980&t=90)** You don't want to focus on that 10% and say, "That's the pattern, that's what I'm shooting for."
 >
-> **[1:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980&t=95)** You can see here that there actually is a much higher probability of getting financial success if you graduated.
+> **[1:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980&t=95)** You can see here that there actually is a much higher [[Probability]] of getting financial success if you graduated.
 >
 > **[1:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/thinking-about-causes?u=76281980&t=102)** And this is generally true, despite the way that a lot of people talk in the entrepreneurial world about college being bad for you.
 >
@@ -756,15 +748,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), product (2), [[Probability]] (1)
+> **Frameworks & Libraries:** [[Probability]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (2)
 > **Warnings:** watch out (2)
 > **Speakers:** - [instructor] (1)
 
-#### How to develop data fluency
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980)
+#### [How to develop data fluency](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -790,7 +781,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=51)** So once you're out of school, if you want to go back and take a class that's offered at the university, there are excellent opportunities.
 >
-> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=57)** And of course, basically every city now has bootcamps for programming or for data science or for other topics available.
+> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=57)** And of course, basically every city now has bootcamps for programming or for [[Data Science]] or for other topics available.
 >
 > **[1:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=64)** And there are organized online programs with carefully developed curricula.
 >
@@ -812,7 +803,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=116)** It's building on something you have.
 >
-> **[1:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=119)** And what it lets you know is that your domain expertise is absolutely critical to of the success of any data project that you're doing, even if it's a simple spreadsheet, even if it's something very complicated, like a deep learning neural network.
+> **[1:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=119)** And what it lets you know is that your domain expertise is absolutely critical to of the success of any data project that you're doing, even if it's a simple spreadsheet, even if it's something very complicated, like a [[Deep Learning]] neural network.
 >
 > **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=132)** So as we go through the sections in this course, I want to remind you about three major elements of learning how to work with data.
 >
@@ -820,7 +811,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=145)** So it's important, you need to have the tools, but it's the wrong place to start.
 >
-> **[2:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=149)** Things like spreadsheets, Microsoft Excel or Google Sheets, or a statistical application like SPSS or jamovi, or a programming language like R or Python, they're important because that's how you work with the data.
+> **[2:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=149)** Things like spreadsheets, [[Microsoft Excel]] or [[Google]] Sheets, or a statistical application like SPSS or jamovi, or a programming language like R or [[Python (Programming Language)|Python]], they're important because that's how you work with the data.
 >
 > **[2:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/how-to-develop-data-fluency?u=76281980&t=163)** But focusing on the tools is not sufficient.
 >
@@ -862,7 +853,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), business (5), [[Programming]] (2), [[Deep Learning]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (3), [[Deep Learning]] (1), [[Microsoft Excel]] (1), [[Google]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (2), python (1), find (1)
 > **Analogies:** for example (1), it's like (1)
 > **Env Vars:** spss (1)
@@ -870,8 +861,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data-driven decision-making
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980)
+#### [Data-driven decision-making](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -947,7 +937,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=185)** So for instance, you can download this spreadsheet that I've created.
 >
-> **[3:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=189)** It's just called Decision-Making Spreadsheet.
+> **[3:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=189)** It's just called [[Decision-Making]] Spreadsheet.
 >
 > **[3:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=191)** And all you need to do is write down a few different options, a few different ways that you can make money, or a few different projects that you want to spend time on.
 >
@@ -971,7 +961,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=249)** And I'm going to make a hypothetical decision for somebody who's a physical therapist, and they're trying to consider four different options for working.
 >
-> **[4:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=258)** So I first put in those four options right here, and I say they could be that they join a group practice, or they start their own solo office practice, or they do online training through videos of some kind, or they maybe go work for a company and have a corporate practice.
+> **[4:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=258)** So I first put in those four options right here, and I say they could be that they join a group practice, or they start their own solo [[Microsoft Office|office]] practice, or they do online training through videos of some kind, or they maybe go work for a company and have a corporate practice.
 >
 > **[4:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=276)** And you see that when I put them in here, they fill in down here as well.
 >
@@ -1049,7 +1039,7 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=479)** You can also learn to, say, do more of these.
 >
-> **[8:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=483)** Make more profitable products.
+> **[8:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=483)** Make more profitable [[Microsoft Products|products]].
 >
 > **[8:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=485)** That's like the car companies with the SUV.
 >
@@ -1063,7 +1053,7 @@ created: 2026-05-02
 >
 > **[8:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=510)** And again, it's not difficult.
 >
-> **[8:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=512)** It turns out really that the switch from operating with no data at all to even just a little data, just this one spreadsheet, can have more impact on your business and your time and your wellbeing and your stress levels than the switch from some data to big data.
+> **[8:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=512)** It turns out really that the switch from operating with no data at all to even just a little data, just this one spreadsheet, can have more impact on your business and your time and your wellbeing and your stress levels than the switch from some data to [[Big Data]].
 >
 > **[8:49](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=529)** Going from zero to one is often more important than going from one to 10.
 >
@@ -1075,11 +1065,11 @@ created: 2026-05-02
 >
 > **[9:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=550)** And we'll talk a little bit about modeling associations, things that can be used to predict when somebody's going to like something and when they're going to buy it or how profitable it's going to be.
 >
-> **[9:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=559)** Any one of those can get you started on the basic and most critical elements of data-driven decision making, even with just a simple spreadsheet, even with some quick numbers, to help you find the value, often through very surprising and indirect ways, of reaching the goals that are most important to you.
+> **[9:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-driven-decision-making?u=76281980&t=559)** Any one of those can get you started on the basic and most critical elements of [[Data-driven Decision Making]], even with just a simple spreadsheet, even with some quick numbers, to help you find the value, often through very surprising and indirect ways, of reaching the goals that are most important to you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (4), [[Microsoft Office|Office]] (3), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (3), [[Decision-Making]] (2), [[Microsoft Products|Products]] (2), [[Big Data]] (1), [[Data-driven Decision Making]] (1)
 > **CLI Commands:** make (15), find (1)
 > **Env Vars:** suv (5)
 > **Analogies:** for instance (3), picture (1)
@@ -1088,8 +1078,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### ROI and the 80/20 rule for data fluency
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980)
+#### [ROI and the 80/20 rule for data fluency](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1098,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980&t=38)** So this is a great place to start.
 >
-> **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980&t=40)** But in general, the idea here is when you do an ROI calculation, and it allows you to choose the products or the services or the things you're working on that give you the best ROI.
+> **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980&t=40)** But in general, the idea here is when you do an ROI calculation, and it allows you to choose the [[Microsoft Products|products]] or the services or the things you're working on that give you the best ROI.
 >
 > **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/roi-and-the-80-20-rule-for-data-fluency?u=76281980&t=53)** And it's not difficult to do.
 >
@@ -1209,15 +1198,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6), product (5), data (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (6)
 > **Env Vars:** roi (5)
 > **CLI Commands:** find (2), make (2)
 > **Definitions:** is a  (2), known as (1)
 > **Analogies:** for instance (2), think of it like (1)
 > **Speakers:** - [tutor] (1)
 
-#### Putting data in context
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980)
+#### [Putting data in context](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1297,7 +1285,7 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=178)** And this becomes one element of your decision making process.
 >
-> **[3:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=182)** And it makes me think about something from my hero, John Tukey.
+> **[3:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=182)** And it makes me think about something from my hero, [[John the Ripper|John]] Tukey.
 >
 > **[3:06](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=186)** He's a statistician, the patron Saint of exploratory data analysis and incidentally the man who created the term software and bit in the computer sense and an eminently quotable man.
 >
@@ -1317,7 +1305,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=233)** Number one is the limits of logic.
 >
-> **[3:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=235)** Artificial intelligence has made extraordinary progress in the last few years.
+> **[3:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=235)** [[Artificial Intelligence (AI)|Artificial intelligence]] has made extraordinary progress in the last few years.
 >
 > **[3:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=239)** And part of this is because people realize that they simply couldn't give computers all the rules needed to make decisions.
 >
@@ -1325,7 +1313,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=249)** That is what people tried many decades ago and it quickly got out of hand.
 >
-> **[4:14](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=254)** Instead, the progress in AI comes from deep learning neural networks, a form of machine learning and that succeeds by allowing the algorithms to find their own rules.
+> **[4:14](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=254)** Instead, the progress in AI comes from [[Deep Learning]] [[Neural Networks]], a form of machine learning and that succeeds by allowing the [[Algorithms]] to find their own rules.
 >
 > **[4:24](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=264)** You simply show them for instance a whole bunch of photos and say, this is this person.
 >
@@ -1341,9 +1329,9 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=284)** You got to let go of trying to micromanage everything that the computer does and let it make its own decisions based on its own rules and its observations.
 >
-> **[4:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=293)** Another interesting one from the field of data science has to do with Bayes' Theorem now.
+> **[4:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=293)** Another interesting one from the field of [[Data Science]] has to do with Bayes' Theorem now.
 >
-> **[4:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=298)** So Bayes' Theorem is a method, it's a formula for incorporating prior data or even subjective beliefs into probability calculations.
+> **[4:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=298)** So Bayes' Theorem is a method, it's a formula for incorporating prior data or even subjective beliefs into [[Probability]] calculations.
 >
 > **[5:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=307)** And Bayesian analysis has been responsible for some really amazing developments.
 >
@@ -1359,7 +1347,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=339)** The idea is, you know, don't crush it.
 >
-> **[5:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=341)** When you're doing data work you run the risk of something called overfitting and overfitting is a major risk, a problem in statistical analysis and machine learning.
+> **[5:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=341)** When you're doing data work you run the risk of something called overfitting and overfitting is a major risk, a problem in [[Statistical Analysis]] and machine learning.
 >
 > **[5:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=352)** This is when your analysis is too closely tied to the current data and you're trying to match every tiny little variation in the current dataset.
 >
@@ -1367,7 +1355,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=365)** You're interested in what other people are going to do in the future.
 >
-> **[6:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=369)** And the problem is when you create an analysis that is overfitted, it simply doesn't generalize well to new times, new places, new products, new people.
+> **[6:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=369)** And the problem is when you create an analysis that is overfitted, it simply doesn't generalize well to new times, new places, new [[Microsoft Products|products]], new people.
 >
 > **[6:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/putting-data-in-context?u=76281980&t=379)** And it turns out that loosening your analytical grip creates solutions typically that generalize better to new situations.
 >
@@ -1379,7 +1367,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Engineering]] (3), database (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), ai (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (7), find (1)
 > **Definitions:** is a  (3), is an  (1), means that (1)
 > **Analogies:** for instance (2)
@@ -1388,8 +1376,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data literacy in the age of generative AI and agentic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980)
+#### [Data literacy in the age of generative AI and agentic AI](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1401,7 +1388,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=17)** And while clean working code is still always perpetually vital to conducting your analyses, troubleshooting any problems, and building repeatable processes, It turns out that you don't necessarily have to do all of that detail work by hand, one line at a time.
 >
-> **[0:33](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=33)** Instead, you can rely on some of the progress in generative AI.
+> **[0:33](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=33)** Instead, you can rely on some of the progress in [[Generative AI]].
 >
 > **[0:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=38)** So for instance, generative AI can write verifiable, repeatable code.
 >
@@ -1423,7 +1410,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=92)** You upload the data, you tell it basically what you're looking for, and it'll work.
 >
-> **[1:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=97)** They have, for instance, their own internal Jupyter notebooks that run Python code.
+> **[1:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=97)** They have, for instance, their own internal Jupyter notebooks that run [[Python (Programming Language)|Python]] code.
 >
 > **[1:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-literacy-in-the-age-of-generative-ai-and-agentic-ai?u=76281980&t=102)** And the amazing thing is they can provide downloadable notebooks that you can open in your preferred platform for verification and for repeatability, a key part of any data project.
 >
@@ -1465,7 +1452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (3), [[Troubleshooting]] (2), [[Generative AI]] (2), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** ide (1)
@@ -1477,8 +1464,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data ethics
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
+#### [Data ethics](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,7 +1472,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=11)** You can get some amazing value out of your data, but first you need to learn to treat your data, and the people who gave it to you with respect and give it the care it deserves.
 >
-> **[0:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=22)** These elements of data ethics are the foundation of the practice of data and data fluency that we're talking about.
+> **[0:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=22)** These elements of [[Data Ethics]] are the foundation of the practice of data and data fluency that we're talking about.
 >
 > **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=30)** Now, there are a lot of different reasons for this, and your motivations begin with the really easy ones.
 >
@@ -1502,7 +1488,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=65)** If people don't trust you, they're either not going to give you the information, or they may give you bad information, which is so much worse than no information at all.
 >
-> **[1:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=75)** So by building trust you can get valid data, also you build up good will, and that's important if you're planning on gathering data more than one time in your life.
+> **[1:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=75)** So by [[Building Trust]] you can get valid data, also you build up good will, and that's important if you're planning on gathering data more than one time in your life.
 >
 > **[1:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=85)** If you're ever going to engage with these people again, or if you want other people to engage with them, treat them well and they'll be more likely to share with you in the future.
 >
@@ -1514,7 +1500,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=106)** Number one and biggest for people who work with data is the European Union's General Data Protection regulation or GDPR.
 >
-> **[1:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=115)** Now, this has been effect since 2018 and what this law does is it affects how data can be gathered, what can be done with it, what peoples rights to privacy and their own data are and so on.
+> **[1:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=115)** Now, this has been effect since 2018 and what this law does is it affects how data can be gathered, what can be done with it, what peoples rights to [[Privacy]] and their own data are and so on.
 >
 > **[2:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=127)** And I'll mention that since the UK's departure from the European Union, they've had their own essentially identical law, the UKGDPR since 2021.
 >
@@ -1568,7 +1554,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=351)** Anonymity used to be really easy, if you're giving somebody a paper questionnaire don't put your name on it and that kind of kept it anonymous, but now with a digital age where you are gathering huge amounts of data and you're keeping all of it and you're connecting all of it it's really easy to know who someone is, even when they don't put their names down.
 >
-> **[6:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=370)** For example, if you can get just four observations of a person's location, the latitude and longitude, and the time that they were there, you have a very high probability of knowing exactly who they are.
+> **[6:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=370)** For example, if you can get just four observations of a person's location, the latitude and longitude, and the time that they were there, you have a very high [[Probability]] of knowing exactly who they are.
 >
 > **[6:21](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-ethics?u=76281980&t=381)** And since cell phones track that information by default, you potentially have a very serious threat to anonymity if you don't specifically address it.
 >
@@ -1592,7 +1578,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (36), business (3), [[Privacy]] (3), [[Ethics]] (1), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Data Ethics]] (1), [[Building Trust]] (1), [[Probability]] (1)
 > **Env Vars:** gdpr (4), ukgdpr (1), ccpa (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **Analogies:** for example (3), for instance (1)
@@ -1600,8 +1586,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [narrator] (1)
 
-#### Use in-house data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980)
+#### [Use in-house data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1623,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=41)** All of that's going to make your job of trying to make sense and get some useful insight out of the data a whole lot easier.
 >
-> **[0:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=48)** In addition, it's worth mentioning that different rules for privacy may apply to data that is created and analyzed all internally.
+> **[0:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=48)** In addition, it's worth mentioning that different rules for [[Privacy]] may apply to data that is created and analyzed all internally.
 >
 > **[0:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=58)** Now, if the data was created internally, if the analysis is only going to be used internally, it may be in that case that some of the rules about what information can be used and how it can be used don't apply in quite the same way, because you're staying within the same walls in which it was used.
 >
@@ -1637,7 +1622,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=99)** Now that data can include things like sales and revenue data that you have on your own machines.
 >
-> **[1:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=105)** It might include web analytics and social data.
+> **[1:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=105)** It might include [[Web Analytics]] and social data.
 >
 > **[1:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=108)** How many people have visited your site?
 >
@@ -1663,7 +1648,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=163)** They knew what it was and they didn't document it.
 >
-> **[2:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=166)** And so you don't know what things mean or they didn't archive it well and the metadata's not there with it.
+> **[2:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=166)** And so you don't know what things mean or they didn't archive it well and the [[Metadata]]'s not there with it.
 >
 > **[2:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-in-house-data?u=76281980&t=171)** So that's a possibility, a third potential challenger risk of in-house data is simply to remember that rules still apply.
 >
@@ -1705,15 +1690,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (21), [[Metadata]] (2), [[Privacy]] (1), web (1), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Privacy]] (1), [[Web Analytics]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** pii (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - sometimes (1)
 
-#### Use open data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980)
+#### [Use open data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1721,7 +1705,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=8)** An amazing amount of data's out there, just waiting for you, ready to go and it's what's called open data.
 >
-> **[0:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=15)** Now, the idea with open data is this, it's data that is free, it's easily accessible and it's downloadable in convenient forms like for instance, a CSV or comma separated values which is a common form of spreadsheet data, but also may be ready to go into Python or R or into your SQL database or whatever you have.
+> **[0:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=15)** Now, the idea with open data is this, it's data that is free, it's easily accessible and it's downloadable in convenient [[Forms]] like for instance, a CSV or comma separated values which is a common form of spreadsheet data, but also may be ready to go into [[Python (Programming Language)|Python]] or R or into your [[SQL]] database or whatever you have.
 >
 > **[0:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=35)** It's there and it's ready to go.
 >
@@ -1787,7 +1771,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=228)** And this can be really valuable data for your own analyses.
 >
-> **[3:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=233)** Another source that's really important, and you may be familiar with already is Google Trends where you can put down things like Superbowl and you can see changes in time for that particular term.
+> **[3:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=233)** Another source that's really important, and you may be familiar with already is [[Google]] Trends where you can put down things like Superbowl and you can see changes in time for that particular term.
 >
 > **[4:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=245)** And so, you can come here and you can type in a search term, say for instance, let's do spreadsheet.
 >
@@ -1811,9 +1795,9 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=315)** This is a fabulous source for data that has been aggregated and made available to you for use in your projects.
 >
-> **[5:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=323)** Yahoo provides enormous amounts of financial data.
+> **[5:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=323)** Yahoo provides enormous amounts of [[Financial Data]].
 >
-> **[5:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=327)** So if you want to watch the cryptocurrency crash in real time, you can come right here or at Ripple.
+> **[5:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=327)** So if you want to watch the [[Cryptocurrency]] crash in real time, you can come right here or at Ripple.
 >
 > **[5:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-open-data?u=76281980&t=332)** And you can see how things have changed in the last five years and there, it went way up and there, it went way down and you can download that information.
 >
@@ -1831,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Search]] (5), business (2), [[Google]] (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Forms]] (1), [[Python (Programming Language)|Python]] (1), [[SQL]] (1), [[Financial Data]] (1)
 > **CLI Commands:** make (4), find (2), python (1)
 > **Analogies:** for instance (7)
 > **URLs:** [utah.gov](https://utah.gov) (3), [data.gov](https://data.gov) (1), [un.org](https://un.org) (1)
@@ -1840,8 +1824,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (2)
 > **Definitions:** is a  (2)
 
-#### Gather new data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980)
+#### [Gather new data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1850,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=62)** Also that data needs to be private.
 >
-> **[1:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=65)** You need to maintain their privacy.
+> **[1:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=65)** You need to maintain their [[Privacy]].
 >
 > **[1:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=67)** You don't reveal their secrets.
 >
@@ -1963,7 +1946,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=316)** If you want to do it digitally, which most people do.
 >
-> **[5:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=319)** You can use things like Google Forms or you can use SurveyMonkey or Qualtrics or Typeform.
+> **[5:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=319)** You can use things like [[Google]] [[Forms]] or you can use SurveyMonkey or Qualtrics or Typeform.
 >
 > **[5:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/gather-new-data?u=76281980&t=325)** Any of these would work.
 >
@@ -1997,7 +1980,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Privacy]] (3), express (1), [[Google]] (1), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (3), [[Google]] (1), [[Forms]] (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
@@ -2005,8 +1988,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use third-party data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980)
+#### [Use third-party data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2022,7 +2004,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=45)** And these organizations can even gather new data for you to meet these particular requirements.
 >
-> **[0:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=51)** Now, what happens, however, in the process of this is you get a whole new set of privacy concerns and accountability issues.
+> **[0:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=51)** Now, what happens, however, in the process of this is you get a whole new set of [[Privacy]] concerns and [[Accountability]] issues.
 >
 > **[0:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=58)** It's one thing when you're gathering the data yourself.
 >
@@ -2064,7 +2046,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=167)** And that is that data that does not meet legal requirements can bring serious fines and penalties.
 >
-> **[2:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=173)** We're having the first major test case of the GDPR where Google has been fined $57 million by the French government for violations of certain elements of the GDPR.
+> **[2:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=173)** We're having the first major test case of the GDPR where [[Google]] has been fined $57 million by the French government for violations of certain elements of the GDPR.
 >
 > **[3:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/use-third-party-data?u=76281980&t=184)** Now what's tricky about that is some people are arguing that for a company like Google, those fines need to not be 57 million, but in the billion dollar range.
 >
@@ -2092,7 +2074,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Privacy]] (2), [[Google]] (2), [[Accountability]] (1), game (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Google]] (2), [[Accountability]] (1)
 > **CLI Commands:** find (3), make (3)
 > **Env Vars:** gdpr (3), ccpa (1)
 > **Definitions:** is a  (2), in other words (1)
@@ -2100,8 +2082,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assess the quality of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980)
+#### [Assess the quality of data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2167,7 +2148,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980&t=114)** So, you need to know the exact text.
 >
-> **[1:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980&t=117)** And then there's also the question about labels and metadata.
+> **[1:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980&t=117)** And then there's also the question about labels and [[Metadata]].
 >
 > **[2:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-quality-of-data?u=76281980&t=120)** Do you actually know what all the values in the data mean?
 >
@@ -2221,14 +2202,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), web (1), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (3)
 > **Env Vars:** gigo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assess the generalizability of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-generalizability-of-data?u=76281980)
+#### [Assess the generalizability of data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-generalizability-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2388,7 +2368,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2)
 > **Analogies:** for instance (7), it's like (1), similar to (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (1), means that (1)
@@ -2396,8 +2375,7 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assess the meaning of data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-meaning-of-data?u=76281980)
+#### [Assess the meaning of data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-meaning-of-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2493,14 +2471,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Definitions:** is a  (3), defined as (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Assess the ambiguities in data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980)
+#### [Assess the ambiguities in data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2564,7 +2540,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980&t=165)** And, of course, there are other ambiguities, and confusions in language.
 >
-> **[2:49](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980&t=169)** Say, for instance, you're working in data science and you're building a machine learning model to process the text that people have in their social media posts.
+> **[2:49](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980&t=169)** Say, for instance, you're working in [[Data Science]] and you're building a machine learning model to process the text that people have in their social media posts.
 >
 > **[2:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/assess-the-ambiguities-in-data?u=76281980&t=177)** Well, machine learning models applied to natural language like that have trouble with things that people understand pretty well.
 >
@@ -2594,7 +2570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), next (1), prompt (1)
+> **Frameworks & Libraries:** [[Data Science]] (1)
 > **CLI Commands:** make (5)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -2604,16 +2580,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Sort data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
+#### [Sort data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=0)** - [Instructor] In order to start getting value out of data, one of the best things you can do is put your data into the rows and columns of a simple spreadsheet.
 >
-> **[0:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=8)** And here I have some data in a Google Sheet spreadsheet.
+> **[0:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=8)** And here I have some data in a [[Google]] Sheet spreadsheet.
 >
-> **[0:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=12)** I also have it available in Microsoft Excel.
+> **[0:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=12)** I also have it available in [[Microsoft Excel]].
 >
 > **[0:14](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sort-data?u=76281980&t=14)** If you want the Google Sheets version, it's available to access, at j.mp\yoga-studio-data.
 >
@@ -2743,15 +2718,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), [[Google]] (4), [[Microsoft Excel]] (2)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Excel]] (2)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (2)
 > **UI Navigation:** dropdown (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter data
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980)
+#### [Filter data](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2759,7 +2733,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980&t=7)** And in a spreadsheet that means to select, to see particular cases and temporarily exclude those others.
 >
-> **[0:14](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980&t=14)** It works slightly differently in Google Sheets and in Microsoft Excel.
+> **[0:14](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980&t=14)** It works slightly differently in [[Google]] Sheets and in [[Microsoft Excel]].
 >
 > **[0:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/filter-data?u=76281980&t=18)** And so I encourage you to go get a little bit of training on either of those.
 >
@@ -2831,7 +2805,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Google]] (3), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Excel]] (1)
 > **UI Navigation:** click on (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -2839,8 +2813,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [narrator] (1)
 
-#### Combine and split categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980)
+#### [Combine and split categories](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2856,7 +2829,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980&t=25)** And I want to show you how this works.
 >
-> **[0:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980&t=27)** So for example, here are some real data that comes from Google trends about the relative popularity of the search term "Yoga Studio" across the US in the year 2020.
+> **[0:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980&t=27)** So for example, here are some real data that comes from [[Google]] trends about the relative popularity of the search term "Yoga Studio" across the US in the year 2020.
 >
 > **[0:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/combine-and-split-categories?u=76281980&t=41)** And what it shows you is how popular that term is as a search term in that state compared to the other ones that they did.
 >
@@ -2988,19 +2961,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Search]] (3), [[Google]] (1), functional (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **CLI Commands:** make (4), find (2)
 > **Analogies:** for instance (3), kind of like (1), for example (1), it's like (1)
 > **Best Practices:** general rule (1), rule of thumb (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Code text
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980)
+#### [Code text](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=0)** - [Instructor] One of the rules of thumb in the data world is that data preparation typically accounts for 80% of the time in the data project, you got to spend a lot of time to get it ready before you can do the analysis, and one of the important parts of getting data prepared is taking text open-ended responses, that's things like tweets and social media posts, and open-ended questions, and putting it into a format that's going to be easy to analyze for the computer, and normally that means turning it into numbers.
+> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=0)** - [Instructor] One of the rules of thumb in the data world is that [[Data Preparation]] typically accounts for 80% of the time in the data project, you got to spend a lot of time to get it ready before you can do the analysis, and one of the important parts of getting data prepared is taking text open-ended responses, that's things like tweets and social media posts, and open-ended questions, and putting it into a format that's going to be easy to analyze for the computer, and normally that means turning it into numbers.
 >
 > **[0:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=34)** So we're going to take text and turn it to numbers.
 >
@@ -3118,7 +3090,7 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=452)** Now, this one's a little more advanced.
 >
-> **[7:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=454)** If you're going to be doing what's called linear regression, you use the indicator variables, let's say you have five different categories that you're worried about.
+> **[7:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=454)** If you're going to be doing what's called [[Linear Regression]], you use the indicator variables, let's say you have five different categories that you're worried about.
 >
 > **[7:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=464)** Then you have five variables, k indicator variables, so five of them, to model an outcome.
 >
@@ -3128,7 +3100,7 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=495)** Let me show you how this actually works.
 >
-> **[8:17](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=497)** I've done a little tiny sample of this in Excel.
+> **[8:17](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=497)** I've done a little tiny sample of this in [[Microsoft Excel|Excel]].
 >
 > **[8:20](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/code-text?u=76281980&t=500)** What we have here is coding some text, where we ask seven people about what sorts of things they like about their job, we're getting a little feedback on their work.
 >
@@ -3154,15 +3126,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Microsoft Excel|Excel]] (4), [[Programming]] (2), next (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Data Preparation]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Analogies:** for instance (4)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate sums and means
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-sums-and-means?u=76281980)
+#### [Calculate sums and means](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-sums-and-means?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3300,15 +3271,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for instance (1), picture (1)
 > **Best Practices:** general rule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980)
+#### [Calculate rates](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3408,7 +3377,7 @@ created: 2026-05-02
 >
 > **[4:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980&t=244)** That's amazing.
 >
-> **[4:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980&t=245)** And again, it's important to keep in this rate, how many dollars do you earn for each dollar that you invest, and compare that to a movie like "John Carter," which earned over $180 million, which will make you think it's a huge success, but it costs $300 million to make.
+> **[4:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980&t=245)** And again, it's important to keep in this rate, how many dollars do you earn for each dollar that you invest, and compare that to a movie like "[[John the Ripper|John]] Carter," which earned over $180 million, which will make you think it's a huge success, but it costs $300 million to make.
 >
 > **[4:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-rates?u=76281980&t=263)** So it was a massive loss.
 >
@@ -3434,7 +3403,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), game (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **CLI Commands:** make (6), find (2)
 > **Env Vars:** roi (4)
 > **Versions:** 7.7 (1), 7.8 (1), 7.76 (1)
@@ -3442,8 +3411,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate ratios
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980)
+#### [Calculate ratios](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3457,7 +3425,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=41)** Now we've talked about one in another video and that's called the Pareto principle or the 80/20 Rule.
 >
-> **[0:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=47)** And the idea here is you have a ratio, 80% of your output that sales or revenues or headaches, comes from 20% of your input, that could be accounts or products or customers.
+> **[0:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=47)** And the idea here is you have a ratio, 80% of your output that sales or revenues or headaches, comes from 20% of your input, that could be accounts or [[Microsoft Products|products]] or customers.
 >
 > **[0:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=58)** And so the 80/20 is giving you the idea of the ratio between the output and the input.
 >
@@ -3491,7 +3459,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=127)** There's another 70:20:10 and that's for innovation.
 >
-> **[2:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=130)** This one actually originally is traced to Google where they said we need to spend 70% of the time on our core business.
+> **[2:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=130)** This one actually originally is traced to [[Google]] where they said we need to spend 70% of the time on our core business.
 >
 > **[2:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/calculate-ratios?u=76281980&t=138)** And then we need to spend 20% on related projects, things that are similar to our core business but a little off to the side.
 >
@@ -3521,7 +3489,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Products|Products]] (1), [[Google]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Google]] (1)
 > **Ports:** :20 (4), :10 (4)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** for instance (1), think of it as (1), similar to (1)
@@ -3530,8 +3498,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (2)
 > **Cross-References:** we talked about (1)
 
-#### Adjust ratios in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980)
+#### [Adjust ratios in practice](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3573,7 +3540,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980&t=92)** That can help you find the ideal balance between different things.
 >
-> **[1:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980&t=97)** You can do this in Excel using what's called the solver, but it's a little more advanced than we need for right now.
+> **[1:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980&t=97)** You can do this in [[Microsoft Excel|Excel]] using what's called the solver, but it's a little more advanced than we need for right now.
 >
 > **[1:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/adjust-ratios-in-practice?u=76281980&t=102)** I want you to know that it exists.
 >
@@ -3611,15 +3578,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), data (2), [[Programming]] (1), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (5), make (3)
 > **Env Vars:** roi (2)
 > **Analogies:** for instance (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-assisted data preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980)
+#### [AI-assisted data preparation](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3633,7 +3599,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=30)** Now, the nice thing about that is that AI is now in a position that it can help.
 >
-> **[0:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=37)** So generative AI can, for instance, read your data and can guide you in what you need to do.
+> **[0:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=37)** So [[Generative AI]] can, for instance, read your data and can guide you in what you need to do.
 >
 > **[0:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=44)** agentic AI can actually make the changes for you.
 >
@@ -3643,13 +3609,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=55)** It makes sense and you haven't done any damage.
 >
-> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=57)** But if you do that carefully, think of a good supervisor, then you can save a lot of time potentially in your data preparation work.
+> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=57)** But if you do that carefully, think of a good supervisor, then you can save a lot of time potentially in your [[Data Preparation]] work.
 >
 > **[1:06](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=66)** Now there are a few different ways you can do this.
 >
 > **[1:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=68)** Many programs have integrated AI.
 >
-> **[1:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=72)** So for instance, spreadsheets like Microsoft Excel or Google Sheets have AI built right in that can coach you on things.
+> **[1:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=72)** So for instance, spreadsheets like [[Microsoft Excel]] or [[Google]] Sheets have AI built right in that can coach you on things.
 >
 > **[1:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=79)** IDEs, integrated development environments also often have AI that is there to help you write the code.
 >
@@ -3659,9 +3625,9 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=94)** On the other hand, you can use any AI program and get instructions.
 >
-> **[1:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=99)** If you're using an application with a GUI, a graphical user interface like SPSS, or if you're doing it by hand in Excel, go step by step in terms of what you need to do.
+> **[1:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=99)** If you're using an application with a GUI, a graphical user interface like SPSS, or if you're doing it by hand in [[Microsoft Excel|Excel]], go step by step in terms of what you need to do.
 >
-> **[1:50](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=110)** It can even instruct you how to do it on a Texas Instruments TI-83 calculator if you need to, or if you're using a language like Python or R, it can create code that you can copy and paste into your environment.
+> **[1:50](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=110)** It can even instruct you how to do it on a Texas Instruments TI-83 calculator if you need to, or if you're using a language like [[Python (Programming Language)|Python]] or R, it can create code that you can copy and paste into your environment.
 >
 > **[2:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-preparation?u=76281980&t=123)** Then of course, in terms of agency, agentic AI can clean data for you.
 >
@@ -3699,7 +3665,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), ai (9), [[Python (Programming Language)|Python]] (3), [[Generative AI]] (1), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (3), [[Generative AI]] (1), [[Data Preparation]] (1), [[Microsoft Excel]] (1), [[Google]] (1)
 > **CLI Commands:** make (3), python (3)
 > **Env Vars:** gui (1), spss (1)
 > **Analogies:** for instance (2)
@@ -3711,8 +3677,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Visual primacy: The importance of starting with pictures
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
+#### [Visual primacy: The importance of starting with pictures](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3724,11 +3689,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=30)** And to give this a little historical context, let's take a look at one of the most influential graphics in the history of epidemiology, or the study of the causes and spreads of diseases.
 >
-> **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=40)** This map, which is a section of London, was created by the English physician John Snow to help solve the cholera epidemic in London in 1854.
+> **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=40)** This map, which is a section of London, was created by the English physician [[John the Ripper|John]] Snow to help solve the cholera epidemic in London in 1854.
 >
 > **[0:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=52)** What each of these squares show is where a case of cholera was diagnosed.
 >
-> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=57)** Now, if we zoom in a little bit, you'll see a whole bunch of squares here.
+> **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=57)** Now, if we [[Zoom]] in a little bit, you'll see a whole bunch of squares here.
 >
 > **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=62)** There's a significant concentration of cases of cholera right here on Broad Street.
 >
@@ -3774,7 +3739,7 @@ created: 2026-05-02
 >
 > **[3:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=199)** And this is important, because very different data sets, that's data sets with very different numbers and patterns in them can have identical summaries.
 >
-> **[3:28](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=208)** And those differences, well, you may not be able to see them when you're looking at summary statistics become abundantly clear when you use a visualization.
+> **[3:28](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=208)** And those differences, well, you may not be able to see them when you're looking at summary [[Statistics]] become abundantly clear when you use a visualization.
 >
 > **[3:37](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=217)** And to show you how that works, I'm going to share with you Anscombe's quartet, which is a set of four data collections.
 >
@@ -3856,7 +3821,7 @@ created: 2026-05-02
 >
 > **[7:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=443)** And we'll talk about how to interpret the results of that, and especially how to apply them how to get something actionable and useful out of the data that you got in that very, very basic chart.
 >
-> **[7:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=454)** And remember, as you go through all of this, the AI can help agentic and generative AI can help you choose charts that best match your goals and your data.
+> **[7:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=454)** And remember, as you go through all of this, the AI can help agentic and [[Generative AI]] can help you choose charts that best match your goals and your data.
 >
 > **[7:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/visual-primacy-the-importance-of-starting-with-pictures-31645337?u=76281980&t=466)** And they can help with the settings, sometimes simply knowing how to adjust the colors or the labels or the axes can be really difficult.
 >
@@ -3868,19 +3833,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (23), next (2), ai (2), [[Zoom]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (2), [[Zoom]] (1), [[Statistics]] (1), [[Generative AI]] (1)
 > **Definitions:** is a  (4)
 > **Analogies:** picture (2), imagine (1)
 > **CLI Commands:** find (1), make (1)
 
-#### Bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980)
+#### [Bar charts](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=0)** - [Instructor] The goal for bar charts is easy, to make a simple visualization that tells you how many observations fall into a category, or how much of some value for those same category.
 >
-> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=11)** And in terms of the variables you work with, you might look at something like the number of new clients versus returning clients, or the number of views for each of your products, or the profitability you have for each service, or contacts per customer, number of complaints, requests for new products or services, how many times you travel to the warehouse, or anything else that can be counted or measured and can be broken down by a group.
+> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=11)** And in terms of the variables you work with, you might look at something like the number of new clients versus returning clients, or the number of views for each of your [[Microsoft Products|products]], or the profitability you have for each service, or contacts per customer, number of complaints, requests for new products or services, how many times you travel to the warehouse, or anything else that can be counted or measured and can be broken down by a group.
 >
 > **[0:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=36)** Now when you're showing the actual data, you have the option of showing frequencies, that's how many observations there are in that particular category.
 >
@@ -3892,7 +3856,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=55)** You can also show sums, or a total like the total expenditure per client.
 >
-> **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=62)** Or you can get an average, the average number of views per item in your e-commerce store.
+> **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=62)** Or you can get an average, the average number of views per item in your [[E-Commerce]] store.
 >
 > **[1:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=68)** Any of these would work beautifully with a very simple bar chart.
 >
@@ -3900,7 +3864,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=79)** Now in terms of how to actually make a bar chart, you've got a few different choices.
 >
-> **[1:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=83)** Number one is a spreadsheet, something like Microsoft Excel or Google Sheets.
+> **[1:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=83)** Number one is a spreadsheet, something like [[Microsoft Excel]] or [[Google]] Sheets.
 >
 > **[1:28](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=88)** You usually need to put the data into a summary table.
 >
@@ -3908,13 +3872,13 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=98)** Sometimes you can do it with the raw data and it will aggregate it for you, but lose some control in the process.
 >
-> **[1:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=106)** You can also use presentation software something like Microsoft PowerPoint, or Apple Keynote, or Google Slides.
+> **[1:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=106)** You can also use presentation software something like [[Microsoft PowerPoint]], or Apple Keynote, or Google Slides.
 >
 > **[1:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=113)** This allows you to actually have a lot more visual control because you can manipulate individual items and also allows for the possibility of animations, especially with something like Keynote's magic move animation or Microsoft PowerPoint's morph.
 >
 > **[2:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=128)** And then finally you always have the option of doing things with code.
 >
-> **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=132)** You can get really a complete ultimate level of control by working from scratch in a language like Python, or R, or D3.js, or processing and p5.js which is a version of processing.
+> **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=132)** You can get really a complete ultimate level of control by working from scratch in a language like [[Python (Programming Language)|Python]], or R, or [[D3.js]], or processing and p5.js which is a version of processing.
 >
 > **[2:28](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=148)** If you want to take the time to write lines of code, you can make it do exactly what you want.
 >
@@ -3954,7 +3918,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=225)** Pinterest isn't far behind.
 >
-> **[3:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=227)** LinkedIn and Medium in this example are on the low end which normally wouldn't be surprising given that they are specialized audiences, they have long format, or they cater to a particular group.
+> **[3:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=227)** [[LinkedIn]] and Medium in this example are on the low end which normally wouldn't be surprising given that they are specialized audiences, they have long format, or they cater to a particular group.
 >
 > **[3:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/bar-charts?u=76281980&t=239)** So that's not too surprising, but let's say we want to try to draw attention to one of these in particular, let's say, Pinterest.
 >
@@ -4028,7 +3992,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Products|Products]] (2), [[Google]] (2), [[Microsoft PowerPoint]] (2), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Google]] (2), [[Microsoft PowerPoint]] (2), [[E-Commerce]] (1), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Definitions:** is a  (4)
 > **File Paths:** d3.js (1), p5.js (1)
@@ -4037,8 +4001,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Grouped bar charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980)
+#### [Grouped bar charts](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4148,7 +4111,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=329)** So we're going to make it so the one with the most blue is on the left, and now we have it over here.
 >
-> **[5:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=335)** Now you may recall from our earlier one, LinkedIn, in my fictional data, accounted for a small percentage of the total number of interactions.
+> **[5:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=335)** Now you may recall from our earlier one, [[LinkedIn]], in my fictional data, accounted for a small percentage of the total number of interactions.
 >
 > **[5:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=344)** But when you're looking at the proportion of subscribers, there's a very significant effect here.
 >
@@ -4156,7 +4119,7 @@ created: 2026-05-02
 >
 > **[5:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=352)** And when you look at it this way, you may want to focus on that first bar and make a little bit of commentary.
 >
-> **[5:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=358)** Now, in this case, I'm just deleting all the rest of them so we can focus on the first one that we've got room for the commentary.
+> **[5:58](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=358)** Now, in this case, I'm just deleting all the [[Representational State Transfer (REST)|rest]] of them so we can focus on the first one that we've got room for the commentary.
 >
 > **[6:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/grouped-bar-charts?u=76281980&t=363)** And here I say, LinkedIn was the only platform where subscribers accounted for the majority of visits, 71%, in this case.
 >
@@ -4168,14 +4131,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[LinkedIn]] (2), product (1), next (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Analogies:** for example (3), for instance (2), similar to (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pie charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980)
+#### [Pie charts](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4203,7 +4165,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=69)** And so sometimes it just clicks better for people.
 >
-> **[1:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=73)** Also, an interesting thing is that circular displays and rotary controls are often very good user experience, good design.
+> **[1:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=73)** Also, an interesting thing is that circular displays and rotary controls are often very good [[User Experience (UX)|user experience]], good design.
 >
 > **[1:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=82)** This is an electronic music controller used by DJs.
 >
@@ -4247,7 +4209,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=181)** I highlight one category.
 >
-> **[3:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=183)** I put all the rest in gray and then right there in the middle I'll say Facebook is 32% of total subscribers.
+> **[3:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=183)** I put all the [[Representational State Transfer (REST)|rest]] in gray and then right there in the middle I'll say Facebook is 32% of total subscribers.
 >
 > **[3:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=189)** Now it reads like a gauge and that's really easy to read.
 >
@@ -4313,7 +4275,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=323)** Pie charts, you have to be able to read angles and you have to be able to read the area of segments of a circle.
 >
-> **[5:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=330)** Those are operations from trigonometry and calculus.
+> **[5:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=330)** Those are operations from trigonometry and [[Calculus]].
 >
 > **[5:34](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/pie-charts?u=76281980&t=334)** But a bar chart, all you have to do is judge linear length and comparisons.
 >
@@ -4371,7 +4333,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Calculus]] (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is an  (1), is a  (1)
 > **Best Practices:** general rule (2)
@@ -4379,8 +4341,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dot plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980)
+#### [Dot plots](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4394,7 +4355,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=29)** So things like time or distance or height or number of orders or any one of those things that you can measure quantitatively.
 >
-> **[0:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=39)** A few examples of this might include things like, for instance, the number of contacts you have in your customer relations management software, or the price of a product or a service that you offer, the distance of a commute you have to work or your employees as a whole, or things like improvement in well-being, which be measured on a 1 to 7 or a 0 to 10 scale, or the amount of time that a person is able to spend with family and with friends.
+> **[0:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=39)** A few examples of this might include things like, for instance, the number of contacts you have in your [[Customer Relations]] management software, or the price of a product or a service that you offer, the distance of a commute you have to work or your employees as a whole, or things like improvement in well-being, which be measured on a 1 to 7 or a 0 to 10 scale, or the amount of time that a person is able to spend with family and with friends.
 >
 > **[1:06](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=66)** Any one of those is a quantitative variable where you're measuring more or less of something, and you can get a dot plot for it.
 >
@@ -4410,7 +4371,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=93)** You're also going to be looking for symmetry.
 >
-> **[1:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=96)** Most procedures that you use in statistics like it when your data's symmetrical and most of it's in the middle and it tapers off to the left and the right, so that's going to be an important thing.
+> **[1:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=96)** Most procedures that you use in [[Statistics]] like it when your data's symmetrical and most of it's in the middle and it tapers off to the left and the right, so that's going to be an important thing.
 >
 > **[1:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/dot-plots?u=76281980&t=106)** And then even more important is, do you have outliers?
 >
@@ -4496,14 +4457,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Customer Relations]] (1), management (1), product (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Customer Relations]] (1), [[Statistics]] (1)
 > **Definitions:** is a  (2), is an  (1), means that (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Box plots
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980)
+#### [Box plots](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4533,7 +4493,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980&t=68)** You can look for those kinds of outliers.
 >
-> **[1:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980&t=70)** And then finally, by looking for outliers, or these unusual cases, you can look for new possibilities, things that you hadn't considered before, but because now it's right there and it's obviously separated from the rest you can give it the attention it deserves and see what kind of value you can get out of that.
+> **[1:10](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980&t=70)** And then finally, by looking for outliers, or these unusual cases, you can look for new possibilities, things that you hadn't considered before, but because now it's right there and it's obviously separated from the [[Representational State Transfer (REST)|rest]] you can give it the attention it deserves and see what kind of value you can get out of that.
 >
 > **[1:26](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/box-plots?u=76281980&t=86)** Now, I want to show you how this works when we start with a dot plot.
 >
@@ -4655,15 +4615,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Representational State Transfer (REST)|Rest]] (1), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is a  (3), means that (1)
 > **CLI Commands:** make (2)
 > **Versions:** 2.5 (1), 7.5 (1)
 > **Env Vars:** isp (1)
 > **Speakers:** - [instructor] (1)
 
-#### Histograms
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/histograms?u=76281980)
+#### [Histograms](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/histograms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4761,15 +4720,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), business (1)
 > **Definitions:** is a  (7)
 > **Analogies:** for instance (1), think of it as (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - [instructor] (1)
 
-#### Line charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980)
+#### [Line charts](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4925,7 +4882,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=372)** I do want to mention some advanced options that I personally did in the statistical programming language R.
 >
-> **[6:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=379)** You can do them in Python or other languages and programs as well.
+> **[6:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=379)** You can do them in [[Python (Programming Language)|Python]] or other languages and programs as well.
 >
 > **[6:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=382)** But I want to take some time series data here.
 >
@@ -4971,19 +4928,18 @@ created: 2026-05-02
 >
 > **[8:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=484)** But the idea here is it's a line graph.
 >
-> **[8:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=487)** And we're still trying to look at the line graph and to get the insight into what's happening in our organization, and the ways that we can use that to improve the function and the operations of our organization, and improve the services and the products that we provide to our clients.
+> **[8:07](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/line-charts?u=76281980&t=487)** And we're still trying to look at the line graph and to get the insight into what's happening in our organization, and the ways that we can use that to improve the function and the operations of our organization, and improve the services and the [[Microsoft Products|products]] that we provide to our clients.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Programming]] (2), [[Python (Programming Language)|Python]] (2), business (1), application (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Microsoft Products|Products]] (1)
 > **Analogies:** for instance (3), for example (1), picture (1)
 > **CLI Commands:** python (2), make (1), find (1)
 > **Definitions:** is a  (3)
 > **Env Vars:** sas (1)
 > **Speakers:** - if (1)
 
-#### Sparklines
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980)
+#### [Sparklines](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5025,9 +4981,9 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=99)** And if you want to modify it, so for instance, here on the bottom-right, I have one that's in red, and it's a little bit thicker, and if you look in the formula line, I simply give it a couple of different arguments.
 >
-> **[1:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=111)** Now this particular sparkline is producing Google Sheets, which allows you to specify arguments this way.
+> **[1:51](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=111)** Now this particular sparkline is producing [[Google]] Sheets, which allows you to specify arguments this way.
 >
-> **[1:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=116)** Microsoft Excel does it a little bit differently, where you click on 'em and it brings up a dialogue box.
+> **[1:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=116)** [[Microsoft Excel]] does it a little bit differently, where you click on 'em and it brings up a dialogue box.
 >
 > **[2:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=121)** But the general concept is the same.
 >
@@ -5079,7 +5035,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=211)** I usually call it a repeat chart, an REPT chart.
 >
-> **[3:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=215)** And the reason for that is it uses a formula, and it works exactly the same in Google Sheets and in Excel where the formula is REPT, for repeat.
+> **[3:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=215)** And the reason for that is it uses a formula, and it works exactly the same in Google Sheets and in [[Microsoft Excel|Excel]] where the formula is REPT, for repeat.
 >
 > **[3:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sparklines?u=76281980&t=224)** And you simply need to tell it what it is you want to repeat.
 >
@@ -5107,15 +5063,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Google]] (3), next (2), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Google]] (3), [[Microsoft Excel]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (3)
 > **Env Vars:** rept (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scatterplots
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980)
+#### [Scatterplots](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5123,13 +5078,13 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=6)** But the real magic is knowing what they're going to do next so you can be there waiting for them when they show up.
 >
-> **[0:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=13)** And that gets us to the field of predictive analytics.
+> **[0:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=13)** And that gets us to the field of [[Predictive Analytics]].
 >
 > **[0:17](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=17)** Now, this is data-driven predictions about likely events, responses and outcomes.
 >
-> **[0:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=22)** And it's a major part of high end data science where very sophisticated techniques are used on enormous data sets.
+> **[0:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=22)** And it's a major part of high end [[Data Science]] where very sophisticated techniques are used on enormous data sets.
 >
-> **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=30)** But the thing to know is that even the fancy approaches of predictive analytics all begin with something as simple as a scatterplot and linear regression.
+> **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=30)** But the thing to know is that even the fancy approaches of predictive analytics all begin with something as simple as a scatterplot and [[Linear Regression]].
 >
 > **[0:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=42)** Let's take a look at how this works.
 >
@@ -5155,7 +5110,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=109)** So be cautious as you do this.
 >
-> **[1:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=112)** The other thing is that even when you're trying to do something like predictive modeling or even prescriptive analytics, your data is always correlational.
+> **[1:52](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=112)** The other thing is that even when you're trying to do something like [[Predictive Modeling]] or even prescriptive analytics, your data is always correlational.
 >
 > **[2:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/scatterplots?u=76281980&t=121)** Like every other analysis in the world, it is inherently and inescapably correlational.
 >
@@ -5285,14 +5240,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Predictive Analytics]] (3), business (1), next (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Data Science]] (1), [[Linear Regression]] (1), [[Predictive Modeling]] (1)
 > **Definitions:** is a  (5), means that (1), is called (1)
 > **Analogies:** for instance (4), for example (1), it's like (1), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [narrator] (1)
 
-#### Data maps
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980)
+#### [Data maps](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5310,9 +5264,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=39)** How much of something by a region.
 >
-> **[0:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=42)** And so for instance, here's one that I made in Google Sheets.
+> **[0:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=42)** And so for instance, here's one that I made in [[Google]] Sheets.
 >
-> **[0:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=46)** And personally, I find these maps are a little easier to make in Google Sheets than they are in Excel, but there are a lot of other options as well.
+> **[0:46](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=46)** And personally, I find these maps are a little easier to make in Google Sheets than they are in [[Microsoft Excel|Excel]], but there are a lot of other options as well.
 >
 > **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=53)** But this is a choropleth map of searches across the U.S. in the year 2020 for the term, Yoga Studio.
 >
@@ -5350,11 +5304,11 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=176)** Making a map, getting this kind of picture, is a very quick and very easy way of getting some of these really obvious insights, like the extreme concentration of schools in the South, by looking at the popularity of things across the entire country.
 >
-> **[3:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=191)** By looking at how many people are searching for your website, how many people are buying your products, how many people you're engaging with, in a state-by-state or a country-by-country basis by simply making a map, a choropleth, that shows data values by regions, can be a great way to get started on that.
+> **[3:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/data-maps?u=76281980&t=191)** By looking at how many people are searching for your website, how many people are buying your [[Microsoft Products|products]], how many people you're engaging with, in a state-by-state or a country-by-country basis by simply making a map, a choropleth, that shows data values by regions, can be a great way to get started on that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Google]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Google]] (4), [[Microsoft Excel|Excel]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for instance (2), picture (1)
@@ -5365,8 +5319,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Numerical descriptions
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
+#### [Numerical descriptions](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/numerical-descriptions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5392,18 +5345,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Describe measures of center
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980)
+#### [Describe measures of center](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980&t=0)** - [Instructor] A skilled chef can take a 25-ounce bottle of wine, and through the process of reduction, turn it into four ounces of its purest essence for a sauce.
 >
-> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980&t=11)** With data analysis, one of the most important things you can do is to take a large collection of numbers and reduce that collection to its essence by finding a single number that best represents all the rest of them.
+> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980&t=11)** With data analysis, one of the most important things you can do is to take a large collection of numbers and reduce that collection to its essence by finding a single number that best represents all the [[Representational State Transfer (REST)|rest]] of them.
 >
 > **[0:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-measures-of-center?u=76281980&t=25)** And most often, that single number is a measure of the center of the distribution.
 >
@@ -5591,7 +5542,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Representational State Transfer (REST)|Rest]] (1), strengths (1), generic (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (3), make (1), dnf (1)
 > **Definitions:** is a  (3), means that (1)
 > **Versions:** 3.75 (2), 3.5 (1)
@@ -5599,8 +5550,7 @@ created: 2026-05-02
 > **Env Vars:** apa (1), dnf (1)
 > **Speakers:** - [instructor] (1)
 
-#### Describe variability with the range and IQR
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-range-and-iqr?u=76281980)
+#### [Describe variability with the range and IQR](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-range-and-iqr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5698,7 +5648,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (1)
 > **CLI Commands:** find (7)
 > **Env Vars:** iqr (7)
 > **Versions:** 1.5 (2), 5.5 (2), 3.5 (1)
@@ -5706,15 +5655,15 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1), go to (1)
 > **Cross-References:** go back to (1)
 > **Analogies:** similar to (1)
+> **Speakers:** - if (1)
 
-#### Describe variability with the variance and standard deviation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980)
+#### [Describe variability with the variance and standard deviation](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980&t=0)** - [Instructor] The range and the IQR are wonderful measures for figuring out the boundaries of what you're dealing with, and finding the particularly valuable central area of your data set.
 >
-> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980&t=11)** But really the most common measures of variability in statistics are the variance and the standard deviation.
+> **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980&t=11)** But really the most common measures of variability in [[Statistics]] are the variance and the standard deviation.
 >
 > **[0:18](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-variability-with-the-variance-and-standard-deviation?u=76281980&t=18)** Now, these are so closely related, they're often treated as one, and actually it's not just these two, there are different versions of these for whether you're dealing with a sample or a population of scores.
 >
@@ -5788,7 +5737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1)
 > **CLI Commands:** make (5)
 > **Versions:** 9.09 (1), 3.02 (1), 7.03 (1), 1.76 (1), 8.93 (1)
 > **Env Vars:** iqr (1), apa (1)
@@ -5797,8 +5746,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rescale data with z-scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/rescale-data-with-z-scores?u=76281980)
+#### [Rescale data with z-scores](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/rescale-data-with-z-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5868,7 +5816,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** make (5), find (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (3)
@@ -5877,8 +5824,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [narrator] (1)
 
-#### Interpret z-scores
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/interpret-z-scores?u=76281980)
+#### [Interpret z-scores](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/interpret-z-scores?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5998,8 +5944,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Describe group differences with effect sizes
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980)
+#### [Describe group differences with effect sizes](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6015,7 +5960,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980&t=39)** Now, to show you how this works, let me give you an example.
 >
-> **[0:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980&t=43)** This is some real data from the US Bureau of Labor Statistics that was gathered in 2019 and 2020 about annual spending on entertainment.
+> **[0:43](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980&t=43)** This is some real data from the US Bureau of Labor [[Statistics]] that was gathered in 2019 and 2020 about annual spending on entertainment.
 >
 > **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-group-differences-with-effect-sizes?u=76281980&t=53)** Now, the Bureau of Labor Statistics, like many other groups, splits the United States into four general regions, Northeast, Midwest, South and West.
 >
@@ -6093,7 +6038,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Statistics]] (3), product (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (3)
 > **CLI Commands:** make (4), find (1)
 > **Versions:** 1.25 (1), 5.5 (1), 4.6 (1), 0.57 (1), 0.2 (1)
 > **Definitions:** is a  (3), stands for (1), is called (1)
@@ -6101,14 +6046,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Predict scores with regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980)
+#### [Predict scores with regression](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=0)** - [Instructor] If you're working in the business world and the ability to predict what's going to happen is an amazing thing.
 >
-> **[0:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=5)** And it's contributed to the success and the development of predictive analytics where prediction isn't of crystal ball.
+> **[0:05](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=5)** And it's contributed to the success and the development of [[Predictive Analytics]] where prediction isn't of crystal ball.
 >
 > **[0:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=13)** We're trying to use existing data to make a reasonable estimate about new data.
 >
@@ -6164,7 +6108,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=155)** There's a lot of options.
 >
-> **[2:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=156)** But the straight line, the linear regression is the most concise representation of the association between the two variables.
+> **[2:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=156)** But the straight line, the [[Linear Regression]] is the most concise representation of the association between the two variables.
 >
 > **[2:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/predict-scores-with-regression?u=76281980&t=165)** And so let's go back to this for just a minute.
 >
@@ -6280,7 +6224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), business (2), [[Predictive Analytics]] (1), [[Linear Regression]] (1), hit (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (1), [[Linear Regression]] (1)
 > **Versions:** 1.75 (3), 60.7 (3), 200.7 (1)
 > **CLI Commands:** make (6)
 > **Analogies:** for instance (3), it's like (1)
@@ -6289,8 +6233,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Describe associations with correlations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980)
+#### [Describe associations with correlations](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6366,7 +6309,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980&t=218)** But I do want to mention that what you're dealing with here is actually the average cross product of standardized scores.
 >
-> **[3:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980&t=225)** So, if you have two variables and you convert everybody's score in each variable to a z-score, that tells you how many standard deviations above or below the mean they are, you get z-scores on both of those for everybody, you multiply those two z-scores that's called a cross product, and then you average those cross products that gives you the correlation coefficient.
+> **[3:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980&t=225)** So, if you have two variables and you convert everybody's score in each variable to a z-score, that tells you how many standard deviations above or below the mean they are, you get z-scores on both of those for everybody, you multiply those two z-scores that's called a cross product, and then you average those cross [[Microsoft Products|products]] that gives you the correlation coefficient.
 >
 > **[4:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/describe-associations-with-correlations?u=76281980&t=244)** And a few things to know about the correlation coefficient.
 >
@@ -6392,15 +6335,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), product (3), next (2), application (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Versions:** 0.25 (3), 1.0 (2), 0.515 (1), 0.75 (1), 0.00 (1)
 > **Definitions:** is a  (5)
 > **CLI Commands:** make (3)
 > **Cross-References:** earlier in (1), in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Effect size for correlation and regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/effect-size-for-correlation-and-regression?u=76281980)
+#### [Effect size for correlation and regression](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/effect-size-for-correlation-and-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6482,7 +6424,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), parallel (1), business (1)
 > **Versions:** 0.3 (2), 0.1 (2), 0.6 (1), 0.515 (1), 0.32 (1)
 > **Env Vars:** pve (2)
 > **Analogies:** for instance (2)
@@ -6490,14 +6431,13 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980)
+#### [Exploring tables](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=0)** - [Instructor] When you take the rows and columns of a spreadsheet, you can put them into tables, which again have rows and columns, but in a summary format that makes it easier to understand the patterns that are going on.
 >
-> **[0:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=12)** For this example, I'm going to use the yoga studio data that we've used before, which you can access in Google Sheets at j.mp\yoga-studio-data, or you can open up the Microsoft Excel version that's available in our files.
+> **[0:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=12)** For this example, I'm going to use the yoga studio data that we've used before, which you can access in [[Google]] Sheets at j.mp\yoga-studio-data, or you can open up the [[Microsoft Excel]] version that's available in our files.
 >
 > **[0:30](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=30)** I'm going to take this and make it just a little bit larger for right now.
 >
@@ -6519,7 +6459,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=76)** It's an easy way to organize the data and to get the summary values.
 >
-> **[1:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=79)** And again, whichever spreadsheet program you're using, I encourage to get a course that talks a little bit more about the creation of the pivot tables.
+> **[1:19](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=79)** And again, whichever spreadsheet program you're using, I encourage to get a course that talks a little bit more about the creation of the [[Pivot Tables]].
 >
 > **[1:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/exploring-tables?u=76281980&t=87)** My purpose here is not to show you how to make them, but how to interpret tables.
 >
@@ -6641,7 +6581,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Google]] (2), [[Microsoft Excel]] (2), [[Pivot Tables]] (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Excel]] (2), [[Pivot Tables]] (1)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for example (3), for instance (2)
 > **Versions:** 17.2 (1), 15.2 (1), 40.8 (1), 19.4 (1)
@@ -6649,12 +6589,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI-assisted data exploration and modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-exploration-and-modeling?u=76281980)
+#### [AI-assisted data exploration and modeling](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-exploration-and-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-exploration-and-modeling?u=76281980&t=0)** When it comes to the actual calculations involved in data work, that is the algorithms for exploring and modeling data, you have a potentially bewildering range of choices available to you.
+> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-exploration-and-modeling?u=76281980&t=0)** When it comes to the actual calculations involved in data work, that is the [[Algorithms]] for exploring and modeling data, you have a potentially bewildering range of choices available to you.
 >
 > **[0:11](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-assisted-data-exploration-and-modeling?u=76281980&t=11)** Now, when it comes to choosing things, it may be that you rely on things like familiarity.
 >
@@ -6692,7 +6631,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (3), [[Algorithms]] (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Warnings:** troubleshoot (1), be aware (1)
 > **Env Vars:** gui (1)
 
@@ -6701,8 +6640,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Basic probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
+#### [Basic probability](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6714,7 +6652,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=15)** That can include things like trying to come up with sales projections for the next quarter or trying to figure out whether your intended routine is going to have the desired health effects, or even if you're on a movie studio, trying to figure out whether a movie is likely to be a hit or a flop.
 >
-> **[0:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=32)** All of these are hard to do, but basic probability gives us a method for getting to these.
+> **[0:32](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=32)** All of these are hard to do, but basic [[Probability]] gives us a method for getting to these.
 >
 > **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=40)** It has to do with the same kind of logic that goes behind flipping a coin and determining the likelihood of a heads or a tails.
 >
@@ -6846,7 +6784,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=389)** There are a few things, however, that complicate this, and that is sometimes you don't have complete information about the population.
 >
-> **[6:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=396)** And you just only know that people who have come into your store, you're not able to compare them against the whole population, or you've only been keeping track of some of the data and not the rest.
+> **[6:36](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=396)** And you just only know that people who have come into your store, you're not able to compare them against the whole population, or you've only been keeping track of some of the data and not the [[Representational State Transfer (REST)|rest]].
 >
 > **[6:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/basic-probability?u=76281980&t=408)** It makes it impossible to estimate with any accuracy of probability, if you don't even know what your denominator is, if you don't know what the scores are in your sample space.
 >
@@ -6864,7 +6802,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (28), data (4), business (3), next (1), hit (1)
+> **Frameworks & Libraries:** [[Probability]] (28), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Versions:** 37.5 (2), 0.25 (1), 0.375 (1)
 > **Code Identifiers:** na (2), ns (1)
@@ -6873,12 +6811,11 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [narrator] (1)
 
-#### Conditional probability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/conditional-probability?u=76281980)
+#### [Conditional probability](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/conditional-probability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/conditional-probability?u=76281980&t=0)** - [Instructor] When it comes to probability, you're not always starting from scratch.
+> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/conditional-probability?u=76281980&t=0)** - [Instructor] When it comes to [[Probability]], you're not always starting from scratch.
 >
 > **[0:04](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/conditional-probability?u=76281980&t=4)** Sometimes, you already have something, a piece of information that gets you part way there.
 >
@@ -6980,15 +6917,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (24), business (7), hit (1), data (1)
+> **Frameworks & Libraries:** [[Probability]] (24)
 > **Analogies:** for instance (3), picture (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Expected values
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980)
+#### [Expected values](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7014,9 +6950,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=53)** If you're going to put it in some sort of other utility measure or new customers or happiness involved, that's great, but you need the same metric all the way through.
 >
-> **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=62)** And then you estimate the probability of each of these outcomes, and then you multiply the value of each outcome by its probability.
+> **[1:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=62)** And then you estimate the [[Probability]] of each of these outcomes, and then you multiply the value of each outcome by its probability.
 >
-> **[1:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=73)** And then finally, you sum those values, the products, for a single expected value of that decision.
+> **[1:13](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=73)** And then finally, you sum those values, the [[Microsoft Products|products]], for a single expected value of that decision.
 >
 > **[1:20](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/expected-values?u=76281980&t=80)** And then you can compare that to other decisions where you've done the same process, and see which one of them has the highest expected value.
 >
@@ -7136,7 +7072,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (10), business (3), data (3), [[Microsoft Products|Products]] (1), career (1)
+> **Frameworks & Libraries:** [[Probability]] (10), [[Microsoft Products|Products]] (1)
 > **Versions:** 0.01 (3), 0.90 (3), 0.09 (2), 0.08 (2), 0.9 (1)
 > **CLI Commands:** make (5), find (1)
 > **Cross-References:** earlier in (1)
@@ -7145,8 +7081,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Sampling variation
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980)
+#### [Sampling variation](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7178,11 +7113,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=48)** So you always have the same number of things in the bowl or the hat that you're drawing from.
 >
-> **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=53)** This makes the math much simpler and it forms the basis of a lot of inferential methods.
+> **[0:53](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=53)** This makes the math much simpler and it [[Forms]] the basis of a lot of inferential methods.
 >
 > **[1:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=60)** But let me show you.
 >
-> **[1:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=61)** I did a simple random sampling simulation using a computer program, and this is what I came up with.
+> **[1:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=61)** I did a simple random sampling [[Simulation]] using a computer program, and this is what I came up with.
 >
 > **[1:09](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=69)** We get a blue square, a blue circle, a blue square, a blue circle, a blue square, a blue circle a blue square and an orange circle.
 >
@@ -7260,7 +7195,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=260)** And so, you may have a really good month one month but understanding that because it randomly varies it might be lower next month for no reason other than the random variation.
 >
-> **[4:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=271)** Similarly, you may sell products that are very similar and appeal to the same people but sometimes you'll sell more of one and sometimes you'll sell more of the other.
+> **[4:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=271)** Similarly, you may sell [[Microsoft Products|products]] that are very similar and appeal to the same people but sometimes you'll sell more of one and sometimes you'll sell more of the other.
 >
 > **[4:41](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/sampling-variation?u=76281980&t=281)** Again, it's because of the random repeated process that goes on here.
 >
@@ -7276,14 +7211,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), business (2), next (2), product (2), [[Forms]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Simulation]] (1), [[Microsoft Products|Products]] (1)
 > **Versions:** 62.5 (2), 54.2 (1)
 > **Analogies:** for instance (2), imagine (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
-#### Inference as describing populations
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980)
+#### [Inference as describing populations](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7315,7 +7249,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=102)** And then finally, is the general concept of inference when you're using sample data to infer something about the population, hat is you're trying to make a reasonable or educated guess about where it came from and really how you can best interact with that larger group.
 >
-> **[1:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=119)** This gets us to the general topic of inferential statistics.
+> **[1:59](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=119)** This gets us to the general topic of inferential [[Statistics]].
 >
 > **[2:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=123)** And that's beyond my goals in this particular course but I want you to know that this other field exists.
 >
@@ -7325,11 +7259,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=142)** This is used to compare the means of two different groups.
 >
-> **[2:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=145)** So for instance, if you've ever done AB testing in web design, where you vary some element on your webpage to see how it affects performance you actually have used a program that has conducted a T test underneath the data to see if one of these groups was performing significantly better than the other.
+> **[2:25](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=145)** So for instance, if you've ever done AB testing in [[Web Design]], where you vary some element on your webpage to see how it affects performance you actually have used a program that has conducted a T test underneath the data to see if one of these groups was performing significantly better than the other.
 >
 > **[2:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=164)** Another common procedure is correlation and regression.
 >
-> **[2:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=167)** Now those in and of themselves are descriptive procedures but they are very often accompanied by probability estimates that let you know whether the correlation coefficient or the regression or the regression weights are significantly different from zero.
+> **[2:47](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=167)** Now those in and of themselves are descriptive procedures but they are very often accompanied by [[Probability]] estimates that let you know whether the correlation coefficient or the regression or the regression weights are significantly different from zero.
 >
 > **[3:02](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/inference-as-describing-populations?u=76281980&t=182)** So it is accompanied with inference, or if you have tabular data where you're counting the frequencies or how many people fall into different rows and columns of a table, you might do a chi-squared test for independence or the test for goodness of fit or the test for independence.
 >
@@ -7359,7 +7293,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Statistics]] (2), [[Probability]] (2), web (1), next (1)
+> **Frameworks & Libraries:** [[Statistics]] (2), [[Probability]] (2), [[Web Design]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** picture (2), for instance (1)
 > **Env Vars:** anova (1)
@@ -7367,8 +7301,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### AI as an additional source of analytical variability
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980)
+#### [AI as an additional source of analytical variability](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -7384,7 +7317,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=40)** If you're doing machine learning, it's a common procedure to partition the data, say for instance, into training and testing sets.
 >
-> **[0:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=48)** If you're doing a random forest where you're computing many, many different decision trees, there is randomness in terms of how you split the data up into different forests, how you compose those branches in each one.
+> **[0:48](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=48)** If you're doing a random forest where you're computing many, many different [[Decision Trees]], there is randomness in terms of how you split the data up into different forests, how you [[Jetpack Compose|compose]] those branches in each one.
 >
 > **[1:01](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=61)** There's a lot of randomness inherent in that particular algorithm.
 >
@@ -7418,7 +7351,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=158)** Now, the challenge here is that as far as I know, AI doesn't let you set a random seed.
 >
-> **[2:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=164)** You can set a random seed within the code so that if you're generating Python code, it'll execute it the same way.
+> **[2:44](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=164)** You can set a random seed within the code so that if you're generating [[Python (Programming Language)|Python]] code, it'll execute it the same way.
 >
 > **[2:50](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/ai-as-an-additional-source-of-analytical-variability?u=76281980&t=170)** But exactly whether it writes the code the same way from one to another is gonna be a different issue.
 >
@@ -7460,7 +7393,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), data (8), application (2), [[Decision Trees]] (1), [[Jetpack Compose|Compose]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1), [[Jetpack Compose|Compose]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** make (4), python (1)
 > **Analogies:** for instance (3)
 > **Exercise Files:** download the (1)
@@ -7474,12 +7407,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps and additional resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)
+#### [Next steps and additional resources](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=0)** - [Instructor] So the single most important thing to know when working with data and just data literacy in general is to know, what are your questions?
+> **[0:00](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=0)** - [Instructor] So the single most important thing to know when working with data and just [[Data Literacy]] in general is to know, what are your questions?
 >
 > **[0:06](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=6)** What exactly is it that you're trying to find out?
 >
@@ -7493,23 +7425,23 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=29)** So for instance, let's think about spreadsheets.
 >
-> **[0:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=31)** Microsoft Excel and Google Sheets are going to be the most common choices, and a little bit of facility, rephrase.
+> **[0:31](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=31)** [[Microsoft Excel]] and [[Google]] Sheets are going to be the most common choices, and a little bit of facility, rephrase.
 >
 > **[0:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=38)** and a little bit of facility with either of those programs is going to go a very long way in helping you get insights.
 >
-> **[0:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=45)** The second is applications, and by that, I mean programs like Tableau or Qlik, which are primarily for visualization, or SPSS or jamovi, which are for statistical analysis.
+> **[0:45](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=45)** The second is applications, and by that, I mean programs like [[Tableau]] or Qlik, which are primarily for visualization, or SPSS or jamovi, which are for [[Statistical Analysis]].
 >
 > **[0:57](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=57)** Those will help you answer questions that cannot be easily answered in spreadsheets.
 >
 > **[1:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=63)** And then finally, if you have applications or needs that go beyond that, then you can go to languages that are developed for working with data.
 >
-> **[1:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=72)** and usually, that means R or Python or SAS.
+> **[1:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=72)** and usually, that means R or [[Python (Programming Language)|Python]] or SAS.
 >
 > **[1:16](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=76)** There are a few other choices, but the general idea here is to start with the simplest tools, spreadsheets, and then only when things get more difficult to do in a spreadsheet, go to an application.
 >
 > **[1:27](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=87)** and only when things get difficult to do there, go to a language, 'cause remember, the focus is not on the tools, the focus is on the question that you're trying to answer.
 >
-> **[1:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=98)** The next thing is. you probably want to get a little more familiarity with some of the principles of analysis, things like analytics or visualization or statistical principles, or even data science.
+> **[1:38](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=98)** The next thing is. you probably want to get a little more familiarity with some of the principles of analysis, things like analytics or visualization or statistical principles, or even [[Data Science]].
 >
 > **[1:49](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=109)** We have courses available on all of these that you can use to expand your own learning.
 >
@@ -7517,7 +7449,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=123)** Write the central question on a sticky note, stick it on the corner of your computer, and make sure that everything you do helps to answer that question.
 >
-> **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=132)** In data literacy, this means making sure that your data processing, your visualizations, and your numerical summaries all get you closer to where you want to be.
+> **[2:12](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=132)** In data literacy, this means making sure that your [[Data Processing]], your visualizations, and your numerical summaries all get you closer to where you want to be.
 >
 > **[2:23](https://www.linkedin.com/learning/data-literacy-exploring-and-describing-data-in-an-ai-world/next-steps-and-additional-resources-23444787?u=76281980&t=143)** Also, you'll want to focus on, for instance, any measurable attribute for prediction, so if you only are trying to predict what's going to happen, you can throw anything you have in there.
 >
@@ -7537,7 +7469,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Analytics]] (2), [[Microsoft Excel]] (1), [[Google]] (1), [[Tableau]] (1)
+> **Frameworks & Libraries:** [[Data Literacy]] (3), [[Microsoft Excel]] (1), [[Google]] (1), [[Tableau]] (1), [[Statistical Analysis]] (1)
 > **CLI Commands:** find (1), python (1), make (1)
 > **Env Vars:** spss (1), sas (1), roi (1)
 > **UI Navigation:** go to (3)

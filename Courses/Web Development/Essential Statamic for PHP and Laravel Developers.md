@@ -89,12 +89,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
+#### [Introduction to Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=0)** - [Narrator] Statamic is a flat-file, Laravel and Git-powered CMS designed for building beautiful, easy to manage websites. It's built on Laravel, one of the most popular PHP frameworks, which makes it a great choice for Laravel developers and a great alternative to WordPress.
+> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=0)** - [Narrator] Statamic is a flat-file, [[Laravel]] and [[Git]]-powered CMS designed for building beautiful, easy to manage websites. It's built on Laravel, one of the most popular [[PHP]] frameworks, which makes it a great choice for Laravel developers and a great alternative to [[WordPress]].
 >
 > **[0:18](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=18)** Statamic has access to the entire Laravel ecosystem, allowing developers to build almost anything they want.
 >
@@ -106,7 +105,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=44)** And I'm excited to share my knowledge with you.
 >
-> **[0:47](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=47)** By joining me in this LinkedIn learning course, you will discover the essentials of Statamic.
+> **[0:47](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=47)** By joining me in this [[LinkedIn]] learning course, you will discover the essentials of Statamic.
 >
 > **[0:53](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-statamic?u=76281980&t=53)** How to install it, create users, how to choose and install one of many starter kits.
 >
@@ -118,7 +117,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (6), [[Git]] (1), cms (1), [[PHP]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (6), [[Git]] (1), [[PHP]] (1), [[WordPress]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** git (1), php (1)
 > **Env Vars:** cms (1), php (1)
 > **Prerequisites:** install (2)
@@ -130,14 +129,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Statamic?
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
+#### [What is Statamic?](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=0)** - Statemic is a flat file CMS built with PHP on top of Laravel, a popular PHP framework, but what does this mean?
+> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=0)** - Statemic is a flat file CMS built with [[PHP]] on top of [[Laravel]], a popular PHP framework, but what does this mean?
 >
-> **[0:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=10)** You may be familiar with content management systems also known as CMSs, which are software used to manage, create and modify digital content.
+> **[0:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=10)** You may be familiar with [[Content Management Systems (CMS)|content management systems]] also known as CMSs, which are software used to manage, create and modify digital content.
 >
 > **[0:20](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=20)** Using a user-friendly control panel.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=81)** This makes flat file CMS more performance than other CMS that uses database.
 >
-> **[1:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=87)** It also makes it more secure, and possible to version control, which brings an additional benefit when it comes to backups and collaboration with other developers.
+> **[1:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=87)** It also makes it more secure, and possible to [[Version Control]], which brings an additional benefit when it comes to backups and collaboration with other developers.
 >
 > **[1:36](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/what-is-statamic?u=76281980&t=96)** Statemic is a well known flat file CMS, and it is built on top of Laravel.
 >
@@ -167,7 +165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cms (8), [[Laravel]] (4), [[PHP]] (2), database (2), [[Content Management Systems (CMS)|Content management systems]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (4), [[PHP]] (2), [[Content Management Systems (CMS)|Content management systems]] (1), [[Version Control]] (1)
 > **Env Vars:** cms (8), php (2)
 > **Definitions:** is a  (6), means that (2), known as (1)
 > **CLI Commands:** php (2)
@@ -175,12 +173,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - statemic (1)
 
-#### Statamic vs. WordPress vs. Jigsaw SSG
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980)
+#### [Statamic vs. WordPress vs. Jigsaw SSG](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=0)** - [Instructor] Now that you have a good idea about what Statamic is, let's compare it to another well-known CMS, WordPress.
+> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=0)** - [Instructor] Now that you have a good idea about what Statamic is, let's compare it to another well-known CMS, [[WordPress]].
 >
 > **[0:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=8)** WordPress powers around 40% of websites.
 >
@@ -202,11 +199,11 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=53)** WordPress needs a database to store its content in.
 >
-> **[0:56](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=56)** And it uses PHP to store, and retrieve data from the database.
+> **[0:56](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=56)** And it uses [[PHP]] to store, and retrieve data from the database.
 >
 > **[1:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=60)** Database is an essential part of WordPress, without it, there would be no contents.
 >
-> **[1:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=65)** However, databases come with potential issues.
+> **[1:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=65)** However, [[Databases]] come with potential issues.
 >
 > **[1:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=68)** They need to be backed up on a regular basis, and it is via database that most websites are hacked.
 >
@@ -232,17 +229,17 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=120)** And that's by using a Static Site Generator, also known as SSG.
 >
-> **[2:06](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=126)** There are tons of different Static Site Generators, and you may have heard about Hugo, Jekyll, Gatsby, or Next.js.
+> **[2:06](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=126)** There are tons of different Static Site Generators, and you may have heard about Hugo, Jekyll, Gatsby, or [[Next.js]].
 >
-> **[2:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=133)** Static Site Generator that takes your website, and generate static HTML pages.
+> **[2:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=133)** Static Site Generator that takes your website, and generate static [[HTML]] pages.
 >
 > **[2:19](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=139)** There is no database, but in general, there is no control panel either.
 >
 > **[2:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=144)** You might need to use a third party service.
 >
-> **[2:28](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=148)** Jigsaw is a PHP-based Static Site Generator developed by Titan, that uses Laravel Blade's templating engine to structure content in reusable layouts, and partials.
+> **[2:28](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=148)** [[Jigsaw]] is a PHP-based Static Site Generator developed by Titan, that uses [[Laravel]] Blade's templating engine to structure content in reusable layouts, and partials.
 >
-> **[2:40](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=160)** The benefit of using Jigsaw, is that you can easily host your website for free using services such as GitHub pages, or Netlify.
+> **[2:40](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=160)** The benefit of using Jigsaw, is that you can easily host your website for free using services such as [[GitHub]] pages, or Netlify.
 >
 > **[2:49](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-vs-wordpress-vs-jigsaw-ssg?u=76281980&t=169)** However, with no native control panel, it is not as straightforward.
 >
@@ -258,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (8), database (7), [[PHP]] (2), [[Jigsaw]] (2), cms (1)
+> **Frameworks & Libraries:** [[WordPress]] (8), [[PHP]] (2), [[Jigsaw]] (2), [[Databases]] (1), [[Next.js]] (1)
 > **Env Vars:** php (2), cms (1), ssg (1), html (1)
 > **Definitions:** is a  (2), is an  (1), known as (1)
 > **CLI Commands:** php (2)
@@ -267,16 +264,15 @@ created: 2026-05-02
 > **File Paths:** next.js (1)
 > **Versions:** version 3 (1)
 
-#### Statamic as a standalone web app vs. as a Laravel package
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980)
+#### [Statamic as a standalone web app vs. as a Laravel package](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=0)** - [Instructor] There are two ways to install your Statamic application.
 >
-> **[0:03](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=3)** You can install it as a stand-alone project or as a package into an existing Laravel application.
+> **[0:03](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=3)** You can install it as a stand-alone project or as a package into an existing [[Laravel]] application.
 >
-> **[0:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=10)** On its own, Statamic is a very flexible content management system, that can be used to be used to go out and manage any type of bespoke websites.
+> **[0:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=10)** On its own, Statamic is a very flexible [[Content Management]] system, that can be used to be used to go out and manage any type of bespoke websites.
 >
 > **[0:19](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-a-standalone-web-app-vs-as-a-laravel-package?u=76281980&t=19)** It comes with many features and add-ons, so that you can build just about anything out of the box.
 >
@@ -296,7 +292,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (8), application (3), [[Content Management]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (8), [[Content Management]] (1)
 > **CLI Commands:** find (2), composer (1)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
@@ -309,8 +305,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing Statamic as a standalone project
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
+#### [Installing Statamic as a standalone project](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -322,7 +317,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=13)** I will assume you have your local development environment ready too.
 >
-> **[0:16](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=16)** In my case, I'm using Laravel Valet, but you can use any other local PHP development environment you prefer.
+> **[0:16](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=16)** In my case, I'm using [[Laravel]] Valet, but you can use any other local [[PHP]] development environment you prefer.
 >
 > **[0:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=24)** In this course, I'll be showing you how use Statamic as a standalone app and how to use it as a Laravel package.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=45)** Once you have Composer installed, there are a few different ways you can install Statamic.
 >
-> **[0:50](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=50)** The preferred method is to use the Statamic CLI installer.
+> **[0:50](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=50)** The preferred method is to use the Statamic [[CLI]] installer.
 >
 > **[0:54](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-standalone-project?u=76281980&t=54)** You will need to install it by running composer global require statamic/cli in the terminal.
 >
@@ -400,7 +395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (4), [[CLI]] (3), cd (2), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Laravel]] (4), [[CLI]] (3), [[PHP]] (1)
 > **CLI Commands:** composer (7), find (2), cd (2), php (1), rm (1)
 > **Prerequisites:** install (8), you'll need (1), set up (1)
 > **Tools:** terminal (5), command prompt (1)
@@ -409,12 +404,11 @@ created: 2026-05-02
 > **URLs:** [getcomposer.org](https://getcomposer.org) (1)
 > **Cross-References:** in the next (1)
 
-#### Installing Statamic as a Laravel package
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980)
+#### [Installing Statamic as a Laravel package](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=0)** - Let's move on to installing Statamic as a Laravel package.
+> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=0)** - Let's move on to installing Statamic as a [[Laravel]] package.
 >
 > **[0:04](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=4)** I will first install a brand-new Laravel project and I will call it Statamic in Laravel, by running laravel new statamic-in-laravel in my terminal.
 >
@@ -430,9 +424,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=39)** In order to install statamic, we will need to open this project in an integrated development environment, an IDE.
 >
-> **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=45)** I am using PHP storm, but feel free to use any IDE you prefer.
+> **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=45)** I am using [[PHP]] storm, but feel free to use any IDE you prefer.
 >
-> **[0:51](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=51)** Let's open the composer.json file.
+> **[0:51](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=51)** Let's open the composer.[[JSON]] file.
 >
 > **[0:55](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/installing-statamic-as-a-laravel-package?u=76281980&t=55)** In here, we need to add some code to the post-autoload-dump section of the file.
 >
@@ -458,7 +452,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (13), [[PHP]] (3), application (1), [[JSON]] (1), cd (1)
+> **Frameworks & Libraries:** [[Laravel]] (13), [[PHP]] (3), [[JSON]] (1)
 > **CLI Commands:** php (3), composer (2), find (1), cd (1), cp (1)
 > **Prerequisites:** install (4), set up (1)
 > **Env Vars:** ide (2), php (2)
@@ -467,8 +461,7 @@ created: 2026-05-02
 > **Tools:** terminal (2)
 > **File Paths:** composer.json (1)
 
-#### Statamic starter kits
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980)
+#### [Statamic starter kits](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -496,7 +489,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980&t=73)** For example, the Simple Commerce kits.
 >
-> **[1:17](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980&t=77)** This is a great starting place for simple e-commerce sites.
+> **[1:17](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980&t=77)** This is a great starting place for simple [[E-Commerce]] sites.
 >
 > **[1:21](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-starter-kits?u=76281980&t=81)** These are its features and installation instructions.
 >
@@ -514,7 +507,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** front-end (1), css (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Analogies:** for example (3)
 > **Prerequisites:** install (3)
 > **Definitions:** is a  (2)
@@ -523,8 +516,7 @@ created: 2026-05-02
 > **Cross-References:** previous video (1)
 > **Tools:** terminal (1)
 
-#### Creating a user in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980)
+#### [Creating a user in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,7 +536,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=30)** YAML is a Human-Readable Data-Serialization Language that's Statamic uses for configuration files.
 >
-> **[0:36](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=36)** I'm going to open my project in PHP store and look inside the user's directory.
+> **[0:36](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=36)** I'm going to open my project in [[PHP]] store and look inside the user's directory.
 >
 > **[0:42](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=42)** And here it is, a YAML file with my user information.
 >
@@ -562,7 +554,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=75)** PHP please is the way we run various commands in Statamic.
 >
-> **[1:19](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=79)** Similar to PHP are to send in Laravel.
+> **[1:19](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=79)** Similar to PHP are to send in [[Laravel]].
 >
 > **[1:22](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/creating-a-user-in-statamic?u=76281980&t=82)** Statamic will take you through the questions again, and once you answered them all, the user is created.
 >
@@ -580,7 +572,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (4), [[Laravel]] (4), database (2), data (1), next (1)
+> **Frameworks & Libraries:** [[PHP]] (4), [[Laravel]] (4)
 > **Env Vars:** php (4), yaml (3)
 > **CLI Commands:** php (4), cp (1), make (1)
 > **Prerequisites:** set up (3), install (1)
@@ -589,8 +581,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** similar to (1)
 
-#### Statamic control panel
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980)
+#### [Statamic control panel](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -622,7 +613,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=73)** In the content section, you will find collections.
 >
-> **[1:17](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=77)** A collection is a custom post type, something you might be familiar with if you ever worked with WordPress.
+> **[1:17](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=77)** A collection is a custom post type, something you might be familiar with if you ever worked with [[WordPress]].
 >
 > **[1:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=84)** Because we´re using a Starter kit, we already have some collections created.
 >
@@ -666,7 +657,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=221)** Fieldsets can be added to any blueprints, we will also look into fieldsets in more detail later on.
 >
-> **[3:49](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=229)** In the tools section on the side bar, we have forms, updates, addons and utilities.
+> **[3:49](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=229)** In the tools section on the side bar, we have [[Forms]], updates, addons and utilities.
 >
 > **[3:56](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=236)** Forms is where you create all forms you need on your website, you can create as many forms as you need.
 >
@@ -676,13 +667,13 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=264)** Finally, the utility section.
 >
-> **[4:28](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=268)** This is a section of the shortcuts to some of the most used actions, for example, clearing various caches, information about licensing, and easy ways to check up your PHP configuration, and more.
+> **[4:28](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=268)** This is a section of the shortcuts to some of the most used actions, for example, clearing various caches, information about licensing, and easy ways to check up your [[PHP]] configuration, and more.
 >
 > **[4:41](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-control-panel?u=76281980&t=281)** Now that you have a good idea about what the dashboard panel looks like, let´s move on to the views.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Forms]] (4), [[WordPress]] (2), web (1), next (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[Forms]] (4), [[WordPress]] (2), [[PHP]] (1)
 > **CLI Commands:** find (3), cp (1), make (1), php (1)
 > **Analogies:** for example (3), such as (2), similar to (1)
 > **Definitions:** is a  (3), in other words (1)
@@ -691,14 +682,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Cross-References:** go back to (1)
 
-#### Adding and styling content in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980)
+#### [Adding and styling content in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=0)** - [Instructor] Now that we have a good understanding of how to use the control panel, let's have a look at the views.
 >
-> **[0:06](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=6)** Views are files that contain the HTML that will be rendered and served by the front end of the website.
+> **[0:06](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=6)** Views are files that contain the [[HTML]] that will be rendered and served by the front end of the website.
 >
 > **[0:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=13)** Statamic views can be rendered by either the antlers or the blade's templating engine.
 >
@@ -784,7 +774,7 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=230)** This is why the content is plain.
 >
-> **[3:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=232)** Before we do anything to do with CSS, we must run NPM install to install all JavaScript dependencies that this starter kit needs.
+> **[3:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=232)** Before we do anything to do with CSS, we must run [[npm]] install to install all [[JavaScript]] dependencies that this starter kit needs.
 >
 > **[4:01](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/adding-and-styling-content-in-statamic?u=76281980&t=241)** And then NPN run watch to watch for any changes.
 >
@@ -834,7 +824,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), css (4), [[npm]] (3), [[JavaScript]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (4), [[npm]] (3), [[JavaScript]] (2)
 > **Env Vars:** css (4), html (3), npm (3), url (1), npn (1)
 > **UI Navigation:** click on (5), go to (1), open the (1)
 > **Exercise Files:** template (7)
@@ -843,8 +833,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1), go back to (1)
 > **File Paths:** antlers.html (1)
 
-#### Challenge: Creating a new Statamic project
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-new-statamic-project?u=76281980)
+#### [Challenge: Creating a new Statamic project](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-new-statamic-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,7 +865,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **CLI Commands:** find (1)
 > **URLs:** [statamic.com](https://statamic.com) (1)
 > **Cross-References:** in the next (1)
@@ -884,8 +872,7 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Creating a new Statamic project
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980)
+#### [Solution: Creating a new Statamic project](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -929,11 +916,11 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=95)** Okay. Next, I need to go to the template file in my ID to change the background of the content area.
 >
-> **[1:41](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=101)** But before I do that, I need to run NPM install and NPM run watch to watch for the CSS changes.
+> **[1:41](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=101)** But before I do that, I need to run [[npm]] install and NPM run watch to watch for the CSS changes.
 >
 > **[1:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=112)** If you forget to do this, your new background color will not show.
 >
-> **[1:55](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=115)** Now that it's done, I'll go to PHP storm and add a div around the content variable inside the default template file.
+> **[1:55](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=115)** Now that it's done, I'll go to [[PHP]] storm and add a div around the content variable inside the default template file.
 >
 > **[2:11](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-new-statamic-project?u=76281980&t=131)** I'll also add the tailwind classes of bg-blue 200 and P20 to the div.
 >
@@ -955,7 +942,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[npm]] (2), css (1), [[PHP]] (1)
+> **Frameworks & Libraries:** [[npm]] (2), [[PHP]] (1)
 > **UI Navigation:** go to (5), click on (2)
 > **Env Vars:** npm (2), css (1), php (1), p20 (1), url (1)
 > **CLI Commands:** npm (2), make (1), php (1)
@@ -969,8 +956,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### File structure in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
+#### [File structure in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,13 +966,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=23)** Let's have a look at Statamic's file structure.
 >
-> **[0:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=27)** This dot-github director is where we can store github-related files to your project, such as the contributing.MD file, the content of MD file, or any files related to running github actions.
+> **[0:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=27)** This dot-[[GitHub]] director is where we can store github-related files to your project, such as the contributing.MD file, the content of MD file, or any files related to running github actions.
 >
 > **[0:41](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=41)** This starter kit came with the funding door Yama file, which displays a sponsor button and a github repository.
 >
 > **[0:47](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=47)** This github director is not specific to Statamic.
 >
-> **[0:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=52)** Many of the following directories, you might already be familiar with if you ever worked in a Laravel project. The app directory, the bootstrap directory and the config database, public resources, route storage tests and vendor directories.
+> **[0:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=52)** Many of the following directories, you might already be familiar with if you ever worked in a [[Laravel]] project. The app directory, the bootstrap directory and the config database, public resources, route storage tests and vendor directories.
 >
 > **[1:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=69)** We are not going to go into any detail of what these directories contain, but if you want to learn more, visit the official Laravel documentation.
 >
@@ -1000,7 +986,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=122)** We have the title, the ID, and the template the page is using. Let's create a new page called test.MD.
 >
-> **[2:14](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=134)** To save time, I'll simply copy the front-matter section of the homepage and paste it in. The front matter is the section of the markdown file that contains all necessary metadata for this page.
+> **[2:14](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=134)** To save time, I'll simply copy the front-matter section of the homepage and paste it in. The front matter is the section of the markdown file that contains all necessary [[Metadata]] for this page.
 >
 > **[2:26](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/file-structure-in-statamic?u=76281980&t=146)** Let's delete the ID because this is specific to the homepage and it will be auto-populated later.
 >
@@ -1034,7 +1020,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), [[Laravel]] (2), database (1), [[Metadata]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Laravel]] (2), [[Metadata]] (1)
 > **Tools:** github (5)
 > **File Paths:** contributing.md (1), home.md (1), test.md (1)
 > **CLI Commands:** find (1)
@@ -1043,8 +1029,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Blueprints, fieldtypes, and fieldsets in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980)
+#### [Blueprints, fieldtypes, and fieldsets in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1052,7 +1037,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980&t=7)** What this means is that by using a blueprint, you get to define fields each of your continent will have.
 >
-> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980&t=12)** You might be already familiar with it, if you've ever worked with WordPress advanced custom fields.
+> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980&t=12)** You might be already familiar with it, if you've ever worked with [[WordPress]] advanced custom fields.
 >
 > **[0:18](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/blueprints-fieldtypes-and-fieldsets-in-statamic?u=76281980&t=18)** For example, the blueprint for a blog might be a title, an excerpt, a body, and an author.
 >
@@ -1180,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), [[WordPress]] (1), next (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **UI Navigation:** click on (9), go to (1), in the sidebar (1), open the (1)
 > **Analogies:** for example (4), such as (2)
 > **CLI Commands:** make (1), find (1)
@@ -1189,8 +1174,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Assets in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980)
+#### [Assets in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1202,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980&t=13)** Each asset is stored inside a container.
 >
-> **[0:15](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980&t=15)** This container can have its own settings, permissions and blueprint, and it can live either on your local server or on any cloud storage.
+> **[0:15](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980&t=15)** This container can have its own settings, permissions and blueprint, and it can live either on your local server or on any [[Cloud Storage]].
 >
 > **[0:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/assets-in-statamic?u=76281980&t=24)** We can create various containers, each with their own individual settings.
 >
@@ -1290,23 +1274,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (1)
+> **Frameworks & Libraries:** [[Cloud Storage]] (1)
 > **UI Navigation:** click on (4), go to (2), select the (1)
 > **Env Vars:** yaml (4)
 > **CLI Commands:** find (3)
 > **Cross-References:** go back to (1)
 > **Speakers:** - assets (1)
 
-#### Antlers, the templating engine in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980)
+#### [Antlers, the templating engine in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=0)** - [Instructor] Before we start learning about variables in Statamic, we need to talk about Antlers.
 >
-> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=5)** If you ever worked with Laravel, you might be familiar with Blades, the templating engine Laravel uses.
+> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=5)** If you ever worked with [[Laravel]], you might be familiar with Blades, the templating engine Laravel uses.
 >
-> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=12)** Statamic uses Antlers, which similar to Blade, adds capabilities on top of HTML.
+> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=12)** Statamic uses Antlers, which similar to Blade, adds capabilities on top of [[HTML]].
 >
 > **[0:18](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=18)** The file extension is antlers.html, and it is essential that you use this extension.
 >
@@ -1326,7 +1309,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=71)** I'm going to search for elseif in the code, and here is one just to show you how it would be done.
 >
-> **[1:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=84)** You can do a lot with Antlers as you would in PHP, but you cannot use PHP inside the Antlers template unless you change the file extension from antlers.html to antlers.php.
+> **[1:24](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=84)** You can do a lot with Antlers as you would in [[PHP]], but you cannot use PHP inside the Antlers template unless you change the file extension from antlers.html to antlers.php.
 >
 > **[1:35](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/antlers-the-templating-engine-in-statamic?u=76281980&t=95)** You could also use Laravel Blades templating engine, if that's what you prefer or what your project already uses.
 >
@@ -1348,7 +1331,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), [[HTML]] (3), data (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[PHP]] (5), [[Laravel]] (3), [[HTML]] (3)
 > **CLI Commands:** php (5)
 > **File Paths:** antlers.html (2), antlers.php (1), blade.php (1)
 > **Env Vars:** php (3), html (1)
@@ -1357,14 +1340,13 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Best Practices:** recommended (1)
 
-#### Variables in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980)
+#### [Variables in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980&t=0)** - [Instructor] Variables (indistinct) Statamic injects data into our views, which allows us to dynamically render the content with the use of double curly braces.
 >
-> **[0:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980&t=9)** Let's have a look inside the blog show.antlers.html file.
+> **[0:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980&t=9)** Let's have a look inside the blog show.antlers.[[HTML]] file.
 >
 > **[0:15](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/variables-in-statamic?u=76281980&t=15)** I'll go to Resources, Views, Blog, and show.antlers.html.
 >
@@ -1450,7 +1432,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (4), data (1)
+> **Frameworks & Libraries:** [[HTML]] (4)
 > **Cross-References:** go back to (5)
 > **File Paths:** show.antlers.html (4)
 > **UI Navigation:** go to (3), open the (1)
@@ -1459,8 +1441,7 @@ created: 2026-05-02
 > **Env Vars:** url (1), href (1)
 > **Exercise Files:** template (2)
 
-#### Globals in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980)
+#### [Globals in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1518,7 +1499,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980&t=121)** Let's change the label to Phone Number, and let me show you something.
 >
-> **[2:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980&t=128)** Inside the text field settings, you can choose which HTML input type it will use.
+> **[2:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980&t=128)** Inside the text field settings, you can choose which [[HTML]] input type it will use.
 >
 > **[2:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/globals-in-statamic?u=76281980&t=133)** Look at all these options.
 >
@@ -1592,7 +1573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), data (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **UI Navigation:** click on (6), open the (2), in the sidebar (1), go to (1)
 > **Env Vars:** url (5), yaml (2), html (1)
 > **Exercise Files:** template (3)
@@ -1601,8 +1582,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Code Identifiers:** phone_number (1)
 
-#### Navigation in Statamic
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980)
+#### [Navigation in Statamic](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1628,7 +1608,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=46)** This is mostly hard-coded navigation.
 >
-> **[0:48](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=48)** It's using the HTML nav element, and it's using the settings:site_name variable to display the name of the site as the link to the homepage.
+> **[0:48](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=48)** It's using the [[HTML]] nav element, and it's using the settings:site_name variable to display the name of the site as the link to the homepage.
 >
 > **[0:58](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=58)** It also has a search button and a form with functionality to search through the site.
 >
@@ -1662,7 +1642,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=154)** We just need one, and Statamic will loop over all of our navigation items.
 >
-> **[2:39](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=159)** The href will be the url variable which will fetch the URL of the link, and the title of the link will come from the title variable.
+> **[2:39](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=159)** The href will be the url variable which will [[Fetch]] the URL of the link, and the title of the link will come from the title variable.
 >
 > **[2:48](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=168)** Let's check out the browser.
 >
@@ -1674,7 +1654,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=189)** I'll create another partial called _nav-footer.antlers.html to create a footer navigation.
 >
-> **[3:20](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=200)** In here, let's just add the word hello.
+> **[3:20](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=200)** In here, let's just add the [[Microsoft Word|word]] hello.
 >
 > **[3:23](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/navigation-in-statamic?u=76281980&t=203)** Let's include this partial inside our footer partial, right at the top of the file.
 >
@@ -1800,7 +1780,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (6), [[Search]] (2), [[Fetch]] (2), [[Microsoft Word|Word]] (2), next (1)
+> **Frameworks & Libraries:** [[HTML]] (6), [[Fetch]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** html (4), url (2)
 > **UI Navigation:** click on (4), go to (2)
 > **CLI Commands:** make (3)
@@ -1809,8 +1789,7 @@ created: 2026-05-02
 > **Code Identifiers:** site_name (1)
 > **Definitions:** is a  (1)
 
-#### Challenge: Creating a blueprint, a fieldset, and a navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980)
+#### [Challenge: Creating a blueprint, a fieldset, and a navigation](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1822,7 +1801,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=27)** Next, I want you to edit the about page from last time and add some content, including an image and the old text to make sure that your field set is working.
 >
-> **[0:36](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=36)** You can also edit a default.antlers.HTML template to actually display the image, because after you do, it won't be shown on the page.
+> **[0:36](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=36)** You can also edit a default.antlers.[[HTML]] template to actually display the image, because after you do, it won't be shown on the page.
 >
 > **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=45)** When you're done create a new global set with the phone number of your company.
 >
@@ -1844,7 +1823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **File Paths:** default.antlers.html (1)
 > **CLI Commands:** make (1)
@@ -1853,8 +1832,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Prerequisites:** install (1)
 
-#### Solution: Creating a blueprint, a fieldset, and a navigation
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980)
+#### [Solution: Creating a blueprint, a fieldset, and a navigation](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1888,7 +1866,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=100)** You can do it or just skip it for now, but I'm going to add a markup just to show you how I would do it.
 >
-> **[1:47](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=107)** In my code, I'm going to go to the default.antlers.html file, and right here, under this content variable, I'll open the article-image tag and close it so that I don't forget.
+> **[1:47](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=107)** In my code, I'm going to go to the default.antlers.[[HTML]] file, and right here, under this content variable, I'll open the article-image tag and close it so that I don't forget.
 >
 > **[2:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-creating-a-blueprint-a-fieldset-and-a-navigation?u=76281980&t=125)** Inside this tag, I'm going to add the image HTML element, use the url tag as the source of the image and alt tag for the alt text.
 >
@@ -1974,7 +1952,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (5), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[HTML]] (5)
 > **UI Navigation:** go to (7), click on (7), open the (4)
 > **Env Vars:** html (3), url (1), yaml (1)
 > **File Paths:** default.antlers.html (1), _footer.antlers.html (1)
@@ -1988,12 +1966,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Statamic as an SSG
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
+#### [Statamic as an SSG](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=0)** - Since statamic is built as a Laravel package, deploying a statamic project is very similar to deploying a Laravel one.
+> **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=0)** - Since statamic is built as a [[Laravel]] package, deploying a statamic project is very similar to deploying a Laravel one.
 >
 > **[0:07](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=7)** You will need a hosting provider such as digital ocean, Lenode or another one, you know, and love.
 >
@@ -2001,9 +1978,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=22)** All of this is great, but it also costs money, but there is another option.
 >
-> **[0:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=27)** You can deploy your statamic project as a static site and use a free service such as netlify, GitHub pages or Vercel.
+> **[0:27](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=27)** You can deploy your statamic project as a static site and use a free service such as netlify, [[GitHub]] pages or Vercel.
 >
-> **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=45)** static sites are simple HTML documents that are stored on a server and returned back to the user as they are.
+> **[0:45](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=45)** static sites are simple [[HTML]] documents that are stored on a server and returned back to the user as they are.
 >
 > **[0:52](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=52)** However, what if you wants to use partials, at some place in language or use variables throughout the site, to avoid repeating ourselves?
 >
@@ -2011,7 +1988,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=63)** As I said, each page is going to be sent to the browser as is there will be no dynamic rendering.
 >
-> **[1:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=70)** This means we are missing out on many modern features of web development, which is not great, especially, when it comes to larger and more complex sites where we need old help we can get.
+> **[1:10](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=70)** This means we are missing out on many modern features of [[Web Development]], which is not great, especially, when it comes to larger and more complex sites where we need old help we can get.
 >
 > **[1:21](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=81)** While a default statamic project, isn't a statically regenerated site.
 >
@@ -2029,7 +2006,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=119)** To turn our project into a static site.
 >
-> **[2:01](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=121)** All we need to do is run PHP-please-S S G, colon-generate in our terminal.
+> **[2:01](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=121)** All we need to do is run [[PHP]]-please-S S G, colon-generate in our terminal.
 >
 > **[2:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/statamic-as-an-ssg?u=76281980&t=128)** Make sure you are in the statamic extend on project director before you do that.
 >
@@ -2043,15 +2020,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Laravel]] (3), management (1), [[GitHub]] (1), [[HTML]] (1), [[Web Development]] (1)
+> **Frameworks & Libraries:** [[Laravel]] (3), [[GitHub]] (1), [[HTML]] (1), [[Web Development]] (1), [[PHP]] (1)
 > **Analogies:** such as (4), similar to (1)
 > **CLI Commands:** composer (1), php (1), make (1)
 > **Env Vars:** html (1), ssg (1), php (1)
 > **Tools:** github (1), terminal (1)
 > **Speakers:** - since (1)
 
-#### Introduction to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980)
+#### [Introduction to Netlify](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2059,7 +2035,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=7)** It is a really useful service, and a great one to have in your technical knowledge toolbox.
 >
-> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=12)** Netlify is a cloud computing company that offers hosting and serverless back-end services.
+> **[0:12](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=12)** Netlify is a [[Cloud Computing]] company that offers hosting and serverless back-end services.
 >
 > **[0:18](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=18)** It offers a very streamlined way to host and deploy your projects.
 >
@@ -2069,7 +2045,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=30)** Click on the sign up link in the top right corner.
 >
-> **[0:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=34)** You can set up in the following options, GitHub, GitLab, Bitbucket, or Email.
+> **[0:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=34)** You can set up in the following options, [[GitHub]], GitLab, [[Bitbucket]], or Email.
 >
 > **[0:39](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=39)** For the purposes of this course, we will sign up using GitHub.
 >
@@ -2107,11 +2083,11 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=113)** You have your Netlify account ready.
 >
-> **[1:55](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=115)** And in the next video, we will walk through linking a new site from Git, and deploying it.
+> **[1:55](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/introduction-to-netlify?u=76281980&t=115)** And in the next video, we will walk through linking a new site from [[Git]], and deploying it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), cloud (1), [[Bitbucket]] (1), next (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[Cloud Computing]] (1), [[Bitbucket]] (1), [[Git]] (1)
 > **Tools:** github (5), gitlab (1), bitbucket (1)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (3)
@@ -2120,18 +2096,17 @@ created: 2026-05-02
 > **CLI Commands:** git (1)
 > **Analogies:** such as (1)
 
-#### Uploading a Statamic website to GitHub
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980)
+#### [Uploading a Statamic website to GitHub](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=0)** - Now that we have Netlify accounts set up.
 >
-> **[0:02](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=2)** We are ready to upload a project to GitHub.
+> **[0:02](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=2)** We are ready to upload a project to [[GitHub]].
 >
-> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=5)** There are many fantastic tutorials in the LinkedIn learning library.
+> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=5)** There are many fantastic tutorials in the [[LinkedIn]] learning library.
 >
-> **[0:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=8)** So I won't spend too much time explaining what Git and GitHub are and how to use them.
+> **[0:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=8)** So I won't spend too much time explaining what [[Git]] and GitHub are and how to use them.
 >
 > **[0:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/uploading-a-statamic-website-to-github?u=76281980&t=13)** Feel free to visit any of these tutorials.
 >
@@ -2191,7 +2166,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (5), next (3), [[LinkedIn]] (1), [[Git]] (1)
+> **Frameworks & Libraries:** [[GitHub]] (5), [[LinkedIn]] (1), [[Git]] (1)
 > **Tools:** github (5), terminal (4)
 > **CLI Commands:** make (2), git (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2200,22 +2175,21 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - now (1)
 
-#### Deploying a Statamic website to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980)
+#### [Deploying a Statamic website to Netlify](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=0)** - [Instructor] We have done all this work to prepare our project to be deployed as a static site to Netlify.
 >
-> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=5)** The files on GitHub our Netlify account is ready.
+> **[0:05](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=5)** The files on [[GitHub]] our Netlify account is ready.
 >
 > **[0:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=8)** So let's do it.
 >
-> **[0:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=9)** From our Netlify dashboard, click on "new site from Git."
+> **[0:09](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=9)** From our Netlify dashboard, click on "new site from [[Git]]."
 >
 > **[0:13](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=13)** Next we need to choose a Git provider which is GitHub, and select the correct repository.
 >
-> **[0:21](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=21)** The branch is main, the build command will be "php please ssg generate," and the published directory will be "storage app static."
+> **[0:21](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=21)** The branch is main, the build command will be "[[PHP]] please ssg generate," and the published directory will be "storage app static."
 >
 > **[0:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/deploying-a-statamic-website-to-netlify?u=76281980&t=34)** Okay, now let's click on "show advanced."
 >
@@ -2295,7 +2269,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (4), [[PHP]] (3), [[Git]] (2), next (2), dns (1)
+> **Frameworks & Libraries:** [[GitHub]] (4), [[PHP]] (3), [[Git]] (2)
 > **CLI Commands:** php (3), find (3), git (2), make (2)
 > **Env Vars:** url (3), env (2), php_version (1), app_key (1), dns (1)
 > **UI Navigation:** click on (6), select the (1), go to (1)
@@ -2304,8 +2278,7 @@ created: 2026-05-02
 > **Versions:** 7.4 (1)
 > **Cross-References:** go back to (1)
 
-#### Challenge: Deploying a Statamic project to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980)
+#### [Challenge: Deploying a Statamic project to Netlify](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2313,7 +2286,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980&t=8)** In this challenge, you will get to just your knowledge of how to deploy a Statamic site to Netlify.
 >
-> **[0:14](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980&t=14)** Take the project from the last challenge, my website, initialize it with Git, upload the project first to bring your repository on GitHub, and deploy it to Netlify.
+> **[0:14](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980&t=14)** Take the project from the last challenge, my website, initialize it with [[Git]], upload the project first to bring your repository on [[GitHub]], and deploy it to Netlify.
 >
 > **[0:25](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/challenge-deploying-a-statamic-project-to-netlify?u=76281980&t=25)** It is up to you if you choose to add the build details via Netlify's UI, or via the netlify.toml file.
 >
@@ -2337,7 +2310,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1), next (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Git]] (1)
 > **Cross-References:** go back to (2), in the next (1)
 > **Tools:** github (3)
 > **CLI Commands:** git (1), find (1)
@@ -2346,8 +2319,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Deploying a Statamic project to Netlify
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980)
+#### [Solution: Deploying a Statamic project to Netlify](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2363,15 +2335,15 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=16)** First I will create the "netlify.toml" file by running "touch netlify.tomol" command in the terminal.
 >
-> **[0:23](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=23)** I opened the project in PHP storm and paste the build commands from my previous project into this one.
+> **[0:23](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=23)** I opened the project in [[PHP]] storm and paste the build commands from my previous project into this one.
 >
 > **[0:29](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=29)** These commands never changed so copy pasting them is the easy way.
 >
-> **[0:35](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=35)** Now I'm going to run "git init" to initialize "git" and then run "git add ." to add all the files.
+> **[0:35](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=35)** Now I'm going to run "[[Git]] init" to initialize "git" and then run "git add ." to add all the files.
 >
 > **[0:43](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=43)** Next I'm going to run "git commit -m" "ready to deploy" to commit everything.
 >
-> **[0:53](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=53)** Now I need to go to my GitHub Account and create a new repository.
+> **[0:53](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=53)** Now I need to go to my [[GitHub]] Account and create a new repository.
 >
 > **[0:57](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/solution-deploying-a-statamic-project-to-netlify?u=76281980&t=57)** I'll call it "my-website" and I'll set it to private this time.
 >
@@ -2435,7 +2407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (3), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Git]] (7), [[GitHub]] (3), [[PHP]] (1)
 > **CLI Commands:** git (7), make (2), php (1)
 > **Tools:** terminal (3), github (3)
 > **UI Navigation:** go to (3), click on (1), open the (1), select the (1)
@@ -2449,8 +2421,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2464,7 +2435,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=32)** And that's all from me.
 >
-> **[0:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=34)** You can connect with me on Twitter or you can follow Larabelles, the community for women, non-binary, and trans Laravel developers either on Twitter or on LinkedIn.
+> **[0:34](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=34)** You can connect with me on Twitter or you can follow Larabelles, the community for women, non-binary, and trans [[Laravel]] developers either on Twitter or on [[LinkedIn]].
 >
 > **[0:44](https://www.linkedin.com/learning/essential-statamic-for-php-and-laravel-developers/where-to-go-from-here?u=76281980&t=44)** Thank you for watching and have fun building websites with Statamic.
 

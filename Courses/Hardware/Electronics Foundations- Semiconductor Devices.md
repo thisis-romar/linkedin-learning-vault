@@ -103,8 +103,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding semiconductor devices
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/understanding-semiconductor-devices?u=76281980)
+#### [Understanding semiconductor devices](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/understanding-semiconductor-devices?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,15 +131,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** semiconductor (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** it's best to (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - circuits (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -148,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980&t=11)** You should know how to build simple filter circuits, how to represent signals in the time and frequency domain, and how to interpret units of decibels and logarithmic scale.
 >
-> **[0:22](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980&t=22)** If you're brand-new to electronics, I recommend watching the Foundations of Electronics: Fundamentals first to learn the core concepts of voltage, current, resistance, and power.
+> **[0:22](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980&t=22)** If you're brand-new to [[Electronics]], I recommend watching the Foundations of Electronics: Fundamentals first to learn the core concepts of voltage, current, resistance, and power.
 >
 > **[0:33](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-you-should-know-14920024?u=76281980&t=33)** If you've got a grasp on those concepts but you don't have much experience building circuits, then start with the Foundations of Electronics: Basic Circuits.
 >
@@ -156,21 +153,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (3), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (3)
 > **Speakers:** - before (1)
 
-#### Use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980)
+#### [Use the exercise files](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own electronic circuits, you're going to need some hardware.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=0)** - [Instructor] If you want to follow along with this course to build and measure your own electronic circuits, you're going to need some [[Hardware]].
 >
 > **[0:06](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=6)** I've included a list of the various components and tools I use throughout this course in the exercise files.
 >
 > **[0:13](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=13)** In the main directory for this course, I've included a PDF file named Hardware List that contains a list of components.
 >
-> **[0:20](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=20)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local electronics store.
+> **[0:20](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=20)** Almost all of these items are common parts that you can purchase from a number of online retailers or your local [[Electronics]] store.
 >
 > **[0:28](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=28)** But for your convenience, I've also included the link to an online store page for each item.
 >
@@ -182,7 +178,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=56)** I've also included a document with several of my favorite online resources for learning about electronics that I recommend using as references in addition to this course.
 >
-> **[1:06](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=66)** The rest of the exercise files are organized into number directories for each chapter of the course.
+> **[1:06](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=66)** The [[Representational State Transfer (REST)|rest]] of the exercise files are organized into number directories for each chapter of the course.
 >
 > **[1:12](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=72)** And then within each chapter, there are number directories for each video.
 >
@@ -190,7 +186,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=83)** When I mention one of those items in a video, just navigate to the corresponding folder in the exercise files to find it.
 >
-> **[1:30](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=90)** For some examples in this course, I'll be using in our Arduino microcontroller to demonstrate how certain circuits can be used with microcontroller devices.
+> **[1:30](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=90)** For some examples in this course, I'll be using in our [[Arduino]] microcontroller to demonstrate how certain circuits can be used with microcontroller devices.
 >
 > **[1:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-the-exercise-files-14914784?u=76281980&t=98)** And for those examples, I've included the corresponding code in the exercise files.
 >
@@ -200,7 +196,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2), [[Electronics]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Arduino]] (3), [[Hardware]] (2), [[Electronics]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Exercise Files:** exercise files (4)
 > **Env Vars:** dmm (2), pdf (1)
 > **CLI Commands:** find (1)
@@ -208,12 +204,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Safety warnings
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/safety-warnings-14915548?u=76281980)
+#### [Safety warnings](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/safety-warnings-14915548?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/safety-warnings-14915548?u=76281980&t=0)** - Working with electronics is a ton of fun, but it can also be dangerous.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/safety-warnings-14915548?u=76281980&t=0)** - Working with [[Electronics]] is a ton of fun, but it can also be dangerous.
 >
 > **[0:05](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/safety-warnings-14915548?u=76281980&t=5)** Electric shock can cause serious injuries or even death.
 >
@@ -237,7 +232,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Electronics]] (2), power (1)
+> **Frameworks & Libraries:** [[Electronics]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
@@ -248,8 +243,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Semiconductor materials
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980)
+#### [Semiconductor materials](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -279,7 +273,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980&t=95)** A silicon atom will form bonds with the four atoms closest to it by sharing its valence electrons with them.
 >
-> **[1:42](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980&t=102)** And each of those four atoms will in turn form bonds with their nearest neighbors by sharing their own four valence electrons and so on which forms a crystal structure of silicon atoms.
+> **[1:42](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980&t=102)** And each of those four atoms will in turn form bonds with their nearest neighbors by sharing their own four valence electrons and so on which [[Forms]] a crystal structure of silicon atoms.
 >
 > **[1:55](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/semiconductor-materials-14914790?u=76281980&t=115)** Since all of those valence electrons are tied up in forming bonds with adjacent atoms they're not very mobile.
 >
@@ -359,14 +353,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** semiconductor (11), [[Forms]] (1), next (1), power (1)
+> **Frameworks & Libraries:** [[Forms]] (1)
 > **Tools:** atom (13)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### What is a diode?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-diode-14918151?u=76281980)
+#### [What is a diode?](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-diode-14918151?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +481,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** semiconductor (1)
 > **Definitions:** is called (3), known as (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** vbr (1)
@@ -496,8 +488,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Diode characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980)
+#### [Diode characteristics](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -515,7 +506,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980&t=42)** It has a moderate forward voltage drop but it's not designed to handle much forward current.
 >
-> **[0:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980&t=48)** To find the data sheet for that diode, I'll go to my search engine and type in the part number, "1N4148" and the word "datasheet".
+> **[0:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980&t=48)** To find the data sheet for that diode, I'll go to my search engine and type in the part number, "1N4148" and the [[Microsoft Word|word]] "datasheet".
 >
 > **[0:59](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/diode-characteristics-14918136?u=76281980&t=59)** I see that there are several data sheets available for the 1N4148 diode from different manufacturers, and for this video, I'll look at the data sheet from Vishay.
 >
@@ -595,7 +586,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **CLI Commands:** find (4)
 > **Env Vars:** dmm (4)
 > **Code Identifiers:** milliamps (2)
@@ -609,8 +600,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Rectify a signal
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/rectify-a-signal-14915549?u=76281980)
+#### [Rectify a signal](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/rectify-a-signal-14915549?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -704,15 +694,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), application (1)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** similar to (1), just like (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.6 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Detect the signal peak
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/detect-the-signal-peak-14917128?u=76281980)
+#### [Detect the signal peak](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/detect-the-signal-peak-14917128?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -780,14 +768,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (2), power (1)
 > **Versions:** 0.6 (1), 1.4 (1), 2.4 (1)
 > **Definitions:** is a  (2)
 > **Best Practices:** rule of thumb (1)
 > **Speakers:** - [instructor] (1)
 
-#### Protect against large signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980)
+#### [Protect against large signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -811,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980&t=31)** - I still don't know who you're talking to.
 >
-> **[0:34](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980&t=34)** - [Baron] When working with electronics, a clipper circuit can be used to protect sensitive equipment by limiting the amplitude of input signals.
+> **[0:34](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980&t=34)** - [Baron] When working with [[Electronics]], a clipper circuit can be used to protect sensitive equipment by limiting the amplitude of input signals.
 >
 > **[0:42](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-large-signals-14919084?u=76281980&t=42)** The clipper will remove any parts of a signal that are above or below a certain threshold voltage.
 >
@@ -873,8 +859,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 
-#### Protect against reverse current
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-reverse-current-14913890?u=76281980)
+#### [Protect against reverse current](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-reverse-current-14913890?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -964,7 +949,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), semiconductor (1)
 > **Versions:** 0.6 (2), 4.4 (1), 0.15 (1), 0.45 (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (1), similar to (1)
@@ -972,8 +956,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - one (1)
 
-#### Protect against flyback voltage
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980)
+#### [Protect against flyback voltage](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -995,7 +978,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980&t=43)** Now, that's not saying that if you stick a resistor and an inductor together you suddenly have a motor, they're very different components.
 >
-> **[0:51](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980&t=51)** But when a motor is used in a circuit, electrically to the rest of the circuit, it behaves similar to a resistor and an inductor.
+> **[0:51](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980&t=51)** But when a motor is used in a circuit, electrically to the [[Representational State Transfer (REST)|rest]] of the circuit, it behaves similar to a resistor and an inductor.
 >
 > **[1:01](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/protect-against-flyback-voltage-14918148?u=76281980&t=61)** As long as the current from the power supply remains constant, the inductive aspect of the motor will be storing energy.
 >
@@ -1061,7 +1044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), [[Representational State Transfer (REST)|Rest]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** switch to (2), open the (1)
 > **Definitions:** is an  (1), known as (1), is a  (1)
 > **Analogies:** similar to (2), such as (1)
@@ -1069,8 +1052,7 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Circuit protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980)
+#### [Challenge: Circuit protection](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1090,7 +1072,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980&t=43)** Each of these can individually power the thermostat.
 >
-> **[0:46](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980&t=46)** So if one supply fails, the other will pick up the slack and my thermostat will never notice.
+> **[0:46](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980&t=46)** So if one supply fails, the other will pick up the [[Slack]] and my thermostat will never notice.
 >
 > **[0:53](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-circuit-protection?u=76281980&t=53)** All electronic components have the potential to fail and stop working.
 >
@@ -1124,14 +1106,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), parallel (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1)
 > **Tools:** slack (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Circuit protection
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-circuit-protection?u=76281980)
+#### [Solution: Circuit protection](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-circuit-protection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1157,7 +1138,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
@@ -1166,8 +1146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Light emitting diodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980)
+#### [Light emitting diodes](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1185,7 +1164,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980&t=48)** Those surface mount LEDs look like small rectangular prisms.
 >
-> **[0:52](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980&t=52)** For prototyping circuits on a breadboard, it's more common to use through hole LEDs like this, which consists of a plastic bulb with two long metal leads on one side.
+> **[0:52](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980&t=52)** For [[Prototyping]] circuits on a breadboard, it's more common to use through hole LEDs like this, which consists of a plastic bulb with two long metal leads on one side.
 >
 > **[1:03](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/light-emitting-diodes-14915547?u=76281980&t=63)** The plastic bulb will either be clear or tinted to indicate the color of the light it produces.
 >
@@ -1271,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (4), semiconductor (1), [[Prototyping]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Prototyping]] (1)
 > **Env Vars:** led (34)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for example (3), just like (1)
@@ -1280,8 +1259,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Best Practices:** rule of thumb (1)
 
-#### Photodiodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980)
+#### [Photodiodes](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1333,7 +1311,7 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=185)** But as light shines on the diode, it'll allow some of those electrons to flow through and generate a small amount of current that flows out of the anode down through the resistor.
 >
-> **[3:16](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=196)** According to Ohm's Law, when current flows through a resistor, it'll create a voltage across the resistor which we can easily measure with a multi-meter or using the analog to digital converter on a microcontroller system like the Arduino Platform.
+> **[3:16](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=196)** According to Ohm's Law, when current flows through a resistor, it'll create a voltage across the resistor which we can easily measure with a multi-meter or using the analog to digital converter on a microcontroller system like the [[Arduino]] Platform.
 >
 > **[3:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=211)** So to demonstrate that, I'll use the five volt source from an Arduino Uno microcontroller board to reverse bias a photodiode connected in series with a 330 kiloohm resistor and I'll measure the output voltage across that resistor using analog input channel zero.
 >
@@ -1365,7 +1343,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=356)** To keep things simple, when you need a photodetector, I recommend sticking with either a photoresistor or a photodiode because they're easy to use and can create light detector circuits that are good enough for most hobbyist projects.
 >
-> **[6:10](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=370)** Photoresistors can usually give you a more sensitive measurement than photodiodes, but the downside is that photoresistors react much more slowly to changes.
+> **[6:10](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=370)** Photoresistors can usually give you a more sensitive measurement than photodiodes, but the downside is that photoresistors [[React.js|react]] much more slowly to changes.
 >
 > **[6:20](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/photodiodes-14913895?u=76281980&t=380)** So if you need to measure something that changes slowly like the ambient light in a room, a photoresistor would be good for that.
 >
@@ -1373,7 +1351,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (5), [[React.js|React]] (2), semiconductor (1), power (1), cd (1)
+> **Frameworks & Libraries:** [[Arduino]] (5), [[React.js|React]] (2)
 > **Env Vars:** led (4), dmm (3)
 > **Analogies:** similar to (3), such as (2)
 > **Versions:** 4.5 (1), 2.9 (1)
@@ -1382,8 +1360,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Zener diodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/zener-diodes-14916247?u=76281980)
+#### [Zener diodes](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/zener-diodes-14916247?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1495,7 +1472,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), next (2)
 > **Versions:** 5.1 (14), 0.9 (2), 3.3 (2), 18.9 (1), 2.1 (1)
 > **Env Vars:** tvs (13), usb (2)
 > **Analogies:** for example (4)
@@ -1509,8 +1485,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is a transistor?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980)
+#### [What is a transistor?](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1600,19 +1575,18 @@ created: 2026-05-02
 >
 > **[4:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980&t=288)** According to some definitions for a circuit to be properly called electronic it has to contain active components, controlling the flow of electricity.
 >
-> **[4:58](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980&t=298)** I tend to throw around the term electronic somewhat generously to describe both active and passive circuits, but active circuits really are what make electronics exciting.
+> **[4:58](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-a-transistor-14920032?u=76281980&t=298)** I tend to throw around the term electronic somewhat generously to describe both active and passive circuits, but active circuits really are what make [[Electronics]] exciting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (7), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Tools:** terminal (7)
 > **Env Vars:** bjt (2), fet (2)
 > **Definitions:** known as (3), is an  (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - a (1)
 
-#### NPN bipolar junction transistors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980)
+#### [NPN bipolar junction transistors](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1766,7 +1740,7 @@ created: 2026-05-02
 >
 > **[10:57](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980&t=657)** In the other direction, if the base current was lowered down to half a milliamp, the collector current would decrease to 50 milliamps so the emitter current would only be 50.5 milliamps.
 >
-> **[11:12](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980&t=672)** One of my favorite ways to understand the transistors behavior is using a simple model known as the Transistor Man which was made famous by the book, "The Art of Electronics."
+> **[11:12](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980&t=672)** One of my favorite ways to understand the transistors behavior is using a simple model known as the Transistor Man which was made famous by the book, "The Art of [[Electronics]]."
 >
 > **[11:22](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/npn-bipolar-junction-transistors-14915550?u=76281980&t=682)** Imagine that inside of every transistor, there's a tiny little man.
 >
@@ -1814,7 +1788,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), node (2), semiconductor (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Env Vars:** npn (10), bjt (9), vce (2), pnp (1), vbe (1)
 > **Tools:** terminal (16)
 > **Definitions:** is a  (5), is called (1), known as (1)
@@ -1823,8 +1797,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1), imagine (1), for example (1)
 > **Warnings:** keep in mind (1), note that (1)
 
-#### PNP bipolar junction transistors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/pnp-bipolar-junction-transistors-14919085?u=76281980)
+#### [PNP bipolar junction transistors](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/pnp-bipolar-junction-transistors-14919085?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1931,8 +1904,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### BJT characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980)
+#### [BJT characteristics](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1958,7 +1930,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=83)** I always keep my parts kit stocked with a handful of 2N3904s and their PNP counterpart, the 2N3906.
 >
-> **[1:33](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=93)** To find a data sheet for the transistor, I'll go to my search engine and type in the part number, 2N3904, and the word "datasheet."
+> **[1:33](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=93)** To find a data sheet for the transistor, I'll go to my search engine and type in the part number, 2N3904, and the [[Microsoft Word|word]] "datasheet."
 >
 > **[1:42](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=102)** I see that there are several data sheets available for the 2N3904 transistor from different manufacturers.
 >
@@ -1974,7 +1946,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=151)** SOTs are surface mount components with a small footprint for compact printed circuit board designs.
 >
-> **[2:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=158)** For prototyping circuits on my breadboard, I tend to use transistors with the TO-92 package type.
+> **[2:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=158)** For [[Prototyping]] circuits on my breadboard, I tend to use transistors with the TO-92 package type.
 >
 > **[2:44](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-characteristics-14918139?u=76281980&t=164)** The transistor type is indicated by a marking printed on the flat side of the plastic case.
 >
@@ -2118,7 +2090,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (17), data (12), semiconductor (3), [[Search]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Prototyping]] (1)
 > **Env Vars:** npn (3), pnp (3), bc547 (2), tip29 (2), bc557 (1)
 > **Definitions:** is a  (5), stands for (2), known as (1)
 > **Versions:** 0.2 (1), 0.1 (1), 0.65 (1), 0.85 (1), 0.7 (1)
@@ -2132,12 +2104,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Use a BJT as a switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980)
+#### [Use a BJT as a switch](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980&t=0)** - In electronics projects, it's common to use a micro controller board, like an Arduino or a Raspberry Pi to control other devices, turning them on or off, but using in Arduino to control something else like an electric motor is a bit more complicated than simply connecting it to the Arduino's digital output pins.
+> **[0:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980&t=0)** - In [[Electronics]] projects, it's common to use a micro controller board, like an [[Arduino]] or a Raspberry Pi to control other devices, turning them on or off, but using in Arduino to control something else like an electric motor is a bit more complicated than simply connecting it to the Arduino's digital output pins.
 >
 > **[0:20](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-a-switch-14915546?u=76281980&t=20)** For one, the motor probably requires a different voltage than the Arduino's output.
 >
@@ -2259,7 +2230,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (20), power (14), [[Electronics]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (20), [[Electronics]] (1)
 > **Env Vars:** pnp (13), npn (10), bjt (1)
 > **Versions:** 0.7 (3), 4.3 (3), 5.8 (2), 3.3 (1), 0.2 (1)
 > **Tools:** terminal (6)
@@ -2268,8 +2239,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Exercise Files:** exercise files (1)
 
-#### Use a BJT as an amplifier
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-an-amplifier-14916246?u=76281980)
+#### [Use a BJT as an amplifier](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-bjt-as-an-amplifier-14916246?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2425,7 +2395,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), data (1)
 > **Tools:** terminal (14)
 > **Definitions:** is an  (2), is a  (2), is called (1)
 > **CLI Commands:** make (4)
@@ -2433,9 +2402,9 @@ created: 2026-05-02
 > **Versions:** 1.1 (1), 0.4 (1), 1.2 (1)
 > **Cross-References:** later in (1)
 > **Exercise Files:** exercise files (1)
+> **Analogies:** such as (1)
 
-#### Challenge: Motor control
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980)
+#### [Challenge: Motor control](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2469,7 +2438,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980&t=114)** And in the high state, the signal will be a positive voltage.
 >
-> **[1:58](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980&t=118)** In the case of an Arduino micro controller, the digital high output is five volts.
+> **[1:58](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980&t=118)** In the case of an [[Arduino]] micro controller, the digital high output is five volts.
 >
 > **[2:04](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-motor-control?u=76281980&t=124)** When input A is in the low state and input B is in the high state, the transistors in the H bridge will be turned on and off so that current will flow from the voltage source connected to the top left transistor, in this case five volts, and that current will flow down through the motor and then through the bottom right transistor to ground.
 >
@@ -2503,8 +2472,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Motor control
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980)
+#### [Solution: Motor control](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2538,7 +2506,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=110)** So to limit that current, I'll include resistors in series between the two control signals and each of the base terminals.
 >
-> **[1:59](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=119)** I decided to follow my own rule of thumb and use one kiloohm resistors because they'll limit the current from the control device enough to safely interface with an Arduino microcontroller board.
+> **[1:59](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=119)** I decided to follow my own rule of thumb and use one kiloohm resistors because they'll limit the current from the control device enough to safely interface with an [[Arduino]] microcontroller board.
 >
 > **[2:11](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=131)** To check my plan solution before actually building it on a breadboard, I first considered the case when input A is low, which means it's connected to ground, and input B is high at five volts.
 >
@@ -2562,7 +2530,7 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=224)** So again, there's no path from the five volt power source down to ground.
 >
-> **[3:49](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=229)** Now to test out that circuit design, I've written a simple Arduino program that rotates through each of these possible four states on digital output channel zero and one.
+> **[3:49](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=229)** Now to test out that [[Circuit Design]], I've written a simple Arduino program that rotates through each of these possible four states on digital output channel zero and one.
 >
 > **[4:00](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-motor-control?u=76281980&t=240)** The Arduino program holds each of these four possible output states for one second before moving on to the next state and it will repeat this sequence indefinitely.
 >
@@ -2582,7 +2550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (6), power (3), [[Circuit Design]] (1), next (1)
+> **Frameworks & Libraries:** [[Arduino]] (6), [[Circuit Design]] (1)
 > **Env Vars:** npn (8), pnp (7)
 > **Tools:** terminal (1)
 > **Exercise Files:** exercise files (1)
@@ -2595,8 +2563,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Field-effect transistors
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980)
+#### [Field-effect transistors](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2688,7 +2655,7 @@ created: 2026-05-02
 >
 > **[6:30](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980&t=390)** So between these different types of channels and modes, there are four main types of MOSFETs, N-channel enhancement mode, P-channel enhancement mode, N-channel depletion mode, and P-channel depletion mode.
 >
-> **[6:45](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980&t=405)** The enhancement mode MOSFETs are by far more commonly used than their depletion mode counterparts, so I'll focus on enhancement mode MOSFETs for the rest of this video.
+> **[6:45](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980&t=405)** The enhancement mode MOSFETs are by far more commonly used than their depletion mode counterparts, so I'll focus on enhancement mode MOSFETs for the [[Representational State Transfer (REST)|rest]] of this video.
 >
 > **[6:54](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/field-effect-transistors-14914779?u=76281980&t=414)** It's important to be aware of the different MOSFET types that exist to avoid using the wrong one.
 >
@@ -2762,7 +2729,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** semiconductor (6), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** terminal (29)
 > **Env Vars:** mosfet (23), vgs (1), npn (1), pnp (1), vds (1)
 > **Definitions:** is a  (3), is an  (1)
@@ -2771,8 +2738,7 @@ created: 2026-05-02
 > **Code Identifiers:** rds (1)
 > **Cross-References:** earlier in (1)
 
-#### Use a MOSFET as a switch
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-mosfet-as-a-switch-14918141?u=76281980)
+#### [Use a MOSFET as a switch](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/use-a-mosfet-as-a-switch-14918141?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2832,7 +2798,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), next (1), data (1)
 > **Env Vars:** mosfet (10), bjt (4), npn (1), rfp30n06le (1)
 > **Tools:** terminal (5)
 > **CLI Commands:** make (4)
@@ -2841,8 +2806,7 @@ created: 2026-05-02
 > **Best Practices:** make sure to (1)
 > **Speakers:** - mosfets (1)
 
-#### BJT vs. MOSFET
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980)
+#### [BJT vs. MOSFET](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2854,7 +2818,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980&t=22)** It depends on what you're doing.
 >
-> **[0:24](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980&t=24)** So, to help with planning your next electronics project, I'll discuss some of the pros and cons of each one.
+> **[0:24](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980&t=24)** So, to help with planning your next [[Electronics]] project, I'll discuss some of the pros and cons of each one.
 >
 > **[0:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/bjt-vs-mosfet-14914781?u=76281980&t=31)** BJTs tend to have better, more linear gain characteristics and can give you a lot higher voltage gain than MOSFETs.
 >
@@ -2888,7 +2852,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (5), next (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Electronics]] (1)
 > **Env Vars:** bjt (6), mosfet (3), led (1)
 > **CLI Commands:** make (1), find (1)
 > **Versions:** 3.3 (1)
@@ -2900,8 +2864,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an operational amplifier?
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980)
+#### [What is an operational amplifier?](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2911,7 +2874,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=22)** It's DC coupled, which means it can be used to amplify both AC and DC signal components, it has two differential input terminals, and has a single ended output.
 >
-> **[0:34](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=34)** Op Amps have become popular in modern electronics because they're fairly cheap, easy to use, and they can implement a wide range of operations for processing electrical signals.
+> **[0:34](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=34)** Op Amps have become popular in modern [[Electronics]] because they're fairly cheap, easy to use, and they can implement a wide range of operations for processing electrical signals.
 >
 > **[0:45](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=45)** If you look at the internal circuitry of an operational amplifier, you'll see a complex network of components.
 >
@@ -2953,7 +2916,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=218)** Op Amps are an active component that require an external source of power to function.
 >
-> **[3:44](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=224)** For prototyping circuits on a breadboard, I usually use Op Amps that come in an eight pin Plastic Dual Inline Package, or PDIP form factor, which is a rectangular package with two parallel rows of four pins.
+> **[3:44](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=224)** For [[Prototyping]] circuits on a breadboard, I usually use Op Amps that come in an eight pin Plastic Dual Inline Package, or PDIP form factor, which is a rectangular package with two parallel rows of four pins.
 >
 > **[3:59](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/what-is-an-operational-amplifier-14920025?u=76281980&t=239)** Those pins are spaced apart just right so that the component can straddle the trough that runs down the center of the breadboard with one row of pins on each side.
 >
@@ -2997,7 +2960,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (9), data (2), [[Electronics]] (1), [[Prototyping]] (1), parallel (1)
+> **Frameworks & Libraries:** [[Electronics]] (1), [[Prototyping]] (1)
 > **Tools:** terminal (9)
 > **CLI Commands:** rails (3), find (1), make (1)
 > **Env Vars:** pdip (3), aol (1)
@@ -3006,8 +2969,7 @@ created: 2026-05-02
 > **Versions:** 1.001 (1)
 > **Cross-References:** later in (1)
 
-#### Feedback circuits
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/feedback-circuits-14918138?u=76281980)
+#### [Feedback circuits](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/feedback-circuits-14918138?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3137,8 +3099,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), similar to (1)
 > **Cross-References:** later in (1)
 
-#### Operational amplifier characteristics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980)
+#### [Operational amplifier characteristics](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3158,7 +3119,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=55)** As I describe some of the key characteristics to consider when choosing an operational amplifier, I'll be looking at the data sheet for the LM358.
 >
-> **[1:04](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=64)** To find that data sheet, I'll go to my search engine and type in the part number, LM358, and the word "datasheet."
+> **[1:04](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=64)** To find that data sheet, I'll go to my search engine and type in the part number, LM358, and the [[Microsoft Word|word]] "datasheet."
 >
 > **[1:14](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=74)** I see that there are several data sheets available for the LM358 from different manufacturers.
 >
@@ -3198,7 +3159,7 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=227)** When that input frequency gets up to around 0.7 megahertz, the LM358 op-amp will at best be able to provide a gain of one.
 >
-> **[3:57](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=237)** The unity gain bandwidth parameter tells me the highest frequency at which I can use the op-amp with a gain of one before it'll begin distorting my signal.
+> **[3:57](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=237)** The [[Unity]] gain bandwidth parameter tells me the highest frequency at which I can use the op-amp with a gain of one before it'll begin distorting my signal.
 >
 > **[4:07](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/operational-amplifier-characteristics-14914782?u=76281980&t=247)** When I start working with signals over 0.7 megahertz, I'll start to run into problems.
 >
@@ -3262,7 +3223,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), power (3), [[Search]] (1), [[Microsoft Word|Word]] (1), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Unity]] (1)
 > **Env Vars:** lm358 (14), pdip (1)
 > **CLI Commands:** rails (3), find (2)
 > **Code Identifiers:** db (3)
@@ -3276,8 +3237,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Compare signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980)
+#### [Compare signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3325,7 +3285,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980&t=211)** As the input signal changes above and below the threshold, the output signal switches very quickly between the high and low values accordingly.
 >
-> **[3:40](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980&t=220)** The op amp comparator's ability to act as a one-bit analog-to-digital converter makes it useful for interfacing between analog sensors and digital microcontrollers like an Arduino or Raspberry Pi.
+> **[3:40](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980&t=220)** The op amp comparator's ability to act as a one-bit analog-to-digital converter makes it useful for interfacing between analog sensors and digital microcontrollers like an [[Arduino]] or Raspberry Pi.
 >
 > **[3:53](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/compare-signals-14914780?u=76281980&t=233)** For example, if I wanted to use a photodiode to detect whether the lights are on or off in a room, I need to compare the output voltage for my photodiode circuit to determine if it's above or below a certain threshold.
 >
@@ -3349,7 +3309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Arduino]] (3), power (2)
+> **Frameworks & Libraries:** [[Arduino]] (3)
 > **Versions:** 2.5 (3), 3.3 (2)
 > **Tools:** terminal (5)
 > **Definitions:** is a  (2)
@@ -3357,8 +3317,7 @@ created: 2026-05-02
 > **CLI Commands:** rails (1)
 > **Speakers:** - [instructor] (1)
 
-#### Buffer signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980)
+#### [Buffer signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3374,7 +3333,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980&t=30)** Since the output voltage is the same as the input voltage, the voltage follower circuit has a constant gain of one.
 >
-> **[0:37](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980&t=37)** You'll often hear that referred to as unity gain which means that the signal passing through the circuit is neither amplified, nor attenuated.
+> **[0:37](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980&t=37)** You'll often hear that referred to as [[Unity]] gain which means that the signal passing through the circuit is neither amplified, nor attenuated.
 >
 > **[0:46](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/buffer-signals-14914783?u=76281980&t=46)** At first glance, a circuit that outputs the same voltage signal that you put into it they may not seem very useful, but even though the input and output voltage is the same, this circuit is useful because the impedance at the input and output terminals is different, the voltage follower takes advantage of the op-amp's incredibly high input impedance and low output impedance to serve as a buffer between two circuits.
 >
@@ -3451,8 +3410,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supply dual voltages
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980)
+#### [Supply dual voltages](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3518,7 +3476,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=277)** So what I need to do to fix this is find a way to buffer the output from the voltage divider so that it's not impacted by whatever else is connected to a downstream.
 >
-> **[4:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=288)** And that's easy to do with a simple voltage follower Op-amp circuit serving as a unity gain buffer.
+> **[4:48](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=288)** And that's easy to do with a simple voltage follower Op-amp circuit serving as a [[Unity]] gain buffer.
 >
 > **[4:54](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=294)** The Op-amp has an extremely high input impedance, so it won't affect the ratio of the voltage divider and its low output impedance enables it to maintain a steady output voltage when it's connected to different loads.
 >
@@ -3550,7 +3508,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=409)** For example, if I was using a grounded power source like a 12 volt DC wall adapter to power the circuit and I used a voltage divider to split the 12 volt input into plus and minus six volts that virtual ground that it produces in the middle of the voltage divider is different from the actual ground of the wall adapter.
 >
-> **[7:10](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=430)** If I tried to connect my new virtual ground based power source to another circuit that included something like an Arduino micro controller whose power supply is connected to the actual ground.
+> **[7:10](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=430)** If I tried to connect my new virtual ground based power source to another circuit that included something like an [[Arduino]] micro controller whose power supply is connected to the actual ground.
 >
 > **[7:21](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=441)** I've just made a connection between my virtual ground and the actual ground, which will create a short circuit between the two and cause unwanted current to flow that'll most likely damage these devices.
 >
@@ -3560,11 +3518,11 @@ created: 2026-05-02
 >
 > **[7:43](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=463)** The nine volt battery may not be able to provide much power compared to a DC wall adapter but at least I won't have to worry about accidentally connecting different grounds together.
 >
-> **[7:53](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=473)** I'll be using this circuit with a nine volt battery to provide dual supply voltages as I build and demonstrate Op-amp circuits throughout the rest of this course.
+> **[7:53](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/supply-dual-voltages-14915553?u=76281980&t=473)** I'll be using this circuit with a nine volt battery to provide dual supply voltages as I build and demonstrate Op-amp circuits throughout the [[Representational State Transfer (REST)|rest]] of this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (23), data (1), node (1), [[Unity]] (1), [[Arduino]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1), [[Arduino]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** rails (4), make (1), node (1), find (1)
 > **Tools:** terminal (6)
 > **Versions:** 4.5 (4), 1.5 (1)
@@ -3573,8 +3531,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1), you'll need (1)
 > **Definitions:** is a  (1)
 
-#### Amplify signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980)
+#### [Amplify signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3660,7 +3617,7 @@ created: 2026-05-02
 >
 > **[6:27](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980&t=387)** I can't use this circuit to attenuate signals.
 >
-> **[6:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980&t=391)** At the very least, if I lower the feedback all the way down to zero ohms by creating a short circuit, this circuit will act similar to a unity gain buffer, having a gain of one.
+> **[6:31](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980&t=391)** At the very least, if I lower the feedback all the way down to zero ohms by creating a short circuit, this circuit will act similar to a [[Unity]] gain buffer, having a gain of one.
 >
 > **[6:43](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/amplify-signals-14916245?u=76281980&t=403)** To demonstrate the non-inverting op amp configuration, I've built the circuit on my breadboard but instead of using static values for both resistors, I've decided to replace the feedback resistor with a 10 kiloohm potentiometer, which I'm using as a variable resistor to allow me to manually adjust the gain of the circuit.
 >
@@ -3680,14 +3637,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), [[Unity]] (1)
+> **Frameworks & Libraries:** [[Unity]] (1)
 > **Tools:** terminal (15)
 > **CLI Commands:** make (4), node (1)
 > **Analogies:** similar to (2), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filter signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980)
+#### [Filter signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3715,7 +3671,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980&t=89)** This 10 kiloohm resistor in series with a 100 nanofarad capacitor will have a cutoff frequency of around 159 hertz.
 >
-> **[1:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980&t=98)** The output from the passive filter is then fed into a unity gain buffer on the right side of the circuit.
+> **[1:38](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980&t=98)** The output from the passive filter is then fed into a [[Unity]] gain buffer on the right side of the circuit.
 >
 > **[1:44](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/filter-signals-14917123?u=76281980&t=104)** The op amps exceptionally high input impedance prevents it from overloading the filter's output.
 >
@@ -3797,7 +3753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Unity]] (6), power (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Unity]] (6)
 > **Code Identifiers:** db (3)
 > **CLI Commands:** make (2)
 > **Analogies:** similar to (1), for example (1)
@@ -3806,8 +3762,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Combine signals
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/combine-signals-14918137?u=76281980)
+#### [Combine signals](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/combine-signals-14918137?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3885,8 +3840,7 @@ created: 2026-05-02
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Audio equalizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-audio-equalizer?u=76281980)
+#### [Challenge: Audio equalizer](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/challenge-audio-equalizer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3964,7 +3918,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **Code Identifiers:** khz (2)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** such as (2)
@@ -3972,9 +3925,9 @@ created: 2026-05-02
 > **Env Vars:** mp3 (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - it (1)
+> **Non-Speech:** (upbeat techno music) (1)
 
-#### Solution: Audio equalizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980)
+#### [Solution: Audio equalizer](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3988,7 +3941,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=19)** For the two filter blocks.
 >
-> **[0:21](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=21)** I decided to use a basic Op-Amp filter circuit, that consists of an RC low pass, or high pass filter connected to an Op-Amp unity gain buffer.
+> **[0:21](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=21)** I decided to use a basic Op-Amp filter circuit, that consists of an RC low pass, or high pass filter connected to an Op-Amp [[Unity]] gain buffer.
 >
 > **[0:30](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=30)** And for combining the two equalizer signals back together at the end.
 >
@@ -4282,11 +4235,11 @@ created: 2026-05-02
 >
 > **[10:32](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=632)** I usually find new unexpected problems to overcome.
 >
-> **[10:35](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=635)** But those challenges are part of the fun, when working with electronics.
+> **[10:35](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/solution-audio-equalizer?u=76281980&t=635)** But those challenges are part of the fun, when working with [[Electronics]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (10), [[Unity]] (3), application (1), next (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Unity]] (3), [[Electronics]] (1)
 > **CLI Commands:** make (3), rails (2), find (1)
 > **Versions:** 4.5 (3), 3.3 (2), 4.7 (1)
 > **Non-Speech:** (soft upbeat music) (5)
@@ -4299,8 +4252,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your journey with electronics
-> [LinkedIn Learning](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980)
+#### [Continue your journey with electronics](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4310,7 +4262,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980&t=9)** The examples I've shared are just a small sample of the many ways those components can be used.
 >
-> **[0:15](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980&t=15)** So I recommend finding a good set of resources for circuit ideas as you continue to learn about electronics.
+> **[0:15](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980&t=15)** So I recommend finding a good set of resources for circuit ideas as you continue to learn about [[Electronics]].
 >
 > **[0:21](https://www.linkedin.com/learning/electronics-foundations-semiconductor-devices/continue-your-journey-with-electronics?u=76281980&t=21)** The internet is a good place to start because there are hundreds of websites where people have posted their own circuit designs.
 >

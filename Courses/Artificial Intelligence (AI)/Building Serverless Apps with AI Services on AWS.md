@@ -108,18 +108,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Serverless apps with AI services on AWS
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
+#### [Serverless apps with AI services on AWS](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=0)** - Artificial intelligence is in everybody's mind right now.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=0)** - [[Artificial Intelligence (AI)|Artificial intelligence]] is in everybody's mind right now.
 >
 > **[0:04](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=4)** But as a developer, how you can get started building AI applications without knowing about machine learning or being a data scientist?
 >
 > **[0:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=14)** The answer is very relying on third party APIs that provide the functionality you're looking for.
 >
-> **[0:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=20)** There are many services out there that offer generative AI models ready to use and APIs to solve problems with AI.
+> **[0:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=20)** There are many services out there that offer [[Generative AI]] models ready to use and APIs to solve problems with AI.
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=29)** In this course, I will help you get started orchestrating AI applications using a programmatic approach and generative AI.
 >
@@ -127,19 +126,18 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=46)** I'm Marcia Villalba, principal developer advocate at AWS, and I have been developing software for over 20 years.
 >
-> **[0:53](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=53)** I'm a big proponent of cloud computing, serverless and automation.
+> **[0:53](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=53)** I'm a big proponent of [[Cloud Computing]], serverless and automation.
 >
 > **[0:57](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/serverless-apps-with-ai-services-on-aws?u=76281980&t=57)** So let's get started with this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), aws (3), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Cloud Computing]] (1)
 > **CLI Commands:** aws (3)
 > **Env Vars:** aws (3)
 > **Speakers:** - artificial (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=2)** In order to follow along, you need to have a bit of knowledge in different areas.
 >
-> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=8)** You will code part of the project of this course using Node.js and JavaScript.
+> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=8)** You will code part of the project of this course using [[Node.js]] and [[JavaScript]].
 >
 > **[0:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=13)** It'll be great if you have some experience with this programming language.
 >
@@ -159,7 +157,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=33)** During the course, you will need an AWS account.
 >
-> **[0:36](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=36)** If you don't have one and you don't know how to create it, check the LinkedIn Learning Library for a course that will help you.
+> **[0:36](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=36)** If you don't have one and you don't know how to create it, check the [[LinkedIn]] Learning Library for a course that will help you.
 >
 > **[0:44](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=44)** Many of the services that we are going to use are covered in the AWS Free Tier.
 >
@@ -169,11 +167,11 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=68)** I will be developing the projects of this course using Visual Studio Code on a Mac.
 >
-> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=73)** However, you can use any code editor you feel comfortable with and follow the course on Windows, or Linux machine as all the tools are supported in all the platforms.
+> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-should-know?u=76281980&t=73)** However, you can use any code editor you feel comfortable with and follow the course on [[Windows]], or [[Linux]] machine as all the tools are supported in all the platforms.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Node.js]] (2), [[JavaScript]] (1), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Node.js]] (2), [[JavaScript]] (1), [[LinkedIn]] (1), [[Windows]] (1), [[Linux]] (1)
 > **CLI Commands:** aws (3), node (2), find (1)
 > **Env Vars:** aws (3)
 > **File Paths:** node.js (2)
@@ -182,8 +180,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Prerequisites:** you need to have (1)
 
-#### What you are going to build in this course
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980)
+#### [What you are going to build in this course](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -199,7 +196,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980&t=28)** The first project is a document processing application in which the users upload a video or audio file to permanent storage, and that file gets processed in real time.
 >
-> **[0:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980&t=39)** The processing of these files involves different AI services like transcription, translation, and generative AI.
+> **[0:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980&t=39)** The processing of these files involves different AI services like transcription, translation, and [[Generative AI]].
 >
 > **[0:48](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build-in-this-course?u=76281980&t=48)** When the workflow completes different parts of the process notifies the stakeholders by sending an email or by putting an event into an event bus so other applications can process the results further if needed.
 >
@@ -211,7 +208,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (3), ai (2), application (1), [[Generative AI]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [narrator] (1)
 
@@ -220,12 +217,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
+#### [Introduction to AI](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=0)** - [Presenter] This course is called Building Serverless Applications with Artificial Intelligence.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=0)** - [Presenter] This course is called Building Serverless Applications with [[Artificial Intelligence (AI)|Artificial Intelligence]].
 >
 > **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=5)** That's why I want to start by introducing what artificial intelligence means and some important concepts.
 >
@@ -247,9 +243,9 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=70)** Machine learning or ML is a technique that makes computers learn from data and experience to improve their performance on some task.
 >
-> **[1:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=79)** Machine learning uses different algorithms to learn from the data and make inferences without explicit programming.
+> **[1:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=79)** Machine learning uses different [[Algorithms]] to learn from the data and make inferences without explicit programming.
 >
-> **[1:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=87)** Then there is deep learning.
+> **[1:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=87)** Then there is [[Deep Learning]].
 >
 > **[1:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=89)** That is a subset of ML.
 >
@@ -257,7 +253,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=95)** This categorization tries to mimic how the human brain works.
 >
-> **[1:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=99)** Artificial neural networks learn by example, similar to how humans learns.
+> **[1:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=99)** [[Artificial Neural Networks]] learn by example, similar to how humans learns.
 >
 > **[1:45](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=105)** This consists of at least three layers of networks: an input layer, a hidden layer, and an output layer.
 >
@@ -265,7 +261,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=119)** The value of the weights is what needs to be trained to produce a desire output.
 >
-> **[2:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=125)** And finally, there is generative AI.
+> **[2:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=125)** And finally, there is [[Generative AI]].
 >
 > **[2:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=127)** That is a subset of deep learning.
 >
@@ -285,7 +281,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=163)** For this, they use different classification algorithms that can label a transaction as fraudulent or not.
 >
-> **[2:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=170)** Personalized recommendations is another use case that you might have seen in your favorite e-commerce or streaming platforms.
+> **[2:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=170)** Personalized recommendations is another use case that you might have seen in your favorite [[E-Commerce]] or streaming platforms.
 >
 > **[2:58](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=178)** These companies train machine learning models with customers behaviors and obtain personalized recommendations for those specific customers improving their experience.
 >
@@ -299,7 +295,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=216)** These models can not create new text.
 >
-> **[3:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=219)** They just translate word by word, and in some cases, they can understand common phrases.
+> **[3:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=219)** They just translate [[Microsoft Word|word]] by word, and in some cases, they can understand common phrases.
 >
 > **[3:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-ai?u=76281980&t=226)** There are many more use cases.
 >
@@ -307,15 +303,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Deep Learning]] (3), data (2), [[Algorithms]] (2)
+> **Frameworks & Libraries:** [[Artificial Intelligence (AI)|Artificial intelligence]] (4), [[Deep Learning]] (3), [[Algorithms]] (2), [[Microsoft Word|Word]] (2), [[Artificial Neural Networks]] (1)
 > **Definitions:** is a  (4), is called (1)
 > **Analogies:** for example (2), similar to (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** later in (1)
 > **Speakers:** - [presenter] (1)
 
-#### Introduction to Amazon AI Services
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980)
+#### [Introduction to Amazon AI Services](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -331,7 +326,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=29)** This layer is usually for ML experts and providers.
 >
-> **[0:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=33)** You can find here the different frameworks that AWS offers, the different silicone solutions like Inferentia and Trainium and the core service that is Amazon EC2 to to run all these.
+> **[0:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=33)** You can find here the different frameworks that AWS offers, the different silicone solutions like Inferentia and Trainium and the core service that is [[Amazon EC2]] to to run all these.
 >
 > **[0:45](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=45)** Organizations that are experts in ML and AI use this layer to build everything from scratch.
 >
@@ -343,7 +338,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=69)** This is a layer we are going to focus this course on.
 >
-> **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=72)** Here you can find our Generative AI services that we are going to talk about in the following video, and also the specialized and core AI services.
+> **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=72)** Here you can find our [[Generative AI]] services that we are going to talk about in the following video, and also the specialized and core AI services.
 >
 > **[1:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-ai-services?u=76281980&t=83)** Lets look at this layer in a little bit more detail.
 >
@@ -373,7 +368,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), aws (8), [[Amazon EC2]] (1), [[Generative AI]] (1), api (1)
+> **Frameworks & Libraries:** [[Amazon EC2]] (1), [[Generative AI]] (1)
 > **CLI Commands:** aws (8), find (5)
 > **Env Vars:** aws (8), ec2 (1), api (1), sdk (1)
 > **Cross-References:** later in (2), previous video (1)
@@ -381,12 +376,11 @@ created: 2026-05-02
 > **UI Navigation:** navigate to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Gen AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980)
+#### [Introduction to Gen AI](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=0)** - [Instructor] When we introduced AI in this section, we also briefly introduced generative AI as a subset of deep learning, but we didn't talk about it.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=0)** - [Instructor] When we introduced AI in this section, we also briefly introduced [[Generative AI]] as a subset of [[Deep Learning]], but we didn't talk about it.
 >
 > **[0:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=9)** Let's do that in this video.
 >
@@ -420,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=89)** A generative AI model always tries to predict what is the next token given an input.
 >
-> **[1:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=94)** For example, if we say to the model, Today, I want to, the model will try to fill the gap with store, office, mall, but not with tomato, as tomatoes are not a place.
+> **[1:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=94)** For example, if we say to the model, Today, I want to, the model will try to fill the gap with store, [[Microsoft Office|office]], mall, but not with tomato, as tomatoes are not a place.
 >
 > **[1:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=106)** The next token generated based on the input and the learned experience of the model.
 >
@@ -440,7 +434,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=177)** In this course, you will learn how to build a simple chatbot.
 >
-> **[3:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=181)** Code generation or content creation tools are great examples of how AI helps to boost employees' productivity.
+> **[3:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=181)** Code generation or [[Content Creation]] tools are great examples of how AI helps to boost employees' productivity.
 >
 > **[3:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-gen-ai?u=76281980&t=188)** For example, Amazon Code Whisperer is a code companion that you install in your IDE, and it will do code recommendations as you type, making you solve problems faster.
 >
@@ -450,15 +444,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Generative AI]] (6), ai (5), next (4), chatbot (2)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Deep Learning]] (1), [[Microsoft Office|Office]] (1), [[Content Creation]] (1)
 > **Analogies:** for example (5)
 > **Definitions:** is a  (3)
 > **Env Vars:** ide (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to Amazon Bedrock
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980)
+#### [Introduction to Amazon Bedrock](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -486,19 +479,18 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=63)** At the end of the course, you are going to learn how to create these knowledge bases.
 >
-> **[1:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=68)** And then Bedrock offers a set of capabilities to build gen AI applications, capabilities that range from RAG, retrieval-augmented generation, Bedrock agents, Guardrails, and many other features that allows you to build secure gen AI applications.
+> **[1:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-amazon-bedrock?u=76281980&t=68)** And then Bedrock offers a set of capabilities to build gen AI applications, capabilities that range from RAG, [[Retrieval-Augmented Generation (RAG)|retrieval-augmented generation]], Bedrock agents, Guardrails, and many other features that allows you to build secure gen AI applications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (2), next (1), api (1), application (1)
+> **Frameworks & Libraries:** [[Retrieval-Augmented Generation (RAG)|Retrieval-augmented generation]] (1)
 > **Env Vars:** api (1), ai21 (1), rag (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenges when building AI and Gen AI applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980)
+#### [Challenges when building AI and Gen AI applications](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -528,9 +520,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=66)** You send the request formatted in a specific format and you get a response in a format that your application is familiar with.
 >
-> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=74)** In other cases, like when working with Gen AI and foundational models, you need to craft these calls using what is known prompt engineering.
+> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=74)** In other cases, like when working with Gen AI and foundational models, you need to craft these calls using what is known [[Prompt Engineering]].
 >
-> **[1:24](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=84)** This course won't get into the details of prompt engineer, but you can find in the LinkedIn Learning Library a course dedicated to this topic.
+> **[1:24](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=84)** This course won't get into the details of prompt engineer, but you can find in the [[LinkedIn]] Learning Library a course dedicated to this topic.
 >
 > **[1:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=93)** Another challenge you will face when building AI applications is that you'll need to orchestrate how you are going to call all these different AI services.
 >
@@ -538,11 +530,11 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=111)** In this course, we are going to focus on this challenge.
 >
-> **[1:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=115)** You'll learn two different strategies to orchestrate your applications, one programmatic and one using generative AI and agents.
+> **[1:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenges-when-building-ai-and-gen-ai-applications?u=76281980&t=115)** You'll learn two different strategies to orchestrate your applications, one programmatic and one using [[Generative AI]] and agents.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), aws (2), data (2), api (2), application (1)
+> **Frameworks & Libraries:** [[Prompt Engineering]] (1), [[LinkedIn]] (1), [[Generative AI]] (1)
 > **Env Vars:** aws (2), api (2)
 > **CLI Commands:** aws (2), find (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -555,8 +547,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is serverless?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
+#### [What is serverless?](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=9)** What does it mean that an application is serverless?
 >
-> **[0:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=13)** One of the first things people say to me whenever I mention the word serverless is that there are still servers in serverless.
+> **[0:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=13)** One of the first things people say to me whenever I mention the [[Microsoft Word|word]] serverless is that there are still servers in serverless.
 >
 > **[0:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=20)** Yes, there are.
 >
@@ -612,17 +603,16 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=142)** Just write a simple function and upload it to the cloud.
 >
-> **[2:25](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=145)** You are going to use AWS Lambda together with Amazon Bedrock in one of the last section of this course to provide business logic to a generative AI chatbot.
+> **[2:25](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-serverless?u=76281980&t=145)** You are going to use AWS Lambda together with Amazon Bedrock in one of the last section of this course to provide business logic to a [[Generative AI]] chatbot.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (5), cloud (3), ai (2), business (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Generative AI]] (1)
 > **CLI Commands:** aws (5)
 > **Env Vars:** aws (5)
 > **Speakers:** - [instructor] (1)
 
-#### Why serverless is great to build AI apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980)
+#### [Why serverless is great to build AI apps](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -638,15 +628,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=27)** You have an API that you call from your applications and AWS does all the heavy lifting for you.
 >
-> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=34)** An architecture like this is recommended using other serverless components to embrace the scalability of the application.
+> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=34)** An architecture like this is recommended using other serverless components to embrace the [[Scalability]] of the application.
 >
-> **[0:41](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=41)** So all the different services that compose the application can scale together, and you don't need to plan the capacity you need for your application.
+> **[0:41](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=41)** So all the different services that [[Jetpack Compose|compose]] the application can scale together, and you don't need to plan the capacity you need for your application.
 >
 > **[0:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=50)** For orchestration of the data and calling these endpoints, serverless is a great way to go, as there are already services built in AWS that provides solutions to these problems.
 >
 > **[1:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=61)** For example, you can use AWS Step Functions to create the logic for the application, call all the different services, and transform the data as you need.
 >
-> **[1:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=70)** Step Functions is a serverless service that provides workflow management with no code start and scalability built in.
+> **[1:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=70)** Step Functions is a serverless service that provides [[Workflow Management]] with no code start and scalability built in.
 >
 > **[1:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/why-serverless-is-great-to-build-ai-apps?u=76281980&t=79)** You can also take advantage of Amazon EventBridge for creating an application in real time that responds to different events, such as customer uploading a file or clicking a button.
 >
@@ -668,7 +658,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (8), aws (7), ai (4), data (3), [[Scalability]] (2)
+> **Frameworks & Libraries:** [[Scalability]] (2), [[Jetpack Compose|Compose]] (1), [[Workflow Management]] (1)
 > **Env Vars:** aws (7), api (1)
 > **CLI Commands:** aws (7)
 > **Definitions:** is a  (5)
@@ -677,8 +667,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using Amazon Bedrock from serverless services
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980)
+#### [Using Amazon Bedrock from serverless services](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -686,9 +675,9 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=6)** If you want to use Bedrock with AWS Lambda, you just need to use the AWS SDK.
 >
-> **[0:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=12)** The AWS SDK is a software development kit and it allows you to call the AWS services using an API.
+> **[0:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=12)** The AWS SDK is a [[Software Development]] kit and it allows you to call the AWS services using an API.
 >
-> **[0:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=19)** In this example, I'm using AWS SDK for JavaScript version 3 to invoke a Bedrock model.
+> **[0:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=19)** In this example, I'm using AWS SDK for [[JavaScript]] version 3 to invoke a Bedrock model.
 >
 > **[0:26](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/using-amazon-bedrock-from-serverless-services?u=76281980&t=26)** You need to pass the configuration to the SDK and invoke the model.
 >
@@ -716,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (8), [[Software Development]] (1), api (1), [[JavaScript]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Software Development]] (1), [[JavaScript]] (1)
 > **Env Vars:** aws (8), sdk (4), sam (2), api (1)
 > **CLI Commands:** aws (8)
 > **Prerequisites:** configure (2)
@@ -730,8 +719,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The important role of infrastructure as code
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
+#### [The important role of infrastructure as code](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -739,7 +727,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=3)** You might be wondering why there is even a video about this topic.
 >
-> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=8)** Because infrastructure as code is one of the fundamental practices when working with serverless applications in production at the scale.
+> **[0:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=8)** Because [[Infrastructure as code (IaC)|infrastructure as code]] is one of the fundamental practices when working with serverless applications in production at the scale.
 >
 > **[0:16](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=16)** Let's start by answering the question, what is infrastructure as code?
 >
@@ -757,7 +745,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=63)** You will define your Lambda functions, your step functions workflows, the rules that you're going to use for event breach, and any AWS resource as code.
 >
-> **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=72)** It can be in YAML, JSON, or even JavaScript or Python, depending on the infrastructure as code framework you choose.
+> **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=72)** It can be in YAML, [[JSON]], or even [[JavaScript]] or [[Python (Programming Language)|Python]], depending on the infrastructure as code framework you choose.
 >
 > **[1:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=80)** You then store these as scripts in a code repository as you do with code and put them through code reviews and tests.
 >
@@ -785,9 +773,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=159)** Later in this chapter, you will learn more about AWS SAM.
 >
-> **[2:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=163)** Or you can use AWS CDK Cloud Development Kit, a framework that allows you to define cloud infrastructure with real code.
+> **[2:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=163)** Or you can use AWS CDK [[Cloud Development]] Kit, a framework that allows you to define [[Cloud Infrastructure]] with real code.
 >
-> **[2:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=172)** Or some third party framework like Terraform, serverless frameworks, and many others.
+> **[2:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=172)** Or some third party framework like [[Terraform]], serverless frameworks, and many others.
 >
 > **[2:56](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/the-important-role-of-infrastructure-as-code?u=76281980&t=176)** It doesn't matter which one you choose.
 >
@@ -795,7 +783,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), aws (8), application (2), ai (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (8), [[JSON]] (1), [[JavaScript]] (1), [[Python (Programming Language)|Python]] (1), [[Cloud Development]] (1)
 > **Env Vars:** aws (8), sam (2), yaml (1), json (1), cdk (1)
 > **CLI Commands:** aws (8), python (1), cd (1), terraform (1)
 > **Definitions:** means that (2), is a  (1)
@@ -804,8 +792,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Analogies:** such as (1)
 
-#### Introducing AWS SAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980)
+#### [Introducing AWS SAM](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +802,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=12)** For production applications, you want to have a process that can be maintained over time and replicated in different environments, such as testing, development, and production.
 >
-> **[0:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=21)** When building serverless applications for production, it's recommended to use Infrastructure as Code.
+> **[0:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=21)** When building serverless applications for production, it's recommended to use [[Infrastructure as code (IaC)|Infrastructure as Code]].
 >
 > **[0:26](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=26)** You can implement the Infrastructure as Code practice in different ways when building serverless applications.
 >
@@ -835,7 +822,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=65)** You can easily define functions, APIs, and database tables that are quite common resources needed in serverless applications.
 >
-> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=74)** The infrastructure is defined in a YAML file, and then it can be deployed with the help of the SAM CLI to the cloud.
+> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=74)** The infrastructure is defined in a YAML file, and then it can be deployed with the help of the SAM [[CLI]] to the cloud.
 >
 > **[1:22](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introducing-aws-sam?u=76281980&t=82)** That is the second component of AWS SAM.
 >
@@ -877,7 +864,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (17), cloud (5), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), application (2), ci (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[CLI]] (1)
 > **Env Vars:** aws (17), sam (14), yaml (1), cli (1)
 > **CLI Commands:** aws (17), cd (2), make (1)
 > **Tools:** aws console (1), terminal (1)
@@ -886,8 +873,7 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Installing and configuring AWS SAM
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980)
+#### [Installing and configuring AWS SAM](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -895,9 +881,9 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=10)** Before installing AWS SAM, you need to have an AWS account, an IAM admin user, an access key and secret key for the user to access AWS programmatically.
 >
-> **[0:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=23)** If you don't have those prerequisites, follow the video creating IAM users in the Learning Lambda course in the LinkedIn Learning Library.
+> **[0:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=23)** If you don't have those prerequisites, follow the video creating IAM users in the Learning Lambda course in the [[LinkedIn]] Learning Library.
 >
-> **[0:32](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=32)** Also, you need to have an AWS CLI installed and configured in your machine.
+> **[0:32](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=32)** Also, you need to have an AWS [[CLI]] installed and configured in your machine.
 >
 > **[0:38](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/installing-and-configuring-aws-sam?u=76281980&t=38)** For doing that, you can follow the installations instructions in the installation guide of the AWS CLI for your operating system.
 >
@@ -919,7 +905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (13), [[CLI]] (6), application (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[CLI]] (6), [[LinkedIn]] (1)
 > **Env Vars:** aws (12), sam (8), cli (6), iam (3)
 > **CLI Commands:** aws (13), find (1), docker (1), make (1)
 > **Prerequisites:** install (4), configure (2), you need to have (2)
@@ -927,8 +913,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting started with the project
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980)
+#### [Getting started with the project](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -980,7 +965,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980&t=118)** This will guide us through the deploying configuration and we will need to run this command only once when we deploy the project for the first time.
 >
-> **[2:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980&t=126)** So let's put a name, sam linkedin project 1.
+> **[2:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980&t=126)** So let's put a name, sam [[LinkedIn]] project 1.
 >
 > **[2:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/getting-started-with-the-project?u=76281980&t=133)** Then we need to pick the AWS region.
 >
@@ -1024,7 +1009,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (4), cloud (2), [[LinkedIn]] (2), node (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** aws (4), make (1), mkdir (1), find (1), node (1)
 > **Exercise Files:** template (7)
 > **File Paths:** app.js (2), template.yml (1), samconfig.toml (1)
@@ -1038,8 +1023,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding Step Functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
+#### [Understanding Step Functions](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1089,7 +1073,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=155)** Instead of having a big function, we use a workflow.
 >
-> **[2:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=159)** Batch processing.
+> **[2:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=159)** [[Batch Processing]].
 >
 > **[2:40](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=160)** Step functions are great for processing large batches of data.
 >
@@ -1101,7 +1085,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=177)** Machine learning.
 >
-> **[2:58](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=178)** Step functions can be used to build end-to-end machine learning workflows that combine data preparation model training, evaluation, deployment, and retraining steps.
+> **[2:58](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=178)** Step functions can be used to build end-to-end machine learning workflows that combine [[Data Preparation]] model training, evaluation, deployment, and retraining steps.
 >
 > **[3:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/understanding-step-functions?u=76281980&t=187)** I will leave you a link in the resources of this video with an article on how one of the companies is doing this.
 >
@@ -1135,7 +1119,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), aws (5), [[Orchestration]] (4), application (3), parallel (3)
+> **Frameworks & Libraries:** [[Batch Processing]] (1), [[Data Preparation]] (1)
 > **Env Vars:** aws (5), api (1), htp (1)
 > **CLI Commands:** aws (5), make (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -1144,8 +1128,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating your first workflow in the AWS console
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980)
+#### [Creating your first workflow in the AWS console](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1219,7 +1202,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980&t=156)** If we go here, we can see the input to the lambda function to that particular state.
 >
-> **[2:41](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980&t=161)** The output, that is the hello word message that our lambda function provides.
+> **[2:41](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980&t=161)** The output, that is the hello [[Microsoft Word|word]] message that our lambda function provides.
 >
 > **[2:45](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-your-first-workflow-in-the-aws-console?u=76281980&t=165)** And then some details on running this API.
 >
@@ -1239,7 +1222,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), aws (1), management (1), [[Microsoft Word|Word]] (1), api (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (4), dropdown (1)
 > **CLI Commands:** make (2), aws (1), find (1)
 > **Env Vars:** aws (1), api (1)
@@ -1248,14 +1231,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a workflow as IaC
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980)
+#### [Creating a workflow as IaC](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=0)** - [Instructor] In the previous video, you learned how to create a workflow from the AWS console.
 >
-> **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=5)** But we have talk how important is to have all the resources that we want built as infrastructure as code.
+> **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=5)** But we have talk how important is to have all the resources that we want built as [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[0:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=12)** So let's build that workflow as infrastructure as code.
 >
@@ -1275,7 +1257,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=42)** The first one is where we are going to find the definition of the state machine.
 >
-> **[0:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=47)** All the state machines have a definition that can be a YAML or a JSON.
+> **[0:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=47)** All the state machines have a definition that can be a YAML or a [[JSON]].
 >
 > **[0:53](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-workflow-as-iac?u=76281980&t=53)** Even if we are working on the visual studio console, we can see the definition here it is for the one that we just created previously.
 >
@@ -1359,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (3), [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (2), next (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (3), [[JSON]] (2)
 > **Env Vars:** yaml (4), aws (3), json (2), sam (1), asl (1)
 > **CLI Commands:** aws (3), make (2), find (1)
 > **Tools:** visual studio (3), aws console (1)
@@ -1368,8 +1350,7 @@ created: 2026-05-02
 > **File Paths:** statemachine.asl.yaml (1)
 > **Cross-References:** previous video (1)
 
-#### Introduction to ASL
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980)
+#### [Introduction to ASL](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1379,13 +1360,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=5)** Using the workflow studio, you drag and drop components and boom, the workflow wrote itself.
 >
-> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=11)** In the second video, you built it using infrastructure as code, but you copy and paste the workflow that you build previously without really understanding what was going on.
+> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=11)** In the second video, you built it using [[Infrastructure as code (IaC)|infrastructure as code]], but you copy and paste the workflow that you build previously without really understanding what was going on.
 >
 > **[0:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=23)** In this video, let's look a little bit more about ASL Amazon State Language.
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=29)** That is the language used to define these workflows.
 >
-> **[0:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=33)** ASL is a JSON base, and you can also represent this as a YAML as you saw in the previous video.
+> **[0:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=33)** ASL is a [[JSON]] base, and you can also represent this as a YAML as you saw in the previous video.
 >
 > **[0:40](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-asl?u=76281980&t=40)** Structural language used to define your state machine, a collection of states that do work.
 >
@@ -1457,7 +1438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[JSON]] (1), data (1), feature (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** asl (5), json (1), yaml (1), ide (1)
 > **Definitions:** is a  (3), refers to (1)
 > **Cross-References:** as you saw (1), previous video (1), in the next (1)
@@ -1466,8 +1447,7 @@ created: 2026-05-02
 > **UI Navigation:** drag and drop (1)
 > **Prerequisites:** configure (1)
 
-#### Introduction to flow states
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980)
+#### [Introduction to flow states](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1517,7 +1497,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980&t=143)** You can as well configure the maximum concurrency to your needs.
 >
-> **[2:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980&t=147)** The input for this state can be passed as the form of a previous state, or it can iterate over objects that are in an S3 bucket, a JSON file, or a comma separated value pass in S3.
+> **[2:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980&t=147)** The input for this state can be passed as the form of a previous state, or it can iterate over objects that are in an S3 bucket, a [[JSON]] file, or a comma separated value pass in S3.
 >
 > **[2:42](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/introduction-to-flow-states?u=76281980&t=162)** Iterations in this case, start as a child workflow execution in their own independent execution history.
 >
@@ -1551,7 +1531,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (7), data (2), concurrent (2), [[JSON]] (2), aws (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** json (2), asl (1), aws (1), http (1)
 > **Definitions:** is a  (4), is an  (1)
 > **CLI Commands:** aws (1), make (1)
@@ -1560,12 +1540,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [presenter] (1)
 
-#### Step Functions integrations
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/step-functions-integrations?u=76281980)
+#### [Step Functions integrations](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/step-functions-integrations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/step-functions-integrations?u=76281980&t=0)** - [Instructor] When we start out learning about Step Functions, you learn some use cases like the Step Functions are great for manual workflows or that is well suited to connect multiple microservices together.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/step-functions-integrations?u=76281980&t=0)** - [Instructor] When we start out learning about Step Functions, you learn some use cases like the Step Functions are great for manual workflows or that is well suited to connect multiple [[Microservices]] together.
 >
 > **[0:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/step-functions-integrations?u=76281980&t=12)** But how this is achieved?
 >
@@ -1665,15 +1644,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), next (8), aws (3), data (2), [[Microservices]] (1)
+> **Frameworks & Libraries:** [[Microservices]] (1)
 > **Env Vars:** api (10), aws (3), http (2), ecs (1), sdk (1)
 > **Definitions:** means that (2), is an  (1), is a  (1)
 > **CLI Commands:** aws (3)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying the workflow with simple integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980)
+#### [Modifying the workflow with simple integration](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1727,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=217)** So I will call it something, and you cannot use it, exactly the same name, because it will not work for you.
 >
-> **[3:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=227)** So something like that, linkedin-serverless-ai-marcia-input-bucket.
+> **[3:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=227)** So something like that, [[LinkedIn]]-serverless-ai-marcia-input-bucket.
 >
 > **[3:54](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=234)** Then we are going to modify the state machine.
 >
@@ -1819,7 +1797,7 @@ created: 2026-05-02
 >
 > **[7:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=432)** So I'm bringing a file from my computer.
 >
-> **[7:15](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=435)** I am uploading it manually using the console, but if you want, you could upload it from the CLI.
+> **[7:15](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=435)** I am uploading it manually using the console, but if you want, you could upload it from the [[CLI]].
 >
 > **[7:24](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-workflow-with-simple-integration?u=76281980&t=444)** This file is a step function file that I recorded.
 >
@@ -1995,7 +1973,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (10), ai (3), aws (2), [[LinkedIn]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[CLI]] (1)
 > **Env Vars:** api (10), sam (3), aws (2), asl (1), uri (1)
 > **UI Navigation:** go to (9), open the (2)
 > **CLI Commands:** make (5), aws (2), find (1)
@@ -2004,8 +1982,7 @@ created: 2026-05-02
 > **Exercise Files:** template (2)
 > **File Paths:** file.txt (1)
 
-#### Challenge: Modify the state machine to add an integration to AI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980)
+#### [Challenge: Modify the state machine to add an integration to AI service](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2051,7 +2028,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=127)** So if you don't load the file, you will notice that it looks something like this.
 >
-> **[2:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=129)** This is a JSON object, and it has a lot of information.
+> **[2:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=129)** This is a [[JSON]] object, and it has a lot of information.
 >
 > **[2:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=133)** It's a very long file, I just summarized it for you.
 >
@@ -2069,7 +2046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[JSON]] (2), aws (1), ai (1)
+> **Frameworks & Libraries:** [[JSON]] (2)
 > **Env Vars:** api (4), json (2), aws (1)
 > **Analogies:** for example (1), imagine (1)
 > **CLI Commands:** aws (1)
@@ -2078,8 +2055,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Modify the state machine to add an integration to AI service
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980)
+#### [Solution: Modify the state machine to add an integration to AI service](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2149,7 +2125,7 @@ created: 2026-05-02
 >
 > **[3:38](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=218)** So this is our past state that basically what will grab is the transcription that we have in this place and it will put it in the transcribed text, that this is the thing that we are going to send to translate.
 >
-> **[3:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=232)** So we are basically grabbing the whole object from S3 and then we are just grabbing that particular information from that JSON file.
+> **[3:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=232)** So we are basically grabbing the whole object from S3 and then we are just grabbing that particular information from that [[JSON]] file.
 >
 > **[4:02](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-modify-the-state-machine-to-add-an-integration-to-ai-service?u=76281980&t=242)** And then finally, we are calling the Translate API.
 >
@@ -2237,7 +2213,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (6), [[Search]] (1), aws (1), next (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** api (6), uri (1), aws (1), json (1), yaml (1)
 > **CLI Commands:** find (3), make (2), aws (1)
 > **Code Identifiers:** getobject (2)
@@ -2251,12 +2227,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Modifying the existing state machine to use Amazon Bedrock
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
+#### [Modifying the existing state machine to use Amazon Bedrock](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=0)** - [Instructor] Let's jump directly into adding generative AI to our workflow.
+> **[0:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=0)** - [Instructor] Let's jump directly into adding [[Generative AI]] to our workflow.
 >
 > **[0:06](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=6)** In this video, you will learn how to call Bedrock from your workflow, and what we want to do is to create a summary of the translated text.
 >
@@ -2360,7 +2335,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=295)** And the prompt is the one that we just completed in the steps before that.
 >
-> **[5:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=301)** We have a maximum tokens that we can configure.
+> **[5:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=301)** We have a maximum [[Tokens]] that we can configure.
 >
 > **[5:04](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=304)** And then we are putting the results in this results variable, but it's also getting stored in this URI.
 >
@@ -2450,7 +2425,7 @@ created: 2026-05-02
 >
 > **[8:35](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=515)** I open it with Firefox.
 >
-> **[8:38](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=518)** That makes a nice view of the Json.
+> **[8:38](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=518)** That makes a nice view of the [[JSON]].
 >
 > **[8:42](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/modifying-the-existing-state-machine-to-use-amazon-bedrock?u=76281980&t=522)** And if we go to completions, we can see here in data, the text that it is "Step Functions in a visual workflow tool "consisting of a series of discrete operations," and blah, blah, blah.
 >
@@ -2458,7 +2433,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (13), data (3), [[Generative AI]] (2), ai (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** uri (6), api (1), yaml (1), aws (1)
 > **UI Navigation:** go to (6), select the (1)
 > **Definitions:** is a  (6)
@@ -2467,8 +2442,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Prerequisites:** configure (1)
 
-#### Challenge: Integrate with Amazon Bedrock
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980)
+#### [Challenge: Integrate with Amazon Bedrock](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2494,25 +2468,24 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=70)** And if you need to add more things, feel free to add.
 >
-> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=73)** The results should be stored in that results directory in the S3 bucket with the name, for example, poem, the name of the original file, the json.
+> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=73)** The results should be stored in that results directory in the S3 bucket with the name, for example, poem, the name of the original file, the [[JSON]].
 >
 > **[1:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=83)** And in the next video I will show you the solution that I came out from this challenge.
 >
-> **[1:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=88)** One thing is that I just put a poem to put something a little bit funny, but feel free to ask generative AI for other things.
+> **[1:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=88)** One thing is that I just put a poem to put something a little bit funny, but feel free to ask [[Generative AI]] for other things.
 >
 > **[1:35](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-with-amazon-bedrock?u=76281980&t=95)** You can ask the top most important concepts of the video or to create a social media post out of the video or whatever you imagine, so feel free to do that.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (3), [[JSON]] (1), next (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), imagine (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (intriguing music) (1)
 
-#### Solution:  Integrate with Amazon Bedrock
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980)
+#### [Solution:  Integrate with Amazon Bedrock](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2640,7 +2613,7 @@ created: 2026-05-02
 >
 > **[5:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980&t=333)** And then if we go back to our results folder, we should see the poem here and we can download it.
 >
-> **[5:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980&t=339)** This can be quite a mess because sometimes generative AI is not that great at making poems.
+> **[5:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980&t=339)** This can be quite a mess because sometimes [[Generative AI]] is not that great at making poems.
 >
 > **[5:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-with-amazon-bedrock?u=76281980&t=346)** But, well, let's see.
 >
@@ -2656,7 +2629,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** parallel (11), prompt (9), next (2), functional (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Env Vars:** uri (4), yawl (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (4)
@@ -2665,8 +2638,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### What is event-driven architecture?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980)
+#### [What is event-driven architecture?](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2696,13 +2668,13 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=106)** This can slow development processes and reduce the feature velocity.
 >
-> **[1:51](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=111)** Tightly coupled components can also affect an application scalability and availability.
+> **[1:51](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=111)** Tightly coupled components can also affect an application [[Scalability]] and availability.
 >
 > **[1:56](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=116)** If two components depends on one another, a synchronous responses, a failure in one will cause the other to fail.
 >
 > **[2:04](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=124)** These failures can reduce the application overall fault tolerance.
 >
-> **[2:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=129)** For example, an e-commerce application might have multiple services: orders, billing, shipping, inventory, and make a synchronous change of calls between the services.
+> **[2:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=129)** For example, an [[E-Commerce]] application might have multiple services: orders, billing, shipping, inventory, and make a synchronous change of calls between the services.
 >
 > **[2:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=141)** A failure in one of those services will impact all the others.
 >
@@ -2744,17 +2716,17 @@ created: 2026-05-02
 >
 > **[4:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=274)** Scale and fail components independently in loosely coupled components.
 >
-> **[4:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=279)** Applications with loosely coupled components have fewer single points of failure as well as increased resiliency.
+> **[4:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=279)** Applications with loosely coupled components have fewer single points of failure as well as increased [[Resiliency]].
 >
 > **[4:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=287)** Event-driven architectures possess three key components.
 >
-> **[4:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=290)** Event producers that publish events, for example, it can be websites, microservices, internet of things devices, AWS service, or software as a service applications.
+> **[4:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=290)** Event producers that publish events, for example, it can be websites, [[Microservices]], [[IoT|internet of things]] devices, AWS service, or [[SaaS|software as a service]] applications.
 >
 > **[5:04](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=304)** Event consumers are the downstream components that get activated when events arrive.
 >
 > **[5:10](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=310)** Multiple consumers may be found in the same event.
 >
-> **[5:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=314)** Consuming events include starting workflows, running analysis, updating databases, doing some kind of compute.
+> **[5:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=314)** Consuming events include starting workflows, running analysis, updating [[Databases]], doing some kind of compute.
 >
 > **[5:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-event-driven-architecture?u=76281980&t=323)** Event brokers mediate between producers and consumers of events.
 >
@@ -2778,7 +2750,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (9), teams (2), feature (1), [[Scalability]] (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Scalability]] (1), [[E-Commerce]] (1), [[Resiliency]] (1), [[Microservices]] (1), [[IoT|Internet of things]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2), aws (1)
 > **Env Vars:** aws (1)
@@ -2787,8 +2759,7 @@ created: 2026-05-02
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to trigger a state machine when there is a new S3 file
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980)
+#### [How to trigger a state machine when there is a new S3 file](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2796,7 +2767,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=1)** Now you know a bit about event-driven architectures.
 >
-> **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=5)** Why we want our systems to react to events that are happening.
+> **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=5)** Why we want our systems to [[React.js|react]] to events that are happening.
 >
 > **[0:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=9)** So, how you can trigger a step function workflow to react to those events?
 >
@@ -2870,7 +2841,7 @@ created: 2026-05-02
 >
 > **[3:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=232)** We want to clean it up a little bit.
 >
-> **[3:56](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=236)** So I will do a little bit of data transformation here and use a little bit more intrinsic functions, where I'm formatting the output key to be stored in transcribed directory.
+> **[3:56](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=236)** So I will do a little bit of [[Data Transformation]] here and use a little bit more intrinsic functions, where I'm formatting the output key to be stored in transcribed directory.
 >
 > **[4:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=249)** And we are basically splitting the string that we get from the details.
 >
@@ -2892,7 +2863,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=308)** And now we don't need to trigger it, it'll just trigger automatically.
 >
-> **[5:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=312)** So I'll zoom this out a little bit so you can see the new execution coming in.
+> **[5:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=312)** So I'll [[Zoom]] this out a little bit so you can see the new execution coming in.
 >
 > **[5:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=319)** And then I will go to the bucket.
 >
@@ -2920,7 +2891,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=377)** The name of the bucket, object, the key.
 >
-> **[6:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=381)** So this is exactly the same format that we had before, with more information, but the rest of the information is being ignored by the state machine.
+> **[6:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=381)** So this is exactly the same format that we had before, with more information, but the [[Representational State Transfer (REST)|rest]] of the information is being ignored by the state machine.
 >
 > **[6:31](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-trigger-a-state-machine-when-there-is-a-new-s3-file?u=76281980&t=391)** So we need to wait a little bit for this to complete, but it will complete successfully.
 >
@@ -2942,7 +2913,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[React.js|React]] (3), aws (3), api (2), [[Data Transformation]] (1), [[Zoom]] (1)
+> **Frameworks & Libraries:** [[React.js|React]] (3), [[Data Transformation]] (1), [[Zoom]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** aws (3), make (2)
 > **Env Vars:** api (2), aws (2), sdk (1)
 > **UI Navigation:** go to (3), click on (1)
@@ -2951,8 +2922,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Prerequisites:** configure (1)
 
-#### How to send an email from the state machine
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980)
+#### [How to send an email from the state machine](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2980,7 +2950,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=72)** And in this case, we are going to use email, so I'm going to add a subscription email.
 >
-> **[1:18](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=78)** And I'm going to use a parameter, so we can define this email in our parameters file, and I don't need to put it in the infrastructure as code.
+> **[1:18](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=78)** And I'm going to use a parameter, so we can define this email in our parameters file, and I don't need to put it in the [[Infrastructure as code (IaC)|infrastructure as code]].
 >
 > **[1:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=87)** So now, the next time you deploy this, you do some deploy --guided as you did in the first time, and you will get the prompt to put the email.
 >
@@ -3016,11 +2986,11 @@ created: 2026-05-02
 >
 > **[3:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=207)** "Check the S3 bucket for more info."
 >
-> **[3:30](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=210)** We could send here the link to the load, the file, but we need to add more logic and more data transformation into this workflow in order to do that.
+> **[3:30](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=210)** We could send here the link to the load, the file, but we need to add more logic and more [[Data Transformation]] into this workflow in order to do that.
 >
 > **[3:40](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=220)** If you want to do it, go ahead and do it.
 >
-> **[3:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=223)** In the resources of this course, I will leave you links with GitHub repos that does that, so if you want to go and check it out, it will be there.
+> **[3:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=223)** In the resources of this course, I will leave you links with [[GitHub]] repos that does that, so if you want to go and check it out, it will be there.
 >
 > **[3:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/how-to-send-an-email-when-from-the-state-machine?u=76281980&t=232)** But for now, let's just make this notification.
 >
@@ -3074,7 +3044,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), prompt (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (1), api (1), [[Data Transformation]] (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (1), [[Data Transformation]] (1), [[GitHub]] (1)
 > **Env Vars:** sns (5), api (1), arn (1)
 > **CLI Commands:** make (3)
 > **Cross-References:** go back to (1)
@@ -3083,8 +3053,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Integrate to EventBridge event bus to send an event
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980)
+#### [Challenge: Integrate to EventBridge event bus to send an event](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3144,7 +3113,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980&t=146)** And the only thing we need to do is to give a name.
 >
-> **[2:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980&t=149)** One important thing that we are missing, and this is something you might need to copy paste because it's a kind of lot of JSON, is the permissions.
+> **[2:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980&t=149)** One important thing that we are missing, and this is something you might need to copy paste because it's a kind of lot of [[JSON]], is the permissions.
 >
 > **[2:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980&t=159)** So because EventBridge needs permissions in order to write and create the log streams, you need to give permissions to EventBridge to do that.
 >
@@ -3168,7 +3137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (1), [[JSON]] (1), next (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **Env Vars:** yaml (2), api (1), json (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (2)
@@ -3177,8 +3146,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Integrate to EventBridge event bus to send an event
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980)
+#### [Solution: Integrate to EventBridge event bus to send an event](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-integrate-to-eventbridge-event-bus-to-send-an-event?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3300,7 +3268,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), api (1), cloud (1), [[Search]] (1)
 > **Env Vars:** yaml (2), api (1), arn (1), url (1)
 > **UI Navigation:** go to (4), click on (1)
 > **CLI Commands:** make (3), find (1)
@@ -3308,14 +3275,14 @@ created: 2026-05-02
 > **File Paths:** template.yml (1)
 > **Exercise Files:** template (1)
 > **Best Practices:** always make sure (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 6. Build a Chatbot with GenAI
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is an Amazon Bedrock agent?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
+#### [What is an Amazon Bedrock agent?](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3323,9 +3290,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=7)** You program that orchestrator using step functions.
 >
-> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=11)** You decide what was needed to call, in what order, with which parameters, you manually program all the data transformation that was needed in order to call those services.
+> **[0:11](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=11)** You decide what was needed to call, in what order, with which parameters, you manually program all the [[Data Transformation]] that was needed in order to call those services.
 >
-> **[0:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=23)** What if you could use generative AI to orchestrate all those calls and do that for you?
+> **[0:23](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=23)** What if you could use [[Generative AI]] to orchestrate all those calls and do that for you?
 >
 > **[0:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=29)** In this part of the course, you are going to learn how you can do that.
 >
@@ -3337,7 +3304,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=47)** They can remember, retrieve, and interact with different systems.
 >
-> **[0:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=52)** Based on what the user ask them to do, they will decide the calls and the data transformations to the different services and databases by using reasoning.
+> **[0:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=52)** Based on what the user ask them to do, they will decide the calls and the data transformations to the different services and [[Databases]] by using reasoning.
 >
 > **[1:03](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-agent?u=76281980&t=63)** Agents are ideal for synchronous communications between users and machines.
 >
@@ -3363,13 +3330,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), application (1), [[Data Transformation]] (1), [[Generative AI]] (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (1), [[Generative AI]] (1), [[Databases]] (1)
 > **Analogies:** for example (3)
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you are going to build
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980)
+#### [What you are going to build](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3421,7 +3387,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980&t=159)** The knowledge base will have a list of all the cities with its latitude and longitude.
 >
-> **[2:44](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980&t=164)** When they use a request the weather forecast for a city, the agent will go and fetch the latitude and longitude for that city from the knowledge base before calling the Lambda function.
+> **[2:44](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980&t=164)** When they use a request the weather forecast for a city, the agent will go and [[Fetch]] the latitude and longitude for that city from the knowledge base before calling the Lambda function.
 >
 > **[2:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-you-are-going-to-build?u=76281980&t=175)** And it will pass to the Lambda function, only the latitude and the longitude instead of the city name.
 >
@@ -3431,15 +3397,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), api (2), aws (1), data (1), [[Fetch]] (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Cross-References:** in the next (3), later in (1)
 > **CLI Commands:** aws (1), find (1), make (1)
 > **Env Vars:** api (2), aws (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [presenter] (1)
 
-#### Creating a Lambda function for the agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980)
+#### [Creating a Lambda function for the agent](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3451,7 +3416,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=24)** So we want to create a function that calls this external API to get the current weather for a particular location.
 >
-> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=34)** For doing this, we are going to use a service that is called Explore California (Weather), that is built by the LinkedIn team.
+> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=34)** For doing this, we are going to use a service that is called Explore California (Weather), that is built by the [[LinkedIn]] team.
 >
 > **[0:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=43)** This is a fake weather service so the data that you will getting back looks weird if you know the place.
 >
@@ -3559,7 +3524,7 @@ created: 2026-05-02
 >
 > **[5:53](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=353)** We are missing one thing that is to initialize this project 'cause this is a Node project and we might want to initialize it so then we can run the install axios.
 >
-> **[6:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=367)** This is a dependency, a third-party dependency that we need to have in our Node modules and our package.json before deploying so it works.
+> **[6:07](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=367)** This is a dependency, a third-party dependency that we need to have in our Node modules and our package.[[JSON]] before deploying so it works.
 >
 > **[6:16](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-a-lambda-function-for-the-agent?u=76281980&t=376)** Now the next step is to deploy this and we would like to deploy it with sam deploy --guided and follow the steps as we have here.
 >
@@ -3623,7 +3588,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (13), [[JSON]] (5), [[LinkedIn]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[JSON]] (5), [[LinkedIn]] (2)
 > **Env Vars:** api (13), json (2), pdf (1), url (1)
 > **Code Identifiers:** apipath (3), actiongroup (2), httpmethod (2), sessionattributes (1), promptsessionattributes (1)
 > **CLI Commands:** make (5), find (2), node (2)
@@ -3632,8 +3597,7 @@ created: 2026-05-02
 > **Exercise Files:** template (3)
 > **Warnings:** be aware (1), watch out (1)
 
-#### Creating an Open API for the function
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980)
+#### [Creating an Open API for the function](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3653,7 +3617,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=48)** So let's do that.
 >
-> **[0:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=50)** The first thing we want to do is to create a new file, called whatever you want, but I will call it openAPI.json.
+> **[0:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=50)** The first thing we want to do is to create a new file, called whatever you want, but I will call it openAPI.[[JSON]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=62)** So this file will have the definition for our open API.
 >
@@ -3677,7 +3641,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=113)** So here, the first important thing is to have a description of the API path.
 >
-> **[1:59](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=119)** We are using generative AI, and generative AI looks at texts like human will do.
+> **[1:59](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=119)** We are using [[Generative AI]], and generative AI looks at texts like human will do.
 >
 > **[2:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-open-api-for-the-function?u=76281980&t=125)** So here, descriptions becomes very, very important.
 >
@@ -3763,7 +3727,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (15), [[JSON]] (5), [[Generative AI]] (2), aws (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (5), [[Generative AI]] (2)
 > **Env Vars:** api (15), aws (1)
 > **CLI Commands:** make (3), aws (2), cp (1)
 > **File Paths:** openapi.json (2)
@@ -3772,8 +3736,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is an Amazon Bedrock knowledge base?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980)
+#### [What is an Amazon Bedrock knowledge base?](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3797,7 +3760,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980&t=90)** With your project, you're going to build a knowledge base with a list of cities with its latitude and longitude.
 >
-> **[1:37](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980&t=97)** The agent will know how to fetch the data and how to use it to call the lambda function in the next step.
+> **[1:37](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980&t=97)** The agent will know how to [[Fetch]] the data and how to use it to call the lambda function in the next step.
 >
 > **[1:44](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-is-an-amazon-bedrock-knowledge-base?u=76281980&t=104)** But you'll see that a knowledge base can have all kind of organizational information.
 >
@@ -3805,15 +3768,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), rag (4), prompt (2), [[Fetch]] (1), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (1)
 > **Env Vars:** rag (4)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is called (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980)
+#### [Creating a knowledge base](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3839,7 +3801,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=80)** So let's wait for this a second and now let's go to our AWS console.
 >
-> **[1:26](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=86)** We could create the knowledge base as infrastructure as code, but because this is quite a long process, I want to show it to you from the console.
+> **[1:26](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=86)** We could create the knowledge base as [[Infrastructure as code (IaC)|infrastructure as code]], but because this is quite a long process, I want to show it to you from the console.
 >
 > **[1:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=94)** But if you would like to know how it's done as infrastructure as code, I will give you some material in the resources of this video.
 >
@@ -3889,7 +3851,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=286)** While we wait, we can select a model in where we want to test.
 >
-> **[4:49](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=289)** I will use the Claude here, if it allows me then... So zoom out, I cannot see the apply.
+> **[4:49](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=289)** I will use the Claude here, if it allows me then... So [[Zoom]] out, I cannot see the apply.
 >
 > **[4:59](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-knowledge-base?u=76281980&t=299)** And now we have the model and we just need to wait for this to finish.
 >
@@ -3917,7 +3879,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), next (5), aws (2), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), database (2)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[Zoom]] (1)
 > **CLI Commands:** find (2), aws (2), make (1)
 > **Env Vars:** aws (2), url (2), csv (1)
 > **UI Navigation:** go to (2), select the (1)
@@ -3926,8 +3888,7 @@ created: 2026-05-02
 > **Tools:** aws console (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an Amazon Bedrock agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980)
+#### [Creating an Amazon Bedrock agent](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3969,7 +3930,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=85)** The customers will provide you with the city name and country, and you will need to translate that information into the latitude and longitude for the city.
 >
-> **[1:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=93)** With that information, you can fetch the weather information for the customer in a friendly manner.
+> **[1:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=93)** With that information, you can [[Fetch]] the weather information for the customer in a friendly manner.
 >
 > **[1:40](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=100)** And here, we have the action groups, and this is the calls to the different lambda functions.
 >
@@ -4051,9 +4012,9 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=330)** Temperature range from 5 to 9."
 >
-> **[5:32](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=332)** So, you can see, this is very different from what the JSON is returning from the external API, it's formatted.
+> **[5:32](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=332)** So, you can see, this is very different from what the [[JSON]] is returning from the external API, it's formatted.
 >
-> **[5:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=339)** But we can see here the trace, and this is something that is quite interesting when we are working with this generative AI orchestration.
+> **[5:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=339)** But we can see here the trace, and this is something that is quite interesting when we are working with this [[Generative AI]] orchestration.
 >
 > **[5:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/creating-an-amazon-bedrock-agent?u=76281980&t=347)** So, we can click here, and we can see what the agent is doing.
 >
@@ -4079,7 +4040,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (5), [[Search]] (4), next (2), prompt (2), [[JSON]] (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Fetch]] (1), [[Generative AI]] (1)
 > **Env Vars:** api (5), arn (3), uri (2), yaml (2), json (2)
 > **Code Identifiers:** openapi (2)
 > **UI Navigation:** go to (2)
@@ -4088,8 +4049,7 @@ created: 2026-05-02
 > **Versions:** 2.1 (1)
 > **Definitions:** means that (1)
 
-#### Challenge: Add another function to the agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980)
+#### [Challenge: Add another function to the agent](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4109,11 +4069,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=31)** Some information that you might want to have in mind.
 >
-> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=34)** You can use the same Weather API, at least the one that is provided by LinkedIn Learning allows you to return like 10 days.
+> **[0:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=34)** You can use the same Weather API, at least the one that is provided by [[LinkedIn]] Learning allows you to return like 10 days.
 >
 > **[0:42](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=42)** So you might need to modify the code that we have before so you can get the five-day forecast, which only one day.
 >
-> **[0:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=50)** And don't forget to add the API definition to the OpenAPI.json and upload it to S3 so that it's ready for the agent to use.
+> **[0:50](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=50)** And don't forget to add the API definition to the OpenAPI.[[JSON]] and upload it to S3 so that it's ready for the agent to use.
 >
 > **[1:00](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/challenge-add-another-function-to-the-agent?u=76281980&t=60)** And when you do that change, you can go to the agent, work in draft and click prepare.
 >
@@ -4123,7 +4083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), api (2), [[LinkedIn]] (1), [[JSON]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[JSON]] (1)
 > **Env Vars:** api (2)
 > **File Paths:** openapi.json (1)
 > **CLI Commands:** make (1)
@@ -4132,8 +4092,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Add another function to the agent
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980)
+#### [Solution: Add another function to the agent](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4189,7 +4148,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=148)** So everything is good.
 >
-> **[2:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=149)** So the next thing we need to do is to modify the open API JSON.
+> **[2:29](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=149)** So the next thing we need to do is to modify the open API [[JSON]].
 >
 > **[2:36](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=156)** So I already did that.
 >
@@ -4237,7 +4196,7 @@ created: 2026-05-02
 >
 > **[4:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=273)** This is an advanced thing and I will not recommend it unless you really know what you're doing.
 >
-> **[4:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=279)** But usually prompts are the hardest part with generative AI.
+> **[4:39](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=279)** But usually prompts are the hardest part with [[Generative AI]].
 >
 > **[4:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/solution-add-another-function-to-the-agent?u=76281980&t=283)** So you might need to try out different ones and fine tune them in order to get the right results.
 >
@@ -4259,7 +4218,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), next (3), cloud (1), [[JSON]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** api (4), json (1)
 > **UI Navigation:** go to (1)
@@ -4272,8 +4231,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What we built
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)
+#### [What we built](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4283,7 +4241,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=5)** The first project was an asynchronous orchestration project in which you upload a file, like an audio or video to S3, and that triggers a workflow.
 >
-> **[0:16](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=16)** The workflow contains the orchestration for an application that uses different AI services and generative AI.
+> **[0:16](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=16)** The workflow contains the orchestration for an application that uses different AI services and [[Generative AI]].
 >
 > **[0:25](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=25)** The application called different AI services to perform tasks like transcription, translation, and generative AI to produce a summary and a poem.
 >
@@ -4293,7 +4251,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=59)** These orchestrations are great for asynchronous applications and when you have a series of tasks that you need to accomplish to get a result, when you need to combine multiple AI services, or you want to call different foundational models.
 >
-> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=74)** Also, this orchestration approach is great when you need control over data transformation and service calls, as you control the API calls and you transform the data as you need to.
+> **[1:14](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=74)** Also, this orchestration approach is great when you need control over [[Data Transformation]] and service calls, as you control the API calls and you transform the data as you need to.
 >
 > **[1:24](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=84)** However you need to plan for all the application path and if some new personality gets added, you'll need to change the orchestration implementation.
 >
@@ -4303,7 +4261,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=107)** This chatbot responds to a customer asking for the weather in a city, the current weather, or the weather in the next five days.
 >
-> **[1:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=115)** The agent, in order to fetch their answers from the API to answer these questions, needs to enrich the request with data obtained from the knowledge base.
+> **[1:55](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=115)** The agent, in order to [[Fetch]] their answers from the API to answer these questions, needs to enrich the request with data obtained from the knowledge base.
 >
 > **[2:05](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/what-have-we-built?u=76281980&t=125)** So it will get the latitude and the longitude from the knowledge base, and then call the external weather API with that latitude and longitude for the city that the user has provided.
 >
@@ -4321,15 +4279,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (7), data (6), application (4), ai (4), [[Generative AI]] (4)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Fetch]] (2), [[Data Transformation]] (1)
 > **Env Vars:** api (3)
 > **Prerequisites:** you'll need (1), configure (1)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cleaning up the environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980)
+#### [Cleaning up the environment](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4339,7 +4296,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=16)** However, it's a good practice to remove everything you're not going to use and it's important to know that the knowledge base that you created if you leave it on can be quite expensive, so make sure you turn it off immediately after completing the course.
 >
-> **[0:31](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=31)** All the resources created during this course, like AWS Lambda, S3 buckets, the functions workflows that were created with AWS SAM are easy to remove using the AWS CLI.
+> **[0:31](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=31)** All the resources created during this course, like AWS Lambda, S3 buckets, the functions workflows that were created with AWS SAM are easy to remove using the AWS [[CLI]].
 >
 > **[0:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=43)** Other resources like the Bedrock agents and knowledge bases, you will need to delete them from the console.
 >
@@ -4369,7 +4326,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=138)** Removing project number two is a little bit more tricky because the first thing you need to do is as you did with project number one, go to the S3 bucket, remove everything you have in the bucket.
 >
-> **[2:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=148)** In this case, it's the OpenAPI.json and the wolrdcities.csv file.
+> **[2:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=148)** In this case, it's the OpenAPI.[[JSON]] and the wolrdcities.csv file.
 >
 > **[2:33](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=153)** Then you can go to the project number two and type SAM DELETE there to remove the bucket and all the Lambda functions, and all the different things that you created.
 >
@@ -4389,7 +4346,7 @@ created: 2026-05-02
 >
 > **[3:34](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=214)** If you have that SAM configuration file that was created before, you don't need to add the --guided because you have already the stack configured.
 >
-> **[3:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=223)** If you don't have that file because you remove it and you're just getting the project back from GitHub, you just type sam deploy --guided and input all the parameter's configurations as we have been doing during this course and you're ready to go.
+> **[3:43](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=223)** If you don't have that file because you remove it and you're just getting the project back from [[GitHub]], you just type sam deploy --guided and input all the parameter's configurations as we have been doing during this course and you're ready to go.
 >
 > **[3:58](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/cleaning-up-the-environment?u=76281980&t=238)** SAM deploy will recreate all the AWS resources with new ARNs, Amazon Resource Names, but the applications will work exactly as before.
 >
@@ -4397,7 +4354,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (9), [[CLI]] (2), [[JSON]] (1), application (1), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[CLI]] (2), [[JSON]] (1), [[GitHub]] (1)
 > **Env Vars:** aws (9), sam (8), cli (2), delete (1)
 > **CLI Commands:** aws (9), make (3), find (1)
 > **UI Navigation:** go to (7)
@@ -4406,8 +4363,7 @@ created: 2026-05-02
 > **API Endpoints:** delete  (1)
 > **Definitions:** is a  (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4415,21 +4371,21 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=3)** At this point, you should be able to understand how to use AWS AI services and Amazon Bedrock, how to create a workflow using Step Functions, and how to create an Amazon Bedrock agent with a knowledge base and Lambda functions.
 >
-> **[0:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=19)** Also you should be able to create and deploy many of these things using infrastructure as code, in this case, AWS SAM.
+> **[0:19](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=19)** Also you should be able to create and deploy many of these things using [[Infrastructure as code (IaC)|infrastructure as code]], in this case, AWS SAM.
 >
 > **[0:28](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=28)** And you can test these different resources as part of your application, but this is not the end of your learning.
 >
 > **[0:35](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=35)** I encourage you to keep experimenting and learning about these projects and also use the projects that you have built, extend them, add them more things, and play around because there is a lot of things that you can do in order to improve these projects and learn by doing so.
 >
-> **[0:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=52)** If you want more resources to learn more, I leave you here, my YouTube channel where I have over 300 videos related to AWS and serverless and generative AI.
+> **[0:52](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=52)** If you want more resources to learn more, I leave you here, my YouTube channel where I have over 300 videos related to AWS and serverless and [[Generative AI]].
 >
 > **[1:02](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=62)** Serverless Land is the website that aggregates a lot of the serverless content curated by AWS serverless developer advocates.
 >
 > **[1:09](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=69)** You can find there examples on AWS SAM.
 >
-> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=73)** Other infrastructure as code like Terraform and CDK, blog posts are learning guides to keep on learning.
+> **[1:13](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=73)** Other infrastructure as code like [[Terraform]] and CDK, blog posts are learning guides to keep on learning.
 >
-> **[1:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=81)** You can follow me on social media, for example, Twitter, Instagram, or LinkedIn.
+> **[1:21](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=81)** You can follow me on social media, for example, Twitter, Instagram, or [[LinkedIn]].
 >
 > **[1:27](https://www.linkedin.com/learning/building-serverless-apps-with-ai-services-on-aws/next-steps?u=76281980&t=87)** I always update them with news and announcements from different AWS serverless services.
 >
@@ -4439,7 +4395,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** aws (7), [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[LinkedIn]] (2), ai (1), application (1)
+> **Frameworks & Libraries:** [[Infrastructure as code (IaC)|Infrastructure as code]] (2), [[LinkedIn]] (2), [[Generative AI]] (1), [[Terraform]] (1)
 > **Env Vars:** aws (7), sam (2), cdk (1)
 > **CLI Commands:** aws (7), find (1), terraform (1)
 > **Definitions:** is a  (1)

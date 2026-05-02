@@ -82,8 +82,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet the human-in-the-loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980)
+#### [Meet the human-in-the-loop](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -95,21 +94,16 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=23)** I'm Keith McCormick, and I've been building machine learning models for decades.
 >
-> **[0:28](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=28)** But human-in-the-loop machine learning is trending in a big way right now.
+> **[0:28](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=28)** But [[Human-in-the-Loop Machine Learning]] is trending in a big way right now.
 >
 > **[0:32](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/meet-the-human-in-the-loop?u=76281980&t=32)** In this course, we'll discuss what it is, and why if you're a data professional or in analytics leadership, or even just a consumer, you should know more about it.
-
-> [!info]- Semantic Content
->
-> **Frameworks & Libraries:** data (2), [[Analytics]] (1), leadership (1)
 
 
 ### 1. Introducing Human-in-the-Loop
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Human-in-the-loop is everywhere
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980)
+#### [Human-in-the-loop is everywhere](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -145,7 +139,7 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980&t=102)** I think that most of us know that spam filters use machine learning, but some spam is more dangerous than just cluttering our inboxes.
 >
-> **[1:52](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980&t=112)** A phishing attack is especially nasty.
+> **[1:52](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980&t=112)** A [[Phishing]] attack is especially nasty.
 >
 > **[1:54](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/human-in-the-loop-is-everywhere?u=76281980&t=114)** It's when someone tries to trick us into revealing highly sensitive information, like bank account information, by pretending to be a service provider.
 >
@@ -163,12 +157,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Phishing]] (3), ai (2), next (1)
+> **Frameworks & Libraries:** [[Phishing]] (3)
 > **Definitions:** stands for (1), is a  (1)
 > **Analogies:** for instance (1)
 
-#### What is supervised machine learning?
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980)
+#### [What is supervised machine learning?](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -178,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=12)** What do we mean by that?
 >
-> **[0:14](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=14)** Well, it appears in two distinct forms that look quite different at first.
+> **[0:14](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=14)** Well, it appears in two distinct [[Forms]] that look quite different at first.
 >
 > **[0:20](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=20)** Let's first examine what is increasingly called traditional machine learning, or the type of machine learning that has been performed in both academia and industry for decades.
 >
@@ -194,11 +187,11 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=71)** But this target variable is the same idea as what is called data labels in a different context.
 >
-> **[1:18](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=78)** In computer vision, there are iconic examples like detecting whether a pet in a picture is a cat or a dog, or famously, a hot dog, or not a hot dog.
+> **[1:18](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=78)** In [[Computer Vision]], there are iconic examples like detecting whether a pet in a picture is a cat or a dog, or famously, a hot dog, or not a hot dog.
 >
 > **[1:31](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=91)** In this case, the image has to be labeled by a human until there are enough examples that a computer can learn to recognize it on its own.
 >
-> **[1:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=101)** That's another kind of supervised learning, pairing images with data labels.
+> **[1:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=101)** That's another kind of [[Supervised Learning]], pairing images with data labels.
 >
 > **[1:48](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/what-is-supervised-machine-learning?u=76281980&t=108)** This human labeling to create a data set is just one part, a very important part of human-in-the-loop.
 >
@@ -212,22 +205,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), business (2), [[Forms]] (1), [[Computer Vision]] (1), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Computer Vision]] (1), [[Supervised Learning]] (1)
 > **Definitions:** is called (2), is a  (1)
 > **CLI Commands:** cat (2)
 > **Analogies:** for instance (1), picture (1)
 > **Env Vars:** fico (1)
 
-#### Defining human-in-the-loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980)
+#### [Defining human-in-the-loop](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=0)** If forced to keep it to one sentence, Human-in-the-Loop Machine Learning is simply humans and computers working together.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=0)** If forced to keep it to one sentence, [[Human-in-the-Loop Machine Learning]] is simply humans and computers working together.
 >
 > **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=8)** But we need a more detailed definition than that.
 >
-> **[0:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=11)** In his excellent book, Robert Monarch defines Human-in-the-Loop Machine Learning as the set of strategies for combining human and machine intelligence and applications that use artificial intelligence.
+> **[0:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=11)** In his excellent book, Robert Monarch defines Human-in-the-Loop Machine Learning as the set of strategies for combining human and machine intelligence and applications that use [[Artificial Intelligence (AI)|artificial intelligence]].
 >
 > **[0:26](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=26)** The goal is typically to solve one or more of the following.
 >
@@ -247,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=93)** It's helpful to array the uses across the machine learning lifecycle.
 >
-> **[1:39](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=99)** First, to create training data to build models, we need data annotation.
+> **[1:39](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=99)** First, to create training data to build models, we need [[Data Annotation]].
 >
 > **[1:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=106)** This can take the form of labeling images, but it often also includes detailed tasks like drawing a bounding box around the labeled image to clearly identify where in the image the cat or dog, stop sign, or bicycle appears.
 >
@@ -261,13 +253,13 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=148)** The users of your model can also provide feedback on when your model is working well.
 >
-> **[2:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=155)** This technique, often called reinforcement learning from human feedback, has gotten a lot of attention recently, with the excitement around large language models.
+> **[2:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=155)** This technique, often called [[Reinforcement Learning]] from human feedback, has gotten a lot of attention recently, with the excitement around [[Large Language Models (LLM)|large language models]].
 >
 > **[2:47](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=167)** Finally, sometimes a model gets stuck.
 >
 > **[2:50](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=170)** It could be something as simple as an illegible receipt or bank deposit.
 >
-> **[2:56](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=176)** A model can route a particular instance to a human, sometimes in real-time, to address the problem.
+> **[2:56](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=176)** A model can route a particular instance to a human, sometimes in [[Real-Time]], to address the problem.
 >
 > **[3:04](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/defining-human-in-the-loop?u=76281980&t=184)** This kind of exception processing is sometimes called human computation, and it's more common than you probably think. It may be at work in apps that you thought were 100% automated.
 >
@@ -275,18 +267,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), prompt (1), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Real-Time]] (1)
 > **CLI Commands:** cat (1)
 > **Tools:** notion (1)
 
-#### The rise of human-in-the-loop
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980)
+#### [The rise of human-in-the-loop](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=0)** Alan Turing proposed the so-called Turing Test, which he called the Imitation Game, way back in 1950.
 >
-> **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=8)** Machine learning techniques like traditional neural nets, what many now call shallow neural nets and decision tree algorithms, started to be applied in business settings at least as far back as the 80s and 90s.
+> **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=8)** Machine learning techniques like traditional neural nets, what many now call shallow neural nets and decision tree [[Algorithms]], started to be applied in business settings at least as far back as the 80s and 90s.
 >
 > **[0:23](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=23)** Academics were studying them for much longer than that.
 >
@@ -296,7 +287,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=41)** If you've been involved in data analytics and machine learning for a while, you may have noticed a difference.
 >
-> **[0:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=46)** Starting around 5 or 8 years ago, there was a huge uptick in the mention of AI in conference talks, LinkedIn posts, and pretty much everywhere else.
+> **[0:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=46)** Starting around 5 or 8 years ago, there was a huge uptick in the mention of AI in conference talks, [[LinkedIn]] posts, and pretty much everywhere else.
 >
 > **[0:57](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=57)** It took a while for the implications to kick in, but most experts agree that the turning point was actually back in 2012.
 >
@@ -306,17 +297,17 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=84)** She used crowdsourcing to add the labels to the images, specifically Amazon's Mechanical Turk crowdsourcing platform.
 >
-> **[1:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=95)** We'll have more to say about crowdsourcing data annotation later in the course.
+> **[1:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=95)** We'll have more to say about crowdsourcing [[Data Annotation]] later in the course.
 >
-> **[1:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=101)** In 2009, she presented a paper on her work, and starting in 2010, there was a competition to build computer vision machine learning models to identify the images.
+> **[1:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=101)** In 2009, she presented a paper on her work, and starting in 2010, there was a competition to build [[Computer Vision]] machine learning models to identify the images.
 >
-> **[1:55](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=115)** That competition is now called the ImageNet Large-Scale Visual Recognition Challenge. That set the stage for the rise of deep learning. In the third year of the competition, 2012, everything changed.
+> **[1:55](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=115)** That competition is now called the ImageNet Large-Scale Visual Recognition Challenge. That set the stage for the rise of [[Deep Learning]]. In the third year of the competition, 2012, everything changed.
 >
 > **[2:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=131)** A team working with Geoff Hinton won the competition.
 >
 > **[2:15](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=135)** What was noteworthy was they won by a lot, and they won with deep learning.
 >
-> **[2:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=142)** Neural networks have a feature called hidden layers. For decades, including the first two years of the ImageNet competition, these neural networks had just a couple of hidden layers.
+> **[2:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=142)** [[Neural Networks]] have a feature called hidden layers. For decades, including the first two years of the ImageNet competition, these neural networks had just a couple of hidden layers.
 >
 > **[2:34](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=154)** In 2012, the winning model had eight hidden layers.
 >
@@ -324,7 +315,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=166)** Ever since use cases for deep learning have exploded.
 >
-> **[2:51](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=171)** Neural networks have gotten bigger and more complex, and then the need for labeled data has grown exponentially along with that. The kinds of data on which deep learning has outperformed everything else include images like the ImageNet competition, and also video footage for things like driverless cars and natural language processing for products like Amazon Alexa.
+> **[2:51](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=171)** Neural networks have gotten bigger and more complex, and then the need for labeled data has grown exponentially along with that. The kinds of data on which deep learning has outperformed everything else include images like the ImageNet competition, and also video footage for things like driverless cars and [[Natural Language Processing (NLP)|natural language processing]] for [[Microsoft Products|products]] like Amazon Alexa.
 >
 > **[3:20](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-rise-of-human-in-the-loop?u=76281980&t=200)** In response, an entire cottage industry has arisen to meet the need.
 >
@@ -334,7 +325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Deep Learning]] (4), [[Neural Networks]] (3), game (1), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (4), [[Neural Networks]] (3), [[Data Annotation]] (2), [[Algorithms]] (1), [[LinkedIn]] (1)
 > **Cross-References:** later in (1)
 
 
@@ -342,14 +333,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Healthcare use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980)
+#### [Healthcare use cases](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=0)** Perhaps the most famous AI use case in healthcare analytics is medical imaging and radiology.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=0)** Perhaps the most famous AI use case in [[Healthcare Analytics]] is medical imaging and radiology.
 >
-> **[0:07](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=7)** About eight years ago, Geoff Hinton, the deep learning pioneer, made a remarkable statement.
+> **[0:07](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=7)** About eight years ago, Geoff Hinton, the [[Deep Learning]] pioneer, made a remarkable statement.
 >
 > **[0:14](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=14)** It's just completely obvious that in five years, deep learning is going to do better than radiologists.
 >
@@ -397,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=138)** And you need that data at various stages of the clinical process, not just at the initial yes-no is disease present or not stage of the diagnosis?
 >
-> **[2:31](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=151)** We're likely to see hospitals pairing up with AI startups to steward these huge data management tasks.
+> **[2:31](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=151)** We're likely to see hospitals pairing up with AI startups to steward these huge [[Data Management]] tasks.
 >
 > **[2:40](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/healthcare-use-cases?u=76281980&t=160)** The notion that AI is going to replace doctors isn't getting a lot of traction in medical circles.
 >
@@ -423,17 +413,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (4), [[Deep Learning]] (2), [[Healthcare Analytics]] (1), next (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[Healthcare Analytics]] (1), [[Data Management]] (1)
 > **CLI Commands:** cat (1)
 > **Tools:** notion (1)
 > **Definitions:** is a  (1)
 
-#### Autonomous use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/autonomous-use-cases?u=76281980)
+#### [Autonomous use cases](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/autonomous-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/autonomous-use-cases?u=76281980&t=0)** Autonomous vehicles are one of the biggest use cases for data annotation companies, because there's been a rush to produce the huge amounts of annotated data required for autonomous vehicles to function safely and reliably.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/autonomous-use-cases?u=76281980&t=0)** Autonomous vehicles are one of the biggest use cases for [[Data Annotation]] companies, because there's been a rush to produce the huge amounts of annotated data required for autonomous vehicles to function safely and reliably.
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/autonomous-use-cases?u=76281980&t=15)** And it's not just passenger cars, it's trucks.
 >
@@ -513,18 +502,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), traffic (3), [[Automation]] (2), business (1), feature (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the last (1)
 > **Definitions:** is called (1)
 
-#### Natural language use cases
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980)
+#### [Natural language use cases](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=0)** An extremely common natural language processing use case is the smart devices in many of our homes.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=0)** An extremely common [[Natural Language Processing (NLP)|natural language processing]] use case is the smart devices in many of our homes.
 >
 > **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=8)** If you have a smart device like Amazon's Alexa, then at one point or another you've encountered a mistake.
 >
@@ -540,7 +528,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=56)** In a statement, Amazon told Bloomberg, "We only annotate an extremely small sample of Alexa voice recordings in order to improve the customer experience.
 >
-> **[1:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=68)** For example, this information helps us train our speech recognition and natural language understanding systems so Alexa can better understand your requests and ensure the service works well for everyone."
+> **[1:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=68)** For example, this information helps us train our [[Speech Recognition]] and natural language understanding systems so Alexa can better understand your requests and ensure the service works well for everyone."
 >
 > **[1:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=82)** I want to draw your attention to the phrase extremely small sample.
 >
@@ -548,7 +536,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=94)** We will discuss active learning again later on in the course.
 >
-> **[1:38](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=98)** The media has focused on the privacy concerns. For our purposes in this course, we can simply acknowledge that many folks worry about that, and ponder what the alternative is.
+> **[1:38](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=98)** The media has focused on the [[Privacy]] concerns. For our purposes in this course, we can simply acknowledge that many folks worry about that, and ponder what the alternative is.
 >
 > **[1:49](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/natural-language-use-cases?u=76281980&t=109)** Well, the annotation has been the primary method for years and will likely continue for years to come.
 >
@@ -570,19 +558,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Privacy]] (2), ai (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
+> **Frameworks & Libraries:** [[Privacy]] (2), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Definitions:** is called (1), is an  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** required to (1)
 
-#### Reinforcement learning with human feedback (RLHF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980)
+#### [Reinforcement learning with human feedback (RLHF)](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980&t=0)** Very possibly the most recent exciting application of human-in-the-loop is the use of reinforcement learning with human feedback to improve large language models.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980&t=0)** Very possibly the most recent exciting application of human-in-the-loop is the use of [[Reinforcement Learning]] with human feedback to improve [[Large Language Models (LLM)|large language models]].
 >
-> **[0:13](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980&t=13)** Some have wondered why ChatGPT 4 captured the worlds imagination and became the conversation of non-specialists, in a way that the version just a few months earlier did not.
+> **[0:13](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980&t=13)** Some have wondered why [[ChatGPT]] 4 captured the worlds imagination and became the conversation of non-specialists, in a way that the version just a few months earlier did not.
 >
 > **[0:26](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/reinforcement-learning-with-human-feedback-rlhf?u=76281980&t=26)** A number of experts have speculated that this maybe the reason.
 >
@@ -648,7 +635,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[ChatGPT]] (3), [[Reinforcement Learning]] (2), application (1), next (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (3), [[ChatGPT]] (3), [[Reinforcement Learning]] (2)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** gpt (2)
 > **Definitions:** is a  (1), in other words (1)
@@ -660,12 +647,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The world of data annotation vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980)
+#### [The world of data annotation vendors](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980&t=0)** You might have assumed that if you need data annotation done, you're just going to have to figure out how to do it for yourself.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980&t=0)** You might have assumed that if you need [[Data Annotation]] done, you're just going to have to figure out how to do it for yourself.
 >
 > **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-world-of-data-annotation-vendors?u=76281980&t=8)** And that is one option you might have to consider.
 >
@@ -705,18 +691,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), ai (3), business (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (4)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Warnings:** keep in mind (1)
 
-#### Data annotation as a skill
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-as-a-skill?u=76281980)
+#### [Data annotation as a skill](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-as-a-skill?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-as-a-skill?u=76281980&t=0)** I still remember one of the things I learned when I first encountered data annotation as a data scientist. I was speaking to an experienced executive at a data annotation vendor.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-as-a-skill?u=76281980&t=0)** I still remember one of the things I learned when I first encountered [[Data Annotation]] as a data scientist. I was speaking to an experienced executive at a data annotation vendor.
 >
 > **[0:12](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-as-a-skill?u=76281980&t=12)** I was having trouble picturing a medical doctor having the time to process hundreds of images.
 >
@@ -752,13 +737,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), ai (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (5)
 > **CLI Commands:** make (1)
 > **Env Vars:** sme (1)
 > **Analogies:** imagine (1)
 
-#### The ethics of data annotation
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980)
+#### [The ethics of data annotation](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -772,7 +756,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980&t=33)** I think it's fair to say that until recently, most people, including many specialists like data scientists, didn't know this job existed, or certainly not on the scale that it exists.
 >
-> **[0:48](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980&t=48)** Some high-profile articles, as well as a book-length treatment called Ghost Work, written by Mary Gray and Sid Suri, both with Microsoft Research, have shed some light on what large-scale data annotation is like.
+> **[0:48](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980&t=48)** Some high-profile articles, as well as a book-length treatment called Ghost Work, written by Mary Gray and Sid Suri, both with [[Microsoft]] Research, have shed some light on what large-scale [[Data Annotation]] is like.
 >
 > **[1:04](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/the-ethics-of-data-annotation?u=76281980&t=64)** Some of the criticism has been quite harsh, but it's important to remember that conditions for these workers vary greatly.
 >
@@ -790,14 +774,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), ai (3), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (3), [[Microsoft]] (1)
 
-#### Data annotation software vendors
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980)
+#### [Data annotation software vendors](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=0)** There are an overwhelming number of data annotation software packages to support the kinds of tasks we've been talking about in the course.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=0)** There are an overwhelming number of [[Data Annotation]] software packages to support the kinds of tasks we've been talking about in the course.
 >
 > **[0:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=11)** Let's just briefly look at three to give you some orientation to what's available.
 >
@@ -821,7 +804,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=45)** Let's go to another vendor, Label Box.
 >
-> **[0:48](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=48)** And here's a computer vision example that's been queued up.
+> **[0:48](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=48)** And here's a [[Computer Vision]] example that's been queued up.
 >
 > **[0:52](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/data-annotation-software-vendors?u=76281980&t=52)** Also, notice that there's some attempt to evaluate quality there.
 >
@@ -863,7 +846,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (4), [[Computer Vision]] (1)
 > **UI Navigation:** go to (3), scroll down (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** for instance (1)
@@ -873,20 +856,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Quality control
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980)
+#### [Quality control](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=0)** I want to briefly discuss a technical issue that you should be aware of.
 >
-> **[0:04](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=4)** Quality control and data annotation like inter-rater reliability, is much more complex than measuring machine learning model accuracy.
+> **[0:04](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=4)** Quality control and [[Data Annotation]] like inter-rater reliability, is much more complex than measuring machine learning model accuracy.
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=15)** I mentioned this not to scare you off, but to ensure that your team is ready.
 >
 > **[0:19](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=19)** After all, even if you delegate some of these calculations to a vendor, you'll want to understand the process so that you know if you can trust your data.
 >
-> **[0:30](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=30)** Unlike classic data science metrics that all data scientists learn like train, test validation, area under the curve, and A/B testing, quality control and data annotation is an active area of research.
+> **[0:30](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=30)** Unlike classic [[Data Science]] metrics that all data scientists learn like train, test validation, area under the curve, and A/B testing, quality control and data annotation is an active area of research.
 >
 > **[0:43](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=43)** Let me give you just a taste of what I mean.
 >
@@ -932,7 +914,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=169)** Let's take a moment to understand what's involved in doing these calculations.
 >
-> **[2:55](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=175)** Here is an article that is trying to modify Krippendorff's Alpha for computer vision.
+> **[2:55](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=175)** Here is an article that is trying to modify Krippendorff's Alpha for [[Computer Vision]].
 >
 > **[3:02](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/quality-control?u=76281980&t=182)** Now we don't have to worry about the details of Krippendorff's Alpha, except that it's a common calculation for doing these inter-annotator comparisons.
 >
@@ -958,14 +940,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Computer Vision]] (3)
+> **Frameworks & Libraries:** [[Data Annotation]] (3), [[Computer Vision]] (3), [[Data Science]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Warnings:** be aware (1), note that (1)
 > **Prerequisites:** required to (1)
 
-#### Sampling
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/sampling?u=76281980)
+#### [Sampling](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/sampling?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1003,21 +984,20 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/sampling?u=76281980&t=101)** This is therefore just to orient you to the task ahead.
 >
-> **[1:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/sampling?u=76281980&t=106)** Even if you delegate your data annotation, as many organizations do, make sure someone on the team has some appreciation of sampling so that you can be active collaborators and managers of the process.
+> **[1:46](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/sampling?u=76281980&t=106)** Even if you delegate your [[Data Annotation]], as many organizations do, make sure someone on the team has some appreciation of sampling so that you can be active collaborators and managers of the process.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Annotation]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Warnings:** be aware (1)
 
-#### Considerations when managing your own project
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980)
+#### [Considerations when managing your own project](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=0)** As we've discussed, there are a number of technical elements of managing data annotation that can be quite complex.
+> **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=0)** As we've discussed, there are a number of technical elements of managing [[Data Annotation]] that can be quite complex.
 >
 > **[0:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=8)** I think that those new to this kind of modeling are at risk of making two assumptions that are often incorrect.
 >
@@ -1027,7 +1007,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=22)** Or two, the data scientists will be able to handle this.
 >
-> **[0:26](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=26)** And the reason that this assumption is risky is that data science is a vast area, and even a very experienced data scientist might not have experience overseeing a data annotation project.
+> **[0:26](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=26)** And the reason that this assumption is risky is that [[Data Science]] is a vast area, and even a very experienced data scientist might not have experience overseeing a data annotation project.
 >
 > **[0:40](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=40)** So let's discuss some considerations to weigh when you are about to embark on managing your own data annotation project.
 >
@@ -1049,7 +1029,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=95)** Also, how much subject matter expertise is required and at what stages of the project will you do some annotation in-house, if only to estimate the level of effort to do it at scale?
 >
-> **[1:49](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=109)** Third consideration, revisiting the human resources for a moment.
+> **[1:49](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=109)** Third consideration, revisiting the [[Human Resources (HR)|human resources]] for a moment.
 >
 > **[1:54](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/considerations-when-managing-your-own-project?u=76281980&t=114)** How will those resources be combined?
 >
@@ -1081,13 +1061,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Human Resources (HR)|Human resources]] (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (4), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Being data-centric
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980)
+#### [Being data-centric](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1111,13 +1090,13 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=66)** What he proposes is that it's time to reverse this trend.
 >
-> **[1:10](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=70)** When we are disappointed in a model's performance, we should invest more time and attention into increasing data size and particularly data quality.
+> **[1:10](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=70)** When we are disappointed in a model's performance, we should invest more time and attention into increasing data size and particularly [[Data Quality]].
 >
 > **[1:21](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=81)** In other words, he's saying that we have to shift from focusing exclusively on our models to focusing more on the kinds of activities we've been talking about in this course.
 >
 > **[1:33](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=93)** What's his rationale?
 >
-> **[1:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=95)** Well, the most progress in AI over the last 10 years or so has been made in industries that have a wealth of labeled data, like the big software companies in Silicon Valley that we're all familiar with. But a manufacturer that's trying to detect flawed products coming off an assembly line, or an insurer that's looking at photos for evidence of fraud doesn't have a huge amount of data.
+> **[1:35](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=95)** Well, the most progress in AI over the last 10 years or so has been made in industries that have a wealth of labeled data, like the big software companies in Silicon Valley that we're all familiar with. But a manufacturer that's trying to detect flawed [[Microsoft Products|products]] coming off an assembly line, or an insurer that's looking at photos for evidence of fraud doesn't have a huge amount of data.
 >
 > **[2:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=120)** Even if the total amount of data is large, there is not enough data of the instances that we're trying to predict, like the flawed product or the fraudulent claims.
 >
@@ -1137,7 +1116,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=177)** Second, the systematic improvement of data consistency.
 >
-> **[3:03](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=183)** Again, we're reminded that data annotation is a complex skill that can make or break the success of our models.
+> **[3:03](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=183)** Again, we're reminded that [[Data Annotation]] is a complex skill that can make or break the success of our models.
 >
 > **[3:11](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/being-data-centric?u=76281980&t=191)** Recognizing this will hopefully encourage effective training and appropriate compensation for data annotators, and also recognize that managing a large number of data annotators is also a challenging task.
 >
@@ -1173,7 +1152,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), ai (8), [[Microsoft Products|Products]] (1), product (1), teams (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (3), [[Data Quality]] (1), [[Microsoft Products|Products]] (1)
 > **Definitions:** is a  (4), in other words (1)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
@@ -1183,30 +1162,29 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=0)** A great way to reinforce your learning is to put it into use right away.
 >
-> **[0:05](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=5)** Even if you are not a machine learning practitioner, I encourage you to download a trial of some data annotation software and just give it a go.
+> **[0:05](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=5)** Even if you are not a machine learning practitioner, I encourage you to download a trial of some [[Data Annotation]] software and just give it a go.
 >
 > **[0:15](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=15)** An hour or two of experimenting and you'll have a better appreciation of what this is like.
 >
-> **[0:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=22)** If you're in analytics leadership and you want to continue your journey to better understand how machine learning works, I recommend a course I have in the library, [[Predictive Analytics Essential Training For Executives]].
+> **[0:22](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=22)** If you're in analytics leadership and you want to continue your journey to better understand how machine learning works, I recommend a course I have in the library, [[[[Predictive Analytics]] Essential Training For Executives]].
 >
-> **[0:37](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=37)** On the other hand, if you're a machine learning practitioner, you may be extremely curious about how to turn a data set of labeled images like the ones we've been talking about into a computer vision model.
+> **[0:37](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=37)** On the other hand, if you're a machine learning practitioner, you may be extremely curious about how to turn a data set of labeled images like the ones we've been talking about into a [[Computer Vision]] model.
 >
-> **[0:50](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=50)** If you've never explored that side of machine learning, my fellow author, Alex Krizhevsky, has a great hands-on course, Deep Learning: Image Recognition, that does just that.
+> **[0:50](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=50)** If you've never explored that side of machine learning, my fellow author, Alex Krizhevsky, has a great hands-on course, [[Deep Learning]]: Image Recognition, that does just that.
 >
 > **[1:02](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=62)** Whichever path you choose, I hope that you'll keep me posted on your progress.
 >
-> **[1:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=68)** Follow me on LinkedIn, attend my monthly office hours and just say hi if you see me at a conference or machine learning event.
+> **[1:08](https://www.linkedin.com/learning/executive-guide-to-human-in-the-loop-machine-learning-and-data-annotation/next-steps?u=76281980&t=68)** Follow me on [[LinkedIn]], attend my monthly [[Microsoft Office|office]] hours and just say hi if you see me at a conference or machine learning event.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Analytics]] (1), leadership (1), [[Predictive Analytics]] (1), [[Computer Vision]] (1)
+> **Frameworks & Libraries:** [[Data Annotation]] (1), [[Predictive Analytics]] (1), [[Computer Vision]] (1), [[Deep Learning]] (1), [[LinkedIn]] (1)
 
 
 ## Instructor

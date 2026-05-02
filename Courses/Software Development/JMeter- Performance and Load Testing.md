@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Testing with JMeter
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980)
+#### [Testing with JMeter](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=13)** It isn't magic, and there isn't anything up my sleeves.
 >
-> **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=16)** Just an understanding of how load testing works.
+> **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=16)** Just an understanding of how [[Load Testing]] works.
 >
 > **[0:19](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=19)** My name's Mike Smith, and I've spent almost a decade as a test specialist with performance testing.
 >
@@ -99,15 +98,14 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=27)** And this is where our story begins.
 >
-> **[0:28](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=28)** Join me and my course on LinkedIn Learning where I'll dive into the intricacies of JMeter.
+> **[0:28](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/testing-with-jmeter?u=76281980&t=28)** Join me and my course on [[LinkedIn]] Learning where I'll dive into the intricacies of [[JMeter]].
 
 > [!info]- Semantic Content
 >
 > **Frameworks & Libraries:** [[Load Testing]] (1), [[LinkedIn]] (1), [[JMeter]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What is load testing, and why do we do it?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980)
+#### [What is load testing, and why do we do it?](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=16)** There are three terms in the world of software performance analysis that get used interchangeably even though they have very different meanings.
 >
-> **[0:24](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=24)** Load testing, whereby I apply simulated load to a system in order to measure the impact of how that system performs.
+> **[0:24](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=24)** [[Load Testing]], whereby I apply simulated load to a system in order to measure the impact of how that system performs.
 >
 > **[0:33](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=33)** Performance testing, whereby I measure the performance of a site or application regardless of the load to understand its underlying metrics.
 >
@@ -129,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=54)** This course will focus on load testing.
 >
-> **[0:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=57)** However, the skills you'll take away will mean that all three will be available to you once you get to grips with the software Apache JMeter.
+> **[0:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=57)** However, the skills you'll take away will mean that all three will be available to you once you get to grips with the software Apache [[JMeter]].
 >
 > **[1:06](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/what-is-load-testing-and-why-do-we-do-it?u=76281980&t=66)** There are lots of different load testing tools on the open source market today.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Load Testing]] (4), [[JMeter]] (2), application (1), teams (1)
+> **Frameworks & Libraries:** [[Load Testing]] (4), [[JMeter]] (2)
 > **CLI Commands:** apache (1)
 > **Speakers:** - [instructor] (1)
 
@@ -152,12 +150,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Installing graph plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980)
+#### [Installing graph plugins](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980&t=0)** [Instructor] Once JMeter is downloaded, it can be expanded with plugins.
+> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980&t=0)** [Instructor] Once [[JMeter]] is downloaded, it can be expanded with plugins.
 >
 > **[0:04](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/installing-graph-plugins?u=76281980&t=4)** The plugins I'll install focus on graphing and displaying results after running a load test and this is important because the graphing function within JMeter doesn't always offer us the clearest information on our results.
 >
@@ -193,18 +190,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (10), [[Search]] (2)
+> **Frameworks & Libraries:** [[JMeter]] (10)
 > **CLI Commands:** find (2), apache (1)
 > **Prerequisites:** install (2)
 > **Versions:** 0.4 (1)
 > **UI Navigation:** click on (1)
 
-#### Creating a load test
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-a-load-test?u=76281980)
+#### [Creating a load test](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-a-load-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-a-load-test?u=76281980&t=0)** - [Instructor] To create my first load test, I need to open Jmeter.
+> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-a-load-test?u=76281980&t=0)** - [Instructor] To create my first load test, I need to open [[JMeter]].
 >
 > **[0:04](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-a-load-test?u=76281980&t=4)** To do this, I'm going to navigate to the bin folder within my Jmeter directory, and from here, I'm going to double click on the Apache_JMeter.jar file.
 >
@@ -235,8 +231,7 @@ created: 2026-05-02
 > **URLs:** [landonhotels.com](https://landonhotels.com) (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a thread group
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980)
+#### [Adding a thread group](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -246,7 +241,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980&t=14)** To do that, I'm going to use something called a thread group.
 >
-> **[0:18](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980&t=18)** Think of a thread group as a group of people waiting to do what is written in the test plan section of the JMeter GUI.
+> **[0:18](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980&t=18)** Think of a thread group as a group of people waiting to do what is written in the test plan section of the [[JMeter]] GUI.
 >
 > **[0:27](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-thread-group?u=76281980&t=27)** To add the thread group to the test plan, I'm going to right click on the test plan on the left-hand side of the screen, go to add and find threads.
 >
@@ -274,8 +269,7 @@ created: 2026-05-02
 > **Env Vars:** gui (1)
 > **Speakers:** - [announcer] (1)
 
-#### Adding a sampler
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980)
+#### [Adding a sampler](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -287,7 +281,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980&t=20)** From here I get long list of the different samples.
 >
-> **[0:25](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980&t=25)** JMeter is pretty diverse in the types of requests it can send through.
+> **[0:25](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980&t=25)** [[JMeter]] is pretty diverse in the types of requests it can send through.
 >
 > **[0:31](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-sampler?u=76281980&t=31)** For this load test I just want to visit the site so I'll select HTTP load test.
 >
@@ -313,13 +307,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (1), web application (1)
+> **Frameworks & Libraries:** [[JMeter]] (1)
 > **Env Vars:** http (4)
 > **Analogies:** think of it as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding a listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980)
+#### [Adding a listener](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -329,7 +322,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980&t=20)** To do this, I'll need to add a listener.
 >
-> **[0:26](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980&t=26)** Listeners give JMeter a way of displaying the results of a test as it's running.
+> **[0:26](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980&t=26)** Listeners give [[JMeter]] a way of displaying the results of a test as it's running.
 >
 > **[0:31](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-a-listener?u=76281980&t=31)** Now for larger tests, this isn't recommended, because displaying the output live during the load test can use a lot of system resources.
 >
@@ -355,14 +348,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (2), data (1)
+> **Frameworks & Libraries:** [[JMeter]] (2)
 > **UI Navigation:** click on (2)
 > **Best Practices:** recommended (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - if (1)
 
-#### Running your first load test
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980)
+#### [Running your first load test](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -396,7 +388,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980&t=79)** And now the load test is running.
 >
-> **[1:21](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980&t=81)** The reason I'm not seeing any cool graphs appear right now is simply because I haven't told JMeter to show me anything like that.
+> **[1:21](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980&t=81)** The reason I'm not seeing any cool graphs appear right now is simply because I haven't told [[JMeter]] to show me anything like that.
 >
 > **[1:28](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-first-load-test?u=76281980&t=88)** I just wanted a list of successes or failures and that's what I've got right here.
 >
@@ -432,8 +424,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Adding timers
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980)
+#### [Adding timers](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -447,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=22)** This is important because emulating human interaction is what we're trying to achieve.
 >
-> **[0:26](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=26)** This is not Test automation, in Test automation we want the test to complete as quickly as possible to check something that you'd otherwise have to do manually.
+> **[0:26](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=26)** This is not [[Test Automation]], in Test automation we want the test to complete as quickly as possible to check something that you'd otherwise have to do manually.
 >
 > **[0:37](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=37)** I want to simulate a large amount of load on the system so that I can replicate known errors, or find new ones that otherwise wouldn't get found until hundreds or thousands of users start using the software.
 >
@@ -471,7 +462,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=111)** How much time do I want to pause for, and how random do I want that to be, essentially.
 >
-> **[1:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=117)** JMeter works in seconds and milliseconds.
+> **[1:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=117)** [[JMeter]] works in seconds and milliseconds.
 >
 > **[2:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-timers?u=76281980&t=120)** So, I put 1,000 in the Constant Delay for one second.
 >
@@ -485,14 +476,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test Automation]] (2), business (1), [[JMeter]] (1), next (1)
+> **Frameworks & Libraries:** [[Test Automation]] (2), [[JMeter]] (1)
 > **CLI Commands:** find (1)
 > **UI Navigation:** click on (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding assertions
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-assertions?u=76281980)
+#### [Adding assertions](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-assertions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -542,14 +532,13 @@ created: 2026-05-02
 > **Env Vars:** http (1), url (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding HTTP managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980)
+#### [Adding HTTP managers](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980&t=0)** - [Instructor] Running a load test against a website means that you sometimes need to manage and handle different aspects of that website such as cookies and the cache that the browser would normally take care of.
 >
-> **[0:11](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980&t=11)** As JMeter isn't a web browser, there can be times when I'll need to give it a helping hand with things like this.
+> **[0:11](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980&t=11)** As [[JMeter]] isn't a web browser, there can be times when I'll need to give it a helping hand with things like this.
 >
 > **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/adding-http-managers?u=76281980&t=16)** I can do this with HTTP Managers.
 >
@@ -573,20 +562,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (1), web (1), data (1)
+> **Frameworks & Libraries:** [[JMeter]] (1)
 > **Env Vars:** http (9)
 > **Definitions:** means that (4)
 > **Analogies:** such as (1), for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a simple test plan with Thread Group, Sampler, and Listener
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980)
+#### [Challenge: Create a simple test plan with Thread Group, Sampler, and Listener](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=4)** All right, so it's time to get your hands dirty.
 >
-> **[0:07](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=7)** Now you've seen how JMeter works, you've seen the moving parts, and now you want to actually build something yourself.
+> **[0:07](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=7)** Now you've seen how [[JMeter]] works, you've seen the moving parts, and now you want to actually build something yourself.
 >
 > **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=16)** This challenge is intentionally simple, but don't mistake that for pointless.
 >
@@ -598,7 +586,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=34)** Keep it basic, one thread, one loop.
 >
-> **[0:36](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=36)** You're not load testing anything yet.
+> **[0:36](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=36)** You're not [[Load Testing]] anything yet.
 >
 > **[0:38](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-create-a-simple-test-plan-with-thread-group-sampler-and-listener?u=76281980&t=38)** We're just wiring the pieces together.
 >
@@ -630,7 +618,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), [[JMeter]] (1), [[Load Testing]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (1), [[Load Testing]] (1)
 > **Env Vars:** http (1), url (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** in the next (1)
@@ -640,18 +628,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use the command line?
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980)
+#### [Why use the command line?](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=0)** - [Instructor] Running my load test is a simple process through JMeter's interface, but using this for anything other than test creation or debugging means that I'm using far more computer resources than I need to.
+> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=0)** - [Instructor] Running my load test is a simple process through [[JMeter]]'s interface, but using this for anything other than test creation or debugging means that I'm using far more computer resources than I need to.
 >
 > **[0:13](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=13)** Eventually, when I increase the load associated with the test, I'll start seeing errors, because there isn't enough RAM or CPU power for JMeter to use.
 >
-> **[0:24](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=24)** Running a load test from the Command Line Interface, or CLI, can help alleviate that by using significantly less resources.
+> **[0:24](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=24)** Running a load test from the Command Line Interface, or [[CLI]], can help alleviate that by using significantly less resources.
 >
-> **[0:32](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=32)** Running load tests within the Command Line also allows for distributive load testing, which is an advanced way of sending your load test file to multiple instances of JMeter to increase that load exponentially.
+> **[0:32](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=32)** Running load tests within the Command Line also allows for distributive [[Load Testing]], which is an advanced way of sending your load test file to multiple instances of JMeter to increase that load exponentially.
 >
 > **[0:45](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/why-use-the-command-line?u=76281980&t=45)** The application openly recommends using the Command Line to do this.
 >
@@ -663,18 +650,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (4), [[CLI]] (3), [[Debugging]] (1), power (1), [[Load Testing]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (4), [[CLI]] (3), [[Load Testing]] (1)
 > **Env Vars:** cli (3), ram (1), cpu (1)
 > **Tools:** command line (3)
 > **Definitions:** is a  (1), means that (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Opening JMeter through the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980)
+#### [Opening JMeter through the CLI](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=0)** - [Instructor] If I need to use the JMeter application with a full GUI, I can still open it through the command line.
+> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=0)** - [Instructor] If I need to use the [[JMeter]] application with a full GUI, I can still open it through the command line.
 >
 > **[0:07](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=7)** On the command line, I can navigate to the bin folder within my JMeter directory and on my Mac I'll change my directory to where JMeter is stored.
 >
@@ -682,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=19)** Sh jmeter.sh and running that will open Jmeter.
 >
-> **[0:27](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=27)** On Windows, I need to do almost the same series of events aside from the actual command line to run.
+> **[0:27](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=27)** On [[Windows]], I need to do almost the same series of events aside from the actual command line to run.
 >
 > **[0:33](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=33)** I'd run jmeter.bat to perform the same action.
 >
@@ -692,11 +678,11 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=49)** At this point, I'm only halfway to doing what JMeter wants by learning to open the application using the command line.
 >
-> **[0:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=57)** The GUI is a great place to start a new load test, however, once the test reaches a robust state, the CLI is the place to be.
+> **[0:57](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/opening-jmeter-through-the-cli?u=76281980&t=57)** The GUI is a great place to start a new load test, however, once the test reaches a robust state, the [[CLI]] is the place to be.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (8), application (2), [[Windows]] (1), [[Debugging]] (1), [[CLI]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (8), [[Windows]] (1), [[CLI]] (1)
 > **Env Vars:** gui (4), cli (1)
 > **Tools:** command line (4)
 > **UI Navigation:** navigate to (1), open the (1)
@@ -704,8 +690,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Running your load test through the CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980)
+#### [Running your load test through the CLI](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -715,7 +700,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980&t=14)** Firstly, I need to make sure I'm in the right location.
 >
-> **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980&t=16)** I need to be in the bin folder of the jmeter installation directory.
+> **[0:16](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980&t=16)** I need to be in the bin folder of the [[JMeter]] installation directory.
 >
 > **[0:22](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/running-your-load-test-through-the-cli?u=76281980&t=22)** From there I'm going to be using the sh jmeter.sh command.
 >
@@ -753,15 +738,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (7), hit (1), application (1), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (7)
 > **Tools:** command line (3), terminal (1)
 > **CLI Commands:** make (1), find (1)
 > **File Paths:** jmeter.sh (1)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Saving CLI results to a .jtl file
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/saving-cli-results-to-a-jtl-file?u=76281980)
+#### [Saving CLI results to a .jtl file](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/saving-cli-results-to-a-jtl-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -793,7 +777,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Debugging]] (1)
 > **Env Vars:** gui (3), bin (1)
 > **Tools:** terminal (2)
 > **CLI Commands:** find (1)
@@ -801,18 +784,17 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Run a load test via CLI
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980)
+#### [Challenge: Run a load test via CLI](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:04](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=4)** All right, so it's time to step away from the GUI.
 >
-> **[0:09](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=9)** You've built test plans, you've clicked the run button, and now I want you to launch JMeter the way performance testers actually do it day-to-day, through the command line.
+> **[0:09](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=9)** You've built test plans, you've clicked the run button, and now I want you to launch [[JMeter]] the way performance testers actually do it day-to-day, through the command line.
 >
 > **[0:21](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=21)** This challenge looks simple, but don't underestimate it.
 >
-> **[0:25](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=25)** Once you can run tests through the CLI, you've unlocked automation, CI integration and large scale test execution.
+> **[0:25](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=25)** Once you can run tests through the [[CLI]], you've unlocked automation, CI integration and large scale test execution.
 >
 > **[0:35](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=35)** Start by opening your command prompt or terminal.
 >
@@ -828,7 +810,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=70)** So in our example, it would be jmeter-n-t landonhoteltest.jmx-l landonhotelresults.jtl Once you hit enter, JMeter runs completely without the GUI.
 >
-> **[1:28](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=88)** No windows, no graphs, just raw console output showing threads starting and finishing.
+> **[1:28](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=88)** No [[Windows]], no graphs, just raw console output showing threads starting and finishing.
 >
 > **[1:35](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=95)** If the command works, the JTL file appears wherever you told JMeter to write it.
 >
@@ -838,7 +820,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=116)** Now these are some very specific issues depending on your system and your setup.
 >
-> **[2:02](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=122)** So my suggestion would be to refer to the JMeter documentation or have a look on Google to see if you can resolve any issues.
+> **[2:02](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=122)** So my suggestion would be to refer to the JMeter documentation or have a look on [[Google]] to see if you can resolve any issues.
 >
 > **[2:11](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/challenge-run-a-load-test-via-cli?u=76281980&t=131)** So pause the course here and go and give it a go.
 >
@@ -848,7 +830,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (7), [[CLI]] (1), [[Automation]] (1), ci (1), prompt (1)
+> **Frameworks & Libraries:** [[JMeter]] (7), [[CLI]] (1), [[Windows]] (1), [[Google]] (1)
 > **Env Vars:** gui (2), cli (1), jtl (1)
 > **CLI Commands:** find (2), make (1)
 > **Tools:** command line (1), command prompt (1), terminal (1)
@@ -860,12 +842,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing a .jtl file to JMeter graphs
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980)
+#### [Importing a .jtl file to JMeter graphs](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=0)** - [Instructor] If I have a .jtl file from a previous load test I can view the results of that load test within JMeter to analyze the results.
+> **[0:00](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=0)** - [Instructor] If I have a .jtl file from a previous load test I can view the results of that load test within [[JMeter]] to analyze the results.
 >
 > **[0:10](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=10)** Even from a fresh test within JMeter, if I right click on the test plan and go to listeners, I can then choose a listener to display some information I can then import my previously saved jtl for results file into this.
 >
@@ -879,23 +860,22 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=51)** Doing this shows me the data within that file displayed how the listener would display it in real time.
 >
-> **[0:58](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=58)** This is crucial because data interrogation is a large part of load testing.
+> **[0:58](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=58)** This is crucial because data interrogation is a large part of [[Load Testing]].
 >
 > **[1:03](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/importing-a-jtl-file-to-jmeter-graphs?u=76281980&t=63)** Finding out when something happened on a website and why is just as important as putting a site onto load.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (2), data (2), [[Load Testing]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (2), [[Load Testing]] (1)
 > **UI Navigation:** go to (3), click on (1), select the (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating an HTML dashboard at CLI runtime
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980)
+#### [Creating an HTML dashboard at CLI runtime](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=1)** - If I'm running a very simple load test and the expectation is to report on the amount of users that hit the website or server and what kind of response codes came back, I could run the test as I've already done in the CLI, generate the .jtl file, and then use that jtl file to graph the results within JMeter.
+> **[0:01](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=1)** - If I'm running a very simple load test and the expectation is to report on the amount of users that hit the website or server and what kind of response codes came back, I could run the test as I've already done in the [[CLI]], generate the .jtl file, and then use that jtl file to graph the results within [[JMeter]].
 >
 > **[0:20](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=20)** I could ask JMeter to do most of that for me by creating a dashboard after running the test.
 >
@@ -913,19 +893,18 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=68)** Navigating to the bin folder of the JMeter translation directory shows me that I have a new folder called the name I specified in the CLI command.
 >
-> **[1:17](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=77)** Opening this folder shows me that there's an index.html file and this is where all of that information is going to be nicely presented in a webpage.
+> **[1:17](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/creating-an-html-dashboard-at-cli-runtime?u=76281980&t=77)** Opening this folder shows me that there's an index.[[HTML]] file and this is where all of that information is going to be nicely presented in a webpage.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JMeter]] (5), hit (2), [[CLI]] (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[JMeter]] (5), [[CLI]] (2), [[HTML]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** cli (2)
 > **Speakers:** - if (1), - e (1)
 > **File Paths:** index.html (1)
 > **Tools:** command line (1)
 
-#### Viewing the dashboard
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980)
+#### [Viewing the dashboard](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -933,7 +912,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=6)** It will run for longer so that we have more data to show in the dashboard.
 >
-> **[0:12](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=12)** If I wanted to interrogate or, perhaps, present this information, I can open the html dashboard that I have created.
+> **[0:12](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=12)** If I wanted to interrogate or, perhaps, present this information, I can open the [[HTML]] dashboard that I have created.
 >
 > **[0:19](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=19)** Finding the named dashboard folder within JMX's bin directory, allows me to see the index.html file.
 >
@@ -941,7 +920,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=37)** For this dashboard, I can see aspects like the amount of and most prevalent errors.
 >
-> **[0:43](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=43)** I could also see a selection of other graphs such as the overall connections and statistics like the response time versus request, and hits per second.
+> **[0:43](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=43)** I could also see a selection of other graphs such as the overall connections and [[Statistics]] like the response time versus request, and hits per second.
 >
 > **[0:52](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/viewing-the-dashboard?u=76281980&t=52)** This is a cool amount of information to have, because it lets me see at a glance some metrics that are otherwise difficult to visualize.
 >
@@ -951,7 +930,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[HTML]] (2), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Statistics]] (1)
 > **Env Vars:** jmx (2)
 > **File Paths:** index.html (1)
 > **UI Navigation:** open the (1)
@@ -960,8 +939,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pros and cons
-> [LinkedIn Learning](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980)
+#### [Pros and cons](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -977,11 +955,11 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=18)** This dashboard is largely automated, it's easy to package up and distribute to others, like developers and stakeholders, and gives you an interactive source of data visualization.
 >
-> **[0:29](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=29)** On the other hand, the dashboard only has a finite amount of statistics that it graphs, and if you are interested in something that it doesn't graph, then you simply won't have that information.
+> **[0:29](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=29)** On the other hand, the dashboard only has a finite amount of [[Statistics]] that it graphs, and if you are interested in something that it doesn't graph, then you simply won't have that information.
 >
 > **[0:39](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=39)** The JTL file file, on the other hand, allows you to use the data within it however you want.
 >
-> **[0:44](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=44)** You can transpose it through any of the installed graph plugins or so you count brand-new plugins from the JMeter plugins website and see if this offers you the information you require.
+> **[0:44](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=44)** You can transpose it through any of the installed graph plugins or so you count brand-new plugins from the [[JMeter]] plugins website and see if this offers you the information you require.
 >
 > **[0:55](https://www.linkedin.com/learning/jmeter-performance-and-load-testing/pros-and-cons?u=76281980&t=55)** You can also use the graphs that these plugins generate to build your own custom report for load and performance testing.
 >
@@ -991,7 +969,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Statistics]] (1), [[JMeter]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[JMeter]] (1)
 > **Env Vars:** jtl (1)
 > **Speakers:** - [instructor] (1)
 

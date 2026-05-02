@@ -60,12 +60,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Welcome to the remote-first world
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980)
+#### [Welcome to the remote-first world](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=0)** - 90 plus percent of workers never want to work in an office again full time.
+> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=0)** - 90 plus percent of workers never want to work in an [[Microsoft Office|office]] again full time.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=5)** What do you think happens to companies that don't give that to their teams?
 >
@@ -81,7 +80,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=42)** I wasn't interested in the oil and gas industry.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=45)** And at that point I began interviewing at some of the biggest tech companies on the planet.
+> **[0:45](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=45)** And at that point I began [[Interviewing]] at some of the biggest tech companies on the planet.
 >
 > **[0:49](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/welcome-to-the-remote-first-world?u=76281980&t=49)** I was talking to MBA schools.
 >
@@ -99,7 +98,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), teams (1), [[Interviewing]] (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Interviewing]] (1)
 > **Env Vars:** mba (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - 90 (1)
@@ -109,8 +108,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Planning to lead the remote-first organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980)
+#### [Planning to lead the remote-first organization](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980&t=24)** And the reality is the data is telling us a very clear story.
 >
-> **[0:28](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980&t=28)** Nine in 10 people never want to work in an office again full time.
+> **[0:28](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980&t=28)** Nine in 10 people never want to work in an [[Microsoft Office|office]] again full time.
 >
 > **[0:33](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/planning-to-lead-the-remote-first-organization?u=76281980&t=33)** And for companies to attract those people, they need to be remote first in order to do that.
 >
@@ -166,11 +164,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (5)
 > **Speakers:** - trust (1)
 
-#### Work to live, not live to work
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980)
+#### [Work to live, not live to work](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -208,7 +205,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980&t=95)** And for the company, they begin to see massive productivity benefits because of this as well.
 >
-> **[1:40](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980&t=100)** Expecting your team to sit on the subway for two hours a day carrying their laptop to the office, to sit and slack people in different countries no longer make sense.
+> **[1:40](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980&t=100)** Expecting your team to sit on the subway for two hours a day carrying their laptop to the [[Microsoft Office|office]], to sit and [[Slack]] people in different countries no longer make sense.
 >
 > **[1:51](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-to-live-not-live-to-work?u=76281980&t=111)** Great talent wants remote working opportunities.
 >
@@ -216,17 +213,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1), [[Microsoft Office|Office]] (1), [[Slack]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Slack]] (1)
 > **CLI Commands:** make (1)
 > **Tools:** slack (1)
 > **Speakers:** - there (1)
 
-#### Remote work and its impact on equity, cost efficiency, and talent
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980)
+#### [Remote work and its impact on equity, cost efficiency, and talent](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=0)** - Remote-first organizations have three massive superpowers: access to talent, efficiency, diversity, and inclusion On the access to talent front, office-first organizations can only hire the best person that they can afford in a 30-mile radius of their physical location.
+> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=0)** - Remote-first organizations have three massive superpowers: access to talent, efficiency, diversity, and inclusion On the access to talent front, [[Microsoft Office|office]]-first organizations can only hire the best person that they can afford in a 30-mile radius of their physical location.
 >
 > **[0:20](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=20)** On the other hand, remote-first organizations can hire the best person on the planet for every single role.
 >
@@ -268,7 +264,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=137)** And for remote-first organizations, they get the benefit of that more diverse perspective that is integral to them doing great work going forward.
 >
-> **[2:27](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=147)** The challenge with diversity and inclusion is that it's not just going to happen.
+> **[2:27](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=147)** The challenge with [[Diversity and Inclusion]] is that it's not just going to happen.
 >
 > **[2:33](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-work-and-its-impact-on-equity-cost-efficiency-and-talent?u=76281980&t=153)** We need to be super purposeful and considerate to make sure that it does.
 >
@@ -284,7 +280,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Diversity and Inclusion]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Diversity and Inclusion]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Speakers:** - remote (1)
 
@@ -293,12 +289,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Asynchronous work in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980)
+#### [Asynchronous work in practice](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980&t=0)** - Everyone's experienced synchronous work in an office, where someone comes over to your desk, taps you on the shoulder, and takes you away from what you're trying to work on to answer a question or help them with something that they think is relatively minor, but ultimately ends up distracting you for a 30 or 60-minute period.
+> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980&t=0)** - Everyone's experienced synchronous work in an [[Microsoft Office|office]], where someone comes over to your desk, taps you on the shoulder, and takes you away from what you're trying to work on to answer a question or help them with something that they think is relatively minor, but ultimately ends up distracting you for a 30 or 60-minute period.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/asynchronous-work-in-practice?u=76281980&t=19)** Asynchronous work, on the other hand, is about empowering you, the worker, to do great work without that distraction.
 >
@@ -321,8 +316,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Office|Office]] (3)
 > **Speakers:** - everyone (1)
 
-#### Work from anywhere (WFA) in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980)
+#### [Work from anywhere (WFA) in practice](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -340,7 +334,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980&t=36)** But the problem they face is that if the process isn't right, they still aren't able to operate as an organization.
 >
-> **[0:43](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980&t=43)** In terms of office organizations, there's a verbal culture within them.
+> **[0:43](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980&t=43)** In terms of [[Microsoft Office|office]] organizations, there's a verbal culture within them.
 >
 > **[0:49](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/work-from-anywhere-wfa-in-practice?u=76281980&t=49)** People communicate person to person and information is passed down very easily.
 >
@@ -382,15 +376,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Speakers:** - the (1)
 
-#### Remote-first work in practice
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-first-work-in-practice?u=76281980)
+#### [Remote-first work in practice](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-first-work-in-practice?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-first-work-in-practice?u=76281980&t=0)** - The biggest challenge that office-first organizations face going forwards is their people want to work remotely.
+> **[0:00](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-first-work-in-practice?u=76281980&t=0)** - The biggest challenge that [[Microsoft Office|office]]-first organizations face going forwards is their people want to work remotely.
 >
 > **[0:09](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/remote-first-work-in-practice?u=76281980&t=9)** And some office-first organizations will hold onto that.
 >
@@ -440,12 +433,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), leadership (2), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Tools for remote-first work
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980)
+#### [Tools for remote-first work](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -455,7 +447,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=16)** Having a single source of truth for every remote organization is one of the most important decisions an organization can make.
 >
-> **[0:25](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=25)** There are a huge number of tools available in this space, Notion, Evernote, Google docs and what you use is ultimately less important than how you use it.
+> **[0:25](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=25)** There are a huge number of tools available in this space, Notion, Evernote, [[Google]] docs and what you use is ultimately less important than how you use it.
 >
 > **[0:37](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=37)** The process of documentation, the knowledge and an understanding of why you're recording the things that you are, that's what's important for organizations.
 >
@@ -465,11 +457,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=67)** In synchronous tools, there is written communication and video communication.
 >
-> **[1:13](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=73)** Are you going to use Microsoft Teams, are you going to use Slack, are you going to use something like Todoist?
+> **[1:13](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=73)** Are you going to use [[Microsoft Teams]], are you going to use [[Slack]], are you going to use something like Todoist?
 >
 > **[1:21](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=81)** On the other side, there's video communication.
 >
-> **[1:23](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=83)** We all need times where we need to be face-to-face together to understand the emotion and body language of someone and whether you use tools like zoom or Google Hangouts or any number of other platforms, it's more that you have the tool rather than what you use.
+> **[1:23](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=83)** We all need times where we need to be face-to-face together to understand the emotion and body language of someone and whether you use tools like [[Zoom]] or Google Hangouts or any number of other platforms, it's more that you have the tool rather than what you use.
 >
 > **[1:40](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=100)** On the site of asynchronous work, this is more nascent.
 >
@@ -483,7 +475,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=142)** And I think a good example of this would be Whiteboarding.
 >
-> **[2:26](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=146)** There are great tools that don't just replicate what's available in the office, they take a new slot on it and actually they can improve the experience as a whole.
+> **[2:26](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=146)** There are great tools that don't just replicate what's available in the [[Microsoft Office|office]], they take a new slot on it and actually they can improve the experience as a whole.
 >
 > **[2:35](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=155)** Tools like Miro and MURAL and FigJam.
 >
@@ -499,7 +491,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=221)** And I think ultimately what we discovered was, it's not the tool that we were actually struggling with, it was how we were using it.
 >
-> **[3:49](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=229)** We tried multiple different instant messaging platforms.
+> **[3:49](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=229)** We tried multiple different instant [[Messaging Platforms]].
 >
 > **[3:53](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/tools-for-remote-first-work?u=76281980&t=233)** And what we ultimately had to do was build the process of communication into how we worked as an organization rather than change the tools.
 >
@@ -514,8 +506,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - there (1)
 
-#### Potential challenges to remote-first work
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980)
+#### [Potential challenges to remote-first work](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +516,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980&t=6)** But I think we'd be remiss not to also touch on many of the issues that remote-first organizations face.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980&t=13)** Number one, replicating the office.
+> **[0:13](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980&t=13)** Number one, replicating the [[Microsoft Office|office]].
 >
 > **[0:16](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/potential-challenges-to-remote-first-work?u=76281980&t=16)** It's really easy for organizations to take what they have, copy and paste that into a remote work environment, and lead to a very bad situation.
 >
@@ -559,7 +550,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), business (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2)
 > **Speakers:** - there (1)
 
 
@@ -567,8 +558,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Making remote-first work for you
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980)
+#### [Making remote-first work for you](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -584,13 +574,13 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980&t=27)** Setting yourself up for the future of work and enabling your organization to operate remotely effectively will be the best decision your organization can make in terms of being competitive, looking forward towards 2030.
 >
-> **[0:42](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980&t=42)** To continue the conversation, connect with me on LinkedIn.
+> **[0:42](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980&t=42)** To continue the conversation, connect with me on [[LinkedIn]].
 >
 > **[0:46](https://www.linkedin.com/learning/planning-for-the-remote-first-work-from-anywhere-organization/making-remote-first-work-for-you?u=76281980&t=46)** Otherwise, check out my website at [firstbasehq.com](https://firstbasehq.com), and good luck for the future of work.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **URLs:** [firstbasehq.com](https://firstbasehq.com) (1)
 > **Cross-References:** in the next (1)

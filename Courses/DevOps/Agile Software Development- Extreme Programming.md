@@ -81,8 +81,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Be more productive, with higher quality
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
+#### [Be more productive, with higher quality](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -92,9 +91,9 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=13)** It helps you write higher quality code that has fewer bugs, is easier to change, and is easier to add new features to.
 >
-> **[0:20](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=20)** In this course, you'll learn the fundamentals of XP, including user stories, release and iteration planning, test-driven development, pair programming, refactoring, and continuous integration.
+> **[0:20](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=20)** In this course, you'll learn the fundamentals of XP, including user stories, release and iteration planning, [[Test-Driven Development]], pair programming, refactoring, and [[Continuous Integration (CI)|continuous integration]].
 >
-> **[0:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=31)** We'll also cover the history, values, and mindset of XP to give you a full understanding of the benefits this agile methodology provides.
+> **[0:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=31)** We'll also cover the history, values, and mindset of XP to give you a full understanding of the benefits this [[Agile Development|agile]] methodology provides.
 >
 > **[0:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=39)** I'm Richard Kasperowski.
 >
@@ -102,13 +101,13 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=46)** I've been using extreme programming since it was introduced.
 >
-> **[0:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=49)** And I created and teach the course, [[Agile Software Development]], at Harvard University.
+> **[0:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=49)** And I created and teach the course, [[[[Agile Software Development]]]], at Harvard University.
 >
-> **[0:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=53)** So join me in my LinkedIn Learning course to learn about extreme programming and how to build more software better and faster.
+> **[0:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/be-more-productive-with-higher-quality?u=76281980&t=53)** So join me in my [[LinkedIn]] Learning course to learn about extreme programming and how to build more software better and faster.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), teams (2), business (1), [[Test-Driven Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (1), [[Continuous Integration (CI)|Continuous integration]] (1), [[Agile Development|Agile]] (1), [[Agile Software Development]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), known as (1)
 > **Speakers:** - agility (1)
 
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### History of extreme programming (XP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
+#### [History of extreme programming (XP)](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,13 +130,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=23)** A few of us bought copies of the book and read it.
 >
-> **[0:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=26)** We began adopting some of the practices in the book like test-first development, pair programming, continuous integration, and sustainable pace.
+> **[0:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=26)** We began adopting some of the practices in the book like test-first development, pair programming, [[Continuous Integration (CI)|continuous integration]], and sustainable pace.
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=34)** I know that because we adopted the practices of XP, I was writing the best code of my life.
 >
 > **[0:40](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=40)** And I think my friends would say the same thing.
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=42)** It forever changed the way I think about writing code and building software products.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=42)** It forever changed the way I think about writing code and building software [[Microsoft Products|products]].
 >
 > **[0:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=47)** Extreme programming changed my life in very positive ways.
 >
@@ -156,7 +154,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=89)** A fundamental idea of extreme programming is to take good practices and amplify them to extreme levels.
 >
-> **[1:36](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=96)** For example, software testing is a good practice.
+> **[1:36](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=96)** For example, [[Software Testing]] is a good practice.
 >
 > **[1:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=99)** By testing our software, we can find and fix defects before we deliver it to our customers.
 >
@@ -164,9 +162,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=106)** Let's do it all the time.
 >
-> **[1:48](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=108)** We call this test-driven development or test-first development, and we do it with automated tests.
+> **[1:48](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=108)** We call this [[Test-Driven Development]] or test-first development, and we do it with automated tests.
 >
-> **[1:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=113)** The same thing with code review.
+> **[1:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=113)** The same thing with [[Code Review]].
 >
 > **[1:55](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=115)** When we review our code, we find and fix defects before we ship it to our customers.
 >
@@ -184,7 +182,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=138)** We call this continuous integration.
 >
-> **[2:22](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=142)** When I compare XP to Scrum, I notice that XP includes many technical agile practices like test-driven development, continuous integration, and pair programming.
+> **[2:22](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=142)** When I compare XP to [[Scrum]], I notice that XP includes many technical [[Agile Development|agile]] practices like test-driven development, continuous integration, and pair programming.
 >
 > **[2:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=151)** And Scrum lacks technical practices.
 >
@@ -198,31 +196,30 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=173)** They also practice the daily stand-up, known in Scrum as the daily scrum.
 >
-> **[2:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=177)** Many of the best [[Agile Software Development]] teams succeed by combining the rigorous technical practices of XP with the process control elements of Scrum.
+> **[2:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=177)** Many of the best [[[[Agile Software Development]]]] teams succeed by combining the rigorous technical practices of XP with the process control elements of Scrum.
 >
 > **[3:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/history-of-extreme-programming-xp?u=76281980&t=186)** And many of the best teams I've ever worked on do exactly that, augment Scrum with the technical practices of extreme programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (10), [[Scrum]] (8), teams (5), [[Continuous Integration (CI)|Continuous integration]] (4), [[Test-Driven Development]] (3)
+> **Frameworks & Libraries:** [[Scrum]] (8), [[Continuous Integration (CI)|Continuous integration]] (4), [[Test-Driven Development]] (3), [[Code Review]] (2), [[Microsoft Products|Products]] (1)
 > **Definitions:** we call this (2), is a  (1)
 > **CLI Commands:** find (2)
 > **Analogies:** for example (2)
 > **Best Practices:** good practice (2)
 > **Speakers:** - in (1)
 
-#### Extreme programming (XP) overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980)
+#### [Extreme programming (XP) overview](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=1)** - [Instructor] Extreme programming, also known as XP, is a software development methodology.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=1)** - [Instructor] Extreme programming, also known as XP, is a [[Software Development]] methodology.
 >
-> **[0:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=5)** It's a way of building software products together as a team.
+> **[0:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=5)** It's a way of building software [[Microsoft Products|products]] together as a team.
 >
-> **[0:10](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=10)** [[Agile Software Development]] is a set of values and principles.
+> **[0:10](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=10)** [[[[Agile Software Development]]]] is a set of values and principles.
 >
-> **[0:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=14)** There are four values in agile.
+> **[0:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=14)** There are four values in [[Agile Development|agile]].
 >
 > **[0:16](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=16)** The first is that we prefer individuals and interactions over processes and tools.
 >
@@ -254,7 +251,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=70)** One of these is XP.
 >
-> **[1:11](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=71)** Others include scrum and kanban.
+> **[1:11](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=71)** Others include [[Scrum]] and kanban.
 >
 > **[1:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-overview?u=76281980&t=73)** And there are many more.
 >
@@ -272,13 +269,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Microsoft Products|Products]] (3), [[Programming]] (2), [[Software Development]] (2), [[Agile Software Development]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (7), [[Microsoft Products|Products]] (3), [[Software Development]] (2), [[Agile Software Development]] (2), [[Scrum]] (1)
 > **Definitions:** is a  (4), known as (1), is an  (1)
 > **Analogies:** think of it as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Extreme programming (XP) themes
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980)
+#### [Extreme programming (XP) themes](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,7 +298,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=46)** So instead of waiting until the end of the project, we test all the time, and we call that test driven development.
 >
-> **[0:52](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=52)** The same thing with code review.
+> **[0:52](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=52)** The same thing with [[Code Review]].
 >
 > **[0:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=53)** Reviewing code is good.
 >
@@ -336,17 +332,16 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=109)** So we resolve that pain and amplify the benefits by doing integration all the time.
 >
-> **[1:55](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=115)** We call it continuous integration.
+> **[1:55](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-themes?u=76281980&t=115)** We call it [[Continuous Integration (CI)|continuous integration]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[Code Review]] (3), [[Programming]] (1), [[Continuous Integration (CI)|Continuous integration]] (1)
+> **Frameworks & Libraries:** [[Code Review]] (3), [[Continuous Integration (CI)|Continuous integration]] (1)
 > **CLI Commands:** find (4), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Extreme programming (XP) values
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980)
+#### [Extreme programming (XP) values](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -364,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=31)** And most software is built by teams, not single people.
 >
-> **[0:35](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=35)** As Mel Conway puts it, "Organizations that design systems "are constrained to produce designs that are copies "of the communication structures of the organizations."
+> **[0:35](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=35)** As Mel Conway puts it, "Organizations that [[Design Systems]] "are constrained to produce designs that are copies "of the communication structures of the organizations."
 >
 > **[0:44](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=44)** In many ways, the quality of a software product represents the quality of the team's communication amongst themselves.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=120)** And I usually make it to my destination.
 >
-> **[2:03](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=123)** The same thing is true when we're building software products.
+> **[2:03](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=123)** The same thing is true when we're building software [[Microsoft Products|products]].
 >
 > **[2:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=126)** Maybe you're about to write some code.
 >
@@ -462,11 +457,11 @@ created: 2026-05-02
 >
 > **[3:44](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=224)** By doing so, they create psychological safety.
 >
-> **[3:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=227)** Teams that feel psychologically safe outperform their peers in every industry, software development teams included.
+> **[3:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/extreme-programming-xp-values?u=76281980&t=227)** Teams that feel psychologically safe outperform their peers in every industry, [[Software Development]] teams included.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (6), [[Programming]] (3), teams (3), feature (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Design Systems]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -476,8 +471,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Feedback scales
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
+#### [Feedback scales](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +497,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=56)** Teams get value from reflecting on the previous few months of work and product deliveries.
 >
-> **[1:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=61)** They make adjustments to the product strategy based on feedback from the market and they make a new plan for the next few months based on their best knowledge at the moment.
+> **[1:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=61)** They make adjustments to the [[Product Strategy]] based on feedback from the market and they make a new plan for the next few months based on their best knowledge at the moment.
 >
 > **[1:09](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=69)** At medium scale we have iteration planning, ranging from a week to a couple of weeks.
 >
@@ -521,7 +515,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=94)** At smaller scale we have acceptance testing and standup meetings at the scope of a day or a couple of days.
 >
-> **[1:40](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=100)** And then at fine scale we have pair negotiation, unit testing, pair programming, and writing the code itself.
+> **[1:40](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=100)** And then at fine scale we have pair negotiation, [[Unit Testing]], pair programming, and writing the code itself.
 >
 > **[1:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/feedback-scales?u=76281980&t=106)** With pair programming for example, we guide each other in real time as we write the code together.
 >
@@ -533,15 +527,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), next (3), product (2), teams (1), [[Unit Testing]] (1)
+> **Frameworks & Libraries:** [[Product Strategy]] (1), [[Unit Testing]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
 > **Env Vars:** ide (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### User stories
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980)
+#### [User stories](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -563,7 +556,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980&t=31)** They ask questions, and they get clarifications, like is this the version of "The Three Little Pigs" where the wolf is a villain, or is this the one where he just has a bad cold and the pigs misunderstand him?
 >
-> **[0:42](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980&t=42)** Storytelling is something that humans have been doing for as long as humans have existed.
+> **[0:42](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980&t=42)** [[Storytelling]] is something that humans have been doing for as long as humans have existed.
 >
 > **[0:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/user-stories?u=76281980&t=47)** We sit in a circle together.
 >
@@ -647,7 +640,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Storytelling]] (2), next (1), feature (1), product (1)
+> **Frameworks & Libraries:** [[Storytelling]] (2)
 > **CLI Commands:** make (2), find (2)
 > **Exercise Files:** template (4)
 > **Analogies:** imagine (2), similar to (1)
@@ -655,8 +648,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Quarterly planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980)
+#### [Quarterly planning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -676,7 +668,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=34)** Some call it quarterly planning because they do it every three months.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=38)** Others call it product increment planning corresponding to a practice named in scaled agile framework.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=38)** Others call it product increment planning corresponding to a practice named in scaled [[Agile Development|agile]] framework.
 >
 > **[0:43](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=43)** The result of Release Planning is a plan.
 >
@@ -702,7 +694,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=92)** Damon Poole, an Agile coach, calls this activity Whole team long-range planning.
 >
-> **[1:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=99)** The members of the software development team along with their business liaison and other stakeholders map out the next three months of software deliveries together.
+> **[1:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=99)** The members of the [[Software Development]] team along with their business liaison and other stakeholders map out the next three months of software deliveries together.
 >
 > **[1:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=107)** They ask each other questions and they get quick answers.
 >
@@ -722,7 +714,7 @@ created: 2026-05-02
 >
 > **[2:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=146)** They mark a series of columns on the wall and the label each column with a start and end date of each upcoming iteration.
 >
-> **[2:32](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=152)** They place story Post-its in the iteration columns on the wall, forecasting in which iteration they think they can get the story done together.
+> **[2:32](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=152)** They place story Post-its in the iteration columns on the wall, [[Forecasting]] in which iteration they think they can get the story done together.
 >
 > **[2:40](https://www.linkedin.com/learning/agile-software-development-extreme-programming/quarterly-planning?u=76281980&t=160)** They review the entire plan together, making sure they've accounted for everything, internal and external dependencies, holidays, vacations, training, company meetings, and anything else that might impact their ability to get the plan done.
 >
@@ -732,13 +724,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (5), business (4), next (2), product (2), [[Agile Development|Agile]] (2)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (2), [[Software Development]] (1), [[Forecasting]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Iteration planning
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980)
+#### [Iteration planning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +739,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980&t=7)** Iteration planning is the act of gathering together as a team to plan the next iteration of work and product deliveries.
 >
-> **[0:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980&t=13)** An iteration in Extreme programming is exactly the same thing as a sprint in Scrum.
+> **[0:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980&t=13)** An iteration in Extreme programming is exactly the same thing as a sprint in [[Scrum]].
 >
 > **[0:19](https://www.linkedin.com/learning/agile-software-development-extreme-programming/iteration-planning?u=76281980&t=19)** Iteration planning in XP is exactly the same thing as sprint planning in Scrum.
 >
@@ -850,14 +841,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Scrum]] (2), teams (2), product (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (2)
 > **CLI Commands:** make (3)
 > **Cross-References:** in the next (2), in the last (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Standup meetings
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980)
+#### [Standup meetings](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -899,7 +889,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980&t=78)** And we quickly get back to work.
 >
-> **[1:21](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980&t=81)** The daily stand-up meeting in extreme programming is exactly the same thing as the daily scrum in scrum.
+> **[1:21](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980&t=81)** The daily stand-up meeting in extreme programming is exactly the same thing as the daily [[Scrum]] in scrum.
 >
 > **[1:27](https://www.linkedin.com/learning/agile-software-development-extreme-programming/standup-meetings?u=76281980&t=87)** In fact, Jeff Sutherland, the co-inventor of scrum, says that when the first scrum team adopted the practice of the daily stand-up, they were 400% more productive that iteration.
 >
@@ -941,19 +931,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), [[Scrum]] (4), teams (1), product (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Scrum]] (4)
 > **CLI Commands:** make (4)
 > **Cross-References:** in the last (1), in the next (1)
 > **Env Vars:** ide (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test-driven development
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980)
+#### [Test-driven development](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=1)** - [Instructor] Test-driven development is used for small scale to fine scale feedback.
+> **[0:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=1)** - [Instructor] [[Test-Driven Development]] is used for small scale to fine scale feedback.
 >
 > **[0:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=5)** Acceptance tests offer small scale feedback at the scope of days.
 >
@@ -1041,11 +1030,11 @@ created: 2026-05-02
 >
 > **[3:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=209)** When you begin working on a new user story, start by writing an automated acceptance test.
 >
-> **[3:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=214)** Many teams use tools like Cucumber and Selenium to help them write and run automated acceptance tests.
+> **[3:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=214)** Many teams use tools like Cucumber and [[Selenium]] to help them write and run automated acceptance tests.
 >
 > **[3:40](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=220)** Run the acceptance test to make sure it's red, to make sure it fails, then write a unit test for the first tiny part of the story.
 >
-> **[3:48](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=228)** Many teams use tools like Junit to help them write and run automated unit tests.
+> **[3:48](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=228)** Many teams use tools like [[JUnit]] to help them write and run automated unit tests.
 >
 > **[3:53](https://www.linkedin.com/learning/agile-software-development-extreme-programming/test-driven-development?u=76281980&t=233)** Run the test to make sure it's red, to make sure it fails.
 >
@@ -1067,15 +1056,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Programming]] (4), teams (2), product (1), next (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (10), [[Selenium]] (1), [[JUnit]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Env Vars:** tdd (2)
 > **Definitions:** is an  (2)
 > **Analogies:** kind of like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pair programming
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980)
+#### [Pair programming](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1109,7 +1097,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=55)** Code reviews can be painful.
 >
-> **[0:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=57)** Code review meetings are typically poorly facilitated.
+> **[0:57](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=57)** [[Code Review]] meetings are typically poorly facilitated.
 >
 > **[1:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=60)** We feel like we're wasting time, and we wish we could just get back to to work.
 >
@@ -1195,17 +1183,17 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=230)** Everyone on the team works together on the same user story, on the same computer, at the same time.
 >
-> **[3:56](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=236)** One of them is the driver and the rest are a skilled group of navigators.
+> **[3:56](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=236)** One of them is the driver and the [[Representational State Transfer (REST)|rest]] are a skilled group of navigators.
 >
 > **[4:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=240)** In short timeboxed intervals, they all rotate into the driver's role.
 >
 > **[4:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=245)** Teams that practice mob programming experience extreme levels of quality and velocity.
 >
-> **[4:09](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=249)** To learn more about pair programming and mob programming, check out the LinkedIn Learning course, Pair and Mob Programming.
+> **[4:09](https://www.linkedin.com/learning/agile-software-development-extreme-programming/pair-programming?u=76281980&t=249)** To learn more about pair programming and mob programming, check out the [[LinkedIn]] Learning course, Pair and Mob Programming.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (16), [[Code Review]] (3), teams (3), product (2), business (1)
+> **Frameworks & Libraries:** [[Code Review]] (3), [[Representational State Transfer (REST)|Rest]] (1), [[LinkedIn]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** just like (1)
@@ -1216,8 +1204,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### If it's good, do it all the time
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
+#### [If it's good, do it all the time](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1255,7 +1242,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=47)** Continuous process is an overarching theme of extreme programming.
 >
-> **[0:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=51)** If there's a software development practice that hurts, if it's hard to do, we do it at extreme frequency.
+> **[0:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=51)** If there's a [[Software Development]] practice that hurts, if it's hard to do, we do it at extreme frequency.
 >
 > **[0:56](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=56)** We do it all the time.
 >
@@ -1277,9 +1264,9 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=85)** So instead of waiting until the end of the project, we test all the time.
 >
-> **[1:28](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=88)** And we call that test-driven development.
+> **[1:28](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=88)** And we call that [[Test-Driven Development]].
 >
-> **[1:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=91)** Same thing with code review.
+> **[1:31](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=91)** Same thing with [[Code Review]].
 >
 > **[1:32](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=92)** Reviewing code is good.
 >
@@ -1311,7 +1298,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=137)** It takes a lot of time and hard work to get the code back into a state where it will just compile, let alone run and pass all the tests.
 >
-> **[2:24](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=144)** So we resolve that pain and amplify the benefits of integration by doing it all the time, and we call that continuous integration.
+> **[2:24](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=144)** So we resolve that pain and amplify the benefits of integration by doing it all the time, and we call that [[Continuous Integration (CI)|continuous integration]].
 >
 > **[2:32](https://www.linkedin.com/learning/agile-software-development-extreme-programming/if-it-s-good-do-it-all-the-time?u=76281980&t=152)** Some activities in software development are traditionally done infrequently.
 >
@@ -1341,20 +1328,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Code Review]] (6), product (4), [[Programming]] (3), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2)
+> **Frameworks & Libraries:** [[Code Review]] (6), [[Software Development]] (2), [[Continuous Integration (CI)|Continuous integration]] (2), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (5), find (4)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Design improvement: Refactoring
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980)
+#### [Design improvement: Refactoring](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=1)** - [Instructor] I once worked for a large company that wanted to build a huge repository system for electronic documents.
 >
-> **[0:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=6)** The company opened an office in Boston where I lived because there are a lot of talented software developers there.
+> **[0:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=6)** The company opened an [[Microsoft Office|office]] in Boston where I lived because there are a lot of talented software developers there.
 >
 > **[0:11](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=11)** They hired around a hundred of us to build this new product for them.
 >
@@ -1398,7 +1384,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=106)** It's important to think about problems before you start writing tests and code.
 >
-> **[1:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=111)** You need to have guidance on things like the platform and the tools to use, the class structure, the algorithms, and data storage.
+> **[1:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=111)** You need to have guidance on things like the platform and the tools to use, the class structure, the [[Algorithms]], and [[Data Storage]].
 >
 > **[1:58](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=118)** And good design leads to clean code, code that has fewer bugs and easy to modify and adapt as your stakeholders' needs change over time.
 >
@@ -1426,9 +1412,9 @@ created: 2026-05-02
 >
 > **[2:58](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=178)** Continuous design improvement helps us deliver better working software faster.
 >
-> **[3:03](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=183)** Refactoring depends on test-driven development.
+> **[3:03](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=183)** Refactoring depends on [[Test-Driven Development]].
 >
-> **[3:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=186)** At the beginning of product development, you wrote tests that guided you as you turned user stories into working software.
+> **[3:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=186)** At the beginning of [[Product Development]], you wrote tests that guided you as you turned user stories into working software.
 >
 > **[3:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=193)** As you refactor, those same tests keep you safe.
 >
@@ -1460,21 +1446,20 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=247)** Modern IDEs like IntelliJ and Eclipse can perform a lot of these refactorings for you, making it easy to improve your code all the time.
 >
-> **[4:15](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=255)** To learn more about refactoring, take a look at [[Agile Software Development]]: Refactoring on LinkedIn Learning.
+> **[4:15](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=255)** To learn more about refactoring, take a look at [[[[Agile Software Development]]]]: Refactoring on [[LinkedIn]] Learning.
 >
 > **[4:21](https://www.linkedin.com/learning/agile-software-development-extreme-programming/design-improvement-refactoring?u=76281980&t=261)** You'll be able to practice with hands-on exercise to help you master refactoring.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), [[Test-Driven Development]] (2), [[Microsoft Office|Office]] (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Test-Driven Development]] (2), [[Microsoft Office|Office]] (1), [[Algorithms]] (1), [[Data Storage]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Tools:** intellij (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - [instructor] (1)
 
-#### Continuous integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980)
+#### [Continuous integration](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1482,7 +1467,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=4)** We were building a huge scale software system for login and identity management.
 >
-> **[0:09](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=9)** The team members set up an environment for continuous integration or CI.
+> **[0:09](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=9)** The team members set up an environment for [[Continuous Integration (CI)|continuous integration]] or CI.
 >
 > **[0:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=14)** Every time someone committed new code, the CI system automatically built all the code, deployed it to a server, and executed thousands of tests.
 >
@@ -1540,7 +1525,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=149)** Most importantly, it answers this question: Is the software releasable right now?
 >
-> **[2:35](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=155)** Many teams use Jenkins as the tool for their CI system.
+> **[2:35](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=155)** Many teams use [[Jenkins]] as the tool for their CI system.
 >
 > **[2:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=159)** A typical CI pipeline consists of a number of steps.
 >
@@ -1548,7 +1533,7 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=167)** They make sure their code passes all the tests in their private development environments.
 >
-> **[2:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=171)** Then they commit the code to a shared repository using a tool like Git.
+> **[2:51](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=171)** Then they commit the code to a shared repository using a tool like [[Git]].
 >
 > **[2:55](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=175)** The CI system notices the new code in the repository.
 >
@@ -1560,7 +1545,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=193)** To be able to execute the tests, all the tests have to be automated.
 >
-> **[3:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=197)** Fortunately, you've been using test-driven development to write your code, so you already have all the tests you need, and they're all automated.
+> **[3:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=197)** Fortunately, you've been using [[Test-Driven Development]] to write your code, so you already have all the tests you need, and they're all automated.
 >
 > **[3:25](https://www.linkedin.com/learning/agile-software-development-extreme-programming/continuous-integration?u=76281980&t=205)** Finally, the CI system updates its status display to let everyone know whether it succeeded or failed.
 >
@@ -1580,14 +1565,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ci (17), product (5), [[Continuous Integration (CI)|Continuous integration]] (3), management (1), teams (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (3), [[Jenkins]] (1), [[Git]] (1), [[Test-Driven Development]] (1)
 > **CLI Commands:** make (3), find (1), git (1)
 > **Env Vars:** led (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Small releases
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980)
+#### [Small releases](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1663,9 +1647,9 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=191)** The ability to deliver small releases depends on all the scaffolding that we've set up in Extreme Programming.
 >
-> **[3:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=197)** Each user story is a potential new deliverable, test-driven development gives an automated way to ensure we get each story done.
+> **[3:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=197)** Each user story is a potential new deliverable, [[Test-Driven Development]] gives an automated way to ensure we get each story done.
 >
-> **[3:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=206)** That the story exists in the build, that it works properly and that it has introduced no new bugs, and continuous integration keeps the entire system in a releasable state.
+> **[3:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=206)** That the story exists in the build, that it works properly and that it has introduced no new bugs, and [[Continuous Integration (CI)|continuous integration]] keeps the entire system in a releasable state.
 >
 > **[3:36](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=216)** At the end of the CI pipeline if everything is green, we're probably ready to release the new small increment.
 >
@@ -1675,13 +1659,13 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=228)** What if we did them all the time?
 >
-> **[3:50](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=230)** Continuous delivery is a modern extension to XP that does exactly that.
+> **[3:50](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=230)** [[Continuous Delivery (CD)|Continuous delivery]] is a modern extension to XP that does exactly that.
 >
 > **[3:54](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=234)** Continuous delivery extends the CI pipeline by actually delivering the code to your stakeholders every time there's a code change.
 >
 > **[4:02](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=242)** Companies like Amazon, Facebook, Adobe, Etsy, and Netflix, deliver small releases to production many times per day, anywhere from 10s to 1,000s of releases per day.
 >
-> **[4:12](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=252)** Many teams use Jenkins as their continuous delivery system.
+> **[4:12](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=252)** Many teams use [[Jenkins]] as their continuous delivery system.
 >
 > **[4:15](https://www.linkedin.com/learning/agile-software-development-extreme-programming/small-releases?u=76281980&t=255)** With tools like Jenkins it's relatively easy for you to set up a CD pipeline and deliver your product many times per day as well.
 >
@@ -1697,7 +1681,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), [[Continuous Delivery (CD)|Continuous delivery]] (4), cd (3), teams (2), [[Continuous Integration (CI)|Continuous integration]] (2)
+> **Frameworks & Libraries:** [[Continuous Delivery (CD)|Continuous delivery]] (4), [[Continuous Integration (CI)|Continuous integration]] (2), [[Jenkins]] (2), [[Test-Driven Development]] (1)
 > **CLI Commands:** cd (3), make (2), find (2)
 > **Definitions:** is a  (4)
 > **Prerequisites:** set up (2)
@@ -1708,8 +1692,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Programmer welfare and sustainable pace
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
+#### [Programmer welfare and sustainable pace](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1749,7 +1732,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=105)** When we overwork, our creativity and productivity decrease.
 >
-> **[1:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=109)** Programmer welfare and sustainable pace are reminders that we're in control, that if we want to feel well and deliver great software products, it's up to us to make sure we take care of ourselves.
+> **[1:49](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=109)** Programmer welfare and sustainable pace are reminders that we're in control, that if we want to feel well and deliver great software [[Microsoft Products|products]], it's up to us to make sure we take care of ourselves.
 >
 > **[2:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=120)** There are a number of tools in extreme programming that help with programmer welfare and sustainable pace.
 >
@@ -1793,7 +1776,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=203)** The metaphor is that the easiest way to forecast today's weather is to assume that it will be a lot like yesterday's weather.
 >
-> **[3:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=209)** Yesterday's weather in software development is the team's velocity, the number of stories they completed from previous sprints.
+> **[3:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=209)** Yesterday's weather in [[Software Development]] is the team's velocity, the number of stories they completed from previous sprints.
 >
 > **[3:35](https://www.linkedin.com/learning/agile-software-development-extreme-programming/programmer-welfare-and-sustainable-pace?u=76281980&t=215)** For example, if you completed five stories in the previous iteration, you'll probably complete five stories in the next iteration.
 >
@@ -1825,15 +1808,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Programming]] (4), product (1), [[Microsoft Products|Products]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Software Development]] (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is a  (2), is called (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Code standards and collective code ownership
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980)
+#### [Code standards and collective code ownership](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1867,7 +1849,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=54)** Coding standards are a team agreement about the style and structure of the code in the language you are writing it in.
 >
-> **[1:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=60)** For example, if you're writing code in Java, the usual style is to name variables in CamelCase.
+> **[1:00](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=60)** For example, if you're writing code in [[Java]], the usual style is to name variables in CamelCase.
 >
 > **[1:05](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=65)** And to put left squiglys at the and of the line.
 >
@@ -1899,7 +1881,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=137)** Use your IDE's code reformatting tool to easily reformat code to match your team's coding conventions.
 >
-> **[2:24](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=144)** Add a stage to your continuous integration pipeline, to automatically enforce coding standards.
+> **[2:24](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=144)** Add a stage to your [[Continuous Integration (CI)|continuous integration]] pipeline, to automatically enforce coding standards.
 >
 > **[2:30](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=150)** Use Decider protocol to facilitate agreement with each other on coding standards.
 >
@@ -1921,7 +1903,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=184)** Change your pair programming partner at least once a day.
 >
-> **[3:07](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=187)** In larger organizations, adopt an Open-source model for product development.
+> **[3:07](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=187)** In larger organizations, adopt an Open-source model for [[Product Development]].
 >
 > **[3:11](https://www.linkedin.com/learning/agile-software-development-extreme-programming/code-standards-and-collective-code-ownership?u=76281980&t=191)** If another team wants to change your team's code, let them. And make sure they do a test first, and that they're pairing or mobbing.
 >
@@ -1929,15 +1911,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (4), [[Java]] (3), next (1), [[Continuous Integration (CI)|Continuous integration]] (1), open-source (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Continuous Integration (CI)|Continuous integration]] (1), [[Product Development]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for example (3)
 > **Env Vars:** ide (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - when (1)
 
-#### System metaphor and simple design
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980)
+#### [System metaphor and simple design](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1977,7 +1958,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=85)** Here's an example of the simplest design possible, it's the perfect software program and has zero lines of code and zero defects.
 >
-> **[1:33](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=93)** It takes almost no time at all for the continuous integration pipeline to build it and run the tests.
+> **[1:33](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=93)** It takes almost no time at all for the [[Continuous Integration (CI)|continuous integration]] pipeline to build it and run the tests.
 >
 > **[1:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=98)** It's trivial to release.
 >
@@ -2023,7 +2004,7 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=210)** Smaller code builds faster and runs faster.
 >
-> **[3:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=214)** The feedback cycles from test-driven development and continuous integration are faster.
+> **[3:34](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=214)** The feedback cycles from [[Test-Driven Development]] and continuous integration are faster.
 >
 > **[3:39](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=219)** Less code results in a smaller product that's easier to deliver to your stakeholders.
 >
@@ -2037,11 +2018,11 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=246)** Use tools like SonarQube to continuously identify code complexity hot spots and refactor the hot spots to make them simpler.
 >
-> **[4:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=254)** And check out the [[Agile Software Development]] Refactoring course and practice refactoring until it becomes second nature.
+> **[4:14](https://www.linkedin.com/learning/agile-software-development-extreme-programming/system-metaphor-and-simple-design?u=76281980&t=254)** And check out the [[[[Agile Software Development]]]] Refactoring course and practice refactoring until it becomes second nature.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Continuous Integration (CI)|Continuous integration]] (2), [[Test-Driven Development]] (2), [[Agile Development|Agile]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Continuous Integration (CI)|Continuous integration]] (2), [[Test-Driven Development]] (2), [[Agile Development|Agile]] (1), [[Software Development]] (1)
 > **Code Identifiers:** ebay (1), selectteacher (1), purchaselesson (1), attendlesson (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -2053,8 +2034,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,9 +2052,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=26)** Read the WikiWikiWeb entries about Extreme Programming.
 >
-> **[0:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=29)** The XP Wiki pages include entries from Kent Beck, from Ron Jeffries, and other Agile-ators who helped create and spread the ideas of extreme programming.
+> **[0:29](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=29)** The XP Wiki pages include entries from Kent Beck, from Ron Jeffries, and other [[Agile Development|Agile]]-ators who helped create and spread the ideas of extreme programming.
 >
-> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=38)** Take these other [[Agile Software Development]] courses on LinkedIn Learning, my course on refactoring, which covers both refactoring and TDD, Lynn Langit's courses on pair programming and mod programming, and continuous delivery, and Scott Ford's course on code quality.
+> **[0:38](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=38)** Take these other [[[[Agile Software Development]]]] courses on [[LinkedIn]] Learning, my course on refactoring, which covers both refactoring and TDD, Lynn Langit's courses on pair programming and mod programming, and [[Continuous Delivery (CD)|continuous delivery]], and Scott Ford's course on code quality.
 >
 > **[0:52](https://www.linkedin.com/learning/agile-software-development-extreme-programming/next-steps?u=76281980&t=52)** And visit my website to subscribe to my newsletter and stay informed about XP and other great practices, or to ask me for help any time.
 >
@@ -2082,7 +2062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Programming]] (7), next (1), [[Agile Development|Agile]] (1), [[Agile Software Development]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1), [[Agile Software Development]] (1), [[LinkedIn]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1)
 > **Env Vars:** tdd (2)
 > **Speakers:** - now (1)
 

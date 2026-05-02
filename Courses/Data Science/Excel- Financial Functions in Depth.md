@@ -109,18 +109,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Perform financial analysis in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
+#### [Perform financial analysis in Excel](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=0)** - [Instructor] Excel for Microsoft 365 is evolving all the time, and there are now over 500 different functions in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=0)** - [Instructor] [[Microsoft Excel|Excel]] for [[Microsoft 365]] is evolving all the time, and there are now over 500 different functions in Excel.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=9)** One of the best things that you can do for your career in finance is to improve your Excel skills and keep them up to date.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=17)** In this course, we'll cover the most important need-to-know functions and look at examples of how to apply them in the real world.
 >
-> **[0:25](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=25)** I'm Danielle Stein Fairhurst, an author and a financial modeling specialist.
+> **[0:25](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=25)** I'm Danielle Stein Fairhurst, an author and a [[Financial Modeling]] specialist.
 >
 > **[0:31](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/perform-financial-analysis-in-excel?u=76281980&t=31)** Excel is my world, what I live and breathe.
 >
@@ -128,19 +127,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), career (2), [[Microsoft 365]] (1), [[Financial Modeling]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft 365]] (1), [[Financial Modeling]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started on our deep dive into the financial functions available in Excel, I'd like to give a quick overview of some things that you should know to get the most out of this course.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=0)** - [Instructor] Before we get started on our deep dive into the financial functions available in [[Microsoft Excel|Excel]], I'd like to give a quick overview of some things that you should know to get the most out of this course.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=12)** The first thing I'll note is that you should have a basic knowledge of Excel, such as creating and saving files, but also creating formulas and using formula references.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=24)** Now, we'll be using Excel for Microsoft 365, and there are a couple of features that we cover that are only available in this version.
+> **[0:24](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=24)** Now, we'll be using Excel for [[Microsoft 365]], and there are a couple of features that we cover that are only available in this version.
 >
 > **[0:33](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/what-you-should-know?u=76281980&t=33)** However, where possible, I'll give you some alternative solutions if you're using a different version of Excel.
 >
@@ -160,12 +158,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft 365]] (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Disclaimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/disclaimer?u=76281980)
+#### [Disclaimer](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/disclaimer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -177,7 +174,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/disclaimer?u=76281980&t=21)** This course should not be considered a substitute for consultation with a licensed financial advisor.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/disclaimer?u=76281980&t=29)** So if you would like financial planning or investment advice, please consult your certified financial planner.
+> **[0:29](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/disclaimer?u=76281980&t=29)** So if you would like [[Financial Planning]] or investment advice, please consult your certified financial planner.
 
 > [!info]- Semantic Content
 >
@@ -189,16 +186,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PMT: Calculate a loan payment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
+#### [PMT: Calculate a loan payment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=0)** - [Instructor] The first function that we're going to talk about is the PMT function, and that will calculate a loan repayment for you.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=9)** It is a fundamental function that you need to know for forecasting loan repayments, for debt calculations, for cash flows, and all other sorts of financial calculations that you need.
+> **[0:09](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=9)** It is a fundamental function that you need to know for [[Forecasting]] loan repayments, for debt calculations, for cash flows, and all other sorts of financial calculations that you need.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=23)** Now, the PMT is one of my favorites because it can be quite complicated to work this out manually, but Excel does a fantastic job of calculating it for you.
+> **[0:23](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=23)** Now, the PMT is one of my favorites because it can be quite complicated to work this out manually, but [[Microsoft Excel|Excel]] does a fantastic job of calculating it for you.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pmt-calculate-a-loan-payment?u=76281980&t=35)** So we're going to go ahead and type in equals PMT open bracket, and you can just go straight ahead and put in all of your inputs there.
 >
@@ -288,24 +284,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Forecasting]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Forecasting]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** pmt (7)
 > **UI Navigation:** go to (3)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### PPMT and IPMT: Calculate the principal and interest payments
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980)
+#### [PPMT and IPMT: Calculate the principal and interest payments](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=0)** - [Instructor] The total loan repayment that we calculated using the PMT function includes the principal and the interest.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=8)** However, we often need to split the loan repayment into its separate components, and we often need to do this when we're creating financial statements.
+> **[0:08](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=8)** However, we often need to split the loan repayment into its separate components, and we often need to do this when we're creating [[Financial Statements]].
 >
 > **[0:20](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=20)** So we would need to show the interest amount on the income statement and the principal amount on the balance sheet.
 >
-> **[0:30](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=30)** Again, Excel can help us do this with the IPMT and the PPMT functions.
+> **[0:30](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=30)** Again, [[Microsoft Excel|Excel]] can help us do this with the IPMT and the PPMT functions.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ppmt-and-ipmt-calculate-the-principal-and-interest-payments?u=76281980&t=38)** The total repayment will always be the same, but the amount of each of the interest and principal components is going to change over time.
 >
@@ -357,15 +352,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Statements]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Financial Statements]] (1)
 > **Env Vars:** pmt (3), ipmt (3), ppmt (3)
 > **Cross-References:** in the next (1)
 > **Analogies:** similar to (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Splitting interest and principal payments
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments?u=76281980)
+#### [Splitting interest and principal payments](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -427,7 +421,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (1)
 > **Env Vars:** pmt (2), ipmt (1), sum (1)
 > **Non-Speech:** (typing loudly) (3)
 > **CLI Commands:** make (2)
@@ -436,12 +429,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [speaker] (1)
 
-#### Splitting interest and principal payments with dynamic arrays
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments-with-dynamic-arrays?u=76281980)
+#### [Splitting interest and principal payments with dynamic arrays](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments-with-dynamic-arrays?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments-with-dynamic-arrays?u=76281980&t=0)** - [Instructor] If you're using one of the later versions of Excel, then you'll have access to the fabulous dynamic array functions.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments-with-dynamic-arrays?u=76281980&t=0)** - [Instructor] If you're using one of the later versions of [[Microsoft Excel|Excel]], then you'll have access to the fabulous dynamic array functions.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/splitting-interest-and-principal-payments-with-dynamic-arrays?u=76281980&t=8)** So, we are going to do exactly the same exercise, except we'll do it with dynamic arrays, which will spill automatically across the range.
 >
@@ -499,8 +491,7 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### CUMPRINC and CUMIPMT: Cumulative principal and interest
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/cumprinc-and-cumipmt-cumulative-principal-and-interest?u=76281980)
+#### [CUMPRINC and CUMIPMT: Cumulative principal and interest](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/cumprinc-and-cumipmt-cumulative-principal-and-interest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -546,7 +537,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Definitions:** is an  (1), is a  (1), stands for (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -555,8 +545,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard typing) (1)
 
-#### EFFECT and NOMINAL: Nominal and effective interest rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980)
+#### [EFFECT and NOMINAL: Nominal and effective interest rates](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -564,7 +553,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980&t=11)** But sometimes it's expressed as an effective interest rate, the APY or annual percentage yield.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980&t=19)** You need to be able to convert one to the other, and Excel can help us to do that.
+> **[0:19](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980&t=19)** You need to be able to convert one to the other, and [[Microsoft Excel|Excel]] can help us to do that.
 >
 > **[0:26](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/effect-and-nominal-nominal-and-effective-interest-rates?u=76281980&t=26)** But first, let's have a look at the difference between the nominal and effective rates.
 >
@@ -609,8 +598,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### RATE: Discover the interest rate of an annuity
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980)
+#### [RATE: Discover the interest rate of an annuity](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -636,7 +624,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980&t=67)** We are going to assume it's paid at the end of the period.
 >
-> **[1:10](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980&t=70)** Now this guess is in certain situations there could be a couple of different values for the rate, and that is just giving Excel a guess to say that the amount is closest to 10%.
+> **[1:10](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980&t=70)** Now this guess is in certain situations there could be a couple of different values for the rate, and that is just giving [[Microsoft Excel|Excel]] a guess to say that the amount is closest to 10%.
 >
 > **[1:23](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rate-discover-the-interest-rate-of-an-annuity?u=76281980&t=83)** In fact, if you leave this cell blank, it will automatically default to 10%.
 >
@@ -654,12 +642,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### NPER: Calculate the number of periods in an investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/nper-calculate-the-number-of-periods-in-an-investment?u=76281980)
+#### [NPER: Calculate the number of periods in an investment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/nper-calculate-the-number-of-periods-in-an-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,14 +703,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### SLN: Depreciation using the straight-line method
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
+#### [SLN: Depreciation using the straight-line method](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980&t=0)** - [Instructor] Some of the more complex financial calculations that you might come across are to do with depreciation.
 >
-> **[0:07](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980&t=7)** Fortunately for us, Excel has several functions that can make these calculations a little bit easier.
+> **[0:07](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980&t=7)** Fortunately for us, [[Microsoft Excel|Excel]] has several functions that can make these calculations a little bit easier.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/sln-depreciation-using-the-straight-line-method?u=76281980&t=14)** So these are the ones that we are going to cover in this chapter, and these certainly do make life a little bit easier, but even though we have these Excel functions to work it out for us, we still need to understand a little bit behind how these calculations work and why we need to do this.
 >
@@ -769,8 +755,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### DB: Calculate depreciation using the declining balance method
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980)
+#### [DB: Calculate depreciation using the declining balance method](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +771,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980&t=55)** If you take more depreciation at the beginning of an asset's life, then that money is worth more in effective dollars.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980&t=64)** Let's take a look now at how to calculate fixed declining balance depreciation in Excel, and we're going to do that using the DB function.
+> **[1:04](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980&t=64)** Let's take a look now at how to calculate fixed declining balance depreciation in [[Microsoft Excel|Excel]], and we're going to do that using the DB function.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/db-calculate-depreciation-using-the-declining-balance-method?u=76281980&t=74)** So we've got the initial cost of the asset, the salvage value, and our economic life is eight.
 >
@@ -828,8 +813,7 @@ created: 2026-05-02
 > **Definitions:** is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### DDB: Depreciation using the double-declining balance method
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980)
+#### [DDB: Depreciation using the double-declining balance method](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -847,7 +831,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980&t=48)** So if I wanted to spill down using the dynamic array functionality, I just need to put the hash at the end and that will automatically copy it down.
 >
-> **[0:58](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980&t=58)** Now, as I said earlier, this will only work if you're using Excel for Microsoft 365.
+> **[0:58](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980&t=58)** Now, as I said earlier, this will only work if you're using [[Microsoft Excel|Excel]] for [[Microsoft 365]].
 >
 > **[1:04](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/ddb-depreciation-using-the-double-declining-balance-method?u=76281980&t=64)** If you are not using 365, then you can calculate the period manually instead of using the sequence function.
 >
@@ -876,14 +860,13 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### SYD: Calculate depreciation for a specified period
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980)
+#### [SYD: Calculate depreciation for a specified period](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980&t=0)** - [Instructor] Another depreciation function that you might need to use is the SYD function, which calculates the sum-of-the-years' digits depreciation method.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980&t=11)** Let's have a look at how to calculate this in Excel.
+> **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980&t=11)** Let's have a look at how to calculate this in [[Microsoft Excel|Excel]].
 >
 > **[0:15](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/syd-calculate-depreciation-for-a-specified-period?u=76281980&t=15)** So we'll pick up SYD, the cost, the salvage, the life, and the period.
 >
@@ -909,8 +892,7 @@ created: 2026-05-02
 > **Env Vars:** syd (2)
 > **Speakers:** - [instructor] (1)
 
-#### VDB: Declining balance depreciation for a partial period
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/vdb-declining-balance-depreciation-for-a-partial-period?u=76281980)
+#### [VDB: Declining balance depreciation for a partial period](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/vdb-declining-balance-depreciation-for-a-partial-period?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -957,12 +939,11 @@ created: 2026-05-02
 > **Env Vars:** vdb (4)
 > **Speakers:** - [instructor] (1)
 
-#### Comparing depreciation functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/comparing-depreciation-functions?u=76281980)
+#### [Comparing depreciation functions](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/comparing-depreciation-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/comparing-depreciation-functions?u=76281980&t=0)** - [Instructor] Now that we've had a good look at how to calculate each of the various types of depreciation methods using their Excel functions, let's do an example where we compare each of them side by side.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/comparing-depreciation-functions?u=76281980&t=0)** - [Instructor] Now that we've had a good look at how to calculate each of the various types of depreciation methods using their [[Microsoft Excel|Excel]] functions, let's do an example where we compare each of them side by side.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/comparing-depreciation-functions?u=76281980&t=13)** When we look at the depreciation amounts visually over time, which you might have noticed that I like to do, we can see that the straight-line method looks like this.
 >
@@ -1044,12 +1025,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### FV: Future value of an investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
+#### [FV: Future value of an investment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980&t=0)** - [Instructor] Out of the hundreds of different functions now available in Excel, there are several of them which will help us to calculate rates of return and to evaluate different investments, costs and opportunities that might be available to us.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980&t=0)** - [Instructor] Out of the hundreds of different functions now available in [[Microsoft Excel|Excel]], there are several of them which will help us to calculate rates of return and to evaluate different investments, costs and opportunities that might be available to us.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fv-future-value-of-an-investment?u=76281980&t=18)** This series of functions and techniques are what we will cover in this chapter.
 >
@@ -1102,8 +1082,7 @@ created: 2026-05-02
 > **Env Vars:** pmt (1)
 > **Speakers:** - [instructor] (1)
 
-#### FVSCHEDULE: Future value with variable returns
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fvschedule-future-value-with-variable-returns?u=76281980)
+#### [FVSCHEDULE: Future value with variable returns](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fvschedule-future-value-with-variable-returns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1125,8 +1104,7 @@ created: 2026-05-02
 > **Env Vars:** fvschedule (1)
 > **Speakers:** - [instructor] (1)
 
-#### Escalating with compounding interest or growth rates
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/escalating-with-compounding-interest-or-growth-rates?u=76281980)
+#### [Escalating with compounding interest or growth rates](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/escalating-with-compounding-interest-or-growth-rates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1154,13 +1132,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3)
 > **CLI Commands:** make (2)
 > **Cross-References:** we discussed (1), previous video (1)
 > **Speakers:** - [instructor] (1)
 
-#### PV: Present value of an investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pv-present-value-of-an-investment?u=76281980)
+#### [PV: Present value of an investment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/pv-present-value-of-an-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1177,8 +1153,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### NPV: Net present value of an investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/npv-net-present-value-of-an-investment?u=76281980)
+#### [NPV: Net present value of an investment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/npv-net-present-value-of-an-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1263,8 +1238,7 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Analogies:** for example (1)
 
-#### XNPV: Net present value given irregular inputs
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/xnpv-net-present-value-given-irregular-inputs?u=76281980)
+#### [XNPV: Net present value given irregular inputs](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/xnpv-net-present-value-given-irregular-inputs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1299,8 +1273,7 @@ created: 2026-05-02
 > **Env Vars:** npv (4), xnpv (2)
 > **Speakers:** - [instructor] (1)
 
-#### IRR: Internal rate of return
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980)
+#### [IRR: Internal rate of return](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1314,7 +1287,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980&t=36)** And it is also asking us for a guess, and that is similar to what we did back in chapter 1 when we had to calculate the RATE function.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980&t=47)** What that is basically doing is, if there are multiple solutions for the IRR function, Excel can potentially give us multiple solutions for that calculation, and the guess is just telling us what is the one that we want it to be the closest to.
+> **[0:47](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980&t=47)** What that is basically doing is, if there are multiple solutions for the IRR function, [[Microsoft Excel|Excel]] can potentially give us multiple solutions for that calculation, and the guess is just telling us what is the one that we want it to be the closest to.
 >
 > **[1:07](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/irr-internal-rate-of-return?u=76281980&t=67)** Most of the time, we want it to be closest to 10%.
 >
@@ -1326,13 +1299,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** irr (3), rate (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### XIRR: Internal rate of return for irregular cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/xirr-internal-rate-of-return-for-irregular-cash-flows?u=76281980)
+#### [XIRR: Internal rate of return for irregular cash flows](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/xirr-internal-rate-of-return-for-irregular-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1361,8 +1333,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### MIRR: Internal rate of return for mixed cash flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/mirr-internal-rate-of-return-for-mixed-cash-flows?u=76281980)
+#### [MIRR: Internal rate of return for mixed cash flows](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/mirr-internal-rate-of-return-for-mixed-cash-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1384,8 +1355,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (keyboard clicking) (1)
 
-#### RRI: The interest rate for the growth of an investment
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rri-the-interest-rate-for-the-growth-of-an-investment?u=76281980)
+#### [RRI: The interest rate for the growth of an investment](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/rri-the-interest-rate-for-the-growth-of-an-investment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1418,18 +1388,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### STOCKHISTORY: Get historical stock prices
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
+#### [STOCKHISTORY: Get historical stock prices](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=0)** - [Instructor] In chapter two, we made good use of the SEQUENCE function, which is a type of dynamic array function in Excel for Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=0)** - [Instructor] In chapter two, we made good use of the SEQUENCE function, which is a type of dynamic array function in [[Microsoft Excel|Excel]] for [[Microsoft 365]].
 >
 > **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=11)** We're going to take a look now at another type of dynamic array function that is extremely useful for those working in finance.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=21)** It's called the STOCKHISTORY function, and it will pull up the stock prices and other information and bring it directly here into the spreadsheet.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=32)** So let's say, for example, we wanted to look at Microsoft here.
+> **[0:32](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=32)** So let's say, for example, we wanted to look at [[Microsoft]] here.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=40)** And let's say we just need to put in some dates, so let's start with the TODAY function.
 >
@@ -1491,7 +1460,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=196)** So I can go in and change one of the inputs.
 >
-> **[3:21](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=201)** I could change it to Google, for example.
+> **[3:21](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=201)** I could change it to [[Google]], for example.
 >
 > **[3:25](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-get-historical-stock-prices?u=76281980&t=205)** And it will give me all of the Google information.
 >
@@ -1499,14 +1468,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft]] (2), [[Google]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft 365]] (1)
 > **Env Vars:** stockhistory (2), today (2), sequence (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Live stock prices with Stocks data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980)
+#### [Live stock prices with Stocks data types](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1534,7 +1502,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980&t=62)** That will do the same thing.
 >
-> **[1:05](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980&t=65)** So if I click on each of those and go into the card, you can see that Excel is giving us all of this information about the stock.
+> **[1:05](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980&t=65)** So if I click on each of those and go into the card, you can see that [[Microsoft Excel|Excel]] is giving us all of this information about the stock.
 >
 > **[1:16](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/live-stock-prices-with-stocks-data-types?u=76281980&t=76)** It gets it from various sources, but it refreshes, it will update.
 >
@@ -1582,13 +1550,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate exchange rates with the Currency data type
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980)
+#### [Calculate exchange rates with the Currency data type](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1602,7 +1569,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=34)** And if I go into here and you can see there's a bit of a disclaimer there, you can get rid of that if you like, or it's just a good reminder, and go in convert to currency.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=46)** So you can see there that that has converted these currency pairs to the currencies data type in Excel, which means that we can go in and extract the rate automatically.
+> **[0:46](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=46)** So you can see there that that has converted these currency pairs to the currencies data type in [[Microsoft Excel|Excel]], which means that we can go in and extract the rate automatically.
 >
 > **[1:01](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=61)** Now that is going to update every time I refresh, but you can change the refresh settings here, and let me do it for all of them.
 >
@@ -1610,7 +1577,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=83)** If you have it on Automatic, it can slow things down somewhat.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=91)** Let's go into Google and check that rate.
+> **[1:31](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=91)** Let's go into [[Google]] and check that rate.
 >
 > **[1:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=94)** So if I go in and say aud=usd and see what we come up with, we can see that it's picking it up from Bing and it is indeed today's rate.
 >
@@ -1646,22 +1613,21 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=220)** So if I wanted to calculate tax, and it does automatically put in some formatting there, so I can just change that like that.
 >
-> **[3:54](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=234)** So that is using currencies data types in Excel for Microsoft 365.
+> **[3:54](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-exchange-rates-with-currencies-data-types?u=76281980&t=234)** So that is using currencies data types in Excel for [[Microsoft 365]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2), [[Google]] (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Google]] (1), [[Microsoft 365]] (1)
 > **CLI Commands:** find (1), make (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### FIELDVALUE: Get field data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fieldvalue-get-field-data?u=76281980)
+#### [FIELDVALUE: Get field data](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fieldvalue-get-field-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fieldvalue-get-field-data?u=76281980&t=0)** - [Narrator] Coming back now to traditional finance functions in Excel, we're going to have a look at the field value function that we can use to extract information from stocks or currency data when we've used the data types.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fieldvalue-get-field-data?u=76281980&t=0)** - [Narrator] Coming back now to traditional finance functions in [[Microsoft Excel|Excel]], we're going to have a look at the field value function that we can use to extract information from stocks or currency data when we've used the data types.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/fieldvalue-get-field-data?u=76281980&t=19)** So let's say for example, you've got a list of stocks like this, and if I convert this into a data type, we know that I can pull out information here such as the ticker symbol, for example.
 >
@@ -1709,12 +1675,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Analogies:** for example (4), such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### STOCKHISTORY with data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-with-data-types?u=76281980)
+#### [STOCKHISTORY with data types](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/stockhistory-with-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1762,12 +1727,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), feature (1)
 > **Analogies:** for example (2)
 > **Speakers:** - [instructor] (1)
 
-#### Charting STOCKHISTORY with data types
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/charting-stockhistory-with-data-types?u=76281980)
+#### [Charting STOCKHISTORY with data types](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/charting-stockhistory-with-data-types?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1865,7 +1828,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), next (1)
 > **Env Vars:** stockhistory (3), edate (2), fieldvalue (2), today (1), usd (1)
 > **UI Navigation:** go to (2), right-click (1), select the (1)
 > **CLI Commands:** make (1)
@@ -1874,8 +1836,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduction to LAMBDA functions with BYCOL and BYROW
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/introduction-to-lambda-functions-with-bycol-and-byrow?u=76281980)
+#### [Introduction to LAMBDA functions with BYCOL and BYROW](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/introduction-to-lambda-functions-with-bycol-and-byrow?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1937,8 +1898,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Using BYCOL with multiple ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-a-bycol-with-multiple-ranges?u=76281980)
+#### [Using BYCOL with multiple ranges](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-a-bycol-with-multiple-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1966,8 +1926,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Applying formatting to dynamic ranges
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980)
+#### [Applying formatting to dynamic ranges](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1977,7 +1936,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980&t=24)** But before we do, we are going to just restrict the number of years that the user can enter into this cell.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980&t=34)** We are going to use data validation to do that.
+> **[0:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980&t=34)** We are going to use [[Data Validation]] to do that.
 >
 > **[0:38](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/applying-formatting-to-dynamic-ranges?u=76281980&t=38)** So we'll go into data validation and we'll allow a whole number that is less than or equal to 10.
 >
@@ -1995,11 +1954,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
+> **Frameworks & Libraries:** [[Data Validation]] (2)
 > **Speakers:** - [instructor] (1)
 
-#### Building a cumulative sum with SCAN
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/building-a-cumulative-sum-with-scan?u=76281980)
+#### [Building a cumulative sum with SCAN](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/building-a-cumulative-sum-with-scan?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2047,8 +2005,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### TODAY, EOMONTH, EDATE, and timing flags
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
+#### [TODAY, EOMONTH, EDATE, and timing flags](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2066,9 +2023,9 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=90)** So I can make this formula dynamic by adding the month.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=94)** Now this is a sequence, it's simply 1, 2, 3, and I have added some custom formatting to add the word month.
+> **[1:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=94)** Now this is a sequence, it's simply 1, 2, 3, and I have added some custom formatting to add the [[Microsoft Word|word]] month.
 >
-> **[1:44](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=104)** But as far as Excel calculations are concerned, it is simply a sequence 1, 2, 3, just like we've done previously.
+> **[1:44](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=104)** But as far as [[Microsoft Excel|Excel]] calculations are concerned, it is simply a sequence 1, 2, 3, just like we've done previously.
 >
 > **[1:53](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/eomonth-edate-and-timing-flags?u=76281980&t=113)** So what I'm going to do here is replace that one with the sequence hash.
 >
@@ -2113,12 +2070,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculate pro-rata rental costs with date functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-pro-data-rental-costs-with-date-functions?u=76281980)
+#### [Calculate pro-rata rental costs with date functions](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-pro-data-rental-costs-with-date-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-pro-data-rental-costs-with-date-functions?u=76281980&t=0)** - [Instructor] Something that we often have to do in finance is to calculate pro rata costs, and date functions in Excel can help you to do this.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-pro-data-rental-costs-with-date-functions?u=76281980&t=0)** - [Instructor] Something that we often have to do in finance is to calculate pro rata costs, and date functions in [[Microsoft Excel|Excel]] can help you to do this.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculate-pro-data-rental-costs-with-date-functions?u=76281980&t=11)** Let's say, for example, you needed to calculate the final month's lease fee at the end of a tenancy.
 >
@@ -2172,13 +2128,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** eomonth (2), sln (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### IF: Building logical comparisons
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/if-building-logical-comparisons?u=76281980)
+#### [IF: Building logical comparisons](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/if-building-logical-comparisons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2246,14 +2201,13 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calculating the payback period
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980)
+#### [Calculating the payback period](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=0)** - [Instructor] When you are evaluating a financial opportunity, there are three generally accepted measures of project evaluation, the NPV, the IRR, and the payback period.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=13)** Now the NPV and IRR are fairly straightforward to calculate, as there are dedicated Excel functions, but there isn't one for payback, and so we need to figure out a way to calculate it manually.
+> **[0:13](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=13)** Now the NPV and IRR are fairly straightforward to calculate, as there are dedicated [[Microsoft Excel|Excel]] functions, but there isn't one for payback, and so we need to figure out a way to calculate it manually.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=28)** So what the payback is telling us is how long it takes before the cashflow becomes positive.
 >
@@ -2275,7 +2229,7 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=139)** Either I could do a close match VLOOKUP, or I'm going to just do a little IF statement down here that's going to show us really, really clearly the point at which it becomes positive.
 >
-> **[2:32](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=152)** So I'll say, if that cell there is greater than or equal to zero, I want to see the word, payback, otherwise zero.
+> **[2:32](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=152)** So I'll say, if that cell there is greater than or equal to zero, I want to see the [[Microsoft Word|word]], payback, otherwise zero.
 >
 > **[2:42](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calculating-the-payback-period?u=76281980&t=162)** There we go.
 >
@@ -2299,13 +2253,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Microsoft Word|Word]] (2)
 > **Env Vars:** npv (2), irr (2), scan (1), vlookup (1), lookup (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using RATE or RRI for compound annual growth rate (CAGR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980)
+#### [Using RATE or RRI for compound annual growth rate (CAGR)](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2329,7 +2282,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980&t=69)** So, that's one way of doing it.
 >
-> **[1:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980&t=71)** Or there are a couple of Excel functions that we can use to calculate it.
+> **[1:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980&t=71)** Or there are a couple of [[Microsoft Excel|Excel]] functions that we can use to calculate it.
 >
 > **[1:17](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-rate-or-rri-for-compound-annual-growth-rate-cagr?u=76281980&t=77)** We've got the Rate function, which we covered in Chapter 1 or the RRI that we did in Chapter 3.
 >
@@ -2403,7 +2356,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (2), [[Microsoft Excel|Excel]] (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** rri (2)
 > **Versions:** 16.57 (1), 7.77 (1)
@@ -2412,8 +2365,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a debt schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980)
+#### [Creating a debt schedule](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2423,7 +2375,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=20)** And this can get pretty detailed.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=22)** So in a financial model, we'd normally have an entire page dedicated to calculating interest and principle, which then becomes a debt schedule that links through to the financial statements.
+> **[0:22](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=22)** So in a financial model, we'd normally have an entire page dedicated to calculating interest and principle, which then becomes a debt schedule that links through to the [[Financial Statements]].
 >
 > **[0:37](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=37)** As we discussed in chapter one, If we calculate the total loan repayment using the PMT function, this includes both interest and principle.
 >
@@ -2441,7 +2393,7 @@ created: 2026-05-02
 >
 > **[1:38](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=98)** A lot of financial statements require this kind of calculation, especially on the cashflow statement and balance sheet, where the closing amount needs to roll forward to become the opening balance for the following period.
 >
-> **[1:54](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=114)** Let's jump into Excel now and create our debt schedule.
+> **[1:54](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=114)** Let's jump into [[Microsoft Excel|Excel]] now and create our debt schedule.
 >
 > **[2:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-debt-schedule?u=76281980&t=120)** So here we have it.
 >
@@ -2497,12 +2449,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Using SLN and IF to calculate depreciation
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-sln-and-if-to-calculate-depreciation?u=76281980)
+#### [Using SLN and IF to calculate depreciation](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-sln-and-if-to-calculate-depreciation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-sln-and-if-to-calculate-depreciation?u=76281980&t=0)** - [Instructor] Another type of schedule that you might need to include in a financial model or if you're building financial statements is a depreciation schedule.
+> **[0:00](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-sln-and-if-to-calculate-depreciation?u=76281980&t=0)** - [Instructor] Another type of schedule that you might need to include in a financial model or if you're building [[Financial Statements]] is a depreciation schedule.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-sln-and-if-to-calculate-depreciation?u=76281980&t=11)** In this movie, we are going to calculate monthly depreciation, which will give us a little bit more practice using the SLN functions, logical functions, as well as working with cell referencing and dynamic arrays.
 >
@@ -2566,7 +2517,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Statements]] (1), next (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Env Vars:** sln (5), eomonthmin (1), bycol (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** go to (3)
@@ -2575,8 +2526,7 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a depreciation schedule
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-depreciation-schedule?u=76281980)
+#### [Creating a depreciation schedule](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/creating-a-depreciation-schedule?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2689,8 +2639,7 @@ created: 2026-05-02
 > **Analogies:** for example (1), similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using dynamic arrays to create a depreciation waterfall
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-dynamic-arrays-to-create-a-depreciation-waterfall?u=76281980)
+#### [Using dynamic arrays to create a depreciation waterfall](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-dynamic-arrays-to-create-a-depreciation-waterfall?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2824,7 +2773,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1)
 > **UI Navigation:** go to (3)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** sln (1), slm (1)
@@ -2833,8 +2781,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Calcuating weighted average cost of capital (WACC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980)
+#### [Calcuating weighted average cost of capital (WACC)](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2860,13 +2807,13 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=75)** So a high beta is greater than one is more considered to be more volatile than the general market, whereas a lower beta indicates that it's more stable.
 >
-> **[1:26](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=86)** So let's jump into Excel now and look at how to calculate the WACC using the beta and CAPM.
+> **[1:26](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=86)** So let's jump into [[Microsoft Excel|Excel]] now and look at how to calculate the WACC using the beta and CAPM.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=96)** So there's not actually any particular Excel functions that we need to use to calculate the WACC, but of course we can work it all out in Excel.
 >
 > **[1:44](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=104)** So remember in chapter four, we talked about data types and we were able to pick up a company's beta values.
 >
-> **[1:51](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=111)** So if I were to look at, say, Microsoft, and if I just convert that to a stock data type and let's pick up that one there.
+> **[1:51](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=111)** So if I were to look at, say, [[Microsoft]], and if I just convert that to a stock data type and let's pick up that one there.
 >
 > **[2:03](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/calcuating-weighted-average-cost-of-capital-wacc?u=76281980&t=123)** Yep, that's right.
 >
@@ -2946,7 +2893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft]] (1)
 > **Env Vars:** wacc (6), capm (5), npv (4)
 > **Versions:** 12.9 (2), 10.4 (2), 8.89 (2), 0.96 (1), 0.9 (1)
 > **Definitions:** known as (2), is a  (1), means that (1)
@@ -2955,8 +2902,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using NPV to calculate a discounted cash flow (DCF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980)
+#### [Using NPV to calculate a discounted cash flow (DCF)](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2978,7 +2924,7 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980&t=79)** So once our cash flows become stable, usually after about seven years, we can then calculate our terminal value, and we use a formula, we use this formula to calculate that.
 >
-> **[1:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980&t=94)** So we're going to jump back into Excel now and do a very simple example that comes from Chapter 11 of my book, the second edition of "Financial Modeling in Excel for Dummies."
+> **[1:34](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980&t=94)** So we're going to jump back into [[Microsoft Excel|Excel]] now and do a very simple example that comes from Chapter 11 of my book, the second edition of "[[Financial Modeling]] in Excel for Dummies."
 >
 > **[1:47](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/using-npv-to-calculate-a-discounted-cash-flow-dcf?u=76281980&t=107)** So first of all, we'll calculate the WACC.
 >
@@ -3038,8 +2984,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Great resources for learning Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)
+#### [Great resources for learning Excel](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3049,15 +2994,15 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=7)** There are two books I've written that you might find useful.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=11)** The third edition of "Using Excel for Business and Financial Modeling" is part of the Wiley Finance series, and I've also written "Financial Modeling in Excel for Dummies."
+> **[0:11](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=11)** The third edition of "Using [[Microsoft Excel|Excel]] for Business and [[Financial Modeling]]" is part of the Wiley Finance series, and I've also written "Financial Modeling in Excel for Dummies."
 >
 > **[0:22](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=22)** Many of the tools and functions we've covered in this course are included as well as a lot more.
 >
-> **[0:29](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=29)** There are many, many more courses that you can take on LinkedIn Learning relating to Excel and finance.
+> **[0:29](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=29)** There are many, many more courses that you can take on [[LinkedIn]] Learning relating to Excel and finance.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=37)** I have another course on Excel and PowerPoint, creating high impact financial presentations, and be sure to watch out for financial modeling with dynamic arrays, as well as Excel, reducing errors in financial models.
+> **[0:37](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=37)** I have another course on Excel and [[Microsoft PowerPoint|PowerPoint]], creating high impact financial presentations, and be sure to watch out for financial modeling with dynamic arrays, as well as Excel, reducing errors in financial models.
 >
-> **[0:56](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=56)** As a Microsoft MVP, I'm always sharing content about Excel and financial modeling, so be sure to follow me on LinkedIn.
+> **[0:56](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=56)** As a [[Microsoft]] MVP, I'm always sharing content about Excel and financial modeling, so be sure to follow me on LinkedIn.
 >
 > **[1:05](https://www.linkedin.com/learning/excel-financial-functions-in-depth-27987886/great-resources-for-learning-excel?u=76281980&t=65)** I also run a popular group on LinkedIn called Financial Modeling in Excel, where people are often sharing content you'll find useful.
 >
@@ -3069,7 +3014,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Financial Modeling]] (5), [[LinkedIn]] (3), business (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Financial Modeling]] (5), [[LinkedIn]] (3), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** mvp (1)
 > **Warnings:** watch out (1)

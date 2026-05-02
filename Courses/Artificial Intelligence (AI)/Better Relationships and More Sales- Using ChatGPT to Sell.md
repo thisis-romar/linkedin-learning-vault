@@ -79,8 +79,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### AI and the art of strong sales relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
+#### [AI and the art of strong sales relationships](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -90,13 +89,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=18)** I'll provide you with a tactical plan to leverage AI by creating deeper, more meaningful connections with your customers, from the first touchpoint to contract renewal.
 >
-> **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=30)** I'm Jake Dunlap, the author of "Innovative Seller," co-host of the "AI Unleashed" series on LinkedIn, and CEO of Skaled Consulting.
+> **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=30)** I'm Jake Dunlap, the author of "Innovative Seller," co-host of the "AI Unleashed" series on [[LinkedIn]], and CEO of Skaled Consulting.
 >
 > **[0:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/ai-and-the-art-of-strong-sales-relationships?u=76281980&t=38)** Join me in transforming your sales approach with GenAI strategies that will help you get started on this journey.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - in (1)
 
@@ -105,8 +104,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Identify what matters to buyers when building trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
+#### [Identify what matters to buyers when building trust](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -120,7 +118,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=32)** First, let's take a look at expertise in the buyer's role.
 >
-> **[0:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=37)** A LinkedIn study found that 44% of buyers said that a sales team, "Not understanding my company and its needs," was a top three reason why the salesperson lost their business.
+> **[0:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=37)** A [[LinkedIn]] study found that 44% of buyers said that a sales team, "Not understanding my company and its needs," was a top three reason why the salesperson lost their business.
 >
 > **[0:49](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=49)** This underscores the importance of deeply understanding your buyers' role, getting to know their challenges, their daily tasks, and what solutions can genuinely make a difference in their lives.
 >
@@ -162,33 +160,32 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=166)** By focusing on these key areas, expertise in your buyer's role industry, knowledge, transparency, consistency and reliability, you can build a foundation of trust that transforms your strategy from transactional to transformational.
 >
-> **[3:03](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=183)** Remember, building trust takes time and effort, but the payoff is immeasurable.
+> **[3:03](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=183)** Remember, [[Building Trust]] takes time and effort, but the payoff is immeasurable.
 >
 > **[3:09](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=189)** You're not just closing a sale, you're opening a relationship that can thrive for years to come.
 >
-> **[3:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=195)** And over the next few chapters, I'm going to break down how ChatGPT and tools like it can help us with these various elements throughout the process.
+> **[3:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=195)** And over the next few chapters, I'm going to break down how [[ChatGPT]] and tools like it can help us with these various elements throughout the process.
 >
 > **[3:25](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/identify-what-matters-to-buyers-when-building-trust?u=76281980&t=205)** The goal isn't to find cool or interesting ways to simulate trust, but, in fact, find new ways to build it at scale.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (4), next (2), [[LinkedIn]] (1), business (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Building Trust]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (3)
 > **Speakers:** - an (1)
 
-#### Basics of ChatGPT for sales teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980)
+#### [Basics of ChatGPT for sales teams](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=0)** - In this video, we will explore ChatGPT basics, what sets it apart from other AI technologies, the perks of its paid version, and how its newest features, especially memory, are game changers for sales professionals.
+> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=0)** - In this video, we will explore [[ChatGPT]] basics, what sets it apart from other AI technologies, the perks of its paid version, and how its newest features, especially memory, are game changers for sales professionals.
 >
 > **[0:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=15)** As we dive into how it can help us build trust and relationships, it'll be critical to understand what is and isn't possible so you can expand on your use cases.
 >
 > **[0:26](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=26)** Let's start with ChatGPT Basics and its specific advantages.
 >
-> **[0:31](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=31)** Unlike traditional AI, ChatGPT excels in understanding and generating human-like text, making it ideal for sales tasks requiring deep conversational nuances.
+> **[0:31](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=31)** Unlike [[Traditional AI]], ChatGPT excels in understanding and generating human-like text, making it ideal for sales tasks requiring deep conversational nuances.
 >
 > **[0:43](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=43)** Its ability to adapt, learn, and seamlessly integrate into existing systems sets it apart, offering a flexibility unmatched by other AI models.
 >
@@ -198,19 +195,19 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=64)** Many of the examples I'm going to show will require the paid version, ChatGPT Plus.
 >
-> **[1:09](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=69)** It has faster responses, access to the Internet, custom instructions, custom GPTs, and advanced features that make it far superior to the free version.
+> **[1:09](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=69)** It has faster responses, access to the Internet, custom instructions, [[Custom GPTs]], and advanced features that make it far superior to the free version.
 >
 > **[1:21](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=81)** Next up are two key important features that I'd like to highlight: custom instructions and custom GPTs.
 >
 > **[1:29](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=89)** With custom instructions, you can tailor ChatGPT's responses to match your brand's tone and specific sales strategies.
 >
-> **[1:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=97)** You can upload your products, sales playbook, and many other nuances of your sales process, so every thread knows the same information across each chat.
+> **[1:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=97)** You can upload your [[Microsoft Products|products]], sales playbook, and many other nuances of your sales process, so every thread knows the same information across each chat.
 >
 > **[1:48](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=108)** To take it a step further, custom GPTs create models that understand your business deeply, offering customized bots for specific use cases.
 >
 > **[1:58](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=118)** ChatGPT now has a growing library of custom GPTs, so you can search for almost any use case you can imagine before you build your own.
 >
-> **[2:08](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=128)** As we go forward, you will see how integrating ChatGPT into your sales strategy isn't just about automation, it's about augmentation.
+> **[2:08](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=128)** As we go forward, you will see how integrating ChatGPT into your [[Sales Strategy]] isn't just about automation, it's about augmentation.
 >
 > **[2:17](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/basics-of-chatgpt-for-sales-teams?u=76281980&t=137)** It's about using AI to enhance the human elements at the heart of sales, which creates connection, understanding, and personalization.
 >
@@ -220,21 +217,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (9), ai (4), [[Custom GPTs]] (4), next (2), game (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (9), [[Custom GPTs]] (4), [[Traditional AI]] (1), [[Microsoft Products|Products]] (1), [[Sales Strategy]] (1)
 > **CLI Commands:** make (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - in (1)
 
-#### Leverage ChatGPT to build sales relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980)
+#### [Leverage ChatGPT to build sales relationships](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=0)** - There are infinite ways to use generative AI to better yourself as a seller or leader, but I'm going to cover six approaches specifically that I found consistently generate great results for the goal of this course.
+> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=0)** - There are infinite ways to use [[Generative AI]] to better yourself as a seller or leader, but I'm going to cover six approaches specifically that I found consistently generate great results for the goal of this course.
 >
 > **[0:14](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=14)** Let's jump into them. One is role playing.
 >
-> **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=18)** You can use ChatGPT to simulate sales conversations, providing your team with a dynamic environment to hone their sales skills and improve response strategies in real time.
+> **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=18)** You can use [[ChatGPT]] to simulate sales conversations, providing your team with a dynamic environment to hone their sales skills and improve response strategies in real time.
 >
 > **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=30)** It can simulate interactions and scenarios, plus, the more insights you give it, the better a partner it is.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=59)** We can use this prompt strategy to have ChatGPT gather insights on prospects, companies, and market trends.
 >
-> **[1:08](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=68)** As we've discussed, this type of information can really be the cornerstone of building trust and relationships.
+> **[1:08](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=68)** As we've discussed, this type of information can really be the cornerstone of [[Building Trust]] and relationships.
 >
 > **[1:16](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=76)** Fourth is probably one of my favorites, skills trainer and trivia game builder.
 >
@@ -258,7 +254,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=111)** Finally, and this is one of the more common use cases for ChatGPT, we have brainstorming.
 >
-> **[1:57](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=117)** We can leverage gen AI for brainstorming sessions, generating many ideas for sales strategy, outbound campaigns, or dealing with tough situations, and it can swiftly evaluate options to help you come up with the best one.
+> **[1:57](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=117)** We can leverage gen AI for brainstorming sessions, generating many ideas for [[Sales Strategy]], outbound campaigns, or dealing with tough situations, and it can swiftly evaluate options to help you come up with the best one.
 >
 > **[2:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/leverage-chatgpt-to-build-sales-relationships?u=76281980&t=132)** By mastering these six types of prompts, ChatGPT becomes more than a tool.
 >
@@ -266,7 +262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), prompt (2), [[Building Trust]] (1), game (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Generative AI]] (2), [[Building Trust]] (1), [[Sales Strategy]] (1)
 > **Analogies:** similar to (1), imagine (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - there (1)
@@ -276,14 +272,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Avoid pitfalls when using ChatGPT to build relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
+#### [Avoid pitfalls when using ChatGPT to build relationships](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980&t=0)** - In our journey to better integrate AI like ChatGPT into our sales strategies, it's crucial to navigate this world carefully.
+> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980&t=0)** - In our journey to better integrate AI like [[ChatGPT]] into our sales strategies, it's crucial to navigate this world carefully.
 >
-> **[0:10](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980&t=10)** Missteps can hinder rather than help in building trust and relationships with customers.
+> **[0:10](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980&t=10)** Missteps can hinder rather than help in [[Building Trust]] and relationships with customers.
 >
 > **[0:16](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/avoid-pitfalls-when-using-chatgpt-to-build-relationships?u=76281980&t=16)** Let's explore common pitfalls to avoid.
 >
@@ -331,13 +326,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), ai (4), teams (2), [[Building Trust]] (1), generic (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (8), [[Building Trust]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 > **Speakers:** - in (1)
 
-#### Turn content into connections: Use AI to create conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980)
+#### [Turn content into connections: Use AI to create conversations](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -349,9 +343,9 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=20)** The secret lies in personalization, relevance, and timing, elements that AI excels at.
 >
-> **[0:27](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=27)** With generative AI, imagine having a brainstorming partner that's available 24/7, ready to generate creative, personalized conversation starters based on in-depth analysis of your target market.
+> **[0:27](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=27)** With [[Generative AI]], imagine having a brainstorming partner that's available 24/7, ready to generate creative, personalized conversation starters based on in-depth analysis of your target market.
 >
-> **[0:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=40)** That's exactly what AI tools, specifically tools like ChatGPT, can offer.
+> **[0:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=40)** That's exactly what AI tools, specifically tools like [[ChatGPT]], can offer.
 >
 > **[0:46](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/turn-content-into-connections-use-ai-to-create-conversations?u=76281980&t=46)** Our approach uses robust AI prompts to generate messages that resonate.
 >
@@ -397,14 +391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), prompt (4), [[Generative AI]] (1), [[ChatGPT]] (1), data (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[ChatGPT]] (1)
 > **Env Vars:** b2b (3), roi (1)
 > **Analogies:** imagine (1), for instance (1), such as (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - today (1)
 
-#### Get up-to-speed on industry trends to build trust
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980)
+#### [Get up-to-speed on industry trends to build trust](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -428,7 +421,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=47)** Staying on top of industry trends could be boring, but what if we could create a game that teaches us trends and always keeps us up to speed on new industry changes?
 >
-> **[1:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=60)** You'll need to make sure you're using the paid version of ChatGPT, and here is how we play.
+> **[1:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=60)** You'll need to make sure you're using the paid version of [[ChatGPT]], and here is how we play.
 >
 > **[1:06](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=66)** Let's create a trivia game right now.
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=100)** Our prompt might look like this.
 >
-> **[1:42](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=102)** "Create a 10-question trivia game that highlights a significant FinTech trend impacting consumer banking in 2024."
+> **[1:42](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=102)** "Create a 10-question trivia game that highlights a significant FinTech trend impacting consumer [[Banking]] in 2024."
 >
 > **[1:52](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/get-up-to-speed-on-industry-trends-to-build-trust?u=76281980&t=112)** ChatGPT can tell you the answer, give you more context, and give you more questions to continue to build knowledge.
 >
@@ -468,19 +461,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** game (5), [[ChatGPT]] (3), ai (2), product (1), prompt (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Banking]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** b2b (1)
 > **Analogies:** imagine (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - staying (1)
 
-#### Decode preferred communication styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980)
+#### [Decode preferred communication styles](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=0)** - When it comes to building trust and stronger relationships, understanding and adapting to your client's preferred communication style is not just an advantage, it's a necessity for those who want to be top performers.
+> **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=0)** - When it comes to [[Building Trust]] and stronger relationships, understanding and adapting to your client's preferred communication style is not just an advantage, it's a necessity for those who want to be top performers.
 >
 > **[0:14](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=14)** Imagine the impact of every sales pitch, email or call being precisely aligned with your client's preferred communication style.
 >
@@ -498,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=85)** Consider a prompt such as: "Generate a scenario where I need to present [insert a link to your Product] to, [insert job title], who values direct communication and clear ROI."
 >
-> **[1:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=100)** You would then copy and paste in their LinkedIn profile About section, maybe some posts that they've done on social media, and any other public facing articles.
+> **[1:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=100)** You would then copy and paste in their [[LinkedIn]] profile About section, maybe some posts that they've done on social media, and any other public facing articles.
 >
 > **[1:51](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=111)** This pushes AI to create simulations that prepare you to have real-world interactions.
 >
@@ -506,11 +498,11 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=128)** Another prompt to spark some inspiration could be in high stake situations where you're dealing with a client in the financial sector known for their analytical and data-driven approach to decisions.
 >
-> **[2:21](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=141)** A great prompt here might be something like: "Create a role-playing exercise to discuss the integration of a new AI-driven financial analysis tool."
+> **[2:21](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=141)** A great prompt here might be something like: "Create a role-playing exercise to discuss the integration of a new AI-driven [[Financial Analysis]] tool."
 >
-> **[2:32](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=152)** You can insert a link to your product here when you're using the paid version of ChatGPT.
+> **[2:32](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=152)** You can insert a link to your product here when you're using the paid version of [[ChatGPT]].
 >
-> **[2:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=157)** "Focus on data security, cost-savings, and efficiency improvements."
+> **[2:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=157)** "Focus on [[Data Security]], cost-savings, and efficiency improvements."
 >
 > **[2:42](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/decode-preferred-communication-styles?u=76281980&t=162)** Through role-playing and through the use of AI, you'll receive a scenario complete with potential objections and data points, allowing you to rehearse and refine your pitch to meet the client's exacting standards.
 >
@@ -520,7 +512,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), data (4), prompt (3), product (2), [[Building Trust]] (1)
+> **Frameworks & Libraries:** [[Building Trust]] (1), [[LinkedIn]] (1), [[Financial Analysis]] (1), [[ChatGPT]] (1), [[Data Security]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **Env Vars:** roi (1)
 > **Speakers:** - when (1)
@@ -530,8 +522,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Engaging in technical and HR-focused conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
+#### [Engaging in technical and HR-focused conversations](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -565,7 +556,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=127)** This will help you to stay up to speed on trends for the future.
 >
-> **[2:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=132)** For HR-focused dialogues, consider a scenario planning prompt like, outline a comprehensive scenario for ahead of human resources, who has to navigate the challenges of remote workforce integration, strategies for maintaining company culture and employee engagement.
+> **[2:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=132)** For HR-focused dialogues, consider a scenario planning prompt like, outline a comprehensive scenario for ahead of [[Human Resources (HR)|human resources]], who has to navigate the challenges of remote workforce integration, strategies for maintaining company culture and employee engagement.
 >
 > **[2:29](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=149)** Based on all of these factors, what might make them less likely to buy product, insert a link to your product.
 >
@@ -575,7 +566,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=173)** HR has a ton on their plate, and every seller needs to know where they stand in that priority list.
 >
-> **[2:59](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=179)** This is something that ChatGPT can keep us up to speed on.
+> **[2:59](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=179)** This is something that [[ChatGPT]] can keep us up to speed on.
 >
 > **[3:04](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-technical-and-hr-focused-conversations?u=76281980&t=184)** These conversations aren't just about making a sale, they're about building lasting partnerships, based on trust and mutual respect.
 >
@@ -583,22 +574,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hr (9), prompt (5), ai (4), product (3), next (2)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (1), [[ChatGPT]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - i (1)
 
-#### Engaging in ROI and finance conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980)
+#### [Engaging in ROI and finance conversations](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=0)** - Today, the ability to engage in ROI and finance conversations with precision and insight cannot only set you apart, but it's absolutely critical to closing deals.
 >
-> **[0:11](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=11)** Let's explore a few different ways that we might be able to use generative AI to demonstrate ROI and finance lingo that will build trust and relationships in later-stage conversations or with more finance-minded buyers.
+> **[0:11](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=11)** Let's explore a few different ways that we might be able to use [[Generative AI]] to demonstrate ROI and finance lingo that will build trust and relationships in later-stage conversations or with more finance-minded buyers.
 >
-> **[0:27](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=27)** Imagine using AI to create not just any scenario, but one that consistently breaks down complex financial data into easily actionable insights.
+> **[0:27](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=27)** Imagine using AI to create not just any scenario, but one that consistently breaks down complex [[Financial Data]] into easily actionable insights.
 >
 > **[0:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=38)** For instance, a prompt might read, "I want to analyze," insert company's, "Annual report, which I've attached the last two years here.
 >
@@ -608,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=86)** Moving beyond surface-level insights, consider prompts that leverage AI's ability to sift through global financial reports, industry analyses, and proprietary data.
 >
-> **[1:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=98)** A sophisticated prompt example could be, "Analyze the financial impact of digital transformation initiatives within," insert sector.
+> **[1:38](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=98)** A sophisticated prompt example could be, "Analyze the financial impact of [[Digital Transformation]] initiatives within," insert sector.
 >
 > **[1:48](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=108)** "Identify key ROI drivers and compare those against the potential revenue-generating benchmarks achieved by early adopters of our solution," link to your product.
 >
@@ -620,7 +610,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=147)** With these advanced AI-generated insights, you're equipped to initiate conversations that resonate deeply with ROI-minded executives.
 >
-> **[2:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=157)** Use this knowledge to craft questions and statements that demonstrate your understanding and strategic thinking.
+> **[2:37](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=157)** Use this knowledge to craft questions and statements that demonstrate your understanding and [[Strategic Thinking]].
 >
 > **[2:44](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-roi-and-finance-conversations?u=76281980&t=164)** Imagine a salesperson is able to ask a question like this from your strategic analysis.
 >
@@ -642,13 +632,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (5), product (2), data (2), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1), [[Financial Data]] (1), [[Digital Transformation]] (1), [[Strategic Thinking]] (1)
 > **Env Vars:** roi (6)
 > **Analogies:** imagine (2), for instance (1)
 > **Speakers:** - today (1)
 
-#### Engaging in sales and marketing conversations
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980)
+#### [Engaging in sales and marketing conversations](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -664,7 +653,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=32)** Marketing leaders are the most inundated group in an organization, often getting hit up from every angle with the best new service or product that's going to help them generate more leads or grow their brand.
 >
-> **[0:46](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=46)** Generative AI offers a unique avenue to not only capture their attention, but also foster deeper connections and trust with both of these groups.
+> **[0:46](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=46)** [[Generative AI]] offers a unique avenue to not only capture their attention, but also foster deeper connections and trust with both of these groups.
 >
 > **[0:57](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=57)** Sales and marketing leaders live in a world of constant noise, inundated with pitches and promises.
 >
@@ -674,9 +663,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=78)** So let's dive in to two great ways to earn their trust and build relationships.
 >
-> **[1:24](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=84)** Begin by leveraging ChatGPT for insights that matter with a prompt like, "Generate a report on emerging trends in", insert industry, "that will impact sales and marketing strategies "in that industry over the next year.
+> **[1:24](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=84)** Begin by leveraging [[ChatGPT]] for insights that matter with a prompt like, "Generate a report on emerging trends in", insert industry, "that will impact sales and marketing strategies "in that industry over the next year.
 >
-> **[1:42](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=102)** "Here is a link to this company's blog, "and I copied and pasted in "their last 10 LinkedIn posts as well.
+> **[1:42](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=102)** "Here is a link to this company's blog, "and I copied and pasted in "their last 10 [[LinkedIn]] posts as well.
 >
 > **[1:50](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/engaging-in-sales-and-marketing-conversations?u=76281980&t=110)** "Take the emerging trends plus what they are discussing "and then compare that to what we do at," insert link.
 >
@@ -700,15 +689,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), [[ChatGPT]] (2), prompt (2), next (2), hit (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - imagine (1)
 
-#### Navigating conversations across teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980)
+#### [Navigating conversations across teams](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -716,7 +704,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=10)** Whether it's departments with differing priorities or teams focused on distinct objectives, finding common ground or helping each group see individually how you can help is key.
 >
-> **[0:23](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=23)** Let's explore how ChatGPT can be a catalyst for building trust and facilitating collaboration amongst diverse groups.
+> **[0:23](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=23)** Let's explore how [[ChatGPT]] can be a catalyst for [[Building Trust]] and facilitating collaboration amongst diverse groups.
 >
 > **[0:32](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=32)** The challenge lies in bridging the gap between groups that may not see eye to eye or understand each other's value.
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=50)** I've tried a lot of varying prompt approaches for how to play out these scenarios, and here are a few of my favorites.
 >
-> **[0:59](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=59)** Imagine leveraging ChatGPT with a prompt like create a scenario for a product development team and marketing team to identify and align on how they can use my product.
+> **[0:59](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=59)** Imagine leveraging ChatGPT with a prompt like create a scenario for a [[Product Development]] team and marketing team to identify and align on how they can use my product.
 >
 > **[1:11](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/navigating-conversations-across-teams?u=76281980&t=71)** Insert link.
 >
@@ -748,7 +736,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), [[ChatGPT]] (3), teams (2), [[Building Trust]] (2), [[Product Development]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Building Trust]] (2), [[Product Development]] (1)
 > **Analogies:** imagine (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
@@ -760,8 +748,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Learn your new clients' business in minutes
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
+#### [Learn your new clients' business in minutes](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -775,7 +762,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980&t=30)** Imagine having a tool that could instantly bring you up to speed on your client's latest achievements, industry trends affecting their business, and even the competitive landscape they're navigating.
 >
-> **[0:43](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980&t=43)** ChatGPT is that tool.
+> **[0:43](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980&t=43)** [[ChatGPT]] is that tool.
 >
 > **[0:46](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/learn-your-new-clients-business-in-minutes?u=76281980&t=46)** We've talked about getting up to speed on an industry in someone's business in previous chapters, so how can we combine these concepts for current customers?
 >
@@ -807,15 +794,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[ChatGPT]] (2), prompt (2), product (2), career (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - there (1)
 
-#### Build your account plans to cultivate new relationships
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980)
+#### [Build your account plans to cultivate new relationships](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -825,11 +811,11 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=15)** Static account plans just don't work.
 >
-> **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=18)** In the dynamic world of people leaving jobs and the economy going up and down, the ability to adapt and evolve your strategy in real-time is necessary.
+> **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=18)** In the dynamic world of people leaving jobs and the economy going up and down, the ability to adapt and evolve your strategy in [[Real-Time]] is necessary.
 >
-> **[0:29](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=29)** This is where generative AI can infuse your account planning with insights, foresights, and personalization that's unique to nearly any situation.
+> **[0:29](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=29)** This is where [[Generative AI]] can infuse your account planning with insights, foresights, and personalization that's unique to nearly any situation.
 >
-> **[0:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=40)** With ChatGPT and tools like it, you can transform your account plans into strategic roadmaps that are dynamic and specific to each account.
+> **[0:40](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=40)** With [[ChatGPT]] and tools like it, you can transform your account plans into strategic roadmaps that are dynamic and specific to each account.
 >
 > **[0:51](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=51)** Imagine being able to predict industry trends that will affect your client in the next quarter.
 >
@@ -837,7 +823,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=69)** That is super helpful in account reviews.
 >
-> **[1:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=72)** You could then add: "And based on our products they have purchased, insert link, how could I position other offerings to other departments such as, insert new department."
+> **[1:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=72)** You could then add: "And based on our [[Microsoft Products|products]] they have purchased, insert link, how could I position other offerings to other departments such as, insert new department."
 >
 > **[1:24](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/build-your-account-plans-to-cultivate-new-relationships?u=76281980&t=84)** Use these insights to adjust your account plans, ensuring they align with future market dynamics, and it will also help you to look for upsell opportunities simultaneously.
 >
@@ -863,23 +849,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), next (3), [[Generative AI]] (2), business (2), [[Real-Time]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Generative AI]] (2), [[Real-Time]] (1), [[Microsoft Products|Products]] (1)
 > **Cross-References:** in the next (2)
 > **Analogies:** imagine (1), such as (1)
 > **Speakers:** - have (1)
 
-#### Grow your business through needs-based upselling
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980)
+#### [Grow your business through needs-based upselling](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=0)** - Think back to a moment when you saw a perfect opportunity to add value to your client's business through an upsell maybe, but you were unsure how to present it without coming across as just another salesperson trying to hit their number.
 >
-> **[0:14](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=14)** The art of upselling in B2B isn't about pushing products.
+> **[0:14](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=14)** The art of upselling in B2B isn't about pushing [[Microsoft Products|products]].
 >
 > **[0:19](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=19)** It's about uncovering and fulfilling deeper client needs, and many times, across departments.
 >
-> **[0:26](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=26)** Enter the transformative potential of generative AI.
+> **[0:26](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=26)** Enter the transformative potential of [[Generative AI]].
 >
 > **[0:30](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=30)** Picture a tool that sifts through client feedback, support interactions, and industry trends pinpointing exactly where your services or products can add real measurable value to your client.
 >
@@ -889,7 +874,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=51)** The journey of strategic upselling begins with understanding not just your product, but your client's evolving challenges and priorities.
 >
-> **[1:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=60)** Start by using ChatGPT to dive deep into your client's world with a prompt like, analyze customer interactions over the last six months to identify common pain points for company name.
+> **[1:00](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=60)** Start by using [[ChatGPT]] to dive deep into your client's world with a prompt like, analyze customer interactions over the last six months to identify common pain points for company name.
 >
 > **[1:14](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/grow-your-business-through-needs-based-upselling?u=76281980&t=74)** This not only helps you identify where your products or services can solve real problems, but also positions you as a partner invested in their success.
 >
@@ -915,7 +900,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[ChatGPT]] (3), prompt (3), product (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[ChatGPT]] (3), [[Generative AI]] (1)
 > **Analogies:** picture (1), for example (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is an  (1)
@@ -926,8 +911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tying it all together and what's up next!
-> [LinkedIn Learning](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)
+#### [Tying it all together and what's up next!](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -935,7 +919,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=9)** Let's recap some of the big takeaways.
 >
-> **[0:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=12)** Recognizing the power of ChatGPT also means navigating its challenges.
+> **[0:12](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=12)** Recognizing the power of [[ChatGPT]] also means navigating its challenges.
 >
 > **[0:18](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=18)** We discussed how to avoid common pitfalls, ensuring that AI enhances rather than detracts from the human element that is so critical to sales.
 >
@@ -945,7 +929,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=35)** Next, the power of content in building connections is magnified through AI.
 >
-> **[0:41](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=41)** It demonstrates how generative AI can transform static content into dynamic, engaging conversations tailored to each stage of the buyer's journey.
+> **[0:41](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=41)** It demonstrates how [[Generative AI]] can transform static content into dynamic, engaging conversations tailored to each stage of the buyer's journey.
 >
 > **[0:52](https://www.linkedin.com/learning/better-relationships-and-more-sales-using-chatgpt-to-sell/tying-it-all-together-and-what-s-up-next?u=76281980&t=52)** I hope one of your biggest takeaways from this course is ChatGPT's ability to get you up to speed on industry trends and decode preferred communication styles, so that way we can tailor conversations for maximum impact.
 >
@@ -967,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (4), power (3), [[ChatGPT]] (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[ChatGPT]] (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** roi (1)
 > **Cross-References:** we discussed (1)

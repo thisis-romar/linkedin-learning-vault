@@ -87,12 +87,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advance your skills with JavaScript
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
+#### [Advance your skills with JavaScript](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980&t=0)** - Learning JavaScript, you rarely get time to really dig in and get your hands dirty with the more complex aspects of the language, until now.
+> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980&t=0)** - Learning [[JavaScript]], you rarely get time to really dig in and get your hands dirty with the more complex aspects of the language, until now.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advance-your-skills-with-javascript?u=76281980&t=9)** This course is a hybrid, mixing learning, hands-on practice, and interactive coding challenges.
 >
@@ -110,14 +109,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - learning (1)
 
-#### How this course works
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980)
+#### [How this course works](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=0)** - [Instructor] This course is part learning and part doing.
 >
-> **[0:03](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=3)** Each chapter covers an advanced JavaScript topic, starting with a real world coding problem.
+> **[0:03](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=3)** Each chapter covers an advanced [[JavaScript]] topic, starting with a real world coding problem.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=8)** Next, providing examples and background on how to address this type of problem and finally presenting you with two coding challenges.
 >
@@ -125,9 +123,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=22)** To facilitate all of this I'm providing lots of learning materials for you.
 >
-> **[0:26](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=26)** For the learning part, there's a GitHub repository with all the code examples.
+> **[0:26](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=26)** For the learning part, there's a [[GitHub]] repository with all the code examples.
 >
-> **[0:31](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=31)** You can work with them in GitHub Codespaces by going to the repository, clicking the code button, selecting Codespaces, and creating a new Codespace.
+> **[0:31](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=31)** You can work with them in GitHub [[Codespaces]] by going to the repository, clicking the code button, selecting Codespaces, and creating a new Codespace.
 >
 > **[0:39](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=39)** This gives you an editor in the browser in the cloud that you can work with or you can clone this repository to your computer and work with the files locally in your preferred IDE.
 >
@@ -155,7 +153,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=120)** These challenges are hosted by CoderPad and they appear in the same area of the course page as when you watch the videos of the course.
 >
-> **[2:08](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=128)** I recommend using a desktop browser for the best experience with coding challenges but you can use the LinkedIn Learning mobile app if you prefer.
+> **[2:08](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=128)** I recommend using a desktop browser for the best experience with coding challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[2:15](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/how-this-course-works?u=76281980&t=135)** The code Challenge has four areas.
 >
@@ -183,7 +181,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[JavaScript]] (2), next (2), cloud (1)
+> **Frameworks & Libraries:** [[GitHub]] (3), [[Codespaces]] (3), [[JavaScript]] (2), [[LinkedIn]] (1)
 > **Tools:** github (3)
 > **UI Navigation:** click on (3)
 > **CLI Commands:** node (1)
@@ -197,8 +195,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing nested comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
+#### [Managing nested comments](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-nested-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -224,13 +221,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - a (1)
 
-#### Using a data map to turn flat arrays into trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-a-data-map-to-turn-flat-arrays-into-trees?u=76281980)
+#### [Using a data map to turn flat arrays into trees](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-a-data-map-to-turn-flat-arrays-into-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -336,7 +331,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), cd (1), node (1)
 > **Code Identifiers:** datamap (8), foreach (2)
 > **CLI Commands:** find (1), cd (1), node (1)
 > **File Paths:** script.js (1)
@@ -344,9 +338,9 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Best Practices:** the key is (1)
 > **Prerequisites:** set up (1)
+> **Speakers:** - [instructor] (1)
 
-#### Creating a recursive function to generate a nested array
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980)
+#### [Creating a recursive function to generate a nested array](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -358,7 +352,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980&t=21)** Otherwise, if it has a parent of anything else, then find a parent.
 >
-> **[0:24](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980&t=24)** Then change the HTML output to match that this is now a child instead of a parent, and then output the content inside the child, and then go back out again unless there's another child.
+> **[0:24](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980&t=24)** Then change the [[HTML]] output to match that this is now a child instead of a parent, and then output the content inside the child, and then go back out again unless there's another child.
 >
 > **[0:34](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-recursive-function-to-generate-a-nested-array?u=76281980&t=34)** In which case, you see how this gets really convoluted?
 >
@@ -478,15 +472,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[HTML]] (2), next (1), data (1), node (1)
+> **Frameworks & Libraries:** [[HTML]] (2)
 > **CLI Commands:** find (2), make (2), node (1)
 > **Prerequisites:** set up (4), make sure you have (1)
 > **Env Vars:** html (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Make a nested array
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-make-a-nested-array?u=76281980)
+#### [Solution: Make a nested array](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-make-a-nested-array?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -544,15 +537,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), next (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Advanced solution: Add nested comments
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980)
+#### [Advanced solution: Add nested comments](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -572,9 +563,9 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=42)** So that means comments here, in generatednestedlist, is the restructured, multidimensional array we'll be working with.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=49)** The document is the document object model we'll be working with.
+> **[0:49](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=49)** The document is the [[Document Object Model (DOM)|document object model]] we'll be working with.
 >
-> **[0:53](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=53)** The real challenge here is to output the correct HTML structure for a multidimensional array.
+> **[0:53](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=53)** The real challenge here is to output the correct [[HTML]] structure for a multidimensional array.
 >
 > **[0:59](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-add-nested-comments?u=76281980&t=59)** And that's because when you put out an unordered list that may have other unordered lists inside, it has to follow this very specific structure, where you have the ul, then you have an li, that may have a sub menu with the text that goes inside.
 >
@@ -653,12 +644,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing users and capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
+#### [Managing users and capabilities](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980&t=0)** - Using classes in JavaScript, you can create and extend advanced data types, and the result is code that is easier to understand and maintain.
+> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980&t=0)** - Using classes in [[JavaScript]], you can create and extend advanced data types, and the result is code that is easier to understand and maintain.
 >
 > **[0:08](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-users-and-capabilities?u=76281980&t=8)** A good example of when this type of data structure is useful is a management system where a bunch of similar items with unique properties are cataloged and different users have different levels of access and capabilities.
 >
@@ -682,15 +672,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[JavaScript]] (1), management (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - using (1)
 
-#### Creating a class with capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-class-with-capabilities?u=76281980)
+#### [Creating a class with capabilities](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/creating-a-class-with-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -796,7 +785,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (1), next (1)
 > **Code Identifiers:** getdescription (3), mycar (1), mybike (1)
 > **Prerequisites:** set up (3), setup (1)
 > **File Paths:** script.js (1)
@@ -804,9 +792,9 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **UI Navigation:** go to (1)
 > **Exercise Files:** template (1)
+> **Definitions:** is an  (1)
 
-#### Extending a class with new capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/extending-a-class-with-new-capabilities?u=76281980)
+#### [Extending a class with new capabilities](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/extending-a-class-with-new-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -872,7 +860,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** feature (1), data (1), node (1), next (1)
 > **Code Identifiers:** getdescription (6)
 > **Definitions:** is an  (3)
 > **File Paths:** script.js (1)
@@ -880,8 +867,7 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a library with books
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-library-with-books?u=76281980)
+#### [Solution: Create a library with books](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-library-with-books?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1041,15 +1027,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), data (1)
 > **CLI Commands:** find (5), make (1)
 > **UI Navigation:** scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Advanced Solution: Users managing other users
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-users-managing-other-users?u=76281980)
+#### [Advanced Solution: Users managing other users](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-users-managing-other-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1207,7 +1191,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), management (1)
 > **CLI Commands:** find (11), make (3)
 > **Definitions:** is a  (3)
 > **Prerequisites:** set up (2)
@@ -1220,8 +1203,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building robust applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
+#### [Building robust applications](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/building-robust-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1247,12 +1229,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Analogies:** for example (2)
 > **Speakers:** - sometimes (1)
 
-#### Using singletons to create unique functions
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-singletons-to-create-unique-functions?u=76281980)
+#### [Using singletons to create unique functions](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-singletons-to-create-unique-functions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1338,15 +1318,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (1)
 > **CLI Commands:** make (3), node (1)
 > **UI Navigation:** go to (2)
 > **Tools:** terminal (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using proxy objects to intercept calls to an object or class
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-proxy-objects-to-intercept-calls-to-an-object-or-class?u=76281980)
+#### [Using proxy objects to intercept calls to an object or class](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/using-proxy-objects-to-intercept-calls-to-an-object-or-class?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1490,7 +1468,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), next (1), data (1)
 > **Ports:** :00 (8)
 > **CLI Commands:** make (5)
 > **Prerequisites:** set up (3), setup (1)
@@ -1498,9 +1475,9 @@ created: 2026-05-02
 > **Documentation:** mdn (2)
 > **UI Navigation:** go to (2)
 > **Definitions:** is an  (1), is a  (1)
+> **Cross-References:** go back to (1)
 
-#### Solution: Create a logging system
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-logging-system?u=76281980)
+#### [Solution: Create a logging system](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-logging-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1622,18 +1599,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Cross-References:** earlier in (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (bright music) (1)
 
-#### Advanced solution: Create a data validation system
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980)
+#### [Advanced solution: Create a data validation system](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=0)** - [Instructor] A common use of singletons and proxy objects is for system functionality like data validation.
+> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=0)** - [Instructor] A common use of singletons and proxy objects is for system functionality like [[Data Validation]].
 >
 > **[0:10](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=10)** That's the focus of this challenge.
 >
@@ -1727,7 +1702,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=310)** Now there's a lot going on in this challenge and it's easy to lose track of what code is talking to what function, and how it's all wired together.
 >
-> **[5:18](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=318)** So to help you out, I've added a heavily annotated solution to the solutions folder in the GitHub repository along with a full text explanation of how all of this works.
+> **[5:18](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=318)** So to help you out, I've added a heavily annotated solution to the solutions folder in the [[GitHub]] repository along with a full text explanation of how all of this works.
 >
 > **[5:28](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-data-validation-system?u=76281980&t=328)** Once I have my solution, I'll click test my code to make sure everything is working.
 >
@@ -1737,7 +1712,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[GitHub]] (1)
+> **Frameworks & Libraries:** [[Data Validation]] (1), [[GitHub]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (2), is an  (1)
 > **Ports:** :00 (2)
@@ -1750,8 +1725,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Push info to many nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
+#### [Push info to many nodes](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1763,7 +1737,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980&t=20)** The system observes some component, in this case, the front door, and when its status changes, the subscribed dependence are updated automatically.
 >
-> **[0:29](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980&t=29)** This observer pattern is useful in advanced JavaScript applications and can be set up to manage complex interactions between different parts of the application.
+> **[0:29](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980&t=29)** This observer pattern is useful in advanced [[JavaScript]] applications and can be set up to manage complex interactions between different parts of the application.
 >
 > **[0:38](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/push-info-to-many-nodes?u=76281980&t=38)** Before we dive into this topic, it's worth noting that the basic observer pattern I'm about to show you is just that, basic.
 >
@@ -1775,19 +1749,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2)
 > **Prerequisites:** setup (1), set up (1)
 > **Analogies:** for example (1)
 > **Speakers:** - let (1)
 
-#### Setting up a basic Observer pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980)
+#### [Setting up a basic Observer pattern](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980&t=0)** - [Instructor] The easiest way to make sense of the observer pattern is to see one in action.
 >
-> **[0:04](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980&t=4)** So let's say we have a store that only carries a few products and they rarely have any stock.
+> **[0:04](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980&t=4)** So let's say we have a store that only carries a few [[Microsoft Products|products]] and they rarely have any stock.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/setting-up-a-basic-observer-pattern?u=76281980&t=9)** To get the items from the store, customers can subscribe to the items they want for updates.
 >
@@ -1859,7 +1832,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (11), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** productmessage (4), notifyobservers (4), backinstock (3), registerobserver (1), foreach (1)
 > **Prerequisites:** set up (3)
 > **CLI Commands:** make (2)
@@ -1867,8 +1840,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing observers
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-observers?u=76281980)
+#### [Managing observers](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/managing-observers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,14 +1914,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (1), next (1), data (1), application (1)
 > **CLI Commands:** make (1)
 > **Definitions:** means that (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Temperature display
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-temperature-display?u=76281980)
+#### [Solution: Temperature display](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-temperature-display?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,15 +2041,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), next (1)
 > **CLI Commands:** make (2), find (1)
 > **Prerequisites:** before we start (1), set up (1)
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Advanced solution: Stock information
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-stock-information?u=76281980)
+#### [Advanced solution: Stock information](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-stock-information?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2171,7 +2139,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), generic (2), next (2)
 > **Code Identifiers:** pricedisplay (4), pricethresholdnotifier (2), percentagechangenotifier (2), updateprice (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** set up (3)
@@ -2179,14 +2146,14 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for example (1)
 > **Warnings:** note that (1)
+> **Speakers:** - [instructor] (1)
 
 
 ### 5. Reactive Objects and Factories
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Keeping a shopping cart up to date
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
+#### [Keeping a shopping cart up to date](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2194,11 +2161,11 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=4)** When building a shopping cart system, you need to continuously track and update the items in the user's cart.
 >
-> **[0:10](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=10)** Every time the user adds or removes an item from the cart, the total number of items, the taxes, and the sum total, and the detail list of what products are in the cart should automatically update.
+> **[0:10](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=10)** Every time the user adds or removes an item from the cart, the total number of items, the taxes, and the sum total, and the detail list of what [[Microsoft Products|products]] are in the cart should automatically update.
 >
-> **[0:22](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=22)** To achieve this, we can use what's called a reactive pattern in JavaScript.
+> **[0:22](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=22)** To achieve this, we can use what's called a reactive pattern in [[JavaScript]].
 >
-> **[0:26](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=26)** This is, in reality, an expansion of the observer pattern, and it's a popular way of creating state in JavaScript frameworks, specifically in Vue.js.
+> **[0:26](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=26)** This is, in reality, an expansion of the observer pattern, and it's a popular way of creating state in JavaScript frameworks, specifically in [[Vue.js]].
 >
 > **[0:36](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/keeping-a-shopping-cart-up-to-date?u=76281980&t=36)** Reactive patterns in JavaScript provide a way of efficiently managing and synchronizing multiple parts of an application, effectively letting the software keep track of what's going on within itself at all times.
 >
@@ -2208,17 +2175,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Products|Products]] (1), [[Vue.js]] (1), application (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[Microsoft Products|Products]] (1), [[Vue.js]] (1)
 > **File Paths:** vue.js (1)
 > **Cross-References:** previous chapter (1)
 > **Speakers:** - let (1)
 
-#### The basic Reactive pattern
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/the-basic-reactive-pattern?u=76281980)
+#### [The basic Reactive pattern](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/the-basic-reactive-pattern?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/the-basic-reactive-pattern?u=76281980&t=0)** - [Instructor] The core of a reactive pattern in JavaScript is a standalone ReactiveObject class managing and updating observers or subscribers.
+> **[0:00](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/the-basic-reactive-pattern?u=76281980&t=0)** - [Instructor] The core of a reactive pattern in [[JavaScript]] is a standalone ReactiveObject class managing and updating observers or subscribers.
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/the-basic-reactive-pattern?u=76281980&t=9)** In the previous chapter, we bundled all the observer functionality into the main class.
 >
@@ -2304,7 +2270,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** generic (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[JavaScript]] (1)
 > **Code Identifiers:** alerttemperature (4), settemperature (3), newtemperature (2), updatesubscribers (2), foreach (1)
 > **Env Vars:** warning (2)
 > **Cross-References:** previous chapter (2)
@@ -2313,8 +2279,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Definitions:** is a  (1)
 
-#### Adding advanced functionality
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/adding-advanced-functionality?u=76281980)
+#### [Adding advanced functionality](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/adding-advanced-functionality?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2410,8 +2375,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Create a Reactive shopping cart
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-reactive-shopping-cart?u=76281980)
+#### [Solution: Create a Reactive shopping cart](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/solution-create-a-reactive-shopping-cart?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2499,7 +2463,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), application (1), product (1)
 > **Env Vars:** gst (5), pst (4)
 > **Definitions:** is a  (4)
 > **CLI Commands:** find (1), make (1)
@@ -2507,9 +2470,9 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
+> **Non-Speech:** (bright music) (1)
 
-#### Advanced solution: Create a Reactive object
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-reactive-object?u=76281980)
+#### [Advanced solution: Create a Reactive object](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/advanced-solution-create-a-reactive-object?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2633,7 +2596,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2)
 > **Code Identifiers:** actualfruitingtime (5), sowingdate (4), estimatedfruitingtime (4), updatesubscribers (3), sowplant (2)
 > **CLI Commands:** make (1)
 > **Exercise Files:** boilerplate (1)
@@ -2646,8 +2608,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Wrapping up
-> [LinkedIn Learning](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)
+#### [Wrapping up](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2655,19 +2616,19 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=9)** Even if you didn't solve some or even all of them, I congratulate you on finishing this course because the challenges were not made to be easy.
 >
-> **[0:17](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=17)** They were deliberately designed to challenge you and push you to expand your understanding of JavaScript and what it can do.
+> **[0:17](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=17)** They were deliberately designed to challenge you and push you to expand your understanding of [[JavaScript]] and what it can do.
 >
 > **[0:24](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=24)** Finishing this course, you walk away with new foundational knowledge of five advanced aspects of JavaScript that you can take with you and use in your own projects and practice.
 >
-> **[0:35](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=35)** Now that you're done, I encourage you to go check out the solutions folder in the GitHub repository and explore the standalone solutions to each of these challenges.
+> **[0:35](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=35)** Now that you're done, I encourage you to go check out the solutions folder in the [[GitHub]] repository and explore the standalone solutions to each of these challenges.
 >
 > **[0:44](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=44)** This code is free and open to you to use, expand on and create your own things.
 >
-> **[0:49](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=49)** Now, all that's left for me to say is look ITIL, go forth and build amazing things with your JavaScript skills and I'll see you in the next course.
+> **[0:49](https://www.linkedin.com/learning/javascript-five-advanced-challenges-and-concepts/wrapping-up?u=76281980&t=49)** Now, all that's left for me to say is look [[ITIL]], go forth and build amazing things with your JavaScript skills and I'll see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (1), [[ITIL]] (1), next (1)
+> **Frameworks & Libraries:** [[JavaScript]] (3), [[GitHub]] (1), [[ITIL]] (1)
 > **Env Vars:** itil (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)

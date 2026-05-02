@@ -67,20 +67,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Java lambdas and streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
+#### [Java lambdas and streams](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=0)** - [Bethan] When Java 8 was released back in 2014, the two biggest new features introduced to Java were lambdas and streams.
+> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=0)** - [Bethan] When [[Java]] 8 was released back in 2014, the two biggest new features introduced to Java were lambdas and streams.
 >
-> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=7)** Lambdas and streams have made it much easier to use a really powerful style of programming in Java called functional programming.
+> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=7)** Lambdas and streams have made it much easier to use a really powerful style of programming in Java called [[Functional Programming]].
 >
-> **[0:12](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=12)** Functional programming with lambdas and streams can help you to write powerful code in a concise way, and streams in particular allow you to do complex things with data manipulation.
+> **[0:12](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=12)** Functional programming with lambdas and streams can help you to write powerful code in a concise way, and streams in particular allow you to do complex things with [[Data Manipulation]].
 >
 > **[0:20](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=20)** Lambdas and streams are also very commonly used in Java now, so being able to read and understand this style of coding is a really important part of being a Java developer.
 >
-> **[0:28](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=28)** Most Java developers are more used to object-oriented programming, so learning to use functional style programming can seem like a daunting new skill to learn.
+> **[0:28](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=28)** Most Java developers are more used to [[Object-Oriented Programming (OOP)|object-oriented programming]], so learning to use functional style programming can seem like a daunting new skill to learn.
 >
 > **[0:36](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=36)** It's a very different way of thinking about solving problems and takes some practice and getting used to, but once mastered this style of programming, you'll be able to write more powerful code.
 >
@@ -94,25 +93,24 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=60)** I'm a member of the Java Champions and I've working as a Java developer for the last five years.
 >
-> **[1:04](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=64)** So if you're ready to improve your Java coding skills, then join me in my LinkedIn Learning course on lambdas and streams in Java.
+> **[1:04](https://www.linkedin.com/learning/java-lambdas-and-streams/java-lambdas-and-streams?u=76281980&t=64)** So if you're ready to improve your Java coding skills, then join me in my [[LinkedIn]] Learning course on lambdas and streams in Java.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (10), [[Programming]] (3), [[Functional Programming]] (2), [[Data Manipulation]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (10), [[Functional Programming]] (2), [[Data Manipulation]] (1), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (1), [[LinkedIn]] (1)
 > **Versions:** java 8 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [bethan] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you get started with this course, there are a few things you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=4)** You should already be familiar with the basics of writing code in Java.
+> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=4)** You should already be familiar with the basics of writing code in [[Java]].
 >
-> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=7)** If you're completely new to Java, I'd suggest watching the course "Learning Java" on LinkedIn Learning before starting this one, but if you're comfortable with the basics of writing Java code, it's time to open your favorite IDE.
+> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=7)** If you're completely new to Java, I'd suggest watching the course "Learning Java" on [[LinkedIn]] Learning before starting this one, but if you're comfortable with the basics of writing Java code, it's time to open your favorite IDE.
 >
 > **[0:18](https://www.linkedin.com/learning/java-lambdas-and-streams/what-you-should-know?u=76281980&t=18)** I'll be working in IntelliJ, which has a free Community Edition you can download from [jetbrains.com/idea/download](https://jetbrains.com/idea/download), but you can use whichever you are most comfortable with.
 
@@ -124,16 +122,15 @@ created: 2026-05-02
 > **Tools:** intellij (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980)
+#### [Using the exercise files](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=0)** - [Speaker] The examples and exercise files for this course are stored on GitHub.
+> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=0)** - [Speaker] The examples and exercise files for this course are stored on [[GitHub]].
 >
-> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=4)** To download them, you'll need to have Git installed on your computer.
+> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=4)** To download them, you'll need to have [[Git]] installed on your computer.
 >
-> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=7)** If you don't, you can go to [git-scm.com/downloads](https://git-scm.com/downloads) and you can download different versions for Mac or Windows or for Linux.
+> **[0:07](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=7)** If you don't, you can go to [git-scm.com/downloads](https://git-scm.com/downloads) and you can download different versions for Mac or [[Windows]] or for [[Linux]].
 >
 > **[0:16](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=16)** So there's a branch for every video in this course.
 >
@@ -193,7 +190,7 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=130)** So mine's on my Desktop.
 >
-> **[2:11](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=131)** So I'm going to go to Desktop and then java lambda streams and click Open.
+> **[2:11](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=131)** So I'm going to go to Desktop and then [[Java]] lambda streams and click Open.
 >
 > **[2:18](https://www.linkedin.com/learning/java-lambdas-and-streams/using-the-exercise-files?u=76281980&t=138)** So by default, the code will start on the main branch.
 >
@@ -251,7 +248,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (8), [[Windows]] (3), cd (3), [[GitHub]] (2), next (2)
+> **Frameworks & Libraries:** [[Git]] (8), [[Windows]] (3), [[GitHub]] (2), [[Java]] (2), [[Linux]] (1)
 > **UI Navigation:** click on (11), go to (6), open the (2), dropdown (1), navigate to (1)
 > **Tools:** terminal (4), intellij (4), github (2), command line (1), command prompt (1)
 > **CLI Commands:** git (8), cd (3)
@@ -260,8 +257,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **Prerequisites:** you'll need (1), setup (1)
 
-#### Tour of CoderPad
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980)
+#### [Tour of CoderPad](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -271,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980&t=13)** These challenges are hosted by CoderPad, and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:19](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the LinkedIn Learning mobile app if you'd prefer.
+> **[0:19](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980&t=19)** We recommend using a desktop browser for the best experience with code challenges, but you can use the [[LinkedIn]] Learning mobile app if you'd prefer.
 >
 > **[0:27](https://www.linkedin.com/learning/java-lambdas-and-streams/tour-of-coderpad?u=76281980&t=27)** The code challenge has four areas, instructions in the top left, a code editor for your answer in the top right, another code editor where you see how your code is used in the bottom right, and the console for outputs in the bottom left.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Analogies:** for example (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** next video (1)
@@ -339,14 +335,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is functional programming?
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
+#### [What is functional programming?](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980&t=0)** - [Instructor] To understand lambdas and streams, it's useful to understand first what functional programming is.
+> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980&t=0)** - [Instructor] To understand lambdas and streams, it's useful to understand first what [[Functional Programming]] is.
 >
-> **[0:06](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980&t=6)** You've probably heard Java described as an object-oriented programming language.
+> **[0:06](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980&t=6)** You've probably heard [[Java]] described as an [[Object-Oriented Programming (OOP)|object-oriented programming]] language.
 >
 > **[0:10](https://www.linkedin.com/learning/java-lambdas-and-streams/what-is-functional-programming?u=76281980&t=10)** And if you've done any coding with Java before you'll be familiar with the concepts of classes and objects.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Java]] (7), [[Functional Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3), [[Programming]] (3), functional (1)
+> **Frameworks & Libraries:** [[Java]] (7), [[Functional Programming]] (6), [[Object-Oriented Programming (OOP)|Object-oriented programming]] (3)
 > **Definitions:** is a  (2)
 > **Code Identifiers:** isoddnumber (1)
 > **Versions:** java 8 (1)
@@ -421,12 +416,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Functional interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
+#### [Functional interfaces](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=0)** - [Instructor] Lambdas are a way of using functional programming to write concise and powerful code in Java.
+> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=0)** - [Instructor] Lambdas are a way of using [[Functional Programming]] to write concise and powerful code in [[Java]].
 >
 > **[0:05](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=5)** And the first thing you need to know about using Lambdas is that they implement something called functional interfaces.
 >
@@ -528,7 +522,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=225)** So I'm going to do greeting, and let's call this new one Greeting2, and then I'm going to do equals new greeting.
 >
-> **[3:56](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=236)** And then IntelliJ again has a shortcut which will fill out the rest for me.
+> **[3:56](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=236)** And then IntelliJ again has a shortcut which will fill out the [[Representational State Transfer (REST)|rest]] for me.
 >
 > **[3:59](https://www.linkedin.com/learning/java-lambdas-and-streams/functional-interfaces?u=76281980&t=239)** So I'm going to press Enter, and it adds in the overridden say hello method for me.
 >
@@ -554,7 +548,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (8), [[Java]] (5), next (2), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Java]] (5), [[Functional Programming]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (4)
 > **UI Navigation:** select the (1), click on (1), go to (1)
 > **Env Vars:** sout (1), psvm (1)
@@ -563,8 +557,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Best Practices:** good practice (1)
 
-#### Using lambdas
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980)
+#### [Using lambdas](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -612,7 +605,7 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980&t=106)** So I'm going to create a new interface.
 >
-> **[1:48](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980&t=108)** So I'm going to right click on com.example and go to new Java class and select the interface option.
+> **[1:48](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980&t=108)** So I'm going to right click on com.example and go to new [[Java]] class and select the interface option.
 >
 > **[1:55](https://www.linkedin.com/learning/java-lambdas-and-streams/using-lambdas?u=76281980&t=115)** And I'm going to call this one calculator.
 >
@@ -686,7 +679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (3), next (2), [[Java]] (2)
+> **Frameworks & Libraries:** [[Java]] (2)
 > **UI Navigation:** click on (3), go to (1), select the (1)
 > **Code Identifiers:** randomnumber (2), sayhello (1), nextint (1)
 > **Cross-References:** go back to (1), in the next (1)
@@ -694,14 +687,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using existing interfaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980)
+#### [Using existing interfaces](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980&t=0)** - [Instructor] Most of the time, you actually won't need to write your own functional interfaces.
 >
-> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980&t=4)** Java's already got quite a few implementations of functional interfaces that you can use.
+> **[0:04](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980&t=4)** [[Java]]'s already got quite a few implementations of functional interfaces that you can use.
 >
 > **[0:08](https://www.linkedin.com/learning/java-lambdas-and-streams/using-existing-interfaces?u=76281980&t=8)** In the previous video, I created an interface called Calculator and this has a single method, calculate that takes two ints as inputs and returns an int, but Java's actually already got a ready-made interface that does exactly this.
 >
@@ -745,7 +737,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (4), [[Java]] (4)
+> **Frameworks & Libraries:** [[Java]] (4)
 > **UI Navigation:** click on (2), go to (1)
 > **Definitions:** is called (1), is a  (1), is an  (1)
 > **Cross-References:** previous video (1), go back to (1)
@@ -759,12 +751,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
+#### [Understanding streams](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=0)** - [Instructor] The other big important feature that was introduced in Java 8 was the streams API.
+> **[0:00](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=0)** - [Instructor] The other big important feature that was introduced in [[Java]] 8 was the streams API.
 >
 > **[0:05](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=5)** When you use streams together with lambdas, the streams API allows you to process groups of elements in powerful ways using functional style programming.
 >
@@ -808,7 +799,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=116)** In some of these methods, you'll see that Lambda star notation is used.
 >
-> **[1:59](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=119)** So this is an example of a function being parsed into a method as an argument, which is something that's quite often done in functional programming.
+> **[1:59](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=119)** So this is an example of a function being parsed into a method as an argument, which is something that's quite often done in [[Functional Programming]].
 >
 > **[2:06](https://www.linkedin.com/learning/java-lambdas-and-streams/understanding-streams?u=76281980&t=126)** It's also worth noting that the forEach method has to go at the end here.
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), [[Java]] (3), feature (1), functional (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Java]] (3), [[Functional Programming]] (1)
 > **Code Identifiers:** foreach (5)
 > **Tools:** terminal (5)
 > **Env Vars:** api (4)
@@ -835,8 +826,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 
-#### Using streams
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980)
+#### [Using streams](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -856,7 +846,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=33)** So this one is going to be integer, and I also need to make sure that I'm importing the right class.
 >
-> **[0:39](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=39)** So IntelliJ will do this for me if I click Alt + Enter, and it will import java.util.stream.Stream.
+> **[0:39](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=39)** So IntelliJ will do this for me if I click Alt + Enter, and it will import [[Java]].util.stream.Stream.
 >
 > **[0:47](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=47)** So, I need to give this variable a name.
 >
@@ -928,7 +918,7 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=204)** So, I'm going to have a look at where this forEach method is defined.
 >
-> **[3:27](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=207)** In IntelliJ I can use the keyboard shortcut Command + B on Mac, or Control + B on Windows, and this will take me to the method definition.
+> **[3:27](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=207)** In IntelliJ I can use the keyboard shortcut Command + B on Mac, or Control + B on [[Windows]], and this will take me to the method definition.
 >
 > **[3:35](https://www.linkedin.com/learning/java-lambdas-and-streams/using-streams?u=76281980&t=215)** So I'm going to click on Command + B, and this takes me to the stream class which is part of the JDK, and it takes me to the forEach method.
 >
@@ -966,7 +956,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (2), [[Java]] (1), api (1), next (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Java]] (1), [[Windows]] (1)
 > **Code Identifiers:** shoppinglist (4), foreach (4), shoppingliststream (2), scoresstream (1), lettersstream (1)
 > **Tools:** intellij (3), terminal (1)
 > **UI Navigation:** click on (3)
@@ -975,8 +965,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
 
-#### More streams operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980)
+#### [More streams operations](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1026,7 +1015,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980&t=91)** It's actually important to remember with map that the purpose of this method, it's actually important to remember with map, that the purpose of this method is to create a new object rather than modify an existing one.
 >
-> **[1:41](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980&t=101)** This is something that can seem odd when you're learning functional programming.
+> **[1:41](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980&t=101)** This is something that can seem odd when you're learning [[Functional Programming]].
 >
 > **[1:44](https://www.linkedin.com/learning/java-lambdas-and-streams/more-streams-operations?u=76281980&t=104)** In this case, it seems to work nicely, because that's a upper case method actually returns a new string object.
 >
@@ -1070,7 +1059,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** api (4), functional (2), [[Functional Programming]] (1)
+> **Frameworks & Libraries:** [[Functional Programming]] (1)
 > **Env Vars:** api (4)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1), find (1)
@@ -1079,8 +1068,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [narrator] (1)
 
-#### Advanced streams operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/advanced-streams-operations?u=76281980)
+#### [Advanced streams operations](https://www.linkedin.com/learning/java-lambdas-and-streams/advanced-streams-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1176,7 +1164,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** functional (1)
 > **Code Identifiers:** shoppinglist (3), foreach (3), sortedshoppinglist (2), tolist (1)
 > **CLI Commands:** find (1)
 > **Tools:** terminal (1)
@@ -1187,8 +1174,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with Java
-> [LinkedIn Learning](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)
+#### [Continuing on with Java](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1186,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980&t=10)** The best way to keep learning is to keep practicing, so feel free to add your own tests to the ones in the exercises.
 >
-> **[0:16](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980&t=16)** If you want to keep learning more about Java, check out the many other Java courses in the LinkedIn Learning library.
+> **[0:16](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980&t=16)** If you want to keep learning more about [[Java]], check out the many other Java courses in the [[LinkedIn]] Learning library.
 >
 > **[0:22](https://www.linkedin.com/learning/java-lambdas-and-streams/continuing-on-with-java?u=76281980&t=22)** Good luck with your continued learning.
 

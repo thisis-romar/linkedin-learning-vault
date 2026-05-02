@@ -98,18 +98,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Office 365 administration troubleshooting
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980)
+#### [Office 365 administration troubleshooting](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=0)** - [Sharon] Have you ever been stuck trying to fix something in an Office app and feel there should be an easy answer?
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=0)** - [Sharon] Have you ever been stuck trying to fix something in an [[Microsoft Office|Office]] app and feel there should be an easy answer?
 >
 > **[0:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=6)** Or maybe you are supporting Office 365 users and need some guidance on the most popular troubleshooting steps for the various applications, then this course is for you.
 >
 > **[0:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=17)** Welcome to Office 365 Troubleshooting.
 >
-> **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=19)** I'm Sharon Bennett, I'm a Microsoft-certified solutions expert in cloud, platform, infrastructure and Office 365 and I'll be leading you through this Office 365 course.
+> **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=19)** I'm Sharon Bennett, I'm a [[Microsoft]]-certified solutions expert in cloud, platform, infrastructure and Office 365 and I'll be leading you through this Office 365 course.
 >
 > **[0:29](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/office-365-administration-troubleshooting?u=76281980&t=29)** In this course, we are going to explore various troubleshooting tips to help you resolve some of the most common Office application issues that you or the users that you support may experience when using Office 365.
 >
@@ -117,21 +116,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Troubleshooting]] (4), [[Microsoft]] (1), cloud (1), application (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (8), [[Microsoft]] (1)
 > **Speakers:** - [sharon] (1)
 
-#### What you need to know
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980)
+#### [What you need to know](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=0)** - [Instructor] Before jumping into this course, there are a few things that you should know.
 >
-> **[0:04](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=4)** This course focuses on troubleshooting common Office 365 application issues.
+> **[0:04](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=4)** This course focuses on troubleshooting common [[Microsoft Office|Office]] 365 application issues.
 >
 > **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=9)** It's designed for the Level 1 Administrator, who is supporting users.
 >
-> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=14)** Therefore, you should be familiar with Office 365 and the Office applications, including Word, Excel, PowerPoint, et cetera.
+> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=14)** Therefore, you should be familiar with Office 365 and the Office applications, including [[Microsoft Word|Word]], [[Microsoft Excel|Excel]], [[Microsoft PowerPoint|PowerPoint]], et cetera.
 >
 > **[0:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/what-you-need-to-know?u=76281980&t=23)** If you're an individual learner, this course can also be beneficial.
 >
@@ -143,7 +141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Troubleshooting]] (2), application (1), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (6), [[Microsoft Word|Word]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
@@ -152,14 +150,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Word startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980)
+#### [Troubleshoot: Word startup](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=0)** - [Instructor] Sometimes you may experience issues when you're trying to open a Word document.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=0)** - [Instructor] Sometimes you may experience issues when you're trying to open a [[Microsoft Word|Word]] document.
 >
-> **[0:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=5)** If this occurs, the first thing that you should do is ensure that Windows and Office is up to date.
+> **[0:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=5)** If this occurs, the first thing that you should do is ensure that [[Windows]] and [[Microsoft Office|Office]] is up to date.
 >
 > **[0:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=12)** But if the problem continues, follow these steps in order.
 >
@@ -207,7 +204,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=168)** As before, we'll ensure that Word is closed and then to access the registry I'm going to use the run command and type regedit.
 >
-> **[2:57](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=177)** You are now looking at the registry editor to find the key that we need to delete, we're going to search in HKEY_CURRENT_USER and then software, Microsoft, and then Office.
+> **[2:57](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=177)** You are now looking at the registry editor to find the key that we need to delete, we're going to search in HKEY_CURRENT_USER and then software, [[Microsoft]], and then Office.
 >
 > **[3:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-startup?u=76281980&t=194)** I happened to be using Word 2016 therefore the corresponding folder that I will select will be 16.
 >
@@ -303,7 +300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), data (3), next (3), [[Microsoft]] (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (22), [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[Windows]] (1)
 > **Exercise Files:** template (6)
 > **UI Navigation:** right-click (2), double-click (2), scroll down (1)
 > **CLI Commands:** find (3), make (1)
@@ -312,8 +309,7 @@ created: 2026-05-02
 > **Env Vars:** hkey_current_user (1)
 > **Definitions:** is a  (1)
 
-#### Troubleshoot: Lost Word documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980)
+#### [Troubleshoot: Lost Word documents](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -323,7 +319,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980&t=7)** I've closed the document before I saved it, or I closed the document and saved it, but saved it to a location that I couldn't remember.
 >
-> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980&t=14)** Luckily, there's a couple of easy ways for us to locate those lost Word documents.
+> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980&t=14)** Luckily, there's a couple of easy ways for us to locate those lost [[Microsoft Word|Word]] documents.
 >
 > **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-word-documents?u=76281980&t=19)** The first and easiest method is just to open up File Explorer, and navigate to the folder where you think the document may be.
 >
@@ -375,18 +371,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10), [[Search]] (5), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (10)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** navigate to (1), scroll down (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Word formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-formatting?u=76281980)
+#### [Troubleshoot: Word formatting](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-formatting?u=76281980&t=0)** - [Instructor] The formatting in your Word document can cause unexpected behavior.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-formatting?u=76281980&t=0)** - [Instructor] The formatting in your [[Microsoft Word|Word]] document can cause unexpected behavior.
 >
 > **[0:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-formatting?u=76281980&t=5)** In this lesson we'll explore how to troubleshoot Word formatting.
 >
@@ -506,7 +501,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5), next (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (5)
 > **UI Navigation:** select the (6), click on (2)
 > **Versions:** 1.5 (1)
 > **Definitions:** is a  (1)
@@ -514,8 +509,7 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Damaged Word documents
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980)
+#### [Troubleshoot: Damaged Word documents](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,7 +519,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=19)** And this is really easy to do.
 >
-> **[0:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=21)** What you'll need to do is open Word.
+> **[0:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=21)** What you'll need to do is open [[Microsoft Word|Word]].
 >
 > **[0:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=24)** And this is easy to do.
 >
@@ -569,15 +563,15 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=132)** To do this, you will need to edit the Registry.
 >
-> **[2:15](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=135)** If you are uncomfortable doing this, then you may want to defer this to your IT administrator or your IT help desk.
+> **[2:15](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=135)** If you are uncomfortable doing this, then you may want to defer this to your IT administrator or your [[IT Help Desk]].
 >
-> **[2:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=143)** To edit the Registry, press the Windows key and then type regedit.
+> **[2:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=143)** To edit the Registry, press the [[Windows]] key and then type regedit.
 >
 > **[2:29](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=149)** Now we need to navigate to the Word registry key.
 >
 > **[2:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=153)** You'll find that under HKEY_CURRENT_USER.
 >
-> **[2:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=157)** Followed by SOFTWARE, Microsoft, and then Office.
+> **[2:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=157)** Followed by SOFTWARE, [[Microsoft]], and then [[Microsoft Office|Office]].
 >
 > **[2:43](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-word-documents?u=76281980&t=163)** You may have to scroll down for it.
 >
@@ -711,7 +705,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (18), next (7), data (5), [[Microsoft]] (3), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (18), [[Microsoft]] (3), [[Microsoft Office|Office]] (2), [[IT Help Desk]] (1), [[Windows]] (1)
 > **Exercise Files:** template (9)
 > **UI Navigation:** select the (3), open the (2), navigate to (1), scroll down (1), right-click (1)
 > **Env Vars:** xps (3), hkey_current_user (1), software (1), lpt (1)
@@ -720,12 +714,11 @@ created: 2026-05-02
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Word printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980)
+#### [Troubleshoot: Word printing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=0)** - [Instructor] In this very quick lesson, we're going to explore some of the common troubleshooting issues and fixes for when you're having issues printing from Word.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=0)** - [Instructor] In this very quick lesson, we're going to explore some of the common troubleshooting issues and fixes for when you're having issues printing from [[Microsoft Word|Word]].
 >
 > **[0:10](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=10)** When your file fails to print, I always start with the quick fixes first, such as is the printer turned on?
 >
@@ -743,13 +736,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=41)** Always make sure that the printer drivers are up-to-date.
 >
-> **[0:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=44)** And finally, is Windows and Office up-to-date as well?
+> **[0:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=44)** And finally, is [[Windows]] and [[Microsoft Office|Office]] up-to-date as well?
 >
 > **[0:48](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=48)** If the quick fixes do not solve the issue, then it's time to move on to other troubleshooting techniques, starting with can you print other documents, or is it just the one that's giving you a hard time.
 >
 > **[1:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=60)** Can you print from other programs?
 >
-> **[1:02](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=62)** If you can't print from Word, can you print from PowerPoint or Excel?
+> **[1:02](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=62)** If you can't print from Word, can you print from [[Microsoft PowerPoint|PowerPoint]] or [[Microsoft Excel|Excel]]?
 >
 > **[1:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-word-printing?u=76281980&t=67)** Can you print with different print drivers or a different printer?
 >
@@ -767,7 +760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Troubleshooting]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (3), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1)
 > **Analogies:** such as (1)
@@ -780,14 +773,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: PowerPoint startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980)
+#### [Troubleshoot: PowerPoint startup](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=0)** - [Instructor] Let's explore some common troubleshooting techniques that can be used if PowerPoint is failing to start or becomes unresponsive.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=0)** - [Instructor] Let's explore some common troubleshooting techniques that can be used if [[Microsoft PowerPoint|PowerPoint]] is failing to start or becomes unresponsive.
 >
-> **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=9)** First, and as always, ensure that Office and Windows are up-to-date.
+> **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=9)** First, and as always, ensure that [[Microsoft Office|Office]] and [[Windows]] are up-to-date.
 >
 > **[0:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=13)** If the issue continues, then follow these steps in order, starting with updating the antivirus software, and ensure that there isn't a conflict with PowerPoint and the antivirus software.
 >
@@ -833,7 +825,7 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=153)** You'll notice my default printer is currently a Brother printer.
 >
-> **[2:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=157)** I'm going to change the default to Microsoft XPS Document Writer v4.
+> **[2:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=157)** I'm going to change the default to [[Microsoft]] XPS Document Writer v4.
 >
 > **[2:43](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-startup?u=76281980&t=163)** Select it, and then manage, and set as default.
 >
@@ -843,16 +835,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (12), [[Troubleshooting]] (3), [[Microsoft Office|Office]] (3), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (12), [[Microsoft Office|Office]] (3), [[Windows]] (1), [[Microsoft]] (1)
 > **Env Vars:** xps (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Lost presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-presentations-2?u=76281980)
+#### [Troubleshoot: Lost presentations](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-presentations-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-presentations-2?u=76281980&t=0)** - [Instructor] We have all had days where nothing goes right, and if your day included losing your PowerPoint presentation that is 62 slides long and you spent all afternoon working on, then you're having a really bad day.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-presentations-2?u=76281980&t=0)** - [Instructor] We have all had days where nothing goes right, and if your day included losing your [[Microsoft PowerPoint|PowerPoint]] presentation that is 62 slides long and you spent all afternoon working on, then you're having a really bad day.
 >
 > **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-presentations-2?u=76281980&t=14)** Luckily, the steps for locating missing PowerPoint files is similar for all the desktop apps.
 >
@@ -904,18 +895,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (10), [[Search]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (10)
 > **CLI Commands:** find (3)
 > **UI Navigation:** select the (1), scroll up (1), double-click (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Damaged presentations
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980)
+#### [Troubleshoot: Damaged presentations](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=0)** - [Instructor] At some point in your career you may come across a PowerPoint presentation that just won't open.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=0)** - [Instructor] At some point in your career you may come across a [[Microsoft PowerPoint|PowerPoint]] presentation that just won't open.
 >
 > **[0:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=7)** I'm going to show you a couple tips and tricks to try to open that presentation file.
 >
@@ -935,13 +925,13 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=58)** I'm going to close PowerPoint.
 >
-> **[1:01](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=61)** And for this, I like to work with two File Explorer windows.
+> **[1:01](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=61)** And for this, I like to work with two File Explorer [[Windows]].
 >
 > **[1:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=66)** In the one window I have the folder where the presentation that will not open is located.
 >
 > **[1:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=72)** In the other window I'll navigate to the PowerPoint application itself.
 >
-> **[1:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=77)** For my version of Office, I need to navigate to C, Program Files, Microsoft Office, Root, Office 16.
+> **[1:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=77)** For my version of [[Microsoft Office|Office]], I need to navigate to C, Program Files, [[Microsoft Office]], Root, Office 16.
 >
 > **[1:31](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=91)** From here I can scroll all the way down to the Ps.
 >
@@ -1017,7 +1007,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=307)** And you'll notice that we now have a rich text formatted document.
 >
-> **[5:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=313)** In my case it will open in Word.
+> **[5:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=313)** In my case it will open in [[Microsoft Word|Word]].
 >
 > **[5:15](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-presentations-2?u=76281980&t=315)** If you do not have Word, it will open up in Notepad or WordPad and now we can at least grab all of the text from that presentation.
 >
@@ -1029,7 +1019,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (17), next (4), application (4), [[Troubleshooting]] (4), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (17), [[Microsoft Office|Office]] (2), [[Microsoft Word|Word]] (2), [[Windows]] (1), [[Microsoft Office]] (1)
 > **UI Navigation:** open the (3), select the (2), navigate to (2), scroll down (1), right-click (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -1038,18 +1028,17 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: PowerPoint video and audio
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980)
+#### [Troubleshoot: PowerPoint video and audio](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=0)** - [Instructor] Let's take a few minutes to explore some of the common PowerPoint media issues and the associated fixes.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=0)** - [Instructor] Let's take a few minutes to explore some of the common [[Microsoft PowerPoint|PowerPoint]] media issues and the associated fixes.
 >
-> **[0:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=7)** The best way to avoid hiccups in PowerPoint is to follow the Microsoft recommendations for audio and video.
+> **[0:07](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=7)** The best way to avoid hiccups in PowerPoint is to follow the [[Microsoft]] recommendations for audio and video.
 >
 > **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=14)** The video recommendations for PowerPoint 2013 and 2016 are to use an .mp4 encoded with H.264 video, which is an MPEG-4 AVC and ACC audio.
 >
-> **[0:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=33)** If you happen to be using an older version of PowerPoint such as PowerPoint 2010, Microsoft recommends using the Windows Media Video format or .wmv.
+> **[0:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=33)** If you happen to be using an older version of PowerPoint such as PowerPoint 2010, Microsoft recommends using the [[Windows]] Media Video format or .wmv.
 >
 > **[0:46](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=46)** If you're still having hiccups, you'll need to ensure that you're using a supported video format.
 >
@@ -1057,7 +1046,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=63)** PowerPoint will also support .mp4 video files, movie files, Adobe Flash Media and the Windows Media Video file as well.
 >
-> **[1:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=72)** Another common issue experienced by PowerPoint users relates to the hardware.
+> **[1:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=72)** Another common issue experienced by PowerPoint users relates to the [[Hardware]].
 >
 > **[1:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-video-and-audio?u=76281980&t=77)** To improve your PowerPoint experience you may need to install more memory or even a different graphics card.
 >
@@ -1097,7 +1086,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (13), [[Windows]] (3), [[Microsoft]] (2), [[Hardware]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (13), [[Windows]] (3), [[Microsoft]] (2), [[Hardware]] (2)
 > **Env Vars:** mpeg (1), avc (1), acc (1), temp (1)
 > **Analogies:** picture (2), such as (1)
 > **Warnings:** keep in mind (2), note that (1)
@@ -1106,8 +1095,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: PowerPoint printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980)
+#### [Troubleshoot: PowerPoint printing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1131,11 +1119,11 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=31)** Always check to make sure that the printer drivers are up-to-date.
 >
-> **[0:34](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=34)** And if all else fails, then double-check to ensure that Windows and Office is up-to-date.
+> **[0:34](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=34)** And if all else fails, then double-check to ensure that [[Windows]] and [[Microsoft Office|Office]] is up-to-date.
 >
 > **[0:39](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=39)** That should take care of printing problems.
 >
-> **[0:42](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=42)** Now let's take a look at how we can fine tune the printing in a PowerPoint presentation.
+> **[0:42](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=42)** Now let's take a look at how we can fine tune the printing in a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[0:47](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=47)** I have a presentation up, and the first I'm going to show you is how we can change the size of our slides.
 >
@@ -1175,7 +1163,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=125)** One of the ones that I use quite often is creating handouts.
 >
-> **[2:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=129)** These will put your notes into a Word document.
+> **[2:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=129)** These will put your notes into a [[Microsoft Word|Word]] document.
 >
 > **[2:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-powerpoint-printing?u=76281980&t=132)** And you can select how you want that to look.
 >
@@ -1201,7 +1189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (2), [[Windows]] (1), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pdf (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (2)
@@ -1215,16 +1203,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Excel startup
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980)
+#### [Troubleshoot: Excel startup](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=0)** - [Instructor] In this lesson, we're going to explore some of the common troubleshooting techniques that you can use if you're experiencing Excel startup issues.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=0)** - [Instructor] In this lesson, we're going to explore some of the common troubleshooting techniques that you can use if you're experiencing [[Microsoft Excel|Excel]] startup issues.
 >
 > **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=9)** And this could be problems with Excel actually starting or maybe just specific workbooks.
 >
-> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=14)** The basic troubleshooting steps include first and as always, ensure that Office and Windows are up-to-date.
+> **[0:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=14)** The basic troubleshooting steps include first and as always, ensure that [[Microsoft Office|Office]] and [[Windows]] are up-to-date.
 >
 > **[0:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-startup?u=76281980&t=21)** Next, determine if there is a conflict with another program or a process.
 >
@@ -1290,24 +1277,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Troubleshooting]] (6), [[Windows]] (3), [[Microsoft Office|Office]] (2), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Windows]] (3), [[Microsoft Office|Office]] (2)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Lost Excel workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980)
+#### [Troubleshoot: Lost Excel workbooks](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=0)** - [Instructor] We've all had days where things go wrong.
 >
-> **[0:03](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=3)** And if you lose your Excel file, that can add to that day that is not going your way.
+> **[0:03](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=3)** And if you lose your [[Microsoft Excel|Excel]] file, that can add to that day that is not going your way.
 >
 > **[0:08](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=8)** But there are steps that you can do to locate missing files.
 >
-> **[0:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=13)** And these steps are going to be very similar to the steps that we've already explored in some of the other Office applications.
+> **[0:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=13)** And these steps are going to be very similar to the steps that we've already explored in some of the other [[Microsoft Office|Office]] applications.
 >
 > **[0:20](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=20)** As always, I like to start in File Explorer.
 >
@@ -1343,7 +1329,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=97)** I'm going to reduce that down to one minute.
 >
-> **[1:40](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=100)** Next, I'm going to select the Windows key and type run, and paste the file path.
+> **[1:40](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=100)** Next, I'm going to select the [[Windows]] key and type run, and paste the file path.
 >
 > **[1:51](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-excel-workbooks?u=76281980&t=111)** If there are any AutoRecovered files, they'll be in this folder.
 >
@@ -1377,14 +1363,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Search]] (2), next (2), [[Microsoft Office|Office]] (1), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Microsoft Office|Office]] (1), [[Windows]] (1)
 > **CLI Commands:** make (1), find (1)
 > **UI Navigation:** select the (1), open the (1)
 > **Env Vars:** xls (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Damaged Excel workbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980)
+#### [Troubleshoot: Damaged Excel workbooks](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,7 +1379,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980&t=12)** I always like to try to repair the Workbook first.
 >
-> **[0:16](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980&t=16)** To do so, open Excel, and then File, Open, and then Browse.
+> **[0:16](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980&t=16)** To do so, open [[Microsoft Excel|Excel]], and then File, Open, and then Browse.
 >
 > **[0:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-excel-workbooks?u=76281980&t=23)** This will not work with the pin files.
 >
@@ -1462,17 +1447,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Microsoft Excel|Excel]] (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Env Vars:** k50 (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Troubleshoot: Excel formatting and compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-formatting-and-compatibility?u=76281980)
+#### [Troubleshoot: Excel formatting and compatibility](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-formatting-and-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-formatting-and-compatibility?u=76281980&t=0)** - [Instructor] When there are different versions of Excel within the same office, compatibility problems can occur when users are sharing workbooks and sheets.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-formatting-and-compatibility?u=76281980&t=0)** - [Instructor] When there are different versions of [[Microsoft Excel|Excel]] within the same [[Microsoft Office|office]], compatibility problems can occur when users are sharing workbooks and sheets.
 >
 > **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-formatting-and-compatibility?u=76281980&t=9)** Before we look at how to mitigate these issues, let's first explore the two loss levels of functionality and common formatting that may be reduced or lost.
 >
@@ -1526,20 +1510,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Office|Office]] (3), next (2), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Office|Office]] (3)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Excel printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980)
+#### [Troubleshoot: Excel printing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=0)** - [Instructor] Do you have that one task in the office that drives you nuts?
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=0)** - [Instructor] Do you have that one task in the [[Microsoft Office|office]] that drives you nuts?
 >
 > **[0:04](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=4)** Well, for me it's printing and it doesn't matter what application I'm in, for some reason printing and I don't get along.
 >
-> **[0:11](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=11)** In this lesson, we're going to explore some common troubleshooting techniques for when your printer is not working and then review some formatting tricks for printing your Excel worksheets correctly.
+> **[0:11](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=11)** In this lesson, we're going to explore some common troubleshooting techniques for when your printer is not working and then review some formatting tricks for printing your [[Microsoft Excel|Excel]] worksheets correctly.
 >
 > **[0:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=23)** When you're unable to print, the first thing you should do is double check your printer to make sure that it's turned on, that there's paper in it, that there's ink in it, that all the cables are secure.
 >
@@ -1547,7 +1530,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=38)** I have an older printer and it drops the network connection quite often and this causes me almost daily fustration.
 >
-> **[0:46](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=46)** Be sure that the printer is not paused and that the drivers are up to date for the printer, as well as Windows and Office.
+> **[0:46](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=46)** Be sure that the printer is not paused and that the drivers are up to date for the printer, as well as [[Windows]] and Office.
 >
 > **[0:53](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-excel-printing?u=76281980&t=53)** Now, let's pop into Excel to review a couple tricks to help you format your worksheet to print correctly.
 >
@@ -1611,17 +1594,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (2), [[Troubleshooting]] (2), data (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Microsoft Office|Office]] (2), [[Windows]] (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Lost and damaged Access databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980)
+#### [Troubleshoot: Lost and damaged Access databases](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=0)** - [Instructor] We are going to take a few minutes to discuss troubleshooting Access databases, specifically on backing up an Access database and maintaining it.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=0)** - [Instructor] We are going to take a few minutes to discuss troubleshooting Access [[Databases]], specifically on backing up an Access database and maintaining it.
 >
 > **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=9)** But before we get into the actual demo, I want to talk to you about backups.
 >
@@ -1641,7 +1623,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=44)** Now that you know why you need a backup, you may be wondering how often you should be backing up your Access databases.
 >
-> **[0:51](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=51)** Here is Microsoft's guideline.
+> **[0:51](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=51)** Here is [[Microsoft]]'s guideline.
 >
 > **[0:54](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=54)** If your database is an archive database and rarely changes, then you should only back it up when the design or the data changes.
 >
@@ -1655,7 +1637,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=80)** Is it a week, a day or even hours?
 >
-> **[1:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=83)** Please take the time to come up and implement a backup plan, not only for your Access databases but for the rest of your data as well.
+> **[1:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=83)** Please take the time to come up and implement a backup plan, not only for your Access databases but for the [[Representational State Transfer (REST)|rest]] of your data as well.
 >
 > **[1:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-lost-and-damaged-access-databases?u=76281980&t=92)** With that, let's pop into Access and I'm going to show you how we back up our Access databases as well as maintain them.
 >
@@ -1705,7 +1687,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (17), [[Databases]] (4), data (3), [[Troubleshooting]] (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Databases]] (4), [[Microsoft]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Definitions:** is an  (1), is a  (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** rule of thumb (1)
@@ -1716,8 +1698,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Teams audio and video
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980)
+#### [Troubleshoot: Teams audio and video](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1727,7 +1708,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=11)** And that will be true until 2021 when Skype will then be retired.
 >
-> **[0:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=17)** All new Office 365 tenants will be deployed with Teams.
+> **[0:17](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=17)** All new [[Microsoft Office|Office]] 365 tenants will be deployed with Teams.
 >
 > **[0:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=21)** You'll find Teams much easier to troubleshoot than Skype for Business.
 >
@@ -1753,7 +1734,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=84)** Microphone is not found or it is muted and the camera is not found, but the speaker and network are both connected.
 >
-> **[1:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=93)** If you have speakers, a mic and a camera attached to your system but Teams is unable to use those devices, you'll want to reach out to your IT help desk for additional support.
+> **[1:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=93)** If you have speakers, a mic and a camera attached to your system but Teams is unable to use those devices, you'll want to reach out to your [[IT Help Desk]] for additional support.
 >
 > **[1:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-teams-audio-and-video?u=76281980&t=104)** Before I wrap this lesson up and before you reach out to IT help desk, if you're using a headset with controls on the headset, double check to see that you haven't accidentally muted yourself if people can't hear you.
 >
@@ -1765,7 +1746,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (6), business (2), [[IT Help Desk]] (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[IT Help Desk]] (2), [[Microsoft Office|Office]] (1)
 > **Prerequisites:** configure (2), install (1), setup (1), set up (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** usb (1)
@@ -1774,12 +1755,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recover lost OneNote files
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980)
+#### [Recover lost OneNote files](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=0)** - [Instructor] When working in OneNote, sometimes it may feel like we've lost some files, but don't worry.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=0)** - [Instructor] When working in [[OneNote]], sometimes it may feel like we've lost some files, but don't worry.
 >
 > **[0:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=6)** OneNote has us covered.
 >
@@ -1787,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=23)** The easiest way to do this is in the search dialog box, pop in what you're looking for.
 >
-> **[0:30](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=30)** I'm going to type in the word clear and I can see my Vendor List has the word clear.
+> **[0:30](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=30)** I'm going to type in the [[Microsoft Word|word]] clear and I can see my Vendor List has the word clear.
 >
 > **[0:35](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/recover-lost-onenote-files?u=76281980&t=35)** Let's go ahead and select that.
 >
@@ -1885,25 +1865,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (12), [[Search]] (4), [[Microsoft Word|Word]] (3), data (1)
+> **Frameworks & Libraries:** [[OneNote]] (12), [[Microsoft Word|Word]] (3)
 > **UI Navigation:** select the (4), click on (2), dropdown (1)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reset a OneNote notebook
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980)
+#### [Reset a OneNote notebook](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=0)** - [Instructor] Microsoft is continually improving their products, which may require updates to your applications, and on occasion, an update may cause syncing issues with OneNote.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=0)** - [Instructor] [[Microsoft]] is continually improving their [[Microsoft Products|products]], which may require updates to your applications, and on occasion, an update may cause syncing issues with [[OneNote]].
 >
 > **[0:11](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=11)** If you're experiencing syncing issues with OneNote, you can try the following troubleshooting techniques: First, Microsoft recommends keeping your version of OneNote up to date to avoid possible syncing issues.
 >
 > **[0:23](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=23)** To do this, select File, Account, and Update Options, and then select Update Now.
 >
-> **[0:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=32)** If this does not work for you and you find your Notebook still will not sync to your online version, you will need to determine whether or not the issue is occurring on your local or desktop version of OneNote, or if it's the version that's in Office 365.
+> **[0:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=32)** If this does not work for you and you find your Notebook still will not sync to your online version, you will need to determine whether or not the issue is occurring on your local or desktop version of OneNote, or if it's the version that's in [[Microsoft Office|Office]] 365.
 >
 > **[0:49](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=49)** The easiest way to determine if your local copy is causing the issue, simply close down the Notebook and reopen it.
 >
@@ -1929,7 +1908,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=125)** If the Notebook opens here and the content looks similar, then you'll know the Notebook is syncing appropriately.
 >
-> **[2:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=134)** If you are unable to open or view the Notebook in the browser, the issue is probably server-related, and you'll need to contact your IT help desk.
+> **[2:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=134)** If you are unable to open or view the Notebook in the browser, the issue is probably server-related, and you'll need to contact your [[IT Help Desk]].
 >
 > **[2:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/reset-a-onenote-notebook?u=76281980&t=144)** We're going to pop back into the desktop version to view the sync status of our Notebooks.
 >
@@ -1991,7 +1970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OneNote]] (7), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Troubleshooting]] (2), next (2)
+> **Frameworks & Libraries:** [[OneNote]] (7), [[Microsoft Office|Office]] (3), [[Microsoft]] (2), [[Microsoft Products|Products]] (1), [[IT Help Desk]] (1)
 > **UI Navigation:** select the (2), click on (1), right-click (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** you'll need (2)
@@ -2004,8 +1983,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Visio printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-printing?u=76281980)
+#### [Troubleshoot: Visio printing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2071,14 +2049,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (2), next (1), hit (1)
 > **CLI Commands:** make (3), find (2)
 > **Prerequisites:** setup (2), configure (1), you'll need (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Visio shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-shapes?u=76281980)
+#### [Troubleshoot: Visio shapes](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2136,22 +2112,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Troubleshooting]] (1)
 > **UI Navigation:** right-click (1), select the (1)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Visio compatibility
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980)
+#### [Troubleshoot: Visio compatibility](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=0)** - [Instructor] As with most Office applications, you may experience some challenges if there are different versions of the application being used in the environment, and Visio is no different.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=0)** - [Instructor] As with most [[Microsoft Office|Office]] applications, you may experience some challenges if there are different versions of the application being used in the environment, and Visio is no different.
 >
 > **[0:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=12)** If some of the users in the environment are using a newer version of Visio, and some are still using an older version, there's going to be some hiccups.
 >
-> **[0:20](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=20)** Visio like Excel, comes with a compatibility checker to advise you on these possible issues.
+> **[0:20](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=20)** Visio like [[Microsoft Excel|Excel]], comes with a compatibility checker to advise you on these possible issues.
 >
 > **[0:27](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-visio-compatibility?u=76281980&t=27)** You will find the compatibility checker under file, info, check for issues, and then check compatibility.
 >
@@ -2179,7 +2153,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), application (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
@@ -2189,12 +2163,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OneDrive synchronization limits
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980)
+#### [OneDrive synchronization limits](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=0)** - [Instructor] To keep your local files in sync with OneDrive or SharePoint, Microsoft provides the OneDrive Sync Client Tool to do this automatically for you, but there are some limitations that you need to be aware of, and if you violate any of these limitations, you may experience issues when syncing your files.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=0)** - [Instructor] To keep your local files in sync with [[Microsoft OneDrive|OneDrive]] or [[SharePoint]], [[Microsoft]] provides the OneDrive Sync Client Tool to do this automatically for you, but there are some limitations that you need to be aware of, and if you violate any of these limitations, you may experience issues when syncing your files.
 >
 > **[0:20](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=20)** To start with, you cannot have any of the following strings in your file names.
 >
@@ -2204,7 +2177,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=45)** In addition, you cannot have any of the following characters in your file or folder names, the greater than or less than signs, a colon, quotes, the pipe, a question mark, an asterisk, or either slash.
 >
-> **[1:01](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=61)** In addition to the invalid characters, for folder names, you also cannot have a folder name with underscore t in it or underscore w, as well as the word "forms."
+> **[1:01](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=61)** In addition to the invalid characters, for folder names, you also cannot have a folder name with underscore t in it or underscore w, as well as the [[Microsoft Word|word]] "[[Forms]]."
 >
 > **[1:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=74)** As the number of files to be synced reaches 100,000, the performance will degrade if storing all the files in a single OneDrive for Business site or Teams site library.
 >
@@ -2222,7 +2195,7 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=117)** Another limitation of OneDrive locations is they cannot be assigned to mapped to network drives.
 >
-> **[2:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=125)** There are a few Windows specific restrictions and limitations that you need to know about.
+> **[2:05](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=125)** There are a few [[Windows]] specific restrictions and limitations that you need to know about.
 >
 > **[2:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/onedrive-synchronization-limits?u=76281980&t=129)** The OneDrive app must be installed on the local system.
 >
@@ -2234,17 +2207,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft]] (2), business (2), [[SharePoint]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (9), [[Microsoft]] (2), [[SharePoint]] (1), [[Microsoft Word|Word]] (1), [[Forms]] (1)
 > **Env Vars:** icon (1), con (1), prn (1), aux (1), nul (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: OneDrive files
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980)
+#### [Troubleshoot: OneDrive files](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=0)** - [Instructor] In most cases, OneDrive hums along.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=0)** - [Instructor] In most cases, [[Microsoft OneDrive|OneDrive]] hums along.
 >
 > **[0:03](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=3)** But on occasion, you may run into the occasional hiccup.
 >
@@ -2284,7 +2256,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=97)** Close your eyes and imagine with me.
 >
-> **[1:39](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=99)** You've been working all day on a PowerPoint presentation.
+> **[1:39](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=99)** You've been working all day on a [[Microsoft PowerPoint|PowerPoint]] presentation.
 >
 > **[1:42](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=102)** It's late in the day, you're tired and all of the sudden you realize, "I really don't need a copy "of that PowerPoint presentation."
 >
@@ -2302,7 +2274,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=121)** You have a nice, quiet night.
 >
-> **[2:02](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=122)** You come in the office in the morning and you panic because the file is gone.
+> **[2:02](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=122)** You come in the [[Microsoft Office|office]] in the morning and you panic because the file is gone.
 >
 > **[2:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=126)** Don't worry, you can get it back.
 >
@@ -2328,7 +2300,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=176)** As I said, I have several files with Landen in it.
 >
-> **[3:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=180)** To further narrow down this search, I can specify when the file was modified, or my favorite feature is I can narrow down the search by the type of document, in this case, Word.
+> **[3:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=180)** To further narrow down this search, I can specify when the file was modified, or my favorite feature is I can narrow down the search by the type of document, in this case, [[Microsoft Word|Word]].
 >
 > **[3:14](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-files?u=76281980&t=194)** You can also narrow down the search by filtering on people.
 >
@@ -2338,18 +2310,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[Search]] (6), [[Microsoft PowerPoint|Powerpoint]] (2), business (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (11), [[Microsoft PowerPoint|Powerpoint]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** select the (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: OneDrive syncing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980)
+#### [Troubleshoot: OneDrive syncing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=0)** - [Instructor] It can be incredibly frustrating when your local files are not syncing with OneDrive or SharePoint when you're using the OneDrive sync client.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=0)** - [Instructor] It can be incredibly frustrating when your local files are not syncing with [[Microsoft OneDrive|OneDrive]] or [[SharePoint]] when you're using the OneDrive sync client.
 >
 > **[0:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=9)** Here's a quick list of the common issues and fixes to get your files syncing once again.
 >
@@ -2359,7 +2330,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=24)** You can try reducing the file size by compressing or zipping it.
 >
-> **[0:28](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=28)** You'll want to ensure that Windows and Office are up to date, as always, and reduce the file name path.
+> **[0:28](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=28)** You'll want to ensure that [[Windows]] and [[Microsoft Office|Office]] are up to date, as always, and reduce the file name path.
 >
 > **[0:35](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=35)** Next, ensure that you have the right permissions to upload files to the folder.
 >
@@ -2375,11 +2346,11 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=62)** Now, let's pop into our demo and take a look at some other common fixes.
 >
-> **[1:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=66)** If those fixes do not work, next you can try using the Microsoft Support and Recovery Assistant tool.
+> **[1:06](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=66)** If those fixes do not work, next you can try using the [[Microsoft]] Support and Recovery Assistant tool.
 >
 > **[1:13](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=73)** This tool will run tests and it will attempt to fix any detected issues or at least provide you details on how you can solve the problem.
 >
-> **[1:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=81)** This tool can be downloaded from the Outlook support center.
+> **[1:21](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=81)** This tool can be downloaded from the [[Microsoft Outlook|Outlook]] support center.
 >
 > **[1:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=84)** I've already gone ahead and download and installed the application, let's go ahead and launch it.
 >
@@ -2453,23 +2424,22 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=277)** At this point you would go ahead unlink the account, this will stop the synchronization and then could relink the account.
 >
-> **[4:45](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=285)** If these steps do not solve the problem, you will need to contact your local IT help desk or you can refer to the OneDrive help center for additional tips, tricks and troubleshooting techniques.
+> **[4:45](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-onedrive-syncing?u=76281980&t=285)** If these steps do not solve the problem, you will need to contact your local [[IT Help Desk]] or you can refer to the OneDrive help center for additional tips, tricks and troubleshooting techniques.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), [[Microsoft Office|Office]] (8), next (4), [[SharePoint]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft OneDrive|Onedrive]] (18), [[Microsoft Office|Office]] (8), [[SharePoint]] (2), [[Microsoft]] (2), [[Windows]] (1)
 > **UI Navigation:** right-click (2)
 > **CLI Commands:** find (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: SharePoint sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980)
+#### [Troubleshoot: SharePoint sites](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=0)** - [Instructor] Like OneDrive, you may encounter similar uploading issues when trying to upload to a SharePoint site, and this is because the underlying technology is similar.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=0)** - [Instructor] Like [[Microsoft OneDrive|OneDrive]], you may encounter similar uploading issues when trying to upload to a [[SharePoint]] site, and this is because the underlying technology is similar.
 >
 > **[0:10](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=10)** As with OneDrive, there is a maximum path length in SharePoint.
 >
@@ -2529,11 +2499,11 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=160)** That covers most of the common SharePoint issues that you may encounter.
 >
-> **[2:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=164)** For additional assistance, please refer to your IT help desk, or your SharePoint administrator, and as always, you can find more tips, tricks and troubleshooting techniques at the SharePoint help center, or in other courses in this library.
+> **[2:44](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-sharepoint-sites?u=76281980&t=164)** For additional assistance, please refer to your [[IT Help Desk]], or your SharePoint administrator, and as always, you can find more tips, tricks and troubleshooting techniques at the SharePoint help center, or in other courses in this library.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft OneDrive|Onedrive]] (3), next (2), application (1), [[IT Help Desk]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Microsoft OneDrive|Onedrive]] (3), [[IT Help Desk]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
@@ -2543,8 +2513,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Publisher mail merge
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980)
+#### [Troubleshoot: Publisher mail merge](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2558,7 +2527,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980&t=32)** Search for your list.
 >
-> **[0:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980&t=33)** Ours is an Excel file called Vendor List and I need to select the sheet that has the recipients on it.
+> **[0:33](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980&t=33)** Ours is an [[Microsoft Excel|Excel]] file called Vendor List and I need to select the sheet that has the recipients on it.
 >
 > **[0:43](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-mail-merge?u=76281980&t=43)** This is a very simple example.
 >
@@ -2648,7 +2617,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** make (3)
 > **UI Navigation:** select the (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -2656,8 +2625,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Publisher printing
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980)
+#### [Troubleshoot: Publisher printing](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2691,7 +2659,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980&t=84)** And we'll do that in the same location, under advanced output settings, and allow bleeds.
 >
-> **[1:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980&t=92)** It's a little hard to see, I'm going to zoom in.
+> **[1:32](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980&t=92)** It's a little hard to see, I'm going to [[Zoom]] in.
 >
 > **[1:34](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-publisher-printing?u=76281980&t=94)** And you can now see that that background color extends past the crop lines, or the trim.
 >
@@ -2731,8 +2699,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Troubleshoot: Damaged Outlook data files
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980)
+#### [Troubleshoot: Damaged Outlook data files](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2744,7 +2711,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=15)** The first thing you'll need to do is locate where your email files are.
 >
-> **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=19)** To do so, open Outlook, select File, Account Settings, and Account Setting one more time.
+> **[0:19](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=19)** To do so, open [[Microsoft Outlook|Outlook]], select File, Account Settings, and Account Setting one more time.
 >
 > **[0:27](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=27)** Then select the second tab, Data Files.
 >
@@ -2758,7 +2725,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=49)** I find the easiest way to locate that tool is to search for it.
 >
-> **[0:54](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=54)** I know that I'll need to look in Windows, Program Files, Microsoft Office, Root, and Office 16.
+> **[0:54](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=54)** I know that I'll need to look in [[Windows]], Program Files, [[Microsoft Office]], Root, and [[Microsoft Office|Office]] 16.
 >
 > **[1:04](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=64)** Your location may be different.
 >
@@ -2894,13 +2861,13 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=309)** It's not too often that you'll have to do this.
 >
-> **[5:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=312)** And if you find it a little bit intimidating, please reach out to your IT Help Desk for support.
+> **[5:12](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=312)** And if you find it a little bit intimidating, please reach out to your [[IT Help Desk]] for support.
 >
 > **[5:18](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-damaged-outlook-data-files?u=76281980&t=318)** They'll be more than happy to get you back up and running.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), data (4), [[Search]] (2), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Windows]] (1), [[Microsoft Office]] (1), [[Microsoft Office|Office]] (1), [[IT Help Desk]] (1)
 > **UI Navigation:** select the (2), open the (1), scroll down (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (2), is called (1)
@@ -2908,14 +2875,13 @@ created: 2026-05-02
 > **Env Vars:** pst (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshoot: Connecting to a mailbox
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980)
+#### [Troubleshoot: Connecting to a mailbox](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=0)** - [Instructor] Most connectivity issues that you may experience with Outlook are typically caused by outdated software or corrupt email profiles, both of which can be easily resolved.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=0)** - [Instructor] Most connectivity issues that you may experience with [[Microsoft Outlook|Outlook]] are typically caused by outdated software or corrupt email profiles, both of which can be easily resolved.
 >
-> **[0:10](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=10)** You can fix outdated software by ensuring that Windows and Office are up to date.
+> **[0:10](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=10)** You can fix outdated software by ensuring that [[Windows]] and [[Microsoft Office|Office]] are up to date.
 >
 > **[0:15](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=15)** And we've done that a couple times now within this course.
 >
@@ -2969,19 +2935,18 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=142)** I'm going to select No, and then Cancel.
 >
-> **[2:25](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=145)** These troubleshooting steps should get you back on track, but if not, you will need to escalate your issue to your IT help desk.
+> **[2:25](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/troubleshoot-connecting-to-a-mailbox?u=76281980&t=145)** These troubleshooting steps should get you back on track, but if not, you will need to escalate your issue to your [[IT Help Desk]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Microsoft Office|Office]] (4), next (3), [[Windows]] (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (6), [[Microsoft Office|Office]] (4), [[Windows]] (1), [[IT Help Desk]] (1)
 > **UI Navigation:** select the (3)
 > **Cross-References:** earlier in (1)
 > **Warnings:** warning (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interpret and fix non-delivery error codes
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/interpret-and-fix-non-delivery-error-codes?u=76281980)
+#### [Interpret and fix non-delivery error codes](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/interpret-and-fix-non-delivery-error-codes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3025,7 +2990,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Env Vars:** ndr (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Analogies:** for example (1)
@@ -3036,20 +3000,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980&t=0)** - [Sharon Bennett] Now that you understand Office 365 and the Microsoft Productivity applications when it comes to troubleshooting, you may want to dig a little deeper.
+> **[0:00](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980&t=0)** - [Sharon Bennett] Now that you understand [[Microsoft Office|Office]] 365 and the [[Microsoft]] Productivity applications when it comes to troubleshooting, you may want to dig a little deeper.
 >
 > **[0:10](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980&t=10)** There are several deep-dive courses in the library expanding on the topics that we touched on in this course.
 >
-> **[0:16](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980&t=16)** You can always refer to the Microsoft Office training website for more information.
+> **[0:16](https://www.linkedin.com/learning/office-365-for-administrators-troubleshooting-issues-for-users-office-365-microsoft-365/next-steps?u=76281980&t=16)** You can always refer to the [[Microsoft Office]] training website for more information.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Troubleshooting]] (1), [[Microsoft Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Microsoft]] (1), [[Microsoft Office]] (1)
 > **Speakers:** - [sharon (1)
 
 

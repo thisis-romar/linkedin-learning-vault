@@ -97,12 +97,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Communicating your expertise
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980)
+#### [Communicating your expertise](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=0)** - Technical skills may help you get an entry-level cybersecurity role, but soft skills?
+> **[0:00](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=0)** - Technical skills may help you get an entry-level [[Cybersecurity]] role, but [[Soft Skills]]?
 >
 > **[0:07](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=7)** Soft skills will help you build a successful cybersecurity career.
 >
@@ -112,13 +111,13 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=25)** I've worked in cybersecurity long enough to have earned every gray hair in my beard.
 >
-> **[0:30](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=30)** I'm Jerod Brennen, and I'd like to invite you to join me here on LinkedIn Learning as I walk through the most critical soft skills that cybersecurity professionals should bring to the table, as well as techniques you can use to practice those soft skills before applying them in your own day-to-day work.
+> **[0:30](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=30)** I'm Jerod Brennen, and I'd like to invite you to join me here on [[LinkedIn]] Learning as I walk through the most critical soft skills that cybersecurity professionals should bring to the table, as well as techniques you can use to practice those soft skills before applying them in your own day-to-day work.
 >
 > **[0:48](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/communicating-your-expertise-24136249?u=76281980&t=48)** Let's jump in.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Soft Skills]] (4), career (1), business (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Cybersecurity]] (5), [[Soft Skills]] (4), [[LinkedIn]] (1)
 > **Speakers:** - technical (1)
 
 
@@ -126,8 +125,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why soft skills matter
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980)
+#### [Why soft skills matter](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980&t=38)** It's like the hiring managers treat those technical skills as a given, you wouldn't even be in the room with them otherwise.
 >
-> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980&t=46)** What hiring managers are looking for now are soft skills.
+> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980&t=46)** What hiring managers are looking for now are [[Soft Skills]].
 >
 > **[0:51](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/why-soft-skills-matter?u=76281980&t=51)** They want candidates who understand the technical side of security and have the ability to engage people and help them understand what InfoSec is, and why it's so important.
 >
@@ -191,14 +189,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (5), [[Security]] (2), next (1), career (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (5)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** it's like (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - how (1)
 
-#### It's not just a technology issue
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980)
+#### [It's not just a technology issue](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -226,7 +223,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=65)** Proof point, one of the largest email security vendors in the world has a lot of information on email-based attacks.
 >
-> **[1:12](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=72)** Each year they publish the "State of the Phish" report, where they pull together some numbers from phishing attacks against their customers.
+> **[1:12](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=72)** Each year they publish the "State of the Phish" report, where they pull together some numbers from [[Phishing]] attacks against their customers.
 >
 > **[1:19](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=79)** In a recent report they found that web-based social engineering attacks increased over 200% from one quarter to the next.
 >
@@ -246,7 +243,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=140)** In all of these conversations your technical infosec knowledge is going to be important.
 >
-> **[2:25](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=145)** But it's your soft skills that are going to help bridge the gap between you and everyone you're working with.
+> **[2:25](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=145)** But it's your [[Soft Skills]] that are going to help bridge the gap between you and everyone you're working with.
 >
 > **[2:32](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/it-s-not-just-a-technology-issue?u=76281980&t=152)** Effective infosec leaders embrace the notion that infosec isn't just about technology.
 >
@@ -254,19 +251,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), business (1), [[Phishing]] (1), web (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[Soft Skills]] (1)
 > **CLI Commands:** find (2)
 > **Tools:** notion (1)
 > **Definitions:** is an  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Soft skill groupings
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980)
+#### [Soft skill groupings](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=1)** - The list of possible soft skills you can bring to the table is fairly extensive.
+> **[0:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=1)** - The list of possible [[Soft Skills]] you can bring to the table is fairly extensive.
 >
 > **[0:06](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=6)** Over the course of my career though, I've found a core set of soft skills to be incredibly helpful.
 >
@@ -312,7 +308,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=113)** Once you hit a point where you're teaching and speaking publicly on how you're solving these problems, you'll be golden.
 >
-> **[2:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=121)** The last group of soft skills we'll cover is related to strategic thinking.
+> **[2:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=121)** The last group of soft skills we'll cover is related to [[Strategic Thinking]].
 >
 > **[2:06](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/soft-skill-groupings?u=76281980&t=126)** Every InfoSec pro I know has more to do day-to-day than they can reasonably keep up with.
 >
@@ -332,7 +328,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (6), hit (2), [[Strategic Thinking]] (2), career (1), leadership (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (6), [[Strategic Thinking]] (2)
 > **Analogies:** picture (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
@@ -342,8 +338,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Know your audience
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980)
+#### [Know your audience](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -359,13 +354,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=16)** It's a lot like the Golden Rule, but with one key difference, "Treat other people as they'd like to be treated."
 >
-> **[0:24](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=24)** Now on paper, changing that one word may seem trivial.
+> **[0:24](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=24)** Now on paper, changing that one [[Microsoft Word|word]] may seem trivial.
 >
 > **[0:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=27)** But in practice, that difference is tremendous, especially when it comes to knowing your audience.
 >
 > **[0:33](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=33)** In my experience, the technical side of infosec is much much easier than the non-technical side.
 >
-> **[0:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=40)** One of the most striking examples from my career comes from when I was working with a group of server admins who were troubleshooting a performance issue on an internet-facing Windows Server.
+> **[0:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=40)** One of the most striking examples from my career comes from when I was working with a group of server admins who were troubleshooting a performance issue on an internet-facing [[Windows Server]].
 >
 > **[0:50](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=50)** Their proposed solution uninstalling antivirus.
 >
@@ -403,7 +398,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=145)** For one, how technical is your audience?
 >
-> **[2:29](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=149)** Office workers who spend all day in front of a computer keyboard are going to see things differently than employees working on the production floor, or in customer-facing roles.
+> **[2:29](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=149)** [[Microsoft Office|Office]] workers who spend all day in front of a computer keyboard are going to see things differently than employees working on the production floor, or in customer-facing roles.
 >
 > **[2:39](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=159)** I've had people threatened to quit their jobs if we made them start using a username and password.
 >
@@ -413,7 +408,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=174)** If your audience is technical, then it's not just okay to geek out, it's expected.
 >
-> **[2:59](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=179)** Develop want to talk code, server admins want to talk operating systems and virtualization, DBAs want to talk database queries, and network admins want to talk NetFlow.
+> **[2:59](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=179)** Develop want to talk code, server admins want to talk operating systems and virtualization, DBAs want to talk [[Database Queries]], and network admins want to talk NetFlow.
 >
 > **[3:11](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=191)** They don't just want to talk security.
 >
@@ -447,7 +442,7 @@ created: 2026-05-02
 >
 > **[4:31](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=271)** "Can you help me?"
 >
-> **[4:33](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=273)** whether you're talking to an end user, an entry level sysadmin, a seasoned application security architect, or even the CEO, I guarantee that when you give someone a platform to explain their point of view, they'll be more than happy to oblige.
+> **[4:33](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=273)** whether you're talking to an end user, an entry level sysadmin, a seasoned [[Application Security]] architect, or even the CEO, I guarantee that when you give someone a platform to explain their point of view, they'll be more than happy to oblige.
 >
 > **[4:49](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/know-your-audience?u=76281980&t=289)** Your job at that point is to just listen.
 >
@@ -455,15 +450,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), next (3), [[Troubleshooting]] (2), [[Microsoft Word|Word]] (1), career (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1), [[Windows Server]] (1), [[Microsoft Office|Office]] (1), [[Database Queries]] (1), [[Application Security]] (1)
 > **Env Vars:** cfo (1), ceo (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
 
-#### Engage the InfoSec community
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980)
+#### [Engage the InfoSec community](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -477,7 +471,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=37)** Wasn't it Einstein who said keep in mind we can't solve our problems with the same thinking we used when we created them?
 >
-> **[0:45](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=45)** You can really round out your infosec soft skills when you talk to other pros about their successes and challenges.
+> **[0:45](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=45)** You can really round out your infosec [[Soft Skills]] when you talk to other pros about their successes and challenges.
 >
 > **[0:52](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=52)** Fortunately, the infosec community is more than willing to talk.
 >
@@ -515,7 +509,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=165)** In addition to these three orgs, chances are you'll find even more groups if you keep digging.
 >
-> **[2:51](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=171)** OWASP chapters are pretty popular among the dev community, focusing on securing web applications, and you could hit up an Infragard meeting if you want the FBI's perspective, pending a background check.
+> **[2:51](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=171)** [[OWASP]] chapters are pretty popular among the dev community, focusing on securing web applications, and you could hit up an Infragard meeting if you want the FBI's perspective, pending a background check.
 >
 > **[3:03](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=183)** I'm entirely serious.
 >
@@ -557,11 +551,11 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=267)** You can also engage the community online.
 >
-> **[4:30](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=270)** Between LinkedIn and Twitter, you'll find more people who want to talk to you about infosec than you ever thought you would.
+> **[4:30](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/engage-the-infosec-community?u=76281980&t=270)** Between [[LinkedIn]] and Twitter, you'll find more people who want to talk to you about infosec than you ever thought you would.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), web (2), [[Soft Skills]] (1), [[OWASP]] (1), hit (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (1), [[OWASP]] (1), [[LinkedIn]] (1)
 > **Env Vars:** isaca (3), issa (2), isc (2), cissp (1), owasp (1)
 > **CLI Commands:** find (6)
 > **URLs:** [meetup.com](https://meetup.com) (1)
@@ -569,8 +563,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - when (1)
 
-#### Understanding human behavior
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980)
+#### [Understanding human behavior](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -590,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=40)** What motivates them may be different than what motivates you.
 >
-> **[0:44](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=44)** Consider your security awareness program for a second, what motivators have you built into that program?
+> **[0:44](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=44)** Consider your [[Security Awareness]] program for a second, what motivators have you built into that program?
 >
 > **[0:50](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=50)** Gift Cards?
 >
@@ -608,7 +601,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=67)** Some people are motivated by financial incentives.
 >
-> **[1:10](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=70)** If you ask them to keep an eye out for phishing emails, you'll likely get an eye roll in reply.
+> **[1:10](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=70)** If you ask them to keep an eye out for [[Phishing]] emails, you'll likely get an eye roll in reply.
 >
 > **[1:16](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/understanding-human-behavior?u=76281980&t=76)** Tell them that the first person to report a real phishing email will get a $25 gift card, and see how quickly they forward each and every suspicious email, in hopes of scoring that prize.
 >
@@ -652,7 +645,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Phishing]] (6), [[Security]] (5), next (3)
+> **Frameworks & Libraries:** [[Phishing]] (6), [[Security Awareness]] (2)
 > **CLI Commands:** make (1)
 > **UI Navigation:** checkbox (1)
 > **Speakers:** - everyone (1)
@@ -662,8 +655,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Do your research
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980)
+#### [Do your research](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -725,9 +717,9 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=156)** Analyst groups like Gartner, Forrester, and IDC have hundreds if not thousands of reports and white papers to help you make sense of the vendor's space.
 >
-> **[2:48](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=168)** If you're looking for context and analytics, you can find it in resources like the Verizon Data Breach Investigations Report and the Privacy Rights Clearinghouse Chronology of Data Breaches.
+> **[2:48](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=168)** If you're looking for context and analytics, you can find it in resources like the Verizon Data Breach Investigations Report and the [[Privacy]] Rights Clearinghouse Chronology of Data Breaches.
 >
-> **[2:59](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=179)** Frameworks like ISO 27001 and NIST 853 provide you with more information on security controls then you'll know what to do with.
+> **[2:59](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=179)** Frameworks like ISO 27001 and [[NIST]] 853 provide you with more information on security controls then you'll know what to do with.
 >
 > **[3:10](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/do-your-research?u=76281980&t=190)** But when it comes to researching which fix is right for your organization, that's on you.
 >
@@ -787,7 +779,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), leadership (6), data (3), product (2), next (1)
+> **Frameworks & Libraries:** [[Privacy]] (1), [[NIST]] (1)
 > **Env Vars:** cfo (2), hipaa (1), gdpr (1), idc (1), iso (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** imagine (1), for instance (1), picture (1)
@@ -795,8 +787,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Speakers:** - security (1)
 
-#### Analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980)
+#### [Analysis](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -814,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980&t=44)** They brought me in to perform forensics.
 >
-> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980&t=46)** The goal was to prove to the office of civil rights that no healthcare data was stolen during the attack.
+> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980&t=46)** The goal was to prove to the [[Microsoft Office|office]] of civil rights that no healthcare data was stolen during the attack.
 >
 > **[0:52](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/analysis?u=76281980&t=52)** The problem was that they waited four weeks to bring me in, four weeks.
 >
@@ -900,14 +891,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Security]] (4), business (3), hit (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Env Vars:** hipaa (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - remember (1)
 
-#### Writing and reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980)
+#### [Writing and reporting](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -917,7 +907,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=14)** Take this example from an actual pen test I ran a few years back.
 >
-> **[0:18](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=18)** During one of my pen tests, I routed web traffic from a PBX admin app through a local proxy, exploiting a command injection vulnerability so I could cat the /etc/passwd file on an internal Linux box.
+> **[0:18](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=18)** During one of my pen tests, I routed web traffic from a PBX admin app through a local proxy, exploiting a command injection vulnerability so I could cat the /etc/passwd file on an internal [[Linux]] box.
 >
 > **[0:31](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=31)** Now, if you're technical, you might dig that explanation.
 >
@@ -969,7 +959,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=159)** I speak at security conferences on a pretty regular basis, and I've seen presentations that are so packed with text that you can't read them from the back of the room.
 >
-> **[2:49](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=169)** I've also seen presentations that are all pictures without a word in sight.
+> **[2:49](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=169)** I've also seen presentations that are all pictures without a [[Microsoft Word|word]] in sight.
 >
 > **[2:53](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/writing-and-reporting?u=76281980&t=173)** So which should you use the next time you're preparing a group presentation like that, whether it's in a team meeting or at an international conference?
 >
@@ -1009,7 +999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), next (3), web (1), traffic (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Linux]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** pbx (2)
 > **CLI Commands:** cat (1)
 > **Analogies:** imagine (1)
@@ -1021,8 +1011,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Curiosity is encouraged
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980)
+#### [Curiosity is encouraged](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1054,13 +1043,13 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=79)** Because even though they went through the online security training, we never tested their knowledge, why?
 >
-> **[1:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=87)** Because we don't have the knowledge or tools needed to run a phishing simulation, why?
+> **[1:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=87)** Because we don't have the knowledge or tools needed to run a [[Phishing]] [[Simulation]], why?
 >
 > **[1:34](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=94)** Because the leadership doesn't see the value in paying for a phishing simulation service.
 >
 > **[1:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=100)** In that example, our five whys followed the human side of the issue.
 >
-> **[1:44](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=104)** Ultimately, identifying a story we could take to leadership to help strengthen their understanding of why we do what we do on our security awareness program.
+> **[1:44](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=104)** Ultimately, identifying a story we could take to leadership to help strengthen their understanding of why we do what we do on our [[Security Awareness]] program.
 >
 > **[1:53](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/curiosity-is-encouraged?u=76281980&t=113)** Telling people to not click on links isn't enough.
 >
@@ -1100,13 +1089,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Phishing]] (3), [[Simulation]] (3), leadership (2), business (2)
+> **Frameworks & Libraries:** [[Phishing]] (3), [[Simulation]] (3), [[Security Awareness]] (1)
 > **CLI Commands:** make (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - curiosity (1)
 
-#### Problem-solving
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980)
+#### [Problem-solving](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,7 +1104,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=14)** I'm just really glad he's on our side.
 >
-> **[0:17](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=17)** Mike once told me that when he's interviewing pen testers, he'll pull out a picture of a door and lay it out on the table between them.
+> **[0:17](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=17)** Mike once told me that when he's [[Interviewing]] pen testers, he'll pull out a picture of a door and lay it out on the table between them.
 >
 > **[0:25](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=25)** "I want what's on the other side of the door," he'll tell them, "How are you going to get it for me?"
 >
@@ -1128,7 +1116,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=50)** That's why creative thinking is such a critical soft skill.
 >
-> **[0:54](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=54)** Take phishing attacks for example.
+> **[0:54](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=54)** Take [[Phishing]] attacks for example.
 >
 > **[0:56](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=56)** If we knew how to consistently get users to stop clicking on malicious links, then attackers wouldn't keep sending them.
 >
@@ -1168,7 +1156,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=161)** Step three is to break your bigger problem into smaller problems.
 >
-> **[2:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=166)** Take security awareness training, for example, protecting people from social engineering attacks can be pretty daunting.
+> **[2:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=166)** Take [[Security Awareness]] training, for example, protecting people from social engineering attacks can be pretty daunting.
 >
 > **[2:54](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/problem-solving?u=76281980&t=174)** When attackers are using email messages, text messages, phone calls, USB drives, even in-person visits.
 >
@@ -1206,14 +1194,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), [[Phishing]] (2), [[Interviewing]] (1), [[Engineering]] (1), game (1)
+> **Frameworks & Libraries:** [[Phishing]] (2), [[Security Awareness]] (2), [[Interviewing]] (1)
 > **Env Vars:** ctf (4), defcon (1), dc614 (1), usb (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** for example (2), picture (1)
 > **Speakers:** - i (1)
 
-#### Be creative
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980)
+#### [Be creative](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1221,7 +1208,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=5)** Turning it off?
 >
-> **[0:06](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=6)** That would definitely protect it from attacks like phishing emails and ransomware, but that wouldn't protect it from theft.
+> **[0:06](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=6)** That would definitely protect it from attacks like [[Phishing]] emails and ransomware, but that wouldn't protect it from theft.
 >
 > **[0:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=14)** What about dropping it in a hard drive shredder?
 >
@@ -1341,19 +1328,18 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=321)** These are real problems facing real end users who would love for you to apply some creative problem-solving toward helping them out.
 >
-> **[5:29](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=329)** If you want to dig deeper into how to build your creative muscles, check out Stefan Mumaw's Creativity Bootcamp here on LinkedIn.
+> **[5:29](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-creative?u=76281980&t=329)** If you want to dig deeper into how to build your creative muscles, check out Stefan Mumaw's Creativity Bootcamp here on [[LinkedIn]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), data (3), next (2), [[Phishing]] (1), business (1)
+> **Frameworks & Libraries:** [[Phishing]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Code Identifiers:** ipod (2)
 > **Definitions:** is a  (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - what (1)
 
-#### Teaching and public speaking
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/teaching-and-public-speaking?u=76281980)
+#### [Teaching and public speaking](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/teaching-and-public-speaking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1477,7 +1463,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), next (2), teams (1), business (1), [[Security]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** issa (1)
 > **Definitions:** is a  (1)
@@ -1489,8 +1474,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The language of risk
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980)
+#### [The language of risk](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1508,7 +1492,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=42)** When would you use unencrypted Wi-Fi?
 >
-> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=46)** During my pen test, I've used tools that monitor unencrypted Wi-Fi for usernames, passwords, and session tokens.
+> **[0:46](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=46)** During my pen test, I've used tools that monitor unencrypted Wi-Fi for usernames, passwords, and session [[Tokens]].
 >
 > **[0:54](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=54)** I've used tools that let me redirect users to websites I controlled.
 >
@@ -1540,11 +1524,11 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=130)** They need to make sure that they've got enough money coming in to pay everyone's paychecks.
 >
-> **[2:15](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=135)** They need to drive the development of innovative new products and services that will keep your company one step ahead of the competition.
+> **[2:15](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=135)** They need to drive the development of innovative new [[Microsoft Products|products]] and services that will keep your company one step ahead of the competition.
 >
 > **[2:24](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=144)** They don't just understand risk.
 >
-> **[2:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=147)** They live it every single day they come into the office.
+> **[2:27](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=147)** They live it every single day they come into the [[Microsoft Office|office]].
 >
 > **[2:31](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/the-language-of-risk?u=76281980&t=151)** Managers and employees also live and breathe risk, but it tends to be more personal.
 >
@@ -1568,15 +1552,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), traffic (2), vpn (2), [[Tokens]] (1), hit (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (3)
 > **Env Vars:** vpn (2)
 > **Definitions:** is a  (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - one (1)
 
-#### Think strategically
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980)
+#### [Think strategically](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1604,7 +1587,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980&t=56)** But before you jump into action, it's important that you take time to think strategically as well.
 >
-> **[1:02](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980&t=62)** Tactical thinking and strategic thinking are two sides of the same coin.
+> **[1:02](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980&t=62)** Tactical thinking and [[Strategic Thinking]] are two sides of the same coin.
 >
 > **[1:07](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/think-strategically?u=76281980&t=67)** Tactical thinking is very focused on getting things done.
 >
@@ -1710,14 +1693,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Strategic Thinking]] (5), next (5), management (2), career (1), hit (1)
+> **Frameworks & Libraries:** [[Strategic Thinking]] (5)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1)
 > **Speakers:** - every (1)
 
-#### Standards, frameworks, and regulations
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980)
+#### [Standards, frameworks, and regulations](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1769,7 +1751,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=134)** You can pick and choose which controls to build into your standards or you can try to do everything in that list.
 >
-> **[2:22](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=142)** Some of the popular security frameworks are the ISO 27000 series, the NIST Cybersecurity Framework, and COBIT from ISACA.
+> **[2:22](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=142)** Some of the popular security frameworks are the ISO 27000 series, the [[NIST]] [[Cybersecurity]] Framework, and COBIT from ISACA.
 >
 > **[2:32](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=152)** Regulations are a lot like frameworks with one pretty significant difference.
 >
@@ -1799,7 +1781,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=217)** Here's what worked for me.
 >
-> **[3:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=220)** When I was building an info sec program at a large retailer, I was told we had to comply with PCI, the Payment Card Industry's Data Security Standard.
+> **[3:40](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=220)** When I was building an info sec program at a large retailer, I was told we had to comply with PCI, the Payment Card Industry's [[Data Security]] Standard.
 >
 > **[3:50](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/standards-frameworks-and-regulations?u=76281980&t=230)** I'm not the biggest fan of people telling me I have to do something.
 >
@@ -1837,14 +1819,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[NIST]] (1), [[Cybersecurity]] (1), business (1), data (1)
+> **Frameworks & Libraries:** [[NIST]] (1), [[Cybersecurity]] (1), [[Data Security]] (1)
 > **Env Vars:** iso (3), pci (2), nist (1), cobit (1), isaca (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (1), picture (1), kind of like (1)
 > **Speakers:** - security (1)
 
-#### Be a leader
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980)
+#### [Be a leader](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1934,13 +1915,13 @@ created: 2026-05-02
 >
 > **[3:47](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=227)** You could volunteer to take on more responsibility at work.
 >
-> **[3:51](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=231)** That could vary from administration of a security tool, to researching a new security technology, to helping out with security awareness training.
+> **[3:51](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=231)** That could vary from administration of a security tool, to researching a new security technology, to helping out with [[Security Awareness]] training.
 >
 > **[4:02](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=242)** You could put together a group that meets on a regular basis to discuss security challenges.
 >
 > **[4:08](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=248)** Pick a date, a time, and a coffee shop, and create an event on [meetup.com](https://meetup.com).
 >
-> **[4:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=254)** Share the event on LinkedIn, and invite your peers to attend.
+> **[4:14](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=254)** Share the event on [[LinkedIn]], and invite your peers to attend.
 >
 > **[4:18](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/be-a-leader?u=76281980&t=258)** Better yet, do all three.
 >
@@ -1948,7 +1929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (8), leadership (4), web (1), business (1), career (1)
+> **Frameworks & Libraries:** [[Security Awareness]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [meetup.com](https://meetup.com) (1)
 > **Definitions:** is a  (1)
@@ -1959,12 +1940,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=1)** - Thanks for working through this soft skills course with me.
+> **[0:01](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=1)** - Thanks for working through this [[Soft Skills]] course with me.
 >
 > **[0:04](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=4)** Developing my soft skills has enabled me to keep moving my infoset career in the direction I want it to go, and I really hope that this course helps you do the same.
 >
@@ -1992,19 +1972,19 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=60)** If it doesn't work, you can always course correct.
 >
-> **[1:04](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=64)** There's a ton of value in prototyping and trying out different solutions until you find the one that's right for you.
+> **[1:04](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=64)** There's a ton of value in [[Prototyping]] and trying out different solutions until you find the one that's right for you.
 >
 > **[1:11](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=71)** There are no failures, only learning experiences.
 >
-> **[1:16](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=76)** If you want to go deeper into a specific soft skill, check out some of the other courses here on LinkedIn Learning.
+> **[1:16](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=76)** If you want to go deeper into a specific soft skill, check out some of the other courses here on [[LinkedIn]] Learning.
 >
 > **[1:23](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=83)** Maybe you feel that your communication skills need some polish.
 >
-> **[1:28](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=88)** Annyce Davis has a course on effective technical communication that shares a lot of tools and techniques for making you a more effective technical communicator.
+> **[1:28](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=88)** Annyce Davis has a course on effective [[Technical Communication]] that shares a lot of tools and techniques for making you a more effective technical communicator.
 >
 > **[1:39](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=99)** Chris Croft has a popular course on problem solving techniques.
 >
-> **[1:43](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=103)** And Dorie Clark has a laundry list of courses on leadership and strategic thinking.
+> **[1:43](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=103)** And Dorie Clark has a laundry list of courses on leadership and [[Strategic Thinking]].
 >
 > **[1:49](https://www.linkedin.com/learning/soft-skills-for-information-security-professionals/next-steps?u=76281980&t=109)** If reading is your jam, check out Robert Greene's book, "Mastery."
 >
@@ -2022,7 +2002,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Soft Skills]] (5), career (1), [[Prototyping]] (1), [[LinkedIn]] (1), [[Technical Communication]] (1)
+> **Frameworks & Libraries:** [[Soft Skills]] (5), [[Prototyping]] (1), [[LinkedIn]] (1), [[Technical Communication]] (1), [[Strategic Thinking]] (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - thanks (1)
 

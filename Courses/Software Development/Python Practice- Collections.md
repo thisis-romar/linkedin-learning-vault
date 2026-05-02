@@ -63,16 +63,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Try your Python programming skills
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980)
+#### [Try your Python programming skills](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=0)** - [Narrator] Python is one of the most popular programming languages in the world.
+> **[0:00](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=0)** - [Narrator] [[Python (Programming Language)|Python]] is one of the most popular programming languages in the world.
 >
 > **[0:04](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=4)** Knowledge of Python opens the door to working with data, building applications, and solving problems with code that can run on many types of devices.
 >
-> **[0:12](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=12)** In this Code Challenge course, you can test your knowledge of Python collections to build your confidence working with data structures in the language.
+> **[0:12](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=12)** In this Code Challenge course, you can test your knowledge of Python collections to build your confidence working with [[Data Structures]] in the language.
 >
 > **[0:19](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=19)** I've put together five code challenges that cover the concepts around collections that you'll use when working in Python.
 >
@@ -82,28 +81,27 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=32)** And when you finish your solution to each challenge, take a look at my solution videos to see how I solve them.
 >
-> **[0:38](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=38)** I'm Scott Simpson, senior staff instructor at LinkedIn Learning.
+> **[0:38](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=38)** I'm Scott Simpson, senior staff instructor at [[LinkedIn]] Learning.
 >
 > **[0:41](https://www.linkedin.com/learning/python-practice-collections/try-your-python-programming-skills?u=76281980&t=41)** If you're ready to try out your Python collection skills, let's go.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), data (2), [[Programming]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Data Structures]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (5)
 > **Speakers:** - [narrator] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=0)** - [Speaker] In this Code Challenge course, I expect you to be familiar with using collections in Python.
+> **[0:00](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=0)** - [Speaker] In this Code Challenge course, I expect you to be familiar with using collections in [[Python (Programming Language)|Python]].
 >
 > **[0:05](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=5)** We'll work with lists, tuples, sets, and dictionaries and we'll use some flow control and conditional statements too.
 >
 > **[0:12](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=12)** The challenges start out quite basic and become more involved as the course moves on.
 >
-> **[0:16](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=16)** If you need to refresh your Python knowledge, take a look at these courses in the LinkedIn Learning Library.
+> **[0:16](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=16)** If you need to refresh your Python knowledge, take a look at these courses in the [[LinkedIn]] Learning Library.
 >
 > **[0:21](https://www.linkedin.com/learning/python-practice-collections/what-you-should-know?u=76281980&t=21)** To work on these challenges, you don't need to install any separate software.
 >
@@ -113,14 +111,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (2)
 > **CLI Commands:** python (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - [speaker] (1)
 
-#### Exploring the Lab environment
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980)
+#### [Exploring the Lab environment](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,7 +127,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980&t=14)** These challenges are hosted by Coder Pad and they appear in the same area of the course page where you watch the course's videos.
 >
-> **[0:20](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges but you can use the LinkedIn Learning mobile app if you prefer.
+> **[0:20](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980&t=20)** We recommend using a desktop browser for the best experience with code challenges but you can use the [[LinkedIn]] Learning mobile app if you prefer.
 >
 > **[0:28](https://www.linkedin.com/learning/python-practice-collections/exploring-the-lab-environment?u=76281980&t=28)** The code challenge has four areas.
 >
@@ -176,7 +173,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Cross-References:** next video (1)
 > **Speakers:** - [instructor] (1)
 
@@ -185,14 +182,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Solution: Deduplicate and sort a list
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980)
+#### [Solution: Deduplicate and sort a list](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980&t=0)** - [Instructor] Here is how I solved this challenge.
 >
-> **[0:02](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980&t=2)** My solution uses two Python functions to transform the animals list.
+> **[0:02](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980&t=2)** My solution uses two [[Python (Programming Language)|Python]] functions to transform the animals list.
 >
 > **[0:06](https://www.linkedin.com/learning/python-practice-collections/solution-1-deduplicate-and-sort-a-list?u=76281980&t=6)** Working from the inside out here, I'm using the set function to create a new set from the animals list.
 >
@@ -220,14 +216,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), data (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1), is called (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: Modify a tuple
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980)
+#### [Solution: Modify a tuple](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -245,7 +240,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980&t=44)** And because the first part over here contains the values up to where I wanted this item to be, this item will be in the correct place.
 >
-> **[0:51](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980&t=51)** After this, I add the rest of the original values here.
+> **[0:51](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980&t=51)** After this, I add the [[Representational State Transfer (REST)|rest]] of the original values here.
 >
 > **[0:54](https://www.linkedin.com/learning/python-practice-collections/solution-2-modify-a-tuple?u=76281980&t=54)** This time starting at the index running through the end of the collection.
 >
@@ -269,8 +264,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: At the bakery
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980)
+#### [Solution: At the bakery](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -292,7 +286,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980&t=38)** So we'll use the list, which is the value component of each key pair and work with each set of values for flavor and price as we iterate through the dictionary.
 >
-> **[0:48](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980&t=48)** I'll use an F string to insert each of my variables into a formatted string with the word cake, a dash and a currency symbol.
+> **[0:48](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980&t=48)** I'll use an F string to insert each of my variables into a formatted string with the [[Microsoft Word|word]] cake, a dash and a currency symbol.
 >
 > **[0:54](https://www.linkedin.com/learning/python-practice-collections/solution-3-at-the-bakery?u=76281980&t=54)** That makes each output string match the format the challenge asked for.
 >
@@ -323,8 +317,7 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [speaker] (1)
 
-#### Solution: Who won?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-4-who-won?u=76281980)
+#### [Solution: Who won?](https://www.linkedin.com/learning/python-practice-collections/solution-4-who-won?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -357,8 +350,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Solution: What's that taste like?
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/solution-5-what-s-that-taste-like?u=76281980)
+#### [Solution: What's that taste like?](https://www.linkedin.com/learning/python-practice-collections/solution-5-what-s-that-taste-like?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +384,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
@@ -401,22 +392,21 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=0)** - [Scott] If you were able to solve these challenges, congratulations.
 >
-> **[0:03](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of Python and come back and try again.
+> **[0:03](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=3)** And if not, take some time to refresh your knowledge of [[Python (Programming Language)|Python]] and come back and try again.
 >
-> **[0:08](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=8)** If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code challenge courses here on LinkedIn Learning.
+> **[0:08](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=8)** If you're ready to move on and solve more advanced challenges, take a look at our other interactive Python Code challenge courses here on [[LinkedIn]] Learning.
 >
 > **[0:15](https://www.linkedin.com/learning/python-practice-collections/next-steps?u=76281980&t=15)** See you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** python (2)
 > **Speakers:** - [scott] (1)
 

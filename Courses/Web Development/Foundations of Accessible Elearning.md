@@ -67,12 +67,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create training that's accessible to all
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
+#### [Create training that's accessible to all](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=0)** - [Instructor] Our world is changing quickly, making the need for lifelong learning more important than ever.
+> **[0:00](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=0)** - [Instructor] Our world is changing quickly, making the need for [[Lifelong Learning]] more important than ever.
 >
 > **[0:06](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=6)** When creating learning resources or opportunities, it's critical that you consider accessibility.
 >
@@ -80,7 +79,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=18)** Not only is making sure that everyone can have access to your content the right thing to do, but in many situations, you're legally required to do so.
 >
-> **[0:26](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=26)** I'm Oliver Schinkten, Staff Instructor at LinkedIn Learning.
+> **[0:26](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=26)** I'm Oliver Schinkten, Staff Instructor at [[LinkedIn]] Learning.
 >
 > **[0:29](https://www.linkedin.com/learning/foundations-of-accessible-elearning/create-training-that-s-accessible-to-all?u=76281980&t=29)** And in this short course, we'll go over the foundations of creating accessible learning.
 >
@@ -92,8 +91,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Defining accessible learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/defining-accessible-learning?u=76281980)
+#### [Defining accessible learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/defining-accessible-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -153,8 +151,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Expectations for providing accommodations
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
+#### [Expectations for providing accommodations](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -200,7 +197,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980&t=123)** Not doing so can result in a lawsuit.
 >
-> **[2:06](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980&t=126)** Recently, there have been an increasing number of lawsuits regarding digital accessibility for the websites of private organizations.
+> **[2:06](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980&t=126)** Recently, there have been an increasing number of lawsuits regarding [[Digital Accessibility]] for the websites of private organizations.
 >
 > **[2:14](https://www.linkedin.com/learning/foundations-of-accessible-elearning/expectations-for-providing-accommodations?u=76281980&t=134)** Instead of asking, do I have to do this, it will be much easier to start asking, how do I start doing this?
 >
@@ -215,8 +212,7 @@ created: 2026-05-02
 > **Prerequisites:** required to (3)
 > **Speakers:** - [instructor] (1)
 
-#### Web Content Accessibility Guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/web-content-accessibility-guidelines?u=76281980)
+#### [Web Content Accessibility Guidelines](https://www.linkedin.com/learning/foundations-of-accessible-elearning/web-content-accessibility-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -270,7 +266,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), next (1)
 > **Env Vars:** w3c (2), wcag (2), url (1)
 > **UI Navigation:** click on (3), scroll down (1)
 > **Definitions:** is a  (2), known as (1)
@@ -278,9 +273,9 @@ created: 2026-05-02
 > **Versions:** version 2 (2)
 > **Documentation:** w3c (2)
 > **URLs:** [w3.org](https://w3.org) (1)
+> **Speakers:** - [instructor] (1)
 
-#### Perceivable, operable, understandable, and robust
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/perceivable-operable-understandable-and-robust?u=76281980)
+#### [Perceivable, operable, understandable, and robust](https://www.linkedin.com/learning/foundations-of-accessible-elearning/perceivable-operable-understandable-and-robust?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,15 +337,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), web (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common accessibility issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980)
+#### [Common accessibility issues](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +365,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=43)** And that's why it's critical to add captions and create transcripts so that people who are unable to hear can follow along with a video.
 >
-> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=52)** Here on LinkedIn learning, I do have the ability to go to the bottom and click on CC, which is for closed captions.
+> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=52)** Here on [[LinkedIn]] learning, I do have the ability to go to the bottom and click on CC, which is for closed captions.
 >
 > **[0:58](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=58)** When I do this, it adds captions down here at the bottom.
 >
@@ -418,7 +411,7 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=157)** The only reason that it's different is if I'm using a screen reader that needs to read the content for me to let me know what it is, once it gets here, it will tell me, click on this link.
 >
-> **[2:48](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=168)** If I do advance to this link, it will say that it's on a link and then read https//docs.[google.com/presentation](https://google.com/presentation).
+> **[2:48](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=168)** If I do advance to this link, it will say that it's on a link and then read https//docs.[[[Google]].com/presentation](https://google.com/presentation).
 >
 > **[2:59](https://www.linkedin.com/learning/foundations-of-accessible-elearning/common-accessibility-issues?u=76281980&t=179)** It will be extremely annoying.
 >
@@ -506,7 +499,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[LinkedIn]] (2), next (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Google]] (1)
 > **UI Navigation:** click on (4), go to (1), right-click (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (4), in other words (1)
@@ -520,8 +513,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Vision
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
+#### [Vision](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +541,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=49)** I recommend learning more about screen readers and how they work.
 >
-> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=52)** You can learn more about this stuff in some of the courses in our library, including UX Foundations for Accessibility and [[Accessibility for Web Design]].
+> **[0:52](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=52)** You can learn more about this stuff in some of the courses in our library, including UX Foundations for Accessibility and [[Accessibility for [[Web Design]]]].
 >
 > **[1:02](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=62)** Screen readers help someone who is unable to see access information online.
 >
@@ -569,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=94)** Web content in chapter four, working with text.
 >
-> **[1:38](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=98)** Web content, heading level one, chapter four, working with text, in heading, text is found in many places on your computer, such as in windows and dialogues.
+> **[1:38](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=98)** Web content, heading level one, chapter four, working with text, in heading, text is found in many places on your computer, such as in [[Windows]] and dialogues.
 >
 > **[1:47](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=107)** In content areas like webpages and help files.
 >
@@ -595,7 +587,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=150)** Using an easy to read font, as well as high contrast between colors.
 >
-> **[2:35](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=155)** Let's take a look at some Google slides and documents that I created to illustrate some of these.
+> **[2:35](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=155)** Let's take a look at some [[Google]] slides and documents that I created to illustrate some of these.
 >
 > **[2:41](https://www.linkedin.com/learning/foundations-of-accessible-elearning/vision?u=76281980&t=161)** I'm not even going to go into the presentation, but we'll be able to see what's happening here.
 >
@@ -693,15 +685,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (3), ux (1), [[Windows]] (1), [[Google]] (1), next (1)
+> **Frameworks & Libraries:** [[Web Design]] (1), [[Windows]] (1), [[Google]] (1)
 > **CLI Commands:** make (14), find (1)
 > **Speakers:** - [instructor] (2), - [computer] (1)
 > **Analogies:** such as (2)
 > **Cross-References:** go back to (1)
 > **Best Practices:** make sure to (1)
 
-#### Hearing
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980)
+#### [Hearing](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -741,7 +732,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980&t=90)** Captions and transcripts are probably the two most important accommodations related to hearing.
 >
-> **[1:36](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980&t=96)** Before, we took a look at this LinkedIn Learning video, and I had it muted so when we played it, we couldn't hear anything.
+> **[1:36](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980&t=96)** Before, we took a look at this [[LinkedIn]] Learning video, and I had it muted so when we played it, we couldn't hear anything.
 >
 > **[1:42](https://www.linkedin.com/learning/foundations-of-accessible-elearning/hearing?u=76281980&t=102)** Hover here, we can click on Closed Captions and now it will let us know what is being said.
 >
@@ -765,8 +756,7 @@ created: 2026-05-02
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Motor function
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/motor-function?u=76281980)
+#### [Motor function](https://www.linkedin.com/learning/foundations-of-accessible-elearning/motor-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -787,8 +777,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Cognitive function
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/cognitive-function?u=76281980)
+#### [Cognitive function](https://www.linkedin.com/learning/foundations-of-accessible-elearning/cognitive-function?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -822,14 +811,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** strengths (1)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Language
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/language?u=76281980)
+#### [Language](https://www.linkedin.com/learning/foundations-of-accessible-elearning/language?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -875,8 +862,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Digital access
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980)
+#### [Digital access](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -894,7 +880,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980&t=37)** The perfect solution would be to make sure that everyone has internet access and a device to be able to access it.
 >
-> **[0:44](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980&t=44)** If this is impossible, however, create alternative forms of the learning resources.
+> **[0:44](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980&t=44)** If this is impossible, however, create alternative [[Forms]] of the learning resources.
 >
 > **[0:48](https://www.linkedin.com/learning/foundations-of-accessible-elearning/digital-access?u=76281980&t=48)** Consider having hard copies of the learning content for people to use, provide downloadable content that learners can view offline if they don't have internet access.
 >
@@ -924,8 +910,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using learning management systems and other tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
+#### [Using learning management systems and other tools](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -945,15 +930,15 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=27)** And moving forward, I think that most tools will include this, but not yet.
 >
-> **[0:31](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=31)** A couple of examples of tools that do incorporate accessibility features include Microsoft Word and Microsoft PowerPoint.
+> **[0:31](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=31)** A couple of examples of tools that do incorporate accessibility features include [[Microsoft Word]] and [[Microsoft PowerPoint]].
 >
-> **[0:40](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=40)** Right now, I'm inside of a support page for Microsoft.
+> **[0:40](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=40)** Right now, I'm inside of a support page for [[Microsoft]].
 >
-> **[0:43](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=43)** And it's telling me about the accessibility support for Word.
+> **[0:43](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=43)** And it's telling me about the accessibility support for [[Microsoft Word|Word]].
 >
 > **[0:46](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=46)** If I scroll down, I can select my device and then you'll see that they put a ton of time into these accessibility features and letting you know what they are and how to use them.
 >
-> **[0:58](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=58)** If I switch up here at the top, it's the same for PowerPoint.
+> **[0:58](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=58)** If I switch up here at the top, it's the same for [[Microsoft PowerPoint|PowerPoint]].
 >
 > **[1:01](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-learning-management-systems-and-other-tools?u=76281980&t=61)** I can select my device and then they have all of these resources down below.
 >
@@ -1103,7 +1088,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (6), [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Microsoft PowerPoint|Powerpoint]] (4), [[Microsoft Word]] (3), [[Microsoft Word|Word]] (2), [[Microsoft PowerPoint]] (1), [[Microsoft]] (1)
 > **UI Navigation:** click on (5), scroll down (1), navigate to (1)
 > **CLI Commands:** make (3), find (1)
 > **Definitions:** is a  (4)
@@ -1111,8 +1096,7 @@ created: 2026-05-02
 > **Env Vars:** lms (1)
 > **Speakers:** - [instructor] (1)
 
-#### Structuring content for screen readers
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980)
+#### [Structuring content for screen readers](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1140,7 +1124,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=42)** So here we'll do that.
 >
-> **[0:43](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=43)** - [Siri] Jacksfile2.html, tab, science selected, life science, the study of living things, physical science, the study of Earth science, the study of the fizz, math, algebra, the study of geometry. You are.
+> **[0:43](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=43)** - [Siri] Jacksfile2.[[HTML]], tab, science selected, life science, the study of living things, physical science, the study of Earth science, the study of the fizz, math, algebra, the study of geometry. You are.
 >
 > **[0:58](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=58)** - [Instructor] So as you can see, that is pretty hard to navigate. It's telling you a bunch of words, but really doesn't give you any structure or doesn't really tell you how they're all interconnected.
 >
@@ -1156,7 +1140,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=105)** - [Instructor] So, there you can see that we were able to hear the structure of it by telling us when it was a heading level one, when it was a heading level two. And so on.
 >
-> **[1:56](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=116)** Now I'm going to switch over to Google documents here, which has a rich text editor that we can utilize.
+> **[1:56](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=116)** Now I'm going to switch over to [[Google]] documents here, which has a rich text editor that we can utilize.
 >
 > **[2:02](https://www.linkedin.com/learning/foundations-of-accessible-elearning/structuring-content-for-screen-readers?u=76281980&t=122)** Now, you'll notice here that if I were going to title this science, I could highlight that and I could make it bold. And I could do all of those things, but I'm still not formatting this so that it can be read easily by a screen reader.
 >
@@ -1178,7 +1162,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (1), [[HTML]] (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (1), [[Google]] (1)
 > **Speakers:** - [instructor] (4), - [siri] (3), - [screen (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (1), dropdown (1)
@@ -1186,8 +1170,7 @@ created: 2026-05-02
 > **URLs:** [w3.org](https://w3.org) (1)
 > **Definitions:** is a  (1)
 
-#### Adding captions and transcripts for video content
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980)
+#### [Adding captions and transcripts for video content](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1199,7 +1182,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980&t=16)** Transcripts can be great to follow along during or even to review after.
 >
-> **[0:21](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980&t=21)** Right now, I'm inside of LinkedIn Learning.
+> **[0:21](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980&t=21)** Right now, I'm inside of [[LinkedIn]] Learning.
 >
 > **[0:23](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-captions-and-transcripts-for-video-content?u=76281980&t=23)** And remember here that we can turn on or off the closed captions.
 >
@@ -1325,14 +1308,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** click on (3)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Adding alt text to images
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-alt-text-to-images?u=76281980)
+#### [Adding alt text to images](https://www.linkedin.com/learning/foundations-of-accessible-elearning/adding-alt-text-to-images?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1393,8 +1375,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), picture (1)
 > **Definitions:** stands for (1)
 
-#### Using real text links
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-real-text-links?u=76281980)
+#### [Using real text links](https://www.linkedin.com/learning/foundations-of-accessible-elearning/using-real-text-links?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1476,7 +1457,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), data (3), next (1)
 > **UI Navigation:** click on (3), go to (2)
 > **Speakers:** - [instructor] (3), - [automated (2)
 > **Env Vars:** url (3)
@@ -1488,8 +1468,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/foundations-of-accessible-elearning/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1547,7 +1526,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), web (1)
 > **CLI Commands:** make (6)
 > **Definitions:** is a  (2)
 > **URLs:** [w3.org](https://w3.org) (1)

@@ -69,8 +69,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leadership in tech: Promo
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
+#### [Leadership in tech: Promo](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -78,7 +77,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=6)** I had an amazing opportunity to bring in some of the leaders I've learned from across the valley throughout my career.
 >
-> **[0:12](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=12)** There's a lot of folks from internal to LinkedIn and a few external.
+> **[0:12](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=12)** There's a lot of folks from internal to [[LinkedIn]] and a few external.
 >
 > **[0:16](https://www.linkedin.com/learning/leadership-in-tech/leadership-in-tech-promo?u=76281980&t=16)** You'll be able to watch it on the feed on LinkedIn and LinkedIn Learning.
 >
@@ -88,7 +87,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), leadership (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3)
 > **Non-Speech:** (upbeat and pleasant rock music) (1)
 
 
@@ -96,8 +95,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Awareness, Synthesis, and Inspiration: Jeff Weiner
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)
+#### [Awareness, Synthesis, and Inspiration: Jeff Weiner](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -217,7 +215,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=228)** For me, the definition of leadership is the ability to inspire others to achieve shared objectives.
 >
-> **[3:53](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=233)** And inspiration is by far and away the most important word in that definition.
+> **[3:53](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=233)** And inspiration is by far and away the most important [[Microsoft Word|word]] in that definition.
 >
 > **[3:58](https://www.linkedin.com/learning/leadership-in-tech/awareness-synthesis-and-inspiration-jeff-weiner?u=76281980&t=238)** And to me, inspiration is what separates leaders from managers.
 >
@@ -279,19 +277,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), strengths (2), business (2), leadership (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **Speakers:** - [erica] (7), - and (3), - i (2), - no (2), - you (2)
 > **CLI Commands:** make (1), find (1)
 > **Analogies:** picture (1), it's like (1)
 > **Env Vars:** ceo (1)
 > **Warnings:** be aware (1)
 
-#### Building diverse teams: Mohak Shroff
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980)
+#### [Building diverse teams: Mohak Shroff](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=0)** - What's cool about Mohak Shroff is that he started here at LinkedIn as an engineer, and I've learned so much from him throughout the years.
+> **[0:00](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=0)** - What's cool about Mohak Shroff is that he started here at [[LinkedIn]] as an engineer, and I've learned so much from him throughout the years.
 >
 > **[0:09](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=9)** He's helped me grow my career, and truly cares about the diversity of thought and representation of multiple perspectives.
 >
@@ -349,13 +346,13 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=173)** - And magic, here they are, spectacular.
 >
-> **[2:57](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=177)** - Does diversity impact decision-making and execution?
+> **[2:57](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=177)** - Does diversity impact [[Decision-Making]] and execution?
 >
 > **[3:01](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=181)** Raise the bar by empowering others to share diverse ideas.
 >
 > **[3:05](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=185)** Can you explain to me, I know how it feels, I would love to know from your lens of where you think the conversation has changed here at LinkedIn.
 >
-> **[3:12](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=192)** - So first off, a testament to the importance of building diverse, inclusive teams is the topics around diversity and inclusion actually start to rise when we had diverse and inclusive leadership.
+> **[3:12](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=192)** - So first off, a testament to the importance of building diverse, inclusive teams is the topics around [[Diversity and Inclusion]] actually start to rise when we had diverse and [[Inclusive Leadership]].
 >
 > **[3:26](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=206)** So I remember back to when you joined the team and started pounding your fist on the table very nicely.
 >
@@ -379,7 +376,7 @@ created: 2026-05-02
 >
 > **[4:27](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=267)** And so it starts to get really, really loud.
 >
-> **[4:30](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=270)** This woman essentially never had a chance to get her voice, you know, just get a word in.
+> **[4:30](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=270)** This woman essentially never had a chance to get her voice, you know, just get a [[Microsoft Word|word]] in.
 >
 > **[4:34](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=274)** - Yeah, try and intercept into that.
 >
@@ -387,7 +384,7 @@ created: 2026-05-02
 >
 > **[4:37](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=277)** And so she was kind of leaned back, sort of the classic picture of disengagement, leaned back, and the leader in the room, incredibly thoughtful, mindful, inclusive individual, in this act of inclusion, leaned in, almost literally leaned in and said, do you have anything to add?
 >
-> **[4:55](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=295)** Essentially quieted the rest of us down and asked her if she had anything to add.
+> **[4:55](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=295)** Essentially quieted the [[Representational State Transfer (REST)|rest]] of us down and asked her if she had anything to add.
 >
 > **[5:00](https://www.linkedin.com/learning/leadership-in-tech/building-diverse-teams-mohak-shroff?u=76281980&t=300)** She said her piece, it was about two or three minutes of a point she was trying to make, and in this hour-long meeting the only valuable thing that was said was by her in those two or three minutes.
 >
@@ -427,7 +424,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), teams (2), career (1), product (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Decision-Making]] (1), [[Diversity and Inclusion]] (1), [[Inclusive Leadership]] (1), [[Microsoft Word|Word]] (1)
 > **Speakers:** - so (2), - and (2), - yeah (2), - it (2), - yes (2)
 > **CLI Commands:** make (2)
 > **Analogies:** picture (1), imagine (1)
@@ -435,8 +432,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Non-Speech:** (soft music) (1)
 
-#### Authentic leadership: Kathryn Koehler
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/authentic-leadership-kathryn-koehler?u=76281980)
+#### [Authentic leadership: Kathryn Koehler](https://www.linkedin.com/learning/leadership-in-tech/authentic-leadership-kathryn-koehler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -566,20 +562,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (1), power (1), management (1), leadership (1), strengths (1)
 > **Speakers:** - no (3), - yeah (3), - and (2), - what (2), - in (1)
 > **CLI Commands:** make (12), find (1)
 > **Definitions:** is a  (5)
 > **Non-Speech:** (upbeat music) (4)
 
-#### Beyond coding careers in tech: Igor Perisic
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980)
+#### [Beyond coding careers in tech: Igor Perisic](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:02](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=2)** - Igor Perisic is the Chief Data Officer at LinkedIn.
+> **[0:02](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=2)** - Igor Perisic is the Chief Data Officer at [[LinkedIn]].
 >
-> **[0:05](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=5)** The data products created by his team power the personalized experiences for hundreds of millions of LinkedIn members around the world.
+> **[0:05](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=5)** The data [[Microsoft Products|products]] created by his team power the personalized experiences for hundreds of millions of LinkedIn members around the world.
 >
 > **[0:13](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=13)** Not only is he one of the top executives, he's an amazing mentor, who's an awesome listener and helps elevate people's voices so everyone is heard.
 >
@@ -669,7 +663,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=138)** - When you have a foundation in technology your career can take many paths.
 >
-> **[2:24](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=144)** Your background is statistics.
+> **[2:24](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=144)** Your background is [[Statistics]].
 >
 > **[2:26](https://www.linkedin.com/learning/leadership-in-tech/beyond-coding-careers-in-tech-igor-perisic?u=76281980&t=146)** - It is indeed.
 >
@@ -799,15 +793,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[LinkedIn]] (3), career (2), [[Microsoft Products|Products]] (1), power (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Products|Products]] (1), [[Statistics]] (1)
 > **Speakers:** - and (5), - you (4), - i (4), - how (2), - it (2)
 > **Analogies:** it's like (3), just like (2), for example (1)
 > **CLI Commands:** make (2)
 > **UI Navigation:** go to (2)
 > **Non-Speech:** (laughter) (1)
 
-#### Work and life balance: Tanya Staples
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980)
+#### [Work and life balance: Tanya Staples](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -815,7 +808,7 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=3)** It's often talked about, but what does it really look like?
 >
-> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=6)** I caught up with Tanya Staples, Vice President of Product at LinkedIn Learning.
+> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=6)** I caught up with Tanya Staples, Vice President of Product at [[LinkedIn]] Learning.
 >
 > **[0:10](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=10)** Over the last year I've gotten to know Tanya, and I think she's got some great ideas.
 >
@@ -861,7 +854,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=96)** And it's like, how do you, like, shift your hours and make sure that, okay, I still have those blocks of time and then setting those boundaries like no, I got to leave at this time to pick up my child from daycare, right?
 >
-> **[1:46](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=106)** But then you have this, again that guilt sets in in a different way, well, you know, lot of engineers are in the office and they're staying out their time but I got to go, my life is in a different stage right now, but I began to embrace that because I figured hey, that's the time that I need.
+> **[1:46](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=106)** But then you have this, again that guilt sets in in a different way, well, you know, lot of engineers are in the [[Microsoft Office|office]] and they're staying out their time but I got to go, my life is in a different stage right now, but I began to embrace that because I figured hey, that's the time that I need.
 >
 > **[1:59](https://www.linkedin.com/learning/leadership-in-tech/work-and-life-balance-tanya-staples?u=76281980&t=119)** It's kind of like software, you AB test everything that you do in your life, it's like at that time, that worked, at this time, it no longer works, and so I've been able to say no, I'm leaving, and that's the boundary that I need to set for myself.
 >
@@ -953,7 +946,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (2), product (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Microsoft Office|Office]] (1)
 > **Speakers:** - i (6), - yeah (6), - [erica] (4), - and (4), - right (3)
 > **Analogies:** it's like (5), kind of like (1)
 > **CLI Commands:** find (2), make (2)
@@ -961,14 +954,13 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Leadership, execution, and craftsmanship: Erran Berger
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980)
+#### [Leadership, execution, and craftsmanship: Erran Berger](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=0)** (upbeat pop music)
 >
-> **[0:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=1)** - Leadership, execution, and craftsmanship is how we measure technical talent at LinkedIn.
+> **[0:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=1)** - Leadership, execution, and craftsmanship is how we measure technical talent at [[LinkedIn]].
 >
 > **[0:08](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=8)** To explore these concepts, I'm going to sit down with Erran Berger, one of the top executives for engineering at LinkedIn.
 >
@@ -1004,7 +996,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=61)** - Who am I coaching and mentoring developing outside of my immediate team?
 >
-> **[1:04](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=64)** - But I think on the leadership sometimes that word can just be like oh I'm a manager, I'm a leader, I'm you know.
+> **[1:04](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=64)** - But I think on the leadership sometimes that [[Microsoft Word|word]] can just be like oh I'm a manager, I'm a leader, I'm you know.
 >
 > **[1:10](https://www.linkedin.com/learning/leadership-in-tech/leadership-execution-and-craftsmanship-erran-berger?u=76281980&t=70)** It's not about telling people what to do and I think you just touched on it a bit.
 >
@@ -1092,15 +1084,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (5), [[LinkedIn]] (3), [[Engineering]] (2), product (2), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Microsoft Word|Word]] (1)
 > **Speakers:** - yeah (4), - yes (2), - and (2), - leadership (1), - outside (1)
 > **CLI Commands:** make (4)
 > **Tools:** notion (2)
 > **Env Vars:** lec (1)
 > **Non-Speech:** (upbeat pop music) (1)
 
-#### Feedback and career conversations: Fiona Trayler
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980)
+#### [Feedback and career conversations: Fiona Trayler](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1108,7 +1099,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=5)** It's not always positive.
 >
-> **[0:07](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=7)** I met up with Fiona Trayler, She is the senior director for content production at LinkedIn Learning.
+> **[0:07](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=7)** I met up with Fiona Trayler, She is the senior director for content production at [[LinkedIn]] Learning.
 >
 > **[0:11](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=11)** She has experience working with huge teams in high-pressure environments, in both the feature film world and in high-quality educational video.
 >
@@ -1246,7 +1237,7 @@ created: 2026-05-02
 >
 > **[5:01](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=301)** You're the one with the brake.
 >
-> **[5:02](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=302)** And you're looking from a copilot about where should we be going and getting advice on the way.
+> **[5:02](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=302)** And you're looking from a [[Microsoft Copilot|copilot]] about where should we be going and getting advice on the way.
 >
 > **[5:07](https://www.linkedin.com/learning/leadership-in-tech/feedback-and-career-conversations-fiona-trayler?u=76281980&t=307)** If you give up, that part and you're passive, you're sitting in a parking lot.
 >
@@ -1264,21 +1255,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), business (2), [[LinkedIn]] (1), teams (1), feature (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Microsoft Copilot|Copilot]] (1)
 > **Speakers:** - i (3), - yeah (2), - early (1), - got (1), - never (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Versions:** version 2 (1)
 > **UI Navigation:** go to (1)
 
-#### Growth mindset: Chris Pruett
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980)
+#### [Growth mindset: Chris Pruett](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=0)** - Having a growth mindset about your career and getting honest feedback is critical for anyone to grow.
 >
-> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=6)** My colleague Chris Pruett, he's the VP of Engineering for [LinkedIn.com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago.
+> **[0:06](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=6)** My colleague Chris Pruett, he's the VP of Engineering for [[[LinkedIn]].com](https://LinkedIn.com) for our consumer business, and we met each other seven years ago.
 >
 > **[0:14](https://www.linkedin.com/learning/leadership-in-tech/growth-mindset-chris-pruett?u=76281980&t=14)** We built trust and a relationship together where we can give that honest feedback to one another.
 >
@@ -1368,21 +1358,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), career (3), [[Engineering]] (1), business (1), next (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **Speakers:** - you (3), - i (2), - having (1), - exactly (1), - [chris] (1)
 > **Analogies:** it's like (5), for example (2), just like (1)
 > **URLs:** [linkedin.com](https://linkedin.com) (1)
 > **Prerequisites:** you need to have (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Career change best foot forward: Jennifer Shappley
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980)
+#### [Career change best foot forward: Jennifer Shappley](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=0)** - Finding the right talent is the key to building successful teams for all companies of any size, today I'm talking to Jennifer Shappley.
 >
-> **[0:11](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=11)** Who is the senior director for recruiting the best engineering talent for all of LinkedIn.
+> **[0:11](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=11)** Who is the senior director for recruiting the best engineering talent for all of [[LinkedIn]].
 >
 > **[0:16](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=16)** I am so thrilled to have her expertise working for us, because Jennifer loves finding the best talent and building highly engaged teams.
 >
@@ -1412,7 +1401,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=100)** - Very true.
 >
-> **[1:41](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=101)** - And the time that you are interviewing should be of the utmost importance but there are a lot of other things that are going through somebody's mind.
+> **[1:41](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=101)** - And the time that you are [[Interviewing]] should be of the utmost importance but there are a lot of other things that are going through somebody's mind.
 >
 > **[1:47](https://www.linkedin.com/learning/leadership-in-tech/career-change-best-foot-forward-jennifer-shappley?u=76281980&t=107)** They go to an interview they go to another meeting et cetera and so what I think is so important for candidates to know is anything you can do to be memorable is important and will turn that into a great interview.
 >
@@ -1484,7 +1473,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Interviewing]] (4), teams (3), hr (3), [[Engineering]] (2), [[LinkedIn]] (2)
+> **Frameworks & Libraries:** [[Interviewing]] (4), [[LinkedIn]] (2)
 > **Speakers:** - yeah (3), - and (3), - i (2), - no (2), - finding (1)
 > **CLI Commands:** make (6)
 > **Non-Speech:** (upbeat music) (4)
@@ -1492,8 +1481,7 @@ created: 2026-05-02
 > **Definitions:** is an  (1), is a  (1)
 > **Warnings:** common mistake (1)
 
-#### Public speaking for leaders: Tim Fortescue
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/public-speaking-for-leaders-tim-fortescue?u=76281980)
+#### [Public speaking for leaders: Tim Fortescue](https://www.linkedin.com/learning/leadership-in-tech/public-speaking-for-leaders-tim-fortescue?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1567,8 +1555,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Analogies:** it's like (1)
 
-#### Paying it forward: Erica Lockheimer
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980)
+#### [Paying it forward: Erica Lockheimer](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1584,7 +1571,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=61)** I started volunteering my time quite a bit, I'm actually volunteering my time this weekend at a conference on a panel, and those are some of the most valuable conversations that I have had.
 >
-> **[1:12](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=72)** I, I'm am also in a unique position where I get to lead Women in Tech at LinkedIn.
+> **[1:12](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=72)** I, I'm am also in a unique position where I get to lead Women in Tech at [[LinkedIn]].
 >
 > **[1:17](https://www.linkedin.com/learning/leadership-in-tech/paying-it-forward-erica-lockheimer?u=76281980&t=77)** It's it's so impactful on on so many ways, where I can now influence change, I can create change, I can innovate change, and I could bring the community together to help people working at LinkedIn and outside of LinkedIn.
 >
@@ -1606,19 +1593,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[LinkedIn]] (4)
+> **Frameworks & Libraries:** [[LinkedIn]] (4)
 > **CLI Commands:** make (3)
 > **Cross-References:** we talked about (1)
 > **Speakers:** - early (1)
 
-#### New leader or new team: Ya Xu
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980)
+#### [New leader or new team: Ya Xu](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=0)** - Ya Xu is an amazing woman.
 >
-> **[0:05](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=5)** She has a PhD in statistics, she was formerly an applied researcher at Microsoft, and for the last six years, she has been right here at LinkedIn as one of our lead data scientists.
+> **[0:05](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=5)** She has a PhD in [[Statistics]], she was formerly an applied researcher at [[Microsoft]], and for the last six years, she has been right here at [[LinkedIn]] as one of our lead data scientists.
 >
 > **[0:14](https://www.linkedin.com/learning/leadership-in-tech/new-leader-or-new-team-ya-xu?u=76281980&t=14)** How do you step into the leadership position of a team and build the trust of your team?
 >
@@ -1684,15 +1670,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft]] (1), [[LinkedIn]] (1), data (1), leadership (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Microsoft]] (1), [[LinkedIn]] (1)
 > **Speakers:** - and (3), - a (2), - ya (1), - absolutely (1), - definitely (1)
 > **Non-Speech:** (upbeat music) (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** coming up (1)
 > **Analogies:** just like (1)
 
-#### Awareness and feedback: Jeff Weiner
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/awareness-and-feedback-jeff-weiner?u=76281980)
+#### [Awareness and feedback: Jeff Weiner](https://www.linkedin.com/learning/leadership-in-tech/awareness-and-feedback-jeff-weiner?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1764,14 +1749,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (1), next (1)
 > **Speakers:** - and (4), - way (2), - got (2), - let (1), - right (1)
 > **Non-Speech:** (upbeat hip hop music) (2)
 > **Cross-References:** we talked about (1)
 > **Definitions:** is a  (1)
 
-#### New hire career conversations: Erran Berger
-> [LinkedIn Learning](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980)
+#### [New hire career conversations: Erran Berger](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1795,7 +1778,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=41)** But because somehow it's become taboo to even, for a manager to have a conversation with our employee.
 >
-> **[0:47](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=47)** Like as a manager, I've got to hold onto my employees and if I ever talk to them about the fact that they might leave LinkedIn, well then it'll spark this idea in their heads that maybe they should, when the reality is, people all the time are thinking about their careers and applying for jobs and everything else.
+> **[0:47](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=47)** Like as a manager, I've got to hold onto my employees and if I ever talk to them about the fact that they might leave [[LinkedIn]], well then it'll spark this idea in their heads that maybe they should, when the reality is, people all the time are thinking about their careers and applying for jobs and everything else.
 >
 > **[1:01](https://www.linkedin.com/learning/leadership-in-tech/new-hire-career-conversations-erran-berger?u=76281980&t=61)** Let's have an open conversation about this.
 >
@@ -1829,7 +1812,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), career (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1)
 > **Speakers:** - i (3), - how (1), - on (1), - what (1), - and (1)
 > **Non-Speech:** (upbeat drum music) (1)
 

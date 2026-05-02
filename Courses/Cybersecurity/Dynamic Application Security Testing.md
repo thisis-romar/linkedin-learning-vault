@@ -95,14 +95,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of dynamic testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
+#### [The importance of dynamic testing](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980&t=0)** - [Jerod] Hi, I'm Jerod Brennen and welcome to Dynamic Application Security Testing Essentials.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980&t=0)** - [Jerod] Hi, I'm Jerod Brennen and welcome to Dynamic [[Application Security]] Testing Essentials.
 >
-> **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980&t=6)** I put this course together to help you learn the skills and the tools that you'll need in order to dynamically test cybersecurity controls in web applications.
+> **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980&t=6)** I put this course together to help you learn the skills and the tools that you'll need in order to dynamically test [[Cybersecurity]] controls in web applications.
 >
 > **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/the-importance-of-dynamic-testing?u=76281980&t=18)** I've been working in cybersecurity long enough to have earned every gray hair in my beard and I want to share what I've learned over the years to help you begin applying that same knowledge today.
 >
@@ -116,20 +115,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (4), application (2), [[Cybersecurity]] (2), web (2)
+> **Frameworks & Libraries:** [[Application Security]] (2), [[Cybersecurity]] (2)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [jerod] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is intended to be a broad introduction to dynamic application security testing.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=0)** - [Narrator] This course is intended to be a broad introduction to dynamic [[Application Security]] testing.
 >
-> **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=7)** We're going to be covering a lot of tools and techniques, equipping you with the knowledge of both manual testing techniques and tools that you can use to automate your testing activities.
+> **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=7)** We're going to be covering a lot of tools and techniques, equipping you with the knowledge of both [[Manual Testing]] techniques and tools that you can use to automate your testing activities.
 >
-> **[0:19](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=19)** If you've taken any of my other LinkedIn Learning courses, chances are you've heard me say something along the lines of fundamentals will win the day.
+> **[0:19](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=19)** If you've taken any of my other [[LinkedIn]] Learning courses, chances are you've heard me say something along the lines of fundamentals will win the day.
 >
 > **[0:28](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=28)** That's because it's absolutely true.
 >
@@ -139,21 +137,21 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=49)** As we cover these fundamentals throughout the course, we're going to be putting together a toolkit that you can use both during the course and in your day-to-day testing activities.
 >
-> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=61)** Normally, I prefer doing all of my training and testing using a small collection of virtual machines.
+> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=61)** Normally, I prefer doing all of my training and testing using a small collection of [[Virtual Machines]].
 >
 > **[1:07](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=67)** I'd encourage you to do the same, following along with demos in your own home lab environment.
 >
 > **[1:13](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=73)** When the time comes that you're ready to try your hand at one or more of the demos, you can always jump right to that video and follow along.
 >
-> **[1:22](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=82)** In addition to learning the tools, we're going to cover everything from security testing in QA to assessing deployed apps to performing a web application penetration test.
+> **[1:22](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=82)** In addition to learning the tools, we're going to cover everything from [[Security Testing]] in QA to assessing deployed apps to performing a web application penetration test.
 >
-> **[1:34](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=94)** You'll also learn about specific dynamic tests you can perform against the OWASP Top 10.
+> **[1:34](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=94)** You'll also learn about specific dynamic tests you can perform against the [[OWASP]] Top 10.
 >
 > **[1:41](https://www.linkedin.com/learning/dynamic-application-security-testing/what-you-should-know?u=76281980&t=101)** You'll also have access to a handout I prepared for this course full of notes and resources for when you're ready to do more testing on your own.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (1), [[Manual Testing]] (1), [[LinkedIn]] (1), next (1)
+> **Frameworks & Libraries:** [[Application Security]] (1), [[Manual Testing]] (1), [[LinkedIn]] (1), [[Virtual Machines]] (1), [[Security Testing]] (1)
 > **Env Vars:** owasp (1)
 > **Speakers:** - [narrator] (1)
 
@@ -162,20 +160,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Software quality assurance process
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
+#### [Software quality assurance process](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=0)** - [Instructor] When the time comes that you're ready to try your hand at one or more of the demos you can always jump right to that video and follow along.
 >
-> **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=9)** If you want to ensure that security is baked into your application you'll want to test the security of your application as part of your quality assurance efforts.
+> **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=9)** If you want to ensure that security is baked into your application you'll want to test the security of your application as part of your [[Quality Assurance]] efforts.
 >
 > **[0:19](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=19)** This is an excellent way to embed security into your SDLC.
 >
 > **[0:24](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=24)** Then what's the SDLC again?
 >
-> **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=27)** SDLC stands for Software Development Life Cycle.
+> **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=27)** SDLC stands for [[Software Development]] Life Cycle.
 >
 > **[0:32](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=32)** The SDLC encompasses every stage or phase that you go through when building or modifying an application.
 >
@@ -201,9 +198,9 @@ created: 2026-05-02
 >
 > **[2:19](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=139)** As attacks have increased in complexity and effectiveness, so has the need for developers to improve the quality of their security controls.
 >
-> **[2:29](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=149)** By considering security flaws as bugs, those flaws end up in the queue to get fixed along with the rest of the issues.
+> **[2:29](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=149)** By considering security flaws as bugs, those flaws end up in the queue to get fixed along with the [[Representational State Transfer (REST)|rest]] of the issues.
 >
-> **[2:37](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=157)** The process for identifying and fixing bugs and applications is known as software quality assurance, or QA.
+> **[2:37](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=157)** The process for identifying and fixing bugs and applications is known as [[Software Quality Assurance]], or QA.
 >
 > **[2:45](https://www.linkedin.com/learning/dynamic-application-security-testing/software-quality-assurance-process?u=76281980&t=165)** QA includes a number of activities in order to ensure the quality of an application can be assured.
 >
@@ -229,14 +226,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), application (5), functional (2), [[Quality Assurance]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Quality Assurance]] (1), [[Software Development]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Software Quality Assurance]] (1)
 > **Env Vars:** sdlc (5)
 > **Definitions:** is an  (1), stands for (1), is a  (1), known as (1), means that (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Positive testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980)
+#### [Positive testing](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=23)** In other words, does the app do what it's supposed to do?
 >
-> **[0:28](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=28)** Consider the ZIP code example that I share in the [[Static Application Security Testing]] class.
+> **[0:28](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=28)** Consider the ZIP code example that I share in the [[Static [[Application Security]] Testing]] class.
 >
 > **[0:34](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=34)** If you're designing an application that requires a user's mailing address, chances are that you'll ask them for a postal code or a ZIP code.
 >
@@ -264,13 +260,13 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=82)** By spending a little time with the requirements document, you can quickly identify a number of positive tests that will make or break an application.
 >
-> **[1:32](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=92)** If you build an e-commerce app that doesn't allow visitors to buy anything, for example, then I seriously doubt your app is ready to go live.
+> **[1:32](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=92)** If you build an [[E-Commerce]] app that doesn't allow visitors to buy anything, for example, then I seriously doubt your app is ready to go live.
 >
 > **[1:41](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=101)** But when it comes to positive security test cases, well, that's on you to put that list together.
 >
 > **[1:48](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=108)** So what are some good examples of positive security test cases?
 >
-> **[1:53](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=113)** From a security testing standpoint, positive security test cases should focus on those security controls designed to limit who can access application data.
+> **[1:53](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=113)** From a [[Security Testing]] standpoint, positive security test cases should focus on those security controls designed to limit who can access application data.
 >
 > **[2:05](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=125)** Start by testing basic access controls.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=136)** Move on to testing authorization controls.
 >
-> **[2:20](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=140)** Can you see all the pages and forms and data that your test account should be able to see?
+> **[2:20](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=140)** Can you see all the pages and [[Forms]] and data that your test account should be able to see?
 >
 > **[2:26](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=146)** You should also consider testing password management controls, On the front end, can you set and reset your password?
 >
@@ -292,7 +288,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=175)** And yes, I did say all traffic.
 >
-> **[2:59](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=179)** If you're not sure where to begin, you can always refer to the OWASP Web Security Testing Guide.
+> **[2:59](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=179)** If you're not sure where to begin, you can always refer to the [[OWASP]] Web Security Testing Guide.
 >
 > **[3:05](https://www.linkedin.com/learning/dynamic-application-security-testing/positive-testing?u=76281980&t=185)** Just search for the category that lines up with the security test case you're building, and then read up on how you can go about executing that test case.
 >
@@ -306,15 +302,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), application (7), functional (2), data (2), management (2)
+> **Frameworks & Libraries:** [[Security Testing]] (2), [[Application Security]] (1), [[E-Commerce]] (1), [[Forms]] (1), [[OWASP]] (1)
 > **Env Vars:** zip (5), owasp (1)
 > **CLI Commands:** make (3)
 > **Definitions:** in other words (1), is an  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [presenter] (1)
 
-#### Negative testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980)
+#### [Negative testing](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -338,7 +333,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=45)** Keep it simple.
 >
-> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=46)** If you wanted to test for whether the application is vulnerable to SQL injection, you could start by considering how an attacker might exploit that weakness.
+> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=46)** If you wanted to test for whether the application is vulnerable to [[SQL]] injection, you could start by considering how an attacker might exploit that weakness.
 >
 > **[0:57](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=57)** Using an escape character the attacker could send additional commands to the database.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=166)** Once you've got a set of misuse cases that represent these threats you're most concerned with, then you're good to go.
 >
-> **[2:55](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=175)** If you are not sure where to start when it comes to identifying relevant threats, you can take a broader approach and turn to the OWASP top 10 list.
+> **[2:55](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=175)** If you are not sure where to start when it comes to identifying relevant threats, you can take a broader approach and turn to the [[OWASP]] top 10 list.
 >
 > **[3:05](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=185)** Each item in the top 10 list represents a category of negative tests that you should consider building into your QA processes.
 >
@@ -380,15 +375,15 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=217)** This series has grown to the point where there are now 78 unique cheat sheets, each one full of code snippets that your developers can use to defensively code against a variety of attacks.
 >
-> **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=231)** This list contains guidance on protecting everything from AJAX to XML.
+> **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=231)** This list contains guidance on protecting everything from [[AJAX]] to XML.
 >
 > **[3:57](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=237)** Since these cheat sheets were designed to teach defensive coding it's going to take a little creativity on your part to build out relevant negative tests.
 >
 > **[4:07](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=247)** The cheat sheets won't show you exactly how to construct your tests, but rather the collection serves as a representation of security knowledge that your developers have at their disposal.
 >
-> **[4:20](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=260)** By building negative tests that validate whether these cheat sheets are being used, you not only increase the security of your apps, but you also ensure that your developers have a deeper understanding of secure coding.
+> **[4:20](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=260)** By building negative tests that validate whether these cheat sheets are being used, you not only increase the security of your apps, but you also ensure that your developers have a deeper understanding of [[Secure Coding]].
 >
-> **[4:35](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=275)** Building negative security testing into your QA processes will take some work on your part.
+> **[4:35](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=275)** Building negative [[Security Testing]] into your QA processes will take some work on your part.
 >
 > **[4:41](https://www.linkedin.com/learning/dynamic-application-security-testing/negative-testing?u=76281980&t=281)** When your app successfully makes it through QA after passing those tests though you should celebrate with your DEV team.
 >
@@ -396,14 +391,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (5), data (3), [[OWASP]] (3), database (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[SQL]] (1), [[AJAX]] (1), [[Secure Coding]] (1), [[Security Testing]] (1)
 > **Env Vars:** owasp (3), sql (1), ajax (1), xml (1), dev (1)
 > **CLI Commands:** make (4)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### SQA metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980)
+#### [SQA metrics](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -417,7 +411,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=18)** That's why you need to define some QA metrics.
 >
-> **[0:22](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=22)** Measuring the results of your software quality assurance security tests over time can lead to better security and better testing techniques.
+> **[0:22](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=22)** Measuring the results of your [[Software Quality Assurance]] security tests over time can lead to better security and better testing techniques.
 >
 > **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=31)** Depending on the security maturity of your development team, your early rounds of security QA testing might not produce the results you expect.
 >
@@ -445,7 +439,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=110)** If someone could make unauthorized changes to the industrial control systems that kept a nuclear power plant running smoothly, that could potentially end in a loss of life scenario.
 >
-> **[2:03](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=123)** On the other end of the spectrum, I worked for a retailer with multiple e-commerce applications.
+> **[2:03](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=123)** On the other end of the spectrum, I worked for a retailer with multiple [[E-Commerce]] applications.
 >
 > **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=129)** If any application went offline for more than a few seconds, everyone had to drop what they were doing and fix the problem.
 >
@@ -453,7 +447,7 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=144)** In an environment like that, availability is key.
 >
-> **[2:29](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=149)** When building out your quality assurance metrics, you need to understand the priority of the CIA triad in your organization.
+> **[2:29](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=149)** When building out your [[Quality Assurance]] metrics, you need to understand the priority of the CIA triad in your organization.
 >
 > **[2:39](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=159)** ISO, the International Organization for Standardization, maintains ISO/IEC 25010 to provide detailed guidance on software product quality.
 >
@@ -463,13 +457,13 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=192)** When the standard was updated in 2011, security moved from being a minor component of functionality to being a unique characteristic itself.
 >
-> **[3:23](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=203)** This new security characteristic includes five sub characteristics: confidentiality, or keeping secret secret, integrity, preventing unauthorized changes, non-repudiation, proving that events occurred, accountability, assigning activity to an owner and authenticity, proving the identity of a person or resource.
+> **[3:23](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=203)** This new security characteristic includes five sub characteristics: confidentiality, or keeping secret secret, integrity, preventing unauthorized changes, non-repudiation, proving that events occurred, [[Accountability]], assigning activity to an owner and authenticity, proving the identity of a person or resource.
 >
 > **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=231)** While the CIA triad provides a good foundation for building out your QA metrics, ISO 25010 provides an even better foundation.
 >
-> **[4:02](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=242)** In the OWASP Developer Guide Project, you'll find a section dedicated to software quality assurance.
+> **[4:02](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=242)** In the [[OWASP]] Developer Guide Project, you'll find a section dedicated to software quality assurance.
 >
-> **[4:10](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=250)** This specific guidance focuses on confidentiality and integrity of data, both at rest and in motion.
+> **[4:10](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=250)** This specific guidance focuses on confidentiality and integrity of data, both at [[Representational State Transfer (REST)|rest]] and in motion.
 >
 > **[4:18](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=258)** It provides you with the best practices for building out your QA metrics while going into a bit of detail around not just metrics, but the process and testing activities as well.
 >
@@ -483,7 +477,7 @@ created: 2026-05-02
 >
 > **[4:54](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=294)** You can also track this trend over time to see if the gap between known bugs and fixed bugs is growing or shrinking.
 >
-> **[5:05](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=305)** OWASP also provides guidance on two distinct types of application security metrics you should consider tracking.
+> **[5:05](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=305)** OWASP also provides guidance on two distinct types of [[Application Security]] metrics you should consider tracking.
 >
 > **[5:13](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=313)** Direct metrics are the ones that you can measure within the software.
 >
@@ -497,7 +491,7 @@ created: 2026-05-02
 >
 > **[5:56](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=356)** Although this link points to an older version of the OWASP website, the information on this page is still incredibly useful.
 >
-> **[6:05](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=365)** And if OWASP isn't your jam, you can always turn to NIST.
+> **[6:05](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=365)** And if OWASP isn't your jam, you can always turn to [[NIST]].
 >
 > **[6:10](https://www.linkedin.com/learning/dynamic-application-security-testing/sqa-metrics?u=76281980&t=370)** NIST maintains the Software Assurance Metrics and Tool Evaluation project or SAMTE.
 >
@@ -517,17 +511,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (23), [[OWASP]] (5), application (4), [[Software Quality Assurance]] (2), [[NIST]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (5), [[Software Quality Assurance]] (2), [[Application Security]] (2), [[NIST]] (2), [[E-Commerce]] (1)
 > **Env Vars:** owasp (5), cia (3), iso (3), nist (2), iec (1)
 > **CLI Commands:** find (4), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### OWASP Testing Guide
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980)
+#### [OWASP Testing Guide](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=0)** - [Instructor] I referenced the OWASP Web Security Testing Guide multiple times throughout both this course and the [[Static Application Security Testing]] course.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=0)** - [Instructor] I referenced the [[OWASP]] Web [[Security Testing]] Guide multiple times throughout both this course and the [[Static [[Application Security]] Testing]] course.
 >
 > **[0:10](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=10)** Why?
 >
@@ -569,7 +562,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=127)** The testing guide falls squarely in the flagship category.
 >
-> **[2:12](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=132)** In section two of the guide, the introduction, OWASP goes into detail regarding how you can apply this guide when performing source code reviews, penetration testing, and QA testing.
+> **[2:12](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=132)** In section two of the guide, the introduction, OWASP goes into detail regarding how you can apply this guide when performing source code reviews, [[Penetration Testing]], and QA testing.
 >
 > **[2:27](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=147)** As you're adding security tests to your QA workflow, you can learn a tremendous amount from sections 2.9, 2.10, and 2.11, in particular.
 >
@@ -591,11 +584,11 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=247)** But when you transcribe the high points into a testing checklist, then you've got something you can use day-to-day.
 >
-> **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=255)** When I originally started using the guide to my own testing, I put together an Excel spreadsheet that contained the name of each test, a description of what I was testing, a column for my favorite testing tools and techniques, and a column where I could track the results.
+> **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=255)** When I originally started using the guide to my own testing, I put together an [[Microsoft Excel|Excel]] spreadsheet that contained the name of each test, a description of what I was testing, a column for my favorite testing tools and techniques, and a column where I could track the results.
 >
 > **[4:33](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=273)** It comes as no surprise that I wasn't the only one to do this.
 >
-> **[4:37](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=277)** Sometime back, I chance to cross the GitHub project listed here where another tester built an even better tracking tool, adding a tab for summary findings and another that contained a risk assessment calculator.
+> **[4:37](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=277)** Sometime back, I chance to cross the [[GitHub]] project listed here where another tester built an even better tracking tool, adding a tab for summary findings and another that contained a risk assessment calculator.
 >
 > **[4:51](https://www.linkedin.com/learning/dynamic-application-security-testing/owasp-testing-guide?u=76281980&t=291)** As you are starting out, you should either take a look at this tool or build your own.
 >
@@ -607,7 +600,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (10), [[OWASP]] (6), application (3), web (2), functional (2)
+> **Frameworks & Libraries:** [[OWASP]] (6), [[Application Security]] (3), [[Security Testing]] (2), [[Penetration Testing]] (1), [[Microsoft Excel|Excel]] (1)
 > **Env Vars:** owasp (6)
 > **Versions:** 2.9 (2), 2.10 (2), 2.11 (2)
 > **CLI Commands:** make (2)
@@ -616,8 +609,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: OWASP ZAP
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980)
+#### [Demo: OWASP ZAP](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -625,7 +617,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980&t=9)** If you scroll down to the Download Now section, you'll see there are plenty of options available depending on your operating system and your test lab environment.
 >
-> **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980&t=18)** But we're also going to need a web application to test, which is where we're going to turn to the OWASP Vulnerable Web Applications directory.
+> **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980&t=18)** But we're also going to need a web application to test, which is where we're going to turn to the [[OWASP]] Vulnerable Web Applications directory.
 >
 > **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-owasp-zap?u=76281980&t=27)** If you go to this resource, you've got a number of apps deliberately vulnerable by design that are built and maintained for testers like you and me.
 >
@@ -721,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (11), application (10), web application (2), web (2), database (1)
+> **Frameworks & Libraries:** [[OWASP]] (11)
 > **Env Vars:** owasp (10), zap (9), url (4), owa (1), csp (1)
 > **UI Navigation:** go to (3), click on (2), scroll down (1)
 > **CLI Commands:** find (4)
@@ -735,12 +727,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manual vs. automated testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
+#### [Manual vs. automated testing](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=0)** - [Instructor] Application security testing procedures should involve a combination of manual hands-on tests and automated scans.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=0)** - [Instructor] [[Application Security]] testing procedures should involve a combination of manual hands-on tests and automated scans.
 >
 > **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=9)** It's up to you, though, to strike the right balance between the two.
 >
@@ -754,7 +745,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=42)** Review the results of the latest source code security reviews.
 >
-> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=46)** Review the outcome of the static test conducted to measure the code against the OWASP top 10.
+> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=46)** Review the outcome of the static test conducted to measure the code against the [[OWASP]] top 10.
 >
 > **[0:53](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=53)** Use all that information to build a foundational understanding of the app.
 >
@@ -770,7 +761,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=107)** And these are just a couple of quick wins in ZAP.
 >
-> **[1:50](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=110)** If your source code security reviews revealed that your developers are struggling to defensively code against SQL injection attacks, then you might use a tool like SQLMAP in your online testing activities in addition to using ZAP.
+> **[1:50](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=110)** If your source code security reviews revealed that your developers are struggling to defensively code against [[SQL]] injection attacks, then you might use a tool like [[SQLmap]] in your online testing activities in addition to using ZAP.
 >
 > **[2:06](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=126)** That way you're able to spend your dynamic testing time wisely, focusing on risks that came to light as a result of your static testing efforts.
 >
@@ -786,7 +777,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=168)** What's even better is that the scan results often include instructions on how to fix the flaws, which can be a huge time saver.
 >
-> **[2:57](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=177)** With your automated scan results in hand, then you're ready to dive into manual testing.
+> **[2:57](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=177)** With your automated scan results in hand, then you're ready to dive into [[Manual Testing]].
 >
 > **[3:03](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=183)** You can use the output of the automated scans to pinpoint areas of the application, separating the false positives from the actual vulnerabilities.
 >
@@ -812,7 +803,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=284)** You select the level that you think you're capable of given the resources that you're working with and the SAMM will provide you with insights regarding the activities you should be focusing on.
 >
-> **[4:55](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=295)** Guidance regarding security testing can be found under verification.
+> **[4:55](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=295)** Guidance regarding [[Security Testing]] can be found under verification.
 >
 > **[5:00](https://www.linkedin.com/learning/dynamic-application-security-testing/manual-vs-automated-testing?u=76281980&t=300)** The building security in maturity model from Synopsys is similar to the SAMM, although it's organized differently.
 >
@@ -840,7 +831,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), application (11), [[OWASP]] (5), [[Manual Testing]] (4), business (2)
+> **Frameworks & Libraries:** [[Application Security]] (6), [[OWASP]] (5), [[Manual Testing]] (4), [[Security Testing]] (2), [[SQL]] (1)
 > **Env Vars:** owasp (5), zap (4), samm (4), bsimm (3), sdlc (2)
 > **CLI Commands:** find (6)
 > **Analogies:** for example (1), picture (1), similar to (1)
@@ -849,8 +840,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Scanning vs. pen testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980)
+#### [Scanning vs. pen testing](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -864,7 +854,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=25)** You should scan not just the applications, but the host systems that are serving up the applications.
 >
-> **[0:32](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=32)** You should scan the backend databases that the applications are talking to, and you should scan the network appliances that the application traffic travels through.
+> **[0:32](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=32)** You should scan the backend [[Databases]] that the applications are talking to, and you should scan the network appliances that the application traffic travels through.
 >
 > **[0:41](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=41)** Scans are, at their core, automated collections of useful information about the targets combined with some basic analysis of those scan results.
 >
@@ -880,7 +870,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=105)** One of the techniques that scanners use when applying heuristics is fuzzing.
 >
-> **[1:50](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=110)** In the application security world, fuzzing refers to a testing method where a tool sends either malformed or semi-malformed data to an application in an effort to uncover vulnerabilities.
+> **[1:50](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=110)** In the [[Application Security]] world, fuzzing refers to a testing method where a tool sends either malformed or semi-malformed data to an application in an effort to uncover vulnerabilities.
 >
 > **[2:03](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=123)** In the zip code example that I love so much, a scanner employing this technique might send special characters or unprintable characters to the application to see how the app reacts.
 >
@@ -904,13 +894,13 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=230)** By testing the application's logic handling capabilities, pen testers can often uncover flaws that would otherwise go unnoticed.
 >
-> **[3:59](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=239)** As artificial intelligence, or AI, gets better and better at mimicking human behavior, than maybe, maybe we'll be able to conduct pen tests without human interaction, but I just don't think we're quite there yet.
+> **[3:59](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=239)** As [[Artificial Intelligence (AI)|artificial intelligence]], or AI, gets better and better at mimicking human behavior, than maybe, maybe we'll be able to conduct pen tests without human interaction, but I just don't think we're quite there yet.
 >
 > **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=255)** While this course is focused on application security testing, it's important for you to know about some of the related tools that you can use to scan the supporting infrastructure.
 >
-> **[4:26](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=266)** Nmap is a great utility for finding open ports on target systems.
+> **[4:26](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=266)** [[Nmap]] is a great utility for finding open ports on target systems.
 >
-> **[4:32](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=272)** When scanning web servers and application servers, Nmap often turns up administrative web services listing on non-standard ports.
+> **[4:32](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=272)** When scanning [[Web Servers]] and application servers, Nmap often turns up administrative web services listing on non-standard ports.
 >
 > **[4:40](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=280)** And the best part, Nmap is entirely free.
 >
@@ -922,13 +912,13 @@ created: 2026-05-02
 >
 > **[5:11](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=311)** For this course, it's important that you know that these tools are available.
 >
-> **[5:16](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=316)** I cover them in more detail on my Security Testing Essential Training course here on LinkedIn Learning.
+> **[5:16](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=316)** I cover them in more detail on my [[Security Testing]] Essential Training course here on [[LinkedIn]] Learning.
 >
 > **[5:23](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=323)** When it comes to application security scanners, there are way, way too many for me to list here.
 >
 > **[5:30](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=330)** And choosing the right scanner for your environment depends on a number of factors, including your budget and the programming languages used by your developers.
 >
-> **[5:40](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=340)** OWASP has collected a list of some of the most popular web-application testing tools, commercial, free, and open source, on the Vulnerability Scanning Tools section of their site.
+> **[5:40](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=340)** [[OWASP]] has collected a list of some of the most popular web-application testing tools, commercial, free, and open source, on the Vulnerability Scanning Tools section of their site.
 >
 > **[5:52](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=352)** But please be aware that OWASP isn't endorsing any of these tools.
 >
@@ -938,7 +928,7 @@ created: 2026-05-02
 >
 > **[6:05](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=365)** In Appendix A of the OWASP Web Security Testing Guide, you'll find a more robust list of specialized scanning tools, organized by their specific function.
 >
-> **[6:17](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=377)** This list focuses heavily on open-source tools, targeting specific vulnerabilities like cross-site scripting, SQL injection, and buffer overflows.
+> **[6:17](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=377)** This list focuses heavily on open-source tools, targeting specific vulnerabilities like cross-site scripting, [[SQL]] injection, and buffer overflows.
 >
 > **[6:29](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=389)** It even includes a dedicated section on fuzzers.
 >
@@ -960,11 +950,11 @@ created: 2026-05-02
 >
 > **[7:31](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=451)** If you're looking for a more current and comprehensive list of fuzzing tools, you can find that list embedded in the fuzzing article in the community section of the OWASP website.
 >
-> **[7:43](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=463)** The Burp suite, from PortSwigger, includes a fuzzer named Burp Intruder.
+> **[7:43](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=463)** The [[Burp Suite]], from PortSwigger, includes a fuzzer named Burp Intruder.
 >
 > **[7:48](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=468)** Intruder is considered an advanced manual tool by the vendor, and as such, it isn't included for free in the community edition.
 >
-> **[7:58](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=478)** Burp is an incredibly popular tool in the web application security testing space, and if you're going to be using it for both QA testing and penetration testing, you may want to talk to your boss about purchasing a copy.
+> **[7:58](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=478)** Burp is an incredibly popular tool in the [[Web Application Security]] testing space, and if you're going to be using it for both QA testing and [[Penetration Testing]], you may want to talk to your boss about purchasing a copy.
 >
 > **[8:13](https://www.linkedin.com/learning/dynamic-application-security-testing/scanning-vs-pen-testing?u=76281980&t=493)** Remember, scan first and scan often.
 >
@@ -974,7 +964,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (19), [[Security]] (9), [[OWASP]] (8), web (6), data (3)
+> **Frameworks & Libraries:** [[OWASP]] (8), [[Application Security]] (5), [[Nmap]] (4), [[Security Testing]] (3), [[Databases]] (1)
 > **Env Vars:** owasp (8), sql (1)
 > **Definitions:** is a  (3), refers to (1), is an  (1)
 > **CLI Commands:** find (4)
@@ -982,14 +972,13 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing in non-production
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980)
+#### [Testing in non-production](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=0)** - [Announcer] In order to perform your security testing without impacting production, you should perform some but not all of your testing in a non-production environment.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=0)** - [Announcer] In order to perform your [[Security Testing]] without impacting production, you should perform some but not all of your testing in a non-production environment.
 >
-> **[0:11](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=11)** Performing your dynamic application security test in a non-production environment comes with a slew of benefits.
+> **[0:11](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=11)** Performing your dynamic [[Application Security]] test in a non-production environment comes with a slew of benefits.
 >
 > **[0:19](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=19)** When you think of non-prod, think of it as gloves off, no holds barred.
 >
@@ -1033,11 +1022,11 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=149)** Do it.
 >
-> **[2:30](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=150)** How about that SQL injection exploit that enables you to drop entire database tables, run it.
+> **[2:30](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=150)** How about that [[SQL]] injection exploit that enables you to drop entire database tables, run it.
 >
 > **[2:37](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=157)** Be as devious as you can possibly be when it comes to testing this environment.
 >
-> **[2:43](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=163)** Any test that you leave out is a test that a criminal can run against the production instance of your app and if you don't find out how the app will react during your non-prod testing, you're going to learn the hard way when a criminal executes that attack in production.
+> **[2:43](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=163)** Any test that you leave out is a test that a criminal can run against the production instance of your app and if you don't find out how the app will [[React.js|react]] during your non-prod testing, you're going to learn the hard way when a criminal executes that attack in production.
 >
 > **[2:58](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-non-production?u=76281980&t=178)** One of my caveats here is that you need to be respectful of other testers using the same environment.
 >
@@ -1063,7 +1052,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (3), database (2), [[SQL]] (2), management (1)
+> **Frameworks & Libraries:** [[Application Security]] (2), [[SQL]] (2), [[Security Testing]] (1), [[React.js|React]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is an  (1), is a  (1)
@@ -1071,8 +1060,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [announcer] (1)
 
-#### Testing in production
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980)
+#### [Testing in production](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1084,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=31)** Mostly true, anyway.
 >
-> **[0:33](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=33)** But when it comes to security testing, you get a lot of value from testing in prod that you just don't get when testing in non-prod.
+> **[0:33](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=33)** But when it comes to [[Security Testing]], you get a lot of value from testing in prod that you just don't get when testing in non-prod.
 >
 > **[0:42](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=42)** For starters, you eliminate any inaccuracies that might result from subtle differences between production and non-production.
 >
@@ -1154,7 +1142,7 @@ created: 2026-05-02
 >
 > **[3:41](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=221)** The same tools that you use to run those same tests in non-production.
 >
-> **[3:47](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=227)** One of the reasons you ran those tests in non-prod was to figure out how the app would react, remember?
+> **[3:47](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=227)** One of the reasons you ran those tests in non-prod was to figure out how the app would [[React.js|react]], remember?
 >
 > **[3:53](https://www.linkedin.com/learning/dynamic-application-security-testing/testing-in-production?u=76281980&t=233)** It would be a bad idea to run a new tool against prod before first vetting it against the non-prod instance of the app.
 >
@@ -1180,15 +1168,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (7), web (2), dns (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Security Testing]] (1), [[React.js|React]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Env Vars:** dns (1), tls (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [jared] (1)
 
-#### OSINT gathering
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980)
+#### [OSINT gathering](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1208,7 +1195,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=62)** But when it comes to production, they have to broadcast public information in order to be accessible to your end users.
 >
-> **[1:10](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=70)** That includes DNS entries, IP addresses, encryption certificates, login pages, password reset forms.
+> **[1:10](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=70)** That includes DNS entries, IP addresses, encryption certificates, login pages, password reset [[Forms]].
 >
 > **[1:18](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=78)** The list goes on and on and on.
 >
@@ -1232,7 +1219,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=137)** You can learn a lot about an organization based on the information in these certs.
 >
-> **[2:22](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=142)** For starters, you can tell whether an organization understands how to properly secure data in transit by examining the encryption key strength, the algorithms they use, whether or not their encryption implementation is vulnerable to known weaknesses.
+> **[2:22](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=142)** For starters, you can tell whether an organization understands how to properly secure data in transit by examining the encryption key strength, the [[Algorithms]] they use, whether or not their encryption implementation is vulnerable to known weaknesses.
 >
 > **[2:40](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=160)** SSL Labs from Qualys will tell you all of this and more in seconds.
 >
@@ -1252,9 +1239,9 @@ created: 2026-05-02
 >
 > **[3:39](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=219)** The Subdomain Finder from [pentesttools.com](https://pentesttools.com) takes a bit longer to run a scan, but that could be because it explores multiple avenues to find as many sub-domains as possible.
 >
-> **[3:53](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=233)** You can run a light scan for free, which performs DNS enumeration and checks DNS records, or you could log in and run a full scan, which also analyzes HTML links, SSL and TLS certs, external APIs, and even checks both Google and Bing for possible hits.
+> **[3:53](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=233)** You can run a light scan for free, which performs DNS enumeration and checks DNS records, or you could log in and run a full scan, which also analyzes [[HTML]] links, SSL and TLS certs, external APIs, and even checks both [[Google]] and Bing for possible hits.
 >
-> **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=255)** It's important to note that even though these scans aren't running from your local system, they could still trigger an alert on the defender's side.
+> **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=255)** It's important to note that even though these scans aren't running from your local system, they could still trigger an alert on the [[Microsoft Defender|defender]]'s side.
 >
 > **[4:24](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=264)** If you want to forego the risk of tripping any alerts, then head on over to Shodan.
 >
@@ -1282,7 +1269,7 @@ created: 2026-05-02
 >
 > **[6:04](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=364)** I teach entire workshops and courses on OSINT gathering and one of the things I emphasize in those courses is the importance of automating OSINT gathering.
 >
-> **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=374)** You can automate many of these intelligence gathering tasks in the same way you can automate much of your security testing in QA.
+> **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=374)** You can automate many of these intelligence gathering tasks in the same way you can automate much of your [[Security Testing]] in QA.
 >
 > **[6:23](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=383)** A tool that I highly recommend you check out is the Trace Labs OSINT Virtual Machine.
 >
@@ -1294,13 +1281,13 @@ created: 2026-05-02
 >
 > **[6:55](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=415)** You can use the Trace Labs VM to collect OSINT on a lot more than just web applications.
 >
-> **[7:02](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=422)** But even if you only use two of the pre-installed tools, Maltego and Recon-ng, you'll have saved yourself considerable time on performing OSINT gathering to support your web application security testing efforts.
+> **[7:02](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=422)** But even if you only use two of the pre-installed tools, Maltego and Recon-ng, you'll have saved yourself considerable time on performing OSINT gathering to support your [[Web Application Security]] testing efforts.
 >
-> **[7:18](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=438)** You may think you've done a good job of limiting the amount of publicly-available information about your production web applications, but by sprinkling a little OSINT gathering into your dynamic application security testing activities, you may just find there's room for improvement.
+> **[7:18](https://www.linkedin.com/learning/dynamic-application-security-testing/osint-gathering?u=76281980&t=438)** You may think you've done a good job of limiting the amount of publicly-available information about your production web applications, but by sprinkling a little OSINT gathering into your dynamic [[Application Security]] testing activities, you may just find there's room for improvement.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (10), [[Security]] (6), application (4), dns (3), data (3)
+> **Frameworks & Libraries:** [[Forms]] (1), [[Algorithms]] (1), [[HTML]] (1), [[Google]] (1), [[Microsoft Defender|Defender]] (1)
 > **Env Vars:** osint (21), dns (3), ssl (3), http (3), tls (2)
 > **CLI Commands:** find (4), ssh (1), make (1)
 > **URLs:** [pentesttools.com](https://pentesttools.com) (1)
@@ -1308,8 +1295,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Web app proxies
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980)
+#### [Web app proxies](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1319,15 +1305,15 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=13)** A proxy is some component, usually a piece of software, that sits between your client system and any of the web applications that client talks to.
 >
-> **[0:24](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=24)** All requests sent from the client to the app and all the responses sent back from the app to the client are there in the proxy for you to inspect and manipulate as part of your security testing.
+> **[0:24](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=24)** All requests sent from the client to the app and all the responses sent back from the app to the client are there in the proxy for you to inspect and manipulate as part of your [[Security Testing]].
 >
-> **[0:39](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=39)** A web application proxy has been essential to every, and I mean every web application security assessment that I've ever worked on.
+> **[0:39](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=39)** A web application proxy has been essential to every, and I mean every [[Web Application Security]] assessment that I've ever worked on.
 >
 > **[0:49](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=49)** I have a hunch you've heard the term, man in the middle attack or adversary in the middle attack at some point in your career.
 >
 > **[0:57](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=57)** Proxies are a core component in this scenario.
 >
-> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=61)** An attacker might use a proxy to spy on traffic, looking for sensitive data like passwords or session tokens without preventing the traffic from ever reaching its intended destination.
+> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=61)** An attacker might use a proxy to spy on traffic, looking for sensitive data like passwords or session [[Tokens]] without preventing the traffic from ever reaching its intended destination.
 >
 > **[1:14](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=74)** If the attacker wants to manipulate that traffic, though, the proxy could allow the attacker to redirect the traffic to a different destination or to make unauthorized changes to the traffic before reaching the original destination.
 >
@@ -1359,15 +1345,15 @@ created: 2026-05-02
 >
 > **[3:30](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=210)** What's really cool though, is that these tools enable you to manipulate both requests and responses, sending virtually any data you can imagine to the backend web server.
 >
-> **[3:42](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=222)** In all three editions of Burp Suite, Enterprise, Professional, and Community, you'll have access to the Burp Proxy tool.
+> **[3:42](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=222)** In all three editions of [[Burp Suite]], Enterprise, Professional, and Community, you'll have access to the Burp Proxy tool.
 >
-> **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=231)** You kind of have to, since the rest of the suite's functionality hinges on whether or not the proxy is up and running.
+> **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=231)** You kind of have to, since the [[Representational State Transfer (REST)|rest]] of the suite's functionality hinges on whether or not the proxy is up and running.
 >
 > **[3:57](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=237)** I'll show you how to configure and use the Burt Proxy in just a bit.
 >
-> **[4:02](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=242)** OWASP ZAP and Fiddler are two other proxies I keep in my toolbox for testing web applications.
+> **[4:02](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=242)** [[OWASP]] ZAP and Fiddler are two other proxies I keep in my toolbox for testing web applications.
 >
-> **[4:09](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=249)** Both have served me well over the years, and I'm sure you'll find value in using one or both as you build out your own dynamic application security testing procedures.
+> **[4:09](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=249)** Both have served me well over the years, and I'm sure you'll find value in using one or both as you build out your own dynamic [[Application Security]] testing procedures.
 >
 > **[4:19](https://www.linkedin.com/learning/dynamic-application-security-testing/web-app-proxies?u=76281980&t=259)** A web application proxy is an invaluable tool in every application security tester's toolbox.
 >
@@ -1375,7 +1361,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (9), web (9), [[Security]] (7), web application (6), data (5)
+> **Frameworks & Libraries:** [[Security Testing]] (3), [[Web Application Security]] (2), [[Tokens]] (1), [[Burp Suite]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** http (4), https (3), tls (2), hsts (2), tcp (2)
 > **CLI Commands:** make (2), find (2)
 > **Tools:** firefox (2)
@@ -1384,8 +1370,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### DevSecOps
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980)
+#### [DevSecOps](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1395,19 +1380,19 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=22)** As a result, operations and security teams have had to adjust their own practices to fit this new model.
 >
-> **[0:29](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=29)** Most folks you speak with are likely to refer to this model as DevOps.
+> **[0:29](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=29)** Most folks you speak with are likely to refer to this model as [[DevOps]].
 >
 > **[0:34](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=34)** In short, the development teams and the IT operations or ops teams now share practices and tools to work together more efficiently.
 >
-> **[0:44](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=44)** I'm in the camp that uses a term DevSecOps, since a modern security team isn't really part of development or part of IT.
+> **[0:44](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=44)** I'm in the camp that uses a term [[DevSecOps]], since a modern security team isn't really part of development or part of IT.
 >
-> **[0:54](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=54)** Security is evolving into a practice that blends business acumen with technical security knowledge, focusing on how risk reduction can reduce potential business disruptions.
+> **[0:54](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=54)** Security is evolving into a practice that blends [[Business Acumen]] with technical security knowledge, focusing on how risk reduction can reduce potential business disruptions.
 >
 > **[1:06](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=66)** And if you don't have security ingrained in your DevSecOps practice, then the likelihood of a potential security incident increases dramatically.
 >
 > **[1:16](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=76)** At the core of DevOps is the concept of a CI/CD pipeline.
 >
-> **[1:21](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=81)** CI stands for continuous integration, while CD stands for continuous delivery.
+> **[1:21](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=81)** CI stands for [[Continuous Integration (CI)|continuous integration]], while CD stands for [[Continuous Delivery (CD)|continuous delivery]].
 >
 > **[1:28](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=88)** You might also hear some folks explain CD as continuous deployment.
 >
@@ -1421,13 +1406,13 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=118)** The challenge that you'll have as a security professional is finding ways to interject security practices and tools into this pipeline, especially if security didn't have a seat at the table when the organization decided that DevOps was the way they wanted to go.
 >
-> **[2:15](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=135)** The good news is OWASP has you covered.
+> **[2:15](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=135)** The good news is [[OWASP]] has you covered.
 >
 > **[2:19](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=139)** OWASP maintains a DevSecOps guideline project, where they cover a number of security practices to help you transform your DevOps pipeline into a DevSecOps pipeline.
 >
 > **[2:32](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=152)** Secret scanning looks for hard coded credentials, while software composition analysis looks for weaknesses in third party libraries or dependencies.
 >
-> **[2:41](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=161)** I've got an entire course on [[Static Application Security Testing]], which primarily focuses on weaknesses in source code.
+> **[2:41](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=161)** I've got an entire course on [[Static [[Application Security]] Testing]], which primarily focuses on weaknesses in source code.
 >
 > **[2:49](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=169)** Infrastructure is code scanning and container scanning focus on potential weaknesses in apps developed and deployed in cloud environments, while Dynamic Application Security Testing, this course, evaluates apps once they've been compiled and deployed.
 >
@@ -1439,11 +1424,11 @@ created: 2026-05-02
 >
 > **[3:42](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=222)** In AWS, they call it CodePipeline.
 >
-> **[3:45](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=225)** Microsoft calls it Azure pipelines, and Google refers to it as Cloud Build.
+> **[3:45](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=225)** [[Microsoft]] calls it [[Microsoft Azure|Azure]] pipelines, and [[Google]] refers to it as Cloud Build.
 >
 > **[3:51](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=231)** My recommendation is that you embrace the idea of DevSecOps, and that you educate your internal teams on where security plays a role in their DevOps model.
 >
-> **[4:03](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=243)** If you try to force security testing onto these teams in a way that disrupts their CI/CD pipeline, you're going to have a tough time ahead of you, and it's likely to be an unsuccessful effort.
+> **[4:03](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=243)** If you try to force [[Security Testing]] onto these teams in a way that disrupts their CI/CD pipeline, you're going to have a tough time ahead of you, and it's likely to be an unsuccessful effort.
 >
 > **[4:15](https://www.linkedin.com/learning/dynamic-application-security-testing/devsecops?u=76281980&t=255)** Meet them where they are.
 >
@@ -1451,25 +1436,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), cd (6), teams (5), [[DevOps]] (5), [[DevSecOps]] (5)
+> **Frameworks & Libraries:** [[DevOps]] (5), [[DevSecOps]] (5), [[OWASP]] (3), [[Application Security]] (2), [[Business Acumen]] (1)
 > **CLI Commands:** cd (6), aws (1)
 > **Env Vars:** owasp (3), aws (1)
 > **Definitions:** stands for (2), is a  (1), refers to (1)
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Burp Suite
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980)
+#### [Demo: Burp Suite](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=0)** - [Narrator] For the Burp Suite demo, we're going to use the Community Edition.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=0)** - [Narrator] For the [[Burp Suite]] demo, we're going to use the Community Edition.
 >
 > **[0:04](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=4)** While Community Edition doesn't contain the paid vulnerability scanner, it does contain the free proxy tool.
 >
 > **[0:11](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=11)** When you go to downloads, you'll be prompted to download the latest edition based on your operating system.
 >
-> **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=18)** Again, for a web application to test, we're going to turn to the OWASP Vulnerable Web Applications Directory, pulling from the list of online applications.
+> **[0:18](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=18)** Again, for a web application to test, we're going to turn to the [[OWASP]] Vulnerable Web Applications Directory, pulling from the list of online applications.
 >
 > **[0:29](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=29)** For this demo, the OWASP Juice Shop will work perfectly.
 >
@@ -1485,7 +1469,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=72)** Intercept will capture every request and every response between your client and the server, the application that you're talking to.
 >
-> **[1:21](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=81)** The two history tabs, HTTP, and WebSockets are going to keep a log of every URL that you access, and Options allows you to fine tune the configuration, but again we are just fine with the defaults.
+> **[1:21](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=81)** The two history tabs, HTTP, and [[WebSocket|WebSockets]] are going to keep a log of every URL that you access, and Options allows you to fine tune the configuration, but again we are just fine with the defaults.
 >
 > **[1:40](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=100)** Now here Intercept is the part of the Burp tool that allows you to capture a request and make changes to it before you send it to the server.
 >
@@ -1523,7 +1507,7 @@ created: 2026-05-02
 >
 > **[4:13](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=253)** When we login to applications, especially when that login is a form, we are almost always using a POST to send the username and password to the application.
 >
-> **[4:26](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=266)** If you scroll up a bit, you'll find that there's a POST for /rest/user/login, and when you click on that, you can see the original POST, the data that was sent to the application including the JSON message that has the username and password in plain text.
+> **[4:26](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=266)** If you scroll up a bit, you'll find that there's a POST for /[[Representational State Transfer (REST)|rest]]/user/login, and when you click on that, you can see the original POST, the data that was sent to the application including the [[JSON]] message that has the username and password in plain text.
 >
 > **[4:48](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=288)** Now this is only in plain text, because the Burp proxy is running on the same computer that I'm using to access the application.
 >
@@ -1547,7 +1531,7 @@ created: 2026-05-02
 >
 > **[6:08](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=368)** You can alter anything that you would have sent from the web browser and had no idea what was being sent behind the scenes, because the proxy gives you that much visibility, it gives you that much control.
 >
-> **[6:23](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=383)** And if you wanted to try a SQL injection attack, you could come down here to the password and say, "I want the password to be admin123," or, "I want to check and see if the number one is equal to the number one."
+> **[6:23](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=383)** And if you wanted to try a [[SQL]] injection attack, you could come down here to the password and say, "I want the password to be admin123," or, "I want to check and see if the number one is equal to the number one."
 >
 > **[6:40](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=400)** Now when I try to send this updated data directly to the application, it's going to look to the application like I want to login.
 >
@@ -1581,11 +1565,11 @@ created: 2026-05-02
 >
 > **[8:23](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=503)** Manipulate some of the other data fields and see how the application reacts.
 >
-> **[8:28](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=508)** A proxy tool by itself is rock simple, but the capability it gives you as an application security tester is immense.
+> **[8:28](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-burp-suite?u=76281980&t=508)** A proxy tool by itself is rock simple, but the capability it gives you as an [[Application Security]] tester is immense.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (17), data (5), traffic (4), [[OWASP]] (3), web (3)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[SQL]] (3), [[Burp Suite]] (1), [[WebSocket|Websockets]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** post (5), url (4), owasp (3), http (3), sql (3)
 > **UI Navigation:** go to (5), click on (5), scroll down (1), scroll up (1)
 > **API Endpoints:** post  (2), post
@@ -1600,12 +1584,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Scoping a web app pen test
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
+#### [Scoping a web app pen test](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=0)** - [Instructor] In order to conduct an effective web application security test, you first need to determine what's in scope and what's out of scope for that test.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=0)** - [Instructor] In order to conduct an effective [[Web Application Security]] test, you first need to determine what's in scope and what's out of scope for that test.
 >
 > **[0:10](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=10)** Otherwise, you've run the risk of spending entirely too much time on the wrong things.
 >
@@ -1613,7 +1596,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=23)** One of the most common goals is to compromise restricted or sensitive data, data that the tester is not authorized to access.
 >
-> **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=31)** Standards like the Payment Card Industry Data Security Standard and regulations like HIPAA in the US are two perfect examples of external forces that require companies to conduct a data-centric pen test.
+> **[0:31](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=31)** Standards like the Payment Card Industry [[Data Security]] Standard and regulations like HIPAA in the US are two perfect examples of external forces that require companies to conduct a data-centric pen test.
 >
 > **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=46)** But your pen test could also be account-centric.
 >
@@ -1653,9 +1636,9 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=155)** Depending on the type of pen test that you're running, you may be provided with valid user accounts specifically created for testing purposes.
 >
-> **[2:44](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=164)** Finally, make sure you identify testing windows that are either approved or forbidden.
+> **[2:44](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=164)** Finally, make sure you identify testing [[Windows]] that are either approved or forbidden.
 >
-> **[2:51](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=171)** The last thing you want to do is cause a production impact to an e-commerce application during their peak sales time.
+> **[2:51](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=171)** The last thing you want to do is cause a production impact to an [[E-Commerce]] application during their peak sales time.
 >
 > **[2:58](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=178)** If you do, chances are you won't be invited back to test that app again in the future.
 >
@@ -1703,15 +1686,15 @@ created: 2026-05-02
 >
 > **[5:38](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=338)** Your scope will be directly impacted by your hosting provider requirements if your in-scope apps live on their infrastructure.
 >
-> **[5:47](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=347)** Amazon Web Services has a well-defined policy regarding what you're allowed to test and what you're not.
+> **[5:47](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=347)** [[Amazon Web Services (AWS)|Amazon Web Services]] has a well-defined policy regarding what you're allowed to test and what you're not.
 >
 > **[5:53](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=353)** If you're hosting any of your in-scope applications with AWS, make sure your testing scope aligns with their requirements.
 >
-> **[6:02](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=362)** And while Microsoft doesn't require you to notify them before performing penetration tests against Azure resources, they do require you to comply with their unified penetration testing rules of engagement.
+> **[6:02](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=362)** And while [[Microsoft]] doesn't require you to notify them before performing penetration tests against [[Microsoft Azure|Azure]] resources, they do require you to comply with their unified [[Penetration Testing]] rules of engagement.
 >
 > **[6:15](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=375)** Their site details standard tests that you're permitted to perform, tests that are explicitly prohibited, and the penetration testing rules of engagement that apply to their shared environment.
 >
-> **[6:27](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=387)** And if you're hosting apps in Google Cloud, you need to be familiar with how your scope aligns with their acceptable use policy and their terms of service.
+> **[6:27](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=387)** And if you're hosting apps in [[Google Cloud Platform (GCP)|Google Cloud]], you need to be familiar with how your scope aligns with their acceptable use policy and their terms of service.
 >
 > **[6:36](https://www.linkedin.com/learning/dynamic-application-security-testing/scoping-a-web-app-pen-test?u=76281980&t=396)** They don't require you to notify them ahead of time, but they do require you to abide by the rules outlined in these two agreements.
 >
@@ -1719,7 +1702,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Security]] (4), application (3), web application (2), web (2)
+> **Frameworks & Libraries:** [[E-Commerce]] (2), [[Penetration Testing]] (2), [[Web Application Security]] (1), [[Data Security]] (1), [[Windows]] (1)
 > **CLI Commands:** make (2), find (1), aws (1)
 > **Env Vars:** hipaa (1), dns (1), aws (1)
 > **Definitions:** is a  (1)
@@ -1727,12 +1710,11 @@ created: 2026-05-02
 > **Prerequisites:** before you begin (1)
 > **Speakers:** - [instructor] (1)
 
-#### Avoiding production impacts
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980)
+#### [Avoiding production impacts](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=0)** - [Jared] Penetration testing involves testing the effectiveness of controls in a production environment.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=0)** - [Jared] [[Penetration Testing]] involves testing the effectiveness of controls in a production environment.
 >
 > **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=6)** As the tester, it's your responsibility to know how to conduct these tests in a manner that avoids negatively impacting that environment.
 >
@@ -1766,7 +1748,7 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=127)** Only it doesn't end there.
 >
-> **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=129)** I found myself in a meeting with our CIO, our head of human resources, our chief legal counsel, and our chief diversity officer.
+> **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=129)** I found myself in a meeting with our CIO, our head of [[Human Resources (HR)|human resources]], our chief legal counsel, and our chief diversity officer.
 >
 > **[2:20](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=140)** Our company took great strides to encourage diversity and inclusiveness in hiring.
 >
@@ -1822,7 +1804,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=285)** If a particular form has been flagged as out of scope, it's important to document that the form will not be tested.
 >
-> **[4:53](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=293)** And that forms are a likely vector for attacks like SQL injection and command injection.
+> **[4:53](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=293)** And that [[Forms]] are a likely vector for attacks like [[SQL]] injection and command injection.
 >
 > **[4:59](https://www.linkedin.com/learning/dynamic-application-security-testing/avoiding-production-impacts?u=76281980&t=299)** Once everything has been documented, go over it one last time with your stakeholders and get their approval to run the test you've identified.
 >
@@ -1840,25 +1822,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (3), application (3), web application (2), hr (2), web (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1), [[Human Resources (HR)|Human resources]] (1), [[Forms]] (1), [[SQL]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** cio (1), sql (1)
 > **Definitions:** is a  (1), means that (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [jared] (1)
 
-#### Penetration testing execution standard
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980)
+#### [Penetration testing execution standard](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=0)** - [Instructor] The Penetration Testing Execution Standard or PTES provides expert guidance on how to conduct a penetration test from pre-engagement to reporting.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=0)** - [Instructor] The [[Penetration Testing]] Execution Standard or PTES provides expert guidance on how to conduct a penetration test from pre-engagement to reporting.
 >
-> **[0:11](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=11)** By using the PTES as a model for planning your own application security test it's like you're standing on the shoulders of giants.
+> **[0:11](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=11)** By using the PTES as a model for planning your own [[Application Security]] test it's like you're standing on the shoulders of giants.
 >
 > **[0:21](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=21)** The PTES outlines seven phases that you should consider when planning any penetration test.
 >
-> **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=27)** Pre-engagement interactions, intelligence gathering, threat modeling, vulnerability analysis, exploitation, post-exploitation, and reporting.
+> **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=27)** Pre-engagement interactions, intelligence gathering, [[Threat Modeling]], vulnerability analysis, exploitation, post-exploitation, and reporting.
 >
 > **[0:41](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=41)** Think of the PTES as a funnel, with the earlier phases at the top of the funnel and the later phases at the bottom.
 >
@@ -1940,7 +1921,7 @@ created: 2026-05-02
 >
 > **[5:07](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=307)** When you get to this phase, you are finally, finally ready to run your web application vulnerability scans.
 >
-> **[5:15](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=315)** This is where tools like Burp Suite and OWASP ZAP come in handy.
+> **[5:15](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=315)** This is where tools like [[Burp Suite]] and [[OWASP]] ZAP come in handy.
 >
 > **[5:20](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=320)** Don't forget to include APIs and web services in your vulnerability analysis.
 >
@@ -1968,7 +1949,7 @@ created: 2026-05-02
 >
 > **[6:34](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=394)** If there's a web application firewall in play then the chances of a successful injection attack, for example, are going to go way down.
 >
-> **[6:42](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=402)** Likewise, any security operations center employees monitoring alerts you might trigger are likely to recognize you as an attacker and they may even black hole your IP address.
+> **[6:42](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=402)** Likewise, any [[Security Operations]] center employees monitoring alerts you might trigger are likely to recognize you as an attacker and they may even black hole your IP address.
 >
 > **[6:54](https://www.linkedin.com/learning/dynamic-application-security-testing/penetration-testing-execution-standard?u=76281980&t=414)** You might have hit on some false positives in your previous phases.
 >
@@ -2040,7 +2021,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Security]] (5), web (4), data (4), [[Threat Modeling]] (3)
+> **Frameworks & Libraries:** [[Threat Modeling]] (3), [[Application Security]] (2), [[Penetration Testing]] (1), [[Burp Suite]] (1), [[OWASP]] (1)
 > **Env Vars:** ptes (11), osint (2), stride (1), dread (1), owasp (1)
 > **CLI Commands:** find (3), make (2)
 > **Analogies:** it's like (1), for example (1)
@@ -2049,8 +2030,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Types of pen tests
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980)
+#### [Types of pen tests](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2066,7 +2046,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980&t=41)** While this approach might be more representative of real world attacks, it does increase the likelihood that a tester might overlook a weakness that could have and maybe should have been tested.
 >
-> **[0:51](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980&t=51)** White box penetration testing refers to an engagement where the customer provides the tester with a considerable amount of internal information about the target application.
+> **[0:51](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980&t=51)** White box [[Penetration Testing]] refers to an engagement where the customer provides the tester with a considerable amount of internal information about the target application.
 >
 > **[1:03](https://www.linkedin.com/learning/dynamic-application-security-testing/types-of-pen-tests?u=76281980&t=63)** This often includes reports from other assessments, authenticated web app vulnerability scan reports, infrastructure diagrams, and even valid credentials.
 >
@@ -2124,19 +2104,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (6), web application (2), [[Security]] (2), teams (2), next (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (1)
 > **Definitions:** refers to (1), is an  (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [teacher] (1)
 
-#### Web application firewalls
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980)
+#### [Web application firewalls](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=0)** - [Instructor] Web application firewalls are defensive technologies that are designed to detect and block potentially malicious application traffic.
 >
-> **[0:10](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=10)** As an application security tester, you need to know how to identify, and in some cases, circumvent these web application firewalls.
+> **[0:10](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=10)** As an [[Application Security]] tester, you need to know how to identify, and in some cases, circumvent these web application firewalls.
 >
 > **[0:20](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=20)** Keep in mind, a web application firewall is not the same thing as a network firewall.
 >
@@ -2148,7 +2127,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=56)** Web application firewalls inspect all HTTP and HTTPS traffic, looking for potentially malicious strings of text in URLs and in HTTP headers.
 >
-> **[1:09](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=69)** By inspecting this web content and comparing it to known attack patterns, web application firewalls can detect and prevent things like SQL injection and cross-site scripting attacks without blocking legitimate web traffic.
+> **[1:09](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=69)** By inspecting this web content and comparing it to known attack patterns, web application firewalls can detect and prevent things like [[SQL]] injection and cross-site scripting attacks without blocking legitimate web traffic.
 >
 > **[1:25](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=85)** What's even better, defenders can enable custom rules in a web application firewall to virtually patch an application between the time a vulnerability is discovered and the time the development team can create, test and deploy a code fix to production.
 >
@@ -2158,7 +2137,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=116)** It was originally built to be a module within the Apache web server, but it's grown over the years to become the gold standard in open source WAFs.
 >
-> **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=127)** ModSecurity is so popular that OWASP launched the ModSecurity Core Rule Set project to build and maintain useful rule sets within that tool.
+> **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=127)** ModSecurity is so popular that [[OWASP]] launched the ModSecurity Core Rule Set project to build and maintain useful rule sets within that tool.
 >
 > **[2:18](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=138)** Other open source options include NAXSI, short for Nginx Anti Cross Site Scripting and SQL Injection, WebKnight, an open source WAF for IAS, Shadow Daemon, and OWASP Coraza.
 >
@@ -2190,7 +2169,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=248)** Those artifacts include cookies, values in the HTTP headers, and even in some cases, error messages in the browser itself.
 >
-> **[4:18](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=258)** If you want to automate this activity, then you could turn to the Nmap script, http-waf-detect, or the Wafw00f Python script in Kali Linux.
+> **[4:18](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=258)** If you want to automate this activity, then you could turn to the [[Nmap]] script, http-waf-detect, or the Wafw00f [[Python (Programming Language)|Python]] script in [[Kali Linux]].
 >
 > **[4:31](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=271)** Once you know which WAF you're up against, then you can try a few different evasion techniques.
 >
@@ -2200,11 +2179,11 @@ created: 2026-05-02
 >
 > **[4:49](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=289)** By toying around with the characters in your request, you might find a combination that the WAF assumes is safe.
 >
-> **[4:57](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=297)** Regarding automation, the WAFNinja script from khalilbijjou on GitHub has some great ideas for attacking WAFs.
+> **[4:57](https://www.linkedin.com/learning/dynamic-application-security-testing/web-application-firewalls?u=76281980&t=297)** Regarding automation, the WAFNinja script from khalilbijjou on [[GitHub]] has some great ideas for attacking WAFs.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web application (10), traffic (8), web (6), application (4), data (3)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[SQL]] (2), [[Application Security]] (1), [[Nmap]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** waf (9), http (3), owasp (3), sql (2), https (1)
 > **CLI Commands:** apache (1), nginx (1), python (1), find (1)
 > **Definitions:** short for (1), is a  (1)
@@ -2213,8 +2192,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### SIEMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980)
+#### [SIEMs](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2228,9 +2206,9 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=39)** One of the goals of a SIM is to automate security log management.
 >
-> **[0:45](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=45)** Security event management systems perform threat analysis on that data, helping you automate your security incident response activities.
+> **[0:45](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=45)** Security event management systems perform threat analysis on that data, helping you automate your [[Security Incident Response]] activities.
 >
-> **[0:54](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=54)** By combining these technologies into a security information event management system, you get the best of both worlds- log management and incident response automation.
+> **[0:54](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=54)** By combining these technologies into a security information event management system, you get the best of both worlds- log management and [[Incident Response]] automation.
 >
 > **[1:07](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=67)** SIEMs have many capabilities, but four in particular stand out.
 >
@@ -2240,19 +2218,19 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=91)** They enable you to log in and analyze those logs for yourself, looking for patterns that go above and beyond the automatic correlation rules.
 >
-> **[1:40](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=100)** And they alert on potential security incidents, using all the logs and logic and intelligence at their disposal to let you know in near real-time when an attack is underway.
+> **[1:40](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=100)** And they alert on potential security incidents, using all the logs and logic and intelligence at their disposal to let you know in near [[Real-Time]] when an attack is underway.
 >
 > **[1:52](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=112)** Having a finely-tuned SIEM in your environment can be like having a full-time security professional watching your systems and applications like a hawk.
 >
-> **[2:03](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=123)** As you prepare for your web application security penetration test, it will help you immensely to understand what your testing activities look like to a SIEM.
+> **[2:03](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=123)** As you prepare for your [[Web Application Security]] penetration test, it will help you immensely to understand what your testing activities look like to a SIEM.
 >
 > **[2:13](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=133)** That's why you should stand up an open-source SIEM in your home lab.
 >
 > **[2:17](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=137)** The ELK Stack is arguably the most popular open-source SIEM.
 >
-> **[2:22](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=142)** It takes its name from the three underlying tools, Elasticsearch, Logstash, and Kibana.
+> **[2:22](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=142)** It takes its name from the three underlying tools, [[Elasticsearch]], Logstash, and Kibana.
 >
-> **[2:30](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=150)** OSSEC+ is, at its core, a host-based intrusion detection system for servers, but with the right configuration, you can also use it as a SIEM.
+> **[2:30](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=150)** OSSEC+ is, at its core, a host-based [[Intrusion Detection]] system for servers, but with the right configuration, you can also use it as a SIEM.
 >
 > **[2:41](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=161)** OSSIM, from AlienVault, literally stands for open-source SIEM.
 >
@@ -2266,19 +2244,19 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=191)** The free version of Splunk is limited in the amount of data it can process each day, but that limitation shouldn't be too much of an issue in your home lab.
 >
-> **[3:22](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=202)** As organizations have moved to the cloud, infrastructure-as-a-service providers, like Amazon, Microsoft, and Google, have developed cloud-native SIEMs for their customers.
+> **[3:22](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=202)** As organizations have moved to the cloud, infrastructure-as-a-service providers, like Amazon, [[Microsoft]], and [[Google]], have developed cloud-native SIEMs for their customers.
 >
-> **[3:33](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=213)** If your app is hosted in AWS, chances are that the DevOps team has considered Control Tower as their SIEM.
+> **[3:33](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=213)** If your app is hosted in AWS, chances are that the [[DevOps]] team has considered Control Tower as their SIEM.
 >
-> **[3:41](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=221)** Azure customers might rely on Microsoft Sentinel, while Google customers could leverage Chronicle.
+> **[3:41](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=221)** [[Microsoft Azure|Azure]] customers might rely on Microsoft Sentinel, while Google customers could leverage Chronicle.
 >
 > **[3:48](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=228)** Whether or not those teams have enabled these SIEMs often depends on budget.
 >
 > **[3:53](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=233)** Almost every cloud service you subscribe to comes with a cost.
 >
-> **[3:56](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=236)** And if a SIEM isn't included in your organization's cloud budget, then you might be able to execute your dynamic application security testing without being detected.
+> **[3:56](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=236)** And if a SIEM isn't included in your organization's cloud budget, then you might be able to execute your dynamic [[Application Security]] testing without being detected.
 >
-> **[4:08](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=248)** The way your SIEM will react during a web app pen test depends largely on what log data you're feeding it.
+> **[4:08](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=248)** The way your SIEM will [[React.js|react]] during a web app pen test depends largely on what log data you're feeding it.
 >
 > **[4:14](https://www.linkedin.com/learning/dynamic-application-security-testing/siems?u=76281980&t=254)** In short, if you don't send it enough logs, it can't do its job.
 >
@@ -2320,7 +2298,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (14), management (9), data (7), open-source (4), cloud (4)
+> **Frameworks & Libraries:** [[Intrusion Detection]] (2), [[Microsoft]] (2), [[Google]] (2), [[Security Incident Response]] (1), [[Incident Response]] (1)
 > **Env Vars:** siem (17), ossec (2), sim (1), elk (1), ossim (1)
 > **CLI Commands:** make (2), aws (1), apache (1)
 > **Definitions:** stands for (1), is a  (1)
@@ -2328,8 +2306,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Purple teaming
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980)
+#### [Purple teaming](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2379,7 +2356,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=148)** Does the app enforce complex passwords?
 >
-> **[2:31](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=151)** Does it require multi-factor authentication?
+> **[2:31](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=151)** Does it require [[Multi-factor Authentication]]?
 >
 > **[2:34](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=154)** Are we logging everything we need to log?
 >
@@ -2389,7 +2366,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=174)** A nice alternative to the "RTFM" for Blue Teamers is the "Blue Team Field Manual."
 >
-> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=180)** This book focuses on cybersecurity incident response, using the NIST Cybersecurity framework as its guide.
+> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=180)** This book focuses on [[Cybersecurity Incident Response]], using the [[NIST]] [[Cybersecurity]] framework as its guide.
 >
 > **[3:08](https://www.linkedin.com/learning/dynamic-application-security-testing/purple-teaming?u=76281980&t=188)** Look around your organization for people who think like this.
 >
@@ -2403,18 +2380,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (7), web application (3), application (2), [[Security]] (2), next (2)
+> **Frameworks & Libraries:** [[Multi-factor Authentication]] (1), [[Cybersecurity Incident Response]] (1), [[NIST]] (1), [[Cybersecurity]] (1)
 > **Env Vars:** rtfm (2), nist (1), btfm (1)
 > **CLI Commands:** make (2), find (1)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Kali Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980)
+#### [Demo: Kali Linux](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=0)** - [Instructor] Kali Linux is a Linux server, preloaded with penetration testing tools.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=0)** - [Instructor] [[Kali Linux]] is a [[Linux]] server, preloaded with [[Penetration Testing]] tools.
 >
 > **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=6)** If you go to [kali.org](https://kali.org) and click on Download, you'll have multiple options for how you can download that server.
 >
@@ -2428,17 +2404,17 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=51)** You'll go to Information Gathering to learn about your targets, and within these tools, I'd recommend DNS Analysis, using a tool to identify all of the host that you might be trying to scan with your web app scanners.
 >
-> **[1:08](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=68)** I'd also recommend going to Network and Port Scanners, maybe running an Nmap scan to identify available services.
+> **[1:08](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=68)** I'd also recommend going to Network and Port Scanners, maybe running an [[Nmap]] scan to identify available services.
 >
 > **[1:16](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=76)** And I'd also recommend doing some SSL analysis, maybe using a tool like SSLScan, to identify how the application is encrypting data.
 >
-> **[1:27](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=87)** Once you develop that understanding of your targets, you could go to Vulnerability Analysis and use a tool like Nikto to identify potential weaknesses on the system hosting the web application.
+> **[1:27](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=87)** Once you develop that understanding of your targets, you could go to Vulnerability Analysis and use a tool like [[Nikto]] to identify potential weaknesses on the system hosting the web application.
 >
 > **[1:43](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=103)** But when we get into the web application analysis itself, Kali's got a number of tools to get very deep and very specific.
 >
-> **[1:51](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=111)** So if, for example, you find a WordPress site running on one of the servers that is in scope for the pen test, there's a tool built into Kali, WPScan, which is exclusively built for identifying security vulnerabilities in WordPress.
+> **[1:51](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=111)** So if, for example, you find a [[WordPress]] site running on one of the servers that is in scope for the pen test, there's a tool built into Kali, WPScan, which is exclusively built for identifying security vulnerabilities in WordPress.
 >
-> **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=129)** We could also use the web app proxy built into Burp Suite.
+> **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=129)** We could also use the web app proxy built into [[Burp Suite]].
 >
 > **[2:14](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=134)** Instead of installing it separately, it's already built into Kali.
 >
@@ -2446,13 +2422,13 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=152)** And from a vulnerability scanner standpoint, Kali has multiple tools built in to help you quickly identify vulnerabilities in these web applications.
 >
-> **[2:43](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=163)** If you identify a way to launch a SQL injection attack against an in-scope application, sqlmap is a terrific tool for SQL injection.
+> **[2:43](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=163)** If you identify a way to launch a [[SQL]] injection attack against an in-scope application, [[SQLmap]] is a terrific tool for SQL injection.
 >
-> **[2:53](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=173)** If you wanted to do a brute force, online password attack, you might try a tool like Hydra to try to log in with known usernames or passwords.
+> **[2:53](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=173)** If you wanted to do a brute force, online password attack, you might try a tool like [[Hydra]] to try to log in with known usernames or passwords.
 >
 > **[3:04](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=184)** And once you get down to exploitation and post exploitation, now you're on the internal network using the vulnerabilities you've identified for privilege escalation and lateral movement.
 >
-> **[3:17](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=197)** Kali even has reporting tools built in to help streamline the data collection and reporting process, as you wrap up the pen test and prepare to present the findings to your stakeholders.
+> **[3:17](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=197)** Kali even has reporting tools built in to help streamline the [[Data Collection]] and reporting process, as you wrap up the pen test and prepare to present the findings to your stakeholders.
 >
 > **[3:29](https://www.linkedin.com/learning/dynamic-application-security-testing/demo-kali-linux?u=76281980&t=209)** All of this functionality is built into Kali by default.
 >
@@ -2462,7 +2438,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (4), web application (4), application (3), [[Penetration Testing]] (2), data (2)
+> **Frameworks & Libraries:** [[Penetration Testing]] (2), [[WordPress]] (2), [[SQL]] (2), [[Kali Linux]] (1), [[Linux]] (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** sql (2), dns (1), ssl (1)
 > **CLI Commands:** find (2)
@@ -2476,8 +2452,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The OWASP Top Ten
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
+#### [The OWASP Top Ten](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2489,11 +2464,11 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=21)** Walk, then run.
 >
-> **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=23)** A great way to get your feet under you is by focusing on the OWASP Top 10.
+> **[0:23](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=23)** A great way to get your feet under you is by focusing on the [[OWASP]] Top 10.
 >
 > **[0:30](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=30)** The OWASP Top 10 Project is hands down the most mature, most popular project in the OWASP Project Library.
 >
-> **[0:39](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=39)** While it began as a thought experiment in the early 2000s, this list of the 10 most critical web application security risks has become the cornerstone of the application security industry.
+> **[0:39](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=39)** While it began as a thought experiment in the early 2000s, this list of the 10 most critical [[Web Application Security]] risks has become the cornerstone of the [[Application Security]] industry.
 >
 > **[0:52](https://www.linkedin.com/learning/dynamic-application-security-testing/the-owasp-top-ten?u=76281980&t=52)** Updated every three years, the top 10 list is first released in English and then translated into multiple languages, making it accessible to developers and security professionals all around the world.
 >
@@ -2531,17 +2506,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), [[OWASP]] (11), mobile application (5), web application (4), application (2)
+> **Frameworks & Libraries:** [[OWASP]] (11), [[Application Security]] (7), [[Web Application Security]] (3)
 > **Env Vars:** owasp (11)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### A1: Broken access control
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980)
+#### [A1: Broken access control](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=0)** - [Teacher] The most significant risks in the OWASP top 10 list are broken access control flaws.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=0)** - [Teacher] The most significant risks in the [[OWASP]] top 10 list are broken access control flaws.
 >
 > **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=7)** You learned about broken authentication earlier, about keeping unauthorized users out of your application but you also need to make sure that the application enforces the right security on users after they successfully log in.
 >
@@ -2549,7 +2523,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=27)** If access controls aren't properly enforced though, an attacker could potentially have access to functions and data that belong to another user's account.
 >
-> **[0:36](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=36)** While automated tools might be able to detect whether access controls are missing, you really need to rely on manual testing to make sure that the access controls are properly aligned with your business rules.
+> **[0:36](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=36)** While automated tools might be able to detect whether access controls are missing, you really need to rely on [[Manual Testing]] to make sure that the access controls are properly aligned with your business rules.
 >
 > **[0:50](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=50)** That lack of automated detection is one of the reasons it's so easy for broken access controls to slip into an application.
 >
@@ -2593,7 +2567,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=216)** And anywhere that you can escalate to privileges assigned to your account without going through the proper channels and approvals first, represents a broken access control weakness.
 >
-> **[3:48](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=228)** In the OWASP Web Security Testing Guide, you'll find five tests in section 4.3 identity management and four tests in section 4.5 authorization testing.
+> **[3:48](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=228)** In the OWASP Web [[Security Testing]] Guide, you'll find five tests in section 4.3 identity management and four tests in section 4.5 authorization testing.
 >
 > **[3:59](https://www.linkedin.com/learning/dynamic-application-security-testing/a1-broken-access-control?u=76281980&t=239)** By approaching your application design with a default deny mindset, you're much more likely to prevent broken access control flaws from occurring.
 >
@@ -2627,19 +2601,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (6), [[Security]] (6), web (5), [[OWASP]] (4), business (3)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Security Testing]] (2), [[Manual Testing]] (1)
 > **CLI Commands:** make (3), find (2)
 > **Env Vars:** owasp (4), api (1)
 > **Versions:** 4.3 (1), 4.5 (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [teacher] (1)
 
-#### A2: Cryptographic failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980)
+#### [A2: Cryptographic failures](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=0)** - [Instructor] The second set of risks in the OWASP Top 10 list are cryptographic failures.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=0)** - [Instructor] The second set of risks in the [[OWASP]] Top 10 list are cryptographic failures.
 >
 > **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=6)** If an attacker is targeting your application, then chances are the attacker wants access to the data that you've hidden behind the login screens and restricted to authorized users.
 >
@@ -2649,7 +2622,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=45)** If you've got things like passwords or financial account numbers or healthcare data stored in plain text files on your servers, then an attacker who finds a way to navigate directly to those files can steal that data without much effort.
 >
-> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=61)** Even if you've encrypted data at rest or data in motion, you should still consider the risk of an attacker gaining access to that encrypted data.
+> **[1:01](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=61)** Even if you've encrypted data at [[Representational State Transfer (REST)|rest]] or data in motion, you should still consider the risk of an attacker gaining access to that encrypted data.
 >
 > **[1:10](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=70)** An attacker could potentially exploit weaknesses in the encryption implementation and get to the plain text-sensitive data that you were trying to protect.
 >
@@ -2677,7 +2650,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=187)** Aside from all the costs and negative publicity associated with a data breach, these flaws could also lead to compliance regulations and fines.
 >
-> **[3:17](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=197)** Privacy laws, like GDPR, CCPA, and PIPEDA, carries some hefty fines for organizations who leave personally identifiable information exposed.
+> **[3:17](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=197)** [[Privacy]] laws, like GDPR, CCPA, and PIPEDA, carries some hefty fines for organizations who leave personally identifiable information exposed.
 >
 > **[3:29](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=209)** And the HIPAA laws in the US can cripple a business with fines following a data breach of electronic protected health information.
 >
@@ -2689,7 +2662,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=241)** If the app is using encryption mechanisms with known weaknesses, then an attacker might be able to downgrade the online encryption or convert that encrypted data back to plain text via an offline brute force attack.
 >
-> **[4:16](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=256)** The OWASP Web Security Testing Guide Section 4.9 contains four tests for weak cryptography.
+> **[4:16](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=256)** The OWASP Web [[Security Testing]] Guide Section 4.9 contains four tests for weak [[Cryptography]].
 >
 > **[4:24](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=264)** Of course, if sensitive data can be accessed by browsing directly to that resource, who cares about encryption?
 >
@@ -2697,7 +2670,7 @@ created: 2026-05-02
 >
 > **[4:42](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=282)** If you're going to protect sensitive data appropriately, you need to define what the term "sensitive" means to your organization.
 >
-> **[4:50](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=290)** The best starting point for this discussion is your data classification policy.
+> **[4:50](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=290)** The best starting point for this discussion is your [[Data Classification]] policy.
 >
 > **[4:55](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=295)** That policy should define what you need to protect, and you should have related standards and procedures that document exactly how your technical controls will comply with that policy.
 >
@@ -2719,25 +2692,24 @@ created: 2026-05-02
 >
 > **[6:03](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=363)** Disable the caching of sensitive data to ensure that it can't be extracted from that cache, and use salted hashing functions when protecting your passwords.
 >
-> **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=374)** OWASP has multiple cheat sheets that you might be interested in here, including Transport Layer Protection, User Privacy Protection, Password Storage, and Cryptographic Storage.
+> **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=374)** OWASP has multiple cheat sheets that you might be interested in here, including Transport Layer Protection, User [[Privacy Protection]], Password Storage, and Cryptographic Storage.
 >
 > **[6:28](https://www.linkedin.com/learning/dynamic-application-security-testing/a2-cryptographic-failures?u=76281980&t=388)** And Control 8 of the OWASP Proactive Controls emphasizes the importance of classifying data and of encrypting data both at rest and in transit, while also encouraging defined processes around key lifecycle management and around application secrets management.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[OWASP]] (4), application (4), [[Representational State Transfer (REST)|Rest]] (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Representational State Transfer (REST)|Rest]] (3), [[Data Classification]] (2), [[Privacy]] (1), [[Security Testing]] (1)
 > **Env Vars:** owasp (4), ascii (1), gdpr (1), ccpa (1), pipeda (1)
 > **CLI Commands:** find (1)
 > **Versions:** 4.9 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### A3: Injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980)
+#### [A3: Injection](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=0)** - [Instructor] The third set of risks in the OWASP Top 10 are injection flaws.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=0)** - [Instructor] The third set of risks in the [[OWASP]] Top 10 are injection flaws.
 >
 > **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=6)** When an attacker sends untrusted data to a backend interpreter, something like an OS command line interpreter, or a database or an LDAP directory, the interpreter has to decide what to do with that data.
 >
@@ -2771,11 +2743,11 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=122)** If the number one equals the number one, let me log in with the administrator account.
 >
-> **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=127)** That's a common SQL injection attack.
+> **[2:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=127)** That's a common [[SQL]] injection attack.
 >
 > **[2:10](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=130)** Attackers can also include injection attacks in the data itself.
 >
-> **[2:15](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=135)** By adding extra parameters to things like search queries or JSON messages, an attacker could trick an application into returning more data than it should, including the entire backend database.
+> **[2:15](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=135)** By adding extra parameters to things like search queries or [[JSON]] messages, an attacker could trick an application into returning more data than it should, including the entire backend database.
 >
 > **[2:30](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=150)** Injection attacks are pretty awful, and they've been hovering around the top of the OWASP Top 10 from the very beginning.
 >
@@ -2795,7 +2767,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=206)** Just think of what the impact would be to your business if you experienced a data breach as a result of an injection attack, or if an attacker exploited one of these flaws to take complete control of one of your servers.
 >
-> **[3:40](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=220)** From a dynamic application security testing perspective, two things you should look out for are form fields and URL parameters.
+> **[3:40](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=220)** From a dynamic [[Application Security]] testing perspective, two things you should look out for are form fields and URL parameters.
 >
 > **[3:49](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=229)** When an app developer wants to construct a SQL query, or run a local command of the user's choosing, that developer needs to provide the user with a way of submitting input to the application.
 >
@@ -2807,7 +2779,7 @@ created: 2026-05-02
 >
 > **[4:24](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=264)** Section 4.7 of the OWASP testing guide contains extensive information on testing for multiple types of injection attacks.
 >
-> **[4:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=273)** Including SQL, NoSQL, LDAP, ORM, XML, SSI, XPath, IMAP, SMTP, code and command injection.
+> **[4:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=273)** Including SQL, [[NoSQL]], LDAP, ORM, XML, SSI, XPath, IMAP, SMTP, code and command injection.
 >
 > **[4:46](https://www.linkedin.com/learning/dynamic-application-security-testing/a3-injection?u=76281980&t=286)** That's quite a list.
 >
@@ -2851,7 +2823,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (12), data (11), database (7), [[SQL]] (6), [[OWASP]] (4)
+> **Frameworks & Libraries:** [[SQL]] (6), [[OWASP]] (4), [[JSON]] (1), [[Application Security]] (1), [[NoSQL]] (1)
 > **Env Vars:** sql (6), owasp (4), ldap (3), url (3), orm (2)
 > **CLI Commands:** make (4), find (1)
 > **Analogies:** for example (2)
@@ -2860,14 +2832,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Best Practices:** good practice (1)
 
-#### A4: Insecure design
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980)
+#### [A4: Insecure design](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=0)** - [Instructor] The fourth set of risks in the OWASP top 10 list are insecure design flaws.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=0)** - [Instructor] The fourth set of risks in the [[OWASP]] top 10 list are insecure design flaws.
 >
-> **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=7)** Some years back, the U.S. Cybersecurity and Infrastructure Security Agency, better known as CISA, provided resources to help software developers, architectures, and security professionals build security into their software from day one.
+> **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=7)** Some years back, the U.S. [[Cybersecurity]] and Infrastructure Security Agency, better known as CISA, provided resources to help software developers, architectures, and security professionals build security into their software from day one.
 >
 > **[0:24](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=24)** While that part of their website has been archived, that principle is still critical.
 >
@@ -2879,9 +2850,9 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=66)** These risks can creep into the development lifecycle because of a misunderstanding of the business risk tied to the application.
 >
-> **[1:15](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=75)** If an app contains personal information, for example, then failing to build in mechanisms to identify and remove that information on a person-by-person basis could result in financial fines from privacy regulations like the EU's GDPR.
+> **[1:15](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=75)** If an app contains personal information, for example, then failing to build in mechanisms to identify and remove that information on a person-by-person basis could result in financial fines from [[Privacy]] regulations like the EU's GDPR.
 >
-> **[1:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=93)** Couple that misunderstanding with a lack of defined and documented development processes or a documented software development life cycle, and then you end up hoping that each developer on the team knows those business risks inside and out.
+> **[1:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=93)** Couple that misunderstanding with a lack of defined and documented development processes or a documented [[Software Development]] life cycle, and then you end up hoping that each developer on the team knows those business risks inside and out.
 >
 > **[1:49](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=109)** And as folks in security are fond of saying, "Hope is not a strategy."
 >
@@ -2913,17 +2884,17 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=220)** And take a look at test cases and the testing tool set.
 >
-> **[3:44](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=224)** While security is a function of quality, not every dev team has deployed security testing tools in their CICD pipeline to check for potential flaws.
+> **[3:44](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=224)** While security is a function of quality, not every dev team has deployed [[Security Testing]] tools in their CICD pipeline to check for potential flaws.
 >
-> **[3:56](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=236)** If you want to address these risks, threat modeling can help you ensure that you're focusing on the right things.
+> **[3:56](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=236)** If you want to address these risks, [[Threat Modeling]] can help you ensure that you're focusing on the right things.
 >
 > **[4:02](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=242)** Go through an exercise to determine how attackers might compromise or exploit an application that you're trying to build, and then use those conversations to determine what you could build into the app that can thwart those attacks.
 >
 > **[4:17](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=257)** Leverage reference architectures.
 >
-> **[4:20](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=260)** If someone has already figured out how to build a secure app, especially in cloud-native services like AWS, Azure, and Google Cloud, then use their documentation to accelerate your efforts.
+> **[4:20](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=260)** If someone has already figured out how to build a secure app, especially in cloud-native services like AWS, [[Microsoft Azure|Azure]], and [[Google Cloud Platform (GCP)|Google Cloud]], then use their documentation to accelerate your efforts.
 >
-> **[4:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=273)** Document secure design patterns.
+> **[4:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=273)** Document secure [[Design Patterns]].
 >
 > **[4:36](https://www.linkedin.com/learning/dynamic-application-security-testing/a4-insecure-design?u=76281980&t=276)** If you've decided that you should never put the user ID in the URL string, write it down so that everyone on the team knows.
 >
@@ -2937,7 +2908,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (12), [[OWASP]] (3), application (3), business (2), [[Threat Modeling]] (2)
+> **Frameworks & Libraries:** [[OWASP]] (3), [[Threat Modeling]] (2), [[Cybersecurity]] (1), [[Privacy]] (1), [[Software Development]] (1)
 > **Env Vars:** owasp (3), sbom (2), cisa (1), gdpr (1), sdlc (1)
 > **Definitions:** is a  (2), known as (1), in other words (1)
 > **CLI Commands:** aws (1), make (1)
@@ -2945,12 +2916,11 @@ created: 2026-05-02
 > **Best Practices:** you should never (1)
 > **Speakers:** - [instructor] (1)
 
-#### A5: Security misconfiguration
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980)
+#### [A5: Security misconfiguration](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=0)** - [Instructor] The fifth set of risks in the OWASP top 10 are security misconfiguration flaws.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=0)** - [Instructor] The fifth set of risks in the [[OWASP]] top 10 are security misconfiguration flaws.
 >
 > **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=7)** Simply put, this category of web application risks is all about insecure or default configurations.
 >
@@ -2958,13 +2928,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=21)** It also requires knowledge of how to securely deploy and maintain both the application and the application infrastructure.
 >
-> **[0:30](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=30)** You've probably seen news stories on one of the multiple data breaches related to open cloud storage weaknesses.
+> **[0:30](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=30)** You've probably seen news stories on one of the multiple data breaches related to open [[Cloud Storage]] weaknesses.
 >
 > **[0:38](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=38)** Apps that are configured to use cloud storage need to take into consideration how they're going to manage access to that storage.
 >
 > **[0:47](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=47)** While verbose error messages are great for troubleshooting, they're also great for attackers who are profiling your apps.
 >
-> **[0:55](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=55)** If an attacker can force an application to spit out an error message that contains a stack trace, or details about a web server in the internal network, then the attacker now has an advantage when it comes to designing attacks against that app, and both patch management and general IT hygiene are crucial to application security.
+> **[0:55](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=55)** If an attacker can force an application to spit out an error message that contains a stack trace, or details about a web server in the internal network, then the attacker now has an advantage when it comes to designing attacks against that app, and both patch management and general IT hygiene are crucial to [[Application Security]].
 >
 > **[1:18](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=78)** You need to be sure that you're applying patches and upgrades that address publicly disclosed security flaws.
 >
@@ -2998,7 +2968,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=217)** That's a misconfiguration that could lead to a data breach.
 >
-> **[3:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=221)** If you find an exposure that includes world readable config files that include database credentials, something like the dreaded PHP info page with a MySQL database running on the backend, then you have a much bigger issue.
+> **[3:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=221)** If you find an exposure that includes world readable config files that include database credentials, something like the dreaded [[PHP]] info page with a [[MySQL]] database running on the backend, then you have a much bigger issue.
 >
 > **[3:56](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=236)** This exposure of configuration files puts you at risk of a complete system compromise.
 >
@@ -3034,7 +3004,7 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=374)** If you take a defensive approach to building out your environment, you increase the likelihood of containing a threat before an attacker finds a security misconfiguration that slipped through the cracks.
 >
-> **[6:27](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=387)** In section 4.2 of the OWASP Web Security Testing Guide, you'll find 11 tests designed to help you identify security misconfiguration weaknesses.
+> **[6:27](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=387)** In section 4.2 of the OWASP Web [[Security Testing]] Guide, you'll find 11 tests designed to help you identify security misconfiguration weaknesses.
 >
 > **[6:38](https://www.linkedin.com/learning/dynamic-application-security-testing/a5-security-misconfiguration?u=76281980&t=398)** You should start here.
 >
@@ -3052,7 +3022,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (17), application (9), web (5), [[OWASP]] (4), cloud (3)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Cloud Storage]] (3), [[Application Security]] (1), [[PHP]] (1), [[MySQL]] (1)
 > **CLI Commands:** make (3), find (2), php (1), mysql (1)
 > **Env Vars:** owasp (4), readme (1), php (1), http (1)
 > **Definitions:** is a  (2)
@@ -3061,12 +3031,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### A6: Vulnerable and outdated components
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980)
+#### [A6: Vulnerable and outdated components](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=0)** - [Instructor] The six set of risks in the OWASP top 10 list are flaws related to using components with known vulnerabilities.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=0)** - [Instructor] The six set of risks in the [[OWASP]] top 10 list are flaws related to using components with known vulnerabilities.
 >
 > **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=9)** This category of flaws is very closely related to security misconfigurations, but with a twist.
 >
@@ -3092,7 +3061,7 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=113)** Remember Drupalgeddon?
 >
-> **[1:55](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=115)** Back in 2014, a vulnerability in Drupal was publicly disclosed, one that immediately put thousands of web apps using that content management framework at risk of compromise.
+> **[1:55](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=115)** Back in 2014, a vulnerability in [[Drupal]] was publicly disclosed, one that immediately put thousands of web apps using that [[Content Management]] framework at risk of compromise.
 >
 > **[2:09](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=129)** Four years later, another Drupal vulnerability was disclosed, sending everyone back into fire-drill mode.
 >
@@ -3152,13 +3121,13 @@ created: 2026-05-02
 >
 > **[6:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=374)** Dependency-Check is a software composition analysis tool.
 >
-> **[6:18](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=378)** This scours both Java and .NET source code for components with known, publicly disclosed vulnerability.
+> **[6:18](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=378)** This scours both [[Java]] and .NET source code for components with known, publicly disclosed vulnerability.
 >
-> **[6:25](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=385)** This tool is available as a command line utility, as an Ant task, a plugin for Maven, Gradle, Jenkins.
+> **[6:25](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=385)** This tool is available as a command line utility, as an Ant task, a plugin for Maven, [[Gradle]], [[Jenkins]].
 >
 > **[6:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=393)** It's even available as a Mac Homebrew install.
 >
-> **[6:37](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=397)** It can also be integrated into SonarQube, a source code quality tool that I covered in my [[Static Application Security Testing]] course.
+> **[6:37](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=397)** It can also be integrated into SonarQube, a source code quality tool that I covered in my [[Static [[Application Security]] Testing]] course.
 >
 > **[6:46](https://www.linkedin.com/learning/dynamic-application-security-testing/a6-vulnerable-and-outdated-components?u=76281980&t=406)** The CVE database hosted by MITRE is an online searchable database of publicly disclosed vulnerabilities.
 >
@@ -3166,7 +3135,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), [[Drupal]] (4), web (4), database (3), [[OWASP]] (2)
+> **Frameworks & Libraries:** [[Drupal]] (4), [[OWASP]] (2), [[Java]] (2), [[Content Management]] (1), [[Gradle]] (1)
 > **Env Vars:** owasp (2), cve (2), osint (1), http (1), sbom (1)
 > **CLI Commands:** make (2), apache (1), find (1)
 > **Definitions:** is a  (2), is an  (1)
@@ -3175,12 +3144,11 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1), install (1)
 > **Tools:** command line (1)
 
-#### A7: Identification and authentication failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980)
+#### [A7: Identification and authentication failures](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=0)** - [Instructor] The seventh set of risks in the OWASP top 10 list are identification and authentication failures.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=0)** - [Instructor] The seventh set of risks in the [[OWASP]] top 10 list are identification and authentication failures.
 >
 > **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=7)** If an attacker can find a way around the login screen and start interacting with the application, or if you can't trust that the person using the app is the person they claim to be, then the application is vulnerable to these flaws.
 >
@@ -3192,11 +3160,11 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=45)** You don't believe me?
 >
-> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=46)** Google for the admin guide for some of the older technology on your network, tech with an administrative web interface, and see if there's a default admin password combo listed in that guide.
+> **[0:46](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=46)** [[Google]] for the admin guide for some of the older technology on your network, tech with an administrative web interface, and see if there's a default admin password combo listed in that guide.
 >
 > **[1:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=60)** Even if the attacker doesn't have a valid set of credentials, there are several brute-force attack tools that will try different combinations until they get one right.
 >
-> **[1:10](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=70)** And attackers who can identify and reuse unexpired session tokens can often interact with an application just like a traditional authenticated user.
+> **[1:10](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=70)** And attackers who can identify and reuse unexpired session [[Tokens]] can often interact with an application just like a traditional authenticated user.
 >
 > **[1:22](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=82)** One of the reasons identification and authentication failures occur in web applications, is that secure identity and access management controls weren't discussed at the beginning of the project.
 >
@@ -3224,9 +3192,9 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=159)** An application that lets you borrow library books online, might expose a user's borrowing history or allow someone to check out books without that user's knowledge.
 >
-> **[2:49](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=169)** While that does violate the user's privacy, it might not be a publicly-reportable data breach, depending on where the library is and what laws apply to that location.
+> **[2:49](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=169)** While that does violate the user's [[Privacy]], it might not be a publicly-reportable data breach, depending on where the library is and what laws apply to that location.
 >
-> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=180)** But an online commercial-banking application, one that lets an attacker log in with default credentials and wire millions of dollars to offshore accounts, that's going to cause a bigger disruption.
+> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=180)** But an online commercial-[[Banking]] application, one that lets an attacker log in with default credentials and wire millions of dollars to offshore accounts, that's going to cause a bigger disruption.
 >
 > **[3:13](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=193)** And when an application is used for infrastructure administration, then a compromise of that app could enable an attacker to take over that infrastructure or knock it offline.
 >
@@ -3248,7 +3216,7 @@ created: 2026-05-02
 >
 > **[4:23](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=263)** If the session number is predictable or if the current session value can be reused, then an attacker could potentially steal that variable via an adversary in the middle attack in order to hijack the session belonging to an authenticated user.
 >
-> **[4:39](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=279)** In the OWASP Web Security Testing Guide, section 4.6 provides nine unique session management tests that you should perform.
+> **[4:39](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=279)** In the OWASP Web [[Security Testing]] Guide, section 4.6 provides nine unique session management tests that you should perform.
 >
 > **[4:48](https://www.linkedin.com/learning/dynamic-application-security-testing/a7-identification-and-authentication-failures?u=76281980&t=288)** Multifactor authentication is one of the most effective ways to counter identification and authentication failures.
 >
@@ -3284,7 +3252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (16), management (10), web (7), [[OWASP]] (4), data (4)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Security Testing]] (2), [[Google]] (1), [[Tokens]] (1), [[Privacy]] (1)
 > **Env Vars:** owasp (4), url (1)
 > **CLI Commands:** find (2), make (2)
 > **Versions:** 4.6 (1), 4.3 (1), 4.4 (1)
@@ -3292,12 +3260,11 @@ created: 2026-05-02
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### A8: Software and data integrity failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980)
+#### [A8: Software and data integrity failures](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=0)** - [Instructor] The eighth set of risks in the OWASP Top 10 List are software and data integrity failures.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=0)** - [Instructor] The eighth set of risks in the [[OWASP]] Top 10 List are software and [[Data Integrity]] failures.
 >
 > **[0:08](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=8)** The notion of software and data integrity is based on assumed trust.
 >
@@ -3319,7 +3286,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=89)** When the application applies an update or pulls a new version of a library from an external repository, how do you know that the update or library that gets installed is trustworthy?
 >
-> **[1:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=101)** In August of 2022, a high school student uploaded ransomware to the Python PyPI library.
+> **[1:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=101)** In August of 2022, a high school student uploaded ransomware to the [[Python (Programming Language)|Python]] PyPI library.
 >
 > **[1:49](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=109)** That malicious code was downloaded hundreds of times before anyone thought to check the integrity of the updated library.
 >
@@ -3349,13 +3316,13 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=213)** Start there.
 >
-> **[3:35](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=215)** Also, take a look at your SDLC documentation, paying attention to your code review procedures and your change control procedures in particular.
+> **[3:35](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=215)** Also, take a look at your SDLC documentation, paying attention to your [[Code Review]] procedures and your change control procedures in particular.
 >
 > **[3:45](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=225)** Code reviews enable you to detect potentially untrusted code elements, while change control procedures can help you prevent insecure software or infrastructure from being deployed to production.
 >
 > **[3:58](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=238)** And check your CI/CD pipeline controls.
 >
-> **[4:01](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=241)** Look for access control weaknesses and configuration management weaknesses.
+> **[4:01](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=241)** Look for access control weaknesses and [[Configuration Management]] weaknesses.
 >
 > **[4:06](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=246)** Again, if you haven't built digital signature checks into your code, now's the time to start.
 >
@@ -3375,27 +3342,26 @@ created: 2026-05-02
 >
 > **[5:03](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=303)** Two resources that can help you get ahead of software and data integrity failures are CycloneDX and Dependency-Check, both of which are OWASP projects.
 >
-> **[5:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=314)** CycloneDX is a bill of materials standard that provides guidance around building bills of material for software, for software as a service, for operations, and for manufacturing.
+> **[5:14](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=314)** CycloneDX is a bill of materials standard that provides guidance around building bills of material for software, for [[SaaS|software as a service]], for operations, and for manufacturing.
 >
 > **[5:27](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=327)** It also outlines a security advisory format for publishing vulnerability and exploitability details, and it includes a library of not quite 200 tools to help automate all of this activity.
 >
-> **[5:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=341)** Dependency Check is a software composition analysis tool that automatically puts together a list of all your software libraries, and then checks public vulnerability databases to help you determine if those libraries are vulnerable to attack.
+> **[5:41](https://www.linkedin.com/learning/dynamic-application-security-testing/a8-software-and-data-integrity-failures?u=76281980&t=341)** Dependency Check is a software composition analysis tool that automatically puts together a list of all your software libraries, and then checks public vulnerability [[Databases]] to help you determine if those libraries are vulnerable to attack.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Security]] (3), [[OWASP]] (2), application (2), ci (2)
+> **Frameworks & Libraries:** [[Data Integrity]] (5), [[OWASP]] (2), [[Python (Programming Language)|Python]] (1), [[Code Review]] (1), [[Configuration Management]] (1)
 > **Env Vars:** owasp (2), sbom (2), sdlc (2)
 > **CLI Commands:** find (2), cd (2), python (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### A9: Security Logging and monitoring failures
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980)
+#### [A9: Security Logging and monitoring failures](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=0)** - [Instructor] The ninth set of risks in the OWASP top 10 list are Security Logging and Monitoring Failures.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=0)** - [Instructor] The ninth set of risks in the [[OWASP]] top 10 list are Security Logging and Monitoring Failures.
 >
 > **[0:07](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=7)** As developers are building out their applications, their initial focus is on just getting everything to work as expected by the go live date.
 >
@@ -3487,7 +3453,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=380)** That said, there are a couple of additional resources you'll also want to use.
 >
-> **[6:24](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=384)** NIST Special Publication 800-61 Revision 2, their Computer Security Incident Handling Guide covers security incident handling in detail.
+> **[6:24](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=384)** [[NIST]] Special Publication 800-61 Revision 2, their Computer Security Incident Handling Guide covers security incident handling in detail.
 >
 > **[6:36](https://www.linkedin.com/learning/dynamic-application-security-testing/a9-security-logging-and-monitoring-failures?u=76281980&t=396)** And when you're ready for the big leagues, check out the Intelligence Community Standard 500-27 which covers the collection and sharing of audit data.
 >
@@ -3495,19 +3461,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (15), data (7), [[OWASP]] (2), web (2), database (1)
+> **Frameworks & Libraries:** [[OWASP]] (2), [[NIST]] (1)
 > **Env Vars:** owasp (2), sdlc (1), nist (1)
 > **CLI Commands:** make (2), find (1)
 > **Warnings:** troubleshoot (1), warning (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### A10: Server-side request forgery (SSRF)
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980)
+#### [A10: Server-side request forgery (SSRF)](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=0)** - [Teacher] The final set of risks in the OWASP top 10 are server side request forgery or SSRF flaws.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=0)** - [Teacher] The final set of risks in the [[OWASP]] top 10 are server side request forgery or SSRF flaws.
 >
 > **[0:09](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=9)** These flaws enable attackers to convince internal infrastructure to access or abuse resources that they were never meant to expose externally.
 >
@@ -3527,7 +3492,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=83)** It's not unheard of for attackers to modify a URL string to browse directly to sensitive files on the server.
 >
-> **[1:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=93)** If your app is running on a Linux server, for example, then an attacker might attempt to access the Etsy password file.
+> **[1:33](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=93)** If your app is running on a [[Linux]] server, for example, then an attacker might attempt to access the Etsy password file.
 >
 > **[1:40](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=100)** That's the one with all the local user accounts in it.
 >
@@ -3549,9 +3514,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=165)** If an SSRF flaw slips through the cracks, you can proactively minimize the exposure and the damage by limiting the internal network traffic to only those ports and services that are required for business use.
 >
-> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=180)** And with the ever-increasing adoption of cloud services the presence of defined and enforced cloud security configuration standards is a pretty big deal.
+> **[3:00](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=180)** And with the ever-increasing adoption of [[Cloud Services]] the presence of defined and enforced [[Cloud Security]] configuration standards is a pretty big deal.
 >
-> **[3:11](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=191)** An oversight that leaves a cloud storage bucket overexposed results in an SSRF vulnerability that's exceedingly simple to exploit.
+> **[3:11](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=191)** An oversight that leaves a [[Cloud Storage]] bucket overexposed results in an SSRF vulnerability that's exceedingly simple to exploit.
 >
 > **[3:21](https://www.linkedin.com/learning/dynamic-application-security-testing/a10-server-side-request-forgery-ssrf?u=76281980&t=201)** Unfortunately, we've seen some prominent data breaches in recent years for this very reason.
 >
@@ -3581,7 +3546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[OWASP]] (4), cloud (3), traffic (2), [[Security]] (2), application (1)
+> **Frameworks & Libraries:** [[OWASP]] (4), [[Linux]] (1), [[Cloud Services]] (1), [[Cloud Security]] (1), [[Cloud Storage]] (1)
 > **Env Vars:** ssrf (13), url (8), owasp (4), http (2), pdf (1)
 > **Definitions:** is a  (2)
 > **Analogies:** for example (1)
@@ -3592,12 +3557,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=0)** - [Instructor] Thanks so much for taking the time to learn about dynamic application security testing.
+> **[0:00](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=0)** - [Instructor] Thanks so much for taking the time to learn about dynamic [[Application Security]] testing.
 >
 > **[0:06](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=6)** If I've done a decent job as your instructor, you should be able to begin applying what you've learned in this course right away.
 >
@@ -3611,13 +3575,13 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=41)** I cannot emphasize enough how important it is that you build out and maintain your lab environment.
 >
-> **[0:49](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=49)** Whether it's a series of virtual machines on your laptop, a collection of VMs on a dedicated segment in your office, or a cloud tenant that you use specifically for training and testing, it's crucial that you have somewhere you can go to keep your skills sharp.
+> **[0:49](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=49)** Whether it's a series of [[Virtual Machines]] on your laptop, a collection of VMs on a dedicated segment in your [[Microsoft Office|office]], or a cloud tenant that you use specifically for training and testing, it's crucial that you have somewhere you can go to keep your skills sharp.
 >
 > **[1:06](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=66)** If you don't have a lab, build one.
 >
 > **[1:09](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=69)** The lab doesn't have to be complicated.
 >
-> **[1:12](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=72)** The lab for this course consists of a couple of software as a service applications and maybe, maybe one virtual machine.
+> **[1:12](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=72)** The lab for this course consists of a couple of [[SaaS|software as a service]] applications and maybe, maybe one virtual machine.
 >
 > **[1:20](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=80)** That's it.
 >
@@ -3657,7 +3621,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=183)** Approach your academic advisor and communicate your interest.
 >
-> **[3:07](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=187)** Set up a profile on LinkedIn and begin networking with local application security professionals.
+> **[3:07](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=187)** Set up a profile on [[LinkedIn]] and begin networking with local application security professionals.
 >
 > **[3:13](https://www.linkedin.com/learning/dynamic-application-security-testing/next-steps?u=76281980&t=193)** If you ask enough people whether they might be interested in mentoring you, you may just be surprised at how many times you receive an absolutely in reply.
 >
@@ -3669,7 +3633,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (7), [[Security]] (7), next (2), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Application Security]] (7), [[Virtual Machines]] (1), [[Microsoft Office|Office]] (1), [[SaaS|Software as a service]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (1), find (1)
 > **Cross-References:** we covered (2)
 > **UI Navigation:** go to (1)

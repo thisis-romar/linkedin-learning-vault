@@ -88,12 +88,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Python in Excel for finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980)
+#### [Python in Excel for finance](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=0)** - [Rancy Chepchirchir] Excel and Python stand tall in the realm of data analysis, each wielding unique strengths across various sectors.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=0)** - [Rancy Chepchirchir] [[Microsoft Excel|Excel]] and [[Python (Programming Language)|Python]] stand tall in the realm of data analysis, each wielding unique strengths across various sectors.
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=9)** While Python shines with its robust analytical capabilities, Excel is unparalleled for its intuitive interface and widespread use.
 >
@@ -103,28 +102,27 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=37)** With this fusion, you are able to streamline your data analysis process and simplify sharing insights with others.
 >
-> **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=45)** In this course, we will dive into both fundamental and sophisticated financial analysis, empowering you to tackle complex financial challenges with ease.
+> **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=45)** In this course, we will dive into both fundamental and sophisticated [[Financial Analysis]], empowering you to tackle complex financial challenges with ease.
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=58)** My name is Rancy Chepchirchir.
 >
 > **[1:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=60)** I'm a data scientist and an AI researcher with a background in mathematics and finance.
 >
-> **[1:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=66)** I invite you to explore with me on LinkedIn Learning the innovative synergy of Python in Excel for finance.
+> **[1:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=66)** I invite you to explore with me on [[LinkedIn]] Learning the innovative synergy of Python in Excel for finance.
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/python-in-excel-for-finance?u=76281980&t=74)** Let's embark on this journey together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), data (3), strengths (1), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), [[Financial Analysis]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** python (4)
 > **Speakers:** - [rancy (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=1)** - I'll take us through the course prerequisites and goals for the Hands-on Finance Project using Python in Excel.
+> **[0:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=1)** - I'll take us through the course prerequisites and goals for the Hands-on Finance Project using [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=8)** First and foremost, we have basic Python skills, an understanding of Python syntax and basic libraries is recommended.
 >
@@ -136,15 +134,15 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=31)** And a course Excel for Beginners is advisable.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=35)** Third, we have basic financial knowledge and understanding of fundamental financial concepts such as financial statements, investments and markets.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=35)** Third, we have basic financial knowledge and understanding of fundamental financial concepts such as [[Financial Statements]], investments and markets.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=46)** Consider courses like Introduction to Finance or Financial Literacy.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=52)** The goals of the course include fast activation of Python in Excel functionality.
 >
-> **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=58)** Here, you'll be able to activate the Python in Excel tool with Microsoft 365.
+> **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=58)** Here, you'll be able to activate the Python in Excel tool with [[Microsoft 365]].
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=64)** For further information, you could go to LinkedIn Learning.
+> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=64)** For further information, you could go to [[LinkedIn]] Learning.
 >
 > **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=69)** Just search for Python in Excel.
 >
@@ -156,17 +154,17 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=95)** Second, we have integration of Python in Excel.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=98)** Now you will master the skills necessary to integrate Python's analytical power with Excel user-friendly interface, enhancing their ability to perform complex financial analysis directly within Excel.
+> **[1:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=98)** Now you will master the skills necessary to integrate Python's analytical power with Excel user-friendly interface, enhancing their ability to perform complex [[Financial Analysis]] directly within Excel.
 >
-> **[1:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=113)** Third, we have comprehensive financial data analysis.
+> **[1:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=113)** Third, we have comprehensive [[Financial Data]] analysis.
 >
-> **[1:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=117)** You will learn to conduct robust financial data analysis, progressing from basic data handling to complex financial modeling.
+> **[1:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=117)** You will learn to conduct robust financial data analysis, progressing from basic data handling to complex [[Financial Modeling]].
 >
 > **[2:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=126)** Four, we have advanced financial analysis techniques.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=130)** The course will cover sophisticated analysis methods including risk management strategies and machine learning applications for financial forecasting.
+> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=130)** The course will cover sophisticated analysis methods including risk management strategies and machine learning applications for [[Financial Forecasting]].
 >
-> **[2:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=139)** Last but not least, we have practical application via capstone project, culminates in our capstone project where learners apply what they've learned to solve real world financial analysis challenges, solely define their knowledge and showcasing their skills.
+> **[2:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=139)** Last but not least, we have practical application via [[Capstone]] project, culminates in our capstone project where learners apply what they've learned to solve real world financial analysis challenges, solely define their knowledge and showcasing their skills.
 >
 > **[2:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/what-you-should-know?u=76281980&t=156)** It's also important to point out that we'll mainly make use of user-defined functions while tackling these challenges.
 >
@@ -174,7 +172,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (14), [[Financial Analysis]] (4), [[Microsoft 365]] (3), data (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (15), [[Microsoft Excel|Excel]] (14), [[Financial Analysis]] (4), [[Microsoft 365]] (3), [[Financial Data]] (2)
 > **CLI Commands:** python (15), make (2)
 > **UI Navigation:** go to (1), click on (1)
 > **Definitions:** is a  (1)
@@ -187,12 +185,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Integrating Python with Excel: An overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980)
+#### [Integrating Python with Excel: An overview](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=0)** - [Instructor] Now, we will uncover the powerful synergy between Python and Excel, a duo that significantly boosts your financial analysis toolkit.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=0)** - [Instructor] Now, we will uncover the powerful synergy between [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]], a duo that significantly boosts your [[Financial Analysis]] toolkit.
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=11)** Let's dive into the integration process and unlock new capabilities.
 >
@@ -222,21 +219,21 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=90)** With Python enabled in Excel, the horizon of possibilities expands.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=97)** We will see examples of complex data analysis tasks simplified by Python, such as time series forecasting and statistical modeling.
+> **[1:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=97)** We will see examples of complex data analysis tasks simplified by Python, such as time series [[Forecasting]] and statistical modeling.
 >
 > **[1:49](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=109)** The integration empowers you to perform analysis that were either cumbersome or impossible within Excel alone, like machine learning and advanced data visualization.
 >
 > **[2:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=122)** Focusing on finance-specific applications, let's explore how Python enriches Excel's capabilities.
 >
-> **[2:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=131)** We will walk through a financial modeling example, demonstrating the use of Python to calculate risk metrics and generate predictive models.
+> **[2:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=131)** We will walk through a [[Financial Modeling]] example, demonstrating the use of Python to calculate risk metrics and generate predictive models.
 >
 > **[2:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=142)** We'll also visualize financial portfolios and performance, and perform scenario analysis, showcasing Python's flexibility in managing and interpreting financial datasets.
 >
 > **[2:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=157)** Efficiency is key in financial analysis.
 >
-> **[2:41](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=161)** How to automate repetitive tasks using Python scripts, such as updating financial reports or fetching real-time market data?
+> **[2:41](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=161)** How to automate repetitive tasks using Python scripts, such as updating financial reports or fetching [[Real-Time]] market data?
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=172)** By automating these processes, Python in Excel not only saves you time, but also minimizes errors, allowing for real-time data analysis in decision-making.
+> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=172)** By automating these processes, Python in Excel not only saves you time, but also minimizes errors, allowing for real-time data analysis in [[Decision-Making]].
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-python-with-excel-an-overview?u=76281980&t=186)** And there you have it.
 >
@@ -246,24 +243,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (13), data (4), [[Financial Analysis]] (2), power (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (18), [[Microsoft Excel|Excel]] (13), [[Financial Analysis]] (2), [[Real-Time]] (2), [[Forecasting]] (1)
 > **CLI Commands:** python (18)
 > **UI Navigation:** click on (2), go to (1)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Python in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980)
+#### [Setting up Python in Excel](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=0)** - [Instructor] Are you ready to revolutionize your financial analysis?
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=0)** - [Instructor] Are you ready to revolutionize your [[Financial Analysis]]?
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=5)** We will now explore how integrating Python with Excel transforms Excel's robust features, with Python's analytical power, into a formidable tool for any financial analysts.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=5)** We will now explore how integrating [[Python (Programming Language)|Python]] with [[Microsoft Excel|Excel]] transforms Excel's robust features, with Python's analytical power, into a formidable tool for any financial analysts.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=19)** With Python enabled in Excel, the horizon of possibilities expands.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=26)** We will look at examples of complex data analysis tasks simplified by Python, such as time series forecasting and statistical modeling.
+> **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=26)** We will look at examples of complex data analysis tasks simplified by Python, such as time series [[Forecasting]] and statistical modeling.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=37)** Our first step is enabling Python scripting within Excel.
 >
@@ -303,9 +299,9 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=165)** With Python enabled, let's explore some essential libraries that every financial analyst should know.
 >
-> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=172)** First up, Pandas, perfect for handling and analyzing financial data sets.
+> **[2:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=172)** First up, [[Pandas (Software)|Pandas]], perfect for handling and analyzing [[Financial Data]] sets.
 >
-> **[2:59](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=179)** Next, we have NumPy for complex mathematical operations, essential in financial modeling.
+> **[2:59](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=179)** Next, we have NumPy for complex mathematical operations, essential in [[Financial Modeling]].
 >
 > **[3:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/setting-up-python-in-excel?u=76281980&t=186)** And don't forget Matplotlib and Seaborn for creating insightful data visualizations.
 >
@@ -587,7 +583,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (29), [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (13), next (5), [[Financial Analysis]] (4)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (17), [[Microsoft Excel|Excel]] (13), [[Financial Analysis]] (4), [[Pandas (Software)|Pandas]] (3), [[Financial Data]] (2)
 > **CLI Commands:** python (17), make (1), find (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Env Vars:** url (1), csv (1)
@@ -596,20 +592,19 @@ created: 2026-05-02
 > **Versions:** 6.6771 (1)
 > **Analogies:** such as (1)
 
-#### Basic Python skills for finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980)
+#### [Basic Python skills for finance](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=0)** - [Instructor] Let's embark on a journey to mastery by unlocking the power of Python, an essential tool in the modern financial analyst's arsenal.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=0)** - [Instructor] Let's embark on a journey to mastery by unlocking the power of [[Python (Programming Language)|Python]], an essential tool in the modern financial analyst's arsenal.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=10)** Our adventure starts with the basics of Python, where we look at the data types and variables, the data structures used to build, and control structures, including the conditional statements.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=10)** Our adventure starts with the basics of Python, where we look at the data types and variables, the [[Data Structures]] used to build, and control structures, including the conditional statements.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=25)** Next, we'll explore the syntax and core concepts that make Python so versatile.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=31)** With these foundational skills, you are well on your way to manipulating financial datasets.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=38)** Now, we delve into Pandas, a cornerstone library for data analysis in Python.
+> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=38)** Now, we delve into [[Pandas (Software)|Pandas]], a cornerstone library for data analysis in Python.
 >
 > **[0:47](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=47)** Let's manipulate a stock market dataset focusing on operations like filtering aggregation in terms serious analysis, which are vital for preparing your data for in-depth analysis.
 >
@@ -669,17 +664,17 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=262)** We could calculate the key financial indicators like moving averages, volatility, and performance ratios.
 >
-> **[4:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=271)** Understanding these metrics elevate your financial analysis capabilities.
+> **[4:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=271)** Understanding these metrics elevate your [[Financial Analysis]] capabilities.
 >
 > **[4:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=277)** You've now made a pivotal move by incorporating Python into your financial toolkit.
 >
-> **[4:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=284)** Advancing from foundational programming concepts to sophisticated techniques in data manipulation, analysis, and visualization.
+> **[4:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=284)** Advancing from foundational [[Programming Concepts]] to sophisticated techniques in [[Data Manipulation]], analysis, and visualization.
 >
 > **[4:55](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-python-skills-for-finance?u=76281980&t=295)** Keep practicing and exploring the endless possibilities Python offers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Python (Programming Language)|Python]] (6), [[Pandas (Software)|Pandas]] (3), power (1), next (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (6), [[Pandas (Software)|Pandas]] (3), [[Data Structures]] (1), [[Financial Analysis]] (1), [[Programming Concepts]] (1)
 > **CLI Commands:** python (6), make (1)
 > **Speakers:** - [instructor] (1)
 
@@ -688,16 +683,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importing and exporting financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980)
+#### [Importing and exporting financial data](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=0)** - [Instructor] Let's harness the power of Python directly within Excel for your financial data needs by bridging the gap between Python's analytical capabilities and Excel's user-friendly interface.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=0)** - [Instructor] Let's harness the power of [[Python (Programming Language)|Python]] directly within [[Microsoft Excel|Excel]] for your [[Financial Data]] needs by bridging the gap between Python's analytical capabilities and Excel's user-friendly interface.
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=15)** Let's jump right in.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=18)** Efficiency is key in financial analysis by automating repetitive tasks, using Python scripts, like updating financial reports or fetching real time market data.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=18)** Efficiency is key in [[Financial Analysis]] by automating repetitive tasks, using Python scripts, like updating financial reports or fetching real time market data.
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=30)** By automating these processes, Python within Excel not only saves you time, but also minimizes error, allowing for real time data analysis and decision making.
 >
@@ -711,7 +705,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=87)** So we've already imported the libraries.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=89)** We have Pandas, we have MPI, Matplotlib, Seaborn, Datetime.
+> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=89)** We have [[Pandas (Software)|Pandas]], we have MPI, Matplotlib, Seaborn, Datetime.
 >
 > **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=95)** So we want to do a simple calculation or analysis really for the same dataset.
 >
@@ -759,7 +753,7 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=286)** There, we've just used Python to calculate returns from our Excel data.
 >
-> **[4:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=293)** Ensuring data integrity during these processes is critical.
+> **[4:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=293)** Ensuring [[Data Integrity]] during these processes is critical.
 >
 > **[4:59](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/importing-and-exporting-financial-data?u=76281980&t=299)** Here are a few best practices.
 >
@@ -775,15 +769,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (20), [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (8), [[Financial Analysis]] (3), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Microsoft Excel|Excel]] (8), [[Financial Analysis]] (3), [[Pandas (Software)|Pandas]] (3), [[Financial Data]] (2)
 > **CLI Commands:** python (8)
 > **Definitions:** is a  (2)
 > **Env Vars:** mpi (1)
 > **Warnings:** watch out (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data cleaning and preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980)
+#### [Data cleaning and preparation](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -797,13 +790,13 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=26)** These initial steps set the stage for more detailed cleaning techniques.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=33)** Missing values can skew our financial analysis if not properly addressed.
+> **[0:33](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=33)** Missing values can skew our [[Financial Analysis]] if not properly addressed.
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=39)** We'll explore several strategies for dealing with them, including data imputation and complete case analysis.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=48)** Tailoring our approach to the context of our data, we ensure we maintain integrity.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=56)** Financial data often comes in various formats, sometimes leading to inconsistencies.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=56)** [[Financial Data]] often comes in various formats, sometimes leading to inconsistencies.
 >
 > **[1:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=62)** We'll tackle converting data types, ensuring dates, currencies, and percentages are correctly formatted for analysis.
 >
@@ -813,7 +806,7 @@ created: 2026-05-02
 >
 > **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=89)** The final step reassures us over data's reliability for analysis.
 >
-> **[1:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=97)** So once we're in Excel, we can also define a function that does the data validation.
+> **[1:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=97)** So once we're in [[Microsoft Excel|Excel]], we can also define a function that does the [[Data Validation]].
 >
 > **[1:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=105)** So first we have to activate the environment and then create the function that does that for us.
 >
@@ -875,7 +868,7 @@ created: 2026-05-02
 >
 > **[4:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=275)** Perfect.
 >
-> **[4:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=276)** You see, this is datetime data type in pandas.
+> **[4:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=276)** You see, this is datetime data type in [[Pandas (Software)|pandas]].
 >
 > **[4:42](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/data-cleaning-and-preparation?u=76281980&t=282)** You're now equipped to enhance the quality of your financial datasets, paving the way for insightful and accurate financial analysis.
 >
@@ -885,21 +878,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (18), [[Financial Analysis]] (2), next (1), [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Financial Analysis]] (2), [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1), [[Data Validation]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Basic financial calculations
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980)
+#### [Basic financial calculations](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=0)** - [Instructor] We will focus on the mathematical backbone of finance to guide you through the process of calculating fundamental financial metrics and ratios directly within Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=0)** - [Instructor] We will focus on the mathematical backbone of finance to guide you through the process of calculating fundamental financial metrics and ratios directly within [[Python (Programming Language)|Python]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=11)** We'll start with calculating the NPV, the annuity, the internal rate of return of an investment.
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=19)** Understanding these calculations is vital for assessing investment viability.
 >
-> **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=25)** So once you have your Excel, you can just come home here.
+> **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=25)** So once you have your [[Microsoft Excel|Excel]], you can just come home here.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=29)** We just have to activate our Python environment.
 >
@@ -1189,7 +1181,7 @@ created: 2026-05-02
 >
 > **[12:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=776)** That's fine.
 >
-> **[12:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=777)** Let's say the interest expense, these are all the metrics you can find from financial statements.
+> **[12:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=777)** Let's say the interest expense, these are all the metrics you can find from [[Financial Statements]].
 >
 > **[13:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/basic-financial-calculations?u=76281980&t=786)** So we are just taking a guess on our virtual company.
 >
@@ -1315,7 +1307,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (18), power (6), [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Financial Statements]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (5), [[Microsoft Excel|Excel]] (4), [[Financial Statements]] (2)
 > **Env Vars:** npv (11), irr (6), ebit (4), eps (4), roe (2)
 > **CLI Commands:** python (5), find (4), make (1)
 > **Analogies:** just like (4), it's like (1)
@@ -1329,18 +1321,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Time series analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980)
+#### [Time series analysis](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=0)** - [Instructor] We will now dive into the dynamic world of financial time-series analysis using Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=0)** - [Instructor] We will now dive into the dynamic world of financial time-series analysis using [[Python (Programming Language)|Python]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=7)** This skill is indispensable for understanding market trends, making predictions and informing investment decisions.
 >
 > **[0:16](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=16)** Our first step is to understand what time-series data is and why it's critical in finance.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=24)** We'll explore how Python can be used to handle this data type, focusing on the pandas library for data manipulation and datetime for handling dates and times.
+> **[0:24](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=24)** We'll explore how Python can be used to handle this data type, focusing on the [[Pandas (Software)|pandas]] library for [[Data Manipulation]] and datetime for handling dates and times.
 >
 > **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=38)** With our data ready, we dive into the analysis part.
 >
@@ -1356,11 +1347,11 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=83)** Understanding these interpretations enables us to make informed predictions about future behaviors in the market.
 >
-> **[1:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=94)** To further our analysis, we'll introduce more advanced techniques such as autoregressive integrated moving average modeling for forecasting financial time series.
+> **[1:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=94)** To further our analysis, we'll introduce more advanced techniques such as autoregressive integrated moving average modeling for [[Forecasting]] financial time series.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=107)** By mastering these advanced techniques, you'll be equipped to not only analyze, but also focus financial time-series data.
 >
-> **[1:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=118)** So, once you are in Excel, watch it, you come to Formulas model, and then you can just come to Insert Python, Python in Excel.
+> **[1:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=118)** So, once you are in [[Microsoft Excel|Excel]], watch it, you come to Formulas model, and then you can just come to Insert Python, Python in Excel.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=130)** Click on it and your tab is activated for Python scripting.
 >
@@ -1456,13 +1447,13 @@ created: 2026-05-02
 >
 > **[6:58](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=418)** You're now capable of transforming time-series data into meaningful insights and predictions.
 >
-> **[7:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=425)** Whether you are analyzing stock prices, economic indicators, or any other financial time series data, the skills you've acquired today are a solid foundation for your financial analysis toolkit.
+> **[7:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=425)** Whether you are analyzing stock prices, economic indicators, or any other financial time series data, the skills you've acquired today are a solid foundation for your [[Financial Analysis]] toolkit.
 >
 > **[7:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/time-series-analysis?u=76281980&t=438)** Continue to practice and explore the vast possibilities that financial time-series analysis offers.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (19), [[Python (Programming Language)|Python]] (7), next (3), [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Pandas (Software)|Pandas]] (2), [[Microsoft Excel|Excel]] (2), [[Data Manipulation]] (1), [[Forecasting]] (1)
 > **CLI Commands:** python (7), make (1), find (1)
 > **Code Identifiers:** stock_data (4), calculate_moving_average (1)
 > **UI Navigation:** click on (2), go to (2)
@@ -1470,12 +1461,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Portfolio analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980)
+#### [Portfolio analysis](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=0)** - [Instructor] We will now embark on a journey to unlock the power of Python in Excel for portfolio analysis.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=0)** - [Instructor] We will now embark on a journey to unlock the power of [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] for portfolio analysis.
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=8)** This skill is crucial for anyone looking to evaluate and optimize investment portfolios with precision and efficiency.
 >
@@ -1493,7 +1483,7 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=71)** So once you are in Excel, I've just imported three stock prices that we'll put in our portfolio basket.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=81)** This is the daily historical prices for Apple, Microsoft, and Google assets for the past five years.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=81)** This is the daily historical prices for Apple, [[Microsoft]], and [[Google]] assets for the past five years.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=91)** So the first step is to create a data frame with this assets prices.
 >
@@ -1511,7 +1501,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=143)** So we have data P, we need the column date.
 >
-> **[2:28](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=148)** We have to convert using the Pandas to data, datetime.
+> **[2:28](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=148)** We have to convert using the [[Pandas (Software)|Pandas]] to data, datetime.
 >
 > **[2:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=155)** And we are giving it the data, the portfolio date.
 >
@@ -1773,7 +1763,7 @@ created: 2026-05-02
 >
 > **[14:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=871)** Now, evaluation is key to understanding our portfolio performance in the context of risk and return.
 >
-> **[14:40](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=880)** We'll introduce key performance metrics, such as a Sharpe ratio, which helps us gauge the risk adjusted return of our portfolio.
+> **[14:40](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=880)** We'll introduce key [[Performance Metrics]], such as a Sharpe ratio, which helps us gauge the risk adjusted return of our portfolio.
 >
 > **[14:49](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/portfolio-analysis?u=76281980&t=889)** Understanding this metrics is essential for making informed investment decisions.
 >
@@ -1831,7 +1821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), next (7), [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Microsoft]] (3), [[Google]] (3), [[Pandas (Software)|Pandas]] (3)
 > **CLI Commands:** python (3), make (1), find (1)
 > **Env Vars:** stdev (1), ylgn (1), std (1)
 > **Versions:** 0.1221 (1), 0.1202 (1), 0.0938 (1)
@@ -1840,12 +1830,11 @@ created: 2026-05-02
 > **Cross-References:** we mentioned (1)
 > **Analogies:** such as (1)
 
-#### Financial modeling: Part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980)
+#### [Financial modeling: Part 1](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=0)** [Instructor] - Let's embark on this journey to elevate your financial modeling skills with Python in Excel.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=0)** [Instructor] - Let's embark on this journey to elevate your [[Financial Modeling]] skills with [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=7)** Before we start building, let's understand what financial models are and why Python enhances our modeling in Excel.
 >
@@ -1857,7 +1846,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=43)** We have the balance sheet, gives the assets versus liability and equity, and finally the cash flow statement, which gives the cash coming in from operations, financing, and investment activities.
 >
-> **[0:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=57)** So once you are in Excel, we already imported the Pandas library, which we'll need in creating the data frame, and then I just want to create three simple models for the three statements.
+> **[0:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=57)** So once you are in Excel, we already imported the [[Pandas (Software)|Pandas]] library, which we'll need in creating the data frame, and then I just want to create three simple models for the three statements.
 >
 > **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-i?u=76281980&t=71)** But then now we have to create the data frame. Yes.
 >
@@ -2249,7 +2238,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (15), data (14), [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (4)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), [[Python (Programming Language)|Python]] (5), [[Pandas (Software)|Pandas]] (4), [[Financial Modeling]] (1)
 > **Env Vars:** ebitda (9), dcf (7), cfo (2), ppnq (1), cfi (1)
 > **Tools:** terminal (8)
 > **CLI Commands:** python (5), make (1)
@@ -2258,14 +2247,13 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Analogies:** just like (1)
 
-#### Financial modeling: Part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980)
+#### [Financial modeling: Part 2](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=0)** - [Instructor] For financial modeling two, let's delve into more advanced topics, such as leverage, buyout modeling, merger and acquisitions modeling and advanced DCF techniques.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=0)** - [Instructor] For [[Financial Modeling]] two, let's delve into more advanced topics, such as leverage, buyout modeling, merger and acquisitions modeling and advanced DCF techniques.
 >
-> **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=15)** These scripts will illustrate how to set up these more complex models in Python, leveraging the bundles and AMPI libraries for competitions.
+> **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=15)** These scripts will illustrate how to set up these more complex models in [[Python (Programming Language)|Python]], leveraging the bundles and AMPI libraries for competitions.
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=25)** Let's start with the leveraged buyout model.
 >
@@ -2447,7 +2435,7 @@ created: 2026-05-02
 >
 > **[10:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=601)** And we want the revenue, that should make sense.
 >
-> **[10:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=606)** Now assuming a 50% financing of company B purchase price by new debt, the rest in equity, then we can just say the purchase price is given, let's say it's 150.
+> **[10:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=606)** Now assuming a 50% financing of company B purchase price by new debt, the [[Representational State Transfer (REST)|rest]] in equity, then we can just say the purchase price is given, let's say it's 150.
 >
 > **[10:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/financial-modeling-ii?u=76281980&t=625)** And the new debt, which is being used in the acquisition is 0.5 of the purchase price.
 >
@@ -2591,7 +2579,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (22), next (10), [[Python (Programming Language)|Python]] (2), [[Financial Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Financial Modeling]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** dcf (6), ebitda (6), lbo (4), ampi (1), eps (1)
 > **Tools:** terminal (15)
 > **Versions:** 0.5 (3), 0.3 (1), 0.2 (1), 0.30 (1), 0.05 (1)
@@ -2605,12 +2593,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating financial charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980)
+#### [Creating financial charts](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=0)** - [Instructor] Now, let's dive into how Python in Excel can transform your financial charts.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=0)** - [Instructor] Now, let's dive into how [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] can transform your financial charts.
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=6)** Our journey begins by setting up the Python integration in Excel.
 >
@@ -2652,7 +2639,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=162)** The columns, we have the date column, the open, high, low, close, adjusted close, and the volume of daily for the past five years.
 >
-> **[2:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=173)** So now, the first thing is to make the date index, and we can only do that by making sure that it's considered the datetime method in Pandas library.
+> **[2:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=173)** So now, the first thing is to make the date index, and we can only do that by making sure that it's considered the datetime method in [[Pandas (Software)|Pandas]] library.
 >
 > **[3:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=185)** It's one of the cleaning techniques that we use, so I'll just activate another Python environment.
 >
@@ -2850,13 +2837,13 @@ created: 2026-05-02
 >
 > **[16:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=999)** As we advanced, you see from this, there's some, you know, advanced concepts added, and the chart is also more readable for investors.
 >
-> **[16:51](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=1011)** You're now equipped to present financial data more effectively using charts that not only convey information but also tell a story.
+> **[16:51](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=1011)** You're now equipped to present [[Financial Data]] more effectively using charts that not only convey information but also tell a story.
 >
 > **[17:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/creating-financial-charts?u=76281980&t=1022)** Keep experimenting with different chart types and Python libraries.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (10), next (4), [[Pandas (Software)|Pandas]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Microsoft Excel|Excel]] (10), [[Pandas (Software)|Pandas]] (3), [[Financial Data]] (1)
 > **Non-Speech:** (keyboard clicking) (10), (mouse clicking) (4)
 > **CLI Commands:** python (11), make (2)
 > **Code Identifiers:** my_df (7), my_data (2), set_index (1)
@@ -2864,18 +2851,17 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Dashboard creation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980)
+#### [Dashboard creation](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=0)** - [Instructor] In the current fast-paced financial world, dashboards serve as essential tools for monitoring, analysis, and decision making.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=0)** - [Instructor] In the current fast-paced financial world, [[Dashboards]] serve as essential tools for monitoring, analysis, and decision making.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=10)** Let's look into how you can harness this powerful combination to visualize financial data.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=10)** Let's look into how you can harness this powerful combination to visualize [[Financial Data]].
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=18)** Our first step is integrating Python in Excel.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=18)** Our first step is integrating [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=22)** With Python's powerful libraries at our disposal, we unlock a new realm of possibilities for data manipulation and visualization directly within Excel.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=22)** With Python's powerful libraries at our disposal, we unlock a new realm of possibilities for [[Data Manipulation]] and visualization directly within Excel.
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=35)** This integration is the foundation for building our financial dashboards.
 >
@@ -2895,7 +2881,7 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=114)** As you can see, this is my design.
 >
-> **[1:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=117)** It's a very simple design, but it tries to display all the important information from financial statements that a financial analyst should have.
+> **[1:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=117)** It's a very simple design, but it tries to display all the important information from [[Financial Statements]] that a financial analyst should have.
 >
 > **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=130)** So our layout, we have three rows by two columns, which give the line chart, of course with the title of the chart and the position in the column.
 >
@@ -2927,7 +2913,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=202)** So first of all, we have to activate the Python environment.
 >
-> **[3:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=206)** We've already imported the important libraries, MatPlotLib for visualizing, and Pandas for the data frame, and NumPy for numerical computations.
+> **[3:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=206)** We've already imported the important libraries, MatPlotLib for visualizing, and [[Pandas (Software)|Pandas]] for the data frame, and NumPy for numerical computations.
 >
 > **[3:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/dashboard-creation?u=76281980&t=218)** Now we can set the seed for reproducibility.
 >
@@ -3281,7 +3267,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), next (13), [[Dashboards]] (5), [[Python (Programming Language)|Python]] (5), [[Financial Data]] (3)
+> **Frameworks & Libraries:** [[Dashboards]] (5), [[Python (Programming Language)|Python]] (5), [[Financial Data]] (3), [[Microsoft Excel|Excel]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (5), make (2), find (2)
 > **Code Identifiers:** yearly_summary (4), our_df (2), ax_plot (1), plot_bar_chart (1)
 > **Env Vars:** ela (1)
@@ -3290,8 +3276,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Reporting automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980)
+#### [Reporting automation](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3299,7 +3284,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=4)** And we're going to learn how to transform the labor-intensive process of report generation into a streamlined automated workflow.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=14)** The first step in our automation journey is to employ Python in Excel.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=14)** The first step in our automation journey is to employ [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=20)** This setup is crucial for harnessing Python's capabilities within Excel, enabling us to automate various financial reporting tasks.
 >
@@ -3431,11 +3416,11 @@ created: 2026-05-02
 >
 > **[8:54](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=534)** To further enhance our reporting efficiency, we'll explore advanced automation techniques.
 >
-> **[9:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=541)** We'll also cover how to create interactive dashboards that automatically update with new data, providing real-time insights into financial performance.
+> **[9:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=541)** We'll also cover how to create interactive [[Dashboards]] that automatically update with new data, providing [[Real-Time]] insights into financial performance.
 >
-> **[9:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=551)** So now we are going to look at advanced automation techniques, including the variance analysis and trend forecasting.
+> **[9:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=551)** So now we are going to look at advanced automation techniques, including the variance analysis and trend [[Forecasting]].
 >
-> **[9:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=560)** So once you're back in Excel, we can now define a function that computes the financial forecasting given the metrics.
+> **[9:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=560)** So once you're back in Excel, we can now define a function that computes the [[Financial Forecasting]] given the metrics.
 >
 > **[9:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=569)** So I'll just activate the environment, then define a function financial_forecasting that take in metrics as its argument.
 >
@@ -3597,11 +3582,11 @@ created: 2026-05-02
 >
 > **[18:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=1090)** You've now mastered the art of automating financial reports using Python in Excel.
 >
-> **[18:16](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=1096)** Explore new Python libraries, experiment with different reporting techniques, and always look for ways to enhance your financial analysis workflow.
+> **[18:16](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/reporting-automation?u=76281980&t=1096)** Explore new Python libraries, experiment with different reporting techniques, and always look for ways to enhance your [[Financial Analysis]] workflow.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (25), [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (8), [[Forecasting]] (4), [[Automation]] (3)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Python (Programming Language)|Python]] (8), [[Forecasting]] (4), [[Financial Forecasting]] (2), [[Dashboards]] (1)
 > **Code Identifiers:** updated_metrics (6), current_metrics (5), validate_financial_data (3), new_data (2), financial_forecasting (2)
 > **CLI Commands:** python (8), make (3)
 > **Prerequisites:** setup (2)
@@ -3615,24 +3600,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Risk analysis techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980)
+#### [Risk analysis techniques](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=0)** - [Instructor] The current financial world demands sophisticated risk assessment techniques to navigate market volatility and make informed decisions.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=11)** Let's enhance your risk analysis skills with Python's powerful capabilities directly in Excel.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=11)** Let's enhance your risk analysis skills with [[Python (Programming Language)|Python]]'s powerful capabilities directly in [[Microsoft Excel|Excel]].
 >
 > **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=20)** Firstly, let's ensure Python is seamlessly integrated into Excel.
 >
 > **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=26)** This foundational step is crucial for utilizing Python's full potential in our financial risk analysis endeavors.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=36)** We'll also set up the necessary libraries for statistical analysis, including pandas, NumPy and SciPy.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=36)** We'll also set up the necessary libraries for [[Statistical Analysis]], including [[Pandas (Software)|pandas]], NumPy and SciPy.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=45)** With our setup ready, we'll begin with basic risk analysis techniques.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=51)** Using Python scripts, we'll perform these calculations in real financial data sets imported into Excel, providing a hands-on approach to understanding market risk.
+> **[0:51](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=51)** Using Python scripts, we'll perform these calculations in real [[Financial Data]] sets imported into Excel, providing a hands-on approach to understanding market risk.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=64)** So we'll calculate the standard deviation and variance of investment returns, which are common measures of volatility.
 >
@@ -3718,7 +3702,7 @@ created: 2026-05-02
 >
 > **[5:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=339)** And this is given by the sum of the loan amount where yeah.
 >
-> **[5:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=348)** And then times the loan, times the loan['default probability'], right?
+> **[5:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=348)** And then times the loan, times the loan['default [[Probability]]'], right?
 >
 > **[6:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=364)** And close the bracket.
 >
@@ -3828,7 +3812,7 @@ created: 2026-05-02
 >
 > **[11:54](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=714)** So once we are back in Excel, we can write, define a function that calculates the VR and the conditional VR.
 >
-> **[12:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=725)** So calculate the value at risk and conditional value at risk for using historical simulation.
+> **[12:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=725)** So calculate the value at risk and conditional value at risk for using historical [[Simulation]].
 >
 > **[12:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=734)** That's basically what we usually do in finance.
 >
@@ -3948,7 +3932,7 @@ created: 2026-05-02
 >
 > **[19:30](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=1170)** And we have, we've given the confidence interval 0.95 and iterations.
 >
-> **[19:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=1178)** Yeah, so we can just call Control + Enter and that should print all the values.
+> **[19:38](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=1178)** Yeah, so we can just [[Call Control]] + Enter and that should print all the values.
 >
 > **[19:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/risk-analysis-techniques?u=76281980&t=1184)** So we have a historical_var of negative 0.03, conditional var of no such number.
 >
@@ -3966,7 +3950,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Microsoft Excel|Excel]] (10), next (6), [[Probability]] (4), [[Pandas (Software)|Pandas]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (13), [[Microsoft Excel|Excel]] (10), [[Probability]] (4), [[Pandas (Software)|Pandas]] (2), [[Simulation]] (2)
 > **Code Identifiers:** sorted_returns (7), index_var (6), confidence_interval (4), credit_risk_analysis (2), total_loss (2)
 > **Versions:** 0.02 (4), 0.03 (4), 0.01 (3), 0.95 (2), 0.05 (2)
 > **CLI Commands:** python (13), make (3), find (1)
@@ -3975,8 +3959,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), click on (1)
 > **Prerequisites:** set up (1), setup (1)
 
-#### Simulation models
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980)
+#### [Simulation models](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3986,19 +3969,19 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=12)** What are Monte Carlo simulations and why are they crucial for financial risk assessment?
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=20)** Monte Carlo simulations are used to model the probability of different outcomes in a process that cannot easily be predicted due to the intervention of random variables, as in the market.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=20)** Monte Carlo simulations are used to model the [[Probability]] of different outcomes in a process that cannot easily be predicted due to the intervention of random variables, as in the market.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=34)** It's a technique used to understand the impact of risk and uncertainty in prediction and forecasting models.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=34)** It's a technique used to understand the impact of risk and uncertainty in prediction and [[Forecasting]] models.
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=43)** By employing random sampling and statistical modeling, these simulations offer a robust framework for predicting future market behaviors and assessing risk.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=56)** With a solid understanding of the Monte Carlo method, we'll move on to building our first simulation model.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=56)** With a solid understanding of the Monte Carlo method, we'll move on to building our first [[Simulation]] model.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=64)** We'll cover setting initial parameters, generating random variables to model uncertainty and running simulations to project future price pathways.
 >
-> **[1:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=79)** So once you are in Excel, we can now still write the function that simulates these Monte Carlo simulations.
+> **[1:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=79)** So once you are in [[Microsoft Excel|Excel]], we can now still write the function that simulates these Monte Carlo simulations.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=88)** And as we've seen, to activate the Python in Excel, just go to your Formulas bar, you should see the Insert Python, and then you click on the Python in Excel.
+> **[1:28](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=88)** And as we've seen, to activate the [[Python (Programming Language)|Python]] in Excel, just go to your Formulas bar, you should see the Insert Python, and then you click on the Python in Excel.
 >
 > **[1:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/simulation-models?u=76281980&t=99)** And once you've done that, the Python environment is activated in this cell, giving the green coloring of the button.
 >
@@ -4312,7 +4295,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (12), [[Python (Programming Language)|Python]] (8), [[Simulation]] (6), [[Microsoft Excel|Excel]] (4), data (2)
+> **Frameworks & Libraries:** [[Probability]] (12), [[Python (Programming Language)|Python]] (8), [[Simulation]] (6), [[Microsoft Excel|Excel]] (4), [[Forecasting]] (1)
 > **CLI Commands:** python (8), make (2)
 > **Code Identifiers:** monte_carlo_intro (1), simulate_stock_price (1), zeros_like (1), analyze_simulation_outputs (1), final_prices (1)
 > **Versions:** 0.5 (1), 0.2 (1), 0.01 (1), 107.38 (1)
@@ -4321,8 +4304,7 @@ created: 2026-05-02
 > **Cross-References:** as we saw (1)
 > **Speakers:** - [tutor] (1)
 
-#### Compliance reporting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980)
+#### [Compliance reporting](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4330,7 +4312,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=8)** It's about integrating these requirements seamlessly into daily operations.
 >
-> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=14)** We will now learn how Python can revolutionize compliance tasks, making them more efficient and reliable.
+> **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=14)** We will now learn how [[Python (Programming Language)|Python]] can revolutionize compliance tasks, making them more efficient and reliable.
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=23)** Let's begin with an overview of what compliance automation entails and why it's a game changer for the finance sector.
 >
@@ -4340,7 +4322,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=63)** Understanding these fundamentals set the stage for a Python-based automation journey.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=71)** Before we dive into coding, it's essential to set up a Python environment as Python in Excel, and this preparation will ensure we have all the tools needed for efficient compliance reporting.
+> **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=71)** Before we dive into coding, it's essential to set up a Python environment as Python in [[Microsoft Excel|Excel]], and this preparation will ensure we have all the tools needed for efficient compliance reporting.
 >
 > **[1:27](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=87)** Once our environment is ready, we'll tackle automating specific compliance-related tasks.
 >
@@ -4408,7 +4390,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=328)** Finally, we'll establish a system for continuous compliance monitoring.
 >
-> **[5:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=334)** This proactive approach ensures that potential compliance issues are addressed promptly, maintaining the integrity of financial operations.
+> **[5:34](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=334)** This proactive approach ensures that potential compliance issues are addressed promptly, maintaining the integrity of [[Financial Operations]].
 >
 > **[5:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/compliance-reporting?u=76281980&t=344)** You are now equipped with the knowledge and skills to transform compliance processes, making them more efficient, accurate, and aligned with regulatory requirements.
 >
@@ -4416,7 +4398,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Automation]] (4), data (4), [[Microsoft Excel|Excel]] (2), [[Financial Operations]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (7), [[Microsoft Excel|Excel]] (2), [[Financial Operations]] (2)
 > **Code Identifiers:** compliance_status (2), analyze_compliance_data (1), transactions_file (1), transactions_df (1), value_counts (1)
 > **CLI Commands:** python (7)
 > **Env Vars:** false (1)
@@ -4428,8 +4410,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to machine learning in finance
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980)
+#### [Introduction to machine learning in finance](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4437,7 +4418,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=5)** Our first step is to grasp the basics of machine learning.
 >
-> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=10)** Machine learning is a subset of artificial intelligence that involves building systems that learn from data.
+> **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=10)** Machine learning is a subset of [[Artificial Intelligence (AI)|artificial intelligence]] that involves building systems that learn from data.
 >
 > **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=18)** In fact, the most common definition for machine learning is by Tom Mitchell, '97, who states that, "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
 >
@@ -4445,13 +4426,13 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=48)** For machine learning, we don't have the explicit programming of the machines.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=53)** We'll explore why machine learning is particularly significant in finance, where predictive analytics can unveil patterns and insights.
+> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=53)** We'll explore why machine learning is particularly significant in finance, where [[Predictive Analytics]] can unveil patterns and insights.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=63)** hidden in vast data sets driving investment strategies, risk management and customer service.
 >
 > **[1:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=72)** With our foundational understanding of machine learning, will now examine its applications in the finance sector.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=80)** As you can see from the screen, one of the applications is algorithmic trading, which is automated trading decisions based on predictive models.
+> **[1:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=80)** As you can see from the screen, one of the applications is [[Algorithmic Trading]], which is automated trading decisions based on predictive models.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=91)** The next is credit scoring, which involves predicting credit worthiness of clients from historical data.
 >
@@ -4461,19 +4442,19 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=117)** And this is also usually seen mostly in marketing strategies.
 >
-> **[2:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=123)** We also have stock price prediction, which means forecasting of the prices.
+> **[2:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=123)** We also have stock price prediction, which means [[Forecasting]] of the prices.
 >
-> **[2:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=129)** These examples illustrate how machine learning algorithms can process complex data sets to make predictions or decisions without explicit programming.
+> **[2:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=129)** These examples illustrate how machine learning [[Algorithms]] can process complex data sets to make predictions or decisions without explicit programming.
 >
-> **[2:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=140)** Next, we focused on financial forecasting, a critical application of machine learning in finance.
+> **[2:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=140)** Next, we focused on [[Financial Forecasting]], a critical application of machine learning in finance.
 >
-> **[2:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=149)** In predicting stock prices or market trends and economic indicators, we can use linear regression, which is the most simplistic model.
+> **[2:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=149)** In predicting stock prices or market trends and economic indicators, we can use [[Linear Regression]], which is the most simplistic model.
 >
-> **[2:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=159)** We also have decision trees, which is one of the simple classifiers and we also have the neural network and a deep learning approach.
+> **[2:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=159)** We also have [[Decision Trees]], which is one of the simple classifiers and we also have the neural network and a [[Deep Learning]] approach.
 >
 > **[2:49](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=169)** By learning to build and train these models, you'll gain insights into future financial conditions, enhancing decision making and strategic planning.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=182)** So once you open your new worksheet in Excel, we have to activate the Python in Excel.
+> **[3:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=182)** So once you open your new worksheet in [[Microsoft Excel|Excel]], we have to activate the [[Python (Programming Language)|Python]] in Excel.
 >
 > **[3:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=188)** Just go to formulas bar and in the insert Python, just click on the Python in Excel and you have your cell activated for Python scripting.
 >
@@ -4569,7 +4550,7 @@ created: 2026-05-02
 >
 > **[8:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=491)** using the linear regression model.
 >
-> **[8:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=495)** Before diving into model building, it's crucial to understand data preparation.
+> **[8:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=495)** Before diving into model building, it's crucial to understand [[Data Preparation]].
 >
 > **[8:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=502)** And as we've seen in the screen, data preparation involves cleaning and the pre-processing.
 >
@@ -4609,7 +4590,7 @@ created: 2026-05-02
 >
 > **[10:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=614)** Now we can handle any missing values.
 >
-> **[10:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=619)** This is where pandas usually come in.
+> **[10:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=619)** This is where [[Pandas (Software)|pandas]] usually come in.
 >
 > **[10:23](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=623)** So let's create a scaler that calls, the standard scaler we just imported.
 >
@@ -4663,7 +4644,7 @@ created: 2026-05-02
 >
 > **[13:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=788)** We will now demonstrate this with a hands-on example.
 >
-> **[13:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=792)** This hands-on example, will solidify your understanding and give you the confidence to apply machine learning in your financial analysis.
+> **[13:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=792)** This hands-on example, will solidify your understanding and give you the confidence to apply machine learning in your [[Financial Analysis]].
 >
 > **[13:22](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=802)** Okay, so once you are in Excel, there are other libraries that we haven't imported yet.
 >
@@ -4689,7 +4670,7 @@ created: 2026-05-02
 >
 > **[14:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=884)** And that is not take any.
 >
-> **[14:47](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=887)** And then we want to generate synthetic financial data.
+> **[14:47](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=887)** And then we want to generate synthetic [[Financial Data]].
 >
 > **[14:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/introduction-to-machine-learning-in-finance?u=76281980&t=892)** Of course you have your actual data, but this is this for now.
 >
@@ -4779,7 +4760,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (30), [[Linear Regression]] (10), next (6), [[Financial Forecasting]] (5), [[Microsoft Excel|Excel]] (5)
+> **Frameworks & Libraries:** [[Linear Regression]] (10), [[Data Preparation]] (6), [[Financial Forecasting]] (5), [[Microsoft Excel|Excel]] (5), [[Forecasting]] (4)
 > **CLI Commands:** make (5), python (4)
 > **Versions:** 1.4 (1), 0.55 (1), 1.8 (1), 0.0 (1), 2.5 (1)
 > **Best Practices:** don't forget (4)
@@ -4787,18 +4768,17 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Predictive models for financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980)
+#### [Predictive models for financial data](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=0)** - [Instructor] Let's gear up to unlock the potential of predictive modeling in finance.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=0)** - [Instructor] Let's gear up to unlock the potential of [[Predictive Modeling]] in finance.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=7)** Before we jump into coding, let's lay the groundwork by understanding what predictive modeling is and why it's a cornerstone in financial analysis.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=7)** Before we jump into coding, let's lay the groundwork by understanding what predictive modeling is and why it's a cornerstone in [[Financial Analysis]].
 >
 > **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=19)** Predictive modeling is a statistical technique using historical data to predict future events.
 >
-> **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=26)** In finance, it plays a crucial role by forecasting future financial trends like stock prices, market movements, and economic conditions.
+> **[0:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=26)** In finance, it plays a crucial role by [[Forecasting]] future financial trends like stock prices, market movements, and economic conditions.
 >
 > **[0:37](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=37)** By leveraging predictive modeling, financial analysts can make informed decisions, optimize investment strategies, and mitigate risks.
 >
@@ -4812,9 +4792,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=78)** By preparing our data meticulously, we ensure our models are trained on a solid foundation, leading to more reliable forecasts.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=89)** So once you're in Excel, let's try and automate this, preparing financial data using a function.
+> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=89)** So once you're in [[Microsoft Excel|Excel]], let's try and automate this, preparing [[Financial Data]] using a function.
 >
-> **[1:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=99)** So, let's activate the Python environment.
+> **[1:39](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=99)** So, let's activate the [[Python (Programming Language)|Python]] environment.
 >
 > **[1:43](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=103)** Let's create our function called prepare_financial_data.
 >
@@ -4898,7 +4878,7 @@ created: 2026-05-02
 >
 > **[6:49](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=409)** We had already imported the libraries.
 >
-> **[6:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=413)** We're going to use the linear regression for model selection.
+> **[6:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=413)** We're going to use the [[Linear Regression]] for model selection.
 >
 > **[6:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=417)** And we already imported the train_test_split and the means_squared_error for evaluation, so we should be able to just write the function and call the libraries.
 >
@@ -5038,13 +5018,13 @@ created: 2026-05-02
 >
 > **[13:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=836)** You're now equipped with a knowledge to forecast stock prices and economic indicators, bringing valuable insights into future financial trends.
 >
-> **[14:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=848)** Remember, the field of machine learning and data science is constantly evolving.
+> **[14:08](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=848)** Remember, the field of machine learning and [[Data Science]] is constantly evolving.
 >
 > **[14:15](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/predictive-models-for-financial-data?u=76281980&t=855)** So stay curious, keep learning, and continue to refine your models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (28), [[Predictive Modeling]] (6), [[Forecasting]] (4), feature (3), next (3)
+> **Frameworks & Libraries:** [[Predictive Modeling]] (6), [[Forecasting]] (4), [[Financial Analysis]] (2), [[Microsoft Excel|Excel]] (2), [[Financial Data]] (2)
 > **Code Identifiers:** prepare_financial_data (2), train_test_split (2), model_economic_indicators (2), x_test (2), date_range (1)
 > **CLI Commands:** make (5), python (1), find (1)
 > **Env Vars:** gdp (6)
@@ -5052,12 +5032,11 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating ML models with Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980)
+#### [Integrating ML models with Excel](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=0)** - [Instructor] The fusion of Excel's intuitive interface with Python's analytical power opens new frontiers in financial analysis.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=0)** - [Instructor] The fusion of [[Microsoft Excel|Excel]]'s intuitive interface with [[Python (Programming Language)|Python]]'s analytical power opens new frontiers in [[Financial Analysis]].
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=10)** We will now focus on bridging this world.
 >
@@ -5067,11 +5046,11 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=30)** Before we dive into the technicalities, let's understand the landscape.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=35)** We have various types of machine learning models relevant to finance, such as the regression models, which is used for forecasting financial metrics, such as the stock prices, the interest rates, inflation, et cetera.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=35)** We have various types of machine learning models relevant to finance, such as the regression models, which is used for [[Forecasting]] financial metrics, such as the stock prices, the interest rates, inflation, et cetera.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=52)** Then we have the classification models, which are used for forecasting and assessing risk mostly, determining the credit worthiness, detecting fraudulent transaction, et cetera.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=64)** We also have the clustering models, which is the unsupervised approach of machine learning model and used for customer segmentation, as seen in marketing analytics.
+> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=64)** We also have the clustering models, which is the unsupervised approach of machine learning model and used for customer segmentation, as seen in [[Marketing Analytics]].
 >
 > **[1:17](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=77)** So grasping the capabilities of these models is crucial for applying them effectively in our financial analysis.
 >
@@ -5079,17 +5058,17 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=93)** Now here, we have the steps.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=95)** You can import the financial data, usually you use some APIs, some are free, some are not in Python, like the Yahoo Finance.
+> **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=95)** You can import the [[Financial Data]], usually you use some APIs, some are free, some are not in Python, like the Yahoo Finance.
 >
 > **[1:44](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=104)** Then we are able to train the ML models.
 >
 > **[1:47](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=107)** We're able to perform predictions and analysis and evaluate the model, all within Excel, given the Python power.
 >
-> **[1:55](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=115)** Now, this practical walkthrough will show you how to transform Excel into a powerful tool for financial forecasting.
+> **[1:55](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=115)** Now, this practical walkthrough will show you how to transform Excel into a powerful tool for [[Financial Forecasting]].
 >
 > **[2:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=124)** So once you're in Excel, let's try and implement one of the ML models.
 >
-> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=130)** And as I'd mentioned, for the ML, we need the scikit-learn, but we've already imported the linear regression, the train-test splits, and the metrics.
+> **[2:10](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=130)** And as I'd mentioned, for the ML, we need the scikit-learn, but we've already imported the [[Linear Regression]], the train-test splits, and the metrics.
 >
 > **[2:21](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=141)** So let's activate the environment.
 >
@@ -5183,7 +5162,7 @@ created: 2026-05-02
 >
 > **[7:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=421)** So we can call it data_encoded.
 >
-> **[7:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=424)** It's given by, we can use the get_dummies method of pandas, and we input the data and the columns with categorical.
+> **[7:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=424)** It's given by, we can use the get_dummies method of [[Pandas (Software)|pandas]], and we input the data and the columns with categorical.
 >
 > **[7:17](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=437)** And in our case, we have the risk factor and we have the market cap.
 >
@@ -5257,13 +5236,13 @@ created: 2026-05-02
 >
 > **[10:50](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=650)** As we integrate these powerful tools into our work, adhering to best practices and ethical considerations is paramount.
 >
-> **[10:59](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=659)** We've stated here the importance of data privacy, which is ensuring that all financial data used in modeling respects the privacy of individuals and complies with regulations.
+> **[10:59](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=659)** We've stated here the importance of [[Data Privacy]], which is ensuring that all financial data used in modeling respects the [[Privacy]] of individuals and complies with regulations.
 >
 > **[11:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=674)** The other important point is on model transparency.
 >
 > **[11:20](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=680)** Making machine learning models as interpretable as possible to avoid black box scenarios is very important, especially in finance.
 >
-> **[11:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=691)** And then the next is the ethical use of predictive analytics in finance.
+> **[11:31](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=691)** And then the next is the ethical use of [[Predictive Analytics]] in finance.
 >
 > **[11:36](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/integrating-ml-models-with-excel?u=76281980&t=696)** Predictive models should be used to enhance user benefits without discrimination or negative impacts on certain groups.
 >
@@ -5275,7 +5254,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (7), [[Financial Analysis]] (6), next (5)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Python (Programming Language)|Python]] (7), [[Financial Analysis]] (6), [[Financial Data]] (3), [[Forecasting]] (2)
 > **Code Identifiers:** random_state (3), data_encoded (2), implement_ml_models (1), predicted_prices (1), forecasted_prices (1)
 > **CLI Commands:** python (7), make (3), find (1)
 > **Versions:** 0.2 (1), 0.3 (1), 100.10554 (1), 102.005 (1), 102.21 (1)
@@ -5289,12 +5268,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Final project walkthrough
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980)
+#### [Final project walkthrough](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=0)** - [Instructor] In this session, we embark on a finance forecast project that brings together everything we've learned from data preparation to advanced financial calculations and reporting.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=0)** - [Instructor] In this session, we embark on a finance forecast project that brings together everything we've learned from [[Data Preparation]] to advanced financial calculations and reporting.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=13)** Let's start with an overview of our project.
 >
@@ -5308,19 +5286,19 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=48)** Data is at the heart of our analysis, so it's crucial to do the data preparation and analysis.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=56)** In under data preparation, we do data cleaning and manipulation in preparation for the data analysis step.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=56)** In under data preparation, we do [[Data Cleaning]] and manipulation in preparation for the data analysis step.
 >
-> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=64)** This stage is crucial for ensuring the reliability of our findings and sets the stage for an in-depth financial analysis.
+> **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=64)** This stage is crucial for ensuring the reliability of our findings and sets the stage for an in-depth [[Financial Analysis]].
 >
 > **[1:14](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=74)** Once our data is ready, we'll dive deeper.
 >
 > **[1:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=78)** And with the use of UDFs, the process is exemplified for more sophisticated financial analysis.
 >
-> **[1:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=86)** So once you are in Excel, let's create a function that loads and prepares data.
+> **[1:26](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=86)** So once you are in [[Microsoft Excel|Excel]], let's create a function that loads and prepares data.
 >
 > **[1:33](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=93)** Though now we don't need to load data given that we are working in Excel, we can just access directly.
 >
-> **[1:42](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=102)** So let's activate the Python environment, equals sign py, open parenthesis.
+> **[1:42](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=102)** So let's activate the [[Python (Programming Language)|Python]] environment, equals sign py, open parenthesis.
 >
 > **[1:48](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=108)** Once the button turns green, it means the Python environment is activated.
 >
@@ -5334,7 +5312,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=132)** In my cases we can use our my_df, which we used previously.
 >
-> **[2:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=138)** So the data frame of Google stock prices for the last five years daily.
+> **[2:18](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=138)** So the data frame of [[Google]] stock prices for the last five years daily.
 >
 > **[2:25](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=145)** That should be okay.
 >
@@ -5352,7 +5330,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=183)** Now we can fill in for any missing values.
 >
-> **[3:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=187)** So we can just use the fillna method, still in pandas.
+> **[3:07](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=187)** So we can just use the fillna method, still in [[Pandas (Software)|pandas]].
 >
 > **[3:12](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=192)** And we can specify the method we can use fill forward method.
 >
@@ -5578,7 +5556,7 @@ created: 2026-05-02
 >
 > **[13:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=783)** This final step demonstrates how Python in Excel can be leveraged in a practical scenario to provide valuable financial advice.
 >
-> **[13:13](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=793)** You've now experienced firsthand the power of integrating Python with Excel for real world financial data analysis, showcasing an impressive range of skills from data preparation to advanced calculations and insightful reporting.
+> **[13:13](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=793)** You've now experienced firsthand the power of integrating Python with Excel for real world [[Financial Data]] analysis, showcasing an impressive range of skills from data preparation to advanced calculations and insightful reporting.
 >
 > **[13:32](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/capstone-project-walkthrough?u=76281980&t=812)** Your ability to apply Python in Excel for financial analysis not only sets you apart, but also opens up a world of possibilities for your future projects.
 >
@@ -5586,7 +5564,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (34), [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (6), next (5), [[Financial Analysis]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (9), [[Microsoft Excel|Excel]] (6), [[Data Preparation]] (4), [[Financial Analysis]] (3), [[Pandas (Software)|Pandas]] (2)
 > **CLI Commands:** python (9), make (2)
 > **Env Vars:** macd (5), ema (3), udf (1), ewm (1), wacd (1)
 > **Code Identifiers:** my_df (2), prepare_data (1), load_and_prepare_data (1), sort_values (1), calculate_macd (1)
@@ -5598,12 +5576,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Course summary and further resources
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980)
+#### [Course summary and further resources](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=1)** - [Instructor] We've embarked on a journey of Python in Excel for finance, unlocking new possibilities for financial analysis.
+> **[0:01](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=1)** - [Instructor] We've embarked on a journey of [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]] for finance, unlocking new possibilities for [[Financial Analysis]].
 >
 > **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=11)** We'll recap the essentials, highlight pathways for further learning, and explore additional tools and libraries to continue your growth in this exciting field.
 >
@@ -5611,7 +5588,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=35)** In chapter one, we were setting up the Python in Excel environment.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=41)** Chapter two, we did financial data analysis fundamentals.
+> **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=41)** Chapter two, we did [[Financial Data]] analysis fundamentals.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=45)** Chapter three, we looked at advanced financial analysis.
 >
@@ -5619,9 +5596,9 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=56)** Chapter five, we did Python for risk management and compliance.
 >
-> **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=63)** Chapter six, we looked at machine learning for financial forecasting.
+> **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=63)** Chapter six, we looked at machine learning for [[Financial Forecasting]].
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=69)** Chapter seven, we did the final capstone project looking at the various steps that are very crucial while conducting a project.
+> **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=69)** Chapter seven, we did the final [[Capstone]] project looking at the various steps that are very crucial while conducting a project.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=79)** This consolidation ensures you have a solid foundation to build on.
 >
@@ -5651,9 +5628,9 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=173)** You can look at SciPy for scientific computing.
 >
-> **[2:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=177)** We have TensorFlow for machine learning and deep learning models.
+> **[2:57](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=177)** We have [[TensorFlow]] for machine learning and [[Deep Learning]] models.
 >
-> **[3:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=182)** We also have PyTorch.
+> **[3:02](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=182)** We also have [[PyTorch]].
 >
 > **[3:03](https://www.linkedin.com/learning/advanced-python-in-excel-for-finance-a-hands-on-approach/course-summary-and-further-resources?u=76281980&t=183)** It's the other framework other than TensorFlow.
 >
@@ -5675,7 +5652,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (9), [[Financial Analysis]] (6), data (3), [[TensorFlow]] (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (12), [[Microsoft Excel|Excel]] (9), [[Financial Analysis]] (6), [[TensorFlow]] (2), [[Financial Data]] (1)
 > **CLI Commands:** python (12)
 > **Speakers:** - [instructor] (1)
 

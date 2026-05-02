@@ -89,39 +89,37 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
+#### [Introduction](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=0)** - [Christian] Did you know that Python can elevate your machine learning project in Excel?
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=0)** - [Christian] Did you know that [[Python (Programming Language)|Python]] can elevate your machine learning project in [[Microsoft Excel|Excel]]?
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=6)** Do you want to master the integration of Python within Excel to enhance your machine learning capabilities, save time, and gain a competitive edge in your career?
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=17)** Today, I'm excited to introduce you to a course that will revolutionize how you implement machine learning in Excel.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=27)** The biggest benefit you will gain is the ability to leverage Python's capabilities, to automate complex machine learning algorithms, perform advanced data analysis, and create interactive machine learning models in Excel, all while saving you time and reducing errors.
+> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=27)** The biggest benefit you will gain is the ability to leverage Python's capabilities, to automate complex machine learning [[Algorithms]], perform advanced data analysis, and create interactive machine learning models in Excel, all while saving you time and reducing errors.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction?u=76281980&t=46)** I'm Christian Martinez, let's start this exciting journey together.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), career (1), [[Algorithms]] (1), data (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (3), [[Algorithms]] (1)
 > **CLI Commands:** python (3)
 > **Speakers:** - [christian] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=0)** - [Instructor] If you want to get the most out of this course, there are a few things that you should already know.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=7)** First of all, you should have a basic knowledge of Excel.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=7)** First of all, you should have a basic knowledge of [[Microsoft Excel|Excel]].
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=11)** You will be learning how to integrate Python to Excel, so familiarity with Excel will be beneficial.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=11)** You will be learning how to integrate [[Python (Programming Language)|Python]] to Excel, so familiarity with Excel will be beneficial.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=18)** Additionally, a fundamental understanding of finance concepts, whether it's from investment banking, asset management, corporate finance, or FP&A will be really useful.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=18)** Additionally, a fundamental understanding of finance concepts, whether it's from investment [[Banking]], asset management, [[Corporate Finance]], or FP&A will be really useful.
 >
 > **[0:31](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/what-you-should-know?u=76281980&t=31)** Finally, a good knowledge of Python will also be beneficial.
 >
@@ -135,7 +133,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), [[Banking]] (1), management (1), [[Corporate Finance]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (4), [[Banking]] (1), [[Corporate Finance]] (1)
 > **CLI Commands:** python (4)
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
@@ -145,12 +143,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Recap of Python
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
+#### [Recap of Python](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=0)** - [Instructor] Let's start with a quick recap of Python.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=0)** - [Instructor] Let's start with a quick recap of [[Python (Programming Language)|Python]].
 >
 > **[0:03](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=3)** Python is a high level programming language known for its simplicity and readability.
 >
@@ -160,39 +157,38 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=23)** With Python, you can automate repetitive tasks, analyze large data sets, and create complex financial models.
 >
-> **[0:33](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=33)** Python's extensive libraries, like pandas and NumPy, make it an excellent choice for data analysis.
+> **[0:33](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=33)** Python's extensive libraries, like [[Pandas (Software)|pandas]] and NumPy, make it an excellent choice for data analysis.
 >
-> **[0:40](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=40)** These libraries provide robust tools for handling and manipulating financial data efficiently.
+> **[0:40](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=40)** These libraries provide robust tools for handling and manipulating [[Financial Data]] efficiently.
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=48)** It's ease of learning and widespread use make Python a valuable skill for finance professionals.
 >
-> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=56)** In this course, we will leverage Python's capabilities in Excel, a software that you use every day to enhance financial analysis and reporting.
+> **[0:56](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=56)** In this course, we will leverage Python's capabilities in [[Microsoft Excel|Excel]], a software that you use every day to enhance [[Financial Analysis]] and reporting.
 >
 > **[1:06](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-python?u=76281980&t=66)** You will see how Python can transform your workflow and provide deeper insights into your data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), data (3), [[Programming]] (1), [[Pandas (Software)|Pandas]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (8), [[Pandas (Software)|Pandas]] (1), [[Financial Data]] (1), [[Microsoft Excel|Excel]] (1), [[Financial Analysis]] (1)
 > **CLI Commands:** python (8), make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Recap of machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980)
+#### [Recap of machine learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=0)** - [Instructor] Now let's do a recap of machine learning.
 >
-> **[0:03](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=3)** Machine learning, or ML, is a subset of artificial intelligence that focuses on building systems that learn from data and improve over time.
+> **[0:03](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=3)** Machine learning, or ML, is a subset of [[Artificial Intelligence (AI)|artificial intelligence]] that focuses on building systems that learn from data and improve over time.
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=14)** In finance, ML is widely used for tasks such as predicting stock prices, detect fraud, and optimizing portfolios.
 >
-> **[0:24](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=24)** With machine learning, you can automate complex decision-making processes and make data-driven decisions with greater accuracy and speed.
+> **[0:24](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=24)** With machine learning, you can automate complex [[Decision-Making]] processes and make data-driven decisions with greater accuracy and speed.
 >
-> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=35)** Key techniques in machine learning include supervised learning, unsupervised learning, and reinforcement learning.
+> **[0:35](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=35)** Key techniques in machine learning include [[Supervised Learning]], unsupervised learning, and [[Reinforcement Learning]].
 >
-> **[0:44](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=44)** Each technique has its own set of algorithms and applications in finance.
+> **[0:44](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=44)** Each technique has its own set of [[Algorithms]] and applications in finance.
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=49)** Supervised learning, for example, involves training a model on labeled data.
 >
@@ -208,30 +204,29 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=84)** This one involves training models to make a sequence of decisions.
 >
-> **[1:30](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=90)** It's used in areas like algorithmic trading, where the models learn to maximize rewards over time.
+> **[1:30](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=90)** It's used in areas like [[Algorithmic Trading]], where the models learn to maximize rewards over time.
 >
-> **[1:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=98)** In this course, we will explore how machine learning can be integrated with Python and Excel to solve real world financial problems.
+> **[1:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/recap-of-machine-learning?u=76281980&t=98)** In this course, we will explore how machine learning can be integrated with [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] to solve real world financial problems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Supervised Learning]] (2), [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1)
+> **Frameworks & Libraries:** [[Supervised Learning]] (2), [[Reinforcement Learning]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Decision-Making]] (1), [[Algorithms]] (1)
 > **CLI Commands:** make (3), python (1)
 > **Analogies:** such as (1), for example (1), it's like (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data cleaning and preparation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980)
+#### [Data cleaning and preparation](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=0)** - [Instructor] Data cleaning and preparation are crucial steps in any data analysis process.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=0)** - [Instructor] [[Data Cleaning]] and preparation are crucial steps in any data analysis process.
 >
-> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=7)** Clean data leads to accurate and reliable results, which is essential in financial analysis.
+> **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=7)** Clean data leads to accurate and reliable results, which is essential in [[Financial Analysis]].
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=13)** Python offers powerful libraries that make these tasks efficient and straightforward.
+> **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=13)** [[Python (Programming Language)|Python]] offers powerful libraries that make these tasks efficient and straightforward.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=20)** One of the most widely used libraries for data manipulation is pandas.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=20)** One of the most widely used libraries for [[Data Manipulation]] is [[Pandas (Software)|pandas]].
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=27)** With pandas, you can handle missing data, remove duplicates, and transform your data into a useful and usable format.
 >
@@ -247,18 +242,17 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=73)** This can include normalization, aggregation, and merging data sets to create a comprehensive data structure.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=81)** When using Python in Excel, you can automate these processes, saving valuable time, and reduce the risk for manual errors.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=81)** When using Python in [[Microsoft Excel|Excel]], you can automate these processes, saving valuable time, and reduce the risk for manual errors.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-cleaning-and-preparation?u=76281980&t=91)** This will lead to more reliable and reproducible results in your financial models.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Financial Analysis]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Pandas (Software)|Pandas]] (2), [[Data Cleaning]] (1), [[Financial Analysis]] (1), [[Data Manipulation]] (1)
 > **CLI Commands:** python (2), make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: How would you solve this problem with ML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-how-would-you-solve-this-problem-with-ml?u=76281980)
+#### [Challenge: How would you solve this problem with ML?](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-how-would-you-solve-this-problem-with-ml?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -278,12 +272,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - now (1)
 
-#### Solution: How would you solve this problem with ML?
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980)
+#### [Solution: How would you solve this problem with ML?](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -293,9 +285,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=15)** Then we import the libraries that we need for predicting the stock prices.
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=21)** For this task, a supervised learning model like linear regression should be effective.
+> **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=21)** For this task, a [[Supervised Learning]] model like [[Linear Regression]] should be effective.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=27)** First we import pandas for data manipulation and side keep learn for building and evaluating our machine learning model.
+> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=27)** First we import [[Pandas (Software)|pandas]] for [[Data Manipulation]] and side keep learn for building and evaluating our machine learning model.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-1?u=76281980&t=36)** Next, we convert the date column to daytime format and create the target variable.
 >
@@ -317,7 +309,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), data (2), [[Linear Regression]] (2), [[Supervised Learning]] (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Supervised Learning]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
 > **Cross-References:** in the next (1)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
@@ -328,18 +320,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to machine learning concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
+#### [Introduction to machine learning concepts](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=0)** - [Presenter] Let's do an introduction to machine learning concepts.
 >
-> **[0:04](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=4)** Machine learning is a branch of artificial intelligence that enable systems to learn from data and improve their performance.
+> **[0:04](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=4)** Machine learning is a branch of [[Artificial Intelligence (AI)|artificial intelligence]] that enable systems to learn from data and improve their performance.
 >
-> **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=13)** It involves training algorithms to make predictions or decisions based on patterns and insights found in data.
+> **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=13)** It involves training [[Algorithms]] to make predictions or decisions based on patterns and insights found in data.
 >
-> **[0:22](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=22)** These algorithms can be categorized into supervised, unsupervised, and reinforcement learning.
+> **[0:22](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=22)** These algorithms can be categorized into supervised, unsupervised, and [[Reinforcement Learning]].
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=29)** Some of the key concepts in machine learning include, training data, which is a data set used to train the model and testing data, which is a dataset used to evaluate the model's performance on unseen data.
 >
@@ -347,27 +338,26 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=58)** To mitigate these issues, techniques like cross validation help to evaluate the model's performance and also regularization adds a penalty for complexity.
 >
-> **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=71)** Feature engineering is another important aspect, it involves selecting and transforming variables to improve the model's predictive power, making the data more suitable for the machine learning model.
+> **[1:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/introduction-to-machine-learning-concepts?u=76281980&t=71)** [[Feature Engineering]] is another important aspect, it involves selecting and transforming variables to improve the model's predictive power, making the data more suitable for the machine learning model.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Reinforcement Learning]] (1), [[Feature Engineering]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[Reinforcement Learning]] (1), [[Feature Engineering]] (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1)
 > **Speakers:** - [presenter] (1)
 
-#### Building regression models in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980)
+#### [Building regression models in Excel](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=0)** - [Instructor] Regression analysis is a powerful statistical method used to examine the relationship between variables.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=9)** With Python in Excel, you will start by loading your dataset using the Excel function.
+> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=9)** With [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]], you will start by loading your dataset using the Excel function.
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=17)** This dataset might include variables like sales, marketing spend, and economic indicators, which you want to analyze to predict future sales orders.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=29)** Next, you will need to import the necessary libraries such as Pandas for data manipulation and scikit-learn for building and evaluating regression models.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=29)** Next, you will need to import the necessary libraries such as [[Pandas (Software)|Pandas]] for [[Data Manipulation]] and scikit-learn for building and evaluating regression models.
 >
 > **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=41)** Feature selection is key in regression modeling.
 >
@@ -377,7 +367,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=64)** This approach allows you to train your model on one portion of the data and validate its performance on another, ensuring it generalizes well.
 >
-> **[1:14](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=74)** Using scikit-learn, you will create a linear regression model.
+> **[1:14](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=74)** Using scikit-learn, you will create a [[Linear Regression]] model.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/building-regression-models-in-excel?u=76281980&t=79)** You will train this model on the training set, fitting it to your data to learn the relationships between the features and the target variable.
 >
@@ -393,14 +383,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), data (2), [[Python (Programming Language)|Python]] (1), next (1), [[Pandas (Software)|Pandas]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Classification models for business data
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980)
+#### [Classification models for business data](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -408,9 +397,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=7)** Classification models are used to categorize data into predefined classes based on input features.
 >
-> **[0:16](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=16)** You will start again by loading your dataset with the function Excel.
+> **[0:16](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=16)** You will start again by loading your dataset with the function [[Microsoft Excel|Excel]].
 >
-> **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=21)** Then you'll need to import the necessary libraries, Pandas for data manipulation, scikit-learn for building and evaluating models and maplotlib and seaborn for data visualizations.
+> **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=21)** Then you'll need to import the necessary libraries, [[Pandas (Software)|Pandas]] for [[Data Manipulation]], scikit-learn for building and evaluating models and maplotlib and seaborn for data visualizations.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=36)** In this case, you'll need to create a binary target variable.
 >
@@ -426,7 +415,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=76)** Using scikit-learn, you'll create a classification model.
 >
-> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=81)** Common models include logistic regression, decision trees, and random forest.
+> **[1:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=81)** Common models include [[Logistic Regression]], [[Decision Trees]], and random forest.
 >
 > **[1:26](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/classification-models-for-business-data?u=76281980&t=86)** You will choose one based on your specific needs.
 >
@@ -444,20 +433,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Excel|Excel]] (2), business (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1), [[Logistic Regression]] (1), [[Decision Trees]] (1)
 > **Prerequisites:** you'll need (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Build a regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980)
+#### [Challenge: Build a regression model](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980&t=0)** - [Instructor] Now it's time for another challenge.
 >
-> **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980&t=8)** Let's see how you will build a regression model using Python in Excel.
+> **[0:08](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980&t=8)** Let's see how you will build a regression model using [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:14](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-build-a-regression-model?u=76281980&t=14)** Imagine that you're tasked with predicting the monthly sales for a retail store.
 >
@@ -471,23 +459,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** python (1), find (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (upbeat music) (1)
 
-#### Solution: Build a regression model
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980)
+#### [Solution: Build a regression model](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=0)** - [Instructor] Let's walk through the solution to our regression model challenge.
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=9)** You started by setting up your Python environment in Excel and importing the dataset with the function, xl.
+> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=9)** You started by setting up your [[Python (Programming Language)|Python]] environment in [[Microsoft Excel|Excel]] and importing the dataset with the function, xl.
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=18)** Then, this new code start by importing the necessary libraries, so pandas for data manipulation and scikit-learn for building and evaluating your regression model.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=18)** Then, this new code start by importing the necessary libraries, so [[Pandas (Software)|pandas]] for [[Data Manipulation]] and scikit-learn for building and evaluating your regression model.
 >
 > **[0:32](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=32)** These libraries provide powerful tools for handling and analyzing data.
 >
@@ -497,9 +484,9 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=53)** We split the data into training and testing sets and started to scale the features.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=61)** We trained the machine learning model, in this case, linear regression on our data, and then, evaluated the model.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=61)** We trained the machine learning model, in this case, [[Linear Regression]] on our data, and then, evaluated the model.
 >
-> **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=69)** For this, we use performance metrics like mean, absolute error, and also, r-squared.
+> **[1:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=69)** For this, we use [[Performance Metrics]] like mean, absolute error, and also, r-squared.
 >
 > **[1:19](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-2?u=76281980&t=79)** We print up these values and make the predictions on new data.
 >
@@ -509,7 +496,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2), [[Python (Programming Language)|Python]] (1), [[Pandas (Software)|Pandas]] (1), [[Data Manipulation]] (1), [[Linear Regression]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Code Identifiers:** y_pred (1)
 > **Versions:** 1.6 (1)
@@ -522,34 +509,33 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Predictive analytics for financial forecasting
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
+#### [Predictive analytics for financial forecasting](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=0)** - [Narrator] Predictive analytics is a very powerful tool for financial forecasting.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=0)** - [Narrator] [[Predictive Analytics]] is a very powerful tool for [[Financial Forecasting]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=6)** It uses historical data and machine learning models to predict future financial outcomes.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=13)** This can help businesses make informed decisions.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=17)** In finance, predictive analytics can be applied to different areas, such as revenue forecasting, expense management, and investment strategy.
+> **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=17)** In finance, predictive analytics can be applied to different areas, such as revenue [[Forecasting]], expense management, and investment strategy.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=29)** Accurate forecast can significantly impact a company success.
 >
-> **[0:34](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=34)** The first step in predictive analytics is data collection.
+> **[0:34](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=34)** The first step in predictive analytics is [[Data Collection]].
 >
 > **[0:39](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=39)** Gathering historical data on key financial metrics is crucial.
 >
 > **[0:45](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=45)** This data will serve as the foundation for building accurate and reliable models.
 >
-> **[0:51](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=51)** Data cleaning and preparation will follow.
+> **[0:51](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=51)** [[Data Cleaning]] and preparation will follow.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=55)** This involves handling missing values, removing outliers, and transforming data into a format suitable for analysis.
 >
 > **[1:03](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=63)** For this, clean data is essential.
 >
-> **[1:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=67)** Then we have feature engineering.
+> **[1:07](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=67)** Then we have [[Feature Engineering]].
 >
 > **[1:10](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=70)** Creating relevant features from raw data helps improve the model performance.
 >
@@ -557,7 +543,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=85)** Selecting the right model is critical.
 >
-> **[1:28](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=88)** Common models for financial forecasting include linear regression, ARIMA, and more complex models, like neural networks.
+> **[1:28](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=88)** Common models for financial forecasting include [[Linear Regression]], ARIMA, and more complex models, like [[Neural Networks]].
 >
 > **[1:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/predictive-analytics-for-financial-forecasting?u=76281980&t=98)** Each model has its strengths and weaknesses.
 >
@@ -579,15 +565,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Predictive Analytics]] (3), [[Financial Forecasting]] (2), [[Forecasting]] (1), management (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (3), [[Financial Forecasting]] (2), [[Forecasting]] (1), [[Data Collection]] (1), [[Data Cleaning]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
 > **Env Vars:** arima (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Automated decision-making processes
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980)
+#### [Automated decision-making processes](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -595,7 +580,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=9)** By leveraging machine learning, we can start creating systems that make data-driven decisions without human intervention.
 >
-> **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=17)** One key application is algorithmic trading.
+> **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=17)** One key application is [[Algorithmic Trading]].
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=21)** Here, automated systems make trading decisions based on predefined criteria and market data, executing trades at optimal times to maximize returns.
 >
@@ -605,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=48)** This automates the approval or rejection process with high accuracy.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=53)** Implementing automated decision making process requires careful consideration of data quality and model governance.
+> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=53)** Implementing automated decision making process requires careful consideration of [[Data Quality]] and model governance.
 >
 > **[1:04](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=64)** Ensuring accurate and unbiased data is crucial for reliable decisions.
 >
@@ -613,7 +598,7 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=76)** It's essential to understand how models arrive at their conclusions, and we need to ensure models align with business goals and regulatory requirements.
 >
-> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=89)** Scalability is another benefit.
+> **[1:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=89)** [[Scalability]] is another benefit.
 >
 > **[1:32](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/automated-decision-making-processes?u=76281980&t=92)** Automated systems can handle vast amounts of data and make decisions faster than humans.
 >
@@ -623,16 +608,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (1), [[Algorithmic Trading]] (1), business (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Algorithmic Trading]] (1), [[Data Quality]] (1), [[Scalability]] (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - [instructor] (1)
 
-#### Real-time data processing and analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980)
+#### [Real-time data processing and analysis](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=0)** - [Instructor] We have all heard about real time data processing and analysis.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=0)** - [Instructor] We have all heard about real time [[Data Processing]] and analysis.
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=5)** This approach allows businesses to make timely and informed decisions based on the latest available information.
 >
@@ -648,24 +632,23 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=55)** Achieving real time data processing requires robust infrastructures.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=61)** Tools like Apache Kafka and Spark are often used to handle and process data streams efficiently, ensuring quick and reliable analysis.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=61)** Tools like [[Apache Kafka]] and Spark are often used to handle and process data streams efficiently, ensuring quick and reliable analysis.
 >
-> **[1:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=73)** Real time dashboards and visualizations also play a critical role in presenting insights.
+> **[1:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=73)** Real time [[Dashboards]] and visualizations also play a critical role in presenting insights.
 >
-> **[1:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=80)** Tools like Tableau and Power BI can be integrated with Python and Excel to create dynamic and interactive visualizations of real-time data.
+> **[1:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=80)** Tools like [[Tableau]] and [[Microsoft Power BI|Power BI]] can be integrated with [[Python (Programming Language)|Python]] and [[Microsoft Excel|Excel]] to create dynamic and interactive visualizations of [[Real-Time]] data.
 >
 > **[1:31](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=91)** Automatic alerts and notifications are another key feature.
 >
-> **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=95)** Setting up these triggers for specific events ensures that stakeholders are immediately informed of critical changes, enabling swift decision making.
+> **[1:35](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/real-time-data-processing-and-analysis?u=76281980&t=95)** Setting up these triggers for specific events ensures that stakeholders are immediately informed of critical changes, enabling [[Swift (Programming Language)|swift]] decision making.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), application (1), management (1), [[Apache Kafka]] (1), [[Dashboards]] (1)
+> **Frameworks & Libraries:** [[Data Processing]] (2), [[Apache Kafka]] (1), [[Dashboards]] (1), [[Tableau]] (1), [[Microsoft Power BI|Power bi]] (1)
 > **CLI Commands:** make (1), apache (1), python (1)
 > **Speakers:** - [instructor] (1)
 
-#### Challenge: Create a financial forecast
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-create-a-financial-forecast?u=76281980)
+#### [Challenge: Create a financial forecast](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/challenge-create-a-financial-forecast?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -685,26 +668,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **Speakers:** - now (1)
 > **Non-Speech:** (bouncy upbeat music) (1)
 
-#### Solution: Create a financial forecast
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980)
+#### [Solution: Create a financial forecast](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=0)** (lively upbeat music)
 >
-> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=5)** - [Instructor] Let's work together through the solution to our financial forecasting challenge.
+> **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=5)** - [Instructor] Let's work together through the solution to our [[Financial Forecasting]] challenge.
 >
 > **[0:10](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=10)** As always, we begin this challenge by importing the dataset with the function "xl".
 >
-> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=18)** Then, in a separate cell, we started the code, but imported the necessary libraries, so Pandas, NumPy, Scikit-learn, and Matplotlib.
+> **[0:18](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=18)** Then, in a separate cell, we started the code, but imported the necessary libraries, so [[Pandas (Software)|Pandas]], NumPy, Scikit-learn, and Matplotlib.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=29)** Then, we convert the month column to datetime and create a new column for the numeric representation of this date.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=38)** We prepared the features X, so the month number and the target of revenue, and we initialized and fit the machine learning model, in this case, linear regression.
+> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=38)** We prepared the features X, so the month number and the target of revenue, and we initialized and fit the machine learning model, in this case, [[Linear Regression]].
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/solution-challenge-3?u=76281980&t=52)** We created future dates for the next year and started to predict the future revenue.
 >
@@ -716,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Forecasting]] (1), [[Pandas (Software)|Pandas]] (1), [[Linear Regression]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Financial Forecasting]] (1), [[Pandas (Software)|Pandas]] (1), [[Linear Regression]] (1)
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (lively upbeat music) (1)
 
@@ -725,16 +706,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data manipulation with pandas
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
+#### [Data manipulation with pandas](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=0)** - [Instructor] As I have mentioned before, pandas is a very powerful Python library for data manipulation and analysis, widely used in finance for its robust functionalities.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=0)** - [Instructor] As I have mentioned before, [[Pandas (Software)|pandas]] is a very powerful [[Python (Programming Language)|Python]] library for [[Data Manipulation]] and analysis, widely used in finance for its robust functionalities.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=12)** You'll typically start by importing pandas and loading your dataset into a DataFrame.
 >
-> **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=19)** This dataset might include financial data such as stock prices, sales figures, or economic indicators.
+> **[0:19](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=19)** This dataset might include [[Financial Data]] such as stock prices, sales figures, or economic indicators.
 >
 > **[0:28](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=28)** One technique that you can use in pandas is handling missing data.
 >
@@ -742,7 +722,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=43)** As you can see, the dataset in the left had some missing values, but then the new dataset have already filled those blanks.
 >
-> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=53)** Data transformation is another key skill that you can use with pandas.
+> **[0:53](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=53)** [[Data Transformation]] is another key skill that you can use with pandas.
 >
 > **[0:59](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/data-manipulation-with-pandas?u=76281980&t=59)** In this case, we're creating a new column called Log Sales Figures and also Price Change, which is the difference between the current and the previous stock price in this case.
 >
@@ -752,26 +732,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), data (4), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Financial Data]] (1)
+> **Frameworks & Libraries:** [[Pandas (Software)|Pandas]] (4), [[Python (Programming Language)|Python]] (1), [[Data Manipulation]] (1), [[Financial Data]] (1), [[Data Transformation]] (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Numerical analysis with NumPy
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980)
+#### [Numerical analysis with NumPy](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=0)** - [Instructor] Numerical analysis is a fundamental aspect of data analysis, and NumPy is one of the most powerful libraries in Python for this purpose.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=0)** - [Instructor] Numerical analysis is a fundamental aspect of data analysis, and NumPy is one of the most powerful libraries in [[Python (Programming Language)|Python]] for this purpose.
 >
-> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=11)** This library will help you perform efficient mathematical and logical operations on arrays and matrices, which is crucial for financial analysis.
+> **[0:11](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=11)** This library will help you perform efficient mathematical and logical operations on arrays and matrices, which is crucial for [[Financial Analysis]].
 >
-> **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=23)** Within Excel, you'll start by importing NumPy as np.
+> **[0:23](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=23)** Within [[Microsoft Excel|Excel]], you'll start by importing NumPy as np.
 >
 > **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=29)** Then, to create a NumPy array from a list, you can have the data like 100 to 108, and then call the function, array, from NumPy.
 >
-> **[0:42](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=42)** You can perform statistical analysis with NumPy, such as getting the mean, the median, and the standard deviation of that array.
+> **[0:42](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=42)** You can perform [[Statistical Analysis]] with NumPy, such as getting the mean, the median, and the standard deviation of that array.
 >
 > **[0:52](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/numerical-analysis-with-numpy?u=76281980&t=52)** In here for example, we're displaying the analysis results for the mean.
 >
@@ -785,32 +764,31 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Python (Programming Language)|Python]] (1), [[Financial Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[Statistical Analysis]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (1), [[Financial Analysis]] (1), [[Microsoft Excel|Excel]] (1), [[Statistical Analysis]] (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** python (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Machine learning with scikit-learn
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980)
+#### [Machine learning with scikit-learn](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=0)** - [Instructor] Machine learning is a powerful tool for making predictions and also to uncover insights in financial data.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=0)** - [Instructor] Machine learning is a powerful tool for making predictions and also to uncover insights in [[Financial Data]].
 >
-> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=9)** Scikit-learn is one of the most popular libraries in Python for implementing machine learning algorithms.
+> **[0:09](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=9)** Scikit-learn is one of the most popular libraries in [[Python (Programming Language)|Python]] for implementing machine learning [[Algorithms]].
 >
 > **[0:17](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=17)** You can pre-process the data using scikit-learn's pre-processing module, and also scale the features using StandardScaler.
 >
 > **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=27)** This is to ensure that the features have a mean of zero and a standard deviation of one, which improves model performance.
 >
-> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=38)** With scikit-learn, you will start again by just importing your different dataset, but then when you import scikit-learn, you can start using it to scale the features as I mentioned before, and to train machine learning models like linear regression.
+> **[0:38](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=38)** With scikit-learn, you will start again by just importing your different dataset, but then when you import scikit-learn, you can start using it to scale the features as I mentioned before, and to train machine learning models like [[Linear Regression]].
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=61)** You will also be able to evaluate model's performance and generate performance metrics such as Mean Squared error, and to make predictions.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/machine-learning-with-scikit-learn?u=76281980&t=61)** You will also be able to evaluate model's performance and generate [[Performance Metrics]] such as Mean Squared error, and to make predictions.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Financial Data]] (1), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), data (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (1), [[Python (Programming Language)|Python]] (1), [[Algorithms]] (1), [[Linear Regression]] (1), [[Performance Metrics]] (1)
 > **CLI Commands:** python (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
@@ -820,12 +798,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear regression for business insights
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
+#### [Linear regression for business insights](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=0)** - [Instructor] Linear regression is a fundamental machine learning technique that models the relationship between a dependent variable and one or more independent variables.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=0)** - [Instructor] [[Linear Regression]] is a fundamental machine learning technique that models the relationship between a dependent variable and one or more independent variables.
 >
 > **[0:12](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=12)** It's widely used in business to generate insights and make predictions.
 >
@@ -837,29 +814,28 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=49)** When dealing with multiple independent variables, the formula becomes a little bit more complex, and it's known as multiple linear regression.
 >
-> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=61)** Some of the use cases for linear regression in finance and in business are predicting sales based on advertising spend, forecasting demand based on economic indicators, and analyzing the impact of pricing change on revenue.
+> **[1:01](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=61)** Some of the use cases for linear regression in finance and in business are predicting sales based on advertising spend, [[Forecasting]] demand based on economic indicators, and analyzing the impact of pricing change on revenue.
 >
 > **[1:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/linear-regression-for-business-insights?u=76281980&t=80)** By understanding and applying linear regression, you can gain valuable insights into your business data, helping you to make informed strategic decisions and improve the overall performance of your business.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linear Regression]] (6), business (4), data (2), [[Forecasting]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (6), [[Forecasting]] (1)
 > **Definitions:** is a  (3), known as (2)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Random forests for predictive modelling
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980)
+#### [Random forests for predictive modelling](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=0)** - [Instructor] Now let's cover Random Forests for predictive modeling.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=0)** - [Instructor] Now let's cover Random Forests for [[Predictive Modeling]].
 >
 > **[0:05](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=5)** Random Forest is a powerful machine learning technique used for both classification and regression tasks.
 >
 > **[0:13](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=13)** It's widely used in business for making accurate predictions and gaining insights from data.
 >
-> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=20)** The Random Forest algorithm works by constructing multiple decision trees during training and outputting the average prediction of the individual trees for regression, or the majority vote for classification.
+> **[0:20](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=20)** The Random Forest algorithm works by constructing multiple [[Decision Trees]] during training and outputting the average prediction of the individual trees for regression, or the majority vote for classification.
 >
 > **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/random-forests-for-predictive-modelling?u=76281980&t=36)** Each one of these decision trees in the forest is built from a random subset of the data.
 >
@@ -873,13 +849,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Decision Trees]] (2), [[Predictive Modeling]] (1), business (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (2), [[Predictive Modeling]] (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Clustering techniques for market segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980)
+#### [Clustering techniques for market segmentation](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -891,9 +866,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=21)** The clustering algorithm works by finding natural groupings in the data.
 >
-> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=27)** Common algorithms include k-means, hierarchical clustering or DBSCAN, each one with its own method of defining and identifying clusters.
+> **[0:27](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=27)** Common [[Algorithms]] include k-means, hierarchical clustering or DBSCAN, each one with its own method of defining and identifying clusters.
 >
-> **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=41)** In K-means clustering, for example, the algorithm partitions the data into k clusters where each data point belongs to a cluster with the nearest mean.
+> **[0:41](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=41)** In [[k-means clustering]], for example, the algorithm partitions the data into k clusters where each data point belongs to a cluster with the nearest mean.
 >
 > **[0:55](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/clustering-techniques-for-market-segmentation?u=76281980&t=55)** The goal is to minimize the variance with each cluster.
 >
@@ -905,7 +880,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), business (3), [[Algorithms]] (1), [[k-means clustering]] (1), product (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[k-means clustering]] (1)
 > **Env Vars:** dbscan (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
@@ -916,12 +891,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=0)** - [Narrator] Congratulations, you have completed this course on Advanced Python in Excel.
+> **[0:00](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=0)** - [Narrator] Congratulations, you have completed this course on Advanced [[Python (Programming Language)|Python]] in [[Microsoft Excel|Excel]].
 >
 > **[0:06](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=6)** Throughout the course, we have covered essential topics such as integrating Python into Excel, analyzing large data sets, and creating machine learning models.
 >
@@ -929,9 +903,9 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=25)** But our journey doesn't have to end here.
 >
-> **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=29)** If you're hungry for more knowledge, consider exploring additional courses here on LinkedIn Learning.
+> **[0:29](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=29)** If you're hungry for more knowledge, consider exploring additional courses here on [[LinkedIn]] Learning.
 >
-> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=36)** You can learn more advanced Python for machine learning, explore neural networks, or even enhance your data science skills.
+> **[0:36](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=36)** You can learn more advanced Python for machine learning, explore [[Neural Networks]], or even enhance your [[Data Science]] skills.
 >
 > **[0:46](https://www.linkedin.com/learning/advanced-python-in-excel-machine-learning/next-steps?u=76281980&t=46)** Keep growing, keep exploring and stay ahead in evolving finance and technology landscape.
 >
@@ -941,7 +915,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), data (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (2), [[Neural Networks]] (1), [[Data Science]] (1)
 > **CLI Commands:** python (4), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)

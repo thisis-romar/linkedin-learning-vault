@@ -83,12 +83,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Become an MPLS expert
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980)
+#### [Become an MPLS expert](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980&t=0)** - [Arash] Welcome to MPLS Foundations, Getting Started with MPLS.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980&t=0)** - [Arash] Welcome to [[Multiprotocol Label Switching (MPLS)|MPLS]] Foundations, Getting Started with MPLS.
 >
 > **[0:04](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/become-an-mpls-expert?u=76281980&t=4)** In this course, we are going to dive deep into the essentials of MPLS, uncovering how it all works, and why it's such a game-changer in the networking world.
 >
@@ -100,7 +99,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), game (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6)
 > **Env Vars:** mpls (6)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [arash] (1)
@@ -110,8 +109,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### IP forwarding
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980)
+#### [IP forwarding](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -119,7 +117,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=9)** In each router, we have two planes related to forwarding, the control plane and the data or forwarding plane.
 >
-> **[0:17](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=17)** The control plane gathers the necessary information for forwarding packets towards their destinations using routing protocols and includes the routing information base, or RIB or routing table.
+> **[0:17](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=17)** The control plane gathers the necessary information for forwarding packets towards their destinations using [[Routing Protocols]] and includes the [[Routing]] information base, or RIB or routing table.
 >
 > **[0:31](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=31)** The control plane uses various routing protocols like OSPF, BGP, or RIP, to build a comprehensive view of the network.
 >
@@ -147,22 +145,21 @@ created: 2026-05-02
 >
 > **[1:54](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=114)** Similarly, you can use the show ip cef command to verify the forwarding information base or FIB.
 >
-> **[2:02](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=122)** After reviewing IP for wording, it's time to explore another method for forwarding packets to their destinations, MPLS, Multiprotocol Label Switching.
+> **[2:02](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ip-forwarding?u=76281980&t=122)** After reviewing IP for wording, it's time to explore another method for forwarding packets to their destinations, [[Multiprotocol Label Switching (MPLS)|MPLS]], [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Routing]] (3), [[Routing Protocols]] (2), next (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1)
+> **Frameworks & Libraries:** [[Routing]] (3), [[Routing Protocols]] (2), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
 > **Env Vars:** fib (5), rib (3), ospf (1), bgp (1), rip (1)
 > **Code Identifiers:** ios (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS control plane and data plane
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980)
+#### [MPLS control plane and data plane](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=0)** - [Instructor] MPLS or Multiprotocol Label Switching is a protocol agnostic technique for high performance telecommunications networks.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=0)** - [Instructor] [[Multiprotocol Label Switching (MPLS)|MPLS]] or [[Multiprotocol Label Switching (MPLS)|Multiprotocol Label Switching]] is a protocol agnostic technique for high performance [[Telecommunications]] networks.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=9)** It directs data from one network node to the next based on labels rather than network addresses.
 >
@@ -170,7 +167,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=23)** We have a network that includes four routers, R1, R2, R3 and R4.
 >
-> **[0:30](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=30)** In this course, the IP addressing scheme follows the pattern 10.x.y.0/24 where x and y represent the numbers of routers connected to each other.
+> **[0:30](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=30)** In this course, the [[IP Addressing]] scheme follows the pattern 10.x.y.0/24 where x and y represent the numbers of routers connected to each other.
 >
 > **[0:44](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=44)** R1 is connected to R2 using the 10.1.2.0/24 network.
 >
@@ -180,7 +177,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=66)** Additionally, R4 has a loop back interface with the IP address quad 4 /32.
 >
-> **[1:14](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=74)** In this scenario, when a routing protocol like OSPF is configured, both the Routing Information Base, or RIB, and the Forwarding Information Base, or FIB, will be fully populated.
+> **[1:14](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=74)** In this scenario, when a [[Routing]] protocol like OSPF is configured, both the Routing Information Base, or RIB, and the Forwarding Information Base, or FIB, will be fully populated.
 >
 > **[1:28](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=88)** Let's focus on the network quad 4/32 but the logic applies similarly to all networks.
 >
@@ -248,7 +245,7 @@ created: 2026-05-02
 >
 > **[6:21](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=381)** It contains fields like the local label, outgoing label, prefix, wide label switch, outgoing interface, and next hop.
 >
-> **[6:32](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=392)** Let's zoom in on some of them now.
+> **[6:32](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=392)** Let's [[Zoom]] in on some of them now.
 >
 > **[6:36](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-control-plane-and-data-plane?u=76281980&t=396)** In the LFIB, the local label field holds the label generated locally by the router.
 >
@@ -268,7 +265,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[Routing]] (6), data (4), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[Routing]] (6), [[Multiprotocol Label Switching (MPLS)|Multiprotocol label switching]] (1), [[Telecommunications]] (1), [[IP Addressing]] (1)
 > **Env Vars:** mpls (9), lib (9), fib (7), ldp (6), lfib (5)
 > **Versions:** 10.2.3 (2), 10.3.4 (2), 10.1.2 (1)
 > **Analogies:** for example (2), such as (1)
@@ -277,12 +274,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Packet forwarding in an MPLS network
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/packet-forwarding-in-an-mpls-network?u=76281980)
+#### [Packet forwarding in an MPLS network](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/packet-forwarding-in-an-mpls-network?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/packet-forwarding-in-an-mpls-network?u=76281980&t=0)** - [Instructor] In this video, I take you on an exciting journey of a packet traveling through an MPLS network, uncovering how it swiftly forwarded using MPLS labels.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/packet-forwarding-in-an-mpls-network?u=76281980&t=0)** - [Instructor] In this video, I take you on an exciting journey of a packet traveling through an [[Multiprotocol Label Switching (MPLS)|MPLS]] network, uncovering how it swiftly forwarded using MPLS labels.
 >
 > **[0:13](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/packet-forwarding-in-an-mpls-network?u=76281980&t=13)** Picture this, R1 receives a packet destined for quad 4 and adventure through the MPLS network begins.
 >
@@ -328,7 +324,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** lfib (8), fib (7), mpls (4), nfi (1)
 > **Versions:** 10.1.2 (1), 10.2.3 (1), 10.3.4 (1)
 > **CLI Commands:** find (1)
@@ -336,12 +332,11 @@ created: 2026-05-02
 > **Analogies:** picture (1)
 > **Speakers:** - [instructor] (1)
 
-#### Penultimate hop popping (PHP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980)
+#### [Penultimate hop popping (PHP)](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=0)** - [Presenter] In this video, I reveal the magic of PHP or penultimate hop popping a default feature in Cisco iOS that turbocharges MPLS forwarding.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=0)** - [Presenter] In this video, I reveal the magic of [[PHP]] or penultimate hop popping a default feature in Cisco iOS that turbocharges [[Multiprotocol Label Switching (MPLS)|MPLS]] forwarding.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=11)** Discover how PHP simplifies packet travel and supercharge network efficiency.
 >
@@ -359,7 +354,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=81)** Alright, let's revisit our previous example to see how penultimate hop popping, or PHP, makes MPLS for wording more efficient.
 >
-> **[1:33](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=93)** In MPLS networks, each router assigns a label to each network entry in its routing table.
+> **[1:33](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=93)** In MPLS networks, each router assigns a label to each network entry in its [[Routing]] table.
 >
 > **[1:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/penultimate-hop-popping-php?u=76281980&t=100)** R4 As the final router selects a label value of null indicating pop label and communicates these to R3.
 >
@@ -399,19 +394,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[PHP]] (8), [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), feature (3), [[Routing]] (1)
+> **Frameworks & Libraries:** [[PHP]] (8), [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (1)
 > **Env Vars:** php (8), mpls (7), fib (7), lfib (5), lib (1)
 > **CLI Commands:** php (8)
 > **Code Identifiers:** ios (2)
 > **Cross-References:** previous video (1)
 > **Speakers:** - [presenter] (1)
 
-#### MPLS label
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label?u=76281980)
+#### [MPLS label](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label?u=76281980&t=0)** - [Instructor] Now that we have unlocked the mysteries of MPLS control and data planes and explored packet forwarding, it's time for the next three link chapter, MPLS Label.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label?u=76281980&t=0)** - [Instructor] Now that we have unlocked the mysteries of [[Multiprotocol Label Switching (MPLS)|MPLS]] control and data planes and explored packet forwarding, it's time for the next three link chapter, MPLS Label.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label?u=76281980&t=12)** MPLS Labels are critical components in the MPLS framework, enabling efficient packet forwarding.
 >
@@ -465,7 +459,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), next (2), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11)
 > **Env Vars:** mpls (11), ttl (5), exp (2), osi (1)
 > **Cross-References:** in the last (1), in the next (1)
 > **Versions:** 2.5 (1)
@@ -476,14 +470,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Label switch router (LSR)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980)
+#### [Label switch router (LSR)](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=0)** - [Instructor] In this video, we'll explore what label switch routers, or LSRs, are and the different types they come in.
 >
-> **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=9)** A label switch router, or LSR, is a router that supports MPLS.
+> **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=9)** A label switch router, or LSR, is a router that supports [[Multiprotocol Label Switching (MPLS)|MPLS]].
 >
 > **[0:16](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=16)** It is capable of understanding MPLS labels and of receiving and transmitting a label packet on a data link.
 >
@@ -501,7 +494,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=69)** In MPLS, the operations push, swap, and pop are fundamental actions that LSRs perform on packet labels.
 >
-> **[1:19](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=79)** In our previous scenario, without PHP R1 pushes a label onto the packet.
+> **[1:19](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=79)** In our previous scenario, without [[PHP]] R1 pushes a label onto the packet.
 >
 > **[1:25](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switch-router-lsr?u=76281980&t=85)** R2 and R2 then swap the label.
 >
@@ -523,19 +516,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), data (3), [[PHP]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[PHP]] (1)
 > **Env Vars:** lsr (10), mpls (9), php (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** php (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label switched path (LSP)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980)
+#### [Label switched path (LSP)](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=0)** - [Instructor] A label switched path, or LSP, is a sequence of LSRs that switch a labeled packet through an MPLS network or part of an MPLS network.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=0)** - [Instructor] A label switched path, or LSP, is a sequence of LSRs that switch a labeled packet through an [[Multiprotocol Label Switching (MPLS)|MPLS]] network or part of an MPLS network.
 >
 > **[0:11](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=11)** The first LSR of an LSP is the ingress LSR for that LSP, whereas the last LSR of the LSP is the egress LSR.
 >
@@ -565,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=101)** The top label belongs to the nested LSP and the bottom label belongs to the LSP that spans the entire MPLS network.
 >
-> **[1:50](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=110)** We can utilize nested LSPs in MPLS applications such as MPLS Traffic Engineering, or TE.
+> **[1:50](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=110)** We can utilize nested LSPs in MPLS applications such as MPLS [[Traffic Engineering]], or TE.
 >
 > **[1:58](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-switched-path-lsp?u=76281980&t=118)** In summary, LSPs streamline packet forwarding across MPLS networks, enhancing efficiency and network performance.
 >
@@ -577,19 +569,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), next (3), [[Traffic Engineering]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (9), [[Traffic Engineering]] (1)
 > **Env Vars:** lsp (18), lsr (11), mpls (9)
 > **Definitions:** is a  (1), is an  (1)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Forwarding equivalence class (FEC)
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980)
+#### [Forwarding equivalence class (FEC)](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=0)** - [Instructor] A forwarding equivalence class, or FEC, is a fundamental concept in MPLS that groups packets together based on common characteristics for efficient forwarding.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=0)** - [Instructor] A forwarding equivalence class, or FEC, is a fundamental concept in [[Multiprotocol Label Switching (MPLS)|MPLS]] that groups packets together based on common characteristics for efficient forwarding.
 >
 > **[0:13](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=13)** In MPLS, an FEC is a set of packets that are forwarded along the same path through an MPLS network and receive identical treatment.
 >
@@ -599,7 +590,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=39)** The primary goal of an FEC is to simplify the forwarding process.
 >
-> **[0:46](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=46)** By classifying packets into FECs at the ingress LSR, MPLS networks can streamline packet processing and routing decisions.
+> **[0:46](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=46)** By classifying packets into FECs at the ingress LSR, MPLS networks can streamline packet processing and [[Routing]] decisions.
 >
 > **[0:57](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=57)** Instead of handling each packet individually, the network only needs to process the FEC label.
 >
@@ -609,9 +600,9 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=78)** Packets are then forwarded through the MPLS network based on their assigned label, not the original IP header information.
 >
-> **[1:28](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=88)** FECs are crucial for optimizing the performance and scalability of MPLS networks.
+> **[1:28](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=88)** FECs are crucial for optimizing the performance and [[Scalability]] of MPLS networks.
 >
-> **[1:34](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=94)** They enable efficient handling of large volumes of traffic by reducing the need for repeated routing lookups and allow for advanced traffic management techniques like MPLS Traffic Engineering or TE and QoS.
+> **[1:34](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=94)** They enable efficient handling of large volumes of traffic by reducing the need for repeated routing lookups and allow for advanced traffic management techniques like MPLS [[Traffic Engineering]] or TE and QoS.
 >
 > **[1:51](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/forwarding-equivalence-class-fec?u=76281980&t=111)** Remember our previous example with four routers: R1, R2, R3, and R4.
 >
@@ -653,19 +644,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), traffic (3), [[Routing]] (3), [[Scalability]] (1), management (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Routing]] (3), [[Scalability]] (1), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (10), fec (9), lsr (2), fec1 (1), fec2 (1)
 > **Versions:** 4.4.4 (3), 5.5.5 (3)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Frame mode MPLS vs. cell mode MPLS
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980)
+#### [Frame mode MPLS vs. cell mode MPLS](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=0)** - [Instructor] In this video, we will learn about two modes of MPLS implementation, Frame Mode MPLS and Cell Mode MPLS.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=0)** - [Instructor] In this video, we will learn about two modes of [[Multiprotocol Label Switching (MPLS)|MPLS]] implementation, Frame Mode MPLS and Cell Mode MPLS.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=8)** First, let's start with Frame Mode MPLS.
 >
@@ -673,7 +663,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=16)** The figure shows an edge router that receives a normal IP packet.
 >
-> **[0:22](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=22)** The router then does the following tasks, the router performs routing lookup to determine the outgoing interface, the router assigns and inserts a label between the Layer 2 frame header and the Layer 3 packet header.
+> **[0:22](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=22)** The router then does the following tasks, the router performs [[Routing]] lookup to determine the outgoing interface, the router assigns and inserts a label between the Layer 2 frame header and the Layer 3 packet header.
 >
 > **[0:39](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/frame-mode-mpls-vs-cell-mode-mpls?u=76281980&t=39)** If the outgoing interface is enabled for MPLS, and if a next top label for the destination exists, the router then changed the layer to enter type value to indicate that this is a labeled packet.
 >
@@ -713,7 +703,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), [[Routing]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (17), [[Routing]] (1)
 > **Env Vars:** mpls (17), atm (9), vpi (4), vci (4)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
@@ -724,12 +714,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Label distribution protocols
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980)
+#### [Label distribution protocols](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980&t=0)** - [Instructor] As you have learned in previous sections of this course, after allocating labels for networks in the routing table, each router needs to advertise these labels to their neighboring routers using a protocol for distributing labels across routers in an MPLS network.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980&t=0)** - [Instructor] As you have learned in previous sections of this course, after allocating labels for networks in the [[Routing]] table, each router needs to advertise these labels to their neighboring routers using a protocol for distributing labels across routers in an [[Multiprotocol Label Switching (MPLS)|MPLS]] network.
 >
 > **[0:21](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-protocols?u=76281980&t=21)** According to MPLS applications, various protocols work for label distribution, such as TDP, LDP, BGP, and RSVP.
 >
@@ -771,19 +760,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (7), [[Routing]] (3)
 > **Env Vars:** ldp (15), tdp (8), mpls (7), ipv4 (2), lsr (2)
 > **Cross-References:** in the next (1)
 > **Analogies:** such as (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS LDP configuration in Cisco IOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980)
+#### [MPLS LDP configuration in Cisco IOS](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=0)** - [Instructor] For enabling MPLS LDP on Cisco iOS, first ensure that CEF, or Cisco Express Forwarding, is enabled.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=0)** - [Instructor] For enabling [[Multiprotocol Label Switching (MPLS)|MPLS]] LDP on Cisco iOS, first ensure that CEF, or Cisco Express Forwarding, is enabled.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=9)** This feature is typically enabled by default, but can be explicitly enabled with the IP CEF command.
 >
@@ -799,7 +787,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=44)** The second method is the IGP Configuration method.
 >
-> **[0:48](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=48)** If you are using OSPF or IS-IS as your IGP, you can enable MPLS LDP on all interfaces that are enabled with the IGP, by using the MPLS LDP Autoconfig command under the routing protocol process.
+> **[0:48](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=48)** If you are using OSPF or IS-IS as your IGP, you can enable MPLS LDP on all interfaces that are enabled with the IGP, by using the MPLS LDP Autoconfig command under the [[Routing]] protocol process.
 >
 > **[1:05](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-configuration-in-cisco-ios?u=76281980&t=65)** In our scenario, I will enable MPLS on R1 and R2, using the Interface Configuration method, and on R3 and R4, using the IGP Configuration method with OSPF or IS-IS.
 >
@@ -841,18 +829,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (36), express (1), feature (1), [[Routing]] (1), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (36), [[Routing]] (1)
 > **Env Vars:** mpls (23), ldp (6), igp (4), cef (2), ospf (2)
 > **Code Identifiers:** ios (3)
 > **Definitions:** known as (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS  LDP  neighborship
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-neighborship?u=76281980)
+#### [MPLS  LDP  neighborship](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-neighborship?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-neighborship?u=76281980&t=0)** - [Instructor] After mastering basic MPLS LDP configuration, let's delve into understanding LDP neighborship.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-neighborship?u=76281980&t=0)** - [Instructor] After mastering basic [[Multiprotocol Label Switching (MPLS)|MPLS]] LDP configuration, let's delve into understanding LDP neighborship.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-neighborship?u=76281980&t=9)** When we enable MPLS LDP on an interface, it activates the multicast address 224.0.0.2 on that interface.
 >
@@ -906,7 +893,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), application (1), management (1), traffic (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3)
 > **Env Vars:** ldp (25), tcp (7), udp (3), mpls (2)
 > **Versions:** 224.0.0 (4)
 > **Ports:** port 646 (2)
@@ -915,12 +902,11 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Definitions:** is an  (1)
 
-#### LDP neighborship verification
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-neighborship-verification?u=76281980)
+#### [LDP neighborship verification](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-neighborship-verification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-neighborship-verification?u=76281980&t=0)** - [Instructor] In this video, we will focus on a simple scenario featuring two routers, R1 and R2 directly connected with MPLS configured on their interfaces.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-neighborship-verification?u=76281980&t=0)** - [Instructor] In this video, we will focus on a simple scenario featuring two routers, R1 and R2 directly connected with [[Multiprotocol Label Switching (MPLS)|MPLS]] configured on their interfaces.
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-neighborship-verification?u=76281980&t=12)** Use the show MPLS neighbors command to verify the neighborship between them.
 >
@@ -970,14 +956,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** ldp (28), mpls (4), quad (4), lsr (3), tcp (1)
 > **Definitions:** refers to (3), means that (2), is a  (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### LDP parameters configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980)
+#### [LDP parameters configuration](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -987,7 +972,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980&t=15)** By default, it's derived from the highest IP address of the router's enabled interfaces, but you can manually set it for better control.
 >
-> **[0:25](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980&t=25)** To verify the LDP router ID and associated setting, use the show MPLS LDP discovery command.
+> **[0:25](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980&t=25)** To verify the LDP router ID and associated setting, use the show [[Multiprotocol Label Switching (MPLS)|MPLS]] LDP discovery command.
 >
 > **[0:34](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-parameters-configuration?u=76281980&t=34)** To explicitly configure the LDP router ID, use the following command.
 >
@@ -1055,8 +1040,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LDP authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980)
+#### [LDP authentication](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1072,7 +1056,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980&t=37)** LDP authentication is not mandatory.
 >
-> **[0:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980&t=40)** You can use the show mpls ldp discovery detail command to check the authentication status.
+> **[0:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980&t=40)** You can use the show [[Multiprotocol Label Switching (MPLS)|mpls]] ldp discovery detail command to check the authentication status.
 >
 > **[0:47](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ldp-authentication?u=76281980&t=47)** We can enforce authentication for neighbors using the mpls ldp password required command.
 >
@@ -1142,25 +1126,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16), [[Security]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (16)
 > **Env Vars:** ldp (13), tcp (4), md5 (4), acl (2), acl1 (2)
 > **Prerequisites:** configure (6), set up (1)
 > **Cross-References:** in the next (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling the advertisement of labels via LDP
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980)
+#### [Controlling the advertisement of labels via LDP](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=0)** - [Instructor] LDP provides the capability to selectively advertise or suppress labels to designated LDP peers, offering fine-grained control over label distribution.
 >
-> **[0:13](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=13)** This feature is particularly useful in certain MPLS applications where not all labels need to be distributed across the label-switch routers or LSRs.
+> **[0:13](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=13)** This feature is particularly useful in certain [[Multiprotocol Label Switching (MPLS)|MPLS]] applications where not all labels need to be distributed across the label-switch routers or LSRs.
 >
 > **[0:26](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=26)** This network includes four routers, with OSPF configured as the IGP and MPLS LDP configured on all interfaces.
 >
-> **[0:36](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=36)** Each router allocates a label for all networks in its routing table and advertises these labels to its LDP neighbors.
+> **[0:36](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=36)** Each router allocates a label for all networks in its [[Routing]] table and advertises these labels to its LDP neighbors.
 >
 > **[0:46](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/controlling-the-advertisement-of-labels-via-ldp?u=76281980&t=46)** Let's check the label information base or LIB of R1 with the command show mpls ldp binding.
 >
@@ -1226,7 +1209,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), feature (1), [[Routing]] (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (14), [[Routing]] (1)
 > **Env Vars:** ldp (6), lib (4), acl2 (4), mpls (3), acl1 (3)
 > **Versions:** 192.168.254 (21)
 > **Prerequisites:** configure (5)
@@ -1235,8 +1218,7 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### MPLS LDP inbound label binding filtering
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980)
+#### [MPLS LDP inbound label binding filtering](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1248,7 +1230,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980&t=24)** For instance, you can filter out all received label binding from LDPPRs except for the label binding of the loop back interfaces of routers.
 >
-> **[0:35](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980&t=35)** In our example on R1, we can verify the label information base or lib using the command show mpls ldb binding.
+> **[0:35](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980&t=35)** In our example on R1, we can verify the label information base or lib using the command show [[Multiprotocol Label Switching (MPLS)|mpls]] ldb binding.
 >
 > **[0:45](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-ldp-inbound-label-binding-filtering?u=76281980&t=45)** We need labels only for 192.168.254.4/32
 >
@@ -1268,7 +1250,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4), feature (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (4)
 > **Env Vars:** acl (3), ldppr (1), nbr_address (1)
 > **Versions:** 192.168.254 (4)
 > **Cross-References:** in the next (1)
@@ -1276,12 +1258,11 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### TTL behavior of labeled packets
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ttl-behavior-of-labeled-packets?u=76281980)
+#### [TTL behavior of labeled packets](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ttl-behavior-of-labeled-packets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ttl-behavior-of-labeled-packets?u=76281980&t=0)** - [Instructor] In this video, I want to explain the TTL or time to live field in MPLS labels and how it functions.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ttl-behavior-of-labeled-packets?u=76281980&t=0)** - [Instructor] In this video, I want to explain the TTL or time to live field in [[Multiprotocol Label Switching (MPLS)|MPLS]] labels and how it functions.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/ttl-behavior-of-labeled-packets?u=76281980&t=9)** When an IP packet enters the MPLS cloud, such as at the ingress LSR, the IP-TTL value is copied after being decremented by one to the MPLS TTL values of the pushed labels.
 >
@@ -1327,19 +1308,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11), vpn (3), cloud (1), next (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (11)
 > **Env Vars:** ttl (15), mpls (11), icmp (7), lsr (6), vpn (3)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** such as (1), similar to (1)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tracerouting in MPLS networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980)
+#### [Tracerouting in MPLS networks](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=0)** - [Instructor] Tracerouting in an MPLS network is a bit different compared to tracerouting in an IP network.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=0)** - [Instructor] Tracerouting in an [[Multiprotocol Label Switching (MPLS)|MPLS]] network is a bit different compared to tracerouting in an IP network.
 >
 > **[0:07](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=7)** Look at this figure, which shows an MPLS network that will be used to show how tracerouting works in an MPLS network.
 >
@@ -1369,7 +1349,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=93)** The unlabeled IP packet is directly forwarded toward the R6 router.
 >
-> **[1:38](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=98)** That R6 router has the destination IPS of the ICMP message in its routing table and returns the ICMP message.
+> **[1:38](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=98)** That R6 router has the destination IPS of the ICMP message in its [[Routing]] table and returns the ICMP message.
 >
 > **[1:49](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/tracerouting-in-mpls-networks?u=76281980&t=109)** Eventually, the R5 router on the left receives the ICMP message.
 >
@@ -1389,12 +1369,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### MPLS label spaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980)
+#### [MPLS label spaces](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980&t=0)** - [Instructor] In this video, we will learn about MPLS label spaces, including per-platform and per-interface configurations.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980&t=0)** - [Instructor] In this video, we will learn about [[Multiprotocol Label Switching (MPLS)|MPLS]] label spaces, including per-platform and per-interface configurations.
 >
 > **[0:09](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/mpls-label-spaces?u=76281980&t=9)** First, let's explore the per-platform label space used in frame mode MPLS, a concept covered in this course.
 >
@@ -1436,18 +1415,17 @@ created: 2026-05-02
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label distribution mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980)
+#### [Label distribution mode](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=0)** - [Instructor] MPLS distributes labels using one of these methods, Unsolicited Downstream or UD label distribution mode, Downstream-on-Demand or DoD label distribution mode.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=0)** - [Instructor] [[Multiprotocol Label Switching (MPLS)|MPLS]] distributes labels using one of these methods, Unsolicited Downstream or UD label distribution mode, Downstream-on-Demand or DoD label distribution mode.
 >
 > **[0:14](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=14)** In this video, we will learn about both of them.
 >
 > **[0:18](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=18)** Let's start with Unsolicited Downstream, which we use in Frame mode MPLS and have learned and experienced in this course.
 >
-> **[0:27](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=27)** Unsolicited Downstream distribution of labels is a method where each router independently assigns a label to each destination IP prefix in its routing table.
+> **[0:27](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=27)** Unsolicited Downstream distribution of labels is a method where each router independently assigns a label to each destination IP prefix in its [[Routing]] table.
 >
 > **[0:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=40)** This mapping is stored in the LIB table, which sends it to all LDP peers.
 >
@@ -1471,19 +1449,18 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=130)** Unlike Unsolicited Downstream, their labels are pushed proactively to all downstream neighbors, Downstream-on-Demand conserves network resources by distributing labels only when required, typically in response to traffic flow or a specific network conditions.
 >
-> **[2:30](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=150)** This mode helps optimize label distribution and scalability in MPLS networks, especially in large-scale deployment, where efficient resource utilization is crucial.
+> **[2:30](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=150)** This mode helps optimize label distribution and [[Scalability]] in MPLS networks, especially in large-scale deployment, where efficient resource utilization is crucial.
 >
 > **[2:43](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-distribution-mode?u=76281980&t=163)** The usual situation is that Cell mode MPLS uses Downstream-on-Demand label propagation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (2), next (2), traffic (1), [[Scalability]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (6), [[Routing]] (2), [[Scalability]] (1)
 > **Env Vars:** mpls (6), ldp (3), lib (2), igp (1), lsr (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Label retention modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980)
+#### [Label retention modes](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1499,21 +1476,20 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=47)** The figure illustrates how router C does not consider router B to be the next top for network X, and therefore, drops the labels received from router B.
 >
-> **[1:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=60)** Frame mode MPLS uses the Liberal Label Retention mode, which enables routers to store all received labels, even if the labels are not being used.
+> **[1:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=60)** Frame mode [[Multiprotocol Label Switching (MPLS)|MPLS]] uses the Liberal Label Retention mode, which enables routers to store all received labels, even if the labels are not being used.
 >
 > **[1:11](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=71)** These labels can be used after the network convergence to enable immediate establishment of an alternative LSP tunnel.
 >
-> **[1:21](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=81)** In short, the LLR mode gives you quicker adaptation to routing chains, whereas CLR mode gives you fewer labels to store and a better usage of the available memory on the router.
+> **[1:21](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/label-retention-modes?u=76281980&t=81)** In short, the LLR mode gives you quicker adaptation to [[Routing]] chains, whereas CLR mode gives you fewer labels to store and a better usage of the available memory on the router.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (1), next (1), [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (1), [[Routing]] (1)
 > **Env Vars:** llr (2), clr (2), lsr (1), ldp (1), mpls (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### LSP control modes
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980)
+#### [LSP control modes](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1523,9 +1499,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=12)** In independent LSP control mode, an LSR can independently create a local binding for A FEC without coordinating with other LSRs.
 >
-> **[0:23](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=23)** In this mode, each LSR generates a local binding for a specific FEC as soon as it identifies the FEC, which generally means that the prefix for the FEC is included in its routing table.
+> **[0:23](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=23)** In this mode, each LSR generates a local binding for a specific FEC as soon as it identifies the FEC, which generally means that the prefix for the FEC is included in its [[Routing]] table.
 >
-> **[0:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=40)** In frame mode MPLS, we use per-platform label space, unsolicited downstream distribution, liberal label retention, and independent control mode.
+> **[0:40](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=40)** In frame mode [[Multiprotocol Label Switching (MPLS)|MPLS]], we use per-platform label space, unsolicited downstream distribution, liberal label retention, and independent control mode.
 >
 > **[0:51](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/lsp-control-modes?u=76281980&t=51)** The disadvantage of independent LSP control is that some LSRs begin to label switch packets before the complete LSP is set up end to end.
 >
@@ -1553,7 +1529,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (3), [[Routing]] (1)
 > **Env Vars:** lsr (10), lsp (6), fec (5), mpls (3)
 > **Prerequisites:** set up (2)
 > **Definitions:** means that (1)
@@ -1564,12 +1540,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have made it through the MPLS Foundations Getting Started With MPLS course.
+> **[0:00](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=0)** - [Instructor] Congratulations, you have made it through the [[Multiprotocol Label Switching (MPLS)|MPLS]] Foundations Getting Started With MPLS course.
 >
 > **[0:08](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=8)** I'm so proud of all the progress you have made and the knowledge you have gained.
 >
@@ -1579,7 +1554,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=36)** Now that you have a solid foundation, you are ready to dive deeper into the exciting applications of MPLS.
 >
-> **[0:45](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=45)** You can explore advanced topics like MPLS traffic engineering, which optimizes the flow of network traffic, or delve into MPLS layer three VPN, and layer two VPN for secure and scalable virtual private networks.
+> **[0:45](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=45)** You can explore advanced topics like MPLS [[Traffic Engineering]], which optimizes the flow of network traffic, or delve into MPLS layer three VPN, and layer two VPN for secure and scalable virtual private networks.
 >
 > **[1:02](https://www.linkedin.com/learning/mpls-foundations-getting-started-with-mpls/next-steps?u=76281980&t=62)** These advanced topics will further enhance your skills and open up new possibilities in your networking career.
 >
@@ -1595,7 +1570,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), vpn (2), game (1), [[Traffic Engineering]] (1), traffic (1)
+> **Frameworks & Libraries:** [[Multiprotocol Label Switching (MPLS)|Mpls]] (10), [[Traffic Engineering]] (1)
 > **Env Vars:** mpls (10), vpn (2)
 > **Definitions:** is a  (1)
 > **Prerequisites:** getting started (1)

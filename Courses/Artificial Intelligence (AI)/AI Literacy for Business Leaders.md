@@ -77,8 +77,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dispelling common AI fears
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
+#### [Dispelling common AI fears](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dispelling-common-ai-fears?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -94,12 +93,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), teams (1), power (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - as (1)
 
-#### AI and the evolution of jobs
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-and-the-evolution-of-jobs?u=76281980)
+#### [AI and the evolution of jobs](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-and-the-evolution-of-jobs?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -189,7 +186,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), parallel (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
@@ -200,8 +196,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The majesty of human capability
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
+#### [The majesty of human capability](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -237,7 +232,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980&t=109)** Sure, some of the tasks can be automated with AI, but tasking AI to understand, navigate, or share the complex emotions of our team would be a great mistake.
 >
-> **[2:02](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980&t=122)** One of our biggest gifts as humanity is to discern the right from wrong based on a complex interplay of ethics, conscience, societal norms and personal beliefs.
+> **[2:02](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980&t=122)** One of our biggest gifts as humanity is to discern the right from wrong based on a complex interplay of [[Ethics]], conscience, societal norms and personal beliefs.
 >
 > **[2:16](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/the-majesty-of-human-capability?u=76281980&t=136)** The next human gift will be intuition.
 >
@@ -281,19 +276,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (7), business (2), data (1), [[Ethics]] (1), next (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (1), for example (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - we (1)
 
-#### Recognizing machine strengths and limitations
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980)
+#### [Recognizing machine strengths and limitations](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=0)** - In my first LinkedIn course, "what is generative AI?", I made a pretty bold statement.
+> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=0)** - In my first [[LinkedIn]] course, "what is [[Generative AI]]?", I made a pretty bold statement.
 >
 > **[0:06](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=6)** I said that the biggest bias in AI is humanity's inferiority complex.
 >
@@ -317,13 +311,13 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=81)** But the danger attached to AI will be that excessive AI use can strip away genuine human interaction, making experiences feel impersonal.
 >
-> **[1:33](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=93)** Next, AI can be used to enhance decision making, AI's real time data processing, it's faster, more informed decisions, but the danger is that AI may falter in new situations where human judgment is key.
+> **[1:33](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=93)** Next, AI can be used to enhance decision making, AI's real time [[Data Processing]], it's faster, more informed decisions, but the danger is that AI may falter in new situations where human judgment is key.
 >
 > **[1:51](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=111)** AI can also boost security.
 >
 > **[1:54](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=114)** This has a strength where AI driven security systems can proactively safeguard environments.
 >
-> **[2:01](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=121)** Sounds amazing, yes, but this may also rise potential privacy breaches and ethical concerns if it's not coupled with human oversight.
+> **[2:01](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=121)** Sounds amazing, yes, but this may also rise potential [[Privacy]] breaches and ethical concerns if it's not coupled with human oversight.
 >
 > **[2:12](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=132)** AI can also be used to promote learning and development.
 >
@@ -347,7 +341,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=192)** But without oversight, automated errors could remain unchecked, it's not cool.
 >
-> **[3:19](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=199)** Second, AI can also be an assistant to creative ideation.
+> **[3:19](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=199)** Second, AI can also be an assistant to [[Creative Ideation]].
 >
 > **[3:24](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=204)** AI suggesting ideas, igniting creative thinking for you and your team, sounds great, but the sole reliance on AI for ideas, risks stagnation and lack of innovation.
 >
@@ -357,13 +351,13 @@ created: 2026-05-02
 >
 > **[3:54](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=234)** And finally, we can reduce resource waste with AIS.
 >
-> **[3:59](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=239)** AI optimizes resource usage and promotes sustainability, leading to a more efficient process.
+> **[3:59](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=239)** AI optimizes resource usage and promotes [[Sustainability]], leading to a more efficient process.
 >
 > **[4:07](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=247)** But cost cutting measures could lead to unethical practices and job losses.
 >
 > **[4:13](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=253)** In conclusion, integrating AI into our workplaces offers vast potentials in analysis and in efficiency.
 >
-> **[4:25](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=265)** However, to truly benefit, we must blend AI's capabilities with human creativity, ethics, and insights.
+> **[4:25](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=265)** However, to truly benefit, we must blend AI's capabilities with human creativity, [[Ethics]], and insights.
 >
 > **[4:36](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/recognizing-machine-strengths-and-limitations?u=76281980&t=276)** As we reflect on these areas, consider how AI can be a tool to augment and not replace the human elements in our work.
 >
@@ -371,15 +365,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (28), data (2), [[Security]] (2), [[LinkedIn]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (1), [[Generative AI]] (1), [[Data Processing]] (1), [[Privacy]] (1), [[Creative Ideation]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** ais (1)
 > **Analogies:** for example (1)
 > **Warnings:** caution (1)
 > **Speakers:** - in (1)
 
-#### Navigating pitfalls in AI deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980)
+#### [Navigating pitfalls in AI deployment](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -423,7 +416,7 @@ created: 2026-05-02
 >
 > **[2:18](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=138)** AI might have her focus on nurturing high economic value relationships and give less attention to less economic value relationships because numbers said so.
 >
-> **[2:33](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=153)** But each of our potential customers, as you know very well require unconditional relationship building because we never know what appears to be a small account may turn into a key account overnight.
+> **[2:33](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=153)** But each of our potential customers, as you know very well require unconditional [[Relationship Building]] because we never know what appears to be a small account may turn into a key account overnight.
 >
 > **[2:49](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=169)** So a small customer may become our biggest customer overnight.
 >
@@ -437,9 +430,9 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=202)** She uses AI tools to improve her workflow.
 >
-> **[3:25](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=205)** She uses [monday.com](https://monday.com) for scheduling, Zebra BI for risk visualization, and Slack AI features for her team communications.
+> **[3:25](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=205)** She uses [monday.com](https://monday.com) for scheduling, Zebra BI for risk visualization, and [[Slack]] AI features for her team communications.
 >
-> **[3:35](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=215)** She also uses Trello's AI feature for test prioritization and Proggio's AI capabilities to track project milestones.
+> **[3:35](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=215)** She also uses [[Trello]]'s AI feature for test prioritization and Proggio's AI capabilities to track project milestones.
 >
 > **[3:43](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/navigating-pitfalls-in-ai-deployment?u=76281980&t=223)** However, Joselia became too comfortable using AI driven tools.
 >
@@ -465,7 +458,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), data (6), bi (1), [[Slack]] (1), [[Trello]] (1)
+> **Frameworks & Libraries:** [[Slack]] (1), [[Trello]] (1)
 > **CLI Commands:** find (1), make (1)
 > **URLs:** [monday.com](https://monday.com) (1)
 > **Tools:** slack (1)
@@ -476,8 +469,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Linear vs. quantum thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
+#### [Linear vs. quantum thinking](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/linear-vs-quantum-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -525,15 +517,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), parallel (2), database (1), data (1)
 > **Analogies:** it's like (1), picture (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - ai (1)
 
-#### Quantum thinking in the workplace
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980)
+#### [Quantum thinking in the workplace](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -571,7 +561,7 @@ created: 2026-05-02
 >
 > **[1:45](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980&t=105)** All right, what did we learn here?
 >
-> **[1:48](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980&t=108)** While the rest of the product designers in his firm labeled these out-of-the-box crazy ideas as controversy and approached them with skepticism, Jonathan instead chose to playfully entertain those ideas during his ideation sessions with AIs and unlocked an entirely new market.
+> **[1:48](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980&t=108)** While the [[Representational State Transfer (REST)|rest]] of the product designers in his firm labeled these out-of-the-box crazy ideas as controversy and approached them with skepticism, Jonathan instead chose to playfully entertain those ideas during his ideation sessions with AIs and unlocked an entirely new market.
 >
 > **[2:10](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/quantum-thinking-in-the-workplace?u=76281980&t=130)** As we can see, quantum thinking can be a powerful tool for solving problems and coming up with new ideas.
 >
@@ -613,14 +603,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), product (2), power (1), data (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Cross-References:** coming up (1)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - now (1)
 
-#### Subconscious reprogramming
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980)
+#### [Subconscious reprogramming](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -648,7 +637,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980&t=46)** The answer to your question is the very key in building our AI aptitude because humans model machines after themselves.
 >
-> **[0:57](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980&t=57)** And unless we understand how our own biological datasets and algorithms work, how can we consciously design and direct machines to serve our best needs?
+> **[0:57](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980&t=57)** And unless we understand how our own biological datasets and [[Algorithms]] work, how can we consciously design and direct machines to serve our best needs?
 >
 > **[1:08](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/subconscious-reprogramming?u=76281980&t=68)** (tongue clicks) See.
 >
@@ -672,11 +661,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Speakers:** - subconscious (1)
 
-#### Identify and overcome your biases
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/identify-and-overcome-your-biases?u=76281980)
+#### [Identify and overcome your biases](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/identify-and-overcome-your-biases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,14 +774,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), strengths (4), next (1)
 > **Analogies:** just like (2), for example (2), think of it as (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - just (1)
 
-#### Intelligence vs. conscious-awareness
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980)
+#### [Intelligence vs. conscious-awareness](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -809,7 +795,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980&t=57)** AI tools like GPT mirror these abilities processing and learning from data.
 >
-> **[1:04](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980&t=64)** However, conscious awareness goes beyond just intelligence, it encompasses wisdom, ethics, and a deep sense of the impacts of our actions.
+> **[1:04](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980&t=64)** However, conscious awareness goes beyond just intelligence, it encompasses wisdom, [[Ethics]], and a deep sense of the impacts of our actions.
 >
 > **[1:17](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/intelligence-vs-conscious-awareness?u=76281980&t=77)** Now, let's explore a bit further the difference between intelligence and conscious awareness.
 >
@@ -849,7 +835,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (1), [[Ethics]] (1), [[Programming]] (1), functional (1)
+> **Frameworks & Libraries:** [[Ethics]] (1)
 > **Env Vars:** gpt (1)
 > **Analogies:** for example (1)
 > **Speakers:** - intelligence (1)
@@ -859,8 +845,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Defining AI aptitude
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
+#### [Defining AI aptitude](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,7 +877,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=97)** These are the tasks that I know while essential often create clutter and chaos.
 >
-> **[1:44](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=104)** In AI terms, these could be the data cleaning process or error prone manual inputs that AI can seamlessly handle on itself, keeping our kitchen clean and ready for action.
+> **[1:44](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=104)** In AI terms, these could be the [[Data Cleaning]] process or error prone manual inputs that AI can seamlessly handle on itself, keeping our kitchen clean and ready for action.
 >
 > **[1:58](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=118)** Let's write in our notebooks what are the dirty parts of our workflow?
 >
@@ -964,23 +949,22 @@ created: 2026-05-02
 >
 > **[5:30](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=330)** It doesn't take all of the work off our shoulders, but it will ease the burden.
 >
-> **[5:37](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=337)** All right, folks, now that we have understood the right moments and methods to utilize AI for enhanced productivity and impactful results, in the rest of this chapter, let's dive deep into the three essential skills pivotal to mastering AI aptitude.
+> **[5:37](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/defining-ai-aptitude?u=76281980&t=337)** All right, folks, now that we have understood the right moments and methods to utilize AI for enhanced productivity and impactful results, in the [[Representational State Transfer (REST)|rest]] of this chapter, let's dive deep into the three essential skills pivotal to mastering AI aptitude.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), data (2), [[Security]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Data Cleaning]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Analogies:** picture (1), for example (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - all (1)
 
-#### Dogmatic views vs. creative thinking
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dogmatic-views-vs-creative-thinking?u=76281980)
+#### [Dogmatic views vs. creative thinking](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dogmatic-views-vs-creative-thinking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dogmatic-views-vs-creative-thinking?u=76281980&t=0)** - Nobody wants to hear that they have prejudices, dogmatic views, or they exhibit judgment in their decision-making.
+> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dogmatic-views-vs-creative-thinking?u=76281980&t=0)** - Nobody wants to hear that they have prejudices, dogmatic views, or they exhibit judgment in their [[Decision-Making]].
 >
 > **[0:08](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/dogmatic-views-vs-creative-thinking?u=76281980&t=8)** Well, yet all of us do.
 >
@@ -1048,18 +1032,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), [[Decision-Making]] (1), data (1), strengths (1)
+> **Frameworks & Libraries:** [[Decision-Making]] (1)
 > **CLI Commands:** make (2), snap (1)
 > **Analogies:** it's like (1), for example (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - nobody (1)
 
-#### Curatorial creativity
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980)
+#### [Curatorial creativity](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=0)** - Until Generative AI, creativity was like the blank canvas waiting for the inspiration of its artists.
+> **[0:00](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=0)** - Until [[Generative AI]], creativity was like the blank canvas waiting for the inspiration of its artists.
 >
 > **[0:09](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=9)** Well, folks, the canvas isn't blank anymore.
 >
@@ -1071,7 +1054,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=44)** Much like choosing the ripest fruits in a crowded market.
 >
-> **[0:49](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=49)** Think of generative AI tools like GPT, DALL-E, Kubrick or Jasper as a symphony of endless melodies.
+> **[0:49](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=49)** Think of [[Generative AI Tools]] like GPT, [[DALL-E]], Kubrick or Jasper as a symphony of endless melodies.
 >
 > **[0:57](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=57)** They don't just follow the conductor, they create new tunes, but every symphony needs direction, as you know, and that's where our human touch, our curatorial creativity comes into play.
 >
@@ -1119,7 +1102,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=205)** But this went against our lawyer's advice.
 >
-> **[3:28](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=208)** I used ChatGPT to create three closest variations in legal language, they call it legalese.
+> **[3:28](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=208)** I used [[ChatGPT]] to create three closest variations in legal language, they call it legalese.
 >
 > **[3:36](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/curatorial-creativity?u=76281980&t=216)** I love it.
 >
@@ -1157,14 +1140,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[ChatGPT]] (2), [[Generative AI]] (1), [[Generative AI Tools]] (1), [[DALL-E]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[Generative AI]] (1), [[Generative AI Tools]] (1), [[DALL-E]] (1)
 > **Analogies:** just like (2), imagine (1), for instance (1)
 > **Env Vars:** gpt (1), dall (1), ceo (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - until (1)
 
-#### AI delegation, learn to master prompts
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980)
+#### [AI delegation, learn to master prompts](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1174,9 +1156,9 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=21)** Let's look at some of the nuances of communicating effectively with these AI models.
 >
-> **[0:26](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=26)** Let's start with LLMs, large language models.
+> **[0:26](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=26)** Let's start with LLMs, [[Large Language Models (LLM)|large language models]].
 >
-> **[0:30](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=30)** Language models, like Falcon, Palm, LLaMA, ChatGPT, Claude, or BERT, are designed for human-like interaction.
+> **[0:30](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=30)** Language models, like Falcon, Palm, [[LLaMA]], [[ChatGPT]], Claude, or BERT, are designed for human-like interaction.
 >
 > **[0:39](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=39)** They understand and they generate text in complete sentences.
 >
@@ -1216,7 +1198,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=135)** For example, if we are seeking to generate an image of a sunset over a mountain range, our prompt needs to include detailed descriptions, like sunset, or mountain range, and any additional elements, like snow-capped, or autumn colors to guide the image-generation.
 >
-> **[2:37](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=157)** The precision of these prompts directly influence our outcome, making it crucial to carefully consider each word in our prompt.
+> **[2:37](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=157)** The precision of these prompts directly influence our outcome, making it crucial to carefully consider each [[Microsoft Word|word]] in our prompt.
 >
 > **[2:47](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/ai-delegation-learn-to-master-prompts?u=76281980&t=167)** The AI creativity fills in the gaps of our prompts based on its training data, so clarity here is very essential.
 >
@@ -1242,7 +1224,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), prompt (3), data (3), [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[LLaMA]] (1), [[ChatGPT]] (1)
 > **Analogies:** for example (3), picture (3), for instance (1)
 > **Env Vars:** bert (2), gpt (2)
 > **CLI Commands:** make (1)
@@ -1253,8 +1235,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Imagining a post-work society
-> [LinkedIn Learning](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)
+#### [Imagining a post-work society](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1279,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980&t=143)** Let down your guard and tap into your creative potential.
 >
-> **[2:28](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980&t=148)** Generative AI is accessible for everyone, much like how the internet, computers, and cars were once new technologies and now are just like everyday tools.
+> **[2:28](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980&t=148)** [[Generative AI]] is accessible for everyone, much like how the internet, computers, and cars were once new technologies and now are just like everyday tools.
 >
 > **[2:39](https://www.linkedin.com/learning/ai-literacy-for-business-leaders/imagining-a-post-work-society?u=76281980&t=159)** As we close our course, remember that we are at the forefront of a transformative era.
 >
@@ -1324,7 +1305,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), [[Programming]] (2), [[Search]] (1), [[Generative AI]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (1)
 > **Analogies:** imagine (1), just like (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)

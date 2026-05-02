@@ -6,7 +6,7 @@ url: https://www.linkedin.com/learning/paths/build-for-digital-accessibility
 course_count: 12
 linkedin_topics:
   - Web Development
-louvain_cluster: 11
+louvain_cluster: 9
 tags:
   - learning-path
   - topic/web-development

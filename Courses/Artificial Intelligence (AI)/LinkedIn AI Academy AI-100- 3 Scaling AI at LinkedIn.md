@@ -82,14 +82,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The LinkedIn AI Academy: Applying AI at scale
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
+#### [The LinkedIn AI Academy: Applying AI at scale](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980&t=0)** (upbeat light rock music)
 >
-> **[0:07](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980&t=7)** - Welcome to this LinkedIn Learning course on scaling AI at LinkedIn.
+> **[0:07](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980&t=7)** - Welcome to this [[LinkedIn]] Learning course on scaling AI at LinkedIn.
 >
 > **[0:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/the-linkedin-ai-academy-applying-ai-at-scale?u=76281980&t=13)** I'm Ya.
 >
@@ -105,17 +104,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (7), ai (6), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (7)
 > **Analogies:** such as (1)
 > **Speakers:** - welcome (1)
 > **Non-Speech:** (upbeat light rock music) (1)
 
-#### Applications of AI at LinkedIn
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980)
+#### [Applications of AI at LinkedIn](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=0)** (soft uplifting music) - My name is Sakshi Jain, and I lead Responsible AI here at LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=0)** (soft uplifting music) - My name is Sakshi Jain, and I lead [[Responsible AI]] here at [[LinkedIn]].
 >
 > **[0:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=4)** - My name's Daniel Hewlett, I'm a senior staff AI Engineer here at LinkedIn.
 >
@@ -157,13 +155,13 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=142)** If we can find you the right piece of say, LinkedIn learning content that meets the needs that, of what you're trying to learn right now, then we can save you a lot of trouble and really get you where you want to go quicker.
 >
-> **[2:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=157)** - We work really closely with them to understand what products they're building, what their stack looks like, what solutions may or may not work for them, what challenges really are they facing, especially on the explainability side where we can help it.
+> **[2:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=157)** - We work really closely with them to understand what [[Microsoft Products|products]] they're building, what their stack looks like, what solutions may or may not work for them, what challenges really are they facing, especially on the explainability side where we can help it.
 >
 > **[2:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=169)** And then integrating that into what our roadmap and our strategy looks like to best empower all the LinkedIn products.
 >
 > **[2:56](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=176)** - I think we are starting to scratch the surface on many interesting large scale problems.
 >
-> **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=183)** In particular, many of the things that we are doing over here are examples of marketplace problems that kind of combine large scale mathematics, economics, data science, engineering together.
+> **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=183)** In particular, many of the things that we are doing over here are examples of marketplace problems that kind of combine large scale mathematics, economics, [[Data Science]], engineering together.
 >
 > **[3:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/applications-of-ai-at-linkedin?u=76281980&t=199)** - The problems that we're working on particularly in LTS where I work, really resonated with me.
 >
@@ -177,7 +175,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), ai (7), [[Microsoft Products|Products]] (3), [[Responsible AI]] (2), [[Engineering]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Microsoft Products|Products]] (3), [[Responsible AI]] (2), [[Data Science]] (1)
 > **Speakers:** - i (5), - my (2), - so (2), - we (2), - responsible (1)
 > **CLI Commands:** find (2), make (1)
 > **Env Vars:** lts (2)
@@ -190,12 +188,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### LinkedIn Economic Graph
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
+#### [LinkedIn Economic Graph](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=0)** - The economic graph is LinkedIn's digital representation of the global economy.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=0)** - The economic graph is [[LinkedIn]]'s digital representation of the global economy.
 >
 > **[0:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=5)** That means, it's a knowledge graph with over 1 billion nodes and over 250 billion edges connecting those nodes.
 >
@@ -227,37 +224,36 @@ created: 2026-05-02
 >
 > **[2:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=144)** AI and the economic graph have a two-sided relationship.
 >
-> **[2:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=148)** On the one hand, we take data from the economic graph and use it as input for our AI algorithms to make predictions all across LinkedIn.
+> **[2:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=148)** On the one hand, we take data from the economic graph and use it as input for our AI [[Algorithms]] to make predictions all across LinkedIn.
 >
 > **[2:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=157)** If we have a LinkedIn member who has skills on their profile related to sales and marketing, maybe some specific tools like Salesforce, we can also use the economic graph to match that against jobs which are connected to the same skills.
 >
 > **[2:53](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=173)** Jobs and members that are strongly connected to the same groups of skills are good candidates for a match.
 >
-> **[2:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=179)** On the other hand, we can use the output of AI techniques such as information extraction or graph neural networks to populate the economic graph with new information that can then flow into all of our applications all across LinkedIn.
+> **[2:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=179)** On the other hand, we can use the output of AI techniques such as information extraction or graph [[Neural Networks]] to populate the economic graph with new information that can then flow into all of our applications all across LinkedIn.
 >
 > **[3:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-economic-graph?u=76281980&t=194)** Now that we know what the economic graph is and what it can do, let's look deeper into how we can use AI to enrich it and extend it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (8), ai (5), application (1), node (1), data (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (8), [[Algorithms]] (1), [[Neural Networks]] (1)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **CLI Commands:** find (1), node (1), make (1)
 > **Speakers:** - the (1)
 
-#### Standardization part 1: Information extraction and entity resolution
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980)
+#### [Standardization part 1: Information extraction and entity resolution](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=0)** - Let's zoom in on one of the most important types of entities in the economic graph, skills.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=0)** - Let's [[Zoom]] in on one of the most important types of entities in the economic graph, skills.
 >
 > **[0:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=6)** The nodes in the economic graph for skills are actually standardized skills.
 >
-> **[0:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=12)** What that means is they're entries from a taxonomy of over 39,000 skills that our experts at LinkedIn have used to represent the entire space of skills out there in the job market.
+> **[0:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=12)** What that means is they're entries from a taxonomy of over 39,000 skills that our experts at [[LinkedIn]] have used to represent the entire space of skills out there in the job market.
 >
 > **[0:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=25)** To understand the difference between a skill and a standardized skill, let's consider an ambiguous term like production, which might appear on someone's resume.
 >
-> **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=35)** Humans can disambiguate this term based on context into one of different kinds of skills such as video production or something related to manufacturing, and in our standardized taxonomy each of these skills will be represented by a different entry.
+> **[0:35](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=35)** Humans can disambiguate this term based on context into one of different kinds of skills such as [[Video Production]] or something related to manufacturing, and in our standardized taxonomy each of these skills will be represented by a different entry.
 >
 > **[0:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=50)** Now each of these entries is very rich.
 >
@@ -269,7 +265,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=96)** The first step in the process is to take the raw text for a job description, for example, and match each of the terms that are associated with a particular standardized skill to give us a candidate set of standardized skills to extract from that job posting.
 >
-> **[1:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=114)** Next, we need to identify using natural language processing techniques whether each of those mentions is actually referring to a skill that's required for the job or is being used in some other context.
+> **[1:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=114)** Next, we need to identify using [[Natural Language Processing (NLP)|natural language processing]] techniques whether each of those mentions is actually referring to a skill that's required for the job or is being used in some other context.
 >
 > **[2:07](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-1-information-extraction-and-entity-resolution?u=76281980&t=127)** For example, the name of a company might include terms like sales or machine learning, but those are not necessarily skills required for the job position.
 >
@@ -291,19 +287,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Video Production]] (3), [[LinkedIn]] (2), [[Zoom]] (1), job description (1), next (1)
+> **Frameworks & Libraries:** [[Video Production]] (3), [[LinkedIn]] (2), [[Zoom]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** such as (5), for example (3), picture (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - let (1)
 
-#### Standardization part 2: GNN applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980)
+#### [Standardization part 2: GNN applications](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=0)** - With over one billion nodes and over 250 billion edges, the economic graph itself represents an excellent dataset for machine learning.
 >
-> **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=11)** Using techniques like graph neural networks or GNN's we can process all of this massive dataset and learn representations for each of the nodes in the economic graph, and use them to solve important problems across LinkedIn.
+> **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=11)** Using techniques like graph [[Neural Networks]] or GNN's we can process all of this massive dataset and learn representations for each of the nodes in the economic graph, and use them to solve important problems across [[LinkedIn]].
 >
 > **[0:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=28)** Many of the most important entity types in the economic graph occur millions of times, and each one of those occurrences can be a training example for graph neural networks.
 >
@@ -321,7 +316,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=92)** This is a place where graph neural networks can play a role in helping us standardize that title.
 >
-> **[1:39](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=99)** In the graph, the job posting for a video editor will be connected to a number of other standardized entities such as skills related to video production, or companies which are producing video media, and all of these can be used to disambiguate the title to know that it's a video editor.
+> **[1:39](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=99)** In the graph, the job posting for a video editor will be connected to a number of other standardized entities such as skills related to [[Video Production]], or companies which are producing video media, and all of these can be used to disambiguate the title to know that it's a video editor.
 >
 > **[1:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/standardization-part-2-gnn-applications?u=76281980&t=119)** Similarly, if we look at a different job posting with the same textual title of editor, and it's connected to a number of, you know, textual processing tools and companies such as newspaper companies or magazines, that would tell us that this is probably a copy editor.
 >
@@ -337,15 +332,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (5), [[LinkedIn]] (3), node (1), [[Video Production]] (1), data (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (5), [[LinkedIn]] (3), [[Video Production]] (1)
 > **Analogies:** such as (4), picture (2)
 > **CLI Commands:** node (1)
 > **Env Vars:** gnn (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - with (1)
 
-#### Content understanding: Topic modeling and representing content as embeddings
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980)
+#### [Content understanding: Topic modeling and representing content as embeddings](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -355,7 +349,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=16)** In order to make those decisions from all those alternatives and really just get it down to a small core set of relevant recommendations, we need to really deeply understand the content.
 >
-> **[0:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=27)** Across LinkedIn, there are a number of different kinds of content that are important.
+> **[0:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=27)** Across [[LinkedIn]], there are a number of different kinds of content that are important.
 >
 > **[0:31](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=31)** There are videos, images, and textual data.
 >
@@ -367,9 +361,9 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=54)** And then for jobs, there's going to be structured information like skills and titles but there will also be a textual description of all the responsibilities in the role.
 >
-> **[1:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=63)** One of the advantages that recent advances in deep learning have given us is that we don't have to approach each of these content understanding problems independently, from scratch.
+> **[1:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=63)** One of the advantages that recent advances in [[Deep Learning]] have given us is that we don't have to approach each of these content understanding problems independently, from scratch.
 >
-> **[1:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=73)** We can train pre-trained large language models across all of LinkedIn data and use those models on each of the problems to bring a certain level of natural language understanding across the board.
+> **[1:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=73)** We can train pre-trained [[Large Language Models (LLM)|large language models]] across all of LinkedIn data and use those models on each of the problems to bring a certain level of natural language understanding across the board.
 >
 > **[1:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=88)** The first step in this process is taking language data from all across LinkedIn, whether it's job postings, or news articles, or postings on the feed.
 >
@@ -381,7 +375,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=132)** But the foundation of all of that is this large dataset of LinkedIn textual data and training a single pre-trained language model across all of our languages on that dataset.
 >
-> **[2:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=146)** In the previous course on neural networks, we introduced pre-trained language models and explained how many of the most advanced architectures are based on the transformer neural network architecture.
+> **[2:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=146)** In the previous course on [[Neural Networks]], we introduced pre-trained language models and explained how many of the most advanced architectures are based on the transformer neural network architecture.
 >
 > **[2:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=157)** And our large scale language models today, at LinkedIn, are no different.
 >
@@ -389,7 +383,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=165)** Fine tuned on all of the LinkedIn data that I just described.
 >
-> **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=170)** One of the great things about working with language today in AI is that there is a real proliferation of large scale language models that are available, open source, from different companies like Google, and Facebook, and Microsoft.
+> **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=170)** One of the great things about working with language today in AI is that there is a real proliferation of large scale language models that are available, open source, from different companies like [[Google]], and Facebook, and [[Microsoft]].
 >
 > **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=183)** However, none of those are trained on LinkedIn data.
 >
@@ -423,11 +417,11 @@ created: 2026-05-02
 >
 > **[5:48](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=348)** Most of the entities that are important for LinkedIn applications like members, and job postings, and skills can be represented both in a graphical way in the economic graph and also in a content driven way such as using text.
 >
-> **[6:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=362)** Combining both of these forms of understanding in our AI models allows them to build a complete and richer picture of each of the pieces of content that we're trying to recommend.
+> **[6:02](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/content-understanding-topic-modeling-and-representing-content-as-embeddings?u=76281980&t=362)** Combining both of these [[Forms]] of understanding in our AI models allows them to build a complete and richer picture of each of the pieces of content that we're trying to recommend.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (13), data (10), application (4), [[Large Language Models (LLM)|Large language models]] (3), ai (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Large Language Models (LLM)|Large language models]] (3), [[Deep Learning]] (1), [[Neural Networks]] (1), [[Google]] (1)
 > **Analogies:** such as (2), for example (1), picture (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** bert (1)
@@ -439,12 +433,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PYMK and follow recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
+#### [PYMK and follow recommendations](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=0)** - So People You May Know is one of the oldest and most important products at LinkedIn, where we recommend members to other users at LinkedIn so that they can connect to them.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=0)** - So People You May Know is one of the oldest and most important [[Microsoft Products|products]] at [[LinkedIn]], where we recommend members to other users at LinkedIn so that they can connect to them.
 >
 > **[0:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=12)** The way it works is LinkedIn works on recommending a particular set of members to users at LinkedIn, asking them to form a connection.
 >
@@ -462,7 +455,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=72)** The idea is very similar, that we want to form edges between viewers and entities, but we realize that entities need not be just members on LinkedIn.
 >
-> **[1:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=81)** They can be things like company pages, they can be groups, they can be newsletters that a user might want to subscribe to, and so on and so forth.
+> **[1:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=81)** They can be things like company pages, they can be groups, they can be [[Newsletters]] that a user might want to subscribe to, and so on and so forth.
 >
 > **[1:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=90)** Each of these are particular entities that have content to disseminate.
 >
@@ -500,13 +493,13 @@ created: 2026-05-02
 >
 > **[3:56](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=236)** In particular, it uses an XGBoost-based framework.
 >
-> **[3:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=239)** It uses a lot of features that are obtained from embeddings that are trained using deep learning models.
+> **[3:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=239)** It uses a lot of features that are obtained from embeddings that are trained using [[Deep Learning]] models.
 >
-> **[4:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=243)** It uses a lot of features that are obtained from graph neural networks.
+> **[4:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=243)** It uses a lot of features that are obtained from graph [[Neural Networks]].
 >
 > **[4:07](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=247)** All of these features go into a particular model that is trained to predict a bunch of different responses.
 >
-> **[4:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=255)** In particular, we predict, for example, in the case of PYMK, we predict different responses like what is the probability that a user is going to send an invitation?
+> **[4:15](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=255)** In particular, we predict, for example, in the case of PYMK, we predict different responses like what is the [[Probability]] that a user is going to send an invitation?
 >
 > **[4:23](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/pymk-and-follow-recommendations?u=76281980&t=263)** Or what is the probability that a sent invitation will be accepted?
 >
@@ -528,19 +521,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (3), business (2), ai (2), [[Probability]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (3), [[Probability]] (2), [[Microsoft Products|Products]] (1), [[Newsletters]] (1)
 > **Env Vars:** pymk (3)
 > **Analogies:** imagine (1), for example (1)
 > **UI Navigation:** click on (1)
 > **Warnings:** note that (1)
 > **Speakers:** - so (1)
 
-#### Helping creators
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/helping-creators?u=76281980)
+#### [Helping creators](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/helping-creators?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/helping-creators?u=76281980&t=0)** - In the last few years, LinkedIn has taken an active stance to improve the creator ecosystem, the idea being that we want to provide creators with the best tools to reach out and form the most effective audiences, we want users to get content from these creators in the most effective fashion and be able to commend and participate in those conversations, and we also want to notify the creators the moment they have effective comments or replies on their posts so that the conversation can continue effectively and people are willing to participate in rich conversations happening at LinkedIn, which definitely benefits the creators and help them build an effective audience.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/helping-creators?u=76281980&t=0)** - In the last few years, [[LinkedIn]] has taken an active stance to improve the creator ecosystem, the idea being that we want to provide creators with the best tools to reach out and form the most effective audiences, we want users to get content from these creators in the most effective fashion and be able to commend and participate in those conversations, and we also want to notify the creators the moment they have effective comments or replies on their posts so that the conversation can continue effectively and people are willing to participate in rich conversations happening at LinkedIn, which definitely benefits the creators and help them build an effective audience.
 >
 > **[0:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/helping-creators?u=76281980&t=50)** We have had quite a few different efforts from different directions which enable the creators to have the best experience and the best way to form an effective audience.
 >
@@ -575,12 +567,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - in (1)
 
-#### Optimizing feeds and notifications to nurture communities
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980)
+#### [Optimizing feeds and notifications to nurture communities](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=0)** - Feed and notifications are two essential core components of the LinkedIn content ecosystem.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=0)** - Feed and notifications are two essential core components of the [[LinkedIn]] content ecosystem.
 >
 > **[0:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=4)** While feed is like the human brain where these conversations start, notifications are like the nerves and arteries to notify people about in what channel and at what moment these conversations are happening.
 >
@@ -608,7 +599,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=104)** There's one for jobs, one for LinkedIn Learning, one for ads, et cetera, et cetera.
 >
-> **[1:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=109)** So after this online ranking service receives updates from different candidate generators, it scores them using a complex deep learning model.
+> **[1:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=109)** So after this online ranking service receives updates from different candidate generators, it scores them using a complex [[Deep Learning]] model.
 >
 > **[1:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=118)** The input to this model is, besides being the mathematical formulation, is the features.
 >
@@ -634,11 +625,11 @@ created: 2026-05-02
 >
 > **[3:58](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=238)** We combine these different utilities in a multi-objective optimization setup.
 >
-> **[4:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=243)** The parameters for this multi-objective optimization setup they're continuously getting learned using reinforcement learning and again, the goal of this reinforcement learning is to try to predict the long-term outlook from a viewer perspective so that users get the maximum value out of LinkedIn while not being overwhelmed with too many notifications.
+> **[4:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/optimizing-feeds-and-notifications-to-nurture-communities?u=76281980&t=243)** The parameters for this multi-objective optimization setup they're continuously getting learned using [[Reinforcement Learning]] and again, the goal of this reinforcement learning is to try to predict the long-term [[Microsoft Outlook|outlook]] from a viewer perspective so that users get the maximum value out of LinkedIn while not being overwhelmed with too many notifications.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (2), ai (2), [[Reinforcement Learning]] (2), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Deep Learning]] (2), [[Reinforcement Learning]] (2), [[Microsoft Outlook|Outlook]] (1)
 > **Analogies:** for instance (3), such as (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** roi (1)
@@ -646,14 +637,13 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - feed (1)
 
-#### Ads for monetizing the feed
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980)
+#### [Ads for monetizing the feed](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=0)** - Ads is fundamentally a supply and demand problem.
 >
-> **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=3)** Where LinkedIn AI comes into play is to match the supply with this demand.
+> **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=3)** Where [[LinkedIn]] AI comes into play is to match the supply with this demand.
 >
 > **[0:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=8)** We want to use AI to show the right ad, to the right viewer, in the right product surface, at the right time.
 >
@@ -699,7 +689,7 @@ created: 2026-05-02
 >
 > **[3:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=196)** Besides helping advertiser with bidding, we also help them spend their campaign budget smoothly throughout the length of the campaign.
 >
-> **[3:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=202)** LinkedIn runs a lot of forecasting algorithms which try to predict how much traffic a particular ad campaign is going to get throughout the length of the campaign.
+> **[3:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=202)** LinkedIn runs a lot of [[Forecasting]] [[Algorithms]] which try to predict how much traffic a particular ad campaign is going to get throughout the length of the campaign.
 >
 > **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/ads-for-monetizing-the-feed?u=76281980&t=210)** And using those forecasting algorithms, we sort of try to spend the campaign budget smoothly so advertisers can get maximum ROI.
 >
@@ -707,7 +697,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (13), ai (7), data (3), [[Algorithms]] (3), [[Forecasting]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Algorithms]] (3), [[Forecasting]] (2)
 > **Env Vars:** mba (3), roi (2)
 > **Analogies:** for instance (4)
 > **UI Navigation:** click on (2)
@@ -720,12 +710,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Job seeker: recommendations and notifications
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
+#### [Job seeker: recommendations and notifications](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=0)** - One of the key services that LinkedIn provides to our users is to help our job seekers find jobs that are a great fit for them, apply to those jobs, and ultimately get hired.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=0)** - One of the key services that [[LinkedIn]] provides to our users is to help our job seekers find jobs that are a great fit for them, apply to those jobs, and ultimately get hired.
 >
 > **[0:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=11)** In order to help them at every point in the job-seeking process, we provide a range of different applications, such as a job search engine, job recommendations, different kinds of alerts and notifications around jobs, and more.
 >
@@ -747,7 +736,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=123)** When we find a good match between those, those candidates can be passed on to our ranking systems.
 >
-> **[2:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=129)** For ranking, we're going to take all of the content and activity signals and combine them with some real-time matching information.
+> **[2:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=129)** For ranking, we're going to take all of the content and activity signals and combine them with some [[Real-Time]] matching information.
 >
 > **[2:17](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/job-seeker-jymbii-and-notifications?u=76281980&t=137)** So for example, if you are engaging with a number of jobs in a session, the next time you go to LinkedIn, your job recommendations will be influenced by that activity.
 >
@@ -785,7 +774,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Search]] (5), next (5), career (2), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Real-Time]] (1)
 > **CLI Commands:** find (7), make (3)
 > **Analogies:** for example (2), such as (1), picture (1)
 > **Cross-References:** in the next (1), we talked about (1)
@@ -794,12 +783,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - one (1)
 
-#### LinkedIn Learning recommendations
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980)
+#### [LinkedIn Learning recommendations](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=0)** - LinkedIn Learning allows LinkedIn members to connect with a variety of educational content to grow their skills and to learn new ones.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=0)** - [[LinkedIn]] Learning allows LinkedIn members to connect with a variety of educational content to grow their skills and to learn new ones.
 >
 > **[0:09](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=9)** There are two main contexts in which they can do this.
 >
@@ -829,9 +817,9 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=125)** This can become part of the input to figuring out which skills they might be interested in learning.
 >
-> **[2:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=131)** A member's engagement with content across LinkedIn, like posts on feed or news articles, also gives our algorithms some signals about the skills they might be interested in developing.
+> **[2:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=131)** A member's engagement with content across LinkedIn, like posts on feed or news articles, also gives our [[Algorithms]] some signals about the skills they might be interested in developing.
 >
-> **[2:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=142)** For example, if you've been reading a lot of articles about a new JavaScript framework that came out, that might suggest that you're interested in taking courses related to that framework or perhaps the programming language in general.
+> **[2:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=142)** For example, if you've been reading a lot of articles about a new [[JavaScript]] framework that came out, that might suggest that you're interested in taking courses related to that framework or perhaps the programming language in general.
 >
 > **[2:34](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/linkedin-learning-recommendations?u=76281980&t=154)** However, it's not enough to simply know which skills they're interested in.
 >
@@ -871,18 +859,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (16), ai (3), next (2), [[Algorithms]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (16), [[Algorithms]] (1), [[JavaScript]] (1)
 > **Analogies:** for example (3), such as (1), picture (1)
 > **Definitions:** is a  (1), means that (1)
 > **Cross-References:** previous video (1)
 > **Speakers:** - linkedin (1)
 
-#### Recruiter
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980)
+#### [Recruiter](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=0)** - LinkedIn Recruiter is one of our oldest and most successful businesses.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=0)** - [[LinkedIn]] Recruiter is one of our oldest and most successful businesses.
 >
 > **[0:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=4)** Even though it may not be a product that most of our LinkedIn members interact with on a daily basis, Recruiter is built to meet the needs of well, recruiters and also hiring managers and anyone that's trying to source talent.
 >
@@ -920,7 +907,7 @@ created: 2026-05-02
 >
 > **[3:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=186)** Our objective with Recruiter search ranking is to be able to get those candidates in front of the recruiter at the top of the list of results that are the ones that they're most likely to message and most likely to have an accept from the candidate.
 >
-> **[3:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=202)** This two-way interest is what will eventually lead to things like interviews and hires, which is what the recruiter is really after and so it's a core part of how we measure success for the Recruiter product even though they may seem similar, our job seeker facing products like job search and job recommendations and our Recruiter facing products like LinkedIn Recruiter are very different from an AI perspective because the type of data that we're dealing with has a very different distribution.
+> **[3:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=202)** This two-way interest is what will eventually lead to things like interviews and hires, which is what the recruiter is really after and so it's a core part of how we measure success for the Recruiter product even though they may seem similar, our job seeker facing [[Microsoft Products|products]] like job search and job recommendations and our Recruiter facing products like LinkedIn Recruiter are very different from an AI perspective because the type of data that we're dealing with has a very different distribution.
 >
 > **[3:52](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/recruiter?u=76281980&t=232)** So on the job seeking side, we have millions and millions of job seekers who are interacting with the product every day, and each of them is doing kind of light interaction.
 >
@@ -950,19 +937,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Search]] (8), product (6), ai (5), data (5)
+> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Microsoft Products|Products]] (3)
 > **CLI Commands:** make (3), find (2)
 > **Cross-References:** we talked about (1), previous video (1), we mentioned (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - linkedin (1)
 
-#### Jobs marketplace optimization
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980)
+#### [Jobs marketplace optimization](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=0)** - As we've seen, LinkedIn has applications to serve both sides of the hiring marketplace, both the job seekers looking for jobs, and the hires who are trying to source candidates, and we're using AI to power applications on both sides of the marketplace.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=0)** - As we've seen, [[LinkedIn]] has applications to serve both sides of the hiring marketplace, both the job seekers looking for jobs, and the hires who are trying to source candidates, and we're using AI to power applications on both sides of the marketplace.
 >
 > **[0:17](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=17)** Both sides of the hiring marketplace are working towards the same goal.
 >
@@ -974,7 +960,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=50)** We call this a confirmed hire.
 >
-> **[0:52](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=52)** Confirmed hires are the true north that all of our products across the hiring marketplace are optimizing for.
+> **[0:52](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=52)** Confirmed hires are the true north that all of our [[Microsoft Products|products]] across the hiring marketplace are optimizing for.
 >
 > **[0:59](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=59)** While confirmed hires is the ultimate measure of success for a hiring marketplace, it's a difficult objective to optimize for machine learning.
 >
@@ -996,7 +982,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=128)** This is going to create challenges for training our machine learning models.
 >
-> **[2:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=132)** To solve this problem, we've used machine learning to construct a model that predicts the probability of an application or InMail accept converting to a confirmed hire down the line.
+> **[2:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=132)** To solve this problem, we've used machine learning to construct a model that predicts the [[Probability]] of an application or InMail accept converting to a confirmed hire down the line.
 >
 > **[2:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=145)** Then we can take the prediction from this model and use it as a supervision signal for ranking models across our hiring marketplace.
 >
@@ -1014,13 +1000,13 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=220)** We're taking embeddings for members' jobs and members' job seeking activity, and combining that with a variety of signals from the economic graph connected to the member and the job to form a precise prediction of the probability that this member will click on this job.
 >
-> **[3:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=237)** Throughout this chapter, we've been looking at a number of the applications where we use AI to find the right content for a member, whether it is a job posting or some LinkedIn Learning content, and there are common themes throughout all of these applications, like our deep understanding of content related to members and job postings, and other forms of content we're trying to match them with, as well as our use of the connections in the economic graph to identify common ground between the members and the content they're interested in.
+> **[3:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=237)** Throughout this chapter, we've been looking at a number of the applications where we use AI to find the right content for a member, whether it is a job posting or some LinkedIn Learning content, and there are common themes throughout all of these applications, like our deep understanding of content related to members and job postings, and other [[Forms]] of content we're trying to match them with, as well as our use of the connections in the economic graph to identify common ground between the members and the content they're interested in.
 >
 > **[4:31](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/jobs-marketplace-optimization?u=76281980&t=271)** By combining these two approaches together, we can connect our members with the right opportunity at the right time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (6), ai (4), [[Probability]] (3), data (2), application (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (6), [[Probability]] (3), [[Microsoft Products|Products]] (1), [[Forms]] (1)
 > **Definitions:** means that (2), we call this (1), is a  (1)
 > **Cross-References:** we talked about (1), earlier in (1)
 > **UI Navigation:** click on (2)
@@ -1032,18 +1018,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Tech stack: Offline, online, and nearline components
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
+#### [Tech stack: Offline, online, and nearline components](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=0)** - To make AI really work for LinkedIn, and our users across all of our different applications, we need to scale AI in a number of different directions.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=0)** - To make AI really work for [[LinkedIn]], and our users across all of our different applications, we need to scale AI in a number of different directions.
 >
 > **[0:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=10)** We need to be able to train AI models on massive amounts of data that are going to be generated by a site like LinkedIn that has hundreds of millions of members.
 >
 > **[0:19](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=19)** We also need to be able to maintain a vast number of different models, which are all relying on certain common foundations, like the economic graph, or large scale pre-trained language models that we talked about earlier in the course.
 >
-> **[0:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=32)** Because LinkedIn AI engineers are maintaining a variety of models supporting a number of different but closely related products, it's important that we're able to share features between our models.
+> **[0:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=32)** Because LinkedIn AI engineers are maintaining a variety of models supporting a number of different but closely related [[Microsoft Products|products]], it's important that we're able to share features between our models.
 >
 > **[0:43](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=43)** These features might be based on the economic graph or they might be embeddings for entities like members or jobs.
 >
@@ -1053,13 +1038,13 @@ created: 2026-05-02
 >
 > **[1:11](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=71)** And we can quickly see that data incorporated into models all across LinkedIn products.
 >
-> **[1:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=76)** Libraries for feature access like Feathr are just part of a suite of AI productivity tools we've built for all of our AI engineers at LinkedIn to be more productive.
+> **[1:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=76)** Libraries for feature access like Feathr are just part of a suite of [[AI Productivity]] tools we've built for all of our AI engineers at LinkedIn to be more productive.
 >
 > **[1:27](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=87)** These tools all come together in an end-to-end custom AI model training framework that we've built, and we use for all of our models across LinkedIn.
 >
 > **[1:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=97)** Using this framework, AI engineers across LinkedIn can easily construct AI model training pipelines that cover every stage of the model training process, starting from data, joining features with that data, training models on the data, and then deploying those models right into production.
 >
-> **[1:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=117)** Each of these steps is associated with AI metadata that allows us to come back later and understand exactly how that model was trained and reproduce it in the future.
+> **[1:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=117)** Each of these steps is associated with AI [[Metadata]] that allows us to come back later and understand exactly how that model was trained and reproduce it in the future.
 >
 > **[2:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=128)** This brings us to the next way that AI models at LinkedIn need to scale.
 >
@@ -1069,7 +1054,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=160)** While we've built a lot of custom tools at LinkedIn to enable all of our AI engineers to be more productive, if you were to start at LinkedIn tomorrow as an AI engineer with experience in the industry, you would recognize a lot of the tools that we're using because they're based on open source technologies.
 >
-> **[2:56](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=176)** To build our AI models and train them at scale, we also rely on industry leading open source technology like TensorFlow and Horovod.
+> **[2:56](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=176)** To build our AI models and train them at scale, we also rely on industry leading open source technology like [[TensorFlow]] and Horovod.
 >
 > **[3:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/tech-stack-offline-online-and-nearline-components?u=76281980&t=185)** By mixing together our LinkedIn built innovations for sustainable and industrialized AI with these open source technologies, we enable all of our engineers to be productive.
 >
@@ -1077,13 +1062,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (19), [[LinkedIn]] (13), data (7), [[Microsoft Products|Products]] (2), feature (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (13), [[Microsoft Products|Products]] (2), [[AI Productivity]] (1), [[Metadata]] (1), [[TensorFlow]] (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - to (1)
 
-#### Anomaly detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980)
+#### [Anomaly detection](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1093,9 +1077,9 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=17)** It's also sometimes called outlier detection.
 >
-> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=21)** So we use anomaly detection at LinkedIn to find anomalies in metrics.
+> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=21)** So we use anomaly detection at [[LinkedIn]] to find anomalies in metrics.
 >
-> **[0:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=28)** So there's a lot of business metrics at LinkedIn that a lot of teams monitor and we can use anomaly detection to alert when something is very unusual about those metrics.
+> **[0:28](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=28)** So there's a lot of [[Business Metrics]] at LinkedIn that a lot of teams monitor and we can use anomaly detection to alert when something is very unusual about those metrics.
 >
 > **[0:39](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=39)** Sometimes it could be that something has gone wrong on the site, like there's a bug, or it can be something external to LinkedIn that causes user behavior to change a lot.
 >
@@ -1127,7 +1111,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=206)** And often we don't have very many examples of the unusual data and each anomaly is often quite different.
 >
-> **[3:33](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=213)** So it's usually unsupervised learning, although sometimes you will have supervised learning to predict what is normal and then a method on top of it to understand what is anomalous.
+> **[3:33](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=213)** So it's usually unsupervised learning, although sometimes you will have [[Supervised Learning]] to predict what is normal and then a method on top of it to understand what is anomalous.
 >
 > **[3:45](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/anomaly-detection?u=76281980&t=225)** My team uses anomaly detection to detect abuse on LinkedIn and we specifically use a form of outlier detection called isolation forests.
 >
@@ -1141,14 +1125,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (10), data (9), feature (2), business (1), teams (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (10), [[Business Metrics]] (1), [[Supervised Learning]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Speakers:** - anomaly (1)
 
-#### A/B testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980)
+#### [A/B testing](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1196,7 +1179,7 @@ created: 2026-05-02
 >
 > **[3:22](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980&t=202)** So having these metrics gives us a very holistic picture about whether that intent, that change is performing as it was intended to do based on what we wanted to optimize when we were training the AI model.
 >
-> **[3:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980&t=218)** At LinkedIn, we have built several tools and platforms to support experimentation at scale.
+> **[3:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980&t=218)** At [[LinkedIn]], we have built several tools and platforms to support experimentation at scale.
 >
 > **[3:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/a-b-testing?u=76281980&t=224)** Let me talk about two of them.
 >
@@ -1214,7 +1197,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), feature (4), business (2), product (2), data (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (2)
 > **CLI Commands:** make (5)
 > **Analogies:** for example (1), picture (1)
 > **Definitions:** is an  (1)
@@ -1225,12 +1208,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Spam classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
+#### [Spam classification](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=0)** - Spam is any content that goes against LinkedIn's Terms of Service.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=0)** - Spam is any content that goes against [[LinkedIn]]'s Terms of Service.
 >
 > **[0:05](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=5)** There are a lot of different types of spam, so there's the traditional spam trying to sell you things like cheap sunglasses.
 >
@@ -1248,7 +1230,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=66)** So we've even seen spam in things like invitations, where they'll put a spammy name, something like that.
 >
-> **[1:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=76)** Most of spam detection is a classification problem, so it's a supervised learning machine learning problem.
+> **[1:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=76)** Most of spam detection is a classification problem, so it's a [[Supervised Learning]] machine learning problem.
 >
 > **[1:24](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=84)** And we need labels for this is spam and this is not spam.
 >
@@ -1272,9 +1254,9 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=183)** When we're building models for spam, it's looking at content, and the content is generally text or images or video.
 >
-> **[3:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=193)** For the text models, we generally use convolutional neural networks, we also use some types of sequence models, and we also use large language models like BERT.
+> **[3:13](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=193)** For the text models, we generally use [[Convolutional Neural Networks (CNN)|convolutional neural networks]], we also use some types of sequence models, and we also use [[Large Language Models (LLM)|large language models]] like BERT.
 >
-> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=210)** And then for image models, we usually use deep neural networks.
+> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=210)** And then for image models, we usually use deep [[Neural Networks]].
 >
 > **[3:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/spam-classification?u=76281980&t=218)** So we have a lot of text models running on LinkedIn to detect spam.
 >
@@ -1313,12 +1295,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - spam (1)
 
-#### Fake accounts
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980)
+#### [Fake accounts](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=0)** - A fake account on LinkedIn is an account that does not represent the true identity of the user.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=0)** - A fake account on [[LinkedIn]] is an account that does not represent the true identity of the user.
 >
 > **[0:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=6)** It could be an account that's impersonating a famous person, or it could be an account that is trying to scam somebody, or it could be a group of accounts that all look exactly the same, for example.
 >
@@ -1340,7 +1321,7 @@ created: 2026-05-02
 >
 > **[2:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=126)** So we look at signals like that in addition to signals about the profile itself, like the profile picture or the text on the profile, and we combine all of those into our fake account detection models.
 >
-> **[2:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=141)** To detect fake accounts, we actually use a mix of supervised learning and unsupervised learning.
+> **[2:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=141)** To detect fake accounts, we actually use a mix of [[Supervised Learning]] and unsupervised learning.
 >
 > **[2:29](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/fake-accounts?u=76281980&t=149)** So for some types of fake account models, we already have a lot of examples of the fake accounts.
 >
@@ -1392,18 +1373,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Supervised Learning]] (3), data (1), teams (1), ai (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (4), [[Supervised Learning]] (3)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is an  (2)
 > **Analogies:** for example (2), picture (1)
 > **Speakers:** - a (1)
 
-#### Bias in AI models: Fairness
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980)
+#### [Bias in AI models: Fairness](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=0)** - LinkedIn is the key player in the recruiting space, and we all understand careers and job opportunities, and just an economic opportunity for you and your loved ones is such a critical role in your life.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=0)** - [[LinkedIn]] is the key player in the recruiting space, and we all understand careers and job opportunities, and just an economic opportunity for you and your loved ones is such a critical role in your life.
 >
 > **[0:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=14)** So from that point of view, it is really important for us to take a look at our systems with that lens and understand if there could be biases here.
 >
@@ -1435,7 +1415,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=160)** There may be good reasons, and there may be bad reasons why a bias may happen.
 >
-> **[2:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=164)** And also, another important point here is that the definition of biases can take very different forms.
+> **[2:44](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=164)** And also, another important point here is that the definition of biases can take very different [[Forms]].
 >
 > **[2:50](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=170)** So any definition that you pick, it is important to understand why it could be happening, what is the source of that cause, and then go about and fixing it.
 >
@@ -1447,7 +1427,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=200)** There are multiple ways of measuring bias, and depending on the product and the problem you're solving, it is important to carefully look and do the right measurement.
 >
-> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=210)** We set up the systems in a way that it is really easy for different products and verticals to adopt a constant measurement of bias in the systems.
+> **[3:30](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=210)** We set up the systems in a way that it is really easy for different [[Microsoft Products|products]] and verticals to adopt a constant measurement of bias in the systems.
 >
 > **[3:38](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=218)** Once we've done the measurement, we move on to mitigation.
 >
@@ -1469,7 +1449,7 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=252)** So it is a three-step process: measure, mitigate and monitor.
 >
-> **[4:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=256)** LinkedIn's vision is to have economic opportunity for all members of our global workforce, and we truly mean the word "all."
+> **[4:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=256)** LinkedIn's vision is to have economic opportunity for all members of our global workforce, and we truly mean the [[Microsoft Word|word]] "all."
 >
 > **[4:25](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/bias-in-ai-models-fairness?u=76281980&t=265)** This means all members across different communities, across different geographies, races, genders, ages, and you have it.
 >
@@ -1479,21 +1459,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (3), ai (3), [[Forms]] (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (3), [[Forms]] (1), [[Microsoft Products|Products]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (5), find (2)
 > **Definitions:** is a  (3)
 > **Analogies:** for example (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - linkedin (1)
 
-#### Explainability
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980)
+#### [Explainability](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=0)** - AI systems are getting more complex by the day.
 >
-> **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=3)** The computational power increasing, the advances in Deep Learning, all of these are really making our AI systems super powerful and providing the capability to capture those really nuanced and intricate patterns.
+> **[0:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=3)** The computational power increasing, the advances in [[Deep Learning]], all of these are really making our AI systems super powerful and providing the capability to capture those really nuanced and intricate patterns.
 >
 > **[0:16](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=16)** But the cost we pay, as a result, is we are losing transparency into how the system, and this really beautiful, complex system, is working.
 >
@@ -1553,7 +1532,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=183)** Another example of instance level explainability is from the point of view of us as users of a particular platform.
 >
-> **[3:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=190)** Now, imagine the time when you went to LinkedIn feed and of the recommended items you saw there, you noticed one which you're not really sure why you're seeing that.
+> **[3:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=190)** Now, imagine the time when you went to [[LinkedIn]] feed and of the recommended items you saw there, you noticed one which you're not really sure why you're seeing that.
 >
 > **[3:20](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/explainability?u=76281980&t=200)** Explainable AI, the tools here can really help you understand why.
 >
@@ -1573,7 +1552,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), power (2), [[Deep Learning]] (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Deep Learning]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** xai (2)
@@ -1586,16 +1565,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing on with learning AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)
+#### [Continuing on with learning AI](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=0)** - Thank you so much for joining us as we looked at how we apply AI at scale to provide value for our members and customers right here at LinkedIn.
+> **[0:00](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=0)** - Thank you so much for joining us as we looked at how we apply AI at scale to provide value for our members and customers right here at [[LinkedIn]].
 >
 > **[0:10](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=10)** If this topic excites you, you are in luck, 'cause there are a lot more additional courses here at LinkedIn Learning Library on the topics of AI and ML.
 >
-> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=21)** AI, As much as it's contributing to the tech world is contributing to the healthcare world it's contributing for us to understanding our genome better is helping with our climate change and understanding how different factors is actually impacting and influencing with the climate changes as well everywhere.
+> **[0:21](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=21)** AI, As much as it's contributing to the tech world is contributing to the healthcare world it's contributing for us to understanding our genome better is helping with our [[Climate Change]] and understanding how different factors is actually impacting and influencing with the climate changes as well everywhere.
 >
 > **[0:41](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=41)** So I absolutely think AI because of the way that it can scale, because the way that it can understanding so much information and synthesizing them and be able to then understand what really is driving many of the changes across is able to be applicable for many, many fields.
 >
@@ -1603,9 +1581,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=64)** We really enjoyed putting this course together for you and we hope that this could be one step towards the future of your AI journey.
 >
-> **[1:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=74)** - Having a background beyond core artificial intelligence has been something that really helped me in my career and I think is a great way to get into the field.
+> **[1:14](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=74)** - Having a background beyond core [[Artificial Intelligence (AI)|artificial intelligence]] has been something that really helped me in my career and I think is a great way to get into the field.
 >
-> **[1:23](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=83)** For me, understanding the diversity of human languages was something that got me really interested in natural language processing and that still helps me to this day in my role at LinkedIn where we have to support dozens of languages all over the world.
+> **[1:23](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=83)** For me, understanding the diversity of human languages was something that got me really interested in [[Natural Language Processing (NLP)|natural language processing]] and that still helps me to this day in my role at LinkedIn where we have to support dozens of languages all over the world.
 >
 > **[1:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=97)** I think we're really getting to the point with AI technology where some of the really complex and difficult tasks that we spend a lot of time doing whether it's things at LinkedIn like searching for jobs or whether it's just general things in the world, like self-driving cars, we are really able to automate a lot of that difficult work and put the focus back on what the person is trying to do.
 >
@@ -1625,11 +1603,11 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=181)** And a lot of the work is, as I said, this creative work.
 >
-> **[3:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=188)** And it's not, I mean it's very important to understand the math and the algorithms, but a lot of it is really like how are you going to apply this machine learning model to this new problem?
+> **[3:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=188)** And it's not, I mean it's very important to understand the math and the [[Algorithms]], but a lot of it is really like how are you going to apply this machine learning model to this new problem?
 >
 > **[3:18](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=198)** And I think that's not always how it's presented to people when they haven't done machine learning or AI before.
 >
-> **[3:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=206)** And so I think there's a lot of possibilities for things like large language models and new applications of deep learning.
+> **[3:26](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=206)** And so I think there's a lot of possibilities for things like [[Large Language Models (LLM)|large language models]] and new applications of [[Deep Learning]].
 >
 > **[3:37](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=217)** And so I think AI is exciting because it's always changing.
 >
@@ -1645,19 +1623,19 @@ created: 2026-05-02
 >
 > **[4:06](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=246)** - I think the future of AI is really immense.
 >
-> **[4:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=248)** AI has made its way a lot and very deeply in many of the tech systems but there are such huge infrastructural problems across the globe that have yet to really realize the potential of AI and I'm really excited to see what role AI plays, especially in the hardware in the hard technologies beyond the software apps.
+> **[4:08](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=248)** AI has made its way a lot and very deeply in many of the tech systems but there are such huge infrastructural problems across the globe that have yet to really realize the potential of AI and I'm really excited to see what role AI plays, especially in the [[Hardware]] in the hard technologies beyond the software apps.
 >
 > **[4:32](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=272)** So I am very bullish on the impact that AI can make in across the globe and across sectors beyond tech.
 >
 > **[4:40](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=280)** Something I want people to know who are entering into this space is really that it is not as difficult as it first appears to be.
 >
-> **[4:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=289)** Basics statistics and AI tools and systems can really get you farther along in this way.
+> **[4:49](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=289)** Basics [[Statistics]] and AI tools and systems can really get you farther along in this way.
 >
 > **[4:57](https://www.linkedin.com/learning/linkedin-ai-academy-ai-100-3-scaling-ai-at-linkedin/continuing-on-with-learning-ai?u=76281980&t=297)** And there are so many interesting directions you can take in this area that it will continue to be challenging it will continue to be impactful and I think it will continue to be fun for a very long time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (18), [[LinkedIn]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Climate Change]] (1), career (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (5), [[Artificial Intelligence (AI)|Artificial intelligence]] (3), [[Climate Change]] (1), [[Natural Language Processing (NLP)|Natural language processing]] (1), [[Algorithms]] (1)
 > **Speakers:** - thank (2), - i (2), - having (1), - sometimes (1), - when (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)

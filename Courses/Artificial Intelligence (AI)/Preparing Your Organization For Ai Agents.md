@@ -70,8 +70,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leading AI-driven change
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980)
+#### [Leading AI-driven change](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -79,9 +78,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=3)** It could be an AI agent.
 >
-> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=4)** Enterprise adoption of AI agents is projected to grow 50% by 2027.
+> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=4)** Enterprise adoption of [[AI Agents]] is projected to grow 50% by 2027.
 >
-> **[0:09](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=9)** Agents can automate tasks like market research, sales reporting, and customer service with minimal human input.
+> **[0:09](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=9)** Agents can automate tasks like [[Market Research]], sales reporting, and customer service with minimal human input.
 >
 > **[0:15](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/leading-ai-driven-change-26926353?u=76281980&t=15)** And you know what?
 >
@@ -105,11 +104,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (1), [[Market Research]] (1), [[Automation]] (1), leadership (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[Market Research]] (1)
 > **Speakers:** - get (1)
 
-#### Introducing AI agents in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980)
+#### [Introducing AI agents in your organization](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -117,7 +115,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980&t=4)** While that might sound farfetched, it's actually becoming real.
 >
-> **[0:07](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980&t=7)** AI agents are the next evolution in software that's going to help your teams automate more and more tasks in your organization.
+> **[0:07](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980&t=7)** [[AI Agents]] are the next evolution in software that's going to help your teams automate more and more tasks in your organization.
 >
 > **[0:13](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/introducing-ai-agents-in-your-organization?u=76281980&t=13)** There are three primary benefits AI agents will bring to your business.
 >
@@ -193,7 +191,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), business (5), next (4), teams (1), chatbot (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5)
 > **Analogies:** just like (2), for example (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - so (1)
@@ -203,16 +201,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Accelerating organizational change with AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980)
+#### [Accelerating organizational change with AI agents](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=0)** - How can AI agents help you accelerate your business?
+> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=0)** - How can [[AI Agents]] help you accelerate your business?
 >
 > **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=3)** For more than 60 years, humans have relied on software to automate tasks in a business.
 >
-> **[0:07](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=7)** For example, in finance, human resources, procurement, sales, or customer service.
+> **[0:07](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=7)** For example, in finance, [[Human Resources (HR)|human resources]], procurement, sales, or customer service.
 >
 > **[0:12](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/accelerating-organizational-change-with-ai-agents?u=76281980&t=12)** Business applications have helped record business transactions, facilitate communication, and predict or report business performance.
 >
@@ -256,18 +253,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), ai (4), [[Human Resources (HR)|Human resources]] (1), next (1), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (3), [[Human Resources (HR)|Human resources]] (1)
 > **Analogies:** for example (1), just like (1)
 > **Speakers:** - how (1)
 
-#### How AI agents will optimize efficiency and productivity
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980)
+#### [How AI agents will optimize efficiency and productivity](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980&t=0)** - So where do you start assessing if an agent could help with a task?
 >
-> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980&t=4)** AI agents are great for tasks that you cannot easily describe in roles.
+> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980&t=4)** [[AI Agents]] are great for tasks that you cannot easily describe in roles.
 >
 > **[0:08](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-optimize-efficiency-and-productivity?u=76281980&t=8)** They go beyond answering, if this happens, then do that.
 >
@@ -315,23 +311,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), business (3), next (2), data (1), teams (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2)
 > **Speakers:** - so (1)
 
-#### How AI agents will change leadership
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980)
+#### [How AI agents will change leadership](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=0)** - Which parts of your leadership role do you enjoy the most and the least?
 >
-> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=4)** AI agents will not only help your team members become more efficient, they will help you do the same as well.
+> **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=4)** [[AI Agents]] will not only help your team members become more efficient, they will help you do the same as well.
 >
 > **[0:10](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=10)** Imagine a retail company facing fluctuating customer demand because of seasonal changes.
 >
 > **[0:15](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=15)** An AI agent analyzes historical sales data, customer preferences, and external factors like weather patterns.
 >
-> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=22)** It uses this information to predict which products will be in high demand.
+> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=22)** It uses this information to predict which [[Microsoft Products|products]] will be in high demand.
 >
 > **[0:26](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-leadership?u=76281980&t=26)** The agent then recommends adjustments to inventory levels and marketing strategies.
 >
@@ -363,18 +358,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), leadership (2), [[Microsoft Products|Products]] (2), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (4), [[Microsoft Products|Products]] (2)
 > **Analogies:** imagine (1)
 > **Speakers:** - which (1)
 
-#### How AI agents will change customer service
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980)
+#### [How AI agents will change customer service](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980&t=0)** - AI agents can help your customer service team.
+> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980&t=0)** - [[AI Agents]] can help your customer service team.
 >
-> **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980&t=3)** Most questions you receive are about the same types of products and issues.
+> **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980&t=3)** Most questions you receive are about the same types of [[Microsoft Products|products]] and issues.
 >
 > **[0:07](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-customer-service?u=76281980&t=7)** But what if your AI agent was able to handle them?
 >
@@ -430,17 +424,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (14), product (5), [[Microsoft Products|Products]] (1), teams (1)
+> **Frameworks & Libraries:** [[AI Agents]] (8), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1)
 > **Speakers:** - ai (1)
 
-#### How AI agents will change HR
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980)
+#### [How AI agents will change HR](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=0)** - What's the next critical process after interviewing a new hire?
+> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=0)** - What's the next critical process after [[Interviewing]] a new hire?
 >
 > **[0:04](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=4)** Onboarding.
 >
@@ -448,7 +441,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=11)** IT systems, like messaging and internet portals, can track the most important tasks, but system access and training are either managed in individual systems or through spreadsheets and workflow tools.
 >
-> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=22)** AI agents can streamline the onboarding process.
+> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=22)** [[AI Agents]] can streamline the onboarding process.
 >
 > **[0:25](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-hr?u=76281980&t=25)** The faster a new hire is operational, the faster they can add value to the organization.
 >
@@ -484,14 +477,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), hr (5), next (1), [[Interviewing]] (1), data (1)
+> **Frameworks & Libraries:** [[AI Agents]] (5), [[Interviewing]] (1)
 > **Analogies:** for example (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - what (1)
 
-#### How AI agents will change procurement
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980)
+#### [How AI agents will change procurement](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -503,7 +495,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=18)** This is especially critical to ensure your production continues.
 >
-> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=22)** AI agents will help identify and address issues before they become major problems.
+> **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=22)** [[AI Agents]] will help identify and address issues before they become major problems.
 >
 > **[0:27](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=27)** For example, they will be part of a procurement system and monitor its transactions.
 >
@@ -535,25 +527,24 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=99)** They will ensure you receive the best material at the lowest cost and optimal time.
 >
-> **[1:45](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=105)** This approach will transform procurement into a highly efficient data-driven and agile business function, and that helps to significantly enhance your organization's competitiveness and resilience.
+> **[1:45](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-procurement?u=76281980&t=105)** This approach will transform procurement into a highly efficient data-driven and [[Agile Development|agile]] business function, and that helps to significantly enhance your organization's competitiveness and resilience.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (1), database (1), data (1), [[Agile Development|Agile]] (1), business (1)
+> **Frameworks & Libraries:** [[AI Agents]] (1), [[Agile Development|Agile]] (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for example (1)
 > **Speakers:** - how (1)
 
-#### How AI agents will change sales
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980)
+#### [How AI agents will change sales](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=0)** - Sales is a highly relationship-based business function.
 >
-> **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=3)** Sales teams are most effective when they sell products, but administrative and operational tasks take time away from working with customers.
+> **[0:03](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=3)** Sales teams are most effective when they sell [[Microsoft Products|products]], but administrative and operational tasks take time away from working with customers.
 >
-> **[0:11](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=11)** Much like in customer service, AI agents will handle incoming routine inquiries.
+> **[0:11](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=11)** Much like in customer service, [[AI Agents]] will handle incoming routine inquiries.
 >
 > **[0:16](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/how-ai-agents-will-change-sales?u=76281980&t=16)** For example, the prospect provides an AI sales agent with information about the product or service they're looking for.
 >
@@ -603,7 +594,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), product (5), teams (3), [[Microsoft Products|Products]] (3), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[AI Agents]] (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -614,12 +605,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing for a future with AI agents
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980)
+#### [Preparing for a future with AI agents](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980&t=0)** - We've discovered the transformative power of AI agents in different business functions.
+> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980&t=0)** - We've discovered the transformative power of [[AI Agents]] in different business functions.
 >
 > **[0:05](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/preparing-for-a-future-with-ai-agents?u=76281980&t=5)** Now we're equipped to look for and seize opportunities to incorporate them in our business for enhanced efficiency and innovation.
 >
@@ -713,18 +703,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (11), teams (6), power (1), management (1)
+> **Frameworks & Libraries:** [[AI Agents]] (9)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - we (1)
 
-#### Where to go from here
-> [LinkedIn Learning](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980)
+#### [Where to go from here](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=0)** - Now it's time to leap into leveling up your business by putting AI agents into action.
+> **[0:00](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=0)** - Now it's time to leap into leveling up your business by putting [[AI Agents]] into action.
 >
 > **[0:05](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=5)** And there are three ways I can help with those next steps.
 >
@@ -736,9 +725,9 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=22)** You can find more info on how to do this on my website, [intelligence-briefing.com](https://intelligence-briefing.com).
 >
-> **[0:27](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=27)** Begin developing your business AI strategy and find opportunities to optimize your products and processes with AI.
+> **[0:27](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=27)** Begin developing your business [[AI Strategy]] and find opportunities to optimize your [[Microsoft Products|products]] and processes with AI.
 >
-> **[0:35](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=35)** You can also follow me on LinkedIn for latest information and perspectives on how you can define a strong AI strategy and incorporate AI across the business.
+> **[0:35](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=35)** You can also follow me on [[LinkedIn]] for latest information and perspectives on how you can define a strong AI strategy and incorporate AI across the business.
 >
 > **[0:44](https://www.linkedin.com/learning/preparing-your-organization-for-ai-agents/where-to-go-from-here?u=76281980&t=44)** Congratulations, you've taken a major step towards using AI agents in business and preparing for change.
 >
@@ -746,7 +735,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (6), next (2), leadership (2), teams (1)
+> **Frameworks & Libraries:** [[AI Agents]] (2), [[AI Strategy]] (2), [[Microsoft Products|Products]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** find (2)
 > **URLs:** [intelligence-briefing.com](https://intelligence-briefing.com) (1)
 > **Speakers:** - now (1)

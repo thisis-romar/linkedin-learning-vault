@@ -71,14 +71,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Possibilities are endless in testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
+#### [Possibilities are endless in testing](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980&t=0)** - Do you know the paths in software testing that advance and grow your career?
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980&t=0)** - Do you know the paths in [[Software Testing]] that advance and grow your career?
 >
-> **[0:04](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980&t=4)** Just like any other role in software development, testing is an integral part of creating quality software, from working with development teams to find bugs and issues, to navigating into specialties and areas of deep exploration.
+> **[0:04](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980&t=4)** Just like any other role in [[Software Development]], testing is an integral part of creating quality software, from working with development teams to find bugs and issues, to navigating into specialties and areas of deep exploration.
 >
 > **[0:18](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/possibilities-are-endless-in-testing?u=76281980&t=18)** Succeeding in software testing depends very much on the experience, knowledge, and desired interest of the tester.
 >
@@ -94,14 +93,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[Software Testing]] (3), [[Software Development]] (1), teams (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), [[Software Development]] (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - do (1)
 
-#### Who are you now?
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980)
+#### [Who are you now?](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -111,7 +109,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980&t=17)** There's incredible insight that can be collected before a product even gets close to development.
 >
-> **[0:22](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980&t=22)** Once all functionality is scoped and the development team is moving through the process of delivering usable scripts, a tester continues through to end-to-end testing that completely maps out the entirety of the user experience.
+> **[0:22](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980&t=22)** Once all functionality is scoped and the development team is moving through the process of delivering usable scripts, a tester continues through to [[End-to-end Testing]] that completely maps out the entirety of the [[User Experience (UX)|user experience]].
 >
 > **[0:36](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/who-are-you-now?u=76281980&t=36)** Because of this it's amazing how many tests we can produce in a day and not really put much thought into the fact that we are likely testing from the first click of a feature up until the tickets we produce when we encounter an issue.
 >
@@ -139,7 +137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (3), career (3), [[End-to-end Testing]] (1), [[User Experience (UX)|User experience]] (1), feature (1)
+> **Frameworks & Libraries:** [[End-to-end Testing]] (1), [[User Experience (UX)|User experience]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - when (1)
 
@@ -148,8 +146,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The greatest testers in the world
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
+#### [The greatest testers in the world](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -169,7 +166,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=40)** I had held all of those positions before I fell into tech, and the longer I'm in this career, the more I realize I'm not the only one.
 >
-> **[0:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=49)** Some have found their way to software testing by being intricately involved as a customer service representative.
+> **[0:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=49)** Some have found their way to [[Software Testing]] by being intricately involved as a customer service representative.
 >
 > **[0:55](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=55)** Think to yourself, who knows the product really well?
 >
@@ -183,11 +180,11 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=80)** Years ago, technology wasn't really involved in the mechanics of utilizing forklifts for important work.
 >
-> **[1:26](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=86)** But these days, companies like Amazon, DHL, UPS, et cetera are likely using this machinery to help stock and store products that are being shipped, maintained, and moved every day.
+> **[1:26](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=86)** But these days, companies like Amazon, DHL, UPS, et cetera are likely using this machinery to help stock and store [[Microsoft Products|products]] that are being shipped, maintained, and moved every day.
 >
 > **[1:38](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=98)** Who can assist in maintaining solid, quality software around the use of these tools, other than someone who has spent years maintaining and utilizing them?
 >
-> **[1:47](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=107)** Consider someone who understands how people function in the wake of new software for their hardware, like forklifts, that they have used for years.
+> **[1:47](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=107)** Consider someone who understands how people function in the wake of new software for their [[Hardware]], like forklifts, that they have used for years.
 >
 > **[1:56](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-greatest-testers-in-the-world?u=76281980&t=116)** Would they not be a great addition to the team?
 >
@@ -195,18 +192,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (3), product (3), career (2), [[Engineering]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (3), [[Microsoft Products|Products]] (1), [[Hardware]] (1)
 > **Env Vars:** dhl (1), ups (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - the (1)
 
-#### Testing qualifications and training
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980)
+#### [Testing qualifications and training](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=0)** - The skills that are needed for software testing are broad and elaborate.
+> **[0:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=0)** - The skills that are needed for [[Software Testing]] are broad and elaborate.
 >
 > **[0:04](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=4)** There is no defined path to entry, and you will find that the various skills, qualifications and trainings that assist in becoming a tester focus predominantly on understanding the needs of the customer, and understanding the way individuals use technology.
 >
@@ -254,7 +250,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=120)** All of these qualifications assist in helping others understand the requirements needed to be a tester.
 >
-> **[2:06](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=126)** So it is no mystery that programs for software development have more formalized education, and are built around standard needs within the industry.
+> **[2:06](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=126)** So it is no mystery that programs for [[Software Development]] have more formalized education, and are built around standard needs within the industry.
 >
 > **[2:14](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=134)** And if you're interested in automation or more code focused areas of testing, programs like these will assist you in getting there.
 >
@@ -264,7 +260,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=148)** Start with the basics.
 >
-> **[2:30](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=150)** If you're more focused on testing front-end development, what tools are individuals using?
+> **[2:30](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=150)** If you're more focused on testing [[Front-End Development]], what tools are individuals using?
 >
 > **[2:35](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/testing-qualifications-and-training?u=76281980&t=155)** Tools such as Apple tools that focus on snapshots, and front-end appearances can better assist in understanding how to test.
 >
@@ -274,15 +270,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Software Testing]] (2), job description (1), [[Software Development]] (1), [[Automation]] (1), [[Front-End Development]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Software Development]] (1), [[Front-End Development]] (1)
 > **CLI Commands:** find (4)
 > **Definitions:** is a  (2), is an  (1)
 > **Env Vars:** rst (1), istqb (1)
 > **Analogies:** such as (1)
 > **Speakers:** - the (1)
 
-#### Learning through experience
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980)
+#### [Learning through experience](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -294,13 +289,13 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=18)** What I mean by that is the individual needs a growth mindset.
 >
-> **[0:21](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=21)** Their dedication to their practice is essential when thinking about progress within a software testing career.
+> **[0:21](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=21)** Their dedication to their practice is essential when thinking about progress within a [[Software Testing]] career.
 >
 > **[0:27](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=27)** If we believe that we come in the door with everything we need to be a tester from the start, we're wildly mistaken.
 >
 > **[0:34](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=34)** It's a tester's everyday experience that is going to help us build the strongest, most robust software testing career.
 >
-> **[0:42](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=42)** As we all know, the pace of technology is very swift when thinking about the advancements that are made daily to make stronger and better products.
+> **[0:42](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=42)** As we all know, the pace of technology is very [[Swift (Programming Language)|swift]] when thinking about the advancements that are made daily to make stronger and better [[Microsoft Products|products]].
 >
 > **[0:51](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/learning-through-experience?u=76281980&t=51)** It would be careless to think that the requirements of testing are not the same.
 >
@@ -328,7 +323,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), [[Software Testing]] (2), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Swift (Programming Language)|Swift]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2), make (1)
 > **Speakers:** - from (1)
 
@@ -337,8 +332,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The skills to succeed
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
+#### [The skills to succeed](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -350,11 +344,11 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=26)** It helps you to either plan accordingly for what it is that you need to do to up-level yourself, or to build on the skills that you already have to plan growth beyond your current experience.
 >
-> **[0:37](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=37)** Skills within software testing are highly technical and are those that involve in-depth and clear communication with peers.
+> **[0:37](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=37)** Skills within [[Software Testing]] are highly technical and are those that involve in-depth and clear communication with peers.
 >
 > **[0:45](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=45)** For example, it's not just knowing what to do, building test plans, executing on test scripts, et cetera.
 >
-> **[0:51](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=51)** It is also less quantifiable things that are important, often called soft skills.
+> **[0:51](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=51)** It is also less quantifiable things that are important, often called [[Soft Skills]].
 >
 > **[0:56](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/the-skills-to-succeed?u=76281980&t=56)** To be fully effective, you are successful when you understand the business you're working within and communicating it clearly, understanding the technology you're using to be able to define it and gaining a fine knowledge of the offerings of that technology you're working with, all of this to be able to gain trust with your teams.
 >
@@ -374,13 +368,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (2), [[Software Testing]] (2), job description (1), [[Soft Skills]] (1), business (1)
+> **Frameworks & Libraries:** [[Software Testing]] (2), [[Soft Skills]] (1)
 > **Analogies:** for example (1)
 > **Best Practices:** pro tip (1)
 > **Speakers:** - so (1)
 
-#### Growing better and broader in testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980)
+#### [Growing better and broader in testing](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -392,7 +385,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=14)** My motto was "Practice makes progress" and I can attest that has stood the test of time as I've advanced.
 >
-> **[0:21](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=21)** As your foundation and software testing solidifies, learning heuristics, or rules of accomplished success, truths and better practices can help you develop a solid path for your career.
+> **[0:21](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=21)** As your foundation and [[Software Testing]] solidifies, learning heuristics, or rules of accomplished success, truths and better practices can help you develop a solid path for your career.
 >
 > **[0:33](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=33)** This will only strengthen your approach and depth of your testing practice.
 >
@@ -416,7 +409,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=109)** Let's call this an advanced skill.
 >
-> **[1:51](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=111)** When you start to explore the truth of your products by way of this technique, it builds a stronger case and approach to testing software and results in uncovering issues faster and earlier in your testing.
+> **[1:51](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=111)** When you start to explore the truth of your [[Microsoft Products|products]] by way of this technique, it builds a stronger case and approach to testing software and results in uncovering issues faster and earlier in your testing.
 >
 > **[2:03](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/growing-better-and-broader-in-testing?u=76281980&t=123)** These can then assist the tester in creating more time to build out better practices around other techniques they would like to explore.
 >
@@ -432,15 +425,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3), data (2), [[Software Testing]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Software Testing]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (2)
 > **Cross-References:** earlier in (1)
 > **Definitions:** means that (1)
 > **Analogies:** for example (1)
 > **Speakers:** - identifying (1)
 
-#### Specializing
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980)
+#### [Specializing](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -448,9 +440,9 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=3)** Take, for example, your love and desire for checking APIs.
 >
-> **[0:06](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=6)** Did you know that there's a specialization called API testing?
+> **[0:06](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=6)** Did you know that there's a specialization called [[API Testing]]?
 >
-> **[0:10](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=10)** Or take your interest and pleasure of all things around security, are you aware that there are specialists in security testing?
+> **[0:10](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=10)** Or take your interest and pleasure of all things around security, are you aware that there are specialists in [[Security Testing]]?
 >
 > **[0:18](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=18)** These areas have their own special approach and technique that can be built upon from the foundations of testing that you already pursued in your career.
 >
@@ -460,7 +452,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=43)** Additionally, by carrying the most knowledge of step-by-step understanding of the product, and how to define the technical behaviors within the code you then realize this includes anything from API, performance, load, security, exploratory and automation testing.
 >
-> **[1:01](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=61)** And depending on what sorts of projects you work on, or products you test there will be a heavier need for one or the other specialized areas at some point in your process.
+> **[1:01](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=61)** And depending on what sorts of projects you work on, or [[Microsoft Products|products]] you test there will be a heavier need for one or the other specialized areas at some point in your process.
 >
 > **[1:12](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/specializing?u=76281980&t=72)** Similarly to development, whether on the front end or the back end, testing has a myriad of possibilities as well, where it's not just about becoming sufficient in all areas of development, it's about understanding all specific areas of integrated code, or a full stack testing is exactly the same.
 >
@@ -504,14 +496,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (5), product (5), [[Security]] (3), [[Microsoft Products|Products]] (3), api (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[API Testing]] (1), [[Security Testing]] (1)
 > **Env Vars:** api (2)
 > **Analogies:** for example (1), just like (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - let (1)
 
-#### Excelling in exploratory testing
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980)
+#### [Excelling in exploratory testing](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -519,7 +510,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980&t=5)** It's really what testing is all about.
 >
-> **[0:08](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980&t=8)** However, when thinking about it in the way of software, the questions that we're asking and the answers that we're finding are telling a narrative about the products we build.
+> **[0:08](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980&t=8)** However, when thinking about it in the way of software, the questions that we're asking and the answers that we're finding are telling a narrative about the [[Microsoft Products|products]] we build.
 >
 > **[0:16](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/excelling-in-exploratory-testing?u=76281980&t=16)** It's not just about delivering what the organization wants when they ask, "Have we built the product we've described?"
 >
@@ -567,15 +558,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (12), business (3), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Analogies:** imagine (1), such as (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** b2b (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - there (1)
 
-#### Providing support through automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980)
+#### [Providing support through automation](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -603,9 +593,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=63)** This would be a great time to explore automation when working in the realm of quality engineering.
 >
-> **[1:08](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=68)** It is an ever-evolving and steady platform for continuous delivery.
+> **[1:08](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=68)** It is an ever-evolving and steady platform for [[Continuous Delivery (CD)|continuous delivery]].
 >
-> **[1:13](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=73)** When we think about automation, we should be thinking about how to support our products.
+> **[1:13](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=73)** When we think about automation, we should be thinking about how to support our [[Microsoft Products|products]].
 >
 > **[1:17](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=77)** Maintaining quality is how we fortify our testing.
 >
@@ -629,23 +619,22 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=143)** To secure a real quality program, you cannot have one without the other.
 >
-> **[2:27](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=147)** And so supporting an organization's goals in producing quality products means investing in both software testing and automation.
+> **[2:27](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/providing-support-through-automation?u=76281980&t=147)** And so supporting an organization's goals in producing quality products means investing in both [[Software Testing]] and automation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Automation]] (9), [[Microsoft Products|Products]] (3), [[Engineering]] (1), [[Continuous Delivery (CD)|Continuous delivery]] (1), power (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[Continuous Delivery (CD)|Continuous delivery]] (1), [[Software Testing]] (1)
 > **CLI Commands:** find (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - we (1)
 
-#### Trading in your testing hat
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980)
+#### [Trading in your testing hat](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=1)** - The skills that you acquire through your practice as a software tester can take you into other places within technology and even sometimes outside of technology.
 >
-> **[0:09](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=9)** When thinking about how to build the best products and constantly weighing them against what the organization's goals are, you'll find your skills navigating conversations and work within other areas of the business, and this is no surprise.
+> **[0:09](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=9)** When thinking about how to build the best [[Microsoft Products|products]] and constantly weighing them against what the organization's goals are, you'll find your skills navigating conversations and work within other areas of the business, and this is no surprise.
 >
 > **[0:22](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=22)** As a tester, your collaboration, communication, and technical skills are very transferable.
 >
@@ -659,7 +648,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=45)** This is essentially playing a role as a project manager in some regard.
 >
-> **[0:50](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=50)** If it is in an area of interest to you, you hone your craft by taking the skills you already know from software testing and build project management skills into them.
+> **[0:50](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=50)** If it is in an area of interest to you, you hone your craft by taking the skills you already know from [[Software Testing]] and build project management skills into them.
 >
 > **[1:00](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=60)** So not only do you know the product from a technical perspective, you're able to transition into a place where you can lead other areas of development for your teams.
 >
@@ -675,7 +664,7 @@ created: 2026-05-02
 >
 > **[1:43](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=103)** One can't do without the other, and it's just where you like to apply your time.
 >
-> **[1:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=109)** Often you find that software testers transition to become software development engineers, focused on front or backend development.
+> **[1:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=109)** Often you find that software testers transition to become [[Software Development]] engineers, focused on front or backend development.
 >
 > **[1:56](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/trading-in-your-testing-hat?u=76281980&t=116)** In some cases, your communication and advocation for quality with a client can assist you in becoming a business analyst or other areas that are stakeholders within the engineering process.
 >
@@ -691,13 +680,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (4), product (4), [[Microsoft Products|Products]] (2), business (2), [[Software Testing]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Software Testing]] (2), [[Software Development]] (1)
 > **CLI Commands:** find (5)
 > **Analogies:** for example (1), such as (1)
 > **Speakers:** - the (1)
 
-#### Interview: Eric Proegler
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980)
+#### [Interview: Eric Proegler](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -719,7 +707,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=42)** One of the things that we talked about at length in this course is how your career can take you into an area of specialty.
 >
-> **[0:50](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=50)** And so I know just from working with you, as well as seeing your work at conferences and on workshops and things of that sort, that you have a lot to do with performance and load testing.
+> **[0:50](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=50)** And so I know just from working with you, as well as seeing your work at conferences and on workshops and things of that sort, that you have a lot to do with performance and [[Load Testing]].
 >
 > **[1:01](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=61)** Can you you help us understand a little bit of how you got there?
 >
@@ -773,7 +761,7 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=182)** It has a lot to do with systems and resources and how systems interact.
 >
-> **[3:10](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=190)** In some ways, it's a super technical testing experience that is peripherally related to test automation, but was more about really understanding the systems I was working with.
+> **[3:10](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=190)** In some ways, it's a super technical testing experience that is peripherally related to [[Test Automation]], but was more about really understanding the systems I was working with.
 >
 > **[3:21](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-eric-proegler?u=76281980&t=201)** I think that's what I enjoyed about it is I started looking at interactions between components and thinking more like an architect and I that's where it really pulled me into it.
 >
@@ -945,7 +933,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (10), [[Load Testing]] (3), business (2), product (2), [[Test Automation]] (1)
+> **Frameworks & Libraries:** [[Load Testing]] (3), [[Test Automation]] (1)
 > **Speakers:** - that (2), - amazing (2), - all (1), - oh (1), - you (1)
 > **CLI Commands:** make (4), find (2)
 > **Cross-References:** we talked about (1)
@@ -956,8 +944,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Thinking about your career growth
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
+#### [Thinking about your career growth](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/thinking-about-your-career-growth?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1005,13 +992,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), career (3), functional (1), product (1)
 > **CLI Commands:** find (4)
 > **Analogies:** for example (1)
 > **Speakers:** - within (1)
 
-#### Continual learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980)
+#### [Continual learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1059,7 +1044,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980&t=148)** Get involved deeply in trainings and workshops that are available and continue to stay on top of what the newest advancements within testing are.
 >
-> **[2:36](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980&t=156)** When you think about yourself as a profitable individual within an organization, it's not necessarily a monetary value, but more so about how you're able to assist the business in maintaining the quality of their products.
+> **[2:36](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980&t=156)** When you think about yourself as a profitable individual within an organization, it's not necessarily a monetary value, but more so about how you're able to assist the business in maintaining the quality of their [[Microsoft Products|products]].
 >
 > **[2:50](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/continual-learning?u=76281980&t=170)** If you don't have the capacity to be able to understand what is going on in the world outside of your own organization, simply reach out.
 >
@@ -1071,14 +1056,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (4), business (2), teams (1), product (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** find (5), make (1)
 > **Analogies:** for example (1), imagine (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - a (1)
 
-#### Steps 1, 2, 3 in being the best tester
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980)
+#### [Steps 1, 2, 3 in being the best tester](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1096,7 +1080,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980&t=33)** When you start working with a new organization, what is the first thing that you do?
 >
-> **[0:38](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980&t=38)** Get to know the business and its products.
+> **[0:38](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980&t=38)** Get to know the business and its [[Microsoft Products|products]].
 >
 > **[0:41](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/steps-1-2-3-in-being-the-best-tester?u=76281980&t=41)** This is the first step.
 >
@@ -1138,11 +1122,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (6), product (5), [[Microsoft Products|Products]] (2), career (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Speakers:** - after (1)
 
-#### Interview: Stephanie Dukes
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980)
+#### [Interview: Stephanie Dukes](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1178,9 +1161,9 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=107)** I was always very curious about them.
 >
-> **[1:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=109)** And so, I really jumped at the chance to work on hardware.
+> **[1:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=109)** And so, I really jumped at the chance to work on [[Hardware]].
 >
-> **[1:53](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=113)** That led me into a technical support role eventually, kind of moving over to the software side.
+> **[1:53](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=113)** That led me into a [[Technical Support]] role eventually, kind of moving over to the software side.
 >
 > **[1:59](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=119)** And I really enjoyed, you know, working with our members and our users, helping them solve technical problems, but something really was kind of sticking out to me is like I was always working with them after the problems were in their hands.
 >
@@ -1224,7 +1207,7 @@ created: 2026-05-02
 >
 > **[5:46](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=346)** It would be remiss if we weren't as diversified in those who build it.
 >
-> **[5:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=349)** And so, as you're looking for testers, or you're hiring, and you're thinking about what qualities, or skills individuals should emphasize, or maybe even show when they're interviewing, what would you say are those number one things that you look for?
+> **[5:49](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=349)** And so, as you're looking for testers, or you're hiring, and you're thinking about what qualities, or skills individuals should emphasize, or maybe even show when they're [[Interviewing]], what would you say are those number one things that you look for?
 >
 > **[6:06](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/interview-stephanie-dukes?u=76281980&t=366)** - There are a lot of things that we look for.
 >
@@ -1264,7 +1247,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (6), career (4), [[Technical Support]] (2), product (2), next (1)
+> **Frameworks & Libraries:** [[Technical Support]] (2), [[Hardware]] (1), [[Interviewing]] (1)
 > **Speakers:** - i (2), - yeah (2), - folks (1), - one (1), - that (1)
 > **CLI Commands:** find (2), make (1)
 
@@ -1273,8 +1256,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create your career
-> [LinkedIn Learning](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)
+#### [Create your career](https://www.linkedin.com/learning/succeeding-in-software-testing-14591362/create-your-career?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1280,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (3)
 > **CLI Commands:** find (1)
 > **Speakers:** - and (1)
 

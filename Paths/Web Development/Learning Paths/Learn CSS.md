@@ -10,12 +10,12 @@ louvain_cluster: 0
 tags:
   - learning-path
   - topic/web-development
-  - status/fresh
-last_activity: null
-activity_total: 0
-courses_visited: 0
+  - status/in-progress
+last_activity: 2026-05-02T20:52:10.753Z
+activity_total: 1
+courses_visited: 1
 videos_visited: 0
-progress_status: fresh
+progress_status: in-progress
 course_activity:
   - course: '[[Css Fundamentals Unlock The Power Of Web Styling]]'
     last_opened: null

@@ -60,8 +60,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Unlock your team's potential
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
+#### [Unlock your team's potential](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/unlock-your-team-s-potential?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -87,7 +86,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - in (1)
 
@@ -96,8 +94,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coaching basics
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
+#### [Coaching basics](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-basics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -181,13 +178,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** leadership (3), strengths (2), business (1), next (1), career (1)
 > **CLI Commands:** make (3), find (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - at (1)
 
-#### The business case for coaching
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980)
+#### [The business case for coaching](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -233,7 +228,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980&t=119)** Coaching gives leaders the perfect venue to build relationships with team members, provide comprehensive feedback, and support their employees' professional growth.
 >
-> **[2:08](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980&t=128)** All of which enables leaders to reinforce accountability within the process.
+> **[2:08](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980&t=128)** All of which enables leaders to reinforce [[Accountability]] within the process.
 >
 > **[2:13](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/the-business-case-for-coaching?u=76281980&t=133)** Coaching also allows leaders to infuse a little more creativity into their roles as they think of fresh ways to inspire and encourage people who are at different points along their career paths.
 >
@@ -273,12 +268,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), career (2), teams (2), leadership (1), game (1)
+> **Frameworks & Libraries:** [[Accountability]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Speakers:** - leadership (1)
 
-#### Common coaching challenges
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980)
+#### [Common coaching challenges](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -352,7 +346,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980&t=188)** Try to suspend judgment.
 >
-> **[3:11](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980&t=191)** Maybe you have a negative impression of the employee or you've heard reports about their questionable behavior through the office grapevine.
+> **[3:11](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980&t=191)** Maybe you have a negative impression of the employee or you've heard reports about their questionable behavior through the [[Microsoft Office|office]] grapevine.
 >
 > **[3:18](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/common-coaching-challenges?u=76281980&t=198)** As a coach, your goal is to prevent indirect feedback from clouding your judgment and the dedication you have to your employees' growth and development.
 >
@@ -368,7 +362,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (1), business (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **CLI Commands:** find (3), make (2)
 > **Definitions:** is a  (3)
 > **Speakers:** - organizations (1)
@@ -378,8 +372,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coaching frameworks
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
+#### [Coaching frameworks](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/coaching-frameworks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,13 +438,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1), data (1), express (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1)
 > **Speakers:** - all (1)
 
-#### GROW coaching model
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980)
+#### [GROW coaching model](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -459,7 +450,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=6)** Which stands for Goal, Reality, Options, and Will.
 >
-> **[0:11](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=11)** This concept was popularized by a pioneer in the executive coaching industry John Whitmore.
+> **[0:11](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=11)** This concept was popularized by a pioneer in the executive coaching industry [[John the Ripper|John]] Whitmore.
 >
 > **[0:17](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=17)** I've included a handout for you to follow as we dive into each element of the GROW model framework.
 >
@@ -499,7 +490,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=85)** Your GPS can't give you directions unless it knows your starting point.
 >
-> **[1:29](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=89)** What are your employees current performance metrics?
+> **[1:29](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=89)** What are your employees current [[Performance Metrics]]?
 >
 > **[1:32](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=92)** Are they exceeding standards or falling short?
 >
@@ -539,7 +530,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=170)** Whether that might be required performance metrics or a maximum allowable work errors.
 >
-> **[2:57](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=177)** Accountability still drives the process.
+> **[2:57](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=177)** [[Accountability]] still drives the process.
 >
 > **[3:00](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/grow-coaching-model?u=76281980&t=180)** Finally establish the will to act.
 >
@@ -565,7 +556,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (2), prompt (1), [[Accountability]] (1), hit (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (2), [[John the Ripper|John]] (1), [[Accountability]] (1)
 > **Env Vars:** grow (4), gps (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), stands for (1)
@@ -578,8 +569,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Listen as a coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
+#### [Listen as a coach](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -593,7 +583,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=26)** Your communication style is certainly important, but great coaches in the business world improve their impact with exceptional listening skills.
 >
-> **[0:35](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=35)** Let's be honest, we all get side tracked by everything going on around us, e-mail notifications, phones ringing, people walking by our office.
+> **[0:35](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=35)** Let's be honest, we all get side tracked by everything going on around us, e-mail notifications, phones ringing, people walking by our [[Microsoft Office|office]].
 >
 > **[0:43](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=43)** Listening can be tough, but strong coaches work to over come those distractions.
 >
@@ -621,7 +611,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=100)** Remind yourself that their success is a shared success.
 >
-> **[1:45](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=105)** Your position as a coach is to be on their side, to be their advocate, and if need be, their accountability system.
+> **[1:45](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=105)** Your position as a coach is to be on their side, to be their advocate, and if need be, their [[Accountability]] system.
 >
 > **[1:53](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/listen-as-a-coach?u=76281980&t=113)** Then give your employee your full attention.
 >
@@ -655,14 +645,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (1), [[Microsoft Office|Office]] (1), [[Accountability]] (1), game (1), prompt (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1), [[Accountability]] (1)
 > **CLI Commands:** make (4)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
 > **Speakers:** - think (1)
 
-#### Give feedback as a coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980)
+#### [Give feedback as a coach](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -748,7 +737,7 @@ created: 2026-05-02
 >
 > **[3:10](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980&t=190)** Remember to keep the emphasis on the problematic behavior or situation rather than implying that someone is a bad person.
 >
-> **[3:18](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980&t=198)** Keep your emotions in check and be careful with your word choices.
+> **[3:18](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980&t=198)** Keep your emotions in check and be careful with your [[Microsoft Word|word]] choices.
 >
 > **[3:22](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/give-feedback-as-a-coach?u=76281980&t=202)** It also helps if you try to start your sentences with I, rather than you, to minimize defensiveness.
 >
@@ -778,14 +767,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - think (1)
 
-#### Goal setting as a coach
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980)
+#### [Goal setting as a coach](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=1)** - Many leaders who coach find to have a real passion for motivating their employees, helping them grow, seeing them more engaged and watching their careers advance, but they often admit that the goal setting is the hardest part.
 >
-> **[0:14](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=14)** It feels like they're interrupting all that support and forward momentum with performance metrics and measurements.
+> **[0:14](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=14)** It feels like they're interrupting all that support and forward momentum with [[Performance Metrics]] and measurements.
 >
 > **[0:20](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=20)** While that might seem that way it is important to remember that goal setting more specifically goal achieving is the bigger reason behind coaching.
 >
@@ -807,7 +795,7 @@ created: 2026-05-02
 >
 > **[1:25](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=85)** One of the best ways to guide employees in setting and even exceeding goals is by linking those directly to the goals, the department or company.
 >
-> **[1:33](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=93)** While there are exceptions career development goals should also align with adding value to the organization.
+> **[1:33](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=93)** While there are exceptions [[Career Development]] goals should also align with adding value to the organization.
 >
 > **[1:41](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/goal-setting-as-a-coach?u=76281980&t=101)** Whatever they set out to do needs to make sense from a broader perspective.
 >
@@ -841,7 +829,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Career Development]] (1), next (1)
+> **Frameworks & Libraries:** [[Performance Metrics]] (1), [[Career Development]] (1)
 > **CLI Commands:** find (2), make (2)
 > **Analogies:** picture (1)
 > **Speakers:** - many (1)
@@ -851,8 +839,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/coaching-skills-for-leaders-and-managers/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -882,7 +869,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (1)
 > **URLs:** [saracanaday.com](https://saracanaday.com) (1)
 > **Speakers:** - research (1)
 

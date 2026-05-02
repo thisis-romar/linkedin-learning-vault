@@ -62,12 +62,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build agents in Copilot Studio
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980)
+#### [Build agents in Copilot Studio](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980&t=0)** - Copilot Studio is a powerful Microsoft platform designed to help you create and customize AI-powered Copilot agents that can answer questions, automate tasks, and provide assistance.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980&t=0)** - [[Microsoft Copilot|Copilot]] Studio is a powerful [[Microsoft]] platform designed to help you create and customize AI-powered Copilot agents that can answer questions, automate tasks, and provide assistance.
 >
 > **[0:12](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/build-agents-in-copilot-studio?u=76281980&t=12)** Copilot Studio is referred to as a low code platform because building many types of agents requires little to no coding skill.
 >
@@ -79,17 +78,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1), ai (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** set up (1)
 > **Speakers:** - copilot (1)
 
-#### What are agents?
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980)
+#### [What are agents?](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=0)** - [Instructor] Copilot agents can have varying levels of complexity, but most of them fall into these categories.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=0)** - [Instructor] [[Microsoft Copilot|Copilot]] agents can have varying levels of complexity, but most of them fall into these categories.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=6)** The most basic or simple agent is the one that can retrieve information from data it's provided with, and it can reason, summarize content and answer questions.
 >
@@ -105,19 +103,19 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=55)** For example, you could have something like a supply chain capacity agent that's connected to various data sources within the supply chain, and automate tasks like inventory management and order processing.
 >
-> **[1:05](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=65)** Agents can be deployed across various platforms like Microsoft Teams and Outlook, or across websites and mobile apps, making them accessible wherever they're needed.
+> **[1:05](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=65)** Agents can be deployed across various platforms like [[Microsoft Teams]] and [[Microsoft Outlook|Outlook]], or across websites and mobile apps, making them accessible wherever they're needed.
 >
 > **[1:15](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=75)** Now, as we move from left to right here, agents get increasingly complex and advance.
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=79)** So while it's important to understand what Copilot agents are capable of, in this course, we're just going to dip our toes in and look at the basics of how to create agents in Copilot Studio, how to add knowledge to them, and how to get them to perform certain types of tasks, and we'll look at a very basic example of creating an autonomous agent at the end.
 >
-> **[1:37](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=97)** Now, before we get started, this course does assume that you have at least some experience using Copilot or generative AI tools in general, so we're not going to spend time talking about what gen AI is or how to write prompts and so on.
+> **[1:37](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=97)** Now, before we get started, this course does assume that you have at least some experience using Copilot or [[Generative AI Tools]] in general, so we're not going to spend time talking about what gen AI is or how to write prompts and so on.
 >
-> **[1:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=108)** If you haven't spent much time with AI tools, I suggest you first check out courses like, "What is Copilot: Get Started with Microsoft's Everyday AI Companion" and "Streamlining Your Work with Microsoft Copilot" both by my colleague, Nick Brazzi.
+> **[1:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/what-are-agents?u=76281980&t=108)** If you haven't spent much time with AI tools, I suggest you first check out courses like, "What is Copilot: Get Started with [[Microsoft]]'s Everyday AI Companion" and "Streamlining Your Work with [[Microsoft Copilot]]" both by my colleague, Nick Brazzi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), ai (3), data (2), management (1), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Teams]] (1), [[Microsoft Outlook|Outlook]] (1), [[Generative AI Tools]] (1), [[Microsoft]] (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
@@ -126,12 +124,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Create agents from templates, conversationally, or manually
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980)
+#### [Create agents from templates, conversationally, or manually](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=0)** - [Instructor] Okay, so to create a Copilot agent, we go to copilotstudio.[microsoft.com](https://microsoft.com) and sign in.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=0)** - [Instructor] Okay, so to create a [[Microsoft Copilot|Copilot]] agent, we go to copilotstudio.[[[Microsoft]].com](https://microsoft.com) and sign in.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=6)** Now, if you just want to try this out, you can sign in with your work account for a free trial that will allow you to build and test agents.
 >
@@ -147,7 +144,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=55)** Now, on this page, you can use any of these templates to get you started.
 >
-> **[0:58](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=58)** So we can create agents for things like website Q&A, IT help desk, inclusivity, financial insights, and so on.
+> **[0:58](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=58)** So we can create agents for things like website Q&A, [[IT Help Desk]], inclusivity, financial insights, and so on.
 >
 > **[1:08](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/create-agents-from-templates-conversationally-or-manually?u=76281980&t=68)** If any of these interest you, just click one, like safe travels, which brings you to a page where the agent's info is already started for you with the name, description, instructions, and knowledge sections already filled out.
 >
@@ -243,7 +240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), next (3), data (2), [[Microsoft]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (3), [[Microsoft]] (1), [[IT Help Desk]] (1)
 > **Analogies:** for example (5)
 > **Exercise Files:** template (4)
 > **Prerequisites:** configure (3), set up (1)
@@ -252,12 +249,11 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **UI Navigation:** go to (1)
 
-#### Apply knowledge
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980)
+#### [Apply knowledge](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=0)** - [Instructor] Even though we've created our Copilot agent, it doesn't actually have the ability to do what we want it to do yet because in this case, we're building an agent that will help answer employee questions about company policies based on the employee handbook.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=0)** - [Instructor] Even though we've created our [[Microsoft Copilot|Copilot]] agent, it doesn't actually have the ability to do what we want it to do yet because in this case, we're building an agent that will help answer employee questions about company policies based on the employee handbook.
 >
 > **[0:13](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=13)** However, let's come over to the testing area on the right and I'll ask a question of how many paid days off are employees granted for jury duty?
 >
@@ -275,7 +271,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=62)** And in some cases, it might even provide a completely incorrect answer depending on the question you ask.
 >
-> **[1:07](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=67)** For example, I'll try can employees bring pets to the office?
+> **[1:07](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=67)** For example, I'll try can employees bring pets to the [[Microsoft Office|office]]?
 >
 > **[1:19](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=79)** And we get this response, which again, it's just pulling from its own knowledge saying employees are generally not allowed to bring pets to the office.
 >
@@ -305,11 +301,11 @@ created: 2026-05-02
 >
 > **[2:33](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=153)** We have the option to link to a public website, so the AI will always have the most up-to-date answers.
 >
-> **[2:38](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=158)** Or we can link documents stored on SharePoint, which you might use for an internal facing AI like the employee manual agent we're building.
+> **[2:38](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=158)** Or we can link documents stored on [[SharePoint]], which you might use for an internal facing AI like the employee manual agent we're building.
 >
-> **[2:44](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=164)** Similarly, you could add documents from Microsoft Dataverse.
+> **[2:44](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=164)** Similarly, you could add documents from [[Microsoft]] Dataverse.
 >
-> **[2:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=168)** For this example, I have the employee manual saved as a Word document on my desktop and just so you can see what that looks like, I have it open here.
+> **[2:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=168)** For this example, I have the employee manual saved as a [[Microsoft Word|Word]] document on my desktop and just so you can see what that looks like, I have it open here.
 >
 > **[2:57](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/apply-knowledge?u=76281980&t=177)** And as you can see, this is a multi-page document containing all sorts of information that employees might need to know.
 >
@@ -383,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[Microsoft Office|Office]] (4), [[Microsoft Copilot|Copilot]] (3), [[SharePoint]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (4), [[Microsoft Copilot|Copilot]] (3), [[SharePoint]] (1), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (1), click on (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** go back to (1)
@@ -392,12 +388,11 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Prerequisites:** you'll need (1)
 
-#### Add actions
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980)
+#### [Add actions](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=0)** - [Instructor] Okay, so we've now created a Copilot agent with its Knowledge built on the Globe Bank employee handbook.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=0)** - [Instructor] Okay, so we've now created a [[Microsoft Copilot|Copilot]] agent with its Knowledge built on the Globe Bank employee handbook.
 >
 > **[0:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=6)** We can ask it questions about company policy, and it can provide answers found in the handbook, so here in the Overview screen, we've completed the Name of the agent, the Description.
 >
@@ -407,7 +402,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=31)** I'll click Add action.
 >
-> **[0:34](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=34)** Here we can see some of the actions we can add, like Delete a row in an Excel spreadsheet.
+> **[0:34](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=34)** Here we can see some of the actions we can add, like Delete a row in an [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:38](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=38)** If your agent has something to do with working with data in an Excel file.
 >
@@ -417,7 +412,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=53)** Here in the Search field, I'll look for send an email, and that gives us several results.
 >
-> **[1:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=66)** Let's say that I use Outlook, so I'm going to select Send an email version 2 Office 365 Outlook, and that brings us to this Configure action screen, and it's going to take a few seconds, but then we'll see this Connector section appear, and this what allows you to connect or move data from a system or service to Copilot Studio.
+> **[1:06](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=66)** Let's say that I use [[Microsoft Outlook|Outlook]], so I'm going to select Send an email version 2 [[Microsoft Office|Office]] 365 Outlook, and that brings us to this Configure action screen, and it's going to take a few seconds, but then we'll see this Connector section appear, and this what allows you to connect or move data from a system or service to Copilot Studio.
 >
 > **[1:30](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=90)** If you haven't already logged into your account, you'll be prompted to do so to give your permissions, and you can see what permissions I'm allowing it to have here.
 >
@@ -455,7 +450,7 @@ created: 2026-05-02
 >
 > **[4:08](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=248)** I'll click Save, and I'll click Next, and now we can review everything this action will do.
 >
-> **[4:18](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=258)** Now, down here we have the option to allow the agent to use generative AI to respond when necessary, and we should leave that option checked so it can make the proper decisions around this action.
+> **[4:18](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=258)** Now, down here we have the option to allow the agent to use [[Generative AI]] to respond when necessary, and we should leave that option checked so it can make the proper decisions around this action.
 >
 > **[4:27](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/add-actions?u=76281980&t=267)** I'll click Finish, and that brings us back here to the Overview screen, so let's test this out.
 >
@@ -491,7 +486,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (6), [[Microsoft Copilot|Copilot]] (4), ai (3), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (4), [[Microsoft Outlook|Outlook]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Office|Office]] (1), [[Generative AI]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (1), just like (1)
 > **Prerequisites:** configure (2)
@@ -500,12 +495,11 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1)
 > **Non-Speech:** (email chimes) (1)
 
-#### Edit instructions
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980)
+#### [Edit instructions](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=0)** - [Instructor] Okay, so previously we created an action that would send a summary email to a user if they requested a summary of their interaction with the Copilot agent.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=0)** - [Instructor] Okay, so previously we created an action that would send a summary email to a user if they requested a summary of their interaction with the [[Microsoft Copilot|Copilot]] agent.
 >
 > **[0:09](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=9)** But it's not ideal for the user themselves to have to request an email.
 >
@@ -527,7 +521,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=57)** So it says, "When replying to an inquiry with information from the employee handbook, ask if the user would like to receive the information in an email.
 >
-> **[1:04](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=64)** If the reply is affirmative, use the action Send An Email to compose and send an email response that includes the relevant passage from the employee handbook."
+> **[1:04](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=64)** If the reply is affirmative, use the action Send An Email to [[Jetpack Compose|compose]] and send an email response that includes the relevant passage from the employee handbook."
 >
 > **[1:13](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/edit-instructions?u=76281980&t=73)** So just as a reminder, we named the action Send An Email previously, so I made sure to use the same name here.
 >
@@ -573,19 +567,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Jetpack Compose|Compose]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (2), [[Jetpack Compose|Compose]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** previous video (1)
 > **Definitions:** refers to (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introduce a trigger
-> [LinkedIn Learning](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980)
+#### [Introduce a trigger](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=0)** - [Person] All right, so far, we've created a Copilot agent that will answer questions based on the company employee handbook, and it asks the user if they'd like to receive an email with that information, and if the user says that they do, it will send a custom email.
+> **[0:00](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=0)** - [Person] All right, so far, we've created a [[Microsoft Copilot|Copilot]] agent that will answer questions based on the company employee handbook, and it asks the user if they'd like to receive an email with that information, and if the user says that they do, it will send a custom email.
 >
 > **[0:14](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=14)** But this still requires the user to have sort of a chat-bot experience by talking with the agent.
 >
@@ -609,7 +602,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=91)** So as time goes on, we'll most likely start seeing more and more triggers we can use here.
 >
-> **[1:35](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=95)** (no audio) But for this example, I want to use this one called "When a new email arrives," and that's for Office 365 Outlook.
+> **[1:35](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=95)** (no audio) But for this example, I want to use this one called "When a new email arrives," and that's for [[Microsoft Office|Office]] 365 [[Microsoft Outlook|Outlook]].
 >
 > **[1:54](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=114)** And we see here, a description that literally triggers the agent when a new email arrives.
 >
@@ -649,7 +642,7 @@ created: 2026-05-02
 >
 > **[5:08](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=308)** Now, it's first going to reference its knowledge sources... But actually, now that I think about it, it's stalled out here... Or not really stalled out, it's stopped because I realize... Let's go back to the "Overview" screen here and look at the instructions, I actually deleted everything from here in the instructions, so I actually took out the part where I wanted it to respond with an email, so let's come back in here, add that back, and I've re-pasted in my original instructions, but I took out the part where I told it to ask if the user wants to receive an email.
 >
-> **[5:41](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=341)** All the other instructions here are the same, saying that it should use the send-an-email action to compose and send an email.
+> **[5:41](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=341)** All the other instructions here are the same, saying that it should use the send-an-email action to [[Jetpack Compose|compose]] and send an email.
 >
 > **[5:48](https://www.linkedin.com/learning/getting-started-with-autonomous-agents-in-copilot-studio-no-code-required/introduce-a-trigger?u=76281980&t=348)** That's why it did not send an email, so let's save that again, and we'll go back to "Triggers" so we can test that again.
 >
@@ -687,7 +680,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Outlook|Outlook]] (2), feature (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Copilot|Copilot]] (7), [[Microsoft Outlook|Outlook]] (2), [[Microsoft Office|Office]] (1), [[Jetpack Compose|Compose]] (1)
 > **Prerequisites:** set up (5)
 > **Cross-References:** go back to (3), we mentioned (1)
 > **UI Navigation:** go to (2), scroll down (1)

@@ -95,18 +95,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prepare for the RHCE EX294 certification
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980)
+#### [Prepare for the RHCE EX294 certification](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=0)** - [Grant] The Red Hat RHCE certification is one of the most respected and valued certifications in the IT world.
 >
-> **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=7)** Presenting credentials as well-known as the Red Hat RHCE EX294 certification will help secure a position in IT automation.
+> **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=7)** Presenting credentials as well-known as the Red Hat RHCE EX294 certification will help secure a position in [[IT Automation]].
 >
-> **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=14)** The RHCE is a popular Linux engineering certification.
+> **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=14)** The RHCE is a popular [[Linux]] engineering certification.
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=18)** The EX294 version of that certification focuses on IT automation using Ansible Engine and this information can be invaluable in today's world no matter which operating systems or devices you're managing.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=18)** The EX294 version of that certification focuses on IT automation using [[Ansible]] Engine and this information can be invaluable in today's world no matter which operating systems or devices you're managing.
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-for-the-rhce-ex294-certification?u=76281980&t=29)** This course is the foundation course in a three-part EX294 series aiming to prepare exam takers for that certification.
 >
@@ -120,18 +119,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[IT Automation]] (2), [[Engineering]] (1), [[Ansible]] (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[IT Automation]] (2), [[Ansible]] (1)
 > **Env Vars:** ex294 (5), rhce (4)
 > **CLI Commands:** ansible (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [grant] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=0)** - [Instructor] This course is designed for anyone new to Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=0)** - [Instructor] This course is designed for anyone new to [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=4)** If you are a beginner to Linux, you are in the right place.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=46)** In this course, we'll install Linux in a VirtualBox virtual machine, running on a host operating system.
 >
-> **[0:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=52)** Included in this course are videos to install Enterprise Linux in a virtual machine on both Windows and Linux host operating systems.
+> **[0:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=52)** Included in this course are videos to install Enterprise Linux in a virtual machine on both [[Windows]] and Linux host operating systems.
 >
 > **[1:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=60)** So use the host OS which you prefer.
 >
@@ -173,13 +171,13 @@ created: 2026-05-02
 >
 > **[2:10](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=130)** If you're using Windows as your host OS, you may need eight to 16 gigabytes of free system memory.
 >
-> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=136)** If you have more than that, then it will allow you to run more complex configurations with multiple virtual machines operating at the same time.
+> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=136)** If you have more than that, then it will allow you to run more complex configurations with multiple [[Virtual Machines]] operating at the same time.
 >
 > **[2:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/what-you-should-know-15024646?u=76281980&t=144)** This is useful for example, when you want to learn networking or a server client configuration.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (17), [[Virtualization]] (3), [[Windows]] (2), [[Virtual Machines]] (1)
+> **Frameworks & Libraries:** [[Linux]] (17), [[Windows]] (2), [[Virtual Machines]] (1)
 > **Env Vars:** amd (3), cpu (1), iso (1)
 > **Prerequisites:** install (3), you'll need (2)
 > **Versions:** version 8 (3)
@@ -187,8 +185,7 @@ created: 2026-05-02
 > **Code Identifiers:** macos (1)
 > **Speakers:** - [instructor] (1)
 
-#### About the RHCE (EX294) exam
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980)
+#### [About the RHCE (EX294) exam](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -196,11 +193,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=5)** RHCE stands for Red Hat Certified Engineer.
 >
-> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=8)** The RHCE is a Red Hat certification which uses Red Hat Enterprise Linux 8 as its operating system platform.
+> **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=8)** The RHCE is a Red Hat certification which uses Red Hat Enterprise [[Linux]] 8 as its operating system platform.
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=15)** In the past, the RHCE EX300 was a certification that tested the general skills of system engineers.
 >
-> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification, however, is not a general engineer certification as the focus has changed to IT automation using Red Hat Ansible Engine 2.8.
+> **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=21)** The new RHCE EX294 certification, however, is not a general engineer certification as the focus has changed to [[IT Automation]] using Red Hat [[Ansible]] Engine 2.8.
 >
 > **[0:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=33)** The RHCSA EX200 exam in order to obtain the RHCE certification.
 >
@@ -220,7 +217,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=93)** This hands-on practical exam requires you to use Red Hat Ansible Engines to perform real world tasks.
 >
-> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=99)** You will be provided with multiple systems and will be required to install and configure Ansible Engine and then use it to perform standard system administration tasks similar to what you do on a job.
+> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=99)** You will be provided with multiple systems and will be required to install and configure Ansible Engine and then use it to perform standard [[System Administration]] tasks similar to what you do on a job.
 >
 > **[1:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=110)** You will be required to create Ansible playbooks and use those playbooks to configure systems for specific roles and behaviors.
 >
@@ -262,7 +259,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=216)** If you are not a Red Hat administrator or a person pursuing a Red Hat certification, this course will still be valuable to you if you're interested in IT automation using Ansible.
 >
-> **[3:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=226)** I can't stress enough that this course and certification is general in nature and useful even if your infrastructure comprises Ubuntu, SUSE, or even Windows hosts.
+> **[3:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=226)** I can't stress enough that this course and certification is general in nature and useful even if your infrastructure comprises [[Ubuntu]], SUSE, or even [[Windows]] hosts.
 >
 > **[3:55](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=235)** This course is the first course in a three-part series covering objectives of the RHCE EX294 exam.
 >
@@ -274,13 +271,13 @@ created: 2026-05-02
 >
 > **[4:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=259)** If you want to prepare for the RHCE certification, then take the EX200 course as well as this EX294 course.
 >
-> **[4:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=267)** If you want more in-depth training on administrating Red Hat Linux, take the Linux System Engineer Learning Path in the course library.
+> **[4:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=267)** If you want more in-depth training on administrating [[Red Hat Linux]], take the Linux System Engineer Learning Path in the course library.
 >
 > **[4:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-the-rhce-ex294-exam?u=76281980&t=273)** This course is one of a three-part series covering objectives of the RHCE EX294 exam.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), business (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (5), [[IT Automation]] (3), [[System Administration]] (1), [[Ubuntu]] (1)
 > **Env Vars:** rhce (14), ex294 (7), rhcsa (4), ex200 (4), rhca (2)
 > **CLI Commands:** ansible (6)
 > **Prerequisites:** required to (2), configure (2), install (1), you'll need (1)
@@ -289,12 +286,11 @@ created: 2026-05-02
 > **Versions:** 2.8 (1)
 > **Speakers:** - [instructor] (1)
 
-#### State of Enterprise Linux
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980)
+#### [State of Enterprise Linux](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=0)** - [Instructor] There are various operating systems that fit into the classification of Enterprise Linux.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=0)** - [Instructor] There are various operating systems that fit into the classification of Enterprise [[Linux]].
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=4)** It may be advantageous to understand how Enterprise Linux is created to bring clarity to recent changes in the available choices.
 >
@@ -304,7 +300,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=21)** A fedora is a low, soft felt hat with a curl which may make sense as the Fedora project was created by the Red Hat Corporation.
 >
-> **[0:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=30)** In 2003, Red Hat chose who split Red Hat Linux into Red Hat Linux advanced server for the commercial market and Fedora Core for individuals.
+> **[0:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=30)** In 2003, Red Hat chose who split [[Red Hat Linux]] into Red Hat Linux advanced server for the commercial market and Fedora Core for individuals.
 >
 > **[0:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=38)** Later releases were renamed Red Hat Enterprise Linux and Fedora.
 >
@@ -334,7 +330,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=116)** It is free, but it's provided without support.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=119)** I've used CentOS as a basis for nearly all of my courses in the LinkedIn Learning library.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=119)** I've used CentOS as a basis for nearly all of my courses in the [[LinkedIn]] Learning library.
 >
 > **[2:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/state-of-enterprise-linux?u=76281980&t=124)** It is common to have Red Hat Enterprise Linux servers on the frontline backed by paid Red Hat tech support and many CentOS servers in the background managed by in-house personnel.
 >
@@ -394,7 +390,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (32), [[Red Hat Linux]] (2), next (2), cloud (2), product (1)
+> **Frameworks & Libraries:** [[Linux]] (32), [[Red Hat Linux]] (2), [[LinkedIn]] (1)
 > **CLI Commands:** make (2), curl (1)
 > **Definitions:** is a  (2), means that (1)
 > **Analogies:** for instance (1), similar to (1)
@@ -402,14 +398,13 @@ created: 2026-05-02
 > **Exercise Files:** source code (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Virtual Box
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980)
+#### [Install Virtual Box](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=0)** - [Instructor] If you happen to be using Linux as your host OS, you'll want to install VirtualBox for that operating system.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=0)** - [Instructor] If you happen to be using [[Linux]] as your host OS, you'll want to install VirtualBox for that operating system.
 >
-> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=6)** If you're using Windows for your host OS, you can skip this video.
+> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=6)** If you're using [[Windows]] for your host OS, you can skip this video.
 >
 > **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=11)** We will be installing VirtualBox, but also installing a VirtualBox extension pack.
 >
@@ -425,7 +420,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=41)** After clicking on Linux distributions, you'll get to be more specific about which distribution you're installing VirtualBox on.
 >
-> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=48)** If your host OS was Ubuntu, Debian, openSUSE or Fedora, you'd choose one of those links.
+> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=48)** If your host OS was [[Ubuntu]], Debian, openSUSE or Fedora, you'd choose one of those links.
 >
 > **[0:55](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=55)** Since I'm running Enterprise Linux 8, I will choose the first item.
 >
@@ -503,7 +498,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=243)** It just installs the programs.
 >
-> **[4:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=247)** After the packages are installed, it tells us that in order to create virtual machines, our user needs to be in the vboxusers operating system group.
+> **[4:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=247)** After the packages are installed, it tells us that in order to create [[Virtual Machines]], our user needs to be in the vboxusers operating system group.
 >
 > **[4:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=255)** This is for security reasons, as VirtualBox needs access to low-level resources.
 >
@@ -531,7 +526,7 @@ created: 2026-05-02
 >
 > **[5:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=325)** If you don't do this now, you'll get notified later when attempting to use VirtualBox.
 >
-> **[5:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=331)** To ensure the installation and modification of the system configuration went well, reboot your Linux host by going to the top right-hand menu, click on the power button, and then click on Restart.
+> **[5:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=331)** To ensure the installation and modification of the [[System Configuration]] went well, reboot your Linux host by going to the top right-hand menu, click on the power button, and then click on Restart.
 >
 > **[5:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-virtual-box?u=76281980&t=342)** The extension pack adds additional functionality to VirtualBox.
 >
@@ -563,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (11), hit (6), application (2), [[Security]] (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Linux]] (11), [[Windows]] (1), [[Ubuntu]] (1), [[Virtual Machines]] (1), [[System Configuration]] (1)
 > **Prerequisites:** install (14), configure (1)
 > **CLI Commands:** dnf (4), sudo (4), make (2), ls (2), cd (1)
 > **UI Navigation:** click on (10), double-click (1), go to (1), scroll down (1)
@@ -572,12 +567,11 @@ created: 2026-05-02
 > **Versions:** 6.1 (1), 2.0 (1), 3.0 (1)
 > **Code Identifiers:** opensuse (1), use_virtualbox (1)
 
-#### CentOS 8 lab setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980)
+#### [CentOS 8 lab setup](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=0)** - [Instructor] Before we can install Linux in a VM, we need to make one.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=0)** - [Instructor] Before we can install [[Linux]] in a VM, we need to make one.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=4)** Make sure the VirtualBox GUI is running on your host and then click on the New icon.
 >
@@ -587,7 +581,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=17)** Change the type to Linux and change the version to Red Hat 64-bit.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=24)** These settings just change the preset defaults in the rest of the Configuration Wizard.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=24)** These settings just change the preset defaults in the [[Representational State Transfer (REST)|rest]] of the Configuration Wizard.
 >
 > **[0:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/centos-8-lab-setup-15025659?u=76281980&t=27)** So don't worry too much about them.
 >
@@ -645,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (6), next (4), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Linux]] (6), [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (7)
 > **CLI Commands:** make (4)
 > **Prerequisites:** install (3), configure (1)
@@ -654,8 +648,7 @@ created: 2026-05-02
 > **Versions:** 1.5 (1)
 > **Warnings:** note that (1)
 
-#### Optimize your VM
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980)
+#### [Optimize your VM](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -681,15 +674,15 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=42)** In the same tab, enable PAE/NX.
 >
-> **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=46)** PAE allows 32 bit virtual machines to access more than four gigabytes of RAM.
+> **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=46)** PAE allows 32 bit [[Virtual Machines]] to access more than four gigabytes of RAM.
 >
 > **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=51)** If you're installing a 32 bit guest OS, then you definitely want to enable this feature.
 >
-> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=56)** We're going to be installing a 64 bit version of Enterprise Linux, so we don't actually need this but it doesn't hurt.
+> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=56)** We're going to be installing a 64 bit version of Enterprise [[Linux]], so we don't actually need this but it doesn't hurt.
 >
 > **[1:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=62)** On the Acceleration tab, choose a hypervisor.
 >
-> **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=65)** If you're on Windows, then Hyper V is your best option to choose.
+> **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=65)** If you're on [[Windows]], then Hyper V is your best option to choose.
 >
 > **[1:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=69)** If you're on Linux, then KVM may be your best option.
 >
@@ -737,7 +730,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=164)** You'll notice by default, it's attached to NAT.
 >
-> **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=167)** This means that this VM will have access to the local network, but your host PC and other physical computers on the local network will not be able to access your VM, meaning you will not be able to run services on it like web servers.
+> **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=167)** This means that this VM will have access to the local network, but your host PC and other physical computers on the local network will not be able to access your VM, meaning you will not be able to run services on it like [[Web Servers]].
 >
 > **[2:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/optimize-your-vm?u=76281980&t=179)** If you want your VM to appear as a normal computer on your network, so other computers can access it, you will need to change the setting to Bridged Adapter.
 >
@@ -745,7 +738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), feature (1), [[Windows]] (1), data (1)
+> **Frameworks & Libraries:** [[Linux]] (3), [[Virtual Machines]] (1), [[Windows]] (1), [[Web Servers]] (1)
 > **Env Vars:** cpu (3), pae (2), nat (2), apic (1), ram (1)
 > **UI Navigation:** click on (10)
 > **CLI Commands:** make (1)
@@ -754,12 +747,11 @@ created: 2026-05-02
 > **Prerequisites:** install (1)
 > **Speakers:** - [instructor] (1)
 
-#### Install Linux from DVD ISO
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980)
+#### [Install Linux from DVD ISO](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=0)** - [Instructor] To install Enterprise Linux from the full DVD, we need to download an ISO image from the CentOS website.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=0)** - [Instructor] To install Enterprise [[Linux]] from the full DVD, we need to download an ISO image from the CentOS website.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=6)** We'll do this by opening a web browser and going to the download page at [sentos.org/download](https://sentos.org/download).
 >
@@ -903,7 +895,7 @@ created: 2026-05-02
 >
 > **[5:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=332)** We'll create a strong password here because we're going to make this first user an administrator by clicking on the check box labeled, Make this user administrator.
 >
-> **[5:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=341)** It's very important that you click the administrator box now as the rest of our course depends on it.
+> **[5:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=341)** It's very important that you click the administrator box now as the [[Representational State Transfer (REST)|rest]] of our course depends on it.
 >
 > **[5:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=345)** If you fail to click this box, you'll need to log in as root after the install is finished and add this user manually to the wheel group.
 >
@@ -911,7 +903,7 @@ created: 2026-05-02
 >
 > **[5:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=357)** Now click on Begin Installation.
 >
-> **[6:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=361)** The install will take between 20 minutes and an hour, depending on your host computer's hardware.
+> **[6:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=361)** The install will take between 20 minutes and an hour, depending on your host computer's [[Hardware]].
 >
 > **[6:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=366)** As soon as the install is finished, you'll be able to click on Reboot to reboot into your new VM.
 >
@@ -939,7 +931,7 @@ created: 2026-05-02
 >
 > **[7:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=420)** Again, I'll choose the default and click on Next again.
 >
-> **[7:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=423)** Next we can choose our privacy settings.
+> **[7:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=423)** Next we can choose our [[Privacy]] settings.
 >
 > **[7:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-from-dvd-iso?u=76281980&t=424)** By default, location settings are on.
 >
@@ -959,7 +951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Linux]] (7), next (6), web (2), hit (1), power (1)
+> **Frameworks & Libraries:** [[Linux]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Hardware]] (1), [[Privacy]] (1)
 > **Env Vars:** iso (9), dvd (4), gui (3), xfs (2), ata (1)
 > **UI Navigation:** click on (20), select the (2), scroll down (1)
 > **Prerequisites:** install (9), configure (2), you'll need (2), getting started (2), set up (1)
@@ -968,8 +960,7 @@ created: 2026-05-02
 > **URLs:** [sentos.org](https://sentos.org) (1)
 > **Versions:** 8.3.2011 (1)
 
-#### Install Linux Guest Additions
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980)
+#### [Install Linux Guest Additions](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -983,7 +974,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=29)** Before installing virtual box guest additions, there are a few prerequisites.
 >
-> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=34)** All Linux operating systems software has to be up-to-date.
+> **[0:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=34)** All [[Linux]] operating systems software has to be up-to-date.
 >
 > **[0:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=37)** After the OS is updated, it needs to be rebooted so we're using the latest kernel from the OS update.
 >
@@ -1025,7 +1016,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=149)** and hit Enter and enter your password when prompted.
 >
-> **[2:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=154)** This installs the software development tools group.
+> **[2:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=154)** This installs the [[Software Development]] tools group.
 >
 > **[2:37](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-linux-guest-additions?u=76281980&t=157)** With Enterprise Linux Eight, we also need to install one more package.
 >
@@ -1067,7 +1058,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (4), [[Linux]] (2), cd (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Linux]] (2), [[Software Development]] (1)
 > **CLI Commands:** sudo (5), dnf (5), yum (2), cd (2)
 > **UI Navigation:** click on (5)
 > **Tools:** terminal (4)
@@ -1076,8 +1067,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Virtual machine snapshots
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/virtual-machine-snapshots?u=76281980)
+#### [Virtual machine snapshots](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/virtual-machine-snapshots?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1201,15 +1191,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (3), web (1)
 > **UI Navigation:** click on (16), select the (1)
 > **Prerequisites:** install (7), configure (1), you'll need (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finish lab set up
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/finish-lab-set-up?u=76281980)
+#### [Finish lab set up](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/finish-lab-set-up?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1259,7 +1247,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), next (1), prompt (1)
 > **UI Navigation:** click on (4), dropdown (1), switch to (1)
 > **CLI Commands:** make (2), sudo (2)
 > **URLs:** [localnet.com](https://localnet.com) (2)
@@ -1267,8 +1254,7 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create a private network in VirtualBox
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980)
+#### [Create a private network in VirtualBox](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1298,7 +1284,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=75)** In this scenario, you need to change the bridge in VirtualBox settings to connect to the LAN card.
 >
-> **[1:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=81)** Another negative is that not all wireless cards and drivers support bridging, in this case, you'll have two VMs that can talk to each other and the host, but you can't send traffic outside the host to the rest of the physical network.
+> **[1:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=81)** Another negative is that not all wireless cards and drivers support bridging, in this case, you'll have two VMs that can talk to each other and the host, but you can't send traffic outside the host to the [[Representational State Transfer (REST)|rest]] of the physical network.
 >
 > **[1:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=92)** Lastly, you might not want to have your virtual network merged with your physical network.
 >
@@ -1384,11 +1370,11 @@ created: 2026-05-02
 >
 > **[6:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=384)** And we can see that that works as well.
 >
-> **[6:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=387)** If your virtualization host is Linux, macOS, or Solaris, you should be able to SSH to this address and log into it.
+> **[6:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=387)** If your virtualization host is [[Linux]], macOS, or Solaris, you should be able to SSH to this address and log into it.
 >
 > **[6:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=394)** Now let's ping something outside of our host-only network.
 >
-> **[6:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=396)** Type in clear and then type in ping space [google.com](https://google.com) and hit Enter and press Control + C to end it.
+> **[6:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=396)** Type in clear and then type in ping space [[[Google]].com](https://google.com) and hit Enter and press Control + C to end it.
 >
 > **[6:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/create-a-private-network-in-virtualbox-15022665?u=76281980&t=404)** When we ping outside of our host-only network, we're using the NAT address.
 >
@@ -1402,7 +1388,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Virtualization]] (8), traffic (2), lan (2), hit (2), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1), [[Linux]] (1), [[Google]] (1)
 > **UI Navigation:** click on (15), go to (1), checkbox (1)
 > **Env Vars:** nat (7), dhcp (6), lan (2), ssh (1)
 > **Versions:** 192.168.3 (7), 255.255.255 (2), 10.0.2 (2)
@@ -1411,8 +1397,7 @@ created: 2026-05-02
 > **Tools:** terminal (4)
 > **Code Identifiers:** macos (1)
 
-#### Reconfigure or migrate CentOS
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980)
+#### [Reconfigure or migrate CentOS](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1422,7 +1407,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=13)** If you have a CentOS installation and it cannot install software from its repositories, execute these steps.
 >
-> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=19)** If you're using Rocky Linux or AlmaLinux OS, you can skip this video.
+> **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=19)** If you're using Rocky [[Linux]] or AlmaLinux OS, you can skip this video.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=24)** First, make sure your networking is turned on by clicking on your top right-hand menu and clicking Wired Off.
 >
@@ -1478,7 +1463,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=205)** To migrate CentOS 8 to AlmaLinux OS, point your web browser to [almalinux.org](https://almalinux.org) and then click on the Migrate button.
 >
-> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=216)** This will take you to their GitHub page.
+> **[3:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=216)** This will take you to their [[GitHub]] page.
 >
 > **[3:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/reconfigure-or-migrate-centos?u=76281980&t=219)** About halfway down the page, there is an almalinux-deploy.sh link.
 >
@@ -1528,7 +1513,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Linux]] (5), cd (4), web (2), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Linux]] (5), [[GitHub]] (2)
 > **CLI Commands:** sudo (5), cd (4), sed (3), make (1), yum (1)
 > **UI Navigation:** click on (11), right-click (2), go to (1)
 > **URLs:** [centos.org](https://centos.org) (4), [http://mirror.centos.org|baseurl=http](http://mirror.centos.org|baseurl=http) (1), [almalinux.org](https://almalinux.org) (1), [rockylinux.org](https://rockylinux.org) (1)
@@ -1542,12 +1527,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### About IT automation
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980)
+#### [About IT automation](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=0)** - [Instructor] IT automation is the use of software to create repeatable processes to replace all or part of human interaction in IT systems.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=0)** - [Instructor] [[IT Automation]] is the use of software to create repeatable processes to replace all or part of human interaction in IT systems.
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=8)** IT automation software works within the confines of the tradition IT environment to carry out tasks with little to no human interaction.
 >
@@ -1559,13 +1543,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=32)** This allows the same technicians and engineers to be more productive, reduce errors, improve collaboration, and free up time for more meaningful work.
 >
-> **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=40)** Automation can apply to other systems, such as network infrastructure, cloud provisioning, application development, and configuration management.
+> **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=40)** Automation can apply to other systems, such as network infrastructure, cloud provisioning, [[Application Development]], and [[Configuration Management]].
 >
-> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=48)** Using automation technologies we can penetrate specific areas, such as containers, devops, cloud and edge computing, vulnerability assessments for security, system testing, as well as monitoring.
+> **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=48)** Using automation technologies we can penetrate specific areas, such as containers, [[DevOps]], cloud and edge computing, vulnerability assessments for security, system testing, as well as monitoring.
 >
 > **[0:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=59)** Generally speaking, if it's an IT task then automation can probably be applied to it.
 >
-> **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=65)** There are multiple IT automation stacks, such as Puppet, Chef, Salt from Saltstack, and the reason we're here, Ansible Engine.
+> **[1:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=65)** There are multiple IT automation stacks, such as Puppet, Chef, Salt from Saltstack, and the reason we're here, [[Ansible]] Engine.
 >
 > **[1:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=73)** There are others, both commercial and open-source, but we'll focus on these four.
 >
@@ -1625,7 +1609,7 @@ created: 2026-05-02
 >
 > **[3:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=228)** Ansible is very similar to Salt when running in agentless mode.
 >
-> **[3:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=232)** It uses SSH or Remote Powershell on Windows host to send commands and configuration data to the client.
+> **[3:52](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=232)** It uses SSH or Remote [[Powershell]] on [[Windows]] host to send commands and configuration data to the client.
 >
 > **[3:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=238)** As such, the client configuration is very simple, as those communication methods are usually configured already.
 >
@@ -1643,7 +1627,7 @@ created: 2026-05-02
 >
 > **[4:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=278)** Let's say the configuration says that Apache should be installed and it should be running.
 >
-> **[4:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=282)** It doesn't matter which OS the client is running, it could be Ubuntu Linux, Red Hat Linux, or even Windows.
+> **[4:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=282)** It doesn't matter which OS the client is running, it could be [[Ubuntu]] [[Linux]], [[Red Hat Linux]], or even Windows.
 >
 > **[4:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-it-automation?u=76281980&t=288)** The control host holds a bunch of files that describe the configuration of the client.
 >
@@ -1663,7 +1647,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (11), data (7), [[IT Automation]] (5), [[Automation]] (4), cloud (2)
+> **Frameworks & Libraries:** [[Ansible]] (11), [[IT Automation]] (5), [[Configuration Management]] (2), [[Windows]] (2), [[Application Development]] (1)
 > **CLI Commands:** ansible (11), ssh (5), ruby (2), node (2), make (1)
 > **Env Vars:** ssh (5), yaml (2), ssl (1), ini (1), ascii (1)
 > **Analogies:** such as (4), similar to (2)
@@ -1672,22 +1656,21 @@ created: 2026-05-02
 > **Tools:** powershell (1)
 > **Speakers:** - [instructor] (1)
 
-#### Ansible concepts
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980)
+#### [Ansible concepts](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=0)** - [Instructor] Ansible was created by Michael DeHaan, the author of Cobbler, the provisioning server application and which purchased by Red Hat in 2015.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=0)** - [Instructor] [[Ansible]] was created by Michael DeHaan, the author of Cobbler, the provisioning server application and which purchased by Red Hat in 2015.
 >
-> **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=7)** It has since been integrated into Fedora and Red Hat Enterprise Linux 8.
+> **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=7)** It has since been integrated into Fedora and Red Hat Enterprise [[Linux]] 8.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=11)** It's also available for CentOs, SuSE, Debian and Ubuntu and others.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=11)** It's also available for CentOs, SuSE, Debian and [[Ubuntu]] and others.
 >
 > **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=16)** Ansible maintains an inventory of host to work against.
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=20)** It then selects portions of the this inventory which are stored in ASCII text files.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=24)** This is important as they are easy to edit and can be managed with a version control systems such as Git.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=24)** This is important as they are easy to edit and can be managed with a [[Version Control]] systems such as [[Git]].
 >
 > **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=29)** Any machine with Ansible utilities installed can leverage a set of files and directories to orchestrate other nodes.
 >
@@ -1697,7 +1680,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=50)** Nodes are managed by these controlling machine over SSH.
 >
-> **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=53)** In the cast of Windows nodes, it'll use remote powershell.
+> **[0:53](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=53)** In the cast of [[Windows]] nodes, it'll use remote [[Powershell]].
 >
 > **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=57)** The inventory describes the location of the nodes to control.
 >
@@ -1709,11 +1692,11 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=72)** Instead, Ansible orchestrates a node by installing and running modules on the node temporarily via SSH.
 >
-> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=79)** For the duration of the orchestration task, the running module task communicates with a JSON based protocol via standard input and output.
+> **[1:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=79)** For the duration of the orchestration task, the running module task communicates with a [[JSON]] based protocol via standard input and output.
 >
 > **[1:27](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=87)** These modules are mostly standalone.
 >
-> **[1:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=89)** It can be written in any standard scripting engine such as Python, Perl, Ruby, or Bash.
+> **[1:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=89)** It can be written in any standard scripting engine such as [[Python (Programming Language)|Python]], Perl, Ruby, or Bash.
 >
 > **[1:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=94)** Ansible itself is written in Python, so that language is very popular with Ansible.
 >
@@ -1749,15 +1732,15 @@ created: 2026-05-02
 >
 > **[2:47](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=167)** To help manage inventory, there's Ansible Tower.
 >
-> **[2:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=170)** Ansible Tower is a REST API, web service, and web based console designed to make Ansible more usable for IT teams.
+> **[2:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=170)** Ansible Tower is a [[Representational State Transfer (REST)|REST]] API, web service, and web based console designed to make Ansible more usable for IT teams.
 >
 > **[2:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=177)** It is a hub for automation tasks.
 >
-> **[3:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=180)** It's also a commercial products supported by Red Hat and AWX, the upstream project is open source.
+> **[3:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/ansible-concepts?u=76281980&t=180)** It's also a commercial [[Microsoft Products|products]] supported by Red Hat and AWX, the upstream project is open source.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (18), node (5), web (3), data (2), [[Orchestration]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (18), [[Python (Programming Language)|Python]] (2), [[Linux]] (1), [[Ubuntu]] (1), [[Version Control]] (1)
 > **CLI Commands:** ansible (18), node (5), ssh (2), python (2), git (1)
 > **Env Vars:** yaml (3), ini (2), ssh (2), ascii (1), json (1)
 > **Definitions:** is a  (4), means that (1)
@@ -1765,8 +1748,7 @@ created: 2026-05-02
 > **Tools:** powershell (1), bash (1)
 > **Speakers:** - [instructor] (1)
 
-#### About provisioning
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980)
+#### [About provisioning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1776,15 +1758,15 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=15)** After bootstrapping, nodes can be connected to storage, added to load balancers, security patches, or even tasks executed.
 >
-> **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=23)** We can use Ansible to provision the host, and then configure it, deploy applications, and lastly, manage it.
+> **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=23)** We can use [[Ansible]] to provision the host, and then configure it, deploy applications, and lastly, manage it.
 >
-> **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=29)** Provisioning with Ansible allows you to seamlessly transition into configuration management, orchestration, and application deployment using the same, simple, human readable automation language.
+> **[0:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=29)** Provisioning with Ansible allows you to seamlessly transition into [[Configuration Management]], orchestration, and application deployment using the same, simple, human readable automation language.
 >
 > **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=39)** Underneath virtualization and cloud platforms there are one or more physical servers.
 >
 > **[0:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=44)** We can provision to bare-metal systems as Ansible integrates into many data center management invoke and enact provisioning steps.
 >
-> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=51)** However, virtualization has opened up an entire new world of diverse scenarios on IT automation.
+> **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=51)** However, virtualization has opened up an entire new world of diverse scenarios on [[IT Automation]].
 >
 > **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=57)** And the scale in which we can provision is immense.
 >
@@ -1794,31 +1776,30 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=73)** Using Ansible we can replace manual processes for provisioning networks.
 >
-> **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=77)** Ansible can provision and manage infrastructure storage systems including software-defined storage, cloud-based storage, and even hardware storage appliances.
+> **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=77)** Ansible can provision and manage infrastructure storage systems including software-defined storage, cloud-based storage, and even [[Hardware]] storage appliances.
 >
 > **[1:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=85)** Although Ansible can provision many types of devices, it may be most common to provision.
 >
 > **[1:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=91)** Ansible includes many modules supporting services on the world's most popular cloud platforms.
 >
-> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=96)** Ansible has modules for compute instances, cloud storage, and modules for networking which allow playbooks to directly provision these services.
+> **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=96)** Ansible has modules for compute instances, [[Cloud Storage]], and modules for networking which allow playbooks to directly provision these services.
 >
 > **[1:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-provisioning?u=76281980&t=103)** Ansible can even act as an orchestrator of other provisioning tools.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (11), cloud (5), data (2), [[Automation]] (2), [[Virtualization]] (2)
+> **Frameworks & Libraries:** [[Ansible]] (11), [[Configuration Management]] (1), [[IT Automation]] (1), [[Hardware]] (1), [[Cloud Storage]] (1)
 > **CLI Commands:** ansible (11), make (1)
 > **Prerequisites:** configure (2)
 > **Speakers:** - provisioning (1)
 
-#### About configuration management
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980)
+#### [About configuration management](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980&t=0)** - [Instructor] Perhaps the most common use for Ansible is configuration management.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980&t=0)** - [Instructor] Perhaps the most common use for [[Ansible]] is [[Configuration Management]].
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980&t=4)** With Ansible, we can manage a node's operating system configuration including installed packages, device configurations, users, groups, and so on.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980&t=4)** With Ansible, we can manage a node's operating [[System Configuration]] including installed packages, device configurations, users, groups, and so on.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-configuration-management?u=76281980&t=12)** Ansible configurations are simple data descriptions of your infrastructure in a human readable format, ensuring everyone can read and understand them.
 >
@@ -1854,14 +1835,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (12), node (2), [[Configuration Management]] (1), [[System Configuration]] (1), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (12), [[Configuration Management]] (1), [[System Configuration]] (1)
 > **CLI Commands:** ansible (12), node (2), ssh (2), sudo (1)
 > **Env Vars:** ssh (2)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### About app deployment
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980)
+#### [About app deployment](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1885,7 +1865,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=51)** Installation involves establishing some sort of installation procedure for executing the software.
 >
-> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=56)** This is the process that Ansible is designed for.
+> **[0:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=56)** This is the process that [[Ansible]] is designed for.
 >
 > **[0:58](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=58)** Not only can we define a state in which the software is installed on target hosts, but we can also start it and activate it.
 >
@@ -1901,7 +1881,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=94)** This may require a degree of reconfiguration, depending on the application.
 >
-> **[1:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=98)** Application deployment is a vital part of software development.
+> **[1:38](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=98)** Application deployment is a vital part of [[Software Development]].
 >
 > **[1:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=102)** In the development process, we might have a development environment, and, as our application's being developed, it will be deployed to this environment.
 >
@@ -1915,9 +1895,9 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=129)** For instance, it may look like this.
 >
-> **[2:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=131)** Run create table definition SQL scripts, it gets the database on a database server.
+> **[2:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=131)** Run create table definition [[SQL]] scripts, it gets the database on a database server.
 >
-> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=136)** Configure Java database connectivity to the application server.
+> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=136)** Configure [[Java Database Connectivity (JDBC)|Java database connectivity]] to the application server.
 >
 > **[2:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=140)** Then, configure HTTP ports and virtual hosts in the application servers, so the application is reachable.
 >
@@ -1927,15 +1907,15 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=156)** Configure the web server so certain requests are routed to the application server.
 >
-> **[2:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=160)** Place static HTML content on the web server.
+> **[2:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=160)** Place static [[HTML]] content on the web server.
 >
-> **[2:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=163)** Restart or reload the web server configuration.
+> **[2:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=163)** Restart or reload the web [[Server Configuration]].
 >
 > **[2:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=166)** And, lastly, configure the outside firewall to allow access from desired users.
 >
 > **[2:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=171)** In the past, this would have been an all-day job to set this up.
 >
-> **[2:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=174)** Now, using IT automation, it can be at the push of a button.
+> **[2:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=174)** Now, using [[IT Automation]], it can be at the push of a button.
 >
 > **[2:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-app-deployment?u=76281980&t=177)** Remember the Ansible playbook.
 >
@@ -1947,7 +1927,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (20), web (4), [[Ansible]] (2), database (2), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (2), [[Software Development]] (1), [[SQL]] (1), [[Java Database Connectivity (JDBC)|Java database connectivity]] (1), [[HTML]] (1)
 > **Prerequisites:** configure (5), required to (1), install (1)
 > **CLI Commands:** ansible (2), make (1)
 > **Env Vars:** sql (1), http (1), html (1)
@@ -1955,8 +1935,7 @@ created: 2026-05-02
 > **Analogies:** such as (1), for instance (1)
 > **Speakers:** - application (1)
 
-#### About orchestration
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980)
+#### [About orchestration](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1982,7 +1961,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=54)** In the case of IT orchestration, it's similar.
 >
-> **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=57)** Symbolizing instruments, we have front-end and back-end services, databases, monitoring services, networks and storage.
+> **[0:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=57)** Symbolizing instruments, we have front-end and back-end services, [[Databases]], monitoring services, networks and storage.
 >
 > **[1:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=64)** All of these systems play different roles, have different configurations and perhaps require different methods of deployment.
 >
@@ -2002,11 +1981,11 @@ created: 2026-05-02
 >
 > **[1:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=102)** Many systems such as OpenStack's Heat, Amazon's CloudFormations or Docker's Swarm are designed to orchestrate their respective environments.
 >
-> **[1:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=111)** However, it may be beneficial to have a central tool such as Ansible that can orchestrate these systems using one common language and configuration type, as well as manage other systems not related to the cloud.
+> **[1:51](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/about-orchestration?u=76281980&t=111)** However, it may be beneficial to have a central tool such as [[Ansible]] that can orchestrate these systems using one common language and configuration type, as well as manage other systems not related to the cloud.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Orchestration]] (8), cloud (2), management (1), database (1), application (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Ansible]] (1)
 > **Analogies:** such as (3), just like (1), for example (1)
 > **CLI Commands:** docker (1), ansible (1)
 > **Warnings:** note that (1)
@@ -2017,16 +1996,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Host requirements
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980)
+#### [Host requirements](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=0)** - [Instructor] Before installing Ansible Engine we need to discuss some host requirements.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=0)** - [Instructor] Before installing [[Ansible]] Engine we need to discuss some host requirements.
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=4)** For the Control Node, Ansible supports running in any machine that has Python 2 or Python 3 installed running Red Hat or clones, Debian, MacOS, any of the BDS's, or other UNIX-like operating systems.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=4)** For the Control Node, Ansible supports running in any machine that has [[Python (Programming Language)|Python]] 2 or Python 3 installed running Red Hat or clones, Debian, MacOS, any of the BDS's, or other UNIX-like operating systems.
 >
-> **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=16)** Ansible does not support Windows Control Nodes.
+> **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=16)** Ansible does not support [[Windows]] Control Nodes.
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=19)** The best practice is to have the Control Node near the nodes that it will be managing.
 >
@@ -2044,7 +2022,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=45)** Note that certain Ansible plug ins may have additional requirements.
 >
-> **[0:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=50)** Red Hat officially supports using Ansible on managed nodes, including Red Hat Enterprise Linux 6.3 and newer, Ubuntu 14.04 and newer, 64 bit only, Windows server 2008, 2012, 2016, and 2019 and network device operating systems such as Arista EOS, Cisco IOS, Juniper's Junos OS, and others.
+> **[0:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=50)** Red Hat officially supports using Ansible on managed nodes, including Red Hat Enterprise [[Linux]] 6.3 and newer, [[Ubuntu]] 14.04 and newer, 64 bit only, [[Windows Server]] 2008, 2012, 2016, and 2019 and network device operating systems such as Arista EOS, Cisco IOS, Juniper's Junos OS, and others.
 >
 > **[1:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=74)** In addition, there's unofficial support for many other types of Linux and Unix such as CentOS, Suse, Solaris, MacOS, and AIX.
 >
@@ -2060,7 +2038,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=116)** Ansible also manages Windows nodes.
 >
-> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=119)** For Windows nodes, native Powershell Remoting supported by the WS-management protocol is used instead of SSH.
+> **[1:59](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=119)** For Windows nodes, native [[Powershell]] Remoting supported by the WS-management protocol is used instead of SSH.
 >
 > **[2:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/host-requirements?u=76281980&t=125)** Lastly, neither Ansible's raw module or script module require Python to be installed.
 >
@@ -2070,7 +2048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Ansible]] (9), node (5), [[Windows]] (3), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (11), [[Ansible]] (9), [[Windows]] (3), [[Linux]] (3), [[Ubuntu]] (1)
 > **CLI Commands:** python (11), ansible (9), node (5), ssh (2)
 > **Env Vars:** ssh (2), bds (1), unix (1), eos (1), ios (1)
 > **Versions:** python 2 (3), python 3 (1), 6.3 (1), 14.04 (1), 2.5 (1)
@@ -2079,18 +2057,17 @@ created: 2026-05-02
 > **Best Practices:** best practice (1)
 > **Warnings:** note that (1)
 
-#### Install Ansible on the control node
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980)
+#### [Install Ansible on the control node](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=0)** - [Instructor] Ansible can be installed on the control node using one of three different methods.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=0)** - [Instructor] [[Ansible]] can be installed on the control node using one of three different methods.
 >
-> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=4)** Using the Operating System package manager, using pip, the Python package manager, or by source code.
+> **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=4)** Using the Operating System package manager, using pip, the [[Python (Programming Language)|Python]] package manager, or by source code.
 >
 > **[0:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=12)** For this course, we'll be installing Ansible using the YUM package manager, which comes with CentOS.
 >
-> **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=17)** If you're using Red Hat Enterprise Linux 8, you'll need to enable the ansible-2.8-for-rhel-8 repository.
+> **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=17)** If you're using Red Hat Enterprise [[Linux]] 8, you'll need to enable the ansible-2.8-for-rhel-8 repository.
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/install-ansible-on-the-control-node?u=76281980&t=24)** For Red Hat Enterprise Linux 7, enable the rhel-7-server-ansible repository.
 >
@@ -2182,7 +2159,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (19), [[Python (Programming Language)|Python]] (9), hit (9), node (4), [[Linux]] (3)
+> **Frameworks & Libraries:** [[Ansible]] (19), [[Python (Programming Language)|Python]] (9), [[Linux]] (3)
 > **CLI Commands:** ansible (19), python (9), sudo (7), yum (5), node (4)
 > **Prerequisites:** install (10), you'll need (3), set up (1)
 > **Tools:** bash (2), terminal (1), command line (1), zsh (1)
@@ -2191,8 +2168,7 @@ created: 2026-05-02
 > **Versions:** 2.8 (1), 192.168.3 (1)
 > **File Paths:** ansible.cfg (1)
 
-#### Prepare managed nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980)
+#### [Prepare managed nodes](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2230,13 +2206,13 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=77)** Since we saved the keys to the default location, the ssh-copy-id command knew where to find them.
 >
-> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=83)** Now, we'll test our ability to communicate with rhhost2 by using the Ansible ping ad-hoc command.
+> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=83)** Now, we'll test our ability to communicate with rhhost2 by using the [[Ansible]] ping ad-hoc command.
 >
 > **[1:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=89)** Type in clear, and then type in, ansible -m ping all, and hit Enter.
 >
 > **[1:36](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=96)** If we're able to communicate with rhhost2, we'll see it in the output.
 >
-> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=99)** To send any regular Linux commands to rhhost2, we can us the -a option.
+> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=99)** To send any regular [[Linux]] commands to rhhost2, we can us the -a option.
 >
 > **[1:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/prepare-managed-nodes?u=76281980&t=103)** For instance, ansible -a "uptime" all,
 >
@@ -2244,7 +2220,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (9), [[Ansible]] (3), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (3), [[Linux]] (1)
 > **CLI Commands:** ssh (8), ansible (3), ls (1), find (1)
 > **Env Vars:** ssh (2), rsa (1)
 > **Code Identifiers:** id_rsa (2)
@@ -2253,12 +2229,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### View Ansible Documentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-documentation?u=76281980)
+#### [View Ansible Documentation](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-documentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-documentation?u=76281980&t=0)** - [Instructor] To read the official Ansible documentation point a web browser to docs.[ansible.com/ansible/latest](https://ansible.com/ansible/latest).
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-documentation?u=76281980&t=0)** - [Instructor] To read the official [[Ansible]] documentation point a web browser to docs.[ansible.com/ansible/latest](https://ansible.com/ansible/latest).
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-documentation?u=76281980&t=7)** This has some quickstart guides as well as documentation for modules and ad hoc commands.
 >
@@ -2304,7 +2279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (22), hit (3), data (3), web (1), prompt (1)
+> **Frameworks & Libraries:** [[Ansible]] (22)
 > **CLI Commands:** ansible (22)
 > **Env Vars:** http (1), api (1)
 > **Tools:** command prompt (1), command line (1)
@@ -2318,12 +2293,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build static inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980)
+#### [Build static inventory](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=0)** - [Instructor] Ansible works against multiple nodes or hosts at the same time.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=0)** - [Instructor] [[Ansible]] works against multiple nodes or hosts at the same time.
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=3)** This list of nodes is called an inventory and can be static or dynamic.
 >
@@ -2373,7 +2347,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=101)** When, such as development stage, test stage, or production stage.
 >
-> **[1:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=105)** Our previous YAML file already satisfies what in the case of web servers and db servers.
+> **[1:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=105)** Our previous YAML file already satisfies what in the case of [[Web Servers]] and db servers.
 >
 > **[1:50](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/build-static-inventory?u=76281980&t=110)** If we were to expand our YAML inventory file to include where and when, it would look like this.
 >
@@ -2461,7 +2435,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), web (4), hit (4), dns (1)
+> **Frameworks & Libraries:** [[Ansible]] (4), [[Web Servers]] (2)
 > **Env Vars:** ini (5), yaml (5), dns (1), ssh (1)
 > **CLI Commands:** ansible (4), ssh (1), make (1)
 > **Definitions:** is a  (3), is called (1)
@@ -2470,8 +2444,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1), note that (1)
 > **Versions:** 192.168.3 (1)
 
-#### Work with dynamic inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980)
+#### [Work with dynamic inventory](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,11 +2454,11 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=6)** You may also not manage the list of hosts in your network or it may not be available to you.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=11)** You may need to pull inventory from other sources like cloud providers, LDAP, and other management systems or databases.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=11)** You may need to pull inventory from other sources like cloud providers, LDAP, and other management systems or [[Databases]].
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=18)** Ansible handles dynamic inventory in one of two ways, inventory plugins and inventory scripts.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=18)** [[Ansible]] handles dynamic inventory in one of two ways, inventory plugins and inventory scripts.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=24)** Dynamic inventory plugins are part of Ansible and are written and maintained like the rest of the Ansible code.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=24)** Dynamic inventory plugins are part of Ansible and are written and maintained like the [[Representational State Transfer (REST)|rest]] of the Ansible code.
 >
 > **[0:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=30)** It's recommended to use plugins if there's one available for your inventory source.
 >
@@ -2493,7 +2466,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=39)** The second method is using inventory scripts.
 >
-> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=41)** Scripts are written in a general scripting language such as Python.
+> **[0:41](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=41)** Scripts are written in a general scripting language such as [[Python (Programming Language)|Python]].
 >
 > **[0:44](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=44)** Using a script involves putting a .ini file in the etc Ansible directories so Ansible knows where the dynamic inventory source is.
 >
@@ -2503,15 +2476,15 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=61)** Often, these scripts are written in Python and can be hundreds to thousands of lines long depending on how complex it is to get the inventory list.
 >
-> **[1:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=68)** There are scripts available for getting inventory from Cobbler, Amazon EC2, OpenStack, Zabbix, CloudStack, and many, many more.
+> **[1:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=68)** There are scripts available for getting inventory from Cobbler, [[Amazon EC2]], OpenStack, Zabbix, CloudStack, and many, many more.
 >
 > **[1:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=77)** We will not be going into how to create dynamic inventory scripts in this course, as it's beyond the scope.
 >
-> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=83)** However, if you'd like to see the source for the dynamic inventory scripts available, open a web browser and go to [github.com/ansible/ansible/tree/devel/contrib/inventory](https://github.com/ansible/ansible/tree/devel/contrib/inventory) and view them yourself.
+> **[1:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/work-with-dynamic-inventory?u=76281980&t=83)** However, if you'd like to see the source for the dynamic inventory scripts available, open a web browser and go to [[[GitHub]].com/ansible/ansible/tree/devel/contrib/inventory](https://github.com/ansible/ansible/tree/devel/contrib/inventory) and view them yourself.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (2), cloud (1), management (1), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (2), [[Databases]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[Amazon EC2]] (1)
 > **CLI Commands:** ansible (8), python (2)
 > **Env Vars:** ldap (1), ec2 (1)
 > **URLs:** [github.com](https://github.com) (1)
@@ -2520,12 +2493,11 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Best Practices:** recommended (1)
 
-#### Manage Ansible configuration files
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980)
+#### [Manage Ansible configuration files](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980&t=0)** - [Instructor] For most set ups, you will not need to change the Ansible configuration.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980&t=0)** - [Instructor] For most set ups, you will not need to change the [[Ansible]] configuration.
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-ansible-configuration-files?u=76281980&t=3)** However, it's good to know how Ansible's configured in case you need to change it in the future.
 >
@@ -2597,7 +2569,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (26), next (1), node (1), data (1), hit (1)
+> **Frameworks & Libraries:** [[Ansible]] (26)
 > **CLI Commands:** ansible (26), ssh (5), node (1)
 > **File Paths:** ansible.cfg (11)
 > **Env Vars:** ssh (5)
@@ -2610,12 +2582,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Introduction to ad-hoc commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980)
+#### [Introduction to ad-hoc commands](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=0)** - An ad-hoc command uses the ansible command line tool to automate a single task on one or more managed nodes.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=0)** - An ad-hoc command uses the [[Ansible]] command line tool to automate a single task on one or more managed nodes.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=6)** You can not reuse them like playbooks.
 >
@@ -2623,7 +2594,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=16)** Ad-hoc commands are for running tasks that you don't need to repeat.
 >
-> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=20)** For instance, if you wanted to reboot all web servers, you wouldn't want to create a playbook just for this one task.
+> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=20)** For instance, if you wanted to reboot all [[Web Servers]], you wouldn't want to create a playbook just for this one task.
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=25)** It's easier to send an ad-hoc command to all web servers telling them to reboot.
 >
@@ -2703,7 +2674,7 @@ created: 2026-05-02
 >
 > **[3:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=200)** As such, things might not work exactly the same, such as this exec line.
 >
-> **[3:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=205)** Although it may be tempting to use the command or shell modules to run Linux commands, it's usually better to use a module designed for the task at hand.
+> **[3:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=205)** Although it may be tempting to use the command or shell modules to run [[Linux]] commands, it's usually better to use a module designed for the task at hand.
 >
 > **[3:33](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/introduction-to-ad-hoc-commands?u=76281980&t=213)** For instance, to copy a file from one place to another on every host in the web servers group, you could use the copy module.
 >
@@ -2719,7 +2690,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (9), web (7), [[Orchestration]] (1), prompt (1), [[Linux]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (9), [[Web Servers]] (7), [[Linux]] (1)
 > **CLI Commands:** ansible (9), sudo (2), make (1), yum (1)
 > **Analogies:** for instance (3), such as (3), for example (1)
 > **Tools:** command line (2), bash (2)
@@ -2728,8 +2699,7 @@ created: 2026-05-02
 > **Warnings:** note that (1), be aware (1)
 > **Prerequisites:** you'll need (1), install (1)
 
-#### Targeting hosts with patterns
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980)
+#### [Targeting hosts with patterns](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2737,7 +2707,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=4)** For this, you'll use patterns.
 >
-> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=6)** An Ansible pattern can refer to a Single host, IP Address, and Inventory Group, a set of groups or all hosts in your inventory.
+> **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=6)** An [[Ansible]] pattern can refer to a Single host, IP Address, and Inventory Group, a set of groups or all hosts in your inventory.
 >
 > **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=14)** Patterns can be very flexible.
 >
@@ -2745,7 +2715,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=22)** For ad hoc commands, the pattern might look like this.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=24)** In this case, we're sending the reboot command to all hosts in the Ansible group web servers that we set up in our inventory.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=24)** In this case, we're sending the reboot command to all hosts in the Ansible group [[Web Servers]] that we set up in our inventory.
 >
 > **[0:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/targeting-hosts-with-patterns?u=76281980&t=30)** For our setup, this happens to be the rhhost TVM The same thing in a playbook looks like this, we put the pattern after the host keyword.
 >
@@ -2777,7 +2747,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), web (10)
+> **Frameworks & Libraries:** [[Ansible]] (10), [[Web Servers]] (9)
 > **CLI Commands:** ansible (10)
 > **Analogies:** such as (6), for instance (1)
 > **Prerequisites:** set up (1), setup (1)
@@ -2785,8 +2755,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - when (1)
 
-#### Manage files and packages
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980)
+#### [Manage files and packages](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2796,13 +2765,13 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=8)** And you should be logged in to your rhhost1 VM with a terminal open.
 >
-> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=11)** At any point during these exercises, you can switch over to your rhhost2 VM and verify the results using standard Linux command line tools.
+> **[0:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=11)** At any point during these exercises, you can switch over to your rhhost2 VM and verify the results using standard [[Linux]] command line tools.
 >
 > **[0:19](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=19)** Let's start by creating an empty directory using the file module.
 >
 > **[0:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=22)** This is similar to touching a file on the command line.
 >
-> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=24)** On rhhost1 type ansible rhhost2* -m file for the file module.
+> **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=24)** On rhhost1 type [[Ansible]] rhhost2* -m file for the file module.
 >
 > **[0:32](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=32)** And for arguments type
 >
@@ -2824,7 +2793,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=84)** content='stuff' force=no mode=700" and hit enter.
 >
-> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=99)** In this case, we're including the word stuff in the file.
+> **[1:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=99)** In this case, we're including the [[Microsoft Word|word]] stuff in the file.
 >
 > **[1:42](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=102)** Note, that if you include the single quotes without content between them, it will create an empty file.
 >
@@ -2842,7 +2811,7 @@ created: 2026-05-02
 >
 > **[2:11](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=131)** Using the file module with force=no is good for creating new files but not overwriting existing files.
 >
-> **[2:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=138)** Also, since we're not changing metadata, the file won't change.
+> **[2:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=138)** Also, since we're not changing [[Metadata]], the file won't change.
 >
 > **[2:21](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=141)** And it won't register as changed in your logging software.
 >
@@ -2916,11 +2885,11 @@ created: 2026-05-02
 >
 > **[5:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=320)** See the Ansible documentation.
 >
-> **[5:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=322)** Note that different managed hosts may require different package modules, based on their package management systems.
+> **[5:22](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-files-and-packages?u=76281980&t=322)** Note that different managed hosts may require different package modules, based on their [[Package Management]] systems.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (7), [[Ansible]] (6), node (1), [[Linux]] (1), data (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Linux]] (1), [[Microsoft Word|Word]] (1), [[Metadata]] (1), [[Package Management]] (1)
 > **CLI Commands:** yum (8), ansible (6), chown (2), node (1), apache (1)
 > **Speakers:** - a (4), - for (1)
 > **File Paths:** path-/home/user1/file2.txt (1), home/user1/file3.txt (1), home/user1/file2.txt (1), file2.txt (1)
@@ -2929,12 +2898,11 @@ created: 2026-05-02
 > **Prerequisites:** install (2), you'll need (1)
 > **Warnings:** note that (2)
 
-#### Restart servers and services
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/restart-servers-and-services?u=76281980)
+#### [Restart servers and services](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/restart-servers-and-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/restart-servers-and-services?u=76281980&t=0)** - [Instructor] Using Ansible, we can manage the running state of another host as well as its services.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/restart-servers-and-services?u=76281980&t=0)** - [Instructor] Using [[Ansible]], we can manage the running state of another host as well as its services.
 >
 > **[0:05](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/restart-servers-and-services?u=76281980&t=5)** Let's start by managing our httpd service on RHHOST2.
 >
@@ -3028,7 +2996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (4), hit (4), prompt (1), node (1)
+> **Frameworks & Libraries:** [[Ansible]] (4)
 > **Env Vars:** rhhost2 (6), ctl (3), rhhost1 (1), sbin (1), rhhost (1)
 > **CLI Commands:** ansible (4), make (1), node (1)
 > **Prerequisites:** you'll need (2)
@@ -3037,8 +3005,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Manage users
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980)
+#### [Manage users](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3050,7 +3017,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=13)** We can manage users with ad hoc commands.
 >
-> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=15)** For instance, to create a user named user2, type in ansible, space rhhost2*, space -m, space user for the user module, space -a and for arguments space 'name=user2, space, state=present space home=/home/user2, space shell=/bin/bash, 'space -b space -K and hit Enter.
+> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=15)** For instance, to create a user named user2, type in [[Ansible]], space rhhost2*, space -m, space user for the user module, space -a and for arguments space 'name=user2, space, state=present space home=/home/user2, space shell=/bin/bash, 'space -b space -K and hit Enter.
 >
 > **[0:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=48)** Then enter your password.
 >
@@ -3080,9 +3047,9 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=128)** First, you need to know the encoding methods such as MD5 or SHA-512.
 >
-> **[2:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=132)** Most Linux passwords are now SHA-512, so we'll focus on that.
+> **[2:12](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=132)** Most [[Linux]] passwords are now SHA-512, so we'll focus on that.
 >
-> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=136)** You can create the encoded password with the Python language or some other commands.
+> **[2:16](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=136)** You can create the encoded password with the [[Python (Programming Language)|Python]] language or some other commands.
 >
 > **[2:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-users?u=76281980&t=140)** The command we'll use is included with a Dovecot email server.
 >
@@ -3116,7 +3083,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (8), [[Ansible]] (5), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (5), [[Linux]] (1), [[Python (Programming Language)|Python]] (1)
 > **CLI Commands:** ansible (5), python (1), sudo (1), yum (1)
 > **Env Vars:** sha (4), md5 (1), sha512 (1), crypt (1)
 > **Definitions:** is a  (2)
@@ -3125,8 +3092,7 @@ created: 2026-05-02
 > **Speakers:** - [instructor] (1), - crypt (1)
 > **Tools:** bash (1)
 
-#### Gather data
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980)
+#### [Gather data](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3134,11 +3100,11 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=8)** We'll start with the setup module.
 >
-> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=9)** The setup module gathers facts about the host listed in ansible's inventory.
+> **[0:09](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=9)** The setup module gathers facts about the host listed in [[Ansible]]'s inventory.
 >
 > **[0:14](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=14)** Other modules often call the set up module to gather the information they need.
 >
-> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=18)** This module also supports Windows Targets.
+> **[0:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=18)** This module also supports [[Windows]] Targets.
 >
 > **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=20)** Let's get started by running the set up module against our RH host 2VM.
 >
@@ -3150,7 +3116,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=40)** For instance, to retrieve the network facts would bring our line back and append base dash A space single quote, gather underscore subset equals network single quote and hit enter.
 >
-> **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=54)** We can use the gather subset argument to retrieve facts for all areas, minimum, hardware, network, virtual and facter.
+> **[0:54](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=54)** We can use the gather subset argument to retrieve facts for all areas, minimum, [[Hardware]], network, virtual and facter.
 >
 > **[1:02](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=62)** If you want to specify more than one area, separate them with commas.
 >
@@ -3194,7 +3160,7 @@ created: 2026-05-02
 >
 > **[2:57](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=177)** This will place all facts in the slash tmp slash facts directory.
 >
-> **[3:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=181)** There are a lot of uses for a json file, but if you want to view it in a nicer interface, we can use Firefox.
+> **[3:01](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=181)** There are a lot of uses for a [[JSON]] file, but if you want to view it in a nicer interface, we can use Firefox.
 >
 > **[3:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/gather-data?u=76281980&t=187)** Let's see the end of the directory first.
 >
@@ -3220,7 +3186,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (11), [[Ansible]] (6), [[Hardware]] (6), [[JSON]] (4), power (1)
+> **Frameworks & Libraries:** [[Ansible]] (6), [[Hardware]] (6), [[JSON]] (4), [[Windows]] (1)
 > **CLI Commands:** ansible (6), cd (1), ls (1), mv (1)
 > **Prerequisites:** setup (4), set up (2)
 > **Tools:** firefox (4), terminal (1)
@@ -3234,16 +3200,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Manage connection methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980)
+#### [Manage connection methods](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=0)** - [Instructor] By default, Ansible uses OpenSSH to connect to its host in its inventory list.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=0)** - [Instructor] By default, [[Ansible]] uses OpenSSH to connect to its host in its inventory list.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=6)** OpenSSH, developed by the OpenBSD project, supports ControlPersist, Kerberos, and options in the ~/.ssh/config file.
 >
-> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=15)** If OpenSSH is not available, Ansible falls back to paramiko, which is a Python implementation of OpenSSH.
+> **[0:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=15)** If OpenSSH is not available, Ansible falls back to paramiko, which is a [[Python (Programming Language)|Python]] implementation of OpenSSH.
 >
 > **[0:23](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=23)** Earlier in this course, we created a passwordless SSH key pair using the ssh-keygen command and then copied the public key to rhhost2 using the ssh-copy-id command.
 >
@@ -3289,7 +3254,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=135)** There are other non SSH communication methods such as local, which we used to deploy playbooks on the control host itself, docker which deploys a playbook into a docker container in a docker client.
 >
-> **[2:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=145)** Kuberctl for running playbooks and Kubernetes pods.
+> **[2:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=145)** Kuberctl for running playbooks and [[Kubernetes]] pods.
 >
 > **[2:29](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/manage-connection-methods?u=76281980&t=149)** Vmware_tools to execute playbooks inside of VMware VMs.
 >
@@ -3301,7 +3266,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (1), database (1), [[Kubernetes]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (8), [[Python (Programming Language)|Python]] (1), [[Kubernetes]] (1)
 > **CLI Commands:** ssh (14), ansible (8), docker (3), python (1), sudo (1)
 > **Env Vars:** ssh (9)
 > **Code Identifiers:** ansible_ssh_private_key_file (1), known_hosts (1), host_key_checking (1)
@@ -3310,12 +3275,11 @@ created: 2026-05-02
 > **Cross-References:** earlier in (1)
 > **Tools:** bash (1)
 
-#### Use the Ansible command
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-command?u=76281980)
+#### [Use the Ansible command](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-command?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-command?u=76281980&t=0)** - [Narrator] The Ansible command is said to be an extra simple tool for doing remote things according to the documentation.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-command?u=76281980&t=0)** - [Narrator] The [[Ansible]] command is said to be an extra simple tool for doing remote things according to the documentation.
 >
 > **[0:06](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-command?u=76281980&t=6)** This command allows you to define and run a single task playbook against a set of hosts.
 >
@@ -3355,12 +3319,11 @@ created: 2026-05-02
 > **Documentation:** the documentation (1), man page (1)
 > **File Paths:** ansible.cfg (1)
 
-#### View Ansible configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-configuration?u=76281980)
+#### [View Ansible configuration](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-configuration?u=76281980&t=0)** - [Instructor] Ansible makes it easy to view the overall configuration.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-configuration?u=76281980&t=0)** - [Instructor] [[Ansible]] makes it easy to view the overall configuration.
 >
 > **[0:03](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/view-ansible-configuration?u=76281980&t=3)** This includes the results of the various ansible.cfg files and environment variables.
 >
@@ -3396,18 +3359,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (10), hit (4)
+> **Frameworks & Libraries:** [[Ansible]] (10)
 > **CLI Commands:** ansible (10)
 > **File Paths:** ansible.cfg (4)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Use the Ansible console
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980)
+#### [Use the Ansible console](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=0)** - [Instructor] A very odd tool included with Ansible is Ansible Console.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=0)** - [Instructor] A very odd tool included with [[Ansible]] is Ansible Console.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=4)** It's odd in that Ansible's designed to be a stateful system where it's concerned mainly about the state of the configuration it's in.
 >
@@ -3425,7 +3387,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=35)** Enter the sudo password of user1 rhost1 when prompted.
 >
-> **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=39)** If you want to target an Ansible group such as web servers we actually cd into it like it were a directory.
+> **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=39)** If you want to target an Ansible group such as [[Web Servers]] we actually cd into it like it were a directory.
 >
 > **[0:46](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/use-the-ansible-console?u=76281980&t=46)** Type in cd space webservers and hit enter.
 >
@@ -3457,19 +3419,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (7), hit (3), cd (2), web (1)
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Web Servers]] (1)
 > **CLI Commands:** ansible (7), cd (2), sudo (1), yum (1)
 > **Prerequisites:** install (3)
 > **Analogies:** such as (1), for instance (1)
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Show Ansible inventory
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980)
+#### [Show Ansible inventory](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=0)** - [Instructor] If we have a simple setup it's very easy to count the /etc/ansible/host file to get a list of our inventory.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=0)** - [Instructor] If we have a simple setup it's very easy to count the /etc/[[Ansible]]/host file to get a list of our inventory.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=7)** However, as your system grows, this will no longer be a good option.
 >
@@ -3483,7 +3444,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=25)** In a terminal type in ansible-inventory space --list and hit enter.
 >
-> **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=31)** Here we can see a JSON file listing all hosts, both of our Ansible groups named dbservers and webservers and the ungrouped group.
+> **[0:31](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=31)** Here we can see a [[JSON]] file listing all hosts, both of our Ansible groups named dbservers and webservers and the ungrouped group.
 >
 > **[0:39](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/show-ansible-inventory?u=76281980&t=39)** If you want information on one specific host you can use the --host argument.
 >
@@ -3527,7 +3488,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Ansible]] (8), [[JSON]] (6), hit (5)
+> **Frameworks & Libraries:** [[Ansible]] (8), [[JSON]] (6)
 > **CLI Commands:** ansible (8)
 > **Env Vars:** json (3), yaml (1)
 > **Tools:** firefox (3), terminal (1)
@@ -3536,12 +3497,11 @@ created: 2026-05-02
 > **URLs:** [localnet.com](https://localnet.com) (1)
 > **Prerequisites:** setup (1)
 
-#### Run Ansible playbooks
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980)
+#### [Run Ansible playbooks](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=0)** - [Instructor] Most often when we manage infrastructure with Ansible, we'll using playbooks.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=0)** - [Instructor] Most often when we manage infrastructure with [[Ansible]], we'll using playbooks.
 >
 > **[0:04](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=4)** For more in-depth information on Ansible playbooks, see the other two EX294 courses.
 >
@@ -3579,7 +3539,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=78)** Since we're installing the Apache web server, we'll install in all managed notes in the web service group.
 >
-> **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=84)** Type in host: web servers and hit Enter.
+> **[1:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=84)** Type in host: [[Web Servers]] and hit Enter.
 >
 > **[1:30](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=90)** To install software, we need to become root.
 >
@@ -3657,7 +3617,7 @@ created: 2026-05-02
 >
 > **[3:43](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=223)** This is the beginning of Ansible playbooks.
 >
-> **[3:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=225)** We could extend this by having it copy over an index.HTML file.
+> **[3:45](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=225)** We could extend this by having it copy over an index.[[HTML]] file.
 >
 > **[3:48](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/run-ansible-playbooks?u=76281980&t=228)** We could have it configure the firewall on the web service so that Port 80 was open and a lot more.
 >
@@ -3667,7 +3627,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (17), [[Ansible]] (7), web (4), cd (2), [[HTML]] (1)
+> **Frameworks & Libraries:** [[Ansible]] (7), [[Web Servers]] (1), [[HTML]] (1)
 > **CLI Commands:** apache (8), ansible (7), make (3), cd (2), yum (2)
 > **Prerequisites:** install (3), set up (1), configure (1)
 > **Env Vars:** yml (2), ex294 (1), html (1)
@@ -3681,12 +3641,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=0)** - [Grant] This is the first course in a three course series on Ansible Engine for the Red Hat EX294 certification.
+> **[0:00](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=0)** - [Grant] This is the first course in a three course series on [[Ansible]] Engine for the Red Hat EX294 certification.
 >
 > **[0:07](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=7)** In this course, we covered installing Ansible Engine, and configuring communication with the managed host.
 >
@@ -3694,7 +3653,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=17)** We ended with dipping our toe into creating an Ansible playbook.
 >
-> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=20)** This is just the beginning for this series on using Ansible for IT automation.
+> **[0:20](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=20)** This is just the beginning for this series on using Ansible for [[IT Automation]].
 >
 > **[0:24](https://www.linkedin.com/learning/red-hat-certified-engineer-ex294-cert-prep-1-foundations-of-ansible/next-steps?u=76281980&t=24)** Before attempting to take the exam, you'll want to watch the other two courses on using Ansible playbooks and managing systems using Ansible.
 >

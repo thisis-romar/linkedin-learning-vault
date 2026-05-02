@@ -96,14 +96,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The power of knowledge graphs in data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
+#### [The power of knowledge graphs in data engineering](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=0)** - LLMs and knowledge graphs together enable more accurate context-aware AI.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=0)** - LLMs and [[Knowledge Graphs]] together enable more accurate context-aware AI.
 >
-> **[0:05](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=5)** But if you're new to knowledge graphs, or KGs, translating relational or unstructured data into these network models can be a bit overwhelming.
+> **[0:05](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=5)** But if you're new to knowledge graphs, or KGs, translating relational or [[Unstructured Data]] into these network models can be a bit overwhelming.
 >
 > **[0:15](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=15)** This course is designed for beginners, offering no-code options so anyone can dive in.
 >
@@ -111,18 +110,17 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=31)** I'm Dr. Ashleigh Faith, and you might know me from my YouTube channel where I teach on these topics.
 >
-> **[0:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=37)** With over 15 years in corporate roles focusing on semantics, knowledge graph and search, I manage knowledge data engineering teams with some of the world's largest and most specialized LLM and KG systems.
+> **[0:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=37)** With over 15 years in corporate roles focusing on semantics, knowledge graph and search, I manage knowledge [[Data Engineering]] teams with some of the world's largest and most specialized LLM and KG systems.
 >
 > **[0:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/the-power-of-knowledge-graphs-in-data-engineering?u=76281980&t=51)** Whether you're curious about knowledge data engineering or want to see how AI can help design your KGs, this course is the perfect place to start.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Knowledge Graphs]] (2), [[Data Engineering]] (2), [[Unstructured Data]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (2), [[Data Engineering]] (2), [[Unstructured Data]] (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - llms (1)
 
-#### What you need to know for the course
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980)
+#### [What you need to know for the course](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -132,9 +130,9 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=16)** This data is primarily focused on customer data and customer behavior, like product purchases and tours.
 >
-> **[0:23](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=23)** While there are many different approaches to data engineering in the graph and AI space, we'll focus on doing the extract, transform, and load, or ETL functionality, into a graph database.
+> **[0:23](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=23)** While there are many different approaches to [[Data Engineering]] in the graph and AI space, we'll focus on doing the extract, transform, and load, or ETL functionality, into a graph database.
 >
-> **[0:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=34)** Most graph databases have data engineering and ETL features, but you can also use your existing ETL tools or use programmatic approaches, like Apache Spark, Stream Sets, or your typical ETL Python packages.
+> **[0:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=34)** Most graph [[Databases]] have data engineering and ETL features, but you can also use your existing ETL tools or use programmatic approaches, like [[Apache Spark]], Stream Sets, or your typical ETL [[Python (Programming Language)|Python]] packages.
 >
 > **[0:49](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=49)** I wanted to make this course as low code as possible, so more folks get exposure to how graph and data engineering work together.
 >
@@ -152,13 +150,13 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=92)** We will go over other tools, and how to select which is right for you later in the course.
 >
-> **[1:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=97)** Lastly, there will be exercise files for example data models and data sets, and more course materials that will guide you through the rest of this course.
+> **[1:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=97)** Lastly, there will be exercise files for example data models and data sets, and more course materials that will guide you through the [[Representational State Transfer (REST)|rest]] of this course.
 >
 > **[1:46](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-you-need-to-know-for-the-course?u=76281980&t=106)** So now that we have our logistics, let's dive into what is data engineering in the semantic AI space.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Data Engineering]] (5), etl (5), ai (4), product (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (5), [[Databases]] (1), [[Apache Spark]] (1), [[Python (Programming Language)|Python]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** etl (5)
 > **CLI Commands:** apache (1), python (1), make (1)
 > **Cross-References:** later in (1)
@@ -171,12 +169,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is data engineering?
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
+#### [What is data engineering?](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=0)** - [Instructor] Let's kick this off with what is data engineering.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=0)** - [Instructor] Let's kick this off with what is [[Data Engineering]].
 >
 > **[0:04](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=4)** Data engineering is when you are taking information from a raw data source, creating a roadmap or blueprint for how the data should load into your systems, and what in this data needs cleaning, interpreting, merging, or other value adds to make it useful for your needs.
 >
@@ -188,7 +185,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=52)** That's where a lot of the semantics resides.
 >
-> **[0:54](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=54)** There are two types of knowledge graphs, property graphs and resource description framework or RDF-based graphs.
+> **[0:54](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=54)** There are two types of [[Knowledge Graphs]], property graphs and resource description framework or RDF-based graphs.
 >
 > **[1:02](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=62)** In this course, we will use an RDF approach because we will use inferencing across the graph to help our AI query be more accurate and contextually relevant to our business.
 >
@@ -214,25 +211,24 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=187)** This video gives you a working definition of data engineering for the knowledge graph space.
 >
-> **[3:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=192)** Make sure to explore the LinkedIn Learning Library for a deeper dive into ETL and data engineering for non-semantic use cases if you would like to expand your data engineering knowledge.
+> **[3:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=192)** Make sure to explore the [[LinkedIn]] Learning Library for a deeper dive into ETL and data engineering for non-semantic use cases if you would like to expand your data engineering knowledge.
 >
 > **[3:24](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-is-data-engineering?u=76281980&t=204)** For now, let's review the main knowledge engineering aspects we will cover in this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Data Engineering]] (6), business (4), rag (4), etl (3)
+> **Frameworks & Libraries:** [[Data Engineering]] (6), [[Knowledge Graphs]] (1), [[LinkedIn]] (1)
 > **Env Vars:** rag (4), etl (3), rdf (2)
 > **CLI Commands:** make (2)
 > **Definitions:** is called (1), is a  (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Aspects of data engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980)
+#### [Aspects of data engineering](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=0)** - [Instructor] Data engineering always starts with gathering data and governance requirements for the use case, as well as understanding what can be reused from your current data and architecture capabilities.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=0)** - [Instructor] [[Data Engineering]] always starts with gathering data and governance requirements for the use case, as well as understanding what can be reused from your current data and architecture capabilities.
 >
 > **[0:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=12)** We will go over this first, starting in Chapter 2, and then walk through the other aspects of data engineering throughout this course.
 >
@@ -244,7 +240,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=45)** We will be focusing on semantic data models in this course.
 >
-> **[0:50](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=50)** Then, we will move to the fourth step and go through the various parts of transforming the data, the tools to use and documenting decisions for data management and downstream applications.
+> **[0:50](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=50)** Then, we will move to the fourth step and go through the various parts of transforming the data, the tools to use and documenting decisions for [[Data Management]] and downstream applications.
 >
 > **[1:02](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/aspects-of-data-engineering?u=76281980&t=62)** Finally, we'll finish up with the fifth step and review the architecture and load specific data into our data model to test how the AI can query the graph.
 >
@@ -252,11 +248,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Data Engineering]] (2), ai (2), management (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (2), [[Data Management]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Importance of data engineering for semantic AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980)
+#### [Importance of data engineering for semantic AI](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -264,7 +259,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=8)** Here you can see that without context, you may think that the current actress Anne Hathaway, is the spouse of William Shakespeare, but she's not.
 >
-> **[0:18](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=18)** This is why context is so important and knowledge graphs are naturally built to house semantics.
+> **[0:18](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=18)** This is why context is so important and [[Knowledge Graphs]] are naturally built to house semantics.
 >
 > **[0:27](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=27)** AI can use a knowledge graph to query and retrieve statements or triples associated with the entities in the AI query.
 >
@@ -272,7 +267,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=44)** This is done in the retrieval augmented generation or RAG process, and it doesn't have to just be a knowledge graph.
 >
-> **[0:52](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=52)** You can also use your vector databases and your traditional databases in this same RAG process.
+> **[0:52](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=52)** You can also use your [[Vector Databases]] and your traditional [[Databases]] in this same RAG process.
 >
 > **[0:59](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/importance-of-data-engineering-for-semantic-ai?u=76281980&t=59)** Knowledge graphs can also be used to direct an AI in the procedure and steps in technical or business-defined sequences of events for better accuracy of event-based flows.
 >
@@ -286,12 +281,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (9), [[Knowledge Graphs]] (3), data (3), rag (2), application (1)
+> **Frameworks & Libraries:** [[Knowledge Graphs]] (3), [[Vector Databases]] (1), [[Databases]] (1)
 > **Env Vars:** rag (2)
 > **Speakers:** - [instructor] (1)
 
-#### Use case: Two Trees Olive Oil
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980)
+#### [Use case: Two Trees Olive Oil](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,7 +295,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980&t=19)** Those data sets might need a lot more engineering than what we're going to go over in this course.
 >
-> **[0:25](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980&t=25)** But just keep in mind that this is giving you the stepping stones to get to the larger goal of being a data engineering pro.
+> **[0:25](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980&t=25)** But just keep in mind that this is giving you the stepping stones to get to the larger goal of being a [[Data Engineering]] pro.
 >
 > **[0:33](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/use-case-two-trees-olive-oil?u=76281980&t=33)** For our example data, we are working with the Two Trees Olive Oil company, or TTOO for short.
 >
@@ -325,7 +319,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (11), [[Engineering]] (2), [[Data Engineering]] (1), business (1)
+> **Frameworks & Libraries:** [[Data Engineering]] (1)
 > **CLI Commands:** make (4), find (1)
 > **Env Vars:** ttoo (2)
 > **Warnings:** keep in mind (2)
@@ -337,14 +331,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What data do you need?
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
+#### [What data do you need?](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=0)** - [Instructor] There's always a temptation to model everything you have in your database.
 >
-> **[0:05](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=5)** And you can see here, I've moved all of the database files into Google Drive so it's just easier for us to see.
+> **[0:05](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=5)** And you can see here, I've moved all of the database files into [[Google Drive]] so it's just easier for us to see.
 >
 > **[0:11](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=11)** So you'll see me popping in and out of Google Drive as we do this.
 >
@@ -354,7 +347,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=30)** Adding too much data all at once will slow your response time and can confuse the AI if you add unnecessary data in.
 >
-> **[0:38](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=38)** The beauty of knowledge graphs is, they are flexible models that can be expanded.
+> **[0:38](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=38)** The beauty of [[Knowledge Graphs]] is, they are flexible models that can be expanded.
 >
 > **[0:43](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=43)** That said, if you have to update the entity types or relationships in your model, there will be a lot of changes that have to go across the entire graph.
 >
@@ -366,7 +359,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=69)** So for instance, we don't necessarily need travel expenses, because remember, our use case is about sales and customer reviews.
 >
-> **[1:18](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=78)** But things like our customer info, customer list, products, maybe what the customer purchased, would be useful for our use case.
+> **[1:18](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=78)** But things like our customer info, customer list, [[Microsoft Products|products]], maybe what the customer purchased, would be useful for our use case.
 >
 > **[1:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=88)** We know we need data that is related to our customer and sales data, specifically targeted at trends that point to satisfaction and dissatisfaction.
 >
@@ -394,7 +387,7 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=162)** We're seeing what they have sent to us.
 >
-> **[2:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=164)** But it is a Word document, or in our case, a Google Doc.
+> **[2:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=164)** But it is a [[Microsoft Word|Word]] document, or in our case, a [[Google]] Doc.
 >
 > **[2:50](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-data-do-you-need?u=76281980&t=170)** If we had a lot of these and wanted to run AI over them during query time, we could add them to a vector or document database.
 >
@@ -406,7 +399,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), database (4), [[Google Drive]] (2), ai (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Products|Products]] (2), [[Knowledge Graphs]] (1), [[Microsoft Word|Word]] (1), [[Google]] (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** select the (1), go to (1)
 > **Cross-References:** in the next (1)
@@ -415,12 +408,11 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Warnings:** keep in mind (1)
 
-#### Where is the data?
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980)
+#### [Where is the data?](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=0)** - [Instructor] In our Two Trees Olive Oil case, we have access data from existing databases, but the data we have were exports and we saw that in our Google files, which is fine for setting up the model and surveying the data, but eventually you will need to get updates from the data sources.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=0)** - [Instructor] In our Two Trees Olive Oil case, we have access data from existing [[Databases]], but the data we have were exports and we saw that in our [[Google]] files, which is fine for setting up the model and surveying the data, but eventually you will need to get updates from the data sources.
 >
 > **[0:20](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=20)** Let's cover a couple common ways where you can locate the data that you need for when you go to production.
 >
@@ -428,11 +420,11 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=36)** This is used the most with event or transactional data that depends on the most up-to-date data for the AI to consult.
 >
-> **[0:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=44)** Batch processing is also common where near real-time data is not necessary.
+> **[0:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=44)** [[Batch Processing]] is also common where near [[Real-Time]] data is not necessary.
 >
 > **[0:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=51)** In this case, you can still use API or canned queries, or you can use a data dump, which is all the data is new each time, or delta loads, and that's when only changed data is loaded.
 >
-> **[1:04](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=64)** Both of these also can use APIs, but can take the form of a load or upload process where the original source of the data is pulled and the data is then loaded to a staging area like Amazon S3 or MongoDB.
+> **[1:04](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=64)** Both of these also can use APIs, but can take the form of a load or upload process where the original source of the data is pulled and the data is then loaded to a staging area like Amazon S3 or [[MongoDB]].
 >
 > **[1:21](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/where-is-the-data?u=76281980&t=81)** Making sure you can access the data where it natively lives is critical to your success.
 >
@@ -440,13 +432,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (17), api (2), [[Databases]] (1), [[Google]] (1), ai (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Google]] (1), [[Batch Processing]] (1), [[Real-Time]] (1), [[MongoDB]] (1)
 > **Env Vars:** api (2)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### What state is the data in?
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-state-is-the-data-in?u=76281980)
+#### [What state is the data in?](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/what-state-is-the-data-in?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -522,14 +513,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (15), product (4), database (1), next (1)
 > **CLI Commands:** make (8)
 > **Cross-References:** later in (2), next video (1)
 > **Env Vars:** ttoo (1)
 > **Speakers:** - to (1)
 
-#### Translating relational to graph data
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980)
+#### [Translating relational to graph data](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -549,7 +538,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=55)** Connecting nodes is done through two specific graph elements.
 >
-> **[0:59](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=59)** Attributes, which contain other nodes, such as State and are usually metadata associated with individual instances, or Properties.
+> **[0:59](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=59)** Attributes, which contain other nodes, such as State and are usually [[Metadata]] associated with individual instances, or Properties.
 >
 > **[1:11](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=71)** And these are the explicit relationships between tables or types of data.
 >
@@ -559,7 +548,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=95)** Not so good when you're using AI, which is already prone to hallucinations if its data is not high-quality, contextual, or has high enough data coverage.
 >
-> **[1:47](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=107)** This is why semantic relations native to knowledge graphs are so powerful for AI use cases.
+> **[1:47](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=107)** This is why semantic relations native to [[Knowledge Graphs]] are so powerful for AI use cases.
 >
 > **[1:55](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/translating-relational-to-graph-data?u=76281980&t=115)** To tell the difference: An attribute is metadata about the entity, whereas a property or relation is how two entities, or an entity and a string value, are related.
 >
@@ -569,7 +558,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (2), node (2), [[Metadata]] (2), ai (2)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[Knowledge Graphs]] (1)
 > **CLI Commands:** node (2), make (1)
 > **Definitions:** is an  (2), is a  (1)
 > **Analogies:** for instance (1), such as (1)
@@ -582,8 +571,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating your design document
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
+#### [Creating your design document](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -607,7 +595,7 @@ created: 2026-05-02
 >
 > **[1:18](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=78)** So now we have our source data and limitations with their examples from the data source all listed out.
 >
-> **[1:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=88)** You can also list sections of your model that exist that have a similar pattern, and this could be in other data sets and other databases.
+> **[1:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=88)** You can also list sections of your model that exist that have a similar pattern, and this could be in other data sets and other [[Databases]].
 >
 > **[1:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=96)** Any expected query patterns and we will add in some of the queries we expect to have from our sales folks and expected consumers of this data if you have that.
 >
@@ -625,7 +613,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=151)** We will walk through and modify this as we test the ETL later on.
 >
-> **[2:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=157)** For now, our rough sketch is that customers purchase products and they have experiences related to their purchase.
+> **[2:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=157)** For now, our rough sketch is that customers purchase [[Microsoft Products|products]] and they have experiences related to their purchase.
 >
 > **[2:46](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/creating-your-design-document?u=76281980&t=166)** And remember each of these is represented by an ID.
 >
@@ -695,28 +683,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), product (4), etl (3), node (3), next (2)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (3), make (2)
 > **Env Vars:** etl (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Options for data modeling
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980)
+#### [Options for data modeling](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=0)** - [Instructor] Data modeling does not necessarily require large, monolithic ETL tool sets.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=0)** - [Instructor] [[Data Modeling]] does not necessarily require large, monolithic ETL tool sets.
 >
-> **[0:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=6)** While I would not necessarily suggest using an Excel sheet, although no shade if you are using that, document mappings and transformations usually go well with tool sets that are specific to that kind of work.
+> **[0:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=6)** While I would not necessarily suggest using an [[Microsoft Excel|Excel]] sheet, although no shade if you are using that, document mappings and transformations usually go well with tool sets that are specific to that kind of work.
 >
 > **[0:22](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=22)** So let's explore some examples of tools that help with data modeling.
 >
-> **[0:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=28)** Tools such as Informatica and Hadoop and Talend, those are all heavy-duty ETL tools.
+> **[0:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=28)** Tools such as Informatica and [[Hadoop]] and Talend, those are all heavy-duty ETL tools.
 >
-> **[0:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=35)** They're used for large multimodal and complex data transformation, but they're not necessarily graph-specific, although many use Apache Spark for ETL into graph structures, but those are usually property graphs.
+> **[0:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=35)** They're used for large multimodal and complex [[Data Transformation]], but they're not necessarily graph-specific, although many use [[Apache Spark]] for ETL into graph structures, but those are usually property graphs.
 >
-> **[0:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=51)** Other tools, like Redshift or Databricks, allow for on-the-fly modeling and analytics, whereas there are tools that are more specific to graph modeling, data transformation and data loading, like Stardog, Neo4j, or the open source Protege.
+> **[0:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=51)** Other tools, like Redshift or Databricks, allow for on-the-fly modeling and analytics, whereas there are tools that are more specific to graph modeling, data transformation and data loading, like Stardog, [[Neo4j]], or the open source Protege.
 >
 > **[1:10](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/options-for-data-modeling?u=76281980&t=70)** Picking the right tool for the job means gathering the requirements of your ETL and data, which we've covered, as well as the skills and expertise of your teams, which we're striving for no code, so we know we would like to use a tool that has some built in ETL assistance so our sales folks can use it as they need.
 >
@@ -728,7 +715,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** etl (7), data (5), [[Data Transformation]] (2), [[Microsoft Excel|Excel]] (1), [[Hadoop]] (1)
+> **Frameworks & Libraries:** [[Data Modeling]] (2), [[Data Transformation]] (2), [[Microsoft Excel|Excel]] (1), [[Hadoop]] (1), [[Apache Spark]] (1)
 > **Env Vars:** etl (7)
 > **CLI Commands:** apache (1)
 > **Cross-References:** next video (1)
@@ -737,8 +724,7 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about nodes
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980)
+#### [Thinking about nodes](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -764,7 +750,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980&t=54)** Those are all nodes.
 >
-> **[0:56](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980&t=56)** Having a node that captures all the instances, those specific customers and products and purchase orders, are what the node contains.
+> **[0:56](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980&t=56)** Having a node that captures all the instances, those specific customers and [[Microsoft Products|products]] and purchase orders, are what the node contains.
 >
 > **[1:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-nodes?u=76281980&t=66)** The node gives your LLM a smaller set of entities to disambiguate and access because disambiguation might be accomplished at the node level and not the instance level, which can be thousands of entities depending on the graph size.
 >
@@ -806,15 +792,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), node (10), llm (3), product (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **CLI Commands:** node (10), find (2), make (1)
 > **Env Vars:** llm (3), zip (1)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about relations
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980)
+#### [Thinking about relations](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -828,7 +813,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=34)** But that relationship is contained in an attribute because Customer ID is an attribute that is defining customer.
 >
-> **[0:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=44)** Just like nodes can be derived from your relational databases, so can relations.
+> **[0:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=44)** Just like nodes can be derived from your [[Relational Databases]], so can relations.
 >
 > **[0:49](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=49)** In the case of Jackie and maybe the state they live in, these are probably columns next to each other in a customer table.
 >
@@ -858,7 +843,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=184)** This will guide you on the types of relationships you want to represent, the data you need to support them, and the answers they will support.
 >
-> **[3:15](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=195)** For us, the relationship between customer and customer review has been defined, but customers purchase products.
+> **[3:15](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=195)** For us, the relationship between customer and customer review has been defined, but customers purchase [[Microsoft Products|products]].
 >
 > **[3:24](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=204)** And from those purchases, customers have written either positive or negative experiences.
 >
@@ -868,7 +853,7 @@ created: 2026-05-02
 >
 > **[3:45](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=225)** So, start out with a smaller set of relationships and extend your model later when you need to.
 >
-> **[3:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=231)** Or use a bootstrapping step like GraphRAG to mine out example triples and mine from that list of suggested relations.
+> **[3:51](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=231)** Or use a bootstrapping step like [[GraphRAG]] to mine out example triples and mine from that list of suggested relations.
 >
 > **[4:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=240)** So far, we have tackled the Customer table.
 >
@@ -876,19 +861,18 @@ created: 2026-05-02
 >
 > **[4:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=252)** We need to add in examples to our design document, and this information has been updated for you in the course materials so you can follow along.
 >
-> **[4:23](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=263)** All right, so with that, let's move on to thinking about how retrieval and traversal of data helps us answer questions based on our data engineering.
+> **[4:23](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-relations?u=76281980&t=263)** All right, so with that, let's move on to thinking about how retrieval and traversal of data helps us answer questions based on our [[Data Engineering]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), node (3), llm (2), [[Relational Databases]] (1), next (1)
+> **Frameworks & Libraries:** [[Relational Databases]] (1), [[Microsoft Products|Products]] (1), [[GraphRAG]] (1), [[Data Engineering]] (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** llm (2)
 > **Analogies:** just like (1), such as (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about retrieval/traversal
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980)
+#### [Thinking about retrieval/traversal](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -912,11 +896,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=66)** Retrieving information from your graph can be done by prompting an AI to query your graph via an endpoint.
 >
-> **[1:13](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=73)** In a graph database that has semantic search integrations natively, semantic application frameworks like Apache Jena or querying the graph itself using SPARQL for RDF based graphs.
+> **[1:13](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=73)** In a graph database that has [[Semantic Search]] integrations natively, semantic application frameworks like Apache Jena or querying the graph itself using SPARQL for RDF based graphs.
 >
 > **[1:26](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=86)** And Cypher or openCypher for property graphs.
 >
-> **[1:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=91)** Knowledge graphs have two unique ways they can be queried.
+> **[1:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=91)** [[Knowledge Graphs]] have two unique ways they can be queried.
 >
 > **[1:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=95)** One is using inference, which infers relations based on semantic rules.
 >
@@ -926,7 +910,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=121)** The second unique way to query a graph is called walking, or traversing the graph.
 >
-> **[2:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=126)** This is when graph algorithms such as shortest path are used.
+> **[2:06](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=126)** This is when graph [[Algorithms]] such as shortest path are used.
 >
 > **[2:10](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=130)** Where if you query for the shortest path connecting Sam and Raj, the query would retrieve Jess, since Jess is the shortest path connecting Sam to Raj in our little mini example.
 >
@@ -934,13 +918,13 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=150)** We won't go over those in this course, but I have added resources to the exercise files where you can check some of those out.
 >
-> **[2:39](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=159)** When using your graph with AI, you can use standard information retrieval, NTT resolution, inference and graph algorithms at runtime or during offline analytics.
+> **[2:39](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=159)** When using your graph with AI, you can use standard [[Information Retrieval]], NTT resolution, inference and graph algorithms at runtime or during offline analytics.
 >
 > **[2:52](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-retrieval-traversal?u=76281980&t=172)** Now that we have a sense of triple nodes and edges, let's talk about updating them and why that's critical in the ETL phase.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), data (3), [[Algorithms]] (3), [[Analytics]] (2), database (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Semantic Search]] (1), [[Knowledge Graphs]] (1), [[Information Retrieval]] (1)
 > **Env Vars:** uid (1), sparql (1), rdf (1), ntt (1), etl (1)
 > **CLI Commands:** make (2), apache (1)
 > **Definitions:** is a  (1), means that (1), is called (1)
@@ -949,8 +933,7 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about updates
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980)
+#### [Thinking about updates](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -958,7 +941,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=11)** You also need to make sure all the tooling you are using will support this.
 >
-> **[0:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=16)** For instance, not all graph databases will allow both read and write access because it's too risky to have access that can write to your database that you do not control properly.
+> **[0:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=16)** For instance, not all graph [[Databases]] will allow both read and write access because it's too risky to have access that can write to your database that you do not control properly.
 >
 > **[0:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=31)** So read access is usually what is allowed from outside of the database.
 >
@@ -994,15 +977,15 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=169)** Another strategy is a full refresh, where the entire old model is deprecated and the new model is brought online.
 >
-> **[2:58](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=178)** The last and most common approach is a Git-like approach where the new commits are integrated as they are reviewed in the design doc and then forked in.
+> **[2:58](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=178)** The last and most common approach is a [[Git]]-like approach where the new commits are integrated as they are reviewed in the design doc and then forked in.
 >
-> **[3:09](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=189)** Each time you change your model, the data engineering process will kick off.
+> **[3:09](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=189)** Each time you change your model, the [[Data Engineering]] process will kick off.
 >
 > **[3:14](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=194)** The area of the graph that is being updated will need a new design document, and the ETL process will need to be rerun.
 >
 > **[3:23](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=203)** The more changes you have, the more data that needs to be loaded and transformed, and that's the heavier the resources you will need to complete the task.
 >
-> **[3:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=214)** Anytime you load new data to your graph, you will want to run data validation, and that's making sure that the data is conforming to your data model.
+> **[3:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=214)** Anytime you load new data to your graph, you will want to run [[Data Validation]], and that's making sure that the data is conforming to your data model.
 >
 > **[3:44](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-updates?u=76281980&t=224)** You need to also run entity resolution for any new entities and check for any breaking changes so that your AI and your consumers, such as our sales folks, always know that the data can be dependable.
 >
@@ -1014,7 +997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (16), node (6), etl (3), database (2), [[Databases]] (1)
+> **Frameworks & Libraries:** [[Databases]] (1), [[Git]] (1), [[Data Engineering]] (1), [[Data Validation]] (1)
 > **CLI Commands:** node (6), make (5), git (1)
 > **Analogies:** such as (2), for instance (1), just like (1)
 > **Env Vars:** etl (3)
@@ -1022,8 +1005,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Thinking about storage
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980)
+#### [Thinking about storage](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1031,7 +1013,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=4)** Let's start out with the native graph storage options.
 >
-> **[0:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=7)** So for property graphs, we have things like Neo4j, Neptune, although Neptune can also do RDF, TinkerPop, and Memgraph, just to name a few.
+> **[0:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=7)** So for property graphs, we have things like [[Neo4j]], Neptune, although Neptune can also do RDF, TinkerPop, and Memgraph, just to name a few.
 >
 > **[0:19](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=19)** We also have the RDF-based storage, such as RDFox, JanusGraph, Stardog, Metaphactory, and there's a whole slew of others.
 >
@@ -1047,7 +1029,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=75)** Also, as a quick tip, if you have used something like Graph RAG to create a property graph or you already have a property graph, you can use something from Neo4j called neosemantics, and that's so that you can export property graph data into RDF or vice versa.
 >
-> **[1:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=95)** Now, depending on what kind of database you select, you will potentially need an external ETL tool such as Airflow or TensorFlow, or you can create your own data pipelines with more extensive operations for ETL, depending on your use case.
+> **[1:35](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=95)** Now, depending on what kind of database you select, you will potentially need an external ETL tool such as Airflow or [[TensorFlow]], or you can create your own [[Data Pipelines]] with more extensive operations for ETL, depending on your use case.
 >
 > **[1:53](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=113)** Each tool will have its own requirements such as namespace or ID creation, file format specifications, modeling options and more.
 >
@@ -1065,7 +1047,7 @@ created: 2026-05-02
 >
 > **[3:17](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=197)** Most graph tools now have this sort of AI feature or you could use your own AI with the graph database API or wherever you're serving up your materialized views to use AI to help build, maintain, or query your graph or ground your AI on the graph.
 >
-> **[3:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=216)** You also may have a data science modeling and/or ETL portal associated with a database.
+> **[3:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=216)** You also may have a [[Data Science]] modeling and/or ETL portal associated with a database.
 >
 > **[3:43](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/thinking-about-storage?u=76281980&t=223)** In our case, we can model and do lightweight ETL within the Stardog tool.
 >
@@ -1073,7 +1055,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), data (6), ai (6), etl (5), [[Neo4j]] (2)
+> **Frameworks & Libraries:** [[Neo4j]] (2), [[TensorFlow]] (1), [[Data Pipelines]] (1), [[Data Science]] (1)
 > **Env Vars:** etl (5), rdf (4), rds (1), rag (1), api (1)
 > **Analogies:** such as (5), for instance (1)
 > **Cross-References:** we covered (1), earlier in (1)
@@ -1086,8 +1068,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data transformation
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
+#### [Data transformation](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1101,7 +1082,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980&t=48)** But many graph native tools have ETL built in for small batch updates.
 >
-> **[0:53](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980&t=53)** So we will use that in our Stardog instance after we model the ETL in the rest of our design doc.
+> **[0:53](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980&t=53)** So we will use that in our Stardog instance after we model the ETL in the [[Representational State Transfer (REST)|rest]] of our design doc.
 >
 > **[1:01](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/data-transformation?u=76281980&t=61)** In our raw data, we now can address some of those limitations we identified earlier in the course.
 >
@@ -1223,7 +1204,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (26), etl (5), product (3), business (2), api (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** etl (5), api (1), uid (1), csv (1)
 > **CLI Commands:** make (6), find (1)
 > **Definitions:** is an  (6), means that (1)
@@ -1232,12 +1213,11 @@ created: 2026-05-02
 > **Warnings:** troubleshoot (1)
 > **Prerequisites:** you'll need (1)
 
-#### Missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/missing-data?u=76281980)
+#### [Missing data](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/missing-data?u=76281980&t=0)** - [Instructor] We will now need to transform our unstructured data into data we can connect to our model, so we can use our AI to query against our repository of knowledge.
+> **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/missing-data?u=76281980&t=0)** - [Instructor] We will now need to transform our [[Unstructured Data]] into data we can connect to our model, so we can use our AI to query against our repository of knowledge.
 >
 > **[0:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/missing-data?u=76281980&t=12)** Looking at the unstructured data, we can see there are four main data types.
 >
@@ -1305,7 +1285,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (5), [[Unstructured Data]] (3), business (3), node (2)
+> **Frameworks & Libraries:** [[Unstructured Data]] (3)
 > **CLI Commands:** node (2), make (1), find (1)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** set up (1)
@@ -1316,8 +1296,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Setting up our Stardog project, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
+#### [Setting up our Stardog project, part 1](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1335,7 +1314,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=28)** Once we're on the new project screen, we are going to start with the AI-assisted graph creation via Voicebox.
 >
-> **[0:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=37)** We are going to name this our TTOOV3 because we've gone through three iterations of data transformation by this point, if you're keeping track.
+> **[0:37](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=37)** We are going to name this our TTOOV3 because we've gone through three iterations of [[Data Transformation]] by this point, if you're keeping track.
 >
 > **[0:48](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=48)** And we're going to select Voicebox.
 >
@@ -1361,7 +1340,7 @@ created: 2026-05-02
 >
 > **[1:47](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=107)** FullName, which is also a string.
 >
-> **[1:53](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=113)** And the reason you're putting data types in is because this is a lightweight version of data validation when you add instance data.
+> **[1:53](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=113)** And the reason you're putting data types in is because this is a lightweight version of [[Data Validation]] when you add instance data.
 >
 > **[2:02](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-1?u=76281980&t=122)** Then we have our CustID, and that is an integer.
 >
@@ -1387,7 +1366,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), data (5), next (2), [[Data Transformation]] (1), feature (1)
+> **Frameworks & Libraries:** [[Data Transformation]] (1), [[Data Validation]] (1)
 > **CLI Commands:** make (3), node (1)
 > **Definitions:** is an  (2), is a  (2)
 > **UI Navigation:** go to (2)
@@ -1396,8 +1375,7 @@ created: 2026-05-02
 > **Cross-References:** next video (1)
 > **Prerequisites:** set up (1)
 
-#### Setting up our Stardog project, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980)
+#### [Setting up our Stardog project, part 2](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1409,7 +1387,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=22)** Now let's add in a few more relationships.
 >
-> **[0:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=28)** So now we are defining that purchase orders have products inside of them.
+> **[0:28](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=28)** So now we are defining that purchase orders have [[Microsoft Products|products]] inside of them.
 >
 > **[0:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=34)** So that looks correct.
 >
@@ -1467,18 +1445,17 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=220)** We are on a role.
 >
-> **[3:42](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=222)** Okay, now let's add in the rest of our relations.
+> **[3:42](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/setting-up-our-stardog-project-part-2?u=76281980&t=222)** Okay, now let's add in the [[Representational State Transfer (REST)|rest]] of our relations.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), node (3), ai (2), next (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** node (3)
 > **Env Vars:** etl (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [speaker] (1)
 
-#### Load instances in Stardog
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980)
+#### [Load instances in Stardog](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1528,7 +1505,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=135)** And that PurchaseOrder has an ID.
 >
-> **[2:17](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=137)** Later, we're going to have other information that connects products to these PurchaseOrder IDs.
+> **[2:17](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=137)** Later, we're going to have other information that connects [[Microsoft Products|products]] to these PurchaseOrder IDs.
 >
 > **[2:24](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=144)** And then we just want to make sure our RevID is mapped to RevID and Stars is mapped to Stars, and those are the attributes.
 >
@@ -1692,13 +1669,13 @@ created: 2026-05-02
 >
 > **[9:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=571)** And every time we make changes, you have the option of downloading the ZIP file, which you should do because that is one way to do your versioning, is to have your backups.
 >
-> **[9:41](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=581)** Or you can put these into your Git repo.
+> **[9:41](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=581)** Or you can put these into your [[Git]] repo.
 >
 > **[9:43](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/load-instances-in-stardog?u=76281980&t=583)** So, from here, we're going to jump into the next stage of exploring our data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (9), data (8), next (4), database (3), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Git]] (1)
 > **CLI Commands:** make (6), find (2), node (2), git (1)
 > **Code Identifiers:** customerreview (3), authorof (2), hasproduct (1), orderid (1)
 > **Definitions:** is an  (4), is a  (3)
@@ -1707,8 +1684,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Exercise Files:** zip file (1)
 
-#### Test the load
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980)
+#### [Test the load](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1734,7 +1710,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980&t=57)** You always want to verify a sample of your data to make sure that your extract, transform, and load process went correctly.
 >
-> **[1:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980&t=67)** Now, let's pop around to see if the rest of our graph has populated the way we expect.
+> **[1:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980&t=67)** Now, let's pop around to see if the [[Representational State Transfer (REST)|rest]] of our graph has populated the way we expect.
 >
 > **[1:14](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-load?u=76281980&t=74)** We want to make sure that the flow of data is accurate.
 >
@@ -1776,15 +1752,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), product (3), [[Search]] (2), database (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** make (6), node (1)
 > **Definitions:** is a  (2)
 > **Versions:** 4.5 (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Test the query
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980)
+#### [Test the query](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1942,7 +1917,7 @@ created: 2026-05-02
 >
 > **[8:07](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980&t=487)** Now, what we have just done is we have added this query to the main Voicebox area on Stardog.
 >
-> **[8:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980&t=496)** Okay, so now we're going to go in to see how our semantic search will pick up on the queries that we just created.
+> **[8:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980&t=496)** Okay, so now we're going to go in to see how our [[Semantic Search]] will pick up on the queries that we just created.
 >
 > **[8:24](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/test-the-query?u=76281980&t=504)** So we're going to go to Voicebox, and you can see here is our saved query that we have created as a Voicebox-specific query.
 >
@@ -1982,7 +1957,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (10), business (6), database (2), data (2), product (1)
+> **Frameworks & Libraries:** [[Semantic Search]] (1)
 > **CLI Commands:** make (6), find (2), node (1)
 > **Cross-References:** previous video (1), go back to (1)
 > **UI Navigation:** go to (2)
@@ -1996,8 +1971,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
+#### [Architecture](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2005,13 +1979,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=5)** To start, most graph tooling can slot into existing data architectures and these often include ETL tools, which can be repurposed to load into the graph storage that you select.
 >
-> **[0:17](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=17)** If you are using a graph database that also has ETL, that ETL will load in from your existing data storage.
+> **[0:17](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=17)** If you are using a graph database that also has ETL, that ETL will load in from your existing [[Data Storage]].
 >
 > **[0:25](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=25)** Making sure your data is as complete and as up to date as possible is critical for high quality and trustworthy answers that you can depend on.
 >
 > **[0:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=34)** This is why doing regular gap analysis and assessing your user queries is important to make sure the model and the data are still supporting your needs.
 >
-> **[0:45](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=45)** Your semantic data can be used to power things like recommendation systems or chat bots, can be used for grounding your AI via Rag, or it can be used traditionally for data analytics and information retrieval.
+> **[0:45](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=45)** Your semantic data can be used to power things like recommendation systems or chat bots, can be used for grounding your AI via Rag, or it can be used traditionally for data analytics and [[Information Retrieval]].
 >
 > **[1:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=60)** In those cases, the AI would call your graph with your query it was given.
 >
@@ -2021,7 +1995,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=101)** And then, the triples that are the most relevant are searched back up to the AI for grounding or answering questions.
 >
-> **[1:48](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=108)** When using AI to access and investigate data, the AI can retrieve from structured and unstructured data.
+> **[1:48](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=108)** When using AI to access and investigate data, the AI can retrieve from structured and [[Unstructured Data]].
 >
 > **[1:55](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/architecture?u=76281980&t=115)** So, both can be assessed.
 >
@@ -2031,14 +2005,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), data (8), etl (3), [[Search]] (2), database (1)
+> **Frameworks & Libraries:** [[Data Storage]] (1), [[Information Retrieval]] (1), [[Unstructured Data]] (1)
 > **Env Vars:** etl (3), uid (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Speakers:** - [narrator] (1)
 
-#### Query options
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/query-options?u=76281980)
+#### [Query options](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/query-options?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2072,12 +2045,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (15), api (4), [[Analytics]] (3), prompt (2), application (1)
 > **Env Vars:** api (4), sparql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using a knowledge graph with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980)
+#### [Using a knowledge graph with AI](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2099,7 +2070,7 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=63)** Now this is something that is stored about Jackie.
 >
-> **[1:09](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=69)** This is all of the metadata about Jackie.
+> **[1:09](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=69)** This is all of the [[Metadata]] about Jackie.
 >
 > **[1:12](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=72)** These are all statements made about Jackie.
 >
@@ -2147,7 +2118,7 @@ created: 2026-05-02
 >
 > **[3:03](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=183)** Now you notice when we were searching for this product number, this product showed up in a lot of different contexts.
 >
-> **[3:10](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=190)** So without having a UID, our AI would maybe get confused as to what information we're really looking for, and it would be a lot more difficult to do analytics because this information would not be readily contained with a specific UID, which is the other benefit of using semantic knowledge graphs.
+> **[3:10](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=190)** So without having a UID, our AI would maybe get confused as to what information we're really looking for, and it would be a lot more difficult to do analytics because this information would not be readily contained with a specific UID, which is the other benefit of using semantic [[Knowledge Graphs]].
 >
 > **[3:30](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=210)** This process of finding an entity and following its graph traversals, to retrieve the triples associated with Jackie and her purchase of lemon olive oil is how an AI would query and walk the graph.
 >
@@ -2161,11 +2132,11 @@ created: 2026-05-02
 >
 > **[4:16](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=256)** The reason we want to clean this up is not only do we not need all of that additional context, we've already retrieved on the context that we don't need it from this point forward.
 >
-> **[4:26](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=266)** It's also expensive to have additional tokens that you maybe don't need in the AI prompt.
+> **[4:26](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=266)** It's also expensive to have additional [[Tokens]] that you maybe don't need in the AI prompt.
 >
 > **[4:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=271)** So that's the other reason we're going to take those out.
 >
-> **[4:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=274)** So here we are just prompting our AI to convert the triples into a JSON like format, so we can use that in our grounding.
+> **[4:34](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=274)** So here we are just prompting our AI to convert the triples into a [[JSON]] like format, so we can use that in our grounding.
 >
 > **[4:45](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/using-the-graph-with-ai?u=76281980&t=285)** If our AI had access to all customer data and be cautious here, you want to make sure you are using a local LLM or your LLM license and guardrails, protect personal information and the other things you need to be protective of when you are using AI.
 >
@@ -2179,7 +2150,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (13), product (12), data (3), database (2), prompt (2)
+> **Frameworks & Libraries:** [[Metadata]] (1), [[Knowledge Graphs]] (1), [[Tokens]] (1), [[JSON]] (1)
 > **Env Vars:** uid (2), llm (2), rdf (1), json (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1)
@@ -2190,14 +2161,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continuing your learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)
+#### [Continuing your learning journey](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=0)** - And that's a wrap.
 >
-> **[0:01](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=1)** You've just unlocked the core skills to kick off your own knowledge data engineering journey, and start building knowledge graphs that power smarter, more context-aware AI.
+> **[0:01](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=1)** You've just unlocked the core skills to kick off your own knowledge [[Data Engineering]] journey, and start building [[Knowledge Graphs]] that power smarter, more context-aware AI.
 >
 > **[0:11](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=11)** Now the real fun begins.
 >
@@ -2209,7 +2179,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=31)** Either way, you now have the skills and knowledge to make it real.
 >
-> **[0:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=36)** If you want to follow along with me and AI, check me out on YouTube or connect with me on LinkedIn.
+> **[0:36](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=36)** If you want to follow along with me and AI, check me out on YouTube or connect with me on [[LinkedIn]].
 >
 > **[0:41](https://www.linkedin.com/learning/knowledge-graph-data-engineering-for-generative-ai-use-cases/continuing-your-learning-journey?u=76281980&t=41)** Also, make sure to explore my other LinkedIn learning courses.
 >
@@ -2219,7 +2189,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), next (2), [[LinkedIn]] (2), [[Data Engineering]] (1), [[Knowledge Graphs]] (1)
+> **Frameworks & Libraries:** [[LinkedIn]] (2), [[Data Engineering]] (1), [[Knowledge Graphs]] (1)
 > **CLI Commands:** make (2)
 > **Best Practices:** make sure to (1), remember to (1)
 > **Exercise Files:** exercise files (1)

@@ -99,14 +99,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Classification problems in machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
+#### [Classification problems in machine learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980&t=0)** - [Keith] Why classification?
 >
-> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980&t=2)** Nothing is more fundamental to what we do in predictive analytics than binary classification.
+> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980&t=2)** Nothing is more fundamental to what we do in [[Predictive Analytics]] than binary classification.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/classification-problems-in-machine-learning-20201180?u=76281980&t=8)** Will a customer make a purchase or not?
 >
@@ -126,8 +125,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Speakers:** - [keith] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -135,15 +133,15 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=4)** One of the things I'm really excited about is that this course has been designed as a gateway course.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=11)** A gateway to all kinds of machine learning topics and data science more broadly.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=11)** A gateway to all kinds of machine learning topics and [[Data Science]] more broadly.
 >
 > **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=17)** Specifically we're going to be building predictive models.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=21)** Also its software agnostic so I wanna welcome all of you to the course whether or not you happen to use a commercial package like SAS or SPSS or a data science language like R or Python or one of the numerous open source options like Weka or RapidMiner or Knime or others.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=21)** Also its software agnostic so I wanna welcome all of you to the course whether or not you happen to use a commercial package like SAS or SPSS or a data science language like R or [[Python (Programming Language)|Python]] or one of the numerous open source options like Weka or RapidMiner or [[Knime]] or others.
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=42)** Everyone can benefit from this course.
 >
-> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=45)** Also I want to mention that if you really want a big-picture view and pull the lens back even more, my Essential Elements of Predictive Analytics and Data Mining is that kind of course.
+> **[0:45](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=45)** Also I want to mention that if you really want a big-picture view and pull the lens back even more, my Essential Elements of [[Predictive Analytics]] and [[Data Mining]] is that kind of course.
 >
 > **[0:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=58)** However you absolutely could watch this course followed by that one or start with Essential Elements and watch this one.
 >
@@ -157,18 +155,17 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=83)** However you don't have to take a deep dive into regression to understand what I'm discussing in this course.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=90)** You may be tempted to explore statistics and regression in more detail perhaps after taking this course.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/what-you-should-know?u=76281980&t=90)** You may be tempted to explore [[Statistics]] and regression in more detail perhaps after taking this course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Python (Programming Language)|Python]] (1), [[Knime]] (1), [[Predictive Analytics]] (1), [[Statistics]] (1)
+> **Frameworks & Libraries:** [[Data Science]] (2), [[Python (Programming Language)|Python]] (1), [[Knime]] (1), [[Predictive Analytics]] (1), [[Data Mining]] (1)
 > **Env Vars:** sas (1), spss (1)
 > **CLI Commands:** python (1)
 > **Analogies:** picture (1)
 > **Speakers:** - let (1)
 
-#### Defining terms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/defining-terms?u=76281980)
+#### [Defining terms](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/defining-terms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +237,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **CLI Commands:** make (2)
 > **Versions:** 1.0 (1)
 > **Tools:** notion (1)
@@ -254,8 +250,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The importance of binary classification
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
+#### [The importance of binary classification](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -267,7 +262,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=24)** Just in this short discussion of classification techniques, we'll explore a dozen different approaches to a single-use case, binary classification.
 >
-> **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=34)** Another myth is that the goal of predictive analytics projects are to produce a single predictive model.
+> **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=34)** Another myth is that the goal of [[Predictive Analytics]] projects are to produce a single predictive model.
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=42)** Real-world projects always have multiple models performing different functions and often sending information back and forth to each other, working together as a decision management system.
 >
@@ -279,20 +274,19 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=67)** Well, the ultimate goal of a predictive analytics project is to drive decisions, and the easiest way to do that is to have at least one of the models tell you when to take action and when not to.
 >
-> **[1:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=80)** These two themes and many others are explored in my course Essential Elements of Predictive Analytics and Data Mining.
+> **[1:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=80)** These two themes and many others are explored in my course Essential Elements of Predictive Analytics and [[Data Mining]].
 >
 > **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=87)** So for now, we'll just accept the following premise.
 >
-> **[1:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=91)** Binary classifiers play an important role in virtually every project, so understanding them constitutes a critical part in anyone's professional development in predictive analytics, data science, and data mining.
+> **[1:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/the-importance-of-binary-classification?u=76281980&t=91)** Binary classifiers play an important role in virtually every project, so understanding them constitutes a critical part in anyone's professional development in predictive analytics, [[Data Science]], and data mining.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Predictive Analytics]] (4), data (3), management (1)
+> **Frameworks & Libraries:** [[Predictive Analytics]] (4), [[Data Mining]] (2), [[Data Science]] (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Binary vs. multinomial
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980)
+#### [Binary vs. multinomial](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -302,7 +296,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=15)** First, one's a priori estimate of accuracy is lower "A priori" is a Latin phrase which means, "Without the benefit of experience."
 >
-> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=26)** The phrase is frequently used in statistics.
+> **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=26)** The phrase is frequently used in [[Statistics]].
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=29)** If half of our target cases are true, and the other half are false, our chances of predicting that correctly without a model is 50%.
 >
@@ -342,7 +336,7 @@ created: 2026-05-02
 >
 > **[2:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=175)** Or what I typically prefer: loyal, voluntary turn, and simply remove the involuntary churns, because you probably have a different process in place for them; namely a collections process.
 >
-> **[3:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=190)** Thew bottom line is: And if you're new to predictive analytics, recognize you are taking on a challenge that's difficult even for the experts.
+> **[3:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=190)** Thew bottom line is: And if you're new to [[Predictive Analytics]], recognize you are taking on a challenge that's difficult even for the experts.
 >
 > **[3:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/binary-vs-multinomial?u=76281980&t=204)** So go very gingerly into any situation where you think need you need more than two categories on the target variable.
 >
@@ -350,15 +344,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Statistics]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Statistics]] (1), [[Predictive Analytics]] (1)
 > **Definitions:** is a  (2), is an  (1)
 > **Analogies:** for instance (2)
 > **Best Practices:** you should never (1)
 > **Warnings:** caution (1)
 > **Speakers:** - [instructor] (1)
 
-#### So-called “black box” techniques
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980)
+#### [So-called “black box” techniques](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -366,7 +359,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=10)** This raises the issue of the so-called black box techniques.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=17)** A famous example is artificial neural networks.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=17)** A famous example is [[Artificial Neural Networks]].
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=22)** The very same complexities that often allow for very accurate models can prevent you from sharing a story about the model.
 >
@@ -382,7 +375,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=64)** The truth is that virtually all of these techniques are in a continuum from transparent to opaque.
 >
-> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=72)** Perhaps the most transparent that we will see in this course is logistic regression, where all of the inputs can be ranked from most to least important.
+> **[1:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=72)** Perhaps the most transparent that we will see in this course is [[Logistic Regression]], where all of the inputs can be ranked from most to least important.
 >
 > **[1:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/so-called-black-box-techniques?u=76281980&t=84)** In addition to this advantage, each input has its own test of statistical significance, and each input can be measured in terms of the magnitude of its effect on the outcome.
 >
@@ -413,8 +406,7 @@ created: 2026-05-02
 > **Definitions:** is an  (2)
 > **Speakers:** - [instructor] (1)
 
-#### One task, many algorithms
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980)
+#### [One task, many algorithms](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -422,7 +414,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=10)** In this course, the class of problems is binary classification, and there's a remarkable diversity of approaches.
 >
-> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=20)** I've always been a fan of Tom Khabaza's 9 Laws of Data Mining, a topic that I discuss at length in my essential elements course.
+> **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=20)** I've always been a fan of Tom Khabaza's 9 Laws of [[Data Mining]], a topic that I discuss at length in my essential elements course.
 >
 > **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=29)** The fourth law, no free lunch for the data miner, states the following.
 >
@@ -434,7 +426,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=52)** This is really the premise of the course.
 >
-> **[0:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=56)** Competency at binary classification equals, competency at all of the multiple algorithms that are capable of binary classification.
+> **[0:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=56)** Competency at binary classification equals, competency at all of the multiple [[Algorithms]] that are capable of binary classification.
 >
 > **[1:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/one-task-many-algorithms?u=76281980&t=68)** And in addition, you have to become competent at using these multiple approaches, both individually and together.
 >
@@ -456,13 +448,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (2), application (1), game (1), strengths (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Data Mining]] (1)
 > **Documentation:** specification (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Statistics vs. machine learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980)
+#### [Statistics vs. machine learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -476,7 +467,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=33)** Also, a lot of them have complex rules, and seem hard to learn.
 >
-> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=39)** There are several reasons why you should keep the classification algorithms that come from the statistical tradition on the table.
+> **[0:39](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=39)** There are several reasons why you should keep the classification [[Algorithms]] that come from the statistical tradition on the table.
 >
 > **[0:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=47)** First, predictive analytic software vendors consistently keep them in their work benches.
 >
@@ -504,7 +495,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=111)** And clearly, ensembles are a machine learning technique.
 >
-> **[1:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=116)** So even if statistics can seem difficult at times, if you really want to be a pro at binary classification you have to learn both, statistical and machine learning techniques.
+> **[1:56](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=116)** So even if [[Statistics]] can seem difficult at times, if you really want to be a pro at binary classification you have to learn both, statistical and machine learning techniques.
 >
 > **[2:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=127)** And that means learning some statistics.
 >
@@ -512,29 +503,28 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=133)** Find one that features your software tool of choice.
 >
-> **[2:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=137)** Whether it be R or Python or a commercial package or maybe one of the open source predictive analytics workbenches.
+> **[2:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=137)** Whether it be R or [[Python (Programming Language)|Python]] or a commercial package or maybe one of the open source [[Predictive Analytics]] workbenches.
 >
 > **[2:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/statistics-vs-machine-learning?u=76281980&t=145)** Although the topic is regression and not specifically classification, my regression course in the library covers some of the necessary foundation material that you'll need.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), [[Statistics]] (3), data (2), [[Python (Programming Language)|Python]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Statistics]] (3), [[Python (Programming Language)|Python]] (1), [[Predictive Analytics]] (1)
 > **CLI Commands:** find (1), python (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [instructor] (1)
 
-#### Model assessment vs. business evaluation
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980)
+#### [Model assessment vs. business evaluation](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=1)** - [Instructor] There are two different aspects to evaluating the performance of your models, and they're both important.
 >
-> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=7)** So I wanna reference the cross-industry standard process for data mining.
+> **[0:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=7)** So I wanna reference the cross-industry standard process for [[Data Mining]].
 >
-> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=12)** It's a document that was written about 20 years ago, and it's a powerful way to help you organize your thinking and organize your work when doing predictive analytics projects.
+> **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=12)** It's a document that was written about 20 years ago, and it's a powerful way to help you organize your thinking and organize your work when doing [[Predictive Analytics]] projects.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=21)** If you wanna read it, the most reliable way is to simply go down to the references section of the CRISP-DM Wikipedia page and you can find the document.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=21)** If you wanna read it, the most reliable way is to simply go down to the references section of the [[CRISP-DM]] Wikipedia page and you can find the document.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/model-assessment-vs-business-evaluation?u=76281980&t=30)** In particular, I wanna reference the following diagram inside the document.
 >
@@ -556,7 +546,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), data (1), [[Predictive Analytics]] (1), [[CRISP-DM]] (1), management (1)
+> **Frameworks & Libraries:** [[Data Mining]] (1), [[Predictive Analytics]] (1), [[CRISP-DM]] (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** crisp (1)
 > **Speakers:** - [instructor] (1)
@@ -566,8 +556,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Training and test partitions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
+#### [Training and test partitions](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -597,7 +586,7 @@ created: 2026-05-02
 >
 > **[1:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=83)** Well during the modeling phase, you're developing the models on the training data.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=88)** That is the only data that gets exposed to the modeling algorithms.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=88)** That is the only data that gets exposed to the modeling [[Algorithms]].
 >
 > **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=93)** You are then, iteratively checking the modeling performance on the testing data using those technical metrics, like overall accuracy, lift, and so on, there are several.
 >
@@ -611,20 +600,19 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=163)** As long as the project goes on for more than a few weeks or more than a couple of months, you'll have plenty of that recent data in order to perform this double check.
 >
-> **[2:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=174)** For the rest of the course, we're gonna be focused only on training data and testing data.
+> **[2:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=174)** For the [[Representational State Transfer (REST)|rest]] of the course, we're gonna be focused only on training data and testing data.
 >
 > **[3:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/training-and-test-partitions?u=76281980&t=180)** But we're gonna be referring to it through out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Best Practices:** general rule (1), recommended (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** kpi (1)
 > **Speakers:** - [narrator] (1)
 
-#### Lift Charts
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/lift-charts?u=76281980)
+#### [Lift Charts](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/lift-charts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -662,8 +650,7 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Gains tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980)
+#### [Gains tables](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -691,7 +678,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980&t=59)** And now, take a look.
 >
-> **[1:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980&t=60)** I've got an overall probability of 0.41, if I round up.
+> **[1:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980&t=60)** I've got an overall [[Probability]] of 0.41, if I round up.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/gains-tables?u=76281980&t=66)** And this is a survival rate because this is the titanic data set.
 >
@@ -719,14 +706,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Probability]] (3), feature (1)
+> **Frameworks & Libraries:** [[Probability]] (3)
 > **CLI Commands:** find (3), make (1)
 > **Versions:** 0.41 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Confusion matrix
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/confusion-matrix?u=76281980)
+#### [Confusion matrix](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/confusion-matrix?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -800,11 +786,11 @@ created: 2026-05-02
 >
 > **[3:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/confusion-matrix?u=76281980&t=185)** We're gonna be focused on stability, comparing those two overall accuracies and then the other numbers that we just reviewed.
 >
-> **[3:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/confusion-matrix?u=76281980&t=194)** And we're gonna be using this information when we look at all the algorithms in the course.
+> **[3:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/confusion-matrix?u=76281980&t=194)** And we're gonna be using this information when we look at all the [[Algorithms]] in the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1)
 > **Versions:** 79.8 (1), 74.2 (1)
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
@@ -814,12 +800,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
+#### [Overview](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980&t=1)** - [Instructor] Okay, we're about to discuss about a dozen different algorithms for binary classification.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980&t=1)** - [Instructor] Okay, we're about to discuss about a dozen different [[Algorithms]] for binary classification.
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/overview?u=76281980&t=8)** Now, in the section after our discussion of the algorithms, we're gonna talk about some common problems.
 >
@@ -857,14 +842,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (9), data (4), next (1), feature (1)
+> **Frameworks & Libraries:** [[Algorithms]] (9)
 > **CLI Commands:** make (2)
 > **Cross-References:** in the next (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Discriminant with three categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980)
+#### [Discriminant with three categories](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -892,11 +876,11 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=79)** It's used for a lot of demonstrations, and you'll sometimes see it in demonstrations of unsupervised learning or cluster analysis.
 >
-> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=88)** But this data set is really about discriminant analysis, which of course is our topic, supervised learning into two or more categories.
+> **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=88)** But this data set is really about discriminant analysis, which of course is our topic, [[Supervised Learning]] into two or more categories.
 >
 > **[1:38](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=98)** So let's return to the data set and find out how this works.
 >
-> **[1:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=101)** Here we are, we fit a regression line passing through these points, so imagine now that we're trying to predict petal length using petal width, a classic linear regression problem.
+> **[1:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=101)** Here we are, we fit a regression line passing through these points, so imagine now that we're trying to predict petal length using petal width, a classic [[Linear Regression]] problem.
 >
 > **[1:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-three-categories?u=76281980&t=113)** We're doing this to underscore how similar linear discriminant analysis is to regression.
 >
@@ -986,7 +970,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Linear Regression]] (2), [[Supervised Learning]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (2), [[Supervised Learning]] (1)
 > **Analogies:** imagine (2), picture (1)
 > **CLI Commands:** find (2)
 > **Versions:** 2.8 (1)
@@ -995,8 +979,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** watch out (1)
 
-#### Discriminant with two categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980)
+#### [Discriminant with two categories](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1034,7 +1017,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980&t=88)** It's a kind of contrast coding.
 >
-> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980&t=90)** If it's a new topic to you, it's usually discussed in more depth in discussions of linear regression.
+> **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980&t=90)** If it's a new topic to you, it's usually discussed in more depth in discussions of [[Linear Regression]].
 >
 > **[1:36](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/discriminant-with-two-categories?u=76281980&t=96)** My own course in the library talks about it in some depth, but I'm about to tell you all you need for the current demonstration.
 >
@@ -1116,14 +1099,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), next (1), [[Linear Regression]] (1)
+> **Frameworks & Libraries:** [[Linear Regression]] (1)
 > **Versions:** 4.781 (1), 0.123 (1), 1.449 (1), 2.193 (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Stepwise discriminant
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-discriminant?u=76281980)
+#### [Stepwise discriminant](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-discriminant?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1143,18 +1125,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980)
+#### [Logistic regression](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=1)** - Okay, let's talk about logistic regression.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=1)** - Okay, let's talk about [[Logistic Regression]].
 >
-> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=3)** You're gonna notice some similarities in look and feel from logistic regression and discriminate analysis, particularly at the level of detail, but once we get to the other algorithms, you're gonna notice a striking difference between logistic and discriminate on the one hand, and all of the others, because these are really the two that come from the statistics tradition.
+> **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=3)** You're gonna notice some similarities in look and feel from logistic regression and discriminate analysis, particularly at the level of detail, but once we get to the other [[Algorithms]], you're gonna notice a striking difference between logistic and discriminate on the one hand, and all of the others, because these are really the two that come from the [[Statistics]] tradition.
 >
 > **[0:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=27)** First, note that like many of the algorithms, virtually all, in fact, logistic operates by listwise deletion, meaning that if any data's missing, that row is eliminated.
 >
@@ -1190,7 +1170,7 @@ created: 2026-05-02
 >
 > **[2:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=129)** Take a look.
 >
-> **[2:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=130)** If we try to plot a regression, just a plain, vanilla, linear regression, you can force the software to do it.
+> **[2:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=130)** If we try to plot a regression, just a plain, [[Vanilla]], [[Linear Regression]], you can force the software to do it.
 >
 > **[2:19](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=139)** It won't refuse but the resulting regression line just doesn't seem to fit the data very well and there's all kinds of additional problems.
 >
@@ -1242,7 +1222,7 @@ created: 2026-05-02
 >
 > **[5:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=321)** The EXP function is the antilog.
 >
-> **[5:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=324)** So, when it comes time to score those probabilities at the end, we're looking for a probability between zero and one.
+> **[5:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=324)** So, when it comes time to score those probabilities at the end, we're looking for a [[Probability]] between zero and one.
 >
 > **[5:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/logistic-regression?u=76281980&t=330)** Do they have a high probability of surviving or a low probability of surviving?
 >
@@ -1346,7 +1326,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Logistic Regression]] (8), [[Algorithms]] (4), [[Probability]] (4), [[Linear Regression]] (2)
+> **Frameworks & Libraries:** [[Logistic Regression]] (8), [[Algorithms]] (4), [[Probability]] (4), [[Linear Regression]] (2), [[Statistics]] (1)
 > **Env Vars:** exp (4)
 > **CLI Commands:** find (1), make (1)
 > **Versions:** 0.064 (1), 13.8 (1)
@@ -1355,16 +1335,15 @@ created: 2026-05-02
 > **Warnings:** note that (1)
 > **Speakers:** - okay (1)
 
-#### Stepwise logistic regression
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980)
+#### [Stepwise logistic regression](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=1)** - [Instructor] Okay, we're gonna try the stepwise method on logistic regression.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=1)** - [Instructor] Okay, we're gonna try the stepwise method on [[Logistic Regression]].
 >
 > **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=6)** Only discriminant analysis and logistic will have stepwise.
 >
-> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=11)** Now, that doesn't mean that they're the only algorithms that choose variables for you, but they're the only ones that use the stepwise approach.
+> **[0:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=11)** Now, that doesn't mean that they're the only [[Algorithms]] that choose variables for you, but they're the only ones that use the stepwise approach.
 >
 > **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/stepwise-logistic-regression?u=76281980&t=21)** So I'm gonna start with a larger pool of variables, age, passenger class, embarked, sex, sibling spouse, parent child, and fare.
 >
@@ -1389,14 +1368,13 @@ created: 2026-05-02
 > **Frameworks & Libraries:** [[Logistic Regression]] (1), [[Algorithms]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Decision Trees
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980)
+#### [Decision Trees](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980&t=1)** - [Instructor] Okay, decision trees.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980&t=1)** - [Instructor] Okay, [[Decision Trees]].
 >
-> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980&t=2)** A big topic, also a popular topic because of all of the algorithms, decision trees are probably the most common.
+> **[0:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980&t=2)** A big topic, also a popular topic because of all of the [[Algorithms]], decision trees are probably the most common.
 >
 > **[0:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/decision-trees?u=76281980&t=12)** Why is it a complicated topic?
 >
@@ -1476,14 +1454,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Decision Trees]] (6), node (5), data (4), [[Algorithms]] (3)
+> **Frameworks & Libraries:** [[Decision Trees]] (6), [[Algorithms]] (3)
 > **CLI Commands:** node (5)
 > **Versions:** 98.7 (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### KNN
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980)
+#### [KNN](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1488,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980&t=92)** All inputs are used.
 >
-> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980&t=93)** So unlike decision trees for instance, it's not choosing some variables and not others.
+> **[1:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980&t=93)** So unlike [[Decision Trees]] for instance, it's not choosing some variables and not others.
 >
 > **[1:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/knn?u=76281980&t=100)** Finally the K in the name refers to the number of neighbors that we're going to use to make our prediction and for this example I've chosen K equal to eight.
 >
@@ -1549,7 +1526,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Decision Trees]] (1), hit (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **CLI Commands:** find (3), make (1)
 > **Tools:** notion (2)
 > **Definitions:** is a  (1), refers to (1)
@@ -1557,12 +1534,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Linear SVM
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980)
+#### [Linear SVM](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=1)** - [Instructor] All the algorithms that we're going to discuss support vector machines is among the most abstract conceptually.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=1)** - [Instructor] All the [[Algorithms]] that we're going to discuss support vector machines is among the most abstract conceptually.
 >
 > **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=9)** It was one of the really hot algorithms just a few years ago.
 >
@@ -1574,9 +1550,9 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=26)** First, random forests, and then techniques like XGBoost.
 >
-> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=31)** And now it seems like the hot algorithms are deep learning.
+> **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=31)** And now it seems like the hot algorithms are [[Deep Learning]].
 >
-> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=35)** But of course, deep learning is used in application areas like visual recognition and speech recognition.
+> **[0:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=35)** But of course, deep learning is used in application areas like visual recognition and [[Speech Recognition]].
 >
 > **[0:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=42)** So it's still considered to be one of the more complex but also one of the more accurate algorithms out there.
 >
@@ -1584,7 +1560,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=59)** So for certain projects that are off the table because they're not gonna give us a narrative of what's going on in terms of variable importance and so on.
 >
-> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=67)** Pretty much any algorithm will give you variable importance if you want, but not like the degree of detail that we get in a technique like logistic regression.
+> **[1:07](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=67)** Pretty much any algorithm will give you variable importance if you want, but not like the degree of detail that we get in a technique like [[Logistic Regression]].
 >
 > **[1:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/linear-svm?u=76281980&t=78)** In support vector machines, all inputs are used.
 >
@@ -1708,27 +1684,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (7), [[Deep Learning]] (2), [[Logistic Regression]] (2), application (1)
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[Deep Learning]] (2), [[Logistic Regression]] (2), [[Speech Recognition]] (1)
 > **CLI Commands:** make (4), find (3)
 > **Definitions:** is a  (2), is an  (1), is called (1)
 > **Analogies:** imagine (4)
 > **Tools:** notion (2)
 > **Speakers:** - [instructor] (1)
 
-#### Neural nets
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980)
+#### [Neural nets](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=0)** - [Instructor] Okay, let's talk about neural networks.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=0)** - [Instructor] Okay, let's talk about [[Neural Networks]].
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=3)** You almost certainly have heard of them, but the concept behind them might be new and we'll also be talking about the implications for our particular topic, binary classification.
 >
-> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=17)** First I wanna mention that deep learning, which is a really hot topic right now, is a special kind of neural network, and within the next couple of minutes, I'll be able to explain what's special about deep learning.
+> **[0:17](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=17)** First I wanna mention that [[Deep Learning]], which is a really hot topic right now, is a special kind of neural network, and within the next couple of minutes, I'll be able to explain what's special about deep learning.
 >
 > **[0:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=30)** I do wanna mention, however, is that deep learning is really quite different from what we're gonna be discussing.
 >
-> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=37)** We're gonna be discussing multilayer perceptrons and the applications of deep learning, at least at the moment, are really in the areas of visual recognition, speech recognition, frequently on very large datasets, so large that they actually have to be cognizant of what kind of computer technology that they run on.
+> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=37)** We're gonna be discussing multilayer perceptrons and the applications of deep learning, at least at the moment, are really in the areas of visual recognition, [[Speech Recognition]], frequently on very large datasets, so large that they actually have to be cognizant of what kind of computer technology that they run on.
 >
 > **[1:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=61)** So, once we see the neural net diagram, I'll be able to amplify a bit the differences between multilayer perceptrons as we normally talk about them over many years and deep learning.
 >
@@ -1736,7 +1711,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=75)** They're not gonna tell you much of a narrative about your variables in terms of what the most important variables are or what causes the risk to go up or what causes the risk to go down and so on.
 >
-> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=87)** I discuss why neural net is black box and how to try to interpret the coefficients in considerable depth in a book titled SPSS Statistics for Data Analysis and Visualization.
+> **[1:27](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=87)** I discuss why neural net is black box and how to try to interpret the coefficients in considerable depth in a book titled SPSS [[Statistics]] for Data Analysis and Visualization.
 >
 > **[1:41](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=101)** I really get into the details.
 >
@@ -1758,7 +1733,7 @@ created: 2026-05-02
 >
 > **[2:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=168)** Bias refers to, essentially, the Y-intercept.
 >
-> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=173)** It's a little bit different here, but it's very much like the concept or the Y-intercept in traditional linear regression.
+> **[2:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=173)** It's a little bit different here, but it's very much like the concept or the Y-intercept in traditional [[Linear Regression]].
 >
 > **[3:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=181)** Then finally, what's been labeled here as Neuron1, Neuron2, and Neuron3 is the somewhat famous hidden layer.
 >
@@ -1768,7 +1743,7 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=217)** Here we have just one hidden layer with three nodes or neurons, and of course, our target variable.
 >
-> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=224)** What I wanna do now is use a metaphor that my colleague wrote about in his book Applied Predictive Analytics.
+> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=224)** What I wanna do now is use a metaphor that my colleague wrote about in his book Applied [[Predictive Analytics]].
 >
 > **[3:53](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=233)** I recommend this book on a number of levels, but I'd like to share this quote with you.
 >
@@ -1814,7 +1789,7 @@ created: 2026-05-02
 >
 > **[5:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=351)** I meet folks numerous times each year that have very large, complicated categorical variables.
 >
-> **[5:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=358)** Things like make and model of vehicles predicting something about the vehicles, and they don't know that inside the neural network or inside these other algorithms, all this complicated dummy coding is going on.
+> **[5:58](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=358)** Things like make and model of vehicles predicting something about the vehicles, and they don't know that inside the neural network or inside these other [[Algorithms]], all this complicated dummy coding is going on.
 >
 > **[6:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/neural-nets?u=76281980&t=371)** So, they think that embarked is one variable and it's really four.
 >
@@ -1840,7 +1815,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Deep Learning]] (6), hit (3), next (2), [[Speech Recognition]] (1)
+> **Frameworks & Libraries:** [[Neural Networks]] (7), [[Deep Learning]] (6), [[Speech Recognition]] (1), [[Statistics]] (1), [[Linear Regression]] (1)
 > **Definitions:** is a  (3), refers to (1)
 > **CLI Commands:** find (1), make (1)
 > **Env Vars:** spss (1)
@@ -1848,8 +1823,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bayesian networks
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980)
+#### [Bayesian networks](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1857,13 +1831,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=3)** Once again, we're encountering a technique that's quite different from the others.
 >
-> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=9)** Of course, you're going to encounter the term Bayesian or Bayes' throughout statistics.
+> **[0:09](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=9)** Of course, you're going to encounter the term Bayesian or Bayes' throughout [[Statistics]].
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=16)** It really is a whole branch of statistics.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=18)** We're gonna focus on Bayesian networks, but Bayes' theorem is really just about a way of combining or updating probabilities as you get more information.
 >
-> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=32)** It's really about conditional probability.
+> **[0:32](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=32)** It's really about conditional [[Probability]].
 >
 > **[0:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=34)** If you know more than one thing about someone, then your overall assessment changes.
 >
@@ -1937,7 +1911,7 @@ created: 2026-05-02
 >
 > **[5:50](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=350)** In the language of Bayesian networks, we say that it has one parent.
 >
-> **[5:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=354)** If we zoom in on that, we find that the probability of being first class if you're a survivor is 41% and the probability of being in third class if you did not survive is 64%.
+> **[5:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=354)** If we [[Zoom]] in on that, we find that the probability of being first class if you're a survivor is 41% and the probability of being in third class if you did not survive is 64%.
 >
 > **[6:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bayesian-networks?u=76281980&t=371)** So, clearly there's this relationship between passenger class and survival, but we knew that quite well.
 >
@@ -1967,7 +1941,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Probability]] (5), [[Statistics]] (3), [[Zoom]] (2), data (1), career (1)
+> **Frameworks & Libraries:** [[Probability]] (5), [[Statistics]] (3), [[Zoom]] (2)
 > **CLI Commands:** make (3), find (2), node (1)
 > **Definitions:** is a  (3), is an  (1)
 > **Warnings:** keep in mind (1), note that (1)
@@ -1975,12 +1949,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Heterogenous ensembles
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980)
+#### [Heterogenous ensembles](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=0)** - [Instructor] Ensembles are a general technique involving combining component models to produce a new model, and the concept has inspired several important algorithms, but you can think of ensembles as an algorithm of their own.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=0)** - [Instructor] Ensembles are a general technique involving combining component models to produce a new model, and the concept has inspired several important [[Algorithms]], but you can think of ensembles as an algorithm of their own.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=15)** So let's take a moment to talk about ensembles.
 >
@@ -1996,7 +1969,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=64)** In this case, three.
 >
-> **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=65)** You could have a logistic regression, a neural network, and a support vector machine, or any other combination of the algorithms that we've talked about in this course.
+> **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=65)** You could have a [[Logistic Regression]], a neural network, and a support vector machine, or any other combination of the algorithms that we've talked about in this course.
 >
 > **[1:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=76)** And we can simply calculate an average, just as simple as that.
 >
@@ -2012,7 +1985,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=125)** It can be very helpful when some of your models are producing nulls as predictions.
 >
-> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=132)** So as just one example of this, I just want to show you a tiny portion of IBM SPSS Modeler.
+> **[2:12](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=132)** So as just one example of this, I just want to show you a tiny portion of [[IBM SPSS]] Modeler.
 >
 > **[2:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=140)** What you're looking at is not a modeling algorithm exactly.
 >
@@ -2036,11 +2009,11 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=180)** So it's very powerful.
 >
-> **[3:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=183)** So even though you won't find an algorithm called ensemble and most predictive analytics packages, it won't be called that, you really can think of heterogeneous ensembles as a modeling approach or modeling algorithm in their own right.
+> **[3:03](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/heterogenous-ensembles?u=76281980&t=183)** So even though you won't find an algorithm called ensemble and most [[Predictive Analytics]] packages, it won't be called that, you really can think of heterogeneous ensembles as a modeling approach or modeling algorithm in their own right.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (3), data (2), [[Logistic Regression]] (1), [[IBM SPSS]] (1), [[Predictive Analytics]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (3), [[Logistic Regression]] (1), [[IBM SPSS]] (1), [[Predictive Analytics]] (1)
 > **Env Vars:** ibm (1), spss (1)
 > **Analogies:** imagine (1), for instance (1)
 > **Warnings:** keep in mind (2)
@@ -2049,8 +2022,7 @@ created: 2026-05-02
 > **Cross-References:** coming up (1)
 > **UI Navigation:** dropdown (1)
 
-#### Bagging and random forest
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980)
+#### [Bagging and random forest](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2070,7 +2042,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980&t=44)** They're not subsets, but they're shuffled so that some cases might show up more than once, and others not at all.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980&t=54)** The most famous example of this is bagging decision trees, which is a combination or an aggregation of multiple trees into a final model.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980&t=54)** The most famous example of this is bagging [[Decision Trees]], which is a combination or an aggregation of multiple trees into a final model.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bagging-and-random-forest?u=76281980&t=66)** Here, three individual trees get aggregated into a final model.
 >
@@ -2116,14 +2088,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Decision Trees]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Tools:** notion (1)
 > **Speakers:** - [instructor] (1)
 
-#### Boosting and XGBoost
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980)
+#### [Boosting and XGBoost](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2131,7 +2102,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=8)** We build a first model, and what we're feeding to the second model now is information from the first model.
 >
-> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=15)** XG Boost or Extreme Gradient boosting has become so well-known and popular, we think of this as typically being a series of decision trees, and with XG Boost it is, but boosting in general can be applied to any algorithm.
+> **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=15)** XG Boost or Extreme Gradient boosting has become so well-known and popular, we think of this as typically being a series of [[Decision Trees]], and with XG Boost it is, but boosting in general can be applied to any algorithm.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=31)** I discussed boosting, as well as bagging in much more detail, and of course, dedicated to ensembles.
 >
@@ -2143,7 +2114,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=66)** So think about it now, we're producing something that's more complex, and we're trying to increase that signal, but if we're not careful, we're also going to amplify the noise, and we could get something that's overfit.
 >
-> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=82)** But again, these algorithms are developed to try to maximize the benefits and minimize the downside.
+> **[1:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=82)** But again, these [[Algorithms]] are developed to try to maximize the benefits and minimize the downside.
 >
 > **[1:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/boosting-and-xgboost?u=76281980&t=88)** Each of these models iterates culminating in a final model that has benefited from all the ones previous to it.
 >
@@ -2165,8 +2136,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Imbalanced target categories
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
+#### [Imbalanced target categories](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2176,7 +2146,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980&t=16)** It's really when it's more dramatically out of balance.
 >
-> **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980&t=22)** And keep in mind that this is an issue that potentially affects all the algorithms.
+> **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980&t=22)** And keep in mind that this is an issue that potentially affects all the [[Algorithms]].
 >
 > **[0:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/imbalanced-target-categories?u=76281980&t=28)** It's very easy to see in a decision tree, so I'm gonna visualize it with you using a decision tree, but it affects the others, as well.
 >
@@ -2232,7 +2202,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Algorithms]] (2), prompt (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2)
 > **Definitions:** is a  (1), is an  (1), in other words (1)
 > **Cross-References:** go back to (2)
 > **Versions:** 38.5 (1)
@@ -2240,8 +2210,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Interactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980)
+#### [Interactions](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2289,15 +2258,15 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=194)** Also, although we didn't see any examples of it, curvilinearity is a special kind of interaction.
 >
-> **[3:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=203)** Finally, in thinking about the algorithms that we've seen in this course, some techniques are gonna make you work.
+> **[3:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=203)** Finally, in thinking about the [[Algorithms]] that we've seen in this course, some techniques are gonna make you work.
 >
-> **[3:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=210)** In particular techniques like logistic regression and discriminant are gonna make you create new interaction terms.
+> **[3:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=210)** In particular techniques like [[Logistic Regression]] and discriminant are gonna make you create new interaction terms.
 >
 > **[3:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=217)** Terms like education times sex for instance.
 >
 > **[3:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=222)** Some techniques will address this problem but do so in hidden ways.
 >
-> **[3:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=227)** Neural networks for instance will not require that you build an interaction term but since they're a black box you can't really see what they've done.
+> **[3:47](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=227)** [[Neural Networks]] for instance will not require that you build an interaction term but since they're a black box you can't really see what they've done.
 >
 > **[3:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/interactions?u=76281980&t=235)** Finally, trees are one of the easiest ways to diagnose this problem.
 >
@@ -2307,23 +2276,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), [[Algorithms]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (1), [[Logistic Regression]] (1), [[Neural Networks]] (1)
 > **CLI Commands:** make (3)
 > **Analogies:** for instance (3)
 > **Versions:** 14.685 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Missing data
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980)
+#### [Missing data](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=0)** - [Instructor] One of the themes that we've investigated is certainly missing data.
 >
-> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=6)** Decision trees really are the exception to the rule.
+> **[0:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=6)** [[Decision Trees]] really are the exception to the rule.
 >
-> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=10)** Virtually all of the algorithms, at least on default settings, operate by listwise deletion.
+> **[0:10](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=10)** Virtually all of the [[Algorithms]], at least on default settings, operate by listwise deletion.
 >
 > **[0:18](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=18)** So, you really wanna be careful about the following phenomenon.
 >
@@ -2367,11 +2335,11 @@ created: 2026-05-02
 >
 > **[2:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=162)** The main thing to remember now is of all the algorithms, it's really the tree that doesn't force you as strongly to worry about imputation, but the others do.
 >
-> **[2:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=174)** Make sure you do a proper job of data preparation, and take into account your missing data.
+> **[2:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/missing-data?u=76281980&t=174)** Make sure you do a proper job of [[Data Preparation]], and take into account your missing data.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Algorithms]] (4), [[Decision Trees]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Decision Trees]] (1), [[Data Preparation]] (1)
 > **CLI Commands:** make (2), find (1)
 > **UI Navigation:** checkbox (2)
 > **Tools:** notion (1)
@@ -2379,12 +2347,11 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Bias-variance trade-off and overfitting
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980)
+#### [Bias-variance trade-off and overfitting](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=1)** - [Instructor] Now let's talk about a topic that can seem abstract at first, but one can truly make the argument that this issue of the bias-variance trade-off is why a course like this makes sense, and why we have to learn a dozen algorithms for doing binary classification.
+> **[0:01](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=1)** - [Instructor] Now let's talk about a topic that can seem abstract at first, but one can truly make the argument that this issue of the bias-variance trade-off is why a course like this makes sense, and why we have to learn a dozen [[Algorithms]] for doing binary classification.
 >
 > **[0:22](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=22)** Let me explain.
 >
@@ -2402,7 +2369,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=51)** If you have curvilinearity, or variable interactions, you have to act in order to allow your linear discriminate analysis to do that.
 >
-> **[1:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=62)** Neural networks are inherently more flexible.
+> **[1:02](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=62)** [[Neural Networks]] are inherently more flexible.
 >
 > **[1:06](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=66)** But, they're black box and they're more complex.
 >
@@ -2444,7 +2411,7 @@ created: 2026-05-02
 >
 > **[3:11](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=191)** And the title of the book is literally, "The Signal and the Noise: Why So Many Predictions Fail But Some Don't," which is exploring the same issue.
 >
-> **[3:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=200)** Specifically, that rookies at predictive modeling tend to go chasing after too much noise.
+> **[3:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=200)** Specifically, that rookies at [[Predictive Modeling]] tend to go chasing after too much noise.
 >
 > **[3:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=208)** So let's revisit these two terms, and see what you can do.
 >
@@ -2452,7 +2419,7 @@ created: 2026-05-02
 >
 > **[3:40](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=220)** If you're using an algorithm that needs you to physically add them..
 >
-> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=224)** Like discriminate analysis, or logistic regression.
+> **[3:44](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=224)** Like discriminate analysis, or [[Logistic Regression]].
 >
 > **[3:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=228)** Perhaps you have to better address curvilinearity.
 >
@@ -2486,7 +2453,7 @@ created: 2026-05-02
 >
 > **[5:28](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=328)** Each and every algorithm will have adjustments that can be made to make it more flexible or less.
 >
-> **[5:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=335)** "Flexible" sounds inherently good, but remember, flexibility as the word is used here means more complex.
+> **[5:35](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=335)** "Flexible" sounds inherently good, but remember, flexibility as the [[Microsoft Word|word]] is used here means more complex.
 >
 > **[5:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/bias-variance-trade-off-and-overfitting?u=76281980&t=343)** Sometimes you need to try more complex, sometimes you need to try less complex.
 >
@@ -2494,7 +2461,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (5), data (4), [[Neural Networks]] (1), [[Predictive Modeling]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (5), [[Neural Networks]] (1), [[Predictive Modeling]] (1), [[Logistic Regression]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Env Vars:** pdf (1)
@@ -2503,8 +2470,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Analogies:** for instance (1)
 
-#### Data reduction
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980)
+#### [Data reduction](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2520,7 +2486,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=24)** So, you've got your pool of variables and are you choosing the right ones?
 >
-> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=29)** Now, as you know, algorithms differ in how they tackle this.
+> **[0:29](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=29)** Now, as you know, [[Algorithms]] differ in how they tackle this.
 >
 > **[0:33](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=33)** Some tackle it directly and others don't, which raises the following issue.
 >
@@ -2568,7 +2534,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=201)** You can look at them visually.
 >
-> **[3:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=203)** If you are a statistics person, you can run descriptive statistics on them or even inferential statistics, but one way or another, try to take the time to do that.
+> **[3:23](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=203)** If you are a [[Statistics]] person, you can run descriptive statistics on them or even inferential statistics, but one way or another, try to take the time to do that.
 >
 > **[3:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/data-reduction?u=76281980&t=211)** And I really do mean that if I have 500 features, I'm trying to look at each of those features against the target individually outside the context of a modeling algorithm.
 >
@@ -2626,23 +2592,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), feature (6), [[Algorithms]] (4), [[Statistics]] (3), bi (1)
+> **Frameworks & Libraries:** [[Algorithms]] (4), [[Statistics]] (3)
 > **Analogies:** for instance (3), picture (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** find (1)
 > **Cross-References:** earlier in (1)
 > **Speakers:** - [instructor] (1)
 
-#### AutoML
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980)
+#### [AutoML](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=0)** - [Instructor] Once you've started to use the various algorithms that we've discussed in this course, you're going to discover that once you set up the problem for one of these binary classification algorithms, you're also going to be set up for several others.
+> **[0:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=0)** - [Instructor] Once you've started to use the various [[Algorithms]] that we've discussed in this course, you're going to discover that once you set up the problem for one of these binary classification algorithms, you're also going to be set up for several others.
 >
 > **[0:14](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=14)** Many software tools have taken advantage of this with AutoML features, and you're looking at one right now.
 >
-> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=21)** This is the so-called Auto Classifier and IBM SPSS Modeler.
+> **[0:21](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=21)** This is the so-called Auto Classifier and [[IBM SPSS]] Modeler.
 >
 > **[0:26](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=26)** You'll notice there are 17 modeling algorithms that are all using the same setup.
 >
@@ -2662,17 +2627,17 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=90)** But there are lots of software packages that do this, so let me show you another.
 >
-> **[1:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=94)** So here we are in KNIME.
+> **[1:34](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=94)** So here we are in [[Knime]].
 >
 > **[1:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=97)** That's spelled K-N-I-M-E.
 >
 > **[1:42](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=102)** And here, we have not quite as many models, but a bunch, and we can see that we've set up the variables up at the top, and we have models to train.
 >
-> **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=111)** We have Naive Bayes, we have Logistic Regression, we have Gradient Boosted Trees.
+> **[1:51](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=111)** We have Naive Bayes, we have [[Logistic Regression]], we have Gradient Boosted Trees.
 >
 > **[1:55](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=115)** It's not a surprise that all of these platforms will have a similar list.
 >
-> **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=120)** They'll sometimes have a mix of ones that they're pulling in from Python and proprietary ones, but again, the list will be similar, and the concept is similar.
+> **[2:00](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=120)** They'll sometimes have a mix of ones that they're pulling in from [[Python (Programming Language)|Python]] and proprietary ones, but again, the list will be similar, and the concept is similar.
 >
 > **[2:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/automl?u=76281980&t=128)** We set it up once.
 >
@@ -2686,7 +2651,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (7), data (2), [[IBM SPSS]] (1), [[Knime]] (1), [[Logistic Regression]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (7), [[IBM SPSS]] (1), [[Knime]] (1), [[Logistic Regression]] (1), [[Python (Programming Language)|Python]] (1)
 > **Prerequisites:** set up (3), setup (2)
 > **Env Vars:** ibm (1), spss (1), knn (1), knime (1)
 > **CLI Commands:** python (1)
@@ -2699,8 +2664,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2708,29 +2672,29 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=4)** It's always best to practice as soon as you've learned a new skill.
 >
-> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=8)** So go to your machine learning tool of choice, grab a data set, and try the algorithms that were new to you.
+> **[0:08](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=8)** So go to your machine learning tool of choice, grab a data set, and try the [[Algorithms]] that were new to you.
 >
 > **[0:15](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=15)** But what if you haven't learned a machine learning platform yet?
 >
 > **[0:20](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=20)** I'm a big fan of starting with Codeless machine learning first.
 >
-> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=25)** Certainly if you want to learn R and Python, there are lots of great options in the library.
+> **[0:25](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=25)** Certainly if you want to learn R and [[Python (Programming Language)|Python]], there are lots of great options in the library.
 >
 > **[0:31](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=31)** But if you want to give Codeless a try, there are two learning paths for you.
 >
-> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=37)** There's a KNIME learning path and there's an IBM SPSS learning path.
+> **[0:37](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=37)** There's a [[Knime]] learning path and there's an [[IBM SPSS]] learning path.
 >
 > **[0:43](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=43)** They both start with basic operations and then move on to the kinds of algorithms that we've discussed.
 >
 > **[0:48](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=48)** For instance, there are decision tree courses in both learning paths.
 >
-> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=54)** Whichever path you choose, I hope you'll let me know how you are progressing by posting your progress, following me on LinkedIn, and maybe even attending one of my office hours.
+> **[0:54](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=54)** Whichever path you choose, I hope you'll let me know how you are progressing by posting your progress, following me on [[LinkedIn]], and maybe even attending one of my [[Microsoft Office|office]] hours.
 >
 > **[1:05](https://www.linkedin.com/learning/machine-learning-and-ai-foundations-classification-modeling/next-steps-20206114?u=76281980&t=65)** And if you see me at a conference, I hope you'll say hi.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Algorithms]] (2), next (1), data (1), [[Python (Programming Language)|Python]] (1), [[Knime]] (1)
+> **Frameworks & Libraries:** [[Algorithms]] (2), [[Python (Programming Language)|Python]] (1), [[Knime]] (1), [[IBM SPSS]] (1), [[LinkedIn]] (1)
 > **Env Vars:** knime (1), ibm (1), spss (1)
 > **CLI Commands:** python (1)
 > **UI Navigation:** go to (1)

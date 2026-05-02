@@ -100,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Advanced formatting in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980)
+#### [Advanced formatting in Excel](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=0)** - [Oz du Soleil] Excel is more than formulas and data.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=0)** - [Oz du Soleil] [[Microsoft Excel|Excel]] is more than formulas and data.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=4)** Excel comes with a lot of tools to help you control how your data looks and behaves, to make everything easier to read and visually interesting.
 >
@@ -117,13 +116,13 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=55)** I'm Oz du Soleil.
 >
-> **[0:57](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=57)** I've been working with Excel and data for over 20 years, and I've been a Microsoft Excel MVP since January, 2015.
+> **[0:57](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=57)** I've been working with Excel and data for over 20 years, and I've been a [[Microsoft Excel]] MVP since January, 2015.
 >
 > **[1:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/advanced-formatting-in-excel?u=76281980&t=68)** And I am excited about this opportunity to show you Excel's range of tools for robust formatting.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), data (4), [[Microsoft Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), [[Microsoft Excel]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mvp (1)
 > **Speakers:** - [oz (1)
@@ -133,8 +132,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Subscript, underline, and strikethrough text
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/subscript-underline-and-strikethrough-text?u=76281980)
+#### [Subscript, underline, and strikethrough text](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/subscript-underline-and-strikethrough-text?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -248,18 +246,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** power (1), next (1), hit (1)
 > **Env Vars:** nh3 (1), c12 (1), c13 (1)
 > **Speakers:** - [instructor] (2), - [nick] (1)
 > **UI Navigation:** scroll down (1), go to (1)
 > **Versions:** 6.02 (1)
 
-#### Center across a selection vs. merged cells
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980)
+#### [Center across a selection vs. merged cells](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=0)** - [Instructor] Centering and merging cells is a controversial topic in the Excel world.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=0)** - [Instructor] Centering and merging cells is a controversial topic in the [[Microsoft Excel|Excel]] world.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/center-across-a-selection-vs-merged-cells?u=76281980&t=8)** There are a lot of people who say don't ever, ever, ever use the feature Merge & Center.
 >
@@ -325,7 +321,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Microsoft Excel|Excel]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (2), open the (1), dropdown (1)
 > **Warnings:** be aware (1), keep in mind (1)
 > **Env Vars:** d13 (1)
@@ -333,8 +329,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Create angled text for readability and organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/create-angled-text-for-readability-and-organization?u=76281980)
+#### [Create angled text for readability and organization](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/create-angled-text-for-readability-and-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -434,13 +429,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (2), open the (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Indent cell contents and add new lines within a cell
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/indent-cell-contents-and-add-new-lines-within-a-cell?u=76281980)
+#### [Indent cell contents and add new lines within a cell](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/indent-cell-contents-and-add-new-lines-within-a-cell?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -658,7 +651,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** find (3), make (1)
 > **UI Navigation:** open the (2), click on (1), go to (1)
 > **Code Identifiers:** lookup_array (1), if_not_found (1), stay_blank (1)
@@ -666,8 +658,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insert symbols: Bullet points, stars, and François
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980)
+#### [Insert symbols: Bullet points, stars, and François](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/insert-symbols-bullet-points-stars-and-francois?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -907,7 +898,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3)
 > **Env Vars:** vlookup (4), xlookup (3), char (3), cjy (1), c13 (1)
 > **UI Navigation:** go to (8)
 > **CLI Commands:** make (2), find (1)
@@ -921,8 +911,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Dates and custom formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980)
+#### [Dates and custom formatting](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -932,7 +921,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=8)** I want to show you enough to get started.
 >
-> **[0:12](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=12)** In case you didn't know, Excel counts the number of days from January 1st, 1900.
+> **[0:12](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=12)** In case you didn't know, [[Microsoft Excel|Excel]] counts the number of days from January 1st, 1900.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/dates-and-custom-formatting?u=76281980&t=21)** So the value in cell B2 is the 44,700th day after the 1st of January, 1900.
 >
@@ -1110,7 +1099,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (4), scroll down (2), click on (1)
 > **Versions:** 0.4 (1), 0.66 (1), 0.08 (1)
 > **Ports:** :30 (1), :12 (1)
@@ -1118,8 +1107,7 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 
-#### Make consistent entries with Find and Replace
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980)
+#### [Make consistent entries with Find and Replace](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1129,7 +1117,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=11)** Sascha's phone number has decimal places.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=15)** John, Kaye, and Kyara, they have hyphens, our goal is to get these consistent.
+> **[0:15](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=15)** [[John the Ripper|John]], Kaye, and Kyara, they have hyphens, our goal is to get these consistent.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/make-consistent-entries-with-find-and-replace?u=76281980&t=23)** There is no right or wrong way, we just need consistency and we need to make it easier for when more phone numbers come in, so let's try this.
 >
@@ -1183,15 +1171,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), hit (1)
+> **Frameworks & Libraries:** [[John the Ripper|John]] (1)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Positive and negative numbers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980)
+#### [Positive and negative numbers](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1279,7 +1266,7 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=181)** And I'm going to put a double quote, space.
 >
-> **[3:05](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=185)** In Windows, I'm going to hold down the Windows key and the decimal point to get that to pop up.
+> **[3:05](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=185)** In [[Windows]], I'm going to hold down the Windows key and the decimal point to get that to pop up.
 >
 > **[3:13](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/positive-and-negative-numbers?u=76281980&t=193)** And now I'm going to get the happy face with the star glasses, okay?
 >
@@ -1313,12 +1300,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format hours, minutes, and seconds
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980)
+#### [Format hours, minutes, and seconds](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=0)** - [Instructor] Let's look at time formatting and this is one of those topics that can go really, really deep because of the way that Excel works with time.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=0)** - [Instructor] Let's look at time formatting and this is one of those topics that can go really, really deep because of the way that [[Microsoft Excel|Excel]] works with time.
 >
 > **[0:13](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-hours-minutes-and-seconds?u=76281980&t=13)** So let me show you some time formatting.
 >
@@ -1449,8 +1435,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### M for millions and K for thousands
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980)
+#### [M for millions and K for thousands](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/m-for-millions-and-k-for-thousands?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1512,29 +1497,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **Versions:** 0.0 (1), 279.4 (1), 0.9 (1), 0.00 (1), 8.01 (1)
 > **UI Navigation:** double-click (1), go to (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format numbers with Power Query
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980)
+#### [Format numbers with Power Query](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=0)** - [Instructor] It's time to show you Power Query and how Power Query can help you clean up formats and get 'em consistent.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=0)** - [Instructor] It's time to show you [[Microsoft Power Query|Power Query]] and how Power Query can help you clean up formats and get 'em consistent.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=11)** Now, I'm sorry that Mac users don't have Power Query yet.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=16)** The Excel engineers are working on that.
+> **[0:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=16)** The [[Microsoft Excel|Excel]] engineers are working on that.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=19)** At one time, Mac users couldn't even open a file that had Power Query in it.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=24)** Now you can at least open it but that's all.
 >
-> **[0:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=27)** So what I'm going to show you, you have to be on a full version of Windows Excel.
+> **[0:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=27)** So what I'm going to show you, you have to be on a full version of [[Windows]] Excel.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-numbers-with-power-query?u=76281980&t=36)** We've got this data with IDs and the formatting is all over the place.
 >
@@ -1710,7 +1693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), next (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Power Query|Power query]] (9), [[Microsoft Excel|Excel]] (3), [[Windows]] (1)
 > **UI Navigation:** go to (2), scroll up (1), scroll down (1)
 > **CLI Commands:** make (1)
 > **Best Practices:** it's best to (1)
@@ -1722,8 +1705,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Group and align shapes
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980)
+#### [Group and align shapes](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1731,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=9)** We've got to clean this up.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=10)** And Excel gives us a lot of options for working with shapes and objects.
+> **[0:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=10)** And [[Microsoft Excel|Excel]] gives us a lot of options for working with shapes and objects.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/group-and-align-shapes?u=76281980&t=18)** So I'm going to show you a few things that we can do to get this cleaned up, looking nicer and making sense.
 >
@@ -1899,26 +1881,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5)
 > **CLI Commands:** make (2)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Transform text into shapes with WordArt
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980)
+#### [Transform text into shapes with WordArt](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=0)** - [Instructor] We're going to talk about WordArt and spicing things up a bit in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=0)** - [Instructor] We're going to talk about WordArt and spicing things up a bit in [[Microsoft Excel|Excel]].
 >
-> **[0:07](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=7)** And no, Excel is not a graphic design tool but depending on what you need, it could be good enough.
+> **[0:07](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=7)** And no, Excel is not a [[Graphic Design]] tool but depending on what you need, it could be good enough.
 >
 > **[0:15](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=15)** I know that I use it for certain things, especially when I'm making up examples for students and I need something that looks nice and represents what we're trying to accomplish.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=27)** So here is an invoice that I made up and the company is called Plenty-O-Light.
 >
-> **[0:35](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=35)** That could look better, not just that word right there.
+> **[0:35](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=35)** That could look better, not just that [[Microsoft Word|word]] right there.
 >
 > **[0:40](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/transform-text-into-shapes-with-wordart?u=76281980&t=40)** So let's go over here, insert, go over here to the text area, WordArt.
 >
@@ -2041,14 +2022,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Place text inside a shape
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980)
+#### [Place text inside a shape](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=0)** - [Instructor] Sometimes when you're trying to get a workbook set up, it can be tough because of things like this.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=8)** I've got text here that's pretty long in each cell and I don't want to do a word wrap.
+> **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=8)** I've got text here that's pretty long in each cell and I don't want to do a [[Microsoft Word|word]] wrap.
 >
 > **[0:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/place-text-inside-a-shape?u=76281980&t=16)** Hey, if I do that, now I've got to deal with this, widening the column and dealing with the height of the rows, let's undo that.
 >
@@ -2104,7 +2084,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Microsoft Word|Word]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (1)
 > **UI Navigation:** go to (2), click on (1)
 > **CLI Commands:** make (2)
 > **Prerequisites:** set up (1)
@@ -2115,8 +2095,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Conditional formatting for duplicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980)
+#### [Conditional formatting for duplicates](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-duplicates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2268,7 +2247,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (2)
 > **URLs:** [fakeemail.com](https://fakeemail.com) (1)
@@ -2276,8 +2254,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - [instructor] (1)
 
-#### Highlight fast-approaching dates
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980)
+#### [Highlight fast-approaching dates](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2343,7 +2320,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=255)** Don't use your arrow keys to do this because then you'll get some really wild cell references in here.
 >
-> **[4:24](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=264)** A lot of us have complained to the Excel engineers about it, but nothing's changed.
+> **[4:24](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=264)** A lot of us have complained to the [[Microsoft Excel|Excel]] engineers about it, but nothing's changed.
 >
 > **[4:30](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/highlight-fast-approaching-dates?u=76281980&t=270)** Let's keep going.
 >
@@ -2415,15 +2392,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), management (1), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **Cross-References:** coming up (4), go back to (1)
 > **Env Vars:** ekg (1), g17 (1), today (1)
 > **UI Navigation:** go to (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional formatting for icons
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-icons?u=76281980)
+#### [Conditional formatting for icons](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-icons?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2565,12 +2541,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1), hit (1)
 > **UI Navigation:** go to (4)
 > **Speakers:** - [instructor] (1)
 
-#### Conditional formatting for strikethrough fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-strikethrough-fonts?u=76281980)
+#### [Conditional formatting for strikethrough fonts](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/conditional-formatting-for-strikethrough-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2682,7 +2656,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (1)
 > **UI Navigation:** go to (2)
 > **Env Vars:** g24 (1)
 > **Definitions:** is a  (1)
@@ -2693,8 +2666,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Page numbers and page breaks
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/page-numbers-and-page-breaks?u=76281980)
+#### [Page numbers and page breaks](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/page-numbers-and-page-breaks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2830,15 +2802,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), hit (1)
 > **UI Navigation:** scroll down (5), scroll up (1), go to (1)
 > **Cross-References:** go back to (3)
 > **Analogies:** just like (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Print preview
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980)
+#### [Print preview](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2852,7 +2822,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=27)** And then we scroll down between rows 32 and 33 there's a dash line.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=34)** Now you'd recognize this if you went to Print Preview and then came back to Excel and then there's those dash lines.
+> **[0:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=34)** Now you'd recognize this if you went to Print Preview and then came back to [[Microsoft Excel|Excel]] and then there's those dash lines.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/print-preview?u=76281980&t=41)** How do you get rid of 'em?
 >
@@ -2910,13 +2880,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), [[Microsoft Excel|Excel]] (1), hit (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** go to (5), scroll down (3)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format your worksheets to control what gets printed
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-your-worksheets-to-control-what-gets-printed?u=76281980)
+#### [Format your worksheets to control what gets printed](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-your-worksheets-to-control-what-gets-printed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2991,8 +2960,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Format multiple sheets at once
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-multiple-sheets-at-once?u=76281980)
+#### [Format multiple sheets at once](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-multiple-sheets-at-once?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3120,14 +3088,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1)
 > **UI Navigation:** go to (3), click on (2)
 > **Cross-References:** go back to (2)
 > **Versions:** 1.25 (1)
 > **Speakers:** - [instructor] (1)
 
-#### Set workbook defaults to open with your preferences
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980)
+#### [Set workbook defaults to open with your preferences](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3135,7 +3101,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=4)** What I want to show you is defaults that you can change if you like.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=10)** Let's say that you have a specific number of sheets that you would like Excel to automatically open with and you have a font and font size.
+> **[0:10](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=10)** Let's say that you have a specific number of sheets that you would like [[Microsoft Excel|Excel]] to automatically open with and you have a font and font size.
 >
 > **[0:21](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=21)** Let's look at this.
 >
@@ -3153,7 +3119,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=55)** One other thing we can look at.
 >
-> **[0:57](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=57)** "Personalize your copy of Microsoft Office."
+> **[0:57](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=57)** "Personalize your copy of [[Microsoft Office]]."
 >
 > **[1:01](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=61)** Mine is set to "Circuit" background, "Black" theme.
 >
@@ -3161,7 +3127,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=74)** Okay.
 >
-> **[1:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=76)** This alert is saying, "Please close and restart "Microsoft Excel, so the font changes can take effect."
+> **[1:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=76)** This alert is saying, "Please close and restart "[[Microsoft Excel]], so the font changes can take effect."
 >
 > **[1:21](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/set-workbook-defaults-to-open-with-your-preferences?u=76281980&t=81)** Click "OK."
 >
@@ -3190,12 +3156,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Format tables
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980)
+#### [Format tables](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and Excel has a feature called tables and too few people use tables.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=0)** - [Instructor] Here we have a lot of data and [[Microsoft Excel|Excel]] has a feature called tables and too few people use tables.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-tables?u=76281980&t=11)** They're so powerful.
 >
@@ -3293,14 +3258,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (1), feature (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** scroll down (3), go to (3), dropdown (1)
 > **Versions:** 0.5 (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Format slicers
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980)
+#### [Format slicers](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-slicers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3410,17 +3374,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), next (1)
 > **CLI Commands:** make (6)
 > **UI Navigation:** select the (1), go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Apply workbook themes and styles
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980)
+#### [Apply workbook themes and styles](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=0)** - [Instructor] Let's talk about styles and themes in Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=0)** - [Instructor] Let's talk about styles and themes in [[Microsoft Excel|Excel]].
 >
 > **[0:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=4)** And I think themes are drastically underused.
 >
@@ -3464,7 +3426,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=122)** Now let's look at themes in page layout.
 >
-> **[2:07](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=127)** I'm going to go to themes, and you can see, that I am in the generic default office theme.
+> **[2:07](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=127)** I'm going to go to themes, and you can see, that I am in the generic default [[Microsoft Office|office]] theme.
 >
 > **[2:16](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/apply-workbook-themes-and-styles?u=76281980&t=136)** Or we can pick another theme, let's go to gallery, and we get a preview.
 >
@@ -3514,7 +3476,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (4), [[Microsoft Excel|Excel]] (1), generic (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft Office|Office]] (1)
 > **UI Navigation:** go to (3), dropdown (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -3525,8 +3487,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Grid lines, legends, and other chart formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/grid-lines-legends-and-other-chart-formatting?u=76281980)
+#### [Grid lines, legends, and other chart formatting](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/grid-lines-legends-and-other-chart-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3672,14 +3633,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), next (1), hit (1)
 > **CLI Commands:** make (6), find (1)
 > **UI Navigation:** click on (2), go to (1), scroll down (1), select the (1)
 > **Env Vars:** ord (1), las (1), gru (1)
 > **Speakers:** - [instructor] (1)
 
-#### 3D, shadows, and other advanced chart formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/3d-shadows-and-other-advanced-chart-formatting?u=76281980)
+#### [3D, shadows, and other advanced chart formatting](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/3d-shadows-and-other-advanced-chart-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3761,7 +3720,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (1), hit (1)
 > **UI Navigation:** go to (5), click on (1)
 > **CLI Commands:** make (5)
 > **Warnings:** be careful (1)
@@ -3772,8 +3730,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and uninstall fonts
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980)
+#### [Install and uninstall fonts](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3819,7 +3776,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=124)** All right, it's installed.
 >
-> **[2:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=128)** Now, I have to save everything and completely close all instances of Excel before that font will show up.
+> **[2:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=128)** Now, I have to save everything and completely close all instances of [[Microsoft Excel|Excel]] before that font will show up.
 >
 > **[2:18](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/install-and-uninstall-fonts?u=76281980&t=138)** So, let me go ahead, Save, close Excel, reopen it,
 >
@@ -3873,13 +3830,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), data (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **UI Navigation:** double-click (3), right-click (2), scroll down (1), scroll up (1), go to (1)
 > **Prerequisites:** install (6)
 > **Speakers:** - [instructor] (1)
 
-#### Format your worksheet's background with an image
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-your-worksheet-s-background-with-an-image?u=76281980)
+#### [Format your worksheet's background with an image](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/format-your-worksheet-s-background-with-an-image?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3971,14 +3927,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), data (1), next (1)
 > **UI Navigation:** go to (4)
 > **Analogies:** picture (4)
 > **Cross-References:** go back to (2)
 > **Speakers:** - [instructor] (1)
 
-#### Manage hyperlinks
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980)
+#### [Manage hyperlinks](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4016,7 +3970,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=69)** (computer mouse clicking) I'm going to hit Control + A in Firefox, right-click and copy.
 >
-> **[1:20](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=80)** Go back to Excel, right-click and if I don't want the hyperlinks, I just need the text or maybe I want the images as well.
+> **[1:20](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=80)** Go back to [[Microsoft Excel|Excel]], right-click and if I don't want the hyperlinks, I just need the text or maybe I want the images as well.
 >
 > **[1:36](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/manage-hyperlinks?u=76281980&t=96)** I would select match destination formatting.
 >
@@ -4082,7 +4036,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (3), [[Microsoft Excel|Excel]] (1), web (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1)
 > **UI Navigation:** right-click (6), go to (2), click on (1), scroll down (1)
 > **Non-Speech:** (computer mouse clicking) (8), (computer keyboard clicking) (1)
 > **CLI Commands:** find (2), make (1)
@@ -4091,8 +4045,7 @@ created: 2026-05-02
 > **Tools:** firefox (1)
 > **Definitions:** is a  (1)
 
-#### Color-picker and RGB code for colors
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980)
+#### [Color-picker and RGB code for colors](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4102,7 +4055,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=12)** The colors in the graph need to match the colors in the company logo over on the right side.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=20)** Unfortunately, Excel does not have an eyedropper or color picker like PowerPoint and other softwares do.
+> **[0:20](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=20)** Unfortunately, [[Microsoft Excel|Excel]] does not have an eyedropper or color picker like [[Microsoft PowerPoint|PowerPoint]] and other softwares do.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/color-picker-and-rgb-code-for-colors?u=76281980&t=28)** But, in the text box, we've been given the RGB code and the HEX code for both of the colors, orange burst and Grape Bubblegum.
 >
@@ -4174,13 +4127,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** hit (2), [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Env Vars:** hex (3), rgb (2), ffc000 (1), ufo (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - let (1)
 
-#### Clear Formatting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/clear-formatting?u=76281980)
+#### [Clear Formatting](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/clear-formatting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4218,7 +4170,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2)
 > **CLI Commands:** make (3)
 > **UI Navigation:** scroll down (1)
 > **Speakers:** - [instructor] (1)
@@ -4228,12 +4179,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Getting the most from Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980)
+#### [Getting the most from Excel](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=0)** - [Oz] Congratulations on completing this course on Advanced Formatting Techniques in Microsoft Excel.
+> **[0:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=0)** - [Oz] Congratulations on completing this course on Advanced Formatting Techniques in [[Microsoft Excel]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=8)** You now have skills to control how your data looks and performs.
 >
@@ -4241,9 +4191,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=27)** Also, there were a couple of things like formatting dates, and formatting times with so much more to cover.
 >
-> **[0:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=34)** And if you want to go deeper into those, you can find more on those topics in the LinkedIn Learning library.
+> **[0:34](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=34)** And if you want to go deeper into those, you can find more on those topics in the [[LinkedIn]] Learning library.
 >
-> **[0:42](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=42)** And, of course, you can check out my other courses on the library, where I cover topics like Power Query and dynamic arrays.
+> **[0:42](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=42)** And, of course, you can check out my other courses on the library, where I cover topics like [[Microsoft Power Query|Power Query]] and dynamic arrays.
 >
 > **[0:51](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=51)** It's been a real pleasure to put this course together for you.
 >
@@ -4251,13 +4201,13 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=60)** And, again, congratulations.
 >
-> **[1:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=64)** I'm Oz du Soleil, and you can find me on LinkedIn and at my YouTube channel, Excel on Fire.
+> **[1:04](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=64)** I'm Oz du Soleil, and you can find me on LinkedIn and at my YouTube channel, [[Microsoft Excel|Excel]] on Fire.
 >
 > **[1:12](https://www.linkedin.com/learning/excel-advanced-formatting-techniques/getting-the-most-from-excel?u=76281980&t=72)** And I wish you the best on getting the most from your data and Microsoft Excel.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel]] (2), data (2), [[LinkedIn]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel]] (2), [[LinkedIn]] (2), [[Microsoft Power Query|Power query]] (1), [[Microsoft Excel|Excel]] (1)
 > **CLI Commands:** find (2)
 > **Speakers:** - [oz] (1)
 

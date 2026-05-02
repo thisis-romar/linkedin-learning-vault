@@ -108,20 +108,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Databases in Node.js:  Relational, document, and in-memory storage in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980)
+#### [Databases in Node.js:  Relational, document, and in-memory storage in action](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=0)** - [Daniel] My first contact with databases was in the late '90s, when I had to store data from a form.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=0)** - [Daniel] My first contact with [[Databases]] was in the late '90s, when I had to store data from a form.
 >
 > **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=6)** But today, the world runs on data on a scale that goes far beyond a simple form submission.
 >
-> **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=12)** In this course, you will learn how to work with relational databases like MySQL, and ensuring structured and consistent data.
+> **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=12)** In this course, you will learn how to work with [[Relational Databases]] like [[MySQL]], and ensuring structured and consistent data.
 >
-> **[0:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=20)** You'll also explore document databases like MongoDB, offering flexibility for dynamic applications.
+> **[0:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=20)** You'll also explore document databases like [[MongoDB]], offering flexibility for dynamic applications.
 >
-> **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=27)** You'll leverage in memory databases like Redis, built for speed and real time processing.
+> **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=27)** You'll leverage in memory databases like [[Redis]], built for speed and real time processing.
 >
 > **[0:33](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/databases-in-node-js-relational-document-in-memory-storage-in-action?u=76281980&t=33)** I'll keep the theory to a minimum, just enough to give you the why behind what you're doing.
 >
@@ -133,7 +132,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (3), data (3), [[Relational Databases]] (1), [[MySQL]] (1), [[MongoDB]] (1)
+> **Frameworks & Libraries:** [[Databases]] (3), [[Relational Databases]] (1), [[MySQL]] (1), [[MongoDB]] (1), [[Redis]] (1)
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [daniel] (1)
 
@@ -142,14 +141,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course you should have a basic understanding of JavaScript and Node.js.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980&t=0)** - [Instructor] To get the most out of this course you should have a basic understanding of [[JavaScript]] and [[Node.js]].
 >
-> **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980&t=5)** You should know how to create the basic web application using a framework like Express.js or Fastify.
+> **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980&t=5)** You should know how to create the basic web application using a framework like [[Express.js]] or Fastify.
 >
 > **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/what-you-should-know?u=76281980&t=11)** You should understand functions and be familiar with callbacks, Promises and Async await.
 >
@@ -169,28 +167,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JavaScript]] (2), [[Node.js]] (2), web application (1), [[Express.js]] (1), express (1)
+> **Frameworks & Libraries:** [[JavaScript]] (2), [[Node.js]] (2), [[Express.js]] (1)
 > **File Paths:** node.js (2), express.js (1)
 > **CLI Commands:** node (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Getting your tools ready
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980)
+#### [Getting your tools ready](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=0)** - [Instructor] Before we dive into the course, let's make sure that we have our tool belt ready.
 >
-> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=4)** So first we need Node.js.
+> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=4)** So first we need [[Node.js]].
 >
-> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=6)** Node.js is the runtime that allows you to run JavaScript outside of the browser, and I hope you know that, and you can download it free from the Node.js website.
+> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=6)** Node.js is the runtime that allows you to run [[JavaScript]] outside of the browser, and I hope you know that, and you can download it free from the Node.js website.
 >
 > **[0:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=15)** Make sure to install the LTS, the so-called long-term support version, as it's the most stable and widely used one.
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=22)** After installing it, you can go into your terminal and just type "node -v" and you should get the installed Node.js version and if you get this, you know Node.js environment is set up properly.
 >
-> **[0:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=36)** The sample files for this course are stored in a GitHub repository, so you'll need Git to download and manage them.
+> **[0:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=36)** The sample files for this course are stored in a [[GitHub]] repository, so you'll need [[Git]] to download and manage them.
 >
 > **[0:43](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=43)** You can download Git from the git-scm website.
 >
@@ -202,11 +199,11 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=67)** Since Git and GitHub are widely used by developers, learning them is a great investment into your career.
 >
-> **[1:13](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=73)** During this course, we will work with multiple database systems.
+> **[1:13](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=73)** During this course, we will work with multiple [[Database Systems]].
 >
 > **[1:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=76)** Setting them up manually can be complex, so we'll use Docker to run them inside lightweight, isolated containers.
 >
-> **[1:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=85)** Docker is available for Windows, Mac, and Linux, and you can download and install it from the [docker.com](https://docker.com) website.
+> **[1:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=85)** Docker is available for [[Windows]], Mac, and [[Linux]], and you can download and install it from the [docker.com](https://docker.com) website.
 >
 > **[1:32](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/getting-your-tools-ready?u=76281980&t=92)** After installing, you can verify that Docker is running by going into your terminal and typing "docker --version."
 >
@@ -224,7 +221,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Git]] (10), [[Node.js]] (7), [[GitHub]] (4), database (2), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Git]] (10), [[Node.js]] (7), [[GitHub]] (4), [[JavaScript]] (1), [[Database Systems]] (1)
 > **CLI Commands:** git (10), node (8), docker (6), make (2)
 > **Tools:** github (4), visual studio (4), terminal (3)
 > **File Paths:** node.js (7)
@@ -233,12 +230,11 @@ created: 2026-05-02
 > **Env Vars:** lts (1)
 > **Definitions:** is a  (1)
 
-#### How to use the exercise files
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980)
+#### [How to use the exercise files](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=0)** - [Narrator] All the exercise files for this course are available on GitHub.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=0)** - [Narrator] All the exercise files for this course are available on [[GitHub]].
 >
 > **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=4)** You'll find the repository at this URL.
 >
@@ -266,11 +262,11 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=77)** So now I'm switching into my terminal and there I'm heading to my desktop because I want to clone this into my desktop.
 >
-> **[1:28](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=88)** And on my desktop, I now type git clone.
+> **[1:28](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=88)** And on my desktop, I now type [[Git]] clone.
 >
 > **[1:33](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=93)** And there I will now just paste this repository URL.
 >
-> **[1:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=99)** The next thing I'm going to do, I switch into this repository and now I perform a git fetch --all to fetch all the branches.
+> **[1:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=99)** The next thing I'm going to do, I switch into this repository and now I perform a git [[Fetch]] --all to fetch all the branches.
 >
 > **[1:52](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/how-to-use-the-exercise-files?u=76281980&t=112)** So now we have downloaded all the files and branches.
 >
@@ -308,7 +304,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[GitHub]] (6), [[Fetch]] (3), [[Git]] (2), next (2), data (1)
+> **Frameworks & Libraries:** [[GitHub]] (6), [[Fetch]] (3), [[Git]] (2)
 > **Env Vars:** url (6), ssh (2), https (1)
 > **Tools:** github (6), terminal (1), visual studio (1)
 > **CLI Commands:** ssh (2), git (2), find (1)
@@ -317,8 +313,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Analogies:** for instance (1)
 
-#### Exploring the sample project
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980)
+#### [Exploring the sample project](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -326,7 +321,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=4)** Now let's set up everything to run the project.
 >
-> **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=8)** First, let me open the package.json file for you.
+> **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=8)** First, let me open the package.[[JSON]] file for you.
 >
 > **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=11)** This project is built with Fastify instead of Express.
 >
@@ -334,7 +329,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=22)** Before running the project, we need to install the dependencies.
 >
-> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=26)** So now I click on Terminal, New Terminal, and there I simply type npm install.
+> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=26)** So now I click on Terminal, New Terminal, and there I simply type [[npm]] install.
 >
 > **[0:34](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=34)** This will now pull down all the dependencies.
 >
@@ -370,7 +365,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=132)** None of this comes from the database as of now.
 >
-> **[2:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=135)** We have some user management, we have some item management, also order management, and users also can log in.
+> **[2:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=135)** We have some [[User Management]], we have some item management, also order management, and users also can log in.
 >
 > **[2:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-the-sample-project?u=76281980&t=143)** Also, we have a search bar on the top right where we can search for items.
 >
@@ -380,7 +375,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (9), [[JSON]] (2), [[npm]] (2), application (2), database (2)
+> **Frameworks & Libraries:** [[JSON]] (2), [[npm]] (2), [[User Management]] (1)
 > **File Paths:** package.json (2), server.js (2)
 > **UI Navigation:** click on (2), open the (1), scroll up (1)
 > **Analogies:** similar to (3), just like (1)
@@ -394,8 +389,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Some basics about databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980)
+#### [Some basics about databases](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -411,21 +405,21 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=22)** The difference today, we generate more data than ever.
 >
-> **[0:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=25)** Think about big data, social media, and e-commerce, all powered by databases.
+> **[0:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=25)** Think about [[Big Data]], social media, and [[E-Commerce]], all powered by [[Databases]].
 >
 > **[0:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=31)** A database doesn't work alone.
 >
-> **[0:33](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=33)** It comes with a database management system.
+> **[0:33](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=33)** It comes with a [[Database Management]] system.
 >
 > **[0:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=36)** DBMS often called the database server.
 >
 > **[0:40](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=40)** The DBMS is an application that runs either on the same machine as your application or on a separate server your app connects to.
 >
-> **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=50)** It handles data storage, retrieval, and organization.
+> **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=50)** It handles [[Data Storage]], retrieval, and organization.
 >
 > **[0:54](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=54)** Every database management system organizes data in structures like tables.
 >
-> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=59)** This would be relational databases or collections.
+> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=59)** This would be [[Relational Databases]] or collections.
 >
 > **[1:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=63)** This would be document databases.
 >
@@ -445,15 +439,15 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=101)** Some databases store each table as a file on disk while others use more advanced structures.
 >
-> **[1:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=107)** This is a very deep topic and we won't touch it in this course, but just know that storage impacts speed, efficiency, and scalability.
+> **[1:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=107)** This is a very deep topic and we won't touch it in this course, but just know that storage impacts speed, efficiency, and [[Scalability]].
 >
 > **[1:56](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=116)** To interact with a database where application needs a client library, a package that provides an interface and API for database communication, under the hood, this library now speaks the databases communication protocol to send and retrieve data efficiently.
 >
-> **[2:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=134)** Let's dive a little bit more into the different types of database systems in the next videos.
+> **[2:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/some-basics-about-databases?u=76281980&t=134)** Let's dive a little bit more into the different types of [[Database Systems]] in the next videos.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (10), data (8), [[Databases]] (5), application (3), management (2)
+> **Frameworks & Libraries:** [[Databases]] (5), [[Database Management]] (2), [[Big Data]] (1), [[E-Commerce]] (1), [[Data Storage]] (1)
 > **Env Vars:** dbms (4), api (1)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** find (1)
@@ -461,14 +455,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [host] (1)
 
-#### Understanding relational databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980)
+#### [Understanding relational databases](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=0)** - [Instructor] When I first started using databases professionally, relational databases were the standard.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=0)** - [Instructor] When I first started using [[Databases]] professionally, [[Relational Databases]] were the standard.
 >
-> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=6)** Back then, MySQL and Postgres dominated the space and they're still widely used today.
+> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=6)** Back then, [[MySQL]] and [[PostgreSQL|Postgres]] dominated the space and they're still widely used today.
 >
 > **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=12)** A relational database is great when data has clear relationships.
 >
@@ -512,7 +505,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=140)** This structure allows us to efficiently manage complex relationships in relational databases.
 >
-> **[2:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=146)** Poor database design can lead to data inconsistency.
+> **[2:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=146)** Poor [[Database Design]] can lead to data inconsistency.
 >
 > **[2:29](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=149)** Take this example.
 >
@@ -544,37 +537,36 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=261)** This prevents issues like double spending or inconsistent records.
 >
-> **[4:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=266)** So let's look at the landscape really quickly in the open source space, MySQL and Postgres are still dominating the space, but we also have commercial offerings like Oracle, IBM Db2, and Microsoft SQL Server.
+> **[4:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=266)** So let's look at the landscape really quickly in the open source space, MySQL and Postgres are still dominating the space, but we also have commercial offerings like Oracle, IBM Db2, and [[Microsoft SQL Server]].
 >
 > **[4:42](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=282)** And there are also other offerings that are now coming in, well, all the cloud providers, but they have at its core very often something like MySQL, Postgres, or any other database system under the hood.
 >
 > **[4:56](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=296)** Relational databases are powerful, but the rigid schemas aren't always the best fit for modern, fast-changing applications.
 >
-> **[5:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=304)** That's where so-called NoSQL databases come in.
+> **[5:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=304)** That's where so-called [[NoSQL]] databases come in.
 >
 > **[5:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-relational-databases?u=76281980&t=308)** Let's explore them next.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[Relational Databases]] (8), database (5), [[Databases]] (3), [[MySQL]] (3)
+> **Frameworks & Libraries:** [[Relational Databases]] (8), [[Databases]] (3), [[MySQL]] (3), [[PostgreSQL|Postgres]] (3), [[Database Design]] (1)
 > **Analogies:** for example (3), for instance (2), imagine (1)
 > **Definitions:** is a  (2), is called (1), stands for (1), means that (1)
 > **CLI Commands:** mysql (3), make (1)
 > **Env Vars:** acid (2), ibm (1), sql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding document databases
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980)
+#### [Understanding document databases](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=0)** - [Instructor] In the early 2010s, new class of databases, so-called NoSQL databases gained popularity.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=0)** - [Instructor] In the early 2010s, new class of [[Databases]], so-called [[NoSQL]] databases gained popularity.
 >
-> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=6)** These include document databases like MongoDB, CouchDB, or Couchbase, key value stores like Redis or DynamoDB, column stores like Cassandra or ClickHouse and graph databases like Neo5J.
+> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=6)** These include document databases like [[MongoDB]], CouchDB, or [[Couchbase]], key value stores like [[Redis]] or DynamoDB, column stores like Cassandra or ClickHouse and graph databases like Neo5J.
 >
-> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=21)** Even though NoSQL databases have been around since the 1960s, they became widely used within this whole Web 2.0 movement due to the need for more scalable or more flexible data storage.
+> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=21)** Even though NoSQL databases have been around since the 1960s, they became widely used within this whole Web 2.0 movement due to the need for more scalable or more flexible [[Data Storage]].
 >
-> **[0:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=35)** So how is NoSQL different to relational databases?
+> **[0:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=35)** So how is NoSQL different to [[Relational Databases]]?
 >
 > **[0:40](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=40)** Unlike relational databases, and I think that's the most important distinction in the end, NoSQL databases don't enforce integrity rules through relations.
 >
@@ -600,7 +592,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=109)** So everything is in one place.
 >
-> **[1:51](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=111)** It supports faster reads because you don't have to fetch data from multiple tables.
+> **[1:51](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=111)** It supports faster reads because you don't have to [[Fetch]] data from multiple tables.
 >
 > **[1:56](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=116)** And it also allows atomic updates.
 >
@@ -622,7 +614,7 @@ created: 2026-05-02
 >
 > **[2:46](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=166)** But for such simple use cases, it's definitely faster and more lightweight than using any other database system.
 >
-> **[2:55](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=175)** So to sum this up, NoSQL databases offer flexibility and scalability, but they also shift responsibility to the application.
+> **[2:55](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=175)** So to sum this up, NoSQL databases offer flexibility and [[Scalability]], but they also shift responsibility to the application.
 >
 > **[3:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/understanding-document-databases?u=76281980&t=183)** In this course, we will focus on MongoDB for document storage and Redis for key value storage.
 >
@@ -630,7 +622,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (8), [[NoSQL]] (6), database (6), data (5), [[MongoDB]] (4)
+> **Frameworks & Libraries:** [[Databases]] (8), [[NoSQL]] (6), [[MongoDB]] (4), [[Redis]] (4), [[Relational Databases]] (2)
 > **Definitions:** is a  (1), means that (1)
 > **Analogies:** for instance (2)
 > **Env Vars:** acid (1)
@@ -638,8 +630,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Selecting the ideal database for your Node.js project
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980)
+#### [Selecting the ideal database for your Node.js project](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -647,47 +638,47 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=5)** And this is very true for any technology choice.
 >
-> **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=9)** So let's start for good reasons why not to use document databases and rather use a relational database.
+> **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=9)** So let's start for good reasons why not to use document [[Databases]] and rather use a relational database.
 >
 > **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=17)** This is when your data is highly structured.
 >
 > **[0:19](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=19)** So if your data has a strict format, like a tax system, a relational database is built for that.
 >
-> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=26)** Also, if you really want to have strong data integrity, if consistency is critical at all times, like in financial transactions, relational databases enforce this better.
+> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=26)** Also, if you really want to have strong [[Data Integrity]], if consistency is critical at all times, like in financial transactions, [[Relational Databases]] enforce this better.
 >
 > **[0:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=36)** And also, if multiple applications are updating the same data, when different services modify the same dataset, relational databases still help prevent conflicts.
 >
 > **[0:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=47)** That also said, things are also changing.
 >
-> **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=50)** Modern relational databases like Postgres now support JSONB, which is binary JSON, allowing them to handle semi-structured data as well and more efficiently.
+> **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=50)** Modern relational databases like [[PostgreSQL|Postgres]] now support JSONB, which is binary [[JSON]], allowing them to handle semi-structured data as well and more efficiently.
 >
 > **[1:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=61)** So the choice isn't always black and white anymore.
 >
 > **[1:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=64)** Document databases shine in scenarios where flexibility and speed matter more than strict consistency.
 >
-> **[1:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=71)** So if you have unstructured or semi-structured data, think of product catalogs, user profiles, or IoT sensor data where every record might look different.
+> **[1:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=71)** So if you have unstructured or semi-structured data, think of product catalogs, user profiles, or [[IoT]] sensor data where every record might look different.
 >
 > **[1:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=81)** Also, if you need high write performance, since document databases don't enforce strict schemas or relations, they write faster than relational databases, which is also a claim I have to say.
 >
 > **[1:34](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=94)** So it's not true for all cases.
 >
-> **[1:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=97)** Also, there is this claim that NoSQL databases are designed to scale horizontally, meaning you can distribute the load across multiple servers easily.
+> **[1:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=97)** Also, there is this claim that [[NoSQL]] databases are designed to scale horizontally, meaning you can distribute the load across multiple servers easily.
 >
-> **[1:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=107)** However, relational databases are also catching up in scalability with solutions like Postgres sharding and also with distributed SQL databases like CockroachDB.
+> **[1:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=107)** However, relational databases are also catching up in [[Scalability]] with solutions like Postgres sharding and also with distributed [[SQL]] databases like CockroachDB.
 >
 > **[2:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=120)** So to sum this up, the gap between relational and document databases is getting smaller.
 >
-> **[2:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=126)** Many relational databases now support JSON storage by document databases like MongoDB offer transactions for stronger consistency.
+> **[2:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=126)** Many relational databases now support JSON storage by document databases like [[MongoDB]] offer transactions for stronger consistency.
 >
 > **[2:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=135)** Choosing the right database isn't about SQL versus NoSQL anymore.
 >
 > **[2:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=141)** It's about what fits your specific use case best.
 >
-> **[2:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=144)** In this course, we will look at MongoDB, MySQL, and Redis and you will learn how to use them and then you can make your choice yourself because as so often, the answer to such questions is it depends.
+> **[2:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/selecting-the-ideal-database-for-your-node-js-project?u=76281980&t=144)** In this course, we will look at MongoDB, [[MySQL]], and [[Redis]] and you will learn how to use them and then you can make your choice yourself because as so often, the answer to such questions is it depends.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Databases]] (7), data (7), [[Relational Databases]] (6), database (3), [[PostgreSQL|Postgres]] (2)
+> **Frameworks & Libraries:** [[Databases]] (7), [[Relational Databases]] (6), [[PostgreSQL|Postgres]] (2), [[JSON]] (2), [[NoSQL]] (2)
 > **Env Vars:** json (2), sql (2), jsonb (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Definitions:** is a  (1)
@@ -698,12 +689,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Managing product data with MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980)
+#### [Managing product data with MongoDB](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980&t=0)** - [Instructor] In this chapter of the course, we will first create the infrastructure to even be able to connect to MongoDB and use the MongoDB connection in our application.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980&t=0)** - [Instructor] In this chapter of the course, we will first create the infrastructure to even be able to connect to [[MongoDB]] and use the MongoDB connection in our application.
 >
 > **[0:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-product-data-with-mongodb?u=76281980&t=10)** And then we will use MongoDB to store our shop items because right now these are placeholders.
 >
@@ -713,16 +703,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (3), application (1), database (1)
+> **Frameworks & Libraries:** [[MongoDB]] (3)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up MongoDB with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongodb-with-docker?u=76281980)
+#### [Setting up MongoDB with Docker](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongodb-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongodb-with-docker?u=76281980&t=0)** - [Instructor] To set up MongoDB, we will use Docker to download and run a container.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongodb-with-docker?u=76281980&t=0)** - [Instructor] To set up [[MongoDB]], we will use Docker to download and run a container.
 >
 > **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongodb-with-docker?u=76281980&t=4)** You can skip this when you already have MongoDB installed on your system.
 >
@@ -768,7 +757,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (14), next (2), hit (1), [[Security]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (14)
 > **CLI Commands:** docker (14), mongo (3), make (1)
 > **Prerequisites:** setup (2), set up (1), you'll need (1)
 > **Cross-References:** previous video (1)
@@ -777,14 +766,13 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring MongoDB with Compass
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980)
+#### [Exploring MongoDB with Compass](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980&t=0)** - [Instructor] When working with databases, having a graphical interface can make things much easier.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980&t=0)** - [Instructor] When working with [[Databases]], having a graphical interface can make things much easier.
 >
-> **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980&t=5)** For MongoDB, we'll use MongoDB Compass, a free tool provided by the creators of MongoDB.
+> **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980&t=5)** For [[MongoDB]], we'll use MongoDB Compass, a free tool provided by the creators of MongoDB.
 >
 > **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mongodb-with-compass?u=76281980&t=11)** So I will just search for MongoDB Compass and here we go.
 >
@@ -804,27 +792,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), [[Databases]] (2), [[Search]] (1), database (1), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Databases]] (2)
 > **UI Navigation:** click on (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** url (1)
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Mongoose
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980)
+#### [Introducing Mongoose](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=0)** - [Instructor] Ever since developers started working with databases, they've looked for ways to make database interactions easier.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=0)** - [Instructor] Ever since developers started working with [[Databases]], they've looked for ways to make database interactions easier.
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=7)** Rogue theories can feel unnatural, especially when working with object oriented programming.
 >
 > **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=12)** That's where object document maps or ODMs come in.
 >
-> **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=17)** For MongoDB, the most popular ODM is Mongoose.
+> **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=17)** For [[MongoDB]], the most popular ODM is Mongoose.
 >
-> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=21)** It lets us interact with our database using JavaScript objects instead of rogue theories, making our code cleaner and easier to manage.
+> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=21)** It lets us interact with our database using [[JavaScript]] objects instead of rogue theories, making our code cleaner and easier to manage.
 >
 > **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=30)** Let's take a look at how this works.
 >
@@ -858,7 +845,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=136)** You should also be aware of the N plus one query problem because ODMs make interacting with the data so easy.
 >
-> **[2:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=143)** You can easily miss how many actual database queries you are causing.
+> **[2:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=143)** You can easily miss how many actual [[Database Queries]] you are causing.
 >
 > **[2:28](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-mongoose?u=76281980&t=148)** For instance, if you query all cars and then populate their owners, this can mean that for 1,000 cars, you actually generate 1001 queries, one for cars, and one for each owner.
 >
@@ -870,23 +857,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), [[MongoDB]] (4), data (3), [[Databases]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Database Queries]] (2), [[Databases]] (1), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1), mongo (1)
 > **Analogies:** for example (1), for instance (1)
 > **Env Vars:** odm (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Mongoose and connecting it to MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980)
+#### [Setting up Mongoose and connecting it to MongoDB](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=0)** - [Instructor] Now that we have covered why we are using Mongoose and how it simplifies working with MongoDB, let's bring it into our project.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=0)** - [Instructor] Now that we have covered why we are using Mongoose and how it simplifies working with [[MongoDB]], let's bring it into our project.
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=7)** For that, I have already opened the sample project we set up during the intro.
 >
-> **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=12)** First we need to install Mongoose, so we open the terminal by clicking on Terminal, New Terminal, and there, I simply type npm install mongoose.
+> **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=12)** First we need to install Mongoose, so we open the terminal by clicking on Terminal, New Terminal, and there, I simply type [[npm]] install mongoose.
 >
 > **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=27)** This installs Mongoose and adds it to our project.
 >
@@ -984,13 +970,13 @@ created: 2026-05-02
 >
 > **[5:42](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=342)** So what does this do?
 >
-> **[5:43](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=343)** This is just because on our front page of the shop, we will have a little dashboard that will show us the connection status of our databases.
+> **[5:43](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=343)** This is just because on our front page of the shop, we will have a little dashboard that will show us the connection status of our [[Databases]].
 >
 > **[5:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=353)** And this is just a function to make this status available to other plugins.
 >
 > **[5:58](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=358)** And when we now real quick look into default.js, because that's the plugin that sets all the default values, you will see that we are setting an object called statuses on reply locals and reply locals is automatically available to our templates during render.
 >
-> **[6:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=377)** And when I scroll down further, you see that that we have a status object for Mongo, MySQL and Redis.
+> **[6:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=377)** And when I scroll down further, you see that that we have a status object for Mongo, [[MySQL]] and [[Redis]].
 >
 > **[6:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mongoose-and-connecting-it-to-mongodb?u=76281980&t=383)** As I said, this is just for our little dashboard in our shop.
 >
@@ -1060,7 +1046,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (28), application (7), database (4), [[npm]] (3), next (3)
+> **Frameworks & Libraries:** [[MongoDB]] (28), [[npm]] (3), [[Databases]] (1), [[MySQL]] (1), [[Redis]] (1)
 > **CLI Commands:** npm (3), mongo (3), make (2), docker (1), mysql (1)
 > **File Paths:** server.js (2), config/index.js (1), default.js (1)
 > **Code Identifiers:** mongostatus (2), serverselectiontimeoutms (1), sockettimeoutms (1)
@@ -1069,18 +1055,17 @@ created: 2026-05-02
 > **Env Vars:** uri (2), src (1)
 > **Definitions:** is a  (2), is an  (1)
 
-#### Building a model for our products
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980)
+#### [Building a model for our products](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=0)** - [Instructor] Now that we've connected our fast app to MongoDB using Mongoose, it's time to define a model for our products.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=0)** - [Instructor] Now that we've connected our fast app to [[MongoDB]] using Mongoose, it's time to define a model for our [[Microsoft Products|products]].
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=7)** Models in Mongos are how we start to interact with data in MongoDB.
 >
 > **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=12)** Each model represents a collection in the database and it defines the schema, the structure of the data we want to store.
 >
-> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=21)** Collections are very similar to tables in other databases.
+> **[0:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=21)** Collections are very similar to tables in other [[Databases]].
 >
 > **[0:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/building-a-model-for-our-products?u=76281980&t=25)** We will create the model called item, which will represent products in our system.
 >
@@ -1180,7 +1165,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (8), [[Microsoft Products|Products]] (4), data (4), [[MongoDB]] (3), [[Databases]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (4), [[MongoDB]] (3), [[Databases]] (2)
 > **Env Vars:** sku (6)
 > **Definitions:** is a  (3)
 > **File Paths:** item.js (1)
@@ -1189,8 +1174,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating the model into our application
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980)
+#### [Integrating the model into our application](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1200,7 +1184,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=9)** So I open that.
 >
-> **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=11)** It's in source, plugins, databases, mongoose.
+> **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=11)** It's in source, plugins, [[Databases]], mongoose.
 >
 > **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=16)** The goal is to attach the item model to the Fastify instance so that it's available throughout our app.
 >
@@ -1254,9 +1238,9 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=164)** It looks like magic, but it's actually one of the ways Mongoose simplifies database handling for us.
 >
-> **[2:51](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=171)** Soon we'll use this setup to build routes for creating, reading, updating, and deleting products in our database.
+> **[2:51](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=171)** Soon we'll use this setup to build routes for creating, reading, updating, and deleting [[Microsoft Products|products]] in our database.
 >
-> **[2:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=179)** But first I want to show you now how this looks like in MongoDB Compass because you will see that something has changed there now.
+> **[2:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=179)** But first I want to show you now how this looks like in [[MongoDB]] Compass because you will see that something has changed there now.
 >
 > **[3:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/integrating-the-model-into-our-application?u=76281980&t=188)** So when I now go into MongoDB Compass and up here on this course connection, click on refresh databases.
 >
@@ -1272,7 +1256,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (3), database (3), [[Databases]] (2), [[MongoDB]] (2), next (1)
+> **Frameworks & Libraries:** [[Databases]] (2), [[MongoDB]] (2), [[Microsoft Products|Products]] (1)
 > **Prerequisites:** setup (2), set up (1)
 > **Code Identifiers:** mongostatus (2)
 > **File Paths:** models/mongoose/item.js (1)
@@ -1281,20 +1265,19 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Populating MongoDB with sample data
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980)
+#### [Populating MongoDB with sample data](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=0)** - [Instructor] To test the application and demonstrate queries, we need some data in our database.
 >
-> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=4)** This is why we'll now populate MongoDB with sample data.
+> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=4)** This is why we'll now populate [[MongoDB]] with sample data.
 >
 > **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=9)** We will load our sample data into the items collection using MongoDB Compass and I have it already open.
 >
 > **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=17)** So in simpleshop on items, I now click on Documents and they're on Add Data.
 >
-> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=26)** And there I can now select input JSON or CSV file.
+> **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=26)** And there I can now select input [[JSON]] or CSV file.
 >
 > **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=30)** So I click on that and the exercise files actually already contain a file for the sample data.
 >
@@ -1310,7 +1293,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=55)** Now you see we imported 47 items.
 >
-> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=59)** As I'm from Austria, I took the freedom to use AI to let it create just a set of somewhat typically Austrian products like the Mozartkugel or a Schnitzel, and Apfelstrudel.
+> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=59)** As I'm from Austria, I took the freedom to use AI to let it create just a set of somewhat typically Austrian [[Microsoft Products|products]] like the Mozartkugel or a Schnitzel, and Apfelstrudel.
 >
 > **[1:13](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/populating-mongodb-with-sample-data?u=76281980&t=73)** So you see it here.
 >
@@ -1342,7 +1325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[MongoDB]] (4), application (2), database (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[JSON]] (1), [[Microsoft Products|Products]] (1)
 > **UI Navigation:** click on (7)
 > **Env Vars:** json (1), csv (1)
 > **Definitions:** is a  (2)
@@ -1350,12 +1333,11 @@ created: 2026-05-02
 > **Exercise Files:** exercise files (1)
 > **Speakers:** - [instructor] (1)
 
-#### Querying items with Mongoose
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980)
+#### [Querying items with Mongoose](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=0)** - [Instructor] Before we start writing database queries, let's quickly take a look at how our shop page is rendered.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=0)** - [Instructor] Before we start writing [[Database Queries]], let's quickly take a look at how our shop page is rendered.
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=7)** So I opened the browser again with a sample application and when I click on shop, you see that we have a list of placeholder items there already, and you also see that we have text there and some add to basket functionality.
 >
@@ -1365,7 +1347,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=27)** And if I now look into Visual Studio Code, I can first look into the views directory and in views, you will find the file shop.ejs.
 >
-> **[0:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=39)** EJS is a template engine used with nodejs and it lets you basically use a JavaScript like syntax.
+> **[0:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=39)** EJS is a template engine used with nodejs and it lets you basically use a [[JavaScript]] like syntax.
 >
 > **[0:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=47)** And what this template does, it serves as a rendering template for our data.
 >
@@ -1373,7 +1355,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=68)** So this is basically to have a page switch.
 >
-> **[1:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=70)** If there are more than like 10 products, then we can page through these items.
+> **[1:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=70)** If there are more than like 10 [[Microsoft Products|products]], then we can page through these items.
 >
 > **[1:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=78)** So where is this rendered, or how is this rendered?
 >
@@ -1425,7 +1407,7 @@ created: 2026-05-02
 >
 > **[3:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=239)** And if you remember, this is exactly what we decorated on the fastify object before.
 >
-> **[4:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=244)** So this now holds our MongoDB Mongo's item, and this gives us access to the data in this database collection.
+> **[4:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=244)** So this now holds our [[MongoDB]] Mongo's item, and this gives us access to the data in this database collection.
 >
 > **[4:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/querying-items-with-mongoose?u=76281980&t=256)** And in our case, now, I want to call find, so I want to find records.
 >
@@ -1529,7 +1511,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (7), next (3), [[Microsoft Products|Products]] (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Database Queries]] (1), [[JavaScript]] (1), [[MongoDB]] (1)
 > **CLI Commands:** find (4), mongo (2), make (1)
 > **Exercise Files:** template (5)
 > **UI Navigation:** click on (2), scroll down (1)
@@ -1538,8 +1520,7 @@ created: 2026-05-02
 > **Env Vars:** ejs (1)
 > **Cross-References:** next video (1)
 
-#### Filtering items by tag
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980)
+#### [Filtering items by tag](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1557,7 +1538,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980&t=50)** If tag is present, then I want to query tags with tag.
 >
-> **[0:57](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980&t=57)** So this is basically how you query, and it's very simple as you see in MongoDB how you query data in an array.
+> **[0:57](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980&t=57)** So this is basically how you query, and it's very simple as you see in [[MongoDB]] how you query data in an array.
 >
 > **[1:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/filtering-items-by-tag?u=76281980&t=66)** So we have an array with tags, and one item can have several tags, and still we just can simply query the array by this one tag.
 >
@@ -1615,7 +1596,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (1), [[MongoDB]] (1), data (1), next (1)
+> **Frameworks & Libraries:** [[MongoDB]] (1)
 > **UI Navigation:** click on (3), scroll up (1), go to (1), scroll down (1)
 > **CLI Commands:** find (1)
 > **Cross-References:** in the next (1)
@@ -1623,12 +1604,11 @@ created: 2026-05-02
 > **Exercise Files:** template (1)
 > **Speakers:** - [instructor] (1)
 
-#### Item administration: Listing and loading
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980)
+#### [Item administration: Listing and loading](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=0)** - [Instructor] In the next set of videos, we are building a fully functional admin page for managing items using MongoDB.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=0)** - [Instructor] In the next set of videos, we are building a fully functional admin page for managing items using [[MongoDB]].
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=7)** We will learn how to create, read, update, and delete documents from MongoDB.
 >
@@ -1664,7 +1644,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=96)** And what we want to do now is we want to load all items from the database.
 >
-> **[1:42](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=102)** For this we won't use paging, so we will just fetch the items.
+> **[1:42](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=102)** For this we won't use paging, so we will just [[Fetch]] the items.
 >
 > **[1:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-listing-and-loading?u=76281980&t=107)** So how can we do that?
 >
@@ -1740,7 +1720,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (7), database (4), data (4), [[Fetch]] (3), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (7), [[Fetch]] (3)
 > **UI Navigation:** click on (5), scroll down (2), go to (1)
 > **Env Vars:** crud (2), egs (1), url (1), hes (1)
 > **CLI Commands:** find (4)
@@ -1749,12 +1729,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Exercise Files:** template (1)
 
-#### Item administration: Create, update, and delete
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980)
+#### [Item administration: Create, update, and delete](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=0)** - [Instructor] In the previous video, we connected our admin page to MongoDB to list all items and to load an item for editing.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=0)** - [Instructor] In the previous video, we connected our admin page to [[MongoDB]] to list all items and to load an item for editing.
 >
 > **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=8)** Now it's time to complete CRUD by creating, updating and deleting items in the database.
 >
@@ -1806,7 +1785,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=152)** So we want to then remove the blanks, if present.
 >
-> **[2:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=157)** So we add a map function here, that's functional programming for the win, because JavaScript has some notion of functional programming with map functions, tag.
+> **[2:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=157)** So we add a map function here, that's [[Functional Programming]] for the win, because [[JavaScript]] has some notion of functional programming with map functions, tag.
 >
 > **[2:49](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=169)** And, for each tag, we run tag.trim.
 >
@@ -1872,7 +1851,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=410)** There you see when there are messages, they will be displayed to the user just once.
 >
-> **[6:55](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=415)** But this is just this basically a side note here because we want to deal with databases.
+> **[6:55](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=415)** But this is just this basically a side note here because we want to deal with [[Databases]].
 >
 > **[7:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/item-administration-create-update-and-delete?u=76281980&t=420)** But you also should understand.
 >
@@ -2018,7 +1997,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[MongoDB]] (4), functional (2), [[Functional Programming]] (2), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (4), [[Functional Programming]] (2), [[JavaScript]] (1), [[Databases]] (1)
 > **UI Navigation:** scroll down (6), click on (6)
 > **Code Identifiers:** itemid (6), parsedtags (2), findbyid (2), findbyidandupdate (1)
 > **CLI Commands:** make (4), mongo (3), find (1)
@@ -2027,8 +2006,7 @@ created: 2026-05-02
 > **Env Vars:** crud (2)
 > **Cross-References:** previous video (1), in the next (1)
 
-#### Optimizing queries with indexes
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980)
+#### [Optimizing queries with indexes](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2038,7 +2016,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980&t=9)** If you're looking for something specific, the index helps you find it quickly instead of flipping through every single page.
 >
-> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980&t=16)** In MongoDB, indexes make your queries faster, especially when working with large data sets.
+> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980&t=16)** In [[MongoDB]], indexes make your queries faster, especially when working with large data sets.
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/optimizing-queries-with-indexes?u=76281980&t=22)** They also let us enforce rules like uniqueness, and optimized filtering for sorting operations.
 >
@@ -2128,7 +2106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MongoDB]] (8), [[Search]] (4), database (2), next (2), data (1)
+> **Frameworks & Libraries:** [[MongoDB]] (8)
 > **CLI Commands:** make (3), find (1)
 > **Analogies:** for instance (2), for example (1)
 > **Cross-References:** we talked about (1), in the next (1)
@@ -2137,8 +2115,7 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Performing text search in MongoDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980)
+#### [Performing text search in MongoDB](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2200,7 +2177,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=174)** And if we have also the query string here, if q then query, and this is now important, dot dollar text.
 >
-> **[3:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=187)** So this is the way to tell MongoDB to use the text index, equals, and here also the syntax is a little bit different because I have to say dollar search colon q and everything else can stay the same because this basically translate to when we pass this to find into regular JSON object that MongoDB can understand.
+> **[3:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=187)** So this is the way to tell [[MongoDB]] to use the text index, equals, and here also the syntax is a little bit different because I have to say dollar search colon q and everything else can stay the same because this basically translate to when we pass this to find into regular [[JSON]] object that MongoDB can understand.
 >
 > **[3:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=216)** And I also promised you to add some sorting and we will do this right away, and it's very simple, because all I have to do is I have to, in this kind of pipeline, have to add dollar sort and I want to, and this is an object, sort by name and I want to sort it ascending and this will then default to sorting it alphabetically A to Z.
 >
@@ -2228,7 +2205,7 @@ created: 2026-05-02
 >
 > **[5:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=309)** In this video, we enhanced our shop page with text search, allowing users to find items by name.
 >
-> **[5:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=315)** And we also added sorting, ensuring products are displayed alphabetically.
+> **[5:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=315)** And we also added sorting, ensuring [[Microsoft Products|products]] are displayed alphabetically.
 >
 > **[5:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/performing-text-search-in-mongodb?u=76281980&t=320)** With this, we have completed our fully functional MongoDB-based application.
 >
@@ -2238,7 +2215,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (8), [[MongoDB]] (5), application (3), next (3), database (2)
+> **Frameworks & Libraries:** [[MongoDB]] (5), [[JSON]] (1), [[Microsoft Products|Products]] (1)
 > **CLI Commands:** make (2), find (2)
 > **Cross-References:** in the next (2), previous video (1)
 > **Definitions:** is a  (1), is an  (1)
@@ -2252,12 +2229,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Using MySQL for our users and orders
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980)
+#### [Using MySQL for our users and orders](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=0)** - [Instructor] In this chapter, we are going to handle users and orders in our system using MySQL.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=0)** - [Instructor] In this chapter, we are going to handle users and orders in our system using [[MySQL]].
 >
 > **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=6)** Why are we using MySQL here?
 >
@@ -2265,7 +2241,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=9)** Users and orders follow a clear structure with well-defined relationships.
 >
-> **[0:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=14)** We want to maintain data integrity because we need to ensure that orders are always linked to valid users.
+> **[0:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=14)** We want to maintain [[Data Integrity]] because we need to ensure that orders are always linked to valid users.
 >
 > **[0:19](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=19)** And we also want to maintain asset compliance.
 >
@@ -2275,13 +2251,13 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=33)** The order management as such will come then a little bit later in the process because we will need to have our shopping basket to finalize that, but we will at least create the schemas for that.
 >
-> **[0:45](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=45)** And for these schemas, we will use Sequelize, which is an object-relational mapper, and ORMs, letters similar to ODMs like Mongoose, interact with the data base using JavaScript object instead of writing raw SQL queries.
+> **[0:45](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=45)** And for these schemas, we will use Sequelize, which is an object-relational mapper, and ORMs, letters similar to ODMs like Mongoose, interact with the data base using [[JavaScript]] object instead of writing raw [[SQL]] queries.
 >
 > **[1:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/using-mysql-for-our-users-and-orders?u=76281980&t=60)** So by the end of this, we'll have a solid foundation for storing and managing users and orders in a reliable way.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[MySQL]] (2), application (1), management (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Data Integrity]] (1), [[JavaScript]] (1), [[SQL]] (1)
 > **CLI Commands:** mysql (2)
 > **Env Vars:** sql (1)
 > **Cross-References:** later in (1)
@@ -2289,12 +2265,11 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up MySQL with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980)
+#### [Setting up MySQL with Docker](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=0)** - [Instructor] To set up MySQL, we'll use Docker to download and run a container.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=0)** - [Instructor] To set up [[MySQL]], we'll use Docker to download and run a container.
 >
 > **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=5)** If you already have MySQL installed on your system, you can skip this step.
 >
@@ -2310,7 +2285,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=43)** Once the image is downloaded, we can now start a new container with this command, I run docker run --name, so this is how we will name our container, mysql.
 >
-> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=59)** And then there is something that we did not have in MongoDB.
+> **[0:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=59)** And then there is something that we did not have in [[MongoDB]].
 >
 > **[1:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=63)** We have to provide a password for the root user in MySQL.
 >
@@ -2342,7 +2317,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=147)** For production environments, setting up MySQL can be way more complex.
 >
-> **[2:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=151)** You'll need to think about configuration options like replication, performance tuning, backups, and also security.
+> **[2:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=151)** You'll need to think about configuration options like replication, [[Performance Tuning]], backups, and also security.
 >
 > **[2:38](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-mysql-with-docker?u=76281980&t=158)** But for now, this simple setup is perfect for our sample project.
 >
@@ -2350,7 +2325,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (12), [[MongoDB]] (4), database (1), hit (1), [[Performance Tuning]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (12), [[MongoDB]] (4), [[Performance Tuning]] (1)
 > **CLI Commands:** mysql (12), docker (10), make (2)
 > **Prerequisites:** set up (1), you'll need (1), setup (1)
 > **Tools:** terminal (2)
@@ -2359,12 +2334,11 @@ created: 2026-05-02
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring MySQL with MySQL Workbench
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980)
+#### [Exploring MySQL with MySQL Workbench](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=0)** - [Instructor] To make working with MySQL easier, and also to explore the data, we will use a graphically user interface.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=0)** - [Instructor] To make working with [[MySQL]] easier, and also to explore the data, we will use a graphically user interface.
 >
 > **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=6)** And this is MySQL Workbench.
 >
@@ -2374,7 +2348,7 @@ created: 2026-05-02
 >
 > **[0:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=18)** There I now click on the plus icon at MySQL Connections.
 >
-> **[0:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=23)** And here I will now define a connection that's very similar to what we did in MongoDB Compass.
+> **[0:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=23)** And here I will now define a connection that's very similar to what we did in [[MongoDB]] Compass.
 >
 > **[0:29](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-mysql-with-mysql-workbench?u=76281980&t=29)** I will also call it course, and now we have to provide the connection information.
 >
@@ -2414,27 +2388,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (8), [[MongoDB]] (3), data (2), database (1)
+> **Frameworks & Libraries:** [[MySQL]] (8), [[MongoDB]] (3)
 > **CLI Commands:** mysql (8), make (1)
 > **UI Navigation:** click on (5)
 > **Code Identifiers:** mysql (1)
 > **Analogies:** similar to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Introducing Sequelize
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980)
+#### [Introducing Sequelize](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=0)** - [Instructor] To use MySQL in our sample project, we will now use Sequelize.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=0)** - [Instructor] To use [[MySQL]] in our sample project, we will now use Sequelize.
 >
-> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=4)** Sequelize is a popular database abstraction layer for Node.JS and it supports a few databases like MySQL, SQLite, Postgres, and Microsoft SQL Server.
+> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=4)** Sequelize is a popular database abstraction layer for [[Node.js]] and it supports a few [[Databases]] like MySQL, SQLite, [[PostgreSQL|Postgres]], and [[Microsoft SQL Server]].
 >
 > **[0:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=15)** Additionally to being a database abstraction layer, it's also a object relational mapper, which is very similar to Mongoose, which is a object document mapper.
 >
 > **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=26)** So as we did with Mongoose, we could now do something like this.
 >
-> **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=30)** I could define something like a schema or model using SQL as define, and I call it car, and I say it has a make and this make is of the data type string.
+> **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=30)** I could define something like a schema or model using [[SQL]] as define, and I call it car, and I say it has a make and this make is of the data type string.
 >
 > **[0:41](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/introducing-sequelize?u=76281980&t=41)** And then we can very simply just sync this model to MySQL and it'll be automatically created.
 >
@@ -2464,7 +2437,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (4), database (3), [[Node.js]] (1), [[Databases]] (1), [[PostgreSQL|Postgres]] (1)
+> **Frameworks & Libraries:** [[MySQL]] (4), [[Node.js]] (1), [[Databases]] (1), [[PostgreSQL|Postgres]] (1), [[Microsoft SQL Server]] (1)
 > **CLI Commands:** mysql (4), make (2), node (1)
 > **Env Vars:** sql (2)
 > **Definitions:** is a  (2)
@@ -2472,14 +2445,13 @@ created: 2026-05-02
 > **File Paths:** node.js (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up the database connection
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980)
+#### [Setting up the database connection](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=0)** - [Instructor] To start using Sequelize with MySQL, we first need to install the necessary packages.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=0)** - [Instructor] To start using Sequelize with [[MySQL]], we first need to install the necessary packages.
 >
-> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=6)** So I already opened my terminal, I terminated our application, and now I type npm install sequelize, and also, mysql2.
+> **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=6)** So I already opened my terminal, I terminated our application, and now I type [[npm]] install sequelize, and also, mysql2.
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=22)** This install Sequelize, the ORM we'll use to interact with the database, and mysql2, the driver Sequelize uses to connect to MySQL.
 >
@@ -2487,7 +2459,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=37)** And with these installed, we are ready to set up the database connection in our Fastify application.
 >
-> **[0:44](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=44)** And you will see that it's fairly similar to what we did with MongoDB, and that's a good sign because this means that we are consistent in the way we are doing things.
+> **[0:44](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=44)** And you will see that it's fairly similar to what we did with [[MongoDB]], and that's a good sign because this means that we are consistent in the way we are doing things.
 >
 > **[0:54](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=54)** So what we will do here is we will connect Fastify to MySQL by completing the Sequelize plugin that is already in our project.
 >
@@ -2513,11 +2485,11 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=124)** And there, I write logging: false.
 >
-> **[2:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=127)** This is because, if you set this to true, and you can do this if you want to basically look under the hood of Sequelize, you will see each and every SQL query Sequelize performs, and this can be pretty noisy.
+> **[2:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=127)** This is because, if you set this to true, and you can do this if you want to basically look under the hood of Sequelize, you will see each and every [[SQL]] query Sequelize performs, and this can be pretty noisy.
 >
 > **[2:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=142)** Next, we are heading into the plugin section.
 >
-> **[2:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=145)** And there, in databases, you already find sequelize.js.
+> **[2:25](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=145)** And there, in [[Databases]], you already find sequelize.js.
 >
 > **[2:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-the-database-connection?u=76281980&t=151)** Again, we have this status field in line 4.
 >
@@ -2619,7 +2591,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (17), database (9), [[MongoDB]] (7), application (5), next (4)
+> **Frameworks & Libraries:** [[MySQL]] (17), [[MongoDB]] (7), [[npm]] (2), [[SQL]] (1), [[Databases]] (1)
 > **CLI Commands:** mysql (17), npm (2), make (2), find (1)
 > **Env Vars:** orm (1), uri (1), sql (1), todo (1), create (1)
 > **Prerequisites:** install (3), set up (1)
@@ -2628,18 +2600,17 @@ created: 2026-05-02
 > **Analogies:** similar to (3)
 > **File Paths:** index.js (1), sequelize.js (1)
 
-#### Designing the database structure
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980)
+#### [Designing the database structure](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=0)** - [Instructor] Before we start writing code, it's always a good idea to think about the database design.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=0)** - [Instructor] Before we start writing code, it's always a good idea to think about the [[Database Design]].
 >
 > **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=6)** Understanding how our data is structured helps us define relationships correctly and write efficient queries and avoid future issues.
 >
 > **[0:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=14)** So first, let's understand the database design.
 >
-> **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=17)** We are using MySQL to store our data and SQLite to manage our models and relationships.
+> **[0:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=17)** We are using [[MySQL]] to store our data and SQLite to manage our models and relationships.
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=22)** Our database consists of three main tables.
 >
@@ -2663,27 +2634,26 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=86)** And we can say, "Order has many order items and one order item belongs to an order."
 >
-> **[1:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=95)** With this relationship defined, we can then later easily retrieve all orders for a user and all items within an order just by following the relationships in using so-called joins, which is a construct in SQL.
+> **[1:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=95)** With this relationship defined, we can then later easily retrieve all orders for a user and all items within an order just by following the relationships in using so-called joins, which is a construct in [[SQL]].
 >
 > **[1:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/designing-the-database-structure?u=76281980&t=110)** So now, that we understand the relationship, let's dive in and we will create the models in SQLite and then make them available in our application.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), data (2), [[MySQL]] (1), next (1), [[SQL]] (1)
+> **Frameworks & Libraries:** [[Database Design]] (2), [[MySQL]] (1), [[SQL]] (1)
 > **CLI Commands:** mysql (1), make (1)
 > **Env Vars:** sql (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating a user model for Sequelize
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980)
+#### [Creating a user model for Sequelize](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=0)** - [Instructor] Now that we have designed our database, in this video, we will define the user model using Sequelize.
 >
-> **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=7)** This will feel familiar from what we did with MongoDB and Mongoose.
+> **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=7)** This will feel familiar from what we did with [[MongoDB]] and Mongoose.
 >
 > **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=11)** So let's create our first model, and for that, I go into Source, Models, and as we have it for Mongoose, we also have a folder for Sequelize.
 >
@@ -2707,7 +2677,7 @@ created: 2026-05-02
 >
 > **[2:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=120)** (keys clicking) Now here, now in line six and line seven, we have to add our type definition like we did in Mongoose, and what is a email address?
 >
-> **[2:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=134)** It's obviously a string, so I can now write type, and now I have to use this DataType object that we just brought in before because in Sequelize and in relational databases, the typing is much more complex and complicated, so we have a set of data types that we can use and that map to different data types that are actually stored them on the database table on the schema, and not like with MongoDB for the most part are just more like informational and are enforced on the level of the ORM or document mapper.
+> **[2:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=134)** It's obviously a string, so I can now write type, and now I have to use this DataType object that we just brought in before because in Sequelize and in [[Relational Databases]], the typing is much more complex and complicated, so we have a set of data types that we can use and that map to different data types that are actually stored them on the database table on the schema, and not like with MongoDB for the most part are just more like informational and are enforced on the level of the ORM or document mapper.
 >
 > **[2:51](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-a-user-model-for-sequelize?u=76281980&t=171)** So I write type, DataTypes, and this is a string, all uppercase.
 >
@@ -2771,7 +2741,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), database (4), [[MongoDB]] (3), [[Relational Databases]] (3), next (2)
+> **Frameworks & Libraries:** [[MongoDB]] (3), [[Relational Databases]] (3)
 > **Non-Speech:** (keys clicking) (15)
 > **Definitions:** is a  (4)
 > **Code Identifiers:** allownull (1), hasmany (1), userid (1)
@@ -2780,8 +2750,7 @@ created: 2026-05-02
 > **Env Vars:** orm (1)
 > **Cross-References:** in the next (1)
 
-#### Creating the order models for Sequelize
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980)
+#### [Creating the order models for Sequelize](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2825,7 +2794,7 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=142)** So I add user ID and the user ID is type DataTypes.INTEGER, all uppercase.
 >
-> **[2:34](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=154)** So it's an integer, all primary keys are integers in MySQL and it must not be null, which means that each order upon its creation has to be associated with a user already.
+> **[2:34](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=154)** So it's an integer, all primary keys are integers in [[MySQL]] and it must not be null, which means that each order upon its creation has to be associated with a user already.
 >
 > **[2:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=170)** So that's false there.
 >
@@ -2907,7 +2876,7 @@ created: 2026-05-02
 >
 > **[7:47](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=467)** And this is again also just to have some complete record in our database.
 >
-> **[7:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=473)** But maybe we delete some item at some point from the MongoDB table, then we would never be able again to know what this order item actually was.
+> **[7:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=473)** But maybe we delete some item at some point from the [[MongoDB]] table, then we would never be able again to know what this order item actually was.
 >
 > **[8:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=483)** So some redundancy sometimes really helps to maintain consistency down the line.
 >
@@ -2927,7 +2896,7 @@ created: 2026-05-02
 >
 > **[9:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=544)** And finally for the price, we define a data type that's not different, DataTypes.DECIMAL.
 >
-> **[9:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=557)** So this is a decimal field that's supported by databases and it should have two decimal places, 10, 2,
+> **[9:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=557)** So this is a decimal field that's supported by [[Databases]] and it should have two decimal places, 10, 2,
 >
 > **[9:29](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-models-for-sequelize?u=76281980&t=569)** and again, allowNull should be false.
 >
@@ -2979,7 +2948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (2), management (1), [[MySQL]] (1), next (1), product (1)
+> **Frameworks & Libraries:** [[MySQL]] (1), [[MongoDB]] (1), [[Databases]] (1)
 > **Code Identifiers:** foreignkey (3), allownull (3), belongsto (2), userid (1), hasmany (1)
 > **Env Vars:** string (3), integer (2), decimal (1)
 > **Definitions:** is an  (2), is a  (2), means that (1), is called (1)
@@ -2988,8 +2957,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (2)
 > **CLI Commands:** mysql (1)
 
-#### Loading and syncing the models
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980)
+#### [Loading and syncing the models](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3003,7 +2971,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=26)** So let's get started.
 >
-> **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=27)** For that, I go back into my src, plugins and there databases and sequelize.
+> **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=27)** For that, I go back into my src, plugins and there [[Databases]] and sequelize.
 >
 > **[0:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=37)** Let's close the sidebar.
 >
@@ -3049,7 +3017,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=187)** And in this for loop, we check if(file.endsWith(".js")).
 >
-> **[3:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=196)** So we want to make sure we only do this for the JavaScript files that we have, the modelFiles.
+> **[3:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=196)** So we want to make sure we only do this for the [[JavaScript]] files that we have, the modelFiles.
 >
 > **[3:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=203)** And if this is the case, write const model = (await).
 >
@@ -3065,7 +3033,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=255)** So what are we doing here?
 >
-> **[4:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=257)** So we're getting the model and this is a little bit internals of how Node.js and JavaScript work, but so we are doing an import, and there I have a mistake.
+> **[4:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=257)** So we're getting the model and this is a little bit internals of how [[Node.js]] and JavaScript work, but so we are doing an import, and there I have a mistake.
 >
 > **[4:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=267)** So it's file not faile.
 >
@@ -3169,7 +3137,7 @@ created: 2026-05-02
 >
 > **[10:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=621)** Maybe it would've been a better idea to namespace this a little bit more.
 >
-> **[10:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=626)** For instance, to have everything MongoDB in fastify.mongo.models, and this now in fastify.mysql.models.
+> **[10:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=626)** For instance, to have everything [[MongoDB]] in fastify.mongo.models, and this now in fastify.[[MySQL]].models.
 >
 > **[10:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=636)** But this is now as it is, it works.
 >
@@ -3221,13 +3189,13 @@ created: 2026-05-02
 >
 > **[12:42](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=762)** For instance, you could now add more models and associate them at any time by just creating the files in the Sequelize folder.
 >
-> **[12:52](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=772)** In the next video, we will use the user models to build the logic for user management into our system.
+> **[12:52](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=772)** In the next video, we will use the user models to build the logic for [[User Management]] into our system.
 >
 > **[13:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/loading-and-syncing-the-models?u=76281980&t=780)** The order management will come a bit later in this course when we have built the shopping basket.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (7), data (3), [[MySQL]] (3), node (2), [[JavaScript]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (3), [[JavaScript]] (2), [[Databases]] (1), [[Node.js]] (1), [[MongoDB]] (1)
 > **Code Identifiers:** modelfiles (4), modelspath (3), endswith (1), foreach (1), createdat (1)
 > **CLI Commands:** node (3), mysql (3), make (1), mongo (1), find (1)
 > **UI Navigation:** click on (4), scroll down (1), open the (1)
@@ -3236,8 +3204,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1), later in (1)
 > **File Paths:** node.js (1)
 
-#### Creating, updating and deleting users with Sequelize
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980)
+#### [Creating, updating and deleting users with Sequelize](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3285,7 +3252,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=152)** So what do we do if we want to update the user?
 >
-> **[2:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=155)** So we have a user id, so what I'm going to do is I will fetch or try to find the existing user by writing const user equals await fastify.models.User.
+> **[2:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=155)** So we have a user id, so what I'm going to do is I will [[Fetch]] or try to find the existing user by writing const user equals await fastify.models.User.
 >
 > **[2:56](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=176)** And now we have this function findByPk, so we are trying to find the user by primary key, a very fast operation.
 >
@@ -3353,7 +3320,7 @@ created: 2026-05-02
 >
 > **[7:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=438)** So I will now simply copy this block.
 >
-> **[7:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=447)** So when we scroll down, the only difference is that we will get the id via request params, but the rest is the same.
+> **[7:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=447)** So when we scroll down, the only difference is that we will get the id via request params, but the [[Representational State Transfer (REST)|rest]] is the same.
 >
 > **[7:36](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=456)** So we want to load the user from the database using the Id, the primary key, and then we do some error checking.
 >
@@ -3419,7 +3386,7 @@ created: 2026-05-02
 >
 > **[11:17](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=677)** So the most code that you see in this route is just infrastructure you need to display the page, et cetera, but the database operations are really, really minimal once we have all the infrastructure in place.
 >
-> **[11:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=691)** Now let's look at how this data looks inside the database because now it's the first time that we created new records in MySQL.
+> **[11:31](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=691)** Now let's look at how this data looks inside the database because now it's the first time that we created new records in [[MySQL]].
 >
 > **[11:41](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-updating-and-deleting-users-with-sequelize?u=76281980&t=701)** So I open MySQL Workbench and there now on the users table, there is this icon that I click on with this flash symbol and this will fetch the users from the database.
 >
@@ -3443,7 +3410,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), application (4), hit (4), next (4), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[MySQL]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **CLI Commands:** find (4), make (4), mysql (2)
 > **Code Identifiers:** findbypk (3), findall (2), userid (1)
 > **UI Navigation:** click on (3), scroll down (2), scroll up (1)
@@ -3452,8 +3419,7 @@ created: 2026-05-02
 > **URLs:** [test.com](https://test.com) (3)
 > **Cross-References:** as you saw (1), in the next (1)
 
-#### Securing credentials with password hashing
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980)
+#### [Securing credentials with password hashing](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3473,7 +3439,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=38)** So I head back into Visual Studio Code, and there first we'll install Argon2.
 >
-> **[0:44](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=44)** So I type npm install Argon2 into my terminal.
+> **[0:44](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=44)** So I type [[npm]] install Argon2 into my terminal.
 >
 > **[0:50](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=50)** Then I start my application right away, and then we have to go into the model because we want to build this functionality directly into the database model.
 >
@@ -3489,7 +3455,7 @@ created: 2026-05-02
 >
 > **[1:26](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=86)** And we can define hooks on the database that are called on certain like points in the lifecycle of a record right as the second argument.
 >
-> **[1:38](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=98)** So here the second argument, I will now create an object, a JavaScript object, and there I will now create the hook.
+> **[1:38](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=98)** So here the second argument, I will now create an object, a [[JavaScript]] object, and there I will now create the hook.
 >
 > **[1:48](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=108)** I do this by writing hooks, and the hook that we want to create is the beforeCreate hook.
 >
@@ -3511,7 +3477,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=187)** And the password is test123456, and hit submit.
 >
-> **[3:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=192)** And I head back into MySQL Workspace and hit this flash icon up here.
+> **[3:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=192)** And I head back into [[MySQL]] Workspace and hit this flash icon up here.
 >
 > **[3:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/securing-credentials-with-password-hashing?u=76281980&t=198)** You see that we have now a hash password for this user.
 >
@@ -3587,7 +3553,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), hit (4), [[npm]] (1), application (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[npm]] (1), [[JavaScript]] (1), [[MySQL]] (1)
 > **Code Identifiers:** setpassword (2), plainpassword (2), hashedpassword (2), beforecreate (1)
 > **CLI Commands:** npm (1), node (1), mysql (1), make (1)
 > **Cross-References:** we discussed (1), go back to (1), in the next (1)
@@ -3596,12 +3562,11 @@ created: 2026-05-02
 > **Tools:** visual studio (1), terminal (1)
 > **Prerequisites:** install (2)
 
-#### Implementing the user login
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980)
+#### [Implementing the user login](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=0)** - [Instructor] In this video, we are finalizing our user management by adding a login.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=0)** - [Instructor] In this video, we are finalizing our [[User Management]] by adding a login.
 >
 > **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=5)** As you see, we already have this login form in place, but right now it's doing nothing.
 >
@@ -3795,7 +3760,7 @@ created: 2026-05-02
 >
 > **[8:58](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=538)** So this now works exactly as intended.
 >
-> **[9:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=541)** And with that we have everything for the user management implemented using MySQL and Sequelize.
+> **[9:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=541)** And with that we have everything for the user management implemented using [[MySQL]] and Sequelize.
 >
 > **[9:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-user-login?u=76281980&t=548)** Later we will get back to Sequelize to finish the order management.
 >
@@ -3803,7 +3768,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[User Management]] (3), database (3), hit (2), data (1), application (1)
+> **Frameworks & Libraries:** [[User Management]] (3), [[MySQL]] (1)
 > **Code Identifiers:** ispasswordvalid (2), comparepassword (2), findone (1)
 > **CLI Commands:** find (3), mysql (1)
 > **UI Navigation:** go to (1), open the (1), scroll down (1), click on (1)
@@ -3817,14 +3782,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fast and flexible basket and session management with Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980)
+#### [Fast and flexible basket and session management with Redis](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980&t=0)** - [Instructor] Key-value stores are a powerful and fast subset of databases.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980&t=0)** - [Instructor] Key-value stores are a powerful and fast subset of [[Databases]].
 >
-> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980&t=4)** And in this chapter, we will use Redis to handle our session data along with our shopping baskets.
+> **[0:04](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980&t=4)** And in this chapter, we will use [[Redis]] to handle our session data along with our shopping baskets.
 >
 > **[0:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fast-and-flexible-basket-and-session-management-with-redis?u=76281980&t=10)** At the core, key-value stores function like associative arrays or dictionaries in programming.
 >
@@ -3866,19 +3830,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), [[Redis]] (5), [[Databases]] (1), [[Programming]] (1)
+> **Frameworks & Libraries:** [[Redis]] (5), [[Databases]] (1)
 > **Definitions:** is an  (1), means that (1)
 > **Env Vars:** sku (1)
 > **Speakers:** - [instructor] (1)
 
-#### Setting up Redis with Docker
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980)
+#### [Setting up Redis with Docker](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=0)** - [Instructor] Redis is a high performance in-memory key-value store, often used for caching, session management, and real time data processing.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=0)** - [Instructor] [[Redis]] is a high performance in-memory key-value store, often used for caching, session management, and real time [[Data Processing]].
 >
-> **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=8)** In this video, we'll set up Redis using Docker, very similar to what we did with MySQL and MongoDB before.
+> **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=8)** In this video, we'll set up Redis using Docker, very similar to what we did with [[MySQL]] and [[MongoDB]] before.
 >
 > **[0:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=14)** So we start with writing docker pull redis, and while I'm doing that, yeah, let's make sure Docker is running.
 >
@@ -3900,23 +3863,22 @@ created: 2026-05-02
 >
 > **[1:19](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=79)** For production environments, Redis setup involves additional considerations such as persistence, configuring Redis to persist data also to this security, to set up authentication, and secure Redis from unauthorized access.
 >
-> **[1:32](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=92)** And there is also a cluster mode for high availability and scalability.
+> **[1:32](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/setting-up-redis-with-docker?u=76281980&t=92)** And there is also a cluster mode for high availability and [[Scalability]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (11), data (2), [[MySQL]] (2), [[MongoDB]] (2), management (1)
+> **Frameworks & Libraries:** [[Redis]] (11), [[MySQL]] (2), [[MongoDB]] (2), [[Data Processing]] (1), [[Scalability]] (1)
 > **CLI Commands:** docker (7), mysql (2), make (1)
 > **Prerequisites:** set up (2), setup (1)
 > **Analogies:** similar to (1), such as (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Exploring Redis with Redis Insight
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980)
+#### [Exploring Redis with Redis Insight](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=0)** - [Instructor] Redis Insight is a powerful graphical user interface for managing your Redis database.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=0)** - [Instructor] [[Redis]] Insight is a powerful graphical user interface for managing your Redis database.
 >
 > **[0:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=6)** It's made by the creators of Redis.
 >
@@ -3936,7 +3898,7 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=48)** Once you have installed it, you can launch it, and you are presented with this page.
 >
-> **[0:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=53)** And there, very similar to what you saw in MongoDB Compass, and MySQL Workbench just add the Redis database.
+> **[0:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=53)** And there, very similar to what you saw in [[MongoDB]] Compass, and [[MySQL]] Workbench just add the Redis database.
 >
 > **[1:02](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/exploring-redis-with-redisinsight?u=76281980&t=62)** And here already, you have all the credentials that match the installation that we have because we are running on the default port, so you can just click on Add Database.
 >
@@ -3964,7 +3926,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (13), data (9), database (4), business (1), cloud (1)
+> **Frameworks & Libraries:** [[Redis]] (13), [[MongoDB]] (1), [[MySQL]] (1)
 > **UI Navigation:** click on (5), scroll down (1)
 > **Code Identifiers:** sample_session (1), sample_leaderboard (1)
 > **Definitions:** is a  (2)
@@ -3972,12 +3934,11 @@ created: 2026-05-02
 > **CLI Commands:** mysql (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting our application to Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980)
+#### [Connecting our application to Redis](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=0)** - [Instructor] In this video, we will set up Redis in our Fastify application using the ioredis library.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=0)** - [Instructor] In this video, we will set up [[Redis]] in our Fastify application using the ioredis library.
 >
 > **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=5)** Let's get started.
 >
@@ -3987,9 +3948,9 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=12)** We are not installing some higher-level abstraction layer here.
 >
-> **[0:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=18)** So it's pure Redis, npm install ioredis.
+> **[0:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=18)** So it's pure Redis, [[npm]] install ioredis.
 >
-> **[0:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=24)** So there's no object or data mapping going on here.
+> **[0:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=24)** So there's no object or [[Data Mapping]] going on here.
 >
 > **[0:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=27)** So next, I start the application again and we start out, and you know this already with providing the configuration, and in config, I simply now add a new entry called redis.
 >
@@ -3999,7 +3960,7 @@ created: 2026-05-02
 >
 > **[1:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=61)** Again, when you look into server.js, you will see that somewhere down there, yeah, we are bringing in redis and config.redis.
 >
-> **[1:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=71)** So next, we are heading to the plugin section and there in databases, you'll find also an entry for redis.
+> **[1:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=71)** So next, we are heading to the plugin section and there in [[Databases]], you'll find also an entry for redis.
 >
 > **[1:18](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=78)** There you already have this scaffold for Redis and what we have to do now is actually make the connection.
 >
@@ -4041,9 +4002,9 @@ created: 2026-05-02
 >
 > **[4:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=240)** Redis, dastify.redis.quit.
 >
-> **[4:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=245)** And now when I save, I see connected to MongoDB.
+> **[4:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=245)** And now when I save, I see connected to [[MongoDB]].
 >
-> **[4:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=250)** Let's look up MySQL.
+> **[4:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=250)** Let's look up [[MySQL]].
 >
 > **[4:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/connecting-our-application-to-redis?u=76281980&t=255)** Let's look for Redis here.
 >
@@ -4063,7 +4024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (29), application (2), next (2), [[npm]] (1), data (1)
+> **Frameworks & Libraries:** [[Redis]] (29), [[npm]] (1), [[Data Mapping]] (1), [[Databases]] (1), [[MongoDB]] (1)
 > **CLI Commands:** npm (1), find (1), make (1), mysql (1)
 > **Prerequisites:** install (2), set up (1)
 > **File Paths:** server.js (1)
@@ -4071,8 +4032,7 @@ created: 2026-05-02
 > **Env Vars:** todo (1)
 > **Speakers:** - [instructor] (1)
 
-#### Managing user sessions with Redis
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980)
+#### [Managing user sessions with Redis](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4098,7 +4058,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=54)** Usually, you rely on server-side sessions and just store the session ID in the cookie.
 >
-> **[1:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=61)** Very often, Redis is used for that and we will now change our session management system to use Redis under the hood.
+> **[1:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=61)** Very often, [[Redis]] is used for that and we will now change our session management system to use Redis under the hood.
 >
 > **[1:09](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=69)** For that, we have to change a few things.
 >
@@ -4198,7 +4158,7 @@ created: 2026-05-02
 >
 > **[7:35](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=455)** It basically logout.
 >
-> **[7:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=457)** So clearSession is maybe not the right word for it.
+> **[7:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=457)** So clearSession is maybe not the right [[Microsoft Word|word]] for it.
 >
 > **[7:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/managing-user-sessions-with-redis?u=76281980&t=459)** It's more like the user log out.
 >
@@ -4228,7 +4188,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (14), management (6), data (3), next (3), express (2)
+> **Frameworks & Libraries:** [[Redis]] (14), [[Microsoft Word|Word]] (1)
 > **Code Identifiers:** fastifysession (5), fastifysecuresession (3), fastifycookie (3), clearsession (3), redisstore (1)
 > **Prerequisites:** install (4), setup (1), configure (1), set up (1)
 > **Definitions:** is a  (4), means that (2)
@@ -4237,8 +4197,7 @@ created: 2026-05-02
 > **Best Practices:** best practice (1), don't forget (1)
 > **CLI Commands:** make (1)
 
-#### Basic Redis operations for shopping baskets, part 1
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980)
+#### [Basic Redis operations for shopping baskets, part 1](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4252,7 +4211,7 @@ created: 2026-05-02
 >
 > **[0:39](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=39)** So I can now simply click on, can now impersonate the user, and when I go back into the shop, I can click on Add to Basket, and it will even tell me that an item was added to the basket, but this is a lie, because right now, we don't have any persistence going on.
 >
-> **[0:57](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=57)** And to fix this, we'll connect our basket system to Redis, which is a very fast and efficient way to handle data, like basket items, because it's very fast when it comes to updates and deletes and all those things.
+> **[0:57](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=57)** And to fix this, we'll connect our basket system to [[Redis]], which is a very fast and efficient way to handle data, like basket items, because it's very fast when it comes to updates and deletes and all those things.
 >
 > **[1:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=71)** So to implement that, I will now head back into Visual Studio Code and everything we need to do is going on in routes, basket.js, and if you're curious about how this basket views and work, you can look into basket.ejs.
 >
@@ -4320,7 +4279,7 @@ created: 2026-05-02
 >
 > **[6:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=372)** So the first thing I'm going to do again is I'm getting the basket key, const key = basketKey for this request for this user ID.
 >
-> **[6:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=384)** And the next thing I'm going to do is I have to fetch the basket contents first.
+> **[6:24](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=384)** And the next thing I'm going to do is I have to [[Fetch]] the basket contents first.
 >
 > **[6:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-1?u=76281980&t=390)** Stay with me. I cannot fetch it right into items.
 >
@@ -4398,7 +4357,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Redis]] (10), next (7), data (4), [[Fetch]] (2), generic (1)
+> **Frameworks & Libraries:** [[Redis]] (10), [[Fetch]] (2)
 > **Env Vars:** sku (8), todo (2), url (1)
 > **Code Identifiers:** basketkey (5), parseint (1)
 > **UI Navigation:** click on (4), scroll up (1), open the (1)
@@ -4407,8 +4366,7 @@ created: 2026-05-02
 > **Tools:** visual studio (2)
 > **Analogies:** for instance (2)
 
-#### Basic Redis operations for shopping baskets, part 2
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980)
+#### [Basic Redis operations for shopping baskets, part 2](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4448,7 +4406,7 @@ created: 2026-05-02
 >
 > **[2:13](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=133)** So this is provided by Fastify as the infrastructure, but if you are on Express, or if you do this on Express, this is very much like also middlewares work.
 >
-> **[2:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=143)** In here, I need the basket key, and then have to fetch the contents of the basket.
+> **[2:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=143)** In here, I need the basket key, and then have to [[Fetch]] the contents of the basket.
 >
 > **[2:29](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=149)** And we did this before, right?
 >
@@ -4468,13 +4426,13 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=201)** So next what I'm going to do is I'm going to fetch all the basket items for this user.
 >
-> **[3:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=207)** So I write const basketItems, and you know that already because it's await fastify.redis.hgetall
+> **[3:27](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=207)** So I write const basketItems, and you know that already because it's await fastify.[[Redis]].hgetall
 >
 > **[3:41](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=221)** for the given key.
 >
 > **[3:45](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=225)** So now I have all the basket items, but what I actually want to do is I want to get a summary account of all the items.
 >
-> **[3:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=233)** And for that, I'm now using a little bit of functional programming magic by writing const basketCount.
+> **[3:53](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=233)** And for that, I'm now using a little bit of [[Functional Programming]] magic by writing const basketCount.
 >
 > **[4:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=243)** And I will iterate over Object.values.
 >
@@ -4494,7 +4452,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=315)** And this works as we discussed already, where reply.locals, so everything in reply.locals is available to templates.
 >
-> **[5:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=323)** And I'm now extending it by adding the expansion syntax of JavaScript.
+> **[5:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=323)** And I'm now extending it by adding the expansion syntax of [[JavaScript]].
 >
 > **[5:29](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/basic-redis-operations-for-shopping-baskets-part-2?u=76281980&t=329)** And there reply.locals, or an empty object if there is no reply.locals.
 >
@@ -4540,7 +4498,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (2), express (2), [[Fetch]] (2), [[Redis]] (2), next (1)
+> **Frameworks & Libraries:** [[Fetch]] (2), [[Redis]] (2), [[Functional Programming]] (1), [[JavaScript]] (1)
 > **Code Identifiers:** basketcount (4), basketplugin (4), basketitems (2), addhook (1), prehandler (1)
 > **File Paths:** basket.js (2), server.js (1), plugins/basket.js (1)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -4554,18 +4512,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fetching item information for the basket
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980)
+#### [Fetching item information for the basket](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=0)** - [Instructor] So far we built the foundation of our basket system using Redis to store basket data.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=0)** - [Instructor] So far we built the foundation of our basket system using [[Redis]] to store basket data.
 >
 > **[0:05](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=5)** However, if we look at the basket page, now we only see the sku and the quantity.
 >
 > **[0:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=10)** To make the basket useful, we need more details about the items like the name and the price.
 >
-> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=16)** But this information is stored in MongoDB, not Redis, and this is where things get interesting.
+> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=16)** But this information is stored in [[MongoDB]], not Redis, and this is where things get interesting.
 >
 > **[0:22](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=22)** We now need to combine data from multiple sources so we get the basket content from Redis, but the product details from MongoDB.
 >
@@ -4593,7 +4550,7 @@ created: 2026-05-02
 >
 > **[1:59](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=119)** So add return, and we are now returning this again.
 >
-> **[2:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=126)** So this should basically do exactly the same what we did before, but now it's the long form of the JavaScript syntax.
+> **[2:06](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=126)** So this should basically do exactly the same what we did before, but now it's the long form of the [[JavaScript]] syntax.
 >
 > **[2:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/fetching-item-information-for-the-basket?u=76281980&t=134)** What we have to do next is we have to first add an async to this function.
 >
@@ -4641,7 +4598,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Redis]] (4), [[MongoDB]] (4), parallel (3), database (2)
+> **Frameworks & Libraries:** [[Redis]] (4), [[MongoDB]] (4), [[JavaScript]] (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** scroll down (1), go to (1), click on (1)
 > **Definitions:** is an  (2)
@@ -4650,18 +4607,17 @@ created: 2026-05-02
 > **Tools:** visual studio (1)
 > **Speakers:** - [instructor] (1)
 
-#### Creating the order and using transactions
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980)
+#### [Creating the order and using transactions](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=0)** - [Instructor] So far, we built a functional basket system, using Redis, and integrated product details from MongoDB.
+> **[0:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=0)** - [Instructor] So far, we built a functional basket system, using [[Redis]], and integrated product details from [[MongoDB]].
 >
 > **[0:07](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=7)** Now we are taking it to the next step, turning the basket into an order.
 >
-> **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=11)** This is where we bring in MySQL and ensure everything works together smoothly.
+> **[0:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=11)** This is where we bring in [[MySQL]] and ensure everything works together smoothly.
 >
-> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=16)** To do this, we will fetch all basket items from Redis.
+> **[0:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=16)** To do this, we will [[Fetch]] all basket items from Redis.
 >
 > **[0:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=20)** We will retrieve product details from MongoDB and we will then create an order in MySQL, using a transaction.
 >
@@ -4733,7 +4689,7 @@ created: 2026-05-02
 >
 > **[4:58](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=298)** And here, we now fully trust that the user actually exists.
 >
-> **[5:02](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=302)** Now on the order creation, we have to of course provide data, so the data for the order where JavaScript object, which then contains the user ID.
+> **[5:02](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=302)** Now on the order creation, we have to of course provide data, so the data for the order where [[JavaScript]] object, which then contains the user ID.
 >
 > **[5:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/creating-the-order-and-using-transactions?u=76281980&t=315)** So this is how we map the order to the user table, and it is now user ID.
 >
@@ -4839,7 +4795,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[MySQL]] (7), data (6), [[Redis]] (4), [[MongoDB]] (4), product (3)
+> **Frameworks & Libraries:** [[MySQL]] (7), [[Redis]] (4), [[MongoDB]] (4), [[Fetch]] (3), [[JavaScript]] (1)
 > **CLI Commands:** mysql (7), find (3)
 > **Env Vars:** sku (8)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -4848,8 +4804,7 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Implementing the order admin view
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980)
+#### [Implementing the order admin view](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4859,7 +4814,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=14)** So by the end of the video, the admin will have full control over the order management process.
 >
-> **[0:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=20)** Along the way, we will also learn how to join data in relational databases like MySQL using Sequelize.
+> **[0:20](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=20)** Along the way, we will also learn how to join data in [[Relational Databases]] like [[MySQL]] using Sequelize.
 >
 > **[0:28](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=28)** So let's head into Visual Studio Code.
 >
@@ -4915,7 +4870,7 @@ created: 2026-05-02
 >
 > **[3:57](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=237)** And I can do this by simply defining here an object.
 >
-> **[4:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=240)** So I will map through the orders and now I compose basically the entries of the array and the id is the order.id.
+> **[4:00](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=240)** So I will map through the orders and now I [[Jetpack Compose|compose]] basically the entries of the array and the id is the order.id.
 >
 > **[4:11](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=251)** The status is the order.status.
 >
@@ -4963,7 +4918,7 @@ created: 2026-05-02
 >
 > **[7:10](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=430)** You should be able to do it yourself, but I will show it to you one more time and one last time.
 >
-> **[7:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=436)** So here in line 59, I want to fetch the orders.
+> **[7:16](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=436)** So here in line 59, I want to [[Fetch]] the orders.
 >
 > **[7:19](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=439)** So I write await fastify.models.Order.findByPk
 >
@@ -4989,17 +4944,17 @@ created: 2026-05-02
 >
 > **[9:02](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=542)** So click on this and this order is shipped and this is shipped as well.
 >
-> **[9:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=548)** Now all our customers get their Austrian products.
+> **[9:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=548)** Now all our customers get their Austrian [[Microsoft Products|products]].
 >
 > **[9:12](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=552)** Everyone is happy.
 >
 > **[9:13](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=553)** And we are also happy because we are done now.
 >
-> **[9:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=555)** We now have a fully functional, minimal shopping system and we used MySQL, MongoDB, and Redis to implement it.
+> **[9:15](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/implementing-the-order-admin-view?u=76281980&t=555)** We now have a fully functional, minimal shopping system and we used MySQL, [[MongoDB]], and [[Redis]] to implement it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), database (3), management (2), [[MySQL]] (2), [[Fetch]] (2)
+> **Frameworks & Libraries:** [[MySQL]] (2), [[Fetch]] (2), [[Relational Databases]] (1), [[Jetpack Compose|Compose]] (1), [[Microsoft Products|Products]] (1)
 > **Code Identifiers:** createdat (2), findall (1), orderdata (1), findbypk (1), orderid (1)
 > **Definitions:** is a  (3), is an  (2), is called (1)
 > **UI Navigation:** scroll down (2), click on (2)
@@ -5013,8 +4968,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5022,7 +4976,7 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=1)** I hope you enjoyed it.
 >
-> **[0:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=3)** During this course, you've learned the basics of using databases with (indistinct).
+> **[0:03](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=3)** During this course, you've learned the basics of using [[Databases]] with (indistinct).
 >
 > **[0:08](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=8)** More importantly, you also learned when to use which and how the code can be organized in a real project.
 >
@@ -5030,7 +4984,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=23)** To deepen your knowledge, you find dedicated courses to all introduced technologies and many more in the library.
 >
-> **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=30)** If you have questions, feel free to use the q and a section of this course or reach out to me via LinkedIn.
+> **[0:30](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=30)** If you have questions, feel free to use the q and a section of this course or reach out to me via [[LinkedIn]].
 >
 > **[0:37](https://www.linkedin.com/learning/databases-for-node-js-developers-25329301/next-steps?u=76281980&t=37)** If you liked this course, please also use the thumbs up button on the top of this page.
 >

@@ -60,24 +60,23 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)
+#### [Understanding generative AI](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=0)** Have you ever wondered how computers are able to generate art, write stories, and even create music?
 >
-> **[0:05](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=5)** Well, it's because of a new type of AI technology called Generative AI.
+> **[0:05](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=5)** Well, it's because of a new type of AI technology called [[Generative AI]].
 >
-> **[0:10](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=10)** Generative AI is a type of artificial intelligence that's able to learn from patterns and data and generate new data based on what it has learned.
+> **[0:10](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=10)** Generative AI is a type of [[Artificial Intelligence (AI)|artificial intelligence]] that's able to learn from patterns and data and generate new data based on what it has learned.
 >
-> **[0:19](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=19)** Today, the most widely used types of Generative AI are models that are generating text or images such as ChatGPT or Midjourney.
+> **[0:19](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=19)** Today, the most widely used types of Generative AI are models that are generating text or images such as [[ChatGPT]] or [[Midjourney]].
 >
 > **[0:27](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=27)** But these models can be applied across a lot of different types of data, including audio, video, 3D models, and the list is growing every day.
 >
 > **[0:35](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=35)** And that ability to generate new data has really democratized access to AI.
 >
-> **[0:41](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=41)** In the past, to use AI, you would have to train one of these models yourself, which would require you to have big data and an experienced team that can go and build that model.
+> **[0:41](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=41)** In the past, to use AI, you would have to train one of these models yourself, which would require you to have [[Big Data]] and an experienced team that can go and build that model.
 >
 > **[0:50](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/understanding-generative-ai?u=76281980&t=50)** But now, because these models have learned that core task, such as generating text, they are actually able to be applied across a whole variety of new tasks, such as summarizing documents, copywriting, writing code and a lot more.
 >
@@ -87,22 +86,21 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), [[Generative AI]] (4), data (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Midjourney]] (1), [[Big Data]] (1)
 > **Analogies:** such as (3)
 > **Definitions:** is a  (1)
 
-#### ChatGPT and GPT explained
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980)
+#### [ChatGPT and GPT explained](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=0)** I'm going to explain the basics of how ChatGPT works so that you can be more informed and get the most out of this new technology.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=0)** I'm going to explain the basics of how [[ChatGPT]] works so that you can be more informed and get the most out of this new technology.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=6)** ChatGPT is an application built on top of an AI model called GPT.
 >
 > **[0:11](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=11)** GPT is a massive AI model that was trained on billions of words across a bunch of books, a lot of the internet and a lot of Wikipedia.
 >
-> **[0:20](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=20)** GPT works by taking input, text and using what its learned about language to predict the next most likely word.
+> **[0:20](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=20)** GPT works by taking input, text and using what its learned about language to predict the next most likely [[Microsoft Word|word]].
 >
 > **[0:27](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/chatgpt-and-gpt-explained?u=76281980&t=27)** Once it has that word, it does the same process again to predict the next most likely word.
 >
@@ -118,16 +116,15 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (3), next (3), ai (2), application (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (4), [[ChatGPT]] (3)
 > **Env Vars:** gpt (6)
 > **Definitions:** is a  (2), is an  (1)
 
-#### Introduction to prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980)
+#### [Introduction to prompting](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=0)** Writing a good prompt helps us get the most out of AI tools like ChatGPT.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=0)** Writing a good prompt helps us get the most out of AI tools like [[ChatGPT]].
 >
 > **[0:04](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/introduction-to-prompting?u=76281980&t=4)** Prompting is a way to give these AI models direction so it can understand our task and then help us complete it.
 >
@@ -163,18 +160,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (8), prompt (4), generic (3), [[ChatGPT]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (2)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
 > **Best Practices:** best practice (1)
 
-#### Few-shot learning for better generations
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/few-shot-learning-for-better-generations?u=76281980)
+#### [Few-shot learning for better generations](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/few-shot-learning-for-better-generations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/few-shot-learning-for-better-generations?u=76281980&t=0)** One of the most powerful things about ChatGPT is just how good it is at completing your task just from the prompt that you give it.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/few-shot-learning-for-better-generations?u=76281980&t=0)** One of the most powerful things about [[ChatGPT]] is just how good it is at completing your task just from the prompt that you give it.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/few-shot-learning-for-better-generations?u=76281980&t=6)** But, if you find yourself wanting to teach ChatGPT a more complex task or having more control over the formatting of the output, then try giving ChatGPT examples.
 >
@@ -198,18 +194,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (8), prompt (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (8)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Fine-tuning GPT for your use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980)
+#### [Fine-tuning GPT for your use case](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=0)** If you want to customize ChatGPT further for your use cases, there are a few approaches that you can take.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=0)** If you want to customize [[ChatGPT]] further for your use cases, there are a few approaches that you can take.
 >
 > **[0:05](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=5)** One approach you can do is something called fine-tuning, where you basically give ChatGPT a large data set of example inputs and example outputs for a given task, and that teaches the AI model how to perform your task.
 >
@@ -217,7 +212,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=24)** You could pull in data such as your company's support documents, internal wikis or any type of database, so that when you're asked a question, you can look up the most relevant information in that outside data set and then pull in the most relevant context to provide as support to ChatGPT as it generates the answer.
 >
-> **[0:42](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=42)** There are a growing number of products and providers that are helping people do both of these approaches.
+> **[0:42](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=42)** There are a growing number of [[Microsoft Products|products]] and providers that are helping people do both of these approaches.
 >
 > **[0:48](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/fine-tuning-gpt-for-your-use-case?u=76281980&t=48)** Or your engineering team can use OpenAI's documentation to develop an internal version for yourself.
 >
@@ -225,17 +220,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[ChatGPT]] (4), ai (1), prompt (1), database (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Microsoft Products|Products]] (1)
 > **Analogies:** such as (1)
 
-#### Using AI in your organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980)
+#### [Using AI in your organization](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980&t=0)** Here are three easy steps to start using AI in your business.
 >
-> **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980&t=3)** The first is to develop AI literacy, which is an understanding of what is AI and how can it be used.
+> **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980&t=3)** The first is to develop [[AI Literacy]], which is an understanding of what is AI and how can it be used.
 >
 > **[0:09](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/using-ai-in-your-organization?u=76281980&t=9)** For example, today AI can be used to create content, summarize, synthesize, predict, classify and a lot more.
 >
@@ -255,21 +249,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (11), business (1), data (1), product (1)
+> **Frameworks & Libraries:** [[AI Literacy]] (2)
 > **CLI Commands:** find (2), make (1)
 > **Definitions:** is an  (1)
 > **Analogies:** for example (1)
 
-#### Keeping people in the process
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980)
+#### [Keeping people in the process](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=0)** AI tools like ChatGPT are incredibly powerful, but it's important to keep people involved in the process.
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=0)** AI tools like [[ChatGPT]] are incredibly powerful, but it's important to keep people involved in the process.
 >
 > **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=6)** In this video, I'll explain why. AI models are impressive, but they are far from perfect.
 >
-> **[0:11](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=11)** If you've ever used ChatGPT, you've seen that the outputs of these tools can be questionable, and that's true for other tools like DALL-E, Midjourney and more.
+> **[0:11](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=11)** If you've ever used ChatGPT, you've seen that the outputs of these tools can be questionable, and that's true for other tools like [[DALL-E]], [[Midjourney]] and more.
 >
 > **[0:20](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/keeping-people-in-the-process?u=76281980&t=20)** That's why it's important to keep a human involved in the process to provide oversight and make sure that the results are of high quality.
 >
@@ -287,21 +280,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (5), [[ChatGPT]] (2), [[DALL-E]] (1), [[Midjourney]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (2), [[DALL-E]] (1), [[Midjourney]] (1)
 > **Env Vars:** dall (1), gpt (1)
 > **Analogies:** such as (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### Why AI is allowed to lie
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980)
+#### [Why AI is allowed to lie](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=0)** Have you ever used ChatGPT and found that the output was very inaccurate?
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=0)** Have you ever used [[ChatGPT]] and found that the output was very inaccurate?
 >
 > **[0:04](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=4)** Let's talk about why that happens.
 >
-> **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=6)** ChatGPT is a powerful AI model, but at its, core all it's doing is learning patterns from words and using that to predict the next most likely word.
+> **[0:06](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=6)** ChatGPT is a powerful AI model, but at its, core all it's doing is learning patterns from words and using that to predict the next most likely [[Microsoft Word|word]].
 >
 > **[0:14](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/why-ai-is-allowed-to-lie?u=76281980&t=14)** This allows it to generate text that sounds coherent and confident, but that doesn't always mean that it's accurate.
 >
@@ -317,24 +309,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), ai (2), data (2), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Microsoft Word|Word]] (1)
 > **Definitions:** is a  (1), known as (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** you should always (1)
 
-#### Data privacy and ownership considerations
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980)
+#### [Data privacy and ownership considerations](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=0)** What happens to your data when you're using AI models like ChatGPT?
+> **[0:00](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=0)** What happens to your data when you're using AI models like [[ChatGPT]]?
 >
 > **[0:03](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=3)** If you're using AI at work or for your business, this is an important question to ask and understand.
 >
 > **[0:10](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=10)** Now, the details of how data is used varies based on the product or model.
 >
-> **[0:14](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=14)** And if you have specific questions, I recommend talking to a lawyer about data ownership and privacy.
+> **[0:14](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=14)** And if you have specific questions, I recommend talking to a lawyer about data ownership and [[Privacy]].
 >
 > **[0:19](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=19)** But, here are three questions which are good to ask and keep in mind.
 >
@@ -344,13 +335,13 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=34)** Second is, are your inputs and outputs being used to improve the underlying AI model?
 >
-> **[0:40](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=40)** This is very common for tech products and it was the reason why ChatGPT was launched and given for free to the public.
+> **[0:40](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=40)** This is very common for tech [[Microsoft Products|products]] and it was the reason why ChatGPT was launched and given for free to the public.
 >
 > **[0:47](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=47)** They specifically call this a research preview for those purposes. You can learn about how this works for any product that you're using, usually by looking at the terms of service.
 >
 > **[0:55](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=55)** Third is, what data am I sharing in order to use the service?
 >
-> **[0:59](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=59)** Many of the AI products today help us with productivity, and so they usually need access to some of our tools, such as our email or our Google Drive and other sensitive information.
+> **[0:59](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=59)** Many of the AI products today help us with productivity, and so they usually need access to some of our tools, such as our email or our [[Google Drive]] and other sensitive information.
 >
 > **[1:09](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/data-privacy-and-ownership-considerations?u=76281980&t=69)** You should understand and only give access to the companies and products that you trust.
 >
@@ -358,14 +349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), data (4), [[Microsoft Products|Products]] (3), [[ChatGPT]] (2), business (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (3), [[ChatGPT]] (2), [[Privacy]] (1), [[Google Drive]] (1)
 > **Analogies:** for example (1), such as (1)
 > **Definitions:** is an  (1)
 > **Warnings:** keep in mind (1)
 > **Prerequisites:** you'll need (1)
 
-#### Common business applications
-> [LinkedIn Learning](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980)
+#### [Common business applications](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -377,7 +367,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980&t=15)** And by thinking about it as delegating, you can reflect on what are the things that you love to do and how could you delegate the mundane work that you don't like doing to AI?
 >
-> **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980&t=24)** We are seeing AI be applied across almost every domain, but some of the most mature ones are AI in marketing, customer support, sales and even software development.
+> **[0:24](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980&t=24)** We are seeing AI be applied across almost every domain, but some of the most mature ones are AI in marketing, [[Customer Support]], sales and even [[Software Development]].
 >
 > **[0:34](https://www.linkedin.com/learning/nano-tips-for-using-chatgpt-for-business-with-rachel-woods/common-business-applications?u=76281980&t=34)** Within marketing, you can use AI to help you create marketing materials such as emails and social media posts and sales.
 >
@@ -389,7 +379,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (12), [[Customer Support]] (1), [[Engineering]] (1)
+> **Frameworks & Libraries:** [[Customer Support]] (1)
 > **Analogies:** just like (1), such as (1)
 
 

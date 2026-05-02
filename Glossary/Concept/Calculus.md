@@ -17,7 +17,7 @@ tags:
   - topic/security
   - topic/software-development
   - topic/cloud-computing
-course_count: 22
+course_count: 23
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Calculus
 
-> **Type:** Concept | **Courses:** 22 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Cybersecurity]], [[Software Development]], [[Cloud Computing]]
+> **Type:** Concept | **Courses:** 23 | **Topics:** [[Data Science]], [[Artificial Intelligence (AI)]], [[Cybersecurity]], [[Software Development]], [[Cloud Computing]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training]] — 2 mentions
 10. [[Machine Learning Foundations- Probability]] — 2 mentions
 
-> [!note]- See all 22 courses
+> [!note]- See all 23 courses
 > 11. [[IoT Foundations- Fundamentals]] — 1 mentions
 > 12. [[Data Literacy Exploring And Describing Data In An Ai World]] — 1 mentions
 > 13. [[Deep Learning Fundamentals for Healthcare]] — 1 mentions
@@ -49,10 +49,11 @@ created: 2026-05-02
 > 16. [[Machine Learning with Python- Foundations]] — 1 mentions
 > 17. [[Excel- Advanced Formulas and Functions (2023)]] — 1 mentions
 > 18. [[Artificial Intelligence Foundations- Neural Networks]] — 1 mentions
-> 19. [[Machine Learning Foundations- Statistics]] — 1 mentions
-> 20. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
-> 21. [[Learning JDBC]] — 1 mentions
-> 22. [[Electronics Foundations- Basic Circuits]] — 1 mentions
+> 19. [[History of Responsible AI- From Principles to Professionalization by All Tech Is Human]] — 1 mentions
+> 20. [[Machine Learning Foundations- Statistics]] — 1 mentions
+> 21. [[Machine Learning with Logistic Regression in Excel, R, and Power BI]] — 1 mentions
+> 22. [[Learning JDBC]] — 1 mentions
+> 23. [[Electronics Foundations- Basic Circuits]] — 1 mentions
 
 ## Learning Paths
 

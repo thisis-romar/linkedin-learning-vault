@@ -41,9 +41,9 @@ created: 2026-05-02
 10. [[Ubuntu Linux- Operating System Basics]] — 14 mentions
 
 > [!note]- See all 99 courses
-> 11. [[Cybersecurity with Cloud Computing]] — 11 mentions
-> 12. [[PowerShell- Automating IT Administration]] — 11 mentions
-> 13. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 10 mentions
+> 11. [[Ethical Hacking- Evading IDS, Firewalls, and Honeypots]] — 11 mentions
+> 12. [[Cybersecurity with Cloud Computing]] — 11 mentions
+> 13. [[PowerShell- Automating IT Administration]] — 11 mentions
 > 14. [[Jenkins Essential Training]] — 10 mentions
 > 15. [[Ethical Hacking- Enumeration]] — 9 mentions
 > 16. [[Ethical Hacking- Denial of Service]] — 9 mentions
@@ -137,7 +137,7 @@ created: 2026-05-02
 2. [[Ubuntu Linux Professional Certificate by Canonical]] — 53 total mentions
 3. [[Containerize Applications with Docker]] — 51 total mentions
 4. [[Network Automation Professional Certificate by Arista Networks]] — 38 total mentions
-5. [[Become an Ethical Hacker]] — 34 total mentions
+5. [[Become an Ethical Hacker]] — 35 total mentions
 6. [[Prepare for the Linux Professional Institute LPIC-1 (101-500 and 102-500) Exams]] — 33 total mentions
 7. [[The Top Skills IT Professionals Have Right Now]] — 30 total mentions
 8. [[Getting Started with Linux]] — 23 total mentions

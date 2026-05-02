@@ -76,8 +76,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your own GPTs using English
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
+#### [Build your own GPTs using English](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -85,7 +84,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980&t=5)** It redefined our understanding of tie and the distance.
 >
-> **[0:10](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980&t=10)** Today, large language models are redefining the way we build applications.
+> **[0:10](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980&t=10)** Today, [[Large Language Models (LLM)|large language models]] are redefining the way we build applications.
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts-using-english?u=76281980&t=16)** English has become the new programming language.
 >
@@ -105,12 +104,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Large Language Models (LLM)|Large language models]] (1), [[Programming]] (1), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - imagine (1)
 
-#### OpenAI GPT store
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980)
+#### [OpenAI GPT store](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -124,9 +122,9 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=15)** So what does this mean for us?
 >
-> **[0:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=18)** Well, if you missed the Apple wave, now, ChatGPT is opening up a whole new world of possibilities.
+> **[0:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=18)** Well, if you missed the Apple wave, now, [[ChatGPT]] is opening up a whole new world of possibilities.
 >
-> **[0:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=27)** Custom GPTs for different vertical domains is a blue ocean.
+> **[0:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=27)** [[Custom GPTs]] for different vertical domains is a blue ocean.
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=33)** Instead of relying on a single model for everything, we can customize GPTs to become experts in your tasks.
 >
@@ -138,7 +136,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=64)** The purpose of this course is to inspire you to create applications that leverage the latest AI technology.
 >
-> **[1:14](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=74)** We'll introduce the pentagram framework for prompt engineering.
+> **[1:14](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=74)** We'll introduce the pentagram framework for [[Prompt Engineering]].
 >
 > **[1:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpt-store?u=76281980&t=78)** We'll unpack some powerful techniques like chain of thought, few-shot learning, and user intent detection.
 >
@@ -150,7 +148,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Programming]] (1), [[Prompt Engineering]] (1)
+> **Frameworks & Libraries:** [[Custom GPTs]] (2), [[ChatGPT]] (1), [[Prompt Engineering]] (1)
 > **Env Vars:** gpt (5)
 > **Cross-References:** in the next (1)
 > **Definitions:** is a  (1)
@@ -162,12 +160,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### OpenAI GPTs user interface
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
+#### [OpenAI GPTs user interface](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=0)** - [Instructor] Have you ever felt like, you are drowning in a sea of texts, long emails, lengthy meeting minutes, endless Slack discussions.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=0)** - [Instructor] Have you ever felt like, you are drowning in a sea of texts, long emails, lengthy meeting minutes, endless [[Slack]] discussions.
 >
 > **[0:10](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=10)** Information overload is a common headache today.
 >
@@ -195,7 +192,7 @@ created: 2026-05-02
 >
 > **[1:21](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=81)** After confirming the GPT name with you, it begins to generate a profile picture.
 >
-> **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=88)** At the time of this recording, OpenAI uses the DALL-E 3 model backend for this task.
+> **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=88)** At the time of this recording, OpenAI uses the [[DALL-E]] 3 model backend for this task.
 >
 > **[1:35](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=95)** The builder is asking, "Do you like it or would you like any changes?"
 >
@@ -213,7 +210,7 @@ created: 2026-05-02
 >
 > **[2:20](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=140)** Ensure that your responses are professional, concise, and targeted.
 >
-> **[2:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=147)** Maintain a word limit of no more than 300 words.
+> **[2:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=147)** Maintain a [[Microsoft Word|word]] limit of no more than 300 words.
 >
 > **[2:38](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=158)** Awesome.
 >
@@ -241,7 +238,7 @@ created: 2026-05-02
 >
 > **[4:01](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=241)** Prompts are not unique to the OpenAI models.
 >
-> **[4:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=244)** They are an entry point for all large language models.
+> **[4:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=244)** They are an entry point for all [[Large Language Models (LLM)|large language models]].
 >
 > **[4:08](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/openai-gpts-user-interface?u=76281980&t=248)** Here are some conversation starters auto generated as well.
 >
@@ -255,7 +252,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (4), teams (2), next (2), [[DALL-E]] (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Slack]] (4), [[DALL-E]] (1), [[Microsoft Word|Word]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **Env Vars:** gpt (13), dall (1)
 > **Tools:** slack (4)
 > **Analogies:** for example (2), picture (1)
@@ -264,8 +261,7 @@ created: 2026-05-02
 > **Cross-References:** in the next (1)
 > **Speakers:** - [instructor] (1)
 
-#### Talk to KK in the playground
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980)
+#### [Talk to KK in the playground](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980&t=23)** And the third email from Jessie.
 >
-> **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980&t=26)** These coworkers are creating a sprint plan for their SaaS product.
+> **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980&t=26)** These coworkers are creating a sprint plan for their [[SaaS]] product.
 >
 > **[0:33](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/talk-to-kk-in-the-playground?u=76281980&t=33)** Now, let's go back to the GPT builder.
 >
@@ -303,15 +299,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (2), [[SaaS]] (1), [[Engineering]] (1), next (1)
+> **Frameworks & Libraries:** [[SaaS]] (1)
 > **Cross-References:** go back to (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Env Vars:** gpt (1)
 > **Exercise Files:** exercise file (1)
 > **Speakers:** - [alina] (1)
 
-#### Pentagram framework for prompt engineering
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/pentagram-framework-for-prompt-engineering?u=76281980)
+#### [Pentagram framework for prompt engineering](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/pentagram-framework-for-prompt-engineering?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -381,19 +376,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), data (2), next (1)
 > **Env Vars:** gpt (7), mba (2), pdf (1), csv (1)
 > **Analogies:** for example (2), such as (1)
 > **CLI Commands:** make (1)
 > **Definitions:** refers to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Upgrading KK using Pentagram
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980)
+#### [Upgrading KK using Pentagram](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=0)** - [Instructor] Prompts can be used to condition the probabilistic distribution of large language models.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=0)** - [Instructor] Prompts can be used to condition the probabilistic distribution of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=6)** My pentagram framework is a tool to ensure the prompts are relevant, appropriate, and effective in various contexts.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=80)** Generate a list of clear and practical action items that user can follow.
 >
-> **[1:25](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=85)** Tasks can be in many different forms.
+> **[1:25](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=85)** Tasks can be in many different [[Forms]].
 >
 > **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=88)** It could be writing a code, generating images, or performing a calculation, and so on.
 >
@@ -435,7 +428,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=112)** In the output component, you can inform the GPT how to respond.
 >
-> **[1:57](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=117)** For example, use no more than 300 word, or output a PDF file.
+> **[1:57](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=117)** For example, use no more than 300 [[Microsoft Word|word]], or output a PDF file.
 >
 > **[2:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/upgrading-kk-using-pentagram?u=76281980&t=124)** Now the last component is constraint.
 >
@@ -469,14 +462,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), next (2), [[Large Language Models (LLM)|Large language models]] (1), ai (1), chatbot (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[Forms]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** gpt (2), pdf (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Chain-of-thought prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980)
+#### [Chain-of-thought prompting](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -488,7 +480,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980&t=16)** The technology we are using is chain-of-thought.
 >
-> **[0:20](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980&t=20)** It was introduced by Jason Wei and his colleagues at Google Research Brain Team.
+> **[0:20](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980&t=20)** It was introduced by Jason Wei and his colleagues at [[Google]] Research Brain Team.
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/chain-of-thought-prompting?u=76281980&t=26)** The core idea is to break down a big task into smaller, more digestible subtasks, meaning, don't bite off more than you can chew.
 >
@@ -524,11 +516,10 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (3), [[Google]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Google]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### Publish your GPT
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980)
+#### [Publish your GPT](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -554,7 +545,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=45)** Here is a sales call transcript.
 >
-> **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=48)** Alice and Bob from a SaaS company were talking to their clients.
+> **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=48)** Alice and Bob from a [[SaaS]] company were talking to their clients.
 >
 > **[0:53](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=53)** Let's upload it to KK and I'm going to request KK to extract tasks from my meeting transcript.
 >
@@ -566,7 +557,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=87)** Wonderful!
 >
-> **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=88)** Let's run one more test using Slack data.
+> **[1:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=88)** Let's run one more test using [[Slack]] data.
 >
 > **[1:32](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=92)** This is from a Slack channel of a startup.
 >
@@ -582,7 +573,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=124)** There are a list of action items.
 >
-> **[2:06](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=126)** For example, develop a new UI, address data storage and the buyers, plan and implement some infrastructure changes for large language model.
+> **[2:06](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=126)** For example, develop a new UI, address [[Data Storage]] and the buyers, plan and implement some infrastructure changes for large language model.
 >
 > **[2:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/publish-your-gpt?u=76281980&t=138)** We can see each action item is designed to address specific aspects of the integration project.
 >
@@ -604,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Slack]] (3), data (2), [[Search]] (1), [[SaaS]] (1), prompt (1)
+> **Frameworks & Libraries:** [[Slack]] (3), [[SaaS]] (1), [[Data Storage]] (1)
 > **Env Vars:** gpt (6)
 > **Tools:** slack (3)
 > **UI Navigation:** go to (1), select the (1), click on (1)
@@ -618,12 +609,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Custom knowledge base
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
+#### [Custom knowledge base](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=0)** - [Instructor] ChatGPT is likely to surpass any single human in all subjects in the future.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=0)** - [Instructor] [[ChatGPT]] is likely to surpass any single human in all subjects in the future.
 >
 > **[0:06](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=6)** But that doesn't mean it knows everything.
 >
@@ -633,7 +623,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=27)** Each end user is kept at 10 gigabytes, and each organization is kept at 100 gigabytes.
 >
-> **[0:36](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=36)** To my understanding, it's likely that in the future, OpenAI will provide a fine tuning feature that lets users fine tune GPTs with their files.
+> **[0:36](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=36)** To my understanding, it's likely that in the future, OpenAI will provide a [[Fine Tuning]] feature that lets users fine tune GPTs with their files.
 >
 > **[0:48](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/custom-knowledge-base?u=76281980&t=48)** Let's explore how to build a custom knowledge base for a new GPT, Sun Tzu career coaching.
 >
@@ -723,7 +713,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (7), [[ChatGPT]] (6), business (5), data (2), next (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (6), [[Fine Tuning]] (1)
 > **Env Vars:** gpt (9), mba (2), reg (1)
 > **UI Navigation:** select the (1)
 > **Exercise Files:** download the (1)
@@ -731,8 +721,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Personalized output
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980)
+#### [Personalized output](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -784,7 +773,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980&t=189)** My unique strengths lies in my experience
 >
-> **[3:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980&t=198)** in natural language processing.
+> **[3:18](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980&t=198)** in [[Natural Language Processing (NLP)|natural language processing]].
 >
 > **[3:28](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/personalized-output?u=76281980&t=208)** Cool, Sun Tzu is asking me some questions.
 >
@@ -808,21 +797,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** career (6), prompt (2), next (2), leadership (2), business (1)
+> **Frameworks & Libraries:** [[Natural Language Processing (NLP)|Natural language processing]] (1)
 > **Analogies:** for example (3)
 > **Env Vars:** gpt (2)
 > **Cross-References:** we discussed (1), in the next (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Prompt injection
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980)
+#### [Prompt injection](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980&t=0)** - [Alina] Prompt injection attacks are considered the most critical vulnerability of larger language models.
 >
-> **[0:08](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980&t=8)** Some well-known examples are Bing Chat and GitHub Copilot leaked their original prompts to hackers.
+> **[0:08](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980&t=8)** Some well-known examples are Bing Chat and [[GitHub Copilot]] leaked their original prompts to hackers.
 >
 > **[0:17](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/prompt-injection?u=76281980&t=17)** Let's see an example of a prompt injection attack with our Sun Tzu GPT.
 >
@@ -858,18 +846,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (7), [[Security]] (2), [[GitHub Copilot]] (1)
+> **Frameworks & Libraries:** [[GitHub Copilot]] (1)
 > **Env Vars:** gpt (1)
 > **Tools:** github (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [alina] (1)
 
-#### Test case generation
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980)
+#### [Test case generation](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=0)** - [Narrator] True communication with someone who has passed away is impossible, but large language models open up a new window.
+> **[0:00](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=0)** - [Narrator] True communication with someone who has passed away is impossible, but [[Large Language Models (LLM)|large language models]] open up a new window.
 >
 > **[0:08](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=8)** We can simulate conversations with those who are no longer with us if we have sufficient data about them.
 >
@@ -877,13 +864,13 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=23)** But before releasing Sun Tzu a broader audience, it's important to run tests.
 >
-> **[0:29](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=29)** Similar to the alpha and the beta test in software development, we need to discover and fix bugs in the custom GPT before a public release.
+> **[0:29](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=29)** Similar to the alpha and the beta test in [[Software Development]], we need to discover and fix bugs in the custom GPT before a public release.
 >
-> **[0:41](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=41)** The easiest way is to leverage ChatGPT to generate test cases.
+> **[0:41](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=41)** The easiest way is to leverage [[ChatGPT]] to generate test cases.
 >
 > **[0:46](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=46)** Open ChatGPT in a new tab.
 >
-> **[0:50](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=50)** You are working on the quality assurance team at a software company.
+> **[0:50](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=50)** You are working on the [[Quality Assurance]] team at a software company.
 >
 > **[0:57](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/test-case-generation?u=76281980&t=57)** Your task is to create three test cases for my custom GPT with the inputs and expected output.
 >
@@ -903,7 +890,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1), data (1), [[Software Development]] (1), [[Quality Assurance]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (3), [[Large Language Models (LLM)|Large language models]] (1), [[Software Development]] (1), [[Quality Assurance]] (1)
 > **Env Vars:** gpt (4)
 > **CLI Commands:** find (1)
 > **Definitions:** is a  (1)
@@ -915,8 +902,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### User intent detection
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
+#### [User intent detection](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -934,7 +920,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=26)** In this section, we are going to build a gift advisor.
 >
-> **[0:30](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=30)** Ladies, Lilis will provide a personalized recommendations for birthday gifts, wedding presents, and tokens of appreciation.
+> **[0:30](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=30)** Ladies, Lilis will provide a personalized recommendations for birthday gifts, wedding presents, and [[Tokens]] of appreciation.
 >
 > **[0:40](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=40)** If a user request falls outside gift shopping, we want Lilis to gently remind them of her specific role and guide the conversation back.
 >
@@ -1008,7 +994,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=255)** For example, you can say, birthday gift for my friend, or Valentines Day gift that goes beyond the usual chocolates and flowers.
 >
-> **[4:30](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=270)** Or gifts for a Secret Santa Exchange at the office.
+> **[4:30](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=270)** Or gifts for a Secret Santa Exchange at the [[Microsoft Office|office]].
 >
 > **[4:35](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=275)** Educational gift for a 7-year-old.
 >
@@ -1016,7 +1002,7 @@ created: 2026-05-02
 >
 > **[4:44](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=284)** Excelling at gift giving.
 >
-> **[4:47](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=287)** I create this essay using ChatGPT.
+> **[4:47](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=287)** I create this essay using [[ChatGPT]].
 >
 > **[4:50](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/user-intent-detection?u=76281980&t=290)** I asked ChatGBT to write an essay about how to become excellent at giving gifts as a professor teaching MBA courses at a university.
 >
@@ -1062,7 +1048,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (3), prompt (2), [[Tokens]] (1), [[Microsoft Office|Office]] (1), next (1)
+> **Frameworks & Libraries:** [[Tokens]] (1), [[Microsoft Office|Office]] (1), [[ChatGPT]] (1)
 > **UI Navigation:** go to (3), switch to (1)
 > **Env Vars:** gpt (2), mba (1)
 > **Analogies:** for example (3)
@@ -1070,8 +1056,7 @@ created: 2026-05-02
 > **Definitions:** is a  (2)
 > **Speakers:** - [instructor] (1)
 
-#### Few-shot learning
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980)
+#### [Few-shot learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1079,7 +1064,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980&t=5)** The main idea is about adding a handful of examples to the prompt can make a big difference.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980&t=12)** It significantly boosts large language models' ability to generalize valuable results.
+> **[0:12](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980&t=12)** It significantly boosts [[Large Language Models (LLM)|large language models]]' ability to generalize valuable results.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/few-shot-learning?u=76281980&t=19)** Let's adopt this approach.
 >
@@ -1133,12 +1118,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (2), [[Large Language Models (LLM)|Large language models]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### DALL-E visualization
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/dall-e-visualization?u=76281980)
+#### [DALL-E visualization](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/dall-e-visualization?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1206,7 +1190,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), prompt (1), power (1)
 > **Env Vars:** ceo (1), gpt (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is an  (1)
@@ -1218,8 +1201,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Build your own GPTs
-> [LinkedIn Learning](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)
+#### [Build your own GPTs](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1227,13 +1209,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=4)** Now you have the skills to create your own GPTs using the new programming language, English.
 >
-> **[0:12](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=12)** Large language models are going to redefine how we work, how we learn, and how we think.
+> **[0:12](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=12)** [[Large Language Models (LLM)|Large language models]] are going to redefine how we work, how we learn, and how we think.
 >
 > **[0:19](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=19)** As Fei-Fei Li said, "Learning AI today is like learning how to read and write in the past."
 >
 > **[0:26](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=26)** Share the course with people who are eager to learn about AI.
 >
-> **[0:31](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=31)** Follow me on LinkedIn for updates on future courses.
+> **[0:31](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=31)** Follow me on [[LinkedIn]] for updates on future courses.
 >
 > **[0:35](https://www.linkedin.com/learning/hands-on-ai-build-your-own-gpts/build-your-own-gpts?u=76281980&t=35)** Send me the GPT you built.
 >
@@ -1243,7 +1225,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (2), [[Programming]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (1), [[LinkedIn]] (1)
 > **Env Vars:** gpt (2)
 > **Speakers:** - [alina] (1)
 

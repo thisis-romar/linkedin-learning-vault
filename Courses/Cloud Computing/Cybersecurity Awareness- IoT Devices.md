@@ -77,12 +77,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Importance of cybersecurity awareness
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
+#### [Importance of cybersecurity awareness](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=0)** - [Rachael Popoola] The Internet of Things.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=0)** - [Rachael Popoola] The [[IoT|Internet of Things]].
 >
 > **[0:02](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=2)** You've probably heard this term.
 >
@@ -92,7 +91,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=15)** This means we should know a bit about how it works and we should also know how to keep ourselves safe.
 >
-> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=22)** I'm Rachael Popoola, a cybersecurity and cloud security enthusiast, but I'm also a mentor and consultant.
+> **[0:22](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=22)** I'm Rachael Popoola, a [[Cybersecurity]] and [[Cloud Security]] enthusiast, but I'm also a mentor and consultant.
 >
 > **[0:30](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/importance-of-cybersecurity-awareness?u=76281980&t=30)** Every day I see the vulnerabilities that appear in cybersecurity.
 >
@@ -104,17 +103,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Internet of Things (IoT)|Internet of things]] (2), [[Cybersecurity]] (2), [[Security]] (2), cloud (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (2), [[Cybersecurity]] (2), [[Cloud Security]] (1)
 > **Speakers:** - [rachael (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980&t=0)** - [Instructor] You don't need any technical experience to benefit from this course.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980&t=5)** You will define the Internet of Things and talk about how it's called IoT.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980&t=5)** You will define the [[IoT|Internet of Things]] and talk about how it's called [[IoT]].
 >
 > **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/what-you-should-know?u=76281980&t=13)** We will go over examples of IoT devices so you can spot them in your real life.
 >
@@ -124,7 +122,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (3), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[IoT|Internet of things]] (1)
 > **Speakers:** - [instructor] (1)
 
 
@@ -132,8 +130,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Cybersecurity and IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
+#### [Cybersecurity and IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -141,11 +138,11 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=7)** It's because we have so many devices and system connected to the internet.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=13)** So it makes sense that we examine how cybersecurity is not just related to IOT, but essential for proper functioning.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=13)** So it makes sense that we examine how [[Cybersecurity]] is not just related to [[IoT]], but essential for proper functioning.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=21)** Cybersecurity is the umbrella for all techniques and technologies used to protect platforms, networks and devices from online threats.
 >
-> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=33)** Similarly, the phrase Internet of Things is used to describe all items and devices connected to the internet.
+> **[0:33](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=33)** Similarly, the phrase [[IoT|Internet of Things]] is used to describe all items and devices connected to the internet.
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=42)** Cybersecurity is becoming more and more important as Internet of Things technology is integrated into everyday system lifestyle and enterprises.
 >
@@ -161,7 +158,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=84)** The IOT, however, also creates an avenue for cyber attacks or other disruptive interventions when it transfers power to computers.
 >
-> **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=97)** If cybersecurity is not effectively implemented the IOT also runs the potential of risk similar to how individual websites or databases can be attacked.
+> **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=97)** If cybersecurity is not effectively implemented the IOT also runs the potential of risk similar to how individual websites or [[Databases]] can be attacked.
 >
 > **[1:49](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=109)** The IOT subsequently grows as fresh technological product appears in advance.
 >
@@ -185,18 +182,17 @@ created: 2026-05-02
 >
 > **[3:14](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=194)** However, I do not want you to panic.
 >
-> **[3:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=197)** In subsequent videos, we'll review the nature of IOT and the specific security risk.
+> **[3:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=197)** In subsequent videos, we'll review the nature of IOT and the specific [[Security Risk]].
 >
 > **[3:25](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/cybersecurity-and-iot?u=76281980&t=205)** We'll also go over how we can safeguard those vulnerabilities.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), [[Cybersecurity]] (5), [[Security]] (3), data (3), [[Internet of Things (IoT)|Internet of things]] (2)
+> **Frameworks & Libraries:** [[IoT]] (7), [[Cybersecurity]] (5), [[IoT|Internet of things]] (2), [[Databases]] (1), [[Security Risk]] (1)
 > **Env Vars:** iot (7)
 > **Speakers:** - [instructor] (1)
 
-#### Internet in IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980)
+#### [Internet in IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -206,7 +202,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=8)** It's too complex.
 >
-> **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=10)** Instead, let's talk about the parts relevant to IoT.
+> **[0:10](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=10)** Instead, let's talk about the parts relevant to [[IoT]].
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=14)** The internet is a global system of computer networks.
 >
@@ -250,7 +246,7 @@ created: 2026-05-02
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=121)** How does this relate with IoT?
 >
-> **[2:04](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=124)** Well, IoT, or Internet of Things, is different from the internet.
+> **[2:04](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=124)** Well, IoT, or [[IoT|Internet of Things]], is different from the internet.
 >
 > **[2:10](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=130)** The term Internet of Things refers to a network of physical objects or things that have sensors, softwares, and other technologies built into them in order to connect to and exchange data with other systems and devices over the internet.
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=164)** Continuous communication between people, processes, and things is now possible thanks to the ability to connect commonplace items, such as household appliance, automobiles, thermostats, and baby monitors, to the internet via embedded devices.
 >
-> **[3:03](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=183)** Low-cost computers, the cloud, big data analytics, and mobile technologies enable the sharing and collection of data by physical objects with minimum of human intervention.
+> **[3:03](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=183)** Low-cost computers, the cloud, [[Big Data Analytics]], and mobile technologies enable the sharing and collection of data by physical objects with minimum of human intervention.
 >
 > **[3:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/internet-in-iot?u=76281980&t=197)** Digital system can record, monitor, and modify every interaction between connected entities.
 >
@@ -268,18 +264,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (4), [[Internet of Things (IoT)|Internet of things]] (2), data (2), [[Search]] (1), cloud (1)
+> **Frameworks & Libraries:** [[IoT]] (4), [[IoT|Internet of things]] (2), [[Big Data Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Things in IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980)
+#### [Things in IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=0)** - [Instructor] When we hear the word Internet of Things, what first comes to our mind?
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=0)** - [Instructor] When we hear the [[Microsoft Word|word]] [[IoT|Internet of Things]], what first comes to our mind?
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=5)** I remember the first day I heard this word in high school, and all I could think of was the internet is made up of a lot of things.
 >
@@ -293,7 +288,7 @@ created: 2026-05-02
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=26)** And even though I had an idea of what the Internet of Things may be, there was more to know about it.
 >
-> **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=32)** What is classified as things in the term IoT?
+> **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=32)** What is classified as things in the term [[IoT]]?
 >
 > **[0:36](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/things-in-iot?u=76281980&t=36)** It's any object that can receive and transfer data.
 >
@@ -341,17 +336,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), data (4), [[Microsoft Word|Word]] (2), [[Internet of Things (IoT)|Internet of things]] (2)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Microsoft Word|Word]] (2), [[IoT|Internet of things]] (2)
 > **CLI Commands:** find (1), make (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Do IoT devices need the internet?
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980)
+#### [Do IoT devices need the internet?](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=0)** - [Instructor] It seems obvious, doesn't it, that the IoT devices need the internet?
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=0)** - [Instructor] It seems obvious, doesn't it, that the [[IoT]] devices need the internet?
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=6)** But I think we can be fooled by the popularity of the internet, Because we engage with the internet so often.
 >
@@ -393,7 +387,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=111)** This is called IoT Data Protocols.
 >
-> **[1:55](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=115)** Yes, you heard me correctly, Internet of Things devices that work without using the internet.
+> **[1:55](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=115)** Yes, you heard me correctly, [[IoT|Internet of Things]] devices that work without using the internet.
 >
 > **[2:01](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/do-iot-devices-need-the-internet?u=76281980&t=121)** I know it sounds counterintuitive, and I'll give you a few examples.
 >
@@ -413,7 +407,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[IoT]] (9), cloud (1), [[Internet of Things (IoT)|Internet of things]] (1)
+> **Frameworks & Libraries:** [[IoT]] (9), [[IoT|Internet of things]] (1)
 > **Env Vars:** iot (2), ibm (1)
 > **Definitions:** is called (2)
 > **Analogies:** such as (1)
@@ -424,12 +418,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Daily activities of IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
+#### [Daily activities of IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=0)** - [Instructor] We have discussed what IoT is, and we've even gone through how it works.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=0)** - [Instructor] We have discussed what [[IoT]] is, and we've even gone through how it works.
 >
 > **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=6)** But let's learn about the usefulness of IoT in our daily lives.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=42)** Before we go into the categories, we have to understand that IoT is more than just limited to home and business.
 >
-> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=50)** It is not even surprising that some products in agriculture, consumer products, healthcare, automotive, and manufacturing, have builtin features which are considered IoTs.
+> **[0:50](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=50)** It is not even surprising that some [[Microsoft Products|products]] in agriculture, consumer products, healthcare, automotive, and manufacturing, have builtin features which are considered IoTs.
 >
 > **[1:04](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=64)** The business sector has adopted IoT devices to track goods and transits, from inventory and also in production lines.
 >
@@ -471,7 +464,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=151)** Now for desk-tracking devices, it may not be intuitive what those are.
 >
-> **[2:38](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=158)** These devices actually monitor if a desk is occupied, so you could know if your office or coworking space has an available desk, or even your favorite one by a window.
+> **[2:38](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=158)** These devices actually monitor if a desk is occupied, so you could know if your [[Microsoft Office|office]] or coworking space has an available desk, or even your favorite one by a window.
 >
 > **[2:52](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=172)** But of course, there are IoTs that require the internet and these are the most common one.
 >
@@ -483,7 +476,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=205)** Simply search types of IoT devices, and you'll have plenty of materials to read.
 >
-> **[3:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=212)** In fact, there are some other courses here on LinkedIn learning, where you can take an even deeper dive into these type of IoT devices.
+> **[3:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=212)** In fact, there are some other courses here on [[LinkedIn]] learning, where you can take an even deeper dive into these type of IoT devices.
 >
 > **[3:42](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/daily-activities-of-iot?u=76281980&t=222)** But with what we've discussed here, I know you can begin to identify IoT devices around you.
 >
@@ -491,15 +484,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (12), [[Microsoft Products|Products]] (3), business (2), management (2), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[IoT]] (12), [[Microsoft Products|Products]] (3), [[Microsoft Office|Office]] (1), [[LinkedIn]] (1)
 > **Speakers:** - [instructor] (1)
 
-#### How IoT communicates
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980)
+#### [How IoT communicates](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=0)** - [Instructor] I'm sure, by now, we must have an idea of how IoT works, but we also need to grasp the concept of how IoT interacts with the internet and other IoT devices.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=0)** - [Instructor] I'm sure, by now, we must have an idea of how [[IoT]] works, but we also need to grasp the concept of how IoT interacts with the internet and other IoT devices.
 >
 > **[0:12](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=12)** In order for every individual to understand this concept, we will try to be as less technical as possible.
 >
@@ -525,7 +517,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=84)** The platforms, as mentioned previously, could be a cloud service managed by a third party or an on-prem software managed privately.
 >
-> **[1:34](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=94)** Platforms are middleware that serves as a bridge between the user end of the IoT device system, basic hardware based layer of IoT devices, gateways, and the business and application layer to monitor and manage multiple endpoints.
+> **[1:34](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=94)** Platforms are middleware that serves as a bridge between the user end of the IoT device system, basic [[Hardware]] based layer of IoT devices, gateways, and the business and application layer to monitor and manage multiple endpoints.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=112)** The fourth layer is communication and connectivity.
 >
@@ -537,7 +529,7 @@ created: 2026-05-02
 >
 > **[2:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=137)** Some of the common ones are radio, Wi-Fi, Bluetooth, ethernet, fiber.
 >
-> **[2:24](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=144)** Some popular networks IoT devices use are the internet, local area network, that is the LAN, wide area network, that is the WAN, mobile network, and satellite network.
+> **[2:24](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=144)** Some popular networks IoT devices use are the internet, [[Local Area Network (LAN)|local area network]], that is the LAN, wide area network, that is the WAN, mobile network, and satellite network.
 >
 > **[2:40](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-iot-communicates?u=76281980&t=160)** The last layer is the user interface.
 >
@@ -557,24 +549,23 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (14), cloud (2), [[Hardware]] (1), business (1), application (1)
+> **Frameworks & Libraries:** [[IoT]] (14), [[Hardware]] (1), [[Local Area Network (LAN)|Local area network]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** lan (1), wan (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common behaviors of IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980)
+#### [Common behaviors of IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=0)** - Let's discuss how data collected from IoT are put to use.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=0)** - Let's discuss how data collected from [[IoT]] are put to use.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=5)** In order to make the maximum use of data that is gathered from IoT, we need to look at the interest and behaviors of users towards the data received.
 >
 > **[0:15](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=15)** This process is also termed Internet of Behaviors.
 >
-> **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=18)** It's an extension of Internet of Things which looks to study how data behaves among users.
+> **[0:18](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=18)** It's an extension of [[IoT|Internet of Things]] which looks to study how data behaves among users.
 >
 > **[0:25](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=25)** IoB is responsible for gathering, analyzing, and grasping all kinds of behaviors.
 >
@@ -600,7 +591,7 @@ created: 2026-05-02
 >
 > **[1:31](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=91)** For instance, online advertisement aids enterprises connect to their customers.
 >
-> **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=97)** The IoB can be utilized to identify consumers interested in their specific products.
+> **[1:37](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=97)** The IoB can be utilized to identify consumers interested in their specific [[Microsoft Products|products]].
 >
 > **[1:43](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-behaviors-of-iot?u=76281980&t=103)** If a device detects instances of a user's increasing interaction with grocery shopping, your fees and ads will change.
 >
@@ -648,7 +639,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (13), [[IoT]] (5), [[Internet of Things (IoT)|Internet of things]] (1), [[Microsoft Products|Products]] (1)
+> **Frameworks & Libraries:** [[IoT]] (5), [[IoT|Internet of things]] (1), [[Microsoft Products|Products]] (1)
 > **Analogies:** for example (2), for instance (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -659,18 +650,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefits of IoT in real life and the society
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
+#### [Benefits of IoT in real life and the society](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=0)** - [Instructor] The Internet of Things is undoubtedly here to stay.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=0)** - [Instructor] The [[IoT|Internet of Things]] is undoubtedly here to stay.
 >
 > **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=5)** There is no doubt in that our best line of action is to fully utilize technology and make it as secure and beneficial as we can.
 >
 > **[0:14](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=14)** Let's keep in mind that every technology does have its flaws and the internet of things is no different.
 >
-> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=21)** Surely there are some disadvantage with the IOT ecosystem but there are also advantages.
+> **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=21)** Surely there are some disadvantage with the [[IoT]] ecosystem but there are also advantages.
 >
 > **[0:28](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/benefits-of-iot-in-real-life-and-the-society?u=76281980&t=28)** Let's explore some of those benefits.
 >
@@ -742,23 +732,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (8), [[Internet of Things (IoT)|Internet of things]] (6), [[IoT]] (3), business (2), traffic (1)
+> **Frameworks & Libraries:** [[IoT|Internet of things]] (6), [[IoT]] (3)
 > **CLI Commands:** make (3)
 > **Env Vars:** iot (3)
 > **Analogies:** for instance (1), for example (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security risks of IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980)
+#### [Security risks of IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=0)** - [Instructor] It is no surprise that there are some security challenges that come with the internet of things.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=0)** - [Instructor] It is no surprise that there are some security challenges that come with the [[IoT|internet of things]].
 >
-> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=6)** Some of these are cybersecurity risks that come with internet connected devices.
+> **[0:06](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=6)** Some of these are [[Cybersecurity]] risks that come with internet connected devices.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=13)** Even though the benefits gained from IOT devices cannot be overstated there are vulnerabilities involved.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=13)** Even though the benefits gained from [[IoT]] devices cannot be overstated there are vulnerabilities involved.
 >
 > **[0:21](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=21)** These challenges provide cyber criminals a vast surface area for attacks.
 >
@@ -828,7 +817,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=189)** Don't forget about all the devices and accounts you've held in the past.
 >
-> **[3:14](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=194)** We create a digital and hardware tool of assets as we go through life.
+> **[3:14](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=194)** We create a digital and [[Hardware]] tool of assets as we go through life.
 >
 > **[3:20](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=200)** It's important to continue to manage those assets and protect them from bad actors even though we are no longer actively using them.
 >
@@ -842,13 +831,13 @@ created: 2026-05-02
 >
 > **[3:51](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=231)** Anything we use for our own personal use we often forget that those system operate passively as well as we actively use them.
 >
-> **[4:01](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=241)** So yes, just like any system with value there are security risk.
+> **[4:01](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=241)** So yes, just like any system with value there are [[Security Risk]].
 >
 > **[4:07](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/security-risks-of-iot?u=76281980&t=247)** It can be tempting to avoid thinking about them but it's better to be aware of these risk and mitigate the vulnerability with a few simple decision before exploitation.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (3), data (3), [[Internet of Things (IoT)|Internet of things]] (1), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[IoT|Internet of things]] (1), [[Cybersecurity]] (1), [[Hardware]] (1), [[Security Risk]] (1)
 > **Env Vars:** iot (8)
 > **Analogies:** such as (1), just like (1)
 > **Warnings:** note that (1), be aware (1)
@@ -856,8 +845,7 @@ created: 2026-05-02
 > **Best Practices:** don't forget (1)
 > **Speakers:** - [instructor] (1)
 
-#### Common cyber attacks on IoT
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980)
+#### [Common cyber attacks on IoT](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -897,7 +885,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=94)** They're having cases like this happening with hacking smart refrigerators and smart cars it becomes more dangerous due to the nature of the things being hacked.
 >
-> **[1:45](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=105)** IoT devices range from machinery used in industry to common household items.
+> **[1:45](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=105)** [[IoT]] devices range from machinery used in industry to common household items.
 >
 > **[1:52](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=112)** We may see a scenario in which an attacker might want to falsify temperature data from a monitoring device in order to cause a piece of machinery to overheat and hold production.
 >
@@ -917,7 +905,7 @@ created: 2026-05-02
 >
 > **[2:49](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=169)** The more details or data, the easier identity theft can be carried out.
 >
-> **[2:55](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=175)** And identity theft comes in many forms.
+> **[2:55](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=175)** And identity theft comes in many [[Forms]].
 >
 > **[2:59](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=179)** It could be financial, child identity theft, criminal theft, synthetic, and there are even more than that.
 >
@@ -925,7 +913,7 @@ created: 2026-05-02
 >
 > **[3:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=193)** The main purpose of the botnet is to control and remotely distribute malware.
 >
-> **[3:20](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=200)** They are mostly used by a criminal to perform other forms of attack like distributed denial of service, DDOS, mass phishing, instilling personal data.
+> **[3:20](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=200)** They are mostly used by a criminal to perform other forms of attack like distributed denial of service, DDOS, mass [[Phishing]], instilling personal data.
 >
 > **[3:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/common-cyber-attacks-on-iot?u=76281980&t=212)** Before you leave this video stressed out about cyber attack, I want you to pause for a second.
 >
@@ -941,7 +929,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[IoT]] (3), [[Forms]] (2), [[Security]] (1), [[Phishing]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[Forms]] (2), [[Phishing]] (1)
 > **Env Vars:** ddos (1)
 > **Warnings:** be aware (1)
 > **Speakers:** - [instructor] (1)
@@ -951,12 +939,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to create strong passwords
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
+#### [How to create strong passwords](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=0)** - [Instructor] Almost all online activities like reading your email and doing your banking need the use of a password and while using an easy, simple password is easier, doing so might be extremely dangerous to your online security.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=0)** - [Instructor] Almost all online activities like reading your email and doing your [[Banking]] need the use of a password and while using an easy, simple password is easier, doing so might be extremely dangerous to your online security.
 >
 > **[0:17](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=17)** You should pick passwords that are strong, lengthy, and challenging for hackers to crack, but are yet manageable for you to remember.
 >
@@ -1000,7 +987,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=122)** Avoid dictionary words.
 >
-> **[2:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=125)** What I mean is a continuously spelled word, followed by some numbers or symbols.
+> **[2:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=125)** What I mean is a continuously spelled [[Microsoft Word|word]], followed by some numbers or symbols.
 >
 > **[2:12](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=132)** Examples of this poor practice are listed on your screen.
 >
@@ -1030,7 +1017,7 @@ created: 2026-05-02
 >
 > **[3:04](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=184)** Adopting password managers can help with generating and remembering them.
 >
-> **[3:09](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=189)** I recommend using the storytelling or paraphrase method as tips for writing passwords.
+> **[3:09](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=189)** I recommend using the [[Storytelling]] or paraphrase method as tips for writing passwords.
 >
 > **[3:15](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/how-to-create-strong-passwords?u=76281980&t=195)** This means forming a password from a story or a paraphrase that relates to you.
 >
@@ -1046,21 +1033,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Banking]] (1), [[Security]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
+> **Frameworks & Libraries:** [[Banking]] (1), [[Microsoft Word|Word]] (1), [[Storytelling]] (1)
 > **Definitions:** is a  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** recommended (1)
 > **Speakers:** - [instructor] (1)
 
-#### Network segmentation
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980)
+#### [Network segmentation](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980&t=0)** - [Instructor] Network segmentation is basically separating networks between devices and in this course separating IOT networks from others to limit attack surface.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980&t=0)** - [Instructor] Network segmentation is basically separating networks between devices and in this course separating [[IoT]] networks from others to limit attack surface.
 >
-> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980&t=13)** Segmentation is one of the essential defense mechanisms against cybersecurity threats.
+> **[0:13](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980&t=13)** Segmentation is one of the essential defense mechanisms against [[Cybersecurity]] threats.
 >
 > **[0:19](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/network-segmentation?u=76281980&t=19)** Only the resources required are accessible to each divided group of devices.
 >
@@ -1102,13 +1088,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (10), [[Security]] (3), [[Cybersecurity]] (1)
+> **Frameworks & Libraries:** [[IoT]] (10), [[Cybersecurity]] (1)
 > **Env Vars:** iot (10), nac (3)
 > **CLI Commands:** make (1), find (1)
 > **Speakers:** - [instructor] (1)
 
-#### Wi-Fi security
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980)
+#### [Wi-Fi security](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1116,7 +1101,7 @@ created: 2026-05-02
 >
 > **[0:08](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=8)** Anyone with a computer or mobile device who is within the wireless signal range of a networking device, such as a wireless access point or a router, can access it without Wi-Fi security.
 >
-> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=23)** Let's look at Wi-Fi authentication methods, and let's review some best practices to use for your IoT devices.
+> **[0:23](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=23)** Let's look at Wi-Fi authentication methods, and let's review some best practices to use for your [[IoT]] devices.
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=32)** We will begin with segmenting the Wi-Fi network.
 >
@@ -1162,7 +1147,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=192)** Hacking these type of networks is quite simple.
 >
-> **[3:15](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=195)** To protect yourself, use a virtual private network.
+> **[3:15](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=195)** To protect yourself, use a [[Virtual Private Network (VPN)|virtual private network]].
 >
 > **[3:19](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=199)** That is a VPN.
 >
@@ -1188,7 +1173,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=262)** This becomes very useful if the device is lost, stolen, or launches a distributed denial of service attack.
 >
-> **[4:31](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=271)** In that case, the Wi-Fi network security system can kick the device off the network.
+> **[4:31](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=271)** In that case, the Wi-Fi [[Network Security]] system can kick the device off the network.
 >
 > **[4:38](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/wi-fi-security?u=76281980&t=278)** It can restrict its access to specific segments or quarantine needs.
 >
@@ -1196,23 +1181,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (8), [[Security]] (4), vpn (2), traffic (1), [[Virtual Private Network (VPN)|Virtual private network]] (1)
+> **Frameworks & Libraries:** [[IoT]] (8), [[Virtual Private Network (VPN)|Virtual private network]] (1), [[Network Security]] (1)
 > **Definitions:** is a  (2), known as (1), is an  (1), means that (1)
 > **Env Vars:** vpn (2), wpa2 (1), ioc (1)
 > **CLI Commands:** make (3)
 > **Analogies:** such as (2)
 > **Speakers:** - [instructor] (1)
 
-#### Patching firmware
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980)
+#### [Patching firmware](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=0)** - [Instructor] IoT devices are recognized for their generally lax security, despite the fact that they are predicted to have a significant impact on our economy, for instance, the Mirai botnet showed how other infrastructures might be threatened by large scale DDOS attacks utilizing hijacked IOT devices.
+> **[0:00](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=0)** - [Instructor] [[IoT]] devices are recognized for their generally lax security, despite the fact that they are predicted to have a significant impact on our economy, for instance, the Mirai botnet showed how other infrastructures might be threatened by large scale DDOS attacks utilizing hijacked IOT devices.
 >
 > **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=26)** The fact that many of these exploited IoT devices lack a firmware update mechanism and have not been patched as of yet, is equally concerning.
 >
-> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=39)** A trustworthy and secure Firmware Update process that is appropriate for devices with resource limitation is now more important than ever, this is due to vulnerabilities in internet of things devices, by doing so also makes it possible to perform other critical operations like altering configuration options and introducing new features.
+> **[0:39](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=39)** A trustworthy and secure Firmware Update process that is appropriate for devices with resource limitation is now more important than ever, this is due to vulnerabilities in [[IoT|internet of things]] devices, by doing so also makes it possible to perform other critical operations like altering configuration options and introducing new features.
 >
 > **[1:07](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=67)** In order to manage a device lifecycle after deployment, firmware upgrades are essential, most especially when the lifespan of these connected devices is lengthy.
 >
@@ -1226,13 +1210,13 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=158)** Configuration options and basic operations, attackers will attempt to obtain it as a starting point for more sophisticated attacks.
 >
-> **[2:50](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=170)** Not all firmware updates are done manually, the code on linked, embedded IoT devices can sometimes be remotely updated, in order to offer firmware upgrades, in a method that works for both IoT and mobile devices, the updates are carried out over-the-air, hence the term, they are transmitted wirelessly without interfering with the underlying hardware, to achieve this.
+> **[2:50](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=170)** Not all firmware updates are done manually, the code on linked, embedded IoT devices can sometimes be remotely updated, in order to offer firmware upgrades, in a method that works for both IoT and mobile devices, the updates are carried out over-the-air, hence the term, they are transmitted wirelessly without interfering with the underlying [[Hardware]], to achieve this.
 >
 > **[3:22](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/patching-firmware?u=76281980&t=202)** IoT makers may continuously add new features, fix security flaws, and improve product performance across distributed computing environments, by using the OTA firmware upgrades in all the CIA triad is one very important way to secure these updates.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (7), [[Security]] (2), [[Internet of Things (IoT)|Internet of things]] (1), [[Hardware]] (1), product (1)
+> **Frameworks & Libraries:** [[IoT]] (7), [[IoT|Internet of things]] (1), [[Hardware]] (1)
 > **Env Vars:** ddos (1), iot (1), ota (1), cia (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
@@ -1242,8 +1226,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1251,7 +1234,7 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=2)** Now, let's talk about what comes next.
 >
-> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=5)** It is important we understand IoT.
+> **[0:05](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=5)** It is important we understand [[IoT]].
 >
 > **[0:09](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=9)** It permeates our lives both locally and globally.
 >
@@ -1261,7 +1244,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=20)** Now if you want to learn more, make sure you choose a reputable source.
 >
-> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=26)** As you might imagine, I recommend watching other courses here on LinkedIn Learning.
+> **[0:26](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=26)** As you might imagine, I recommend watching other courses here on [[LinkedIn]] Learning.
 >
 > **[0:32](https://www.linkedin.com/learning/cybersecurity-awareness-iot-devices/next-steps?u=76281980&t=32)** For more on IoT specifically, watch IoT Foundations Fundamentals.
 >
@@ -1285,7 +1268,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[IoT]] (3), [[LinkedIn]] (3), next (2), [[Security]] (1)
+> **Frameworks & Libraries:** [[IoT]] (3), [[LinkedIn]] (3)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Analogies:** imagine (1)

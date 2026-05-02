@@ -88,8 +88,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Reach customers with SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980)
+#### [Reach customers with SEO](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -97,7 +96,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=9)** We're going to improve the SEO of our site.
 >
-> **[0:11](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=11)** That stands for search engine optimization.
+> **[0:11](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=11)** That stands for [[Search Engine Optimization (SEO)|search engine optimization]].
 >
 > **[0:14](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=14)** And it means we're going to get our site ranked as highly as possible in search engines.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:33](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=33)** In this course, I'm going to show you two different plugins to optimize your site.
 >
-> **[0:37](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=37)** And along the way, I'm going to point out some WordPress settings that'll help you out even more.
+> **[0:37](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=37)** And along the way, I'm going to point out some [[WordPress]] settings that'll help you out even more.
 >
 > **[0:42](https://www.linkedin.com/learning/wordpress-seo-14969622/reach-customers-with-seo?u=76281980&t=42)** By the end of this course, your site will be ready for search engines and you'll be ranked as highly as possible.
 >
@@ -117,17 +116,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** traffic (4), [[Search]] (2), seo (1), [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Search Engine Optimization (SEO)|Search engine optimization]] (1), [[WordPress]] (1)
 > **Env Vars:** seo (1)
 > **Definitions:** stands for (1)
 > **Speakers:** - [patrick] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/wordpress-seo-14969622/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you take this course it will be helpful to know how to use and install WordPress plugins.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/what-you-should-know?u=76281980&t=0)** - [Instructor] Before you take this course it will be helpful to know how to use and install [[WordPress]] plugins.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/what-you-should-know?u=76281980&t=5)** It'll be helpful to have a site so you can actually install plug-ins on that site as we're going.
 >
@@ -147,7 +145,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (4), [[WordPress]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (1)
 > **Env Vars:** seo (4)
 > **Prerequisites:** install (2)
 > **Speakers:** - [instructor] (1)
@@ -157,14 +155,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Fundamentals of SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980)
+#### [Fundamentals of SEO](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=0)** - [Instructor] A good place for us to start is by defining exactly what we mean by SEO.
 >
-> **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=5)** SEO stands for Search Engine Optimization.
+> **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=5)** SEO stands for [[Search Engine Optimization (SEO)|Search Engine Optimization]].
 >
 > **[0:08](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=8)** And the goal with SEO is to leverage both the technical aspects of your site as well as the content on your site to rank higher in search engines.
 >
@@ -174,7 +171,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=22)** So let's use the search term cake delivery.
 >
-> **[0:26](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=26)** Google will always fill the results page with what it thinks is most relevant.
+> **[0:26](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=26)** [[Google]] will always fill the results page with what it thinks is most relevant.
 >
 > **[0:30](https://www.linkedin.com/learning/wordpress-seo-14969622/fundamentals-of-seo?u=76281980&t=30)** So up here at the top, we have some sponsored ads.
 >
@@ -244,7 +241,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (11), seo (8), traffic (3), [[Google]] (2), data (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Search Engine Optimization (SEO)|Search engine optimization]] (1)
 > **Env Vars:** seo (8)
 > **CLI Commands:** make (4)
 > **Definitions:** stands for (1)
@@ -252,8 +249,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Keyword strategies
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/keyword-strategies?u=76281980)
+#### [Keyword strategies](https://www.linkedin.com/learning/wordpress-seo-14969622/keyword-strategies?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -301,18 +297,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (2), product (1), seo (1), traffic (1)
 > **Env Vars:** seo (1)
 > **Definitions:** is called (1)
 > **Prerequisites:** before we start (1)
 > **Speakers:** - [instructor] (1)
 
-#### SEO factors outside of WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-outside-of-wordpress?u=76281980)
+#### [SEO factors outside of WordPress](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-outside-of-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-outside-of-wordpress?u=76281980&t=0)** - [Instructor] We're going to mostly focus on the technical aspects of SEO within WordPress, but there are some technical factors outside of WordPress, and to really optimize your site, you're going to want to make sure that everything is accounted for.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-outside-of-wordpress?u=76281980&t=0)** - [Instructor] We're going to mostly focus on the technical aspects of SEO within [[WordPress]], but there are some technical factors outside of WordPress, and to really optimize your site, you're going to want to make sure that everything is accounted for.
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-outside-of-wordpress?u=76281980&t=13)** The first factor is security.
 >
@@ -380,7 +374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (3), seo (2), [[WordPress]] (2), [[Security]] (2), traffic (1)
+> **Frameworks & Libraries:** [[WordPress]] (2)
 > **Env Vars:** ssl (7), seo (2)
 > **CLI Commands:** make (4)
 > **Cross-References:** we mentioned (1)
@@ -388,12 +382,11 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### SEO factors inside WordPress
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980)
+#### [SEO factors inside WordPress](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=0)** - [Instructor] Before we start installing WordPress plugins, there's a couple things that we can change that will make a huge difference for our SEO.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=0)** - [Instructor] Before we start installing [[WordPress]] plugins, there's a couple things that we can change that will make a huge difference for our SEO.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=7)** If you notice, our URL is wordpressseo.local, which is a local development site, but then my specific About page is ?page_id=9.
 >
@@ -421,7 +414,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=87)** On this post for example, we have a category called Recipes and a tag called Recipe.
 >
-> **[1:32](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=92)** Google won't know which one to send people to.
+> **[1:32](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=92)** [[Google]] won't know which one to send people to.
 >
 > **[1:35](https://www.linkedin.com/learning/wordpress-seo-14969622/seo-factors-inside-wordpress?u=76281980&t=95)** So you'll get some users that land on the category Recipes page, and some users that land on the tag Recipe page.
 >
@@ -447,7 +440,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), seo (2), [[Search]] (2), [[Google]] (2)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[Google]] (2)
 > **Env Vars:** seo (2), url (2)
 > **UI Navigation:** go to (4)
 > **CLI Commands:** make (3)
@@ -456,16 +449,15 @@ created: 2026-05-02
 > **Code Identifiers:** page_id (1)
 > **Analogies:** for example (1)
 
-#### Speeding up your site
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980)
+#### [Speeding up your site](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=0)** - [Instructor] There's one very important factor outside of WordPress which deserves its own video.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=0)** - [Instructor] There's one very important factor outside of [[WordPress]] which deserves its own video.
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=5)** And that is site speed.
 >
-> **[0:07](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=7)** Search engines might penalize you based on your website's speed because they know that it's a poor user experience.
+> **[0:07](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=7)** Search engines might penalize you based on your website's speed because they know that it's a poor [[User Experience (UX)|user experience]].
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=13)** The slower your website, the more people will become frustrated and leave.
 >
@@ -487,7 +479,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=74)** The other large factor for site speed are your images.
 >
-> **[1:18](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=78)** According to Google, over 60% of a typical webpage size is from images.
+> **[1:18](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=78)** According to [[Google]], over 60% of a typical webpage size is from images.
 >
 > **[1:24](https://www.linkedin.com/learning/wordpress-seo-14969622/speeding-up-your-site?u=76281980&t=84)** And one of the best ways to prevent your site from getting slow in the first place is by installing a plugin that optimizes images immediately upon upload.
 >
@@ -499,15 +491,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[WordPress]] (3), [[Search]] (2), [[User Experience (UX)|User experience]] (1), traffic (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (3), [[User Experience (UX)|User experience]] (1), [[Google]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** seo (1)
 > **Definitions:** is a  (1)
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Build for the mobile index
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980)
+#### [Build for the mobile index](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -521,7 +512,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=16)** While you're building your site, you should think about mobile and you should also think about mobile when you're trying to improve your SEO.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=23)** And here's why, Google has a mobile-first index and that's actually how Google Bot crawls your site.
+> **[0:23](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=23)** And here's why, [[Google]] has a mobile-first index and that's actually how Google Bot crawls your site.
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=29)** It simulates a mobile phone while consuming your content.
 >
@@ -529,7 +520,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=36)** The biggest rule is to have the same content for both your site on mobile and desktop.
 >
-> **[0:41](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=41)** This is usually pretty easy with WordPress, just have one website with a responsive theme that can be used for both mobile and desktop.
+> **[0:41](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=41)** This is usually pretty easy with [[WordPress]], just have one website with a responsive theme that can be used for both mobile and desktop.
 >
 > **[0:48](https://www.linkedin.com/learning/wordpress-seo-14969622/build-for-the-mobile-index?u=76281980&t=48)** My top recommendation is to make sure that you create a free Google Search Console account.
 >
@@ -543,7 +534,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), seo (2), [[Search]] (2), traffic (1), web (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[WordPress]] (1)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (2)
 > **Speakers:** - [instructor] (1)
@@ -553,8 +544,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and activate All in One SEO Pack
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980)
+#### [Install and activate All in One SEO Pack](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -574,7 +564,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980&t=36)** The plug-in lets you create XML site maps, which you can use to automatically notify search engines when you add new content to your site.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980&t=43)** You can customize how your posts will be previewed when shared on social media and the free plug-in includes some functionality to add e-commerce microdata, which can be displayed on search engine results pages or SERPs, as they're commonly known.
+> **[0:43](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980&t=43)** You can customize how your posts will be previewed when shared on social media and the free plug-in includes some functionality to add [[E-Commerce]] microdata, which can be displayed on search engine results pages or SERPs, as they're commonly known.
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-all-in-one-seo-pack?u=76281980&t=56)** If you've never tried to optimize your site, this is a great plug-in to start with.
 >
@@ -590,15 +580,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (7), [[Search]] (2), next (1), feature (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[E-Commerce]] (1)
 > **Env Vars:** seo (7), xml (1)
 > **Prerequisites:** install (2), set up (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Complete Welcome Wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980)
+#### [Complete Welcome Wizard](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -610,13 +599,13 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=12)** This information helps search engines know what information is really important.
 >
-> **[0:17](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=17)** We're going to select Small Offline Business, so Google knows our location is really important, but if you can order your products or services online, then I'd probably select Online Store.
+> **[0:17](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=17)** We're going to select Small Offline Business, so [[Google]] knows our location is really important, but if you can order your [[Microsoft Products|products]] or services online, then I'd probably select Online Store.
 >
-> **[0:28](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=28)** The rest of these are pretty self-explanatory.
+> **[0:28](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=28)** The [[Representational State Transfer (REST)|rest]] of these are pretty self-explanatory.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=32)** Next, we can select our homepage title, and you'll see this is made out of placeholders or variables.
 >
-> **[0:38](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=38)** The default is the site title for your WordPress site with a separator and then your tagline.
+> **[0:38](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=38)** The default is the site title for your [[WordPress]] site with a separator and then your tagline.
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=44)** I have some default content here.
 >
@@ -680,7 +669,7 @@ created: 2026-05-02
 >
 > **[2:50](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=170)** Let's click Save and Continue.
 >
-> **[2:52](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=172)** If you want, you can enter your email address for email tips, and you can choose if you want to opt in to data tracking.
+> **[2:52](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=172)** If you want, you can enter your email address for email tips, and you can choose if you want to opt in to [[Data Tracking]].
 >
 > **[3:00](https://www.linkedin.com/learning/wordpress-seo-14969622/complete-welcome-wizard?u=76281980&t=180)** Since this is a test website, I'll opt out.
 >
@@ -694,7 +683,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), data (3), business (2), [[Google]] (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Products|Products]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[WordPress]] (1), [[Data Tracking]] (1)
 > **Prerequisites:** install (2), setup (1), set up (1)
 > **UI Navigation:** go to (1), scroll down (1)
 > **Definitions:** is a  (2)
@@ -703,8 +692,7 @@ created: 2026-05-02
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add SEO info for posts and pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980)
+#### [Add SEO info for posts and pages](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -724,7 +712,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=25)** If we look at this post about Pumpkin Pie, you can see the post title on the tab in your browser.
 >
-> **[0:31](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=31)** That comes from the title tag in the HTML.
+> **[0:31](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=31)** That comes from the title tag in the [[HTML]].
 >
 > **[0:34](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=34)** That's what search engines use when they display your page on search engine results pages.
 >
@@ -740,7 +728,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=66)** The most useful and prominent feature is the Snippet Preview.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=70)** This shows us what Google should display in the search engine results pages.
+> **[1:10](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=70)** This shows us what [[Google]] should display in the search engine results pages.
 >
 > **[1:15](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-for-posts-and-pages?u=76281980&t=75)** Notice the page title right now here uses the post title, and the description of the page uses the excerpt, if you have that set.
 >
@@ -818,15 +806,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (8), [[Search]] (8), [[HTML]] (2), feature (1), [[Google]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[Google]] (1)
 > **Env Vars:** seo (8), html (2), serp (1)
 > **CLI Commands:** make (3), find (1)
 > **UI Navigation:** go to (2), click on (1), scroll down (1)
 > **Cross-References:** go back to (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add focus key phrase
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-focus-key-phrase?u=76281980)
+#### [Add focus key phrase](https://www.linkedin.com/learning/wordpress-seo-14969622/add-focus-key-phrase?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -876,14 +863,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (3), [[Search]] (2)
 > **Env Vars:** seo (3), serp (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** later in (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add XML sitemaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980)
+#### [Add XML sitemaps](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -893,7 +878,7 @@ created: 2026-05-02
 >
 > **[0:10](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=10)** The only downside is that this banner is at the top of my admin and I can't dismiss it.
 >
-> **[0:15](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=15)** So for the sake of making the rest of this course easier to follow, I'm going to turn off that plugin.
+> **[0:15](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=15)** So for the sake of making the [[Representational State Transfer (REST)|rest]] of this course easier to follow, I'm going to turn off that plugin.
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=20)** You can do the same thing, or you can configure that plugin so the banner goes away.
 >
@@ -913,7 +898,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=55)** Let's go to our posts.
 >
-> **[0:57](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=57)** And you can see a list of our posts, as well as some extra metadata.
+> **[0:57](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=57)** And you can see a list of our posts, as well as some extra [[Metadata]].
 >
 > **[1:02](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=62)** XML sitemaps give search engines a list of every single webpage on our site.
 >
@@ -933,7 +918,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=97)** But for most sites you want all of this to show up in search engines.
 >
-> **[1:41](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=101)** For one of my business sites, support forum threads are a post type, but we don't want Google indexing that because it's a private forum.
+> **[1:41](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=101)** For one of my business sites, support forum threads are a post type, but we don't want [[Google]] indexing that because it's a private forum.
 >
 > **[1:49](https://www.linkedin.com/learning/wordpress-seo-14969622/add-xml-sitemaps?u=76281980&t=109)** If you have a situation like this, you can disable specific post types right here.
 >
@@ -963,7 +948,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (10), [[Google]] (5), seo (4), [[Analytics]] (1), [[Representational State Transfer (REST)|Rest]] (1)
+> **Frameworks & Libraries:** [[Google]] (5), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1)
 > **Env Vars:** seo (4), xml (4), url (2)
 > **CLI Commands:** find (3)
 > **UI Navigation:** go to (3)
@@ -972,8 +957,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (1)
 > **Definitions:** is a  (1)
 
-#### Add social meta
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980)
+#### [Add social meta](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -989,7 +973,7 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=29)** And that's good for now.
 >
-> **[0:30](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=30)** We can always add the rest later.
+> **[0:30](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=30)** We can always add the [[Representational State Transfer (REST)|rest]] later.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-meta?u=76281980&t=32)** Let's click save changes.
 >
@@ -1047,15 +1031,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (3), [[Representational State Transfer (REST)|Rest]] (2), next (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (2)
 > **Env Vars:** seo (3), url (1)
 > **UI Navigation:** go to (2), select the (1)
 > **Prerequisites:** configure (2)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pro features
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980)
+#### [Pro features](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1065,7 +1048,7 @@ created: 2026-05-02
 >
 > **[0:13](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980&t=13)** If you like this plugin, getting the pro version has a few advanced features.
 >
-> **[0:18](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980&t=18)** Probably the most useful would be WooCommerce SEO if you have a WooCommerce store and a local SEO if you have a brick and mortar location, because they will help you get more traffic and sell more product, but before you make any purchases, I recommend you go through the Yoast SEO chapter for another approach to SEO and WordPress.
+> **[0:18](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980&t=18)** Probably the most useful would be [[WooCommerce]] SEO if you have a WooCommerce store and a local SEO if you have a brick and mortar location, because they will help you get more traffic and sell more product, but before you make any purchases, I recommend you go through the Yoast SEO chapter for another approach to SEO and [[WordPress]].
 >
 > **[0:39](https://www.linkedin.com/learning/wordpress-seo-14969622/pro-features?u=76281980&t=39)** Yoast has a lot more options.
 >
@@ -1079,7 +1062,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (6), [[WooCommerce]] (2), traffic (1), product (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (2), [[WordPress]] (1)
 > **Env Vars:** seo (6)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
@@ -1089,12 +1072,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Install and activate Yoast SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980)
+#### [Install and activate Yoast SEO](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=0)** - [Instructor] Yoast SEO is in the top 10 active plugins on [wordpress.org](https://wordpress.org).
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=0)** - [Instructor] Yoast SEO is in the top 10 active plugins on [[[WordPress]].org](https://wordpress.org).
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=4)** Right now it's the second-most downloaded plugin used on more than 5 million sites.
 >
@@ -1104,7 +1086,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=20)** They're also experts in SEO.
 >
-> **[0:23](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=23)** They have an amazing blog that covers every aspect of SEO and a ton of related topics like user experience, analytics, content creation, and more.
+> **[0:23](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=23)** They have an amazing blog that covers every aspect of SEO and a ton of related topics like [[User Experience (UX)|user experience]], analytics, [[Content Creation]], and more.
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-seo-14969622/install-and-activate-yoast-seo?u=76281980&t=32)** They offer classes, certifications and their newsletter is also really useful.
 >
@@ -1134,7 +1116,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (10), [[WordPress]] (2), [[User Experience (UX)|User experience]] (1), [[Analytics]] (1), [[Content Creation]] (1)
+> **Frameworks & Libraries:** [[WordPress]] (2), [[User Experience (UX)|User experience]] (1), [[Content Creation]] (1)
 > **Env Vars:** seo (10)
 > **UI Navigation:** go to (2)
 > **Prerequisites:** install (2)
@@ -1143,8 +1125,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** note that (1)
 
-#### Import SEO content
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980)
+#### [Import SEO content](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1166,7 +1147,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=49)** If you're working on a real site you definitely want to create a backup of your site before you import any data.
 >
-> **[0:55](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=55)** We have WordPress backing up your site in the library if you need some advice on how to do that.
+> **[0:55](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=55)** We have [[WordPress]] backing up your site in the library if you need some advice on how to do that.
 >
 > **[1:01](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=61)** Step two is to select our plugin.
 >
@@ -1176,7 +1157,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=70)** Make sure that your plugin is activated if you don't see it here.
 >
-> **[1:13](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=73)** For this plugin, Yoast lets me import general site settings called Default settings, and settings on each post called Post metadata.
+> **[1:13](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=73)** For this plugin, Yoast lets me import general site settings called Default settings, and settings on each post called Post [[Metadata]].
 >
 > **[1:22](https://www.linkedin.com/learning/wordpress-seo-14969622/import-seo-content?u=76281980&t=82)** Let's click Import.
 >
@@ -1228,15 +1209,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (13), data (7), [[Metadata]] (2), feature (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Metadata]] (2), [[WordPress]] (1)
 > **Env Vars:** seo (13)
 > **UI Navigation:** go to (3), click on (2), in the menu (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** previous video (1), go back to (1)
 > **Speakers:** - [narrator] (1)
 
-#### Configuration workout and initial setup
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980)
+#### [Configuration workout and initial setup](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1260,7 +1240,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=44)** The first step is to optimize the SEO data.
 >
-> **[0:47](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=47)** Yoast will look over our site, as the Google search bot does, they'll fix anything they can, automatically.
+> **[0:47](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=47)** Yoast will look over our site, as the [[Google]] search bot does, they'll fix anything they can, automatically.
 >
 > **[0:53](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=53)** You do have to have a live site to do this, you can't do this on a website that you're developing locally, on your own machine.
 >
@@ -1270,7 +1250,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=66)** So with those guidelines, let's start.
 >
-> **[1:08](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=68)** We can configure the rest of the information while your SEO data is being optimized, or you can click Continue if you want to skip this part.
+> **[1:08](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=68)** We can configure the [[Representational State Transfer (REST)|rest]] of the information while your SEO data is being optimized, or you can click Continue if you want to skip this part.
 >
 > **[1:16](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=76)** The next section tells Google if you're a company or a person.
 >
@@ -1292,7 +1272,7 @@ created: 2026-05-02
 >
 > **[2:14](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=134)** So let's add those.
 >
-> **[2:18](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=138)** This adds metadata for our social media accounts.
+> **[2:18](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=138)** This adds [[Metadata]] for our social media accounts.
 >
 > **[2:21](https://www.linkedin.com/learning/wordpress-seo-14969622/configuration-workout-and-initial-setup?u=76281980&t=141)** They may appear in a Google Knowledge panel, which is what we saw a minute ago when searching for a person or an organization.
 >
@@ -1314,7 +1294,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (7), seo (6), data (4), [[Search]] (4), next (3)
+> **Frameworks & Libraries:** [[Google]] (7), [[Representational State Transfer (REST)|Rest]] (1), [[Metadata]] (1)
 > **Env Vars:** seo (6)
 > **CLI Commands:** make (4)
 > **UI Navigation:** click on (2), go to (1), in the menu (1)
@@ -1323,8 +1303,7 @@ created: 2026-05-02
 > **Warnings:** caveat (1)
 > **Speakers:** - [instructor] (1)
 
-#### Add SEO info to posts and pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980)
+#### [Add SEO info to posts and pages](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1394,9 +1373,9 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=217)** The same goes for the title.
 >
-> **[3:39](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=219)** You may notice in the preview that with our long SEO title, that only Topsy shows up in Google.
+> **[3:39](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=219)** You may notice in the preview that with our long SEO title, that only Topsy shows up in [[Google]].
 >
-> **[3:44](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=224)** The rest of our brand name is cut off, so let's remove that by removing that variable site title from the SEO title field, and we can also get rid of the separator.
+> **[3:44](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=224)** The [[Representational State Transfer (REST)|rest]] of our brand name is cut off, so let's remove that by removing that variable site title from the SEO title field, and we can also get rid of the separator.
 >
 > **[3:55](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=235)** That wraps up the preview.
 >
@@ -1416,7 +1395,7 @@ created: 2026-05-02
 >
 > **[4:22](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=262)** But let's go with an obvious keyword like cake decorating tools.
 >
-> **[4:26](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=266)** And this is a good time to point out that keywords don't have to be just one word.
+> **[4:26](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=266)** And this is a good time to point out that keywords don't have to be just one [[Microsoft Word|word]].
 >
 > **[4:30](https://www.linkedin.com/learning/wordpress-seo-14969622/add-seo-info-to-posts-and-pages?u=76281980&t=270)** In fact, they're usually a string of words, which is why good SEO tools like Yoast have changed that terminology to focus keyphrase.
 >
@@ -1468,7 +1447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (14), [[Search]] (3), feature (2), [[Google]] (2), next (2)
+> **Frameworks & Libraries:** [[Google]] (2), [[Microsoft Word|Word]] (2), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** seo (14), serp (2)
 > **UI Navigation:** go to (2), scroll down (2), click on (1)
 > **CLI Commands:** make (2), find (1)
@@ -1477,8 +1456,7 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Improve posts with the Yoast SEO optimizer
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980)
+#### [Improve posts with the Yoast SEO optimizer](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1486,7 +1464,7 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=4)** We put a key phrase into our Yoast plugin and we got a ton of multicolored bullet points back.
 >
-> **[0:10](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=10)** Right now, we only have a couple of green bullet points and the rest are orange or red.
+> **[0:10](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=10)** Right now, we only have a couple of green bullet points and the [[Representational State Transfer (REST)|rest]] are orange or red.
 >
 > **[0:15](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=15)** I could optimize this post but I'd rather show you a real live post that we created at my company to show you how to optimize real content.
 >
@@ -1508,7 +1486,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=68)** And you can make sure the whole title shows up.
 >
-> **[1:10](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=70)** On Google though, they'll just cut you off and we can see that in the preview above.
+> **[1:10](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=70)** On [[Google]] though, they'll just cut you off and we can see that in the preview above.
 >
 > **[1:15](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=75)** So it's worth tweaking our title.
 >
@@ -1544,7 +1522,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=143)** Right now, a robot has no idea what is in these images.
 >
-> **[2:26](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=146)** We can go to the front end, scroll down to one of the images, and if we look at the HTML by inspecting it, we can see there is no alt tag.
+> **[2:26](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=146)** We can go to the front end, scroll down to one of the images, and if we look at the [[HTML]] by inspecting it, we can see there is no alt tag.
 >
 > **[2:35](https://www.linkedin.com/learning/wordpress-seo-14969622/improve-posts-with-the-yoast-seo-optimizer?u=76281980&t=155)** That means the robots have no idea what this is.
 >
@@ -1654,7 +1632,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), seo (6), [[Representational State Transfer (REST)|Rest]] (2), next (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[Google]] (6), [[Representational State Transfer (REST)|Rest]] (2), [[HTML]] (1)
 > **UI Navigation:** scroll down (3), go to (2), scroll up (2), click on (2), in the sidebar (1)
 > **Env Vars:** seo (6), serp (1), html (1), url (1)
 > **CLI Commands:** make (5)
@@ -1662,8 +1640,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1), known as (1)
 > **Speakers:** - [narrator] (1)
 
-#### Add social info to posts and pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980)
+#### [Add social info to posts and pages](https://www.linkedin.com/learning/wordpress-seo-14969622/add-social-info-to-posts-and-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1703,7 +1680,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (3), feature (1), [[Search]] (1)
 > **UI Navigation:** click on (3), in the sidebar (1)
 > **Env Vars:** seo (3)
 > **CLI Commands:** make (1), find (1)
@@ -1717,8 +1693,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Bulk edit posts and pages
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980)
+#### [Bulk edit posts and pages](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1786,7 +1761,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=154)** If you have a ton of titles to write, I'd start by filtering by post type.
 >
-> **[2:38](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=158)** Maybe all of your products first, then your blog posts, and then your pages.
+> **[2:38](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=158)** Maybe all of your [[Microsoft Products|products]] first, then your blog posts, and then your pages.
 >
 > **[2:42](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=162)** It'll make this process a little more manageable.
 >
@@ -1798,11 +1773,11 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=179)** The search, not on the blog post itself.
 >
-> **[3:02](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=182)** If you want to edit blog post titles, you can edit each one individually or you can export your WordPress content, edit in a spreadsheet, and reimport it.
+> **[3:02](https://www.linkedin.com/learning/wordpress-seo-14969622/bulk-edit-posts-and-pages?u=76281980&t=182)** If you want to edit blog post titles, you can edit each one individually or you can export your [[WordPress]] content, edit in a spreadsheet, and reimport it.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), seo (4), [[Microsoft Products|Products]] (1), [[WordPress]] (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1), [[WordPress]] (1)
 > **CLI Commands:** make (5)
 > **Env Vars:** seo (4)
 > **Cross-References:** go back to (1)
@@ -1811,8 +1786,7 @@ created: 2026-05-02
 > **Best Practices:** remember to (1)
 > **Warnings:** keep in mind (1)
 
-#### Configure search appearance
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/configure-search-appearance?u=76281980)
+#### [Configure search appearance](https://www.linkedin.com/learning/wordpress-seo-14969622/configure-search-appearance?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1868,15 +1842,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (6), seo (6), next (1)
 > **Env Vars:** seo (6), serp (1)
 > **CLI Commands:** make (2)
 > **Cross-References:** we talked about (1)
 > **UI Navigation:** go to (1)
 > **Speakers:** - [instructor] (1)
 
-#### ConfigureXML sitemaps
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980)
+#### [ConfigureXML sitemaps](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1908,7 +1880,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980&t=77)** We can add the sitemap to search engines.
 >
-> **[1:19](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980&t=79)** Yoast has instructions for all sorts of search engines, but we're going to focus on Google because it's the biggest.
+> **[1:19](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980&t=79)** Yoast has instructions for all sorts of search engines, but we're going to focus on [[Google]] because it's the biggest.
 >
 > **[1:27](https://www.linkedin.com/learning/wordpress-seo-14969622/configurexml-sitemaps?u=76281980&t=87)** If you haven't already, sign into Google Search Console, and add your website to it.
 >
@@ -1944,7 +1916,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (7), [[Google]] (7), seo (3), game (1), next (1)
+> **Frameworks & Libraries:** [[Google]] (7)
 > **Env Vars:** xml (7), seo (3)
 > **CLI Commands:** find (4), make (4)
 > **UI Navigation:** go to (1), scroll down (1), in the sidebar (1)
@@ -1953,12 +1925,11 @@ created: 2026-05-02
 > **Code Identifiers:** sitemap_index (1)
 > **Speakers:** - [instructor] (1)
 
-#### Verify Google Search Console
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/verify-google-search-console?u=76281980)
+#### [Verify Google Search Console](https://www.linkedin.com/learning/wordpress-seo-14969622/verify-google-search-console?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/verify-google-search-console?u=76281980&t=0)** - [Instructor] Earlier in this course, we connected our site to Google search console, but we didn't connect to any other similar tools.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/verify-google-search-console?u=76281980&t=0)** - [Instructor] Earlier in this course, we connected our site to [[Google]] search console, but we didn't connect to any other similar tools.
 >
 > **[0:07](https://www.linkedin.com/learning/wordpress-seo-14969622/verify-google-search-console?u=76281980&t=7)** We can do that under Yoast SEO general, and then webmaster tools.
 >
@@ -1978,18 +1949,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Google]] (3), feature (2), seo (1), api (1)
+> **Frameworks & Libraries:** [[Google]] (3)
 > **Env Vars:** seo (1), api (1)
 > **Cross-References:** earlier in (1)
 > **UI Navigation:** click on (1)
 > **Speakers:** - [instructor] (1)
 
-#### Redirect URLs automatically
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980)
+#### [Redirect URLs automatically](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=0)** - [Instructor] I've mentioned Google Search Console a few times, and it's there to let you know when there's an error crawling your site.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=0)** - [Instructor] I've mentioned [[Google]] Search Console a few times, and it's there to let you know when there's an error crawling your site.
 >
 > **[0:06](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=6)** And let me show you what this looks like on a site that I manage every day.
 >
@@ -2009,7 +1979,7 @@ created: 2026-05-02
 >
 > **[0:41](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=41)** Let's delete and redirect the page.
 >
-> **[0:43](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=43)** If you're using the free version, you can delete the page, and WordPress will serve a proper 404 notice.
+> **[0:43](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=43)** If you're using the free version, you can delete the page, and [[WordPress]] will serve a proper 404 notice.
 >
 > **[0:49](https://www.linkedin.com/learning/wordpress-seo-14969622/redirect-urls-automatically?u=76281980&t=49)** This is actually an improvement for Google Search Console since now it knows this page is deleted.
 >
@@ -2047,7 +2017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Google]] (6), [[Search]] (4), [[WordPress]] (2), seo (1), prompt (1)
+> **Frameworks & Libraries:** [[Google]] (6), [[WordPress]] (2)
 > **Env Vars:** url (5), seo (1), validate (1), fix (1)
 > **Cross-References:** go back to (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -2055,12 +2025,11 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Yoast Premium plugins
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980)
+#### [Yoast Premium plugins](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=0)** - [Narrator] The vast majority of your SEO needs can be handled by the free plugin on [wordpress.org](https://wordpress.org).
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=0)** - [Narrator] The vast majority of your SEO needs can be handled by the free plugin on [[[WordPress]].org](https://wordpress.org).
 >
 > **[0:05](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=5)** But there are a few really useful features that are available in the premium plugins.
 >
@@ -2074,13 +2043,13 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=32)** And there are a few other features in there.
 >
-> **[0:35](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=35)** There's also the Yoast WooCommerce plugin.
+> **[0:35](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=35)** There's also the Yoast [[WooCommerce]] plugin.
 >
 > **[0:37](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=37)** This helps if you're using WooCommerce on your site.
 >
 > **[0:40](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=40)** you can enable Rich Pins and Pinterest.
 >
-> **[0:42](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=42)** So anytime someone pins something from your website it'll include metadata, like the price, if it's in stock, and of course, a link back to the product page.
+> **[0:42](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=42)** So anytime someone pins something from your website it'll include [[Metadata]], like the price, if it's in stock, and of course, a link back to the product page.
 >
 > **[0:50](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=50)** Features like this will make better pins on Pinterest which should get you more traffic.
 >
@@ -2090,7 +2059,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=65)** There's also the Local SEO plugin.
 >
-> **[1:07](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=67)** If you have a physical location this will help mapping websites like Google maps understand exactly where you are.
+> **[1:07](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=67)** If you have a physical location this will help mapping websites like [[Google]] maps understand exactly where you are.
 >
 > **[1:13](https://www.linkedin.com/learning/wordpress-seo-14969622/yoast-premium-plugins?u=76281980&t=73)** If you have a physical location, this one can be pretty useful.
 >
@@ -2104,15 +2073,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (4), [[WooCommerce]] (3), [[WordPress]] (2), feature (2), [[Metadata]] (1)
+> **Frameworks & Libraries:** [[WooCommerce]] (3), [[WordPress]] (2), [[Metadata]] (1), [[Google]] (1)
 > **Env Vars:** seo (4)
 > **CLI Commands:** make (1)
 > **URLs:** [wordpress.org](https://wordpress.org) (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Build a reusable import file
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980)
+#### [Build a reusable import file](https://www.linkedin.com/learning/wordpress-seo-14969622/build-a-reusable-import-file?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2158,7 +2126,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (2), feature (1), next (1)
 > **Env Vars:** seo (2), url (1)
 > **Prerequisites:** install (1), setup (1), set up (1)
 > **UI Navigation:** go to (1), click on (1)
@@ -2171,12 +2138,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Optimize your posts
-> [LinkedIn Learning](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980)
+#### [Optimize your posts](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=0)** - [Educator] We configured two different SEO plugins for your WordPress website.
+> **[0:00](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=0)** - [Educator] We configured two different SEO plugins for your [[WordPress]] website.
 >
 > **[0:04](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=4)** And we optimized a few posts together to show you how to use this plugin with your content.
 >
@@ -2200,13 +2166,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=56)** I also recommended some courses about writing headlines and content.
 >
-> **[0:59](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=59)** I'm always writing about SEO, analytics, and e-commerce on my site. I hope you enjoyed this course.
+> **[0:59](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=59)** I'm always writing about SEO, analytics, and [[E-Commerce]] on my site. I hope you enjoyed this course.
 >
 > **[1:05](https://www.linkedin.com/learning/wordpress-seo-14969622/optimize-your-posts?u=76281980&t=65)** In the meantime, feel free to reach out.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** seo (5), [[WordPress]] (1), game (1), traffic (1), hit (1)
+> **Frameworks & Libraries:** [[WordPress]] (1), [[E-Commerce]] (1)
 > **Env Vars:** seo (5)
 > **Best Practices:** the key is (1), recommended (1)
 > **Speakers:** - [educator] (1)

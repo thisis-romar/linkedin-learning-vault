@@ -94,14 +94,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### PowerShell for Microsoft 365
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980)
+#### [PowerShell for Microsoft 365](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=0)** - [Liam] Hi, I'm Liam and I'd like to welcome you to the course.
 >
-> **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=4)** This course is going to take you on a journey to understand firstly the core PowerShell modules and commands available within Microsoft 365, secondly, how to connect to each service, third, the available commands, and then lastly, how to manage parts of each service, including creation of policies and configuration.
+> **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=4)** This course is going to take you on a journey to understand firstly the core [[Powershell]] modules and commands available within [[Microsoft 365]], secondly, how to connect to each service, third, the available commands, and then lastly, how to manage parts of each service, including creation of policies and configuration.
 >
 > **[0:28](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=28)** We will walk through the out-of-the box capabilities.
 >
@@ -109,7 +108,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=36)** By the end of this course, you will have a greater understanding of how to manage your Microsoft 365 tenant using PowerShell.
 >
-> **[0:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=44)** So join me for the rest of this course to understand how to manage Microsoft 365 using PowerShell.
+> **[0:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/powershell-for-microsoft-365?u=76281980&t=44)** So join me for the [[Representational State Transfer (REST)|rest]] of this course to understand how to manage Microsoft 365 using PowerShell.
 
 > [!info]- Semantic Content
 >
@@ -117,12 +116,11 @@ created: 2026-05-02
 > **Tools:** powershell (3)
 > **Speakers:** - [liam] (1)
 
-#### What you should know
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/what-you-should-know?u=76281980)
+#### [What you should know](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/what-you-should-know?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/what-you-should-know?u=76281980&t=0)** - [Instructor] Using PowerShell to manage Microsoft 365 is an area that all organizations often struggle with.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/what-you-should-know?u=76281980&t=0)** - [Instructor] Using [[Powershell]] to manage [[Microsoft 365]] is an area that all organizations often struggle with.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/what-you-should-know?u=76281980&t=7)** Knowing the modules to utilize, which commands to use, and then how to cross services are critical to effective management.
 >
@@ -136,7 +134,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft 365]] (4), management (1), [[Scripting]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft 365]] (4)
 > **Tools:** powershell (4)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
@@ -146,12 +144,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Why use PowerShell to manage Microsoft 365?
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980)
+#### [Why use PowerShell to manage Microsoft 365?](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=0)** - [Instructor] So why use PowerShell to manage Microsoft 365?
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=0)** - [Instructor] So why use [[Powershell]] to manage [[Microsoft 365]]?
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=4)** Well, PowerShell for Microsoft 365 is a powerful management tool that compliments the admin center.
 >
@@ -171,7 +168,7 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=55)** And then, really, we can manage and configure multiple services in one single interface.
 >
-> **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=62)** For example, right now, to manage Exchange Online, we have to go to the Exchange admin center, to manage Microsoft Teams, we go to Microsoft Teams, to manage SharePoint, we go to the SharePoint admin center, whereas in PowerShell, we can use a single session, connect to everything and then manage everything that we need to.
+> **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=62)** For example, right now, to manage Exchange Online, we have to go to the Exchange admin center, to manage [[Microsoft Teams]], we go to Microsoft Teams, to manage [[SharePoint]], we go to the SharePoint admin center, whereas in PowerShell, we can use a single session, connect to everything and then manage everything that we need to.
 >
 > **[1:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=81)** So let's talk about the first one, which is retrieving information.
 >
@@ -185,7 +182,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=122)** Our next one is the PowerShell-only features.
 >
-> **[2:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=126)** The Microsoft 365 admin center provides access to everyday, practical administrative tasks that apply to most Office 365 tenants and environments.
+> **[2:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=126)** The Microsoft 365 admin center provides access to everyday, practical administrative tasks that apply to most [[Microsoft Office|Office]] 365 tenants and environments.
 >
 > **[2:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=137)** The admin center's purpose is so that you, as the administrator, can carry out the most common management tasks.
 >
@@ -229,13 +226,13 @@ created: 2026-05-02
 >
 > **[4:46](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=286)** Every day admin tasks often cross those services.
 >
-> **[4:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=291)** For example, if you wanted to modify user properties, including mailbox specifics, then you're managing a user account in Azure Active Directory and then the mailbox that's associated to it.
+> **[4:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=291)** For example, if you wanted to modify user properties, including mailbox specifics, then you're managing a user account in [[Microsoft Entra ID|Azure Active Directory]] and then the mailbox that's associated to it.
 >
 > **[5:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/why-use-powershell-to-manage-microsoft-365?u=76281980&t=303)** PowerShell can provide access to service specific information, which can then combine with other values, so instead of having to access multiple admin centers, you're able to access a single interface or session, which is connected to all of the services.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (14), [[Microsoft 365]] (10), data (4), [[SharePoint]] (3), next (3)
+> **Frameworks & Libraries:** [[Powershell]] (14), [[Microsoft 365]] (10), [[SharePoint]] (3), [[Microsoft Teams]] (2), [[Microsoft Office|Office]] (1)
 > **Tools:** powershell (14)
 > **Analogies:** for example (5), such as (1)
 > **UI Navigation:** go to (3)
@@ -244,14 +241,13 @@ created: 2026-05-02
 > **Prerequisites:** configure (1)
 > **Speakers:** - [instructor] (1)
 
-#### Overview of PowerShell syntax
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980)
+#### [Overview of PowerShell syntax](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=0)** - [Narrator] So let's review PowerShell Syntax.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=0)** - [Narrator] So let's review [[Powershell]] Syntax.
 >
-> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=3)** There were three steps to the PowerShell process within Microsoft 365.
+> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=3)** There were three steps to the PowerShell process within [[Microsoft 365]].
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=7)** The first is to download the required PowerShell modules locally, making them available for connecting to the cloud.
 >
@@ -281,7 +277,7 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=100)** In order to use any of the Microsoft 365 modules, you first need to install and then import them into the current PowerShell.
 >
-> **[1:49](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=109)** In the example here, we are installing the module for Azure Active Directory, and then we are importing that module to make it available to us.
+> **[1:49](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=109)** In the example here, we are installing the module for [[Microsoft Entra ID|Azure Active Directory]], and then we are importing that module to make it available to us.
 >
 > **[1:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=118)** The second piece is to connect to the required cloud service using the supported approaches provided by the imported and installed module.
 >
@@ -291,11 +287,11 @@ created: 2026-05-02
 >
 > **[2:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=142)** PowerShell supports session connections, which stream the required PowerShell commands directly into the current PowerShell window or session.
 >
-> **[2:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=151)** Lastly, we can use the Microsoft Graph PowerShell commands which called the rest API commands to perform various tasks as needed.
+> **[2:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=151)** Lastly, we can use the [[Microsoft]] Graph PowerShell commands which called the [[Representational State Transfer (REST)|rest]] API commands to perform various tasks as needed.
 >
 > **[2:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=161)** In order for us to connect to Microsoft 365, we can utilize standard connectivity.
 >
-> **[2:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=167)** So connect dash Azure AD for connecting to Active Directory in the cloud, or connect dash exchange online.
+> **[2:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=167)** So connect dash [[Microsoft Entra ID|Azure AD]] for connecting to [[Active Directory]] in the cloud, or connect dash exchange online.
 >
 > **[2:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=174)** Each connection command has a different name.
 >
@@ -303,9 +299,9 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=182)** So for example, we can populate a credential variable with our username and password and then pass those values directly to the method that we wish to use.
 >
-> **[3:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=193)** So connecting to exchange or Microsoft teams or SharePoint Online.
+> **[3:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=193)** So connecting to exchange or [[Microsoft Teams]] or [[SharePoint]] Online.
 >
-> **[3:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=197)** We can also connect using the session option instead, this is an older version that doesn't support some of the multi-factor authentication, but from here we can pass credentials and then we can create what's called a New PowerShell Session, which then creates a basic auth connection to the cloud.
+> **[3:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=197)** We can also connect using the session option instead, this is an older version that doesn't support some of the [[Multi-factor Authentication]], but from here we can pass credentials and then we can create what's called a New PowerShell Session, which then creates a basic auth connection to the cloud.
 >
 > **[3:36](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/overview-of-powershell-syntax?u=76281980&t=216)** Once that's done, we then import the session that we've created directly into our existing PowerShell.
 >
@@ -387,7 +383,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (23), [[Microsoft 365]] (8), [[Microsoft Entra ID|Azure ad]] (8), cloud (5), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (23), [[Microsoft 365]] (8), [[Microsoft Entra ID|Azure ad]] (8), [[Microsoft]] (2), [[SharePoint]] (2)
 > **Tools:** powershell (23)
 > **Analogies:** for example (4), such as (2)
 > **Definitions:** is a  (4), is an  (1)
@@ -396,28 +392,27 @@ created: 2026-05-02
 > **CLI Commands:** make (1)
 > **UI Navigation:** select the (1)
 
-#### How to connect to Azure Active Directory
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980)
+#### [How to connect to Azure Active Directory](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=0)** - [Instructor] So how do we connect to Azure Active Directory?
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=0)** - [Instructor] So how do we connect to [[Microsoft Entra ID|Azure Active Directory]]?
 >
 > **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=3)** Well, first off, there are some core prerequisites.
 >
-> **[0:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=5)** The first is that we need to launch PowerShell on our machine as a local administrator.
+> **[0:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=5)** The first is that we need to launch [[Powershell]] on our machine as a local administrator.
 >
-> **[0:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=11)** We then need to install the Azure AD module, then import the module into our current session.
+> **[0:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=11)** We then need to install the [[Microsoft Entra ID|Azure AD]] module, then import the module into our current session.
 >
-> **[0:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=18)** And then most importantly, the account that we using needs to be a Microsoft 365 administrator account or set of credentials.
+> **[0:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=18)** And then most importantly, the account that we using needs to be a [[Microsoft 365]] administrator account or set of credentials.
 >
 > **[0:27](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=27)** There are two different modules that can be used to manage Azure AD for Microsoft 365.
 >
-> **[0:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=34)** The first is based in Windows PowerShell.
+> **[0:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=34)** The first is based in [[Windows]] PowerShell.
 >
 > **[0:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=37)** And this is version 1 of the module for Azure Active Directory.
 >
-> **[0:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=41)** It's also known as the MSOnline module or Microsoft Online module.
+> **[0:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=41)** It's also known as the MSOnline module or [[Microsoft]] Online module.
 >
 > **[0:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-azure-active-directory?u=76281980&t=47)** And the commandlets themselves are prefixed with Msol at the beginning of the name.
 >
@@ -478,26 +473,25 @@ created: 2026-05-02
 > **Definitions:** known as (1), means that (1), is called (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to connect SharePoint Online and OneDrive for Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980)
+#### [How to connect SharePoint Online and OneDrive for Business](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=0)** - [Instructor] So how do we connect to SharePoint Online and OneDrive for Business?
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=0)** - [Instructor] So how do we connect to [[SharePoint]] Online and [[Microsoft OneDrive|OneDrive]] for Business?
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=4)** Well, first off, same prerequisites.
 >
-> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=6)** We need to launch PowerShell as an administrator.
+> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=6)** We need to launch [[Powershell]] as an administrator.
 >
 > **[0:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=9)** We then install the SharePoint Online module, and then we import that module directly into the current session.
 >
-> **[0:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=17)** And then the account that we're using needs to be a Microsoft 365 administrator.
+> **[0:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=17)** And then the account that we're using needs to be a [[Microsoft 365]] administrator.
 >
 > **[0:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=22)** However, if we're just going to manage SharePoint, it could actually be just a SharePoint administrator.
 >
 > **[0:28](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=28)** The SharePoint Online PowerShell module provides the management for OneDrive for Business and SharePoint Online.
 >
-> **[0:36](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=36)** From an installation perspective, the installable version can be downloaded from the Microsoft link, or we can use the Install-Module option to actually install that module directly into the PowerShell session.
+> **[0:36](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=36)** From an installation perspective, the installable version can be downloaded from the [[Microsoft]] link, or we can use the Install-Module option to actually install that module directly into the PowerShell session.
 >
 > **[0:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=52)** So two different approaches, depending on what you support within your environment.
 >
@@ -505,7 +499,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=66)** We then import that module in and it will make all of the commandlets available.
 >
-> **[1:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=72)** Now to connect to SharePoint Online once we have it installed and imported, we use Connect-SPOService, Very similar to the other previous, So Connect Azure AD, Connect Teams, et cetera.
+> **[1:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=72)** Now to connect to SharePoint Online once we have it installed and imported, we use Connect-SPOService, Very similar to the other previous, So Connect [[Microsoft Entra ID|Azure AD]], Connect Teams, et cetera.
 >
 > **[1:25](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-sharepoint-online-and-onedrive-for-business?u=76281980&t=85)** And this time we pass the URL of the admin center that we wish to connect to.
 >
@@ -543,7 +537,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (7), business (5), [[Powershell]] (4), [[Microsoft]] (4)
+> **Frameworks & Libraries:** [[SharePoint]] (13), [[Microsoft OneDrive|Onedrive]] (7), [[Powershell]] (4), [[Microsoft]] (4), [[Microsoft Entra ID|Azure ad]] (2)
 > **Prerequisites:** install (6), you need to have (1)
 > **Tools:** powershell (4)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (2)
@@ -552,8 +546,7 @@ created: 2026-05-02
 > **Analogies:** similar to (1)
 > **Warnings:** be aware (1)
 
-#### How to connect to Exchange Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980)
+#### [How to connect to Exchange Online](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -561,11 +554,11 @@ created: 2026-05-02
 >
 > **[0:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=2)** Well, I have prerequisites here.
 >
-> **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=4)** We first launched PowerShell as an administrator, and then we install either the Exchange Online module, or we connect using the session-based approach.
+> **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=4)** We first launched [[Powershell]] as an administrator, and then we install either the Exchange Online module, or we connect using the session-based approach.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=13)** We can then import the module or the session stuff into the current PowerShell session.
 >
-> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=19)** And of course, our account must be a Microsoft 365 administrator of some description.
+> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=19)** And of course, our account must be a [[Microsoft 365]] administrator of some description.
 >
 > **[0:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=24)** It could be the global admin, or it could be an exchange administrator.
 >
@@ -583,7 +576,7 @@ created: 2026-05-02
 >
 > **[0:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=58)** Now, if we were connecting using a PowerShell session, we first got to initiate some credential object to grab the username password, and then we create a new PowerShell session.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=69)** You'll notice that the configuration name for this is Microsoft.exchange with a URI that points to Outlook and Office 365.
+> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=69)** You'll notice that the configuration name for this is [[Microsoft]].exchange with a URI that points to [[Microsoft Outlook|Outlook]] and [[Microsoft Office|Office]] 365.
 >
 > **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online-14407607?u=76281980&t=78)** Then we pass credentials, and then that session will be initiated.
 >
@@ -625,25 +618,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), management (2), [[Microsoft]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[Microsoft]] (2), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft Office|Office]] (1)
 > **Tools:** powershell (12)
 > **Prerequisites:** install (5)
 > **Env Vars:** uri (1), api (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to connect to Microsoft Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980)
+#### [How to connect to Microsoft Teams](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=0)** - [Instructor] So how do we connect to Microsoft Teams?
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=0)** - [Instructor] So how do we connect to [[Microsoft Teams]]?
 >
-> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=3)** Well, for our prerequisites, we launch PowerShell as an administrator again.
+> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=3)** Well, for our prerequisites, we launch [[Powershell]] as an administrator again.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=7)** This time we installed the Teams online module, and then we import that module into the current session.
 >
-> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=13)** And then of course our account must be a Microsoft 365 administrator, such as a global admin, or it could be a Teams administrator.
+> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=13)** And then of course our account must be a [[Microsoft 365]] administrator, such as a global admin, or it could be a Teams administrator.
 >
 > **[0:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=21)** Now the Microsoft Teams PowerShell module is a set of cmdlets for managing Teams directly from the PowerShell command line.
 >
@@ -651,7 +643,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=37)** It provides management for all aspects of the Teams administration, including users, teams, policies, and configuration.
 >
-> **[0:45](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=45)** And it also supports authentication mechanisms such as access tokens, as well as credentials.
+> **[0:45](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=45)** And it also supports authentication mechanisms such as access [[Tokens]], as well as credentials.
 >
 > **[0:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=52)** Now, to install the Microsoft Teams module, we first run Install-Module, and the name of it is called MicrosoftTeams.
 >
@@ -669,7 +661,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=101)** And you'll find this as available also in the other modules where you can specify the team's environment name, and if it's a GCC or a GCC high or a DOD, you can utilize the same modern authentication, but you're connecting to any one of those entry points.
 >
-> **[1:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=118)** We can also utilize the Microsoft Graph again.
+> **[1:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=118)** We can also utilize the [[Microsoft]] Graph again.
 >
 > **[2:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams?u=76281980&t=120)** So we install and import the module as before.
 >
@@ -683,7 +675,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (7), [[Powershell]] (6), teams (5), [[Microsoft 365]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (7), [[Powershell]] (6), [[Microsoft 365]] (2), [[Microsoft]] (2), [[Tokens]] (1)
 > **Tools:** powershell (6), command line (1)
 > **Prerequisites:** install (5)
 > **Env Vars:** gcc (2), dod (1), api (1)
@@ -692,18 +684,17 @@ created: 2026-05-02
 > **CLI Commands:** find (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to connect for security and compliance
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980)
+#### [How to connect for security and compliance](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=0)** - [Instructor] So how do we connect for managing security and compliance?
 >
-> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=3)** Well, our prerequisites: we launched PowerShell as an administrator as before, and then we install and import the Exchange Online module, or we create the session.
+> **[0:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=3)** Well, our prerequisites: we launched [[Powershell]] as an administrator as before, and then we install and import the Exchange Online module, or we create the session.
 >
-> **[0:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=14)** This means that security and compliance components are inside the Microsoft Exchange components.
+> **[0:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=14)** This means that security and compliance components are inside the [[Microsoft]] Exchange components.
 >
-> **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=20)** And the account we're using must be Microsoft 365 administrator or some credential that matches any one of the admin roles.
+> **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=20)** And the account we're using must be [[Microsoft 365]] administrator or some credential that matches any one of the admin roles.
 >
 > **[0:29](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=29)** There were three options for connecting to the security compliance features within Microsoft 365.
 >
@@ -721,7 +712,7 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=65)** And this utilizes the new PowerShell session object.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=69)** Now from an exchange version one module, there's no support for PowerShell Core, so as in cross-platform PowerShell: macOS, Linux, and Windows.
+> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=69)** Now from an exchange version one module, there's no support for PowerShell Core, so as in cross-platform PowerShell: macOS, [[Linux]], and [[Windows]].
 >
 > **[1:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=79)** It can be installed via the download from the Exchange admin center.
 >
@@ -737,7 +728,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=128)** We still create in the configuration in the PowerShell session called Microsoft.Exchange, but our URL is a little bit different.
 >
-> **[2:16](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=136)** We're now connecting to ps.compliance.protection.outlook.
+> **[2:16](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=136)** We're now connecting to ps.compliance.protection.[[Microsoft Outlook|outlook]].
 >
 > **[2:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-for-security-and-compliance?u=76281980&t=140)** So we connect into the compliance components.
 >
@@ -781,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (13), [[Security]] (10), [[Microsoft]] (3), [[Microsoft 365]] (2), cross-platform (2)
+> **Frameworks & Libraries:** [[Powershell]] (13), [[Microsoft]] (3), [[Microsoft 365]] (2), [[Linux]] (2), [[Windows]] (2)
 > **Tools:** powershell (13)
 > **Code Identifiers:** macos (2), ediscovery (1)
 > **Env Vars:** url (2), ipps (1)
@@ -790,16 +781,15 @@ created: 2026-05-02
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Connecting to Microsoft 365 services
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980)
+#### [Connecting to Microsoft 365 services](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=0)** - [Instructor] So, how do we connect to multiple Microsoft 365 services?
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=0)** - [Instructor] So, how do we connect to multiple [[Microsoft 365]] services?
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=4)** Well, normally, Microsoft 365 administration involves multiple services.
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=10)** You often start by managing a simple user account, but then you'll need to administer licensing, maybe SharePoint permissions, and then maybe Exchange permissions and mailboxes.
+> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=10)** You often start by managing a simple user account, but then you'll need to administer licensing, maybe [[SharePoint]] permissions, and then maybe Exchange permissions and mailboxes.
 >
 > **[0:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=21)** Now there is no single module that allows connection to all of the Microsoft 365 services.
 >
@@ -807,7 +797,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=34)** Now, there are three core steps for connecting to multiple services.
 >
-> **[0:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=37)** The first is to install and import the required PowerShell modules.
+> **[0:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=37)** The first is to install and import the required [[Powershell]] modules.
 >
 > **[0:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=42)** Next, we define any variables that are to be re-used through the process.
 >
@@ -815,7 +805,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=51)** So firstly, we need to import the modules.
 >
-> **[0:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=54)** So if I was trying to connect to multiple services, I would import the module for Azure AD, Microsoft Online, Microsoft Online SharePoint PowerShell, Exchange Online and Microsoft Teams.
+> **[0:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=54)** So if I was trying to connect to multiple services, I would import the module for [[Microsoft Entra ID|Azure AD]], [[Microsoft]] Online, Microsoft Online SharePoint PowerShell, Exchange Online and [[Microsoft Teams]].
 >
 > **[1:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=66)** They would be the core set that I would import.
 >
@@ -831,7 +821,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=109)** What I then want to do is start connecting to the various applications.
 >
-> **[1:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=113)** So firstly, I'm going to connect to Azure Active Directory.
+> **[1:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=113)** So firstly, I'm going to connect to [[Microsoft Entra ID|Azure Active Directory]].
 >
 > **[1:56](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connecting-to-microsoft-365-services?u=76281980&t=116)** I'm going to pass my credential object, so connect to Azure AD with the credential object.
 >
@@ -845,26 +835,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[SharePoint]] (3), [[Powershell]] (3), next (2), [[Microsoft Entra ID|Azure ad]] (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3), [[SharePoint]] (3), [[Powershell]] (3), [[Microsoft Entra ID|Azure ad]] (2), [[Microsoft]] (2)
 > **Tools:** powershell (3)
 > **Prerequisites:** install (2), you'll need (1)
 > **Definitions:** means that (1)
 > **Speakers:** - [instructor] (1)
 
-#### The Microsoft PnP PowerShell commands
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980)
+#### [The Microsoft PnP PowerShell commands](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=0)** - [Instructor] Now let's understand the Microsoft PnP PowerShell commands.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=0)** - [Instructor] Now let's understand the [[Microsoft]] PnP [[Powershell]] commands.
 >
 > **[0:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=4)** So the first question is, what is PnP PowerShell?
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=7)** Well, PnP or patterns and practices is a cross-platform PowerShell module.
 >
-> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=13)** It provides over 500 commandlets that can work within your Microsoft 365 environment.
+> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=13)** It provides over 500 commandlets that can work within your [[Microsoft 365]] environment.
 >
-> **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=20)** However, the commands are specifically focused on SharePoint Online, Microsoft Teams, Microsoft Planner and Microsoft Flow.
+> **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=20)** However, the commands are specifically focused on [[SharePoint]] Online, [[Microsoft Teams]], Microsoft Planner and Microsoft Flow.
 >
 > **[0:29](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/the-microsoft-pnp-powershell-commands?u=76281980&t=29)** So you won't be using this module to do all of your administration.
 >
@@ -900,7 +889,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (11), [[Microsoft]] (6), [[SharePoint]] (2), cross-platform (1), [[Microsoft 365]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (11), [[Microsoft]] (6), [[SharePoint]] (2), [[Microsoft 365]] (1), [[Microsoft Teams]] (1)
 > **Tools:** powershell (11)
 > **Definitions:** is a  (2), is called (1)
 > **Analogies:** for example (2)
@@ -914,12 +903,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Connect to SharePoint Online and OneDrive for Business
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980)
+#### [Connect to SharePoint Online and OneDrive for Business](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=0)** - In order for us to connect to SharePoint Online, and OneDrive for business, utilizing PowerShell we first need to import a specific module, or at least install the module and then import it into the current session, so we can actually make a connection out.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=0)** - In order for us to connect to [[SharePoint]] Online, and [[Microsoft OneDrive|OneDrive]] for business, utilizing [[Powershell]] we first need to import a specific module, or at least install the module and then import it into the current session, so we can actually make a connection out.
 >
 > **[0:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=15)** The first thing we have to do though, is check whether we actually have the module installed, and import it into our current session.
 >
@@ -927,9 +915,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=29)** So, clearly there's nothing that says SharePoint in the name, so that means the module isn't available to me.
 >
-> **[0:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=35)** To add the module, we first need to say Install-Module, we can pass a name to it at this point which will be Microsoft.Online.SharePoint.PowerShell.
+> **[0:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=35)** To add the module, we first need to say Install-Module, we can pass a name to it at this point which will be [[Microsoft]].Online.SharePoint.PowerShell.
 >
-> **[0:48](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=48)** Now, not every module is named as long as this one, but the SharePoint one is a little bit longer than the rest.
+> **[0:48](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=48)** Now, not every module is named as long as this one, but the SharePoint one is a little bit longer than the [[Representational State Transfer (REST)|rest]].
 >
 > **[0:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=55)** So, I'm going to say install module, this will then prompt me because it's going to try and connect to the PowerShell gallery, and then I can choose the yes option to install.
 >
@@ -939,7 +927,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=82)** Okay, so now we have installed the module.
 >
-> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=84)** Let me go back to my Get-Module command and enter, you'll notice I don't get the SharePoint one, but I do get things like PowerShellGet, and I get some management and utility ones and package management, so some of these were there before, but now we've added to it because we ran the installer option.
+> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=84)** Let me go back to my Get-Module command and enter, you'll notice I don't get the SharePoint one, but I do get things like PowerShellGet, and I get some management and utility ones and [[Package Management]], so some of these were there before, but now we've added to it because we ran the installer option.
 >
 > **[1:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=102)** Now, the first thing we have to do to utilize it is import that module directly into the session that we're in.
 >
@@ -969,7 +957,7 @@ created: 2026-05-02
 >
 > **[3:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=203)** The first one is to actually utilize a credential object which is what we'll do, so we'll create a variable called user.
 >
-> **[3:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=212)** And what we'll do is put our office 365 user account directly in as the account we wish to utilize, so I'm going to paste that into here.
+> **[3:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=212)** And what we'll do is put our [[Microsoft Office|office]] 365 user account directly in as the account we wish to utilize, so I'm going to paste that into here.
 >
 > **[3:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=221)** You'll notice two things about this.
 >
@@ -1013,7 +1001,7 @@ created: 2026-05-02
 >
 > **[6:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=383)** Now, we can also disconnect as well a specific session, so I can say Disconnect-SPOService if I just clear that, and then I go back to Get-SPOSite, you'll see that that's not going to work because I have no valid connection.
 >
-> **[6:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=401)** So, what happens if you're trying to connect and you have to go through either a third party authentication mechanism from Azure AD, or maybe multi-factor authentication 'cause that creds object doesn't function that way.
+> **[6:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=401)** So, what happens if you're trying to connect and you have to go through either a third party authentication mechanism from [[Microsoft Entra ID|Azure AD]], or maybe [[Multi-factor Authentication]] 'cause that creds object doesn't function that way.
 >
 > **[6:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/connect-to-sharepoint-online-and-onedrive-for-business?u=76281980&t=413)** Now, what we can do here is we can go back to our list, get rid of the credential options and just simply pass in the URL.
 >
@@ -1029,7 +1017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (14), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft]] (3), business (2)
+> **Frameworks & Libraries:** [[SharePoint]] (14), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (3), [[Microsoft]] (3), [[Multi-factor Authentication]] (2)
 > **Tools:** powershell (8)
 > **Prerequisites:** install (7)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (3), [https://$tenant](https://$tenant) (1)
@@ -1038,14 +1026,13 @@ created: 2026-05-02
 > **Cross-References:** go back to (3)
 > **CLI Commands:** make (2)
 
-#### How to create, update, and delete site collections
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980)
+#### [How to create, update, and delete site collections](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=0)** - [Instructor] So now that we have a connection, the next thing we want to do is look at how we can manage site collections.
 >
-> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=6)** Now, if you think in the SharePoint world, we have the admin center itself, we then have site collections, which are the boundary of the sites, then we have sub sites, then we have lists and libraries and folders, et cetera.
+> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=6)** Now, if you think in the [[SharePoint]] world, we have the admin center itself, we then have site collections, which are the boundary of the sites, then we have sub sites, then we have lists and libraries and folders, et cetera.
 >
 > **[0:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=18)** So the first thing to manage predominantly will be site collections.
 >
@@ -1065,11 +1052,11 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=59)** Now, of course, you'll see that there's one that's called my that's the one drive for business one.
 >
-> **[1:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=63)** And then you'll see the rest of them are just regular site collections.
+> **[1:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=63)** And then you'll see the [[Representational State Transfer (REST)|rest]] of them are just regular site collections.
 >
 > **[1:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=67)** So the my is the parent one for one drive for business sites.
 >
-> **[1:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=73)** Now what's interesting is we don't really know if any of these site collections are connected to Microsoft Teams, for example.
+> **[1:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=73)** Now what's interesting is we don't really know if any of these site collections are connected to [[Microsoft Teams]], for example.
 >
 > **[1:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=82)** So what we can do is when we connect, we can also do what's called a limit and we can say, I want to limit it to everything and then we get to utilize some where syntax.
 >
@@ -1087,7 +1074,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=141)** So get SPO site, I'm going to limit it to all of them again and then there's also a property called group ID defined, and I'm going to say true, and then press enter.
 >
-> **[2:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=154)** And you'll see this time around that list is a little bit bigger, which means that these are site collections that have been connected to an Office 365 group.
+> **[2:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=154)** And you'll see this time around that list is a little bit bigger, which means that these are site collections that have been connected to an [[Microsoft Office|Office]] 365 group.
 >
 > **[2:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=164)** They are not necessarily the same as Microsoft Teams.
 >
@@ -1113,7 +1100,7 @@ created: 2026-05-02
 >
 > **[3:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=233)** And then this will give me all of the properties that are available to that site collection.
 >
-> **[3:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=238)** So remember that when we retrieve an object in PowerShell, we can get more details by changing the select statement that comes at the end of it.
+> **[3:58](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=238)** So remember that when we retrieve an object in [[Powershell]], we can get more details by changing the select statement that comes at the end of it.
 >
 > **[4:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=248)** Okay.
 >
@@ -1127,7 +1114,7 @@ created: 2026-05-02
 >
 > **[4:45](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=285)** So that was my admin account.
 >
-> **[4:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=287)** So let me just go and get my HTTPS, I'll then copy my M365 remember it's not on Microsoft it's [sharepoint.com/sites/PowerShell](https://sharepoint.com/sites/PowerShell).
+> **[4:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=287)** So let me just go and get my HTTPS, I'll then copy my [[Microsoft 365|M365]] remember it's not on [[Microsoft]] it's [sharepoint.com/sites/PowerShell](https://sharepoint.com/sites/PowerShell).
 >
 > **[5:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=303)** So we'll call it that, once I've got my URL, then of course I can get my template that I wish to utilize.
 >
@@ -1223,7 +1210,7 @@ created: 2026-05-02
 >
 > **[8:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=495)** So just be aware, it's not as simple as well I'm going to update it.
 >
-> **[8:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=498)** You would think he could put update, but you actually have to use the word set.
+> **[8:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=498)** You would think he could put update, but you actually have to use the [[Microsoft Word|word]] set.
 >
 > **[8:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-site-collections?u=76281980&t=501)** So I'm going to say identity and I can use my variable here.
 >
@@ -1253,7 +1240,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (12), teams (4), [[SharePoint]] (3), business (2), [[Microsoft Teams]] (2)
+> **Frameworks & Libraries:** [[Powershell]] (12), [[SharePoint]] (3), [[Microsoft Teams]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Microsoft Office|Office]] (1)
 > **Env Vars:** spo (13), url (12), https (1), m365 (1), sts (1)
 > **Tools:** powershell (12)
 > **Exercise Files:** template (5)
@@ -1262,18 +1249,17 @@ created: 2026-05-02
 > **Analogies:** for example (3)
 > **Cross-References:** go back to (2)
 
-#### How to create, update, and delete sites
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980)
+#### [How to create, update, and delete sites](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=0)** - [Instructor] Now SubSites are the other sites or the smaller containers that reside inside a SharePoint site collection.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=0)** - [Instructor] Now SubSites are the other sites or the smaller containers that reside inside a [[SharePoint]] site collection.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=8)** So imagine the SharePoint site collection is the parent container and then SubSites are smaller containers.
 >
 > **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=13)** SubSites can have their own document libraries, their own lists, as well as permissions et cetera.
 >
-> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=19)** Now the downside is in the PowerShell modules, there's not really many commands outside of some of the PnP commands which we'll talk about later that can work with SubSites.
+> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=19)** Now the downside is in the [[Powershell]] modules, there's not really many commands outside of some of the PnP commands which we'll talk about later that can work with SubSites.
 >
 > **[0:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=31)** So what we have to do is look at creating specific functions as self.
 >
@@ -1283,7 +1269,7 @@ created: 2026-05-02
 >
 > **[0:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=52)** So this is just standard PowerShell.
 >
-> **[0:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=53)** This isn't anything to do with Office 365.
+> **[0:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=53)** This isn't anything to do with [[Microsoft Office|Office]] 365.
 >
 > **[0:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=55)** This is just me creating a function because there's no functions that exist for retrieving SubSites.
 >
@@ -1293,7 +1279,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=69)** And then what we're able to do is to create a object utilizing CSOM.
 >
-> **[1:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=75)** So you'll see we utilizing Microsoft SharePoint client context, with the URL that we pass into it.
+> **[1:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=75)** So you'll see we utilizing [[Microsoft]] SharePoint client context, with the URL that we pass into it.
 >
 > **[1:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-sites?u=76281980&t=82)** What we can then do is pass credentials to that in a specific format, which is going to be a SharePoint online set of credentials.
 >
@@ -1537,7 +1523,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (21), [[Powershell]] (16), [[SharePoint]] (6), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (16), [[SharePoint]] (6), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **Env Vars:** url (16), csom (6), spo (2)
 > **Tools:** powershell (16)
 > **Definitions:** is a  (3), is called (1)
@@ -1546,8 +1532,7 @@ created: 2026-05-02
 > **Analogies:** imagine (1), for example (1)
 > **CLI Commands:** make (1)
 
-#### How to create, update, and delete lists and libraries
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980)
+#### [How to create, update, and delete lists and libraries](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1563,7 +1548,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=38)** Now, obviously as before, it's going to require a web URL and a credential object and then it will connect to the object or the URL that we specify and effectively retrieve the lists and load them for me.
 >
-> **[0:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=51)** So, if we look into our web object from before, we still have our URL which is the "Global Sales" and the PowerShell subsite.
+> **[0:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=51)** So, if we look into our web object from before, we still have our URL which is the "Global Sales" and the [[Powershell]] subsite.
 >
 > **[0:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=59)** So, what we can do here is say lists and then we can use a new function.
 >
@@ -1665,7 +1650,7 @@ created: 2026-05-02
 >
 > **[5:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=335)** And sure enough, you can see that there's one now called PowerShell that's been created which is now the template based on the template that we chose.
 >
-> **[5:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=342)** So really, really straightforward to be able to create a specific SharePoint list and you might wonder, "Well, why do we need to go to the hassle of that?"
+> **[5:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=342)** So really, really straightforward to be able to create a specific [[SharePoint]] list and you might wonder, "Well, why do we need to go to the hassle of that?"
 >
 > **[5:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-lists-and-libraries?u=76281980&t=350)** Well, think of a provisioning process that we're going through and building site collections, then we're building subsites, then we want to provision specific sites with lists and libraries that are specific to that one.
 >
@@ -1733,7 +1718,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** web (8), [[Powershell]] (8), [[SharePoint]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[SharePoint]] (1)
 > **Env Vars:** url (11), csom (2), sts (1), spo (1)
 > **Exercise Files:** template (10)
 > **Tools:** powershell (8)
@@ -1742,16 +1727,15 @@ created: 2026-05-02
 > **Analogies:** similar to (1), for example (1)
 > **Definitions:** is called (1)
 
-#### How to manage users and groups within SharePoint Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980)
+#### [How to manage users and groups within SharePoint Online](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=0)** - [Instructor] Now, one of the other areas of focus within SharePoint Online and OneDrive for Business for that, is management of users and groups.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=0)** - [Instructor] Now, one of the other areas of focus within [[SharePoint]] Online and [[Microsoft OneDrive|OneDrive]] for Business for that, is management of users and groups.
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=8)** Now the nice thing is that the functions that we need are available to us here.
 >
-> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=13)** So if I just double-check what my URL is going to be, that's going to be my PowerShell site.
+> **[0:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=13)** So if I just double-check what my URL is going to be, that's going to be my [[Powershell]] site.
 >
 > **[0:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=17)** What I'm actually going to do is just update that to be the global sales one so we should be able to use site URL.
 >
@@ -1765,7 +1749,7 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=50)** You'll also see some of the groups potentially that will be here.
 >
-> **[0:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=54)** And normally some of the system ones like in the Microsoft tenants, we use a provisioning user, but you can see that listed here as well as the two groups that are there by default called everyone and then everyone except external users.
+> **[0:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=54)** And normally some of the system ones like in the [[Microsoft]] tenants, we use a provisioning user, but you can see that listed here as well as the two groups that are there by default called everyone and then everyone except external users.
 >
 > **[1:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=66)** So I can retrieve kind of a list of the users, et cetera.
 >
@@ -1785,7 +1769,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=132)** Now 'cause it doesn't look that great really here, just purely based on the fact that you're in a small window.
 >
-> **[2:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=138)** But you could export that into HTML or you could put it as a CSV, whatever it would be.
+> **[2:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=138)** But you could export that into [[HTML]] or you could put it as a CSV, whatever it would be.
 >
 > **[2:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-users-and-groups-within-sharepoint-online?u=76281980&t=143)** But what we can see here, is we can see the list of the user, so the login, if they are a site admin.
 >
@@ -1921,7 +1905,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (3), [[Powershell]] (2), [[Microsoft OneDrive|Onedrive]] (1), business (1), management (1)
+> **Frameworks & Libraries:** [[SharePoint]] (3), [[Powershell]] (2), [[Microsoft OneDrive|Onedrive]] (1), [[Microsoft]] (1), [[HTML]] (1)
 > **Env Vars:** url (8), html (1), csv (1), spo (1)
 > **Cross-References:** go back to (3), we talked about (1)
 > **CLI Commands:** make (2)
@@ -1930,12 +1914,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to manage OneDrive for Business using PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980)
+#### [How to manage OneDrive for Business using PowerShell](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=0)** - [Speaker] Now so far, we've focused on just connecting to SharePoint online, and not really touched on OneDrive for business.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=0)** - [Speaker] Now so far, we've focused on just connecting to [[SharePoint]] online, and not really touched on [[Microsoft OneDrive|OneDrive]] for business.
 >
 > **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=6)** And that's because OneDrive for business sites, are really just part of SharePoint online.
 >
@@ -1997,7 +1980,7 @@ created: 2026-05-02
 >
 > **[3:25](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=205)** So I'm going to press Enter, and then I can say updated login, and you'll see, shouldn't it look like the format of the URLs that we were looking at previously.
 >
-> **[3:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=214)** Whereas if you just double check that and go back to SPO, you can see it should be admin, underscore, tenant, underscore, on Microsoft, underscore.
+> **[3:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=214)** Whereas if you just double check that and go back to SPO, you can see it should be admin, underscore, tenant, underscore, on [[Microsoft]], underscore.
 >
 > **[3:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-onedrive-for-business-using-powershell?u=76281980&t=224)** So we can double check to make sure, and sure enough we have the right format name.
 >
@@ -2077,7 +2060,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft OneDrive|Onedrive]] (6), business (5), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[SharePoint]] (9), [[Microsoft OneDrive|Onedrive]] (6), [[Microsoft]] (1)
 > **Env Vars:** spo (7), url (6)
 > **CLI Commands:** make (5)
 > **URLs:** [sharepoint.com](https://sharepoint.com) (3), [mysharepoint.com](https://mysharepoint.com) (1)
@@ -2086,12 +2069,11 @@ created: 2026-05-02
 > **UI Navigation:** go to (1)
 > **Definitions:** is a  (1)
 
-#### How to manage external sharing capabilities
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980)
+#### [How to manage external sharing capabilities](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=0)** - [Instructor] And one of the last areas of focus really for SharePoint Online and OneDrive for business is really around external sharing.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=0)** - [Instructor] And one of the last areas of focus really for [[SharePoint]] Online and [[Microsoft OneDrive|OneDrive]] for business is really around external sharing.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=7)** Now, one of the options that we have here is obviously to utilize external users.
 >
@@ -2103,7 +2085,7 @@ created: 2026-05-02
 >
 > **[0:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=51)** So what we can do is obviously add external users, and depending on the policy that's defined, we'll determine whether users are able to share externally.
 >
-> **[1:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=63)** The good thing is, is that obviously we can do this either by utilizing PowerShell and retrieving them, or we can allow end users to configure the permissions.
+> **[1:03](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=63)** The good thing is, is that obviously we can do this either by utilizing [[Powershell]] and retrieving them, or we can allow end users to configure the permissions.
 >
 > **[1:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=72)** So let's go and have a look in the SharePoint site first and see what the external sharing configuration looks like.
 >
@@ -2117,7 +2099,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=124)** So it's important to understand that we can obviously go through and add specific users, invite them into the various applications as we need to.
 >
-> **[2:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=134)** You can add users at the domain level, so at Azure Active Directory, if needed, you can add them into various other locations at the services, you can add them into specific documents if needed, you could also add them to folders if needed, you could just add them into various locations.
+> **[2:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=134)** You can add users at the domain level, so at [[Microsoft Entra ID|Azure Active Directory]], if needed, you can add them into various other locations at the services, you can add them into specific documents if needed, you could also add them to folders if needed, you could just add them into various locations.
 >
 > **[2:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=155)** So it's important as an administrator to be able to understand how to manage those specific accounts and check if you have external accounts.
 >
@@ -2211,7 +2193,7 @@ created: 2026-05-02
 >
 > **[7:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=457)** We can also iterate each of the site collections if needed, or we could turn something off.
 >
-> **[7:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=462)** So you'll see, for example here, I've got GuestSharing is configured for my, 'cause you can see like the rest of the guest word.
+> **[7:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=462)** So you'll see, for example here, I've got GuestSharing is configured for my, 'cause you can see like the [[Representational State Transfer (REST)|rest]] of the guest [[Microsoft Word|word]].
 >
 > **[7:49](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-external-sharing-capabilities?u=76281980&t=469)** So in my GlobalSales, this was the one that we enabled it on, but let's say we suddenly realized that we don't actually want that to be configured that way, so let me just clear the screen here.
 >
@@ -2261,7 +2243,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (12), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Entra ID|Azure active directory]] (3), business (2)
+> **Frameworks & Libraries:** [[SharePoint]] (12), [[Powershell]] (8), [[Microsoft OneDrive|Onedrive]] (4), [[Microsoft Entra ID|Azure active directory]] (3), [[Representational State Transfer (REST)|Rest]] (1)
 > **Tools:** powershell (8)
 > **Env Vars:** url (6), spo (1)
 > **Cross-References:** go back to (5)
@@ -2275,8 +2257,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to connect to Exchange Online
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980)
+#### [How to connect to Exchange Online](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2292,7 +2273,7 @@ created: 2026-05-02
 >
 > **[0:25](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=25)** I should already have this installed in my machine so it shouldn't take long to prepare itself.
 >
-> **[0:30](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=30)** But if you haven't installed this for the first time, it will take some time to download, it might prompt you for installing something from the PowerShell gallery.
+> **[0:30](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=30)** But if you haven't installed this for the first time, it will take some time to download, it might prompt you for installing something from the [[Powershell]] gallery.
 >
 > **[0:39](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=39)** So just accept the defaults.
 >
@@ -2306,7 +2287,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=67)** Now, another approach that we have is to actually not use Exchange Online.
 >
-> **[1:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=71)** We could also use the Microsoft Graph.
+> **[1:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=71)** We could also use the [[Microsoft]] Graph.
 >
 > **[1:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=75)** Now this one is a little bit different.
 >
@@ -2354,7 +2335,7 @@ created: 2026-05-02
 >
 > **[3:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=211)** And then it's going to require a quick message, so I'm going to say, add password.
 >
-> **[3:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=217)** Now of course, if I was using PowerShell 7, it would require the message, if I'm using regular Windows PowerShell, I don't need to.
+> **[3:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=217)** Now of course, if I was using PowerShell 7, it would require the message, if I'm using regular [[Windows]] PowerShell, I don't need to.
 >
 > **[3:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=222)** But either way, when a press enter here, it pops up the window little dialog box, and then I can paste in the password.
 >
@@ -2386,7 +2367,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=315)** Of course, we're going to grab a password at this point and put that in.
 >
-> **[5:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=321)** And then if we had anything like multifactor authentication that needed to be completed, you know, maybe it's Azure multifactor or something else, we can then complete that process, and then we're able to connect.
+> **[5:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=321)** And then if we had anything like multifactor authentication that needed to be completed, you know, maybe it's [[Microsoft Azure|Azure]] multifactor or something else, we can then complete that process, and then we're able to connect.
 >
 > **[5:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=332)** Now let me just clear my screen here.
 >
@@ -2406,7 +2387,7 @@ created: 2026-05-02
 >
 > **[6:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=380)** We could also do maybe Contacts.ReadWrite.
 >
-> **[6:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=386)** So we have these various permissions that are available within Azure active directory.
+> **[6:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=386)** So we have these various permissions that are available within [[Microsoft Entra ID|Azure active directory]].
 >
 > **[6:30](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-exchange-online?u=76281980&t=390)** And I when press enter here, it's going to say welcome to the graph because I already have an existing connection, but if it didn't, it would ask me to consent or authenticate, and then it would say welcome to the Microsoft Graph.
 >
@@ -2442,7 +2423,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft]] (8), management (2), prompt (2), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft]] (8), [[Windows]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Tools:** powershell (8)
 > **Analogies:** for example (6)
 > **Definitions:** is a  (2), is called (1), is an  (1)
@@ -2451,8 +2432,7 @@ created: 2026-05-02
 > **Env Vars:** sdk (1)
 > **Versions:** version 1 (1)
 
-#### How to create, update, delete, and manage mailboxes
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980)
+#### [How to create, update, delete, and manage mailboxes](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2518,7 +2498,7 @@ created: 2026-05-02
 >
 > **[2:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=174)** So shared mailboxes if we wish to use them, not many people use them anymore, but you can, and you can retrieve information.
 >
-> **[3:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=181)** Now, the next thing that you would often want to identify is maybe statistics about a specific mailbox.
+> **[3:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=181)** Now, the next thing that you would often want to identify is maybe [[Statistics]] about a specific mailbox.
 >
 > **[3:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=190)** So there's a command called Get-EXOMailboxStatistics that will allow me to pass an identifier, so of a specific user.
 >
@@ -2614,7 +2594,7 @@ created: 2026-05-02
 >
 > **[7:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=444)** And what we'll do is we'll do the same thing again, but this time I'm going to go through and remove the EXO option.
 >
-> **[7:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=451)** So we're going to use the slower out of the box commands that come with the PowerShell.
+> **[7:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=451)** So we're going to use the slower out of the box commands that come with the [[Powershell]].
 >
 > **[7:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=457)** And then we're going to go across to here again, and Enter.
 >
@@ -2724,7 +2704,7 @@ created: 2026-05-02
 >
 > **[12:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=721)** So my PowerShell dot user.
 >
-> **[12:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=724)** I've then got a property called Windows Live ID, which is my user.
+> **[12:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=724)** I've then got a property called [[Windows]] Live ID, which is my user.
 >
 > **[12:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=729)** So I'll talk with Dave before we do that, let's just make sure that our variables are correct.
 >
@@ -2740,7 +2720,7 @@ created: 2026-05-02
 >
 > **[12:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=770)** Okay, and I'll press Enter.
 >
-> **[12:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=772)** Now, what this is going to do is try and find that soft deleted mailbox, which was the one that we just deleted by the user ID and the Windows Live, and then bring it back in which will return the Windows Live or the Azure ID account, and the mailbox back to where it was with the new password or the original password that we originally had and put that back to wherever it is.
+> **[12:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=772)** Now, what this is going to do is try and find that soft deleted mailbox, which was the one that we just deleted by the user ID and the Windows Live, and then bring it back in which will return the Windows Live or the [[Microsoft Azure|Azure]] ID account, and the mailbox back to where it was with the new password or the original password that we originally had and put that back to wherever it is.
 >
 > **[13:16](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-delete-and-manage-mailboxes?u=76281980&t=796)** So let's give this a second to complete.
 >
@@ -2758,7 +2738,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (10), [[Statistics]] (7), [[Windows]] (4), next (2), prompt (2)
+> **Frameworks & Libraries:** [[Powershell]] (10), [[Statistics]] (7), [[Windows]] (4), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (10)
 > **Env Vars:** exo (5), smtp (2)
 > **CLI Commands:** find (3), make (2)
@@ -2767,8 +2747,7 @@ created: 2026-05-02
 > **UI Navigation:** scroll down (1), scroll up (1)
 > **Definitions:** is a  (1), is called (1)
 
-#### How to manage exchange online permissions
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980)
+#### [How to manage exchange online permissions](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2788,7 +2767,7 @@ created: 2026-05-02
 >
 > **[0:40](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=40)** End user roles are assigned the role assignment policies enable end users to manage aspects of their own mailbox and distribution groups.
 >
-> **[0:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=50)** Management roles give permissions to perform tasks to administrators and users by making Powershell commandlets available to those who are assigned in those specific roles.
+> **[0:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=50)** Management roles give permissions to perform tasks to administrators and users by making [[Powershell]] commandlets available to those who are assigned in those specific roles.
 >
 > **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=62)** Management roles give permissions to perform tasks in Exchange Online, but you need an easy way to assign them to administrators and users instead of independently assigning them.
 >
@@ -2798,7 +2777,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=87)** Role assignment policies enable you to grant permission to end users to change settings on their own mailbox or the distribution groups that they might own.
 >
-> **[1:38](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=98)** When you create a user in Microsoft 365 or Office 365, you can choose whether to assign various admin roles such as the global administrator role, the service administrator role, password administrator, and so on.
+> **[1:38](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=98)** When you create a user in [[Microsoft 365]] or [[Microsoft Office|Office]] 365, you can choose whether to assign various admin roles such as the global administrator role, the service administrator role, password administrator, and so on.
 >
 > **[1:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-exchange-online-permissions?u=76281980&t=114)** Some, but not all of these roles grant the user administrative permissions in Exchange Online.
 >
@@ -2858,7 +2837,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (8), [[Powershell]] (5), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (3), power (1)
+> **Frameworks & Libraries:** [[Powershell]] (5), [[Microsoft 365]] (4), [[Microsoft Office|Office]] (3)
 > **Tools:** powershell (5)
 > **UI Navigation:** open the (2), select the (1)
 > **Definitions:** is an  (1), is a  (1)
@@ -2871,18 +2850,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### How to connect to Microsoft Teams with PowerShell
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980)
+#### [How to connect to Microsoft Teams with PowerShell](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=0)** - [Instructor] Now, as is consistent with managing any part of Microsoft 365, you first need to install specific modules to make things work.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=0)** - [Instructor] Now, as is consistent with managing any part of [[Microsoft 365]], you first need to install specific modules to make things work.
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=10)** And that is no different when it comes to Microsoft Teams.
+> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=10)** And that is no different when it comes to [[Microsoft Teams]].
 >
-> **[0:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=14)** So first off, if we do get module, now you can see that we start into include lots of PowerShell modules.
+> **[0:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=14)** So first off, if we do get module, now you can see that we start into include lots of [[Powershell]] modules.
 >
-> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=19)** As you can see the Microsoft Graph ones that have been loaded and our exchange one.
+> **[0:19](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=19)** As you can see the [[Microsoft]] Graph ones that have been loaded and our exchange one.
 >
 > **[0:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-connect-to-microsoft-teams-with-powershell?u=76281980&t=23)** Microsoft Teams is exactly the same.
 >
@@ -3004,7 +2982,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Powershell]] (3), prompt (3), [[Microsoft]] (2), teams (2)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (6), [[Powershell]] (3), [[Microsoft]] (2), [[Microsoft 365]] (1)
 > **Prerequisites:** install (5)
 > **Tools:** powershell (3)
 > **CLI Commands:** make (2)
@@ -3013,14 +2991,13 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create, update, and delete teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980)
+#### [How to create, update, and delete teams](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=0)** - At the first administration task is really around managing teams themselves.
 >
-> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=6)** So, I'm going to choose Get-team, and Get-team retrieves me a list of the Microsoft teams.
+> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=6)** So, I'm going to choose Get-team, and Get-team retrieves me a list of the [[Microsoft Teams]].
 >
 > **[0:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=11)** So, in my team's tenant, you can say that I have, one two, three, four, five, six, seven, eight, teams.
 >
@@ -3036,7 +3013,7 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=72)** Now, one of our first tasks normally, is to actually create specific teams.
 >
-> **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=78)** So, I'm going to call this one, PowerShell team, that's going to be the team name.
+> **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=78)** So, I'm going to call this one, [[Powershell]] team, that's going to be the team name.
 >
 > **[1:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=83)** Let me just copy that, 'cause I'm going to use that again, like so.
 >
@@ -3054,7 +3031,7 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=136)** Now, what's the construct of a team?
 >
-> **[2:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=138)** Well, it's going to be the Microsoft team's components, it's the Office 365 Group, it's the SharePoint Online site, it's the Azure AD Group, et cetera.
+> **[2:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=138)** Well, it's going to be the [[Microsoft]] team's components, it's the [[Microsoft Office|Office]] 365 Group, it's the [[SharePoint]] Online site, it's the [[Microsoft Entra ID|Azure AD]] Group, et cetera.
 >
 > **[2:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-update-and-delete-teams?u=76281980&t=146)** So, all of these components get spun up as part of the new team command.
 >
@@ -3160,7 +3137,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (7), [[Powershell]] (7), [[Microsoft]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (7), [[Microsoft]] (2), [[Microsoft Teams]] (1), [[Microsoft Office|Office]] (1), [[SharePoint]] (1)
 > **Tools:** powershell (7)
 > **Analogies:** for example (2), picture (1), such as (1)
 > **CLI Commands:** make (2)
@@ -3168,18 +3145,17 @@ created: 2026-05-02
 > **UI Navigation:** select the (1)
 > **Speakers:** - at (1)
 
-#### How to manage channels
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980)
+#### [How to manage channels](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=0)** - [Instructor] Now when you're using Microsoft teams, one of the features that's quite common is channels within the teams, public or private channels.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=0)** - [Instructor] Now when you're using [[Microsoft Teams]], one of the features that's quite common is channels within the teams, public or private channels.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=7)** And depending on the types of channel that you create will determine the functionality that's available to it.
 >
 > **[0:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=12)** So for example, if you are using a private channel, then of course, you're trying to restrict who can be in that specific channel.
 >
-> **[0:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=21)** Now we can manage those directly with PowerShell too.
+> **[0:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=21)** Now we can manage those directly with [[Powershell]] too.
 >
 > **[0:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-channels?u=76281980&t=24)** The first thing that we need to do though is, be able to retrieve the actual team that we kind of want to create.
 >
@@ -3311,7 +3287,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (9), teams (7), [[Microsoft Teams]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft Teams]] (1)
 > **Tools:** powershell (9)
 > **CLI Commands:** make (4)
 > **Definitions:** is called (2), is a  (1)
@@ -3320,12 +3296,11 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Prerequisites:** before we start (1)
 
-#### How to provision policies in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980)
+#### [How to provision policies in Teams](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=0)** - Now, one of the most important tasks, when it comes to Microsoft teams, outside of creating them and provisioning them, is also the ability to manage things like policies, to be able to identify, you know, specific configuration changes that need to be made to control what individual users can do.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=0)** - Now, one of the most important tasks, when it comes to [[Microsoft Teams]], outside of creating them and provisioning them, is also the ability to manage things like policies, to be able to identify, you know, specific configuration changes that need to be made to control what individual users can do.
 >
 > **[0:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=18)** So, first off, let's have a look at how we can get a specific policy.
 >
@@ -3333,7 +3308,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=30)** They have what's called Cs in front of it.
 >
-> **[0:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=32)** These are PowerShell commands that come directly from the Skype for Business type PowerShell commands.
+> **[0:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=32)** These are [[Powershell]] commands that come directly from the Skype for Business type PowerShell commands.
 >
 > **[0:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-provision-policies-in-teams?u=76281980&t=42)** So, it's going to be Get-CsTeams, and then meeting policies, messaging policies, et cetera.
 >
@@ -3471,7 +3446,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (4), business (2), teams (2), [[Microsoft Teams]] (1), next (1)
+> **Frameworks & Libraries:** [[Powershell]] (4), [[Microsoft Teams]] (1)
 > **Tools:** powershell (4)
 > **Analogies:** for example (3), just like (1)
 > **Env Vars:** url (1), set (1), giphy (1)
@@ -3480,12 +3455,11 @@ created: 2026-05-02
 > **Warnings:** be aware (1)
 > **Speakers:** - now (1)
 
-#### How to create templates in Teams
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980)
+#### [How to create templates in Teams](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=0)** - [Instructor] And one of the features available within Microsoft Teams is the ability to create Teams Templates, which means that when you create a Microsoft Teams, you can select from an existing template.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=0)** - [Instructor] And one of the features available within [[Microsoft Teams]] is the ability to create Teams Templates, which means that when you create a Microsoft Teams, you can select from an existing template.
 >
 > **[0:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=12)** And luckily, there's a command which is called Get-CsTeamTemplateList, which will display the current templates that are there.
 >
@@ -3501,7 +3475,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=64)** It's actually going to be the ODataID like so, and press enter.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=69)** Now you notice what it looks like, is a kind of a JSON structure, and that would be correct.
+> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=69)** Now you notice what it looks like, is a kind of a [[JSON]] structure, and that would be correct.
 >
 > **[1:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=74)** Everything that's contained within the template, is stored in a JSON template.
 >
@@ -3523,7 +3497,7 @@ created: 2026-05-02
 >
 > **[2:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=132)** We'll just click paste and you'll see that I've already created a series of variables for the name, the description, any applications, I'm using planner and then some channels.
 >
-> **[2:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=143)** So we have a PowerShell channel and an Errors channel, and then there's a Locale also.
+> **[2:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=143)** So we have a [[Powershell]] channel and an Errors channel, and then there's a Locale also.
 >
 > **[2:28](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-templates-in-teams?u=76281980&t=148)** So fairly straightforward, now the complicated piece comes when we try to construct the template itself.
 >
@@ -3603,7 +3577,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), [[Powershell]] (5), [[Microsoft Teams]] (2), teams (2)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Powershell]] (5), [[Microsoft Teams]] (2)
 > **Exercise Files:** template (29), exercise file (2), download the (2)
 > **Env Vars:** json (8)
 > **Tools:** powershell (5)
@@ -3611,14 +3585,13 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Modifying core configuration
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980)
+#### [Modifying core configuration](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=0)** - [Instructor] Now, one of the last things to look at here, is just general core configuration.
 >
-> **[0:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=5)** So first off, you'll notice that we actually have, what's called the "Get-CsOnlineCapabilities," and I can say, "Get-CsOnlineUser," which is going to connect to Microsoft Teams, and try and identify, those users.
+> **[0:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=5)** So first off, you'll notice that we actually have, what's called the "Get-CsOnlineCapabilities," and I can say, "Get-CsOnlineUser," which is going to connect to [[Microsoft Teams]], and try and identify, those users.
 >
 > **[0:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=21)** And of course, it's just so much information that comes down.
 >
@@ -3664,7 +3637,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=155)** So, the first thing I'm going to do is, specify a variable called meeting policy, and I'll call it "Global."
 >
-> **[2:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=164)** What I'm then going to do, is create, what's, a filter, and filter in PowerShell are a little bit different.
+> **[2:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=164)** What I'm then going to do, is create, what's, a filter, and filter in [[Powershell]] are a little bit different.
 >
 > **[2:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=171)** So I'm going to filter what's called, "TeamsMeetingPolicy."
 >
@@ -3712,7 +3685,7 @@ created: 2026-05-02
 >
 > **[4:50](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=290)** So it's actually quite a common request where you want to know which users have obviously associated to a policy.
 >
-> **[4:56](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=296)** Now, some of the things that you might want to actually do, if I just clear this, is use, what's called, "Get-CsTenant," which we'll go and retrieve, information about this Microsoft 365 tenant, and anything that was associated.
+> **[4:56](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=296)** Now, some of the things that you might want to actually do, if I just clear this, is use, what's called, "Get-CsTenant," which we'll go and retrieve, information about this [[Microsoft 365]] tenant, and anything that was associated.
 >
 > **[5:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=312)** So for example, "AssignedPlan," what might be there, et cetera.
 >
@@ -3772,7 +3745,7 @@ created: 2026-05-02
 >
 > **[7:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=479)** And that will then update, the specific configuration.
 >
-> **[8:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=482)** So if I go back to here, and get configuration, you'll see Google drive is now true.
+> **[8:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=482)** So if I go back to here, and get configuration, you'll see [[Google Drive]] is now true.
 >
 > **[8:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/modifying-core-configuration?u=76281980&t=486)** And we should have a guest options is now set for true, which, if I change that the other way around, and don't false, and then we trade those values, you should then see that Google Drive is now false.
 >
@@ -3780,7 +3753,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** teams (9), business (3), [[Google Drive]] (2), [[Microsoft Teams]] (1), [[Powershell]] (1)
+> **Frameworks & Libraries:** [[Google Drive]] (2), [[Microsoft Teams]] (1), [[Powershell]] (1), [[Microsoft 365]] (1)
 > **Analogies:** for example (5), such as (1)
 > **Cross-References:** go back to (3)
 > **CLI Commands:** find (1), make (1)
@@ -3794,16 +3767,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Explain the security and compliance features
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980)
+#### [Explain the security and compliance features](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=0)** - [Instructor] In order for us to understand security and compliance, we first need to understand the security categories that exist within Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=0)** - [Instructor] In order for us to understand security and compliance, we first need to understand the security categories that exist within [[Microsoft 365]].
 >
 > **[0:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=8)** Microsoft 365 security solutions will help you as an organization work securely from anywhere, with all the standard tools that you're used to.
 >
-> **[0:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=17)** There are four security pillars that are identity and access management, threat protection, information protection, and security management.
+> **[0:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=17)** There are four security pillars that are identity and access management, threat protection, information protection, and [[Security Management]].
 >
 > **[0:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=26)** Identity and access management is about protecting user identities, and controlling access to resources based on a specific risk level.
 >
@@ -3815,13 +3787,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=56)** Now within Microsoft 365, there are core security and compliance features.
 >
-> **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=62)** Some of these are auditing, identity protection and governance, data loss prevention, insider risk management, Defender for Identity, records management, privileged access management.
+> **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=62)** Some of these are auditing, identity protection and governance, data loss prevention, insider risk management, [[Microsoft Defender|Defender]] for Identity, records management, privileged access management.
 >
 > **[1:13](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=73)** The list goes on for the types of security and compliance features.
 >
-> **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=78)** However, not all of these features have a rich PowerShell command interface.
+> **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=78)** However, not all of these features have a rich [[Powershell]] command interface.
 >
-> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=84)** So only some of these are able to be configured utilizing PowerShell, or at least utilizing modules that already exist, or the Microsoft Graph.
+> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=84)** So only some of these are able to be configured utilizing PowerShell, or at least utilizing modules that already exist, or the [[Microsoft]] Graph.
 >
 > **[1:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/explain-the-security-and-compliance-features?u=76281980&t=94)** Now, one of the first areas is really focused on the security of the content, and some protections, and there were four kind of buckets to this.
 >
@@ -3871,20 +3843,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (11), management (10), data (10), [[Powershell]] (9), [[Microsoft 365]] (5)
+> **Frameworks & Libraries:** [[Powershell]] (9), [[Microsoft 365]] (5), [[Security Management]] (2), [[Microsoft Defender|Defender]] (1), [[Microsoft]] (1)
 > **Tools:** powershell (9)
 > **Code Identifiers:** ediscovery (5)
 > **Env Vars:** gdpr (1)
 > **Speakers:** - [instructor] (1)
 
-#### Security and compliance demo
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980)
+#### [Security and compliance demo](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=0)** - [Instructor] Now when managing security compliance within Microsoft 365 there is a couple of different ways of connecting purely based on supportability.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=0)** - [Instructor] Now when managing security compliance within [[Microsoft 365]] there is a couple of different ways of connecting purely based on supportability.
 >
-> **[0:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=9)** So the most up-to-date version is to utilize the Microsoft Exchange Online PowerShell module, which we already imported.
+> **[0:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=9)** So the most up-to-date version is to utilize the [[Microsoft]] Exchange Online [[Powershell]] module, which we already imported.
 >
 > **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=20)** However, one of the first options is to utilize the standard PowerShell session object, which I'm going to populate here a specific user.
 >
@@ -3908,7 +3879,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=74)** And what you'll see is the session approach utilizes a standard PowerShell commandment code, New-PSSession, which is used for remoting to other machines.
 >
-> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=84)** In this instance, the configuration name is Microsoft Exchange with a URI that points to ps.compliance.protection.[outlook.com](https://outlook.com).
+> **[1:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=84)** In this instance, the configuration name is Microsoft Exchange with a URI that points to ps.compliance.protection.[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:33](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/security-and-compliance-demo?u=76281980&t=93)** And then we pass the creds and we get a connection.
 >
@@ -3980,7 +3951,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), [[Microsoft]] (5), [[Powershell]] (3), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft]] (5), [[Powershell]] (3), [[Microsoft 365]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **Env Vars:** uri (2), module (1)
 > **Tools:** powershell (3)
 > **Analogies:** for example (2)
@@ -3988,8 +3959,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to manage Safe Links, Documents, and Attachments
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980)
+#### [How to manage Safe Links, Documents, and Attachments](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4057,7 +4027,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=164)** So let's clear this and let's start there.
 >
-> **[2:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=167)** So to look at the ATP policy, we're going to say, Get-AtpPolicy for office 365. And if I scroll up here, you can see that I have a specific policy.
+> **[2:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=167)** So to look at the ATP policy, we're going to say, Get-AtpPolicy for [[Microsoft Office|office]] 365. And if I scroll up here, you can see that I have a specific policy.
 >
 > **[2:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=179)** Lots of the settings are configured for false, which means if I wanted to retrieve some specific values.
 >
@@ -4081,7 +4051,7 @@ created: 2026-05-02
 >
 > **[4:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=272)** And you'll notice that there's no safe links policy now in your talent, you may have them, but in the default tenant, they don't exist.
 >
-> **[4:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=281)** So how do we actually go through and create them? Well, first thing is let's create a name for a safeattachmentpolicy, so safeattachmentpolicyname, and we'll call it PowerShell, Safe Attachments.
+> **[4:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=281)** So how do we actually go through and create them? Well, first thing is let's create a name for a safeattachmentpolicy, so safeattachmentpolicyname, and we'll call it [[Powershell]], Safe Attachments.
 >
 > **[4:57](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-manage-safe-links-documents-and-attachments?u=76281980&t=297)** So we have a policy name.
 >
@@ -4171,7 +4141,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), [[Security]] (2), [[Microsoft Office|Office]] (2), [[Powershell]] (2), web (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (2), [[Powershell]] (2)
 > **Env Vars:** atp (7), ippss (2)
 > **CLI Commands:** make (5)
 > **Cross-References:** go back to (4)
@@ -4180,12 +4150,11 @@ created: 2026-05-02
 > **Tools:** powershell (2)
 > **Code Identifiers:** safelinkspolicy (1)
 
-#### How to create alerts and activity alerts
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-alerts-and-activity-alerts?u=76281980)
+#### [How to create alerts and activity alerts](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-alerts-and-activity-alerts?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-alerts-and-activity-alerts?u=76281980&t=0)** - [Instructor] As part of managing the security and compliance within Microsoft 365, we need to be able to review alerts such as activity alerts or protection alerts.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-alerts-and-activity-alerts?u=76281980&t=0)** - [Instructor] As part of managing the security and compliance within [[Microsoft 365]], we need to be able to review alerts such as activity alerts or protection alerts.
 >
 > **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-alerts-and-activity-alerts?u=76281980&t=10)** So, being able to identify the threats.
 >
@@ -4405,7 +4374,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (4), [[Security]] (3), [[Microsoft 365]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft 365]] (3)
 > **UI Navigation:** scroll up (3), go to (3)
 > **Definitions:** is an  (2), is a  (1), is called (1)
 > **Analogies:** for example (2), such as (1)
@@ -4413,12 +4382,11 @@ created: 2026-05-02
 > **Env Vars:** url (1)
 > **Speakers:** - [instructor] (1)
 
-#### How to create data loss prevention policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980)
+#### [How to create data loss prevention policies](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=0)** - [Instructor] One of the main security controls within Office 365 and Microsoft 365 is data loss prevention policies.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=0)** - [Instructor] One of the main security controls within [[Microsoft Office|Office]] 365 and [[Microsoft 365]] is data loss prevention policies.
 >
 > **[0:07](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=7)** We are able to retrieve any of the DLP compliance policies by simply running, get DLP compliance policy.
 >
@@ -4434,7 +4402,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=62)** Now of course, what you can see from here is what the policy does.
 >
-> **[1:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=65)** So this policy is specifically for SharePoint online and it has a few other bits of configuration, but nothing spectacular and there's no extra queries, no nothing it's just a standard.
+> **[1:05](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=65)** So this policy is specifically for [[SharePoint]] online and it has a few other bits of configuration, but nothing spectacular and there's no extra queries, no nothing it's just a standard.
 >
 > **[1:18](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=78)** Now what's interesting though, is it just shows me the policy details.
 >
@@ -4448,7 +4416,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=128)** And you can see I'm still scrolling and there's lots and lots of values here.
 >
-> **[2:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=132)** So if we keep going and going and going, you can see all of these properties are available, which you would normally just update in the user interface are available to us directly within a PowerShell.
+> **[2:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=132)** So if we keep going and going and going, you can see all of these properties are available, which you would normally just update in the user interface are available to us directly within a [[Powershell]].
 >
 > **[2:24](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=144)** So we're able to manage the DLP policy and the rules.
 >
@@ -4478,7 +4446,7 @@ created: 2026-05-02
 >
 > **[4:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=261)** So if I just press enter here, you can see there's a whole host of different sensitive information types.
 >
-> **[4:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=266)** These are provisioned by Microsoft in the tenant and match different countries, versions of driving licenses, tax numbers, passport numbers, et cetera.
+> **[4:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=266)** These are provisioned by [[Microsoft]] in the tenant and match different countries, versions of driving licenses, tax numbers, passport numbers, et cetera.
 >
 > **[4:35](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-data-loss-prevention-policies?u=76281980&t=275)** And then we have these other ones called Project Obsidian, et cetera, which are labels that we can create.
 >
@@ -4608,7 +4576,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[SharePoint]] (7), next (6), data (5), [[Security]] (2), [[Microsoft 365]] (2)
+> **Frameworks & Libraries:** [[SharePoint]] (7), [[Microsoft 365]] (2), [[Powershell]] (2), [[Microsoft Office|Office]] (1), [[Microsoft]] (1)
 > **Env Vars:** dlp (32), pii (2), url (1)
 > **UI Navigation:** go to (5), scroll up (2)
 > **Analogies:** for example (3), similar to (1), such as (1)
@@ -4617,8 +4585,7 @@ created: 2026-05-02
 > **Cross-References:** go back to (2)
 > **Tools:** powershell (2)
 
-#### How to create sensitivity labels
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980)
+#### [How to create sensitivity labels](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4628,7 +4595,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=20)** So when I did a quick search here using Get-Label, I can retrieve the list of all of the labels that are available.
 >
-> **[0:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=26)** And some of these are Out-of-the-Box Microsoft ones that are there.
+> **[0:26](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=26)** And some of these are Out-of-the-Box [[Microsoft]] ones that are there.
 >
 > **[0:29](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=29)** Now if I wanted to view specific details about a label, then I could simply come in here and say, let's do Highly Confidential. I'm going to go into there.
 >
@@ -4650,11 +4617,11 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=66)** You've got local options, label options.
 >
-> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=69)** You can see they're all squashed up into these funny kind of blocks. Almost look like JSON.
+> **[1:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=69)** You can see they're all squashed up into these funny kind of blocks. Almost look like [[JSON]].
 >
 > **[1:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=74)** And this is because when you create the labels, everything is stored in kind of hash table JSON objects that are then saved, and you can retrieve them later.
 >
-> **[1:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=83)** So, it can make it a bit complicated when you're trying to create them utilizing PowerShell.
+> **[1:23](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=83)** So, it can make it a bit complicated when you're trying to create them utilizing [[Powershell]].
 >
 > **[1:28](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=88)** Now, what we can do is when we created a label, we're also able to get label policies because remember a label doesn't really do anything unless it's associated to a policy.
 >
@@ -4748,7 +4715,7 @@ created: 2026-05-02
 >
 > **[5:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=315)** I'm going to be using font size 10.
 >
-> **[5:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=317)** It's going to put the word "Header." It's going to be text, and it's going to be a specific color.
+> **[5:17](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=317)** It's going to put the [[Microsoft Word|word]] "Header." It's going to be text, and it's going to be a specific color.
 >
 > **[5:22](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-labels?u=76281980&t=322)** So, what I can then do is press Enter.
 >
@@ -4788,7 +4755,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (3), data (2), [[Powershell]] (2), next (2), [[Search]] (1)
+> **Frameworks & Libraries:** [[JSON]] (3), [[Powershell]] (2), [[Microsoft]] (1), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (3), find (1)
 > **Env Vars:** json (3)
 > **Cross-References:** go back to (2)
@@ -4797,14 +4764,13 @@ created: 2026-05-02
 > **Exercise Files:** exercise file (1)
 > **Analogies:** for example (1)
 
-#### How to create sensitivity policies
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980)
+#### [How to create sensitivity policies](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=0)** - [Tutor] Now, once you have the label ready, then of course, you need to create a specific policy.
 >
-> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=6)** Now, policy makes the label valid so it can be utilized by office applications and other services.
+> **[0:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=6)** Now, policy makes the label valid so it can be utilized by [[Microsoft Office|office]] applications and other services.
 >
 > **[0:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=15)** Now, this is done by first retrieving the label, which we already have.
 >
@@ -4854,7 +4820,7 @@ created: 2026-05-02
 >
 > **[1:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=115)** Now, what about if I wanted to update that policy to add other things into it.
 >
-> **[2:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=121)** So maybe I wanted to make it so it wasn't mandatory in Outlook or maybe I wanted to enforce justification if someone tried to downgrade the label on a document.
+> **[2:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=121)** So maybe I wanted to make it so it wasn't mandatory in [[Microsoft Outlook|Outlook]] or maybe I wanted to enforce justification if someone tried to downgrade the label on a document.
 >
 > **[2:14](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=134)** So the same as we did before, we can this time use set-labelpolicy instead of set-label.
 >
@@ -4870,11 +4836,11 @@ created: 2026-05-02
 >
 > **[2:37](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=157)** And to make life easier, I'm just going to say all of exchange.
 >
-> **[2:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=161)** Maybe I'll go in and say, add OneDrive location, and I'll say all, and move down.
+> **[2:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=161)** Maybe I'll go in and say, add [[Microsoft OneDrive|OneDrive]] location, and I'll say all, and move down.
 >
 > **[2:49](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=169)** And then what I can do here is I can populate settings.
 >
-> **[2:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=173)** Now, settings are another chunk of text, which is in that funny JSON kind of hash table format.
+> **[2:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=173)** Now, settings are another chunk of text, which is in that funny [[JSON]] kind of hash table format.
 >
 > **[3:02](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=182)** I'm going to paste this in here.
 >
@@ -4936,7 +4902,7 @@ created: 2026-05-02
 >
 > **[4:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=299)** So you can see in the settings, in this section, there's that piece of code that we actually put in.
 >
-> **[5:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=306)** So when we're creating the sensitivity labels, we can obviously create them in the user interface or in PowerShell.
+> **[5:06](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=306)** So when we're creating the sensitivity labels, we can obviously create them in the user interface or in [[Powershell]].
 >
 > **[5:12](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-create-sensitivity-policies?u=76281980&t=312)** We can update them in both.
 >
@@ -4954,7 +4920,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), next (1), [[Microsoft OneDrive|Onedrive]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (2), [[Microsoft Office|Office]] (1), [[Microsoft Outlook|Outlook]] (1), [[Microsoft OneDrive|Onedrive]] (1), [[JSON]] (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** scroll up (2), go to (1)
 > **Env Vars:** json (1), dlp (1)
@@ -4963,12 +4929,11 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 
-#### How to review audit logs
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980)
+#### [How to review audit logs](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=0)** - [Instructor] One of the tasks for managing Microsoft 365 is obviously the ability to go back and view in the audit logs and the audit trails to identify what's taken place, for example, when an administrator made a change or whether an end user did something that they shouldn't have.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=0)** - [Instructor] One of the tasks for managing [[Microsoft 365]] is obviously the ability to go back and view in the audit logs and the audit trails to identify what's taken place, for example, when an administrator made a change or whether an end user did something that they shouldn't have.
 >
 > **[0:15](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=15)** Now, there are various locations that we can go to for this one.
 >
@@ -4984,7 +4949,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=47)** And you can see from here that I'm going to perform a search, looking for admin or delegated access.
 >
-> **[0:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=53)** I'm going to focus on the Microsoft CDX account which is my admin account.
+> **[0:53](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=53)** I'm going to focus on the [[Microsoft]] CDX account which is my admin account.
 >
 > **[0:57](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=57)** I'm looking for admin or delegation on the log-on types with a range of dates.
 >
@@ -5020,7 +4985,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=161)** And of course it returns back all the execution of new label.
 >
-> **[2:45](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=165)** So this allows me to kind of retrieve values and say, "Well, who was it that originally executed that PowerShell command against Microsoft 365, for example."
+> **[2:45](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=165)** So this allows me to kind of retrieve values and say, "Well, who was it that originally executed that [[Powershell]] command against Microsoft 365, for example."
 >
 > **[2:57](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=177)** Now, of course, we also have the most common one, which is actually searching the unified log.
 >
@@ -5062,13 +5027,13 @@ created: 2026-05-02
 >
 > **[4:51](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=291)** This object ID needs to be the object ID that we're kind of looking for.
 >
-> **[4:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=295)** So if it was a word document that had an object ID of 2700, let's say, that's what that value would be.
+> **[4:55](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=295)** So if it was a [[Microsoft Word|word]] document that had an object ID of 2700, let's say, that's what that value would be.
 >
 > **[5:01](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=301)** But searching the audit log, we can also filter it down to specific things like types of records and things that we're trying to identify.
 >
 > **[5:11](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=311)** So let me just clear this here, go back to our search, the unified log with our start dates, and then at this point I can start to add in record types, things that I want to kind of identify.
 >
-> **[5:25](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=325)** So let me just choose RecordType PM, and then I'm going to use SharePoint file operation.
+> **[5:25](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=325)** So let me just choose RecordType PM, and then I'm going to use [[SharePoint]] file operation.
 >
 > **[5:31](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=331)** I can press enter.
 >
@@ -5080,9 +5045,9 @@ created: 2026-05-02
 >
 > **[5:54](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=354)** Now that's all helpful that we can retrieve things in the mailbox, things in the audit log, but what about if we wanted to retrieve things about, uses that have logged in?
 >
-> **[6:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=364)** Well locally, what we're able to do here is connect to Azure Active Directory.
+> **[6:04](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=364)** Well locally, what we're able to do here is connect to [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[6:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=369)** So I'm going to say, get Azure AD audit signing logs and press enter, and of course straight away, it's going to say, "Well, actually you need to connect to Azure AD."
+> **[6:09](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=369)** So I'm going to say, get [[Microsoft Entra ID|Azure AD]] audit signing logs and press enter, and of course straight away, it's going to say, "Well, actually you need to connect to Azure AD."
 >
 > **[6:21](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=381)** As do credentials, I still have my creds object.
 >
@@ -5110,13 +5075,13 @@ created: 2026-05-02
 >
 > **[7:32](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=452)** I'm going to stop that again 'cause it has too much information that brings back, but it will go ahead and bring back all the results, and if we start scrolling through the various properties, we should see user principal name, which is my admin account that's been listed here.
 >
-> **[7:46](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=466)** So we can not only retrieve stuff from the regular audit log, the admin log, the mailbox, we can get them from Azure AD, then of course we haven't even touched on that, you can get them from Microsoft Teams or from all the other locations too.
+> **[7:46](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=466)** So we can not only retrieve stuff from the regular audit log, the admin log, the mailbox, we can get them from Azure AD, then of course we haven't even touched on that, you can get them from [[Microsoft Teams]] or from all the other locations too.
 >
 > **[7:59](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/how-to-review-audit-logs?u=76281980&t=479)** But you can easily retrieve values from any of the audit logs by just using PowerShell.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Search]] (16), [[Microsoft Entra ID|Azure ad]] (4), [[SharePoint]] (3), [[Microsoft 365]] (2), [[Powershell]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[SharePoint]] (3), [[Microsoft 365]] (2), [[Powershell]] (2), [[Microsoft Entra ID|Azure active directory]] (2)
 > **Cross-References:** go back to (4)
 > **UI Navigation:** scroll up (2), go to (1)
 > **Analogies:** for example (3)
@@ -5130,18 +5095,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you and take you through the basics of using PowerShell to manage Microsoft 365.
+> **[0:00](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=0)** - [Liam] I hope you've enjoyed this course as much as I've enjoyed being able to put it together for you and take you through the basics of using [[Powershell]] to manage [[Microsoft 365]].
 >
-> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=10)** I recommend that your next steps are download each of the PowerShell modules for each of the services, review the basic commands that are available, then perform some basic tasks using those PowerShell commands, and then lastly, start to learn about the Microsoft Graph PowerShell SDK, or software development kit, and the commands, as they will be some of the replacement going forward.
+> **[0:10](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=10)** I recommend that your next steps are download each of the PowerShell modules for each of the services, review the basic commands that are available, then perform some basic tasks using those PowerShell commands, and then lastly, start to learn about the [[Microsoft]] Graph PowerShell SDK, or [[Software Development]] kit, and the commands, as they will be some of the replacement going forward.
 >
 > **[0:34](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=34)** Regardless of where you go from here with PowerShell for Microsoft 365, I encourage you to dig deeper and deeper into how it can benefit you.
 >
-> **[0:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=42)** With Microsoft 365, the next logical step is to begin using some of the more advanced capabilities with PowerShell and bundle those with parts of Azure.
+> **[0:42](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=42)** With Microsoft 365, the next logical step is to begin using some of the more advanced capabilities with PowerShell and bundle those with parts of [[Microsoft Azure|Azure]].
 >
 > **[0:52](https://www.linkedin.com/learning/powershell-for-microsoft-365-administration/next-steps?u=76281980&t=52)** Most of all, enjoy the process of managing your Microsoft 365 tenant using PowerShell.
 >
@@ -5151,7 +5115,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft 365]] (5), next (2), [[Microsoft]] (1), [[Software Development]] (1)
+> **Frameworks & Libraries:** [[Powershell]] (8), [[Microsoft 365]] (5), [[Microsoft]] (1), [[Software Development]] (1), [[Microsoft Azure|Azure]] (1)
 > **Tools:** powershell (8)
 > **Env Vars:** sdk (1)
 > **Definitions:** is a  (1)

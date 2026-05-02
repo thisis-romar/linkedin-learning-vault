@@ -105,8 +105,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### A deep dive into LLM operations
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/a-deep-dive-into-llms-operations?u=76281980)
+#### [A deep dive into LLM operations](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/a-deep-dive-into-llms-operations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -130,16 +129,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (3), llm (2), ai (1), chatbot (1), application (1)
 > **Env Vars:** rag (3), llm (2)
 > **CLI Commands:** find (1)
 
-#### What are LLMs?
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980)
+#### [What are LLMs?](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=0)** Let's get started by exploring what large language models are and how they came about.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=0)** Let's get started by exploring what [[Large Language Models (LLM)|large language models]] are and how they came about.
 >
 > **[0:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=5)** In this video, we'll explore the genesis of these transformative technologies, how they first came about, and how they evolved through groundbreaking innovations as well as through wide-ranging applications.
 >
@@ -149,7 +146,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=35)** The development of the transformer model introduced in the pivotal paper, Attention is All You Need by Vaswani et al in 2017.
 >
-> **[0:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=45)** This paper marked a massive leap forward from previous sequence learning models like recurrent neural networks or RNNs, and long short-term memory networks, or LSTMs, which process data sequentially, but they often struggled with long-range dependencies in text.
+> **[0:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=45)** This paper marked a massive leap forward from previous sequence learning models like recurrent [[Neural Networks]] or RNNs, and long short-term memory networks, or LSTMs, which process data sequentially, but they often struggled with long-range dependencies in text.
 >
 > **[1:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=62)** What does that mean?
 >
@@ -167,7 +164,7 @@ created: 2026-05-02
 >
 > **[1:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=97)** But in reality, there could be many answers to the blank.
 >
-> **[1:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=101)** There's no reason why it couldn't be English, for example, or even a word like politely, which would also fit.
+> **[1:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=101)** There's no reason why it couldn't be English, for example, or even a [[Microsoft Word|word]] like politely, which would also fit.
 >
 > **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-llms?u=76281980&t=109)** In your mind, you would stack rank these in order of priority, and because you paid attention to the word, Ireland, when deciding which one to use, you put Irish or Gaelic at the top of your stack rank.
 >
@@ -205,12 +202,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), data (2), [[Large Language Models (LLM)|Large language models]] (1), ai (1), [[Neural Networks]] (1)
+> **Frameworks & Libraries:** [[Microsoft Word|Word]] (8), [[Large Language Models (LLM)|Large language models]] (1), [[Neural Networks]] (1)
 > **Analogies:** for example (2), picture (1)
 > **Definitions:** means that (1), is a  (1)
 
-#### What are transformers?
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980)
+#### [What are transformers?](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -222,7 +218,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=24)** GPT-3, with its 175 billion parameters, became a revolutionary example, showcasing an ability to generate text that is contextually relevant, coherent, and strikingly human-like.
 >
-> **[0:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=39)** In addition to generating texts, the GPT series of large language models also launched a whole new area of science, one that I like to call artificial understanding.
+> **[0:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=39)** In addition to generating texts, the GPT series of [[Large Language Models (LLM)|large language models]] also launched a whole new area of science, one that I like to call artificial understanding.
 >
 > **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=51)** With their attention-based mechanisms, they could artificially understand sentiment in texts and use that to help you shape thoughts or ideas.
 >
@@ -246,7 +242,7 @@ created: 2026-05-02
 >
 > **[1:58](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=118)** One other thing, and it's an easy habit to fall into.
 >
-> **[2:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=121)** LLMs and their associated apps like ChatGPT, are artificially intelligent applications trained using machine learning and other techniques.
+> **[2:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=121)** LLMs and their associated apps like [[ChatGPT]], are artificially intelligent applications trained using machine learning and other techniques.
 >
 > **[2:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=130)** But as a society, we have conflated AI with LLM and we've used the terms interchangeably.
 >
@@ -256,7 +252,7 @@ created: 2026-05-02
 >
 > **[2:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=143)** Addressing these challenges involves a combination of technological innovations and ethical guidelines.
 >
-> **[2:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=150)** Techniques like differential privacy, federated learning, and bias audits are being explored to mitigate bias and enhance privacy.
+> **[2:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=150)** Techniques like differential [[Privacy]], federated learning, and bias audits are being explored to mitigate bias and enhance privacy.
 >
 > **[2:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-are-transformers?u=76281980&t=159)** Moreover, improving the energy efficiency of these models and using more sustainable energy sources are critical steps towards reducing the ecological footprint incurred by large AI models such as LLMs, generative image, generative video, and so on.
 >
@@ -272,19 +268,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), ai (2), llm (2), [[Privacy]] (2), data (1)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Privacy]] (2), [[ChatGPT]] (1)
 > **Env Vars:** gpt (3), llm (2)
 > **CLI Commands:** find (1)
 > **Analogies:** such as (1)
 
-#### What is LLMOps?
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980)
+#### [What is LLMOps?](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=0)** Okay.
 >
-> **[0:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=1)** So to this point, we've explored the ideas behind large language models, including a little bit of history of them.
+> **[0:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=1)** So to this point, we've explored the ideas behind [[Large Language Models (LLM)|large language models]], including a little bit of history of them.
 >
 > **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=7)** Next, we're going to take a look at how to build and maintain applications on top of them.
 >
@@ -292,13 +287,13 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=21)** I do want to look at the full lifecycle of an application that you're going to build in this way, and this is called LLMOps, Large Language Model Operations, an essential discipline for managing and optimizing applications that use large language models, or LLMs, as their backbone.
 >
-> **[0:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=39)** Throughout this course, we're going to explore why continuous monitoring, updates, and strategic adjustments are imperative for maintaining the efficacy and reliability of applications built using them.
+> **[0:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=39)** Throughout this course, we're going to explore why [[Continuous Monitoring]], updates, and strategic adjustments are imperative for maintaining the efficacy and reliability of applications built using them.
 >
 > **[0:52](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=52)** Our discussion will not only broaden your understanding of LLMOps, but also equip you with advanced strategies to manage LLMs as dynamic components within your applications.
 >
-> **[1:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=64)** I also want to emphasize the importance of integrating LLMs as seamless background components that enhance functionality, without overshadowing the core business logic and user experience.
+> **[1:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=64)** I also want to emphasize the importance of integrating LLMs as seamless background components that enhance functionality, without overshadowing the core business logic and [[User Experience (UX)|user experience]].
 >
-> **[1:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=76)** A poorly architected application is one that has tight dependencies on a particular LLM, and which brings it close to your users with little constraints, whereas a well-architected application has the LLM fade into the background and is loosely coupled from the rest of your application.
+> **[1:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=76)** A poorly architected application is one that has tight dependencies on a particular LLM, and which brings it close to your users with little constraints, whereas a well-architected application has the LLM fade into the background and is loosely coupled from the [[Representational State Transfer (REST)|rest]] of your application.
 >
 > **[1:34](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=94)** This approach allows us to leverage their capabilities to understand, reason, and generate text, while keeping our primary business objectives and needs at the forefront.
 >
@@ -312,7 +307,7 @@ created: 2026-05-02
 >
 > **[2:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=135)** Number one, streamlining the user experience.
 >
-> **[2:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=139)** The old Google adage was focus on the user and all else will follow.
+> **[2:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=139)** The old [[Google]] adage was focus on the user and all else will follow.
 >
 > **[2:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=143)** And this is great advice.
 >
@@ -388,7 +383,7 @@ created: 2026-05-02
 >
 > **[7:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=431)** Indeed, as the industry grows towards agentic-style applications, modular architectures like this, I believe, will become commonplace, as there's no reason why a workflow shouldn't span multiple different models, choosing per-task experts as needed.
 >
-> **[7:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=447)** Next up, data security and compliance.
+> **[7:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=447)** Next up, [[Data Security]] and compliance.
 >
 > **[7:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/what-is-llmops?u=76281980&t=450)** You should ensure that data security and compliance are built into the interfaces and operations of LLMs.
 >
@@ -410,7 +405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (14), business (8), llm (8), [[User Experience (UX)|User experience]] (4), [[Large Language Models (LLM)|Large language models]] (3)
+> **Frameworks & Libraries:** [[User Experience (UX)|User experience]] (4), [[Large Language Models (LLM)|Large language models]] (3), [[Data Security]] (2), [[Representational State Transfer (REST)|Rest]] (1), [[Google]] (1)
 > **Env Vars:** llm (8), gpt (2)
 > **CLI Commands:** make (2)
 > **Analogies:** for example (2)
@@ -422,12 +417,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980)
+#### [Prompting](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=0)** Previously, you learned about large language models and began to understand how they are strong at completing text.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=0)** Previously, you learned about [[Large Language Models (LLM)|large language models]] and began to understand how they are strong at completing text.
 >
 > **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=7)** Naturally, the next thing to do is to give them text in order for them to complete it.
 >
@@ -509,7 +503,7 @@ created: 2026-05-02
 >
 > **[3:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=212)** Now, maybe that's what I saw, but I could swear the one that we encountered was a little bit more red in color.
 >
-> **[3:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=218)** ChatGPT's description said that Japanese folklore mentions that these creatures have shapeshifting abilities, so maybe.
+> **[3:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=218)** [[ChatGPT]]'s description said that Japanese folklore mentions that these creatures have shapeshifting abilities, so maybe.
 >
 > **[3:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=227)** Anyway, what did you try?
 >
@@ -551,7 +545,7 @@ created: 2026-05-02
 >
 > **[5:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=310)** Let's walk through an example of iterating and refining a prompt.
 >
-> **[5:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=314)** Suppose I ask, explain climate change.
+> **[5:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=314)** Suppose I ask, explain [[Climate Change]].
 >
 > **[5:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=317)** The response is very broad and it might not contain the details that I need.
 >
@@ -593,7 +587,7 @@ created: 2026-05-02
 >
 > **[6:54](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=414)** Pause the video and try these out for yourself to see the difference in output.
 >
-> **[7:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=422)** To recap, prompting is a powerful tool for interacting with artificially intelligent models like Gemini or GPT.
+> **[7:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=422)** To recap, prompting is a powerful tool for interacting with artificially intelligent models like [[Gemini]] or GPT.
 >
 > **[7:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/prompting?u=76281980&t=430)** By crafting clear, specific, contextual, and goal-oriented prompts, you can significantly improve the quality of your responses.
 >
@@ -601,7 +595,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (16), next (3), [[Large Language Models (LLM)|Large language models]] (2), ai (2), chatbot (2)
+> **Frameworks & Libraries:** [[Large Language Models (LLM)|Large language models]] (2), [[Climate Change]] (2), [[ChatGPT]] (1), [[Gemini]] (1)
 > **Analogies:** for example (3), think of it as (1), picture (1), for instance (1), just like (1)
 > **Definitions:** is a  (4), is an  (1)
 > **Cross-References:** in the next (1), next video (1)
@@ -609,14 +603,13 @@ created: 2026-05-02
 > **Env Vars:** gpt (1)
 > **Warnings:** be aware (1)
 
-#### Advanced prompting
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980)
+#### [Advanced prompting](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=0)** Let's now move beyond the basics to master some more advanced prompting techniques such as system prompts and memory.
 >
-> **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=7)** These capabilities are incredibly useful for anyone looking to build smarter applications that use the reasoning power of large language models.
+> **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=7)** These capabilities are incredibly useful for anyone looking to build smarter applications that use the reasoning power of [[Large Language Models (LLM)|large language models]].
 >
 > **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=15)** So buckle up as we explore these fascinating aspects of LLM technology.
 >
@@ -650,7 +643,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=111)** The AI will adopt the persona of a support agent using technical yet accessible language to assist the user effectively.
 >
-> **[2:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=120)** And here you can see my interaction with ChatGPT, where I gave it that type of command.
+> **[2:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=120)** And here you can see my interaction with [[ChatGPT]], where I gave it that type of command.
 >
 > **[2:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=125)** I start with the prompt, you are a friendly and informative tech support agent. You're an expert in internet connectivity.
 >
@@ -672,7 +665,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=161)** I try the steps that it gave me, but I give more specific information back.
 >
-> **[2:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=166)** For example, I can't see [google.com](https://google.com).
+> **[2:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=166)** For example, I can't see [[[Google]].com](https://google.com).
 >
 > **[2:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=169)** Unfazed, the friendly and helpful assistant doesn't berate me for not telling them that earlier and instead goes through some more steps.
 >
@@ -716,7 +709,7 @@ created: 2026-05-02
 >
 > **[4:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=296)** When I tried it, the response included explanations of different asset classes, the importance of diversification, and suggestions for low-risk investments like government bonds or blue chip stocks.
 >
-> **[5:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=309)** The language was professional and reassuring, aimed at building trust and educating me as its client.
+> **[5:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=309)** The language was professional and reassuring, aimed at [[Building Trust]] and educating me as its client.
 >
 > **[5:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=316)** These prompts had very simple descriptions, maybe only a sentence or two, but we got some really strong output from the LLM.
 >
@@ -728,7 +721,7 @@ created: 2026-05-02
 >
 > **[5:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=347)** But the confusion can come when you start using APIs instead of chatting directly with the LLM via something like ChatGPT.
 >
-> **[5:54](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=354)** For example, here's a simple call to the OpenAI API, and you can see that it uses the term role to denote either the LLM, which it calls the system, or the person accessing it, which it calls a user by role.
+> **[5:54](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=354)** For example, here's a simple call to the [[OpenAI API]], and you can see that it uses the term role to denote either the LLM, which it calls the system, or the person accessing it, which it calls a user by role.
 >
 > **[6:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=367)** And the system prompt that gets the system to act in a particular way, such as a customer service AI assistant, which we often say is its role, is the contents of the system role.
 >
@@ -736,7 +729,7 @@ created: 2026-05-02
 >
 > **[6:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=391)** Memory allows LLMs to recall previous parts of the conversation or even previous interactions, depending on the system's capabilities.
 >
-> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=401)** Think back to the example that I showed earlier where I was interacting with a customer support agent.
+> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=401)** Think back to the example that I showed earlier where I was interacting with a [[Customer Support]] agent.
 >
 > **[6:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/advanced-prompting?u=76281980&t=407)** Notice how I was able to continue the conversation naturally without having to retell it my details each time.
 >
@@ -750,7 +743,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (9), ai (5), prompt (5), [[ChatGPT]] (4), dns (3)
+> **Frameworks & Libraries:** [[ChatGPT]] (4), [[Google]] (2), [[Large Language Models (LLM)|Large language models]] (1), [[OpenAI API]] (1), [[Customer Support]] (1)
 > **Env Vars:** llm (9), dns (3), gpt (1), api (1)
 > **Analogies:** such as (4), for example (4), imagine (2), picture (1)
 > **URLs:** [google.com](https://google.com) (2)
@@ -758,8 +751,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Warnings:** be careful (1)
 
-#### Hosting an app
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980)
+#### [Hosting an app](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -767,7 +759,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=7)** We also discussed memory a bit, and we saw how models like GPT work well, because they have memory of the conversation and they can act on it.
 >
-> **[0:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=16)** Next, we're going to build our own ChatGPT-style application that's a specialist in helping people with public speaking and putting together talks.
+> **[0:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=16)** Next, we're going to build our own [[ChatGPT]]-style application that's a specialist in helping people with public speaking and putting together talks.
 >
 > **[0:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=25)** The application will look like this.
 >
@@ -801,7 +793,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=77)** And bit number one is an interesting introduction to these creatures, so I'll ask for it to elaborate on this.
 >
-> **[1:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=85)** And given that LLMs are experts, even my misspelled please is recognized and understood when I ask for a 200-word script.
+> **[1:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=85)** And given that LLMs are experts, even my misspelled please is recognized and understood when I ask for a 200-[[Microsoft Word|word]] script.
 >
 > **[1:34](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=94)** After thinking about it for a bit, I start to get a really interesting script to help me introduce an audience to wombats.
 >
@@ -817,21 +809,21 @@ created: 2026-05-02
 >
 > **[2:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=127)** And that's what we're going to cover.
 >
-> **[2:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=129)** First, be sure to have Node.js installed on your machine.
+> **[2:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=129)** First, be sure to have [[Node.js]] installed on your machine.
 >
 > **[2:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=133)** If you don't have it, you can find details at [nodejs.org](https://nodejs.org).
 >
 > **[2:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=137)** Make sure it's installed before continuing.
 >
-> **[2:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=139)** If you have Node installed, make a directory on your machine, change to it, and then install npm like this.
+> **[2:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=139)** If you have Node installed, make a directory on your machine, change to it, and then install [[npm]] like this.
 >
 > **[2:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=147)** After that, you're going to need to install some dependencies, so please use the following.
 >
-> **[2:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=153)** In the repo, I've provided three files: server.js, index.html, and app.js.
+> **[2:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=153)** In the repo, I've provided three files: server.js, index.[[HTML]], and app.js.
 >
 > **[2:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=159)** Now please make sure they're put in the directory properly, as you can see here.
 >
-> **[2:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=162)** Then add a .env file to your project root and add your OpenAI API key there as an environment variable.
+> **[2:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=162)** Then add a .env file to your project root and add your [[OpenAI API]] key there as an environment variable.
 >
 > **[2:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hosting-an-app?u=76281980&t=171)** You can get an API key from OpenAI.
 >
@@ -847,7 +839,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (3), application (3), api (3), node (2), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[ChatGPT]] (1), [[Microsoft Word|Word]] (1), [[Node.js]] (1), [[npm]] (1), [[HTML]] (1)
 > **CLI Commands:** node (3), make (3), find (1), npm (1)
 > **File Paths:** server.js (2), node.js (1), index.html (1), app.js (1)
 > **Env Vars:** api (2), gpt (1), llm (1)
@@ -856,11 +848,9 @@ created: 2026-05-02
 > **Prerequisites:** install (2)
 > **Ports:** :3000 (1)
 
-#### Create a chatbot
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-chatbot?u=76281980)
+#### [Create a chatbot](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-chatbot?u=76281980)
 
-#### LLM exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980)
+#### [LLM exercise](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -868,13 +858,13 @@ created: 2026-05-02
 >
 > **[0:03](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=3)** You can chat with it about doing talks, and you can see what will happen as you have a conversation with it.
 >
-> **[0:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=8)** But ultimately, we're trying to build something with proper MLOps, and the first step in that journey is logging.
+> **[0:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=8)** But ultimately, we're trying to build something with proper [[MLOps]], and the first step in that journey is logging.
 >
-> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=15)** This is a website which by definition can have multiple users, so you'll need to update the site with logging on a per-user basis, and the logs should be stored in JSON format.
+> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=15)** This is a website which by definition can have multiple users, so you'll need to update the site with logging on a per-user basis, and the logs should be stored in [[JSON]] format.
 >
 > **[0:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=26)** Now here's a hint.
 >
-> **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=27)** You can use an LLM like ChatGPT or Claude and pass it your working code if you want to see if it can update it.
+> **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=27)** You can use an LLM like [[ChatGPT]] or Claude and pass it your working code if you want to see if it can update it.
 >
 > **[0:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=33)** But for a real challenge, try to do it yourself.
 >
@@ -890,7 +880,7 @@ created: 2026-05-02
 >
 > **[1:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=67)** But of course, this is an LLM which is prone to hallucination, particularly with a very abstract prompt.
 >
-> **[1:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=73)** And it first started to give me details on red pandas and not an animal that I didn't specify that confused me into thinking that it was a red panda.
+> **[1:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=73)** And it first started to give me details on red [[Pandas (Software)|pandas]] and not an animal that I didn't specify that confused me into thinking that it was a red panda.
 >
 > **[1:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/llm-exercise?u=76281980&t=82)** So I tried again and I told it it's not a red panda, and I asked it to try again.
 >
@@ -946,15 +936,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (4), chatbot (4), [[JSON]] (2), prompt (2), [[MLOps]] (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[MLOps]] (1), [[ChatGPT]] (1), [[Pandas (Software)|Pandas]] (1)
 > **Env Vars:** llm (4), json (2)
 > **Definitions:** is a  (2), is an  (1)
 > **CLI Commands:** make (1)
 > **Tools:** command line (1)
 > **Prerequisites:** you'll need (1)
 
-#### Adding logging to your server
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980)
+#### [Adding logging to your server](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -974,7 +963,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=43)** And then const crypto = require('crypto').
 >
-> **[0:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=49)** Don't worry we're not doing blockchain or anything like that, we're just using those libraries to give us some unique identifiers.
+> **[0:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=49)** Don't worry we're not doing [[Blockchain]] or anything like that, we're just using those libraries to give us some unique identifiers.
 >
 > **[0:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=55)** So we now have the inputs that we need in order to be able to continue.
 >
@@ -1052,7 +1041,7 @@ created: 2026-05-02
 >
 > **[3:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=213)** And we're going to call the file the user ID that we've just created, this 16 hex bytes.
 >
-> **[3:40](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=220)** And we're going to use JSON.
+> **[3:40](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=220)** And we're going to use [[JSON]].
 >
 > **[3:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=221)** So it's going to look like that, ${userId}.json.
 >
@@ -1136,7 +1125,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=376)** So we just make sure every time we update the conversation history, we're adding it to the log so that we keep track of everything.
 >
-> **[6:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=382)** So we've now logged that conversation, and now we'll go back to all of the rest of our code, emitting the thinking, is false, emitting the chat response back to the server.
+> **[6:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=382)** So we've now logged that conversation, and now we'll go back to all of the [[Representational State Transfer (REST)|rest]] of our code, emitting the thinking, is false, emitting the chat response back to the server.
 >
 > **[6:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=392)** And I think we've pretty much done everything that we need, except we forgot a couple of things.
 >
@@ -1160,7 +1149,7 @@ created: 2026-05-02
 >
 > **[7:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=435)** And now I'm going to say node server.js.
 >
-> **[7:18](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=438)** And if node had previously been run on here and things like express were missing, you will see like it's going to ask you for express, but you can just npm install them.
+> **[7:18](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=438)** And if node had previously been run on here and things like express were missing, you will see like it's going to ask you for express, but you can just [[npm]] install them.
 >
 > **[7:28](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=448)** But you see, now look what has happened.
 >
@@ -1192,7 +1181,7 @@ created: 2026-05-02
 >
 > **[8:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=511)** I said about to instead of about.
 >
-> **[8:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=513)** But that's okay because ChatGPT can figure it out.
+> **[8:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=513)** But that's okay because [[ChatGPT]] can figure it out.
 >
 > **[8:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/adding-logging-to-your-server?u=76281980&t=516)** And guess what?
 >
@@ -1230,7 +1219,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (6), express (3), prompt (2), node (2), [[Blockchain]] (1)
+> **Frameworks & Libraries:** [[JSON]] (6), [[Blockchain]] (1), [[Representational State Transfer (REST)|Rest]] (1), [[npm]] (1), [[ChatGPT]] (1)
 > **Code Identifiers:** logdir (4), logfile (2), userid (2), randombytes (1), tostring (1)
 > **CLI Commands:** make (7), node (2), npm (1)
 > **Env Vars:** json (5)
@@ -1244,8 +1233,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Coding for logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980)
+#### [Coding for logging](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1253,17 +1241,17 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=5)** We explored some of the ideas of LLMOps, namely, how you can have a process of continually improving your app from user feedback.
 >
-> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=15)** In your last exercise, you took a simple chat app written in Node.js and you added some code to log all the conversations between the user and the chatbot.
+> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=15)** In your last exercise, you took a simple chat app written in [[Node.js]] and you added some code to log all the conversations between the user and the chatbot.
 >
 > **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=24)** I'd like to drill down into that so we can see what it looks like to create a logging system.
 >
 > **[0:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=30)** We'll look in detail at the server.js file, so make sure you have a copy of it on hand.
 >
-> **[0:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=35)** It is available in the GitHub repo for this course.
+> **[0:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=35)** It is available in the [[GitHub]] repo for this course.
 >
 > **[0:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=38)** Now this is the back end for the chat application.
 >
-> **[0:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=41)** The front end is the HTML code that contains JavaScript code that manages the user interface, rendering and styling the chat messages and capturing the user's input.
+> **[0:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=41)** The front end is the [[HTML]] code that contains [[JavaScript]] code that manages the user interface, rendering and styling the chat messages and capturing the user's input.
 >
 > **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=51)** And you can find that in the download, too.
 >
@@ -1301,7 +1289,7 @@ created: 2026-05-02
 >
 > **[2:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=158)** The second part of this logging will be this helper function, and it writes out the logs.
 >
-> **[2:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=163)** And as you can see here, how it works is that it creates a JSON file with the user ID and it writes to that.
+> **[2:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=163)** And as you can see here, how it works is that it creates a [[JSON]] file with the user ID and it writes to that.
 >
 > **[2:50](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=170)** So after using this chatbot for a while, there are going to be a number of users and they'll have a lot of data about their chats.
 >
@@ -1309,7 +1297,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=179)** But before we get there, I want you to see how the chat application works and where the logging will come from.
 >
-> **[3:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=185)** Let's start with how a conversation between a user and a chatbot like ChatGPT will work.
+> **[3:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=185)** Let's start with how a conversation between a user and a chatbot like [[ChatGPT]] will work.
 >
 > **[3:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=191)** Your app actually does exactly the same.
 >
@@ -1329,7 +1317,7 @@ created: 2026-05-02
 >
 > **[4:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=247)** All they are from this perspective is text that's injected into the conversation before it begins.
 >
-> **[4:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=253)** So the chatbot has that, along with the rest of the conversation as the data that it can reason across.
+> **[4:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=253)** So the chatbot has that, along with the [[Representational State Transfer (REST)|rest]] of the conversation as the data that it can reason across.
 >
 > **[4:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=260)** So let's take a look at the code for all of this.
 >
@@ -1367,7 +1355,7 @@ created: 2026-05-02
 >
 > **[5:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=355)** So I'm going to break it down little by little.
 >
-> **[5:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=357)** First of all, when chatting with an LLM, remember that LLMs predict the likely next tokens for a conversation.
+> **[5:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=357)** First of all, when chatting with an LLM, remember that LLMs predict the likely next [[Tokens]] for a conversation.
 >
 > **[6:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=364)** Thus, it uses the term completion.
 >
@@ -1381,7 +1369,7 @@ created: 2026-05-02
 >
 > **[6:29](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=389)** Note that the user message was pushed to the conversation history a little earlier.
 >
-> **[6:34](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=394)** When the OpenAI API returns a chat completion, you can then get a response like this and push that to the conversation history so that everything, the system prompt, every user message, and every assistant message is stored in the history.
+> **[6:34](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=394)** When the [[OpenAI API]] returns a chat completion, you can then get a response like this and push that to the conversation history so that everything, the system prompt, every user message, and every assistant message is stored in the history.
 >
 > **[6:50](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/coding-for-logging?u=76281980&t=410)** And do keep note that the role here is set to assistant.
 >
@@ -1401,7 +1389,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (8), chatbot (6), application (5), next (5), prompt (3)
+> **Frameworks & Libraries:** [[Node.js]] (1), [[GitHub]] (1), [[HTML]] (1), [[JavaScript]] (1), [[JSON]] (1)
 > **Env Vars:** llm (8), html (1), gpt (1), pii (1), json (1)
 > **CLI Commands:** make (2), node (1), find (1)
 > **Warnings:** note that (4)
@@ -1410,8 +1398,7 @@ created: 2026-05-02
 > **File Paths:** node.js (1), server.js (1)
 > **URLs:** [http://localhost:3000](http://localhost:3000) (1)
 
-#### Exploring the logging system
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980)
+#### [Exploring the logging system](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1427,7 +1414,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=23)** It's thinking.
 >
-> **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=24)** And while that thinking message is displayed, we're in that asynchronous loop where it's the Node.js server is calling the OpenAI back end to get the completion.
+> **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=24)** And while that thinking message is displayed, we're in that asynchronous loop where it's the [[Node.js]] server is calling the OpenAI back end to get the completion.
 >
 > **[0:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=32)** It sends it back to us.
 >
@@ -1437,7 +1424,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=36)** Even things like, hey, voice modulation, managing nerves, that's getting pretty advanced, pretty cool.
 >
-> **[0:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=42)** And I'll say, okay, can you turn this into a 200-word script that I can use as a starting point?
+> **[0:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=42)** And I'll say, okay, can you turn this into a 200-[[Microsoft Word|word]] script that I can use as a starting point?
 >
 > **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=51)** Something like that.
 >
@@ -1473,7 +1460,7 @@ created: 2026-05-02
 >
 > **[2:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=128)** It's oh, unfortunately, this one has hallucinated because there is no character called Connor.
 >
-> **[2:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=134)** We'll be exploring reinforcement learning with human feedback in Chapter 2.
+> **[2:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=134)** We'll be exploring [[Reinforcement Learning]] with human feedback in Chapter 2.
 >
 > **[2:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=139)** And here would be a great example where we can say this is bad because we, unfortunately, have a hallucination going on here.
 >
@@ -1523,11 +1510,11 @@ created: 2026-05-02
 >
 > **[4:18](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=258)** So with that, thank you.
 >
-> **[4:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=260)** Have fun, and let's move on with the rest of the course.
+> **[4:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/exploring-the-logging-system?u=76281980&t=260)** Have fun, and let's move on with the [[Representational State Transfer (REST)|rest]] of the course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (6), chatbot (2), next (2), [[Reinforcement Learning]] (2), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[Node.js]] (1), [[Microsoft Word|Word]] (1), [[Representational State Transfer (REST)|Rest]] (1)
 > **Env Vars:** rag (6)
 > **Cross-References:** in the next (2), in the last (1), go back to (1)
 > **Analogies:** it's like (3), for example (1)
@@ -1535,8 +1522,7 @@ created: 2026-05-02
 > **CLI Commands:** node (1)
 > **Prerequisites:** before we start (1)
 
-#### RLHF and user feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980)
+#### [RLHF and user feedback](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1546,7 +1532,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=11)** Ultimately, the success of your model depends on whether people like using it.
 >
-> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=15)** And this process is typically called reinforcement learning through human feedback or RLHF for short.
+> **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=15)** And this process is typically called [[Reinforcement Learning]] through human feedback or RLHF for short.
 >
 > **[0:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=23)** It typically works a little like this.
 >
@@ -1558,7 +1544,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=37)** Wouldn't it be good if they could provide feedback here and that could trigger a different response, as well as sending a signal to the creators of the underlying LLM that that response wasn't so good, so when they retrain the model, they can improve it.
 >
-> **[0:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=53)** In this course, you're not training large language models, so doing that full RLHF is a bit beyond the scope of what we're doing.
+> **[0:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=53)** In this course, you're not training [[Large Language Models (LLM)|large language models]], so doing that full RLHF is a bit beyond the scope of what we're doing.
 >
 > **[1:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=60)** But what if you use different LLMs on the back end, and if signals from your users denoted that they didn't like one of them, then you could switch to the other.
 >
@@ -1566,7 +1552,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=73)** So this is how our chat app currently works.
 >
-> **[1:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=75)** It's a server app running on Node.js that can serve a number of clients.
+> **[1:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=75)** It's a server app running on [[Node.js]] that can serve a number of clients.
 >
 > **[1:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rlhf-and-user-feedback?u=76281980&t=80)** The assistant on the back end is done by a remote call to the OpenAI GPT API.
 >
@@ -1580,7 +1566,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** llm (2), api (2), application (1), feature (1), [[Reinforcement Learning]] (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (1), [[Large Language Models (LLM)|Large language models]] (1), [[Node.js]] (1)
 > **Env Vars:** llm (2), rlhf (2), api (2), gpt (2)
 > **Definitions:** is an  (1), is a  (1)
 > **File Paths:** node.js (1)
@@ -1589,8 +1575,7 @@ created: 2026-05-02
 > **UI Navigation:** switch to (1)
 > **Prerequisites:** you'll need (1)
 
-#### Challenge: Implementing RLHF and user feedback
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980)
+#### [Challenge: Implementing RLHF and user feedback](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1612,9 +1597,9 @@ created: 2026-05-02
 >
 > **[0:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=55)** I'll give you a hint, and here's some code that will go into your front end.
 >
-> **[0:58](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=58)** It will create an element in your HTML to contain your feedback buttons and render them on the page.
+> **[0:58](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=58)** It will create an element in your [[HTML]] to contain your feedback buttons and render them on the page.
 >
-> **[1:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=65)** Notably, when the button is clicked, the send feedback function will be called, and this should be a JavaScript function in your front end that uses socket communication to communicate with your back end.
+> **[1:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=65)** Notably, when the button is clicked, the send feedback function will be called, and this should be a [[JavaScript]] function in your front end that uses socket communication to communicate with your back end.
 >
 > **[1:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=77)** If you're not familiar with that, explore the index.
 >
@@ -1630,19 +1615,19 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=111)** In the first part of the challenge, you were asked to emit a new type of message for feedback, so you would have to write a socket.
 >
-> **[1:58](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=118)** on to capture that and take the appropriate behavior, such as getting a new message from the ChatGPT API.
+> **[1:58](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=118)** on to capture that and take the appropriate behavior, such as getting a new message from the [[ChatGPT]] API.
 >
 > **[2:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=126)** The third and final part of the challenge is also on the back end.
 >
 > **[2:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=131)** You've seen how to capture and log the messages that came from the user and the back-end assistant, but now you should also log the user's feedback so that you have a log for when they press good, neutral, or bad.
 >
-> **[2:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=144)** I put the starter code in the GitHub repo for you, so take some time to try it all out and see how far you can go.
+> **[2:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=144)** I put the starter code in the [[GitHub]] repo for you, so take some time to try it all out and see how far you can go.
 >
 > **[2:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-implementing-rlhf-and-user-feedback?u=76281980&t=150)** If you want to know what the finished app will look like, I'll show you that in the next video.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), [[HTML]] (2), api (2), [[JavaScript]] (1), [[ChatGPT]] (1)
+> **Frameworks & Libraries:** [[HTML]] (2), [[JavaScript]] (1), [[ChatGPT]] (1), [[GitHub]] (1)
 > **Env Vars:** api (2), html (1)
 > **Cross-References:** as we saw (1), in the next (1)
 > **Exercise Files:** starter code (1), github repo (1)
@@ -1651,8 +1636,7 @@ created: 2026-05-02
 > **Tools:** github (1)
 > **Warnings:** note that (1)
 
-#### Demonstrating the ops project completed
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980)
+#### [Demonstrating the ops project completed](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1678,7 +1662,7 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=43)** So it goes into the thinking cycle and it will give me back a different answer because I didn't really like this one.
 >
-> **[0:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=49)** So again, we're beginning to get the details here for feedback from a human so that we can have that reinforcement learning from human feedback.
+> **[0:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=49)** So again, we're beginning to get the details here for feedback from a human so that we can have that [[Reinforcement Learning]] from human feedback.
 >
 > **[0:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=57)** And we'll say, you know what?
 >
@@ -1712,7 +1696,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=109)** This was the one that we considered good.
 >
-> **[1:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=111)** And we can look through and we can see all of the JSON that we have, bad, good, bad feedback, those type of things, so that we're keeping that log and we've built this admin front end for you to see it.
+> **[1:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=111)** And we can look through and we can see all of the [[JSON]] that we have, bad, good, bad feedback, those type of things, so that we're keeping that log and we've built this admin front end for you to see it.
 >
 > **[2:03](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-ops-project-completed?u=76281980&t=123)** And if I go back to the explorer for a second, then within our directory as well as our logs, we now have these feedback logs.
 >
@@ -1726,13 +1710,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** chatbot (2), [[Reinforcement Learning]] (2), [[JSON]] (2), data (1), application (1)
+> **Frameworks & Libraries:** [[Reinforcement Learning]] (2), [[JSON]] (2)
 > **Env Vars:** json (2)
 > **Analogies:** for example (2)
 > **Cross-References:** go back to (1)
 
-#### Solution: Completing an ops project
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980)
+#### [Solution: Completing an ops project](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1824,7 +1807,7 @@ created: 2026-05-02
 >
 > **[4:03](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980&t=243)** It then checks to see if the feedback logs directory exists and creates it if it doesn't.
 >
-> **[4:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980&t=250)** Next, it will create the log file and this will be the user ID followed by feedback.json because we track feedback by user.
+> **[4:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980&t=250)** Next, it will create the log file and this will be the user ID followed by feedback.[[JSON]] because we track feedback by user.
 >
 > **[4:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-completing-an-ops-project?u=76281980&t=259)** It then creates a structure with all of that data plus a timestamp.
 >
@@ -1848,20 +1831,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (2), [[JSON]] (1)
+> **Frameworks & Libraries:** [[JSON]] (1)
 > **CLI Commands:** find (2)
 > **File Paths:** feedback.json (1)
 > **Code Identifiers:** sendfeedback (1)
 > **Prerequisites:** you'll need (1)
 
-#### Demonstrating the code for the ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980)
+#### [Demonstrating the code for the ops](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=0)** So how was this implemented?
 >
-> **[0:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=2)** All righty, so let's start by looking at our web page, the index.html page.
+> **[0:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=2)** All righty, so let's start by looking at our web page, the index.[[HTML]] page.
 >
 > **[0:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=8)** And if you remember, on that index.
 >
@@ -2077,7 +2059,7 @@ created: 2026-05-02
 >
 > **[7:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=476)** We have our new clients and our client is going to be rendering the good, bad, or neutral buttons.
 >
-> **[8:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=481)** And when we press one of those buttons, the feedback is going to be sent to our back end Node.js server.
+> **[8:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=481)** And when we press one of those buttons, the feedback is going to be sent to our back end [[Node.js]] server.
 >
 > **[8:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=486)** If it was bad, that would trigger a new chat completion.
 >
@@ -2093,7 +2075,7 @@ created: 2026-05-02
 >
 > **[8:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=526)** So the changes will be to accept the good, bad, or neutral feedback, as well as giving us that little administrative interface so we could actually explore the logs.
 >
-> **[8:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=535)** So in order to do this, one of the first things I need to do is that those logs were using JSON.
+> **[8:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=535)** So in order to do this, one of the first things I need to do is that those logs were using [[JSON]].
 >
 > **[9:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=540)** So I'm just going to tell my server to use JSON by saying app.use(express.json()) here, just to make sure that we have JSON running.
 >
@@ -2281,7 +2263,7 @@ created: 2026-05-02
 >
 > **[16:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=987)** So that's all of the code to be able to handle that user feedback.
 >
-> **[16:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=991)** Now if you look at the code that I've put on the GitHub for you, there's some more code in here that will actually handle the administrative interface.
+> **[16:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=991)** Now if you look at the code that I've put on the [[GitHub]] for you, there's some more code in here that will actually handle the administrative interface.
 >
 > **[16:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=999)** I've put that in there as a stretch goal for you to see if you can implement that admin interface that reads the files from the feedback.
 >
@@ -2293,11 +2275,11 @@ created: 2026-05-02
 >
 > **[17:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=1020)** If not, all of the code is in the GitHub for you to be able to try it out for yourself.
 >
-> **[17:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=1025)** And now you've just taken the first steps on the path to having reinforcement learning with human feedback. Thank you.
+> **[17:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstrating-the-code-for-the-ops?u=76281980&t=1025)** And now you've just taken the first steps on the path to having [[Reinforcement Learning]] with human feedback. Thank you.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), data (6), [[HTML]] (4), next (4), ai (3)
+> **Frameworks & Libraries:** [[JSON]] (8), [[HTML]] (4), [[Node.js]] (2), [[GitHub]] (2)
 > **Code Identifiers:** addmessage (2), feedback_admin (2), feedbacklog (2), tolowercase (1), sendfile (1)
 > **CLI Commands:** find (4), make (3), node (2)
 > **Env Vars:** json (6), html (1), utf (1)
@@ -2311,18 +2293,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Retrieval augmented generation (RAG)
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980)
+#### [Retrieval augmented generation (RAG)](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=0)** Welcome back to our LLMOps course.
 >
-> **[0:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=2)** In chapters one and two, we built a chatbot using Node.js and OpenAI APIs, whose job it was to help you be a better public speaker.
+> **[0:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=2)** In chapters one and two, we built a chatbot using [[Node.js]] and OpenAI APIs, whose job it was to help you be a better public speaker.
 >
-> **[0:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=11)** We explored logging and the basics of how to capture data for reinforcement learning through human feedback, or RLHF.
+> **[0:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=11)** We explored logging and the basics of how to capture data for [[Reinforcement Learning]] through human feedback, or RLHF.
 >
-> **[0:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=19)** And while you're not going to retrain the underlying models the way the folks at OpenAI or Google may, by capturing that data, you are in a position to make informed choices about how to better serve your customers.
+> **[0:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=19)** And while you're not going to retrain the underlying models the way the folks at OpenAI or [[Google]] may, by capturing that data, you are in a position to make informed choices about how to better serve your customers.
 >
 > **[0:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=32)** In a simple chatbot like that one, it might be to change the underlying model or the model version that you're using and testing further feedback, or it could be that you would want to rewrite your system prompt and test different ones against the feedback that your users give.
 >
@@ -2330,7 +2311,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=56)** To do that, we'll dive into an exciting technique called retrieval augmented generation, or RAG for short.
 >
-> **[1:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=64)** We'll also look at how you can implement RAG using Node.js, LangChain, and Chroma.
+> **[1:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=64)** We'll also look at how you can implement RAG using Node.js, [[LangChain]], and [[ChromaDB|Chroma]].
 >
 > **[1:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=69)** We'll cover the fundamentals of RAG, its benefits, and the high-level steps to build a RAG system.
 >
@@ -2338,13 +2319,13 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=84)** But before we start, let's just explain what RAG actually is.
 >
-> **[1:28](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=88)** It's a powerful technique that combines the strengths of large language models with external knowledge retrieval.
+> **[1:28](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=88)** It's a powerful technique that combines the strengths of [[Large Language Models (LLM)|large language models]] with external knowledge retrieval.
 >
 > **[1:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=95)** So let's break down how it works.
 >
 > **[1:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=97)** First, we'll create a knowledge base of information that we want our system to access.
 >
-> **[1:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=102)** And this could be anything from documentation and articles to entire books or databases.
+> **[1:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=102)** And this could be anything from documentation and articles to entire books or [[Databases]].
 >
 > **[1:48](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=108)** When the user asks a question, the system processes it to vectorize the contents of the user's query.
 >
@@ -2358,7 +2339,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=152)** For the purposes of this course, in this video, we're going to take a look at the text of a novel that I wrote over ten years ago.
 >
-> **[2:40](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=160)** Shortly after publication, the publisher folded, and as a result, the novel wasn't widely distributed, and that means it wasn't used in the training set for GPT, Gemini, Claude, or any other large language models.
+> **[2:40](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=160)** Shortly after publication, the publisher folded, and as a result, the novel wasn't widely distributed, and that means it wasn't used in the training set for GPT, [[Gemini]], Claude, or any other large language models.
 >
 > **[2:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=173)** So if I were to ask these models about characters or circumstances in the book, they'd have no idea.
 >
@@ -2396,7 +2377,7 @@ created: 2026-05-02
 >
 > **[4:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=260)** Well, we're going to go through that step by step from a high level, and in later videos, we'll implement this.
 >
-> **[4:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=266)** The first step is data ingestion.
+> **[4:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=266)** The first step is [[Data Ingestion]].
 >
 > **[4:29](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=269)** And that's taking your data and getting it ready to store.
 >
@@ -2442,7 +2423,7 @@ created: 2026-05-02
 >
 > **[6:44](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=404)** This involves combining the user's original question with the most relevant retrieved information, and we'll discuss strategies for effectively integrating this context without overwhelming the language model.
 >
-> **[6:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=417)** We'll then use LangChain to seamlessly integrate with language models like GPT-3.5 or GPT-4.
+> **[6:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=417)** We'll then use LangChain to seamlessly integrate with language models like GPT-3.5 or [[GPT-4]].
 >
 > **[7:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=424)** LangChain provides a very convenient abstraction layer that simplifies working with different language models.
 >
@@ -2456,7 +2437,7 @@ created: 2026-05-02
 >
 > **[7:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=465)** From there, we're going to build out each component of the RAG system, integrating it with our existing chatbot application.
 >
-> **[7:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=473)** By the end of this chapter, you'll have a powerful knowledge-augmented chatbot that combines the flexibility of large language models with the precision of information retrieval.
+> **[7:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=473)** By the end of this chapter, you'll have a powerful knowledge-augmented chatbot that combines the flexibility of large language models with the precision of [[Information Retrieval]].
 >
 > **[8:03](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/retrieval-augmented-generation?u=76281980&t=483)** So get ready to take your skills to the next level with retrieval augmented generation.
 >
@@ -2466,7 +2447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (16), [[ChromaDB|Chroma]] (7), [[Search]] (7), data (6), chatbot (5)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (7), [[LangChain]] (3), [[Large Language Models (LLM)|Large language models]] (3), [[Node.js]] (2), [[Google]] (1)
 > **Env Vars:** rag (16), gpt (3), llm (3), pdf (3), rlhf (1)
 > **CLI Commands:** node (2), make (2), find (2)
 > **Analogies:** for example (1), similar to (1), such as (1)
@@ -2475,8 +2456,7 @@ created: 2026-05-02
 > **Versions:** 3.5 (1)
 > **Cross-References:** next video (1)
 
-#### Installing and setting up a VectorDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980)
+#### [Installing and setting up a VectorDB](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2484,15 +2464,15 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=6)** That relied heavily on a vector database to help you find things that were similar to your query.
 >
-> **[0:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=12)** In this video, I'm going to show you how to set up and use a vector DB called Chroma DB.
+> **[0:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=12)** In this video, I'm going to show you how to set up and use a vector DB called [[ChromaDB|Chroma]] DB.
 >
 > **[0:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=17)** Before we start, let's briefly discuss what Chroma DB is.
 >
 > **[0:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=21)** Chroma DB is an open-source embedding database that allows you to store and query vector embeddings efficiently.
 >
-> **[0:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=30)** It's particularly useful for semantic search, recommendation systems, and other AI applications that rely on finding similarities between data points in high-dimensional spaces.
+> **[0:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=30)** It's particularly useful for [[Semantic Search]], recommendation systems, and other AI applications that rely on finding similarities between data points in high-dimensional spaces.
 >
-> **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=43)** We'll begin by installing Chroma DB, and I assume that you have a Python environment with pip.
+> **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=43)** We'll begin by installing Chroma DB, and I assume that you have a [[Python (Programming Language)|Python]] environment with pip.
 >
 > **[0:48](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=48)** If not, please visit [python.org](https://python.org) for details.
 >
@@ -2512,7 +2492,7 @@ created: 2026-05-02
 >
 > **[1:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=92)** Axios gives you the framework for communicating over HTTP with the server, and UUID gives you the ability to create and use GUIDs, which Chroma DB uses as an identifier.
 >
-> **[1:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=105)** All right, now it's time to move over into writing JavaScript code in Node.
+> **[1:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=105)** All right, now it's time to move over into writing [[JavaScript]] code in Node.
 >
 > **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=109)** We're going to store some string data in the database.
 >
@@ -2520,7 +2500,7 @@ created: 2026-05-02
 >
 > **[1:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=116)** I'll take you through, step by step, what should be in this app.js.
 >
-> **[2:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=120)** Or, of course, you can clone the finished one from GitHub if you like.
+> **[2:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=120)** Or, of course, you can clone the finished one from [[GitHub]] if you like.
 >
 > **[2:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=124)** We'll start by importing our dependencies and point the API URL to the Chroma DB server that you've just installed.
 >
@@ -2530,7 +2510,7 @@ created: 2026-05-02
 >
 > **[2:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=147)** I'll go through the createCollection function.
 >
-> **[2:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=150)** It will receive a metadata parameter and then post that using axios to the endpoints.
+> **[2:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=150)** It will receive a [[Metadata]] parameter and then post that using axios to the endpoints.
 >
 > **[2:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=156)** And this will return the response data if it gets one, or an error if it doesn't.
 >
@@ -2564,7 +2544,7 @@ created: 2026-05-02
 >
 > **[3:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=216)** As you can see, id1 and id3 were output because their embedding vector was mathematically close to our input embedding.
 >
-> **[3:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=225)** And this is the base core functionality of how vector databases will work for you.
+> **[3:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=225)** And this is the base core functionality of how [[Vector Databases]] will work for you.
 >
 > **[3:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/installing-and-setting-up-a-vectordb?u=76281980&t=231)** Indeed the distance as shown here, and you can see that it's around 0.04 distance in two dimensions, means that it's very, very close.
 >
@@ -2580,7 +2560,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (12), data (7), database (5), node (5), next (4)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (12), [[Python (Programming Language)|Python]] (2), [[GitHub]] (2), [[Semantic Search]] (1), [[JavaScript]] (1)
 > **CLI Commands:** node (5), find (2), python (2), pip (1)
 > **Env Vars:** url (2), rag (1), http (1), uuid (1), api (1)
 > **Analogies:** similar to (3), for example (1)
@@ -2589,8 +2569,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1), before we start (1), install (1)
 > **Definitions:** is an  (1), means that (1)
 
-#### Create a VectorDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980)
+#### [Create a VectorDB](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2598,7 +2577,7 @@ created: 2026-05-02
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=0)** So before we begin, today, we're going to be working in the Chapter 3 directory.
 >
-> **[0:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=5)** And then within the Chapter 3 directory, you'll be using the first Chroma.
+> **[0:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=5)** And then within the Chapter 3 directory, you'll be using the first [[ChromaDB|Chroma]].
 >
 > **[0:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=10)** And within there, you'll see an end and a start.
 >
@@ -2608,7 +2587,7 @@ created: 2026-05-02
 >
 > **[0:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=21)** So the first thing that we want to do is to install the Chroma DB itself.
 >
-> **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=24)** And we install the Chroma DB in our Python environment.
+> **[0:24](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=24)** And we install the Chroma DB in our [[Python (Programming Language)|Python]] environment.
 >
 > **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=27)** And something that I always recommend when working in a Python environment like this is to create a virtual environment, because you're going to be installing some dependencies, and sometimes you can have dependency conflicts.
 >
@@ -2636,7 +2615,7 @@ created: 2026-05-02
 >
 > **[1:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=82)** I'm using a Mac at the moment.
 >
-> **[1:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=83)** So I activate it on Mac or on Linux or Unix-like environments using this command.
+> **[1:23](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=83)** So I activate it on Mac or on [[Linux]] or Unix-like environments using this command.
 >
 > **[1:28](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=88)** Source, the name of the environment, I called it llmenv/bin/activate.
 >
@@ -2646,9 +2625,9 @@ created: 2026-05-02
 >
 > **[1:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=106)** So I'm now working in that environment.
 >
-> **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=109)** And I can start installing things and using whatever I want without damaging or impacting the rest of the environment on this computer.
+> **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=109)** And I can start installing things and using whatever I want without damaging or impacting the [[Representational State Transfer (REST)|rest]] of the environment on this computer.
 >
-> **[1:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=116)** So now for Chroma DB, all I have to do is type pip install chromadb.
+> **[1:56](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=116)** So now for Chroma DB, all I have to do is type pip install [[ChromaDB]].
 >
 > **[2:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=122)** And that will take a moment to install.
 >
@@ -2742,7 +2721,7 @@ created: 2026-05-02
 >
 > **[5:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=312)** And then within that collection, we'll add the documents.
 >
-> **[5:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=315)** So I have an async function on my Node.js here called createCollection.
+> **[5:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=315)** So I have an async function on my [[Node.js]] here called createCollection.
 >
 > **[5:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=320)** So what this createCollection is going to do is first of all, it's going to give the collection a name.
 >
@@ -2752,7 +2731,7 @@ created: 2026-05-02
 >
 > **[5:29](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=329)** And I'm going to post to the URL of the Chroma DB /api/v1/collections.
 >
-> **[5:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=338)** Some stuff is going to be posted to that; my name and my metadata.
+> **[5:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=338)** Some stuff is going to be posted to that; my name and my [[Metadata]].
 >
 > **[5:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=342)** And I'm going to get a response back from that.
 >
@@ -2916,7 +2895,7 @@ created: 2026-05-02
 >
 > **[12:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=733)** And you're going to do this a lot as you're using Node.js.
 >
-> **[12:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=736)** But I can just say npm install axios.
+> **[12:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=736)** But I can just say [[npm]] install axios.
 >
 > **[12:20](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=740)** And give that a moment.
 >
@@ -2950,7 +2929,7 @@ created: 2026-05-02
 >
 > **[13:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=782)** Has an ID, has a name.
 >
-> **[13:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=784)** There's a whole bunch of configuration JSON here that's not important.
+> **[13:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=784)** There's a whole bunch of configuration [[JSON]] here that's not important.
 >
 > **[13:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/create-a-vectordb?u=76281980&t=787)** I'm going to just skip over.
 >
@@ -3000,7 +2979,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (24), database (11), data (10), [[Python (Programming Language)|Python]] (8), [[Metadata]] (7)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (24), [[Python (Programming Language)|Python]] (8), [[Metadata]] (7), [[Node.js]] (4), [[Representational State Transfer (REST)|Rest]] (2)
 > **CLI Commands:** python (8), node (8), find (6), pip (3), npm (2)
 > **Versions:** 1.1 (4), 3.2 (4), python 3 (2), 2.1 (2), 2.3 (2)
 > **File Paths:** index.js (6), node.js (4)
@@ -3009,16 +2988,15 @@ created: 2026-05-02
 > **Definitions:** is a  (6)
 > **Code Identifiers:** createcollection (4), collectionid (1)
 
-#### BYOD to a VectorDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980)
+#### [BYOD to a VectorDB](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=0)** Now that you've installed and set up a Chroma DB, let's explore what you're going to need to do to get your data into it.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=0)** Now that you've installed and set up a [[ChromaDB|Chroma]] DB, let's explore what you're going to need to do to get your data into it.
 >
 > **[0:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=7)** The core scenario for retrieval augmented generation is when an LLM may not have all of the facts about a particular scenario.
 >
-> **[0:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=14)** For example, you might have data that's private to you that wasn't used in a training set for a model like GPT or Gemini.
+> **[0:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=14)** For example, you might have data that's private to you that wasn't used in a training set for a model like GPT or [[Gemini]].
 >
 > **[0:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=21)** So if you want to have a chatbot that's an expert on that content, you would either have to train an entirely new model with it or use the reasoning powers of an LLM across that content.
 >
@@ -3048,7 +3026,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=125)** As the book is a PDF, the first step in this process will be to read a PDF.
 >
-> **[2:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=130)** In Python, the pypdf library has the support for this.
+> **[2:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=130)** In [[Python (Programming Language)|Python]], the pypdf library has the support for this.
 >
 > **[2:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=135)** PDFs are usually stored as pages.
 >
@@ -3064,7 +3042,7 @@ created: 2026-05-02
 >
 > **[3:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=189)** For example, if your prompt was something about Soo-Kyung, then of course, snippets from the book mentioning her would be retrieved, and these could include data about her hometown or other things that the LLM does understand, and which could then be used to inform the answer.
 >
-> **[3:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=207)** To split into chunks, you can use the recursive character text splitter library from LangChain.
+> **[3:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=207)** To split into chunks, you can use the recursive character text splitter library from [[LangChain]].
 >
 > **[3:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=213)** This simply splits the text into chunks like this, but it is important to understand the chunk size and chunk overlap properties.
 >
@@ -3080,7 +3058,7 @@ created: 2026-05-02
 >
 > **[4:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=249)** And the LangChain OpenAI library includes an embedding function that you can use.
 >
-> **[4:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=254)** For this, you'll need an OpenAI API key, and this code will iterate through each of your chunks and calculate the embeddings for them, returning it as a list.
+> **[4:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=254)** For this, you'll need an [[OpenAI API]] key, and this code will iterate through each of your chunks and calculate the embeddings for them, returning it as a list.
 >
 > **[4:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/byod-to-a-vectordb?u=76281980&t=265)** Now, simply all you need to do is store these embeddings in the database.
 >
@@ -3122,7 +3100,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (7), database (7), llm (6), prompt (6), [[ChromaDB|Chroma]] (4)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (4), [[LangChain]] (3), [[Gemini]] (2), [[Python (Programming Language)|Python]] (1), [[OpenAI API]] (1)
 > **Env Vars:** llm (6), pdf (4), rag (3), gpt (2), api (1)
 > **CLI Commands:** python (1), make (1), node (1)
 > **Analogies:** for example (2), such as (1)
@@ -3130,14 +3108,13 @@ created: 2026-05-02
 > **Warnings:** be careful (1), note that (1)
 > **Prerequisites:** set up (1), you'll need (1)
 
-#### VectorDB: Hands-on use case
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980)
+#### [VectorDB: Hands-on use case](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=0)** Okay.
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=0)** To get started with this section where we're going to be creating our first RAG by slicing up the PDF and putting it in the Chroma DB.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=0)** To get started with this section where we're going to be creating our first RAG by slicing up the PDF and putting it in the [[ChromaDB|Chroma]] DB.
 >
 > **[0:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=6)** Make sure you have your Chroma DB running, and we saw the steps for installing and running that in the previous video.
 >
@@ -3173,7 +3150,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=59)** And we're going to work on those now.
 >
-> **[1:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=61)** But one of the things to take note of is earlier on in this course, I showed you how to get your OpenAI API key, and to make that an environment variable, you're going to need that running, and you're going to need that working in order for this code to work, because it's going to read it from the environment like this.
+> **[1:01](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=61)** But one of the things to take note of is earlier on in this course, I showed you how to get your [[OpenAI API]] key, and to make that an environment variable, you're going to need that running, and you're going to need that working in order for this code to work, because it's going to read it from the environment like this.
 >
 > **[1:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=77)** Okay. So, first of all, let's take a look at what is it going to take to extract text from a PDF.
 >
@@ -3293,7 +3270,7 @@ created: 2026-05-02
 >
 > **[6:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=386)** I've written this code for you already.
 >
-> **[6:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=387)** It's very similar to what we just showed earlier when we were doing it in JavaScript.
+> **[6:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=387)** It's very similar to what we just showed earlier when we were doing it in [[JavaScript]].
 >
 > **[6:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=392)** But I've left a couple of pieces here that you need to fill in yourself.
 >
@@ -3355,7 +3332,7 @@ created: 2026-05-02
 >
 > **[9:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=552)** So I will save this out.
 >
-> **[9:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=554)** Now in order to be able to run it, all I have to do is say python create_db.py.
+> **[9:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=554)** Now in order to be able to run it, all I have to do is say [[Python (Programming Language)|python]] create_db.py.
 >
 > **[9:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=559)** Okay, we first get an error.
 >
@@ -3369,7 +3346,7 @@ created: 2026-05-02
 >
 > **[9:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=581)** Python create_db.py.
 >
-> **[9:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=583)** Now we get another error because we don't have the module LangChain installed.
+> **[9:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=583)** Now we get another error because we don't have the module [[LangChain]] installed.
 >
 > **[9:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=587)** Again, that's a dependency.
 >
@@ -3473,7 +3450,7 @@ created: 2026-05-02
 >
 > **[12:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=763)** But what you're interested in is browse data.
 >
-> **[12:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=765)** So if you select browse data and then drop down the table here, you can see the different databases that have been created.
+> **[12:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=765)** So if you select browse data and then drop down the table here, you can see the different [[Databases]] that have been created.
 >
 > **[12:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/vectordb-hands-on-use-case?u=76281980&t=771)** But the interesting part is in the full-text search.
 >
@@ -3505,7 +3482,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), [[ChromaDB|Chroma]] (7), next (4), [[Python (Programming Language)|Python]] (4), [[LangChain]] (3)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (7), [[Python (Programming Language)|Python]] (4), [[LangChain]] (3), [[OpenAI API]] (1), [[JavaScript]] (1)
 > **Env Vars:** pdf (21), api (3), rag (1)
 > **CLI Commands:** make (7), python (4), pip (2), find (1), sqlite3 (1)
 > **Code Identifiers:** create_db (5), openai_ef (1), process_pdf (1), langchain_openai (1), chunk_size (1)
@@ -3514,8 +3491,7 @@ created: 2026-05-02
 > **UI Navigation:** open the (2), go to (2), select the (1)
 > **Analogies:** for example (2), similar to (2), imagine (1)
 
-#### Querying the VectorDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980)
+#### [Querying the VectorDB](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -3525,13 +3501,13 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=16)** And we'll look at how to do that in this video.
 >
-> **[0:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=19)** And while the code we wrote to create the database was in Python, the code to read from it will be in JavaScript.
+> **[0:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=19)** And while the code we wrote to create the database was in [[Python (Programming Language)|Python]], the code to read from it will be in [[JavaScript]].
 >
-> **[0:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=26)** So we can use it in our Node.js-based chatbots that we built earlier.
+> **[0:26](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=26)** So we can use it in our [[Node.js]]-based chatbots that we built earlier.
 >
 > **[0:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=30)** First, let's think about the dependencies that our JavaScript code will need.
 >
-> **[0:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=35)** Given that we're using Chroma DB and the OpenAI embeddings, you'll use their dependencies like this.
+> **[0:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=35)** Given that we're using [[ChromaDB|Chroma]] DB and the OpenAI embeddings, you'll use their dependencies like this.
 >
 > **[0:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/querying-the-vectordb?u=76281980&t=41)** Next, you'll specify the embedding function.
 >
@@ -3597,7 +3573,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (9), [[ChromaDB|Chroma]] (6), prompt (4), [[JavaScript]] (3), [[Search]] (2)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (6), [[JavaScript]] (3), [[Python (Programming Language)|Python]] (1), [[Node.js]] (1)
 > **CLI Commands:** make (2), python (1), node (1), find (1)
 > **Env Vars:** pdf (2), llm (2), api (1)
 > **Analogies:** such as (1), picture (1)
@@ -3606,22 +3582,21 @@ created: 2026-05-02
 > **Ports:** port 8000 (1)
 > **Versions:** 0.35 (1)
 
-#### Demonstration: Querying the VectorDB
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980)
+#### [Demonstration: Querying the VectorDB](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=0)** So to this point, you've installed Chroma DB.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=0)** So to this point, you've installed [[ChromaDB|Chroma]] DB.
 >
 > **[0:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=2)** You've created your first Chroma DB set of data with hand-rolled embeddings that we created to test to see if we could search against those embeddings, and it worked.
 >
-> **[0:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=12)** And then you switched over to Python to create the create_db.
+> **[0:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=12)** And then you switched over to [[Python (Programming Language)|Python]] to create the create_db.
 >
 > **[0:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=15)** py file in the previous video.
 >
 > **[0:18](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=18)** And what that did was it took the book Space Cadets and it sliced it up into chunks, and then stored those chunks and their associated vectors in the Chroma DB database.
 >
-> **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=27)** For this video, now we're going to search that database using a Node.js back end where we're going to create a prompt which is maybe some details about one of the characters.
+> **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=27)** For this video, now we're going to search that database using a [[Node.js]] back end where we're going to create a prompt which is maybe some details about one of the characters.
 >
 > **[0:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=37)** And we're going to search the database for things that are syntactically similar to that prompt.
 >
@@ -3663,7 +3638,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=151)** It's the OpenAI embedding function.
 >
-> **[2:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=153)** I have to use my OpenAI API key.
+> **[2:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=153)** I have to use my [[OpenAI API]] key.
 >
 > **[2:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/demonstration-querying-the-vectordb?u=76281980&t=156)** Recall earlier that we stored that as an environment variable, and we created an openai.js file that would read that.
 >
@@ -3911,7 +3886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (14), prompt (9), [[ChromaDB|Chroma]] (8), [[Search]] (6), rag (5)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), [[Node.js]] (3), [[Python (Programming Language)|Python]] (2), [[OpenAI API]] (1)
 > **CLI Commands:** make (4), node (3), python (2), find (1)
 > **Analogies:** similar to (5), for example (4), imagine (1)
 > **File Paths:** node.js (3), search_db.js (3), requirements.txt (1), npm_install_instructions.txt (1), openai.js (1)
@@ -3920,12 +3895,11 @@ created: 2026-05-02
 > **Versions:** 127.0.0 (2), 0.35 (1), 0.37 (1), 0.39 (1)
 > **Cross-References:** previous video (1), we mentioned (1), next video (1)
 
-#### Extending your app with RAG
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980)
+#### [Extending your app with RAG](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=0)** Now that you've seen how to create a vector database in Chroma and you've sliced up the book, created embeddings, stored them, and written code to retrieve context-appropriate snippets, the next step is to update the chatbot that we've been working on to use these snippets.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=0)** Now that you've seen how to create a vector database in [[ChromaDB|Chroma]] and you've sliced up the book, created embeddings, stored them, and written code to retrieve context-appropriate snippets, the next step is to update the chatbot that we've been working on to use these snippets.
 >
 > **[0:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=16)** For the first step, let's revisit the architecture of the chatbot so we can see how we would update it with RAG.
 >
@@ -3937,7 +3911,7 @@ created: 2026-05-02
 >
 > **[0:44](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=44)** So all this stuff in the middle is the conversation history, which is maintained in the context window for your LLM.
 >
-> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=51)** And this is why LLMs with larger context windows are very valuable for complex tasks.
+> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=51)** And this is why LLMs with larger context [[Windows]] are very valuable for complex tasks.
 >
 > **[0:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-your-app-with-rag?u=76281980&t=57)** They can remember the very long conversations and refer back to pieces of them.
 >
@@ -4043,7 +4017,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), next (5), chatbot (5), rag (5), database (4)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (3), [[Windows]] (1)
 > **Env Vars:** rag (5), api (3), llm (3), pdf (1)
 > **Code Identifiers:** ragstring (2)
 > **CLI Commands:** find (1)
@@ -4051,12 +4025,11 @@ created: 2026-05-02
 > **Documentation:** the docs (1)
 > **Warnings:** note that (1)
 
-#### RAG: Showing it in action
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980)
+#### [RAG: Showing it in action](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=0)** Okay. So to this point, you've installed Chroma DB, you've created your first collection in Chroma DB with synthetic data and some synthetic embeddings.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=0)** Okay. So to this point, you've installed [[ChromaDB|Chroma]] DB, you've created your first collection in Chroma DB with synthetic data and some synthetic embeddings.
 >
 > **[0:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=8)** We then took it away from the synthetic data and started doing it with some real data by slicing up the book and storing that in Chroma DB.
 >
@@ -4070,7 +4043,7 @@ created: 2026-05-02
 >
 > **[0:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=47)** Now you see there's more files in here than we'd had previously, but the important ones we're going to be working on in this video is really the server.js.
 >
-> **[0:54](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=54)** And if you recall from earlier, that was our Node.js back end for our chatbot.
+> **[0:54](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=54)** And if you recall from earlier, that was our [[Node.js]] back end for our chatbot.
 >
 > **[0:59](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=59)** And we're going to update that instead of just being a pass-through of the user's query to actually do the RAGing.
 >
@@ -4104,7 +4077,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=125)** We're using the OpenAI embedding function.
 >
-> **[2:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=127)** We have our OpenAI API key.
+> **[2:07](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=127)** We have our [[OpenAI API]] key.
 >
 > **[2:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=129)** Remember that should be an environment variable.
 >
@@ -4176,7 +4149,7 @@ created: 2026-05-02
 >
 > **[5:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=302)** Okay. So what do we do next?
 >
-> **[5:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=305)** Well, if we scroll down and we look a little bit further, I've left this comment for you here in the chat message and recall from earlier that when the user sends from the client the HTML client for the chat, when it sends the message, the node server will receive that in this socket.on, and here's where we want to be able to say, well, we're retrieving our RAG in order to add that to our message that we're going to send to the back end.
+> **[5:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=305)** Well, if we scroll down and we look a little bit further, I've left this comment for you here in the chat message and recall from earlier that when the user sends from the client the [[HTML]] client for the chat, when it sends the message, the node server will receive that in this socket.on, and here's where we want to be able to say, well, we're retrieving our RAG in order to add that to our message that we're going to send to the back end.
 >
 > **[5:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=331)** So what's that going to look like?
 >
@@ -4204,9 +4177,9 @@ created: 2026-05-02
 >
 > **[6:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=399)** So this should say ragString.
 >
-> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=401)** And that way what the user typed, plus the stuff that came back from the database, is what's going to be sent to the ChatGPT completion API.
+> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=401)** And that way what the user typed, plus the stuff that came back from the database, is what's going to be sent to the [[ChatGPT]] completion API.
 >
-> **[6:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=411)** The rest of our server now is pretty much unchanged.
+> **[6:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=411)** The [[Representational State Transfer (REST)|rest]] of our server now is pretty much unchanged.
 >
 > **[6:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-showing-it-in-action?u=76281980&t=415)** Everything that we had written earlier to be able to create our server for the actual chatbot stays intact.
 >
@@ -4286,7 +4259,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (16), rag (11), database (7), data (4), chatbot (4)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (16), [[HTML]] (2), [[Node.js]] (1), [[OpenAI API]] (1), [[ChatGPT]] (1)
 > **Env Vars:** rag (10), gpt (6), api (2), html (2)
 > **CLI Commands:** make (5), node (3)
 > **File Paths:** server.js (4), node.js (1)
@@ -4295,8 +4268,7 @@ created: 2026-05-02
 > **Ports:** :8000 (1), port 3000 (1)
 > **UI Navigation:** go to (1), scroll down (1)
 
-#### Challenge: Complete RAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-complete-rag-application?u=76281980)
+#### [Challenge: Complete RAG application](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/challenge-complete-rag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4324,13 +4296,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (3), chatbot (1)
 > **Env Vars:** rag (3), pdf (3)
 > **CLI Commands:** find (3)
 > **Definitions:** is a  (1)
 
-#### Solution: Complete RAG application
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980)
+#### [Solution: Complete RAG application](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4370,7 +4340,7 @@ created: 2026-05-02
 >
 > **[1:34](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=94)** And in this case, I used the name Flatland in the collection, so that when I'm querying back to the database, I would be looking at Flatland.
 >
-> **[1:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=102)** And if we look at the database that was created after we had done that, I'm using the SQL Browser here.
+> **[1:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=102)** And if we look at the database that was created after we had done that, I'm using the [[SQL]] Browser here.
 >
 > **[1:47](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=107)** And again, when we look at the embedding full-text search, we can now see the text within Flatland.
 >
@@ -4414,7 +4384,7 @@ created: 2026-05-02
 >
 > **[3:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=201)** What's happening now is it's querying that database to find things that are similar.
 >
-> **[3:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=205)** It's adding them as the context, and then it's sending that back to the ChatGPT back end.
+> **[3:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=205)** It's adding them as the context, and then it's sending that back to the [[ChatGPT]] back end.
 >
 > **[3:29](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/solution-complete-rag-application?u=76281980&t=209)** And I deliberately chose this, not to say Flatland, because I wanted to see if the RAG would understand that the book is Flatland, and we can see that it is.
 >
@@ -4460,7 +4430,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (6), chatbot (3), rag (2), power (2), [[SQL]] (1)
+> **Frameworks & Libraries:** [[SQL]] (1), [[ChatGPT]] (1)
 > **Env Vars:** pdf (4), rag (2), sql (1), llm (1)
 > **CLI Commands:** find (2), make (1)
 > **Analogies:** for example (2)
@@ -4472,8 +4442,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Extending RAG with ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980)
+#### [Extending RAG with ops](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4493,7 +4462,7 @@ created: 2026-05-02
 >
 > **[0:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=49)** We'll start by revisiting logging, and we'll implement a much more robust logging mechanism than the simple files that we were writing out earlier.
 >
-> **[0:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=57)** This will include logging to the console for development and debugging, as well as maintaining long-term logs to better understand the behavior of our application. With Node.js, there's an excellent library called Morgan that you can use.
+> **[0:57](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=57)** This will include logging to the console for development and debugging, as well as maintaining long-term logs to better understand the behavior of our application. With [[Node.js]], there's an excellent library called Morgan that you can use.
 >
 > **[1:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=70)** I'll take you through setting it up and updating our server to do logging with it.
 >
@@ -4505,7 +4474,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=93)** And we'll use a technology called Prometheus and a Prometheus client for that.
 >
-> **[1:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=97)** Third, we'll look at versioning and version control, and we'll implement code that makes your application version-aware and allow you to maintain and update the version as you use the application.
+> **[1:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=97)** Third, we'll look at versioning and [[Version Control]], and we'll implement code that makes your application version-aware and allow you to maintain and update the version as you use the application.
 >
 > **[1:50](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/extending-rag-with-ops?u=76281980&t=110)** And we're going to achieve this using an API called SemVer.
 >
@@ -4517,27 +4486,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (5), chatbot (2), rag (2), [[Version Control]] (2), [[Debugging]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (2), [[Node.js]] (1)
 > **CLI Commands:** make (1), node (1), find (1)
 > **Env Vars:** rag (2), api (1)
 > **File Paths:** node.js (1)
 > **Definitions:** is a  (1)
 > **Analogies:** such as (1)
 
-#### Logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980)
+#### [Logging](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=0)** We're now going to roll up our sleeves and get hands-on in implementing three facets of good ops with our chatbot, and they are logging, metrics, and version control.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=0)** We're now going to roll up our sleeves and get hands-on in implementing three facets of good ops with our chatbot, and they are logging, metrics, and [[Version Control]].
 >
 > **[0:09](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=9)** I'll start with logging.
 >
 > **[0:11](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=11)** This will require you to have two dependencies.
 >
-> **[0:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=13)** The first is the Morgan libraries and you can just npm install that.
+> **[0:13](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=13)** The first is the Morgan libraries and you can just [[npm]] install that.
 >
-> **[0:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=17)** The second is to have a JavaScript file that configures how you aim to log.
+> **[0:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=17)** The second is to have a [[JavaScript]] file that configures how you aim to log.
 >
 > **[0:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=22)** If this file is called logger.
 >
@@ -4547,7 +4515,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=31)** So let's take a look at that file next.
 >
-> **[0:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=33)** You can get the full file from the GitHub repo for this course.
+> **[0:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=33)** You can get the full file from the [[GitHub]] repo for this course.
 >
 > **[0:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=36)** But here's the first half of the file.
 >
@@ -4563,7 +4531,7 @@ created: 2026-05-02
 >
 > **[1:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=62)** Instead of you needing to define lots of different handlers for different objects, Winston can just infer them and use that with splat.
 >
-> **[1:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=70)** Note that we also tell it to output in JSON format.
+> **[1:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=70)** Note that we also tell it to output in [[JSON]] format.
 >
 > **[1:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/logging?u=76281980&t=75)** We can then create the logger object.
 >
@@ -4639,7 +4607,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), chatbot (1), [[Version Control]] (1), [[npm]] (1), [[JavaScript]] (1)
+> **Frameworks & Libraries:** [[Version Control]] (1), [[npm]] (1), [[JavaScript]] (1), [[GitHub]] (1), [[JSON]] (1)
 > **CLI Commands:** npm (1), find (1)
 > **Env Vars:** json (1), rag (1)
 > **Analogies:** for example (2)
@@ -4648,14 +4616,13 @@ created: 2026-05-02
 > **Code Identifiers:** querychromadb (1)
 > **Cross-References:** go back to (1)
 
-#### Hands-on logging
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980)
+#### [Hands-on logging](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=0)** So to this point, we've now created the fully RAGable version of our application, our chatbot.
 >
-> **[0:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=6)** We were able to take a Chroma DB, take a book, slice it up, store it in the Chroma DB, and then change our chatbot to be able to search that for context that would add to our chat message so that we were getting great information back.
+> **[0:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=6)** We were able to take a [[ChromaDB|Chroma]] DB, take a book, slice it up, store it in the Chroma DB, and then change our chatbot to be able to search that for context that would add to our chat message so that we were getting great information back.
 >
 > **[0:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=19)** So now, as we move on in the app's journey, we've been looking at logging metrics and version management.
 >
@@ -4663,7 +4630,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=31)** This is going to be using Winston, and we're going to start by taking a look at the logger.js file that we spoke about in the slides and how to implement that in Winston.
 >
-> **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=43)** So if you're working from the start directory which we provided in the GitHub, your logger.js is going to look like this.
+> **[0:43](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=43)** So if you're working from the start directory which we provided in the [[GitHub]], your logger.js is going to look like this.
 >
 > **[0:50](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=50)** So I've done some of the environment for you, for example, showing what to do if it's in production, creating the stream object, and outputting it.
 >
@@ -4687,7 +4654,7 @@ created: 2026-05-02
 >
 > **[1:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=101)** The name-value pairs may be structured differently, but splat just takes that regardless and throws it all into an object that we can output.
 >
-> **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=109)** And then we want to output that and JSON.
+> **[1:49](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=109)** And then we want to output that and [[JSON]].
 >
 > **[1:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=111)** So I'm just going to say winston.format.json().
 >
@@ -4757,7 +4724,7 @@ created: 2026-05-02
 >
 > **[4:15](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=255)** So let's take a look at our server next and see how the server is going to use this, and use this for logging as we're doing various things within our application.
 >
-> **[4:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=265)** Okay. So here's our server.js which is our Node.js back end for our chat server.
+> **[4:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=265)** Okay. So here's our server.js which is our [[Node.js]] back end for our chat server.
 >
 > **[4:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-logging?u=76281980&t=271)** It's the same one that we've been using throughout the course.
 >
@@ -4919,7 +4886,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), rag (6), application (4), chatbot (4), [[JSON]] (3)
+> **Frameworks & Libraries:** [[ChromaDB|Chroma]] (8), [[JSON]] (3), [[GitHub]] (1), [[Node.js]] (1)
 > **Env Vars:** rag (5), json (2), put (1), message (1), api (1)
 > **File Paths:** logger.js (6), winston.format.json (1), server.js (1), node.js (1)
 > **Analogies:** for example (4), it's like (1), such as (1)
@@ -4928,8 +4895,7 @@ created: 2026-05-02
 > **Code Identifiers:** createlogger (1), ragqueryduration (1), resultstring (1)
 > **UI Navigation:** scroll down (3)
 
-#### Metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980)
+#### [Metrics](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -4945,7 +4911,7 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=27)** And then the server has tools that will allow you to view and report them.
 >
-> **[0:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=31)** We're just going to use the client in this course, and you can install it in Node.js as prom-client.
+> **[0:31](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=31)** We're just going to use the client in this course, and you can install it in [[Node.js]] as prom-client.
 >
 > **[0:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=38)** You'll then use it like this in a metrics.js file, which will be included in your chat server a little later.
 >
@@ -4967,7 +4933,7 @@ created: 2026-05-02
 >
 > **[1:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=96)** And you can define whatever you want, of course, here.
 >
-> **[1:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=99)** But in this case, I've put counters for calls to the OpenAI API and feedback submitted by my end users.
+> **[1:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=99)** But in this case, I've put counters for calls to the [[OpenAI API]] and feedback submitted by my end users.
 >
 > **[1:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=106)** Then, once you've created all of the different types of metric that you want to use, the next and final step is to register your metric function with the register that you created earlier, and then export the register along with all of those metric collection functions.
 >
@@ -5023,7 +4989,7 @@ created: 2026-05-02
 >
 > **[4:55](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=295)** And this is the endpoint HTTP localhost:3000/metrics, where many metrics and not just the ones you've explicitly defined are captured.
 >
-> **[5:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=305)** And if I zoom in on the histogram for the RAG, you can see the data captured in a short session.
+> **[5:05](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=305)** And if I [[Zoom]] in on the histogram for the RAG, you can see the data captured in a short session.
 >
 > **[5:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/metrics?u=76281980&t=310)** My average query duration was 3.6 seconds, for example.
 >
@@ -5033,7 +4999,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), rag (4), application (3), [[OpenAI API]] (3), [[Node.js]] (1)
+> **Frameworks & Libraries:** [[OpenAI API]] (3), [[Node.js]] (1), [[Zoom]] (1)
 > **Env Vars:** http (4), rag (4), api (3)
 > **Versions:** 0.1 (2), 0.3 (2), 0.5 (1), 3.6 (1)
 > **Analogies:** for example (5), such as (1)
@@ -5042,8 +5008,7 @@ created: 2026-05-02
 > **CLI Commands:** node (1)
 > **URLs:** [localhost:3000](https://localhost:3000) (1)
 
-#### Hands-on metrics
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980)
+#### [Hands-on metrics](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5107,7 +5072,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=152)** But again, it's up to you how you define those buckets and those bucket sizes.
 >
-> **[2:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=155)** And for Prometheus client, does the rest, which is really nice.
+> **[2:35](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=155)** And for Prometheus client, does the [[Representational State Transfer (REST)|rest]], which is really nice.
 >
 > **[2:39](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=159)** So that's it for us to to define the histogram for the Prometheus client for HTTP request.
 >
@@ -5125,7 +5090,7 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=192)** That type of thing.
 >
-> **[3:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=194)** The OpenAI API charges us money to use it, so sometimes we want to be able to see what it is that we're actually doing and how many times we're using it.
+> **[3:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=194)** The [[OpenAI API]] charges us money to use it, so sometimes we want to be able to see what it is that we're actually doing and how many times we're using it.
 >
 > **[3:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=202)** And maybe we want to consolidate how many times this application has called it against the bill that we actually get.
 >
@@ -5221,7 +5186,7 @@ created: 2026-05-02
 >
 > **[6:37](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=397)** Otherwise, we're going to put out an error and then we'll move on when we're done.
 >
-> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=401)** So this now is like within Node.js that we've plugged into its infrastructure for managing the HTTP request and response, measure the time between the two of them, and log that.
+> **[6:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=401)** So this now is like within [[Node.js]] that we've plugged into its infrastructure for managing the HTTP request and response, measure the time between the two of them, and log that.
 >
 > **[6:53](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=413)** And because that's been logged in a histogram, it'll be put into those different buckets so we can measure like how the app is being used across them.
 >
@@ -5275,7 +5240,7 @@ created: 2026-05-02
 >
 > **[9:33](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=573)** And as you look through the server code, you'll see all these different types of metrics that we've gathered.
 >
-> **[9:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=578)** Again, for the reinforcement learning with human feedback, that came in on the socket.on feedback.
+> **[9:38](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=578)** Again, for the [[Reinforcement Learning]] with human feedback, that came in on the socket.on feedback.
 >
 > **[9:44](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-metrics?u=76281980&t=584)** So we can see here that I'm just counting, increasing the count of feedback that we had here.
 >
@@ -5297,7 +5262,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** rag (10), application (3), [[OpenAI API]] (3), next (3), [[Representational State Transfer (REST)|Rest]] (2)
+> **Frameworks & Libraries:** [[OpenAI API]] (3), [[Representational State Transfer (REST)|Rest]] (2), [[Node.js]] (1), [[Reinforcement Learning]] (1)
 > **Env Vars:** rag (10), http (6), api (5), rlhf (2)
 > **Versions:** 0.1 (4), 0.5 (3), 0.3 (2), 0.7 (1)
 > **Analogies:** for example (6), such as (1)
@@ -5306,8 +5271,7 @@ created: 2026-05-02
 > **CLI Commands:** node (2), find (2), make (1)
 > **Cross-References:** as you saw (1), previous video (1), in the next (1)
 
-#### Version management
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980)
+#### [Version management](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5329,7 +5293,7 @@ created: 2026-05-02
 >
 > **[0:46](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980&t=46)** And to use this, you're going to create a new file and give it a meaningful name like version.js.
 >
-> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980&t=51)** This file will use a configuration file, maybe version.json to store the version number and metadata about any changes.
+> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980&t=51)** This file will use a configuration file, maybe version.[[JSON]] to store the version number and [[Metadata]] about any changes.
 >
 > **[0:59](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/version-management?u=76281980&t=59)** Version.js will export two functions, getCurrentVersion() and updateVersion(), which will read and write the version numbers as their name suggests, and your server.js will have endpoints to allow you to read that version or to set the version.
 >
@@ -5399,7 +5363,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (2), data (2), application (2), [[Metadata]] (1), hit (1)
+> **Frameworks & Libraries:** [[JSON]] (2), [[Metadata]] (1)
 > **Versions:** version 0 (2), 0.1.0 (2), version 1 (1), 0.1 (1), 1.0.2 (1)
 > **File Paths:** version.js (5), server.js (2), version.json (1)
 > **Code Identifiers:** updateversion (5), getcurrentversion (3)
@@ -5408,8 +5372,7 @@ created: 2026-05-02
 > **Best Practices:** you should always (1)
 > **Warnings:** note that (1)
 
-#### Hands-on version management
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980)
+#### [Hands-on version management](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5419,7 +5382,7 @@ created: 2026-05-02
 >
 > **[0:14](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=14)** The third part of extending this RAG application with ops is actually going to do versioning and to use SemVer to do version management.
 >
-> **[0:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=22)** As we saw on the slides with SemVer, the idea is that we have a JSON file that contains our version information, and it looks as simple as this.
+> **[0:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=22)** As we saw on the slides with SemVer, the idea is that we have a [[JSON]] file that contains our version information, and it looks as simple as this.
 >
 > **[0:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=30)** I'm starting my application at version 3 because if we think about it, our first chat application that didn't have RAG, and then we had a second chat application that did have RAG, and now we have a chat application that will have RAG plus logging plus metrics and version management.
 >
@@ -5435,7 +5398,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=59)** So make sure that we have const semver = require('semver').
 >
-> **[1:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=62)** This will be a dependency in Node.js that you'll need to install.
+> **[1:02](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=62)** This will be a dependency in [[Node.js]] that you'll need to install.
 >
 > **[1:06](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=66)** What we're going to do now with this one is provide these APIs to getCurrentVersion() and updateVersion().
 >
@@ -5747,13 +5710,13 @@ created: 2026-05-02
 >
 > **[13:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=801)** So that's pretty much it.
 >
-> **[13:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=802)** We've seen logs, we've seen metrics, and we've seen version control.
+> **[13:22](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=802)** We've seen logs, we've seen metrics, and we've seen [[Version Control]].
 >
 > **[13:27](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-version-management?u=76281980&t=807)** And they're all working within the application with endpoints where we can browse each of these.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (21), rag (9), [[JSON]] (9), next (5), management (2)
+> **Frameworks & Libraries:** [[JSON]] (9), [[Node.js]] (1), [[Version Control]] (1)
 > **Versions:** version 3 (11), 0.0 (5), 0.1.0 (3), 0.1 (3), 3.1.0 (2)
 > **Env Vars:** rag (9), json (6), http (5), post (4), api (1)
 > **Code Identifiers:** getcurrentversion (7), updateversion (4), newversion (1)
@@ -5762,12 +5725,11 @@ created: 2026-05-02
 > **Analogies:** for example (7)
 > **URLs:** [http://localhost:3000](http://localhost:3000) (1), [http://localhost:3000/version/update](http://localhost:3000/version/update) (1)
 
-#### RAG Ops: Updating the data
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980)
+#### [RAG Ops: Updating the data](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=0)** We've now explored some ops tools to help you continually improve your chatbot over time with logging metrics and version control.
+> **[0:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=0)** We've now explored some ops tools to help you continually improve your chatbot over time with logging metrics and [[Version Control]].
 >
 > **[0:08](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=8)** Now there's a lot more that you can do, and I hope that this has helped you to explore and ideate ways that you can manage, maintain, and update your application.
 >
@@ -5781,7 +5743,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=45)** You could try different back-end LLMs, and this is always a good idea as the models are continually growing and improving.
 >
-> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=51)** We've been using GPT in this course, and of course, you could use Gemini or Claude or even self-host one of the more open models like Llama.
+> **[0:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=51)** We've been using GPT in this course, and of course, you could use [[Gemini]] or Claude or even self-host one of the more open models like [[LLaMA]].
 >
 > **[1:00](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=60)** But the scenario I think is most useful is to update our RAG database with new information as it becomes available, and this is easier than retraining backend LLMs.
 >
@@ -5813,7 +5775,7 @@ created: 2026-05-02
 >
 > **[2:36](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=156)** The only difference in this case is that the new content is in text files.
 >
-> **[2:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=161)** I've created files for each of the characters, and you'll find them in the repo so you can update the database quite simply by calling the Python script and passing in the text file for that character.
+> **[2:41](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=161)** I've created files for each of the characters, and you'll find them in the repo so you can update the database quite simply by calling the [[Python (Programming Language)|Python]] script and passing in the text file for that character.
 >
 > **[2:51](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-ops-updating-the-data?u=76281980&t=171)** So, for example, in this case, it would be aisha.txt for Aisha.
 >
@@ -5859,7 +5821,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (11), chatbot (2), application (2), llm (2), rag (2)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (2), [[Version Control]] (1), [[Gemini]] (1), [[LLaMA]] (1)
 > **Env Vars:** llm (2), rag (2), gpt (1), pdf (1)
 > **CLI Commands:** python (2), find (1), make (1)
 > **Code Identifiers:** process_text_file (1), file_path (1), create_db (1), update_db (1)
@@ -5868,8 +5830,7 @@ created: 2026-05-02
 > **Analogies:** for example (1)
 > **Warnings:** be careful (1)
 
-#### Hands-on RAG ops
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980)
+#### [Hands-on RAG ops](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -5897,7 +5858,7 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=64)** So these text files such as seamus.txt or aisha.txt or sookyung.txt.
 >
-> **[1:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=70)** So if I look at them, these are effectively new data that we can put into the database where I've just created some more metadata about the character.
+> **[1:10](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=70)** So if I look at them, these are effectively new data that we can put into the database where I've just created some more [[Metadata]] about the character.
 >
 > **[1:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=81)** Because when we think about it and as we discussed in the slides, when we're RAGing off of a novel, in some ways, the information is second hand and novel rarely tells you this person is this, this person likes that.
 >
@@ -5937,7 +5898,7 @@ created: 2026-05-02
 >
 > **[2:40](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=160)** So I'm going to... Let me start with that first.
 >
-> **[2:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=162)** I'm going to say like the usage we want here to be Python, update database, and then the path to the file.
+> **[2:42](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=162)** I'm going to say like the usage we want here to be [[Python (Programming Language)|Python]], update database, and then the path to the file.
 >
 > **[2:48](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=168)** So how would we do that.
 >
@@ -6009,7 +5970,7 @@ created: 2026-05-02
 >
 > **[5:16](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=316)** So I'm going to say embeddings = OpenAIEmbeddings.
 >
-> **[5:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=319)** We have our OpenAI API key that we can see here that we've just read from the environment, as we've been storing since the beginning of the course.
+> **[5:19](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=319)** We have our [[OpenAI API]] key that we can see here that we've just read from the environment, as we've been storing since the beginning of the course.
 >
 > **[5:30](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=330)** And then we just want to return the embeddings to the caller.
 >
@@ -6039,7 +6000,7 @@ created: 2026-05-02
 >
 > **[6:17](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=377)** When we created our database, we created it in a particular path.
 >
-> **[6:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=381)** And in this case, when you see the chroma run --path, whatever.
+> **[6:21](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=381)** And in this case, when you see the [[ChromaDB|chroma]] run --path, whatever.
 >
 > **[6:25](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/hands-on-rag-ops?u=76281980&t=385)** So the subdirectory was data that the database is in.
 >
@@ -6119,7 +6080,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (28), data (10), rag (6), application (6), next (5)
+> **Frameworks & Libraries:** [[Python (Programming Language)|Python]] (4), [[ChromaDB|Chroma]] (3), [[Metadata]] (1), [[OpenAI API]] (1)
 > **Env Vars:** rag (6), pdf (3), gpt (2), utf (1), api (1)
 > **CLI Commands:** make (7), python (4), find (1)
 > **Code Identifiers:** update_db (2), process_text_file (2), embed_query (2), file_path (1), split_text (1)
@@ -6128,8 +6089,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1), watch out (1), warning (1)
 > **Cross-References:** previous video (1), we discussed (1)
 
-#### RAG in action: Exercise
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-in-action-exercise?u=76281980)
+#### [RAG in action: Exercise](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/rag-in-action-exercise?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6155,7 +6115,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (2), rag (2), prompt (2), next (1), chatbot (1)
 > **Env Vars:** rag (2)
 > **Analogies:** such as (2)
 
@@ -6164,8 +6123,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue your LLMOps learning journey
-> [LinkedIn Learning](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/continue-your-llmops-learning-journey?u=76281980)
+#### [Continue your LLMOps learning journey](https://www.linkedin.com/learning/llmops-in-practice-a-deep-dive/continue-your-llmops-learning-journey?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -6197,7 +6155,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** application (4), llm (2), rag (2), data (2), next (1)
 > **Env Vars:** llm (2), rag (2)
 
 

@@ -66,12 +66,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Creating marketing content with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
+#### [Creating marketing content with AI](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980&t=0)** - The number one reservation I hear from just about everyone about writing content with generative AI is that they don't want it to sound fake.
+> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980&t=0)** - The number one reservation I hear from just about everyone about writing content with [[Generative AI]] is that they don't want it to sound fake.
 >
 > **[0:08](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/creating-marketing-content-with-ai?u=76281980&t=8)** Who could blame them?
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), product (1), business (1), seo (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5)
 > **CLI Commands:** make (2)
 > **Env Vars:** seo (1)
 > **Speakers:** - the (1)
@@ -101,12 +100,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Anatomy of a marketing prompt
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
+#### [Anatomy of a marketing prompt](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=0)** - The best marketing prompts for generative AI start with thoughtful planning, and after this lesson, you'll be able to plan excellent prompts by considering a variety of factors which will add an authentic voice to your marketing content.
+> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=0)** - The best marketing prompts for [[Generative AI]] start with thoughtful planning, and after this lesson, you'll be able to plan excellent prompts by considering a variety of factors which will add an authentic voice to your marketing content.
 >
 > **[0:13](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=13)** First, ask yourself who you're talking to and who is your target market.
 >
@@ -118,7 +116,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=35)** Being literal with clear instructions will make sure you get what you want.
 >
-> **[0:39](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=39)** You could say you want an 800 word blog post on what high school soccer players can do to get ready for interviews from college soccer coaches.
+> **[0:39](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=39)** You could say you want an 800 [[Microsoft Word|word]] blog post on what high school soccer players can do to get ready for interviews from college soccer coaches.
 >
 > **[0:46](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/anatomy-of-a-marketing-prompt?u=76281980&t=46)** Make sure it's content that target you define.
 >
@@ -138,17 +136,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), next (1), [[Microsoft Word|Word]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Microsoft Word|Word]] (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for example (1)
 > **Speakers:** - the (1)
 
-#### Provide clear prompt direction
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980)
+#### [Provide clear prompt direction](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=0)** - When working with generative AI on marketing content, it's important to define your guardrails, create boundaries, and be clear with your expectations.
+> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=0)** - When working with [[Generative AI]] on marketing content, it's important to define your guardrails, create boundaries, and be clear with your expectations.
 >
 > **[0:09](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=9)** If you don't do this, you're basically telling generative AI to guess at what you mean and who knows what kind of results you'll get.
 >
@@ -158,9 +155,9 @@ created: 2026-05-02
 >
 > **[0:27](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=27)** You can do this by imagining who might best be writing your content.
 >
-> **[0:31](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=31)** Would it be an email marketing manager writing your next newsletter article, or maybe an e-commerce manager writing a product description?
+> **[0:31](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=31)** Would it be an [[Email Marketing]] manager writing your next newsletter article, or maybe an [[E-Commerce]] manager writing a product description?
 >
-> **[0:38](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=38)** It could even be the role of a CEO for a thought leadership piece that ends up on your blog.
+> **[0:38](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=38)** It could even be the role of a CEO for a [[Thought Leadership]] piece that ends up on your blog.
 >
 > **[0:44](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=44)** When you decide on what role generative AI takes, the flip side of the coin is thinking about the audience that will read your content.
 >
@@ -172,18 +169,17 @@ created: 2026-05-02
 >
 > **[1:12](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=72)** The last part of providing clear, prompt action is about assigning specific steps to the work that is done.
 >
-> **[1:18](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=78)** An example of this could be something like directing the AI to write an 800 word blog post, and then immediately after providing a four sentence synopsis for social media platforms, and then provide a translation of the post in Spanish for your companion website.
+> **[1:18](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=78)** An example of this could be something like directing the AI to write an 800 [[Microsoft Word|word]] blog post, and then immediately after providing a four sentence synopsis for social media platforms, and then provide a translation of the post in Spanish for your companion website.
 >
 > **[1:32](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/provide-clear-prompt-direction?u=76281980&t=92)** So as you can see, the more direction you're able to provide generative AI, the better results you'll get.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (4), prompt (3), [[Email Marketing]] (1), next (1), [[E-Commerce]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (4), [[Email Marketing]] (1), [[E-Commerce]] (1), [[Thought Leadership]] (1), [[Microsoft Word|Word]] (1)
 > **Env Vars:** ceo (1)
 > **Speakers:** - when (1)
 
-#### Translate brand identity into tone guidelines
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980)
+#### [Translate brand identity into tone guidelines](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -195,7 +191,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980&t=19)** Make sure to include clear direction in your prompts as to whether you'd like your content to sound professional, formal, funny, easygoing, or even sarcastic.
 >
-> **[0:28](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980&t=28)** The great thing about generative AI is once you've decided on a specific tone, it's much easier to be consistent about it in everything you write.
+> **[0:28](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980&t=28)** The great thing about [[Generative AI]] is once you've decided on a specific tone, it's much easier to be consistent about it in everything you write.
 >
 > **[0:37](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/translate-brand-identity-into-tone-guidelines?u=76281980&t=37)** So what's the difference between tones?
 >
@@ -219,14 +215,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (2), product (1), business (1), prompt (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - brand (1)
 
-#### Integrate context for enhanced SEO
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980)
+#### [Integrate context for enhanced SEO](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -240,7 +235,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980&t=22)** This is where you're answering questions and offering solutions to pain points potential customers might have.
 >
-> **[0:28](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980&t=28)** Making sure you direct generative AI to consider where your content is sitting in the funnel ensures that the right call to action and encouraging words and phrases it uses could result in a sale.
+> **[0:28](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980&t=28)** Making sure you direct [[Generative AI]] to consider where your content is sitting in the funnel ensures that the right call to action and encouraging words and phrases it uses could result in a sale.
 >
 > **[0:39](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/integrate-context-for-enhanced-seo?u=76281980&t=39)** Next, your prompt can add keyword ideas and direct the resulting contents effect on search intent.
 >
@@ -260,7 +255,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (3), prompt (2), [[Search]] (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (3)
 > **CLI Commands:** make (3), find (3)
 > **Analogies:** for instance (2), picture (1)
 > **Speakers:** - it (1)
@@ -270,8 +265,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Meet audience expectations
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
+#### [Meet audience expectations](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/meet-audience-expectations?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -303,14 +297,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (4), ai (3), product (1)
 > **CLI Commands:** make (4)
 > **Analogies:** for instance (1)
 > **Best Practices:** make sure to (1)
 > **Speakers:** - rule (1)
 
-#### Tell a story
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980)
+#### [Tell a story](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -342,7 +334,7 @@ created: 2026-05-02
 >
 > **[1:15](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980&t=75)** Finally, a creativity plot is where a creative approach to a common problem saves the day.
 >
-> **[1:20](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980&t=80)** Modern examples might be Iron Man's Tony Stark, who uses creativity as his most effective weapon.
+> **[1:20](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980&t=80)** Modern examples might be Iron Man's Tony [[Stark (Accessibility Software)|Stark]], who uses creativity as his most effective weapon.
 >
 > **[1:27](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/tell-a-story?u=76281980&t=87)** Stories like these when authentic and true, can be weaved into the story of your brand and your content so that people know it came from you and isn't fake.
 >
@@ -350,13 +342,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (3), product (1), [[Stark (Accessibility Software)|Stark]] (1)
+> **Frameworks & Libraries:** [[Stark (Accessibility Software)|Stark]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Speakers:** - a (1)
 
-#### Add a human touch
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980)
+#### [Add a human touch](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -372,7 +363,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980&t=34)** Once you've learned something from feedback you've received, you can add that concept or approach to your future prompts.
 >
-> **[0:41](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980&t=41)** Many generative AI programs even allow you to pre-pro your requirements into any chat it creates.
+> **[0:41](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980&t=41)** Many [[Generative AI]] programs even allow you to pre-pro your requirements into any chat it creates.
 >
 > **[0:48](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/add-a-human-touch?u=76281980&t=48)** Basically, you can create your own content marketing, generative AI chatbot for your product or brand where you make sure AI references prior work to make it part of any content the tool creates.
 >
@@ -382,7 +373,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (3), [[Generative AI]] (2), prompt (2), chatbot (1), product (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2)
 > **CLI Commands:** make (3)
 > **Definitions:** is an  (1), is a  (1)
 > **Speakers:** - potential (1)
@@ -392,18 +383,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Continue generating authenticity with AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)
+#### [Continue generating authenticity with AI](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=0)** - Congratulations on completing this course and keeping authenticity front and center in your writing when using generative AI.
+> **[0:00](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=0)** - Congratulations on completing this course and keeping authenticity front and center in your writing when using [[Generative AI]].
 >
 > **[0:07](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=7)** I hope that the next time you're writing marketing content, you'll feel more confident that your brand's voice will come through.
 >
 > **[0:13](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=13)** I found that taking the time to take the steps talked about in this course will make your writing with generative AI much more productive, efficient, and most importantly, lead to conversions in your marketing campaigns.
 >
-> **[0:25](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=25)** If you want to learn more about generative AI, I'd suggest looking for experts on platforms like LinkedIn.
+> **[0:25](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=25)** If you want to learn more about generative AI, I'd suggest looking for experts on platforms like [[LinkedIn]].
 >
 > **[0:30](https://www.linkedin.com/learning/writing-great-content-with-gen-ai-that-doesn-t-sound-fake/continue-generating-authenticity-with-ai?u=76281980&t=30)** Ethan Mollick from the Wharton School and Sal Kahn from the Khan Academy are great folks to follow.
 >
@@ -421,7 +411,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (2), next (1)
+> **Frameworks & Libraries:** [[Generative AI]] (5), [[LinkedIn]] (2)
 > **CLI Commands:** make (2)
 > **URLs:** [nelshenderson.com](https://nelshenderson.com) (1)
 > **Best Practices:** make sure to (1)

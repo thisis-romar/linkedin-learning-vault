@@ -92,12 +92,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Benefit from business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980)
+#### [Benefit from business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=0)** - [Michael] Business analytics is one of the fastest growing areas of business, and it offers a wealth of opportunities for firms and job seekers.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=0)** - [Michael] [[Business Analytics]] is one of the fastest growing areas of business, and it offers a wealth of opportunities for firms and job seekers.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=9)** Companies large and small can benefit from business analytics, which is why jobs in the field are growing so fast.
 >
@@ -105,13 +104,13 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=30)** and that's where this course comes in.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=32)** I'm Dr. Michael McDonald, and I'd like to help you learn how to use Excel for business analytics purposes, from collecting and cleaning data to making forecasts, performing sensitivity analysis and doing data visualization.
+> **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=32)** I'm Dr. Michael McDonald, and I'd like to help you learn how to use [[Microsoft Excel|Excel]] for business analytics purposes, from collecting and cleaning data to making forecasts, performing sensitivity analysis and doing data visualization.
 >
-> **[0:46](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=46)** So if you're ready to dive in and learn how to start using Excel for Business Analysts then please join me here on LinkedIn Learning.
+> **[0:46](https://www.linkedin.com/learning/excel-for-business-analysts/benefit-from-business-analytics?u=76281980&t=46)** So if you're ready to dive in and learn how to start using Excel for Business Analysts then please join me here on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Analytics]] (5), [[Microsoft Excel|Excel]] (2), data (2), [[LinkedIn]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (5), [[Microsoft Excel|Excel]] (2), [[LinkedIn]] (1)
 > **Speakers:** - [michael] (1)
 
 
@@ -119,12 +118,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is business analytics?
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980)
+#### [What is business analytics?](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=0)** - [Instructor] For the modern employee, one of the most important skills to have for advancing your career is competency in business analytics.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=0)** - [Instructor] For the modern employee, one of the most important skills to have for advancing your career is competency in [[Business Analytics]].
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=8)** Let's talk about what that means and why it's so important.
 >
@@ -180,7 +178,7 @@ created: 2026-05-02
 >
 > **[2:35](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=155)** Business analytics also extends to areas that are a little newer though that you might be familiar with, textual analysis. for instance, that is taking text data, taking text information, say from social media or from marketing campaigns and putting it into usable insights for the firm.
 >
-> **[2:53](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=173)** Business analytics also encompasses forecasting.
+> **[2:53](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=173)** Business analytics also encompasses [[Forecasting]].
 >
 > **[2:56](https://www.linkedin.com/learning/excel-for-business-analysts/what-is-business-analytics?u=76281980&t=176)** How do we figure out what's happened in the past, and what we think is going to happen going forward.
 >
@@ -206,21 +204,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (21), data (18), [[Analytics]] (13), career (1), management (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (13), [[Forecasting]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **Analogies:** for instance (2)
 > **Speakers:** - [instructor] (1)
 
-#### Business analytics and company financials
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980)
+#### [Business analytics and company financials](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=0)** - [Narrator] It's not enough to just have a good grasp on the theory behind business analytics.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=0)** - [Narrator] It's not enough to just have a good grasp on the theory behind [[Business Analytics]].
 >
 > **[0:05](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=5)** If you're going to use it and be a practitioner of it you need to know how companies actually want to apply business analytics, and the tools that are going to be in that toolkit.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=15)** Now for a lot of people, when they start looking at business analytics they get confused or often conflate it with another similar term, business intelligence.
+> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=15)** Now for a lot of people, when they start looking at business analytics they get confused or often conflate it with another similar term, [[Business Intelligence (BI)|business intelligence]].
 >
 > **[0:26](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=26)** What's the difference between business intelligence versus business analytics?
 >
@@ -242,7 +239,7 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=73)** In contrast, business analytics tends to be more forward-looking than business intelligence.
 >
-> **[1:21](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=81)** Business analytics, when done properly is built around predictive analytics, using data mining, modeling, machine learning and other tools to determine the likelihood of future outcomes, right?
+> **[1:21](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=81)** Business analytics, when done properly is built around [[Predictive Analytics]], using [[Data Mining]], modeling, machine learning and other tools to determine the likelihood of future outcomes, right?
 >
 > **[1:35](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=95)** And there's lots of different sub areas underneath predictive analytics, for instance, diagnostic analytics.
 >
@@ -264,7 +261,7 @@ created: 2026-05-02
 >
 > **[2:30](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=150)** Ranging from industrial equipment to aircraft for instance.
 >
-> **[2:34](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=154)** Another sub-discipline underneath predictive analytics is prescriptive analytics, trying to figure out what we should change or improve to kind of boost our business operations.
+> **[2:34](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=154)** Another sub-discipline underneath predictive analytics is prescriptive analytics, trying to figure out what we should change or improve to kind of boost our [[Business Operations]].
 >
 > **[2:45](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-company-financials?u=76281980&t=165)** What changes should we make to the organization to improve the bottom line, to improve productivity, to improve the efficacy of one project or another?
 >
@@ -282,18 +279,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Analytics]] (17), business (13), [[Business Intelligence (BI)|Business intelligence]] (8), [[Predictive Analytics]] (3), bi (2)
+> **Frameworks & Libraries:** [[Business Analytics]] (11), [[Business Intelligence (BI)|Business intelligence]] (8), [[Predictive Analytics]] (3), [[Data Mining]] (1), [[Business Operations]] (1)
 > **Analogies:** for instance (3), imagine (1)
 > **Definitions:** is a  (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [narrator] (1)
 
-#### Basics of business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980)
+#### [Basics of business analysis](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=0)** - [Instructor] One of the reasons business analytics is such an important and fast growing field, is because it has tremendous applications for many of the firms out there.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=0)** - [Instructor] One of the reasons [[Business Analytics]] is such an important and fast growing field, is because it has tremendous applications for many of the firms out there.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=8)** Let's talk about some examples, in the real world where business analytics is used.
 >
@@ -303,9 +299,9 @@ created: 2026-05-02
 >
 > **[0:29](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=29)** Business analytics builds on this concept and says, okay, let's go through and target very small sections of our customer base, and then try different marketing approaches to see which one works best.
 >
-> **[0:43](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=43)** Platforms like LinkedIn, allow for super targeted advertising of very specific niche segments.
+> **[0:43](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=43)** Platforms like [[LinkedIn]], allow for super targeted advertising of very specific niche segments.
 >
-> **[0:51](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=51)** Now there's a variety of different marketing platforms out there but the point is, whether you're using Google, or LinkedIn or Facebook or Microsoft, or anything else, we've still got to be able to take that data and analyze it and understand how's our marketing performing.
+> **[0:51](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=51)** Now there's a variety of different marketing platforms out there but the point is, whether you're using [[Google]], or LinkedIn or Facebook or [[Microsoft]], or anything else, we've still got to be able to take that data and analyze it and understand how's our marketing performing.
 >
 > **[1:08](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=68)** Another big example of business analytics, is in predictive maintenance.
 >
@@ -327,7 +323,7 @@ created: 2026-05-02
 >
 > **[2:28](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=148)** It's often said that it's something like, five times more expensive to hire a new employee than to keep an existing one, or five times more expensive to get a new customer, rather than keep an existing one.
 >
-> **[2:43](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=163)** Whatever those statistics are, the idea behind business analytics is, let's go through and understand the data for our firm.
+> **[2:43](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=163)** Whatever those [[Statistics]] are, the idea behind business analytics is, let's go through and understand the data for our firm.
 >
 > **[2:50](https://www.linkedin.com/learning/excel-for-business-analysts/basics-of-business-analysis?u=76281980&t=170)** How much more expensive is it to hire a new employee rather than keep an existing one?
 >
@@ -353,20 +349,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (10), [[Analytics]] (10), data (4), [[LinkedIn]] (2), [[Google]] (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (10), [[LinkedIn]] (2), [[Google]] (1), [[Microsoft]] (1), [[Statistics]] (1)
 > **Definitions:** is an  (1), in other words (1)
 > **Analogies:** for instance (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Finding data for business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980)
+#### [Finding data for business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=0)** - [Instructor] One challenge that business analysts often face is that when they need to gather data to answer some sort of a question, they're not quite sure where to get that data from.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=9)** One great resource that I've found is the BEA or Bureau of Economic Analysis.
+> **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=9)** One great resource that I've found is the BEA or Bureau of [[Economic Analysis]].
 >
 > **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=15)** You can access their website @[bea.gov](https://bea.gov).
 >
@@ -378,7 +373,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=37)** The nice thing about the BEA data compared to FRED or other data sources is that the BEA gets super granular, you can actually go through and break down GDP, for instance, by different industries, or even sub-industries.
 >
-> **[0:53](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=53)** And the attractive thing about the BEA data is, in many cases, you can actually pull it directly into Excel.
+> **[0:53](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=53)** And the attractive thing about the BEA data is, in many cases, you can actually pull it directly into [[Microsoft Excel|Excel]].
 >
 > **[1:00](https://www.linkedin.com/learning/excel-for-business-analysts/finding-data-for-business-analytics?u=76281980&t=60)** Now, we take a look at the BEA's website.
 >
@@ -436,7 +431,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (35), [[Microsoft Excel|Excel]] (4), business (1), [[Economic Analysis]] (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Economic Analysis]] (1)
 > **Env Vars:** bea (10), gdp (3), fred (1), xls (1)
 > **Analogies:** for instance (5)
 > **URLs:** [data.gov](https://data.gov) (3), [bea.gov](https://bea.gov) (1)
@@ -444,16 +439,15 @@ created: 2026-05-02
 > **UI Navigation:** go to (1), scroll down (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using business analytics for sales prospecting
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980)
+#### [Using business analytics for sales prospecting](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=0)** - [Instructor] One of the biggest areas in business that's been affected by business analytics is marketing.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=0)** - [Instructor] One of the biggest areas in business that's been affected by [[Business Analytics]] is marketing.
 >
-> **[0:05](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=5)** And since we're here on LinkedIn Learning, I'd be remiss if I didn't talk about some of the data and the tools that you can use through LinkedIn.
+> **[0:05](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=5)** And since we're here on [[LinkedIn]] Learning, I'd be remiss if I didn't talk about some of the data and the tools that you can use through LinkedIn.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=15)** Now in particular, I want to highlight two key tools: the LinkedIn Sales Navigator, and the LinkedIn Marketing Campaign Manager.
+> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=15)** Now in particular, I want to highlight two key tools: the LinkedIn Sales Navigator, and the [[LinkedIn Marketing]] Campaign Manager.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=23)** So the LinkedIn Sales Navigator lets us go through and identify potential prospects in our industry, and then reach out to them, try to connect with them, message them, et cetera.
 >
@@ -467,7 +461,7 @@ created: 2026-05-02
 >
 > **[1:27](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=87)** The other big tool that I want to highlight, briefly, is the LinkedIn Campaign Manager.
 >
-> **[1:32](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=92)** So just like Google allows you to do some marketing, LinkedIn also allows you to do some marketing through their platform, within their ecosystem.
+> **[1:32](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=92)** So just like [[Google]] allows you to do some marketing, LinkedIn also allows you to do some marketing through their platform, within their ecosystem.
 >
 > **[1:40](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=100)** Now this is just a sample account I've set up to kind of illustrate the point, but we can come through and build campaigns specific to various objectives that we might have.
 >
@@ -485,7 +479,7 @@ created: 2026-05-02
 >
 > **[2:45](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=165)** What's our cost per result, impressions, clicks, our average click-through rate, the cost on any of these things.
 >
-> **[2:51](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=171)** And we'd be able to download all of this information into Excel.
+> **[2:51](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=171)** And we'd be able to download all of this information into [[Microsoft Excel|Excel]].
 >
 > **[2:55](https://www.linkedin.com/learning/excel-for-business-analysts/using-business-analytics-for-sales-prospecting?u=76281980&t=175)** So, the point is that we can explore, with business analytics and try to find new opportunities for our marketing budget through tools like LinkedIn.
 >
@@ -509,20 +503,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[LinkedIn]] (11), business (5), [[Analytics]] (4), data (2), [[Search]] (2)
+> **Frameworks & Libraries:** [[LinkedIn]] (11), [[Business Analytics]] (4), [[LinkedIn Marketing]] (1), [[Google]] (1), [[Microsoft Excel|Excel]] (1)
 > **Analogies:** for instance (2), just like (1)
 > **CLI Commands:** find (2)
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Testing marketing content with business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980)
+#### [Testing marketing content with business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=0)** - [Instructor] Anyone working in marketing or marketing analytics these days understands the importance of Google as a core tool as part of the advertising process.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=0)** - [Instructor] Anyone working in marketing or [[Marketing Analytics]] these days understands the importance of [[Google]] as a core tool as part of the advertising process.
 >
-> **[0:10](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=10)** In fact, Google has really helped to advance the field of business analytics in the form of additional data that's available to analysts to examine what's working and what's not working for their marketing strategies.
+> **[0:10](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=10)** In fact, Google has really helped to advance the field of [[Business Analytics]] in the form of additional data that's available to analysts to examine what's working and what's not working for their marketing strategies.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=24)** So, I'm here on the Google Ads page, and we've just got a sample campaign for a firm I work with that I've pulled up.
 >
@@ -538,11 +531,11 @@ created: 2026-05-02
 >
 > **[1:16](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=76)** So if I come over to the ads page, I can find either under campaigns, the campaigns I'm interested in, or the specific ads I'm interested in learning more about.
 >
-> **[1:31](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=91)** Now these are four different campaigns, and we can get different metrics on click-through rates, the number of clicks, the cost, if we'd set up the conversion statistics, we could get data on conversion, but we can also get this for ad groups as a whole.
+> **[1:31](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=91)** Now these are four different campaigns, and we can get different metrics on click-through rates, the number of clicks, the cost, if we'd set up the conversion [[Statistics]], we could get data on conversion, but we can also get this for ad groups as a whole.
 >
 > **[1:49](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=109)** So I'll come over to ad groups, and we can look at some examples, right?
 >
-> **[1:53](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=113)** Now, the nice thing about doing all of this in Google is that we can go ahead and we can pull all of this information in through Excel.
+> **[1:53](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=113)** Now, the nice thing about doing all of this in Google is that we can go ahead and we can pull all of this information in through [[Microsoft Excel|Excel]].
 >
 > **[2:03](https://www.linkedin.com/learning/excel-for-business-analysts/testing-marketing-content-with-business-analytics?u=76281980&t=123)** We can download all this information directly to Excel in the form of a CSV file, and then this allows us to go through and compare how different strategies and prospects are working, right?
 >
@@ -572,7 +565,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Google]] (9), [[Statistics]] (4), [[Microsoft Excel|Excel]] (4), business (3)
+> **Frameworks & Libraries:** [[Google]] (9), [[Statistics]] (4), [[Microsoft Excel|Excel]] (4), [[Marketing Analytics]] (1), [[Business Analytics]] (1)
 > **Analogies:** for instance (3)
 > **CLI Commands:** find (1)
 > **Env Vars:** csv (1)
@@ -584,16 +577,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Data access and availability
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980)
+#### [Data access and availability](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=0)** - [Instructor] When it comes to business analytics, one of the first and most mundane but also most important tasks is simply putting together an effective data set that has the appropriate controls in place for the business.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=0)** - [Instructor] When it comes to [[Business Analytics]], one of the first and most mundane but also most important tasks is simply putting together an effective data set that has the appropriate controls in place for the business.
 >
 > **[0:14](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=14)** Let me show you what I'm referring to.
 >
-> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=15)** I'm in the 02_01_Begin Excel file.
+> **[0:15](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=15)** I'm in the 02_01_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=19)** Now, what we have here is data on a set of five hypothetical customers and they've placed orders with the firm, right?
 >
@@ -655,22 +647,21 @@ created: 2026-05-02
 >
 > **[3:24](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=204)** But Excel offers really great tools for sharing our data but at the same time protecting it to make sure that there's no accidental changes that occur along the way.
 >
-> **[3:35](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=215)** At this point, you should be well-prepared to go through and construct your own data sheets and then protect them to ensure that the data integrity is appropriate.
+> **[3:35](https://www.linkedin.com/learning/excel-for-business-analysts/data-access-and-availability?u=76281980&t=215)** At this point, you should be well-prepared to go through and construct your own data sheets and then protect them to ensure that the [[Data Integrity]] is appropriate.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (7), business (2), [[Analytics]] (1), hr (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Business Analytics]] (1), [[Data Integrity]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Integrating data sets
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980)
+#### [Integrating data sets](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=0)** - [Instructor] It's often said that business analysts spend up to 80% of their time, not necessarily doing analysis on data, but rather gathering and cleaning up their data in order to then come to conclusions about it.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=13)** And Excel can help make this process faster and simpler.
+> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=13)** And [[Microsoft Excel|Excel]] can help make this process faster and simpler.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=17)** Now there's a lot of different neat tricks that Excel has to integrate with some software programs.
 >
@@ -684,7 +675,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=45)** But the problem is, is that my data is in another program.
 >
-> **[0:48](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=48)** In particular, let's pretend it's hypothetically in a program that's called Stata.
+> **[0:48](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=48)** In particular, let's pretend it's hypothetically in a program that's called [[Stata]].
 >
 > **[0:53](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=53)** Okay, so I've got a data set here that's in another software program called Stata.
 >
@@ -718,7 +709,7 @@ created: 2026-05-02
 >
 > **[2:44](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=164)** Kind of highlighting this data.
 >
-> **[2:46](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=166)** The nice thing about Excel though is not only can we keep this chart in Excel, but we could also put this chart into another tool, like say PowerPoint, for instance and because it's linked to Excel when this data changes, if this data, for instance, instead of a 0.07 if we were to make this a point, let's make it pretty obvious so that it shows up, 0.5.
+> **[2:46](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=166)** The nice thing about Excel though is not only can we keep this chart in Excel, but we could also put this chart into another tool, like say [[Microsoft PowerPoint|PowerPoint]], for instance and because it's linked to Excel when this data changes, if this data, for instance, instead of a 0.07 if we were to make this a point, let's make it pretty obvious so that it shows up, 0.5.
 >
 > **[3:14](https://www.linkedin.com/learning/excel-for-business-analysts/integrating-data-sets?u=76281980&t=194)** Now, of course the chart updates dynamically unsurprising.
 >
@@ -778,7 +769,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (23), [[Microsoft PowerPoint|Powerpoint]] (11), [[Stata]] (4), business (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (23), [[Microsoft PowerPoint|Powerpoint]] (11), [[Stata]] (4)
 > **CLI Commands:** make (4)
 > **Versions:** 0.07 (2), 0.5 (1), 0.1 (1)
 > **Env Vars:** csv (2)
@@ -787,8 +778,7 @@ created: 2026-05-02
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Data and business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980)
+#### [Data and business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -802,7 +792,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980&t=32)** But when we're putting together different data sets that's where the challenges often start to begin.
 >
-> **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980&t=37)** I'm in the 02_03_Begin Excel file.
+> **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980&t=37)** I'm in the 02_03_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:41](https://www.linkedin.com/learning/excel-for-business-analysts/data-and-business-analytics?u=76281980&t=41)** Now what we've got here are two different datasets.
 >
@@ -896,23 +886,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (31), [[Microsoft Excel|Excel]] (3), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3)
 > **Env Vars:** vlookup (3), ppe (1), xlookup (1)
 > **Versions:** 82.58 (1), 78.5 (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - you (1)
 
-#### Finding a data model
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980)
+#### [Finding a data model](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=0)** - [Instructor] One challenge that comes up in just about every business analytics project is actually getting started in the first place.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=0)** - [Instructor] One challenge that comes up in just about every [[Business Analytics]] project is actually getting started in the first place.
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=7)** In particular, a lot of businesses say that they're interested in doing more with analytics but they're not really sure how to get started.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=16)** Excel can't truly solve this problem, but it can help.
+> **[0:16](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=16)** [[Microsoft Excel|Excel]] can't truly solve this problem, but it can help.
 >
 > **[0:20](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=20)** I'm in the zero two zero four begin Excel file.
 >
@@ -926,7 +915,7 @@ created: 2026-05-02
 >
 > **[0:54](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=54)** Excel add-ins are basically specialized extensions that kind of plug into Excel and give you the ability to do extra stuff.
 >
-> **[1:02](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=62)** These could be custom developed by your own firm or they could be products that you buy from the Microsoft office add-ins store, which you find here under the insert tab.
+> **[1:02](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=62)** These could be custom developed by your own firm or they could be [[Microsoft Products|products]] that you buy from the [[Microsoft Office]] add-ins store, which you find here under the insert tab.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-for-business-analysts/finding-a-data-model?u=76281980&t=74)** Now, I'm using an add-in here that was developed by my firm.
 >
@@ -988,25 +977,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), business (5), product (3), [[Analytics]] (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (12), [[Microsoft Products|Products]] (2), [[Business Analytics]] (1), [[Microsoft Office]] (1)
 > **Env Vars:** abc (1), xyz (1)
 > **CLI Commands:** find (1)
 > **Analogies:** for instance (1)
 > **Prerequisites:** getting started (1)
 > **Speakers:** - [instructor] (1)
 
-#### Mapping your data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980)
+#### [Mapping your data](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=0)** - [Illustrator] When it comes to business analytics what frequently happens is that as you develop a larger and larger data set it can be more and more useful to the company but it can also be more and more complex.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=0)** - [Illustrator] When it comes to [[Business Analytics]] what frequently happens is that as you develop a larger and larger data set it can be more and more useful to the company but it can also be more and more complex.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=13)** Excel can't solve the complexity in your data but it can help you to better organize it.
+> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=13)** [[Microsoft Excel|Excel]] can't solve the complexity in your data but it can help you to better organize it.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=19)** I'm in the zero two zero five begin Excel file.
 >
-> **[0:22](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=22)** Now what you see here is an example of different variables that we might be interested in for some sort of a financial analysis type project, right?
+> **[0:22](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=22)** Now what you see here is an example of different variables that we might be interested in for some sort of a [[Financial Analysis]] type project, right?
 >
 > **[0:31](https://www.linkedin.com/learning/excel-for-business-analysts/mapping-your-data?u=76281980&t=31)** We've got variables related to acquisitions, to capital gains rights, to dividends and earnings per share, to GDP, et cetera.
 >
@@ -1058,27 +1046,26 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), business (4), [[Analytics]] (4), data (4), [[Financial Analysis]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (9), [[Business Analytics]] (4), [[Financial Analysis]] (1)
 > **Analogies:** imagine (1), for instance (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** gdp (1)
 > **Definitions:** is an  (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Dealing with data Issues
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980)
+#### [Dealing with data Issues](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=0)** - [Instructor] One challenge that we often face in business analytics is dealing with the messiness of real world data.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=0)** - [Instructor] One challenge that we often face in [[Business Analytics]] is dealing with the messiness of real world data.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=6)** Let's take a look at an example.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=8)** I'm in the 02_06_Begin Excel file.
+> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=8)** I'm in the 02_06_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=11)** Now, what we have here is a set of real world data for a series of stores.
 >
-> **[0:16](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=16)** I've gone through, and for the purposes of protecting the privacy of the business, I've anonymized both the product in question as well as the description of the sales and the stores.
+> **[0:16](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=16)** I've gone through, and for the purposes of protecting the [[Privacy]] of the business, I've anonymized both the product in question as well as the description of the sales and the stores.
 >
 > **[0:29](https://www.linkedin.com/learning/excel-for-business-analysts/dealing-with-data-issues?u=76281980&t=29)** But we have a set of stores, ranging from store number one through store number 14, for a fairly significant period of time, right, several years.
 >
@@ -1222,36 +1209,35 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (4), [[Microsoft Excel|Excel]] (3), product (3), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Business Analytics]] (1), [[Privacy]] (1)
 > **Versions:** 0.6 (2), 2.9 (2), 0.43 (1), 0.4 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Tools for business analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980)
+#### [Tools for business analysis](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=0)** - [Instructor] Outside of Excel, there's a few key tools that I personally think are very useful for people doing work in business analytics.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=0)** - [Instructor] Outside of [[Microsoft Excel|Excel]], there's a few key tools that I personally think are very useful for people doing work in [[Business Analytics]].
 >
-> **[0:07](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=7)** To begin with, Microsoft's Power BI is one of those tools where when you're ready to kind of graduate beyond Excel and do stuff that's a little bit more complicated, it can be a great option to explore.
+> **[0:07](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=7)** To begin with, [[Microsoft]]'s [[Microsoft Power BI|Power BI]] is one of those tools where when you're ready to kind of graduate beyond Excel and do stuff that's a little bit more complicated, it can be a great option to explore.
 >
-> **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=19)** One of the nice things about Power BI is because it's from Microsoft and they have this relationship with a generative AI company, OpenAI, they've now integrated generative AI tools into Power BI.
+> **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=19)** One of the nice things about Power BI is because it's from Microsoft and they have this relationship with a [[Generative AI]] company, OpenAI, they've now integrated [[Generative AI Tools]] into Power BI.
 >
 > **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=32)** We're going to talk about this more later in the course, but it's just something to be aware of.
 >
 > **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=37)** Power BI is a great tool to let you go through and build more powerful data models and more useful visualizations of those data.
 >
-> **[0:47](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=47)** Now, speaking of visualizations, one of the best software programs I've found for making more complex visualizations than you can do in Excel, is Tableau.
+> **[0:47](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=47)** Now, speaking of visualizations, one of the best software programs I've found for making more complex visualizations than you can do in Excel, is [[Tableau]].
 >
 > **[0:57](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=57)** In particular, with geographic data, or if you're looking to have kind of interactive graphics, Tableau can be a very, very useful tool that can allow you to go through and create visuals that you wouldn't be able to do with Excel, certainly, or even with Power BI.
 >
 > **[1:14](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=74)** So it's another one that I think is very useful to be aware of.
 >
-> **[1:17](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=77)** But again, it's really only for graphics, it's not so much for kind of heavy-duty, statistical analysis.
+> **[1:17](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=77)** But again, it's really only for graphics, it's not so much for kind of heavy-duty, [[Statistical Analysis]].
 >
-> **[1:24](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=84)** If you're looking for heavy-duty, statistical analysis and you want to go beyond Power BI, or certainly Excel itself, the two programs that I am most favorably inclined towards are Stata and SAS.
+> **[1:24](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=84)** If you're looking for heavy-duty, statistical analysis and you want to go beyond Power BI, or certainly Excel itself, the two programs that I am most favorably inclined towards are [[Stata]] and SAS.
 >
 > **[1:38](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=98)** Stata is very nice for going through and doing large amounts of analysis on data, say anywhere from 500,000 to maybe 3 or 4 million data points with anywhere from like 20 to 50 variables.
 >
@@ -1281,11 +1267,11 @@ created: 2026-05-02
 >
 > **[3:37](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=217)** SAS can be the best tool that I'm aware of for dealing with this type of thing.
 >
-> **[3:42](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=222)** Some people swear by R or Python.
+> **[3:42](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=222)** Some people swear by R or [[Python (Programming Language)|Python]].
 >
 > **[3:44](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=224)** The problem with those is they lack the enterprise support because they tend to be kind of more open source type software, versus SAS, which is a paid product.
 >
-> **[3:52](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=232)** But in any event, if you're doing heavy-duty, big data, then this is the kind of tool that you're going to want to be familiar with.
+> **[3:52](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=232)** But in any event, if you're doing heavy-duty, [[Big Data]], then this is the kind of tool that you're going to want to be familiar with.
 >
 > **[4:02](https://www.linkedin.com/learning/excel-for-business-analysts/tools-for-business-analysis?u=76281980&t=242)** In any event, those are just a few of the useful tools in business analytics that are out there.
 >
@@ -1293,7 +1279,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Excel|Excel]] (8), power (6), bi (6), [[Stata]] (6)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (8), [[Microsoft Power BI|Power bi]] (6), [[Stata]] (6), [[Business Analytics]] (3), [[Microsoft]] (2)
 > **Env Vars:** sas (5), ppi (1)
 > **Definitions:** is a  (3)
 > **CLI Commands:** make (1), python (1)
@@ -1307,18 +1293,17 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Business analytics and performance
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980)
+#### [Business analytics and performance](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=0)** - [Instructor] At a core level, business analytics always comes down to starting to understand what the data is telling us and the inferences we can draw from it.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=0)** - [Instructor] At a core level, [[Business Analytics]] always comes down to starting to understand what the data is telling us and the inferences we can draw from it.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=10)** That often sounds kind of complicated but the reality is we can get pretty quick insights from data once we've got a cleaned up dataset.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=18)** Let's look at an example.
 >
-> **[0:20](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=20)** I'm in the 03_01_Begin Excel file.
+> **[0:20](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=20)** I'm in the 03_01_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:24](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=24)** Now, what we have here is HR data or productivity data for a series of hypothetical sales representatives, right?
 >
@@ -1326,7 +1311,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=37)** And we've got their daily sales, the sales they've generated for a three-month period from January through March.
 >
-> **[0:45](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=45)** We've also got other data about each employee, whether they're remote, the number of calls they're doing per day, whether they quit or not, if they're a Microsoft Teams user and the bonus amount they achieved in a particular month.
+> **[0:45](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=45)** We've also got other data about each employee, whether they're remote, the number of calls they're doing per day, whether they quit or not, if they're a [[Microsoft Teams]] user and the bonus amount they achieved in a particular month.
 >
 > **[0:57](https://www.linkedin.com/learning/excel-for-business-analysts/business-analytics-and-performance?u=76281980&t=57)** Now, what we might like to do just at the outset, if we're kind of managing a sales team like this, we'd like to understand who's doing well, who's doing poorly, et cetera.
 >
@@ -1402,18 +1387,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (14), business (1), [[Analytics]] (1), [[Microsoft Excel|Excel]] (1), hr (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (1), [[Microsoft Excel|Excel]] (1), [[Microsoft Teams]] (1)
 > **Analogies:** for instance (4)
 > **CLI Commands:** make (2), find (1)
 > **Cross-References:** as you saw (1)
 > **Speakers:** - [instructor] (1)
 
-#### Using data in hiring plans
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980)
+#### [Using data in hiring plans](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=0)** - [Instructor] One major area where business analytics plays a role is in HR.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=0)** - [Instructor] One major area where [[Business Analytics]] plays a role is in HR.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=4)** When it comes to making, hiring and firing decisions particularly for larger organizations, historically we've often relied on people's kind of gut feeling.
 >
@@ -1423,7 +1407,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=37)** So let's take a look at how this might work.
 >
-> **[0:39](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=39)** I'm in the zero three zero two begin Excel file.
+> **[0:39](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=39)** I'm in the zero three zero two begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:43](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=43)** Now we've got data on a series of sales reps here and their performance over a three-month period from January through March.
 >
@@ -1431,7 +1415,7 @@ created: 2026-05-02
 >
 > **[1:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=60)** If they're sales reps, how much are they selling per day in some hypothetical product?
 >
-> **[1:05](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=65)** In addition, we've got data on other characteristics of these folks whether they're a remote employee or not, the number of calls they're making per day, whether they quit in a given month, whether they're a Microsoft Teams user or not, any bonuses that we pay to them at the end of the month, et cetera.
+> **[1:05](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=65)** In addition, we've got data on other characteristics of these folks whether they're a remote employee or not, the number of calls they're making per day, whether they quit in a given month, whether they're a [[Microsoft Teams]] user or not, any bonuses that we pay to them at the end of the month, et cetera.
 >
 > **[1:22](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=82)** We've also added in a couple of dummy variables to control for seasonality.
 >
@@ -1459,7 +1443,7 @@ created: 2026-05-02
 >
 > **[2:41](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=161)** Then you just want to make sure that your analysis tool pack is checked.
 >
-> **[2:45](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=165)** This is where you can turn on or off all of your different add ins for Microsoft Excel kind of give it more power or enable certain features, et cetera.
+> **[2:45](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=165)** This is where you can turn on or off all of your different add ins for [[Microsoft Excel]] kind of give it more power or enable certain features, et cetera.
 >
 > **[2:54](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=174)** So what I want to do now is go through and understand what are the characteristics we should really care about and be focused on when we're thinking about hiring a new person.
 >
@@ -1519,7 +1503,7 @@ created: 2026-05-02
 >
 > **[6:16](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=376)** Now, is that a good trade off from a cost perspective?
 >
-> **[6:19](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=379)** In other words they're not using any office space, et cetera or maybe, but we certainly want to be aware of these issues.
+> **[6:19](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=379)** In other words they're not using any [[Microsoft Office|office]] space, et cetera or maybe, but we certainly want to be aware of these issues.
 >
 > **[6:26](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-in-hiring-plans?u=76281980&t=386)** Now this is just a hypothetical set of data but the point is we could put in whatever characteristics we wanted, right?
 >
@@ -1537,7 +1521,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (10), [[Microsoft Teams]] (5), [[Analytics]] (4), business (3), [[Microsoft Excel|Excel]] (3)
+> **Frameworks & Libraries:** [[Microsoft Teams]] (5), [[Business Analytics]] (3), [[Microsoft Excel|Excel]] (3), [[Microsoft Excel]] (1), [[Microsoft Office|Office]] (1)
 > **CLI Commands:** make (8)
 > **UI Navigation:** go to (1), scroll down (1), click on (1)
 > **Definitions:** is a  (1), in other words (1)
@@ -1546,12 +1530,11 @@ created: 2026-05-02
 > **Analogies:** for instance (1)
 > **Warnings:** be aware (1)
 
-#### Understanding HR issues with data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980)
+#### [Understanding HR issues with data](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=0)** - [Instructor] One of the really nice applications for business analytics in HR is around goal setting.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=0)** - [Instructor] One of the really nice applications for [[Business Analytics]] in HR is around goal setting.
 >
 > **[0:06](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=6)** We can use business analytics tools to help us to tailor specific goals for employees whether these are sales goals like quotas for instance or productivity goals or some other sort of goal.
 >
@@ -1561,7 +1544,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=24)** Let's take a look at how this works.
 >
-> **[0:26](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=26)** I'm in the 03 03 begin Excel file.
+> **[0:26](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=26)** I'm in the 03 03 begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=30)** Now, we've gone through and taken a set of data from a set of hypothetical sales reps over time.
 >
@@ -1591,7 +1574,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=122)** Now, we'll leave off the bonus for a moment.
 >
-> **[2:06](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=126)** And let's say that we're giving them access to Microsoft teams and they won't have quit.
+> **[2:06](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=126)** And let's say that we're giving them access to [[Microsoft Teams]] and they won't have quit.
 >
 > **[2:10](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-hr-issues-with-data?u=76281980&t=130)** Now the big question of course is how many calls per day have they done?
 >
@@ -1639,23 +1622,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (2), [[Analytics]] (2), product (2), hr (1)
+> **Frameworks & Libraries:** [[Business Analytics]] (2), [[Microsoft Excel|Excel]] (1), [[Microsoft Teams]] (1)
 > **CLI Commands:** make (2)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Troubleshooting at the organization
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980)
+#### [Troubleshooting at the organization](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=0)** - [Instructor] The ultimate goal of business analytics is to make recommendations to management based on what the data tells us might happen going forward.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=0)** - [Instructor] The ultimate goal of [[Business Analytics]] is to make recommendations to management based on what the data tells us might happen going forward.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=9)** But at its core, business analytics starts with just understanding what's going on at the firm, so we can make recommendations based on the current situation.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=19)** Let's take a look at an example.
 >
-> **[0:21](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=21)** I'm in the 03_04_Begin Excel file.
+> **[0:21](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=21)** I'm in the 03_04_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:25](https://www.linkedin.com/learning/excel-for-business-analysts/troubleshooting-at-the-organization?u=76281980&t=25)** Now what we have here are data on six hypothetical retail locations for a store chain.
 >
@@ -1715,17 +1697,16 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (12), [[Microsoft Excel|Excel]] (4), business (3), [[Analytics]] (3), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Business Analytics]] (3)
 > **Analogies:** for instance (3), picture (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Forecasting with business analytics data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/forecasting-with-business-analytics-data?u=76281980)
+#### [Forecasting with business analytics data](https://www.linkedin.com/learning/excel-for-business-analysts/forecasting-with-business-analytics-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/forecasting-with-business-analytics-data?u=76281980&t=0)** - [Illustrator] One of the most powerful elements of Excel particularly when it comes to applications in business analytics are the forecasting tools.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/forecasting-with-business-analytics-data?u=76281980&t=0)** - [Illustrator] One of the most powerful elements of [[Microsoft Excel|Excel]] particularly when it comes to applications in [[Business Analytics]] are the [[Forecasting]] tools.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/forecasting-with-business-analytics-data?u=76281980&t=8)** While there's plenty of different forecasting software packages out there, Excel is really nice for being able to kind of go through, understand the data and then spit out simple forecasts effectively.
 >
@@ -1839,21 +1820,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), data (9), [[Forecasting]] (2), feature (2), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (11), [[Forecasting]] (2), [[Business Analytics]] (1)
 > **Definitions:** is a  (2), in other words (1), means that (1)
 > **CLI Commands:** make (1)
 > **Versions:** 0.25 (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [illustrator] (1)
 
-#### Making corporate investment decisions
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980)
+#### [Making corporate investment decisions](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980&t=0)** - [Instructor] Evaluating financial figures in order to help a business make key investment decisions is a big part of what business analysts are often asked to do.
 >
-> **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980&t=9)** Fortunately, Excel makes this task much easier.
+> **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980&t=9)** Fortunately, [[Microsoft Excel|Excel]] makes this task much easier.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-for-business-analysts/making-corporate-investment-decisions?u=76281980&t=12)** Let's take a look at an example.
 >
@@ -1983,7 +1963,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6), business (3), power (1), management (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (6)
 > **Env Vars:** irr (6), npv (4), ceo (1)
 > **CLI Commands:** make (5), find (1)
 > **Versions:** 13.2 (2), 728.17 (1), 249.49 (1)
@@ -1997,26 +1977,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Examining financial data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980)
+#### [Examining financial data](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=0)** - [Instructor] In the world of corporate finance and in particular, when we're using business analytics in corporate finance, one of the most useful tools that's out there are what are called variances, or sometimes accounting variances.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=0)** - [Instructor] In the world of [[Corporate Finance]] and in particular, when we're using [[Business Analytics]] in corporate finance, one of the most useful tools that's out there are what are called variances, or sometimes accounting variances.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=13)** I'm in the zero four, zero one begin Excel spreadsheet.
+> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=13)** I'm in the zero four, zero one begin [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=17)** Now what we've got here is a set of hypothetical data for a company that's frankly struggling as we'll see it in just a moment.
 >
 > **[0:23](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=23)** But basically the company has gone through and gathered data on how they perform financially throughout 2017 versus how they expected to perform, what was their plan or their budget going into the year.
 >
-> **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=38)** And we've got this for both the market as a whole as well as for the financial statements for the firm.
+> **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=38)** And we've got this for both the market as a whole as well as for the [[Financial Statements]] for the firm.
 >
 > **[0:45](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=45)** Simplified income statement balance sheet et cetera.
 >
 > **[0:48](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=48)** Now again, all of this data is hypothetical but it illustrates an important point.
 >
-> **[0:54](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=54)** And that point is that when we're looking at financial data it's oftentimes hard to get a sense for how a farm is performing at least at the outset, right?
+> **[0:54](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=54)** And that point is that when we're looking at [[Financial Data]] it's oftentimes hard to get a sense for how a farm is performing at least at the outset, right?
 >
 > **[1:05](https://www.linkedin.com/learning/excel-for-business-analysts/examining-financial-data?u=76281980&t=65)** So let's take a look here.
 >
@@ -2078,23 +2057,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Corporate Finance]] (3), data (3), business (2), [[Analytics]] (2), [[Microsoft Excel|Excel]] (1)
+> **Frameworks & Libraries:** [[Corporate Finance]] (3), [[Business Analytics]] (2), [[Microsoft Excel|Excel]] (1), [[Financial Statements]] (1), [[Financial Data]] (1)
 > **Env Vars:** cogs (3)
 > **Versions:** 2.17 (1), 1.23 (1), 1.24 (1)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Waterfall charts in Excel
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980)
+#### [Waterfall charts in Excel](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=0)** - [Instructor] One really common tool in business analytics, in particular, when we're examining financial data is what's called a waterfall chart or sometimes a bridge chart, or even a walk chart.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=0)** - [Instructor] One really common tool in [[Business Analytics]], in particular, when we're examining [[Financial Data]] is what's called a waterfall chart or sometimes a bridge chart, or even a walk chart.
 >
 > **[0:11](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=11)** Let's take a look at how we put one of these together.
 >
-> **[0:14](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=14)** I'm in the zero four zero two begin Excel file.
+> **[0:14](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=14)** I'm in the zero four zero two begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/waterfall-charts-in-excel?u=76281980&t=19)** Now, it used to be a real pain to go through and actually construct a waterfall chart or a bridge chart.
 >
@@ -2168,18 +2146,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), data (4), [[Financial Data]] (2), [[Microsoft Excel|Excel]] (2), [[Analytics]] (1)
+> **Frameworks & Libraries:** [[Financial Data]] (2), [[Microsoft Excel|Excel]] (2), [[Business Analytics]] (1)
 > **CLI Commands:** make (1)
 > **Speakers:** - [instructor] (1)
 
-#### Competitor analysis and benchmarking
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980)
+#### [Competitor analysis and benchmarking](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=0)** - [Narrator] In business analytics, we're often called upon to examine not only how our own firm is performing, but also how our firm is performing against the industry or against some of our key competitors.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=0)** - [Narrator] In [[Business Analytics]], we're often called upon to examine not only how our own firm is performing, but also how our firm is performing against the industry or against some of our key competitors.
 >
-> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=13)** I'm in the zero four zero three begin Excel spreadsheet.
+> **[0:13](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=13)** I'm in the zero four zero three begin [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=17)** Now, when we look at competitors, oftentimes, one of the challenges that we face is that they might be either larger or smaller than us.
 >
@@ -2247,7 +2224,7 @@ created: 2026-05-02
 >
 > **[4:29](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=269)** But even if you don't know for the competitors as a whole, you would probably be able to get analysis of this for industry overall, that's point number one.
 >
-> **[4:40](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=280)** But point number two, if your peers are publicly traded, at least some of this information will be available through their financial statements and the MD&A section in their annual report.
+> **[4:40](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=280)** But point number two, if your peers are publicly traded, at least some of this information will be available through their [[Financial Statements]] and the MD&A section in their annual report.
 >
 > **[4:53](https://www.linkedin.com/learning/excel-for-business-analysts/competitor-analysis-and-benchmarking?u=76281980&t=293)** So that's a great way to kind of go through and get all this data.
 >
@@ -2261,28 +2238,27 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), [[Microsoft Excel|Excel]] (3), business (2), [[Analytics]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Business Analytics]] (1), [[Financial Statements]] (1)
 > **Env Vars:** cogs (1)
 > **Speakers:** - [narrator] (1)
 
-#### Growing revenue with business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980)
+#### [Growing revenue with business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=0)** - [Instructor] A big part of business analytics is simply being able to do modeling to understand the different results the business is going to face.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=0)** - [Instructor] A big part of [[Business Analytics]] is simply being able to do modeling to understand the different results the business is going to face.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=8)** That could be in the form of financial modeling like for sales or profits.
+> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=8)** That could be in the form of [[Financial Modeling]] like for sales or profits.
 >
 > **[0:12](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=12)** It could be in the form of operations to understand say deliveries or production constraints or it could be in the form of marketing.
 >
 > **[0:19](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=19)** There's a variety of different areas where this type of modeling will come up.
 >
-> **[0:23](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=23)** But regardless of your functional area, Excel can help with this.
+> **[0:23](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=23)** But regardless of your functional area, [[Microsoft Excel|Excel]] can help with this.
 >
 > **[0:28](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=28)** I'm in the 04 04 Begin Excel file.
 >
-> **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=32)** Now what we have here is a simple set of financial statements and a budget for a firm, right?
+> **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=32)** Now what we have here is a simple set of [[Financial Statements]] and a budget for a firm, right?
 >
 > **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/growing-revenue-with-business-analytics?u=76281980&t=38)** And this is all hypothetical, but we're at a point at the end of 2020, and the firm is trying to figure out what they want to do going forward in 2021 because they have a little bit of a problem.
 >
@@ -2376,19 +2352,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), business (2), [[Analytics]] (1), [[Financial Modeling]] (1), functional (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), [[Business Analytics]] (1), [[Financial Modeling]] (1), [[Financial Statements]] (1)
 > **Definitions:** in other words (2), is a  (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** mrpu (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Business strategy and business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980)
+#### [Business strategy and business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=0)** - [Instructor] One key aspect of business analytics involves optimization.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=0)** - [Instructor] One key aspect of [[Business Analytics]] involves optimization.
 >
 > **[0:04](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=4)** From pricing specialists to marketing analysts.
 >
@@ -2396,7 +2371,7 @@ created: 2026-05-02
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=17)** Let's take a look at an example.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=18)** I'm in the zero four zero eight begin, Excel sheet.
+> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=18)** I'm in the zero four zero eight begin, [[Microsoft Excel|Excel]] sheet.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-for-business-analysts/business-strategy-and-business-analytics?u=76281980&t=22)** So we've got a firm here and the firm has five months of history or excuse me six months of history, I suppose, through the end of 2020.
 >
@@ -2466,14 +2441,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Microsoft Excel|Excel]] (3), [[Analytics]] (2), data (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (3), [[Business Analytics]] (2)
 > **Env Vars:** s28 (2), h12 (1), s12 (1)
 > **CLI Commands:** make (1)
 > **Analogies:** for instance (1)
 > **Speakers:** - [instructor] (1)
 
-#### Product pricing with business analytics
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980)
+#### [Product pricing with business analytics](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2481,7 +2455,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980&t=7)** Oftentimes, being a good business analyst means being able to model a complex business situation and then make recommendations to senior executives based on your analysis.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980&t=18)** I'm in the zero four zero six begin Excel spreadsheet.
+> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980&t=18)** I'm in the zero four zero six begin [[Microsoft Excel|Excel]] spreadsheet.
 >
 > **[0:22](https://www.linkedin.com/learning/excel-for-business-analysts/product-pricing-with-business-analytics?u=76281980&t=22)** Now we have a scenario here where a firm is sort of in trouble.
 >
@@ -2581,13 +2555,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5), business (3), data (2), power (2), product (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (5)
 > **CLI Commands:** make (2)
 > **UI Navigation:** select the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Price, volume, and sensitivity analysis
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980)
+#### [Price, volume, and sensitivity analysis](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2603,7 +2576,7 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980&t=30)** So let's take a look at a simple example.
 >
-> **[0:33](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980&t=33)** I'm in the 04_07_Begin Excel file.
+> **[0:33](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980&t=33)** I'm in the 04_07_Begin [[Microsoft Excel|Excel]] file.
 >
 > **[0:36](https://www.linkedin.com/learning/excel-for-business-analysts/price-volume-and-sensitivity-analysis?u=76281980&t=36)** Now I've put together some simple data here.
 >
@@ -2727,7 +2700,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (5), business (3), hit (3), [[Microsoft Excel|Excel]] (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (2)
 > **Definitions:** is a  (3), is an  (1)
 > **Analogies:** for instance (2), imagine (1)
 > **UI Navigation:** select the (2)
@@ -2735,14 +2708,13 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - [instructor] (1)
 
-#### Controlling costs in business
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980)
+#### [Controlling costs in business](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980&t=0)** - [Instructor] Business analysts are often asked to look at data and then opine on what might happen under a set of scenarios in the future.
 >
-> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980&t=8)** Excel can help us with this.
+> **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980&t=8)** [[Microsoft Excel|Excel]] can help us with this.
 >
 > **[0:10](https://www.linkedin.com/learning/excel-for-business-analysts/controlling-costs-in-business?u=76281980&t=10)** Now we all know of course that we can build models to let us see what might happen in a scenario with Excel.
 >
@@ -2838,7 +2810,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4), power (4), cloud (4), data (3), business (1)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (4)
 > **Analogies:** for instance (2), imagine (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
@@ -2851,20 +2823,19 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Understanding AI tools and BA
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980)
+#### [Understanding AI tools and BA](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=0)** - [Instructor] One of the biggest technology advances in the last few years has been the rise of generative AI tools, most notably ChatGPT, but there's a number of other generative AI programs out there, including Microsoft's Copilot, Google's Bard, and Twitter or X's Grok.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=0)** - [Instructor] One of the biggest technology advances in the last few years has been the rise of [[Generative AI Tools]], most notably [[ChatGPT]], but there's a number of other [[Generative AI]] programs out there, including [[Microsoft]]'s [[Microsoft Copilot|Copilot]], [[Google]]'s Bard, and Twitter or X's Grok.
 >
 > **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=18)** Now, there's a series of these generative AI tools that are available, in some cases, for very niche applications.
 >
-> **[0:24](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=24)** We won't have time to get into all of that in this particular course, but I have another course here on LinkedIn Learning that's focused on FinTech and generative AI if you want to go a little bit deeper.
+> **[0:24](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=24)** We won't have time to get into all of that in this particular course, but I have another course here on [[LinkedIn]] Learning that's focused on FinTech and generative AI if you want to go a little bit deeper.
 >
 > **[0:35](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=35)** But in any event, what is generative AI?
 >
-> **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=38)** Well, essentially, generative AI works based on what are called large language models.
+> **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=38)** Well, essentially, generative AI works based on what are called [[Large Language Models (LLM)|large language models]].
 >
 > **[0:42](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=42)** This looks at large amounts of text data and then uses an algorithm behind the scenes to allow the computer to respond in an almost human-like way to questions that a person asks.
 >
@@ -2878,7 +2849,7 @@ created: 2026-05-02
 >
 > **[1:14](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=74)** Now, in some cases, some of these might be more for education purposes, like college students or high school students.
 >
-> **[1:21](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=81)** They might be more for kind of consumer needs, but there's certainly a lot of business applications, and this is especially true in the business analytics world.
+> **[1:21](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=81)** They might be more for kind of consumer needs, but there's certainly a lot of business applications, and this is especially true in the [[Business Analytics]] world.
 >
 > **[1:32](https://www.linkedin.com/learning/excel-for-business-analysts/understanding-ai-tools-and-ba?u=76281980&t=92)** For example, we could feed data to one of these generative AI tools and ask it to help us to come up with trends or identify outliers or patterns in the data.
 >
@@ -2910,21 +2881,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (9), [[Generative AI]] (6), [[Generative AI Tools]] (3), [[ChatGPT]] (3), business (3)
+> **Frameworks & Libraries:** [[Generative AI]] (6), [[Generative AI Tools]] (3), [[ChatGPT]] (3), [[Microsoft Copilot|Copilot]] (2), [[Microsoft]] (1)
 > **Cross-References:** coming up (2), in the last (1)
 > **Analogies:** for example (3)
 > **Speakers:** - [instructor] (1)
 
-#### Using data with generative AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980)
+#### [Using data with generative AI](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=0)** - [Instructor] Generative AI can be an incredible tool for business analysts trying to do analysis on financial statements and financial reports from firms.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=0)** - [Instructor] [[Generative AI]] can be an incredible tool for business analysts trying to do analysis on [[Financial Statements]] and financial reports from firms.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=9)** Let's take a look at an example.
 >
-> **[0:11](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=11)** So I'm here in the ChatGPT 3.5, OpenAI's tool, and I'm going to ask ChatGPT to go through and analyze a portion of an annual financial report for a company, in this case, Illumina.
+> **[0:11](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=11)** So I'm here in the [[ChatGPT]] 3.5, OpenAI's tool, and I'm going to ask ChatGPT to go through and analyze a portion of an annual financial report for a company, in this case, Illumina.
 >
 > **[0:27](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=27)** Now, I should note that there are two versions of ChatGPT.
 >
@@ -2960,7 +2930,7 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=145)** All you have to do is pop text in there and ChatGPT will give you detailed bullet points.
 >
-> **[2:31](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=151)** Imagine you could use this as an example for creating PowerPoint presentations, for creating short summaries, for reports for higher ups, et cetera.
+> **[2:31](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=151)** Imagine you could use this as an example for creating [[Microsoft PowerPoint|PowerPoint]] presentations, for creating short summaries, for reports for higher ups, et cetera.
 >
 > **[2:40](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=160)** But let's go a little deeper.
 >
@@ -3002,7 +2972,7 @@ created: 2026-05-02
 >
 > **[4:39](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=279)** So overall, it gives me kind of some key points to think about as I'm looking at this data.
 >
-> **[4:45](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=285)** Now, there are other AI tools out there beyond ChatGPT, of course, and another great one is Copilot.
+> **[4:45](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=285)** Now, there are other AI tools out there beyond ChatGPT, of course, and another great one is [[Microsoft Copilot|Copilot]].
 >
 > **[4:54](https://www.linkedin.com/learning/excel-for-business-analysts/using-data-with-generative-ai?u=76281980&t=294)** So I've done the same exercise for Copilot, and we'll see kind of what it does.
 >
@@ -3054,7 +3024,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (16), data (10), [[Microsoft Copilot|Copilot]] (8), business (3), [[Generative AI]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (16), [[Microsoft Copilot|Copilot]] (8), [[Generative AI]] (2), [[Financial Statements]] (1), [[Microsoft PowerPoint|Powerpoint]] (1)
 > **Versions:** 3.5 (3)
 > **Env Vars:** covid (2)
 > **Warnings:** note that (1), be aware (1)
@@ -3063,18 +3033,17 @@ created: 2026-05-02
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Limitations on AI and data
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980)
+#### [Limitations on AI and data](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=0)** - [Instructor] As powerful as generative AI tools are, you still need to use a degree of common sense and reason when dealing with them.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=0)** - [Instructor] As powerful as [[Generative AI Tools]] are, you still need to use a degree of common sense and reason when dealing with them.
 >
 > **[0:09](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=9)** They still struggle with making decisions and making recommendations and retrieving information in a surprising number of areas.
 >
 > **[0:17](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=17)** Let's take a look.
 >
-> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=18)** So I'm here using the ChatGPT 3.5 tool, and I've asked ChatGPT, "What is the episode of Friends," the television show, "where Joey eats too many marshmallows and gets sick?"
+> **[0:18](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=18)** So I'm here using the [[ChatGPT]] 3.5 tool, and I've asked ChatGPT, "What is the episode of Friends," the television show, "where Joey eats too many marshmallows and gets sick?"
 >
 > **[0:32](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=32)** Now, there is no such episode.
 >
@@ -3098,7 +3067,7 @@ created: 2026-05-02
 >
 > **[1:17](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=77)** Now, we don't think about having to argue with computers in a way.
 >
-> **[1:22](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=82)** If we're using Excel and we ask it to sum up and give an average of numbers, we never say no, that's not correct, Excel.
+> **[1:22](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=82)** If we're using [[Microsoft Excel|Excel]] and we ask it to sum up and give an average of numbers, we never say no, that's not correct, Excel.
 >
 > **[1:30](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=90)** Try again.
 >
@@ -3128,7 +3097,7 @@ created: 2026-05-02
 >
 > **[2:34](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=154)** "What's going on with the stock market today?"
 >
-> **[2:36](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=156)** Okay, doesn't have any access to real-time data.
+> **[2:36](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=156)** Okay, doesn't have any access to [[Real-Time]] data.
 >
 > **[2:40](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=160)** Now, this is despite the fact that, of course, we are using ChatGPT through a web interface, but it doesn't have any information that it can give us about current events, okay?
 >
@@ -3218,7 +3187,7 @@ created: 2026-05-02
 >
 > **[6:50](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=410)** And it says, hey, sorry, I apologize for the confusion.
 >
-> **[6:52](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=412)** There was an error in my attempt to execute Python code.
+> **[6:52](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=412)** There was an error in my attempt to execute [[Python (Programming Language)|Python]] code.
 >
 > **[6:55](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=415)** Unfortunately, I can't run code directly in this environment.
 >
@@ -3234,7 +3203,7 @@ created: 2026-05-02
 >
 > **[7:25](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=445)** And that's a good starting point.
 >
-> **[7:27](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=447)** Let's ask Copilot the same thing.
+> **[7:27](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=447)** Let's ask [[Microsoft Copilot|Copilot]] the same thing.
 >
 > **[7:32](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=452)** So I'm going to ask it to project 2024 sales data based on this information.
 >
@@ -3260,13 +3229,13 @@ created: 2026-05-02
 >
 > **[9:16](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=556)** We had $6,000 in sales, as an example, at the start of the data in a single week, so suggesting that we should have 1,166 for the full year is not a reasonable projection.
 >
-> **[9:30](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=570)** So in a nutshell, the key takeaway here is, generative AI is a very useful tool, and it can do a lot, but you always have to approach the output that it provides with a little bit of a skeptical eye and just make sure that you're applying reasonable business sense to say, does this fit with what I'm looking for, and is this logically consistent?
+> **[9:30](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=570)** So in a nutshell, the key takeaway here is, [[Generative AI]] is a very useful tool, and it can do a lot, but you always have to approach the output that it provides with a little bit of a skeptical eye and just make sure that you're applying reasonable business sense to say, does this fit with what I'm looking for, and is this logically consistent?
 >
 > **[9:54](https://www.linkedin.com/learning/excel-for-business-analysts/limitations-on-ai-and-data?u=76281980&t=594)** But try this on your own and see how you make out with this type of summary and analysis work using either Copilot or ChatGPT.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[ChatGPT]] (22), data (11), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Copilot|Copilot]] (2)
+> **Frameworks & Libraries:** [[ChatGPT]] (22), [[Python (Programming Language)|Python]] (3), [[Microsoft Excel|Excel]] (2), [[Microsoft Copilot|Copilot]] (2), [[Generative AI Tools]] (1)
 > **CLI Commands:** make (6), python (3), find (1)
 > **Versions:** 3.5 (2), 22.39 (1), 166.28 (1)
 > **Env Vars:** see (2)
@@ -3280,12 +3249,11 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Putting tools into action
-> [LinkedIn Learning](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980)
+#### [Putting tools into action](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=0)** - [Instructor] Well, we've come to the end of our discussion of business analytics in Excel, but a few key points to keep in mind as you leave.
+> **[0:00](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=0)** - [Instructor] Well, we've come to the end of our discussion of [[Business Analytics]] in [[Microsoft Excel|Excel]], but a few key points to keep in mind as you leave.
 >
 > **[0:08](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=8)** First, remember Excel has got lots of great tools for business analysts.
 >
@@ -3299,7 +3267,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=38)** Second, Excel makes it really easy to build intuitive business models for everything from marketing, to operations, to finance, to accounting, or any other area of the firm.
 >
-> **[0:49](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=49)** Excel can let us go through and understand what might happen under a variety of scenarios with everything from forecasting tools, and scenario analysis, to sensitivity analysis, and then options for data visualization.
+> **[0:49](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=49)** Excel can let us go through and understand what might happen under a variety of scenarios with everything from [[Forecasting]] tools, and scenario analysis, to sensitivity analysis, and then options for data visualization.
 >
 > **[1:04](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=64)** So Excel is a great all around tool that lets us do a little bit of everything pretty well.
 >
@@ -3317,13 +3285,13 @@ created: 2026-05-02
 >
 > **[1:40](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=100)** There's limitless opportunities when it comes to business analytics if you take the time to go through and understand the data.
 >
-> **[1:48](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=108)** And of course I'd certainly suggest keeping an eye out for other great courses right here on LinkedIn learning.
+> **[1:48](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=108)** And of course I'd certainly suggest keeping an eye out for other great courses right here on [[LinkedIn]] learning.
 >
 > **[1:55](https://www.linkedin.com/learning/excel-for-business-analysts/putting-tools-into-action?u=76281980&t=115)** I'll see you next time.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), data (6), business (5), [[Analytics]] (3), next (2)
+> **Frameworks & Libraries:** [[Microsoft Excel|Excel]] (7), [[Business Analytics]] (3), [[Forecasting]] (1), [[LinkedIn]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (1)
 > **Analogies:** for instance (1)

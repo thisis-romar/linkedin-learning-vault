@@ -17,7 +17,7 @@ tags:
   - topic/database-management
   - topic/cloud-computing
   - topic/artificial-intelligence
-course_count: 19
+course_count: 20
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Data Architecture
 
-> **Type:** Concept | **Courses:** 19 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 20 | **Topics:** [[Data Science]], [[Software Development]], [[Database Management]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,16 +40,17 @@ created: 2026-05-02
 9. [[Designing Data Governance]] — 2 mentions
 10. [[Advanced SQL for Data Scientists]] — 2 mentions
 
-> [!note]- See all 19 courses
+> [!note]- See all 20 courses
 > 11. [[Introduction To Career Skills In Data Analytics]] — 1 mentions
 > 12. [[Learning Rest Apis]] — 1 mentions
 > 13. [[Data Engineering Foundations]] — 1 mentions
 > 14. [[End-to-End Data Engineering Project]] — 1 mentions
-> 15. [[Database Design Fundamentals]] — 1 mentions
-> 16. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
-> 17. [[Data Quality- Core Concepts]] — 1 mentions
-> 18. [[Transition from Data Science to Data Engineering]] — 1 mentions
-> 19. [[Advanced SQL for Query Tuning and Performance Optimization]] — 1 mentions
+> 15. [[Azure Understanding The Big Picture]] — 1 mentions
+> 16. [[Database Design Fundamentals]] — 1 mentions
+> 17. [[Data Integration And Api Development For Ai Applications]] — 1 mentions
+> 18. [[Data Quality- Core Concepts]] — 1 mentions
+> 19. [[Transition from Data Science to Data Engineering]] — 1 mentions
+> 20. [[Advanced SQL for Query Tuning and Performance Optimization]] — 1 mentions
 
 ## Learning Paths
 

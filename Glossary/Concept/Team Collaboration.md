@@ -17,7 +17,7 @@ tags:
   - topic/devops
   - topic/cloud-computing
   - topic/artificial-intelligence
-course_count: 31
+course_count: 32
 created: 2026-05-02
 ---
 
@@ -25,7 +25,7 @@ created: 2026-05-02
 
 # Team Collaboration
 
-> **Type:** Concept | **Courses:** 31 | **Topics:** [[Software Development]], [[Data Science]], [[DevOps]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
+> **Type:** Concept | **Courses:** 32 | **Topics:** [[Software Development]], [[Data Science]], [[DevOps]], [[Cloud Computing]], [[Artificial Intelligence (AI)]]
 
 ## Courses
 
@@ -40,7 +40,7 @@ created: 2026-05-02
 9. [[Devops Foundations Lean And Agile]] — 1 mentions
 10. [[How to Keep Your Team on the Bleeding Edge of AI Innovation]] — 1 mentions
 
-> [!note]- See all 31 courses
+> [!note]- See all 32 courses
 > 11. [[Planning and Releasing Software with Jira]] — 1 mentions
 > 12. [[Agile Software Development- Scrum for Developers]] — 1 mentions
 > 13. [[C- Framework Design]] — 1 mentions
@@ -50,18 +50,19 @@ created: 2026-05-02
 > 17. [[Lo-Fi to Hi-Fi- Prototyping in Figma]] — 1 mentions
 > 18. [[PySpark Essential Training- Introduction to Building Data Pipelines]] — 1 mentions
 > 19. [[The AI Ecosystem for Developers- Models, Datasets, and APIs]] — 1 mentions
-> 20. [[Application Security in DevSecOps]] — 1 mentions
-> 21. [[Leveraging Security Metrics in Your Organization]] — 1 mentions
-> 22. [[Building Your Cybersecurity Talent Pipeline]] — 1 mentions
-> 23. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
-> 24. [[Test Automation Foundations]] — 1 mentions
-> 25. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
-> 26. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
-> 27. [[Azure DevOps for Beginners]] — 1 mentions
-> 28. [[Nail Your C++ Interview]] — 1 mentions
-> 29. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 1 mentions
-> 30. [[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]] — 1 mentions
-> 31. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
+> 20. [[Azure Understanding The Big Picture]] — 1 mentions
+> 21. [[Application Security in DevSecOps]] — 1 mentions
+> 22. [[Leveraging Security Metrics in Your Organization]] — 1 mentions
+> 23. [[Building Your Cybersecurity Talent Pipeline]] — 1 mentions
+> 24. [[Fundamentals of Agentic AI- Business Implications and Ethical Insights]] — 1 mentions
+> 25. [[Test Automation Foundations]] — 1 mentions
+> 26. [[Agile Software Development- Remote Teams (2019)]] — 1 mentions
+> 27. [[Build Your Generative AI Plan for Marketing Success]] — 1 mentions
+> 28. [[Azure DevOps for Beginners]] — 1 mentions
+> 29. [[Nail Your C++ Interview]] — 1 mentions
+> 30. [[Low Code-No-Code Data Literacy with KNIME- From Basic to Advanced]] — 1 mentions
+> 31. [[International Software Testing Qualifications Board (ISTQB) 4.0+ Foundation Cert Prep]] — 1 mentions
+> 32. [[MLOps Essentials- Model Development and Integration]] — 1 mentions
 
 ## Learning Paths
 

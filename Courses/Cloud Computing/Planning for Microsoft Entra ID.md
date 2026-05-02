@@ -95,16 +95,15 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Hybrid identity
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
+#### [Hybrid identity](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=0)** - Welcome to my LinkedIn Learning course on Azure Active Directory Planning.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=0)** - Welcome to my [[LinkedIn]] Learning course on [[Microsoft Entra ID|Azure Active Directory]] Planning.
 >
-> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=4)** As you know, Azure Active Directory is an identity as a service built into Microsoft Azure.
+> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=4)** As you know, Azure Active Directory is an identity as a service built into [[Microsoft Azure]].
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=10)** Azure AD is modern, has tons of really cool features, and is the perfect solution for handling all of your identity needs.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=10)** [[Microsoft Entra ID|Azure AD]] is modern, has tons of really cool features, and is the perfect solution for handling all of your identity needs.
 >
 > **[0:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=17)** But, most organization study have heavy investments in their on-premises based identity solutions.
 >
@@ -124,7 +123,7 @@ created: 2026-05-02
 >
 > **[1:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=66)** But like I said, more often than not, there is an entire infrastructure already in place on-premises, tied to a local identity solution.
 >
-> **[1:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=76)** In Microsoft networks, it's most commonly Active Directory.
+> **[1:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=76)** In [[Microsoft]] networks, it's most commonly [[Active Directory]].
 >
 > **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/hybrid-identity?u=76281980&t=80)** So we need to integrate Azure AD and the new server active directory in a way that allows them to work together and can unleash the raw power of both solutions.
 >
@@ -152,21 +151,20 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), cloud (4), [[Microsoft Entra ID|Azure active directory]] (3), [[LinkedIn]] (2), [[Microsoft]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Microsoft Entra ID|Azure active directory]] (3), [[LinkedIn]] (2), [[Microsoft]] (2), [[Active Directory]] (2)
 > **Definitions:** is an  (2), is called (1)
 > **Prerequisites:** required to (1)
 > **Speakers:** - welcome (1)
 
-#### Prerequisites
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980)
+#### [Prerequisites](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=0)** - [Narrator] Here are the prerequisites you'll need to derive the maximum benefit from this course.
 >
-> **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=5)** First and foremost, I strongly recommend that you watch my previous course, I showed Active Directory:Basics, before beginning this course.
+> **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=5)** First and foremost, I strongly recommend that you watch my previous course, I showed [[Active Directory]]:Basics, before beginning this course.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=13)** I've covered all the fundamentals of Azure AD over there, including the concept of Standalone and Hybrid Environments.
+> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=13)** I've covered all the fundamentals of [[Microsoft Entra ID|Azure AD]] over there, including the concept of Standalone and Hybrid Environments.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=19)** I then demonstrated how to create an Azure AD Tenant for a fictitious organization named world traveler TV, and also showcase how to add the custom domain world traveler.tv to that domain.
 >
@@ -174,9 +172,9 @@ created: 2026-05-02
 >
 > **[0:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=43)** Great, now that we are clear with that, here's what you will need to make the best use of this course.
 >
-> **[0:49](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=49)** The intended target audience for this course is Windows Server Administrators, Azure Administrators and Identity Professionals who are looking for a deeper understanding of hybrid identity in the Microsoft world.
+> **[0:49](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=49)** The intended target audience for this course is [[Windows Server]] Administrators, [[Microsoft Azure|Azure]] Administrators and Identity Professionals who are looking for a deeper understanding of hybrid identity in the [[Microsoft]] world.
 >
-> **[1:01](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=61)** The prior knowledge required is like I said, it will be great if you have watched my previous course Azure Active Directory:Basics.
+> **[1:01](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=61)** The prior knowledge required is like I said, it will be great if you have watched my previous course [[Microsoft Entra ID|Azure Active Directory]]:Basics.
 >
 > **[1:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/prerequisites?u=76281980&t=69)** In addition prior knowledge of the AD Connect Tool Azure Administration and Windows Server Active Directory Administration is a plus.
 >
@@ -194,14 +192,13 @@ created: 2026-05-02
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - [narrator] (1)
 
-#### Roadmap
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980)
+#### [Roadmap](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980&t=0)** - Here's a road map of the topics we'll be covering in this course.
 >
-> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980&t=4)** Ideally, onboarding onto Azure AD is a very straightforward and simple process if you're deploying a stand alone environment.
+> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980&t=4)** Ideally, onboarding onto [[Microsoft Entra ID|Azure AD]] is a very straightforward and simple process if you're deploying a stand alone environment.
 >
 > **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/roadmap?u=76281980&t=11)** But when it comes to a hybrid environment, there are a few extra things you need to take care of before rolling out Azure AD in your organization.
 >
@@ -231,7 +228,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2)
 > **Prerequisites:** configure (1), install (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - here (1)
@@ -241,8 +238,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Entra ID Connect overview
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
+#### [Entra ID Connect overview](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -250,11 +246,11 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=5)** Here we shall get a deeper understanding of what AD Connect does, features it supports, how it works under the hood and get to know additional tools included with the AD Connect installation.
 >
-> **[0:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=16)** As you know by now, the AD Connect tool serves as the foundation for hybrid identity infrastructure in a Microsoft network.
+> **[0:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=16)** As you know by now, the AD Connect tool serves as the foundation for hybrid identity infrastructure in a [[Microsoft]] network.
 >
-> **[0:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=24)** Its primary job is to integrate, or in other words, to create a bridge between on-premises Windows Server Active Directory and Azure Active Directory.
+> **[0:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=24)** Its primary job is to integrate, or in other words, to create a bridge between on-premises [[Windows Server]] [[Active Directory]] and [[Microsoft Entra ID|Azure Active Directory]].
 >
-> **[0:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=33)** This bridge facilitates the synchronization of active directory objects from the on-premises environment to Azure.
+> **[0:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=33)** This bridge facilitates the synchronization of active directory objects from the on-premises environment to [[Microsoft Azure|Azure]].
 >
 > **[0:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=40)** Including users, groups and computers.
 >
@@ -264,11 +260,11 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=56)** But not objects, configuration changes.
 >
-> **[1:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=60)** Such as configuration changes made in Azure AD can propagate back to on-premises Windows Server Active Directory.
+> **[1:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=60)** Such as configuration changes made in [[Microsoft Entra ID|Azure AD]] can propagate back to on-premises Windows Server Active Directory.
 >
 > **[1:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=67)** We'll talk more about this soon.
 >
-> **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=70)** And then AD Connect uses a SQL Server database to store all its metadata.
+> **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=70)** And then AD Connect uses a [[Microsoft SQL Server|SQL Server]] database to store all its [[Metadata]].
 >
 > **[1:15](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/azure-ad-connect-overview?u=76281980&t=75)** This database is probably the most crucial part of this entire setup.
 >
@@ -282,25 +278,24 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (3), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), database (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (3), [[Windows Server]] (2), [[Microsoft Azure|Azure]] (2), [[Microsoft]] (1), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Prerequisites:** setup (2)
 > **Env Vars:** sql (1)
 > **Definitions:** in other words (1)
 > **Analogies:** such as (1)
 > **Speakers:** - [instructor] (1)
 
-#### Deployment configurations
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980)
+#### [Deployment configurations](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=0)** - [Instructor] Deployment configurations are those that determine how to deploy AD connect depending on your Active Directory forest Topology.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=0)** - [Instructor] Deployment configurations are those that determine how to deploy AD connect depending on your [[Active Directory]] forest Topology.
 >
 > **[0:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=8)** The deployment strategy changes based on different topologies.
 >
 > **[0:12](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=12)** Let's understand how?
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=13)** So here's your Active Directory forest Topology, the AD Connect Server and the Azure AD Tenant.
+> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=13)** So here's your Active Directory forest Topology, the AD Connect Server and the [[Microsoft Entra ID|Azure AD]] Tenant.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-configurations?u=76281980&t=19)** Ideally for one forest, you'd have one AD Connect Server and one corresponding Azure AD Tenant.
 >
@@ -334,26 +329,25 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2), management (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is called (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Rules for integration
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980)
+#### [Rules for integration](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=0)** - [Instructor] In the last video, you saw three different types of deployment configurations, simple, converging, and diverging.
 >
-> **[0:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=7)** Depending on your active directory topology, you should design and finalize a deployment configuration that is custom-made for your organization.
+> **[0:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=7)** Depending on your [[Active Directory]] topology, you should design and finalize a deployment configuration that is custom-made for your organization.
 >
 > **[0:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=16)** But in the process of doing that, you need to keep two rules in mind.
 >
 > **[0:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=20)** You must comply with these or your setup can fail.
 >
-> **[0:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=23)** The first rule states that the ratio of AD Connect servers to Azure AD tenants should be one is to one.
+> **[0:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=23)** The first rule states that the ratio of AD Connect servers to [[Microsoft Entra ID|Azure AD]] tenants should be one is to one.
 >
 > **[0:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/rules-for-integration?u=76281980&t=30)** Let's see some examples to understand this better.
 >
@@ -423,15 +417,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (10), [[Active Directory]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (10), [[Active Directory]] (1)
 > **Cross-References:** in the last (1)
 > **UI Navigation:** go to (1)
 > **Definitions:** basically means (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Component architecture
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980)
+#### [Component architecture](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -445,7 +438,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=28)** The Health component, the Synchronization Engine, or in short, the Sync Engine, and the ADFS component.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=35)** The Health component reports the health status of the AD Connect deployment to Azure.
+> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=35)** The Health component reports the health status of the AD Connect deployment to [[Microsoft Azure|Azure]].
 >
 > **[0:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=40)** We talk more about this in a later chapter.
 >
@@ -459,9 +452,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=63)** The three parts are, the Metaverse, a left Connector Space, and a right Connector Space.
 >
-> **[1:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=69)** The left Connector Space connects to Windows Server Active Directory through a connector.
+> **[1:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=69)** The left Connector Space connects to [[Windows Server]] [[Active Directory]] through a connector.
 >
-> **[1:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=74)** The right Connector Space connects to Azure AD through another connector.
+> **[1:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=74)** The right Connector Space connects to [[Microsoft Entra ID|Azure AD]] through another connector.
 >
 > **[1:18](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=78)** The connector on the left is responsible for implementing filtering, basically performing a check of which objects should synchronize and which objects shouldn't.
 >
@@ -489,7 +482,7 @@ created: 2026-05-02
 >
 > **[2:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=152)** The Metaverse is the brain of the Sync Engine.
 >
-> **[2:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=155)** If there are multiple forests, object from all Connector Spacess are consolidated here, deduplicated, if there are duplicate accounts for a user, organized, and then committed to the SQL Server Database.
+> **[2:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=155)** If there are multiple forests, object from all Connector Spacess are consolidated here, deduplicated, if there are duplicate accounts for a user, organized, and then committed to the [[Microsoft SQL Server|SQL Server]] Database.
 >
 > **[2:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/component-architecture?u=76281980&t=167)** These objects are then further subjected to outgoing synchronization rules, or OSR.
 >
@@ -525,15 +518,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), cloud (3), next (3), database (2), [[Troubleshooting]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Microsoft Azure|Azure]] (1), [[Windows Server]] (1), [[Active Directory]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** adfs (3), isr (1), sql (1), osr (1)
 > **Definitions:** is called (2)
 > **Cross-References:** in the next (1)
 > **Prerequisites:** setup (1)
 > **Speakers:** - [instructor] (1)
 
-#### Supporting tools
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980)
+#### [Supporting tools](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -559,7 +551,7 @@ created: 2026-05-02
 >
 > **[1:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=68)** Using the Synchronization Service Manager you can manually add more left connectors, view data stored in them and flush them out.
 >
-> **[1:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=77)** You can also search the Metaverse by querying objects from its database, manually starting a full or a delta synchronization, creating your own custom objects for synchronization to Azure AD and getting verbose statistics into the synchronization cycles.
+> **[1:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=77)** You can also search the Metaverse by querying objects from its database, manually starting a full or a delta synchronization, creating your own custom objects for synchronization to [[Microsoft Entra ID|Azure AD]] and getting verbose [[Statistics]] into the synchronization cycles.
 >
 > **[1:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=93)** You can do a lot of stuff here.
 >
@@ -573,7 +565,7 @@ created: 2026-05-02
 >
 > **[2:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=123)** These default rules for both import and export are automatically generated during the installation.
 >
-> **[2:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=129)** And Microsoft recommends that you do not change them.
+> **[2:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=129)** And [[Microsoft]] recommends that you do not change them.
 >
 > **[2:12](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/supporting-tools?u=76281980&t=132)** So if you want to add your own custom incoming or outgoing synchronization rules, this tool will be the place to go to.
 >
@@ -597,7 +589,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (4), data (3), feature (1), [[Search]] (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (1), [[Statistics]] (1), [[Microsoft]] (1)
 > **Env Vars:** isr (1), osr (1)
 > **Cross-References:** previous video (1), in the next (1)
 > **Definitions:** is a  (2)
@@ -610,14 +602,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Password hash synchronization
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
+#### [Password hash synchronization](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=0)** - [Instructor] Welcome to Planning for Users and Devices.
 >
-> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=4)** In this chapter, we'll understand how synchronizing to Azure AD can impact the behavior of objects or the nature of administration for users and devices.
+> **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=4)** In this chapter, we'll understand how synchronizing to [[Microsoft Entra ID|Azure AD]] can impact the behavior of objects or the nature of administration for users and devices.
 >
 > **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=13)** So, in order to make sure that there are no surprises, you need to plan for them and have a well-defined strategy.
 >
@@ -625,7 +616,7 @@ created: 2026-05-02
 >
 > **[0:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=23)** There are three types of sign-in methods that you can configure for users in your organization during the AD Connect installation.
 >
-> **[0:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=30)** Those are Password Hash Synchronization, Pass-Through Authentication, and the Active Directory Federation Services Authentication.
+> **[0:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=30)** Those are Password Hash Synchronization, Pass-Through Authentication, and the [[Active Directory]] Federation Services Authentication.
 >
 > **[0:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=40)** Which one to choose largely depends on what your organization's policy is when it comes to handling passwords.
 >
@@ -637,7 +628,7 @@ created: 2026-05-02
 >
 > **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=70)** In fact, not the password hash technically speaking.
 >
-> **[1:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=74)** The password hash in Windows server is rehashed, sent over an HTTPS connection.
+> **[1:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=74)** The password hash in [[Windows Server]] is rehashed, sent over an HTTPS connection.
 >
 > **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=80)** Once it reaches Azure AD, it is unhashed so the password hash hash just becomes hash now, and then this password hash is again rehashed with a different algorithm and stored in the cloud, which is much more secure.
 >
@@ -651,7 +642,7 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=110)** If they tried to access a resource on the cloud, the process is again similar.
 >
-> **[1:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=115)** They enter their passwords on the Azure log-in screen, which is then verified against the password hash stored in Azure AD.
+> **[1:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=115)** They enter their passwords on the [[Microsoft Azure|Azure]] log-in screen, which is then verified against the password hash stored in Azure AD.
 >
 > **[2:02](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=122)** If the authentication is successful and the user is found to be authorized, they get access to the resource they need.
 >
@@ -685,25 +676,24 @@ created: 2026-05-02
 >
 > **[3:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=230)** But otherwise, this is the best and the cloud-first-oriented method out there.
 >
-> **[3:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=235)** You get all the modern cloud features powered by artificial intelligence and machine learning.
+> **[3:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=235)** You get all the modern cloud features powered by [[Artificial Intelligence (AI)|artificial intelligence]] and machine learning.
 >
 > **[4:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/password-hash-synchronization?u=76281980&t=240)** This would be my number one choice.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (10), [[Microsoft Entra ID|Azure ad]] (6), [[Active Directory]] (2), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Active Directory]] (2), [[Windows Server]] (1), [[Microsoft Azure|Azure]] (1), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
 > **Prerequisites:** configure (1), set up (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** https (1)
 > **Analogies:** imagine (1)
 > **Speakers:** - [instructor] (1)
 
-#### Entra ID FS Authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980)
+#### [Entra ID FS Authentication](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=0)** - [Instructor] Let's move on to the second sign in method, the Active Directory Federation Services Authentication.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=0)** - [Instructor] Let's move on to the second sign in method, the [[Active Directory]] Federation Services Authentication.
 >
 > **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=6)** Here, in addition to the domain controller, you will also need an ADFS server and a WAP application proxy.
 >
@@ -715,9 +705,9 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=28)** This is an important differentiating factor, remember that.
 >
-> **[0:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=32)** The way for a user to authenticate locally is pretty much the same as before but if a user tries to authenticate to Azure AD, the whole logging session is redirected to the On Premises servers.
+> **[0:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=32)** The way for a user to authenticate locally is pretty much the same as before but if a user tries to authenticate to [[Microsoft Entra ID|Azure AD]], the whole logging session is redirected to the On Premises servers.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=45)** They enter the password, which is validated against Windows Server Active Directory present On Premises.
+> **[0:45](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=45)** They enter the password, which is validated against [[Windows Server]] Active Directory present On Premises.
 >
 > **[0:51](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=51)** At no point during this process does the password even touch Azure AD.
 >
@@ -727,7 +717,7 @@ created: 2026-05-02
 >
 > **[1:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=69)** The only borderline advantage here is that the password hashes are stored On Premises.
 >
-> **[1:15](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=75)** Organizations that are either paranoid about Cloud security or have a policy requirement to store passwords On Premises can leverage this method.
+> **[1:15](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=75)** Organizations that are either paranoid about [[Cloud Security]] or have a policy requirement to store passwords On Premises can leverage this method.
 >
 > **[1:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/ad-fs-authentication?u=76281980&t=84)** The cons outweigh the pros.
 >
@@ -747,13 +737,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), cloud (3), [[Active Directory]] (2), application (2), [[Windows Server]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Active Directory]] (2), [[Windows Server]] (1), [[Cloud Security]] (1)
 > **Env Vars:** adfs (2), wap (2)
 > **Definitions:** is an  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Pass-through Authentication
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980)
+#### [Pass-through Authentication](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -761,13 +750,13 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=4)** This is kind of a blend of the previous two methods, if I may dare say that.
 >
-> **[0:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=9)** Similar to the ADFS method, the passwords are not syncronised to the cloud, when a used attempts to sign in on premises, the process is pretty much the same, but if they try to authenticate in The Cloud Azure AD facilitates the log-in process It accepts the password, hashes it, and adds it to a temporary queue to be processed for authentication.
+> **[0:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=9)** Similar to the ADFS method, the passwords are not syncronised to the cloud, when a used attempts to sign in on premises, the process is pretty much the same, but if they try to authenticate in The Cloud [[Microsoft Entra ID|Azure AD]] facilitates the log-in process It accepts the password, hashes it, and adds it to a temporary queue to be processed for authentication.
 >
 > **[0:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=31)** At the same time, there's a Pass-Through Authentication agent installed on premises, on the AD connect server, listening for queued authentication requests, in Azure AD.
 >
-> **[0:41](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=41)** If it finds that there is a request to be processed, it fetches it, and validates it against on premises Active Directory.
+> **[0:41](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=41)** If it finds that there is a request to be processed, it fetches it, and validates it against on premises [[Active Directory]].
 >
-> **[0:48](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=48)** The whole process happens so fast, that it's almost as if the password just passes through Azure, on its way to on premises.
+> **[0:48](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=48)** The whole process happens so fast, that it's almost as if the password just passes through [[Microsoft Azure|Azure]], on its way to on premises.
 >
 > **[0:56](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=56)** The important point to note here is that Azure AD does not store this password hash, it only holds onto it momentarily, until the on premises agent fetches it from there; hence the name: Pass-Through.
 >
@@ -797,7 +786,7 @@ created: 2026-05-02
 >
 > **[2:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=125)** Any failure in the on prem servers or the connection in between them, sign ins will start to fail.
 >
-> **[2:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=131)** So what Microsoft also allows you to do is set Pass-Through Authentication as the primary sign in method, but also enable password hash synchronization as a back up method.
+> **[2:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=131)** So what [[Microsoft]] also allows you to do is set Pass-Through Authentication as the primary sign in method, but also enable password hash synchronization as a back up method.
 >
 > **[2:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/pass-through-authentication?u=76281980&t=141)** In such cases, if the primary method fails you can quickly switch to the password hash sync method, and ensure business continuity.
 >
@@ -807,20 +796,19 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), cloud (4), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft]] (1)
 > **Env Vars:** adfs (3), wap (1)
 > **Analogies:** just like (3), similar to (1)
 > **Definitions:** is a  (2)
 > **UI Navigation:** switch to (1)
 
-#### Defining user strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980)
+#### [Defining user strategy](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=0)** - [Instructor] Those of us who manage users in a traditional Windows Server-based on-premises environment are used to a certain way in which Active Directory objects behave and operate.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=0)** - [Instructor] Those of us who manage users in a traditional [[Windows Server]]-based on-premises environment are used to a certain way in which [[Active Directory]] objects behave and operate.
 >
-> **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=11)** But when you synchronize to Azure AD, some things change.
+> **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=11)** But when you synchronize to [[Microsoft Entra ID|Azure AD]], some things change.
 >
 > **[0:15](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=15)** My goal in this video is to make you aware of what behavior or administration techniques defer when managing users in the cloud so that you can map those changes and know when to take what action.
 >
@@ -828,7 +816,7 @@ created: 2026-05-02
 >
 > **[0:37](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=37)** You also know that there are three types of users in Azure AD: federated, synchronized, and cloud only.
 >
-> **[0:45](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=45)** If you don't know what these three are, I've covered that in my previous course, Azure Active Directory Basics.
+> **[0:45](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=45)** If you don't know what these three are, I've covered that in my previous course, [[Microsoft Entra ID|Azure Active Directory]] Basics.
 >
 > **[0:51](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=51)** Please go watch that.
 >
@@ -858,7 +846,7 @@ created: 2026-05-02
 >
 > **[1:52](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=112)** You will primarily see two main types of groups.
 >
-> **[1:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=115)** There will be others as well, but these are the main ones: security groups and Office 365 groups.
+> **[1:55](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=115)** There will be others as well, but these are the main ones: security groups and [[Microsoft Office|Office]] 365 groups.
 >
 > **[2:02](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=122)** I've covered them as well in the previous course.
 >
@@ -918,7 +906,7 @@ created: 2026-05-02
 >
 > **[5:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=323)** A global administrator account can manually assign the appropriate administrative rights to the relevant users.
 >
-> **[5:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=330)** Finally, once synchronization completes, I encourage you to go to the User Management page in Azure AD and explore the user profile of all synchronized users.
+> **[5:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=330)** Finally, once synchronization completes, I encourage you to go to the [[User Management]] page in Azure AD and explore the user profile of all synchronized users.
 >
 > **[5:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-user-strategy?u=76281980&t=340)** Compare it with those of cloud users.
 >
@@ -934,14 +922,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** cloud (16), [[Microsoft Entra ID|Azure ad]] (13), [[Security]] (6), [[Windows Server]] (4), [[Active Directory]] (3)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (13), [[Windows Server]] (4), [[Active Directory]] (3), [[Microsoft Office|Office]] (2), [[Microsoft Entra ID|Azure active directory]] (1)
 > **Env Vars:** adfs (2), phs (1), pta (1)
 > **Definitions:** in other words (1), is a  (1), is an  (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - [instructor] (1)
 
-#### Defining device strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980)
+#### [Defining device strategy](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -953,7 +940,7 @@ created: 2026-05-02
 >
 > **[0:15](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=15)** Now, let's split them into Cloud native and non-Cloud native users.
 >
-> **[0:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=20)** Then, for managing devices, you have three options, Hybrid Azure AD join, Azure AD join, and Device Registration.
+> **[0:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=20)** Then, for managing devices, you have three options, Hybrid [[Microsoft Entra ID|Azure AD]] join, Azure AD join, and Device Registration.
 >
 > **[0:29](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=29)** If you do not know these terms, please watch my previous course.
 >
@@ -985,7 +972,7 @@ created: 2026-05-02
 >
 > **[1:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=104)** So, interim or cloud solutions.
 >
-> **[1:46](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=106)** The sign-in can be through traditional passwords, or through the modern Windows Hello feature.
+> **[1:46](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=106)** The sign-in can be through traditional passwords, or through the modern [[Windows]] Hello feature.
 >
 > **[1:52](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/defining-device-strategy?u=76281980&t=112)** With this, you also get single sign-in to both cloud and on-premises resources which is really convenient for the end-users.
 >
@@ -1005,14 +992,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), cloud (8), management (1), [[Windows]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (9), [[Windows]] (1)
 > **Cross-References:** in the last (1)
 > **Definitions:** is a  (1)
 > **Analogies:** just like (1)
 > **Speakers:** - [instructor] (1)
 
-#### Filtering objects
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980)
+#### [Filtering objects](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1020,9 +1006,9 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=7)** So what is filtering?
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=10)** It is the process of choosing which objects are allowed to synchronize to Azure AD and which objects are not.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=10)** It is the process of choosing which objects are allowed to synchronize to [[Microsoft Entra ID|Azure AD]] and which objects are not.
 >
-> **[0:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=16)** A typical active directory forest consists of at least a few thousand objects.
+> **[0:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=16)** A typical [[Active Directory]] forest consists of at least a few thousand objects.
 >
 > **[0:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=21)** And it's not necessary that all of them must go up in the cloud.
 >
@@ -1080,7 +1066,7 @@ created: 2026-05-02
 >
 > **[2:51](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=171)** After you finish all the testing you need to switch to one of the other methods for filtering.
 >
-> **[2:57](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=177)** One more important point to remember, is that Microsoft does not support this filtering method in production.
+> **[2:57](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=177)** One more important point to remember, is that [[Microsoft]] does not support this filtering method in production.
 >
 > **[3:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/filtering-objects?u=76281980&t=183)** So you won't be able to call them and ask for help if this is what you're using.
 >
@@ -1106,7 +1092,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), next (2), [[Active Directory]] (1), cloud (1), database (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (5), [[Active Directory]] (1), [[Microsoft]] (1)
 > **UI Navigation:** go to (2)
 > **Definitions:** is a  (1), is an  (1)
 > **Analogies:** for example (1), similar to (1)
@@ -1114,12 +1100,11 @@ created: 2026-05-02
 > **Speakers:** - [narrator] (1), - you (1)
 > **CLI Commands:** make (1)
 
-#### Understanding writeback
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980)
+#### [Understanding writeback](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=0)** - [Instructor] We know that synchronization happens from Windows server Active Directory to Azure AD, but I also mentioned in the overview video that there's a bidirectional flow of data in AD Connect.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=0)** - [Instructor] We know that synchronization happens from [[Windows Server]] [[Active Directory]] to [[Microsoft Entra ID|Azure AD]], but I also mentioned in the overview video that there's a bidirectional flow of data in AD Connect.
 >
 > **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=11)** I hope you remember that.
 >
@@ -1171,7 +1156,7 @@ created: 2026-05-02
 >
 > **[2:29](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=149)** This is mainly for environments where exchange server is deployed in a hybrid architecture.
 >
-> **[2:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=155)** It is used to bring the collaboration that's available in Azure AD with Office 365 Groups into the on-premises environment.
+> **[2:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=155)** It is used to bring the collaboration that's available in Azure AD with [[Microsoft Office|Office]] 365 Groups into the on-premises environment.
 >
 > **[2:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-writeback?u=76281980&t=163)** So the same level of collaboration that is in the cloud is now brought to on premises.
 >
@@ -1191,7 +1176,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), [[Active Directory]] (2), next (2), feature (2), [[Microsoft Office|Office]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (12), [[Active Directory]] (2), [[Microsoft Office|Office]] (2), [[Windows Server]] (1)
 > **Env Vars:** adfs (2), sspr (1)
 > **Definitions:** is called (1), known as (1), is a  (1)
 > **CLI Commands:** make (2)
@@ -1203,14 +1188,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Preparing Windows Server AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
+#### [Preparing Windows Server AD](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=0)** - [Narrator] Now, let's talk about preparing the environment needed for successfully installing AD Connect on Premises.
 >
-> **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=6)** If you have ever deployed products like exchange, share point, or system center, you are going to find this to be quite simple.
+> **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=6)** If you have ever deployed [[Microsoft Products|products]] like exchange, share point, or system center, you are going to find this to be quite simple.
 >
 > **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=13)** That's because AD Connect isn't very demanding when it comes to installation prerequisites or resources.
 >
@@ -1222,15 +1206,15 @@ created: 2026-05-02
 >
 > **[0:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=30)** Basically, everything that AD Connect depends on, or interacts with.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=35)** The list includes the domain controller running the ADDS role, the server on which we will be installing the AD Connect tool, it's sequence sever database, firewall rules for allowing communication and synchronization among the components, and the Azure AD Tenant.
+> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=35)** The list includes the domain controller running the ADDS role, the server on which we will be installing the AD Connect tool, it's sequence sever database, firewall rules for allowing communication and synchronization among the components, and the [[Microsoft Entra ID|Azure AD]] Tenant.
 >
 > **[0:52](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=52)** So, these are essentially the four or five components that need repairing.
 >
 > **[0:57](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=57)** In this video, let's focus on the first component, the Active Directly Domain Services Sever.
 >
-> **[1:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=63)** I would recommend having at least Windows server 2012 R2 or above on all your domain controllers across the forest.
+> **[1:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=63)** I would recommend having at least [[Windows Server]] 2012 R2 or above on all your domain controllers across the forest.
 >
-> **[1:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=71)** Microsoft's official documentation suggest that you can also use all the versions, but then the features that you can enable in AD Connect become limited.
+> **[1:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=71)** [[Microsoft]]'s official documentation suggest that you can also use all the versions, but then the features that you can enable in AD Connect become limited.
 >
 > **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=80)** So, it's good to have at least Windows server 2012 R2 or above, and even better, if it has the latest updates installed, because depending on which version of AD Connect you're deploying, it may have a dependency on a patch or a hot fix.
 >
@@ -1248,7 +1232,7 @@ created: 2026-05-02
 >
 > **[2:02](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=122)** Download and run the ID fix tool.
 >
-> **[2:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=125)** This Microsoft utility helps you clean up your list of active directory users.
+> **[2:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=125)** This Microsoft utility helps you clean up your list of [[Active Directory]] users.
 >
 > **[2:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-windows-server-ad?u=76281980&t=130)** You can sanitize and remove unused, disabled, or unnecessary accounts before synchronization, so that those don't end up in Azure AD.
 >
@@ -1278,19 +1262,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Windows Server]] (4), [[Active Directory]] (3), [[Microsoft]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Windows Server]] (4), [[Active Directory]] (3), [[Microsoft]] (2), [[Microsoft Products|Products]] (1)
 > **Env Vars:** upn (3), adds (1), mmc (1)
 > **Definitions:** is a  (2)
 > **Prerequisites:** configure (1), install (1)
 > **CLI Commands:** find (1)
 > **Speakers:** - [narrator] (1)
 
-#### Demo: Preparing Windows Server AD
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980)
+#### [Demo: Preparing Windows Server AD](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=0)** - [Instructor] Now, let's see a demo on preparing Windows Server Active Directory.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=0)** - [Instructor] Now, let's see a demo on preparing [[Windows Server]] [[Active Directory]].
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=5)** Here I am on my domain controller.
 >
@@ -1328,7 +1311,7 @@ created: 2026-05-02
 >
 > **[1:30](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=90)** I'm just going to click on the OK button while that happens in the background.
 >
-> **[1:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=93)** Now our next step will be to add the UPN suffix corresponding to the Azure AD domain.
+> **[1:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=93)** Now our next step will be to add the UPN suffix corresponding to the [[Microsoft Entra ID|Azure AD]] domain.
 >
 > **[1:39](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=99)** For that, I will have to go to the Active Directory Domains and Trusts, right-click on this, and go to its Properties.
 >
@@ -1350,7 +1333,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=151)** You will have to repeat this step for all users.
 >
-> **[2:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=154)** If you have a small number of users, then you can do it manually, using the user interface or if you have a bulk of users, you can also do this through PowerShell.
+> **[2:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=154)** If you have a small number of users, then you can do it manually, using the user interface or if you have a bulk of users, you can also do this through [[Powershell]].
 >
 > **[2:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-windows-server-ad?u=76281980&t=163)** Now as far as provisioning a service account for Azure AD Connect is concerned because the installation wizard allows us to create that one of the fly during the installation, we'll not do that right now.
 >
@@ -1358,7 +1341,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Active Directory]] (6), next (4), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1), [[Search]] (1)
+> **Frameworks & Libraries:** [[Active Directory]] (6), [[Microsoft Entra ID|Azure ad]] (3), [[Windows Server]] (1), [[Powershell]] (1)
 > **UI Navigation:** click on (9), go to (4), right-click (1)
 > **Env Vars:** upn (5)
 > **CLI Commands:** make (1)
@@ -1366,8 +1349,7 @@ created: 2026-05-02
 > **Warnings:** warning (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing the Entra ID Connect server
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980)
+#### [Preparing the Entra ID Connect server](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1375,7 +1357,7 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=5)** Like I previously mentioned, the AD Connect tool is not very demanding in terms of prerequisites and has a very moderate resource footprint.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=13)** To deploy it you will need Windows Server 2012 R2 or above with the latest updates installed for the same reason we discussed in the previous slide.
+> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=13)** To deploy it you will need [[Windows Server]] 2012 R2 or above with the latest updates installed for the same reason we discussed in the previous slide.
 >
 > **[0:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=23)** This server should preferably be a domain-joined member.
 >
@@ -1391,13 +1373,13 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=56)** So secure it properly.
 >
-> **[0:58](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=58)** And having a rough estimate of the number of objects to be synchronized will be helpful in determining how powerful the hardware specifications of the server need to be.
+> **[0:58](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=58)** And having a rough estimate of the number of objects to be synchronized will be helpful in determining how powerful the [[Hardware]] specifications of the server need to be.
 >
 > **[1:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=68)** For example, if you have about 100k objects, then a 1.6 gigahertz processor with 16GB RAM and 100GB free hard disk space would be sufficient.
 >
 > **[1:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=79)** Next comes the AD Connect database.
 >
-> **[1:22](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=82)** You can use the free SQL Server Express Edition as the database, but only if the number of objects is less than 100k, or the database size does not exceed 10 gigabytes.
+> **[1:22](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=82)** You can use the free [[Microsoft SQL Server|SQL Server]] Express Edition as the database, but only if the number of objects is less than 100k, or the database size does not exceed 10 gigabytes.
 >
 > **[1:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-ad-connect-server?u=76281980&t=94)** If you go beyond either one of these limits, then you'll need to purchase a license for SQL Server Standard or Enterprise Edition.
 >
@@ -1423,7 +1405,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (8), [[Microsoft SQL Server|Sql server]] (7), express (3), [[Windows Server]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (7), [[Windows Server]] (2), [[Hardware]] (2)
 > **Env Vars:** sql (7), gui (1), nano (1), ram (1)
 > **CLI Commands:** make (2)
 > **Analogies:** just like (1), for example (1)
@@ -1432,8 +1414,7 @@ created: 2026-05-02
 > **Cross-References:** we discussed (1)
 > **Best Practices:** recommended (1)
 
-#### Demo: Preparing the Entra ID Connect server
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980)
+#### [Demo: Preparing the Entra ID Connect server](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1453,7 +1434,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980&t=31)** And the number of objects that we have for synchronization is about 10.
 >
-> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980&t=35)** So which means, I will be able use the default SQL Server express installation that comes along with AD Connect installation.
+> **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980&t=35)** So which means, I will be able use the default [[Microsoft SQL Server|SQL Server]] express installation that comes along with AD Connect installation.
 >
 > **[0:42](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-ad-connect-server?u=76281980&t=42)** But in case you had more than 100K object what you will have to do is, you'll have to pre-install the SQL Server by searching for SQL Server 2019.
 >
@@ -1467,15 +1448,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4), express (2), data (1)
+> **Frameworks & Libraries:** [[Microsoft SQL Server|Sql server]] (4)
 > **Env Vars:** sql (4), aad (1), wdtv (1), url (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
 > **Definitions:** is a  (1)
 > **Speakers:** - [instructor] (1)
 
-#### Preparing the firewalls and ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980)
+#### [Preparing the firewalls and ports](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1485,13 +1465,13 @@ created: 2026-05-02
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=5)** The exact number will depend on if you have a twofold or a threefold configuration.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=10)** If you install AD Connect and the database on the same server, then you will have a twofold configuration of the firewalls: one between the AD Connect server and the domain controller, the other between the AD Connect server and Azure AD.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=10)** If you install AD Connect and the database on the same server, then you will have a twofold configuration of the firewalls: one between the AD Connect server and the domain controller, the other between the AD Connect server and [[Microsoft Entra ID|Azure AD]].
 >
 > **[0:25](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=25)** But if you install the database on a separate server, then you will have a threefold configuration.
 >
 > **[0:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=31)** You'll also have to take care of the communication between the AD Connect server and its database.
 >
-> **[0:36](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=36)** For this, the ports that need to be open are the standard SQL port of 1433 or whatever custom port you're using between AD Connect and its database.
+> **[0:36](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=36)** For this, the ports that need to be open are the standard [[SQL]] port of 1433 or whatever custom port you're using between AD Connect and its database.
 >
 > **[0:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=47)** For communication between the AD Connect server and Azure AD, all you need are the standard HTTP and HTTPS ports open, 80 and 443, which are mostly open anyway.
 >
@@ -1499,9 +1479,9 @@ created: 2026-05-02
 >
 > **[1:03](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=63)** And lastly, between the AD Connect server and the domain controller, you need ports for DNS, Kerberos, LDAP, LDAP/SSL, and SMB, basically 53, 88, 389, 636, and 445.
 >
-> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=80)** Part form these, there are two more ports which are the RPC and the Microsoft RPC ports, but they are dynamic and automatically taken care of.
+> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=80)** Part form these, there are two more ports which are the RPC and the [[Microsoft]] RPC ports, but they are dynamic and automatically taken care of.
 >
-> **[1:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=88)** Now, an important note to make here is that most of these rules can be configured by the AD Connect installation automatically if you're using the Windows firewall.
+> **[1:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=88)** Now, an important note to make here is that most of these rules can be configured by the AD Connect installation automatically if you're using the [[Windows]] firewall.
 >
 > **[1:37](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-firewalls-and-ports?u=76281980&t=97)** The only reason why I'm listing all the port numbers here are so that in case you are using a third-party firewall, you will have to take care of these ports manually.
 >
@@ -1511,15 +1491,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (4), [[Microsoft Entra ID|Azure ad]] (2), [[Windows]] (2), [[SQL]] (1), dns (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2), [[Windows]] (2), [[SQL]] (1), [[Microsoft]] (1)
 > **Env Vars:** ldap (2), rpc (2), sql (1), http (1), https (1)
 > **Prerequisites:** install (2)
 > **CLI Commands:** make (1)
 > **Warnings:** important note (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Preparing the firewalls and ports
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980)
+#### [Demo: Preparing the firewalls and ports](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1527,7 +1506,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=6)** Now I'm back on the domain controller, to make sure the ports required for the AD connect installation are open.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=13)** Ideally you wouldn't have to worry about this if you're using the Windows firewall, but you still need to know what ports to open in case you're using a third party firewall software.
+> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=13)** Ideally you wouldn't have to worry about this if you're using the [[Windows]] firewall, but you still need to know what ports to open in case you're using a third party firewall software.
 >
 > **[0:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=24)** To ensure that the ports we require are open let's go to windows firewall with advanced security, go to inbound rules, search for the appropriate ports.
 >
@@ -1555,7 +1534,7 @@ created: 2026-05-02
 >
 > **[1:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=88)** Apart from these essential ports, there are two other ports.
 >
-> **[1:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=91)** The RPC and the Microsoft RPC ports which are basically random, so as far as the inbound rules for the domain controller are concerned, they appear to be all taken care of.
+> **[1:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=91)** The RPC and the [[Microsoft]] RPC ports which are basically random, so as far as the inbound rules for the domain controller are concerned, they appear to be all taken care of.
 >
 > **[1:42](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=102)** But if you're using a third party firewall make sure these ports are open.
 >
@@ -1563,13 +1542,13 @@ created: 2026-05-02
 >
 > **[1:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=110)** So here I am on my AD connect server, let me open the Windows firewall with advanced security here and go to outbound rules.
 >
-> **[1:59](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=119)** We just need to make sure outbound rules for port 80 and for 43 are open, so that the AD connect server can talk to Azure AD.
+> **[1:59](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=119)** We just need to make sure outbound rules for port 80 and for 43 are open, so that the AD connect server can talk to [[Microsoft Entra ID|Azure AD]].
 >
 > **[2:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=127)** Now you don't have to really worry about these ports because again we're using the Windows Firewall, and AD connect installation can take care of most of the rules which are required for its successful deployment.
 >
 > **[2:18](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=138)** You'll only have to pay attention to these particularly if you're using a third party firewall.
 >
-> **[2:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=143)** In addition to that if your SQL server is on a remote server then you also need to make sure that the port 1433, or any other custom port that you're using is also open.
+> **[2:23](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=143)** In addition to that if your [[Microsoft SQL Server|SQL server]] is on a remote server then you also need to make sure that the port 1433, or any other custom port that you're using is also open.
 >
 > **[2:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-firewalls-and-ports?u=76281980&t=154)** With these three ports your AD connect server is taken care of.
 >
@@ -1577,23 +1556,22 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Windows]] (4), [[Search]] (4), dns (3), next (3), [[Security]] (2)
+> **Frameworks & Libraries:** [[Windows]] (4), [[Microsoft]] (1), [[Microsoft Entra ID|Azure ad]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** ldap (4), dns (3), tcp (3), udp (3), smb (2)
 > **Ports:** port 53 (1), port 88 (1), port 389 (1), port 636 (1), port 445 (1)
 > **CLI Commands:** make (5)
 > **UI Navigation:** go to (3), switch to (1), open the (1)
 > **Speakers:** - [narrator] (1)
 
-#### Preparing the Entra ID tenant
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980)
+#### [Preparing the Entra ID tenant](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=0)** - [Instructor] The final component that needs prepping is the Azure AD tenant.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=0)** - [Instructor] The final component that needs prepping is the [[Microsoft Entra ID|Azure AD]] tenant.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=5)** Nothing complicated just a few simple points to keep in mind and implement accordingly.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=10)** First, you should know that if you do not have a custom domain added and are using the temporary on [microsoft.com](https://microsoft.com) domain, then the limit for synchronization is set to 50 k objects, I would suggest using this option only for test environments, if you add a custom domain and verified, then the limit is bumped up to 300 k objects.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=10)** First, you should know that if you do not have a custom domain added and are using the temporary on [[[Microsoft]].com](https://microsoft.com) domain, then the limit for synchronization is set to 50 k objects, I would suggest using this option only for test environments, if you add a custom domain and verified, then the limit is bumped up to 300 k objects.
 >
 > **[0:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/preparing-the-azure-ad-tenant?u=76281980&t=32)** That's a significant upgrade.
 >
@@ -1615,19 +1593,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft]] (2), cloud (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[Microsoft]] (2)
 > **URLs:** [microsoft.com](https://microsoft.com) (1)
 > **Env Vars:** upn (1)
 > **Analogies:** imagine (1)
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Demo: Preparing the Entra ID tenant
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980)
+#### [Demo: Preparing the Entra ID tenant](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=0)** - [Instructor] Now, let's see a demo on preparing the Azure AD Tenant.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=0)** - [Instructor] Now, let's see a demo on preparing the [[Microsoft Entra ID|Azure AD]] Tenant.
 >
 > **[0:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=5)** Here I am in the Azure AD portal.
 >
@@ -1641,7 +1618,7 @@ created: 2026-05-02
 >
 > **[0:34](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=34)** Because the assumption there was that we were building a standalone Azure AD deployment.
 >
-> **[0:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=40)** But because in this course we are doing a hybrid deployment, what I did before this demo was delete all the users and cleared them in Windows Server Active Directory.
+> **[0:40](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=40)** But because in this course we are doing a hybrid deployment, what I did before this demo was delete all the users and cleared them in [[Windows Server]] [[Active Directory]].
 >
 > **[0:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=50)** And in the next demo we will be synchronizing those users from Windows Server into Azure AD.
 >
@@ -1649,9 +1626,9 @@ created: 2026-05-02
 >
 > **[1:05](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=65)** Now in order to successfully deploy AD connect, I will need a global administrator account created in the domain that we just verified.
 >
-> **[1:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=73)** As you can see this is the account we used to sign up for Azure and create this Azure AD tenant.
+> **[1:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=73)** As you can see this is the account we used to sign up for [[Microsoft Azure|Azure]] and create this Azure AD tenant.
 >
-> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=80)** But the problem with this account is that it ends with @[outlook.com](https://outlook.com).
+> **[1:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=80)** But the problem with this account is that it ends with @[[[Microsoft Outlook|outlook]].com](https://outlook.com).
 >
 > **[1:24](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-preparing-the-azure-ad-tenant?u=76281980&t=84)** We need a global administrator account that ends with @worldtraveller.tv because this account will not work for the Ad Connect installation.
 >
@@ -1701,7 +1678,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2), next (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (6), [[Windows Server]] (2), [[Active Directory]] (1), [[Microsoft Azure|Azure]] (1), [[Microsoft Outlook|Outlook]] (1)
 > **UI Navigation:** click on (4), scroll down (3), select the (1)
 > **Env Vars:** aadc (2)
 > **Cross-References:** in the next (2)
@@ -1714,8 +1691,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Deployment methods
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
+#### [Deployment methods](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1737,7 +1713,7 @@ created: 2026-05-02
 >
 > **[0:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=28)** Here's how they are different from one another.
 >
-> **[0:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=31)** Express Mode is essentially running through the installation with all the Microsoft default settings.
+> **[0:31](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=31)** Express Mode is essentially running through the installation with all the [[Microsoft]] default settings.
 >
 > **[0:37](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=37)** So, it's quicker.
 >
@@ -1753,9 +1729,9 @@ created: 2026-05-02
 >
 > **[1:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=64)** On the other hand, Custom Mode can be used when the number of objects is less or greater than 100k.
 >
-> **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=70)** That's because Express Mode uses the default SQL Express instance for its database.
+> **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=70)** That's because Express Mode uses the default [[SQL]] Express instance for its database.
 >
-> **[1:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=76)** But in Custom Mode, you can pick your own SQL Server instance, that could either be a SQL Express edition, Standard or even an Enterprise edition.
+> **[1:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=76)** But in Custom Mode, you can pick your own [[Microsoft SQL Server|SQL Server]] instance, that could either be a SQL Express edition, Standard or even an Enterprise edition.
 >
 > **[1:25](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/deployment-methods?u=76281980&t=85)** The Express Mode, by default, enables Password Hash Synchronization for the sign-in method.
 >
@@ -1771,12 +1747,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** express (10), [[SQL]] (2), [[Microsoft]] (1), database (1), [[Microsoft SQL Server|Sql server]] (1)
+> **Frameworks & Libraries:** [[SQL]] (2), [[Microsoft]] (1), [[Microsoft SQL Server|Sql server]] (1)
 > **Env Vars:** sql (3), adfs (1)
 > **Speakers:** - [narrator] (1)
 
-#### Demo: Installing Entra ID Connect
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980)
+#### [Demo: Installing Entra ID Connect](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1792,7 +1767,7 @@ created: 2026-05-02
 >
 > **[0:20](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=20)** And without wasting any more time, let's quickly jump into the AD Connect installation.
 >
-> **[0:25](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=25)** To do that, I'll have to open the Azure AD portal, scroll down a little bit, and click on Azure AD Connect.
+> **[0:25](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=25)** To do that, I'll have to open the [[Microsoft Entra ID|Azure AD]] portal, scroll down a little bit, and click on Azure AD Connect.
 >
 > **[0:33](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=33)** On this page, you should see a download link for downloading Azure AD Connect tool.
 >
@@ -1804,11 +1779,11 @@ created: 2026-05-02
 >
 > **[0:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=50)** And once complete, I'm going to run this.
 >
-> **[0:53](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=53)** Let me just minimize all other windows in the meantime, take this to the center.
+> **[0:53](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=53)** Let me just minimize all other [[Windows]] in the meantime, take this to the center.
 >
 > **[0:58](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=58)** So here's the AD Connect installation wizard.
 >
-> **[1:01](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=61)** On this page, I will mark this checkbox which says I agree to the license terms and privacy notice.
+> **[1:01](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=61)** On this page, I will mark this checkbox which says I agree to the license terms and [[Privacy]] notice.
 >
 > **[1:07](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=67)** Click on the Continue button.
 >
@@ -1828,7 +1803,7 @@ created: 2026-05-02
 >
 > **[1:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=95)** I can either choose a custom location for the AD Connect installation or let it be the default.
 >
-> **[1:41](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=101)** I can also choose an existing SQL Server installation on the local server or a remote server.
+> **[1:41](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=101)** I can also choose an existing [[Microsoft SQL Server|SQL Server]] installation on the local server or a remote server.
 >
 > **[1:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=107)** I also have an option to use an existing service account instead of creating a new one during the installation.
 >
@@ -1856,7 +1831,7 @@ created: 2026-05-02
 >
 > **[3:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=188)** Let me type that in, kunalaadc @worldtraveller .tv, and put in my password, and click on Next.
 >
-> **[3:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=201)** It will connect to Microsoft Azure to validate my credentials and if successful, it will move on to the next step.
+> **[3:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=201)** It will connect to [[Microsoft Azure]] to validate my credentials and if successful, it will move on to the next step.
 >
 > **[3:27](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=207)** It should take about a few seconds for this to complete.
 >
@@ -1880,7 +1855,7 @@ created: 2026-05-02
 >
 > **[4:28](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=268)** If you want to add more forests, you can do that from this dropdown if you have that option, or else, click on Next.
 >
-> **[4:36](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=276)** On this page, you can see a list of all the domains that were successfully mapped between the on-premises Active Directory and Azure AD.
+> **[4:36](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=276)** On this page, you can see a list of all the domains that were successfully mapped between the on-premises [[Active Directory]] and Azure AD.
 >
 > **[4:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=284)** You can see here worldtraveller.tv.
 >
@@ -1904,7 +1879,7 @@ created: 2026-05-02
 >
 > **[5:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=343)** The second part of this page deals with the source anchor.
 >
-> **[5:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=347)** I will just let Azure manage the source anchor.
+> **[5:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=347)** I will just let [[Microsoft Azure|Azure]] manage the source anchor.
 >
 > **[5:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-installing-ad-connect?u=76281980&t=350)** You already know what a source anchor does.
 >
@@ -1968,7 +1943,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (12), [[Microsoft Entra ID|Azure ad]] (10), express (5), [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (10), [[Microsoft SQL Server|Sql server]] (3), [[Windows]] (1), [[Privacy]] (1), [[Microsoft Azure]] (1)
 > **UI Navigation:** click on (20), select the (4), checkbox (3), open the (1), scroll down (1)
 > **Prerequisites:** configure (5), install (4), required to (1)
 > **Env Vars:** sql (3), wttv (1), configured (1), directories (1)
@@ -1977,8 +1952,7 @@ created: 2026-05-02
 > **Code Identifiers:** userprincipalname (1)
 > **Definitions:** is a  (1)
 
-#### Demo: Running the Entra ID Connect wizard
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980)
+#### [Demo: Running the Entra ID Connect wizard](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1988,7 +1962,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980&t=11)** Now that the installation is complete, if you want to go back and make any changes that you configured during the installation, you can use the AD Connect Wizard to do that.
 >
-> **[0:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980&t=21)** It's pretty simple, you just have to double-click on the Azure AD Connect icon on your desktop, which should open up the AD Connect Wizard.
+> **[0:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980&t=21)** It's pretty simple, you just have to double-click on the [[Microsoft Entra ID|Azure AD]] Connect icon on your desktop, which should open up the AD Connect Wizard.
 >
 > **[0:29](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-running-the-ad-connect-wizard?u=76281980&t=29)** Let me just center this.
 >
@@ -2022,7 +1996,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (5), [[Microsoft Entra ID|Azure ad]] (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (2)
 > **UI Navigation:** click on (8), double-click (1), select the (1)
 > **CLI Commands:** make (3)
 > **Prerequisites:** configure (2), install (1)
@@ -2030,8 +2004,7 @@ created: 2026-05-02
 > **Warnings:** keep in mind (1)
 > **Speakers:** - [instructor] (1)
 
-#### Monitoring using Entra ID Connect Health
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980)
+#### [Monitoring using Entra ID Connect Health](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2039,9 +2012,9 @@ created: 2026-05-02
 >
 > **[0:04](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=4)** The Health, Sync Engine and the ADFS component.
 >
-> **[0:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=8)** The Health component of AD Connect is responsible for collecting and sending the health information of AD Connect servers, to Microsoft Azure.
+> **[0:08](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=8)** The Health component of AD Connect is responsible for collecting and sending the health information of AD Connect servers, to [[Microsoft Azure]].
 >
-> **[0:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=17)** You can then view this collected data, in the AD Connect health portal in Azure.
+> **[0:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=17)** You can then view this collected data, in the AD Connect health portal in [[Microsoft Azure|Azure]].
 >
 > **[0:22](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=22)** It's a dedicated page that displays the detailed operational status, of your organization's identity infrastructure.
 >
@@ -2049,7 +2022,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=38)** By default, the health component only reports the status of the AD Connect server.
 >
-> **[0:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=43)** This is the default scope of data collection.
+> **[0:43](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=43)** This is the default scope of [[Data Collection]].
 >
 > **[0:46](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/monitoring-using-ad-connect-health?u=76281980&t=46)** But if you wish, you can expand this code to your other identity servers like, domain controllers.
 >
@@ -2067,13 +2040,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** data (6), [[Microsoft Azure|Azure]] (2), [[Microsoft Azure]] (1), feature (1)
+> **Frameworks & Libraries:** [[Microsoft Azure|Azure]] (2), [[Data Collection]] (2), [[Microsoft Azure]] (1)
 > **Env Vars:** adfs (1), fsmo (1)
 > **Prerequisites:** install (1)
 > **Speakers:** - you (1)
 
-#### Demo: Monitoring using Entra ID Connect Health
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980)
+#### [Demo: Monitoring using Entra ID Connect Health](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2081,7 +2053,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=6)** Let's see how the AD Connect Health portal works.
 >
-> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=10)** You should know that this is a paid feature which means you will have to purchase an Azure AD license to be able to use the AD Connect Health portal.
+> **[0:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=10)** You should know that this is a paid feature which means you will have to purchase an [[Microsoft Entra ID|Azure AD]] license to be able to use the AD Connect Health portal.
 >
 > **[0:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=19)** Now, as you can see here, I've already purchased the Azure AD Premium P2 subscription before beginning this demo and before I actually go into demonstrating how AD Connect Health works, let me also show you that the synchronization we configured in the last demo was successful.
 >
@@ -2089,7 +2061,7 @@ created: 2026-05-02
 >
 > **[0:45](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=45)** You can verify that by checking the Source column for all the users.
 >
-> **[0:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=50)** So any user that has been synchronized will show a Windows Server AD in the Source column so you can see there are 10 such users and apart from those 10 users which were synchronized, there's one account that was used to sign up for Azure and another account with global administrative privilege that was used to configure AD Connect.
+> **[0:50](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=50)** So any user that has been synchronized will show a [[Windows Server]] AD in the Source column so you can see there are 10 such users and apart from those 10 users which were synchronized, there's one account that was used to sign up for [[Microsoft Azure|Azure]] and another account with global administrative privilege that was used to configure AD Connect.
 >
 > **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=70)** All right, so now let's go to the AD Connect Health protal.
 >
@@ -2131,7 +2103,7 @@ created: 2026-05-02
 >
 > **[2:39](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=159)** If I click on Synchronization, here it gives me details about the AD Connect server.
 >
-> **[2:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=164)** The Engine Type of the synchronization product that I'm using is of course Azure AD Connect, the version, it's using a local SQL Server database, the SQL Server instance name, the database name and the service account it is using on the AD Connect server.
+> **[2:44](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=164)** The Engine Type of the synchronization product that I'm using is of course Azure AD Connect, the version, it's using a local [[Microsoft SQL Server|SQL Server]] database, the SQL Server instance name, the database name and the service account it is using on the AD Connect server.
 >
 > **[3:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=180)** If I click on the System button here, I can also see the operation system that the AD Connect server is running, the domain, the time zone, the last time it was rebooted and what is the machine type.
 >
@@ -2169,13 +2141,13 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=266)** Now, in addition to the prerequisites needed for the AD Connect installation, this Health agent also requires a few other additional prerequisites to be met.
 >
-> **[4:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=275)** You'll have to worry about them, especially if you're using an older version of the operating system or a third-party firewall but because I'm on Windows Server 2019, with Windows Firewall, I can simply click on the Install button.
+> **[4:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=275)** You'll have to worry about them, especially if you're using an older version of the operating system or a third-party firewall but because I'm on Windows Server 2019, with [[Windows]] Firewall, I can simply click on the Install button.
 >
 > **[4:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=287)** So the installation has started and within a few seconds, the installation should be complete.
 >
 > **[4:53](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=293)** Next, you need to configure this agent.
 >
-> **[4:56](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=296)** It will ask us to sign into Microsoft Azure from the global administrative account.
+> **[4:56](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=296)** It will ask us to sign into [[Microsoft Azure]] from the global administrative account.
 >
 > **[5:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/demo-monitoring-using-ad-connect-health?u=76281980&t=300)** I'm going to use that account here.
 >
@@ -2267,7 +2239,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (14), data (7), [[Windows Server]] (2), [[Search]] (2), next (2)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (14), [[Windows Server]] (2), [[Microsoft SQL Server|Sql server]] (2), [[Microsoft Azure|Azure]] (1), [[Windows]] (1)
 > **UI Navigation:** click on (19), go to (2), scroll down (1)
 > **Env Vars:** fsmo (6), sql (2), aadconnect (1), pdc (1), rid (1)
 > **Definitions:** is a  (4)
@@ -2276,8 +2248,7 @@ created: 2026-05-02
 > **Exercise Files:** download the (1)
 > **Speakers:** - [instructor] (1)
 
-#### Understanding Entra ID Connect staging mode
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980)
+#### [Understanding Entra ID Connect staging mode](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2289,7 +2260,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=11)** Well, the answer is none of them.
 >
-> **[0:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=14)** Due to the way an AD connect server consolidates and synchronizes active directory data none of those conventional methods would work.
+> **[0:14](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=14)** Due to the way an AD connect server consolidates and synchronizes [[Active Directory]] data none of those conventional methods would work.
 >
 > **[0:22](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=22)** That's why AD Connect comes built in with something called the Staging Mode.
 >
@@ -2307,7 +2278,7 @@ created: 2026-05-02
 >
 > **[0:57](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=57)** Once all of that is taken care of, the server starts doing it's job.
 >
-> **[1:02](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=62)** It imports objects from Windows Server active directory, commits them to the database, but, does not export them.
+> **[1:02](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=62)** It imports objects from [[Windows Server]] active directory, commits them to the database, but, does not export them.
 >
 > **[1:10](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/understanding-ad-connect-staging-mode?u=76281980&t=70)** Similarly, it also performs a writeback.
 >
@@ -2329,7 +2300,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** database (3), business (2), [[Active Directory]] (2), data (2), next (2)
+> **Frameworks & Libraries:** [[Active Directory]] (2), [[Windows Server]] (1)
 > **Speakers:** - one (1)
 
 
@@ -2337,8 +2308,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Key takeaways
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)
+#### [Key takeaways](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2374,13 +2344,13 @@ created: 2026-05-02
 >
 > **[1:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=73)** We then defined the user and device strategy and how to go about configuring them in a hybrid environment.
 >
-> **[1:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=79)** We then talked about four filtering methods that you can implement to control which objects synchronized to Azure AD and which don't.
+> **[1:19](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=79)** We then talked about four filtering methods that you can implement to control which objects synchronized to [[Microsoft Entra ID|Azure AD]] and which don't.
 >
 > **[1:26](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=86)** And then we understood three types of ride backs that AD Connect is capable of performing.
 >
 > **[1:32](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=92)** In the preparing the environment chapter, we listed the components that need to be prepared and did so through demonstrations.
 >
-> **[1:39](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=99)** These were preparing the windows server active directory, AD Connect server, firewall and ports and preparing the Azure AD tenant.
+> **[1:39](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=99)** These were preparing the [[Windows Server]] [[Active Directory]], AD Connect server, firewall and ports and preparing the Azure AD tenant.
 >
 > **[1:48](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/key-takeaways?u=76281980&t=108)** Then we moved on to the chapter, deploying AD Connect.
 >
@@ -2400,12 +2370,11 @@ created: 2026-05-02
 > **Env Vars:** adfs (1)
 > **Speakers:** - [instructor] (1)
 
-#### Your personal checklist
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980)
+#### [Your personal checklist](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=0)** - Here's your personal checklist that I recommend you follow when deploying Azure AD in hybrid fashion.
+> **[0:00](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=0)** - Here's your personal checklist that I recommend you follow when deploying [[Microsoft Entra ID|Azure AD]] in hybrid fashion.
 >
 > **[0:06](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=6)** First, identify your deployment configuration, see how many forests you have.
 >
@@ -2447,18 +2416,17 @@ created: 2026-05-02
 >
 > **[2:16](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=136)** Only after this is complete, then move on to rolling it out on the actual production environment.
 >
-> **[2:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=141)** To learn more about this product, please watch my other courses on LinkedIn Learning.
+> **[2:21](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/your-personal-checklist-2?u=76281980&t=141)** To learn more about this product, please watch my other courses on [[LinkedIn]] Learning.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), next (1), database (1), express (1), product (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure ad]] (4), [[LinkedIn]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Env Vars:** adfs (1)
 > **Speakers:** - here (1)
 
-#### Next steps
-> [LinkedIn Learning](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980)
+#### [Next steps](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -2470,7 +2438,7 @@ created: 2026-05-02
 >
 > **[0:09](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=9)** There is nothing that can replace actual hands-on experience.
 >
-> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=13)** So spin up an Azure AD tenant and start synchronizing.
+> **[0:13](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=13)** So spin up an [[Microsoft Entra ID|Azure AD]] tenant and start synchronizing.
 >
 > **[0:17](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=17)** Follow the key takeaways and the personal checklist in designing your deployment strategy.
 >
@@ -2482,7 +2450,7 @@ created: 2026-05-02
 >
 > **[0:35](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=35)** And finally, if you have any doubts, rewatch the course or specific clips and participate in the Q and A section.
 >
-> **[0:42](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=42)** Thank you so much for watching, planning for Azure Active Directory on LinkedIn learning.
+> **[0:42](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=42)** Thank you so much for watching, planning for [[Microsoft Entra ID|Azure Active Directory]] on [[LinkedIn]] learning.
 >
 > **[0:47](https://www.linkedin.com/learning/planning-for-microsoft-entra-id/next-steps-15019596?u=76281980&t=47)** Keep in touch, add me on LinkedIn, the profile link should flash on your screen below.
 >
@@ -2496,7 +2464,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** next (2), express (2), [[Microsoft Entra ID|Azure active directory]] (2), [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1)
+> **Frameworks & Libraries:** [[Microsoft Entra ID|Azure active directory]] (2), [[LinkedIn]] (2), [[Microsoft Entra ID|Azure ad]] (1)
 > **CLI Commands:** make (1)
 > **Cross-References:** we covered (1)
 > **Best Practices:** make sure to (1)

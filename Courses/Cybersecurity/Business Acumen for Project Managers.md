@@ -80,8 +80,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Building your business acumen as a project manager
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980)
+#### [Building your business acumen as a project manager](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -91,7 +90,7 @@ created: 2026-05-02
 >
 > **[0:07](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980&t=7)** But in order to really understand those promises and why they matter, project managers need to understand how business works.
 >
-> **[0:15](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980&t=15)** In other words, they need to develop business acumen.
+> **[0:15](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980&t=15)** In other words, they need to develop [[Business Acumen]].
 >
 > **[0:19](https://www.linkedin.com/learning/business-acumen-for-project-managers/building-your-business-acumen-as-a-project-manager?u=76281980&t=19)** My name is Daniel Stanton, and I've been both an executive and a project manager in large and small organizations.
 >
@@ -107,7 +106,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), teams (2), management (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (3)
 > **CLI Commands:** find (1)
 > **Definitions:** in other words (1)
 > **Speakers:** - project (1)
@@ -117,8 +116,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The Talent Triangle in project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980)
+#### [The Talent Triangle in project management](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -144,7 +142,7 @@ created: 2026-05-02
 >
 > **[1:24](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980&t=84)** There are many leadership courses on this site too, including one that I teach called Leading Projects.
 >
-> **[1:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980&t=91)** And the third side of the talent triangle is strategic and business management, or as it's also called, business acumen.
+> **[1:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980&t=91)** And the third side of the talent triangle is strategic and business management, or as it's also called, [[Business Acumen]].
 >
 > **[1:42](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-talent-triangle-in-project-management?u=76281980&t=102)** Business acumen involves learning how organizations work and why they do what they do.
 >
@@ -160,7 +158,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (9), business (6), leadership (6), next (1), career (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (3)
 > **CLI Commands:** make (3)
 > **Definitions:** is a  (1)
 > **Analogies:** picture (1)
@@ -171,8 +169,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### The role of projects in your business strategy
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980)
+#### [The role of projects in your business strategy](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -228,7 +225,7 @@ created: 2026-05-02
 >
 > **[3:07](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980&t=187)** Managing these risks is an important part of helping to ensure that projects are successful.
 >
-> **[3:13](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980&t=193)** Whether it's putting in a new information system, changing human resource processes, starting up a new facility, or any of the changes that we're making every day, being good at running projects allows an organization to be agile and adaptable.
+> **[3:13](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980&t=193)** Whether it's putting in a new information system, changing human resource processes, starting up a new facility, or any of the changes that we're making every day, being good at running projects allows an organization to be [[Agile Development|agile]] and adaptable.
 >
 > **[3:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/the-role-of-projects-in-your-business-strategy?u=76281980&t=211)** And that is an essential capability for every business, nonprofit and government organization.
 >
@@ -236,13 +233,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Agile Development|Agile]] (1)
+> **Frameworks & Libraries:** [[Agile Development|Agile]] (1)
 > **Definitions:** is an  (2), is called (1), refers to (1)
 > **CLI Commands:** make (3)
 > **Speakers:** - have (1)
 
-#### Strategic, tactical, and operational aspects of projects
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980)
+#### [Strategic, tactical, and operational aspects of projects](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -260,7 +256,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980&t=31)** And that's the difference between strategic, tactical, and operational perspectives in business.
 >
-> **[0:40](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980&t=40)** So I want to share these different perspectives with you and talk about why they're an important part of your business acumen as a project manager.
+> **[0:40](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980&t=40)** So I want to share these different perspectives with you and talk about why they're an important part of your [[Business Acumen]] as a project manager.
 >
 > **[0:49](https://www.linkedin.com/learning/business-acumen-for-project-managers/strategic-tactical-and-operational-aspects-of-projects?u=76281980&t=49)** Most professionals start their career focused on operational issues, the day-to-day business of running an organization.
 >
@@ -314,12 +310,11 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), next (3), career (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **Cross-References:** in the next (2)
 > **Speakers:** - stop (1)
 
-#### Define your strategic project goals
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-your-strategic-project-goals?u=76281980)
+#### [Define your strategic project goals](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-your-strategic-project-goals?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -385,7 +380,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (1)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), in other words (1), is an  (1)
 > **Env Vars:** smart (2)
@@ -393,8 +387,7 @@ created: 2026-05-02
 > **Prerequisites:** set up (1)
 > **Speakers:** - great (1)
 
-#### Define the benefits of your project for stakeholders
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980)
+#### [Define the benefits of your project for stakeholders](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -442,7 +435,7 @@ created: 2026-05-02
 >
 > **[2:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980&t=151)** They can increase the capabilities of an organization, allowing you to do things you couldn't do before.
 >
-> **[2:38](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980&t=158)** They can improve sustainability, reducing the impact that your organization has on the environment.
+> **[2:38](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980&t=158)** They can improve [[Sustainability]], reducing the impact that your organization has on the environment.
 >
 > **[2:44](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-benefits-of-your-project-for-stakeholders?u=76281980&t=164)** They can reduce risk, protecting the organization from things that could go wrong.
 >
@@ -463,8 +456,7 @@ created: 2026-05-02
 > **Analogies:** for example (2)
 > **Speakers:** - people (1)
 
-#### Define the risks of your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980)
+#### [Define the risks of your project](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -502,7 +494,7 @@ created: 2026-05-02
 >
 > **[2:04](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=124)** Local risks are things that happen inside of your organization and that you and your team can probably influence or control.
 >
-> **[2:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=134)** Local risks include things like changes in the revenue outlook for the organization, availability of team members and changes to production schedules.
+> **[2:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=134)** Local risks include things like changes in the revenue [[Microsoft Outlook|outlook]] for the organization, availability of team members and changes to production schedules.
 >
 > **[2:24](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=144)** For example, a local risk that my supply chain teams often face is the possibility that a supplier will not meet its delivery date.
 >
@@ -542,25 +534,24 @@ created: 2026-05-02
 >
 > **[4:26](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=266)** Whether you use the categories of local, global and systemic risks or use a different approach, the important thing is to define the risks in a way that allows you to make decisions and take action.
 >
-> **[4:39](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=279)** Mastering the art of defining risks is an important part of developing business acumen as a project manager.
+> **[4:39](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-risks-of-your-project-14330674?u=76281980&t=279)** Mastering the art of defining risks is an important part of developing [[Business Acumen]] as a project manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), teams (2), business (2), next (1), [[Microsoft Outlook|Outlook]] (1)
+> **Frameworks & Libraries:** [[Microsoft Outlook|Outlook]] (1), [[Business Acumen]] (1)
 > **Definitions:** is an  (2)
 > **CLI Commands:** make (1)
 > **Analogies:** for example (1)
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - you (1)
 
-#### Define the sustainability of your project
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980)
+#### [Define the sustainability of your project](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=0)** - There was a survey conducted by Accenture in 2010.
 >
-> **[0:04](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=4)** A 93% of CEOs said that addressing sustainability issues would be critical to the future success of their businesses.
+> **[0:04](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=4)** A 93% of CEOs said that addressing [[Sustainability]] issues would be critical to the future success of their businesses.
 >
 > **[0:15](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=15)** 93% of CEOs!
 >
@@ -610,7 +601,7 @@ created: 2026-05-02
 >
 > **[2:43](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=163)** Reducing CO2 meant finding ways to burn less fuel, and that almost always saves money too.
 >
-> **[2:52](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=172)** Used computers and electronics often contain hazardous materials, but they also contain precious metals and recyclable parts.
+> **[2:52](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=172)** Used computers and [[Electronics]] often contain hazardous materials, but they also contain precious metals and recyclable parts.
 >
 > **[3:01](https://www.linkedin.com/learning/business-acumen-for-project-managers/define-the-sustainability-of-your-project?u=76281980&t=181)** So instead of sending junk to the landfill, you can often find someone who will pay you to dispose of your old equipment.
 >
@@ -622,15 +613,14 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Sustainability]] (8), business (1), next (1), [[Electronics]] (1)
+> **Frameworks & Libraries:** [[Sustainability]] (8), [[Electronics]] (1)
 > **Definitions:** means that (1), is called (1), in other words (1), is a  (1)
 > **CLI Commands:** make (2), find (1)
 > **Env Vars:** co2 (1)
 > **Analogies:** for example (1)
 > **Speakers:** - there (1)
 
-#### Process improvement methods in project management
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980)
+#### [Process improvement methods in project management](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -652,11 +642,11 @@ created: 2026-05-02
 >
 > **[0:48](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=48)** With so many parts and so many steps in the assembly process, car companies are always looking for ways to do things better, faster, and cheaper.
 >
-> **[0:58](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=58)** Project that leads to a very small improvement in the assembly process can produce a huge benefit because it will have an impact on a lot of products or people.
+> **[0:58](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=58)** Project that leads to a very small improvement in the assembly process can produce a huge benefit because it will have an impact on a lot of [[Microsoft Products|products]] or people.
 >
-> **[1:10](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=70)** The first process improvement approach that we'll look at is Six Sigma.
+> **[1:10](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=70)** The first process improvement approach that we'll look at is [[Six Sigma]].
 >
-> **[1:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=74)** Six Sigma gets its name from statistics, where the Greek letter, Sigma, is used to measure variability.
+> **[1:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=74)** Six Sigma gets its name from [[Statistics]], where the Greek letter, Sigma, is used to measure variability.
 >
 > **[1:21](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=81)** The whole idea is to make a process so consistent, so predictable, that you have less than 3.4 defects per million.
 >
@@ -694,22 +684,21 @@ created: 2026-05-02
 >
 > **[3:12](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=192)** With an understanding of Six Sigma, Lean, and the Theory of Constraints, you're in a better position to articulate the purpose and the value of the projects that you manage.
 >
-> **[3:23](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=203)** And that's an important part of developing your business acumen.
+> **[3:23](https://www.linkedin.com/learning/business-acumen-for-project-managers/process-improvement-methods-in-project-management?u=76281980&t=203)** And that's an important part of developing your [[Business Acumen]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2), [[Statistics]] (1), business (1)
+> **Frameworks & Libraries:** [[Six Sigma]] (4), [[Microsoft Products|Products]] (2), [[Statistics]] (1), [[Business Acumen]] (1)
 > **CLI Commands:** make (4)
 > **Env Vars:** dmaic (1)
 > **Versions:** 3.4 (1)
 > **Definitions:** in other words (1)
 
-#### Align your project scope, schedule, and budget
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/align-your-project-scope-schedule-and-budget?u=76281980)
+#### [Align your project scope, schedule, and budget](https://www.linkedin.com/learning/business-acumen-for-project-managers/align-your-project-scope-schedule-and-budget?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/align-your-project-scope-schedule-and-budget?u=76281980&t=0)** - My friend has a sign on her office door that says, "Good, fast and cheap.
+> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/align-your-project-scope-schedule-and-budget?u=76281980&t=0)** - My friend has a sign on her [[Microsoft Office|office]] door that says, "Good, fast and cheap.
 >
 > **[0:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/align-your-project-scope-schedule-and-budget?u=76281980&t=6)** Pick any two."
 >
@@ -783,7 +772,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** management (2), [[Microsoft Office|Office]] (1), product (1), feature (1), business (1)
+> **Frameworks & Libraries:** [[Microsoft Office|Office]] (1)
 > **Definitions:** is a  (2), means that (1)
 > **CLI Commands:** make (2)
 > **Analogies:** such as (1), for example (1)
@@ -796,8 +785,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prioritizing the customer for business acumen
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980)
+#### [Prioritizing the customer for business acumen](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -813,7 +801,7 @@ created: 2026-05-02
 >
 > **[0:42](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=42)** Let's start with the design of your product or service.
 >
-> **[0:45](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=45)** Design and engineering teams are focused on creating new products and services that solve problems for customers.
+> **[0:45](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=45)** Design and engineering teams are focused on creating new [[Microsoft Products|products]] and services that solve problems for customers.
 >
 > **[0:52](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=52)** They may use a process such as quality functional design to prioritize features based on what customers want.
 >
@@ -847,11 +835,11 @@ created: 2026-05-02
 >
 > **[2:25](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=145)** That way, you have a higher chance of keeping their business, of getting future referrals, and of not dealing with the business damage that can be caused by negative reviews.
 >
-> **[2:36](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=156)** Having a real appreciation for the important challenge of keeping customers happy will enhance your business acumen and make you a key contributor to any project.
+> **[2:36](https://www.linkedin.com/learning/business-acumen-for-project-managers/prioritizing-the-customer-for-business-acumen?u=76281980&t=156)** Having a real appreciation for the important challenge of keeping customers happy will enhance your [[Business Acumen]] and make you a key contributor to any project.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Microsoft Products|Products]] (2), product (1), [[Engineering]] (1), teams (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2), [[Business Acumen]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** in other words (1), is called (1)
 > **URLs:** [amazon.com](https://amazon.com) (1)
@@ -859,8 +847,7 @@ created: 2026-05-02
 > **Warnings:** be careful (1)
 > **Speakers:** - jeff (1)
 
-#### Insights on marketing and sales for project managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-marketing-and-sales-for-project-managers-16679028?u=76281980)
+#### [Insights on marketing and sales for project managers](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-marketing-and-sales-for-project-managers-16679028?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -918,17 +905,16 @@ created: 2026-05-02
 >
 > **[3:01](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-marketing-and-sales-for-project-managers-16679028?u=76281980&t=181)** The success of the entire organization depends on the ability of the sales and marketing team to communicate the value proposition and close deals.
 >
-> **[3:12](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-marketing-and-sales-for-project-managers-16679028?u=76281980&t=192)** Demonstrating that you recognize the importance of sales and marketing and can align your projects with their priorities, will go a long way toward demonstrating your business acumen.
+> **[3:12](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-marketing-and-sales-for-project-managers-16679028?u=76281980&t=192)** Demonstrating that you recognize the importance of sales and marketing and can align your projects with their priorities, will go a long way toward demonstrating your [[Business Acumen]].
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (7), business (2), teams (1), game (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (1)
 > **Definitions:** is a  (2), is called (1)
 > **CLI Commands:** make (2)
 > **Speakers:** - every (1)
 
-#### Insights on procurement, operations, and logistics for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980)
+#### [Insights on procurement, operations, and logistics for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -950,7 +936,7 @@ created: 2026-05-02
 >
 > **[0:38](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980&t=38)** Every organization buys things.
 >
-> **[0:41](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980&t=41)** For example, manufacturers buy the ingredients or the components that they use to manufacture products and stores buy inventory that they'll sell to customers.
+> **[0:41](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980&t=41)** For example, manufacturers buy the ingredients or the components that they use to manufacture [[Microsoft Products|products]] and stores buy inventory that they'll sell to customers.
 >
 > **[0:53](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-procurement-operations-and-logistics-for-pms-16675806?u=76281980&t=53)** The materials that companies buy so that they can add value and sell them are called direct materials or direct costs.
 >
@@ -1000,7 +986,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (2), [[Microsoft Products|Products]] (2)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (2)
 > **Definitions:** in other words (1), refers to (1), is an  (1)
 > **Analogies:** for example (2)
 > **CLI Commands:** make (1)
@@ -1008,8 +994,7 @@ created: 2026-05-02
 > **Prerequisites:** you need to have (1)
 > **Speakers:** - there (1)
 
-#### Insights on supply chain management for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980)
+#### [Insights on supply chain management for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1019,7 +1004,7 @@ created: 2026-05-02
 >
 > **[0:11](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=11)** But doing all of those things right, can actually be really hard.
 >
-> **[0:16](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=16)** And that's what supply chain management is all about.
+> **[0:16](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=16)** And that's what [[Supply Chain Management]] is all about.
 >
 > **[0:20](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=20)** One of the interesting things about supply chain management is that there are so many different definitions.
 >
@@ -1065,18 +1050,17 @@ created: 2026-05-02
 >
 > **[3:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=180)** Supply chains are at the heart of how organizations create and deliver value to their customers.
 >
-> **[3:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=186)** Learning about supply chain management will help you strengthen your business acumen and make you a better project manager.
+> **[3:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-management-for-pms-16672974?u=76281980&t=186)** Learning about supply chain management will help you strengthen your [[Business Acumen]] and make you a better project manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Supply Chain Management]] (8), management (2), product (1), business (1)
+> **Frameworks & Libraries:** [[Supply Chain Management]] (8), [[Business Acumen]] (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** apec (1)
 > **Analogies:** for example (1)
 > **Speakers:** - getting (1)
 
-#### Insights on human resources for project managers
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980)
+#### [Insights on human resources for project managers](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1086,7 +1070,7 @@ created: 2026-05-02
 >
 > **[0:12](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=12)** Those people are probably the most valuable resource that a company has.
 >
-> **[0:17](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=17)** In this lesson, we'll look at the processes involved in managing human resources and why they are so important for project managers to understand.
+> **[0:17](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=17)** In this lesson, we'll look at the processes involved in managing [[Human Resources (HR)|human resources]] and why they are so important for project managers to understand.
 >
 > **[0:27](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=27)** When you stop to think about it, HR may have the broadest responsibilities of any group in the company.
 >
@@ -1148,18 +1132,17 @@ created: 2026-05-02
 >
 > **[3:49](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=229)** An organization is only as good as its people.
 >
-> **[3:52](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=232)** So having an appreciation for the complex and critical role that HR plays is an essential part of building business acumen as a project manager.
+> **[3:52](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-human-resources-for-project-managers?u=76281980&t=232)** So having an appreciation for the complex and critical role that HR plays is an essential part of building [[Business Acumen]] as a project manager.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (12), hr (2), job description (2), teams (1), business (1)
+> **Frameworks & Libraries:** [[Human Resources (HR)|Human resources]] (12), [[Business Acumen]] (1)
 > **Analogies:** such as (2), similar to (1)
 > **CLI Commands:** find (1), make (1)
 > **Definitions:** is a  (1), is an  (1)
 > **Speakers:** - one (1)
 
-#### Insights on safety and physical security for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-safety-and-physical-security-for-pms?u=76281980)
+#### [Insights on safety and physical security for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-safety-and-physical-security-for-pms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1223,19 +1206,17 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Security]] (5), teams (2)
 > **CLI Commands:** make (3)
 > **Env Vars:** ppe (1), cpr (1)
 > **Analogies:** such as (1), for example (1)
 > **Prerequisites:** you'll need (1)
 > **Speakers:** - many (1)
 
-#### Insights on information technology for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980)
+#### [Insights on information technology for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=0)** - Bill Gates who founded Microsoft said, "Information technology and business are becoming inextricably interwoven.
+> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=0)** - Bill Gates who founded [[Microsoft]] said, "Information technology and business are becoming inextricably interwoven.
 >
 > **[0:10](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=10)** I don't think anybody can talk meaningfully about one without talking about the other."
 >
@@ -1243,7 +1224,7 @@ created: 2026-05-02
 >
 > **[0:22](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=22)** With each new wave of technology, the IT team needs to balance the costs versus the benefits, and find ways to keep their systems current.
 >
-> **[0:32](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=32)** Of course, they have to think about what hardware and software to buy in order to support the work that people in the company are doing.
+> **[0:32](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=32)** Of course, they have to think about what [[Hardware]] and software to buy in order to support the work that people in the company are doing.
 >
 > **[0:39](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=39)** New purchases involve setup, configuration, installation and training, all of which take time and money.
 >
@@ -1253,7 +1234,7 @@ created: 2026-05-02
 >
 > **[0:56](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=56)** One way to eliminate the need to purchase hardware and software is to use programs that are accessed over the internet.
 >
-> **[1:03](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=63)** These cloud-based solutions, sometimes called software as a service or SaaS, eliminate many of the costs related to hardware and software maintenance.
+> **[1:03](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=63)** These cloud-based solutions, sometimes called [[SaaS|software as a service]] or [[SaaS]], eliminate many of the costs related to hardware and software maintenance.
 >
 > **[1:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=74)** Cloud-based applications rely on a connection to the internet, but internet connectivity also creates security risks.
 >
@@ -1285,13 +1266,13 @@ created: 2026-05-02
 >
 > **[3:02](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=182)** This trend is called "bring your own device" or BYOD.
 >
-> **[3:08](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=188)** Another major trend is the internet of things or IOT, where we are connecting all sorts of devices to the internet.
+> **[3:08](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=188)** Another major trend is the [[IoT|internet of things]] or [[IoT]], where we are connecting all sorts of devices to the internet.
 >
 > **[3:17](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=197)** Once the device is connected to the internet, it can share information with people and other machines anywhere in the world, and it can receive information and instructions back.
 >
 > **[3:28](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=208)** With all of these new IoT devices, we're creating, communicating, and storing huge amounts of data every single day.
 >
-> **[3:38](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=218)** So much data that it's called "big data."
+> **[3:38](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=218)** So much data that it's called "[[Big Data]]."
 >
 > **[3:42](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-information-technology-for-pms?u=76281980&t=222)** So IT stores this data and makes it available to the people who need it.
 >
@@ -1305,7 +1286,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (5), data (5), [[Hardware]] (4), cloud (2), [[IoT]] (2)
+> **Frameworks & Libraries:** [[Hardware]] (4), [[IoT]] (2), [[Big Data]] (2), [[Microsoft]] (1), [[SaaS|Software as a service]] (1)
 > **CLI Commands:** make (2), find (1)
 > **Analogies:** such as (2), picture (1)
 > **Env Vars:** byod (1), iot (1)
@@ -1314,14 +1295,13 @@ created: 2026-05-02
 > **Prerequisites:** setup (1)
 > **Speakers:** - bill (1)
 
-#### Insights on finance and accounting documents for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980)
+#### [Insights on finance and accounting documents for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980&t=0)** - Accounting is the language of business.
 >
-> **[0:03](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980&t=3)** Understanding the common financial statements is an essential part of learning this language and developing business acumen.
+> **[0:03](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980&t=3)** Understanding the common [[Financial Statements]] is an essential part of learning this language and developing [[Business Acumen]].
 >
 > **[0:11](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-documents-for-pms?u=76281980&t=11)** It's common for companies to create accounts for different things that they spend money on and for different sources of revenue.
 >
@@ -1369,14 +1349,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (4), [[Financial Statements]] (1), product (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (2), [[Financial Statements]] (1)
 > **Definitions:** is called (2), is an  (1)
 > **Exercise Files:** exercise files (1)
 > **Analogies:** for example (1)
 > **Speakers:** - accounting (1)
 
-#### Insights on finance and accounting calculations for PMs
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980)
+#### [Insights on finance and accounting calculations for PMs](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1386,7 +1365,7 @@ created: 2026-05-02
 >
 > **[0:31](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980&t=31)** And it's often useful to look at the costs in three specific categories, the operating expenses, OPEX, are the costs related to running the business or the project, the capital expenses, CAPEX are the costs for investments in equipment that you need to buy.
 >
-> **[0:51](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980&t=51)** And the cost of goods sold, the COGS, is how much money you spend to produce the products you sell.
+> **[0:51](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980&t=51)** And the cost of goods sold, the COGS, is how much money you spend to produce the [[Microsoft Products|products]] you sell.
 >
 > **[0:59](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-finance-and-accounting-calculations-for-pms?u=76281980&t=59)** Each of these cost buckets, OPEX, CAPEX and COGS tells you something about how efficiently a business is using its money.
 >
@@ -1462,14 +1441,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (7), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** roi (7), npv (5), opex (2), capex (2), cogs (2)
 > **CLI Commands:** make (5)
 > **Definitions:** is a  (3), is called (1)
 > **Speakers:** - money (1)
 
-#### Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980)
+#### [Insights on Capital Expenses (CapEx) and Operational Expenses (OpEx)](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1511,7 +1489,7 @@ created: 2026-05-02
 >
 > **[2:21](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980&t=141)** Some common depreciation methods include straight line depreciation where the cost is spread evenly over the asset's useful life and accelerated depreciation, which allows a larger portion of the asset's value to be written off in the early years.
 >
-> **[2:39](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980&t=159)** CapEx and OpEx also impact financial statements differently.
+> **[2:39](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980&t=159)** CapEx and OpEx also impact [[Financial Statements]] differently.
 >
 > **[2:44](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-capital-expenses-capex-and-operational-expenses-opex?u=76281980&t=164)** Capital expenditures appear on the balance sheet as an asset and are gradually expensed through depreciation.
 >
@@ -1529,19 +1507,18 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (3), [[Financial Statements]] (1), hit (1), teams (1)
+> **Frameworks & Libraries:** [[Financial Statements]] (1)
 > **Definitions:** refers to (1), in other words (1)
 > **CLI Commands:** make (1)
 > **Env Vars:** irs (1)
 > **Analogies:** for example (1)
 > **Speakers:** - [instructor] (1)
 
-#### Insights on AI
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980)
+#### [Insights on AI](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=0)** - [Narrator] Artificial intelligence is changing the way that projects are planned, executed, and monitored.
+> **[0:00](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=0)** - [Narrator] [[Artificial Intelligence (AI)|Artificial intelligence]] is changing the way that projects are planned, executed, and monitored.
 >
 > **[0:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=6)** But what exactly is AI and how does it impact project management?
 >
@@ -1549,7 +1526,7 @@ created: 2026-05-02
 >
 > **[0:24](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=24)** First, let's look at the types of AI.
 >
-> **[0:26](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=26)** AI in project management typically falls into three categories: rule-based AI; machine learning; and generative AI.
+> **[0:26](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=26)** AI in project management typically falls into three categories: rule-based AI; machine learning; and [[Generative AI]].
 >
 > **[0:35](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=35)** Rule-based AI follows predefined logic to automate repetitive tasks.
 >
@@ -1559,7 +1536,7 @@ created: 2026-05-02
 >
 > **[0:59](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=59)** Generative AI creates new content, such as reports, summaries, or presentations.
 >
-> **[1:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=66)** Tools like ChatGPT and Copilot can assist project managers in drafting reports or brainstorming ideas.
+> **[1:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=66)** Tools like [[ChatGPT]] and [[Microsoft Copilot|Copilot]] can assist project managers in drafting reports or brainstorming ideas.
 >
 > **[1:14](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=74)** AI offers significant benefits in project management.
 >
@@ -1573,13 +1550,13 @@ created: 2026-05-02
 >
 > **[1:53](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=113)** But AI also comes with risks and ethical concerns.
 >
-> **[1:57](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=117)** Understanding these challenges is essential for responsible AI use.
+> **[1:57](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=117)** Understanding these challenges is essential for [[Responsible AI]] use.
 >
 > **[2:02](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=122)** Bias and fairness are major concerns.
 >
 > **[2:05](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=125)** AI models learn from historical data, which may contain biases, potentially leading to unfair or inaccurate decision making.
 >
-> **[2:15](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=135)** Data privacy is another issue.
+> **[2:15](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=135)** [[Data Privacy]] is another issue.
 >
 > **[2:17](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-ai?u=76281980&t=137)** AI tools process large amounts of information which raises concerns about security and compliance.
 >
@@ -1593,14 +1570,13 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (20), management (8), data (4), [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1)
+> **Frameworks & Libraries:** [[Generative AI]] (2), [[Artificial Intelligence (AI)|Artificial intelligence]] (1), [[ChatGPT]] (1), [[Microsoft Copilot|Copilot]] (1), [[Responsible AI]] (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
 > **Analogies:** such as (2)
 > **Speakers:** - [narrator] (1)
 
-#### Insights on supply chain resilience
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980)
+#### [Insights on supply chain resilience](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1626,7 +1602,7 @@ created: 2026-05-02
 >
 > **[0:53](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=53)** Now let's look at ecological resilience.
 >
-> **[0:57](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=57)** Instead of relying on redundancy, this approach emphasizes flexibility, adaptability, and decentralization.
+> **[0:57](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=57)** Instead of relying on redundancy, this approach emphasizes flexibility, adaptability, and [[Decentralization]].
 >
 > **[1:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=66)** For example, Toyota's supply chain emphasizes flexibility by training workers to perform multiple roles, allowing them to shift production based on changing demand.
 >
@@ -1638,7 +1614,7 @@ created: 2026-05-02
 >
 > **[1:33](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=93)** Some situations require engineering resilience, like stockpiling critical medical supplies for emergencies.
 >
-> **[1:40](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=100)** Others require ecological resilience, like adjusting logistics routes based on real-time disruptions.
+> **[1:40](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=100)** Others require ecological resilience, like adjusting logistics routes based on [[Real-Time]] disruptions.
 >
 > **[1:48](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-supply-chain-resilience?u=76281980&t=108)** For example, during a semiconductor shortage, companies that had both buffer stock, which is engineering resilience, and had alternative suppliers, which is, really, ecological resilience, were able to adapt faster than those that were relying on just one of those strategies.
 >
@@ -1648,13 +1624,12 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[Engineering]] (6), [[Decentralization]] (1), ai (1), [[Real-Time]] (1), semiconductor (1)
+> **Frameworks & Libraries:** [[Decentralization]] (1), [[Real-Time]] (1)
 > **Analogies:** for example (3)
 > **Definitions:** is a  (1)
 > **Speakers:** - [narrator] (1)
 
-#### Insights on startups
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980)
+#### [Insights on startups](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1662,7 +1637,7 @@ created: 2026-05-02
 >
 > **[0:06](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980&t=6)** Startups move fast.
 >
-> **[0:08](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980&t=8)** They launch new products, pivot quickly, and scale rapidly.
+> **[0:08](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980&t=8)** They launch new [[Microsoft Products|products]], pivot quickly, and scale rapidly.
 >
 > **[0:12](https://www.linkedin.com/learning/business-acumen-for-project-managers/insights-on-startups?u=76281980&t=12)** But how do they do it?
 >
@@ -1704,7 +1679,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** product (5), business (5), [[Microsoft Products|Products]] (1), next (1)
+> **Frameworks & Libraries:** [[Microsoft Products|Products]] (1)
 > **Env Vars:** mvp (5), bmc (5)
 > **Analogies:** for example (3), such as (1)
 > **Definitions:** is a  (1)
@@ -1715,8 +1690,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Leverage your business acumen for project success
-> [LinkedIn Learning](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980)
+#### [Leverage your business acumen for project success](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -1728,7 +1702,7 @@ created: 2026-05-02
 >
 > **[0:19](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=19)** They need to build technical project management skills, leadership skills, and an understanding of strategic and business management.
 >
-> **[0:28](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=28)** Our focus in this course has been on building business acumen, the strategic and business management part of the talent triangle.
+> **[0:28](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=28)** Our focus in this course has been on building [[Business Acumen]], the strategic and business management part of the talent triangle.
 >
 > **[0:36](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=36)** Business acumen starts with an understanding of the problem that your organization exists to solve.
 >
@@ -1752,7 +1726,7 @@ created: 2026-05-02
 >
 > **[1:51](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=111)** That's a big challenge, but it can also be very rewarding.
 >
-> **[1:55](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=115)** A project manager with a real understanding of accounting, human resources, IT, and all of the other functions in a company has a much broader view than most other managers.
+> **[1:55](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=115)** A project manager with a real understanding of accounting, [[Human Resources (HR)|human resources]], IT, and all of the other functions in a company has a much broader view than most other managers.
 >
 > **[2:08](https://www.linkedin.com/learning/business-acumen-for-project-managers/leverage-your-business-acumen-for-project-success?u=76281980&t=128)** And working with these groups provides exposure to a broader range of leaders and opportunities than virtually any other career could.
 >
@@ -1766,7 +1740,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** business (8), management (6), leadership (1), [[Human Resources (HR)|Human resources]] (1), career (1)
+> **Frameworks & Libraries:** [[Business Acumen]] (4), [[Human Resources (HR)|Human resources]] (1)
 > **CLI Commands:** find (1)
 > **Definitions:** is an  (1)
 > **Analogies:** it's like (1)

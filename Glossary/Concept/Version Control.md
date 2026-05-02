@@ -30,7 +30,7 @@ created: 2026-05-02
 ## Courses
 
 1. [[Data Versioning, Lineage, and Quality Monitoring for AI]] — 52 mentions
-2. [[Azure DevOps for Beginners]] — 23 mentions
+2. [[Azure DevOps for Beginners]] — 24 mentions
 3. [[DevOps Foundations- Continuous Delivery-Continuous Integration]] — 20 mentions
 4. [[Git from Scratch]] — 13 mentions
 5. [[NetOps (DevOps for Network Engineers)- Automating Networks]] — 12 mentions
@@ -67,31 +67,31 @@ created: 2026-05-02
 > 34. [[DevOps Foundations- Infrastructure as Code]] — 3 mentions
 > 35. [[Structured Vibe Coding with AI Coding Agents]] — 3 mentions
 > 36. [[AI Orchestration- Designing the Prototype Architecture and Data Strategy]] — 3 mentions
-> 37. [[Advanced Express]] — 3 mentions
-> 38. [[Prompt Engineering with LangChain]] — 3 mentions
-> 39. [[GitHub Dependabot- Dependency Updates]] — 3 mentions
-> 40. [[Learning Terraform]] — 3 mentions
-> 41. [[Object Oriented Programming With C Sharp]] — 2 mentions
-> 42. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
-> 43. [[AI Data Strategy- Data Procurement and Storage]] — 2 mentions
-> 44. [[Developing Ci Cd Solutions With Azure Devops]] — 2 mentions
-> 45. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 2 mentions
-> 46. [[Powershell 7 Essential Training]] — 2 mentions
-> 47. [[Integrating AI into the Product Architecture]] — 2 mentions
-> 48. [[End-to-End Data Engineering Project]] — 2 mentions
-> 49. [[Cloud Security Architecture for the Enterprise]] — 2 mentions
-> 50. [[Angular- Testing and Debugging]] — 2 mentions
-> 51. [[MLOps Tools- MLflow and Hugging Face]] — 2 mentions
-> 52. [[MLOps Essentials- Model Development and Integration]] — 2 mentions
-> 53. [[Complete Guide to Data Lakes and Lakehouses]] — 2 mentions
-> 54. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 2 mentions
-> 55. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 2 mentions
-> 56. [[Building Monorepos On Github]] — 2 mentions
-> 57. [[DevSecOps- Tips for Success]] — 2 mentions
-> 58. [[Succeeding in Web Development- Full Stack and Front End]] — 2 mentions
-> 59. [[Learning Vertex AI- MLOps with Google Cloud]] — 2 mentions
-> 60. [[Continuous Delivery for Cloud Native Java Apps]] — 2 mentions
-> 61. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 2 mentions
+> 37. [[Complete Guide to Data Lakes and Lakehouses]] — 3 mentions
+> 38. [[Advanced Express]] — 3 mentions
+> 39. [[Prompt Engineering with LangChain]] — 3 mentions
+> 40. [[GitHub Dependabot- Dependency Updates]] — 3 mentions
+> 41. [[Data-Centric AI- Best Practices, Responsible AI, and More]] — 3 mentions
+> 42. [[Learning Terraform]] — 3 mentions
+> 43. [[Object Oriented Programming With C Sharp]] — 2 mentions
+> 44. [[Implementing a Data Strategy for Responsible AI]] — 2 mentions
+> 45. [[AI Data Strategy- Data Procurement and Storage]] — 2 mentions
+> 46. [[Developing Ci Cd Solutions With Azure Devops]] — 2 mentions
+> 47. [[Azure Developer Associate (AZ-204) Cert Prep- Implement Azure Security]] — 2 mentions
+> 48. [[Powershell 7 Essential Training]] — 2 mentions
+> 49. [[Integrating AI into the Product Architecture]] — 2 mentions
+> 50. [[End-to-End Data Engineering Project]] — 2 mentions
+> 51. [[Cloud Security Architecture for the Enterprise]] — 2 mentions
+> 52. [[Angular- Testing and Debugging]] — 2 mentions
+> 53. [[MLOps Tools- MLflow and Hugging Face]] — 2 mentions
+> 54. [[MLOps Essentials- Model Development and Integration]] — 2 mentions
+> 55. [[Data Planning Strategy And Compliance For Ai Initiatives]] — 2 mentions
+> 56. [[Intro To Snowflake For Devs Data Scientists Data Engineers]] — 2 mentions
+> 57. [[Building Monorepos On Github]] — 2 mentions
+> 58. [[DevSecOps- Tips for Success]] — 2 mentions
+> 59. [[Succeeding in Web Development- Full Stack and Front End]] — 2 mentions
+> 60. [[Learning Vertex AI- MLOps with Google Cloud]] — 2 mentions
+> 61. [[Continuous Delivery for Cloud Native Java Apps]] — 2 mentions
 > 62. [[Kotlin Essential Training Functions Collections And I O]] — 2 mentions
 > 63. [[Get a Remote Data Science Job]] — 2 mentions
 > 64. [[Learning GitHub Codespaces for Enterprise]] — 2 mentions
@@ -180,8 +180,8 @@ created: 2026-05-02
 
 1. [[Working with Data- Engineering, Integration, and MLOps for AI]] — 58 total mentions
 2. [[Getting Started with DevOps]] — 37 total mentions
-3. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 28 total mentions
-4. [[Getting Started as an Azure Developer]] — 27 total mentions
+3. [[Getting Started as an Azure Developer]] — 28 total mentions
+4. [[DevOps Professional Certificate by PagerDuty and LinkedIn]] — 28 total mentions
 5. [[Getting Started with Continuous Integration - Continuous Delivery (CI-CD)]] — 21 total mentions
 6. [[The Top Skills Engineering Professionals Have Right Now]] — 13 total mentions
 7. [[Network Automation Professional Certificate by Arista Networks]] — 13 total mentions

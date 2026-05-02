@@ -66,8 +66,7 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Prompt Flow: Your toolkit to build AI apps
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
+#### [Prompt Flow: Your toolkit to build AI apps](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -75,11 +74,11 @@ created: 2026-05-02
 >
 > **[0:01](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=1)** What you're seeing is the conditional flow of data through an AI powered app.
 >
-> **[0:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=5)** And this visualization is part of an open source AI development suite called Prompt Flow that gives you new capabilities to prototype, test, develop, and build advanced AI powered apps.
+> **[0:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=5)** And this visualization is part of an open source AI development suite called [[Prompt Flow]] that gives you new capabilities to prototype, test, develop, and build advanced AI powered apps.
 >
 > **[0:16](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=16)** Give me half an hour of your time and we'll explore Prompt Flow and what it has to offer.
 >
-> **[0:20](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=20)** Along the way, you'll familiarize yourself with LLM Connections, custom Python tools, and the various debugging, experimentation and validation features Prompt Flow provides to help you build your AI app.
+> **[0:20](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=20)** Along the way, you'll familiarize yourself with LLM Connections, custom [[Python (Programming Language)|Python]] tools, and the various debugging, experimentation and validation features Prompt Flow provides to help you build your AI app.
 >
 > **[0:32](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-flow-your-toolkit-to-build-ai-apps?u=76281980&t=32)** This course is the first of a pair, so once you're done, go check out Prompt Flow Hands On and get working with Prompt Flow in a step by step, hands-on project using OpenAI, Mistral AI, and a heavy dose of custom Python.
 >
@@ -89,7 +88,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (6), prompt (5), [[Python (Programming Language)|Python]] (2), data (1), llm (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (5), [[Python (Programming Language)|Python]] (2)
 > **CLI Commands:** python (2)
 > **Env Vars:** llm (1)
 > **Speakers:** - take (1)
@@ -99,14 +98,13 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### What is Prompt Flow?
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
+#### [What is Prompt Flow?](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=0)** - Prompt Flow is an AI development framework for Microsoft released in two flavors, the open source library covered in this course, and a specialized version integrated into Azure AI Studio.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=0)** - [[Prompt Flow]] is an AI development framework for [[Microsoft]] released in two flavors, the open source library covered in this course, and a specialized version integrated into [[Azure AI Studio]].
 >
-> **[0:10](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=10)** Using Prompt Flow gives you a structured environment where you can create flows that link small and large language models, prompts, Python code, and other tools as modules, you can inspect, connect, debug, and run independently or as a whole.
+> **[0:10](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=10)** Using Prompt Flow gives you a structured environment where you can create flows that link small and [[Large Language Models (LLM)|large language models]], prompts, [[Python (Programming Language)|Python]] code, and other tools as modules, you can inspect, connect, debug, and run independently or as a whole.
 >
 > **[0:26](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=26)** This adds greater flexibility and observability to AI development and makes it easier to do things like experiment with different prompts, run batch tests, and deploy prototypes for real world testing.
 >
@@ -128,37 +126,36 @@ created: 2026-05-02
 >
 > **[1:57](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=117)** Now, as you can tell from what I just said, prompt flow is a huge framework with a lot of functionality, far more than I can cover in this short course.
 >
-> **[2:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=125)** So we'll explore the prompt flow GitHub repository, the prompt flow VS code extension, and how to run the huge array of examples provided.
+> **[2:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=125)** So we'll explore the prompt flow [[GitHub]] repository, the prompt flow VS code extension, and how to run the huge array of examples provided.
 >
 > **[2:12](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/what-is-prompt-flow?u=76281980&t=132)** And then by the end of the course, you'll have what you need to integrate prompt flow into your workflow and explore all this framework has to offer.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (11), ai (5), [[Python (Programming Language)|Python]] (2), node (2), [[Microsoft]] (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (10), [[Python (Programming Language)|Python]] (2), [[Microsoft]] (1), [[Azure AI Studio]] (1), [[Large Language Models (LLM)|Large language models]] (1)
 > **CLI Commands:** python (2), node (2), make (1), docker (1)
 > **Tools:** vs code (2), github (1)
 > **Definitions:** is an  (1), is a  (1)
 > **Env Vars:** llm (1)
 > **Speakers:** - prompt (1)
 
-#### Exploring the Prompt Flow repo in Codespaces
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980)
+#### [Exploring the Prompt Flow repo in Codespaces](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=0)** - [Instructor] This course focuses on the open source prompt flow project, so the logical place to start is in its official GitHub repository.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=0)** - [Instructor] This course focuses on the open source [[Prompt Flow]] project, so the logical place to start is in its official [[GitHub]] repository.
 >
 > **[0:08](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=8)** This repository contains not only the framework itself, but also the documentation, examples, and tutorials on how to use prompt flow.
 >
 > **[0:16](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=16)** So this is the place to return anytime you're trying to do something and you need to figure it out, or if you need code examples to start a new flow.
 >
-> **[0:24](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=24)** What we're going to do is boot up this repository in Codespaces.
+> **[0:24](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=24)** What we're going to do is boot up this repository in [[Codespaces]].
 >
 > **[0:28](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=28)** You can do that either by clicking the Code button and going to Codespaces and click New codespace, or by scrolling down to Installation and clicking on Open in GitHub Codespace.
 >
 > **[0:38](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=38)** If you can't open it in Codespace, you can also open this project locally on your computer by cloning the project into your computer.
 >
-> **[0:45](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=45)** If you do so, to get it to work, you need to install a Python environment, a Docker environment, and you need to install all the dependencies.
+> **[0:45](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=45)** If you do so, to get it to work, you need to install a [[Python (Programming Language)|Python]] environment, a Docker environment, and you need to install all the dependencies.
 >
 > **[0:53](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=53)** And all of that is described down here in the README file.
 >
@@ -210,7 +207,7 @@ created: 2026-05-02
 >
 > **[3:26](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=206)** There's also a folder called prompty.
 >
-> **[3:28](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=208)** I mention this because prompty is a second open source project from Microsoft that connects with prompt flow, but is not bound to prompt flow.
+> **[3:28](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=208)** I mention this because prompty is a second open source project from [[Microsoft]] that connects with prompt flow, but is not bound to prompt flow.
 >
 > **[3:38](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-repo-in-codespaces?u=76281980&t=218)** The goal of prompty is to create files that contain all the information you need to prompt an AI system in a unified way so that you can swap out the model quickly without having to make any other changes.
 >
@@ -240,7 +237,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (14), [[Python (Programming Language)|Python]] (6), ai (3), [[GitHub]] (2), [[Codespaces]] (2)
+> **Frameworks & Libraries:** [[Prompt Flow]] (12), [[Python (Programming Language)|Python]] (6), [[GitHub]] (2), [[Codespaces]] (2), [[Microsoft]] (1)
 > **CLI Commands:** python (6), find (4), docker (2), make (1)
 > **Definitions:** is a  (5), is an  (2)
 > **Env Vars:** readme (2), pdf (1), llm (1)
@@ -249,16 +246,15 @@ created: 2026-05-02
 > **Cross-References:** later in (2)
 > **Documentation:** the documentation (1), the readme (1)
 
-#### Exploring the Prompt Flow VS Code extension
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980)
+#### [Exploring the Prompt Flow VS Code extension](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=0)** - [Instructor] The prompt flow VS Code extension gives you full access to all the features of prompt flow from within VS code without having to do a bunch of CLI coding to get to the different pieces.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=0)** - [Instructor] The [[Prompt Flow]] VS Code extension gives you full access to all the features of prompt flow from within VS code without having to do a bunch of [[CLI]] coding to get to the different pieces.
 >
 > **[0:11](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=11)** And more importantly, it gives us the visualization of our flows, that's so important for the whole flow concept.
 >
-> **[0:19](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=19)** In the code space for the prompt flow GitHub repository, it's already installed and configured.
+> **[0:19](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=19)** In the code space for the prompt flow [[GitHub]] repository, it's already installed and configured.
 >
 > **[0:23](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=23)** If you're working on your local computer, you can install it directly from the VS Code marketplace.
 >
@@ -280,7 +276,7 @@ created: 2026-05-02
 >
 > **[1:20](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=80)** Below that we have tools, these are the different components that go into a flow.
 >
-> **[1:24](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=84)** We have Python tools and LLMs and prompts and all sorts of things, and you can go through this list and see what's available.
+> **[1:24](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=84)** We have [[Python (Programming Language)|Python]] tools and LLMs and prompts and all sorts of things, and you can go through this list and see what's available.
 >
 > **[1:32](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=92)** Then there's the batch run history.
 >
@@ -288,7 +284,7 @@ created: 2026-05-02
 >
 > **[1:39](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=99)** And at the bottom we have connections, this is where you configure connections to the AI services you'll be using.
 >
-> **[1:44](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=104)** Here we have Azure Content Safety, Azure OpenAI, Azure AI Search, custom OpenAI, and a series of other options.
+> **[1:44](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=104)** Here we have [[Microsoft Azure|Azure]] Content Safety, Azure OpenAI, Azure AI Search, custom OpenAI, and a series of other options.
 >
 > **[1:54](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/exploring-the-prompt-flow-vs-code-extension?u=76281980&t=114)** In the next video, I'll show you how to create a new open AI connection so you can run some of these examples.
 >
@@ -342,7 +338,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (6), ai (5), [[Microsoft Azure|Azure]] (3), [[Search]] (3), [[GitHub]] (2)
+> **Frameworks & Libraries:** [[Prompt Flow]] (6), [[Microsoft Azure|Azure]] (3), [[GitHub]] (2), [[CLI]] (1), [[Python (Programming Language)|Python]] (1)
 > **Tools:** vs code (5), github (2)
 > **CLI Commands:** make (3), python (1), node (1), docker (1)
 > **Env Vars:** yaml (2), cli (1), stk (1), url (1), gui (1)
@@ -351,12 +347,11 @@ created: 2026-05-02
 > **Cross-References:** in the next (2), we talked about (1), previous video (1)
 > **File Paths:** flow.dag.yaml (1)
 
-#### Creating a connection to OpenAI
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980)
+#### [Creating a connection to OpenAI](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=0)** - [Instructor] To run a prompt flow that has an AI component, you first need to create a connection for prompt flow to connect to whatever AI service you're using.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=0)** - [Instructor] To run a [[Prompt Flow]] that has an AI component, you first need to create a connection for prompt flow to connect to whatever AI service you're using.
 >
 > **[0:07](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=7)** There are two ways of doing this.
 >
@@ -366,7 +361,7 @@ created: 2026-05-02
 >
 > **[0:16](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=16)** You can scroll down to quick start and here you see the code.
 >
-> **[0:20](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=20)** So you call in pf, which is the prompt flow CLI.
+> **[0:20](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=20)** So you call in pf, which is the prompt flow [[CLI]].
 >
 > **[0:23](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=23)** Then you call in connection create to create a new one, file as you're creating a new file, you place the file in your project folder.
 >
@@ -374,7 +369,7 @@ created: 2026-05-02
 >
 > **[0:36](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=36)** And then you set the API key to your API key and name the connection something that you will then later call in to your prompt flow.
 >
-> **[0:44](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=44)** The examples that are provided here are for OpenAI and for OpenAI on Azure.
+> **[0:44](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=44)** The examples that are provided here are for OpenAI and for OpenAI on [[Microsoft Azure|Azure]].
 >
 > **[0:49](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=49)** But you can also use other examples and there are more examples in the examples folder.
 >
@@ -428,7 +423,7 @@ created: 2026-05-02
 >
 > **[2:56](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=176)** And yes, I said this code space is fully set up to do everything, it is with one weird caveat.
 >
-> **[3:03](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=183)** For the system to be able to save a an environment variable, you need to install an additional Python extension.
+> **[3:03](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=183)** For the system to be able to save a an environment variable, you need to install an additional [[Python (Programming Language)|Python]] extension.
 >
 > **[3:10](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/creating-a-connection-to-openai?u=76281980&t=190)** And as I'm recording this, there is a discussion going on in the repo on whether or not that extension should be auto installed or not.
 >
@@ -452,7 +447,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (10), api (10), ai (2), application (2), [[CLI]] (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (8), [[CLI]] (1), [[Microsoft Azure|Azure]] (1), [[Python (Programming Language)|Python]] (1)
 > **Env Vars:** api (9), cli (1), llm (1)
 > **Tools:** command line (5), terminal (1)
 > **Prerequisites:** install (3), set up (1)
@@ -461,8 +456,7 @@ created: 2026-05-02
 > **CLI Commands:** python (1), pip (1)
 > **Definitions:** is a  (2)
 
-#### Running Prompt Flow examples
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/running-prompt-flow-examples?u=76281980)
+#### [Running Prompt Flow examples](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/running-prompt-flow-examples?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -580,7 +574,6 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** node (3), [[Debugging]] (1), application (1), api (1), power (1)
 > **Definitions:** is a  (4), is an  (2)
 > **Tools:** command line (3), terminal (2)
 > **CLI Commands:** node (3), find (1)
@@ -588,13 +581,13 @@ created: 2026-05-02
 > **Env Vars:** readme (1), api (1)
 > **UI Navigation:** click on (2)
 > **File Paths:** dag.yaml (1)
+> **Documentation:** the readme (1)
 
-#### Anatomy of a Prompt Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980)
+#### [Anatomy of a Prompt Flow](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=0)** - [Instructor] Let's talk about the anatomy of a prompt flow because looking at this display and looking at how the file structure is organized, it can be quite overwhelming until you understand what's going on.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=0)** - [Instructor] Let's talk about the anatomy of a [[Prompt Flow]] because looking at this display and looking at how the file structure is organized, it can be quite overwhelming until you understand what's going on.
 >
 > **[0:12](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=12)** In a prompt flow, there are a couple of rules that always have to be followed.
 >
@@ -626,7 +619,7 @@ created: 2026-05-02
 >
 > **[1:49](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=109)** We can set up what type of API we're using.
 >
-> **[1:51](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=111)** We can set up the model we're using, the temperature, the max tokens.
+> **[1:51](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=111)** We can set up the model we're using, the temperature, the max [[Tokens]].
 >
 > **[1:55](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=115)** Open advanced parameters, there's even more parameters you can set up, and you can also do function calling.
 >
@@ -654,7 +647,7 @@ created: 2026-05-02
 >
 > **[2:59](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=179)** If there's an LLM component in it, there will likely be a jinja2 file which contains the prompts.
 >
-> **[3:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=185)** And for each prompt flow project folder, there will always be a requirements.txt file specifying which Python dependencies this project depends on.
+> **[3:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=185)** And for each prompt flow project folder, there will always be a requirements.txt file specifying which [[Python (Programming Language)|Python]] dependencies this project depends on.
 >
 > **[3:14](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/anatomy-of-a-prompt-flow?u=76281980&t=194)** And in every case, it'll be promptflow and promptflow-tools, but it may also be additional dependencies depending on what is being used in other tools.
 >
@@ -700,7 +693,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (12), llm (9), [[Python (Programming Language)|Python]] (3), data (2), api (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (7), [[Python (Programming Language)|Python]] (3), [[Tokens]] (1)
 > **Env Vars:** llm (9), api (1), url (1)
 > **Code Identifiers:** chat_history (3), open_ai (1), content_safety_check (1), llm_results (1), default_results (1)
 > **CLI Commands:** python (3), find (2)
@@ -709,8 +702,7 @@ created: 2026-05-02
 > **File Paths:** dag.yaml (1), requirements.txt (1)
 > **UI Navigation:** go to (2)
 
-#### Prompt variants
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980)
+#### [Prompt variants](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980)
 
 > [!transcript]- Transcript
 >
@@ -786,7 +778,7 @@ created: 2026-05-02
 >
 > **[2:53](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980&t=173)** And I can do this across any of my components, so I can build different variants and test which one works best and which one is functioning the way I want to.
 >
-> **[3:01](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980&t=181)** And then once I know, I'll pick only that variant and delete the rest.
+> **[3:01](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980&t=181)** And then once I know, I'll pick only that variant and delete the [[Representational State Transfer (REST)|rest]].
 >
 > **[3:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/prompt-variants?u=76281980&t=185)** Because now that I have all these variants on display, I can go in and duplicate the new variant into another one, or I can delete the variant I don't want.
 >
@@ -800,7 +792,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** prompt (5), ai (4), [[Representational State Transfer (REST)|Rest]] (1), feature (1)
+> **Frameworks & Libraries:** [[Representational State Transfer (REST)|Rest]] (1)
 > **UI Navigation:** click on (4), scroll up (1)
 > **CLI Commands:** make (2)
 > **Definitions:** is a  (2)
@@ -809,14 +801,13 @@ created: 2026-05-02
 > **Tools:** terminal (1)
 > **Speakers:** - [instructor] (1)
 
-#### Batch testing of flows
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980)
+#### [Batch testing of flows](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980)
 
 > [!transcript]- Transcript
 >
 > **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=0)** - [Instructor] Take it from me, advanced AI apps can be quite temperamental.
 >
-> **[0:04](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=4)** And as your prompt flow becomes more complex, it's vital that you run unit tests to ensure that all your conditions are met and that your output is what you want it to be no matter what information gets put in.
+> **[0:04](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=4)** And as your [[Prompt Flow]] becomes more complex, it's vital that you run unit tests to ensure that all your conditions are met and that your output is what you want it to be no matter what information gets put in.
 >
 > **[0:19](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=19)** Now, practically speaking, we can do that in different ways.
 >
@@ -826,7 +817,7 @@ created: 2026-05-02
 >
 > **[0:32](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=32)** The good news is prompt flow has a tool for this.
 >
-> **[0:34](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=34)** We can run a prompt flow in batches based on different types of files, and the most common one is to use a JSON L file.
+> **[0:34](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=34)** We can run a prompt flow in batches based on different types of files, and the most common one is to use a [[JSON]] L file.
 >
 > **[0:43](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/batch-testing-of-flows?u=76281980&t=43)** For this project examples > flows > standard > conditional-flow-for-switch, there is such a JSON L file already created.
 >
@@ -920,7 +911,7 @@ created: 2026-05-02
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** [[JSON]] (8), prompt (7), data (4), product (4), [[Search]] (4)
+> **Frameworks & Libraries:** [[JSON]] (8), [[Prompt Flow]] (7)
 > **Env Vars:** json (8), llm (1), csv (1)
 > **CLI Commands:** find (2)
 > **UI Navigation:** scroll down (1), click on (1)
@@ -934,26 +925,25 @@ created: 2026-05-02
 
 [↑ Back to Table of Contents](#table-of-contents)
 
-#### Going further with Prompt Flow
-> [LinkedIn Learning](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)
+#### [Going further with Prompt Flow](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980)
 
 > [!transcript]- Transcript
 >
-> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=0)** - And just like that, you've reached the end of this course and the beginning of your journey with prompt flow.
+> **[0:00](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=0)** - And just like that, you've reached the end of this course and the beginning of your journey with [[Prompt Flow]].
 >
-> **[0:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=5)** For a deeper dive into everything prompt flow offers, go check out the official GitHub repository and the huge list of plug and play examples it contains.
+> **[0:05](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=5)** For a deeper dive into everything prompt flow offers, go check out the official [[GitHub]] repository and the huge list of plug and play examples it contains.
 >
 > **[0:14](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=14)** And as always, make liberal use of the official documentation for the project.
 >
 > **[0:18](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=18)** Here you'll find quick start guides, tutorials, examples, and detailed breakdowns of all the advanced features of this framework I didn't have time to cover here, so you can get full use out of it.
 >
-> **[0:29](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=29)** As you continue your learning journey with AI, make sure to check out our constantly expanding list of AI courses right here on LinkedIn Learning, and follow me on LinkedIn for critical insights analysis and discussion of AI and how we build our future with it.
+> **[0:29](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=29)** As you continue your learning journey with AI, make sure to check out our constantly expanding list of AI courses right here on [[LinkedIn]] Learning, and follow me on LinkedIn for critical insights analysis and discussion of AI and how we build our future with it.
 >
 > **[0:42](https://www.linkedin.com/learning/building-advanced-ai-apps-with-prompt-flow/going-further-with-prompt-flow?u=76281980&t=42)** Now, all that's left for me to say is, (instructor speaks in foreign language) go build some advanced AI apps with prompt flow, and I'll see you in the next course.
 
 > [!info]- Semantic Content
 >
-> **Frameworks & Libraries:** ai (4), prompt (3), [[LinkedIn]] (2), [[GitHub]] (1), next (1)
+> **Frameworks & Libraries:** [[Prompt Flow]] (3), [[LinkedIn]] (2), [[GitHub]] (1)
 > **CLI Commands:** make (2), find (1), go build (1)
 > **Cross-References:** in the next (1)
 > **Tools:** github (1)
